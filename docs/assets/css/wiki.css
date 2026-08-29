@@ -7647,3 +7647,55 @@ body.home-page .rail-action {
   white-space: nowrap !important;
   font-size: 0.82rem !important;
 }
+
+
+/* Master archives: LC-style portal tiles that FIT the center column */
+body.home-page .archive-portal-grid {
+  display: grid !important;
+  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+  gap: 14px !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  margin: 18px 0 8px !important;
+}
+
+body.home-page .archive-portal {
+  min-width: 0 !important;
+  max-width: 100% !important;
+  min-height: 170px !important;
+  overflow: hidden !important;
+  box-sizing: border-box !important;
+}
+
+body.home-page .archive-portal > span {
+  max-width: calc(100% - 16px) !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+}
+
+body.home-page .archive-portal img {
+  width: 72px !important;
+  height: 72px !important;
+  max-width: 70% !important;
+  object-fit: contain !important;
+  margin: 8px auto 6px !important;
+}
+
+body.home-page .archive-portal b,
+body.home-page .archive-portal small {
+  max-width: 100% !important;
+  overflow-wrap: anywhere !important;
+  padding: 0 8px !important;
+}
+
+body.home-page .archive-portal small {
+  display: block !important;
+}
+
+@media (max-width: 1100px) {
+  body.home-page .archive-portal-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+}
