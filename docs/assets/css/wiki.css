@@ -7571,3 +7571,79 @@ body.home-page .portal-cat-box li span {
   text-overflow: ellipsis !important;
   white-space: nowrap !important;
 }
+
+
+/* Right rail = wiki.gg department buttons, contained in the column */
+body.home-page .floor-rail {
+  min-width: 0 !important;
+  max-width: 100% !important;
+  overflow-x: hidden !important;
+  padding: 22px 12px 28px !important;
+  box-sizing: border-box !important;
+}
+
+body.home-page .floor-rail > h2 {
+  font: 1.15rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.1em !important;
+  color: #f1df76 !important;
+  text-align: center !important;
+  margin: 0 0 14px !important;
+}
+
+body.home-page .floor-button {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  height: 54px !important;
+  margin: 6px 0 !important;
+  padding: 6px 10px 6px 26px !important;
+  box-sizing: border-box !important;
+  overflow: hidden !important;
+  text-decoration: none !important;
+  gap: 8px !important;
+}
+
+body.home-page .floor-button span {
+  min-width: 0 !important;
+  flex: 1 1 auto !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+  font-size: 0.82rem !important;
+}
+
+body.home-page .floor-button small {
+  display: block !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+  font-size: 0.58rem !important;
+}
+
+body.home-page .floor-button img {
+  width: 36px !important;
+  height: 36px !important;
+  min-width: 36px !important;
+  max-width: 36px !important;
+  flex-shrink: 0 !important;
+  object-fit: contain !important;
+  border-radius: 50% !important;
+  border: 1.5px solid currentColor !important;
+  background: #05070c !important;
+}
+
+body.home-page .rail-action {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+  margin-top: 10px !important;
+  padding: 10px 8px !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+  font-size: 0.82rem !important;
+}
