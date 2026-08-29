@@ -7305,9 +7305,9 @@ table td img,
 }
 
 /* =========================================================================
-   TABLE BOX CONTAINMENT ONLY
-   Keep the industrial gold/cyan table style. Scroll inside the gold wrapper.
-   Do not restyle icons, hubs, rails, or table chrome.
+   HOMEPAGE CONTAINMENT + CANONICAL BANNERS
+   Keep industrial gold/cyan tables, 112px hub icons, rails.
+   Scroll wide tables inside the gold wrapper. Clip nothing out of the box.
    ========================================================================= */
 
 body.home-page .wiki-shell.home-shell,
@@ -7316,18 +7316,95 @@ body.home-page main.main,
 body.home-page .pm-section-block,
 body.home-page .featured-spotlight-grid,
 body.home-page .spotlight-body,
+body.home-page .spotlight-visual,
 body.home-page .spotlight-data-table,
 body.home-page .master-hub-grid,
 body.home-page .portal-category-grid,
 body.home-page .pm-dispatch-banner,
 body.home-page .master-hub-card,
-body.home-page .portal-cat-box {
+body.home-page .portal-cat-box,
+body.home-page .pm-hero-container,
+body.home-page .floor-rail,
+body.home-page .left-rail {
+  min-width: 0 !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+body.home-page .pm-section-block,
+body.home-page .featured-spotlight-grid,
+body.home-page .master-hub-card,
+body.home-page .portal-cat-box,
+body.home-page .pm-dispatch-banner,
+body.home-page .pm-hero-container,
+body.home-page .floor-card-link,
+body.home-page .spotlight-cycle-banner {
+  overflow-x: clip !important;
+}
+
+body.home-page .page-tabs {
+  height: auto !important;
+  min-height: 38px !important;
+  flex-wrap: wrap !important;
+  max-width: 100% !important;
+}
+
+body.home-page .pm-slogan-bar,
+body.home-page .section-title-bar,
+body.home-page .dispatch-header,
+body.home-page .hub-card-header,
+body.home-page .hub-card-body,
+body.home-page .hub-card-footer,
+body.home-page .spotlight-actions,
+body.home-page .spotlight-badges,
+body.home-page .console-header-top,
+body.home-page .console-status-bar {
+  flex-wrap: wrap !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+}
+
+body.home-page .section-title-bar h2,
+body.home-page .title-sub,
+body.home-page .pm-slogan-bar,
+body.home-page .hub-card-title,
+body.home-page .hub-card-desc,
+body.home-page .hub-card-sub,
+body.home-page .dispatch-item span,
+body.home-page .pm-hero-subtext,
+body.home-page .pm-brand-text h1,
+body.home-page .portal-cat-box li a {
+  overflow-wrap: break-word !important;
+  word-break: break-word !important;
+  white-space: normal !important;
   min-width: 0 !important;
   max-width: 100% !important;
 }
 
 body.home-page .featured-spotlight-grid {
   grid-template-columns: minmax(0, 220px) minmax(0, 1fr) !important;
+}
+
+body.home-page .spotlight-cycle-banner {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 0 12px 0 !important;
+}
+
+body.home-page .spotlight-cycle-banner img,
+body.home-page .panoramic-banner-img {
+  width: 100% !important;
+  height: auto !important;
+  max-height: 180px !important;
+  object-fit: cover !important;
+  display: block !important;
+}
+
+body.home-page .spotlight-img {
+  width: min(150px, 100%) !important;
+  height: auto !important;
+  max-width: 100% !important;
+  object-fit: contain !important;
 }
 
 body.home-page .pm-table-wrapper,
@@ -7339,7 +7416,6 @@ body.home-page .spotlight-data-table {
   overflow-x: auto !important;
 }
 
-/* Table may grow wider than the gold box; the wrapper scrolls. */
 body.home-page .pm-table-wrapper > table,
 body.home-page .table-wrap > table,
 body.home-page .spotlight-data-table > table {
@@ -7352,4 +7428,185 @@ body.home-page .spotlight-data-table > table {
 body.home-page .portal-category-grid,
 body.home-page .master-hub-grid {
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)) !important;
+}
+
+/* Hub cards: same panoramic banners as hub pages, edge-to-edge */
+body.home-page .master-hub-card {
+  overflow: hidden !important;
+  padding: 0 0 1.4rem 0 !important;
+}
+
+body.home-page .hub-card-banner {
+  width: 100% !important;
+  height: 88px !important;
+  overflow: hidden !important;
+  border-bottom: 1.5px solid rgba(241, 223, 118, 0.28) !important;
+}
+
+body.home-page .hub-card-banner-img {
+  width: 100% !important;
+  height: 88px !important;
+  object-fit: cover !important;
+  object-position: center !important;
+  display: block !important;
+}
+
+body.home-page .hub-card-header,
+body.home-page .hub-card-body,
+body.home-page .hub-card-footer {
+  padding-left: 1.4rem !important;
+  padding-right: 1.4rem !important;
+}
+
+body.home-page .hub-card-header {
+  padding-top: 12px !important;
+}
+
+body.home-page .hub-card-icon {
+  width: 112px !important;
+  height: 112px !important;
+  min-width: 112px !important;
+  max-width: 112px !important;
+  flex-shrink: 0 !important;
+}
+
+body.home-page .hub-card-info {
+  min-width: 0 !important;
+  flex: 1 1 140px !important;
+}
+
+/* Right rail floor cards: HTML classes were unstyled so banners spilled */
+body.home-page .floor-button-list {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 8px !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+}
+
+body.home-page .floor-card-link {
+  display: block !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+  overflow: hidden !important;
+  text-decoration: none !important;
+  background: #080c14 !important;
+  border: 2px solid #24354c !important;
+  border-radius: 6px !important;
+  box-sizing: border-box !important;
+}
+
+body.home-page .floor-card-banner {
+  position: relative !important;
+  width: 100% !important;
+  height: 68px !important;
+  overflow: hidden !important;
+}
+
+body.home-page .floor-banner-img {
+  width: 100% !important;
+  height: 68px !important;
+  object-fit: cover !important;
+  display: block !important;
+}
+
+body.home-page .floor-badge-tag {
+  position: absolute !important;
+  top: 6px !important;
+  left: 8px !important;
+  z-index: 1 !important;
+  font: 0.62rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.08em !important;
+  padding: 2px 7px !important;
+  border-radius: 3px !important;
+  background: #141207 !important;
+  color: #f1df76 !important;
+  border: 1px solid #ca8a04 !important;
+}
+
+body.home-page .floor-card-body {
+  gap: 8px !important;
+  min-width: 0 !important;
+}
+
+body.home-page .floor-lead-avatar-wrap {
+  flex-shrink: 0 !important;
+}
+
+body.home-page .floor-avatar-img {
+  width: 36px !important;
+  height: 36px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  border: 2px solid #38bdf8 !important;
+  background: #060d18 !important;
+  display: block !important;
+}
+
+body.home-page .floor-info-text {
+  min-width: 0 !important;
+  flex: 1 1 auto !important;
+}
+
+body.home-page .floor-dept-name,
+body.home-page .floor-lead-name {
+  display: block !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+  max-width: 100% !important;
+}
+
+body.home-page .floor-dept-name {
+  color: #f1df76 !important;
+  font: 0.78rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.06em !important;
+}
+
+body.home-page .floor-lead-name {
+  color: #94a3b8 !important;
+  font-size: 0.68rem !important;
+}
+
+body.home-page .floor-nav-arrow {
+  color: #f1df76 !important;
+  flex-shrink: 0 !important;
+}
+
+body.home-page .blueprint-card-widget {
+  min-width: 0 !important;
+  max-width: 100% !important;
+}
+
+body.home-page .blueprint-widget-meta {
+  min-width: 0 !important;
+}
+
+body.home-page .widget-title,
+body.home-page .widget-sub {
+  display: block !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+  max-width: 100% !important;
+}
+
+body.home-page .portal-cat-box ul,
+body.home-page .portal-cat-box li {
+  min-width: 0 !important;
+  max-width: 100% !important;
+}
+
+body.home-page .portal-cat-box li a {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  min-width: 0 !important;
+}
+
+body.home-page .portal-cat-box li img {
+  width: 22px !important;
+  height: 22px !important;
+  flex-shrink: 0 !important;
+  object-fit: contain !important;
 }
