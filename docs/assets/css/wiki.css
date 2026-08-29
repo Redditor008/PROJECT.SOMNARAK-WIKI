@@ -7305,111 +7305,108 @@ table td img,
 }
 
 /* =========================================================================
-   HOMEPAGE CONTAINMENT + CANONICAL BANNERS
-   Keep industrial gold/cyan tables, 112px hub icons, rails.
-   Scroll wide tables inside the gold wrapper. Clip nothing out of the box.
+   HOMEPAGE: stay inside the three-column shell. No page-level sideways scroll.
+   Keep left rail, floor rail, hub cards, gold table boxes.
    ========================================================================= */
 
-body.home-page .wiki-shell.home-shell,
+html, body.home-page {
+  overflow-x: hidden !important;
+  max-width: 100% !important;
+}
+
+body.home-page .wiki-shell.home-shell {
+  width: min(1560px, calc(100% - 16px)) !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  overflow-x: hidden !important;
+  grid-template-columns: minmax(0, 190px) minmax(0, 1fr) minmax(0, 280px) !important;
+}
+
 body.home-page #content,
 body.home-page main.main,
 body.home-page .pm-section-block,
 body.home-page .featured-spotlight-grid,
 body.home-page .spotlight-body,
 body.home-page .spotlight-visual,
-body.home-page .spotlight-data-table,
 body.home-page .master-hub-grid,
 body.home-page .portal-category-grid,
 body.home-page .pm-dispatch-banner,
 body.home-page .master-hub-card,
 body.home-page .portal-cat-box,
 body.home-page .pm-hero-container,
-body.home-page .floor-rail,
-body.home-page .left-rail {
+body.home-page .left-rail,
+body.home-page .floor-rail {
   min-width: 0 !important;
   max-width: 100% !important;
   box-sizing: border-box !important;
 }
 
-body.home-page .pm-section-block,
-body.home-page .featured-spotlight-grid,
-body.home-page .master-hub-card,
-body.home-page .portal-cat-box,
-body.home-page .pm-dispatch-banner,
-body.home-page .pm-hero-container,
-body.home-page .floor-card-link,
-body.home-page .spotlight-cycle-banner {
-  overflow-x: clip !important;
+body.home-page #content {
+  overflow-x: hidden !important;
 }
 
 body.home-page .page-tabs {
   height: auto !important;
   min-height: 38px !important;
   flex-wrap: wrap !important;
-  max-width: 100% !important;
 }
 
+body.home-page .page-tabs span,
+body.home-page .page-tabs b,
 body.home-page .pm-slogan-bar,
 body.home-page .section-title-bar,
-body.home-page .dispatch-header,
-body.home-page .hub-card-header,
-body.home-page .hub-card-body,
-body.home-page .hub-card-footer,
-body.home-page .spotlight-actions,
-body.home-page .spotlight-badges,
-body.home-page .console-header-top,
-body.home-page .console-status-bar {
+body.home-page .section-title-bar h2,
+body.home-page .title-sub,
+body.home-page .dispatch-header {
+  white-space: normal !important;
+  overflow-wrap: anywhere !important;
   flex-wrap: wrap !important;
   min-width: 0 !important;
   max-width: 100% !important;
 }
 
-body.home-page .section-title-bar h2,
-body.home-page .title-sub,
-body.home-page .pm-slogan-bar,
-body.home-page .hub-card-title,
-body.home-page .hub-card-desc,
-body.home-page .hub-card-sub,
-body.home-page .dispatch-item span,
-body.home-page .pm-hero-subtext,
-body.home-page .pm-brand-text h1,
-body.home-page .portal-cat-box li a {
-  overflow-wrap: break-word !important;
-  word-break: break-word !important;
-  white-space: normal !important;
-  min-width: 0 !important;
-  max-width: 100% !important;
-}
-
 body.home-page .featured-spotlight-grid {
-  grid-template-columns: minmax(0, 220px) minmax(0, 1fr) !important;
-}
-
-body.home-page .spotlight-cycle-banner {
-  width: 100% !important;
-  max-width: 100% !important;
-  margin: 0 0 12px 0 !important;
-}
-
-body.home-page .spotlight-cycle-banner img,
-body.home-page .panoramic-banner-img {
-  width: 100% !important;
-  height: auto !important;
-  max-height: 180px !important;
-  object-fit: cover !important;
-  display: block !important;
+  grid-template-columns: minmax(0, 160px) minmax(0, 1fr) !important;
 }
 
 body.home-page .spotlight-img {
-  width: min(150px, 100%) !important;
+  width: min(140px, 100%) !important;
   height: auto !important;
   max-width: 100% !important;
-  object-fit: contain !important;
 }
 
+body.home-page .spotlight-facts {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  gap: 8px !important;
+  margin: 12px 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+body.home-page .spotlight-facts > div {
+  min-width: 0 !important;
+  background: #060a12 !important;
+  border: 1px solid #f1df76 !important;
+  padding: 8px 10px !important;
+}
+
+body.home-page .spotlight-facts dt {
+  font-size: 0.68rem !important;
+  letter-spacing: 0.08em !important;
+  color: #38bdf8 !important;
+  text-transform: uppercase !important;
+}
+
+body.home-page .spotlight-facts dd {
+  margin: 4px 0 0 !important;
+  overflow-wrap: anywhere !important;
+  word-break: break-word !important;
+}
+
+/* Tables stay tables, but they FIT the gold box instead of stretching the page */
 body.home-page .pm-table-wrapper,
-body.home-page .table-wrap,
-body.home-page .spotlight-data-table {
+body.home-page .table-wrap {
   width: 100% !important;
   max-width: 100% !important;
   min-width: 0 !important;
@@ -7418,64 +7415,76 @@ body.home-page .spotlight-data-table {
 
 body.home-page .pm-table-wrapper > table,
 body.home-page .table-wrap > table,
-body.home-page .spotlight-data-table > table {
-  width: max-content !important;
-  min-width: 100% !important;
-  max-width: none !important;
-  table-layout: auto !important;
+body.home-page .pm-table {
+  width: 100% !important;
+  max-width: 100% !important;
+  table-layout: fixed !important;
+}
+
+body.home-page .pm-table th,
+body.home-page .pm-table td {
+  white-space: normal !important;
+  overflow-wrap: anywhere !important;
+  word-break: break-word !important;
+  font-size: 0.78rem !important;
+}
+
+body.home-page .pm-table td img {
+  width: 28px !important;
+  height: 28px !important;
+  min-width: 28px !important;
+  min-height: 28px !important;
 }
 
 body.home-page .portal-category-grid,
 body.home-page .master-hub-grid {
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)) !important;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)) !important;
 }
 
-/* Hub cards: same panoramic banners as hub pages, edge-to-edge */
 body.home-page .master-hub-card {
   overflow: hidden !important;
-  padding: 0 0 1.4rem 0 !important;
 }
 
 body.home-page .hub-card-banner {
   width: 100% !important;
-  height: 88px !important;
+  height: 72px !important;
   overflow: hidden !important;
-  border-bottom: 1.5px solid rgba(241, 223, 118, 0.28) !important;
 }
 
 body.home-page .hub-card-banner-img {
   width: 100% !important;
-  height: 88px !important;
+  height: 72px !important;
   object-fit: cover !important;
-  object-position: center !important;
   display: block !important;
 }
 
-body.home-page .hub-card-header,
-body.home-page .hub-card-body,
-body.home-page .hub-card-footer {
-  padding-left: 1.4rem !important;
-  padding-right: 1.4rem !important;
-}
-
-body.home-page .hub-card-header {
-  padding-top: 12px !important;
-}
-
 body.home-page .hub-card-icon {
-  width: 112px !important;
-  height: 112px !important;
-  min-width: 112px !important;
-  max-width: 112px !important;
+  width: 72px !important;
+  height: 72px !important;
+  min-width: 72px !important;
+  max-width: 72px !important;
   flex-shrink: 0 !important;
 }
 
+body.home-page .hub-card-body,
+body.home-page .hub-card-header,
 body.home-page .hub-card-info {
   min-width: 0 !important;
-  flex: 1 1 140px !important;
+  max-width: 100% !important;
 }
 
-/* Right rail floor cards: HTML classes were unstyled so banners spilled */
+body.home-page .hub-card-title,
+body.home-page .hub-card-desc {
+  overflow-wrap: anywhere !important;
+  white-space: normal !important;
+}
+
+body.home-page .left-rail,
+body.home-page .floor-rail {
+  display: block !important;
+}
+
+
 body.home-page .floor-button-list {
   display: flex !important;
   flex-direction: column !important;
@@ -7493,19 +7502,18 @@ body.home-page .floor-card-link {
   background: #080c14 !important;
   border: 2px solid #24354c !important;
   border-radius: 6px !important;
-  box-sizing: border-box !important;
 }
 
 body.home-page .floor-card-banner {
   position: relative !important;
   width: 100% !important;
-  height: 68px !important;
+  height: 56px !important;
   overflow: hidden !important;
 }
 
 body.home-page .floor-banner-img {
   width: 100% !important;
-  height: 68px !important;
+  height: 56px !important;
   object-fit: cover !important;
   display: block !important;
 }
@@ -7514,38 +7522,24 @@ body.home-page .floor-badge-tag {
   position: absolute !important;
   top: 6px !important;
   left: 8px !important;
-  z-index: 1 !important;
   font: 0.62rem Impact, "Arial Narrow Bold", sans-serif !important;
-  letter-spacing: 0.08em !important;
   padding: 2px 7px !important;
-  border-radius: 3px !important;
   background: #141207 !important;
   color: #f1df76 !important;
   border: 1px solid #ca8a04 !important;
 }
 
-body.home-page .floor-card-body {
-  gap: 8px !important;
-  min-width: 0 !important;
-}
-
-body.home-page .floor-lead-avatar-wrap {
-  flex-shrink: 0 !important;
-}
-
 body.home-page .floor-avatar-img {
-  width: 36px !important;
-  height: 36px !important;
+  width: 32px !important;
+  height: 32px !important;
   border-radius: 50% !important;
   object-fit: cover !important;
   border: 2px solid #38bdf8 !important;
-  background: #060d18 !important;
-  display: block !important;
+  flex-shrink: 0 !important;
 }
 
 body.home-page .floor-info-text {
   min-width: 0 !important;
-  flex: 1 1 auto !important;
 }
 
 body.home-page .floor-dept-name,
@@ -7554,13 +7548,11 @@ body.home-page .floor-lead-name {
   overflow: hidden !important;
   text-overflow: ellipsis !important;
   white-space: nowrap !important;
-  max-width: 100% !important;
 }
 
 body.home-page .floor-dept-name {
   color: #f1df76 !important;
   font: 0.78rem Impact, "Arial Narrow Bold", sans-serif !important;
-  letter-spacing: 0.06em !important;
 }
 
 body.home-page .floor-lead-name {
@@ -7568,45 +7560,14 @@ body.home-page .floor-lead-name {
   font-size: 0.68rem !important;
 }
 
-body.home-page .floor-nav-arrow {
-  color: #f1df76 !important;
-  flex-shrink: 0 !important;
-}
-
-body.home-page .blueprint-card-widget {
+body.home-page .portal-cat-box li a {
   min-width: 0 !important;
   max-width: 100% !important;
 }
 
-body.home-page .blueprint-widget-meta {
+body.home-page .portal-cat-box li span {
   min-width: 0 !important;
-}
-
-body.home-page .widget-title,
-body.home-page .widget-sub {
-  display: block !important;
   overflow: hidden !important;
   text-overflow: ellipsis !important;
   white-space: nowrap !important;
-  max-width: 100% !important;
-}
-
-body.home-page .portal-cat-box ul,
-body.home-page .portal-cat-box li {
-  min-width: 0 !important;
-  max-width: 100% !important;
-}
-
-body.home-page .portal-cat-box li a {
-  display: flex !important;
-  align-items: center !important;
-  gap: 8px !important;
-  min-width: 0 !important;
-}
-
-body.home-page .portal-cat-box li img {
-  width: 22px !important;
-  height: 22px !important;
-  flex-shrink: 0 !important;
-  object-fit: contain !important;
 }
