@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120">
+<rect width="200" height="120" fill="#0b0e16"/>
+<rect x="85" y="10" width="30" height="90" rx="3" fill="#263238" opacity=".4" stroke="#2a2f37" stroke-width="1.5"/>
+<rect x="90" y="15" width="20" height="80" rx="2" fill="#37474f" opacity=".3"/>
+<circle cx="100" cy="30" r="3" fill="#2a2f37" opacity=".5"/><circle cx="100" cy="30" r="6" fill="none" stroke="#2a2f37" opacity=".2"/>
+<path d="M88 100 Q85 110 80 115" stroke="#2a2f37" stroke-width="1.5" fill="none" opacity=".4"/>
+<path d="M112 100 Q115 110 120 115" stroke="#2a2f37" stroke-width="1.5" fill="none" opacity=".4"/>
+<rect x="70" y="95" width="60" height="4" rx="2" fill="#37474f" opacity=".3"/>
+<text x="100" y="118" font-size="8" fill="#37474f" text-anchor="middle" font-family="sans-serif">THE GRIEVING COLOSSUS</text>
+</svg>

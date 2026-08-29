@@ -1,0 +1,286 @@
+# PROJECT SOMNARAK // MASTER HANDOFF PROTOCOL & ARCHIVAL SPECIFICATION
+**DOCUMENT CLASSIFICATION:** LEVEL-5 SOVEREIGN CLEARANCE / ONBOARDING DIRECTIVE  
+**TARGET RECIPIENT:** NEW CHATROOM SESSION & SUCCESSOR AI INSTANCE  
+**CANONICAL ERA:** YEAR 4,238 · THE DAWN INITIATIVE (POST-CYCLE ERA)  
+**BUILD STATUS:** 185 HTML ARTICLES · 1,082 SVG ASSETS · 0 BROKEN LINKS · 184 INDEXED SEARCH RECORDS
+
+---
+
+## 1. EXECUTIVE DIRECTIVE & ARCHIVAL OVERVIEW
+
+### 1.1 Purpose of This Document
+This document is the **definitive, non-negotiable master onboarding protocol** for any AI model, agent, developer, or archivist taking over the **Project Somnarak Master Wiki Encyclopedia**. It encapsulates the complete cosmological framework, mechanical systems, architectural patterns, UI/UX stylesheets, file trees, canonical lore constraints, and operational scripts.
+
+### 1.2 Core Philosophy: Pure Encyclopedia (Not Invention)
+> **CRITICAL RULE:** *You are an archivist and encyclopedia builder, NOT an author creating from scratch.*
+All foundational lore, characters, entity tales, damage matrices, facility floors, and municipal zones are **already established** in `/home/user/lore/The_REVERIE_DIRECTORATE.md` and `/home/user/lore/PROJECT_SOMNARAK.md`.
+- **Never reinvent or rename concepts that already exist in source.**
+- **Never import Project Moon / Lobotomy Corporation / Library of Ruina terminology.**
+- **Never fabricate character backstories or M.A.W. equipment when canonical entries exist.**
+- **Maintain 100% strict adherence to the source lore files.**
+
+---
+
+## 2. HARD CANONICAL CONSTRAINTS & VOCABULARY MATRIX
+
+### 2.1 Terminology Replacement Blacklist & Whitelist
+The Project Somnarak universe possesses a distinct, proprietary lexicon. Under no circumstances should legacy or third-party wiki terms be utilized:
+
+| FORBIDDEN / THIRD-PARTY TERM | MANDATORY CANONICAL SOMNARAK TERM | IN-UNIVERSE MEANING |
+|---|---|---|
+| *Abnormality / SCP / Monster* | **Sorrow Entity (SE-xxx / 슬픔 개체)** | Crystallized manifestations of human grief, regret, and trauma. |
+| *E.G.O (Weapon / Suit / Gift)* | **M.A.W. (Materialized Agony Wear / 물질화된 고통 의장)** | Weapons (`MAW-W`), Attire/Suits (`MAW-S`), and Artifacts/Gifts (`MAW-G`) extracted from entities. |
+| *Lobotomy Corp / L Corp* | **The Reverie Directorate (R.D. / 몽환관리국)** | The underground administrative authority managing Han and entities beneath the Alpha Tree. |
+| *Sephirah / Patron / AI Guide* | **Echo-Core Leads (공명핵 책임자)** | The 9 designated leaders who carry the weight of civic and entity sorrow. |
+| *Qliphoth Counter* | **Coherence Counter (응집도 계수) / Gauge** | The behavioral stability threshold of a Sorrow Entity chamber. |
+| *Energy / PE Boxes / Enkephalin* | **Han-Energy (한 에너지) / Echoes (잔향)** | Refined emotional flux utilized to power the city and forge M.A.W. |
+| *The Seed of Light* | **The Absolvohan (절대한 / Hand of Hope)** | The 47.3-ton Han-crystal dispersal field that broke the 1,778-Cycle reset. |
+| *The City / The Outskirts* | **Somnarak City (Zones A–G) / The Desolate (황폐지)** | The 7-district vertical metropolis surrounded by lethal Han-storm wastes. |
+
+---
+
+### 2.2 The Canonical Reverie Directorate Four Attributes
+**NEVER use Lobotomy Corporation stats (Fortitude, Prudence, Temperance, Justice).**  
+All R.D. personnel and Echo-Cores are measured on the **Four Canonical Attributes** specified in `The_REVERIE_DIRECTORATE.md`:
+
+```
+┌─────────────────────────┬──────────┬──────────────┬────────────────────────────────────────────────────────┐
+│ ATTRIBUTE               │ SYMBOL   │ COLOR        │ IN-UNIVERSE MEASURE & MECHANICAL EFFECT                │
+├─────────────────────────┼──────────┼──────────────┼────────────────────────────────────────────────────────┤
+│ 1. Resilience (탄력)    │ ♦        │ Deep Blue    │ Physical endurance, Max HP, M.A.W. load-bearing limit  │
+│ 2. Clarity (명료)       │ ♠        │ Pale White   │ Mental stability, Max SP, Void & Dream resistance      │
+│ 3. Composure (침착)     │ ♣        │ Crimson      │ Emotional control, Work efficiency, extraction accuracy│
+│ 4. Resolve (결의)       │ ★        │ Black / Gold │ Willpower, Attack interval speed, panic suppression    │
+└─────────────────────────┴──────────┴──────────────┴────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 2.3 The Canonical 4-Way Han Damage & Element Matrix
+Every attack, weapon, armor resistance, and entity hazard operates under the 4 primary Han aspects, plus Mixed and Hope:
+
+```
+┌─────────────────────┬──────────────┬──────────────┬────────────────────────────────────────────────────────┐
+│ DAMAGE TYPE         │ KR NAME      │ COLOR CODE   │ DAMAGE MECHANIC & SYSTEMIC EFFECT                      │
+├─────────────────────┼──────────────┼──────────────┼────────────────────────────────────────────────────────┤
+│ Grudge              │ 원한         │ #ef5b55      │ Direct Physical Trauma (Reduces HP directly).          │
+│ Lament              │ 비탄         │ #38bdf8      │ Psychic / Mental Erosion (Reduces SP; causes Panic).   │
+│ Void                │ 공허         │ #e2e8f0      │ Existential Decay (% Max HP soul corrosion).           │
+│ Weight              │ 중압         │ #64748b      │ Crushing Gravity Trauma (Inflicts both HP + SP damage).│
+│ Mixed               │ 혼합         │ Multi/Rainbow│ Multi-spectral sorrow wave (Calculated against all).   │
+│ Hope (Absolvohan)   │ 희망         │ #f1df76      │ Restoration flux (Purifies corruption and heals HP/SP).│
+└─────────────────────┴──────────────┴──────────────┴────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 3. THE NINE ECHO-CORE LEADS & CANONICAL ROSTER
+
+Every Echo-Core dossier in `01_Somnarak_Wiki/characters/` has been formatted with the exact canonical parameters from `The_REVERIE_DIRECTORATE.md`:
+
+```
+┌────┬──────────────────────┬────────┬──────────────────────────┬─────────────────────────────┬──────────────────────────────┬─────────────────────────────────────────────────────────┐
+│ #  │ CORE TITLE           │ GENDER │ STATION / FLOOR          │ CANONICAL TRUE LOOK         │ CANONICAL ATTRIBUTES         │ SIGNATURE EQUIPMENT / M.A.W. STATUS                     │
+├────┼──────────────────────┼────────┼──────────────────────────┼─────────────────────────────┼──────────────────────────────┼─────────────────────────────────────────────────────────┤
+│ 01 │ Director Majin       │ Man    │ Floor 1 / Alpha Tree     │ Living Human (Ω fused)      │ Res 95 / Cla 80 / Com 70 / 99│ Reaper Hungered (Ω Fused Scythe) + Phantom Reptile Beast│
+│ 02 │ Secretary Seiyon     │ Woman  │ Floor 1 / Gate Watch     │ AI Construct (Echo Effigy)  │ Res N/A/ Cla 99 / Com 85 / 60│ No conventional M.A.W.; Administrative Terminal Grid    │
+│ 03 │ Containment Dekan    │ Man    │ Floor 2 / The Maw        │ Cyborg (40–55% flesh)       │ Res 85 / Cla 60 / Com 75 / 90│ No personal M.A.W.; Maw-arm is integrated living anatomy│
+│ 04 │ Extraction Zyrak     │ Woman  │ Floor 3 / Collector's Row│ Android (0% organic)        │ Res 70 / Cla 80 / Com 90 / 75│ No personal M.A.W.; Siphon Extraction Dial Array        │
+│ 05 │ Research Ayshuk      │ Man    │ Floor 4 / Forge District │ Android (0% organic)        │ Res 60 / Cla 95 / Com 40 / 70│ No personal M.A.W.; Observation Prism Lens Array        │
+│ 06 │ Border Lead Mellda   │ Woman  │ Floor 5 / The Threshold  │ Cyborg (Effloresced soul)   │ Res 90 / Cla 70 / Com 80 / 85│ Threshold Vow (δ-equivalent cyborg arm) + Weight Wave   │
+│ 07 │ Archive Lead Marjuk  │ Man    │ Floor 6 / Deep Vault     │ Cryogen (80% Android frame) │ Res 50 / Cla 90 / Com 60 / 80│ No personal M.A.W.; 1,778-Cycle Comparative Ledger      │
+│ 08 │ The Outsider Ishall  │ Woman  │ Floor 7 / Shadow Corps   │ Android (Repurposed frame)  │ Res 80 / Cla 75 / Com 85 / 95│ Unanswered (δ-Critical paired remote artifact hands)    │
+│ 09 │ The Exile Xyan       │ Man    │ Floor 8 / Gate Watch     │ Cyborg (Desolate-crystal)   │ Res 85 / Cla 65 / Com 70 / 90│ No personal M.A.W.; Wields The Returning Way Route      │
+└────┴──────────────────────┴────────┴──────────────────────────┴─────────────────────────────┴──────────────────────────────┴─────────────────────────────────────────────────────────┘
+```
+
+### Secondary Field Operatives & Factions
+- **Commander Taeho (`UCD-01`)**: Strike leader of the 6 Underworld Cleanup Descend arcs. Wields Heavy Breach Shotgun & Carapace Armor.
+- **Cartographer Yeonhwa (`SED-01`)**: Senior scout of the Somnarak Exploration Decreed. Wields Surveyor Sextant Rapier & Memory Anchor Astrolabe.
+- **Investigator Minho (`UCD-02`)**: Undercover detective investigating illegal memory trade and taboo breaches.
+- **Entity Handler Soojin (`UCD-03`)**: Specialized entity whisperer utilizing acoustic harmonic tuning whips.
+- **Master Mason Doha (`SED-02`)**: Fortification engineer building forward bastions against Desolate storms.
+- **Acoustic Engineer Joon (`UCD-04`)**: Sound technician maintaining containment sirens and dampening fields.
+- **The Dreamer Sora (`SED-03`)**: Licensed Dream-Diver exploring collective psychic layers with the Lucid Sleep Bell.
+- **Kael the Exile (`OUT-01`)**: Nomad sovereign warlord leading Horizon Caravans across the Desolate.
+- **The High Architects (`ORG-01`)**: Civic engineering guild governing municipal infrastructure and district walls.
+- **Cheonbulok Refugees (`REF-02`)**: Displaced survivors from Corner 2’s dying furnace resettling in Zone E.
+
+---
+
+## 4. SORROW ENTITIES & M.A.W. SYNCHRONIZATION MATRIX
+
+All entity designations, risk classifications, M.A.W. equipment serials, and tales must maintain **100% synchronized fidelity**:
+
+```
+┌────────┬────────────────────────────────┬──────┬────────────┬─────────────────────────────┬─────────────────────────────┬─────────────────────────────┐
+│ CODE   │ ENTITY NAME (KR / EN)          │ RISK │ SIGNATURE  │ M.A.W. WEAPON (MAW-W)       │ M.A.W. SUIT (MAW-S)         │ M.A.W. GIFT (MAW-G)         │
+├────────┼────────────────────────────────┼──────┼────────────┼─────────────────────────────┼─────────────────────────────┼─────────────────────────────┤
+│ SE-001 │ 고아의 종 / The Orphaned Bell  │ III  │ Lament     │ MAW-W-001-01 Bell Striker   │ MAW-S-001-01 Resonance Vest │ MAW-G-001-01 Clapper Charm  │
+│ SE-002 │ 슬퍼하는 거상 / Grieving Colossus│ IV │ Grudge     │ MAW-W-002-01 Colossus Cleaver│ MAW-S-002-01 Colossal Plate│ MAW-G-002-01 Colossus Shard │
+│ SE-003 │ 기억의 실 / Thread of Memory   │ II   │ Void       │ MAW-W-003-01 Memory Blade   │ MAW-S-003-01 Tide Cloak     │ MAW-G-003-01 Needle Brooch  │
+│ SE-004 │ 녹을 흘리는 보초 / Rust Sentry │ III  │ Grudge     │ MAW-W-004-01 Rust Halberd   │ MAW-S-004-01 Iron Plate     │ MAW-G-004-01 Corrosion Visor│
+│ SE-005 │ 숨 막히는 어머니 / Smother Mother│ IV │ Weight     │ MAW-W-005-01 Cradle Lance   │ MAW-S-005-01 Cradle Harness │ MAW-G-005-01 Maternal Clasp │
+│ SE-006 │ 착취하는 거머리 / Siphon Leech │ III  │ Grudge     │ MAW-W-006-01 Siphon Cannula │ MAW-S-006-01 Membrane Suit  │ MAW-G-006-01 Effluent Gland │
+│ SE-007 │ 박무 · 필경사 / Brume Scribe   │ II   │ Void       │ MAW-W-007-01 Ashen Slate    │ MAW-S-007-01 Ashen Shroud   │ MAW-G-007-01 Brume Incense  │
+│ SE-008 │ 후회의 철처녀 / Iron Maiden    │ IV   │ Grudge     │ MAW-W-008-01 Thorn Impaler  │ MAW-S-008-01 Sarcophagus    │ MAW-G-008-01 Spike Crown    │
+│ SE-009 │ 기억의 방직자 / Memory Weaver  │ III  │ Lament     │ MAW-W-009-01 Drowned Trident│ MAW-S-009-01 Drowned Mail   │ MAW-G-009-01 Pendulum Charm │
+│ SE-010 │ 수렴 · 절대 판결 / Convergence│ V    │ Mixed      │ MAW-W-010-01 Convergence    │ MAW-S-010-01 Aegis Armor    │ MAW-G-010-01 Singularity Eye│
+│ SE-011 │ 속삭이는 벽 / Whispering Walls │ II   │ Lament     │ MAW-W-011-01 Whisper Flail  │ MAW-S-011-01 Barrier Mail   │ MAW-G-011-01 Earring Charm  │
+│ SE-014 │ 부채를 먹는 자 / Debt Eater    │ III  │ Weight     │ MAW-W-014-01 Debt Blade     │ MAW-S-014-01 Null Greatcoat │ MAW-G-014-01 Ledger Coin    │
+│ SE-015 │ 부채의 저울 / Debt Scale       │ IV   │ Weight     │ MAW-W-015-01 Balance Blade  │ MAW-S-015-01 Sovereign Scale│ MAW-G-015-01 Fulcrum Pin    │
+└────────┴────────────────────────────────┴──────┴────────────┴─────────────────────────────┴─────────────────────────────┴─────────────────────────────┘
+```
+
+### Tripartite Korean Tale Structure
+Every Entity Tale in `lore/entity-tales.html` and individual entity dossiers must strictly follow the tripartite canonical format:
+1. **이야기 (Narratio / The Tale)**: The historical myth, origin, and sorrow narrative.
+2. **증언 (Testimonium / Field Testimony)**: Direct quotes and observations from surviving agents.
+3. **기록 (Registrum / Directorate Log)**: Objective technical containment logs and resonance data.
+
+---
+
+## 5. SOURCE LORE TRANSFER ACCOUNTING (NO FALSE 100% CLAIMS)
+
+The wiki currently contains 185 fully functioning HTML articles. To ensure transparency, the transfer metrics against the master canonical source files are logged as follows:
+
+- **Total Sorrow Entities in Source**: 246 canonical entities (`SOMNARAK_ENTITY_CODEX.md`).
+  - **Entities Fully Built into Wiki**: 13 dossiers (`SE-001` to `SE-011`, `SE-014`, `SE-015`) = **5.28% of total codex**.
+- **Total M.A.W. Equipment Items in Source**: 106 catalogued items (`SOMNARAK_MAW_CODEX.md`).
+  - **M.A.W. Items Fully Built into Wiki**: 39 items = **36.79% of registry**.
+- **Echo-Core Leads Built**: 9 of 9 = **100.0% Complete**.
+- **Facility Floors Built**: 8 of 8 = **100.0% Complete**.
+- **Municipal Zones Built**: 7 of 7 = **100.0% Complete**.
+- **Mechanics & Systems Built**: All core systems (Damage, Ordeals, Work Types, Mnemonic Generator, Absolvohan) = **100.0% Complete**.
+
+---
+
+## 6. UI / UX ARCHITECTURE, CSS & HTML STRUCTURE RULES
+
+### 6.1 The 2-Column Article Grid Layout
+All character and entity dossier pages utilize a strict 2-column CSS Grid layout that isolates the main reading body from the sticky side table infobox, preventing any text overflow or wrapping anomalies:
+
+```html
+<!-- Table of Contents (Closed prior to article grid) -->
+<div class="toc" id="toc">
+  <div class="toc-title">Contents</div>
+  <ol>
+    <li><a href="#section-1">1. Section Title</a></li>
+  </ol>
+</div>
+
+<!-- 2-Column Layout -->
+<div class="character-article"> <!-- or .entity-article -->
+  <!-- Column 1: Main Content -->
+  <div class="character-main-content"> <!-- or .entity-main-content -->
+    <h2 id="section-1">1. Section Title</h2>
+    <p>Article body text with strict word-break containment...</p>
+  </div>
+
+  <!-- Column 2: Sticky Side Table Infobox -->
+  <aside class="character-infobox" style="--entity: #f1df76;"> <!-- or .entity-infobox -->
+    <h2>CORE-01 // TITLE</h2>
+    <div class="infobox-image-wrap">
+      <img src="../assets/icons/avatar_core_majin.svg" alt="Portrait" class="character-portrait">
+    </div>
+    <dl class="fact-grid">
+      <dt>Formal ID</dt><dd>CORE-01</dd>
+    </dl>
+    <h3>R.D. Core Attributes</h3>
+    <table class="infobox-stat-table">
+      <tr><th style="color:#38bdf8;">RESILIENCE (탄력)</th><td>95</td></tr>
+      <tr><th style="color:#f8fafc;">CLARITY (명료)</th><td>80</td></tr>
+      <tr><th style="color:#ef5b55;">COMPOSURE (침착)</th><td>70</td></tr>
+      <tr><th style="color:#f1df76;">RESOLVE (결의)</th><td>99</td></tr>
+    </table>
+  </aside>
+</div>
+```
+
+### 6.2 Key CSS Specifications in `01_Somnarak_Wiki/assets/css/wiki.css`
+- **Article Grid**: `display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 32px; box-sizing: border-box;`
+- **Word-Break Containment**: `word-break: break-word; overflow-wrap: break-word; min-width: 0;`
+- **Sticky Infobox**: `position: sticky; top: 80px; align-self: start; width: 340px;`
+- **Floating Left-Side TOC (`.float-toc`)**:
+  - Docked to viewport left edge: `position: fixed; left: 0; top: 140px; z-index: 999;`
+  - Vertical Trigger Tab: `writing-mode: vertical-rl; transform: rotate(180deg);`
+  - Slide-Out Drawer Panel: `width: 320px; max-height: 75vh; overflow-y: auto; background: rgba(10,15,28,0.98); border: 1px solid var(--accent);`
+
+---
+
+## 7. SEARCH ENGINE & JAVASCRIPT SYSTEM
+
+### 7.1 Architecture
+The wiki features an instant client-side search engine powered by `01_Somnarak_Wiki/assets/js/wiki.js` querying `01_Somnarak_Wiki/data/search.json`.
+- **Search Database**: 184 JSON objects containing `title`, `url`, `snippet`, `category`, and `tags`.
+- **Rebuilding Script**: Run `python3 /home/user/tools/rebuild_search_index.py` after creating or editing any HTML page.
+
+---
+
+## 8. COMPLETE WORKSPACE FILE MANIFEST
+
+```
+/home/user/
+├── 01_Somnarak_Wiki/                  # MASTER WIKI STATIC ROOT (185 HTML Articles)
+│   ├── index.html                     # Encyclopedic Hub Portal (Incident Bulletins, Floor Summary, Directory)
+│   ├── assets/
+│   │   ├── css/wiki.css               # Unified Modular Dark Industrial Stylesheet (1,300+ lines)
+│   │   ├── js/wiki.js                 # Global Interactive JS (Search, TOC Accordion, Observer)
+│   │   └── icons/                     # 1,082 Bespoke SVG Vector Graphics (No Silhouettes)
+│   ├── characters/                    # 20 Character Dossiers (9 Echo-Cores + 10 Operatives/Factions + Index)
+│   ├── departments/                   # 9 Facility Floor Blueprints (Floors 1–8 + Hand of Change Hub)
+│   ├── entities/                      # 14 Sorrow Entity Dossiers (SE-001–011, 014, 015 + Codex Hub)
+│   ├── factions/                      # 8 Faction & Syndicate Portals (Council, Menders, Frays, Collectors)
+│   ├── locations/                     # 8 Atlas & Municipal Zone Guides (Zones A–G + The Desolate)
+│   ├── lore/                          # 8 Cosmological Guides (Cosmology, Cheongula, Tales, Cycle, Absolvohan)
+│   ├── maw/                           # 4 M.A.W. Registry Articles (Weapons, Suits, Gifts, Catalog)
+│   ├── mechanics/                     # 7 System Guides (Damage Matrix, Ordeals, Work Types, Containment)
+│   ├── data/search.json               # Real-Time Search Engine Inverted Index (184 entries)
+│   └── downloads/                     # Offline Pre-Packaged Distribution Archives
+├── archives/                          # STANDALONE OFFLINE BUNDLES
+│   ├── 01_Somnarak_Wiki.zip           # Complete wiki bundle with relative local linking (8.0MB)
+│   ├── somnarak_full_vector_suite.zip # Full SVG artwork & icon suite (7.7MB)
+│   ├── the_hand_and_city_map_layout.zip# Master architectural SVG maps (5.5MB)
+│   └── SOMNARAK_ALL_IN_ONE_MASTER_PACKAGE.zip # MONOLITHIC MASTER PROJECT REPOSITORY
+├── diagrams/                          # Master SVG Schematics (THE_HAND_DR_LAYOUT.svg, SOMNARAK_CITY_LAYOUT.svg)
+├── icons/                             # Modular SVG Asset Library & Interactive Icon Gallery
+├── lore/                              # Canonical Markdown Lore Sources (PROJECT_SOMNARAK.md, The_REVERIE_DIRECTORATE.md)
+├── tools/                             # Automation & Maintenance Toolchain
+│   ├── audit_wiki_links.py            # 100% Link & Resource Integrity Verifier
+│   ├── rebuild_search_index.py        # Automated Search Database Generator
+│   ├── analyze_exact_source_file_transfer_percentages.py # Lore Transfer Accounting Auditor
+│   └── generate_all_files_percentage_audit.py # Comprehensive Workspace File Auditor
+├── ALL_FILES_AUDIT_MANIFEST.md        # Itemized line, word, and readiness audit of all 185 files
+├── HANDOFF_MASTER_AUDIT.md            # Lore Transfer Audit vs Master Reference Documentation
+├── MASTER_HANDOFF_PROTOCOL.md         # THIS COMPREHENSIVE ONBOARDING SPECIFICATION
+└── README.md                          # Quickstart User Guide
+```
+
+---
+
+## 9. STEP-BY-STEP PROTOCOL FOR INCOMING AI INSTANCES
+
+When a new AI or agent begins a new turn or session in this repository, execute the following protocol:
+
+1. **Step 1 — Verify Link Integrity**:
+   ```bash
+   python3 /home/user/tools/audit_wiki_links.py
+   ```
+   *Ensure output reports 0 broken links and 0 broken images.*
+
+2. **Step 2 — Preserve 2-Column Grid & Attribute Standards**:
+   - If adding a character: Use the exact 4 R.D. attributes (`Resilience`, `Clarity`, `Composure`, `Resolve`). Check `The_REVERIE_DIRECTORATE.md` first.
+   - If adding an entity: Use the 3 required visual assets (`ICON`, `BANNER`, `PROFILE`), synchronized `MAW-W`, `MAW-S`, `MAW-G` equipment, and the tripartite story structure.
+
+3. **Step 3 — Rebuild Search Index**:
+   ```bash
+   python3 /home/user/tools/rebuild_search_index.py
+   ```
+
+4. **Step 4 — Update Distribution Packages**:
+   ```bash
+   cd /home/user && zip -9 -r archives/SOMNARAK_ALL_IN_ONE_MASTER_PACKAGE.zip . -x "archives/*"
+   ```
+
+---
+*END OF MASTER HANDOFF PROTOCOL — REVERIE DIRECTORATE YEAR 4,238 DAWN INITIATIVE*

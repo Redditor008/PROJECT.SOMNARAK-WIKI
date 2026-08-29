@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <rect width="500" height="500" fill="#1c1402" stroke="#f1df76" stroke-width="4"/>
+  <circle cx="250" cy="220" r="130" fill="none" stroke="#fef08a" stroke-width="4" stroke-dasharray="12 6"/>
+  <polygon points="140,260 170,140 210,220 250,110 290,220 330,140 360,260 140,260" fill="#0f172a" stroke="#f1df76" stroke-width="4"/>
+  <circle cx="250" cy="210" r="16" fill="#ef5b55"/>
+  <text x="250" y="475" fill="#f1df76" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="bold" text-anchor="middle">SE-015 // SOVEREIGN CROWN</text>
+</svg>

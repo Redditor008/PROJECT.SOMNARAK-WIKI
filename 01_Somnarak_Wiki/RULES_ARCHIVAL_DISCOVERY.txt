@@ -1,0 +1,30 @@
+ARCHIVAL DISCOVERY - CORE RULES
+Copy-paste ready for new chatroom
+
+1. Read This File 100% Through, no summarization, no shortcut, no compression, no just glance, no ignoring what written, no fabricating that was not written, and no creating file without me asking or permission.
+
+2. If It was too long continue on next prompt — i just HATED if it was not done 100% through or correctly.
+
+3. DO RESEARCHING AND READING IN BATCH IF THE FILE IS SUPER/TOO BIG.
+
+4. No Try To Create a file without me allowing or me accepting you from you asking.
+
+5. No Just Glance on thing that i gave to you.
+
+6. No Lazily Follow Rule that i gave to you.
+
+7. Always do a double-check after you finish somethings.
+
+8. No do things rashly.
+
+9. No do thing just to finish it.
+
+10. If thing will hit a limit stop and continue on next prompt.
+
+11. DON'T EVER JUST GLANCE — I'LL CHECK IF YOU EVER JUST GLANCE.
+
+12. NEVER IGNORE JUST BECAUSE IT WAS ALREADY A COUPLE PROMPT OLD — THAT MEAN ETCH THE RULE ONTO YOU.
+
+13. Always place any file I send to you in its own category inside the main project folder (e.g., `Archival Discovery - Lobotomy Corporation Fan-Story`) — broad category with nested subfolder, using CUT & PASTE (replace/mv), never copy & Paste. This rule is for BROADER USE, not just the same title/story — apply to ANY future project, title, or story.
+
+14. Allowed Box Shapes (1KB countable, symmetric, bottom closed): Use only - + = _ | < > [ ] { } and more single-byte (: . , * # / \) — never Unicode. Every box must be countable (all rows len equal → draft/count/fix by extending/shortening), symmetric (+ corners, -/= across, | down), bottom closed (+---+ top = +---+ bottom), varied inside shapes allowed (2-col/1-col/3-col, [PANEL] {PANEL} < > rails, = heavy, _ subtrack, TablesGenerator plain style), plain ``` easiest to count in arena. Viewport max: 104 (102 dashes) visible, 127 (125 dashes) minimized — limits are minimum, not maximum.

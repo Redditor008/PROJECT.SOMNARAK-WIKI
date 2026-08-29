@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <radialGradient id="voidGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#e2e8f0" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.95"/>
+    </radialGradient>
+  </defs>
+  <!-- Pale White Hexagonal Frame -->
+  <polygon points="60,4 112,32 112,88 60,116 8,88 8,32" fill="url(#voidGlow)" stroke="#ffffff" stroke-width="4"/>
+  <polygon points="60,14 102,38 102,82 60,106 18,82 18,38" fill="#090d16" stroke="#e2e8f0" stroke-width="2"/>
+
+  <!-- 8-Pointed Existential Void Star -->
+  <polygon points="60,18 66,46 94,52 70,68 76,96 60,78 44,96 50,68 26,52 54,46" fill="#ffffff" stroke="#94a3b8" stroke-width="2.5"/>
+  <circle cx="60" cy="60" r="12" fill="#0f172a" stroke="#ffffff" stroke-width="3"/>
+  <circle cx="60" cy="60" r="4" fill="#ffffff"/>
+</svg>

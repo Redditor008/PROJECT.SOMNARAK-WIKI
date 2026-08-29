@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <rect x="4" y="4" width="112" height="112" rx="16" fill="#070a12" stroke="#ef4444" stroke-width="2.5"/>
+  <rect x="8" y="8" width="104" height="104" rx="12" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- Waveform Analyzer Screen -->
+  <rect x="22" y="22" width="76" height="64" rx="4" fill="#1c0a0a" stroke="#ef4444" stroke-width="1.5"/>
+  
+  <!-- Critical Red Threshold Limit Line -->
+  <line x1="22" y1="40" x2="98" y2="40" stroke="#fca5a5" stroke-width="1" stroke-dasharray="2,2"/>
+  <text x="94" y="36" fill="#fca5a5" font-family="monospace" font-size="6" text-anchor="end">CRIT</text>
+
+  <!-- Spiking Harmonic Resonance Wave -->
+  <path d="M 24 64 L 38 64 L 46 54 L 54 72 L 60 28 L 66 78 L 74 58 L 82 64 L 96 64" fill="none" stroke="#ef4444" stroke-width="2"/>
+  
+  <!-- Peak Spike Warning Marker -->
+  <circle cx="60" cy="28" r="3" fill="#f1df76"/>
+
+  <!-- Label Banner -->
+  <rect x="14" y="98" width="92" height="14" rx="3" fill="#200a0a" stroke="#ef4444" stroke-width="1"/>
+  <text x="60" y="108.5" fill="#ef4444" font-family="monospace" font-size="7.5" font-weight="bold" text-anchor="middle">TABOO RESONANCE</text>
+</svg>

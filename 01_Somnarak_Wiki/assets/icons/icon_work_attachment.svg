@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <polygon points="60,4 114,24 114,86 60,116 6,86 6,24" fill="#031526" stroke="#38bdf8" stroke-width="3.5"/>
+  <polygon points="60,10 108,26 108,82 60,110 12,82 12,26" fill="none" stroke="#38bdf8" stroke-width="1.2" stroke-dasharray="6 3"/>
+  <path d="M 60,78 C 30,56 30,34 46,34 C 54,34 60,42 60,42 C 60,42 66,34 74,34 C 90,34 90,56 60,78 Z" fill="#0c4a6e" stroke="#38bdf8" stroke-width="2.5"/>
+<circle cx="60" cy="52" r="6" fill="#f1df76"/>
+<ellipse cx="60" cy="52" rx="28" ry="12" fill="none" stroke="#38bdf8" stroke-width="1.2" stroke-dasharray="4 2"/>
+  <text x="60" y="98" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="7.5" font-weight="bold" text-anchor="middle">ATTACHMENT // HARMONIC</text>
+  <text x="60" y="108" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="6" font-weight="bold" text-anchor="middle">EMOTIONAL / COMMUNION</text>
+</svg>

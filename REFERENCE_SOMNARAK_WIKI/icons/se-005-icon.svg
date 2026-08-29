@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="se5-gold-sm" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a"/>
+      <stop offset="50%" stop-color="#eab308"/>
+      <stop offset="100%" stop-color="#854d0e"/>
+    </linearGradient>
+  </defs>
+  <path d="M 60,6 C 92,6 112,38 112,74 C 112,98 88,114 60,114 C 32,114 8,98 8,74 C 8,38 28,6 60,6 Z" fill="#0c0a14" stroke="url(#se5-gold-sm)" stroke-width="3"/>
+  <path d="M 60,12 C 86,12 104,40 104,72 C 104,94 84,108 60,108 C 36,108 16,94 16,72 C 16,40 34,12 60,12 Z" fill="#030712" stroke="#f1df76" stroke-width="1"/>
+  <path d="M 24,70 C 40,50 80,90 96,70" fill="none" stroke="#475569" stroke-width="3.5"/>
+  <path d="M 24,82 C 40,62 80,102 96,82" fill="none" stroke="#1e293b" stroke-width="4.5"/>
+  <path d="M 44,48 C 44,30 76,30 76,48 C 76,64 44,64 44,48 Z" fill="#f8fafc" stroke="#f1df76" stroke-width="1.5"/>
+  <path d="M 50,46 Q 54,50 58,46" fill="none" stroke="#64748b" stroke-width="1.5"/>
+  <path d="M 62,46 Q 66,50 70,46" fill="none" stroke="#64748b" stroke-width="1.5"/>
+  <polygon points="60,68 68,76 60,84 52,76" fill="url(#se5-gold-sm)" stroke="#ffffff" stroke-width="1"/>
+  <circle cx="60" cy="76" r="2.5" fill="#38bdf8"/>
+</svg>

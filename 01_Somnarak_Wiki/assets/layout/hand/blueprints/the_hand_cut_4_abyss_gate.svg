@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <linearGradient id="bgH4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1c0615"/>
+      <stop offset="100%" stop-color="#181204"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bgH4)"/>
+  <rect x="40" y="30" width="1520" height="70" rx="6" fill="#200a18" stroke="#fbbf24" stroke-width="2.5"/>
+  <text x="65" y="72" fill="#f1df76" font-family="Impact" font-size="28" letter-spacing="2">FACILITY 01 // SECTOR CUT 04: VOID DIVING DOCKS &amp; THE TABOO GATE</text>
+  <text x="1530" y="72" fill="#fbbf24" font-family="monospace" font-size="14" font-weight="bold" text-anchor="end">[ FLOORS 7 &amp; 8: SHADOW CORPS &amp; GATE WATCH ]</text>
+
+  <!-- FLOOR 7: SHADOW CORPS -->
+  <rect x="40" y="130" width="1520" height="340" rx="8" fill="#180714" stroke="#f43f5e" stroke-width="2"/>
+  <rect x="40" y="130" width="280" height="40" fill="#f43f5e"/>
+  <text x="55" y="156" fill="#ffffff" font-family="Impact" font-size="18">FLOOR 7: SHADOW CORPS</text>
+  <text x="340" y="156" fill="#f43f5e" font-family="monospace" font-size="13">LEAD: ISHALL // VOID DOCKING SUBMARINES &amp; SE-014</text>
+
+  <rect x="70" y="190" width="460" height="250" rx="4" fill="#0d030a" stroke="#f43f5e" stroke-width="1.5"/>
+  <text x="90" y="225" fill="#f43f5e" font-family="Impact" font-size="18">07-A: VOID DIVER SUB-DOCK 01</text>
+  <ellipse cx="300" cy="330" rx="90" ry="40" fill="#f43f5e" fill-opacity="0.25" stroke="#ffffff" stroke-width="2"/>
+  <text x="300" y="336" fill="#ffffff" font-family="Impact" font-size="15" text-anchor="middle">SUBMERSIBLE 'ABYSS-09'</text>
+
+  <rect x="560" y="190" width="460" height="250" rx="4" fill="#0d030a" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="580" y="225" fill="#a855f7" font-family="Impact" font-size="18">07-B: SE-014 VAULT (DEBT EATER)</text>
+  <rect x="700" y="270" width="180" height="120" fill="#14061a" stroke="#a855f7" stroke-width="2"/>
+  <text x="790" y="335" fill="#f1df76" font-family="Impact" font-size="16" text-anchor="middle">PORCELAIN FURNACE</text>
+
+  <rect x="1050" y="190" width="480" height="250" rx="4" fill="#0d030a" stroke="#38bdf8" stroke-width="1.5"/>
+  <text x="1070" y="225" fill="#38bdf8" font-family="Impact" font-size="18">07-C: NEURAL DIVER STABILIZATION</text>
+  <circle cx="1290" cy="330" r="50" fill="#38bdf8" fill-opacity="0.2" stroke="#38bdf8" stroke-width="2"/>
+  <text x="1290" y="336" fill="#38bdf8" font-family="Impact" font-size="14" text-anchor="middle">SANITY ANCHOR GRID</text>
+
+  <!-- FLOOR 8: GATE WATCH -->
+  <rect x="40" y="500" width="1520" height="360" rx="8" fill="#1a1205" stroke="#fbbf24" stroke-width="2"/>
+  <rect x="40" y="500" width="280" height="40" fill="#fbbf24"/>
+  <text x="55" y="526" fill="#000000" font-family="Impact" font-size="18">FLOOR 8: GATE WATCH</text>
+  <text x="340" y="526" fill="#fbbf24" font-family="monospace" font-size="13">LEAD: XYAN // THE COSMIC TABOO THRESHOLD &amp; SE-015</text>
+
+  <rect x="70" y="560" width="600" height="270" rx="4" fill="#0d0a02" stroke="#f1df76" stroke-width="2"/>
+  <text x="90" y="595" fill="#f1df76" font-family="Impact" font-size="20">08-A: SE-015 (THE DEBT SCALE)</text>
+  <circle cx="370" cy="710" r="60" fill="#f1df76" fill-opacity="0.2" stroke="#f1df76" stroke-width="3"/>
+  <line x1="320" y1="710" x2="420" y2="710" stroke="#ffffff" stroke-width="4"/>
+  <circle cx="320" cy="730" r="14" fill="#ef5b55"/>
+  <circle cx="420" cy="690" r="14" fill="#38bdf8"/>
+  <text x="370" y="810" fill="#f1df76" font-family="Impact" font-size="15" text-anchor="middle">SOUL BALANCE APERTURE</text>
+
+  <rect x="700" y="560" width="830" height="270" rx="4" fill="#0d0a02" stroke="#ef5b55" stroke-width="3"/>
+  <text x="720" y="595" fill="#ef5b55" font-family="Impact" font-size="22">08-B: THE ABSOLUTE TABOO GATE (FINAL BOUNDARY)</text>
+  <!-- Cosmic Gate Graphic -->
+  <circle cx="1115" cy="710" r="75" fill="#050005" stroke="#fbbf24" stroke-width="4" stroke-dasharray="10,5"/>
+  <polygon points="1115,645 1175,710 1115,775 1055,710" fill="#ef5b55" fill-opacity="0.4" stroke="#ffffff" stroke-width="3"/>
+  <circle cx="1115" cy="710" r="16" fill="#ffffff"/>
+  <text x="1115" y="815" fill="#ef5b55" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle">[ WARNING: CONTACT WITH VOID THRESHOLD CAUSES TOTAL ERASURE ]</text>
+</svg>

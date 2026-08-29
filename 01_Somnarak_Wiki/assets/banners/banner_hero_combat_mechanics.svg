@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <defs>
+    <linearGradient id="mechBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#041812"/>
+      <stop offset="50%" stop-color="#060910"/>
+      <stop offset="100%" stop-color="#140608"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="1192" height="312" rx="8" fill="url(#mechBg)" stroke="#064e3b" stroke-width="2"/>
+  <rect x="8" y="8" width="1184" height="304" rx="6" fill="none" stroke="rgba(16, 185, 129, 0.25)" stroke-width="1" stroke-dasharray="8 4"/>
+
+  <rect x="12" y="12" width="1176" height="26" rx="3" fill="#02140e" stroke="#064e3b" stroke-width="1"/>
+  <text x="24" y="29" fill="#10b981" font-family="monospace" font-size="11" font-weight="bold">/// SYSTEMS &amp; MECHANICS // COMBAT MATRIX, WORK TYPES &amp; DAMAGE</text>
+  <text x="1164" y="29" fill="#f1df76" font-family="monospace" font-size="11" font-weight="bold" text-anchor="end">4 WORK TYPES // 4 DAMAGE TYPES // COHERENCE GAUGE</text>
+
+  <!-- Left: Damage Matrix Wheel -->
+  <g transform="translate(40, 50)">
+    <rect x="0" y="0" width="280" height="230" rx="6" fill="rgba(4, 20, 14, 0.85)" stroke="#064e3b" stroke-width="1.5"/>
+    <text x="140" y="30" fill="#f1df76" font-family="Impact" font-size="16" letter-spacing="2" text-anchor="middle">DAMAGE QUADRANT</text>
+
+    <!-- 4 Damage Badges -->
+    <g transform="translate(25, 48)">
+      <rect x="0" y="0" width="110" height="70" rx="4" fill="#2d0505" stroke="#ef4444" stroke-width="1.5"/>
+      <text x="55" y="30" fill="#ef4444" font-family="Impact" font-size="14" text-anchor="middle">RED</text>
+      <text x="55" y="52" fill="#fff" font-family="monospace" font-size="9" text-anchor="middle">PHYSICAL HP</text>
+
+      <rect x="120" y="0" width="110" height="70" rx="4" fill="#0f172a" stroke="#f8fafc" stroke-width="1.5"/>
+      <text x="175" y="30" fill="#f8fafc" font-family="Impact" font-size="14" text-anchor="middle">WHITE</text>
+      <text x="175" y="52" fill="#fff" font-family="monospace" font-size="9" text-anchor="middle">MENTAL SP</text>
+
+      <rect x="0" y="80" width="110" height="70" rx="4" fill="#050508" stroke="#a855f7" stroke-width="1.5"/>
+      <text x="55" y="110" fill="#a855f7" font-family="Impact" font-size="14" text-anchor="middle">BLACK</text>
+      <text x="55" y="132" fill="#fff" font-family="monospace" font-size="9" text-anchor="middle">CORROSIVE</text>
+
+      <rect x="120" y="80" width="110" height="70" rx="4" fill="#041824" stroke="#38bdf8" stroke-width="1.5"/>
+      <text x="175" y="110" fill="#38bdf8" font-family="Impact" font-size="14" text-anchor="middle">PALE</text>
+      <text x="175" y="132" fill="#fff" font-family="monospace" font-size="9" text-anchor="middle">EXISTENTIAL</text>
+    </g>
+  </g>
+
+  <!-- Right: Title & Systems Overview -->
+  <g transform="translate(360, 60)">
+    <rect x="0" y="0" width="800" height="230" rx="6" fill="rgba(4, 20, 14, 0.75)" stroke="#064e3b" stroke-width="1.5"/>
+    <rect x="0" y="0" width="800" height="4" fill="#10b981"/>
+
+    <text x="28" y="44" fill="#f1df76" font-family="Impact, sans-serif" font-size="34" letter-spacing="3">COMBAT SYSTEMS &amp; MECHANICS</text>
+    <text x="28" y="70" fill="#10b981" font-family="monospace" font-size="13" font-weight="bold" letter-spacing="1">FACILITY OPERATIONS // CONTAINMENT PROCEDURES &amp; TACTICAL CLASH</text>
+
+    <line x1="28" y1="84" x2="772" y2="84" stroke="#064e3b" stroke-width="1.5"/>
+
+    <g transform="translate(28, 102)" font-family="monospace" font-size="11">
+      <text x="0" y="0" fill="#ef4444" font-weight="bold">THE FOUR WORK TYPES</text>
+      <text x="0" y="16" fill="#cbd5e1">Instinct, Insight, Attachment, Repression</text>
+
+      <text x="260" y="0" fill="#38bdf8" font-weight="bold">HAN ENERGY &amp; DAMAGE MATRIX</text>
+      <text x="260" y="16" fill="#cbd5e1">Red, White, Black, Pale Resistances</text>
+
+      <text x="520" y="0" fill="#f1df76" font-weight="bold">RESONANT CLASH SYSTEM</text>
+      <text x="520" y="16" fill="#cbd5e1">Speed Dice, Skill Slots &amp; Coin Flips</text>
+
+      <text x="0" y="60" fill="#a855f7" font-weight="bold">FRACTURE &amp; PANIC THERAPY</text>
+      <text x="0" y="76" fill="#cbd5e1">Psychic Breakdowns &amp; Restoration</text>
+
+      <text x="260" y="60" fill="#10b981" font-weight="bold">ORDEALS FRAMEWORK</text>
+      <text x="260" y="76" fill="#cbd5e1">Dawn, Noon, Dusk &amp; Midnight Incursions</text>
+
+      <text x="520" y="60" fill="#d97706" font-weight="bold">HAN RELICS &amp; TOOLS</text>
+      <text x="520" y="76" fill="#cbd5e1">Pre-Cataclysm Artifact Siphons</text>
+    </g>
+  </g>
+
+  <!-- Bottom -->
+  <rect x="12" y="286" width="1176" height="22" rx="2" fill="#020a06" stroke="#064e3b" stroke-width="1"/>
+  <text x="24" y="301" fill="#64748b" font-family="monospace" font-size="10">TACTICAL ENGINE: ACTIVE | CLASH COMPUTATION: READY | MELTDOWN TIMERS: ARMED</text>
+  <text x="1164" y="301" fill="#10b981" font-family="monospace" font-size="10" text-anchor="end">OPERATIONAL MANUAL // REVERIE TACTICAL DOCTRINE</text>
+</svg>

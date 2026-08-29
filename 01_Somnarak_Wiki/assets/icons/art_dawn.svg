@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120">
+<rect width="200" height="120" fill="#0b0e16"/>
+<path d="M100 15 C70 25 55 50 65 75 C70 88 85 95 100 95 C115 95 130 88 135 75 C145 50 130 25 100 15 Z" fill="#1a0808" stroke="#5a0e0e" stroke-width="2"/>
+<path d="M85 30 L75 10 M100 25 L100 5 M115 30 L125 10" stroke="#7a0f1a" stroke-width="1.5" opacity=".4"/>
+<path d="M70 45 L55 35 M130 45 L145 35" stroke="#7a0f1a" stroke-width="1.5" opacity=".3"/>
+<circle cx="90" cy="50" r="2" fill="#7a0f1a" opacity=".6"/><circle cx="110" cy="50" r="2" fill="#7a0f1a" opacity=".6"/>
+<path d="M85 65 Q100 72 115 65" stroke="#7a0f1a" stroke-width="1" fill="none" opacity=".4"/>
+<text x="100" y="113" font-size="8" fill="#5a0e22" text-anchor="middle" font-family="sans-serif">THE DAWN OF MOURNING</text>
+</svg>

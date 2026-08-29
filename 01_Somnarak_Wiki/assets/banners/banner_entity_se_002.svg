@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bGrad_002" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#450a0a"/>
+      <stop offset="50%" stop-color="#1c0406"/>
+      <stop offset="100%" stop-color="#060203"/>
+    </linearGradient>
+    <filter id="bGlow_002" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="400" fill="url(#bGrad_002)"/>
+  <polygon points="20,20 1180,20 1180,380 20,380" fill="none" stroke="#ef5b55" stroke-width="3"/>
+  
+  <!-- Left Side Golem Scene -->
+  <g transform="translate(100, 50)" filter="url(#bGlow_002)">
+    <polygon points="100,20 220,20 250,130 220,240 100,240 70,130" fill="#1c1917" stroke="#ef5b55" stroke-width="3"/>
+    <circle cx="160" cy="110" r="24" fill="#450a0a" stroke="#ef5b55" stroke-width="2.5"/>
+    <circle cx="160" cy="110" r="10" fill="#ef5b55"/>
+    <rect x="80" y="220" width="160" height="26" fill="#292524" stroke="#f1df76" stroke-width="2"/>
+  </g>
+
+  <!-- Right Side HUD -->
+  <g transform="translate(480, 70)">
+    <rect width="640" height="260" rx="6" fill="rgba(28, 4, 6, 0.9)" stroke="#ef5b55" stroke-width="2"/>
+    <rect x="10" y="10" width="620" height="34" fill="#380608"/>
+    <text x="24" y="33" fill="#f1df76" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="bold">CONTAINMENT CHAMBER MK-02 // COHERENCE: 05</text>
+    <text x="24" y="80" fill="#ffffff" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="bold">SE-002 — THE GRIEVING COLOSSUS</text>
+    <text x="24" y="112" fill="#ef5b55" font-family="'JetBrains Mono', monospace" font-size="15" font-weight="bold">SECC RANK: δ (PHANTASM) · DAMAGE: GRUDGE (PHYSICAL) · YIELD: 30 PE</text>
+    <line x1="24" y1="128" x2="616" y2="128" stroke="#ef5b55" stroke-width="1" stroke-dasharray="4 2"/>
+    <text x="24" y="160" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="14">Special Work: Subjugation (Ferrehan 60%) | Danger: Tremor Shockwaves</text>
+    <text x="24" y="185" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="14">Extracted Gear: Mourning Maul (Weapon) / Mourning Mantle (Suit)</text>
+  </g>
+</svg>

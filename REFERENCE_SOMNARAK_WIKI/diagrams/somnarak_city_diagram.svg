@@ -1,0 +1,248 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1100" width="100%" height="100%">
+  <defs>
+    <!-- Background Patterns -->
+    <pattern id="urban-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e293b" stroke-width="0.6" stroke-opacity="0.4"/>
+      <circle cx="30" cy="30" r="0.8" fill="#38bdf8" fill-opacity="0.2"/>
+    </pattern>
+    <pattern id="urban-block-dense" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect x="2" y="2" width="5" height="5" fill="#334155" fill-opacity="0.3"/>
+      <rect x="9" y="2" width="5" height="5" fill="#334155" fill-opacity="0.3"/>
+      <rect x="2" y="9" width="5" height="5" fill="#334155" fill-opacity="0.3"/>
+      <rect x="9" y="9" width="5" height="5" fill="#334155" fill-opacity="0.3"/>
+    </pattern>
+    <pattern id="maw-hazard" width="20" height="20" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="20" stroke="#065f46" stroke-width="4" stroke-opacity="0.4"/>
+    </pattern>
+    <pattern id="bulwark-stripes" width="12" height="12" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="12" stroke="#581c87" stroke-width="3" stroke-opacity="0.4"/>
+    </pattern>
+
+    <!-- Gradients -->
+    <linearGradient id="grad-zone-A" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#7f1d1d" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="grad-zone-B" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#064e3b" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="grad-zone-C" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#1e3a8a" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="grad-zone-D" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#78350f" stop-opacity="0.75"/>
+    </linearGradient>
+    <linearGradient id="grad-zone-E" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#3b0764" stop-opacity="0.85"/>
+    </linearGradient>
+
+    <!-- Filters -->
+    <filter id="map-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="shadow-hud" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+
+    <mask id="mask-bulwark-ring">
+      <rect width="1400" height="1100" fill="white"/>
+      <polygon points="520.00,238.23 880.00,238.23 1060.00,550.00 880.00,861.77 520.00,861.77 340.00,550.00" fill="black"/>
+    </mask>
+  </defs>
+
+  <style>
+    .korean { font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', sans-serif; }
+    .mono { font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .map-tag { font-family: 'SF Mono', Consolas, monospace; font-size: 8.5px; font-weight: bold; fill: #94a3b8; }
+    .street-label { font-family: 'SF Mono', Consolas, monospace; font-size: 7.5px; fill: #64748b; letter-spacing: 0.5px; }
+  </style>
+
+  <!-- Map Canvas Background -->
+  <rect width="100%" height="100%" fill="#070a10"/>
+  <rect width="100%" height="100%" fill="url(#urban-grid)"/>
+
+  <!-- Compass Radar Rings & Azimuth Angles -->
+  <g stroke="#1e293b" stroke-width="0.8" fill="none">
+    <circle cx="700" cy="550" r="520" stroke-dasharray="4 8"/>
+    <circle cx="700" cy="550" r="480"/>
+    <circle cx="700" cy="550" r="360"/>
+    <circle cx="700" cy="550" r="260" stroke-dasharray="6 6"/>
+    <circle cx="700" cy="550" r="140"/>
+    <!-- Cardinal Crosshairs -->
+    <line x1="160" y1="550" x2="1240" y2="550" stroke-dasharray="6 6"/>
+    <line x1="700" y1="20" x2="700" y2="1080" stroke-dasharray="6 6"/>
+    <line x1="320" y1="170" x2="1080" y2="930" stroke="#0f172a" stroke-width="0.5"/>
+    <line x1="1080" y1="170" x2="320" y2="930" stroke="#0f172a" stroke-width="0.5"/>
+  </g>
+
+  <!-- ================= TOP HUD TITLE BAR ================= -->
+  <g transform="translate(40, 25)">
+    <rect x="0" y="0" width="1320" height="50" fill="#0f172a" fill-opacity="0.95" rx="4" stroke="#1e293b" stroke-width="1.2"/>
+    <rect x="0" y="0" width="6" height="50" fill="#ef4444" rx="2"/>
+    <text x="24" y="24" class="sans" font-size="16" font-weight="900" fill="#f8fafc">SOMNARAK METROPOLITAN CARTOGRAPHY // 솜나락 전역 구역도</text>
+    <text x="24" y="40" class="mono" font-size="10" fill="#64748b">STRUCTURAL GRIEF (HAN) TOPOLOGY &#x2022; SECTOR PERIMETERS &amp; TRANSIT GRID &#x2022; YEAR 4,238</text>
+    
+    <g transform="translate(920, 10)">
+      <rect x="0" y="0" width="120" height="28" fill="#1e293b" rx="3" stroke="#334155" stroke-width="0.8"/>
+      <text x="60" y="18" class="mono" font-size="9.5" font-weight="bold" fill="#38bdf8" text-anchor="middle">COORD: 37&#x00B0;28'N</text>
+      <rect x="130" y="0" width="130" height="28" fill="#1e293b" rx="3" stroke="#334155" stroke-width="0.8"/>
+      <text x="195" y="18" class="mono" font-size="9.5" font-weight="bold" fill="#10b981" text-anchor="middle">&#x25CF; GRID: ACTIVE</text>
+      <rect x="270" y="0" width="120" height="28" fill="#450a0a" rx="3" stroke="#ef4444" stroke-width="1"/>
+      <text x="330" y="18" class="mono" font-size="9.5" font-weight="bold" fill="#fca5a5" text-anchor="middle">OMEGA LEVEL</text>
+    </g>
+  </g>
+
+  <!-- ================= REAL CITY MAP GEOMETRY ================= -->
+  <g id="city-map-geometry">
+    <!-- ZONE E: OUTER BULWARK RING & PERIMETER WALL -->
+    <g mask="url(#mask-bulwark-ring)">
+      <polygon points="460.00,134.31 940.00,134.31 1180.00,550.00 940.00,965.69 460.00,965.69 220.00,550.00" fill="url(#grad-zone-E)"/>
+      <polygon points="460.00,134.31 940.00,134.31 1180.00,550.00 940.00,965.69 460.00,965.69 220.00,550.00" fill="url(#bulwark-stripes)"/>
+    </g>
+    <polygon points="460.00,134.31 940.00,134.31 1180.00,550.00 940.00,965.69 460.00,965.69 220.00,550.00" fill="none" stroke="#a855f7" stroke-width="3"/>
+    <polygon points="480.00,168.95 920.00,168.95 1140.00,550.00 920.00,931.05 480.00,931.05 260.00,550.00" fill="none" stroke="#c084fc" stroke-width="1.5" stroke-dasharray="8 6"/>
+
+    <!-- Perimeter Watchtowers & Heavy Blast Gates -->
+    <!-- Gate 1 North -->
+    <rect x="676" y="122.3078061834695" width="48" height="24" rx="3" fill="#1e1333" stroke="#c084fc" stroke-width="1.5"/>
+    <text x="700" y="138.3078061834695" class="mono" font-size="8.5" font-weight="bold" fill="#e9d5ff" text-anchor="middle">GATE I</text>
+    <!-- Gate 2 East -->
+    <rect x="1168" y="526" width="24" height="48" rx="3" fill="#1e1333" stroke="#c084fc" stroke-width="1.5"/>
+    <text x="1180" y="554" class="mono" font-size="8.5" font-weight="bold" fill="#e9d5ff" text-anchor="middle">G-II</text>
+    <!-- Gate 3 South -->
+    <rect x="676" y="953.6921938165306" width="48" height="24" rx="3" fill="#1e1333" stroke="#c084fc" stroke-width="1.5"/>
+    <text x="700" y="969.6921938165306" class="mono" font-size="8.5" font-weight="bold" fill="#e9d5ff" text-anchor="middle">GATE III</text>
+    <!-- Gate 4 West (The Maw Iron Gate) -->
+    <rect x="208" y="526" width="24" height="48" rx="3" fill="#1e1333" stroke="#c084fc" stroke-width="1.5"/>
+    <text x="220" y="554" class="mono" font-size="8.5" font-weight="bold" fill="#e9d5ff" text-anchor="middle">G-IV</text>
+
+    <!-- ZONE D: NORTH & SOUTH FLANKS (FORGE DISTRICT & ECHO GARDENS) -->
+    <polygon points="520.00,238.23 880.00,238.23 1060.00,550.00 880.00,861.77 520.00,861.77 340.00,550.00" fill="url(#grad-zone-D)"/>
+    <polygon points="520.00,238.23 880.00,238.23 1060.00,550.00 880.00,861.77 520.00,861.77 340.00,550.00" fill="url(#urban-block-dense)"/>
+
+    <!-- ZONE B: WEST OLD DISTRICT (THE MAW & WEEPING STRUCTURES) -->
+    <polygon points="433.60,387.88 340.00,550.00 433.60,712.12 700.00,690.00 560.00,550.00 700.00,410.00" fill="url(#grad-zone-B)"/>
+    <polygon points="433.60,387.88 340.00,550.00 433.60,712.12 700.00,690.00 560.00,550.00 700.00,410.00" fill="url(#maw-hazard)"/>
+    <polygon points="433.60,387.88 340.00,550.00 433.60,712.12 700.00,690.00 560.00,550.00 700.00,410.00" fill="none" stroke="#10b981" stroke-width="2.5"/>
+
+    <!-- The Maw Chasm Pit (Living Abyss) in Zone B -->
+    <g transform="translate(480, 550)">
+      <path d="M -60 -40 Q 0 -60 60 -40 Q 80 0 50 40 Q -10 60 -60 30 Z" fill="#022c22" stroke="#34d399" stroke-width="2" stroke-dasharray="4 2"/>
+      <circle cx="0" cy="0" r="18" fill="#064e3b" stroke="#6ee7b7" stroke-width="1.5"/>
+      <text x="0" y="3" class="sans" font-size="9" font-weight="900" fill="#a7f3d0" text-anchor="middle">THE MAW</text>
+      <text x="0" y="14" class="korean" font-size="7.5" fill="#34d399" text-anchor="middle">아가리</text>
+    </g>
+
+    <!-- ZONE C: EAST CHEVRON ARC (COLLECTOR'S ROW & EXTRACTION CONCOURSE) -->
+    <polygon points="780.00,270.00 1010.00,550.00 780.00,830.00 700.00,690.00 840.00,550.00 700.00,410.00" fill="url(#grad-zone-C)"/>
+    <polygon points="780.00,270.00 1010.00,550.00 780.00,830.00 700.00,690.00 840.00,550.00 700.00,410.00" fill="none" stroke="#3b82f6" stroke-width="2.5"/>
+
+    <!-- Commercial Grid in Zone C -->
+    <g stroke="#60a5fa" stroke-opacity="0.4" stroke-width="1" fill="none">
+      <line x1="840" y1="390" x2="950" y2="490"/>
+      <line x1="860" y1="430" x2="970" y2="530"/>
+      <line x1="840" y1="710" x2="950" y2="610"/>
+      <line x1="860" y1="670" x2="970" y2="570"/>
+    </g>
+
+    <!-- ZONE A: CENTRAL CORE NEXUS & THE ALPHA TREE DIAMOND -->
+    <polygon points="700.00,410.00 840.00,550.00 700.00,690.00 560.00,550.00" fill="url(#grad-zone-A)"/>
+    <polygon points="700.00,410.00 840.00,550.00 700.00,690.00 560.00,550.00" fill="none" stroke="#ef4444" stroke-width="3"/>
+
+    <!-- The Alpha Tree Spire & Grand Plazas in Zone A -->
+    <!-- Outer Diamond Ring -->
+    <polygon points="700,459.0 791.0,550 700,641.0 609.0,550" fill="#450a0a" stroke="#f87171" stroke-width="1.5" stroke-dasharray="4 4"/>
+    
+    <!-- Central Spire & Abyssal Well Hub -->
+    <circle cx="700" cy="550" r="38" fill="#18181b" stroke="#ef4444" stroke-width="2.5"/>
+    <circle cx="700" cy="550" r="22" fill="#7f1d1d" stroke="#fca5a5" stroke-width="1.5"/>
+    <circle cx="700" cy="550" r="8" fill="#ffffff"/>
+    
+    <text x="700" y="504" class="sans" font-size="11" font-weight="900" fill="#fca5a5" text-anchor="middle">ALPHA TREE SPIRE</text>
+    <text x="700" y="492" class="korean" font-size="9" fill="#f87171" text-anchor="middle">중앙 상징목 &#x2022; 알파 트리</text>
+    <text x="700" y="602" class="mono" font-size="8.5" font-weight="bold" fill="#fca5a5" text-anchor="middle">ZONE A : CORE NEXUS</text>
+
+    <!-- Inner Hexagon Frame & Boundary Conduits -->
+    <polygon points="520.00,238.23 880.00,238.23 1060.00,550.00 880.00,861.77 520.00,861.77 340.00,550.00" fill="none" stroke="#94a3b8" stroke-width="2.5"/>
+    <line x1="433.60" y1="387.88" x2="700.00" y2="410.00" stroke="#38bdf8" stroke-width="2.5"/>
+    <line x1="433.60" y1="387.88" x2="780.00" y2="270.00" stroke="#f59e0b" stroke-width="2.5"/>
+    <line x1="433.60" y1="712.12" x2="700.00" y2="690.00" stroke="#38bdf8" stroke-width="2.5"/>
+    <line x1="433.60" y1="712.12" x2="780.00" y2="830.00" stroke="#f59e0b" stroke-width="2.5"/>
+
+    <!-- ================= METROPOLITAN ARTERIES & MAG-RAILS ================= -->
+    <g stroke="#38bdf8" stroke-width="2.5" fill="none">
+      <!-- Radial Transit Arteries -->
+      <line x1="700" y1="134.3078061834695" x2="700" y2="410"/>
+      <line x1="700" y1="965.6921938165306" x2="700" y2="690"/>
+      <line x1="220" y1="550" x2="560"/>
+      <line x1="1180" y1="550" x2="840"/>
+    </g>
+
+    <!-- Anchor Vector Nodes -->
+    <circle cx="700.00" cy="410.00" r="5" fill="#ef4444" stroke="#ffffff" stroke-width="1.5"/>
+    <circle cx="700.00" cy="690.00" r="5" fill="#ef4444" stroke="#ffffff" stroke-width="1.5"/>
+    <circle cx="560.00" cy="550.00" r="5" fill="#10b981" stroke="#ffffff" stroke-width="1.5"/>
+    <circle cx="840.00" cy="550.00" r="5" fill="#3b82f6" stroke="#ffffff" stroke-width="1.5"/>
+    <circle cx="780.00" cy="270.00" r="4.5" fill="#38bdf8" stroke="#ffffff" stroke-width="1.5"/>
+    <circle cx="1010.00" cy="550.00" r="4.5" fill="#38bdf8" stroke="#ffffff" stroke-width="1.5"/>
+    <circle cx="780.00" cy="830.00" r="4.5" fill="#38bdf8" stroke="#ffffff" stroke-width="1.5"/>
+    <circle cx="433.60" cy="387.88" r="4.5" fill="#94a3b8" stroke="#ffffff" stroke-width="1.5"/>
+    <circle cx="433.60" cy="712.12" r="4.5" fill="#94a3b8" stroke="#ffffff" stroke-width="1.5"/>
+
+    <!-- Map Labels & Sector Markers -->
+    <!-- Zone B Label -->
+    <g transform="translate(420, 430)">
+      <rect x="0" y="0" width="130" height="42" rx="4" fill="#064e3b" stroke="#10b981" stroke-width="1.5"/>
+      <text x="65" y="18" class="sans" font-size="11" font-weight="900" fill="#a7f3d0" text-anchor="middle">ZONE B : OLD WARD</text>
+      <text x="65" y="32" class="mono" font-size="8.5" fill="#6ee7b7" text-anchor="middle">구도심 &#x2022; WEEPING BLOCKS</text>
+    </g>
+
+    <!-- Zone C Label -->
+    <g transform="translate(870, 430)">
+      <rect x="0" y="0" width="140" height="42" rx="4" fill="#1e3a8a" stroke="#3b82f6" stroke-width="1.5"/>
+      <text x="70" y="18" class="sans" font-size="11" font-weight="900" fill="#bfdbfe" text-anchor="middle">ZONE C : COLLECTORS</text>
+      <text x="70" y="32" class="mono" font-size="8.5" fill="#93c5fd" text-anchor="middle">수탈 구역 &#x2022; EXTRACTION</text>
+    </g>
+
+    <!-- Zone D North Label -->
+    <g transform="translate(540, 280)">
+      <rect x="0" y="0" width="140" height="42" rx="4" fill="#78350f" stroke="#f59e0b" stroke-width="1.5"/>
+      <text x="70" y="18" class="sans" font-size="11" font-weight="900" fill="#fde68a" text-anchor="middle">ZONE D : FORGE FLANK</text>
+      <text x="70" y="32" class="mono" font-size="8.5" fill="#fbbf24" text-anchor="middle">단조로 &#x2022; RESEARCH</text>
+    </g>
+
+    <!-- Zone D South Label -->
+    <g transform="translate(540, 780)">
+      <rect x="0" y="0" width="140" height="42" rx="4" fill="#78350f" stroke="#f59e0b" stroke-width="1.5"/>
+      <text x="70" y="18" class="sans" font-size="11" font-weight="900" fill="#fde68a" text-anchor="middle">ZONE D : ECHO GARDENS</text>
+      <text x="70" y="32" class="mono" font-size="8.5" fill="#fbbf24" text-anchor="middle">기억의 정원 &#x2022; MEMORY</text>
+    </g>
+
+    <!-- Zone E Bulwark Label -->
+    <g transform="translate(960, 800)">
+      <rect x="0" y="0" width="140" height="42" rx="4" fill="#3b0764" stroke="#a855f7" stroke-width="1.5"/>
+      <text x="70" y="18" class="sans" font-size="11" font-weight="900" fill="#e9d5ff" text-anchor="middle">ZONE E : BULWARK</text>
+      <text x="70" y="32" class="mono" font-size="8.5" fill="#c084fc" text-anchor="middle">경계 장벽 &#x2022; WARDENS</text>
+    </g>
+
+    <!-- Azimuth Bearings -->
+    <text x="200" y="554" class="mono" font-size="11" font-weight="bold" fill="#94a3b8" text-anchor="end">WEST // 270&#x00B0;</text>
+    <text x="1200" y="554" class="mono" font-size="11" font-weight="bold" fill="#94a3b8" text-anchor="start">EAST // 090&#x00B0;</text>
+    <text x="700" y="112.3078061834695" class="mono" font-size="11" font-weight="bold" fill="#94a3b8" text-anchor="middle">NORTH // 000&#x00B0;</text>
+    <text x="700" y="997.6921938165306" class="mono" font-size="11" font-weight="bold" fill="#94a3b8" text-anchor="middle">SOUTH // 180&#x00B0;</text>
+  </g>
+
+  <!-- Corner Tech Brackets -->
+  <g stroke="#38bdf8" stroke-width="2" fill="none">
+    <path d="M 20 50 L 20 20 L 50 20"/>
+    <path d="M 1380 50 L 1380 20 L 1350 20"/>
+    <path d="M 20 1050 L 20 1080 L 50 1080"/>
+    <path d="M 1380 1050 L 1380 1080 L 1350 1080"/>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+  <defs>
+    <radialGradient id="mawBg_maw-w-01" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#111827" stop-opacity="0.95"/>
+      <stop offset="70%" stop-color="#090d16" stop-opacity="0.98"/>
+      <stop offset="100%" stop-color="#030712" stop-opacity="1"/>
+    </radialGradient>
+    <radialGradient id="mawGlow_maw-w-01" cx="50%" cy="50%" r="45%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="6" y="6" width="388" height="388" rx="16" fill="url(#mawBg_maw-w-01)" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="12" y="12" width="376" height="376" rx="12" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="6 3" opacity="0.35"/>
+  <circle cx="200" cy="200" r="140" fill="url(#mawGlow_maw-w-01)"/>
+
+  <!-- Dual Tuning Fork Blade -->
+  <path d="M 180 230 L 240 100 L 260 100 L 210 230 Z" fill="#182333" stroke="#38bdf8" stroke-width="2.5"/>
+  <path d="M 210 230 L 290 80 L 310 80 L 240 230 Z" fill="#182333" stroke="#38bdf8" stroke-width="2.5"/>
+  <!-- Acoustic Bridge Base -->
+  <polygon points="170,230 250,230 230,280 190,280" fill="#0f172a" stroke="#f1df76" stroke-width="2.5"/>
+  <!-- Acoustic Wave Ring Between Prongs -->
+  <path d="M 250 110 Q 275 130 285 100" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="3 3"/>
+  <!-- Grip -->
+  <line x1="210" y1="280" x2="140" y2="370" stroke="#f1df76" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="135" cy="375" r="9" fill="#38bdf8" stroke="#1e293b" stroke-width="2"/>
+
+  <!-- Header Category Badge -->
+  <rect x="20" y="20" width="220" height="26" rx="4" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="37" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="bold">WEAPON // ACOUSTIC TUNING BLADE</text>
+
+  <!-- Bottom Name Label -->
+  <rect x="20" y="355" width="360" height="26" rx="4" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
+  <text x="200" y="372" fill="#f8fafc" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="bold" text-anchor="middle">THE LISTENING REQUIEM</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <polygon points="60,4 114,24 114,86 60,116 6,86 6,24" fill="#031526" stroke="#38bdf8" stroke-width="3.5"/>
+  <polygon points="60,10 108,26 108,82 60,110 12,82 12,26" fill="#01070e" stroke="#38bdf8" stroke-width="1.2" stroke-dasharray="6 3"/>
+  <!-- Gilded Bone Rocking Cradle -->
+  <path d="M 28,50 L 92,50 L 84,72 L 36,72 Z" fill="#0c4a6e" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M 24,78 Q 60,90 96,78" fill="none" stroke="#f1df76" stroke-width="2.5"/>
+  <line x1="36" y1="72" x2="32" y2="82" stroke="#f1df76" stroke-width="2"/>
+  <line x1="84" y1="72" x2="88" y2="82" stroke="#f1df76" stroke-width="2"/>
+  <!-- Hanging Mobile Stars -->
+  <polygon points="60,26 63,32 70,34 65,39 66,46 60,42 54,46 55,39 50,34 57,32" fill="#ffffff"/>
+  <text x="60" y="104" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="7.5" font-weight="bold" text-anchor="middle">FORGOTTEN CRADLE</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <radialGradient id="mapGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f1df76" stop-opacity="0.8"/>
+      <stop offset="60%" stop-color="#0284c7" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#070a12" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect x="4" y="4" width="112" height="112" rx="16" fill="#070a12" stroke="#f1df76" stroke-width="2.5"/>
+  <rect x="8" y="8" width="104" height="104" rx="12" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="60" cy="52" r="38" fill="url(#mapGlow)"/>
+
+  <!-- Concentric District Rings (A, B, C, D, E) -->
+  <circle cx="60" cy="52" r="32" fill="none" stroke="#ef4444" stroke-width="1.5"/>
+  <circle cx="60" cy="52" r="24" fill="none" stroke="#10b981" stroke-width="1.2"/>
+  <circle cx="60" cy="52" r="16" fill="none" stroke="#38bdf8" stroke-width="1.2"/>
+  <circle cx="60" cy="52" r="8" fill="#f1df76" stroke="#ffffff" stroke-width="1.5"/>
+
+  <!-- 4 Coordinate Axis Crosshairs -->
+  <line x1="60" y1="16" x2="60" y2="88" stroke="#f1df76" stroke-width="1" stroke-dasharray="2,2"/>
+  <line x1="24" y1="52" x2="96" y2="52" stroke="#f1df76" stroke-width="1" stroke-dasharray="2,2"/>
+
+  <!-- Label Banner -->
+  <rect x="14" y="98" width="92" height="14" rx="3" fill="#1f1807" stroke="#f1df76" stroke-width="1"/>
+  <text x="60" y="108.5" fill="#f1df76" font-family="monospace" font-size="7.5" font-weight="bold" text-anchor="middle">CITY DISTRICTS</text>
+</svg>

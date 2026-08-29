@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <radialGradient id="unkGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#070a12" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect x="4" y="4" width="112" height="112" rx="16" fill="#070a12" stroke="#10b981" stroke-width="2.5"/>
+  <rect x="8" y="8" width="104" height="104" rx="12" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="60" cy="52" r="38" fill="url(#unkGlow)"/>
+
+  <!-- Radar Rings -->
+  <circle cx="60" cy="52" r="32" fill="none" stroke="#34d399" stroke-width="1"/>
+  <circle cx="60" cy="52" r="20" fill="none" stroke="#059669" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="60" y1="18" x2="60" y2="86" stroke="#047857" stroke-width="1"/>
+  <line x1="26" y1="52" x2="94" y2="52" stroke="#047857" stroke-width="1"/>
+
+  <!-- Sonar Sweep Beam -->
+  <polygon points="60,52 86,26 86,52" fill="#34d399" opacity="0.3"/>
+  <line x1="60" y1="52" x2="86" y2="26" stroke="#6ee7b7" stroke-width="1.8"/>
+
+  <!-- Sunken Skyscraper Silhouettes in Fog -->
+  <rect x="34" y="56" width="10" height="24" fill="#064e3b" stroke="#34d399" stroke-width="1"/>
+  <rect x="48" y="44" width="12" height="36" fill="#064e3b" stroke="#34d399" stroke-width="1"/>
+  <rect x="68" y="50" width="10" height="30" fill="#064e3b" stroke="#34d399" stroke-width="1"/>
+
+  <!-- Blip Signals -->
+  <circle cx="78" cy="36" r="3" fill="#ef4444"/>
+  <circle cx="40" cy="40" r="2.5" fill="#f1df76"/>
+
+  <!-- Label Banner -->
+  <rect x="14" y="98" width="92" height="14" rx="3" fill="#062e22" stroke="#10b981" stroke-width="1"/>
+  <text x="60" y="108.5" fill="#34d399" font-family="monospace" font-size="7.5" font-weight="bold" text-anchor="middle">UNKNOWN CITIES</text>
+</svg>

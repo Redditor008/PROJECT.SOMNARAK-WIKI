@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <circle cx="60" cy="60" r="54" fill="#150626" stroke="#c084fc" stroke-width="4"/>
+  <!-- Giant Vault Gear Teeth -->
+  <circle cx="60" cy="52" r="32" fill="#250d40" stroke="#f1df76" stroke-width="2.5" stroke-dasharray="6 4"/>
+  <!-- 3 Concentric Keyhole Tumblers -->
+  <circle cx="60" cy="52" r="18" fill="#08020f" stroke="#38bdf8" stroke-width="2"/>
+  <circle cx="60" cy="48" r="5" fill="#f1df76"/>
+  <polygon points="57,48 63,48 65,60 55,60" fill="#f1df76"/>
+  <text x="60" y="106" fill="#c084fc" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="bold" text-anchor="middle">F-06</text>
+</svg>

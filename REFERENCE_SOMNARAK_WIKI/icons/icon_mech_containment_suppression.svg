@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <rect x="4" y="4" width="112" height="112" rx="16" fill="#070a12" stroke="#ef4444" stroke-width="2.5"/>
+  <rect x="8" y="8" width="104" height="104" rx="12" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- Heavy Hydraulic Blast Door Frame -->
+  <rect x="26" y="20" width="68" height="68" fill="#1c1917" stroke="#ef4444" stroke-width="2"/>
+  
+  <!-- Laser Security Suppression Grid -->
+  <line x1="26" y1="36" x2="94" y2="36" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <line x1="26" y1="54" x2="94" y2="54" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <line x1="26" y1="72" x2="94" y2="72" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="3,2"/>
+  
+  <line x1="44" y1="20" x2="44" y2="88" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <line x1="60" y1="20" x2="60" y2="88" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <line x1="76" y1="20" x2="76" y2="88" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3,2"/>
+
+  <!-- Central Emergency Interlock Seal -->
+  <polygon points="60,44 68,54 60,64 52,54" fill="#ef4444"/>
+  <circle cx="60" cy="54" r="2" fill="#ffffff"/>
+
+  <!-- Label Banner -->
+  <rect x="14" y="98" width="92" height="14" rx="3" fill="#200a0a" stroke="#ef4444" stroke-width="1"/>
+  <text x="60" y="108.5" fill="#ef4444" font-family="monospace" font-size="7.5" font-weight="bold" text-anchor="middle">CONTAINMENT</text>
+</svg>

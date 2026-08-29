@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <!-- Diamond Data Frame -->
+  <polygon points="60,4 116,60 60,116 4,60" fill="#05131f" stroke="#38bdf8" stroke-width="3.5"/>
+  <polygon points="60,16 104,60 60,104 16,60" fill="#03080f" stroke="#f1df76" stroke-width="1.5"/>
+
+  <!-- Sleek Analytical Hair & Cybernetic Hairpin -->
+  <path d="M 36,36 Q 60,18 84,36 L 86,72 Q 60,90 34,72 Z" fill="#0c2238" stroke="#38bdf8" stroke-width="2"/>
+  <polygon points="76,20 98,14 90,36" fill="#f1df76" stroke="#ffffff" stroke-width="1.5"/>
+
+  <!-- Twin Floating Holographic Monocle Slates -->
+  <rect x="40" y="46" width="16" height="12" rx="2" fill="#38bdf8" opacity="0.85" stroke="#ffffff" stroke-width="1.5"/>
+  <rect x="64" y="46" width="16" height="12" rx="2" fill="#38bdf8" opacity="0.85" stroke="#ffffff" stroke-width="1.5"/>
+  <line x1="56" y1="52" x2="64" y2="52" stroke="#ffffff" stroke-width="1.5"/>
+
+  <!-- Audio Headset & Data Waveform Collar -->
+  <path d="M 32,58 Q 30,76 42,88 L 78,88 Q 90,76 88,58" fill="none" stroke="#38bdf8" stroke-width="2.5"/>
+  <line x1="44" y1="96" x2="76" y2="96" stroke="#f1df76" stroke-width="3"/>
+</svg>

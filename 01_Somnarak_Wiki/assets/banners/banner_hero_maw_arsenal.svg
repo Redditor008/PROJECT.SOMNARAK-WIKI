@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+  <defs>
+    <linearGradient id="mawBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1204"/>
+      <stop offset="50%" stop-color="#080a14"/>
+      <stop offset="100%" stop-color="#1e1204"/>
+    </linearGradient>
+    <linearGradient id="mawGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#f1df76"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="1192" height="312" rx="8" fill="url(#mawBg)" stroke="#78350f" stroke-width="2"/>
+  <rect x="8" y="8" width="1184" height="304" rx="6" fill="none" stroke="rgba(245, 158, 11, 0.25)" stroke-width="1" stroke-dasharray="8 4"/>
+
+  <rect x="12" y="12" width="1176" height="26" rx="3" fill="#140b02" stroke="#451a03" stroke-width="1"/>
+  <text x="24" y="29" fill="#f59e0b" font-family="monospace" font-size="11" font-weight="bold">/// M.A.W. ARSENAL // MOURNING AGONY WEAPONRY &amp; WEAVE</text>
+  <text x="1164" y="29" fill="#38bdf8" font-family="monospace" font-size="11" font-weight="bold" text-anchor="end">FORGED FROM ENTITY SORROW RESISTANCE // WEAPON · SUIT · GIFT</text>
+
+  <!-- Left: Triad Equipment Graphic -->
+  <g transform="translate(40, 50)">
+    <rect x="0" y="0" width="280" height="230" rx="6" fill="rgba(20, 12, 4, 0.85)" stroke="#78350f" stroke-width="1.5"/>
+    <text x="140" y="30" fill="#f1df76" font-family="Impact" font-size="16" letter-spacing="2" text-anchor="middle">M.A.W. EQUIPMENT TRIAD</text>
+
+    <!-- Triad Elements -->
+    <g transform="translate(20, 50)">
+      <!-- Weapon -->
+      <rect x="0" y="0" width="240" height="46" rx="4" fill="#091220" stroke="#38bdf8" stroke-width="1.5"/>
+      <text x="16" y="22" fill="#38bdf8" font-family="Impact" font-size="14">WEAPON [W]</text>
+      <text x="16" y="38" fill="#94a3b8" font-family="monospace" font-size="10">Kinetic / Pale / Corrosive Offense</text>
+
+      <!-- Suit -->
+      <rect x="0" y="56" width="240" height="46" rx="4" fill="#180a10" stroke="#ef4444" stroke-width="1.5"/>
+      <text x="16" y="78" fill="#ef4444" font-family="Impact" font-size="14">SUIT [S]</text>
+      <text x="16" y="94" fill="#94a3b8" font-family="monospace" font-size="10">Defensive Agony Dispersion Weave</text>
+
+      <!-- Gift -->
+      <rect x="0" y="112" width="240" height="46" rx="4" fill="#181404" stroke="#f1df76" stroke-width="1.5"/>
+      <text x="16" y="134" fill="#f1df76" font-family="Impact" font-size="14">GIFT [G]</text>
+      <text x="16" y="150" fill="#94a3b8" font-family="monospace" font-size="10">Metaphysical Resonance Relic</text>
+    </g>
+  </g>
+
+  <!-- Right: Grand Title & Sets -->
+  <g transform="translate(360, 60)">
+    <rect x="0" y="0" width="800" height="230" rx="6" fill="rgba(20, 12, 4, 0.75)" stroke="#78350f" stroke-width="1.5"/>
+    <rect x="0" y="0" width="800" height="4" fill="url(#mawGold)"/>
+
+    <text x="28" y="44" fill="#f1df76" font-family="Impact, sans-serif" font-size="34" letter-spacing="3">M.A.W. ARSENAL &amp; EQUIPMENT</text>
+    <text x="28" y="70" fill="#f59e0b" font-family="monospace" font-size="13" font-weight="bold" letter-spacing="1">FLOOR 3 EXTRACTION FORGE // 9 CANONICAL SETS // 27 PIECES</text>
+
+    <line x1="28" y1="84" x2="772" y2="84" stroke="#451a03" stroke-width="1.5"/>
+
+    <g transform="translate(28, 102)" font-family="monospace" font-size="11">
+      <text x="0" y="0" fill="#38bdf8" font-weight="bold">SET 001: LAMENT'S REQUIEM</text>
+      <text x="0" y="16" fill="#cbd5e1">SE-001 · Pale Han Cleaver</text>
+
+      <text x="260" y="0" fill="#ef4444" font-weight="bold">SET 002: MOURNING MAUL</text>
+      <text x="260" y="16" fill="#cbd5e1">SE-002 · Heavy Kinetic Impact</text>
+
+      <text x="520" y="0" fill="#10b981" font-weight="bold">SET 005: THE EMBRACE</text>
+      <text x="520" y="16" fill="#cbd5e1">SE-005 · Maternal Shroud Barrier</text>
+
+      <text x="0" y="60" fill="#f8fafc" font-weight="bold">SET 007: HOPE LANTERN</text>
+      <text x="0" y="76" fill="#cbd5e1">SE-007 · Pure Luminous Beam</text>
+
+      <text x="260" y="60" fill="#c084fc" font-weight="bold">SET 009: FORGOTTEN MASK</text>
+      <text x="260" y="76" fill="#cbd5e1">SE-009 · Psychic Thread Lens</text>
+
+      <text x="520" y="60" fill="#f1df76" font-weight="bold">SET 015: BALANCE SCALE</text>
+      <text x="520" y="76" fill="#cbd5e1">SE-015 · Karmic Verdict Gavel</text>
+    </g>
+  </g>
+
+  <!-- Bottom -->
+  <rect x="12" y="286" width="1176" height="22" rx="2" fill="#0a0502" stroke="#451a03" stroke-width="1"/>
+  <text x="24" y="301" fill="#64748b" font-family="monospace" font-size="10">SIPHON FORGE CAPACITY: MAXIMUM | EXTRACTION PURITY: 99.8% | WEAPON INTEGRITY: PRIME</text>
+  <text x="1164" y="301" fill="#f1df76" font-family="monospace" font-size="10" text-anchor="end">MANUFACTURING DIVISION // FLOOR 3 EXTRACTION HALL</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <radialGradient id="grad_SOMNA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="60%" stop-color="#0369a1"/>
+      <stop offset="100%" stop-color="#082f49"/>
+    </radialGradient>
+  </defs>
+  <!-- Tactical Diamond Outer Bevel -->
+  <polygon points="60,4 116,60 60,116 4,60" fill="url(#grad_SOMNA)" stroke="#38bdf8" stroke-width="4"/>
+  <!-- Inner Circuit Traces -->
+  <polygon points="60,14 106,60 60,106 14,60" fill="#040711" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="6 3"/>
+  <!-- Corner Hazard Pips -->
+  <polygon points="60,18 64,24 56,24" fill="#ffffff"/>
+  <polygon points="60,102 64,96 56,96" fill="#ffffff"/>
+  <polygon points="18,60 24,56 24,64" fill="#ffffff"/>
+  <polygon points="102,60 96,56 96,64" fill="#ffffff"/>
+  <!-- Central Greek Tier Rune -->
+  <text x="60" y="58" fill="#ffffff" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="bold" text-anchor="middle">β</text>
+  <!-- Risk Classification Name & Tier -->
+  <text x="60" y="78" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="bold" text-anchor="middle">SOMNA</text>
+  <text x="60" y="90" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="6.5" font-weight="bold" text-anchor="middle">TIER 02 // MED</text>
+</svg>

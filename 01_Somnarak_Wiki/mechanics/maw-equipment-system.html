@@ -1,0 +1,1699 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>M.A.W. Equipment Architecture &amp; Synthesis — Somnarak Official Wiki</title>
+<link href="../assets/css/wiki.css" rel="stylesheet"/>
+<link href="../assets/icons/somnarak_icon.svg" rel="icon" type="image/svg+xml"/>
+<script defer="" src="../assets/js/wiki.js"></script>
+</head>
+<body>
+<!-- Top Utility Bar -->
+<header class="utility">
+<div class="utility-left">
+<button aria-label="Open navigation" class="nav-open" type="button">☰</button>
+<a class="utility-brand" href="../index.html">SOMNARAK.WIKI</a>
+<span class="utility-era">YEAR 4,238 · DAWN INITIATIVE</span>
+</div>
+<nav aria-label="Main navigation">
+<a href="../index.html">Main page</a>
+<a href="../characters/index.html">Characters</a>
+<a href="../lore/index.html">Lore</a>
+<a href="../locations/index.html">Atlas</a>
+<a href="../factions/index.html">Factions</a>
+<a href="../departments/index.html">Facility</a>
+<a href="../entities/index.html">Entities</a>
+<a href="../maw/index.html">M.A.W.</a>
+<a href="../mechanics/index.html">Mechanics</a>
+</nav>
+<div class="search">
+<input autocomplete="off" id="search" data-index="../data/search.json" placeholder="Search archive..." autocomplete="off"/>
+<div id="results"></div>
+</div>
+</header>
+<!-- Main Grid Layout -->
+<div class="wiki-shell">
+<!-- Left Rail -->
+
+    <aside class="left-rail">
+      <div class="site-mark">
+        <a href="../index.html">
+          <img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+          <b>SOMNARAK</b>
+          <span>OFFICIAL WIKI ARCHIVE</span>
+        </a>
+      </div>
+      <nav aria-label="Wiki navigation" class="left-links">
+        <section>
+          <h2>DATABASE HUBS</h2>
+          <a href="../index.html">Main Overview</a>
+          <a href="../characters/index.html">Characters Hub</a>
+          <a href="../lore/index.html">Lore &amp; Cosmology</a>
+          <a href="../locations/index.html">Locations &amp; Atlas</a>
+          <a href="../factions/index.html">Factions &amp; Guilds</a>
+          <a href="../departments/index.html">Facility Floors</a>
+          <a href="../entities/index.html">Sorrow Entities</a>
+          <a href="../maw/index.html">M.A.W. Equipment</a>
+          <a href="../mechanics/index.html">Systems &amp; Mechanics</a>
+        </section>
+        <section>
+          <h2>THE NINE ECHO-CORES</h2>
+          <a href="../characters/the-director-majin.html">1. Director Majin</a>
+          <a href="../characters/the-secretary-seiyon.html">2. Seiyon (Secretary)</a>
+          <a href="../characters/the-containment-lead-dekan.html">3. Dekan (Containment)</a>
+          <a href="../characters/the-extraction-lead-zyrak.html">4. Zyrak (Extraction)</a>
+          <a href="../characters/the-research-lead-ayshuk.html">5. Ayshuk (Research)</a>
+          <a href="../characters/the-border-lead-mellda.html">6. Mellda (Border)</a>
+          <a href="../characters/the-archive-lead-marjuk.html">7. Marjuk (Archive)</a>
+          <a href="../characters/the-outsider-ishall.html">8. Ishall (Outsider)</a>
+          <a href="../characters/the-exile-xyan.html">9. Xyan (Exile)</a>
+        </section>
+        <section>
+          <h2>CARTOGRAPHY &amp; SCHEMATICS</h2>
+          <a href="../atlas/hand-of-change-map.html">Hand of Change Map</a>
+          <a href="../atlas/somnarak-city-map.html">Somnarak City Blueprint</a>
+          <a href="../project/source-map.html">Master Archive Map</a>
+        </section>
+      </nav>
+    </aside>
+    
+<!-- Main Content Body -->
+<main id="content">
+<!-- Tactical Fast-Jump Subpage Bar -->
+<div class="fast-jump-nav">
+  <span class="fast-jump-title">/// RAPID JUMP:</span>
+  <div class="fast-jump-pills">
+    <a href="han-energy-and-damage.html" class="jump-pill">Damage Matrix</a> <a href="the-four-work-types.html" class="jump-pill">Work Types</a> <a href="secc-classification-system.html" class="jump-pill">SECC Ranks</a> <a href="resonant-clash-mechanics.html" class="jump-pill">Clash Rules</a> <a href="ordeals-framework.html" class="jump-pill">Ordeals</a> <a href="agent-attributes-and-stats.html" class="jump-pill">Agent Stats</a> <a href="containment-and-suppression.html" class="jump-pill">Containment</a> <a href="maw-equipment-system.html" class="jump-pill active">MAW System</a> <a href="taboo-resonance-mechanics.html" class="jump-pill">Taboo Mechanics</a> <a href="index.html" class="jump-pill">✦ Systems Hub</a>
+  </div>
+</div>
+<!-- Tactical Directive Status HUD -->
+<div class="tactical-directive-box">
+  <div class="directive-text">
+    <span class="led-dot led-green"></span> <b>STATUS:</b> ARCHIVE VERIFIED &nbsp;|&nbsp; 
+    <b>CLEARANCE:</b> LEVEL-4 OVERSIGHT &nbsp;|&nbsp; 
+    <b>PROTOCOL:</b> REVERIE DIRECTORATE
+  </div>
+  <img src="../assets/icons/hud_resonance_wave.svg" alt="Resonance Wave" class="directive-wave">
+</div>
+<!-- Page Tabs -->
+<div class="page-tabs">
+<span>ARTICLE</span>
+<span>DISCUSSION</span>
+<span>SOURCE</span>
+<span>HISTORY</span>
+<b>YEAR 4,238 · DAWN OF HOPE</b>
+</div>
+<!-- Breadcrumbs -->
+<div class="breadcrumbs">
+<a href="../index.html">Somnarak</a> <i>/</i>
+<a href="../mechanics/index.html">Systems &amp; Mechanics</a> <i>/</i>
+<span>M.A.W. Equipment Architecture &amp; Synthesis</span>
+</div>
+<!-- Article Header -->
+<div class="article-header">
+<div class="article-eyebrow">SYSTEMS &amp; MECHANICS RECORD</div>
+<h1 class="article-title">M.A.W. Equipment Architecture &amp; Synthesis</h1>
+<div class="article-subbar">
+<span class="badge badge-canon">CANONICAL ARTIFACT</span>
+<span class="badge badge-source">SOURCE VERIFIED</span>
+<div class="article-actions">
+<span class="action-btn">History</span>
+<span class="action-btn">View Source</span>
+</div>
+</div>
+</div>
+<div class="toc" id="toc">
+<div class="toc-title">Contents</div>
+<ol>
+<li><a href="#sorrow-entity-classification-code-secc">Sorrow Entity Classification Code (SECC)</a></li><li><a href="#taboo-enforcement-the-giltong">Taboo Enforcement — The Giltong (질동)</a></li><li><a href="#v-governance-the-fatalistic-order">V. Governance — The Fatalistic Order</a></li><li><a href="#vii-manifestations-of-han">VII. Manifestations of Han</a></li><li><a href="#viii-systems-mechanics">VIII. Systems &amp; Mechanics</a></li><li><a href="#work-types-jageop-yuhyeong">Work Types (작업 유형 — Jageop Yuhyeong)</a></li><li><a href="#m-a-w-gifts-corrosion">M.A.W. Gifts &amp; Corrosion</a></li><li><a href="#named-fractures-those-who-broke">Named Fractures — Those Who Broke</a></li><li><a href="#x-c-population-statistics">X-C. Population &amp; Statistics</a></li>
+</ol>
+</div>
+<div class="wiki-callout">
+<p><strong>CANONICAL RECORD:</strong> Sourced directly from the official <em>Project Somnarak Worldbuilding Codex</em>.</p>
+</div>
+<section class="wiki-section" id="sorrow-entity-classification-code-secc"><h2 class="section-title">Sorrow Entity Classification Code (SECC)</h2><h3>Overview</h3>
+<p><span>Every <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> is assigned a </span><strong>Classification Code</strong> — a unique identifier that encodes its origin, coherence, potency, element, and manifestation type.</p>
+<p><strong>Format:</strong> <code>[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]</code></p>
+<p><strong>Example:</strong> <code>C-IVδ-001 [LO]</code></p>
+<ul>
+<li><strong>C</strong> = City Sorrow origin</li>
+<li><strong>IV</strong> = Entity-level coherence</li>
+<li><strong>δ</strong> = Critical-grade potency</li>
+<li><strong>001</strong> = First entity of this classification</li>
+<li><strong>L</strong> = Lament element</li>
+<li><strong>B</strong> = Subject (Being) manifestation</li>
+</ul>
+<h3>Origin Codes</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Code</th><th>Origin</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td><strong>C</strong></td><td>City Sorrow (도한)</td><td>Born from the city's systems, institutions, accumulated grief</td></tr>
+<tr><td><strong>O</strong></td><td>Outside Sorrow (외한)</td><td>Born from the wilderness, Desolate, external forces</td></tr>
+<tr><td><strong>N</strong></td><td>Inner Sorrow (내한)</td><td>Born from personal grief, individual trauma</td></tr>
+</tbody></table></div>
+<h3>Coherence Codes</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Code</th><th>Level</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td><strong>I</strong></td><td>Residue</td><td>Barely formed — raw Han with faint emotional imprint</td></tr>
+<tr><td><strong>II</strong></td><td>Echo</td><td>Partially coherent — repeats a single emotional pattern</td></tr>
+<tr><td><strong>III</strong></td><td>Fragment</td><td>Mostly coherent — has a "personality" shaped by origin trauma</td></tr>
+<tr><td><strong>IV</strong></td><td>Entity</td><td>Fully coherent — self-aware, complex, capable of thought</td></tr>
+<tr><td><strong>V</strong></td><td>Sovereign</td><td>Transcendent — has become a force rather than a being</td></tr>
+</tbody></table></div>
+<h3>Potency Codes</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Code</th><th>Grade</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td><strong>α</strong></td><td>Minor</td><td>Low danger, basic containment</td></tr>
+<tr><td><strong>β</strong></td><td>Moderate</td><td>Manageable with standard precautions</td></tr>
+<tr><td><strong>γ</strong></td><td>Major</td><td>High danger, experienced agents required</td></tr>
+<tr><td><strong>δ</strong></td><td>Critical</td><td>Facility-threatening</td></tr>
+<tr><td><strong>ω</strong></td><td>Catastrophic</td><td>City-threatening</td></tr>
+</tbody></table></div>
+<h3>Element Codes</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Code</th><th>Element</th><th>Color</th></tr></thead>
+<tbody>
+<tr><td><strong>L</strong></td><td>Lament</td><td>Deep Blue</td></tr>
+<tr><td><strong>G</strong></td><td>Grudge</td><td>Crimson</td></tr>
+<tr><td><strong>V</strong></td><td>Void</td><td>Pale White</td></tr>
+<tr><td><strong>W</strong></td><td>Weight</td><td>Black</td></tr>
+<tr><td><strong>M</strong></td><td>Mixed</td><td>Multiple elements</td></tr>
+</tbody></table></div>
+<h3>Manifestation Codes</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Code</th><th>Type</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td><strong>S</strong></td><td>Subject</td><td>A being — humanoid, creature, animal</td></tr>
+<tr><td><strong>O</strong></td><td>Object</td><td>A thing — tool, weapon, artifact</td></tr>
+<tr><td><strong>P</strong></td><td>Place</td><td>A location — district, zone, area</td></tr>
+<tr><td><strong>T</strong></td><td>Time</td><td>A moment, duration, event</td></tr>
+<tr><td><strong>H</strong></td><td>Hybrid</td><td>Multiple manifestation types</td></tr>
+</tbody></table></div>
+<h3>Reading the Code</h3>
+<p><strong>Example:</strong> <code>C-IVδ-001 [LO]</code></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Part</th><th>Meaning</th></tr></thead>
+<tbody>
+<tr><td><strong>C</strong></td><td>City Sorrow origin</td></tr>
+<tr><td><strong>IV</strong></td><td>Entity-level coherence (self-aware)</td></tr>
+<tr><td><strong>δ</strong></td><td>Critical-grade potency (facility-threatening)</td></tr>
+<tr><td><strong>001</strong></td><td>First entity of this classification</td></tr>
+<tr><td><strong>L</strong></td><td>Lament element</td></tr>
+<tr><td><strong>B</strong></td><td>Subject (Being) manifestation</td></tr>
+</tbody></table></div>
+<p><strong>Full designation:</strong><span> The 1st City <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a>, Entity-level coherence, Critical potency, Lament element, Being manifestation.</span></p>
+<p><strong>Common name:</strong> The Orphaned Bell</p>
+<h3>Classification Examples</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Code</th><th>Common Name</th><th>Origin</th><th>Coherence</th><th>Potency</th><th>Element</th><th>Manifestation</th></tr></thead>
+<tbody>
+<tr><td><code>C-IVδ-001 [LO]</code></td><td>The Orphaned Bell</td><td>City</td><td>Entity</td><td>Critical</td><td>Lament</td><td>Object</td></tr>
+<tr><td><code>C-IIIβ-014 [VS]</code></td><td>The Debt Eater</td><td>City</td><td>Fragment</td><td>Moderate</td><td>Void</td><td>Object</td></tr>
+<tr><td><code>C-IVγ-009 [VS]</code></td><td>The Memory Weaver</td><td>City</td><td>Entity</td><td>Major</td><td>Void</td><td>Being</td></tr>
+<tr><td><code>C-Vδ-002 [WS]</code></td><td>The Grieving Colossus</td><td>City</td><td>Sovereign</td><td>Critical</td><td>Weight</td><td>Being</td></tr>
+<tr><td><code>C-IIIγ-021 [LS]</code></td><td>The Hollow Choir</td><td>City</td><td>Fragment</td><td>Major</td><td>Lament</td><td>Being</td></tr>
+<tr><td><code>N-IVδ-005 [GS]</code></td><td>The Smothering Mother</td><td>Inner</td><td>Entity</td><td>Critical</td><td>Grudge</td><td>Being</td></tr>
+<tr><td><code>N-IIβ-033 [GS]</code></td><td>The Forgotten Soldier</td><td>Inner</td><td>Echo</td><td>Moderate</td><td>Grudge</td><td>Being</td></tr>
+<tr><td><code>C-IVω-001 [GP]</code></td><td><span><a class="wiki-link" href="../locations/the-maw.html">The Maw</a></span></td><td>City</td><td>Entity</td><td>Catastrophic</td><td>Grudge</td><td>Place</td></tr>
+<tr><td><code>O-IIIδ-011 [GS]</code></td><td>The Scar Walker</td><td>Outside</td><td>Fragment</td><td>Critical</td><td>Grudge</td><td>Being</td></tr>
+<tr><td><code>O-IIγ-007 [VP]</code></td><td>The Drift Fog</td><td>Outside</td><td>Echo</td><td>Major</td><td>Void</td><td>Place</td></tr>
+<tr><td><code>N-IVβ-019 [WS]</code></td><td>The Inherited Debt</td><td>Inner</td><td>Entity</td><td>Moderate</td><td>Weight</td><td>Being</td></tr>
+</tbody></table></div>
+<h3>The Maw's Classification</h3>
+<p><strong>Code:</strong> <code>C-IVω-001 [GP]</code></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Part</th><th>Meaning</th></tr></thead>
+<tbody>
+<tr><td><strong>C</strong></td><td>City Sorrow — born from the city's own systems</td></tr>
+<tr><td><strong>IV</strong></td><td>Entity-level — self-aware, intelligent</td></tr>
+<tr><td><strong>ω</strong></td><td>Catastrophic — city-threatening</td></tr>
+<tr><td><strong>001</strong></td><td>The first — and only — ω-grade entity</td></tr>
+<tr><td><strong>G</strong></td><td>Grudge element — resentment, injustice</td></tr>
+<tr><td><strong>P</strong></td><td>Place manifestation — the district itself is the entity</td></tr>
+</tbody></table></div>
+<p><strong>Special designation:</strong> <a class="wiki-link" href="../locations/the-maw.html">The Maw</a> is the only ω-grade entity in Somnarak. It is also the only entity that is <strong>uncontained</strong> — the district itself is its containment.</p></section>
+<section class="wiki-section" id="taboo-enforcement-the-giltong"><h2 class="section-title">Taboo Enforcement — The Giltong (질동)</h2><h3>Overview</h3>
+<div class="wiki-callout"><p><em>"The Taboos are not suggestions. They are the city's immune system. And we are the white blood cells."</em></p></div>
+<p><strong>The Giltong (질동)</strong> are Somnarak's dedicated Taboo enforcers — specialists who track, capture, and punish those who violate the Seven Taboos.</p>
+<h3>What are the Giltong?</h3>
+<p><strong>Name:</strong> Giltong (질동)</p>
+<p><strong>Etymology:</strong> Korean <em>Gil</em> (길 — path, way) + <em>Dong</em> (동 — same, together)</p>
+<p><strong>Literal Meaning:</strong> Those who walk the same path — enforcers of the city's rules</p>
+<p><strong>Origin:</strong> The Giltong were established after the Consolihan — when the Taboos were first codified. The Council recognized that the Taboos needed dedicated enforcement — not just the Wardens (who maintain general order) or the Judexhan (who serve as elite agents), but specialists who understand the Taboos intimately.</p>
+<p><strong>Status:</strong> The Giltong operate independently from all factions — they report directly to the Council of Sighs. No faction can override a Giltong's authority on Taboo matters.</p>
+<h3>The Seven Taboos and Their Enforcement</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Taboo</th><th>Prohibition</th><th>Giltong Response</th><th>Severity</th></tr></thead>
+<tbody>
+<tr><td><strong>1 — No Resurrection</strong></td><td>Bringing back the dead</td><td>Immediate containment + Maw activation assessment</td><td>Extreme</td></tr>
+<tr><td><strong>2 — No True AI</strong></td><td>Creating sentient machines</td><td>Erasure of the AI + punishment of creator</td><td>Extreme</td></tr>
+<tr><td><strong>3 — No Han Immunity</strong></td><td>Becoming immune to sorrow</td><td>Exile to the Desolate</td><td>High</td></tr>
+<tr><td><strong>4 — No Time Reversal</strong></td><td>Altering the past</td><td>Containment + paradox assessment</td><td>Extreme</td></tr>
+<tr><td><strong>5 — No Sorrow Synthesis</strong></td><td>Manufacturing fake sorrow</td><td>Destruction of synthetic sorrow + punishment</td><td>High</td></tr>
+<tr><td><strong>6 — No Cross-Boundary Fusion</strong></td><td>Merging city and wilderness</td><td>Containment + Fracture Zone assessment</td><td>Extreme</td></tr>
+<tr><td><strong>7 — No Echo-Core Duplication</strong></td><td>Copying an Echo-Core</td><td>Fragmentation of the copy + investigation</td><td>Extreme</td></tr>
+</tbody></table></div>
+<h3>Giltong Structure</h3>
+<p><code></code>`</p>
+<p>THE GILTONG</p>
+<p>│</p>
+<p>├── The Arbiter (1) — Supreme authority on Taboo matters</p>
+<p>│</p>
+<p>├── Senior Giltong (7) — One per Taboo</p>
+<p>│   └── Giltong Agents (5-10 per Taboo)</p>
+<p>│</p>
+<p>└── Support Staff</p>
+<p>├── Investigators (research Taboo violations)</p>
+<p>├── Containment Specialists (hold violators)</p>
+<p>└── Archivists (record Taboo cases)</p>
+<p><code></code>`</p>
+<p><strong>Total personnel:</strong> ~100</p>
+<h3>The Arbiter</h3>
+<p><strong>Role:</strong> Supreme authority on Taboo matters — the final word on Taboo enforcement.</p>
+<p><strong>Who:</strong> A former Judexhan who was "retired" — their Han-crystal implant removed, their memories partially restored. The Arbiter is the only person who has seen both sides — the enforcement system and the Taboo system.</p>
+<p><strong>Authority:</strong></p>
+<ul>
+<li>Can override any faction's authority on Taboo matters</li>
+<li>Can sentence Taboo violators directly — no trial needed</li>
+<li>Can authorize Taboo exceptions — in extreme circumstances</li>
+<li>Reports directly to the Council of Sighs</li>
+</ul>
+<p><strong>The Arbiter's burden:</strong> The Arbiter knows the Taboos exist for a reason — but they also know the Taboos have a cost. Every enforcement creates sorrow. Every punishment creates more Han. The Arbiter enforces the Taboos because they must — not because they believe they are just.</p>
+<h3>Giltong Operations</h3>
+<p><strong>How they detect Taboo violations:</strong></p>
+<ul>
+<li><strong>Han-signature analysis</strong> — each Taboo violation leaves a unique Han signature</li>
+<li><strong>Whisper Network</strong> — informants across all zones report suspicious activity</li>
+<li><strong>The Veil Watchers</strong> — Menders who monitor the Veil for Taboo-related anomalies</li>
+<li><strong>R.D. reports</strong> — the R.D. reports potential Taboo violations to the Giltong</li>
+</ul>
+<p><strong>How they respond:</strong></p>
+<ol>
+<li><strong>Detection</strong> — Taboo violation identified</li>
+<li><strong>Investigation</strong> — Giltong Agents investigate the violation</li>
+<li><strong>Containment</strong> — Violator is contained — if necessary</li>
+<li><strong>Judgment</strong> — The Arbiter determines the sentence</li>
+<li><strong>Enforcement</strong> — Sentence is carried out</li>
+<li><strong>Documentation</strong> — Case is recorded in the Taboo Archive</li>
+</ol>
+<p><strong>Giltong equipment:</strong></p>
+<ul>
+<li><strong>Taboo Scanners</strong> — detect Taboo-related Han signatures</li>
+<li><strong>Containment Bonds</strong> — Han-crystal restraints that suppress Taboo-related abilities</li>
+<li><strong>The Arbiter's Blade</strong> — a weapon that cuts through Taboo violations — literally severing the connection between violator and violation</li>
+<li><strong>Taboo Archive</strong> — records of every Taboo case in the city's history</li>
+</ul>
+<h3>Famous Taboo Cases</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Case</th><th>Taboo Violated</th><th>Violator</th><th>Sentence</th><th>Consequence</th></tr></thead>
+<tbody>
+<tr><td><strong>The Whispering Incident</strong></td><td>No True AI</td><td>Unknown creator</td><td>Erasure of the AI</td><td>The AI screamed as it was destroyed — some say it still whispers</td></tr>
+<tr><td><strong>The Immunity Cult</strong></td><td>No Han Immunity</td><td>A group of citizens</td><td>Exile to the Desolate</td><td>The cult still exists in the Desolate — immune to sorrow</td></tr>
+<tr><td><strong>The Time Keeper</strong></td><td>No Time Reversal</td><td>A Weaver who tried to reverse time</td><td>Containment — the Weaver is now frozen in time</td><td>The Weaver exists in a single moment — forever</td></tr>
+<tr><td><strong>The Synthetic Sorrow</strong></td><td>No Sorrow Synthesis</td><td><span>A Fray (<a class="wiki-link" href="../factions/the-memory-washers.html">Memory Washers</a>)</span></td><td>Destruction of the synthetic sorrow</td><td>The synthetic sorrow fought back — it had become sentient</td></tr>
+<tr><td><strong>The Boundary Walker</strong></td><td>No Cross-Boundary Fusion</td><td>A Desolate nomad</td><td>Containment — the nomad merged with Outside Sorrow</td><td>The nomad is now a living Fracture Zone</td></tr>
+<tr><td><strong>The Copy</strong></td><td>No Echo-Core Duplication</td><td>Unknown</td><td>Fragmentation of the copy</td><td>The copy screamed — it was aware of what it was</td></tr>
+</tbody></table></div>
+<h3>The Giltong and Other Factions</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Faction</th><th>Relationship</th></tr></thead>
+<tbody>
+<tr><td><strong>Council</strong></td><td>Direct authority — the Giltong report to the Council</td></tr>
+<tr><td><strong>Architects</strong></td><td>Neutral — Architects respect the Taboos</td></tr>
+<tr><td><strong>Collectors</strong></td><td>Tense — Collectors sometimes violate Taboo 5 (Sorrow Synthesis)</td></tr>
+<tr><td><strong>Keepers</strong></td><td>Cooperative — Keepers help with Taboo documentation</td></tr>
+<tr><td><strong>Wardens</strong></td><td>Supportive — Wardens provide backup when needed</td></tr>
+<tr><td><strong>Weavers</strong></td><td>Distrustful — Weavers sometimes push Taboo boundaries</td></tr>
+<tr><td><strong>R.D.</strong></td><td>Complex — the R.D. pushes Taboo boundaries in research</td></tr>
+<tr><td><strong>Judexhan</strong></td><td>Parallel — both enforce, but differently</td></tr>
+<tr><td><strong>Menders</strong></td><td>Neutral — Menders sometimes witness Taboo violations</td></tr>
+<tr><td><strong>Frays</strong></td><td>Hostile — Frays frequently violate Taboos</td></tr>
+</tbody></table></div></section>
+<section class="wiki-section" id="v-governance-the-fatalistic-order"><h2 class="section-title">V. Governance — The Fatalistic Order</h2><h3>Overview</h3>
+<p>Somnarak's governance is not a single system — it is a <strong>web of interdependent factions</strong>, each controlling a piece of the city's function. The Council of Sighs sits at the top, but its authority is more symbolic than absolute. In practice, the five Heads run their domains with considerable autonomy.</p>
+<p><strong>The power dynamic:</strong> The Council decides <em>what</em> must happen. The Councils decide <em>how</em>. The citizens bear the cost.</p>
+<h3>The Council of Sighs (한숨의 의회)</h3>
+<p><strong>Location:</strong><span> The Sigh Palace (Building 1, <a class="wiki-link" href="../locations/zone-a-core-nexus.html">Zone A</a>)</span></p>
+<p><strong>Philosophy:</strong> <em>"This is inevitable. We merely manage the flow of grief."</em></p>
+<p><strong>How membership works:</strong></p>
+<ul>
+<li>Members are <strong>chosen by the weight they carry</strong> — the more Han one has absorbed and survived, the higher their authority</li>
+<li>Rulers are often the most <em>broken</em> people in the city — those who have suffered most and endured</li>
+<li>Membership is for life — or until the member can no longer bear the weight</li>
+<li><strong>Is this wisdom or trauma masquerading as governance?</strong></li>
+</ul>
+<p><strong>What the Council does:</strong></p>
+<ul>
+<li>Sets policy for the city as a whole</li>
+<li>Resolves disputes between Heads</li>
+<li>Approves or denies major structural changes (new sectors, demolitions)</li>
+<li>Maintains the city's relationship with the Dream and Abyss</li>
+<li><strong>Does not</strong> directly govern citizens — that falls to the sector-level authorities</li>
+</ul>
+<p><strong>The Council's weakness:</strong></p>
+<ul>
+<li>They are chosen for endurance, not wisdom</li>
+<li>Many are emotionally numb — they have absorbed too much</li>
+<li>They resist change because change is uncertain, and uncertainty creates Han</li>
+<li>The Head Architect often clashes with them — the only faction that actively pushes for reform</li>
+</ul>
+<p><strong>The Council's strength:</strong></p>
+<ul>
+<li>They have survived what would break anyone else</li>
+<li>Their fatalism is not weakness — it is <em>realism</em></li>
+<li>When they say "this is inevitable," they speak from experience</li>
+<li>They are the city's shock absorbers — they take on the heaviest Han so others don't have to</li>
+</ul>
+<h3>The Five Heads</h3>
+<p>Each Head controls a domain of the city's function. They report to the Council but operate with significant autonomy.</p>
+<h4>The Head Architect (건축장 — Geonchukjang)</h4>
+<p><strong>Location:</strong><span> The Architect's Hall (Building 6, <a class="wiki-link" href="../locations/zone-a-core-nexus.html">Zone A</a>)</span></p>
+<p><strong>Domain:</strong> City expansion, repair, reshaping, construction</p>
+<p><strong>Philosophy:</strong> <em>"If I cannot stop the sorrow, can I build something that makes it bearable?"</em></p>
+<p><strong>What they do:</strong></p>
+<ul>
+<li>Design and construct new buildings, sectors, and infrastructure</li>
+<li>Repair damage from Han overflow, Fractures, and time</li>
+<li>Contain dangerous Sorrow-Wrought entities</li>
+<li>Reroute Han flows to prevent accumulation</li>
+<li><strong>The only faction that actively tries to change the city</strong></li>
+</ul>
+<p><strong>Internal structure:</strong></p>
+<p><code></code>`</p>
+<p>Head Architect (Council member)</p>
+<p>│</p>
+<p>├── Master Architects (5) — one per zone</p>
+<p>│   └── Shapers (zone-level planners)</p>
+<p>│       └── Builders (independent workers)</p>
+<p>│           └── Crafters (supervised workers)</p>
+<p>│               └── Apprentices (in training)</p>
+<p>│</p>
+<p>├── The Containment Division</p>
+<p>│   └── Specialists in Sorrow-Wrought entity management</p>
+<p>│</p>
+<p>└── The Survey Corps</p>
+<p>└── Scouts who map Han flows, detect instability</p>
+<p><code></code>`</p>
+<p><strong>Tension with other factions:</strong></p>
+<ul>
+<li><strong>The Council:</strong> "You build too fast. You break what works."</li>
+<li><strong>The Collectors:</strong> "You shelter people from their debts."</li>
+<li><strong><span><a class="wiki-link" href="../factions/the-wardens.html">The Wardens</a>:</span></strong> "Your construction zones are security risks."</li>
+<li><strong>The Keepers:</strong> "You destroy as much as you build. What about preservation?"</li>
+<li><strong>The Weavers:</strong> "You shape the physical, but ignore the Dream."</li>
+</ul>
+<p><strong>The Architect's Mark:</strong></p>
+<ul>
+<li>Long-serving Architects develop visible changes — grey hair, dark veins, altered eyes</li>
+<li>This is caused by prolonged exposure to raw Han</li>
+<li><strong>The question:</strong> Is the Mark a badge of honor — or the early stages of Fracture?</li>
+<li>The Cheongula proved Han consumes humanity. Are Architects being slowly assimilated?</li>
+</ul>
+<h4>The Head Collector (추징장 — Chujingjang)</h4>
+<p><strong>Location:</strong><span> The Collector's Spire (<a class="wiki-link" href="../locations/zone-c-collectors-row.html">Zone C</a>, SECTOR-C-01)</span></p>
+<p><strong>Domain:</strong> Debt enforcement, karmic balance, economic regulation</p>
+<p><strong>Philosophy:</strong> <em>"Debts must be paid. This is not cruelty — it is balance."</em></p>
+<p><strong>What they do:</strong></p>
+<ul>
+<li>Track and collect karmic debts — the obligations created by actions in a Han-structural world</li>
+<li>Enforce the Cycle of Debt — ensuring that what is owed is paid</li>
+<li>Regulate the Echo economy — preventing inflation, counterfeiting, hoarding</li>
+<li>Pursue debt evaders — those who try to escape their obligations</li>
+<li><strong>The most feared faction in the city</strong></li>
+</ul>
+<p><strong>How debts work:</strong></p>
+<ul>
+<li>Every action in Somnarak creates a <strong>debt</strong> in the Abyss</li>
+<li>Debts manifest physically — aging, illness, bad luck, transformation</li>
+<li>Debts can be <strong>transferred</strong> — the powerful can shift their debts to the weak</li>
+<li>Debts can be <strong>deferred</strong> — but they accumulate interest (more sorrow)</li>
+<li>Debts can be <strong>paid</strong> — through suffering, sacrifice, or Echoes</li>
+</ul>
+<p><strong>Internal structure:</strong></p>
+<p><code></code>`</p>
+<p>Head Collector (Council member)</p>
+<p>│</p>
+<p>├── Senior Collectors (zone-level authorities)</p>
+<p>│   └── Collectors (field agents)</p>
+<p>│       └── Assessors (evaluate debts)</p>
+<p>│           └── Apprentices (in training)</p>
+<p>│</p>
+<p>├── The Debt Registry</p>
+<p>│   └── Records every debt in the city — who owes, how much, to whom</p>
+<p>│</p>
+<p>└── The Pursuit Division</p>
+<p>└── Specialists in tracking debt evaders</p>
+<p><code></code>`</p>
+<p><strong>The Collector's tools:</strong></p>
+<ul>
+<li><strong>The Ledger:</strong> A record of all debts — maintained with obsessive precision</li>
+<li><strong>The Scales:</strong> A tool that measures the weight of a person's debt — physical and metaphysical</li>
+<li><strong>The Debt Eater:</strong> A Sorrow-Wrought entity used to consume debts — but it leaves victims hollow</li>
+<li><strong>Echo extraction:</strong> The ability to pull Echoes from a person as payment — painful, invasive</li>
+</ul>
+<p><strong>Tension with other factions:</strong></p>
+<ul>
+<li><strong>The Architects:</strong> "You build shelters for those who should be paying their debts."</li>
+<li><strong>The Council:</strong> "You are too lenient. The system must be maintained."</li>
+<li><strong>The Citizens:</strong> "You are cruel. You take what little we have."</li>
+<li><strong>The Keepers:</strong> "You erase people's pasts to pay their debts. Who are they when they have nothing left?"</li>
+</ul>
+<p><strong>The Collector's dilemma:</strong></p>
+<ul>
+<li>They are necessary — without debt enforcement, the system collapses</li>
+<li>But the system is <strong>not fair</strong> — the powerful can transfer debts to the weak</li>
+<li>Some Collectors believe in the system; others are disillusioned</li>
+<li>The Head Collector must balance <strong>enforcement</strong> with <strong>mercy</strong> — or the city will turn on them</li>
+</ul>
+<h4>The Head Keeper (기록장 — Girokjang)</h4>
+<p><strong>Location:</strong><span> The Grand Archive (Building 2, <a class="wiki-link" href="../locations/zone-a-core-nexus.html">Zone A</a>)</span></p>
+<p><strong>Domain:</strong> Memory preservation, history, identity, knowledge</p>
+<p><strong>Philosophy:</strong> <em>"We hold what would otherwise be lost. This is not power — it is responsibility."</em></p>
+<p><strong>What they do:</strong></p>
+<ul>
+<li>Preserve the city's history — records, memories, artifacts</li>
+<li>Maintain the Echo vaults — stored emotions and memories</li>
+<li>Provide knowledge services — research, translation, verification</li>
+<li>Manage memory-related transactions — buying, selling, trading memories</li>
+<li><strong>The guardians of identity</strong></li>
+</ul>
+<p><strong>The Archive:</strong></p>
+<ul>
+<li><span>The Grand Archive is the second largest building in <a class="wiki-link" href="../locations/zone-a-core-nexus.html">Zone A</a></span></li>
+<li>It extends deep underground — the oldest records are in the lowest vaults</li>
+<li>Shelves extend into Dream-space — some records exist partially in the Dream</li>
+<li>The Archive is <strong>alive</strong> — it responds to the emotions of those who enter</li>
+<li>The deepest vaults contain <strong>dangerous knowledge</strong> — truths that could destabilize the city</li>
+</ul>
+<p><strong>Internal structure:</strong></p>
+<p><code></code>`</p>
+<p>Head Keeper (Council member)</p>
+<p>│</p>
+<p>├── Senior Archivists (zone-level curators)</p>
+<p>│   └── Archivists (record-keepers)</p>
+<p>│       └── Scribes (copyists, translators)</p>
+<p>│           └── Apprentices (in training)</p>
+<p>│</p>
+<p>├── The Memory Division</p>
+<p>│   └── Specialists in memory extraction, storage, and restoration</p>
+<p>│</p>
+<p>├── The Vault Guard</p>
+<p>│   └── Protects the deepest, most dangerous records</p>
+<p>│</p>
+<p>└── The Verification Bureau</p>
+<p>└── Confirms the authenticity of records and memories</p>
+<p><code></code>`</p>
+<p><strong>The Keeper's tools:</strong></p>
+<ul>
+<li><strong>Memory extraction:</strong> The ability to pull memories from a person — with or without consent</li>
+<li><strong>Memory storage:</strong> Crystallized memories (Echoes) stored in vaults</li>
+<li><strong>Memory restoration:</strong> The ability to return stored memories — but the process is imperfect</li>
+<li><strong>The Whispering Index:</strong> A catalog of every memory in the Archive — it <em>speaks</em> to those who listen</li>
+</ul>
+<p><strong>Tension with other factions:</strong></p>
+<ul>
+<li><strong>The Collectors:</strong> "You trade in memories as currency. You commodify identity."</li>
+<li><strong>The Architects:</strong> "You preserve the past, but what about the future?"</li>
+<li><strong>The Weavers:</strong> "You steal memories and call it preservation. The Dream remembers too."</li>
+<li><strong>The Council:</strong> "Some truths should stay buried. You dig too deep."</li>
+</ul>
+<p><strong>The Keeper's dilemma:</strong></p>
+<ul>
+<li>They hold the truth — but truth is dangerous</li>
+<li>The Cheongula's records are in the Archive — but so are the records of <strong>what caused it</strong></li>
+<li>If the First Sorrow is revealed, it could destabilize the city</li>
+<li><strong>Do the Keepers preserve history — or control it?</strong></li>
+</ul>
+<h4>The Head Warden (수호장 — Suhujang)</h4>
+<p><strong>Location:</strong><span> The Warden's Citadel (<a class="wiki-link" href="../locations/zone-c-collectors-row.html">Zone C</a>, The Warden's Quarter)</span></p>
+<p><strong>Domain:</strong> Order, defense, military, law enforcement</p>
+<p><strong>Philosophy:</strong> <em>"We protect the city from itself — and from what lies beyond."</em></p>
+<p><strong>What they do:</strong></p>
+<ul>
+<li>Maintain public order — police, patrols, dispute resolution</li>
+<li><span>Defend the city's borders — especially <a class="wiki-link" href="../locations/zone-e-perimeter-bulwark.html">Zone E</a></span></li>
+<li>Respond to Han overflow events — contain, evacuate, stabilize</li>
+<li>Enforce the Council's decrees — with force if necessary</li>
+<li><strong>The city's shield</strong></li>
+</ul>
+<p><strong>Internal structure:</strong></p>
+<p><code></code>`</p>
+<p>Head Warden (Council member)</p>
+<p>│</p>
+<p>├── Zone Commanders (5) — one per zone</p>
+<p>│   └── Sector Captains</p>
+<p>│       └── Wardens (field agents)</p>
+<p>│           └── Recruits (in training)</p>
+<p>│</p>
+<p>├── The Border Corps</p>
+<p><span>│   └── Defends <a class="wiki-link" href="../locations/zone-e-perimeter-bulwark.html">Zone E</a> — the most dangerous posting</span></p>
+<p>│</p>
+<p>├── The Containment Squad</p>
+<p>│   └── Responds to Fracture events and Sorrow-Wrought manifestations</p>
+<p>│</p>
+<p>└── The Internal Affairs Division</p>
+<p>└── Monitors corruption within the Wardens themselves</p>
+<p><code></code>`</p>
+<p><strong>The Warden's tools:</strong></p>
+<ul>
+<li><strong>Han-suppression gear:</strong> Equipment that dampens Han's effects — but only temporarily</li>
+<li><strong>Fracture dampeners:</strong> Devices that slow (but don't stop) the Fracture process</li>
+<li><strong>The Barrier:</strong> A network of Han-repelling structures around key locations</li>
+<li><strong>Force:</strong> When all else fails, the Wardens use physical force — but in a Han-structural world, violence creates more sorrow</li>
+</ul>
+<p><strong>Tension with other factions:</strong></p>
+<ul>
+<li><strong>The Architects:</strong> "Your construction zones create security gaps."</li>
+<li><strong>The Collectors:</strong> "We need your muscle for debt collection, but you resent being used."</li>
+<li><strong>The Citizens:</strong> "You protect us — but from what? From ourselves?"</li>
+<li><strong>The Council:</strong> "You enforce our decrees — but do you believe in them?"</li>
+</ul>
+<p><strong>The Warden's dilemma:</strong></p>
+<ul>
+<li>They protect a system that may not deserve protection</li>
+<li><span>The border (<a class="wiki-link" href="../locations/zone-e-perimeter-bulwark.html">Zone E</a>) is the most dangerous posting — but also the most honest</span></li>
+<li>Internal corruption is rampant — some Wardens use their power for personal gain</li>
+<li><strong>Do the Wardens serve the city — or the Council?</strong></li>
+</ul>
+<h4>The Head Weaver (직녀장 — Jiknyeojang)</h4>
+<p><strong>Location:</strong><span> The Spire of Dreams (Building 4, <a class="wiki-link" href="../locations/zone-a-core-nexus.html">Zone A</a>)</span></p>
+<p><strong>Domain:</strong> Dream-related affairs, Dream entities, subconscious management</p>
+<p><strong>Philosophy:</strong> <em>"The Dream is not illusion. It is the world's true face — we are the dream."</em></p>
+<p><strong>What they do:</strong></p>
+<ul>
+<li>Manage the boundary between the Dream realm and the physical world</li>
+<li>Monitor and contain Dream entities</li>
+<li>Conduct Dream-diving operations — entering the Dream for research or retrieval</li>
+<li>Study the subconscious — understanding how Han flows through the mind</li>
+<li><strong>The most mysterious faction</strong></li>
+</ul>
+<p><strong><span><a class="wiki-link" href="../lore/the-dream-realm.html">Dream Realm</a> (Somnus):</span></strong></p>
+<ul>
+<li>Not a separate world — it is the <strong>subconscious layer</strong> of reality</li>
+<li>In the Dream, emotions are physical, memories are landscapes, and desires are entities</li>
+<li>The Dream contains echoes of the Before-Time — but they are distorted</li>
+<li>Time flows differently — minutes in reality can be hours in the Dream</li>
+<li>The deeper you go, the more dangerous it becomes</li>
+</ul>
+<p><strong>Internal structure:</strong></p>
+<p><code></code>`</p>
+<p>Head Weaver (Council member)</p>
+<p>│</p>
+<p>├── Senior Weavers (zone-level monitors)</p>
+<p>│   └── Weavers (field agents)</p>
+<p>│       └── Dream Divers (specialists in Dream exploration)</p>
+<p>│           └── Apprentices (in training)</p>
+<p>│</p>
+<p>├── The Entity Division</p>
+<p>│   └── Studies, contains, and communicates with Dream entities</p>
+<p>│</p>
+<p>├── The Boundary Corps</p>
+<p>│   └── Maintains the barrier between Dream and reality</p>
+<p>│</p>
+<p>└── The Interpretation Bureau</p>
+<p>└── Deciphers Dream symbols, visions, and prophecies</p>
+<p><code></code>`</p>
+<p><strong>The Weaver's tools:</strong></p>
+<ul>
+<li><strong>Dream-diving:</strong> The ability to enter the Dream — requires training, equipment, and mental resolve</li>
+<li><strong>Dream extraction:</strong> The ability to pull objects or information from the Dream — but what comes out may not be what you expected</li>
+<li><strong>The Loom:</strong> A device that weaves Dream and reality together — used for containment or communication</li>
+<li><strong>Dream entities:</strong> Some Weavers have partnerships with Dream beings — but trust is fragile</li>
+</ul>
+<p><strong>Tension with other factions:</strong></p>
+<ul>
+<li><strong>The Keepers:</strong> "You steal memories and call it preservation. The Dream remembers too — and we can access it."</li>
+<li><strong>The Architects:</strong> "You ignore the Dream in your building. The subconscious affects the physical."</li>
+<li><strong>The Council:</strong> "You are too close to the Dream. It changes those who enter."</li>
+<li><strong>The Citizens:</strong> "You are sorcerers. You play with our minds."</li>
+</ul>
+<p><strong>The Weaver's dilemma:</strong></p>
+<ul>
+<li>The Dream contains truths — but also lies</li>
+<li>Dream-diving is addictive — the Dream shows you what you want to see</li>
+<li>Some Weavers have lost themselves — they live more in the Dream than in reality</li>
+<li><strong>Is the Dream a tool — or a trap?</strong></li>
+</ul>
+<h3>Faction Relationships (Summary)</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Faction</th><th>Council</th><th>Architects</th><th>Collectors</th><th>Keepers</th><th>Wardens</th><th>Weavers</th></tr></thead>
+<tbody>
+<tr><td><strong>Council</strong></td><td>—</td><td>Tension</td><td>Support</td><td>Dependence</td><td>Dependence</td><td>Distrust</td></tr>
+<tr><td><strong>Architects</strong></td><td>Tension</td><td>—</td><td>Conflict</td><td>Tension</td><td>Tension</td><td>Ignored</td></tr>
+<tr><td><strong>Collectors</strong></td><td>Support</td><td>Conflict</td><td>—</td><td>Tension</td><td>Dependence</td><td>Neutral</td></tr>
+<tr><td><strong>Keepers</strong></td><td>Dependence</td><td>Tension</td><td>Tension</td><td>—</td><td>Neutral</td><td>Rivalry</td></tr>
+<tr><td><strong>Wardens</strong></td><td>Dependence</td><td>Tension</td><td>Dependence</td><td>Neutral</td><td>—</td><td>Distrust</td></tr>
+<tr><td><strong>Weavers</strong></td><td>Distrust</td><td>Ignored</td><td>Neutral</td><td>Rivalry</td><td>Distrust</td><td>—</td></tr>
+</tbody></table></div>
+<p><strong>Key dynamics:</strong></p>
+<ul>
+<li><strong>Council + Collectors:</strong> The Council relies on Collectors to maintain order — they are the system's enforcers</li>
+<li><strong>Architects vs. Everyone:</strong> The only faction that wants to change things — everyone else wants stability</li>
+<li><strong>Keepers vs. Weavers:</strong> Both deal with memory/identity — but through different means (Archive vs. Dream)</li>
+<li><strong>Wardens as muscle:</strong> Everyone needs the Wardens, but no one respects them as equals</li>
+<li><strong>Weavers as outsiders:</strong> The most isolated faction — their work is mysterious and mistrusted</li>
+</ul></section>
+<section class="wiki-section" id="vii-manifestations-of-han"><h2 class="section-title">VII. Manifestations of Han</h2><h3>Sorrow Entities (한조각 — Han-jogak) — Classification System</h3>
+<p><strong>Official Designation:</strong><span> <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a> (한조각 — Han-jogak)</span></p>
+<p><strong>Colloquial Names:</strong> Sorrow-Wrought, The Manifest, Echoes of Grief</p>
+<p><strong>What they are:</strong> Physical manifestations of collective grief. Not monsters — <strong>symptoms</strong>. Each has a story — the original injustice or loss that birthed them.</p>
+<p><strong>Origin:</strong><span> <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a> form when concentrated Han reaches critical mass and crystallizes around a specific emotional core — a trauma, an injustice, a loss so profound that it becomes </span><em>alive</em>.</p>
+<h3>Legacy Classification (SCS) — superseded by SECC</h3>
+<p>The original <strong>Sorrow Classification System (SCS)</strong> classified entities by three axes — <strong>Coherence</strong> (I–V), <strong>Potency</strong> (α–ω), and <strong>Sorrow Category</strong> (Dohan/Oehan/Naehan) — using the designation format <code>[Coherence]-[Potency]-[Number] [Category]</code> (e.g., <code>IV-δ-001 [Dohan]</code>).</p>
+<p>SCS has been <strong>superseded by the SECC</strong> (above), which adds two axes (Element and Manifestation) and uses origin letters instead of category names. SCS codes still appear in older Archive records. The mapping:</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>SCS Category</th><th>→ SECC Origin</th><th>Meaning</th></tr></thead>
+<tbody>
+<tr><td>Dohan (도한)</td><td><strong>C</strong></td><td>City Sorrow</td></tr>
+<tr><td>Oehan (외한)</td><td><strong>O</strong></td><td>Outside Sorrow</td></tr>
+<tr><td>Naehan (내한)</td><td><strong>N</strong></td><td>Inner Sorrow</td></tr>
+</tbody></table></div>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>SCS designation</th><th>→ SECC designation</th></tr></thead>
+<tbody>
+<tr><td><code>IV-δ-001 [Dohan]</code></td><td><code>C-IVδ-001 [Element][Manifestation]</code></td></tr>
+<tr><td><code>III-β-014 [Oehan]</code></td><td><code>O-IIIβ-014 [Element][Manifestation]</code></td></tr>
+<tr><td><code>II-γ-009 [Naehan]</code></td><td><code>N-IIγ-009 [Element][Manifestation]</code></td></tr>
+</tbody></table></div>
+<p>Coherence (I–V) and Potency (α–ω) are <strong>unchanged</strong> between SCS and SECC — see the SECC code tables above. <em>(SECC uses lowercase <strong>ω</strong> for Catastrophic potency; capital <strong>Ω</strong> is reserved for Hope Intensity only. Older SCS records may show capital Ω for potency — read it as ω.)</em></p>
+<p>The <strong>Manifestation Classification</strong> below (Form + Type) is the SCS's physical-form axis, retained as a complement to SECC's abstract codes.</p>
+<h3>Manifestation Classification</h3>
+<p><span>Every <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> has a </span><strong>physical manifestation type</strong> — the form it takes in the world. This is separate from Coherence, Potency, and Sorrow Category.</p>
+<h4>Manifestation Form (What Shape)</h4>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Form</th><th>Korean</th><th>Description</th><th>Examples</th></tr></thead>
+<tbody>
+<tr><td><strong>Phantasmal</strong></td><td>환영 (Hwanyeong)</td><td>Ghostly, translucent, not fully solid</td><td>The Forgotten Soldier, The Drift Fog</td></tr>
+<tr><td><strong>Spirit</strong></td><td>영혼 (Yeonghon)</td><td>Ethereal, sentient, without solid body</td><td>The Hollow Choir, Dream entities</td></tr>
+<tr><td><strong>Body</strong></td><td>육체 (Yukche)</td><td>Solid, tangible, flesh-like</td><td>The Smothering Mother, The Grieving Colossus</td></tr>
+<tr><td><strong>Mind</strong></td><td>정신 (Jeongsin)</td><td>Exists in consciousness, not physical space</td><td>The Inherited Debt, memory-based entities</td></tr>
+<tr><td><strong>Tale</strong></td><td>이야기 (Iyagi)</td><td>A story that has become physical</td><td><span><a class="wiki-link" href="../locations/the-maw.html">The Maw</a> (the Cheongula's narrative), legends</span></td></tr>
+<tr><td><strong>Lament</strong></td><td>탄식 (Tansik)</td><td>Physical grief — tears, whispers, weeping made real</td><td><span>The Orphaned Bell, <a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a>'s whispering walls</span></td></tr>
+<tr><td><strong>Dream</strong></td><td>꿈 (Kkum)</td><td>Physical dream/nightmare — from Somnus made real</td><td>Dream entities, The Spire's manifestations</td></tr>
+</tbody></table></div>
+<h4>Manifestation Type (What Category)</h4>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Type</th><th>Korean</th><th>Description</th><th>Examples</th></tr></thead>
+<tbody>
+<tr><td><strong>Object</strong></td><td>물체 (Mulche)</td><td>Inanimate — a thing, a tool, an artifact</td><td>The Orphaned Bell, The Debt Scale</td></tr>
+<tr><td><strong>Subject</strong></td><td>주체 (Juche)</td><td>Animate — a being, a creature, a person</td><td>The Smothering Mother, The Forgotten Soldier</td></tr>
+<tr><td><strong>Place</strong></td><td>장소 (Jangso)</td><td>A location, a space, an area</td><td><span><a class="wiki-link" href="../locations/the-maw.html">The Maw</a>, The Echo Gardens, The Scar</span></td></tr>
+<tr><td><strong>Time</strong></td><td>시간 (Sigan)</td><td>A moment, a duration, an event</td><td><span><a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a>'s time distortion, The Cheongula (the night it happened)</span></td></tr>
+</tbody></table></div>
+<h4>Combined Classification</h4>
+<p><strong>Format:</strong> <code>[Type]-[Form]</code></p>
+<p><strong>Examples:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Entity</th><th>Type</th><th>Form</th><th>Combined</th><th>Reasoning</th></tr></thead>
+<tbody>
+<tr><td><strong>The Orphaned Bell</strong></td><td>Object</td><td>Lament</td><td><code>Object-Lament</code></td><td>A physical bell made of expressed grief</td></tr>
+<tr><td><strong>The Smothering Mother</strong></td><td>Subject</td><td>Body</td><td><code>Subject-Body</code></td><td>A physical being — solid, tangible</td></tr>
+<tr><td><strong><span><a class="wiki-link" href="../locations/the-maw.html">The Maw</a></span></strong></td><td>Place</td><td>Tale</td><td><code>Place-Tale</code></td><td>A location that is the Cheongula's story made physical</td></tr>
+<tr><td><strong>The Forgotten Soldier</strong></td><td>Subject</td><td>Phantasmal</td><td><code>Subject-Phantasmal</code></td><td>A ghostly being — not fully solid</td></tr>
+<tr><td><strong>The Hollow Choir</strong></td><td>Subject</td><td>Spirit</td><td><code>Subject-Spirit</code></td><td>Ethereal voices — sentient but without body</td></tr>
+<tr><td><strong>The Grieving Colossus</strong></td><td>Subject</td><td>Body</td><td><code>Subject-Body</code></td><td>A massive physical being</td></tr>
+<tr><td><strong>The Drift Fog</strong></td><td>Place</td><td>Phantasmal</td><td><code>Place-Phantasmal</code></td><td>An area of ghostly mist</td></tr>
+<tr><td><strong>The Inherited Debt</strong></td><td>Subject</td><td>Mind</td><td><code>Subject-Mind</code></td><td>Exists in consciousness — attached to bloodlines</td></tr>
+<tr><td><strong>The Echo Gardens</strong></td><td>Place</td><td>Lament</td><td><code>Place-Lament</code></td><td>A location of crystallized grief-flowers</td></tr>
+<tr><td><strong>The Scar</strong></td><td>Place</td><td>Tale</td><td><code>Place-Tale</code></td><td>A rift that is the Occlusihan's story made real</td></tr>
+<tr><td><strong>The Debt Eater</strong></td><td>Subject</td><td>Body</td><td><code>Subject-Body</code></td><td>A physical creature</td></tr>
+<tr><td><strong>The Memory Weaver</strong></td><td>Subject</td><td>Dream</td><td><code>Subject-Dream</code></td><td>A being from the Dream realm</td></tr>
+<tr><td><strong>The Wilderness Tide</strong></td><td>Place</td><td>Body</td><td><code>Place-Body</code></td><td>A physical surge of Outside Sorrow</td></tr>
+<tr><td><strong>The Scar Walker</strong></td><td>Subject</td><td>Phantasmal</td><td><code>Subject-Phantasmal</code></td><td>A ghostly guardian of the Scar</td></tr>
+<tr><td><strong><span><a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a>'s Whispers</span></strong></td><td>Place</td><td>Lament</td><td><code>Place-Lament</code></td><td>The district itself weeps</td></tr>
+<tr><td><strong><span>Time distortion in <a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a></span></strong></td><td>Time</td><td>Weight</td><td><code>Time-Weight</code></td><td>A temporal effect of accumulated sorrow</td></tr>
+<tr><td><strong>The Cheongula (the night)</strong></td><td>Time</td><td>Tale</td><td><code>Time-Tale</code></td><td>The moment itself has become a story that persists</td></tr>
+</tbody></table></div>
+<h4>Manifestation Distribution</h4>
+<p><strong>By Form:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Form</th><th>Count</th><th>%</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>Body (Physical)</td><td>89</td><td>36%</td><td>Most common — solid, tangible</td></tr>
+<tr><td>Phantasmal</td><td>52</td><td>21%</td><td>Ghostly, semi-solid</td></tr>
+<tr><td>Lament</td><td>38</td><td>15%</td><td>Physical grief — tears, whispers</td></tr>
+<tr><td>Spirit</td><td>27</td><td>11%</td><td>Ethereal, sentient</td></tr>
+<tr><td>Dream</td><td>19</td><td>8%</td><td>From the Dream realm</td></tr>
+<tr><td>Mind</td><td>14</td><td>6%</td><td>Exists in consciousness</td></tr>
+<tr><td>Tale</td><td>7</td><td>3%</td><td>Stories made physical — rare, powerful</td></tr>
+</tbody></table></div>
+<p><strong>By Type:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Type</th><th>Count</th><th>%</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td>Subject (Being)</td><td>142</td><td>58%</td><td>Most entities are "beings"</td></tr>
+<tr><td>Place (Location)</td><td>61</td><td>25%</td><td>Locations that have become entities</td></tr>
+<tr><td>Object (Thing)</td><td>34</td><td>14%</td><td>Artifacts, tools, things</td></tr>
+<tr><td>Time (Moment)</td><td>9</td><td>4%</td><td>Rare — moments that persist</td></tr>
+</tbody></table></div>
+<h4>Notable Entity Manifestations (Updated)</h4>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Designation</th><th>Name</th><th>Category</th><th>Coherence</th><th>Potency</th><th>Type-Form</th><th>Element</th></tr></thead>
+<tbody>
+<tr><td><code>C-IVδ-001 [LO]</code></td><td><strong>The Orphaned Bell</strong></td><td>City</td><td>Entity</td><td>Critical</td><td>Object-Lament</td><td>Lament</td></tr>
+<tr><td><code>C-IIIβ-014 [VS]</code></td><td><strong>The Debt Eater</strong></td><td>City</td><td>Fragment</td><td>Moderate</td><td>Subject-Body</td><td>Void</td></tr>
+<tr><td><code>C-IVγ-009 [VS]</code></td><td><strong>The Memory Weaver</strong></td><td>City</td><td>Entity</td><td>Major</td><td>Subject-Dream</td><td>Void</td></tr>
+<tr><td><code>C-Vδ-002 [WS]</code></td><td><strong>The Grieving Colossus</strong></td><td>City</td><td>Sovereign</td><td>Critical</td><td>Subject-Body</td><td>Weight</td></tr>
+<tr><td><code>C-IIIγ-021 [LS]</code></td><td><strong>The Hollow Choir</strong></td><td>City</td><td>Fragment</td><td>Major</td><td>Subject-Spirit</td><td>Lament</td></tr>
+<tr><td><code>N-IVδ-005 [GS]</code></td><td><strong>The Smothering Mother</strong></td><td>Inner</td><td>Entity</td><td>Critical</td><td>Subject-Body</td><td>Grudge</td></tr>
+<tr><td><code>N-IIβ-033 [GS]</code></td><td><strong>The Forgotten Soldier</strong></td><td>Inner</td><td>Echo</td><td>Moderate</td><td>Subject-Phantasmal</td><td>Grudge</td></tr>
+<tr><td><code>C-IVω-001 [GP]</code></td><td><strong><span><a class="wiki-link" href="../locations/the-maw.html">The Maw</a></span></strong></td><td>City</td><td>Entity</td><td>Catastrophic</td><td>Place-Tale</td><td>Grudge</td></tr>
+<tr><td><code>O-IIIδ-011 [GS]</code></td><td><strong>The Scar Walker</strong></td><td>Outside</td><td>Fragment</td><td>Critical</td><td>Subject-Phantasmal</td><td>Grudge</td></tr>
+<tr><td><code>O-IIγ-007 [VP]</code></td><td><strong>The Drift Fog</strong></td><td>Outside</td><td>Echo</td><td>Major</td><td>Place-Phantasmal</td><td>Void</td></tr>
+<tr><td><code>N-IVβ-019 [WS]</code></td><td><strong>The Inherited Debt</strong></td><td>Inner</td><td>Entity</td><td>Moderate</td><td>Subject-Mind</td><td>Weight</td></tr>
+<tr><td><code>O-Vγ-003 [WP]</code></td><td><strong>The Wilderness Tide</strong></td><td>Outside</td><td>Sovereign</td><td>Major</td><td>Place-Body</td><td>Weight</td></tr>
+</tbody></table></div>
+<h3>Notable Sorrow Entities</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Designation</th><th>Name</th><th>Origin</th><th>Category</th><th>Coherence</th><th>Potency</th><th>Behavior</th><th>Containment</th></tr></thead>
+<tbody>
+<tr><td><code>C-IVδ-001 [LO]</code></td><td><strong>The Orphaned Bell</strong></td><td>Children lost to city expansion</td><td>City</td><td>Entity</td><td>Critical</td><td>Tolls and causes memory loss</td><td><span>Tower (<a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a>)</span></td></tr>
+<tr><td><code>C-IIIβ-014 [VS]</code></td><td><strong>The Debt Eater</strong></td><td>Collective refusal to pay debts</td><td>City</td><td>Fragment</td><td>Moderate</td><td>Consumes karmic debt, victims go hollow</td><td>Used by Collectors</td></tr>
+<tr><td><code>C-IVγ-009 [VS]</code></td><td><strong>The Memory Weaver</strong></td><td>Erased histories</td><td>City</td><td>Entity</td><td>Major</td><td>Spins webs from stolen memories</td><td><span><a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a> lair</span></td></tr>
+<tr><td><code>C-Vδ-002 [WS]</code></td><td><strong>The Grieving Colossus</strong></td><td>Unmourned dead</td><td>City</td><td>Sovereign</td><td>Critical</td><td><span>Wanders <a class="wiki-link" href="../locations/zone-d-forge-and-gardens.html">Zone D</a>, weeping — tears grow buildings</span></td><td><strong>Uncontained</strong></td></tr>
+<tr><td><code>C-IIIγ-021 [LS]</code></td><td><strong>The Hollow Choir</strong></td><td>Voices silenced by oppression</td><td>City</td><td>Fragment</td><td>Major</td><td>Songs force listeners to feel singers' sorrow</td><td><span>Amphitheater (<a class="wiki-link" href="../locations/zone-c-collectors-row.html">Zone C</a>)</span></td></tr>
+<tr><td><code>N-IVδ-005 [GS]</code></td><td><strong>The Smothering Mother</strong></td><td>A parent who lost a child</td><td>Inner</td><td>Entity</td><td>Critical</td><td>Traps children — "protects" by suffocating</td><td><span><a class="wiki-link" href="../locations/zone-d-forge-and-gardens.html">Zone D</a></span></td></tr>
+<tr><td><code>N-IIβ-033 [GS]</code></td><td><strong>The Forgotten Soldier</strong></td><td>A warrior whose sacrifice was erased</td><td>Inner</td><td>Echo</td><td>Moderate</td><td>Forces others to "remember" through violence</td><td><span><a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a></span></td></tr>
+<tr><td><code>C-IVω-001 [GP]</code></td><td><strong><span><a class="wiki-link" href="../locations/the-maw.html">The Maw</a> (Cheongula)</span></strong></td><td>The First Sorrow — 1,000 consumed</td><td>City</td><td>Entity</td><td>Catastrophic</td><td>Buildings whisper, concrete hungers</td><td><strong>UNCONTAINED</strong></td></tr>
+<tr><td><code>O-IIIδ-011 [GS]</code></td><td><strong>The Scar Walker</strong></td><td>The Occlusihan rift — rage of the six factions</td><td>Outside</td><td>Fragment</td><td>Critical</td><td>Patrols the Scar in the Desolate — attacks intruders</td><td>Desolate</td></tr>
+<tr><td><code>O-IIγ-007 [VP]</code></td><td><strong>The Drift Fog</strong></td><td>Collective despair of Desolate nomads</td><td>Outside</td><td>Echo</td><td>Major</td><td>Blankets areas in sorrow-mist — causes disorientation</td><td>Uncontained</td></tr>
+<tr><td><code>N-IVβ-019 [WS]</code></td><td><strong>The Inherited Debt</strong></td><td>Generations of unpaid family debt</td><td>Inner</td><td>Entity</td><td>Moderate</td><td>Attached to bloodlines — follows families</td><td>Contained in Collector's Row</td></tr>
+<tr><td><code>O-Vγ-003 [WP]</code></td><td><strong>The Wilderness Tide</strong></td><td>The raw, unstructured Han of the outside world</td><td>Outside</td><td>Sovereign</td><td>Major</td><td><span>Surge of Outside Sorrow that breaches <a class="wiki-link" href="../locations/zone-e-perimeter-bulwark.html">Zone E</a></span></td><td>Repelled by Wardens</td></tr>
+</tbody></table></div>
+<p><strong>Category Legend:</strong> <code>[D]</code> = City Sorrow (도한) | <code>[O]</code> = Outside Sorrow (외한) | <code>[N]</code> = Inner Sorrow (내한)</p>
+<h3>M.A.W. — Materialized Agony Wear (실체화된 고통의 갑옷)</h3>
+<p><strong>Full Name:</strong> Materialized Agony Wear</p>
+<p><strong>Abbreviation:</strong> M.A.W.</p>
+<p><strong>Etymology:</strong> <em>Maw</em> — a hungry, devouring throat. Directly references <strong><span><a class="wiki-link" href="../locations/the-maw.html">The Maw</a></span></strong> (구라/Gula), the site of the Cheongula where the First Sorrow occurred.</p>
+<div class="wiki-callout"><p><em>"To wear the M.A.W. is to let the sorrow wear you. You do not equip it — you</em> become <em>it, for a time."</em></p></div>
+<h4>What is M.A.W.?</h4>
+<p>M.A.W. is <strong><span>equipment manifested from <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a></span></strong> — weapons, armor, tools, and accessories that embody the specific grief of their source entity.</p>
+<p><span>When a <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> is studied, understood, and </span><em>resonated with</em>, its sorrow can be <strong>externalized</strong> into physical form. This form becomes M.A.W. — wearable, usable, but always carrying the weight of its origin.</p>
+<p><strong>M.A.W. is not manufactured.</strong> It is <strong>extracted</strong> — pulled from the entity's emotional core through a process of resonance and containment. The entity must be alive and coherent for extraction to work.</p>
+<p><strong>The name's significance:</strong></p>
+<ul>
+<li><span>M.A.W. is named after <a class="wiki-link" href="../locations/the-maw.html">The Maw</a> — the site of the Cheongula</span></li>
+<li><span>Just as <a class="wiki-link" href="../locations/the-maw.html">The Maw</a> consumed 1,000 citizens, M.A.W. "consumes" the wearer — temporarily</span></li>
+<li>The name is a warning: <strong>this equipment is alive with sorrow. Treat it with respect.</strong></li>
+</ul>
+<h4>How M.A.W. is Obtained</h4>
+<p><strong>Step 1: Containment</strong></p>
+<ul>
+<li><span>A <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> must be contained in a stable environment</span></li>
+<li>Containment is managed by specialized facilities (see: Sector Designation, below)</li>
+<li>The entity must be alive — dead or dispersed entities cannot yield M.A.W.</li>
+</ul>
+<p><strong>Step 2: Study</strong></p>
+<ul>
+<li>The entity's origin, behavior, and emotional core must be understood</li>
+<li>This requires <strong>resonance</strong> — the researcher must <em>feel</em> the entity's sorrow without being consumed by it</li>
+<li>Study is dangerous — too much resonance causes Fracture</li>
+</ul>
+<p><strong>Step 3: Extraction</strong></p>
+<ul>
+<li>Through resonance, the entity's sorrow is <strong>externalized</strong> into physical form</li>
+<li>The form is shaped by the entity's nature — a grief-entity might yield a shield; a rage-entity might yield a blade</li>
+<li>Extraction is painful for both entity and extractor</li>
+<li>Each extraction weakens the entity temporarily</li>
+</ul>
+<p><strong>Step 4: Bonding</strong></p>
+<ul>
+<li>M.A.W. must be <strong>bonded</strong> to a user — it does not work for just anyone</li>
+<li>The user must resonate with the entity's specific sorrow</li>
+<li>Bonding is permanent — the M.A.W. remembers its user</li>
+<li>If the user's sorrow changes, the M.A.W. may reject them — or <em>adapt</em></li>
+</ul>
+<h4>M.A.W. Types</h4>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Type</th><th>Form</th><th>Example</th><th>Source Entity Type</th></tr></thead>
+<tbody>
+<tr><td><strong>Weapon (Weapon)</strong></td><td>Blades, hammers, ranged implements</td><td><strong>Lament's Edge</strong> — a sword that weeps</td><td>Grief-entities</td></tr>
+<tr><td><strong>Armor (Wear)</strong></td><td>Suits, shields, protective gear</td><td><strong>The Mourning Shell</strong> — armor that absorbs sorrow</td><td>Endurance-entities</td></tr>
+<tr><td><strong>Tool (Implement)</strong></td><td>Devices, instruments, utilities</td><td><strong>The Debt Scale</strong> — measures karmic weight</td><td>Balance-entities</td></tr>
+<tr><td><strong>Accessory (Trinket)</strong></td><td>Rings, masks, amulets</td><td><strong>The Forgotten Mask</strong> — hides identity</td><td>Identity-entities</td></tr>
+<tr><td><strong>Hybrid (Composite)</strong></td><td>Combinations of the above</td><td><strong>The Weeping Hammer</strong> — weapon that heals allies</td><td>Complex-entities</td></tr>
+</tbody></table></div>
+<h4>M.A.W. Grades</h4>
+<p>M.A.W. grades correspond to the potency of their source entity:</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Grade</th><th>Source</th><th>Power</th><th>Risk</th><th>Name Convention</th></tr></thead>
+<tbody>
+<tr><td><strong>α (Alpha)</strong></td><td>Minor entities</td><td>Basic enhancement</td><td>Low</td><td>Named after the entity</td></tr>
+<tr><td><strong>β (Beta)</strong></td><td>Moderate entities</td><td>Significant enhancement</td><td>Medium</td><td>Named after the entity + descriptor</td></tr>
+<tr><td><strong>γ (Gamma)</strong></td><td>Major entities</td><td>Powerful abilities</td><td>High</td><td>Named after the entity's origin story</td></tr>
+<tr><td><strong>δ (Delta)</strong></td><td>Critical entities</td><td>Reality-bending</td><td>Extreme</td><td>Named after the entity's emotional core</td></tr>
+<tr><td><strong>ω (Omega)</strong></td><td>Catastrophic entities</td><td>Unknown</td><td>Unknown</td><td><strong>Forbidden</strong> — The Director's fusion is the only ω-grade</td></tr>
+</tbody></table></div>
+<p><strong>Note:</strong> An ω-grade M.A.W. has never been successfully extracted. The only ω-grade entity is <strong><span><a class="wiki-link" href="../locations/the-maw.html">The Maw</a></span></strong> itself — and attempting extraction would mean... wearing the Cheongula.</p>
+<h4>The Cost of Using M.A.W.</h4>
+<p>M.A.W. is not free. It is <strong>alive with sorrow</strong>, and it demands a price.</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Cost</th><th>Effect</th><th>Duration</th></tr></thead>
+<tbody>
+<tr><td><strong>Emotional drain</strong></td><td>The wearer feels the entity's sorrow — grief, rage, loss</td><td>During use</td></tr>
+<tr><td><strong>Memory bleed</strong></td><td>The entity's memories may surface in the wearer's mind</td><td>Temporary, but cumulative</td></tr>
+<tr><td><strong>Physical toll</strong></td><td>The body bears the weight of sorrow — fatigue, pain, aging</td><td>During and after use</td></tr>
+<tr><td><strong>Resonance shift</strong></td><td>The wearer's emotional state is altered — they become more like the entity</td><td>Gradual, potentially permanent</td></tr>
+<tr><td><strong>Fracture risk</strong></td><td>Prolonged use without breaks can cause the wearer to Fracture</td><td>Cumulative — high risk with powerful M.A.W.</td></tr>
+</tbody></table></div>
+<p><strong>The rule:</strong> M.A.W. must be used in <strong>shifts</strong>. No one wears it continuously. The sorrow is too heavy. The entity is too present.</p>
+<h4>M.A.W. and the Architects</h4>
+<p>The Architects are the primary users of M.A.W. — their work requires them to handle raw Han, and M.A.W. provides protection and tools.</p>
+<p><strong>Architect M.A.W. protocol:</strong></p>
+<ul>
+<li>Each Architect is assigned M.A.W. based on their resonance compatibility</li>
+<li>M.A.W. is checked out from the facility, used for a shift, then returned</li>
+<li><strong>Personal M.A.W.</strong> is rare — reserved for Shapers and above</li>
+<li>The Architect's Mark may be accelerated by M.A.W. use — but this is debated</li>
+</ul>
+<h3>Sector Designation — The Containment System</h3>
+<p><strong>Purpose:</strong><span> To contain, study, and extract M.A.W. from <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a>.</span></p>
+<p><strong>Designation Format:</strong> <code>SECTOR-[Zone]-[Number]</code></p>
+<p><strong>Examples:</strong></p>
+<ul>
+<li><code>SECTOR-B-01</code><span> — First containment sector in <a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a></span></li>
+<li><code>SECTOR-D-03</code><span> — Third containment sector in <a class="wiki-link" href="../locations/zone-d-forge-and-gardens.html">Zone D</a></span></li>
+<li><code>SECTOR-A-01</code><span> — Primary containment facility in <a class="wiki-link" href="../locations/zone-a-core-nexus.html">Zone A</a> (the most dangerous entities)</span></li>
+</ul>
+<h4>Sector Locations</h4>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Sector</th><th>Zone</th><th>Location</th><th>Purpose</th><th>Security</th></tr></thead>
+<tbody>
+<tr><td><code>SECTOR-A-01</code></td><td>A</td><td><span>Underground, beneath the <a class="wiki-link" href="../lore/the-alpha-tree.html">Alpha Tree</a></span></td><td>Primary containment — highest-risk entities</td><td>Maximum</td></tr>
+<tr><td><code>SECTOR-B-01</code></td><td>B</td><td><span><a class="wiki-link" href="../locations/the-maw.html">The Maw</a> perimeter</span></td><td>Study of the Cheongula — the First Sorrow</td><td>Extreme (uncontained)</td></tr>
+<tr><td><code>SECTOR-B-02</code></td><td>B</td><td>The Old Lament</td><td><span>Containment of <a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a>'s older entities</span></td><td>High</td></tr>
+<tr><td><code>SECTOR-C-01</code></td><td>C</td><td>The Collector's Row</td><td>Debt-related entities — used by Collectors</td><td>High</td></tr>
+<tr><td><code>SECTOR-D-01</code></td><td>D</td><td>The Forge District</td><td>M.A.W. extraction and processing</td><td>Moderate</td></tr>
+<tr><td><code>SECTOR-D-02</code></td><td>D</td><td>The Echo Gardens</td><td>Memory-related entities — study only</td><td>Moderate</td></tr>
+<tr><td><code>SECTOR-E-01</code></td><td>E</td><td>The Threshold</td><td>Border entities — wilderness incursions</td><td>High</td></tr>
+</tbody></table></div>
+<h4>Sector Hierarchy</h4>
+<p><code></code>`</p>
+<p>Facility Director (reports to Council)</p>
+<p>│</p>
+<p>├── Containment Division</p>
+<p>│   └── Guards, barriers, entity management</p>
+<p>│</p>
+<p>├── Research Division</p>
+<p>│   └── Study, resonance, M.A.W. extraction</p>
+<p>│</p>
+<p>├── Extraction Division</p>
+<p>│   └── M.A.W. production, bonding, distribution</p>
+<p>│</p>
+<p>└── Support Division</p>
+<p>└── Medical, maintenance, logistics</p>
+<p><code></code>`</p>
+<h4>The M.A.W. Registry</h4>
+<p>All extracted M.A.W. is catalogued in the <strong>M.A.W. Registry</strong> — a database maintained by the facility.</p>
+<p><strong>Registry format:</strong></p>
+<p><code></code>`</p>
+<p>M.A.W.-[Grade]-[Type]-[Number]</p>
+<p>Source Entity: [Designation]</p>
+<p>Bonded User: [Name/ID]</p>
+<p>Extraction Date: [Date]</p>
+<p>Resonance Compatibility: [Percentage]</p>
+<p>Status: [Active/Dormant/Destroyed/Returned]</p>
+<p><code></code>`</p>
+<p><strong>Examples:</strong></p>
+<ul>
+<li><code>M.A.W.-β-W-014</code> — Beta-grade Tool. Source: <code>SE-C-IIIβ-014</code><span>. Bonded to a <a class="wiki-link" href="../locations/zone-c-collectors-row.html">Zone C</a> Collector. Details in the M.A.W. Registry.</span></li>
+<li><code>M.A.W.-γ-A-003</code> — Gamma-grade Accessory. Source: <code>SE-C-IVγ-099</code><span>. Bonded to a <a class="wiki-link" href="../locations/zone-d-forge-and-gardens.html">Zone D</a> Architect. Details in the M.A.W. Registry.</span></li>
+</ul>
+<h3>The Future — The Reverie Directorate (몽상 이사회 — Mongsang Isahoe)</h3>
+<p><strong>Full Name:</strong> The <a class="wiki-link" href="../factions/the-reverie-directorate.html">Reverie Directorate</a></p>
+<p><strong>Abbreviation:</strong> R.D. or simply "The Directorate"</p>
+<p><strong>Etymology:</strong> <em>Reverie</em> — a state of dreamy meditation or absorption. Combined with <em>Directorate</em> — an authority that directs. The name suggests a body that navigates the dream-like state of sorrow with institutional purpose.</p>
+<div class="wiki-callout"><p><em>"We do not wake the sleeping sorrow. We study its dreams."</em></p></div>
+<p><strong>Purpose:</strong></p>
+<ul>
+<li><span>Contain <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a></span></li>
+<li>Study their origins and behavior</li>
+<li>Extract M.A.W. for use by Architects, Wardens, and other factions</li>
+<li><strong>Understand the Cheongula</strong> — and perhaps, one day, find a way to free the thousand</li>
+</ul>
+<p><strong>Location:</strong> Multiple facilities across Somnarak (see: Sector Designation)</p>
+<p><strong>The Directorate's dilemma:</strong></p>
+<ul>
+<li>To study sorrow, you must <strong>feel</strong> it — and feeling it changes you</li>
+<li>To contain entities, you must <strong>trap</strong> them — and trapping them creates more sorrow</li>
+<li>To extract M.A.W., you must <strong>resonate</strong> with the entity — and resonance is dangerous</li>
+<li><strong>The Directorate exists to manage sorrow — but its existence creates more sorrow</strong></li>
+</ul>
+<h3>Fractureed Humans (Those Who Break)</h3>
+<p>When individuals absorb too much Han without release, they <strong>Fracture</strong>.</p>
+<ul>
+<li>Not evil — often tragic figures</li>
+<li>Some retain consciousness; others become "pure" manifestations</li>
+<li><strong>Architects are at high risk</strong></li>
+</ul>
+<p><strong>Examples:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Fractureed</th><th>Original Self</th><th>Transformation</th><th>Tragedy</th></tr></thead>
+<tbody>
+<tr><td><strong>The Smothering Mother</strong></td><td>A parent who lost a child</td><td>Towering figure that traps children in embrace</td><td>"Protects" by suffocating</td></tr>
+<tr><td><strong>The Forgotten Soldier</strong></td><td>A warrior whose sacrifice was erased</td><td>Phantom that forces others to remember through violence</td><td>Cannot rest until acknowledged</td></tr>
+<tr><td><strong>The Hollow Architect</strong></td><td>A former Architect who Fractureed while building</td><td>Part building, part person — <em>is</em> a district</td><td>Trapped between roles forever</td></tr>
+<tr><td><strong>The Weeping Judge</strong></td><td>A judge who sentenced innocents</td><td>Figure whose tears are verdicts — anyone touched is "guilty"</td><td>Seeking to be judged themselves</td></tr>
+</tbody></table></div>
+<h3>Dream Entities</h3>
+<p>From Somnus — beings of pure subconscious.</p>
+<ul>
+<li>Helpful guides, tricksters, traps, or reflections of one's psyche</li>
+<li>May be the only ones who "remember" the before-time</li>
+<li><strong>The Weavers</strong> (Head Weaver's domain) manage these entities</li>
+</ul></section>
+<section class="wiki-section" id="viii-systems-mechanics"><h2 class="section-title">VIII. Systems &amp; Mechanics</h2><h3>The Four Elements of Sorrow (한의 사원소 — Han-ui Sawonso)</h3>
+<p>Sorrow itself has <strong>four elemental aspects</strong> — each affecting the world differently.</p>
+<div class="wiki-callout"><p><em>"Sorrow is not one thing. It is four. And each has its own teeth."</em></p></div>
+<h4>The Four Elements</h4>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Element</th><th>Korean</th><th>Symbol</th><th>Color</th><th>Nature</th><th>What It Attacks</th></tr></thead>
+<tbody>
+<tr><td><strong>Lament</strong></td><td>탄식 (Tansik)</td><td>◆</td><td>Deep Blue</td><td>Sorrow expressed — grief that weeps, mourns, releases</td><td><strong>Mind</strong> — emotional stability, willpower</td></tr>
+<tr><td><strong>Grudge</strong></td><td>원한 (Wonhan)</td><td>◈</td><td>Crimson</td><td>Sorrow held — resentment, bitterness, unresolved injustice</td><td><strong>Body</strong> — physical form, structural integrity</td></tr>
+<tr><td><strong>Void</strong></td><td>공허 (Gongheo)</td><td>◇</td><td>Pale White</td><td>Sorrow lost — emptiness, numbness, absence of feeling</td><td><strong>Soul</strong> — identity, memory, sense of self</td></tr>
+<tr><td><strong>Weight</strong></td><td>무게 (Muge)</td><td>■</td><td>Black</td><td>Sorrow accumulated — the crushing pressure of Han</td><td><strong>Han</strong> — the person's own sorrow reserves, karmic debt</td></tr>
+</tbody></table></div>
+<h4>Lament (탄식) — Deep Blue</h4>
+<div class="wiki-callout"><p><em>"The tears that fall are the sorrow that speaks."</em></p></div>
+<p><strong>Nature:</strong> Sorrow <strong>expressed</strong> — grief that weeps, mourns, releases. Lament is the sorrow that has found a voice. It is not suppressed, not denied — it is <em>felt</em>.</p>
+<p><strong>What it attacks:</strong> <strong>Mind</strong> — emotional stability, willpower, composure.</p>
+<p><strong>Manifestation:</strong></p>
+<ul>
+<li>Sound-based — weeping, wailing, the tolling of bells</li>
+<li><span>Liquid — tears, rain, the dark fluid that leaks from <a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a>'s buildings</span></li>
+<li>Atmospheric — a heaviness in the air, a weight on the chest</li>
+</ul>
+<p><strong>Sources:</strong></p>
+<ul>
+<li>The Orphaned Bell (tolling causes emotional breakdown)</li>
+<li>The Hollow Choir (songs force listeners to feel the singers' grief)</li>
+<li><span><a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a>'s whispering walls (ambient lament)</span></li>
+<li>Echoes of common sorrow (grey, abundant)</li>
+</ul>
+<p><strong>Who uses it:</strong></p>
+<ul>
+<li><strong>Weavers</strong> — they channel Lament through the Dream</li>
+<li><strong>Keepers</strong> — they preserve Lament in the Archive</li>
+<li><strong><span><a class="wiki-link" href="../entities/index.html">Sorrow Entities</a></span></strong> of City Sorrow origin — the city's expressed grief</li>
+</ul>
+<p><strong>Defense:</strong> Emotional resolve, willpower, community support. M.A.W. with Lament resistance.</p>
+<h4>Grudge (원한) — Crimson</h4>
+<div class="wiki-callout"><p><em>"The sorrow that will not forgive has teeth."</em></p></div>
+<p><strong>Nature:</strong> Sorrow <strong>held</strong> — resentment, bitterness, unresolved injustice. Grudge is the sorrow that has been suppressed, denied, or refused release. It festers. It <em>bites</em>.</p>
+<p><strong>What it attacks:</strong> <strong>Body</strong> — physical form, structural integrity, flesh and bone.</p>
+<p><strong>Manifestation:</strong></p>
+<ul>
+<li>Physical — wounds, burns, the dark veins of the Architect's Mark</li>
+<li>Structural — cracks in buildings, shattering of barriers</li>
+<li>Violent — the eruption of Han during the Occlusihan, the consuming nature of the Maw</li>
+</ul>
+<p><strong>Sources:</strong></p>
+<ul>
+<li><span><a class="wiki-link" href="../locations/the-maw.html">The Maw</a> / Cheongula (consumed 1,000 citizens — the ultimate Grudge)</span></li>
+<li>The Smothering Mother (traps children — unresolved parental grief)</li>
+<li>The Forgotten Soldier (forces others to remember — unresolved sacrifice)</li>
+<li>Debt enforcement (the Collectors' tools manifest as Grudge)</li>
+</ul>
+<p><strong>Who uses it:</strong></p>
+<ul>
+<li><strong>Collectors</strong> — their tools channel Grudge for debt enforcement</li>
+<li><strong>Wardens</strong> — their weapons channel Grudge for combat</li>
+<li><strong><span><a class="wiki-link" href="../entities/index.html">Sorrow Entities</a></span></strong> of Inner Sorrow origin — personal trauma that festers</li>
+</ul>
+<p><strong>Defense:</strong> Physical resilience, armor, Han-shielding. M.A.W. with Grudge resistance.</p>
+<h4>Void (공허) — Pale White</h4>
+<div class="wiki-callout"><p><em>"The worst sorrow is the one you cannot feel."</em></p></div>
+<p><strong>Nature:</strong> Sorrow <strong>lost</strong> — emptiness, numbness, the absence of feeling. Void is not sorrow itself, but the <em>hole where sorrow used to be</em>. It is what remains when grief has been consumed, erased, or forgotten.</p>
+<p><strong>What it attacks:</strong> <strong>Soul</strong> — identity, memory, sense of self.</p>
+<p><strong>Manifestation:</strong></p>
+<ul>
+<li>Absence — silence, darkness, the fading of color</li>
+<li>Erasure — memory loss, identity dissolution, the forgetting of names</li>
+<li>Nullification — the dampening of Han, the suppression of emotion</li>
+</ul>
+<p><strong>Sources:</strong></p>
+<ul>
+<li>The Debt Eater (consumes karmic debt but leaves victims hollow — Void)</li>
+<li>The Severers from the Occlusihan (emotional suppression created Void-zones)</li>
+<li>Fracture (the final stage — the person becomes Void)</li>
+<li>The Exile's Gate (one-way passage — the sorrow of being forgotten)</li>
+</ul>
+<p><strong>Who uses it:</strong></p>
+<ul>
+<li><strong>The Archivists</strong> — they can extract memories, leaving Void behind</li>
+<li><strong>Fractureed beings</strong> — those in late-stage Fracture emit Void</li>
+<li><strong><span><a class="wiki-link" href="../entities/index.html">Sorrow Entities</a></span></strong> that consume or erase — the Debt Eater, the Memory Weaver</li>
+</ul>
+<p><strong>Defense:</strong> Strong sense of identity, emotional anchoring, M.A.W. with Void resistance. <strong>Dream-divers are especially vulnerable</strong> — the Dream can erase as easily as it reveals.</p>
+<h4>Weight (무게) — Black</h4>
+<div class="wiki-callout"><p><em>"The sorrow that accumulates does not need to touch you. It only needs to be near."</em></p></div>
+<p><strong>Nature:</strong> Sorrow <strong>accumulated</strong> — the crushing pressure of Han. Weight is not expressed, not held, not lost — it is simply <em>there</em>. It is the structural sorrow of the city, the ambient grief of existence.</p>
+<p><strong>What it attacks:</strong> <strong>Han</strong> — the person's own sorrow reserves, karmic debt, the weight they already carry.</p>
+<p><strong>Manifestation:</strong></p>
+<ul>
+<li>Pressure — a heaviness that increases with proximity to Han-dense areas</li>
+<li>Acceleration — debt increases faster, aging speeds up, luck worsens</li>
+<li>Accumulation — Weight adds to existing sorrow, pushing toward Fracture</li>
+</ul>
+<p><strong>Sources:</strong></p>
+<ul>
+<li>The Grieving Colossus (tears grow buildings — Weight in physical form)</li>
+<li><span>Zone A (the <a class="wiki-link" href="../lore/the-alpha-tree.html">Alpha Tree</a> radiates Weight — the city's structural sorrow)</span></li>
+<li><span><a class="wiki-link" href="../locations/the-desolate.html">The Desolate</a> (semi-structured Han — Weight in transition)</span></li>
+<li><span><a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a>'s time distortion (Weight stretches time)</span></li>
+</ul>
+<p><strong>Who uses it:</strong></p>
+<ul>
+<li><strong>Architects</strong> — they shape Han, which is concentrated Weight</li>
+<li><strong>The Council</strong> — they bear the city's Weight so others don't have to</li>
+<li><strong><span><a class="wiki-link" href="../entities/index.html">Sorrow Entities</a></span></strong> of all categories — Weight is the <em>base element</em> of Han</li>
+</ul>
+<p><strong>Defense:</strong> Low existing debt, emotional balance, distance from Han-dense areas. M.A.W. with Weight resistance. <strong>The Architects' Mark is a symptom of Weight accumulation.</strong></p>
+<h4>How the Four Elements Interact</h4>
+<p><code></code>`</p>
+<p>LAMENT (Blue)</p>
+<p>/             \</p>
+<p>/               \</p>
+<p>/                 \</p>
+<p>GRUDGE (Red) -------- VOID (White)</p>
+<p>\                 /</p>
+<p>\               /</p>
+<p>\             /</p>
+<p>WEIGHT (Black)</p>
+<p><code></code>`</p>
+<p><strong>Interaction table:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Attacker ↓ / Defender →</th><th>Mind (Lament defense)</th><th>Body (Grudge defense)</th><th>Soul (Void defense)</th><th>Han (Weight defense)</th></tr></thead>
+<tbody>
+<tr><td><strong>Lament</strong></td><td>✗ Resisted</td><td>◐ Partial</td><td>● Strong</td><td>○ Weak</td></tr>
+<tr><td><strong>Grudge</strong></td><td>◐ Partial</td><td>✗ Resisted</td><td>○ Weak</td><td>● Strong</td></tr>
+<tr><td><strong>Void</strong></td><td>● Strong</td><td>○ Weak</td><td>✗ Resisted</td><td>◐ Partial</td></tr>
+<tr><td><strong>Weight</strong></td><td>○ Weak</td><td>● Strong</td><td>◐ Partial</td><td>✗ Resisted</td></tr>
+</tbody></table></div>
+<p><strong>Key:</strong></p>
+<ul>
+<li>● <strong>Strong</strong> — effective against this defense</li>
+<li>◐ <strong>Partial</strong> — partially effective</li>
+<li>○ <strong>Weak</strong> — resisted, reduced damage</li>
+<li>✗ <strong>Resisted</strong> — heavily resisted, minimal effect</li>
+</ul>
+<p><strong>The cycle:</strong></p>
+<ul>
+<li>Lament <strong>beats</strong> Soul (expressed grief erodes identity)</li>
+<li>Grudge <strong>beats</strong> Han (resentment amplifies existing debt)</li>
+<li>Void <strong>beats</strong> Mind (emptiness breaks emotional stability)</li>
+<li>Weight <strong>beats</strong> Body (accumulated pressure crushes physical form)</li>
+</ul>
+<h4>The Four Elements and M.A.W.</h4>
+<p>Each M.A.W. has an <strong>elemental affinity</strong> — determined by the source entity's nature.</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>M.A.W. Element</th><th>Source Entity Type</th><th>Effect</th></tr></thead>
+<tbody>
+<tr><td><strong>Lament (Deep Blue)</strong></td><td>Grief-entities, mourning-entities</td><td>Attacks emotional stability, causes weeping</td></tr>
+<tr><td><strong>Grudge (Crimson)</strong></td><td>Rage-entities, injustice-entities</td><td>Attacks physical form, causes wounds</td></tr>
+<tr><td><strong>Void (Pale White)</strong></td><td>Erasure-entities, numbness-entities</td><td>Attacks identity, causes memory loss</td></tr>
+<tr><td><strong>Weight (Black)</strong></td><td>Accumulation-entities, structural-entities</td><td>Attacks Han reserves, accelerates debt</td></tr>
+</tbody></table></div>
+<p><strong>Dual-element M.A.W.:</strong> Some entities carry two elements — e.g., The Smothering Mother is <strong>Grudge + Lament</strong> (unresolved grief that physically suffocates).</p>
+<h4>The Four Elements and the Three Sorrows</h4>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Element</th><th>City Sorrow</th><th>Outside Sorrow</th><th>Inner Sorrow</th></tr></thead>
+<tbody>
+<tr><td><strong>Lament</strong></td><td>Common — the city's expressed grief</td><td>Moderate — wilderness mourning</td><td>Common — personal weeping</td></tr>
+<tr><td><strong>Grudge</strong></td><td>Common — institutional resentment</td><td>Common — wild rage</td><td>Common — personal bitterness</td></tr>
+<tr><td><strong>Void</strong></td><td>Moderate — the city's erased histories</td><td>Common — the unknown's erasure</td><td>Common — personal emptiness</td></tr>
+<tr><td><strong>Weight</strong></td><td><strong>Dominant</strong> — the city IS Weight</td><td>Moderate — ambient wilderness Han</td><td>Common — personal debt</td></tr>
+</tbody></table></div>
+<p><strong>Key insight:</strong> City Sorrow is primarily <strong>Weight</strong> — the city's structural sorrow is the accumulated pressure of all grief. Outside Sorrow is more <strong>Grudge and Void</strong> — wild rage and the erasure of the unknown. Inner Sorrow is <strong>balanced across all four</strong> — personal grief manifests in every form.</p>
+<h3>The Price of Everything</h3>
+<p>In Somnarak, <strong>nothing is free.</strong> Every action has a cost measured in sorrow.</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Action</th><th>Cost</th><th>Mechanism</th></tr></thead>
+<tbody>
+<tr><td>Using power/ability</td><td>Memories, emotional capacity, or years of life</td><td>Han is the fuel — using it burns something personal</td></tr>
+<tr><td>Building/creating</td><td>Sourcing Han — collecting grief</td><td>Architects must harvest sorrow to shape it</td></tr>
+<tr><td>Healing</td><td>Transferring wounds to another</td><td>Sorrow moves — it doesn't disappear</td></tr>
+<tr><td>Knowledge</td><td>The Archive trades in memories</td><td>The Keepers' currency is identity</td></tr>
+<tr><td>Travel</td><td>"Toll" paid to the city</td><td>The city feeds on movement</td></tr>
+<tr><td>M.A.W. use</td><td>Emotional drain, memory bleed, Fracture risk</td><td>The entity's sorrow seeps into the wearer</td></tr>
+</tbody></table></div>
+<h3>The Cycle of Debt</h3>
+<p><strong>What is debt?</strong> Every action creates a <strong>debt</strong> in the Abyss — physical, measurable, enforceable.</p>
+<p><strong>How debt manifests:</strong></p>
+<ul>
+<li><strong>Physical:</strong> Aging, illness, weakness, pain</li>
+<li><strong>Emotional:</strong> Numbness, despair, rage, grief</li>
+<li><strong>Metaphysical:</strong><span> Bad luck, misfortune, attracting <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a></span></li>
+<li><strong>Structural:</strong> The city itself responds — buildings crack, paths close</li>
+</ul>
+<p><strong>Debt mechanics:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Action</th><th>Debt Created</th><th>Payment</th></tr></thead>
+<tbody>
+<tr><td>Living (daily)</td><td>Small — ambient</td><td>Paid by existing in the city</td></tr>
+<tr><td>Using M.A.W.</td><td>Moderate — per use</td><td>Emotional/physical toll</td></tr>
+<tr><td>Causing harm</td><td>Large — proportional</td><td>Karmic balance</td></tr>
+<tr><td>Creating sorrow</td><td>Massive — amplified</td><td>Suffering or Echoes</td></tr>
+<tr><td>Refusing to pay</td><td>Accumulates — interest</td><td>The Collectors come</td></tr>
+</tbody></table></div>
+<p><strong>Debt transfer:</strong> Debts can be transferred — with consent or force. The powerful transfer to the weak. Inherited debts pass parent to child.</p>
+<p><strong>Debt payment:</strong> Suffering, Echoes, service, or sacrifice.</p>
+<h3>Echoes — The Currency of Sorrow (메아리 — Meori)</h3>
+<p><strong>What they are:</strong> Crystallized fragments of memory/emotion — formed when intense emotions are experienced and then lost.</p>
+<p><strong>How they form:</strong> When a person experiences intense emotion and then loses it (death, memory loss, fading), the emotion crystallizes into a physical object — small, translucent, faintly warm.</p>
+<p><strong>Value Scale:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Echo Type</th><th>Value</th><th>Rarity</th><th>Color</th></tr></thead>
+<tbody>
+<tr><td>Common sorrow</td><td>Low</td><td>Abundant</td><td>Grey</td></tr>
+<tr><td>Deep grief</td><td>Moderate</td><td>Common</td><td>Dark blue</td></tr>
+<tr><td>Profound rage</td><td>Moderate-High</td><td>Uncommon</td><td>Crimson</td></tr>
+<tr><td>Genuine joy</td><td>High</td><td>Rare</td><td>Gold</td></tr>
+<tr><td>Pure love</td><td>Very High</td><td>Extremely rare</td><td>White</td></tr>
+<tr><td>First sorrow</td><td>Priceless</td><td>Singular</td><td>Black</td></tr>
+</tbody></table></div>
+<p><strong>Uses:</strong> Trade, consumption (addictive), refinement, M.A.W. fuel, dark market harvest.</p>
+<h3>Dream-Diving — Entering the Subconscious</h3>
+<p><strong>What is the Dream?</strong> Not a separate world — the <strong>subconscious layer of reality</strong>. Emotions are physical, memories are landscapes, desires are entities.</p>
+<p><strong>How it works:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Step</th><th>Process</th></tr></thead>
+<tbody>
+<tr><td><strong>1 — Preparation</strong></td><td>Enter a Dream Chamber. Equipment check. Emotional assessment.</td></tr>
+<tr><td><strong>2 — Entry</strong></td><td>Trance state. Boundary thins. Feels like falling asleep with awareness.</td></tr>
+<tr><td><strong>3 — Navigation</strong></td><td>Dream shifts with emotions. Landscapes are emotional. Time distorts.</td></tr>
+<tr><td><strong>4 — Objective</strong></td><td>Retrieval, study, healing, or M.A.W. resonance.</td></tr>
+<tr><td><strong>5 — Return</strong></td><td>Anchor to reality. Failure means being trapped.</td></tr>
+</tbody></table></div>
+<p><strong>Dream-diving risks:</strong> Dream trap, memory theft, identity dissolution, Dream bleed, entity attachment.</p>
+<h3>Fracture — When Sorrow Breaks You</h3>
+<p><strong>The process:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Stage</th><th>Signs</th><th>Reversibility</th></tr></thead>
+<tbody>
+<tr><td><strong>1 — Resonance</strong></td><td>Emotional sensitivity, mood swings, whispers</td><td>Fully reversible</td></tr>
+<tr><td><strong>2 — Manifestation</strong></td><td>Grey hair, dark veins, altered eyes</td><td>Partially reversible</td></tr>
+<tr><td><strong>3 — Transformation</strong></td><td>Body reshapes — entity-like features</td><td>Difficult</td></tr>
+<tr><td><strong>4 — Assimilation</strong></td><td><span>Full Fracture — becomes a <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a></span></td><td><strong>Irreversible</strong></td></tr>
+</tbody></table></div>
+<p><strong>Who is at risk:</strong> Architects, M.A.W. users, Dream-divers, debt-heavy citizens, anyone.</p>
+<p><strong>Prevention:</strong> Rest, release, resonance dampeners, M.A.W. rotation, community.</p>
+<h3>Architect Powers — Han Shaping</h3>
+<p><strong>Core abilities:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Ability</th><th>Description</th><th>Risk</th></tr></thead>
+<tbody>
+<tr><td><strong>Han Sensing</strong></td><td>Detect Han flows and anomalies</td><td>Low</td></tr>
+<tr><td><strong>Han Shaping</strong></td><td>Mold solidified Han into forms</td><td>Medium</td></tr>
+<tr><td><strong>Han Redirect</strong></td><td>Reroute Han flows</td><td>High</td></tr>
+<tr><td><strong>Han Containment</strong></td><td>Create structures that hold entities</td><td>High</td></tr>
+<tr><td><strong>Han Purging</strong></td><td>Remove excess Han</td><td>Very High</td></tr>
+</tbody></table></div>
+<p><strong>Advanced (Shapers+):</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Ability</th><th>Description</th><th>Risk</th></tr></thead>
+<tbody>
+<tr><td><strong>Resonance</strong></td><td>Deep connection with entity — enables M.A.W. extraction</td><td>Fracture</td></tr>
+<tr><td><strong>Architectural Weaving</strong></td><td>Complex structures interacting with Han flows</td><td>Burnout</td></tr>
+<tr><td><strong>The Architect's Eye</strong></td><td>See sorrow structure of buildings/people</td><td>Cumulative trauma</td></tr>
+<tr><td><strong>The Architect's Hand</strong></td><td>Telekinetic Han shaping</td><td>Mental exhaustion</td></tr>
+</tbody></table></div>
+<h3>M.A.W. Mechanics</h3>
+<p><strong>Equipping:</strong> Bonded to specific user. Feels like a second skin. Entity's presence becomes part of you.</p>
+<p><strong>Using M.A.W.:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Action</th><th>Effect</th><th>Cost</th></tr></thead>
+<tbody>
+<tr><td>Basic attack</td><td>Enhanced damage, entity effects</td><td>Emotional drain (minor)</td></tr>
+<tr><td>Special ability</td><td>Unique power per entity type</td><td>Emotional drain + memory bleed</td></tr>
+<tr><td>Resonance burst</td><td>Full entity power release</td><td>Severe toll + Fracture risk</td></tr>
+<tr><td>Entity communion</td><td>Communicate with source entity</td><td>Memory bleed + identity shift</td></tr>
+</tbody></table></div>
+<p><strong>Maintenance:</strong> Requires Echoes. Without them, M.A.W. weakens and may rebel.</p>
+<p><strong>Rejection:</strong> If user's sorrow changes, M.A.W. may reject — emotional backlash, physical pain.</p>
+<h3>The City's Response</h3>
+<p>Somnarak is <strong>alive</strong> — it responds to what happens within.</p>
+<ul>
+<li><strong>Han accumulation:</strong> Buildings shift, streets change, landmarks form</li>
+<li><strong>Han flow:</strong><span> Moves like blood through veins. <a class="wiki-link" href="../lore/the-alpha-tree.html">Alpha Tree</a> is the heart. Blocking creates pressure — risk of eruption.</span></li>
+<li><strong>The paradox:</strong> The city needs sorrow to survive, but too much destroys it. This is why the Council says: <em>"We manage."</em></li>
+</ul></section>
+<section class="wiki-section" id="work-types-jageop-yuhyeong"><h2 class="section-title">Work Types (작업 유형 — Jageop Yuhyeong)</h2><h3>Overview</h3>
+<p><span>When interacting with <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a>, R.D. personnel use </span><strong>four Work Types</strong> — each corresponding to a Physical/Mental axis combined with one of the Four Elements. The Work Type used determines how the entity responds, what information is gained, and what risks are taken.</p>
+<div class="wiki-callout"><p><em><span>"You do not simply work with a <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a>. You choose how to approach its sorrow — and the approach determines the outcome."</span></em></p></div>
+<h3>The Four Work Types</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Work Type</th><th>Etymology</th><th>Axis</th><th>Element</th><th>What It Does</th></tr></thead>
+<tbody>
+<tr><td><strong>Flerehan</strong> (플레레한)</td><td>Latin <em>Flere</em> (to weep) + Korean <em>Han</em></td><td>Physical</td><td>Lament</td><td>Weep alongside the entity — release sorrow together</td></tr>
+<tr><td><strong>Pugnahan</strong> (푸그나한)</td><td>Latin <em>Pugna</em> (to fight) + Korean <em>Han</em></td><td>Physical</td><td>Grudge</td><td>Confront the entity directly — face its anger</td></tr>
+<tr><td><strong>Viderehan</strong> (비데레한)</td><td>Latin <em>Videre</em> (to see) + Korean <em>Han</em></td><td>Mental</td><td>Void</td><td>Observe the entity — study its patterns and nature</td></tr>
+<tr><td><strong>Ferrehan</strong> (페레한)</td><td>Latin <em>Ferre</em> (to bear) + Korean <em>Han</em></td><td>Mental</td><td>Weight</td><td>Endure the entity's burden — containment through will</td></tr>
+</tbody></table></div>
+<h3>Flerehan (플레레한) — The Work of Tears</h3>
+<p><strong>Axis:</strong> Physical + Lament (Deep Blue)</p>
+<p><strong>What it is:</strong><span> The worker approaches the <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> with </span><strong>empathy</strong> — weeping alongside it, sharing its grief, releasing sorrow together. This is the most emotionally demanding Work Type — the worker must <em>feel</em> what the entity feels.</p>
+<p><strong>How it works:</strong></p>
+<ul>
+<li>The worker enters the entity's containment zone</li>
+<li>The worker identifies the entity's specific grief — what loss, what injustice, what sorrow birthed it</li>
+<li>The worker <strong>mirrors</strong> the entity's emotion — feeling the same grief, weeping the same tears</li>
+<li>The entity responds to the shared sorrow — calming, opening, becoming more cooperative</li>
+</ul>
+<p><strong>What it yields:</strong></p>
+<ul>
+<li><strong>Positive Han-Energy</strong> (Han-energy) — the entity releases stored sorrow as the worker absorbs it</li>
+<li><strong>Trust</strong> — the entity becomes more cooperative for future interactions</li>
+<li><strong>Emotional insight</strong> — the worker gains understanding of the entity's origin</li>
+</ul>
+<p><strong>Risk:</strong></p>
+<ul>
+<li>The worker absorbs the entity's sorrow — risk of emotional burnout</li>
+<li>If the worker cannot handle the grief, they may <strong>Fracture</strong></li>
+<li>The entity may become <strong>dependent</strong> — seeking the worker's empathy, becoming hostile without it</li>
+</ul>
+<p><strong>Best for:</strong></p>
+<ul>
+<li>Entities born from City Sorrow (도한)</li>
+<li>Entities with Lament element</li>
+<li>Entities that are grieving, mourning, or seeking release</li>
+</ul>
+<h3>Pugnahan (푸그나한) — The Work of Confrontation</h3>
+<p><strong>Axis:</strong> Physical + Grudge (Crimson)</p>
+<p><strong>What it is:</strong><span> The worker approaches the <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> with </span><strong>resolve</strong> — facing its anger, resisting its aggression, standing firm against its hostility. This is the most physically demanding Work Type — the worker must <em>endure</em> what the entity throws at them.</p>
+<p><strong>How it works:</strong></p>
+<ul>
+<li>The worker enters the entity's containment zone</li>
+<li>The worker provokes the entity — drawing its attention, challenging its dominance</li>
+<li>The worker <strong>absorbs</strong> the entity's attacks — physical, emotional, or metaphysical</li>
+<li>The entity exhausts its aggression — becoming more manageable</li>
+</ul>
+<p><strong>What it yields:</strong></p>
+<ul>
+<li><strong>Negative Han-Energy</strong> (Han-energy) — the entity releases stored rage as the worker withstands it</li>
+<li><strong>Dominance</strong> — the entity recognizes the worker's strength, becoming more compliant</li>
+<li><strong>Physical insight</strong> — the worker learns the entity's attack patterns and weaknesses</li>
+</ul>
+<p><strong>Risk:</strong></p>
+<ul>
+<li>The worker takes physical damage — injuries, pain, exhaustion</li>
+<li>If the worker breaks, the entity may <strong>breach</strong> — escaping containment</li>
+<li>The entity may become <strong>more hostile</strong> — escalating its attacks</li>
+</ul>
+<p><strong>Best for:</strong></p>
+<ul>
+<li>Entities born from Inner Sorrow (내한)</li>
+<li>Entities with Grudge element</li>
+<li>Entities that are aggressive, hostile, or seeking vengeance</li>
+</ul>
+<h3>Viderehan (비데레한) — The Work of Observation</h3>
+<p><strong>Axis:</strong> Mental + Void (Pale White)</p>
+<p><strong>What it is:</strong><span> The worker approaches the <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> with </span><strong>detachment</strong> — studying it from a distance, observing its patterns, understanding its nature without emotional engagement. This is the most mentally demanding Work Type — the worker must <em>think</em> without <em>feeling</em>.</p>
+<p><strong>How it works:</strong></p>
+<ul>
+<li>The worker observes the entity from outside the containment zone (or through monitoring equipment)</li>
+<li>The worker catalogs the entity's behavior — movement, reactions, triggers, patterns</li>
+<li>The worker <strong>analyzes</strong> the entity's structure — its Han signature, manifestation type, coherence level</li>
+<li>The entity responds to observation — some become calm, others become agitated</li>
+</ul>
+<p><strong>What it yields:</strong></p>
+<ul>
+<li><strong>Data</strong> — the worker gains detailed information about the entity's classification, behavior, and origin</li>
+<li><strong>Predictive insight</strong> — the worker can predict the entity's actions in future interactions</li>
+<li><strong>M.A.W. potential</strong> — the worker assesses what M.A.W. the entity could yield</li>
+</ul>
+<p><strong>Risk:</strong></p>
+<ul>
+<li>The worker may become <strong>emotionally detached</strong> — losing empathy for the entity</li>
+<li>Some entities react violently to observation — becoming hostile when watched</li>
+<li>The worker may miss emotional cues — failing to notice when the entity is in distress</li>
+</ul>
+<p><strong>Best for:</strong></p>
+<ul>
+<li>Entities born from Outside Sorrow (외한)</li>
+<li>Entities with Void element</li>
+<li>Entities that are mysterious, unpredictable, or poorly understood</li>
+</ul>
+<h3>Ferrehan (페레한) — The Work of Endurance</h3>
+<p><strong>Axis:</strong> Mental + Weight (Black)</p>
+<p><strong>What it is:</strong><span> The worker approaches the <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> with </span><strong>patience</strong> — bearing its weight, enduring its presence, containing it through sheer willpower. This is the most sustained Work Type — the worker must <em>hold</em> without <em>breaking</em>.</p>
+<p><strong>How it works:</strong></p>
+<ul>
+<li>The worker enters the entity's containment zone</li>
+<li>The worker does not interact — they simply <strong>exist</strong> in the entity's presence</li>
+<li>The worker <strong>absorbs</strong> the entity's ambient sorrow — the weight that radiates from it</li>
+<li>The entity responds to the worker's stability — becoming calmer as the worker bears its weight</li>
+</ul>
+<p><strong>What it yields:</strong></p>
+<ul>
+<li><strong>Stability</strong> — the entity becomes more predictable, less likely to breach</li>
+<li><strong>Containment reinforcement</strong> — the worker's presence strengthens the containment structure</li>
+<li><strong>Han absorption</strong> — the worker absorbs the entity's excess sorrow, reducing its potency</li>
+</ul>
+<p><strong>Risk:</strong></p>
+<ul>
+<li>The worker absorbs massive amounts of sorrow — risk of long-term emotional damage</li>
+<li>If the worker breaks, the entity's stored sorrow <strong>erupts</strong> — catastrophic breach</li>
+<li>The worker may become <strong>permanently weighted</strong> — carrying the entity's sorrow forever</li>
+</ul>
+<p><strong>Best for:</strong></p>
+<ul>
+<li>Entities born from City Sorrow (도한)</li>
+<li>Entities with Weight element</li>
+<li>Entities that are dormant, passive, or slowly accumulating power</li>
+</ul>
+<h3>Work Type Matrix</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Work Type</th><th>Physical</th><th>Mental</th><th>Best Element</th><th>Best Category</th></tr></thead>
+<tbody>
+<tr><td><strong>Flerehan</strong></td><td>✓</td><td></td><td>Lament (Deep Blue)</td><td>City Sorrow</td></tr>
+<tr><td><strong>Pugnahan</strong></td><td>✓</td><td></td><td>Grudge (Crimson)</td><td>Inner Sorrow</td></tr>
+<tr><td><strong>Viderehan</strong></td><td></td><td>✓</td><td>Void (Pale White)</td><td>Outside Sorrow</td></tr>
+<tr><td><strong>Ferrehan</strong></td><td></td><td>✓</td><td>Weight (Black)</td><td>City Sorrow</td></tr>
+</tbody></table></div>
+<h3>Work Type Effectiveness</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Entity Element</th><th>Flerehan</th><th>Pugnahan</th><th>Viderehan</th><th>Ferrehan</th></tr></thead>
+<tbody>
+<tr><td><strong>Lament</strong></td><td>● Strong</td><td>○ Weak</td><td>◐ Partial</td><td>◐ Partial</td></tr>
+<tr><td><strong>Grudge</strong></td><td>○ Weak</td><td>● Strong</td><td>◐ Partial</td><td>◐ Partial</td></tr>
+<tr><td><strong>Void</strong></td><td>◐ Partial</td><td>◐ Partial</td><td>● Strong</td><td>○ Weak</td></tr>
+<tr><td><strong>Weight</strong></td><td>◐ Partial</td><td>◐ Partial</td><td>○ Weak</td><td>● Strong</td></tr>
+</tbody></table></div>
+<p><strong>Key:</strong></p>
+<ul>
+<li>● <strong>Strong</strong> — most effective, highest yield</li>
+<li>◐ <strong>Partial</strong> — moderately effective</li>
+<li>○ <strong>Weak</strong> — least effective, highest risk</li>
+</ul>
+<h3>Work Type and the Echo-Cores</h3>
+<p>Each Echo-Core has a <strong>preferred Work Type</strong> — the approach they use most often, shaped by their nature and role.</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Echo-Core</th><th>Preferred Work Type</th><th>Reason</th></tr></thead>
+<tbody>
+<tr><td><strong>The Director</strong></td><td>Ferrehan</td><td>Bears the weight of everything — endurance is their nature</td></tr>
+<tr><td><strong>The Secretary</strong></td><td>Flerehan</td><td>Feels everything — empathy is their gift and curse</td></tr>
+<tr><td><strong>The Containment Lead</strong></td><td>Pugnahan</td><td>Faces the Maw's hostility daily — confrontation is survival</td></tr>
+<tr><td><strong>The Extraction Lead</strong></td><td>Viderehan</td><td>Skilled observer — precision and patience</td></tr>
+<tr><td><strong>The Research Lead</strong></td><td>Viderehan</td><td>Cannot feel — observation is all they have</td></tr>
+<tr><td><strong>The Border Lead</strong></td><td>Pugnahan</td><td>Survived the Desolate — confrontation is instinct</td></tr>
+<tr><td><strong>The Archive Lead</strong></td><td>Ferrehan</td><td>Bears the weight of truth — endurance is their prison</td></tr>
+<tr><td><strong>The Outsider</strong></td><td>Pugnahan</td><td>Made to destroy — confrontation is their purpose</td></tr>
+<tr><td><strong>The Exile</strong></td><td>Flerehan</td><td>Carries Outside Sorrow — empathy with the wilderness</td></tr>
+</tbody></table></div></section>
+<section class="wiki-section" id="m-a-w-gifts-corrosion"><h2 class="section-title">M.A.W. Gifts &amp; Corrosion</h2><h3>M.A.W. Gifts (선물 — Seonmul) — Passive Items</h3>
+<p><strong>What they are:</strong> Small M.A.W. items — rings, masks, amulets, bracelets, hairpins — that provide <strong>passive effects</strong> without requiring active use. Unlike M.A.W. weapons and armor, Gifts are always active — worn constantly, shaping the wearer's experience.</p>
+<div class="wiki-callout"><p><em>"A Gift is not a tool. It is a companion. It whispers. It watches. It remembers."</em></p></div>
+<p><strong>How they form:</strong></p>
+<ul>
+<li>Gifts are <strong>byproducts</strong> of M.A.W. extraction — small fragments of the entity's sorrow that crystallize during the process</li>
+<li>They are not extracted intentionally — they simply <em>appear</em></li>
+<li>Each Gift is unique — shaped by the entity's specific sorrow</li>
+<li>Gifts are <strong>bonded</strong> to the wearer — they cannot be removed without assistance</li>
+</ul>
+<p><strong>Types of Gifts:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Type</th><th>Slot</th><th>Example</th><th>Passive Effect</th></tr></thead>
+<tbody>
+<tr><td><strong>Ring</strong></td><td>Hand</td><td>The Mourning Band</td><td>Increases sorrow tolerance — Han affects you less</td></tr>
+<tr><td><strong>Mask</strong></td><td>Face</td><td>The Forgotten Mask</td><td>Conceals identity — entities cannot see your face</td></tr>
+<tr><td><strong>Amulet</strong></td><td>Neck</td><td>The Cold Heart</td><td>Dampens emotional responses — you feel less</td></tr>
+<tr><td><strong>Bracelet</strong></td><td>Wrist</td><td>The Debt Chain</td><td>Reveals the debts of others — you see their burden</td></tr>
+<tr><td><strong>Hairpin</strong></td><td>Head</td><td>The Ember Pin</td><td>Provides warmth — protects against cold sorrow</td></tr>
+<tr><td><strong>Earring</strong></td><td>Ear</td><td>The Whisper Stud</td><td>Hears entity communication — you understand their language</td></tr>
+</tbody></table></div>
+<p><strong>Gift Mechanics:</strong></p>
+<ul>
+<li>Gifts are <strong>always active</strong> — no activation required</li>
+<li>Gifts have <strong>no direct cost</strong> — but they shape the wearer over time</li>
+<li>Gifts can be <strong>upgraded</strong> by feeding them Echoes — increasing their effect</li>
+<li>Gifts can be <strong>removed</strong> — but the process is painful (the Gift resists)</li>
+</ul>
+<p><strong>Notable Gifts:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Gift</th><th>Source Entity</th><th>Type</th><th>Effect</th><th>Cost</th></tr></thead>
+<tbody>
+<tr><td><strong>The Mourning Band</strong></td><td>The Grieving Colossus</td><td>Ring</td><td>+20% sorrow tolerance</td><td>Wearer weeps at night</td></tr>
+<tr><td><strong>The Forgotten Mask</strong></td><td>The Memory Weaver</td><td>Mask</td><td>Invisible to memory attacks</td><td>Wearer slowly loses small memories</td></tr>
+<tr><td><strong>The Cold Heart</strong></td><td>The Frozen Veil</td><td>Amulet</td><td>Immune to emotional manipulation</td><td>Wearer cannot feel joy</td></tr>
+<tr><td><strong>The Debt Chain</strong></td><td>The Inherited Debt</td><td>Bracelet</td><td>See others' karmic debt</td><td>Wearer feels every debt they see</td></tr>
+<tr><td><strong>The Ember Pin</strong></td><td>The Ember Child</td><td>Hairpin</td><td>Protection from cold sorrow</td><td>Happy memories fade slightly</td></tr>
+<tr><td><strong>The Whisper Stud</strong></td><td>The Hollow Choir</td><td>Earring</td><td>Understand entity language</td><td>Hears whispers constantly</td></tr>
+<tr><td><strong>The Duty Ring</strong></td><td>The Forgotten Soldier</td><td>Ring</td><td>+15% combat effectiveness</td><td>Wearer cannot flee from duty</td></tr>
+<tr><td><strong>The Tear Pendant</strong></td><td>The Orphaned Bell</td><td>Amulet</td><td>Resistance to memory loss</td><td>Hears the bell faintly</td></tr>
+</tbody></table></div>
+<h3>M.A.W. Corrosion (부식 — Busik) — When M.A.W. Fails</h3>
+<p><strong>What it is:</strong> When M.A.W. is overused, misused, or neglected, it <strong>corrodes</strong> — the entity's personality begins to overtake the wearer. The M.A.W. does not just fail — it <em>turns</em>.</p>
+<div class="wiki-callout"><p><em>"The M.A.W. is alive. Push it too far, and it will push back."</em></p></div>
+<p><strong>How Corrosion happens:</strong></p>
+<ul>
+<li><strong>Overuse:</strong> Using M.A.W. beyond recommended shifts — the entity's sorrow accumulates in the wearer</li>
+<li><strong>Misuse:</strong> Using M.A.W. against its nature — a Lament weapon used for joy, a Grudge armor used for cowardice</li>
+<li><strong>Neglect:</strong> Not feeding the M.A.W. Echoes — the entity becomes hungry, desperate</li>
+<li><strong>Emotional conflict:</strong> The wearer's sorrow contradicts the entity's — creating internal friction</li>
+</ul>
+<p><strong>The Corrosion Process:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Stage</th><th>Name</th><th>Signs</th><th>Duration</th></tr></thead>
+<tbody>
+<tr><td><strong>1</strong></td><td><strong>Whispers</strong></td><td>The wearer hears the entity's voice — faint, insistent</td><td>Days</td></tr>
+<tr><td><strong>2</strong></td><td><strong>Bleed</strong></td><td>The wearer's personality shifts — becoming more like the entity</td><td>Weeks</td></tr>
+<tr><td><strong>3</strong></td><td><strong>Merge</strong></td><td>The wearer and entity's personalities blend — boundaries blur</td><td>Months</td></tr>
+<tr><td><strong>4</strong></td><td><strong>Takeover</strong></td><td>The entity's personality dominates — the wearer is <em>inside</em> their own body</td><td>Permanent</td></tr>
+</tbody></table></div>
+<p><strong>Stage 1 — Whispers:</strong></p>
+<ul>
+<li>The wearer hears the entity's voice — not words, but <em>feelings</em></li>
+<li>The entity expresses preferences — what it likes, what it dislikes, what it wants</li>
+<li>The wearer can ignore the whispers — but they never fully stop</li>
+</ul>
+<p><strong>Stage 2 — Bleed:</strong></p>
+<ul>
+<li>The wearer's personality shifts — they become more like the entity</li>
+<li>A Lament-weapon wearer becomes more melancholic</li>
+<li>A Grudge-armor wearer becomes more aggressive</li>
+<li>A Void-tool wearer becomes more detached</li>
+<li>A Weight-accessory wearer becomes more resigned</li>
+</ul>
+<p><strong>Stage 3 — Merge:</strong></p>
+<ul>
+<li>The boundaries between wearer and entity blur</li>
+<li>The wearer speaks with the entity's voice — saying things they didn't intend</li>
+<li>The wearer acts on the entity's impulses — without realizing it</li>
+<li>The wearer's memories mix with the entity's memories — confusion</li>
+</ul>
+<p><strong>Stage 4 — Takeover:</strong></p>
+<ul>
+<li>The entity's personality dominates</li>
+<li>The wearer is still <em>aware</em> — but trapped inside their own body</li>
+<li>The entity uses the body for its own purposes — seeking what it lost, what it wants, what it needs</li>
+<li><strong>This is not Fracture</strong> — the wearer's body does not transform. They are still human. But the mind is no longer theirs.</li>
+</ul>
+<p><strong>How to prevent Corrosion:</strong></p>
+<ul>
+<li>Follow shift limits — do not use M.A.W. beyond recommended time</li>
+<li>Feed the M.A.W. Echoes regularly — keep the entity satisfied</li>
+<li>Monitor personality changes — if you notice shifts, report to R.D.</li>
+<li>Take breaks — let the M.A.W. rest, let yourself rest</li>
+<li>Talk to someone — the Secretary, a fellow worker, anyone</li>
+</ul>
+<p><strong>How to treat Corrosion:</strong></p>
+<ul>
+<li><strong>Stage 1:</strong> Rest and reflection — the whispers fade with distance</li>
+<li><strong>Stage 2:</strong> M.A.W. removal — painful, but necessary</li>
+<li><strong>Stage 3:</strong> Core Suppression-level intervention — forces the entity back</li>
+<li><strong>Stage 4:</strong> <strong>No known treatment</strong> — the wearer is lost</li>
+</ul>
+<h3>M.A.W. Corrosion — The Echo-Core Risk</h3>
+<p>Echo-Cores use M.A.W. more than anyone — and they are at the highest risk of Corrosion.</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Echo-Core</th><th>M.A.W. Status</th><th>Corrosion Risk</th></tr></thead>
+<tbody>
+<tr><td><strong>The Director</strong></td><td>ω-grade, permanently fused</td><td><strong>Stage 4 — the entity IS part of them</strong></td></tr>
+<tr><td><strong>The Secretary</strong></td><td>No M.A.W. — AI construct</td><td>None</td></tr>
+<tr><td><strong>The Containment Lead</strong></td><td>Partial Maw-merge</td><td><strong><span>Stage 3 — merging with <a class="wiki-link" href="../locations/the-maw.html">The Maw</a></span></strong></td></tr>
+<tr><td><strong>The Extraction Lead</strong></td><td>Android body — M.A.W. compatible</td><td>Stage 2 — personality shifts noted</td></tr>
+<tr><td><strong>The Research Lead</strong></td><td>Hollow — no entity resonance</td><td>None — cannot corrode</td></tr>
+<tr><td><strong>The Border Lead</strong></td><td>Entity inside — Effloresced</td><td>N/A — Efflorescence, not Corrosion</td></tr>
+<tr><td><strong>The Archive Lead</strong></td><td>Cryogen — isolated</td><td>None — no M.A.W. contact</td></tr>
+<tr><td><strong>The Outsider</strong></td><td>Android — M.A.W. compatible</td><td>Stage 1 — whispers noted</td></tr>
+<tr><td><strong>The Exile</strong></td><td>Desolate-changed</td><td><strong>Unknown — the Desolate is changing them</strong></td></tr>
+</tbody></table></div>
+<p><strong>Full details:</strong> <code>The_REVERIE_DIRECTORATE.md</code></p></section>
+<section class="wiki-section" id="named-fractures-those-who-broke"><h2 class="section-title">Named Fractures — Those Who Broke</h2><h3>Overview</h3>
+<div class="wiki-callout"><p><em>"They were people once. Now they are warnings."</em></p></div>
+<p><strong>Named Fractures</strong> are Fractured beings who have become <strong>permanent fixtures</strong><span> in Somnarak — entities that were once human, now transformed, their stories preserved in the Archive. Unlike <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a> (which form from collective grief), Named Fractures were </span><strong>individuals</strong> who broke under the weight of their own sorrow.</p>
+<p><strong>The complete roster:</strong> The eight permanent transformations catalogued below (Fractures 11–18 in the R.D. Fracture Registry) are part of the full <strong>eighteen-entry</strong> Named Fractures roster, now unified in <code>SOMNARAK_NAMED_FRACTURES.md</code>. That file also records ten further Fractures documented in living memory — citizens who broke, some of whom survived as partial or chronic Fractures and still walk the city. Together, the two ledgers describe the same phenomenon from opposite ends: the person who broke, and the thing they became.</p>
+<h3>The Named Fractures</h3>
+<h4>1. The Weeping Judge (우는 판사 — Uneun Pansa)</h4>
+<p><strong>Original Identity:</strong><span> A judge in <a class="wiki-link" href="../locations/zone-c-collectors-row.html">Zone C</a> who sentenced hundreds to debt prison</span></p>
+<p><strong>Fracture Cause:</strong> The judge sentenced a family to debt prison — a mother and her three children. The mother Fractured in prison. The children were consumed by the Debtors' Warren. The judge's guilt crystallized into transformation.</p>
+<p><strong>Current Form:</strong> A figure made of crystallized verdicts — tears of liquid Han stream down its face. <a class="wiki-link" href="../lore/the-weeping-river.html">The Weeping</a><span> Judge wanders <a class="wiki-link" href="../locations/zone-c-collectors-row.html">Zone C</a>, appearing at trials and hearings. When it speaks, its words are verdicts — anyone touched by its tears is declared "guilty."</span></p>
+<p><strong>The Tragedy:</strong> The judge sought justice. The system turned justice into punishment. The judge could not bear the weight of what they had done.</p>
+<h4>2. The Hollow Mother (빈 어머니 — Bin Eomeoni)</h4>
+<p><strong>Original Identity:</strong><span> A mother in <a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a> who lost her child to Han overflow</span></p>
+<p><strong>Fracture Cause:</strong> The mother's child was consumed by the same Han that built the walls. The mother searched for years. When she found the child's echo in the walls, she tried to merge with them. She succeeded.</p>
+<p><strong>Current Form:</strong><span> A figure embedded in the walls of <a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a> — visible only as a face pressing against the surface. The Hollow Mother speaks to passersby — whispering her child's name, asking if they've seen them.</span></p>
+<p><strong>The Tragedy:</strong> The mother found her child — in the walls. But the child was part of the building now. The mother joined them — becoming part of the wall herself.</p>
+<h4>3. The Forgotten King (잊혀진 왕 — Ithyeojin Wang)</h4>
+<p><strong>Original Identity:</strong><span> A wealthy merchant in <a class="wiki-link" href="../locations/zone-d-forge-and-gardens.html">Zone D</a> who hoarded Echoes</span></p>
+<p><strong>Fracture Cause:</strong> The merchant accumulated so many Echoes that the weight of stolen emotions crushed them. They Fractured into a figure made of crystallized Echoes — beautiful, hollow, and hungry.</p>
+<p><strong>Current Form:</strong> A figure seated on a throne of Echoes — regal, ancient, empty. The Forgotten King hoards Echoes still — accumulating stolen emotions, unable to feel any of them.</p>
+<p><strong>The Tragedy:</strong> The merchant sought wealth. They found it — in the form of other people's emotions. But they could never feel any of it.</p>
+<h4>4. The Silent Child (조용한 아이 — Joyonghan Ai)</h4>
+<p><strong>Original Identity:</strong><span> A child in <a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a> who was never heard</span></p>
+<p><strong>Fracture Cause:</strong> The child's parents were consumed by the Han. The child called for help. No one came. The child's voice was silenced — not by anyone, but by the weight of being unheard.</p>
+<p><strong>Current Form:</strong><span> A small, translucent figure that wanders <a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a> — silent, watchful, waiting. The Silent Child does not speak. It simply exists — a reminder that some voices are never heard.</span></p>
+<p><strong>The Tragedy:</strong> The child called for help. No one came. The child's silence is not peace — it is the absence of hope.</p>
+<h4>5. The Broken Architect (부서진 건축가 — Buseojin Geonchukga)</h4>
+<p><strong>Original Identity:</strong> An Architect who built a wall that trapped their family</p>
+<p><strong>Fracture Cause:</strong> The Architect built a wall during a Han overflow — containing the spread. But their family was on the other side. The wall trapped them. The Han consumed them. The Architect's guilt crystallized into transformation.</p>
+<p><strong>Current Form:</strong> A figure made of crumbling stone — constantly building, constantly breaking. The Broken Architect builds walls that immediately crumble — unable to complete what they started, unable to stop trying.</p>
+<p><strong>The Tragedy:</strong> The Architect built to protect. The wall became a tomb. The Architect cannot stop building — because stopping means accepting what they did.</p>
+<h4>6. The Masked Dancer (가면 무용수 — Gamyeon Muyongsu)</h4>
+<p><strong>Original Identity:</strong><span> A performer in <a class="wiki-link" href="../locations/zone-d-forge-and-gardens.html">Zone D</a> who wore masks to hide their sorrow</span></p>
+<p><strong>Fracture Cause:</strong> The dancer performed joy every night — smiling, laughing, entertaining. But behind the mask, they were dying. One night, the mask fused with their face. The dancer could no longer remove it.</p>
+<p><strong>Current Form:</strong> A figure in a beautiful mask — dancing endlessly, smiling endlessly, weeping endlessly. The Masked Dancer cannot stop performing. The mask is part of them now.</p>
+<p><strong>The Tragedy:</strong> The dancer performed joy to survive. The performance became permanent. The dancer is now the mask — and the mask is forever.</p>
+<h4>7. The Hollow Knight (빈 기사 — Bin Gisa)</h4>
+<p><strong>Original Identity:</strong> A warrior who fought for a cause that was forgotten</p>
+<p><strong>Fracture Cause:</strong> The warrior fought in the Occlusihan — defending their people. Their sacrifice was erased from history. The warrior's purpose was stolen. Their grief crystallized into transformation.</p>
+<p><strong>Current Form:</strong> An empty suit of armor — standing at attention, waiting for orders that will never come. The Hollow Knight does not speak. It simply stands — a monument to forgotten duty.</p>
+<p><strong>The Tragedy:</strong> The warrior fought for something they believed in. The cause was forgotten. The warrior's sacrifice was erased. The armor remains — but the person inside is gone.</p>
+<h4>8. The Memory Thief (기록 도둑 — Girok Doduk)</h4>
+<p><strong>Original Identity:</strong> A Keeper who stole memories from the Archive</p>
+<p><strong>Fracture Cause:</strong> The Keeper discovered memories that should not exist — secrets about the Cheongula. They tried to erase them. The memories fought back. The Keeper's own memories were consumed in the struggle.</p>
+<p><strong>Current Form:</strong> A shadowy figure that moves through the Archive — stealing memories, erasing identities, leaving blank spaces. The Memory Thief does not know who they were. They only know how to take.</p>
+<p><strong>The Tragedy:</strong> The Keeper sought to protect the truth. The truth consumed them. Now the Keeper is the very thing they feared — a thief of memories.</p></section>
+<section class="wiki-section" id="x-c-population-statistics"><h2 class="section-title">X-C. Population &amp; Statistics</h2><h3>Somnarak Population Estimate</h3>
+<p><em>This table — and every zone, district, and faction population figure elsewhere in this document — records the <strong>counted establishment</strong>: the citizens the Council's forms actually reach. The true mass of humanity in the Somnarak Sphere is given at the end of this section.</em></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Zone</th><th>Area</th><th>Population</th><th>Density</th><th>Character</th></tr></thead>
+<tbody>
+<tr><td><strong>A</strong></td><td>1.7 km²</td><td>~2,000</td><td>1,176/km²</td><td>Faction elite, Council, staff</td></tr>
+<tr><td><strong>B</strong></td><td>15.5 km²</td><td>~120,000</td><td>7,742/km²</td><td>Oldest families, debt-heavy, outcasts</td></tr>
+<tr><td><strong>C</strong></td><td>18.9 km²</td><td>~180,000</td><td>9,524/km²</td><td>System workers, military, merchants</td></tr>
+<tr><td><strong>D</strong></td><td>21.5 km²</td><td>~250,000</td><td>11,628/km²</td><td>Diverse middle class, workers, families</td></tr>
+<tr><td><strong>E</strong></td><td>28.4 km²</td><td>~46,000</td><td>1,620/km²</td><td>Frontier, military, isolationists</td></tr>
+<tr><td><strong>Total</strong></td><td><strong>86 km²</strong></td><td><strong>~598,000</strong></td><td><strong>6,953/km²</strong></td><td></td></tr>
+</tbody></table></div>
+<h3>Desolate Population Estimate</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Group</th><th>Population</th></tr></thead>
+<tbody>
+<tr><td>Exiles</td><td>~2,000</td></tr>
+<tr><td>Frontier families</td><td>~5,000</td></tr>
+<tr><td>Nomads</td><td>~3,000</td></tr>
+<tr><td>Outcasts</td><td>~4,000</td></tr>
+<tr><td>Scavengers</td><td>~1,500</td></tr>
+<tr><td>R.D. field agents</td><td>~500</td></tr>
+<tr><td><strong>Total</strong></td><td><strong>~16,000</strong></td></tr>
+</tbody></table></div>
+<h3>Grand Total — The Somnarak Sphere</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Area</th><th>Population</th></tr></thead>
+<tbody>
+<tr><td>Somnarak (counted establishment)</td><td>~598,000</td></tr>
+<tr><td>Somnarak (true, inside the walls)</td><td>~1,290,000,000</td></tr>
+<tr><td>Around the city — the Fringe (un-counted, outside but around)</td><td>~1,290,000,000</td></tr>
+<tr><td>   — Somnarak slums (pressed against the outer wall)</td><td>~700,000,000</td></tr>
+<tr><td>   — Somnarak villages (settled through the halo)</td><td>~340,000,000</td></tr>
+<tr><td>   — Somnarak outside tribes (peoples of the deep halo)</td><td>~160,000,000</td></tr>
+<tr><td>   — Somnarak nomads (walking the Han-flows)</td><td>~90,000,000</td></tr>
+<tr><td><span><a class="wiki-link" href="../locations/the-desolate.html">The Desolate</a> (buffer strip)</span></td><td>~16,000</td></tr>
+<tr><td><strong>The Somnarak Sphere</strong></td><td><strong>~2,580,000,000 — ≈30% of Mugenhan's 8.6 billion</strong></td></tr>
+</tbody></table></div>
+<h3>Faction Personnel Estimates</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Faction</th><th>Personnel</th><th>% of Counted Establishment</th></tr></thead>
+<tbody>
+<tr><td>Council of Sighs</td><td>~50</td><td>&lt;0.01%</td></tr>
+<tr><td>Architects</td><td>~15,000</td><td>2.5%</td></tr>
+<tr><td>Collectors</td><td>~8,000</td><td>1.3%</td></tr>
+<tr><td>Keepers</td><td>~5,000</td><td>0.8%</td></tr>
+<tr><td>Wardens</td><td>~30,000</td><td>5.0%</td></tr>
+<tr><td>Weavers</td><td>~3,000</td><td>0.5%</td></tr>
+<tr><td><span>R.D. (<a class="wiki-link" href="../factions/the-reverie-directorate.html">Reverie Directorate</a>)</span></td><td>~2,000</td><td>0.3%</td></tr>
+<tr><td><strong>Total faction</strong></td><td><strong>~63,050</strong></td><td><strong>~10.6%</strong></td></tr>
+</tbody></table></div>
+<h3>Sorrow Entity Registry (Known)</h3>
+<p><strong>By Coherence and Potency:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Coherence</th><th>α</th><th>β</th><th>γ</th><th>δ</th><th>ω</th><th>Total</th></tr></thead>
+<tbody>
+<tr><td><strong>I — Residue</strong></td><td>41</td><td>0</td><td>0</td><td>0</td><td>0</td><td>41</td></tr>
+<tr><td><strong>II — Echo</strong></td><td>5</td><td>55</td><td>1</td><td>0</td><td>0</td><td>61</td></tr>
+<tr><td><strong>III — Fragment</strong></td><td>0</td><td>11</td><td>52</td><td>1</td><td>0</td><td>64</td></tr>
+<tr><td><strong>IV — Entity</strong></td><td>0</td><td>4</td><td>11</td><td>54</td><td>1</td><td>70</td></tr>
+<tr><td><strong>V — Sovereign</strong></td><td>0</td><td>0</td><td>4</td><td>5</td><td>1</td><td>10</td></tr>
+<tr><td><strong>Total</strong></td><td><strong>46</strong></td><td><strong>70</strong></td><td><strong>68</strong></td><td><strong>60</strong></td><td><strong>2</strong></td><td><strong>246</strong></td></tr>
+</tbody></table></div>
+<p><strong>By Sorrow Category:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Category</th><th>Total</th><th>%</th><th>Character</th></tr></thead>
+<tbody>
+<tr><td><strong>City Sorrow</strong> (도한)</td><td>133</td><td>54%</td><td>Born from the city's systems, institutions, accumulated institutional grief</td></tr>
+<tr><td><strong>Outside Sorrow</strong> (외한)</td><td>51</td><td>21%</td><td>Born from the wilderness, Desolate, external forces</td></tr>
+<tr><td><strong>Inner Sorrow</strong> (내한)</td><td>62</td><td>25%</td><td>Born from personal grief, individual trauma, private pain</td></tr>
+</tbody></table></div>
+<p><strong>Category distribution by Coherence:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Coherence</th><th>City</th><th>Outside</th><th>Inner</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td><strong>I — Residue</strong></td><td>20</td><td>14</td><td>7</td><td>Most Residue is City Sorrow — ambient, structural</td></tr>
+<tr><td><strong>II — Echo</strong></td><td>30</td><td>11</td><td>20</td><td>Echo forms from all three, but City dominates</td></tr>
+<tr><td><strong>III — Fragment</strong></td><td>32</td><td>13</td><td>19</td><td>Fragments form more evenly — personal trauma creates coherent entities</td></tr>
+<tr><td><strong>IV — Entity</strong></td><td>42</td><td>12</td><td>16</td><td>Entities are rare — requires sustained, focused sorrow</td></tr>
+<tr><td><strong>V — Sovereign</strong></td><td>9</td><td>1</td><td>0</td><td>Sovereigns are almost exclusively City Sorrow — the city itself breeds them</td></tr>
+</tbody></table></div>
+<h3>M.A.W. Registry (Known)</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Grade</th><th>Weapons</th><th>Armor</th><th>Tools</th><th>Accessories</th><th>Hybrid</th><th>Total</th></tr></thead>
+<tbody>
+<tr><td><strong>α</strong></td><td>18</td><td>12</td><td>8</td><td>6</td><td>2</td><td>46</td></tr>
+<tr><td><strong>β</strong></td><td>14</td><td>10</td><td>6</td><td>4</td><td>1</td><td>35</td></tr>
+<tr><td><strong>γ</strong></td><td>7</td><td>5</td><td>3</td><td>2</td><td>1</td><td>18</td></tr>
+<tr><td><strong>δ</strong></td><td>3</td><td>2</td><td>1</td><td>1</td><td>0</td><td>7</td></tr>
+<tr><td><strong>ω</strong></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td><strong>0</strong></td></tr>
+<tr><td><strong>Total</strong></td><td><strong>42</strong></td><td><strong>29</strong></td><td><strong>18</strong></td><td><strong>13</strong></td><td><strong>4</strong></td><td><strong>106</strong></td></tr>
+</tbody></table></div></section>
+<!-- Page Footer -->
+<footer class="article-footer">
+<div class="footer-categories">
+<strong>Categories:</strong>
+<a href="../mechanics/index.html">Systems &amp; Mechanics</a> |
+          <a href="../index.html">Somnarak Universe</a> |
+          <a href="../lore/index.html">Canon Lore</a>
+</div>
+<div class="footer-disclaimer">
+          Content is available under Somnarak Directorate Archival License unless otherwise noted.
+        </div>
+</footer>
+<!-- Bottom Cross-Reference Directory -->
+<section class="cross-reference-section">
+  <div class="cross-ref-header">CANONICAL CROSS-LINKS &amp; ATLAS CONNECTIONS</div>
+  <div class="cross-ref-grid">
+    <a href="../departments/floor-1-neutral-command.html" class="cross-ref-card">
+      <img src="../assets/layout/hand/icons/icon_dept_f1_neutral.svg" alt="Command">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">FACILITY COMMAND</span><span class="cross-ref-title">NEUTRAL COMMAND</span></div>
+    </a> <a href="../characters/the-director-majin.html" class="cross-ref-card">
+      <img src="../assets/icons/icon_core_majin.svg" alt="Majin">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">EXECUTIVE LEAD</span><span class="cross-ref-title">DIRECTOR MAJIN</span></div>
+    </a> <a href="../lore/the-cycle-and-absolvohan.html" class="cross-ref-card">
+      <img src="../assets/icons/ref_absolvohan.svg" alt="Absolvohan">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">PRIMARY CANON</span><span class="cross-ref-title">1,778 CYCLES</span></div>
+    </a> <a href="../atlas/hand-of-change-map.html" class="cross-ref-card">
+      <img src="../assets/layout/hand/icons/the_hand_dr_icon_styled.svg" alt="Facility Map">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">SCHEMATIC ATLAS</span><span class="cross-ref-title">HAND OF CHANGE MAP</span></div>
+    </a>
+  </div>
+</section>
+</main>
+</div>
+</body>
+</html>

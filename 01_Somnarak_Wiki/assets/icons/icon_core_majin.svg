@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <radialGradient id="gradMajin" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3d2c05"/>
+      <stop offset="70%" stop-color="#1c1402"/>
+      <stop offset="100%" stop-color="#080501"/>
+    </radialGradient>
+    <filter id="glowMajin" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+  <!-- Chamfered Directorate Crest Frame -->
+  <polygon points="60,4 114,24 114,86 60,116 6,86 6,24" fill="url(#gradMajin)" stroke="#f1df76" stroke-width="3.5"/>
+  <polygon points="60,10 108,26 108,82 60,110 12,82 12,26" fill="none" stroke="#71efaf" stroke-width="1.2" stroke-dasharray="6 3"/>
+  
+  <!-- Crossed Sovereign Gold Scepters -->
+  <line x1="24" y1="24" x2="96" y2="96" stroke="#f1df76" stroke-width="3.5"/>
+  <circle cx="24" cy="24" r="5" fill="#ef5b55" stroke="#ffffff" stroke-width="1.5"/>
+  <line x1="96" y1="24" x2="24" y2="96" stroke="#f1df76" stroke-width="3.5"/>
+  <circle cx="96" cy="24" r="5" fill="#ef5b55" stroke="#ffffff" stroke-width="1.5"/>
+  
+  <!-- Dual Celestial Orbital Rings -->
+  <ellipse cx="60" cy="58" rx="34" ry="12" fill="none" stroke="#71efaf" stroke-width="1.5" stroke-dasharray="6 3" transform="rotate(-20 60 58)"/>
+  <ellipse cx="60" cy="58" rx="34" ry="12" fill="none" stroke="#f1df76" stroke-width="1.5" stroke-dasharray="6 3" transform="rotate(20 60 58)"/>
+  
+  <!-- Sovereign Golden Hourglass Core -->
+  <polygon points="40,38 80,38 46,78 74,78" fill="#450a0a" stroke="#f1df76" stroke-width="2.5"/>
+  <!-- Flowing Golden Sand of Cycles -->
+  <polygon points="46,42 74,42 60,56" fill="#f1df76" filter="url(#glowMajin)"/>
+  <polygon points="60,60 52,74 68,74" fill="#f1df76" filter="url(#glowMajin)"/>
+  <line x1="60" y1="56" x2="60" y2="60" stroke="#ffffff" stroke-width="2"/>
+  
+  <!-- Sovereign Crown Finial -->
+  <polygon points="46,26 52,14 60,22 68,14 74,26 46,26" fill="#f1df76" stroke="#ffffff" stroke-width="1"/>
+  <circle cx="60" cy="24" r="2.5" fill="#ef5b55"/>
+  <text x="60" y="104" fill="#f1df76" font-family="'JetBrains Mono', monospace" font-size="7.5" font-weight="bold" text-anchor="middle">SOVEREIGN CORE</text>
+</svg>

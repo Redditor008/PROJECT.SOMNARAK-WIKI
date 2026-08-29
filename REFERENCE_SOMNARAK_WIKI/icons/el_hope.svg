@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <radialGradient id="hopeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fef08a" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#eab308" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#713f12" stop-opacity="0.95"/>
+    </radialGradient>
+  </defs>
+  <polygon points="60,4 114,24 114,84 60,116 6,84 6,24" fill="url(#hopeGlow)" stroke="#f1df76" stroke-width="4"/>
+  <polygon points="60,14 104,28 104,78 60,104 16,78 16,28" fill="#1c1303" stroke="#fef08a" stroke-width="2"/>
+  <!-- Radiant Dawn Sun & Crown of Absolvohan -->
+  <circle cx="60" cy="60" r="22" fill="#eab308" stroke="#ffffff" stroke-width="3"/>
+  <polygon points="60,20 64,34 78,34 66,44 70,58 60,50 50,58 54,44 42,34 56,34" fill="#ffffff"/>
+  <circle cx="60" cy="60" r="8" fill="#ffffff"/>
+</svg>

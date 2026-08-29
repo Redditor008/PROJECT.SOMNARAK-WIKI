@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bGrad_006" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b"/>
+      <stop offset="50%" stop-color="#02231a"/>
+      <stop offset="100%" stop-color="#010a08"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" fill="url(#bGrad_006)"/>
+  <polygon points="20,20 1180,20 1180,380 20,380" fill="none" stroke="#10b981" stroke-width="3"/>
+  <g transform="translate(140, 50)">
+    <circle cx="140" cy="140" r="100" fill="#04231b" stroke="#10b981" stroke-width="2.5"/>
+    <circle cx="140" cy="140" r="60" fill="#021410" stroke="#38bdf8" stroke-width="2"/>
+    <circle cx="140" cy="140" r="20" fill="#10b981"/>
+  </g>
+  <g transform="translate(480, 70)">
+    <rect width="640" height="260" rx="6" fill="rgba(2, 35, 26, 0.9)" stroke="#10b981" stroke-width="2"/>
+    <rect x="10" y="10" width="620" height="34" fill="#064e3b"/>
+    <text x="24" y="33" fill="#f1df76" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="bold">CONTAINMENT CHAMBER MK-06 // COHERENCE: 03</text>
+    <text x="24" y="80" fill="#ffffff" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="bold">SE-006 — THE SIPHON LEECH</text>
+    <text x="24" y="112" fill="#10b981" font-family="'JetBrains Mono', monospace" font-size="15" font-weight="bold">SECC RANK: β (SOMNA) · DAMAGE: WEIGHT (DUAL) · YIELD: 20 PE</text>
+    <line x1="24" y1="128" x2="616" y2="128" stroke="#10b981" stroke-width="1" stroke-dasharray="4 2"/>
+    <text x="24" y="160" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="14">Special Work: Extraction (Hausuhan 70%) | Danger: Effluent Siphon Drain</text>
+  </g>
+</svg>

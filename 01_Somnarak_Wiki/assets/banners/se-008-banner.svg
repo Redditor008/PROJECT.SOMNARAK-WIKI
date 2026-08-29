@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <rect width="1200" height="400" fill="#02140d"/>
+  <polygon points="20,20 1180,20 1180,380 20,380" fill="none" stroke="#71efaf" stroke-width="3"/>
+  <g transform="translate(600, 200)">
+    <path d="M -100,-20 L 100,-20 L 80,60 L -80,60 Z" fill="#064e3b" stroke="#71efaf" stroke-width="3"/>
+    <path d="M -110,80 Q 0,120 110,80" fill="none" stroke="#f1df76" stroke-width="4"/>
+    <polygon points="0,-100 8,-80 28,-75 14,-60 18,-40 0,-50 -18,-40 -14,-60 -28,-75 -8,-80" fill="#ffffff"/>
+  </g>
+  <text x="60" y="110" fill="#71efaf" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="bold" letter-spacing="3">[ CONTAINMENT CELL // SE-008 ]</text>
+  <text x="60" y="150" fill="#ffffff" font-family="'JetBrains Mono', monospace" font-size="32" font-weight="bold">FORGOTTEN CRADLE</text>
+  <text x="60" y="180" fill="#71efaf" font-family="'JetBrains Mono', monospace" font-size="15">RISK: AETHER (α) | DAMAGE: LAMENT // SP</text>
+</svg>

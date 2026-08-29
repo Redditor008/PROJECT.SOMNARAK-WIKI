@@ -1,0 +1,165 @@
+import os
+
+se008_banner = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="se8-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#140206"/>
+      <stop offset="50%" stop-color="#2a050d"/>
+      <stop offset="100%" stop-color="#070002"/>
+    </linearGradient>
+    <radialGradient id="se8-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="se8-iron" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#64748b"/>
+      <stop offset="50%" stop-color="#334155"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Chamber Scene -->
+  <rect width="1200" height="400" fill="url(#se8-bg)"/>
+  <circle cx="600" cy="200" r="280" fill="url(#se8-glow)"/>
+
+  <!-- Subterranean Chamber Grid & Cables -->
+  <path d="M 0,350 L 1200,350 M 0,380 L 1200,380" stroke="#334155" stroke-width="1.5" stroke-dasharray="8,8" opacity="0.4"/>
+  <path d="M 150,0 L 150,400 M 1050,0 L 1050,400" stroke="#475569" stroke-width="2" opacity="0.3"/>
+  <path d="M 0,80 Q 300,140 600,100 T 1200,80" fill="none" stroke="#ef4444" stroke-width="1.5" opacity="0.3"/>
+  <path d="M 0,120 Q 400,180 800,130 T 1200,120" fill="none" stroke="#7f1d1d" stroke-width="2" opacity="0.4"/>
+
+  <!-- Tactical HUD Chamber Frame -->
+  <rect x="20" y="20" width="1160" height="360" fill="none" stroke="#ef4444" stroke-width="1.5" opacity="0.7"/>
+  <polygon points="20,20 60,20 20,60" fill="#ef4444"/>
+  <polygon points="1180,20 1140,20 1180,60" fill="#ef4444"/>
+  <polygon points="20,380 60,380 20,340" fill="#ef4444"/>
+  <polygon points="1180,380 1140,380 1180,340" fill="#ef4444"/>
+
+  <!-- HUD Labels -->
+  <text x="75" y="52" fill="#f87171" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="bold">CONTAINMENT SECTOR 06-08 // DEEP VAULT</text>
+  <text x="75" y="72" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="11">SUBJECT: SE-008 · THE IRON MAIDEN OF REGRET · RISK CLASS δ (PHANTASM)</text>
+  <text x="1000" y="52" fill="#f1df76" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="bold">COHERENCE: 04/04</text>
+
+  <!-- Central Gothic Sarcophagus Feature Scene -->
+  <!-- Gothic Pediment Arch -->
+  <path d="M 600,60 L 690,110 L 690,340 L 510,340 L 510,110 Z" fill="url(#se8-iron)" stroke="#ef4444" stroke-width="3"/>
+  <path d="M 600,75 L 675,115 L 675,330 L 525,330 L 525,115 Z" fill="#090103" stroke="#991b1b" stroke-width="1.5"/>
+
+  <!-- Crown of Barbed Thorns -->
+  <ellipse cx="600" cy="110" rx="45" ry="14" fill="none" stroke="#ef4444" stroke-width="3"/>
+  <line x1="565" y1="102" x2="555" y2="88" stroke="#ef4444" stroke-width="2.5"/>
+  <line x1="585" y1="98" x2="580" y2="82" stroke="#ef4444" stroke-width="2.5"/>
+  <line x1="615" y1="98" x2="620" y2="82" stroke="#ef4444" stroke-width="2.5"/>
+  <line x1="635" y1="102" x2="645" y2="88" stroke="#ef4444" stroke-width="2.5"/>
+
+  <!-- Sarcophagus Interior Barbed Spikes -->
+  <line x1="540" y1="150" x2="585" y2="160" stroke="#ef4444" stroke-width="3"/>
+  <line x1="540" y1="180" x2="590" y2="188" stroke="#ef4444" stroke-width="3"/>
+  <line x1="540" y1="210" x2="588" y2="216" stroke="#ef4444" stroke-width="3"/>
+  <line x1="540" y1="240" x2="585" y2="244" stroke="#ef4444" stroke-width="3"/>
+  <line x1="540" y1="270" x2="580" y2="272" stroke="#ef4444" stroke-width="3"/>
+  <line x1="540" y1="300" x2="575" y2="300" stroke="#ef4444" stroke-width="3"/>
+
+  <line x1="660" y1="150" x2="615" y2="160" stroke="#ef4444" stroke-width="3"/>
+  <line x1="660" y1="180" x2="610" y2="188" stroke="#ef4444" stroke-width="3"/>
+  <line x1="660" y1="210" x2="612" y2="216" stroke="#ef4444" stroke-width="3"/>
+  <line x1="660" y1="240" x2="615" y2="244" stroke="#ef4444" stroke-width="3"/>
+  <line x1="660" y1="270" x2="620" y2="272" stroke="#ef4444" stroke-width="3"/>
+  <line x1="660" y1="300" x2="625" y2="300" stroke="#ef4444" stroke-width="3"/>
+
+  <!-- Glowing Sorrow Eye in Darkness -->
+  <ellipse cx="600" cy="180" rx="8" ry="12" fill="#ef4444"/>
+  <circle cx="600" cy="180" r="4" fill="#ffffff"/>
+
+  <!-- Escaping Crimson Agony Steam Vents -->
+  <path d="M 510,180 Q 450,150 420,180 T 360,160" fill="none" stroke="#f87171" stroke-width="2" opacity="0.6"/>
+  <path d="M 510,240 Q 430,220 390,260 T 310,230" fill="none" stroke="#f87171" stroke-width="2.5" opacity="0.5"/>
+  <path d="M 690,180 Q 750,150 780,180 T 840,160" fill="none" stroke="#f87171" stroke-width="2" opacity="0.6"/>
+  <path d="M 690,240 Q 770,220 810,260 T 890,230" fill="none" stroke="#f87171" stroke-width="2.5" opacity="0.5"/>
+
+  <!-- Warning Stripes at Base -->
+  <g opacity="0.8">
+    <rect x="480" y="345" width="240" height="12" fill="#1e293b" stroke="#ef4444" stroke-width="1"/>
+    <line x1="490" y1="357" x2="502" y2="345" stroke="#ef4444" stroke-width="3"/>
+    <line x1="510" y1="357" x2="522" y2="345" stroke="#ef4444" stroke-width="3"/>
+    <line x1="530" y1="357" x2="542" y2="345" stroke="#ef4444" stroke-width="3"/>
+    <line x1="550" y1="357" x2="562" y2="345" stroke="#ef4444" stroke-width="3"/>
+    <line x1="570" y1="357" x2="582" y2="345" stroke="#ef4444" stroke-width="3"/>
+    <line x1="590" y1="357" x2="602" y2="345" stroke="#ef4444" stroke-width="3"/>
+    <line x1="610" y1="357" x2="622" y2="345" stroke="#ef4444" stroke-width="3"/>
+    <line x1="630" y1="357" x2="642" y2="345" stroke="#ef4444" stroke-width="3"/>
+    <line x1="650" y1="357" x2="662" y2="345" stroke="#ef4444" stroke-width="3"/>
+    <line x1="670" y1="357" x2="682" y2="345" stroke="#ef4444" stroke-width="3"/>
+    <line x1="690" y1="357" x2="702" y2="345" stroke="#ef4444" stroke-width="3"/>
+  </g>
+</svg>"""
+
+se008_profile = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <radialGradient id="p8-bg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b0712"/>
+      <stop offset="60%" stop-color="#180307"/>
+      <stop offset="100%" stop-color="#050002"/>
+    </radialGradient>
+    <linearGradient id="p8-iron" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#64748b"/>
+      <stop offset="50%" stop-color="#334155"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <radialGradient id="p8-crimson" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background Medallion -->
+  <rect width="500" height="500" fill="url(#p8-bg)"/>
+  <circle cx="250" cy="250" r="230" fill="none" stroke="#ef4444" stroke-width="2" opacity="0.6"/>
+  <circle cx="250" cy="250" r="215" fill="none" stroke="#f1df76" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.5"/>
+  <circle cx="250" cy="250" r="170" fill="url(#p8-crimson)"/>
+
+  <!-- Ornate Gothic Iron Sarcophagus Body -->
+  <path d="M 250,50 L 370,110 L 370,430 L 130,430 L 130,110 Z" fill="url(#p8-iron)" stroke="#ef4444" stroke-width="4"/>
+  <path d="M 250,68 L 352,118 L 352,416 L 148,416 L 148,118 Z" fill="#090103" stroke="#991b1b" stroke-width="2"/>
+
+  <!-- Barbed Crown of Thorns Top -->
+  <ellipse cx="250" cy="115" rx="60" ry="18" fill="none" stroke="#ef4444" stroke-width="4"/>
+  <line x1="200" y1="105" x2="185" y2="85" stroke="#ef4444" stroke-width="3"/>
+  <line x1="230" y1="100" x2="225" y2="78" stroke="#ef4444" stroke-width="3"/>
+  <line x1="270" y1="100" x2="275" y2="78" stroke="#ef4444" stroke-width="3"/>
+  <line x1="300" y1="105" x2="315" y2="85" stroke="#ef4444" stroke-width="3"/>
+
+  <!-- Sarcophagus Interior Spike Array -->
+  <!-- Left Spike Row -->
+  <line x1="168" y1="160" x2="230" y2="175" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+  <line x1="168" y1="200" x2="235" y2="210" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+  <line x1="168" y1="240" x2="232" y2="248" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+  <line x1="168" y1="280" x2="230" y2="285" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+  <line x1="168" y1="320" x2="225" y2="322" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+  <line x1="168" y1="360" x2="220" y2="360" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Right Spike Row -->
+  <line x1="332" y1="160" x2="270" y2="175" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+  <line x1="332" y1="200" x2="265" y2="210" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+  <line x1="332" y1="240" x2="268" y2="248" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+  <line x1="332" y1="280" x2="270" y2="285" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+  <line x1="332" y1="320" x2="275" y2="322" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+  <line x1="332" y1="360" x2="280" y2="360" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Central Weeping Void Silhouette -->
+  <ellipse cx="250" cy="200" rx="14" ry="22" fill="#ef4444"/>
+  <circle cx="250" cy="200" r="7" fill="#ffffff"/>
+
+  <!-- Weeping Steam / Han Sludge Pool at Base -->
+  <ellipse cx="250" cy="435" rx="130" ry="20" fill="#26040a" stroke="#ef4444" stroke-width="2"/>
+  <path d="M 200,430 Q 250,450 300,430" fill="none" stroke="#ef4444" stroke-width="3"/>
+</svg>"""
+
+with open('/home/user/01_Somnarak_Wiki/assets/art/entities/se-008-banner.svg', 'w', encoding='utf-8') as f:
+    f.write(se008_banner.strip())
+with open('/home/user/01_Somnarak_Wiki/assets/art/entities/se-008-profile.svg', 'w', encoding='utf-8') as f:
+    f.write(se008_profile.strip())
+with open('/home/user/icons/banner_entity_se_008.svg', 'w', encoding='utf-8') as f:
+    f.write(se008_banner.strip())
+
+print("SUCCESS: Upgraded SE-008 banner and profile to ultra-high detail!")

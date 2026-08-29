@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="100%" height="100%">
+  <defs>
+    <radialGradient id="badgeGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="70%" stop-color="#0b1322"/>
+      <stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <filter id="badgeGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Inset Double Ring with 4px breathing room -->
+  <circle cx="80" cy="80" r="74" fill="url(#badgeGrad)" stroke="#f1df76" stroke-width="2.5"/>
+  <circle cx="80" cy="80" r="68" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="6 3"/>
+
+  <!-- Tactical Hazard Notches -->
+  <path d="M 80,8 L 80,16 M 80,144 L 80,152 M 8,80 L 16,80 M 144,80 L 152,80" stroke="#ef4444" stroke-width="3"/>
+
+  <!-- Central Crest: The Hand of Change Core -->
+  <polygon points="80,24 126,50 126,110 80,136 34,110 34,50" fill="#0d1829" stroke="#f1df76" stroke-width="2"/>
+  <polygon points="80,32 118,54 118,106 80,128 42,106 42,54" fill="#060c16" stroke="rgba(56, 189, 248, 0.4)" stroke-width="1"/>
+
+  <!-- The Alpha Tree Root Spire -->
+  <polygon points="74,36 86,36 83,46 77,46" fill="#38bdf8" stroke="#f1df76" stroke-width="1"/>
+  <line x1="80" y1="46" x2="80" y2="56" stroke="#38bdf8" stroke-width="2"/>
+
+  <!-- The Palm Core -->
+  <path d="M 56,56 L 104,56 L 108,76 L 100,88 L 60,88 L 52,76 Z" fill="#1e293b" stroke="#f1df76" stroke-width="1.8"/>
+  <circle cx="80" cy="72" r="9" fill="#ef4444" stroke="#f1df76" stroke-width="1.5" filter="url(#badgeGlow)"/>
+  <polygon points="80,67 85,72 80,77 75,72" fill="#fff"/>
+
+  <!-- 4 Finger Pillars -->
+  <line x1="80" y1="88" x2="80" y2="94" stroke="#38bdf8" stroke-width="2"/>
+  <line x1="48" y1="94" x2="112" y2="94" stroke="#38bdf8" stroke-width="1.5"/>
+  <rect x="46" y="96" width="12" height="18" rx="2" fill="#064e3b" stroke="#10b981" stroke-width="1"/>
+  <rect x="62" y="96" width="12" height="22" rx="2" fill="#0c4a6e" stroke="#0284c7" stroke-width="1"/>
+  <rect x="86" y="96" width="12" height="22" rx="2" fill="#3b0764" stroke="#8b5cf6" stroke-width="1"/>
+  <rect x="102" y="96" width="12" height="18" rx="2" fill="#4c0519" stroke="#e11d48" stroke-width="1"/>
+</svg>

@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Facility Architecture &amp; Room Types — Somnarak Official Wiki</title>
+<link href="../assets/css/wiki.css" rel="stylesheet"/>
+<link href="../assets/icons/somnarak_icon.svg" rel="icon" type="image/svg+xml"/>
+<script defer="" src="../assets/js/wiki.js"></script>
+</head>
+<body>
+<!-- Top Utility Bar -->
+<header class="utility">
+<div class="utility-left">
+<button aria-label="Open navigation" class="nav-open" type="button">☰</button>
+<a class="utility-brand" href="../index.html">SOMNARAK.WIKI</a>
+<span class="utility-era">YEAR 4,238 · DAWN INITIATIVE</span>
+</div>
+<nav aria-label="Main navigation">
+<a href="../index.html">Main page</a>
+<a href="../characters/index.html">Characters</a>
+<a href="../lore/index.html">Lore</a>
+<a href="../locations/index.html">Atlas</a>
+<a href="../factions/index.html">Factions</a>
+<a href="../departments/index.html">Facility</a>
+<a href="../entities/index.html">Entities</a>
+<a href="../maw/index.html">M.A.W.</a>
+<a href="../mechanics/index.html">Mechanics</a>
+</nav>
+<div class="search">
+<input autocomplete="off" id="search" data-index="../data/search.json" placeholder="Search archive..." autocomplete="off"/>
+<div id="results"></div>
+</div>
+</header>
+<!-- Main Grid Layout -->
+<div class="wiki-shell">
+<!-- Left Rail -->
+
+    <aside class="left-rail">
+      <div class="site-mark">
+        <a href="../index.html">
+          <img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+          <b>SOMNARAK</b>
+          <span>OFFICIAL WIKI ARCHIVE</span>
+        </a>
+      </div>
+      <nav aria-label="Wiki navigation" class="left-links">
+        <section>
+          <h2>DATABASE HUBS</h2>
+          <a href="../index.html">Main Overview</a>
+          <a href="../characters/index.html">Characters Hub</a>
+          <a href="../lore/index.html">Lore &amp; Cosmology</a>
+          <a href="../locations/index.html">Locations &amp; Atlas</a>
+          <a href="../factions/index.html">Factions &amp; Guilds</a>
+          <a href="../departments/index.html">Facility Floors</a>
+          <a href="../entities/index.html">Sorrow Entities</a>
+          <a href="../maw/index.html">M.A.W. Equipment</a>
+          <a href="../mechanics/index.html">Systems &amp; Mechanics</a>
+        </section>
+        <section>
+          <h2>THE NINE ECHO-CORES</h2>
+          <a href="../characters/the-director-majin.html">1. Director Majin</a>
+          <a href="../characters/the-secretary-seiyon.html">2. Seiyon (Secretary)</a>
+          <a href="../characters/the-containment-lead-dekan.html">3. Dekan (Containment)</a>
+          <a href="../characters/the-extraction-lead-zyrak.html">4. Zyrak (Extraction)</a>
+          <a href="../characters/the-research-lead-ayshuk.html">5. Ayshuk (Research)</a>
+          <a href="../characters/the-border-lead-mellda.html">6. Mellda (Border)</a>
+          <a href="../characters/the-archive-lead-marjuk.html">7. Marjuk (Archive)</a>
+          <a href="../characters/the-outsider-ishall.html">8. Ishall (Outsider)</a>
+          <a href="../characters/the-exile-xyan.html">9. Xyan (Exile)</a>
+        </section>
+        <section>
+          <h2>CARTOGRAPHY &amp; SCHEMATICS</h2>
+          <a href="../atlas/hand-of-change-map.html">Hand of Change Map</a>
+          <a href="../atlas/somnarak-city-map.html">Somnarak City Blueprint</a>
+          <a href="../project/source-map.html">Master Archive Map</a>
+        </section>
+      </nav>
+    </aside>
+    
+<!-- Main Content Body -->
+<main id="content">
+<!-- Tactical Fast-Jump Subpage Bar -->
+<div class="fast-jump-nav">
+  <span class="fast-jump-title">/// RAPID JUMP:</span>
+  <div class="fast-jump-pills">
+    <a href="floor-1-neutral-command.html" class="jump-pill">F1: Neutral</a> <a href="floor-2-maws-keep.html" class="jump-pill">F2: Maw's Keep</a> <a href="floor-3-extraction-hall.html" class="jump-pill">F3: Extraction</a> <a href="floor-4-insight-forge.html" class="jump-pill">F4: Insight</a> <a href="floor-5-border-watch.html" class="jump-pill">F5: Border</a> <a href="floor-6-deep-vault.html" class="jump-pill">F6: Vault</a> <a href="floor-7-shadow-corps.html" class="jump-pill">F7: Shadow</a> <a href="floor-8-gate-watch.html" class="jump-pill">F8: Gate</a> <a href="facility-room-types.html" class="jump-pill active">Room Types</a> <a href="incident-reports-archive.html" class="jump-pill">Incidents</a> <a href="index.html" class="jump-pill">✦ Dept Hub</a>
+  </div>
+</div>
+<!-- Tactical Directive Status HUD -->
+<div class="tactical-directive-box">
+  <div class="directive-text">
+    <span class="led-dot led-green"></span> <b>STATUS:</b> ARCHIVE VERIFIED &nbsp;|&nbsp; 
+    <b>CLEARANCE:</b> LEVEL-4 OVERSIGHT &nbsp;|&nbsp; 
+    <b>PROTOCOL:</b> REVERIE DIRECTORATE
+  </div>
+  <img src="../assets/icons/hud_resonance_wave.svg" alt="Resonance Wave" class="directive-wave">
+</div>
+<!-- Page Tabs -->
+<div class="page-tabs">
+<span>ARTICLE</span>
+<span>DISCUSSION</span>
+<span>SOURCE</span>
+<span>HISTORY</span>
+<b>YEAR 4,238 · DAWN OF HOPE</b>
+</div>
+<!-- Breadcrumbs -->
+<div class="breadcrumbs">
+<a href="../index.html">Somnarak</a> <i>/</i>
+<a href="../departments/index.html">Departments</a> <i>/</i>
+<span>Facility Architecture &amp; Room Types</span>
+</div>
+<!-- Article Header -->
+<div class="article-header">
+<div class="article-eyebrow">DEPARTMENTS RECORD</div>
+<h1 class="article-title">Facility Architecture &amp; Room Types</h1>
+<div class="article-subbar">
+<span class="badge badge-canon">CANONICAL ARTIFACT</span>
+<span class="badge badge-source">SOURCE VERIFIED</span>
+<div class="article-actions">
+<span class="action-btn">History</span>
+<span class="action-btn">View Source</span>
+</div>
+</div>
+</div>
+<section class="wiki-section" id="overview"><h2 class="section-title">Overview</h2><h3>Overview</h3>
+<p><span>Each floor of The <a class="wiki-link" href="../departments/index.html">Hand of Change</a> contains specific room types. Rooms are connected by </span><strong>Han-corridors</strong> — passages lined with Han-crystal that pulse with the facility's rhythm.</p>
+<div class="wiki-callout"><p><em>"Every room in The Hand has a purpose. Every purpose has a cost."</em></p></div>
+<h3>Universal Room Types</h3>
+<p>These rooms exist on <strong>every floor</strong> (1-8):</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Room Type</th><th>Description</th><th>Capacity</th></tr></thead>
+<tbody>
+<tr><td><strong>Main Room</strong></td><td>The central hub of each floor — where personnel gather, briefings happen, and operations are coordinated</td><td>20-50 personnel</td></tr>
+<tr><td><strong>Han-Corridors</strong></td><td>Passages connecting rooms — lined with Han-crystal, warm to the touch</td><td>N/A (transit)</td></tr>
+<tr><td><strong>Elevator Hubs</strong></td><td>Vertical transport between floors — Han-powered lifts</td><td>10 per hub</td></tr>
+<tr><td><strong>Side Rooms</strong></td><td>Storage, rest areas, medical stations</td><td>Varies</td></tr>
+</tbody></table></div>
+<h3>Floor 1: Neutral — Room Types</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Room</th><th>Description</th><th>Function</th></tr></thead>
+<tbody>
+<tr><td><strong>The Director's Office</strong></td><td>The Director's personal space — sparse, heavy, warm</td><td><span>Decision-making; historical access to the concealed Cycle-era Absolvohan reserve beneath <a class="wiki-link" href="../departments/floor-1-neutral-command.html">Floor 1</a></span></td></tr>
+<tr><td><strong>The Secretary's Station</strong></td><td>Where the Secretary coordinates — screens, communication arrays</td><td>Inter-Field coordination, scheduling</td></tr>
+<tr><td><strong>The Council Chamber</strong></td><td>Meeting room for Council visits — imposing, formal</td><td>Council meetings, policy decisions</td></tr>
+<tr><td><strong>The Common Hall</strong></td><td>Large gathering space — meals, rest, community</td><td>Personnel rest, social interaction</td></tr>
+<tr><td><strong>The Infirmary</strong></td><td>Medical facility — Han-treatment, Fracture assessment</td><td>Healing, Fracture monitoring</td></tr>
+<tr><td><strong>The Armory</strong></td><td>M.A.W. storage and distribution</td><td>Equipment checkout, maintenance</td></tr>
+</tbody></table></div>
+<h3>Floor 2: The Maw's Keep — Room Types</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Room</th><th>Description</th><th>Function</th></tr></thead>
+<tbody>
+<tr><td><strong>Containment Cells</strong></td><td><span>Individual chambers for <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a> — Han-crystal walls, suppression fields</span></td><td>Entity holding — each cell tailored to specific entity</td></tr>
+<tr><td><strong><span><a class="wiki-link" href="../locations/the-maw.html">The Maw</a>'s Edge</span></strong></td><td><span>Observation point at <a class="wiki-link" href="../locations/the-maw.html">The Maw</a>'s perimeter — thick glass, monitoring equipment</span></td><td><span>Monitoring The Maw, communicating with <a class="wiki-link" href="../characters/the-containment-lead-dekan.html">Dekan</a></span></td></tr>
+<tr><td><strong>Breach Response Staging</strong></td><td>Equipment room + briefing area for breach teams</td><td>Preparation for containment failures</td></tr>
+<tr><td><strong>Entity Processing</strong></td><td>Initial assessment room — Sorrow Gauges, classification tools</td><td>New entity intake, classification</td></tr>
+<tr><td><strong>The Holding Yard</strong></td><td>Large open space for entity containment overflow</td><td>Emergency holding, entity interaction testing</td></tr>
+<tr><td><strong>The Whispering Gallery</strong></td><td>Sound-dampened room where entity vocalizations are recorded</td><td>Entity communication study</td></tr>
+</tbody></table></div>
+<h3>Floor 3: The Extraction Hall — Room Types</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Room</th><th>Description</th><th>Function</th></tr></thead>
+<tbody>
+<tr><td><strong>Extraction Chambers</strong></td><td>Individual rooms with extraction rigs — Han-crystal frames, resonance emitters</td><td>M.A.W. extraction from entities</td></tr>
+<tr><td><strong>Resonance Scanning</strong></td><td>Room with compatibility measurement equipment</td><td>Entity-person resonance testing</td></tr>
+<tr><td><strong>M.A.W. Testing Grounds</strong></td><td>Open space for testing extracted equipment</td><td>Equipment evaluation, combat testing</td></tr>
+<tr><td><strong>Bonding Rooms</strong></td><td>Quiet, isolated rooms for M.A.W. bonding process</td><td>User-equipment bonding</td></tr>
+<tr><td><strong>The Refinery</strong></td><td>Han-crystal processing — raw crystal to usable material</td><td>Echo processing, Han-crystal refinement</td></tr>
+<tr><td><strong>Equipment Storage</strong></td><td>Vault for M.A.W. equipment — climate-controlled</td><td>M.A.W. storage, cataloguing</td></tr>
+</tbody></table></div>
+<h3>Floor 4: The Insight Forge — Room Types</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Room</th><th>Description</th><th>Function</th></tr></thead>
+<tbody>
+<tr><td><strong>Research Laboratories</strong></td><td>Individual labs for Han analysis — equipment, samples, documentation</td><td>Han research, entity study</td></tr>
+<tr><td><strong>The Classification Archive</strong></td><td>Database room — Sorrow Classification System records</td><td>Entity classification, data storage</td></tr>
+<tr><td><strong>Sorrow Mapping Chamber</strong></td><td>Room with Han-flow visualization equipment</td><td>Han-flow mapping, city structure analysis</td></tr>
+<tr><td><strong>Testing Chambers</strong></td><td>Controlled environments for entity interaction experiments</td><td>Controlled entity testing</td></tr>
+<tr><td><strong>The Specimen Vault</strong></td><td>Storage for Han samples, entity fragments, research materials</td><td>Sample storage</td></tr>
+<tr><td><strong>The Cartographer's Den</strong></td><td>Yeonhwa's personal workspace — maps, lenses, flow charts</td><td>SED preparation, map analysis</td></tr>
+</tbody></table></div>
+<h3>Floor 5: The Border Watch — Room Types</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Room</th><th>Description</th><th>Function</th></tr></thead>
+<tbody>
+<tr><td><strong>Watchtower Command</strong></td><td>Communication and coordination center — maps, signals, reports</td><td><span><a class="wiki-link" href="../locations/zone-e-perimeter-bulwark.html">Zone E</a> defense coordination</span></td></tr>
+<tr><td><strong>The Threshold Outpost</strong></td><td>Forward operating base — equipment, supplies, briefings</td><td>Border operations staging</td></tr>
+<tr><td><strong>Desolate Entry Point</strong></td><td>Controlled access to the wilderness — airlock-style doors</td><td>Desolate expeditions</td></tr>
+<tr><td><strong>Entity Containment (Overflow)</strong></td><td>Containment for entities captured outside the facility</td><td>External entity holding</td></tr>
+<tr><td><strong>The Armory (Military)</strong></td><td>Weapons, armor, tactical equipment</td><td>Military equipment storage</td></tr>
+<tr><td><strong>The War Room</strong></td><td>Strategy room — maps, intelligence reports</td><td>Tactical planning</td></tr>
+</tbody></table></div>
+<h3>Floor 6: The Deep Vault — Room Types</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Room</th><th>Description</th><th>Function</th></tr></thead>
+<tbody>
+<tr><td><strong>The Deep Archive</strong></td><td>Classified records — lowest level, most secure</td><td>Cheongula records, forbidden knowledge</td></tr>
+<tr><td><strong>Memory Vaults</strong></td><td>Crystallized Echo storage — climate-controlled</td><td>Memory preservation</td></tr>
+<tr><td><strong>The Sealed Room</strong></td><td>Records requiring Council approval — triple-locked</td><td>Highest-security records</td></tr>
+<tr><td><strong>The Final Door</strong></td><td>Ancient door — sealed, unknown contents</td><td>???</td></tr>
+<tr><td><strong>The Reading Room</strong></td><td>Quiet space for archive research</td><td>Research, documentation</td></tr>
+<tr><td><strong>The Preservation Lab</strong></td><td>Memory stabilization, Echo repair</td><td>Memory conservation</td></tr>
+</tbody></table></div>
+<h3>Floor 7: The Shadow Corps — Room Types</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Room</th><th>Description</th><th>Function</th></tr></thead>
+<tbody>
+<tr><td><strong>Safe Houses</strong></td><td>Multiple disguised rooms across the floor — different identities</td><td>Field agent rest, identity switching</td></tr>
+<tr><td><strong>Intelligence Processing</strong></td><td>Analysis room — maps, reports, surveillance</td><td>Intelligence analysis</td></tr>
+<tr><td><strong>The Communication Hub</strong></td><td>Encrypted communication arrays</td><td>Field agent contact</td></tr>
+<tr><td><strong>The Disguise Room</strong></td><td>Masks, clothing, identity tools</td><td>Infiltration preparation</td></tr>
+<tr><td><strong>The Armory (Covert)</strong></td><td>Stealth weapons, infiltration tools</td><td>Covert equipment</td></tr>
+<tr><td><strong>The Debriefing Room</strong></td><td>Secure room for agent debriefings</td><td>Post-mission analysis</td></tr>
+</tbody></table></div>
+<h3>Floor 8: The Gate Watch — Room Types</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Room</th><th>Description</th><th>Function</th></tr></thead>
+<tbody>
+<tr><td><strong>The Gate Observation Post</strong></td><td>Overlooks the Exile's Gate — thick glass, monitoring equipment</td><td><span>Before return: watches <a class="wiki-link" href="../characters/the-exile-xyan.html">Xyan</a> and Gate changes. After return: watches passage, approach, and both sides of the boundary.</span></td></tr>
+<tr><td><strong>The Exile's Station</strong></td><td>Dedicated communication and field-contact station</td><td><span>Before return: receives <a class="wiki-link" href="../characters/the-exile-xyan.html">Xyan</a>'s compressed warnings. After return: Xyan's external-contact and route-command station.</span></td></tr>
+<tr><td><strong>Signal Analysis</strong></td><td>Room for decoding external Han-wave messages</td><td>Interprets warnings, compares outside reports, and tracks changed Han-flow.</td></tr>
+<tr><td><strong>The Contemplation Room</strong></td><td>Quiet space separated from continuous Gate monitoring</td><td>Reflection, personnel decompression, and post-arrival stabilization.</td></tr>
+<tr><td><strong>The Archive (Gate)</strong></td><td>Records of Gate activity, exile decisions, warnings, arrivals, and responses</td><td>Preserves not only what reached the R.D., but what the R.D. did after receiving it.</td></tr>
+</tbody></table></div>
+<h3>Room Interaction</h3>
+<p><strong>Moving between rooms:</strong></p>
+<ul>
+<li>Personnel move through <strong>Han-corridors</strong> — passages that pulse with the facility's rhythm</li>
+<li><strong>Elevator Hubs</strong> connect floors — Han-powered lifts</li>
+<li><strong>Main Rooms</strong> serve as home base — personnel return after tasks</li>
+</ul>
+<p><strong>Room effects:</strong></p>
+<ul>
+<li><strong>Containment Cells</strong> suppress Han — entities are calmer inside</li>
+<li><strong>Extraction Chambers</strong> amplify resonance — M.A.W. extraction is more effective</li>
+<li><strong><span>The <a class="wiki-link" href="../departments/floor-6-deep-vault.html">Deep Vault</a></span></strong> suppresses emotion — visitors feel numb inside</li>
+<li><strong>The Gate Observation Post</strong> creates unease — something about the Gate affects nearby rooms</li>
+</ul>
+<h3>Overview</h3>
+<p><span><a class="wiki-link" href="../factions/the-reverie-directorate.html">Reverie Directorate</a>'s facility is built in the stylized shape of a </span><strong>hand</strong><span> — the Palm at the top, four departmental Fingers extending downward, and the separate <a class="wiki-link" href="../departments/floor-8-gate-watch.html">Gate Watch</a> Wing occupying the side position.</span></p>
+<div class="wiki-callout"><p><em>"The hand that holds the sorrow. The fingers that reach into the dark. The change that comes from within."</em></p></div>
+<p><strong>Structure:</strong></p>
+<ul>
+<li><strong>The Palm</strong> (Floors 1-3) — The main facility. Common areas, administration, core operations.</li>
+<li><strong>The Fingers</strong> (Floors 4-7) — Four individual department floors extending downward.</li>
+<li><strong>The Wing</strong><span> (Floor 8) — Attached to the right side of <a class="wiki-link" href="../departments/floor-3-extraction-hall.html">Floor 3</a>. A separate section for the Gate Watch.</span></li>
+</ul>
+<p><code></code>`</p>
+<p>╔═══════════════════╗</p>
+<p>║   FLOOR 1         ║</p>
+<p>║   THE HAND        ║</p>
+<p>║   OF CHANGE       ║</p>
+<p>║   NEUTRAL         ║</p>
+<p>║   (Common Area)   ║</p>
+<p>╠═══════════════════╣</p>
+<p>║   FLOOR 2         ║</p>
+<p>║   THE MAW'S KEEP  ║</p>
+<p>║   (Containment)   ║</p>
+<p>╠═══════════════════╣</p>
+<p>║   FLOOR 3         ║</p>
+<p>║   EXTRACTION HALL ║</p>
+<p>║   (M.A.W.)        ║</p>
+<p>╠═════╦═════╦═════╦═════╦═════╣</p>
+<p>║ F4  ║ F5  ║ F6  ║ F7  ║ F8  ║</p>
+<p>║Insight║Border║Deep ║Shadow║Gate ║</p>
+<p>║Forge ║Watch ║Vault║Corps ║Watch║</p>
+<p>╚═════╩═════╩═════╩═════╩═════╝</p>
+<p>FOUR FINGERS + GATE WING</p>
+<p><code></code>`</p>
+<h3>The Palm (Floors 1-3)</h3>
+<h4>Floor 1: Neutral (중립 층 — Jungnip Cheung)</h4>
+<p><strong>What it is:</strong> The common area — where all Fields intersect. The Director's office. The Secretary's station. Meeting rooms. The main entrance.</p>
+<p><strong>Who is here:</strong> Director, Secretary, visitors, support staff</p>
+<p><strong>What happens here:</strong></p>
+<ul>
+<li>Council meetings (when the Council visits)</li>
+<li>Inter-Field coordination</li>
+<li>Visitor processing</li>
+<li><span>The Director's office — historically linked to the concealed Cycle-era Absolvohan reserve beneath <a class="wiki-link" href="../departments/floor-1-neutral-command.html">Floor 1</a>; no current secret diversion continues</span></li>
+</ul>
+<p><strong><span><a class="wiki-link" href="../departments/floor-1-neutral-command.html">Floor 1</a> motto:</span></strong> <em>"Where all hands meet."</em></p>
+<h4>Floor 2: The Maw's Keep (입구의 수호 — Ipgu-ui Suho)</h4>
+<p><strong>Echo-Core:</strong><span> Containment Lead (<a class="wiki-link" href="../characters/the-containment-lead-dekan.html">Dekan</a>)</span></p>
+<p><strong>What it is:</strong><span> Entity containment — the R.D.'s primary holding facility for <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a>.</span></p>
+<p><strong>Who is here:</strong> Containment Guards, Breach Response Teams, Maw Liaisons</p>
+<p><strong>What happens here:</strong></p>
+<ul>
+<li><span>Entity containment — <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a> are held in specialized cells</span></li>
+<li>Breach response — teams stand ready for containment failures</li>
+<li>Entity processing — initial assessment and classification</li>
+<li><span>The Maw's Edge — observation point at The Maw's perimeter (connected to <a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a>)</span></li>
+</ul>
+<p><strong><span><a class="wiki-link" href="../departments/floor-2-maws-keep.html">Floor 2</a> motto:</span></strong> <em>"We hold what would devour."</em></p>
+<h4>Floor 3: The Extraction Hall (추출의 전당 — Chuchul-ui Jeondang)</h4>
+<p><strong>Echo-Core:</strong><span> Extraction Lead (<a class="wiki-link" href="../characters/the-extraction-lead-zyrak.html">Zyrak</a>)</span></p>
+<p><strong>What it is:</strong> M.A.W. extraction — the process of pulling equipment from contained entities.</p>
+<p><strong>Who is here:</strong> Extraction Technicians, Resonance Specialists, M.A.W. Testers</p>
+<p><strong>What happens here:</strong></p>
+<ul>
+<li>M.A.W. extraction — pulling equipment from entities</li>
+<li>Resonance scanning — measuring entity-person compatibility</li>
+<li>M.A.W. testing — evaluating extracted equipment</li>
+<li>Equipment storage and distribution</li>
+</ul>
+<p><strong><span><a class="wiki-link" href="../departments/floor-3-extraction-hall.html">Floor 3</a> motto:</span></strong> <em>"From sorrow, strength."</em></p>
+<h3>The Fingers and Wing (Floors 4-8)</h3>
+<p><span>Floors 4–7 form four self-contained Fingers extending into the depths. <a class="wiki-link" href="../departments/floor-8-gate-watch.html">Floor 8</a> is the separate Wing attached to the right of the Palm; it is not a fifth Finger.</span></p>
+<h4>Floor 4: The Insight Forge (통찰의 용광로 — Tongchal-ui Yonggwangno)</h4>
+<p><strong>Echo-Core:</strong><span> Research Lead (<a class="wiki-link" href="../characters/the-research-lead-ayshuk.html">Ayshuk</a>)</span></p>
+<p><strong>What it is:</strong> Han research — understanding the city's sorrow mechanics.</p>
+<p><strong>Who is here:</strong> Han Researchers, Entity Analysts, Sorrow Cartographers</p>
+<p><strong>What happens here:</strong></p>
+<ul>
+<li>Han analysis — studying the nature of Han and its properties</li>
+<li>Entity classification — the SCS database</li>
+<li>Sorrow mapping — Han-flow visualization</li>
+<li>Testing chambers — controlled entity interaction</li>
+</ul>
+<p><strong><span><a class="wiki-link" href="../departments/floor-4-insight-forge.html">Floor 4</a> motto:</span></strong> <em>"Understanding is the first step to managing."</em></p>
+<h4>Floor 5: The Border Watch (경계의 감시 — Gyeonggye-ui Gamsi)</h4>
+<p><strong>Echo-Core:</strong><span> Border Lead (<a class="wiki-link" href="../characters/the-border-lead-mellda.html">Mellda</a>)</span></p>
+<p><strong>What it is:</strong> External operations — defending against Outside Sorrow.</p>
+<p><strong>Who is here:</strong> Border Guards, Desolate Scouts, Entity Hunters</p>
+<p><strong>What happens here:</strong></p>
+<ul>
+<li><span>Border defense — monitoring <a class="wiki-link" href="../locations/zone-e-perimeter-bulwark.html">Zone E</a>'s perimeter</span></li>
+<li>Desolate reconnaissance — venturing into the wilderness</li>
+<li>Entity tracking — pursuing entities that breach from outside</li>
+<li>The Threshold Outpost — forward operating base</li>
+</ul>
+<p><strong><span><a class="wiki-link" href="../departments/floor-5-border-watch.html">Floor 5</a> motto:</span></strong> <em>"What lies beyond, we hold at bay."</em></p>
+<h4>Floor 6: The Deep Vault (깊은 금고 — Gippeun Geumgo)</h4>
+<p><strong>Echo-Core:</strong><span> Archive Lead (<a class="wiki-link" href="../characters/the-archive-lead-marjuk.html">Marjuk</a>)</span></p>
+<p><strong>What it is:</strong> Deep archives — classified records, dangerous knowledge.</p>
+<p><strong>Who is here:</strong> Vault Keepers, Memory Archivists, Truth Seekers</p>
+<p><strong>What happens here:</strong></p>
+<ul>
+<li>Deep archive — classified records, the Cheongula's true history</li>
+<li>Memory vaults — stored Echoes from the city's earliest days</li>
+<li>The Sealed Room — records requiring Council approval</li>
+<li>The Final Door — ???</li>
+</ul>
+<p><strong><span><a class="wiki-link" href="../departments/floor-6-deep-vault.html">Floor 6</a> motto:</span></strong> <em>"Some truths must be buried. Others must be guarded."</em></p>
+<h4>Floor 7: The Shadow Corps (그림자 군단 — Geurimja Gundan)</h4>
+<p><strong>Echo-Core:</strong><span> The Outsider (<a class="wiki-link" href="../characters/the-outsider-ishall.html">Ishall</a>)</span></p>
+<p><strong>What it is:</strong> Field operations — reconnaissance, infiltration, intelligence.</p>
+<p><strong>Who is here:</strong> Field Agents, Intelligence Analysts, Infiltration Specialists</p>
+<p><strong>What happens here:</strong></p>
+<ul>
+<li>Field operations — undercover work across all zones</li>
+<li>Intelligence processing — analyzing field reports</li>
+<li>Safe house management — maintaining the Shadow Network</li>
+<li>Mobile command — portable communication hub</li>
+</ul>
+<p><strong><span><a class="wiki-link" href="../departments/floor-7-shadow-corps.html">Floor 7</a> motto:</span></strong> <em>"We see what others cannot. We go where others will not."</em></p>
+<h4>Floor 8: The Gate Watch (문의 감시 — Mun-ui Gamsi)</h4>
+<p><strong>Echo-Core:</strong><span> The Exile (<a class="wiki-link" href="../characters/the-exile-xyan.html">Xyan</a>)</span></p>
+<p><strong>What it is:</strong> Gate observation, external communication, route review, arrival assessment, and accountability for what the R.D. does after a warning reaches it.</p>
+<p><strong>Who is here:</strong> Gate Observers, Signal Interpreters, agents, clerks, technicians, maintenance staff, and one internal Field Commander.</p>
+<p><strong>Command chronology:</strong></p>
+<ul>
+<li><strong>Before Day 355:</strong><span> <a class="wiki-link" href="../characters/the-exile-xyan.html">Xyan</a>'s physical Cyborg body is outside. The Field Commander runs internal operations while Floor 8 receives and records his warnings.</span></li>
+<li><strong>After Day 355:</strong><span> <a class="wiki-link" href="../characters/the-director-majin.html">Majin</a> opens passage from inside. Xyan returns physically and can directly command the floor.</span></li>
+<li><strong>Year 4,238:</strong><span> Gate Watch works with <a class="wiki-link" href="../departments/floor-5-border-watch.html">Border Watch</a> and outside communities. It monitors danger without presuming every approach is an incursion.</span></li>
+</ul>
+<p><strong>What happens here:</strong></p>
+<ul>
+<li>Gate and boundary observation</li>
+<li>Long-range signal interpretation</li>
+<li>Outside-community and field-team communication</li>
+<li>Route stabilization planning and return accountability</li>
+<li>Arrival, refusal, and response documentation</li>
+<li><span>Coordination with <a class="wiki-link" href="../characters/the-border-lead-mellda.html">Mellda</a>'s Border Watch</span></li>
+</ul>
+<p><strong><span><a class="wiki-link" href="../departments/floor-8-gate-watch.html">Floor 8</a> motto:</span></strong> <em>"We watch. We answer. We keep the route back."</em></p>
+<h3>The Hand — Summary</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Floor</th><th>Location</th><th>Name</th><th>Echo-Core</th><th>Purpose</th></tr></thead>
+<tbody>
+<tr><td><strong>1</strong></td><td>Palm (top)</td><td>Neutral</td><td>Director + Secretary</td><td>Common area, administration</td></tr>
+<tr><td><strong>2</strong></td><td>Palm (middle)</td><td><span><a class="wiki-link" href="../departments/floor-2-maws-keep.html">Maw's Keep</a></span></td><td>Containment Lead</td><td>Entity containment</td></tr>
+<tr><td><strong>3</strong></td><td>Palm (bottom)</td><td><span>The <a class="wiki-link" href="../departments/floor-3-extraction-hall.html">Extraction Hall</a></span></td><td>Extraction Lead</td><td>M.A.W. extraction</td></tr>
+<tr><td><strong>4</strong></td><td>Finger 1 (left)</td><td><span>The <a class="wiki-link" href="../departments/floor-4-insight-forge.html">Insight Forge</a></span></td><td>Research Lead</td><td>Han research</td></tr>
+<tr><td><strong>5</strong></td><td>Finger 2</td><td><span>The <a class="wiki-link" href="../departments/floor-5-border-watch.html">Border Watch</a></span></td><td>Border Lead</td><td>External operations</td></tr>
+<tr><td><strong>6</strong></td><td>Finger 3</td><td><span>The <a class="wiki-link" href="../departments/floor-6-deep-vault.html">Deep Vault</a></span></td><td>Archive Lead</td><td>Deep archives</td></tr>
+<tr><td><strong>7</strong></td><td>Finger 4 (right)</td><td><span>The <a class="wiki-link" href="../departments/floor-7-shadow-corps.html">Shadow Corps</a></span></td><td>The Outsider</td><td>Field operations</td></tr>
+<tr><td><strong>8</strong></td><td>Wing (right of Palm)</td><td><span>The <a class="wiki-link" href="../departments/floor-8-gate-watch.html">Gate Watch</a></span></td><td>The Exile</td><td>Gate observation, external contact, and route accountability</td></tr>
+</tbody></table></div>
+<p><strong>Historical Director secret:</strong><span> During the Cycle, the <a href="../lore/the-cycle-and-absolvohan.html" class="wiki-link">Absolvohan</a> reserve was concealed beneath <a class="wiki-link" href="../departments/floor-1-neutral-command.html">Floor 1</a>. The final release transforms that program into the Hand of Hope; this is not a current hidden stockpile.</span></p>
+<p><strong>Mnemonic Generator note:</strong> The device was built into the Hand and created the historical Cycle as an unintended field effect. The reset has ended; whether the post-Cycle stabilization hardware can now be removed safely remains unspecified.</p></section>
+<!-- Page Footer -->
+<footer class="article-footer">
+<div class="footer-categories">
+<strong>Categories:</strong>
+<a href="../departments/index.html">Departments</a> |
+          <a href="../index.html">Somnarak Universe</a> |
+          <a href="../lore/index.html">Canon Lore</a>
+</div>
+<div class="footer-disclaimer">
+          Content is available under Somnarak Directorate Archival License unless otherwise noted.
+        </div>
+</footer>
+<!-- Bottom Cross-Reference Directory -->
+<section class="cross-reference-section">
+  <div class="cross-ref-header">CANONICAL CROSS-LINKS &amp; ATLAS CONNECTIONS</div>
+  <div class="cross-ref-grid">
+    <a href="../departments/floor-1-neutral-command.html" class="cross-ref-card">
+      <img src="../assets/layout/hand/icons/icon_dept_f1_neutral.svg" alt="Command">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">FACILITY COMMAND</span><span class="cross-ref-title">NEUTRAL COMMAND</span></div>
+    </a> <a href="../characters/the-director-majin.html" class="cross-ref-card">
+      <img src="../assets/icons/icon_core_majin.svg" alt="Majin">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">EXECUTIVE LEAD</span><span class="cross-ref-title">DIRECTOR MAJIN</span></div>
+    </a> <a href="../lore/the-cycle-and-absolvohan.html" class="cross-ref-card">
+      <img src="../assets/icons/ref_absolvohan.svg" alt="Absolvohan">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">PRIMARY CANON</span><span class="cross-ref-title">1,778 CYCLES</span></div>
+    </a> <a href="../atlas/hand-of-change-map.html" class="cross-ref-card">
+      <img src="../assets/layout/hand/icons/the_hand_dr_icon_styled.svg" alt="Facility Map">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">SCHEMATIC ATLAS</span><span class="cross-ref-title">HAND OF CHANGE MAP</span></div>
+    </a>
+  </div>
+</section>
+</main>
+</div>
+</body>
+</html>

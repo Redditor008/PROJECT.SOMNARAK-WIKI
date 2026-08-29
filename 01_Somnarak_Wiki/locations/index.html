@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Atlas & Cartography Hub - Somnarak Official Wiki</title>
+  <link rel="stylesheet" href="../assets/css/wiki.css">
+  <script defer src="../assets/js/wiki.js"></script>
+</head>
+<body class="wiki-body">
+<!-- Top Utility Navigation Bar -->
+<header class="utility">
+  <div class="utility-left">
+    <button aria-label="Open navigation" class="nav-open" type="button">☰</button>
+    <a class="utility-brand" href="../index.html">SOMNARAK.WIKI</a>
+    <span class="utility-era">YEAR 4,238 · DAWN INITIATIVE</span>
+  </div>
+  <nav aria-label="Main navigation">
+    <a href="../index.html">Main page</a>
+    <a href="../characters/index.html">Characters</a>
+    <a href="../lore/index.html">Lore</a>
+    <a href="../locations/index.html">Locations</a>
+    <a href="../factions/index.html">Factions</a>
+    <a href="../departments/index.html">Departments</a>
+    <a href="../entities/index.html">Sorrow Entities</a>
+    <a href="../maw/index.html">M.A.W.</a>
+    <a href="../mechanics/index.html">Mechanics</a>
+  </nav>
+  <div class="search">
+    <input aria-label="Search" data-index="../data/search.json" id="search" placeholder="Search archive..." autocomplete="off"/>
+    <div id="results"></div>
+  </div>
+</header>
+
+  <div class="wiki-shell">
+    <!-- Left Navigation Rail -->
+    <aside aria-label="Main navigation" class="left-rail">
+      <div class="branding">
+        <a class="brand-link" href="../index.html">
+          <img src="../assets/layout/hand/icons/icon_reverie_directorate_badge.svg" alt="Reverie Directorate Crest" class="brand-logo" width="110" height="110">
+          <span class="brand-title">SOMNARAK</span>
+          <span class="brand-subtitle">REVERIE DIRECTORATE ARCHIVE</span>
+        </a>
+      </div>
+      
+      <div class="rail-group">
+        <div class="rail-header">DATABASE HUBS</div>
+        <ul class="rail-list">
+          <li><a href="../index.html">Main Terminal</a></li>
+          <li><a href="../characters/index.html">Characters & Echo-Cores</a></li>
+          <li><a href="../lore/index.html">Lore & Cosmology</a></li>
+          <li><a href="../locations/index.html">Atlas & Locations</a></li>
+          <li><a href="../factions/index.html">Factions & Guilds</a></li>
+          <li><a href="../departments/index.html">Facility Departments</a></li>
+          <li><a href="../entities/index.html">Sorrow Entities</a></li>
+          <li><a href="../maw/index.html">M.A.W. Armaments</a></li>
+          <li><a href="../mechanics/index.html">Systems & Mechanics</a></li>
+        </ul>
+      </div>
+
+      <div class="rail-group">
+        <div class="rail-header">THE NINE ECHO-CORES</div>
+        <ul class="rail-list">
+          <li><a href="../characters/the-director-majin.html">Director Majin</a></li>
+          <li><a href="../characters/the-secretary-seiyon.html">Secretary Seiyon</a></li>
+          <li><a href="../characters/the-containment-lead-dekan.html">Containment: Dekan</a></li>
+          <li><a href="../characters/the-extraction-lead-zyrak.html">Extraction: Zyrak</a></li>
+          <li><a href="../characters/the-research-lead-ayshuk.html">Research: Ayshuk</a></li>
+          <li><a href="../characters/the-border-lead-mellda.html">Border: Mellda</a></li>
+          <li><a href="../characters/the-archive-lead-marjuk.html">Archive: Marjuk</a></li>
+          <li><a href="../characters/the-outsider-ishall.html">Outsider: Ishall</a></li>
+          <li><a href="../characters/the-exile-xyan.html">Exile: Xyan</a></li>
+        </ul>
+      </div>
+
+      <div class="rail-group">
+        <div class="rail-header">CARTOGRAPHY & SCHEMATICS</div>
+        <ul class="rail-list">
+          <li><a href="../atlas/hand-of-change-map.html">Facility Cutaway Map</a></li>
+          <li><a href="../atlas/somnarak-city-map.html">City Master Blueprint</a></li>
+        </ul>
+      </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main id="content" class="wiki-content">
+      <!-- Tactical Top Status HUD -->
+      <div class="tactical-hud-bar">
+        <div class="hud-item"><span class="led-dot led-green"></span> ARCHIVE ONLINE</div>
+        <div class="hud-item"><span class="hud-label">CLEARANCE:</span> LEVEL 5 RESTRICTED</div>
+        <div class="hud-item"><span class="hud-label">DIRECTORY:</span> LOCATIONS</div>
+        <div class="hud-item"><span class="hud-label">STABILITY:</span> 99.4% NOMINAL</div>
+      </div>
+
+      <!-- Breadcrumbs -->
+      <nav class="breadcrumb-trail" aria-label="Breadcrumb">
+        <a href="../index.html">SOMNARAK ARCHIVE</a> &gt; 
+        <span>ATLAS & LOCATIONS</span>
+      </nav>
+
+      <!-- Panoramic Hero Banner -->
+      <div class="category-panoramic-banner">
+        <img src="../assets/banners/banner_hero_somnarak_city.svg" alt="SOMNARAK URBAN & WASTELAND ATLAS" class="panoramic-banner-img">
+      </div>
+
+      <!-- Fast Jump Bar -->
+      <div class="fast-jump-nav">
+        <span class="fast-jump-title">/// DIRECT ACCESS:</span>
+        <div class="fast-jump-pills">
+          <a href="../entities/index.html" class="jump-pill">Entities Codex</a>
+          <a href="../maw/index.html" class="jump-pill">M.A.W. Arsenal</a>
+          <a href="../characters/index.html" class="jump-pill">Echo-Cores &amp; Cast</a>
+          <a href="../departments/index.html" class="jump-pill">Facility Floors</a>
+          <a href="../lore/index.html" class="jump-pill">Lore Chronicles</a>
+          <a href="../locations/index.html" class="jump-pill">Metropolitan Atlas</a>
+          <a href="../factions/index.html" class="jump-pill">Factions &amp; Guilds</a>
+          <a href="../mechanics/index.html" class="jump-pill">Combat Systems</a>
+        </div>
+      </div>
+
+      
+<div class="wiki-section">
+  <div class="section-banner">
+    <h2>/// METROPOLITAN ZONES, CARTOGRAPHY & WASTELANDS</h2>
+    <span class="section-tag">ALL 12 CANONICAL URBAN & WASTELAND SECTORS</span>
+  </div>
+  <p class="section-desc">
+    The urban geography of Somnarak is centered around the Directorate Spire in Zone A, extending through industrial sectors to the outer Perimeter Bulwark and the lethal radioactive Desolate.
+  </p>
+
+  <div class="hub-grid-3">
+    <div class="pm-entity-card" style="--card-border:#ef5b55;"><div class="entity-card-top"><img src="../assets/layout/city/icons/icon_zone_a_core.svg" alt="Zone A" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-APOCRYPHA">SECTOR A</span></div></div><h3 class="entity-card-name">ZONE A: CORE NEXUS</h3><p class="entity-card-desc">The central governmental spire housing the Alpha Tree root complex and Directorate Command.</p><a href="zone-a-core-nexus.html" class="jump-btn">ENTER CORE NEXUS →</a></div>
+    <div class="pm-entity-card" style="--card-border:#38bdf8;"><div class="entity-card-top"><img src="../assets/layout/city/icons/icon_zone_b_west.svg" alt="Zone B" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-can">SECTOR B</span></div></div><h3 class="entity-card-name">ZONE B: WEST WARD</h3><p class="entity-card-desc">Densely populated residential mega-blocks sheltered beneath atmospheric filtration domes.</p><a href="zone-b-west-ward.html" class="jump-btn">ENTER WEST WARD →</a></div>
+    <div class="pm-entity-card" style="--card-border:#10b981;"><div class="entity-card-top"><img src="../assets/layout/city/icons/icon_zone_c_east.svg" alt="Zone C" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-he">SECTOR C</span></div></div><h3 class="entity-card-name">ZONE C: COLLECTOR'S ROW</h3><p class="entity-card-desc">Sprawling industrial scrap-yards, relic bazaars, and illicit modification workshops.</p><a href="zone-c-collectors-row.html" class="jump-btn">ENTER COLLECTOR'S ROW →</a></div>
+    <div class="pm-entity-card" style="--card-border:#47c978;"><div class="entity-card-top"><img src="../assets/layout/city/icons/icon_zone_d_flanks.svg" alt="Zone D" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-PHANTASM">SECTOR D</span></div></div><h3 class="entity-card-name">ZONE D: FORGE & GARDENS</h3><p class="entity-card-desc">High-tech R&D foundries and bio-synthetic botanical gardens cultivating Han flora.</p><a href="zone-d-forge-and-gardens.html" class="jump-btn">ENTER FORGE & GARDENS →</a></div>
+    <div class="pm-entity-card" style="--card-border:#f59e0b;"><div class="entity-card-top"><img src="../assets/layout/city/icons/icon_zone_e_bulwark.svg" alt="Zone E" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-PHANTASM">SECTOR E</span></div></div><h3 class="entity-card-name">ZONE E: PERIMETER BULWARK</h3><p class="entity-card-desc">Massive 400-meter outer perimeter battlements guarding against the outer wasteland.</p><a href="zone-e-perimeter-bulwark.html" class="jump-btn">ENTER PERIMETER BULWARK →</a></div>
+    <div class="pm-entity-card" style="--card-border:#ef4444;"><div class="entity-card-top"><img src="../assets/icons/icon_loc_the_desolate.svg" alt="The Desolate" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-APOCRYPHA">OUTSKIRTS</span></div></div><h3 class="entity-card-name">THE DESOLATE (황무지)</h3><p class="entity-card-desc">Radioactive crystalline wasteland populated by rogue Distortions and wandering scavengers.</p><a href="the-desolate.html" class="jump-btn">VIEW WASTELAND ATLAS →</a></div>
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/icons/icon_loc_the_hollow_glass.svg" alt="Hollow Glass" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-PHANTASM">ANOMALY ZONE</span></div></div><h3 class="entity-card-name">THE HOLLOW GLASS</h3><p class="entity-card-desc">Vitrified desert plain where sound and memories freeze into solid crystalline pillars.</p><a href="the-hollow-glass.html" class="jump-btn">VIEW HOLLOW GLASS →</a></div>
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/icons/icon_loc_the_library_of_stolen_pasts.svg" alt="Library" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-APOCRYPHA">ARCHIVE VAULT</span></div></div><h3 class="entity-card-name">LIBRARY OF STOLEN PASTS</h3><p class="entity-card-desc">Subterranean memory vault storing erased historical scrolls and forbidden records.</p><a href="the-library-of-stolen-pasts.html" class="jump-btn">ENTER THE LIBRARY →</a></div>
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/icons/icon_loc_the_maw.svg" alt="The Maw" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-APOCRYPHA">EXTRACTION PIT</span></div></div><h3 class="entity-card-name">THE MAW</h3><p class="entity-card-desc">The abyssal containment pit where raw Sorrow Entities are harvested for energy extraction.</p><a href="the-maw.html" class="jump-btn">ENTER THE MAW →</a></div>
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/icons/icon_loc_the_orphan_bell_tower.svg" alt="Bell Tower" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-he">MONUMENT</span></div></div><h3 class="entity-card-name">ORPHAN BELL TOWER</h3><p class="entity-card-desc">Historic clockwork monument housing the resonant bell that signals morning curfew lift.</p><a href="the-orphan-bell-tower.html" class="jump-btn">VIEW BELL TOWER →</a></div>
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/icons/icon_loc_unknown_cities.svg" alt="Unknown Cities" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-PHANTASM">PRECURSOR RUINS</span></div></div><h3 class="entity-card-name">UNKNOWN CITIES & RUINS</h3><p class="entity-card-desc">Submerged precursor metropolises lost beneath the radioactive dust of the deep wasteland.</p><a href="unknown-cities.html" class="jump-btn">EXPLORE RUIN ATLAS →</a></div>
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/layout/city/icons/icon_somnarak_city_badge.svg" alt="District Structure" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-can">ZONING CODE</span></div></div><h3 class="entity-card-name">DISTRICT STRUCTURE & VEIL</h3><p class="entity-card-desc">Urban architectural blueprints detailing the 8 districts, Veil boundaries, and rail routes.</p><a href="district-structure-veil-and-raw.html" class="jump-btn">VIEW URBAN SCHEMATIC →</a></div>
+  </div>
+</div>
+
+
+      
+<!-- Master Encyclopedic Sections for Locations Hub -->
+<section class="pm-section-block">
+  <div class="section-title-bar">
+    <h2>/// CARTOGRAPHIC OVERVIEW: THE METROPOLITAN CONCENTRIC RINGS</h2>
+    <span class="title-sub">URBAN ZONING & SUBTERRANEAN DEPTH METRICS</span>
+  </div>
+  <p class="section-lead-text">
+    The city of <strong>Somnarak</strong> is structured as five concentric urban zones encircling the colossal <a href="../lore/the-alpha-tree.html" class="wiki-link">Alpha Tree</a>. Beneath this surface sprawl lies the subterranean chasm known as <a href="the-maw.html" class="wiki-link">The Maw</a>, through which the toxic, bioluminescent waters of the Weeping river carve into the dark bedrock. Beyond the outermost defensive bulwark lies <a href="the-desolate.html" class="wiki-link">The Desolate</a>—thousands of square kilometers of scorched wasteland littered with petrified ruins of pre-Cycle civilizations.
+  </p>
+</section>
+
+<section class="pm-section-block">
+  <div class="section-title-bar">
+    <h2>/// MASTER METROPOLITAN DISTRICT & GEOGRAPHIC MATRIX</h2>
+    <span class="title-sub">POPULATION, HAZARDS, AND MILITARY GARRISONS</span>
+  </div>
+  <div class="pm-table-wrapper">
+    <table class="pm-table">
+      <thead>
+        <tr>
+          <th>District / Landmark</th>
+          <th>Zone / Location</th>
+          <th>Han Density</th>
+          <th>Civilian Population</th>
+          <th>Primary Environmental Hazard</th>
+          <th>Defensive Garrison</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong style="color:#f1df76;"><img src="../assets/layout/city/icons/icon_zone_a_core.svg" alt="" style="width: 50px; height: 50px; vertical-align: middle; margin-right: 12px; display: inline-block; border-radius: 8px; border: 2px solid #38bdf8; background: #060b14; padding: 4px; box-shadow: 0 4px 14px rgba(0,0,0,0.8), 0 0 10px rgba(56,189,248,0.3);">Zone A: Core Spire</strong></td>
+          <td>Metropolitan Center</td>
+          <td>Extremely High (Pure Flux)</td>
+          <td>~45,000 (Directorate Staff)</td>
+          <td>Resonant cognitive saturation, spatial warp anomalies</td>
+          <td>Directorate Elite Honor Guard & Automated Spires</td>
+        </tr>
+        <tr>
+          <td><strong style="color:#f97316;"><img src="../assets/layout/city/icons/icon_zone_b_west.svg" alt="" style="width: 50px; height: 50px; vertical-align: middle; margin-right: 12px; display: inline-block; border-radius: 8px; border: 2px solid #38bdf8; background: #060b14; padding: 4px; box-shadow: 0 4px 14px rgba(0,0,0,0.8), 0 0 10px rgba(56,189,248,0.3);">Zone B: West Ward</strong></td>
+          <td>Western Quadrant</td>
+          <td>High (Combustion Vapor)</td>
+          <td>~280,000 (Refinery Workers)</td>
+          <td>Thermal exhaust bursts, toxic particulate clouds</td>
+          <td>SED Industrial Suppression Corps</td>
+        </tr>
+        <tr>
+          <td><strong style="color:#38bdf8;"><img src="../assets/layout/city/icons/icon_zone_c_east.svg" alt="" style="width: 50px; height: 50px; vertical-align: middle; margin-right: 12px; display: inline-block; border-radius: 8px; border: 2px solid #38bdf8; background: #060b14; padding: 4px; box-shadow: 0 4px 14px rgba(0,0,0,0.8), 0 0 10px rgba(56,189,248,0.3);">Zone C: East Arcology</strong></td>
+          <td>Eastern Quadrant</td>
+          <td>Moderate (Refracted Wave)</td>
+          <td>~420,000 (Commercial/Guilds)</td>
+          <td>Corporate espionage, memory theft, data corruption</td>
+          <td>High Council Private Enforcers & Giltong Units</td>
+        </tr>
+        <tr>
+          <td><strong style="color:#10b981;"><img src="../assets/layout/city/icons/icon_zone_d_flanks.svg" alt="" style="width: 50px; height: 50px; vertical-align: middle; margin-right: 12px; display: inline-block; border-radius: 8px; border: 2px solid #38bdf8; background: #060b14; padding: 4px; box-shadow: 0 4px 14px rgba(0,0,0,0.8), 0 0 10px rgba(56,189,248,0.3);">Zone D: The Flanks</strong></td>
+          <td>Southern & Northern Flanks</td>
+          <td>Low to Moderate</td>
+          <td>~650,000 (Tenements/Citizens)</td>
+          <td>Effluent seepage, black-market violence, structural decay</td>
+          <td>Urban Containment Division (UCD) Regulars</td>
+        </tr>
+        <tr>
+          <td><strong style="color:#ef4444;"><img src="../assets/layout/city/icons/icon_zone_e_bulwark.svg" alt="" style="width: 50px; height: 50px; vertical-align: middle; margin-right: 12px; display: inline-block; border-radius: 8px; border: 2px solid #38bdf8; background: #060b14; padding: 4px; box-shadow: 0 4px 14px rgba(0,0,0,0.8), 0 0 10px rgba(56,189,248,0.3);">Zone E: Outer Bulwark</strong></td>
+          <td>Perimeter Ring Wall</td>
+          <td>Variable (Wasteland Spill)</td>
+          <td>~90,000 (Border Wardens)</td>
+          <td>Night Aberration assaults, howling radiation dust</td>
+          <td>Bulwark Heavy Bastion Artillery & Border Wardens</td>
+        </tr>
+        <tr>
+          <td><strong style="color:#38bdf8;"><img src="../assets/icons/icon_loc_the_maw.svg" alt="" style="width: 50px; height: 50px; vertical-align: middle; margin-right: 12px; display: inline-block; border-radius: 8px; border: 2px solid #38bdf8; background: #060b14; padding: 4px; box-shadow: 0 4px 14px rgba(0,0,0,0.8), 0 0 10px rgba(56,189,248,0.3);">The Maw</strong></td>
+          <td>Subterranean Chasm</td>
+          <td>Critical (Unrefined Abyss)</td>
+          <td>~15,000 (Salvagers/Miners)</td>
+          <td>Abyssal vortex suction, Coherence loss, drowning</td>
+          <td>Floor 2 Keep Sentinels & Hydraulic Gates</td>
+        </tr>
+        <tr>
+          <td><strong style="color:#ef4444;"><img src="../assets/icons/icon_loc_the_desolate.svg" alt="" style="width: 50px; height: 50px; vertical-align: middle; margin-right: 12px; display: inline-block; border-radius: 8px; border: 2px solid #38bdf8; background: #060b14; padding: 4px; box-shadow: 0 4px 14px rgba(0,0,0,0.8), 0 0 10px rgba(56,189,248,0.3);">The Desolate</strong></td>
+          <td>Outer Wastelands</td>
+          <td>Corrosive Void Flux</td>
+          <td>Nomadic (Caravans Only)</td>
+          <td>Perpetual dust storms, petrified entity corpses</td>
+          <td>Horizon Armored Crawler convoys</td>
+        </tr>
+        <tr>
+          <td><strong style="color:#38bdf8;"><img src="../assets/icons/icon_loc_the_hollow_glass.svg" alt="" style="width: 50px; height: 50px; vertical-align: middle; margin-right: 12px; display: inline-block; border-radius: 8px; border: 2px solid #38bdf8; background: #060b14; padding: 4px; box-shadow: 0 4px 14px rgba(0,0,0,0.8), 0 0 10px rgba(56,189,248,0.3);">The Hollow Glass</strong></td>
+          <td>Northern Desert Anomaly</td>
+          <td>Prismatic Refraction</td>
+          <td>Uninhabited</td>
+          <td>Psychic hallucinations, chronological echo loops</td>
+          <td>Restricted Exclusion Zone (Automated Beacons)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+<!-- Master Footer Navigation -->
+      <footer class="wiki-footer">
+        <div class="footer-grid">
+          <div>
+            <b>SOMNARAK ARCHIVAL DIRECTORY</b>
+            <p>Reverie Directorate Subterranean Complex // Facility 01 Hand of Change</p>
+          </div>
+          <div style="text-align: right;">
+            <b>AUTHORIZATION:</b> OVERSIGHT CLEARANCE TIER-5<br>
+            <span>CONFIDENTIAL ARCHIVAL SYSTEM</span>
+          </div>
+        </div>
+      </footer>
+    </main>
+  </div>
+</body>
+</html>

@@ -1,0 +1,56 @@
+# M.A.W. GIFT — The Rebirth Ember
+
+> *“The Rebirth Ember remembers Ember Phoenix; the bearer must not mistake memory for permission.”*
+
+---
+
+**Document ID:** `SE-1019-D`  
+**Linked Entity:** `SE-1019` — Ember Phoenix  
+**Source SECC Designation:** `O-IVδ-190 [GS]`  
+**Item Registry Code:** `MAW-G-1019-01`  
+**Author:** Dreamer Sora  
+**Date:** Year 4,238 — Dawn Initiative  
+**Classification:** Classified  
+**Codex Set Completion:** `4/4`
+
+## IDENTITY & BINDING
+
+**Grade / Element:** δ / Grudge  
+**Canonical ability:** Revives the wearer once after fatal injury.  
+**Binding rule:** the bearer names Ember Phoenix's event—A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire.—and accepts this limit: Allow the cycle to finish; forced extinguishing causes violent rebirth
+
+## CORE STATISTICS
+
+**Slot / Chance:** Tail / 4%  
+**Bonus:** +3 stat bonus when working the source entity
+
+**Operational / binding cost:** The wearer returns carrying the emotional memory of dying. Continued use makes Ember Phoenix's source sorrow feel autobiographical.
+
+## ITEM-SPECIFIC HISTORY — *The Ember Phoenix Source-Trace: Gift Record*
+
+The first The Rebirth Ember field bearer encountered this source response: Shows memories from previous cycles. The gift stays the immediate hazard only after the team attributed it to Ember Phoenix. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+
+## FAILURE, CORROSION & CARE
+
+- First sign: the bearer describes Ember Phoenix's event in first person.
+- Escalation: the item repeats the source response outside contact.
+- Terminal state: Ember Phoenix's manifestation uses the bearer as its new site.
+
+**Failure mode:** violating “Allow the cycle to finish; forced extinguishing causes violent rebirth” reverses the item’s benefit and raises the source Gauge.  
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Rebirth Ember only after attribution review.  
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Rebirth Ember; shutdown preserves the record but does not refund its cost.
+
+## SET RELATIONSHIP
+
+Within *Ember Phoenix — Witnessed Form*, The Rebirth Ember performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+
+---
+
+**Document ID:** `SE-1019-D`  
+**Linked Entity:** `SE-1019`  
+**Item Registry Code:** `MAW-G-1019-01`  
+**Author:** Dreamer Sora  
+**Date:** Year 4,238 — Dawn Initiative  
+**Classification:** Classified
+
+---

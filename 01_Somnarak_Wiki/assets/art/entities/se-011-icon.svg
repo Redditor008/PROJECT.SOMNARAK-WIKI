@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="se11-lead-sm" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#475569"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+  <polygon points="20,10 40,10 40,18 60,18 60,10 80,10 80,18 100,18 100,10 108,18 108,86 60,114 12,86 12,18" fill="#0b0f19" stroke="#ef4444" stroke-width="2.5"/>
+  <rect x="22" y="26" width="76" height="68" fill="url(#se11-lead-sm)" stroke="#38bdf8" stroke-width="1.5"/>
+  <line x1="22" y1="48" x2="98" y2="48" stroke="#334155" stroke-width="1.5"/>
+  <line x1="22" y1="70" x2="98" y2="70" stroke="#334155" stroke-width="1.5"/>
+  <line x1="47" y1="26" x2="47" y2="94" stroke="#334155" stroke-width="1.5"/>
+  <line x1="73" y1="26" x2="73" y2="94" stroke="#334155" stroke-width="1.5"/>
+  <ellipse cx="60" cy="37" rx="6" ry="7" fill="#0f172a" stroke="#cbd5e1" stroke-width="1"/>
+  <ellipse cx="60" cy="40" rx="2" ry="3" fill="#ef4444"/>
+  <ellipse cx="35" cy="59" rx="6" ry="7" fill="#0f172a" stroke="#cbd5e1" stroke-width="1"/>
+  <ellipse cx="35" cy="62" rx="2" ry="3" fill="#ef4444"/>
+  <ellipse cx="85" cy="59" rx="6" ry="7" fill="#0f172a" stroke="#cbd5e1" stroke-width="1"/>
+  <ellipse cx="85" cy="62" rx="2" ry="3" fill="#ef4444"/>
+</svg>

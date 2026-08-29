@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <radialGradient id="incGlow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#070a12" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect x="4" y="4" width="112" height="112" rx="16" fill="#070a12" stroke="#ef4444" stroke-width="2.5"/>
+  <rect x="8" y="8" width="104" height="104" rx="12" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="60" cy="50" r="38" fill="url(#incGlow)"/>
+
+  <!-- Classified Incident Dossier Folder -->
+  <polygon points="26,30 52,30 58,38 94,38 94,86 26,86" fill="#1c1917" stroke="#ef4444" stroke-width="2"/>
+  
+  <!-- Document Lines inside Dossier -->
+  <line x1="36" y1="48" x2="84" y2="48" stroke="#fca5a5" stroke-width="1.5"/>
+  <line x1="36" y1="56" x2="84" y2="56" stroke="#fca5a5" stroke-width="1.5"/>
+  <line x1="36" y1="64" x2="68" y2="64" stroke="#fca5a5" stroke-width="1.5"/>
+
+  <!-- Glowing Red Breach Alert Stamp -->
+  <rect x="44" y="60" width="46" height="18" rx="2" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.8"/>
+  <text x="67" y="73" fill="#ffffff" font-family="Impact, Arial" font-size="9" text-anchor="middle">BREACH</text>
+
+  <!-- Hazard Alert Warning Triangle -->
+  <polygon points="60,16 66,26 54,26" fill="#f1df76"/>
+  <circle cx="60" cy="24" r="1" fill="#070a12"/>
+
+  <!-- Label Banner -->
+  <rect x="14" y="98" width="92" height="14" rx="3" fill="#200a0a" stroke="#ef4444" stroke-width="1"/>
+  <text x="60" y="108.5" fill="#ef4444" font-family="monospace" font-size="7.5" font-weight="bold" text-anchor="middle">INCIDENT LOGS</text>
+</svg>

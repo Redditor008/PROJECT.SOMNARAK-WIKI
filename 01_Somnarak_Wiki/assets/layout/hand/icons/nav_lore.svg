@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <polygon points="60,4 114,24 114,86 60,116 6,86 6,24" fill="#1c1402" stroke="#f1df76" stroke-width="3.5"/>
+  <path d="M 28,34 Q 60,44 60,82 Q 60,44 92,34 L 92,74 Q 60,84 60,84 Q 60,84 28,74 Z" fill="#451a03" stroke="#f1df76" stroke-width="2.2"/>
+  <line x1="60" y1="44" x2="60" y2="84" stroke="#ffffff" stroke-width="2"/>
+  <text x="60" y="104" fill="#f1df76" font-family="'JetBrains Mono', monospace" font-size="8.5" font-weight="bold" text-anchor="middle">CHRONICLES</text>
+</svg>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%">
+  <defs>
+    <linearGradient id="workBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e1726"/>
+      <stop offset="100%" stop-color="#050912"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="6" y="6" width="788" height="438" rx="14" fill="url(#workBg)" stroke="#38bdf8" stroke-width="2.5"/>
+  <rect x="14" y="14" width="772" height="422" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="6 3" opacity="0.4"/>
+
+  <text x="400" y="45" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="18" font-weight="bold" text-anchor="middle">THE FOUR WORK TYPES OPERATIONAL MATRIX</text>
+  <text x="400" y="68" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="11" text-anchor="middle">FACILITY-01 WORK SPECIALIZATION, AGENT ATTRIBUTE LINKAGE, AND RESISTANCE DYNAMICS</text>
+
+  <!-- 4 Work Columns -->
+  <!-- Instinct -->
+  <g transform="translate(40, 95)">
+    <rect x="0" y="0" width="170" height="230" rx="8" fill="#0f172a" stroke="#ef5b55" stroke-width="2"/>
+    <text x="85" y="30" fill="#ef5b55" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="bold" text-anchor="middle">INSTINCT (본능)</text>
+    <text x="85" y="48" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="9" text-anchor="middle">Primary: Fortitude (HP)</text>
+    <line x1="15" y1="60" x2="155" y2="60" stroke="#334155" stroke-width="1"/>
+    <text x="15" y="85" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Target Need: Physical</text>
+    <text x="15" y="110" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Damage: Crimson (RED)</text>
+    <text x="15" y="135" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Risk: Severe Trauma</text>
+    <text x="15" y="160" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Affinity: Beast/Colossus</text>
+    <rect x="15" y="180" width="140" height="35" rx="4" fill="#1e293b"/>
+    <text x="85" y="202" fill="#ef5b55" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="bold" text-anchor="middle">SE-002 / SE-014 HIGH</text>
+  </g>
+
+  <!-- Insight -->
+  <g transform="translate(225, 95)">
+    <rect x="0" y="0" width="170" height="230" rx="8" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+    <text x="85" y="30" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="bold" text-anchor="middle">INSIGHT (통찰)</text>
+    <text x="85" y="48" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="9" text-anchor="middle">Primary: Prudence (SP)</text>
+    <line x1="15" y1="60" x2="155" y2="60" stroke="#334155" stroke-width="1"/>
+    <text x="15" y="85" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Target Need: Chamber</text>
+    <text x="15" y="110" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Damage: Cyan (WHITE)</text>
+    <text x="15" y="135" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Risk: Panic / Hallucination</text>
+    <text x="15" y="160" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Affinity: Environmental</text>
+    <rect x="15" y="180" width="140" height="35" rx="4" fill="#1e293b"/>
+    <text x="85" y="202" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="bold" text-anchor="middle">SE-007 / SE-011 HIGH</text>
+  </g>
+
+  <!-- Attachment -->
+  <g transform="translate(410, 95)">
+    <rect x="0" y="0" width="170" height="230" rx="8" fill="#0f172a" stroke="#71efaf" stroke-width="2"/>
+    <text x="85" y="30" fill="#71efaf" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="bold" text-anchor="middle">ATTACHMENT (애착)</text>
+    <text x="85" y="48" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="9" text-anchor="middle">Primary: Temperance (SPD)</text>
+    <line x1="15" y1="60" x2="155" y2="60" stroke="#334155" stroke-width="1"/>
+    <text x="15" y="85" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Target Need: Social/Bond</text>
+    <text x="15" y="110" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Damage: Emerald (BLACK)</text>
+    <text x="15" y="135" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Risk: Parasitic Bonding</text>
+    <text x="15" y="160" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Affinity: Sentient Relics</text>
+    <rect x="15" y="180" width="140" height="35" rx="4" fill="#1e293b"/>
+    <text x="85" y="202" fill="#71efaf" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="bold" text-anchor="middle">SE-001 / SE-005 HIGH</text>
+  </g>
+
+  <!-- Repression -->
+  <g transform="translate(595, 95)">
+    <rect x="0" y="0" width="165" height="230" rx="8" fill="#0f172a" stroke="#c084fc" stroke-width="2"/>
+    <text x="82" y="30" fill="#c084fc" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="bold" text-anchor="middle">REPRESSION (억압)</text>
+    <text x="82" y="48" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="9" text-anchor="middle">Primary: Justice (ATK)</text>
+    <line x1="15" y1="60" x2="150" y2="60" stroke="#334155" stroke-width="1"/>
+    <text x="15" y="85" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Target Need: Restraint</text>
+    <text x="15" y="110" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Damage: Pale / Cosmic</text>
+    <text x="15" y="135" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Risk: Immediate Breach</text>
+    <text x="15" y="160" fill="#e2e8f0" font-family="'JetBrains Mono', monospace" font-size="10">Affinity: Cosmic Singularities</text>
+    <rect x="15" y="180" width="135" height="35" rx="4" fill="#1e293b"/>
+    <text x="82" y="202" fill="#c084fc" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="bold" text-anchor="middle">SE-010 / SE-015 HIGH</text>
+  </g>
+
+  <!-- Tactical Bottom Banner -->
+  <rect x="40" y="345" width="720" height="70" rx="6" fill="#090d16" stroke="#253952" stroke-width="1.5"/>
+  <text x="60" y="370" fill="#f1df76" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="bold">DIRECTOR'S WORK DISPATCH RULE:</text>
+  <text x="60" y="390" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="10">Never assign an Agent with Fortitude &lt; Level III to SE-002 Repression. Mismatched work yields negative resonance box accumulation.</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1432" role="img" aria-labelledby="svg-title svg-desc">
+  <title id="svg-title">Simplified replica of the CITY layout diagram</title>
+  <desc id="svg-desc">An outer hexagon encloses a smaller inner hexagon. An irregular polygon surrounds a central diamond. Labels A, B, C, D, and E are placed at the center, left, right, upper-left and lower-left, and top and bottom respectively.</desc>
+
+  <rect width="1400" height="1432" fill="#121826"/>
+
+  <polygon points="355,10 1045,10 1390,700 1045,1422 355,1422 10,700"
+           fill="none" stroke="#4a90d9" stroke-width="6"/>
+
+  <polygon points="400,98 999,98 1298,700 999,1301 400,1301 99,700"
+           fill="none" stroke="#4a90d9" stroke-width="6"/>
+
+  <polygon points="268,372 820,198 1200,700 820,1204 262,1042 700,1026 398,698 700,400"
+           fill="none" stroke="#4a90d9" stroke-width="6"/>
+
+  <polygon points="700,400 1004,698 700,1024 396,698"
+           fill="none" stroke="#4a90d9" stroke-width="6"/>
+
+  <text x="700" y="78" text-anchor="middle" font-size="72" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#9b6dc7">E</text>
+  <text x="700" y="1408" text-anchor="middle" font-size="72" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#9b6dc7">E</text>
+
+  <text x="498" y="211" text-anchor="middle" font-size="72" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#e8c25a">D</text>
+  <text x="500" y="1228" text-anchor="middle" font-size="72" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#e8c25a">D</text>
+
+  <text x="250" y="726" text-anchor="middle" font-size="72" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#ef5350">B</text>
+  <text x="1080" y="726" text-anchor="middle" font-size="72" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#e8a317">C</text>
+
+  <text x="700" y="727" text-anchor="middle" font-size="72" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#5fa3e8">A</text>
+</svg>

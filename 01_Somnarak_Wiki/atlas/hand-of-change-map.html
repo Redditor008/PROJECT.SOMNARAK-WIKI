@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Hand of Change: Facility 01 Blueprint - Somnarak Official Wiki</title>
+  <link rel="stylesheet" href="../assets/css/wiki.css">
+</head>
+<body class="wiki-body map-viewer-page">
+<!-- Top Utility Navigation Bar -->
+<header class="utility">
+  <div class="utility-left">
+    <button aria-label="Open navigation" class="nav-open" type="button">☰</button>
+    <a class="utility-brand" href="../index.html">SOMNARAK.WIKI</a>
+    <span class="utility-era">YEAR 4,238 · DAWN INITIATIVE</span>
+  </div>
+  <nav aria-label="Main navigation">
+    <a href="../index.html">Main page</a>
+    <a href="../characters/index.html">Characters</a>
+    <a href="../lore/index.html">Lore</a>
+    <a href="../locations/index.html">Locations</a>
+    <a href="../factions/index.html">Factions</a>
+    <a href="../departments/index.html">Departments</a>
+    <a href="../entities/index.html">Sorrow Entities</a>
+    <a href="../maw/index.html">M.A.W.</a>
+    <a href="../mechanics/index.html">Mechanics</a>
+  </nav>
+  <div class="search">
+    <input aria-label="Search" data-index="../data/search.json" id="search" placeholder="Search archive..." autocomplete="off"/>
+    <div id="results"></div>
+  </div>
+</header>
+
+  <div class="wiki-shell map-shell">
+    <!-- Left Navigation Rail -->
+    <aside aria-label="Main navigation" class="left-rail">
+      <div class="branding">
+        <a class="brand-link" href="../index.html">
+          <img src="../assets/layout/hand/icons/icon_reverie_directorate_badge.svg" alt="Reverie Directorate Crest" class="brand-logo" width="110" height="110">
+          <span class="brand-title">SOMNARAK</span>
+          <span class="brand-subtitle">REVERIE DIRECTORATE ARCHIVE</span>
+        </a>
+      </div>
+      <div class="rail-group">
+        <div class="rail-header">DATABASE HUBS</div>
+        <ul class="rail-list">
+          <li><a href="../index.html">Main Terminal</a></li>
+          <li><a href="../departments/index.html">Facility Departments</a></li>
+          <li><a href="../locations/index.html">Atlas &amp; Locations</a></li>
+          <li><a href="../entities/index.html">Sorrow Entities</a></li>
+          <li><a href="../maw/index.html">M.A.W. Armaments</a></li>
+          <li><a href="../lore/index.html">Lore &amp; Cosmology</a></li>
+        </ul>
+      </div>
+      <div class="rail-group">
+        <div class="rail-header">CARTOGRAPHY &amp; BLUEPRINTS</div>
+        <ul class="rail-list">
+          <li><a href="hand-of-change-map.html" style="color:#f1df76; font-weight:bold;">Facility Cutaway Map</a></li>
+          <li><a href="somnarak-city-map.html">City Master Blueprint</a></li>
+        </ul>
+      </div>
+    </aside>
+
+    <!-- Map Main Content -->
+    <main id="content" class="wiki-content">
+      <!-- Tactical Top Status HUD -->
+      <div class="tactical-hud-bar">
+        <div class="hud-item"><span class="led-dot led-green"></span> SCHEMATIC VIEWER ONLINE</div>
+        <div class="hud-item"><span class="hud-label">FACILITY:</span> 01 THE HAND OF CHANGE</div>
+        <div class="hud-item"><span class="hud-label">SECURITY:</span> LEVEL-5 OVERSIGHT</div>
+        <div class="hud-item"><span class="hud-label">CONTAINMENT:</span> 8 SECTORS ACTIVE</div>
+      </div>
+
+      <!-- Breadcrumbs -->
+      <nav class="breadcrumb-trail" aria-label="Breadcrumb">
+        <a href="../index.html">SOMNARAK ARCHIVE</a> &gt; 
+        <a href="../departments/index.html">DEPARTMENTS</a> &gt; 
+        <span>FACILITY 01 BLUEPRINT</span>
+      </nav>
+
+      <!-- Panoramic Banner -->
+      <div class="category-panoramic-banner">
+        <img src="../assets/banners/banner_hero_hand_of_change.svg" alt="Hand of Change" class="panoramic-banner-img">
+      </div>
+
+      <!-- Interactive Cutaway Sector Switcher -->
+      <div class="map-sector-tabs">
+        <button class="sector-tab-btn active" data-target="master">MASTER BLUEPRINT</button>
+        <button class="sector-tab-btn" data-target="cut1">CUT 1: UPPER COMMAND (F1 &amp; F2)</button>
+        <button class="sector-tab-btn" data-target="cut2">CUT 2: SIPHON FORGE (F3 &amp; F4)</button>
+        <button class="sector-tab-btn" data-target="cut3">CUT 3: DEEP VAULT (F5 &amp; F6)</button>
+        <button class="sector-tab-btn" data-target="cut4">CUT 4: TABOO GATE (F7 &amp; F8)</button>
+      </div>
+
+      <!-- Interactive Map Viewer Canvas -->
+      <div class="map-viewer" data-map-width="2400">
+        <div class="map-controls">
+          <strong>FACILITY CUTAWAY SCHEMATIC:</strong>
+          <button data-map-action="in" type="button">ZOOM IN (+)</button>
+          <button data-map-action="out" type="button">ZOOM OUT (−)</button>
+          <button data-map-action="fit" type="button">FIT SCREEN</button>
+          <button data-map-action="native" type="button">100% SCALE</button>
+          <output>100%</output>
+          <a class="jump-pill" href="../assets/layout/hand/blueprints/THE_HAND_DR_LAYOUT.svg" download style="margin-left:auto;">DOWNLOAD SVG</a>
+        </div>
+        <div class="map-canvas">
+          <img id="facility-map-img" src="../assets/layout/hand/blueprints/THE_HAND_DR_LAYOUT.svg" alt="The Hand of Change Master Blueprint">
+        </div>
+      </div>
+
+      <!-- Sector Information Card -->
+      <div id="sector-info-box" class="wiki-section" style="margin-top:2rem;">
+        <div class="section-banner">
+          <h2 id="sector-info-title">/// SECTOR BLUEPRINT SPECIFICATIONS</h2>
+          <span id="sector-info-tag" class="section-tag">SUBTERRANEAN MATRIX</span>
+        </div>
+        <p id="sector-info-desc" class="section-desc">
+          Facility 01 "The Hand of Change" descends 800 meters into the subterranean crust below Zone A. It houses eight specialized containment and processing floors connected via the central Adamantine elevator column.
+        </p>
+      </div>
+
+      <!-- Department Directory Links Grid -->
+      <div class="hub-grid-3" style="margin-top:2rem;">
+        <a href="../departments/floor-1-neutral-command.html" class="pm-entity-card" style="--card-border:#ef5b55;">
+          <h3 class="entity-card-name">FLOOR 1: NEUTRAL COMMAND</h3>
+          <p class="entity-card-desc">Directorate Spire // Lead: Director Majin</p>
+          <span class="jump-btn">ENTER FLOOR 1 →</span>
+        </a>
+        <a href="../departments/floor-2-maws-keep.html" class="pm-entity-card" style="--card-border:#5b75e8;">
+          <h3 class="entity-card-name">FLOOR 2: MAW'S KEEP</h3>
+          <p class="entity-card-desc">Heavy Containment Ward // Lead: Dekan</p>
+          <span class="jump-btn">ENTER FLOOR 2 →</span>
+        </a>
+        <a href="../departments/floor-3-extraction-hall.html" class="pm-entity-card" style="--card-border:#e6c843;">
+          <h3 class="entity-card-name">FLOOR 3: EXTRACTION HALL</h3>
+          <p class="entity-card-desc">M.A.W. Agony Siphons // Lead: Zyrak</p>
+          <span class="jump-btn">ENTER FLOOR 3 →</span>
+        </a>
+        <a href="../departments/floor-4-insight-forge.html" class="pm-entity-card" style="--card-border:#47c978;">
+          <h3 class="entity-card-name">FLOOR 4: INSIGHT FORGE</h3>
+          <p class="entity-card-desc">Research Laboratories // Lead: Ayshuk</p>
+          <span class="jump-btn">ENTER FLOOR 4 →</span>
+        </a>
+        <a href="../departments/floor-5-border-watch.html" class="pm-entity-card" style="--card-border:#d4d4d8;">
+          <h3 class="entity-card-name">FLOOR 5: BORDER WATCH</h3>
+          <p class="entity-card-desc">Subterranean Fortress // Lead: Mellda</p>
+          <span class="jump-btn">ENTER FLOOR 5 →</span>
+        </a>
+        <a href="../departments/floor-6-deep-vault.html" class="pm-entity-card" style="--card-border:#be123c;">
+          <h3 class="entity-card-name">FLOOR 6: DEEP VAULT</h3>
+          <p class="entity-card-desc">Cryogenic Archives &amp; SE-010 // Lead: Marjuk</p>
+          <span class="jump-btn">ENTER FLOOR 6 →</span>
+        </a>
+        <a href="../departments/floor-7-shadow-corps.html" class="pm-entity-card" style="--card-border:#f43f5e;">
+          <h3 class="entity-card-name">FLOOR 7: SHADOW CORPS</h3>
+          <p class="entity-card-desc">Abyssal Void Docks // Lead: Ishall</p>
+          <span class="jump-btn">ENTER FLOOR 7 →</span>
+        </a>
+        <a href="../departments/floor-8-gate-watch.html" class="pm-entity-card" style="--card-border:#fbbf24;">
+          <h3 class="entity-card-name">FLOOR 8: GATE WATCH</h3>
+          <p class="entity-card-desc">The Absolute Taboo Gate // Lead: Xyan</p>
+          <span class="jump-btn">ENTER FLOOR 8 →</span>
+        </a>
+      </div>
+    </main>
+  </div>
+
+  <script src="../assets/js/wiki.js"></script>
+  <script>
+    // Modular Sector Cut Switcher
+    const cuts = {
+      master: { src: '../assets/layout/hand/blueprints/THE_HAND_DR_LAYOUT.svg', title: '/// MASTER CUTAWAY SCHEMATIC (ALL 8 FLOORS)', tag: 'CONSOLIDATED FACILITY', desc: 'The complete 8-floor subterranean facility layout descending from the surface Palm Core down to Floor 8 Taboo Gate.' },
+      cut1: { src: '../assets/layout/hand/blueprints/the_hand_cut_1_upper_command.svg', title: '/// SECTOR CUT 01: UPPER COMMAND & CONTAINMENT WARD', tag: 'FLOORS 1 & 2', desc: 'Directorate Headquarters, Reset Terminals, Main Observation Deck, and Heavy Kinetic Containment Chambers (SE-001 The Orphaned Bell, SE-002 The Grieving Colossus, SE-005 The Smothering Mother).' },
+      cut2: { src: '../assets/layout/hand/blueprints/the_hand_cut_2_industrial_core.svg', title: '/// SECTOR CUT 02: EXTRACTION HALL & INSIGHT FORGE', tag: 'FLOORS 3 & 4', desc: 'M.A.W. Agony Smelting Crucibles, Weapon Anvils, Synaptic Suit Looms, Han Chemical Synthesis Laboratories, and Containment for SE-007 Brume & SE-009 The Memory Weaver.' },
+      cut3: { src: '../assets/layout/hand/blueprints/the_hand_cut_3_defense_vault.svg', title: '/// SECTOR CUT 03: BORDER DEFENSE & DEEP CRYO VAULT', tag: 'FLOORS 5 & 6', desc: 'Subterranean Perimeter Fortress, Auto-Turret Batteries, SE-011 Whispering Walls, Cryogenic Archival Vaults, and the Critical Stasis Matrix for SE-010 The Convergence (T-05 APOCRYPHA (ω)).' },
+      cut4: { src: '../assets/layout/hand/blueprints/the_hand_cut_4_abyss_gate.svg', title: '/// SECTOR CUT 04: VOID DIVING DOCKS & THE TABOO GATE', tag: 'FLOORS 7 & 8', desc: 'Sub-Abyss Submarine Docks, Neural Diver Anchors, SE-014 The Debt Eater, SE-015 The Debt Scale, and the Absolute Taboo Threshold Gate leading beyond Somnarak.' }
+    };
+
+    document.querySelectorAll('.sector-tab-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.sector-tab-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const cutKey = btn.dataset.target;
+        const cut = cuts[cutKey];
+        if (cut) {
+          const img = document.getElementById('facility-map-img');
+          img.src = cut.src;
+          document.getElementById('sector-info-title').textContent = cut.title;
+          document.getElementById('sector-info-tag').textContent = cut.tag;
+          document.getElementById('sector-info-desc').textContent = cut.desc;
+        }
+      });
+    });
+  </script>
+</body>
+</html>

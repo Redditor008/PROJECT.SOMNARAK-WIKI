@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <polygon points="60,4 116,60 60,116 4,60" fill="#1a1402" stroke="#f1df76" stroke-width="4"/>
+  <!-- Drafting Compass & Hexagonal Grid -->
+  <polygon points="60,20 92,76 28,76" fill="none" stroke="#f1df76" stroke-width="3.5"/>
+  <line x1="60" y1="20" x2="60" y2="96" stroke="#38bdf8" stroke-width="3"/>
+  <circle cx="60" cy="98" r="6" fill="#ef5b55" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="60" cy="20" r="7" fill="#f1df76"/>
+</svg>

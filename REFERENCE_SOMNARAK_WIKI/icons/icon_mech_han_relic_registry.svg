@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <radialGradient id="relicGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f1df76" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#070a12" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect x="4" y="4" width="112" height="112" rx="16" fill="#070a12" stroke="#f1df76" stroke-width="2.5"/>
+  <rect x="8" y="8" width="104" height="104" rx="12" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="60" cy="52" r="38" fill="url(#relicGlow)"/>
+
+  <!-- Ancient Stasis Preservation Vessel -->
+  <polygon points="44,28 76,28 84,76 36,76" fill="#1f1807" stroke="#f1df76" stroke-width="2"/>
+  
+  <!-- Floating Ancient Han Core inside Vessel -->
+  <polygon points="60,38 72,52 60,66 48,52" fill="#d97706" stroke="#fef08a" stroke-width="1.8"/>
+  <circle cx="60" cy="52" r="3" fill="#ffffff"/>
+
+  <!-- Magnetic Stasis Rings -->
+  <ellipse cx="60" cy="52" rx="20" ry="8" fill="none" stroke="#38bdf8" stroke-width="1.2" stroke-dasharray="3,2"/>
+
+  <!-- Label Banner -->
+  <rect x="14" y="98" width="92" height="14" rx="3" fill="#1f1807" stroke="#f1df76" stroke-width="1"/>
+  <text x="60" y="108.5" fill="#f1df76" font-family="monospace" font-size="7.5" font-weight="bold" text-anchor="middle">RELIC REGISTRY</text>
+</svg>

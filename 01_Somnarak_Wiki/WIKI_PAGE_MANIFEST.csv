@@ -1,0 +1,52 @@
+relative_path,title,visible_article_words,bytes,sha256
+atlas/hand-of-change-map.html,The Hand of Change — Full Blueprint,373,5310,8b16555eda6447ae06222feadb4c79de1820c67ec871631cf977b83f4ed2c9c7
+atlas/somnarak-city-map.html,Somnarak City — Full Metropolitan Map,406,5675,24f5c2edc0b7715ab986952d946f2daaf58f0fd4cd2224ef54c50a51848af0f1
+departments/floor-1-neutral-command.html,Floor 1: Neutral Command,973,16804,7b41ebf62a048b640bf9bbcc87cc173dd897c065cd4412de9c81661d05139f82
+departments/floor-2-maws-keep.html,Floor 2: The Maw’s Keep,928,16508,ec53695abdc2b183aecec397d99db54283a5aa47579548112fa4cc93cddabb19
+departments/floor-3-extraction-hall.html,Floor 3: The Extraction Hall,917,16301,ab3e3c1b473a5efc9a489e33ae2dedb8c053cafffc6249e1c0ab5f4e4634295a
+departments/floor-4-insight-forge.html,Floor 4: The Insight Forge,875,16255,1b6d66891cd60be27c9cf2eb4b7863839c3942b77975483d0e3b480e878d1363
+departments/floor-5-border-watch.html,Floor 5: The Border Watch,859,16020,4d46269ce91f07558cc4c3839d7e2ad7402d9a2379405ad4ddab13e8e8afc821
+departments/floor-6-deep-vault.html,Floor 6: The Deep Vault,848,16048,00682bc7430a3daef3f8da7a70a93aece5c52ed6e80e023529604f8879de3569
+departments/floor-7-shadow-corps.html,Floor 7: The Shadow Corps,832,15886,15389c5ee8eed24a4ece34a36aaceb4e0b82cb445ee1b046c2436065564d7110
+departments/floor-8-gate-watch.html,Floor 8: The Gate Watch,902,16174,7ff7a11e2313f63749b468a90456bf70d220e8e698759500d0f77948fc82c741
+departments/index.html,The Hand of Change,968,16634,35cc4ab795de763ef98c604c649c63e48fdfa063c2635586b2d0c64d71dd22d6
+entities/index.html,Sorrow Entities,1223,22512,4b936a3cf96c41edc536a1af616037a31bab7ea9b211ff91c31b2c591b5dfd38
+entities/se-001-the-orphaned-bell.html,The Orphaned Bell,1180,19971,5a54dda892b4c35927cc6b64ebdbc01f12a6b8981175dcccddd70428dfde8a5d
+entities/se-002-the-grieving-colossus.html,The Grieving Colossus,932,18132,87d71174427abcff410ae0105a66f36cfcd14237b057c9b7db4311920887c1cf
+entities/se-003-the-wilderness-tide.html,The Wilderness Tide,943,17197,f8acff7eeaa25b4fb293b3262fa965ceb353c60bef150339c62c32d1c78c274c
+entities/se-005-the-smothering-mother.html,The Smothering Mother,938,18165,67ade244e5b1c7c4fad1c92259ae43667ac4b82b939a62a861f03d67a7d18aa6
+entities/se-007-brume.html,Brume,936,17975,de36b4509b43e33d673af518038126f8a1ba3d54c0801ca59acc031b1becf12b
+entities/se-009-the-memory-weaver.html,The Memory Weaver,979,18590,e3f6fd62bed41ae14042cc9644d2818393212a1d2bb00f44fa6e041c0f50ff33
+entities/se-010-the-convergence.html,The Convergence,884,17995,e73eb791717e8b37bd3b5d129eb200babf7ffbe9a1ff9185a20a2a302d0caf86
+entities/se-011-the-whispering-walls.html,The Whispering Walls,873,17822,301ccc635e875ad83d8a46524cd2b43c1c31f1bb3cfb431501f0703e8f896b81
+entities/se-014-the-debt-eater.html,The Debt Eater,899,17929,3ec7722674bb4defc402890cd47d4c9753c479a36d11197bf1a30718c2a0374a
+entities/se-015-the-debt-scale.html,The Debt Scale,945,18420,fb3106ee70003df0a3a1fc2e9ceef491f35aca3e52d6035313b12736702f35d4
+index.html,Main Page,976,26854,d4e793af6759d9bff1a2a8c70c05e3579a0656071b1411d6cfeb03d05eb48c1b
+maw/index.html,M.A.W. Codex,682,22165,690188e126550561e7b6df3835fd0ad576d35db866d8c0cb0a0bf9d5fada8cb3
+maw/maw-g-001-01-laments-edge.html,Lament’s Edge,455,11075,a2408858acee539fc9e0ed8febc9415bbbeb5dbe31d6a4528dd5a14f9cdf5713
+maw/maw-g-002-01-the-mourning-shell.html,The Mourning Shell,414,10906,8bf930cd7edd928215379b1e7439eaa9301d8f3fa01fb326a89cd1136d5e1bef
+maw/maw-g-005-01-the-embrace.html,The Embrace,409,10783,785ed5e54d85f0399679e82b7c5e8051b54ab5cf736184f4bb66b0d14a6731a7
+maw/maw-g-007-01-the-hope-lantern.html,The Hope Lantern,409,10724,c19a753f40c76ec186a465e178c3d99304619c3e1e914d178dd08d2e3ecab67e
+maw/maw-g-009-01-the-forgotten-mask.html,The Forgotten Mask,401,10943,f163e0ac7e08facecf8c1dc7a84736633379ad3107f765446fff55f3692401e3
+maw/maw-g-010-01-the-absolute-verdict.html,The Absolute Verdict,377,10922,45e0eafa5a70ecab1f28860ba755e57c653c8dff78020c2c7a263e359bbaa38a
+maw/maw-g-011-01-the-listening-stone.html,The Listening Stone,391,10892,5758f81a567c64ff2ac6161d5e42dac385dc29934cf7f00eeb964e8239d507b9
+maw/maw-g-014-01-the-debt-scale-gift.html,The Debt Scale,375,10685,3d8e0f7d19f4b673a3403237c8b61a0651b36d9d290503de450770a7d2684496
+maw/maw-g-015-01-the-balance-pendant.html,The Balance Pendant,369,10743,45a3a1967c86c6705cf4cd6f6c31d8860e7ef9a90be23a3888198cdcf50b9305
+maw/maw-s-001-01-the-laments-shroud.html,The Lament’s Shroud,445,11100,9f3915e00fd61a8c251b207718a986c8fa4a4d71bec11949453e649dc2f1dd73
+maw/maw-s-002-01-the-mourning-mantle.html,The Mourning Mantle,401,10904,47313855daf8dd9b16ad3e28cb5c3e8edc85a6220e845b607544243821e3057b
+maw/maw-s-005-01-the-embrace-plate.html,The Embrace Plate,399,10871,b25edbe9404ed29fe5446ead1b5f3828492c6861087172e60fdb6cc8218f139a
+maw/maw-s-007-01-the-hope-veil.html,The Hope Veil,416,10726,9baeeb20d0a7e3dbbaf538baf059be58658019ecf165ad5e63e8246ca81509bb
+maw/maw-s-009-01-the-forgotten-veil.html,The Forgotten Veil,379,10822,7da7f326388e200e55046f99da120b650140c566358f18de531e4c43e8c37849
+maw/maw-s-010-01-the-absolute-mantle.html,The Absolute Mantle,382,10899,7952b0da90f9c98dcf71420f489d2e80792ead8bfb7d9b7057919c17065fe32e
+maw/maw-s-011-01-the-listening-shroud.html,The Listening Shroud,369,10933,57e8914df4a101e816df08eb1a999c516f7aaa4ed865b1c570b227e544d877a2
+maw/maw-s-014-01-the-debt-veil.html,The Debt Veil,374,10639,1354aa0608e2b6b4091b3bdc89f7867608631fcda6e4ddd95182c257613f3d69
+maw/maw-s-015-01-the-balance-veil.html,The Balance Veil,370,10751,6c4ba0dedd79876c8c76c8c03894fd8527e94af119957ae359ded1853d46c579
+maw/maw-w-001-01-the-laments-requiem.html,The Lament’s Requiem,493,11442,017142a6cf0d6fdfda30d69ee4fa23e285f637501cf08400d5731f6a1cce1167
+maw/maw-w-002-01-the-mourning-maul.html,The Mourning Maul,452,11308,0cd059ef4af66582500595aa11e29762923bd921a486aae657b46f9f59a8c352
+maw/maw-w-005-01-the-embrace-fang.html,The Embrace Fang,428,11106,3decbe78948e00963fc152a05ef47a09e87c7102e362ea14eb3506d81a392495
+maw/maw-w-007-01-the-hope-lens.html,The Hope Lens,426,10879,8e4246c2b764cf856136874f2ab3b46036120e64f12b51c32e62b26b525fd388
+maw/maw-w-009-01-the-forgotten-lens.html,The Forgotten Lens,422,11172,aa3aa35abb34db9edab1789d93bf32fbb24df3d45c5ce7d7e2a11860bee93bae
+maw/maw-w-010-01-the-absolute-maul.html,The Absolute Maul,385,11024,12224d4d7f36d7294a8af1648f079071f55739d86824cd55f25ed00604bc2c03
+maw/maw-w-011-01-the-listening-requiem.html,The Listening Requiem,382,11016,9940f5fcd73c437263e40a9b1c9838adc5ed124f8d8f9d991500bff0028741fc
+maw/maw-w-014-01-the-debt-lens.html,The Debt Lens,379,10867,695ad88807cdc025d0ce658059495b7433ef1e382a172e990b5e25dcda688308
+maw/maw-w-015-01-the-balance-lens.html,The Balance Lens,385,10904,9e897feaa54ea70f6025ae91085b49e42199a6f314f575fd173628fd10cb4fcd

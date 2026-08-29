@@ -1,0 +1,698 @@
+[
+  {
+    "filename": "icon_somnarak_city_minimal.svg",
+    "png_filename": "icon_somnarak_city_minimal.png",
+    "title": "Somnarak City (Minimal)",
+    "category": "Factions & City",
+    "description": "Minimal vector glyph for Somnarak Metropolitan Cluster",
+    "tags": [
+      "city",
+      "somnarak",
+      "district",
+      "meta"
+    ],
+    "color": "#818cf8",
+    "wiki_embed_markdown": "![Somnarak City (Minimal)](icons/icon_somnarak_city_minimal.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_somnarak_city_minimal.svg\" alt=\"Somnarak City (Minimal)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_somnarak_city_badge.svg",
+    "png_filename": "icon_somnarak_city_badge.png",
+    "title": "Somnarak City (Crest Badge)",
+    "category": "Factions & City",
+    "description": "Styled Wiki badge for the City of Somnarak",
+    "tags": [
+      "city",
+      "badge",
+      "crest",
+      "somnarak"
+    ],
+    "color": "#c084fc",
+    "wiki_embed_markdown": "![Somnarak City (Crest Badge)](icons/icon_somnarak_city_badge.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_somnarak_city_badge.svg\" alt=\"Somnarak City (Crest Badge)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_reverie_directorate_minimal.svg",
+    "png_filename": "icon_reverie_directorate_minimal.png",
+    "title": "The Reverie Directorate (Minimal)",
+    "category": "Directorate",
+    "description": "Official minimal glyph for The Reverie Directorate (R.D.)",
+    "tags": [
+      "directorate",
+      "rd",
+      "the_hand",
+      "authority"
+    ],
+    "color": "#38bdf8",
+    "wiki_embed_markdown": "![The Reverie Directorate (Minimal)](icons/icon_reverie_directorate_minimal.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_reverie_directorate_minimal.svg\" alt=\"The Reverie Directorate (Minimal)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_reverie_directorate_badge.svg",
+    "png_filename": "icon_reverie_directorate_badge.png",
+    "title": "The Reverie Directorate (Insignia Badge)",
+    "category": "Directorate",
+    "description": "Styled Directorate Insignia Crest Badge",
+    "tags": [
+      "directorate",
+      "badge",
+      "crest",
+      "rd"
+    ],
+    "color": "#38bdf8",
+    "wiki_embed_markdown": "![The Reverie Directorate (Insignia Badge)](icons/icon_reverie_directorate_badge.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_reverie_directorate_badge.svg\" alt=\"The Reverie Directorate (Insignia Badge)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_alpha_tree.svg",
+    "png_filename": "icon_alpha_tree.png",
+    "title": "The Alpha Tree (\uc54c\ud30c \ud2b8\ub9ac)",
+    "category": "Monuments",
+    "description": "Monument icon for The Alpha Tree & Central Spire",
+    "tags": [
+      "alpha_tree",
+      "spire",
+      "zone_a",
+      "core"
+    ],
+    "color": "#ef4444",
+    "wiki_embed_markdown": "![The Alpha Tree (\uc54c\ud30c \ud2b8\ub9ac)](icons/icon_alpha_tree.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_alpha_tree.svg\" alt=\"The Alpha Tree (\uc54c\ud30c \ud2b8\ub9ac)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f1_neutral.svg",
+    "png_filename": "icon_dept_f1_neutral.png",
+    "title": "Floor 1: Neutral (\uc911\ub9bd)",
+    "category": "Directorate Departments",
+    "description": "Department icon for Floor 1: Neutral (\uc911\ub9bd) (Lead: Majin & Seiyon)",
+    "tags": [
+      "department",
+      "echo_core",
+      "f1_neutral",
+      "the_hand",
+      "majin & seiyon"
+    ],
+    "color": "#f59e0b",
+    "wiki_embed_markdown": "![Floor 1: Neutral (\uc911\ub9bd)](icons/icon_dept_f1_neutral.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f1_neutral.svg\" alt=\"Floor 1: Neutral (\uc911\ub9bd)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f1_neutral_badge.svg",
+    "png_filename": "icon_dept_f1_neutral_badge.png",
+    "title": "Floor 1: Neutral (\uc911\ub9bd) (Badge)",
+    "category": "Directorate Departments",
+    "description": "Styled Wiki dossier badge for Floor 1: Neutral (\uc911\ub9bd)",
+    "tags": [
+      "department",
+      "badge",
+      "echo_core",
+      "f1_neutral"
+    ],
+    "color": "#f59e0b",
+    "wiki_embed_markdown": "![Floor 1: Neutral (\uc911\ub9bd) (Badge)](icons/icon_dept_f1_neutral_badge.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f1_neutral_badge.svg\" alt=\"Floor 1: Neutral (\uc911\ub9bd) (Badge)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f2_maws_keep.svg",
+    "png_filename": "icon_dept_f2_maws_keep.png",
+    "title": "Floor 2: The Maw's Keep (\uc544\uac00\ub9ac\uc758 \uc694\uc0c8)",
+    "category": "Directorate Departments",
+    "description": "Department icon for Floor 2: The Maw's Keep (\uc544\uac00\ub9ac\uc758 \uc694\uc0c8) (Lead: Dekan)",
+    "tags": [
+      "department",
+      "echo_core",
+      "f2_maws_keep",
+      "the_hand",
+      "dekan"
+    ],
+    "color": "#ef4444",
+    "wiki_embed_markdown": "![Floor 2: The Maw's Keep (\uc544\uac00\ub9ac\uc758 \uc694\uc0c8)](icons/icon_dept_f2_maws_keep.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f2_maws_keep.svg\" alt=\"Floor 2: The Maw's Keep (\uc544\uac00\ub9ac\uc758 \uc694\uc0c8)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f2_maws_keep_badge.svg",
+    "png_filename": "icon_dept_f2_maws_keep_badge.png",
+    "title": "Floor 2: The Maw's Keep (\uc544\uac00\ub9ac\uc758 \uc694\uc0c8) (Badge)",
+    "category": "Directorate Departments",
+    "description": "Styled Wiki dossier badge for Floor 2: The Maw's Keep (\uc544\uac00\ub9ac\uc758 \uc694\uc0c8)",
+    "tags": [
+      "department",
+      "badge",
+      "echo_core",
+      "f2_maws_keep"
+    ],
+    "color": "#ef4444",
+    "wiki_embed_markdown": "![Floor 2: The Maw's Keep (\uc544\uac00\ub9ac\uc758 \uc694\uc0c8) (Badge)](icons/icon_dept_f2_maws_keep_badge.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f2_maws_keep_badge.svg\" alt=\"Floor 2: The Maw's Keep (\uc544\uac00\ub9ac\uc758 \uc694\uc0c8) (Badge)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f3_extraction.svg",
+    "png_filename": "icon_dept_f3_extraction.png",
+    "title": "Floor 3: The Extraction Hall (\ucd94\ucd9c\uc758 \uc804\ub2f9)",
+    "category": "Directorate Departments",
+    "description": "Department icon for Floor 3: The Extraction Hall (\ucd94\ucd9c\uc758 \uc804\ub2f9) (Lead: Zyrak)",
+    "tags": [
+      "department",
+      "echo_core",
+      "f3_extraction",
+      "the_hand",
+      "zyrak"
+    ],
+    "color": "#3b82f6",
+    "wiki_embed_markdown": "![Floor 3: The Extraction Hall (\ucd94\ucd9c\uc758 \uc804\ub2f9)](icons/icon_dept_f3_extraction.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f3_extraction.svg\" alt=\"Floor 3: The Extraction Hall (\ucd94\ucd9c\uc758 \uc804\ub2f9)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f3_extraction_badge.svg",
+    "png_filename": "icon_dept_f3_extraction_badge.png",
+    "title": "Floor 3: The Extraction Hall (\ucd94\ucd9c\uc758 \uc804\ub2f9) (Badge)",
+    "category": "Directorate Departments",
+    "description": "Styled Wiki dossier badge for Floor 3: The Extraction Hall (\ucd94\ucd9c\uc758 \uc804\ub2f9)",
+    "tags": [
+      "department",
+      "badge",
+      "echo_core",
+      "f3_extraction"
+    ],
+    "color": "#3b82f6",
+    "wiki_embed_markdown": "![Floor 3: The Extraction Hall (\ucd94\ucd9c\uc758 \uc804\ub2f9) (Badge)](icons/icon_dept_f3_extraction_badge.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f3_extraction_badge.svg\" alt=\"Floor 3: The Extraction Hall (\ucd94\ucd9c\uc758 \uc804\ub2f9) (Badge)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f4_insight_forge.svg",
+    "png_filename": "icon_dept_f4_insight_forge.png",
+    "title": "Floor 4: The Insight Forge (\ud1b5\ucc30\uc758 \ub300\uc7a5\uac04)",
+    "category": "Directorate Departments",
+    "description": "Department icon for Floor 4: The Insight Forge (\ud1b5\ucc30\uc758 \ub300\uc7a5\uac04) (Lead: Ayshuk)",
+    "tags": [
+      "department",
+      "echo_core",
+      "f4_insight_forge",
+      "the_hand",
+      "ayshuk"
+    ],
+    "color": "#10b981",
+    "wiki_embed_markdown": "![Floor 4: The Insight Forge (\ud1b5\ucc30\uc758 \ub300\uc7a5\uac04)](icons/icon_dept_f4_insight_forge.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f4_insight_forge.svg\" alt=\"Floor 4: The Insight Forge (\ud1b5\ucc30\uc758 \ub300\uc7a5\uac04)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f4_insight_forge_badge.svg",
+    "png_filename": "icon_dept_f4_insight_forge_badge.png",
+    "title": "Floor 4: The Insight Forge (\ud1b5\ucc30\uc758 \ub300\uc7a5\uac04) (Badge)",
+    "category": "Directorate Departments",
+    "description": "Styled Wiki dossier badge for Floor 4: The Insight Forge (\ud1b5\ucc30\uc758 \ub300\uc7a5\uac04)",
+    "tags": [
+      "department",
+      "badge",
+      "echo_core",
+      "f4_insight_forge"
+    ],
+    "color": "#10b981",
+    "wiki_embed_markdown": "![Floor 4: The Insight Forge (\ud1b5\ucc30\uc758 \ub300\uc7a5\uac04) (Badge)](icons/icon_dept_f4_insight_forge_badge.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f4_insight_forge_badge.svg\" alt=\"Floor 4: The Insight Forge (\ud1b5\ucc30\uc758 \ub300\uc7a5\uac04) (Badge)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f5_border_watch.svg",
+    "png_filename": "icon_dept_f5_border_watch.png",
+    "title": "Floor 5: The Border Watch (\uacbd\uacc4 \uac10\uc2dc\uc18c)",
+    "category": "Directorate Departments",
+    "description": "Department icon for Floor 5: The Border Watch (\uacbd\uacc4 \uac10\uc2dc\uc18c) (Lead: Mellda)",
+    "tags": [
+      "department",
+      "echo_core",
+      "f5_border_watch",
+      "the_hand",
+      "mellda"
+    ],
+    "color": "#0284c7",
+    "wiki_embed_markdown": "![Floor 5: The Border Watch (\uacbd\uacc4 \uac10\uc2dc\uc18c)](icons/icon_dept_f5_border_watch.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f5_border_watch.svg\" alt=\"Floor 5: The Border Watch (\uacbd\uacc4 \uac10\uc2dc\uc18c)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f5_border_watch_badge.svg",
+    "png_filename": "icon_dept_f5_border_watch_badge.png",
+    "title": "Floor 5: The Border Watch (\uacbd\uacc4 \uac10\uc2dc\uc18c) (Badge)",
+    "category": "Directorate Departments",
+    "description": "Styled Wiki dossier badge for Floor 5: The Border Watch (\uacbd\uacc4 \uac10\uc2dc\uc18c)",
+    "tags": [
+      "department",
+      "badge",
+      "echo_core",
+      "f5_border_watch"
+    ],
+    "color": "#0284c7",
+    "wiki_embed_markdown": "![Floor 5: The Border Watch (\uacbd\uacc4 \uac10\uc2dc\uc18c) (Badge)](icons/icon_dept_f5_border_watch_badge.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f5_border_watch_badge.svg\" alt=\"Floor 5: The Border Watch (\uacbd\uacc4 \uac10\uc2dc\uc18c) (Badge)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f6_deep_vault.svg",
+    "png_filename": "icon_dept_f6_deep_vault.png",
+    "title": "Floor 6: The Deep Vault (\uc2ec\uce35 \uae08\uace0)",
+    "category": "Directorate Departments",
+    "description": "Department icon for Floor 6: The Deep Vault (\uc2ec\uce35 \uae08\uace0) (Lead: Marjuk)",
+    "tags": [
+      "department",
+      "echo_core",
+      "f6_deep_vault",
+      "the_hand",
+      "marjuk"
+    ],
+    "color": "#8b5cf6",
+    "wiki_embed_markdown": "![Floor 6: The Deep Vault (\uc2ec\uce35 \uae08\uace0)](icons/icon_dept_f6_deep_vault.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f6_deep_vault.svg\" alt=\"Floor 6: The Deep Vault (\uc2ec\uce35 \uae08\uace0)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f6_deep_vault_badge.svg",
+    "png_filename": "icon_dept_f6_deep_vault_badge.png",
+    "title": "Floor 6: The Deep Vault (\uc2ec\uce35 \uae08\uace0) (Badge)",
+    "category": "Directorate Departments",
+    "description": "Styled Wiki dossier badge for Floor 6: The Deep Vault (\uc2ec\uce35 \uae08\uace0)",
+    "tags": [
+      "department",
+      "badge",
+      "echo_core",
+      "f6_deep_vault"
+    ],
+    "color": "#8b5cf6",
+    "wiki_embed_markdown": "![Floor 6: The Deep Vault (\uc2ec\uce35 \uae08\uace0) (Badge)](icons/icon_dept_f6_deep_vault_badge.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f6_deep_vault_badge.svg\" alt=\"Floor 6: The Deep Vault (\uc2ec\uce35 \uae08\uace0) (Badge)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f7_shadow_corps.svg",
+    "png_filename": "icon_dept_f7_shadow_corps.png",
+    "title": "Floor 7: The Shadow Corps (\uadf8\ub9bc\uc790 \uad70\ub2e8)",
+    "category": "Directorate Departments",
+    "description": "Department icon for Floor 7: The Shadow Corps (\uadf8\ub9bc\uc790 \uad70\ub2e8) (Lead: Ishall)",
+    "tags": [
+      "department",
+      "echo_core",
+      "f7_shadow_corps",
+      "the_hand",
+      "ishall"
+    ],
+    "color": "#e11d48",
+    "wiki_embed_markdown": "![Floor 7: The Shadow Corps (\uadf8\ub9bc\uc790 \uad70\ub2e8)](icons/icon_dept_f7_shadow_corps.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f7_shadow_corps.svg\" alt=\"Floor 7: The Shadow Corps (\uadf8\ub9bc\uc790 \uad70\ub2e8)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f7_shadow_corps_badge.svg",
+    "png_filename": "icon_dept_f7_shadow_corps_badge.png",
+    "title": "Floor 7: The Shadow Corps (\uadf8\ub9bc\uc790 \uad70\ub2e8) (Badge)",
+    "category": "Directorate Departments",
+    "description": "Styled Wiki dossier badge for Floor 7: The Shadow Corps (\uadf8\ub9bc\uc790 \uad70\ub2e8)",
+    "tags": [
+      "department",
+      "badge",
+      "echo_core",
+      "f7_shadow_corps"
+    ],
+    "color": "#e11d48",
+    "wiki_embed_markdown": "![Floor 7: The Shadow Corps (\uadf8\ub9bc\uc790 \uad70\ub2e8) (Badge)](icons/icon_dept_f7_shadow_corps_badge.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f7_shadow_corps_badge.svg\" alt=\"Floor 7: The Shadow Corps (\uadf8\ub9bc\uc790 \uad70\ub2e8) (Badge)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f8_gate_watch.svg",
+    "png_filename": "icon_dept_f8_gate_watch.png",
+    "title": "Floor 8: The Gate Watch (\ubb38 \uac10\uc2dc\uc18c)",
+    "category": "Directorate Departments",
+    "description": "Department icon for Floor 8: The Gate Watch (\ubb38 \uac10\uc2dc\uc18c) (Lead: Xyan)",
+    "tags": [
+      "department",
+      "echo_core",
+      "f8_gate_watch",
+      "the_hand",
+      "xyan"
+    ],
+    "color": "#94a3b8",
+    "wiki_embed_markdown": "![Floor 8: The Gate Watch (\ubb38 \uac10\uc2dc\uc18c)](icons/icon_dept_f8_gate_watch.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f8_gate_watch.svg\" alt=\"Floor 8: The Gate Watch (\ubb38 \uac10\uc2dc\uc18c)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_dept_f8_gate_watch_badge.svg",
+    "png_filename": "icon_dept_f8_gate_watch_badge.png",
+    "title": "Floor 8: The Gate Watch (\ubb38 \uac10\uc2dc\uc18c) (Badge)",
+    "category": "Directorate Departments",
+    "description": "Styled Wiki dossier badge for Floor 8: The Gate Watch (\ubb38 \uac10\uc2dc\uc18c)",
+    "tags": [
+      "department",
+      "badge",
+      "echo_core",
+      "f8_gate_watch"
+    ],
+    "color": "#94a3b8",
+    "wiki_embed_markdown": "![Floor 8: The Gate Watch (\ubb38 \uac10\uc2dc\uc18c) (Badge)](icons/icon_dept_f8_gate_watch_badge.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_dept_f8_gate_watch_badge.svg\" alt=\"Floor 8: The Gate Watch (\ubb38 \uac10\uc2dc\uc18c) (Badge)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_zone_a_core.svg",
+    "png_filename": "icon_zone_a_core.png",
+    "title": "Zone A: Central Core Nexus (\ub3c4\uc2ec)",
+    "category": "City Zones",
+    "description": "Municipal zone icon for Zone A: Central Core Nexus (\ub3c4\uc2ec)",
+    "tags": [
+      "zone",
+      "city",
+      "zone_a_core",
+      "district"
+    ],
+    "color": "#ef4444",
+    "wiki_embed_markdown": "![Zone A: Central Core Nexus (\ub3c4\uc2ec)](icons/icon_zone_a_core.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_zone_a_core.svg\" alt=\"Zone A: Central Core Nexus (\ub3c4\uc2ec)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_zone_b_west.svg",
+    "png_filename": "icon_zone_b_west.png",
+    "title": "Zone B: West Old District (\uad6c\ub3c4\uc2ec)",
+    "category": "City Zones",
+    "description": "Municipal zone icon for Zone B: West Old District (\uad6c\ub3c4\uc2ec)",
+    "tags": [
+      "zone",
+      "city",
+      "zone_b_west",
+      "district"
+    ],
+    "color": "#10b981",
+    "wiki_embed_markdown": "![Zone B: West Old District (\uad6c\ub3c4\uc2ec)](icons/icon_zone_b_west.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_zone_b_west.svg\" alt=\"Zone B: West Old District (\uad6c\ub3c4\uc2ec)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_zone_c_east.svg",
+    "png_filename": "icon_zone_c_east.png",
+    "title": "Zone C: East Chevron Arc (\uc218\ud0c8 \uad6c\uc5ed)",
+    "category": "City Zones",
+    "description": "Municipal zone icon for Zone C: East Chevron Arc (\uc218\ud0c8 \uad6c\uc5ed)",
+    "tags": [
+      "zone",
+      "city",
+      "zone_c_east",
+      "district"
+    ],
+    "color": "#3b82f6",
+    "wiki_embed_markdown": "![Zone C: East Chevron Arc (\uc218\ud0c8 \uad6c\uc5ed)](icons/icon_zone_c_east.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_zone_c_east.svg\" alt=\"Zone C: East Chevron Arc (\uc218\ud0c8 \uad6c\uc5ed)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_zone_d_flanks.svg",
+    "png_filename": "icon_zone_d_flanks.png",
+    "title": "Zone D: North & South Flanks (\ub2e8\uc870\ub85c)",
+    "category": "City Zones",
+    "description": "Municipal zone icon for Zone D: North & South Flanks (\ub2e8\uc870\ub85c)",
+    "tags": [
+      "zone",
+      "city",
+      "zone_d_flanks",
+      "district"
+    ],
+    "color": "#f59e0b",
+    "wiki_embed_markdown": "![Zone D: North & South Flanks (\ub2e8\uc870\ub85c)](icons/icon_zone_d_flanks.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_zone_d_flanks.svg\" alt=\"Zone D: North & South Flanks (\ub2e8\uc870\ub85c)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_zone_e_bulwark.svg",
+    "png_filename": "icon_zone_e_bulwark.png",
+    "title": "Zone E: Perimeter Bulwark (\uacbd\uacc4\uc120)",
+    "category": "City Zones",
+    "description": "Municipal zone icon for Zone E: Perimeter Bulwark (\uacbd\uacc4\uc120)",
+    "tags": [
+      "zone",
+      "city",
+      "zone_e_bulwark",
+      "district"
+    ],
+    "color": "#a855f7",
+    "wiki_embed_markdown": "![Zone E: Perimeter Bulwark (\uacbd\uacc4\uc120)](icons/icon_zone_e_bulwark.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_zone_e_bulwark.svg\" alt=\"Zone E: Perimeter Bulwark (\uacbd\uacc4\uc120)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_sorrow_dohan_city.svg",
+    "png_filename": "icon_sorrow_dohan_city.png",
+    "title": "City Sorrow (\ub3c4\ud55c \u2014 Dohan)",
+    "category": "The Three Sorrows",
+    "description": "Sorrow classification icon for City Sorrow (\ub3c4\ud55c \u2014 Dohan)",
+    "tags": [
+      "sorrow",
+      "samhan",
+      "sorrow_dohan_city",
+      "cosmology"
+    ],
+    "color": "#ef4444",
+    "wiki_embed_markdown": "![City Sorrow (\ub3c4\ud55c \u2014 Dohan)](icons/icon_sorrow_dohan_city.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_sorrow_dohan_city.svg\" alt=\"City Sorrow (\ub3c4\ud55c \u2014 Dohan)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_sorrow_oehan_outside.svg",
+    "png_filename": "icon_sorrow_oehan_outside.png",
+    "title": "Outside Sorrow (\uc678\ud55c \u2014 Oehan)",
+    "category": "The Three Sorrows",
+    "description": "Sorrow classification icon for Outside Sorrow (\uc678\ud55c \u2014 Oehan)",
+    "tags": [
+      "sorrow",
+      "samhan",
+      "sorrow_oehan_outside",
+      "cosmology"
+    ],
+    "color": "#a855f7",
+    "wiki_embed_markdown": "![Outside Sorrow (\uc678\ud55c \u2014 Oehan)](icons/icon_sorrow_oehan_outside.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_sorrow_oehan_outside.svg\" alt=\"Outside Sorrow (\uc678\ud55c \u2014 Oehan)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_sorrow_naehan_inner.svg",
+    "png_filename": "icon_sorrow_naehan_inner.png",
+    "title": "Inner Sorrow (\ub0b4\ud55c \u2014 Naehan)",
+    "category": "The Three Sorrows",
+    "description": "Sorrow classification icon for Inner Sorrow (\ub0b4\ud55c \u2014 Naehan)",
+    "tags": [
+      "sorrow",
+      "samhan",
+      "sorrow_naehan_inner",
+      "cosmology"
+    ],
+    "color": "#3b82f6",
+    "wiki_embed_markdown": "![Inner Sorrow (\ub0b4\ud55c \u2014 Naehan)](icons/icon_sorrow_naehan_inner.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_sorrow_naehan_inner.svg\" alt=\"Inner Sorrow (\ub0b4\ud55c \u2014 Naehan)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_rank_1_whisper.svg",
+    "png_filename": "icon_rank_1_whisper.png",
+    "title": "Rank I: Whisper (\uc18d\uc0ad\uc784)",
+    "category": "Entity Threat Ranks",
+    "description": "Entity threat classification badge for Rank I: Whisper (\uc18d\uc0ad\uc784)",
+    "tags": [
+      "rank",
+      "threat",
+      "entity",
+      "rank_1_whisper"
+    ],
+    "color": "#10b981",
+    "wiki_embed_markdown": "![Rank I: Whisper (\uc18d\uc0ad\uc784)](icons/icon_rank_1_whisper.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_rank_1_whisper.svg\" alt=\"Rank I: Whisper (\uc18d\uc0ad\uc784)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_rank_2_murmur.svg",
+    "png_filename": "icon_rank_2_murmur.png",
+    "title": "Rank II: Murmur (\uc911\uc5bc\uac70\ub9bc)",
+    "category": "Entity Threat Ranks",
+    "description": "Entity threat classification badge for Rank II: Murmur (\uc911\uc5bc\uac70\ub9bc)",
+    "tags": [
+      "rank",
+      "threat",
+      "entity",
+      "rank_2_murmur"
+    ],
+    "color": "#0284c7",
+    "wiki_embed_markdown": "![Rank II: Murmur (\uc911\uc5bc\uac70\ub9bc)](icons/icon_rank_2_murmur.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_rank_2_murmur.svg\" alt=\"Rank II: Murmur (\uc911\uc5bc\uac70\ub9bc)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_rank_3_fragment.svg",
+    "png_filename": "icon_rank_3_fragment.png",
+    "title": "Rank III: Fragment (\ud30c\ud3b8)",
+    "category": "Entity Threat Ranks",
+    "description": "Entity threat classification badge for Rank III: Fragment (\ud30c\ud3b8)",
+    "tags": [
+      "rank",
+      "threat",
+      "entity",
+      "rank_3_fragment"
+    ],
+    "color": "#f59e0b",
+    "wiki_embed_markdown": "![Rank III: Fragment (\ud30c\ud3b8)](icons/icon_rank_3_fragment.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_rank_3_fragment.svg\" alt=\"Rank III: Fragment (\ud30c\ud3b8)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_rank_4_entity.svg",
+    "png_filename": "icon_rank_4_entity.png",
+    "title": "Rank IV: Entity (\uc874\uc7ac)",
+    "category": "Entity Threat Ranks",
+    "description": "Entity threat classification badge for Rank IV: Entity (\uc874\uc7ac)",
+    "tags": [
+      "rank",
+      "threat",
+      "entity",
+      "rank_4_entity"
+    ],
+    "color": "#e11d48",
+    "wiki_embed_markdown": "![Rank IV: Entity (\uc874\uc7ac)](icons/icon_rank_4_entity.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_rank_4_entity.svg\" alt=\"Rank IV: Entity (\uc874\uc7ac)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_rank_5_sovereign.svg",
+    "png_filename": "icon_rank_5_sovereign.png",
+    "title": "Rank V: Sovereign (\uad70\uc8fc)",
+    "category": "Entity Threat Ranks",
+    "description": "Entity threat classification badge for Rank V: Sovereign (\uad70\uc8fc)",
+    "tags": [
+      "rank",
+      "threat",
+      "entity",
+      "rank_5_sovereign"
+    ],
+    "color": "#ef4444",
+    "wiki_embed_markdown": "![Rank V: Sovereign (\uad70\uc8fc)](icons/icon_rank_5_sovereign.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_rank_5_sovereign.svg\" alt=\"Rank V: Sovereign (\uad70\uc8fc)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_damage_grudge.svg",
+    "png_filename": "icon_damage_grudge.png",
+    "title": "Grudge (\uc6d0\ud55c) \u2014 Crimson",
+    "category": "Han Damage Signatures",
+    "description": "Damage signature icon for Grudge (\uc6d0\ud55c) \u2014 Crimson",
+    "tags": [
+      "damage",
+      "affinity",
+      "damage_grudge",
+      "han"
+    ],
+    "color": "#ef4444",
+    "wiki_embed_markdown": "![Grudge (\uc6d0\ud55c) \u2014 Crimson](icons/icon_damage_grudge.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_damage_grudge.svg\" alt=\"Grudge (\uc6d0\ud55c) \u2014 Crimson\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_damage_lament.svg",
+    "png_filename": "icon_damage_lament.png",
+    "title": "Lament (\ube44\ud0c4) \u2014 Deep Blue",
+    "category": "Han Damage Signatures",
+    "description": "Damage signature icon for Lament (\ube44\ud0c4) \u2014 Deep Blue",
+    "tags": [
+      "damage",
+      "affinity",
+      "damage_lament",
+      "han"
+    ],
+    "color": "#3b82f6",
+    "wiki_embed_markdown": "![Lament (\ube44\ud0c4) \u2014 Deep Blue](icons/icon_damage_lament.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_damage_lament.svg\" alt=\"Lament (\ube44\ud0c4) \u2014 Deep Blue\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_damage_weight.svg",
+    "png_filename": "icon_damage_weight.png",
+    "title": "Weight (\uc911\uc555) \u2014 Obsidian",
+    "category": "Han Damage Signatures",
+    "description": "Damage signature icon for Weight (\uc911\uc555) \u2014 Obsidian",
+    "tags": [
+      "damage",
+      "affinity",
+      "damage_weight",
+      "han"
+    ],
+    "color": "#a855f7",
+    "wiki_embed_markdown": "![Weight (\uc911\uc555) \u2014 Obsidian](icons/icon_damage_weight.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_damage_weight.svg\" alt=\"Weight (\uc911\uc555) \u2014 Obsidian\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_damage_void.svg",
+    "png_filename": "icon_damage_void.png",
+    "title": "Void (\uacf5\ud5c8) \u2014 Pale White",
+    "category": "Han Damage Signatures",
+    "description": "Damage signature icon for Void (\uacf5\ud5c8) \u2014 Pale White",
+    "tags": [
+      "damage",
+      "affinity",
+      "damage_void",
+      "han"
+    ],
+    "color": "#94a3b8",
+    "wiki_embed_markdown": "![Void (\uacf5\ud5c8) \u2014 Pale White](icons/icon_damage_void.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_damage_void.svg\" alt=\"Void (\uacf5\ud5c8) \u2014 Pale White\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_maw_grade_alpha.svg",
+    "png_filename": "icon_maw_grade_alpha.png",
+    "title": "Grade-\u03b1 (Alpha)",
+    "category": "M.A.W. Equipment Grades",
+    "description": "Equipment grade icon for Grade-\u03b1 (Alpha)",
+    "tags": [
+      "maw",
+      "equipment",
+      "gear",
+      "maw_grade_alpha"
+    ],
+    "color": "#10b981",
+    "wiki_embed_markdown": "![Grade-\u03b1 (Alpha)](icons/icon_maw_grade_alpha.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_maw_grade_alpha.svg\" alt=\"Grade-\u03b1 (Alpha)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_maw_grade_beta.svg",
+    "png_filename": "icon_maw_grade_beta.png",
+    "title": "Grade-\u03b2 (Beta)",
+    "category": "M.A.W. Equipment Grades",
+    "description": "Equipment grade icon for Grade-\u03b2 (Beta)",
+    "tags": [
+      "maw",
+      "equipment",
+      "gear",
+      "maw_grade_beta"
+    ],
+    "color": "#0284c7",
+    "wiki_embed_markdown": "![Grade-\u03b2 (Beta)](icons/icon_maw_grade_beta.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_maw_grade_beta.svg\" alt=\"Grade-\u03b2 (Beta)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_maw_grade_gamma.svg",
+    "png_filename": "icon_maw_grade_gamma.png",
+    "title": "Grade-\u03b3 (Gamma)",
+    "category": "M.A.W. Equipment Grades",
+    "description": "Equipment grade icon for Grade-\u03b3 (Gamma)",
+    "tags": [
+      "maw",
+      "equipment",
+      "gear",
+      "maw_grade_gamma"
+    ],
+    "color": "#f59e0b",
+    "wiki_embed_markdown": "![Grade-\u03b3 (Gamma)](icons/icon_maw_grade_gamma.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_maw_grade_gamma.svg\" alt=\"Grade-\u03b3 (Gamma)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_maw_grade_delta.svg",
+    "png_filename": "icon_maw_grade_delta.png",
+    "title": "Grade-\u03b4 (Delta)",
+    "category": "M.A.W. Equipment Grades",
+    "description": "Equipment grade icon for Grade-\u03b4 (Delta)",
+    "tags": [
+      "maw",
+      "equipment",
+      "gear",
+      "maw_grade_delta"
+    ],
+    "color": "#8b5cf6",
+    "wiki_embed_markdown": "![Grade-\u03b4 (Delta)](icons/icon_maw_grade_delta.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_maw_grade_delta.svg\" alt=\"Grade-\u03b4 (Delta)\" width=\"32\" height=\"32\">"
+  },
+  {
+    "filename": "icon_maw_grade_omega.svg",
+    "png_filename": "icon_maw_grade_omega.png",
+    "title": "Grade-\u03c9 (Omega)",
+    "category": "M.A.W. Equipment Grades",
+    "description": "Equipment grade icon for Grade-\u03c9 (Omega)",
+    "tags": [
+      "maw",
+      "equipment",
+      "gear",
+      "maw_grade_omega"
+    ],
+    "color": "#ef4444",
+    "wiki_embed_markdown": "![Grade-\u03c9 (Omega)](icons/icon_maw_grade_omega.svg)",
+    "wiki_embed_html": "<img src=\"icons/icon_maw_grade_omega.svg\" alt=\"Grade-\u03c9 (Omega)\" width=\"32\" height=\"32\">"
+  }
+]

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <radialGradient id="treeGlow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#71efaf" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#38bdf8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#070a12" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect x="4" y="4" width="112" height="112" rx="16" fill="#070a12" stroke="#71efaf" stroke-width="2.5"/>
+  <rect x="8" y="8" width="104" height="104" rx="12" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="60" cy="50" r="38" fill="url(#treeGlow)"/>
+
+  <!-- Tree Trunk & Branching Canopy -->
+  <path d="M 56 86 L 56 50 L 40 32 L 48 30 L 58 44 L 58 20 L 62 20 L 62 44 L 72 30 L 80 32 L 64 50 L 64 86 Z" fill="#064e3b" stroke="#71efaf" stroke-width="1.8"/>
+
+  <!-- Bioluminescent Canopy Spheres -->
+  <circle cx="60" cy="18" r="5" fill="#fef08a"/>
+  <circle cx="44" cy="28" r="4" fill="#71efaf"/>
+  <circle cx="76" cy="28" r="4" fill="#71efaf"/>
+  <circle cx="34" cy="40" r="3" fill="#38bdf8"/>
+  <circle cx="86" cy="40" r="3" fill="#38bdf8"/>
+
+  <!-- Deep Subterranean Roots in Weeping -->
+  <path d="M 56 86 Q 44 94 36 96" stroke="#38bdf8" stroke-width="1.5" fill="none"/>
+  <path d="M 64 86 Q 76 94 84 96" stroke="#38bdf8" stroke-width="1.5" fill="none"/>
+
+  <!-- Label Banner -->
+  <rect x="14" y="98" width="92" height="14" rx="3" fill="#062e22" stroke="#71efaf" stroke-width="1"/>
+  <text x="60" y="108.5" fill="#71efaf" font-family="monospace" font-size="7.5" font-weight="bold" text-anchor="middle">ALPHA TREE</text>
+</svg>

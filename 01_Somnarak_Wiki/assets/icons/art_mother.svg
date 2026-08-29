@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120">
+<rect width="200" height="120" fill="#0b0e16"/>
+<ellipse cx="100" cy="50" rx="30" ry="35" fill="#7a0f1a" opacity=".1" stroke="#c8202e" stroke-width="1.5"/>
+<path d="M70 55 Q55 80 50 105" stroke="#c8202e" stroke-width="3" fill="none" opacity=".4" stroke-linecap="round"/>
+<path d="M130 55 Q145 80 150 105" stroke="#c8202e" stroke-width="3" fill="none" opacity=".4" stroke-linecap="round"/>
+<path d="M75 45 Q60 50 55 70" stroke="#c8202e" stroke-width="2" fill="none" opacity=".3" stroke-linecap="round"/>
+<path d="M125 45 Q140 50 145 70" stroke="#c8202e" stroke-width="2" fill="none" opacity=".3" stroke-linecap="round"/>
+<circle cx="90" cy="42" r="2" fill="#c8202e" opacity=".5"/><circle cx="110" cy="42" r="2" fill="#c8202e" opacity=".5"/>
+<text x="100" y="115" font-size="9" fill="#5a1525" text-anchor="middle" font-family="sans-serif">THE SMOTHERING MOTHER</text>
+</svg>

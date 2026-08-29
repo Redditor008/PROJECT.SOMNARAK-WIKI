@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="se7-slate-sm" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#475569"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="8" width="100" height="104" rx="14" fill="#070c14" stroke="#94a3b8" stroke-width="2.5"/>
+  <rect x="16" y="14" width="88" height="92" rx="10" fill="url(#se7-slate-sm)" stroke="#38bdf8" stroke-width="1.5"/>
+  <path d="M 16,35 C 35,25 45,45 65,30 C 85,15 95,35 104,28" fill="none" stroke="#cbd5e1" stroke-width="2" opacity="0.6"/>
+  <path d="M 16,85 C 35,75 45,95 65,80 C 85,65 95,85 104,78" fill="none" stroke="#cbd5e1" stroke-width="2" opacity="0.6"/>
+  <rect x="34" y="30" width="52" height="60" rx="4" fill="#020617" stroke="#64748b" stroke-width="1.5"/>
+  <line x1="42" y1="42" x2="78" y2="42" stroke="#38bdf8" stroke-width="1.5"/>
+  <line x1="42" y1="52" x2="74" y2="52" stroke="#38bdf8" stroke-width="1.5"/>
+  <line x1="42" y1="62" x2="70" y2="62" stroke="#38bdf8" stroke-width="1.5"/>
+  <line x1="84" y1="24" x2="56" y2="76" stroke="#f1df76" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="56,76 52,82 59,79" fill="#f8fafc"/>
+</svg>

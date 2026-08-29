@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <rect x="4" y="4" width="112" height="112" rx="16" fill="#070a12" stroke="#ef4444" stroke-width="2.5"/>
+  <rect x="8" y="8" width="104" height="104" rx="12" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- Target Acquisition Reticle -->
+  <circle cx="60" cy="52" r="32" fill="#1c0a0a" stroke="#ef4444" stroke-width="1.5"/>
+  <circle cx="60" cy="52" r="22" fill="none" stroke="#ef4444" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- Reticle Corner Brackets -->
+  <path d="M 32 36 L 32 24 L 44 24" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <path d="M 88 36 L 88 24 L 76 24" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <path d="M 32 68 L 32 80 L 44 80" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <path d="M 88 68 L 88 80 L 76 80" fill="none" stroke="#f1df76" stroke-width="2"/>
+
+  <!-- Enemy Aberration Target Silhouette inside reticle -->
+  <circle cx="60" cy="46" r="8" fill="#ef4444"/>
+  <polygon points="52,54 68,54 74,72 46,72" fill="#ef4444"/>
+  <circle cx="60" cy="46" r="2" fill="#ffffff"/>
+
+  <!-- Label Banner -->
+  <rect x="14" y="98" width="92" height="14" rx="3" fill="#200a0a" stroke="#ef4444" stroke-width="1"/>
+  <text x="60" y="108.5" fill="#ef4444" font-family="monospace" font-size="7.5" font-weight="bold" text-anchor="middle">ENEMY BESTIARY</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="se14-gold-lg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef08a"/>
+      <stop offset="40%" stop-color="#eab308"/>
+      <stop offset="80%" stop-color="#854d0e"/>
+      <stop offset="100%" stop-color="#422006"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="500" fill="#0a0602"/>
+  <!-- Ancient Coin Frame (Identical to Icon) -->
+  <circle cx="250" cy="250" r="225" fill="#1f1406" stroke="url(#se14-gold-lg)" stroke-width="6"/>
+  <circle cx="250" cy="250" r="190" fill="#0d0802" stroke="#ca8a04" stroke-width="3"/>
+  <!-- Archival Coin Inscriptions -->
+  <rect x="225" y="65" width="50" height="25" fill="#eab308"/>
+  <rect x="225" y="410" width="50" height="25" fill="#eab308"/>
+  <!-- Vested Beast Jaw -->
+  <path d="M 120,180 Q 250,90 380,180 Q 400,280 380,340 Q 250,410 120,340 Z" fill="#18181b" stroke="#f1df76" stroke-width="5"/>
+  <!-- Gold Teeth -->
+  <polygon points="150,195 165,225 180,195" fill="#fef08a"/>
+  <polygon points="200,185 215,225 230,185" fill="#fef08a"/>
+  <polygon points="250,185 265,225 280,185" fill="#fef08a"/>
+  <polygon points="300,185 315,225 330,185" fill="#fef08a"/>
+  <polygon points="350,195 365,225 380,195" fill="#fef08a"/>
+  <!-- Swallowed Ledger -->
+  <polygon points="180,240 250,225 320,240 320,285 250,270 180,285" fill="#f8fafc" stroke="#94a3b8" stroke-width="3"/>
+  <line x1="250" y1="225" x2="250" y2="270" stroke="#ef4444" stroke-width="4"/>
+</svg>

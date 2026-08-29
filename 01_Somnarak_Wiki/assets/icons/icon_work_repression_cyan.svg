@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <polygon points="60,6 114,32 114,88 60,114 6,88 6,32" fill="#2d1c08" stroke="#f1df76" stroke-width="4"/>
+  <polygon points="60,14 104,36 104,84 60,106 16,84 16,36" fill="#130b02" stroke="#ef4444" stroke-width="2"/>
+  <!-- Heavy Iron Padlock & Restraint Shackle -->
+  <rect x="36" y="52" width="48" height="42" rx="6" fill="#3a2505" stroke="#f1df76" stroke-width="3.5"/>
+  <path d="M 46,52 L 46,36 C 46,24 74,24 74,36 L 74,52" fill="none" stroke="#f1df76" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="60" cy="70" r="6" fill="#ef4444"/>
+  <polygon points="58,70 62,70 64,84 56,84" fill="#ef4444"/>
+</svg>

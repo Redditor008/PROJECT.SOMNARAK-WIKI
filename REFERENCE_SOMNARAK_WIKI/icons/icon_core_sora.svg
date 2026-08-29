@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <radialGradient id="g_sora" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#431407"/>
+      <stop offset="70%" stop-color="#1c0702"/>
+      <stop offset="100%" stop-color="#050810"/>
+    </radialGradient>
+  </defs>
+  <rect width="120" height="120" rx="10" fill="url(#g_sora)" stroke="#fb923c" stroke-width="2.5"/>
+  <!-- Border Scout Night Scope & Crosshairs -->
+  <circle cx="60" cy="60" r="36" fill="none" stroke="#fb923c" stroke-width="2"/>
+  <circle cx="60" cy="60" r="22" fill="#1c0702" stroke="#f1df76" stroke-width="1.5" stroke-dasharray="6 3"/>
+  <line x1="18" y1="60" x2="102" y2="60" stroke="#fb923c" stroke-width="1.5"/>
+  <line x1="60" y1="18" x2="60" y2="102" stroke="#fb923c" stroke-width="1.5"/>
+  <circle cx="60" cy="60" r="5" fill="#ef5b55"/>
+</svg>

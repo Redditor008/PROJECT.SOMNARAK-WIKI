@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <radialGradient id="techGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#070a12" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect x="4" y="4" width="112" height="112" rx="16" fill="#070a12" stroke="#38bdf8" stroke-width="2.5"/>
+  <rect x="8" y="8" width="104" height="104" rx="12" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="60" cy="50" r="38" fill="url(#techGlow)"/>
+
+  <!-- Central Microchip Processor -->
+  <rect x="44" y="34" width="32" height="32" rx="4" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
+  <circle cx="60" cy="50" r="8" fill="#0284c7" stroke="#f1df76" stroke-width="1.5"/>
+
+  <!-- Radiating Printed Circuit Traces -->
+  <line x1="44" y1="42" x2="24" y2="42" stroke="#38bdf8" stroke-width="1.8"/>
+  <circle cx="24" cy="42" r="2.5" fill="#f1df76"/>
+
+  <line x1="44" y1="58" x2="24" y2="58" stroke="#38bdf8" stroke-width="1.8"/>
+  <circle cx="24" cy="58" r="2.5" fill="#f1df76"/>
+
+  <line x1="76" y1="42" x2="96" y2="42" stroke="#38bdf8" stroke-width="1.8"/>
+  <circle cx="96" cy="42" r="2.5" fill="#f1df76"/>
+
+  <line x1="76" y1="58" x2="96" y2="58" stroke="#38bdf8" stroke-width="1.8"/>
+  <circle cx="96" cy="58" r="2.5" fill="#f1df76"/>
+
+  <line x1="52" y1="34" x2="52" y2="18" stroke="#38bdf8" stroke-width="1.8"/>
+  <circle cx="52" cy="18" r="2.5" fill="#f1df76"/>
+
+  <line x1="68" y1="34" x2="68" y2="18" stroke="#38bdf8" stroke-width="1.8"/>
+  <circle cx="68" cy="18" r="2.5" fill="#f1df76"/>
+
+  <!-- Label Banner -->
+  <rect x="14" y="98" width="92" height="14" rx="3" fill="#0c192c" stroke="#38bdf8" stroke-width="1"/>
+  <text x="60" y="108.5" fill="#38bdf8" font-family="monospace" font-size="7.5" font-weight="bold" text-anchor="middle">FACTION TECH</text>
+</svg>

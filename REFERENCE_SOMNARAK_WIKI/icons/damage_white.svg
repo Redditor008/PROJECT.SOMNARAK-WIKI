@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <radialGradient id="lamentGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity="0.95"/>
+      <stop offset="60%" stop-color="#1e3a8a" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#081026" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <!-- Deep Blue Diamond Shield Frame -->
+  <polygon points="60,4 116,60 60,116 4,60" fill="url(#lamentGlow)" stroke="#3b82f6" stroke-width="4"/>
+  <polygon points="60,16 102,60 60,102 18,60" fill="#030b1e" stroke="#93c5fd" stroke-width="2"/>
+
+  <!-- Weeping Acoustic Eye & Deep Blue Harmonic Crystal -->
+  <path d="M 28,60 Q 60,24 92,60 Q 60,96 28,60 Z" fill="#1e40af" stroke="#60a5fa" stroke-width="3"/>
+  <circle cx="60" cy="60" r="18" fill="#1d4ed8" stroke="#ffffff" stroke-width="2.5"/>
+  <polygon points="60,46 70,60 60,74 50,60" fill="#ffffff"/>
+  <path d="M 60,74 L 60,98" stroke="#60a5fa" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,48 @@
+# M.A.W. SUIT — The Hourglass Mantle
+
+> *“The Mantle gives the wearer time to endure. The debt is that the borrowed time must come from somewhere.”*
+
+---
+
+**Document ID:** `SE-036-C`  
+**Linked Entity:** `SE-036` — The Cracked Hourglass  
+**Item Registry Code:** `MAW-S-036-01`  
+**Author:** Environmental Hazard Specialist Iseulfros Kim  
+**Date:** Year 4,238 — Dawn Initiative  
+**Classification:** Classified  
+**Codex Set Completion:** `4/4`
+
+| Element | Multiplier | Label |
+|---|---:|---|
+| Lament | 1.0 | Normal |
+| Grudge | 1.0 | Normal |
+| Void | 1.5 | Weak |
+| Weight | 0.5 | Endured |
+
+| Field | Record |
+|---|---|
+| Type | Armor — Hourglass mantle |
+| Grade | β — Moderate |
+| Maximum Amount | 4 — Stocked |
+| Echo Cost | 20 Sorrow Echoes |
+
+### Ability — Slow Interval
+
+Once per encounter, the Mantle slows the wearer’s perceived local time for up to five seconds, providing enough room to brace, retreat, or complete one deliberate action.
+
+**Limit:** The world does not stop. Allies and threats continue moving; the wearer only receives a clearer interval within the pressure.
+
+**Cost:** The wearer loses an equal amount of future subjective time as fatigue, blank rest, or accelerated ache.
+
+### History Record
+
+A Mantle bearer used Slow Interval to carry a wounded agent across a collapsing corridor. The bearer completed the route in apparent seconds and later aged visibly over the following week. Medical review found no measurable biological explanation.
+
+**Document ID:** `SE-036-C`  
+**Linked Entity:** `SE-036`  
+**Item Registry Code:** `MAW-S-036-01`  
+**Author:** Environmental Hazard Specialist Iseulfros Kim  
+**Date:** Year 4,238 — Dawn Initiative  
+**Classification:** Classified
+
+---

@@ -1,0 +1,641 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1250" width="100%" height="100%">
+  <defs>
+    <!-- Patterns -->
+    <pattern id="fac-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e293b" stroke-width="0.6" stroke-opacity="0.5"/>
+      <circle cx="30" cy="30" r="0.8" fill="#38bdf8" fill-opacity="0.2"/>
+    </pattern>
+    <pattern id="hazard-containment" width="16" height="16" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="8" height="16" fill="#ef4444" fill-opacity="0.3"/>
+      <rect x="8" y="0" width="8" height="16" fill="#18181b" fill-opacity="0.6"/>
+    </pattern>
+    <pattern id="hazard-border" width="16" height="16" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="8" height="16" fill="#0284c7" fill-opacity="0.3"/>
+      <rect x="8" y="0" width="8" height="16" fill="#18181b" fill-opacity="0.6"/>
+    </pattern>
+
+    <!-- Room Gradients -->
+    <linearGradient id="grad-f1-room" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#451a03"/>
+      <stop offset="100%" stop-color="#1e1305"/>
+    </linearGradient>
+    <linearGradient id="grad-f2-room" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#450a0a"/>
+      <stop offset="100%" stop-color="#180404"/>
+    </linearGradient>
+    <linearGradient id="grad-f3-room" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#172554"/>
+      <stop offset="100%" stop-color="#080f21"/>
+    </linearGradient>
+    <linearGradient id="grad-f8-room" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#090d15"/>
+    </linearGradient>
+    <linearGradient id="grad-f4-room" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b"/>
+      <stop offset="100%" stop-color="#021c15"/>
+    </linearGradient>
+    <linearGradient id="grad-f5-room" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c4a6e"/>
+      <stop offset="100%" stop-color="#031f30"/>
+    </linearGradient>
+    <linearGradient id="grad-f6-room" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b0764"/>
+      <stop offset="100%" stop-color="#170228"/>
+    </linearGradient>
+    <linearGradient id="grad-f7-room" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4c0519"/>
+      <stop offset="100%" stop-color="#1f0109"/>
+    </linearGradient>
+
+    <!-- Filters -->
+    <filter id="hand-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="hud-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.85"/>
+    </filter>
+  </defs>
+
+  <style>
+    .korean { font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', sans-serif; }
+    .mono { font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    .room-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 10.5px; font-weight: 900; fill: #ffffff; }
+    .room-sub { font-family: 'SF Mono', Consolas, monospace; font-size: 8px; fill: #94a3b8; }
+    .door { fill: #38bdf8; }
+    .elevator-shaft { stroke: #38bdf8; stroke-width: 3; stroke-dasharray: 6 4; }
+    .pipe-han { stroke: #a855f7; stroke-width: 2; fill: none; }
+  </style>
+
+  <!-- Deep Subterranean Rock Background -->
+  <rect width="100%" height="100%" fill="#06090e"/>
+  <rect width="100%" height="100%" fill="url(#fac-grid)"/>
+
+  <!-- ================= TOP TITLE BAR ================= -->
+  <g transform="translate(40, 25)">
+    <rect x="0" y="0" width="1720" height="50" fill="#0f172a" fill-opacity="0.95" rx="4" stroke="#1e293b" stroke-width="1.2"/>
+    <rect x="0" y="0" width="6" height="50" fill="#38bdf8" rx="2"/>
+    <text x="24" y="24" class="sans" font-size="16" font-weight="900" fill="#f8fafc">THE REVERIE DIRECTORATE // SUBTERRANEAN FACILITY MAP : THE HAND OF CHANGE (변화의 손)</text>
+    <text x="24" y="40" class="mono" font-size="10" fill="#64748b">ROOT OF THE ALPHA TREE &#x2022; FLOORS 1 THROUGH 8 ARCHITECTURAL CROSS-SECTION &#x2022; YEAR 4,238</text>
+
+    <g transform="translate(1320, 10)">
+      <rect x="0" y="0" width="120" height="28" fill="#1e293b" rx="3" stroke="#334155" stroke-width="0.8"/>
+      <text x="60" y="18" class="mono" font-size="9.5" font-weight="bold" fill="#38bdf8" text-anchor="middle">DEPTH: -2,000M</text>
+      <rect x="130" y="0" width="130" height="28" fill="#1e293b" rx="3" stroke="#334155" stroke-width="0.8"/>
+      <text x="195" y="18" class="mono" font-size="9.5" font-weight="bold" fill="#10b981" text-anchor="middle">&#x25CF; CONTAINMENT: LOCKED</text>
+      <rect x="270" y="0" width="120" height="28" fill="#450a0a" rx="3" stroke="#ef4444" stroke-width="1"/>
+      <text x="330" y="18" class="mono" font-size="9.5" font-weight="bold" fill="#fca5a5" text-anchor="middle">MAW ACTIVE</text>
+    </g>
+  </g>
+
+  <!-- ================= SUBTERRANEAN FACILITY BLUEPRINT (LEFT CANVAS) ================= -->
+  <g transform="translate(40, 95)" filter="url(#hud-shadow)">
+    <!-- Facility Outer Boundary / Rock Foundation -->
+    <rect x="0" y="0" width="1180" height="1100" fill="#0a0e17" fill-opacity="0.95" rx="6" stroke="#1e293b" stroke-width="2"/>
+    
+    <!-- Schematic Frame Header -->
+    <path d="M 0 6 Q 0 0 6 0 L 1174 0 Q 1180 0 1180 6 L 1180 34 L 0 34 Z" fill="#1e293b"/>
+    <text x="16" y="22" class="mono" font-size="11" font-weight="bold" fill="#38bdf8">&#x25A0; ARCHITECTURAL CUTAWAY // SECTORS A-01 TO E-01 &#x2022; NINE ECHO-CORES</text>
+
+    <!-- Ground Level / Surface Monolith -->
+    <g transform="translate(0, 35)">
+      <!-- Surface Ground Line -->
+      <line x1="0" y1="45" x2="1180" y2="45" stroke="#475569" stroke-width="2" stroke-dasharray="8 4"/>
+      <text x="30" y="38" class="mono" font-size="9" fill="#94a3b8">SURFACE LEVEL : ZONE A (0.00 M) &#x2022; BASE OF THE ALPHA TREE</text>
+      
+      <!-- Surface Spire & Ingress Gatehouse -->
+      <path d="M 500 15 L 680 15 L 660 45 L 520 45 Z" fill="#1e293b" stroke="#64748b" stroke-width="1.8"/>
+      <text x="590" y="35" class="sans" font-size="11" font-weight="900" fill="#f8fafc" text-anchor="middle">SURFACE MONOLITH &amp; INGRESS GATE</text>
+
+      <!-- Central Mag-Lift Elevator Shaft -->
+      <rect x="560" y="45" width="60" height="580" fill="#030712" stroke="#38bdf8" stroke-width="2"/>
+      <line x1="590" y1="45" x2="590" y2="625" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="6 6"/>
+      <!-- Elevator Carriages -->
+      <rect x="566" y="90" width="48" height="24" rx="2" fill="#0284c7" stroke="#38bdf8" stroke-width="1"/>
+      <rect x="566" y="270" width="48" height="24" rx="2" fill="#0284c7" stroke="#38bdf8" stroke-width="1"/>
+      <rect x="566" y="450" width="48" height="24" rx="2" fill="#0284c7" stroke="#38bdf8" stroke-width="1"/>
+
+      <!-- ================= FLOOR 1: NEUTRAL (중립) - TOP PALM TIER ================= -->
+      <!-- Depth: -50m to -150m -->
+      <g transform="translate(60, 60)">
+        <!-- Floor Header Plate -->
+        <rect x="0" y="0" width="1060" height="150" rx="6" fill="#120c04" stroke="#f59e0b" stroke-width="1.8"/>
+        <rect x="0" y="0" width="1060" height="24" fill="#78350f" rx="4"/>
+        <text x="16" y="16" class="sans" font-size="11" font-weight="900" fill="#fef08a">FLOOR 1: NEUTRAL (중립) // ZONE A CENTRAL SPIRE &amp; COMMON HALL</text>
+        <text x="850" y="16" class="mono" font-size="9" font-weight="bold" fill="#fde68a">LEAD: DIRECTOR MAJIN &amp; SECRETARY SEIYON</text>
+
+        <!-- Room 1.1: Director's Office -->
+        <g transform="translate(16, 34)">
+          <rect x="0" y="0" width="180" height="100" rx="4" fill="url(#grad-f1-room)" stroke="#f59e0b" stroke-width="1.2"/>
+          <text x="12" y="20" class="room-title">Director's Sanctum</text>
+          <text x="12" y="34" class="room-sub">Majin &#x2022; Decision Core</text>
+          <rect x="12" y="44" width="60" height="40" rx="2" fill="#2d1302" stroke="#92400e" stroke-width="0.8"/>
+          <text x="42" y="68" class="mono" font-size="7.5" fill="#fde68a" text-anchor="middle">DESK/TAP</text>
+          <rect x="80" y="44" width="88" height="40" rx="2" fill="#180404" stroke="#7f1d1d" stroke-width="0.8"/>
+          <text x="124" y="62" class="mono" font-size="7" fill="#fca5a5" text-anchor="middle">ABSOLVOHAN</text>
+          <text x="124" y="74" class="mono" font-size="7" fill="#fca5a5" text-anchor="middle">RESERVE TAP</text>
+        </g>
+
+        <!-- Room 1.2: Secretary's Coordination Station -->
+        <g transform="translate(206, 34)">
+          <rect x="0" y="0" width="160" height="100" rx="4" fill="url(#grad-f1-room)" stroke="#f59e0b" stroke-width="1.2"/>
+          <text x="12" y="20" class="room-title">Secretary's Station</text>
+          <text x="12" y="34" class="room-sub">Seiyon &#x2022; Multi-Array Comms</text>
+          <rect x="12" y="44" width="136" height="40" rx="2" fill="#2d1302" stroke="#92400e" stroke-width="0.8"/>
+          <text x="80" y="62" class="mono" font-size="7.5" fill="#fde68a" text-anchor="middle">1,778 CYCLE ARCHIVE</text>
+          <text x="80" y="74" class="mono" font-size="7" fill="#6ee7b7" text-anchor="middle">&#x25CF; ALL FEEDS ACTIVE</text>
+        </g>
+
+        <!-- Room 1.3: Central Common Hall & Briefing Podium (Center-Right of Shaft) -->
+        <g transform="translate(560, 34)">
+          <rect x="0" y="0" width="220" height="100" rx="4" fill="url(#grad-f1-room)" stroke="#f59e0b" stroke-width="1.2"/>
+          <text x="12" y="20" class="room-title">The Common Hall</text>
+          <text x="12" y="34" class="room-sub">Briefing Area &amp; Mess Lounge</text>
+          <rect x="12" y="44" width="196" height="40" rx="2" fill="#2d1302" stroke="#92400e" stroke-width="0.8"/>
+          <text x="110" y="68" class="sans" font-size="8.5" fill="#f8fafc" text-anchor="middle">CENTRAL GATHERING &amp; PODIUM</text>
+        </g>
+
+        <!-- Room 1.4: Infirmary & M.A.W. Armory -->
+        <g transform="translate(790, 34)">
+          <rect x="0" y="0" width="120" height="100" rx="4" fill="url(#grad-f1-room)" stroke="#f59e0b" stroke-width="1.2"/>
+          <text x="10" y="20" class="room-title">Central Infirmary</text>
+          <text x="10" y="34" class="room-sub">Fracture Treatment</text>
+          <rect x="10" y="44" width="100" height="40" rx="2" fill="#2d1302" stroke="#92400e" stroke-width="0.8"/>
+          <text x="60" y="68" class="mono" font-size="7.5" fill="#38bdf8" text-anchor="middle">HAN-CRYO PODS</text>
+        </g>
+        <g transform="translate(920, 34)">
+          <rect x="0" y="0" width="124" height="100" rx="4" fill="url(#grad-f1-room)" stroke="#f59e0b" stroke-width="1.2"/>
+          <text x="10" y="20" class="room-title">M.A.W. Armory</text>
+          <text x="10" y="34" class="room-sub">Suit Distribution</text>
+          <rect x="10" y="44" width="104" height="40" rx="2" fill="#2d1302" stroke="#92400e" stroke-width="0.8"/>
+          <text x="62" y="68" class="mono" font-size="7.5" fill="#fca5a5" text-anchor="middle">SUIT RACKS &#x03B1;-&#x03C9;</text>
+        </g>
+      </g>
+
+      <!-- ================= FLOOR 2: THE MAW'S KEEP (아가리의 요새) - MID PALM TIER ================= -->
+      <!-- Depth: -200m to -400m -->
+      <g transform="translate(60, 225)">
+        <rect x="0" y="0" width="1060" height="160" rx="6" fill="#140606" stroke="#ef4444" stroke-width="1.8"/>
+        <rect x="0" y="0" width="1060" height="24" fill="#7f1d1d" rx="4"/>
+        <text x="16" y="16" class="sans" font-size="11" font-weight="900" fill="#fca5a5">FLOOR 2: THE MAW'S KEEP (아가리의 요새) // ZONE B ENTITY CONTAINMENT SECTOR</text>
+        <text x="830" y="16" class="mono" font-size="9" font-weight="bold" fill="#fca5a5">LEAD: DEKAN (THE CONTAINMENT LEAD)</text>
+
+        <!-- Containment Cells (Cell 01, Cell 02, Cell 03) -->
+        <g transform="translate(16, 34)">
+          <!-- Cell 01 -->
+          <rect x="0" y="0" width="120" height="110" rx="3" fill="url(#grad-f2-room)" stroke="#ef4444" stroke-width="1.2"/>
+          <rect x="0" y="0" width="120" height="16" fill="url(#hazard-containment)"/>
+          <text x="10" y="32" class="room-title">CELL 01</text>
+          <text x="10" y="46" class="mono" font-size="7.5" fill="#f87171">Silent Child</text>
+          <rect x="10" y="54" width="100" height="46" rx="2" fill="#000000" stroke="#ef4444" stroke-width="0.8"/>
+          <circle cx="60" cy="77" r="10" fill="#1e1b4b" stroke="#818cf8" stroke-width="1"/>
+          <text x="60" y="80" class="mono" font-size="7" fill="#c7d2fe" text-anchor="middle">RANK I</text>
+        </g>
+
+        <g transform="translate(146, 34)">
+          <!-- Cell 02 -->
+          <rect x="0" y="0" width="120" height="110" rx="3" fill="url(#grad-f2-room)" stroke="#ef4444" stroke-width="1.2"/>
+          <rect x="0" y="0" width="120" height="16" fill="url(#hazard-containment)"/>
+          <text x="10" y="32" class="room-title">CELL 02</text>
+          <text x="10" y="46" class="mono" font-size="7.5" fill="#f87171">Three Birds</text>
+          <rect x="10" y="54" width="100" height="46" rx="2" fill="#000000" stroke="#ef4444" stroke-width="0.8"/>
+          <circle cx="60" cy="77" r="10" fill="#3b0764" stroke="#c084fc" stroke-width="1"/>
+          <text x="60" y="80" class="mono" font-size="7" fill="#e9d5ff" text-anchor="middle">RANK IV</text>
+        </g>
+
+        <g transform="translate(276, 34)">
+          <!-- Cell 03 -->
+          <rect x="0" y="0" width="120" height="110" rx="3" fill="url(#grad-f2-room)" stroke="#ef4444" stroke-width="1.2"/>
+          <rect x="0" y="0" width="120" height="16" fill="url(#hazard-containment)"/>
+          <text x="10" y="32" class="room-title">CELL 03</text>
+          <text x="10" y="46" class="mono" font-size="7.5" fill="#f87171">Smothering Mother</text>
+          <rect x="10" y="54" width="100" height="46" rx="2" fill="#000000" stroke="#ef4444" stroke-width="0.8"/>
+          <circle cx="60" cy="77" r="10" fill="#4c0519" stroke="#fb7185" stroke-width="1"/>
+          <text x="60" y="80" class="mono" font-size="7" fill="#fecdd3" text-anchor="middle">RANK III</text>
+        </g>
+
+        <!-- Breach Response Staging (Center-Right) -->
+        <g transform="translate(560, 34)">
+          <rect x="0" y="0" width="170" height="110" rx="4" fill="url(#grad-f2-room)" stroke="#ef4444" stroke-width="1.2"/>
+          <text x="10" y="20" class="room-title">Breach Response Staging</text>
+          <text x="10" y="34" class="room-sub">Dekan Suppression Armory</text>
+          <rect x="10" y="44" width="150" height="54" rx="2" fill="#2d0505" stroke="#991b1b" stroke-width="0.8"/>
+          <text x="85" y="68" class="mono" font-size="7.5" fill="#fca5a5" text-anchor="middle">RAPID SUPPRESSION SQUAD</text>
+          <text x="85" y="84" class="mono" font-size="7" fill="#10b981" text-anchor="middle">STATUS: READY / LOCKDOWN</text>
+        </g>
+
+        <!-- The Maw's Edge Observation Platform & Whispering Gallery -->
+        <g transform="translate(740, 34)">
+          <rect x="0" y="0" width="150" height="110" rx="4" fill="url(#grad-f2-room)" stroke="#ef4444" stroke-width="1.2"/>
+          <text x="10" y="20" class="room-title">The Maw's Edge</text>
+          <text x="10" y="34" class="room-sub">Armored Observation Glass</text>
+          <rect x="10" y="44" width="130" height="54" rx="2" fill="#064e3b" stroke="#10b981" stroke-width="0.8"/>
+          <text x="75" y="66" class="sans" font-size="8" font-weight="bold" fill="#a7f3d0" text-anchor="middle">MAW PERIMETER FEED</text>
+          <text x="75" y="82" class="mono" font-size="7" fill="#6ee7b7" text-anchor="middle">&#x25BC; DEEP LAMENT GAUGES</text>
+        </g>
+
+        <g transform="translate(900, 34)">
+          <rect x="0" y="0" width="144" height="110" rx="4" fill="url(#grad-f2-room)" stroke="#ef4444" stroke-width="1.2"/>
+          <text x="10" y="20" class="room-title">Whispering Gallery</text>
+          <text x="10" y="34" class="room-sub">Acoustic Containment</text>
+          <rect x="10" y="44" width="124" height="54" rx="2" fill="#2d0505" stroke="#991b1b" stroke-width="0.8"/>
+          <text x="72" y="74" class="mono" font-size="7.5" fill="#fca5a5" text-anchor="middle">ENTITY VOCAL LOGS</text>
+        </g>
+      </g>
+
+      <!-- ================= FLOOR 3: THE EXTRACTION HALL (추출의 전당) - BOT PALM TIER ================= -->
+      <!-- Depth: -400m to -600m -->
+      <g transform="translate(60, 400)">
+        <rect x="0" y="0" width="760" height="150" rx="6" fill="#080f21" stroke="#3b82f6" stroke-width="1.8"/>
+        <rect x="0" y="0" width="760" height="24" fill="#1e3a8a" rx="4"/>
+        <text x="16" y="16" class="sans" font-size="11" font-weight="900" fill="#bfdbfe">FLOOR 3: THE EXTRACTION HALL (추출의 전당) // ZONE C M.A.W. EXTRACTION NEXUS</text>
+        <text x="540" y="16" class="mono" font-size="9" font-weight="bold" fill="#bfdbfe">LEAD: ZYRAK (EXTRACTION)</text>
+
+        <!-- Extraction Rigs A & B -->
+        <g transform="translate(16, 34)">
+          <rect x="0" y="0" width="160" height="100" rx="4" fill="url(#grad-f3-room)" stroke="#3b82f6" stroke-width="1.2"/>
+          <text x="10" y="20" class="room-title">Extraction Chamber A</text>
+          <text x="10" y="34" class="room-sub">M.A.W. Primary Rig</text>
+          <rect x="10" y="44" width="140" height="44" rx="2" fill="#0f172a" stroke="#2563eb" stroke-width="0.8"/>
+          <circle cx="40" cy="66" r="12" fill="#1d4ed8" stroke="#60a5fa" stroke-width="1"/>
+          <text x="95" y="62" class="mono" font-size="7" fill="#93c5fd">RESONANCE RIG</text>
+          <text x="95" y="74" class="mono" font-size="7" fill="#60a5fa">HARVEST: 99.2%</text>
+        </g>
+
+        <g transform="translate(186, 34)">
+          <rect x="0" y="0" width="160" height="100" rx="4" fill="url(#grad-f3-room)" stroke="#3b82f6" stroke-width="1.2"/>
+          <text x="10" y="20" class="room-title">Extraction Chamber B</text>
+          <text x="10" y="34" class="room-sub">Refining &amp; Crystal Tap</text>
+          <rect x="10" y="44" width="140" height="44" rx="2" fill="#0f172a" stroke="#2563eb" stroke-width="0.8"/>
+          <circle cx="40" cy="66" r="12" fill="#1d4ed8" stroke="#60a5fa" stroke-width="1"/>
+          <text x="95" y="62" class="mono" font-size="7" fill="#93c5fd">CRYSTAL VAT</text>
+          <text x="95" y="74" class="mono" font-size="7" fill="#60a5fa">HAN PURITY: MAX</text>
+        </g>
+
+        <!-- M.A.W. Testing Grounds & Bonding Chamber (Right of Shaft) -->
+        <g transform="translate(560, 34)">
+          <rect x="0" y="0" width="184" height="100" rx="4" fill="url(#grad-f3-room)" stroke="#3b82f6" stroke-width="1.2"/>
+          <text x="10" y="20" class="room-title">Bonding &amp; Testing Range</text>
+          <text x="10" y="34" class="room-sub">User-Equipment Attunement</text>
+          <rect x="10" y="44" width="164" height="44" rx="2" fill="#0f172a" stroke="#2563eb" stroke-width="0.8"/>
+          <text x="92" y="62" class="mono" font-size="7.5" fill="#bfdbfe" text-anchor="middle">TEST RANGE / COMBAT SIM</text>
+          <text x="92" y="76" class="mono" font-size="7" fill="#60a5fa" text-anchor="middle">&#x03C9;-GRADE COMPATIBILITY</text>
+        </g>
+      </g>
+
+      <!-- ================= FLOOR 8: THE GATE WATCH (문 감시소) - LATERAL RIGHT OUTPOST ================= -->
+      <g transform="translate(840, 400)">
+        <rect x="0" y="0" width="280" height="150" rx="6" fill="#090d15" stroke="#94a3b8" stroke-width="1.8"/>
+        <rect x="0" y="0" width="280" height="24" fill="#334155" rx="4"/>
+        <text x="12" y="16" class="sans" font-size="11" font-weight="900" fill="#f1f5f9">FLOOR 8: GATE WATCH // ZONE E EGRESS</text>
+        
+        <!-- Gate Room -->
+        <g transform="translate(14, 34)">
+          <rect x="0" y="0" width="252" height="100" rx="4" fill="url(#grad-f8-room)" stroke="#64748b" stroke-width="1.2"/>
+          <text x="10" y="20" class="room-title">Gate Command &amp; Lockdown Post</text>
+          <text x="10" y="34" class="room-sub">Xyan &#x2022; Exile Watch &amp; Route Guide</text>
+          <rect x="10" y="44" width="232" height="44" rx="2" fill="#020617" stroke="#475569" stroke-width="0.8"/>
+          <text x="116" y="62" class="mono" font-size="7.5" fill="#cbd5e1" text-anchor="middle">DESOLATE TRANSIT AIRLOCK</text>
+          <text x="116" y="76" class="mono" font-size="7" fill="#94a3b8" text-anchor="middle">OUTER PERIMETER SENTRY ARRAY</text>
+        </g>
+      </g>
+
+      <!-- Lateral Transit Corridor to Floor 8 -->
+      <line x1="820" y1="475" x2="840" y2="475" stroke="#38bdf8" stroke-width="3"/>
+
+      <!-- ================= HORIZONTAL DISTRIBUTION BUS BAR ================= -->
+      <!-- Connects Palm bottom (-580m) to the 4 Deep Finger Wings -->
+      <g transform="translate(0, 570)">
+        <path d="M 140 0 L 1040 0" stroke="#38bdf8" stroke-width="4" stroke-linecap="round"/>
+        <!-- 4 Vertical Drops to Fingers -->
+        <line x1="140" y1="0" x2="140" y2="35" stroke="#38bdf8" stroke-width="3.5"/>
+        <line x1="440" y1="0" x2="440" y2="35" stroke="#38bdf8" stroke-width="3.5"/>
+        <line x1="740" y1="0" x2="740" y2="35" stroke="#38bdf8" stroke-width="3.5"/>
+        <line x1="1040" y1="0" x2="1040" y2="35" stroke="#38bdf8" stroke-width="3.5"/>
+        <text x="590" y="-8" class="mono" font-size="8.5" font-weight="bold" fill="#38bdf8" text-anchor="middle">MAIN TRANSIT BUS // DEEP SECTOR DISTRIBUTION</text>
+      </g>
+
+      <!-- ================= THE 4 DEEP FINGER WINGS (-600M TO -2000M) ================= -->
+      
+      <!-- FINGER 1: FLOOR 4 - THE INSIGHT FORGE (통찰의 대장간) -->
+      <g transform="translate(20, 605)">
+        <rect x="0" y="0" width="270" height="440" rx="6" fill="#021c15" stroke="#10b981" stroke-width="1.8"/>
+        <rect x="0" y="0" width="270" height="26" fill="#064e3b" rx="4"/>
+        <text x="10" y="17" class="sans" font-size="11" font-weight="900" fill="#a7f3d0">FLOOR 4: INSIGHT FORGE</text>
+        <text x="180" y="17" class="mono" font-size="8.5" font-weight="bold" fill="#6ee7b7">ZONE D</text>
+        <text x="10" y="40" class="mono" font-size="8" fill="#34d399">LEAD: AYSHUK (RESEARCH)</text>
+
+        <!-- Sub-rooms -->
+        <g transform="translate(10, 50)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f4-room)" stroke="#059669" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Han Physics Laboratory</text>
+          <text x="10" y="34" class="room-sub">Structural Grief Analysis</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="#01140e" stroke="#047857" stroke-width="0.8"/>
+          <text x="115" y="62" class="mono" font-size="7" fill="#6ee7b7" text-anchor="middle">QUANTUM GRIEF SPECTROMETRY</text>
+        </g>
+        <g transform="translate(10, 145)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f4-room)" stroke="#059669" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Resonance Tuning Array</text>
+          <text x="10" y="34" class="room-sub">Weaver Harmonics Chamber</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="#01140e" stroke="#047857" stroke-width="0.8"/>
+          <text x="115" y="62" class="mono" font-size="7" fill="#6ee7b7" text-anchor="middle">CRYSTAL HARMONIC MATRIX</text>
+        </g>
+        <g transform="translate(10, 240)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f4-room)" stroke="#059669" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Bio-Synthesis Loom</text>
+          <text x="10" y="34" class="room-sub">M.A.W. Material Weaving</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="#01140e" stroke="#047857" stroke-width="0.8"/>
+          <text x="115" y="62" class="mono" font-size="7" fill="#6ee7b7" text-anchor="middle">SYNTHETIC FIBER LOOMS</text>
+        </g>
+        <g transform="translate(10, 335)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f4-room)" stroke="#059669" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Sorrow Mapping Vault</text>
+          <text x="10" y="34" class="room-sub">City Han-Flow Topology</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="#01140e" stroke="#047857" stroke-width="0.8"/>
+          <text x="115" y="62" class="mono" font-size="7" fill="#6ee7b7" text-anchor="middle">REAL-TIME CITY SIMULATION</text>
+        </g>
+      </g>
+
+      <!-- FINGER 2: FLOOR 5 - THE BORDER WATCH (경계 감시소) -->
+      <g transform="translate(310, 605)">
+        <rect x="0" y="0" width="270" height="440" rx="6" fill="#031f30" stroke="#0284c7" stroke-width="1.8"/>
+        <rect x="0" y="0" width="270" height="26" fill="#0c4a6e" rx="4"/>
+        <text x="10" y="17" class="sans" font-size="11" font-weight="900" fill="#bae6fd">FLOOR 5: BORDER WATCH</text>
+        <text x="180" y="17" class="mono" font-size="8.5" font-weight="bold" fill="#7dd3fc">ZONE E</text>
+        <text x="10" y="40" class="mono" font-size="8" fill="#38bdf8">LEAD: MELLDA (BORDER LEAD)</text>
+
+        <!-- Sub-rooms -->
+        <g transform="translate(10, 50)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f5-room)" stroke="#0284c7" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Oehan Radar &amp; Sonar Array</text>
+          <text x="10" y="34" class="room-sub">Outside Sorrow Tracking</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="#02131e" stroke="#0369a1" stroke-width="0.8"/>
+          <text x="115" y="62" class="mono" font-size="7" fill="#7dd3fc" text-anchor="middle">LONG-RANGE DESOLATE RADAR</text>
+        </g>
+        <g transform="translate(10, 145)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f5-room)" stroke="#0284c7" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Warden Barracks &amp; Staging</text>
+          <text x="10" y="34" class="room-sub">Perimeter Defense Division</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="#02131e" stroke="#0369a1" stroke-width="0.8"/>
+          <text x="115" y="62" class="mono" font-size="7" fill="#7dd3fc" text-anchor="middle">500 WARDEN GARRISON</text>
+        </g>
+        <g transform="translate(10, 240)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f5-room)" stroke="#0284c7" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Desolate Gate Barrier</text>
+          <text x="10" y="34" class="room-sub">External Breach Isolation</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="url(#hazard-border)"/>
+          <text x="115" y="62" class="mono" font-size="7" font-weight="bold" fill="#ffffff" text-anchor="middle">HEAVY CONTAINMENT BULWARK</text>
+        </g>
+        <g transform="translate(10, 335)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f5-room)" stroke="#0284c7" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Weather of Sorrow Sentry</text>
+          <text x="10" y="34" class="room-sub">Atmospheric Sorrow Monitor</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="#02131e" stroke="#0369a1" stroke-width="0.8"/>
+          <text x="115" y="62" class="mono" font-size="7" fill="#7dd3fc" text-anchor="middle">EXTERNAL STORM GAUGES</text>
+        </g>
+      </g>
+
+      <!-- FINGER 3: FLOOR 6 - THE DEEP VAULT (심층 금고) -->
+      <g transform="translate(600, 605)">
+        <rect x="0" y="0" width="270" height="440" rx="6" fill="#170228" stroke="#8b5cf6" stroke-width="1.8"/>
+        <rect x="0" y="0" width="270" height="26" fill="#3b0764" rx="4"/>
+        <text x="10" y="17" class="sans" font-size="11" font-weight="900" fill="#ddd6fe">FLOOR 6: DEEP VAULT</text>
+        <text x="175" y="17" class="mono" font-size="8.5" font-weight="bold" fill="#c4b5fd">ZONE A DEEP</text>
+        <text x="10" y="40" class="mono" font-size="8" fill="#a78bfa">LEAD: MARJUK (ARCHIVE LEAD)</text>
+
+        <!-- Sub-rooms -->
+        <g transform="translate(10, 50)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f6-room)" stroke="#7c3aed" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Memory Wells</text>
+          <text x="10" y="34" class="room-sub">Crystallized Sorrow Archives</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="#0c0116" stroke="#581c87" stroke-width="0.8"/>
+          <text x="115" y="62" class="mono" font-size="7" fill="#c4b5fd" text-anchor="middle">SUBTERRANEAN MEMORY PODS</text>
+        </g>
+        <g transform="translate(10, 145)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f6-room)" stroke="#7c3aed" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Pre-Collapse Reliquary</text>
+          <text x="10" y="34" class="room-sub">Unidentified Ancient Relics</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="#0c0116" stroke="#581c87" stroke-width="0.8"/>
+          <text x="115" y="62" class="mono" font-size="7" fill="#c4b5fd" text-anchor="middle">STASIS PRESERVATION FIELDS</text>
+        </g>
+        <g transform="translate(10, 240)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f6-room)" stroke="#7c3aed" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Coded Sovereign Manifests</text>
+          <text x="10" y="34" class="room-sub">Classified Iteration Logs</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="#0c0116" stroke="#581c87" stroke-width="0.8"/>
+          <text x="115" y="62" class="mono" font-size="7" fill="#c4b5fd" text-anchor="middle">TOP SECRET ARCHIVE INDEX</text>
+        </g>
+        <g transform="translate(10, 335)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f6-room)" stroke="#7c3aed" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Abyssal Seal Chamber</text>
+          <text x="10" y="34" class="room-sub">The Final Door Containment</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="#0c0116" stroke="#581c87" stroke-width="0.8"/>
+          <text x="115" y="62" class="mono" font-size="7" font-weight="bold" fill="#ef4444" text-anchor="middle">&#x25A0; SEALED PER DIRECTOR ORDER</text>
+        </g>
+      </g>
+
+      <!-- FINGER 4: FLOOR 7 - THE SHADOW CORPS (그림자 군단) -->
+      <g transform="translate(890, 605)">
+        <rect x="0" y="0" width="270" height="440" rx="6" fill="#1f0109" stroke="#e11d48" stroke-width="1.8"/>
+        <rect x="0" y="0" width="270" height="26" fill="#4c0519" rx="4"/>
+        <text x="10" y="17" class="sans" font-size="11" font-weight="900" fill="#fecdd3">FLOOR 7: SHADOW CORPS</text>
+        <text x="180" y="17" class="mono" font-size="8.5" font-weight="bold" fill="#fda4af">MOBILE</text>
+        <text x="10" y="40" class="mono" font-size="8" fill="#fb7185">LEAD: ISHALL (THE OUTSIDER)</text>
+
+        <!-- Sub-rooms -->
+        <g transform="translate(10, 50)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f7-room)" stroke="#be123c" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Covert Infiltration Staging</text>
+          <text x="10" y="34" class="room-sub">Black Operations Bay</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="#120004" stroke="#881337" stroke-width="0.8"/>
+          <text x="115" y="62" class="mono" font-size="7" fill="#fda4af" text-anchor="middle">DEPLOYMENT PODS &amp; DROP SHAFTS</text>
+        </g>
+        <g transform="translate(10, 145)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f7-room)" stroke="#be123c" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Sovereign Strike Armory</text>
+          <text x="10" y="34" class="room-sub">Grade-&#x03C9; Specialized Loadouts</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="#120004" stroke="#881337" stroke-width="0.8"/>
+          <text x="115" y="62" class="mono" font-size="7" fill="#fda4af" text-anchor="middle">&#x03C9;-GRADE WEAPON CACHES</text>
+        </g>
+        <g transform="translate(10, 240)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f7-room)" stroke="#be123c" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Interrogation &amp; Extraction</text>
+          <text x="10" y="34" class="room-sub">Hostile Entity Containment</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="#120004" stroke="#881337" stroke-width="0.8"/>
+          <text x="115" y="62" class="mono" font-size="7" fill="#fda4af" text-anchor="middle">DIRECTORATE INTEL VAULTS</text>
+        </g>
+        <g transform="translate(10, 335)">
+          <rect x="0" y="0" width="250" height="85" rx="3" fill="url(#grad-f7-room)" stroke="#be123c" stroke-width="1"/>
+          <text x="10" y="20" class="room-title">Sovereign Suppression Team</text>
+          <text x="10" y="34" class="room-sub">Elite Suppression Division</text>
+          <rect x="10" y="42" width="230" height="34" rx="2" fill="#120004" stroke="#881337" stroke-width="0.8"/>
+          <text x="115" y="62" class="mono" font-size="7" fill="#fda4af" text-anchor="middle">ACTIVE DEPLOYMENT READY</text>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- ================= RIGHT SIDE: WIKI INFOBOX & ECHO-CORE DIRECTORY ================= -->
+  <g transform="translate(1260, 95)" filter="url(#hud-shadow)">
+    <rect x="0" y="0" width="500" height="1100" fill="#0f172a" fill-opacity="0.95" rx="6" stroke="#1e293b" stroke-width="1.5"/>
+    
+    <!-- Header -->
+    <path d="M 0 6 Q 0 0 6 0 L 494 0 Q 500 0 500 6 L 500 46 L 0 46 Z" fill="#1e293b"/>
+    <line x1="0" y1="46" x2="500" y2="46" stroke="#334155" stroke-width="1"/>
+    <rect x="16" y="13" width="8" height="20" fill="#38bdf8" rx="1"/>
+    <text x="34" y="28" class="sans" font-size="14" font-weight="900" fill="#f8fafc">THE REVERIE DIRECTORATE</text>
+    <text x="34" y="40" class="mono" font-size="8.5" fill="#94a3b8">NINE ECHO-CORES REGISTER // FACILITY DIRECTORY</text>
+
+    <!-- Entity Threat Classification Matrix -->
+    <g transform="translate(16, 58)">
+      <rect x="0" y="0" width="468" height="144" fill="#18181b" rx="4" stroke="#38bdf8" stroke-width="1"/>
+      <rect x="0" y="0" width="5" height="144" fill="#38bdf8" rx="1"/>
+      <text x="16" y="22" class="mono" font-size="11" font-weight="bold" fill="#38bdf8">&#x25A0; ENTITY RISK CLASSIFICATION (등급 체계)</text>
+      <line x1="16" y1="32" x2="452" y2="32" stroke="#27272a" stroke-width="1"/>
+
+      <!-- Ranks -->
+      <g transform="translate(16, 44)" class="sans" font-size="10.5">
+        <rect x="0" y="0" width="82" height="22" fill="#064e3b" rx="3"/><text x="41" y="15" fill="#a7f3d0" font-weight="bold" text-anchor="middle">I : WHISPER</text>
+        <rect x="88" y="0" width="82" height="22" fill="#0c4a6e" rx="3"/><text x="129" y="15" fill="#bae6fd" font-weight="bold" text-anchor="middle">II : MURMUR</text>
+        <rect x="176" y="0" width="84" height="22" fill="#78350f" rx="3"/><text x="218" y="15" fill="#fde68a" font-weight="bold" text-anchor="middle">III : FRAGMENT</text>
+        <rect x="266" y="0" width="80" height="22" fill="#881337" rx="3"/><text x="306" y="15" fill="#fecdd3" font-weight="bold" text-anchor="middle">IV : ENTITY</text>
+        <rect x="352" y="0" width="84" height="22" fill="#7f1d1d" rx="3"/><text x="394" y="15" fill="#fca5a5" font-weight="bold" text-anchor="middle">V : SOVEREIGN</text>
+      </g>
+
+      <!-- Han Damage Signatures -->
+      <text x="16" y="90" class="mono" font-size="9" font-weight="bold" fill="#94a3b8">HAN DAMAGE TYPE SIGNATURES:</text>
+      <g transform="translate(16, 100)" class="mono" font-size="8.5" font-weight="bold">
+        <rect x="0" y="0" width="102" height="20" fill="#7f1d1d" rx="2"/><text x="51" y="14" fill="#fca5a5" text-anchor="middle">GRUDGE (원한)</text>
+        <rect x="110" y="0" width="102" height="20" fill="#1e3a8a" rx="2"/><text x="161" y="14" fill="#bfdbfe" text-anchor="middle">LAMENT (비탄)</text>
+        <rect x="220" y="0" width="102" height="20" fill="#3b0764" rx="2"/><text x="271" y="14" fill="#ddd6fe" text-anchor="middle">WEIGHT (중압)</text>
+        <rect x="330" y="0" width="102" height="20" fill="#334155" rx="2"/><text x="381" y="14" fill="#f8fafc" text-anchor="middle">VOID (공허)</text>
+      </g>
+      <text x="16" y="134" class="mono" font-size="8.5" fill="#64748b">M.A.W. WEAR: GRADE &#x03B1; &#x2022; &#x03B2; &#x2022; &#x03B3; &#x2022; &#x03B4; &#x2022; &#x03C9; (OMEGA-FORGED)</text>
+    </g>
+
+    <!-- Echo-Core Personnel Roster -->
+    <g transform="translate(16, 214)">
+      <rect x="0" y="0" width="468" height="690" fill="#18181b" rx="4" stroke="#334155" stroke-width="1"/>
+      <rect x="0" y="0" width="5" height="690" fill="#f59e0b" rx="1"/>
+      <text x="16" y="24" class="sans" font-size="12" font-weight="900" fill="#f8fafc">THE NINE ECHO-CORES (핵심 관리관)</text>
+      <line x1="16" y1="34" x2="452" y2="34" stroke="#27272a" stroke-width="1"/>
+
+      <!-- Majin & Seiyon -->
+      <g transform="translate(16, 44)">
+        <circle cx="10" cy="12" r="6" fill="#f59e0b"/>
+        <text x="26" y="15" class="sans" font-size="12" font-weight="bold" fill="#fde68a">Floor 1 : Majin (The Director) &amp; Seiyon</text>
+        <text x="26" y="30" class="mono" font-size="9" fill="#94a3b8">Role: Supreme Authority &amp; The Secretary</text>
+        <text x="26" y="44" class="sans" font-size="10" fill="#cbd5e1">Carries the city's total sorrow weight and 1,778-cycle memory.</text>
+      </g>
+      <line x1="16" y1="98" x2="452" y2="98" stroke="#27272a" stroke-width="0.8"/>
+
+      <!-- Dekan -->
+      <g transform="translate(16, 108)">
+        <circle cx="10" cy="12" r="6" fill="#ef4444"/>
+        <text x="26" y="15" class="sans" font-size="12" font-weight="bold" fill="#fca5a5">Floor 2 : Dekan (The Containment Lead)</text>
+        <text x="26" y="30" class="mono" font-size="9" fill="#94a3b8">Zone B &#x2022; Sector B-01 (The Maw's Keep)</text>
+        <text x="26" y="44" class="sans" font-size="10" fill="#cbd5e1">Manages Sorrow Entities in the oldest, most wounded district.</text>
+      </g>
+      <line x1="16" y1="162" x2="452" y2="162" stroke="#27272a" stroke-width="0.8"/>
+
+      <!-- Zyrak -->
+      <g transform="translate(16, 172)">
+        <circle cx="10" cy="12" r="6" fill="#3b82f6"/>
+        <text x="26" y="15" class="sans" font-size="12" font-weight="bold" fill="#bfdbfe">Floor 3 : Zyrak (The Extraction Lead)</text>
+        <text x="26" y="30" class="mono" font-size="9" fill="#94a3b8">Zone C &#x2022; Sector C-01 (Extraction Hall)</text>
+        <text x="26" y="44" class="sans" font-size="10" fill="#cbd5e1">Extracts M.A.W. equipment and refines pure Han-crystals.</text>
+      </g>
+      <line x1="16" y1="226" x2="452" y2="226" stroke="#27272a" stroke-width="0.8"/>
+
+      <!-- Ayshuk -->
+      <g transform="translate(16, 236)">
+        <circle cx="10" cy="12" r="6" fill="#10b981"/>
+        <text x="26" y="15" class="sans" font-size="12" font-weight="bold" fill="#a7f3d0">Floor 4 : Ayshuk (The Research Lead)</text>
+        <text x="26" y="30" class="mono" font-size="9" fill="#94a3b8">Zone D &#x2022; Sector D-01 (Insight Forge)</text>
+        <text x="26" y="44" class="sans" font-size="10" fill="#cbd5e1">Studies Han physics, Weaver harmonics, and entity kinetics.</text>
+      </g>
+      <line x1="16" y1="290" x2="452" y2="290" stroke="#27272a" stroke-width="0.8"/>
+
+      <!-- Mellda -->
+      <g transform="translate(16, 300)">
+        <circle cx="10" cy="12" r="6" fill="#0284c7"/>
+        <text x="26" y="15" class="sans" font-size="12" font-weight="bold" fill="#bae6fd">Floor 5 : Mellda (The Border Lead)</text>
+        <text x="26" y="30" class="mono" font-size="9" fill="#94a3b8">Zone E &#x2022; Sector E-01 (Border Watch)</text>
+        <text x="26" y="44" class="sans" font-size="10" fill="#cbd5e1">Commands the Wardens defending against wild Outside Sorrow.</text>
+      </g>
+      <line x1="16" y1="354" x2="452" y2="354" stroke="#27272a" stroke-width="0.8"/>
+
+      <!-- Marjuk -->
+      <g transform="translate(16, 364)">
+        <circle cx="10" cy="12" r="6" fill="#8b5cf6"/>
+        <text x="26" y="15" class="sans" font-size="12" font-weight="bold" fill="#ddd6fe">Floor 6 : Marjuk (The Archive Lead)</text>
+        <text x="26" y="30" class="mono" font-size="9" fill="#94a3b8">Zone A Deep &#x2022; Subterranean (Deep Vault)</text>
+        <text x="26" y="44" class="sans" font-size="10" fill="#cbd5e1">Preserves pre-collapse relics, memory wells, and sealed doors.</text>
+      </g>
+      <line x1="16" y1="418" x2="452" y2="418" stroke="#27272a" stroke-width="0.8"/>
+
+      <!-- Ishall -->
+      <g transform="translate(16, 428)">
+        <circle cx="10" cy="12" r="6" fill="#e11d48"/>
+        <text x="26" y="15" class="sans" font-size="12" font-weight="bold" fill="#fecdd3">Floor 7 : Ishall (The Outsider)</text>
+        <text x="26" y="30" class="mono" font-size="9" fill="#94a3b8">Mobile &#x2022; Black Operations (Shadow Corps)</text>
+        <text x="26" y="44" class="sans" font-size="10" fill="#cbd5e1">Former Council operative; field strike team &amp; intelligence.</text>
+      </g>
+      <line x1="16" y1="482" x2="452" y2="482" stroke="#27272a" stroke-width="0.8"/>
+
+      <!-- Xyan -->
+      <g transform="translate(16, 492)">
+        <circle cx="10" cy="12" r="6" fill="#94a3b8"/>
+        <text x="26" y="15" class="sans" font-size="12" font-weight="bold" fill="#f1f5f9">Floor 8 : Xyan (The Exile)</text>
+        <text x="26" y="30" class="mono" font-size="9" fill="#94a3b8">Zone E / Desolate Gate (Gate Watch)</text>
+        <text x="26" y="44" class="sans" font-size="10" fill="#cbd5e1">Returned investigator, route guide, and Gate Watch commander.</text>
+      </g>
+      <line x1="16" y1="546" x2="452" y2="546" stroke="#27272a" stroke-width="0.8"/>
+
+      <!-- Directive Quote -->
+      <g transform="translate(16, 560)">
+        <rect x="0" y="0" width="436" height="110" fill="#090d16" rx="3" stroke="#334155" stroke-width="1"/>
+        <text x="12" y="20" class="mono" font-size="9.5" font-weight="bold" fill="#38bdf8">&#x25A0; DIRECTORATE OPERATIONAL MAXIM</text>
+        <text x="12" y="38" class="sans" font-size="10" fill="#94a3b8">"Nine people carry the weight of the city's sorrow.</text>
+        <text x="12" y="54" class="sans" font-size="10" fill="#94a3b8">What changes is whether they carry it alone."</text>
+        <text x="12" y="74" class="mono" font-size="8.5" fill="#f59e0b">&#x2014; YEAR 4,238 DAWN INITIATIVE REGISTER</text>
+      </g>
+    </g>
+
+    <!-- Wiki Footer Barcode -->
+    <g transform="translate(16, 915)">
+      <rect x="0" y="0" width="468" height="170" fill="#090d16" rx="4" stroke="#1e293b" stroke-width="1"/>
+      <text x="16" y="24" class="mono" font-size="11" font-weight="bold" fill="#38bdf8">&#x25A0; REVERIE BLUEPRINT // OFFICIAL WIKI ARCHIVE</text>
+      <line x1="16" y1="34" x2="452" y2="34" stroke="#27272a" stroke-width="1"/>
+      
+      <text x="16" y="54" class="mono" font-size="9" fill="#64748b">AUTHORITY: THE REVERIE DIRECTORATE (회상국)</text>
+      <text x="16" y="70" class="mono" font-size="9" fill="#64748b">LOCATION: BENEATH THE ALPHA TREE (-2,000M)</text>
+      <text x="16" y="86" class="mono" font-size="9" fill="#94a3b8">SERIAL CODE: RD-HAND-MAP-V4238-FINAL</text>
+
+      <g transform="translate(16, 105)">
+        <rect x="0" y="0" width="3" height="18" fill="#475569"/>
+        <rect x="5" y="0" width="2" height="18" fill="#475569"/>
+        <rect x="9" y="0" width="5" height="18" fill="#475569"/>
+        <rect x="16" y="0" width="2" height="18" fill="#475569"/>
+        <rect x="20" y="0" width="7" height="18" fill="#475569"/>
+        <rect x="29" y="0" width="3" height="18" fill="#475569"/>
+        <rect x="34" y="0" width="4" height="18" fill="#475569"/>
+        <rect x="40" y="0" width="2" height="18" fill="#475569"/>
+        <rect x="44" y="0" width="6" height="18" fill="#475569"/>
+        <rect x="52" y="0" width="3" height="18" fill="#475569"/>
+        <rect x="57" y="0" width="7" height="18" fill="#475569"/>
+        <text x="75" y="14" class="mono" font-size="9" fill="#475569">MAP-RD-THE-HAND-7019</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Corner Tech Brackets -->
+  <g stroke="#38bdf8" stroke-width="2" fill="none">
+    <path d="M 20 50 L 20 20 L 50 20"/>
+    <path d="M 1780 50 L 1780 20 L 1750 20"/>
+    <path d="M 20 1200 L 20 1230 L 50 1230"/>
+    <path d="M 1780 1200 L 1780 1230 L 1750 1230"/>
+  </g>
+</svg>

@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Somnarak City Master Cartography & Blueprint - Somnarak Official Wiki</title>
+  <link rel="stylesheet" href="../assets/css/wiki.css">
+</head>
+<body class="wiki-body map-viewer-page">
+<!-- Top Utility Navigation Bar -->
+<header class="utility">
+  <div class="utility-left">
+    <button aria-label="Open navigation" class="nav-open" type="button">☰</button>
+    <a class="utility-brand" href="../index.html">SOMNARAK.WIKI</a>
+    <span class="utility-era">YEAR 4,238 · DAWN INITIATIVE</span>
+  </div>
+  <nav aria-label="Main navigation">
+    <a href="../index.html">Main page</a>
+    <a href="../characters/index.html">Characters</a>
+    <a href="../lore/index.html">Lore</a>
+    <a href="../locations/index.html">Locations</a>
+    <a href="../factions/index.html">Factions</a>
+    <a href="../departments/index.html">Departments</a>
+    <a href="../entities/index.html">Sorrow Entities</a>
+    <a href="../maw/index.html">M.A.W.</a>
+    <a href="../mechanics/index.html">Mechanics</a>
+  </nav>
+  <div class="search">
+    <input aria-label="Search" data-index="../data/search.json" id="search" placeholder="Search archive..." autocomplete="off"/>
+    <div id="results"></div>
+  </div>
+</header>
+
+  <div class="wiki-shell map-shell">
+    <!-- Left Navigation Rail -->
+    <aside aria-label="Main navigation" class="left-rail">
+      <div class="branding">
+        <a class="brand-link" href="../index.html">
+          <img src="../assets/layout/hand/icons/icon_reverie_directorate_badge.svg" alt="Reverie Directorate Crest" class="brand-logo" width="110" height="110">
+          <span class="brand-title">SOMNARAK</span>
+          <span class="brand-subtitle">REVERIE DIRECTORATE ARCHIVE</span>
+        </a>
+      </div>
+      <div class="rail-group">
+        <div class="rail-header">DATABASE HUBS</div>
+        <ul class="rail-list">
+          <li><a href="../index.html">Main Terminal</a></li>
+          <li><a href="../locations/index.html">Atlas &amp; Locations</a></li>
+          <li><a href="../departments/index.html">Facility Departments</a></li>
+          <li><a href="../factions/index.html">Factions &amp; Guilds</a></li>
+          <li><a href="../lore/index.html">Lore &amp; Cosmology</a></li>
+        </ul>
+      </div>
+      <div class="rail-group">
+        <div class="rail-header">CARTOGRAPHY &amp; BLUEPRINTS</div>
+        <ul class="rail-list">
+          <li><a href="hand-of-change-map.html">Facility Cutaway Map</a></li>
+          <li><a href="somnarak-city-map.html" style="color:#f1df76; font-weight:bold;">City Master Blueprint</a></li>
+        </ul>
+      </div>
+    </aside>
+
+    <!-- Map Main Content -->
+    <main id="content" class="wiki-content">
+      <!-- Tactical Top Status HUD -->
+      <div class="tactical-hud-bar">
+        <div class="hud-item"><span class="led-dot led-green"></span> URBAN CARTOGRAPHY ONLINE</div>
+        <div class="hud-item"><span class="hud-label">METROPOLIS:</span> SOMNARAK ZONES A–E</div>
+        <div class="hud-item"><span class="hud-label">ATMOSPHERIC VEIL:</span> 99.4% STABLE</div>
+        <div class="hud-item"><span class="hud-label">PERIMETER:</span> 400M BULWARK ACTIVE</div>
+      </div>
+
+      <!-- Breadcrumbs -->
+      <nav class="breadcrumb-trail" aria-label="Breadcrumb">
+        <a href="../index.html">SOMNARAK ARCHIVE</a> &gt; 
+        <a href="../locations/index.html">LOCATIONS</a> &gt; 
+        <span>CITY MASTER BLUEPRINT</span>
+      </nav>
+
+      <!-- Panoramic Banner -->
+      <div class="category-panoramic-banner">
+        <img src="../assets/banners/banner_hero_somnarak_city.svg" alt="Somnarak City" class="panoramic-banner-img">
+      </div>
+
+      <!-- Interactive Cutaway District Switcher -->
+      <div class="map-sector-tabs">
+        <button class="sector-tab-btn active" data-target="master">MASTER BLUEPRINT</button>
+        <button class="sector-tab-btn" data-target="cut1">CUT 1: CORE &amp; WEST WARD (ZONE A &amp; B)</button>
+        <button class="sector-tab-btn" data-target="cut2">CUT 2: INDUSTRIAL EAST (ZONE C &amp; D)</button>
+        <button class="sector-tab-btn" data-target="cut3">CUT 3: PERIMETER &amp; WASTELAND (ZONE E)</button>
+        <button class="sector-tab-btn" data-target="cut4">CUT 4: THE WEEPING CANALS</button>
+      </div>
+
+      <!-- Interactive Map Viewer Canvas -->
+      <div class="map-viewer city" data-map-width="2400">
+        <div class="map-controls">
+          <strong>METROPOLITAN MASTER BLUEPRINT:</strong>
+          <button data-map-action="in" type="button">ZOOM IN (+)</button>
+          <button data-map-action="out" type="button">ZOOM OUT (−)</button>
+          <button data-map-action="fit" type="button">FIT SCREEN</button>
+          <button data-map-action="native" type="button">100% SCALE</button>
+          <output>100%</output>
+          <a class="jump-pill" href="../assets/layout/city/blueprints/SOMNARAK_CITY_LAYOUT.svg" download style="margin-left:auto;">DOWNLOAD SVG</a>
+        </div>
+        <div class="map-canvas">
+          <img id="city-map-img" src="../assets/layout/city/blueprints/SOMNARAK_CITY_LAYOUT.svg" alt="Somnarak City Master Blueprint">
+        </div>
+      </div>
+
+      <!-- District Information Card -->
+      <div id="district-info-box" class="wiki-section" style="margin-top:2rem;">
+        <div class="section-banner">
+          <h2 id="district-info-title">/// METROPOLITAN CARTOGRAPHY SPECIFICATIONS</h2>
+          <span id="district-info-tag" class="section-tag">ZONING ARCHITECTURE</span>
+        </div>
+        <p id="district-info-desc" class="section-desc">
+          Somnarak is structured into five concentric metropolitan zones enclosed by the 400-meter Perimeter Bulwark, centered upon the Directorate Spire and the subterranean roots of the Alpha Tree.
+        </p>
+      </div>
+
+      <!-- Zone Atlas Directory Cards -->
+      <div class="hub-grid-3" style="margin-top:2rem;">
+        <a href="../locations/zone-a-core-nexus.html" class="pm-entity-card" style="--card-border:#ef5b55;">
+          <h3 class="entity-card-name">ZONE A: CORE NEXUS</h3>
+          <p class="entity-card-desc">Directorate Spire // Alpha Tree Root Wells</p>
+          <span class="jump-btn">EXPLORE ZONE A →</span>
+        </a>
+        <a href="../locations/zone-b-west-ward.html" class="pm-entity-card" style="--card-border:#38bdf8;">
+          <h3 class="entity-card-name">ZONE B: WEST WARD</h3>
+          <p class="entity-card-desc">Residential Mega-Blocks // Veil Filtration Dome</p>
+          <span class="jump-btn">EXPLORE ZONE B →</span>
+        </a>
+        <a href="../locations/zone-c-collectors-row.html" class="pm-entity-card" style="--card-border:#10b981;">
+          <h3 class="entity-card-name">ZONE C: COLLECTOR'S ROW</h3>
+          <p class="entity-card-desc">Pre-Cataclysm Relic Bazaars // Scrap Foundries</p>
+          <span class="jump-btn">EXPLORE ZONE C →</span>
+        </a>
+        <a href="../locations/zone-d-forge-and-gardens.html" class="pm-entity-card" style="--card-border:#47c978;">
+          <h3 class="entity-card-name">ZONE D: FORGE &amp; GARDENS</h3>
+          <p class="entity-card-desc">Bio-Synthetic Greenhouses // Han Flora Cultivation</p>
+          <span class="jump-btn">EXPLORE ZONE D →</span>
+        </a>
+        <a href="../locations/zone-e-perimeter-bulwark.html" class="pm-entity-card" style="--card-border:#f59e0b;">
+          <h3 class="entity-card-name">ZONE E: PERIMETER BULWARK</h3>
+          <p class="entity-card-desc">400m Titanium Curtain Wall // Frontier Gates</p>
+          <span class="jump-btn">EXPLORE ZONE E →</span>
+        </a>
+        <a href="../locations/the-desolate.html" class="pm-entity-card" style="--card-border:#ef4444;">
+          <h3 class="entity-card-name">THE DESOLATE (황무지)</h3>
+          <p class="entity-card-desc">Radioactive Crystalline Wasteland // Distortions</p>
+          <span class="jump-btn">EXPLORE WASTELAND →</span>
+        </a>
+      </div>
+    </main>
+  </div>
+
+  <script src="../assets/js/wiki.js"></script>
+  <script>
+    // Modular City District Cut Switcher
+    const cityCuts = {
+      master: { src: '../assets/layout/city/blueprints/SOMNARAK_CITY_LAYOUT.svg', title: '/// MASTER CITY BLUEPRINT (ALL 5 ZONES)', tag: 'CONSOLIDATED METROPOLIS', desc: 'Master urban blueprint covering Zones A through E, the Alpha Tree Spire, and the outer radioactive Desolate frontier.' },
+      cut1: { src: '../assets/layout/city/blueprints/city_cut_1_core_and_west.svg', title: '/// CUT 01: METROPOLITAN CORE & WEST WARD', tag: 'ZONE A & ZONE B', desc: 'Central Directorate Command Spire, Alpha Tree Rootwells, and West Ward Residential Mega-Blocks beneath the atmospheric Veil dome.' },
+      cut2: { src: '../assets/layout/city/blueprints/city_cut_2_industrial_east.svg', title: '/// CUT 02: COLLECTOR'S ROW & FORGE GARDENS', tag: 'ZONE C & ZONE D', desc: 'Pre-Cataclysm Relic Bazaars, Doha's underground Han refineries, Bio-Synthetic Botanical Domes, and Han Flora research foundries.' },
+      cut3: { src: '../assets/layout/city/blueprints/city_cut_3_perimeter_frontier.svg', title: '/// CUT 03: PERIMETER BULWARK & THE DESOLATE', tag: 'ZONE E & WASTELAND', desc: '400-Meter Titanium Battlements, Watchtower 01, Gate of Sighs, Horizon Caravan Departure Trail, and Hollow Glass vitrified plain.' },
+      cut4: { src: '../assets/layout/city/blueprints/city_cut_4_subterranean_canals.svg', title: '/// CUT 04: THE WEEPING & SUB-RAIL GRID', tag: 'HYDROLOGY & UNDER-RAIL', desc: 'Subterranean effluent waterway network channeling liquefied Han remorse from Siphon Stations A-1, B-4, and C-8 into Facility 01.' }
+    };
+
+    document.querySelectorAll('.sector-tab-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.sector-tab-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const cutKey = btn.dataset.target;
+        const cut = cityCuts[cutKey];
+        if (cut) {
+          const img = document.getElementById('city-map-img');
+          img.src = cut.src;
+          document.getElementById('district-info-title').textContent = cut.title;
+          document.getElementById('district-info-tag').textContent = cut.tag;
+          document.getElementById('district-info-desc').textContent = cut.desc;
+        }
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <radialGradient id="dreamGlow" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#070a12" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect x="4" y="4" width="112" height="112" rx="16" fill="#070a12" stroke="#c084fc" stroke-width="2.5"/>
+  <rect x="8" y="8" width="104" height="104" rx="12" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="60" cy="52" r="38" fill="url(#dreamGlow)"/>
+
+  <!-- Crescent Dream Moon -->
+  <path d="M 72 26 A 14 14 0 1 0 84 48 A 12 12 0 1 1 72 26 Z" fill="#fef08a"/>
+
+  <!-- Floating Surrealist Rock Islands -->
+  <polygon points="34,60 62,60 52,74 40,70" fill="#1e1b4b" stroke="#c084fc" stroke-width="1.2"/>
+  <polygon points="64,48 88,48 80,62 70,58" fill="#1e1b4b" stroke="#38bdf8" stroke-width="1.2"/>
+
+  <!-- Crystalline Spire on Floating Rock -->
+  <polygon points="46,44 50,60 42,60" fill="#c084fc"/>
+  <polygon points="76,36 80,48 72,48" fill="#38bdf8"/>
+
+  <!-- Connecting Resonant Energy Bridge -->
+  <path d="M 48 58 Q 63 50 76 46" fill="none" stroke="#f1df76" stroke-width="1.2" stroke-dasharray="2,2"/>
+
+  <!-- Label Banner -->
+  <rect x="14" y="98" width="92" height="14" rx="3" fill="#1e102f" stroke="#c084fc" stroke-width="1"/>
+  <text x="60" y="108.5" fill="#e879f9" font-family="monospace" font-size="7.5" font-weight="bold" text-anchor="middle">DREAM REALM</text>
+</svg>

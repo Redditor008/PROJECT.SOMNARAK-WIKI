@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <linearGradient id="bgC1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040a14"/>
+      <stop offset="100%" stop-color="#020408"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bgC1)"/>
+  <rect x="40" y="30" width="1520" height="70" rx="6" fill="#081426" stroke="#ef5b55" stroke-width="2.5"/>
+  <text x="65" y="72" fill="#f1df76" font-family="Impact" font-size="28" letter-spacing="2">SOMNARAK URBAN ATLAS // CUT 01: METROPOLITAN CORE &amp; WEST WARD</text>
+  <text x="1530" y="72" fill="#ef5b55" font-family="monospace" font-size="14" font-weight="bold" text-anchor="end">[ ZONE A: CORE NEXUS &amp; ZONE B: WEST WARD ]</text>
+
+  <!-- ZONE A: CORE NEXUS -->
+  <rect x="40" y="130" width="740" height="730" rx="8" fill="#081020" stroke="#ef5b55" stroke-width="2"/>
+  <rect x="40" y="130" width="260" height="40" fill="#ef5b55"/>
+  <text x="55" y="156" fill="#ffffff" font-family="Impact" font-size="18">ZONE A: CORE NEXUS</text>
+  <text x="320" y="156" fill="#f1df76" font-family="monospace" font-size="13">SPIRE OF SIGHS // ALPHA TREE ROOTWELLS</text>
+
+  <circle cx="410" cy="460" r="180" fill="#ef5b55" fill-opacity="0.15" stroke="#f1df76" stroke-width="3"/>
+  <polygon points="410,310 440,540 380,540" fill="#0d1f38" stroke="#38bdf8" stroke-width="3"/>
+  <circle cx="410" cy="300" r="14" fill="#ef5b55"/>
+  <text x="410" y="600" fill="#f1df76" font-family="Impact" font-size="20" text-anchor="middle">DIRECTORATE COMMAND SPIRE</text>
+  <text x="410" y="630" fill="#cbd5e1" font-family="monospace" font-size="12" text-anchor="middle">ALPHA TREE ROOT CONDUITS // 100% HAN DENSITY</text>
+
+  <!-- ZONE B: WEST WARD -->
+  <rect x="820" y="130" width="740" height="730" rx="8" fill="#06121f" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="820" y="130" width="260" height="40" fill="#38bdf8"/>
+  <text x="835" y="156" fill="#000000" font-family="Impact" font-size="18">ZONE B: WEST WARD</text>
+  <text x="1100" y="156" fill="#38bdf8" font-family="monospace" font-size="13">RESIDENTIAL MEGA-BLOCKS // POP: 420,000</text>
+
+  <!-- Residential Blocks -->
+  <g fill="#0b1e33" stroke="#38bdf8" stroke-width="1.5">
+    <rect x="860" y="220" width="140" height="180" rx="4"/>
+    <rect x="1030" y="220" width="140" height="180" rx="4"/>
+    <rect x="1200" y="220" width="140" height="180" rx="4"/>
+    <rect x="1370" y="220" width="140" height="180" rx="4"/>
+
+    <rect x="860" y="440" width="140" height="180" rx="4"/>
+    <rect x="1030" y="440" width="140" height="180" rx="4"/>
+    <rect x="1200" y="440" width="140" height="180" rx="4"/>
+    <rect x="1370" y="440" width="140" height="180" rx="4"/>
+  </g>
+  <text x="1190" y="670" fill="#38bdf8" font-family="Impact" font-size="20" text-anchor="middle">ATMOSPHERIC VEIL FILTRATION DOME</text>
+  <text x="1190" y="700" fill="#cbd5e1" font-family="monospace" font-size="12" text-anchor="middle">CIVILIAN RATIONING TERMINALS &amp; MEMORY DISPENSARIES</text>
+</svg>

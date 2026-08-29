@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <rect x="4" y="4" width="112" height="112" rx="16" fill="#070a12" stroke="#38bdf8" stroke-width="2.5"/>
+  <rect x="8" y="8" width="104" height="104" rx="12" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+
+  <!-- Kinetic 9mm Pistol Silhouette -->
+  <path d="M 30 52 L 68 52 L 68 62 L 56 62 L 52 82 L 40 80 L 44 62 L 30 62 Z" fill="#1e293b" stroke="#38bdf8" stroke-width="1.8"/>
+  <line x1="30" y1="56" x2="68" y2="56" stroke="#0284c7" stroke-width="1"/>
+
+  <!-- Heavy Shock Baton -->
+  <line x1="86" y1="24" x2="54" y2="86" stroke="#f1df76" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="86" cy="24" r="4" fill="#ef4444"/>
+
+  <!-- Tactical Vest Badge -->
+  <circle cx="60" cy="36" r="8" fill="#0f172a" stroke="#38bdf8" stroke-width="1.5"/>
+  <polygon points="60,31 65,36 60,41 55,36" fill="#38bdf8"/>
+
+  <!-- Label Banner -->
+  <rect x="14" y="98" width="92" height="14" rx="3" fill="#0c192c" stroke="#38bdf8" stroke-width="1"/>
+  <text x="60" y="108.5" fill="#38bdf8" font-family="monospace" font-size="7.5" font-weight="bold" text-anchor="middle">STANDARD GEAR</text>
+</svg>

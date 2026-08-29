@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <polygon points="60,6 114,32 114,88 60,114 6,88 6,32" fill="#031526" stroke="#38bdf8" stroke-width="3.5"/>
+  <circle cx="60" cy="60" r="28" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="6 3"/>
+  <circle cx="60" cy="60" r="16" fill="#0c4a6e" stroke="#f1df76" stroke-width="1.5"/>
+  <circle cx="60" cy="60" r="6" fill="#ffffff"/>
+  <text x="60" y="104" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="7.5" font-weight="bold" text-anchor="middle">COHERENCE COUNTER</text>
+</svg>

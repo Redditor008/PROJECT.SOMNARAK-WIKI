@@ -1,0 +1,31 @@
+{
+  "result": "PASS",
+  "navigation_restructure": {
+    "individual_entity_sidebar_links": 0,
+    "codex_sidebar_links": 7,
+    "top_level_archive_links": 6
+  },
+  "sorrow_entity_home": {
+    "visible_words": 1223,
+    "sections": [
+      "Entity Codex",
+      "Formation, Suppression, and Return",
+      "Sorrow Entity World History",
+      "Entity Groups and Transformations",
+      "Sorrow Entity List"
+    ],
+    "published_entity_records": 10
+  },
+  "maw_codex": {
+    "visible_words": 682,
+    "published_item_histories": 27,
+    "set_directory": true
+  },
+  "visual_review": [
+    "Sorrow Entity Home 1600x1600",
+    "Sorrow Entity Home 390x1200"
+  ],
+  "broken_paths": 0,
+  "horizontal_overflow_failures": 0,
+  "unvetted_icons_deployed": 0
+}

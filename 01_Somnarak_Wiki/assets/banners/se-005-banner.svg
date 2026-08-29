@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bGrad_005" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#422006"/>
+      <stop offset="50%" stop-color="#1a0c02"/>
+      <stop offset="100%" stop-color="#050200"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" fill="url(#bGrad_005)"/>
+  <polygon points="20,20 1180,20 1180,380 20,380" fill="none" stroke="#f1df76" stroke-width="3"/>
+  
+  <g transform="translate(140, 50)">
+    <circle cx="140" cy="140" r="100" fill="none" stroke="#f1df76" stroke-width="2.5" stroke-dasharray="8 4"/>
+    <path d="M100,100 C100,50 180,50 180,100 C180,170 160,200 140,200 C120,200 100,170 100,100 Z" fill="#fffbeb" stroke="#f1df76" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(480, 70)">
+    <rect width="640" height="260" rx="6" fill="rgba(26, 12, 2, 0.9)" stroke="#f1df76" stroke-width="2"/>
+    <rect x="10" y="10" width="620" height="34" fill="#422006"/>
+    <text x="24" y="33" fill="#f1df76" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="bold">CONTAINMENT CHAMBER MK-05 // COHERENCE: 02</text>
+    <text x="24" y="80" fill="#ffffff" font-family="'JetBrains Mono', monospace" font-size="28" font-weight="bold">SE-005 — SMOTHERING CRADLE</text>
+    <text x="24" y="112" fill="#f1df76" font-family="'JetBrains Mono', monospace" font-size="15" font-weight="bold">SECC RANK: α (AETHER) · DAMAGE: LAMENT · YIELD: 12 PE</text>
+    <line x1="24" y1="128" x2="616" y2="128" stroke="#f1df76" stroke-width="1" stroke-dasharray="4 2"/>
+    <text x="24" y="160" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="14">Special Work: Communion (Docerehan 80%) | Danger: Asphyxiation Field</text>
+  </g>
+</svg>

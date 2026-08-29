@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <defs>
+    <radialGradient id="weepGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#070a12" stop-opacity="1"/>
+    </radialGradient>
+  </defs>
+  <rect x="4" y="4" width="112" height="112" rx="16" fill="#070a12" stroke="#06b6d4" stroke-width="2.5"/>
+  <rect x="8" y="8" width="104" height="104" rx="12" fill="none" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="60" cy="52" r="38" fill="url(#weepGlow)"/>
+
+  <!-- Cavern Tunnel Arch -->
+  <path d="M 24 86 Q 60 18 96 86 Z" fill="#0f172a" stroke="#0891b2" stroke-width="2"/>
+
+  <!-- Flowing Effluent River Wave Curves -->
+  <path d="M 28 78 Q 44 68 60 74 Q 76 80 92 72 L 92 86 L 28 86 Z" fill="#083344" stroke="#22d3ee" stroke-width="1.5"/>
+  <path d="M 32 64 Q 48 54 64 60 Q 80 66 88 58" fill="none" stroke="#67e8f9" stroke-width="2"/>
+  <path d="M 38 52 Q 52 44 68 50 Q 78 54 82 48" fill="none" stroke="#a5f3fc" stroke-width="1.5"/>
+
+  <!-- Toxic Vapor Bubbles -->
+  <circle cx="48" cy="42" r="3" fill="#22d3ee"/>
+  <circle cx="72" cy="38" r="2.5" fill="#67e8f9"/>
+  <circle cx="60" cy="32" r="2" fill="#cffafe"/>
+
+  <!-- Label Banner -->
+  <rect x="14" y="98" width="92" height="14" rx="3" fill="#082f49" stroke="#06b6d4" stroke-width="1"/>
+  <text x="60" y="108.5" fill="#22d3ee" font-family="monospace" font-size="7.5" font-weight="bold" text-anchor="middle">THE WEEPING</text>
+</svg>

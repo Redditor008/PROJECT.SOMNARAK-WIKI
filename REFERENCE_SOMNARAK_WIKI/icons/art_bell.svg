@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120">
+<rect width="200" height="120" fill="#0b0e16"/>
+<rect x="80" y="15" width="40" height="6" rx="2" fill="#2a3346"/>
+<path d="M75 21 L75 60 Q75 80 100 85 Q125 80 125 60 L125 21 Z" fill="#0f2a6e" opacity=".15" stroke="#1f5fae" stroke-width="2"/>
+<path d="M82 25 L82 58 Q82 75 100 79 Q118 75 118 58 L118 25 Z" fill="#0f2a6e" opacity=".08"/>
+<circle cx="100" cy="85" r="4" fill="#1f5fae" opacity=".6"/>
+<circle cx="100" cy="85" r="8" fill="none" stroke="#1f5fae" stroke-width="1" opacity=".3"/>
+<text x="100" y="105" font-size="9" fill="#2a4a6a" text-anchor="middle" font-family="sans-serif">THE ORPHANED BELL</text>
+</svg>

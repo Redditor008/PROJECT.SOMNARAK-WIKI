@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+  <polygon points="40,6 80,6 114,40 114,80 80,114 40,114 6,80 6,40" fill="#022c22" stroke="#10b981" stroke-width="4"/>
+  <polygon points="42,14 78,14 106,42 106,78 78,106 42,106 14,78 14,42" fill="#01140f" stroke="#71efaf" stroke-width="2"/>
+  <!-- Entwined Covenant Rings & Heart -->
+  <circle cx="48" cy="58" r="20" fill="none" stroke="#71efaf" stroke-width="4"/>
+  <circle cx="72" cy="58" r="20" fill="none" stroke="#f1df76" stroke-width="4"/>
+  <circle cx="60" cy="58" r="8" fill="#10b981" stroke="#ffffff" stroke-width="2"/>
+</svg>
