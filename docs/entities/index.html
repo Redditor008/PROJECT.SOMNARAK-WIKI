@@ -3,445 +3,381 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sorrow Entities Codex - Somnarak Official Wiki</title>
-  <link rel="stylesheet" href="../assets/css/wiki.css?v=20260830e">
-  <script defer src="../assets/js/wiki.js"></script>
+  <title>Sorrow Entities — Somnarak Wiki</title>
+  <meta name="description" content="Sorrow Entities (슬픔의 존재) are Han-born phenomena catalogued by the Reverie Directorate under SECC protocols inside Facility 01.">
+  <link rel="icon" type="image/svg+xml" href="../assets/icons/somnarak_icon.svg">
+  <link rel="stylesheet" href="../assets/css/wiki.css?v=20260830y">
 </head>
-<body class="wiki-body">
-<!-- Top Utility Navigation Bar -->
-<header class="utility">
-  <div class="utility-left">
-    <button aria-label="Open navigation" class="nav-open" type="button">☰</button>
-    <a class="utility-brand" href="../index.html">SOMNARAK.WIKI</a>
-    <span class="utility-era">YEAR 4,238 · DAWN INITIATIVE</span>
-  </div>
-  <nav aria-label="Main navigation">
-    <a href="../index.html">Main page</a>
-    <a href="../characters/index.html">Characters</a>
-    <a href="../lore/index.html">Lore</a>
-    <a href="../locations/index.html">Locations</a>
-    <a href="../factions/index.html">Factions</a>
-    <a href="../departments/index.html">Departments</a>
-    <a href="../entities/index.html" class="active">Sorrow Entities</a>
-    <a href="../maw/index.html">M.A.W.</a>
-    <a href="../mechanics/index.html">Mechanics</a>
-  </nav>
-  <div class="search">
-    <input aria-label="Search" data-index="../data/search.json" id="search" placeholder="Search archive..." autocomplete="off"/>
-    <div id="results"></div>
-  </div>
-</header>
+<body class="hub-page">
+  <header class="utility">
+    <div class="utility-left">
+      <button aria-label="Open navigation" class="nav-open" type="button">☰</button>
+      <a class="utility-brand" href="../index.html">SOMNARAK.WIKI</a>
+      <span class="utility-era">YEAR 4,238 · DAWN INITIATIVE</span>
+    </div>
+    <nav aria-label="Main navigation">
+      <a href="../index.html">Main page</a>
+      <a href="../characters/index.html">Characters</a>
+      <a href="../lore/index.html">Lore</a>
+      <a href="../locations/index.html">Atlas</a>
+      <a href="../factions/index.html">Factions</a>
+      <a href="../departments/index.html">Facility</a>
+      <a href="index.html" class="active">Entities</a>
+      <a href="../maw/index.html">M.A.W.</a>
+      <a href="../mechanics/index.html">Mechanics</a>
+    </nav>
+    <div class="search">
+      <input autocomplete="off" id="search" data-index="../data/search.json" placeholder="Search archive...">
+      <div id="results"></div>
+    </div>
+  </header>
 
-  <div class="wiki-shell">
-    <!-- Left Navigation Rail -->
-    <aside aria-label="Main navigation" class="left-rail">
-      <div class="branding">
-        <a class="brand-link" href="../index.html">
-          <img src="../assets/layout/hand/icons/icon_reverie_directorate_badge.svg" alt="Reverie Directorate Crest" class="brand-logo" width="110" height="110">
-          <span class="brand-title">SOMNARAK</span>
-          <span class="brand-subtitle">REVERIE DIRECTORATE ARCHIVE</span>
+  <div class="wiki-shell home-shell">
+    <aside class="left-rail">
+      <div class="site-mark">
+        <a href="../index.html">
+          <img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+          <b>SOMNARAK</b>
+          <span>OFFICIAL WIKI ARCHIVE</span>
         </a>
       </div>
-      
-      <div class="rail-group">
-        <div class="rail-header">DATABASE HUBS</div>
-        <ul class="rail-list">
-          <li><a href="../index.html">Main Terminal</a></li>
-          <li><a href="../characters/index.html">Characters &amp; Echo-Cores</a></li>
-          <li><a href="../lore/index.html">Lore &amp; Cosmology</a></li>
-          <li><a href="../locations/index.html">Atlas &amp; Locations</a></li>
-          <li><a href="../factions/index.html">Factions &amp; Guilds</a></li>
-          <li><a href="../departments/index.html">Facility Departments</a></li>
-          <li><a href="../entities/index.html" class="active">Sorrow Entities</a></li>
-          <li><a href="../maw/index.html">M.A.W. Armaments</a></li>
-          <li><a href="../mechanics/index.html">Systems &amp; Mechanics</a></li>
-        </ul>
-      </div>
-
-      <div class="rail-group">
-        <div class="rail-header">THE NINE ECHO-CORES</div>
-        <ul class="rail-list">
-          <li><a href="../characters/the-director-majin.html">Director Majin</a></li>
-          <li><a href="../characters/the-secretary-seiyon.html">Secretary Seiyon</a></li>
-          <li><a href="../characters/the-containment-lead-dekan.html">Containment: Dekan</a></li>
-          <li><a href="../characters/the-extraction-lead-zyrak.html">Extraction: Zyrak</a></li>
-          <li><a href="../characters/the-research-lead-ayshuk.html">Research: Ayshuk</a></li>
-          <li><a href="../characters/the-border-lead-mellda.html">Border: Mellda</a></li>
-          <li><a href="../characters/the-archive-lead-marjuk.html">Archive: Marjuk</a></li>
-          <li><a href="../characters/the-outsider-ishall.html">Outsider: Ishall</a></li>
-          <li><a href="../characters/the-exile-xyan.html">Exile: Xyan</a></li>
-        </ul>
-      </div>
-
-      <div class="rail-group">
-        <div class="rail-header">CARTOGRAPHY &amp; SCHEMATICS</div>
-        <ul class="rail-list">
-          <li><a href="../atlas/hand-of-change-map.html">Facility Cutaway Map</a></li>
-          <li><a href="../atlas/somnarak-city-map.html">City Master Blueprint</a></li>
-        </ul>
-      </div>
+      <nav aria-label="Wiki navigation" class="left-links">
+        <section>
+          <h2>DATABASE HUBS</h2>
+          <a href="../index.html">Main Overview</a>
+          <a href="index.html" class="active">Sorrow Entities</a>
+          <a href="../maw/index.html">M.A.W. Armory</a>
+          <a href="../characters/index.html">Echo-Cores &amp; Cast</a>
+          <a href="../departments/index.html">Hand of Change</a>
+          <a href="../factions/index.html">Factions &amp; Guilds</a>
+          <a href="../locations/index.html">Atlas &amp; Maps</a>
+          <a href="../lore/index.html">Lore &amp; Cosmology</a>
+          <a href="../mechanics/index.html">Battle Mechanics</a>
+        </section>
+        <section>
+          <h2>THE NINE ECHO-CORES</h2>
+          <a href="../characters/the-director-majin.html">Core 01: Majin</a>
+          <a href="../characters/the-secretary-seiyon.html">Core 02: Seiyon</a>
+          <a href="../characters/the-containment-lead-dekan.html">Core 03: Dekan</a>
+          <a href="../characters/the-extraction-lead-zyrak.html">Core 04: Zyrak</a>
+          <a href="../characters/the-research-lead-ayshuk.html">Core 05: Ayshuk</a>
+          <a href="../characters/the-border-lead-mellda.html">Core 06: Mellda</a>
+          <a href="../characters/the-archive-lead-marjuk.html">Core 07: Marjuk</a>
+          <a href="../characters/the-outsider-ishall.html">Core 08: Ishall</a>
+          <a href="../characters/the-exile-xyan.html">Core 09: Xyan</a>
+        </section>
+        <section>
+          <h2>ENTITY REGISTRY</h2>
+          <a href="index.html" class="active">Sorrow Entities</a>
+          <a href="list.html">List of Sorrow Entities</a>
+          <a href="../mechanics/secc-classification-system.html">SECC Codes</a>
+          <a href="../mechanics/han-energy-and-damage.html">Han Damage</a>
+          <a href="../maw/index.html">M.A.W. Yield</a>
+        </section>
+      </nav>
     </aside>
 
-    <!-- Main Content Area -->
-    <main id="content" class="wiki-content">
-      <!-- Tactical Top Status HUD -->
-      <div class="tactical-hud-bar">
-        <div class="hud-item"><span class="led-dot led-green"></span> ARCHIVE ONLINE</div>
-        <div class="hud-item"><span class="hud-label">CLEARANCE:</span> LEVEL 5 RESTRICTED</div>
-        <div class="hud-item"><span class="hud-label">DIRECTORY:</span> ENTITIES</div>
-        <div class="hud-item"><span class="hud-label">STABILITY:</span> 99.4% NOMINAL</div>
-      </div>
-
-      <!-- Breadcrumbs -->
-      <nav class="breadcrumb-trail" aria-label="Breadcrumb">
-        <a href="../index.html">SOMNARAK ARCHIVE</a> &gt; <span>SORROW ENTITIES</span>
+    <main class="main hub-main" id="content">
+      <nav class="abno-tabs" aria-label="Sorrow Entity pages">
+        <a class="abno-tab is-on" href="index.html">SORROW ENTITIES</a>
+        <a class="abno-tab" href="list.html">LIST OF SORROW ENTITIES</a>
       </nav>
 
-      <!-- Panoramic Hero Banner -->
-      <div class="category-panoramic-banner">
-        <img src="../assets/banners/banner_hero_entities.svg" alt="SORROW ENTITIES CODEX" class="panoramic-banner-img">
+      <p class="hub-kicker">From Somnarak Wiki</p>
+      <h1 class="hub-title">Sorrow Entities</h1>
+      <p class="hub-title-kr">슬픔의 존재 · SECC CONTAINMENT REGISTRY</p>
+
+      <div class="hub-lead-grid">
+        <div class="hub-lead-copy">
+          <blockquote class="hub-quote">
+            <p>“The toll is not asking to be stopped. It is asking whether anyone will remember why it began.”</p>
+            <cite>— <a href="se-001-the-orphaned-bell.html">The Orphaned Bell</a></cite>
+          </blockquote>
+          <p><strong>Sorrow Entities</strong> (슬픔의 존재, <em>Seulpeum-ui Jonjae</em>) are Han-born phenomena: grief, regret, and unresolved civic injury given body, object, or place. The Reverie Directorate catalogues each specimen with a <a href="../mechanics/secc-classification-system.html">Sorrow Entity Classification Code (SECC)</a> and contains the recoverable ones inside Facility 01, the Hand of Change.</p>
+          <p>They are the primary recurrent threats of containment work. Each entity has a different physiology, a preferred <a href="../mechanics/han-energy-and-damage.html">Han damage</a> color, and a work response to Viderehan, Flerehan, Pugnahan, and Ferrehan. Successful work yields <a href="../maw/index.html">M.A.W. equipment</a> — weapons, suits, and gifts crystallized from the same sorrow.</p>
+          <p>Uncontained cousins exist. <a href="../mechanics/the-four-ordeals.html">Ordeals</a> and <a href="../lore/night-hazards-and-vigil.html">Night Hazards</a> behave like Sorrow Entities but cannot be housed in a cell. <a href="../locations/the-maw.html">The Maw</a> is the only ω-grade phenomenon in the city, and it remains uncontained.</p>
+        </div>
+        <aside class="hub-infobox" aria-label="Sorrow Entities fact box">
+          <div class="hub-infobox-head">SORROW ENTITIES</div>
+          <img src="../assets/icons/icon_hub_entities.svg" alt="Sorrow Entities seal">
+          <table>
+            <tr><th>Korean</th><td>슬픔의 존재</td></tr>
+            <tr><th>Also</th><td>SE · Phenomena · SECC specimens</td></tr>
+            <tr><th>Source</th><td><a href="../lore/the-alpha-tree.html">The Weeping</a> (울음)</td></tr>
+            <tr><th>Rank</th><td>SECC α Minor → ω Catastrophic</td></tr>
+            <tr><th>Han</th><td>Lament · Grudge · Void · Weight</td></tr>
+            <tr><th>House</th><td>Facility 01 · 13 dossiers</td></tr>
+            <tr><th>Yield</th><td><a href="../maw/index.html">M.A.W. armory</a></td></tr>
+            <tr><th>Lead</th><td><a href="../characters/the-containment-lead-dekan.html">Dekan</a></td></tr>
+          </table>
+        </aside>
       </div>
 
-      <!-- Fast Jump Bar -->
-      <div class="fast-jump-nav">
-        <span class="fast-jump-title">/// DIRECT ACCESS:</span>
-        <div class="fast-jump-pills">
-          <a href="../entities/index.html" class="jump-pill active">Entities Codex</a>
-          <a href="../maw/index.html" class="jump-pill">M.A.W. Arsenal</a>
-          <a href="../characters/index.html" class="jump-pill">Echo-Cores &amp; Cast</a>
-          <a href="../departments/index.html" class="jump-pill">Facility Floors</a>
-          <a href="../lore/index.html" class="jump-pill">Lore Chronicles</a>
-          <a href="../locations/index.html" class="jump-pill">Metropolitan Atlas</a>
-          <a href="../factions/index.html" class="jump-pill">Factions &amp; Guilds</a>
-          <a href="../mechanics/index.html" class="jump-pill">Combat Systems</a>
-        </div>
-      </div>
+      <nav class="toc hub-toc" aria-label="Contents">
+        <div class="toc-title">Contents</div>
+        <ol>
+          <li><a href="#overview">Overview</a></li>
+          <li><a href="#behavior">Behavior</a>
+            <ol>
+              <li><a href="#work">Work types</a></li>
+              <li><a href="#pairs">Pairs and linked sets</a></li>
+            </ol>
+          </li>
+          <li><a href="#origin">Origin — The Weeping</a></li>
+          <li><a href="#classification">Classification Code (SECC)</a></li>
+          <li><a href="#han">Han damage</a></li>
+          <li><a href="#maw">M.A.W. equipment</a></li>
+          <li><a href="#related">Related phenomena</a></li>
+          <li><a href="#codex">Codex of thirteen</a></li>
+        </ol>
+      </nav>
 
-      <div class="wiki-section">
-        <div class="section-banner">
-          <h2>/// CANONICAL SORROW ENTITY CONTAINMENT DIRECTORY</h2>
-          <span class="section-tag">ALL 13 CANONICAL PHENOMENA &amp; REGISTRIES</span>
+      <section class="wiki-section hub-article" id="overview">
+        <h2 class="section-title">Overview</h2>
+        <p>Somnarak is built on unresolved sorrow. Buildings, law, and even the ground drink <strong>Han</strong> — the city’s name pairs Somnus (dream) with Narak (abyss). When that grief concentrates instead of dispersing, it crystallizes. The result is a Sorrow Entity: a concept with a will.</p>
+        <p>Physiology does not follow living anatomy. An entity may be a bell fused to its tower, a fog that erases destinations, a wall that stores testimony, or a walking memorial of crushed stone. Outward form is not a guarantee of a body that can be killed. Suppression returns the specimen to its cell; it does not end the sorrow that made it.</p>
+        <p>The Directorate treats the first formally catalogued specimen, <a href="se-001-the-orphaned-bell.html">SE-001 The Orphaned Bell</a>, as the pattern-setter: civic injury sank into the Weeping and returned as an object that forces the city to keep names it tried to forget.</p>
+      </section>
+
+      <section class="wiki-section hub-article" id="behavior">
+        <h2 class="section-title">Behavior</h2>
+        <p>Intelligent specimens can be spoken to. That is not the same as being safe. Each entity follows the logic of the grief it embodies. A handler who understands that logic can work it; a handler who offends it is injured or absorbed regardless of prior rapport. They do not learn the way people do. They repeat.</p>
+        <p>Because they cannot be erased, breach protocol is suppression and re-containment — not execution. Pugnahan (force) is often read as another attempt to silence the original wound, and it frequently raises the Sorrow Gauge instead of lowering it.</p>
+
+        <h3 id="work">Work types</h3>
+        <p>Agents enter the cell under one of four <a href="../mechanics/the-four-work-types.html">work types</a>. Response is unique per entity.</p>
+        <div class="hub-work-grid">
+          <article>
+            <img src="../assets/icons/viderehan.svg" alt="">
+            <b>Viderehan</b>
+            <small>Insight — observe, record, name</small>
+          </article>
+          <article>
+            <img src="../assets/icons/flerehan.svg" alt="">
+            <b>Flerehan</b>
+            <small>Attachment — remain, mourn, attend</small>
+          </article>
+          <article>
+            <img src="../assets/icons/pugnahan.svg" alt="">
+            <b>Pugnahan</b>
+            <small>Repression — force, silence, strike</small>
+          </article>
+          <article>
+            <img src="../assets/icons/ferrehan.svg" alt="">
+            <b>Ferrehan</b>
+            <small>Extraction — hold the post, draw Han</small>
+          </article>
         </div>
-        <p class="section-desc">
-          Sorrow Entities (슬픔의 존재) are metaphysical manifestations born of human grief, regret, and Han energy. Each entity is secured in dedicated containment sectors within Facility 01 (The Hand of Change) under strict SECC protocols.
+
+        <h3 id="pairs">Pairs and linked sets</h3>
+        <p>Some specimens share a wound. <a href="se-014-the-debt-eater.html">SE-014 The Debt Eater</a> and <a href="se-015-the-debt-scale.html">SE-015 The Debt Scale</a> both govern obligation. <a href="se-010-the-convergence.html">SE-010 The Convergence</a> is recorded as a fusion event, not a lone body. Housing an entire linked set in one wing is treated as a facility risk; cells are split across floors when the Archive allows it.</p>
+      </section>
+
+      <section class="wiki-section hub-article" id="origin">
+        <h2 class="section-title">Origin — The Weeping</h2>
+        <p>The source is the <strong>Weeping</strong> (울음, <em>Ul-eum</em>), the subterranean grief-well beneath the <a href="../lore/the-alpha-tree.html">Alpha Tree</a>. Unfinished searches, unpaid debts, and unnamed dead drain downward. What returns is not a ghost of one person. It is the pattern those people were forced to repeat.</p>
+        <p>Facility 01 sits on that well. Extraction Hall (Floor 3) draws Han; Maw’s Keep (Floor 2) holds the heavier cells; Deep Vault (Floor 6) stores specimens that should not see open corridors. The Directorate did not invent Sorrow Entities. It learned to house them, work them, and cut M.A.W. gear from the residue.</p>
+      </section>
+
+      <section class="wiki-section hub-article" id="classification">
+        <h2 class="section-title">Classification Code (SECC)</h2>
+        <p>Every specimen receives a unique code:</p>
+        <p class="hub-code-line"><code>[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]</code></p>
+        <p>Example: <code>C-IVδ-001 [LO]</code> — City origin, Entity coherence, Critical potency, register 001, Lament element, Object manifestation. Common name: The Orphaned Bell.</p>
+        <div class="table-wrap">
+          <table class="wiki-table hub-compact-table">
+            <thead>
+              <tr><th>Field</th><th>Values</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Origin</td><td><b>C</b> City (도한) · <b>O</b> Outside (외한) · <b>N</b> Inner (내한)</td></tr>
+              <tr><td>Coherence</td><td><b>I</b> Residue · <b>II</b> Echo · <b>III</b> Fragment · <b>IV</b> Entity · <b>V</b> Sovereign</td></tr>
+              <tr><td>Potency</td><td><b>α</b> Minor · <b>β</b> Moderate · <b>γ</b> Major · <b>δ</b> Critical · <b>ω</b> Catastrophic</td></tr>
+              <tr><td>Element</td><td><b>L</b> Lament · <b>G</b> Grudge · <b>V</b> Void · <b>W</b> Weight · <b>M</b> Mixed</td></tr>
+              <tr><td>Form</td><td><b>S</b> Subject · <b>O</b> Object · <b>P</b> Place · <b>T</b> Time · <b>H</b> Hybrid</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>Full tables live on the <a href="../mechanics/secc-classification-system.html">SECC classification</a> record. Tool-type specimens (SE-001, SE-015) can be worked as relics; Place-type specimens occupy the room itself.</p>
+      </section>
+
+      <section class="wiki-section hub-article" id="han">
+        <h2 class="section-title">Han damage</h2>
+        <p>Harm is not generic. Each entity strikes in one or more Han colors. Matching <a href="../maw/index.html">M.A.W. suits</a> are required before a work shift.</p>
+        <div class="hub-han-grid">
+          <a href="../mechanics/han-energy-and-damage.html">
+            <img src="../assets/icons/damage_lament.svg" alt="">
+            <b>Lament</b>
+            <small>Deep blue · SP / psyche</small>
+          </a>
+          <a href="../mechanics/han-energy-and-damage.html">
+            <img src="../assets/icons/damage_grudge.svg" alt="">
+            <b>Grudge</b>
+            <small>Crimson · HP / flesh</small>
+          </a>
+          <a href="../mechanics/han-energy-and-damage.html">
+            <img src="../assets/icons/damage_void.svg" alt="">
+            <b>Void</b>
+            <small>Pale white · max HP dissolve</small>
+          </a>
+          <a href="../mechanics/han-energy-and-damage.html">
+            <img src="../assets/icons/damage_weight.svg" alt="">
+            <b>Weight</b>
+            <small>Black · HP and SP together</small>
+          </a>
+        </div>
+      </section>
+
+      <section class="wiki-section hub-article" id="maw">
+        <h2 class="section-title">M.A.W. equipment</h2>
+        <p><strong>M.A.W.</strong> (Materialized Agony Weaponry) is the Directorate analog of extracted gear. A worked entity leaves a weapon, a suit, and a gift. Wearing another specimen’s sorrow without enough Resolve invites corrosion — the gift starts thinking in the agent’s place.</p>
+        <p>Registry: <a href="../maw/index.html">M.A.W. Armory</a>. Example yield from SE-001: <a href="../maw/maw-w-001-01-the-laments-requiem.html">Lament’s Requiem</a>, <a href="../maw/maw-s-001-01-the-laments-shroud.html">Lament Shroud</a>, <a href="../maw/maw-g-001-01-laments-edge.html">Lament’s Edge</a>.</p>
+      </section>
+
+      <section class="wiki-section hub-article" id="related">
+        <h2 class="section-title">Related phenomena</h2>
+        <ul class="hub-related">
+          <li><a href="../mechanics/the-four-ordeals.html">Ordeals</a> — event-form sorrow that cannot be boxed.</li>
+          <li><a href="../lore/night-hazards-and-vigil.html">Night Hazards</a> — after-hours manifestations on the city side.</li>
+          <li><a href="../locations/the-maw.html">The Maw</a> — <code>C-IVω-001 [GP]</code>, the only ω-grade, uncontained Place-Grudge.</li>
+          <li><a href="../mechanics/ordeals-framework.html">Sorrow Gauge / breach</a> — the meter that turns a cell into a corridor problem.</li>
+        </ul>
+      </section>
+
+      <section class="wiki-section hub-article" id="codex">
+        <h2 class="section-title">Codex of thirteen</h2>
+        <p>Thirteen contained dossiers are on the public Archive. Open the <a href="list.html">List of Sorrow Entities</a> for SECC, Han color, and M.A.W. yield in one table.</p>
+        <div class="entity-codex-grid">
+          <a class="entity-codex-tile" href="se-001-the-orphaned-bell.html" style="--tile:#38bdf8">
+            <span>SE-001 · δ CRITICAL</span>
+            <img src="../assets/art/entities/se-001-icon.svg" alt="">
+            <b>The Orphaned Bell</b>
+            <small>C-IVδ-001 [LO] · Lament Object</small>
+          </a>
+          <a class="entity-codex-tile" href="se-002-the-grieving-colossus.html" style="--tile:#94a3b8">
+            <span>SE-002 · δ CRITICAL</span>
+            <img src="../assets/art/entities/se-002-icon.svg" alt="">
+            <b>The Grieving Colossus</b>
+            <small>C-Vδ-002 [WS] · Weight Subject</small>
+          </a>
+          <a class="entity-codex-tile" href="se-003-the-wilderness-tide.html" style="--tile:#64748b">
+            <span>SE-003 · γ MAJOR</span>
+            <img src="../assets/art/entities/se-003-icon.svg" alt="">
+            <b>The Wilderness Tide</b>
+            <small>O-Vγ-003 [WP] · Weight Place</small>
+          </a>
+          <a class="entity-codex-tile" href="se-004-the-rust-bleeding-sentry.html" style="--tile:#e7edf2">
+            <span>SE-004 · γ MAJOR</span>
+            <img src="../assets/art/entities/se-004-icon.svg" alt="">
+            <b>The Rust-Bleeding Sentry</b>
+            <small>C-IIIγ-004 [VS] · Void Subject</small>
+          </a>
+          <a class="entity-codex-tile" href="se-005-the-smothering-mother.html" style="--tile:#ef5b55">
+            <span>SE-005 · δ CRITICAL</span>
+            <img src="../assets/art/entities/se-005-icon.svg" alt="">
+            <b>The Smothering Mother</b>
+            <small>N-IVδ-005 [GS] · Grudge Subject</small>
+          </a>
+          <a class="entity-codex-tile" href="se-006-the-siphon-leech.html" style="--tile:#e7edf2">
+            <span>SE-006 · β MODERATE</span>
+            <img src="../assets/art/entities/se-006-icon.svg" alt="">
+            <b>The Siphon Leech</b>
+            <small>C-IIβ-006 [VO] · Void Object</small>
+          </a>
+          <a class="entity-codex-tile" href="se-007-brume.html" style="--tile:#cbd5e1">
+            <span>SE-007 · γ MAJOR</span>
+            <img src="../assets/art/entities/se-007-icon.svg" alt="">
+            <b>Brume</b>
+            <small>O-IIγ-007 [VP] · Void Place</small>
+          </a>
+          <a class="entity-codex-tile" href="se-008-the-iron-maiden-of-regret.html" style="--tile:#f8fafc">
+            <span>SE-008 · δ CRITICAL</span>
+            <img src="../assets/art/entities/se-008-icon.svg" alt="">
+            <b>Iron Maiden of Regret</b>
+            <small>C-IVδ-008 [VS] · Void Subject</small>
+          </a>
+          <a class="entity-codex-tile" href="se-009-the-memory-weaver.html" style="--tile:#e7edf2">
+            <span>SE-009 · γ MAJOR</span>
+            <img src="../assets/art/entities/se-009-icon.svg" alt="">
+            <b>The Memory Weaver</b>
+            <small>C-IVγ-009 [VS] · Void Subject</small>
+          </a>
+          <a class="entity-codex-tile" href="se-010-the-convergence.html" style="--tile:#94a3b8">
+            <span>SE-010 · δ CRITICAL</span>
+            <img src="../assets/art/entities/se-010-icon.svg" alt="">
+            <b>The Convergence</b>
+            <small>C-Vδ-010 [WS] · Weight Subject</small>
+          </a>
+          <a class="entity-codex-tile" href="se-011-the-whispering-walls.html" style="--tile:#38bdf8">
+            <span>SE-011 · α MINOR</span>
+            <img src="../assets/art/entities/se-011-icon.svg" alt="">
+            <b>The Whispering Walls</b>
+            <small>C-Iα-011 [LP] · Lament Place</small>
+          </a>
+          <a class="entity-codex-tile" href="se-014-the-debt-eater.html" style="--tile:#f1df76">
+            <span>SE-014 · β MODERATE</span>
+            <img src="../assets/art/entities/se-014-icon.svg" alt="">
+            <b>The Debt Eater</b>
+            <small>C-IIIβ-014 [VS] · Void Subject</small>
+          </a>
+          <a class="entity-codex-tile" href="se-015-the-debt-scale.html" style="--tile:#f8fafc">
+            <span>SE-015 · β MODERATE</span>
+            <img src="../assets/art/entities/se-015-icon.svg" alt="">
+            <b>The Debt Scale</b>
+            <small>C-IIIβ-015 [VO] · Void Object</small>
+          </a>
+        </div>
+      </section>
+
+      <nav class="hub-navbox" aria-label="Sorrow Entities navigation">
+        <div class="hub-navbox-head">SORROW ENTITIES</div>
+        <p>
+          <a href="index.html">Sorrow Entities</a> ·
+          <a href="list.html">List of Sorrow Entities</a> ·
+          <a href="se-001-the-orphaned-bell.html">SE-001</a> ·
+          <a href="se-002-the-grieving-colossus.html">SE-002</a> ·
+          <a href="se-003-the-wilderness-tide.html">SE-003</a> ·
+          <a href="se-004-the-rust-bleeding-sentry.html">SE-004</a> ·
+          <a href="se-005-the-smothering-mother.html">SE-005</a> ·
+          <a href="se-006-the-siphon-leech.html">SE-006</a> ·
+          <a href="se-007-brume.html">SE-007</a> ·
+          <a href="se-008-the-iron-maiden-of-regret.html">SE-008</a> ·
+          <a href="se-009-the-memory-weaver.html">SE-009</a> ·
+          <a href="se-010-the-convergence.html">SE-010</a> ·
+          <a href="se-011-the-whispering-walls.html">SE-011</a> ·
+          <a href="se-014-the-debt-eater.html">SE-014</a> ·
+          <a href="se-015-the-debt-scale.html">SE-015</a>
         </p>
-
-        <div class="hub-grid-3">
-          <!-- SE-001 -->
-          <div class="pm-entity-card" style="border:2px solid #38bdf8; background:#040d18;">
-            <div class="entity-card-top">
-              <img src="../assets/art/entities/se-001-icon.svg" alt="SE-001" class="entity-card-icon">
-              <div class="entity-card-meta">
-                <span class="risk-badge risk-PHANTASM">δ (PHANTASM)</span>
-                <span class="damage-badge" style="border-color:#38bdf8; color:#38bdf8;">LAMENT DAMAGE</span>
-                <div style="font-size:0.75rem; color:#f1df76; font-family:'JetBrains Mono', monospace; margin-top:4px;">FLOOR 2 // MAW'S KEEP</div>
-              </div>
-            </div>
-            <h3 class="entity-card-name" style="color:#38bdf8;">SE-001: THE ORPHANED BELL</h3>
-            <div style="font-size:0.8rem; color:#64748b; font-family:'JetBrains Mono', monospace; margin-bottom:6px;">고아의 종</div>
-            <p class="entity-card-desc">"The bell tolls for children who will never grow old." In the flooded basements of the Old Sector, an ancient bronze bell hung suspended from fractured stone arches. It wept l...</p>
-            <div style="font-size:0.8rem; color:#94a3b8; font-family:'JetBrains Mono', monospace; margin-bottom:14px; display:flex; justify-content:space-between;">
-              <span><b>DAMAGE:</b> <span style="color:#38bdf8;">LAMENT</span></span>
-              <span><b>WORK:</b> Insight (65%)</span>
-            </div>
-            <div style="display:flex; gap:8px;">
-              <a href="se-001-the-orphaned-bell.html" class="jump-btn" style="flex:1; text-align:center;">FULL DOSSIER →</a>
-              <a href="../lore/entity-tales.html#se-001-tale" class="jump-btn" style="border-color:#f1df76; color:#f1df76;" title="Read Tale">이야기</a>
-            </div>
-          </div>
-
-          <!-- SE-002 -->
-          <div class="pm-entity-card" style="border:2px solid #ef5b55; background:#040d18;">
-            <div class="entity-card-top">
-              <img src="../assets/art/entities/se-002-icon.svg" alt="SE-002" class="entity-card-icon">
-              <div class="entity-card-meta">
-                <span class="risk-badge risk-PHANTASM">δ (PHANTASM)</span>
-                <span class="damage-badge" style="border-color:#ef5b55; color:#ef5b55;">GRUDGE DAMAGE</span>
-                <div style="font-size:0.75rem; color:#f1df76; font-family:'JetBrains Mono', monospace; margin-top:4px;">FLOOR 2 // MAW'S KEEP</div>
-              </div>
-            </div>
-            <h3 class="entity-card-name" style="color:#ef5b55;">SE-002: THE GRIEVING COLOSSUS</h3>
-            <div style="font-size:0.8rem; color:#64748b; font-family:'JetBrains Mono', monospace; margin-bottom:6px;">슬퍼하는 거상</div>
-            <p class="entity-card-desc">"It walks. It weeps. Where its tears fall, buildings grow." Constructed from the crushed basalt of the Cheonbulok foundation, the Colossus wanders subterranean containment shafts c...</p>
-            <div style="font-size:0.8rem; color:#94a3b8; font-family:'JetBrains Mono', monospace; margin-bottom:14px; display:flex; justify-content:space-between;">
-              <span><b>DAMAGE:</b> <span style="color:#ef5b55;">GRUDGE</span></span>
-              <span><b>WORK:</b> Subjugation (60%)</span>
-            </div>
-            <div style="display:flex; gap:8px;">
-              <a href="se-002-the-grieving-colossus.html" class="jump-btn" style="flex:1; text-align:center;">FULL DOSSIER →</a>
-              <a href="../lore/entity-tales.html#se-002-tale" class="jump-btn" style="border-color:#f1df76; color:#f1df76;" title="Read Tale">이야기</a>
-            </div>
-          </div>
-
-          <!-- SE-003 -->
-          <div class="pm-entity-card" style="border:2px solid #38bdf8; background:#040d18;">
-            <div class="entity-card-top">
-              <img src="../assets/art/entities/se-003-icon.svg" alt="SE-003" class="entity-card-icon">
-              <div class="entity-card-meta">
-                <span class="risk-badge risk-SOMNA">β (SOMNA)</span>
-                <span class="damage-badge" style="border-color:#38bdf8; color:#38bdf8;">LAMENT DAMAGE</span>
-                <div style="font-size:0.75rem; color:#f1df76; font-family:'JetBrains Mono', monospace; margin-top:4px;">FLOOR 3 // EXTRACTION HALL</div>
-              </div>
-            </div>
-            <h3 class="entity-card-name" style="color:#38bdf8;">SE-003: THE WILDERNESS TIDE</h3>
-            <div style="font-size:0.8rem; color:#64748b; font-family:'JetBrains Mono', monospace; margin-bottom:6px;">기억의 실 / 황야의 조수</div>
-            <p class="entity-card-desc">"It weaves your memories into webs." A floating, translucent spindle that spins gossamer threads from human nostalgia. Agents assigned to its chamber report ...</p>
-            <div style="font-size:0.8rem; color:#94a3b8; font-family:'JetBrains Mono', monospace; margin-bottom:14px; display:flex; justify-content:space-between;">
-              <span><b>DAMAGE:</b> <span style="color:#38bdf8;">LAMENT</span></span>
-              <span><b>WORK:</b> Communion (70%)</span>
-            </div>
-            <div style="display:flex; gap:8px;">
-              <a href="se-003-the-wilderness-tide.html" class="jump-btn" style="flex:1; text-align:center;">FULL DOSSIER →</a>
-              <a href="../lore/entity-tales.html#se-003-tale" class="jump-btn" style="border-color:#f1df76; color:#f1df76;" title="Read Tale">이야기</a>
-            </div>
-          </div>
-
-          <!-- SE-004 -->
-          <div class="pm-entity-card" style="border:2px solid #ef5b55; background:#040d18;">
-            <div class="entity-card-top">
-              <img src="../assets/art/entities/se-004-icon.svg" alt="SE-004" class="entity-card-icon">
-              <div class="entity-card-meta">
-                <span class="risk-badge risk-MORPHEAN">γ (MORPHEAN)</span>
-                <span class="damage-badge" style="border-color:#ef5b55; color:#ef5b55;">GRUDGE DAMAGE</span>
-                <div style="font-size:0.75rem; color:#f1df76; font-family:'JetBrains Mono', monospace; margin-top:4px;">FLOOR 5 // BORDER WATCH</div>
-              </div>
-            </div>
-            <h3 class="entity-card-name" style="color:#ef5b55;">SE-004: THE RUST-BLEEDING SENTRY</h3>
-            <div style="font-size:0.8rem; color:#64748b; font-family:'JetBrains Mono', monospace; margin-bottom:6px;">녹을 흘리는 보초</div>
-            <p class="entity-card-desc">"He stands at attention. Waiting in the iron rain." An ancient iron automaton garrisoned at the border gate of District 14 during the First Fracture. Its internal clockwork...</p>
-            <div style="font-size:0.8rem; color:#94a3b8; font-family:'JetBrains Mono', monospace; margin-bottom:14px; display:flex; justify-content:space-between;">
-              <span><b>DAMAGE:</b> <span style="color:#ef5b55;">GRUDGE</span></span>
-              <span><b>WORK:</b> Subjugation (65%)</span>
-            </div>
-            <div style="display:flex; gap:8px;">
-              <a href="se-004-the-rust-bleeding-sentry.html" class="jump-btn" style="flex:1; text-align:center;">FULL DOSSIER →</a>
-              <a href="../lore/entity-tales.html#se-004-tale" class="jump-btn" style="border-color:#f1df76; color:#f1df76;" title="Read Tale">이야기</a>
-            </div>
-          </div>
-
-          <!-- SE-005 -->
-          <div class="pm-entity-card" style="border:2px solid #38bdf8; background:#040d18;">
-            <div class="entity-card-top">
-              <img src="../assets/art/entities/se-005-icon.svg" alt="SE-005" class="entity-card-icon">
-              <div class="entity-card-meta">
-                <span class="risk-badge risk-AETHER">α (AETHER)</span>
-                <span class="damage-badge" style="border-color:#38bdf8; color:#38bdf8;">LAMENT DAMAGE</span>
-                <div style="font-size:0.75rem; color:#f1df76; font-family:'JetBrains Mono', monospace; margin-top:4px;">FLOOR 1 // NEUTRAL CORE</div>
-              </div>
-            </div>
-            <h3 class="entity-card-name" style="color:#38bdf8;">SE-005: THE SMOTHERING MOTHER</h3>
-            <div style="font-size:0.8rem; color:#64748b; font-family:'JetBrains Mono', monospace; margin-bottom:6px;">숨 막히는 어머니</div>
-            <p class="entity-card-desc">"She holds you so tight you cannot breathe." A towering porcelain maternal effigy entwined with heavy black velvet swaddling bands. It manifests the overwhelming, su...</p>
-            <div style="font-size:0.8rem; color:#94a3b8; font-family:'JetBrains Mono', monospace; margin-bottom:14px; display:flex; justify-content:space-between;">
-              <span><b>DAMAGE:</b> <span style="color:#38bdf8;">LAMENT</span></span>
-              <span><b>WORK:</b> Communion (80%)</span>
-            </div>
-            <div style="display:flex; gap:8px;">
-              <a href="se-005-the-smothering-mother.html" class="jump-btn" style="flex:1; text-align:center;">FULL DOSSIER →</a>
-              <a href="../lore/entity-tales.html#se-005-tale" class="jump-btn" style="border-color:#f1df76; color:#f1df76;" title="Read Tale">이야기</a>
-            </div>
-          </div>
-
-          <!-- SE-006 -->
-          <div class="pm-entity-card" style="border:2px solid #10b981; background:#040d18;">
-            <div class="entity-card-top">
-              <img src="../assets/art/entities/se-006-icon.svg" alt="SE-006" class="entity-card-icon">
-              <div class="entity-card-meta">
-                <span class="risk-badge risk-SOMNA">β (SOMNA)</span>
-                <span class="damage-badge" style="border-color:#10b981; color:#10b981;">WEIGHT DAMAGE</span>
-                <div style="font-size:0.75rem; color:#f1df76; font-family:'JetBrains Mono', monospace; margin-top:4px;">FLOOR 3 // EXTRACTION HALL</div>
-              </div>
-            </div>
-            <h3 class="entity-card-name" style="color:#10b981;">SE-006: THE SIPHON LEECH</h3>
-            <div style="font-size:0.8rem; color:#64748b; font-family:'JetBrains Mono', monospace; margin-bottom:6px;">착취하는 거머리</div>
-            <p class="entity-card-desc">"It drinks the dark effluent of forgotten sins." An amphibious segmented annelid organism extracted from the drainage flumes beneath Zone B. It feeds exclusively on the ...</p>
-            <div style="font-size:0.8rem; color:#94a3b8; font-family:'JetBrains Mono', monospace; margin-bottom:14px; display:flex; justify-content:space-between;">
-              <span><b>DAMAGE:</b> <span style="color:#10b981;">WEIGHT</span></span>
-              <span><b>WORK:</b> Siphon (70%)</span>
-            </div>
-            <div style="display:flex; gap:8px;">
-              <a href="se-006-the-siphon-leech.html" class="jump-btn" style="flex:1; text-align:center;">FULL DOSSIER →</a>
-              <a href="../lore/entity-tales.html#se-006-tale" class="jump-btn" style="border-color:#f1df76; color:#f1df76;" title="Read Tale">이야기</a>
-            </div>
-          </div>
-
-          <!-- SE-007 -->
-          <div class="pm-entity-card" style="border:2px solid #38bdf8; background:#040d18;">
-            <div class="entity-card-top">
-              <img src="../assets/art/entities/se-007-icon.svg" alt="SE-007" class="entity-card-icon">
-              <div class="entity-card-meta">
-                <span class="risk-badge risk-SOMNA">β (SOMNA)</span>
-                <span class="damage-badge" style="border-color:#38bdf8; color:#38bdf8;">LAMENT DAMAGE</span>
-                <div style="font-size:0.75rem; color:#f1df76; font-family:'JetBrains Mono', monospace; margin-top:4px;">FLOOR 6 // DEEP VAULT</div>
-              </div>
-            </div>
-            <h3 class="entity-card-name" style="color:#38bdf8;">SE-007: BRUME (THE ASHEN SCRIBE)</h3>
-            <div style="font-size:0.8rem; color:#64748b; font-family:'JetBrains Mono', monospace; margin-bottom:6px;">박무 (잿빛 필경사)</div>
-            <p class="entity-card-desc">"Writing names on basalt slates that turn to ash." A spectral cloaked figure drifting within a swirling cloud of fine gray particulate fog. It sits perpetually before a ba...</p>
-            <div style="font-size:0.8rem; color:#94a3b8; font-family:'JetBrains Mono', monospace; margin-bottom:14px; display:flex; justify-content:space-between;">
-              <span><b>DAMAGE:</b> <span style="color:#38bdf8;">LAMENT</span></span>
-              <span><b>WORK:</b> Insight (70%)</span>
-            </div>
-            <div style="display:flex; gap:8px;">
-              <a href="se-007-brume.html" class="jump-btn" style="flex:1; text-align:center;">FULL DOSSIER →</a>
-              <a href="../lore/entity-tales.html#se-007-tale" class="jump-btn" style="border-color:#f1df76; color:#f1df76;" title="Read Tale">이야기</a>
-            </div>
-          </div>
-
-          <!-- SE-008 -->
-          <div class="pm-entity-card" style="border:2px solid #ef4444; background:#040d18;">
-            <div class="entity-card-top">
-              <img src="../assets/art/entities/se-008-icon.svg" alt="SE-008" class="entity-card-icon">
-              <div class="entity-card-meta">
-                <span class="risk-badge risk-PHANTASM">δ (PHANTASM)</span>
-                <span class="damage-badge" style="border-color:#ef4444; color:#ef4444;">GRUDGE DAMAGE</span>
-                <div style="font-size:0.75rem; color:#f1df76; font-family:'JetBrains Mono', monospace; margin-top:4px;">FLOOR 6 // DEEP VAULT</div>
-              </div>
-            </div>
-            <h3 class="entity-card-name" style="color:#ef4444;">SE-008: THE IRON MAIDEN OF REGRET</h3>
-            <div style="font-size:0.8rem; color:#64748b; font-family:'JetBrains Mono', monospace; margin-bottom:6px;">후회의 철처녀</div>
-            <p class="entity-card-desc">"A hollow sarcophagus lined with weeping steel thorns." An ornate Victorian-style iron sarcophagus standing upright in a pool of blackened oil. Its interior is lined with hundr...</p>
-            <div style="font-size:0.8rem; color:#94a3b8; font-family:'JetBrains Mono', monospace; margin-bottom:14px; display:flex; justify-content:space-between;">
-              <span><b>DAMAGE:</b> <span style="color:#ef4444;">GRUDGE</span></span>
-              <span><b>WORK:</b> Subjugation (65%)</span>
-            </div>
-            <div style="display:flex; gap:8px;">
-              <a href="se-008-the-iron-maiden-of-regret.html" class="jump-btn" style="flex:1; text-align:center;">FULL DOSSIER →</a>
-              <a href="../lore/entity-tales.html#se-008-tale" class="jump-btn" style="border-color:#f1df76; color:#f1df76;" title="Read Tale">이야기</a>
-            </div>
-          </div>
-
-          <!-- SE-009 -->
-          <div class="pm-entity-card" style="border:2px solid #38bdf8; background:#040d18;">
-            <div class="entity-card-top">
-              <img src="../assets/art/entities/se-009-icon.svg" alt="SE-009" class="entity-card-icon">
-              <div class="entity-card-meta">
-                <span class="risk-badge risk-SOMNA">β (SOMNA)</span>
-                <span class="damage-badge" style="border-color:#38bdf8; color:#38bdf8;">LAMENT DAMAGE</span>
-                <div style="font-size:0.75rem; color:#f1df76; font-family:'JetBrains Mono', monospace; margin-top:4px;">FLOOR 4 // INSIGHT FORGE</div>
-              </div>
-            </div>
-            <h3 class="entity-card-name" style="color:#38bdf8;">SE-009: THE MEMORY WEAVER (DROWNED BELL)</h3>
-            <div style="font-size:0.8rem; color:#64748b; font-family:'JetBrains Mono', monospace; margin-bottom:6px;">기억의 방직자 (수몰된 종)</div>
-            <p class="entity-card-desc">"Submerged deep beneath the brine of drowned recollections." An aquatic bronze artifact submerged inside a massive pressure-sealed glass cylinder filled with heavy mineral brine. It...</p>
-            <div style="font-size:0.8rem; color:#94a3b8; font-family:'JetBrains Mono', monospace; margin-bottom:14px; display:flex; justify-content:space-between;">
-              <span><b>DAMAGE:</b> <span style="color:#38bdf8;">LAMENT</span></span>
-              <span><b>WORK:</b> Communion (70%)</span>
-            </div>
-            <div style="display:flex; gap:8px;">
-              <a href="se-009-the-memory-weaver.html" class="jump-btn" style="flex:1; text-align:center;">FULL DOSSIER →</a>
-              <a href="../lore/entity-tales.html#se-009-tale" class="jump-btn" style="border-color:#f1df76; color:#f1df76;" title="Read Tale">이야기</a>
-            </div>
-          </div>
-
-          <!-- SE-010 -->
-          <div class="pm-entity-card" style="border:2px solid #f8fafc; background:#040d18;">
-            <div class="entity-card-top">
-              <img src="../assets/art/entities/se-010-icon.svg" alt="SE-010" class="entity-card-icon">
-              <div class="entity-card-meta">
-                <span class="risk-badge risk-APOCRYPHA">ε (APOCRYPHA)</span>
-                <span class="damage-badge" style="border-color:#f8fafc; color:#f8fafc;">VOID DAMAGE</span>
-                <div style="font-size:0.75rem; color:#f1df76; font-family:'JetBrains Mono', monospace; margin-top:4px;">FLOOR 8 // GATE WATCH</div>
-              </div>
-            </div>
-            <h3 class="entity-card-name" style="color:#f8fafc;">SE-010: THE CONVERGENCE (THE ABSOLUTE VERDICT)</h3>
-            <div style="font-size:0.8rem; color:#64748b; font-family:'JetBrains Mono', monospace; margin-bottom:6px;">수렴 (절대 판결)</div>
-            <p class="entity-card-desc">"When the thousand eyes converge into the singular dawn." An apocalyptic orb of woven gravitational crowns and blinding white light hovering in the center of the Subterranean Sin...</p>
-            <div style="font-size:0.8rem; color:#94a3b8; font-family:'JetBrains Mono', monospace; margin-bottom:14px; display:flex; justify-content:space-between;">
-              <span><b>DAMAGE:</b> <span style="color:#f8fafc;">VOID</span></span>
-              <span><b>WORK:</b> Dissection (30%)</span>
-            </div>
-            <div style="display:flex; gap:8px;">
-              <a href="se-010-the-convergence.html" class="jump-btn" style="flex:1; text-align:center;">FULL DOSSIER →</a>
-              <a href="../lore/entity-tales.html#se-010-tale" class="jump-btn" style="border-color:#f1df76; color:#f1df76;" title="Read Tale">이야기</a>
-            </div>
-          </div>
-
-          <!-- SE-011 -->
-          <div class="pm-entity-card" style="border:2px solid #38bdf8; background:#040d18;">
-            <div class="entity-card-top">
-              <img src="../assets/art/entities/se-011-icon.svg" alt="SE-011" class="entity-card-icon">
-              <div class="entity-card-meta">
-                <span class="risk-badge risk-PHANTASM">δ (PHANTASM)</span>
-                <span class="damage-badge" style="border-color:#38bdf8; color:#38bdf8;">LAMENT DAMAGE</span>
-                <div style="font-size:0.75rem; color:#f1df76; font-family:'JetBrains Mono', monospace; margin-top:4px;">FLOOR 7 // SHADOW CORPS</div>
-              </div>
-            </div>
-            <h3 class="entity-card-name" style="color:#38bdf8;">SE-011: THE WHISPERING WALLS</h3>
-            <div style="font-size:0.8rem; color:#64748b; font-family:'JetBrains Mono', monospace; margin-bottom:6px;">속삭이는 벽</div>
-            <p class="entity-card-desc">"The labyrinth bulkheads whisper the names of those who entered." A labyrinthine living bulkhead made of soundproofed reinforced lead tiles embedded with thousands of relief-sculpted fac...</p>
-            <div style="font-size:0.8rem; color:#94a3b8; font-family:'JetBrains Mono', monospace; margin-bottom:14px; display:flex; justify-content:space-between;">
-              <span><b>DAMAGE:</b> <span style="color:#38bdf8;">LAMENT</span></span>
-              <span><b>WORK:</b> Insight (60%)</span>
-            </div>
-            <div style="display:flex; gap:8px;">
-              <a href="se-011-the-whispering-walls.html" class="jump-btn" style="flex:1; text-align:center;">FULL DOSSIER →</a>
-              <a href="../lore/entity-tales.html#se-011-tale" class="jump-btn" style="border-color:#f1df76; color:#f1df76;" title="Read Tale">이야기</a>
-            </div>
-          </div>
-
-          <!-- SE-014 -->
-          <div class="pm-entity-card" style="border:2px solid #f1df76; background:#040d18;">
-            <div class="entity-card-top">
-              <img src="../assets/art/entities/se-014-icon.svg" alt="SE-014" class="entity-card-icon">
-              <div class="entity-card-meta">
-                <span class="risk-badge risk-APOCRYPHA">ε (APOCRYPHA)</span>
-                <span class="damage-badge" style="border-color:#f1df76; color:#f1df76;">WEIGHT DAMAGE</span>
-                <div style="font-size:0.75rem; color:#f1df76; font-family:'JetBrains Mono', monospace; margin-top:4px;">FLOOR 6 // DEEP VAULT</div>
-              </div>
-            </div>
-            <h3 class="entity-card-name" style="color:#f1df76;">SE-014: THE DEBT EATER (HOLLOW DEBT EATER)</h3>
-            <div style="font-size:0.8rem; color:#64748b; font-family:'JetBrains Mono', monospace; margin-bottom:6px;">부채를 먹는 자 (공허한 채무 포식자)</div>
-            <p class="entity-card-desc">"It eats your debt. But it takes your feeling with it." A colossal vested ledger beast that devours contractual documents, financial IOUs, and emotional obligations. When it sw...</p>
-            <div style="font-size:0.8rem; color:#94a3b8; font-family:'JetBrains Mono', monospace; margin-bottom:14px; display:flex; justify-content:space-between;">
-              <span><b>DAMAGE:</b> <span style="color:#f1df76;">WEIGHT</span></span>
-              <span><b>WORK:</b> Dissection (40%)</span>
-            </div>
-            <div style="display:flex; gap:8px;">
-              <a href="se-014-the-debt-eater.html" class="jump-btn" style="flex:1; text-align:center;">FULL DOSSIER →</a>
-              <a href="../lore/entity-tales.html#se-014-tale" class="jump-btn" style="border-color:#f1df76; color:#f1df76;" title="Read Tale">이야기</a>
-            </div>
-          </div>
-
-          <!-- SE-015 -->
-          <div class="pm-entity-card" style="border:2px solid #f8fafc; background:#040d18;">
-            <div class="entity-card-top">
-              <img src="../assets/art/entities/se-015-icon.svg" alt="SE-015" class="entity-card-icon">
-              <div class="entity-card-meta">
-                <span class="risk-badge risk-APOCRYPHA">ε (APOCRYPHA)</span>
-                <span class="damage-badge" style="border-color:#f8fafc; color:#f8fafc;">VOID DAMAGE</span>
-                <div style="font-size:0.75rem; color:#f1df76; font-family:'JetBrains Mono', monospace; margin-top:4px;">FLOOR 8 // GATE WATCH</div>
-              </div>
-            </div>
-            <h3 class="entity-card-name" style="color:#f8fafc;">SE-015: THE DEBT SCALE (SOVEREIGN DEBT SCALE)</h3>
-            <div style="font-size:0.8rem; color:#64748b; font-family:'JetBrains Mono', monospace; margin-bottom:6px;">부채의 저울 (군주의 저울)</div>
-            <p class="entity-card-desc">"The cosmic fulcrum weighs remorse against lead slates." A cosmic equilibrium balance forged from iridescent sovereign glass and obsidian pendulums. It measures the moral and ps...</p>
-            <div style="font-size:0.8rem; color:#94a3b8; font-family:'JetBrains Mono', monospace; margin-bottom:14px; display:flex; justify-content:space-between;">
-              <span><b>DAMAGE:</b> <span style="color:#f8fafc;">VOID</span></span>
-              <span><b>WORK:</b> Dissection (35%)</span>
-            </div>
-            <div style="display:flex; gap:8px;">
-              <a href="se-015-the-debt-scale.html" class="jump-btn" style="flex:1; text-align:center;">FULL DOSSIER →</a>
-              <a href="../lore/entity-tales.html#se-015-tale" class="jump-btn" style="border-color:#f1df76; color:#f1df76;" title="Read Tale">이야기</a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Master Footer Navigation -->
-      <footer class="wiki-footer">
-        <div class="footer-grid">
-          <div>
-            <b>SOMNARAK ARCHIVAL DIRECTORY</b>
-            <p>Reverie Directorate Subterranean Complex // Facility 01 Hand of Change</p>
-          </div>
-          <div style="text-align: right;">
-            <b>AUTHORIZATION:</b> OVERSIGHT CLEARANCE TIER-5<br>
-            <span>CONFIDENTIAL ARCHIVAL SYSTEM</span>
-          </div>
-        </div>
-      </footer>
+      </nav>
     </main>
+
+    <aside aria-label="Hand of Change Department Console" class="floor-rail">
+      <h2>FACILITY 01</h2>
+      <a class="floor-button" href="../departments/floor-1-neutral-command.html" style="--floor:#f1df76"><span>NEUTRAL COMMAND<small>FLOOR 1 · MAJIN</small></span><img src="../assets/avatars/avatar_core_majin.svg" alt="Majin"></a>
+      <a class="floor-button" href="../departments/floor-2-maws-keep.html" style="--floor:#38bdf8"><span>MAW'S KEEP<small>FLOOR 2 · DEKAN</small></span><img src="../assets/avatars/avatar_core_dekan.svg" alt="Dekan"></a>
+      <a class="floor-button" href="../departments/floor-3-extraction-hall.html" style="--floor:#fb923c"><span>EXTRACTION HALL<small>FLOOR 3 · ZYRAK</small></span><img src="../assets/avatars/avatar_core_zyrak.svg" alt="Zyrak"></a>
+      <a class="floor-button" href="../departments/floor-4-insight-forge.html" style="--floor:#71efaf"><span>INSIGHT FORGE<small>FLOOR 4 · AYSHUK</small></span><img src="../assets/avatars/avatar_core_ayshuk.svg" alt="Ayshuk"></a>
+      <a class="floor-button" href="../departments/floor-5-border-watch.html" style="--floor:#e2e8f0"><span>BORDER WATCH<small>FLOOR 5 · MELLDA</small></span><img src="../assets/avatars/avatar_core_mellda.svg" alt="Mellda"></a>
+      <a class="floor-button" href="../departments/floor-6-deep-vault.html" style="--floor:#ef5b55"><span>DEEP VAULT<small>FLOOR 6 · MARJUK</small></span><img src="../assets/avatars/avatar_core_marjuk.svg" alt="Marjuk"></a>
+      <a class="floor-button" href="../departments/floor-7-shadow-corps.html" style="--floor:#c084fc"><span>SHADOW CORPS<small>FLOOR 7 · ISHALL</small></span><img src="../assets/avatars/avatar_core_ishall.svg" alt="Ishall"></a>
+      <a class="floor-button" href="../departments/floor-8-gate-watch.html" style="--floor:#f59e0b"><span>GATE WATCH<small>FLOOR 8 · XYAN</small></span><img src="../assets/avatars/avatar_core_xyan.svg" alt="Xyan"></a>
+      <a class="rail-action" href="../atlas/hand-of-change-map.html">FACILITY 01 MAP</a>
+      <a class="rail-action" href="list.html">ENTITY LIST</a>
+    </aside>
   </div>
+
+  <footer class="wiki-footer">
+    <div class="footer-grid">
+      <div>
+        <b>SOMNARAK ARCHIVAL INITIATIVE</b>
+        <p>Sorrow Entity registry of Facility 01. Maintained by the Reverie Directorate.</p>
+      </div>
+      <div style="text-align:right">
+        <b>FACILITY 01</b> · THE HAND OF CHANGE<br>
+        <span>SECC · 13 CONTAINED DOSSIERS</span>
+      </div>
+    </div>
+  </footer>
+  <script src="../assets/js/wiki.js"></script>
 </body>
 </html>

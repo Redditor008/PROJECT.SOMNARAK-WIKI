@@ -315,11 +315,18 @@
     "keywords": "Download Center & Archives — Somnarak Official Wiki Main Canon main /// ARCHIVE DOWNLOAD CENTER 01_SOMNARAK_WIKI.ZIP SOMNARAK_WIKI_ICONS.ZIP FACILITY_&_CITY_MAPS.ZIP FOR_WIKI_SOURCE_CORPUS.ZIP COMPARATIVE_WIKI_RESEARCH.ZIP"
   },
   {
-    "title": "Sorrow Entities Codex - Somnarak Official Wiki",
+    "title": "Sorrow Entities — Somnarak Wiki",
     "url": "entities/index.html",
     "category": "Sorrow Entities",
-    "description": "",
-    "keywords": "Sorrow Entities Codex - Somnarak Official Wiki Sorrow Entities entities /// CANONICAL SORROW ENTITY CONTAINMENT DIRECTORY SE-001: THE ORPHANED BELL SE-002: THE GRIEVING COLOSSUS SE-003: THE THREAD OF MEMORY SE-004: THE RUST-BLEEDING SENTRY SE-005: THE SMOTHERING MOTHER SE-006: THE SIPHON LEECH SE-007: BRUME (THE ASHEN SCRIBE) SE-008: THE IRON MAIDEN OF REGRET SE-009: THE MEMORY WEAVER (DROWNED BELL) SE-010: THE CONVERGENCE (THE ABSOLUTE VERDICT) SE-011: THE WHISPERING WALLS SE-014: THE DEBT EATER (HOLLOW DEBT EATER) SE-015: THE DEBT SCALE (SOVEREIGN DEBT SCALE)"
+    "description": "Han-born phenomena catalogued under SECC protocols inside Facility 01.",
+    "keywords": "Sorrow Entities 슬픔의 존재 SECC The Weeping Han M.A.W. Ordeals List of Sorrow Entities Viderehan Flerehan Pugnahan Ferrehan"
+  },
+  {
+    "title": "List of Sorrow Entities — Somnarak Wiki",
+    "url": "entities/list.html",
+    "category": "Sorrow Entities",
+    "description": "Registry table of the thirteen contained Sorrow Entities.",
+    "keywords": "List of Sorrow Entities SE-001 SECC Lament Grudge Void Weight M.A.W."
   },
   {
     "title": "SE-001 The Orphaned Bell — Acoustic Containment & Toll Logs — Somnarak Official Wiki",
