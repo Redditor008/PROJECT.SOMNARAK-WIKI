@@ -26,6 +26,4 @@
   <polygon points="42,28 46,38 38,38" fill="#c084fc"/>
   <polygon points="60,22 65,34 55,34" fill="#f1df76"/>
   <polygon points="78,28 82,38 74,38" fill="#c084fc"/>
-  
-  <text x="60" y="104" fill="#cbd5e1" font-family="'JetBrains Mono', monospace" font-size="8.5" font-weight="bold" text-anchor="middle">WEIGHT // DUAL</text>
 </svg>

@@ -8775,3 +8775,117 @@ body.hub-page .wiki-footer {
     grid-column: 1 / -1 !important;
   }
 }
+
+
+/* Entity hub: unique work seals, centered enlarged list portraits, coverage meter */
+body.hub-page .hub-coverage {
+  margin: 0 0 18px !important;
+  padding: 12px 14px !important;
+  border: 2px solid #f1df76 !important;
+  background: linear-gradient(135deg, #141207 0%, #08090d 100%) !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+}
+body.hub-page .hub-coverage b {
+  display: block !important;
+  color: #f1df76 !important;
+  font: 0.82rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.12em !important;
+  margin-bottom: 6px !important;
+}
+body.hub-page .hub-coverage p {
+  margin: 0 0 10px !important;
+  color: #e4dfb8 !important;
+  font-size: 0.9rem !important;
+  line-height: 1.5 !important;
+}
+body.hub-page .hub-coverage-bar {
+  height: 10px !important;
+  background: #0a0c10 !important;
+  border: 1px solid #3a2a1a !important;
+  overflow: hidden !important;
+}
+body.hub-page .hub-coverage-bar i {
+  display: block !important;
+  height: 100% !important;
+  background: linear-gradient(90deg, #ef5b55, #f1df76) !important;
+}
+body.hub-page .hub-coverage small {
+  display: block !important;
+  margin-top: 6px !important;
+  color: #38bdf8 !important;
+  font: 0.72rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.08em !important;
+}
+
+body.hub-page .hub-work-grid img,
+body.hub-page .hub-han-grid img {
+  width: 64px !important;
+  height: 64px !important;
+  min-width: 64px !important;
+  max-width: 64px !important;
+  display: block !important;
+  margin: 0 auto 8px !important;
+  object-fit: contain !important;
+}
+
+body.hub-page .entity-codex-tile img {
+  width: 96px !important;
+  height: 96px !important;
+  min-width: 96px !important;
+  max-width: 96px !important;
+  display: block !important;
+  margin: 8px auto !important;
+  object-fit: contain !important;
+}
+
+body.hub-page .entity-list-table .el-portrait {
+  text-align: center !important;
+  width: 96px !important;
+  padding: 10px 6px !important;
+  vertical-align: middle !important;
+}
+body.hub-page .entity-list-table .el-portrait a {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+body.hub-page .entity-list-table td img,
+body.hub-page .entity-list-table .el-portrait img {
+  width: 76px !important;
+  height: 76px !important;
+  min-width: 76px !important;
+  min-height: 76px !important;
+  max-width: 76px !important;
+  max-height: 76px !important;
+  display: block !important;
+  margin: 0 auto !important;
+  object-fit: contain !important;
+  object-position: center !important;
+  border: 2px solid #f1df76 !important;
+  background: #05070c !important;
+  padding: 3px !important;
+}
+body.hub-page .entity-list-table .el-han {
+  text-align: center !important;
+  white-space: normal !important;
+}
+body.hub-page .entity-list-table .el-han img {
+  width: 36px !important;
+  height: 36px !important;
+  min-width: 36px !important;
+  min-height: 36px !important;
+  max-width: 36px !important;
+  display: block !important;
+  margin: 0 auto 4px !important;
+  border: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+body.hub-page .hub-infobox > img {
+  width: 108px !important;
+  height: 108px !important;
+  display: block !important;
+  margin: 12px auto !important;
+}

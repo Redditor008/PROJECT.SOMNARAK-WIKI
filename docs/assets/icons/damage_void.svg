@@ -27,5 +27,4 @@
   <circle cx="82" cy="42" r="1.8" fill="#ffffff"/>
   <circle cx="36" cy="70" r="1.5" fill="#cbd5e1"/>
   <circle cx="80" cy="68" r="1.5" fill="#cbd5e1"/>
-  <text x="60" y="104" fill="#ffffff" font-family="'JetBrains Mono', monospace" font-size="8.5" font-weight="bold" text-anchor="middle">VOID // %HP</text>
 </svg>
