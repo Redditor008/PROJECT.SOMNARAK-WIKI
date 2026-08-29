@@ -20,7 +20,7 @@ Offline wiki archive (one file, overwritten on every wiki update):
 python3 REFERENCE_SOMNARAK_WIKI/tools/update_wiki_zip.py
 ```
 
-Output is always `01_Somnarak_Wiki/downloads/01_Somnarak_Wiki.zip` — never a new zip name.
+Output is always `01_Somnarak_Wiki.zip` at the repository root (outside `01_Somnarak_Wiki/` and `REFERENCE_SOMNARAK_WIKI/`) — never a new zip name.
 
 Current era in-canon: **Year 4,238 · Dawn Initiative** (post-1,778 Cycles).
 

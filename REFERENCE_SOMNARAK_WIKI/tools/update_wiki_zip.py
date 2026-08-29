@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Always overwrite the one 01_Somnarak_Wiki.zip after wiki updates.
 
-Canonical output (never a new filename):
-  01_Somnarak_Wiki/downloads/01_Somnarak_Wiki.zip
+Canonical output (never a new filename), outside both main folders:
+  01_Somnarak_Wiki.zip
+  (repo root — not inside 01_Somnarak_Wiki/ or REFERENCE_SOMNARAK_WIKI/)
 
 Excludes nested .zip files so the archive does not pack itself.
 """
@@ -15,7 +16,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
 WIKI = REPO / "01_Somnarak_Wiki"
-OUT = WIKI / "downloads" / "01_Somnarak_Wiki.zip"
+OUT = REPO / "01_Somnarak_Wiki.zip"
 ZIP_NAME = "01_Somnarak_Wiki.zip"
 
 
