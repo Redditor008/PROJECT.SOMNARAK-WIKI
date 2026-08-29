@@ -7699,3 +7699,188 @@ body.home-page .archive-portal small {
     grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
   }
 }
+
+
+/* Homepage remaining blocks: fit the center column like archives + right rail */
+body.home-page .utility,
+body.home-page .wiki-footer,
+body.home-page .footer-grid {
+  max-width: 100% !important;
+  min-width: 0 !important;
+  flex-wrap: wrap !important;
+  box-sizing: border-box !important;
+}
+
+body.home-page .pm-hero-container,
+body.home-page .pm-hero-main,
+body.home-page .pm-brand-row,
+body.home-page .pm-slogan-bar,
+body.home-page .pm-dispatch-banner,
+body.home-page .dispatch-header,
+body.home-page .dispatch-item,
+body.home-page .section-title-bar,
+body.home-page .spotlight-actions {
+  min-width: 0 !important;
+  max-width: 100% !important;
+  flex-wrap: wrap !important;
+  box-sizing: border-box !important;
+}
+
+body.home-page .pm-slogan-bar,
+body.home-page .pm-brand-text strong,
+body.home-page .pm-brand-text h1,
+body.home-page .section-lead-text {
+  white-space: normal !important;
+  overflow-wrap: anywhere !important;
+}
+
+body.home-page .pm-hero-main {
+  grid-template-columns: minmax(0, 1fr) !important;
+  min-height: 0 !important;
+  padding: 18px 16px 10px !important;
+}
+
+body.home-page .pm-brand-row img {
+  width: 72px !important;
+  height: 72px !important;
+  flex-shrink: 0 !important;
+}
+
+body.home-page .han-tile-grid,
+body.home-page .floor-summary-grid,
+body.home-page .dir-grid {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  gap: 8px !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+}
+
+body.home-page .han-tile,
+body.home-page .floor-summary-item,
+body.home-page .dir-box {
+  min-width: 0 !important;
+  max-width: 100% !important;
+  overflow: hidden !important;
+  box-sizing: border-box !important;
+  background: #0c1018 !important;
+  border: 1px solid #243b59 !important;
+}
+
+body.home-page .han-tile,
+body.home-page .floor-summary-item {
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px !important;
+  padding: 8px 10px !important;
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+body.home-page .han-tile img,
+body.home-page .floor-summary-item img {
+  width: 28px !important;
+  height: 28px !important;
+  min-width: 28px !important;
+  flex-shrink: 0 !important;
+  object-fit: contain !important;
+}
+
+body.home-page .floor-summary-item img {
+  border-radius: 50% !important;
+  border: 1.5px solid #38bdf8 !important;
+  background: #060d18 !important;
+}
+
+body.home-page .han-tile b,
+body.home-page .han-tile small,
+body.home-page .floor-summary-item span {
+  display: block !important;
+  min-width: 0 !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+}
+
+body.home-page .han-tile small {
+  color: #9aa08a !important;
+  font-size: 0.72rem !important;
+  font-weight: normal !important;
+}
+
+body.home-page .dir-box {
+  padding: 12px !important;
+}
+
+body.home-page .dir-box h3 {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  margin: 0 0 8px !important;
+  padding-bottom: 6px !important;
+  border-bottom: 1px solid #2a3a4e !important;
+  color: #f1df76 !important;
+  font-size: 0.9rem !important;
+}
+
+body.home-page .dir-box h3 img {
+  width: 22px !important;
+  height: 22px !important;
+  flex-shrink: 0 !important;
+}
+
+body.home-page .dir-box ul {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+body.home-page .dir-box li a {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+  padding: 4px 0 !important;
+  color: #d6d0a8 !important;
+  font-size: 0.84rem !important;
+}
+
+body.home-page .dir-box li img {
+  width: 20px !important;
+  height: 20px !important;
+  flex-shrink: 0 !important;
+  object-fit: contain !important;
+}
+
+body.home-page .dir-box li span {
+  min-width: 0 !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+}
+
+body.home-page .dir-entities { border-color: #ef5b55 !important; }
+body.home-page .dir-maw { border-color: #f1df76 !important; }
+body.home-page .dir-cast { border-color: #38bdf8 !important; }
+body.home-page .dir-lore { border-color: #71efaf !important; }
+
+body.home-page .left-rail {
+  overflow-x: hidden !important;
+}
+
+body.home-page .left-links a,
+body.home-page .left-links h2 {
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+  max-width: 100% !important;
+}
+
+body.home-page .wiki-footer {
+  width: min(1560px, calc(100% - 16px)) !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+  overflow: hidden !important;
+}
