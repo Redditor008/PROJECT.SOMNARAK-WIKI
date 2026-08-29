@@ -453,9 +453,16 @@
         const basePrefix = indexPath.replace(/data\/search\.json$/, '');
 
         const matches = searchDatabase.filter(item => {
-          const haystack = `${item.title} ${item.subtitle || ''} ${item.terms || ''}`.toLowerCase();
+          const haystack = [
+            item.title,
+            item.subtitle,
+            item.terms,
+            item.keywords,
+            item.description,
+            item.category
+          ].filter(Boolean).join(' ').toLowerCase();
           return haystack.includes(term);
-        }).slice(0, 10);
+        }).slice(0, 12);
 
         if (matches.length === 0) {
           searchResults.innerHTML = '<div class="search-no-result">No matching archives found</div>';
@@ -463,7 +470,7 @@
           searchResults.innerHTML = matches.map(item => `
             <a href="${basePrefix}${item.url}">
               <b>${esc(item.title)}</b>
-              <small>${esc(item.subtitle || 'Article Archive')}</small>
+              <small>${esc(item.category || item.subtitle || 'Article Archive')}</small>
             </a>
           `).join('');
         }
