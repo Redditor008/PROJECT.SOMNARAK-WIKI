@@ -3,7 +3,7 @@
 
 Canonical output (never a new filename), outside both main folders:
   01_Somnarak_Wiki.zip
-  (repo root — not inside 01_Somnarak_Wiki/ or REFERENCE_SOMNARAK_WIKI/)
+  (repo root — not inside docs/ or REFERENCE_SOMNARAK_WIKI/)
 
 Excludes nested .zip files so the archive does not pack itself.
 """
@@ -15,7 +15,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
-WIKI = REPO / "01_Somnarak_Wiki"
+WIKI = REPO / "docs"
 OUT = REPO / "01_Somnarak_Wiki.zip"
 ZIP_NAME = "01_Somnarak_Wiki.zip"
 
@@ -46,7 +46,7 @@ def build_zip() -> tuple[int, int]:
                 continue
             if path.name in {ZIP_NAME, OUT.with_suffix(".zip.tmp").name}:
                 continue
-            zf.write(path, Path("01_Somnarak_Wiki") / rel)
+            zf.write(path, Path("docs") / rel)
             count += 1
 
     tmp.replace(OUT)

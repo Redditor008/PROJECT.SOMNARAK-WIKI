@@ -4,14 +4,16 @@ Official static encyclopedia of **Somnarak** — the City of Unresolved Sorrow.
 
 Open the wiki in a browser:
 
-- Live site folder: [`01_Somnarak_Wiki/index.html`](01_Somnarak_Wiki/index.html)
-- Local: `python3 -m http.server 8000 --bind 0.0.0.0 --directory 01_Somnarak_Wiki`
+- Live site folder: [`docs/index.html`](docs/index.html)
+- Local: `python3 -m http.server 8000 --bind 0.0.0.0 --directory docs`
+
+Netlify: connect this repo. `netlify.toml` publishes the **`docs`** folder.
 
 ## Contents
 
 | Path | Role |
 |---|---|
-| `01_Somnarak_Wiki/` | Public wiki (185 HTML articles, CSS, JS, SVG art, search index) |
+| `docs/` | Public wiki (185 HTML articles, CSS, JS, SVG art, search index) |
 | `REFERENCE_SOMNARAK_WIKI/` | Canonical lore sources, diagrams, icons, and build tools |
 
 Offline wiki archive (one file, overwritten on every wiki update):
@@ -20,7 +22,7 @@ Offline wiki archive (one file, overwritten on every wiki update):
 python3 REFERENCE_SOMNARAK_WIKI/tools/update_wiki_zip.py
 ```
 
-Output is always `01_Somnarak_Wiki.zip` at the repository root (outside `01_Somnarak_Wiki/` and `REFERENCE_SOMNARAK_WIKI/`) — never a new zip name.
+Output is always `01_Somnarak_Wiki.zip` at the repository root (outside `docs/` and `REFERENCE_SOMNARAK_WIKI/`) — never a new zip name.
 
 Current era in-canon: **Year 4,238 · Dawn Initiative** (post-1,778 Cycles).
 
