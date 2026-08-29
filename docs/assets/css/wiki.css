@@ -7339,6 +7339,16 @@ body.home-page .spotlight-data-table {
   overflow-x: auto !important;
 }
 
+/* Table may grow wider than the gold box; the wrapper scrolls. */
+body.home-page .pm-table-wrapper > table,
+body.home-page .table-wrap > table,
+body.home-page .spotlight-data-table > table {
+  width: max-content !important;
+  min-width: 100% !important;
+  max-width: none !important;
+  table-layout: auto !important;
+}
+
 body.home-page .portal-category-grid,
 body.home-page .master-hub-grid {
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)) !important;
