@@ -7303,3 +7303,266 @@ table td img,
   border-left-color: #f1df76 !important;
   font-weight: bold !important;
 }
+
+/* =========================================================================
+   FEATURED ENTITY SPOTLIGHT — keep text + stats inside the box
+   ========================================================================= */
+
+.featured-spotlight-grid {
+  display: grid !important;
+  grid-template-columns: minmax(0, 168px) minmax(0, 1fr) !important;
+  gap: 16px !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  overflow: hidden !important;
+  box-sizing: border-box !important;
+  padding: 16px !important;
+}
+
+.featured-spotlight-grid > * {
+  min-width: 0 !important;
+  max-width: 100% !important;
+}
+
+.spotlight-visual {
+  width: 100% !important;
+  max-width: 168px !important;
+  justify-self: stretch !important;
+  box-sizing: border-box !important;
+}
+
+.spotlight-img {
+  width: min(132px, 100%) !important;
+  height: auto !important;
+  max-height: 132px !important;
+}
+
+.spotlight-body {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 10px !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+  overflow: hidden !important;
+}
+
+.spotlight-meta-header h3 {
+  margin: 0 0 4px 0 !important;
+  font-size: clamp(1rem, 1.6vw, 1.25rem) !important;
+  line-height: 1.25 !important;
+  overflow-wrap: anywhere !important;
+  word-break: break-word !important;
+  white-space: normal !important;
+}
+
+.spotlight-meta-header small,
+.spotlight-body p {
+  overflow-wrap: anywhere !important;
+  word-break: break-word !important;
+  white-space: normal !important;
+  max-width: 100% !important;
+}
+
+.spotlight-data-table {
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  border: 2px solid #38bdf8 !important;
+  border-radius: 6px !important;
+  background: #060a12 !important;
+  box-sizing: border-box !important;
+}
+
+.spotlight-stat-grid {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.spotlight-stat {
+  min-width: 0 !important;
+  padding: 10px 12px !important;
+  border-right: 1px solid #1e334d !important;
+  border-bottom: 1px solid #1e334d !important;
+  box-sizing: border-box !important;
+}
+
+.spotlight-stat:nth-child(2n) {
+  border-right: none !important;
+}
+
+.spotlight-stat:nth-last-child(-n+2) {
+  border-bottom: none !important;
+}
+
+.spotlight-stat-label {
+  display: block !important;
+  font-family: Impact, "Arial Narrow Bold", sans-serif !important;
+  font-size: 0.68rem !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
+  color: #f1df76 !important;
+  margin-bottom: 4px !important;
+}
+
+.spotlight-stat-value {
+  display: block !important;
+  font-size: 0.82rem !important;
+  line-height: 1.4 !important;
+  color: #e2e8f0 !important;
+  overflow-wrap: anywhere !important;
+  word-break: break-word !important;
+  white-space: normal !important;
+}
+
+.spotlight-stat-value a {
+  color: #38bdf8 !important;
+  font-weight: 700 !important;
+}
+
+.spotlight-actions {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 8px !important;
+  max-width: 100% !important;
+}
+
+.spotlight-actions .pm-btn-primary,
+.spotlight-actions .pm-btn-secondary {
+  flex: 1 1 180px !important;
+  max-width: 100% !important;
+  text-align: center !important;
+  white-space: normal !important;
+  overflow-wrap: anywhere !important;
+  box-sizing: border-box !important;
+}
+
+@media (max-width: 1180px) {
+  .featured-spotlight-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .spotlight-visual {
+    max-width: 100% !important;
+    flex-direction: row !important;
+    justify-content: flex-start !important;
+    gap: 16px !important;
+  }
+}
+
+@media (max-width: 640px) {
+  .spotlight-stat-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .spotlight-stat {
+    border-right: none !important;
+  }
+  .spotlight-stat:last-child {
+    border-bottom: none !important;
+  }
+}
+
+/* =========================================================================
+   ENTITY DOSSIER: stop text/tables clipping out of the article box
+   ========================================================================= */
+
+.entity-columns {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) minmax(220px, 280px) !important;
+  gap: 20px !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  align-items: start !important;
+}
+
+.entity-article,
+.entity-main-content {
+  display: block !important;
+  grid-template-columns: none !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  overflow-wrap: anywhere !important;
+  word-break: break-word !important;
+}
+
+.entity-infobox,
+.item-infobox,
+.character-infobox {
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  position: sticky !important;
+  top: 70px !important;
+}
+
+.entity-protocol {
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  overflow: hidden !important;
+  box-sizing: border-box !important;
+}
+
+.entity-protocol > header {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 180px) !important;
+  width: 100% !important;
+}
+
+.entity-protocol > header h2 {
+  white-space: normal !important;
+  overflow-wrap: anywhere !important;
+  word-break: break-word !important;
+  font-size: clamp(0.95rem, 1.5vw, 1.25rem) !important;
+  line-height: 1.3 !important;
+}
+
+.entity-protocol > div {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)) !important;
+  width: 100% !important;
+}
+
+.entity-hero.enriched,
+.entity-hero {
+  display: grid !important;
+  grid-template-columns: minmax(0, 160px) minmax(0, 1fr) !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  overflow: hidden !important;
+}
+
+.entity-hero h1 {
+  white-space: normal !important;
+  overflow-wrap: anywhere !important;
+}
+
+.table-wrap,
+.pm-table-wrapper {
+  max-width: 100% !important;
+  min-width: 0 !important;
+  overflow-x: auto !important;
+}
+
+@media (max-width: 1080px) {
+  .entity-columns {
+    grid-template-columns: 1fr !important;
+  }
+  .entity-infobox,
+  .item-infobox,
+  .character-infobox {
+    position: static !important;
+    max-width: 100% !important;
+  }
+  .entity-hero.enriched,
+  .entity-hero {
+    grid-template-columns: 1fr !important;
+  }
+}
