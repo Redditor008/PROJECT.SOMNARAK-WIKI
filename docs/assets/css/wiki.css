@@ -7884,3 +7884,183 @@ body.home-page .wiki-footer {
   box-sizing: border-box !important;
   overflow: hidden !important;
 }
+
+
+/* Industrial polish: larger readable icons, not generic flat boxes */
+body.home-page .archive-portal-grid {
+  display: grid !important;
+  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+  gap: 16px !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  margin: 22px 0 10px !important;
+}
+
+body.home-page .archive-portal {
+  position: relative !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+  min-height: 220px !important;
+  padding: 22px 10px 14px !important;
+  overflow: hidden !important;
+  box-sizing: border-box !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  justify-content: flex-start !important;
+  text-align: center !important;
+  color: var(--portal, #f1df76) !important;
+  background:
+    linear-gradient(180deg, rgba(241,223,118,0.06) 0%, transparent 28%),
+    linear-gradient(150deg, #08090d 0%, #050608 55%, #0a1018 100%) !important;
+  border: 2px solid var(--portal, #f1df76) !important;
+  box-shadow:
+    inset 0 0 0 1px rgba(0,0,0,0.8),
+    0 8px 22px rgba(0,0,0,0.75) !important;
+}
+
+body.home-page .archive-portal:before {
+  content: "" !important;
+  position: absolute !important;
+  top: -2px !important;
+  left: 14px !important;
+  width: 28px !important;
+  border-top: 6px double var(--portal, #f1df76) !important;
+}
+
+body.home-page .archive-portal > span {
+  position: absolute !important;
+  top: -11px !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  background: #000 !important;
+  padding: 0 8px !important;
+  max-width: calc(100% - 20px) !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+  font: 0.68rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.1em !important;
+  color: var(--portal, #f1df76) !important;
+}
+
+body.home-page .archive-portal img {
+  width: 96px !important;
+  height: 96px !important;
+  min-width: 96px !important;
+  max-width: 96px !important;
+  object-fit: contain !important;
+  margin: 12px auto 8px !important;
+  filter: drop-shadow(0 0 10px currentColor) !important;
+}
+
+body.home-page .archive-portal b {
+  font: 0.82rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.06em !important;
+  color: #f1df76 !important;
+  padding: 0 6px !important;
+  max-width: 100% !important;
+}
+
+body.home-page .archive-portal small {
+  display: block !important;
+  color: #c4c09a !important;
+  font-size: 0.7rem !important;
+  line-height: 1.3 !important;
+  padding: 4px 8px 0 !important;
+  max-width: 100% !important;
+}
+
+body.home-page .archive-portal em {
+  display: block !important;
+  margin-top: auto !important;
+  padding-top: 8px !important;
+  font: 0.72rem Impact, "Arial Narrow Bold", sans-serif !important;
+  font-style: normal !important;
+  letter-spacing: 0.08em !important;
+  color: var(--portal, #f1df76) !important;
+}
+
+body.home-page .archive-portal:hover {
+  background: #10161f !important;
+  box-shadow: inset 0 -5px 0 var(--portal, #f1df76), 0 0 18px rgba(241,223,118,0.25) !important;
+}
+
+body.home-page .han-tile,
+body.home-page .floor-summary-item,
+body.home-page .dir-box {
+  background:
+    linear-gradient(145deg, #0d121c 0%, #07090e 100%) !important;
+  border: 2px solid #3a2a1a !important;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.7) !important;
+}
+
+body.home-page .han-tile img {
+  width: 52px !important;
+  height: 52px !important;
+  min-width: 52px !important;
+  max-width: 52px !important;
+  border: 2px solid #f1df76 !important;
+  border-radius: 6px !important;
+  background: #05070c !important;
+  padding: 3px !important;
+}
+
+body.home-page .han-tile b {
+  color: #f1df76 !important;
+  font: 0.92rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.04em !important;
+}
+
+body.home-page .floor-summary-item img {
+  width: 44px !important;
+  height: 44px !important;
+  min-width: 44px !important;
+  border: 2px solid #38bdf8 !important;
+}
+
+body.home-page .floor-summary-item b {
+  color: #f1df76 !important;
+}
+
+body.home-page .dir-box h3 img {
+  width: 32px !important;
+  height: 32px !important;
+}
+
+body.home-page .dir-box li img {
+  width: 28px !important;
+  height: 28px !important;
+  border: 1px solid #38bdf8 !important;
+  background: #05070c !important;
+  padding: 1px !important;
+}
+
+body.home-page .dir-entities { border-color: #ef5b55 !important; }
+body.home-page .dir-maw { border-color: #f1df76 !important; }
+body.home-page .dir-cast { border-color: #38bdf8 !important; }
+body.home-page .dir-lore { border-color: #71efaf !important; }
+
+body.home-page .floor-button img {
+  width: 42px !important;
+  height: 42px !important;
+  min-width: 42px !important;
+  max-width: 42px !important;
+}
+
+body.home-page .spotlight-img {
+  width: min(168px, 100%) !important;
+  height: auto !important;
+}
+
+body.home-page .site-mark img {
+  width: 108px !important;
+  height: 108px !important;
+}
+
+@media (max-width: 1180px) {
+  body.home-page .archive-portal-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+}
