@@ -121,8 +121,9 @@
       const title = q('.toctitle, .toc-title', toc);
       if (!title) return;
 
-      const list = q('ol, ul', toc);
-      if (!list) return;
+      const body = q('.toc-body', toc);
+      const lists = body ? [body] : qa('ol, ul', toc);
+      if (!lists.length) return;
 
       let toggleBtn = q('.toc-toggle-btn', title);
       if (!toggleBtn) {
@@ -134,23 +135,21 @@
         title.appendChild(toggleBtn);
       }
 
-      // Check saved state
-      const savedState = localStorage.getItem('somnarak_wiki_toc_collapsed');
-      if (savedState === 'true') {
-        list.style.display = 'none';
-        toggleBtn.setAttribute('aria-expanded', 'false');
+      const setHidden = (hidden) => {
+        lists.forEach(list => { list.style.display = hidden ? 'none' : ''; });
+        toggleBtn.setAttribute('aria-expanded', hidden ? 'false' : 'true');
         const lbl = q('.toggle-label', toggleBtn);
-        if (lbl) lbl.textContent = 'show';
-      }
+        if (lbl) lbl.textContent = hidden ? 'show' : 'hide';
+      };
+
+      const savedState = localStorage.getItem('somnarak_wiki_toc_collapsed');
+      if (savedState === 'true') setHidden(true);
 
       toggleBtn.onclick = (e) => {
         e.preventDefault();
         e.stopPropagation();
-        const isHidden = list.style.display === 'none';
-        list.style.display = isHidden ? '' : 'none';
-        toggleBtn.setAttribute('aria-expanded', isHidden ? 'true' : 'false');
-        const lbl = q('.toggle-label', toggleBtn);
-        if (lbl) lbl.textContent = isHidden ? 'hide' : 'show';
+        const isHidden = lists[0].style.display === 'none';
+        setHidden(!isHidden);
         localStorage.setItem('somnarak_wiki_toc_collapsed', isHidden ? 'false' : 'true');
       };
     });
@@ -284,82 +283,138 @@
   // 5. FLOATING QUICK-TOC & ACTIVE SECTION TRACKING
   // =========================================================================
   function initFloatingToc() {
+    if (document.body.classList.contains('home-page') || document.body.classList.contains('hub-page')) return;
+
     const contentArea = q('#content') || q('.wiki-content') || q('main');
-    const headings = qa('h2[id], h3[id]', contentArea);
-    if (headings.length < 2) return;
+    if (!contentArea) return;
+
+    const skipTitle = /^(DATABASE HUBS|THE NINE ECHO-CORES|CARTOGRAPHY|FACILITY 01|ENTITY REGISTRY)$/i;
+    const clean = (el) => el.textContent.replace(/^[■›•\s\d\.\/]+/, '').replace(/#$/, '').trim();
+
+    const sections = qa('.wiki-section', contentArea);
+    const items = [];
+    sections.forEach(sec => {
+      if (sec.classList.contains('codex-stub')) return;
+      const h = q('h2.section-title[id], h2[id]', sec);
+      if (!h) return;
+      const title = clean(h);
+      if (!title || skipTitle.test(title)) return;
+      const home = sec.getAttribute('data-toc-home') || h.getAttribute('data-toc-home');
+      items.push({
+        id: h.id,
+        title,
+        home,
+        el: h,
+        away: Boolean(home),
+        sub: false
+      });
+    });
+
+    const inPage = items.filter(it => !it.away);
+    const useH3 = inPage.length > 0 && inPage.length <= 10;
+    if (useH3) {
+      inPage.forEach(it => {
+        const sec = it.el.closest('.wiki-section');
+        if (!sec) return;
+        qa(':scope > h3[id]', sec).forEach(h3 => {
+          const title = clean(h3);
+          if (!title) return;
+          items.push({ id: h3.id, title, home: null, el: h3, away: false, sub: true });
+        });
+      });
+    }
+
+    const visible = items.filter(it => !it.away || it.home);
+    if (visible.length < 2) return;
+
+    const hereCount = visible.filter(it => !it.away).length;
+    const awayCount = visible.filter(it => it.away).length;
 
     let floatToc = q('.float-toc');
     if (!floatToc) {
       floatToc = document.createElement('nav');
       floatToc.className = 'float-toc';
-      floatToc.setAttribute('aria-label', 'Quick section navigation');
-      floatToc.innerHTML = `
-        <button type="button" class="float-toc-trigger" aria-expanded="false" title="Table of Contents">
-          <span class="toc-icon">☰</span> <span class="toc-text">CONTENTS</span>
-        </button>
-        <div class="float-toc-panel">
-          <div class="float-toc-header">
-            <b>PAGE CONTENTS</b>
-            <span class="float-toc-count">${headings.length} SECTIONS</span>
-          </div>
-          <ul class="float-toc-list"></ul>
-        </div>
-      `;
+      floatToc.setAttribute('aria-label', 'Page contents');
       document.body.appendChild(floatToc);
     }
 
-    const floatList = q('.float-toc-list', floatToc);
-    if (floatList && floatList.children.length === 0) {
-      headings.forEach((h, idx) => {
-        const li = document.createElement('li');
-        li.className = h.tagName.toLowerCase() === 'h3' ? 'float-toc-sub' : 'float-toc-main';
-        const a = document.createElement('a');
-        a.href = '#' + h.id;
-        a.dataset.targetId = h.id;
-        const cleanTitle = h.textContent.replace(/^[■›•\s\d\.\/]+/, '').trim();
-        a.innerHTML = `<span class="toc-num">${idx + 1}.</span> <span class="toc-label">${esc(cleanTitle)}</span>`;
-        li.appendChild(a);
-        floatList.appendChild(li);
-      });
-    }
+    floatToc.innerHTML = `
+      <button type="button" class="float-toc-trigger" aria-expanded="false" title="Page contents">
+        <span class="toc-icon">☰</span>
+        <span class="toc-text">PAGE CONTENTS</span>
+      </button>
+      <div class="float-toc-panel">
+        <div class="float-toc-header">
+          <b>PAGE CONTENTS</b>
+          <span class="float-toc-count">${hereCount || visible.length} HERE</span>
+        </div>
+        <p class="float-toc-hint">Gold = this page. Cyan ↗ = opens the dedicated record.</p>
+        <ul class="float-toc-list"></ul>
+      </div>
+    `;
 
-    const triggers = qa('.float-toc-trigger, .float-toc > button', floatToc);
-    triggers.forEach(trigger => {
-      trigger.onclick = (e) => {
-        e.stopPropagation();
-        const isOpen = floatToc.classList.toggle('open');
-        trigger.setAttribute('aria-expanded', String(isOpen));
-      };
+    const floatList = q('.float-toc-list', floatToc);
+    let nHere = 0;
+    let nAway = 0;
+    let drewAwayHead = false;
+    visible.forEach((it) => {
+      if (it.away && !drewAwayHead) {
+        const sep = document.createElement('li');
+        sep.className = 'float-toc-sep';
+        sep.textContent = 'Other records';
+        floatList.appendChild(sep);
+        drewAwayHead = true;
+      }
+      const li = document.createElement('li');
+      li.className = it.sub ? 'float-toc-sub' : (it.away ? 'float-toc-away' : 'float-toc-main');
+      const a = document.createElement('a');
+      if (it.away && it.home) {
+        a.href = it.home;
+        a.className = 'toc-away';
+        nAway += 1;
+        a.innerHTML = `<span class="toc-num">↗</span> <span class="toc-label">${esc(it.title)}</span>`;
+      } else {
+        a.href = '#' + it.id;
+        a.dataset.targetId = it.id;
+        nHere += 1;
+        a.innerHTML = `<span class="toc-num">${nHere}</span> <span class="toc-label">${esc(it.title)}</span>`;
+      }
+      li.appendChild(a);
+      floatList.appendChild(li);
     });
 
+    const countEl = q('.float-toc-count', floatToc);
+    if (countEl) {
+      countEl.textContent = awayCount ? `${hereCount} HERE · ${awayCount} AWAY` : `${hereCount} SECTIONS`;
+    }
+
+    const trigger = q('.float-toc-trigger', floatToc);
+    trigger.onclick = (e) => {
+      e.stopPropagation();
+      const isOpen = floatToc.classList.toggle('open');
+      trigger.setAttribute('aria-expanded', String(isOpen));
+    };
+
     document.addEventListener('click', (e) => {
-      if (floatToc && floatToc.classList.contains('open') && !floatToc.contains(e.target)) {
+      if (floatToc.classList.contains('open') && !floatToc.contains(e.target)) {
         floatToc.classList.remove('open');
-        triggers.forEach(tr => tr.setAttribute('aria-expanded', 'false'));
+        trigger.setAttribute('aria-expanded', 'false');
       }
     });
 
-    const observerCallback = (entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
+    const inPageEls = visible.filter(it => !it.away).map(it => it.el);
+    if (inPageEls.length) {
+      const headingObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (!entry.isIntersecting) return;
           const id = entry.target.id;
-          qa('.float-toc-list a, #toc a').forEach(link => {
-            if (link.getAttribute('href') === '#' + id || link.dataset.targetId === id) {
-              link.classList.add('active-toc-item');
-            } else {
-              link.classList.remove('active-toc-item');
-            }
+          qa('.float-toc-list a').forEach(link => {
+            link.classList.toggle('active-toc-item', link.dataset.targetId === id);
           });
-        }
-      });
-    };
-
-    const headingObserver = new IntersectionObserver(observerCallback, {
-      rootMargin: '-80px 0px -60% 0px',
-      threshold: 0
-    });
-
-    headings.forEach(h => headingObserver.observe(h));
+        });
+      }, { rootMargin: '-90px 0px -62% 0px', threshold: 0 });
+      inPageEls.forEach(h => headingObserver.observe(h));
+    }
   }
 
   // =========================================================================

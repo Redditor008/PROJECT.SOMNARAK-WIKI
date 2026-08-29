@@ -9103,3 +9103,220 @@ body.hub-page .work-type-card:hover {
     columns: 1 !important;
   }
 }
+
+/* PAGE CONTENTS drawer + codex-away TOC (do not reuse in-article brick rows) */
+nav.float-toc {
+  position: fixed !important;
+  top: 86px !important;
+  left: max(8px, calc((100vw - min(1560px, calc(100vw - 32px))) / 2 + 196px)) !important;
+  right: auto !important;
+  bottom: auto !important;
+  z-index: 45 !important;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start !important;
+  gap: 0 !important;
+  filter: none !important;
+  transform: none !important;
+  width: auto !important;
+  max-width: min(340px, 86vw) !important;
+}
+nav.float-toc .float-toc-trigger,
+nav.float-toc > button {
+  writing-mode: vertical-rl !important;
+  transform: rotate(180deg) !important;
+  flex: 0 0 auto !important;
+  background: #141207 !important;
+  border: 2px solid #f1df76 !important;
+  color: #f1df76 !important;
+  font: 0.72rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.16em !important;
+  padding: 16px 8px !important;
+  cursor: pointer !important;
+  border-radius: 0 !important;
+  box-shadow: 0 8px 18px rgba(0,0,0,0.75) !important;
+}
+nav.float-toc .float-toc-trigger:hover,
+nav.float-toc > button:hover {
+  background: #f1df76 !important;
+  color: #111 !important;
+}
+nav.float-toc .float-toc-panel,
+nav.float-toc > div {
+  display: none !important;
+  width: 300px !important;
+  max-width: 78vw !important;
+  max-height: calc(100vh - 110px) !important;
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+  margin: 0 !important;
+  padding: 12px 12px 14px !important;
+  background: #07090e !important;
+  border: 2px solid #f1df76 !important;
+  border-left: 6px solid #f1df76 !important;
+  box-shadow: 8px 12px 28px rgba(0,0,0,0.9) !important;
+  box-sizing: border-box !important;
+}
+nav.float-toc.open .float-toc-panel,
+nav.float-toc.open > div {
+  display: block !important;
+}
+nav.float-toc .float-toc-header {
+  display: flex !important;
+  align-items: baseline !important;
+  justify-content: space-between !important;
+  gap: 8px !important;
+  margin: 0 0 8px !important;
+  padding: 0 0 8px !important;
+  border-bottom: 2px solid rgba(241,223,118,0.35) !important;
+  color: #f1df76 !important;
+  font: 0.95rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.1em !important;
+}
+nav.float-toc .float-toc-count {
+  color: #38bdf8 !important;
+  font-size: 0.68rem !important;
+  letter-spacing: 0.08em !important;
+}
+nav.float-toc .float-toc-hint {
+  margin: 0 0 10px !important;
+  color: #9aa7b5 !important;
+  font-size: 0.72rem !important;
+  line-height: 1.35 !important;
+}
+nav.float-toc .float-toc-list,
+nav.float-toc ul,
+nav.float-toc ol {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  columns: 1 !important;
+}
+nav.float-toc li {
+  margin: 0 0 4px !important;
+  padding: 0 !important;
+  break-inside: auto !important;
+}
+nav.float-toc li a,
+nav.float-toc .float-toc-list a {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  margin: 0 !important;
+  padding: 6px 8px !important;
+  background: #0a1018 !important;
+  border: 1px solid #243b59 !important;
+  border-left: 3px solid #f1df76 !important;
+  color: #e8e2c0 !important;
+  text-decoration: none !important;
+  font-size: 0.8rem !important;
+  line-height: 1.25 !important;
+  font-weight: 700 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+nav.float-toc li a::before {
+  content: none !important;
+  display: none !important;
+}
+nav.float-toc .toc-num {
+  flex: 0 0 22px !important;
+  color: #f1df76 !important;
+  font: 0.72rem Impact, "Arial Narrow Bold", sans-serif !important;
+}
+nav.float-toc .float-toc-away a,
+nav.float-toc a.toc-away {
+  border-left-color: #38bdf8 !important;
+  color: #cdefff !important;
+}
+nav.float-toc .float-toc-away .toc-num,
+nav.float-toc a.toc-away .toc-num {
+  color: #38bdf8 !important;
+}
+nav.float-toc li a:hover,
+nav.float-toc a.active-toc-item {
+  background: #141207 !important;
+  border-color: #f1df76 !important;
+  color: #f1df76 !important;
+}
+nav.float-toc .float-toc-sub a {
+  padding-left: 18px !important;
+  font-size: 0.75rem !important;
+  border-left-color: #71efaf !important;
+}
+nav.float-toc .float-toc-sep {
+  display: block !important;
+  margin: 10px 0 6px !important;
+  padding: 4px 0 0 !important;
+  border: 0 !important;
+  background: transparent !important;
+  color: #38bdf8 !important;
+  font: 0.68rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.12em !important;
+  text-transform: uppercase !important;
+}
+
+.toc li.toc-sep {
+  display: block !important;
+  margin: 10px 0 6px !important;
+  padding: 8px 0 0 !important;
+  border: 0 !important;
+  background: transparent !important;
+  color: #38bdf8 !important;
+  font: 0.78rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.12em !important;
+  text-transform: uppercase !important;
+  counter-increment: none !important;
+  break-inside: avoid !important;
+}
+.toc a.toc-away {
+  border-left-color: #38bdf8 !important;
+  color: #cdefff !important;
+}
+.toc a.toc-away::after {
+  content: " ↗" !important;
+  color: #38bdf8 !important;
+  font-size: 0.78em !important;
+}
+
+.codex-stub {
+  margin: 0.6rem 0 !important;
+  padding: 10px 12px !important;
+  background: #0a1018 !important;
+  border: 1px solid #243b59 !important;
+  border-left: 4px solid #38bdf8 !important;
+}
+.codex-stub .section-title {
+  margin: 0 0 6px !important;
+  font-size: 0.95rem !important;
+}
+.codex-stub .codex-stub-line {
+  margin: 0 !important;
+  color: #e4dfb8 !important;
+  font-size: 0.86rem !important;
+}
+.codex-stub .codex-stub-line a { color: #38bdf8 !important; font-weight: 700 !important; }
+
+.codex-filing-note {
+  margin: 0 0 1.2rem !important;
+  padding: 10px 12px !important;
+  background: #141207 !important;
+  border: 1px solid #f1df76 !important;
+  color: #e4dfb8 !important;
+  font-size: 0.86rem !important;
+}
+.codex-filing-note b { color: #f1df76 !important; }
+
+@media (max-width: 1100px) {
+  nav.float-toc {
+    left: 8px !important;
+    top: auto !important;
+    bottom: 18px !important;
+  }
+  nav.float-toc .float-toc-panel,
+  nav.float-toc > div {
+    max-height: 55vh !important;
+  }
+}
