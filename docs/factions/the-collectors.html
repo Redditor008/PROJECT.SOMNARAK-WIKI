@@ -1,16 +1,15 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>The Collectors (Sujipga Cartel) — Somnarak Official Wiki</title>
-<link href="../assets/css/wiki.css?v=20260830ad" rel="stylesheet"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>The Collectors — Somnarak Official Wiki</title>
+<meta name="description" content="Sugeumga debt guild — Echo economy, Debt-Ledger, Extraction Glove, Collector’s Spire in Zone C."/>
 <link href="../assets/icons/somnarak_icon.svg" rel="icon" type="image/svg+xml"/>
-<script defer="" src="../assets/js/wiki.js?v=20260830ad"></script>
+<link href="../assets/css/wiki.css?v=20260830af" rel="stylesheet"/>
+<script defer src="../assets/js/wiki.js?v=20260830af"></script>
 </head>
 <body>
-<!-- Top Utility Bar -->
 <header class="utility">
 <div class="utility-left">
 <button aria-label="Open navigation" class="nav-open" type="button">☰</button>
@@ -23,231 +22,68 @@
 <a href="../lore/index.html">Lore</a>
 <a href="../locations/index.html">Atlas</a>
 <a href="../factions/index.html">Factions</a>
-<a href="../departments/index.html">Facility</a>
+<a href="../departments/index.html">Departments</a>
 <a href="../entities/index.html">Entities</a>
 <a href="../maw/index.html">M.A.W.</a>
 <a href="../mechanics/index.html">Mechanics</a>
 </nav>
 <div class="search">
-<input autocomplete="off" id="search" data-index="../data/search.json" placeholder="Search archive..." autocomplete="off"/>
+<input autocomplete="off" id="search" data-index="../data/search.json" placeholder="Search archive...">
 <div id="results"></div>
 </div>
 </header>
-<!-- Main Grid Layout -->
 <div class="wiki-shell">
-<!-- Left Rail -->
-
-    <aside class="left-rail">
-      <div class="site-mark">
-        <a href="../index.html">
-          <img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
-          <b>SOMNARAK</b>
-          <span>OFFICIAL WIKI ARCHIVE</span>
-        </a>
-      </div>
-      <nav aria-label="Wiki navigation" class="left-links">
-        <section>
-          <h2>DATABASE HUBS</h2>
-          <a href="../index.html">Main Overview</a>
-          <a href="../characters/index.html">Characters Hub</a>
-          <a href="../lore/index.html">Lore &amp; Cosmology</a>
-          <a href="../locations/index.html">Locations &amp; Atlas</a>
-          <a href="../factions/index.html">Factions &amp; Guilds</a>
-          <a href="../departments/index.html">Facility Floors</a>
-          <a href="../entities/index.html">Sorrow Entities</a>
-          <a href="../maw/index.html">M.A.W. Equipment</a>
-          <a href="../mechanics/index.html">Systems &amp; Mechanics</a>
-        </section>
-        <section>
-          <h2>THE NINE ECHO-CORES</h2>
-          <a href="../characters/the-director-majin.html">1. Director Majin</a>
-          <a href="../characters/the-secretary-seiyon.html">2. Seiyon (Secretary)</a>
-          <a href="../characters/the-containment-lead-dekan.html">3. Dekan (Containment)</a>
-          <a href="../characters/the-extraction-lead-zyrak.html">4. Zyrak (Extraction)</a>
-          <a href="../characters/the-research-lead-ayshuk.html">5. Ayshuk (Research)</a>
-          <a href="../characters/the-border-lead-mellda.html">6. Mellda (Border)</a>
-          <a href="../characters/the-archive-lead-marjuk.html">7. Marjuk (Archive)</a>
-          <a href="../characters/the-outsider-ishall.html">8. Ishall (Outsider)</a>
-          <a href="../characters/the-exile-xyan.html">9. Xyan (Exile)</a>
-        </section>
-        <section>
-          <h2>CARTOGRAPHY &amp; SCHEMATICS</h2>
-          <a href="../atlas/hand-of-change-map.html">Hand of Change Map</a>
-          <a href="../atlas/somnarak-city-map.html">Somnarak City Blueprint</a>
-          <a href="../project/source-map.html">Master Archive Map</a>
-        </section>
-      </nav>
-    </aside>
-    
-<!-- Main Content Body -->
-<main id="content">
-<!-- Tactical Fast-Jump Subpage Bar -->
-<div class="fast-jump-nav">
-  <span class="fast-jump-title">/// RAPID JUMP:</span>
-  <div class="fast-jump-pills">
-    <a href="the-reverie-directorate.html" class="jump-pill">Directorate</a> <a href="the-high-council.html" class="jump-pill">High Council</a> <a href="the-sed-corps.html" class="jump-pill">SED Corps</a> <a href="the-ucd-strike-force.html" class="jump-pill">UCD Force</a> <a href="the-architects.html" class="jump-pill">Architects</a> <a href="the-weavers.html" class="jump-pill">Weavers</a> <a href="the-wardens.html" class="jump-pill">Wardens</a> <a href="the-collectors.html" class="jump-pill active">Collectors</a> <a href="the-horizon-caravan.html" class="jump-pill">Caravan</a> <a href="the-memory-washers.html" class="jump-pill">Washers</a> <a href="faction-technology.html" class="jump-pill">Faction Tech</a> <a href="index.html" class="jump-pill">✦ Factions Hub</a>
-  </div>
+<aside class="left-rail">
+<div class="site-mark">
+<a href="../index.html">
+<img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+<b>SOMNARAK</b>
+<span>OFFICIAL WIKI ARCHIVE</span>
+</a>
 </div>
-<!-- Tactical Directive Status HUD -->
-<div class="tactical-directive-box">
-  <div class="directive-text">
-    <span class="led-dot led-green"></span> <b>STATUS:</b> ARCHIVE VERIFIED &nbsp;|&nbsp; 
-    <b>CLEARANCE:</b> LEVEL-4 OVERSIGHT &nbsp;|&nbsp; 
-    <b>PROTOCOL:</b> REVERIE DIRECTORATE
-  </div>
-  <img src="../assets/icons/hud_resonance_wave.svg" alt="Resonance Wave" class="directive-wave">
-</div>
-<!-- Page Tabs -->
-<div class="page-tabs">
-<span>ARTICLE</span>
-<span>DISCUSSION</span>
-<span>SOURCE</span>
-<span>HISTORY</span>
-<b>YEAR 4,238 · DAWN OF HOPE</b>
-</div>
-<!-- Breadcrumbs -->
-<div class="breadcrumbs">
-<a href="../index.html">Somnarak</a> <i>/</i>
-<a href="../factions/index.html">Factions &amp; Guilds</a> <i>/</i>
-<span>The Collectors (Sujipga Cartel)</span>
-</div>
-<!-- Article Header -->
-<div class="article-header">
-<div class="article-eyebrow">FACTIONS &amp; GUILDS RECORD</div>
-<h1 class="article-title">The Collectors (Sujipga Cartel)</h1>
-<div class="article-subbar">
-<span class="badge badge-canon">CANONICAL ARTIFACT</span>
-<span class="badge badge-source">SOURCE VERIFIED</span>
-<div class="article-actions">
-<span class="action-btn">History</span>
-<span class="action-btn">View Source</span>
-</div>
-</div>
-</div>
-<div class="toc" id="toc">
-<div class="toc-title">Contents</div>
-<div class="toc-body">
-<ol>
-<li><a href="#the-collectors">The Collectors</a></li>
-</ol>
-</div>
-</div>
-<section class="wiki-section" id="the-collectors"><h2 class="section-title">The Collectors</h2>
-<h4>The Collectors</h4>
-<div class="table-wrap"><table class="wiki-table">
-<thead><tr><th>Faction</th><th>Relationship</th><th>Dynamic</th></tr></thead>
-<tbody>
-<tr><td><strong>Council</strong></td><td>Alliance</td><td>Collectors enforce the Council's economic policies</td></tr>
-<tr><td><strong>Architects</strong></td><td>Conflict</td><td>Architects shelter debtors; Collectors pursue them</td></tr>
-<tr><td><strong>Keepers</strong></td><td>Tension</td><td>Collectors trade in memories; Keepers preserve them</td></tr>
-<tr><td><strong>Wardens</strong></td><td>Dependence</td><td>Collectors need Wardens for enforcement</td></tr>
-<tr><td><strong>Weavers</strong></td><td>Neutral</td><td>Collectors don't interact with Weavers much</td></tr>
-<tr><td><strong>R.D.</strong></td><td>Tense</td><td>Collectors want R.D. debt data; R.D. guards it</td></tr>
-<tr><td><strong>Frays</strong></td><td>Hostile</td><td>Debt Brokers undercut Collector authority</td></tr>
-<tr><td><strong>Citizens</strong></td><td>Feared</td><td>Citizens avoid Collectors at all costs</td></tr>
-</tbody></table></div><h4>The Head Collector (추징장 — Chujingjang)</h4>
-<p><strong>Location:</strong><span> The Collector's Spire (<a class="wiki-link" href="../locations/zone-c-collectors-row.html">Zone C</a>, SECTOR-C-01)</span></p>
-<p><strong>Domain:</strong> Debt enforcement, karmic balance, economic regulation</p>
-<p><strong>Philosophy:</strong> <em>"Debts must be paid. This is not cruelty — it is balance."</em></p>
-<p><strong>What they do:</strong></p>
-<ul>
-<li>Track and collect karmic debts — the obligations created by actions in a Han-structural world</li>
-<li>Enforce the Cycle of Debt — ensuring that what is owed is paid</li>
-<li>Regulate the Echo economy — preventing inflation, counterfeiting, hoarding</li>
-<li>Pursue debt evaders — those who try to escape their obligations</li>
-<li><strong>The most feared faction in the city</strong></li>
-</ul>
-<p><strong>How debts work:</strong></p>
-<ul>
-<li>Every action in Somnarak creates a <strong>debt</strong> in the Abyss</li>
-<li>Debts manifest physically — aging, illness, bad luck, transformation</li>
-<li>Debts can be <strong>transferred</strong> — the powerful can shift their debts to the weak</li>
-<li>Debts can be <strong>deferred</strong> — but they accumulate interest (more sorrow)</li>
-<li>Debts can be <strong>paid</strong> — through suffering, sacrifice, or Echoes</li>
-</ul>
-<p><strong>Internal structure:</strong></p>
-<p><code></code>`</p>
-<p>Head Collector (Council member)</p>
-<p>│</p>
-<p>├── Senior Collectors (zone-level authorities)</p>
-<p>│   └── Collectors (field agents)</p>
-<p>│       └── Assessors (evaluate debts)</p>
-<p>│           └── Apprentices (in training)</p>
-<p>│</p>
-<p>├── The Debt Registry</p>
-<p>│   └── Records every debt in the city — who owes, how much, to whom</p>
-<p>│</p>
-<p>└── The Pursuit Division</p>
-<p>└── Specialists in tracking debt evaders</p>
-<p><code></code>`</p>
-<p><strong>The Collector's tools:</strong></p>
-<ul>
-<li><strong>The Ledger:</strong> A record of all debts — maintained with obsessive precision</li>
-<li><strong>The Scales:</strong> A tool that measures the weight of a person's debt — physical and metaphysical</li>
-<li><strong>The Debt Eater:</strong> A Sorrow-Wrought entity used to consume debts — but it leaves victims hollow</li>
-<li><strong>Echo extraction:</strong> The ability to pull Echoes from a person as payment — painful, invasive</li>
-</ul>
-<p><strong>Tension with other factions:</strong></p>
-<ul>
-<li><strong>The Architects:</strong> "You build shelters for those who should be paying their debts."</li>
-<li><strong>The Council:</strong> "You are too lenient. The system must be maintained."</li>
-<li><strong>The Citizens:</strong> "You are cruel. You take what little we have."</li>
-<li><strong>The Keepers:</strong> "You erase people's pasts to pay their debts. Who are they when they have nothing left?"</li>
-</ul>
-<p><strong>The Collector's dilemma:</strong></p>
-<ul>
-<li>They are necessary — without debt enforcement, the system collapses</li>
-<li>But the system is <strong>not fair</strong> — the powerful can transfer debts to the weak</li>
-<li>Some Collectors believe in the system; others are disillusioned</li>
-<li>The Head Collector must balance <strong>enforcement</strong> with <strong>mercy</strong> — or the city will turn on them</li>
-</ul><h4>If the Collectors Fall</h4>
-<p><strong>Trigger:</strong> A Fray uprising destroys the Debt Registry — all debt records are lost.</p>
-<p><strong>Consequences:</strong></p>
-<ul>
-<li>No debt enforcement — the economic system collapses</li>
-<li>Echoes lose value — without the Collectors, the currency has no backing</li>
-<li>The Council loses its economic power — taxation fails</li>
-<li>Citizens are "free" — but also without structure</li>
-</ul>
-<p><strong>Who fills the void:</strong> The Debt Brokers (Fray) take over the economy. The Council creates a new economic system. The R.D. begins accepting direct Echo payment.</p>
-<p><strong>The question:</strong> <em>"If no one owes anything, is the city free — or is it lost?"</em></p></section>
-
-<div class="wiki-callout">
-<p><strong>CANONICAL RECORD:</strong> Sourced directly from the official <em>Project Somnarak Worldbuilding Codex</em>.</p>
-</div>
-
-<!-- Page Footer -->
-<footer class="article-footer">
-<div class="footer-categories">
-<strong>Categories:</strong>
-<a href="../factions/index.html">Factions &amp; Guilds</a> |
-          <a href="../index.html">Somnarak Universe</a> |
-          <a href="../lore/index.html">Canon Lore</a>
-</div>
-<div class="footer-disclaimer">
-          Content is available under Somnarak Directorate Archival License unless otherwise noted.
-        </div>
-</footer>
-<!-- Bottom Cross-Reference Directory -->
-<section class="cross-reference-section">
-  <div class="cross-ref-header">CANONICAL CROSS-LINKS &amp; ATLAS CONNECTIONS</div>
-  <div class="cross-ref-grid">
-    <a href="../departments/floor-1-neutral-command.html" class="cross-ref-card">
-      <img src="../assets/layout/hand/icons/icon_dept_f1_neutral.svg" alt="Command">
-      <div class="cross-ref-meta"><span class="cross-ref-cat">FACILITY COMMAND</span><span class="cross-ref-title">NEUTRAL COMMAND</span></div>
-    </a> <a href="../characters/the-director-majin.html" class="cross-ref-card">
-      <img src="../assets/icons/icon_core_majin.svg" alt="Majin">
-      <div class="cross-ref-meta"><span class="cross-ref-cat">EXECUTIVE LEAD</span><span class="cross-ref-title">DIRECTOR MAJIN</span></div>
-    </a> <a href="../lore/the-cycle-and-absolvohan.html" class="cross-ref-card">
-      <img src="../assets/icons/ref_absolvohan.svg" alt="Absolvohan">
-      <div class="cross-ref-meta"><span class="cross-ref-cat">PRIMARY CANON</span><span class="cross-ref-title">1,778 CYCLES</span></div>
-    </a> <a href="../atlas/hand-of-change-map.html" class="cross-ref-card">
-      <img src="../assets/layout/hand/icons/the_hand_dr_icon_styled.svg" alt="Facility Map">
-      <div class="cross-ref-meta"><span class="cross-ref-cat">SCHEMATIC ATLAS</span><span class="cross-ref-title">HAND OF CHANGE MAP</span></div>
-    </a>
-  </div>
+<nav aria-label="Wiki navigation" class="left-links">
+<section>
+<h2>DATABASE HUBS</h2>
+<a href="../index.html">Main Overview</a>
+<a href="../entities/index.html">Sorrow Entities</a>
+<a href="../factions/index.html">Factions &amp; Guilds</a>
+<a href="../departments/index.html">Facility Floors</a>
+<a href="../mechanics/ordeals-framework.html">Ordeals</a>
+<a href="../lore/index.html">Lore &amp; Cosmology</a>
 </section>
-</main>
+</nav>
+</aside>
+<main id="content">
+<div class="breadcrumbs"><a href="../index.html">Somnarak</a> <i>/</i> <a href="index.html">Factions</a> <i>/</i> <span>The Collectors</span></div>
+<div class="article-header">
+<div class="article-eyebrow">FACTION · ZONE C · DEBT</div>
+<h1 class="article-title">The Collectors</h1>
 </div>
-</body>
-</html>
+<nav class="toc hub-toc toc-panel"><div class="toc-title">Contents</div><ol><li><a href="#overview">Overview</a></li>
+<li><a href="#work">Work and structure</a></li>
+<li><a href="#tools">Tools</a></li>
+<li><a href="#row">Collector’s Row</a></li></ol></nav>
+
+<section class="wiki-section" id="overview"><h2 class="section-title">Overview</h2>
+<p>The <strong>Collectors</strong> (수금가 — Sugeumga; also 추징) are Somnarak’s debt guild. Power is economic: they track karmic obligation, manage Echoes, and enforce payment. Headquarters is the Collector’s Spire in Zone C (SECTOR-C-01), under the Head Collector (추징장). Citizens avoid them. Architects shelter debtors. Debt Brokers undercut them from the Frays. They are not the Keepers and they are not the Memory Washers.</p>
+<p>Philosophy: <em>“Debts must be paid. This is not cruelty — it is balance.”</em> Every action in a Han-structural city writes a debt in the Abyss. Debts manifest as aging, illness, bad luck, transformation. They can be transferred (the powerful shift them onto the weak), deferred (interest is more sorrow), or paid (suffering, sacrifice, Echoes).</p>
+</section>
+<section class="wiki-section" id="work"><h2 class="section-title">Work and structure</h2>
+<p>They track and collect karmic debts, enforce the Cycle of Debt, regulate the Echo economy against inflation and counterfeiting, and pursue evaders. Internal line: Head Collector → Senior Collectors (zone) → Collectors (field) → Assessors → apprentices. Two offices sit beside that line: the Debt Registry (who owes, how much, to whom) and the Pursuit Division.</p>
+<p>Trade: citizens give Echoes for “debt management.” The Directorate trades entity data for Echo funding and then guards the rest of its ledgers; Collectors have tried to hack those systems twice. Collectors pay Wardens a secret extra budget for debt enforcement. They tried to monetize Dream-diving; Weavers refused.</p>
+</section>
+<section class="wiki-section" id="tools"><h2 class="section-title">Tools</h2>
+<p><strong>Debt-Ledger</strong> (부채 장부): a book of thin Han-crystal sheets. Debts display as weight — numbers, graphs, emotional impression. It can scan a person. Transfer, payment, and deferral go through it. If a Collector opens it with malice, the pages show the Collector’s own debts.</p>
+<p><strong>Extraction Glove</strong> (추출 장갑): dark Han-crystal, elongated fingers, palm glow. Placed on a debtor it draws Echoes through the palm. Painless, exhausting. The Collector feels a fragment of the debtor’s sorrow. Some go numb. Some break.</p>
+<p>Related entities, not tools: <a href="../entities/se-014-the-debt-eater.html">SE-014 Debt Eater</a> and <a href="../entities/se-015-the-debt-scale.html">SE-015 Debt Scale</a> sit in Collector mythology and containment, not in every field kit.</p>
+</section>
+<section class="wiki-section" id="row"><h2 class="section-title">Collector’s Row</h2>
+<p>Zone C is their street. Chunhwa the Debt Widow stands outside it every day with a sign: <em>“My husband paid his debt. Why does yours keep growing?”</em> He paid for thirty years; the guild reclassified the remainder as compound interest; he Fractured from relief. The kindness protocol — for citizens who are truly desperate — exists on paper and is never used.</p>
+<p>Alliance with the Council is economic policy with a reversed power dynamic: Collectors hold more Echoes than the Palace. Collapse trigger in source: a Head who hoards all Echoes, or a debt system nobody can pay. Street geography: <a href="../locations/zone-c-collectors-row.html">Zone C — Collectors’ Row</a>.</p>
+</section>
+
+
+<footer class="article-footer">
+<div class="footer-categories"><strong>Categories:</strong> <a href="index.html">Factions</a> | <a href="the-high-council.html">Council</a> | <a href="../locations/zone-c-collectors-row.html">Zone C</a></div>
+</footer>
+</main></div></body></html>

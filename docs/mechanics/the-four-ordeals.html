@@ -1,277 +1,104 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>The Four Ordeals of Facility 01 - Somnarak Official Wiki</title>
-  <link rel="stylesheet" href="../assets/css/wiki.css?v=20260830ad">
-  <script defer src="../assets/js/wiki.js?v=20260830ad"></script>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>The Four Watches — Somnarak Official Wiki</title>
+<meta name="description" content="First, Second, Third, and Tide Watch — the time axis of Ordeals. Not Whisper/Surge/Breach/Abyss."/>
+<link href="../assets/icons/somnarak_icon.svg" rel="icon" type="image/svg+xml"/>
+<link href="../assets/css/wiki.css?v=20260830af" rel="stylesheet"/>
+<script defer src="../assets/js/wiki.js?v=20260830af"></script>
 </head>
-<body class="wiki-body">
+<body>
 <header class="utility">
-  <div class="utility-left">
-    <button aria-label="Open navigation" class="nav-open" type="button">☰</button>
-    <a class="utility-brand" href="../index.html">SOMNARAK.WIKI</a>
-    <span class="utility-era">YEAR 4,238 · DAWN INITIATIVE</span>
-  </div>
-  <nav aria-label="Main navigation">
-    <a href="../index.html">Main page</a>
-    <a href="../characters/index.html">Characters</a>
-    <a href="../lore/index.html">Lore</a>
-    <a href="../locations/index.html">Locations</a>
-    <a href="../factions/index.html">Factions</a>
-    <a href="../departments/index.html">Departments</a>
-    <a href="../entities/index.html">Sorrow Entities</a>
-    <a href="../maw/index.html">M.A.W.</a>
-    <a href="../mechanics/index.html">Mechanics</a>
-  </nav>
-  <div class="search">
-    <input aria-label="Search" data-index="../data/search.json" id="search" placeholder="Search archive..." autocomplete="off"/>
-    <div id="results"></div>
-  </div>
+<div class="utility-left">
+<button aria-label="Open navigation" class="nav-open" type="button">☰</button>
+<a class="utility-brand" href="../index.html">SOMNARAK.WIKI</a>
+<span class="utility-era">YEAR 4,238 · DAWN INITIATIVE</span>
+</div>
+<nav aria-label="Main navigation">
+<a href="../index.html">Main page</a>
+<a href="../characters/index.html">Characters</a>
+<a href="../lore/index.html">Lore</a>
+<a href="../locations/index.html">Atlas</a>
+<a href="../factions/index.html">Factions</a>
+<a href="../departments/index.html">Departments</a>
+<a href="../entities/index.html">Entities</a>
+<a href="../maw/index.html">M.A.W.</a>
+<a href="../mechanics/index.html">Mechanics</a>
+</nav>
+<div class="search">
+<input autocomplete="off" id="search" data-index="../data/search.json" placeholder="Search archive...">
+<div id="results"></div>
+</div>
 </header>
-
-  <div class="wiki-shell">
-    <aside aria-label="Main navigation" class="left-rail">
-      <div class="branding">
-        <a class="brand-link" href="../index.html">
-          <img src="../assets/layout/hand/icons/icon_reverie_directorate_badge.svg" alt="Reverie Directorate Crest" class="brand-logo" width="110" height="110">
-          <span class="brand-title">SOMNARAK</span>
-          <span class="brand-subtitle">REVERIE DIRECTORATE ARCHIVE</span>
-        </a>
-      </div>
-      
-      <div class="rail-group">
-        <div class="rail-header">DATABASE HUBS</div>
-        <ul class="rail-list">
-          <li><a href="../index.html">Main Terminal</a></li>
-          <li><a href="../characters/index.html">Characters &amp; Echo-Cores</a></li>
-          <li><a href="../lore/index.html">Lore &amp; Cosmology</a></li>
-          <li><a href="../locations/index.html">Atlas &amp; Locations</a></li>
-          <li><a href="../factions/index.html">Factions &amp; Guilds</a></li>
-          <li><a href="../departments/index.html">Facility Departments</a></li>
-          <li><a href="../entities/index.html">Sorrow Entities</a></li>
-          <li><a href="../maw/index.html">M.A.W. Armaments</a></li>
-          <li><a href="../mechanics/index.html">Systems &amp; Mechanics</a></li>
-        </ul>
-      </div>
-
-      <div class="rail-group">
-        <div class="rail-header">THE NINE ECHO-CORES</div>
-        <ul class="rail-list">
-          <li><a href="../characters/the-director-majin.html">Director Majin</a></li>
-          <li><a href="../characters/the-secretary-seiyon.html">Secretary Seiyon</a></li>
-          <li><a href="../characters/the-containment-lead-dekan.html">Containment: Dekan</a></li>
-          <li><a href="../characters/the-extraction-lead-zyrak.html">Extraction: Zyrak</a></li>
-          <li><a href="../characters/the-research-lead-ayshuk.html">Research: Ayshuk</a></li>
-          <li><a href="../characters/the-border-lead-mellda.html">Border: Mellda</a></li>
-          <li><a href="../characters/the-archive-lead-marjuk.html">Archive: Marjuk</a></li>
-          <li><a href="../characters/the-outsider-ishall.html">Outsider: Ishall</a></li>
-          <li><a href="../characters/the-exile-xyan.html">Exile: Xyan</a></li>
-        </ul>
-      </div>
-    </aside>
-
-    <main id="content" class="wiki-content">
-      <div class="tactical-hud-bar">
-        <div class="hud-item"><span class="led-dot led-green"></span> ARCHIVE ONLINE</div>
-        <div class="hud-item"><span class="hud-label">CLEARANCE:</span> LEVEL 5 RESTRICTED</div>
-        <div class="hud-item"><span class="hud-label">RECORD:</span> CANONICAL</div>
-        <div class="hud-item"><span class="hud-label">STABILITY:</span> 99.4% NOMINAL</div>
-      </div>
-
-      <nav class="breadcrumb-trail" aria-label="Breadcrumb">
-        <a href="../index.html">SOMNARAK ARCHIVE</a> &gt; 
-        <a href="index.html">SYSTEMS & MECHANICS</a> &gt; 
-        <span>The Four Ordeals of Facility 01</span>
-      </nav>
-
-      <div class="page-action-row" style="display:flex; justify-content:space-between; align-items:center; margin:1rem 0; padding-bottom:0.8rem; border-bottom:1px solid #1e293b;">
-        <h1 style="margin:0; font-family:Impact, 'Arial Narrow Bold', sans-serif; font-size:1.8rem; color:#f1df76; letter-spacing:0.08em;">THE FOUR ORDEALS OF FACILITY 01</h1>
-        <div style="display:flex; gap:8px;">
-          <button type="button" class="action-btn" data-action="history">History</button>
-          <button type="button" class="action-btn" data-action="view-source">View Source</button>
-        </div>
-      </div>
-
-      
-<div class="toc" id="toc">
-<div class="toc-title">Contents</div>
-<div class="toc-body">
-<ol>
-<li><a href="#ordeals-the-facility-s-trials">Ordeals — The Facility's Trials</a></li>
-</ol>
+<div class="wiki-shell">
+<aside class="left-rail">
+<div class="site-mark">
+<a href="../index.html">
+<img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+<b>SOMNARAK</b>
+<span>OFFICIAL WIKI ARCHIVE</span>
+</a>
 </div>
+<nav aria-label="Wiki navigation" class="left-links">
+<section>
+<h2>DATABASE HUBS</h2>
+<a href="../index.html">Main Overview</a>
+<a href="../entities/index.html">Sorrow Entities</a>
+<a href="../factions/index.html">Factions &amp; Guilds</a>
+<a href="../departments/index.html">Facility Floors</a>
+<a href="../mechanics/ordeals-framework.html">Ordeals</a>
+<a href="../lore/index.html">Lore &amp; Cosmology</a>
+</section>
+</nav>
+</aside>
+<main id="content">
+<div class="breadcrumbs"><a href="../index.html">Somnarak</a> <i>/</i> <a href="index.html">Mechanics</a> <i>/</i> <span>The Four Watches</span></div>
+<div class="article-header">
+<div class="article-eyebrow">ORDEALS · TIME AXIS</div>
+<h1 class="article-title">The Four Watches</h1>
 </div>
+<nav class="toc hub-toc toc-panel"><div class="toc-title">Contents</div><ol><li><a href="#overview">Overview</a></li>
+<li><a href="#first">First Watch</a></li>
+<li><a href="#second">Second Watch</a></li>
+<li><a href="#third">Third Watch</a></li>
+<li><a href="#tide">Tide Watch</a></li>
+<li><a href="#retired">Retired overlay</a></li></ol></nav>
 
-
-<p><strong>Color axis (LC analog):</strong>
+<section class="wiki-section" id="overview"><h2 class="section-title">Overview</h2>
+<p><strong>The Four Watches</strong> are the time axis of Ordeals. Color is the Han type (Blue Lament, Black Weight, Pale Void, Grey Grudge, Purple raw Han). Time is severity. This page is Dawn / Noon / Dusk / Midnight in LC terms — First, Second, Third, and Tide Watch. It is <em>not</em> Whisper / Surge / Breach / Abyss. That four-name overlay was a dump leftover and is retired.</p>
+<p>One Ordeal per Time per day. Times escalate. Color articles list the named manifestations:</p>
+<p>
 <a href="ordeal-blue.html">Blue — Mourning Host</a> ·
 <a href="ordeal-black.html">Black — Crushing Tide</a> ·
 <a href="ordeal-pale.html">Pale — The Fading</a> ·
 <a href="ordeal-grey.html">Grey — Resentful March</a> ·
 <a href="ordeal-purple.html">Purple — The Corruption</a>.
-Time axis (this page): First / Second / Third / Tide Watch. Hub: <a href="ordeals-framework.html">Ordeals framework</a>.</p>
-<h2 id="overview">/// 1. OVERVIEW OF FACILITY ORDEALS</h2>
-<p>
-  As daily Han extraction quotas are met throughout a shift, metaphysical pressure within the subterranean bedrock escalates. When Han saturation reaches critical thresholds, spontaneous resonance waves known as <strong>Ordeals (시련 — Siryeon)</strong> manifest throughout Facility 01 corridors.
-</p>
-
-<h2 id="the-whisper">/// 2. TIER I: THE WHISPER (DAWN ORDEAL)</h2>
-<p>
-  Minor auditory hallucinations and crawling sorrow larvae manifesting in peripheral hallways. Easily suppressed by Grade 1–2 operatives wielding basic Grudge/Lament weaponry.
-</p>
-
-<h2 id="the-surge">/// 3. TIER II: THE SURGE (NOON ORDEAL)</h2>
-<p>
-  Effluent geysers erupting from drainage grates across Floors 3–5. Inflicts passive Weight damage on non-shielded personnel and reduces chamber Coherence counters by 1 if left uncontained.
-</p>
-
-<h2 id="the-breach">/// 4. TIER III: THE BREACH (DUSK ORDEAL)</h2>
-<p>
-  Crystalline monolithic pillars piercing multiple sector bulkheads simultaneously. Spawns hostile Night Aberrations capable of engaging multiple SED strike teams.
-</p>
-
-<h2 id="the-abyss">/// 5. TIER IV: THE ABYSS (MIDNIGHT ORDEAL)</h2>
-<p>
-  Catastrophic existential rupture unsealing Floor 8 Gate Watch boundaries. Inflicts global facility-wide Void decay (% Max HP). Demands immediate deployment of Echo-Core Leads and APOCRYPHA-grade M.A.W. armament squads.
-</p>
+Hub: <a href="ordeals-framework.html">Ordeals framework</a>.</p>
+</section>
+<section class="wiki-section" id="first"><h2 class="section-title">First Watch (minor)</h2>
+<p>Early Management Phase. After two or three work cycles, Han-density is Elevated. Five to ten weak manifestations spawn as a warning that free Han is accumulating. A Level 2 team can suppress them. Analog: LC Dawn / TETH.</p>
+<p>Named First Watch examples: Blue Weeping Cluster, Black Rolling Weight, Pale The Forgotten, Grey Resentful Three, Purple The Seeping. They last about a minute if ignored, then move or fade — but they leave residue (cracked floors, missing memories, Fracture-like film).</p>
+</section>
+<section class="wiki-section" id="second"><h2 class="section-title">Second Watch (moderate)</h2>
+<p>Mid-Management. After five or six work cycles the gauge is Critical. Ten to twenty bodies, or fewer stronger ones. Level 3+ with M.A.W. Analog: LC Noon / HE.</p>
+<p>Second Watch is where corridors stop being “a swarm of larvae” and start being a fight. Grey forms battalions. Purple roots into the Han-flow. Pale starts erasing ranks, not single names.</p>
+</section>
+<section class="wiki-section" id="third"><h2 class="section-title">Third Watch (major)</h2>
+<p>Late Management, approaching Sorrow Tide. After eight or more cycles, or near Tide. A single large entity or a coordinated horde. Level 4+, specialized M.A.W., Containment Lead oversight. Analog: LC Dusk / WAW.</p>
+<p>If Third Watch is not handled it does not politely become Tide Watch later — it <em>is</em> the on-ramp. Dekan’s manual treats an unsuppressed Third as a floor-loss risk, not a delay.</p>
+</section>
+<section class="wiki-section" id="tide"><h2 class="section-title">Tide Watch (catastrophic)</h2>
+<p>Sorrow Tide peak only, or a major breach cascade. Facility-wide. Echo-Cores and their top teams. Analog: LC Midnight / ALEPH. An unsuppressed Tide Watch before dawn can permanently damage the Hand of Change.</p>
+<p>Ordeals are mortal. They do not return from the Weeping. Tide Watch is the only suppression that can drop facility Han-density enough to matter city-wide — which is why Majin vetoed “deliberately spawn Tide Watches to bleed the city” three times.</p>
+</section>
+<section class="wiki-section" id="retired"><h2 class="section-title">Retired overlay</h2>
+<p>Older wiki text named four events Whisper, Surge, Breach, and Abyss and mapped them to morning / midday / evening / night. That list mixed city atmosphere with Ordeals and does not match <code>SOMNARAK_ORDEALS_FRAMEWORK.md</code>. The canon grid is <strong>five colors × four watches</strong>. Use the color articles and this time axis.</p>
+</section>
 
 
-      <footer class="wiki-footer">
-        <div class="footer-grid">
-          <div>
-            <b>SOMNARAK ARCHIVAL DIRECTORY</b>
-            <p>Reverie Directorate Subterranean Complex // Facility 01 Hand of Change</p>
-          </div>
-          <div style="text-align: right;">
-            <b>AUTHORIZATION:</b> OVERSIGHT CLEARANCE TIER-5<br>
-            <span>CONFIDENTIAL ARCHIVAL SYSTEM</span>
-          </div>
-        </div>
-      </footer>
-    <section class="wiki-section" id="ordeals-the-facility-s-trials"><h2 class="section-title">Ordeals — The Facility's Trials</h2><h3>Overview</h3>
-<div class="wiki-callout"><p><em><span>"The <a class="wiki-link" href="../departments/index.html">Hand of Change</a> does not rest. And neither do the things that try to break it."</span></em></p></div>
-<p><strong><span><a class="wiki-link" href="../mechanics/ordeals-framework.html">Ordeals</a></span></strong><span> are periodic threats that strike The <a class="wiki-link" href="../departments/index.html">Hand of Change</a>. Unlike entity breaches (which are internal), Ordeals come from </span><strong>outside</strong> — the city, the Desolate, or something worse. They test the facility's defenses, the personnel's resolve, and the Echo-Cores' leadership.</p>
-<h3>The Four Ordeals</h3>
-<p><span><a class="wiki-link" href="../mechanics/ordeals-framework.html">Ordeals</a> occur in a cycle — each one stronger than the last. The cycle repeats.</span></p>
-<div class="table-wrap"><table class="wiki-table">
-<thead><tr><th>Ordeal</th><th>Timing</th><th>Source</th><th>Threat Level</th></tr></thead>
-<tbody>
-<tr><td><strong>The Whisper</strong></td><td>Morning</td><td>The city's ambient Han</td><td>Low</td></tr>
-<tr><td><strong>The Surge</strong></td><td>Midday</td><td><span><a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> surge</span></td><td>Medium</td></tr>
-<tr><td><strong>The Breach</strong></td><td>Evening</td><td>Outside Sorrow incursion</td><td>High</td></tr>
-<tr><td><strong>The Abyss</strong></td><td>Night</td><td>The Abyss bleeds through</td><td>Extreme</td></tr>
-</tbody></table></div>
-<h4>The Whisper (속삭임 — Soksagim)</h4>
-<p><strong>Timing:</strong> Morning — when the city's Han is lightest</p>
-<p><strong>What happens:</strong> The facility's Han-conduits fluctuate — ambient sorrow from the city seeps in, causing minor disturbances. Rooms flicker. Han-lamps dim. Personnel feel uneasy.</p>
-<p><strong>Threat type:</strong> Environmental — no direct combat, but reduced efficiency</p>
-<p><strong>What personnel experience:</strong></p>
-<ul>
-<li>Han-lamps dim — visibility decreases</li>
-<li>Rooms feel colder — Han-energy drops</li>
-<li>Personnel feel uneasy — mild emotional distress</li>
-<li>Sorrow Gauges fluctuate — false readings</li>
-</ul>
-<p><strong>How to handle:</strong></p>
-<ul>
-<li>Stabilize Han-conduits — repair work in affected rooms</li>
-<li>Boost Veil generators — increase suppression</li>
-<li>Personnel rest — emotional recovery time</li>
-</ul>
-<p><strong>The Whisper's lesson:</strong> <em>"The city never stops grieving. Even in the morning, the sorrow seeps in."</em></p>
-<h4>The Surge (급등 — Geupdeung)</h4>
-<p><strong>Timing:</strong> Midday — when the city's Han is densest</p>
-<p><strong>What happens:</strong><span> <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a> in containment become agitated — gauges rise, entities vocalize, some attempt breach. The facility must respond.</span></p>
-<p><strong>Threat type:</strong> Internal — entity agitation, potential breaches</p>
-<p><strong>What personnel experience:</strong></p>
-<ul>
-<li>Entity gauges rise — containment stress increases</li>
-<li>Entities vocalize — the facility fills with whispers, cries, roars</li>
-<li>Some entities attempt breach — containment teams respond</li>
-<li>Work Type effectiveness decreases — entities are hostile</li>
-</ul>
-<p><strong>How to handle:</strong></p>
-<ul>
-<li>Reinforce containment — increase suppression in affected cells</li>
-<li>Perform Work Types — calm agitated entities</li>
-<li>Breach response — suppress any entities that escape</li>
-<li>Echo-Core leadership — direct personnel, manage priorities</li>
-</ul>
-<p><strong>The Surge's lesson:</strong> <em>"The sorrow does not sleep. It waits. And when you are busiest, it strikes."</em></p>
-<h4>The Breach (파열 — Payeol)</h4>
-<p><strong>Timing:</strong> Evening — when the Veil weakens</p>
-<p><strong>What happens:</strong><span> Outside Sorrow seeps into the facility — Desolate entities, Han-flows from the wilderness, or Sorrow-Wrought creatures that breach from <a class="wiki-link" href="../locations/zone-e-perimeter-bulwark.html">Zone E</a>.</span></p>
-<p><strong>Threat type:</strong> External — outside entities invade the facility</p>
-<p><strong>What personnel experience:</strong></p>
-<ul>
-<li>Facility temperature drops — Outside Sorrow is cold</li>
-<li>Desolate entities appear in corridors — wild, uncontained, hostile</li>
-<li>Han-conduits clog — Outside Sorrow mixes with refined Han</li>
-<li><span><a class="wiki-link" href="../departments/floor-5-border-watch.html">Border Watch</a> mobilizes — defense protocols activate</span></li>
-</ul>
-<p><strong>How to handle:</strong></p>
-<ul>
-<li>Combat — suppress invading entities</li>
-<li>Seal breaches — close Han-conduit leaks</li>
-<li><span>Coordinate with <a class="wiki-link" href="../departments/floor-5-border-watch.html">Border Watch</a> — external defense</span></li>
-<li>Echo-Core leadership — tactical decisions</li>
-</ul>
-<p><strong>The Breach's lesson:</strong> <em>"The wilderness is always watching. And when the Veil thins, it reaches in."</em></p>
-<h4>The Abyss (심연 — Simyeon)</h4>
-<p><strong>Timing:</strong> Night — when the Abyss is closest</p>
-<p><strong>What happens:</strong> The Abyss bleeds through — the deepest, darkest sorrow rises from below. The facility's foundations tremble. The Final Door whispers.</p>
-<p><strong>Threat type:</strong> Existential — the Abyss itself threatens the facility</p>
-<p><strong>What personnel experience:</strong></p>
-<ul>
-<li>The facility shakes — foundations tremble</li>
-<li><span>The Abyssal Well (<a class="wiki-link" href="../departments/floor-2-maws-keep.html">Floor 2</a>) activates — Han-energy spikes</span></li>
-<li><span>The Final Door (<a class="wiki-link" href="../departments/floor-6-deep-vault.html">Floor 6</a>) whispers — ancient voices, in a language no one speaks</span></li>
-<li>Personnel experience existential dread — questioning purpose, meaning, hope</li>
-<li>Some personnel may Fracture — overwhelmed by the weight</li>
-</ul>
-<p><strong>How to handle:</strong></p>
-<ul>
-<li>Stabilize the Abyssal Well — reinforce containment</li>
-<li>Silence the Final Door — seal it with Han-barriers</li>
-<li>Support personnel — emotional grounding, community</li>
-<li>Echo-Core leadership — the Director must act personally</li>
-</ul>
-<p><strong>The Abyss's lesson:</strong> <em>"The Abyss does not attack. It simply... is. And when you stare into it, it stares back."</em></p>
-<h3>Ordeal Rewards</h3>
-<p>Successfully surviving an Ordeal produces benefits:</p>
-<div class="table-wrap"><table class="wiki-table">
-<thead><tr><th>Ordeal</th><th>Reward</th></tr></thead>
-<tbody>
-<tr><td><strong>The Whisper</strong></td><td>+10% Han-Energy production for 6 hours</td></tr>
-<tr><td><strong>The Surge</strong></td><td>Entity gauges reset — containment is stable for 12 hours</td></tr>
-<tr><td><strong>The Breach</strong></td><td>Captured Desolate entities can be studied — new M.A.W. potential</td></tr>
-<tr><td><strong>The Abyss</strong></td><td>Massive Han-Energy surge — facility operates at 150% for 24 hours</td></tr>
-</tbody></table></div>
-<p><strong>Historical hidden consequence:</strong><span> During the Cycle, an Abyssal surge could feed the concealed <a href="../lore/the-cycle-and-absolvohan.html" class="wiki-link">Absolvohan</a> reserve, giving <a class="wiki-link" href="../characters/the-director-majin.html">Majin</a> a private reason to value an event that endangered personnel. That diversion ends with the original <a href="../lore/the-cycle-and-absolvohan.html" class="wiki-link">Absolvohan</a> program.</span></p>
-<h3>Ordeal Frequency</h3>
-<div class="table-wrap"><table class="wiki-table">
-<thead><tr><th>Ordeal</th><th>Frequency</th><th>Duration</th></tr></thead>
-<tbody>
-<tr><td><strong>The Whisper</strong></td><td>Daily</td><td>1-2 hours</td></tr>
-<tr><td><strong>The Surge</strong></td><td>Every 3 days</td><td>2-4 hours</td></tr>
-<tr><td><strong>The Breach</strong></td><td>Weekly</td><td>4-8 hours</td></tr>
-<tr><td><strong>The Abyss</strong></td><td>Monthly</td><td>8-24 hours</td></tr>
-</tbody></table></div>
-<h3>Ordeal Escalation</h3>
-<p>If an Ordeal is not handled properly, it <strong>escalates</strong>:</p>
-<div class="table-wrap"><table class="wiki-table">
-<thead><tr><th>Ordeal</th><th>Escalation</th></tr></thead>
-<tbody>
-<tr><td><strong>The Whisper</strong></td><td>Becomes Noon — entity agitation begins</td></tr>
-<tr><td><strong>The Surge</strong></td><td>Becomes Dusk — outside entities breach</td></tr>
-<tr><td><strong>The Breach</strong></td><td>Becomes Midnight — the Abyss bleeds through</td></tr>
-<tr><td><strong>The Abyss</strong></td><td><strong>The Collapse</strong> — facility-wide catastrophe, potential total loss</td></tr>
-</tbody></table></div>
-<p><strong>The Collapse:</strong><span> If Midnight escalates, the facility faces total failure. The Abyssal Well ruptures. The Final Door opens. Entities escape. Personnel Fracture. The <a class="wiki-link" href="../departments/index.html">Hand of Change</a> falls.</span></p>
-<p><strong>This has never happened.</strong> The Director ensures it never will. But the threat is always there.</p></section>
-</main>
-  </div>
-</body>
-</html>
+<footer class="article-footer">
+<div class="footer-categories"><strong>Categories:</strong> <a href="ordeals-framework.html">Ordeals</a> | <a href="the-four-ordeals.html">Four Watches</a> | <a href="index.html">Mechanics</a></div>
+</footer>
+</main></div></body></html>

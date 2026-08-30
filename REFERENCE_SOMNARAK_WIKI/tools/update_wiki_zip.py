@@ -42,6 +42,9 @@ def build_zip() -> tuple[int, int]:
             if not path.is_file():
                 continue
             rel = path.relative_to(WIKI)
+            parts = rel.parts
+            if parts and parts[0] == "downloads":
+                continue
             if path.suffix.lower() == ".zip":
                 continue
             if path.name in {ZIP_NAME, OUT.with_suffix(".zip.tmp").name}:
