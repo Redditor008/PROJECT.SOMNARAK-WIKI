@@ -269,7 +269,7 @@
     "title": "List of Sorrow Entities — Somnarak Wiki",
     "url": "entities/list.html",
     "category": "Sorrow Entities",
-    "description": "Registry table of the thirteen contained Sorrow Entities.",
+    "description": "Published slice: 10 Codex-backed + 3 unregistered slots of ~288.",
     "keywords": "List of Sorrow Entities SE-001 SECC Lament Grudge Void Weight M.A.W."
   },
   {
@@ -298,7 +298,7 @@
     "url": "entities/se-004-the-rust-bleeding-sentry.html",
     "category": "Sorrow Entities",
     "description": "SE-004 is not in the Codex or 01_Sorrow_Entities. Retired wiki nickname: Rust-Bleeding Sentry.",
-    "keywords": "SE-004 unregistered Rust-Bleeding Sentry not in Codex"
+    "keywords": "SE-004 unregistered Rust-Bleeding Sentry not in Codex unregistered retraction"
   },
   {
     "title": "The Smothering Mother",
@@ -312,7 +312,7 @@
     "url": "entities/se-006-the-siphon-leech.html",
     "category": "Sorrow Entities",
     "description": "SE-006 is not in the Codex or 01_Sorrow_Entities. Retired wiki nickname: Siphon Leech.",
-    "keywords": "SE-006 unregistered Siphon Leech not in Codex"
+    "keywords": "SE-006 unregistered Siphon Leech not in Codex unregistered retraction"
   },
   {
     "title": "Brume",
@@ -326,7 +326,7 @@
     "url": "entities/se-008-the-iron-maiden-of-regret.html",
     "category": "Sorrow Entities",
     "description": "SE-008 is not in the Codex or 01_Sorrow_Entities. Retired wiki nickname: Iron Maiden of Regret.",
-    "keywords": "SE-008 unregistered Iron Maiden of Regret not in Codex"
+    "keywords": "SE-008 unregistered Iron Maiden of Regret not in Codex unregistered retraction"
   },
   {
     "title": "The Memory Weaver",
@@ -1348,6 +1348,41 @@
     "title": "The Keepers",
     "description": "Girokgwan memory guild — Grand Archive, Memory Lens, Whispering Index. Not the Washers.",
     "keywords": "Keepers Girokgwan Girokjang Grand Archive Memory Lens Whispering Index Echo vaults",
+    "type": "article"
+  },
+  {
+    "url": "factions/the-judexhan.html",
+    "title": "The Judexhan",
+    "description": "Council elite arbiters — Judgment Blade, forehead implant, retirement under the Alpha Tree.",
+    "keywords": "Judexhan Judgment Blade Han-crystal implant Arbiter Council elite",
+    "type": "article"
+  },
+  {
+    "url": "factions/the-menders.html",
+    "title": "The Menders",
+    "description": "Independent Raw operators — kit, repair rod, dual report to Architects and R.D.",
+    "keywords": "Menders Suseonja Repair Rod Mendery Raw Collective Veil Watchers",
+    "type": "article"
+  },
+  {
+    "url": "departments/agent-assignment.html",
+    "title": "Agent Assignment",
+    "description": "Facility-wide personnel placement by attribute — not a Floor 1 dump.",
+    "keywords": "Agent Assignment personnel Resilience Clarity Composure Resolve floors",
+    "type": "article"
+  },
+  {
+    "url": "departments/facility-upgrades.html",
+    "title": "Facility Upgrades",
+    "description": "Hand of Change growth — containment, observation, welfare, expansion. Not a Floor 1 chapter.",
+    "keywords": "Facility upgrades Hand of Change cells gauges Architects",
+    "type": "article"
+  },
+  {
+    "url": "departments/research-observation.html",
+    "title": "Research and Observation",
+    "description": "R.D. observation levels 0–4. Facility-wide, not a Floor 4 dump.",
+    "keywords": "Observation Level research Insight Forge Work Types SECC",
     "type": "article"
   }
 ]
