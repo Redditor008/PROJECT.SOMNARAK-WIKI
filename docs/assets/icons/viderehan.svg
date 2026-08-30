@@ -1,17 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Viderehan — observation aperture">
   <defs>
-    <radialGradient id="v-g" cx="50%" cy="48%" r="55%">
+    <radialGradient id="vg" cx="50%" cy="48%" r="55%">
       <stop offset="0%" stop-color="#0b3a28"/>
       <stop offset="100%" stop-color="#02140d"/>
     </radialGradient>
   </defs>
-  <polygon points="60,6 110,28 110,92 60,114 10,92 10,28" fill="url(#v-g)" stroke="#71efaf" stroke-width="3.5"/>
-  <polygon points="60,16 100,34 100,86 60,104 20,86 20,34" fill="none" stroke="#71efaf" stroke-width="1.2" opacity=".55"/>
-  <path d="M22 58 Q60 28 98 58 Q60 88 22 58 Z" fill="#032016" stroke="#71efaf" stroke-width="2.4"/>
-  <circle cx="60" cy="58" r="14" fill="#0a2f22" stroke="#d8ffe8" stroke-width="2"/>
-  <circle cx="60" cy="58" r="6.5" fill="#71efaf"/>
-  <circle cx="63" cy="55" r="2.2" fill="#fff"/>
-  <path d="M60 72 C56 80 54 86 60 94 C66 86 64 80 60 72 Z" fill="#71efaf"/>
-  <circle cx="60" cy="22" r="2.2" fill="#71efaf"/>
-  <circle cx="60" cy="98" r="2.2" fill="#71efaf"/>
+  <polygon points="60,6 110,28 110,92 60,114 10,92 10,28" fill="url(#vg)" stroke="#71efaf" stroke-width="3.5"/>
+  <!-- iris diaphragm blades around a round aperture. Not an almond. Not a pupil. -->
+  <g transform="translate(60,58)">
+    <circle r="28" fill="#032016" stroke="#71efaf" stroke-width="1.6"/>
+    <path d="M0 -26 L10 -8 L0 -4 Z" fill="#0a2f22" stroke="#71efaf" stroke-width="1"/>
+    <path d="M22 -14 L14 4 L4 -2 Z" fill="#0a2f22" stroke="#71efaf" stroke-width="1" transform="rotate(45)"/>
+    <path d="M22 -14 L14 4 L4 -2 Z" fill="#0a2f22" stroke="#71efaf" stroke-width="1" transform="rotate(90)"/>
+    <path d="M22 -14 L14 4 L4 -2 Z" fill="#0a2f22" stroke="#71efaf" stroke-width="1" transform="rotate(135)"/>
+    <path d="M22 -14 L14 4 L4 -2 Z" fill="#0a2f22" stroke="#71efaf" stroke-width="1" transform="rotate(180)"/>
+    <path d="M22 -14 L14 4 L4 -2 Z" fill="#0a2f22" stroke="#71efaf" stroke-width="1" transform="rotate(225)"/>
+    <path d="M22 -14 L14 4 L4 -2 Z" fill="#0a2f22" stroke="#71efaf" stroke-width="1" transform="rotate(270)"/>
+    <path d="M22 -14 L14 4 L4 -2 Z" fill="#0a2f22" stroke="#71efaf" stroke-width="1" transform="rotate(315)"/>
+    <circle r="9" fill="#02140d" stroke="#d8ffe8" stroke-width="2"/>
+  </g>
 </svg>

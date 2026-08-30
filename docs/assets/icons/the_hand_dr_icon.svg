@@ -1,68 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="100%" height="100%" role="img" aria-label="Facility 01 Hand of Change cutaway">
   <defs>
-    <radialGradient id="handCoreGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#f1df76" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    <radialGradient id="h240g" cx="50%" cy="34%" r="60%">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="55%" stop-color="#080c14"/>
+      <stop offset="100%" stop-color="#020408"/>
     </radialGradient>
-    <linearGradient id="handBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0c121d"/>
-      <stop offset="50%" stop-color="#060910"/>
-      <stop offset="100%" stop-color="#020406"/>
-    </linearGradient>
-    <filter id="glowFilt" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
-      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-    </filter>
   </defs>
-
-  <!-- Inset Border with 4px margin so no stroke is cut off -->
-  <rect x="4" y="4" width="112" height="112" rx="14" fill="url(#handBgGrad)" stroke="#f1df76" stroke-width="2.5"/>
-  <rect x="8" y="8" width="104" height="104" rx="10" fill="none" stroke="rgba(56, 189, 248, 0.25)" stroke-width="1" stroke-dasharray="3 3"/>
-
-  <!-- Radial Background Flare -->
-  <circle cx="60" cy="54" r="44" fill="url(#handCoreGlow)"/>
-
-  <!-- Alpha Tree Spire & Surface Interface -->
-  <polygon points="53,12 67,12 64,22 56,22" fill="#475569" stroke="#94a3b8" stroke-width="1.2"/>
-  <line x1="60" y1="22" x2="60" y2="32" stroke="#38bdf8" stroke-width="2.5" filter="url(#glowFilt)"/>
-
-  <!-- Palm Chamber Complex (F1, F2, F3) -->
-  <!-- Floor 1 Neutral Command -->
-  <rect x="36" y="32" width="48" height="12" rx="2" fill="#78350f" stroke="#f1df76" stroke-width="1.5"/>
-  <text x="60" y="41" fill="#fff" font-family="Arial, sans-serif" font-size="7" font-weight="bold" text-anchor="middle">F1 PALM</text>
-
-  <!-- Floor 2 Maw's Keep -->
-  <rect x="34" y="46" width="52" height="12" rx="2" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.5"/>
-  <text x="60" y="55" fill="#fecaca" font-family="Arial, sans-serif" font-size="7" font-weight="bold" text-anchor="middle">F2 MAW</text>
-
-  <!-- Floor 3 Extraction Hall -->
-  <rect x="38" y="60" width="44" height="11" rx="2" fill="#1e3a8a" stroke="#38bdf8" stroke-width="1.5"/>
-  <text x="60" y="68.5" fill="#bae6fd" font-family="Arial, sans-serif" font-size="6.5" font-weight="bold" text-anchor="middle">F3 EXT</text>
-
-  <!-- Distribution Bus Line -->
-  <line x1="60" y1="71" x2="60" y2="78" stroke="#38bdf8" stroke-width="2.5"/>
-  <line x1="18" y1="78" x2="102" y2="78" stroke="#38bdf8" stroke-width="2"/>
-
-  <!-- The 4 Vertical Finger Drops -->
-  <!-- F4 Insight Forge -->
-  <rect x="16" y="80" width="18" height="26" rx="2" fill="#064e3b" stroke="#10b981" stroke-width="1.2"/>
-  <text x="25" y="96" fill="#a7f3d0" font-family="Arial, sans-serif" font-size="6" font-weight="bold" text-anchor="middle">F4</text>
-
-  <!-- F5 Border Watch -->
-  <rect x="38" y="80" width="18" height="30" rx="2" fill="#0c4a6e" stroke="#0284c7" stroke-width="1.2"/>
-  <text x="47" y="97" fill="#bae6fd" font-family="Arial, sans-serif" font-size="6" font-weight="bold" text-anchor="middle">F5</text>
-
-  <!-- F6 Deep Vault -->
-  <rect x="64" y="80" width="18" height="30" rx="2" fill="#3b0764" stroke="#8b5cf6" stroke-width="1.2"/>
-  <text x="73" y="97" fill="#e9d5ff" font-family="Arial, sans-serif" font-size="6" font-weight="bold" text-anchor="middle">F6</text>
-
-  <!-- F7 Shadow Corps -->
-  <rect x="86" y="80" width="18" height="26" rx="2" fill="#4c0519" stroke="#e11d48" stroke-width="1.2"/>
-  <text x="95" y="96" fill="#fecaca" font-family="Arial, sans-serif" font-size="6" font-weight="bold" text-anchor="middle">F7</text>
-
-  <!-- Lateral F8 Gate Watch Outpost -->
-  <rect x="92" y="44" width="18" height="12" rx="2" fill="#1e293b" stroke="#94a3b8" stroke-width="1.2"/>
-  <text x="101" y="52.5" fill="#f1f5f9" font-family="Arial, sans-serif" font-size="5.5" font-weight="bold" text-anchor="middle">F8</text>
-  <line x1="86" y1="50" x2="92" y2="50" stroke="#94a3b8" stroke-width="1" stroke-dasharray="2 1"/>
+  <rect x="6" y="6" width="228" height="228" rx="12" fill="url(#h240g)" stroke="#38bdf8" stroke-width="2.4"/>
+  <rect x="12" y="12" width="216" height="216" rx="8" fill="none" stroke="#f1df76" stroke-width="1.1" stroke-dasharray="8 4" opacity=".55"/>
+  <!-- Alpha Tree wrist -->
+  <path d="M104 16 L136 16 L128 42 L112 42 Z" fill="#0b1220" stroke="#f1df76" stroke-width="2"/>
+  <path d="M120 16 V8" stroke="#71efaf" stroke-width="3"/>
+  <path d="M112 42 Q72 62 56 82 M128 42 Q168 62 184 82" fill="none" stroke="#38bdf8" stroke-width="2"/>
+  <!-- PALM F1–F3 -->
+  <rect x="56" y="54" width="128" height="96" rx="20" fill="#141207" stroke="#f1df76" stroke-width="3"/>
+  <rect x="70" y="64" width="100" height="22" rx="3" fill="#1c1917" stroke="#f1df76" stroke-width="1.6"/>
+  <rect x="70" y="90" width="100" height="22" rx="3" fill="#0b1220" stroke="#38bdf8" stroke-width="1.6"/>
+  <rect x="70" y="116" width="100" height="22" rx="3" fill="#140a04" stroke="#fb923c" stroke-width="1.6"/>
+  <!-- windows on palm = rooms, not labels -->
+  <g fill="#f1df76" opacity=".55">
+    <rect x="78" y="70" width="10" height="8" rx="1"/>
+    <rect x="94" y="70" width="10" height="8" rx="1"/>
+    <rect x="110" y="70" width="10" height="8" rx="1"/>
+    <rect x="126" y="70" width="10" height="8" rx="1"/>
+    <rect x="142" y="70" width="10" height="8" rx="1"/>
+  </g>
+  <g fill="#38bdf8" opacity=".5">
+    <rect x="78" y="96" width="18" height="8" rx="1"/>
+    <rect x="104" y="96" width="18" height="8" rx="1"/>
+    <rect x="130" y="96" width="18" height="8" rx="1"/>
+  </g>
+  <g fill="#fb923c" opacity=".55">
+    <rect x="86" y="122" width="22" height="8" rx="1"/>
+    <rect x="118" y="122" width="22" height="8" rx="1"/>
+  </g>
+  <!-- WING F8 -->
+  <path d="M184 84 C214 74 228 78 228 98 C228 118 208 126 184 118 Z" fill="#140c04" stroke="#f59e0b" stroke-width="2.2"/>
+  <g fill="none" stroke="#f59e0b" stroke-width="1.2">
+    <rect x="196" y="90" width="16" height="22" rx="1"/>
+    <path d="M200 96 V108 M204 96 V108 M208 96 V108"/>
+  </g>
+  <!-- FINGERS -->
+  <rect x="64" y="148" width="22" height="50" rx="9" fill="#04110c" stroke="#71efaf" stroke-width="2"/>
+  <rect x="94" y="148" width="22" height="64" rx="9" fill="#111827" stroke="#e2e8f0" stroke-width="2"/>
+  <rect x="124" y="148" width="22" height="60" rx="9" fill="#1e0a24" stroke="#c084fc" stroke-width="2"/>
+  <rect x="154" y="148" width="22" height="42" rx="9" fill="#14080a" stroke="#ef5b55" stroke-width="2"/>
+  <path d="M75 152 V190 M105 152 V202 M135 152 V198 M165 152 V182" stroke="#f1df76" stroke-width="1.2" opacity=".65"/>
+  <!-- Weeping -->
+  <path d="M40 226 Q80 214 120 222 Q168 232 204 216" fill="none" stroke="#38bdf8" stroke-width="2.4"/>
+  <path d="M48 230 Q90 220 126 226" fill="none" stroke="#71efaf" stroke-width="1.2" opacity=".6"/>
 </svg>

@@ -1,8 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
-  <polygon points="60,4 114,24 114,86 60,116 6,86 6,24" fill="#1c1402" stroke="#f1df76" stroke-width="3.5"/>
-  <polygon points="60,10 108,26 108,82 60,110 12,82 12,26" fill="none" stroke="#f1df76" stroke-width="1.2" stroke-dasharray="6 3"/>
-  <circle cx="60" cy="50" r="22" fill="none" stroke="#f1df76" stroke-width="2"/>
-  <text x="60" y="58" fill="#ffffff" font-family="'JetBrains Mono', monospace" font-size="20" font-weight="bold" text-anchor="middle">04</text>
-  <text x="60" y="86" fill="#f1df76" font-family="'JetBrains Mono', monospace" font-size="8.5" font-weight="bold" text-anchor="middle">INSIGHT FORGE</text>
-  <text x="60" y="98" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="6.5" font-weight="bold" text-anchor="middle">FACILITY 01 // SECTOR</text>
+  <polygon points="60,4 114,24 114,84 60,116 6,84 6,24" fill="#04110c" stroke="#71efaf" stroke-width="3.2"/>
+  
+  <rect x="22" y="30" width="34" height="52" fill="#04110c" stroke="#71efaf" stroke-width="1.6"/>
+  <path d="M26 38 H50 M26 46 H46 M26 54 H48" stroke="#71efaf" stroke-width="1.4"/>
+  <path d="M64 40 C74 30 86 56 96 44 C102 36 100 70 86 74" fill="none" stroke="#38bdf8" stroke-width="1.6"/>
+  <rect x="72" y="68" width="16" height="16" fill="#0b1220" stroke="#f1df76" stroke-width="1.2"/>
+
 </svg>

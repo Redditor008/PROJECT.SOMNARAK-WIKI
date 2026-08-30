@@ -1,10 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
-  <polygon points="36,4 84,4 116,36 116,84 84,116 36,116 4,84 4,36" fill="#211802" stroke="#f1df76" stroke-width="3.5"/>
-  <!-- Monumental Stone Archway -->
-  <path d="M 28,84 L 28,42 Q 60,14 92,42 L 92,84 L 76,84 L 76,52 Q 60,34 44,52 L 44,84 Z" fill="#4d3b07" stroke="#f1df76" stroke-width="2.5"/>
-  <!-- Dropped Iron Portcullis Grate -->
-  <line x1="50" y1="46" x2="50" y2="84" stroke="#ef5b55" stroke-width="2"/>
-  <line x1="60" y1="40" x2="60" y2="84" stroke="#ef5b55" stroke-width="2"/>
-  <line x1="70" y1="46" x2="70" y2="84" stroke="#ef5b55" stroke-width="2"/>
-  <text x="60" y="106" fill="#f1df76" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="bold" text-anchor="middle">F-08</text>
+  <polygon points="60,4 114,24 114,84 60,116 6,84 6,24" fill="#140c04" stroke="#f59e0b" stroke-width="3.2"/>
+  
+  <rect x="26" y="30" width="68" height="58" fill="#140c04" stroke="#f59e0b" stroke-width="2"/>
+  <g fill="#1c1917" stroke="#f59e0b" stroke-width="1">
+    <rect x="32" y="38" width="6" height="42"/>
+    <rect x="40" y="38" width="6" height="42"/>
+    <rect x="48" y="38" width="6" height="42"/>
+    <rect x="56" y="38" width="6" height="42"/>
+    <rect x="64" y="38" width="6" height="42"/>
+    <rect x="72" y="38" width="6" height="42"/>
+    <rect x="80" y="38" width="6" height="42"/>
+  </g>
+
 </svg>

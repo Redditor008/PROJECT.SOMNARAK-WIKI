@@ -1,110 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Hand of Change — palm at the top, fingers into the dark">
   <defs>
-    <linearGradient id="handBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a121e"/>
-      <stop offset="50%" stop-color="#04070d"/>
-      <stop offset="100%" stop-color="#0a0507"/>
+    <linearGradient id="hbbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#141207"/><stop offset="1" stop-color="#05080e"/>
     </linearGradient>
-    <linearGradient id="goldBar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#f1df76"/>
-      <stop offset="50%" stop-color="#fbbf24"/>
-      <stop offset="100%" stop-color="#d97706"/>
-    </linearGradient>
-    <filter id="handGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
   </defs>
-
-  <!-- Inset Outer Frame -->
-  <rect x="4" y="4" width="1192" height="312" rx="8" fill="url(#handBg)" stroke="#1e293b" stroke-width="2"/>
-  <rect x="8" y="8" width="1184" height="304" rx="6" fill="none" stroke="rgba(56, 189, 248, 0.2)" stroke-width="1" stroke-dasharray="8 4"/>
-
-  <!-- Top Tactical Status Bar -->
-  <rect x="12" y="12" width="1176" height="26" rx="3" fill="#080e18" stroke="#223854" stroke-width="1"/>
-  <text x="24" y="29" fill="#38bdf8" font-family="monospace" font-size="11" font-weight="bold">/// REVERIE DIRECTORATE // FACILITY 01 SUBTERRANEAN SYSTEM</text>
-  <text x="1164" y="29" fill="#f1df76" font-family="monospace" font-size="11" font-weight="bold" text-anchor="end">CLEARANCE: LEVEL 5 RESTRICTED // DEPTH: -2,000M</text>
-
-  <!-- Left: Schematic Diagram of The Hand Architecture -->
-  <g transform="translate(40, 50)">
-    <!-- Alpha Tree Surface Spire -->
-    <polygon points="120,4 140,4 135,16 125,16" fill="#38bdf8" stroke="#f1df76" stroke-width="1.2"/>
-    <line x1="130" y1="16" x2="130" y2="30" stroke="#38bdf8" stroke-width="2"/>
-    <!-- Palm Core (F1, F2, F3) -->
-    <rect x="80" y="30" width="100" height="22" rx="3" fill="#78350f" stroke="#f1df76" stroke-width="1.5"/>
-    <text x="130" y="45" fill="#fff" font-family="monospace" font-size="9" font-weight="bold" text-anchor="middle">F1 NEUTRAL COMMAND</text>
-
-    <rect x="75" y="58" width="110" height="22" rx="3" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.5"/>
-    <text x="130" y="73" fill="#fff" font-family="monospace" font-size="9" font-weight="bold" text-anchor="middle">F2 MAW'S KEEP</text>
-
-    <rect x="85" y="86" width="90" height="22" rx="3" fill="#1e3a8a" stroke="#38bdf8" stroke-width="1.5"/>
-    <text x="130" y="101" fill="#fff" font-family="monospace" font-size="9" font-weight="bold" text-anchor="middle">F3 EXTRACTION</text>
-
-    <!-- Elevator Conduit -->
-    <line x1="130" y1="108" x2="130" y2="124" stroke="#38bdf8" stroke-width="3"/>
-    <line x1="40" y1="124" x2="220" y2="124" stroke="#38bdf8" stroke-width="2"/>
-
-    <!-- 4 Finger Vaults -->
-    <rect x="30" y="130" width="40" height="70" rx="3" fill="#064e3b" stroke="#10b981" stroke-width="1.5"/>
-    <text x="50" y="168" fill="#a7f3d0" font-family="monospace" font-size="8" font-weight="bold" text-anchor="middle">F4 INSIGHT</text>
-
-    <rect x="78" y="130" width="40" height="85" rx="3" fill="#0c4a6e" stroke="#0284c7" stroke-width="1.5"/>
-    <text x="98" y="176" fill="#bae6fd" font-family="monospace" font-size="8" font-weight="bold" text-anchor="middle">F5 BORDER</text>
-
-    <rect x="142" y="130" width="40" height="85" rx="3" fill="#3b0764" stroke="#8b5cf6" stroke-width="1.5"/>
-    <text x="162" y="176" fill="#e9d5ff" font-family="monospace" font-size="8" font-weight="bold" text-anchor="middle">F6 VAULT</text>
-
-    <rect x="190" y="130" width="40" height="70" rx="3" fill="#4c0519" stroke="#e11d48" stroke-width="1.5"/>
-    <text x="210" y="168" fill="#fecaca" font-family="monospace" font-size="8" font-weight="bold" text-anchor="middle">F7 SHADOW</text>
-
-    <!-- F8 Outpost -->
-    <rect x="200" y="58" width="45" height="22" rx="3" fill="#1e293b" stroke="#94a3b8" stroke-width="1.5"/>
-    <text x="222" y="73" fill="#fff" font-family="monospace" font-size="8" font-weight="bold" text-anchor="middle">F8 GATE</text>
-    <line x1="185" y1="69" x2="200" y2="69" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <rect width="1400" height="280" fill="url(#hbbg)"/>
+  <!-- Alpha Tree trunk at the wrist -->
+  <path d="M210 8 L270 8 L250 70 L230 70 Z" fill="#0b1220" stroke="#f1df76" stroke-width="3"/>
+  <path d="M240 8 V0" stroke="#71efaf" stroke-width="4"/>
+  <path d="M230 70 Q150 100 110 140 M250 70 Q330 100 370 140" fill="none" stroke="#38bdf8" stroke-width="3"/>
+  <!-- PALM -->
+  <rect x="110" y="78" width="260" height="118" rx="36" fill="#141207" stroke="#f1df76" stroke-width="4"/>
+  <rect x="132" y="96" width="216" height="26" rx="4" fill="#1c1917" stroke="#f1df76" stroke-width="2"/>
+  <rect x="132" y="126" width="216" height="26" rx="4" fill="#0b1220" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="132" y="156" width="216" height="26" rx="4" fill="#140a04" stroke="#fb923c" stroke-width="2"/>
+  <!-- rooms as windows -->
+  <g fill="#f1df76" opacity=".6">
+    <rect x="150" y="102" width="18" height="12" rx="1"/><rect x="178" y="102" width="18" height="12" rx="1"/>
+    <rect x="206" y="102" width="18" height="12" rx="1"/><rect x="234" y="102" width="18" height="12" rx="1"/>
+    <rect x="262" y="102" width="18" height="12" rx="1"/><rect x="290" y="102" width="18" height="12" rx="1"/>
   </g>
-
-  <!-- Center-Right: Grand Title & Sector Overview -->
-  <g transform="translate(360, 60)">
-    <rect x="0" y="0" width="800" height="230" rx="6" fill="rgba(8, 14, 24, 0.75)" stroke="#223854" stroke-width="1.5"/>
-    <rect x="0" y="0" width="800" height="4" fill="url(#goldBar)"/>
-    
-    <text x="28" y="44" fill="#f1df76" font-family="Impact, sans-serif" font-size="34" letter-spacing="3">THE HAND OF CHANGE</text>
-    <text x="28" y="70" fill="#38bdf8" font-family="monospace" font-size="13" font-weight="bold" letter-spacing="1">FACILITY 01 SUBTERRANEAN HEADQUARTERS // ALL 8 SECTORS</text>
-
-    <line x1="28" y1="84" x2="772" y2="84" stroke="#1e293b" stroke-width="1.5"/>
-
-    <!-- Sector Quick Matrix -->
-    <g transform="translate(28, 102)" font-family="monospace" font-size="11">
-      <!-- Row 1 -->
-      <text x="0" y="0" fill="#ef5b55" font-weight="bold">[F1] NEUTRAL COMMAND</text>
-      <text x="0" y="16" fill="#94a3b8">Director Majin · Palm Core</text>
-
-      <text x="200" y="0" fill="#38bdf8" font-weight="bold">[F2] MAW'S KEEP</text>
-      <text x="200" y="16" fill="#94a3b8">Dekan · Kinetic Containment</text>
-
-      <text x="400" y="0" fill="#f59e0b" font-weight="bold">[F3] EXTRACTION HALL</text>
-      <text x="400" y="16" fill="#94a3b8">Zyrak · M.A.W. Siphon Forge</text>
-
-      <text x="600" y="0" fill="#10b981" font-weight="bold">[F4] INSIGHT FORGE</text>
-      <text x="600" y="16" fill="#94a3b8">Ayshuk · Metaphysical R&amp;D</text>
-
-      <!-- Row 2 -->
-      <text x="0" y="60" fill="#0284c7" font-weight="bold">[F5] BORDER WATCH</text>
-      <text x="0" y="76" fill="#94a3b8">Mellda · Bastion Defense</text>
-
-      <text x="200" y="60" fill="#8b5cf6" font-weight="bold">[F6] DEEP VAULT</text>
-      <text x="200" y="76" fill="#94a3b8">Marjuk · Cryo Seal &amp; Archive</text>
-
-      <text x="400" y="60" fill="#e11d48" font-weight="bold">[F7] SHADOW CORPS</text>
-      <text x="400" y="76" fill="#94a3b8">Ishall · Abyssal Void Divers</text>
-
-      <text x="600" y="60" fill="#94a3b8" font-weight="bold">[F8] GATE WATCH</text>
-      <text x="600" y="76" fill="#94a3b8">Xyan · Taboo Boundary Vigil</text>
-    </g>
+  <!-- WING F8 -->
+  <path d="M370 118 C450 96 490 108 488 148 C486 188 430 198 370 176 Z" fill="#140c04" stroke="#f59e0b" stroke-width="3"/>
+  <g fill="none" stroke="#f59e0b" stroke-width="1.6">
+    <rect x="410" y="124" width="44" height="36" rx="2"/>
+    <path d="M420 132 V152 M428 132 V152 M436 132 V152 M444 132 V152"/>
   </g>
-
-  <!-- Bottom Coordinates & Integrity Bar -->
-  <rect x="12" y="286" width="1176" height="22" rx="2" fill="#05080e" stroke="#1e293b" stroke-width="1"/>
-  <text x="24" y="301" fill="#64748b" font-family="monospace" font-size="10">COHERENCE STABILITY: 99.4% NOMINAL | FACILITY STATUS: GREEN | TABOO RESTRAINT: ACTIVE</text>
-  <text x="1164" y="301" fill="#f1df76" font-family="monospace" font-size="10" text-anchor="end">AUTONOMOUS CONTAINMENT PROTOCOL // THE DAWN INITIATIVE</text>
+  <!-- FINGERS -->
+  <rect x="130" y="192" width="40" height="58" rx="16" fill="#04110c" stroke="#71efaf" stroke-width="3"/>
+  <rect x="186" y="192" width="40" height="78" rx="16" fill="#111827" stroke="#e2e8f0" stroke-width="3"/>
+  <rect x="242" y="192" width="40" height="72" rx="16" fill="#1e0a24" stroke="#c084fc" stroke-width="3"/>
+  <rect x="298" y="192" width="40" height="50" rx="16" fill="#14080a" stroke="#ef5b55" stroke-width="3"/>
+  <path d="M150 200 V240 M206 200 V258 M262 200 V252 M318 200 V232" stroke="#f1df76" stroke-width="2" opacity=".65"/>
+  <path d="M80 268 Q180 250 280 262 Q380 276 500 252" fill="none" stroke="#38bdf8" stroke-width="3"/>
+  <!-- legend, not a substitute for the silhouette -->
+  <text x="560" y="70" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="15" letter-spacing="3">FACILITY 01  ·  변화의 손</text>
+  <text x="560" y="112" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="28" letter-spacing="1.5">THE HAND THAT HOLDS THE SORROW</text>
+  <text x="560" y="148" fill="#38bdf8" font-family="Arial, sans-serif" font-size="16">Palm at the top (F1 Neutral · F2 Maw's Keep · F3 Extraction). Four fingers down (F4–F7). Wing on the right of Floor 3 (F8 Gate Watch).</text>
+  <text x="560" y="178" fill="#94a3b8" font-family="Arial, sans-serif" font-size="15">Built into the Alpha Tree. Walls pulse. Floors are warm. The facility remembers.</text>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".55"/>
+  <text x="32" y="248" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">PALM  ·  FOUR FINGERS  ·  ONE WING</text>
+  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">HAND OF CHANGE  —  NO SPARE WRIST</text>
 </svg>

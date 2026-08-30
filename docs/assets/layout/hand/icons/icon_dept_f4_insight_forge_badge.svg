@@ -1,13 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
-  <circle cx="60" cy="60" r="54" fill="#022c22" stroke="#10b981" stroke-width="2.5"/>
-  <circle cx="60" cy="60" r="48" fill="none" stroke="rgba(255, 255, 255, 0.25)" stroke-width="1" stroke-dasharray="4 2"/>
-  <g transform="translate(10, 8) scale(1)">
-    <polygon points="50,20 78,35 78,69 50,84 22,69 22,35" fill="#022c22" stroke="#10b981" stroke-width="2"/>
-        <circle cx="50" cy="52" r="18" fill="#064e3b" stroke="#10b981" stroke-width="1.8"/>
-        <circle cx="50" cy="52" r="9" fill="#047857" stroke="#a7f3d0" stroke-width="1.5"/>
-        <line x1="50" y1="28" x2="50" y2="76" stroke="#10b981" stroke-width="1.2"/>
-        <line x1="26" y1="52" x2="74" y2="52" stroke="#10b981" stroke-width="1.2"/>
-  </g>
-  <rect x="38" y="94" width="44" height="15" rx="3" fill="#064e3b" stroke="#10b981" stroke-width="1.5"/>
-  <text x="60" y="104.5" fill="#fff" font-family="Impact, Arial, sans-serif" font-size="8" letter-spacing="1" text-anchor="middle">F4</text>
+  <polygon points="60,4 114,24 114,84 60,116 6,84 6,24" fill="#04110c" stroke="#71efaf" stroke-width="3.2"/>
+  
+  <rect x="22" y="30" width="34" height="52" fill="#04110c" stroke="#71efaf" stroke-width="1.6"/>
+  <path d="M26 38 H50 M26 46 H46 M26 54 H48" stroke="#71efaf" stroke-width="1.4"/>
+  <path d="M64 40 C74 30 86 56 96 44 C102 36 100 70 86 74" fill="none" stroke="#38bdf8" stroke-width="1.6"/>
+  <rect x="72" y="68" width="16" height="16" fill="#0b1220" stroke="#f1df76" stroke-width="1.2"/>
+
 </svg>

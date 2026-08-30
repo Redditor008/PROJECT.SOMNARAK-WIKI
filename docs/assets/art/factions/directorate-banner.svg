@@ -1,26 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="REVERIE DIRECTORATE  —  THE HAND AS A GLYPH">
   <defs>
-    <linearGradient id="bgdirectorateb" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="dbg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#031018"/><stop offset="1" stop-color="#020617"/>
     </linearGradient>
-    <linearGradient id="fddirectorateb" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#fb923c" stop-opacity="0"/>
-      <stop offset="1" stop-color="#fb923c" stop-opacity=".22"/>
-    </linearGradient>
   </defs>
-  <rect width="1400" height="280" fill="url(#bgdirectorateb)"/>
-  <rect width="1400" height="280" fill="url(#fddirectorateb)"/>
+  <rect width="1400" height="280" fill="url(#dbg)"/>
   <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#fb923c" stroke-width="2.4"/>
-  <line x1="24" y1="24" x2="1376" y2="24" stroke="#fb923c" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  <line x1="24" y1="256" x2="1376" y2="256" stroke="#fb923c" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  
-  <rect x="620" y="40" width="160" height="40" fill="#f1df76"/>
-  <rect x="500" y="80" width="120" height="120" fill="#38bdf8"/>
-  <rect x="620" y="80" width="160" height="120" fill="#fb923c"/>
-  <rect x="780" y="80" width="120" height="120" fill="#71efaf"/>
-  <rect x="440" y="200" width="80" height="16" fill="#e2e8f0"/>
-  <rect x="880" y="200" width="80" height="16" fill="#ef5b55"/>
+  <g transform="translate(80,8) scale(2.35)">
 
+  <!-- Alpha Tree as the wrist. Roots become Han-crystal walls. -->
+  <path d="M52 6 L68 6 L63 20 L57 20 Z" fill="#0b1220" stroke="#f1df76" stroke-width="1.5"/>
+  <path d="M60 6 V2" stroke="#71efaf" stroke-width="2"/>
+  <path d="M57 20 Q38 30 30 40 M63 20 Q82 30 90 40" fill="none" stroke="#38bdf8" stroke-width="1.3"/>
+  <!-- PALM: Floors 1–3, the meat of the hand -->
+  <rect x="28" y="26" width="64" height="50" rx="11" fill="#141207" stroke="#f1df76" stroke-width="2.2"/>
+  <rect x="34" y="32" width="52" height="11" rx="2" fill="#1c1917" stroke="#f1df76" stroke-width="1.1"/>
+  <rect x="34" y="45" width="52" height="11" rx="2" fill="#0b1220" stroke="#38bdf8" stroke-width="1.1"/>
+  <rect x="34" y="58" width="52" height="11" rx="2" fill="#140a04" stroke="#fb923c" stroke-width="1.1"/>
+  <!-- WING / THUMB F8 — attached to the right of Floor 3 -->
+  <path d="M92 40 C106 34 114 36 114 46 C114 56 104 60 92 56 Z" fill="#140c04" stroke="#f59e0b" stroke-width="1.7"/>
+  <rect x="98" y="42" width="10" height="8" rx="1" fill="#1c1917" stroke="#f59e0b" stroke-width="0.8"/>
+  <!-- FINGERS F4–F7 reaching into the depths. Middle two longer, like a hand. -->
+  <rect x="32" y="74" width="11" height="24" rx="5" fill="#04110c" stroke="#71efaf" stroke-width="1.5"/>
+  <rect x="47" y="74" width="11" height="32" rx="5" fill="#111827" stroke="#e2e8f0" stroke-width="1.5"/>
+  <rect x="62" y="74" width="11" height="30" rx="5" fill="#1e0a24" stroke="#c084fc" stroke-width="1.5"/>
+  <rect x="77" y="74" width="11" height="20" rx="5" fill="#14080a" stroke="#ef5b55" stroke-width="1.5"/>
+  <!-- Han veins down each finger -->
+  <path d="M37.5 76 V94 M52.5 76 V100 M67.5 76 V98 M82.5 76 V90" stroke="#f1df76" stroke-width="0.8" opacity=".7"/>
+  <!-- The Weeping under the fingertips -->
+  <path d="M22 112 Q40 106 60 110 Q84 116 102 108" fill="none" stroke="#38bdf8" stroke-width="1.8"/>
+
+  </g>
+  <text x="480" y="90" fill="#fb923c" font-family="Impact, Arial Black, sans-serif" font-size="14" letter-spacing="3">FACTION  ·  R.D.</text>
+  <text x="480" y="140" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="32" letter-spacing="2">THE HAND AS A GLYPH</text>
+  <text x="480" y="178" fill="#94a3b8" font-family="Arial, sans-serif" font-size="16">Facility 01 is the Hand. The Directorate is the people who work its palm and fingers.</text>
   <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
   <text x="32" y="246" fill="#fb923c" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FACTION  ·  R.D.</text>
   <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">REVERIE DIRECTORATE  —  THE HAND AS A GLYPH</text>

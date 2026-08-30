@@ -2,10 +2,10 @@
   <rect width="400" height="400" fill="#05070c"/>
   <rect x="18" y="18" width="364" height="364" fill="none" stroke="#71efaf" stroke-width="8"/>
   
-  <circle cx="200" cy="200" r="110" fill="none" stroke="#71efaf" stroke-width="10"/>
-  <circle cx="200" cy="200" r="70" fill="none" stroke="#38bdf8" stroke-width="7"/>
-  <circle cx="200" cy="200" r="32" fill="none" stroke="#f1df76" stroke-width="6" stroke-dasharray="8 6"/>
-  <circle cx="200" cy="200" r="10" fill="#71efaf"/>
-  <path d="M200 70 V40 M200 330 V360 M70 200 H40 M330 200 H360" stroke="#71efaf" stroke-width="8"/>
+  <rect x="60" y="80" width="140" height="220" fill="#04110c" stroke="#71efaf" stroke-width="6"/>
+  <path d="M78 110 H180 M78 140 H160 M78 170 H170 M78 200 H150" stroke="#71efaf" stroke-width="5"/>
+  <path d="M230 120 C260 90 300 160 330 130 C350 110 350 200 310 220 C270 240 250 180 230 200" fill="none" stroke="#38bdf8" stroke-width="6"/>
+  <rect x="250" y="240" width="70" height="70" fill="#0b1220" stroke="#f1df76" stroke-width="5"/>
+  <rect x="268" y="252" width="34" height="46" fill="#71efaf" opacity=".45"/>
 
 </svg>

@@ -2,9 +2,12 @@
   <rect width="400" height="400" fill="#05070c"/>
   <rect x="18" y="18" width="364" height="364" fill="none" stroke="#f1df76" stroke-width="8"/>
   
-  <polygon points="200,70 310,250 90,250" fill="#141207" stroke="#f1df76" stroke-width="8"/>
-  <ellipse cx="200" cy="258" rx="130" ry="22" fill="none" stroke="#f1df76" stroke-width="6"/>
-  <rect x="168" y="150" width="64" height="40" fill="#0a0a0a" stroke="#f1df76" stroke-width="5"/>
-  <path d="M200 70 V150" stroke="#f1df76" stroke-width="8"/>
+  <ellipse cx="200" cy="268" rx="150" ry="28" fill="#1c1917" stroke="#f1df76" stroke-width="6"/>
+  <ellipse cx="200" cy="258" rx="110" ry="18" fill="#141207" stroke="#f1df76" stroke-width="4"/>
+  <path d="M200 70 L80 258 M200 70 L140 258 M200 70 L200 258 M200 70 L260 258 M200 70 L320 258" stroke="#f1df76" stroke-width="6"/>
+  <rect x="70" y="86" width="70" height="44" fill="#0b1220" stroke="#38bdf8" stroke-width="4"/>
+  <rect x="80" y="96" width="50" height="6" fill="#38bdf8"/>
+  <rect x="80" y="110" width="36" height="6" fill="#71efaf"/>
+  <circle cx="200" cy="268" r="10" fill="#f1df76"/>
 
 </svg>

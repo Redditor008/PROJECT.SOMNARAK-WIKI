@@ -1,24 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
-  <defs>
-    <linearGradient id="se2-basalt-sm" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#334155"/>
-      <stop offset="50%" stop-color="#1e293b"/>
-      <stop offset="100%" stop-color="#0f172a"/>
-    </linearGradient>
-    <radialGradient id="se2-crimson-sm" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.8"/>
-      <stop offset="100%" stop-color="#450a0a" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%" role="img" aria-label="Grieving Colossus — dense stone-flesh, falling tears, no face">
   <polygon points="60,6 110,24 114,94 60,114 6,94 10,24" fill="#140608" stroke="#ef5b55" stroke-width="3"/>
-  <polygon points="60,12 104,28 108,90 60,108 12,90 16,28" fill="url(#se2-basalt-sm)" stroke="#7f1d1d" stroke-width="1.5"/>
-  <circle cx="60" cy="58" r="40" fill="url(#se2-crimson-sm)"/>
-  <polygon points="20,40 38,24 50,34 32,54" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
-  <polygon points="100,40 82,24 70,34 88,54" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
-  <path d="M 40,32 L 80,32 L 76,82 L 60,94 L 44,82 Z" fill="#0f172a" stroke="#ef5b55" stroke-width="2.5"/>
-  <path d="M 60,32 L 58,48 L 64,56 L 56,72 L 60,94" fill="none" stroke="#ef4444" stroke-width="2"/>
-  <line x1="46" y1="46" x2="54" y2="46" stroke="#fca5a5" stroke-width="3" stroke-linecap="round"/>
-  <line x1="66" y1="46" x2="74" y2="46" stroke="#fca5a5" stroke-width="3" stroke-linecap="round"/>
-  <path d="M 50,49 L 48,78 L 46,92" fill="none" stroke="#ef4444" stroke-width="2.5"/>
-  <path d="M 70,49 L 72,78 L 74,92" fill="none" stroke="#ef4444" stroke-width="2.5"/>
+  <!-- half flesh, half stone mass. Inward pulses. No face. -->
+  <path d="M38 28 L82 28 L88 86 L60 104 L32 86 Z" fill="#1e293b" stroke="#64748b" stroke-width="2"/>
+  <path d="M44 36 L76 36 L80 78 L60 92 L40 78 Z" fill="#0f172a" stroke="#ef5b55" stroke-width="2"/>
+  <path d="M50 44 L70 44 L72 70 L60 80 L48 70 Z" fill="#334155"/>
+  <!-- continuous falling tears that crystallize -->
+  <path d="M48 88 C46 96 47 102 48 108 C50 102 51 96 48 88 Z" fill="#38bdf8"/>
+  <path d="M60 94 C57 102 58 110 60 114 C63 110 64 102 60 94 Z" fill="#7dd3fc"/>
+  <path d="M72 88 C70 96 71 102 72 108 C74 102 75 96 72 88 Z" fill="#38bdf8"/>
 </svg>

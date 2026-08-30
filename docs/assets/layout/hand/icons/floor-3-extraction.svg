@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
-  <polygon points="36,4 84,4 116,36 116,84 84,116 36,116 4,84 4,36" fill="#041a29" stroke="#38bdf8" stroke-width="3.5"/>
-  <!-- Distillation Retort Flask with Bubbling Fluid -->
-  <path d="M 52,20 L 68,20 L 68,42 L 86,74 C 92,86 78,92 60,92 C 42,92 28,86 34,74 L 52,42 Z" fill="#083a5c" stroke="#38bdf8" stroke-width="2.5"/>
-  <circle cx="60" cy="74" r="10" fill="#f1df76"/>
-  <circle cx="48" cy="68" r="4" fill="#ffffff"/>
-  <circle cx="70" cy="62" r="3" fill="#ffffff"/>
-  <text x="60" y="108" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="bold" text-anchor="middle">F-03</text>
+  <polygon points="60,4 114,24 114,84 60,116 6,84 6,24" fill="#140a04" stroke="#fb923c" stroke-width="3.2"/>
+  
+  <rect x="34" y="28" width="52" height="62" fill="none" stroke="#fb923c" stroke-width="2.4"/>
+  <rect x="40" y="34" width="40" height="48" fill="#140a04" stroke="#fb923c" stroke-width="1.2"/>
+  <path d="M48 44 H72 L66 72 H54 Z" fill="#7c2d12" stroke="#e2e8f0" stroke-width="1.2"/>
+  <circle cx="60" cy="50" r="4" fill="#f1df76"/>
+
 </svg>
