@@ -1,27 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="THE DESOLATE  —  HAN IN TRANSITION">
-  <defs>
-    <linearGradient id="bgdesolateb" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#031018"/><stop offset="1" stop-color="#020617"/>
-    </linearGradient>
-    <linearGradient id="fddesolateb" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#64748b" stop-opacity="0"/>
-      <stop offset="1" stop-color="#64748b" stop-opacity=".22"/>
-    </linearGradient>
-  </defs>
-  <rect width="1400" height="280" fill="url(#bgdesolateb)"/>
-  <rect width="1400" height="280" fill="url(#fddesolateb)"/>
-  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#64748b" stroke-width="2.4"/>
-  <line x1="24" y1="24" x2="1376" y2="24" stroke="#64748b" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  <line x1="24" y1="256" x2="1376" y2="256" stroke="#64748b" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  
-  <g stroke="#64748b" fill="none" stroke-width="2">
-    <path d="M80 180 H1320 M80 140 H1100 M80 100 H900"/>
-    <path d="M200 60 V210 M400 80 V210 M700 50 V210 M1000 90 V210"/>
-  </g>
-  <rect x="240" y="120" width="80" height="90" fill="#111" stroke="#94a3b8"/>
-  <rect x="820" y="100" width="60" height="110" fill="#111" stroke="#94a3b8"/>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Desolate waste">
+  <rect width="1400" height="280" fill="#070410"/>
+  <path d="M40 200 L120 70 L200 150 L280 50 L400 200 Z" fill="#1c1917" stroke="#ef4444" stroke-width="6"/>
+  <rect x="150" y="90" width="50" height="80" fill="#292524" stroke="#a8a29e" stroke-width="4"/>
+  <rect x="230" y="110" width="40" height="70" fill="#292524" stroke="#a8a29e" stroke-width="4"/>
+  <path d="M50 190 L390 190" stroke="#f59e0b" stroke-width="4" stroke-dasharray="14 8"/>
+  <text x="460" y="90" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="28">WASTE THE RING EXISTS AGAINST</text>
+  <text x="460" y="124" fill="#94a3b8" font-family="Arial" font-size="16">Petrified ruin. Wilderness Tide. Cheonbulok and Mugeukji are not on the five-zone card set.</text>
+  <text x="460" y="152" fill="#64748b" font-family="Arial" font-size="15">Not a radiation trefoil. Not Hollow Glass. Hollow Glass is a tavern in D.</text>
   <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
-  <text x="32" y="246" fill="#64748b" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">ATLAS  ·  황무지</text>
-  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">THE DESOLATE  —  HAN IN TRANSITION</text>
+  <text x="32" y="248" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FROM THE CITY MAP</text>
+  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2">THE DESOLATE  —  PAST THE HEX</text>
 </svg>

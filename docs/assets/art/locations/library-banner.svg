@@ -1,34 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="LIBRARY OF STOLEN PASTS  —  SHELVES OF BLANK LEDGERS">
-  <defs>
-    <linearGradient id="bglibraryb" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#031018"/><stop offset="1" stop-color="#020617"/>
-    </linearGradient>
-    <linearGradient id="fdlibraryb" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#f1df76" stop-opacity="0"/>
-      <stop offset="1" stop-color="#f1df76" stop-opacity=".22"/>
-    </linearGradient>
-  </defs>
-  <rect width="1400" height="280" fill="url(#bglibraryb)"/>
-  <rect width="1400" height="280" fill="url(#fdlibraryb)"/>
-  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#f1df76" stroke-width="2.4"/>
-  <line x1="24" y1="24" x2="1376" y2="24" stroke="#f1df76" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  <line x1="24" y1="256" x2="1376" y2="256" stroke="#f1df76" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  
-  <g fill="#1c1917" stroke="#f1df76" stroke-width="2">
-    <rect x="80" y="60" width="40" height="150"/>
-    <rect x="140" y="70" width="36" height="140"/>
-    <rect x="196" y="50" width="44" height="160"/>
-    <rect x="260" y="80" width="30" height="130"/>
-    <rect x="310" y="55" width="50" height="155"/>
-    <rect x="380" y="70" width="38" height="140"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Library of nameless spines">
+  <rect width="1400" height="280" fill="#070410"/>
+  <rect x="50" y="40" width="320" height="170" fill="#1e1b4b" stroke="#c4b5fd" stroke-width="6"/>
+  <g fill="#0f172a" stroke="#c4b5fd" stroke-width="3">
+    <rect x="70" y="55" width="36" height="140"/>
+    <rect x="116" y="55" width="36" height="140"/>
+    <rect x="162" y="55" width="36" height="140"/>
+    <rect x="208" y="55" width="36" height="140"/>
+    <rect x="254" y="55" width="36" height="140"/>
+    <rect x="300" y="55" width="36" height="140"/>
   </g>
-  <rect x="700" y="70" width="220" height="130" fill="#0b1220" stroke="#e2e8f0" stroke-width="3"/>
-  <path d="M720 90 H900 M720 120 H860 M720 150 H880" stroke="#94a3b8" stroke-width="3"/>
-  <rect x="1080" y="60" width="50" height="150" fill="#1c1917" stroke="#f1df76"/>
-  <rect x="1150" y="80" width="50" height="130" fill="#1c1917" stroke="#f1df76"/>
-  <rect x="1220" y="50" width="60" height="160" fill="#1c1917" stroke="#f1df76"/>
-
+  <text x="420" y="90" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="28">BLANK SPINES</text>
+  <text x="420" y="124" fill="#94a3b8" font-family="Arial" font-size="16">SECTOR-B-02. SE-009 contained. The books are there. The names are not.</text>
+  <text x="420" y="152" fill="#64748b" font-family="Arial" font-size="15">Not the Grand Archive. Keepers preserve. This room keeps what was taken.</text>
   <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
-  <text x="32" y="246" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">ATLAS  ·  STOLEN PASTS</text>
-  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">LIBRARY OF STOLEN PASTS  —  SHELVES OF BLANK LEDGERS</text>
+  <text x="32" y="248" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FROM THE CITY MAP</text>
+  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2">LIBRARY OF STOLEN PASTS  —  NAMES TAKEN</text>
 </svg>

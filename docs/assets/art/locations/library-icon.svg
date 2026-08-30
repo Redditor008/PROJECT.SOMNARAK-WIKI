@@ -1,24 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="STOLEN PASTS">
-  <defs>
-    <radialGradient id="ibglibraryi" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#030712"/>
-    </radialGradient>
-    <radialGradient id="igllibraryi" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#f1df76" stop-opacity=".22"/><stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#ibglibraryi)" stroke="#f1df76" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#igllibraryi)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Library of Stolen Pasts — nameless spines">
+  <rect width="400" height="400" fill="#05070c"/>
+  <rect x="18" y="18" width="364" height="364" fill="none" stroke="#c4b5fd" stroke-width="8"/>
   
-  <rect x="50" y="80" width="40" height="220" fill="#1c1917" stroke="#f1df76"/>
-  <rect x="100" y="100" width="36" height="200" fill="#1c1917" stroke="#f1df76"/>
-  <rect x="150" y="70" width="50" height="230" fill="#1c1917" stroke="#f1df76"/>
-  <rect x="230" y="110" width="120" height="160" fill="#0b1220" stroke="#e2e8f0"/>
-  <path d="M250 140 H330 M250 180 H310" stroke="#94a3b8" stroke-width="3"/>
+  <rect x="70" y="80" width="260" height="240" fill="#1e1b4b" stroke="#c4b5fd" stroke-width="6"/>
+  <g fill="#0f172a" stroke="#c4b5fd" stroke-width="3">
+    <rect x="90" y="100" width="28" height="200"/>
+    <rect x="128" y="100" width="28" height="200"/>
+    <rect x="166" y="100" width="28" height="200"/>
+    <rect x="204" y="100" width="28" height="200"/>
+    <rect x="242" y="100" width="28" height="200"/>
+    <rect x="280" y="100" width="28" height="200"/>
+  </g>
 
-  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">ATLAS  ·  STOLEN PASTS</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.5">STOLEN PASTS</text>
+  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#c4b5fd" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#c4b5fd" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">ATLAS  ·  STOLEN PASTS</text>
 </svg>

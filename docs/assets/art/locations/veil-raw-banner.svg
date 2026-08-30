@@ -1,24 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="DISTRICT STRUCTURE  —  THE VEIL AND THE RAW">
-  <defs>
-    <linearGradient id="bgveilrawb" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#031018"/><stop offset="1" stop-color="#020617"/>
-    </linearGradient>
-    <linearGradient id="fdveilrawb" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
-      <stop offset="1" stop-color="#38bdf8" stop-opacity=".22"/>
-    </linearGradient>
-  </defs>
-  <rect width="1400" height="280" fill="url(#bgveilrawb)"/>
-  <rect width="1400" height="280" fill="url(#fdveilrawb)"/>
-  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#38bdf8" stroke-width="2.4"/>
-  <line x1="24" y1="24" x2="1376" y2="24" stroke="#38bdf8" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  <line x1="24" y1="256" x2="1376" y2="256" stroke="#38bdf8" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  
-  <path d="M40 48 C200 180 280 40 480 200 L480 210 L40 210 Z" fill="#0c4a6e" opacity=".8"/>
-  <path d="M40 48 C180 20 300 160 480 60" fill="none" stroke="#7dd3fc" stroke-width="3"/>
-  <path d="M720 210 L780 60 L860 210 L940 70 L1020 210 L1120 50 L1220 210 L1320 90 L1380 210 Z" fill="#1c1917" stroke="#fb923c" stroke-width="3"/>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Veil cloth and Raw break">
+  <rect width="1400" height="280" fill="#070410"/>
+  <path d="M80 30 Q160 100 80 210" fill="none" stroke="#e2e8f0" stroke-width="10"/>
+  <path d="M130 30 Q210 110 130 210" fill="none" stroke="#94a3b8" stroke-width="10"/>
+  <path d="M260 40 L320 90 L280 130 L370 180 L250 210" fill="none" stroke="#ef5b55" stroke-width="10"/>
+  <text x="430" y="90" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="28">THE STREET IS THE SEAM</text>
+  <text x="430" y="124" fill="#94a3b8" font-family="Arial" font-size="16">Veil is hung cloth of the city. Raw is the jagged remainder.</text>
+  <text x="430" y="152" fill="#64748b" font-family="Arial" font-size="15">Not a health bar. Not two extra zones.</text>
   <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
-  <text x="32" y="246" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">ATLAS  ·  VEIL / RAW</text>
-  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">DISTRICT STRUCTURE  —  THE VEIL AND THE RAW</text>
+  <text x="32" y="248" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FROM THE CITY MAP</text>
+  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2">VEIL AND RAW  —  HUNG CLOTH, JAGGED SEAM</text>
 </svg>

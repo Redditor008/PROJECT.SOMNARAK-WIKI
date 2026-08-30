@@ -1,33 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="THE HOLLOW GLASS  —  TOWERS THAT KEEP NOTHING">
-  <defs>
-    <linearGradient id="bghollowglassb" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#031018"/><stop offset="1" stop-color="#020617"/>
-    </linearGradient>
-    <linearGradient id="fdhollowglassb" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#67e8f9" stop-opacity="0"/>
-      <stop offset="1" stop-color="#67e8f9" stop-opacity=".22"/>
-    </linearGradient>
-  </defs>
-  <rect width="1400" height="280" fill="url(#bghollowglassb)"/>
-  <rect width="1400" height="280" fill="url(#fdhollowglassb)"/>
-  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#67e8f9" stroke-width="2.4"/>
-  <line x1="24" y1="24" x2="1376" y2="24" stroke="#67e8f9" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  <line x1="24" y1="256" x2="1376" y2="256" stroke="#67e8f9" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  
-  <g fill="#0f172a" stroke="#67e8f9" stroke-width="2" opacity=".9">
-    <rect x="180" y="50" width="70" height="160"/>
-    <rect x="280" y="80" width="50" height="130"/>
-    <rect x="360" y="40" width="90" height="170"/>
-    <rect x="480" y="70" width="40" height="140"/>
-    <rect x="560" y="30" width="80" height="180"/>
-    <rect x="680" y="60" width="60" height="150"/>
-    <rect x="780" y="45" width="100" height="165"/>
-    <rect x="920" y="70" width="50" height="140"/>
-    <rect x="1010" y="35" width="90" height="175"/>
-    <rect x="1140" y="80" width="70" height="130"/>
-  </g>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Hollow Glass tavern">
+  <rect width="1400" height="280" fill="#070410"/>
+  <rect x="60" y="70" width="280" height="140" fill="#0f172a" stroke="#67e8f9" stroke-width="6"/>
+  <rect x="90" y="90" width="80" height="70" fill="#082f49" stroke="#67e8f9" stroke-width="4"/>
+  <rect x="230" y="90" width="80" height="70" fill="#082f49" stroke="#67e8f9" stroke-width="4"/>
+  <rect x="150" y="150" width="100" height="60" fill="#111827" stroke="#f1df76" stroke-width="4"/>
+  <text x="400" y="90" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="28">BONG'S HOUSE RULE</text>
+  <text x="400" y="124" fill="#94a3b8" font-family="Arial" font-size="16">Pale glass, a counter, Zone D. Wardens and Collectors drink in the same room.</text>
+  <text x="400" y="152" fill="#64748b" font-family="Arial" font-size="15">Not three towers. Not a vitrified plain in the Desolate.</text>
   <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
-  <text x="32" y="246" fill="#67e8f9" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">ATLAS  ·  HOLLOW GLASS</text>
-  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">THE HOLLOW GLASS  —  TOWERS THAT KEEP NOTHING</text>
+  <text x="32" y="248" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FROM THE CITY MAP</text>
+  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2">HOLLOW GLASS  —  A TAVERN, NOT A SKYLINE</text>
 </svg>

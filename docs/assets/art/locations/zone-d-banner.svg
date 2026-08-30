@@ -1,27 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="ZONE D  —  INSIGHT FORGE AND HYDRO GARDENS">
-  <defs>
-    <linearGradient id="bgzonedb" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#031018"/><stop offset="1" stop-color="#020617"/>
-    </linearGradient>
-    <linearGradient id="fdzonedb" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#71efaf" stop-opacity="0"/>
-      <stop offset="1" stop-color="#71efaf" stop-opacity=".22"/>
-    </linearGradient>
-  </defs>
-  <rect width="1400" height="280" fill="url(#bgzonedb)"/>
-  <rect width="1400" height="280" fill="url(#fdzonedb)"/>
-  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#71efaf" stroke-width="2.4"/>
-  <line x1="24" y1="24" x2="1376" y2="24" stroke="#71efaf" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  <line x1="24" y1="256" x2="1376" y2="256" stroke="#71efaf" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  
-  <path d="M200 180 L280 100 L360 180 Z" fill="#7f1d1d" stroke="#fb923c" stroke-width="3"/>
-  <rect x="240" y="180" width="80" height="30" fill="#1c1917" stroke="#f1df76"/>
-  <rect x="600" y="80" width="200" height="120" fill="#0b1220" stroke="#71efaf" stroke-width="3"/>
-  <path d="M640 140 C700 90 760 190 820 120" fill="none" stroke="#71efaf" stroke-width="4"/>
-  <ellipse cx="1100" cy="140" rx="80" ry="50" fill="#14532d" stroke="#71efaf" stroke-width="3"/>
-  <path d="M1100 90 L1100 50 M1070 70 L1130 70" stroke="#71efaf" stroke-width="4"/>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Zone D two orange flanks">
+  <rect width="1400" height="280" fill="#070410"/>
+  <path d="M60 90 L240 30 L420 90 L240 150 Z" fill="#9a3412" stroke="#f59e0b" stroke-width="7"/>
+  <path d="M60 190 L240 250 L420 190 L240 130 Z" fill="#9a3412" stroke="#f59e0b" stroke-width="7"/>
+  <path d="M210 70 L240 40 L270 70 L255 100 L225 100 Z" fill="#7c2d12" stroke="#f1df76" stroke-width="4"/>
+  <path d="M240 175 L210 220 M240 175 L270 220 M240 155 V175" stroke="#71efaf" stroke-width="5"/>
+  <text x="480" y="90" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="28">TWO ORANGE FLANKS</text>
+  <text x="480" y="124" fill="#94a3b8" font-family="Arial" font-size="16">North heats what the city will wear. South grows what it cannot bury.</text>
+  <text x="480" y="152" fill="#64748b" font-family="Arial" font-size="15">Hollow Glass is a tavern here. Not tenements. Not north commerce.</text>
   <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
-  <text x="32" y="246" fill="#71efaf" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">ATLAS  ·  ZONE D</text>
-  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">ZONE D  —  INSIGHT FORGE AND HYDRO GARDENS</text>
+  <text x="32" y="248" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FROM THE CITY MAP</text>
+  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2">ZONE D  —  FORGE FLANK AND ECHO GARDENS</text>
 </svg>

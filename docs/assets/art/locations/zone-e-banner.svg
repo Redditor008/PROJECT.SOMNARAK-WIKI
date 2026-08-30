@@ -1,25 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="ZONE E  —  PERIMETER BULWARK">
-  <defs>
-    <linearGradient id="bgzoneeb" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#031018"/><stop offset="1" stop-color="#020617"/>
-    </linearGradient>
-    <linearGradient id="fdzoneeb" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#f59e0b" stop-opacity="0"/>
-      <stop offset="1" stop-color="#f59e0b" stop-opacity=".22"/>
-    </linearGradient>
-  </defs>
-  <rect width="1400" height="280" fill="url(#bgzoneeb)"/>
-  <rect width="1400" height="280" fill="url(#fdzoneeb)"/>
-  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#f59e0b" stroke-width="2.4"/>
-  <line x1="24" y1="24" x2="1376" y2="24" stroke="#f59e0b" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  <line x1="24" y1="256" x2="1376" y2="256" stroke="#f59e0b" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  
-  <rect x="80" y="70" width="500" height="140" fill="#1c1917" stroke="#f59e0b" stroke-width="4"/>
-  <rect x="820" y="70" width="500" height="140" fill="#1c1917" stroke="#f59e0b" stroke-width="4"/>
-  <path d="M580 210 C580 60 820 60 820 210" fill="#0b1220" stroke="#f1df76" stroke-width="4"/>
-  <rect x="660" y="120" width="80" height="90" fill="#111" stroke="#f1df76"/>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Zone E hex ring and four gates">
+  <rect width="1400" height="280" fill="#070410"/>
+  <polygon points="240,30 400,90 400,190 240,250 80,190 80,90" fill="none" stroke="#a855f7" stroke-width="16"/>
+  <g fill="#1e1b4b" stroke="#c084fc" stroke-width="4">
+    <rect x="224" y="18" width="32" height="22"/>
+    <rect x="392" y="128" width="22" height="32"/>
+    <rect x="224" y="240" width="32" height="22"/>
+    <rect x="66" y="128" width="22" height="32"/>
+  </g>
+  <text x="460" y="90" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="28">THE HEX RING</text>
+  <text x="460" y="124" fill="#94a3b8" font-family="Arial" font-size="16">Gates I-IV. Wardens. Mellda's wall, Xyan's gate.</text>
+  <text x="460" y="152" fill="#64748b" font-family="Arial" font-size="15">Against the Desolate and the Wilderness Tide. Not a 400 m titanium curtain.</text>
   <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
-  <text x="32" y="246" fill="#f59e0b" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">ATLAS  ·  ZONE E</text>
-  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">ZONE E  —  PERIMETER BULWARK</text>
+  <text x="32" y="248" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FROM THE CITY MAP</text>
+  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2">ZONE E  —  FOUR GATES, ONE RING</text>
 </svg>

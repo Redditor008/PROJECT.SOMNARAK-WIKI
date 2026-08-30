@@ -1,23 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="ZONE C">
-  <defs>
-    <radialGradient id="ibgzoneci" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#030712"/>
-    </radialGradient>
-    <radialGradient id="iglzoneci" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#fb923c" stop-opacity=".22"/><stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#ibgzoneci)" stroke="#fb923c" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#iglzoneci)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Zone C — Collectors' Row, debt street">
+  <rect width="400" height="400" fill="#05070c"/>
+  <rect x="18" y="18" width="364" height="364" fill="none" stroke="#3b82f6" stroke-width="8"/>
   
-  <path d="M80 180 L200 70 L320 180 Z" fill="#1c1917" stroke="#fb923c" stroke-width="3"/>
-  <rect x="100" y="180" width="200" height="100" fill="#1c1917" stroke="#fb923c"/>
-  <rect x="130" y="200" width="40" height="50" fill="#0b1220"/>
-  <rect x="200" y="200" width="40" height="50" fill="#0b1220"/>
+  <path d="M340 200 L200 80 L200 320 Z" fill="#1e3a8a" stroke="#3b82f6" stroke-width="6"/>
+  <g fill="#0b1220" stroke="#93c5fd" stroke-width="4">
+    <rect x="210" y="140" width="40" height="70"/>
+    <rect x="258" y="150" width="40" height="70"/>
+    <rect x="306" y="160" width="40" height="70"/>
+  </g>
+  <path d="M220 155 H240 M268 165 H288 M316 175 H336" stroke="#f1df76" stroke-width="3"/>
 
-  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#fb923c" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#fb923c" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">ATLAS  ·  ZONE C</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.5">ZONE C</text>
+  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#3b82f6" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#3b82f6" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">ATLAS  ·  ZONE C</text>
 </svg>

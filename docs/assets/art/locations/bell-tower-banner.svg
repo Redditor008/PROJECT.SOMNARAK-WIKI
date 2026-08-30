@@ -1,26 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="ORPHAN BELL TOWER  —  TOLL WITHOUT A RINGER">
-  <defs>
-    <linearGradient id="bgbelltowerb" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#031018"/><stop offset="1" stop-color="#020617"/>
-    </linearGradient>
-    <linearGradient id="fdbelltowerb" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
-      <stop offset="1" stop-color="#38bdf8" stop-opacity=".22"/>
-    </linearGradient>
-  </defs>
-  <rect width="1400" height="280" fill="url(#bgbelltowerb)"/>
-  <rect width="1400" height="280" fill="url(#fdbelltowerb)"/>
-  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#38bdf8" stroke-width="2.4"/>
-  <line x1="24" y1="24" x2="1376" y2="24" stroke="#38bdf8" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  <line x1="24" y1="256" x2="1376" y2="256" stroke="#38bdf8" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  
-  <rect x="640" y="40" width="120" height="170" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
-  <path d="M620 40 L700 8 L780 40 Z" fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
-  <path d="M660 90 C660 70 740 70 740 90 L748 130 C748 150 652 150 652 130 Z" fill="#0c4a6e" stroke="#38bdf8"/>
-  <rect x="200" y="140" width="80" height="70" fill="#0f172a" stroke="#64748b"/>
-  <rect x="1120" y="140" width="80" height="70" fill="#0f172a" stroke="#64748b"/>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Orphan Bell Tower bronze bell">
+  <rect width="1400" height="280" fill="#070410"/>
+  <path d="M120 30 H280 L250 80 H150 Z" fill="#1c1917" stroke="#38bdf8" stroke-width="5"/>
+  <rect x="168" y="80" width="64" height="120" fill="#0b1220" stroke="#38bdf8" stroke-width="5"/>
+  <path d="M140 120 C140 80 260 80 260 120 L245 175 H155 Z" fill="#b45309" stroke="#f1df76" stroke-width="5"/>
+  <circle cx="200" cy="178" r="10" fill="#f1df76"/>
+  <text x="360" y="90" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="28">BRONZE, NO RINGER</text>
+  <text x="360" y="124" fill="#94a3b8" font-family="Arial" font-size="16">Old Lament, Zone B. Tolls for children who will never grow old.</text>
+  <text x="360" y="152" fill="#64748b" font-family="Arial" font-size="15">No faces in the bronze. Names under the crystal are not on the rope.</text>
   <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
-  <text x="32" y="246" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">ATLAS  ·  BELL TOWER</text>
-  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">ORPHAN BELL TOWER  —  TOLL WITHOUT A RINGER</text>
+  <text x="32" y="248" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FROM THE CITY MAP</text>
+  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2">ORPHAN BELL TOWER  —  THE BELL STILL TOLLS</text>
 </svg>

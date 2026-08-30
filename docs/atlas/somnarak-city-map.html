@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Somnarak City Master Cartography & Blueprint - Somnarak Official Wiki</title>
-  <link rel="stylesheet" href="../assets/css/wiki.css?v=20260830ah">
+  <link rel="stylesheet" href="../assets/css/wiki.css?v=20260831ap">
   <link rel="icon" type="image/svg+xml" href="../assets/icons/somnarak_icon.svg">
 </head>
 <body class="wiki-body map-viewer-page">
@@ -94,7 +94,7 @@
         <div class="hud-item"><span class="led-dot led-green"></span> URBAN CARTOGRAPHY ONLINE</div>
         <div class="hud-item"><span class="hud-label">METROPOLIS:</span> SOMNARAK ZONES A–E</div>
         <div class="hud-item"><span class="hud-label">ATMOSPHERIC VEIL:</span> 99.4% STABLE</div>
-        <div class="hud-item"><span class="hud-label">PERIMETER:</span> 400M BULWARK ACTIVE</div>
+        <div class="hud-item"><span class="hud-label">PERIMETER:</span> HEX RING · GATES I–IV</div>
       </div>
 
       <!-- Breadcrumbs -->
@@ -106,14 +106,18 @@
 
       <!-- Panoramic Banner -->
       <div class="category-panoramic-banner">
-        <img src="../assets/banners/banner_hero_somnarak_city.svg" alt="Somnarak City" class="panoramic-banner-img">
+        <img src="../assets/banners/banner_hero_somnarak_city.svg?v=20260831ap" alt="Somnarak hex — diamond core, Maw in the west" class="panoramic-banner-img">
       </div>
 
+      <section class="wiki-section" id="overview">
+        <h2 class="section-title">What this map is</h2>
+        <p>This page is the city schematic — the same hex the atlas hub now draws as an icon. It is not a concentric-ring tourist map and it is not Facility 01. Zoom the master blueprint. The cuts are slices of that hex, not other cities glued on.</p>
+      </section>
       <!-- Interactive Cutaway District Switcher -->
       <div class="map-sector-tabs">
         <button class="sector-tab-btn active" data-target="master">MASTER BLUEPRINT</button>
-        <button class="sector-tab-btn" data-target="cut1">CUT 1: CORE &amp; WEST WARD (ZONE A &amp; B)</button>
-        <button class="sector-tab-btn" data-target="cut2">CUT 2: INDUSTRIAL EAST (ZONE C &amp; D)</button>
+        <button class="sector-tab-btn" data-target="cut1">CUT 1: DIAMOND &amp; OLD WARD (ZONE A &amp; B)</button>
+        <button class="sector-tab-btn" data-target="cut2">CUT 2: EAST &amp; FLANKS (ZONE C &amp; D)</button>
         <button class="sector-tab-btn" data-target="cut3">CUT 3: PERIMETER &amp; WASTELAND (ZONE E)</button>
         <button class="sector-tab-btn" data-target="cut4">CUT 4: THE WEEPING CANALS</button>
       </div>
@@ -141,7 +145,7 @@
           <span id="district-info-tag" class="section-tag">ZONING ARCHITECTURE</span>
         </div>
         <p id="district-info-desc" class="section-desc">
-          Somnarak is structured into five concentric metropolitan zones enclosed by the 400-meter Perimeter Bulwark, centered upon the Directorate Spire and the subterranean roots of the Alpha Tree.
+          Somnarak is a purple hex around a red diamond, not five concentric rings and not a 400 m titanium curtain. Zone A is six buildings on a plaza of polished Han around the Alpha Tree. The Hand of Change sits under those roots. Zone B is west Old Ward and the Maw. Zone C is Collectors' Row. Zone D is forge north and Echo Gardens south. Zone E is the ring and four gates.
         </p>
       </div>
 
@@ -149,32 +153,32 @@
       <div class="hub-grid-3" style="margin-top:2rem;">
         <a href="../locations/zone-a-core-nexus.html" class="pm-entity-card" style="--card-border:#ef5b55;">
           <h3 class="entity-card-name">ZONE A: CORE NEXUS</h3>
-          <p class="entity-card-desc">Directorate Spire // Alpha Tree Root Wells</p>
+          <p class="entity-card-desc">Red diamond · six buildings · Alpha Tree plaza. Citizens not on the stone.</p>
           <span class="jump-btn">EXPLORE ZONE A →</span>
         </a>
-        <a href="../locations/zone-b-west-ward.html" class="pm-entity-card" style="--card-border:#38bdf8;">
-          <h3 class="entity-card-name">ZONE B: WEST WARD</h3>
-          <p class="entity-card-desc">Residential Mega-Blocks // Veil Filtration Dome</p>
+        <a href="../locations/zone-b-west-ward.html" class="pm-entity-card" style="--card-border:#22c55e;">
+          <h3 class="entity-card-name">ZONE B: OLD WARD</h3>
+          <p class="entity-card-desc">West green · the Past · Old Lament, Cheongula, the Maw.</p>
           <span class="jump-btn">EXPLORE ZONE B →</span>
         </a>
-        <a href="../locations/zone-c-collectors-row.html" class="pm-entity-card" style="--card-border:#10b981;">
-          <h3 class="entity-card-name">ZONE C: COLLECTOR'S ROW</h3>
-          <p class="entity-card-desc">Pre-Cataclysm Relic Bazaars // Scrap Foundries</p>
+        <a href="../locations/zone-c-collectors-row.html" class="pm-entity-card" style="--card-border:#3b82f6;">
+          <h3 class="entity-card-name">ZONE C: COLLECTORS' ROW</h3>
+          <p class="entity-card-desc">East debt street · ledgers, not relic bazaars.</p>
           <span class="jump-btn">EXPLORE ZONE C →</span>
         </a>
-        <a href="../locations/zone-d-forge-and-gardens.html" class="pm-entity-card" style="--card-border:#47c978;">
+        <a href="../locations/zone-d-forge-and-gardens.html" class="pm-entity-card" style="--card-border:#f59e0b;">
           <h3 class="entity-card-name">ZONE D: FORGE &amp; GARDENS</h3>
-          <p class="entity-card-desc">Bio-Synthetic Greenhouses // Han Flora Cultivation</p>
+          <p class="entity-card-desc">North forge, south Echo Gardens, Hollow Glass tavern.</p>
           <span class="jump-btn">EXPLORE ZONE D →</span>
         </a>
-        <a href="../locations/zone-e-perimeter-bulwark.html" class="pm-entity-card" style="--card-border:#f59e0b;">
+        <a href="../locations/zone-e-perimeter-bulwark.html" class="pm-entity-card" style="--card-border:#a855f7;">
           <h3 class="entity-card-name">ZONE E: PERIMETER BULWARK</h3>
-          <p class="entity-card-desc">400m Titanium Curtain Wall // Frontier Gates</p>
+          <p class="entity-card-desc">Purple hex · Gates I–IV · not a 400 m titanium curtain.</p>
           <span class="jump-btn">EXPLORE ZONE E →</span>
         </a>
         <a href="../locations/the-desolate.html" class="pm-entity-card" style="--card-border:#ef4444;">
           <h3 class="entity-card-name">THE DESOLATE (황무지)</h3>
-          <p class="entity-card-desc">Radioactive Crystalline Wasteland // Distortions</p>
+          <p class="entity-card-desc">Past the hex · Tide · waste the ring exists against.</p>
           <span class="jump-btn">EXPLORE WASTELAND →</span>
         </a>
       </div>
@@ -190,11 +194,11 @@
   <script>
     // Modular City District Cut Switcher
     const cityCuts = {
-      master: { src: '../assets/layout/city/blueprints/SOMNARAK_CITY_LAYOUT.svg', title: '/// MASTER CITY BLUEPRINT (ALL 5 ZONES)', tag: 'CONSOLIDATED METROPOLIS', desc: 'Master urban blueprint covering Zones A through E, the Alpha Tree Spire, and the outer radioactive Desolate frontier.' },
-      cut1: { src: '../assets/layout/city/blueprints/city_cut_1_core_and_west.svg', title: '/// CUT 01: METROPOLITAN CORE & WEST WARD', tag: 'ZONE A & ZONE B', desc: 'Central Directorate Command Spire, Alpha Tree Rootwells, and West Ward Residential Mega-Blocks beneath the atmospheric Veil dome.' },
-      cut2: { src: '../assets/layout/city/blueprints/city_cut_2_industrial_east.svg', title: '/// CUT 02: COLLECTOR'S ROW & FORGE GARDENS', tag: 'ZONE C & ZONE D', desc: 'Pre-Cataclysm Relic Bazaars, Doha's underground Han refineries, Bio-Synthetic Botanical Domes, and Han Flora research foundries.' },
-      cut3: { src: '../assets/layout/city/blueprints/city_cut_3_perimeter_frontier.svg', title: '/// CUT 03: PERIMETER BULWARK & THE DESOLATE', tag: 'ZONE E & WASTELAND', desc: '400-Meter Titanium Battlements, Watchtower 01, Gate of Sighs, Horizon Caravan Departure Trail, and Hollow Glass vitrified plain.' },
-      cut4: { src: '../assets/layout/city/blueprints/city_cut_4_subterranean_canals.svg', title: '/// CUT 04: THE WEEPING & SUB-RAIL GRID', tag: 'HYDROLOGY & UNDER-RAIL', desc: 'Subterranean effluent waterway network channeling liquefied Han remorse from Siphon Stations A-1, B-4, and C-8 into Facility 01.' }
+      master: { src: '../assets/layout/city/blueprints/SOMNARAK_CITY_LAYOUT.svg', title: '/// MASTER CITY BLUEPRINT (ALL 5 ZONES)', tag: 'HEX + DIAMOND', desc: 'Purple hex around a red diamond. A is six buildings and the Alpha Tree. B west holds the Maw. C east is Collectors Row. D is forge north and Echo Gardens south. E is the ring and four gates. The Desolate is past the hex.' },
+      cut1: { src: '../assets/layout/city/blueprints/city_cut_1_core_and_west.svg', title: '/// CUT 01: CORE DIAMOND AND OLD WARD', tag: 'ZONE A & ZONE B', desc: 'Red diamond: six civic buildings and the Tree plaza. West green: Old Lament, Cheongula ground, the Maw. Not mega-blocks under a dome.' },
+      cut2: { src: '../assets/layout/city/blueprints/city_cut_2_industrial_east.svg', title: '/// CUT 02: COLLECTORS ROW AND TWO FLANKS', tag: 'ZONE C & ZONE D', desc: 'East debt street — ledgers, not relic bazaars. North forge flank and south Echo Gardens. Hollow Glass is a tavern in D, not a vitrified plain.' },
+      cut3: { src: '../assets/layout/city/blueprints/city_cut_3_perimeter_frontier.svg', title: '/// CUT 03: HEX RING AND THE DESOLATE', tag: 'ZONE E & WASTELAND', desc: 'Purple bulwark, Gates I-IV, Wardens. Not a 400 m titanium curtain. Beyond: the Desolate and the Wilderness Tide. Hollow Glass is not out here.' },
+      cut4: { src: '../assets/layout/city/blueprints/city_cut_4_subterranean_canals.svg', title: '/// CUT 04: THE WEEPING AND UNDER-CITY', tag: 'CANALS UNDER THE HEX', desc: 'Weeping canals under the five zones, feeding the Tree wells and the Hand beneath A. Not a loot subway.' }
     };
 
     document.querySelectorAll('.sector-tab-btn').forEach(btn => {
