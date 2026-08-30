@@ -1,44 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Hand of Change — palm at the top, fingers into the dark">
-  <defs>
-    <linearGradient id="hbbg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#141207"/><stop offset="1" stop-color="#05080e"/>
-    </linearGradient>
-  </defs>
-  <rect width="1400" height="280" fill="url(#hbbg)"/>
-  <!-- Alpha Tree trunk at the wrist -->
-  <path d="M210 8 L270 8 L250 70 L230 70 Z" fill="#0b1220" stroke="#f1df76" stroke-width="3"/>
-  <path d="M240 8 V0" stroke="#71efaf" stroke-width="4"/>
-  <path d="M230 70 Q150 100 110 140 M250 70 Q330 100 370 140" fill="none" stroke="#38bdf8" stroke-width="3"/>
-  <!-- PALM -->
-  <rect x="110" y="78" width="260" height="118" rx="36" fill="#141207" stroke="#f1df76" stroke-width="4"/>
-  <rect x="132" y="96" width="216" height="26" rx="4" fill="#1c1917" stroke="#f1df76" stroke-width="2"/>
-  <rect x="132" y="126" width="216" height="26" rx="4" fill="#0b1220" stroke="#38bdf8" stroke-width="2"/>
-  <rect x="132" y="156" width="216" height="26" rx="4" fill="#140a04" stroke="#fb923c" stroke-width="2"/>
-  <!-- rooms as windows -->
-  <g fill="#f1df76" opacity=".6">
-    <rect x="150" y="102" width="18" height="12" rx="1"/><rect x="178" y="102" width="18" height="12" rx="1"/>
-    <rect x="206" y="102" width="18" height="12" rx="1"/><rect x="234" y="102" width="18" height="12" rx="1"/>
-    <rect x="262" y="102" width="18" height="12" rx="1"/><rect x="290" y="102" width="18" height="12" rx="1"/>
-  </g>
-  <!-- WING F8 -->
-  <path d="M370 118 C450 96 490 108 488 148 C486 188 430 198 370 176 Z" fill="#140c04" stroke="#f59e0b" stroke-width="3"/>
-  <g fill="none" stroke="#f59e0b" stroke-width="1.6">
-    <rect x="410" y="124" width="44" height="36" rx="2"/>
-    <path d="M420 132 V152 M428 132 V152 M436 132 V152 M444 132 V152"/>
-  </g>
-  <!-- FINGERS -->
-  <rect x="130" y="192" width="40" height="58" rx="16" fill="#04110c" stroke="#71efaf" stroke-width="3"/>
-  <rect x="186" y="192" width="40" height="78" rx="16" fill="#111827" stroke="#e2e8f0" stroke-width="3"/>
-  <rect x="242" y="192" width="40" height="72" rx="16" fill="#1e0a24" stroke="#c084fc" stroke-width="3"/>
-  <rect x="298" y="192" width="40" height="50" rx="16" fill="#14080a" stroke="#ef5b55" stroke-width="3"/>
-  <path d="M150 200 V240 M206 200 V258 M262 200 V252 M318 200 V232" stroke="#f1df76" stroke-width="2" opacity=".65"/>
-  <path d="M80 268 Q180 250 280 262 Q380 276 500 252" fill="none" stroke="#38bdf8" stroke-width="3"/>
-  <!-- legend, not a substitute for the silhouette -->
-  <text x="560" y="70" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="15" letter-spacing="3">FACILITY 01  ·  변화의 손</text>
-  <text x="560" y="112" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="28" letter-spacing="1.5">THE HAND THAT HOLDS THE SORROW</text>
-  <text x="560" y="148" fill="#38bdf8" font-family="Arial, sans-serif" font-size="16">Palm at the top (F1 Neutral · F2 Maw's Keep · F3 Extraction). Four fingers down (F4–F7). Wing on the right of Floor 3 (F8 Gate Watch).</text>
-  <text x="560" y="178" fill="#94a3b8" font-family="Arial, sans-serif" font-size="15">Built into the Alpha Tree. Walls pulse. Floors are warm. The facility remembers.</text>
-  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".55"/>
-  <text x="32" y="248" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">PALM  ·  FOUR FINGERS  ·  ONE WING</text>
-  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">HAND OF CHANGE  —  NO SPARE WRIST</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Hand of Change — master map cutaway">
+  <rect width="1400" height="280" fill="#06090e"/>
+  <rect x="8" y="8" width="1384" height="264" fill="none" stroke="#1e293b" stroke-width="2"/>
+  <!-- surface -->
+  <line x1="40" y1="36" x2="620" y2="36" stroke="#475569" stroke-width="1.5" stroke-dasharray="8 4"/>
+  <path d="M280 18 L380 18 L368 36 L292 36 Z" fill="#1e293b" stroke="#64748b" stroke-width="1.6"/>
+  <rect x="320" y="36" width="20" height="108" fill="#030712" stroke="#38bdf8" stroke-width="1.6"/>
+  <!-- F1 -->
+  <rect x="48" y="40" width="524" height="32" rx="4" fill="#120c04" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="48" y="40" width="524" height="10" fill="#78350f"/>
+  <!-- F2 -->
+  <rect x="48" y="76" width="524" height="34" rx="4" fill="#140606" stroke="#ef4444" stroke-width="2"/>
+  <rect x="48" y="76" width="524" height="10" fill="#7f1d1d"/>
+  <!-- F3 + F8 -->
+  <rect x="48" y="114" width="360" height="32" rx="4" fill="#080f21" stroke="#3b82f6" stroke-width="2"/>
+  <rect x="48" y="114" width="360" height="10" fill="#1e3a8a"/>
+  <rect x="428" y="114" width="144" height="32" rx="4" fill="#090d15" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="428" y="114" width="144" height="10" fill="#334155"/>
+  <line x1="408" y1="130" x2="428" y2="130" stroke="#38bdf8" stroke-width="3"/>
+  <!-- bus -->
+  <path d="M80 156 H540" stroke="#38bdf8" stroke-width="4" stroke-linecap="round"/>
+  <line x1="120" y1="156" x2="120" y2="166" stroke="#38bdf8" stroke-width="3"/>
+  <line x1="240" y1="156" x2="240" y2="166" stroke="#38bdf8" stroke-width="3"/>
+  <line x1="360" y1="156" x2="360" y2="166" stroke="#38bdf8" stroke-width="3"/>
+  <line x1="480" y1="156" x2="480" y2="166" stroke="#38bdf8" stroke-width="3"/>
+  <!-- four equal fingers -->
+  <rect x="72" y="166" width="96" height="88" rx="4" fill="#021c15" stroke="#10b981" stroke-width="2"/>
+  <rect x="72" y="166" width="96" height="12" fill="#064e3b"/>
+  <rect x="192" y="166" width="96" height="88" rx="4" fill="#031f30" stroke="#0284c7" stroke-width="2"/>
+  <rect x="192" y="166" width="96" height="12" fill="#0c4a6e"/>
+  <rect x="312" y="166" width="96" height="88" rx="4" fill="#170228" stroke="#8b5cf6" stroke-width="2"/>
+  <rect x="312" y="166" width="96" height="12" fill="#3b0764"/>
+  <rect x="432" y="166" width="96" height="88" rx="4" fill="#1f0109" stroke="#e11d48" stroke-width="2"/>
+  <rect x="432" y="166" width="96" height="12" fill="#4c0519"/>
+  <text x="660" y="70" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="13" letter-spacing="3">FACILITY 01  ·  FROM THE MASTER MAP</text>
+  <text x="660" y="112" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="28" letter-spacing="1.4">THE HAND OF CHANGE</text>
+  <text x="660" y="148" fill="#94a3b8" font-family="Arial, sans-serif" font-size="15">Palm: F1 Neutral · F2 Maw's Keep · F3 Extraction. Wing on the right of Floor 3: F8 Gate Watch. Four equal finger shafts: F4–F7.</text>
+  <text x="660" y="176" fill="#64748b" font-family="Arial, sans-serif" font-size="14">Surface monolith at the Alpha Tree. Mag-lift through the palm. Transit bus into the deep sectors.</text>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="248" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">PALM  ·  WING  ·  FOUR FINGERS</text>
+  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">HAND OF CHANGE  —  THE MAP, NOT A TOWER</text>
 </svg>

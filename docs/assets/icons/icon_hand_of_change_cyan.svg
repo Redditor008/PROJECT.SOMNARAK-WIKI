@@ -1,26 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%" role="img" aria-label="Hand of Change">
-  <rect x="4" y="4" width="112" height="112" rx="12" fill="#0c1018" stroke="#38bdf8" stroke-width="2.4"/>
+  <polygon points="16,4 104,4 116,16 116,104 104,116 16,116 4,104 4,16" fill="#06090e" stroke="#38bdf8" stroke-width="2.4"/>
   
-  <!-- Alpha Tree as the wrist. Roots become Han-crystal walls. -->
-  <path d="M52 6 L68 6 L63 20 L57 20 Z" fill="#0b1220" stroke="#f1df76" stroke-width="1.5"/>
-  <path d="M60 6 V2" stroke="#71efaf" stroke-width="2"/>
-  <path d="M57 20 Q38 30 30 40 M63 20 Q82 30 90 40" fill="none" stroke="#38bdf8" stroke-width="1.3"/>
-  <!-- PALM: Floors 1–3, the meat of the hand -->
-  <rect x="28" y="26" width="64" height="50" rx="11" fill="#141207" stroke="#f1df76" stroke-width="2.2"/>
-  <rect x="34" y="32" width="52" height="11" rx="2" fill="#1c1917" stroke="#f1df76" stroke-width="1.1"/>
-  <rect x="34" y="45" width="52" height="11" rx="2" fill="#0b1220" stroke="#38bdf8" stroke-width="1.1"/>
-  <rect x="34" y="58" width="52" height="11" rx="2" fill="#140a04" stroke="#fb923c" stroke-width="1.1"/>
-  <!-- WING / THUMB F8 — attached to the right of Floor 3 -->
-  <path d="M92 40 C106 34 114 36 114 46 C114 56 104 60 92 56 Z" fill="#140c04" stroke="#f59e0b" stroke-width="1.7"/>
-  <rect x="98" y="42" width="10" height="8" rx="1" fill="#1c1917" stroke="#f59e0b" stroke-width="0.8"/>
-  <!-- FINGERS F4–F7 reaching into the depths. Middle two longer, like a hand. -->
-  <rect x="32" y="74" width="11" height="24" rx="5" fill="#04110c" stroke="#71efaf" stroke-width="1.5"/>
-  <rect x="47" y="74" width="11" height="32" rx="5" fill="#111827" stroke="#e2e8f0" stroke-width="1.5"/>
-  <rect x="62" y="74" width="11" height="30" rx="5" fill="#1e0a24" stroke="#c084fc" stroke-width="1.5"/>
-  <rect x="77" y="74" width="11" height="20" rx="5" fill="#14080a" stroke="#ef5b55" stroke-width="1.5"/>
-  <!-- Han veins down each finger -->
-  <path d="M37.5 76 V94 M52.5 76 V100 M67.5 76 V98 M82.5 76 V90" stroke="#f1df76" stroke-width="0.8" opacity=".7"/>
-  <!-- The Weeping under the fingertips -->
-  <path d="M22 112 Q40 106 60 110 Q84 116 102 108" fill="none" stroke="#38bdf8" stroke-width="1.8"/>
+  <!-- surface monolith -->
+  <path d="M46 6 L74 6 L70 16 L50 16 Z" fill="#1e293b" stroke="#64748b" stroke-width="1.2"/>
+  <!-- mag-lift through the palm -->
+  <rect x="57" y="16" width="6" height="48" fill="#030712" stroke="#38bdf8" stroke-width="1"/>
+  <!-- F1 Neutral — full-width palm top -->
+  <rect x="20" y="18" width="80" height="13" rx="1.5" fill="#120c04" stroke="#f59e0b" stroke-width="1.4"/>
+  <rect x="20" y="18" width="80" height="3.5" fill="#78350f"/>
+  <!-- F2 Maw's Keep — full-width palm mid -->
+  <rect x="20" y="33" width="80" height="14" rx="1.5" fill="#140606" stroke="#ef4444" stroke-width="1.4"/>
+  <rect x="20" y="33" width="80" height="3.5" fill="#7f1d1d"/>
+  <!-- F3 Extraction — left of palm bottom -->
+  <rect x="20" y="49" width="52" height="13" rx="1.5" fill="#080f21" stroke="#3b82f6" stroke-width="1.4"/>
+  <rect x="20" y="49" width="52" height="3.5" fill="#1e3a8a"/>
+  <!-- F8 Gate Watch — lateral wing, right of F3 -->
+  <rect x="76" y="49" width="24" height="13" rx="1.5" fill="#090d15" stroke="#94a3b8" stroke-width="1.4"/>
+  <rect x="76" y="49" width="24" height="3.5" fill="#334155"/>
+  <line x1="72" y1="55.5" x2="76" y2="55.5" stroke="#38bdf8" stroke-width="1.4"/>
+  <!-- transit bus + four equal finger drops -->
+  <path d="M28 66 H92" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round"/>
+  <rect x="22" y="68" width="16" height="38" rx="1.5" fill="#021c15" stroke="#10b981" stroke-width="1.3"/>
+  <rect x="22" y="68" width="16" height="4" fill="#064e3b"/>
+  <rect x="42" y="68" width="16" height="38" rx="1.5" fill="#031f30" stroke="#0284c7" stroke-width="1.3"/>
+  <rect x="42" y="68" width="16" height="4" fill="#0c4a6e"/>
+  <rect x="62" y="68" width="16" height="38" rx="1.5" fill="#170228" stroke="#8b5cf6" stroke-width="1.3"/>
+  <rect x="62" y="68" width="16" height="4" fill="#3b0764"/>
+  <rect x="82" y="68" width="16" height="38" rx="1.5" fill="#1f0109" stroke="#e11d48" stroke-width="1.3"/>
+  <rect x="82" y="68" width="16" height="4" fill="#4c0519"/>
 
 </svg>
