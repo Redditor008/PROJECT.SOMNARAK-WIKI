@@ -1,37 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BALANCE LENS">
   <defs>
-    <radialGradient id="mawBg_maw-w-01" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#111827" stop-opacity="0.95"/>
-      <stop offset="70%" stop-color="#090d16" stop-opacity="0.98"/>
-      <stop offset="100%" stop-color="#030712" stop-opacity="1"/>
+    <radialGradient id="bgw015" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="mawGlow_maw-w-01" cx="50%" cy="50%" r="45%">
-      <stop offset="0%" stop-color="#f1df76" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    <radialGradient id="glw015" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#e2e8f0" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-
-  <rect x="6" y="6" width="388" height="388" rx="16" fill="url(#mawBg_maw-w-01)" stroke="#f1df76" stroke-width="2"/>
-  <rect x="12" y="12" width="376" height="376" rx="12" fill="none" stroke="#38bdf8" stroke-width="1" stroke-dasharray="6 3" opacity="0.35"/>
-  <circle cx="200" cy="200" r="140" fill="url(#mawGlow_maw-w-01)"/>
-
-  <!-- Dual-Balance Stave Head -->
-  <line x1="180" y1="130" x2="320" y2="100" stroke="#f1df76" stroke-width="4"/>
-  <!-- Left Weight: Obsidian Heart -->
-  <circle cx="180" cy="150" r="14" fill="#0f172a" stroke="#ef5b55" stroke-width="2"/>
-  <line x1="180" y1="130" x2="180" y2="150" stroke="#38bdf8" stroke-width="1.5"/>
-  <!-- Right Weight: Crystalline Prism -->
-  <polygon points="320,135 330,150 320,165 310,150" fill="#38bdf8" stroke="#ffffff" stroke-width="1.5"/>
-  <line x1="320" y1="100" x2="320" y2="135" stroke="#38bdf8" stroke-width="1.5"/>
-  <!-- Center Pivot Ring & Staff -->
-  <circle cx="250" cy="115" r="16" fill="#1e293b" stroke="#f1df76" stroke-width="3"/>
-  <line x1="250" y1="131" x2="120" y2="370" stroke="#38bdf8" stroke-width="7" stroke-linecap="round"/>
-
-  <!-- Header Category Badge -->
-  <rect x="20" y="20" width="220" height="26" rx="4" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="30" y="37" fill="#f1df76" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="bold">WEAPON // EQUILIBRIUM STAVE</text>
-
-  <!-- Bottom Name Label -->
-  <rect x="20" y="355" width="360" height="26" rx="4" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="200" y="372" fill="#f8fafc" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="bold" text-anchor="middle">THE BALANCE LENS</text>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgw015)" stroke="#e2e8f0" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="128" fill="url(#glw015)"/>
+  
+  <!-- pale disc divided by a fine horizontal line that tilts -->
+  <circle cx="200" cy="170" r="98" fill="#1e293b" stroke="#e2e8f0" stroke-width="3.4"/>
+  <path d="M108 186 L292 154" stroke="#f1df76" stroke-width="3"/>
+  <path d="M200 72 A98 98 0 0 1 200 268" fill="#0f172a" opacity=".55"/>
+  <rect x="188" y="268" width="24" height="64" fill="#0f172a" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="176" y="328" width="48" height="14" fill="#111" stroke="#e2e8f0"/>
+    
+  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#e2e8f0" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#e2e8f0" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">WEAPON // TILTED LINE</text>
+  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
+  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE BALANCE LENS</text>
 </svg>

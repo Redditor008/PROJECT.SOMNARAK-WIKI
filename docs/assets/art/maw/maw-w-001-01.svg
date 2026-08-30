@@ -1,36 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="LAMENT'S REQUIEM">
   <defs>
-    <radialGradient id="mawBg_maw-w-00" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#111827" stop-opacity="0.95"/>
-      <stop offset="70%" stop-color="#090d16" stop-opacity="0.98"/>
-      <stop offset="100%" stop-color="#030712" stop-opacity="1"/>
+    <radialGradient id="bgw001" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="mawGlow_maw-w-00" cx="50%" cy="50%" r="45%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    <radialGradient id="glw001" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-
-  <rect x="6" y="6" width="388" height="388" rx="16" fill="url(#mawBg_maw-w-00)" stroke="#38bdf8" stroke-width="2"/>
-  <rect x="12" y="12" width="376" height="376" rx="12" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="6 3" opacity="0.35"/>
-  <circle cx="200" cy="200" r="140" fill="url(#mawGlow_maw-w-00)"/>
-
-  <!-- Heavy Resonant Cleaver Blade -->
-  <path d="M 120 340 L 145 365 L 210 300 L 290 120 L 320 80 L 260 70 L 190 230 Z" fill="#182333" stroke="#38bdf8" stroke-width="3"/>
-  <path d="M 290 120 L 250 140 L 190 230" fill="none" stroke="#f1df76" stroke-width="2.5"/>
-  <!-- Bell Chime Resonance Holes along Blade -->
-  <circle cx="240" cy="160" r="8" fill="#090d16" stroke="#38bdf8" stroke-width="2"/>
-  <circle cx="215" cy="205" r="6" fill="#090d16" stroke="#38bdf8" stroke-width="2"/>
-  <circle cx="190" cy="250" r="5" fill="#090d16" stroke="#38bdf8" stroke-width="2"/>
-  <!-- Hilt & Grip -->
-  <line x1="120" y1="340" x2="80" y2="380" stroke="#f1df76" stroke-width="8" stroke-linecap="round"/>
-  <circle cx="75" cy="385" r="8" fill="#ef5b55"/>
-
-  <!-- Header Category Badge -->
-  <rect x="20" y="20" width="220" height="26" rx="4" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="30" y="37" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="bold">WEAPON // HEAVY CLEAVER</text>
-
-  <!-- Bottom Name Label -->
-  <rect x="20" y="355" width="360" height="26" rx="4" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="372" fill="#f8fafc" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="bold" text-anchor="middle">LAMENT'S REQUIEM</text>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgw001)" stroke="#38bdf8" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="128" fill="url(#glw001)"/>
+  
+  <!-- slender deep-blue Han crystal blade; names as faint lines under the edge -->
+  <path d="M118 318 L142 338 L168 300 L248 92 L268 68 L236 62 L162 248 Z" fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
+  <path d="M248 92 L220 108 L162 248" fill="none" stroke="#bae6fd" stroke-width="1.6" opacity=".8"/>
+  <g fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".7">
+    <path d="M176 250 L214 150"/>
+    <path d="M188 258 L226 158"/>
+    <path d="M198 266 L234 172"/>
+  </g>
+  <line x1="118" y1="318" x2="86" y2="352" stroke="#f1df76" stroke-width="7" stroke-linecap="round"/>
+  <rect x="78" y="348" width="18" height="18" rx="2" fill="#082f49" stroke="#38bdf8"/>
+    
+  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">WEAPON // CRYSTAL BLADE</text>
+  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
+  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">LAMENT'S REQUIEM</text>
 </svg>

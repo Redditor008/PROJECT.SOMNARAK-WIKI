@@ -1,35 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FORGOTTEN LENS">
   <defs>
-    <radialGradient id="mawBg_maw-w-00" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#111827" stop-opacity="0.95"/>
-      <stop offset="70%" stop-color="#090d16" stop-opacity="0.98"/>
-      <stop offset="100%" stop-color="#030712" stop-opacity="1"/>
+    <radialGradient id="bgw009" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="mawGlow_maw-w-00" cx="50%" cy="50%" r="45%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    <radialGradient id="glw009" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#67e8f9" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-
-  <rect x="6" y="6" width="388" height="388" rx="16" fill="url(#mawBg_maw-w-00)" stroke="#38bdf8" stroke-width="2"/>
-  <rect x="12" y="12" width="376" height="376" rx="12" fill="none" stroke="#c084fc" stroke-width="1" stroke-dasharray="6 3" opacity="0.35"/>
-  <circle cx="200" cy="200" r="140" fill="url(#mawGlow_maw-w-00)"/>
-
-  <!-- Curved Clockwork Loom Scythe Blade -->
-  <path d="M 120 180 C 120 70, 220 50, 310 70 C 260 110, 220 160, 180 190 Z" fill="#131028" stroke="#38bdf8" stroke-width="3"/>
-  <!-- Azure Filament Wire along Blade Edge -->
-  <path d="M 310 70 Q 200 120 130 180" fill="none" stroke="#c084fc" stroke-width="2.5"/>
-  <!-- Long Mechanical Shaft -->
-  <line x1="180" y1="190" x2="100" y2="370" stroke="#475569" stroke-width="7" stroke-linecap="round"/>
-  <!-- Clockwork Gear Housing at Joint -->
-  <circle cx="180" cy="190" r="18" fill="#1e1b4b" stroke="#f1df76" stroke-width="2.5"/>
-  <circle cx="180" cy="190" r="7" fill="#38bdf8"/>
-
-  <!-- Header Category Badge -->
-  <rect x="20" y="20" width="220" height="26" rx="4" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="30" y="37" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="bold">WEAPON // WEAVER'S SCYTHE</text>
-
-  <!-- Bottom Name Label -->
-  <rect x="20" y="355" width="360" height="26" rx="4" fill="#090d16" stroke="#c084fc" stroke-width="1.2"/>
-  <text x="200" y="372" fill="#f8fafc" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="bold" text-anchor="middle">THE FORGOTTEN LENS</text>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgw009)" stroke="#67e8f9" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="128" fill="url(#glw009)"/>
+  
+  <!-- pale disc flattening into a cutting plane; no faces on the glass -->
+  <ellipse cx="200" cy="156" rx="108" ry="70" fill="#082f49" stroke="#67e8f9" stroke-width="3.2"/>
+  <path d="M96 156 L304 156 L270 210 L130 210 Z" fill="#0c4a6e" stroke="#a5f3fc" stroke-width="2"/>
+  <line x1="200" y1="226" x2="200" y2="318" stroke="#f1df76" stroke-width="8" stroke-linecap="round"/>
+  <rect x="176" y="318" width="48" height="16" fill="#082f49" stroke="#67e8f9"/>
+  <path d="M140 140 L180 172 L220 140 L260 172" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".5"/>
+    
+  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#67e8f9" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#67e8f9" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">WEAPON // CUTTING PLANE</text>
+  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
+  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE FORGOTTEN LENS</text>
 </svg>

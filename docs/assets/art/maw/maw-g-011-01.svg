@@ -1,30 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LISTENING STONE">
   <defs>
-    <radialGradient id="mawBg_maw-g-01" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#111827" stop-opacity="0.95"/>
-      <stop offset="70%" stop-color="#090d16" stop-opacity="0.98"/>
-      <stop offset="100%" stop-color="#030712" stop-opacity="1"/>
+    <radialGradient id="bgg011" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="mawGlow_maw-g-01" cx="50%" cy="50%" r="45%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    <radialGradient id="glg011" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-
-  <rect x="6" y="6" width="388" height="388" rx="16" fill="url(#mawBg_maw-g-01)" stroke="#38bdf8" stroke-width="2"/>
-  <rect x="12" y="12" width="376" height="376" rx="12" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="6 3" opacity="0.35"/>
-  <circle cx="200" cy="200" r="140" fill="url(#mawGlow_maw-g-01)"/>
-
-  <!-- Tuning Fork Earpiece -->
-  <path d="M 180 140 Q 220 140 220 200 L 220 260" fill="none" stroke="#38bdf8" stroke-width="4"/>
-  <circle cx="180" cy="140" r="8" fill="#f1df76"/>
-  <circle cx="220" cy="260" r="12" fill="#0f172a" stroke="#38bdf8" stroke-width="2.5"/>
-
-  <!-- Header Category Badge -->
-  <rect x="20" y="20" width="220" height="26" rx="4" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="30" y="37" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="bold">GIFT // ACOUSTIC EARPIECE</text>
-
-  <!-- Bottom Name Label -->
-  <rect x="20" y="355" width="360" height="26" rx="4" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="372" fill="#f8fafc" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="bold" text-anchor="middle">THE LISTENING STONE</text>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgg011)" stroke="#38bdf8" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="128" fill="url(#glg011)"/>
+  
+  <!-- small deep-blue stone with one flat face -->
+  <path d="M120 230 L150 120 L250 108 L286 210 L240 268 L150 274 Z" fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
+  <path d="M150 120 L250 108 L250 128 L160 140 Z" fill="#082f49" stroke="#bae6fd" stroke-width="2"/>
+  <circle cx="200" cy="190" r="10" fill="#38bdf8" opacity=".5"/>
+    
+  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">GIFT // FLAT-FACE STONE</text>
+  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
+  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE LISTENING STONE</text>
 </svg>
