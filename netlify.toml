@@ -417,6 +417,60 @@
   force = true
 
 [[redirects]]
+  from = "/entities/se-004-the-rust-bleeding-sentry"
+  to = "/entities/list"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/entities/se-004-the-rust-bleeding-sentry.html"
+  to = "/entities/list"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/entities/se-004-the-rust-bleeding-sentry/"
+  to = "/entities/list"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/entities/se-006-the-siphon-leech"
+  to = "/entities/list"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/entities/se-006-the-siphon-leech.html"
+  to = "/entities/list"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/entities/se-006-the-siphon-leech/"
+  to = "/entities/list"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/entities/se-008-the-iron-maiden-of-regret"
+  to = "/entities/list"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/entities/se-008-the-iron-maiden-of-regret.html"
+  to = "/entities/list"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/entities/se-008-the-iron-maiden-of-regret/"
+  to = "/entities/list"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/*"
   to = "/404.html"
   status = 404
