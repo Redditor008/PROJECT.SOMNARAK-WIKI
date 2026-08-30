@@ -1293,5 +1293,215 @@
     "category": "Project",
     "description": "Sources and revision policy for the restarted wiki",
     "keywords": "Sources and Revision Project project DATABASE HUBS THE NINE ECHO-CORES CARTOGRAPHY & SCHEMATICS Sources and Revision Restart decision Reference pattern Sources used for the floor foundation Visual and structural research Revision policy"
+  },
+  {
+    "title": "The Guiding Light — 인도의 빛",
+    "url": "entities/ht-001-the-guiding-light.html",
+    "category": "Hope Transformations",
+    "description": "The Guiding Light is a small golden orb, approximately the size of a human heart. Its surface is neither glass nor crystal. It resembles a drop of dawn suspended in air, with thin lines of light moving through it like ro",
+    "keywords": "The Guiding Light — 인도의 빛 Hope Transformations The Guiding Light is a small golden orb, approximately the size of a human heart. Its surface is neither glass nor crystal. It resembles a drop of dawn suspended in air, with thin "
+  },
+  {
+    "title": "The Shield of Dawn — 새벽의 방패",
+    "url": "entities/ht-002-the-shield-of-dawn.html",
+    "category": "Hope Transformations",
+    "description": "The Shield of Dawn is a compact golden shield that usually rests against Taeho’s left forearm as a warm, luminous mark. When activated, it unfolds into a broad round shield made of layered gold, silver, and translucent H",
+    "keywords": "The Shield of Dawn — 새벽의 방패 Hope Transformations The Shield of Dawn is a compact golden shield that usually rests against Taeho’s left forearm as a warm, luminous mark. When activated, it unfolds into a broad round shield made of"
+  },
+  {
+    "title": "The Gentle Flame — 온화한 불꽃",
+    "url": "entities/ht-003-the-gentle-flame.html",
+    "category": "Hope Transformations",
+    "description": "The Gentle Flame is a small golden flame that floats above Sooah’s open palm. It has no smoke and produces no ordinary heat. Its outer edge is amber, its center is white, and a faint blue ring appears whenever it is trea",
+    "keywords": "The Gentle Flame — 온화한 불꽃 Hope Transformations The Gentle Flame is a small golden flame that floats above Sooah’s open palm. It has no smoke and produces no ordinary heat. Its outer edge is amber, its center is white, and a fai"
+  },
+  {
+    "title": "The Reuniting Spark — 재회의 불꽃",
+    "url": "entities/ht-004-the-reuniting-spark.html",
+    "category": "Hope Transformations",
+    "description": "The Reuniting Spark is a bright golden spark that moves in short, eager arcs around Duri. It resembles a firefly made from a fragment of a broken star. When still, it rests against Duri’s fingertips. When searching, it l",
+    "keywords": "The Reuniting Spark — 재회의 불꽃 Hope Transformations The Reuniting Spark is a bright golden spark that moves in short, eager arcs around Duri. It resembles a firefly made from a fragment of a broken star. When still, it rests against"
+  },
+  {
+    "title": "The Defiant Ember — 저항의 불씨",
+    "url": "entities/ht-005-the-defiant-ember.html",
+    "category": "Hope Transformations",
+    "description": "The Defiant Ember is a small orange-gold coal that floats just behind Sero’s sternum or rests between their fingers. It is never fully extinguished. Its surface contains tiny black veins, like the remains of a burned con",
+    "keywords": "The Defiant Ember — 저항의 불씨 Hope Transformations The Defiant Ember is a small orange-gold coal that floats just behind Sero’s sternum or rests between their fingers. It is never fully extinguished. Its surface contains tiny black"
+  },
+  {
+    "title": "The Eternal Warmth — 영원한 온기",
+    "url": "entities/ht-006-the-eternal-warmth.html",
+    "category": "Hope Transformations",
+    "description": "The Eternal Warmth appears as a small golden radiance near Sarang’s pendant. It has no fixed body, but sometimes forms the outline of two hands around a cup, a shoulder, or a sleeping person. Its light is amber and soft,",
+    "keywords": "The Eternal Warmth — 영원한 온기 Hope Transformations The Eternal Warmth appears as a small golden radiance near Sarang’s pendant. It has no fixed body, but sometimes forms the outline of two hands around a cup, a shoulder, or a sleep"
+  },
+  {
+    "title": "The Silent Vigil — 침묵의 경계",
+    "url": "entities/ht-007-the-silent-vigil.html",
+    "category": "Hope Transformations",
+    "description": "The Silent Vigil is a small golden light that floats above Midnight’s shoulder. It resembles a covered lantern with no visible flame. Its light falls outward but never shines directly into the eyes of the person it prote",
+    "keywords": "The Silent Vigil — 침묵의 경계 Hope Transformations The Silent Vigil is a small golden light that floats above Midnight’s shoulder. It resembles a covered lantern with no visible flame. Its light falls outward but never shines direc"
+  },
+  {
+    "title": "The Healing Touch — 치유의 손길",
+    "url": "entities/ht-008-the-healing-touch.html",
+    "category": "Hope Transformations",
+    "description": "The Healing Touch appears as a small golden hand made of soft Hope-crystal. It is not attached to Seol’s body. It floats beside them, follows their gestures, and sometimes places one translucent hand over Seol’s own whil",
+    "keywords": "The Healing Touch — 치유의 손길 Hope Transformations The Healing Touch appears as a small golden hand made of soft Hope-crystal. It is not attached to Seol’s body. It floats beside them, follows their gestures, and sometimes places o"
+  },
+  {
+    "title": "The Burning Hope — 타오르는 희망",
+    "url": "entities/ht-009-the-burning-hope.html",
+    "category": "Hope Transformations",
+    "description": "The Burning Hope is a small golden-orange flame with a white center. Unlike the Gentle Flame, it produces heat and can burn through obstacles. It circles Hwaran’s weapon arm or rests above the shoulder like a torch carri",
+    "keywords": "The Burning Hope — 타오르는 희망 Hope Transformations The Burning Hope is a small golden-orange flame with a white center. Unlike the Gentle Flame, it produces heat and can burn through obstacles. It circles Hwaran’s weapon arm or res"
+  },
+  {
+    "title": "The Living Memory — 살아 있는 기억",
+    "url": "entities/ht-010-the-living-memory.html",
+    "category": "Hope Transformations",
+    "description": "The Living Memory appears as a small golden figure with a porcelain-like body and a face that never settles into one identity. It wears a miniature craftsman’s apron and carries a thread of light between its hands.",
+    "keywords": "The Living Memory — 살아 있는 기억 Hope Transformations The Living Memory appears as a small golden figure with a porcelain-like body and a face that never settles into one identity. It wears a miniature craftsman’s apron and carries a "
+  },
+  {
+    "title": "The Shared Glass — 나눔의 잔",
+    "url": "entities/ht-011-the-shared-glass.html",
+    "category": "Hope Transformations",
+    "description": "The Shared Glass is a small golden drinking glass with a silver rim. It is always clean, even when filled with liquid Han or emotional residue. The glass cannot be broken by ordinary force, but it becomes cloudy when som",
+    "keywords": "The Shared Glass — 나눔의 잔 Hope Transformations The Shared Glass is a small golden drinking glass with a silver rim. It is always clean, even when filled with liquid Han or emotional residue. The glass cannot be broken by ordina"
+  },
+  {
+    "title": "The Standing Witness — 서 있는 증인",
+    "url": "entities/ht-012-the-standing-witness.html",
+    "category": "Hope Transformations",
+    "description": "The Standing Witness is a small golden figure, approximately the height of a hand. It has no visible mouth and carries a thin silver tablet against its chest. It stands wherever Chunhwa stands, even on unstable ground, a",
+    "keywords": "The Standing Witness — 서 있는 증인 Hope Transformations The Standing Witness is a small golden figure, approximately the height of a hand. It has no visible mouth and carries a thin silver tablet against its chest. It stands wherever Ch"
+  },
+  {
+    "title": "The Trinity of Dawn — 새벽의 삼위일체",
+    "url": "entities/ht-v-hc-001-the-trinity-of-dawn.html",
+    "category": "Hope Transformations",
+    "description": "The Trinity has a single birdlike body larger than an eagle, with three overlapping necks that join at the chest. Each head bears a distinct feature: many eyes from the Observing Bird, a luminous balance-mark from the We",
+    "keywords": "The Trinity of Dawn — 새벽의 삼위일체 Hope Transformations The Trinity has a single birdlike body larger than an eagle, with three overlapping necks that join at the chest. Each head bears a distinct feature: many eyes from the Observing B"
+  },
+  {
+    "title": "The Hand of Hope — 희망의 손",
+    "url": "entities/ht-v-hh-001-the-hand-of-hope.html",
+    "category": "Hope Transformations",
+    "description": "The Hand of Hope manifests as a vast luminous hand formed from gold, amber, white, silver, and orange Hope-crystal. It may appear as a single hand above a district, a pair of hands around the Weeping, or a humanoid figur",
+    "keywords": "The Hand of Hope — 희망의 손 Hope Transformations The Hand of Hope manifests as a vast luminous hand formed from gold, amber, white, silver, and orange Hope-crystal. It may appear as a single hand above a district, a pair of hands"
+  },
+  {
+    "title": "Hope Transformations",
+    "url": "entities/hope-transformations.html",
+    "category": "Hope Transformations",
+    "description": "Fourteen Hope entities bonded to Dawn Initiative bearers.",
+    "keywords": "Hope Transformations Hope Transformations Fourteen Hope entities bonded to Dawn Initiative bearers."
+  },
+  {
+    "title": "The Undelivered Thanks — 전하지 못한 감사",
+    "url": "entities/unk-247-the-undelivered-thanks.html",
+    "category": "Unknown Entities",
+    "description": "Primary Form: A translucent human figure, slight, perpetually mid-bow, wearing the faded coat of a Zone D commoner.",
+    "keywords": "The Undelivered Thanks — 전하지 못한 감사 Unknown Entities Primary Form: A translucent human figure, slight, perpetually mid-bow, wearing the faded coat of a Zone D commoner."
+  },
+  {
+    "title": "The Unconsoled — 위로받지 못한 자",
+    "url": "entities/unk-248-the-unconsoled.html",
+    "category": "Unknown Entities",
+    "description": "Primary Form: A translucent elder, sexless with age, seated or slow-walking, face permanently wet, in the rough Han-woven robes of the earliest settlers.",
+    "keywords": "The Unconsoled — 위로받지 못한 자 Unknown Entities Primary Form: A translucent elder, sexless with age, seated or slow-walking, face permanently wet, in the rough Han-woven robes of the earliest settlers."
+  },
+  {
+    "title": "The Extinguished — 꺼진 자",
+    "url": "entities/unk-250-the-extinguished.html",
+    "category": "Unknown Entities",
+    "description": "Primary Form: A humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, edges still faintly gold, core gone cold and crimson.",
+    "keywords": "The Extinguished — 꺼진 자 Unknown Entities Primary Form: A humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, edges still faintly gold, core gone cold and crimson."
+  },
+  {
+    "title": "The Unspoken Line — 그어진 선",
+    "url": "entities/unk-251-the-unspoken-line.html",
+    "category": "Unknown Entities",
+    "description": "Primary Form: An ordinary four-way junction — cobblestones, a dry fountain, shuttered shopfronts. Nothing marks it as anomalous to the eye.",
+    "keywords": "The Unspoken Line — 그어진 선 Unknown Entities Primary Form: An ordinary four-way junction — cobblestones, a dry fountain, shuttered shopfronts. Nothing marks it as anomalous to the eye."
+  },
+  {
+    "title": "The Mewgical Girl — 야옹 마법소녀",
+    "url": "entities/unk-901-the-mewgical-girl.html",
+    "category": "Unknown Entities",
+    "description": "Primary Form: A two-meter-tall magical-girl doll with a humanoid body, cat ears on both sides of the head, and a long cat tail. The body is visibly artificial but moves with the balance and expressiveness of a living per",
+    "keywords": "The Mewgical Girl — 야옹 마법소녀 Unknown Entities Primary Form: A two-meter-tall magical-girl doll with a humanoid body, cat ears on both sides of the head, and a long cat tail. The body is visibly artificial but moves with the ba"
+  },
+  {
+    "title": "The Repeated Survivor — 되풀이의 생존자",
+    "url": "entities/unk-902-the-repeated-survivor.html",
+    "category": "Unknown Entities",
+    "description": "Primary Form: An R.D. field agent — standard-issue coat, standard-issue posture, ordinary in every way that matters. The horror is that there is nothing behind the ordinariness. The face is a mask of competence with no o",
+    "keywords": "The Repeated Survivor — 되풀이의 생존자 Unknown Entities Primary Form: An R.D. field agent — standard-issue coat, standard-issue posture, ordinary in every way that matters. The horror is that there is nothing behind the ordinariness. Th"
+  },
+  {
+    "title": "The Music Box of Agony — 고통의 오르골",
+    "url": "entities/unk-903-the-music-box-of-agony.html",
+    "category": "Unknown Entities",
+    "description": "Physical Form: A small music box, 25 cm × 15 cm. The interior lining is pink; the top is black; the bottom is white. The craftsmanship is ordinary — the sort of box made to hold a child's trinkets — except that it has ne",
+    "keywords": "The Music Box of Agony — 고통의 오르골 Unknown Entities Physical Form: A small music box, 25 cm × 15 cm. The interior lining is pink; the top is black; the bottom is white. The craftsmanship is ordinary — the sort of box made to hold a "
+  },
+  {
+    "title": "Unknown Entities",
+    "url": "entities/unknown-entities.html",
+    "category": "Unknown Entities",
+    "description": "Seven named Sorrow specimens outside the thirteen public dossiers.",
+    "keywords": "Unknown Entities Unknown Entities Seven named Sorrow specimens outside the thirteen public dossiers."
+  },
+  {
+    "title": "Entity Groups and Transformation Chains",
+    "url": "entities/entity-groups-and-chains.html",
+    "category": "Sorrow Entities",
+    "description": "Linked Sorrow sets and evolution chains.",
+    "keywords": "Entity Groups and Transformation Chains Sorrow Entities Linked Sorrow sets and evolution chains."
+  },
+  {
+    "title": "Blue Ordeals — The Mourning Host",
+    "url": "mechanics/ordeal-blue.html",
+    "category": "Ordeals",
+    "description": "Blue Ordeals form from accumulated Lament Han. They weep, wail, and assault the mind. Multiple translucent figures drain Composure and force personnel to relive grief. They move in groups, moaning; their attacks are emot",
+    "keywords": "Blue Ordeals — The Mourning Host Ordeals Blue Ordeals form from accumulated Lament Han. They weep, wail, and assault the mind. Multiple translucent figures drain Composure and force personnel to relive grief. They move in"
+  },
+  {
+    "title": "Black Ordeals — The Crushing Tide",
+    "url": "mechanics/ordeal-black.html",
+    "category": "Ordeals",
+    "description": "Black Ordeals form from accumulated Weight Han. They are slow, dense, and physically devastating. Dark, heavy figures crush, flatten, and press down. Attacks are purely physical — broken bones, collapsed corridors, pinne",
+    "keywords": "Black Ordeals — The Crushing Tide Ordeals Black Ordeals form from accumulated Weight Han. They are slow, dense, and physically devastating. Dark, heavy figures crush, flatten, and press down. Attacks are purely physical — "
+  },
+  {
+    "title": "Pale Ordeals — The Fading",
+    "url": "mechanics/ordeal-pale.html",
+    "category": "Ordeals",
+    "description": "Pale Ordeals form from accumulated Void Han. They erase identity, memory, presence, existence. Featureless pale-white figures drain Clarity and cause personnel to forget who they are, where they are, and why they came. S",
+    "keywords": "Pale Ordeals — The Fading Ordeals Pale Ordeals form from accumulated Void Han. They erase identity, memory, presence, existence. Featureless pale-white figures drain Clarity and cause personnel to forget who they a"
+  },
+  {
+    "title": "Grey Ordeals — The Resentful March",
+    "url": "mechanics/ordeal-grey.html",
+    "category": "Ordeals",
+    "description": "Grey Ordeals form from accumulated Grudge Han. They are hostile, aggressive, armed — injustice given form. Humanoid figures carry weapons of crystallized resentment (blades, hammers, chains). They hunt personnel, coordin",
+    "keywords": "Grey Ordeals — The Resentful March Ordeals Grey Ordeals form from accumulated Grudge Han. They are hostile, aggressive, armed — injustice given form. Humanoid figures carry weapons of crystallized resentment (blades, hammer"
+  },
+  {
+    "title": "Purple Ordeals — The Corruption",
+    "url": "mechanics/ordeal-purple.html",
+    "category": "Ordeals",
+    "description": "Purple Ordeals form from raw, unprocessed Han — the Weeping’s pressure leaking upward. They are the most chaotic color. Purple-tinged masses shift form, spawn smaller manifestations, infect facility Han-flow, and attempt",
+    "keywords": "Purple Ordeals — The Corruption Ordeals Purple Ordeals form from raw, unprocessed Han — the Weeping’s pressure leaking upward. They are the most chaotic color. Purple-tinged masses shift form, spawn smaller manifestation"
+  },
+  {
+    "title": "The Book of Regressor",
+    "url": "lore/the-book-of-regressor.html",
+    "category": "Lore & Cosmology",
+    "description": "Absolvohan side-story: the book that holds the loop.",
+    "keywords": "The Book of Regressor Lore & Cosmology Absolvohan side-story: the book that holds the loop."
   }
 ]
