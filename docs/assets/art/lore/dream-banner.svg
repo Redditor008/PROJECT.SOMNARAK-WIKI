@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="THE DREAM  —  ISLANDS THAT FORGET THEIR SHORE">
+  <defs>
+    <linearGradient id="bgdream" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e1b4b"/>
+      <stop offset="1" stop-color="#312e81"/>
+    </linearGradient>
+    <linearGradient id="fadedream" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#818cf8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#818cf8" stop-opacity=".28"/>
+    </linearGradient>
+    <filter id="glowdream" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bgdream)"/>
+  <rect width="1400" height="280" fill="url(#fadedream)"/>
+  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#818cf8" stroke-width="2.4"/>
+  <line x1="24" y1="24" x2="1376" y2="24" stroke="#818cf8" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  <line x1="24" y1="256" x2="1376" y2="256" stroke="#818cf8" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  
+  <rect x="1188" y="18" width="194" height="28" fill="#000" opacity=".55" stroke="#818cf8" stroke-width="1"/>
+  <text x="1285" y="37" text-anchor="middle" fill="#818cf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="3">SOMNUS</text>
+  <g filter="url(#glowdream)">
+  
+  <ellipse cx="260" cy="124" rx="170" ry="48" fill="#4338ca" opacity=".42"/>
+  <ellipse cx="700" cy="92" rx="210" ry="56" fill="#4c1d95" opacity=".4"/>
+  <ellipse cx="1120" cy="132" rx="180" ry="42" fill="#4338ca" opacity=".4"/>
+  <rect x="196" y="102" width="96" height="42" fill="#0f172a" stroke="#a5b4fc" stroke-width="1.6"/>
+  <rect x="656" y="68" width="78" height="52" fill="#0f172a" stroke="#c4b5fd" stroke-width="1.6"/>
+  <polygon points="1096,110 1164,110 1130,68" fill="#0f172a" stroke="#a5b4fc" stroke-width="1.6"/>
+  <path d="M60 186 C240 146 400 206 560 166 C720 126 900 196 1120 156 C1240 136 1340 176 1380 166" fill="none" stroke="#a5b4fc" stroke-width="2.2" opacity=".75"/>
+  <circle cx="160" cy="58" r="16" fill="#e0e7ff" opacity=".22"/>
+  <circle cx="980" cy="50" r="11" fill="#c4b5fd" opacity=".28"/>
+  <circle cx="480" cy="48" r="7" fill="#a5b4fc" opacity=".4"/>
+  <path d="M640 40 L700 40 L700 56" fill="none" stroke="#c4b5fd" stroke-width="1.4" opacity=".6"/>
+    
+  </g>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="246" fill="#818cf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">SOMNUS  ·  MEMORY AS WEATHER</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">THE DREAM  —  ISLANDS THAT FORGET THEIR SHORE</text>
+</svg>

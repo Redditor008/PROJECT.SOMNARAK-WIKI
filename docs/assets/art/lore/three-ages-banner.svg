@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="THREE AGES  —  I · II · III">
+  <defs>
+    <linearGradient id="bgages" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#052e16"/>
+    </linearGradient>
+    <linearGradient id="fadeages" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#71efaf" stop-opacity="0"/>
+      <stop offset="1" stop-color="#71efaf" stop-opacity=".28"/>
+    </linearGradient>
+    <filter id="glowages" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bgages)"/>
+  <rect width="1400" height="280" fill="url(#fadeages)"/>
+  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#71efaf" stroke-width="2.4"/>
+  <line x1="24" y1="24" x2="1376" y2="24" stroke="#71efaf" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  <line x1="24" y1="256" x2="1376" y2="256" stroke="#71efaf" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  
+  <rect x="1188" y="18" width="194" height="28" fill="#000" opacity=".55" stroke="#71efaf" stroke-width="1"/>
+  <text x="1285" y="37" text-anchor="middle" fill="#71efaf" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="3">AGES</text>
+  <g filter="url(#glowages)">
+  
+  <rect x="70" y="86" width="380" height="122" fill="#1e293b" stroke="#71efaf" stroke-width="3"/>
+  <text x="260" y="158" text-anchor="middle" fill="#71efaf" font-family="Impact" font-size="28" letter-spacing="6">AGE I</text>
+  <rect x="510" y="64" width="380" height="144" fill="#1e293b" stroke="#f1df76" stroke-width="3"/>
+  <text x="700" y="148" text-anchor="middle" fill="#f1df76" font-family="Impact" font-size="28" letter-spacing="6">AGE II</text>
+  <rect x="950" y="42" width="380" height="166" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+  <text x="1140" y="136" text-anchor="middle" fill="#38bdf8" font-family="Impact" font-size="28" letter-spacing="6">AGE III</text>
+  <path d="M450 147 H510 M890 136 H950" stroke="#94a3b8" stroke-width="2"/>
+    
+  </g>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="246" fill="#71efaf" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">CHRONICLE  ·  SHARED WALL, NOT A LINE</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">THREE AGES  —  I · II · III</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="THE EXTINGUISHED  —  SMOKE WHERE THE LAMP WAS">
+  <defs>
+    <linearGradient id="bgu250" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0405"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="fadeu250" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#64748b" stop-opacity="0"/>
+      <stop offset="1" stop-color="#64748b" stop-opacity=".28"/>
+    </linearGradient>
+    <filter id="glowu250" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bgu250)"/>
+  <rect width="1400" height="280" fill="url(#fadeu250)"/>
+  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#64748b" stroke-width="2.4"/>
+  <line x1="24" y1="24" x2="1376" y2="24" stroke="#64748b" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  <line x1="24" y1="256" x2="1376" y2="256" stroke="#64748b" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  
+  <rect x="1188" y="18" width="194" height="28" fill="#000" opacity=".55" stroke="#64748b" stroke-width="1"/>
+  <text x="1285" y="37" text-anchor="middle" fill="#64748b" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="3">UNK-250</text>
+  <g filter="url(#glowu250)">
+  
+  <rect x="670" y="120" width="60" height="80" fill="#1c1917" stroke="#64748b" stroke-width="3"/>
+  <path d="M700 50 C660 90 670 120 700 130 C730 120 740 90 700 50" fill="none" stroke="#94a3b8" stroke-width="3" opacity=".45"/>
+  <path d="M680 70 C670 40 700 20 720 50" fill="none" stroke="#64748b" stroke-width="2" opacity=".7"/>
+  <path d="M720 64 C740 30 760 48 750 80" fill="none" stroke="#475569" stroke-width="2" opacity=".6"/>
+  <ellipse cx="700" cy="48" rx="18" ry="8" fill="#334155" opacity=".5"/>
+  <rect x="160" y="140" width="220" height="50" fill="#111" stroke="#334155"/>
+  <rect x="1020" y="140" width="220" height="50" fill="#111" stroke="#334155"/>
+  <line x1="180" y1="165" x2="360" y2="165" stroke="#475569" stroke-width="6"/>
+    
+  </g>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="246" fill="#64748b" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">UNK-250  ·  꺼진 자  ·  SNUFFED</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">THE EXTINGUISHED  —  SMOKE WHERE THE LAMP WAS</text>
+</svg>

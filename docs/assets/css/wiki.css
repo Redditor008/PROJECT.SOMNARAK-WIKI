@@ -9346,14 +9346,18 @@ nav.float-toc .float-toc-sep {
   background: #05080e !important;
   overflow: hidden !important;
   box-shadow: 0 8px 22px rgba(0,0,0,0.75) !important;
+  aspect-ratio: 5 / 1 !important;
+  max-height: 280px !important;
+  width: 100% !important;
 }
 .lore-banner img {
   display: block !important;
   width: 100% !important;
-  height: auto !important;
-  max-height: 240px !important;
-  object-fit: cover !important;
+  height: 100% !important;
+  max-height: 280px !important;
+  object-fit: contain !important;
   object-position: center !important;
+  background: #05080e !important;
 }
 .prop-tile-grid {
   display: grid !important;

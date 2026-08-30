@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="THE UNCONSOLED  —  A SEAT KEPT FOR NO ONE">
+  <defs>
+    <linearGradient id="bgu248" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#1e1030"/>
+    </linearGradient>
+    <linearGradient id="fadeu248" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c084fc" stop-opacity="0"/>
+      <stop offset="1" stop-color="#c084fc" stop-opacity=".28"/>
+    </linearGradient>
+    <filter id="glowu248" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bgu248)"/>
+  <rect width="1400" height="280" fill="url(#fadeu248)"/>
+  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#c084fc" stroke-width="2.4"/>
+  <line x1="24" y1="24" x2="1376" y2="24" stroke="#c084fc" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  <line x1="24" y1="256" x2="1376" y2="256" stroke="#c084fc" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  
+  <rect x="1188" y="18" width="194" height="28" fill="#000" opacity=".55" stroke="#c084fc" stroke-width="1"/>
+  <text x="1285" y="37" text-anchor="middle" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="3">UNK-248</text>
+  <g filter="url(#glowu248)">
+  
+  <rect x="600" y="110" width="200" height="100" fill="#1e293b" stroke="#94a3b8" stroke-width="3"/>
+  <rect x="630" y="70" width="140" height="50" fill="#0f172a" stroke="#94a3b8" stroke-width="2"/>
+  <line x1="700" y1="70" x2="700" y2="40" stroke="#94a3b8" stroke-width="4"/>
+  <rect x="200" y="130" width="160" height="70" fill="#1e1b4b" stroke="#c084fc" stroke-width="2"/>
+  <path d="M220 150 Q280 180 340 150" fill="none" stroke="#c084fc" stroke-width="2"/>
+  <rect x="1040" y="90" width="28" height="110" fill="#1e293b" stroke="#64748b"/>
+  <path d="M1054 90 C1080 70 1100 110 1054 120" fill="#334155" stroke="#94a3b8"/>
+  <circle cx="1054" cy="70" r="8" fill="none" stroke="#64748b" stroke-width="2"/>
+    
+  </g>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="246" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">UNK-248  ·  위로받지 못한 자  ·  EMPTY CHAIR</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">THE UNCONSOLED  —  A SEAT KEPT FOR NO ONE</text>
+</svg>
