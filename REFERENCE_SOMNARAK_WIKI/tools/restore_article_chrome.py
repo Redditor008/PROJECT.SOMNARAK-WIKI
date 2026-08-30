@@ -147,6 +147,10 @@ PILLS = {
         ("somnarak-city-map.html", "City Blueprint"),
         ("../locations/index.html", "✦ Atlas Hub"),
     ],
+    "project": [
+        ("source-map.html", "Source map"),
+        ("../index.html", "✦ Hub"),
+    ],
 }
 
 SKIP = {
