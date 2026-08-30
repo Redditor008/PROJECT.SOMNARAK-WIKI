@@ -9496,3 +9496,36 @@ img.el-icon {
   display: block;
   margin: 0 auto;
 }
+
+
+/* Hub homepages: encyclopedia cards, not one-line lists */
+body.hub-page .maw-set-trio {
+  display: flex !important;
+  justify-content: center !important;
+  gap: 8px !important;
+  margin: 8px 0 14px !important;
+}
+body.hub-page .maw-set-trio img {
+  width: 52px !important;
+  height: 52px !important;
+  min-width: 52px !important;
+  min-height: 52px !important;
+  object-fit: contain !important;
+  background: #05070c !important;
+  border: 2px solid #f1df76 !important;
+  padding: 3px !important;
+}
+body.hub-page .pm-entity-card .entity-card-desc {
+  min-height: 4.6em !important;
+  font-size: 0.88rem !important;
+  line-height: 1.5 !important;
+  color: #e4dfb8 !important;
+}
+body.hub-page .lore-banner {
+  margin: 0 0 1.2rem !important;
+}
+body.hub-page .jump-btn {
+  margin-right: 10px !important;
+  margin-bottom: 8px !important;
+  display: inline-block !important;
+}
