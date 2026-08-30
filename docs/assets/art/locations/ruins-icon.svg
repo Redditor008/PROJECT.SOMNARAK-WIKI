@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="UNKNOWN CITIES">
+  <defs>
+    <radialGradient id="ibgruinsi" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <radialGradient id="iglruinsi" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#f1df76" stop-opacity=".22"/><stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#ibgruinsi)" stroke="#f1df76" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="128" fill="url(#iglruinsi)"/>
+  
+  <path d="M60 300 L120 80 L180 300" fill="none" stroke="#f1df76" stroke-width="8"/>
+  <path d="M200 300 L200 120 L300 120 L300 300" fill="none" stroke="#d6d3d1" stroke-width="8"/>
+  <path d="M320 300 C320 120 380 120 380 300" fill="none" stroke="#a8a29e" stroke-width="8"/>
+
+  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">ATLAS  ·  UNKNOWN CITIES</text>
+  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
+  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.5">UNKNOWN CITIES</text>
+</svg>

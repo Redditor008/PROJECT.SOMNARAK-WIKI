@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="UNKNOWN CITIES  —  PRECURSOR ARCHES">
+  <defs>
+    <linearGradient id="bgruinsb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#031018"/><stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="fdruinsb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f1df76" stop-opacity="0"/>
+      <stop offset="1" stop-color="#f1df76" stop-opacity=".22"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bgruinsb)"/>
+  <rect width="1400" height="280" fill="url(#fdruinsb)"/>
+  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#f1df76" stroke-width="2.4"/>
+  <line x1="24" y1="24" x2="1376" y2="24" stroke="#f1df76" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  <line x1="24" y1="256" x2="1376" y2="256" stroke="#f1df76" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  
+  <path d="M120 200 L180 70 L240 200" fill="none" stroke="#f1df76" stroke-width="6"/>
+  <path d="M260 200 L260 90 L340 90 L340 200" fill="none" stroke="#d6d3d1" stroke-width="6"/>
+  <path d="M500 200 L560 60 L640 200" fill="none" stroke="#f1df76" stroke-width="6"/>
+  <path d="M800 200 C800 80 980 80 980 200" fill="none" stroke="#a8a29e" stroke-width="6"/>
+  <rect x="1100" y="110" width="160" height="90" fill="none" stroke="#f1df76" stroke-width="4"/>
+
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="246" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">ATLAS  ·  UNKNOWN CITIES</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">UNKNOWN CITIES  —  PRECURSOR ARCHES</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="M.A.W. ARCHITECTURE  —  LET THE SORROW WEAR YOU">
+  <defs>
+    <linearGradient id="bgmawsysb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#031018"/><stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="fdmawsysb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f1df76" stop-opacity="0"/>
+      <stop offset="1" stop-color="#f1df76" stop-opacity=".22"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bgmawsysb)"/>
+  <rect width="1400" height="280" fill="url(#fdmawsysb)"/>
+  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#f1df76" stroke-width="2.4"/>
+  <line x1="24" y1="24" x2="1376" y2="24" stroke="#f1df76" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  <line x1="24" y1="256" x2="1376" y2="256" stroke="#f1df76" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  
+  <path d="M180 200 L240 50 L280 50 L320 200 Z" fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
+  <path d="M520 70 C620 40 780 40 880 70 L920 200 L480 200 Z" fill="#0c4a6e" stroke="#38bdf8" stroke-width="3"/>
+  <path d="M1100 70 L1180 50 L1220 90 L1160 200 L1080 180 Z" fill="#1c1917" stroke="#f1df76" stroke-width="3"/>
+
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="246" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">SYSTEMS  ·  M.A.W.</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">M.A.W. ARCHITECTURE  —  LET THE SORROW WEAR YOU</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="PURPLE ORDEAL">
+  <defs>
+    <radialGradient id="ibgordealpurplei" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <radialGradient id="iglordealpurplei" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity=".22"/><stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#ibgordealpurplei)" stroke="#c084fc" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="128" fill="url(#iglordealpurplei)"/>
+  
+  <rect x="50" y="70" width="300" height="250" fill="#05070c" stroke="#c084fc" stroke-width="3"/>
+  <g transform="translate(40,40) scale(1.6)">
+  <path d="M200 180 C320 60 480 200 640 90 C800 20 960 190 1200 80" fill="none" stroke="#c084fc" stroke-width="8"/>
+  <path d="M180 70 C400 180 700 40 1220 170" fill="none" stroke="#6d28d9" stroke-width="5"/>
+  <circle cx="640" cy="120" r="18" fill="#6d28d9" stroke="#e9d5ff"/>
+</g>
+
+  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#c084fc" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">ORDEAL  ·  PURPLE</text>
+  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
+  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.5">PURPLE ORDEAL</text>
+</svg>

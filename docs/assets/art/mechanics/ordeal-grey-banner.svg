@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="GREY ORDEALS  —  THE RESENTFUL MARCH">
+  <defs>
+    <linearGradient id="bgordealgreyb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#031018"/><stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="fdordealgreyb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#94a3b8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#94a3b8" stop-opacity=".22"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bgordealgreyb)"/>
+  <rect width="1400" height="280" fill="url(#fdordealgreyb)"/>
+  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#94a3b8" stroke-width="2.4"/>
+  <line x1="24" y1="24" x2="1376" y2="24" stroke="#94a3b8" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  <line x1="24" y1="256" x2="1376" y2="256" stroke="#94a3b8" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  
+  <rect x="80" y="48" width="1240" height="160" fill="#05070c" stroke="#94a3b8" stroke-width="3"/>
+  
+  <g fill="#334155" stroke="#94a3b8" stroke-width="2">
+    <polygon points="140,180 180,70 220,180"/>
+    <polygon points="280,180 320,80 360,180"/>
+    <polygon points="420,180 460,60 500,180"/>
+    <polygon points="560,180 600,90 640,180"/>
+    <polygon points="700,180 740,70 780,180"/>
+    <polygon points="840,180 880,85 920,180"/>
+    <polygon points="980,180 1020,75 1060,180"/>
+    <polygon points="1120,180 1160,95 1200,180"/>
+  </g>
+
+
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="246" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">ORDEAL  ·  GREY</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">GREY ORDEALS  —  THE RESENTFUL MARCH</text>
+</svg>

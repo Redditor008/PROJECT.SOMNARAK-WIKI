@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="WEAVERS">
+  <defs>
+    <radialGradient id="ibgweaversi" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <radialGradient id="iglweaversi" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity=".22"/><stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#ibgweaversi)" stroke="#c084fc" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="128" fill="url(#iglweaversi)"/>
+  
+  <rect x="40" y="80" width="320" height="20" fill="#1c1917" stroke="#c084fc"/>
+  <path d="M80 100 V300 M140 100 V300 M200 100 V300 M260 100 V300 M320 100 V300" stroke="#c084fc" stroke-width="3"/>
+  <path d="M40 180 C120 240 200 120 280 200 C320 240 360 160 380 200" fill="none" stroke="#f1df76" stroke-width="4"/>
+
+  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#c084fc" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">FACTION  ·  WEAVERS</text>
+  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
+  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.5">WEAVERS</text>
+</svg>
