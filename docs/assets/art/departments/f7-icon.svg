@@ -1,29 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="FLOOR 7">
-  <defs>
-    <radialGradient id="ibgf7i" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#030712"/>
-    </radialGradient>
-    <radialGradient id="iglf7i" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c084fc" stop-opacity=".22"/><stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#ibgf7i)" stroke="#c084fc" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#iglf7i)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img">
+  <rect width="400" height="400" fill="#05070c"/>
+  <rect x="18" y="18" width="364" height="364" fill="none" stroke="#c084fc" stroke-width="8"/>
   
-  <rect x="50" y="70" width="300" height="250" fill="#05070c" stroke="#c084fc" stroke-width="3"/>
-  <g transform="translate(20,40) scale(0.9)">
-  <g fill="#3b0764" stroke="#c084fc" stroke-width="2">
-    <polygon points="300,180 360,70 420,180"/>
-    <polygon points="500,180 560,80 620,180"/>
-    <polygon points="700,180 760,60 820,180"/>
-    <polygon points="900,180 960,90 1020,180"/>
-    <polygon points="1100,180 1160,75 1220,180"/>
-  </g>
-</g>
+  <rect x="70" y="90" width="260" height="200" fill="#05030a" stroke="#c084fc" stroke-width="6"/>
+  <path d="M90 120 L300 260 M90 260 L300 120" stroke="#c084fc" stroke-width="8"/>
+  <circle cx="200" cy="190" r="22" fill="none" stroke="#f1df76" stroke-width="6"/>
 
-  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#c084fc" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">FLOOR 7  ·  ISHALL</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.5">FLOOR 7</text>
 </svg>

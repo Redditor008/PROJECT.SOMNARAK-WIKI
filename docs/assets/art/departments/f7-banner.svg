@@ -1,31 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="FLOOR 7  —  SHADOW CORPS">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Floor 7 Shadow Corps — blackout corridors and folded routes">
   <defs>
     <linearGradient id="bgf7b" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#031018"/><stop offset="1" stop-color="#020617"/>
+      <stop offset="0" stop-color="#05080e"/><stop offset="1" stop-color="#020617"/>
     </linearGradient>
-    <linearGradient id="fdf7b" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#c084fc" stop-opacity="0"/>
-      <stop offset="1" stop-color="#c084fc" stop-opacity=".22"/>
+    <linearGradient id="acf7b" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c084fc"/><stop offset="1" stop-color="#000"/>
     </linearGradient>
+    <filter id="glf7b" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
   <rect width="1400" height="280" fill="url(#bgf7b)"/>
-  <rect width="1400" height="280" fill="url(#fdf7b)"/>
-  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#c084fc" stroke-width="2.4"/>
-  <line x1="24" y1="24" x2="1376" y2="24" stroke="#c084fc" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
-  <line x1="24" y1="256" x2="1376" y2="256" stroke="#c084fc" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  <rect width="1400" height="280" fill="#c084fc" opacity=".06"/>
   
-  <rect x="80" y="48" width="1240" height="160" fill="#05070c" stroke="#c084fc" stroke-width="3"/>
-  
-  <g fill="#3b0764" stroke="#c084fc" stroke-width="2">
-    <polygon points="300,180 360,70 420,180"/>
-    <polygon points="500,180 560,80 620,180"/>
-    <polygon points="700,180 760,60 820,180"/>
-    <polygon points="900,180 960,90 1020,180"/>
-    <polygon points="1100,180 1160,75 1220,180"/>
-  </g>
+  <rect x="80" y="40" width="1240" height="170" fill="#0a0614" stroke="#c084fc" stroke-width="2"/>
+  <path d="M80 40 L400 210 M400 40 L720 210 M720 40 L1040 210 M1040 40 L1320 210" stroke="#c084fc" stroke-width="2" opacity=".45"/>
+  <rect x="140" y="70" width="280" height="110" fill="#05030a" stroke="#c084fc" stroke-width="2"/>
+  <path d="M170 100 H380 M170 124 H340 M170 148 H360" stroke="#38bdf8" stroke-width="2" opacity=".7"/>
+  <rect x="560" y="70" width="280" height="110" fill="#05030a" stroke="#c084fc" stroke-width="2"/>
+  <path d="M590 90 L800 150 M590 150 L800 90" stroke="#c084fc" stroke-width="3"/>
+  <rect x="980" y="70" width="280" height="110" fill="#05030a" stroke="#c084fc" stroke-width="2"/>
+  <circle cx="1120" cy="124" r="28" fill="none" stroke="#f1df76" stroke-width="3" stroke-dasharray="4 6"/>
 
-
-  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
-  <text x="32" y="246" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FLOOR 7  ·  ISHALL</text>
-  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">FLOOR 7  —  SHADOW CORPS</text>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".72"/>
+  <text x="32" y="246" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FLOOR 7  ·  ISHALL  ·  UNLISTED</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">SHADOW CORPS  —  WHERE OTHERS WILL NOT</text>
 </svg>

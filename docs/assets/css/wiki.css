@@ -9529,3 +9529,15 @@ body.hub-page .jump-btn {
   margin-bottom: 8px !important;
   display: inline-block !important;
 }
+
+
+/* Right rail = main homepage only */
+body:not(.home-page) .floor-rail {
+  display: none !important;
+}
+body.hub-page .wiki-shell {
+  grid-template-columns: minmax(0, 190px) minmax(0, 1fr) !important;
+}
+body.hub-page .wiki-shell.home-shell {
+  grid-template-columns: minmax(0, 190px) minmax(0, 1fr) !important;
+}

@@ -1,25 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="FLOOR 4">
-  <defs>
-    <radialGradient id="ibgf4i" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#030712"/>
-    </radialGradient>
-    <radialGradient id="iglf4i" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#71efaf" stop-opacity=".22"/><stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#ibgf4i)" stroke="#71efaf" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#iglf4i)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img">
+  <rect width="400" height="400" fill="#05070c"/>
+  <rect x="18" y="18" width="364" height="364" fill="none" stroke="#71efaf" stroke-width="8"/>
   
-  <rect x="50" y="70" width="300" height="250" fill="#05070c" stroke="#71efaf" stroke-width="3"/>
-  <g transform="translate(20,40) scale(0.9)">
-  <path d="M500 180 L620 80 L740 180 Z" fill="#064e3b" stroke="#71efaf" stroke-width="3"/>
-  <rect x="860" y="90" width="160" height="90" fill="#0b1220" stroke="#71efaf"/>
-  <circle cx="940" cy="135" r="20" fill="#71efaf"/>
-</g>
+  <circle cx="200" cy="200" r="110" fill="none" stroke="#71efaf" stroke-width="10"/>
+  <circle cx="200" cy="200" r="70" fill="none" stroke="#38bdf8" stroke-width="7"/>
+  <circle cx="200" cy="200" r="32" fill="none" stroke="#f1df76" stroke-width="6" stroke-dasharray="8 6"/>
+  <circle cx="200" cy="200" r="10" fill="#71efaf"/>
+  <path d="M200 70 V40 M200 330 V360 M70 200 H40 M330 200 H360" stroke="#71efaf" stroke-width="8"/>
 
-  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#71efaf" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#71efaf" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">FLOOR 4  ·  AYSHUK</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.5">FLOOR 4</text>
 </svg>
