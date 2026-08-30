@@ -364,11 +364,11 @@
     "keywords": "The Debt Scale Sorrow Entities entities DATABASE HUBS THE NINE ECHO-CORES CARTOGRAPHY & SCHEMATICS The Debt Scale An accurate reading becomes coercive when the institution controlling the category also supplies the evidence and enforces the result. Record consent Name the source Record the beneficiary Treat as evidence Overview Appearance Origin Work Responses Flerehan Pugnahan Viderehan Ferrehan Management Guidelines Activation and Escalation Consultation Unresolved Contact Judgment Attempt Overload Public Measure Tool operation Observation M.A.W. Equipment Equal Measure Story Relationships SE-015 Operational data /// TACTICAL DEFENSE & DAMAGE MULTIPLIERS /// CONTAINMENT WORK AFFINITY MATRIX"
   },
   {
-    "title": "Comparative Faction Technology & Engineering — Somnarak Official Wiki",
+    "title": "Faction Technology",
     "url": "factions/faction-technology.html",
     "category": "Factions & Guilds",
-    "description": "",
-    "keywords": "Comparative Faction Technology & Engineering — Somnarak Official Wiki Factions & Guilds factions DATABASE HUBS THE NINE ECHO-CORES CARTOGRAPHY & SCHEMATICS Comparative Faction Technology & Engineering Overview Unique Tech Per Faction & Group Main Factions 1. The Council of Sighs — The Weight Bearers 2. The Architects — The Shapers 3. The Collectors — The Debt Enforcers 4. The Keepers — The Memory Guardians 5. The Wardens — The Border Defenders 6. The Weavers — The Dream Walkers 7. The R.D. — The Reverie Directorate 8. The Judexhan — The Arbiters 8b. The Giltong (질동) — The Taboo Enforcers Independent Operators 9. The Menders — The Menders The Frays (Criminal Organizations) 10. The Harvesters — Illegal Echo Extractors 11. The Debt Brokers — Debt Traders 12. The Veil Merchants — Counterfeit Veil Access 13. The Memory Washers — Memory Erasers 14. The Entity Traders — Sorrow Entity Traffickers The Underground 15. The Whisper Market — Information Brokers 16. The Debtless — Debt Liberation Group 17. The Veil Breakers — Anti-Veil Activists 18. The Memory Thieves — Black Market Memory Traders 19. The Gate Runners — Exile Assistance Faction Tech Summary"
+    "description": "Index of guild tools. Long descriptions live on each faction page.",
+    "keywords": "Faction technology Debt-Ledger Dream Loom Judgment Blade Taboo Scanner Repair Rod"
   },
   {
     "title": "Factions & Organizations Hub - Somnarak Official Wiki",
@@ -679,11 +679,11 @@
     "keywords": "Occlusihan Consolihan Cheongula Alpha Tree Wars of Somnarak First War"
   },
   {
-    "title": "The Seven Absolute Taboos of Somnarak — Somnarak Official Wiki",
+    "title": "The Seven Taboos",
     "url": "lore/the-seven-absolute-taboos.html",
     "category": "Lore & Cosmology",
-    "description": "",
-    "keywords": "The Seven Absolute Taboos of Somnarak — Somnarak Official Wiki Lore & Cosmology lore DATABASE HUBS THE NINE ECHO-CORES CARTOGRAPHY & SCHEMATICS The Seven Absolute Taboos of Somnarak II. Cosmology The Two Primordial States Han (한) — The Binding Force The Three Sorrows (삼한 — Samhan) III. The City — Somnarak The World — Mugenhan (무겐한) The Unofficial Zone — The Desolate (황폐 — Hwangpye) Nested Structure (outside → in) The Five Zones District Structure — The Veil and The Raw Zone A — The Alpha Tree (도시의 심장) Zone B — The Western Sector (서부 구역) Zone C — The Eastern Sector (동부 구역) Zone D — The Mantle (외곽 맨틀) Zone E — The Perimeter (경계선) Vertical Dimension Geographic Features — Mugenhan's Landscape Faction Relations — The Web of Power Faction Collapse — When Power Falls Taboo Enforcement — The Giltong (질동) Overview What are the Giltong? The Seven Taboos and Their Enforcement Giltong Structure The Arbiter Giltong Operations Famous Taboo Cases The Giltong and Other Factions Faction Relations — The Web of Power Overview The Power Map Faction Relationships — Detailed Trade Relationships Competition Collusion Faction Collapse — When Power Falls Overview What Triggers Collapse What Happens During Collapse Faction Collapse Scenarios The Cascade Effect V. Governance — The Fatalistic Order Overview The Council of Sighs (한숨의 의회) The Five Heads Faction Relationships (Summary) VIII. Systems & Mechanics The Four Elements of Sorrow (한의 사원소 — Han-ui Sawonso) The Price of Everything The Cycle of Debt Echoes — The Currency of Sorrow (메아리 — Meori) Dream-Diving — Entering the Subconscious Fracture — When Sorrow Breaks You Architect Powers — Han Shaping M.A.W. Mechanics The City's Response Referenced Systems — Surface Overview Daily Life in Somnarak Taboos (금지 — Geumji) Resonances (공명 — Gongmyeong) Common Technology Faction-Specific Technology The Underworld — Menders & Frays Entity Groups & Chains X-B. Glossary of Terms Core Concepts Geography History Factions Sorrow Entities M.A.W. Mechanics Locations Operations — Story Arcs SED — Somnarak Exploration Decreed UCD — Underworld Cleanup Descend R.D. — The Reverie Directorate Referenced Files"
+    "description": "Seven Han-woven prohibitions. Enforcement is Giltong, not this page.",
+    "keywords": "Seven Taboos Geumji Resurrection AI Han Immunity Time Reversal Sorrow Synthesis Giltong"
   },
   {
     "title": "The Three Ages & Historic Wars of Somnarak — Somnarak Official Wiki",
@@ -1383,6 +1383,13 @@
     "title": "Research and Observation",
     "description": "R.D. observation levels 0–4. Facility-wide, not a Floor 4 dump.",
     "keywords": "Observation Level research Insight Forge Work Types SECC",
+    "type": "article"
+  },
+  {
+    "url": "departments/daily-missions.html",
+    "title": "Daily Missions",
+    "description": "Catalog of each floor’s daily work. Per-floor tables stay on the floor pages.",
+    "keywords": "Daily missions floors quota Han-Energy M.A.W. Keep Border Watch Gate",
     "type": "article"
   }
 ]
