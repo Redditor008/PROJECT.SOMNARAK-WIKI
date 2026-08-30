@@ -370,33 +370,51 @@
 
 [[redirects]]
   from = "/factions/secc-classification-system"
-  to = "/mechanics/secc-classification-system"
+  to = "/entities/#classification"
   status = 301
 
 [[redirects]]
   from = "/factions/secc-classification-system.html"
-  to = "/mechanics/secc-classification-system"
+  to = "/entities/#classification"
   status = 301
 
 [[redirects]]
   from = "/factions/secc-classification-system/"
-  to = "/mechanics/secc-classification-system"
+  to = "/entities/#classification"
   status = 301
 
 [[redirects]]
   from = "/mechanics/secc-ranks"
-  to = "/mechanics/secc-classification-system"
+  to = "/entities/#classification"
   status = 301
 
 [[redirects]]
   from = "/mechanics/secc-ranks.html"
-  to = "/mechanics/secc-classification-system"
+  to = "/entities/#classification"
   status = 301
 
 [[redirects]]
   from = "/mechanics/secc-ranks/"
-  to = "/mechanics/secc-classification-system"
+  to = "/entities/#classification"
   status = 301
+
+[[redirects]]
+  from = "/mechanics/secc-classification-system"
+  to = "/entities/#classification"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/mechanics/secc-classification-system.html"
+  to = "/entities/#classification"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/mechanics/secc-classification-system/"
+  to = "/entities/#classification"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "/*"

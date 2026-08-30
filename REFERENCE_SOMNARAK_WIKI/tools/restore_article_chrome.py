@@ -90,7 +90,7 @@ PILLS = {
     "mechanics": [
         ("han-energy-and-damage.html", "Damage Matrix"),
         ("the-four-work-types.html", "Work Types"),
-        ("secc-classification-system.html", "SECC"),
+        ("../entities/index.html#classification", "SECC"),
         ("resonant-clash-mechanics.html", "Clash Rules"),
         ("ordeals-framework.html", "Ordeals"),
         ("the-four-ordeals.html", "Four Watches"),

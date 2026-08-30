@@ -1,3 +1,6 @@
+/mechanics/secc-classification-system /entities/#classification 301
+/mechanics/secc-classification-system.html /entities/#classification 301
+/mechanics/secc-classification-system/ /entities/#classification 301
 # Old fail / satellite URLs → real articles
 /entities/se-001-containment-log /entities/se-001-the-orphaned-bell 301
 /entities/se-001-containment-log.html /entities/se-001-the-orphaned-bell 301
@@ -68,9 +71,9 @@
 /locations/zone-e-frontier-ramparts /locations/zone-e-perimeter-bulwark 301
 /locations/zone-e-frontier-ramparts.html /locations/zone-e-perimeter-bulwark 301
 /locations/zone-e-frontier-ramparts/ /locations/zone-e-perimeter-bulwark 301
-/factions/secc-classification-system /mechanics/secc-classification-system 301
-/factions/secc-classification-system.html /mechanics/secc-classification-system 301
-/factions/secc-classification-system/ /mechanics/secc-classification-system 301
-/mechanics/secc-ranks /mechanics/secc-classification-system 301
-/mechanics/secc-ranks.html /mechanics/secc-classification-system 301
-/mechanics/secc-ranks/ /mechanics/secc-classification-system 301
+/factions/secc-classification-system /entities/#classification 301
+/factions/secc-classification-system.html /entities/#classification 301
+/factions/secc-classification-system/ /entities/#classification 301
+/mechanics/secc-ranks /entities/#classification 301
+/mechanics/secc-ranks.html /entities/#classification 301
+/mechanics/secc-ranks/ /entities/#classification 301
