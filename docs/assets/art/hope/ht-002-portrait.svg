@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="SHIELD OF HOPE">
+  <rect width="500" height="500" fill="#05070c"/>
+  <rect x="18" y="18" width="464" height="464" fill="none" stroke="#fb923c" stroke-width="3"/>
+  
+  <path d="M250 80 L390 140 L390 250 C390 330 250 390 250 390 C250 390 110 330 110 250 L110 140 Z" fill="#7c2d12" stroke="#fb923c" stroke-width="6"/>
+  <path d="M250 140 L330 180 L330 250 C330 300 250 340 250 340 C250 340 170 300 170 250 L170 180 Z" fill="#f1df76" opacity=".85"/>
+
+  <text x="250" y="460" text-anchor="middle" fill="#fb923c" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="4">SHIELD OF HOPE</text>
+</svg>

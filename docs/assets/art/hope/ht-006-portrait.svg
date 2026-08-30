@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="WARMTH">
+  <rect width="500" height="500" fill="#05070c"/>
+  <rect x="18" y="18" width="464" height="464" fill="none" stroke="#fde68a" stroke-width="3"/>
+  
+  <ellipse cx="250" cy="250" rx="140" ry="90" fill="#78350f" opacity=".5"/>
+  <circle cx="250" cy="220" r="80" fill="#fbbf24" opacity=".35"/>
+  <circle cx="250" cy="210" r="46" fill="#fde68a"/>
+  <path d="M180 300 Q250 340 320 300" fill="none" stroke="#f1df76" stroke-width="8"/>
+
+  <text x="250" y="460" text-anchor="middle" fill="#fde68a" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="4">WARMTH</text>
+</svg>

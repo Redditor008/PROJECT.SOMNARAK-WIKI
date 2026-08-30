@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="LAST EMBERS">
+  <rect width="500" height="500" fill="#05070c"/>
+  <rect x="18" y="18" width="464" height="464" fill="none" stroke="#fdba74" stroke-width="3"/>
+  
+  <rect x="210" y="260" width="80" height="90" fill="#451a03"/>
+  <circle cx="230" cy="240" r="18" fill="#ea580c"/>
+  <circle cx="270" cy="230" r="22" fill="#f97316"/>
+  <circle cx="250" cy="210" r="16" fill="#fbbf24"/>
+  <path d="M200 200 C210 160 230 170 240 140" stroke="#fb923c" fill="none" stroke-width="4"/>
+  <path d="M280 190 C300 150 310 170 330 130" stroke="#f59e0b" fill="none" stroke-width="3"/>
+
+  <text x="250" y="460" text-anchor="middle" fill="#fdba74" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="4">LAST EMBERS</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="GENTLE TOUCH">
+  <rect width="500" height="500" fill="#05070c"/>
+  <rect x="18" y="18" width="464" height="464" fill="none" stroke="#fcd34d" stroke-width="3"/>
+  
+  <path d="M180 260 C180 180 250 140 250 140 C250 140 320 180 320 260 C320 310 280 350 250 360 C220 350 180 310 180 260 Z" fill="#fde68a" stroke="#ca8a04" stroke-width="4"/>
+  <circle cx="220" cy="230" r="12" fill="#78350f"/>
+  <circle cx="280" cy="230" r="12" fill="#78350f"/>
+  <path d="M220 280 Q250 300 280 280" fill="none" stroke="#78350f" stroke-width="4"/>
+
+  <text x="250" y="460" text-anchor="middle" fill="#fcd34d" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="4">GENTLE TOUCH</text>
+</svg>

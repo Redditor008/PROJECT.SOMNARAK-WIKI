@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="LIVING MEMORY">
+  <rect width="500" height="500" fill="#05070c"/>
+  <rect x="18" y="18" width="464" height="464" fill="none" stroke="#a3e635" stroke-width="3"/>
+  
+  <rect x="160" y="120" width="180" height="220" rx="12" fill="#14532d" stroke="#a3e635" stroke-width="4"/>
+  <line x1="180" y1="170" x2="320" y2="170" stroke="#bbf7d0" stroke-width="6"/>
+  <line x1="180" y1="210" x2="300" y2="210" stroke="#86efac" stroke-width="5"/>
+  <line x1="180" y1="250" x2="280" y2="250" stroke="#4ade80" stroke-width="5"/>
+  <circle cx="250" cy="300" r="16" fill="#f1df76"/>
+
+  <text x="250" y="460" text-anchor="middle" fill="#a3e635" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="4">LIVING MEMORY</text>
+</svg>

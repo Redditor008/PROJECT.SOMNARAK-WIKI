@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="GUIDING LIGHT">
+  <rect width="500" height="500" fill="#05070c"/>
+  <rect x="18" y="18" width="464" height="464" fill="none" stroke="#f1df76" stroke-width="3"/>
+  
+  <circle cx="250" cy="230" r="110" fill="#fbbf24" opacity=".2"/>
+  <circle cx="250" cy="230" r="54" fill="#f1df76"/>
+  <circle cx="250" cy="230" r="22" fill="#fff7cc"/>
+  <g stroke="#f1df76" stroke-width="6">
+    <line x1="250" y1="70" x2="250" y2="120"/>
+    <line x1="250" y1="340" x2="250" y2="390"/>
+    <line x1="90" y1="230" x2="140" y2="230"/>
+    <line x1="360" y1="230" x2="410" y2="230"/>
+    <line x1="136" y1="116" x2="172" y2="152"/>
+    <line x1="328" y1="308" x2="364" y2="344"/>
+    <line x1="364" y1="116" x2="328" y2="152"/>
+    <line x1="172" y1="308" x2="136" y2="344"/>
+  </g>
+
+  <text x="250" y="460" text-anchor="middle" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="4">GUIDING LIGHT</text>
+</svg>

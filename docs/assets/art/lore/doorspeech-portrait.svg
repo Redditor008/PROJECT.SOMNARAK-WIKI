@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="The Doorspeech">
+  <rect width="640" height="400" fill="#05040a"/>
+  <rect x="190" y="40" width="260" height="320" fill="#0b0a12" stroke="#c084fc" stroke-width="3"/>
+  <rect x="214" y="64" width="212" height="250" fill="#08070e" stroke="#7c3aed" stroke-width="1.5"/>
+  <!-- ten fragment notches, one empty -->
+  <g>
+    <circle cx="230" cy="90" r="8" fill="#c084fc"/>
+    <circle cx="270" cy="90" r="8" fill="#c084fc"/>
+    <circle cx="310" cy="90" r="8" fill="#c084fc"/>
+    <circle cx="350" cy="90" r="8" fill="#c084fc"/>
+    <circle cx="390" cy="90" r="8" fill="#c084fc"/>
+    <circle cx="230" cy="128" r="8" fill="#c084fc"/>
+    <circle cx="270" cy="128" r="8" fill="#c084fc"/>
+    <circle cx="310" cy="128" r="8" fill="#c084fc"/>
+    <circle cx="350" cy="128" r="8" fill="#c084fc"/>
+    <circle cx="390" cy="128" r="8" fill="none" stroke="#ef5b55" stroke-width="2" stroke-dasharray="3 2"/>
+  </g>
+  <!-- waveform seal -->
+  <path d="M230 230 C250 200 270 260 290 230 C310 200 330 260 350 230 C370 200 390 250 410 230" fill="none" stroke="#38bdf8" stroke-width="2.5"/>
+  <rect x="300" y="280" width="40" height="70" fill="#111018" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="320" cy="316" r="6" fill="#f1df76"/>
+  <text x="320" y="28" text-anchor="middle" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="20" letter-spacing="5">DOORSPEECH</text>
+  <text x="320" y="388" text-anchor="middle" fill="#f1df76" font-family="Arial, sans-serif" font-size="11" letter-spacing="3">TEN FRAGMENTS  ·  ONE SEAL  ·  THE DOOR DOES NOT OPEN</text>
+</svg>

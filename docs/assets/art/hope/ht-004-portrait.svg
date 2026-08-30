@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="SPARK OF JOY">
+  <rect width="500" height="500" fill="#05070c"/>
+  <rect x="18" y="18" width="464" height="464" fill="none" stroke="#facc15" stroke-width="3"/>
+  
+  <polygon points="250,70 270,210 390,230 270,250 250,390 230,250 110,230 230,210" fill="#facc15"/>
+  <circle cx="250" cy="230" r="28" fill="#fffbeb"/>
+
+  <text x="250" y="460" text-anchor="middle" fill="#facc15" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="4">SPARK OF JOY</text>
+</svg>

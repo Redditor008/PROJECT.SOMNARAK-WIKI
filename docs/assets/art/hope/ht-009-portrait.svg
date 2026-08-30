@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="BURNING HEART">
+  <rect width="500" height="500" fill="#05070c"/>
+  <rect x="18" y="18" width="464" height="464" fill="none" stroke="#fb7185" stroke-width="3"/>
+  
+  <path d="M250 360 C160 280 130 200 190 150 C220 120 250 150 250 180 C250 150 280 120 310 150 C370 200 340 280 250 360 Z" fill="#ef4444"/>
+  <path d="M250 320 C190 260 180 210 215 180 C235 160 250 180 250 200 C250 180 265 160 285 180 C320 210 310 260 250 320 Z" fill="#f1df76"/>
+
+  <text x="250" y="460" text-anchor="middle" fill="#fb7185" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="4">BURNING HEART</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="The Weeping">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#061018"/><stop offset="1" stop-color="#020617"/></linearGradient>
+    <linearGradient id="riv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0c4a6e"/><stop offset=".45" stop-color="#075985"/><stop offset="1" stop-color="#082f49"/></linearGradient>
+    <radialGradient id="glow" cx="50%" cy="72%" r="40%"><stop offset="0" stop-color="#7dd3fc" stop-opacity=".55"/><stop offset="1" stop-color="#082f49" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="640" height="400" fill="url(#sky)"/>
+  <rect y="168" width="640" height="232" fill="url(#riv)"/>
+  <ellipse cx="320" cy="290" rx="210" ry="70" fill="url(#glow)"/>
+  <!-- city skyline -->
+  <path fill="#0b1220" d="M0 168 L0 118 L28 118 L28 90 L46 90 L46 128 L72 128 L72 70 L98 70 L98 118 L130 118 L130 52 L148 40 L166 52 L166 118 L198 118 L198 86 L226 86 L226 130 L260 130 L260 64 L278 48 L296 64 L296 130 L340 130 L340 78 L368 78 L368 118 L402 118 L402 58 L428 58 L428 118 L460 118 L460 92 L488 92 L488 128 L520 128 L520 74 L548 74 L548 118 L580 118 L580 96 L640 96 L640 168 Z"/>
+  <path fill="#38bdf8" opacity=".35" d="M148 40 L166 52 L166 56 L148 44 Z"/>
+  <!-- roots dipping -->
+  <path d="M278 168 C270 210 250 240 230 268" stroke="#7dd3fc" stroke-width="2" fill="none" opacity=".7"/>
+  <path d="M296 168 C310 220 330 250 360 280" stroke="#7dd3fc" stroke-width="2" fill="none" opacity=".7"/>
+  <path d="M260 168 C240 200 210 230 190 250" stroke="#67e8f9" stroke-width="1.5" fill="none" opacity=".5"/>
+  <!-- faces in the water -->
+  <ellipse cx="220" cy="300" rx="18" ry="22" fill="#0ea5e9" opacity=".25"/>
+  <ellipse cx="320" cy="318" rx="22" ry="26" fill="#38bdf8" opacity=".22"/>
+  <ellipse cx="420" cy="292" rx="16" ry="20" fill="#67e8f9" opacity=".2"/>
+  <path d="M208 296 q12 10 24 0" stroke="#e0f2fe" stroke-width="1.2" fill="none" opacity=".5"/>
+  <path d="M306 316 q14 12 28 0" stroke="#e0f2fe" stroke-width="1.2" fill="none" opacity=".55"/>
+  <circle cx="214" cy="292" r="1.6" fill="#e0f2fe" opacity=".7"/>
+  <circle cx="226" cy="292" r="1.6" fill="#e0f2fe" opacity=".7"/>
+  <circle cx="314" cy="312" r="1.8" fill="#e0f2fe" opacity=".7"/>
+  <circle cx="328" cy="312" r="1.8" fill="#e0f2fe" opacity=".7"/>
+  <text x="320" y="52" text-anchor="middle" fill="#7dd3fc" font-family="Impact, Arial Black, sans-serif" font-size="22" letter-spacing="6">THE WEEPING</text>
+  <text x="320" y="74" text-anchor="middle" fill="#f1df76" font-family="Arial, sans-serif" font-size="11" letter-spacing="4">울음  ·  RIVER OF HAN</text>
+</svg>

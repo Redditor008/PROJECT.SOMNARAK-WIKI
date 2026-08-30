@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="The Cycle">
+  <rect width="640" height="400" fill="#041016"/>
+  <circle cx="320" cy="210" r="120" fill="none" stroke="#38bdf8" stroke-width="4"/>
+  <polygon points="320,78 332,110 320,102 308,110" fill="#38bdf8"/>
+  <text x="320" y="160" text-anchor="middle" fill="#f1df76" font-family="Impact" font-size="16">DAWN</text>
+  <text x="430" y="216" text-anchor="middle" fill="#71efaf" font-family="Impact" font-size="16">WORK</text>
+  <text x="320" y="280" text-anchor="middle" fill="#ef5b55" font-family="Impact" font-size="16">ORDEAL</text>
+  <text x="210" y="216" text-anchor="middle" fill="#c084fc" font-family="Impact" font-size="16">RESET</text>
+  <text x="320" y="40" text-anchor="middle" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="20" letter-spacing="5">THE CYCLE</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="The Dream">
+  <rect width="640" height="400" fill="#1e1b4b"/>
+  <ellipse cx="320" cy="210" rx="220" ry="120" fill="#312e81" opacity=".7"/>
+  <circle cx="250" cy="160" r="40" fill="#e0e7ff" opacity=".15"/>
+  <circle cx="400" cy="140" r="28" fill="#c4b5fd" opacity=".2"/>
+  <path d="M140 260 C220 200 280 280 360 220 C440 160 500 240 560 200" fill="none" stroke="#a5b4fc" stroke-width="2" opacity=".7"/>
+  <rect x="270" y="188" width="100" height="70" fill="#0f172a" stroke="#818cf8" stroke-width="2" opacity=".85"/>
+  <text x="320" y="48" text-anchor="middle" fill="#c4b5fd" font-family="Impact, Arial Black, sans-serif" font-size="22" letter-spacing="6">THE DREAM</text>
+  <text x="320" y="372" text-anchor="middle" fill="#f1df76" font-family="Arial" font-size="11" letter-spacing="3">SOMNUS  ·  MEMORY AS WEATHER</text>
+</svg>

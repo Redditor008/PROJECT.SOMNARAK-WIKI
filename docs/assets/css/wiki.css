@@ -9320,3 +9320,152 @@ nav.float-toc .float-toc-sep {
     max-height: 55vh !important;
   }
 }
+
+
+/* ==========================================================================
+   LC WIKI.GG ARTICLE FLARE — lore / HT / unknown (append only)
+   Infobox + portrait + property tiles + diagram, no layout destruction.
+   ========================================================================== */
+.lore-article {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 320px) !important;
+  gap: 28px !important;
+  align-items: start !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+}
+.lore-article .lore-main,
+.lore-article .character-main-content {
+  min-width: 0 !important;
+  max-width: 100% !important;
+}
+.lore-banner {
+  margin: 0 0 1.2rem !important;
+  border: 2px solid var(--entity, #38bdf8) !important;
+  background: #05080e !important;
+  overflow: hidden !important;
+  box-shadow: 0 8px 22px rgba(0,0,0,0.75) !important;
+}
+.lore-banner img {
+  display: block !important;
+  width: 100% !important;
+  height: auto !important;
+  max-height: 240px !important;
+  object-fit: cover !important;
+  object-position: center !important;
+}
+.prop-tile-grid {
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  gap: 10px !important;
+  margin: 0 0 1.6rem !important;
+  width: 100% !important;
+  min-width: 0 !important;
+}
+.prop-tile {
+  min-width: 0 !important;
+  text-align: center !important;
+  padding: 14px 10px 16px !important;
+  background: linear-gradient(150deg, #0d121c 0%, #07090e 100%) !important;
+  border: 2px solid var(--tile, #3a2a1a) !important;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.7) !important;
+}
+.prop-tile img {
+  display: block !important;
+  width: 56px !important;
+  height: 56px !important;
+  margin: 0 auto 8px !important;
+  object-fit: contain !important;
+  filter: drop-shadow(0 0 8px currentColor) !important;
+}
+.prop-tile b {
+  display: block !important;
+  color: #f1df76 !important;
+  font: 0.82rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.06em !important;
+}
+.prop-tile small {
+  display: block !important;
+  margin-top: 4px !important;
+  color: #c4c09a !important;
+  font-size: 0.74rem !important;
+  line-height: 1.3 !important;
+  white-space: normal !important;
+}
+.diagram-panel {
+  margin: 1.4rem 0 1.8rem !important;
+  padding: 10px !important;
+  background: #05080e !important;
+  border: 2px solid #38bdf8 !important;
+  box-shadow: 0 8px 22px rgba(0,0,0,0.75) !important;
+}
+.diagram-panel img {
+  display: block !important;
+  width: 100% !important;
+  max-height: 420px !important;
+  object-fit: contain !important;
+  background: #020617 !important;
+}
+.diagram-panel figcaption {
+  margin-top: 8px !important;
+  color: #94a3b8 !important;
+  font-size: 0.78rem !important;
+  letter-spacing: 0.04em !important;
+  text-align: center !important;
+}
+.wiki-gallery {
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+  gap: 10px !important;
+  margin: 1.2rem 0 1.8rem !important;
+}
+.wiki-gallery figure {
+  margin: 0 !important;
+  padding: 8px !important;
+  background: #08090d !important;
+  border: 2px solid #243b59 !important;
+  text-align: center !important;
+  min-width: 0 !important;
+}
+.wiki-gallery img {
+  width: 100% !important;
+  height: 120px !important;
+  object-fit: contain !important;
+}
+.wiki-gallery figcaption {
+  margin-top: 6px !important;
+  color: #f1df76 !important;
+  font: 0.72rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.06em !important;
+}
+.lore-article .character-infobox .infobox-image-wrap img,
+.lore-article .entity-infobox .infobox-image-wrap img {
+  max-width: 100% !important;
+  max-height: 220px !important;
+  width: 100% !important;
+  height: auto !important;
+  object-fit: contain !important;
+}
+.section-title img.sec-icon {
+  width: 32px !important;
+  height: 32px !important;
+  min-width: 32px !important;
+  margin-right: 10px !important;
+  object-fit: contain !important;
+  border: 1.5px solid #f1df76 !important;
+  background: #05070c !important;
+  padding: 2px !important;
+}
+ul.wiki-list {
+  margin: 0.6rem 0 1.2rem 1.2rem !important;
+  color: #cbd5e1 !important;
+}
+ul.wiki-list li { margin: 0 0 0.45rem !important; }
+@media (max-width: 1080px) {
+  .lore-article { grid-template-columns: 1fr !important; }
+  .prop-tile-grid, .wiki-gallery { grid-template-columns: repeat(2, minmax(0,1fr)) !important; }
+}
+@media (max-width: 640px) {
+  .prop-tile-grid, .wiki-gallery { grid-template-columns: 1fr !important; }
+}

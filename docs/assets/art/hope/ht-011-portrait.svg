@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="UNBROKEN GLASS">
+  <rect width="500" height="500" fill="#05070c"/>
+  <rect x="18" y="18" width="464" height="464" fill="none" stroke="#67e8f9" stroke-width="3"/>
+  
+  <polygon points="250,80 380,160 340,340 160,340 120,160" fill="#082f49" stroke="#67e8f9" stroke-width="5"/>
+  <polyline points="200,140 250,220 300,140" fill="none" stroke="#e0f2fe" stroke-width="3"/>
+  <line x1="180" y1="260" x2="320" y2="300" stroke="#22d3ee" stroke-width="2"/>
+  <line x1="320" y1="200" x2="220" y2="320" stroke="#67e8f9" stroke-width="2"/>
+
+  <text x="250" y="460" text-anchor="middle" fill="#67e8f9" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="4">UNBROKEN GLASS</text>
+</svg>
