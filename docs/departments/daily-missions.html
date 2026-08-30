@@ -4,7 +4,7 @@
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Daily Missions — Somnarak Official Wiki</title>
-<meta name="description" content="Catalog of each floor’s daily work. Per-floor tables stay on the floor pages."/>
+<meta name="description" content="Catalog of each floor’s daily work and Han-Energy quotas, cross-field jobs, failure. Per-floor tables stay on the floor pages."/>
 <link href="../assets/icons/somnarak_icon.svg" rel="icon" type="image/svg+xml"/>
 <link href="../assets/css/wiki.css?v=20260830af" rel="stylesheet"/>
 <script defer src="../assets/js/wiki.js?v=20260830af"></script>
@@ -61,18 +61,19 @@
 </div>
 <nav class="toc hub-toc toc-panel"><div class="toc-title">Contents</div><ol><li><a href="#overview">Overview</a></li>
 <li><a href="#catalog">By floor</a></li>
+<li><a href="#cross">Cross-field and failure</a></li>
 <li><a href="#not">Not missions</a></li></ol></nav>
 
 <section class="wiki-section" id="overview"><h2 class="section-title">Overview</h2>
 <p>LC analog: the <em>Missions</em> catalog lists every department’s jobs; each team page also lists its own. This URL is the catalog. Floor pages keep their daily-mission tables — those are not facility-wide dumps. They are that floor’s work.</p>
-<p>Quotas in Han-Energy are operational targets, not civic tax. Floor 6 and 7 file none — Deep Vault and Shadow Corps do not mint energy; they keep secrets and listen. Floor 2’s 500 is the heavy cell-work number. Floor 5’s 50 is the border’s thin yield. Do not confuse a daily quota with an Ordeal Watch or a Core Suppression.</p>
+<p><em>“Every day, the same work. Every day, different sorrow.”</em> Quotas in Han-Energy are operational targets, not civic tax. Floor 6 and 7 file none — Deep Vault and Shadow Corps do not mint energy; they keep secrets and listen. Floor 2’s 500 is the heavy cell-work number. Floor 5’s 50 is the border’s thin yield. Do not confuse a daily quota with an Ordeal Watch or a Core Suppression.</p>
 </section>
 <section class="wiki-section" id="catalog"><h2 class="section-title">By floor</h2>
 <div class="table-wrap"><table class="wiki-table">
 <thead><tr><th>Floor</th><th>Lead</th><th>What the day is</th><th>Quota</th></tr></thead>
 <tbody>
-<tr><td><a href="floor-1-neutral-command.html">1 Neutral Command</a></td><td>Majin</td><td>Command, alarms, assignment signatures — no mission table (HR lives on <a href="agent-assignment.html">assignment</a>)</td><td>—</td></tr>
-<tr><td><a href="floor-2-maws-keep.html#floor-2-missions">2 M.A.W.’s Keep</a></td><td>—</td><td>Work Types, gauges, breach return, new-entity processing, cell repair, Maw perimeter</td><td>500</td></tr>
+<tr><td><a href="floor-1-neutral-command.html">1 Neutral Command</a></td><td>Majin</td><td>Command, alarms, assignment signatures — no mission table (HR on <a href="agent-assignment.html">assignment</a>)</td><td>—</td></tr>
+<tr><td><a href="floor-2-maws-keep.html">2 Maw’s Keep</a></td><td>Dekan</td><td>Work Types, gauges, breach return, new-entity processing, cell repair, Maw perimeter</td><td>500</td></tr>
 <tr><td><a href="floor-3-extraction-hall.html">3 Extraction Hall</a></td><td>Zyrak</td><td>Extract, resonance scan, test, bond, issue, refine</td><td>300</td></tr>
 <tr><td><a href="floor-4-insight-forge.html">4 Insight Forge</a></td><td>Ayshuk</td><td>Observe, classify, map Han, document — ladder on <a href="research-observation.html">observation</a></td><td>100</td></tr>
 <tr><td><a href="floor-5-border-watch.html">5 Border Watch</a></td><td>Mellda</td><td>Patrol, Desolate recon, watchtowers, Tide telemetry</td><td>50</td></tr>
@@ -80,9 +81,23 @@
 <tr><td><a href="floor-7-shadow-corps.html">7 Shadow Corps</a></td><td>Ishall</td><td>Intel, infiltration, informants, counter-intel — no energy quota</td><td>None</td></tr>
 <tr><td><a href="floor-8-gate-watch.html">8 Gate Watch</a></td><td>Xyan</td><td>Watch the Gate, outside contact, record without controlling return</td><td>—</td></tr>
 </tbody></table></div>
+<p>Full per-floor rows (who, frequency, which room) stay on those floor pages. Do not strip them. This catalog is the extra index so a search for “missions” does not land on Floor 2 only.</p>
+</section>
+<section class="wiki-section" id="cross"><h2 class="section-title">Cross-field and failure</h2>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Mission</th><th>Floors</th><th>What it is</th></tr></thead>
+<tbody>
+<tr><td>Entity transfer</td><td>2 + 4</td><td>Move a subject from cell to research</td></tr>
+<tr><td>M.A.W. emergency</td><td>3 + 5</td><td>Extract from something captured in the field</td></tr>
+<tr><td>Breach response</td><td>All</td><td>Facility-wide return-to-cell</td></tr>
+<tr><td>Ordeal response</td><td>All</td><td>Color × Time suppression</td></tr>
+<tr><td>Expedition</td><td>5 + 7</td><td>Joint Desolate recon + intelligence</td></tr>
+<tr><td>Archive investigation</td><td>4 + 6</td><td>Research request that needs a vault key</td></tr>
+</tbody></table></div>
+<p>Failure: containment failure is a breach. Extraction failure damages M.A.W. and agitates the donor. Research failure is misinformation, wasted flux, possible Fracture. Border failure is Zone E. Intelligence failure is a surprise. Archive failure is a lost record. Personnel: minor → reassignment and training; major → attribute drop, demotion; critical → Fracture risk, removal; catastrophic → death, Fracture, or exile.</p>
 </section>
 <section class="wiki-section" id="not"><h2 class="section-title">Not missions</h2>
-<p>Ordeals (five colors × four watches) are not a daily mission. Core Suppression is not a daily mission. Facility Meltdown is not a daily mission. UCD raids and SED expeditions are city operations, not floor quotas. A “new entity processing” line on Floor 2 is still Floor 2’s job, even when the specimen walked in from Zone E. See <a href="../mechanics/ordeals-framework.html">Ordeals</a>, <a href="facility-meltdown-procedures.html">meltdown</a>, and <a href="core-suppression-guidelines.html">Core suppression</a>.</p>
+<p>Ordeals (five colors × four watches) are not a daily mission. Core Suppression is not a daily mission. Facility Meltdown is not a daily mission. UCD raids and SED expeditions are city operations, not floor quotas. A “new entity processing” line on Floor 2 is still Floor 2’s job, even when the specimen walked in from Zone E. See <a href="../mechanics/ordeals-framework.html">Ordeals</a>, <a href="facility-meltdown-procedures.html">meltdown</a>, <a href="core-suppression-guidelines.html">Core suppression</a>.</p>
 </section>
 
 

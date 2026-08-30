@@ -367,8 +367,8 @@
     "title": "Faction Technology",
     "url": "factions/faction-technology.html",
     "category": "Factions & Guilds",
-    "description": "Index of guild tools. Long descriptions live on each faction page.",
-    "keywords": "Faction technology Debt-Ledger Dream Loom Judgment Blade Taboo Scanner Repair Rod"
+    "description": "Index of guild tools, Fray kits, and the rule: kit ≠ Resonance ≠ M.A.W. Long descriptions live on each faction page.",
+    "keywords": "Faction technology Debt-Ledger Dream Loom Judgment Blade Taboo Scanner Repair Rod Wash-Rig Harvest Hook"
   },
   {
     "title": "Factions & Organizations Hub - Somnarak Official Wiki",
@@ -388,14 +388,14 @@
     "title": "The Collectors",
     "url": "factions/the-collectors.html",
     "category": "Factions & Guilds",
-    "description": "Sugeumga debt guild — Echo economy, Debt-Ledger, Extraction Glove, Collector’s Spire in Zone C.",
-    "keywords": "Collectors Sugeumga Chujingjang Debt-Ledger Extraction Glove Echoes Zone C Collector Spire Chunhwa"
+    "description": "Sugeumga debt guild — Cycle of Debt, Echoes, Debt-Ledger, Extraction Glove, Scales Resonance, Collector’s Spire and Row.",
+    "keywords": "Collectors Sugeumga Chujingjang Debt-Ledger Extraction Glove Scales Chunhwa Echoes Cycle of Debt"
   },
   {
     "title": "The Three Operations",
     "url": "factions/the-founding-corporations.html",
     "category": "Factions & Guilds",
-    "description": "R.D., SED, and UCD — present-age operations, not founding precursor corporations.",
+    "description": "R.D., SED, and UCD — present-age operations after 4200, shared events, not founding precursor corporations.",
     "keywords": "Three Operations Reverie Directorate SED UCD not founding corporations"
   },
   {
@@ -423,8 +423,8 @@
     "title": "The Memory Washers",
     "url": "factions/the-memory-washers.html",
     "category": "Factions & Guilds",
-    "description": "Fray memory-erasers. Not the Keepers.",
-    "keywords": "Memory Washers Fray Wash District UCD Arc 2"
+    "description": "Fray memory-erasers of the Wash District. Wash-rig, Memory Cartel, UCD Arc 2. Not Keepers. Taboo 5 grey area.",
+    "keywords": "Memory Washers Fray Wash District Wash-Rig UCD Arc 2 Taboo 5 Index Memory Cartel"
   },
   {
     "title": "The Reverie Directorate",
@@ -458,15 +458,15 @@
     "title": "The Wardens",
     "url": "factions/the-wardens.html",
     "category": "Factions & Guilds",
-    "description": "Suhuja military guild — Citadel, Barrier Baton, Watchtower Eye, Zone E Border Corps.",
-    "keywords": "Wardens Suhuja Suhujang Barrier Baton Watchtower Eye Zone E Border Corps Fracture"
+    "description": "Suhuja military guild — Citadel, Barrier Baton, Watchtower Eye, Veil fields, Zone E Border Corps.",
+    "keywords": "Wardens Suhuja Barrier Baton Watchtower Eye Veil Zone E Border Corps"
   },
   {
     "title": "The Weavers",
     "url": "factions/the-weavers.html",
     "category": "Factions & Guilds",
-    "description": "Jikgong Dream guild — Spire of Dreams, Dream Loom, Resonance Mask, Somnus boundary.",
-    "keywords": "Weavers Jikgong Jiknyeojang Dream Loom Resonance Mask Spire of Dreams Somnus"
+    "description": "Jikgong Dream guild — Spire of Dreams, Somnus, Loom, Resonance Mask, Dream Resonance.",
+    "keywords": "Weavers Jikgong Dream Loom Resonance Mask Spire Somnus Jiknyeojang"
   },
   {
     "title": "Official Encyclopedia of the City of Unresolved Sorrow",
@@ -500,15 +500,15 @@
     "title": "The Hollow Glass",
     "url": "locations/the-hollow-glass.html",
     "category": "Atlas & Locations",
-    "description": "Bong’s Zone D tavern — only named neutral ground. The unemptied glass at 8:47.",
-    "keywords": "Hollow Glass Bong Zone D tavern neutral ground Debt Brokers"
+    "description": "Bong’s Zone D tavern — only named neutral ground. The unemptied glass at 8:47. Former Collector.",
+    "keywords": "Hollow Glass Bong Zone D tavern neutral ground 8:47 Debt Brokers Han-water"
   },
   {
     "title": "The Library of Stolen Pasts",
     "url": "locations/the-library-of-stolen-pasts.html",
     "category": "Atlas & Locations",
     "description": "SECTOR-B-02 containment geography of SE-009 The Memory Weaver. Not the Grand Archive.",
-    "keywords": "Library of Stolen Pasts SE-009 Memory Weaver Zone B SECTOR-B-02 Forgotten Lens"
+    "keywords": "Library of Stolen Pasts SE-009 Memory Weaver Zone B Forgotten Lens SECTOR-B-02"
   },
   {
     "title": "The Maw (M.A.W. Siphoning Core) — Somnarak Official Wiki",
@@ -521,8 +521,8 @@
     "title": "The Orphan Bell Tower",
     "url": "locations/the-orphan-bell-tower.html",
     "category": "Atlas & Locations",
-    "description": "Place of SE-001 The Orphaned Bell — Zone B grief architecture, not a Worldbuilding Framework stub.",
-    "keywords": "Orphan Bell Tower SE-001 Orphaned Bell Zone B Old Lament"
+    "description": "Place of SE-001 The Orphaned Bell — Zone B Old Lament grief architecture, Lament’s Requiem, not a Worldbuilding Framework stub.",
+    "keywords": "Orphan Bell Tower SE-001 Orphaned Bell Zone B Old Lament Lament Requiem Yet Tansik"
   },
   {
     "title": "Unknown Cities & Precursor Ruins — Somnarak Official Wiki",
@@ -630,11 +630,11 @@
     "keywords": "The Somnarak Name Registry & Cryo-Archive — Somnarak Official Wiki Lore & Cosmology lore DATABASE HUBS THE NINE ECHO-CORES CARTOGRAPHY & SCHEMATICS The Somnarak Name Registry & Cryo-Archive Overview Names for Entity Documentation How To Use English Names — Given Names (남성 — Male) English Names — Given Names (여성 — Female) English Names — Family Names (성 — Surnames) Korean Names — Given Names (남성 — Male) Korean Names — Given Names (여성 — Female) Korean Names — Family Names (성 — Surnames) Somnarak Special Names — Given Names Korean Names Korean + Latin Names Korean + English Names Somnarak Special Names — Family Names Korean Family Names Korean + Latin Family Names Korean + English Family Names Somnarak Special Names — Entity Documentation Authors R.D. Documentation Authors SED Documentation Authors UCD Documentation Authors Citizen Documentation Authors How To Use These Authors Rules For Creating Titles Rule 1: Earned, Not Given Rule 2: Korean + Descriptive Structure Rule 3: No Direct Translation Rule 4: Weight Over Glory Rule 5: The Title Replaces The Name Rule 6: Titles Are Not Transferable Rule 7: Titles Can Be Whispered Mixed Name Creation Rules Pattern 1: English + Korean (Given + Family) Pattern 2: English + Korean + Korean (Given + Middle + Family) Pattern 3: Korean + English + English (Given + Middle + Family) Pattern 4: Somnarak Special + Korean/English Pattern 5: Triple Mixed (Given + Middle + Family) Pattern 6: Double Given Names (Hyphenated) How To Make Names Sound Real (Not AI-Generated) Rule 1: Avoid Direct Translation Mashups Rule 2: Use Phonetic Blending Rule 3: Add Natural Endings Rule 4: Respect Language Families Rule 5: Say It Out Loud Rule 6: Avoid Double Meanings Rule 7: Use Historical Precedent Rule 8: Give Names Backstory Rule 9: Avoid Hyphenated Mashups (Usually) Rule 10: Test With \"Would a parent name their child this?\" Example Mixed Names Rules Summary Example Name Combinations"
   },
   {
-    "title": "The Alpha Tree (알파 나무 — Alpha Namu) — Somnarak Official Wiki",
+    "title": "The Alpha Tree",
     "url": "lore/the-alpha-tree.html",
     "category": "Lore & Cosmology",
-    "description": "",
-    "keywords": "The Alpha Tree (알파 나무 — Alpha Namu) — Somnarak Official Wiki Lore & Cosmology lore DATABASE HUBS THE NINE ECHO-CORES CARTOGRAPHY & SCHEMATICS The Alpha Tree (알파 나무 — Alpha Namu) II. Cosmology The Two Primordial States Han (한) — The Binding Force The Three Sorrows (삼한 — Samhan) Entity Origin — The Weeping (울음 — Ul-eum) The Source of Sorrow Entities What is The Weeping? How Sorrow Entities Form The Weeping's Properties The Weeping and the City The Weeping and Sorrow Entities The Weeping's Mystery Entity Immortality — Can Sorrow Be Destroyed? The Question Why Entities Are Immortal What \"Destruction\" Actually Does Why This Matters The Exception: Absorption Entity Immortality and the Cheongula III. The City — Somnarak The World — Mugenhan (무겐한) The Unofficial Zone — The Desolate (황폐 — Hwangpye) Nested Structure (outside → in) The Five Zones District Structure — The Veil and The Raw Zone A — The Alpha Tree (도시의 심장) Zone B — The Western Sector (서부 구역) Zone C — The Eastern Sector (동부 구역) Zone D — The Mantle (외곽 맨틀) Zone E — The Perimeter (경계선) Vertical Dimension Geographic Features — Mugenhan's Landscape Faction Relations — The Web of Power Faction Collapse — When Power Falls Faction Collapse — When Power Falls Overview What Triggers Collapse What Happens During Collapse Faction Collapse Scenarios The Cascade Effect VI. The Architects — Protagonist Role Who They Are Organization Training What Architects Do The Cost The Architect's Philosophy VII. Manifestations of Han Sorrow Entities (한조각 — Han-jogak) — Classification System Legacy Classification (SCS) — superseded by SECC Manifestation Classification Notable Sorrow Entities M.A.W. — Materialized Agony Wear (실체화된 고통의 갑옷) Sector Designation — The Containment System The Future — The Reverie Directorate (몽상 이사회 — Mongsang Isahoe) Fractureed Humans (Those Who Break) Dream Entities VIII. Systems & Mechanics The Four Elements of Sorrow (한의 사원소 — Han-ui Sawonso) The Price of Everything The Cycle of Debt Echoes — The Currency of Sorrow (메아리 — Meori) Dream-Diving — Entering the Subconscious Fracture — When Sorrow Breaks You Architect Powers — Han Shaping M.A.W. Mechanics The City's Response Breach Mechanics — The Sorrow Gauge The Sorrow Gauge (한 게이지 — Han Geiji) Breach Types Breach Response Protocol Breach Statistics (Historical) Night Hazards (야간 위험 — Yagan Wiheom) The Night Cycle The Three Night Hazards Night by Zone Night Activities The Vigil (야경 — Yagyeong) IX. History & Origin — The Becoming of Sorrow The Three Ages Age I — The Before-Time (선시대 — Seonsidae) Age II — The Becoming (변천 — Byeongcheon) Age III — The Structuring (구조화 — Gujohwa) The First Sorrow — The Cheongula (천구라) The First War — The Occlusihan (오클루시한) The Consolihan War (결한 전쟁 — Gyeolhan Jeonjaeng) The Wars of Somnarak Timeline What the Before-Time Means Now Resolved Questions Open Questions X-B. Glossary of Terms Core Concepts Geography History Factions Sorrow Entities M.A.W. Mechanics Locations"
+    "description": "Cumulation of Consolihan feeling — diamond of six buildings, plaza of polished Han, R.D. in the roots.",
+    "keywords": "Alpha Tree Consolihan Sigh Palace Grand Archive Spire Crucible Abyssal Well Architect Hall"
   },
   {
     "title": "The Cheongula Incident (Year 3,892) — Somnarak Official Wiki",
@@ -675,15 +675,15 @@
     "title": "The Wars of Somnarak",
     "url": "lore/the-first-sovereign-war.html",
     "category": "Lore & Cosmology",
-    "description": "Cheongula, Occlusihan, Consolihan — not a Sovereign War of Old Dreamers.",
-    "keywords": "Occlusihan Consolihan Cheongula Alpha Tree Wars of Somnarak First War"
+    "description": "Cheongula, Occlusihan, Consolihan — six factions, Solidification, timeline 0–281 and the present age. Not a Sovereign War of Old Dreamers.",
+    "keywords": "Occlusihan Consolihan Cheongula Alpha Tree Wars Sealers Converters Endurers"
   },
   {
     "title": "The Seven Taboos",
     "url": "lore/the-seven-absolute-taboos.html",
     "category": "Lore & Cosmology",
-    "description": "Seven Han-woven prohibitions. Enforcement is Giltong, not this page.",
-    "keywords": "Seven Taboos Geumji Resurrection AI Han Immunity Time Reversal Sorrow Synthesis Giltong"
+    "description": "Seven Han-woven prohibitions: resurrection, true AI, immunity, time, synthesis, fusion, Core copies — prohibit, why, city’s response, grey area.",
+    "keywords": "Seven Taboos Geumji Resurrection AI Immunity Time Synthesis Fusion Echo-Core Seiyon Ayshuk Mellda"
   },
   {
     "title": "The Three Ages & Historic Wars of Somnarak — Somnarak Official Wiki",
@@ -1109,8 +1109,8 @@
     "title": "The Four Watches",
     "url": "mechanics/the-four-ordeals.html",
     "category": "Battle & Systems",
-    "description": "First, Second, Third, and Tide Watch — Ordeal time axis.",
-    "keywords": "Four Watches First Watch Tide Watch Ordeals Blue Black Pale Grey Purple"
+    "description": "First, Second, Third, and Tide Watch — Ordeal time axis, Han-density gauge, named manifestations. Not Whisper/Surge/Breach/Abyss.",
+    "keywords": "Four Watches First Watch Tide Watch Ordeals Blue Black Pale Grey Purple Han-Density"
   },
   {
     "title": "The Four Work Types (Insight, Attachment, Repression, Extraction) — Somnarak Official Wiki",
@@ -1346,8 +1346,8 @@
   {
     "url": "factions/the-keepers.html",
     "title": "The Keepers",
-    "description": "Girokgwan memory guild — Grand Archive, Memory Lens, Whispering Index. Not the Washers.",
-    "keywords": "Keepers Girokgwan Girokjang Grand Archive Memory Lens Whispering Index Echo vaults",
+    "description": "Girokgwan memory guild — Grand Archive, Memory Lens, Whispering Index, Archive Resonance.",
+    "keywords": "Keepers Girokgwan Grand Archive Memory Lens Whispering Index Archive Resonance",
     "type": "article"
   },
   {
@@ -1360,36 +1360,36 @@
   {
     "url": "factions/the-menders.html",
     "title": "The Menders",
-    "description": "Independent Raw operators — kit, repair rod, dual report to Architects and R.D.",
-    "keywords": "Menders Suseonja Repair Rod Mendery Raw Collective Veil Watchers",
+    "description": "Independent Raw operators — services, ranks 7–1, five Marks, Mendery, kit, repair rod. Dual report to Architects and R.D.",
+    "keywords": "Menders Suseonja Repair Rod Mendery Raw Collective Veil Watchers Marks Grey Veil",
     "type": "article"
   },
   {
     "url": "departments/agent-assignment.html",
     "title": "Agent Assignment",
-    "description": "Facility-wide personnel placement by attribute — not a Floor 1 dump.",
-    "keywords": "Agent Assignment personnel Resilience Clarity Composure Resolve floors",
+    "description": "Facility-wide personnel placement by Resilience, Clarity, Composure, Resolve — floors, entity rules, rotation. Not a Floor 1 dump.",
+    "keywords": "Agent Assignment Resilience Clarity Composure Resolve floors Echo-Cores rotation",
     "type": "article"
   },
   {
     "url": "departments/facility-upgrades.html",
     "title": "Facility Upgrades",
-    "description": "Hand of Change growth — containment, observation, welfare, expansion. Not a Floor 1 chapter.",
-    "keywords": "Facility upgrades Hand of Change cells gauges Architects",
+    "description": "Hand of Change growth — categories, process, example costs, Facility Level 1–5, freeze during Meltdown and Tide Watch.",
+    "keywords": "Facility upgrades Hand of Change cells gauges Architects Meltdown Facility Level",
     "type": "article"
   },
   {
     "url": "departments/research-observation.html",
     "title": "Research and Observation",
-    "description": "R.D. observation levels 0–4. Facility-wide, not a Floor 4 dump.",
-    "keywords": "Observation Level research Insight Forge Work Types SECC",
+    "description": "R.D. observation levels 0–4, Observation Points, research projects, ledger, risks. Facility-wide, not a Floor 4 dump.",
+    "keywords": "Observation Level research Insight Forge Work Types SECC OP Ayshuk",
     "type": "article"
   },
   {
     "url": "departments/daily-missions.html",
     "title": "Daily Missions",
-    "description": "Catalog of each floor’s daily work. Per-floor tables stay on the floor pages.",
-    "keywords": "Daily missions floors quota Han-Energy M.A.W. Keep Border Watch Gate",
+    "description": "Catalog of each floor’s daily work and Han-Energy quotas, cross-field jobs, failure. Per-floor tables stay on the floor pages.",
+    "keywords": "Daily missions floors quota Han-Energy Maw Keep Border Watch Gate cross-field",
     "type": "article"
   }
 ]
