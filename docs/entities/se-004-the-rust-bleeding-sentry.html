@@ -1,234 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SE-004 — The Rust-Bleeding Sentry - Somnarak Official Wiki</title>
-  <link rel="stylesheet" href="../assets/css/wiki.css?v=20260830ad">
-  <script defer src="../assets/js/wiki.js?v=20260830ad"></script>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>SE-004 — Unregistered (Rust-Bleeding Sentry) — Somnarak Official Wiki</title>
+<meta name="description" content="SE-004 is not in the Codex or 01_Sorrow_Entities. Retired wiki nickname: Rust-Bleeding Sentry."/>
+<link href="../assets/icons/somnarak_icon.svg" rel="icon" type="image/svg+xml"/>
+<link href="../assets/css/wiki.css?v=20260830af" rel="stylesheet"/>
+<script defer src="../assets/js/wiki.js?v=20260830af"></script>
 </head>
-<body class="wiki-body">
+<body>
 <header class="utility">
-  <div class="utility-left">
-    <button aria-label="Open navigation" class="nav-open" type="button">☰</button>
-    <a class="utility-brand" href="../index.html">SOMNARAK.WIKI</a>
-    <span class="utility-era">YEAR 4,238 · DAWN INITIATIVE</span>
-  </div>
-  <nav aria-label="Main navigation">
-    <a href="../index.html">Main page</a>
-    <a href="../characters/index.html">Characters</a>
-    <a href="../lore/index.html">Lore</a>
-    <a href="../locations/index.html">Locations</a>
-    <a href="../factions/index.html">Factions</a>
-    <a href="../departments/index.html">Departments</a>
-    <a href="../entities/index.html">Sorrow Entities</a>
-    <a href="../maw/index.html">M.A.W.</a>
-    <a href="../mechanics/index.html">Mechanics</a>
-  </nav>
-  <div class="search">
-    <input aria-label="Search" data-index="../data/search.json" id="search" placeholder="Search archive..." autocomplete="off"/>
-    <div id="results"></div>
-  </div>
+<div class="utility-left">
+<button aria-label="Open navigation" class="nav-open" type="button">☰</button>
+<a class="utility-brand" href="../index.html">SOMNARAK.WIKI</a>
+<span class="utility-era">YEAR 4,238 · DAWN INITIATIVE</span>
+</div>
+<nav aria-label="Main navigation">
+<a href="../index.html">Main page</a>
+<a href="../characters/index.html">Characters</a>
+<a href="../lore/index.html">Lore</a>
+<a href="../locations/index.html">Atlas</a>
+<a href="../factions/index.html">Factions</a>
+<a href="../departments/index.html">Departments</a>
+<a href="../entities/index.html">Entities</a>
+<a href="../maw/index.html">M.A.W.</a>
+<a href="../mechanics/index.html">Mechanics</a>
+</nav>
+<div class="search">
+<input autocomplete="off" id="search" data-index="../data/search.json" placeholder="Search archive...">
+<div id="results"></div>
+</div>
 </header>
-
-  <div class="wiki-shell">
-    <aside aria-label="Main navigation" class="left-rail">
-      <div class="branding">
-        <a class="brand-link" href="../index.html">
-          <img src="../assets/layout/hand/icons/icon_reverie_directorate_badge.svg" alt="Reverie Directorate Crest" class="brand-logo" width="110" height="110">
-          <span class="brand-title">SOMNARAK</span>
-          <span class="brand-subtitle">REVERIE DIRECTORATE ARCHIVE</span>
-        </a>
-      </div>
-      
-      <div class="rail-group">
-        <div class="rail-header">DATABASE HUBS</div>
-        <ul class="rail-list">
-          <li><a href="../index.html">Main Terminal</a></li>
-          <li><a href="../characters/index.html">Characters &amp; Echo-Cores</a></li>
-          <li><a href="../lore/index.html">Lore &amp; Cosmology</a></li>
-          <li><a href="../locations/index.html">Atlas &amp; Locations</a></li>
-          <li><a href="../factions/index.html">Factions &amp; Guilds</a></li>
-          <li><a href="../departments/index.html">Facility Departments</a></li>
-          <li><a href="../entities/index.html">Sorrow Entities</a></li>
-          <li><a href="../maw/index.html">M.A.W. Armaments</a></li>
-          <li><a href="../mechanics/index.html">Systems &amp; Mechanics</a></li>
-        </ul>
-      </div>
-
-      <div class="rail-group">
-        <div class="rail-header">THE NINE ECHO-CORES</div>
-        <ul class="rail-list">
-          <li><a href="../characters/the-director-majin.html">Director Majin</a></li>
-          <li><a href="../characters/the-secretary-seiyon.html">Secretary Seiyon</a></li>
-          <li><a href="../characters/the-containment-lead-dekan.html">Containment: Dekan</a></li>
-          <li><a href="../characters/the-extraction-lead-zyrak.html">Extraction: Zyrak</a></li>
-          <li><a href="../characters/the-research-lead-ayshuk.html">Research: Ayshuk</a></li>
-          <li><a href="../characters/the-border-lead-mellda.html">Border: Mellda</a></li>
-          <li><a href="../characters/the-archive-lead-marjuk.html">Archive: Marjuk</a></li>
-          <li><a href="../characters/the-outsider-ishall.html">Outsider: Ishall</a></li>
-          <li><a href="../characters/the-exile-xyan.html">Exile: Xyan</a></li>
-        </ul>
-      </div>
-    </aside>
-
-    <main id="content" class="wiki-content">
-      <div class="tactical-hud-bar">
-        <div class="hud-item"><span class="led-dot led-green"></span> ARCHIVE ONLINE</div>
-        <div class="hud-item"><span class="hud-label">CLEARANCE:</span> LEVEL 5 RESTRICTED</div>
-        <div class="hud-item"><span class="hud-label">RECORD:</span> CANONICAL</div>
-        <div class="hud-item"><span class="hud-label">STABILITY:</span> 99.4% NOMINAL</div>
-      </div>
-
-      <nav class="breadcrumb-trail" aria-label="Breadcrumb">
-        <a href="../index.html">SOMNARAK ARCHIVE</a> &gt; 
-        <a href="index.html">SORROW ENTITIES</a> &gt; 
-        <span>SE-004 — The Rust-Bleeding Sentry</span>
-      </nav>
-
-      <div class="page-action-row" style="display:flex; justify-content:space-between; align-items:center; margin:1rem 0; padding-bottom:0.8rem; border-bottom:1px solid #1e293b;">
-        <h1 style="margin:0; font-family:Impact, 'Arial Narrow Bold', sans-serif; font-size:1.8rem; color:#f1df76; letter-spacing:0.08em;">SE-004 — THE RUST-BLEEDING SENTRY</h1>
-        <div style="display:flex; gap:8px;">
-          <button type="button" class="action-btn" data-action="history">History</button>
-          <button type="button" class="action-btn" data-action="view-source">View Source</button>
-        </div>
-      </div>
-
-      
-
-    <div style="text-align:center; margin:12px 0;">
-      <img src="../assets/art/entities/se-004-profile.svg" alt="SE-004 Profile" style="width:200px; height:200px; border:1.5px solid #f97316; border-radius:6px; background:#040201; padding:4px;">
-    </div>
-    <table class="pm-table condensed" style="width:100%;">
-      <tr><th>SECC Risk</th><td><span class="risk-badge risk-MORPHEAN">γ (MORPHEAN)</span></td></tr>
-      <tr><th>Damage Type</th><td><span class="damage-badge dmg-red">GRUDGE (Physical)</span></td></tr>
-      <tr><th>Damage Value</th><td>14 – 20 Grudge</td></tr>
-      <tr><th>Coherence Base</th><td>04 Threshold Points</td></tr>
-      <tr><th>Han Yield</th><td>22 PE / Cycle</td></tr>
-      <tr><th>Location</th><td>Floor 5 (Border Watch)</td></tr>
-    </table>
-  </div>
+<div class="wiki-shell">
+<aside class="left-rail">
+<div class="site-mark">
+<a href="../index.html">
+<img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+<b>SOMNARAK</b>
+<span>OFFICIAL WIKI ARCHIVE</span>
+</a>
 </div>
-
-<div class="toc" id="toc">
-  <div class="toc-title">Contents</div>
-      <div class="entity-article">
-        <div class="entity-main-content">
-          <ol>
-    <li><a href="#overview">Overview &amp; Manifestation</a></li>
-    <li><a href="#containment-procedures">Containment &amp; Work Protocols</a></li>
-    <li><a href="#breach-behavior">Breach Dynamics &amp; Suppression</a></li>
-    <li><a href="#maw-extraction">Extracted M.A.W. Armory</a></li>
-  </ol>
+<nav aria-label="Wiki navigation" class="left-links">
+<section>
+<h2>DATABASE HUBS</h2>
+<a href="../index.html">Main Overview</a>
+<a href="../entities/index.html">Sorrow Entities</a>
+<a href="../factions/index.html">Factions &amp; Guilds</a>
+<a href="../departments/index.html">Facility Floors</a>
+<a href="../mechanics/ordeals-framework.html">Ordeals</a>
+<a href="../lore/index.html">Lore &amp; Cosmology</a>
+</section>
+</nav>
+</aside>
+<main id="content">
+<div class="breadcrumbs"><a href="../index.html">Somnarak</a> <i>/</i> <a href="index.html">Entities</a> <i>/</i> <span>SE-004</span></div>
+<div class="article-header">
+<div class="article-eyebrow">SE-004 · UNREGISTERED</div>
+<h1 class="article-title">SE-004 — Unregistered (Rust-Bleeding Sentry)</h1>
 </div>
+<nav class="toc hub-toc toc-panel"><div class="toc-title">Contents</div><ol><li><a href="#overview">Overview</a></li>
+<li><a href="#what-exists">What exists at this number</a></li>
+<li><a href="#if-source">If source arrives</a></li></ol></nav>
 
-<h2 id="overview">/// 1. OVERVIEW &amp; MANIFESTATION</h2>
-<p>
-  <strong>SE-004 (The Rust-Bleeding Sentry)</strong> is an ancient clockwork sentinel embodying the unavenged deaths of perimeter border guards during the Great Breach of Year 3,892. Encased in oxidized iron plating, its ocular visor continuously weeps corrosive rust sludge that dissolves protective alloy barriers upon contact.
-</p>
+<section class="wiki-section" id="overview"><h2 class="section-title">Overview</h2>
+<p>The old sheet made SE-004 a clockwork border guard from a “Great Breach of Year 3,892,” weeping rust sludge, Floor 5. That year and that breach are not in 07_Reference. Codex_Set Registry jumps 003 Wilderness Tide → 005 Smothering Mother. No SE-004 folder exists under 01_Sorrow_Entities.</p>
+<p>This URL stays so the thirteen-page hub does not 404. It is a retraction, not a specimen. Do not treat MORPHEAN / SOMNA / PHANTASM risk stickers on the old infobox as SECC. SECC lives on <a href="../mechanics/secc-classification-system.html">the classification page</a>. Grudge-weeping iron and a “halberd clash” work table were LC E.G.O. habits copied onto a number the Codex never used.</p>
+</section>
+<section class="wiki-section" id="what-exists"><h2 class="section-title">What exists at this number</h2>
+<p>Featured registry on this wiki with source cards: SE-001 Orphaned Bell, 002 Grieving Colossus, 003 Wilderness Tide, 005 Smothering Mother, 007 Brume, 009 Memory Weaver, 010 Convergence, 011 Whispering Walls, 014 Debt Eater, 015 Debt Scale. Unknown-numbered articles (247, 248, 250, 251, 901–903) are a different gap — they <em>do</em> have source files. SE-004 does not.</p>
+<p>M.A.W. URLs hung on this number (W/S/G-004) are marked unregistered on the arsenal side. Do not forge from them. Do not dump 275 extra entity HTML files to “fill” SE-004.</p>
+</section>
+<section class="wiki-section" id="if-source"><h2 class="section-title">If source arrives</h2>
+<p>A later 01_Sorrow_Entities file that actually uses number 004 should overwrite this page from that file — designation, Work Types, breach, location. Until then the nickname “Rust-Bleeding Sentry” is a retired wiki label, not canon. Border grief that <em>is</em> canon sits on <a href="se-003-the-wilderness-tide.html">SE-003 Wilderness Tide</a> and <a href="../factions/the-wardens.html">the Wardens</a>, not on a clockwork sentry. See <a href="index.html">Sorrow Entities</a> and <a href="list.html">the list</a> (thirteen is a fraction of ~3XX).</p>
+</section>
 
-<h2 id="containment-procedures">/// 2. CONTAINMENT &amp; WORK PROTOCOLS</h2>
-<p>
-  Operatives assigned to SE-004 must wear high-density kinetic M.A.W. suits to withstand high-frequency halberd clashing. Subjugation work is the most stabilizing protocol, relieving the entity's phantom combat reflexes.
-</p>
-<div class="pm-table-wrapper">
-  <table class="pm-table">
-    <thead>
-      <tr><th>Work Protocol</th><th>Korean Name</th><th>Success Rate</th><th>Coherence Response</th></tr>
-    </thead>
-    <tbody>
-      <tr><td><strong>Communion</strong></td><td>Docerehan (교감)</td><td>35%</td><td>Neutral (+0)</td></tr>
-      <tr><td><strong>Dissection</strong></td><td>Discernerehan (분해)</td><td>45%</td><td>Neutral (+0)</td></tr>
-      <tr><td><strong>Siphon</strong></td><td>Hausuhan (추출)</td><td>50%</td><td>Coherence +1</td></tr>
-      <tr><td><strong>Subjugation</strong></td><td>Ferrehan (제압)</td><td><strong style="color:#71efaf;">65% (Optimal)</strong></td><td>Coherence +2</td></tr>
-    </tbody>
-  </table>
-</div>
 
-<h2 id="breach-behavior">/// 3. BREACH DYNAMICS &amp; SUPPRESSION</h2>
-<p>
-  Upon Coherence collapse, SE-004 shatters containment bulkheads and patrols surrounding hallways with wide halberd cleaves, inflicting heavy <strong>Grudge damage</strong> and reducing operative defense ratings through rust corrosion.
-</p>
-
-<h2 id="maw-extraction">/// 4. EXTRACTED M.A.W. ARMORY</h2>
-<div class="hub-grid-3">
-  <div class="pm-entity-card" style="border:1.5px solid #ef5b55;">
-    <h4 style="margin:0 0 6px; color:#ef5b55;">RUST HALBERD (WEAPON)</h4>
-    <p style="font-size:0.8rem; color:#cbd5e1;">Heavy poleaxe inflicting 14–20 Grudge damage with 15% armor reduction on target hit.</p>
-    <a href="../maw/maw-w-004-01-rust-halberd.html" class="jump-btn">VIEW WEAPON DATA →</a>
-  </div>
-  <div class="pm-entity-card" style="border:1.5px solid #f97316;">
-    <h4 style="margin:0 0 6px; color:#f97316;">SENTRY'S IRON PLATE (SUIT)</h4>
-    <p style="font-size:0.8rem; color:#cbd5e1;">Heavy plate armor providing 0.5 Grudge resistance and 0.7 Lament resistance.</p>
-    <a href="../maw/maw-s-004-01-sentrys-iron-plate.html" class="jump-btn">VIEW SUIT DATA →</a>
-  </div>
-  <div class="pm-entity-card" style="border:1.5px solid #f1df76;">
-    <h4 style="margin:0 0 6px; color:#f1df76;">CORROSION VISOR (GIFT)</h4>
-    <p style="font-size:0.8rem; color:#cbd5e1;">Ocular augment granting +4 Max HP and +3 Grudge Defense.</p>
-    <a href="../maw/maw-g-004-01-corrosion-visor.html" class="jump-btn">VIEW GIFT DATA →</a>
-  </div>
-</div>
-        </div>
-        
-        <aside class="entity-infobox" style="--entity: #f97316;">
-          <h2 id="se-004">SE-004</h2>
-          <div class="infobox-image-wrap">
-            <img src="../assets/art/entities/se-004-profile.svg" alt="The Rust-Bleeding Sentry" class="character-portrait" style="border: 2px solid #f97316;">
-            <div style="font-family:'Cinzel', serif; font-size:1.1rem; color:#f8fafc; margin-top:8px; font-weight:bold;">The Rust-Bleeding Sentry</div>
-            <div style="font-family:'JetBrains Mono', monospace; font-size:0.85rem; color:#f97316;">녹을 흘리는 보초</div>
-          </div>
-
-          <dl class="fact-grid">
-            <dt>Formal ID</dt>
-            <dd>SE-004</dd>
-            <dt>Source SECC</dt>
-            <dd>C-IIIγ-004 [VS]</dd>
-            <dt>Wiki Class</dt>
-            <dd>Normal SE</dd>
-            <dt>Origin</dt>
-            <dd>City Sorrow</dd>
-            <dt>Coherence</dt>
-            <dd>III — Fragment</dd>
-            <dt>Potency</dt>
-            <dd>γ — Major</dd>
-            <dt>Element</dt>
-            <dd>Grudge — Crimson</dd>
-            <dt>Location</dt>
-            <dd>SECTOR-E-05 — Border Gate 14</dd>
-            <dt>Observation</dt>
-            <dd>3 — Advanced / Understood</dd>
-            <dt>Status</dt>
-            <dd>Active — contained border outpost</dd>
-          </dl>
-
-          <h3 id="operational-data">Operational Data</h3>
-          <dl class="fact-grid">
-            <dt>Sorrow Gauge</dt>
-            <dd>450 / 450</dd>
-            <dt>Starting Gauge</dt>
-            <dd>30–50%</dd>
-            <dt>Han Pressure</dt>
-            <dd>14–28 Grudge</dd>
-            <dt>Resistance</dt>
-            <dd>50% Grudge; 20% other</dd>
-            <dt>Speed / Scale</dt>
-            <dd>1.80 m/s</dd>
-          </dl>
-        </aside>
-      </div>
-      <footer class="wiki-footer">
-        <div class="footer-grid">
-          <div>
-            <b>SOMNARAK ARCHIVAL DIRECTORY</b>
-            <p>Reverie Directorate Subterranean Complex // Facility 01 Hand of Change</p>
-          </div>
-          <div style="text-align: right;">
-            <b>AUTHORIZATION:</b> OVERSIGHT CLEARANCE TIER-5<br>
-            <span>CONFIDENTIAL ARCHIVAL SYSTEM</span>
-          </div>
-        </div>
-      </footer>
-    </main>
-  </div>
-</body>
-</html>
+<footer class="article-footer">
+<div class="footer-categories"><strong>Categories:</strong> <a href="index.html">Sorrow Entities</a> | <a href="list.html">List</a> | <a href="../maw/index.html">M.A.W.</a></div>
+</footer>
+</main></div></body></html>
