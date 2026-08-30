@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="UCD Strike Force">
+  <rect width="640" height="400" fill="#140808"/>
+  <path d="M80 300 L320 80 L560 300" fill="none" stroke="#ef5b55" stroke-width="8"/>
+  <path d="M140 300 L320 140 L500 300" fill="none" stroke="#f1df76" stroke-width="4"/>
+  <rect x="230" y="220" width="180" height="90" fill="#1c0a0a" stroke="#ef5b55" stroke-width="3"/>
+  <text x="320" y="275" text-anchor="middle" fill="#f1df76" font-family="Impact" font-size="28" letter-spacing="6">UCD</text>
+  <line x1="80" y1="320" x2="560" y2="320" stroke="#7f1d1d" stroke-width="10"/>
+  <text x="320" y="28" text-anchor="middle" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="20" letter-spacing="4">STRIKE FORCE</text>
+  <text x="320" y="372" text-anchor="middle" fill="#f1df76" font-family="Arial" font-size="11" letter-spacing="3">UNDERWORLD CLEANUP DESCEND</text>
+</svg>

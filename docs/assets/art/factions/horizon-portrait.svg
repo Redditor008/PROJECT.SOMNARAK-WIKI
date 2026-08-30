@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Horizon Caravan">
+  <rect width="640" height="400" fill="#1c1408"/>
+  <circle cx="500" cy="90" r="36" fill="#f1df76" opacity=".85"/>
+  <rect y="210" width="640" height="190" fill="#3f2a12"/>
+  <path d="M0 210 Q160 170 320 210 Q480 250 640 200 L640 220 L0 230 Z" fill="#ca8a04" opacity=".5"/>
+  <rect x="120" y="230" width="90" height="50" fill="#1c1917" stroke="#f1df76" stroke-width="2"/>
+  <rect x="250" y="220" width="110" height="60" fill="#1c1917" stroke="#f1df76" stroke-width="2"/>
+  <rect x="400" y="235" width="90" height="48" fill="#1c1917" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="140" cy="286" r="12" fill="#111"/><circle cx="190" cy="286" r="12" fill="#111"/>
+  <circle cx="270" cy="286" r="12" fill="#111"/><circle cx="340" cy="286" r="12" fill="#111"/>
+  <circle cx="420" cy="286" r="12" fill="#111"/><circle cx="470" cy="286" r="12" fill="#111"/>
+  <text x="320" y="40" text-anchor="middle" fill="#f1df76" font-family="Impact" font-size="22" letter-spacing="4">HORIZON CARAVAN</text>
+</svg>
