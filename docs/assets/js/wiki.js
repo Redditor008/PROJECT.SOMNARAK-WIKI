@@ -484,14 +484,19 @@
       inPageEls.forEach(h => headingObserver.observe(h));
     }
 
-    // Stick at the last rail: instead of hiding when the lower terminus
-    // footer approaches, the widget slides to sit just above the footer's
-    // top edge (the end of the content rail) and, once it reaches the top
-    // bar, stays stuck there — always visible, never overlapping the
-    // footer while there is room in the viewport.
+    // Stick at the last rail: instead of hiding or riding over the lower
+    // terminus footer, the widget sits just above the footer's top edge —
+    // the end of the content rail. While the footer is far away it holds
+    // its natural pin (86px desktop / 18px bottom on narrow screens); once
+    // the footer's top edge reaches the widget, it tracks that edge upward
+    // and exits through the top of the viewport with the end of the
+    // content, so it never overlaps the footer and never disappears.
+    // The left edge is pinned to the actual content column (not a fixed
+    // offset) because the left-rail width changes across breakpoints.
     const footer = q('footer.global-footer') || q('footer');
     if (footer) {
       const GAP = 8;
+      const LEFT_INSET = 6;
       let ticking = false;
       const updateStick = () => {
         ticking = false;
@@ -502,10 +507,12 @@
           : window.innerWidth <= 1100;
         const naturalTop = isNarrow ? window.innerHeight - 18 - h : 86;
         const stickyTop = footerTop - h - GAP;
-        let top = Math.min(naturalTop, stickyTop);
-        if (top < 86) top = 86;
-        floatToc.style.setProperty('--float-toc-top', top + 'px');
+        const top = Math.min(naturalTop, stickyTop);
+        const contentRect = contentArea.getBoundingClientRect();
+        const left = Math.max(8, Math.round(contentRect.left + LEFT_INSET));
+        floatToc.style.setProperty('--float-toc-top', Math.round(top) + 'px');
         floatToc.style.setProperty('--float-toc-bottom', 'auto');
+        floatToc.style.setProperty('--float-toc-left', left + 'px');
       };
       const requestStick = () => {
         if (!ticking) {
