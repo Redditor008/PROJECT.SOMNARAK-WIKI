@@ -142,6 +142,40 @@
   // =========================================================================
   // 3. IN-ARTICLE TABLE OF CONTENTS (#toc) TOGGLE (SUPPORTS <ol> & <ul>)
   // =========================================================================
+  // =========================================================================
+  // 1b. RUNTIME HEADING ANCHORS (MediaWiki-style auto ids)
+  // Many wiki pages have h2/h3 section titles without id attributes, which
+  // leaves the floating page-contents and sidebar TOC with nothing to link
+  // to. Assign a stable slug id to every heading that lacks one, before any
+  // TOC is built. Existing ids are always preserved.
+  // =========================================================================
+  function slugifyHeading(text) {
+    return String(text)
+      .replace(/&[a-z]+;/gi, ' ')
+      .replace(/[^\p{L}\p{N}\s_-]/gu, ' ')
+      .trim()
+      .replace(/\s+/g, '-')
+      .replace(/^[^-_\p{L}\p{N}]+/u, '')
+      .replace(/-+$/g, '')
+      .toLowerCase();
+  }
+
+  function ensureHeadingIds(contentArea) {
+    const root = contentArea || document;
+    qa('h2, h3', root).forEach((h) => {
+      if (h.closest('.float-toc')) return;
+      if (h.id) return;
+      const base = slugifyHeading(h.textContent) || 'section';
+      let id = base;
+      let n = 2;
+      while (root.querySelector(`[id="${id}"]`) || document.getElementById(id)) {
+        id = `${base}-${n}`;
+        n += 1;
+      }
+      h.id = id;
+    });
+  }
+
   function initTableOfContents() {
     qa('.toc, #toc').forEach(toc => {
       const title = q('.toctitle, .toc-title', toc);
@@ -317,15 +351,19 @@
     const skipTitle = /^(DATABASE HUBS|THE NINE ECHO-CORES|CARTOGRAPHY|FACILITY 01|ENTITY REGISTRY)$/i;
     const clean = (el) => el.textContent.replace(/^[■›•\s\d\.\/]+/, '').replace(/#$/, '').trim();
 
-    const sections = qa('.wiki-section', contentArea);
+    // Collect every addressable h2 in the content area, whether or not it is
+    // wrapped in a .wiki-section (entity/lore pages use flat h2[id] sections).
     const items = [];
-    sections.forEach(sec => {
-      if (sec.classList.contains('codex-stub')) return;
-      const h = q('h2.section-title[id], h2[id]', sec);
-      if (!h) return;
+    const seen = new Set();
+    qa('h2[id]', contentArea).forEach((h) => {
+      if (h.closest('.float-toc')) return;
+      const sec = h.closest('.wiki-section');
+      if (sec && sec.classList.contains('codex-stub')) return;
+      if (seen.has(h.id)) return;
+      seen.add(h.id);
       const title = clean(h);
       if (!title || skipTitle.test(title)) return;
-      const home = sec.getAttribute('data-toc-home') || h.getAttribute('data-toc-home');
+      const home = (sec && sec.getAttribute('data-toc-home')) || h.getAttribute('data-toc-home');
       items.push({
         id: h.id,
         title,
@@ -340,13 +378,17 @@
     const useH3 = inPage.length > 0 && inPage.length <= 10;
     if (useH3) {
       inPage.forEach(it => {
-        const sec = it.el.closest('.wiki-section');
-        if (!sec) return;
-        qa(':scope > h3[id]', sec).forEach(h3 => {
-          const title = clean(h3);
-          if (!title) return;
-          items.push({ id: h3.id, title, home: null, el: h3, away: false, sub: true });
-        });
+        let node = it.el.nextElementSibling;
+        while (node && node.tagName !== 'H2') {
+          if (node.tagName === 'H3' && node.id && !seen.has(node.id)) {
+            const title = clean(node);
+            if (title) {
+              seen.add(node.id);
+              items.push({ id: node.id, title, home: null, el: node, away: false, sub: true });
+            }
+          }
+          node = node.nextElementSibling;
+        }
       });
     }
 
@@ -429,7 +471,7 @@
     });
 
     const inPageEls = visible.filter(it => !it.away).map(it => it.el);
-    if (inPageEls.length) {
+    if (inPageEls.length && typeof IntersectionObserver !== 'undefined') {
       const headingObserver = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
           if (!entry.isIntersecting) return;
@@ -816,17 +858,9 @@
   }
 
   // Initialize all components on DOM ready
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', () => {
-      initTableOfContents();
-      initActionTabs();
-      initFloatingToc();
-      initHeadingPermalinks();
-      initBackToTop();
-      initSearch();
-      initRandomArchive();
-    });
-  } else {
+  const runInit = () => {
+    const contentArea = q('#content') || q('.wiki-content') || q('main');
+    ensureHeadingIds(contentArea);
     initTableOfContents();
     initActionTabs();
     initFloatingToc();
@@ -834,6 +868,12 @@
     initBackToTop();
     initSearch();
     initRandomArchive();
+  };
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', runInit);
+  } else {
+    runInit();
   }
 
 })();

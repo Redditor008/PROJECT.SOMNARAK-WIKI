@@ -12952,3 +12952,42 @@ details.redaction summary .redaction-state { color: #9aafbf; }
 details.redaction[open] summary .redaction-state::before { content: "— "; }
 details.redaction .redaction-body { padding: 4px 14px 14px; color: #c9d1dd; }
 details.redaction .redaction-body p { margin: 8px 0; }
+
+/* === 2026-09-01 · canonical float-TOC pin + hard viewport limits (overrides all earlier generations) === */
+nav.float-toc {
+  position: fixed !important;
+  top: 86px !important;
+  left: max(8px, calc((100vw - min(1560px, calc(100vw - 32px))) / 2 + 196px)) !important;
+  right: auto !important;
+  bottom: auto !important;
+  z-index: 45 !important;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start !important;
+  gap: 0 !important;
+  max-height: calc(100vh - 110px) !important;
+  overflow: visible !important;
+}
+nav.float-toc .float-toc-panel,
+nav.float-toc > div {
+  position: static !important;
+  top: auto !important;
+  bottom: auto !important;
+  left: auto !important;
+  width: 300px !important;
+  max-width: min(340px, calc(100vw - 60px)) !important;
+  max-height: calc(100vh - 110px) !important;
+  overflow-y: auto !important;
+}
+@media (max-width: 1100px) {
+  nav.float-toc {
+    top: auto !important;
+    bottom: 18px !important;
+    left: 8px !important;
+    right: auto !important;
+  }
+  nav.float-toc .float-toc-panel,
+  nav.float-toc > div {
+    max-height: 55vh !important;
+  }
+}
