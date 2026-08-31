@@ -36,6 +36,7 @@ This file records notable changes to the public Somnarak Wiki.
 ### Fixed
 
 - Fixed the 404 recovery page so every asset, gateway, and search path resolves from any failed URL. GitHub Pages serves `404.html` at the location of the missing route, so all of its relative paths previously broke for every subdirectory miss (verified live: `/entities/…` misses rendered broken emblems and gateway links). Added a `<base href="/">` root anchor in the page head so the record renders completely at every depth without altering the audited chrome markup.
+- Restored the 87 legacy satellite URL routes (29 archived Entity, department, floor, zone, and mechanics URLs in three forms each) on the canonical GitHub Pages surface. `_redirects` is a Netlify-only mechanism that GitHub Pages ignores, so those bookmarks previously landed on the 404 record; the 404 page now carries a client-side route-recovery map derived from `_redirects`, verified to redirect all 87 forms to their consolidated records while leaving every other missing path untouched. `_redirects` is retained for Netlify mirrors.
 
 ## 1.8.31 — 2026-08-31
 
