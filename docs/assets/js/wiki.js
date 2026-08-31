@@ -483,6 +483,28 @@
       }, { rootMargin: '-90px 0px -62% 0px', threshold: 0 });
       inPageEls.forEach(h => headingObserver.observe(h));
     }
+
+    // The button should only float over real page content, never over the
+    // lower terminus footer — fade it out while the footer occupies the
+    // viewport, and back in as soon as the footer scrolls away.
+    const footer = q('footer.global-footer') || q('footer');
+    if (footer) {
+      const setOverFooter = (over) => floatToc.classList.toggle('float-toc-hidden', over);
+      if (typeof IntersectionObserver !== 'undefined') {
+        const footerObserver = new IntersectionObserver((entries) => {
+          setOverFooter(entries.some(entry => entry.isIntersecting));
+        }, { threshold: 0 });
+        footerObserver.observe(footer);
+      } else {
+        const updateOverFooter = () => {
+          const top = footer.getBoundingClientRect().top;
+          setOverFooter(top < window.innerHeight - 8);
+        };
+        window.addEventListener('scroll', updateOverFooter, { passive: true });
+        window.addEventListener('resize', updateOverFooter, { passive: true });
+        updateOverFooter();
+      }
+    }
   }
 
   // =========================================================================

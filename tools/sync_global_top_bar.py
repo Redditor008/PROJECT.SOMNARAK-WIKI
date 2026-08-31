@@ -13,7 +13,7 @@ import re
 from dataclasses import dataclass
 from pathlib import Path
 
-ASSET_VERSION = "20260901e"
+ASSET_VERSION = "20260901f"
 
 # key, primary label, terminal sublabel, route, Directorate slot
 NAV_ITEMS = (

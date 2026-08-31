@@ -12991,3 +12991,11 @@ nav.float-toc > div {
     max-height: 55vh !important;
   }
 }
+
+/* === 2026-09-01 · float-TOC never floats over the terminus footer === */
+nav.float-toc { transition: opacity 0.18s ease, visibility 0.18s ease; }
+nav.float-toc.float-toc-hidden {
+  opacity: 0 !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
+}
