@@ -12549,3 +12549,282 @@ body .tale-main { padding: 24px clamp(18px, 3vw, 46px) 54px !important; }
 @media print {
   aside.left-rail[data-component="global-left-sidebar"] { display: none !important; }
 }
+
+/* ==========================================================================
+   RIGHT RAIL — FACILITY 01 HAZARD CONSOLE (home page only)
+   L-Corp industrial parity with the canonical left rail: layered dark
+   gradient, edge accent strips, signal header, coded rows, mirrored hover.
+   Reference: REFERENCE_SOMNARAK_WIKI/tools/build_perfect_rails_and_styles.py
+   Canonical component block — keep at END of stylesheet (RULE A4.4).
+   ========================================================================== */
+body.home-page .floor-rail {
+  --rail-gold: #f1df76;
+  --rail-cyan: #38bdf8;
+  --rail-red: #ef5b55;
+  --rail-green: #71efaf;
+  position: relative !important;
+  display: block !important;
+  align-self: stretch !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+  padding: 11px 10px 16px !important;
+  overflow: visible !important;
+  isolation: isolate;
+  color: #dce7ef !important;
+  border: 0 !important;
+  border-left: 1px solid #34495a !important;
+  background:
+    linear-gradient(90deg, transparent 0 8px, rgba(241,223,118,.08) 8px 9px, transparent 9px),
+    repeating-linear-gradient(0deg, rgba(255,255,255,.018) 0 1px, transparent 1px 4px),
+    radial-gradient(circle at 50% 92px, rgba(241,223,118,.13), transparent 150px),
+    linear-gradient(180deg, #07101a 0%, #03070c 56%, #070b10 100%) !important;
+  box-shadow:
+    inset 10px 0 28px rgba(0,0,0,.72),
+    inset 1px 0 0 rgba(241,223,118,.12),
+    -9px 0 24px rgba(0,0,0,.3) !important;
+}
+body.home-page .floor-rail::before,
+body.home-page .floor-rail::after {
+  content: "";
+  position: absolute;
+  z-index: 2;
+  left: -2px;
+  width: 3px;
+  height: 84px;
+  pointer-events: none;
+}
+body.home-page .floor-rail::before {
+  top: 0;
+  background: linear-gradient(180deg, var(--rail-gold), transparent);
+  box-shadow: 0 0 12px rgba(241,223,118,.32);
+}
+body.home-page .floor-rail::after {
+  bottom: 0;
+  background: linear-gradient(0deg, var(--rail-cyan), transparent);
+  box-shadow: 0 0 12px rgba(56,189,248,.3);
+}
+
+/* Signal header — mirrors the left rail's site-mark header + L-Corp header rule */
+body.home-page .floor-rail > h2 {
+  position: relative;
+  margin: 0 0 13px !important;
+  padding: 10px 10px 12px !important;
+  text-align: center !important;
+  color: var(--rail-gold) !important;
+  font: 1.35rem/1 Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: .14em !important;
+  text-transform: uppercase;
+  text-shadow: 0 0 12px rgba(241,223,118,.35);
+  border: 1px solid #26394a !important;
+  border-bottom: 2px solid var(--rail-red) !important;
+  background:
+    repeating-linear-gradient(0deg, rgba(255,255,255,.015) 0 1px, transparent 1px 4px),
+    rgba(4,10,16,.9);
+}
+body.home-page .floor-rail > h2::before {
+  content: "/// DEPARTMENT CONSOLE // HAND OF CHANGE";
+  display: block;
+  margin: 0 0 8px;
+  color: var(--rail-cyan) !important;
+  font: 700 .5rem/1 "Courier New", monospace !important;
+  letter-spacing: .16em;
+  text-shadow: none;
+}
+body.home-page .floor-rail > h2::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 50%;
+  width: 64px;
+  height: 3px;
+  transform: translateX(-50%);
+  background: linear-gradient(90deg, transparent, var(--rail-gold), transparent);
+  box-shadow: 0 0 9px rgba(241,223,118,.35);
+}
+
+/* Floor rows — coded terminal rows with per-floor accent + hazard hover */
+body.home-page .floor-button {
+  position: relative;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  gap: 8px;
+  width: 100% !important;
+  min-width: 0 !important;
+  min-height: 54px !important;
+  margin: 6px 0 !important;
+  padding: 7px 10px 7px 0 !important;
+  box-sizing: border-box;
+  overflow: hidden;
+  color: #d8e2e9 !important;
+  border: 1px solid #24394a !important;
+  border-left: 3px solid color-mix(in srgb, var(--floor) 58%, #24394a) !important;
+  border-radius: 3px;
+  background: rgba(3,8,13,.54) !important;
+  text-decoration: none !important;
+  transition: color .16s ease, background .16s ease, border-color .16s ease, box-shadow .16s ease, transform .16s ease !important;
+}
+body.home-page .floor-button::before {
+  content: "///";
+  position: static !important;
+  display: grid;
+  place-items: center;
+  align-self: stretch;
+  min-width: 27px;
+  flex: 0 0 27px;
+  color: #5c7585;
+  border-right: 1px solid #243747;
+  font: 700 .5rem/1 "Courier New", monospace !important;
+  letter-spacing: -.06em;
+}
+body.home-page .floor-button span {
+  display: block !important;
+  min-width: 0;
+  flex: 1 1 auto;
+  color: inherit !important;
+  font: 700 .68rem/1.12 Arial, "Segoe UI", sans-serif !important;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  overflow: hidden;
+}
+body.home-page .floor-button small {
+  display: block;
+  margin-top: 4px;
+  overflow: hidden;
+  color: #698091 !important;
+  font: 700 .44rem/1 "Courier New", monospace !important;
+  letter-spacing: .055em !important;
+  text-transform: uppercase;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+body.home-page .floor-button img {
+  width: 38px !important;
+  height: 38px !important;
+  min-width: 38px !important;
+  max-width: 38px !important;
+  flex: 0 0 38px;
+  object-fit: contain;
+  border-radius: 50% !important;
+  border: 1.5px solid color-mix(in srgb, var(--floor) 62%, #24394a) !important;
+  background: #05070c;
+  box-shadow: 0 0 0 3px rgba(0,0,0,.35), 0 0 10px color-mix(in srgb, var(--floor) 22%, transparent);
+  transition: transform .2s cubic-bezier(.16,1,.3,1), border-color .2s ease, box-shadow .2s ease;
+}
+body.home-page .floor-button:hover,
+body.home-page .floor-button:focus-visible {
+  z-index: 1;
+  color: #fff !important;
+  border-color: color-mix(in srgb, var(--floor) 58%, #213444) !important;
+  border-left-color: var(--floor) !important;
+  background: linear-gradient(90deg, color-mix(in srgb, var(--floor) 14%, #06101a), #07101a) !important;
+  box-shadow: inset 3px 0 0 var(--floor), 0 0 14px color-mix(in srgb, var(--floor) 26%, transparent);
+  outline: none;
+  transform: translateX(-2px);
+}
+body.home-page .floor-button:hover::before,
+body.home-page .floor-button:focus-visible::before { color: var(--floor); }
+body.home-page .floor-button:hover small,
+body.home-page .floor-button:focus-visible small { color: #9fb4c2; }
+body.home-page .floor-button:hover img,
+body.home-page .floor-button:focus-visible img {
+  transform: scale(1.12) rotate(3deg);
+  border-color: var(--floor) !important;
+  box-shadow: 0 0 0 3px rgba(0,0,0,.35), 0 0 14px color-mix(in srgb, var(--floor) 55%, transparent);
+}
+
+/* Action buttons — L-Corp heavy hazard actions (red stripe, gold frame) */
+body.home-page .rail-action {
+  position: relative;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  gap: 8px;
+  width: 100% !important;
+  min-width: 0;
+  box-sizing: border-box;
+  margin: 6px 0 0 !important;
+  padding: 11px 12px 11px 40px !important;
+  overflow: hidden;
+  color: #fff !important;
+  font: 1rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: .1em !important;
+  text-transform: uppercase;
+  border: 2px solid var(--rail-gold) !important;
+  border-radius: 3px;
+  background: linear-gradient(90deg, #141c2c 0%, #090e18 100%) !important;
+  box-shadow: 0 0 16px rgba(241,223,118,.18), 0 4px 12px rgba(0,0,0,.6);
+  text-decoration: none !important;
+  transition: transform .2s ease, box-shadow .2s ease, background .2s ease, border-color .2s ease;
+}
+body.home-page .floor-button + .rail-action { margin-top: 17px !important; }
+body.home-page .rail-action::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 26px;
+  background: repeating-linear-gradient(-45deg, var(--rail-red), var(--rail-red) 7px, #05070a 7px, #05070a 14px);
+  border-right: 2px solid var(--rail-gold);
+  box-shadow: 2px 0 6px rgba(0,0,0,.8);
+}
+body.home-page .rail-action::after {
+  content: "\2192";
+  position: relative;
+  z-index: 1;
+  color: var(--rail-gold);
+  font-size: 1.05rem;
+  line-height: 1;
+}
+body.home-page .rail-action:hover,
+body.home-page .rail-action:focus-visible {
+  background: #1e2a42 !important;
+  border-color: #fff !important;
+  box-shadow: 0 0 22px rgba(241,223,118,.55), 0 4px 14px rgba(0,0,0,.6);
+  outline: none;
+  transform: translateY(-2px);
+}
+
+/* Below the desktop grid the console drops under the article, full width */
+@media (max-width: 992px) {
+  body.home-page .wiki-shell.home-shell {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+  body.home-page .floor-rail {
+    grid-column: 1 / -1 !important;
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0 10px;
+    align-items: center;
+    padding: 13px 12px 17px !important;
+    border-left: 0 !important;
+    border-top: 1px solid #34495a !important;
+    box-shadow: inset 0 10px 28px rgba(0,0,0,.72) !important;
+  }
+  body.home-page .floor-rail::before,
+  body.home-page .floor-rail::after {
+    left: 0;
+    top: 0;
+    bottom: auto;
+    width: 84px;
+    height: 3px;
+  }
+  body.home-page .floor-rail::before { background: linear-gradient(90deg, var(--rail-gold), transparent); }
+  body.home-page .floor-rail::after { left: auto; right: 0; background: linear-gradient(270deg, var(--rail-cyan), transparent); }
+  body.home-page .floor-rail > h2 { grid-column: 1 / -1; }
+  body.home-page .rail-action { grid-column: 1 / -1; }
+  body.home-page .floor-button { transform: none !important; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body.home-page .floor-button,
+  body.home-page .floor-button img,
+  body.home-page .rail-action { transition: none !important; }
+  body.home-page .floor-button:hover,
+  body.home-page .rail-action:hover { transform: none; }
+}
+
+@media print {
+  body.home-page .floor-rail { display: none !important; }
+}
