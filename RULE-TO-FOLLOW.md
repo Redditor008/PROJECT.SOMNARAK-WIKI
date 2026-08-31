@@ -1,142 +1,212 @@
-# RULE TO FOLLOW
+# RULE TO FOLLOW — v2 (SUPER DETAILED)
 
-**Authority:** Direct project-owner instruction  
-**Status:** Mandatory for every future AI, coding session, pull request, and deployment  
-**Repository:** `Redditor008/PROJECT.SOMNARAK-WIKI`  
-**Integration branch:** `main`  
+**Authority:** Direct project-owner instruction (last updated 2026-09-01)
+**Status:** Mandatory for every AI, coding session, pull request, and deployment
+**Repository:** `Redditor008/PROJECT.SOMNARAK-WIKI`
+**Integration branch:** `main`
 **Public acceptance URL:** <https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/>
+**Supersedes:** `RULE-TO-FOLLOW.md` (v1). Where any older file or instruction conflicts with this file, **this file wins**.
 
-Read this file before changing anything. These rules are not optional. If an older branch or deployment instruction elsewhere in the repository conflicts with this file, **this root-level file is the newer owner instruction and takes precedence**. Content, canon, placement, and visual-quality rules in the referenced standards remain binding.
+Read this file before changing anything. These rules are not optional. Content, canon, placement, and visual-quality rules in the referenced standards remain binding.
+
+---
+
+## CHANGELOG — what changed from v1
+
+### ADDED (new rules that did not exist before)
+
+| Tag | Rule |
+|---|---|
+| **A0** | **PUSH ALWAYS** — every file add/edit/delete must be committed **and pushed** in the same turn. "PUSH, NEVER SAVE IT ON ARENA." |
+| **A1** | **Session fragility** — the Arena workspace is a one-chatroom, temporary thing. Only GitHub is durable. |
+| **A2** | **Closed ≠ Merged** — a closed PR is not live, and closing it kills the session's remote access. Never close a PR unless merging it. |
+| **A3** | **Asset cache-busting** — any `wiki.css`/`wiki.js` change must bump `ASSET_VERSION` and re-sync, or the fix never shows live. |
+| **A4** | **Sidebar parity** — left and right sidebars share one L-Corp terminal style; CSS fixes go at the END of `wiki.css`. |
+| **A5** | **File safety** — never delete/overwrite the owner's files or history without a direct, file-named instruction. |
+
+### REMOVED (rules deleted from v1)
+
+| Tag | Rule removed |
+|---|---|
+| **R1** | REMOVED: "Do not wait for a separate 'please merge' message when the owner's initial request explicitly authorizes completion and deployment." → The owner controls the merge. **Never auto-merge.** |
+| **R2** | REMOVED: automatic "delete the temporary branch after merge." → Branch deletion is now conditional and owner-approved. |
+
+### CHANGED (rules rewritten from v1)
+
+| Tag | Change |
+|---|---|
+| **C1** | §2 rewritten around the push-first, push-always doctrine. |
+| **C2** | §4 PR lifecycle rewritten: push → open PR early → keep it OPEN → owner merges → closed ≠ merged. |
+| **C3** | §9 completion report extended with `NOT PUSHED` and `PR CLOSED (NOT MERGED)` states and a mandatory `PR_#_NEVER_MERGED.md` record when a PR is closed without merge. |
+
+---
+
+## A0 — PUSH ALWAYS (the #1 rule, above all others)
+
+**Owner's words: "Always push each adding, editing, or anything that is about the file in git."**
+
+1. Every single file you create, edit, rename, or delete must be committed **and pushed** to the assigned session branch **in the same turn** you make it.
+2. Never end a turn with:
+   - uncommitted changes, OR
+   - a local commit that has not been pushed to GitHub.
+3. Order of operations is fixed:
+   ```
+   make change → validate → git add → git commit → git push  →  (only then) PR operations
+   ```
+4. "PUSH, NEVER SAVE IT ON ARENA." The Arena workspace is temporary and tied to one chatroom. Work that exists only in the workspace is effectively lost when the session ends. GitHub is the only durable store.
+5. If a push fails, you must NOT proceed silently:
+   - Report `NOT PUSHED`.
+   - State the exact blocker.
+   - Require a new coding session (or the owner pushing manually) before continuing.
+6. Never claim something is pushed when it is not. Verify with:
+   ```bash
+   git rev-parse HEAD
+   git rev-parse origin/<assigned-branch>    # must equal HEAD after a successful push
+   ```
+   If those two SHAs differ, your latest work is **not on GitHub**.
+
+---
+
+## A1 — SESSION FRAGILITY (the workspace is one chatroom)
+
+1. A session can end at **any moment**: a PR is merged or closed, a timeout, a disconnect, or the platform closing the session.
+2. The moment a session ends, `git push` and `gh` are **permanently blocked in that session**. You cannot recover remote access by trying again in the same chat.
+3. Because of this, **never batch work hoping to push later.** Complete one small, validated unit, then commit and push immediately.
+4. Treat every change as potentially the last thing you can push.
+
+---
+
+## A2 / C2 — PULL REQUEST LIFECYCLE
+
+1. Open a **draft** pull request early, immediately after the first push, so GitHub holds a recoverable route even if the chatroom dies.
+2. Keep the PR **open**. Do not close it unless you are merging it.
+3. **Closed ≠ Merged.** A PR that is "closed" without a merge means:
+   - the work is **not live**;
+   - the session's remote access is **cut off**;
+   - remaining local commits can no longer be pushed from that session.
+4. The owner controls the final merge. If the owner has not explicitly told you to merge, leave the PR open and report its state.
+5. If a PR is closed without merging:
+   - Create a record file `PR_#_NEVER_MERGED.md` at the repo root explaining that it was closed, not merged, and that the work is not live.
+   - Report the closed PR and the unpushed commits clearly.
+   - A **new session** is required to push the remaining commits and open a fresh PR.
+6. Direction is always:
+   ```
+   base: main   ←   compare: assigned session branch
+   ```
+   Never reverse these.
+
+---
+
+## A3 — ASSET CACHE-BUSTING (mandatory for CSS/JS changes)
+
+1. Any change to `docs/assets/css/wiki.css` or `docs/assets/js/wiki.js` MUST bump `ASSET_VERSION` in `tools/sync_global_top_bar.py`:
+   ```python
+   ASSET_VERSION = "YYYYMMDDx"   # e.g. "20260901a" — change the suffix every time
+   ```
+2. Then re-sync all pages so the `?v=` query updates:
+   ```bash
+   python3 tools/sync_global_top_bar.py docs --write
+   ```
+3. Reason: the pages load `wiki.css?v=<version>`. If the version string does not change, returning visitors keep the old cached file and **your fix never appears live**, even after deploy.
+4. Never change the stylesheet without bumping the version in the same commit.
+
+---
+
+## A4 — SIDEBAR / VISUAL PARITY
+
+1. The **left** sidebar is canonical and generated by `tools/sync_global_left_sidebar.py`. Its markup must match on all public pages.
+2. The **right** sidebar (homepage Facility 01 floor console, `body.home-page .floor-rail`) must **match the left rail's L-Corp terminal presentation**: same layered dark gradient, accent strips, signal headers, coded rows, and hover behavior.
+3. Sidebar bugs are fixed in `docs/assets/css/wiki.css` — not in the HTML.
+4. Canonical component blocks belong **at the END of the stylesheet** so they win the cascade over the many older duplicate rules. Verify with the cascade check and `git diff --check`.
+5. The left rail must remain a permanent, full-height, non-scrolling, non-shrinking column on desktop (fixed width, `position: static`, no `max-height` scroll box).
+
+---
+
+## A5 — FILE SAFETY (never delete the owner's work)
+
+1. Never delete, rename, or move the repository root or `.git`.
+2. Never run `git clean`, `git reset --hard`, `git checkout -- .`, or force-push.
+3. Never delete or overwrite an owner file (including `README.md`, `CHANGELOG.md`, `RULE-TO-FOLLOW.md`) without a direct instruction that names the exact file.
+4. When the owner says they will delete/replace a root `.md`, do NOT delete it yourself — create the new file under a distinct name (e.g. `_v2.md`) and let the owner copy it in.
 
 ---
 
 ## 1. Use `main` as the permanent integration branch
 
-The owner has selected **`main`** as the branch that receives completed work.
-
-- Do not rename a temporary branch to `main`.
-- Do not replace or delete `main`.
-- Do not manually create another branch.
-- Do not use a chain of intermediate branches.
-- Do not force-push.
-- Do not merge `main` into an unrelated branch and call that deployment.
-
-Arena may create and lock a session to a temporary branch before the AI starts. Repository instructions cannot prevent that platform-created branch. When Arena assigns one:
-
-1. Stay on that assigned branch.
-2. Create no additional branch.
-3. Commit and push only the assigned branch.
-4. Open one pull request directly from the assigned branch into `main`.
-5. Merge the pull request after the requested work and validation gates pass.
-6. Delete the temporary branch only after the merge succeeds.
-
-The required direction is:
-
-```text
-base:    main
-compare: Arena-assigned temporary branch
-
-Arena branch  ──pull request──>  main
-```
-
-Never reverse those two selections.
+1. `main` receives completed work.
+2. Do not rename a temporary branch to `main`, replace or delete `main`, create extra branches, use branch chains, or force-push.
+3. Arena may create and lock a session branch. When it does:
+   - stay on that branch,
+   - create no other branch,
+   - commit and push only that branch,
+   - open one PR from it into `main`.
+4. Direction: `main ← assigned branch`. Never reverse.
 
 ---
 
-## 2. Make every session resistant to a broken chatroom
+## 2. Make every session push-resistant
 
-At the beginning of the session, report the output of:
-
+At session start, report:
 ```bash
 git branch --show-current
 git status --short
 ```
 
-Then follow this workflow:
-
-1. Complete one coherent unit of work.
+Then, for **every** coherent unit of work:
+1. Make the change.
 2. Run the relevant checks.
-3. Commit the validated unit immediately.
-4. Push it to the one Arena-assigned branch while remote access remains available.
-5. Open a **draft pull request into `main` early**, so GitHub retains a recoverable route even if the chatroom stops unexpectedly.
-6. Continue pushing later validated commits to that same branch and draft pull request.
-7. When all requested work passes, mark the pull request ready and merge it into `main`.
-8. Do not wait for a separate “please merge” message when the owner’s initial request explicitly authorizes completion and deployment.
-9. Delete the temporary branch after merge, preferably through GitHub’s **Automatically delete head branches** setting.
+3. `git add` and `git commit`.
+4. `git push origin <assigned-branch>` **immediately** — do not wait for the end of the turn.
+5. Open/refresh a draft PR into `main` early.
+6. Continue pushing each later validated commit to the same branch.
+7. Only the owner triggers the final merge (unless explicitly told to merge).
+8. End every turn with a clean `git status` **and** `HEAD == origin/<branch>`.
 
-Files must exist in a Git working tree before Git can commit them, so literally avoiding the workspace is impossible. Apply the owner’s intent this way: never leave finished work only as uncommitted files. Do not commit a knowingly broken partial merely for speed; validate first, then commit immediately. End completed work with a clean `git status`.
-
-**Every newly created file and every coherent validated change must be pushed in the same turn as its commit whenever remote access is available. Never stop at “committed locally” when pushing is possible.** In Arena, push to the one platform-assigned session branch and then integrate it into `main` through the direct pull request described above. If authentication, a closed session, or another platform restriction makes pushing impossible, do not pretend it succeeded: report `NOT PUSHED`, state the exact blocker, and require a new active coding session.
-
-Once a session branch has been merged and deleted, that coding session is finished. Start a new coding session before requesting another code change.
+**Every newly created file and every validated change must be pushed in the same turn. Never stop at "committed locally."**
 
 ---
 
 ## 3. Manual recovery if a chatroom stops before merge
 
-If the temporary branch was pushed to GitHub:
+1. Open the repository's **Pull requests** page.
+2. **New pull request**.
+3. base = `main`; compare = the assigned temporary branch.
+4. Review **Files changed**.
+5. Create the PR, wait for checks, **Merge**, then optionally delete the branch.
+6. Verify at the public acceptance URL.
 
-1. Open the repository’s **Pull requests** page.
-2. Select **New pull request**.
-3. Set **base** to `main`.
-4. Set **compare** to the Arena temporary branch containing the work.
-5. Review **Files changed**.
-6. Create the pull request.
-7. Wait for required checks, if any.
-8. Select **Merge pull request** and confirm.
-9. Delete the temporary branch.
-10. Verify the result at the public acceptance URL.
-
-If a pull request already exists, open it and continue from step 5. Do not create a duplicate pull request.
-
-If the branch is missing from GitHub, its work was never pushed or was deleted too soon. GitHub cannot merge a branch it does not have. Recover the original Arena workspace/local commit if available; otherwise the change must be recreated. Never claim an unpushed local commit is recoverable from GitHub.
+If a PR already exists, continue from step 4 — do not duplicate it.
+If the branch is missing from GitHub, the work was never pushed (or was deleted too soon). Recreate from a local commit if available; never claim an unpushed commit is recoverable from GitHub.
 
 ---
 
 ## 4. Verify the actual GitHub Pages source
 
-Merging into `main` and publishing GitHub Pages are separate facts. Before deployment, inspect the repository’s current Pages configuration and confirm which branch/path it serves.
-
-The intended public content lives in:
-
-```text
-main:/docs
-```
-
-If GitHub Pages still points to another branch, do not report a merge into `main` as live. Report the mismatch and ask the owner to configure **Settings → Pages → Deploy from a branch → `main` → `/docs`**, unless the owner explicitly chooses another source.
-
-Never change the Pages source silently.
+1. Merging into `main` and publishing GitHub Pages are separate facts.
+2. Confirm the Pages source is `main` and path `/docs`.
+3. If Pages points elsewhere, report the mismatch and ask the owner to set **Settings → Pages → Deploy from a branch → `main` → `/docs`**.
+4. Never change the Pages source silently.
 
 ---
 
 ## 5. The live website is the final acceptance surface
 
-The owner checks every update at:
+The owner checks at <https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/>.
 
-> <https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/>
+1. Wait for the Pages deployment to finish after merge.
+2. Fetch the URL with a cache-busting query: `https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/?verify=COMMIT-SHA`.
+3. Confirm a distinctive marker from the new work.
+4. Check nested pages and assets, not only the homepage.
+5. Do not say "live" until those checks pass.
 
-A local preview, commit, pushed branch, open pull request, successful merge, or HTTP 200 response does not by itself prove that the new version is live.
-
-After merge:
-
-1. Wait for the GitHub Pages deployment to finish.
-2. Fetch the public URL with a cache-busting query, for example:
-
-   ```text
-   https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/?verify=COMMIT-SHA
-   ```
-
-3. Confirm a distinctive marker introduced by the new work.
-4. Check relevant nested pages and assets, not only the homepage.
-5. Do not say “live” until those checks pass.
-
-Report these states separately and truthfully:
-
-```text
+Report states separately and truthfully:
+```
 LOCAL ONLY
 COMMITTED LOCALLY
+NOT PUSHED (with blocker)
 PUSHED TO TEMPORARY BRANCH
 PULL REQUEST OPEN
+PR CLOSED (NOT MERGED)
 MERGED INTO MAIN
 PAGES BUILDING
 VERIFIED LIVE
@@ -146,24 +216,18 @@ VERIFIED LIVE
 
 ## 6. Preserve the Somnarak publication standards
 
-The following requirements remain binding:
-
-- Release version remains **1.8.31** unless the owner explicitly changes it.
-- Preserve the verified **197 public HTML files** unless the owner approves a route change.
-- Every public page must contain at least **200 meaningful editorial words**; 200 is a floor, not a target or maximum.
+- Release version remains **1.8.31** unless the owner changes it.
+- Preserve **197 public HTML files** unless the owner approves a route change.
+- Every public page must have at least **200 meaningful editorial words** (a floor, not a target).
 - No page may be plain, generic, filler-driven, or a title/color-swapped template.
-- Read `REFERENCE_SOMNARAK_WIKI/PROJECT_MOON_WIKI_NESTED_PLACEMENT_RESEARCH.md` before changing page placement or information architecture.
-- SVG design must derive from the page’s written content as well as its title.
-- SVGs may be icons, banners, backgrounds, profiles, silhouettes, diagrams, maps, or other page-specific forms.
-- Profiles do not require faces, but every visual must remain personally identifiable to its subject.
-- Recoloring the same SVG composition does not count as personalization.
-- The canonical top bar must match on every public page.
-- The homepage-derived left sidebar must match on every public page.
-- The expanded canonical bottom bar must match on every public page.
-- Shared chrome does not count as a page’s personalized visual treatment.
+- Read `REFERENCE_SOMNARAK_WIKI/PROJECT_MOON_WIKI_NESTED_PLACEMENT_RESEARCH.md` before changing placement or information architecture.
+- SVG design must derive from page content and title; icons/banners/backgrounds/profiles/silhouettes/diagrams/maps allowed.
+- Profiles do not require faces, but every visual must be identifiable to its subject.
+- Recoloring the same SVG does not count as personalization.
+- Canonical top bar, homepage-derived left sidebar, and expanded bottom bar must match on every public page.
+- Shared chrome does not count as a page's personalized visual treatment.
 
-Read the full standards in:
-
+Standards live in:
 - `REFERENCE_SOMNARAK_WIKI/CONTENT_AND_VISUAL_STANDARDS.md`
 - `REFERENCE_SOMNARAK_WIKI/OPERATING_RULES.md`
 - `REFERENCE_SOMNARAK_WIKI/MASTER_HANDOFF_PROTOCOL.md`
@@ -173,8 +237,7 @@ Read the full standards in:
 
 ## 7. Required checks before merge
 
-Run the relevant publication gates from the repository root:
-
+From the repository root:
 ```bash
 python3 tools/audit_page_word_floor.py
 python3 tools/sync_global_top_bar.py
@@ -187,7 +250,7 @@ node --check docs/assets/js/wiki.js
 git diff --check
 ```
 
-For website-wide chrome changes, also serve `docs/` locally and verify all 197 HTML routes return HTTP 200. Perform visual review at desktop and mobile widths when browser tooling is available.
+For website-wide chrome changes, also serve `docs/` locally and confirm all 197 HTML routes return HTTP 200, and visually review desktop + mobile widths when browser tooling is available.
 
 Do not merge known failures. Do not hide failed checks. Do not report local validation as live-site verification.
 
@@ -195,20 +258,19 @@ Do not merge known failures. Do not hide failed checks. Do not report local vali
 
 ## 8. Required completion report
 
-Every future AI must finish with a concise factual report containing:
-
-```text
+Every session must end with a concise factual report:
+```
 Active branch: <name>
 Commit: <full or short SHA>
-Push: <not pushed / pushed>
-Pull request: <none / URL>
+Push: <pushed / NOT PUSHED (state exact blocker)>
+Pull request: <none / URL / CLOSED-NOT-MERGED>
 Merged into main: <yes / no>
 Pages source: <branch:/path or unverified>
 Live verification URL: <URL or not verified>
 Distinctive live marker: <marker or not verified>
-Temporary branch deleted: <yes / no / automatic deletion pending>
+Temporary branch deleted: <yes / no>
 Working tree clean: <yes / no>
 Checks: <passed checks and any failures>
 ```
 
-Never collapse these states into the single word “done.”
+Never collapse these states into the single word "done."
