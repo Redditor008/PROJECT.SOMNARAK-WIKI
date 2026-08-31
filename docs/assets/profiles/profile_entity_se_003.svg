@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
-  <rect width="500" height="500" fill="#031526" stroke="#38bdf8" stroke-width="4"/>
-  <circle cx="250" cy="230" r="160" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="8 4"/>
-  <circle cx="250" cy="230" r="100" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="8 4"/>
-  <polygon points="250,60 270,230 250,400 230,230" fill="#0284c7" stroke="#ffffff" stroke-width="3"/>
-  <circle cx="250" cy="160" r="12" fill="#ffffff"/>
-  <text x="250" y="475" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="bold" text-anchor="middle">SE-003 // THREAD OF MEMORY</text>
-</svg>

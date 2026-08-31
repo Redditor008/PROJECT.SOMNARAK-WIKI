@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
-  <!-- Master Somnarak Diamond Crest -->
-  <polygon points="60,4 116,60 60,116 4,60" fill="#090d16" stroke="#f1df76" stroke-width="4"/>
-  <polygon points="60,14 106,60 60,106 14,60" fill="#05080f" stroke="#38bdf8" stroke-width="2"/>
-  <!-- Central Weeping Core & Sovereign Crown -->
-  <polygon points="60,24 74,48 60,72 46,48" fill="#ef5b55" stroke="#f1df76" stroke-width="2"/>
-  <circle cx="60" cy="48" r="6" fill="#ffffff"/>
-  <path d="M 60,72 L 60,98" stroke="#38bdf8" stroke-width="4" stroke-linecap="round"/>
-</svg>

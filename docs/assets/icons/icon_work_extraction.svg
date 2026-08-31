@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
-  <polygon points="60,6 114,60 60,114 6,60" fill="#082f49" stroke="#38bdf8" stroke-width="4"/>
-  <polygon points="60,16 102,60 60,102 18,60" fill="#021420" stroke="#f1df76" stroke-width="2"/>
-  <!-- Glowing Siphon Crucible & Han Crystal Core -->
-  <polygon points="60,24 88,60 60,96 32,60" fill="#0284c7" stroke="#ffffff" stroke-width="3"/>
-  <polygon points="60,36 76,60 60,84 44,60" fill="#ffffff"/>
-  <circle cx="60" cy="60" r="7" fill="#f1df76"/>
-</svg>
