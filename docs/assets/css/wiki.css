@@ -12041,16 +12041,14 @@ aside.left-rail[data-component="global-left-sidebar"]::after {
 }
 
 aside.left-rail[data-component="global-left-sidebar"] .left-rail-frame {
-  position: sticky;
-  top: 70px;
+  position: static;
   display: flex;
   flex-direction: column;
   width: 100%;
-  max-height: calc(100vh - 84px);
+  max-height: none;
   min-width: 0;
   padding: 11px 10px 13px;
-  overflow-x: hidden;
-  overflow-y: auto;
+  overflow: visible;
 }
 
 aside.left-rail[data-component="global-left-sidebar"] .rail-signal {
@@ -12508,9 +12506,18 @@ body.asset-gallery-page .gallery-main {
 body .tale-main { padding: 24px clamp(18px, 3vw, 46px) 54px !important; }
 
 @media (min-width: 993px) {
+  .wiki-shell,
+  body.hub-page .wiki-shell {
+    grid-template-columns: 220px minmax(0, 1fr) !important;
+  }
   body.home-page .wiki-shell.home-shell,
   body.hub-page .wiki-shell.home-shell {
-    grid-template-columns: minmax(0, 220px) minmax(0, 1fr) minmax(0, 280px) !important;
+    grid-template-columns: 220px minmax(0, 1fr) minmax(0, 280px) !important;
+  }
+  aside.left-rail[data-component="global-left-sidebar"] {
+    width: 220px !important;
+    min-width: 220px !important;
+    max-width: 220px !important;
   }
 }
 
