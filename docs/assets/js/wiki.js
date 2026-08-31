@@ -495,7 +495,7 @@
     // offset) because the left-rail width changes across breakpoints.
     const footer = q('footer.global-footer') || q('footer');
     if (footer) {
-      const GAP = 8;
+      const GAP = 2;
       const LEFT_INSET = 6;
       let ticking = false;
       const updateStick = () => {

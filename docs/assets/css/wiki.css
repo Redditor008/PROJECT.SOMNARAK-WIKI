@@ -13015,16 +13015,17 @@ nav.float-toc {
 }
 
 /* === 2026-09-01 · float-TOC trigger: smaller visual, same big hit box ===
-   The button element keeps a generous transparent hit box (its old full
-   size plus buffer); the visible ribbon is drawn by ::before inset inside
-   it, ~14px narrower and ~38px shorter than the clickable area. */
+   The button element keeps a generous transparent hit box — extended
+   longest at the BOTTOM (34px buffer) so the lower hit edge reaches
+   right up to the top of the lower footer when the widget tracks it —
+   while the visible ribbon is drawn by ::before inset inside it. */
 nav.float-toc .float-toc-trigger,
 nav.float-toc > button {
   position: relative !important;
   background: transparent !important;
   border: 0 !important;
   box-shadow: none !important;
-  padding: 24px 10px !important;
+  padding: 16px 10px 34px 10px !important;
   font-size: 0.62rem !important;
   letter-spacing: 0.1em !important;
   border-radius: 0 !important;
@@ -13033,7 +13034,7 @@ nav.float-toc .float-toc-trigger::before,
 nav.float-toc > button::before {
   content: "";
   position: absolute;
-  inset: 20px 8px;
+  inset: 14px 8px 32px 8px;
   background: #141207;
   border: 1.5px solid #f1df76;
   border-radius: 3px;
@@ -13057,15 +13058,46 @@ nav.float-toc > button:hover::before {
   background: #f1df76;
 }
 
-/* === 2026-09-01 · rail-signal (PUBLIC NETWORK / NODE RD-01) never clips === */
+/* === 2026-09-01 · rail-signal (PUBLIC NETWORK / NODE RD-01) never clips ===
+   The network label truncates (ellipsis) when the rail is too narrow —
+   it can never be overlapped by NODE RD-01, which keeps its full width.
+   (The label must be block-level for text-overflow to apply; the legacy
+   display:flex on the span made ellipsis impossible.) */
+aside.left-rail[data-component="global-left-sidebar"] .rail-signal {
+  overflow: hidden !important;
+}
 aside.left-rail[data-component="global-left-sidebar"] .rail-signal span {
+  display: block !important;
   overflow: hidden !important;
   text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+  flex: 0 1 auto !important;
+  min-width: 0 !important;
+}
+aside.left-rail[data-component="global-left-sidebar"] .rail-signal i {
+  display: inline-block !important;
+  vertical-align: -1px !important;
+  flex: none !important;
+}
+aside.left-rail[data-component="global-left-sidebar"] .rail-signal b {
+  flex: 0 0 auto !important;
 }
 @media (max-width: 1180px) {
   aside.left-rail[data-component="global-left-sidebar"] .rail-signal {
     font-size: 0.42rem !important;
     gap: 5px !important;
     padding: 5px 5px !important;
+  }
+}
+@media (max-width: 1024px) {
+  aside.left-rail[data-component="global-left-sidebar"] .rail-signal {
+    font-size: 0.38rem !important;
+    gap: 4px !important;
+  }
+  aside.left-rail[data-component="global-left-sidebar"] .rail-signal i {
+    width: 5px !important;
+    height: 5px !important;
+    flex-basis: 5px !important;
+    margin-right: 4px !important;
   }
 }
