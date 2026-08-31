@@ -484,26 +484,38 @@
       inPageEls.forEach(h => headingObserver.observe(h));
     }
 
-    // The button should only float over real page content, never over the
-    // lower terminus footer — fade it out while the footer occupies the
-    // viewport, and back in as soon as the footer scrolls away.
+    // Stick at the last rail: instead of hiding when the lower terminus
+    // footer approaches, the widget slides to sit just above the footer's
+    // top edge (the end of the content rail) and, once it reaches the top
+    // bar, stays stuck there — always visible, never overlapping the
+    // footer while there is room in the viewport.
     const footer = q('footer.global-footer') || q('footer');
     if (footer) {
-      const setOverFooter = (over) => floatToc.classList.toggle('float-toc-hidden', over);
-      if (typeof IntersectionObserver !== 'undefined') {
-        const footerObserver = new IntersectionObserver((entries) => {
-          setOverFooter(entries.some(entry => entry.isIntersecting));
-        }, { threshold: 0 });
-        footerObserver.observe(footer);
-      } else {
-        const updateOverFooter = () => {
-          const top = footer.getBoundingClientRect().top;
-          setOverFooter(top < window.innerHeight - 8);
-        };
-        window.addEventListener('scroll', updateOverFooter, { passive: true });
-        window.addEventListener('resize', updateOverFooter, { passive: true });
-        updateOverFooter();
-      }
+      const GAP = 8;
+      let ticking = false;
+      const updateStick = () => {
+        ticking = false;
+        const h = floatToc.offsetHeight || 60;
+        const footerTop = footer.getBoundingClientRect().top;
+        const isNarrow = window.matchMedia
+          ? window.matchMedia('(max-width: 1100px)').matches
+          : window.innerWidth <= 1100;
+        const naturalTop = isNarrow ? window.innerHeight - 18 - h : 86;
+        const stickyTop = footerTop - h - GAP;
+        let top = Math.min(naturalTop, stickyTop);
+        if (top < 86) top = 86;
+        floatToc.style.setProperty('--float-toc-top', top + 'px');
+        floatToc.style.setProperty('--float-toc-bottom', 'auto');
+      };
+      const requestStick = () => {
+        if (!ticking) {
+          ticking = true;
+          requestAnimationFrame(updateStick);
+        }
+      };
+      window.addEventListener('scroll', requestStick, { passive: true });
+      window.addEventListener('resize', requestStick, { passive: true });
+      updateStick();
     }
   }
 

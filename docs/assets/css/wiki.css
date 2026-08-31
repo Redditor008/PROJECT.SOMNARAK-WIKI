@@ -12992,10 +12992,18 @@ nav.float-toc > div {
   }
 }
 
-/* === 2026-09-01 · float-TOC never floats over the terminus footer === */
-nav.float-toc { transition: opacity 0.18s ease, visibility 0.18s ease; }
-nav.float-toc.float-toc-hidden {
-  opacity: 0 !important;
-  visibility: hidden !important;
-  pointer-events: none !important;
+/* === 2026-09-01 · float-TOC sticks at the last rail (content's end) above the lower footer ===
+   --float-toc-top is driven by wiki.js: the widget's natural pin (86px
+   desktop / 18px bottom on narrow screens) until the footer's top edge
+   approaches, then it tracks just above the footer and clamps at the top
+   bar, so it stays stuck and visible instead of hiding. */
+nav.float-toc {
+  top: var(--float-toc-top, 86px) !important;
+  bottom: var(--float-toc-bottom, auto) !important;
+}
+@media (max-width: 1100px) {
+  nav.float-toc {
+    top: var(--float-toc-top, auto) !important;
+    bottom: var(--float-toc-bottom, 18px) !important;
+  }
 }
