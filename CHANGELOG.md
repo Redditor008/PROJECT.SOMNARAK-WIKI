@@ -8,6 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- Added three archive mechanics to the shared footer on all 197 routes: a per-page FILED UNDER filing strip (archive gateway, registry code, source-reference designation/item ID, and Korean name — auto-joined from `REFERENCE_SOMNARAK_WIKI` by the extended `tools/sync_global_bottom_bar.py`, with set-number hard constraints to prevent false provenance joins), a Random Archive action (196-route list generated into `wiki.js` by the new `tools/sync_random_archive.py`), and a last-verified stamp in the publication register.
+- Added the CSS redaction component (`<details class="redaction">`, sealed/unseal labels) with a live redaction-protocol demonstration on the 404 recovery page.
+
 - Added `INSTALL_PERCENTAGE_REPORT.md`: a per-file transfer audit measuring what percentage of each of the 1,861 `REFERENCE_SOMNARAK_WIKI/` source files made it into the published 197-page wiki (unique word 4-gram coverage against the published corpus), with overall and per-group breakdowns.
 
 - Added `CONTENT_AND_VISUAL_STANDARDS.md` as the durable publication gate for page depth, non-generic composition, source-led SVG design, visual-suite scope, silhouette use, and asset uniqueness.

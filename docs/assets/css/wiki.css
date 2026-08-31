@@ -12828,3 +12828,127 @@ body.home-page .rail-action:focus-visible {
 @media print {
   body.home-page .floor-rail { display: none !important; }
 }
+
+/* === 2026-09-01 · Phase 1 archive mechanics: filing strip, random archive action, redaction component === */
+footer.wiki-footer .footer-filed {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 12px;
+  padding: 8px 20px;
+  border-top: 2px solid #6d5a1e;
+  border-bottom: 1px solid #2b3d4d;
+  background:
+    repeating-linear-gradient(-45deg, rgba(245,214,123,.05) 0 8px, rgba(0,0,0,0) 8px 16px),
+    rgba(2,6,10,.85);
+  font: 700 .56rem/1.5 "Courier New", monospace;
+  letter-spacing: .125em;
+  text-transform: uppercase;
+  color: #d8c690;
+}
+footer.wiki-footer .footer-filed-tag {
+  color: #f5d67b;
+  border: 1px solid #6d5a1e;
+  padding: 2px 7px;
+  background: rgba(245,214,123,.08);
+}
+footer.wiki-footer .footer-filed-section {
+  color: #7dd3fc !important;
+  text-decoration: none !important;
+  border-bottom: 1px dotted rgba(125,211,252,.5);
+}
+footer.wiki-footer .footer-filed-section:hover { color: #bae6fd !important; }
+footer.wiki-footer .footer-filed-code {
+  color: #e2e8f0;
+  border: 1px solid #3f4a5a;
+  padding: 2px 7px;
+  background: #071019;
+}
+footer.wiki-footer .footer-filed-src {
+  color: #9aafbf;
+  border: 1px dashed #30485a;
+  padding: 2px 7px;
+  background: rgba(7,16,25,.6);
+}
+footer.wiki-footer .footer-filed-name { color: #d5e0e8; }
+footer.wiki-footer .footer-filed-ko {
+  color: #f0abfc;
+  letter-spacing: .04em;
+  text-transform: none;
+}
+footer.wiki-footer .footer-link-button {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 0;
+  min-height: 67px;
+  padding: 12px 11px 10px 42px;
+  overflow: hidden;
+  text-align: left;
+  color: #d5e0e8 !important;
+  background: #071019;
+  border: 1px dashed #4a3f1c;
+  font: inherit;
+  cursor: pointer;
+  transition: transform .17s ease, border-color .17s ease, background .17s ease;
+}
+footer.wiki-footer .footer-link-button::before {
+  content: attr(data-footer-link);
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 700 .5rem/1 "Courier New", monospace;
+  letter-spacing: .08em;
+  color: #f5d67b;
+  border-right: 1px dashed #4a3f1c;
+  background: rgba(245,214,123,.06);
+}
+footer.wiki-footer .footer-link-button b {
+  font: 700 .72rem/1.2 "Courier New", monospace;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+footer.wiki-footer .footer-link-button small {
+  margin-top: 4px;
+  font: 400 .55rem/1.3 "Courier New", monospace;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: #718799;
+}
+footer.wiki-footer .footer-link-button:hover {
+  transform: translateY(-2px);
+  border-color: #6d5a1e;
+  background: #0a1420;
+}
+details.redaction {
+  margin: 20px 0;
+  border: 1px solid #4a3f1c;
+  background:
+    repeating-linear-gradient(45deg, rgba(245,214,123,.04) 0 10px, rgba(0,0,0,0) 10px 20px),
+    rgba(2,6,10,.6);
+}
+details.redaction summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 14px;
+  cursor: pointer;
+  list-style: none;
+  font: 700 .62rem/1.4 "Courier New", monospace;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: #f5d67b;
+}
+details.redaction summary::-webkit-details-marker { display: none; }
+details.redaction summary:hover { color: #fbe6a3; }
+details.redaction summary .redaction-state { color: #9aafbf; }
+details.redaction[open] summary .redaction-state::before { content: "— "; }
+details.redaction .redaction-body { padding: 4px 14px 14px; color: #c9d1dd; }
+details.redaction .redaction-body p { margin: 8px 0; }
