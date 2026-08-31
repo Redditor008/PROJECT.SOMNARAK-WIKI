@@ -33,6 +33,10 @@ This file records notable changes to the public Somnarak Wiki.
 - Replaced three mislabeled SE-001 artwork copies used for SE-002, SE-005, and SE-010 with the correct subject profiles, and corrected the four reference generators that could restore those bad paths.
 - Repaired 38 malformed legacy SVG files by encoding visible ampersands; with the expanded footer topology, all 1,329 SVG assets now parse as XML.
 
+### Fixed
+
+- Fixed the 404 recovery page so every asset, gateway, and search path resolves from any failed URL. GitHub Pages serves `404.html` at the location of the missing route, so all of its relative paths previously broke for every subdirectory miss (verified live: `/entities/…` misses rendered broken emblems and gateway links). Added a `<base href="/">` root anchor in the page head so the record renders completely at every depth without altering the audited chrome markup.
+
 ## 1.8.31 — 2026-08-31
 
 ### Release summary
