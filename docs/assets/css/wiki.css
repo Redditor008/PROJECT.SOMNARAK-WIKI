@@ -13002,7 +13002,7 @@ nav.float-toc > div {
 nav.float-toc {
   top: var(--float-toc-top, 86px) !important;
   bottom: var(--float-toc-bottom, auto) !important;
-  left: var(--float-toc-left, max(8px, calc((100vw - min(1560px, calc(100vw - 32px))) / 2 + 196px))) !important;
+  left: var(--float-toc-left, max(8px, calc((100vw - min(1560px, calc(100vw - 32px))) / 2 + 226px))) !important;
   right: auto !important;
 }
 @media (max-width: 1100px) {
@@ -13011,5 +13011,61 @@ nav.float-toc {
     bottom: var(--float-toc-bottom, 18px) !important;
     left: var(--float-toc-left, 8px) !important;
     right: auto !important;
+  }
+}
+
+/* === 2026-09-01 · float-TOC trigger: smaller visual, same big hit box ===
+   The button element keeps a generous transparent hit box (its old full
+   size plus buffer); the visible ribbon is drawn by ::before inset inside
+   it, ~14px narrower and ~38px shorter than the clickable area. */
+nav.float-toc .float-toc-trigger,
+nav.float-toc > button {
+  position: relative !important;
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  padding: 24px 10px !important;
+  font-size: 0.62rem !important;
+  letter-spacing: 0.1em !important;
+  border-radius: 0 !important;
+}
+nav.float-toc .float-toc-trigger::before,
+nav.float-toc > button::before {
+  content: "";
+  position: absolute;
+  inset: 20px 8px;
+  background: #141207;
+  border: 1.5px solid #f1df76;
+  border-radius: 3px;
+  box-shadow: 0 8px 18px rgba(0,0,0,0.75);
+  pointer-events: none;
+}
+nav.float-toc .float-toc-trigger .toc-icon,
+nav.float-toc .float-toc-trigger .toc-text,
+nav.float-toc > button span {
+  position: relative;
+  z-index: 1;
+}
+nav.float-toc .float-toc-trigger:hover,
+nav.float-toc > button:hover {
+  background: transparent !important;
+  box-shadow: none !important;
+  color: #111 !important;
+}
+nav.float-toc .float-toc-trigger:hover::before,
+nav.float-toc > button:hover::before {
+  background: #f1df76;
+}
+
+/* === 2026-09-01 · rail-signal (PUBLIC NETWORK / NODE RD-01) never clips === */
+aside.left-rail[data-component="global-left-sidebar"] .rail-signal span {
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+@media (max-width: 1180px) {
+  aside.left-rail[data-component="global-left-sidebar"] .rail-signal {
+    font-size: 0.42rem !important;
+    gap: 5px !important;
+    padding: 5px 5px !important;
   }
 }

@@ -505,11 +505,23 @@
         const isNarrow = window.matchMedia
           ? window.matchMedia('(max-width: 1100px)').matches
           : window.innerWidth <= 1100;
-        const naturalTop = isNarrow ? window.innerHeight - 18 - h : 86;
+        const topBar = q('.utility');
+        const barH = topBar ? (topBar.offsetHeight || 48) : 48;
+        const baseTop = Math.max(86, barH + 14);
+        const naturalTop = isNarrow ? window.innerHeight - 18 - h : baseTop;
         const stickyTop = footerTop - h - GAP;
         const top = Math.min(naturalTop, stickyTop);
         const contentRect = contentArea.getBoundingClientRect();
-        const left = Math.max(8, Math.round(contentRect.left + LEFT_INSET));
+        let left = Math.max(8, Math.round(contentRect.left + LEFT_INSET));
+        // If the left-rail drawer is open (narrow screens), slide the
+        // widget to the right of it so the two never clip each other.
+        const drawer = q('.left-rail');
+        if (drawer && drawer.classList.contains('open')) {
+          const dRect = drawer.getBoundingClientRect();
+          if (dRect.right > 0 && dRect.left < window.innerWidth) {
+            left = Math.max(left, Math.round(dRect.right + 8));
+          }
+        }
         floatToc.style.setProperty('--float-toc-top', Math.round(top) + 'px');
         floatToc.style.setProperty('--float-toc-bottom', 'auto');
         floatToc.style.setProperty('--float-toc-left', left + 'px');
@@ -522,6 +534,8 @@
       };
       window.addEventListener('scroll', requestStick, { passive: true });
       window.addEventListener('resize', requestStick, { passive: true });
+      // The drawer only ever toggles on a click — re-evaluate then too.
+      document.addEventListener('click', requestStick, { passive: true });
       updateStick();
     }
   }
