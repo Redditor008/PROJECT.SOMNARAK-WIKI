@@ -25,10 +25,10 @@
     <circle cx="90" cy="90" r="10" fill="#ffffff"/>
   </g>
 
-  <!-- Typography & Meta -->
+  <!-- Typography &amp; Meta -->
   <text x="360" y="150" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="20" font-weight="bold" letter-spacing="4">[ ARCHIVAL DATABASE DIRECTORY ]</text>
-  <text x="360" y="210" fill="#ffffff" font-family="'JetBrains Mono', monospace" font-size="44" font-weight="bold" letter-spacing="2">BATTLE SYSTEMS & MECHANICS</text>
-  <text x="360" y="260" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="18" font-weight="bold" letter-spacing="1">HAN FLUX, DAMAGE MATRIX & WORK PROTOCOLS</text>
+  <text x="360" y="210" fill="#ffffff" font-family="'JetBrains Mono', monospace" font-size="44" font-weight="bold" letter-spacing="2">BATTLE SYSTEMS &amp; MECHANICS</text>
+  <text x="360" y="260" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="18" font-weight="bold" letter-spacing="1">HAN FLUX, DAMAGE MATRIX &amp; WORK PROTOCOLS</text>
   
   <!-- Bottom Status Bar -->
   <rect x="360" y="290" width="700" height="12" rx="2" fill="#0b1320" stroke="#38bdf8" stroke-width="1"/>

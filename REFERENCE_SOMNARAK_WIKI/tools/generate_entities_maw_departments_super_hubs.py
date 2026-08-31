@@ -179,7 +179,7 @@ ent_hub_html = '''
 
     <div class="archive-portal" style="border: 1px solid #334155; padding: 18px; text-align: left; background: #070d16; border-radius: 4px;">
       <div style="display: flex; gap: 12px; align-items: center; margin-bottom: 8px;">
-        <img src="../assets/art/entities/se-002.svg" style="width: 52px; height: 52px; border-radius: 4px;" alt="">
+        <img src="../assets/art/entities/se-002-profile.svg" style="width: 52px; height: 52px; border-radius: 4px;" alt="">
         <div>
           <a href="se-002-the-grieving-colossus.html" style="color: #f1df76; font-size: 1.05rem; font-family: Impact, sans-serif; text-decoration: none;">SE-002: THE GRIEVING COLOSSUS</a>
           <div style="font-size: 0.72rem; color: #38bdf8;">Risk: <span class="badge" style="background: #082f49; color: #38bdf8;">TETH</span> · RED Damage</div>
@@ -203,7 +203,7 @@ ent_hub_html = '''
 
     <div class="archive-portal" style="border: 1px solid #334155; padding: 18px; text-align: left; background: #070d16; border-radius: 4px;">
       <div style="display: flex; gap: 12px; align-items: center; margin-bottom: 8px;">
-        <img src="../assets/art/entities/se-005.svg" style="width: 52px; height: 52px; border-radius: 4px;" alt="">
+        <img src="../assets/art/entities/se-005-profile.svg" style="width: 52px; height: 52px; border-radius: 4px;" alt="">
         <div>
           <a href="se-005-the-smothering-mother.html" style="color: #f1df76; font-size: 1.05rem; font-family: Impact, sans-serif; text-decoration: none;">SE-005: THE SMOTHERING MOTHER</a>
           <div style="font-size: 0.72rem; color: #38bdf8;">Risk: <span class="badge" style="background: #2e2004; color: #facc15;">HE</span> · RED/WHITE Damage</div>
@@ -227,7 +227,7 @@ ent_hub_html = '''
 
     <div class="archive-portal" style="border: 1px solid #334155; padding: 18px; text-align: left; background: #070d16; border-radius: 4px;">
       <div style="display: flex; gap: 12px; align-items: center; margin-bottom: 8px;">
-        <img src="../assets/art/entities/se-010.svg" style="width: 52px; height: 52px; border-radius: 4px;" alt="">
+        <img src="../assets/art/entities/se-010-profile.svg" style="width: 52px; height: 52px; border-radius: 4px;" alt="">
         <div>
           <a href="se-010-the-convergence.html" style="color: #f1df76; font-size: 1.05rem; font-family: Impact, sans-serif; text-decoration: none;">SE-010: THE CONVERGENCE</a>
           <div style="font-size: 0.72rem; color: #38bdf8;">Risk: <span class="badge" style="background: #3b0707; color: #f87171;">ALEPH</span> · ABSOLUTE PALE</div>

@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 380" role="img" aria-labelledby="title desc">
+  <title id="title">Somnarak archive export route</title>
+  <desc id="desc">A stack of 197 published pages travels along a revision trace into a branch-built repository snapshot and emerges at an offline reader terminal, while the canonical source workspace remains behind a marked editorial boundary.</desc>
+  <defs>
+    <linearGradient id="export-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07101a"/>
+      <stop offset="0.52" stop-color="#10100a"/>
+      <stop offset="1" stop-color="#05080c"/>
+    </linearGradient>
+    <linearGradient id="page-face" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#263d55"/>
+      <stop offset="1" stop-color="#0c1520"/>
+    </linearGradient>
+    <linearGradient id="package-face" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8c661e"/>
+      <stop offset="0.55" stop-color="#3d2a0b"/>
+      <stop offset="1" stop-color="#131006"/>
+    </linearGradient>
+    <pattern id="micro-grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#24374a" stroke-width="1" opacity="0.25"/>
+    </pattern>
+    <marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto">
+      <path d="M0 0L9 4.5L0 9Z" fill="#f1df76"/>
+    </marker>
+    <filter id="route-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="380" rx="8" fill="url(#export-bg)"/>
+  <rect x="1" y="1" width="1398" height="378" rx="8" fill="url(#micro-grid)" stroke="#d69b35" stroke-width="2"/>
+  <path d="M20 52H454L477 28H878" fill="none" stroke="#d69b35" stroke-width="2"/>
+  <text x="24" y="35" fill="#f1df76" font-family="Impact, Arial Narrow, sans-serif" font-size="18" letter-spacing="3">ARCHIVE EXPORT ROUTE</text>
+  <text x="1374" y="35" text-anchor="end" fill="#71efaf" font-family="monospace" font-size="11" letter-spacing="2">RELEASE 1.8.31 // BUILD-FREE DISTRIBUTION</text>
+
+  <!-- Published pages are shown as a physical, counted stack. -->
+  <g transform="translate(56 94)">
+    <path d="M38 16H250L288 54V238H38Z" fill="#05090e" stroke="#3f5b74" stroke-width="2" opacity="0.75"/>
+    <path d="M19 8H231L269 46V230H19Z" fill="#09111b" stroke="#58748c" stroke-width="2"/>
+    <path d="M0 0H212L250 38V222H0Z" fill="url(#page-face)" stroke="#38bdf8" stroke-width="3"/>
+    <path d="M212 0V38H250" fill="#0b1722" stroke="#38bdf8" stroke-width="3"/>
+    <rect x="18" y="20" width="88" height="20" fill="#38bdf8"/>
+    <text x="62" y="34" text-anchor="middle" fill="#061018" font-family="monospace" font-size="10" font-weight="bold">PUBLIC / DOCS</text>
+    <path d="M18 66H210M18 83H177M18 100H222" stroke="#8298aa" stroke-width="5"/>
+    <g fill="none" stroke="#f1df76" stroke-width="2">
+      <rect x="18" y="128" width="60" height="46"/><path d="M88 128H148V174H88ZM158 128H218V174H158Z"/>
+    </g>
+    <text x="18" y="203" fill="#71efaf" font-family="monospace" font-size="12" letter-spacing="2">197 HTML FILES</text>
+    <text x="244" y="248" text-anchor="end" fill="#93a8ba" font-family="monospace" font-size="9">HTML / CSS / JS / ART / SEARCH</text>
+  </g>
+
+  <!-- A single flowing trace ties the public tree to a generated snapshot. -->
+  <path d="M316 199C385 199 387 129 456 129C530 129 515 260 594 260C661 260 649 165 724 165C786 165 791 201 852 201" fill="none" stroke="#152d3f" stroke-width="16"/>
+  <path d="M316 199C385 199 387 129 456 129C530 129 515 260 594 260C661 260 649 165 724 165C786 165 791 201 852 201" fill="none" stroke="#f1df76" stroke-width="3" marker-end="url(#arrow)" filter="url(#route-glow)"/>
+  <g fill="#071018" stroke="#71efaf" stroke-width="2">
+    <circle cx="456" cy="129" r="8"/><circle cx="594" cy="260" r="8"/><circle cx="724" cy="165" r="8"/>
+  </g>
+
+  <!-- Repository branches lock into a revision-built archive cube. -->
+  <g transform="translate(430 73)">
+    <path d="M73 55V0M73 30H152M73 55H27M152 30V88M27 55V113" fill="none" stroke="#38bdf8" stroke-width="3"/>
+    <circle cx="73" cy="0" r="8" fill="#38bdf8"/><circle cx="152" cy="88" r="8" fill="#71efaf"/><circle cx="27" cy="113" r="8" fill="#ef9c61"/>
+    <rect x="49" y="41" width="49" height="28" rx="3" fill="#07111a" stroke="#f1df76" stroke-width="2"/>
+    <text x="73" y="59" text-anchor="middle" fill="#f1df76" font-family="monospace" font-size="9">MAIN</text>
+  </g>
+
+  <g transform="translate(590 92)">
+    <path d="M0 36L92 0L184 36L92 72Z" fill="#9b742a" stroke="#f1df76" stroke-width="3"/>
+    <path d="M0 36V150L92 194V72Z" fill="#2b210e" stroke="#f1df76" stroke-width="3"/>
+    <path d="M184 36V150L92 194V72Z" fill="url(#package-face)" stroke="#f1df76" stroke-width="3"/>
+    <path d="M92 0V72M48 18L139 55" stroke="#fff0a6" stroke-width="2" opacity="0.75"/>
+    <path d="M41 94L72 109V151L41 136Z" fill="#38bdf8" opacity="0.85"/>
+    <path d="M118 104L159 84V125L118 146Z" fill="#071018" stroke="#71efaf" stroke-width="2"/>
+    <text x="92" y="222" text-anchor="middle" fill="#f1df76" font-family="Impact, Arial Narrow, sans-serif" font-size="18" letter-spacing="2">REVISION SNAPSHOT</text>
+    <text x="92" y="238" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9">GENERATED WHEN REQUESTED</text>
+  </g>
+
+  <!-- The extracted snapshot terminates at a local reader, not a cloud runtime. -->
+  <g transform="translate(874 81)">
+    <path d="M0 25H424V247H0Z" fill="#05090e" stroke="#71efaf" stroke-width="3"/>
+    <path d="M16 42H408V221H16Z" fill="#07141a" stroke="#284d52" stroke-width="2"/>
+    <rect x="16" y="42" width="392" height="26" fill="#123239"/>
+    <circle cx="31" cy="55" r="4" fill="#ef7085"/><circle cx="44" cy="55" r="4" fill="#f1df76"/><circle cx="57" cy="55" r="4" fill="#71efaf"/>
+    <text x="393" y="59" text-anchor="end" fill="#9fd8cc" font-family="monospace" font-size="9">LOCAL READER / PORT 8000</text>
+    <path d="M38 92H185V198H38Z" fill="#0d1d28" stroke="#38bdf8" stroke-width="2"/>
+    <path d="M57 111H166M57 129H141M57 147H173" stroke="#7b94aa" stroke-width="4"/>
+    <path d="M57 176H98" stroke="#f1df76" stroke-width="6"/>
+    <path d="M219 110C239 82 259 138 279 110S319 138 339 110S379 138 397 110" fill="none" stroke="#71efaf" stroke-width="3"/>
+    <rect x="219" y="144" width="175" height="35" rx="3" fill="#061016" stroke="#f1df76"/>
+    <text x="307" y="166" text-anchor="middle" fill="#f1df76" font-family="monospace" font-size="11">SEARCH INDEX READY</text>
+    <path d="M185 247L165 278H259L239 247" fill="#101c22" stroke="#71efaf" stroke-width="2"/>
+    <path d="M132 278H292" stroke="#71efaf" stroke-width="6"/>
+    <text x="212" y="309" text-anchor="middle" fill="#71efaf" font-family="Impact, Arial Narrow, sans-serif" font-size="19" letter-spacing="2">OFFLINE READING</text>
+  </g>
+
+  <!-- Canon remains source material behind an explicit editorial boundary. -->
+  <path d="M350 326H830" stroke="#ef7085" stroke-width="2" stroke-dasharray="10 7"/>
+  <path d="M366 314L378 326L366 338M814 314L802 326L814 338" fill="none" stroke="#ef7085" stroke-width="2"/>
+  <text x="590" y="320" text-anchor="middle" fill="#ef9aaa" font-family="monospace" font-size="9" letter-spacing="2">CANON WORKSPACE / EDITORIAL BOUNDARY</text>
+  <text x="590" y="345" text-anchor="middle" fill="#8c7480" font-family="monospace" font-size="9">REFERENCE MATERIAL IS PRESERVED, NOT LOADED AS BROWSER RUNTIME</text>
+
+  <text x="24" y="363" fill="#7f94a5" font-family="monospace" font-size="9" letter-spacing="2">SOURCE → SNAPSHOT → READER</text>
+  <text x="1376" y="363" text-anchor="end" fill="#f1df76" font-family="monospace" font-size="9">NO ACCOUNT // NO APPLICATION BUILD // LOCAL RELATIVE ASSETS</text>
+</svg>

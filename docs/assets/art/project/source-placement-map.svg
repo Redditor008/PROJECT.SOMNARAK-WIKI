@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Somnarak source and nested placement map</title>
+  <desc id="desc">Canonical world, character, entity, and Cycle records pass through source review and nested-placement gates into a smaller set of curated category pages, while generic mass-generated routes are rejected below the publication line.</desc>
+  <defs>
+    <linearGradient id="sm-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071018"/><stop offset=".54" stop-color="#101008"/><stop offset="1" stop-color="#080a0f"/></linearGradient>
+    <pattern id="sm-grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#2c4154" opacity=".27"/></pattern>
+    <marker id="sm-arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9Z" fill="#f1df76"/></marker>
+  </defs>
+  <rect width="1400" height="420" fill="url(#sm-bg)"/><rect width="1400" height="420" fill="url(#sm-grid)"/>
+  <path d="M8 8H1392V412H8Z" fill="none" stroke="#566b7f" stroke-width="2"/>
+  <text x="25" y="34" fill="#38bdf8" font-family="Impact, Arial Narrow, sans-serif" font-size="20" letter-spacing="3">SOURCE → REVIEW → NESTED PLACEMENT → PUBLIC PAGE</text>
+  <text x="1374" y="33" text-anchor="end" fill="#f1df76" font-family="monospace" font-size="10" letter-spacing="2">CURATION MAP / REVISION POLICY</text>
+
+  <!-- Canon begins as differently shaped records, not a pile copied wholesale. -->
+  <g transform="translate(40 72)">
+    <path d="M0 20L20 0H270V72H0Z" fill="#0b1722" stroke="#38bdf8" stroke-width="2"/>
+    <text x="23" y="28" fill="#9ddff8" font-family="monospace" font-size="9">WORLD_REFERENCE</text><text x="23" y="52" fill="#fff" font-family="Impact, Arial Narrow, sans-serif" font-size="17">FACILITY / CITY / HAN</text>
+    <path d="M23 91H293L310 108L293 163H23Z" fill="#131006" stroke="#f1df76" stroke-width="2"/>
+    <text x="43" y="119" fill="#f1df76" font-family="monospace" font-size="9">CHARACTER_WIKI</text><text x="43" y="143" fill="#fff3b0" font-family="Impact, Arial Narrow, sans-serif" font-size="17">NINE ECHO-CORE LEADS</text>
+    <path d="M0 184H251L284 217L251 250H0Z" fill="#170b11" stroke="#ef7085" stroke-width="2"/>
+    <text x="22" y="210" fill="#ef9aaa" font-family="monospace" font-size="9">ENTITY / M.A.W. CODEX</text><text x="22" y="235" fill="#f7e6eb" font-family="Impact, Arial Narrow, sans-serif" font-size="17">A / B / C / D RECORDS</text>
+    <path d="M42 272L68 255H305L329 279V329H42Z" fill="#100f1c" stroke="#c084fc" stroke-width="2"/>
+    <text x="65" y="294" fill="#d8b4fe" font-family="monospace" font-size="9">ABSOLVOHAN / DAILY RECORDS</text><text x="65" y="316" fill="#eee5f5" font-family="Impact, Arial Narrow, sans-serif" font-size="16">CYCLE CHRONOLOGY</text>
+    <text x="3" y="353" fill="#7f94a5" font-family="monospace" font-size="9">CANONICAL SOURCE WORKSPACE</text>
+  </g>
+
+  <!-- The restart gate prevents a filename from automatically becoming a page. -->
+  <path d="M389 54V365" stroke="#ef5b55" stroke-width="8"/>
+  <path d="M376 82H402M376 137H402M376 192H402M376 247H402M376 302H402M376 357H402" stroke="#ef5b55" stroke-width="2"/>
+  <g transform="translate(348 167)">
+    <path d="M0 0H82V62H0Z" fill="#1a090e" stroke="#ef7085" stroke-width="2"/>
+    <path d="M13 14L69 48M69 14L13 48" stroke="#ef5b55" stroke-width="7"/>
+  </g>
+  <text x="370" y="386" text-anchor="middle" fill="#ef7085" font-family="monospace" font-size="9">RESTART / NO AUTO-ROUTES</text>
+
+  <!-- Three gates make source reading, placement, and quality visible. -->
+  <g transform="translate(438 69)">
+    <path d="M0 0H235L258 24V102L235 126H0Z" fill="#0a141e" stroke="#38bdf8" stroke-width="3"/>
+    <text x="20" y="25" fill="#38bdf8" font-family="monospace" font-size="9">GATE 01 / READ</text>
+    <path d="M22 43H96V100H22Z" fill="#071018" stroke="#9ddff8"/>
+    <path d="M34 56H84M34 68H77M34 80H87" stroke="#9ddff8" stroke-width="3"/>
+    <text x="115" y="64" fill="#fff" font-family="Impact, Arial Narrow, sans-serif" font-size="18">FULL SOURCE</text>
+    <text x="115" y="86" fill="#9cb0c0" font-family="monospace" font-size="8">NOT TITLE / FILENAME</text>
+  </g>
+  <g transform="translate(487 186)">
+    <path d="M0 20L20 0H279V135H0Z" fill="#131106" stroke="#f1df76" stroke-width="3"/>
+    <text x="22" y="28" fill="#f1df76" font-family="monospace" font-size="9">GATE 02 / PLACE</text>
+    <g transform="translate(23 48)" fill="#0a0d12" stroke="#f1df76"><path d="M0 0H72V63H0Z"/><path d="M86 0H158V29H86Z"/><path d="M86 34H158V63H86Z"/></g>
+    <path d="M181 53H249M181 75H233M181 97H258" stroke="#756c38" stroke-width="5"/>
+    <text x="22" y="122" fill="#fff3b0" font-family="Impact, Arial Narrow, sans-serif" font-size="17">NESTED CATEGORY / ONE FITTING PAGE</text>
+  </g>
+  <g transform="translate(739 101)">
+    <path d="M0 0H247V199L211 235H0Z" fill="#08130f" stroke="#71efaf" stroke-width="3"/>
+    <path d="M211 199H247L211 235Z" fill="#173b2d"/>
+    <text x="20" y="27" fill="#71efaf" font-family="monospace" font-size="9">GATE 03 / PUBLISH</text>
+    <circle cx="65" cy="82" r="38" fill="#071018" stroke="#71efaf" stroke-width="3"/>
+    <text x="65" y="89" text-anchor="middle" fill="#71efaf" font-family="Impact, Arial Narrow, sans-serif" font-size="25">200+</text>
+    <path d="M124 52H222M124 72H210M124 92H228" stroke="#8aa99c" stroke-width="5"/>
+    <text x="124" y="118" fill="#d1fae5" font-family="monospace" font-size="9">MEANINGFUL WORDS</text>
+    <path d="M22 147H225V203H22Z" fill="#0b1118" stroke="#38bdf8"/>
+    <path d="M40 186L63 158L88 183L112 166L142 191L176 155L210 186" fill="none" stroke="#38bdf8" stroke-width="3"/>
+    <text x="123" y="222" text-anchor="middle" fill="#9ddff8" font-family="monospace" font-size="8">PAGE-SPECIFIC VISUAL BRIEF</text>
+  </g>
+
+  <g fill="none" stroke="#f1df76" stroke-width="3" marker-end="url(#sm-arrow)">
+    <path d="M402 137H432"/><path d="M402 245H475"/><path d="M676 132C709 132 705 177 736 177"/><path d="M681 253H731"/><path d="M990 218H1044"/>
+  </g>
+
+  <!-- The output is a smaller, nested public tree with category-shaped branches. -->
+  <g transform="translate(1055 62)">
+    <path d="M105 0V55M105 55H15M105 55H195M105 55V123" fill="none" stroke="#38bdf8" stroke-width="4"/>
+    <path d="M0 73H91V135H0Z" fill="#0b141e" stroke="#38bdf8" stroke-width="2"/>
+    <path d="M119 73H210V135H119Z" fill="#171006" stroke="#f1df76" stroke-width="2"/>
+    <path d="M59 152H151V214H59Z" fill="#160b11" stroke="#ef7085" stroke-width="2"/>
+    <text x="45" y="99" text-anchor="middle" fill="#9ddff8" font-family="monospace" font-size="9">CATEGORY</text><text x="45" y="119" text-anchor="middle" fill="#fff" font-family="Impact, Arial Narrow, sans-serif" font-size="15">FACILITY</text>
+    <text x="164" y="99" text-anchor="middle" fill="#f1df76" font-family="monospace" font-size="9">CATEGORY</text><text x="164" y="119" text-anchor="middle" fill="#fff" font-family="Impact, Arial Narrow, sans-serif" font-size="15">LORE</text>
+    <text x="105" y="178" text-anchor="middle" fill="#ef9aaa" font-family="monospace" font-size="9">CATEGORY</text><text x="105" y="198" text-anchor="middle" fill="#fff" font-family="Impact, Arial Narrow, sans-serif" font-size="15">ENTITY</text>
+    <path d="M15 135V249M195 135V249M105 214V249M15 249H195" fill="none" stroke="#64748b" stroke-width="2"/>
+    <g fill="#0a0d12" stroke="#71efaf"><rect x="0" y="249" width="59" height="38"/><rect x="76" y="249" width="59" height="38"/><rect x="152" y="249" width="59" height="38"/></g>
+    <text x="29" y="273" text-anchor="middle" fill="#71efaf" font-family="monospace" font-size="8">ARTICLE</text><text x="105" y="273" text-anchor="middle" fill="#71efaf" font-family="monospace" font-size="8">HUB</text><text x="181" y="273" text-anchor="middle" fill="#71efaf" font-family="monospace" font-size="8">MAP</text>
+    <text x="105" y="315" text-anchor="middle" fill="#d1fae5" font-family="Impact, Arial Narrow, sans-serif" font-size="18" letter-spacing="2">CURATED PUBLIC TREE</text>
+  </g>
+
+  <!-- Rejected mass generation falls below the publication line. -->
+  <path d="M424 380H1030" stroke="#ef5b55" stroke-width="2" stroke-dasharray="9 6"/>
+  <g transform="translate(524 350)" opacity=".68">
+    <path d="M0 0H63V45H0ZM77 0H140V45H77ZM154 0H217V45H154ZM231 0H294V45H231ZM308 0H371V45H308" fill="#15090e" stroke="#ef5b55"/>
+    <path d="M-8-8L382 54M382-8L-8 54" stroke="#ef5b55" stroke-width="6"/>
+  </g>
+  <text x="715" y="416" text-anchor="middle" fill="#ef7085" font-family="monospace" font-size="9">REJECTED: GENERIC STUB FAN-OUT / UNRELATED SOURCE DUMP / CHROME-ONLY PAGE</text>
+</svg>

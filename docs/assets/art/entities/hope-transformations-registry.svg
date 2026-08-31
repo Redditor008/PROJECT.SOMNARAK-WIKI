@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Fourteen Hope Transformation bonds</title>
+  <desc id="desc">A dark sorrow core remains visible inside a radiant Hand of Hope, whose twelve bearer rays carry distinct functions and whose two larger Sovereign nodes mark the Trinity of Dawn and Hand of Hope.</desc>
+  <defs>
+    <linearGradient id="ht-bg" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#09080d"/><stop offset=".5" stop-color="#161207"/><stop offset="1" stop-color="#071018"/></linearGradient>
+    <radialGradient id="ht-dawn" cx="50%" cy="50%" r="50%"><stop stop-color="#fff3b0" stop-opacity=".65"/><stop offset=".35" stop-color="#f1df76" stop-opacity=".25"/><stop offset="1" stop-color="#f1df76" stop-opacity="0"/></radialGradient>
+    <linearGradient id="ht-ray" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f1df76"/><stop offset="1" stop-color="#71efaf"/></linearGradient>
+    <filter id="ht-glow"><feGaussianBlur stdDeviation="5" result="g"/><feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1400" height="420" fill="url(#ht-bg)"/>
+  <path d="M8 8H1392V412H8Z" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="706" cy="218" r="200" fill="url(#ht-dawn)"/>
+  <text x="26" y="35" fill="#f1df76" font-family="Impact, Arial Narrow, sans-serif" font-size="20" letter-spacing="3">HOPE TRANSFORMATIONS / FOURTEEN BONDED FUNCTIONS</text>
+  <text x="1374" y="34" text-anchor="end" fill="#71efaf" font-family="monospace" font-size="10" letter-spacing="2">SORROW MADE USABLE / NEVER ERASED</text>
+
+  <!-- The palm encloses, but does not delete, the original sorrow core. -->
+  <g transform="translate(706 218)">
+    <path d="M-88 47C-116 3-103-46-66-62L-66-155C-66-177-39-178-35-157L-27-84L-9-180C-5-203 23-201 25-178L27-83L51-163C57-183 82-176 80-155L69-70L96-124C105-143 129-130 122-110L96-30C129 1 126 53 99 91C58 149-56 143-88 47Z" fill="#3c3410" stroke="#f1df76" stroke-width="5"/>
+    <path d="M-62 3C-27-16 23-13 63 14M-49 43C-6 24 36 29 72 54" fill="none" stroke="#fff3b0" stroke-width="3" opacity=".7"/>
+    <circle cy="31" r="43" fill="#08080d" stroke="#ef7085" stroke-width="4"/>
+    <path d="M-7 0L10 23L-4 42L12 65" fill="none" stroke="#ef5b55" stroke-width="4"/>
+    <text y="105" text-anchor="middle" fill="#fff3b0" font-family="monospace" font-size="9">ORIGINAL GRIEF REMAINS</text>
+  </g>
+
+  <!-- Twelve bonded rays differ in symbol and function, arranged as a dawn arc. -->
+  <g fill="#0a0e13" stroke="url(#ht-ray)" stroke-width="3" font-family="monospace" font-size="8" text-anchor="middle">
+    <g transform="translate(143 248)"><path d="M0 0L55-25L83 21L28 50Z"/><path d="M28 25L55 0M38 8L57 20" stroke="#f1df76"/><text x="42" y="69" fill="#f1df76">HT-001 / LIGHT</text></g>
+    <g transform="translate(194 149)"><path d="M0 25L38 0L76 25L64 70H12Z"/><path d="M38 13V55M20 31H56" stroke="#71efaf"/><text x="38" y="88" fill="#f1df76">HT-002 / SHIELD</text></g>
+    <g transform="translate(283 76)"><path d="M35 0C64 31 69 53 35 80C1 53 6 31 35 0Z"/><path d="M35 24C48 42 48 53 35 64" stroke="#ef9c61"/><text x="35" y="98" fill="#f1df76">HT-003 / GENTLE FLAME</text></g>
+    <g transform="translate(394 43)"><circle cx="36" cy="36" r="34"/><path d="M10 36H62M36 10V62M18 18L54 54M54 18L18 54" stroke="#f1df76"/><text x="36" y="89" fill="#f1df76">HT-004 / REUNITE</text></g>
+    <g transform="translate(518 53)"><path d="M5 70L34 0L62 70L34 56Z"/><path d="M34 17V49" stroke="#ef5b55"/><text x="34" y="88" fill="#f1df76">HT-005 / DEFIANT</text></g>
+    <g transform="translate(622 29)"><path d="M5 29C5 4 37-5 47 17C57-5 89 4 89 29C89 57 47 77 47 77C47 77 5 57 5 29Z"/><path d="M25 30H69" stroke="#ef9c61"/><text x="47" y="97" fill="#f1df76">HT-006 / WARMTH</text></g>
+    <g transform="translate(733 31)"><path d="M45 0L84 23V70L45 94L6 70V23Z"/><path d="M45 15V80M20 47H70" stroke="#9ddff8"/><text x="45" y="113" fill="#f1df76">HT-007 / VIGIL</text></g>
+    <g transform="translate(855 53)"><path d="M35 0C49 22 67 33 67 53C67 75 53 88 35 88C17 88 3 75 3 53C3 33 21 22 35 0Z"/><path d="M19 53H51M35 37V69" stroke="#71efaf"/><text x="35" y="106" fill="#f1df76">HT-008 / HEAL</text></g>
+    <g transform="translate(960 47)"><path d="M4 75C12 38 31 43 35 0C70 31 78 63 57 83C40 99 14 94 4 75Z"/><path d="M28 72C27 53 42 49 43 31" stroke="#ef5b55"/><text x="36" y="111" fill="#f1df76">HT-009 / BURNING</text></g>
+    <g transform="translate(1057 87)"><path d="M0 12L27 0L54 12V75L27 87L0 75Z"/><path d="M12 24H42V62H12ZM18 31H36M18 41H36M18 51H31" stroke="#c084fc"/><text x="27" y="105" fill="#f1df76">HT-010 / MEMORY</text></g>
+    <g transform="translate(1142 157)"><path d="M0 0H72L60 65C57 82 15 82 12 65Z"/><path d="M12 37H60M36 7V68" stroke="#38bdf8"/><text x="36" y="101" fill="#f1df76">HT-011 / SHARED GLASS</text></g>
+    <g transform="translate(1191 252)"><path d="M36 0L66 18V61L36 89L6 61V18Z"/><circle cx="36" cy="38" r="10" stroke="#fff"/><path d="M36 48V70" stroke="#fff"/><text x="36" y="108" fill="#f1df76">HT-012 / WITNESS</text></g>
+  </g>
+
+  <!-- Fine lines make each bearer bond visibly terminate at the same preserved core. -->
+  <g fill="none" stroke="#f1df76" stroke-width="1.5" opacity=".55">
+    <path d="M226 262C366 250 468 240 660 225"/><path d="M270 190C394 196 504 206 660 218"/><path d="M352 145C459 166 541 190 663 211"/><path d="M466 115C532 150 590 184 666 207"/>
+    <path d="M580 126C609 162 638 188 673 201"/><path d="M669 121C676 155 685 178 689 194"/>
+    <path d="M778 125C759 159 741 182 725 199"/><path d="M923 141C849 168 789 190 746 211"/>
+    <path d="M1027 151C915 177 822 200 750 218"/><path d="M1084 174C951 194 847 211 751 224"/>
+    <path d="M1178 222C1024 224 892 228 752 230"/><path d="M1227 277C1054 258 912 243 748 236"/>
+  </g>
+
+  <!-- Sovereign phenomena are larger and not presented as ordinary bearer cards. -->
+  <g transform="translate(111 318)">
+    <path d="M0 0H346L371 25L346 50H0Z" fill="#131006" stroke="#f1df76" stroke-width="3"/>
+    <circle cx="31" cy="25" r="14" fill="#f1df76"/><path d="M25 25H37M31 19V31" stroke="#171307" stroke-width="2"/>
+    <text x="58" y="22" fill="#fff3b0" font-family="Impact, Arial Narrow, sans-serif" font-size="17">HT-V-HC-001 / TRINITY OF DAWN</text>
+    <text x="58" y="39" fill="#a79b61" font-family="monospace" font-size="8">SOVEREIGN HOPE-CONVERGENCE</text>
+  </g>
+  <g transform="translate(920 318)">
+    <path d="M25 0H368V50H25L0 25Z" fill="#07130f" stroke="#71efaf" stroke-width="3"/>
+    <path d="M41 34C31 23 37 11 50 12V3C50-3 58-3 59 3V12C67 4 77 11 73 20C84 18 89 30 80 38C70 48 50 47 41 34Z" fill="#244e3d" stroke="#71efaf" stroke-width="2"/>
+    <text x="95" y="22" fill="#d1fae5" font-family="Impact, Arial Narrow, sans-serif" font-size="17">HT-V-HH-001 / HAND OF HOPE</text>
+    <text x="95" y="39" fill="#78aa94" font-family="monospace" font-size="8">SOVEREIGN TRANSFORMATION SOURCE</text>
+  </g>
+  <text x="700" y="402" text-anchor="middle" fill="#ef9aaa" font-family="monospace" font-size="9" letter-spacing="2">NOT A SORROW ENTITY / NOT IMMORTAL BY SECC / NO M.A.W. EXTRACTION</text>
+</svg>

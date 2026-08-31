@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Unregistered Rust Halberd source-gap docket</title>
+  <desc id="desc">A registry rail jumps from SE-003 to SE-005 over an empty SE-004 drawer, where a corroding dashed halberd blueprint is quarantined pending a canonical donor file.</desc>
+  <defs>
+    <linearGradient id="rh-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11130f"/><stop offset="1" stop-color="#07090d"/></linearGradient>
+    <pattern id="rh-rust" width="46" height="46" patternUnits="userSpaceOnUse"><circle cx="7" cy="13" r="2" fill="#9a4f2b" opacity=".35"/><circle cx="34" cy="31" r="3" fill="#71351f" opacity=".25"/></pattern>
+  </defs>
+  <rect width="1200" height="340" fill="url(#rh-bg)"/><rect width="1200" height="340" fill="url(#rh-rust)"/>
+  <path d="M10 10H1190V330H10Z" fill="none" stroke="#9a6a4a" stroke-width="2"/>
+  <text x="26" y="34" fill="#d38b5d" font-family="monospace" font-size="10" letter-spacing="2">CODEX_SET REGISTRY // DONOR CONTINUITY CHECK</text>
+  <!-- Folder rail makes the absent 004 source visible. -->
+  <path d="M58 93H1140" stroke="#64748b" stroke-width="8"/>
+  <g font-family="Impact, Arial Narrow, sans-serif" text-anchor="middle">
+    <g transform="translate(78 55)"><path d="M0 16H190V92H0Z" fill="#0b141d" stroke="#38bdf8" stroke-width="2"/><path d="M15 0H82L99 16H15Z" fill="#123347"/><text x="95" y="61" fill="#9ddff8" font-size="27">SE-003</text></g>
+    <g transform="translate(310 42)"><path d="M0 16H258V118H0Z" fill="#160c09" stroke="#ef5b55" stroke-width="4" stroke-dasharray="12 6"/><path d="M20 0H102L121 16H20Z" fill="#522515"/><text x="129" y="55" fill="#ef9c61" font-size="24">SE-004 / SOURCE GAP</text><text x="129" y="83" fill="#ef7085" font-family="monospace" font-size="10">NO A / B / C / D FILES</text></g>
+    <g transform="translate(610 55)"><path d="M0 16H190V92H0Z" fill="#111507" stroke="#f1df76" stroke-width="2"/><path d="M15 0H82L99 16H15Z" fill="#453c0b"/><text x="95" y="61" fill="#f1df76" font-size="27">SE-005</text></g>
+  </g>
+  <path d="M864 71H1125" stroke="#94a3b8" stroke-width="2" stroke-dasharray="8 5"/>
+  <text x="1128" y="76" fill="#94a3b8" font-family="monospace" font-size="9">REGISTRY CONTINUES</text>
+  <!-- A halberd-shaped drafting ghost remains inside the empty drawer. -->
+  <g transform="translate(272 160)">
+    <path d="M160 129L548 13" stroke="#9ca3af" stroke-width="9" stroke-dasharray="18 10"/>
+    <path d="M513 25L592 0L565 49L610 69L536 79L510 44Z" fill="none" stroke="#d06b3c" stroke-width="5" stroke-dasharray="10 7"/>
+    <path d="M153 115L183 144M145 129L168 153" stroke="#9ca3af" stroke-width="7"/>
+    <g fill="#b4532a"><circle cx="412" cy="55" r="5"/><circle cx="476" cy="38" r="4"/><circle cx="342" cy="80" r="3"/></g>
+    <path d="M275 10L451 138M451 10L275 138" stroke="#ef5b55" stroke-width="10" opacity=".82"/>
+    <text x="362" y="128" text-anchor="middle" fill="#ef7085" font-family="Impact, Arial Narrow, sans-serif" font-size="22" letter-spacing="4">UNREGISTERED SILHOUETTE</text>
+  </g>
+  <g transform="translate(35 205)">
+    <path d="M0 0H232V82H0Z" fill="#0a0d0e" stroke="#d06b3c" stroke-width="2"/>
+    <text x="16" y="22" fill="#ef9c61" font-family="monospace" font-size="9">HOLDING RECORD</text>
+    <text x="16" y="48" fill="#f3e4d8" font-family="Impact, Arial Narrow, sans-serif" font-size="20">NO FORGE RECIPE</text>
+    <text x="16" y="67" fill="#9c8477" font-family="monospace" font-size="8">NO DAMAGE / COST / STAT GATE</text>
+  </g>
+  <rect x="837" y="244" width="328" height="52" fill="#170a0d" stroke="#ef5b55" stroke-width="3"/>
+  <text x="1001" y="267" text-anchor="middle" fill="#ef7085" font-family="monospace" font-size="10">DO NOT ISSUE FROM FLOOR 2</text>
+  <text x="1001" y="287" text-anchor="middle" fill="#fff" font-family="Impact, Arial Narrow, sans-serif" font-size="17">WAIT FOR A CANONICAL SOURCE FILE</text>
+  <text x="25" y="322" fill="#d38b5d" font-family="monospace" font-size="10">MAW-W-004 / RUST HALBERD — URL RETAINED, EQUIPMENT NOT CERTIFIED</text>
+</svg>

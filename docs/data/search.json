@@ -161,11 +161,32 @@
     "keywords": "SED-01 — Cartographer Yeonhwa (Yeonhwa) — Somnarak Official Wiki Characters characters DATABASE HUBS FIELD OPERATIVES & FACTIONS SED-01 — Cartographer Yeonhwa (Yeonhwa) 1. Overview 2. Canonical Appearance & True Look 3. Role and Station 4. Sorrow & Manifestation 5. Historical Background & Operations 6. Equipment & Armament 7. Canonical Voice & Transmission 8. Lore References SED-01 // CARTOGRAPHER YEONHWA R.D. Core Attributes Equipment Registry"
   },
   {
+    "url": "departments/agent-assignment.html",
+    "title": "Agent Assignment",
+    "description": "Facility-wide personnel placement by Resilience, Clarity, Composure, Resolve — floors, entity rules, rotation. Not a Floor 1 dump.",
+    "keywords": "Agent Assignment Resilience Clarity Composure Resolve floors Echo-Cores rotation",
+    "type": "article"
+  },
+  {
     "title": "Echo-Core Resonant Meltdown & Suppression Guidelines — Somnarak Official Wiki",
     "url": "departments/core-suppression-guidelines.html",
     "category": "Hand of Change",
     "description": "",
     "keywords": "Echo-Core Resonant Meltdown & Suppression Guidelines — Somnarak Official Wiki Hand of Change departments DATABASE HUBS FACILITY DIRECTIVES Echo-Core Resonant Meltdown & Suppression Guidelines 1. Echo-Core Meltdown Phenomenon 2. Department Debuffs During Core Meltdown"
+  },
+  {
+    "title": "Daily Cycle — Somnarak Wiki",
+    "url": "departments/daily-cycle.html",
+    "category": "Facility 01",
+    "description": "Facility 01 operating rhythm, work phases, quota review, incidents, and post-Cycle daily procedure.",
+    "keywords": "Daily Cycle Facility 01 Hand of Change operating rhythm work phases quota review assignment containment incident post-Cycle procedure"
+  },
+  {
+    "url": "departments/daily-missions.html",
+    "title": "Daily Missions",
+    "description": "Catalog of each floor’s daily work and Han-Energy quotas, cross-field jobs, failure. Per-floor tables stay on the floor pages.",
+    "keywords": "Daily missions floors quota Han-Energy Maw Keep Border Watch Gate cross-field",
+    "type": "article"
   },
   {
     "title": "Facility-Wide Meltdown & Resonance Alarm Procedures — Somnarak Official Wiki",
@@ -180,6 +201,13 @@
     "category": "Hand of Change",
     "description": "",
     "keywords": "Facility Architecture & Room Types — Somnarak Official Wiki Hand of Change departments DATABASE HUBS THE NINE ECHO-CORES CARTOGRAPHY & SCHEMATICS Facility Architecture & Room Types Overview Overview Universal Room Types Floor 1: Neutral — Room Types Floor 2: The Maw's Keep — Room Types Floor 3: The Extraction Hall — Room Types Floor 4: The Insight Forge — Room Types Floor 5: The Border Watch — Room Types Floor 6: The Deep Vault — Room Types Floor 7: The Shadow Corps — Room Types Floor 8: The Gate Watch — Room Types Room Interaction Overview The Palm (Floors 1-3) The Fingers and Wing (Floors 4-8) The Hand — Summary"
+  },
+  {
+    "url": "departments/facility-upgrades.html",
+    "title": "Facility Upgrades",
+    "description": "Hand of Change growth — categories, process, example costs, Facility Level 1–5, freeze during Meltdown and Tide Watch.",
+    "keywords": "Facility upgrades Hand of Change cells gauges Architects Meltdown Facility Level",
+    "type": "article"
   },
   {
     "title": "Floor 1: Neutral Command — Somnarak Official Wiki",
@@ -252,11 +280,130 @@
     "keywords": "Facility Departments & Floors Hub - Somnarak Official Wiki Hand of Change departments /// THE EIGHT FACILITY FLOORS & TECHNICAL ARCHIVES NEUTRAL COMMAND MAW'S KEEP EXTRACTION HALL INSIGHT FORGE BORDER WATCH DEEP VAULT SHADOW CORPS GATE WATCH FACILITY ROOM TYPES INCIDENT REPORTS ARCHIVE /// FACILITY 01 STRUCTURAL BLUEPRINT & SUBTERRANEAN HIERARCHY"
   },
   {
-    "title": "Download Center & Archives — Somnarak Official Wiki",
+    "url": "departments/research-observation.html",
+    "title": "Research and Observation",
+    "description": "R.D. observation levels 0–4, Observation Points, research projects, ledger, risks. Facility-wide, not a Floor 4 dump.",
+    "keywords": "Observation Level research Insight Forge Work Types SECC OP Ayshuk",
+    "type": "article"
+  },
+  {
+    "title": "Archive Download Center — Somnarak Wiki",
     "url": "downloads.html",
-    "category": "Main Canon",
-    "description": "",
-    "keywords": "Download Center & Archives — Somnarak Official Wiki Main Canon main /// ARCHIVE DOWNLOAD CENTER 01_SOMNARAK_WIKI.ZIP SOMNARAK_WIKI_ICONS.ZIP FACILITY_&_CITY_MAPS.ZIP FOR_WIKI_SOURCE_CORPUS.ZIP COMPARATIVE_WIKI_RESEARCH.ZIP"
+    "category": "Project",
+    "description": "Download the current repository snapshot, browse the canon workspace, and follow verified offline-reading instructions.",
+    "keywords": "Archive Download Center release 1.8.31 repository snapshot offline reading docs public encyclopedia canon workspace GitHub distribution source to reader"
+  },
+  {
+    "title": "Entity Groups and Transformation Chains",
+    "url": "entities/entity-groups-and-chains.html",
+    "category": "Sorrow Entities",
+    "description": "Linked Sorrow sets and evolution chains.",
+    "keywords": "Entity Groups and Transformation Chains Sorrow Entities Linked Sorrow sets and evolution chains."
+  },
+  {
+    "title": "Hope Transformations",
+    "url": "entities/hope-transformations.html",
+    "category": "Hope Transformations",
+    "description": "Fourteen Hope entities bonded to Dawn Initiative bearers.",
+    "keywords": "Hope Transformations Hope Transformations Fourteen Hope entities bonded to Dawn Initiative bearers."
+  },
+  {
+    "title": "The Guiding Light — 인도의 빛",
+    "url": "entities/ht-001-the-guiding-light.html",
+    "category": "Hope Transformations",
+    "description": "The Guiding Light is a small golden orb, approximately the size of a human heart. Its surface is neither glass nor crystal. It resembles a drop of dawn suspended in air, with thin lines of light moving through it like ro",
+    "keywords": "The Guiding Light — 인도의 빛 Hope Transformations The Guiding Light is a small golden orb, approximately the size of a human heart. Its surface is neither glass nor crystal. It resembles a drop of dawn suspended in air, with thin "
+  },
+  {
+    "title": "The Shield of Dawn — 새벽의 방패",
+    "url": "entities/ht-002-the-shield-of-dawn.html",
+    "category": "Hope Transformations",
+    "description": "The Shield of Dawn is a compact golden shield that usually rests against Taeho’s left forearm as a warm, luminous mark. When activated, it unfolds into a broad round shield made of layered gold, silver, and translucent H",
+    "keywords": "The Shield of Dawn — 새벽의 방패 Hope Transformations The Shield of Dawn is a compact golden shield that usually rests against Taeho’s left forearm as a warm, luminous mark. When activated, it unfolds into a broad round shield made of"
+  },
+  {
+    "title": "The Gentle Flame — 온화한 불꽃",
+    "url": "entities/ht-003-the-gentle-flame.html",
+    "category": "Hope Transformations",
+    "description": "The Gentle Flame is a small golden flame that floats above Sooah’s open palm. It has no smoke and produces no ordinary heat. Its outer edge is amber, its center is white, and a faint blue ring appears whenever it is trea",
+    "keywords": "The Gentle Flame — 온화한 불꽃 Hope Transformations The Gentle Flame is a small golden flame that floats above Sooah’s open palm. It has no smoke and produces no ordinary heat. Its outer edge is amber, its center is white, and a fai"
+  },
+  {
+    "title": "The Reuniting Spark — 재회의 불꽃",
+    "url": "entities/ht-004-the-reuniting-spark.html",
+    "category": "Hope Transformations",
+    "description": "The Reuniting Spark is a bright golden spark that moves in short, eager arcs around Duri. It resembles a firefly made from a fragment of a broken star. When still, it rests against Duri’s fingertips. When searching, it l",
+    "keywords": "The Reuniting Spark — 재회의 불꽃 Hope Transformations The Reuniting Spark is a bright golden spark that moves in short, eager arcs around Duri. It resembles a firefly made from a fragment of a broken star. When still, it rests against"
+  },
+  {
+    "title": "The Defiant Ember — 저항의 불씨",
+    "url": "entities/ht-005-the-defiant-ember.html",
+    "category": "Hope Transformations",
+    "description": "The Defiant Ember is a small orange-gold coal that floats just behind Sero’s sternum or rests between their fingers. It is never fully extinguished. Its surface contains tiny black veins, like the remains of a burned con",
+    "keywords": "The Defiant Ember — 저항의 불씨 Hope Transformations The Defiant Ember is a small orange-gold coal that floats just behind Sero’s sternum or rests between their fingers. It is never fully extinguished. Its surface contains tiny black"
+  },
+  {
+    "title": "The Eternal Warmth — 영원한 온기",
+    "url": "entities/ht-006-the-eternal-warmth.html",
+    "category": "Hope Transformations",
+    "description": "The Eternal Warmth appears as a small golden radiance near Sarang’s pendant. It has no fixed body, but sometimes forms the outline of two hands around a cup, a shoulder, or a sleeping person. Its light is amber and soft,",
+    "keywords": "The Eternal Warmth — 영원한 온기 Hope Transformations The Eternal Warmth appears as a small golden radiance near Sarang’s pendant. It has no fixed body, but sometimes forms the outline of two hands around a cup, a shoulder, or a sleep"
+  },
+  {
+    "title": "The Silent Vigil — 침묵의 경계",
+    "url": "entities/ht-007-the-silent-vigil.html",
+    "category": "Hope Transformations",
+    "description": "The Silent Vigil is a small golden light that floats above Midnight’s shoulder. It resembles a covered lantern with no visible flame. Its light falls outward but never shines directly into the eyes of the person it prote",
+    "keywords": "The Silent Vigil — 침묵의 경계 Hope Transformations The Silent Vigil is a small golden light that floats above Midnight’s shoulder. It resembles a covered lantern with no visible flame. Its light falls outward but never shines direc"
+  },
+  {
+    "title": "The Healing Touch — 치유의 손길",
+    "url": "entities/ht-008-the-healing-touch.html",
+    "category": "Hope Transformations",
+    "description": "The Healing Touch appears as a small golden hand made of soft Hope-crystal. It is not attached to Seol’s body. It floats beside them, follows their gestures, and sometimes places one translucent hand over Seol’s own whil",
+    "keywords": "The Healing Touch — 치유의 손길 Hope Transformations The Healing Touch appears as a small golden hand made of soft Hope-crystal. It is not attached to Seol’s body. It floats beside them, follows their gestures, and sometimes places o"
+  },
+  {
+    "title": "The Burning Hope — 타오르는 희망",
+    "url": "entities/ht-009-the-burning-hope.html",
+    "category": "Hope Transformations",
+    "description": "The Burning Hope is a small golden-orange flame with a white center. Unlike the Gentle Flame, it produces heat and can burn through obstacles. It circles Hwaran’s weapon arm or rests above the shoulder like a torch carri",
+    "keywords": "The Burning Hope — 타오르는 희망 Hope Transformations The Burning Hope is a small golden-orange flame with a white center. Unlike the Gentle Flame, it produces heat and can burn through obstacles. It circles Hwaran’s weapon arm or res"
+  },
+  {
+    "title": "The Living Memory — 살아 있는 기억",
+    "url": "entities/ht-010-the-living-memory.html",
+    "category": "Hope Transformations",
+    "description": "The Living Memory appears as a small golden figure with a porcelain-like body and a face that never settles into one identity. It wears a miniature craftsman’s apron and carries a thread of light between its hands.",
+    "keywords": "The Living Memory — 살아 있는 기억 Hope Transformations The Living Memory appears as a small golden figure with a porcelain-like body and a face that never settles into one identity. It wears a miniature craftsman’s apron and carries a "
+  },
+  {
+    "title": "The Shared Glass — 나눔의 잔",
+    "url": "entities/ht-011-the-shared-glass.html",
+    "category": "Hope Transformations",
+    "description": "The Shared Glass is a small golden drinking glass with a silver rim. It is always clean, even when filled with liquid Han or emotional residue. The glass cannot be broken by ordinary force, but it becomes cloudy when som",
+    "keywords": "The Shared Glass — 나눔의 잔 Hope Transformations The Shared Glass is a small golden drinking glass with a silver rim. It is always clean, even when filled with liquid Han or emotional residue. The glass cannot be broken by ordina"
+  },
+  {
+    "title": "The Standing Witness — 서 있는 증인",
+    "url": "entities/ht-012-the-standing-witness.html",
+    "category": "Hope Transformations",
+    "description": "The Standing Witness is a small golden figure, approximately the height of a hand. It has no visible mouth and carries a thin silver tablet against its chest. It stands wherever Chunhwa stands, even on unstable ground, a",
+    "keywords": "The Standing Witness — 서 있는 증인 Hope Transformations The Standing Witness is a small golden figure, approximately the height of a hand. It has no visible mouth and carries a thin silver tablet against its chest. It stands wherever Ch"
+  },
+  {
+    "title": "The Trinity of Dawn — 새벽의 삼위일체",
+    "url": "entities/ht-v-hc-001-the-trinity-of-dawn.html",
+    "category": "Hope Transformations",
+    "description": "The Trinity has a single birdlike body larger than an eagle, with three overlapping necks that join at the chest. Each head bears a distinct feature: many eyes from the Observing Bird, a luminous balance-mark from the We",
+    "keywords": "The Trinity of Dawn — 새벽의 삼위일체 Hope Transformations The Trinity has a single birdlike body larger than an eagle, with three overlapping necks that join at the chest. Each head bears a distinct feature: many eyes from the Observing B"
+  },
+  {
+    "title": "The Hand of Hope — 희망의 손",
+    "url": "entities/ht-v-hh-001-the-hand-of-hope.html",
+    "category": "Hope Transformations",
+    "description": "The Hand of Hope manifests as a vast luminous hand formed from gold, amber, white, silver, and orange Hope-crystal. It may appear as a single hand above a district, a pair of hands around the Weeping, or a humanoid figur",
+    "keywords": "The Hand of Hope — 희망의 손 Hope Transformations The Hand of Hope manifests as a vast luminous hand formed from gold, amber, white, silver, and orange Hope-crystal. It may appear as a single hand above a district, a pair of hands"
   },
   {
     "title": "Sorrow Entities — Somnarak Wiki",
@@ -343,6 +490,62 @@
     "keywords": "The Debt Scale Sorrow Entities entities DATABASE HUBS THE NINE ECHO-CORES CARTOGRAPHY & SCHEMATICS The Debt Scale An accurate reading becomes coercive when the institution controlling the category also supplies the evidence and enforces the result. Record consent Name the source Record the beneficiary Treat as evidence Overview Appearance Origin Work Responses Flerehan Pugnahan Viderehan Ferrehan Management Guidelines Activation and Escalation Consultation Unresolved Contact Judgment Attempt Overload Public Measure Tool operation Observation M.A.W. Equipment Equal Measure Story Relationships SE-015 Operational data /// TACTICAL DEFENSE & DAMAGE MULTIPLIERS /// CONTAINMENT WORK AFFINITY MATRIX"
   },
   {
+    "title": "The Undelivered Thanks — 전하지 못한 감사",
+    "url": "entities/unk-247-the-undelivered-thanks.html",
+    "category": "Unknown Entities",
+    "description": "Primary Form: A translucent human figure, slight, perpetually mid-bow, wearing the faded coat of a Zone D commoner.",
+    "keywords": "The Undelivered Thanks — 전하지 못한 감사 Unknown Entities Primary Form: A translucent human figure, slight, perpetually mid-bow, wearing the faded coat of a Zone D commoner."
+  },
+  {
+    "title": "The Unconsoled — 위로받지 못한 자",
+    "url": "entities/unk-248-the-unconsoled.html",
+    "category": "Unknown Entities",
+    "description": "Primary Form: A translucent elder, sexless with age, seated or slow-walking, face permanently wet, in the rough Han-woven robes of the earliest settlers.",
+    "keywords": "The Unconsoled — 위로받지 못한 자 Unknown Entities Primary Form: A translucent elder, sexless with age, seated or slow-walking, face permanently wet, in the rough Han-woven robes of the earliest settlers."
+  },
+  {
+    "title": "The Extinguished — 꺼진 자",
+    "url": "entities/unk-250-the-extinguished.html",
+    "category": "Unknown Entities",
+    "description": "Primary Form: A humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, edges still faintly gold, core gone cold and crimson.",
+    "keywords": "The Extinguished — 꺼진 자 Unknown Entities Primary Form: A humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, edges still faintly gold, core gone cold and crimson."
+  },
+  {
+    "title": "The Unspoken Line — 그어진 선",
+    "url": "entities/unk-251-the-unspoken-line.html",
+    "category": "Unknown Entities",
+    "description": "Primary Form: An ordinary four-way junction — cobblestones, a dry fountain, shuttered shopfronts. Nothing marks it as anomalous to the eye.",
+    "keywords": "The Unspoken Line — 그어진 선 Unknown Entities Primary Form: An ordinary four-way junction — cobblestones, a dry fountain, shuttered shopfronts. Nothing marks it as anomalous to the eye."
+  },
+  {
+    "title": "The Mewgical Girl — 야옹 마법소녀",
+    "url": "entities/unk-901-the-mewgical-girl.html",
+    "category": "Unknown Entities",
+    "description": "Primary Form: A two-meter-tall magical-girl doll with a humanoid body, cat ears on both sides of the head, and a long cat tail. The body is visibly artificial but moves with the balance and expressiveness of a living per",
+    "keywords": "The Mewgical Girl — 야옹 마법소녀 Unknown Entities Primary Form: A two-meter-tall magical-girl doll with a humanoid body, cat ears on both sides of the head, and a long cat tail. The body is visibly artificial but moves with the ba"
+  },
+  {
+    "title": "The Repeated Survivor — 되풀이의 생존자",
+    "url": "entities/unk-902-the-repeated-survivor.html",
+    "category": "Unknown Entities",
+    "description": "Primary Form: An R.D. field agent — standard-issue coat, standard-issue posture, ordinary in every way that matters. The horror is that there is nothing behind the ordinariness. The face is a mask of competence with no o",
+    "keywords": "The Repeated Survivor — 되풀이의 생존자 Unknown Entities Primary Form: An R.D. field agent — standard-issue coat, standard-issue posture, ordinary in every way that matters. The horror is that there is nothing behind the ordinariness. Th"
+  },
+  {
+    "title": "The Music Box of Agony — 고통의 오르골",
+    "url": "entities/unk-903-the-music-box-of-agony.html",
+    "category": "Unknown Entities",
+    "description": "Physical Form: A small music box, 25 cm × 15 cm. The interior lining is pink; the top is black; the bottom is white. The craftsmanship is ordinary — the sort of box made to hold a child's trinkets — except that it has ne",
+    "keywords": "The Music Box of Agony — 고통의 오르골 Unknown Entities Physical Form: A small music box, 25 cm × 15 cm. The interior lining is pink; the top is black; the bottom is white. The craftsmanship is ordinary — the sort of box made to hold a "
+  },
+  {
+    "title": "Unknown Entities",
+    "url": "entities/unknown-entities.html",
+    "category": "Unknown Entities",
+    "description": "Seven named Sorrow specimens outside the thirteen public dossiers.",
+    "keywords": "Unknown Entities Unknown Entities Seven named Sorrow specimens outside the thirteen public dossiers."
+  },
+  {
     "title": "Faction Technology",
     "url": "factions/faction-technology.html",
     "category": "Factions & Guilds",
@@ -399,11 +602,32 @@
     "keywords": "The Horizon Caravan Guild — Somnarak Official Wiki Factions & Guilds factions DATABASE HUBS THE NINE ECHO-CORES CARTOGRAPHY & SCHEMATICS The Horizon Caravan Guild Overview Company 3 — Year 4238 (Parallel to Dawn Initiative) Overview I. The Horizon Caravan (지평선 대 — Jipyeongseon Dae) What It Is II. Kael — The Protagonist Who He Is The Journey III. The Drift Throne — The Vehicle What It Is The Crew IV. Urban Threat Levels What They Are Threat Types V. The Journey — Arc by Arc Arc 1: Departure (Year 4238, Month 1) Arc 2: The Desolate Crossing (Year 4238, Month 2-3) Arc 3: Arrival at Cheonbulok (Year 4238, Month 4) Arc 4: The Furnace's Secret (Year 4238, Month 5) Arc 5: The Return (Year 4238, Month 6-7) Arc 6: The Mugeukji Attempt (Year 4238, Month 8) VI. The Ending — Partial Success VII. PM Elements Used VIII. Timeline"
   },
   {
+    "url": "factions/the-judexhan.html",
+    "title": "The Judexhan",
+    "description": "Council elite arbiters — Judgment Blade, implant, The Shadow, parallel to Giltong.",
+    "keywords": "Judexhan Judgment Blade implant The Shadow Arbiter Giltong",
+    "type": "article"
+  },
+  {
+    "url": "factions/the-keepers.html",
+    "title": "The Keepers",
+    "description": "Girokgwan memory guild — Grand Archive, Memory Lens, Whispering Index, Archive Resonance.",
+    "keywords": "Keepers Girokgwan Grand Archive Memory Lens Whispering Index Archive Resonance",
+    "type": "article"
+  },
+  {
     "title": "The Memory Washers",
     "url": "factions/the-memory-washers.html",
     "category": "Factions & Guilds",
     "description": "Fray memory-erasers of the Wash District. Wash-rig, Memory Cartel, UCD Arc 2. Not Keepers. Taboo 5 grey area.",
     "keywords": "Memory Washers Fray Wash District Wash-Rig UCD Arc 2 Taboo 5 Index Memory Cartel"
+  },
+  {
+    "url": "factions/the-menders.html",
+    "title": "The Menders",
+    "description": "Independent Raw operators — services, ranks 7–1, five Marks, Mendery, kit, repair rod. Dual report to Architects and R.D.",
+    "keywords": "Menders Suseonja Repair Rod Mendery Raw Collective Veil Watchers Marks Grey Veil",
+    "type": "article"
   },
   {
     "title": "The Reverie Directorate",
@@ -614,6 +838,13 @@
     "category": "Lore & Cosmology",
     "description": "Cumulation of Consolihan feeling — diamond of six buildings, plaza of polished Han, R.D. in the roots.",
     "keywords": "Alpha Tree Consolihan Sigh Palace Grand Archive Spire Crucible Abyssal Well Architect Hall"
+  },
+  {
+    "title": "The Book of Regressor",
+    "url": "lore/the-book-of-regressor.html",
+    "category": "Lore & Cosmology",
+    "description": "Absolvohan side-story: the book that holds the loop.",
+    "keywords": "The Book of Regressor Lore & Cosmology Absolvohan side-story: the book that holds the loop."
   },
   {
     "title": "The Cheongula Incident (Year 3,892) — Somnarak Official Wiki",
@@ -1050,6 +1281,41 @@
     "keywords": "M.A.W. Equipment Architecture & Synthesis — Somnarak Official Wiki Battle & Systems mechanics DATABASE HUBS THE NINE ECHO-CORES CARTOGRAPHY & SCHEMATICS M.A.W. Equipment Architecture & Synthesis Sorrow Entity Classification Code (SECC) Overview Origin Codes Coherence Codes Potency Codes Element Codes Manifestation Codes Reading the Code Classification Examples The Maw's Classification Taboo Enforcement — The Giltong (질동) Overview What are the Giltong? The Seven Taboos and Their Enforcement Giltong Structure The Arbiter Giltong Operations Famous Taboo Cases The Giltong and Other Factions V. Governance — The Fatalistic Order Overview The Council of Sighs (한숨의 의회) The Five Heads Faction Relationships (Summary) VII. Manifestations of Han Sorrow Entities (한조각 — Han-jogak) — Classification System Legacy Classification (SCS) — superseded by SECC Manifestation Classification Notable Sorrow Entities M.A.W. — Materialized Agony Wear (실체화된 고통의 갑옷) Sector Designation — The Containment System The Future — The Reverie Directorate (몽상 이사회 — Mongsang Isahoe) Fractureed Humans (Those Who Break) Dream Entities VIII. Systems & Mechanics The Four Elements of Sorrow (한의 사원소 — Han-ui Sawonso) The Price of Everything The Cycle of Debt Echoes — The Currency of Sorrow (메아리 — Meori) Dream-Diving — Entering the Subconscious Fracture — When Sorrow Breaks You Architect Powers — Han Shaping M.A.W. Mechanics The City's Response Work Types (작업 유형 — Jageop Yuhyeong) Overview The Four Work Types Flerehan (플레레한) — The Work of Tears Pugnahan (푸그나한) — The Work of Confrontation Viderehan (비데레한) — The Work of Observation Ferrehan (페레한) — The Work of Endurance Work Type Matrix Work Type Effectiveness Work Type and the Echo-Cores M.A.W. Gifts & Corrosion M.A.W. Gifts (선물 — Seonmul) — Passive Items M.A.W. Corrosion (부식 — Busik) — When M.A.W. Fails M.A.W. Corrosion — The Echo-Core Risk Named Fractures — Those Who Broke Overview The Named Fractures X-C. Population & Statistics Somnarak Population Estimate Desolate Population Estimate Grand Total — The Somnarak Sphere Faction Personnel Estimates Sorrow Entity Registry (Known) M.A.W. Registry (Known)"
   },
   {
+    "title": "Black Ordeals — The Crushing Tide",
+    "url": "mechanics/ordeal-black.html",
+    "category": "Ordeals",
+    "description": "Black Ordeals form from accumulated Weight Han. They are slow, dense, and physically devastating. Dark, heavy figures crush, flatten, and press down. Attacks are purely physical — broken bones, collapsed corridors, pinne",
+    "keywords": "Black Ordeals — The Crushing Tide Ordeals Black Ordeals form from accumulated Weight Han. They are slow, dense, and physically devastating. Dark, heavy figures crush, flatten, and press down. Attacks are purely physical — "
+  },
+  {
+    "title": "Blue Ordeals — The Mourning Host",
+    "url": "mechanics/ordeal-blue.html",
+    "category": "Ordeals",
+    "description": "Blue Ordeals form from accumulated Lament Han. They weep, wail, and assault the mind. Multiple translucent figures drain Composure and force personnel to relive grief. They move in groups, moaning; their attacks are emot",
+    "keywords": "Blue Ordeals — The Mourning Host Ordeals Blue Ordeals form from accumulated Lament Han. They weep, wail, and assault the mind. Multiple translucent figures drain Composure and force personnel to relive grief. They move in"
+  },
+  {
+    "title": "Grey Ordeals — The Resentful March",
+    "url": "mechanics/ordeal-grey.html",
+    "category": "Ordeals",
+    "description": "Grey Ordeals form from accumulated Grudge Han. They are hostile, aggressive, armed — injustice given form. Humanoid figures carry weapons of crystallized resentment (blades, hammers, chains). They hunt personnel, coordin",
+    "keywords": "Grey Ordeals — The Resentful March Ordeals Grey Ordeals form from accumulated Grudge Han. They are hostile, aggressive, armed — injustice given form. Humanoid figures carry weapons of crystallized resentment (blades, hammer"
+  },
+  {
+    "title": "Pale Ordeals — The Fading",
+    "url": "mechanics/ordeal-pale.html",
+    "category": "Ordeals",
+    "description": "Pale Ordeals form from accumulated Void Han. They erase identity, memory, presence, existence. Featureless pale-white figures drain Clarity and cause personnel to forget who they are, where they are, and why they came. S",
+    "keywords": "Pale Ordeals — The Fading Ordeals Pale Ordeals form from accumulated Void Han. They erase identity, memory, presence, existence. Featureless pale-white figures drain Clarity and cause personnel to forget who they a"
+  },
+  {
+    "title": "Purple Ordeals — The Corruption",
+    "url": "mechanics/ordeal-purple.html",
+    "category": "Ordeals",
+    "description": "Purple Ordeals form from raw, unprocessed Han — the Weeping’s pressure leaking upward. They are the most chaotic color. Purple-tinged masses shift form, spawn smaller manifestations, infect facility Han-flow, and attempt",
+    "keywords": "Purple Ordeals — The Corruption Ordeals Purple Ordeals form from raw, unprocessed Han — the Weeping’s pressure leaking upward. They are the most chaotic color. Purple-tinged masses shift form, spawn smaller manifestation"
+  },
+  {
     "title": "Ordeals Framework & Incursion Waves — Somnarak Official Wiki",
     "url": "mechanics/ordeals-framework.html",
     "category": "Battle & Systems",
@@ -1069,13 +1335,6 @@
     "category": "Battle & Systems",
     "description": "",
     "keywords": "Resonant Clash & Combat Mechanics — Somnarak Official Wiki Battle & Systems mechanics DATABASE HUBS THE NINE ECHO-CORES CARTOGRAPHY & SCHEMATICS Resonant Clash & Combat Mechanics Overview Narrative Combat Framework Battle Turn Rules Narrative Combat Framework I. Combat Flow — How Battles Unfold The Three Phases Phase 1: Tension (긴장 — Ginjang) Phase 2: Clash (충돌 — Chungdol) Phase 3: Resolution (결의 — Gyeol-ui) II. Entity Combat Behavior — How Entities Fight Entity Behavior Patterns Entity Combat Actions III. Personnel Combat Actions — What Characters Do Offensive Actions Defensive Actions Support Actions IV. Battle Consequences During Battle After Battle V. Boss Encounters — Special Mechanics Entity-Specific Mechanics VI. Battle Atmosphere Environmental Effects Atmospheric Elements VII. Battle Narrative Structure How to Write a Battle"
-  },
-  {
-    "title": "Sorrow Entities — SECC codes",
-    "url": "entities/index.html",
-    "category": "Sorrow Entities",
-    "description": "Origin, coherence, potency, element, manifestation codes on the Sorrow Entities hub.",
-    "keywords": "SECC Classification System ( to ) — Somnarak Official Wiki Battle & Systems mechanics DATABASE HUBS THE NINE ECHO-CORES CARTOGRAPHY & SCHEMATICS SECC Classification System ( to ) Overview I. Core Concept II. Cosmology The Two Primordial States Han (한) — The Binding Force The Three Sorrows (삼한 — Samhan) Entity Origin — The Weeping (울음 — Ul-eum) The Source of Sorrow Entities What is The Weeping? How Sorrow Entities Form The Weeping's Properties The Weeping and the City The Weeping and Sorrow Entities The Weeping's Mystery Entity Immortality — Can Sorrow Be Destroyed? The Question Why Entities Are Immortal What \"Destruction\" Actually Does Why This Matters The Exception: Absorption Entity Immortality and the Cheongula Entity Physical Form & Death Real Physical Bodies — Beyond \"Living Crystal\" The Two \"Kills\" — Vessel Destruction & Entity Suppression Sorrow Entity Classification Code (SECC) Overview Origin Codes Coherence Codes Potency Codes Element Codes Manifestation Codes Reading the Code Classification Examples The Maw's Classification III. The City — Somnarak The World — Mugenhan (무겐한) The Unofficial Zone — The Desolate (황폐 — Hwangpye) Nested Structure (outside → in) The Five Zones District Structure — The Veil and The Raw Zone A — The Alpha Tree (도시의 심장) Zone B — The Western Sector (서부 구역) Zone C — The Eastern Sector (동부 구역) Zone D — The Mantle (외곽 맨틀) Zone E — The Perimeter (경계선) Vertical Dimension Geographic Features — Mugenhan's Landscape Faction Relations — The Web of Power Faction Collapse — When Power Falls IV. Beyond the City The Wilderness Other Settlements Taboo Enforcement — The Giltong (질동) Overview What are the Giltong? The Seven Taboos and Their Enforcement Giltong Structure The Arbiter Giltong Operations Famous Taboo Cases The Giltong and Other Factions Faction Relations — The Web of Power Overview The Power Map Faction Relationships — Detailed Trade Relationships Competition Collusion Faction Collapse — When Power Falls Overview What Triggers Collapse What Happens During Collapse Faction Collapse Scenarios The Cascade Effect V. Governance — The Fatalistic Order Overview The Council of Sighs (한숨의 의회) The Five Heads Faction Relationships (Summary) VI. The Architects — Protagonist Role Who They Are Organization Training What Architects Do The Cost The Architect's Philosophy VII. Manifestations of Han Sorrow Entities (한조각 — Han-jogak) — Classification System Legacy Classification (SCS) — superseded by SECC Manifestation Classification Notable Sorrow Entities M.A.W. — Materialized Agony Wear (실체화된 고통의 갑옷) Sector Designation — The Containment System The Future — The Reverie Directorate (몽상 이사회 — Mongsang Isahoe) Fractureed Humans (Those Who Break) Dream Entities VIII. Systems & Mechanics The Four Elements of Sorrow (한의 사원소 — Han-ui Sawonso) The Price of Everything The Cycle of Debt Echoes — The Currency of Sorrow (메아리 — Meori) Dream-Diving — Entering the Subconscious Fracture — When Sorrow Breaks You Architect Powers — Han Shaping M.A.W. Mechanics The City's Response Work Types (작업 유형 — Jageop Yuhyeong) Overview The Four Work Types Flerehan (플레레한) — The Work of Tears Pugnahan (푸그나한) — The Work of Confrontation Viderehan (비데레한) — The Work of Observation Ferrehan (페레한) — The Work of Endurance Work Type Matrix Work Type Effectiveness Work Type and the Echo-Cores M.A.W. Gifts & Corrosion M.A.W. Gifts (선물 — Seonmul) — Passive Items M.A.W. Corrosion (부식 — Busik) — When M.A.W. Fails M.A.W. Corrosion — The Echo-Core Risk Efflorescence (개화 — Gaehwa) — The Positive Path What It Is How It Happens What It Looks Like Efflorescence vs. Fracture The Echo-Cores and Efflorescence The Question Breach Mechanics — The Sorrow Gauge The Sorrow Gauge (한 게이지 — Han Geiji) Breach Types Breach Response Protocol Breach Statistics (Historical) Daily Life & Culture The Tone of Life Food & Sustenance Transportation Fashion Art & Expression Night Hazards (야간 위험 — Yagan Wiheom) The Night Cycle The Three Night Hazards Night by Zone Night Activities The Vigil (야경 — Yagyeong) Referenced Systems — Surface Overview Daily Life in Somnarak Taboos (금지 — Geumji) Resonances (공명 — Gongmyeong) Common Technology Faction-Specific Technology The Underworld — Menders & Frays Entity Groups & Chains Known People of Somnarak Entity Tales The Unknown Cities — Corners 2 & 3 Fracture Investigation — The Sorrow Seekers (슬픔을 찾는 자 — Seulpeum-eul Channeun Ja) Overview Who They Are What They Do What They Investigate The Seeker Commander Case Types The Seeker's Tools The Sorrow Seeds (슬픔의 씨앗 — Seulpeum-ui Ssiat) — Quest Artifacts Overview What They Are What They Do Known Sorrow Seeds The Sorrow Seed Quest Named Fractures — Those Who Broke Overview The Named Fractures IX. History & Origin — The Becoming of Sorrow The Three Ages Age I — The Before-Time (선시대 — Seonsidae) Age II — The Becoming (변천 — Byeongcheon) Age III — The Structuring (구조화 — Gujohwa) The First Sorrow — The Cheongula (천구라) The First War — The Occlusihan (오클루시한) The Consolihan War (결한 전쟁 — Gyeolhan Jeonjaeng) The Wars of Somnarak Timeline What the Before-Time Means Now Resolved Questions Open Questions X. Aesthetic & Tone Visual Identity Narrative Tone X-B. Glossary of Terms Core Concepts Geography History Factions Sorrow Entities M.A.W. Mechanics Locations X-C. Population & Statistics Somnarak Population Estimate Desolate Population Estimate Grand Total — The Somnarak Sphere Faction Personnel Estimates Sorrow Entity Registry (Known) M.A.W. Registry (Known) Operations — Story Arcs SED — Somnarak Exploration Decreed UCD — Underworld Cleanup Descend R.D. — The Reverie Directorate XI. Open Questions Characters World The Cheongula The R.D. The Dream The Weeping The Relics The Fractures The Council Story Hooks Referenced Files"
   },
   {
     "title": "Faction Resonances",
@@ -1099,11 +1358,11 @@
     "keywords": "The Four Work Types (Insight, Attachment, Repression, Extraction) — Somnarak Official Wiki Battle & Systems mechanics DATABASE HUBS THE NINE ECHO-CORES CARTOGRAPHY & SCHEMATICS The Four Work Types (Insight, Attachment, Repression, Extraction) V. Governance — The Fatalistic Order Overview The Council of Sighs (한숨의 의회) The Five Heads Faction Relationships (Summary) VII. Manifestations of Han Sorrow Entities (한조각 — Han-jogak) — Classification System Legacy Classification (SCS) — superseded by SECC Manifestation Classification Notable Sorrow Entities M.A.W. — Materialized Agony Wear (실체화된 고통의 갑옷) Sector Designation — The Containment System The Future — The Reverie Directorate (몽상 이사회 — Mongsang Isahoe) Fractureed Humans (Those Who Break) Dream Entities VIII. Systems & Mechanics The Four Elements of Sorrow (한의 사원소 — Han-ui Sawonso) The Price of Everything The Cycle of Debt Echoes — The Currency of Sorrow (메아리 — Meori) Dream-Diving — Entering the Subconscious Fracture — When Sorrow Breaks You Architect Powers — Han Shaping M.A.W. Mechanics The City's Response Work Types (작업 유형 — Jageop Yuhyeong) Overview The Four Work Types Flerehan (플레레한) — The Work of Tears Pugnahan (푸그나한) — The Work of Confrontation Viderehan (비데레한) — The Work of Observation Ferrehan (페레한) — The Work of Endurance Work Type Matrix Work Type Effectiveness Work Type and the Echo-Cores M.A.W. Gifts & Corrosion M.A.W. Gifts (선물 — Seonmul) — Passive Items M.A.W. Corrosion (부식 — Busik) — When M.A.W. Fails M.A.W. Corrosion — The Echo-Core Risk Breach Mechanics — The Sorrow Gauge The Sorrow Gauge (한 게이지 — Han Geiji) Breach Types Breach Response Protocol Breach Statistics (Historical) Referenced Systems — Surface Overview Daily Life in Somnarak Taboos (금지 — Geumji) Resonances (공명 — Gongmyeong) Common Technology Faction-Specific Technology The Underworld — Menders & Frays Entity Groups & Chains Entity Tales Fracture Investigation — The Sorrow Seekers (슬픔을 찾는 자 — Seulpeum-eul Channeun Ja) Overview Who They Are What They Do What They Investigate The Seeker Commander Case Types The Seeker's Tools The Sorrow Seeds (슬픔의 씨앗 — Seulpeum-ui Ssiat) — Quest Artifacts Overview What They Are What They Do Known Sorrow Seeds The Sorrow Seed Quest X-B. Glossary of Terms Core Concepts Geography History Factions Sorrow Entities M.A.W. Mechanics Locations Operations — Story Arcs SED — Somnarak Exploration Decreed UCD — Underworld Cleanup Descend R.D. — The Reverie Directorate"
   },
   {
-    "title": "Download Center & Archives — Somnarak Official Wiki",
+    "title": "Archive Distribution Ledger — Somnarak Wiki",
     "url": "project/downloads.html",
     "category": "Project",
-    "description": "",
-    "keywords": "Download Center & Archives — Somnarak Official Wiki Project project /// ARCHIVE DOWNLOAD CENTER 01_SOMNARAK_WIKI.ZIP SOMNARAK_WIKI_ICONS.ZIP FACILITY_&_CITY_MAPS.ZIP FOR_WIKI_SOURCE_CORPUS.ZIP COMPARATIVE_WIKI_RESEARCH.ZIP"
+    "description": "Packaging and provenance policy connecting canon sources, the public docs tree, and revision-bound downloads.",
+    "keywords": "Archive Distribution Ledger provenance preservation publication reader layer repository snapshot generated archive policy offline procedure release 1.8.31"
   },
   {
     "title": "Sources and Revision",
@@ -1111,264 +1370,5 @@
     "category": "Project",
     "description": "Sources and revision policy for the restarted wiki",
     "keywords": "Sources and Revision Project project DATABASE HUBS THE NINE ECHO-CORES CARTOGRAPHY & SCHEMATICS Sources and Revision Restart decision Reference pattern Sources used for the floor foundation Visual and structural research Revision policy"
-  },
-  {
-    "title": "The Guiding Light — 인도의 빛",
-    "url": "entities/ht-001-the-guiding-light.html",
-    "category": "Hope Transformations",
-    "description": "The Guiding Light is a small golden orb, approximately the size of a human heart. Its surface is neither glass nor crystal. It resembles a drop of dawn suspended in air, with thin lines of light moving through it like ro",
-    "keywords": "The Guiding Light — 인도의 빛 Hope Transformations The Guiding Light is a small golden orb, approximately the size of a human heart. Its surface is neither glass nor crystal. It resembles a drop of dawn suspended in air, with thin "
-  },
-  {
-    "title": "The Shield of Dawn — 새벽의 방패",
-    "url": "entities/ht-002-the-shield-of-dawn.html",
-    "category": "Hope Transformations",
-    "description": "The Shield of Dawn is a compact golden shield that usually rests against Taeho’s left forearm as a warm, luminous mark. When activated, it unfolds into a broad round shield made of layered gold, silver, and translucent H",
-    "keywords": "The Shield of Dawn — 새벽의 방패 Hope Transformations The Shield of Dawn is a compact golden shield that usually rests against Taeho’s left forearm as a warm, luminous mark. When activated, it unfolds into a broad round shield made of"
-  },
-  {
-    "title": "The Gentle Flame — 온화한 불꽃",
-    "url": "entities/ht-003-the-gentle-flame.html",
-    "category": "Hope Transformations",
-    "description": "The Gentle Flame is a small golden flame that floats above Sooah’s open palm. It has no smoke and produces no ordinary heat. Its outer edge is amber, its center is white, and a faint blue ring appears whenever it is trea",
-    "keywords": "The Gentle Flame — 온화한 불꽃 Hope Transformations The Gentle Flame is a small golden flame that floats above Sooah’s open palm. It has no smoke and produces no ordinary heat. Its outer edge is amber, its center is white, and a fai"
-  },
-  {
-    "title": "The Reuniting Spark — 재회의 불꽃",
-    "url": "entities/ht-004-the-reuniting-spark.html",
-    "category": "Hope Transformations",
-    "description": "The Reuniting Spark is a bright golden spark that moves in short, eager arcs around Duri. It resembles a firefly made from a fragment of a broken star. When still, it rests against Duri’s fingertips. When searching, it l",
-    "keywords": "The Reuniting Spark — 재회의 불꽃 Hope Transformations The Reuniting Spark is a bright golden spark that moves in short, eager arcs around Duri. It resembles a firefly made from a fragment of a broken star. When still, it rests against"
-  },
-  {
-    "title": "The Defiant Ember — 저항의 불씨",
-    "url": "entities/ht-005-the-defiant-ember.html",
-    "category": "Hope Transformations",
-    "description": "The Defiant Ember is a small orange-gold coal that floats just behind Sero’s sternum or rests between their fingers. It is never fully extinguished. Its surface contains tiny black veins, like the remains of a burned con",
-    "keywords": "The Defiant Ember — 저항의 불씨 Hope Transformations The Defiant Ember is a small orange-gold coal that floats just behind Sero’s sternum or rests between their fingers. It is never fully extinguished. Its surface contains tiny black"
-  },
-  {
-    "title": "The Eternal Warmth — 영원한 온기",
-    "url": "entities/ht-006-the-eternal-warmth.html",
-    "category": "Hope Transformations",
-    "description": "The Eternal Warmth appears as a small golden radiance near Sarang’s pendant. It has no fixed body, but sometimes forms the outline of two hands around a cup, a shoulder, or a sleeping person. Its light is amber and soft,",
-    "keywords": "The Eternal Warmth — 영원한 온기 Hope Transformations The Eternal Warmth appears as a small golden radiance near Sarang’s pendant. It has no fixed body, but sometimes forms the outline of two hands around a cup, a shoulder, or a sleep"
-  },
-  {
-    "title": "The Silent Vigil — 침묵의 경계",
-    "url": "entities/ht-007-the-silent-vigil.html",
-    "category": "Hope Transformations",
-    "description": "The Silent Vigil is a small golden light that floats above Midnight’s shoulder. It resembles a covered lantern with no visible flame. Its light falls outward but never shines directly into the eyes of the person it prote",
-    "keywords": "The Silent Vigil — 침묵의 경계 Hope Transformations The Silent Vigil is a small golden light that floats above Midnight’s shoulder. It resembles a covered lantern with no visible flame. Its light falls outward but never shines direc"
-  },
-  {
-    "title": "The Healing Touch — 치유의 손길",
-    "url": "entities/ht-008-the-healing-touch.html",
-    "category": "Hope Transformations",
-    "description": "The Healing Touch appears as a small golden hand made of soft Hope-crystal. It is not attached to Seol’s body. It floats beside them, follows their gestures, and sometimes places one translucent hand over Seol’s own whil",
-    "keywords": "The Healing Touch — 치유의 손길 Hope Transformations The Healing Touch appears as a small golden hand made of soft Hope-crystal. It is not attached to Seol’s body. It floats beside them, follows their gestures, and sometimes places o"
-  },
-  {
-    "title": "The Burning Hope — 타오르는 희망",
-    "url": "entities/ht-009-the-burning-hope.html",
-    "category": "Hope Transformations",
-    "description": "The Burning Hope is a small golden-orange flame with a white center. Unlike the Gentle Flame, it produces heat and can burn through obstacles. It circles Hwaran’s weapon arm or rests above the shoulder like a torch carri",
-    "keywords": "The Burning Hope — 타오르는 희망 Hope Transformations The Burning Hope is a small golden-orange flame with a white center. Unlike the Gentle Flame, it produces heat and can burn through obstacles. It circles Hwaran’s weapon arm or res"
-  },
-  {
-    "title": "The Living Memory — 살아 있는 기억",
-    "url": "entities/ht-010-the-living-memory.html",
-    "category": "Hope Transformations",
-    "description": "The Living Memory appears as a small golden figure with a porcelain-like body and a face that never settles into one identity. It wears a miniature craftsman’s apron and carries a thread of light between its hands.",
-    "keywords": "The Living Memory — 살아 있는 기억 Hope Transformations The Living Memory appears as a small golden figure with a porcelain-like body and a face that never settles into one identity. It wears a miniature craftsman’s apron and carries a "
-  },
-  {
-    "title": "The Shared Glass — 나눔의 잔",
-    "url": "entities/ht-011-the-shared-glass.html",
-    "category": "Hope Transformations",
-    "description": "The Shared Glass is a small golden drinking glass with a silver rim. It is always clean, even when filled with liquid Han or emotional residue. The glass cannot be broken by ordinary force, but it becomes cloudy when som",
-    "keywords": "The Shared Glass — 나눔의 잔 Hope Transformations The Shared Glass is a small golden drinking glass with a silver rim. It is always clean, even when filled with liquid Han or emotional residue. The glass cannot be broken by ordina"
-  },
-  {
-    "title": "The Standing Witness — 서 있는 증인",
-    "url": "entities/ht-012-the-standing-witness.html",
-    "category": "Hope Transformations",
-    "description": "The Standing Witness is a small golden figure, approximately the height of a hand. It has no visible mouth and carries a thin silver tablet against its chest. It stands wherever Chunhwa stands, even on unstable ground, a",
-    "keywords": "The Standing Witness — 서 있는 증인 Hope Transformations The Standing Witness is a small golden figure, approximately the height of a hand. It has no visible mouth and carries a thin silver tablet against its chest. It stands wherever Ch"
-  },
-  {
-    "title": "The Trinity of Dawn — 새벽의 삼위일체",
-    "url": "entities/ht-v-hc-001-the-trinity-of-dawn.html",
-    "category": "Hope Transformations",
-    "description": "The Trinity has a single birdlike body larger than an eagle, with three overlapping necks that join at the chest. Each head bears a distinct feature: many eyes from the Observing Bird, a luminous balance-mark from the We",
-    "keywords": "The Trinity of Dawn — 새벽의 삼위일체 Hope Transformations The Trinity has a single birdlike body larger than an eagle, with three overlapping necks that join at the chest. Each head bears a distinct feature: many eyes from the Observing B"
-  },
-  {
-    "title": "The Hand of Hope — 희망의 손",
-    "url": "entities/ht-v-hh-001-the-hand-of-hope.html",
-    "category": "Hope Transformations",
-    "description": "The Hand of Hope manifests as a vast luminous hand formed from gold, amber, white, silver, and orange Hope-crystal. It may appear as a single hand above a district, a pair of hands around the Weeping, or a humanoid figur",
-    "keywords": "The Hand of Hope — 희망의 손 Hope Transformations The Hand of Hope manifests as a vast luminous hand formed from gold, amber, white, silver, and orange Hope-crystal. It may appear as a single hand above a district, a pair of hands"
-  },
-  {
-    "title": "Hope Transformations",
-    "url": "entities/hope-transformations.html",
-    "category": "Hope Transformations",
-    "description": "Fourteen Hope entities bonded to Dawn Initiative bearers.",
-    "keywords": "Hope Transformations Hope Transformations Fourteen Hope entities bonded to Dawn Initiative bearers."
-  },
-  {
-    "title": "The Undelivered Thanks — 전하지 못한 감사",
-    "url": "entities/unk-247-the-undelivered-thanks.html",
-    "category": "Unknown Entities",
-    "description": "Primary Form: A translucent human figure, slight, perpetually mid-bow, wearing the faded coat of a Zone D commoner.",
-    "keywords": "The Undelivered Thanks — 전하지 못한 감사 Unknown Entities Primary Form: A translucent human figure, slight, perpetually mid-bow, wearing the faded coat of a Zone D commoner."
-  },
-  {
-    "title": "The Unconsoled — 위로받지 못한 자",
-    "url": "entities/unk-248-the-unconsoled.html",
-    "category": "Unknown Entities",
-    "description": "Primary Form: A translucent elder, sexless with age, seated or slow-walking, face permanently wet, in the rough Han-woven robes of the earliest settlers.",
-    "keywords": "The Unconsoled — 위로받지 못한 자 Unknown Entities Primary Form: A translucent elder, sexless with age, seated or slow-walking, face permanently wet, in the rough Han-woven robes of the earliest settlers."
-  },
-  {
-    "title": "The Extinguished — 꺼진 자",
-    "url": "entities/unk-250-the-extinguished.html",
-    "category": "Unknown Entities",
-    "description": "Primary Form: A humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, edges still faintly gold, core gone cold and crimson.",
-    "keywords": "The Extinguished — 꺼진 자 Unknown Entities Primary Form: A humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, edges still faintly gold, core gone cold and crimson."
-  },
-  {
-    "title": "The Unspoken Line — 그어진 선",
-    "url": "entities/unk-251-the-unspoken-line.html",
-    "category": "Unknown Entities",
-    "description": "Primary Form: An ordinary four-way junction — cobblestones, a dry fountain, shuttered shopfronts. Nothing marks it as anomalous to the eye.",
-    "keywords": "The Unspoken Line — 그어진 선 Unknown Entities Primary Form: An ordinary four-way junction — cobblestones, a dry fountain, shuttered shopfronts. Nothing marks it as anomalous to the eye."
-  },
-  {
-    "title": "The Mewgical Girl — 야옹 마법소녀",
-    "url": "entities/unk-901-the-mewgical-girl.html",
-    "category": "Unknown Entities",
-    "description": "Primary Form: A two-meter-tall magical-girl doll with a humanoid body, cat ears on both sides of the head, and a long cat tail. The body is visibly artificial but moves with the balance and expressiveness of a living per",
-    "keywords": "The Mewgical Girl — 야옹 마법소녀 Unknown Entities Primary Form: A two-meter-tall magical-girl doll with a humanoid body, cat ears on both sides of the head, and a long cat tail. The body is visibly artificial but moves with the ba"
-  },
-  {
-    "title": "The Repeated Survivor — 되풀이의 생존자",
-    "url": "entities/unk-902-the-repeated-survivor.html",
-    "category": "Unknown Entities",
-    "description": "Primary Form: An R.D. field agent — standard-issue coat, standard-issue posture, ordinary in every way that matters. The horror is that there is nothing behind the ordinariness. The face is a mask of competence with no o",
-    "keywords": "The Repeated Survivor — 되풀이의 생존자 Unknown Entities Primary Form: An R.D. field agent — standard-issue coat, standard-issue posture, ordinary in every way that matters. The horror is that there is nothing behind the ordinariness. Th"
-  },
-  {
-    "title": "The Music Box of Agony — 고통의 오르골",
-    "url": "entities/unk-903-the-music-box-of-agony.html",
-    "category": "Unknown Entities",
-    "description": "Physical Form: A small music box, 25 cm × 15 cm. The interior lining is pink; the top is black; the bottom is white. The craftsmanship is ordinary — the sort of box made to hold a child's trinkets — except that it has ne",
-    "keywords": "The Music Box of Agony — 고통의 오르골 Unknown Entities Physical Form: A small music box, 25 cm × 15 cm. The interior lining is pink; the top is black; the bottom is white. The craftsmanship is ordinary — the sort of box made to hold a "
-  },
-  {
-    "title": "Unknown Entities",
-    "url": "entities/unknown-entities.html",
-    "category": "Unknown Entities",
-    "description": "Seven named Sorrow specimens outside the thirteen public dossiers.",
-    "keywords": "Unknown Entities Unknown Entities Seven named Sorrow specimens outside the thirteen public dossiers."
-  },
-  {
-    "title": "Entity Groups and Transformation Chains",
-    "url": "entities/entity-groups-and-chains.html",
-    "category": "Sorrow Entities",
-    "description": "Linked Sorrow sets and evolution chains.",
-    "keywords": "Entity Groups and Transformation Chains Sorrow Entities Linked Sorrow sets and evolution chains."
-  },
-  {
-    "title": "Blue Ordeals — The Mourning Host",
-    "url": "mechanics/ordeal-blue.html",
-    "category": "Ordeals",
-    "description": "Blue Ordeals form from accumulated Lament Han. They weep, wail, and assault the mind. Multiple translucent figures drain Composure and force personnel to relive grief. They move in groups, moaning; their attacks are emot",
-    "keywords": "Blue Ordeals — The Mourning Host Ordeals Blue Ordeals form from accumulated Lament Han. They weep, wail, and assault the mind. Multiple translucent figures drain Composure and force personnel to relive grief. They move in"
-  },
-  {
-    "title": "Black Ordeals — The Crushing Tide",
-    "url": "mechanics/ordeal-black.html",
-    "category": "Ordeals",
-    "description": "Black Ordeals form from accumulated Weight Han. They are slow, dense, and physically devastating. Dark, heavy figures crush, flatten, and press down. Attacks are purely physical — broken bones, collapsed corridors, pinne",
-    "keywords": "Black Ordeals — The Crushing Tide Ordeals Black Ordeals form from accumulated Weight Han. They are slow, dense, and physically devastating. Dark, heavy figures crush, flatten, and press down. Attacks are purely physical — "
-  },
-  {
-    "title": "Pale Ordeals — The Fading",
-    "url": "mechanics/ordeal-pale.html",
-    "category": "Ordeals",
-    "description": "Pale Ordeals form from accumulated Void Han. They erase identity, memory, presence, existence. Featureless pale-white figures drain Clarity and cause personnel to forget who they are, where they are, and why they came. S",
-    "keywords": "Pale Ordeals — The Fading Ordeals Pale Ordeals form from accumulated Void Han. They erase identity, memory, presence, existence. Featureless pale-white figures drain Clarity and cause personnel to forget who they a"
-  },
-  {
-    "title": "Grey Ordeals — The Resentful March",
-    "url": "mechanics/ordeal-grey.html",
-    "category": "Ordeals",
-    "description": "Grey Ordeals form from accumulated Grudge Han. They are hostile, aggressive, armed — injustice given form. Humanoid figures carry weapons of crystallized resentment (blades, hammers, chains). They hunt personnel, coordin",
-    "keywords": "Grey Ordeals — The Resentful March Ordeals Grey Ordeals form from accumulated Grudge Han. They are hostile, aggressive, armed — injustice given form. Humanoid figures carry weapons of crystallized resentment (blades, hammer"
-  },
-  {
-    "title": "Purple Ordeals — The Corruption",
-    "url": "mechanics/ordeal-purple.html",
-    "category": "Ordeals",
-    "description": "Purple Ordeals form from raw, unprocessed Han — the Weeping’s pressure leaking upward. They are the most chaotic color. Purple-tinged masses shift form, spawn smaller manifestations, infect facility Han-flow, and attempt",
-    "keywords": "Purple Ordeals — The Corruption Ordeals Purple Ordeals form from raw, unprocessed Han — the Weeping’s pressure leaking upward. They are the most chaotic color. Purple-tinged masses shift form, spawn smaller manifestation"
-  },
-  {
-    "title": "The Book of Regressor",
-    "url": "lore/the-book-of-regressor.html",
-    "category": "Lore & Cosmology",
-    "description": "Absolvohan side-story: the book that holds the loop.",
-    "keywords": "The Book of Regressor Lore & Cosmology Absolvohan side-story: the book that holds the loop."
-  },
-  {
-    "url": "factions/the-keepers.html",
-    "title": "The Keepers",
-    "description": "Girokgwan memory guild — Grand Archive, Memory Lens, Whispering Index, Archive Resonance.",
-    "keywords": "Keepers Girokgwan Grand Archive Memory Lens Whispering Index Archive Resonance",
-    "type": "article"
-  },
-  {
-    "url": "factions/the-judexhan.html",
-    "title": "The Judexhan",
-    "description": "Council elite arbiters — Judgment Blade, implant, The Shadow, parallel to Giltong.",
-    "keywords": "Judexhan Judgment Blade implant The Shadow Arbiter Giltong",
-    "type": "article"
-  },
-  {
-    "url": "factions/the-menders.html",
-    "title": "The Menders",
-    "description": "Independent Raw operators — services, ranks 7–1, five Marks, Mendery, kit, repair rod. Dual report to Architects and R.D.",
-    "keywords": "Menders Suseonja Repair Rod Mendery Raw Collective Veil Watchers Marks Grey Veil",
-    "type": "article"
-  },
-  {
-    "url": "departments/agent-assignment.html",
-    "title": "Agent Assignment",
-    "description": "Facility-wide personnel placement by Resilience, Clarity, Composure, Resolve — floors, entity rules, rotation. Not a Floor 1 dump.",
-    "keywords": "Agent Assignment Resilience Clarity Composure Resolve floors Echo-Cores rotation",
-    "type": "article"
-  },
-  {
-    "url": "departments/facility-upgrades.html",
-    "title": "Facility Upgrades",
-    "description": "Hand of Change growth — categories, process, example costs, Facility Level 1–5, freeze during Meltdown and Tide Watch.",
-    "keywords": "Facility upgrades Hand of Change cells gauges Architects Meltdown Facility Level",
-    "type": "article"
-  },
-  {
-    "url": "departments/research-observation.html",
-    "title": "Research and Observation",
-    "description": "R.D. observation levels 0–4, Observation Points, research projects, ledger, risks. Facility-wide, not a Floor 4 dump.",
-    "keywords": "Observation Level research Insight Forge Work Types SECC OP Ayshuk",
-    "type": "article"
-  },
-  {
-    "url": "departments/daily-missions.html",
-    "title": "Daily Missions",
-    "description": "Catalog of each floor’s daily work and Han-Energy quotas, cross-field jobs, failure. Per-floor tables stay on the floor pages.",
-    "keywords": "Daily missions floors quota Han-Energy Maw Keep Border Watch Gate cross-field",
-    "type": "article"
   }
 ]

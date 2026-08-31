@@ -14,6 +14,19 @@ arena/01a04eea-…  0d89b5bf   4,023 files   root: + .nojekyll  index.html  docs
 
 ---
 
+## RULE 0 — Content depth and visual identity are blocking publication gates.
+
+`CONTENT_AND_VISUAL_STANDARDS.md` records the project owner’s binding 2026-08-31 direction and supersedes older quality language elsewhere in the archive:
+
+- every public HTML page contains at least **200 meaningful editorial words**, excluding shared chrome; 200 is a floor, never a ceiling;
+- no page may be plain, generic, or produced by swapping a title and color into a repeated body template;
+- every SVG is designed only after reading the complete page and relevant source, and must use details from that writing rather than the title alone;
+- SVG work includes icons, banners, backgrounds, profiles, silhouettes, diagrams, and other page-specific visual forms;
+- profiles may be non-facial, but every silhouette or shape must remain specific to its subject;
+- recolor-only or geometry-identical SVG variants fail review.
+
+Do not publish or report completion until the page and visual checklist in that document passes.
+
 ## RULE 1 — Never force-push, ever. Especially not arena → main.
 
 `main` is currently the **only** branch containing `FOR_WIKI.zip`, the 13.66 MiB archive that holds

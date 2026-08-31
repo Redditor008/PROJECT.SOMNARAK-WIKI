@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Entity groups and transformation chains relationship map</title>
+  <desc id="desc">Four different sorrow groups orbit shared wounds—the Three Birds, Three Sisters, Masked Troupe, and Debt Triplets—while separate downward chains show sorrow changing form and remain divided from Hope Transformation.</desc>
+  <defs>
+    <linearGradient id="gc-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101a"/><stop offset=".55" stop-color="#100c14"/><stop offset="1" stop-color="#07090d"/></linearGradient>
+    <radialGradient id="gc-wound" cx="50%" cy="50%" r="50%"><stop stop-color="#ef5b55" stop-opacity=".42"/><stop offset=".45" stop-color="#541426" stop-opacity=".3"/><stop offset="1" stop-color="#05070a" stop-opacity="0"/></radialGradient>
+    <pattern id="gc-grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#293d50" opacity=".25"/></pattern>
+    <marker id="gc-arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#ef7085"/></marker>
+  </defs>
+  <rect width="1400" height="420" fill="url(#gc-bg)"/><rect width="1400" height="420" fill="url(#gc-grid)"/>
+  <path d="M8 8H1392V412H8Z" fill="none" stroke="#485e73" stroke-width="2"/>
+  <text x="25" y="34" fill="#f1df76" font-family="Impact, Arial Narrow, sans-serif" font-size="20" letter-spacing="3">LINKED SORROW / GROUP RESPONSE MAP</text>
+  <text x="1375" y="33" text-anchor="end" fill="#9ddff8" font-family="monospace" font-size="10" letter-spacing="2">SAME WOUND ≠ SAME FORM</text>
+
+  <!-- A central shared wound sends a different relationship logic to every group. -->
+  <g transform="translate(700 184)">
+    <circle r="95" fill="url(#gc-wound)"/>
+    <circle r="55" fill="#100a10" stroke="#ef7085" stroke-width="3"/>
+    <path d="M-11-38L8-12L-5 9L16 33L3 50" fill="none" stroke="#ef5b55" stroke-width="5"/>
+    <path d="M8-12L29-25M-5 9L-29 22" stroke="#ef5b55" stroke-width="3"/>
+    <text y="-65" text-anchor="middle" fill="#ef9aaa" font-family="monospace" font-size="9" letter-spacing="2">SHARED ORIGIN</text>
+    <text y="78" text-anchor="middle" fill="#f1df76" font-family="Impact, Arial Narrow, sans-serif" font-size="17" letter-spacing="2">ONE WOUND</text>
+  </g>
+  <g fill="none" stroke="#526a80" stroke-width="2" stroke-dasharray="8 6">
+    <path d="M645 142C574 90 516 93 450 108"/><path d="M755 142C827 90 884 92 954 110"/>
+    <path d="M638 222C567 269 514 275 443 265"/><path d="M762 222C832 270 890 270 957 263"/>
+  </g>
+
+  <!-- Birds are a triangle that can converge into one judged form. -->
+  <g transform="translate(110 61)">
+    <path d="M151 5L285 124L18 124Z" fill="none" stroke="#38bdf8" stroke-width="3"/>
+    <g fill="#0b1721" stroke="#7dd3fc" stroke-width="3">
+      <path d="M151 0L171 32L151 24L131 32Z"/><path d="M12 123L49 111L37 133L46 151Z"/><path d="M290 123L253 111L265 133L256 151Z"/>
+    </g>
+    <path d="M84 89C113 66 130 75 151 95C172 75 190 66 218 89C195 102 175 111 151 112C127 111 107 102 84 89Z" fill="#122d3e" stroke="#38bdf8" stroke-width="2"/>
+    <circle cx="151" cy="95" r="9" fill="#f1df76"/>
+    <text x="151" y="177" text-anchor="middle" fill="#9ddff8" font-family="Impact, Arial Narrow, sans-serif" font-size="18" letter-spacing="2">THREE BIRDS</text>
+    <text x="151" y="196" text-anchor="middle" fill="#7f9bad" font-family="monospace" font-size="8">SEPARATE / SING / CONVERGE</text>
+  </g>
+
+  <!-- Sisters share roots and are calmed by the living mother at the center. -->
+  <g transform="translate(965 58)">
+    <path d="M43 102C61 58 99 51 124 87C144 41 191 41 211 87C237 50 276 59 292 102" fill="none" stroke="#c084fc" stroke-width="5"/>
+    <g fill="#22112d" stroke="#c084fc" stroke-width="3"><circle cx="78" cy="83" r="26"/><circle cx="168" cy="67" r="28"/><circle cx="258" cy="83" r="26"/></g>
+    <path d="M78 109C87 143 117 147 168 131C219 147 249 143 258 109M168 95V147" fill="none" stroke="#a78bfa" stroke-width="4"/>
+    <circle cx="168" cy="131" r="12" fill="#f1df76" stroke="#fff3b0" stroke-width="2"/>
+    <path d="M168 143C155 160 147 167 127 176M168 143C181 160 189 167 209 176" fill="none" stroke="#f1df76" stroke-width="2"/>
+    <text x="168" y="199" text-anchor="middle" fill="#d8b4fe" font-family="Impact, Arial Narrow, sans-serif" font-size="18" letter-spacing="2">THREE SISTERS</text>
+    <text x="168" y="218" text-anchor="middle" fill="#907a9b" font-family="monospace" font-size="8">SHARED CELL / MOTHER CALMS ALL</text>
+  </g>
+
+  <!-- Masks orbit an empty identity rather than using the bird or sister geometry. -->
+  <g transform="translate(89 232)">
+    <path d="M46 64C89 6 247 5 295 64C279 135 229 163 170 169C111 163 61 135 46 64Z" fill="none" stroke="#f1df76" stroke-width="2" stroke-dasharray="10 6"/>
+    <g stroke="#f1df76" stroke-width="3">
+      <path d="M38 41C58 22 93 26 105 50C97 89 76 105 54 101C35 85 30 63 38 41Z" fill="#29230c"/>
+      <path d="M121 22C145 3 183 6 199 32C194 75 171 91 146 86C125 69 115 45 121 22Z" fill="#151a22"/>
+      <path d="M225 42C246 20 283 24 298 49C292 90 270 107 247 101C228 85 218 63 225 42Z" fill="#26111b"/>
+    </g>
+    <g fill="#05070a"><ellipse cx="58" cy="60" rx="6" ry="10"/><ellipse cx="84" cy="59" rx="6" ry="10"/><ellipse cx="143" cy="39" rx="6" ry="10"/><ellipse cx="176" cy="39" rx="6" ry="10"/><ellipse cx="248" cy="60" rx="6" ry="10"/><ellipse cx="275" cy="59" rx="6" ry="10"/></g>
+    <ellipse cx="170" cy="121" rx="29" ry="35" fill="#030405" stroke="#ef7085" stroke-width="3"/>
+    <text x="170" y="193" text-anchor="middle" fill="#f1df76" font-family="Impact, Arial Narrow, sans-serif" font-size="18" letter-spacing="2">MASKED TROUPE</text>
+    <text x="170" y="211" text-anchor="middle" fill="#978b5a" font-family="monospace" font-size="8">WANDER / CEREMONY / EMPTY FACE</text>
+  </g>
+
+  <!-- Debt is balanced as three inherited positions on one scale. -->
+  <g transform="translate(972 232)">
+    <path d="M164 19V146M94 50H234M164 19L147 45H181Z" fill="none" stroke="#ef9c61" stroke-width="5"/>
+    <path d="M94 50L48 126H140ZM234 50L188 126H280Z" fill="#1d1210" stroke="#ef9c61" stroke-width="3"/>
+    <circle cx="164" cy="77" r="25" fill="#32151c" stroke="#ef7085" stroke-width="3"/>
+    <text x="94" y="110" text-anchor="middle" fill="#f6ad84" font-family="monospace" font-size="9">ACCEPTS</text>
+    <text x="234" y="110" text-anchor="middle" fill="#f6ad84" font-family="monospace" font-size="9">REJECTS</text>
+    <text x="164" y="81" text-anchor="middle" fill="#ef9aaa" font-family="monospace" font-size="9">INHERITS</text>
+    <text x="164" y="183" text-anchor="middle" fill="#ef9c61" font-family="Impact, Arial Narrow, sans-serif" font-size="18" letter-spacing="2">DEBT TRIPLETS</text>
+    <text x="164" y="201" text-anchor="middle" fill="#9c7d70" font-family="monospace" font-size="8">THREE GENERATIONS / ONE DEBT</text>
+  </g>
+
+  <!-- Transformation chains are directional and fenced away from Hope. -->
+  <g transform="translate(455 304)">
+    <path d="M0 40H477" stroke="#ef7085" stroke-width="3" marker-end="url(#gc-arrow)"/>
+    <g fill="#100b11" stroke="#ef7085" stroke-width="2"><circle cx="0" cy="40" r="20"/><path d="M121 14L151 40L121 66L91 40Z"/><path d="M259 7L292 40L259 73L226 40Z"/><path d="M407 3L445 40L407 77L369 40Z"/></g>
+    <text x="0" y="44" text-anchor="middle" fill="#fff" font-family="monospace" font-size="8">FORM I</text>
+    <text x="121" y="44" text-anchor="middle" fill="#fff" font-family="monospace" font-size="8">TRIGGER</text>
+    <text x="259" y="44" text-anchor="middle" fill="#fff" font-family="monospace" font-size="8">FORM II</text>
+    <text x="407" y="44" text-anchor="middle" fill="#fff" font-family="monospace" font-size="8">WORSE</text>
+    <text x="238" y="93" text-anchor="middle" fill="#ef9aaa" font-family="Impact, Arial Narrow, sans-serif" font-size="16" letter-spacing="2">SORROW TRANSFORMATION CHAIN</text>
+  </g>
+  <path d="M411 396H979" stroke="#f1df76" stroke-width="2" stroke-dasharray="8 5"/>
+  <text x="695" y="414" text-anchor="middle" fill="#f1df76" font-family="monospace" font-size="9" letter-spacing="2">CATEGORY BOUNDARY: CHAINS ARE NOT HAND-OF-HOPE REWRITES</text>
+</svg>

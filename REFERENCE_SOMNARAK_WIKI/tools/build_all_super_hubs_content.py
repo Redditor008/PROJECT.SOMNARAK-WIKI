@@ -152,7 +152,7 @@ entities_html = '''
 
     <div class="pm-entity-card" style="--card-border:#38bdf8;">
       <div class="entity-card-top">
-        <img src="../assets/art/entities/se-002.svg" alt="SE-002" class="entity-card-icon">
+        <img src="../assets/art/entities/se-002-profile.svg" alt="SE-002" class="entity-card-icon">
         <div class="entity-card-meta"><span class="risk-badge risk-teth">T-02 TETH</span><span class="sector-tag">FLOOR 2 // MAW'S KEEP</span></div>
       </div>
       <h3 class="entity-card-name">SE-002: THE GRIEVING COLOSSUS</h3>
@@ -174,7 +174,7 @@ entities_html = '''
 
     <div class="pm-entity-card" style="--card-border:#f1df76;">
       <div class="entity-card-top">
-        <img src="../assets/art/entities/se-005.svg" alt="SE-005" class="entity-card-icon">
+        <img src="../assets/art/entities/se-005-profile.svg" alt="SE-005" class="entity-card-icon">
         <div class="entity-card-meta"><span class="risk-badge risk-he">T-03 HE</span><span class="sector-tag">FLOOR 2 // MAW'S KEEP</span></div>
       </div>
       <h3 class="entity-card-name">SE-005: THE SMOTHERING MOTHER</h3>
@@ -207,7 +207,7 @@ entities_html = '''
 
     <div class="pm-entity-card" style="--card-border:#ef4444;">
       <div class="entity-card-top">
-        <img src="../assets/art/entities/se-010.svg" alt="SE-010" class="entity-card-icon">
+        <img src="../assets/art/entities/se-010-profile.svg" alt="SE-010" class="entity-card-icon">
         <div class="entity-card-meta"><span class="risk-badge risk-aleph">T-05 ALEPH</span><span class="sector-tag">FLOOR 6 // DEEP VAULT</span></div>
       </div>
       <h3 class="entity-card-name">SE-010: THE CONVERGENCE</h3>

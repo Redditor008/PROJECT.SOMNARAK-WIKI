@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 350" role="img" aria-labelledby="title desc">
+  <title id="title">Leech Membrane Suit source-slot examination</title>
+  <desc id="desc">A porous leech membrane remains around its effluent tank while a human suit pattern and empty B, C, and D source slots show that donor skin cannot be renamed into a canonical M.A.W. suit.</desc>
+  <defs>
+    <radialGradient id="lm-bg" cx="30%" cy="50%" r="75%"><stop stop-color="#12352b"/><stop offset=".55" stop-color="#091411"/><stop offset="1" stop-color="#05080a"/></radialGradient>
+    <pattern id="lm-pores" width="38" height="38" patternUnits="userSpaceOnUse"><circle cx="9" cy="12" r="4" fill="#4b806d" opacity=".25"/><circle cx="29" cy="29" r="2" fill="#71efaf" opacity=".2"/></pattern>
+  </defs>
+  <rect width="1180" height="350" fill="url(#lm-bg)"/><rect width="1180" height="350" fill="url(#lm-pores)"/>
+  <path d="M8 8H1172V342H8Z" fill="none" stroke="#4b806d" stroke-width="2"/>
+  <!-- An organic containment membrane wraps a tank, not an agent. -->
+  <g transform="translate(45 54)">
+    <path d="M42 13C95-8 244-5 298 21C330 73 329 181 292 229C222 253 100 255 35 224C7 158 8 70 42 13Z" fill="#102b23" stroke="#71efaf" stroke-width="4"/>
+    <path d="M67 37C115 20 224 21 272 40V201C217 220 119 220 62 199Z" fill="#07110f" stroke="#326656" stroke-width="3"/>
+    <path d="M92 69C129 41 168 89 201 59C231 31 263 62 265 92C268 126 229 137 204 119C174 98 150 139 117 127C80 114 64 89 92 69Z" fill="#285b4b" stroke="#71efaf" stroke-width="3"/>
+    <path d="M89 155C137 132 170 182 213 151C245 128 272 160 257 191" fill="none" stroke="#34d399" stroke-width="12" stroke-linecap="round"/>
+    <text x="166" y="273" text-anchor="middle" fill="#a7f3d0" font-family="monospace" font-size="9">EFFLUENT TANK / ENTITY MEMBRANE</text>
+  </g>
+  <!-- The attempted clothing pattern is kept visibly separate and crossed out. -->
+  <g transform="translate(438 68)">
+    <path d="M106 0L174 23L211 89L180 235H32L1 89L38 23Z" fill="none" stroke="#94a3b8" stroke-width="4" stroke-dasharray="12 8"/>
+    <path d="M38 23L76 60L106 40L137 60L174 23M32 120H180" fill="none" stroke="#94a3b8" stroke-width="3"/>
+    <path d="M7 23L206 226M206 23L7 226" stroke="#ef5b55" stroke-width="10"/>
+    <text x="106" y="265" text-anchor="middle" fill="#ef7085" font-family="Impact, Arial Narrow, sans-serif" font-size="19" letter-spacing="3">DONOR SKIN ≠ SUIT</text>
+  </g>
+  <!-- Missing source slots provide the mechanical reason for the hold. -->
+  <g transform="translate(730 65)">
+    <text x="0" y="16" fill="#71efaf" font-family="monospace" font-size="10" letter-spacing="2">CODEX DONOR FILES</text>
+    <g transform="translate(0 34)" font-family="Impact, Arial Narrow, sans-serif" font-size="26" text-anchor="middle">
+      <path d="M0 0H104V94H0Z" fill="#130b0e" stroke="#ef5b55" stroke-width="3" stroke-dasharray="9 5"/><text x="52" y="43" fill="#ef7085">B</text><text x="52" y="70" fill="#8f6974" font-family="monospace" font-size="9">MISSING</text>
+      <path d="M124 0H228V94H124Z" fill="#130b0e" stroke="#ef5b55" stroke-width="3" stroke-dasharray="9 5"/><text x="176" y="43" fill="#ef7085">C</text><text x="176" y="70" fill="#8f6974" font-family="monospace" font-size="9">MISSING</text>
+      <path d="M248 0H352V94H248Z" fill="#130b0e" stroke="#ef5b55" stroke-width="3" stroke-dasharray="9 5"/><text x="300" y="43" fill="#ef7085">D</text><text x="300" y="70" fill="#8f6974" font-family="monospace" font-size="9">MISSING</text>
+    </g>
+    <path d="M0 151H352V215H0Z" fill="#071018" stroke="#38bdf8" stroke-width="2"/>
+    <text x="176" y="178" text-anchor="middle" fill="#9ddff8" font-family="monospace" font-size="9">ISSUE AUTHORITY</text>
+    <text x="176" y="202" text-anchor="middle" fill="#fff" font-family="Impact, Arial Narrow, sans-serif" font-size="21">NONE</text>
+  </g>
+  <text x="24" y="30" fill="#71efaf" font-family="monospace" font-size="10" letter-spacing="2">MAW-S-006 // LEECH MEMBRANE SUIT HOLD</text>
+  <text x="1156" y="330" text-anchor="end" fill="#f1df76" font-family="monospace" font-size="10">SHROUD / MANTLE / PLATE / VEIL REQUIRE NAMED CANONICAL EXTRACTS</text>
+</svg>

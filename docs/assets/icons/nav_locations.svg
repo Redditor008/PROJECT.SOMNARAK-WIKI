@@ -4,5 +4,5 @@
   <circle cx="60" cy="56" r="8" fill="#f1df76"/>
   <line x1="60" y1="24" x2="60" y2="88" stroke="#38bdf8" stroke-width="1.2"/>
   <line x1="32" y1="56" x2="88" y2="56" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="60" y="104" fill="#c084fc" font-family="'JetBrains Mono', monospace" font-size="8.5" font-weight="bold" text-anchor="middle">ATLAS & ZONES</text>
+  <text x="60" y="104" fill="#c084fc" font-family="'JetBrains Mono', monospace" font-size="8.5" font-weight="bold" text-anchor="middle">ATLAS &amp; ZONES</text>
 </svg>

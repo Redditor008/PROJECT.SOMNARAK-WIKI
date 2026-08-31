@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 320" role="img" aria-labelledby="title desc">
+  <title id="title">Siphon Cannula blocked extraction circuit</title>
+  <desc id="desc">An effluent pipe and leech loop approach a forge intake, but a closed registry valve and the missing SE-006 folder prevent the alleged cannula from becoming an authorized weapon.</desc>
+  <defs>
+    <linearGradient id="sc-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071311"/><stop offset=".6" stop-color="#071018"/><stop offset="1" stop-color="#10090d"/></linearGradient>
+    <linearGradient id="sc-flow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#34d399"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <pattern id="sc-pipe-grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#214137" opacity=".3"/></pattern>
+  </defs>
+  <rect width="1240" height="320" fill="url(#sc-bg)"/><rect width="1240" height="320" fill="url(#sc-pipe-grid)"/>
+  <path d="M10 10H1230V310H10Z" fill="none" stroke="#3a7161" stroke-width="2"/>
+  <!-- Effluent is contained in infrastructure, not forged into the imagined weapon. -->
+  <g transform="translate(35 72)">
+    <path d="M0 65H168V20H307V145H442" fill="none" stroke="#1f4d42" stroke-width="38"/>
+    <path d="M0 65H168V20H307V145H442" fill="none" stroke="url(#sc-flow)" stroke-width="7" stroke-dasharray="13 8"/>
+    <path d="M101 41V89M145-4V44M283 1H331M283 121H331" stroke="#8da99f" stroke-width="5"/>
+    <path d="M218 20C235 70 202 89 232 132C254 163 302 162 325 143" fill="none" stroke="#71efaf" stroke-width="13" stroke-linecap="round"/>
+    <circle cx="236" cy="86" r="12" fill="#071311" stroke="#71efaf" stroke-width="3"/>
+    <text x="0" y="184" fill="#71efaf" font-family="monospace" font-size="9">EFFLUENT CONDUIT / PARASITE LOOP</text>
+  </g>
+  <!-- A physical valve represents the source gap at 006. -->
+  <g transform="translate(493 77)">
+    <circle cx="70" cy="70" r="66" fill="#0a1114" stroke="#ef5b55" stroke-width="6"/>
+    <circle cx="70" cy="70" r="38" fill="#171012" stroke="#94a3b8" stroke-width="3"/>
+    <path d="M36 36L104 104M104 36L36 104" stroke="#ef5b55" stroke-width="12"/>
+    <path d="M70 0V-37M40-37H100M70 136V168" stroke="#94a3b8" stroke-width="6"/>
+    <text x="70" y="193" text-anchor="middle" fill="#ef7085" font-family="Impact, Arial Narrow, sans-serif" font-size="18" letter-spacing="3">REGISTRY VALVE CLOSED</text>
+  </g>
+  <!-- The ghost cannula ends before the forge aperture. -->
+  <g transform="translate(693 52)">
+    <path d="M0 106C87 106 99 29 182 29H263" fill="none" stroke="#9ca3af" stroke-width="8" stroke-dasharray="14 9"/>
+    <path d="M263 14L310 29L263 44Z" fill="none" stroke="#9ca3af" stroke-width="4" stroke-dasharray="8 5"/>
+    <path d="M177 0L201 58M196 4L174 55" stroke="#ef5b55" stroke-width="7"/>
+    <path d="M336 0H482V183H336Z" fill="#100b08" stroke="#f1df76" stroke-width="3"/>
+    <path d="M367 35H451V103H367Z" fill="#050607" stroke="#ef5b55" stroke-width="3"/>
+    <text x="409" y="76" text-anchor="middle" fill="#ef7085" font-family="Impact, Arial Narrow, sans-serif" font-size="18">NO INPUT</text>
+    <path d="M365 134H453" stroke="#f1df76" stroke-width="4"/>
+    <text x="409" y="160" text-anchor="middle" fill="#f1df76" font-family="monospace" font-size="9">FORGE INTAKE</text>
+  </g>
+  <g transform="translate(36 23)" font-family="monospace" font-size="10">
+    <text fill="#71efaf" letter-spacing="2">MAW-W-006 / SIPHON CANNULA</text>
+    <text x="1170" text-anchor="end" fill="#ef7085">UNREGISTERED / URL RETAINED</text>
+  </g>
+  <rect x="742" y="247" width="459" height="40" fill="#13090d" stroke="#ef5b55" stroke-width="2"/>
+  <text x="971" y="273" text-anchor="middle" fill="#ef9aaa" font-family="monospace" font-size="11">003 → 005 → [006 MISSING] → 007</text>
+  <text x="24" y="302" fill="#8ba89d" font-family="monospace" font-size="9">A WIKI ENTITY DESCRIPTION CANNOT OPEN A CODEX FORGE CIRCUIT</text>
+</svg>

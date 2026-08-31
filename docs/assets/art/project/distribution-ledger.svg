@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Archive distribution provenance ledger</title>
+  <desc id="desc">An asymmetric cutaway follows one revision spine from a sealed canonical-source vault through the curated public encyclopedia to an offline reader, beside a crossed-out loop representing opaque generated-archive churn.</desc>
+  <defs>
+    <linearGradient id="ledger-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090d14"/>
+      <stop offset="0.64" stop-color="#07090d"/>
+      <stop offset="1" stop-color="#171207"/>
+    </linearGradient>
+    <linearGradient id="vault" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#152638"/>
+      <stop offset="1" stop-color="#09111a"/>
+    </linearGradient>
+    <linearGradient id="press" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b3210"/>
+      <stop offset="1" stop-color="#121006"/>
+    </linearGradient>
+    <pattern id="ledger-lines" width="48" height="24" patternUnits="userSpaceOnUse">
+      <path d="M0 23.5H48" stroke="#26394d" stroke-width="1" opacity="0.32"/>
+    </pattern>
+    <filter id="stamp-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="500" rx="8" fill="url(#ledger-bg)"/>
+  <rect x="1" y="1" width="1198" height="498" rx="8" fill="url(#ledger-lines)" stroke="#566b7f" stroke-width="2"/>
+  <path d="M0 8H1200" stroke="#f1df76" stroke-width="8"/>
+  <text x="28" y="40" fill="#f1df76" font-family="Impact, Arial Narrow, sans-serif" font-size="20" letter-spacing="3">ARCHIVE DISTRIBUTION LEDGER</text>
+  <text x="1172" y="39" text-anchor="end" fill="#38bdf8" font-family="monospace" font-size="10" letter-spacing="2">PROVENANCE RECORD // 1.8.31</text>
+
+  <!-- One revision spine passes through three differently shaped strata. -->
+  <path d="M110 73V432" stroke="#192838" stroke-width="30"/>
+  <path d="M110 73V432" stroke="#38bdf8" stroke-width="3" stroke-dasharray="10 7"/>
+  <g fill="#071018" stroke="#f1df76" stroke-width="3">
+    <circle cx="110" cy="130" r="13"/><circle cx="110" cy="265" r="13"/><circle cx="110" cy="407" r="13"/>
+  </g>
+  <text x="90" y="452" text-anchor="end" transform="rotate(-90 90 452)" fill="#7191a7" font-family="monospace" font-size="9" letter-spacing="2">ONE TRACEABLE REVISION SPINE</text>
+
+  <!-- Layer I is a deep source vault with sealed shelves and a canon key. -->
+  <g transform="translate(150 66)">
+    <path d="M0 22L28 0H568L602 34V124L575 151H0Z" fill="url(#vault)" stroke="#38bdf8" stroke-width="2"/>
+    <path d="M28 0V22H0M568 0V34H602" fill="none" stroke="#38bdf8" stroke-width="2"/>
+    <rect x="20" y="38" width="58" height="95" fill="#05090d" stroke="#4f718b"/>
+    <path d="M31 50H67V73H31ZM31 80H67V103H31ZM31 110H67V125H31Z" fill="#172b3d" stroke="#71efaf"/>
+    <g transform="translate(101 33)">
+      <path d="M0 0H305V102H0Z" fill="#0b141e" stroke="#314d64"/>
+      <path d="M18 18H84V84H18ZM98 18H164V84H98ZM178 18H244V84H178" fill="#142739" stroke="#55738b"/>
+      <path d="M35 30V73M51 30V73M67 30V73M115 30V73M131 30V73M147 30V73M195 30V73M211 30V73M227 30V73" stroke="#38bdf8" stroke-width="3"/>
+      <path d="M263 28H287V76H263Z" fill="#28141a" stroke="#ef7085" stroke-width="2"/>
+      <circle cx="275" cy="52" r="6" fill="none" stroke="#ef7085" stroke-width="2"/>
+    </g>
+    <g transform="translate(435 37)">
+      <circle cx="55" cy="43" r="42" fill="#071018" stroke="#f1df76" stroke-width="3"/>
+      <path d="M55 16L73 35L65 65H45L37 35Z" fill="#342d0e" stroke="#f1df76" stroke-width="2"/>
+      <path d="M55 65V91M45 79H65" stroke="#f1df76" stroke-width="4"/>
+      <text x="55" y="111" text-anchor="middle" fill="#f1df76" font-family="monospace" font-size="8">CANON KEY</text>
+    </g>
+    <rect x="-30" y="45" width="72" height="24" fill="#38bdf8"/>
+    <text x="6" y="61" text-anchor="middle" fill="#061018" font-family="monospace" font-size="10" font-weight="bold">LAYER I</text>
+    <text x="98" y="24" fill="#71efaf" font-family="monospace" font-size="9" letter-spacing="2">PRESERVATION / REFERENCE_SOMNARAK_WIKI</text>
+    <text x="98" y="145" fill="#b8c9d7" font-family="Impact, Arial Narrow, sans-serif" font-size="17" letter-spacing="2">CANONICAL SOURCE WORKSPACE</text>
+  </g>
+
+  <!-- Layer II is a curation press, offset from the vault rather than copied from it. -->
+  <g transform="translate(150 227)">
+    <path d="M0 0H720L758 31V134H66L0 102Z" fill="url(#press)" stroke="#f1df76" stroke-width="2"/>
+    <path d="M720 0V31H758" fill="none" stroke="#f1df76" stroke-width="2"/>
+    <rect x="-30" y="29" width="72" height="24" fill="#f1df76"/>
+    <text x="6" y="45" text-anchor="middle" fill="#171307" font-family="monospace" font-size="10" font-weight="bold">LAYER II</text>
+    <g transform="translate(88 19)">
+      <path d="M0 0H114V91H0Z" fill="#071018" stroke="#38bdf8" stroke-width="2"/>
+      <path d="M15 17H99M15 33H83M15 49H104" stroke="#6f8ca3" stroke-width="4"/>
+      <path d="M15 69H52" stroke="#71efaf" stroke-width="6"/>
+      <text x="57" y="108" text-anchor="middle" fill="#38bdf8" font-family="monospace" font-size="8">SOURCE RECORD</text>
+    </g>
+    <path d="M232 64H315" stroke="#ef7085" stroke-width="3"/>
+    <path d="M299 49L315 64L299 79" fill="none" stroke="#ef7085" stroke-width="3"/>
+    <g transform="translate(336 15)">
+      <path d="M0 15H161V104H0Z" fill="#0b1118" stroke="#71efaf" stroke-width="2"/>
+      <path d="M0 15L24 0H185L161 15Z" fill="#173025" stroke="#71efaf" stroke-width="2"/>
+      <path d="M161 15L185 0V88L161 104Z" fill="#0b1d18" stroke="#71efaf" stroke-width="2"/>
+      <path d="M19 34H139M19 51H116M19 68H145" stroke="#81988e" stroke-width="4"/>
+      <rect x="19" y="83" width="61" height="10" fill="#f1df76"/>
+      <text x="90" y="122" text-anchor="middle" fill="#71efaf" font-family="monospace" font-size="8">CURATED PUBLIC PAGE</text>
+    </g>
+    <g transform="translate(565 26)" fill="none" stroke="#38bdf8" stroke-width="2">
+      <circle cx="44" cy="43" r="36"/><path d="M19 43H69M44 18V68M27 26L61 60M61 26L27 60"/>
+      <circle cx="44" cy="43" r="8" fill="#38bdf8"/>
+    </g>
+    <text x="667" y="53" fill="#38bdf8" font-family="monospace" font-size="9" letter-spacing="1">197 FILES</text>
+    <text x="667" y="71" fill="#f1df76" font-family="monospace" font-size="9" letter-spacing="1">200+ WORDS</text>
+    <text x="667" y="89" fill="#71efaf" font-family="monospace" font-size="9" letter-spacing="1">LOCAL ART</text>
+    <text x="86" y="126" fill="#f6eaa4" font-family="Impact, Arial Narrow, sans-serif" font-size="17" letter-spacing="2">PUBLICATION IS EDITORIAL SELECTION, NOT A SOURCE DUMP</text>
+  </g>
+
+  <!-- Layer III becomes a reader endpoint with a downloaded revision and local server. -->
+  <g transform="translate(150 384)">
+    <path d="M0 0H248L275 26H596L624 54H0Z" fill="#08130f" stroke="#71efaf" stroke-width="2"/>
+    <rect x="-30" y="15" width="72" height="24" fill="#71efaf"/>
+    <text x="6" y="31" text-anchor="middle" fill="#06100b" font-family="monospace" font-size="10" font-weight="bold">LAYER III</text>
+    <path d="M82 12H126V42H82Z" fill="#14291f" stroke="#71efaf"/>
+    <path d="M94 21H114M94 29H109" stroke="#c7f8df" stroke-width="2"/>
+    <path d="M155 27H230" stroke="#f1df76" stroke-width="3"/>
+    <path d="M216 17L230 27L216 37" fill="none" stroke="#f1df76" stroke-width="3"/>
+    <rect x="255" y="10" width="143" height="34" fill="#071018" stroke="#38bdf8"/>
+    <text x="326" y="31" text-anchor="middle" fill="#9ddff8" font-family="monospace" font-size="9">LOCALHOST : 8000</text>
+    <path d="M431 10H570V44H431Z" fill="#101006" stroke="#f1df76"/>
+    <text x="500" y="31" text-anchor="middle" fill="#f1df76" font-family="monospace" font-size="9">OFFLINE READER</text>
+    <text x="82" y="75" fill="#aeeed0" font-family="Impact, Arial Narrow, sans-serif" font-size="17" letter-spacing="2">REPOSITORY SNAPSHOT → EXTRACT → SERVE DOCS/</text>
+  </g>
+
+  <!-- The rejected binary churn loop is isolated from the revision spine. -->
+  <g transform="translate(945 108)">
+    <path d="M74 0C143 0 184 52 184 113C184 181 132 226 69 226C25 226 0 202 0 174" fill="none" stroke="#733044" stroke-width="16" opacity="0.5"/>
+    <path d="M74 0C143 0 184 52 184 113C184 181 132 226 69 226C25 226 0 202 0 174" fill="none" stroke="#ef7085" stroke-width="3" stroke-dasharray="10 8"/>
+    <path d="M0 174L-8 138L28 153Z" fill="#ef7085"/>
+    <path d="M40 75H140V150H40Z" fill="#160b10" stroke="#ef7085" stroke-width="2"/>
+    <path d="M40 75L60 55H160L140 75Z" fill="#32111d" stroke="#ef7085" stroke-width="2"/>
+    <path d="M140 75L160 55V130L140 150Z" fill="#260d17" stroke="#ef7085" stroke-width="2"/>
+    <text x="90" y="110" text-anchor="middle" fill="#ef9aaa" font-family="monospace" font-size="11">OPAQUE</text>
+    <text x="90" y="129" text-anchor="middle" fill="#ef9aaa" font-family="monospace" font-size="11">BINARY ZIP</text>
+    <path d="M15 26L177 201M177 26L15 201" stroke="#ef5b55" stroke-width="8" filter="url(#stamp-glow)"/>
+    <text x="92" y="252" text-anchor="middle" fill="#ef7085" font-family="Impact, Arial Narrow, sans-serif" font-size="16" letter-spacing="2">NO ARCHIVE CHURN</text>
+    <text x="92" y="270" text-anchor="middle" fill="#96717c" font-family="monospace" font-size="8">LARGE BINARY DIFFS HIDE PROVENANCE</text>
+  </g>
+
+  <text x="28" y="482" fill="#8095a6" font-family="monospace" font-size="9" letter-spacing="2">PRESERVE THE SOURCE // CURATE THE PUBLIC TREE // DISTRIBUTE THE REVISION</text>
+  <text x="1172" y="482" text-anchor="end" fill="#f1df76" font-family="monospace" font-size="9">VERIFIED SNAPSHOT POLICY</text>
+</svg>

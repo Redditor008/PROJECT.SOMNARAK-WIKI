@@ -27,7 +27,7 @@
       padding: 32px 24px;
     }
     .container { max-width: 1600px; margin: 0 auto; }
-    header {
+    .gallery-heading {
       border-bottom: 2px solid var(--border-subtle);
       padding-bottom: 24px;
       margin-bottom: 32px;
@@ -103,10 +103,43 @@
       user-select: all;
     }
   </style>
+  <link rel="stylesheet" href="../../assets/css/wiki.css?v=20260831g">
+  <script defer src="../../assets/js/wiki.js?v=20260831g"></script>
 </head>
-<body>
+<body class="asset-gallery-page">
+<header class="utility" data-component="global-top-bar">
+  <div class="utility-left">
+    <button class="nav-open" type="button" aria-controls="primary-archive-navigation" aria-expanded="false" aria-label="Open primary archive navigation">
+      <span class="nav-open-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="nav-open-text">MENU</span>
+    </button>
+    <a class="utility-brand" href="../../index.html" aria-label="Somnarak Wiki main page">
+      <img src="../../assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
+    </a>
+    <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>
+  </div>
+  <nav class="utility-nav" id="primary-archive-navigation" aria-label="Primary archive">
+      <a href="../../index.html" data-archive="00"><span>Main</span><small>Terminal</small></a>
+      <a href="../../characters/index.html" data-archive="01"><span>Characters</span><small>Echo-Cores</small></a>
+      <a href="../../lore/index.html" data-archive="02"><span>Lore</span><small>Cycles</small></a>
+      <a href="../../locations/index.html" data-archive="03"><span>Atlas</span><small>City</small></a>
+      <a href="../../factions/index.html" data-archive="04"><span>Factions</span><small>Orders</small></a>
+      <a href="../../departments/index.html" data-archive="05"><span>Facility</span><small>Floors</small></a>
+      <a href="../../entities/index.html" data-archive="06"><span>Entities</span><small>SECC</small></a>
+      <a href="../../maw/index.html" data-archive="07"><span>M.A.W.</span><small>Arsenal</small></a>
+      <a href="../../mechanics/index.html" data-archive="08"><span>Mechanics</span><small>Systems</small></a>
+      <a href="../../downloads.html" data-archive="09" class="is-current" aria-current="page"><span>Downloads</span><small>Files</small></a>
+  </nav>
+  <div class="search" role="search">
+    <label for="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search Somnarak Wiki</span></label>
+    <input id="search" type="search" aria-label="Search Somnarak Wiki" aria-controls="results" aria-expanded="false" data-index="../../data/search.json" placeholder="Search the archive" autocomplete="off" spellcheck="false"/>
+    <kbd aria-hidden="true">/</kbd>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</header>
   <div class="container">
-    <header>
+    <header class="gallery-heading">
       <div>
         <h1>SOMNARAK WIKI // MASTER ICON REPOSITORY</h1>
         <div class="subtitle">43 CANONICAL MODULAR SVG ASSETS // READY FOR DIRECT WIKI EMBEDDING</div>
@@ -132,7 +165,7 @@
           <div class="icon-file">icons/icon_somnarak_city_minimal.svg</div>
           <div class="code-box">![Somnarak City (Minimal)](icons/icon_somnarak_city_minimal.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="4" y="4" width="120" height="120" rx="14" fill="#0b0f19" stroke="#1e293b" stroke-width="2"/>
@@ -171,7 +204,7 @@
           <div class="icon-file">icons/icon_reverie_directorate_minimal.svg</div>
           <div class="code-box">![The Reverie Directorate (Minimal)](icons/icon_reverie_directorate_minimal.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="4" y="4" width="120" height="120" rx="14" fill="#080c14" stroke="#1e293b" stroke-width="2"/>
@@ -226,7 +259,7 @@
           <div class="icon-file">icons/icon_dept_f1_neutral.svg</div>
           <div class="code-box">![Floor 1: Neutral (중립)](icons/icon_dept_f1_neutral.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
@@ -242,7 +275,7 @@
           <div class="icon-file">icons/icon_dept_f1_neutral_badge.svg</div>
           <div class="code-box">![Floor 1: Neutral (중립) (Badge)](icons/icon_dept_f1_neutral_badge.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#ef4444" stroke-width="3"/>
@@ -255,7 +288,7 @@
           <div class="icon-file">icons/icon_dept_f2_maws_keep.svg</div>
           <div class="code-box">![Floor 2: The Maw's Keep (아가리의 요새)](icons/icon_dept_f2_maws_keep.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
@@ -270,7 +303,7 @@
           <div class="icon-file">icons/icon_dept_f2_maws_keep_badge.svg</div>
           <div class="code-box">![Floor 2: The Maw's Keep (아가리의 요새) (Badge)](icons/icon_dept_f2_maws_keep_badge.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#3b82f6" stroke-width="3"/>
@@ -284,7 +317,7 @@
           <div class="icon-file">icons/icon_dept_f3_extraction.svg</div>
           <div class="code-box">![Floor 3: The Extraction Hall (추출의 전당)](icons/icon_dept_f3_extraction.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
@@ -300,7 +333,7 @@
           <div class="icon-file">icons/icon_dept_f3_extraction_badge.svg</div>
           <div class="code-box">![Floor 3: The Extraction Hall (추출의 전당) (Badge)](icons/icon_dept_f3_extraction_badge.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#10b981" stroke-width="3"/>
@@ -314,7 +347,7 @@
           <div class="icon-file">icons/icon_dept_f4_insight_forge.svg</div>
           <div class="code-box">![Floor 4: The Insight Forge (통찰의 대장간)](icons/icon_dept_f4_insight_forge.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
@@ -330,7 +363,7 @@
           <div class="icon-file">icons/icon_dept_f4_insight_forge_badge.svg</div>
           <div class="code-box">![Floor 4: The Insight Forge (통찰의 대장간) (Badge)](icons/icon_dept_f4_insight_forge_badge.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#0284c7" stroke-width="3"/>
@@ -344,7 +377,7 @@
           <div class="icon-file">icons/icon_dept_f5_border_watch.svg</div>
           <div class="code-box">![Floor 5: The Border Watch (경계 감시소)](icons/icon_dept_f5_border_watch.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
@@ -360,7 +393,7 @@
           <div class="icon-file">icons/icon_dept_f5_border_watch_badge.svg</div>
           <div class="code-box">![Floor 5: The Border Watch (경계 감시소) (Badge)](icons/icon_dept_f5_border_watch_badge.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#8b5cf6" stroke-width="3"/>
@@ -374,7 +407,7 @@
           <div class="icon-file">icons/icon_dept_f6_deep_vault.svg</div>
           <div class="code-box">![Floor 6: The Deep Vault (심층 금고)](icons/icon_dept_f6_deep_vault.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
@@ -390,7 +423,7 @@
           <div class="icon-file">icons/icon_dept_f6_deep_vault_badge.svg</div>
           <div class="code-box">![Floor 6: The Deep Vault (심층 금고) (Badge)](icons/icon_dept_f6_deep_vault_badge.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#e11d48" stroke-width="3"/>
@@ -404,7 +437,7 @@
           <div class="icon-file">icons/icon_dept_f7_shadow_corps.svg</div>
           <div class="code-box">![Floor 7: The Shadow Corps (그림자 군단)](icons/icon_dept_f7_shadow_corps.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
@@ -420,7 +453,7 @@
           <div class="icon-file">icons/icon_dept_f7_shadow_corps_badge.svg</div>
           <div class="code-box">![Floor 7: The Shadow Corps (그림자 군단) (Badge)](icons/icon_dept_f7_shadow_corps_badge.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#94a3b8" stroke-width="3"/>
@@ -434,7 +467,7 @@
           <div class="icon-file">icons/icon_dept_f8_gate_watch.svg</div>
           <div class="code-box">![Floor 8: The Gate Watch (문 감시소)](icons/icon_dept_f8_gate_watch.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
@@ -463,7 +496,7 @@
           <div class="icon-file">icons/icon_zone_a_core.svg</div>
           <div class="code-box">![Zone A: Central Core Nexus (도심)](icons/icon_zone_a_core.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#10b981" stroke-width="2.5"/>
@@ -476,7 +509,7 @@
           <div class="icon-file">icons/icon_zone_b_west.svg</div>
           <div class="code-box">![Zone B: West Old District (구도심)](icons/icon_zone_b_west.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#3b82f6" stroke-width="2.5"/>
@@ -489,7 +522,7 @@
           <div class="icon-file">icons/icon_zone_c_east.svg</div>
           <div class="code-box">![Zone C: East Chevron Arc (수탈 구역)](icons/icon_zone_c_east.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#f59e0b" stroke-width="2.5"/>
@@ -502,7 +535,7 @@
           <div class="icon-file">icons/icon_zone_d_flanks.svg</div>
           <div class="code-box">![Zone D: North & South Flanks (단조로)](icons/icon_zone_d_flanks.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#a855f7" stroke-width="2.5"/>
@@ -527,7 +560,7 @@
           <div class="icon-file">icons/icon_sorrow_dohan_city.svg</div>
           <div class="code-box">![City Sorrow (도한 — Dohan)](icons/icon_sorrow_dohan_city.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#a855f7" stroke-width="3"/>
@@ -539,7 +572,7 @@
           <div class="icon-file">icons/icon_sorrow_oehan_outside.svg</div>
           <div class="code-box">![Outside Sorrow (외한 — Oehan)](icons/icon_sorrow_oehan_outside.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#3b82f6" stroke-width="3"/>
@@ -564,7 +597,7 @@
           <div class="icon-file">icons/icon_rank_1_whisper.svg</div>
           <div class="code-box">![Rank I: Whisper (속삭임)](icons/icon_rank_1_whisper.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#0284c7" stroke-width="2.5"/>
@@ -577,7 +610,7 @@
           <div class="icon-file">icons/icon_rank_2_murmur.svg</div>
           <div class="code-box">![Rank II: Murmur (중얼거림)](icons/icon_rank_2_murmur.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#f59e0b" stroke-width="2.5"/>
@@ -590,7 +623,7 @@
           <div class="icon-file">icons/icon_rank_3_fragment.svg</div>
           <div class="code-box">![Rank III: Fragment (파편)](icons/icon_rank_3_fragment.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#e11d48" stroke-width="2.5"/>
@@ -603,7 +636,7 @@
           <div class="icon-file">icons/icon_rank_4_entity.svg</div>
           <div class="code-box">![Rank IV: Entity (존재)](icons/icon_rank_4_entity.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#ef4444" stroke-width="2.5"/>
@@ -628,7 +661,7 @@
           <div class="icon-file">icons/icon_damage_grudge.svg</div>
           <div class="code-box">![Grudge (원한) — Crimson](icons/icon_damage_grudge.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <polygon points="64,8 118,64 64,120 10,64" fill="#0a0e17" stroke="#3b82f6" stroke-width="3"/>
@@ -640,7 +673,7 @@
           <div class="icon-file">icons/icon_damage_lament.svg</div>
           <div class="code-box">![Lament (비탄) — Deep Blue](icons/icon_damage_lament.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <polygon points="64,8 118,64 64,120 10,64" fill="#0a0e17" stroke="#a855f7" stroke-width="3"/>
@@ -652,7 +685,7 @@
           <div class="icon-file">icons/icon_damage_weight.svg</div>
           <div class="code-box">![Weight (중압) — Obsidian](icons/icon_damage_weight.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <polygon points="64,8 118,64 64,120 10,64" fill="#0a0e17" stroke="#94a3b8" stroke-width="3"/>
@@ -677,7 +710,7 @@
           <div class="icon-file">icons/icon_maw_grade_alpha.svg</div>
           <div class="code-box">![Grade-α (Alpha)](icons/icon_maw_grade_alpha.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <circle cx="64" cy="64" r="56" fill="#080c14" stroke="#0284c7" stroke-width="3"/>
@@ -690,7 +723,7 @@
           <div class="icon-file">icons/icon_maw_grade_beta.svg</div>
           <div class="code-box">![Grade-β (Beta)](icons/icon_maw_grade_beta.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <circle cx="64" cy="64" r="56" fill="#080c14" stroke="#f59e0b" stroke-width="3"/>
@@ -703,7 +736,7 @@
           <div class="icon-file">icons/icon_maw_grade_gamma.svg</div>
           <div class="code-box">![Grade-γ (Gamma)](icons/icon_maw_grade_gamma.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <circle cx="64" cy="64" r="56" fill="#080c14" stroke="#8b5cf6" stroke-width="3"/>
@@ -716,7 +749,7 @@
           <div class="icon-file">icons/icon_maw_grade_delta.svg</div>
           <div class="code-box">![Grade-δ (Delta)](icons/icon_maw_grade_delta.svg)</div>
         </div>
-        
+
         <div class="icon-card">
           <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
   <circle cx="64" cy="64" r="56" fill="#080c14" stroke="#ef4444" stroke-width="3"/>
@@ -731,5 +764,97 @@
         </div>
         </div>
   </div>
+<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  <div class="footer-signal" aria-hidden="true">
+    <span>RD://PUBLIC-NET</span><i></i>
+    <span>SECC LINK STABLE</span><i></i>
+    <span>FACILITY 01 // GATE WATCH</span><i></i>
+    <span>PUBLICATION GATES PASSING</span>
+  </div>
+
+  <div class="footer-hero">
+    <section class="footer-identity" aria-label="Somnarak Wiki">
+      <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
+      <a class="footer-brand" href="../../index.html">
+        <span class="footer-emblem"><img src="../../assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
+      </a>
+      <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
+      <p>The public record follows Somnarak from the Alpha Tree and five city zones into Facility 01, where witnessed canon is curated without replacing absence with invention.</p>
+      <div class="footer-badges" aria-label="Archive classification">
+        <span>FACILITY 01</span><span>DIRECTORATE</span><span>PUBLIC CODEX</span>
+      </div>
+    </section>
+
+    <figure class="footer-network">
+      <div class="footer-network-frame">
+        <img src="../../assets/layout/footer-directorate-network.svg" alt="Directorate archive topology linking the Alpha Tree, five city zones, Facility 01, Gate Watch, and eight public archive gateways"/>
+        <span class="footer-network-scan" aria-hidden="true"></span>
+      </div>
+      <figcaption><span>Live archive topology</span><b>ALPHA TREE → FACILITY 01 → PUBLIC CODEX</b></figcaption>
+    </figure>
+
+    <section class="footer-status" aria-label="Current archive status">
+      <span>Verified repository snapshot</span>
+      <strong>1.8.31</strong>
+      <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
+      <dl>
+        <div><dt>Public records</dt><dd>197 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
+        <div><dt>Cycle state</dt><dd>ENDED</dd></div>
+        <div><dt>Gate command</dt><dd>XYAN</dd></div>
+      </dl>
+    </section>
+  </div>
+
+  <div class="footer-directory">
+    <section class="footer-archives" aria-labelledby="footer-archives-title">
+      <header><span>Primary collections</span><h2 id="footer-archives-title">Eight Archive Gateways</h2><p>Continue through the complete public taxonomy.</p></header>
+      <div>
+        <a href="../../characters/index.html" data-footer-archive="01" style="--gateway:#ef5b55"><span>01</span><b>Echo-Cores</b><small>Characters</small></a>
+        <a href="../../lore/index.html" data-footer-archive="02" style="--gateway:#a78bfa"><span>02</span><b>Cycle Archive</b><small>Lore</small></a>
+        <a href="../../locations/index.html" data-footer-archive="03" style="--gateway:#38bdf8"><span>03</span><b>City Atlas</b><small>Locations</small></a>
+        <a href="../../factions/index.html" data-footer-archive="04" style="--gateway:#f59e0b"><span>04</span><b>Orders</b><small>Factions</small></a>
+        <a href="../../departments/index.html" data-footer-archive="05" style="--gateway:#71efaf"><span>05</span><b>Hand of Change</b><small>Facility</small></a>
+        <a href="../../entities/index.html" data-footer-archive="06" style="--gateway:#fb7185"><span>06</span><b>SECC Registry</b><small>Entities</small></a>
+        <a href="../../maw/index.html" data-footer-archive="07" style="--gateway:#f1df76"><span>07</span><b>M.A.W. Arsenal</b><small>Equipment</small></a>
+        <a href="../../mechanics/index.html" data-footer-archive="08" style="--gateway:#60a5fa"><span>08</span><b>Systems Codex</b><small>Mechanics</small></a>
+      </div>
+    </section>
+
+    <nav class="footer-links" aria-label="Archive resources">
+      <header><span>Project access</span><h2>Archive Resources</h2><p>Inspect provenance, files, and visual infrastructure.</p></header>
+      <div>
+        <a href="../../project/source-map.html" data-footer-link="R-01"><b>Source Map</b><small>Canon provenance</small></a>
+        <a href="../../downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
+        <a href="../../assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
+        <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+      </div>
+    </nav>
+  </div>
+
+  <section class="footer-register" aria-label="Publication register">
+    <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
+    <dl>
+      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+    </dl>
+    <div class="footer-protocols">
+      <span><b>01</b> SOURCE-LED CONTENT</span>
+      <span><b>02</b> DISTINCT VISUAL FORM</span>
+      <span><b>03</b> NO RECOLOR-ONLY ART</span>
+      <span><b>04</b> VERIFIED LOCAL ROUTES</span>
+    </div>
+  </section>
+
+  <div class="footer-base">
+    <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
+    <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+  </div>
+</footer>
 </body>
 </html>

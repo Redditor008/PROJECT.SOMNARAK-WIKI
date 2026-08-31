@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 360" role="img" aria-labelledby="title desc">
+  <title id="title">Retracted Tide Cloak extraction record</title>
+  <desc id="desc">A towering Outside Sorrow wave bears down on a watchtower and an empty suit stand; a residue-depth ruler and Collapse alarm show that SE-003 produces border conditions, not wearable cloth.</desc>
+  <defs>
+    <linearGradient id="tc-sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#050914"/><stop offset="1" stop-color="#151d27"/></linearGradient>
+    <linearGradient id="tc-wave" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#164e63"/><stop offset=".55" stop-color="#0c4a6e"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <filter id="tc-foam"><feTurbulence baseFrequency=".04" numOctaves="2" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="8"/></filter>
+  </defs>
+  <rect width="1120" height="360" fill="url(#tc-sky)"/>
+  <path d="M0 0H1120V360H0Z" fill="none" stroke="#38bdf8" stroke-width="3"/>
+  <!-- The Tide is rendered as a location-scale pressure front. -->
+  <path d="M0 58C98 20 170 33 235 93C292 146 332 128 381 85C451 24 537 38 583 102C630 168 694 168 745 112C805 47 901 45 960 116C1002 166 1050 178 1120 143V360H0Z" fill="url(#tc-wave)" opacity=".9"/>
+  <path d="M0 75C100 39 171 50 228 106C290 166 344 147 394 103C461 44 531 55 575 116C629 190 698 184 756 128C821 65 901 67 951 129C1000 190 1051 195 1120 163" fill="none" stroke="#7dd3fc" stroke-width="6" filter="url(#tc-foam)"/>
+  <text x="34" y="117" fill="#bae6fd" font-family="Impact, Arial Narrow, sans-serif" font-size="23" letter-spacing="4">OUTSIDE SORROW PRESSURE LINE</text>
+  <!-- Watchtower and wall hold the front; no cloak leaves them. -->
+  <g transform="translate(105 157)">
+    <path d="M0 152H300M66 152L93 25H159L190 152M82 75H176M54 111H201" fill="none" stroke="#d5d9df" stroke-width="7"/>
+    <path d="M95 25V0H157V25M126 0V-22" fill="none" stroke="#f1df76" stroke-width="5"/>
+    <circle cx="126" cy="-25" r="9" fill="#ef5b55"/>
+    <text x="210" y="143" fill="#94a3b8" font-family="monospace" font-size="9">WARDENS / FERREHAN</text>
+  </g>
+  <g transform="translate(535 153)">
+    <path d="M105 5C71 5 58 39 70 69L39 139L68 155L105 104L142 155L171 139L140 69C152 39 139 5 105 5Z" fill="none" stroke="#94a3b8" stroke-width="4" stroke-dasharray="11 7"/>
+    <path d="M38 1L172 159M172 1L38 159" stroke="#ef5b55" stroke-width="8"/>
+    <text x="105" y="186" text-anchor="middle" fill="#ef7085" font-family="Impact, Arial Narrow, sans-serif" font-size="20" letter-spacing="3">NO WEARABLE</text>
+  </g>
+  <!-- Residue, not fabric, is the measurable output. -->
+  <g transform="translate(805 141)">
+    <path d="M0 0H63V174H0Z" fill="#070b10" stroke="#f1df76" stroke-width="2"/>
+    <path d="M43 15H63M50 36H63M43 57H63M50 78H63M43 99H63M50 120H63M43 141H63" stroke="#f1df76" stroke-width="2"/>
+    <path d="M5 117H41V169H5Z" fill="#38bdf8" opacity=".35"/>
+    <text x="77" y="20" fill="#f1df76" font-family="monospace" font-size="9">RESIDUE</text>
+    <text x="77" y="35" fill="#f1df76" font-family="monospace" font-size="9">DEPTH / MM</text>
+    <path d="M108 58H272V114H108Z" fill="#16070a" stroke="#ef5b55" stroke-width="3"/>
+    <text x="190" y="81" text-anchor="middle" fill="#ef7085" font-family="monospace" font-size="11">BLACK → COLLAPSE</text>
+    <text x="190" y="103" text-anchor="middle" fill="#fff" font-family="Impact, Arial Narrow, sans-serif" font-size="18">EXTRACTION FORBIDDEN</text>
+  </g>
+  <path d="M19 334H1101" stroke="#64748b"/>
+  <text x="22" y="351" fill="#f1df76" font-family="monospace" font-size="10" letter-spacing="2">MAW-S-003 / TIDE CLOAK RETRACTED // SALT AND DISSOLVED FRAGMENTS ARE NOT CLOTH</text>
+</svg>

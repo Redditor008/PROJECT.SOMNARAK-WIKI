@@ -140,7 +140,7 @@ def enrich_hubs():
 
     <div class="pm-entity-card" style="--card-border:#ef5b55;">
       <div class="entity-card-top">
-        <img src="../assets/art/entities/se-002.svg" alt="SE-002 Log" class="entity-card-icon">
+        <img src="../assets/art/entities/se-002-profile.svg" alt="SE-002 Log" class="entity-card-icon">
         <div class="entity-card-meta"><span class="risk-badge risk-waw">SE-002</span><span class="sector-tag">SEISMIC</span></div>
       </div>
       <h3 class="entity-card-name">SE-002 SEISMIC INCIDENT DOSSIER</h3>
@@ -160,7 +160,7 @@ def enrich_hubs():
 
     <div class="pm-entity-card" style="--card-border:#c084fc;">
       <div class="entity-card-top">
-        <img src="../assets/art/entities/se-005.svg" alt="SE-005 Guide" class="entity-card-icon">
+        <img src="../assets/art/entities/se-005-profile.svg" alt="SE-005 Guide" class="entity-card-icon">
         <div class="entity-card-meta"><span class="risk-badge risk-waw">SE-005</span><span class="sector-tag">TACTICAL</span></div>
       </div>
       <h3 class="entity-card-name">SE-005 THREAD SEVERING GUIDE</h3>
@@ -190,7 +190,7 @@ def enrich_hubs():
 
     <div class="pm-entity-card" style="--card-border:#c084fc;">
       <div class="entity-card-top">
-        <img src="../assets/art/entities/se-010.svg" alt="SE-010 Verdicts" class="entity-card-icon">
+        <img src="../assets/art/entities/se-010-profile.svg" alt="SE-010 Verdicts" class="entity-card-icon">
         <div class="entity-card-meta"><span class="risk-badge risk-aleph">SE-010</span><span class="sector-tag">SINGULARITY</span></div>
       </div>
       <h3 class="entity-card-name">SE-010 THE CONVERGENCE VERDICTS</h3>
