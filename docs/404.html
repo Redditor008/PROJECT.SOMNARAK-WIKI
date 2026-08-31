@@ -3,6 +3,47 @@
 <html data-article-status="article" lang="en">
 <head>
 <base href="/" />
+<script>
+// Archived route recovery — GitHub Pages has no native redirect file, so the
+// legacy satellite URLs recorded in docs/_redirects (kept for Netlify
+// mirrors) are recovered client-side here, inside the 404 record.
+(function () {
+  'use strict';
+  var ROUTE_MAP = {
+  "/entities/se-004-the-rust-bleeding-sentry": "/entities/list",
+  "/entities/se-006-the-siphon-leech": "/entities/list",
+  "/entities/se-008-the-iron-maiden-of-regret": "/entities/list",
+  "/mechanics/secc-classification-system": "/entities/#classification",
+  "/entities/se-001-containment-log": "/entities/se-001-the-orphaned-bell",
+  "/entities/se-002-incident-log": "/entities/se-002-the-grieving-colossus",
+  "/entities/se-003-field-survey": "/entities/se-003-the-wilderness-tide",
+  "/entities/se-005-suppression-guide": "/entities/se-005-the-smothering-mother",
+  "/entities/se-007-observation-log": "/entities/se-007-brume",
+  "/entities/se-009-memory-extracts": "/entities/se-009-the-memory-weaver",
+  "/entities/se-010-verdict-records": "/entities/se-010-the-convergence",
+  "/entities/se-011-acoustic-analysis": "/entities/se-011-the-whispering-walls",
+  "/entities/se-014-debt-ledger": "/entities/se-014-the-debt-eater",
+  "/entities/se-015-equilibrium-trials": "/entities/se-015-the-debt-scale",
+  "/departments/floor-1-sub-protocols": "/departments/floor-1-neutral-command",
+  "/departments/floor-2-arsenal-vaults": "/departments/floor-2-maws-keep",
+  "/departments/floor-3-extraction-protocols": "/departments/floor-3-extraction-hall",
+  "/departments/floor-4-insight-observation-labs": "/departments/floor-4-insight-forge",
+  "/departments/floor-5-border-containment-cells": "/departments/floor-5-border-watch",
+  "/departments/floor-6-deep-vault-records": "/departments/floor-6-deep-vault",
+  "/departments/floor-7-shadow-corps-operations": "/departments/floor-7-shadow-corps",
+  "/departments/floor-8-gate-watch-perimeter": "/departments/floor-8-gate-watch",
+  "/locations/zone-a-central-spire": "/locations/zone-a-core-nexus",
+  "/locations/zone-b-giltong-slums": "/locations/zone-b-west-ward",
+  "/locations/zone-c-auction-houses": "/locations/zone-c-collectors-row",
+  "/locations/zone-d-han-refineries": "/locations/zone-d-forge-and-gardens",
+  "/locations/zone-e-frontier-ramparts": "/locations/zone-e-perimeter-bulwark",
+  "/factions/secc-classification-system": "/entities/#classification",
+  "/mechanics/secc-ranks": "/entities/#classification"
+  };
+  var path = location.pathname.replace(/\.html$/, '').replace(/\/+$/, '');
+  if (ROUTE_MAP[path]) location.replace(ROUTE_MAP[path]);
+})();
+</script>
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
 <title>404 — Signal Lost Beyond the Veil — Somnarak Wiki</title>
