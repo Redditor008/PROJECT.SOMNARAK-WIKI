@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- Added `INSTALL_PERCENTAGE_REPORT.md`: a per-file transfer audit measuring what percentage of each of the 1,861 `REFERENCE_SOMNARAK_WIKI/` source files made it into the published 197-page wiki (unique word 4-gram coverage against the published corpus), with overall and per-group breakdowns.
+
 - Added `CONTENT_AND_VISUAL_STANDARDS.md` as the durable publication gate for page depth, non-generic composition, source-led SVG design, visual-suite scope, silhouette use, and asset uniqueness.
 - Added `LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md`: the public GitHub Pages URL is now the mandatory acceptance surface, and successor sessions must avoid manual branch proliferation while handling Arena-assigned branches honestly.
 - Added three dependency-free publication audits under `tools/`: the shared-chrome-aware 200-word floor, local path/ID/fragment/search integrity, and SVG XML/page-coverage/paint-insensitive composition checks.
