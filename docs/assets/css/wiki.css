@@ -13014,48 +13014,36 @@ nav.float-toc {
   }
 }
 
-/* === 2026-09-01 · float-TOC trigger: smaller visual, same big hit box ===
-   The button element keeps a generous transparent hit box — extended
-   longest at the BOTTOM (34px buffer) so the lower hit edge reaches
-   right up to the top of the lower footer when the widget tracks it —
-   while the visible ribbon is drawn by ::before inset inside it. */
+/* === 2026-09-01 · float-TOC trigger: compact visible tab + long lower hit zone ===
+   The button IS the visible tab (small, at its original position — never
+   pushed down). A separate transparent element (.float-toc-hit-ext)
+   extends the clickable area far below the tab; wiki.js sizes it so its
+   lower edge always stops exactly 2px before the top of the lower footer
+   (or the viewport bottom while the footer is off-screen). */
 nav.float-toc .float-toc-trigger,
 nav.float-toc > button {
   position: relative !important;
-  background: transparent !important;
-  border: 0 !important;
-  box-shadow: none !important;
-  padding: 16px 10px 34px 10px !important;
+  background: #141207 !important;
+  border: 1.5px solid #f1df76 !important;
+  box-shadow: 0 8px 18px rgba(0,0,0,0.75) !important;
+  color: #f1df76 !important;
+  padding: 4px 10px !important;
   font-size: 0.62rem !important;
   letter-spacing: 0.1em !important;
-  border-radius: 0 !important;
-}
-nav.float-toc .float-toc-trigger::before,
-nav.float-toc > button::before {
-  content: "";
-  position: absolute;
-  inset: 14px 8px 32px 8px;
-  background: #141207;
-  border: 1.5px solid #f1df76;
-  border-radius: 3px;
-  box-shadow: 0 8px 18px rgba(0,0,0,0.75);
-  pointer-events: none;
-}
-nav.float-toc .float-toc-trigger .toc-icon,
-nav.float-toc .float-toc-trigger .toc-text,
-nav.float-toc > button span {
-  position: relative;
-  z-index: 1;
+  border-radius: 3px !important;
 }
 nav.float-toc .float-toc-trigger:hover,
 nav.float-toc > button:hover {
-  background: transparent !important;
-  box-shadow: none !important;
+  background: #f1df76 !important;
   color: #111 !important;
 }
-nav.float-toc .float-toc-trigger:hover::before,
-nav.float-toc > button:hover::before {
-  background: #f1df76;
+nav.float-toc .float-toc-hit-ext {
+  position: absolute;
+  top: var(--float-toc-hit-ext-top, 0px);
+  left: 0;
+  width: 44px;
+  height: var(--float-toc-hit-ext, 0px);
+  cursor: pointer;
 }
 
 /* === 2026-09-01 · rail-signal (PUBLIC NETWORK / NODE RD-01) never clips ===

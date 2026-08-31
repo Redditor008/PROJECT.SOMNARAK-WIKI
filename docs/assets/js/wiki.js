@@ -484,23 +484,35 @@
       inPageEls.forEach(h => headingObserver.observe(h));
     }
 
-    // Stick at the last rail: instead of hiding or riding over the lower
-    // terminus footer, the widget sits just above the footer's top edge —
-    // the end of the content rail. While the footer is far away it holds
-    // its natural pin (86px desktop / 18px bottom on narrow screens); once
-    // the footer's top edge reaches the widget, it tracks that edge upward
-    // and exits through the top of the viewport with the end of the
-    // content, so it never overlaps the footer and never disappears.
-    // The left edge is pinned to the actual content column (not a fixed
-    // offset) because the left-rail width changes across breakpoints.
+    // Stick at the last rail: the visible tab keeps its natural position
+    // (it is never pushed down), and a long transparent hit zone extends
+    // BELOW the tab. That lower hit edge always stops exactly 2px before
+    // the top of the lower footer (or the viewport bottom while the footer
+    // is off-screen). Only when the footer rises up to that lower hit edge
+    // does the tab itself lift, tracking the footer's top edge upward and
+    // exiting through the top of the viewport — the visible tab therefore
+    // stops exactly before the top of the bottom-bar box and can never
+    // cross it. The left edge is pinned to the actual content column
+    // because the left-rail width changes across breakpoints.
+    const hitExt = document.createElement('span');
+    hitExt.className = 'float-toc-hit-ext';
+    hitExt.setAttribute('aria-hidden', 'true');
+    floatToc.appendChild(hitExt);
+    hitExt.addEventListener('click', (e) => {
+      e.stopPropagation();
+      trigger.click();
+    });
+
     const footer = q('footer.global-footer') || q('footer');
     if (footer) {
-      const GAP = 2;
+      const MAX_EXT = 220;  // longest the transparent lower hit zone gets
+      const STOP = 2;       // stop line sits 2px above the footer's top edge
       const LEFT_INSET = 6;
       let ticking = false;
       const updateStick = () => {
         ticking = false;
         const h = floatToc.offsetHeight || 60;
+        const btnH = trigger ? (trigger.offsetHeight || h) : h;
         const footerTop = footer.getBoundingClientRect().top;
         const isNarrow = window.matchMedia
           ? window.matchMedia('(max-width: 1100px)').matches
@@ -509,8 +521,11 @@
         const barH = topBar ? (topBar.offsetHeight || 48) : 48;
         const baseTop = Math.max(86, barH + 14);
         const naturalTop = isNarrow ? window.innerHeight - 18 - h : baseTop;
-        const stickyTop = footerTop - h - GAP;
-        const top = Math.min(naturalTop, stickyTop);
+        // The lower hit edge stops here: 2px above the footer's top edge,
+        // or 2px above the viewport bottom while the footer is off-screen.
+        const stopLine = Math.min(footerTop, window.innerHeight) - STOP;
+        const top = Math.min(naturalTop, stopLine - h);
+        const ext = Math.max(0, Math.min(MAX_EXT, Math.round(stopLine - (top + h))));
         const contentRect = contentArea.getBoundingClientRect();
         let left = Math.max(8, Math.round(contentRect.left + LEFT_INSET));
         // If the left-rail drawer is open (narrow screens), slide the
@@ -525,6 +540,8 @@
         floatToc.style.setProperty('--float-toc-top', Math.round(top) + 'px');
         floatToc.style.setProperty('--float-toc-bottom', 'auto');
         floatToc.style.setProperty('--float-toc-left', left + 'px');
+        floatToc.style.setProperty('--float-toc-hit-ext', ext + 'px');
+        floatToc.style.setProperty('--float-toc-hit-ext-top', btnH + 'px');
       };
       const requestStick = () => {
         if (!ticking) {
