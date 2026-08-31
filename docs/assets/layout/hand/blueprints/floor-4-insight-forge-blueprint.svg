@@ -22,7 +22,7 @@
   <!-- Blueprint Header Block -->
   <rect x="25" y="25" width="300" height="45" rx="4" fill="#0f172a" stroke="#f1df76" stroke-width="1.5"/>
   <text x="35" y="44" fill="#f1df76" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="bold">FLOOR 04: INSIGHT FORGE</text>
-  <text x="35" y="60" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="10">Resonance Labs & Analysis Matrix</text>
+  <text x="35" y="60" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="10">Resonance Labs &amp; Analysis Matrix</text>
 
   <!-- Lead Badge -->
   <rect x="340" y="25" width="235" height="45" rx="4" fill="#0f172a" stroke="#38bdf8" stroke-width="1.5"/>

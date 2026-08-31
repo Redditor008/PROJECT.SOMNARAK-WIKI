@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 300" role="img" aria-labelledby="title desc">
+  <title id="title">Effluent Gland prohibited-loot record</title>
+  <desc id="desc">A gland-like specimen remains sealed inside a containment jar while a conveyor to the M.A.W. gift registry is physically stopped, distinguishing entity biology from a crystallized habit.</desc>
+  <defs>
+    <linearGradient id="eg-bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#081912"/><stop offset=".58" stop-color="#071018"/><stop offset="1" stop-color="#160b10"/></linearGradient>
+    <linearGradient id="eg-fluid" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#34d399" stop-opacity=".25"/><stop offset="1" stop-color="#065f46" stop-opacity=".75"/></linearGradient>
+  </defs>
+  <rect width="1320" height="300" fill="url(#eg-bg)"/><path d="M8 8H1312V292H8Z" fill="none" stroke="#35705b" stroke-width="2"/>
+  <!-- The biological form stays in a labelled specimen vessel. -->
+  <g transform="translate(54 42)">
+    <path d="M52 0H238L261 32V214H29V32Z" fill="#07110e" stroke="#71efaf" stroke-width="4"/>
+    <path d="M29 73H261V214H29Z" fill="url(#eg-fluid)"/>
+    <path d="M52 0V31H238V0M29 73H261" fill="none" stroke="#9ddfca" stroke-width="3"/>
+    <path d="M91 102C92 65 142 53 164 81C187 61 224 86 209 121C231 145 205 183 171 170C148 198 103 181 107 148C78 141 72 116 91 102Z" fill="#22634f" stroke="#71efaf" stroke-width="4"/>
+    <path d="M112 115C135 99 151 131 172 108M119 148C145 132 164 158 190 140" fill="none" stroke="#a7f3d0" stroke-width="4"/>
+    <text x="145" y="236" text-anchor="middle" fill="#a7f3d0" font-family="monospace" font-size="9">SE-006 BIOLOGY / SEALED</text>
+  </g>
+  <!-- A conveyor stops before the gift registry aperture. -->
+  <g transform="translate(350 104)">
+    <path d="M0 57H501" stroke="#4b5563" stroke-width="24"/>
+    <g fill="#111827" stroke="#64748b" stroke-width="3"><circle cx="37" cy="57" r="18"/><circle cx="116" cy="57" r="18"/><circle cx="195" cy="57" r="18"/><circle cx="274" cy="57" r="18"/><circle cx="353" cy="57" r="18"/><circle cx="432" cy="57" r="18"/></g>
+    <path d="M33 29H175V78H33Z" fill="#0b1511" stroke="#71efaf" stroke-width="2"/>
+    <text x="104" y="50" text-anchor="middle" fill="#71efaf" font-family="monospace" font-size="9">SPECIMEN LABEL</text>
+    <text x="104" y="68" text-anchor="middle" fill="#d1fae5" font-family="Impact, Arial Narrow, sans-serif" font-size="17">NOT A GIFT</text>
+    <path d="M295-30V142" stroke="#ef5b55" stroke-width="12"/>
+    <path d="M253 11L337 95M337 11L253 95" stroke="#ef5b55" stroke-width="9"/>
+    <text x="295" y="-43" text-anchor="middle" fill="#ef7085" font-family="monospace" font-size="9">TRANSFER STOP</text>
+  </g>
+  <!-- The valid gift registry names habits; its 006 socket is blank. -->
+  <g transform="translate(880 44)">
+    <path d="M0 0H390V210H0Z" fill="#070a0e" stroke="#f1df76" stroke-width="3"/>
+    <text x="20" y="27" fill="#f1df76" font-family="monospace" font-size="10" letter-spacing="2">CANONICAL GIFT REGISTRY</text>
+    <path d="M20 43H370" stroke="#5d562b"/>
+    <g font-family="monospace" font-size="9">
+      <text x="22" y="69" fill="#cbd5e1">001 / LAMENT’S EDGE</text>
+      <text x="22" y="91" fill="#cbd5e1">002 / MOURNING SHELL</text>
+      <text x="22" y="113" fill="#ef7085">006 / — NO ENTRY —</text>
+      <text x="22" y="135" fill="#cbd5e1">009 / FORGOTTEN MASK</text>
+    </g>
+    <rect x="230" y="58" width="124" height="101" fill="#13090d" stroke="#ef5b55" stroke-width="2" stroke-dasharray="8 5"/>
+    <text x="292" y="95" text-anchor="middle" fill="#ef7085" font-family="Impact, Arial Narrow, sans-serif" font-size="22">EMPTY</text>
+    <text x="292" y="118" text-anchor="middle" fill="#9b707b" font-family="monospace" font-size="8">NO HABIT</text>
+    <text x="292" y="134" text-anchor="middle" fill="#9b707b" font-family="monospace" font-size="8">NO DONOR FILE</text>
+    <text x="20" y="190" fill="#ef9aaa" font-family="monospace" font-size="9">GIFT ISSUE: PROHIBITED</text>
+  </g>
+  <text x="24" y="29" fill="#71efaf" font-family="monospace" font-size="10" letter-spacing="2">MAW-G-006 // EFFLUENT GLAND HOLD</text>
+  <text x="1294" y="282" text-anchor="end" fill="#ef7085" font-family="monospace" font-size="10">GLANDS AS LOOT ARE NOT IN THE 001–015 GIFT LINE</text>
+</svg>

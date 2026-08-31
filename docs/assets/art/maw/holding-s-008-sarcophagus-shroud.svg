@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1260 320" role="img" aria-labelledby="title desc">
+  <title id="title">Sarcophagus Shroud architecture-versus-suit plan</title>
+  <desc id="desc">A plan view shows panic sensors closing two iron-maiden doors around a fixed chamber, while a clothing pattern outside the foundation line has no B, C, or D extract authorization.</desc>
+  <defs>
+    <linearGradient id="ss-bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#10141a"/><stop offset="1" stop-color="#09070b"/></linearGradient>
+    <pattern id="ss-plan" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#354354" opacity=".35"/></pattern>
+  </defs>
+  <rect width="1260" height="320" fill="url(#ss-bg)"/><rect width="1260" height="320" fill="url(#ss-plan)"/>
+  <path d="M8 8H1252V312H8Z" fill="none" stroke="#778391" stroke-width="2"/>
+  <!-- Architectural plan: doors pivot inward when panic reaches the trigger. -->
+  <g transform="translate(45 48)">
+    <path d="M0 0H496V221H0Z" fill="#090c10" stroke="#cbd5e1" stroke-width="3"/>
+    <path d="M248 10V211" stroke="#ef7085" stroke-width="2" stroke-dasharray="8 5"/>
+    <path d="M54 24L227 110L54 197Z" fill="#18202a" stroke="#94a3b8" stroke-width="4"/>
+    <path d="M442 24L269 110L442 197Z" fill="#18202a" stroke="#94a3b8" stroke-width="4"/>
+    <g fill="#733047" stroke="#ef7085"><path d="M87 61L182 104L101 91Z"/><path d="M87 160L182 116L101 132Z"/><path d="M409 61L314 104L395 91Z"/><path d="M409 160L314 116L395 132Z"/></g>
+    <circle cx="248" cy="110" r="26" fill="#2d0d18" stroke="#ef5b55" stroke-width="3"/>
+    <path d="M248 84V136M222 110H274" stroke="#ef7085" stroke-width="3"/>
+    <path d="M54 24A194 194 0 0 1 227 110M442 24A194 194 0 0 0 269 110" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="7 5"/>
+    <text x="248" y="-15" text-anchor="middle" fill="#9ddff8" font-family="monospace" font-size="9">PANIC SENSOR → DOOR CLOSURE</text>
+    <text x="248" y="245" text-anchor="middle" fill="#cbd5e1" font-family="monospace" font-size="9">FIXED CONTAINMENT FOOTPRINT / FOUNDATION BOLTS</text>
+  </g>
+  <!-- Foundation line stops architecture from becoming apparel. -->
+  <path d="M576 30V288" stroke="#f1df76" stroke-width="7"/>
+  <path d="M564 58H588M564 108H588M564 158H588M564 208H588M564 258H588" stroke="#f1df76" stroke-width="2"/>
+  <text x="596" y="47" fill="#f1df76" font-family="monospace" font-size="9">FOUNDATION LIMIT</text>
+  <!-- A shroud pattern is an unsupported projection outside the plan. -->
+  <g transform="translate(650 46)">
+    <path d="M118 0C84 4 70 37 80 65L40 184L78 207L118 131L158 207L196 184L156 65C166 37 152 4 118 0Z" fill="none" stroke="#94a3b8" stroke-width="4" stroke-dasharray="11 7"/>
+    <path d="M45 11L193 204M193 11L45 204" stroke="#ef5b55" stroke-width="9"/>
+    <text x="118" y="239" text-anchor="middle" fill="#ef7085" font-family="Impact, Arial Narrow, sans-serif" font-size="20" letter-spacing="3">NOT A SHROUD</text>
+  </g>
+  <!-- Missing records are shown as differently shaped seals, not copied cards. -->
+  <g transform="translate(930 50)">
+    <path d="M0 0H278V209L239 248H0Z" fill="#0a0c10" stroke="#ef7085" stroke-width="2"/>
+    <path d="M239 209H278L239 248Z" fill="#32101c"/>
+    <text x="18" y="27" fill="#ef9aaa" font-family="monospace" font-size="9">SE-008 SOURCE TEST</text>
+    <g transform="translate(28 47)" font-family="monospace" font-size="10">
+      <circle cx="29" cy="28" r="27" fill="#160a0f" stroke="#ef5b55" stroke-width="2"/><text x="29" y="32" text-anchor="middle" fill="#ef7085">B?</text>
+      <path d="M87 1H143L157 29L143 57H87L73 29Z" fill="#160a0f" stroke="#ef5b55" stroke-width="2"/><text x="115" y="33" text-anchor="middle" fill="#ef7085">C?</text>
+      <path d="M191 1L220 29L191 57L162 29Z" fill="#160a0f" stroke="#ef5b55" stroke-width="2"/><text x="191" y="33" text-anchor="middle" fill="#ef7085">D?</text>
+    </g>
+    <text x="18" y="137" fill="#ef7085" font-family="monospace" font-size="9">ALL EXTRACT FILES ABSENT</text>
+    <text x="18" y="166" fill="#fff" font-family="Impact, Arial Narrow, sans-serif" font-size="21">SUIT AUTHORITY: NONE</text>
+    <text x="18" y="191" fill="#94717c" font-family="monospace" font-size="8">OVERWRITE ONLY FROM CANON</text>
+  </g>
+  <text x="24" y="29" fill="#cbd5e1" font-family="monospace" font-size="10" letter-spacing="2">MAW-S-008 // SARCOPHAGUS SHROUD HOLD</text>
+  <text x="1236" y="300" text-anchor="end" fill="#ef7085" font-family="monospace" font-size="10">CONTAINMENT ARCHITECTURE CANNOT BE ISSUED AS CLOTHING</text>
+</svg>

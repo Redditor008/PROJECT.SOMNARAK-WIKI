@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 340" role="img" aria-labelledby="title desc">
+  <title id="title">Spike Crown body-form versus gift review</title>
+  <desc id="desc">Spikes remain anchored to the Iron Maiden of Regret’s enclosing silhouette while an empty gift orbit above it cannot detach, and a source-gap seal prevents the stub crown from entering the canonical registry.</desc>
+  <defs>
+    <linearGradient id="sk-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#170a12"/><stop offset=".58" stop-color="#0a0c12"/><stop offset="1" stop-color="#12100a"/></linearGradient>
+    <radialGradient id="sk-halo" cx="50%" cy="50%" r="50%"><stop stop-color="#ef7085" stop-opacity=".24"/><stop offset="1" stop-color="#ef7085" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1160" height="340" fill="url(#sk-bg)"/><path d="M8 8H1152V332H8Z" fill="none" stroke="#733047" stroke-width="2"/>
+  <!-- Crown-like spikes are shown anchored into the entity enclosure. -->
+  <g transform="translate(62 38)">
+    <ellipse cx="208" cy="92" rx="179" ry="83" fill="url(#sk-halo)"/>
+    <path d="M72 107L89 29L132 88L176 5L211 83L254 0L285 87L335 26L351 107Z" fill="#39111f" stroke="#ef7085" stroke-width="4"/>
+    <path d="M72 107C61 173 93 246 208 268C323 246 355 173 351 107Z" fill="#11141a" stroke="#94a3b8" stroke-width="5"/>
+    <path d="M108 127L164 176L107 224M307 127L251 176L308 224" fill="none" stroke="#ef5b55" stroke-width="4"/>
+    <path d="M153 137C161 114 185 102 208 102C231 102 255 114 263 137V215C248 235 228 244 208 246C188 244 168 235 153 215Z" fill="#090b0f" stroke="#64748b" stroke-width="3"/>
+    <path d="M89 29L108 127M176 5L181 113M254 0L235 112M335 26L307 127" stroke="#ef7085" stroke-width="3"/>
+    <text x="208" y="292" text-anchor="middle" fill="#ef9aaa" font-family="monospace" font-size="9">SPIKES ANCHORED TO ENTITY BODY</text>
+  </g>
+  <!-- A detached gift orbit remains empty and cannot pull the spikes free. -->
+  <g transform="translate(510 42)">
+    <ellipse cx="164" cy="105" rx="145" ry="75" fill="none" stroke="#f1df76" stroke-width="3" stroke-dasharray="12 8"/>
+    <circle cx="164" cy="105" r="47" fill="#080a0e" stroke="#ef5b55" stroke-width="4"/>
+    <path d="M131 72L197 138M197 72L131 138" stroke="#ef5b55" stroke-width="9"/>
+    <path d="M19 105H-35M309 105H359" stroke="#64748b" stroke-width="3" stroke-dasharray="8 6"/>
+    <text x="164" y="202" text-anchor="middle" fill="#f1df76" font-family="Impact, Arial Narrow, sans-serif" font-size="20" letter-spacing="3">GIFT ORBIT / NO DETACHMENT</text>
+    <text x="164" y="224" text-anchor="middle" fill="#a79b61" font-family="monospace" font-size="9">CROWN IS NOT IN NAMED 001–015 LIST</text>
+  </g>
+  <!-- The archive seal records the gap without pretending it is an item card. -->
+  <g transform="translate(880 69)">
+    <path d="M128 0L245 67V202L128 269L11 202V67Z" fill="#0b0c10" stroke="#ef7085" stroke-width="3"/>
+    <path d="M128 24L224 79V190L128 245L32 190V79Z" fill="none" stroke="#713044" stroke-width="2" stroke-dasharray="8 5"/>
+    <text x="128" y="83" text-anchor="middle" fill="#ef9aaa" font-family="monospace" font-size="9">SE-008</text>
+    <text x="128" y="116" text-anchor="middle" fill="#fff" font-family="Impact, Arial Narrow, sans-serif" font-size="22">SOURCE</text>
+    <text x="128" y="143" text-anchor="middle" fill="#fff" font-family="Impact, Arial Narrow, sans-serif" font-size="22">GAP</text>
+    <path d="M67 163H189" stroke="#ef5b55" stroke-width="3"/>
+    <text x="128" y="187" text-anchor="middle" fill="#ef7085" font-family="monospace" font-size="9">NO GIFT FILE</text>
+    <text x="128" y="207" text-anchor="middle" fill="#ef7085" font-family="monospace" font-size="9">NO ISSUE</text>
+  </g>
+  <text x="24" y="29" fill="#ef9aaa" font-family="monospace" font-size="10" letter-spacing="2">MAW-G-008 // SPIKE CROWN HOLD</text>
+  <text x="24" y="320" fill="#94a3b8" font-family="monospace" font-size="10">A BODY SHAPE IS NOT A SMALL CRYSTALLIZED HABIT</text>
+</svg>

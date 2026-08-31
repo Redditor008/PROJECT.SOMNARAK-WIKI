@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 430" role="img" aria-labelledby="title desc">
+  <title id="title">Somnarak Directorate public archive topology</title>
+  <desc id="desc">A source-led network diagram joining the Alpha Tree and five city zones to Facility 01, Gate Watch, and eight public archive gateways after the end of Cycle 1,778.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111a"/>
+      <stop offset=".52" stop-color="#0b0f16"/>
+      <stop offset="1" stop-color="#05070b"/>
+    </linearGradient>
+    <linearGradient id="tree" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f1df76"/>
+      <stop offset=".48" stop-color="#ef5b55"/>
+      <stop offset="1" stop-color="#7f1d1d"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ef5b55"/>
+      <stop offset=".5" stop-color="#f1df76"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#314252" stroke-width="1" opacity=".24"/>
+    </pattern>
+  </defs>
+
+  <rect width="1100" height="430" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1098" height="428" fill="url(#grid)" stroke="#40566b" stroke-width="2"/>
+  <path d="M18 42V18H42M1058 18h24v24M18 388v24h24M1058 412h24v-24" fill="none" stroke="#f1df76" stroke-width="3"/>
+
+  <g font-family="Courier New,monospace" letter-spacing="2">
+    <text x="28" y="36" fill="#71889a" font-size="12">RD://PUBLIC NETWORK / TOPOLOGY 01</text>
+    <text x="1070" y="36" text-anchor="end" fill="#71efaf" font-size="11">LINK STABLE · CYCLE ENDED</text>
+  </g>
+
+  <!-- Alpha Tree and city-zone foundation: the archive begins with place. -->
+  <g transform="translate(42 61)">
+    <rect width="266" height="300" fill="#071018" stroke="#344b5d"/>
+    <path d="M0 0H102L118 16H266" fill="none" stroke="#ef5b55" stroke-width="3"/>
+    <text x="18" y="28" fill="#ef5b55" font-family="Impact,Arial Black,sans-serif" font-size="17" letter-spacing="2">CITY FOUNDATION</text>
+    <text x="18" y="47" fill="#748b9d" font-family="Courier New,monospace" font-size="10">ALPHA TREE / FIVE ZONES / ROOT MEMORY</text>
+
+    <g transform="translate(133 143)">
+      <path d="M0-76L18-35H8L30 0H13L43 41H-43L-13 0H-30L-8-35H-18Z" fill="url(#tree)" stroke="#f1df76" stroke-width="2" filter="url(#glow)"/>
+      <path d="M-13 40Q-52 61-70 91M0 40V97M13 40Q52 61 70 91M-3 40Q-27 73-34 98M3 40Q27 73 34 98" fill="none" stroke="#ef5b55" stroke-width="3"/>
+      <circle cy="-37" r="5" fill="#fff6bd"/>
+    </g>
+
+    <g transform="translate(18 254)" font-family="Courier New,monospace" font-size="9" text-anchor="middle">
+      <g><rect width="40" height="27" fill="#101b24" stroke="#f1df76"/><text x="20" y="17" fill="#f1df76">A</text></g>
+      <g transform="translate(46)"><rect width="40" height="27" fill="#101b24" stroke="#38bdf8"/><text x="20" y="17" fill="#38bdf8">B</text></g>
+      <g transform="translate(92)"><rect width="40" height="27" fill="#101b24" stroke="#c084fc"/><text x="20" y="17" fill="#c084fc">C</text></g>
+      <g transform="translate(138)"><rect width="40" height="27" fill="#101b24" stroke="#71efaf"/><text x="20" y="17" fill="#71efaf">D</text></g>
+      <g transform="translate(184)"><rect width="40" height="27" fill="#101b24" stroke="#ef5b55"/><text x="20" y="17" fill="#ef5b55">E</text></g>
+    </g>
+  </g>
+
+  <!-- Revision spine from witnessed city to curated facility record. -->
+  <path d="M308 211H360" stroke="url(#flow)" stroke-width="5" filter="url(#glow)"/>
+  <path d="M345 198l15 13-15 13" fill="none" stroke="#f1df76" stroke-width="3"/>
+  <text x="334" y="187" text-anchor="middle" fill="#788d9c" font-family="Courier New,monospace" font-size="9">WITNESS</text>
+
+  <!-- Facility 01 as the Hand: eight unequal floors, Gate Watch lateral. -->
+  <g transform="translate(360 61)">
+    <rect width="318" height="300" fill="#080e15" stroke="#40576a"/>
+    <path d="M0 0H125L141 16H318" fill="none" stroke="#f1df76" stroke-width="3"/>
+    <text x="18" y="28" fill="#f1df76" font-family="Impact,Arial Black,sans-serif" font-size="17" letter-spacing="2">FACILITY 01</text>
+    <text x="18" y="47" fill="#748b9d" font-family="Courier New,monospace" font-size="10">THE HAND OF CHANGE / CURATION SPINE</text>
+
+    <path d="M155 68V238" stroke="#38bdf8" stroke-width="3"/>
+    <path d="M155 95H68M155 119H83M155 143H61M155 167H91M155 191H70M155 215H88" stroke="#314f64" stroke-width="2"/>
+    <g font-family="Courier New,monospace" font-size="9">
+      <g transform="translate(53 84)"><rect width="102" height="20" fill="#15140b" stroke="#f1df76"/><text x="9" y="14" fill="#f1df76">F1 COMMAND</text></g>
+      <g transform="translate(68 108)"><rect width="87" height="20" fill="#071625" stroke="#38bdf8"/><text x="9" y="14" fill="#38bdf8">F2 KEEP</text></g>
+      <g transform="translate(46 132)"><rect width="109" height="20" fill="#1a0c0d" stroke="#ef5b55"/><text x="9" y="14" fill="#ef5b55">F3 EXTRACTION</text></g>
+      <g transform="translate(76 156)"><rect width="79" height="20" fill="#091911" stroke="#71efaf"/><text x="9" y="14" fill="#71efaf">F4 INSIGHT</text></g>
+      <g transform="translate(55 180)"><rect width="100" height="20" fill="#11141a" stroke="#cbd5e1"/><text x="9" y="14" fill="#cbd5e1">F5 BORDER</text></g>
+      <g transform="translate(73 204)"><rect width="82" height="20" fill="#1b0b10" stroke="#fb7185"/><text x="9" y="14" fill="#fb7185">F6 VAULT</text></g>
+      <g transform="translate(169 84)"><rect width="96" height="20" fill="#130a1c" stroke="#c084fc"/><text x="9" y="14" fill="#c084fc">F7 SHADOW</text></g>
+      <g transform="translate(169 228)"><rect width="116" height="25" fill="#07141a" stroke="#38bdf8" stroke-width="2"/><text x="9" y="16" fill="#bdeeff">F8 GATE WATCH</text></g>
+    </g>
+    <path d="M155 238H169" stroke="#38bdf8" stroke-width="3"/>
+    <circle cx="155" cy="238" r="6" fill="#f1df76" stroke="#fff6bd"/>
+    <text x="18" y="281" fill="#647b8d" font-family="Courier New,monospace" font-size="9">DIRECTOR MAJIN · GATE COMMAND: XYAN</text>
+  </g>
+
+  <path d="M678 211H730" stroke="url(#flow)" stroke-width="5" filter="url(#glow)"/>
+  <path d="M715 198l15 13-15 13" fill="none" stroke="#38bdf8" stroke-width="3"/>
+  <text x="704" y="187" text-anchor="middle" fill="#788d9c" font-family="Courier New,monospace" font-size="9">PUBLISH</text>
+
+  <!-- Eight public archives: distinct functions around one verified record. -->
+  <g transform="translate(730 61)">
+    <rect width="328" height="300" fill="#071018" stroke="#40576a"/>
+    <path d="M0 0H130L146 16H328" fill="none" stroke="#38bdf8" stroke-width="3"/>
+    <text x="18" y="28" fill="#38bdf8" font-family="Impact,Arial Black,sans-serif" font-size="17" letter-spacing="2">PUBLIC CODEX</text>
+    <text x="18" y="47" fill="#748b9d" font-family="Courier New,monospace" font-size="10">EIGHT GATEWAYS / 197 HTML RECORDS</text>
+
+    <circle cx="164" cy="158" r="52" fill="#0d1720" stroke="#f1df76" stroke-width="2"/>
+    <circle cx="164" cy="158" r="38" fill="none" stroke="#38bdf8" stroke-dasharray="3 5"/>
+    <text x="164" y="151" text-anchor="middle" fill="#f1df76" font-family="Impact,Arial Black,sans-serif" font-size="20">1.8.31</text>
+    <text x="164" y="170" text-anchor="middle" fill="#9eb0be" font-family="Courier New,monospace" font-size="9">VERIFIED</text>
+
+    <g fill="#0b131c" stroke-width="2" font-family="Courier New,monospace" font-size="8" text-anchor="middle">
+      <g transform="translate(164 73)"><path d="M0 33V52" stroke="#ef5b55"/><rect x="-37" width="74" height="33" stroke="#ef5b55"/><text y="20" fill="#ef5b55">CHARACTERS</text></g>
+      <g transform="translate(242 91)"><path d="M-25 33l-18 20" stroke="#a78bfa"/><rect x="-33" width="66" height="33" stroke="#a78bfa"/><text y="20" fill="#a78bfa">LORE</text></g>
+      <g transform="translate(264 142)"><path d="M-33 16h-47" stroke="#38bdf8"/><rect x="-33" width="66" height="33" stroke="#38bdf8"/><text y="20" fill="#38bdf8">ATLAS</text></g>
+      <g transform="translate(242 214)"><path d="M-25 0l-18-20" stroke="#f59e0b"/><rect x="-33" width="66" height="33" stroke="#f59e0b"/><text y="20" fill="#f59e0b">FACTIONS</text></g>
+      <g transform="translate(164 234)"><path d="M0 0v-24" stroke="#71efaf"/><rect x="-37" width="74" height="33" stroke="#71efaf"/><text y="20" fill="#71efaf">FACILITY</text></g>
+      <g transform="translate(86 214)"><path d="M25 0l18-20" stroke="#fb7185"/><rect x="-33" width="66" height="33" stroke="#fb7185"/><text y="20" fill="#fb7185">ENTITIES</text></g>
+      <g transform="translate(64 142)"><path d="M33 16h47" stroke="#f1df76"/><rect x="-33" width="66" height="33" stroke="#f1df76"/><text y="20" fill="#f1df76">M.A.W.</text></g>
+      <g transform="translate(86 91)"><path d="M25 33l18 20" stroke="#60a5fa"/><rect x="-33" width="66" height="33" stroke="#60a5fa"/><text y="20" fill="#60a5fa">SYSTEMS</text></g>
+    </g>
+  </g>
+
+  <g font-family="Courier New,monospace" font-size="10" letter-spacing="1.4">
+    <text x="42" y="395" fill="#71889a">SOURCE-LED RECORD</text>
+    <text x="550" y="395" text-anchor="middle" fill="#f1df76">WITNESS THE SORROW · PRESERVE THE NAME</text>
+    <text x="1058" y="395" text-anchor="end" fill="#71efaf">PUBLICATION GATES: PASS</text>
+  </g>
+</svg>

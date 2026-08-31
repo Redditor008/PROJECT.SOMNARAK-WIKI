@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Sentry’s Iron Plate anatomy-versus-equipment review</title>
+  <desc id="desc">The Rust-Bleeding Sentry’s oxidized torso remains behind an entity-anatomy divider while an empty Floor 2 issue rack confirms that body plating is not a proven M.A.W. suit.</desc>
+  <defs>
+    <linearGradient id="sp-bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1a100b"/><stop offset=".47" stop-color="#070a0e"/><stop offset="1" stop-color="#0b1118"/></linearGradient>
+    <linearGradient id="sp-metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#70432d"/><stop offset=".4" stop-color="#25313a"/><stop offset="1" stop-color="#5b2b20"/></linearGradient>
+  </defs>
+  <rect width="1280" height="300" fill="url(#sp-bg)"/>
+  <path d="M8 8H1272V292H8Z" fill="none" stroke="#8a5b43" stroke-width="2"/>
+  <!-- Entity side: the plate is inseparable anatomy and continues to bleed rust. -->
+  <g transform="translate(52 39)">
+    <path d="M135 0L220 30L254 90L229 218H42L17 90L51 30Z" fill="url(#sp-metal)" stroke="#d06b3c" stroke-width="4"/>
+    <path d="M51 30L94 65L135 45L176 65L220 30M42 109H229M63 156H208" fill="none" stroke="#9ca3af" stroke-width="3"/>
+    <path d="M91 68C87 104 101 123 91 165C87 184 93 201 101 218M182 67C190 95 172 125 183 150C194 176 181 192 174 218" fill="none" stroke="#ef5b55" stroke-width="5"/>
+    <circle cx="91" cy="130" r="6" fill="#d06b3c"/><circle cx="183" cy="171" r="5" fill="#d06b3c"/>
+    <text x="135" y="242" text-anchor="middle" fill="#ef9c61" font-family="monospace" font-size="10">SE-004 BODY / OXIDIZED PLATING</text>
+  </g>
+  <!-- The divider asks whether the form can cross from body to issued equipment. -->
+  <path d="M388 25V273" stroke="#ef5b55" stroke-width="3" stroke-dasharray="11 7"/>
+  <path d="M373 131L388 146L403 131M373 161L388 146L403 161" fill="none" stroke="#ef5b55" stroke-width="3"/>
+  <text x="408" y="41" fill="#ef7085" font-family="monospace" font-size="9" letter-spacing="2">ANATOMY / EXTRACT BOUNDARY</text>
+  <text x="408" y="61" fill="#ef7085" font-family="Impact, Arial Narrow, sans-serif" font-size="19">SOURCE FILE REQUIRED TO CROSS</text>
+  <!-- Equipment side is deliberately an empty issue rack, not an invented suit. -->
+  <g transform="translate(500 80)">
+    <path d="M0 0H385V148H0Z" fill="#080d13" stroke="#456078" stroke-width="2"/>
+    <path d="M45 23V124M45 33H340M340 23V124" fill="none" stroke="#64748b" stroke-width="6"/>
+    <path d="M154 34C143 51 142 65 151 77L121 118M231 34C242 51 243 65 234 77L264 118" fill="none" stroke="#536273" stroke-width="3" stroke-dasharray="9 7"/>
+    <path d="M120 30L266 121M266 30L120 121" stroke="#ef5b55" stroke-width="9"/>
+    <text x="193" y="141" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9">FLOOR 2 ISSUE BAY / EMPTY</text>
+  </g>
+  <g transform="translate(923 87)">
+    <path d="M0 0H309V126H0Z" fill="#100b09" stroke="#d06b3c" stroke-width="2"/>
+    <text x="18" y="24" fill="#d38b5d" font-family="monospace" font-size="9">MAW-S-004 HOLD</text>
+    <text x="18" y="55" fill="#f2e7df" font-family="Impact, Arial Narrow, sans-serif" font-size="22">PLATE ≠ SUIT</text>
+    <path d="M18 72H289" stroke="#6f4936"/>
+    <text x="18" y="94" fill="#ef7085" font-family="monospace" font-size="9">NO HAN-FLUX COST</text>
+    <text x="18" y="112" fill="#ef7085" font-family="monospace" font-size="9">NO STAT GATE / NO AUTHORIZATION</text>
+  </g>
+  <path d="M20 265H1260" stroke="#334155"/>
+  <text x="24" y="285" fill="#d38b5d" font-family="monospace" font-size="10" letter-spacing="2">THE ENTITY’S ARMOR IS A BODY DESCRIPTION, NOT A CODEX B/C/D EXTRACT</text>
+</svg>

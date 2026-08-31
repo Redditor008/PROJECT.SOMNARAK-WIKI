@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 360" role="img" aria-labelledby="title desc">
+  <title id="title">Corrosion Visor rejected anatomy extraction</title>
+  <desc id="desc">A rust-weeping ocular embedded in SE-004 is measured by extraction calipers that return anatomy, while a separate gift aperture remains empty because no Codex donor file exists.</desc>
+  <defs>
+    <radialGradient id="cv-bg" cx="38%" cy="48%" r="70%"><stop stop-color="#332016"/><stop offset=".45" stop-color="#11151a"/><stop offset="1" stop-color="#040609"/></radialGradient>
+    <radialGradient id="cv-eye" cx="50%" cy="45%" r="60%"><stop stop-color="#ef9c61"/><stop offset=".3" stop-color="#7c2d12"/><stop offset=".68" stop-color="#111827"/><stop offset="1" stop-color="#030712"/></radialGradient>
+    <filter id="cv-glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1100" height="360" fill="url(#cv-bg)"/>
+  <path d="M9 9H1091V351H9Z" fill="none" stroke="#9a5737" stroke-width="2"/>
+  <!-- The ocular is framed as body anatomy, with rust tears running into the torso. -->
+  <g transform="translate(55 57)">
+    <path d="M0 106C76 14 245-3 362 90C272 204 101 211 0 106Z" fill="#171b20" stroke="#d06b3c" stroke-width="6"/>
+    <ellipse cx="186" cy="105" rx="81" ry="75" fill="url(#cv-eye)" stroke="#ef9c61" stroke-width="4"/>
+    <ellipse cx="186" cy="105" rx="23" ry="53" fill="#030507" stroke="#ef5b55" stroke-width="3"/>
+    <path d="M152 170C149 201 163 217 153 252M187 181C183 207 201 225 194 256M222 167C230 196 216 224 225 251" fill="none" stroke="#b4532a" stroke-width="7"/>
+    <text x="186" y="278" text-anchor="middle" fill="#ef9c61" font-family="Impact, Arial Narrow, sans-serif" font-size="20" letter-spacing="3">ENTITY OCULAR / NOT WORN</text>
+  </g>
+  <!-- Calipers close around the eye and classify it as anatomy. -->
+  <g transform="translate(419 76)" fill="none" stroke="#94a3b8">
+    <path d="M0 0V188M0 25H84M0 163H84" stroke-width="5"/>
+    <path d="M84 25V70M84 163V118" stroke-width="8"/>
+    <path d="M18 94H163" stroke-width="3" stroke-dasharray="7 5"/>
+    <circle cx="163" cy="94" r="9" fill="#94a3b8"/>
+  </g>
+  <rect x="519" y="142" width="187" height="66" fill="#071018" stroke="#38bdf8" stroke-width="2"/>
+  <text x="612" y="166" text-anchor="middle" fill="#9ddff8" font-family="monospace" font-size="9">EXTRACTION READOUT</text>
+  <text x="612" y="192" text-anchor="middle" fill="#fff" font-family="Impact, Arial Narrow, sans-serif" font-size="23">ANATOMY</text>
+  <!-- The actual gift port remains disconnected and unregistered. -->
+  <g transform="translate(752 61)">
+    <path d="M0 28L28 0H270L298 28V225L270 253H28L0 225Z" fill="#070a0e" stroke="#ef7085" stroke-width="3" stroke-dasharray="12 7"/>
+    <circle cx="149" cy="111" r="57" fill="none" stroke="#44515e" stroke-width="8"/>
+    <path d="M109 71L189 151M189 71L109 151" stroke="#ef5b55" stroke-width="10"/>
+    <text x="149" y="190" text-anchor="middle" fill="#ef7085" font-family="Impact, Arial Narrow, sans-serif" font-size="21" letter-spacing="3">GIFT PORT EMPTY</text>
+    <text x="149" y="214" text-anchor="middle" fill="#9c7d85" font-family="monospace" font-size="9">NO SE-004 CODEX FOLDER</text>
+  </g>
+  <text x="23" y="30" fill="#d38b5d" font-family="monospace" font-size="10" letter-spacing="2">MAW-G-004 / CORROSION VISOR REVIEW</text>
+  <path d="M474 32H733" stroke="#ef5b55" stroke-width="2"/>
+  <text x="1080" y="338" text-anchor="end" fill="#f1df76" font-family="monospace" font-size="10">A CREATURE’S FACE IS NOT A CRYSTALLIZED HABIT</text>
+</svg>

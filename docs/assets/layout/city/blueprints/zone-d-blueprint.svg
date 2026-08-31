@@ -21,8 +21,8 @@
 
   <!-- Blueprint Header Block -->
   <rect x="25" y="25" width="310" height="45" rx="4" fill="#0f172a" stroke="#71efaf" stroke-width="1.5"/>
-  <text x="35" y="44" fill="#71efaf" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="bold">ZONE D: FORGE & GARDENS</text>
-  <text x="35" y="60" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="10">Han Refineries & Thermal Smelters</text>
+  <text x="35" y="44" fill="#71efaf" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="bold">ZONE D: FORGE &amp; GARDENS</text>
+  <text x="35" y="60" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="10">Han Refineries &amp; Thermal Smelters</text>
 
   <!-- Controlling Faction Badge -->
   <rect x="350" y="25" width="225" height="45" rx="4" fill="#0f172a" stroke="#38bdf8" stroke-width="1.5"/>

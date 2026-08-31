@@ -1,7 +1,9 @@
 # Category and page plan
 
 **Date:** 2026-08-30  
-**Rule:** every public article is a real encyclopedia page (minimum **100** words, target **300+**). Do not invent stub URLs for redundancy. One source chapter → one fitting category page.
+**Updated quality floor:** 2026-08-31
+
+**Rule:** every public article is a real encyclopedia page with at least **200 meaningful editorial words**; this is a floor, not a ceiling, and the normal target remains **300+** wherever source depth permits. Do not invent stub URLs for redundancy. One source chapter → one fitting category page. See `CONTENT_AND_VISUAL_STANDARDS.md` for the binding count and visual-identity rules.
 
 This plan is written **before** HTML, from:
 
@@ -44,10 +46,12 @@ LC wiki.gg does not dump the world bible onto Control Team. It uses **category h
 
 | Kind of page | Words |
 |---|---|
-| Reject | under 100 (chrome-only or one-liner) |
-| Allowed satellite | 100–300 only if it is a **distinct** log (containment log vs dossier) |
-| Default encyclopedia article | **300+** |
-| Operation / transcript hub | may be long (Daily Recordings analog) |
+| Reject | **under 200 meaningful editorial words** after shared chrome is excluded |
+| Minimum qualifying page | **200–299** only when the subject is complete, distinct, source-supported, and non-generic |
+| Default encyclopedia article | **300+** wherever the source supports that depth |
+| Operation / transcript hub | may be as long as the source requires (Daily Recordings analog) |
+
+The 200-word requirement applies to every public HTML page, including hubs, lists, maps, downloads, project pages, and the 404 page. It must not be reached with filler, repeated navigation, duplicated prose, or unrelated source material. It is a floor, never a target or ceiling.
 
 Hope Transformation source files are 2,000–2,600 words. Wiki articles take **Appearance + Origin + Function + Bearer** (~300–500 words), not the full tale/testimony/record dump.
 

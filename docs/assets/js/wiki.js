@@ -12,7 +12,7 @@
  * 8. Floating Back-to-Top Button
  * 9. Real-Time Asynchronous Search Engine
  * 10. Pan/Zoom Vector Canvas Map Viewer
- * 11. Mobile Responsive Navigation Rail Drawer
+ * 11. Responsive Primary Archive Navigation Drawer
  */
 
 (() => {
@@ -29,29 +29,55 @@
   }
 
   // =========================================================================
-  // 1. MOBILE LEFT RAIL NAVIGATION DRAWER
+  // 1. RESPONSIVE PRIMARY ARCHIVE NAVIGATION
   // =========================================================================
   const navBtn = q('.nav-open');
-  const leftRail = q('.left-rail');
-  if (navBtn && leftRail) {
-    navBtn.addEventListener('click', (e) => {
-      e.stopPropagation();
-      leftRail.classList.toggle('open');
-      navBtn.setAttribute('aria-expanded', String(leftRail.classList.contains('open')));
+  const primaryNav = q('.utility-nav');
+  if (navBtn && primaryNav) {
+    const closePrimaryNav = () => {
+      primaryNav.classList.remove('nav-visible');
+      navBtn.setAttribute('aria-expanded', 'false');
+    };
+
+    navBtn.addEventListener('click', (event) => {
+      event.stopPropagation();
+      const isOpen = primaryNav.classList.toggle('nav-visible');
+      navBtn.setAttribute('aria-expanded', String(isOpen));
     });
 
-    document.addEventListener('click', (e) => {
-      if (leftRail.classList.contains('open') && !leftRail.contains(e.target) && !navBtn.contains(e.target)) {
-        leftRail.classList.remove('open');
-        navBtn.setAttribute('aria-expanded', 'false');
+    primaryNav.addEventListener('click', (event) => {
+      if (event.target.closest('a')) closePrimaryNav();
+    });
+
+    document.addEventListener('click', (event) => {
+      if (
+        primaryNav.classList.contains('nav-visible')
+        && !primaryNav.contains(event.target)
+        && !navBtn.contains(event.target)
+      ) {
+        closePrimaryNav();
       }
     });
+
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape' && primaryNav.classList.contains('nav-visible')) {
+        closePrimaryNav();
+        navBtn.focus();
+      }
+    });
+
+    window.addEventListener('resize', () => {
+      if (window.innerWidth > 900) closePrimaryNav();
+    }, { passive: true });
   }
 
   // =========================================================================
   // 2. SMOOTH OFFSET ANCHOR JUMPING & TARGET PULSE HIGHLIGHT
   // =========================================================================
-  const HEADER_OFFSET = 90;
+  function getHeaderOffset() {
+    const topBar = q('.utility');
+    return Math.ceil(topBar ? topBar.getBoundingClientRect().height : 74) + 16;
+  }
 
   function scrollToAnchor(targetId, updateHistory = true) {
     if (!targetId) return;
@@ -60,7 +86,7 @@
     if (!el) return;
 
     const elRect = el.getBoundingClientRect();
-    const targetScrollY = window.pageYOffset + elRect.top - HEADER_OFFSET;
+    const targetScrollY = window.pageYOffset + elRect.top - getHeaderOffset();
 
     window.scrollTo({
       top: Math.max(0, targetScrollY),
@@ -486,10 +512,15 @@
     let searchDatabase = null;
 
     if (searchInput && searchResults) {
+      const setResultsOpen = (open) => {
+        searchResults.classList.toggle('open', open);
+        searchInput.setAttribute('aria-expanded', String(open));
+      };
+
       searchInput.addEventListener('input', async () => {
         const term = searchInput.value.trim().toLowerCase();
         if (term.length < 2) {
-          searchResults.classList.remove('open');
+          setResultsOpen(false);
           searchResults.innerHTML = '';
           return;
         }
@@ -497,9 +528,14 @@
         if (!searchDatabase) {
           try {
             const indexPath = searchInput.dataset.index || '../data/search.json';
-            searchDatabase = await fetch(indexPath).then(res => res.json());
+            searchDatabase = await fetch(indexPath).then(res => {
+              if (!res.ok) throw new Error(`Search index returned ${res.status}`);
+              return res.json();
+            });
           } catch (err) {
             console.error('Failed to load search index:', err);
+            searchResults.innerHTML = '<div class="search-no-result">Archive index unavailable</div>';
+            setResultsOpen(true);
             return;
           }
         }
@@ -530,12 +566,31 @@
           `).join('');
         }
 
-        searchResults.classList.add('open');
+        setResultsOpen(true);
       });
 
-      document.addEventListener('click', (e) => {
-        if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
-          searchResults.classList.remove('open');
+      searchInput.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape') {
+          setResultsOpen(false);
+          searchInput.blur();
+        }
+      });
+
+      document.addEventListener('keydown', (event) => {
+        const target = event.target;
+        const isTyping = target instanceof HTMLInputElement
+          || target instanceof HTMLTextAreaElement
+          || target.isContentEditable;
+        if (event.key === '/' && !isTyping && !event.metaKey && !event.ctrlKey && !event.altKey) {
+          event.preventDefault();
+          searchInput.focus();
+          searchInput.select();
+        }
+      });
+
+      document.addEventListener('click', (event) => {
+        if (!searchInput.contains(event.target) && !searchResults.contains(event.target)) {
+          setResultsOpen(false);
         }
       });
     }
