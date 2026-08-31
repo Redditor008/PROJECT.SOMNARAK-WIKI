@@ -55,6 +55,7 @@ See [`CHANGELOG.md`](CHANGELOG.md) for the reconstructed release history, route 
 | [`docs/`](docs/) | Public wiki (HTML, CSS, art, search) — GitHub Pages root |
 | [`REFERENCE_SOMNARAK_WIKI/`](REFERENCE_SOMNARAK_WIKI/) | Canon sources and diagrams |
 | [`REFERENCE_SOMNARAK_WIKI/CONTENT_AND_VISUAL_STANDARDS.md`](REFERENCE_SOMNARAK_WIKI/CONTENT_AND_VISUAL_STANDARDS.md) | Binding 200-word floor and non-generic SVG rules |
+| [`REFERENCE_SOMNARAK_WIKI/LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md`](REFERENCE_SOMNARAK_WIKI/LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md) | Binding live-site verification and no-extra-branch rules |
 | [`REFERENCE_SOMNARAK_WIKI/PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md`](REFERENCE_SOMNARAK_WIKI/PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md) | Current 197-page content, structure, search, and SVG audit |
 | [`CHANGELOG.md`](CHANGELOG.md) | Verified release history and known issues |
 
@@ -66,17 +67,24 @@ python3 -m http.server 8000 --bind 0.0.0.0 --directory docs
 
 Then open `http://localhost:8000/`.
 
+## Deployment acceptance
+
+The owner verifies every update at **https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/**. Localhost, an Arena preview, a commit, a pushed branch, or an open pull request is not proof that a change is live. After integration into the configured GitHub Pages source, wait for its build and fetch the public URL with a cache-busting query to confirm a distinctive marker from the change.
+
+Do not manually create extra branches. Use the established Pages source directly when the coding environment permits. If Arena assigns an immutable session branch, use only that branch and one direct pull request into the Pages source. See the [binding live-deployment and branch-continuity policy](REFERENCE_SOMNARAK_WIKI/LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md).
+
 ## Publication gates
 
 ```bash
 python3 tools/audit_page_word_floor.py
 python3 tools/sync_global_top_bar.py
+python3 tools/sync_global_left_sidebar.py
 python3 tools/sync_global_bottom_bar.py
 python3 tools/audit_site_structure.py
 python3 tools/audit_svg_compositions.py
 ```
 
-Use the corresponding sync tool with `--write` after adding or moving a public route. The checks enforce the same ten-link navigation header and the same identity, resource links, release state, and status footer across all 197 pages.
+Use the corresponding sync tool with `--write` after adding or moving a public route. The checks enforce the same ten-link navigation header, homepage-derived left archive sidebar, and identity/resource/release footer across all 197 pages.
 
 Every public page must contain at least 200 meaningful editorial words after shared interface chrome is excluded. Pages and SVGs must be source-led, page-specific, and visually distinct—never generic templates or recolored duplicates. The SVG gate validates all 1,329 vector files as XML and compares curated page-art geometry without relying on color or labels. See the [complete content and visual standards](REFERENCE_SOMNARAK_WIKI/CONTENT_AND_VISUAL_STANDARDS.md).
 

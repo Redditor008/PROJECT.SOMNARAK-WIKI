@@ -118,9 +118,9 @@ Color may reinforce identity, but color cannot be the only difference. Distinct 
 
 ---
 
-## 6. Shared global-bar consistency
+## 6. Shared global-chrome consistency
 
-The top and bottom bars are deliberate shared chrome and must be identical in structure, labels, order, and resolved destinations on every public HTML route, including the 404 page and asset gallery. Relative path prefixes may change with directory depth; the destination may not.
+The top bar, left sidebar, and bottom bar are deliberate shared chrome and must be identical in structure, labels, order, and resolved destinations on every public HTML route, including the 404 page and asset gallery. Relative path prefixes and accurate active states may change with route context; the underlying destinations may not.
 
 The canonical archive sequence is:
 
@@ -139,11 +139,13 @@ The canonical archive sequence is:
 
 Each represented archive marks exactly one link with `aria-current="page"`; project and error routes may correctly have no active archive. Every top bar also uses the same Somnarak brand, Year 4,238 status, search label, search destination, responsive drawer behavior, and shared asset versions.
 
-Every page also ends with one canonical bottom bar. It contains the same Somnarak identity and motto, source-led city/Facility/archive topology, eight primary archive gateways, four project resources, release 1.8.31 console, publication metrics, quality protocols, public-access status, and changelog destination. Article-specific categories or previous/next controls belong above this component; they must not turn the global footer into a page-authored variant.
+Every page also uses the homepage-derived canonical left sidebar. It contains the same Somnarak identity, public-network state, nine database hubs, nine Echo-Cores, cartography/download links, release console, labels, order, and resolved destinations. Directory depth and accurate current-page/current-archive states may vary; sidebar content and presentation may not. The asset gallery and Entity Tales anthology are not exceptions.
 
-The Directorate-terminal styling of both bars is intentionally common navigation and does not count as the page-specific visual treatment required elsewhere in this standard.
+Every page ends with one canonical bottom bar. It contains the same Somnarak identity and motto, source-led city/Facility/archive topology, eight primary archive gateways, four project resources, release 1.8.31 console, publication metrics, quality protocols, public-access status, and changelog destination. Article-specific categories or previous/next controls belong above this component; they must not turn the global footer into a page-authored variant.
 
-Run `python3 tools/sync_global_top_bar.py` and `python3 tools/sync_global_bottom_bar.py` to detect drift. Run either with `--write` to regenerate every static copy from its canonical definition. `python3 tools/audit_site_structure.py` enforces both contracts as publication gates.
+The Directorate-terminal styling of the top bar, left sidebar, and bottom bar is intentionally common navigation and does not count as the page-specific visual treatment required elsewhere in this standard.
+
+Run `python3 tools/sync_global_top_bar.py`, `python3 tools/sync_global_left_sidebar.py`, and `python3 tools/sync_global_bottom_bar.py` to detect drift. Run a corresponding tool with `--write` to regenerate every static copy from its canonical definition. `python3 tools/audit_site_structure.py` enforces all three contracts as publication gates.
 
 ---
 
@@ -157,7 +159,7 @@ Run `python3 tools/sync_global_top_bar.py` and `python3 tools/sync_global_bottom
 6. **Design for unique form, not recolor.** Compare the new silhouette and composition against related assets; run `python3 tools/audit_svg_compositions.py` to catch malformed XML and paint/text-only duplicates in curated page art.
 7. **Integrate the visuals into the page.** Artwork must support reading hierarchy and must not be an unattached gallery ornament.
 8. **Perform visual QA.** Check desktop and mobile layout, legibility, overflow, contrast, file paths, and useful alt text.
-9. **Run content and chrome QA.** Run `python3 tools/audit_page_word_floor.py`, both `sync_global_*_bar.py` checks, and `python3 tools/audit_site_structure.py` to confirm the 200-word floor after shared chrome is excluded and to check canonical global bars, links, resources, IDs, anchors, and search indexing.
+9. **Run content and chrome QA.** Run `python3 tools/audit_page_word_floor.py`, all three global-chrome synchronizer checks, and `python3 tools/audit_site_structure.py` to confirm the 200-word floor after shared chrome is excluded and to check the canonical header, homepage-derived sidebar, footer, links, resources, IDs, anchors, and search indexing.
 10. **Report honestly.** A page or asset that has not passed these checks is incomplete.
 
 ---
@@ -179,7 +181,7 @@ A new or revised public page may be described as complete only when every applic
 [ ] No SVG is an identical or recolored copy of another asset.
 [ ] The artwork remains identifiable when its text label and accent color are removed.
 [ ] Desktop and mobile visual QA pass.
-[ ] The canonical top and bottom bars’ labels, destinations, status text, placement, active state, search path, and responsive layouts pass.
+[ ] The canonical top bar, homepage-derived left sidebar, and bottom bar labels, destinations, status text, placement, active states, search path, and responsive layouts pass.
 [ ] Local links, image paths, IDs, anchors, and search records pass.
 ```
 

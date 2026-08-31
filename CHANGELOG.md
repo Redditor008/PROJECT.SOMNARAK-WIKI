@@ -9,8 +9,10 @@ This file records notable changes to the public Somnarak Wiki.
 ### Added
 
 - Added `CONTENT_AND_VISUAL_STANDARDS.md` as the durable publication gate for page depth, non-generic composition, source-led SVG design, visual-suite scope, silhouette use, and asset uniqueness.
+- Added `LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md`: the public GitHub Pages URL is now the mandatory acceptance surface, and successor sessions must avoid manual branch proliferation while handling Arena-assigned branches honestly.
 - Added three dependency-free publication audits under `tools/`: the shared-chrome-aware 200-word floor, local path/ID/fragment/search integrity, and SVG XML/page-coverage/paint-insensitive composition checks.
 - Added `tools/sync_global_top_bar.py` as the canonical renderer and drift check for every public page’s labels, destinations, active state, search path, and shared asset versions.
+- Added `tools/sync_global_left_sidebar.py` to render the homepage archive rail on every public route and reject identity, group, label, destination, or active-state drift.
 - Added `tools/sync_global_bottom_bar.py` to enforce one footer identity, resource set, release record, status line, and body-end placement on every public route.
 - Added 20 source-led SVG compositions for the 404 recovery trace, archive export route, distribution ledger, source placement map, expanded global-footer topology, three Entity registry hubs, and twelve non-canonical M.A.W. hold/retraction records.
 
@@ -18,6 +20,7 @@ This file records notable changes to the public Somnarak Wiki.
 
 - Raised the binding minimum for every public HTML page to 200 meaningful editorial words, excluding shared site chrome; the limit is explicitly a floor rather than a ceiling.
 - Replaced eleven inconsistent top-bar variants and the asset gallery’s missing header with one ten-link Directorate archive bar across all 197 routes; added coded archive slots, exact active states, keyboard search, responsive two-deck and drawer modes, and a stronger scanline/status treatment.
+- Replaced twelve legacy left-rail variants and two detached exceptions with the homepage sidebar across all 197 routes; added archive and personnel codes, precise page/archive states, a release console, improved contrast, an illuminated Directorate emblem frame, sticky desktop navigation, and responsive behavior.
 - Replaced 69 unrelated footer compositions across 190 pages and seven missing footers with one expanded Directorate archive terminus on all 197 routes: a source-led city/Facility/codex topology, eight archive gateways, four project resources, release console, publication metrics, quality protocols, responsive stacking, and changelog access.
 - Added durable standards prohibiting plain, generic, title-only, template-swapped, and recolor-only visual work, and clarified that a shared favicon or navigation mark does not count as a page’s SVG treatment.
 - Defined SVG as a broader page-specific visual system encompassing icons, banners, backgrounds, profiles, silhouettes, diagrams, and other forms derived from the complete written page.
