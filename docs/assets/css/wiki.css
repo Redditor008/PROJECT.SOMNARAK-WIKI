@@ -9541,3 +9541,300 @@ body.hub-page .wiki-shell {
 body.hub-page .wiki-shell.home-shell {
   grid-template-columns: minmax(0, 190px) minmax(0, 1fr) !important;
 }
+
+
+/* ==========================================================================
+   HAND ARTICLE FLARE — department pages: not just p + table
+   Reuses industrial chrome. Floor color via --floor on the article.
+   ========================================================================== */
+.lore-main { --floor: #f1df76; }
+.hand-cutaway {
+  display: grid;
+  grid-template-columns: repeat(8, minmax(0, 1fr));
+  gap: 4px;
+  margin: 0 0 1.6rem;
+  width: 100%;
+  min-width: 0;
+}
+.hand-cutaway a {
+  min-width: 0;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px 4px 12px;
+  background: #07090e;
+  border: 2px solid var(--c, #f1df76);
+  box-shadow: inset 0 -4px 0 var(--c, #f1df76);
+  color: var(--c, #f1df76);
+}
+.hand-cutaway a:hover { background: #10161f; }
+.hand-cutaway b {
+  display: block;
+  font: 0.72rem Impact, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.06em;
+  white-space: normal;
+}
+.hand-cutaway small {
+  display: block;
+  margin-top: 4px;
+  color: #c4c09a;
+  font-size: 0.62rem;
+  line-height: 1.2;
+  white-space: normal;
+}
+.hand-cutaway i {
+  display: block;
+  height: 8px;
+  margin: 0 0 8px;
+  background: var(--c, #f1df76);
+}
+.phase-rail {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 0;
+  margin: 0.8rem 0 1.6rem;
+  width: 100%;
+  min-width: 0;
+  background: #243b59;
+}
+.phase-rail article {
+  min-width: 0;
+  padding: 14px 12px 16px;
+  background: #07090e;
+  border-top: 4px solid var(--floor, #f1df76);
+  position: relative;
+}
+.phase-rail article + article:before {
+  content: "";
+  position: absolute;
+  left: -7px;
+  top: 22px;
+  border: 7px solid transparent;
+  border-left-color: var(--floor, #f1df76);
+}
+.phase-rail span {
+  display: block;
+  font: 1.4rem Impact, "Arial Narrow Bold", sans-serif;
+  color: var(--floor, #f1df76);
+  letter-spacing: 0.04em;
+}
+.phase-rail h3 {
+  margin: 4px 0 6px;
+  color: #f1df76;
+  font: 0.92rem Impact, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.phase-rail h3:before { content: none !important; }
+.phase-rail p {
+  margin: 0;
+  color: #c4c09a;
+  font-size: 0.78rem;
+  line-height: 1.4;
+}
+.quota-strip {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+  margin: 0.6rem 0 1.4rem;
+}
+.quota-chip {
+  min-width: 0;
+  padding: 12px 12px 14px;
+  background: #07090e;
+  border: 2px solid var(--c, #f1df76);
+}
+.quota-chip b {
+  display: block;
+  color: var(--c, #f1df76);
+  font: 1.35rem Impact, "Arial Narrow Bold", sans-serif;
+}
+.quota-chip small {
+  display: block;
+  color: #c4c09a;
+  font-size: 0.72rem;
+  line-height: 1.3;
+  margin-top: 4px;
+}
+.quota-chip em {
+  display: block;
+  margin-top: 8px;
+  height: 6px;
+  background: #141207;
+  border: 1px solid #3a2a1a;
+}
+.quota-chip em i {
+  display: block;
+  height: 100%;
+  width: var(--fill, 40%);
+  background: var(--c, #f1df76);
+}
+.brief-stack {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin: 0.8rem 0 1.4rem;
+}
+.brief-card {
+  min-width: 0;
+  background: #08090d;
+  border: 2px solid var(--floor, #f1df76);
+  border-left: 6px solid var(--floor, #f1df76);
+  padding: 0;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.7);
+}
+.brief-card header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 8px 12px;
+  background: #141207;
+  border-bottom: 1px solid rgba(241,223,118,0.25);
+  color: #f1df76;
+  font: 0.88rem Impact, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.brief-card header small {
+  color: #38bdf8;
+  font: 0.68rem "Courier New", monospace;
+  letter-spacing: 0.08em;
+}
+.brief-card blockquote {
+  margin: 0 !important;
+  padding: 12px 14px 8px !important;
+  border: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  color: #e8e2c0 !important;
+  font-style: italic !important;
+  font-size: 0.88rem !important;
+  line-height: 1.45 !important;
+}
+.brief-card .brief-goal {
+  margin: 0;
+  padding: 0 14px 12px;
+  color: #f1df76;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+.alarm-matrix {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 8px;
+  margin: 0.8rem 0 1.4rem;
+}
+.alarm-cell {
+  min-width: 0;
+  padding: 12px 10px 14px;
+  background: #07090e;
+  border: 2px solid var(--c, #ef5b55);
+  box-shadow: inset 0 -4px 0 var(--c, #ef5b55);
+}
+.alarm-cell b {
+  display: block;
+  color: var(--c, #ef5b55);
+  font: 0.82rem Impact, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.alarm-cell small {
+  display: block;
+  margin-top: 6px;
+  color: #c4c09a;
+  font-size: 0.72rem;
+  line-height: 1.35;
+  white-space: normal;
+}
+.core-wound {
+  margin: 0 0 1rem;
+  padding: 12px 14px 14px;
+  background: linear-gradient(135deg, #1a080c 0%, #07090e 100%);
+  border: 2px solid var(--c, #ef5b55);
+  border-left: 8px solid var(--c, #ef5b55);
+}
+.core-wound b {
+  display: block;
+  color: var(--c, #ef5b55);
+  font: 0.78rem Impact, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+.core-wound p { margin: 0; color: #e4dfb8; font-size: 0.9rem; line-height: 1.5; }
+.staff-plate {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 8px;
+  margin: 0.6rem 0 1.2rem;
+}
+.staff-plate article {
+  min-width: 0;
+  padding: 12px;
+  background: #07090e;
+  border: 1px solid #3a4248;
+  border-top: 4px solid var(--floor, #f1df76);
+}
+.staff-plate span {
+  display: block;
+  color: var(--floor, #f1df76);
+  font-size: 0.62rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.staff-plate b { display: block; color: #eee; margin: 4px 0 6px; font-size: 0.95rem; }
+.staff-plate small { display: block; color: #999; font-size: 0.72rem; line-height: 1.35; }
+.tool-plate {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+  margin: 0.6rem 0 1.2rem;
+}
+.tool-plate article {
+  min-width: 0;
+  padding: 14px 12px;
+  background: #07090e;
+  border: 2px solid var(--floor, #f1df76);
+}
+.tool-plate b {
+  display: block;
+  color: #f1df76;
+  font: 0.92rem Impact, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 0.05em;
+  margin-bottom: 6px;
+}
+.tool-plate p { margin: 0; color: #c4c09a; font-size: 0.78rem; line-height: 1.4; }
+.department-command {
+  margin: 0.4rem 0 1.4rem !important;
+  min-width: 0;
+  max-width: 100%;
+}
+.department-command > header { min-width: 0; }
+.operation-flow { min-width: 0; }
+.operation-flow article { min-width: 0; overflow-wrap: anywhere; }
+.room-schematic { min-width: 0; }
+.room-schematic article { min-width: 0; overflow-wrap: anywhere; }
+.lore-main .department-command > header h2:before { content: none !important; }
+.lore-main .operation-flow h3:before { content: none !important; }
+.lore-main .room-schematic { margin-top: 0.4rem; }
+.observation-track { --entity: var(--floor, #f1df76); min-width: 0; }
+.observation-track article { min-width: 0; }
+.phase-rail article, .quota-chip, .alarm-cell, .brief-card, .core-wound, .staff-plate article, .tool-plate article {
+  overflow-wrap: anywhere;
+}
+@media (max-width: 1080px) {
+  .hand-cutaway { grid-template-columns: repeat(4, minmax(0,1fr)); }
+  .phase-rail, .quota-strip, .alarm-matrix, .staff-plate, .tool-plate, .brief-stack {
+    grid-template-columns: repeat(2, minmax(0,1fr));
+  }
+  .phase-rail article + article:before { display: none; }
+}
+@media (max-width: 1080px) {
+  .operation-flow { grid-template-columns: 1fr 1fr !important; }
+}
+@media (max-width: 640px) {
+  .hand-cutaway, .phase-rail, .quota-strip, .alarm-matrix, .staff-plate, .tool-plate, .brief-stack, .operation-flow, .room-schematic {
+    grid-template-columns: 1fr !important;
+  }
+  .department-command > header { grid-template-columns: 1fr !important; }
+}
