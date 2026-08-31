@@ -9,6 +9,30 @@ _Generated 2026-09-01 by arena session `arena/01a05993-project-somnarak-wiki`. A
 - Markdown is normalized (code fences/inline code/images/URLs/headers/list markers/emphasis stripped) before shingling.
 - Interpretation: % of the source document's content that made it into the published wiki. **Caveat:** exact 4-gram matching counts only verbatim/paraphrase-light transfers; content rewritten in different words reads lower than its true coverage, and boilerplate shared phrasing reads slightly higher.
 
+## Headline: install rate of the WIKI CONTENT (1,850 files, 11 system/root files excluded)
+
+The 11 repo-root meta documents (audits, rules, handoff protocols, README) are system files, not wiki content. Excluding them, the install audit covers the seven content folders — 01_Sorrow_Entities, 02_Hope_Transformation, 03_Unknown_Entities, 04_Ordeals, 07_Reference, CHARACTER_WIKI, M.A.W. Codex_Set Registry — **1,850 files, ~3.46M words, 3,075,754 unique 4-grams**.
+
+| Measure | Result |
+|---|---|
+| **Text-based (shingle-weighted) — what % of the written content is in the wiki** | **8.03%** |
+| Word-weighted | 8.35% |
+| Simple average of the 1,850 per-file percentages | 4.95% |
+
+Per folder (text-based):
+
+| Folder | Files | Words | Install % (text) |
+|---|---|---|---|
+| 07_Reference | 34 | 435,167 | 35.64% |
+| 02_Hope_Transformation | 14 | 33,383 | 19.28% |
+| 03_Unknown_Entities | 8 | 40,415 | 11.11% |
+| CHARACTER_WIKI | 9 | 115,588 | 5.25% |
+| 01_Sorrow_Entities | 529 | 2,281,435 | 4.80% |
+| 04_Ordeals | 60 | 52,203 | 4.10% |
+| M.A.W. Codex_Set Registry | 1,196 | 503,460 | 3.12% |
+
+Plain reading: **roughly 8 out of every 100 written units of the reference wiki content exist in the published wiki.** The bulk of that installed share comes from the 07_Reference master docs (near-verbatim pages); the large entity and M.A.W. registries were only lightly published — mostly unpublished, and the published parts are condensed dossiers. Caveats: exact 4-gram matching under-counts paraphrased content (so 8.03% is a floor-leaning figure), and 01_Sorrow_Entities contains paired variant files (two English names for the same entity), which double-counts some mass.
+
 ## Overall (1,861 files)
 
 | Bucket | Files |
