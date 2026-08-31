@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="PANIC AND CORROSION  —  THE GAUGE FILLS">
+  <defs>
+    <linearGradient id="bgpanicb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#031018"/><stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="fdpanicb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ef5b55" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ef5b55" stop-opacity=".22"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bgpanicb)"/>
+  <rect width="1400" height="280" fill="url(#fdpanicb)"/>
+  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#ef5b55" stroke-width="2.4"/>
+  <line x1="24" y1="24" x2="1376" y2="24" stroke="#ef5b55" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  <line x1="24" y1="256" x2="1376" y2="256" stroke="#ef5b55" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  
+  <rect x="120" y="80" width="1160" height="110" fill="#0b1220" stroke="#ef5b55" stroke-width="3"/>
+  <rect x="140" y="100" width="260" height="70" fill="#14532d"/>
+  <rect x="400" y="100" width="260" height="70" fill="#ca8a04"/>
+  <rect x="660" y="100" width="260" height="70" fill="#c2410c"/>
+  <rect x="920" y="100" width="340" height="70" fill="#7f1d1d"/>
+  <text x="700" y="145" text-anchor="middle" fill="#fff" font-family="Impact, Arial Black, sans-serif" font-size="20">CALM  ·  STRESS  ·  PANIC  ·  CORROSION</text>
+
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="246" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">SYSTEMS  ·  PANIC</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">PANIC AND CORROSION  —  THE GAUGE FILLS</text>
+</svg>

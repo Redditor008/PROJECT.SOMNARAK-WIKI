@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%" role="img" aria-label="Void — blank tablet eaten through">
+  <polygon points="60,4 114,24 114,86 60,116 6,86 6,24" fill="#111827" stroke="#f8fafc" stroke-width="4"/>
+  <rect x="34" y="30" width="52" height="62" rx="2" fill="#020617" stroke="#cbd5e1" stroke-width="2"/>
+  <path d="M42 42 H78 M42 52 H70 M42 62 H64" stroke="#334155" stroke-width="2"/>
+  <path d="M58 58 C70 50 86 62 78 78 C70 90 48 86 50 70 C52 60 54 62 58 58 Z" fill="#020617" stroke="#f8fafc" stroke-width="2"/>
+</svg>

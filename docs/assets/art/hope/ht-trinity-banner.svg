@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="THE TRINITY OF DAWN  —  THREE LIGHTS, ONE CLOCK">
+  <defs>
+    <linearGradient id="bghttr" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c1408"/>
+      <stop offset="1" stop-color="#0b1020"/>
+    </linearGradient>
+    <linearGradient id="fadehttr" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f1df76" stop-opacity="0"/>
+      <stop offset="1" stop-color="#f1df76" stop-opacity=".28"/>
+    </linearGradient>
+    <filter id="glowhttr" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bghttr)"/>
+  <rect width="1400" height="280" fill="url(#fadehttr)"/>
+  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#f1df76" stroke-width="2.4"/>
+  <line x1="24" y1="24" x2="1376" y2="24" stroke="#f1df76" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  <line x1="24" y1="256" x2="1376" y2="256" stroke="#f1df76" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  
+  <rect x="1188" y="18" width="194" height="28" fill="#000" opacity=".55" stroke="#f1df76" stroke-width="1"/>
+  <text x="1285" y="37" text-anchor="middle" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="3">TRINITY</text>
+  <g filter="url(#glowhttr)">
+  
+  <circle cx="700" cy="70" r="48" fill="none" stroke="#f1df76" stroke-width="5"/>
+  <circle cx="560" cy="160" r="48" fill="none" stroke="#38bdf8" stroke-width="5"/>
+  <circle cx="840" cy="160" r="48" fill="none" stroke="#ef5b55" stroke-width="5"/>
+  <circle cx="700" cy="70" r="14" fill="#f1df76"/>
+  <circle cx="560" cy="160" r="14" fill="#38bdf8"/>
+  <circle cx="840" cy="160" r="14" fill="#ef5b55"/>
+  <path d="M700 118 L590 148 M700 118 L810 148 M604 160 H796" stroke="#f1df76" stroke-width="2" opacity=".7"/>
+  <text x="700" y="44" text-anchor="middle" fill="#f1df76" font-family="Impact" font-size="12" letter-spacing="3">DAWN</text>
+  <text x="560" y="214" text-anchor="middle" fill="#38bdf8" font-family="Impact" font-size="12" letter-spacing="3">HAND</text>
+  <text x="840" y="214" text-anchor="middle" fill="#ef5b55" font-family="Impact" font-size="12" letter-spacing="3">SHIELD</text>
+    
+  </g>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="246" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">HT-V-HC-001  ·  새벽의 삼위일체</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">THE TRINITY OF DAWN  —  THREE LIGHTS, ONE CLOCK</text>
+</svg>

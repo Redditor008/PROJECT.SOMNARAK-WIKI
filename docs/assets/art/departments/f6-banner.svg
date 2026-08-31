@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Floor 6 Deep Vault — ledgers, name tablets, sealed drawers">
+  <defs>
+    <linearGradient id="bgf6b" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05080e"/><stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="acf6b" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ef5b55"/><stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <filter id="glf6b" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bgf6b)"/>
+  <rect width="1400" height="280" fill="#ef5b55" opacity=".06"/>
+  
+  <rect x="70" y="40" width="420" height="170" fill="#14080a" stroke="#ef5b55" stroke-width="3"/>
+  <g fill="#1c1917" stroke="#f1df76" stroke-width="1.5">
+    <rect x="90" y="58" width="90" height="130"/>
+    <rect x="190" y="58" width="90" height="130"/>
+    <rect x="290" y="58" width="90" height="130"/>
+    <rect x="390" y="58" width="80" height="130"/>
+  </g>
+  <path d="M100 78 H170 M100 98 H160 M100 118 H170" stroke="#ef5b55" stroke-width="2"/>
+  <path d="M200 78 H270 M200 98 H250" stroke="#f1df76" stroke-width="2"/>
+  <rect x="560" y="50" width="360" height="150" fill="#0a0405" stroke="#ef5b55" stroke-width="3"/>
+  <rect x="590" y="80" width="300" height="18" fill="#1c1917" stroke="#f1df76"/>
+  <rect x="590" y="110" width="300" height="18" fill="#1c1917" stroke="#f1df76"/>
+  <rect x="590" y="140" width="300" height="18" fill="#1c1917" stroke="#f1df76"/>
+  <path d="M1040 70 H1320 M1040 110 H1280 M1040 150 H1300" stroke="#ef5b55" stroke-width="6"/>
+  <circle cx="1180" cy="40" r="14" fill="none" stroke="#f1df76" stroke-width="3"/>
+
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".72"/>
+  <text x="32" y="246" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FLOOR 6  ·  MARJUK  —  NAMES</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">DEEP VAULT  —  BURIED AND GUARDED</text>
+</svg>

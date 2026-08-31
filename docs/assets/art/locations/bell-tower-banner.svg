@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Orphan Bell Tower bronze bell">
+  <rect width="1400" height="280" fill="#070410"/>
+  <path d="M120 30 H280 L250 80 H150 Z" fill="#1c1917" stroke="#38bdf8" stroke-width="5"/>
+  <rect x="168" y="80" width="64" height="120" fill="#0b1220" stroke="#38bdf8" stroke-width="5"/>
+  <path d="M140 120 C140 80 260 80 260 120 L245 175 H155 Z" fill="#b45309" stroke="#f1df76" stroke-width="5"/>
+  <circle cx="200" cy="178" r="10" fill="#f1df76"/>
+  <text x="360" y="90" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="28">BRONZE, NO RINGER</text>
+  <text x="360" y="124" fill="#94a3b8" font-family="Arial" font-size="16">Old Lament, Zone B. Tolls for children who will never grow old.</text>
+  <text x="360" y="152" fill="#64748b" font-family="Arial" font-size="15">No faces in the bronze. Names under the crystal are not on the rope.</text>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="248" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FROM THE CITY MAP</text>
+  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2">ORPHAN BELL TOWER  —  THE BELL STILL TOLLS</text>
+</svg>

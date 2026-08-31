@@ -1,0 +1,633 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>M.A.W. Equipment Architecture &amp; Synthesis — Somnarak Official Wiki</title>
+<link href="../assets/css/wiki.css?v=20260831g" rel="stylesheet"/>
+<link href="../assets/icons/somnarak_icon.svg" rel="icon" type="image/svg+xml"/>
+<script defer="" src="../assets/js/wiki.js?v=20260831g"></script>
+</head>
+<body>
+<!-- Top Utility Bar -->
+<header class="utility" data-component="global-top-bar">
+  <div class="utility-left">
+    <button class="nav-open" type="button" aria-controls="primary-archive-navigation" aria-expanded="false" aria-label="Open primary archive navigation">
+      <span class="nav-open-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="nav-open-text">MENU</span>
+    </button>
+    <a class="utility-brand" href="../index.html" aria-label="Somnarak Wiki main page">
+      <img src="../assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
+    </a>
+    <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>
+  </div>
+  <nav class="utility-nav" id="primary-archive-navigation" aria-label="Primary archive">
+      <a href="../index.html" data-archive="00"><span>Main</span><small>Terminal</small></a>
+      <a href="../characters/index.html" data-archive="01"><span>Characters</span><small>Echo-Cores</small></a>
+      <a href="../lore/index.html" data-archive="02"><span>Lore</span><small>Cycles</small></a>
+      <a href="../locations/index.html" data-archive="03"><span>Atlas</span><small>City</small></a>
+      <a href="../factions/index.html" data-archive="04"><span>Factions</span><small>Orders</small></a>
+      <a href="../departments/index.html" data-archive="05"><span>Facility</span><small>Floors</small></a>
+      <a href="../entities/index.html" data-archive="06"><span>Entities</span><small>SECC</small></a>
+      <a href="../maw/index.html" data-archive="07"><span>M.A.W.</span><small>Arsenal</small></a>
+      <a href="../mechanics/index.html" data-archive="08" class="is-current" aria-current="page"><span>Mechanics</span><small>Systems</small></a>
+      <a href="../downloads.html" data-archive="09"><span>Downloads</span><small>Files</small></a>
+  </nav>
+  <div class="search" role="search">
+    <label for="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search Somnarak Wiki</span></label>
+    <input id="search" type="search" aria-label="Search Somnarak Wiki" aria-controls="results" aria-expanded="false" data-index="../data/search.json" placeholder="Search the archive" autocomplete="off" spellcheck="false"/>
+    <kbd aria-hidden="true">/</kbd>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</header>
+<!-- Main Grid Layout -->
+<div class="wiki-shell">
+<!-- Left Rail -->
+
+    <aside class="left-rail">
+      <div class="site-mark">
+        <a href="../index.html">
+          <img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+          <b>SOMNARAK</b>
+          <span>OFFICIAL WIKI ARCHIVE</span>
+        </a>
+      </div>
+      <nav aria-label="Wiki navigation" class="left-links">
+        <section>
+          <h2>DATABASE HUBS</h2>
+          <a href="../index.html">Main Overview</a>
+          <a href="../characters/index.html">Characters Hub</a>
+          <a href="../lore/index.html">Lore &amp; Cosmology</a>
+          <a href="../locations/index.html">Locations &amp; Atlas</a>
+          <a href="../factions/index.html">Factions &amp; Guilds</a>
+          <a href="../departments/index.html">Facility Floors</a>
+          <a href="../entities/index.html">Sorrow Entities</a>
+          <a href="../maw/index.html">M.A.W. Equipment</a>
+          <a href="../mechanics/index.html">Systems &amp; Mechanics</a>
+        </section>
+        <section>
+          <h2>THE NINE ECHO-CORES</h2>
+          <a href="../characters/the-director-majin.html">1. Director Majin</a>
+          <a href="../characters/the-secretary-seiyon.html">2. Seiyon (Secretary)</a>
+          <a href="../characters/the-containment-lead-dekan.html">3. Dekan (Containment)</a>
+          <a href="../characters/the-extraction-lead-zyrak.html">4. Zyrak (Extraction)</a>
+          <a href="../characters/the-research-lead-ayshuk.html">5. Ayshuk (Research)</a>
+          <a href="../characters/the-border-lead-mellda.html">6. Mellda (Border)</a>
+          <a href="../characters/the-archive-lead-marjuk.html">7. Marjuk (Archive)</a>
+          <a href="../characters/the-outsider-ishall.html">8. Ishall (Outsider)</a>
+          <a href="../characters/the-exile-xyan.html">9. Xyan (Exile)</a>
+        </section>
+        <section>
+          <h2>CARTOGRAPHY &amp; SCHEMATICS</h2>
+          <a href="../atlas/hand-of-change-map.html">Hand of Change Map</a>
+          <a href="../atlas/somnarak-city-map.html">Somnarak City Blueprint</a>
+          <a href="../project/source-map.html">Master Archive Map</a>
+        </section>
+      </nav>
+    </aside>
+
+<!-- Main Content Body -->
+<main id="content">
+<!-- Tactical Fast-Jump Subpage Bar -->
+<div class="fast-jump-nav">
+  <span class="fast-jump-title">/// RAPID JUMP:</span>
+  <div class="fast-jump-pills">
+    <a href="han-energy-and-damage.html" class="jump-pill">Damage Matrix</a> <a href="the-four-work-types.html" class="jump-pill">Work Types</a> <a href="../entities/index.html#classification" class="jump-pill">SECC</a> <a href="resonant-clash-mechanics.html" class="jump-pill">Clash Rules</a> <a href="ordeals-framework.html" class="jump-pill">Ordeals</a> <a href="agent-attributes-and-stats.html" class="jump-pill">Agent Stats</a> <a href="containment-and-suppression.html" class="jump-pill">Containment</a> <a href="maw-equipment-system.html" class="jump-pill active">MAW System</a> <a href="taboo-resonance-mechanics.html" class="jump-pill">Taboo Mechanics</a> <a href="index.html" class="jump-pill">✦ Systems Hub</a>
+  </div>
+</div>
+<!-- Tactical Directive Status HUD -->
+<div class="tactical-directive-box">
+  <div class="directive-text">
+    <span class="led-dot led-green"></span> <b>STATUS:</b> ARCHIVE VERIFIED &nbsp;|&nbsp;
+    <b>CLEARANCE:</b> LEVEL-4 OVERSIGHT &nbsp;|&nbsp;
+    <b>PROTOCOL:</b> REVERIE DIRECTORATE
+  </div>
+  <img src="../assets/icons/hud_resonance_wave.svg" alt="Resonance Wave" class="directive-wave">
+</div>
+<!-- Page Tabs -->
+<div class="page-tabs">
+<span>ARTICLE</span>
+<span>DISCUSSION</span>
+<span>SOURCE</span>
+<span>HISTORY</span>
+<b>YEAR 4,238 · DAWN OF HOPE</b>
+</div>
+<!-- Breadcrumbs -->
+<div class="breadcrumbs">
+<a href="../index.html">Somnarak</a> <i>/</i>
+<a href="../mechanics/index.html">Systems &amp; Mechanics</a> <i>/</i>
+<span>M.A.W. Equipment Architecture &amp; Synthesis</span>
+</div>
+<!-- Article Header -->
+<div class="article-header">
+<div class="article-eyebrow">SYSTEMS &amp; MECHANICS RECORD</div>
+<h1 class="article-title">M.A.W. Equipment Architecture &amp; Synthesis</h1>
+<div class="article-subbar">
+<span class="badge badge-canon">CANONICAL ARTIFACT</span>
+<span class="badge badge-source">SOURCE VERIFIED</span>
+<div class="article-actions">
+<span class="action-btn">History</span>
+<span class="action-btn">View Source</span>
+</div>
+</div>
+</div>
+<div class="toc" id="toc">
+<div class="toc-title">Contents</div>
+<div class="toc-body">
+<ol>
+<li><a href="#m-a-w-materialized-agony-wear">M.A.W. — Materialized Agony Wear</a></li>
+<li><a href="#m-a-w-gifts-corrosion">M.A.W. Gifts &amp; Corrosion</a></li>
+<li><a href="#m-a-w-mechanics">M.A.W. Mechanics</a></li>
+<li><a href="#echo-core-signature-equipment">Echo-Core Signature Equipment</a></li>
+</ol>
+</div>
+</div>
+<!-- wiki-flare -->
+<div class="lore-article character-article wiki-article-grid">
+  <div class="character-main-content lore-main">
+<blockquote class="wiki-quote"><p>“To wear the M.A.W. is to let the sorrow wear you. You do not equip it — you agree.”</p><div class="quote-author">— M.A.W. architecture</div></blockquote>
+<figure class="lore-banner"><img src="../assets/art/mechanics/maw-sys-banner.svg" alt="M.A.W. SYSTEM"></figure>
+<div class="prop-tile-grid"><article class="prop-tile" style="--tile:#f1df76"><img src="../assets/art/mechanics/maw-sys-icon.svg" alt=""><b>Three slots</b><small>Blade, silk, charm</small></article><article class="prop-tile" style="--tile:#38bdf8"><img src="../assets/art/mechanics/element-lament.svg" alt=""><b>From Appearance</b><small>Not from the nickname</small></article><article class="prop-tile" style="--tile:#94a3b8"><img src="../assets/art/mechanics/dse-icon.svg" alt=""><b>After DSE</b><small>Issued kit first</small></article></div>
+<section class="wiki-section" id="m-a-w-materialized-agony-wear"><h2 class="section-title">M.A.W. — Materialized Agony Wear</h2>
+<h3>M.A.W. — Materialized Agony Wear (실체화된 고통의 갑옷)</h3>
+<p><strong>Full Name:</strong> Materialized Agony Wear</p>
+<p><strong>Abbreviation:</strong> M.A.W.</p>
+<p><strong>Etymology:</strong> <em>Maw</em> — a hungry, devouring throat. Directly references <strong><span><a class="wiki-link" href="../locations/the-maw.html">The Maw</a></span></strong> (구라/Gula), the site of the Cheongula where the First Sorrow occurred.</p>
+<div class="wiki-callout"><p><em>"To wear the M.A.W. is to let the sorrow wear you. You do not equip it — you</em> become <em>it, for a time."</em></p></div>
+<h4>What is M.A.W.?</h4>
+<p>M.A.W. is <strong><span>equipment manifested from <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a></span></strong> — weapons, armor, tools, and accessories that embody the specific grief of their source entity.</p>
+<p><span>When a <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> is studied, understood, and </span><em>resonated with</em>, its sorrow can be <strong>externalized</strong> into physical form. This form becomes M.A.W. — wearable, usable, but always carrying the weight of its origin.</p>
+<p><strong>M.A.W. is not manufactured.</strong> It is <strong>extracted</strong> — pulled from the entity's emotional core through a process of resonance and containment. The entity must be alive and coherent for extraction to work.</p>
+<p><strong>The name's significance:</strong></p>
+<ul>
+<li><span>M.A.W. is named after <a class="wiki-link" href="../locations/the-maw.html">The Maw</a> — the site of the Cheongula</span></li>
+<li><span>Just as <a class="wiki-link" href="../locations/the-maw.html">The Maw</a> consumed 1,000 citizens, M.A.W. "consumes" the wearer — temporarily</span></li>
+<li>The name is a warning: <strong>this equipment is alive with sorrow. Treat it with respect.</strong></li>
+</ul>
+<h4>How M.A.W. is Obtained</h4>
+<p><strong>Step 1: Containment</strong></p>
+<ul>
+<li><span>A <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> must be contained in a stable environment</span></li>
+<li>Containment is managed by specialized facilities (see: Sector Designation, below)</li>
+<li>The entity must be alive — dead or dispersed entities cannot yield M.A.W.</li>
+</ul>
+<p><strong>Step 2: Study</strong></p>
+<ul>
+<li>The entity's origin, behavior, and emotional core must be understood</li>
+<li>This requires <strong>resonance</strong> — the researcher must <em>feel</em> the entity's sorrow without being consumed by it</li>
+<li>Study is dangerous — too much resonance causes Fracture</li>
+</ul>
+<p><strong>Step 3: Extraction</strong></p>
+<ul>
+<li>Through resonance, the entity's sorrow is <strong>externalized</strong> into physical form</li>
+<li>The form is shaped by the entity's nature — a grief-entity might yield a shield; a rage-entity might yield a blade</li>
+<li>Extraction is painful for both entity and extractor</li>
+<li>Each extraction weakens the entity temporarily</li>
+</ul>
+<p><strong>Step 4: Bonding</strong></p>
+<ul>
+<li>M.A.W. must be <strong>bonded</strong> to a user — it does not work for just anyone</li>
+<li>The user must resonate with the entity's specific sorrow</li>
+<li>Bonding is permanent — the M.A.W. remembers its user</li>
+<li>If the user's sorrow changes, the M.A.W. may reject them — or <em>adapt</em></li>
+</ul>
+<h4>M.A.W. Types</h4>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Type</th><th>Form</th><th>Example</th><th>Source Entity Type</th></tr></thead>
+<tbody>
+<tr><td><strong>Weapon (Weapon)</strong></td><td>Blades, hammers, ranged implements</td><td><strong>Lament's Edge</strong> — a sword that weeps</td><td>Grief-entities</td></tr>
+<tr><td><strong>Armor (Wear)</strong></td><td>Suits, shields, protective gear</td><td><strong>The Mourning Shell</strong> — armor that absorbs sorrow</td><td>Endurance-entities</td></tr>
+<tr><td><strong>Tool (Implement)</strong></td><td>Devices, instruments, utilities</td><td><strong>The Debt Scale</strong> — measures karmic weight</td><td>Balance-entities</td></tr>
+<tr><td><strong>Accessory (Trinket)</strong></td><td>Rings, masks, amulets</td><td><strong>The Forgotten Mask</strong> — hides identity</td><td>Identity-entities</td></tr>
+<tr><td><strong>Hybrid (Composite)</strong></td><td>Combinations of the above</td><td><strong>The Weeping Hammer</strong> — weapon that heals allies</td><td>Complex-entities</td></tr>
+</tbody></table></div>
+<h4>M.A.W. Grades</h4>
+<p>M.A.W. grades correspond to the potency of their source entity:</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Grade</th><th>Source</th><th>Power</th><th>Risk</th><th>Name Convention</th></tr></thead>
+<tbody>
+<tr><td><strong>α (Alpha)</strong></td><td>Minor entities</td><td>Basic enhancement</td><td>Low</td><td>Named after the entity</td></tr>
+<tr><td><strong>β (Beta)</strong></td><td>Moderate entities</td><td>Significant enhancement</td><td>Medium</td><td>Named after the entity + descriptor</td></tr>
+<tr><td><strong>γ (Gamma)</strong></td><td>Major entities</td><td>Powerful abilities</td><td>High</td><td>Named after the entity's origin story</td></tr>
+<tr><td><strong>δ (Delta)</strong></td><td>Critical entities</td><td>Reality-bending</td><td>Extreme</td><td>Named after the entity's emotional core</td></tr>
+<tr><td><strong>ω (Omega)</strong></td><td>Catastrophic entities</td><td>Unknown</td><td>Unknown</td><td><strong>Forbidden</strong> — The Director's fusion is the only ω-grade</td></tr>
+</tbody></table></div>
+<p><strong>Note:</strong> An ω-grade M.A.W. has never been successfully extracted. The only ω-grade entity is <strong><span><a class="wiki-link" href="../locations/the-maw.html">The Maw</a></span></strong> itself — and attempting extraction would mean... wearing the Cheongula.</p>
+<h4>The Cost of Using M.A.W.</h4>
+<p>M.A.W. is not free. It is <strong>alive with sorrow</strong>, and it demands a price.</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Cost</th><th>Effect</th><th>Duration</th></tr></thead>
+<tbody>
+<tr><td><strong>Emotional drain</strong></td><td>The wearer feels the entity's sorrow — grief, rage, loss</td><td>During use</td></tr>
+<tr><td><strong>Memory bleed</strong></td><td>The entity's memories may surface in the wearer's mind</td><td>Temporary, but cumulative</td></tr>
+<tr><td><strong>Physical toll</strong></td><td>The body bears the weight of sorrow — fatigue, pain, aging</td><td>During and after use</td></tr>
+<tr><td><strong>Resonance shift</strong></td><td>The wearer's emotional state is altered — they become more like the entity</td><td>Gradual, potentially permanent</td></tr>
+<tr><td><strong>Fracture risk</strong></td><td>Prolonged use without breaks can cause the wearer to Fracture</td><td>Cumulative — high risk with powerful M.A.W.</td></tr>
+</tbody></table></div>
+<p><strong>The rule:</strong> M.A.W. must be used in <strong>shifts</strong>. No one wears it continuously. The sorrow is too heavy. The entity is too present.</p>
+<h4>M.A.W. and the Architects</h4>
+<p>The Architects are the primary users of M.A.W. — their work requires them to handle raw Han, and M.A.W. provides protection and tools.</p>
+<p><strong>Architect M.A.W. protocol:</strong></p>
+<ul>
+<li>Each Architect is assigned M.A.W. based on their resonance compatibility</li>
+<li>M.A.W. is checked out from the facility, used for a shift, then returned</li>
+<li><strong>Personal M.A.W.</strong> is rare — reserved for Shapers and above</li>
+<li>The Architect's Mark may be accelerated by M.A.W. use — but this is debated</li>
+</ul></section>
+<section class="wiki-section" id="m-a-w-gifts-corrosion"><h2 class="section-title">M.A.W. Gifts &amp; Corrosion</h2><h3>M.A.W. Gifts (선물 — Seonmul) — Passive Items</h3>
+<p><strong>What they are:</strong> Small M.A.W. items — rings, masks, amulets, bracelets, hairpins — that provide <strong>passive effects</strong> without requiring active use. Unlike M.A.W. weapons and armor, Gifts are always active — worn constantly, shaping the wearer's experience.</p>
+<div class="wiki-callout"><p><em>"A Gift is not a tool. It is a companion. It whispers. It watches. It remembers."</em></p></div>
+<p><strong>How they form:</strong></p>
+<ul>
+<li>Gifts are <strong>byproducts</strong> of M.A.W. extraction — small fragments of the entity's sorrow that crystallize during the process</li>
+<li>They are not extracted intentionally — they simply <em>appear</em></li>
+<li>Each Gift is unique — shaped by the entity's specific sorrow</li>
+<li>Gifts are <strong>bonded</strong> to the wearer — they cannot be removed without assistance</li>
+</ul>
+<p><strong>Types of Gifts:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Type</th><th>Slot</th><th>Example</th><th>Passive Effect</th></tr></thead>
+<tbody>
+<tr><td><strong>Ring</strong></td><td>Hand</td><td>The Mourning Band</td><td>Increases sorrow tolerance — Han affects you less</td></tr>
+<tr><td><strong>Mask</strong></td><td>Face</td><td>The Forgotten Mask</td><td>Conceals identity — entities cannot see your face</td></tr>
+<tr><td><strong>Amulet</strong></td><td>Neck</td><td>The Cold Heart</td><td>Dampens emotional responses — you feel less</td></tr>
+<tr><td><strong>Bracelet</strong></td><td>Wrist</td><td>The Debt Chain</td><td>Reveals the debts of others — you see their burden</td></tr>
+<tr><td><strong>Hairpin</strong></td><td>Head</td><td>The Ember Pin</td><td>Provides warmth — protects against cold sorrow</td></tr>
+<tr><td><strong>Earring</strong></td><td>Ear</td><td>The Whisper Stud</td><td>Hears entity communication — you understand their language</td></tr>
+</tbody></table></div>
+<p><strong>Gift Mechanics:</strong></p>
+<ul>
+<li>Gifts are <strong>always active</strong> — no activation required</li>
+<li>Gifts have <strong>no direct cost</strong> — but they shape the wearer over time</li>
+<li>Gifts can be <strong>upgraded</strong> by feeding them Echoes — increasing their effect</li>
+<li>Gifts can be <strong>removed</strong> — but the process is painful (the Gift resists)</li>
+</ul>
+<p><strong>Notable Gifts:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Gift</th><th>Source Entity</th><th>Type</th><th>Effect</th><th>Cost</th></tr></thead>
+<tbody>
+<tr><td><strong>The Mourning Band</strong></td><td>The Grieving Colossus</td><td>Ring</td><td>+20% sorrow tolerance</td><td>Wearer weeps at night</td></tr>
+<tr><td><strong>The Forgotten Mask</strong></td><td>The Memory Weaver</td><td>Mask</td><td>Invisible to memory attacks</td><td>Wearer slowly loses small memories</td></tr>
+<tr><td><strong>The Cold Heart</strong></td><td>The Frozen Veil</td><td>Amulet</td><td>Immune to emotional manipulation</td><td>Wearer cannot feel joy</td></tr>
+<tr><td><strong>The Debt Chain</strong></td><td>The Inherited Debt</td><td>Bracelet</td><td>See others' karmic debt</td><td>Wearer feels every debt they see</td></tr>
+<tr><td><strong>The Ember Pin</strong></td><td>The Ember Child</td><td>Hairpin</td><td>Protection from cold sorrow</td><td>Happy memories fade slightly</td></tr>
+<tr><td><strong>The Whisper Stud</strong></td><td>The Hollow Choir</td><td>Earring</td><td>Understand entity language</td><td>Hears whispers constantly</td></tr>
+<tr><td><strong>The Duty Ring</strong></td><td>The Forgotten Soldier</td><td>Ring</td><td>+15% combat effectiveness</td><td>Wearer cannot flee from duty</td></tr>
+<tr><td><strong>The Tear Pendant</strong></td><td>The Orphaned Bell</td><td>Amulet</td><td>Resistance to memory loss</td><td>Hears the bell faintly</td></tr>
+</tbody></table></div>
+<h3>M.A.W. Corrosion (부식 — Busik) — When M.A.W. Fails</h3>
+<p><strong>What it is:</strong> When M.A.W. is overused, misused, or neglected, it <strong>corrodes</strong> — the entity's personality begins to overtake the wearer. The M.A.W. does not just fail — it <em>turns</em>.</p>
+<div class="wiki-callout"><p><em>"The M.A.W. is alive. Push it too far, and it will push back."</em></p></div>
+<p><strong>How Corrosion happens:</strong></p>
+<ul>
+<li><strong>Overuse:</strong> Using M.A.W. beyond recommended shifts — the entity's sorrow accumulates in the wearer</li>
+<li><strong>Misuse:</strong> Using M.A.W. against its nature — a Lament weapon used for joy, a Grudge armor used for cowardice</li>
+<li><strong>Neglect:</strong> Not feeding the M.A.W. Echoes — the entity becomes hungry, desperate</li>
+<li><strong>Emotional conflict:</strong> The wearer's sorrow contradicts the entity's — creating internal friction</li>
+</ul>
+<p><strong>The Corrosion Process:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Stage</th><th>Name</th><th>Signs</th><th>Duration</th></tr></thead>
+<tbody>
+<tr><td><strong>1</strong></td><td><strong>Whispers</strong></td><td>The wearer hears the entity's voice — faint, insistent</td><td>Days</td></tr>
+<tr><td><strong>2</strong></td><td><strong>Bleed</strong></td><td>The wearer's personality shifts — becoming more like the entity</td><td>Weeks</td></tr>
+<tr><td><strong>3</strong></td><td><strong>Merge</strong></td><td>The wearer and entity's personalities blend — boundaries blur</td><td>Months</td></tr>
+<tr><td><strong>4</strong></td><td><strong>Takeover</strong></td><td>The entity's personality dominates — the wearer is <em>inside</em> their own body</td><td>Permanent</td></tr>
+</tbody></table></div>
+<p><strong>Stage 1 — Whispers:</strong></p>
+<ul>
+<li>The wearer hears the entity's voice — not words, but <em>feelings</em></li>
+<li>The entity expresses preferences — what it likes, what it dislikes, what it wants</li>
+<li>The wearer can ignore the whispers — but they never fully stop</li>
+</ul>
+<p><strong>Stage 2 — Bleed:</strong></p>
+<ul>
+<li>The wearer's personality shifts — they become more like the entity</li>
+<li>A Lament-weapon wearer becomes more melancholic</li>
+<li>A Grudge-armor wearer becomes more aggressive</li>
+<li>A Void-tool wearer becomes more detached</li>
+<li>A Weight-accessory wearer becomes more resigned</li>
+</ul>
+<p><strong>Stage 3 — Merge:</strong></p>
+<ul>
+<li>The boundaries between wearer and entity blur</li>
+<li>The wearer speaks with the entity's voice — saying things they didn't intend</li>
+<li>The wearer acts on the entity's impulses — without realizing it</li>
+<li>The wearer's memories mix with the entity's memories — confusion</li>
+</ul>
+<p><strong>Stage 4 — Takeover:</strong></p>
+<ul>
+<li>The entity's personality dominates</li>
+<li>The wearer is still <em>aware</em> — but trapped inside their own body</li>
+<li>The entity uses the body for its own purposes — seeking what it lost, what it wants, what it needs</li>
+<li><strong>This is not Fracture</strong> — the wearer's body does not transform. They are still human. But the mind is no longer theirs.</li>
+</ul>
+<p><strong>How to prevent Corrosion:</strong></p>
+<ul>
+<li>Follow shift limits — do not use M.A.W. beyond recommended time</li>
+<li>Feed the M.A.W. Echoes regularly — keep the entity satisfied</li>
+<li>Monitor personality changes — if you notice shifts, report to R.D.</li>
+<li>Take breaks — let the M.A.W. rest, let yourself rest</li>
+<li>Talk to someone — the Secretary, a fellow worker, anyone</li>
+</ul>
+<p><strong>How to treat Corrosion:</strong></p>
+<ul>
+<li><strong>Stage 1:</strong> Rest and reflection — the whispers fade with distance</li>
+<li><strong>Stage 2:</strong> M.A.W. removal — painful, but necessary</li>
+<li><strong>Stage 3:</strong> Core Suppression-level intervention — forces the entity back</li>
+<li><strong>Stage 4:</strong> <strong>No known treatment</strong> — the wearer is lost</li>
+</ul>
+<h3>M.A.W. Corrosion — The Echo-Core Risk</h3>
+<p>Echo-Cores use M.A.W. more than anyone — and they are at the highest risk of Corrosion.</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Echo-Core</th><th>M.A.W. Status</th><th>Corrosion Risk</th></tr></thead>
+<tbody>
+<tr><td><strong>The Director</strong></td><td>ω-grade, permanently fused</td><td><strong>Stage 4 — the entity IS part of them</strong></td></tr>
+<tr><td><strong>The Secretary</strong></td><td>No M.A.W. — AI construct</td><td>None</td></tr>
+<tr><td><strong>The Containment Lead</strong></td><td>Partial Maw-merge</td><td><strong><span>Stage 3 — merging with <a class="wiki-link" href="../locations/the-maw.html">The Maw</a></span></strong></td></tr>
+<tr><td><strong>The Extraction Lead</strong></td><td>Android body — M.A.W. compatible</td><td>Stage 2 — personality shifts noted</td></tr>
+<tr><td><strong>The Research Lead</strong></td><td>Hollow — no entity resonance</td><td>None — cannot corrode</td></tr>
+<tr><td><strong>The Border Lead</strong></td><td>Entity inside — Effloresced</td><td>N/A — Efflorescence, not Corrosion</td></tr>
+<tr><td><strong>The Archive Lead</strong></td><td>Cryogen — isolated</td><td>None — no M.A.W. contact</td></tr>
+<tr><td><strong>The Outsider</strong></td><td>Android — M.A.W. compatible</td><td>Stage 1 — whispers noted</td></tr>
+<tr><td><strong>The Exile</strong></td><td>Desolate-changed</td><td><strong>Unknown — the Desolate is changing them</strong></td></tr>
+</tbody></table></div>
+<p><strong>Full details:</strong> <code>The_REVERIE_DIRECTORATE.md</code></p></section>
+<section class="wiki-section" id="m-a-w-mechanics"><h2 class="section-title">M.A.W. Mechanics</h2>
+<h3>M.A.W. Mechanics</h3>
+<p><strong>Equipping:</strong> Bonded to specific user. Feels like a second skin. Entity's presence becomes part of you.</p>
+<p><strong>Using M.A.W.:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Action</th><th>Effect</th><th>Cost</th></tr></thead>
+<tbody>
+<tr><td>Basic attack</td><td>Enhanced damage, entity effects</td><td>Emotional drain (minor)</td></tr>
+<tr><td>Special ability</td><td>Unique power per entity type</td><td>Emotional drain + memory bleed</td></tr>
+<tr><td>Resonance burst</td><td>Full entity power release</td><td>Severe toll + Fracture risk</td></tr>
+<tr><td>Entity communion</td><td>Communicate with source entity</td><td>Memory bleed + identity shift</td></tr>
+</tbody></table></div>
+<p><strong>Maintenance:</strong> Requires Echoes. Without them, M.A.W. weakens and may rebel.</p>
+<p><strong>Rejection:</strong> If user's sorrow changes, M.A.W. may reject — emotional backlash, physical pain.</p></section>
+
+<div class="wiki-callout">
+<p><strong>CANONICAL RECORD:</strong> Sourced directly from the official <em>Project Somnarak Worldbuilding Codex</em>.</p>
+</div>
+
+
+  </div>
+<aside class="character-infobox" style="--entity:#f1df76">
+  <h2>M.A.W. SYSTEM</h2>
+  <div class="infobox-image-wrap">
+    <img src="../assets/art/mechanics/maw-sys-icon.svg" alt="M.A.W. SYSTEM">
+  </div>
+  <h3>Weapon · Suit · Gift</h3>
+  <dl class="fact-grid"><dt>Slots</dt><dd>Weapon / Suit / Gift</dd><dt>Source</dt><dd>Canonical SE extracts</dd><dt>Hub</dt><dd>M.A.W. arsenal</dd></dl>
+</aside>
+</div>
+<!-- Page Footer -->
+
+<!-- Bottom Cross-Reference Directory -->
+<section class="cross-reference-section">
+  <div class="cross-ref-header">CANONICAL CROSS-LINKS &amp; ATLAS CONNECTIONS</div>
+  <div class="cross-ref-grid">
+    <a href="../departments/floor-1-neutral-command.html" class="cross-ref-card">
+      <img src="../assets/layout/hand/icons/icon_dept_f1_neutral.svg" alt="Command">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">FACILITY COMMAND</span><span class="cross-ref-title">NEUTRAL COMMAND</span></div>
+    </a> <a href="../characters/the-director-majin.html" class="cross-ref-card">
+      <img src="../assets/icons/icon_core_majin.svg" alt="Majin">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">EXECUTIVE LEAD</span><span class="cross-ref-title">DIRECTOR MAJIN</span></div>
+    </a> <a href="../lore/the-cycle-and-absolvohan.html" class="cross-ref-card">
+      <img src="../assets/icons/ref_absolvohan.svg" alt="Absolvohan">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">PRIMARY CANON</span><span class="cross-ref-title">1,778 CYCLES</span></div>
+    </a> <a href="../atlas/hand-of-change-map.html" class="cross-ref-card">
+      <img src="../assets/layout/hand/icons/the_hand_dr_icon_styled.svg" alt="Facility Map">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">SCHEMATIC ATLAS</span><span class="cross-ref-title">HAND OF CHANGE MAP</span></div>
+    </a>
+  </div>
+</section>
+<section class="wiki-section" id="echo-core-signature-equipment"><h2 class="section-title">Echo-Core Signature Equipment</h2><p>The central equipment registry records the following stat blocks. These classifications do not convert unrelated body systems, departmental tools, or manifestations into M.A.W.</p>
+<h3>Majin — Reaper Hungered</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Field</th><th>Registry Entry</th></tr></thead>
+<tbody>
+<tr><td><strong>Type</strong></td><td>Weapon — fused signature M.A.W.</td></tr>
+<tr><td><strong>Grade</strong></td><td><strong>Ω — Singular</strong></td></tr>
+<tr><td><strong>Bearer</strong></td><td><strong><span><a class="wiki-link" href="../characters/the-director-majin.html">Majin</a> only</span></strong></td></tr>
+<tr><td><strong>Element</strong></td><td><strong>Grudge (Crimson) + Lament (Deep Blue)</strong></td></tr>
+<tr><td><strong>Bearer signature</strong></td><td><strong>Weight — Black</strong></td></tr>
+<tr><td><strong>Damage</strong></td><td><strong>10–20 Grudge direct</strong></td></tr>
+<tr><td><strong>Secondary damage</strong></td><td><strong>3 Lament per second for 10 seconds</strong></td></tr>
+<tr><td><strong>Tick interval</strong></td><td><strong>0.5 seconds</strong></td></tr>
+<tr><td><strong>Damage per Tick</strong></td><td><strong>1.5 Lament</strong></td></tr>
+<tr><td><strong>Full aftertone</strong></td><td><strong>30 Lament</strong> across 20 Ticks before falloff</td></tr>
+<tr><td><strong>Speed</strong></td><td><strong>3 — Fast</strong></td></tr>
+<tr><td><strong>Range</strong></td><td><strong>3 — Medium</strong></td></tr>
+<tr><td><strong>Attack pattern</strong></td><td><strong>Pierce</strong></td></tr>
+<tr><td><strong>Coverage</strong></td><td>Scythe-line through up to <strong>3 targets</strong></td></tr>
+<tr><td><strong>Falloff</strong></td><td><strong>100% → 70% → 50%</strong>, applied separately to the direct hit and every Tick</td></tr>
+<tr><td><strong>Maximum amount</strong></td><td><strong>1 — Unique</strong></td></tr>
+<tr><td><strong>Operational cost</strong></td><td><strong>Null</strong> — fusion internalizes the operational exchange</td></tr>
+<tr><td><strong>Binding cost</strong></td><td>Irreversible fusion, deathlessness, pain retention, and permanent containment responsibility</td></tr>
+</tbody></table></div>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Target</th><th>Grudge Direct</th><th>Lament / second</th><th>Lament / 0.5-second Tick</th><th>Full 10-second Lament</th></tr></thead>
+<tbody>
+<tr><td><strong>Primary — 100%</strong></td><td><strong>10–20</strong></td><td><strong>3</strong></td><td><strong>1.5</strong></td><td><strong>30</strong></td></tr>
+<tr><td><strong>First pierced — 70%</strong></td><td><strong>7–14</strong></td><td><strong>2.1</strong></td><td><strong>1.05</strong></td><td><strong>21</strong></td></tr>
+<tr><td><strong>Second pierced — 50%</strong></td><td><strong>5–10</strong></td><td><strong>1.5</strong></td><td><strong>0.75</strong></td><td><strong>15</strong></td></tr>
+</tbody></table></div>
+<h4>Phantom Reptile Beast</h4>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Field</th><th>Registry Entry</th></tr></thead>
+<tbody>
+<tr><td><strong>Attack</strong></td><td>Single-target phantom bite</td></tr>
+<tr><td><strong>Damage</strong></td><td><strong>999 Weight (Black)</strong></td></tr>
+<tr><td><strong>Secondary effect</strong></td><td>Room-sized Slowness aura</td></tr>
+<tr><td><strong>Aura duration</strong></td><td><strong>5 seconds</strong></td></tr>
+<tr><td><strong>Activation cost</strong></td><td><strong><span>90% of <a class="wiki-link" href="../characters/the-director-majin.html">Majin</a>'s HP + 90% of Majin's SP</span></strong></td></tr>
+<tr><td><strong>Cooldown</strong></td><td>Not specified</td></tr>
+</tbody></table></div>
+<p>The cost basis—current or maximum HP/SP—and the aura's exact slowing strength remain unspecified.</p>
+<h3>Mellda — Threshold Vow</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Field</th><th>Registry Entry</th></tr></thead>
+<tbody>
+<tr><td><strong>Type</strong></td><td>Integrated Cyborg weapon</td></tr>
+<tr><td><strong>Output rating</strong></td><td><strong>Critical (δ)-equivalent</strong>; not an actual M.A.W. grade</td></tr>
+<tr><td><strong>Element</strong></td><td><strong>Weight (Black) + Grudge (Crimson)</strong></td></tr>
+<tr><td><strong>Damage</strong></td><td><strong>6–16 Weight direct + 2 Grudge per second for 10 seconds</strong></td></tr>
+<tr><td><strong>Speed</strong></td><td><strong>1 — Slow</strong></td></tr>
+<tr><td><strong>Range</strong></td><td><strong>5 — Room</strong></td></tr>
+<tr><td><strong>Attack pattern</strong></td><td><strong>Pierce</strong></td></tr>
+<tr><td><strong>Coverage</strong></td><td>One line; up to <strong>3 targets</strong></td></tr>
+<tr><td><strong>Falloff</strong></td><td><strong>100% → 70% → 50%</strong>, applied separately to direct damage and each Tick</td></tr>
+<tr><td><strong>Maximum amount</strong></td><td><strong>1 — integrated into the designated left arm</strong></td></tr>
+<tr><td><strong>M.A.W. status</strong></td><td>Manufactured Cyborg equipment; not extracted, bonded, or self-manifested M.A.W.</td></tr>
+</tbody></table></div>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Target</th><th>Direct Weight</th><th>Grudge Tick</th></tr></thead>
+<tbody>
+<tr><td><strong>Primary — 100%</strong></td><td><strong>6–16</strong></td><td><strong>2 per second for 10 seconds</strong></td></tr>
+<tr><td><strong>First pierced — 70%</strong></td><td><strong>4.2–11.2</strong></td><td><strong>1.4 per second for 10 seconds</strong></td></tr>
+<tr><td><strong>Second pierced — 50%</strong></td><td><strong>3–8</strong></td><td><strong>1 per second for 10 seconds</strong></td></tr>
+</tbody></table></div>
+<h4>Singular Weight Wave</h4>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Field</th><th>Registry Entry</th></tr></thead>
+<tbody>
+<tr><td><strong>Damage</strong></td><td><strong>25 Weight (Black)</strong></td></tr>
+<tr><td><strong>Pattern</strong></td><td>Single line; up to 3 targets</td></tr>
+<tr><td><strong>Falloff</strong></td><td><strong>25 → 17.5 → 12.5</strong> under the normal 100% → 70% → 50% line rule</td></tr>
+<tr><td><strong>Recharge</strong></td><td><strong>15 seconds</strong></td></tr>
+</tbody></table></div>
+<p><span>Threshold Vow is manufactured equipment. Its output comparison does not make it <a class="wiki-link" href="../characters/the-border-lead-mellda.html">Mellda</a>'s personal M.A.W. or define the possible M.A.W. of her Effloresced passenger.</span></p>
+<h3>Ishall — Unanswered</h3>
+<h4>Converging Refusal</h4>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Field</th><th>Registry Entry</th></tr></thead>
+<tbody>
+<tr><td><strong>Type</strong></td><td>Artifact Hands — paired remote weapon</td></tr>
+<tr><td><strong>Grade / tier</strong></td><td><strong>δ — Critical</strong></td></tr>
+<tr><td><strong>Element</strong></td><td><strong>Grudge (Crimson) + Void (Pale White)</strong></td></tr>
+<tr><td><strong>Damage</strong></td><td><strong>10–15 Grudge direct + 1.5 Void per second for 6 seconds</strong></td></tr>
+<tr><td><strong>Tick interval</strong></td><td><strong>1 second</strong> — 6 Ticks, 9 total Void before falloff</td></tr>
+<tr><td><strong>Speed</strong></td><td><strong>3 — Fast</strong></td></tr>
+<tr><td><strong>Range</strong></td><td><strong>4 — Long</strong></td></tr>
+<tr><td><strong>Pattern</strong></td><td><strong>AoE</strong></td></tr>
+<tr><td><strong>Falloff</strong></td><td><strong>100% → 70% → 50%</strong>, applied separately to direct damage and each Tick</td></tr>
+<tr><td><strong>Maximum amount</strong></td><td><strong>1 — Unique pair</strong></td></tr>
+<tr><td><strong>Operational cost</strong></td><td><strong>18 Sorrow Echoes</strong> per complete paired assault</td></tr>
+<tr><td><strong>Binding cost</strong></td><td><span>Continuous two-point sensory link; feedback and phantom pressure transfer to <a class="wiki-link" href="../characters/the-outsider-ishall.html">Ishall</a>'s sensorium</span></td></tr>
+<tr><td><strong>Recovery</strong></td><td><strong>8 seconds</strong> after the complete paired assault</td></tr>
+<tr><td><strong>M.A.W. status</strong></td><td>Before-Time Artifact equipment; not M.A.W., body hands, specialized arms, or Cyborg anatomy</td></tr>
+</tbody></table></div>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Zone</th><th>Direct Grudge</th><th>Void / Tick</th><th>Tick Count</th><th>Total Void</th></tr></thead>
+<tbody>
+<tr><td><strong>Center — 100%</strong></td><td><strong>10–15</strong></td><td><strong>1.5</strong></td><td><strong>6</strong></td><td><strong>9</strong></td></tr>
+<tr><td><strong>Inner — 70%</strong></td><td><strong>7–10.5</strong></td><td><strong>1.05</strong></td><td><strong>6</strong></td><td><strong>6.3</strong></td></tr>
+<tr><td><strong>Outer — 50%</strong></td><td><strong>5–7.5</strong></td><td><strong>0.75</strong></td><td><strong>6</strong></td><td><strong>4.5</strong></td></tr>
+</tbody></table></div>
+<h4>Closed Ground</h4>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Field</th><th>Registry Entry</th></tr></thead>
+<tbody>
+<tr><td><strong>Mode</strong></td><td>Area-denial field</td></tr>
+<tr><td><strong>Element</strong></td><td><strong>Void — Pale White</strong></td></tr>
+<tr><td><strong>Damage</strong></td><td><strong>2 Void per second for 10 seconds</strong> in the center zone</td></tr>
+<tr><td><strong>Tick interval</strong></td><td><strong>1 second</strong> — 10 Ticks</td></tr>
+<tr><td><strong>Speed</strong></td><td><strong>2 — Normal</strong> to establish</td></tr>
+<tr><td><strong>Range</strong></td><td><strong>5 — Room</strong></td></tr>
+<tr><td><strong>Pattern</strong></td><td><strong>AoE</strong></td></tr>
+<tr><td><strong>Falloff</strong></td><td><strong>100% → 70% → 50%</strong> by center, inner, and outer zones</td></tr>
+<tr><td><strong>Duration</strong></td><td><strong>10 seconds maximum</strong></td></tr>
+<tr><td><strong>Operational cost</strong></td><td><strong>45 Sorrow Echoes</strong></td></tr>
+<tr><td><strong>Recovery</strong></td><td><strong>30 seconds after the field ends</strong></td></tr>
+<tr><td><strong>Concurrency</strong></td><td>One field; both artifacts occupied; no Converging Refusal during the effect</td></tr>
+<tr><td><strong>Collapse conditions</strong></td><td>Broken concentration, either artifact leaving Range 5, synchronization failure, or disruptive artifact damage</td></tr>
+</tbody></table></div>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Zone</th><th>Void / Tick</th><th>Tick Count</th><th>Full Total</th></tr></thead>
+<tbody>
+<tr><td><strong>Center — 100%</strong></td><td><strong>2</strong></td><td><strong>10</strong></td><td><strong>20</strong></td></tr>
+<tr><td><strong>Inner — 70%</strong></td><td><strong>1.4</strong></td><td><strong>10</strong></td><td><strong>14</strong></td></tr>
+<tr><td><strong>Outer — 50%</strong></td><td><strong>1</strong></td><td><strong>10</strong></td><td><strong>10</strong></td></tr>
+</tbody></table></div>
+<p>Closed Ground disrupts Han-assisted movement and remote Han-wave transmission. It does not stop ordinary movement, speech, mundane weapons, or every higher-output system. Friendly Han systems are also affected.</p></section>
+</main>
+</div>
+<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  <div class="footer-signal" aria-hidden="true">
+    <span>RD://PUBLIC-NET</span><i></i>
+    <span>SECC LINK STABLE</span><i></i>
+    <span>FACILITY 01 // GATE WATCH</span><i></i>
+    <span>PUBLICATION GATES PASSING</span>
+  </div>
+
+  <div class="footer-hero">
+    <section class="footer-identity" aria-label="Somnarak Wiki">
+      <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
+      <a class="footer-brand" href="../index.html">
+        <span class="footer-emblem"><img src="../assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
+      </a>
+      <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
+      <p>The public record follows Somnarak from the Alpha Tree and five city zones into Facility 01, where witnessed canon is curated without replacing absence with invention.</p>
+      <div class="footer-badges" aria-label="Archive classification">
+        <span>FACILITY 01</span><span>DIRECTORATE</span><span>PUBLIC CODEX</span>
+      </div>
+    </section>
+
+    <figure class="footer-network">
+      <div class="footer-network-frame">
+        <img src="../assets/layout/footer-directorate-network.svg" alt="Directorate archive topology linking the Alpha Tree, five city zones, Facility 01, Gate Watch, and eight public archive gateways"/>
+        <span class="footer-network-scan" aria-hidden="true"></span>
+      </div>
+      <figcaption><span>Live archive topology</span><b>ALPHA TREE → FACILITY 01 → PUBLIC CODEX</b></figcaption>
+    </figure>
+
+    <section class="footer-status" aria-label="Current archive status">
+      <span>Verified repository snapshot</span>
+      <strong>1.8.31</strong>
+      <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
+      <dl>
+        <div><dt>Public records</dt><dd>197 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
+        <div><dt>Cycle state</dt><dd>ENDED</dd></div>
+        <div><dt>Gate command</dt><dd>XYAN</dd></div>
+      </dl>
+    </section>
+  </div>
+
+  <div class="footer-directory">
+    <section class="footer-archives" aria-labelledby="footer-archives-title">
+      <header><span>Primary collections</span><h2 id="footer-archives-title">Eight Archive Gateways</h2><p>Continue through the complete public taxonomy.</p></header>
+      <div>
+        <a href="../characters/index.html" data-footer-archive="01" style="--gateway:#ef5b55"><span>01</span><b>Echo-Cores</b><small>Characters</small></a>
+        <a href="../lore/index.html" data-footer-archive="02" style="--gateway:#a78bfa"><span>02</span><b>Cycle Archive</b><small>Lore</small></a>
+        <a href="../locations/index.html" data-footer-archive="03" style="--gateway:#38bdf8"><span>03</span><b>City Atlas</b><small>Locations</small></a>
+        <a href="../factions/index.html" data-footer-archive="04" style="--gateway:#f59e0b"><span>04</span><b>Orders</b><small>Factions</small></a>
+        <a href="../departments/index.html" data-footer-archive="05" style="--gateway:#71efaf"><span>05</span><b>Hand of Change</b><small>Facility</small></a>
+        <a href="../entities/index.html" data-footer-archive="06" style="--gateway:#fb7185"><span>06</span><b>SECC Registry</b><small>Entities</small></a>
+        <a href="../maw/index.html" data-footer-archive="07" style="--gateway:#f1df76"><span>07</span><b>M.A.W. Arsenal</b><small>Equipment</small></a>
+        <a href="../mechanics/index.html" data-footer-archive="08" style="--gateway:#60a5fa"><span>08</span><b>Systems Codex</b><small>Mechanics</small></a>
+      </div>
+    </section>
+
+    <nav class="footer-links" aria-label="Archive resources">
+      <header><span>Project access</span><h2>Archive Resources</h2><p>Inspect provenance, files, and visual infrastructure.</p></header>
+      <div>
+        <a href="../project/source-map.html" data-footer-link="R-01"><b>Source Map</b><small>Canon provenance</small></a>
+        <a href="../downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
+        <a href="../assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
+        <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+      </div>
+    </nav>
+  </div>
+
+  <section class="footer-register" aria-label="Publication register">
+    <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
+    <dl>
+      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+    </dl>
+    <div class="footer-protocols">
+      <span><b>01</b> SOURCE-LED CONTENT</span>
+      <span><b>02</b> DISTINCT VISUAL FORM</span>
+      <span><b>03</b> NO RECOLOR-ONLY ART</span>
+      <span><b>04</b> VERIFIED LOCAL ROUTES</span>
+    </div>
+  </section>
+
+  <div class="footer-base">
+    <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
+    <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+  </div>
+</footer>
+</body>
+</html>

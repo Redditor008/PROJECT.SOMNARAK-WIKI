@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="THREE SORROWS  —  RED · BLACK · PALE">
+  <defs>
+    <linearGradient id="bgsorrow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14080c"/>
+      <stop offset="1" stop-color="#0a0408"/>
+    </linearGradient>
+    <linearGradient id="fadesorrow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c084fc" stop-opacity="0"/>
+      <stop offset="1" stop-color="#c084fc" stop-opacity=".28"/>
+    </linearGradient>
+    <filter id="glowsorrow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bgsorrow)"/>
+  <rect width="1400" height="280" fill="url(#fadesorrow)"/>
+  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#c084fc" stroke-width="2.4"/>
+  <line x1="24" y1="24" x2="1376" y2="24" stroke="#c084fc" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  <line x1="24" y1="256" x2="1376" y2="256" stroke="#c084fc" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  
+  <rect x="1188" y="18" width="194" height="28" fill="#000" opacity=".55" stroke="#c084fc" stroke-width="1"/>
+  <text x="1285" y="37" text-anchor="middle" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="3">HAN</text>
+  <g filter="url(#glowsorrow)">
+  
+  <rect x="36" y="36" width="430" height="178" fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
+  <text x="251" y="128" text-anchor="middle" fill="#fca5a5" font-family="Impact" font-size="32" letter-spacing="8">RED</text>
+  <text x="251" y="164" text-anchor="middle" fill="#fecaca" font-family="Impact" font-size="13" letter-spacing="4">SORROW</text>
+  <rect x="485" y="36" width="430" height="178" fill="#1e1b4b" stroke="#c084fc" stroke-width="3"/>
+  <text x="700" y="128" text-anchor="middle" fill="#e9d5ff" font-family="Impact" font-size="32" letter-spacing="8">BLACK</text>
+  <text x="700" y="164" text-anchor="middle" fill="#ddd6fe" font-family="Impact" font-size="13" letter-spacing="4">GRIEVING</text>
+  <rect x="934" y="36" width="430" height="178" fill="#0c4a6e" stroke="#38bdf8" stroke-width="3"/>
+  <text x="1149" y="128" text-anchor="middle" fill="#bae6fd" font-family="Impact" font-size="32" letter-spacing="8">PALE</text>
+  <text x="1149" y="164" text-anchor="middle" fill="#e0f2fe" font-family="Impact" font-size="13" letter-spacing="4">LAMENT</text>
+    
+  </g>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="246" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">HAN PRIMER  ·  THREE WAYS TO HURT</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">THREE SORROWS  —  RED · BLACK · PALE</text>
+</svg>

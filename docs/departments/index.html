@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Facility Departments & Floors Hub - Somnarak Official Wiki</title>
+  <link rel="stylesheet" href="../assets/css/wiki.css?v=20260831g">
+  <link rel="icon" type="image/svg+xml" href="../assets/icons/somnarak_icon.svg">
+  <script defer src="../assets/js/wiki.js?v=20260831g"></script>
+</head>
+<body class="wiki-body hub-page">
+<!-- Top Utility Navigation Bar -->
+<header class="utility" data-component="global-top-bar">
+  <div class="utility-left">
+    <button class="nav-open" type="button" aria-controls="primary-archive-navigation" aria-expanded="false" aria-label="Open primary archive navigation">
+      <span class="nav-open-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="nav-open-text">MENU</span>
+    </button>
+    <a class="utility-brand" href="../index.html" aria-label="Somnarak Wiki main page">
+      <img src="../assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
+    </a>
+    <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>
+  </div>
+  <nav class="utility-nav" id="primary-archive-navigation" aria-label="Primary archive">
+      <a href="../index.html" data-archive="00"><span>Main</span><small>Terminal</small></a>
+      <a href="../characters/index.html" data-archive="01"><span>Characters</span><small>Echo-Cores</small></a>
+      <a href="../lore/index.html" data-archive="02"><span>Lore</span><small>Cycles</small></a>
+      <a href="../locations/index.html" data-archive="03"><span>Atlas</span><small>City</small></a>
+      <a href="../factions/index.html" data-archive="04"><span>Factions</span><small>Orders</small></a>
+      <a href="../departments/index.html" data-archive="05" class="is-current" aria-current="page"><span>Facility</span><small>Floors</small></a>
+      <a href="../entities/index.html" data-archive="06"><span>Entities</span><small>SECC</small></a>
+      <a href="../maw/index.html" data-archive="07"><span>M.A.W.</span><small>Arsenal</small></a>
+      <a href="../mechanics/index.html" data-archive="08"><span>Mechanics</span><small>Systems</small></a>
+      <a href="../downloads.html" data-archive="09"><span>Downloads</span><small>Files</small></a>
+  </nav>
+  <div class="search" role="search">
+    <label for="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search Somnarak Wiki</span></label>
+    <input id="search" type="search" aria-label="Search Somnarak Wiki" aria-controls="results" aria-expanded="false" data-index="../data/search.json" placeholder="Search the archive" autocomplete="off" spellcheck="false"/>
+    <kbd aria-hidden="true">/</kbd>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</header>
+
+  <div class="wiki-shell">
+    <!-- Left Navigation Rail -->
+    <aside aria-label="Main navigation" class="left-rail">
+      <div class="branding">
+        <a class="brand-link" href="../index.html">
+          <img src="../assets/layout/hand/icons/icon_reverie_directorate_badge.svg" alt="Reverie Directorate Crest" class="brand-logo" width="110" height="110">
+          <span class="brand-title">SOMNARAK</span>
+          <span class="brand-subtitle">REVERIE DIRECTORATE ARCHIVE</span>
+        </a>
+      </div>
+
+      <div class="rail-group">
+        <div class="rail-header">DATABASE HUBS</div>
+        <ul class="rail-list">
+          <li><a href="../index.html">Main Terminal</a></li>
+          <li><a href="../characters/index.html">Characters & Echo-Cores</a></li>
+          <li><a href="../lore/index.html">Lore & Cosmology</a></li>
+          <li><a href="../locations/index.html">Atlas & Locations</a></li>
+          <li><a href="../factions/index.html">Factions & Guilds</a></li>
+          <li><a href="../departments/index.html">Facility Departments</a></li>
+          <li><a href="../entities/index.html">Sorrow Entities</a></li>
+          <li><a href="../maw/index.html">M.A.W. Armaments</a></li>
+          <li><a href="../mechanics/index.html">Systems & Mechanics</a></li>
+        </ul>
+      </div>
+
+      <div class="rail-group">
+        <div class="rail-header">THE NINE ECHO-CORES</div>
+        <ul class="rail-list">
+          <li><a href="../characters/the-director-majin.html">Director Majin</a></li>
+          <li><a href="../characters/the-secretary-seiyon.html">Secretary Seiyon</a></li>
+          <li><a href="../characters/the-containment-lead-dekan.html">Containment: Dekan</a></li>
+          <li><a href="../characters/the-extraction-lead-zyrak.html">Extraction: Zyrak</a></li>
+          <li><a href="../characters/the-research-lead-ayshuk.html">Research: Ayshuk</a></li>
+          <li><a href="../characters/the-border-lead-mellda.html">Border: Mellda</a></li>
+          <li><a href="../characters/the-archive-lead-marjuk.html">Archive: Marjuk</a></li>
+          <li><a href="../characters/the-outsider-ishall.html">Outsider: Ishall</a></li>
+          <li><a href="../characters/the-exile-xyan.html">Exile: Xyan</a></li>
+        </ul>
+      </div>
+
+      <div class="rail-group">
+        <div class="rail-header">CARTOGRAPHY & SCHEMATICS</div>
+        <ul class="rail-list">
+          <li><a href="../atlas/hand-of-change-map.html">Facility Cutaway Map</a></li>
+          <li><a href="../atlas/somnarak-city-map.html">City Master Blueprint</a></li>
+        </ul>
+      </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main id="content" class="wiki-content">
+
+<div class="fast-jump-nav">
+  <span class="fast-jump-title">/// RAPID JUMP:</span>
+  <div class="fast-jump-pills">
+    <a href="floor-1-neutral-command.html" class="jump-pill">F1: Neutral</a>
+    <a href="floor-2-maws-keep.html" class="jump-pill">F2: Maw's Keep</a>
+    <a href="floor-3-extraction-hall.html" class="jump-pill">F3: Extraction</a>
+    <a href="floor-4-insight-forge.html" class="jump-pill">F4: Insight</a>
+    <a href="floor-5-border-watch.html" class="jump-pill">F5: Border</a>
+    <a href="floor-6-deep-vault.html" class="jump-pill">F6: Vault</a>
+    <a href="floor-7-shadow-corps.html" class="jump-pill">F7: Shadow</a>
+    <a href="floor-8-gate-watch.html" class="jump-pill">F8: Gate</a>
+    <a href="facility-room-types.html" class="jump-pill">Room Types</a>
+    <a href="daily-missions.html" class="jump-pill">Missions</a>
+    <a href="research-observation.html" class="jump-pill">Research</a>
+    <a href="daily-cycle.html" class="jump-pill">Daily Cycle</a>
+    <a href="index.html" class="jump-pill active">✦ Dept Hub</a>
+  </div>
+</div>
+<div class="page-tabs"><span>ARTICLE</span><span>DISCUSSION</span><span>SOURCE</span><span>HISTORY</span><b>YEAR 4,238 · DAWN OF HOPE</b></div>
+<p class="hub-kicker">FACILITY 01 · HAND OF CHANGE</p>
+<h1 class="hub-title">Facility Floors</h1>
+<p class="hub-title-kr">변화의 손 · EIGHT DEPARTMENTS · NO SPARE WRIST</p>
+<figure class="lore-banner"><img src="../assets/art/departments/hand-hub-banner.svg?v=20260831ao" alt="Eight descending floors from palm to taboo gate"></figure>
+<div class="hub-lead-grid">
+  <div class="hub-lead-copy">
+    <blockquote class="hub-quote">
+      <p>“Eight floors, eight Echo-Cores. The Hand does not have a spare wrist.”</p>
+      <cite>— Neutral Command standing order</cite>
+    </blockquote>
+    <p><strong>Facility 01 — the Hand of Change</strong> — is eight subterranean departments from the Palm Core down to the Taboo Gate. Each floor has an Echo-Core lead, rooms that are not metaphors, and (except Floor 1) a daily mission table. This hub is the map of that Hand. It is not a substitute for the floor pages.</p>
+    <p>A day moves. Floor 1 assigns. Floor 2 works housed Sorrow Entities and vetoes extracts. Floor 3 hardens approved grief into weapon, suit, and gift. Floor 4 files what looking costs. Floor 5 holds the wall. Floor 6 keeps names. Floor 7 leaves the wall. Floor 8 keeps the route back. Seiyon is the Secretary on the palm, not a ninth floor.</p>
+    <p>Each floor has an Echo-Core, <a href="daily-missions.html">named missions</a>, <a href="research-observation.html">three research projects</a>, rooms, and (except Floor 1) a roster table. The <a href="daily-cycle.html">daily cycle</a> is briefing → expansion → deployment → management → close.</p>
+  </div>
+  <aside class="hub-infobox" aria-label="Facility 01">
+    <div class="hub-infobox-head">HAND OF CHANGE</div>
+    <img src="../assets/icons/icon_hub_departments.svg?v=20260831ao" alt="">
+    <table>
+      <tr><th>Site</th><td>Facility 01</td></tr>
+      <tr><th>Floors</th><td>1–8</td></tr>
+      <tr><th>Cores</th><td>Nine Echo-Cores (Seiyon on F1)</td></tr>
+      <tr><th>Contain</th><td>Floor 2 · Dekan</td></tr>
+      <tr><th>Extract</th><td>Floor 3 · Zyrak</td></tr>
+      <tr><th>Gate</th><td>Floor 8 · seven tablets</td></tr>
+      <tr><th>Map</th><td><a href="../atlas/hand-of-change-map.html">Hand schematic</a></td></tr>
+    </table>
+  </aside>
+</div>
+<nav class="toc hub-toc" id="toc"><div class="toc-title">CONTENTS</div><ol>
+  <li><a href="#floors">The eight floors</a></li>
+  <li><a href="#whole">The whole Hand</a></li>
+  <li><a href="#rules">How the Hand works</a></li>
+  <li><a href="#cycle">Daily cycle</a></li>
+  <li><a href="#missions">Missions</a></li>
+  <li><a href="#research">Research</a></li>
+  <li><a href="#rooms">Room types</a></li>
+  <li><a href="#expand">Expansion</a></li>
+  <li><a href="#interrupt">When a day breaks</a></li>
+  <li><a href="#strata">Upper, middle, lower</a></li>
+  <li><a href="#archives">Technical archives</a></li>
+</ol></nav>
+<section class="wiki-section" id="floors">
+
+<div class="hand-cutaway" aria-label="Hand of Change cutaway">
+  <a href="floor-1-neutral-command.html" style="--c:#f1df76"><i></i><b>F1 PALM</b><small>Majin · no quota</small></a>
+  <a href="floor-2-maws-keep.html" style="--c:#38bdf8"><i></i><b>F2 KEEP</b><small>Dekan · 500</small></a>
+  <a href="floor-3-extraction-hall.html" style="--c:#fb923c"><i></i><b>F3 HALL</b><small>Zyrak · frames</small></a>
+  <a href="floor-4-insight-forge.html" style="--c:#71efaf"><i></i><b>F4 FORGE</b><small>Ayshuk · rings</small></a>
+  <a href="floor-5-border-watch.html" style="--c:#e2e8f0"><i></i><b>F5 WALL</b><small>Mellda · 50</small></a>
+  <a href="floor-6-deep-vault.html" style="--c:#ef5b55"><i></i><b>F6 VAULT</b><small>Marjuk · names</small></a>
+  <a href="floor-7-shadow-corps.html" style="--c:#c084fc"><i></i><b>F7 CORPS</b><small>Ishall · leave</small></a>
+  <a href="floor-8-gate-watch.html" style="--c:#f59e0b"><i></i><b>F8 GATE</b><small>Xyan · seven</small></a>
+</div>
+
+  <h2 class="section-title">The eight floors</h2>
+  <p>Each card is a department. The writing on the floor pages is the dossier. These descriptions are the hub's job: say what the floor actually does before you enter it.</p>
+  <div class="hub-grid-3">
+    <div class="pm-entity-card" style="--card-border:#f1df76">
+      <div class="entity-card-top"><img src="../assets/art/departments/f1-icon.svg?v=20260831ao" alt="" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-PHANTASM">FLOOR 01</span><span class="sector-tag">PALM CORE</span></div></div>
+      <h3 class="entity-card-name">NEUTRAL COMMAND</h3>
+      <p class="entity-card-desc">Gold dais where five corridors meet. Majin signs. Seiyon's station stays lit. Alerts, assignment, Council visits. Not a cell block and not a throne. No containment quota — it staffs the people who have one.</p>
+      <div class="entity-card-stats"><span><b>Lead:</b> Majin</span><span><b>Station:</b> Seiyon</span></div>
+      <a href="floor-1-neutral-command.html" class="jump-btn">ENTER FLOOR 1 →</a>
+    </div>
+    <div class="pm-entity-card" style="--card-border:#38bdf8">
+      <div class="entity-card-top"><img src="../assets/art/departments/f2-icon.svg?v=20260831ao" alt="" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-APOCRYPHA">FLOOR 02</span><span class="sector-tag">WARD KEEP</span></div></div>
+      <h3 class="entity-card-name">MAW'S KEEP</h3>
+      <p class="entity-card-desc">Houses recoverable Sorrow Entities. Han-crystal cells, kinetic dampeners, M.A.W. veto. Dekan — not Seiyon. Work is Viderehan / Flerehan / Pugnahan / Ferrehan. The Maw's Edge is a window at the uncontained ω, not a cell around it.</p>
+      <div class="entity-card-stats"><span><b>Lead:</b> Dekan</span><span><b>Register:</b> M.A.W.</span></div>
+      <a href="floor-2-maws-keep.html" class="jump-btn">ENTER FLOOR 2 →</a>
+    </div>
+    <div class="pm-entity-card" style="--card-border:#fb923c">
+      <div class="entity-card-top"><img src="../assets/art/departments/f3-icon.svg?v=20260831ao" alt="" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-PHANTASM">FLOOR 03</span><span class="sector-tag">FRAMES</span></div></div>
+      <h3 class="entity-card-name">EXTRACTION HALL</h3>
+      <p class="entity-card-desc">Crucibles and three frames. Zyrak hardens approved grief into weapon, suit, and gift. Floor 2 still names the piece. SE-003 yields nothing. A refused petition is a quiet crucible, not a missing recipe.</p>
+      <div class="entity-card-stats"><span><b>Lead:</b> Zyrak</span><span><b>Slots:</b> W · S · G</span></div>
+      <a href="floor-3-extraction-hall.html" class="jump-btn">ENTER FLOOR 3 →</a>
+    </div>
+    <div class="pm-entity-card" style="--card-border:#71efaf">
+      <div class="entity-card-top"><img src="../assets/art/departments/f4-icon.svg?v=20260831ao" alt="" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-PHANTASM">FLOOR 04</span><span class="sector-tag">APERTURE</span></div></div>
+      <h3 class="entity-card-name">INSIGHT FORGE</h3>
+      <p class="entity-card-desc">Viderehan as a craft. Aperture, never an eye. Ayshuk files physiology and work response so Floor 2 is not guessing. Relics stay relics. If a reading calcifies into Taboo-shaped law, it leaves for Floor 8.</p>
+      <div class="entity-card-stats"><span><b>Lead:</b> Ayshuk</span><span><b>Work:</b> Viderehan</span></div>
+      <a href="floor-4-insight-forge.html" class="jump-btn">ENTER FLOOR 4 →</a>
+    </div>
+    <div class="pm-entity-card" style="--card-border:#e2e8f0">
+      <div class="entity-card-top"><img src="../assets/art/departments/f5-icon.svg?v=20260831ao" alt="" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-PHANTASM">FLOOR 05</span><span class="sector-tag">PERIMETER</span></div></div>
+      <h3 class="entity-card-name">BORDER WATCH</h3>
+      <p class="entity-card-desc">The wall. Mellda. Slits, pylons, Zone E's civic face. SED dives; UCD takes the street; this floor logs what touched the Hand. The waste is not empty. The wall is not a metaphor.</p>
+      <div class="entity-card-stats"><span><b>Lead:</b> Mellda</span><span><b>Holds:</b> the wall</span></div>
+      <a href="floor-5-border-watch.html" class="jump-btn">ENTER FLOOR 5 →</a>
+    </div>
+    <div class="pm-entity-card" style="--card-border:#ef5b55">
+      <div class="entity-card-top"><img src="../assets/art/departments/f6-icon.svg?v=20260831ao" alt="" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-APOCRYPHA">FLOOR 06</span><span class="sector-tag">NAMES</span></div></div>
+      <h3 class="entity-card-name">DEEP VAULT</h3>
+      <p class="entity-card-desc">What must be buried and what must be guarded — not the same list. Marjuk. Identities, relics that are not extracts, Lament-revealed names, Debt/Balance second logs. Curiosity is not clearance.</p>
+      <div class="entity-card-stats"><span><b>Lead:</b> Marjuk</span><span><b>Keeps:</b> names</span></div>
+      <a href="floor-6-deep-vault.html" class="jump-btn">ENTER FLOOR 6 →</a>
+    </div>
+    <div class="pm-entity-card" style="--card-border:#c084fc">
+      <div class="entity-card-top"><img src="../assets/art/departments/f7-icon.svg?v=20260831ao" alt="" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-APOCRYPHA">FLOOR 07</span><span class="sector-tag">UNLISTED</span></div></div>
+      <h3 class="entity-card-name">SHADOW CORPS</h3>
+      <p class="entity-card-desc">Still a department. Ishall. Routes beyond the wall, blackout corridors, maps that fold. Floor 5 holds the wall; Floor 7 leaves it; Floor 8 accounts for the return. Unlisted is not unofficial.</p>
+      <div class="entity-card-stats"><span><b>Lead:</b> Ishall</span><span><b>Leaves:</b> the wall</span></div>
+      <a href="floor-7-shadow-corps.html" class="jump-btn">ENTER FLOOR 7 →</a>
+    </div>
+    <div class="pm-entity-card" style="--card-border:#f59e0b">
+      <div class="entity-card-top"><img src="../assets/art/departments/f8-icon.svg?v=20260831ao" alt="" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-APOCRYPHA">FLOOR 08</span><span class="sector-tag">TABOO GATE</span></div></div>
+      <h3 class="entity-card-name">GATE WATCH</h3>
+      <p class="entity-card-desc">Seven tablets, not ten. Xyan. Watch, answer, keep the route back. Before Day 355 the body is outside and warnings still arrive. Not an execution chamber — Judexhan judges; this floor keeps the gate.</p>
+      <div class="entity-card-stats"><span><b>Lead:</b> Xyan</span><span><b>Tablets:</b> seven</span></div>
+      <a href="floor-8-gate-watch.html" class="jump-btn">ENTER FLOOR 8 →</a>
+    </div>
+  </div>
+</section>
+
+
+<section class="wiki-section" id="whole">
+  <h2 class="section-title">The Hand on the cutaway</h2>
+  <p>Facility 01 is the Hand of Change: surface monolith; gold full-width palm (Floor 1); red full-width keep (Floor 2); blue left wing (Floor 3) cyan-joined to gray right wing (Floor 8); four equal hanging shafts (Floors 4–7); elevator spine; transit. Named missions, roster tables, research, daily cycle, assignment, expansion, Core Suppression, Facility Meltdown, and incidents all belong to that building. The cutaway is <a href="../atlas/hand-of-change-map.html">THE_HAND_DR_LAYOUT</a>.</p>
+  <p>Nine Echo-Cores, eight floors. Seiyon is the Secretary on the palm, not a ninth floor. Work types are Viderehan, Flerehan, Pugnahan, Ferrehan. Damage is Lament, Grudge, Void, Weight. M.A.W. is the arsenal Floor 2 names and Floor 3 hardens. The Maw in Zone B is not a cell. Zone E is the civic wall; Floor 5 is the Hand's wall; Floor 8 is the Hand's gate.</p>
+  <div class="table-wrap"><table class="wiki-table">
+    <thead><tr><th>On the cutaway</th><th>Floor</th><th>Lead</th><th>Detail</th></tr></thead>
+    <tbody>
+      <tr><td>Gold plate, full width</td><td>1 Neutral Command</td><td>Majin (Seiyon station)</td><td>No quota; bunkers; DSE not M.A.W.; five corridors</td></tr>
+      <tr><td>Red plate, full width</td><td>2 Maw's Keep</td><td>Dekan</td><td>Veto, Edge window at uncontained ω, Holding Yard</td></tr>
+      <tr><td>Blue left wing</td><td>3 Extraction Hall</td><td>Zyrak</td><td>Three frames; join to Gate Watch; SE-003 yields nothing</td></tr>
+      <tr><td>Hanging shaft</td><td>4 Insight Forge</td><td>Ayshuk</td><td>Aperture never an eye; ladder 0–4; Taboo leaves for F8</td></tr>
+      <tr><td>Hanging shaft</td><td>5 Border Watch</td><td>Mellda</td><td>Slits; Tide log; not SED/UCD</td></tr>
+      <tr><td>Hanging shaft</td><td>6 Deep Vault</td><td>Marjuk</td><td>Names vs relics; Cheongula seal; not Dekan</td></tr>
+      <tr><td>Hanging shaft</td><td>7 Shadow Corps</td><td>Ishall</td><td>Still a department; folded maps; return still counted</td></tr>
+      <tr><td>Gray right wing</td><td>8 Gate Watch</td><td>Xyan</td><td>Seven tablets; body outside before Day 355; join to F3</td></tr>
+    </tbody>
+  </table></div>
+</section>
+
+<section class="wiki-section" id="rules">
+  <h2 class="section-title">How the Hand works</h2>
+  <p>The eight floors are one building. The rules that make a day possible are not eight separate games. They sit together: who is posted, what they can bear, what they carry, what the Core asks, what looking unlocks, and what interrupts management. Catalogues keep the tables. Floor pages keep the rooms. This hub names the mesh.</p>
+  <p><strong>People.</strong> An <em>agent</em> is posted to work — cells, frames after a scan, slits, routes, gate. A <em>clerk</em> watches, files, issues, assesses: gauges on Floor 2, issue on Floor 3, ledgers on 4 and 6, threat paper on 5, return counts on 8. A <em>specialist</em> does the job a clerk cannot: intake, frames, Cheongula-adjacent, infiltration, warning decode. Echo-Cores are not posted. They <em>are</em> the floors. Seiyon is the Secretary on the palm, not a ninth posting. You do not hire a body from a menu. Neutral Command signs. Full grid: <a href="agent-assignment.html">assignment</a>.</p>
+  <p><strong>What they can bear.</strong> Four attributes, not a copied virtue wheel: <em>Resilience</em> (deep blue, Han-weight before breaking), <em>Clarity</em> (pale white, memory and Dream), <em>Composure</em> (crimson, Flerehan without collapse, bond stability), <em>Resolve</em> (black, Ferrehan, movement under Tide). Civilians 20–30. Trained 40–60. Fragile through Exceptional. Work pairing: Flerehan wants Composure/Clarity; Pugnahan Resolve/Resilience; Viderehan Clarity/Composure; Ferrehan Resilience/Resolve. Floor primary/secondary lives on the assignment table. Wrong room is how Panic starts. Fracture is further down that road.</p>
+  <p><strong>What they carry.</strong> Floor 1's armory checks out <em>DSE</em> — Default Standard Equipment — for transit. Named Vigil is Floor 2's register and Floor 3's frame: weapon, suit, gift after a veto and a scan. Bonding is a specialist session, not a souvenir desk. SE-003 yields nothing. Relics that are not extracts live on Floor 6. You do not assign M.A.W. at deployment from a menu.</p>
+  <p><strong>What the Core asks.</strong> Named missions have a brief and a goal and no clock. Completing one unlocks that floor's research pick. Floor 1 has none. Roster tables are how the floor spends a day; named missions are what the Echo-Core actually asks. First named mission on a floor is live when that floor is working — not when a cell is farmed on the palm. <a href="daily-missions.html">Missions</a>.</p>
+  <p><strong>What looking unlocks.</strong> Three projects per floor, any order, after named missions. Observation Levels 0–4 for housed entities are a separate ladder Floor 4 files. M.A.W. extraction is not a chest at Level 4. <a href="research-observation.html">Research</a>.</p>
+</section>
+
+<section class="wiki-section" id="cycle">
+
+<div class="quota-strip">
+  <div class="quota-chip" style="--c:#f1df76;--fill:0%"><b>—</b><small>F1 Neutral · no quota</small><em><i></i></em></div>
+  <div class="quota-chip" style="--c:#38bdf8;--fill:100%"><b>500</b><small>F2 Keep · cell-work</small><em><i></i></em></div>
+  <div class="quota-chip" style="--c:#fb923c;--fill:60%"><b>300</b><small>F3 Hall · frames</small><em><i></i></em></div>
+  <div class="quota-chip" style="--c:#71efaf;--fill:20%"><b>100</b><small>F4 Forge · looking</small><em><i></i></em></div>
+</div>
+<div class="quota-strip">
+  <div class="quota-chip" style="--c:#e2e8f0;--fill:10%"><b>50</b><small>F5 Wall · thin yield</small><em><i></i></em></div>
+  <div class="quota-chip" style="--c:#ef5b55;--fill:0%"><b>—</b><small>F6 Vault · names</small><em><i></i></em></div>
+  <div class="quota-chip" style="--c:#c084fc;--fill:0%"><b>—</b><small>F7 Corps · unlisted</small><em><i></i></em></div>
+  <div class="quota-chip" style="--c:#f59e0b;--fill:0%"><b>—</b><small>F8 Gate · count</small><em><i></i></em></div>
+</div>
+
+
+<div class="phase-rail" style="--floor:#f1df76">
+  <article><span>1</span><h3>Brief</h3><p>Palm. Majin signs. Seiyon lit.</p></article>
+  <article><span>2</span><h3>Expand</h3><p>One tool. Architects. Han-flux.</p></article>
+  <article><span>3</span><h3>Deploy</h3><p>Agents posted. Cores stay.</p></article>
+  <article><span>4</span><h3>Manage</h3><p>Floors 2–8 concurrent.</p></article>
+  <article><span>5</span><h3>Close</h3><p>Count. Names. File.</p></article>
+</div>
+
+  <h2 class="section-title">Daily cycle</h2>
+  <p>A day on the Hand is five phases, not a single work screen. Dawn briefing on the palm: Majin signs, Seiyon's station stays lit, posting is read. Expansion may sign one tool — dampeners, a slit, a ledger — before anyone is posted; Architects design, Extraction pays Han-flux, Floor 4 researches if the tool is new knowledge. Deployment posts agents to floors; Echo-Cores are not assigned, they are the floors. Management is Floors 2–8 concurrent: cells, frames, looking, wall, names, unlisted routes, gate. Close is Floor 8's return count, Floor 6's name flags, Floor 1 filing that the count existed.</p>
+  <p>Floor 1 has no quota. Floor 2's 500 is cell-work. Floor 3's 300 is frames. Floor 4's 100 is looking. Floor 5's 50 is the wall. Floors 6 and 7 file none. Floor 8 does not farm the Gate. Ordeals, Core Suppression, Facility Meltdown, and Tide interrupt management; they are not phases. Full write-up: <a href="daily-cycle.html">Daily Cycle</a>.</p>
+</section>
+<section class="wiki-section" id="missions">
+  <h2 class="section-title">Missions</h2>
+  <p>Named missions are Echo-Core tasks with a brief and a goal. They have no clock. They complete when that floor is actually doing them. Completing one unlocks that floor's research pick. Floor 1 has none — Neutral Command assigns the people who do. Each floor also keeps a roster table: who, frequency, which room. Those are how the floor spends a day. Named missions are what the Core asks. Cross-floor jobs (entity transfer 2+4, M.A.W. emergency 3+5, expedition 5+7, archive key 4+6) complete on both desks or they are still open. Catalog: <a href="daily-missions.html">Missions</a>.</p>
+</section>
+<section class="wiki-section" id="research">
+  <h2 class="section-title">Research</h2>
+  <p>Three projects per floor, any order, after named missions. Floor 1: Joint Assignment, Master Alarm Array, Recall to the Dais. Floor 2: Gauge Overlay, Kinetic Dampeners, M.A.W. Veto Desk. Floor 3: Three Frames, Resonance Bench, Refinery. Floor 4: Aperture, Han Object Manual, Observation Ledger. Floor 5: Slit Optics, Tide Telemetry, Street Log. Floor 6: Name Ledger, Second Log, Cheongula Seal. Floor 7: Folded Maps, Blackout Corridors, Network. Floor 8: Seven Tablets, Warning Desk, Return Accounting.</p>
+  <p>They mesh. Joint Assignment does not skip Dekan's keep. Frames stay quiet without a veto. Aperture is the ladder, not a frame. Slit logs are what Floor 7 is not allowed to invent. Observation Levels 0–4 for housed entities are a separate ladder Floor 4 files. M.A.W. extraction is not a reward at Level 4. SE-003 never yields. Catalog: <a href="research-observation.html">Research</a>.</p>
+</section>
+<section class="wiki-section" id="rooms">
+  <h2 class="section-title">Room types</h2>
+  <p>Main rooms, Han-corridors, elevator spine, side rooms exist on every floor. Containment cells live on Floor 2. Floor 1's armory is DSE checkout, not Named Vigil. Floor 3's frames are weapon, suit, gift. Floor 4's aperture is rings. Floor 5's slits are slits. Floor 6's cylinders are sealed. Floor 7's blackout does not print. Floor 8's tablets are seven. Every floor page keeps its room table with function. The catalogue, including how the Hand is palm / keep / wings / shafts rather than a five-finger ASCII stack, is <a href="facility-room-types.html">Room Types</a>.</p>
+</section>
+<section class="wiki-section" id="expand">
+  <h2 class="section-title">Expansion</h2>
+  <p>The Hand expands rooms and tools: dampeners, slits, ledgers, frames. One expansion may be signed in the Expansion phase before Deployment. Details: <a href="facility-upgrades.html">facility upgrades</a>. Posting people is <a href="agent-assignment.html">deployment</a>.</p>
+</section>
+
+<section class="wiki-section" id="interrupt">
+
+<div class="alarm-matrix">
+  <article class="alarm-cell" style="--c:#38bdf8"><b>Gauge</b><small>Keep number. Over 75% suspends. Not a facility counter.</small></article>
+  <article class="alarm-cell" style="--c:#f1df76"><b>Ordeal</b><small>Color × watch. Cannot be housed. Not a named mission.</small></article>
+  <article class="alarm-cell" style="--c:#c084fc"><b>Core</b><small>One floor's dream-construct. Missions pause.</small></article>
+  <article class="alarm-cell" style="--c:#ef5b55"><b>Meltdown</b><small>All eight. Han-flux over threshold. Bunkers on the palm.</small></article>
+  <article class="alarm-cell" style="--c:#71efaf"><b>Tide</b><small>Zone E / SE-003. Floor 5 logs. SED dives.</small></article>
+</div>
+
+  <h2 class="section-title">When a day breaks</h2>
+  <p>Four loud things people paste together. They are not the same alarm.</p>
+  <div class="table-wrap"><table class="wiki-table">
+    <thead><tr><th>Event</th><th>Where</th><th>What it is</th><th>What it is not</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Sorrow Gauge</strong></td><td>Floor 2 cells (and a breach)</td><td>Over 75% suspends the assignment. Three works per entity per day, then a pause.</td><td>Not a facility-wide work counter. Not an Ordeal.</td></tr>
+      <tr><td><strong>Ordeal</strong></td><td>Any floor, color × watch</td><td>Uncontained trial during management. Cannot be housed.</td><td>Not a named mission. Not a Core.</td></tr>
+      <tr><td><strong>Core Suppression</strong></td><td>One Echo-Core, one floor</td><td>The floor becomes a dream-construct of itself. Missions pause. Research does not drop.</td><td>Not all eight. Seiyon is not a ninth.</td></tr>
+      <tr><td><strong>Facility Meltdown</strong></td><td>All eight</td><td>Han-flux over threshold. Lifts lock. Bunkers on the palm.</td><td>Not Absolvohan as a ten-minute button.</td></tr>
+      <tr><td><strong>Tide</strong></td><td>Zone E / SE-003</td><td>Floor 5's log. SED's dive. Can <em>cause</em> a meltdown.</td><td>Not a donor. Not a slit upgrade day.</td></tr>
+    </tbody>
+  </table></div>
+  <p>Sending Border Shield to Insight because the lights looked similar is how you lose two floors for the price of one misread. Catalogues: <a href="core-suppression-guidelines.html">Core suppression</a>, <a href="facility-meltdown-procedures.html">meltdown</a>, <a href="../mechanics/ordeals-framework.html">Ordeals</a>.</p>
+</section>
+
+<section class="wiki-section hub-article" id="day">
+  <h2 class="section-title">How a day moves</h2>
+  <p>Assignment starts on the palm. Work on housed grief happens in the keep. If a petition passes, the Hall hardens a piece. If Floor 4 has not filed the donor, Floor 2 should not be guessing. If something touches the Perimeter, Border Watch logs it before Shadow Corps treats it as a route. Names revealed on a Lament edge are written in the Vault. Returns are counted at the Gate. That is one Hand. Treating the eight pages as eight games is how you get a spare wrist that does not exist.</p>
+</section>
+<section class="wiki-section" id="strata">
+  <h2 class="section-title">Upper, middle, lower</h2>
+  <p>The Hand descends. Upper strata: command and keep (Floors 1–2). Middle: frames, looking, wall (3–5). Lower: names, unlisted routes, gate (6–8). Lockdown still starts as an alarm on Floor 1 even when the failure is a cell, a slit, or a missing return.</p>
+  <div class="table-wrap"><table class="wiki-table">
+    <thead><tr><th>Strata</th><th>Floors</th><th>Leads</th><th>What actually happens</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Upper — palm &amp; keep</strong></td><td>1 · 2</td><td>Majin (Seiyon station) · Dekan</td><td>Assignment, alerts, housed entities, M.A.W. veto.</td></tr>
+      <tr><td><strong>Middle — frame, file, wall</strong></td><td>3 · 4 · 5</td><td>Zyrak · Ayshuk · Mellda</td><td>Crystallization, Viderehan, perimeter. Not a loot factory.</td></tr>
+      <tr><td><strong>Lower — name, route, gate</strong></td><td>6 · 7 · 8</td><td>Marjuk · Ishall · Xyan</td><td>Ledgers, unlisted work, seven-tablet gate and the route back.</td></tr>
+    </tbody>
+  </table></div>
+</section>
+<section class="wiki-section" id="archives">
+  <h2 class="section-title">Technical archives</h2>
+  <p>These pages are catalogues that sit beside the floors. They do not replace a floor dossier.</p>
+  <div class="hub-grid-3">
+    <div class="pm-entity-card"><h3 class="entity-card-name">DAILY CYCLE</h3><p class="entity-card-desc">Briefing, expansion, deployment, management, close. Floor 1 has no quota.</p><a href="daily-cycle.html" class="jump-btn">OPEN CYCLE →</a></div>
+    <div class="pm-entity-card"><h3 class="entity-card-name">ROOM TYPES</h3><p class="entity-card-desc">The schematic language used on every floor — cells, halls, vaults, slits. Keep the room tables.</p><a href="facility-room-types.html" class="jump-btn">OPEN ROOMS →</a></div>
+    <div class="pm-entity-card"><h3 class="entity-card-name">DAILY MISSIONS</h3><p class="entity-card-desc">Index of per-floor mission tables. Floor 1 has none. The tables live on Floors 2–8.</p><a href="daily-missions.html" class="jump-btn">OPEN MISSIONS →</a></div>
+    <div class="pm-entity-card"><h3 class="entity-card-name">INCIDENTS</h3><p class="entity-card-desc">Breach and failure logs. If a floor's day cites an incident, it is here.</p><a href="incident-reports-archive.html" class="jump-btn">OPEN LOGS →</a></div>
+    <div class="pm-entity-card"><h3 class="entity-card-name">ASSIGNMENT</h3><p class="entity-card-desc">Agents, clerks, specialists. Four attributes. DSE is not Named Vigil. Cores are not posted.</p><a href="agent-assignment.html" class="jump-btn">OPEN ASSIGNMENT →</a></div>
+    <div class="pm-entity-card"><h3 class="entity-card-name">UPGRADES</h3><p class="entity-card-desc">What the Hand can improve without pretending money is Han.</p><a href="facility-upgrades.html" class="jump-btn">OPEN UPGRADES →</a></div>
+
+    <div class="pm-entity-card"><h3 class="entity-card-name">CORE SUPPRESSION</h3><p class="entity-card-desc">One Core, one floor, one dream-construct. Missions pause. Not all eight.</p><a href="core-suppression-guidelines.html" class="jump-btn">OPEN CORE →</a></div>
+    <div class="pm-entity-card"><h3 class="entity-card-name">FACILITY MELTDOWN</h3><p class="entity-card-desc">All eight. Han-flux over threshold. Bunkers on the palm. Not a Core.</p><a href="facility-meltdown-procedures.html" class="jump-btn">OPEN MELTDOWN →</a></div>
+<div class="pm-entity-card"><h3 class="entity-card-name">RESEARCH</h3><p class="entity-card-desc">Observation ladder. Floor 4 climbs it. Not Pugnahan with nicer lighting.</p><a href="research-observation.html" class="jump-btn">OPEN LADDER →</a></div>
+  </div>
+</section>
+<nav class="hub-navbox"><div class="hub-navbox-head">RELATED</div><p>
+  <a href="../atlas/hand-of-change-map.html">Hand of Change map</a> ·
+  <a href="../characters/index.html">Echo-Cores</a> ·
+  <a href="../maw/index.html">M.A.W.</a> ·
+  <a href="../entities/index.html">Sorrow Entities</a> ·
+  <a href="../lore/the-seven-absolute-taboos.html">Seven Taboos</a>
+</p></nav>
+
+    </main>
+</div>
+<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  <div class="footer-signal" aria-hidden="true">
+    <span>RD://PUBLIC-NET</span><i></i>
+    <span>SECC LINK STABLE</span><i></i>
+    <span>FACILITY 01 // GATE WATCH</span><i></i>
+    <span>PUBLICATION GATES PASSING</span>
+  </div>
+
+  <div class="footer-hero">
+    <section class="footer-identity" aria-label="Somnarak Wiki">
+      <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
+      <a class="footer-brand" href="../index.html">
+        <span class="footer-emblem"><img src="../assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
+      </a>
+      <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
+      <p>The public record follows Somnarak from the Alpha Tree and five city zones into Facility 01, where witnessed canon is curated without replacing absence with invention.</p>
+      <div class="footer-badges" aria-label="Archive classification">
+        <span>FACILITY 01</span><span>DIRECTORATE</span><span>PUBLIC CODEX</span>
+      </div>
+    </section>
+
+    <figure class="footer-network">
+      <div class="footer-network-frame">
+        <img src="../assets/layout/footer-directorate-network.svg" alt="Directorate archive topology linking the Alpha Tree, five city zones, Facility 01, Gate Watch, and eight public archive gateways"/>
+        <span class="footer-network-scan" aria-hidden="true"></span>
+      </div>
+      <figcaption><span>Live archive topology</span><b>ALPHA TREE → FACILITY 01 → PUBLIC CODEX</b></figcaption>
+    </figure>
+
+    <section class="footer-status" aria-label="Current archive status">
+      <span>Verified repository snapshot</span>
+      <strong>1.8.31</strong>
+      <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
+      <dl>
+        <div><dt>Public records</dt><dd>197 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
+        <div><dt>Cycle state</dt><dd>ENDED</dd></div>
+        <div><dt>Gate command</dt><dd>XYAN</dd></div>
+      </dl>
+    </section>
+  </div>
+
+  <div class="footer-directory">
+    <section class="footer-archives" aria-labelledby="footer-archives-title">
+      <header><span>Primary collections</span><h2 id="footer-archives-title">Eight Archive Gateways</h2><p>Continue through the complete public taxonomy.</p></header>
+      <div>
+        <a href="../characters/index.html" data-footer-archive="01" style="--gateway:#ef5b55"><span>01</span><b>Echo-Cores</b><small>Characters</small></a>
+        <a href="../lore/index.html" data-footer-archive="02" style="--gateway:#a78bfa"><span>02</span><b>Cycle Archive</b><small>Lore</small></a>
+        <a href="../locations/index.html" data-footer-archive="03" style="--gateway:#38bdf8"><span>03</span><b>City Atlas</b><small>Locations</small></a>
+        <a href="../factions/index.html" data-footer-archive="04" style="--gateway:#f59e0b"><span>04</span><b>Orders</b><small>Factions</small></a>
+        <a href="../departments/index.html" data-footer-archive="05" style="--gateway:#71efaf"><span>05</span><b>Hand of Change</b><small>Facility</small></a>
+        <a href="../entities/index.html" data-footer-archive="06" style="--gateway:#fb7185"><span>06</span><b>SECC Registry</b><small>Entities</small></a>
+        <a href="../maw/index.html" data-footer-archive="07" style="--gateway:#f1df76"><span>07</span><b>M.A.W. Arsenal</b><small>Equipment</small></a>
+        <a href="../mechanics/index.html" data-footer-archive="08" style="--gateway:#60a5fa"><span>08</span><b>Systems Codex</b><small>Mechanics</small></a>
+      </div>
+    </section>
+
+    <nav class="footer-links" aria-label="Archive resources">
+      <header><span>Project access</span><h2>Archive Resources</h2><p>Inspect provenance, files, and visual infrastructure.</p></header>
+      <div>
+        <a href="../project/source-map.html" data-footer-link="R-01"><b>Source Map</b><small>Canon provenance</small></a>
+        <a href="../downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
+        <a href="../assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
+        <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+      </div>
+    </nav>
+  </div>
+
+  <section class="footer-register" aria-label="Publication register">
+    <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
+    <dl>
+      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+    </dl>
+    <div class="footer-protocols">
+      <span><b>01</b> SOURCE-LED CONTENT</span>
+      <span><b>02</b> DISTINCT VISUAL FORM</span>
+      <span><b>03</b> NO RECOLOR-ONLY ART</span>
+      <span><b>04</b> VERIFIED LOCAL ROUTES</span>
+    </div>
+  </section>
+
+  <div class="footer-base">
+    <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
+    <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+  </div>
+</footer>
+</body>
+</html>

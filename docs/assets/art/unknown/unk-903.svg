@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="UNK-903">
+  <rect width="500" height="500" fill="#05070c"/>
+  <rect x="18" y="18" width="464" height="464" fill="none" stroke="#f1df76" stroke-width="2" stroke-dasharray="8 6"/>
+  <rect x="130" y="130" width="240" height="200" fill="none" stroke="#f1df76" stroke-width="4" stroke-dasharray="14 8"/><text x="250" y="245" text-anchor="middle" fill="#f1df76" font-size="32" font-family="Impact">903</text>
+  <text x="250" y="460" text-anchor="middle" fill="#f1df76" font-family="Impact" font-size="16" letter-spacing="4">UNK-903</text>
+</svg>

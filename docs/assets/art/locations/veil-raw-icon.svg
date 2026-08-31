@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Veil hung cloth, Raw jagged remainder">
+  <rect width="400" height="400" fill="#05070c"/>
+  <rect x="18" y="18" width="364" height="364" fill="none" stroke="#e2e8f0" stroke-width="8"/>
+  
+  <path d="M70 80 Q140 140 70 280" fill="none" stroke="#e2e8f0" stroke-width="8"/>
+  <path d="M110 80 Q180 160 110 280" fill="none" stroke="#94a3b8" stroke-width="8"/>
+  <path d="M230 90 L280 140 L250 180 L320 230 L240 300" fill="none" stroke="#ef5b55" stroke-width="8"/>
+
+  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#e2e8f0" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#e2e8f0" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">ATLAS  ·  VEIL / RAW</text>
+</svg>

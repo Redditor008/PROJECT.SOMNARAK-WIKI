@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Systems & Mechanics Guide - Somnarak Official Wiki</title>
+  <link rel="stylesheet" href="../assets/css/wiki.css?v=20260831g">
+  <link rel="icon" type="image/svg+xml" href="../assets/icons/somnarak_icon.svg">
+  <script defer src="../assets/js/wiki.js?v=20260831g"></script>
+</head>
+<body class="wiki-body hub-page">
+<!-- Top Utility Navigation Bar -->
+<header class="utility" data-component="global-top-bar">
+  <div class="utility-left">
+    <button class="nav-open" type="button" aria-controls="primary-archive-navigation" aria-expanded="false" aria-label="Open primary archive navigation">
+      <span class="nav-open-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="nav-open-text">MENU</span>
+    </button>
+    <a class="utility-brand" href="../index.html" aria-label="Somnarak Wiki main page">
+      <img src="../assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
+    </a>
+    <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>
+  </div>
+  <nav class="utility-nav" id="primary-archive-navigation" aria-label="Primary archive">
+      <a href="../index.html" data-archive="00"><span>Main</span><small>Terminal</small></a>
+      <a href="../characters/index.html" data-archive="01"><span>Characters</span><small>Echo-Cores</small></a>
+      <a href="../lore/index.html" data-archive="02"><span>Lore</span><small>Cycles</small></a>
+      <a href="../locations/index.html" data-archive="03"><span>Atlas</span><small>City</small></a>
+      <a href="../factions/index.html" data-archive="04"><span>Factions</span><small>Orders</small></a>
+      <a href="../departments/index.html" data-archive="05"><span>Facility</span><small>Floors</small></a>
+      <a href="../entities/index.html" data-archive="06"><span>Entities</span><small>SECC</small></a>
+      <a href="../maw/index.html" data-archive="07"><span>M.A.W.</span><small>Arsenal</small></a>
+      <a href="../mechanics/index.html" data-archive="08" class="is-current" aria-current="page"><span>Mechanics</span><small>Systems</small></a>
+      <a href="../downloads.html" data-archive="09"><span>Downloads</span><small>Files</small></a>
+  </nav>
+  <div class="search" role="search">
+    <label for="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search Somnarak Wiki</span></label>
+    <input id="search" type="search" aria-label="Search Somnarak Wiki" aria-controls="results" aria-expanded="false" data-index="../data/search.json" placeholder="Search the archive" autocomplete="off" spellcheck="false"/>
+    <kbd aria-hidden="true">/</kbd>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</header>
+
+  <div class="wiki-shell">
+    <!-- Left Navigation Rail -->
+    <aside aria-label="Main navigation" class="left-rail">
+      <div class="branding">
+        <a class="brand-link" href="../index.html">
+          <img src="../assets/layout/hand/icons/icon_reverie_directorate_badge.svg" alt="Reverie Directorate Crest" class="brand-logo" width="110" height="110">
+          <span class="brand-title">SOMNARAK</span>
+          <span class="brand-subtitle">REVERIE DIRECTORATE ARCHIVE</span>
+        </a>
+      </div>
+
+      <div class="rail-group">
+        <div class="rail-header">DATABASE HUBS</div>
+        <ul class="rail-list">
+          <li><a href="../index.html">Main Terminal</a></li>
+          <li><a href="../characters/index.html">Characters & Echo-Cores</a></li>
+          <li><a href="../lore/index.html">Lore & Cosmology</a></li>
+          <li><a href="../locations/index.html">Atlas & Locations</a></li>
+          <li><a href="../factions/index.html">Factions & Guilds</a></li>
+          <li><a href="../departments/index.html">Facility Departments</a></li>
+          <li><a href="../entities/index.html">Sorrow Entities</a></li>
+          <li><a href="../maw/index.html">M.A.W. Armaments</a></li>
+          <li><a href="../mechanics/index.html">Systems & Mechanics</a></li>
+        </ul>
+      </div>
+
+      <div class="rail-group">
+        <div class="rail-header">THE NINE ECHO-CORES</div>
+        <ul class="rail-list">
+          <li><a href="../characters/the-director-majin.html">Director Majin</a></li>
+          <li><a href="../characters/the-secretary-seiyon.html">Secretary Seiyon</a></li>
+          <li><a href="../characters/the-containment-lead-dekan.html">Containment: Dekan</a></li>
+          <li><a href="../characters/the-extraction-lead-zyrak.html">Extraction: Zyrak</a></li>
+          <li><a href="../characters/the-research-lead-ayshuk.html">Research: Ayshuk</a></li>
+          <li><a href="../characters/the-border-lead-mellda.html">Border: Mellda</a></li>
+          <li><a href="../characters/the-archive-lead-marjuk.html">Archive: Marjuk</a></li>
+          <li><a href="../characters/the-outsider-ishall.html">Outsider: Ishall</a></li>
+          <li><a href="../characters/the-exile-xyan.html">Exile: Xyan</a></li>
+        </ul>
+      </div>
+
+      <div class="rail-group">
+        <div class="rail-header">CARTOGRAPHY & SCHEMATICS</div>
+        <ul class="rail-list">
+          <li><a href="../atlas/hand-of-change-map.html">Facility Cutaway Map</a></li>
+          <li><a href="../atlas/somnarak-city-map.html">City Master Blueprint</a></li>
+        </ul>
+      </div>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main id="content" class="wiki-content">
+
+<!-- Tactical Fast-Jump Subpage Bar -->
+<div class="fast-jump-nav">
+  <span class="fast-jump-title">/// RAPID JUMP:</span>
+  <div class="fast-jump-pills">
+    <a href="han-energy-and-damage.html" class="jump-pill">Damage Matrix</a> <a href="the-four-work-types.html" class="jump-pill">Work Types</a> <a href="../entities/index.html#classification" class="jump-pill">SECC</a> <a href="resonant-clash-mechanics.html" class="jump-pill">Clash Rules</a> <a href="ordeals-framework.html" class="jump-pill">Ordeals</a> <a href="the-four-ordeals.html" class="jump-pill">Four Watches</a> <a href="containment-and-suppression.html" class="jump-pill">Containment</a> <a href="maw-equipment-system.html" class="jump-pill">MAW System</a> <a href="taboo-resonance-mechanics.html" class="jump-pill">Resonances</a> <a href="index.html" class="jump-pill active">✦ Systems Hub</a>
+  </div>
+</div>
+<!-- Tactical Directive Status HUD -->
+<div class="tactical-directive-box">
+  <div class="directive-text">
+    <span class="led-dot led-green"></span> <b>STATUS:</b> ARCHIVE VERIFIED &nbsp;|&nbsp;
+    <b>CLEARANCE:</b> LEVEL-4 OVERSIGHT &nbsp;|&nbsp;
+    <b>PROTOCOL:</b> REVERIE DIRECTORATE
+  </div>
+  <img src="../assets/icons/hud_resonance_wave.svg" alt="Resonance Wave" class="directive-wave">
+</div>
+<!-- Page Tabs -->
+<div class="page-tabs">
+<span>ARTICLE</span>
+<span>DISCUSSION</span>
+<span>SOURCE</span>
+<span>HISTORY</span>
+<b>YEAR 4,238 · DAWN OF HOPE</b>
+</div>
+
+      <!-- Tactical Top Status HUD -->
+      <div class="tactical-hud-bar">
+        <div class="hud-item"><span class="led-dot led-green"></span> ARCHIVE ONLINE</div>
+        <div class="hud-item"><span class="hud-label">CLEARANCE:</span> LEVEL 5 RESTRICTED</div>
+        <div class="hud-item"><span class="hud-label">DIRECTORY:</span> MECHANICS</div>
+        <div class="hud-item"><span class="hud-label">STABILITY:</span> 99.4% NOMINAL</div>
+      </div>
+
+      <!-- Breadcrumbs -->
+      <nav class="breadcrumb-trail" aria-label="Breadcrumb">
+        <a href="../index.html">SOMNARAK ARCHIVE</a> &gt;
+        <span>SYSTEMS & MECHANICS</span>
+      </nav>
+
+      <!-- Panoramic Hero Banner -->
+      <div class="category-panoramic-banner">
+        <img src="../assets/art/mechanics/han-energy-banner.svg" alt="SYSTEMS & COMBAT MECHANICS" class="panoramic-banner-img">
+      </div>
+
+      <!-- Fast Jump Bar -->
+      <div class="fast-jump-nav">
+        <span class="fast-jump-title">/// DIRECT ACCESS:</span>
+        <div class="fast-jump-pills">
+          <a href="../entities/index.html" class="jump-pill">Entities Codex</a>
+          <a href="../maw/index.html" class="jump-pill">M.A.W. Arsenal</a>
+          <a href="../characters/index.html" class="jump-pill">Echo-Cores &amp; Cast</a>
+          <a href="../departments/index.html" class="jump-pill">Facility Floors</a>
+          <a href="../lore/index.html" class="jump-pill">Lore Chronicles</a>
+          <a href="../locations/index.html" class="jump-pill">Metropolitan Atlas</a>
+          <a href="../factions/index.html" class="jump-pill">Factions &amp; Guilds</a>
+          <a href="../mechanics/index.html" class="jump-pill">Combat Systems</a>
+        </div>
+      </div>
+
+
+<div class="wiki-section">
+  <div class="section-banner">
+    <h2>/// SYSTEMS, COMBAT RULES & CONTAINMENT MECHANICS</h2>
+    <span class="section-tag">ALL 14 CORE OPERATIONAL FRAMEWORKS</span>
+  </div>
+  <p class="section-desc">
+    Facility management and tactical field operations in Somnarak adhere to strict mathematical formulas, damage types, work affinities, and resonance clash rules.
+  </p>
+      <div class="hub-lead-grid">
+        <div class="hub-lead-copy">
+          <blockquote class="hub-quote">
+            <p>“Four colors. Four works. No red-white-black-pale. If the sheet still says that, the sheet is wrong.”</p>
+            <cite>— Floor 4 Insight Forge, Han primer</cite>
+          </blockquote>
+          <p><strong>Systems &amp; Mechanics</strong> are the operational rules of Facility 01: <a href="han-energy-and-damage.html">Han damage</a> (Lament 탄식, Grudge 원한, Void 공허, Weight 무게), the four works (Viderehan, Flerehan, Pugnahan, Ferrehan), <a href="resonant-clash-mechanics.html">resonant clash</a>, ordeals, panic, fracture, and the <a href="maw-equipment-system.html">M.A.W. equipment system</a>.</p><p>SECC on this wiki is a classification code for Sorrow Entities — origin, coherence, potency, element, manifestation — not a copied risk rank and not a dump of immortality lore. Combat math lives here. Cosmology lives under Lore. Entity dossiers live under Entities.</p>
+        </div>
+        <aside class="hub-infobox" aria-label="SYSTEMS & MECHANICS fact box">
+          <div class="hub-infobox-head">SYSTEMS & MECHANICS</div>
+          <img src="../assets/icons/icon_hub_mechanics.svg" alt="">
+          <table>
+            <tr><th>Han</th><td>Lament · Grudge · Void · Weight</td></tr><tr><th>Works</th><td>Viderehan · Flerehan · Pugnahan · Ferrehan</td></tr><tr><th>Clash</th><td>Speed, coins, stagger</td></tr><tr><th>Ordeals</th><td>Blue · Black · Pale · Grey · Purple</td></tr><tr><th>Gear</th><td>M.A.W. + DSE + relics</td></tr><tr><th>SECC</th><td>Codes, not LC ranks</td></tr>
+          </table>
+        </aside>
+      </div>
+
+
+  <div class="hub-grid-3">
+    <div class="pm-entity-card" style="--card-border:#ef4444;"><div class="entity-card-top"><img src="../assets/art/mechanics/han-energy-icon.svg" alt="Damage Matrix" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-APOCRYPHA">CORE COMBAT</span></div></div><h3 class="entity-card-name">HAN ENERGY & DAMAGE</h3><p class="entity-card-desc">Lament (탄식, Mind, deep blue), Grudge (원한, Body, crimson), Void (공허, Soul, pale), Weight (무게, Han gold). Not LC red / white / black / pale.</p><a href="han-energy-and-damage.html" class="jump-btn">VIEW DAMAGE MATRIX →</a></div>
+    <div class="pm-entity-card" style="--card-border:#f1df76;"><div class="entity-card-top"><img src="../assets/art/mechanics/work-types-icon.svg" alt="Work Types" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-PHANTASM">CONTAINMENT</span></div></div><h3 class="entity-card-name">THE FOUR WORK TYPES</h3><p class="entity-card-desc">Viderehan (Observation — aperture, never an eye), Flerehan (Tears), Pugnahan (Confrontation), Ferrehan (Endurance). Work is how cells stay shut.</p><a href="the-four-work-types.html" class="jump-btn">VIEW WORK FORMULAS →</a></div>
+    <div class="pm-entity-card" style="--card-border:#38bdf8;"><div class="entity-card-top"><img src="../assets/icons/icon_mech_secc_classification.svg" alt="SECC System" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-APOCRYPHA">CLASSIFICATION</span></div></div><h3 class="entity-card-name">SECC CLASSIFICATION</h3><p class="entity-card-desc">Origin, coherence, potency, element, manifestation codes for Sorrow Entities. Not LC risk ranks and not a lore dump.</p><a href="../entities/index.html#classification" class="jump-btn">VIEW SECC CODES →</a></div>
+    <div class="pm-entity-card" style="--card-border:#ef5b55;"><div class="entity-card-top"><img src="../assets/art/mechanics/clash-icon.svg" alt="Resonant Clash" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-PHANTASM">CLASH SYSTEM</span></div></div><h3 class="entity-card-name">RESONANT CLASH RULES</h3><p class="entity-card-desc">Speed, coins, stagger. How two Han wills hit and which one leaves the tile. Facility combat, not arcade flavor.</p><a href="resonant-clash-mechanics.html" class="jump-btn">VIEW CLASH RULES →</a></div>
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/art/mechanics/ordeals-icon.svg" alt="Ordeals" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-he">FACILITY THREAT</span></div></div><h3 class="entity-card-name">ORDEALS FRAMEWORK</h3><p class="entity-card-desc">Uncontained tests that behave like entities but cannot be housed. Color is the ordeal's nature, not a difficulty skin.</p><a href="ordeals-framework.html" class="jump-btn">VIEW ORDEAL WAVES →</a></div>
+    <div class="pm-entity-card" style="--card-border:#38bdf8;"><div class="entity-card-top"><div class="entity-card-meta"><span class="risk-badge risk-he">BLUE</span></div></div><h3 class="entity-card-name">BLUE ORDEALS</h3><p class="entity-card-desc">Lament-leaning civic tests. Names, tolls, and what a street will not stop repeating.</p><a href="ordeal-blue.html" class="jump-btn">VIEW BLUE →</a></div>
+    <div class="pm-entity-card" style="--card-border:#94a3b8;"><div class="entity-card-top"><div class="entity-card-meta"><span class="risk-badge risk-he">BLACK</span></div></div><h3 class="entity-card-name">BLACK ORDEALS</h3><p class="entity-card-desc">Weight and collapse. Loads that should have been shared and were not.</p><a href="ordeal-black.html" class="jump-btn">VIEW BLACK →</a></div>
+    <div class="pm-entity-card" style="--card-border:#e2e8f0;"><div class="entity-card-top"><div class="entity-card-meta"><span class="risk-badge risk-he">PALE</span></div></div><h3 class="entity-card-name">PALE ORDEALS</h3><p class="entity-card-desc">Void-leaning erasures. What is missing after the ordeal is the damage.</p><a href="ordeal-pale.html" class="jump-btn">VIEW PALE →</a></div>
+    <div class="pm-entity-card" style="--card-border:#64748b;"><div class="entity-card-top"><div class="entity-card-meta"><span class="risk-badge risk-he">GREY</span></div></div><h3 class="entity-card-name">GREY ORDEALS</h3><p class="entity-card-desc">Unsorted civic injury — mixed Han, mixed witnesses, no clean color to hide behind.</p><a href="ordeal-grey.html" class="jump-btn">VIEW GREY →</a></div>
+    <div class="pm-entity-card" style="--card-border:#c084fc;"><div class="entity-card-top"><div class="entity-card-meta"><span class="risk-badge risk-he">PURPLE</span></div></div><h3 class="entity-card-name">PURPLE ORDEALS</h3><p class="entity-card-desc">Taboo-adjacent pressure. The law is already in the room before the ordeal starts.</p><a href="ordeal-purple.html" class="jump-btn">VIEW PURPLE →</a></div>
+
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/art/mechanics/stats-icon.svg" alt="Agent Stats" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-can">AGENT STATS</span></div></div><h3 class="entity-card-name">AGENT ATTRIBUTES & STATS</h3><p class="entity-card-desc">What Floor 1 actually measures: justice, endurance, insight, and the gates that keep a bearer off a Grade V extract.</p><a href="agent-attributes-and-stats.html" class="jump-btn">VIEW STAT CHARTS →</a></div>
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/art/mechanics/containment-icon.svg" alt="Containment" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-PHANTASM">FACILITY OPS</span></div></div><h3 class="entity-card-name">CONTAINMENT & SUPPRESSION</h3><p class="entity-card-desc">How a cell is held and how a breach is put back. Suppression is not the same as a kill order.</p><a href="containment-and-suppression.html" class="jump-btn">VIEW OPS PROTOCOL →</a></div>
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/art/mechanics/dse-icon.svg" alt="Standard Equipment" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-can">STANDARD GEAR</span></div></div><h3 class="entity-card-name">DEFAULT STANDARD EQUIPMENT</h3><p class="entity-card-desc">Issued kit. Not M.A.W. DSE does not carry a donor's name and does not pay a memory price.</p><a href="default-standard-equipment.html" class="jump-btn">VIEW STANDARD ISSUE →</a></div>
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/art/mechanics/bestiary-icon.svg" alt="Bestiary" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-he">BESTIARY</span></div></div><h3 class="entity-card-name">ENEMY BESTIARY</h3><p class="entity-card-desc">Field threats that are not Sorrow Entities: wounds, walkers, ordeal spawn, and civic fauna the Hand still has to log.</p><a href="enemy-bestiary.html" class="jump-btn">VIEW BESTIARY ROSTER →</a></div>
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/art/mechanics/fracture-icon.svg" alt="Therapy" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-he">PSYCH RECOVERY</span></div></div><h3 class="entity-card-name">FRACTURE & THERAPY</h3><p class="entity-card-desc">What happens to an agent after Han gets in. Therapy is Directorate procedure, not a rest screen.</p><a href="fracture-and-therapy.html" class="jump-btn">VIEW THERAPY PROTOCOLS →</a></div>
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/art/mechanics/relics-icon.svg" alt="Relic Registry" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-PHANTASM">RELIC CODEX</span></div></div><h3 class="entity-card-name">HAN RELIC REGISTRY</h3><p class="entity-card-desc">Found or inherited Han objects. Relics are not extracts. Floor 2 will not file them as M.A.W.</p><a href="han-relic-registry.html" class="jump-btn">VIEW RELIC CATALOG →</a></div>
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/art/mechanics/tools-icon.svg" alt="Relic Tools" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-he">OPERATIONAL GEAR</span></div></div><h3 class="entity-card-name">HAN RELICS & TOOLS</h3><p class="entity-card-desc">How relics are used in the field without pretending they came from a Named Vigil.</p><a href="han-relics-and-tools.html" class="jump-btn">VIEW TOOL MECHANICS →</a></div>
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/art/mechanics/maw-sys-icon.svg" alt="MAW System" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-APOCRYPHA">EXTRACTION</span></div></div><h3 class="entity-card-name">M.A.W. EQUIPMENT SYSTEM</h3><p class="entity-card-desc">Weapon, suit, gift — crystallized from a donor entity. System article; the arsenal itself lives on the M.A.W. hub.</p><a href="maw-equipment-system.html" class="jump-btn">VIEW SYSTEM RULES →</a></div>
+    <div class="pm-entity-card"><div class="entity-card-top"><img src="../assets/art/mechanics/taboo-res-icon.svg" alt="Taboo Resonance" class="entity-card-icon"><div class="entity-card-meta"><span class="risk-badge risk-PHANTASM">TABOO SYSTEM</span></div></div><h3 class="entity-card-name">TABOO RESONANCE MECHANICS</h3><p class="entity-card-desc">How the Seven Taboos bite in combat and in the street. Resonance is enforcement, not a buff icon.</p><a href="taboo-resonance-mechanics.html" class="jump-btn">VIEW TABOO RULES →</a></div>
+  </div>
+</div>
+
+
+
+<!-- Master Encyclopedic Sections for Mechanics Hub -->
+<section class="pm-section-block">
+  <div class="section-title-bar">
+    <h2>/// THE FOUR WORK TYPES & PSYCHOLOGICAL RESPONSE DYNAMICS</h2>
+    <span class="title-sub">OPERATIVE WORK PROCEDURES & RISK CALCULATION</span>
+  </div>
+  <p class="section-lead-text">
+    When containing a Sorrow Entity, agents perform one of four standardized work routines to harvest Han-flux while maintaining the entity's Coherence Counter. Each work type interacts with specific agent attributes:
+  </p>
+  <div class="pm-table-wrapper">
+    <table class="pm-table">
+      <thead>
+        <tr>
+          <th>Work Routine</th>
+          <th>Han Protocol Name</th>
+          <th>Primary Scaling Stat</th>
+          <th>Operative Procedure</th>
+          <th>Failure Consequence</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong style="color:#ef4444;"><img src="../assets/art/mechanics/work-pugnahan.svg" alt="" style="width: 50px; height: 50px; vertical-align: middle; margin-right: 12px; display: inline-block; border-radius: 8px; border: 2px solid #38bdf8; background: #060b14; padding: 4px; box-shadow: 0 4px 14px rgba(0,0,0,0.8), 0 0 10px rgba(56,189,248,0.3);">Observation</strong></td>
+          <td><em>Pugnahan (투쟁한)</em></td>
+          <td><strong>Resolve (체력/HP)</strong></td>
+          <td>Direct sensory monitoring, physical threat deterrence, and bio-metric vital recording.</td>
+          <td>Physical trauma and Grudge damage backlashes against the operative.</td>
+        </tr>
+        <tr>
+          <td><strong style="color:#38bdf8;"><img src="../assets/art/mechanics/work-flerehan.svg" alt="" style="width: 50px; height: 50px; vertical-align: middle; margin-right: 12px; display: inline-block; border-radius: 8px; border: 2px solid #38bdf8; background: #060b14; padding: 4px; box-shadow: 0 4px 14px rgba(0,0,0,0.8), 0 0 10px rgba(56,189,248,0.3);">Extraction</strong></td>
+          <td><em>Ferrehan (수렴한)</em></td>
+          <td><strong>Resilience (정신력/SP)</strong></td>
+          <td>Attaching hydraulic needles to draw liquefied Han flux into facility storage batteries.</td>
+          <td>Lament damage; severe mental exhaustion and auditory hallucinations.</td>
+        </tr>
+        <tr>
+          <td><strong style="color:#10b981;"><img src="../assets/art/mechanics/work-viderehan.svg" alt="" style="width: 50px; height: 50px; vertical-align: middle; margin-right: 12px; display: inline-block; border-radius: 8px; border: 2px solid #38bdf8; background: #060b14; padding: 4px; box-shadow: 0 4px 14px rgba(0,0,0,0.8), 0 0 10px rgba(56,189,248,0.3);">Insight</strong></td>
+          <td><em>Viderehan (통찰한)</em></td>
+          <td><strong>Composure (숙련도)</strong></td>
+          <td>Environmental conditioning, chamber optimization, and cognitive communion.</td>
+          <td>Void damage; reduction in work efficiency and potential chamber contamination.</td>
+        </tr>
+        <tr>
+          <td><strong style="color:#f1df76;"><img src="../assets/art/mechanics/work-ferrehan.svg" alt="" style="width: 50px; height: 50px; vertical-align: middle; margin-right: 12px; display: inline-block; border-radius: 8px; border: 2px solid #38bdf8; background: #060b14; padding: 4px; box-shadow: 0 4px 14px rgba(0,0,0,0.8), 0 0 10px rgba(56,189,248,0.3);">Restraint</strong></td>
+          <td><em>Flerehan (억제한)</em></td>
+          <td><strong>Justice (정의/속도)</strong></td>
+          <td>Imposing magnetic suppression fields, sensory deprivation, and acoustic dampening.</td>
+          <td>Coherence Counter reduction; triggers immediate breach alerts if zeroed.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="pm-section-block">
+  <div class="section-title-bar">
+    <h2>/// THE ORDEALS FRAMEWORK: 24-HOUR BREACH ESCALATIONS</h2>
+    <span class="title-sub">SYSTEMIC FACILITY EMERGENCIES THROUGHOUT THE CYCLE</span>
+  </div>
+  <p class="section-lead-text">
+    As the daily energy quota increases, unrefined Han seepage precipitates systemic crises known as <strong>Ordeals</strong> at specific time milestones:
+  </p>
+  <div class="pm-table-wrapper">
+    <table class="pm-table">
+      <thead>
+        <tr>
+          <th>Ordeal Phase</th>
+          <th>Color Spectrum</th>
+          <th>Trigger Threshold</th>
+          <th>Manifestation Form</th>
+          <th>Recommended Suppression Strategy</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong style="color:#10b981;">Dawn (새벽)</strong></td>
+          <td>Green / Amber / Crimson</td>
+          <td>25% Daily Quota</td>
+          <td>Small swarms of crystalline parasites and malfunctioning maintenance drones.</td>
+          <td>Fast level I-II operatives with standard kinetic sidearms.</td>
+        </tr>
+        <tr>
+          <td><strong style="color:#38bdf8;">Noon (정오)</strong></td>
+          <td>Cyan / Violet</td>
+          <td>50% Daily Quota</td>
+          <td>Heavily armored Han seep golems and sensory disruption pillars.</td>
+          <td>Dedicated strike teams equipped with Lament & Grudge M.A.W. gear.</td>
+        </tr>
+        <tr>
+          <td><strong style="color:#ef4444;">Dusk (황혼)</strong></td>
+          <td>Crimson / Blood Gold</td>
+          <td>75% Daily Quota</td>
+          <td>Colossal mobile obelisks that drain surrounding containment counters.</td>
+          <td>Full department mobilization; prioritize destroying obelisk cores immediately.</td>
+        </tr>
+        <tr>
+          <td><strong style="color:#a855f7;">Midnight (자정)</strong></td>
+          <td>Obsidian / Pure Pale</td>
+          <td>100% Daily Quota</td>
+          <td>Catastrophic apocalyptic manifestations capable of facility-wide wipes.</td>
+          <td>Deployment of APOCRYPHA-grade M.A.W. specialists and Echo-Core direct intervention.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+<!-- Master Footer Navigation -->
+
+    </main>
+</div>
+<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  <div class="footer-signal" aria-hidden="true">
+    <span>RD://PUBLIC-NET</span><i></i>
+    <span>SECC LINK STABLE</span><i></i>
+    <span>FACILITY 01 // GATE WATCH</span><i></i>
+    <span>PUBLICATION GATES PASSING</span>
+  </div>
+
+  <div class="footer-hero">
+    <section class="footer-identity" aria-label="Somnarak Wiki">
+      <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
+      <a class="footer-brand" href="../index.html">
+        <span class="footer-emblem"><img src="../assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
+      </a>
+      <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
+      <p>The public record follows Somnarak from the Alpha Tree and five city zones into Facility 01, where witnessed canon is curated without replacing absence with invention.</p>
+      <div class="footer-badges" aria-label="Archive classification">
+        <span>FACILITY 01</span><span>DIRECTORATE</span><span>PUBLIC CODEX</span>
+      </div>
+    </section>
+
+    <figure class="footer-network">
+      <div class="footer-network-frame">
+        <img src="../assets/layout/footer-directorate-network.svg" alt="Directorate archive topology linking the Alpha Tree, five city zones, Facility 01, Gate Watch, and eight public archive gateways"/>
+        <span class="footer-network-scan" aria-hidden="true"></span>
+      </div>
+      <figcaption><span>Live archive topology</span><b>ALPHA TREE → FACILITY 01 → PUBLIC CODEX</b></figcaption>
+    </figure>
+
+    <section class="footer-status" aria-label="Current archive status">
+      <span>Verified repository snapshot</span>
+      <strong>1.8.31</strong>
+      <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
+      <dl>
+        <div><dt>Public records</dt><dd>197 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
+        <div><dt>Cycle state</dt><dd>ENDED</dd></div>
+        <div><dt>Gate command</dt><dd>XYAN</dd></div>
+      </dl>
+    </section>
+  </div>
+
+  <div class="footer-directory">
+    <section class="footer-archives" aria-labelledby="footer-archives-title">
+      <header><span>Primary collections</span><h2 id="footer-archives-title">Eight Archive Gateways</h2><p>Continue through the complete public taxonomy.</p></header>
+      <div>
+        <a href="../characters/index.html" data-footer-archive="01" style="--gateway:#ef5b55"><span>01</span><b>Echo-Cores</b><small>Characters</small></a>
+        <a href="../lore/index.html" data-footer-archive="02" style="--gateway:#a78bfa"><span>02</span><b>Cycle Archive</b><small>Lore</small></a>
+        <a href="../locations/index.html" data-footer-archive="03" style="--gateway:#38bdf8"><span>03</span><b>City Atlas</b><small>Locations</small></a>
+        <a href="../factions/index.html" data-footer-archive="04" style="--gateway:#f59e0b"><span>04</span><b>Orders</b><small>Factions</small></a>
+        <a href="../departments/index.html" data-footer-archive="05" style="--gateway:#71efaf"><span>05</span><b>Hand of Change</b><small>Facility</small></a>
+        <a href="../entities/index.html" data-footer-archive="06" style="--gateway:#fb7185"><span>06</span><b>SECC Registry</b><small>Entities</small></a>
+        <a href="../maw/index.html" data-footer-archive="07" style="--gateway:#f1df76"><span>07</span><b>M.A.W. Arsenal</b><small>Equipment</small></a>
+        <a href="../mechanics/index.html" data-footer-archive="08" style="--gateway:#60a5fa"><span>08</span><b>Systems Codex</b><small>Mechanics</small></a>
+      </div>
+    </section>
+
+    <nav class="footer-links" aria-label="Archive resources">
+      <header><span>Project access</span><h2>Archive Resources</h2><p>Inspect provenance, files, and visual infrastructure.</p></header>
+      <div>
+        <a href="../project/source-map.html" data-footer-link="R-01"><b>Source Map</b><small>Canon provenance</small></a>
+        <a href="../downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
+        <a href="../assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
+        <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+      </div>
+    </nav>
+  </div>
+
+  <section class="footer-register" aria-label="Publication register">
+    <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
+    <dl>
+      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+    </dl>
+    <div class="footer-protocols">
+      <span><b>01</b> SOURCE-LED CONTENT</span>
+      <span><b>02</b> DISTINCT VISUAL FORM</span>
+      <span><b>03</b> NO RECOLOR-ONLY ART</span>
+      <span><b>04</b> VERIFIED LOCAL ROUTES</span>
+    </div>
+  </section>
+
+  <div class="footer-base">
+    <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
+    <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+  </div>
+</footer>
+</body>
+</html>

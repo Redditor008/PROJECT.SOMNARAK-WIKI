@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Facility incident sequence icon</title>
+  <desc id="desc">Ten numbered incident nodes surround a fractured facility core, with high-severity spikes at the Dawn Transformation and Midnight Abyss and personnel totals beneath.</desc>
+  <defs>
+    <radialGradient id="incident-icon-bg" cx="50%" cy="43%" r="60%">
+      <stop offset="0" stop-color="#1c1720"/>
+      <stop offset="0.62" stop-color="#090d14"/>
+      <stop offset="1" stop-color="#03050a"/>
+    </radialGradient>
+    <filter id="core-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="6" y="6" width="388" height="388" rx="18" fill="url(#incident-icon-bg)" stroke="#94a3b8" stroke-width="3"/>
+  <path d="M20 55H380M20 345H380" stroke="#374b5e" stroke-width="1" stroke-dasharray="8 5"/>
+  <text x="24" y="35" fill="#ef7085" font-family="monospace" font-size="10" letter-spacing="2">INCIDENT SEQUENCE</text>
+  <text x="376" y="35" text-anchor="end" fill="#94a3b8" font-family="monospace" font-size="9">001—010</text>
+
+  <!-- Ten reports orbit one damaged facility core; no paper-stack template is used. -->
+  <g transform="translate(200 190)">
+    <circle r="116" fill="none" stroke="#26394d" stroke-width="14"/>
+    <circle r="116" fill="none" stroke="#ef5b55" stroke-width="2" stroke-dasharray="5 9"/>
+    <g stroke="#566b7f" stroke-width="2">
+      <path d="M0-88V-116"/><path d="M52-71L68-94"/><path d="M84-27L111-36"/><path d="M84 27L111 36"/><path d="M52 71L68 94"/>
+      <path d="M0 88V116"/><path d="M-52 71L-68 94"/><path d="M-84 27L-111 36"/><path d="M-84-27L-111-36"/><path d="M-52-71L-68-94"/>
+    </g>
+    <g font-family="monospace" font-size="9" text-anchor="middle" dominant-baseline="middle">
+      <g transform="translate(0 -116)"><circle r="16" fill="#0b1118" stroke="#94a3b8" stroke-width="2"/><text fill="#cbd5e1">01</text></g>
+      <g transform="translate(68 -94)"><circle r="17" fill="#171407" stroke="#f1df76" stroke-width="2"/><text fill="#f1df76">02</text></g>
+      <g transform="translate(111 -36)"><circle r="17" fill="#171407" stroke="#f1df76" stroke-width="2"/><text fill="#f1df76">03</text></g>
+      <g transform="translate(111 36)"><circle r="20" fill="#260b12" stroke="#ef5b55" stroke-width="3"/><text fill="#ef9aaa">04</text></g>
+      <g transform="translate(68 94)"><circle r="22" fill="#260b12" stroke="#ef5b55" stroke-width="4"/><text fill="#ef9aaa">05</text></g>
+      <g transform="translate(0 116)"><circle r="16" fill="#0b1118" stroke="#94a3b8" stroke-width="2"/><text fill="#cbd5e1">06</text></g>
+      <g transform="translate(-68 94)"><circle r="17" fill="#171407" stroke="#f1df76" stroke-width="2"/><text fill="#f1df76">07</text></g>
+      <g transform="translate(-111 36)"><circle r="17" fill="#07131a" stroke="#38bdf8" stroke-width="2"/><text fill="#9ddff8">08</text></g>
+      <g transform="translate(-111 -36)"><circle r="17" fill="#171407" stroke="#f1df76" stroke-width="2"/><text fill="#f1df76">09</text></g>
+      <g transform="translate(-68 -94)"><circle r="16" fill="#0b1118" stroke="#94a3b8" stroke-width="2"/><text fill="#cbd5e1">10</text></g>
+    </g>
+
+    <path d="M-54-56H54L70-40V54H-54Z" fill="#0b1118" stroke="#ef5b55" stroke-width="3"/>
+    <path d="M54-56V-40H70" fill="none" stroke="#ef5b55" stroke-width="3"/>
+    <path d="M-34-32H38M-34-15H25M-34 2H45" stroke="#778b9d" stroke-width="5"/>
+    <path d="M3-45L-8-16L10 5L-3 34L7 50" fill="none" stroke="#ef5b55" stroke-width="4" filter="url(#core-glow)"/>
+    <path d="M-8-16L-26-3M10 5L31 18" stroke="#ef5b55" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(45 329)">
+    <path d="M0 0H310V45H0Z" fill="#05080d" stroke="#374b5e"/>
+    <text x="17" y="17" fill="#94a3b8" font-family="monospace" font-size="8" letter-spacing="1">PERSONNEL EFFECT</text>
+    <text x="17" y="35" fill="#ef7085" font-family="Impact, Arial Narrow, sans-serif" font-size="15">44 FRACTURED</text>
+    <text x="151" y="35" fill="#f1df76" font-family="Impact, Arial Narrow, sans-serif" font-size="15">356 INCAPACITATED</text>
+  </g>
+</svg>

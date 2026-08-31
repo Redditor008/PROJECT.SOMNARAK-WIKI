@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Floor 5 Border Watch — perimeter bulwark and watch slits">
+  <defs>
+    <linearGradient id="bgf5b" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05080e"/><stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="acf5b" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e2e8f0"/><stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <filter id="glf5b" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bgf5b)"/>
+  <rect width="1400" height="280" fill="#e2e8f0" opacity=".06"/>
+  
+  <rect x="0" y="70" width="1400" height="110" fill="#0b1220"/>
+  <path d="M0 180 L180 90 H1220 L1400 180" fill="#111827" stroke="#e2e8f0" stroke-width="4"/>
+  <rect x="200" y="108" width="28" height="52" fill="#020617" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="420" y="108" width="28" height="52" fill="#020617" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="686" y="100" width="36" height="62" fill="#020617" stroke="#f1df76" stroke-width="2"/>
+  <rect x="952" y="108" width="28" height="52" fill="#020617" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="1172" y="108" width="28" height="52" fill="#020617" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M80 70 L160 40 H1240 L1320 70" fill="none" stroke="#e2e8f0" stroke-width="3"/>
+  <circle cx="700" cy="48" r="10" fill="#f1df76"/>
+  <path d="M40 200 h80 l20 20 H40z M160 200 h80 l20 20 H160z M280 200 h80 l20 20 H280z M400 200 h80 l20 20 H400z" fill="#e2e8f0" opacity=".25"/>
+
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".72"/>
+  <text x="32" y="246" fill="#e2e8f0" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FLOOR 5  ·  MELLDA  ·  PERIMETER</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">BORDER WATCH  —  WHAT LIES BEYOND</text>
+</svg>

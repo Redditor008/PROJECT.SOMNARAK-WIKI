@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sorrow Entities — Somnarak Wiki</title>
+  <meta name="description" content="Sorrow Entities (슬픔의 존재) are Han-born phenomena catalogued by the Reverie Directorate under SECC protocols inside Facility 01.">
+  <link rel="icon" type="image/svg+xml" href="../assets/icons/somnarak_icon.svg">
+  <link rel="stylesheet" href="../assets/css/wiki.css?v=20260831g">
+</head>
+<body class="hub-page">
+  <header class="utility" data-component="global-top-bar">
+  <div class="utility-left">
+    <button class="nav-open" type="button" aria-controls="primary-archive-navigation" aria-expanded="false" aria-label="Open primary archive navigation">
+      <span class="nav-open-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="nav-open-text">MENU</span>
+    </button>
+    <a class="utility-brand" href="../index.html" aria-label="Somnarak Wiki main page">
+      <img src="../assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
+    </a>
+    <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>
+  </div>
+  <nav class="utility-nav" id="primary-archive-navigation" aria-label="Primary archive">
+      <a href="../index.html" data-archive="00"><span>Main</span><small>Terminal</small></a>
+      <a href="../characters/index.html" data-archive="01"><span>Characters</span><small>Echo-Cores</small></a>
+      <a href="../lore/index.html" data-archive="02"><span>Lore</span><small>Cycles</small></a>
+      <a href="../locations/index.html" data-archive="03"><span>Atlas</span><small>City</small></a>
+      <a href="../factions/index.html" data-archive="04"><span>Factions</span><small>Orders</small></a>
+      <a href="../departments/index.html" data-archive="05"><span>Facility</span><small>Floors</small></a>
+      <a href="../entities/index.html" data-archive="06" class="is-current" aria-current="page"><span>Entities</span><small>SECC</small></a>
+      <a href="../maw/index.html" data-archive="07"><span>M.A.W.</span><small>Arsenal</small></a>
+      <a href="../mechanics/index.html" data-archive="08"><span>Mechanics</span><small>Systems</small></a>
+      <a href="../downloads.html" data-archive="09"><span>Downloads</span><small>Files</small></a>
+  </nav>
+  <div class="search" role="search">
+    <label for="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search Somnarak Wiki</span></label>
+    <input id="search" type="search" aria-label="Search Somnarak Wiki" aria-controls="results" aria-expanded="false" data-index="../data/search.json" placeholder="Search the archive" autocomplete="off" spellcheck="false"/>
+    <kbd aria-hidden="true">/</kbd>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</header>
+
+  <div class="wiki-shell">
+    <aside class="left-rail">
+      <div class="site-mark">
+        <a href="../index.html">
+          <img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+          <b>SOMNARAK</b>
+          <span>OFFICIAL WIKI ARCHIVE</span>
+        </a>
+      </div>
+      <nav aria-label="Wiki navigation" class="left-links">
+        <section>
+          <h2>DATABASE HUBS</h2>
+          <a href="../index.html">Main Overview</a>
+          <a href="../characters/index.html">Characters Hub</a>
+          <a href="../lore/index.html">Lore &amp; Cosmology</a>
+          <a href="../locations/index.html">Locations &amp; Atlas</a>
+          <a href="../factions/index.html">Factions &amp; Guilds</a>
+          <a href="../departments/index.html">Facility Floors</a>
+          <a href="../entities/index.html">Sorrow Entities</a>
+          <a href="../maw/index.html">M.A.W. Equipment</a>
+          <a href="../mechanics/index.html">Systems &amp; Mechanics</a>
+        </section>
+        <section>
+          <h2>THE NINE ECHO-CORES</h2>
+          <a href="../characters/the-director-majin.html">1. Director Majin</a>
+          <a href="../characters/the-secretary-seiyon.html">2. Seiyon (Secretary)</a>
+          <a href="../characters/the-containment-lead-dekan.html">3. Dekan (Containment)</a>
+          <a href="../characters/the-extraction-lead-zyrak.html">4. Zyrak (Extraction)</a>
+          <a href="../characters/the-research-lead-ayshuk.html">5. Ayshuk (Research)</a>
+          <a href="../characters/the-border-lead-mellda.html">6. Mellda (Border)</a>
+          <a href="../characters/the-archive-lead-marjuk.html">7. Marjuk (Archive)</a>
+          <a href="../characters/the-outsider-ishall.html">8. Ishall (Outsider)</a>
+          <a href="../characters/the-exile-xyan.html">9. Xyan (Exile)</a>
+        </section>
+        <section>
+          <h2>CARTOGRAPHY &amp; SCHEMATICS</h2>
+          <a href="../atlas/hand-of-change-map.html">Hand of Change Map</a>
+          <a href="../atlas/somnarak-city-map.html">Somnarak City Blueprint</a>
+          <a href="../project/source-map.html">Master Archive Map</a>
+        </section>
+      </nav>
+    </aside>
+
+    <main class="main hub-main" id="content">
+
+<!-- Tactical Fast-Jump Subpage Bar -->
+<div class="fast-jump-nav">
+  <span class="fast-jump-title">/// RAPID JUMP:</span>
+  <div class="fast-jump-pills">
+    <a href="se-001-the-orphaned-bell.html" class="jump-pill">SE-001</a> <a href="se-002-the-grieving-colossus.html" class="jump-pill">SE-002</a> <a href="se-003-the-wilderness-tide.html" class="jump-pill">SE-003</a> <a href="se-005-the-smothering-mother.html" class="jump-pill">SE-005</a> <a href="se-007-brume.html" class="jump-pill">SE-007</a> <a href="se-009-the-memory-weaver.html" class="jump-pill">SE-009</a> <a href="se-010-the-convergence.html" class="jump-pill">SE-010</a> <a href="se-011-the-whispering-walls.html" class="jump-pill">SE-011</a> <a href="se-014-the-debt-eater.html" class="jump-pill">SE-014</a> <a href="se-015-the-debt-scale.html" class="jump-pill">SE-015</a> <a href="index.html" class="jump-pill active">✦ Full Codex</a>
+  </div>
+</div>
+<!-- Tactical Directive Status HUD -->
+<div class="tactical-directive-box">
+  <div class="directive-text">
+    <span class="led-dot led-green"></span> <b>STATUS:</b> ARCHIVE VERIFIED &nbsp;|&nbsp;
+    <b>CLEARANCE:</b> LEVEL-4 OVERSIGHT &nbsp;|&nbsp;
+    <b>PROTOCOL:</b> REVERIE DIRECTORATE
+  </div>
+  <img src="../assets/icons/hud_resonance_wave.svg" alt="Resonance Wave" class="directive-wave">
+</div>
+<!-- Page Tabs -->
+<div class="page-tabs">
+<span>ARTICLE</span>
+<span>DISCUSSION</span>
+<span>SOURCE</span>
+<span>HISTORY</span>
+<b>YEAR 4,238 · DAWN OF HOPE</b>
+</div>
+
+      <nav class="abno-tabs" aria-label="Sorrow Entity pages">
+        <a class="abno-tab is-on" href="index.html">SORROW ENTITIES</a>
+        <a class="abno-tab" href="list.html">LIST OF SORROW ENTITIES</a>
+        <a class="abno-tab" href="hope-transformations.html">HOPE TRANSFORMATIONS</a>
+        <a class="abno-tab" href="unknown-entities.html">UNKNOWN ENTITIES</a>
+      </nav>
+
+      <p class="hub-kicker">From Somnarak Wiki</p>
+      <h1 class="hub-title">Sorrow Entities</h1>
+      <p class="hub-title-kr">슬픔의 존재 · SECC CONTAINMENT REGISTRY</p>
+
+      <div class="hub-lead-grid">
+        <div class="hub-lead-copy">
+          <blockquote class="hub-quote">
+            <p>“The toll is not asking to be stopped. It is asking whether anyone will remember why it began.”</p>
+            <cite>— <a href="se-001-the-orphaned-bell.html">The Orphaned Bell</a></cite>
+          </blockquote>
+          <p><strong>Sorrow Entities</strong> (슬픔의 존재, <em>Seulpeum-ui Jonjae</em>) are Han-born phenomena: grief, regret, and unresolved civic injury given body, object, or place. The Reverie Directorate catalogues each specimen with a <a href="#classification">Sorrow Entity Classification Code (SECC)</a> and contains the recoverable ones inside Facility 01, the Hand of Change.</p>
+          <p>They are the primary recurrent threats of containment work. Each entity has a different physiology, a preferred <a href="../mechanics/han-energy-and-damage.html">Han damage</a> color, and a work response to Viderehan, Flerehan, Pugnahan, and Ferrehan. Successful work yields <a href="../maw/index.html">M.A.W. equipment</a> — weapons, suits, and gifts crystallized from the same sorrow.</p>
+          <div class="hub-coverage">
+            <b>ARCHIVE TRANSFER</b>
+            <p>Source catalogues <strong>288</strong> Sorrow Entities (55 named in the core story). This hub publishes <strong>10 dossiers — 3.5%</strong> of the full register, <strong>16%</strong> of the 55 protected names. The rest is not yet on the public wiki.</p>
+            <div class="hub-coverage-bar" aria-hidden="true"><i style="width:3.5%"></i></div>
+            <small>10 / 288 published</small>
+          </div>
+          <p>Uncontained cousins exist. <a href="../mechanics/the-four-ordeals.html">Ordeals</a> and <a href="../lore/night-hazards-and-vigil.html">Night Hazards</a> behave like Sorrow Entities but cannot be housed in a cell. <a href="../locations/the-maw.html">The Maw</a> is the only ω-grade phenomenon in the city, and it remains uncontained.</p>
+        </div>
+        <aside class="hub-infobox" aria-label="Sorrow Entities fact box">
+          <div class="hub-infobox-head">SORROW ENTITIES</div>
+          <img src="../assets/icons/icon_hub_entities.svg" alt="Sorrow Entities seal">
+          <table>
+            <tr><th>Korean</th><td>슬픔의 존재</td></tr>
+            <tr><th>Also</th><td>SE · Phenomena · SECC specimens</td></tr>
+            <tr><th>Source</th><td><a href="../lore/the-alpha-tree.html">The Weeping</a> (울음)</td></tr>
+            <tr><th>Rank</th><td>SECC α Minor → ω Catastrophic</td></tr>
+            <tr><th>Han</th><td>Lament · Grudge · Void · Weight</td></tr>
+            <tr><th>House</th><td>Facility 01 · ALL SE</td></tr>
+            <tr><th>Yield</th><td><a href="../maw/index.html">M.A.W. armory</a></td></tr>
+            <tr><th>Lead</th><td><a href="../characters/the-containment-lead-dekan.html">Dekan</a></td></tr>
+          </table>
+        </aside>
+      </div>
+
+      <nav class="toc hub-toc toc-panel" aria-label="Contents">
+        <div class="toc-title">Contents · jump to a section</div>
+        <ol>
+          <li><a href="#overview">Overview</a></li>
+          <li><a href="#behavior">Behavior</a>
+            <ol>
+              <li><a href="#work">Work types</a></li>
+              <li><a href="#pairs">Pairs and linked sets</a></li>
+            </ol>
+          </li>
+          <li><a href="#immortality">Entity Immortality</a></li>
+          <li><a href="#physical-form">Physical Form &amp; Death</a></li>
+          <li><a href="#origin">Origin — The Weeping</a></li>
+          <li><a href="#classification">Classification Code (SECC)</a></li>
+          <li><a href="#han">Han damage</a></li>
+          <li><a href="#maw">M.A.W. equipment</a></li>
+          <li><a href="#related">Related phenomena</a></li>
+          <li><a href="#codex">Codex of thirteen</a></li>
+        </ol>
+      </nav>
+
+      <section class="wiki-section hub-article" id="overview">
+        <h2 class="section-title">Overview</h2>
+        <p>Somnarak is built on unresolved sorrow. Buildings, law, and even the ground drink <strong>Han</strong> — the city’s name pairs Somnus (dream) with Narak (abyss). When that grief concentrates instead of dispersing, it crystallizes. The result is a Sorrow Entity: a concept with a will.</p>
+        <p>Physiology does not follow living anatomy. An entity may be a bell fused to its tower, a fog that erases destinations, a wall that stores testimony, or a walking memorial of crushed stone. Outward form is not a guarantee of a body that can be killed. Suppression returns the specimen to its cell; it does not end the sorrow that made it.</p>
+        <p>The Directorate treats the first formally catalogued specimen, <a href="se-001-the-orphaned-bell.html">SE-001 The Orphaned Bell</a>, as the pattern-setter: civic injury sank into the Weeping and returned as an object that forces the city to keep names it tried to forget.</p>
+      </section>
+
+      <section class="wiki-section hub-article" id="behavior">
+        <h2 class="section-title">Behavior</h2>
+        <p>Intelligent specimens can be spoken to. That is not the same as being safe. Each entity follows the logic of the grief it embodies. A handler who understands that logic can work it; a handler who offends it is injured or absorbed regardless of prior rapport. They do not learn the way people do. They repeat.</p>
+        <p>Because they cannot be erased, breach protocol is suppression and re-containment — not execution. Pugnahan (force) is often read as another attempt to silence the original wound, and it frequently raises the Sorrow Gauge instead of lowering it.</p>
+
+        <h3 id="work">Work types</h3>
+        <p>Agents enter the cell under one of four <a href="../mechanics/the-four-work-types.html">work types</a>. Each seal is a different job. Click a seal for the systems record.</p>
+        <div class="hub-work-grid">
+          <a class="work-type-card" href="../mechanics/the-four-work-types.html#work-types-jageop-yuhyeong" style="--work:#71efaf">
+            <img src="../assets/icons/viderehan.svg?v=20260830aa" alt="Viderehan">
+            <b>Viderehan</b>
+            <em>비데레한 · Insight</em>
+            <small>Observe, record, and name what the cell is doing.</small>
+          </a>
+          <a class="work-type-card" href="../mechanics/the-four-work-types.html#work-types-jageop-yuhyeong" style="--work:#38bdf8">
+            <img src="../assets/icons/flerehan.svg?v=20260830aa" alt="Flerehan">
+            <b>Flerehan</b>
+            <em>플레레한 · Attachment</em>
+            <small>Remain, mourn, and attend without leaving the post.</small>
+          </a>
+          <a class="work-type-card" href="../mechanics/the-four-work-types.html#work-types-jageop-yuhyeong" style="--work:#ef5b55">
+            <img src="../assets/icons/pugnahan.svg?v=20260830aa" alt="Pugnahan">
+            <b>Pugnahan</b>
+            <em>푸그나한 · Repression</em>
+            <small>Force, silence, or strike — often raises the Gauge.</small>
+          </a>
+          <a class="work-type-card" href="../mechanics/the-four-work-types.html#work-types-jageop-yuhyeong" style="--work:#f1df76">
+            <img src="../assets/icons/ferrehan.svg?v=20260830aa" alt="Ferrehan">
+            <b>Ferrehan</b>
+            <em>페레한 · Extraction</em>
+            <small>Hold the post and draw Han from the specimen.</small>
+          </a>
+        </div>
+
+        <h3 id="pairs">Pairs and linked sets</h3>
+        <p>Some specimens share a wound. <a href="se-014-the-debt-eater.html">SE-014 The Debt Eater</a> and <a href="se-015-the-debt-scale.html">SE-015 The Debt Scale</a> both govern obligation. <a href="se-010-the-convergence.html">SE-010 The Convergence</a> is recorded as a fusion event, not a lone body. Housing an entire linked set in one wing is treated as a facility risk; cells are split across floors when the Archive allows it.</p>
+      </section>
+
+      <section class="wiki-section hub-article" id="immortality"><h2 class="section-title">Entity Immortality</h2><div class="wiki-callout"><p><em><span>"Every <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> may not have a reason to exist, but they all have a will to persist."</span></em></p></div>
+<h3>The Question</h3>
+<p><span>Can a <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> be permanently destroyed?</span></p>
+<p><strong>The short answer:</strong> No.</p>
+<p><strong>The long answer:</strong><span> <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a> are </span><strong>immortal</strong> — they cannot be permanently killed. They can be suppressed, contained, fragmented, or scattered — but they always return.</p>
+<h3>Why Entities Are Immortal</h3>
+<p><strong>The reason:</strong><span> <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a> are not </span><em>creatures</em>. They are <strong>manifestations</strong> — crystallized grief given form. You cannot kill grief. You can only manage it.</p>
+<p><strong>The mechanism:</strong></p>
+<ul>
+<li><span>When a <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> is "destroyed" — its physical form shattered, its Han dispersed — the sorrow does not disappear</span></li>
+<li>The sorrow returns to the <strong>Weeping</strong> — flowing back into the river</li>
+<li>Over time, the sorrow re-accumulates at the same point</li>
+<li>The entity <strong>re-crystallizes</strong> — reforming in the same or similar shape</li>
+<li>The entity returns — with the same memories, the same personality, the same sorrow</li>
+</ul>
+<p><strong>The cycle:</strong></p>
+<ol>
+<li>Entity forms from the Weeping</li>
+<li>Entity is contained by the R.D.</li>
+<li>Entity is "destroyed" — form shattered</li>
+<li>Sorrow returns to the Weeping</li>
+<li>Sorrow re-accumulates</li>
+<li>Entity re-crystallizes</li>
+<li>Return to step 2</li>
+</ol>
+<h3>What "Destruction" Actually Does</h3>
+<p>When an entity is "destroyed":</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>What Happens</th><th>Effect</th></tr></thead>
+<tbody>
+<tr><td><strong>Physical form shatters</strong></td><td>The entity's body breaks apart — Han-crystal fragments scatter</td></tr>
+<tr><td><strong>Han disperses</strong></td><td>The entity's sorrow energy releases into the environment</td></tr>
+<tr><td><strong>Consciousness scatters</strong></td><td>The entity's awareness fragments — but does not disappear</td></tr>
+<tr><td><strong>Sorrow returns to Weeping</strong></td><td>The core sorrow flows back to the river</td></tr>
+<tr><td><strong>Re-crystallization begins</strong></td><td>Over time, the sorrow re-accumulates</td></tr>
+</tbody></table></div>
+<p><strong>Time to re-form:</strong></p>
+<ul>
+<li>Minor entities (α): Days to weeks</li>
+<li>Moderate entities (β): Weeks to months</li>
+<li>Major entities (γ): Months to years</li>
+<li>Critical entities (δ): Years to decades</li>
+<li><span>Catastrophic entities (ω): Unknown — <a class="wiki-link" href="../locations/the-maw.html">The Maw</a> has never been destroyed</span></li>
+</ul>
+<h3>Why This Matters</h3>
+<p><strong>For the R.D.:</strong></p>
+<ul>
+<li>Containment is permanent — entities must be held forever</li>
+<li>"Destruction" is temporary — entities always return</li>
+<li>The R.D.'s work is never done — there is no final victory</li>
+</ul>
+<p><strong>For the city:</strong></p>
+<ul>
+<li>The city's sorrow is eternal — it cannot be eliminated</li>
+<li>The Weeping never stops — entities always form</li>
+<li>The cycle is unbreakable — or so it seems</li>
+</ul>
+<p><strong>For the entities:</strong></p>
+<ul>
+<li>They are prisoners of their own existence — they cannot die, cannot change, cannot escape</li>
+<li>They are victims of the system — crystallized grief, trapped in form</li>
+<li>They are not evil — they are <em>symptoms</em> of a broken world</li>
+</ul>
+<h3>The Exception: Absorption</h3>
+<p>There is one way to "destroy" an entity permanently: <strong>absorption</strong>.</p>
+<p><strong>What absorption means:</strong></p>
+<ul>
+<li>An entity's sorrow can be <strong>absorbed</strong> by a person — taken into themselves</li>
+<li>The entity's form dissolves — its sorrow merges with the person's own</li>
+<li>The entity does not return — its sorrow is now part of the person</li>
+</ul>
+<p><strong>The cost:</strong></p>
+<ul>
+<li>The person carries the entity's sorrow — forever</li>
+<li>The person's personality shifts — they become more like the entity</li>
+<li>The person may eventually <strong>Fracture</strong> — overwhelmed by the absorbed sorrow</li>
+</ul>
+<p><strong>Who can absorb:</strong></p>
+<ul>
+<li><strong>The Director</strong> — through the ω-M.A.W. fusion, they have absorbed entities</li>
+<li><strong>The Containment Lead</strong><span> — partially absorbed <a class="wiki-link" href="../locations/the-maw.html">The Maw</a></span></li>
+<li><strong>The Border Lead</strong> — absorbed an Outside Sorrow entity (Efflorescence)</li>
+<li><strong>The Silent One</strong> — unknown — they may have absorbed something from the Exile</li>
+</ul>
+<h3>Entity Immortality and the Cheongula</h3>
+<p><strong><span><a class="wiki-link" href="../locations/the-maw.html">The Maw</a>'s immortality:</span></strong></p>
+<p><a class="wiki-link" href="../locations/the-maw.html">The Maw</a><span> is the oldest <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> — formed from the First Sorrow. It has never been destroyed. It has never been contained. It has only </span><strong>grown</strong>.</p>
+<p><strong>The thousand are immortal too:</strong></p>
+<p>The 1,000 citizens consumed in the Cheongula are not dead — they are <strong><span>part of <a class="wiki-link" href="../locations/the-maw.html">The Maw</a></span></strong>. Their consciousness persists. Their sorrow persists. They are trapped — forever.</p></section>
+<section class="wiki-section hub-article" id="physical-form"><h2 class="section-title">Physical Form &amp; Death</h2><h3>Real Physical Bodies — Beyond "Living Crystal"</h3>
+<p><span>Every <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> has a </span><strong>real, physical body</strong>. An entity is not simply a "living crystal" — crystallized Han is only <em>one</em> of the materials a body can be made from. Each entity's body belongs to one of three material types:</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Type</th><th>What it is</th><th>Feel</th><th>Examples</th></tr></thead>
+<tbody>
+<tr><td><strong>Organic</strong></td><td>Flesh, bone, blood, plant matter, living tissue</td><td>Warm, wet; can bleed or rot</td><td>The Smothering Mother, The Weeping Willow, The Grieving Colossus</td></tr>
+<tr><td><strong>Non-Organic</strong></td><td>Crystal, metal, stone, smoke, liquid Han, shadow, light</td><td>Cold, dry, unchanging</td><td>The Orphaned Bell, The Debt Scale, The Drift Fog</td></tr>
+<tr><td><strong>Mixed</strong></td><td>A blend — e.g., an organic body armored in Han-crystal, flesh with stone limbs</td><td>Varies</td><td>(per entity)</td></tr>
+</tbody></table></div>
+<p>The classic "living crystal" look is a <strong>common non-organic</strong> form (frequent in high-Han-density and City-Sorrow entities) — but it is <strong>not the default</strong>. Every entity's <strong>Appearance</strong> section should name its material type and describe its actual body.</p>
+<h3>The Two "Kills" — Vessel Destruction &amp; Entity Suppression</h3>
+<p><span><a class="wiki-link" href="../entities/index.html">Sorrow Entities</a> are </span><strong>immortal</strong> — they cannot be <em>truly</em> killed, neither physically nor spiritually. The sorrow-core always persists. However, personnel speak of two operations as "killing" an entity:</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>"Kill" type</th><th>What it targets</th><th>Result</th></tr></thead>
+<tbody>
+<tr><td><strong>Vessel Destruction</strong> <em>(physical "kill")</em></td><td>The entity's <strong>physical body / vessel</strong></td><td>The body is shattered; the sorrow-core is shed as <strong>Han Crystal (Han Dust)</strong>. The sorrow itself persists (immortal) and may re-form a new vessel.</td></tr>
+<tr><td><strong>Entity Suppression</strong> <em>(spiritual "kill")</em></td><td>The <strong>sorrow-core / entity itself</strong></td><td>The entity is suppressed (contained); the vessel persists.</td></tr>
+</tbody></table></div>
+<p>So there are <strong>three containment outcomes</strong>:</p>
+<ol>
+<li><strong>Entity Suppression</strong> (spiritual) — hold the sorrow-core.</li>
+<li><strong>Transformation</strong> — the entity breaches / evolves (the vessel changes).</li>
+<li><strong>Vessel Destruction</strong> (physical) — destroy the body → <strong>Han Dust drop</strong>; the sorrow persists.</li>
+</ol>
+<h4>Han Crystal (Han Dust) — the Vessel-Destruction drop</h4>
+<p>When an entity's vessel is destroyed, its body breaks down into <strong>Han Crystal</strong>, ground to <strong>Han Dust</strong> — the only physical remains. It is a valuable resource: Architects re-forge it, the R.D. studies it, and the Frays trade it. The amount scales with the entity's <strong>potency (Alpha)</strong> grade:</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Potency</th><th>Han Dust dropped on Vessel Destruction</th></tr></thead>
+<tbody>
+<tr><td><strong>α (Minor)</strong></td><td><strong>1 g – 10 kg</strong></td></tr>
+<tr><td><strong>β (Moderate)</strong></td><td>~10 kg – 100 kg</td></tr>
+<tr><td><strong>γ (Major)</strong></td><td>~100 kg – 1 ton</td></tr>
+<tr><td><strong>δ (Critical)</strong></td><td>~1 – 10 tons</td></tr>
+<tr><td><strong>ω (Catastrophic)</strong></td><td>Vast / unstable — none has ever been vessel-destroyed</td></tr>
+</tbody></table></div>
+<h4>Vessel-Destructibility (who can be physically "killed")</h4>
+<p>Most entities can be Vessel-Destroyed (→ Han Dust drop). A minority <strong>cannot</strong> have their vessel destroyed and can only be Suppressed or Transform (no drop):</p>
+<ul>
+<li><strong>Not vessel-destructible:</strong> ω-grade entities, Place-manifestation entities, and the Named Sovereigns.</li>
+<li><strong>Vessel-destructible:</strong> all others.</li>
+</ul>
+<p>Because the sorrow-core is immortal, <strong>Vessel Destruction is never a permanent kill</strong> — the sorrow may eventually re-crystallize a new vessel from the Weeping. It ends <em>this</em> body (and yields Han Dust), not the entity.</p></section>
+<section class="wiki-section hub-article" id="origin">
+        <h2 class="section-title">Origin — The Weeping</h2>
+        <p>The source is the <strong>Weeping</strong> (울음, <em>Ul-eum</em>), the subterranean grief-well beneath the <a href="../lore/the-alpha-tree.html">Alpha Tree</a>. Unfinished searches, unpaid debts, and unnamed dead drain downward. What returns is not a ghost of one person. It is the pattern those people were forced to repeat.</p>
+        <p>Facility 01 sits on that well. Extraction Hall (Floor 3) draws Han; Maw’s Keep (Floor 2) holds the heavier cells; Deep Vault (Floor 6) stores specimens that should not see open corridors. The Directorate did not invent Sorrow Entities. It learned to house them, work them, and cut M.A.W. gear from the residue.</p>
+      </section>
+
+      <section class="wiki-section hub-article" id="classification">
+        <h2 class="section-title">Classification Code (SECC)</h2>
+        <p>Every specimen receives a unique code:</p>
+        <p class="hub-code-line"><code>[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]</code></p>
+        <p>Example: <code>C-IVδ-001 [LO]</code> — City origin, Entity coherence, Critical potency, register 001, Lament element, Object manifestation. Common name: The Orphaned Bell.</p>
+        <div class="table-wrap">
+          <table class="wiki-table hub-compact-table">
+            <thead>
+              <tr><th>Field</th><th>Values</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Origin</td><td><b>C</b> City (도한) · <b>O</b> Outside (외한) · <b>N</b> Inner (내한)</td></tr>
+              <tr><td>Coherence</td><td><b>I</b> Residue · <b>II</b> Echo · <b>III</b> Fragment · <b>IV</b> Entity · <b>V</b> Sovereign</td></tr>
+              <tr><td>Potency</td><td><b>α</b> Minor · <b>β</b> Moderate · <b>γ</b> Major · <b>δ</b> Critical · <b>ω</b> Catastrophic</td></tr>
+              <tr><td>Element</td><td><b>L</b> Lament · <b>G</b> Grudge · <b>V</b> Void · <b>W</b> Weight · <b>M</b> Mixed</td></tr>
+              <tr><td>Form</td><td><b>S</b> Subject · <b>O</b> Object · <b>P</b> Place · <b>T</b> Time · <b>H</b> Hybrid</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>Tool-type specimens (SE-001, SE-015) can be worked as relics; Place-type specimens occupy the room itself. Published codes:</p>
+        <div class="table-wrap">
+          <table class="wiki-table hub-compact-table">
+            <thead><tr><th>Code</th><th>Name</th></tr></thead>
+            <tbody>
+              <tr><td><code>C-IVδ-001 [LO]</code></td><td><a href="se-001-the-orphaned-bell.html">The Orphaned Bell</a></td></tr>
+              <tr><td><code>C-Vδ-002 [WS]</code></td><td><a href="se-002-the-grieving-colossus.html">The Grieving Colossus</a></td></tr>
+              <tr><td><code>O-Vγ-003 [WP]</code></td><td><a href="se-003-the-wilderness-tide.html">The Wilderness Tide</a></td></tr>
+              <tr><td><code>N-IVδ-005 [GS]</code></td><td><a href="se-005-the-smothering-mother.html">The Smothering Mother</a></td></tr>
+              <tr><td><code>O-IIγ-007 [VP]</code></td><td><a href="se-007-brume.html">Brume</a></td></tr>
+              <tr><td><code>C-IVγ-009 [VS]</code></td><td><a href="se-009-the-memory-weaver.html">The Memory Weaver</a></td></tr>
+              <tr><td><code>C-Vδ-010 [WS]</code></td><td><a href="se-010-the-convergence.html">The Convergence</a></td></tr>
+              <tr><td><code>C-Iα-011 [LP]</code></td><td><a href="se-011-the-whispering-walls.html">The Whispering Walls</a></td></tr>
+              <tr><td><code>C-IIIβ-014 [VS]</code></td><td><a href="se-014-the-debt-eater.html">The Debt Eater</a></td></tr>
+              <tr><td><code>C-IIIβ-015 [VO]</code></td><td><a href="se-015-the-debt-scale.html">The Debt Scale</a></td></tr>
+              <tr><td><code>C-IVω-001 [GP]</code></td><td><a href="../locations/the-maw.html">The Maw</a> (uncontained)</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="wiki-section hub-article" id="han">
+        <h2 class="section-title">Han damage</h2>
+        <p>Harm is not generic. Each entity strikes in one or more Han colors. Matching <a href="../maw/index.html">M.A.W. suits</a> are required before a work shift.</p>
+        <div class="hub-han-grid">
+          <a href="../mechanics/han-energy-and-damage.html">
+            <img src="../assets/icons/damage_lament.svg?v=20260830aa" alt="">
+            <b>Lament</b>
+            <small>Deep blue · SP / psyche</small>
+          </a>
+          <a href="../mechanics/han-energy-and-damage.html">
+            <img src="../assets/icons/damage_grudge.svg?v=20260830aa" alt="">
+            <b>Grudge</b>
+            <small>Crimson · HP / flesh</small>
+          </a>
+          <a href="../mechanics/han-energy-and-damage.html">
+            <img src="../assets/icons/damage_void.svg?v=20260830aa" alt="">
+            <b>Void</b>
+            <small>Pale white · max HP dissolve</small>
+          </a>
+          <a href="../mechanics/han-energy-and-damage.html">
+            <img src="../assets/icons/damage_weight.svg?v=20260830aa" alt="">
+            <b>Weight</b>
+            <small>Black · HP and SP together</small>
+          </a>
+        </div>
+      </section>
+
+      <section class="wiki-section hub-article" id="maw">
+        <h2 class="section-title">M.A.W. equipment</h2>
+        <p><strong>M.A.W.</strong> (Materialized Agony Weaponry) is the Directorate analog of extracted gear. A worked entity leaves a weapon, a suit, and a gift. Wearing another specimen’s sorrow without enough Resolve invites corrosion — the gift starts thinking in the agent’s place.</p>
+        <p>Registry: <a href="../maw/index.html">M.A.W. Armory</a>. Example yield from SE-001: <a href="../maw/maw-w-001-01-the-laments-requiem.html">Lament’s Requiem</a>, <a href="../maw/maw-s-001-01-the-laments-shroud.html">Lament Shroud</a>, <a href="../maw/maw-g-001-01-laments-edge.html">Lament’s Edge</a>.</p>
+      </section>
+
+      <section class="wiki-section hub-article" id="related">
+        <h2 class="section-title">Related phenomena</h2>
+        <ul class="hub-related">
+          <li><a href="../mechanics/ordeals-framework.html">Ordeals</a> — five colors × four watches; mortal, not contained.</li>
+          <li><a href="hope-transformations.html">Hope Transformations</a> — fourteen Dawn bonds, not SECC cells.</li>
+          <li><a href="unknown-entities.html">Unknown Entities</a> — seven named specimens outside the thirteen dossiers.</li>
+          <li><a href="entity-groups-and-chains.html">Entity groups</a> — birds, sisters, troupe, debt triplets.</li>
+          <li><a href="../lore/night-hazards-and-vigil.html">Night Hazards</a> — after-hours manifestations on the city side.</li>
+          <li><a href="../locations/the-maw.html">The Maw</a> — <code>C-IVω-001 [GP]</code>, the only ω-grade, uncontained Place-Grudge.</li>
+          <li><a href="../mechanics/ordeals-framework.html">Sorrow Gauge / breach</a> — the meter that turns a cell into a corridor problem.</li>
+        </ul>
+      </section>
+
+      <section class="wiki-section hub-article" id="codex">
+        <h2 class="section-title">Codex of thirteen</h2>
+        <p>Ten contained dossiers are on the public Archive — a fraction of the 288 catalogued specimens. Open the <a href="list.html">List of Sorrow Entities</a> for SECC, Han color, and M.A.W. yield in one table.</p>
+        <div class="entity-codex-grid">
+          <a class="entity-codex-tile" href="se-001-the-orphaned-bell.html" style="--tile:#38bdf8">
+            <span>SE-001 · δ CRITICAL</span>
+            <img src="../assets/art/entities/se-001-icon.svg" alt="">
+            <b>The Orphaned Bell</b>
+            <small>C-IVδ-001 [LO] · Lament Object</small>
+          </a>
+          <a class="entity-codex-tile" href="se-002-the-grieving-colossus.html" style="--tile:#94a3b8">
+            <span>SE-002 · δ CRITICAL</span>
+            <img src="../assets/art/entities/se-002-icon.svg" alt="">
+            <b>The Grieving Colossus</b>
+            <small>C-Vδ-002 [WS] · Weight Subject</small>
+          </a>
+          <a class="entity-codex-tile" href="se-003-the-wilderness-tide.html" style="--tile:#64748b">
+            <span>SE-003 · γ MAJOR</span>
+            <img src="../assets/art/entities/se-003-icon.svg" alt="">
+            <b>The Wilderness Tide</b>
+            <small>O-Vγ-003 [WP] · Weight Place</small>
+          </a>
+          <a class="entity-codex-tile" href="se-005-the-smothering-mother.html" style="--tile:#ef5b55">
+            <span>SE-005 · δ CRITICAL</span>
+            <img src="../assets/art/entities/se-005-icon.svg" alt="">
+            <b>The Smothering Mother</b>
+            <small>N-IVδ-005 [GS] · Grudge Subject</small>
+          </a>
+          <a class="entity-codex-tile" href="se-007-brume.html" style="--tile:#cbd5e1">
+            <span>SE-007 · γ MAJOR</span>
+            <img src="../assets/art/entities/se-007-icon.svg" alt="">
+            <b>Brume</b>
+            <small>O-IIγ-007 [VP] · Void Place</small>
+          </a>
+          <a class="entity-codex-tile" href="se-009-the-memory-weaver.html" style="--tile:#e7edf2">
+            <span>SE-009 · γ MAJOR</span>
+            <img src="../assets/art/entities/se-009-icon.svg" alt="">
+            <b>The Memory Weaver</b>
+            <small>C-IVγ-009 [VS] · Void Subject</small>
+          </a>
+          <a class="entity-codex-tile" href="se-010-the-convergence.html" style="--tile:#94a3b8">
+            <span>SE-010 · δ CRITICAL</span>
+            <img src="../assets/art/entities/se-010-icon.svg" alt="">
+            <b>The Convergence</b>
+            <small>C-Vδ-010 [WS] · Weight Subject</small>
+          </a>
+          <a class="entity-codex-tile" href="se-011-the-whispering-walls.html" style="--tile:#38bdf8">
+            <span>SE-011 · α MINOR</span>
+            <img src="../assets/art/entities/se-011-icon.svg" alt="">
+            <b>The Whispering Walls</b>
+            <small>C-Iα-011 [LP] · Lament Place</small>
+          </a>
+          <a class="entity-codex-tile" href="se-014-the-debt-eater.html" style="--tile:#f1df76">
+            <span>SE-014 · β MODERATE</span>
+            <img src="../assets/art/entities/se-014-icon.svg" alt="">
+            <b>The Debt Eater</b>
+            <small>C-IIIβ-014 [VS] · Void Subject</small>
+          </a>
+          <a class="entity-codex-tile" href="se-015-the-debt-scale.html" style="--tile:#f8fafc">
+            <span>SE-015 · β MODERATE</span>
+            <img src="../assets/art/entities/se-015-icon.svg" alt="">
+            <b>The Debt Scale</b>
+            <small>C-IIIβ-015 [VO] · Void Object</small>
+          </a>
+        </div>
+      </section>
+
+      <nav class="hub-navbox" aria-label="Sorrow Entities navigation">
+        <div class="hub-navbox-head">SORROW ENTITIES</div>
+        <p>
+          <a href="index.html">Sorrow Entities</a> ·
+          <a href="list.html">List of Sorrow Entities</a> ·
+          <a href="se-001-the-orphaned-bell.html">SE-001</a> ·
+          <a href="se-002-the-grieving-colossus.html">SE-002</a> ·
+          <a href="se-003-the-wilderness-tide.html">SE-003</a> ·
+          <a href="se-005-the-smothering-mother.html">SE-005</a> ·
+          <a href="se-007-brume.html">SE-007</a> ·
+          <a href="se-009-the-memory-weaver.html">SE-009</a> ·
+          <a href="se-010-the-convergence.html">SE-010</a> ·
+          <a href="se-011-the-whispering-walls.html">SE-011</a> ·
+          <a href="se-014-the-debt-eater.html">SE-014</a> ·
+          <a href="se-015-the-debt-scale.html">SE-015</a>
+        </p>
+      </nav>
+    </main>
+</div>
+
+
+  <script src="../assets/js/wiki.js?v=20260831g"></script>
+<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  <div class="footer-signal" aria-hidden="true">
+    <span>RD://PUBLIC-NET</span><i></i>
+    <span>SECC LINK STABLE</span><i></i>
+    <span>FACILITY 01 // GATE WATCH</span><i></i>
+    <span>PUBLICATION GATES PASSING</span>
+  </div>
+
+  <div class="footer-hero">
+    <section class="footer-identity" aria-label="Somnarak Wiki">
+      <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
+      <a class="footer-brand" href="../index.html">
+        <span class="footer-emblem"><img src="../assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
+      </a>
+      <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
+      <p>The public record follows Somnarak from the Alpha Tree and five city zones into Facility 01, where witnessed canon is curated without replacing absence with invention.</p>
+      <div class="footer-badges" aria-label="Archive classification">
+        <span>FACILITY 01</span><span>DIRECTORATE</span><span>PUBLIC CODEX</span>
+      </div>
+    </section>
+
+    <figure class="footer-network">
+      <div class="footer-network-frame">
+        <img src="../assets/layout/footer-directorate-network.svg" alt="Directorate archive topology linking the Alpha Tree, five city zones, Facility 01, Gate Watch, and eight public archive gateways"/>
+        <span class="footer-network-scan" aria-hidden="true"></span>
+      </div>
+      <figcaption><span>Live archive topology</span><b>ALPHA TREE → FACILITY 01 → PUBLIC CODEX</b></figcaption>
+    </figure>
+
+    <section class="footer-status" aria-label="Current archive status">
+      <span>Verified repository snapshot</span>
+      <strong>1.8.31</strong>
+      <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
+      <dl>
+        <div><dt>Public records</dt><dd>197 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
+        <div><dt>Cycle state</dt><dd>ENDED</dd></div>
+        <div><dt>Gate command</dt><dd>XYAN</dd></div>
+      </dl>
+    </section>
+  </div>
+
+  <div class="footer-directory">
+    <section class="footer-archives" aria-labelledby="footer-archives-title">
+      <header><span>Primary collections</span><h2 id="footer-archives-title">Eight Archive Gateways</h2><p>Continue through the complete public taxonomy.</p></header>
+      <div>
+        <a href="../characters/index.html" data-footer-archive="01" style="--gateway:#ef5b55"><span>01</span><b>Echo-Cores</b><small>Characters</small></a>
+        <a href="../lore/index.html" data-footer-archive="02" style="--gateway:#a78bfa"><span>02</span><b>Cycle Archive</b><small>Lore</small></a>
+        <a href="../locations/index.html" data-footer-archive="03" style="--gateway:#38bdf8"><span>03</span><b>City Atlas</b><small>Locations</small></a>
+        <a href="../factions/index.html" data-footer-archive="04" style="--gateway:#f59e0b"><span>04</span><b>Orders</b><small>Factions</small></a>
+        <a href="../departments/index.html" data-footer-archive="05" style="--gateway:#71efaf"><span>05</span><b>Hand of Change</b><small>Facility</small></a>
+        <a href="../entities/index.html" data-footer-archive="06" style="--gateway:#fb7185"><span>06</span><b>SECC Registry</b><small>Entities</small></a>
+        <a href="../maw/index.html" data-footer-archive="07" style="--gateway:#f1df76"><span>07</span><b>M.A.W. Arsenal</b><small>Equipment</small></a>
+        <a href="../mechanics/index.html" data-footer-archive="08" style="--gateway:#60a5fa"><span>08</span><b>Systems Codex</b><small>Mechanics</small></a>
+      </div>
+    </section>
+
+    <nav class="footer-links" aria-label="Archive resources">
+      <header><span>Project access</span><h2>Archive Resources</h2><p>Inspect provenance, files, and visual infrastructure.</p></header>
+      <div>
+        <a href="../project/source-map.html" data-footer-link="R-01"><b>Source Map</b><small>Canon provenance</small></a>
+        <a href="../downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
+        <a href="../assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
+        <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+      </div>
+    </nav>
+  </div>
+
+  <section class="footer-register" aria-label="Publication register">
+    <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
+    <dl>
+      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+    </dl>
+    <div class="footer-protocols">
+      <span><b>01</b> SOURCE-LED CONTENT</span>
+      <span><b>02</b> DISTINCT VISUAL FORM</span>
+      <span><b>03</b> NO RECOLOR-ONLY ART</span>
+      <span><b>04</b> VERIFIED LOCAL ROUTES</span>
+    </div>
+  </section>
+
+  <div class="footer-base">
+    <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
+    <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE EMBRACE PLATE">
+  <defs>
+    <radialGradient id="bgs005" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <radialGradient id="gls005" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#fb7185" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgs005)" stroke="#fb7185" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="128" fill="url(#gls005)"/>
+  
+  <!-- overlapping crimson Han-iron plates closing around the ribs -->
+  <ellipse cx="200" cy="200" rx="92" ry="118" fill="#450a0a" stroke="#fb7185" stroke-width="3"/>
+  <g fill="#7f1d1d" stroke="#fecaca" stroke-width="2">
+    <path d="M130 150 L200 130 L270 150 L260 190 L140 190 Z"/>
+    <path d="M138 188 L262 188 L250 230 L150 230 Z"/>
+    <path d="M150 228 L250 228 L236 270 L164 270 Z"/>
+  </g>
+  <path d="M164 270 C184 286 216 286 236 270" fill="none" stroke="#f1df76" stroke-width="2.4"/>
+    
+  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#fb7185" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#fb7185" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">SUIT // RIB PLATES</text>
+  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
+  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE EMBRACE PLATE</text>
+</svg>

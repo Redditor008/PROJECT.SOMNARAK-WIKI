@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" role="img" aria-labelledby="title desc">
+  <title id="title">Directorate Facility Incident Reports 001 through 010</title>
+  <desc id="desc">A ten-event incident rail marks breaches from the Silent Child to the Healing Shadow, with severity spikes, a fractured facility line, and totals of 44 Fractured and 356 incapacitated personnel.</desc>
+  <defs>
+    <linearGradient id="incident-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05090f"/>
+      <stop offset="0.62" stop-color="#11131a"/>
+      <stop offset="1" stop-color="#230b12"/>
+    </linearGradient>
+    <linearGradient id="severity" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#94a3b8"/>
+      <stop offset="0.5" stop-color="#f1df76"/>
+      <stop offset="1" stop-color="#ef5b55"/>
+    </linearGradient>
+    <pattern id="report-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#334155" stroke-width="1" opacity="0.3"/>
+    </pattern>
+    <filter id="incident-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="280" fill="url(#incident-bg)"/>
+  <rect width="1400" height="280" fill="url(#report-grid)"/>
+  <path d="M8 8H1392V272H8Z" fill="none" stroke="#94a3b8" stroke-width="2"/>
+  <path d="M20 29H525L544 12H930" fill="none" stroke="#ef5b55" stroke-width="2"/>
+  <text x="24" y="22" fill="#ef9aaa" font-family="monospace" font-size="9" letter-spacing="2">REVERIE DIRECTORATE // INCIDENT SEQUENCE</text>
+  <text x="1374" y="23" text-anchor="end" fill="#94a3b8" font-family="monospace" font-size="9" letter-spacing="2">CYCLE-ERA AND POST-CYCLE RECORDS</text>
+
+  <!-- A jagged facility trace runs through ten differently weighted incidents. -->
+  <path d="M72 164L178 164L205 145L270 176L350 164L428 164L456 105L490 185L548 164L636 164L669 127L706 164L784 164L813 192L850 164L934 164L968 80L1001 164L1090 164L1122 130L1160 164L1308 164" fill="none" stroke="#293a4b" stroke-width="13"/>
+  <path d="M72 164L178 164L205 145L270 176L350 164L428 164L456 105L490 185L548 164L636 164L669 127L706 164L784 164L813 192L850 164L934 164L968 80L1001 164L1090 164L1122 130L1160 164L1308 164" fill="none" stroke="#ef5b55" stroke-width="3" filter="url(#incident-glow)"/>
+
+  <g font-family="monospace" font-size="9" text-anchor="middle">
+    <g transform="translate(126 0)"><path d="M0 164V131" stroke="#94a3b8" stroke-width="4"/><circle cy="164" r="7" fill="#071018" stroke="#94a3b8" stroke-width="2"/><text y="122" fill="#cbd5e1">001</text><text y="190" fill="#7f91a1">SILENT</text></g>
+    <g transform="translate(252 0)"><path d="M0 164V94" stroke="#f1df76" stroke-width="5"/><circle cy="164" r="8" fill="#071018" stroke="#f1df76" stroke-width="2"/><text y="84" fill="#f1df76">002</text><text y="190" fill="#b8a960">CASCADE</text></g>
+    <g transform="translate(378 0)"><path d="M0 164V91" stroke="#f1df76" stroke-width="5"/><circle cy="164" r="8" fill="#071018" stroke="#f1df76" stroke-width="2"/><text y="81" fill="#f1df76">003</text><text y="190" fill="#b8a960">MOTHER</text></g>
+    <g transform="translate(504 0)"><path d="M0 164V52" stroke="#ef5b55" stroke-width="7"/><circle cy="164" r="9" fill="#260b12" stroke="#ef5b55" stroke-width="3"/><text y="42" fill="#ef7085">004</text><text y="190" fill="#d16878">DAWN</text></g>
+    <g transform="translate(630 0)"><path d="M0 164V42" stroke="#ef5b55" stroke-width="8"/><circle cy="164" r="10" fill="#260b12" stroke="#ef5b55" stroke-width="3"/><text y="32" fill="#ef7085">005</text><text y="190" fill="#d16878">ABYSS</text></g>
+    <g transform="translate(756 0)"><path d="M0 164V131" stroke="#94a3b8" stroke-width="4"/><circle cy="164" r="7" fill="#071018" stroke="#94a3b8" stroke-width="2"/><text y="122" fill="#cbd5e1">006</text><text y="190" fill="#7f91a1">MARCH</text></g>
+    <g transform="translate(882 0)"><path d="M0 164V88" stroke="#f1df76" stroke-width="5"/><circle cy="164" r="8" fill="#071018" stroke="#f1df76" stroke-width="2"/><text y="78" fill="#f1df76">007</text><text y="190" fill="#b8a960">MEMORY</text></g>
+    <g transform="translate(1008 0)"><path d="M0 164V112" stroke="#38bdf8" stroke-width="5"/><circle cy="164" r="8" fill="#071018" stroke="#38bdf8" stroke-width="2"/><text y="102" fill="#9ddff8">008</text><text y="190" fill="#6b9bb0">COLOSSUS</text></g>
+    <g transform="translate(1134 0)"><path d="M0 164V87" stroke="#f1df76" stroke-width="5"/><circle cy="164" r="8" fill="#071018" stroke="#f1df76" stroke-width="2"/><text y="77" fill="#f1df76">009</text><text y="190" fill="#b8a960">BELL</text></g>
+    <g transform="translate(1260 0)"><path d="M0 164V131" stroke="#94a3b8" stroke-width="4"/><circle cy="164" r="7" fill="#071018" stroke="#94a3b8" stroke-width="2"/><text y="122" fill="#cbd5e1">010</text><text y="190" fill="#7f91a1">SHADOW</text></g>
+  </g>
+
+  <!-- Totals and the red stamp turn the timeline into an operational ledger. -->
+  <g transform="translate(1032 34)">
+    <path d="M0 0H312V42H0Z" fill="#090d14" stroke="#ef5b55" stroke-width="2"/>
+    <text x="16" y="17" fill="#94a3b8" font-family="monospace" font-size="9" letter-spacing="2">ACCUMULATED PERSONNEL EFFECT</text>
+    <text x="16" y="34" fill="#ef7085" font-family="Impact, Arial Narrow, sans-serif" font-size="16">44 FRACTURED</text>
+    <text x="156" y="34" fill="#f1df76" font-family="Impact, Arial Narrow, sans-serif" font-size="16">356 INCAPACITATED</text>
+  </g>
+  <g transform="translate(72 60) rotate(-8)">
+    <path d="M0 0H250V47H0Z" fill="none" stroke="#ef5b55" stroke-width="4"/>
+    <path d="M7 7H243V40H7Z" fill="none" stroke="#ef5b55" stroke-width="1"/>
+    <text x="125" y="32" text-anchor="middle" fill="#ef7085" font-family="Impact, Arial Narrow, sans-serif" font-size="25" letter-spacing="5">BREACH RECORD</text>
+  </g>
+
+  <rect x="0" y="214" width="1400" height="66" fill="#020407" opacity="0.9"/>
+  <path d="M0 214H1400" stroke="#ef5b55" stroke-width="2"/>
+  <text x="30" y="239" fill="#94a3b8" font-family="monospace" font-size="10" letter-spacing="3">LORE / FACILITY 01 / REPORTS 001–010</text>
+  <text x="30" y="267" fill="#f1df76" font-family="Impact, Arial Narrow, sans-serif" font-size="24" letter-spacing="3">WHEN THE HAND BREAKS, THE RECORD KEEPS THE SEQUENCE</text>
+  <text x="1368" y="254" text-anchor="end" fill="#ef7085" font-family="monospace" font-size="10" letter-spacing="2">0 RECORDED DEATHS</text>
+</svg>

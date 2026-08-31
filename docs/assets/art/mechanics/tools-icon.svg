@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="RELIC TOOLS">
+  <defs>
+    <radialGradient id="ibgtoolsi" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <radialGradient id="igltoolsi" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/><stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#ibgtoolsi)" stroke="#38bdf8" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="128" fill="url(#igltoolsi)"/>
+  
+  <rect x="80" y="80" width="20" height="200" fill="#94a3b8"/>
+  <path d="M50 80 H130 L110 140 H70 Z" fill="#f1df76"/>
+  <circle cx="250" cy="200" r="50" fill="none" stroke="#38bdf8" stroke-width="6"/>
+  <path d="M300 90 L360 250 L240 250 Z" fill="#1c1917" stroke="#f1df76"/>
+
+  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">SYSTEMS  ·  UTILITY</text>
+  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
+  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.5">RELIC TOOLS</text>
+</svg>

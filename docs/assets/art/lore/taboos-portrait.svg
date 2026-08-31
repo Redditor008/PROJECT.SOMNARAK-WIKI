@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="The Ten Taboos">
+  <rect width="640" height="400" fill="#1a0508"/>
+  <g fill="none" stroke="#ef5b55" stroke-width="2">
+    <circle cx="320" cy="200" r="110"/>
+    <line x1="242" y1="122" x2="398" y2="278"/>
+  </g>
+  <g fill="#7f1d1d" stroke="#f1df76" stroke-width="1.2">
+    <rect x="86" y="70" width="70" height="44"/>
+    <rect x="86" y="178" width="70" height="44"/>
+    <rect x="86" y="286" width="70" height="44"/>
+    <rect x="484" y="70" width="70" height="44"/>
+    <rect x="484" y="178" width="70" height="44"/>
+    <rect x="484" y="286" width="70" height="44"/>
+  </g>
+  <text x="320" y="206" text-anchor="middle" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="28">X</text>
+  <text x="320" y="40" text-anchor="middle" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="20" letter-spacing="5">TEN TABOOS</text>
+</svg>

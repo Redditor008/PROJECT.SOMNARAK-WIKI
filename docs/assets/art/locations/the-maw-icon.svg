@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="The Maw — Cheongula pit, whispering buildings">
+  <rect width="400" height="400" fill="#05070c"/>
+  <rect x="18" y="18" width="364" height="364" fill="none" stroke="#ef5b55" stroke-width="8"/>
+  
+  <path d="M80 160 C70 90 150 70 200 110 C270 70 340 120 320 190 C350 250 280 320 200 300 C110 330 60 240 80 160 Z" fill="#111" stroke="#ef5b55" stroke-width="6"/>
+  <path d="M140 180 Q200 140 260 190 Q210 250 150 220" fill="#7f1d1d"/>
+  <path d="M110 200 H150 M250 210 H300 M160 260 H210" stroke="#f1df76" stroke-width="3" opacity=".5"/>
+
+  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">ATLAS  ·  THE MAW</text>
+</svg>

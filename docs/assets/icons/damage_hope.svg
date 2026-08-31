@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%" role="img" aria-label="Hope — warm rain through dawn fog">
+  <polygon points="60,4 114,24 114,86 60,116 6,86 6,24" fill="#1c1202" stroke="#fef08a" stroke-width="4"/>
+  <path d="M24 40 Q60 20 96 44" fill="none" stroke="#f1df76" stroke-width="2" opacity=".5"/>
+  <path d="M28 54 Q60 36 92 58" fill="none" stroke="#fdba74" stroke-width="2" opacity=".45"/>
+  <g fill="#f1df76">
+    <path d="M40 48 C36 60 38 70 40 78 C44 70 44 60 40 48 Z"/>
+    <path d="M60 36 C55 52 56 68 60 84 C65 68 66 52 60 36 Z"/>
+    <path d="M80 50 C76 62 78 72 80 80 C84 72 84 62 80 50 Z"/>
+  </g>
+  <g fill="#f8fafc" opacity=".8">
+    <path d="M50 58 C48 66 49 72 50 78 C52 72 52 66 50 58 Z"/>
+    <path d="M70 62 C68 70 69 76 70 82 C72 76 72 70 70 62 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>The Desolate (Hwangmuji) — Somnarak Official Wiki</title>
+<link href="../assets/css/wiki.css?v=20260831g" rel="stylesheet"/>
+<link href="../assets/icons/somnarak_icon.svg" rel="icon" type="image/svg+xml"/>
+<script defer="" src="../assets/js/wiki.js?v=20260831g"></script>
+</head>
+<body>
+<!-- Top Utility Bar -->
+<header class="utility" data-component="global-top-bar">
+  <div class="utility-left">
+    <button class="nav-open" type="button" aria-controls="primary-archive-navigation" aria-expanded="false" aria-label="Open primary archive navigation">
+      <span class="nav-open-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="nav-open-text">MENU</span>
+    </button>
+    <a class="utility-brand" href="../index.html" aria-label="Somnarak Wiki main page">
+      <img src="../assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
+    </a>
+    <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>
+  </div>
+  <nav class="utility-nav" id="primary-archive-navigation" aria-label="Primary archive">
+      <a href="../index.html" data-archive="00"><span>Main</span><small>Terminal</small></a>
+      <a href="../characters/index.html" data-archive="01"><span>Characters</span><small>Echo-Cores</small></a>
+      <a href="../lore/index.html" data-archive="02"><span>Lore</span><small>Cycles</small></a>
+      <a href="../locations/index.html" data-archive="03" class="is-current" aria-current="page"><span>Atlas</span><small>City</small></a>
+      <a href="../factions/index.html" data-archive="04"><span>Factions</span><small>Orders</small></a>
+      <a href="../departments/index.html" data-archive="05"><span>Facility</span><small>Floors</small></a>
+      <a href="../entities/index.html" data-archive="06"><span>Entities</span><small>SECC</small></a>
+      <a href="../maw/index.html" data-archive="07"><span>M.A.W.</span><small>Arsenal</small></a>
+      <a href="../mechanics/index.html" data-archive="08"><span>Mechanics</span><small>Systems</small></a>
+      <a href="../downloads.html" data-archive="09"><span>Downloads</span><small>Files</small></a>
+  </nav>
+  <div class="search" role="search">
+    <label for="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search Somnarak Wiki</span></label>
+    <input id="search" type="search" aria-label="Search Somnarak Wiki" aria-controls="results" aria-expanded="false" data-index="../data/search.json" placeholder="Search the archive" autocomplete="off" spellcheck="false"/>
+    <kbd aria-hidden="true">/</kbd>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</header>
+<!-- Main Grid Layout -->
+<div class="wiki-shell">
+<!-- Left Rail -->
+
+    <aside class="left-rail">
+      <div class="site-mark">
+        <a href="../index.html">
+          <img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+          <b>SOMNARAK</b>
+          <span>OFFICIAL WIKI ARCHIVE</span>
+        </a>
+      </div>
+      <nav aria-label="Wiki navigation" class="left-links">
+        <section>
+          <h2>DATABASE HUBS</h2>
+          <a href="../index.html">Main Overview</a>
+          <a href="../characters/index.html">Characters Hub</a>
+          <a href="../lore/index.html">Lore &amp; Cosmology</a>
+          <a href="../locations/index.html">Locations &amp; Atlas</a>
+          <a href="../factions/index.html">Factions &amp; Guilds</a>
+          <a href="../departments/index.html">Facility Floors</a>
+          <a href="../entities/index.html">Sorrow Entities</a>
+          <a href="../maw/index.html">M.A.W. Equipment</a>
+          <a href="../mechanics/index.html">Systems &amp; Mechanics</a>
+        </section>
+        <section>
+          <h2>THE NINE ECHO-CORES</h2>
+          <a href="../characters/the-director-majin.html">1. Director Majin</a>
+          <a href="../characters/the-secretary-seiyon.html">2. Seiyon (Secretary)</a>
+          <a href="../characters/the-containment-lead-dekan.html">3. Dekan (Containment)</a>
+          <a href="../characters/the-extraction-lead-zyrak.html">4. Zyrak (Extraction)</a>
+          <a href="../characters/the-research-lead-ayshuk.html">5. Ayshuk (Research)</a>
+          <a href="../characters/the-border-lead-mellda.html">6. Mellda (Border)</a>
+          <a href="../characters/the-archive-lead-marjuk.html">7. Marjuk (Archive)</a>
+          <a href="../characters/the-outsider-ishall.html">8. Ishall (Outsider)</a>
+          <a href="../characters/the-exile-xyan.html">9. Xyan (Exile)</a>
+        </section>
+        <section>
+          <h2>CARTOGRAPHY &amp; SCHEMATICS</h2>
+          <a href="../atlas/hand-of-change-map.html">Hand of Change Map</a>
+          <a href="../atlas/somnarak-city-map.html">Somnarak City Blueprint</a>
+          <a href="../project/source-map.html">Master Archive Map</a>
+        </section>
+      </nav>
+    </aside>
+
+<!-- Main Content Body -->
+<main id="content">
+<!-- Tactical Fast-Jump Subpage Bar -->
+<div class="fast-jump-nav">
+  <span class="fast-jump-title">/// RAPID JUMP:</span>
+  <div class="fast-jump-pills">
+    <a href="zone-a-core-nexus.html" class="jump-pill">Zone A: Core</a> <a href="zone-b-west-ward.html" class="jump-pill">Zone B: West</a> <a href="zone-c-collectors-row.html" class="jump-pill">Zone C: East</a> <a href="zone-d-forge-and-gardens.html" class="jump-pill">Zone D: Flanks</a> <a href="zone-e-perimeter-bulwark.html" class="jump-pill">Zone E: Bulwark</a> <a href="the-desolate.html" class="jump-pill active">The Desolate</a> <a href="the-maw.html" class="jump-pill">The Maw</a> <a href="the-library-of-stolen-pasts.html" class="jump-pill">Archive Library</a> <a href="district-structure-veil-and-raw.html" class="jump-pill">Urban Grid</a> <a href="index.html" class="jump-pill">✦ Atlas Hub</a>
+  </div>
+</div>
+<!-- Tactical Directive Status HUD -->
+<div class="tactical-directive-box">
+  <div class="directive-text">
+    <span class="led-dot led-green"></span> <b>STATUS:</b> ARCHIVE VERIFIED &nbsp;|&nbsp;
+    <b>CLEARANCE:</b> LEVEL-4 OVERSIGHT &nbsp;|&nbsp;
+    <b>PROTOCOL:</b> REVERIE DIRECTORATE
+  </div>
+  <img src="../assets/icons/hud_resonance_wave.svg" alt="Resonance Wave" class="directive-wave">
+</div>
+<!-- Page Tabs -->
+<div class="page-tabs">
+<span>ARTICLE</span>
+<span>DISCUSSION</span>
+<span>SOURCE</span>
+<span>HISTORY</span>
+<b>YEAR 4,238 · DAWN OF HOPE</b>
+</div>
+<!-- Breadcrumbs -->
+<div class="breadcrumbs">
+<a href="../index.html">Somnarak</a> <i>/</i>
+<a href="../locations/index.html">Locations &amp; Atlas</a> <i>/</i>
+<span>The Desolate (Hwangmuji)</span>
+</div>
+<!-- Article Header -->
+<div class="article-header">
+<div class="article-eyebrow">LOCATIONS &amp; ATLAS RECORD</div>
+<h1 class="article-title">The Desolate (Hwangmuji)</h1>
+<div class="article-subbar">
+<span class="badge badge-canon">CANONICAL ARTIFACT</span>
+<span class="badge badge-source">SOURCE VERIFIED</span>
+<div class="article-actions">
+<span class="action-btn">History</span>
+<span class="action-btn">View Source</span>
+</div>
+</div>
+</div>
+<div class="toc" id="toc">
+<div class="toc-title">Contents</div>
+<div class="toc-body">
+<ol>
+<li><a href="#overview">Overview</a></li>
+<li><a href="#the-liminal-space-between-city-and-wilderness">The Liminal Space — Between City and Wilderness</a></li>
+<li><a href="#i-what-the-desolate-is">I. What The Desolate Is</a></li>
+<li><a href="#ii-the-inhabitants">II. The Inhabitants</a></li>
+<li><a href="#iii-han-storms">III. Han-Storms</a></li>
+<li><a href="#iv-the-scar">IV. The Scar</a></li>
+<li><a href="#v-the-drift">V. The Drift</a></li>
+<li><a href="#vi-the-graveyard-of-attempts">VI. The Graveyard of Attempts</a></li>
+<li><a href="#vii-the-halfway-house">VII. The Halfway House</a></li>
+<li><a href="#viii-the-outer-watchtowers">VIII. The Outer Watchtowers</a></li>
+<li><a href="#x-the-questions">X. The Questions</a></li>
+<li><a href="#the-unofficial-zone-the-desolate">The Unofficial Zone — The Desolate</a></li>
+<li><a href="#iv-beyond-the-city">IV. Beyond the City</a></li>
+</ol>
+</div>
+</div>
+<!-- wiki-flare -->
+<div class="lore-article character-article wiki-article-grid">
+  <div class="character-main-content lore-main">
+<blockquote class="wiki-quote"><p>“Semi-structured Han. Not city, not Weeping. A grid that forgot its buildings.”</p><div class="quote-author">— Desolate primer</div></blockquote>
+<figure class="lore-banner"><img src="../assets/art/locations/desolate-banner.svg?v=20260831ap" alt="THE DESOLATE"></figure>
+<div class="prop-tile-grid"><article class="prop-tile" style="--tile:#64748b"><img src="../assets/art/locations/desolate-icon.svg" alt=""><b>Broken grid</b><small>Lines without rooms</small></article><article class="prop-tile" style="--tile:#f1df76"><img src="../assets/art/mechanics/element-weight.svg" alt=""><b>Weight</b><small>Sorrow in transition</small></article><article class="prop-tile" style="--tile:#f1df76"><img src="../assets/art/locations/ruins-icon.svg" alt=""><b>Ruin</b><small>What the grid lost</small></article></div>
+<section class="wiki-section" id="the-liminal-space-between-city-and-wilderness">
+<h2 class="section-title">The Liminal Space — Between City and Wilderness</h2>
+<div class="wiki-callout"><p><em>"The Desolate is not a place. It is a state — of being between, of belonging nowhere, of existing in the space where sorrow has not yet decided what to become."</em></p></div>
+</section>
+<section class="wiki-section" id="overview">
+<h2 class="section-title">Overview</h2>
+<p><a href="../locations/the-desolate.html" class="wiki-link">The Desolate</a> (황폐 — Hwangpye) is the 10 km buffer surrounding Somnarak — the liminal space between city and wilderness. It is not wilderness, not city — it is <em>in between</em>. Han flows like groundwater — seeping, pooling, evaporating. Buildings exist — outposts, ruins, camps — but <em>temporary</em>. The ground is <em>unstable</em> — structures sink, shift, collapse.</p>
+<p><a href="../locations/the-desolate.html" class="wiki-link">The Desolate</a> is the most dangerous place on Mugenhan outside the city walls. It is also the most free.</p>
+<p>Population: ~16,000 — exiles, nomads, outcasts, scavengers, frontier families, and R.D. field agents.</p>
+</section>
+<section class="wiki-section" id="i-what-the-desolate-is">
+<h2 class="section-title">I. What The Desolate Is</h2>
+<h3>The Nature</h3>
+<p><a href="../locations/the-desolate.html" class="wiki-link">The Desolate</a> is a <strong>liminal space</strong> — where Han is semi-structured. The city's Veil does not reach here. The wilderness's raw Han has not fully claimed it. <a href="../locations/the-desolate.html" class="wiki-link">The Desolate</a> exists in a state of <em>between</em> — not quite one thing, not quite another.</p>
+<p><strong>Properties:</strong></p>
+<ul>
+<li><strong>Han density:</strong> Higher than the city, lower than the wilderness</li>
+<li><strong>Ground stability:</strong> Unstable — structures sink, shift, collapse</li>
+<li><strong><span><a class="wiki-link" href="../entities/index.html">Sorrow Entities</a>:</span></strong> More frequent — a breeding ground</li>
+<li><strong>Weather:</strong> Han-storms, Sorrow Tides, emotional weather</li>
+<li><strong>Sound:</strong> Constant low hum — the planet's sorrow, audible</li>
+</ul>
+<h3>The Boundaries</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Boundary</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td><strong>Inner Edge (0 km)</strong></td><td><span>The city wall — <a class="wiki-link" href="../locations/zone-e-perimeter-bulwark.html">Zone E</a>'s outer perimeter</span></td></tr>
+<tr><td><strong>The Halfway House (5 km)</strong></td><td>Neutral ground — all factions pass through</td></tr>
+<tr><td><strong>The Scar (8 km)</strong></td><td>Rift where Han erupted during the Occlusihan</td></tr>
+<tr><td><strong>Outer Edge (10 km)</strong></td><td>The wilderness begins — raw, unstructured Han</td></tr>
+<tr><td><strong>Beyond (10+ km)</strong></td><td>The Fringe — the uncounted halo of the cast-out, ringed around the city and fading, with distance, into true wilderness — unknown, dangerous, unexplored</td></tr>
+</tbody></table></div>
+<p>Beyond the Outer Edge, the map does not go blank — it goes <em>uncounted</em>. The Fringe begins there: a halo ringing the city for tens of kilometers in every direction, home to roughly 1.29 billion people whom no form has ever reached. They are not citizens of Somnarak; they are its shadow population — the descendants and the outflows of six millennia of Gates. They live four ways:</p>
+<ul>
+<li><strong>The Somnarak slums (~700,000,000)</strong> — pressed against the outer wall itself and spilling down the halo's first kilometers: stacked shanties, gate-towns, lean-to districts built into the city's own outer skin. The densest of the four lives. The exiles who could not bear to walk away; the ones waiting to be let back in, or waiting for the walls to fall. Whatever happens inside the city is heard here first, as a rumor shouted over a fence.</li>
+<li><strong>The Somnarak villages (~340,000,000)</strong> — settled communities strung through the halo's middle band: farms working unstable ground, craft-towns parked on the Han-flows, market-villages the city's dealers officially pretend do not exist. Permanent in practice, unofficial on paper — second and third generations born uncounted, buried uncounted, and stubborn as either.</li>
+<li><strong>The Somnarak outside tribes (~160,000,000)</strong> — the deep-halo peoples: confederations of the original outcasts and the old lines who never once asked the city for anything. They govern themselves by their own rites, keep their own dead, and hold the far routes — the roads that leave the Somnarak sphere entirely, toward the other corners. The city calls them uncivilized. The city has not said it to their faces in living memory.</li>
+<li><strong>The Somnarak nomads (~90,000,000)</strong> — whole peoples in motion, following the Han-flows in circuits that ring the sphere: caravans, salt-trains, memory-keepers, storm-walkers. They carry news, goods, grief and trouble between slum, village and tribe — the only ones who cross all four lives as a matter of course. (The ~3,000 nomads counted inside the Desolate each season are simply the ones whose circuit is currently passing the buffer.)</li>
+</ul>
+<p>The halo thins the farther one walks. Slum gives way to village, village to tribe, nomad paths threading all of it — and at its far edge, the true wilderness begins.</p>
+<h3>The Ground</h3>
+<p>The Desolate's ground is not solid — it is <em>alive</em>. Han flows beneath the surface like groundwater, seeping through cracks, pooling in depressions, evaporating into the air. The ground shifts — structures sink, paths change, landmarks move.</p>
+<p><strong>What it feels like:</strong></p>
+<ul>
+<li>Soft — the ground yields beneath your feet, like walking on moss</li>
+<li>Warm — the Han beneath the surface radiates heat</li>
+<li>Alive — the ground pulses, faintly, like a heartbeat</li>
+<li>Unstable — the ground can open without warning, swallowing structures</li>
+</ul>
+</section>
+<section class="wiki-section" id="ii-the-inhabitants">
+<h2 class="section-title">II. The Inhabitants</h2>
+<h3>The Population (~16,000)</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Group</th><th>Description</th><th>Population</th><th>Character</th></tr></thead>
+<tbody>
+<tr><td><strong>Exiles</strong></td><td>Cast out through the Exile's Gate but didn't go far</td><td>~2,000</td><td>Bitter, resentful, surviving</td></tr>
+<tr><td><strong>Frontier Families</strong></td><td>Prefer the edge — too close for wilderness, too far for city</td><td>~5,000</td><td>Hardy, independent, suspicious</td></tr>
+<tr><td><strong>Nomads</strong></td><td>Follow Han flows — never settling permanently</td><td>~3,000</td><td>Free, spiritual, rootless</td></tr>
+<tr><td><strong>Outcasts</strong></td><td>Rejected the system — criminals, dissidents, the desperate</td><td>~4,000</td><td>Desperate, dangerous, diverse</td></tr>
+<tr><td><strong>Scavengers</strong></td><td>Harvest raw Han, Echoes, or Sorrow fragments from the edge</td><td>~1,500</td><td>Risk-takers, entrepreneurs, expendable</td></tr>
+<tr><td><strong>R.D. Field Agents</strong></td><td><span><a class="wiki-link" href="../factions/the-reverie-directorate.html">Reverie Directorate</a> personnel studying anomalies</span></td><td>~500</td><td>Professional, isolated, watched</td></tr>
+</tbody></table></div>
+<h3>The Exiles</h3>
+<p><strong>Who they are:</strong> Citizens cast out through the Exile's Gate — criminals, Taboo violators, political dissidents, the inconvenient. The Gate spits them into the Desolate — alive, but cut off from the city forever.</p>
+<p><strong>How they live:</strong></p>
+<ul>
+<li>Most settle near the inner edge — close enough to see the city, too far to return</li>
+<li>They build camps — temporary, fragile, constantly rebuilt</li>
+<li>They trade with the city — smuggling, scavenging, selling Desolate goods</li>
+<li>They carry the weight of exile — the sorrow of being unwanted</li>
+</ul>
+<p><strong>The exile's paradox:</strong> The Exiles hate the city that rejected them. But they cannot leave — the Desolate is the only home they have. They exist in a state of <em>between</em> — not part of the city, not part of the wilderness, not part of anything.</p>
+<h3>The Frontier Families</h3>
+<p><strong>Who they are:</strong> Citizens who chose the Desolate — not because they were exiled, but because they preferred the edge. Too close to the wilderness for comfort, too far from the city for safety.</p>
+<p><strong>How they live:</strong></p>
+<ul>
+<li>They build homesteads — small, sturdy, constantly maintained</li>
+<li>They raise children — the only children born in the Desolate</li>
+<li>They trade with the city — selling Desolate goods, buying supplies</li>
+<li>They live in fear — the Han-storms, the entities, the ground itself</li>
+</ul>
+<p><strong>The frontier paradox:</strong> The Families chose freedom over safety. But freedom in the Desolate means living with the constant threat of Han exposure, entity attack, and ground collapse. Their children grow up hard — tough, independent, afraid.</p>
+<h3>The Nomads</h3>
+<p><strong>Who they are:</strong> Citizens who follow Han flows — never settling, never staying, never stopping. The nomads are the Desolate's most spiritual inhabitants — they believe the Han is alive, that it speaks, that it guides.</p>
+<p><strong>How they live:</strong></p>
+<ul>
+<li>They travel in groups — families, clans, tribes</li>
+<li>They follow the Han — moving when it moves, stopping when it stops</li>
+<li>They worship the Han — not as a god, but as a <em>presence</em></li>
+<li>They read the Han — interpreting its flows, its pools, its storms</li>
+</ul>
+<p><strong>The Drift King:</strong> Kael (카엘) — the unofficial leader of the nomads. He rules from a mobile throne that follows Han flows. He has never entered the city. He rules the Desolate's black market — the only place where Outside Sorrow can be purchased legally.</p>
+<p><strong>The nomad paradox:</strong> The Nomads are the Desolate's freest inhabitants. But they are also its most rootless — they have no home, no history, no identity. They are the Han's children — and the Han does not love them.</p>
+<h3>The Outcasts</h3>
+<p><strong>Who they are:</strong> Citizens who rejected the system — criminals, dissidents, the desperate, the broken. They fled the city — not because they were exiled, but because they could not survive within it.</p>
+<p><strong>How they live:</strong></p>
+<ul>
+<li>They form gangs — small, violent, territorial</li>
+<li>They fight over resources — Han crystals, Echoes, territory</li>
+<li>They prey on others — scavengers, nomads, frontier families</li>
+<li>They die young — the Desolate is not kind to the desperate</li>
+</ul>
+<p><strong>The outcast paradox:</strong> The Outcasts fled the city's system. But they created their own system — harsher, crueler, more brutal. <a href="../locations/the-desolate.html" class="wiki-link">The Desolate</a> does not free them. <a href="../locations/the-desolate.html" class="wiki-link">The Desolate</a> simply gives them a different prison.</p>
+<h3>The Scavengers</h3>
+<p><strong>Who they are:</strong> Citizens who harvest the Desolate's resources — raw Han, Echoes, Sorrow fragments, entity parts. They are the Desolate's entrepreneurs — risk-takers who profit from the planet's grief.</p>
+<p><strong>How they live:</strong></p>
+<ul>
+<li>They work alone or in small teams</li>
+<li>They harvest raw Han — selling it to the city's black market</li>
+<li>They collect Echo fragments — selling them to collectors</li>
+<li>They hunt entity parts — selling them to the R.D. or the Frays</li>
+<li>They die frequently — the Desolate is not kind to the greedy</li>
+</ul>
+<p><strong>The scavenger paradox:</strong> The Scavengers profit from sorrow. But sorrow is unpredictable — a Han-storm, an entity attack, a ground collapse can end a scavenger's career in seconds. They live by luck. They die by the same.</p>
+<h3>The R.D. Field Agents</h3>
+<p><strong>Who they are:</strong><span> <a class="wiki-link" href="../factions/the-reverie-directorate.html">Reverie Directorate</a> personnel stationed in the Desolate — studying anomalies, monitoring Han flows, collecting data. They are the R.D.'s eyes and ears in the wilderness.</span></p>
+<p><strong>How they live:</strong></p>
+<ul>
+<li>They operate from field stations — small, fortified, isolated</li>
+<li>They study the Desolate — Han flows, entity formation, ground stability</li>
+<li>They report to the R.D. — sending data back to the facility</li>
+<li>They are watched — by the R.D., by the nomads, by the entities</li>
+</ul>
+<p><strong>The agent paradox:</strong> The Field Agents are the R.D.'s representatives in the Desolate. But the Desolate does not recognize the R.D.'s authority. The agents are alone — surrounded by Han, surrounded by entities, surrounded by the unknown.</p>
+</section>
+<section class="wiki-section" id="iii-han-storms">
+<h2 class="section-title">III. Han-Storms</h2>
+<h3>What They Are</h3>
+<p>Han-storms are waves of concentrated Han that sweep through the Desolate — like emotional weather, but more dangerous. The storms are caused by fluctuations in the Weeping — surges of sorrow that rise from beneath the planet's surface and sweep across the land.</p>
+<p><strong>Properties:</strong></p>
+<ul>
+<li><strong>Frequency:</strong> Monthly — during the Sorrow Tide</li>
+<li><strong>Duration:</strong> Hours to days</li>
+<li><strong>Intensity:</strong> Variable — from mild to catastrophic</li>
+<li><strong>Warning:</strong> The ground hums louder before a storm — the planet warns those who listen</li>
+</ul>
+<h3>The Effects</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Effect</th><th>Description</th><th>Danger Level</th></tr></thead>
+<tbody>
+<tr><td><strong>Emotional surge</strong></td><td>Citizens feel overwhelming sorrow — grief, rage, despair</td><td>High</td></tr>
+<tr><td><strong>Entity formation</strong></td><td><span>New <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a> crystallize from the storm's Han</span></td><td>Critical</td></tr>
+<tr><td><strong>Ground instability</strong></td><td>The ground shifts, opens, swallows structures</td><td>High</td></tr>
+<tr><td><strong>Han contamination</strong></td><td>Raw Han saturates the air — exposure causes Fracture</td><td>Critical</td></tr>
+<tr><td><strong>Communication loss</strong></td><td>Han-energy disrupts signals — the Desolate goes silent</td><td>Medium</td></tr>
+</tbody></table></div>
+<h3>How Inhabitants Survive</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Group</th><th>Survival Method</th></tr></thead>
+<tbody>
+<tr><td><strong>Exiles</strong></td><td>Shelter in reinforced camps — weather the storm</td></tr>
+<tr><td><strong>Frontier Families</strong></td><td>Underground shelters — hide until it passes</td></tr>
+<tr><td><strong>Nomads</strong></td><td>Read the Han — move before the storm arrives</td></tr>
+<tr><td><strong>Outcasts</strong></td><td>Fight through it — or die trying</td></tr>
+<tr><td><strong>Scavengers</strong></td><td>Harvest during the storm — the Han is richest then</td></tr>
+<tr><td><strong>R.D. Agents</strong></td><td>Monitor from fortified stations — collect data</td></tr>
+</tbody></table></div>
+</section>
+<section class="wiki-section" id="iv-the-scar">
+<h2 class="section-title">IV. The Scar</h2>
+<h3>What It Is</h3>
+<p>The Scar (흉터 — Pyukneo) is a rift in the Desolate — a wound in the planet's surface where Han erupted during the Occlusihan (the war between six factions, 6,000 years ago). The Scar is still smoking — Han seeps from the rift, the ground is warm, the air is thick with ancient rage.</p>
+<p><strong>Location:</strong> 8 km from the city — deep in the Desolate</p>
+<p><strong>Appearance:</strong></p>
+<ul>
+<li>A massive rift — kilometers long, hundreds of meters deep</li>
+<li>The walls are made of crystallized rage — red, burning, pulsing</li>
+<li>The ground is warm — the Han beneath is ancient, hot, furious</li>
+<li>The air smells of smoke — the Occlusihan's rage, still burning</li>
+</ul>
+<h3>The Scar Walker</h3>
+<p>The Scar is guarded by <strong>The Scar Walker</strong><span> — a <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> born from the rage of the six factions that fought in the Occlusihan. The Walker patrols the rift — attacking anyone who disrespects the site.</span></p>
+<p><strong>Behavior:</strong></p>
+<ul>
+<li>The Walker appears when anyone approaches the Scar</li>
+<li>It judges — watching, evaluating, deciding</li>
+<li>If the visitor shows respect, the Walker allows passage</li>
+<li>If the visitor shows disrespect, the Walker attacks — forcing them to feel the Occlusihan's rage</li>
+</ul>
+<h3>The Occlusihan</h3>
+<p>The Occlusihan was a war — fought 6,000 years ago, between six factions that no longer exist. The war was about Han — who controlled it, who used it, who profited from it. The war ended when the Han erupted — consuming the battlefield, creating the Scar, killing thousands.</p>
+<p><strong>The six factions:</strong></p>
+<ul>
+<li>The names have been erased from the Archive</li>
+<li>The rage remains — crystallized in the Scar's walls</li>
+<li>The Walker guards their memory — ensuring the war is not forgotten</li>
+</ul>
+</section>
+<section class="wiki-section" id="v-the-drift">
+<h2 class="section-title">V. The Drift</h2>
+<h3>What It Is</h3>
+<p>The Drift (漂流 — Hyouryu) is the nomads' mobile settlement — a city that moves, following Han flows across the Desolate. The Drift is never in the same place twice — it follows the Han, stopping when the Han pools, moving when the Han flows.</p>
+<p><strong>Appearance:</strong></p>
+<ul>
+<li>A collection of tents, carts, and mobile structures</li>
+<li>Built on platforms that float on the Han — like boats on a sea of sorrow</li>
+<li>The structures are temporary — erected in hours, dismantled in minutes</li>
+<li>The Drift glows faintly — the Han beneath the platforms pulses with light</li>
+</ul>
+<h3>The Drift King's Court</h3>
+<p>The Drift King (Kael) rules from a mobile throne — a platform that follows the Drift, always at its center. The throne is made of crystallized Outside Sorrow — wild Han that Kael has shaped into a seat of power.</p>
+<p><strong>The court:</strong></p>
+<ul>
+<li>Kael sits on his throne — surrounded by advisors, guards, merchants</li>
+<li>Citizens come to trade — Desolate goods, city goods, information</li>
+<li>Disputes are settled — Kael is the Desolate's judge</li>
+<li>The black market operates — the only place where Outside Sorrow can be purchased</li>
+</ul>
+<h3>The Drift's Culture</h3>
+<p>The nomads have their own culture — separate from the city, separate from the wilderness, unique to the Desolate.</p>
+<p><strong>Values:</strong></p>
+<ul>
+<li><strong>Freedom</strong> — the nomads value freedom above all else</li>
+<li><strong>Mobility</strong> — the nomads never settle, never stay, never stop</li>
+<li><strong>Connection</strong> — the nomads believe the Han is alive, that it speaks, that it guides</li>
+<li><strong>Respect</strong> — the nomads respect the Han, the entities, the planet</li>
+</ul>
+<p><strong>Traditions:</strong></p>
+<ul>
+<li><strong>The Reading</strong> — nomads read the Han's flows, interpreting its messages</li>
+<li><strong>The Drift</strong> — nomads follow the Han, stopping when it stops, moving when it moves</li>
+<li><strong>The Gathering</strong> — nomads gather annually at the Drift — trading, celebrating, mourning</li>
+<li><strong>The Scar Walk</strong> — nomads visit the Scar annually — paying respect to the dead</li>
+</ul>
+</section>
+<section class="wiki-section" id="vi-the-graveyard-of-attempts">
+<h2 class="section-title">VI. The Graveyard of Attempts</h2>
+<h3>What It Is</h3>
+<p>The Graveyard of Attempts (시도의 묘지 — Sido-ui Myoji) is a field of ruins — the remains of failed R.D. containment facilities, destroyed by entity breaches, Han-storms, or the Desolate itself. The Graveyard is a reminder that the Desolate cannot be tamed.</p>
+<p><strong>Location:</strong> 6 km from the city — in the Desolate's inner zone</p>
+<p><strong>Appearance:</strong></p>
+<ul>
+<li>Ruins — shattered buildings, collapsed structures, broken Han-crystal</li>
+<li>Entities — some of the failed facilities' entities still wander the ruins</li>
+<li>Han pools — the Graveyard is saturated with raw Han — the ground glows faintly</li>
+<li>Silence — the Graveyard is eerily quiet, as if the Desolate is holding its breath</li>
+</ul>
+<h3>The Failed Facilities</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Facility</th><th>Year</th><th>Failure</th><th>Current Status</th></tr></thead>
+<tbody>
+<tr><td><strong>Outpost Alpha</strong></td><td>Year 4210</td><td>Entity breach — first attempt at Desolate containment</td><td>Ruins — entities still present</td></tr>
+<tr><td><strong>Station Beta</strong></td><td>Year 4215</td><td>Han-storm — facility overwhelmed by raw Han</td><td>Submerged — partially underground</td></tr>
+<tr><td><strong>Post Gamma</strong></td><td>Year 4220</td><td>Ground collapse — the Desolate swallowed the facility</td><td>Buried — only the roof visible</td></tr>
+<tr><td><strong>Camp Delta</strong></td><td>Year 4225</td><td>Internal Fracture — personnel Fractured from Han exposure</td><td>Abandoned — entities inhabit it</td></tr>
+<tr><td><strong>Base Epsilon</strong></td><td>Year 4230</td><td>Unknown — the facility simply... disappeared</td><td>Empty — nothing remains</td></tr>
+</tbody></table></div>
+<h3>The Lesson</h3>
+<p>The Graveyard teaches the R.D. a lesson: <strong>the Desolate cannot be contained.</strong> The city's systems do not work here — the Han is too wild, the entities too unpredictable, the ground too unstable. <a href="../locations/the-desolate.html" class="wiki-link">The Desolate</a> is not a place for facilities. <a href="../locations/the-desolate.html" class="wiki-link">The Desolate</a> is a place for people — people who can adapt, who can move, who can survive.</p>
+</section>
+<section class="wiki-section" id="vii-the-halfway-house">
+<h2 class="section-title">VII. The Halfway House</h2>
+<h3>What It Is</h3>
+<p>The Halfway House (중간 집 — Junggan Jip) is an inn at the 5 km mark — neutral ground where all factions pass through. The Halfway House is the Desolate's only permanent structure — a building that does not sink, does not shift, does not collapse.</p>
+<p><strong>Location:</strong> 5 km from the city — the Desolate's midpoint</p>
+<p><strong>Appearance:</strong></p>
+<ul>
+<li>A building — sturdy, ancient, made of Han-crystal that does not corrode</li>
+<li>A tavern — the ground floor, serving food, drink, and information</li>
+<li>Rooms — upper floors, for rent, for rest, for hiding</li>
+<li>A courtyard — open, surrounded by walls, neutral territory</li>
+</ul>
+<h3>The Rules</h3>
+<p>The Halfway House operates under strict rules — rules that all factions respect:</p>
+<ol>
+<li><strong>No violence</strong> — fighting inside the House is forbidden</li>
+<li><strong>No faction insignia</strong> — all faction symbols must be removed</li>
+<li><strong>No debt collection</strong> — the Collectors have no authority here</li>
+<li><strong>No Taboo enforcement</strong> — the Giltong have no authority here</li>
+<li><strong>No judgment</strong> — everyone is equal inside the House</li>
+</ol>
+<h3>The Proprietor</h3>
+<p>The Halfway House is run by <strong>The Innkeeper</strong> — a figure whose identity is unknown. The Innkeeper has run the House for as long as anyone can remember. The Innkeeper does not age. The Innkeeper does not change. The Innkeeper simply... serves.</p>
+<p><strong>The Innkeeper's secret:</strong> The Halfway House is built on a Han-well — a point where the Weeping surfaces. The building does not sink because the Han supports it. The building does not shift because the Han anchors it. The building exists because the Han <em>allows</em> it.</p>
+</section>
+<section class="wiki-section" id="viii-the-outer-watchtowers">
+<h2 class="section-title">VIII. The Outer Watchtowers</h2>
+<h3>What They Are</h3>
+<p>The Outer Watchtowers (외부 망루 — Oebu Mangnu) are extended Warden positions — the first line of defense against wilderness threats. The Watchtowers are manned by Wardens who have volunteered for Desolate duty — the most dangerous, most isolated, most thankless assignment in the city.</p>
+<p><strong>Location:</strong> 9 km from the city — at the Desolate's outer edge</p>
+<p><strong>Appearance:</strong></p>
+<ul>
+<li>Towers — tall, narrow, made of reinforced Han-crystal</li>
+<li>Spotlights — Han-powered lights that scan the wilderness</li>
+<li>Barriers — Han-crystal walls that block entity approach</li>
+<li>Communication arrays — Han-energy transmitters that connect to the city</li>
+</ul>
+<h3>The Watch</h3>
+<p><span><a class="wiki-link" href="../factions/the-wardens.html">The Wardens</a> in the Watchtowers maintain a constant vigil — watching the wilderness, monitoring Han flows, reporting anomalies. They are the city's eyes in the dark.</span></p>
+<p><strong>What they watch for:</strong></p>
+<ul>
+<li><strong>Entity movement</strong><span> — <a class="wiki-link" href="../entities/index.html">Sorrow Entities</a> approaching from the wilderness</span></li>
+<li><strong>Han-storms</strong> — waves of concentrated Han sweeping toward the city</li>
+<li><strong>Nomad activity</strong> — the Drift's movements, the nomads' trades</li>
+<li><strong>Unknown threats</strong> — anything that should not exist</li>
+</ul>
+<p><strong>The Watch's burden:</strong><span> <a class="wiki-link" href="../factions/the-wardens.html">The Wardens</a> in the Watchtowers see things that the city does not want to know. They see the Desolate's beauty — the Han-storms' colors, the nomads' freedom, the entities' grace. They see the Desolate's horror — the Fractures, the collapses, the deaths. They carry the weight of what they see.</span></p>
+</section>
+
+<section class="wiki-section" id="x-the-questions">
+<h2 class="section-title">X. The Questions</h2>
+<h3>What The Desolate Asks</h3>
+<p><a href="../locations/the-desolate.html" class="wiki-link">The Desolate</a> asks questions that the city cannot answer:</p>
+<ul>
+<li><strong>Is the Desolate growing?</strong> As the city's sorrow expands, does the Desolate grow?</li>
+<li><strong>What lies beyond the wilderness?</strong> What exists past the 10 km mark?</li>
+<li><strong>Are the nomads free?</strong> Or are they prisoners of the Han?</li>
+<li><strong>Can the Desolate be contained?</strong> Or is it too wild, too unpredictable?</li>
+<li><strong>Is the Desolate the city's future?</strong> As the city's sorrow grows, does it become more like the Desolate?</li>
+</ul>
+<p><em>"The Desolate is not a place. It is a state — of being between, of belonging nowhere, of existing in the space where sorrow has not yet decided what to become. The city fears the Desolate. The wilderness ignores it. <a href="../locations/the-desolate.html" class="wiki-link">The Desolate</a> simply... is."</em></p>
+<p>— Kael, the Drift King, in conversation with the R.D.</p>
+</section>
+
+  </div>
+<aside class="character-infobox" style="--entity:#64748b">
+  <h2>THE DESOLATE</h2>
+  <div class="infobox-image-wrap">
+    <img src="../assets/art/locations/desolate-icon.svg" alt="THE DESOLATE">
+  </div>
+  <h3>Hwangmuji</h3>
+  <dl class="fact-grid"><dt>Korean</dt><dd>황무지</dd><dt>Nature</dt><dd>Han in transition</dd><dt>Risk</dt><dd>Weight without walls</dd></dl>
+</aside>
+</div>
+<!-- Page Footer -->
+
+<!-- Bottom Cross-Reference Directory -->
+<section class="cross-reference-section">
+  <div class="cross-ref-header">CANONICAL CROSS-LINKS &amp; ATLAS CONNECTIONS</div>
+  <div class="cross-ref-grid">
+    <a href="../departments/floor-1-neutral-command.html" class="cross-ref-card">
+      <img src="../assets/layout/hand/icons/icon_dept_f1_neutral.svg" alt="Command">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">FACILITY COMMAND</span><span class="cross-ref-title">NEUTRAL COMMAND</span></div>
+    </a> <a href="../characters/the-director-majin.html" class="cross-ref-card">
+      <img src="../assets/icons/icon_core_majin.svg" alt="Majin">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">EXECUTIVE LEAD</span><span class="cross-ref-title">DIRECTOR MAJIN</span></div>
+    </a> <a href="../lore/the-cycle-and-absolvohan.html" class="cross-ref-card">
+      <img src="../assets/icons/ref_absolvohan.svg" alt="Absolvohan">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">PRIMARY CANON</span><span class="cross-ref-title">1,778 CYCLES</span></div>
+    </a> <a href="../atlas/hand-of-change-map.html" class="cross-ref-card">
+      <img src="../assets/layout/hand/icons/the_hand_dr_icon_styled.svg" alt="Facility Map">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">SCHEMATIC ATLAS</span><span class="cross-ref-title">HAND OF CHANGE MAP</span></div>
+    </a>
+  </div>
+</section>
+<section class="wiki-section" id="the-unofficial-zone-the-desolate"><h2 class="section-title">The Unofficial Zone — The Desolate</h2>
+<h3>The Unofficial Zone — The Desolate (황폐 — Hwangpye)</h3>
+<p><strong>Status:</strong> Unofficial. Not recognized by the Council. Not on official maps.</p>
+<p><strong>What it is:</strong> The 10 km buffer surrounding Somnarak — the liminal space between city and wilderness.</p>
+<p><strong>Area:</strong> ~559 km² | <strong>Total (city + Desolate):</strong> ~645 km²</p>
+<p><strong>Character:</strong></p>
+<ul>
+<li>Not wilderness, not city — <strong>in between</strong></li>
+<li>Han flows like groundwater — seeping, pooling, evaporating</li>
+<li>Buildings exist — outposts, ruins, camps — but <strong>temporary</strong></li>
+<li>Ground is <strong>unstable</strong> — structures sink, shift, collapse</li>
+<li><span><a class="wiki-link" href="../entities/index.html">Sorrow Entities</a> form more frequently — a </span><strong>breeding ground</strong></li>
+</ul>
+<p><strong>Why unofficial:</strong> The Council does not recognize it. Wardens patrol but don't govern. Architects don't build there. City law does not apply.</p>
+<p><strong>Population (~16,000):</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Group</th><th>Description</th><th>Pop</th></tr></thead>
+<tbody>
+<tr><td>Exiles</td><td>Cast out through the Exile's Gate but didn't go far</td><td>~2,000</td></tr>
+<tr><td>Frontier families</td><td>Prefer the edge — too close for wilderness, too far for city</td><td>~5,000</td></tr>
+<tr><td>Nomads</td><td>Follow Han flows — never settling permanently</td><td>~3,000</td></tr>
+<tr><td>Outcasts</td><td>Rejected the system — criminals, dissidents, the desperate</td><td>~4,000</td></tr>
+<tr><td>Scavengers</td><td>Harvest raw Han, Echoes, or Sorrow fragments from the edge</td><td>~1,500</td></tr>
+<tr><td>R.D. field agents</td><td><span><a class="wiki-link" href="../factions/the-reverie-directorate.html">Reverie Directorate</a> personnel studying anomalies</span></td><td>~500</td></tr>
+</tbody></table></div>
+<p><strong>Key locations:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Location</th><th>Character</th></tr></thead>
+<tbody>
+<tr><td><strong>The Drift</strong></td><td>Mobile settlement following Han flows — never in the same place</td></tr>
+<tr><td><strong>The Scar</strong></td><td>Rift where Han erupted during the Occlusihan — still smoking</td></tr>
+<tr><td><strong>The Halfway House</strong></td><td>Inn at the 5 km mark — neutral ground, all factions pass through</td></tr>
+<tr><td><strong>The Graveyard of Attempts</strong></td><td>Ruins of failed containment facilities — entities broke free</td></tr>
+<tr><td><strong>The Outer Watchtowers</strong></td><td>Extended Warden positions — first line against wilderness threats</td></tr>
+</tbody></table></div>
+<p><strong>Significance:</strong> <a class="wiki-link" href="../locations/the-desolate.html">The Desolate</a> is the <strong>liminal space</strong> — where Han is semi-structured. The <a class="wiki-link" href="../factions/the-reverie-directorate.html">Reverie Directorate</a> studies it as a field laboratory. Some say it's growing — the city's sorrow is expanding.</p></section>
+<section class="wiki-section" id="iv-beyond-the-city"><h2 class="section-title">IV. Beyond the City</h2><h3>The Wilderness</h3>
+<p><span>Beyond <a class="wiki-link" href="../locations/zone-e-perimeter-bulwark.html">Zone E</a> lies </span><strong>wilderness</strong> — untamed land where sorrow has not been structured.</p>
+<ul>
+<li>Raw, unshaped Han flows through the land like rivers or mist</li>
+<li>Natural features are distorted — trees that weep, stones that whisper, water that reflects memories</li>
+<li><strong>Sorrow-Wrought</strong> entities roam freely</li>
+<li>Some say the wilderness is what the world looked like <em>before</em> the city — Han in its natural state</li>
+</ul>
+<h3>Other Settlements</h3>
+<p>Somnarak is not alone. Other cities or settlements exist in the wilderness:</p>
+<ul>
+<li>Rival cities built on different emotional foundations (wrath, fear, joy, love)</li>
+<li>Smaller outposts that depend on Somnarak but resent it</li>
+<li>Nomadic groups that follow Han flows, never building permanent structures</li>
+<li>Ruins of cities that failed — warnings of what happens when Han cannot be managed</li>
+</ul></section>
+</main>
+</div>
+<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  <div class="footer-signal" aria-hidden="true">
+    <span>RD://PUBLIC-NET</span><i></i>
+    <span>SECC LINK STABLE</span><i></i>
+    <span>FACILITY 01 // GATE WATCH</span><i></i>
+    <span>PUBLICATION GATES PASSING</span>
+  </div>
+
+  <div class="footer-hero">
+    <section class="footer-identity" aria-label="Somnarak Wiki">
+      <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
+      <a class="footer-brand" href="../index.html">
+        <span class="footer-emblem"><img src="../assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
+      </a>
+      <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
+      <p>The public record follows Somnarak from the Alpha Tree and five city zones into Facility 01, where witnessed canon is curated without replacing absence with invention.</p>
+      <div class="footer-badges" aria-label="Archive classification">
+        <span>FACILITY 01</span><span>DIRECTORATE</span><span>PUBLIC CODEX</span>
+      </div>
+    </section>
+
+    <figure class="footer-network">
+      <div class="footer-network-frame">
+        <img src="../assets/layout/footer-directorate-network.svg" alt="Directorate archive topology linking the Alpha Tree, five city zones, Facility 01, Gate Watch, and eight public archive gateways"/>
+        <span class="footer-network-scan" aria-hidden="true"></span>
+      </div>
+      <figcaption><span>Live archive topology</span><b>ALPHA TREE → FACILITY 01 → PUBLIC CODEX</b></figcaption>
+    </figure>
+
+    <section class="footer-status" aria-label="Current archive status">
+      <span>Verified repository snapshot</span>
+      <strong>1.8.31</strong>
+      <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
+      <dl>
+        <div><dt>Public records</dt><dd>197 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
+        <div><dt>Cycle state</dt><dd>ENDED</dd></div>
+        <div><dt>Gate command</dt><dd>XYAN</dd></div>
+      </dl>
+    </section>
+  </div>
+
+  <div class="footer-directory">
+    <section class="footer-archives" aria-labelledby="footer-archives-title">
+      <header><span>Primary collections</span><h2 id="footer-archives-title">Eight Archive Gateways</h2><p>Continue through the complete public taxonomy.</p></header>
+      <div>
+        <a href="../characters/index.html" data-footer-archive="01" style="--gateway:#ef5b55"><span>01</span><b>Echo-Cores</b><small>Characters</small></a>
+        <a href="../lore/index.html" data-footer-archive="02" style="--gateway:#a78bfa"><span>02</span><b>Cycle Archive</b><small>Lore</small></a>
+        <a href="../locations/index.html" data-footer-archive="03" style="--gateway:#38bdf8"><span>03</span><b>City Atlas</b><small>Locations</small></a>
+        <a href="../factions/index.html" data-footer-archive="04" style="--gateway:#f59e0b"><span>04</span><b>Orders</b><small>Factions</small></a>
+        <a href="../departments/index.html" data-footer-archive="05" style="--gateway:#71efaf"><span>05</span><b>Hand of Change</b><small>Facility</small></a>
+        <a href="../entities/index.html" data-footer-archive="06" style="--gateway:#fb7185"><span>06</span><b>SECC Registry</b><small>Entities</small></a>
+        <a href="../maw/index.html" data-footer-archive="07" style="--gateway:#f1df76"><span>07</span><b>M.A.W. Arsenal</b><small>Equipment</small></a>
+        <a href="../mechanics/index.html" data-footer-archive="08" style="--gateway:#60a5fa"><span>08</span><b>Systems Codex</b><small>Mechanics</small></a>
+      </div>
+    </section>
+
+    <nav class="footer-links" aria-label="Archive resources">
+      <header><span>Project access</span><h2>Archive Resources</h2><p>Inspect provenance, files, and visual infrastructure.</p></header>
+      <div>
+        <a href="../project/source-map.html" data-footer-link="R-01"><b>Source Map</b><small>Canon provenance</small></a>
+        <a href="../downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
+        <a href="../assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
+        <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+      </div>
+    </nav>
+  </div>
+
+  <section class="footer-register" aria-label="Publication register">
+    <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
+    <dl>
+      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+    </dl>
+    <div class="footer-protocols">
+      <span><b>01</b> SOURCE-LED CONTENT</span>
+      <span><b>02</b> DISTINCT VISUAL FORM</span>
+      <span><b>03</b> NO RECOLOR-ONLY ART</span>
+      <span><b>04</b> VERIFIED LOCAL ROUTES</span>
+    </div>
+  </section>
+
+  <div class="footer-base">
+    <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
+    <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+  </div>
+</footer>
+</body>
+</html>

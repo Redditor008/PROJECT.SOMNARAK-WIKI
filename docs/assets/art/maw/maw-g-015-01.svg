@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BALANCE PENDANT">
+  <defs>
+    <radialGradient id="bgg015" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <radialGradient id="glg015" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#e2e8f0" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgg015)" stroke="#e2e8f0" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="128" fill="url(#glg015)"/>
+  
+  <!-- miniature pale balance beam that turns toward the breaking burden -->
+  <line x1="200" y1="110" x2="200" y2="220" stroke="#94a3b8" stroke-width="5"/>
+  <line x1="118" y1="128" x2="292" y2="168" stroke="#f1df76" stroke-width="4"/>
+  <rect x="96" y="118" width="40" height="32" fill="#1e293b" stroke="#e2e8f0"/>
+  <rect x="278" y="160" width="40" height="40" fill="#0f172a" stroke="#f1df76"/>
+  <circle cx="200" cy="148" r="8" fill="#f1df76"/>
+  <path d="M186 88 Q200 70 214 88" fill="none" stroke="#e2e8f0" stroke-width="3"/>
+    
+  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#e2e8f0" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#e2e8f0" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">GIFT // TURNING BEAM</text>
+  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
+  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE BALANCE PENDANT</text>
+</svg>

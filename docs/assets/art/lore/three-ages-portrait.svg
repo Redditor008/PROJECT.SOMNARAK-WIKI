@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img"><rect width="640" height="400" fill="#0b1020"/>
+<rect x="70" y="140" width="140" height="160" fill="#1e293b" stroke="#71efaf" stroke-width="3"/>
+<rect x="250" y="100" width="140" height="200" fill="#1e293b" stroke="#f1df76" stroke-width="3"/>
+<rect x="430" y="80" width="140" height="220" fill="#1e293b" stroke="#38bdf8" stroke-width="3"/>
+<text x="140" y="230" text-anchor="middle" fill="#71efaf" font-family="Impact" font-size="16">AGE I</text>
+<text x="320" y="210" text-anchor="middle" fill="#f1df76" font-family="Impact" font-size="16">AGE II</text>
+<text x="500" y="200" text-anchor="middle" fill="#38bdf8" font-family="Impact" font-size="16">AGE III</text>
+<text x="320" y="40" text-anchor="middle" fill="#f1df76" font-family="Impact" font-size="22" letter-spacing="4">THREE AGES</text>
+</svg>

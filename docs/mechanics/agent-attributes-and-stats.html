@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Agent Attributes &amp; Cognitive Stats — Somnarak Official Wiki</title>
+<link href="../assets/css/wiki.css?v=20260831g" rel="stylesheet"/>
+<link href="../assets/icons/somnarak_icon.svg" rel="icon" type="image/svg+xml"/>
+<script defer="" src="../assets/js/wiki.js?v=20260831g"></script>
+</head>
+<body>
+<!-- Top Utility Bar -->
+<header class="utility" data-component="global-top-bar">
+  <div class="utility-left">
+    <button class="nav-open" type="button" aria-controls="primary-archive-navigation" aria-expanded="false" aria-label="Open primary archive navigation">
+      <span class="nav-open-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="nav-open-text">MENU</span>
+    </button>
+    <a class="utility-brand" href="../index.html" aria-label="Somnarak Wiki main page">
+      <img src="../assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
+    </a>
+    <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>
+  </div>
+  <nav class="utility-nav" id="primary-archive-navigation" aria-label="Primary archive">
+      <a href="../index.html" data-archive="00"><span>Main</span><small>Terminal</small></a>
+      <a href="../characters/index.html" data-archive="01"><span>Characters</span><small>Echo-Cores</small></a>
+      <a href="../lore/index.html" data-archive="02"><span>Lore</span><small>Cycles</small></a>
+      <a href="../locations/index.html" data-archive="03"><span>Atlas</span><small>City</small></a>
+      <a href="../factions/index.html" data-archive="04"><span>Factions</span><small>Orders</small></a>
+      <a href="../departments/index.html" data-archive="05"><span>Facility</span><small>Floors</small></a>
+      <a href="../entities/index.html" data-archive="06"><span>Entities</span><small>SECC</small></a>
+      <a href="../maw/index.html" data-archive="07"><span>M.A.W.</span><small>Arsenal</small></a>
+      <a href="../mechanics/index.html" data-archive="08" class="is-current" aria-current="page"><span>Mechanics</span><small>Systems</small></a>
+      <a href="../downloads.html" data-archive="09"><span>Downloads</span><small>Files</small></a>
+  </nav>
+  <div class="search" role="search">
+    <label for="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search Somnarak Wiki</span></label>
+    <input id="search" type="search" aria-label="Search Somnarak Wiki" aria-controls="results" aria-expanded="false" data-index="../data/search.json" placeholder="Search the archive" autocomplete="off" spellcheck="false"/>
+    <kbd aria-hidden="true">/</kbd>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</header>
+<!-- Main Grid Layout -->
+<div class="wiki-shell">
+<!-- Left Rail -->
+
+    <aside class="left-rail">
+      <div class="site-mark">
+        <a href="../index.html">
+          <img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+          <b>SOMNARAK</b>
+          <span>OFFICIAL WIKI ARCHIVE</span>
+        </a>
+      </div>
+      <nav aria-label="Wiki navigation" class="left-links">
+        <section>
+          <h2>DATABASE HUBS</h2>
+          <a href="../index.html">Main Overview</a>
+          <a href="../characters/index.html">Characters Hub</a>
+          <a href="../lore/index.html">Lore &amp; Cosmology</a>
+          <a href="../locations/index.html">Locations &amp; Atlas</a>
+          <a href="../factions/index.html">Factions &amp; Guilds</a>
+          <a href="../departments/index.html">Facility Floors</a>
+          <a href="../entities/index.html">Sorrow Entities</a>
+          <a href="../maw/index.html">M.A.W. Equipment</a>
+          <a href="../mechanics/index.html">Systems &amp; Mechanics</a>
+        </section>
+        <section>
+          <h2>THE NINE ECHO-CORES</h2>
+          <a href="../characters/the-director-majin.html">1. Director Majin</a>
+          <a href="../characters/the-secretary-seiyon.html">2. Seiyon (Secretary)</a>
+          <a href="../characters/the-containment-lead-dekan.html">3. Dekan (Containment)</a>
+          <a href="../characters/the-extraction-lead-zyrak.html">4. Zyrak (Extraction)</a>
+          <a href="../characters/the-research-lead-ayshuk.html">5. Ayshuk (Research)</a>
+          <a href="../characters/the-border-lead-mellda.html">6. Mellda (Border)</a>
+          <a href="../characters/the-archive-lead-marjuk.html">7. Marjuk (Archive)</a>
+          <a href="../characters/the-outsider-ishall.html">8. Ishall (Outsider)</a>
+          <a href="../characters/the-exile-xyan.html">9. Xyan (Exile)</a>
+        </section>
+        <section>
+          <h2>CARTOGRAPHY &amp; SCHEMATICS</h2>
+          <a href="../atlas/hand-of-change-map.html">Hand of Change Map</a>
+          <a href="../atlas/somnarak-city-map.html">Somnarak City Blueprint</a>
+          <a href="../project/source-map.html">Master Archive Map</a>
+        </section>
+      </nav>
+    </aside>
+
+<!-- Main Content Body -->
+<main id="content">
+<!-- Tactical Fast-Jump Subpage Bar -->
+<div class="fast-jump-nav">
+  <span class="fast-jump-title">/// RAPID JUMP:</span>
+  <div class="fast-jump-pills">
+    <a href="han-energy-and-damage.html" class="jump-pill">Damage Matrix</a> <a href="the-four-work-types.html" class="jump-pill">Work Types</a> <a href="../entities/index.html#classification" class="jump-pill">SECC</a> <a href="resonant-clash-mechanics.html" class="jump-pill">Clash Rules</a> <a href="ordeals-framework.html" class="jump-pill">Ordeals</a> <a href="agent-attributes-and-stats.html" class="jump-pill active">Agent Stats</a> <a href="containment-and-suppression.html" class="jump-pill">Containment</a> <a href="maw-equipment-system.html" class="jump-pill">MAW System</a> <a href="taboo-resonance-mechanics.html" class="jump-pill">Taboo Mechanics</a> <a href="index.html" class="jump-pill">✦ Systems Hub</a>
+  </div>
+</div>
+<!-- Tactical Directive Status HUD -->
+<div class="tactical-directive-box">
+  <div class="directive-text">
+    <span class="led-dot led-green"></span> <b>STATUS:</b> ARCHIVE VERIFIED &nbsp;|&nbsp;
+    <b>CLEARANCE:</b> LEVEL-4 OVERSIGHT &nbsp;|&nbsp;
+    <b>PROTOCOL:</b> REVERIE DIRECTORATE
+  </div>
+  <img src="../assets/icons/hud_resonance_wave.svg" alt="Resonance Wave" class="directive-wave">
+</div>
+<!-- Page Tabs -->
+<div class="page-tabs">
+<span>ARTICLE</span>
+<span>DISCUSSION</span>
+<span>SOURCE</span>
+<span>HISTORY</span>
+<b>YEAR 4,238 · DAWN OF HOPE</b>
+</div>
+<!-- Breadcrumbs -->
+<div class="breadcrumbs">
+<a href="../index.html">Somnarak</a> <i>/</i>
+<a href="../mechanics/index.html">Systems &amp; Mechanics</a> <i>/</i>
+<span>Agent Attributes &amp; Cognitive Stats</span>
+</div>
+<!-- Article Header -->
+<div class="article-header">
+<div class="article-eyebrow">SYSTEMS &amp; MECHANICS RECORD</div>
+<h1 class="article-title">Agent Attributes &amp; Cognitive Stats</h1>
+<div class="article-subbar">
+<span class="badge badge-canon">CANONICAL ARTIFACT</span>
+<span class="badge badge-source">SOURCE VERIFIED</span>
+<div class="article-actions">
+<span class="action-btn">History</span>
+<span class="action-btn">View Source</span>
+</div>
+</div>
+</div>
+<div class="toc" id="toc">
+<div class="toc-title">Contents</div>
+<div class="toc-body">
+<ol>
+<li><a href="#agent-stats-r-d-personnel-attributes">Agent Stats — R.D. Personnel Attributes</a></li>
+</ol>
+</div>
+</div>
+
+<div class="wiki-callout">
+<p><strong>CANONICAL RECORD:</strong> Sourced directly from the official <em>Project Somnarak Worldbuilding Codex</em>.</p>
+</div>
+
+<!-- Page Footer -->
+
+<!-- Bottom Cross-Reference Directory -->
+<section class="cross-reference-section">
+  <div class="cross-ref-header">CANONICAL CROSS-LINKS &amp; ATLAS CONNECTIONS</div>
+  <div class="cross-ref-grid">
+    <a href="../departments/floor-1-neutral-command.html" class="cross-ref-card">
+      <img src="../assets/layout/hand/icons/icon_dept_f1_neutral.svg" alt="Command">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">FACILITY COMMAND</span><span class="cross-ref-title">NEUTRAL COMMAND</span></div>
+    </a> <a href="../characters/the-director-majin.html" class="cross-ref-card">
+      <img src="../assets/icons/icon_core_majin.svg" alt="Majin">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">EXECUTIVE LEAD</span><span class="cross-ref-title">DIRECTOR MAJIN</span></div>
+    </a> <a href="../lore/the-cycle-and-absolvohan.html" class="cross-ref-card">
+      <img src="../assets/icons/ref_absolvohan.svg" alt="Absolvohan">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">PRIMARY CANON</span><span class="cross-ref-title">1,778 CYCLES</span></div>
+    </a> <a href="../atlas/hand-of-change-map.html" class="cross-ref-card">
+      <img src="../assets/layout/hand/icons/the_hand_dr_icon_styled.svg" alt="Facility Map">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">SCHEMATIC ATLAS</span><span class="cross-ref-title">HAND OF CHANGE MAP</span></div>
+    </a>
+  </div>
+</section>
+<!-- wiki-flare -->
+<div class="lore-article character-article wiki-article-grid">
+  <div class="character-main-content lore-main">
+<blockquote class="wiki-quote"><p>“A worker is a ledger of what they can still bear.”</p><div class="quote-author">— Attribute primer</div></blockquote>
+<figure class="lore-banner"><img src="../assets/art/mechanics/stats-banner.svg" alt="AGENT STATS"></figure>
+<div class="prop-tile-grid"><article class="prop-tile" style="--tile:#c084fc"><img src="../assets/art/mechanics/stats-icon.svg" alt=""><b>Mind / Body</b><small>Two columns</small></article><article class="prop-tile" style="--tile:#f1df76"><img src="../assets/art/mechanics/element-weight.svg" alt=""><b>Burden</b><small>Han they already carry</small></article><article class="prop-tile" style="--tile:#f1df76"><img src="../assets/art/mechanics/work-ferrehan.svg" alt=""><b>Endure</b><small>Ferrehan axis</small></article></div>
+<section class="wiki-section" id="agent-stats-r-d-personnel-attributes"><h2 class="section-title">Agent Stats — R.D. Personnel Attributes</h2><h3>Overview</h3>
+<div class="wiki-callout"><p><em>"In a world built on sorrow, your strength is not how hard you hit — it is how much you can carry."</em></p></div>
+<p>Every R.D. personnel member is assessed on <strong>four core attributes</strong> — measuring their ability to withstand, process, and work with Han.</p>
+<h3>The Four Attributes</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Attribute</th><th>Symbol</th><th>Color</th><th>What It Measures</th></tr></thead>
+<tbody>
+<tr><td><strong>Resilience</strong></td><td>♦</td><td>Deep Blue</td><td>Physical endurance — ability to withstand Han's weight</td></tr>
+<tr><td><strong>Clarity</strong></td><td>♠</td><td>Pale White</td><td>Mental stability — ability to resist emotional manipulation</td></tr>
+<tr><td><strong>Composure</strong></td><td>♣</td><td>Crimson</td><td>Emotional control — ability to maintain focus under sorrow</td></tr>
+<tr><td><strong>Resolve</strong></td><td>♠</td><td>Black</td><td>Willpower — ability to act despite the weight</td></tr>
+</tbody></table></div>
+<h4>Resilience (♦ Deep Blue)</h4>
+<p><strong>What it measures:</strong> Physical endurance — how much Han-weight a person can bear before breaking.</p>
+<p><strong>What it affects:</strong></p>
+<ul>
+<li>Maximum HP (physical health)</li>
+<li>Resistance to physical damage from entities</li>
+<li>Ability to carry heavy M.A.W. equipment</li>
+<li>Endurance during long shifts</li>
+</ul>
+<p><strong>How it's trained:</strong></p>
+<ul>
+<li>Physical conditioning — exercise, labor, combat training</li>
+<li>Han exposure — gradual, controlled exposure to heavy Han environments</li>
+<li>M.A.W. bearing — carrying heavy equipment over time</li>
+</ul>
+<p><strong>Low Resilience:</strong> The person breaks easily under physical stress — injuries, exhaustion, premature aging.</p>
+<p><strong>High Resilience:</strong> The person can endure what would break others — they carry the weight without complaint.</p>
+<h4>Clarity (♠ Pale White)</h4>
+<p><strong>What it measures:</strong> Mental stability — how well a person resists emotional manipulation, memory loss, and Dream interference.</p>
+<p><strong>What it affects:</strong></p>
+<ul>
+<li>Maximum SP (mental health)</li>
+<li>Resistance to Void-element attacks</li>
+<li>Ability to distinguish Dream from reality</li>
+<li>Memory retention — resisting memory theft</li>
+</ul>
+<p><strong>How it's trained:</strong></p>
+<ul>
+<li>Meditation — focus exercises, mindfulness</li>
+<li>Dream exposure — controlled, brief dips into the Dream realm</li>
+<li>Memory exercises — recalling, organizing, protecting personal memories</li>
+</ul>
+<p><strong>Low Clarity:</strong> The person is easily confused, manipulated, or lost in the Dream — they forget who they are.</p>
+<p><strong>High Clarity:</strong> The person maintains their identity even under extreme pressure — they know who they are.</p>
+<h4>Composure (♣ Crimson)</h4>
+<p><strong>What it measures:</strong> Emotional control — how well a person maintains focus under emotional stress.</p>
+<p><strong>What it affects:</strong></p>
+<ul>
+<li>Work speed — how quickly and effectively they perform Work Types</li>
+<li>Resistance to Grudge-element attacks</li>
+<li>Ability to perform Flerehan (Tears) without breaking down</li>
+<li>M.A.W. bonding stability</li>
+</ul>
+<p><strong>How it's trained:</strong></p>
+<ul>
+<li>Emotional regulation — learning to feel without being overwhelmed</li>
+<li>Confrontation training — facing anger, fear, grief without losing control</li>
+<li>M.A.W. bonding — gradual exposure to entity emotions</li>
+</ul>
+<p><strong>Low Composure:</strong> The person breaks down emotionally — crying, raging, or withdrawing when they need to act.</p>
+<p><strong>High Composure:</strong> The person feels everything — but chooses when to express it. They are steady when others fall apart.</p>
+<h4>Resolve (♦ Black)</h4>
+<p><strong>What it measures:</strong> Willpower — how determined a person is to act despite the weight of sorrow.</p>
+<p><strong>What it affects:</strong></p>
+<ul>
+<li>Movement speed — how quickly they navigate the facility</li>
+<li>Resistance to Weight-element attacks</li>
+<li>Ability to perform Ferrehan (Endurance) without collapsing</li>
+<li>Leadership capability — inspiring others under pressure</li>
+</ul>
+<p><strong>How it's trained:</strong></p>
+<ul>
+<li>Purpose-finding — understanding why they work, what they fight for</li>
+<li>Endurance tests — pushing past limits in controlled environments</li>
+<li>Moral challenges — making difficult decisions under pressure</li>
+</ul>
+<p><strong>Low Resolve:</strong> The person gives up easily — they see no point in continuing.</p>
+<p><strong>High Resolve:</strong> The person persists even when everything says stop — they carry on because they must.</p>
+<h3>Attribute Levels</h3>
+<p>Each attribute ranges from <strong>1</strong> (lowest) to <strong>100</strong> (highest). Most civilians average <strong>20-30</strong> in each attribute. Trained R.D. personnel average <strong>40-60</strong>. Echo-Cores commonly reach <strong>Exceptional (81-100)</strong> in the attributes central to their function, but Echo-Core designation does not require every score to exceed 80.</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Level</th><th>Range</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td><strong>Fragile</strong></td><td>1-20</td><td>Below civilian average — vulnerable to Han effects</td></tr>
+<tr><td><strong>Average</strong></td><td>21-40</td><td>Civilian level — can survive daily life</td></tr>
+<tr><td><strong>Trained</strong></td><td>41-60</td><td>R.D. personnel level — can perform Work Types safely</td></tr>
+<tr><td><strong>Veteran</strong></td><td>61-80</td><td>Experienced personnel — can handle dangerous entities</td></tr>
+<tr><td><strong>Exceptional</strong></td><td>81-100</td><td>Echo-Core level — can withstand what breaks others</td></tr>
+</tbody></table></div>
+<h3>Attribute Interactions</h3>
+<p><strong>How attributes interact with Work Types:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Work Type</th><th>Primary Attribute</th><th>Secondary Attribute</th><th>Failure Condition</th></tr></thead>
+<tbody>
+<tr><td><strong>Flerehan</strong> (Tears)</td><td>Composure</td><td>Clarity</td><td>Emotional breakdown — crying, withdrawal</td></tr>
+<tr><td><strong>Pugnahan</strong> (Confrontation)</td><td>Resolve</td><td>Resilience</td><td>Physical collapse — exhaustion, injury</td></tr>
+<tr><td><strong>Viderehan</strong> (Observation)</td><td>Clarity</td><td>Composure</td><td>Mental breakdown — confusion, hallucination</td></tr>
+<tr><td><strong>Ferrehan</strong> (Endurance)</td><td>Resilience</td><td>Resolve</td><td>Total collapse — physical and mental exhaustion</td></tr>
+</tbody></table></div>
+<p><strong>How attributes affect M.A.W. bonding:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Attribute</th><th>Effect on Bonding</th></tr></thead>
+<tbody>
+<tr><td><strong>Resilience</strong></td><td>Higher = can wear heavier M.A.W.</td></tr>
+<tr><td><strong>Clarity</strong></td><td>Higher = better entity communication, less memory bleed</td></tr>
+<tr><td><strong>Composure</strong></td><td>Higher = more stable bond, less personality shift</td></tr>
+<tr><td><strong>Resolve</strong></td><td>Higher = stronger bond, less rejection risk</td></tr>
+</tbody></table></div>
+<h3>Attribute Gains and Losses</h3>
+<p><strong>How attributes change over time:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Event</th><th>Effect</th></tr></thead>
+<tbody>
+<tr><td><strong>Successful Work Type</strong></td><td>+1 to relevant attribute</td></tr>
+<tr><td><strong>Failed Work Type</strong></td><td>-1 to relevant attribute</td></tr>
+<tr><td><strong>M.A.W. bonding</strong></td><td>+2 to primary attribute, -1 to secondary</td></tr>
+<tr><td><strong>Fracture (early stage)</strong></td><td>-5 to all attributes</td></tr>
+<tr><td><strong>Core Suppression</strong></td><td>+10 to all attributes (if survived)</td></tr>
+<tr><td><strong>Major breach survival</strong></td><td>+3 to Resilience and Resolve</td></tr>
+<tr><td><strong>Memory loss</strong></td><td>-10 to Clarity</td></tr>
+<tr><td><strong>Emotional trauma</strong></td><td>-10 to Composure</td></tr>
+<tr><td><strong>Physical injury</strong></td><td>-10 to Resilience</td></tr>
+</tbody></table></div>
+<h3>Sample Attribute Profiles</h3>
+<p><strong>Echo-Cores:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Echo-Core</th><th>Resilience</th><th>Clarity</th><th>Composure</th><th>Resolve</th></tr></thead>
+<tbody>
+<tr><td><strong>The Director</strong></td><td>95</td><td>80</td><td>70</td><td>99</td></tr>
+<tr><td><strong>The Secretary</strong></td><td>N/A (AI)</td><td>99</td><td>85</td><td>60</td></tr>
+<tr><td><strong>Containment Lead</strong></td><td>85</td><td>60</td><td>75</td><td>90</td></tr>
+<tr><td><strong>Extraction Lead</strong></td><td>70</td><td>80</td><td>90</td><td>75</td></tr>
+<tr><td><strong>Research Lead</strong></td><td>60</td><td>95</td><td>40</td><td>70</td></tr>
+<tr><td><strong>Border Lead</strong></td><td>90</td><td>70</td><td>80</td><td>85</td></tr>
+<tr><td><strong>Archive Lead</strong></td><td>50</td><td>90</td><td>60</td><td>80</td></tr>
+<tr><td><strong>The Outsider</strong></td><td>80</td><td>75</td><td>85</td><td>95</td></tr>
+<tr><td><strong>The Exile</strong></td><td>85</td><td>65</td><td>70</td><td>90</td></tr>
+</tbody></table></div>
+<p><strong>SED Team:</strong></p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Member</th><th>Resilience</th><th>Clarity</th><th>Composure</th><th>Resolve</th></tr></thead>
+<tbody>
+<tr><td><strong>Yeonhwa</strong></td><td>55</td><td>70</td><td>65</td><td>80</td></tr>
+<tr><td><strong>Doha</strong></td><td>75</td><td>50</td><td>60</td><td>70</td></tr>
+<tr><td><strong>Harin</strong></td><td>80</td><td>55</td><td>70</td><td>85</td></tr>
+<tr><td><strong>Sora</strong></td><td>45</td><td>85</td><td>50</td><td>60</td></tr>
+<tr><td><strong>Minjae</strong></td><td>50</td><td>80</td><td>65</td><td>75</td></tr>
+<tr><td><strong>Jisoo</strong></td><td>55</td><td>75</td><td>80</td><td>65</td></tr>
+<tr><td><strong>The Silent One</strong></td><td>70</td><td>60</td><td>90</td><td>95</td></tr>
+</tbody></table></div></section>
+
+  </div>
+<aside class="character-infobox" style="--entity:#c084fc">
+  <h2>AGENT STATS</h2>
+  <div class="infobox-image-wrap">
+    <img src="../assets/art/mechanics/stats-icon.svg" alt="AGENT STATS">
+  </div>
+  <h3>Cognitive sheet</h3>
+  <dl class="fact-grid"><dt>Axes</dt><dd>Physical + Mental</dd><dt>Risk</dt><dd>Panic and Fracture</dd><dt>Gear</dt><dd>M.A.W. modifies the sheet</dd></dl>
+</aside>
+</div>
+</main>
+</div>
+<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  <div class="footer-signal" aria-hidden="true">
+    <span>RD://PUBLIC-NET</span><i></i>
+    <span>SECC LINK STABLE</span><i></i>
+    <span>FACILITY 01 // GATE WATCH</span><i></i>
+    <span>PUBLICATION GATES PASSING</span>
+  </div>
+
+  <div class="footer-hero">
+    <section class="footer-identity" aria-label="Somnarak Wiki">
+      <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
+      <a class="footer-brand" href="../index.html">
+        <span class="footer-emblem"><img src="../assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
+      </a>
+      <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
+      <p>The public record follows Somnarak from the Alpha Tree and five city zones into Facility 01, where witnessed canon is curated without replacing absence with invention.</p>
+      <div class="footer-badges" aria-label="Archive classification">
+        <span>FACILITY 01</span><span>DIRECTORATE</span><span>PUBLIC CODEX</span>
+      </div>
+    </section>
+
+    <figure class="footer-network">
+      <div class="footer-network-frame">
+        <img src="../assets/layout/footer-directorate-network.svg" alt="Directorate archive topology linking the Alpha Tree, five city zones, Facility 01, Gate Watch, and eight public archive gateways"/>
+        <span class="footer-network-scan" aria-hidden="true"></span>
+      </div>
+      <figcaption><span>Live archive topology</span><b>ALPHA TREE → FACILITY 01 → PUBLIC CODEX</b></figcaption>
+    </figure>
+
+    <section class="footer-status" aria-label="Current archive status">
+      <span>Verified repository snapshot</span>
+      <strong>1.8.31</strong>
+      <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
+      <dl>
+        <div><dt>Public records</dt><dd>197 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
+        <div><dt>Cycle state</dt><dd>ENDED</dd></div>
+        <div><dt>Gate command</dt><dd>XYAN</dd></div>
+      </dl>
+    </section>
+  </div>
+
+  <div class="footer-directory">
+    <section class="footer-archives" aria-labelledby="footer-archives-title">
+      <header><span>Primary collections</span><h2 id="footer-archives-title">Eight Archive Gateways</h2><p>Continue through the complete public taxonomy.</p></header>
+      <div>
+        <a href="../characters/index.html" data-footer-archive="01" style="--gateway:#ef5b55"><span>01</span><b>Echo-Cores</b><small>Characters</small></a>
+        <a href="../lore/index.html" data-footer-archive="02" style="--gateway:#a78bfa"><span>02</span><b>Cycle Archive</b><small>Lore</small></a>
+        <a href="../locations/index.html" data-footer-archive="03" style="--gateway:#38bdf8"><span>03</span><b>City Atlas</b><small>Locations</small></a>
+        <a href="../factions/index.html" data-footer-archive="04" style="--gateway:#f59e0b"><span>04</span><b>Orders</b><small>Factions</small></a>
+        <a href="../departments/index.html" data-footer-archive="05" style="--gateway:#71efaf"><span>05</span><b>Hand of Change</b><small>Facility</small></a>
+        <a href="../entities/index.html" data-footer-archive="06" style="--gateway:#fb7185"><span>06</span><b>SECC Registry</b><small>Entities</small></a>
+        <a href="../maw/index.html" data-footer-archive="07" style="--gateway:#f1df76"><span>07</span><b>M.A.W. Arsenal</b><small>Equipment</small></a>
+        <a href="../mechanics/index.html" data-footer-archive="08" style="--gateway:#60a5fa"><span>08</span><b>Systems Codex</b><small>Mechanics</small></a>
+      </div>
+    </section>
+
+    <nav class="footer-links" aria-label="Archive resources">
+      <header><span>Project access</span><h2>Archive Resources</h2><p>Inspect provenance, files, and visual infrastructure.</p></header>
+      <div>
+        <a href="../project/source-map.html" data-footer-link="R-01"><b>Source Map</b><small>Canon provenance</small></a>
+        <a href="../downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
+        <a href="../assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
+        <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+      </div>
+    </nav>
+  </div>
+
+  <section class="footer-register" aria-label="Publication register">
+    <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
+    <dl>
+      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+    </dl>
+    <div class="footer-protocols">
+      <span><b>01</b> SOURCE-LED CONTENT</span>
+      <span><b>02</b> DISTINCT VISUAL FORM</span>
+      <span><b>03</b> NO RECOLOR-ONLY ART</span>
+      <span><b>04</b> VERIFIED LOCAL ROUTES</span>
+    </div>
+  </section>
+
+  <div class="footer-base">
+    <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
+    <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+  </div>
+</footer>
+</body>
+</html>

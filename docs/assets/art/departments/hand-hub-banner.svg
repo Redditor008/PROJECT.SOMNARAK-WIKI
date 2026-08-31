@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Hand of Change — master map cutaway">
+  <rect width="1400" height="280" fill="#06090e"/>
+  <rect x="8" y="8" width="1384" height="264" fill="none" stroke="#1e293b" stroke-width="2"/>
+  <!-- surface -->
+  <line x1="40" y1="36" x2="620" y2="36" stroke="#475569" stroke-width="1.5" stroke-dasharray="8 4"/>
+  <path d="M280 18 L380 18 L368 36 L292 36 Z" fill="#1e293b" stroke="#64748b" stroke-width="1.6"/>
+  <rect x="320" y="36" width="20" height="108" fill="#030712" stroke="#38bdf8" stroke-width="1.6"/>
+  <!-- F1 -->
+  <rect x="48" y="40" width="524" height="32" rx="4" fill="#120c04" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="48" y="40" width="524" height="10" fill="#78350f"/>
+  <!-- F2 -->
+  <rect x="48" y="76" width="524" height="34" rx="4" fill="#140606" stroke="#ef4444" stroke-width="2"/>
+  <rect x="48" y="76" width="524" height="10" fill="#7f1d1d"/>
+  <!-- F3 + F8 -->
+  <rect x="48" y="114" width="360" height="32" rx="4" fill="#080f21" stroke="#3b82f6" stroke-width="2"/>
+  <rect x="48" y="114" width="360" height="10" fill="#1e3a8a"/>
+  <rect x="428" y="114" width="144" height="32" rx="4" fill="#090d15" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="428" y="114" width="144" height="10" fill="#334155"/>
+  <line x1="408" y1="130" x2="428" y2="130" stroke="#38bdf8" stroke-width="3"/>
+  <!-- bus -->
+  <path d="M80 156 H540" stroke="#38bdf8" stroke-width="4" stroke-linecap="round"/>
+  <line x1="120" y1="156" x2="120" y2="166" stroke="#38bdf8" stroke-width="3"/>
+  <line x1="240" y1="156" x2="240" y2="166" stroke="#38bdf8" stroke-width="3"/>
+  <line x1="360" y1="156" x2="360" y2="166" stroke="#38bdf8" stroke-width="3"/>
+  <line x1="480" y1="156" x2="480" y2="166" stroke="#38bdf8" stroke-width="3"/>
+  <!-- four equal fingers -->
+  <rect x="72" y="166" width="96" height="88" rx="4" fill="#021c15" stroke="#10b981" stroke-width="2"/>
+  <rect x="72" y="166" width="96" height="12" fill="#064e3b"/>
+  <rect x="192" y="166" width="96" height="88" rx="4" fill="#031f30" stroke="#0284c7" stroke-width="2"/>
+  <rect x="192" y="166" width="96" height="12" fill="#0c4a6e"/>
+  <rect x="312" y="166" width="96" height="88" rx="4" fill="#170228" stroke="#8b5cf6" stroke-width="2"/>
+  <rect x="312" y="166" width="96" height="12" fill="#3b0764"/>
+  <rect x="432" y="166" width="96" height="88" rx="4" fill="#1f0109" stroke="#e11d48" stroke-width="2"/>
+  <rect x="432" y="166" width="96" height="12" fill="#4c0519"/>
+  <text x="660" y="70" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="13" letter-spacing="3">FACILITY 01  ·  FROM THE MASTER MAP</text>
+  <text x="660" y="112" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="28" letter-spacing="1.4">THE HAND OF CHANGE</text>
+  <text x="660" y="148" fill="#94a3b8" font-family="Arial, sans-serif" font-size="15">Palm: F1 Neutral · F2 Maw's Keep · F3 Extraction. Wing on the right of Floor 3: F8 Gate Watch. Four equal finger shafts: F4–F7.</text>
+  <text x="660" y="176" fill="#64748b" font-family="Arial, sans-serif" font-size="14">Surface monolith at the Alpha Tree. Mag-lift through the palm. Transit bus into the deep sectors.</text>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="248" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">PALM  ·  WING  ·  FOUR FINGERS</text>
+  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">HAND OF CHANGE  —  THE MAP, NOT A TOWER</text>
+</svg>

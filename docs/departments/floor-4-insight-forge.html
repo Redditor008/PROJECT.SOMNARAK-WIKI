@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Floor 4: Insight Forge — Somnarak Official Wiki</title>
+<link href="../assets/css/wiki.css?v=20260831g" rel="stylesheet"/>
+<link href="../assets/icons/somnarak_icon.svg" rel="icon" type="image/svg+xml"/>
+<script defer="" src="../assets/js/wiki.js?v=20260831g"></script>
+</head>
+<body>
+<!-- Top Utility Bar -->
+<header class="utility" data-component="global-top-bar">
+  <div class="utility-left">
+    <button class="nav-open" type="button" aria-controls="primary-archive-navigation" aria-expanded="false" aria-label="Open primary archive navigation">
+      <span class="nav-open-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="nav-open-text">MENU</span>
+    </button>
+    <a class="utility-brand" href="../index.html" aria-label="Somnarak Wiki main page">
+      <img src="../assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
+    </a>
+    <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>
+  </div>
+  <nav class="utility-nav" id="primary-archive-navigation" aria-label="Primary archive">
+      <a href="../index.html" data-archive="00"><span>Main</span><small>Terminal</small></a>
+      <a href="../characters/index.html" data-archive="01"><span>Characters</span><small>Echo-Cores</small></a>
+      <a href="../lore/index.html" data-archive="02"><span>Lore</span><small>Cycles</small></a>
+      <a href="../locations/index.html" data-archive="03"><span>Atlas</span><small>City</small></a>
+      <a href="../factions/index.html" data-archive="04"><span>Factions</span><small>Orders</small></a>
+      <a href="../departments/index.html" data-archive="05" class="is-current" aria-current="page"><span>Facility</span><small>Floors</small></a>
+      <a href="../entities/index.html" data-archive="06"><span>Entities</span><small>SECC</small></a>
+      <a href="../maw/index.html" data-archive="07"><span>M.A.W.</span><small>Arsenal</small></a>
+      <a href="../mechanics/index.html" data-archive="08"><span>Mechanics</span><small>Systems</small></a>
+      <a href="../downloads.html" data-archive="09"><span>Downloads</span><small>Files</small></a>
+  </nav>
+  <div class="search" role="search">
+    <label for="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search Somnarak Wiki</span></label>
+    <input id="search" type="search" aria-label="Search Somnarak Wiki" aria-controls="results" aria-expanded="false" data-index="../data/search.json" placeholder="Search the archive" autocomplete="off" spellcheck="false"/>
+    <kbd aria-hidden="true">/</kbd>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</header>
+<!-- Main Grid Layout -->
+<div class="wiki-shell">
+<!-- Left Rail -->
+
+    <aside class="left-rail">
+      <div class="site-mark">
+        <a href="../index.html">
+          <img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+          <b>SOMNARAK</b>
+          <span>OFFICIAL WIKI ARCHIVE</span>
+        </a>
+      </div>
+      <nav aria-label="Wiki navigation" class="left-links">
+        <section>
+          <h2>DATABASE HUBS</h2>
+          <a href="../index.html">Main Overview</a>
+          <a href="../characters/index.html">Characters Hub</a>
+          <a href="../lore/index.html">Lore &amp; Cosmology</a>
+          <a href="../locations/index.html">Locations &amp; Atlas</a>
+          <a href="../factions/index.html">Factions &amp; Guilds</a>
+          <a href="../departments/index.html">Facility Floors</a>
+          <a href="../entities/index.html">Sorrow Entities</a>
+          <a href="../maw/index.html">M.A.W. Equipment</a>
+          <a href="../mechanics/index.html">Systems &amp; Mechanics</a>
+        </section>
+        <section>
+          <h2>THE NINE ECHO-CORES</h2>
+          <a href="../characters/the-director-majin.html">1. Director Majin</a>
+          <a href="../characters/the-secretary-seiyon.html">2. Seiyon (Secretary)</a>
+          <a href="../characters/the-containment-lead-dekan.html">3. Dekan (Containment)</a>
+          <a href="../characters/the-extraction-lead-zyrak.html">4. Zyrak (Extraction)</a>
+          <a href="../characters/the-research-lead-ayshuk.html">5. Ayshuk (Research)</a>
+          <a href="../characters/the-border-lead-mellda.html">6. Mellda (Border)</a>
+          <a href="../characters/the-archive-lead-marjuk.html">7. Marjuk (Archive)</a>
+          <a href="../characters/the-outsider-ishall.html">8. Ishall (Outsider)</a>
+          <a href="../characters/the-exile-xyan.html">9. Xyan (Exile)</a>
+        </section>
+        <section>
+          <h2>CARTOGRAPHY &amp; SCHEMATICS</h2>
+          <a href="../atlas/hand-of-change-map.html">Hand of Change Map</a>
+          <a href="../atlas/somnarak-city-map.html">Somnarak City Blueprint</a>
+          <a href="../project/source-map.html">Master Archive Map</a>
+        </section>
+      </nav>
+    </aside>
+
+<!-- Main Content Body -->
+<main id="content">
+<!-- Tactical Fast-Jump Subpage Bar -->
+<div class="fast-jump-nav">
+  <span class="fast-jump-title">/// RAPID JUMP:</span>
+  <div class="fast-jump-pills">
+    <a href="floor-1-neutral-command.html" class="jump-pill">F1: Neutral</a>
+    <a href="floor-2-maws-keep.html" class="jump-pill">F2: Maw's Keep</a>
+    <a href="floor-3-extraction-hall.html" class="jump-pill">F3: Extraction</a>
+    <a href="floor-4-insight-forge.html" class="jump-pill active">F4: Insight</a>
+    <a href="floor-5-border-watch.html" class="jump-pill">F5: Border</a>
+    <a href="floor-6-deep-vault.html" class="jump-pill">F6: Vault</a>
+    <a href="floor-7-shadow-corps.html" class="jump-pill">F7: Shadow</a>
+    <a href="floor-8-gate-watch.html" class="jump-pill">F8: Gate</a>
+    <a href="facility-room-types.html" class="jump-pill">Room Types</a>
+    <a href="daily-missions.html" class="jump-pill">Missions</a>
+    <a href="research-observation.html" class="jump-pill">Research</a>
+    <a href="daily-cycle.html" class="jump-pill">Daily Cycle</a>
+
+    <a href="index.html" class="jump-pill">✦ Dept Hub</a>
+  </div>
+</div>
+<!-- Tactical Directive Status HUD -->
+<div class="tactical-directive-box">
+  <div class="directive-text">
+    <span class="led-dot led-green"></span> <b>STATUS:</b> ARCHIVE VERIFIED &nbsp;|&nbsp;
+    <b>CLEARANCE:</b> LEVEL-4 OVERSIGHT &nbsp;|&nbsp;
+    <b>PROTOCOL:</b> REVERIE DIRECTORATE
+  </div>
+  <img src="../assets/icons/hud_resonance_wave.svg" alt="Resonance Wave" class="directive-wave">
+</div>
+<!-- Page Tabs -->
+<div class="page-tabs">
+<span>ARTICLE</span>
+<span>DISCUSSION</span>
+<span>SOURCE</span>
+<span>HISTORY</span>
+<b>YEAR 4,238 · DAWN OF HOPE</b>
+</div>
+
+<div class="breadcrumbs"><a href="../index.html">Somnarak</a> <i>/</i> <a href="index.html">Facility Floors</a> <i>/</i> <span>Floor 4: Insight Forge</span></div>
+<header class="article-header">
+  <div class="article-eyebrow">HAND OF CHANGE · FLOOR 4 · APERTURE</div>
+  <h1 class="article-title">Floor 4: Insight Forge</h1>
+  <p class="hub-title-kr">통찰의 용광로 · Tongchal-ui Yonggwangno · Understanding first</p>
+</header>
+<nav class="toc" id="toc"><div class="toc-title">CONTENTS</div><ol>
+  <li><a href="#forge">Insight Forge</a></li>
+  <li><a href="#ayshuk">Ayshuk</a></li>
+  <li><a href="#look">Looking as a craft</a></li>
+  <li><a href="#rooms">Aperture rooms</a></li>
+  <li><a href="#staff">Who may look</a></li>
+  <li><a href="#ladder">The observation ladder</a></li>
+  <li><a href="#law">When looking becomes law</a></li>
+  <li><a href="#named">Named missions</a></li>
+  <li><a href="#research">Research</a></li>
+  <li><a href="#roster">Daily roster</a></li>
+</ol></nav>
+<div class="lore-article character-article wiki-article-grid">
+<div class="character-main-content lore-main" style="--floor:#71efaf">
+<blockquote class="wiki-quote"><p>“Looking is a craft. The aperture is not an eye.”</p><div class="quote-author">— Insight Forge</div></blockquote>
+<figure class="lore-banner"><img src="../assets/art/departments/f4-banner.svg?v=20260831ao" alt="Insight Forge — observation aperture, never an eye"></figure>
+<div class="prop-tile-grid"><article class="prop-tile" style="--tile:#71efaf"><img src="../assets/art/departments/f4-icon.svg?v=20260831ao" alt=""><b>APERTURE</b><small>Never an eye</small></article><article class="prop-tile" style="--tile:#38bdf8"><img src="../assets/art/mechanics/work-types-icon.svg?v=20260831ao" alt=""><b>VIDEREHAN</b><small>Observation</small></article><article class="prop-tile" style="--tile:#f1df76"><img src="../assets/art/mechanics/han-energy-icon.svg?v=20260831ao" alt=""><b>HAN</b><small>Four colors</small></article></div>
+<div class="department-command" style="--floor:#71efaf"><header><span>HAND OF CHANGE · FLOOR 04</span><h2>FORGE CYCLE</h2></header><div class="operation-flow"><article><span>01</span><h3>Look</h3><p>Viderehan as rings. Never an eye.</p></article><article><span>02</span><h3>File</h3><p>Physiology and work response so Floor 2 is not guessing.</p></article><article><span>03</span><h3>Map</h3><p>Han-flow Floor 5 can walk, not a theory.</p></article><article><span>04</span><h3>Send</h3><p>Taboo-shaped law leaves for Floor 8. Not a clever note.</p></article></div></div>
+<section class="wiki-section" id="forge">
+<h2 class="section-title">Insight Forge</h2>
+<p><strong>Insight Forge</strong> is Floor 4, a hanging shaft of equal width with Floors 5, 6, and 7. Looking is a discipline here. Viderehan uses an aperture: rings, never an eye. <a class="wiki-link" href="../characters/the-research-lead-ayshuk.html">Ayshuk</a>'s people file physiology, preferred Han color, and work response so Floor 2 is not guessing in a cell. Relics that arrive here are relics until someone proves they are extracts. Floor 4 does not mint M.A.W. by staring at a specimen. If a reading starts to calcify into Taboo-shaped law, it leaves for Floor 8. You do not keep it as a clever note.</p>
+<p>Quota 100 Han — looking costs less than holding. Observation Level 0 to 1 on one entity is a named mission because Floor 2 should not guess. If Floor 4 is behind, the keep is folklore. Han-flow maps must be routes Floor 5 can walk, not theories. The Grand Archive in Zone A keeps the city's official grief. The Library of Stolen Pasts in B-02 keeps what was taken. This shaft keeps what the Hand has observed of housed entities. Three rooms. Three jobs.</p>
+
+<p>Insight Forge hangs as an equal shaft with Floors 5, 6, and 7. It is not a forge-fire. Aperture-heat is the remainder of too much looking. Viderehan uses rings of glass. No iris. No pupil. The Directorate is not an eye-in-palm; this floor is not allowed to become one. Relics that arrive here are relics until someone proves they are extracts. Floor 4 does not mint M.A.W. by staring. If a reading starts to calcify into Taboo-shaped law, it leaves for Floor 8. You do not keep it as a clever note, and you do not send it to Floor 6 as a cylinder because the handwriting looked similar.</p>
+<p>The Grand Archive in Zone A keeps the city's official grief. The Library of Stolen Pasts in B-02 keeps what was taken. This shaft keeps what the Hand has observed of housed entities. Three rooms, three jobs, one ladder: Observation Level 0 Unknown after containment, 1 Observed after one successful Work Type, 2 Studied after five, 3 Understood after fifteen and a survived breach, 4 Mastered after thirty, three breaches, and an entity-specific condition. Gates: 0→1 needs 5 Observation Points; 1→2 needs 20; 2→3 needs 50; 3→4 needs 100. Viderehan is the fastest path because looking is this floor's craft: +3. Flerehan and Pugnahan +2. Ferrehan +1. Mixing Observation Level with Hope Intensity or Coherence is how a small job gets a funeral. M.A.W. extraction is a separate risk event. SE-003 never yields.</p>
+
+</section>
+<section class="wiki-section" id="ayshuk">
+<h2 class="section-title">Ayshuk</h2>
+<p>Ayshuk cannot feel sorrow and reviews ledgers without bias because of that, not in spite of it. Entity Analysts, Han Researchers, Sorrow Cartographers, M.A.W. Specialists who do not extract — they file potential. Agents generate Observation Points by working on Floor 2; Floor 4 writes what that work meant. Clerks keep ledgers that are not vault names. Analysts posted here keep ledgers across days. Reassigning them to the keep without a file is how Floor 2 starts guessing.</p>
+<p>Core Suppression here is an aperture that will not close — looking as a wound. Ledgers lie. When it ends, this shaft still has to file, or the keep stays blind. Quieter than the Keep, hotter than visitors expect — not forge-fire, aperture-heat, the remainder of too much looking. Notes are sealed. Gauges sit on desks that are not altars. People who work here stop using the word “see” without meaning a ring of glass.</p>
+
+<p>Entity Analysts, Han Researchers, Sorrow Cartographers, M.A.W. Specialists who do not extract — they file potential. Agents generate Observation Points by working on Floor 2; Floor 4 writes what that work meant. Clerks keep ledgers that are not vault names. Analysts posted here for consecutive days keep those ledgers across a week. Reassigning them to the keep without a file is how Floor 2 starts guessing. The Cartographer's Den is Yeonhwa's workspace for maps and lenses. SED preparation lives there as paper, not as a dive launched from this shaft. Floor 5 logs the wall. Floor 7 leaves it. Floor 4 files so neither of them is guessing what they walked into.</p>
+<p>Core Suppression here is an aperture that will not close — looking as a wound, ledgers that lie. When it ends, this shaft still has to file, or the keep stays blind. It is not Floor 2's hunger and not Floor 8's answering Gate. Ayshuk cannot feel sorrow. That is why the ledgers can be trusted until the aperture refuses to close. Then the wound is that looking, and the floor still has to remember it was never an eye.</p>
+
+</section>
+<section class="wiki-section" id="look">
+<h2 class="section-title">Looking as a craft</h2>
+<p>Viderehan is the fastest path on the observation ladder because looking is this floor's craft. Success: +3 Observation Points. Flerehan and Pugnahan +2. Ferrehan +1. Gates: 0→1 needs 5; 1→2 needs 20; 2→3 needs 50; 3→4 needs 100. Level 0 Unknown after containment. Level 1 Observed after one successful Work Type. Level 2 Studied after five. Level 3 Understood after fifteen and a survived breach. Level 4 Mastered after thirty, three breaches, and an entity-specific condition. M.A.W. extraction is a separate risk event. SE-003 never yields. Mixing Observation Level with Hope Intensity or Coherence is how a small job gets a funeral.</p>
+<p>Aperture glass in rings. No iris. No pupil. Ledgers that smell of old tears without being the Grand Archive. When a reading starts to calcify, the room gets quieter, and that is the moment it has to leave for Floor 8.</p>
+
+<p>People who work here stop using the word “see” without meaning a ring of glass. Notes are sealed. Gauges sit on desks that are not altars. Quieter than the Keep, hotter than visitors expect. When a reading starts to calcify, the room gets quieter still, and that is the moment it has to leave for Floor 8. Han-flow maps must be routes Floor 5 can walk, not theories Floor 4 enjoyed. Observation Level 0→1 on one entity is a named mission because Floor 2 should not guess. If Floor 4 is behind, the keep is folklore, and folklore in a cell is a hallway.</p>
+
+</section>
+<section class="wiki-section" id="rooms">
+<h2 class="section-title">Aperture rooms</h2>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Room</th><th>Description</th><th>Function</th></tr></thead>
+<tbody>
+<tr><td><strong>Research Laboratories</strong></td><td>Individual labs for Han analysis — equipment, samples, documentation</td><td>Han research, entity study</td></tr>
+<tr><td><strong>The Classification Archive</strong></td><td>Database room — Sorrow Classification System records</td><td>Entity classification, data storage</td></tr>
+<tr><td><strong>Sorrow Mapping Chamber</strong></td><td>Room with Han-flow visualization equipment</td><td>Han-flow mapping, city structure analysis</td></tr>
+<tr><td><strong>Testing Chambers</strong></td><td>Controlled environments for entity interaction experiments</td><td>Controlled entity testing</td></tr>
+<tr><td><strong>The Specimen Vault</strong></td><td>Storage for Han samples, entity fragments, research materials</td><td>Sample storage</td></tr>
+<tr><td><strong>The Cartographer's Den</strong></td><td>Yeonhwa's personal workspace — maps, lenses, flow charts</td><td>SED preparation, map analysis</td></tr>
+</tbody></table></div>
+<div class="room-schematic" style="--floor:#71efaf">
+<article><span>ROOM</span><b>Research Laboratories</b><small>Individual labs for Han analysis — equipment, samples, documentation</small><small>Han research, entity study</small></article>
+<article><span>ROOM</span><b>The Classification Archive</b><small>Database room — Sorrow Classification System records</small><small>Entity classification, data storage</small></article>
+<article><span>ROOM</span><b>Sorrow Mapping Chamber</b><small>Room with Han-flow visualization equipment</small><small>Han-flow mapping, city structure analysis</small></article>
+<article><span>ROOM</span><b>Testing Chambers</b><small>Controlled environments for entity interaction experiments</small><small>Controlled entity testing</small></article>
+<article><span>ROOM</span><b>The Specimen Vault</b><small>Storage for Han samples, entity fragments, research materials</small><small>Sample storage</small></article>
+<article><span>ROOM</span><b>The Cartographer's Den</b><small>Yeonhwa's personal workspace — maps, lenses, flow charts</small><small>SED preparation, map analysis</small></article>
+</div>
+
+<p>Aperture rooms are rings, ledgers, and the Cartographer's Den. They are not Floor 2's cells and not Floor 3's frames. An observation kit signed in expansion is a tool on a desk, not a new floor. An upgrade nobody staffs is an Ordeal spawn. Sign assignment first. Freeze during Facility Meltdown and Tide Watch — no Architect crews in this shaft either.</p>
+<p>Walk the Forge and the rooms are desks, rings, and sealed notes. Aperture glass in rings — no iris, no pupil. Ledgers that smell of old tears without being the Grand Archive. The Cartographer's Den holds maps and lenses; SED preparation lives there as paper. An observation kit signed in expansion is a tool on a desk. An unstaffed desk is an Ordeal spawn. Sign assignment first. When a reading calcifies, the room goes quieter, and the reading leaves for Floor 8.</p>
+</section>
+<section class="wiki-section" id="ladder">
+<h2 class="section-title">The observation ladder</h2>
+<p>The ladder is not a floor project. It is how a Sorrow Entity goes from a code on a door to a profile you can work. Research projects on this floor — Aperture Never an Eye, Han Object Manual, Observation Ledger — unlock the tools for that ladder. They are not a fourth observation level. Named missions: Look Without an Eye, File Before They Guess, Map the Han, Taboo Leaves.</p>
+
+<p>Look Without an Eye, File Before They Guess, Map the Han, Taboo Leaves. Completing them unlocks Aperture Never an Eye, Han Object Manual, Observation Ledger. Those are tools for the ladder. They are not a fourth observation level. They are not a frame. They are not a Named Vigil. Cross-floor archive key with Floor 6 completes on both desks or it is still open: Floor 4 may request a cylinder; Floor 6 may refuse. Curiosity is not clearance, including this shaft's curiosity.</p>
+
+</section>
+<section class="wiki-section" id="law">
+<div class="wiki-callout hazard"><header>FLOOR 04 · FAIL LINE</header><p>A reading that calcifies and stays is already Taboo on the wrong floor.</p></div>
+<h2 class="section-title">When looking becomes law</h2>
+<p>False understanding. Entity deception. Resonance overload. A reading that calcifies into Taboo and is not sent down. The Cartographer's Den is Yeonhwa's workspace for maps and lenses — SED preparation lives there as paper, not as a dive launched from this shaft. Floor 5 logs the wall. Floor 7 leaves it. Floor 4 files so neither of them is guessing what they walked into.</p>
+
+<p>False understanding. Entity deception. Resonance overload. A reading that calcifies into Taboo and is not sent down. Those are this floor's failures. Core Suppression is the aperture that will not close. Facility Meltdown is all eight. An Ordeal is a color. Tide is Floor 5's log. Sending Forge analysts to the wall because a map looked like a slit is how you lose two hanging shafts for the price of one misread.</p>
+<p>False understanding, entity deception, resonance overload, a Taboo-shaped note that stayed. Those are this shaft's failures, not Floor 2's hunger and not Floor 8's answering Gate. Cross-floor archive key with Floor 6 completes on both desks or it is still open. Floor 4 may request. Floor 6 may refuse. Curiosity is not clearance, including this shaft's.</p>
+</section>
+
+<section class="wiki-section" id="staff">
+<h2 class="section-title">Who may look</h2>
+<div class="staff-plate" style="--floor:#71efaf"><article><span>LEAD</span><b>Ayshuk</b><small>Cannot feel sorrow. Ledgers without bias.</small></article><article><span>ANALYST</span><b>File</b><small>Clarity / Composure. Consecutive posting keeps the week.</small></article><article><span>MAP</span><b>Cartographer</b><small>Routes Floor 5 can walk.</small></article><article><span>CRAFT</span><b>Aperture</b><small>Rings. Never an eye.</small></article></div>
+<p>Forge analysts want Clarity and Composure — observe without becoming the paper. Ayshuk cannot feel sorrow and reviews ledgers without bias because of that. Clerks keep ledgers that are not vault names. Cartographers make maps Floor 5 can walk. M.A.W. Specialists here file potential; they do not extract. Agents generate Observation Points on Floor 2; this floor writes what the work meant. Consecutive posting keeps ledgers across a week.</p>
+<p>DSE. No Named Vigil as Forge uniform. Viderehan is the craft: rings, never an eye. A reading that calcifies leaves for Floor 8. Floor 6 may refuse a cylinder. Curiosity is not clearance, including this shaft's.</p>
+<p>Core Suppression is an aperture that will not close. An Ordeal is not File Before They Guess. Facility Meltdown: file what failed; do not invent a new SECC in the smoke. Panic here is looking as hallucination. SP is Clarity. Rest is the infirmary on the palm, not a clever note.</p>
+</section>
+
+<section class="wiki-section" id="named">
+<h2 class="section-title">Named missions</h2>
+<p>Ayshuk's named list is looking as a craft: Look Without an Eye, File Before They Guess, Map the Han, Taboo Leaves. They finish when the Forge actually filed something Floor 2 can use. Quota 100 is looking's thin cost, not a keep harvest.</p>
+<div class="table-wrap"><table class="wiki-table"><thead><tr><th>Mission</th><th>Echo-Core brief and goal</th></tr></thead><tbody><tr><td><strong>Look Without an Eye</strong></td><td><em>“Viderehan is an aperture. If you call looking an eye, you are already in the wrong company.”</em><br><strong>Goal:</strong> Complete 4 Viderehan observations on housed entities.</td></tr><tr><td><strong>File Before They Guess</strong></td><td><em>“Floor 2 should not enter a cell on folklore. You file physiology and work response so the keep is not guessing.”</em><br><strong>Goal:</strong> Raise 1 entity from Observation Level 0 to 1.</td></tr><tr><td><strong>Map the Han</strong></td><td><em>“Lament, Grudge, Void, Weight — those are objects, not a copied damage wheel. Map them where they actually sit.”</em><br><strong>Goal:</strong> Complete 1 Han-flow map that Floor 5 can walk.</td></tr><tr><td><strong>Taboo Leaves</strong></td><td><em>“If a reading calcifies into Taboo-shaped law, it leaves for Floor 8. You do not keep it as a clever note.”</em><br><strong>Goal:</strong> Refer 1 Taboo-shaped finding to Gate Watch.</td></tr></tbody></table></div>
+<div class="brief-stack">
+<article class="brief-card" style="--floor:#71efaf"><header>Look Without an Eye<small>NAMED 01</small></header><blockquote><p>“Viderehan is an aperture. If you call looking an eye, you are already in the wrong company.”</p></blockquote><p class="brief-goal">Goal — Complete 4 Viderehan observations on housed entities.</p></article>
+<article class="brief-card" style="--floor:#71efaf"><header>File Before They Guess<small>NAMED 02</small></header><blockquote><p>“Floor 2 should not enter a cell on folklore. You file physiology and work response so the keep is not guessing.”</p></blockquote><p class="brief-goal">Goal — Raise 1 entity from Observation Level 0 to 1.</p></article>
+<article class="brief-card" style="--floor:#71efaf"><header>Map the Han<small>NAMED 03</small></header><blockquote><p>“Lament, Grudge, Void, Weight — those are objects, not a copied damage wheel. Map them where they actually sit.”</p></blockquote><p class="brief-goal">Goal — Complete 1 Han-flow map that Floor 5 can walk.</p></article>
+<article class="brief-card" style="--floor:#71efaf"><header>Taboo Leaves<small>NAMED 04</small></header><blockquote><p>“If a reading calcifies into Taboo-shaped law, it leaves for Floor 8. You do not keep it as a clever note.”</p></blockquote><p class="brief-goal">Goal — Refer 1 Taboo-shaped finding to Gate Watch.</p></article>
+</div>
+<p>The Forge's roster is observation, filing, mapping, and sending calcified readings down. Completing a named mission unlocks this floor's three tools. Floor 1 has no named missions.</p>
+</section>
+<section class="wiki-section" id="research">
+<h2 class="section-title">Research projects</h2>
+<p>After the Forge's named missions: Aperture Never an Eye, Han Object Manual, Observation Ledger. Tools for the ladder, not a fourth observation level, not a frame, not a Named Vigil.</p>
+<div class="table-wrap"><table class="wiki-table"><thead><tr><th>Project</th><th>What it actually unlocks</th></tr></thead><tbody><tr><td><strong>Aperture, Never an Eye</strong></td><td><em>“Viderehan as a craft. Looking is not a damage type called Insight.”</em><br>Display observation progress without drawing an eye on the UI.</td></tr><tr><td><strong>Han Object Manual</strong></td><td><em>“Lament, Grudge, Void, Weight as distinct objects. Hope when it applies. Not a copied four-color wheel.”</em><br>Show Han type and value on work and on breach.</td></tr><tr><td><strong>Observation Ledger</strong></td><td><em>“Level 0 to 4 is a ladder Floor 2 climbs with your notes. M.A.W. extraction is not a level-up chest.”</em><br>Unlock the research ledger on each housed entity.</td></tr></tbody></table></div>
+<div class="tool-plate" style="--floor:#71efaf">
+<article><b>Aperture, Never an Eye</b><p>Display observation progress without drawing an eye on the UI.</p></article>
+<article><b>Han Object Manual</b><p>Show Han type and value on work and on breach.</p></article>
+<article><b>Observation Ledger</b><p>Unlock the research ledger on each housed entity.</p></article>
+</div>
+<p>Aperture Never an Eye is rings, not an iris. Han Object Manual is so Floor 2 is not guessing in a cell. Observation Ledger is the ladder's paper. M.A.W. extraction is not a reward at Level 4. SE-003 never yields. Taboo-shaped law still leaves for Floor 8.</p>
+</section>
+<section class="wiki-section" id="roster">
+<h2 class="section-title">Daily roster</h2>
+<p>Research, Han analysis, classification, mapping, documentation, experimentation. Keep the table. It is not Floor 2's work cycle with nicer lighting.</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Mission</th><th>Description</th><th>Personnel</th><th>Frequency</th></tr></thead>
+<tbody>
+<tr><td><strong>Entity Research</strong></td><td>Conduct Observation and research projects</td><td>Specialists, Senior Agents</td><td>Daily</td></tr>
+<tr><td><strong>Han Analysis</strong></td><td>Study Han properties, flows, and behavior</td><td>Specialists, Agents</td><td>Daily</td></tr>
+<tr><td><strong>Entity Classification</strong></td><td>Update SCS database with new entities</td><td>Specialists, Clerks</td><td>As needed</td></tr>
+<tr><td><strong>Sorrow Mapping</strong></td><td>Map Han flows throughout the city</td><td>Agents, Technicians</td><td>Weekly</td></tr>
+<tr><td><strong>Research Documentation</strong></td><td>Record and catalog research findings</td><td>Clerks, Specialists</td><td>Daily</td></tr>
+<tr><td><strong>Experimentation</strong></td><td>Conduct controlled experiments on Han properties</td><td>Specialists</td><td>Weekly</td></tr>
+</tbody></table></div>
+<p>This shaft spends a day filing, not farming. Observation Points come from Floor 2 work; this floor writes what they meant. Cartography is routes Floor 5 can walk. A reading that calcifies leaves. Consecutive posting keeps ledgers across days. A tourist from the keep does not.</p>
+</section>
+
+</div>
+<aside class="character-infobox" style="--entity:#71efaf">
+  <h2>FLOOR 4</h2>
+  <div class="infobox-image-wrap"><img src="../assets/art/departments/f4-icon.svg?v=20260831ao" alt="Floor 4 aperture"></div>
+  <h3>INSIGHT</h3>
+  <dl class="fact-grid">
+    <dt>Korean</dt><dd>통찰의 용광로</dd>
+    <dt>Lead</dt><dd><a href="../characters/the-research-lead-ayshuk.html">Ayshuk</a></dd>
+    <dt>Role</dt><dd>Viderehan · classification</dd>
+    <dt>Tool</dt><dd>Aperture — never an eye</dd>
+    <dt>Not</dt><dd>M.A.W. minting</dd>
+    <dt>Motto</dt><dd>Understanding first.</dd>
+  </dl>
+</aside>
+</div>
+
+<section class="cross-reference-section"><div class="cross-ref-header">ON THIS FLOOR</div><div class="cross-ref-grid"><a href="../characters/the-research-lead-ayshuk.html" class="cross-ref-card"><img src="../assets/avatars/avatar_core_ayshuk.svg" alt=""><div class="cross-ref-meta"><span class="cross-ref-cat">LEAD</span><span class="cross-ref-title">AYSHUK</span></div></a><a href="../mechanics/the-four-work-types.html" class="cross-ref-card"><img src="../assets/art/mechanics/work-types-icon.svg" alt=""><div class="cross-ref-meta"><span class="cross-ref-cat">WORK</span><span class="cross-ref-title">FOUR TYPES</span></div></a><a href="../mechanics/han-energy-and-damage.html" class="cross-ref-card"><img src="../assets/art/mechanics/han-energy-icon.svg" alt=""><div class="cross-ref-meta"><span class="cross-ref-cat">HAN</span><span class="cross-ref-title">FOUR COLORS</span></div></a><a href="research-observation.html" class="cross-ref-card"><img src="../assets/art/departments/research-banner.svg" alt=""><div class="cross-ref-meta"><span class="cross-ref-cat">LADDER</span><span class="cross-ref-title">RESEARCH</span></div></a></div></section>
+</main>
+</div>
+<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  <div class="footer-signal" aria-hidden="true">
+    <span>RD://PUBLIC-NET</span><i></i>
+    <span>SECC LINK STABLE</span><i></i>
+    <span>FACILITY 01 // GATE WATCH</span><i></i>
+    <span>PUBLICATION GATES PASSING</span>
+  </div>
+
+  <div class="footer-hero">
+    <section class="footer-identity" aria-label="Somnarak Wiki">
+      <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
+      <a class="footer-brand" href="../index.html">
+        <span class="footer-emblem"><img src="../assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
+      </a>
+      <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
+      <p>The public record follows Somnarak from the Alpha Tree and five city zones into Facility 01, where witnessed canon is curated without replacing absence with invention.</p>
+      <div class="footer-badges" aria-label="Archive classification">
+        <span>FACILITY 01</span><span>DIRECTORATE</span><span>PUBLIC CODEX</span>
+      </div>
+    </section>
+
+    <figure class="footer-network">
+      <div class="footer-network-frame">
+        <img src="../assets/layout/footer-directorate-network.svg" alt="Directorate archive topology linking the Alpha Tree, five city zones, Facility 01, Gate Watch, and eight public archive gateways"/>
+        <span class="footer-network-scan" aria-hidden="true"></span>
+      </div>
+      <figcaption><span>Live archive topology</span><b>ALPHA TREE → FACILITY 01 → PUBLIC CODEX</b></figcaption>
+    </figure>
+
+    <section class="footer-status" aria-label="Current archive status">
+      <span>Verified repository snapshot</span>
+      <strong>1.8.31</strong>
+      <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
+      <dl>
+        <div><dt>Public records</dt><dd>197 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
+        <div><dt>Cycle state</dt><dd>ENDED</dd></div>
+        <div><dt>Gate command</dt><dd>XYAN</dd></div>
+      </dl>
+    </section>
+  </div>
+
+  <div class="footer-directory">
+    <section class="footer-archives" aria-labelledby="footer-archives-title">
+      <header><span>Primary collections</span><h2 id="footer-archives-title">Eight Archive Gateways</h2><p>Continue through the complete public taxonomy.</p></header>
+      <div>
+        <a href="../characters/index.html" data-footer-archive="01" style="--gateway:#ef5b55"><span>01</span><b>Echo-Cores</b><small>Characters</small></a>
+        <a href="../lore/index.html" data-footer-archive="02" style="--gateway:#a78bfa"><span>02</span><b>Cycle Archive</b><small>Lore</small></a>
+        <a href="../locations/index.html" data-footer-archive="03" style="--gateway:#38bdf8"><span>03</span><b>City Atlas</b><small>Locations</small></a>
+        <a href="../factions/index.html" data-footer-archive="04" style="--gateway:#f59e0b"><span>04</span><b>Orders</b><small>Factions</small></a>
+        <a href="../departments/index.html" data-footer-archive="05" style="--gateway:#71efaf"><span>05</span><b>Hand of Change</b><small>Facility</small></a>
+        <a href="../entities/index.html" data-footer-archive="06" style="--gateway:#fb7185"><span>06</span><b>SECC Registry</b><small>Entities</small></a>
+        <a href="../maw/index.html" data-footer-archive="07" style="--gateway:#f1df76"><span>07</span><b>M.A.W. Arsenal</b><small>Equipment</small></a>
+        <a href="../mechanics/index.html" data-footer-archive="08" style="--gateway:#60a5fa"><span>08</span><b>Systems Codex</b><small>Mechanics</small></a>
+      </div>
+    </section>
+
+    <nav class="footer-links" aria-label="Archive resources">
+      <header><span>Project access</span><h2>Archive Resources</h2><p>Inspect provenance, files, and visual infrastructure.</p></header>
+      <div>
+        <a href="../project/source-map.html" data-footer-link="R-01"><b>Source Map</b><small>Canon provenance</small></a>
+        <a href="../downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
+        <a href="../assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
+        <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+      </div>
+    </nav>
+  </div>
+
+  <section class="footer-register" aria-label="Publication register">
+    <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
+    <dl>
+      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+    </dl>
+    <div class="footer-protocols">
+      <span><b>01</b> SOURCE-LED CONTENT</span>
+      <span><b>02</b> DISTINCT VISUAL FORM</span>
+      <span><b>03</b> NO RECOLOR-ONLY ART</span>
+      <span><b>04</b> VERIFIED LOCAL ROUTES</span>
+    </div>
+  </section>
+
+  <div class="footer-base">
+    <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
+    <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Resonant Clash &amp; Combat Mechanics — Somnarak Official Wiki</title>
+<link href="../assets/css/wiki.css?v=20260831g" rel="stylesheet"/>
+<link href="../assets/icons/somnarak_icon.svg" rel="icon" type="image/svg+xml"/>
+<script defer="" src="../assets/js/wiki.js?v=20260831g"></script>
+</head>
+<body>
+<!-- Top Utility Bar -->
+<header class="utility" data-component="global-top-bar">
+  <div class="utility-left">
+    <button class="nav-open" type="button" aria-controls="primary-archive-navigation" aria-expanded="false" aria-label="Open primary archive navigation">
+      <span class="nav-open-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="nav-open-text">MENU</span>
+    </button>
+    <a class="utility-brand" href="../index.html" aria-label="Somnarak Wiki main page">
+      <img src="../assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
+    </a>
+    <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>
+  </div>
+  <nav class="utility-nav" id="primary-archive-navigation" aria-label="Primary archive">
+      <a href="../index.html" data-archive="00"><span>Main</span><small>Terminal</small></a>
+      <a href="../characters/index.html" data-archive="01"><span>Characters</span><small>Echo-Cores</small></a>
+      <a href="../lore/index.html" data-archive="02"><span>Lore</span><small>Cycles</small></a>
+      <a href="../locations/index.html" data-archive="03"><span>Atlas</span><small>City</small></a>
+      <a href="../factions/index.html" data-archive="04"><span>Factions</span><small>Orders</small></a>
+      <a href="../departments/index.html" data-archive="05"><span>Facility</span><small>Floors</small></a>
+      <a href="../entities/index.html" data-archive="06"><span>Entities</span><small>SECC</small></a>
+      <a href="../maw/index.html" data-archive="07"><span>M.A.W.</span><small>Arsenal</small></a>
+      <a href="../mechanics/index.html" data-archive="08" class="is-current" aria-current="page"><span>Mechanics</span><small>Systems</small></a>
+      <a href="../downloads.html" data-archive="09"><span>Downloads</span><small>Files</small></a>
+  </nav>
+  <div class="search" role="search">
+    <label for="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search Somnarak Wiki</span></label>
+    <input id="search" type="search" aria-label="Search Somnarak Wiki" aria-controls="results" aria-expanded="false" data-index="../data/search.json" placeholder="Search the archive" autocomplete="off" spellcheck="false"/>
+    <kbd aria-hidden="true">/</kbd>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</header>
+<!-- Main Grid Layout -->
+<div class="wiki-shell">
+<!-- Left Rail -->
+
+    <aside class="left-rail">
+      <div class="site-mark">
+        <a href="../index.html">
+          <img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+          <b>SOMNARAK</b>
+          <span>OFFICIAL WIKI ARCHIVE</span>
+        </a>
+      </div>
+      <nav aria-label="Wiki navigation" class="left-links">
+        <section>
+          <h2>DATABASE HUBS</h2>
+          <a href="../index.html">Main Overview</a>
+          <a href="../characters/index.html">Characters Hub</a>
+          <a href="../lore/index.html">Lore &amp; Cosmology</a>
+          <a href="../locations/index.html">Locations &amp; Atlas</a>
+          <a href="../factions/index.html">Factions &amp; Guilds</a>
+          <a href="../departments/index.html">Facility Floors</a>
+          <a href="../entities/index.html">Sorrow Entities</a>
+          <a href="../maw/index.html">M.A.W. Equipment</a>
+          <a href="../mechanics/index.html">Systems &amp; Mechanics</a>
+        </section>
+        <section>
+          <h2>THE NINE ECHO-CORES</h2>
+          <a href="../characters/the-director-majin.html">1. Director Majin</a>
+          <a href="../characters/the-secretary-seiyon.html">2. Seiyon (Secretary)</a>
+          <a href="../characters/the-containment-lead-dekan.html">3. Dekan (Containment)</a>
+          <a href="../characters/the-extraction-lead-zyrak.html">4. Zyrak (Extraction)</a>
+          <a href="../characters/the-research-lead-ayshuk.html">5. Ayshuk (Research)</a>
+          <a href="../characters/the-border-lead-mellda.html">6. Mellda (Border)</a>
+          <a href="../characters/the-archive-lead-marjuk.html">7. Marjuk (Archive)</a>
+          <a href="../characters/the-outsider-ishall.html">8. Ishall (Outsider)</a>
+          <a href="../characters/the-exile-xyan.html">9. Xyan (Exile)</a>
+        </section>
+        <section>
+          <h2>CARTOGRAPHY &amp; SCHEMATICS</h2>
+          <a href="../atlas/hand-of-change-map.html">Hand of Change Map</a>
+          <a href="../atlas/somnarak-city-map.html">Somnarak City Blueprint</a>
+          <a href="../project/source-map.html">Master Archive Map</a>
+        </section>
+      </nav>
+    </aside>
+
+<!-- Main Content Body -->
+<main id="content">
+<!-- Tactical Fast-Jump Subpage Bar -->
+<div class="fast-jump-nav">
+  <span class="fast-jump-title">/// RAPID JUMP:</span>
+  <div class="fast-jump-pills">
+    <a href="han-energy-and-damage.html" class="jump-pill">Damage Matrix</a> <a href="the-four-work-types.html" class="jump-pill">Work Types</a> <a href="../entities/index.html#classification" class="jump-pill">SECC</a> <a href="resonant-clash-mechanics.html" class="jump-pill active">Clash Rules</a> <a href="ordeals-framework.html" class="jump-pill">Ordeals</a> <a href="agent-attributes-and-stats.html" class="jump-pill">Agent Stats</a> <a href="containment-and-suppression.html" class="jump-pill">Containment</a> <a href="maw-equipment-system.html" class="jump-pill">MAW System</a> <a href="taboo-resonance-mechanics.html" class="jump-pill">Taboo Mechanics</a> <a href="index.html" class="jump-pill">✦ Systems Hub</a>
+  </div>
+</div>
+<!-- Tactical Directive Status HUD -->
+<div class="tactical-directive-box">
+  <div class="directive-text">
+    <span class="led-dot led-green"></span> <b>STATUS:</b> ARCHIVE VERIFIED &nbsp;|&nbsp;
+    <b>CLEARANCE:</b> LEVEL-4 OVERSIGHT &nbsp;|&nbsp;
+    <b>PROTOCOL:</b> REVERIE DIRECTORATE
+  </div>
+  <img src="../assets/icons/hud_resonance_wave.svg" alt="Resonance Wave" class="directive-wave">
+</div>
+<!-- Page Tabs -->
+<div class="page-tabs">
+<span>ARTICLE</span>
+<span>DISCUSSION</span>
+<span>SOURCE</span>
+<span>HISTORY</span>
+<b>YEAR 4,238 · DAWN OF HOPE</b>
+</div>
+<!-- Breadcrumbs -->
+<div class="breadcrumbs">
+<a href="../index.html">Somnarak</a> <i>/</i>
+<a href="../mechanics/index.html">Systems &amp; Mechanics</a> <i>/</i>
+<span>Resonant Clash &amp; Combat Mechanics</span>
+</div>
+<!-- Article Header -->
+<div class="article-header">
+<div class="article-eyebrow">SYSTEMS &amp; MECHANICS RECORD</div>
+<h1 class="article-title">Resonant Clash &amp; Combat Mechanics</h1>
+<div class="article-subbar">
+<span class="badge badge-canon">CANONICAL ARTIFACT</span>
+<span class="badge badge-source">SOURCE VERIFIED</span>
+<div class="article-actions">
+<span class="action-btn">History</span>
+<span class="action-btn">View Source</span>
+</div>
+</div>
+</div>
+<div class="toc" id="toc">
+<div class="toc-title">Contents</div>
+<ol>
+<li><a href="#narrative-combat-framework">Narrative Combat Framework</a></li><li><a href="#battle-turn-rules">Battle Turn Rules</a></li><li><a href="#narrative-combat-framework">Narrative Combat Framework</a></li><li><a href="#i-combat-flow-how-battles-unfold">I. Combat Flow — How Battles Unfold</a></li><li><a href="#ii-entity-combat-behavior-how-entities-fight">II. Entity Combat Behavior — How Entities Fight</a></li><li><a href="#iii-personnel-combat-actions-what-characters-do">III. Personnel Combat Actions — What Characters Do</a></li><li><a href="#iv-battle-consequences">IV. Battle Consequences</a></li><li><a href="#v-boss-encounters-special-mechanics">V. Boss Encounters — Special Mechanics</a></li><li><a href="#vi-battle-atmosphere">VI. Battle Atmosphere</a></li><li><a href="#vii-battle-narrative-structure">VII. Battle Narrative Structure</a></li>
+</ol>
+</div>
+<!-- wiki-flare -->
+<div class="lore-article character-article wiki-article-grid">
+  <div class="character-main-content lore-main">
+<blockquote class="wiki-quote"><p>“In Somnarak, every battle is a conversation between sorrow and survival.”</p><div class="quote-author">— Clash primer</div></blockquote>
+<figure class="lore-banner"><img src="../assets/art/mechanics/clash-banner.svg" alt="RESONANT CLASH"></figure>
+<div class="prop-tile-grid"><article class="prop-tile" style="--tile:#ef5b55"><img src="../assets/art/mechanics/clash-icon.svg" alt=""><b>Clash</b><small>Two forces meet</small></article><article class="prop-tile" style="--tile:#38bdf8"><img src="../assets/art/mechanics/element-lament.svg" alt=""><b>Han type</b><small>Sets the tooth</small></article><article class="prop-tile" style="--tile:#ef5b55"><img src="../assets/art/mechanics/work-pugnahan.svg" alt=""><b>Approach</b><small>Work chooses the blow</small></article></div>
+<section class="wiki-section" id="overview">
+<h2 class="section-title">Overview</h2>
+<p># SOMNARAK — Battle System</p>
+</section>
+<section class="wiki-section" id="battle-turn-rules">
+<h2 class="section-title">Battle Turn Rules</h2>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Battle Type</th><th>Minimum Turns</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td><strong>Short</strong></td><td>10 turns</td><td>Quick encounter — minor entity, small skirmish</td></tr>
+<tr><td><strong>Medium</strong></td><td>16 turns</td><td>Standard encounter — moderate entity, Fray confrontation</td></tr>
+<tr><td><strong>Long</strong></td><td>20+ turns</td><td>Major encounter — powerful entity, boss fight, critical mission</td></tr>
+</tbody></table></div>
+<p><strong>Each turn includes:</strong></p>
+<ul>
+<li>Character actions</li>
+<li>Dialogue</li>
+<li>Combat mechanics</li>
+<li>Environmental description</li>
+<li>Emotional beats</li>
+</ul>
+<p># SOMNARAK — Battle System</p>
+</section>
+<section class="wiki-section" id="narrative-combat-framework">
+<h2 class="section-title">Narrative Combat Framework</h2>
+<div class="wiki-callout"><p><em>"In Somnarak, every battle is a conversation between sorrow and survival."</em></p></div>
+</section>
+<section class="wiki-section" id="i-combat-flow-how-battles-unfold">
+<h2 class="section-title">I. Combat Flow — How Battles Unfold</h2>
+<h3>The Three Phases</h3>
+<p>Every battle in Somnarak follows three phases:</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Phase</th><th>Name</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td><strong>1</strong></td><td><strong>Tension</strong></td><td>The build-up — assessing the threat, preparing, positioning</td></tr>
+<tr><td><strong>2</strong></td><td><strong>Clash</strong></td><td>The confrontation — Work Types, M.A.W., entity response</td></tr>
+<tr><td><strong>3</strong></td><td><strong>Resolution</strong></td><td>The outcome — containment, escape, Fracture, or death</td></tr>
+</tbody></table></div>
+<h3>Phase 1: Tension (긴장 — Ginjang)</h3>
+<p><strong>What happens:</strong></p>
+<ul>
+<li>The threat is identified — entity, Fractured being, environmental hazard</li>
+<li>Personnel assess the situation — Sorrow Gauge, entity classification, Work Type selection</li>
+<li>Positioning — who goes where, who does what</li>
+<li>Equipment check — M.A.W. status, attribute assessment</li>
+</ul>
+<p><strong>Narrative focus:</strong></p>
+<ul>
+<li>The atmosphere — what does the air feel like? What does the entity look like?</li>
+<li>The characters — what are they thinking? What are they afraid of?</li>
+<li>The stakes — what happens if they fail?</li>
+</ul>
+<p><strong>Duration in story:</strong> Minutes to hours — depending on the threat level.</p>
+<h3>Phase 2: Clash (충돌 — Chungdol)</h3>
+<p><strong>What happens:</strong></p>
+<ul>
+<li>Work Types are performed — Flerehan, Pugnahan, Viderehan, Ferrehan</li>
+<li>M.A.W. is activated — weapons strike, armor protects, tools assist</li>
+<li>The entity responds — attacking, defending, transforming, retreating</li>
+<li>Attributes are tested — Resilience, Clarity, Composure, Resolve</li>
+</ul>
+<p><strong>Narrative focus:</strong></p>
+<ul>
+<li>The action — what does the combat look like? What does it feel like?</li>
+<li>The characters — how do they react under pressure? What do they sacrifice?</li>
+<li>The entity — what does it want? How does it fight? What is its weakness?</li>
+<li>The escalation — does the battle intensify? Does the entity transform?</li>
+</ul>
+<p><strong>Duration in story:</strong> Minutes to days — depending on the entity's power.</p>
+<h3>Phase 3: Resolution (결의 — Gyeol-ui)</h3>
+<p><strong>What happens:</strong></p>
+<ul>
+<li>The outcome — containment, escape, Fracture, or death</li>
+<li>Consequences — injuries, attribute changes, M.A.W. damage</li>
+<li>Aftermath — what was learned? What was lost? What changed?</li>
+<li>Documentation — the battle is recorded in the facility log</li>
+</ul>
+<p><strong>Narrative focus:</strong></p>
+<ul>
+<li>The cost — what did the battle cost? Who was hurt? What was lost?</li>
+<li>The lesson — what did the characters learn? How did they change?</li>
+<li>The aftermath — how does the world respond? What happens next?</li>
+</ul>
+</section>
+<section class="wiki-section" id="ii-entity-combat-behavior-how-entities-fight">
+<h2 class="section-title">II. Entity Combat Behavior — How Entities Fight</h2>
+<h3>Entity Behavior Patterns</h3>
+<p><span>Each <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a> has a </span><strong>combat behavior</strong> based on its Coherence level, Element, and Manifestation type.</p>
+<h4>By Coherence Level</h4>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Coherence</th><th>Combat Behavior</th></tr></thead>
+<tbody>
+<tr><td><strong>I — Residue</strong></td><td>Passive — does not attack directly, causes ambient distress</td></tr>
+<tr><td><strong>II — Echo</strong></td><td>Reactive — responds to stimuli, mimics behavior</td></tr>
+<tr><td><strong>III — Fragment</strong></td><td>Active — seeks, attacks, has preferences</td></tr>
+<tr><td><strong>IV — Entity</strong></td><td>Intelligent — strategizes, communicates, adapts</td></tr>
+<tr><td><strong>V — Sovereign</strong></td><td>Autonomous — unpredictable, reality-bending</td></tr>
+</tbody></table></div>
+<h4>By Element</h4>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Element</th><th>Combat Style</th><th>Weakness</th></tr></thead>
+<tbody>
+<tr><td><strong>Lament (Deep Blue)</strong></td><td>Emotional attacks — grief waves, sorrow overwhelming</td><td>Clarity (mental resistance)</td></tr>
+<tr><td><strong>Grudge (Crimson)</strong></td><td>Physical attacks — rage strikes, relentless assault</td><td>Resilience (physical endurance)</td></tr>
+<tr><td><strong>Void (Pale White)</strong></td><td>Identity attacks — memory theft, reality distortion</td><td>Composure (emotional control)</td></tr>
+<tr><td><strong>Weight (Black)</strong></td><td>Pressure attacks — debt accumulation, crushing sorrow</td><td>Resolve (willpower)</td></tr>
+</tbody></table></div>
+<h4>By Manifestation Type</h4>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Type</th><th>Combat Behavior</th></tr></thead>
+<tbody>
+<tr><td><strong>Subject (Being)</strong></td><td>Direct combat — physical attacks, abilities</td></tr>
+<tr><td><strong>Object (Thing)</strong></td><td>Passive effects — area denial, status effects</td></tr>
+<tr><td><strong>Place (Location)</strong></td><td>Environmental — the battlefield itself is the enemy</td></tr>
+<tr><td><strong>Time (Moment)</strong></td><td>Temporal — time distortion, déjà vu, loops</td></tr>
+</tbody></table></div>
+<h3>Entity Combat Actions</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Action</th><th>Description</th><th>Trigger</th></tr></thead>
+<tbody>
+<tr><td><strong>Sorrow Wave</strong></td><td>A burst of Han-energy that affects all nearby</td><td>Entity is agitated</td></tr>
+<tr><td><strong>Targeted Strike</strong></td><td>A focused attack on a specific person</td><td>Entity identifies a threat</td></tr>
+<tr><td><strong>Sorrow Absorption</strong></td><td>Drains Han from nearby personnel</td><td>Entity is hungry</td></tr>
+<tr><td><strong>Transformation</strong></td><td>Changes form or abilities</td><td>Entity is losing</td></tr>
+<tr><td><strong>Retreat</strong></td><td>Withdraws to a safer location</td><td>Entity is overwhelmed</td></tr>
+<tr><td><strong>Summon</strong></td><td>Calls other entities or creates constructs</td><td>Entity is intelligent</td></tr>
+<tr><td><strong>Corrupt</strong></td><td>Warps the environment — making the battlefield dangerous</td><td>Entity is powerful</td></tr>
+</tbody></table></div>
+</section>
+<section class="wiki-section" id="iii-personnel-combat-actions-what-characters-do">
+<h2 class="section-title">III. Personnel Combat Actions — What Characters Do</h2>
+<h3>Offensive Actions</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Action</th><th>Description</th><th>Attribute</th><th>Element</th></tr></thead>
+<tbody>
+<tr><td><strong>M.A.W. Strike</strong></td><td>Attack with equipped M.A.W. weapon</td><td>Varies by weapon</td><td>Varies</td></tr>
+<tr><td><strong>Han Pulse</strong></td><td>A burst of Han-energy — pushes entities back</td><td>Resolve</td><td>Weight</td></tr>
+<tr><td><strong>Resonance Attack</strong></td><td>A focused emotional attack — exploits entity weakness</td><td>Composure</td><td>Varies</td></tr>
+<tr><td><strong>Work Type Offensive</strong></td><td>Using a Work Type offensively — Flerehan to overwhelm, Pugnahan to stun</td><td>Varies</td><td>Varies</td></tr>
+</tbody></table></div>
+<h3>Defensive Actions</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Action</th><th>Description</th><th>Attribute</th><th>Element</th></tr></thead>
+<tbody>
+<tr><td><strong>Block</strong></td><td>Absorb an attack with M.A.W. armor</td><td>Resilience</td><td>Varies</td></tr>
+<tr><td><strong>Evade</strong></td><td>Dodge an attack — requires speed and awareness</td><td>Clarity</td><td>Void</td></tr>
+<tr><td><strong>Counter</strong></td><td>Absorb an attack and strike back</td><td>Resolve</td><td>Grudge</td></tr>
+<tr><td><strong>Support</strong></td><td>Protect another person — take damage for them</td><td>Composure</td><td>Lament</td></tr>
+</tbody></table></div>
+<h3>Support Actions</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Action</th><th>Description</th><th>Attribute</th><th>Element</th></tr></thead>
+<tbody>
+<tr><td><strong>Heal</strong></td><td>Restore a person's health or sanity</td><td>Composure</td><td>Lament</td></tr>
+<tr><td><strong>Boost</strong></td><td>Temporarily increase a person's attributes</td><td>Resolve</td><td>Weight</td></tr>
+<tr><td><strong>Scan</strong></td><td>Analyze the entity — reveal weaknesses</td><td>Clarity</td><td>Void</td></tr>
+<tr><td><strong>Rally</strong></td><td>Inspire the team — increase morale</td><td>Resolve</td><td>Grudge</td></tr>
+</tbody></table></div>
+</section>
+<section class="wiki-section" id="iv-battle-consequences">
+<h2 class="section-title">IV. Battle Consequences</h2>
+<h3>During Battle</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Consequence</th><th>Effect</th><th>Duration</th></tr></thead>
+<tbody>
+<tr><td><strong>Injury</strong></td><td>Physical damage — reduced HP</td><td>Until healed</td></tr>
+<tr><td><strong>Sanity Loss</strong></td><td>Mental damage — reduced Clarity</td><td>Until recovered</td></tr>
+<tr><td><strong>Sorrow Exposure</strong></td><td>Han absorption — attribute reduction</td><td>Temporary</td></tr>
+<tr><td><strong>M.A.W. Damage</strong></td><td>Equipment degradation — reduced effectiveness</td><td>Until repaired</td></tr>
+</tbody></table></div>
+<h3>After Battle</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Consequence</th><th>Effect</th><th>Duration</th></tr></thead>
+<tbody>
+<tr><td><strong>Attribute Change</strong></td><td>Permanent increase or decrease</td><td>Permanent</td></tr>
+<tr><td><strong>Fracture Warning</strong></td><td>Early signs of Fracture</td><td>Until treated</td></tr>
+<tr><td><strong>M.A.W. Rejection</strong></td><td>Equipment rejects the user</td><td>Until re-bonded</td></tr>
+<tr><td><strong>Death</strong></td><td>Permanent loss</td><td>Forever</td></tr>
+<tr><td><strong>Fracture</strong></td><td><span>Transformation into <a class="wiki-link" href="../entities/index.html">Sorrow Entity</a></span></td><td>Irreversible</td></tr>
+</tbody></table></div>
+</section>
+<section class="wiki-section" id="v-boss-encounters-special-mechanics">
+<h2 class="section-title">V. Boss Encounters — Special Mechanics</h2>
+<h3>Entity-Specific Mechanics</h3>
+<p>Each powerful entity has <strong>unique mechanics</strong> — special abilities, weaknesses, or conditions.</p>
+<p><strong>Example — The Orphaned Bell (<code>IV-δ-001</code>):</strong></p>
+<ul>
+<li><strong>Toll Attack:</strong> Periodic bell toll — damages all personnel's Clarity</li>
+<li><strong>Memory Loss:</strong> Prolonged exposure causes memory loss</li>
+<li><strong>Weakness:</strong> Flerehan — singing to the bell calms it</li>
+<li><strong>Special Condition:</strong> If the bell is silenced, it becomes vulnerable</li>
+</ul>
+<p><strong>Example — The Smothering Mother (<code>IV-δ-005</code>):</strong></p>
+<ul>
+<li><strong>Embrace Attack:</strong> Grabs personnel — traps them in a crushing hug</li>
+<li><strong>Sorrow Absorption:</strong> Drains Han from trapped personnel</li>
+<li><strong>Weakness:</strong> Viderehan — showing her that her child is at peace</li>
+<li><strong>Special Condition:</strong> If she is shown her child's memory, she releases her victims</li>
+</ul>
+<p><strong>Example — <a class="wiki-link" href="../locations/the-maw.html">The Maw</a> (<code>IV-ω-001</code>):</strong></p>
+<ul>
+<li><strong>Area Effect:</strong> The district itself is the entity — all personnel inside are affected</li>
+<li><strong>Sorrow Tide:</strong> Periodic waves of concentrated Han</li>
+<li><strong>Weakness:</strong> None known — the Maw cannot be defeated</li>
+<li><strong>Special Condition:</strong><span> <a class="wiki-link" href="../locations/the-maw.html">The Maw</a> can only be </span><em>communicated with</em> — through the Containment Lead</li>
+</ul>
+</section>
+<section class="wiki-section" id="vi-battle-atmosphere">
+<h2 class="section-title">VI. Battle Atmosphere</h2>
+<h3>Environmental Effects</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Environment</th><th>Effect on Battle</th></tr></thead>
+<tbody>
+<tr><td><strong><span><a class="wiki-link" href="../locations/zone-b-west-ward.html">Zone B</a></span></strong></td><td>Heavy Han — entity abilities amplified, personnel attributes reduced</td></tr>
+<tr><td><strong><span><a class="wiki-link" href="../locations/zone-c-collectors-row.html">Zone C</a></span></strong></td><td>Veil active — entity abilities suppressed, personnel attributes normal</td></tr>
+<tr><td><strong><span><a class="wiki-link" href="../locations/zone-d-forge-and-gardens.html">Zone D</a></span></strong></td><td>Mixed — depends on district</td></tr>
+<tr><td><strong><span><a class="wiki-link" href="../locations/zone-e-perimeter-bulwark.html">Zone E</a></span></strong></td><td>Outside Sorrow present — entity abilities unpredictable</td></tr>
+<tr><td><strong>Desolate</strong></td><td>Raw Han — entity abilities maximized, personnel at severe disadvantage</td></tr>
+<tr><td><strong>Deep Underground</strong></td><td>Han-dense — all abilities amplified, both entity and personnel</td></tr>
+</tbody></table></div>
+<h3>Atmospheric Elements</h3>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Element</th><th>Description</th></tr></thead>
+<tbody>
+<tr><td><strong>Sound</strong></td><td>The entity's voice — whispers, screams, songs, silence</td></tr>
+<tr><td><strong>Light</strong></td><td>Han-lamps flicker, shadows move, the entity glows</td></tr>
+<tr><td><strong>Temperature</strong></td><td>Cold (Void), Hot (Grudge), Heavy (Weight), Ethereal (Lament)</td></tr>
+<tr><td><strong>Smell</strong></td><td>Sorrow has a scent — tears, ash, dust, rain</td></tr>
+<tr><td><strong>Feeling</strong></td><td>The air itself carries emotion — grief, rage, emptiness, weight</td></tr>
+</tbody></table></div>
+</section>
+<section class="wiki-section" id="vii-battle-narrative-structure">
+<h2 class="section-title">VII. Battle Narrative Structure</h2>
+<h3>How to Write a Battle</h3>
+<p><strong>Step 1: Set the Scene</strong></p>
+<ul>
+<li>Where are they? What does it look like? What does it feel like?</li>
+<li>What is the entity? What does it want? What is its weakness?</li>
+</ul>
+<p><strong>Step 2: Build Tension</strong></p>
+<ul>
+<li>The entity is identified. The team prepares. The stakes are clear.</li>
+<li>What are the characters afraid of? What do they have to lose?</li>
+</ul>
+<p><strong>Step 3: The Clash</strong></p>
+<ul>
+<li>Work Types are performed. M.A.W. is activated. The entity responds.</li>
+<li>What does the combat look like? What does it feel like?</li>
+<li>How do the characters react under pressure?</li>
+</ul>
+<p><strong>Step 4: Escalation</strong></p>
+<ul>
+<li>The battle intensifies. The entity transforms. The team is pushed to their limits.</li>
+<li>What is the turning point? What is the cost?</li>
+</ul>
+<p><strong>Step 5: Resolution</strong></p>
+<ul>
+<li>The outcome — containment, escape, Fracture, or death.</li>
+<li>What was learned? What was lost? What changed?</li>
+</ul>
+<p><strong>Step 6: Aftermath</strong></p>
+<ul>
+<li>The consequences — injuries, attribute changes, M.A.W. damage.</li>
+<li>How does the world respond? What happens next?</li>
+</ul>
+</section>
+
+  </div>
+<aside class="character-infobox" style="--entity:#ef5b55">
+  <h2>RESONANT CLASH</h2>
+  <div class="infobox-image-wrap">
+    <img src="../assets/art/mechanics/clash-icon.svg" alt="RESONANT CLASH">
+  </div>
+  <h3>Combat conversation</h3>
+  <dl class="fact-grid"><dt>Nature</dt><dd>Opposed rolls of sorrow</dd><dt>Stakes</dt><dd>Body / mind / soul / Han</dd><dt>Link</dt><dd>Work Type × Element</dd></dl>
+</aside>
+</div>
+<!-- Page Footer -->
+
+<!-- Bottom Cross-Reference Directory -->
+<section class="cross-reference-section">
+  <div class="cross-ref-header">CANONICAL CROSS-LINKS &amp; ATLAS CONNECTIONS</div>
+  <div class="cross-ref-grid">
+    <a href="../departments/floor-1-neutral-command.html" class="cross-ref-card">
+      <img src="../assets/layout/hand/icons/icon_dept_f1_neutral.svg" alt="Command">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">FACILITY COMMAND</span><span class="cross-ref-title">NEUTRAL COMMAND</span></div>
+    </a> <a href="../characters/the-director-majin.html" class="cross-ref-card">
+      <img src="../assets/icons/icon_core_majin.svg" alt="Majin">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">EXECUTIVE LEAD</span><span class="cross-ref-title">DIRECTOR MAJIN</span></div>
+    </a> <a href="../lore/the-cycle-and-absolvohan.html" class="cross-ref-card">
+      <img src="../assets/icons/ref_absolvohan.svg" alt="Absolvohan">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">PRIMARY CANON</span><span class="cross-ref-title">1,778 CYCLES</span></div>
+    </a> <a href="../atlas/hand-of-change-map.html" class="cross-ref-card">
+      <img src="../assets/layout/hand/icons/the_hand_dr_icon_styled.svg" alt="Facility Map">
+      <div class="cross-ref-meta"><span class="cross-ref-cat">SCHEMATIC ATLAS</span><span class="cross-ref-title">HAND OF CHANGE MAP</span></div>
+    </a>
+  </div>
+</section>
+</main>
+</div>
+<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  <div class="footer-signal" aria-hidden="true">
+    <span>RD://PUBLIC-NET</span><i></i>
+    <span>SECC LINK STABLE</span><i></i>
+    <span>FACILITY 01 // GATE WATCH</span><i></i>
+    <span>PUBLICATION GATES PASSING</span>
+  </div>
+
+  <div class="footer-hero">
+    <section class="footer-identity" aria-label="Somnarak Wiki">
+      <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
+      <a class="footer-brand" href="../index.html">
+        <span class="footer-emblem"><img src="../assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
+      </a>
+      <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
+      <p>The public record follows Somnarak from the Alpha Tree and five city zones into Facility 01, where witnessed canon is curated without replacing absence with invention.</p>
+      <div class="footer-badges" aria-label="Archive classification">
+        <span>FACILITY 01</span><span>DIRECTORATE</span><span>PUBLIC CODEX</span>
+      </div>
+    </section>
+
+    <figure class="footer-network">
+      <div class="footer-network-frame">
+        <img src="../assets/layout/footer-directorate-network.svg" alt="Directorate archive topology linking the Alpha Tree, five city zones, Facility 01, Gate Watch, and eight public archive gateways"/>
+        <span class="footer-network-scan" aria-hidden="true"></span>
+      </div>
+      <figcaption><span>Live archive topology</span><b>ALPHA TREE → FACILITY 01 → PUBLIC CODEX</b></figcaption>
+    </figure>
+
+    <section class="footer-status" aria-label="Current archive status">
+      <span>Verified repository snapshot</span>
+      <strong>1.8.31</strong>
+      <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
+      <dl>
+        <div><dt>Public records</dt><dd>197 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
+        <div><dt>Cycle state</dt><dd>ENDED</dd></div>
+        <div><dt>Gate command</dt><dd>XYAN</dd></div>
+      </dl>
+    </section>
+  </div>
+
+  <div class="footer-directory">
+    <section class="footer-archives" aria-labelledby="footer-archives-title">
+      <header><span>Primary collections</span><h2 id="footer-archives-title">Eight Archive Gateways</h2><p>Continue through the complete public taxonomy.</p></header>
+      <div>
+        <a href="../characters/index.html" data-footer-archive="01" style="--gateway:#ef5b55"><span>01</span><b>Echo-Cores</b><small>Characters</small></a>
+        <a href="../lore/index.html" data-footer-archive="02" style="--gateway:#a78bfa"><span>02</span><b>Cycle Archive</b><small>Lore</small></a>
+        <a href="../locations/index.html" data-footer-archive="03" style="--gateway:#38bdf8"><span>03</span><b>City Atlas</b><small>Locations</small></a>
+        <a href="../factions/index.html" data-footer-archive="04" style="--gateway:#f59e0b"><span>04</span><b>Orders</b><small>Factions</small></a>
+        <a href="../departments/index.html" data-footer-archive="05" style="--gateway:#71efaf"><span>05</span><b>Hand of Change</b><small>Facility</small></a>
+        <a href="../entities/index.html" data-footer-archive="06" style="--gateway:#fb7185"><span>06</span><b>SECC Registry</b><small>Entities</small></a>
+        <a href="../maw/index.html" data-footer-archive="07" style="--gateway:#f1df76"><span>07</span><b>M.A.W. Arsenal</b><small>Equipment</small></a>
+        <a href="../mechanics/index.html" data-footer-archive="08" style="--gateway:#60a5fa"><span>08</span><b>Systems Codex</b><small>Mechanics</small></a>
+      </div>
+    </section>
+
+    <nav class="footer-links" aria-label="Archive resources">
+      <header><span>Project access</span><h2>Archive Resources</h2><p>Inspect provenance, files, and visual infrastructure.</p></header>
+      <div>
+        <a href="../project/source-map.html" data-footer-link="R-01"><b>Source Map</b><small>Canon provenance</small></a>
+        <a href="../downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
+        <a href="../assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
+        <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+      </div>
+    </nav>
+  </div>
+
+  <section class="footer-register" aria-label="Publication register">
+    <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
+    <dl>
+      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+    </dl>
+    <div class="footer-protocols">
+      <span><b>01</b> SOURCE-LED CONTENT</span>
+      <span><b>02</b> DISTINCT VISUAL FORM</span>
+      <span><b>03</b> NO RECOLOR-ONLY ART</span>
+      <span><b>04</b> VERIFIED LOCAL ROUTES</span>
+    </div>
+  </section>
+
+  <div class="footer-base">
+    <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
+    <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img"><rect width="640" height="400" fill="#14080c"/>
+<circle cx="170" cy="210" r="70" fill="none" stroke="#ef5b55" stroke-width="5"/>
+<circle cx="320" cy="210" r="70" fill="none" stroke="#c084fc" stroke-width="5"/>
+<circle cx="470" cy="210" r="70" fill="none" stroke="#38bdf8" stroke-width="5"/>
+<text x="170" y="216" text-anchor="middle" fill="#ef5b55" font-family="Impact" font-size="14">RED</text>
+<text x="320" y="216" text-anchor="middle" fill="#c084fc" font-family="Impact" font-size="14">BLACK</text>
+<text x="470" y="216" text-anchor="middle" fill="#38bdf8" font-family="Impact" font-size="14">PALE</text>
+<text x="320" y="40" text-anchor="middle" fill="#f1df76" font-family="Impact" font-size="22" letter-spacing="4">THREE SORROWS</text>
+</svg>

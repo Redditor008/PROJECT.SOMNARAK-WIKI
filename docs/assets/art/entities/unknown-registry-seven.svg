@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Seven Unknown Entity archive apertures</title>
+  <desc id="desc">Seven differently shaped scan apertures identify the Undelivered Thanks, Unconsoled, Extinguished, Unspoken Line, Mewgical Girl, Repeated Survivor, and Music Box of Agony, while the Book of Regressor is routed away to Lore.</desc>
+  <defs>
+    <linearGradient id="ur-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#04070b"/><stop offset=".55" stop-color="#11101a"/><stop offset="1" stop-color="#071018"/></linearGradient>
+    <pattern id="ur-scan" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M0 15.5H16" stroke="#2f4053" opacity=".25"/></pattern>
+    <filter id="ur-static"><feTurbulence baseFrequency=".5" numOctaves="2" seed="7" result="n"/><feColorMatrix in="n" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 .13 0"/></filter>
+  </defs>
+  <rect width="1400" height="400" fill="url(#ur-bg)"/><rect width="1400" height="400" fill="url(#ur-scan)"/>
+  <path d="M8 8H1392V392H8Z" fill="none" stroke="#7b8795" stroke-width="2"/>
+  <text x="25" y="34" fill="#c084fc" font-family="Impact, Arial Narrow, sans-serif" font-size="20" letter-spacing="3">UNKNOWN IS AN ARCHIVE STATUS / NOT A BLANK PAGE</text>
+  <text x="1374" y="33" text-anchor="end" fill="#94a3b8" font-family="monospace" font-size="10" letter-spacing="2">7 SPECIMENS / 1 STORY ROUTED TO LORE</text>
+  <rect x="20" y="49" width="1360" height="275" fill="#fff" filter="url(#ur-static)" opacity=".28"/>
+
+  <!-- 247: a sealed message that never reaches its recipient. -->
+  <g transform="translate(36 82)">
+    <path d="M0 0H170V122H0Z" fill="#0c1118" stroke="#f1df76" stroke-width="2"/>
+    <path d="M15 28L85 77L155 28M15 104L66 61M155 104L104 61" fill="none" stroke="#f1df76" stroke-width="3"/>
+    <circle cx="85" cy="70" r="15" fill="#32131c" stroke="#ef7085" stroke-width="2"/>
+    <path d="M80 70H90" stroke="#ef7085" stroke-width="3"/>
+    <text x="85" y="145" text-anchor="middle" fill="#f1df76" font-family="monospace" font-size="9">N-IIIβ-247 [WS]</text>
+    <text x="85" y="161" text-anchor="middle" fill="#9b9165" font-family="monospace" font-size="8">UNDELIVERED THANKS</text>
+  </g>
+
+  <!-- 248: an empty chair under a consolation field that never closes. -->
+  <g transform="translate(228 65)">
+    <path d="M15 0H165L180 24V158L152 180H0V22Z" fill="#0d1118" stroke="#38bdf8" stroke-width="2" stroke-dasharray="8 5"/>
+    <path d="M58 55H119V112H58ZM48 112H130M64 112L52 150M113 112L125 150" fill="none" stroke="#9ddff8" stroke-width="5"/>
+    <path d="M37 39C58 12 117 9 142 40" fill="none" stroke="#ef7085" stroke-width="3" stroke-dasharray="6 5"/>
+    <text x="90" y="200" text-anchor="middle" fill="#9ddff8" font-family="monospace" font-size="9">C-IIIγ-248 [LS]</text>
+    <text x="90" y="216" text-anchor="middle" fill="#6e8a99" font-family="monospace" font-size="8">THE UNCONSOLED</text>
+  </g>
+
+  <!-- 250: Hope gold gone cold around an extinguished wick. -->
+  <g transform="translate(437 91)">
+    <circle cx="81" cy="65" r="78" fill="#0d0d0e" stroke="#6b7280" stroke-width="3"/>
+    <path d="M81 111V62" stroke="#94a3b8" stroke-width="7"/>
+    <path d="M81 61C54 34 67 12 82-2C105 20 108 42 81 61Z" fill="#1e293b" stroke="#64748b" stroke-width="3"/>
+    <path d="M25 65H137" stroke="#f1df76" stroke-width="2" opacity=".25"/>
+    <circle cx="81" cy="65" r="55" fill="none" stroke="#f1df76" stroke-width="2" stroke-dasharray="5 9" opacity=".35"/>
+    <text x="81" y="168" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9">N-IVγ-250 [GS]</text>
+    <text x="81" y="184" text-anchor="middle" fill="#707882" font-family="monospace" font-size="8">THE EXTINGUISHED</text>
+  </g>
+
+  <!-- 251: a Place-Void junction that became the line itself. -->
+  <g transform="translate(624 66)">
+    <path d="M0 0H195V179H0Z" fill="#080b11" stroke="#c084fc" stroke-width="2"/>
+    <path d="M18 32H82V82H131V145H178M82 82L39 139M131 82L171 38" fill="none" stroke="#c084fc" stroke-width="7"/>
+    <g fill="#05060a" stroke="#f1df76" stroke-width="2"><circle cx="82" cy="82" r="12"/><circle cx="131" cy="82" r="12"/></g>
+    <path d="M97 0V179" stroke="#ef7085" stroke-width="2" stroke-dasharray="4 7"/>
+    <text x="97" y="199" text-anchor="middle" fill="#d8b4fe" font-family="monospace" font-size="9">C-IVδ-251 [VP]</text>
+    <text x="97" y="215" text-anchor="middle" fill="#927ca1" font-family="monospace" font-size="8">THE UNSPOKEN LINE</text>
+  </g>
+
+  <!-- 901: costume, wand, ribbon, but deliberately no wearer or face. -->
+  <g transform="translate(844 83)">
+    <path d="M15 25L75 6L129 34L155 113L87 154L21 117Z" fill="#1e102b" stroke="#f9a8d4" stroke-width="3"/>
+    <path d="M57 35L88 57L116 34L126 115L86 133L45 112Z" fill="none" stroke="#f9a8d4" stroke-width="3"/>
+    <path d="M14 145L143 12" stroke="#fde68a" stroke-width="5"/>
+    <path d="M146 7L164 32L133 27Z" fill="#fde68a" stroke="#f9a8d4"/>
+    <path d="M66 65C78 52 95 52 106 65C95 77 78 77 66 65Z" fill="#05060a" opacity=".5"/>
+    <path d="M58 67L114 67" stroke="#f9a8d4" stroke-width="3"/>
+    <text x="84" y="184" text-anchor="middle" fill="#f9a8d4" font-family="monospace" font-size="9">N-IVδ-901 [MH]</text>
+    <text x="84" y="200" text-anchor="middle" fill="#a97c99" font-family="monospace" font-size="8">COSTUME / NO WEARER</text>
+  </g>
+
+  <!-- 902: one survivor silhouette caught in offset loops. -->
+  <g transform="translate(1030 71)">
+    <path d="M94 8C32 8 5 57 30 101C52 139 115 129 125 83C135 39 87 18 56 45C28 69 42 111 78 112" fill="none" stroke="#38bdf8" stroke-width="6"/>
+    <path d="M112 26C167 50 168 122 118 150C71 176 21 147 20 101" fill="none" stroke="#ef7085" stroke-width="3" stroke-dasharray="9 6"/>
+    <circle cx="79" cy="69" r="17" fill="#111827" stroke="#cbd5e1" stroke-width="2"/>
+    <path d="M79 86V135M79 101L51 120M79 101L109 117M79 135L56 162M79 135L102 162" stroke="#cbd5e1" stroke-width="5"/>
+    <text x="89" y="191" text-anchor="middle" fill="#9ddff8" font-family="monospace" font-size="9">N-IVδ-902 [VS]</text>
+    <text x="89" y="207" text-anchor="middle" fill="#718b99" font-family="monospace" font-size="8">REPEATED SURVIVOR</text>
+  </g>
+
+  <!-- 903: one scored cylinder repeats the same Void lullaby. -->
+  <g transform="translate(1225 76)">
+    <path d="M0 35L60 4L127 30V137L66 169L0 140Z" fill="#10131a" stroke="#94a3b8" stroke-width="3"/>
+    <ellipse cx="65" cy="77" rx="39" ry="52" fill="#07090d" stroke="#c084fc" stroke-width="3"/>
+    <path d="M45 46V107M57 39V116M69 36V120M81 40V115" stroke="#f1df76" stroke-width="3"/>
+    <path d="M101 29C132 23 143 49 132 72" fill="none" stroke="#ef7085" stroke-width="4"/>
+    <circle cx="134" cy="75" r="6" fill="#ef7085"/>
+    <text x="65" y="193" text-anchor="middle" fill="#c4b5fd" font-family="monospace" font-size="9">N-IIγ-903 [VO]</text>
+    <text x="65" y="209" text-anchor="middle" fill="#8e83a1" font-family="monospace" font-size="8">MUSIC BOX / ONE LOOP</text>
+  </g>
+
+  <!-- Story material is explicitly routed out of the specimen registry. -->
+  <path d="M442 349H958" stroke="#f1df76" stroke-width="3"/>
+  <path d="M943 337L958 349L943 361" fill="none" stroke="#f1df76" stroke-width="3"/>
+  <path d="M370 332H442V369H370Z" fill="#0e1015" stroke="#94a3b8"/>
+  <path d="M383 341H429M383 350H422M383 359H425" stroke="#94a3b8" stroke-width="2"/>
+  <text x="664" y="342" text-anchor="middle" fill="#f1df76" font-family="monospace" font-size="9">THE BOOK OF REGRESSOR / LOOP LOG</text>
+  <text x="664" y="367" text-anchor="middle" fill="#94a3b8" font-family="Impact, Arial Narrow, sans-serif" font-size="16" letter-spacing="3">ROUTE TO LORE, NOT SECC</text>
+  <text x="1375" y="381" text-anchor="end" fill="#7f8c99" font-family="monospace" font-size="9">PUBLIC INDEX ≠ COMPLETE ~3XX ARCHIVE</text>
+</svg>

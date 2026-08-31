@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Retracted Memory Blade filing for SE-003</title>
+  <desc id="desc">An empty weapon jig dissolves into Wilderness Tide contours outside the Zone E wall, while the false memory filing is redirected to SE-009 and the SE-003 slot is marked no extract.</desc>
+  <defs>
+    <linearGradient id="mb-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#061019"/><stop offset="1" stop-color="#101016"/></linearGradient>
+    <pattern id="mb-grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#294256" opacity=".32"/></pattern>
+    <filter id="mb-glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="300" fill="url(#mb-bg)"/><rect width="1200" height="300" fill="url(#mb-grid)"/>
+  <path d="M10 10H1190V290H10Z" fill="none" stroke="#64748b" stroke-width="2"/>
+  <!-- Zone E wall separates a weather system from the forge. -->
+  <path d="M410 32V267" stroke="#f1df76" stroke-width="10"/><path d="M394 52H426M394 102H426M394 152H426M394 202H426M394 252H426" stroke="#f1df76" stroke-width="3"/>
+  <text x="382" y="282" text-anchor="end" fill="#f1df76" font-family="monospace" font-size="10">ZONE E BULWARK</text>
+  <g fill="none" stroke="#38bdf8">
+    <path d="M18 83C92 25 166 139 240 81S351 78 397 55" stroke-width="5"/>
+    <path d="M18 129C105 71 175 177 257 116S347 121 397 95" stroke-width="3" opacity=".75"/>
+    <path d="M18 177C102 119 171 218 269 161S352 166 397 145" stroke-width="2" opacity=".55"/>
+  </g>
+  <path d="M50 220H350" stroke="#94a3b8" stroke-width="2" stroke-dasharray="9 7"/>
+  <text x="52" y="242" fill="#9ddff8" font-family="monospace" font-size="10">PLACE-WEIGHT / 3–15 M / WEATHER, NOT PERSON</text>
+  <!-- The alleged blade exists only as a broken drafting outline. -->
+  <g transform="translate(492 49)">
+    <path d="M41 101L405 20L357 78L62 137Z" fill="none" stroke="#8f9ca8" stroke-width="3" stroke-dasharray="12 8"/>
+    <path d="M42 102L9 147M22 91L75 144M7 149L-8 179" fill="none" stroke="#8f9ca8" stroke-width="5"/>
+    <path d="M188 68L219 92L245 53" fill="none" stroke="#ef5b55" stroke-width="8"/>
+    <path d="M22 18H430V202H22Z" fill="none" stroke="#334155"/>
+    <text x="225" y="188" text-anchor="middle" fill="#ef7085" font-family="Impact, Arial Narrow, sans-serif" font-size="31" letter-spacing="5">NO FORGE OBJECT</text>
+  </g>
+  <!-- A clerical path points memory equipment to the actual donor set. -->
+  <path d="M914 94H1094L1125 125L1094 156H914" fill="#150c12" stroke="#ef7085" stroke-width="2"/>
+  <text x="932" y="118" fill="#ef9aaa" font-family="monospace" font-size="9">MISFILED MEMORY TERM</text>
+  <text x="932" y="141" fill="#f1df76" font-family="Impact, Arial Narrow, sans-serif" font-size="18">REDIRECT → SE-009</text>
+  <path d="M882 124H910" stroke="#ef7085" stroke-width="3"/>
+  <path d="M895 113L910 124L895 135" fill="none" stroke="#ef7085" stroke-width="3"/>
+  <rect x="448" y="232" width="724" height="40" fill="#06090e" stroke="#ef5b55" stroke-width="2"/>
+  <text x="466" y="258" fill="#ef7085" font-family="Impact, Arial Narrow, sans-serif" font-size="19" letter-spacing="3">MAW-W-003 / RETRACTED — YOU CANNOT FORGE A PERSONALITY’S WEAPON FROM WEATHER</text>
+  <text x="20" y="26" fill="#94a3b8" font-family="monospace" font-size="10" letter-spacing="2">BORDER LEAD MELLDA // SE-003-A</text>
+  <text x="1180" y="26" text-anchor="end" fill="#ef7085" font-family="monospace" font-size="10">STATUS: NO EXTRACTABLE M.A.W.</text>
+</svg>

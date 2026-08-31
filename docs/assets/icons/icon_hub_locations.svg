@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Somnarak — five-zone hex">
+  <rect width="120" height="120" rx="10" fill="#070410" stroke="#fb923c" stroke-width="2.5"/>
+  
+  <!-- Zone E purple bulwark hex -->
+  <polygon points="60,8 104,32 104,88 60,112 16,88 16,32" fill="#2e1065" stroke="#a855f7" stroke-width="2.2"/>
+  <!-- Zone B west green -->
+  <path d="M18,50 L40,40 L48,60 L40,80 L22,78 Z" fill="#14532d" stroke="#22c55e" stroke-width="1.1"/>
+  <!-- Zone C east blue -->
+  <path d="M102,50 L80,40 L72,60 L80,80 L98,78 Z" fill="#1e3a8a" stroke="#3b82f6" stroke-width="1.1"/>
+  <!-- Zone D north / south orange flanks -->
+  <path d="M40,28 L60,16 L80,28 L60,40 Z" fill="#9a3412" stroke="#f59e0b" stroke-width="1.1"/>
+  <path d="M40,92 L60,104 L80,92 L60,80 Z" fill="#9a3412" stroke="#f59e0b" stroke-width="1.1"/>
+  <!-- Zone A red diamond + Alpha Tree -->
+  <polygon points="60,38 80,60 60,82 40,60" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.6"/>
+  <circle cx="60" cy="60" r="5" fill="#f1df76"/>
+  <!-- The Maw — irregular pit in west B -->
+  <ellipse cx="32" cy="66" rx="10" ry="7" fill="#022c22" stroke="#22c55e" stroke-width="1.2"/>
+
+</svg>

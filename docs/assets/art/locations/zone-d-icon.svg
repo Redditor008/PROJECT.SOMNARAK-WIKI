@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Zone D — forge flank and Echo Gardens">
+  <rect width="400" height="400" fill="#05070c"/>
+  <rect x="18" y="18" width="364" height="364" fill="none" stroke="#f59e0b" stroke-width="8"/>
+  
+  <path d="M80 90 L200 50 L320 90 L200 150 Z" fill="#9a3412" stroke="#f59e0b" stroke-width="6"/>
+  <path d="M80 310 L200 350 L320 310 L200 250 Z" fill="#9a3412" stroke="#f59e0b" stroke-width="6"/>
+  <path d="M170 80 L200 55 L230 80 L215 110 L185 110 Z" fill="#7c2d12" stroke="#f1df76" stroke-width="4"/>
+  <path d="M200 270 L170 310 M200 270 L230 310 M200 250 V270" stroke="#71efaf" stroke-width="5"/>
+
+  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#f59e0b" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#f59e0b" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">ATLAS  ·  ZONE D</text>
+</svg>

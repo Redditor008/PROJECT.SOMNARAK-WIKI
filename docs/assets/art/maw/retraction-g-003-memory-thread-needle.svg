@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 320" role="img" aria-labelledby="title desc">
+  <title id="title">Retracted Memory Thread Needle gift record</title>
+  <desc id="desc">A supposed memory thread unspools from an evidence tag but breaks against a weather contour; a needle is sealed as a false filing while the legitimate memory gift points to the Forgotten Mask.</desc>
+  <defs>
+    <linearGradient id="mtn-bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#140b18"/><stop offset=".5" stop-color="#07101a"/><stop offset="1" stop-color="#0c1720"/></linearGradient>
+    <pattern id="mtn-stitch" width="42" height="18" patternUnits="userSpaceOnUse"><path d="M0 9H15M27 9H42" stroke="#4c3c55" opacity=".4"/></pattern>
+  </defs>
+  <rect width="1300" height="320" fill="url(#mtn-bg)"/><rect width="1300" height="320" fill="url(#mtn-stitch)"/>
+  <path d="M8 8H1292V312H8Z" fill="none" stroke="#a78bfa" stroke-width="2"/>
+  <!-- The old filename hangs from a spool but its line cannot cross into SE-003. -->
+  <g transform="translate(58 70)">
+    <circle cx="104" cy="92" r="69" fill="#090d14" stroke="#c084fc" stroke-width="8"/>
+    <circle cx="104" cy="92" r="24" fill="#1e293b" stroke="#f1df76" stroke-width="4"/>
+    <path d="M43 60C86 31 126 32 165 56M37 89C85 62 129 61 172 86M44 118C90 92 129 94 165 118" fill="none" stroke="#c084fc" stroke-width="5"/>
+    <path d="M173 92C265 92 244 29 335 29C402 29 396 141 473 141" fill="none" stroke="#c084fc" stroke-width="4"/>
+    <text x="104" y="190" text-anchor="middle" fill="#d8b4fe" font-family="monospace" font-size="10">OLD STUB / “THREAD”</text>
+  </g>
+  <!-- Weather has no individual grief for the line to bind. -->
+  <g transform="translate(532 42)">
+    <path d="M0 35C56-9 106 77 164 31S273 74 330 27V216C264 248 211 173 151 219S51 174 0 222Z" fill="#0c4a6e" opacity=".55" stroke="#38bdf8" stroke-width="3"/>
+    <path d="M0 73C59 29 111 112 168 67S272 108 330 64M0 117C63 75 108 153 173 111S273 153 330 106M0 160C61 120 111 197 176 153S277 197 330 149" fill="none" stroke="#7dd3fc" stroke-width="3"/>
+    <path d="M-59 141H0" stroke="#ef5b55" stroke-width="4" stroke-dasharray="8 7"/>
+    <path d="M-29 127L-12 141L-29 155" fill="none" stroke="#ef5b55" stroke-width="4"/>
+    <text x="165" y="245" text-anchor="middle" fill="#9ddff8" font-family="Impact, Arial Narrow, sans-serif" font-size="19" letter-spacing="3">WEATHER HAS NO PERSONALITY</text>
+  </g>
+  <!-- The needle is retained only as evidence of a bad route. -->
+  <g transform="translate(920 45)">
+    <path d="M0 0H310V194H0Z" fill="#07090f" stroke="#ef7085" stroke-width="2" stroke-dasharray="9 5"/>
+    <path d="M55 146L231 39" stroke="#d1d5db" stroke-width="6"/>
+    <ellipse cx="238" cy="35" rx="17" ry="10" transform="rotate(-31 238 35)" fill="none" stroke="#d1d5db" stroke-width="5"/>
+    <path d="M26 25L286 168M286 25L26 168" stroke="#ef5b55" stroke-width="9" opacity=".85"/>
+    <rect x="67" y="69" width="176" height="50" fill="#160b11" stroke="#ef7085" stroke-width="3"/>
+    <text x="155" y="90" text-anchor="middle" fill="#ef9aaa" font-family="monospace" font-size="9">EVIDENCE / NOT EQUIPMENT</text>
+    <text x="155" y="110" text-anchor="middle" fill="#fff" font-family="Impact, Arial Narrow, sans-serif" font-size="18">NO GIFT EXTRACT</text>
+    <path d="M65 219H258" stroke="#f1df76" stroke-width="3"/>
+    <path d="M243 207L258 219L243 231" fill="none" stroke="#f1df76" stroke-width="3"/>
+    <text x="161" y="254" text-anchor="middle" fill="#f1df76" font-family="monospace" font-size="10">MEMORY GIFT → FORGOTTEN MASK / SE-009</text>
+  </g>
+  <text x="24" y="29" fill="#d8b4fe" font-family="monospace" font-size="10" letter-spacing="2">MAW-G-003 // RETRACTION THREAD AUDIT</text>
+  <text x="1275" y="29" text-anchor="end" fill="#ef7085" font-family="monospace" font-size="10">SE-003 CODEX SET COMPLETION: SUBJECT CARD ONLY</text>
+  <text x="24" y="301" fill="#94a3b8" font-family="monospace" font-size="9">VIDEREHAN MAPS / FERREHAN HOLDS / FLEREHAN AND PUGNAHAN INVALID</text>
+</svg>

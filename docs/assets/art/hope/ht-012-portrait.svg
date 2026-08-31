@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="SILENT WITNESS">
+  <rect width="500" height="500" fill="#05070c"/>
+  <rect x="18" y="18" width="464" height="464" fill="none" stroke="#e2e8f0" stroke-width="3"/>
+  
+  <ellipse cx="250" cy="210" rx="90" ry="110" fill="#1e293b" stroke="#e2e8f0" stroke-width="5"/>
+  <circle cx="220" cy="200" r="16" fill="#38bdf8"/>
+  <circle cx="280" cy="200" r="16" fill="#38bdf8"/>
+  <path d="M210 250 Q250 270 290 250" fill="none" stroke="#94a3b8" stroke-width="4"/>
+  <rect x="230" y="320" width="40" height="50" fill="#0f172a" stroke="#e2e8f0"/>
+
+  <text x="250" y="460" text-anchor="middle" fill="#e2e8f0" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="4">SILENT WITNESS</text>
+</svg>

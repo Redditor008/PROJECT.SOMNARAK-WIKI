@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="M.A.W. — extract in a Han-crystal frame">
+  <rect width="120" height="120" rx="10" fill="#1c1003" stroke="#f1df76" stroke-width="2.5"/>
+  <rect x="28" y="18" width="64" height="84" fill="none" stroke="#fb923c" stroke-width="3"/>
+  <path d="M48 36 H72 L64 78 H56 Z" fill="#7c2d12" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="60" cy="48" r="6" fill="#38bdf8"/>
+  <path d="M60 18 V28 M60 102 V110" stroke="#fb923c" stroke-width="3"/>
+</svg>

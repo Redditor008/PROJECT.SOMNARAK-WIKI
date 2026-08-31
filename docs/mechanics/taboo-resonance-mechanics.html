@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Faction Resonances — Somnarak Official Wiki</title>
+<meta name="description" content="Seven civic ways of touching Han — Weight, Shaping, Scales, Archive, Barrier, Dream, Extraction."/>
+<link href="../assets/icons/somnarak_icon.svg" rel="icon" type="image/svg+xml"/>
+<link href="../assets/css/wiki.css?v=20260831g" rel="stylesheet"/>
+<script defer src="../assets/js/wiki.js?v=20260831g"></script>
+</head>
+<body>
+<header class="utility" data-component="global-top-bar">
+  <div class="utility-left">
+    <button class="nav-open" type="button" aria-controls="primary-archive-navigation" aria-expanded="false" aria-label="Open primary archive navigation">
+      <span class="nav-open-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="nav-open-text">MENU</span>
+    </button>
+    <a class="utility-brand" href="../index.html" aria-label="Somnarak Wiki main page">
+      <img src="../assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
+    </a>
+    <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>
+  </div>
+  <nav class="utility-nav" id="primary-archive-navigation" aria-label="Primary archive">
+      <a href="../index.html" data-archive="00"><span>Main</span><small>Terminal</small></a>
+      <a href="../characters/index.html" data-archive="01"><span>Characters</span><small>Echo-Cores</small></a>
+      <a href="../lore/index.html" data-archive="02"><span>Lore</span><small>Cycles</small></a>
+      <a href="../locations/index.html" data-archive="03"><span>Atlas</span><small>City</small></a>
+      <a href="../factions/index.html" data-archive="04"><span>Factions</span><small>Orders</small></a>
+      <a href="../departments/index.html" data-archive="05"><span>Facility</span><small>Floors</small></a>
+      <a href="../entities/index.html" data-archive="06"><span>Entities</span><small>SECC</small></a>
+      <a href="../maw/index.html" data-archive="07"><span>M.A.W.</span><small>Arsenal</small></a>
+      <a href="../mechanics/index.html" data-archive="08" class="is-current" aria-current="page"><span>Mechanics</span><small>Systems</small></a>
+      <a href="../downloads.html" data-archive="09"><span>Downloads</span><small>Files</small></a>
+  </nav>
+  <div class="search" role="search">
+    <label for="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search Somnarak Wiki</span></label>
+    <input id="search" type="search" aria-label="Search Somnarak Wiki" aria-controls="results" aria-expanded="false" data-index="../data/search.json" placeholder="Search the archive" autocomplete="off" spellcheck="false"/>
+    <kbd aria-hidden="true">/</kbd>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</header>
+<div class="wiki-shell">
+<aside class="left-rail">
+<div class="site-mark">
+<a href="../index.html">
+<img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+<b>SOMNARAK</b>
+<span>OFFICIAL WIKI ARCHIVE</span>
+</a>
+</div>
+<nav aria-label="Wiki navigation" class="left-links">
+        <section>
+          <h2>DATABASE HUBS</h2>
+          <a href="../index.html">Main Overview</a>
+          <a href="../characters/index.html">Characters Hub</a>
+          <a href="../lore/index.html">Lore &amp; Cosmology</a>
+          <a href="../locations/index.html">Locations &amp; Atlas</a>
+          <a href="../factions/index.html">Factions &amp; Guilds</a>
+          <a href="../departments/index.html">Facility Floors</a>
+          <a href="../entities/index.html">Sorrow Entities</a>
+          <a href="../maw/index.html">M.A.W. Equipment</a>
+          <a href="../mechanics/index.html">Systems &amp; Mechanics</a>
+        </section>
+        <section>
+          <h2>THE NINE ECHO-CORES</h2>
+          <a href="../characters/the-director-majin.html">1. Director Majin</a>
+          <a href="../characters/the-secretary-seiyon.html">2. Seiyon (Secretary)</a>
+          <a href="../characters/the-containment-lead-dekan.html">3. Dekan (Containment)</a>
+          <a href="../characters/the-extraction-lead-zyrak.html">4. Zyrak (Extraction)</a>
+          <a href="../characters/the-research-lead-ayshuk.html">5. Ayshuk (Research)</a>
+          <a href="../characters/the-border-lead-mellda.html">6. Mellda (Border)</a>
+          <a href="../characters/the-archive-lead-marjuk.html">7. Marjuk (Archive)</a>
+          <a href="../characters/the-outsider-ishall.html">8. Ishall (Outsider)</a>
+          <a href="../characters/the-exile-xyan.html">9. Xyan (Exile)</a>
+        </section>
+        <section>
+          <h2>CARTOGRAPHY &amp; SCHEMATICS</h2>
+          <a href="../atlas/hand-of-change-map.html">Hand of Change Map</a>
+          <a href="../atlas/somnarak-city-map.html">Somnarak City Blueprint</a>
+          <a href="../project/source-map.html">Master Archive Map</a>
+        </section>
+      </nav>
+</aside>
+<main id="content">
+
+<!-- Tactical Fast-Jump Subpage Bar -->
+<div class="fast-jump-nav">
+  <span class="fast-jump-title">/// RAPID JUMP:</span>
+  <div class="fast-jump-pills">
+    <a href="han-energy-and-damage.html" class="jump-pill">Damage Matrix</a> <a href="the-four-work-types.html" class="jump-pill">Work Types</a> <a href="../entities/index.html#classification" class="jump-pill">SECC</a> <a href="resonant-clash-mechanics.html" class="jump-pill">Clash Rules</a> <a href="ordeals-framework.html" class="jump-pill">Ordeals</a> <a href="the-four-ordeals.html" class="jump-pill">Four Watches</a> <a href="containment-and-suppression.html" class="jump-pill">Containment</a> <a href="maw-equipment-system.html" class="jump-pill">MAW System</a> <a href="taboo-resonance-mechanics.html" class="jump-pill active">Resonances</a> <a href="index.html" class="jump-pill">✦ Systems Hub</a>
+  </div>
+</div>
+<!-- Tactical Directive Status HUD -->
+<div class="tactical-directive-box">
+  <div class="directive-text">
+    <span class="led-dot led-green"></span> <b>STATUS:</b> ARCHIVE VERIFIED &nbsp;|&nbsp;
+    <b>CLEARANCE:</b> LEVEL-4 OVERSIGHT &nbsp;|&nbsp;
+    <b>PROTOCOL:</b> REVERIE DIRECTORATE
+  </div>
+  <img src="../assets/icons/hud_resonance_wave.svg" alt="Resonance Wave" class="directive-wave">
+</div>
+<!-- Page Tabs -->
+<div class="page-tabs">
+<span>ARTICLE</span>
+<span>DISCUSSION</span>
+<span>SOURCE</span>
+<span>HISTORY</span>
+<b>YEAR 4,238 · DAWN OF HOPE</b>
+</div>
+
+<div class="breadcrumbs"><a href="../index.html">Somnarak</a> <i>/</i> <a href="index.html">Mechanics</a> <i>/</i> <span>Resonances</span></div>
+<div class="article-header">
+<div class="article-eyebrow">MECHANICS · 공명</div>
+<h1 class="article-title">Faction Resonances</h1>
+</div>
+<nav class="toc hub-toc toc-panel"><div class="toc-title">Contents</div><ol><li><a href="#overview">Overview</a></li>
+<li><a href="#table">The seven</a></li>
+<li><a href="#weight">Weight</a></li>
+<li><a href="#shaping">Shaping</a></li>
+<li><a href="#scales">Scales</a></li>
+<li><a href="#archive">Archive</a></li>
+<li><a href="#barrier">Barrier</a></li>
+<li><a href="#dream">Dream</a></li>
+<li><a href="#extraction">Extraction</a></li>
+<li><a href="#together">How they stack</a></li></ol></nav>
+
+<!-- wiki-flare -->
+<div class="lore-article character-article wiki-article-grid">
+  <div class="character-main-content lore-main">
+<blockquote class="wiki-quote"><p>“Factions do not hum the same note. The tablets still number seven.”</p><div class="quote-author">— Resonance primer</div></blockquote>
+<figure class="lore-banner"><img src="../assets/art/mechanics/taboo-res-banner.svg" alt="RESONANCES"></figure>
+<div class="prop-tile-grid"><article class="prop-tile" style="--tile:#f1df76"><img src="../assets/art/mechanics/taboo-res-icon.svg" alt=""><b>Seven tablets</b><small>Not ten</small></article><article class="prop-tile" style="--tile:#67e8f9"><img src="../assets/art/mechanics/work-viderehan.svg" alt=""><b>Listen</b><small>Notes they cannot steal</small></article><article class="prop-tile" style="--tile:#e2e8f0"><img src="../assets/art/mechanics/element-void.svg" alt=""><b>Fray</b><small>Stolen notes</small></article></div>
+<section class="wiki-section" id="overview"><h2 class="section-title">Overview</h2>
+<p><strong>Resonances</strong> (공명 — Gongmyeong) are not scanners and not M.A.W. Each of the seven civic factions has a way of touching Han that is history, philosophy, and cost. <em>“Every faction sings a different note. The city is the chorus.”</em></p>
+<p>This page is the seven notes. The seven <em>laws</em> are <a href="../lore/the-seven-absolute-taboos.html">the Taboos</a>. Enforcement guilds are <a href="../factions/the-giltong-enforcers.html">Giltong</a> and <a href="../factions/the-judexhan.html">Judexhan</a>. The old wiki pasted Taboos + Resonances + Giltong onto this URL from <code>SOMNARAK_TABOO_RESONANCE.md</code>. That paste is gone.</p>
+</section>
+<section class="wiki-section" id="table"><h2 class="section-title">The seven</h2>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Faction</th><th>Resonance</th><th>Does</th><th>Cost</th></tr></thead>
+<tbody>
+<tr><td><a href="../factions/the-high-council.html">Council</a></td><td>The Weight (무게)</td><td>Absorb and redistribute Han</td><td>Ages faster</td></tr>
+<tr><td><a href="../factions/the-architects.html">Architects</a></td><td>The Shaping (조형)</td><td>Mold solidified Han into structure</td><td>Feel the grief in the wall</td></tr>
+<tr><td><a href="../factions/the-collectors.html">Collectors</a></td><td>The Scales (저울)</td><td>Measure and extract karmic debt</td><td>Memory bleed — other people’s grief</td></tr>
+<tr><td><a href="../factions/the-keepers.html">Keepers</a></td><td>The Archive (기록)</td><td>Store and retrieve memory as Echoes</td><td>Identity erosion</td></tr>
+<tr><td><a href="../factions/the-wardens.html">Wardens</a></td><td>The Barrier (방벽)</td><td>Han-suppression fields; the Veil’s grain</td><td>Numbness</td></tr>
+<tr><td><a href="../factions/the-weavers.html">Weavers</a></td><td>The Dream (꿈)</td><td>Enter and navigate Somnus</td><td>Dream addiction</td></tr>
+<tr><td><a href="../factions/the-reverie-directorate.html">R.D.</a></td><td>The Extraction (추출)</td><td>Pull M.A.W. from living contained entities</td><td>Entity personality bleed</td></tr>
+</tbody></table></div>
+</section>
+<section class="wiki-section" id="weight"><h2 class="section-title">Council — The Weight</h2>
+<p>A Council member can draw Han from a person or a district by contact or proximity and bear it as pain, aging, fatigue. That is why membership is chosen by weight carried. The heavier the sorrow, the older they look; some appear decades past their years; the oldest look ancient. Majin’s Ω-fusion is the amplified form: whole districts. This is why the Director looks the oldest. Tools that sit beside the Resonance: Sigh Recorder, Decision Scale — see <a href="../factions/the-high-council.html">Council</a>. Weight is not a kindness protocol. Taking someone’s Han does not make them free. It makes the Council heavier.</p>
+</section>
+<section class="wiki-section" id="shaping"><h2 class="section-title">Architects — The Shaping</h2>
+<p>Touch and concentration reshape Han-crystal into wall, cell, tool. Complex shapes cost more skill. Building a wall means feeling the grief that solidified into that wall. The Architect’s Mark — grey hair, dark veins, altered eyes — is prolonged exposure, not a medal. Shapers and above work at a distance and can shape living Han in a cell. Compass and trowel are the handheld version of the same note. The Council tells Architects they build too fast. The Mark is the argument the Council does not have to make.</p>
+</section>
+<section class="wiki-section" id="scales"><h2 class="section-title">Collectors — The Scales</h2>
+<p>Observation and touch weigh a person’s debt and pull it as Echoes into the civic system. Fragments of that debt stay in the Collector. Over years they fill with grief that is not theirs; distance is occupational, not personality. <a href="../entities/se-014-the-debt-eater.html">SE-014 Debt Eater</a> is the entity some Collectors still treat as a tool — it eats debt and leaves the person hollow. Ledger and Extraction Glove are tech; the Scales is the body doing the same job. The glove feels. The Resonance is why some Collectors go numb and some break.</p>
+</section>
+<section class="wiki-section" id="archive"><h2 class="section-title">Keepers — The Archive</h2>
+<p>Touch and ritual pull a memory into an Echo or put one back. Restoration is imperfect. The more a Keeper stores, the less of themselves remains. Oldest Keepers remember the city and forget their names — they remember everything except themselves. The Whispering Index talks constantly. Comforting. Maddening. Not the same as a wash-rig. A wash deletes. The Archive Resonance keeps, and the keeper pays with self.</p>
+</section>
+<section class="wiki-section" id="barrier"><h2 class="section-title">Wardens — The Barrier</h2>
+<p>Training and baton project a field that lowers intensity, slows Fracture, damps entities. The civic Veil is thousands of those fields layered and maintained. If Wardens stop, the Veil fails — generators do not hum by themselves. Cost: feeling itself. The more they suppress, the less they feel anything. Veteran Wardens enforce a hush they can no longer hear. Zone E is the posting where the Barrier is most honest, because the Desolate does not care if you went numb.</p>
+</section>
+<section class="wiki-section" id="dream"><h2 class="section-title">Weavers — The Dream</h2>
+<p>Trance plus mask crosses into Somnus, where feeling is object and memory is landscape. Pull objects, information, entities. The Dream shows you what you want. Return gets harder. Some Weavers live more down there than on the street; some have partnerships with Dream beings, and trust is fragile. Layer map: <a href="../lore/the-dream-realm.html">Dream realm</a>. Wardens distrust this Resonance because a Barrier cannot hush a place that is not physical.</p>
+</section>
+<section class="wiki-section" id="extraction"><h2 class="section-title">R.D. — The Extraction</h2>
+<p>Resonance with a living contained entity externalizes its sorrow as weapon, suit, gift. Dead or uncontained donors do not yield. Staff take on the entity’s habit; extreme cases Fracture. Zyrak can also extract memories — a Collector leftover, not standard R.D. Resonance. SE-003 still has no extractable M.A.W.; a Resonance does not invent a personality where the Codex says none exists.</p>
+</section>
+<section class="wiki-section" id="together"><h2 class="section-title">How they stack</h2>
+<p>Weight then Shaping: Council drinks, Architect builds from what remains. Scales then Archive: debt pulled, memory of the pulling stored. Barrier then Dream: hush the street, walk the sleep. Extraction feeds everyone else’s kit. Menders and Judexhan do not have a seventh-plus Resonance in the seven-note table; they have kit and implant. Frays steal the notes they cannot sing.</p>
+</section>
+
+
+
+  </div>
+<aside class="character-infobox" style="--entity:#f1df76">
+  <h2>RESONANCES</h2>
+  <div class="infobox-image-wrap">
+    <img src="../assets/art/mechanics/taboo-res-icon.svg" alt="RESONANCES">
+  </div>
+  <h3>Taboo kit</h3>
+  <dl class="fact-grid"><dt>Law</dt><dd>Seven Absolute Taboos</dd><dt>Kit</dt><dd>Faction implants</dd><dt>Fail</dt><dd>Frays steal the notes</dd></dl>
+</aside>
+</div>
+
+</main>
+</div>
+<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  <div class="footer-signal" aria-hidden="true">
+    <span>RD://PUBLIC-NET</span><i></i>
+    <span>SECC LINK STABLE</span><i></i>
+    <span>FACILITY 01 // GATE WATCH</span><i></i>
+    <span>PUBLICATION GATES PASSING</span>
+  </div>
+
+  <div class="footer-hero">
+    <section class="footer-identity" aria-label="Somnarak Wiki">
+      <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
+      <a class="footer-brand" href="../index.html">
+        <span class="footer-emblem"><img src="../assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
+      </a>
+      <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
+      <p>The public record follows Somnarak from the Alpha Tree and five city zones into Facility 01, where witnessed canon is curated without replacing absence with invention.</p>
+      <div class="footer-badges" aria-label="Archive classification">
+        <span>FACILITY 01</span><span>DIRECTORATE</span><span>PUBLIC CODEX</span>
+      </div>
+    </section>
+
+    <figure class="footer-network">
+      <div class="footer-network-frame">
+        <img src="../assets/layout/footer-directorate-network.svg" alt="Directorate archive topology linking the Alpha Tree, five city zones, Facility 01, Gate Watch, and eight public archive gateways"/>
+        <span class="footer-network-scan" aria-hidden="true"></span>
+      </div>
+      <figcaption><span>Live archive topology</span><b>ALPHA TREE → FACILITY 01 → PUBLIC CODEX</b></figcaption>
+    </figure>
+
+    <section class="footer-status" aria-label="Current archive status">
+      <span>Verified repository snapshot</span>
+      <strong>1.8.31</strong>
+      <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
+      <dl>
+        <div><dt>Public records</dt><dd>197 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
+        <div><dt>Cycle state</dt><dd>ENDED</dd></div>
+        <div><dt>Gate command</dt><dd>XYAN</dd></div>
+      </dl>
+    </section>
+  </div>
+
+  <div class="footer-directory">
+    <section class="footer-archives" aria-labelledby="footer-archives-title">
+      <header><span>Primary collections</span><h2 id="footer-archives-title">Eight Archive Gateways</h2><p>Continue through the complete public taxonomy.</p></header>
+      <div>
+        <a href="../characters/index.html" data-footer-archive="01" style="--gateway:#ef5b55"><span>01</span><b>Echo-Cores</b><small>Characters</small></a>
+        <a href="../lore/index.html" data-footer-archive="02" style="--gateway:#a78bfa"><span>02</span><b>Cycle Archive</b><small>Lore</small></a>
+        <a href="../locations/index.html" data-footer-archive="03" style="--gateway:#38bdf8"><span>03</span><b>City Atlas</b><small>Locations</small></a>
+        <a href="../factions/index.html" data-footer-archive="04" style="--gateway:#f59e0b"><span>04</span><b>Orders</b><small>Factions</small></a>
+        <a href="../departments/index.html" data-footer-archive="05" style="--gateway:#71efaf"><span>05</span><b>Hand of Change</b><small>Facility</small></a>
+        <a href="../entities/index.html" data-footer-archive="06" style="--gateway:#fb7185"><span>06</span><b>SECC Registry</b><small>Entities</small></a>
+        <a href="../maw/index.html" data-footer-archive="07" style="--gateway:#f1df76"><span>07</span><b>M.A.W. Arsenal</b><small>Equipment</small></a>
+        <a href="../mechanics/index.html" data-footer-archive="08" style="--gateway:#60a5fa"><span>08</span><b>Systems Codex</b><small>Mechanics</small></a>
+      </div>
+    </section>
+
+    <nav class="footer-links" aria-label="Archive resources">
+      <header><span>Project access</span><h2>Archive Resources</h2><p>Inspect provenance, files, and visual infrastructure.</p></header>
+      <div>
+        <a href="../project/source-map.html" data-footer-link="R-01"><b>Source Map</b><small>Canon provenance</small></a>
+        <a href="../downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
+        <a href="../assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
+        <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+      </div>
+    </nav>
+  </div>
+
+  <section class="footer-register" aria-label="Publication register">
+    <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
+    <dl>
+      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+    </dl>
+    <div class="footer-protocols">
+      <span><b>01</b> SOURCE-LED CONTENT</span>
+      <span><b>02</b> DISTINCT VISUAL FORM</span>
+      <span><b>03</b> NO RECOLOR-ONLY ART</span>
+      <span><b>04</b> VERIFIED LOCAL ROUTES</span>
+    </div>
+  </section>
+
+  <div class="footer-base">
+    <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
+    <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+  </div>
+</footer>
+</body></html>

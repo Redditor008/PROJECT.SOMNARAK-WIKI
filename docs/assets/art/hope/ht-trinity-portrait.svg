@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="TRINITY">
+  <rect width="500" height="500" fill="#05070c"/>
+  <rect x="18" y="18" width="464" height="464" fill="none" stroke="#f1df76" stroke-width="3"/>
+  
+  <circle cx="250" cy="160" r="54" fill="none" stroke="#f1df76" stroke-width="5"/>
+  <circle cx="190" cy="270" r="54" fill="none" stroke="#38bdf8" stroke-width="5"/>
+  <circle cx="310" cy="270" r="54" fill="none" stroke="#ef5b55" stroke-width="5"/>
+  <circle cx="250" cy="230" r="18" fill="#f1df76"/>
+
+  <text x="250" y="460" text-anchor="middle" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="4">TRINITY</text>
+</svg>

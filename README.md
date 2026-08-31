@@ -1,1 +1,83 @@
-# PROJECT.SOMNARAK-WIKI
+<p align="center">
+  <img src="docs/assets/icons/somnarak_icon.svg" width="88" alt="Somnarak emblem">
+</p>
+
+<h1 align="center">Somnarak Wiki</h1>
+
+<p align="center">
+  Official encyclopedia of <strong>Somnarak</strong> — the City of Unresolved Sorrow<br>
+  Year 4,238 · Dawn Initiative
+</p>
+
+<p align="center">
+  <strong>Release 1.8.31</strong> · 197 public HTML files · 31 August 2026
+</p>
+
+<p align="center">
+  <a href="https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/"><strong>Open the wiki →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="CHANGELOG.md"><strong>Read the changelog →</strong></a>
+</p>
+
+---
+
+Static GitHub Pages encyclopedia. No account and no build step are required.
+
+## Current release — 1.8.31
+
+The 31 August 2026 snapshot reorganizes and expands the archive while preserving Somnarak-native canon terminology.
+
+- **197** tracked public HTML files, including the 404 page and asset gallery
+- **8** principal archive hubs spanning Entities, M.A.W., Characters, Mechanics, Factions, Facility, Atlas, and Lore
+- Approximately **270,000 words** of public page content
+- **1,414** local SVG and PNG art assets
+- Dedicated Hope Transformation, Unknown Entity, and five-color Ordeal collections
+
+See [`CHANGELOG.md`](CHANGELOG.md) for the reconstructed release history, route changes, verification details, and known issues.
+
+## Archives
+
+| Hub | What it covers |
+| --- | --- |
+| [Sorrow Entities](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/entities/) | Containment registry (published slice of ~288) |
+| [M.A.W.](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/maw/) | Weapons, suits, gifts |
+| [Characters](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/characters/) | Nine Echo-Cores and supporting cast |
+| [Mechanics](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/mechanics/) | Han, work types, ordeals, containment |
+| [Factions](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/factions/) | Reverie Directorate, Council, guilds |
+| [Facility 01](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/departments/) | Hand of Change, floors 1–8 |
+| [Atlas](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/locations/) | Zones A–E, the Maw, the Desolate |
+| [Lore](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/lore/) | Cycles, Alpha Tree, taboos, Weeping |
+
+## Repository
+
+| Path | Role |
+| --- | --- |
+| [`docs/`](docs/) | Public wiki (HTML, CSS, art, search) — GitHub Pages root |
+| [`REFERENCE_SOMNARAK_WIKI/`](REFERENCE_SOMNARAK_WIKI/) | Canon sources and diagrams |
+| [`REFERENCE_SOMNARAK_WIKI/CONTENT_AND_VISUAL_STANDARDS.md`](REFERENCE_SOMNARAK_WIKI/CONTENT_AND_VISUAL_STANDARDS.md) | Binding 200-word floor and non-generic SVG rules |
+| [`REFERENCE_SOMNARAK_WIKI/PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md`](REFERENCE_SOMNARAK_WIKI/PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md) | Current 197-page content, structure, search, and SVG audit |
+| [`CHANGELOG.md`](CHANGELOG.md) | Verified release history and known issues |
+
+## Run locally
+
+```bash
+python3 -m http.server 8000 --bind 0.0.0.0 --directory docs
+```
+
+Then open `http://localhost:8000/`.
+
+## Publication gates
+
+```bash
+python3 tools/audit_page_word_floor.py
+python3 tools/sync_global_top_bar.py
+python3 tools/sync_global_bottom_bar.py
+python3 tools/audit_site_structure.py
+python3 tools/audit_svg_compositions.py
+```
+
+Use the corresponding sync tool with `--write` after adding or moving a public route. The checks enforce the same ten-link navigation header and the same identity, resource links, release state, and status footer across all 197 pages.
+
+Every public page must contain at least 200 meaningful editorial words after shared interface chrome is excluded. Pages and SVGs must be source-led, page-specific, and visually distinct—never generic templates or recolored duplicates. The SVG gate validates all 1,329 vector files as XML and compares curated page-art geometry without relying on color or labels. See the [complete content and visual standards](REFERENCE_SOMNARAK_WIKI/CONTENT_AND_VISUAL_STANDARDS.md).
+
+Canon terms stay Somnarak-native: Sorrow Entities, SECC, M.A.W., Reverie Directorate, Echo-Cores, Han, Absolvohan.

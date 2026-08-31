@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="BLUE ORDEAL">
+  <defs>
+    <radialGradient id="ibgordealbluei" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <radialGradient id="iglordealbluei" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/><stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#ibgordealbluei)" stroke="#38bdf8" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="128" fill="url(#iglordealbluei)"/>
+  
+  <rect x="50" y="70" width="300" height="250" fill="#05070c" stroke="#38bdf8" stroke-width="3"/>
+  <g transform="translate(40,40) scale(1.6)">
+  <g fill="#0c4a6e" stroke="#7dd3fc" stroke-width="2">
+    <path d="M160 80 C160 50 240 50 240 80 L250 140 C250 170 150 170 150 140 Z"/>
+    <path d="M360 90 C360 60 430 60 430 90 L438 145 C438 172 352 172 352 145 Z"/>
+    <path d="M540 70 C540 42 630 42 630 70 L642 150 C642 182 528 182 528 150 Z"/>
+    <path d="M760 88 C760 58 840 58 840 88 L850 148 C850 176 750 176 750 148 Z"/>
+    <path d="M980 76 C980 46 1070 46 1070 76 L1082 154 C1082 186 968 186 968 154 Z"/>
+    <path d="M1160 92 C1160 64 1230 64 1230 92 L1238 146 C1238 172 1152 172 1152 146 Z"/>
+  </g>
+</g>
+
+  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">ORDEAL  ·  BLUE</text>
+  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
+  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.5">BLUE ORDEAL</text>
+</svg>

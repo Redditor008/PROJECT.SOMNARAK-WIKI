@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-label="Dream Weeping Abyss diagram">
+  <rect width="720" height="420" fill="#020617"/>
+  <!-- three strata -->
+  <rect x="40" y="36" width="640" height="110" fill="#0f172a" stroke="#818cf8" stroke-width="2"/>
+  <rect x="40" y="156" width="640" height="128" fill="#082f49" stroke="#38bdf8" stroke-width="3"/>
+  <rect x="40" y="294" width="640" height="90" fill="#111827" stroke="#64748b" stroke-width="2"/>
+  <text x="360" y="62" text-anchor="middle" fill="#c4b5fd" font-family="Impact, Arial Black, sans-serif" font-size="20" letter-spacing="4">THE DREAM  ·  SOMNUS</text>
+  <text x="360" y="86" text-anchor="middle" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="12">Surface of sleep. City above. Memory as weather.</text>
+  <text x="360" y="196" text-anchor="middle" fill="#7dd3fc" font-family="Impact, Arial Black, sans-serif" font-size="22" letter-spacing="5">THE WEEPING</text>
+  <text x="360" y="220" text-anchor="middle" fill="#f1df76" font-family="Arial, sans-serif" font-size="13">River of liquid Han. Feeds the Alpha Tree. Births Sorrow Entities.</text>
+  <text x="360" y="244" text-anchor="middle" fill="#94a3b8" font-family="Arial, sans-serif" font-size="12">Access: Abyssal Well · Deep Vault · never the plaza</text>
+  <text x="360" y="328" text-anchor="middle" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="4">THE ABYSS</text>
+  <text x="360" y="352" text-anchor="middle" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="12">Below the river. Unmapped. The source does not answer.</text>
+  <path d="M360 146 L360 156" stroke="#38bdf8" stroke-width="3"/>
+  <path d="M360 284 L360 294" stroke="#64748b" stroke-width="3"/>
+  <circle cx="120" cy="220" r="10" fill="none" stroke="#7dd3fc" stroke-width="2"/>
+  <circle cx="600" cy="220" r="10" fill="none" stroke="#7dd3fc" stroke-width="2"/>
+</svg>

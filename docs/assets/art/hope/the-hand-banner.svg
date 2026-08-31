@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Hand of Hope — warm rain through dawn fog">
+  <defs>
+    <linearGradient id="hthbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e1b4b"/><stop offset="1" stop-color="#0b1020"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="280" fill="url(#hthbg)"/>
+  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#c4b5fd" stroke-width="2.4"/>
+  <!-- crystal palm -->
+  <path d="M560 210 C540 140 580 110 640 104 L700 102 C750 100 790 124 800 170 L812 220 C770 250 600 250 560 210 Z"
+        fill="#3b2a08" stroke="#f1df76" stroke-width="4"/>
+  <path d="M650 168 L750 168 L730 128 L670 128 Z" fill="#0b1220" stroke="#f1df76" stroke-width="2.4"/>
+  <path d="M700 128 L670 100 M700 128 L700 78 M700 128 L732 98" stroke="#71efaf" stroke-width="3"/>
+  <ellipse cx="700" cy="186" rx="54" ry="12" fill="#082f49" stroke="#38bdf8" stroke-width="2.4"/>
+  <!-- five crystal fingers becoming rain-streams -->
+  <path d="M640 104 C620 60 600 30 580 8" fill="none" stroke="#f1df76" stroke-width="12" stroke-linecap="round"/>
+  <path d="M670 102 C660 54 650 24 640 4" fill="none" stroke="#fbbf24" stroke-width="12" stroke-linecap="round"/>
+  <path d="M700 100 C702 50 706 22 712 2" fill="none" stroke="#f8fafc" stroke-width="12" stroke-linecap="round"/>
+  <path d="M732 108 C750 58 768 26 786 6" fill="none" stroke="#cbd5e1" stroke-width="12" stroke-linecap="round"/>
+  <path d="M770 130 C810 80 850 40 880 16" fill="none" stroke="#fb923c" stroke-width="12" stroke-linecap="round"/>
+  <path d="M200 40 Q400 80 560 120" fill="none" stroke="#c4b5fd" stroke-width="1.5" opacity=".45" stroke-dasharray="8 6"/>
+  <path d="M880 40 Q1100 90 1280 70" fill="none" stroke="#c4b5fd" stroke-width="1.5" opacity=".45" stroke-dasharray="8 6"/>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="246" fill="#c4b5fd" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">HT-V-HH-001  ·  희망의 손  ·  OPEN PALM</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">THE HAND OF HOPE  —  LIGHT LIKE WARM RAIN</text>
+</svg>

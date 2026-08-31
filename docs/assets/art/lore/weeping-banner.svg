@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="THE WEEPING  —  THE RIVER BENEATH THE CITY">
+  <defs>
+    <linearGradient id="bgweep" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#031018"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="fadeweep" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity=".28"/>
+    </linearGradient>
+    <filter id="glowweep" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bgweep)"/>
+  <rect width="1400" height="280" fill="url(#fadeweep)"/>
+  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#38bdf8" stroke-width="2.4"/>
+  <line x1="24" y1="24" x2="1376" y2="24" stroke="#38bdf8" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  <line x1="24" y1="256" x2="1376" y2="256" stroke="#38bdf8" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  
+  <rect x="1188" y="18" width="194" height="28" fill="#000" opacity=".55" stroke="#38bdf8" stroke-width="1"/>
+  <text x="1285" y="37" text-anchor="middle" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="3">WEEPING</text>
+  <g filter="url(#glowweep)">
+  
+  <path fill="#071018" d="M0 112 L36 112 L36 82 L68 82 L68 112 L108 112 L108 56 L140 40 L172 56 L172 112 L220 112 L220 76 L258 76 L258 112 L310 112 L310 48 L342 32 L374 48 L374 112 L430 112 L430 84 L478 84 L478 112 L538 112 L538 64 L578 64 L578 112 L640 112 L640 90 L698 90 L698 112 L758 112 L758 60 L800 42 L842 60 L842 112 L900 112 L900 80 L958 80 L958 112 L1020 112 L1020 66 L1070 66 L1070 112 L1140 112 L1140 86 L1200 86 L1200 112 L1280 112 L1280 72 L1340 72 L1340 112 L1400 112 L1400 226 L0 226 Z"/>
+  <path fill="#0c4a6e" d="M0 158 C200 138 380 182 580 162 C780 142 1000 188 1400 160 L1400 226 L0 226 Z"/>
+  <path fill="#075985" opacity=".75" d="M0 186 C240 166 460 210 720 188 C980 166 1220 218 1400 192 L1400 226 L0 226 Z"/>
+  <ellipse cx="700" cy="198" rx="280" ry="26" fill="#7dd3fc" opacity=".16"/>
+  <path d="M330 112 C308 150 278 188 236 220" stroke="#7dd3fc" fill="none" stroke-width="2.6"/>
+  <path d="M360 112 C384 158 424 188 478 222" stroke="#7dd3fc" fill="none" stroke-width="2.2"/>
+  <path d="M800 112 C768 156 728 194 676 222" stroke="#67e8f9" fill="none" stroke-width="2.2"/>
+  <path d="M842 112 C886 166 948 196 1012 222" stroke="#67e8f9" fill="none" stroke-width="2"/>
+  <path d="M140 40 L172 56 L172 62 L140 46 Z" fill="#38bdf8" opacity=".45"/>
+  <polygon points="1180,48 1220,48 1220,88 1180,88" fill="none" stroke="#7dd3fc" stroke-width="1.4"/>
+  <path d="M1188 68 H1212 M1200 56 V80" stroke="#7dd3fc" stroke-width="1.4"/>
+    
+  </g>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="246" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">LORE  ·  울음  ·  LIQUID HAN</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">THE WEEPING  —  THE RIVER BENEATH THE CITY</text>
+</svg>

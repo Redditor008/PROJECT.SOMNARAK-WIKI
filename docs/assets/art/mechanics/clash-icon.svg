@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="RESONANT CLASH">
+  <defs>
+    <radialGradient id="ibgclashi" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/><stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <radialGradient id="iglclashi" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".22"/><stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#ibgclashi)" stroke="#ef5b55" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="128" fill="url(#iglclashi)"/>
+  
+  <path d="M40 200 L170 80 L170 240 Z" fill="#0c4a6e" stroke="#38bdf8" stroke-width="3"/>
+  <path d="M360 200 L230 80 L230 240 Z" fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
+  <circle cx="200" cy="190" r="36" fill="none" stroke="#f1df76" stroke-width="3"/>
+
+  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">SYSTEMS  ·  공명 충돌</text>
+  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
+  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.5">RESONANT CLASH</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Veil cloth and Raw break">
+  <rect width="1400" height="280" fill="#070410"/>
+  <path d="M80 30 Q160 100 80 210" fill="none" stroke="#e2e8f0" stroke-width="10"/>
+  <path d="M130 30 Q210 110 130 210" fill="none" stroke="#94a3b8" stroke-width="10"/>
+  <path d="M260 40 L320 90 L280 130 L370 180 L250 210" fill="none" stroke="#ef5b55" stroke-width="10"/>
+  <text x="430" y="90" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="28">THE STREET IS THE SEAM</text>
+  <text x="430" y="124" fill="#94a3b8" font-family="Arial" font-size="16">Veil is hung cloth of the city. Raw is the jagged remainder.</text>
+  <text x="430" y="152" fill="#64748b" font-family="Arial" font-size="15">Not a health bar. Not two extra zones.</text>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="248" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FROM THE CITY MAP</text>
+  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2">VEIL AND RAW  —  HUNG CLOTH, JAGGED SEAM</text>
+</svg>

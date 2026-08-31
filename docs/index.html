@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Somnarak Wiki — Official Encyclopedia of the City of Unresolved Sorrow</title>
+  <link rel="stylesheet" href="assets/css/wiki.css?v=20260831g">
+  <link rel="icon" type="image/svg+xml" href="assets/icons/somnarak_icon.svg">
+</head>
+<body class="home-page">
+  <!-- Top Utility Bar -->
+  <header class="utility" data-component="global-top-bar">
+  <div class="utility-left">
+    <button class="nav-open" type="button" aria-controls="primary-archive-navigation" aria-expanded="false" aria-label="Open primary archive navigation">
+      <span class="nav-open-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="nav-open-text">MENU</span>
+    </button>
+    <a class="utility-brand" href="index.html" aria-label="Somnarak Wiki main page">
+      <img src="assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
+    </a>
+    <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>
+  </div>
+  <nav class="utility-nav" id="primary-archive-navigation" aria-label="Primary archive">
+      <a href="index.html" data-archive="00" class="is-current" aria-current="page"><span>Main</span><small>Terminal</small></a>
+      <a href="characters/index.html" data-archive="01"><span>Characters</span><small>Echo-Cores</small></a>
+      <a href="lore/index.html" data-archive="02"><span>Lore</span><small>Cycles</small></a>
+      <a href="locations/index.html" data-archive="03"><span>Atlas</span><small>City</small></a>
+      <a href="factions/index.html" data-archive="04"><span>Factions</span><small>Orders</small></a>
+      <a href="departments/index.html" data-archive="05"><span>Facility</span><small>Floors</small></a>
+      <a href="entities/index.html" data-archive="06"><span>Entities</span><small>SECC</small></a>
+      <a href="maw/index.html" data-archive="07"><span>M.A.W.</span><small>Arsenal</small></a>
+      <a href="mechanics/index.html" data-archive="08"><span>Mechanics</span><small>Systems</small></a>
+      <a href="downloads.html" data-archive="09"><span>Downloads</span><small>Files</small></a>
+  </nav>
+  <div class="search" role="search">
+    <label for="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search Somnarak Wiki</span></label>
+    <input id="search" type="search" aria-label="Search Somnarak Wiki" aria-controls="results" aria-expanded="false" data-index="data/search.json" placeholder="Search the archive" autocomplete="off" spellcheck="false"/>
+    <kbd aria-hidden="true">/</kbd>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</header>
+
+  <!-- Main Grid Layout (Strict 3-Column on Home) -->
+  <div class="wiki-shell home-shell">
+    <!-- Left Rail Navigation -->
+    <aside class="left-rail">
+      <div class="site-mark">
+        <a href="index.html">
+          <img src="assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+          <b>SOMNARAK</b>
+          <span>OFFICIAL WIKI ARCHIVE</span>
+        </a>
+      </div>
+      <nav aria-label="Wiki navigation" class="left-links">
+        <section>
+          <h2>DATABASE HUBS</h2>
+          <a href="index.html" class="active">Main Overview</a>
+          <a href="entities/index.html">Sorrow Entities</a>
+          <a href="maw/index.html">M.A.W. Armory</a>
+          <a href="characters/index.html">Echo-Cores &amp; Cast</a>
+          <a href="departments/index.html">Hand of Change</a>
+          <a href="factions/index.html">Factions &amp; Guilds</a>
+          <a href="locations/index.html">Atlas &amp; Maps</a>
+          <a href="lore/index.html">Lore &amp; Cosmology</a>
+          <a href="mechanics/index.html">Battle Mechanics</a>
+        </section>
+        <section>
+          <h2>THE NINE ECHO-CORES</h2>
+          <a href="characters/the-director-majin.html">Core 01: Majin</a>
+          <a href="characters/the-secretary-seiyon.html">Core 02: Seiyon</a>
+          <a href="characters/the-containment-lead-dekan.html">Core 03: Dekan</a>
+          <a href="characters/the-extraction-lead-zyrak.html">Core 04: Zyrak</a>
+          <a href="characters/the-research-lead-ayshuk.html">Core 05: Ayshuk</a>
+          <a href="characters/the-border-lead-mellda.html">Core 06: Mellda</a>
+          <a href="characters/the-archive-lead-marjuk.html">Core 07: Marjuk</a>
+          <a href="characters/the-outsider-ishall.html">Core 08: Ishall</a>
+          <a href="characters/the-exile-xyan.html">Core 09: Xyan</a>
+        </section>
+        <section>
+          <h2>CARTOGRAPHY &amp; SCHEMATICS</h2>
+          <a href="atlas/hand-of-change-map.html">Facility 01 Map</a>
+          <a href="atlas/somnarak-city-map.html">Somnarak City Map</a>
+          <a href="downloads.html">Offline Archives</a>
+        </section>
+      </nav>
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main" id="content">
+      <!-- Breadcrumb Tabs -->
+      <div class="page-tabs">
+        <span>Main Portal</span>
+        <b>RELEASE 1.8.31 · CYCLE ENDED</b>
+      </div>
+
+      <!-- Hero Header -->
+      <div class="pm-hero-container">
+        <div class="pm-hero-main pm-hero-centered">
+          <div class="pm-brand-row">
+            <img src="assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+            <div class="pm-brand-text">
+              <h1>SOMNARAK<span>WIKI</span></h1>
+              <strong>CITY OF UNRESOLVED SORROW // COMPREHENSIVE ARCHIVE</strong>
+            </div>
+          </div>
+          <div class="pm-hero-subtext">
+            The definitive encyclopedic record of the metropolitan civilization anchored to the Alpha Tree above the subterranean Weeping, the metaphysical dynamics of Han flux, the Reverie Directorate, and the individuals who endure beyond the 1,778 Cycles.
+          </div>
+        </div>
+        <div class="pm-slogan-bar">
+          WITNESS THE SORROW, PRESERVE THE NAME <span>슬픔을 직시하고, 이름을 보존하라</span>
+        </div>
+      </div>
+
+      <!-- Verified public release summary -->
+      <section class="home-release" aria-labelledby="release-heading">
+        <div class="home-release-code">
+          <span>Current archive release</span>
+          <strong>1.8.31</strong>
+          <small>31 AUG 2026</small>
+        </div>
+        <div class="home-release-copy">
+          <span class="home-release-state"><i aria-hidden="true"></i> Verified repository snapshot</span>
+          <h2 id="release-heading">The public archive has been reorganized and expanded.</h2>
+          <p>This release arranges 197 tracked HTML files into eight primary archives, adds dedicated Hope Transformation, Unknown Entity, and five-color Ordeal collections, and establishes the first verified project changelog.</p>
+        </div>
+        <div class="home-release-data">
+          <dl aria-label="Release inventory">
+            <div><dt>HTML files</dt><dd>197</dd></div>
+            <div><dt>Archive hubs</dt><dd>8</dd></div>
+            <div><dt>Public words</dt><dd>≈270K</dd></div>
+            <div><dt>Art assets</dt><dd>1,414</dd></div>
+          </dl>
+          <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">
+            Read the 1.8.31 changelog <span aria-hidden="true">↗</span>
+          </a>
+        </div>
+      </section>
+
+      <!-- Live Facility Dispatch Bulletins -->
+      <div class="pm-dispatch-banner">
+        <div class="dispatch-header">
+          <span class="pulse-dot"></span>
+          <strong>DIRECTORATE BULLETIN</strong>
+          <span class="dispatch-time">04:18 FACILITY STANDARD</span>
+        </div>
+        <div class="dispatch-content">
+          <div class="dispatch-item">
+            <span class="disp-tag alert-amber">CONTAINMENT</span>
+            <span>Floor 2 (Maw's Keep): <a href="entities/se-002-the-grieving-colossus.html" class="wiki-link">SE-002 (The Grieving Colossus)</a> Coherence Counter steady at 4. Han yield threshold at 104%. Lead Dekan ordering standard Ferrehan extraction shifts.</span>
+          </div>
+          <div class="dispatch-item">
+            <span class="disp-tag alert-blue">RESEARCH</span>
+            <span>Floor 4 (Insight Forge): Lead Ayshuk validates new M.A.W. resonance calibration matrices for <a href="maw/maw-w-010-01-the-absolute-maul.html" class="wiki-link">Absolute Maul</a>. Minimum agent Resolve required: Level IV.</span>
+          </div>
+          <div class="dispatch-item">
+            <span class="disp-tag alert-red">BORDER ALERT</span>
+            <span>Floor 5 (Border Watch): Subterranean effluent surging in District 4. Lead Mellda deployed SED tactical squads to prevent Night Aberration infiltration.</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Featured Entity Spotlight of the Cycle -->
+      <section class="pm-section-block">
+        <div class="section-title-bar">
+          <h2>/// FEATURED ENTITY SPOTLIGHT OF THE CYCLE</h2>
+          <span class="title-sub">SECC CLASSIFICATION: δ (CRITICAL) // REGISTER 001</span>
+        </div>
+        <div class="featured-spotlight-grid">
+          <div class="spotlight-visual">
+            <img src="assets/art/entities/se-001-profile.svg" alt="SE-001 The Orphaned Bell" class="spotlight-img">
+            <div class="spotlight-badges">
+              <span class="risk-badge risk-APOCRYPHA">δ (CRITICAL)</span>
+              <span class="damage-badge dmg-cyan">LAMENT DAMAGE</span>
+              <span class="han-badge">HAN FLUX: 32 ECHOES</span>
+            </div>
+          </div>
+          <div class="spotlight-body">
+            <div class="spotlight-meta-header">
+              <h3><a href="entities/se-001-the-orphaned-bell.html">SE-001 — The Orphaned Bell (고아의 종)</a></h3>
+              <small>Location: Facility 01, Floor 2 (Maw's Keep) | Containment Unit MK-01</small>
+            </div>
+            <p>
+              <strong>The Orphaned Bell</strong> is a monumental Sorrow Entity embodying the collective grief of the city's foundational sacrifices during Cycle 001. Manifesting as an ancient bronze resonance bell hanging over subterranean abyssal currents, it continuously emits deep sonic frequencies that vibrate through the bedrock. If its Coherence Counter reaches zero, its tolling echoes shatter surrounding corridors, inflicting lethal Lament (Mental) damage upon operatives without specialized M.A.W. psychological shielding.
+            </p>
+            <dl class="spotlight-facts">
+              <div>
+                <dt>Optimal work</dt>
+                <dd><strong style="color:#38bdf8;">Insight (Viderehan)</strong> (65% Base)</dd>
+              </div>
+              <div>
+                <dt>Weapon</dt>
+                <dd><a href="maw/maw-w-001-01-the-laments-requiem.html">Lament Requiem</a></dd>
+              </div>
+              <div>
+                <dt>Suit</dt>
+                <dd><a href="maw/maw-s-001-01-the-laments-shroud.html">Lament Shroud</a></dd>
+              </div>
+              <div>
+                <dt>Gift</dt>
+                <dd><a href="maw/maw-g-001-01-laments-edge.html">Lament's Edge</a></dd>
+              </div>
+            </dl>
+            <div class="spotlight-actions">
+              <a href="entities/se-001-the-orphaned-bell.html" class="pm-btn-primary">View Full Containment Dossier & Work Probabilities →</a>
+              <a href="entities/index.html" class="pm-btn-secondary">ALL SE →</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 8 Portal Navigation Hubs -->
+      <section class="pm-section-block">
+        <div class="section-title-bar">
+          <h2>/// MASTER ENCYCLOPEDIC ARCHIVES</h2>
+          <span class="title-sub">EXPLORE ALL 8 FACILITY & METROPOLITAN CODEXES</span>
+        </div>
+        <div class="archive-portal-grid">
+          <a class="archive-portal" href="entities/index.html" style="--portal:#ef5b55">
+            <span class="archive-portal-title">SORROW ENTITIES</span>
+            <img src="assets/icons/icon_hub_entities.svg" alt="Sorrow Entities">
+            <b>Containment Registry</b>
+            <small>SECC codes, work types, and M.A.W. yield. ALL SE.</small>
+            <em>ENTER ENTITY CODEX →</em>
+          </a>
+          <a class="archive-portal" href="maw/index.html" style="--portal:#f1df76">
+            <span class="archive-portal-title">M.A.W. EQUIPMENT</span>
+            <img src="assets/icons/icon_hub_maw.svg?v=20260831ao" alt="M.A.W. Equipment">
+            <b>Materialized Agony Armory</b>
+            <small>Weapons, suits, and gifts by the four Han damage types.</small>
+            <em>ENTER ARMORY →</em>
+          </a>
+          <a class="archive-portal" href="characters/index.html" style="--portal:#c084fc">
+            <span class="archive-portal-title">ECHO-CORES &amp; CAST</span>
+            <img src="assets/icons/icon_hub_characters.svg?v=20260831ao" alt="Characters">
+            <b>The Nine Leads</b>
+            <small>Department heads, regalia, and facility directives.</small>
+            <em>ENTER PERSONNEL FILES →</em>
+          </a>
+          <a class="archive-portal" href="mechanics/index.html" style="--portal:#38bdf8">
+            <span class="archive-portal-title">BATTLE &amp; SYSTEMS</span>
+            <img src="assets/icons/icon_hub_mechanics.svg" alt="Mechanics">
+            <b>Han · Work · Panic</b>
+            <small>Grudge, Lament, Void, Weight, and containment suppression.</small>
+            <em>ENTER SYSTEMS →</em>
+          </a>
+          <a class="archive-portal" href="factions/index.html" style="--portal:#eab308">
+            <span class="archive-portal-title">FACTIONS &amp; GUILDS</span>
+            <img src="assets/icons/icon_hub_factions.svg" alt="Factions">
+            <b>Directorate &amp; Syndicates</b>
+            <small>Reverie Directorate, High Council, Weavers, Underground.</small>
+            <em>ENTER FACTION CODEX →</em>
+          </a>
+          <a class="archive-portal" href="departments/index.html" style="--portal:#71efaf">
+            <span class="archive-portal-title">HAND OF CHANGE</span>
+            <img src="assets/icons/icon_hub_departments.svg?v=20260831ao" alt="Hand of Change">
+            <b>Facility 01 · Floors 1–8</b>
+            <small>Departments, missions, research, and the daily cycle.</small>
+            <em>ENTER FACILITY →</em>
+          </a>
+          <a class="archive-portal" href="locations/index.html" style="--portal:#fb923c">
+            <span class="archive-portal-title">ATLAS &amp; GEOGRAPHY</span>
+            <img src="assets/icons/icon_hub_locations.svg?v=20260831ap" alt="Atlas">
+            <b>Hex city · Zones A–E</b>
+            <small>Diamond core, Maw in the west, four gates on the ring.</small>
+            <em>ENTER ATLAS →</em>
+          </a>
+          <a class="archive-portal" href="lore/index.html" style="--portal:#818cf8">
+            <span class="archive-portal-title">LORE &amp; COSMOLOGY</span>
+            <img src="assets/icons/icon_hub_lore.svg" alt="Lore">
+            <b>The 1,778 Cycles</b>
+            <small>Alpha Tree, Three Sorrows, Seven Absolute Taboos.</small>
+            <em>ENTER CHRONICLES →</em>
+          </a>
+        </div>
+      </section>
+
+      <!-- Tactical Quick-Reference: 4-Way Han Damage Matrix -->
+      <section class="pm-section-block">
+        <div class="section-title-bar">
+          <h2>/// HAN DAMAGE MATRIX</h2>
+          <span class="title-sub">COMBAT &amp; CONTAINMENT MULTIPLIERS</span>
+        </div>
+        <p class="section-lead-text">
+          Within the Hand of Change, psychic trauma, physical force, and metaphysical pressure are categorized into four Han damage manifestations. Agents must wear matching M.A.W. suits.
+        </p>
+        <div class="han-tile-grid">
+          <div class="han-tile">
+            <img src="assets/icons/damage_grudge.svg?v=20260831ao" alt="Grudge">
+            <div>
+              <b>Grudge (원한)</b>
+              <small>HP · Heavy M.A.W. suits (Resolve)</small>
+            </div>
+          </div>
+          <div class="han-tile">
+            <img src="assets/icons/damage_lament.svg?v=20260831ao" alt="Lament">
+            <div>
+              <b>Lament (비탄)</b>
+              <small>SP · Psychological veils (Resilience)</small>
+            </div>
+          </div>
+          <div class="han-tile">
+            <img src="assets/icons/damage_void.svg?v=20260831ao" alt="Void">
+            <div>
+              <b>Void (공허)</b>
+              <small>Max HP dissolution · ω-grade suits</small>
+            </div>
+          </div>
+          <div class="han-tile">
+            <img src="assets/icons/damage_weight.svg?v=20260831ao" alt="Weight">
+            <div>
+              <b>Weight (중압)</b>
+              <small>Dual HP &amp; SP · composite plate</small>
+            </div>
+          </div>
+          <div class="han-tile">
+            <img src="assets/icons/damage_mixed.svg" alt="Mixed">
+            <div>
+              <b>Mixed (혼합)</b>
+              <small>Shifting frequencies · adaptive shielding</small>
+            </div>
+          </div>
+          <div class="han-tile">
+            <img src="assets/icons/damage_hope.svg?v=20260831ao" alt="Hope">
+            <div>
+              <b>Hope (희망)</b>
+              <small>Cathartic dawn · Absolvohan restoration</small>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Facility 01 Floor Operations & Echo-Core Leads -->
+      <section class="pm-section-block">
+        <div class="section-title-bar">
+          <h2>/// FACILITY 01 FLOORS</h2>
+          <span class="title-sub">HAND OF CHANGE · 8 SUBTERRANEAN TIERS</span>
+        </div>
+        <p class="section-lead-text">
+          Facility 01 descends 8 tiers beneath the Alpha Tree roots into the Weeping. Each floor is commanded by an Echo-Core Lead.
+        </p>
+        <div class="floor-summary-grid">
+          <a class="floor-summary-item" href="departments/floor-1-neutral-command.html">
+            <img src="assets/avatars/avatar_core_majin.svg" alt="">
+            <span><b>Floor 1</b> Neutral Command · Majin</span>
+          </a>
+          <a class="floor-summary-item" href="departments/floor-2-maws-keep.html">
+            <img src="assets/avatars/avatar_core_dekan.svg" alt="">
+            <span><b>Floor 2</b> Maw's Keep · Dekan</span>
+          </a>
+          <a class="floor-summary-item" href="departments/floor-3-extraction-hall.html">
+            <img src="assets/avatars/avatar_core_zyrak.svg" alt="">
+            <span><b>Floor 3</b> Extraction Hall · Zyrak</span>
+          </a>
+          <a class="floor-summary-item" href="departments/floor-4-insight-forge.html">
+            <img src="assets/avatars/avatar_core_ayshuk.svg" alt="">
+            <span><b>Floor 4</b> Insight Forge · Ayshuk</span>
+          </a>
+          <a class="floor-summary-item" href="departments/floor-5-border-watch.html">
+            <img src="assets/avatars/avatar_core_mellda.svg" alt="">
+            <span><b>Floor 5</b> Border Watch · Mellda</span>
+          </a>
+          <a class="floor-summary-item" href="departments/floor-6-deep-vault.html">
+            <img src="assets/avatars/avatar_core_marjuk.svg" alt="">
+            <span><b>Floor 6</b> Deep Vault · Marjuk</span>
+          </a>
+          <a class="floor-summary-item" href="departments/floor-7-shadow-corps.html">
+            <img src="assets/avatars/avatar_core_ishall.svg" alt="">
+            <span><b>Floor 7</b> Shadow Corps · Ishall</span>
+          </a>
+          <a class="floor-summary-item" href="departments/floor-8-gate-watch.html">
+            <img src="assets/avatars/avatar_core_xyan.svg" alt="">
+            <span><b>Floor 8</b> Gate Watch · Xyan</span>
+          </a>
+        </div>
+      </section>
+
+      <section class="pm-section-block">
+        <div class="section-title-bar">
+          <h2>/// ARTICLE DIRECTORY</h2>
+          <span class="title-sub">CANONICAL RECORDS ACROSS ALL NAMESPACES</span>
+        </div>
+        <div class="dir-grid">
+          <div class="dir-box dir-entities">
+            <h3><img src="assets/icons/icon_hub_entities.svg" alt=""> Sorrow Entities</h3>
+            <ul>
+              <li><a href="entities/se-001-the-orphaned-bell.html"><img src="assets/art/entities/se-001-icon.svg" alt=""><span>SE-001 The Orphaned Bell</span></a></li>
+              <li><a href="entities/se-002-the-grieving-colossus.html"><img src="assets/art/entities/se-002-icon.svg" alt=""><span>SE-002 Grieving Colossus</span></a></li>
+              <li><a href="entities/se-005-the-smothering-mother.html"><img src="assets/art/entities/se-005-icon.svg" alt=""><span>SE-005 Smothering Mother</span></a></li>
+              <li><a href="entities/se-010-the-convergence.html"><img src="assets/art/entities/se-010-icon.svg" alt=""><span>SE-010 The Convergence</span></a></li>
+              <li><a href="entities/index.html"><span>ALL SE →</span></a></li>
+            </ul>
+          </div>
+          <div class="dir-box dir-maw">
+            <h3><img src="assets/icons/icon_hub_maw.svg?v=20260831ao" alt=""> M.A.W. Equipment</h3>
+            <ul>
+              <li><a href="maw/maw-w-001-01-the-laments-requiem.html"><img src="assets/art/maw/maw-w-001-01.svg?v=20260830ai" alt=""><span>Lament's Requiem</span></a></li>
+              <li><a href="maw/maw-w-010-01-the-absolute-maul.html"><img src="assets/art/maw/maw-w-010-01.svg?v=20260830ai" alt=""><span>Absolute Maul</span></a></li>
+              <li><a href="maw/maw-s-001-01-the-laments-shroud.html"><img src="assets/art/maw/maw-s-001-01.svg?v=20260830ai" alt=""><span>Lament Shroud</span></a></li>
+              <li><a href="maw/maw-g-001-01-laments-edge.html"><img src="assets/art/maw/maw-g-001-01.svg?v=20260830ai" alt=""><span>Lament's Edge</span></a></li>
+              <li><a href="maw/index.html"><span>All M.A.W. codexes →</span></a></li>
+            </ul>
+          </div>
+          <div class="dir-box dir-cast">
+            <h3><img src="assets/icons/icon_hub_characters.svg?v=20260831ao" alt=""> Personnel</h3>
+            <ul>
+              <li><a href="characters/the-director-majin.html"><img src="assets/avatars/avatar_core_majin.svg" alt=""><span>Director Majin</span></a></li>
+              <li><a href="characters/the-secretary-seiyon.html"><img src="assets/avatars/avatar_core_seiyon.svg" alt=""><span>Secretary Seiyon</span></a></li>
+              <li><a href="characters/the-containment-lead-dekan.html"><img src="assets/avatars/avatar_core_dekan.svg" alt=""><span>Lead Dekan</span></a></li>
+              <li><a href="characters/the-border-lead-mellda.html"><img src="assets/avatars/avatar_core_mellda.svg" alt=""><span>Lead Mellda</span></a></li>
+              <li><a href="characters/index.html"><span>All personnel files →</span></a></li>
+            </ul>
+          </div>
+          <div class="dir-box dir-lore">
+            <h3><img src="assets/icons/icon_hub_lore.svg" alt=""> Lore</h3>
+            <ul>
+              <li><a href="lore/the-alpha-tree.html"><img src="assets/layout/city/icons/icon_alpha_tree.svg" alt=""><span>The Alpha Tree</span></a></li>
+              <li><a href="lore/the-three-sorrows.html"><img src="assets/icons/icon_lore_three_sorrows.svg" alt=""><span>The Three Sorrows</span></a></li>
+              <li><a href="lore/the-cycle-and-absolvohan.html"><img src="assets/icons/icon_lore_absolvohan.svg" alt=""><span>Absolvohan / 1,778 Cycles</span></a></li>
+              <li><a href="lore/the-seven-absolute-taboos.html"><img src="assets/icons/icon_lore_taboo_resonance.svg" alt=""><span>Seven Absolute Taboos</span></a></li>
+              <li><a href="lore/index.html"><span>All lore chronicles →</span></a></li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Right Rail: Master Facility Console with Mini-Banners, Avatars & Diagnostics -->
+    <aside aria-label="Hand of Change Department Console" class="floor-rail">
+      <h2>FACILITY 01</h2>
+      <a class="floor-button" href="departments/floor-1-neutral-command.html" style="--floor:#f1df76">
+        <span>NEUTRAL COMMAND<small>FLOOR 1 · MAJIN</small></span>
+        <img src="assets/avatars/avatar_core_majin.svg" alt="Majin">
+      </a>
+      <a class="floor-button" href="departments/floor-2-maws-keep.html" style="--floor:#38bdf8">
+        <span>MAW'S KEEP<small>FLOOR 2 · DEKAN</small></span>
+        <img src="assets/avatars/avatar_core_dekan.svg" alt="Dekan">
+      </a>
+      <a class="floor-button" href="departments/floor-3-extraction-hall.html" style="--floor:#fb923c">
+        <span>EXTRACTION HALL<small>FLOOR 3 · ZYRAK</small></span>
+        <img src="assets/avatars/avatar_core_zyrak.svg" alt="Zyrak">
+      </a>
+      <a class="floor-button" href="departments/floor-4-insight-forge.html" style="--floor:#71efaf">
+        <span>INSIGHT FORGE<small>FLOOR 4 · AYSHUK</small></span>
+        <img src="assets/avatars/avatar_core_ayshuk.svg" alt="Ayshuk">
+      </a>
+      <a class="floor-button" href="departments/floor-5-border-watch.html" style="--floor:#e2e8f0">
+        <span>BORDER WATCH<small>FLOOR 5 · MELLDA</small></span>
+        <img src="assets/avatars/avatar_core_mellda.svg" alt="Mellda">
+      </a>
+      <a class="floor-button" href="departments/floor-6-deep-vault.html" style="--floor:#ef5b55">
+        <span>DEEP VAULT<small>FLOOR 6 · MARJUK</small></span>
+        <img src="assets/avatars/avatar_core_marjuk.svg" alt="Marjuk">
+      </a>
+      <a class="floor-button" href="departments/floor-7-shadow-corps.html" style="--floor:#c084fc">
+        <span>SHADOW CORPS<small>FLOOR 7 · ISHALL</small></span>
+        <img src="assets/avatars/avatar_core_ishall.svg" alt="Ishall">
+      </a>
+      <a class="floor-button" href="departments/floor-8-gate-watch.html" style="--floor:#f59e0b">
+        <span>GATE WATCH<small>FLOOR 8 · XYAN</small></span>
+        <img src="assets/avatars/avatar_core_xyan.svg" alt="Xyan">
+      </a>
+      <a class="rail-action" href="atlas/hand-of-change-map.html">FACILITY 01 MAP</a>
+      <a class="rail-action" href="atlas/somnarak-city-map.html">CITY ATLAS</a>
+    </aside>
+  </div>
+
+  <!-- Master Footer -->
+
+
+  <script src="assets/js/wiki.js?v=20260831g"></script>
+<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  <div class="footer-signal" aria-hidden="true">
+    <span>RD://PUBLIC-NET</span><i></i>
+    <span>SECC LINK STABLE</span><i></i>
+    <span>FACILITY 01 // GATE WATCH</span><i></i>
+    <span>PUBLICATION GATES PASSING</span>
+  </div>
+
+  <div class="footer-hero">
+    <section class="footer-identity" aria-label="Somnarak Wiki">
+      <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
+      <a class="footer-brand" href="index.html">
+        <span class="footer-emblem"><img src="assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
+      </a>
+      <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
+      <p>The public record follows Somnarak from the Alpha Tree and five city zones into Facility 01, where witnessed canon is curated without replacing absence with invention.</p>
+      <div class="footer-badges" aria-label="Archive classification">
+        <span>FACILITY 01</span><span>DIRECTORATE</span><span>PUBLIC CODEX</span>
+      </div>
+    </section>
+
+    <figure class="footer-network">
+      <div class="footer-network-frame">
+        <img src="assets/layout/footer-directorate-network.svg" alt="Directorate archive topology linking the Alpha Tree, five city zones, Facility 01, Gate Watch, and eight public archive gateways"/>
+        <span class="footer-network-scan" aria-hidden="true"></span>
+      </div>
+      <figcaption><span>Live archive topology</span><b>ALPHA TREE → FACILITY 01 → PUBLIC CODEX</b></figcaption>
+    </figure>
+
+    <section class="footer-status" aria-label="Current archive status">
+      <span>Verified repository snapshot</span>
+      <strong>1.8.31</strong>
+      <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
+      <dl>
+        <div><dt>Public records</dt><dd>197 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
+        <div><dt>Cycle state</dt><dd>ENDED</dd></div>
+        <div><dt>Gate command</dt><dd>XYAN</dd></div>
+      </dl>
+    </section>
+  </div>
+
+  <div class="footer-directory">
+    <section class="footer-archives" aria-labelledby="footer-archives-title">
+      <header><span>Primary collections</span><h2 id="footer-archives-title">Eight Archive Gateways</h2><p>Continue through the complete public taxonomy.</p></header>
+      <div>
+        <a href="characters/index.html" data-footer-archive="01" style="--gateway:#ef5b55"><span>01</span><b>Echo-Cores</b><small>Characters</small></a>
+        <a href="lore/index.html" data-footer-archive="02" style="--gateway:#a78bfa"><span>02</span><b>Cycle Archive</b><small>Lore</small></a>
+        <a href="locations/index.html" data-footer-archive="03" style="--gateway:#38bdf8"><span>03</span><b>City Atlas</b><small>Locations</small></a>
+        <a href="factions/index.html" data-footer-archive="04" style="--gateway:#f59e0b"><span>04</span><b>Orders</b><small>Factions</small></a>
+        <a href="departments/index.html" data-footer-archive="05" style="--gateway:#71efaf"><span>05</span><b>Hand of Change</b><small>Facility</small></a>
+        <a href="entities/index.html" data-footer-archive="06" style="--gateway:#fb7185"><span>06</span><b>SECC Registry</b><small>Entities</small></a>
+        <a href="maw/index.html" data-footer-archive="07" style="--gateway:#f1df76"><span>07</span><b>M.A.W. Arsenal</b><small>Equipment</small></a>
+        <a href="mechanics/index.html" data-footer-archive="08" style="--gateway:#60a5fa"><span>08</span><b>Systems Codex</b><small>Mechanics</small></a>
+      </div>
+    </section>
+
+    <nav class="footer-links" aria-label="Archive resources">
+      <header><span>Project access</span><h2>Archive Resources</h2><p>Inspect provenance, files, and visual infrastructure.</p></header>
+      <div>
+        <a href="project/source-map.html" data-footer-link="R-01"><b>Source Map</b><small>Canon provenance</small></a>
+        <a href="downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
+        <a href="assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
+        <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+      </div>
+    </nav>
+  </div>
+
+  <section class="footer-register" aria-label="Publication register">
+    <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
+    <dl>
+      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+    </dl>
+    <div class="footer-protocols">
+      <span><b>01</b> SOURCE-LED CONTENT</span>
+      <span><b>02</b> DISTINCT VISUAL FORM</span>
+      <span><b>03</b> NO RECOLOR-ONLY ART</span>
+      <span><b>04</b> VERIFIED LOCAL ROUTES</span>
+    </div>
+  </section>
+
+  <div class="footer-base">
+    <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
+    <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+  </div>
+</footer>
+</body>
+</html>

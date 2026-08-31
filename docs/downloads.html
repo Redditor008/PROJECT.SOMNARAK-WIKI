@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Archive Download Center — Somnarak Wiki</title>
+  <meta name="description" content="Download the current Somnarak Wiki repository snapshot, browse its preserved canon workspace, and follow verified offline-reading instructions.">
+  <link rel="stylesheet" href="assets/css/wiki.css?v=20260831g">
+  <link rel="icon" type="image/svg+xml" href="assets/icons/somnarak_icon.svg">
+  <script defer src="assets/js/wiki.js?v=20260831g"></script>
+</head>
+<body class="wiki-body">
+  <!-- Top Utility Navigation Bar -->
+  <header class="utility" data-component="global-top-bar">
+  <div class="utility-left">
+    <button class="nav-open" type="button" aria-controls="primary-archive-navigation" aria-expanded="false" aria-label="Open primary archive navigation">
+      <span class="nav-open-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="nav-open-text">MENU</span>
+    </button>
+    <a class="utility-brand" href="index.html" aria-label="Somnarak Wiki main page">
+      <img src="assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
+    </a>
+    <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>
+  </div>
+  <nav class="utility-nav" id="primary-archive-navigation" aria-label="Primary archive">
+      <a href="index.html" data-archive="00"><span>Main</span><small>Terminal</small></a>
+      <a href="characters/index.html" data-archive="01"><span>Characters</span><small>Echo-Cores</small></a>
+      <a href="lore/index.html" data-archive="02"><span>Lore</span><small>Cycles</small></a>
+      <a href="locations/index.html" data-archive="03"><span>Atlas</span><small>City</small></a>
+      <a href="factions/index.html" data-archive="04"><span>Factions</span><small>Orders</small></a>
+      <a href="departments/index.html" data-archive="05"><span>Facility</span><small>Floors</small></a>
+      <a href="entities/index.html" data-archive="06"><span>Entities</span><small>SECC</small></a>
+      <a href="maw/index.html" data-archive="07"><span>M.A.W.</span><small>Arsenal</small></a>
+      <a href="mechanics/index.html" data-archive="08"><span>Mechanics</span><small>Systems</small></a>
+      <a href="downloads.html" data-archive="09" class="is-current" aria-current="page"><span>Downloads</span><small>Files</small></a>
+  </nav>
+  <div class="search" role="search">
+    <label for="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search Somnarak Wiki</span></label>
+    <input id="search" type="search" aria-label="Search Somnarak Wiki" aria-controls="results" aria-expanded="false" data-index="data/search.json" placeholder="Search the archive" autocomplete="off" spellcheck="false"/>
+    <kbd aria-hidden="true">/</kbd>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</header>
+
+  <!-- Main Shell Grid -->
+  <div class="wiki-shell">
+    <!-- Left Navigation Rail -->
+    <aside aria-label="Main navigation" class="left-rail">
+      <div class="branding">
+        <a class="brand-link" href="index.html">
+          <img src="assets/layout/hand/icons/icon_reverie_directorate_badge.svg" alt="Reverie Directorate Crest" class="brand-logo" width="96" height="96">
+          <span class="brand-title">SOMNARAK</span>
+          <span class="brand-subtitle">REVERIE DIRECTORATE ARCHIVE</span>
+        </a>
+      </div>
+
+      <div class="rail-group">
+        <div class="rail-header">DATABASE HUBS</div>
+        <ul class="rail-list">
+          <li><a href="index.html">Main Terminal</a></li>
+          <li><a href="characters/index.html">Characters &amp; Echo-Cores</a></li>
+          <li><a href="lore/index.html">Lore &amp; Cosmology</a></li>
+          <li><a href="locations/index.html">Atlas &amp; Locations</a></li>
+          <li><a href="factions/index.html">Factions &amp; Guilds</a></li>
+          <li><a href="departments/index.html">Facility Departments</a></li>
+          <li><a href="entities/index.html">Sorrow Entities</a></li>
+          <li><a href="maw/index.html">M.A.W. Armaments</a></li>
+          <li><a href="mechanics/index.html">Systems &amp; Mechanics</a></li>
+          <li><a href="downloads.html" style="color:#f1df76; font-weight:bold;">Download Archives</a></li>
+        </ul>
+      </div>
+
+      <div class="rail-group">
+        <div class="rail-header">SCHEMATICS &amp; MAPS</div>
+        <ul class="rail-list">
+          <li><a href="atlas/hand-of-change-map.html">Facility Cutaway Map</a></li>
+          <li><a href="atlas/somnarak-city-map.html">City Master Blueprint</a></li>
+        </ul>
+      </div>
+    </aside>
+
+    <!-- Content Area -->
+    <main id="content" class="wiki-content">
+      <!-- Tactical Top Status HUD -->
+      <div class="tactical-hud-bar">
+        <div class="hud-item"><span class="led-dot led-green"></span> PUBLIC ARCHIVE DISTRIBUTION ONLINE</div>
+        <div class="hud-item"><span class="hud-label">RELEASE:</span> 1.8.31</div>
+        <div class="hud-item"><span class="hud-label">DISTRIBUTION:</span> GITHUB SNAPSHOT</div>
+      </div>
+
+      <!-- Breadcrumbs -->
+      <nav class="breadcrumb-trail" aria-label="Breadcrumb" style="font-size:0.8rem; color:#94a3b8; margin-bottom:1rem;">
+        <a href="index.html">SOMNARAK ARCHIVE</a> &gt; <span>DOWNLOAD CENTER</span>
+      </nav>
+
+      <!-- Section Title -->
+      <div class="wiki-section" style="margin-top:0;">
+        <div class="section-banner" style="display:flex; justify-content:space-between; align-items:center; border-bottom:2px solid #f1df76; padding-bottom:8px; margin-bottom:12px;">
+          <h1 id="download-center" style="font-family:Impact, 'Arial Narrow Bold', sans-serif; font-size:2.2rem; color:#f1df76; margin:0; letter-spacing:0.06em;">
+            /// ARCHIVE DOWNLOAD CENTER
+          </h1>
+          <span class="section-tag" style="background:#0c1726; border:1px solid #38bdf8; color:#38bdf8; padding:4px 10px; font-size:0.75rem; font-weight:bold; border-radius:3px;">
+            SINGLE MAINTAINED ARCHIVE
+          </span>
+        </div>
+        <p class="section-desc" style="color:#cbd5e1; font-size:0.95rem; line-height:1.6; margin-bottom:1.5rem;">
+          Release 1.8.31 is distributed through GitHub’s current repository snapshot rather than a separately regenerated binary. This keeps the public <code>docs/</code> tree, source references, changelog, and verification material together under one traceable revision.
+        </p>
+
+        <section class="archive-export-route" aria-labelledby="export-route-title">
+          <header>
+            <span>Distribution trace // source to reader</span>
+            <h2 id="export-route-title">How the Archive Travels</h2>
+          </header>
+          <figure class="archive-export-visual"><img src="assets/art/project/archive-export-route.svg" alt="The 197-page public tree moving through a revision-built repository snapshot into an offline reader, with canon kept behind an editorial boundary"></figure>
+          <div class="archive-export-stages">
+            <article data-stage="01">
+              <b>Published surface</b>
+              <p>The live encyclopedia is the <code>docs/</code> directory: 197 tracked HTML files plus local CSS, JavaScript, maps, and subject-specific artwork. It requires no account or application build.</p>
+            </article>
+            <article data-stage="02">
+              <b>Repository snapshot</b>
+              <p>GitHub creates the downloadable ZIP from the selected branch at request time. That snapshot is preferred over an old packaged wiki because its contents can be tied directly to repository history.</p>
+            </article>
+            <article data-stage="03">
+              <b>Offline reading</b>
+              <p>After extraction, serve the <code>docs/</code> directory with a small local HTTP server. Search data and relative assets then behave as they do on the public site without contacting an external runtime.</p>
+            </article>
+          </div>
+          <p class="archive-export-note"><strong>Canon boundary:</strong> material under <code>REFERENCE_SOMNARAK_WIKI/</code> is the preserved editorial source, not browser runtime data. Read it when verifying canon, but do not mistake every raw source record for a finished public article.</p>
+        </section>
+
+        <!-- Download Cards Grid -->
+        <div class="hub-grid-3" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(320px, 1fr)); gap:18px; margin-top:1.5rem;">
+
+          <!-- Card 1: GitHub-generated repository snapshot -->
+          <div class="pm-entity-card" style="border:2px solid #f1df76; background:linear-gradient(180deg, #121927 0%, #060910 100%); padding:20px; border-radius:6px; display:flex; flex-direction:column; justify-content:space-between;">
+            <div>
+              <div class="entity-card-top" style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+                <img src="assets/icons/somnarak_icon.svg" alt="Master Wiki" style="width:64px; height:64px; object-fit:contain; filter:drop-shadow(0 0 10px rgba(241,223,118,0.4));">
+                <div style="text-align:right;">
+                  <span style="display:inline-block; background:#78350f; border:1px solid #f1df76; color:#fff; font-size:0.7rem; font-weight:bold; padding:2px 8px; border-radius:3px;">CURRENT SNAPSHOT</span>
+                  <div id="repository-snapshot-label" style="font-size:0.75rem; color:#f1df76; font-family:'Courier New', monospace; margin-top:4px;">MAIN BRANCH (.ZIP)</div>
+                </div>
+              </div>
+              <h2 style="font-family:Impact, 'Arial Narrow Bold', sans-serif; font-size:1.4rem; color:#f1df76; margin:6px 0; letter-spacing:0.04em;">
+                PROJECT.SOMNARAK-WIKI
+              </h2>
+              <p style="color:#cbd5e1; font-size:0.88rem; line-height:1.5; margin:8px 0 16px;">
+                Download the current repository revision containing the complete static encyclopedia, its local search and artwork, the verified changelog, and the preserved reference workspace. Extract it, enter the project folder, and serve <code>docs/</code> for offline reading.
+              </p>
+            </div>
+            <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/archive/refs/heads/main.zip" class="action-btn" style="display:block; text-align:center; background:linear-gradient(90deg, #78350f 0%, #f1df76 100%); color:#000; font-family:Impact, sans-serif; font-size:1rem; letter-spacing:0.08em; padding:12px; border-radius:4px; text-decoration:none; font-weight:bold; box-shadow:0 0 14px rgba(241,223,118,0.4);">
+              ⬇ DOWNLOAD CURRENT REPOSITORY
+            </a>
+          </div>
+
+          <!-- Card 2: canonical reference workspace browser -->
+          <div class="pm-entity-card" style="border:2px solid #ef4444; background:linear-gradient(180deg, #280a0e 0%, #0a0305 100%); padding:20px; border-radius:6px; display:flex; flex-direction:column; justify-content:space-between;">
+            <div>
+              <div class="entity-card-top" style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+                <img src="assets/icons/man_hazard.svg" alt="Source Corpus" style="width:64px; height:64px; object-fit:contain; filter:drop-shadow(0 0 10px rgba(239,68,68,0.4));">
+                <div style="text-align:right;">
+                  <span style="display:inline-block; background:#7f1d1d; border:1px solid #ef4444; color:#fff; font-size:0.7rem; font-weight:bold; padding:2px 8px; border-radius:3px;">CANON WORKSPACE</span>
+                  <div style="font-size:0.75rem; color:#ef4444; font-family:'Courier New', monospace; margin-top:4px;">BROWSE ON GITHUB</div>
+                </div>
+              </div>
+              <h2 style="font-family:Impact, 'Arial Narrow Bold', sans-serif; font-size:1.4rem; color:#ef4444; margin:6px 0; letter-spacing:0.04em;">
+                REFERENCE_SOMNARAK_WIKI
+              </h2>
+              <p style="color:#cbd5e1; font-size:0.88rem; line-height:1.5; margin:8px 0 16px;">
+                Browse the canonical source workspace separately from the reader-facing encyclopedia. It contains Entity and M.A.W. records, character material, Ordeals, world references, placement research, and the binding editorial and visual standards.
+              </p>
+            </div>
+            <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/main/REFERENCE_SOMNARAK_WIKI" class="action-btn" style="display:block; text-align:center; background:linear-gradient(90deg, #7f1d1d 0%, #ef4444 100%); color:#fff; font-family:Impact, sans-serif; font-size:1rem; letter-spacing:0.08em; padding:12px; border-radius:4px; text-decoration:none; font-weight:bold; box-shadow:0 0 14px rgba(239,68,68,0.4);">
+              ↗ BROWSE CANON WORKSPACE
+            </a>
+          </div>
+
+        </div>
+      </div>
+    </main>
+</div>
+<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  <div class="footer-signal" aria-hidden="true">
+    <span>RD://PUBLIC-NET</span><i></i>
+    <span>SECC LINK STABLE</span><i></i>
+    <span>FACILITY 01 // GATE WATCH</span><i></i>
+    <span>PUBLICATION GATES PASSING</span>
+  </div>
+
+  <div class="footer-hero">
+    <section class="footer-identity" aria-label="Somnarak Wiki">
+      <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
+      <a class="footer-brand" href="index.html">
+        <span class="footer-emblem"><img src="assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
+      </a>
+      <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
+      <p>The public record follows Somnarak from the Alpha Tree and five city zones into Facility 01, where witnessed canon is curated without replacing absence with invention.</p>
+      <div class="footer-badges" aria-label="Archive classification">
+        <span>FACILITY 01</span><span>DIRECTORATE</span><span>PUBLIC CODEX</span>
+      </div>
+    </section>
+
+    <figure class="footer-network">
+      <div class="footer-network-frame">
+        <img src="assets/layout/footer-directorate-network.svg" alt="Directorate archive topology linking the Alpha Tree, five city zones, Facility 01, Gate Watch, and eight public archive gateways"/>
+        <span class="footer-network-scan" aria-hidden="true"></span>
+      </div>
+      <figcaption><span>Live archive topology</span><b>ALPHA TREE → FACILITY 01 → PUBLIC CODEX</b></figcaption>
+    </figure>
+
+    <section class="footer-status" aria-label="Current archive status">
+      <span>Verified repository snapshot</span>
+      <strong>1.8.31</strong>
+      <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
+      <dl>
+        <div><dt>Public records</dt><dd>197 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
+        <div><dt>Cycle state</dt><dd>ENDED</dd></div>
+        <div><dt>Gate command</dt><dd>XYAN</dd></div>
+      </dl>
+    </section>
+  </div>
+
+  <div class="footer-directory">
+    <section class="footer-archives" aria-labelledby="footer-archives-title">
+      <header><span>Primary collections</span><h2 id="footer-archives-title">Eight Archive Gateways</h2><p>Continue through the complete public taxonomy.</p></header>
+      <div>
+        <a href="characters/index.html" data-footer-archive="01" style="--gateway:#ef5b55"><span>01</span><b>Echo-Cores</b><small>Characters</small></a>
+        <a href="lore/index.html" data-footer-archive="02" style="--gateway:#a78bfa"><span>02</span><b>Cycle Archive</b><small>Lore</small></a>
+        <a href="locations/index.html" data-footer-archive="03" style="--gateway:#38bdf8"><span>03</span><b>City Atlas</b><small>Locations</small></a>
+        <a href="factions/index.html" data-footer-archive="04" style="--gateway:#f59e0b"><span>04</span><b>Orders</b><small>Factions</small></a>
+        <a href="departments/index.html" data-footer-archive="05" style="--gateway:#71efaf"><span>05</span><b>Hand of Change</b><small>Facility</small></a>
+        <a href="entities/index.html" data-footer-archive="06" style="--gateway:#fb7185"><span>06</span><b>SECC Registry</b><small>Entities</small></a>
+        <a href="maw/index.html" data-footer-archive="07" style="--gateway:#f1df76"><span>07</span><b>M.A.W. Arsenal</b><small>Equipment</small></a>
+        <a href="mechanics/index.html" data-footer-archive="08" style="--gateway:#60a5fa"><span>08</span><b>Systems Codex</b><small>Mechanics</small></a>
+      </div>
+    </section>
+
+    <nav class="footer-links" aria-label="Archive resources">
+      <header><span>Project access</span><h2>Archive Resources</h2><p>Inspect provenance, files, and visual infrastructure.</p></header>
+      <div>
+        <a href="project/source-map.html" data-footer-link="R-01"><b>Source Map</b><small>Canon provenance</small></a>
+        <a href="downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
+        <a href="assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
+        <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+      </div>
+    </nav>
+  </div>
+
+  <section class="footer-register" aria-label="Publication register">
+    <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
+    <dl>
+      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+    </dl>
+    <div class="footer-protocols">
+      <span><b>01</b> SOURCE-LED CONTENT</span>
+      <span><b>02</b> DISTINCT VISUAL FORM</span>
+      <span><b>03</b> NO RECOLOR-ONLY ART</span>
+      <span><b>04</b> VERIFIED LOCAL ROUTES</span>
+    </div>
+  </section>
+
+  <div class="footer-base">
+    <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
+    <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Missions — Somnarak Official Wiki</title>
+<link href="../assets/css/wiki.css?v=20260831g" rel="stylesheet"/>
+<link href="../assets/icons/somnarak_icon.svg" rel="icon" type="image/svg+xml"/>
+<script defer="" src="../assets/js/wiki.js?v=20260831g"></script>
+</head>
+<body>
+<header class="utility" data-component="global-top-bar">
+  <div class="utility-left">
+    <button class="nav-open" type="button" aria-controls="primary-archive-navigation" aria-expanded="false" aria-label="Open primary archive navigation">
+      <span class="nav-open-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="nav-open-text">MENU</span>
+    </button>
+    <a class="utility-brand" href="../index.html" aria-label="Somnarak Wiki main page">
+      <img src="../assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
+    </a>
+    <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>
+  </div>
+  <nav class="utility-nav" id="primary-archive-navigation" aria-label="Primary archive">
+      <a href="../index.html" data-archive="00"><span>Main</span><small>Terminal</small></a>
+      <a href="../characters/index.html" data-archive="01"><span>Characters</span><small>Echo-Cores</small></a>
+      <a href="../lore/index.html" data-archive="02"><span>Lore</span><small>Cycles</small></a>
+      <a href="../locations/index.html" data-archive="03"><span>Atlas</span><small>City</small></a>
+      <a href="../factions/index.html" data-archive="04"><span>Factions</span><small>Orders</small></a>
+      <a href="../departments/index.html" data-archive="05" class="is-current" aria-current="page"><span>Facility</span><small>Floors</small></a>
+      <a href="../entities/index.html" data-archive="06"><span>Entities</span><small>SECC</small></a>
+      <a href="../maw/index.html" data-archive="07"><span>M.A.W.</span><small>Arsenal</small></a>
+      <a href="../mechanics/index.html" data-archive="08"><span>Mechanics</span><small>Systems</small></a>
+      <a href="../downloads.html" data-archive="09"><span>Downloads</span><small>Files</small></a>
+  </nav>
+  <div class="search" role="search">
+    <label for="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search Somnarak Wiki</span></label>
+    <input id="search" type="search" aria-label="Search Somnarak Wiki" aria-controls="results" aria-expanded="false" data-index="../data/search.json" placeholder="Search the archive" autocomplete="off" spellcheck="false"/>
+    <kbd aria-hidden="true">/</kbd>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</header>
+<div class="wiki-shell">
+<aside class="left-rail">
+  <div class="site-mark">
+    <a href="../index.html">
+      <img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+      <b>SOMNARAK</b>
+      <span>OFFICIAL WIKI ARCHIVE</span>
+    </a>
+  </div>
+  <nav aria-label="Wiki navigation" class="left-links">
+    <section>
+      <h2>DATABASE HUBS</h2>
+      <a href="../index.html">Main Overview</a>
+      <a href="../characters/index.html">Characters Hub</a>
+      <a href="../lore/index.html">Lore &amp; Cosmology</a>
+      <a href="../locations/index.html">Locations &amp; Atlas</a>
+      <a href="../factions/index.html">Factions &amp; Guilds</a>
+      <a href="../departments/index.html">Facility Floors</a>
+      <a href="../entities/index.html">Sorrow Entities</a>
+      <a href="../maw/index.html">M.A.W. Equipment</a>
+      <a href="../mechanics/index.html">Systems &amp; Mechanics</a>
+    </section>
+    <section>
+      <h2>THE NINE ECHO-CORES</h2>
+      <a href="../characters/the-director-majin.html">1. Director Majin</a>
+      <a href="../characters/the-secretary-seiyon.html">2. Seiyon (Secretary)</a>
+      <a href="../characters/the-containment-lead-dekan.html">3. Dekan (Containment)</a>
+      <a href="../characters/the-extraction-lead-zyrak.html">4. Zyrak (Extraction)</a>
+      <a href="../characters/the-research-lead-ayshuk.html">5. Ayshuk (Research)</a>
+      <a href="../characters/the-border-lead-mellda.html">6. Mellda (Border)</a>
+      <a href="../characters/the-archive-lead-marjuk.html">7. Marjuk (Archive)</a>
+      <a href="../characters/the-outsider-ishall.html">8. Ishall (Outsider)</a>
+      <a href="../characters/the-exile-xyan.html">9. Xyan (Exile)</a>
+    </section>
+    <section>
+      <h2>HAND OF CHANGE</h2>
+      <a href="index.html">Floors Hub</a>
+      <a href="daily-cycle.html">Daily Cycle</a>
+      <a href="daily-missions.html">Missions</a>
+      <a href="research-observation.html">Research</a>
+      <a href="facility-room-types.html">Room Types</a>
+      <a href="facility-upgrades.html">Expansion</a>
+      <a href="agent-assignment.html">Deployment</a>
+    </section>
+  </nav>
+</aside>
+<main id="content">
+<div class="fast-jump-nav">
+  <span class="fast-jump-title">/// RAPID JUMP:</span>
+  <div class="fast-jump-pills">
+    <a href="floor-1-neutral-command.html" class="jump-pill">F1: Neutral</a>
+    <a href="floor-2-maws-keep.html" class="jump-pill">F2: Maw's Keep</a>
+    <a href="floor-3-extraction-hall.html" class="jump-pill">F3: Extraction</a>
+    <a href="floor-4-insight-forge.html" class="jump-pill">F4: Insight</a>
+    <a href="floor-5-border-watch.html" class="jump-pill">F5: Border</a>
+    <a href="floor-6-deep-vault.html" class="jump-pill">F6: Vault</a>
+    <a href="floor-7-shadow-corps.html" class="jump-pill">F7: Shadow</a>
+    <a href="floor-8-gate-watch.html" class="jump-pill">F8: Gate</a>
+    <a href="facility-room-types.html" class="jump-pill">Room Types</a>
+    <a href="daily-missions.html" class="jump-pill">Missions</a>
+    <a href="research-observation.html" class="jump-pill">Research</a>
+    <a href="daily-cycle.html" class="jump-pill">Daily Cycle</a>
+    <a href="index.html" class="jump-pill">✦ Dept Hub</a>
+  </div>
+</div>
+<div class="tactical-directive-box">
+  <div class="directive-text">
+    <span class="led-dot led-green"></span> <b>STATUS:</b> ARCHIVE VERIFIED &nbsp;|&nbsp;
+    <b>CLEARANCE:</b> LEVEL-4 OVERSIGHT &nbsp;|&nbsp;
+    <b>PROTOCOL:</b> REVERIE DIRECTORATE
+  </div>
+  <img src="../assets/icons/hud_resonance_wave.svg" alt="Resonance Wave" class="directive-wave">
+</div>
+<div class="page-tabs">
+<span>ARTICLE</span>
+<span>DISCUSSION</span>
+<span>SOURCE</span>
+<span>HISTORY</span>
+<b>YEAR 4,238 · DAWN OF HOPE</b>
+</div>
+<div class="breadcrumbs"><a href="../index.html">Somnarak</a> <i>/</i> <a href="index.html">Facility Floors</a> <i>/</i> <span>Missions</span></div>
+<header class="article-header">
+  <div class="article-eyebrow">HAND OF CHANGE · MISSIONS</div>
+  <h1 class="article-title">Missions</h1>
+  <p class="hub-title-kr">Echo-Core tasks · quote + goal · research unlocks</p>
+</header>
+<nav class="toc" id="toc"><div class="toc-title">CONTENTS</div><ol><li><a href="#what">What missions are</a></li><li><a href="#f2">Floor 2</a></li><li><a href="#f3">Floor 3</a></li><li><a href="#f4">Floor 4</a></li><li><a href="#f5">Floor 5</a></li><li><a href="#f6">Floor 6</a></li><li><a href="#f7">Floor 7</a></li><li><a href="#f8">Floor 8</a></li><li><a href="#chain">How they complete</a></li>
+  <li><a href="#not">Not missions</a></li></ol></nav>
+<div class="lore-article character-article wiki-article-grid">
+<div class="character-main-content lore-main">
+<blockquote class="wiki-quote"><p>“I’ll give you the keep's work.”</p><div class="quote-author">— Dekan</div></blockquote>
+<figure class="lore-banner"><img src="../assets/art/departments/missions-banner.svg?v=20260831aq" alt="Missions"></figure>
+
+<section class="wiki-section" id="what">
+<h2 class="section-title">What missions are</h2>
+<p><strong>Missions</strong> are unique tasks the Echo-Core of a floor hands the Hand during Management. Work the keep. Scan a frame. Hold the wall. They have no clock. They complete when that floor is unlocked and the goal is actually done. Completing a named mission lets you pick that floor's <a href="research-observation.html">research</a>.</p>
+<p>Floor 1 Neutral Command has <strong>no named missions and no containment quota</strong>. It assigns the people who do. Majin does not farm cells.</p>
+<p>Each floor page also keeps its roster table — who, frequency, which room. This page is the catalog of named missions: brief and goal.</p>
+
+<p>A named mission is live when that floor is working. Floor 2's first named mission is live when the keep is holding cells — not when Floor 1 farms a quota it does not have. Completing a named mission lets you pick one of that floor's three research projects, any order. Completing all four named missions does not auto-complete the roster. Clerks still watch gauges. Agents still rotate. The Core still has a floor.</p>
+<p>Named missions pause during Core Suppression of that floor. They do not auto-complete when the Core ends. They are not Ordeals, not Facility Meltdown, not Tide, not UCD, not SED. Cross-floor jobs sit on two desks: entity transfer (2+4), M.A.W. emergency (3+5), expedition (5+7), archive key (4+6). Both desks or still open.</p>
+
+</section>
+<section class="wiki-section" id="f2">
+<h2 class="section-title">Floor 2 — Maw's Keep</h2>
+<p>Lead: <a class="wiki-link" href="floor-2-maws-keep.html">Dekan</a>. Roster table stays on that floor. Named missions:</p>
+<div class="table-wrap"><table class="wiki-table"><thead><tr><th>Mission</th><th>Echo-Core brief and goal</th></tr></thead><tbody><tr><td><strong>Work the Keep</strong></td><td><em>“The keep is not a museum. Viderehan, Flerehan, Pugnahan, Ferrehan. Work them or the gauges will work you.”</em><br><strong>Goal:</strong> Complete 3 Work Types on housed Sorrow Entities.</td></tr><tr><td><strong>Gauges First</strong></td><td><em>“A rising gauge is a sentence, not a mood. Clerks call it. You answer it. If it breaches, that is already a different mission.”</em><br><strong>Goal:</strong> Clear 4 rising Sorrow Gauges before they become a breach.</td></tr><tr><td><strong>Return Them</strong></td><td><em>“Suppression is a return, not a kill order. The Holding Yard exists because overflow is a fact.”</em><br><strong>Goal:</strong> Return 1 housed breach to its cell.</td></tr><tr><td><strong>The Edge is a Window</strong></td><td><em>“You will look at the Maw. You will not file it as a cell. ω is not a specimen you scheduled.”</em><br><strong>Goal:</strong> Complete a Maw's Edge observation without treating the Maw as contained.</td></tr></tbody></table></div>
+<div class="brief-stack">
+<article class="brief-card" style="--floor:#38bdf8"><header>Work the Keep<small>NAMED 01</small></header><blockquote><p>“The keep is not a museum. Viderehan, Flerehan, Pugnahan, Ferrehan. Work them or the gauges will work you.”</p></blockquote><p class="brief-goal">Goal — Complete 3 Work Types on housed Sorrow Entities.</p></article>
+<article class="brief-card" style="--floor:#38bdf8"><header>Gauges First<small>NAMED 02</small></header><blockquote><p>“A rising gauge is a sentence, not a mood. Clerks call it. You answer it. If it breaches, that is already a different mission.”</p></blockquote><p class="brief-goal">Goal — Clear 4 rising Sorrow Gauges before they become a breach.</p></article>
+<article class="brief-card" style="--floor:#38bdf8"><header>Return Them<small>NAMED 03</small></header><blockquote><p>“Suppression is a return, not a kill order. The Holding Yard exists because overflow is a fact.”</p></blockquote><p class="brief-goal">Goal — Return 1 housed breach to its cell.</p></article>
+<article class="brief-card" style="--floor:#38bdf8"><header>The Edge is a Window<small>NAMED 04</small></header><blockquote><p>“You will look at the Maw. You will not file it as a cell. ω is not a specimen you scheduled.”</p></blockquote><p class="brief-goal">Goal — Complete a Maw's Edge observation without treating the Maw as contained.</p></article>
+</div>
+</section>
+<section class="wiki-section" id="f3">
+<h2 class="section-title">Floor 3 — Extraction Hall</h2>
+<p>Lead: <a class="wiki-link" href="floor-3-extraction-hall.html">Zyrak</a>. Roster table stays on that floor. Named missions:</p>
+<div class="table-wrap"><table class="wiki-table"><thead><tr><th>Mission</th><th>Echo-Core brief and goal</th></tr></thead><tbody><tr><td><strong>Name the Frame</strong></td><td><em>“I harden grief Floor 2 already named. A refused petition is a quiet crucible, not a missing recipe.”</em><br><strong>Goal:</strong> Complete 1 approved extract into weapon, suit, or gift.</td></tr><tr><td><strong>Scan First</strong></td><td><em>“Resonance is not a vibe. If the scan is wrong, the bond will be a second entity wearing your agent.”</em><br><strong>Goal:</strong> Complete 5 resonance scans with a recorded match.</td></tr><tr><td><strong>SE-003 Yields Nothing</strong></td><td><em>“The Tide is not a donor. If someone brings you a petition with that number, you send them to Dekan with the refusal already written.”</em><br><strong>Goal:</strong> End the day without attempting an extract from SE-003.</td></tr><tr><td><strong>Issue What is Named</strong></td><td><em>“Distribution is a clerk's job until it isn't. Named Vigil leaves this hall with a name, not a crate number.”</em><br><strong>Goal:</strong> Issue 3 Named Vigil pieces to qualified bearers.</td></tr></tbody></table></div>
+<div class="brief-stack">
+<article class="brief-card" style="--floor:#fb923c"><header>Name the Frame<small>NAMED 01</small></header><blockquote><p>“I harden grief Floor 2 already named. A refused petition is a quiet crucible, not a missing recipe.”</p></blockquote><p class="brief-goal">Goal — Complete 1 approved extract into weapon, suit, or gift.</p></article>
+<article class="brief-card" style="--floor:#fb923c"><header>Scan First<small>NAMED 02</small></header><blockquote><p>“Resonance is not a vibe. If the scan is wrong, the bond will be a second entity wearing your agent.”</p></blockquote><p class="brief-goal">Goal — Complete 5 resonance scans with a recorded match.</p></article>
+<article class="brief-card" style="--floor:#fb923c"><header>SE-003 Yields Nothing<small>NAMED 03</small></header><blockquote><p>“The Tide is not a donor. If someone brings you a petition with that number, you send them to Dekan with the refusal already written.”</p></blockquote><p class="brief-goal">Goal — End the day without attempting an extract from SE-003.</p></article>
+<article class="brief-card" style="--floor:#fb923c"><header>Issue What is Named<small>NAMED 04</small></header><blockquote><p>“Distribution is a clerk's job until it isn't. Named Vigil leaves this hall with a name, not a crate number.”</p></blockquote><p class="brief-goal">Goal — Issue 3 Named Vigil pieces to qualified bearers.</p></article>
+</div>
+</section>
+<section class="wiki-section" id="f4">
+<h2 class="section-title">Floor 4 — Insight Forge</h2>
+<p>Lead: <a class="wiki-link" href="floor-4-insight-forge.html">Ayshuk</a>. Roster table stays on that floor. Named missions:</p>
+<div class="table-wrap"><table class="wiki-table"><thead><tr><th>Mission</th><th>Echo-Core brief and goal</th></tr></thead><tbody><tr><td><strong>Look Without an Eye</strong></td><td><em>“Viderehan is an aperture. If you call looking an eye, you are already in the wrong company.”</em><br><strong>Goal:</strong> Complete 4 Viderehan observations on housed entities.</td></tr><tr><td><strong>File Before They Guess</strong></td><td><em>“Floor 2 should not enter a cell on folklore. You file physiology and work response so the keep is not guessing.”</em><br><strong>Goal:</strong> Raise 1 entity from Observation Level 0 to 1.</td></tr><tr><td><strong>Map the Han</strong></td><td><em>“Lament, Grudge, Void, Weight — those are objects, not a copied damage wheel. Map them where they actually sit.”</em><br><strong>Goal:</strong> Complete 1 Han-flow map that Floor 5 can walk.</td></tr><tr><td><strong>Taboo Leaves</strong></td><td><em>“If a reading calcifies into Taboo-shaped law, it leaves for Floor 8. You do not keep it as a clever note.”</em><br><strong>Goal:</strong> Refer 1 Taboo-shaped finding to Gate Watch.</td></tr></tbody></table></div>
+<div class="brief-stack">
+<article class="brief-card" style="--floor:#71efaf"><header>Look Without an Eye<small>NAMED 01</small></header><blockquote><p>“Viderehan is an aperture. If you call looking an eye, you are already in the wrong company.”</p></blockquote><p class="brief-goal">Goal — Complete 4 Viderehan observations on housed entities.</p></article>
+<article class="brief-card" style="--floor:#71efaf"><header>File Before They Guess<small>NAMED 02</small></header><blockquote><p>“Floor 2 should not enter a cell on folklore. You file physiology and work response so the keep is not guessing.”</p></blockquote><p class="brief-goal">Goal — Raise 1 entity from Observation Level 0 to 1.</p></article>
+<article class="brief-card" style="--floor:#71efaf"><header>Map the Han<small>NAMED 03</small></header><blockquote><p>“Lament, Grudge, Void, Weight — those are objects, not a copied damage wheel. Map them where they actually sit.”</p></blockquote><p class="brief-goal">Goal — Complete 1 Han-flow map that Floor 5 can walk.</p></article>
+<article class="brief-card" style="--floor:#71efaf"><header>Taboo Leaves<small>NAMED 04</small></header><blockquote><p>“If a reading calcifies into Taboo-shaped law, it leaves for Floor 8. You do not keep it as a clever note.”</p></blockquote><p class="brief-goal">Goal — Refer 1 Taboo-shaped finding to Gate Watch.</p></article>
+</div>
+</section>
+<section class="wiki-section" id="f5">
+<h2 class="section-title">Floor 5 — Border Watch</h2>
+<p>Lead: <a class="wiki-link" href="floor-5-border-watch.html">Mellda</a>. Roster table stays on that floor. Named missions:</p>
+<div class="table-wrap"><table class="wiki-table"><thead><tr><th>Mission</th><th>Echo-Core brief and goal</th></tr></thead><tbody><tr><td><strong>Hold the Wall</strong></td><td><em>“The wall is not a metaphor. Slits, pylons, Zone E's civic face. Log what touched the Hand.”</em><br><strong>Goal:</strong> Complete a full perimeter circuit with all watchtowers staffed.</td></tr><tr><td><strong>Tide is not a Dive</strong></td><td><em>“If the mission says dive, it is on the wrong floor. SED dives; this floor logs the street.”</em><br><strong>Goal:</strong> End the day with Tide telemetry filed and no unauthorized SED launch.</td></tr><tr><td><strong>Thin Yield</strong></td><td><em>“Fifty Han is the border's number because the wall does not farm cells. Do not pad it with Floor 2's five hundred.”</em><br><strong>Goal:</strong> Meet the 50 Han border yield without borrowing keep-work.</td></tr><tr><td><strong>What Touched Us</strong></td><td><em>“UCD takes the street. You write what came through E. If you did not write it, Floor 7 will treat it as a route.”</em><br><strong>Goal:</strong> File 1 incursion log before Shadow Corps claims the path.</td></tr></tbody></table></div>
+<div class="brief-stack">
+<article class="brief-card" style="--floor:#e2e8f0"><header>Hold the Wall<small>NAMED 01</small></header><blockquote><p>“The wall is not a metaphor. Slits, pylons, Zone E's civic face. Log what touched the Hand.”</p></blockquote><p class="brief-goal">Goal — Complete a full perimeter circuit with all watchtowers staffed.</p></article>
+<article class="brief-card" style="--floor:#e2e8f0"><header>Tide is not a Dive<small>NAMED 02</small></header><blockquote><p>“If the mission says dive, it is on the wrong floor. SED dives; this floor logs the street.”</p></blockquote><p class="brief-goal">Goal — End the day with Tide telemetry filed and no unauthorized SED launch.</p></article>
+<article class="brief-card" style="--floor:#e2e8f0"><header>Thin Yield<small>NAMED 03</small></header><blockquote><p>“Fifty Han is the border's number because the wall does not farm cells. Do not pad it with Floor 2's five hundred.”</p></blockquote><p class="brief-goal">Goal — Meet the 50 Han border yield without borrowing keep-work.</p></article>
+<article class="brief-card" style="--floor:#e2e8f0"><header>What Touched Us<small>NAMED 04</small></header><blockquote><p>“UCD takes the street. You write what came through E. If you did not write it, Floor 7 will treat it as a route.”</p></blockquote><p class="brief-goal">Goal — File 1 incursion log before Shadow Corps claims the path.</p></article>
+</div>
+</section>
+<section class="wiki-section" id="f6">
+<h2 class="section-title">Floor 6 — Deep Vault</h2>
+<p>Lead: <a class="wiki-link" href="floor-6-deep-vault.html">Marjuk</a>. Roster table stays on that floor. Named missions:</p>
+<div class="table-wrap"><table class="wiki-table"><thead><tr><th>Mission</th><th>Echo-Core brief and goal</th></tr></thead><tbody><tr><td><strong>Names are not Loot</strong></td><td><em>“What must be buried and what must be guarded are not the same list. Curiosity is not clearance.”</em><br><strong>Goal:</strong> File 3 identity or relic ledgers without an unauthorized read.</td></tr><tr><td><strong>Second Log</strong></td><td><em>“A Lament edge that reveals a name is written here, not left on Floor 2's clipboard.”</em><br><strong>Goal:</strong> Take 1 Debt/Balance or Lament-revealed name into the vault.</td></tr><tr><td><strong>Cheongula Stays Buried</strong></td><td><em>“The deepest truths are not a tour. Senior specialists only. If you came to browse, you came to Fracture.”</em><br><strong>Goal:</strong> Complete the day with Cheongula access unopened except on Marjuk's seal.</td></tr><tr><td><strong>Echoes that Still Speak</strong></td><td><em>“Stabilize what must remain a voice. Do not confuse this with the Library of Stolen Pasts.”</em><br><strong>Goal:</strong> Stabilize 2 Echoes without erasing their remaining names.</td></tr></tbody></table></div>
+<div class="brief-stack">
+<article class="brief-card" style="--floor:#ef5b55"><header>Names are not Loot<small>NAMED 01</small></header><blockquote><p>“What must be buried and what must be guarded are not the same list. Curiosity is not clearance.”</p></blockquote><p class="brief-goal">Goal — File 3 identity or relic ledgers without an unauthorized read.</p></article>
+<article class="brief-card" style="--floor:#ef5b55"><header>Second Log<small>NAMED 02</small></header><blockquote><p>“A Lament edge that reveals a name is written here, not left on Floor 2's clipboard.”</p></blockquote><p class="brief-goal">Goal — Take 1 Debt/Balance or Lament-revealed name into the vault.</p></article>
+<article class="brief-card" style="--floor:#ef5b55"><header>Cheongula Stays Buried<small>NAMED 03</small></header><blockquote><p>“The deepest truths are not a tour. Senior specialists only. If you came to browse, you came to Fracture.”</p></blockquote><p class="brief-goal">Goal — Complete the day with Cheongula access unopened except on Marjuk's seal.</p></article>
+<article class="brief-card" style="--floor:#ef5b55"><header>Echoes that Still Speak<small>NAMED 04</small></header><blockquote><p>“Stabilize what must remain a voice. Do not confuse this with the Library of Stolen Pasts.”</p></blockquote><p class="brief-goal">Goal — Stabilize 2 Echoes without erasing their remaining names.</p></article>
+</div>
+</section>
+<section class="wiki-section" id="f7">
+<h2 class="section-title">Floor 7 — Shadow Corps</h2>
+<p>Lead: <a class="wiki-link" href="floor-7-shadow-corps.html">Ishall</a>. Roster table stays on that floor. Named missions:</p>
+<div class="table-wrap"><table class="wiki-table"><thead><tr><th>Mission</th><th>Echo-Core brief and goal</th></tr></thead><tbody><tr><td><strong>Leave the Wall</strong></td><td><em>“Floor 5 holds the wall. You leave it. Unlisted is not unofficial.”</em><br><strong>Goal:</strong> Complete 1 route beyond Zone E with a return plan Floor 8 can count.</td></tr><tr><td><strong>Fold the Map</strong></td><td><em>“A map that cannot fold is a leak. Blackout corridors exist so the city does not get a second copy.”</em><br><strong>Goal:</strong> Deliver 1 folded route that does not exist on Floor 5's board.</td></tr><tr><td><strong>The Network is People</strong></td><td><em>“Informants are not a UI. If you burn one, you do not get a replacement from a menu.”</em><br><strong>Goal:</strong> Maintain the Shadow Network without burning an informant.</td></tr><tr><td><strong>Counter, Don't Collect</strong></td><td><em>“You neutralize threats to the R.D. You do not open a Collector's ledger in C and call it intel.”</em><br><strong>Goal:</strong> Complete 1 counter-intel action that is not a debt collection.</td></tr></tbody></table></div>
+<div class="brief-stack">
+<article class="brief-card" style="--floor:#c084fc"><header>Leave the Wall<small>NAMED 01</small></header><blockquote><p>“Floor 5 holds the wall. You leave it. Unlisted is not unofficial.”</p></blockquote><p class="brief-goal">Goal — Complete 1 route beyond Zone E with a return plan Floor 8 can count.</p></article>
+<article class="brief-card" style="--floor:#c084fc"><header>Fold the Map<small>NAMED 02</small></header><blockquote><p>“A map that cannot fold is a leak. Blackout corridors exist so the city does not get a second copy.”</p></blockquote><p class="brief-goal">Goal — Deliver 1 folded route that does not exist on Floor 5's board.</p></article>
+<article class="brief-card" style="--floor:#c084fc"><header>The Network is People<small>NAMED 03</small></header><blockquote><p>“Informants are not a UI. If you burn one, you do not get a replacement from a menu.”</p></blockquote><p class="brief-goal">Goal — Maintain the Shadow Network without burning an informant.</p></article>
+<article class="brief-card" style="--floor:#c084fc"><header>Counter, Don't Collect<small>NAMED 04</small></header><blockquote><p>“You neutralize threats to the R.D. You do not open a Collector's ledger in C and call it intel.”</p></blockquote><p class="brief-goal">Goal — Complete 1 counter-intel action that is not a debt collection.</p></article>
+</div>
+</section>
+<section class="wiki-section" id="f8">
+<h2 class="section-title">Floor 8 — Gate Watch</h2>
+<p>Lead: <a class="wiki-link" href="floor-8-gate-watch.html">Xyan</a>. Roster table stays on that floor. Named missions:</p>
+<div class="table-wrap"><table class="wiki-table"><thead><tr><th>Mission</th><th>Echo-Core brief and goal</th></tr></thead><tbody><tr><td><strong>Seven Tablets, Not Ten</strong></td><td><em>“Watch, answer, keep the route back. Judexhan judges; this floor keeps the gate.”</em><br><strong>Goal:</strong> Complete a full Gate observation with all seven tablets accounted for.</td></tr><tr><td><strong>Warnings Still Arrive</strong></td><td><em>“Before Day 355 the body is outside and warnings still arrive. You record them. You do not pretend they are orders.”</em><br><strong>Goal:</strong> Log 1 compressed warning from outside without treating it as a command.</td></tr><tr><td><strong>Count the Return</strong></td><td><em>“Every external mission includes supply, fallback, and return responsibility. If it does not, it does not leave.”</em><br><strong>Goal:</strong> Verify return plans on all deployed field teams before close of day.</td></tr><tr><td><strong>Not an Execution Chamber</strong></td><td><em>“Exile is a gate, not a sentence you carry out as disposal.”</em><br><strong>Goal:</strong> End the day without converting the Gate into a disposal protocol.</td></tr></tbody></table></div>
+<div class="brief-stack">
+<article class="brief-card" style="--floor:#f59e0b"><header>Seven Tablets, Not Ten<small>NAMED 01</small></header><blockquote><p>“Watch, answer, keep the route back. Judexhan judges; this floor keeps the gate.”</p></blockquote><p class="brief-goal">Goal — Complete a full Gate observation with all seven tablets accounted for.</p></article>
+<article class="brief-card" style="--floor:#f59e0b"><header>Warnings Still Arrive<small>NAMED 02</small></header><blockquote><p>“Before Day 355 the body is outside and warnings still arrive. You record them. You do not pretend they are orders.”</p></blockquote><p class="brief-goal">Goal — Log 1 compressed warning from outside without treating it as a command.</p></article>
+<article class="brief-card" style="--floor:#f59e0b"><header>Count the Return<small>NAMED 03</small></header><blockquote><p>“Every external mission includes supply, fallback, and return responsibility. If it does not, it does not leave.”</p></blockquote><p class="brief-goal">Goal — Verify return plans on all deployed field teams before close of day.</p></article>
+<article class="brief-card" style="--floor:#f59e0b"><header>Not an Execution Chamber<small>NAMED 04</small></header><blockquote><p>“Exile is a gate, not a sentence you carry out as disposal.”</p></blockquote><p class="brief-goal">Goal — End the day without converting the Gate into a disposal protocol.</p></article>
+</div>
+</section>
+
+<section class="wiki-section" id="chain">
+<h2 class="section-title">How a mission actually completes</h2>
+<p>No clock. The floor must be working. The goal must be the goal — not a nearby roster row. Completing a named mission unlocks that floor's research pick. Completing all four does not auto-complete the roster; clerks still watch gauges. Failure is floor-specific: a keep that treated the Maw as a cell, a hall that ran SE-003, a vault that opened Cheongula for curiosity, a gate that used a tablet as a weapon. Cross-floor jobs (entity transfer 2+4, M.A.W. emergency 3+5, expedition 5+7, archive key 4+6) complete on both desks or they are still open.</p>
+<p>Who takes them: agents posted that day, with Floor 1's assignment and the floor Core's veto. You cannot complete Dekan's “Return Them” from Floor 5. You cannot complete Xyan's “Count the Return” by folding a map on Floor 7 and going home.</p>
+
+<p>Who may take a named mission is assignment. Floor 1 signs the body. The floor Core still vetoes the room. You cannot complete Dekan's Return Them from a slit on Floor 5. You cannot complete Xyan's Count the Return by folding a map on Floor 7 and going home. Consecutive posting matters: a keep agent who knows these cells is not a tourist from the wall. Moving them for a day resets familiarity. Dekan's veto does not reset. Marjuk's seal does not reset. Floor 8's return plan does not reset.</p>
+<p>Failure is floor-specific. A keep that treated the Maw as a cell has failed The Edge is a Window even if 500 Han landed. A Hall that ran SE-003 has failed SE-003 Yields Nothing even if a frame sang. A vault that opened Cheongula for curiosity has Fractured a specialist, not completed a mission. A gate that used a tablet as a weapon has converted exile into disposal. Those are not nearby roster rows. They are the goal, missed.</p>
+
+</section>
+<section class="wiki-section" id="not">
+<h2 class="section-title">Not missions</h2>
+<p>Ordeals (five colors × four watches) are not a daily mission. Core Suppression is not. Facility Meltdown is not. UCD raids and SED expeditions are city operations. Cross-floor jobs (entity transfer, M.A.W. emergency, expedition) are still missions, but they sit on two floors at once — see the roster tables.</p>
+
+<p>Sorrow Gauge over 75% suspends an assignment; it is not a named mission to watch a number. An Ordeal (color × watch) can land on any floor during management; suppressing it is not Work the Keep and not Hold the Wall. Core Suppression is trauma confrontation inside a dream-construct; missions pause. Facility Meltdown is all eight; bunkers on the palm. Tide is Floor 5's log and SED's dive. UCD takes the street. If the job is a city operation, it is not on this catalog.</p>
+
+</section>
+
+</div>
+<aside class="character-infobox" style="--entity:#f1df76">
+  <h2>MISSIONS</h2>
+  <div class="infobox-image-wrap"><img src="../assets/art/departments/missions-icon.svg?v=20260831aq" alt=""></div>
+  <h3>HAND OF CHANGE</h3>
+  <dl class="fact-grid"><dt>Floors with missions</dt><dd>2–8</dd><dt>Floor 1</dt><dd>None — no quota</dd><dt>Unlocks</dt><dd>Research</dd><dt>Clock</dt><dd>None</dd></dl>
+</aside>
+</div>
+
+</main>
+</div>
+<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  <div class="footer-signal" aria-hidden="true">
+    <span>RD://PUBLIC-NET</span><i></i>
+    <span>SECC LINK STABLE</span><i></i>
+    <span>FACILITY 01 // GATE WATCH</span><i></i>
+    <span>PUBLICATION GATES PASSING</span>
+  </div>
+
+  <div class="footer-hero">
+    <section class="footer-identity" aria-label="Somnarak Wiki">
+      <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
+      <a class="footer-brand" href="../index.html">
+        <span class="footer-emblem"><img src="../assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
+      </a>
+      <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
+      <p>The public record follows Somnarak from the Alpha Tree and five city zones into Facility 01, where witnessed canon is curated without replacing absence with invention.</p>
+      <div class="footer-badges" aria-label="Archive classification">
+        <span>FACILITY 01</span><span>DIRECTORATE</span><span>PUBLIC CODEX</span>
+      </div>
+    </section>
+
+    <figure class="footer-network">
+      <div class="footer-network-frame">
+        <img src="../assets/layout/footer-directorate-network.svg" alt="Directorate archive topology linking the Alpha Tree, five city zones, Facility 01, Gate Watch, and eight public archive gateways"/>
+        <span class="footer-network-scan" aria-hidden="true"></span>
+      </div>
+      <figcaption><span>Live archive topology</span><b>ALPHA TREE → FACILITY 01 → PUBLIC CODEX</b></figcaption>
+    </figure>
+
+    <section class="footer-status" aria-label="Current archive status">
+      <span>Verified repository snapshot</span>
+      <strong>1.8.31</strong>
+      <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
+      <dl>
+        <div><dt>Public records</dt><dd>197 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
+        <div><dt>Cycle state</dt><dd>ENDED</dd></div>
+        <div><dt>Gate command</dt><dd>XYAN</dd></div>
+      </dl>
+    </section>
+  </div>
+
+  <div class="footer-directory">
+    <section class="footer-archives" aria-labelledby="footer-archives-title">
+      <header><span>Primary collections</span><h2 id="footer-archives-title">Eight Archive Gateways</h2><p>Continue through the complete public taxonomy.</p></header>
+      <div>
+        <a href="../characters/index.html" data-footer-archive="01" style="--gateway:#ef5b55"><span>01</span><b>Echo-Cores</b><small>Characters</small></a>
+        <a href="../lore/index.html" data-footer-archive="02" style="--gateway:#a78bfa"><span>02</span><b>Cycle Archive</b><small>Lore</small></a>
+        <a href="../locations/index.html" data-footer-archive="03" style="--gateway:#38bdf8"><span>03</span><b>City Atlas</b><small>Locations</small></a>
+        <a href="../factions/index.html" data-footer-archive="04" style="--gateway:#f59e0b"><span>04</span><b>Orders</b><small>Factions</small></a>
+        <a href="../departments/index.html" data-footer-archive="05" style="--gateway:#71efaf"><span>05</span><b>Hand of Change</b><small>Facility</small></a>
+        <a href="../entities/index.html" data-footer-archive="06" style="--gateway:#fb7185"><span>06</span><b>SECC Registry</b><small>Entities</small></a>
+        <a href="../maw/index.html" data-footer-archive="07" style="--gateway:#f1df76"><span>07</span><b>M.A.W. Arsenal</b><small>Equipment</small></a>
+        <a href="../mechanics/index.html" data-footer-archive="08" style="--gateway:#60a5fa"><span>08</span><b>Systems Codex</b><small>Mechanics</small></a>
+      </div>
+    </section>
+
+    <nav class="footer-links" aria-label="Archive resources">
+      <header><span>Project access</span><h2>Archive Resources</h2><p>Inspect provenance, files, and visual infrastructure.</p></header>
+      <div>
+        <a href="../project/source-map.html" data-footer-link="R-01"><b>Source Map</b><small>Canon provenance</small></a>
+        <a href="../downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
+        <a href="../assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
+        <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+      </div>
+    </nav>
+  </div>
+
+  <section class="footer-register" aria-label="Publication register">
+    <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
+    <dl>
+      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+    </dl>
+    <div class="footer-protocols">
+      <span><b>01</b> SOURCE-LED CONTENT</span>
+      <span><b>02</b> DISTINCT VISUAL FORM</span>
+      <span><b>03</b> NO RECOLOR-ONLY ART</span>
+      <span><b>04</b> VERIFIED LOCAL ROUTES</span>
+    </div>
+  </section>
+
+  <div class="footer-base">
+    <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
+    <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+  </div>
+</footer>
+</body>
+</html>

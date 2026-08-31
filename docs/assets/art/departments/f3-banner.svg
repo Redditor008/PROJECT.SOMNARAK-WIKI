@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Floor 3 Extraction Hall — three crystallization frames and flux pipes">
+  <defs>
+    <linearGradient id="bgf3b" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05080e"/><stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="acf3b" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fb923c"/><stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <filter id="glf3b" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bgf3b)"/>
+  <rect width="1400" height="280" fill="#fb923c" opacity=".06"/>
+  
+  <path d="M80 200 H1320" stroke="#fb923c" stroke-width="4"/>
+  <rect x="90" y="50" width="300" height="150" fill="#140a04" stroke="#fb923c" stroke-width="3"/>
+  <path d="M240 68 L255 170 L240 188 L225 170 Z" fill="#1d4e89" stroke="#7dd3fc"/>
+  <rect x="550" y="50" width="300" height="150" fill="#140a04" stroke="#f1df76" stroke-width="3"/>
+  <path d="M620 70 H780 L750 188 H650 Z" fill="#16325c" stroke="#7eb6e8"/>
+  <rect x="1010" y="50" width="300" height="150" fill="#140a04" stroke="#e2e8f0" stroke-width="3"/>
+  <circle cx="1160" cy="118" r="42" fill="none" stroke="#e2e8f0" stroke-width="6"/>
+  <path d="M240 50 V24 H1160 V50" fill="none" stroke="#fb923c" stroke-width="5"/>
+  <circle cx="240" cy="24" r="8" fill="#fb923c"/>
+  <circle cx="700" cy="24" r="8" fill="#f1df76"/>
+  <circle cx="1160" cy="24" r="8" fill="#e2e8f0"/>
+  <rect x="640" y="168" width="120" height="28" fill="#7c2d12" stroke="#fb923c"/>
+
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".72"/>
+  <text x="32" y="246" fill="#fb923c" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FLOOR 3  ·  ZYRAK  ·  EXTRACTION</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">EXTRACTION HALL  —  FROM SORROW, STRENGTH</text>
+</svg>

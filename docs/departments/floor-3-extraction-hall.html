@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Floor 3: Extraction Hall — Somnarak Official Wiki</title>
+<link href="../assets/css/wiki.css?v=20260831g" rel="stylesheet"/>
+<link href="../assets/icons/somnarak_icon.svg" rel="icon" type="image/svg+xml"/>
+<script defer="" src="../assets/js/wiki.js?v=20260831g"></script>
+</head>
+<body>
+<!-- Top Utility Bar -->
+<header class="utility" data-component="global-top-bar">
+  <div class="utility-left">
+    <button class="nav-open" type="button" aria-controls="primary-archive-navigation" aria-expanded="false" aria-label="Open primary archive navigation">
+      <span class="nav-open-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="nav-open-text">MENU</span>
+    </button>
+    <a class="utility-brand" href="../index.html" aria-label="Somnarak Wiki main page">
+      <img src="../assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
+    </a>
+    <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>
+  </div>
+  <nav class="utility-nav" id="primary-archive-navigation" aria-label="Primary archive">
+      <a href="../index.html" data-archive="00"><span>Main</span><small>Terminal</small></a>
+      <a href="../characters/index.html" data-archive="01"><span>Characters</span><small>Echo-Cores</small></a>
+      <a href="../lore/index.html" data-archive="02"><span>Lore</span><small>Cycles</small></a>
+      <a href="../locations/index.html" data-archive="03"><span>Atlas</span><small>City</small></a>
+      <a href="../factions/index.html" data-archive="04"><span>Factions</span><small>Orders</small></a>
+      <a href="../departments/index.html" data-archive="05" class="is-current" aria-current="page"><span>Facility</span><small>Floors</small></a>
+      <a href="../entities/index.html" data-archive="06"><span>Entities</span><small>SECC</small></a>
+      <a href="../maw/index.html" data-archive="07"><span>M.A.W.</span><small>Arsenal</small></a>
+      <a href="../mechanics/index.html" data-archive="08"><span>Mechanics</span><small>Systems</small></a>
+      <a href="../downloads.html" data-archive="09"><span>Downloads</span><small>Files</small></a>
+  </nav>
+  <div class="search" role="search">
+    <label for="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search Somnarak Wiki</span></label>
+    <input id="search" type="search" aria-label="Search Somnarak Wiki" aria-controls="results" aria-expanded="false" data-index="../data/search.json" placeholder="Search the archive" autocomplete="off" spellcheck="false"/>
+    <kbd aria-hidden="true">/</kbd>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</header>
+<!-- Main Grid Layout -->
+<div class="wiki-shell">
+<!-- Left Rail -->
+
+    <aside class="left-rail">
+      <div class="site-mark">
+        <a href="../index.html">
+          <img src="../assets/icons/somnarak_icon.svg" alt="Somnarak Emblem">
+          <b>SOMNARAK</b>
+          <span>OFFICIAL WIKI ARCHIVE</span>
+        </a>
+      </div>
+      <nav aria-label="Wiki navigation" class="left-links">
+        <section>
+          <h2>DATABASE HUBS</h2>
+          <a href="../index.html">Main Overview</a>
+          <a href="../characters/index.html">Characters Hub</a>
+          <a href="../lore/index.html">Lore &amp; Cosmology</a>
+          <a href="../locations/index.html">Locations &amp; Atlas</a>
+          <a href="../factions/index.html">Factions &amp; Guilds</a>
+          <a href="../departments/index.html">Facility Floors</a>
+          <a href="../entities/index.html">Sorrow Entities</a>
+          <a href="../maw/index.html">M.A.W. Equipment</a>
+          <a href="../mechanics/index.html">Systems &amp; Mechanics</a>
+        </section>
+        <section>
+          <h2>THE NINE ECHO-CORES</h2>
+          <a href="../characters/the-director-majin.html">1. Director Majin</a>
+          <a href="../characters/the-secretary-seiyon.html">2. Seiyon (Secretary)</a>
+          <a href="../characters/the-containment-lead-dekan.html">3. Dekan (Containment)</a>
+          <a href="../characters/the-extraction-lead-zyrak.html">4. Zyrak (Extraction)</a>
+          <a href="../characters/the-research-lead-ayshuk.html">5. Ayshuk (Research)</a>
+          <a href="../characters/the-border-lead-mellda.html">6. Mellda (Border)</a>
+          <a href="../characters/the-archive-lead-marjuk.html">7. Marjuk (Archive)</a>
+          <a href="../characters/the-outsider-ishall.html">8. Ishall (Outsider)</a>
+          <a href="../characters/the-exile-xyan.html">9. Xyan (Exile)</a>
+        </section>
+        <section>
+          <h2>CARTOGRAPHY &amp; SCHEMATICS</h2>
+          <a href="../atlas/hand-of-change-map.html">Hand of Change Map</a>
+          <a href="../atlas/somnarak-city-map.html">Somnarak City Blueprint</a>
+          <a href="../project/source-map.html">Master Archive Map</a>
+        </section>
+      </nav>
+    </aside>
+
+<!-- Main Content Body -->
+<main id="content">
+<!-- Tactical Fast-Jump Subpage Bar -->
+<div class="fast-jump-nav">
+  <span class="fast-jump-title">/// RAPID JUMP:</span>
+  <div class="fast-jump-pills">
+    <a href="floor-1-neutral-command.html" class="jump-pill">F1: Neutral</a>
+    <a href="floor-2-maws-keep.html" class="jump-pill">F2: Maw's Keep</a>
+    <a href="floor-3-extraction-hall.html" class="jump-pill active">F3: Extraction</a>
+    <a href="floor-4-insight-forge.html" class="jump-pill">F4: Insight</a>
+    <a href="floor-5-border-watch.html" class="jump-pill">F5: Border</a>
+    <a href="floor-6-deep-vault.html" class="jump-pill">F6: Vault</a>
+    <a href="floor-7-shadow-corps.html" class="jump-pill">F7: Shadow</a>
+    <a href="floor-8-gate-watch.html" class="jump-pill">F8: Gate</a>
+    <a href="facility-room-types.html" class="jump-pill">Room Types</a>
+    <a href="daily-missions.html" class="jump-pill">Missions</a>
+    <a href="research-observation.html" class="jump-pill">Research</a>
+    <a href="daily-cycle.html" class="jump-pill">Daily Cycle</a>
+
+    <a href="index.html" class="jump-pill">✦ Dept Hub</a>
+  </div>
+</div>
+<!-- Tactical Directive Status HUD -->
+<div class="tactical-directive-box">
+  <div class="directive-text">
+    <span class="led-dot led-green"></span> <b>STATUS:</b> ARCHIVE VERIFIED &nbsp;|&nbsp;
+    <b>CLEARANCE:</b> LEVEL-4 OVERSIGHT &nbsp;|&nbsp;
+    <b>PROTOCOL:</b> REVERIE DIRECTORATE
+  </div>
+  <img src="../assets/icons/hud_resonance_wave.svg" alt="Resonance Wave" class="directive-wave">
+</div>
+<!-- Page Tabs -->
+<div class="page-tabs">
+<span>ARTICLE</span>
+<span>DISCUSSION</span>
+<span>SOURCE</span>
+<span>HISTORY</span>
+<b>YEAR 4,238 · DAWN OF HOPE</b>
+</div>
+
+<div class="breadcrumbs"><a href="../index.html">Somnarak</a> <i>/</i> <a href="index.html">Facility Floors</a> <i>/</i> <span>Floor 3: Extraction Hall</span></div>
+<header class="article-header">
+  <div class="article-eyebrow">HAND OF CHANGE · FLOOR 3 · FRAMES</div>
+  <h1 class="article-title">Floor 3: Extraction Hall</h1>
+  <p class="hub-title-kr">추출의 전당 · Chuchul-ui Jeondang · From sorrow, strength</p>
+</header>
+<nav class="toc" id="toc"><div class="toc-title">CONTENTS</div><ol>
+  <li><a href="#hall">Extraction Hall</a></li>
+  <li><a href="#zyrak">Zyrak</a></li>
+  <li><a href="#join">Left wing, cyan join</a></li>
+  <li><a href="#rooms">Frames, bench, refinery</a></li>
+  <li><a href="#staff">Who may bear a frame</a></li>
+  <li><a href="#petitions">Petitions and quiet crucibles</a></li>
+  <li><a href="#row">The Row is not this hall</a></li>
+  <li><a href="#named">Named missions</a></li>
+  <li><a href="#research">Research</a></li>
+  <li><a href="#roster">Daily roster</a></li>
+</ol></nav>
+<div class="lore-article character-article wiki-article-grid">
+<div class="character-main-content lore-main" style="--floor:#fb923c">
+<blockquote class="wiki-quote"><p>“The frame does not invent a new object. It hardens the same grief.”</p><div class="quote-author">— Extraction Hall</div></blockquote>
+<figure class="lore-banner"><img src="../assets/art/departments/f3-banner.svg?v=20260831ao" alt="Three crystallization frames and flux pipes"></figure>
+<div class="prop-tile-grid"><article class="prop-tile" style="--tile:#fb923c"><img src="../assets/art/departments/f3-icon.svg?v=20260831ao" alt=""><b>FRAMES</b><small>W / S / G</small></article><article class="prop-tile" style="--tile:#f1df76"><img src="../assets/art/mechanics/maw-sys-icon.svg?v=20260831ao" alt=""><b>FLUX</b><small>Han cost</small></article><article class="prop-tile" style="--tile:#e2e8f0"><img src="../assets/art/maw/maw-g-001-01.svg?v=20260831ao" alt=""><b>GIFT</b><small>Private cost</small></article></div>
+<div class="department-command" style="--floor:#fb923c"><header><span>HAND OF CHANGE · FLOOR 03</span><h2>HALL CYCLE</h2></header><div class="operation-flow"><article><span>01</span><h3>Petition</h3><p>Dekan names or refuses. A quiet crucible is a refusal, not a missing recipe.</p></article><article><span>02</span><h3>Scan</h3><p>Resonance is measured. A guess is a second entity.</p></article><article><span>03</span><h3>Frame</h3><p>Weapon, suit, gift — three stations. SE-003 yields nothing.</p></article><article><span>04</span><h3>Issue</h3><p>Named Vigil leaves with a name, not a crate number.</p></article></div></div>
+<section class="wiki-section" id="hall">
+<h2 class="section-title">Extraction Hall</h2>
+<p><strong>Extraction Hall</strong> is Floor 3: industrial Han — pipes, crucibles, three frames. Approved sorrow is crystallized here into the slots the arsenal actually uses: weapon, suit, gift. The Lament blade still has names under the edge because the frame did not invent a new object. It hardened the same grief Floor 2 already contained. This floor does not nickname the arsenal. It does not write Appearance paragraphs for specimens that yield nothing. SE-003 The Wilderness Tide yields nothing. A petition with that number goes back to Dekan with the refusal already written.</p>
+<p>Quota 300 Han — frames and metal, not keep-work. The refinery processes ordinary Han that is not Named Vigil. Resonance is measured. Compatibility is not guessed from a name. Bonding is a specialist's session after a scan, not a souvenir desk. Floor 2 owns the register. Floor 3 owns the flux. Floor 4 may have already written what the donor does. Floor 6 logs names and debts when the piece spends memory.</p>
+
+<p>Weapon, suit, gift are three stations because they are three different hardenings of the same approved grief. A weapon that still has names under the edge did not invent those names in the frame; Floor 2 contained them and Floor 6 may log them again. A suit that spends obligation is a Debt or Balance problem as well as a Hall problem. A gift that is private cost is still issued with a name, not a crate number. Mixing the three on one rig is how a bearer walks out wearing a second entity. The Hall does not nickname the arsenal. Appearance paragraphs belong to the pieces that exist. Specimens that yield nothing do not get a souvenir paragraph because someone liked the number.</p>
+<p>Quota 300 is frames and metal. It is not keep-work and not Zone D's civic forge. The refinery's ordinary Han is how you know the Hall can tell the difference between flux that is Named Vigil and flux that is not. Resonance is a measurement. Compatibility guessed from a name is a second entity. Bonding is a specialist's session after a scan, in a quiet room, not a desk by the issue clerk. Floor 4 may have already written what the donor does. If they have not, the Hall is folklore with heat.</p>
+
+</section>
+<section class="wiki-section" id="zyrak">
+<h2 class="section-title">Zyrak</h2>
+<p><a class="wiki-link" href="../characters/the-extraction-lead-zyrak.html">Zyrak</a> is Extraction Lead. Specialists on the three frames. Technicians on resonance and the refinery. Clerks issue what is already named. Agents test a piece only after a scan. The Hall's people finish an extract without keeping the donor's habit. That is the skill. It is not Floor 2's endurance and not Floor 4's looking.</p>
+<p>Core Suppression here is molten Han-flux — the Hall's own heat turning on unarmored staff. It is still one floor. It is not Facility Meltdown. A quiet crucible is a Hall procedure, not a meltdown authorization. Approved extracts complete cleaner while the Hall's specialists are intact. Bearers who return here for bonding are not new to the piece. Bonding is not a first-day souvenir.</p>
+
+<p>Specialists finish an extract without keeping the donor's habit. That sentence is the skill and the reason Composure and Clarity sit on this floor's assignment line. Technicians keep resonance honest and the refinery ordinary. Clerks issue what is already named — distribution is a clerk's job until it isn't, and then it is a named mission. Agents test a piece only after a scan. A tourist from Floor 5 does not know which frame is gift. Consecutive posting here is how a specialist does not take the donor home in their posture.</p>
+<p>Core Suppression is molten Han-flux: the Hall's own heat turning on unarmored staff, frames that run without petitions, quiet crucibles that stop being quiet. It is still one floor. It is not Facility Meltdown. It is not Floor 2's overlapping hunger. Sending Hall specialists into the keep because both rooms are warm is how you lose a veto and a frame in the same hour. Zyrak's civic grain is Collectors' Row. Zyrak's floor is 3. A Collector does not operate a frame. Bong left the Row for a tavern in D. He is not on this roster.</p>
+
+</section>
+<section class="wiki-section" id="join">
+<h2 class="section-title">Left wing, cyan join</h2>
+<p>On the cutaway Floor 3 is the blue left wing. Floor 8 is the gray right wing. A cyan join holds them. Extraction and Gate Watch share a storey and do not share a job: one hardens approved grief, one counts who comes home. Confusing the join for a single department is how you put a crucible next to seven tablets and call it efficiency. The spine arrives at the join. A runner can go from a quiet frame to a missing tablet without riding to the palm first — and that runner still has to tell Floor 1.</p>
+<p>Pipes. Crucibles. Three frames that are stations. Flux is loud when it runs and louder when it should not. A quiet crucible is a refused petition: you can hear the absence. Resonance benches tick. The refinery smells of ordinary metal, which is how you know it is not Named Vigil. Through the cyan join, if Floor 8 is counting tablets, you can hear a different silence.</p>
+
+<p>THE_HAND_DR_LAYOUT paints Floor 3 blue and Floor 8 gray on the same storey, cyan between them. The spine arrives at that join after dropping through the palm and the keep. A runner can go from a quiet frame to a missing tablet without riding back to gold — and that runner still has to tell Floor 1, because blast-door orders and assignment still originate on the palm. Extraction and Gate Watch share a storey. They do not share a crucible. They do not share seven tablets. Putting a frame next to a tablet and calling it efficiency is how a Hall that should be listening for flux starts listening for exile.</p>
+<p>Flux is loud when it runs and louder when it should not. A refused petition is an absence you can hear. Resonance benches tick. The refinery smells of ordinary metal. Through the cyan join, if Floor 8 is counting tablets, you hear a different silence: warnings compressed, not orders, unless someone is failing. The Gate's unease leaks. The Hall's job is not to answer it.</p>
+
+</section>
+<section class="wiki-section" id="rooms">
+<h2 class="section-title">Frames, bench, refinery</h2>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Room</th><th>Description</th><th>Function</th></tr></thead>
+<tbody>
+<tr><td><strong>Extraction Chambers</strong></td><td>Individual rooms with extraction rigs — Han-crystal frames, resonance emitters</td><td>M.A.W. extraction from entities</td></tr>
+<tr><td><strong>Resonance Scanning</strong></td><td>Room with compatibility measurement equipment</td><td>Entity-person resonance testing</td></tr>
+<tr><td><strong>M.A.W. Testing Grounds</strong></td><td>Open space for testing extracted equipment</td><td>Equipment evaluation, combat testing</td></tr>
+<tr><td><strong>Bonding Rooms</strong></td><td>Quiet, isolated rooms for M.A.W. bonding process</td><td>User-equipment bonding</td></tr>
+<tr><td><strong>The Refinery</strong></td><td>Han-crystal processing — raw crystal to usable material</td><td>Echo processing, Han-crystal refinement</td></tr>
+<tr><td><strong>Equipment Storage</strong></td><td>Vault for M.A.W. equipment — climate-controlled</td><td>M.A.W. storage, cataloguing</td></tr>
+</tbody></table></div>
+<div class="room-schematic" style="--floor:#fb923c">
+<article><span>ROOM</span><b>Extraction Chambers</b><small>Individual rooms with extraction rigs — Han-crystal frames, resonance emitters</small><small>M.A.W. extraction from entities</small></article>
+<article><span>ROOM</span><b>Resonance Scanning</b><small>Room with compatibility measurement equipment</small><small>Entity-person resonance testing</small></article>
+<article><span>ROOM</span><b>M.A.W. Testing Grounds</b><small>Open space for testing extracted equipment</small><small>Equipment evaluation, combat testing</small></article>
+<article><span>ROOM</span><b>Bonding Rooms</b><small>Quiet, isolated rooms for M.A.W. bonding process</small><small>User-equipment bonding</small></article>
+<article><span>ROOM</span><b>The Refinery</b><small>Han-crystal processing — raw crystal to usable material</small><small>Echo processing, Han-crystal refinement</small></article>
+<article><span>ROOM</span><b>Equipment Storage</b><small>Vault for M.A.W. equipment — climate-controlled</small><small>M.A.W. storage, cataloguing</small></article>
+</div>
+
+<p>Extraction Chambers are individual rooms with Han-crystal frames and resonance emitters — the three stations, not a single loot wheel. Resonance Scanning is where compatibility is measured before anyone is allowed to want the piece. M.A.W. Testing Grounds are open space for evaluation after a frame, not a dueling hall. Bonding Rooms are quiet and isolated because a bond that happens in a corridor is a second entity. The Refinery processes raw crystal into usable Han that is not Named Vigil. Equipment Storage is climate-controlled cataloguing of what already has a name. Floor 2's armory does not exist; Floor 1's armory is DSE. This vault is the Hall's.</p>
+
+</section>
+<section class="wiki-section" id="petitions">
+<h2 class="section-title">Petitions and quiet crucibles</h2>
+<p>A day: petitions from the keep. Scans. A frame that runs or a crucible that stays quiet. Testing. Bonding. Issue. Refinery. Named missions on this floor: Name the Frame, Scan First, SE-003 Yields Nothing, Issue What is Named. Completing them unlocks Three Frames, Resonance Bench, Refinery that is not Floor 2. Joint Assignment from the palm does not let an agent work a cell without Dekan's keep, and it does not let a crucible run without a veto signature.</p>
+<p>A refused petition is not a missing recipe. A bad scan is a second entity wearing your agent. Weapon, suit, gift are separate stations. A loot wheel would be a different building.</p>
+
+<p>A petition is a sentence Dekan writes or refuses. Floor 3 does not start a crucible on folklore, on a name someone liked, or on SE-003. Scan First is daily work even when no frame runs, because a scan backlog is how a bond happens on a guess. Issue What is Named is how a piece leaves with a name rather than a crate number. Joint Assignment from the palm does not let a crucible run without a veto signature. Cross-floor M.A.W. emergency with Floor 5 completes on both desks or it is still open.</p>
+
+</section>
+<section class="wiki-section" id="row">
+<div class="wiki-callout hazard"><header>FLOOR 03 · FAIL LINE</header><p>Collectors' Row is not this hall. A Collector does not operate a frame.</p></div>
+<h2 class="section-title">The Row is not this hall</h2>
+<p>Zone C Collectors' Row is the civic face of grief-as-debt. This hall is underground under A. Zyrak's civic grain is C; Zyrak's floor is 3. A Collector does not operate a frame. Bong left the Row for a tavern in D. He is not on this roster. Open the <a class="wiki-link" href="../maw/index.html">M.A.W. hub</a> for the nine published trios that left this hall with names.</p>
+
+<p>Collectors' Row in Zone C is grief-as-debt on a civic street. Inner C is worse. This hall is underground under Zone A, cyan-joined to a gate that is not a civic Gate I–IV. A Collector's ledger is not a resonance scan. Opening C and calling it intel is Floor 7's failure, not this Hall's recipe. The nine published trios that left this hall with names are on the <a class="wiki-link" href="../maw/index.html">M.A.W. hub</a>. If a piece is not on that register, Floor 2 did not name it, and this floor should not have issued it.</p>
+
+</section>
+
+<section class="wiki-section" id="staff">
+<h2 class="section-title">Who may bear a frame</h2>
+<div class="staff-plate" style="--floor:#fb923c"><article><span>LEAD</span><b>Zyrak</b><small>Hardens what Dekan named.</small></article><article><span>SPECIALIST</span><b>Frames</b><small>Composure / Clarity. Do not keep the donor's habit.</small></article><article><span>TECH</span><b>Resonance</b><small>Measured. Not guessed from a name.</small></article><article><span>CLERK</span><b>Issue</b><small>What is already named.</small></article></div>
+<p>Hall specialists want Composure and Clarity — finish an extract without keeping the donor's habit. Technicians keep resonance honest. Clerks issue what is already named. Agents test only after a scan. Bonding is a specialist session in a quiet room, not a desk by the issue clerk. Consecutive posting is how a specialist does not take the donor home in their posture.</p>
+<p>DSE is transit. Named Vigil leaves this hall with a name. Weapon, suit, gift are three stations. Resilience gates heavy wear. Clarity gates memory bleed. Composure gates the bond. Resolve gates rejection. Floor 6 takes the second log when the piece spends obligation or a Lament edge reveals a name. SE-003 yields nothing. A Collector does not operate a frame.</p>
+<p>Core Suppression is molten flux: frames without petitions. An Ordeal in the Hall is not Name the Frame. Facility Meltdown: crucibles off unless Dekan still names a piece. Panic during bonding is a second entity. Corrosion starts here if a Grade-gated piece drinks too much donor.</p>
+</section>
+
+<section class="wiki-section" id="named">
+<h2 class="section-title">Named missions</h2>
+<p>Zyrak's named list is whether a frame stayed honest. Quota 300 is metal and flux, not Dekan's five hundred. Name the Frame, Scan First, SE-003 Yields Nothing, Issue What is Named — these complete when the Hall actually ran a petition or kept a crucible quiet. They have no clock. A quiet crucible is a success when the petition was refused. It is not a missing recipe and not a meltdown authorization.</p>
+<div class="table-wrap"><table class="wiki-table"><thead><tr><th>Mission</th><th>Echo-Core brief and goal</th></tr></thead><tbody><tr><td><strong>Name the Frame</strong></td><td><em>“I harden grief Floor 2 already named. A refused petition is a quiet crucible, not a missing recipe.”</em><br><strong>Goal:</strong> Complete 1 approved extract into weapon, suit, or gift.</td></tr><tr><td><strong>Scan First</strong></td><td><em>“Resonance is not a vibe. If the scan is wrong, the bond will be a second entity wearing your agent.”</em><br><strong>Goal:</strong> Complete 5 resonance scans with a recorded match.</td></tr><tr><td><strong>SE-003 Yields Nothing</strong></td><td><em>“The Tide is not a donor. If someone brings you a petition with that number, you send them to Dekan with the refusal already written.”</em><br><strong>Goal:</strong> End the day without attempting an extract from SE-003.</td></tr><tr><td><strong>Issue What is Named</strong></td><td><em>“Distribution is a clerk's job until it isn't. Named Vigil leaves this hall with a name, not a crate number.”</em><br><strong>Goal:</strong> Issue 3 Named Vigil pieces to qualified bearers.</td></tr></tbody></table></div>
+<div class="brief-stack">
+<article class="brief-card" style="--floor:#fb923c"><header>Name the Frame<small>NAMED 01</small></header><blockquote><p>“I harden grief Floor 2 already named. A refused petition is a quiet crucible, not a missing recipe.”</p></blockquote><p class="brief-goal">Goal — Complete 1 approved extract into weapon, suit, or gift.</p></article>
+<article class="brief-card" style="--floor:#fb923c"><header>Scan First<small>NAMED 02</small></header><blockquote><p>“Resonance is not a vibe. If the scan is wrong, the bond will be a second entity wearing your agent.”</p></blockquote><p class="brief-goal">Goal — Complete 5 resonance scans with a recorded match.</p></article>
+<article class="brief-card" style="--floor:#fb923c"><header>SE-003 Yields Nothing<small>NAMED 03</small></header><blockquote><p>“The Tide is not a donor. If someone brings you a petition with that number, you send them to Dekan with the refusal already written.”</p></blockquote><p class="brief-goal">Goal — End the day without attempting an extract from SE-003.</p></article>
+<article class="brief-card" style="--floor:#fb923c"><header>Issue What is Named<small>NAMED 04</small></header><blockquote><p>“Distribution is a clerk's job until it isn't. Named Vigil leaves this hall with a name, not a crate number.”</p></blockquote><p class="brief-goal">Goal — Issue 3 Named Vigil pieces to qualified bearers.</p></article>
+</div>
+<p>The Hall's roster is extraction when a veto exists, scanning every day, testing and bonding as needed, issue of what is already named, refinery without pause. Completing a named mission unlocks Three Frames, Resonance Bench, and a refinery that is not Floor 2. Floor 1 has no named missions.</p>
+</section>
+<section class="wiki-section" id="research">
+<h2 class="section-title">Research projects</h2>
+<p>After the Hall's named missions: Three Frames as separate stations (weapon, suit, gift — not a loot wheel), Resonance Bench so compatibility is measured, Refinery that processes ordinary Han without dressing it as Named Vigil. The observation ladder still lives on Floor 4. Floor 2 still owns the arsenal names. A refused petition still does not become a fourth project.</p>
+<div class="table-wrap"><table class="wiki-table"><thead><tr><th>Project</th><th>What it actually unlocks</th></tr></thead><tbody><tr><td><strong>Three Frames</strong></td><td><em>“Weapon, suit, gift. Not a loot wheel. A refused petition is a quiet crucible.”</em><br>Unlock the three crystallization frames as separate stations.</td></tr><tr><td><strong>Resonance Bench</strong></td><td><em>“Compatibility is measured. It is not guessed from a name.”</em><br>Unlock resonance scanning before a bond is attempted.</td></tr><tr><td><strong>Refinery that is not Floor 2</strong></td><td><em>“Raw Han into Han-Energy is this hall's ordinary metal. It is not keep-work and not Zone D's civic forge.”</em><br>Process approved Han without treating it as a Named Vigil.</td></tr></tbody></table></div>
+<div class="tool-plate" style="--floor:#fb923c">
+<article><b>Three Frames</b><p>Unlock the three crystallization frames as separate stations.</p></article>
+<article><b>Resonance Bench</b><p>Unlock resonance scanning before a bond is attempted.</p></article>
+<article><b>Refinery that is not Floor 2</b><p>Process approved Han without treating it as a Named Vigil.</p></article>
+</div>
+<p>Three Frames are separate stations. Resonance Bench is why a bond is not a guess. The refinery is ordinary metal. Floor 2 still owns the arsenal names. SE-003 still yields nothing. A refused petition still does not become a fourth project.</p>
+</section>
+<section class="wiki-section" id="roster">
+<h2 class="section-title">Daily roster</h2>
+<p>Keep this table. Extraction, scanning, testing, bonding, distribution, refinery — this is the Hall's day. It is not Floor 2's work cycle and not Floor 1's assignment board.</p>
+<div class="table-wrap"><table class="wiki-table">
+<thead><tr><th>Mission</th><th>Description</th><th>Personnel</th><th>Frequency</th></tr></thead>
+<tbody>
+<tr><td><strong>M.A.W. Extraction</strong></td><td>Extract equipment from contained entities</td><td>Specialists, Senior Agents</td><td>As needed</td></tr>
+<tr><td><strong>Resonance Scanning</strong></td><td>Measure entity-person compatibility</td><td>Technicians, Specialists</td><td>Daily</td></tr>
+<tr><td><strong>M.A.W. Testing</strong></td><td>Evaluate extracted equipment</td><td>Agents, Specialists</td><td>As needed</td></tr>
+<tr><td><strong>Bonding Sessions</strong></td><td>Facilitate M.A.W. bonding with personnel</td><td>Specialists</td><td>As needed</td></tr>
+<tr><td><strong>Equipment Distribution</strong></td><td>Issue M.A.W. to qualified personnel</td><td>Clerks, Technicians</td><td>Daily</td></tr>
+<tr><td><strong>Refinery Operations</strong></td><td>Process raw Han into Han-Energy</td><td>Technicians, Maintenance</td><td>Continuous</td></tr>
+</tbody></table></div>
+<p>Extraction when a veto exists. Scanning every day, even when no frame runs, because a scan backlog is a bond on a guess. Testing and bonding as needed, in rooms that are not corridors. Issue of what is already named. Refinery without pause, ordinary metal, not Named Vigil. Completing named missions unlocks Three Frames, Resonance Bench, and a refinery that is not Floor 2.</p>
+</section>
+
+</div>
+<aside class="character-infobox" style="--entity:#fb923c">
+  <h2>FLOOR 3</h2>
+  <div class="infobox-image-wrap"><img src="../assets/art/departments/f3-icon.svg?v=20260831ao" alt="Floor 3 crucible"></div>
+  <h3>EXTRACTION</h3>
+  <dl class="fact-grid">
+    <dt>Korean</dt><dd>추출의 전당</dd>
+    <dt>Lead</dt><dd><a href="../characters/the-extraction-lead-zyrak.html">Zyrak</a></dd>
+    <dt>Role</dt><dd>Frames · flux · testing</dd>
+    <dt>Slots</dt><dd>Weapon · Suit · Gift</dd>
+    <dt>Veto</dt><dd>Floor 2 · Dekan</dd>
+    <dt>Motto</dt><dd>From sorrow, strength.</dd>
+  </dl>
+</aside>
+</div>
+
+<section class="cross-reference-section"><div class="cross-ref-header">ON THIS FLOOR</div><div class="cross-ref-grid"><a href="../characters/the-extraction-lead-zyrak.html" class="cross-ref-card"><img src="../assets/avatars/avatar_core_zyrak.svg" alt=""><div class="cross-ref-meta"><span class="cross-ref-cat">LEAD</span><span class="cross-ref-title">ZYRAK</span></div></a><a href="../maw/maw-crafting-and-extraction.html" class="cross-ref-card"><img src="../assets/art/mechanics/maw-sys-icon.svg" alt=""><div class="cross-ref-meta"><span class="cross-ref-cat">RULES</span><span class="cross-ref-title">EXTRACTION</span></div></a><a href="floor-2-maws-keep.html" class="cross-ref-card"><img src="../assets/art/departments/f2-icon.svg" alt=""><div class="cross-ref-meta"><span class="cross-ref-cat">VETO</span><span class="cross-ref-title">MAW'S KEEP</span></div></a><a href="../maw/index.html" class="cross-ref-card"><img src="../assets/icons/icon_hub_maw.svg" alt=""><div class="cross-ref-meta"><span class="cross-ref-cat">SETS</span><span class="cross-ref-title">NINE CANONICAL</span></div></a></div></section>
+</main>
+</div>
+<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  <div class="footer-signal" aria-hidden="true">
+    <span>RD://PUBLIC-NET</span><i></i>
+    <span>SECC LINK STABLE</span><i></i>
+    <span>FACILITY 01 // GATE WATCH</span><i></i>
+    <span>PUBLICATION GATES PASSING</span>
+  </div>
+
+  <div class="footer-hero">
+    <section class="footer-identity" aria-label="Somnarak Wiki">
+      <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
+      <a class="footer-brand" href="../index.html">
+        <span class="footer-emblem"><img src="../assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
+      </a>
+      <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
+      <p>The public record follows Somnarak from the Alpha Tree and five city zones into Facility 01, where witnessed canon is curated without replacing absence with invention.</p>
+      <div class="footer-badges" aria-label="Archive classification">
+        <span>FACILITY 01</span><span>DIRECTORATE</span><span>PUBLIC CODEX</span>
+      </div>
+    </section>
+
+    <figure class="footer-network">
+      <div class="footer-network-frame">
+        <img src="../assets/layout/footer-directorate-network.svg" alt="Directorate archive topology linking the Alpha Tree, five city zones, Facility 01, Gate Watch, and eight public archive gateways"/>
+        <span class="footer-network-scan" aria-hidden="true"></span>
+      </div>
+      <figcaption><span>Live archive topology</span><b>ALPHA TREE → FACILITY 01 → PUBLIC CODEX</b></figcaption>
+    </figure>
+
+    <section class="footer-status" aria-label="Current archive status">
+      <span>Verified repository snapshot</span>
+      <strong>1.8.31</strong>
+      <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
+      <dl>
+        <div><dt>Public records</dt><dd>197 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
+        <div><dt>Cycle state</dt><dd>ENDED</dd></div>
+        <div><dt>Gate command</dt><dd>XYAN</dd></div>
+      </dl>
+    </section>
+  </div>
+
+  <div class="footer-directory">
+    <section class="footer-archives" aria-labelledby="footer-archives-title">
+      <header><span>Primary collections</span><h2 id="footer-archives-title">Eight Archive Gateways</h2><p>Continue through the complete public taxonomy.</p></header>
+      <div>
+        <a href="../characters/index.html" data-footer-archive="01" style="--gateway:#ef5b55"><span>01</span><b>Echo-Cores</b><small>Characters</small></a>
+        <a href="../lore/index.html" data-footer-archive="02" style="--gateway:#a78bfa"><span>02</span><b>Cycle Archive</b><small>Lore</small></a>
+        <a href="../locations/index.html" data-footer-archive="03" style="--gateway:#38bdf8"><span>03</span><b>City Atlas</b><small>Locations</small></a>
+        <a href="../factions/index.html" data-footer-archive="04" style="--gateway:#f59e0b"><span>04</span><b>Orders</b><small>Factions</small></a>
+        <a href="../departments/index.html" data-footer-archive="05" style="--gateway:#71efaf"><span>05</span><b>Hand of Change</b><small>Facility</small></a>
+        <a href="../entities/index.html" data-footer-archive="06" style="--gateway:#fb7185"><span>06</span><b>SECC Registry</b><small>Entities</small></a>
+        <a href="../maw/index.html" data-footer-archive="07" style="--gateway:#f1df76"><span>07</span><b>M.A.W. Arsenal</b><small>Equipment</small></a>
+        <a href="../mechanics/index.html" data-footer-archive="08" style="--gateway:#60a5fa"><span>08</span><b>Systems Codex</b><small>Mechanics</small></a>
+      </div>
+    </section>
+
+    <nav class="footer-links" aria-label="Archive resources">
+      <header><span>Project access</span><h2>Archive Resources</h2><p>Inspect provenance, files, and visual infrastructure.</p></header>
+      <div>
+        <a href="../project/source-map.html" data-footer-link="R-01"><b>Source Map</b><small>Canon provenance</small></a>
+        <a href="../downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
+        <a href="../assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
+        <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+      </div>
+    </nav>
+  </div>
+
+  <section class="footer-register" aria-label="Publication register">
+    <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
+    <dl>
+      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+    </dl>
+    <div class="footer-protocols">
+      <span><b>01</b> SOURCE-LED CONTENT</span>
+      <span><b>02</b> DISTINCT VISUAL FORM</span>
+      <span><b>03</b> NO RECOLOR-ONLY ART</span>
+      <span><b>04</b> VERIFIED LOCAL ROUTES</span>
+    </div>
+  </section>
+
+  <div class="footer-base">
+    <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
+    <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+  </div>
+</footer>
+</body>
+</html>

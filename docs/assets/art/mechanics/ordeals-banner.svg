@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="ORDEALS  —  FIVE COLORS  ·  FOUR WATCHES">
+  <defs>
+    <linearGradient id="bgordealsb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#031018"/><stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="fdordealsb" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c084fc" stop-opacity="0"/>
+      <stop offset="1" stop-color="#c084fc" stop-opacity=".22"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bgordealsb)"/>
+  <rect width="1400" height="280" fill="url(#fdordealsb)"/>
+  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#c084fc" stroke-width="2.4"/>
+  <line x1="24" y1="24" x2="1376" y2="24" stroke="#c084fc" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  <line x1="24" y1="256" x2="1376" y2="256" stroke="#c084fc" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  
+  <g stroke-width="0">
+    <rect x="80" y="70" width="200" height="140" fill="#1d4ed8"/>
+    <rect x="320" y="90" width="200" height="120" fill="#64748b"/>
+    <rect x="560" y="50" width="200" height="160" fill="#111"/>
+    <rect x="800" y="100" width="200" height="110" fill="#e2e8f0"/>
+    <rect x="1040" y="60" width="280" height="150" fill="#6d28d9"/>
+  </g>
+  <g fill="#020617" font-family="Impact, Arial Black, sans-serif" font-size="14" letter-spacing="2">
+    <text x="180" y="150" text-anchor="middle" fill="#93c5fd">BLUE</text>
+    <text x="420" y="160" text-anchor="middle" fill="#e2e8f0">GREY</text>
+    <text x="660" y="140" text-anchor="middle" fill="#f1df76">BLACK</text>
+    <text x="900" y="165" text-anchor="middle" fill="#0f172a">PALE</text>
+    <text x="1180" y="145" text-anchor="middle" fill="#e9d5ff">PURPLE</text>
+  </g>
+
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="246" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">SYSTEMS  ·  시련</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">ORDEALS  —  FIVE COLORS  ·  FOUR WATCHES</text>
+</svg>

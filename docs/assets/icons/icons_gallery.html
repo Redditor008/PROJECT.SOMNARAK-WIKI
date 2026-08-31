@@ -1,0 +1,860 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SOMNARAK WIKI // Complete Icon &amp; Asset Library</title>
+  <link rel="icon" type="image/svg+xml" href="../../assets/icons/somnarak_icon.svg">
+  <style>
+    :root {
+      --bg-deep: #06090e;
+      --bg-panel: #0d121c;
+      --bg-card: #141b27;
+      --border-subtle: #1e293b;
+      --accent-cyan: #38bdf8;
+      --accent-amber: #f59e0b;
+      --accent-red: #ef4444;
+      --accent-emerald: #10b981;
+      --text-main: #f8fafc;
+      --text-dim: #94a3b8;
+      --text-muted: #64748b;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg-deep);
+      color: var(--text-main);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      padding: 32px 24px;
+    }
+    .container { max-width: 1600px; margin: 0 auto; }
+    .gallery-heading {
+      border-bottom: 2px solid var(--border-subtle);
+      padding-bottom: 24px;
+      margin-bottom: 32px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    h1 { font-size: 26px; font-weight: 900; color: #fff; }
+    .subtitle { color: var(--text-dim); font-family: 'SF Mono', monospace; font-size: 13px; margin-top: 4px; }
+    .badge {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      padding: 6px 14px;
+      border-radius: 6px;
+      font-size: 12px;
+      font-family: 'SF Mono', monospace;
+      color: var(--accent-cyan);
+    }
+    .section-title {
+      font-size: 18px;
+      font-weight: 800;
+      color: var(--text-main);
+      margin: 32px 0 16px 0;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border-subtle);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .icons-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 16px;
+    }
+    .icon-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: 8px;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      transition: all 0.2s ease;
+    }
+    .icon-card:hover {
+      border-color: var(--accent-cyan);
+      transform: translateY(-2px);
+    }
+    .icon-preview {
+      width: 80px;
+      height: 80px;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .icon-preview svg { width: 100%; height: 100%; filter: drop-shadow(0 4px 6px rgba(0,0,0,0.5)); }
+    .icon-name { font-size: 13px; font-weight: 800; color: #fff; margin-bottom: 4px; }
+    .icon-file { font-family: 'SF Mono', monospace; font-size: 10px; color: var(--text-dim); background: #080c14; padding: 2px 6px; border-radius: 4px; margin-bottom: 8px; word-break: break-all; }
+    .code-box {
+      width: 100%;
+      background: #080c14;
+      border: 1px solid var(--border-subtle);
+      padding: 6px;
+      border-radius: 4px;
+      font-family: 'SF Mono', monospace;
+      font-size: 9.5px;
+      color: #38bdf8;
+      text-align: left;
+      user-select: all;
+    }
+  </style>
+  <link rel="stylesheet" href="../../assets/css/wiki.css?v=20260831g">
+  <script defer src="../../assets/js/wiki.js?v=20260831g"></script>
+</head>
+<body class="asset-gallery-page">
+<header class="utility" data-component="global-top-bar">
+  <div class="utility-left">
+    <button class="nav-open" type="button" aria-controls="primary-archive-navigation" aria-expanded="false" aria-label="Open primary archive navigation">
+      <span class="nav-open-glyph" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="nav-open-text">MENU</span>
+    </button>
+    <a class="utility-brand" href="../../index.html" aria-label="Somnarak Wiki main page">
+      <img src="../../assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
+    </a>
+    <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>
+  </div>
+  <nav class="utility-nav" id="primary-archive-navigation" aria-label="Primary archive">
+      <a href="../../index.html" data-archive="00"><span>Main</span><small>Terminal</small></a>
+      <a href="../../characters/index.html" data-archive="01"><span>Characters</span><small>Echo-Cores</small></a>
+      <a href="../../lore/index.html" data-archive="02"><span>Lore</span><small>Cycles</small></a>
+      <a href="../../locations/index.html" data-archive="03"><span>Atlas</span><small>City</small></a>
+      <a href="../../factions/index.html" data-archive="04"><span>Factions</span><small>Orders</small></a>
+      <a href="../../departments/index.html" data-archive="05"><span>Facility</span><small>Floors</small></a>
+      <a href="../../entities/index.html" data-archive="06"><span>Entities</span><small>SECC</small></a>
+      <a href="../../maw/index.html" data-archive="07"><span>M.A.W.</span><small>Arsenal</small></a>
+      <a href="../../mechanics/index.html" data-archive="08"><span>Mechanics</span><small>Systems</small></a>
+      <a href="../../downloads.html" data-archive="09" class="is-current" aria-current="page"><span>Downloads</span><small>Files</small></a>
+  </nav>
+  <div class="search" role="search">
+    <label for="search"><span aria-hidden="true">⌕</span><span class="sr-only">Search Somnarak Wiki</span></label>
+    <input id="search" type="search" aria-label="Search Somnarak Wiki" aria-controls="results" aria-expanded="false" data-index="../../data/search.json" placeholder="Search the archive" autocomplete="off" spellcheck="false"/>
+    <kbd aria-hidden="true">/</kbd>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</header>
+  <div class="container">
+    <header class="gallery-heading">
+      <div>
+        <h1>SOMNARAK WIKI // MASTER ICON REPOSITORY</h1>
+        <div class="subtitle">43 CANONICAL MODULAR SVG ASSETS // READY FOR DIRECT WIKI EMBEDDING</div>
+      </div>
+      <div style="display: flex; gap: 8px;">
+        <span class="badge">43 ASSETS</span>
+        <span class="badge">MANIFEST GENERATED</span>
+        <span class="badge">ARCHIVES ZIP READY</span>
+      </div>
+    </header>
+<div class="section-title">&#x25C6; FACTIONS & CITY</div><div class="icons-grid">
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <polygon points="64,12 110,38 110,90 64,116 18,90 18,38" fill="#1e1b4b" stroke="#818cf8" stroke-width="4"/>
+  <polygon points="64,28 96,64 64,100 32,64" fill="#ef4444" stroke="#f87171" stroke-width="3"/>
+  <circle cx="64" cy="64" r="10" fill="#ffffff"/>
+  <line x1="64" y1="12" x2="64" y2="28" stroke="#38bdf8" stroke-width="3"/>
+  <line x1="64" y1="100" x2="64" y2="116" stroke="#38bdf8" stroke-width="3"/>
+  <line x1="18" y1="64" x2="32" y2="64" stroke="#10b981" stroke-width="3"/>
+  <line x1="96" y1="64" x2="110" y2="64" stroke="#3b82f6" stroke-width="3"/>
+</svg></div>
+          <div class="icon-name">Somnarak City (Minimal)</div>
+          <div class="icon-file">icons/icon_somnarak_city_minimal.svg</div>
+          <div class="code-box">![Somnarak City (Minimal)](icons/icon_somnarak_city_minimal.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="4" y="4" width="120" height="120" rx="14" fill="#0b0f19" stroke="#1e293b" stroke-width="2"/>
+  <circle cx="64" cy="60" r="48" fill="none" stroke="#334155" stroke-width="1" stroke-dasharray="3 3"/>
+  <polygon points="64,22 98,42 98,78 64,98 30,78 30,42" fill="#1e1b4b" stroke="#c084fc" stroke-width="2"/>
+  <polygon points="64,36 84,60 64,84 44,60" fill="#7f1d1d" stroke="#ef4444" stroke-width="2"/>
+  <circle cx="64" cy="60" r="6" fill="#f8fafc"/>
+  <rect x="18" y="104" width="92" height="16" rx="3" fill="#0f172a" stroke="#38bdf8" stroke-width="1"/>
+  <text x="64" y="115.5" font-family="-apple-system, sans-serif" font-size="7.5" font-weight="900" fill="#38bdf8" text-anchor="middle">SOMNARAK</text>
+</svg></div>
+          <div class="icon-name">Somnarak City (Crest Badge)</div>
+          <div class="icon-file">icons/icon_somnarak_city_badge.svg</div>
+          <div class="code-box">![Somnarak City (Crest Badge)](icons/icon_somnarak_city_badge.svg)</div>
+        </div>
+        </div><div class="section-title">&#x25C6; DIRECTORATE</div><div class="icons-grid">
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <!-- Central Spire &amp; The Hand Structure -->
+  <path d="M 58 14 L 70 14 L 67 28 L 61 28 Z" fill="#94a3b8"/>
+  <line x1="64" y1="28" x2="64" y2="86" stroke="#38bdf8" stroke-width="3"/>
+  <!-- 3 Palm Hubs -->
+  <rect x="44" y="32" width="40" height="14" rx="2" fill="#f59e0b" stroke="#fbbf24" stroke-width="1.5"/>
+  <rect x="46" y="50" width="36" height="14" rx="2" fill="#ef4444" stroke="#f87171" stroke-width="1.5"/>
+  <rect x="48" y="68" width="32" height="14" rx="2" fill="#3b82f6" stroke="#60a5fa" stroke-width="1.5"/>
+  <!-- Lateral Gate Watch -->
+  <rect x="88" y="52" width="20" height="12" rx="2" fill="#64748b" stroke="#94a3b8" stroke-width="1.2"/>
+  <line x1="82" y1="58" x2="88" y2="58" stroke="#94a3b8" stroke-width="1.5"/>
+  <!-- 4 Fingers -->
+  <path d="M 24 86 L 104 86" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="18" y="92" width="18" height="24" rx="2" fill="#10b981" stroke="#34d399" stroke-width="1.5"/>
+  <rect x="41" y="92" width="18" height="24" rx="2" fill="#0284c7" stroke="#38bdf8" stroke-width="1.5"/>
+  <rect x="69" y="92" width="18" height="24" rx="2" fill="#8b5cf6" stroke="#a78bfa" stroke-width="1.5"/>
+  <rect x="92" y="92" width="18" height="24" rx="2" fill="#e11d48" stroke="#fb7185" stroke-width="1.5"/>
+</svg></div>
+          <div class="icon-name">The Reverie Directorate (Minimal)</div>
+          <div class="icon-file">icons/icon_reverie_directorate_minimal.svg</div>
+          <div class="code-box">![The Reverie Directorate (Minimal)](icons/icon_reverie_directorate_minimal.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="4" y="4" width="120" height="120" rx="14" fill="#080c14" stroke="#1e293b" stroke-width="2"/>
+  <circle cx="64" cy="56" r="44" fill="none" stroke="#0ea5e9" stroke-opacity="0.3" stroke-width="1" stroke-dasharray="3 3"/>
+  <!-- The Hand Icon inside Badge -->
+  <rect x="46" y="24" width="36" height="14" rx="2" fill="#78350f" stroke="#f59e0b" stroke-width="1.5"/>
+  <rect x="48" y="42" width="32" height="14" rx="2" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.5"/>
+  <rect x="50" y="60" width="28" height="14" rx="2" fill="#1e3a8a" stroke="#3b82f6" stroke-width="1.5"/>
+  <!-- Lateral Gate -->
+  <rect x="86" y="44" width="18" height="12" rx="2" fill="#1e293b" stroke="#94a3b8" stroke-width="1.2"/>
+  <!-- 4 Fingers -->
+  <path d="M 28 78 L 100 78" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="22" y="82" width="15" height="18" rx="2" fill="#064e3b" stroke="#10b981" stroke-width="1.2"/>
+  <rect x="42" y="82" width="15" height="18" rx="2" fill="#0c4a6e" stroke="#0284c7" stroke-width="1.2"/>
+  <rect x="71" y="82" width="15" height="18" rx="2" fill="#3b0764" stroke="#8b5cf6" stroke-width="1.2"/>
+  <rect x="91" y="82" width="15" height="18" rx="2" fill="#4c0519" stroke="#e11d48" stroke-width="1.2"/>
+  <!-- Badge Footer -->
+  <rect x="14" y="104" width="100" height="16" rx="3" fill="#0f172a" stroke="#38bdf8" stroke-width="1"/>
+  <text x="64" y="115.5" font-family="-apple-system, sans-serif" font-size="7.5" font-weight="900" fill="#f8fafc" text-anchor="middle">R.D. // 회상국</text>
+</svg></div>
+          <div class="icon-name">The Reverie Directorate (Insignia Badge)</div>
+          <div class="icon-file">icons/icon_reverie_directorate_badge.svg</div>
+          <div class="code-box">![The Reverie Directorate (Insignia Badge)](icons/icon_reverie_directorate_badge.svg)</div>
+        </div>
+        </div><div class="section-title">&#x25C6; MONUMENTS</div><div class="icons-grid">
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="58" fill="#0c101b" stroke="#ef4444" stroke-width="2"/>
+  <!-- Tree Spire Vector -->
+  <path d="M 64 16 L 76 56 L 68 56 L 82 82 L 70 82 L 86 104 L 42 104 L 58 82 L 46 82 L 60 56 L 52 56 Z" fill="#7f1d1d" stroke="#f87171" stroke-width="2"/>
+  <!-- Roots extending into depths -->
+  <path d="M 50 104 Q 40 118 30 124" stroke="#ef4444" stroke-width="2.5" fill="none"/>
+  <path d="M 64 104 L 64 126" stroke="#ef4444" stroke-width="2.5" fill="none"/>
+  <path d="M 78 104 Q 88 118 98 124" stroke="#ef4444" stroke-width="2.5" fill="none"/>
+  <circle cx="64" cy="38" r="4" fill="#ffffff"/>
+</svg></div>
+          <div class="icon-name">The Alpha Tree (알파 트리)</div>
+          <div class="icon-file">icons/icon_alpha_tree.svg</div>
+          <div class="code-box">![The Alpha Tree (알파 트리)](icons/icon_alpha_tree.svg)</div>
+        </div>
+        </div><div class="section-title">&#x25C6; DIRECTORATE DEPARTMENTS</div><div class="icons-grid">
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#f59e0b" stroke-width="3"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#78350f" stroke="#f59e0b" stroke-width="3"/>
+        <line x1="34" y1="52" x2="94" y2="52" stroke="#f59e0b" stroke-width="1.5"/>
+        <circle cx="64" cy="68" r="10" fill="#f59e0b"/>
+        <text x="64" y="46" font-family="monospace" font-size="9" font-weight="bold" fill="#fde68a" text-anchor="middle">F1</text>
+  <text x="64" y="104" font-family="-apple-system, sans-serif" font-size="8" font-weight="900" fill="#f59e0b" text-anchor="middle">MAJIN &amp; SEIYON</text>
+</svg></div>
+          <div class="icon-name">Floor 1: Neutral (중립)</div>
+          <div class="icon-file">icons/icon_dept_f1_neutral.svg</div>
+          <div class="code-box">![Floor 1: Neutral (중립)](icons/icon_dept_f1_neutral.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
+  <rect x="10" y="10" width="108" height="108" rx="10" fill="none" stroke="#f59e0b" stroke-opacity="0.3" stroke-width="1"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#78350f" stroke="#f59e0b" stroke-width="3"/>
+        <line x1="34" y1="52" x2="94" y2="52" stroke="#f59e0b" stroke-width="1.5"/>
+        <circle cx="64" cy="68" r="10" fill="#f59e0b"/>
+        <text x="64" y="46" font-family="monospace" font-size="9" font-weight="bold" fill="#fde68a" text-anchor="middle">F1</text>
+  <rect x="14" y="98" width="100" height="20" rx="3" fill="#0f172a" stroke="#f59e0b" stroke-width="1"/>
+  <text x="64" y="111" font-family="-apple-system, sans-serif" font-size="7" font-weight="900" fill="#f59e0b" text-anchor="middle">MAJIN &amp; SEIYON</text>
+</svg></div>
+          <div class="icon-name">Floor 1: Neutral (중립) (Badge)</div>
+          <div class="icon-file">icons/icon_dept_f1_neutral_badge.svg</div>
+          <div class="code-box">![Floor 1: Neutral (중립) (Badge)](icons/icon_dept_f1_neutral_badge.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#ef4444" stroke-width="3"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#7f1d1d" stroke="#ef4444" stroke-width="3"/>
+        <path d="M 44 48 L 54 62 L 64 48 L 74 62 L 84 48 L 84 76 L 44 76 Z" fill="#450a0a" stroke="#ef4444" stroke-width="1.5"/>
+        <text x="64" y="44" font-family="monospace" font-size="9" font-weight="bold" fill="#fca5a5" text-anchor="middle">F2</text>
+  <text x="64" y="104" font-family="-apple-system, sans-serif" font-size="8" font-weight="900" fill="#ef4444" text-anchor="middle">DEKAN</text>
+</svg></div>
+          <div class="icon-name">Floor 2: The Maw's Keep (아가리의 요새)</div>
+          <div class="icon-file">icons/icon_dept_f2_maws_keep.svg</div>
+          <div class="code-box">![Floor 2: The Maw's Keep (아가리의 요새)](icons/icon_dept_f2_maws_keep.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
+  <rect x="10" y="10" width="108" height="108" rx="10" fill="none" stroke="#ef4444" stroke-opacity="0.3" stroke-width="1"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#7f1d1d" stroke="#ef4444" stroke-width="3"/>
+        <path d="M 44 48 L 54 62 L 64 48 L 74 62 L 84 48 L 84 76 L 44 76 Z" fill="#450a0a" stroke="#ef4444" stroke-width="1.5"/>
+        <text x="64" y="44" font-family="monospace" font-size="9" font-weight="bold" fill="#fca5a5" text-anchor="middle">F2</text>
+  <rect x="14" y="98" width="100" height="20" rx="3" fill="#0f172a" stroke="#ef4444" stroke-width="1"/>
+  <text x="64" y="111" font-family="-apple-system, sans-serif" font-size="7" font-weight="900" fill="#ef4444" text-anchor="middle">DEKAN</text>
+</svg></div>
+          <div class="icon-name">Floor 2: The Maw's Keep (아가리의 요새) (Badge)</div>
+          <div class="icon-file">icons/icon_dept_f2_maws_keep_badge.svg</div>
+          <div class="code-box">![Floor 2: The Maw's Keep (아가리의 요새) (Badge)](icons/icon_dept_f2_maws_keep_badge.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#3b82f6" stroke-width="3"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#1e3a8a" stroke="#3b82f6" stroke-width="3"/>
+        <circle cx="64" cy="66" r="14" fill="#172554" stroke="#60a5fa" stroke-width="2"/>
+        <polygon points="64,56 70,66 64,76 58,66" fill="#60a5fa"/>
+        <text x="64" y="44" font-family="monospace" font-size="9" font-weight="bold" fill="#bfdbfe" text-anchor="middle">F3</text>
+  <text x="64" y="104" font-family="-apple-system, sans-serif" font-size="8" font-weight="900" fill="#3b82f6" text-anchor="middle">ZYRAK</text>
+</svg></div>
+          <div class="icon-name">Floor 3: The Extraction Hall (추출의 전당)</div>
+          <div class="icon-file">icons/icon_dept_f3_extraction.svg</div>
+          <div class="code-box">![Floor 3: The Extraction Hall (추출의 전당)](icons/icon_dept_f3_extraction.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
+  <rect x="10" y="10" width="108" height="108" rx="10" fill="none" stroke="#3b82f6" stroke-opacity="0.3" stroke-width="1"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#1e3a8a" stroke="#3b82f6" stroke-width="3"/>
+        <circle cx="64" cy="66" r="14" fill="#172554" stroke="#60a5fa" stroke-width="2"/>
+        <polygon points="64,56 70,66 64,76 58,66" fill="#60a5fa"/>
+        <text x="64" y="44" font-family="monospace" font-size="9" font-weight="bold" fill="#bfdbfe" text-anchor="middle">F3</text>
+  <rect x="14" y="98" width="100" height="20" rx="3" fill="#0f172a" stroke="#3b82f6" stroke-width="1"/>
+  <text x="64" y="111" font-family="-apple-system, sans-serif" font-size="7" font-weight="900" fill="#3b82f6" text-anchor="middle">ZYRAK</text>
+</svg></div>
+          <div class="icon-name">Floor 3: The Extraction Hall (추출의 전당) (Badge)</div>
+          <div class="icon-file">icons/icon_dept_f3_extraction_badge.svg</div>
+          <div class="code-box">![Floor 3: The Extraction Hall (추출의 전당) (Badge)](icons/icon_dept_f3_extraction_badge.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#10b981" stroke-width="3"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#064e3b" stroke="#10b981" stroke-width="3"/>
+        <polygon points="64,52 76,64 64,76 52,64" fill="#10b981"/>
+        <line x1="42" y1="64" x2="86" y2="64" stroke="#a7f3d0" stroke-width="2"/>
+        <text x="64" y="44" font-family="monospace" font-size="9" font-weight="bold" fill="#a7f3d0" text-anchor="middle">F4</text>
+  <text x="64" y="104" font-family="-apple-system, sans-serif" font-size="8" font-weight="900" fill="#10b981" text-anchor="middle">AYSHUK</text>
+</svg></div>
+          <div class="icon-name">Floor 4: The Insight Forge (통찰의 대장간)</div>
+          <div class="icon-file">icons/icon_dept_f4_insight_forge.svg</div>
+          <div class="code-box">![Floor 4: The Insight Forge (통찰의 대장간)](icons/icon_dept_f4_insight_forge.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
+  <rect x="10" y="10" width="108" height="108" rx="10" fill="none" stroke="#10b981" stroke-opacity="0.3" stroke-width="1"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#064e3b" stroke="#10b981" stroke-width="3"/>
+        <polygon points="64,52 76,64 64,76 52,64" fill="#10b981"/>
+        <line x1="42" y1="64" x2="86" y2="64" stroke="#a7f3d0" stroke-width="2"/>
+        <text x="64" y="44" font-family="monospace" font-size="9" font-weight="bold" fill="#a7f3d0" text-anchor="middle">F4</text>
+  <rect x="14" y="98" width="100" height="20" rx="3" fill="#0f172a" stroke="#10b981" stroke-width="1"/>
+  <text x="64" y="111" font-family="-apple-system, sans-serif" font-size="7" font-weight="900" fill="#10b981" text-anchor="middle">AYSHUK</text>
+</svg></div>
+          <div class="icon-name">Floor 4: The Insight Forge (통찰의 대장간) (Badge)</div>
+          <div class="icon-file">icons/icon_dept_f4_insight_forge_badge.svg</div>
+          <div class="code-box">![Floor 4: The Insight Forge (통찰의 대장간) (Badge)](icons/icon_dept_f4_insight_forge_badge.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#0284c7" stroke-width="3"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#0c4a6e" stroke="#0284c7" stroke-width="3"/>
+        <path d="M 44 74 L 64 52 L 84 74 Z" fill="#082f49" stroke="#38bdf8" stroke-width="2"/>
+        <circle cx="64" cy="66" r="4" fill="#38bdf8"/>
+        <text x="64" y="44" font-family="monospace" font-size="9" font-weight="bold" fill="#bae6fd" text-anchor="middle">F5</text>
+  <text x="64" y="104" font-family="-apple-system, sans-serif" font-size="8" font-weight="900" fill="#0284c7" text-anchor="middle">MELLDA</text>
+</svg></div>
+          <div class="icon-name">Floor 5: The Border Watch (경계 감시소)</div>
+          <div class="icon-file">icons/icon_dept_f5_border_watch.svg</div>
+          <div class="code-box">![Floor 5: The Border Watch (경계 감시소)](icons/icon_dept_f5_border_watch.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
+  <rect x="10" y="10" width="108" height="108" rx="10" fill="none" stroke="#0284c7" stroke-opacity="0.3" stroke-width="1"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#0c4a6e" stroke="#0284c7" stroke-width="3"/>
+        <path d="M 44 74 L 64 52 L 84 74 Z" fill="#082f49" stroke="#38bdf8" stroke-width="2"/>
+        <circle cx="64" cy="66" r="4" fill="#38bdf8"/>
+        <text x="64" y="44" font-family="monospace" font-size="9" font-weight="bold" fill="#bae6fd" text-anchor="middle">F5</text>
+  <rect x="14" y="98" width="100" height="20" rx="3" fill="#0f172a" stroke="#0284c7" stroke-width="1"/>
+  <text x="64" y="111" font-family="-apple-system, sans-serif" font-size="7" font-weight="900" fill="#0284c7" text-anchor="middle">MELLDA</text>
+</svg></div>
+          <div class="icon-name">Floor 5: The Border Watch (경계 감시소) (Badge)</div>
+          <div class="icon-file">icons/icon_dept_f5_border_watch_badge.svg</div>
+          <div class="code-box">![Floor 5: The Border Watch (경계 감시소) (Badge)](icons/icon_dept_f5_border_watch_badge.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#8b5cf6" stroke-width="3"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#3b0764" stroke="#8b5cf6" stroke-width="3"/>
+        <circle cx="64" cy="64" r="14" fill="#2e1065" stroke="#a78bfa" stroke-width="2"/>
+        <rect x="60" y="60" width="8" height="8" fill="#ddd6fe"/>
+        <text x="64" y="44" font-family="monospace" font-size="9" font-weight="bold" fill="#ddd6fe" text-anchor="middle">F6</text>
+  <text x="64" y="104" font-family="-apple-system, sans-serif" font-size="8" font-weight="900" fill="#8b5cf6" text-anchor="middle">MARJUK</text>
+</svg></div>
+          <div class="icon-name">Floor 6: The Deep Vault (심층 금고)</div>
+          <div class="icon-file">icons/icon_dept_f6_deep_vault.svg</div>
+          <div class="code-box">![Floor 6: The Deep Vault (심층 금고)](icons/icon_dept_f6_deep_vault.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
+  <rect x="10" y="10" width="108" height="108" rx="10" fill="none" stroke="#8b5cf6" stroke-opacity="0.3" stroke-width="1"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#3b0764" stroke="#8b5cf6" stroke-width="3"/>
+        <circle cx="64" cy="64" r="14" fill="#2e1065" stroke="#a78bfa" stroke-width="2"/>
+        <rect x="60" y="60" width="8" height="8" fill="#ddd6fe"/>
+        <text x="64" y="44" font-family="monospace" font-size="9" font-weight="bold" fill="#ddd6fe" text-anchor="middle">F6</text>
+  <rect x="14" y="98" width="100" height="20" rx="3" fill="#0f172a" stroke="#8b5cf6" stroke-width="1"/>
+  <text x="64" y="111" font-family="-apple-system, sans-serif" font-size="7" font-weight="900" fill="#8b5cf6" text-anchor="middle">MARJUK</text>
+</svg></div>
+          <div class="icon-name">Floor 6: The Deep Vault (심층 금고) (Badge)</div>
+          <div class="icon-file">icons/icon_dept_f6_deep_vault_badge.svg</div>
+          <div class="code-box">![Floor 6: The Deep Vault (심층 금고) (Badge)](icons/icon_dept_f6_deep_vault_badge.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#e11d48" stroke-width="3"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#4c0519" stroke="#e11d48" stroke-width="3"/>
+        <polygon points="64,52 80,74 48,74" fill="#881337" stroke="#fb7185" stroke-width="1.5"/>
+        <circle cx="64" cy="67" r="3" fill="#fecdd3"/>
+        <text x="64" y="44" font-family="monospace" font-size="9" font-weight="bold" fill="#fecdd3" text-anchor="middle">F7</text>
+  <text x="64" y="104" font-family="-apple-system, sans-serif" font-size="8" font-weight="900" fill="#e11d48" text-anchor="middle">ISHALL</text>
+</svg></div>
+          <div class="icon-name">Floor 7: The Shadow Corps (그림자 군단)</div>
+          <div class="icon-file">icons/icon_dept_f7_shadow_corps.svg</div>
+          <div class="code-box">![Floor 7: The Shadow Corps (그림자 군단)](icons/icon_dept_f7_shadow_corps.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
+  <rect x="10" y="10" width="108" height="108" rx="10" fill="none" stroke="#e11d48" stroke-opacity="0.3" stroke-width="1"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#4c0519" stroke="#e11d48" stroke-width="3"/>
+        <polygon points="64,52 80,74 48,74" fill="#881337" stroke="#fb7185" stroke-width="1.5"/>
+        <circle cx="64" cy="67" r="3" fill="#fecdd3"/>
+        <text x="64" y="44" font-family="monospace" font-size="9" font-weight="bold" fill="#fecdd3" text-anchor="middle">F7</text>
+  <rect x="14" y="98" width="100" height="20" rx="3" fill="#0f172a" stroke="#e11d48" stroke-width="1"/>
+  <text x="64" y="111" font-family="-apple-system, sans-serif" font-size="7" font-weight="900" fill="#e11d48" text-anchor="middle">ISHALL</text>
+</svg></div>
+          <div class="icon-name">Floor 7: The Shadow Corps (그림자 군단) (Badge)</div>
+          <div class="icon-file">icons/icon_dept_f7_shadow_corps_badge.svg</div>
+          <div class="code-box">![Floor 7: The Shadow Corps (그림자 군단) (Badge)](icons/icon_dept_f7_shadow_corps_badge.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#94a3b8" stroke-width="3"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#1e293b" stroke="#94a3b8" stroke-width="3"/>
+        <rect x="46" y="52" width="36" height="26" rx="2" fill="#0f172a" stroke="#cbd5e1" stroke-width="1.5"/>
+        <line x1="64" y1="52" x2="64" y2="78" stroke="#cbd5e1" stroke-width="1.5"/>
+        <text x="64" y="44" font-family="monospace" font-size="9" font-weight="bold" fill="#f1f5f9" text-anchor="middle">F8</text>
+  <text x="64" y="104" font-family="-apple-system, sans-serif" font-size="8" font-weight="900" fill="#94a3b8" text-anchor="middle">XYAN</text>
+</svg></div>
+          <div class="icon-name">Floor 8: The Gate Watch (문 감시소)</div>
+          <div class="icon-file">icons/icon_dept_f8_gate_watch.svg</div>
+          <div class="code-box">![Floor 8: The Gate Watch (문 감시소)](icons/icon_dept_f8_gate_watch.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="4" y="4" width="120" height="120" rx="14" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
+  <rect x="10" y="10" width="108" height="108" rx="10" fill="none" stroke="#94a3b8" stroke-opacity="0.3" stroke-width="1"/>
+  <rect x="34" y="32" width="60" height="54" rx="4" fill="#1e293b" stroke="#94a3b8" stroke-width="3"/>
+        <rect x="46" y="52" width="36" height="26" rx="2" fill="#0f172a" stroke="#cbd5e1" stroke-width="1.5"/>
+        <line x1="64" y1="52" x2="64" y2="78" stroke="#cbd5e1" stroke-width="1.5"/>
+        <text x="64" y="44" font-family="monospace" font-size="9" font-weight="bold" fill="#f1f5f9" text-anchor="middle">F8</text>
+  <rect x="14" y="98" width="100" height="20" rx="3" fill="#0f172a" stroke="#94a3b8" stroke-width="1"/>
+  <text x="64" y="111" font-family="-apple-system, sans-serif" font-size="7" font-weight="900" fill="#94a3b8" text-anchor="middle">XYAN</text>
+</svg></div>
+          <div class="icon-name">Floor 8: The Gate Watch (문 감시소) (Badge)</div>
+          <div class="icon-file">icons/icon_dept_f8_gate_watch_badge.svg</div>
+          <div class="code-box">![Floor 8: The Gate Watch (문 감시소) (Badge)](icons/icon_dept_f8_gate_watch_badge.svg)</div>
+        </div>
+        </div><div class="section-title">&#x25C6; CITY ZONES</div><div class="icons-grid">
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#ef4444" stroke-width="2.5"/>
+  <polygon points="64,20 100,42 100,86 64,108 28,86 28,42" fill="#7f1d1d" stroke="#ef4444" stroke-width="2"/>
+  <text x="64" y="73" font-family="-apple-system, sans-serif" font-size="32" font-weight="900" fill="#ffffff" text-anchor="middle">A</text>
+  <rect x="14" y="98" width="100" height="18" rx="3" fill="#0f172a" stroke="#ef4444" stroke-width="1"/>
+  <text x="64" y="110.5" font-family="monospace" font-size="7" font-weight="bold" fill="#ef4444" text-anchor="middle">ALPHA TREE SPIRE</text>
+</svg></div>
+          <div class="icon-name">Zone A: Central Core Nexus (도심)</div>
+          <div class="icon-file">icons/icon_zone_a_core.svg</div>
+          <div class="code-box">![Zone A: Central Core Nexus (도심)](icons/icon_zone_a_core.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#10b981" stroke-width="2.5"/>
+  <polygon points="64,20 100,42 100,86 64,108 28,86 28,42" fill="#064e3b" stroke="#10b981" stroke-width="2"/>
+  <text x="64" y="73" font-family="-apple-system, sans-serif" font-size="32" font-weight="900" fill="#ffffff" text-anchor="middle">B</text>
+  <rect x="14" y="98" width="100" height="18" rx="3" fill="#0f172a" stroke="#10b981" stroke-width="1"/>
+  <text x="64" y="110.5" font-family="monospace" font-size="7" font-weight="bold" fill="#10b981" text-anchor="middle">THE MAW PERIMETER</text>
+</svg></div>
+          <div class="icon-name">Zone B: West Old District (구도심)</div>
+          <div class="icon-file">icons/icon_zone_b_west.svg</div>
+          <div class="code-box">![Zone B: West Old District (구도심)](icons/icon_zone_b_west.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#3b82f6" stroke-width="2.5"/>
+  <polygon points="64,20 100,42 100,86 64,108 28,86 28,42" fill="#1e3a8a" stroke="#3b82f6" stroke-width="2"/>
+  <text x="64" y="73" font-family="-apple-system, sans-serif" font-size="32" font-weight="900" fill="#ffffff" text-anchor="middle">C</text>
+  <rect x="14" y="98" width="100" height="18" rx="3" fill="#0f172a" stroke="#3b82f6" stroke-width="1"/>
+  <text x="64" y="110.5" font-family="monospace" font-size="7" font-weight="bold" fill="#3b82f6" text-anchor="middle">COLLECTOR'S ROW</text>
+</svg></div>
+          <div class="icon-name">Zone C: East Chevron Arc (수탈 구역)</div>
+          <div class="icon-file">icons/icon_zone_c_east.svg</div>
+          <div class="code-box">![Zone C: East Chevron Arc (수탈 구역)](icons/icon_zone_c_east.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#f59e0b" stroke-width="2.5"/>
+  <polygon points="64,20 100,42 100,86 64,108 28,86 28,42" fill="#78350f" stroke="#f59e0b" stroke-width="2"/>
+  <text x="64" y="73" font-family="-apple-system, sans-serif" font-size="32" font-weight="900" fill="#ffffff" text-anchor="middle">D</text>
+  <rect x="14" y="98" width="100" height="18" rx="3" fill="#0f172a" stroke="#f59e0b" stroke-width="1"/>
+  <text x="64" y="110.5" font-family="monospace" font-size="7" font-weight="bold" fill="#f59e0b" text-anchor="middle">FORGE &amp; GARDENS</text>
+</svg></div>
+          <div class="icon-name">Zone D: North & South Flanks (단조로)</div>
+          <div class="icon-file">icons/icon_zone_d_flanks.svg</div>
+          <div class="code-box">![Zone D: North & South Flanks (단조로)](icons/icon_zone_d_flanks.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#a855f7" stroke-width="2.5"/>
+  <polygon points="64,20 100,42 100,86 64,108 28,86 28,42" fill="#3b0764" stroke="#a855f7" stroke-width="2"/>
+  <text x="64" y="73" font-family="-apple-system, sans-serif" font-size="32" font-weight="900" fill="#ffffff" text-anchor="middle">E</text>
+  <rect x="14" y="98" width="100" height="18" rx="3" fill="#0f172a" stroke="#a855f7" stroke-width="1"/>
+  <text x="64" y="110.5" font-family="monospace" font-size="7" font-weight="bold" fill="#a855f7" text-anchor="middle">THE THRESHOLD</text>
+</svg></div>
+          <div class="icon-name">Zone E: Perimeter Bulwark (경계선)</div>
+          <div class="icon-file">icons/icon_zone_e_bulwark.svg</div>
+          <div class="code-box">![Zone E: Perimeter Bulwark (경계선)](icons/icon_zone_e_bulwark.svg)</div>
+        </div>
+        </div><div class="section-title">&#x25C6; THE THREE SORROWS</div><div class="icons-grid">
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#ef4444" stroke-width="3"/>
+  <circle cx="64" cy="64" r="44" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="64" y="70" font-family="'Apple SD Gothic Neo', sans-serif" font-size="24" font-weight="900" fill="#ffffff" text-anchor="middle">도한</text>
+  <text x="64" y="94" font-family="monospace" font-size="7.5" font-weight="bold" fill="#ef4444" text-anchor="middle">SORROW</text>
+</svg></div>
+          <div class="icon-name">City Sorrow (도한 — Dohan)</div>
+          <div class="icon-file">icons/icon_sorrow_dohan_city.svg</div>
+          <div class="code-box">![City Sorrow (도한 — Dohan)](icons/icon_sorrow_dohan_city.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#a855f7" stroke-width="3"/>
+  <circle cx="64" cy="64" r="44" fill="#3b0764" stroke="#a855f7" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="64" y="70" font-family="'Apple SD Gothic Neo', sans-serif" font-size="24" font-weight="900" fill="#ffffff" text-anchor="middle">외한</text>
+  <text x="64" y="94" font-family="monospace" font-size="7.5" font-weight="bold" fill="#a855f7" text-anchor="middle">SORROW</text>
+</svg></div>
+          <div class="icon-name">Outside Sorrow (외한 — Oehan)</div>
+          <div class="icon-file">icons/icon_sorrow_oehan_outside.svg</div>
+          <div class="code-box">![Outside Sorrow (외한 — Oehan)](icons/icon_sorrow_oehan_outside.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#0b0f19" stroke="#3b82f6" stroke-width="3"/>
+  <circle cx="64" cy="64" r="44" fill="#1e3a8a" stroke="#3b82f6" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <text x="64" y="70" font-family="'Apple SD Gothic Neo', sans-serif" font-size="24" font-weight="900" fill="#ffffff" text-anchor="middle">내한</text>
+  <text x="64" y="94" font-family="monospace" font-size="7.5" font-weight="bold" fill="#3b82f6" text-anchor="middle">SORROW</text>
+</svg></div>
+          <div class="icon-name">Inner Sorrow (내한 — Naehan)</div>
+          <div class="icon-file">icons/icon_sorrow_naehan_inner.svg</div>
+          <div class="code-box">![Inner Sorrow (내한 — Naehan)](icons/icon_sorrow_naehan_inner.svg)</div>
+        </div>
+        </div><div class="section-title">&#x25C6; ENTITY THREAT RANKS</div><div class="icons-grid">
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#10b981" stroke-width="2.5"/>
+  <circle cx="64" cy="52" r="32" fill="#064e3b" stroke="#10b981" stroke-width="2"/>
+  <text x="64" y="62" font-family="-apple-system, sans-serif" font-size="24" font-weight="900" fill="#ffffff" text-anchor="middle">I</text>
+  <rect x="14" y="96" width="100" height="20" rx="3" fill="#0f172a" stroke="#10b981" stroke-width="1.2"/>
+  <text x="64" y="109.5" font-family="monospace" font-size="8" font-weight="900" fill="#10b981" text-anchor="middle">WHISPER</text>
+</svg></div>
+          <div class="icon-name">Rank I: Whisper (속삭임)</div>
+          <div class="icon-file">icons/icon_rank_1_whisper.svg</div>
+          <div class="code-box">![Rank I: Whisper (속삭임)](icons/icon_rank_1_whisper.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#0284c7" stroke-width="2.5"/>
+  <circle cx="64" cy="52" r="32" fill="#0c4a6e" stroke="#0284c7" stroke-width="2"/>
+  <text x="64" y="62" font-family="-apple-system, sans-serif" font-size="24" font-weight="900" fill="#ffffff" text-anchor="middle">II</text>
+  <rect x="14" y="96" width="100" height="20" rx="3" fill="#0f172a" stroke="#0284c7" stroke-width="1.2"/>
+  <text x="64" y="109.5" font-family="monospace" font-size="8" font-weight="900" fill="#0284c7" text-anchor="middle">MURMUR</text>
+</svg></div>
+          <div class="icon-name">Rank II: Murmur (중얼거림)</div>
+          <div class="icon-file">icons/icon_rank_2_murmur.svg</div>
+          <div class="code-box">![Rank II: Murmur (중얼거림)](icons/icon_rank_2_murmur.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#f59e0b" stroke-width="2.5"/>
+  <circle cx="64" cy="52" r="32" fill="#78350f" stroke="#f59e0b" stroke-width="2"/>
+  <text x="64" y="62" font-family="-apple-system, sans-serif" font-size="24" font-weight="900" fill="#ffffff" text-anchor="middle">III</text>
+  <rect x="14" y="96" width="100" height="20" rx="3" fill="#0f172a" stroke="#f59e0b" stroke-width="1.2"/>
+  <text x="64" y="109.5" font-family="monospace" font-size="8" font-weight="900" fill="#f59e0b" text-anchor="middle">FRAGMENT</text>
+</svg></div>
+          <div class="icon-name">Rank III: Fragment (파편)</div>
+          <div class="icon-file">icons/icon_rank_3_fragment.svg</div>
+          <div class="code-box">![Rank III: Fragment (파편)](icons/icon_rank_3_fragment.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#e11d48" stroke-width="2.5"/>
+  <circle cx="64" cy="52" r="32" fill="#4c0519" stroke="#e11d48" stroke-width="2"/>
+  <text x="64" y="62" font-family="-apple-system, sans-serif" font-size="24" font-weight="900" fill="#ffffff" text-anchor="middle">IV</text>
+  <rect x="14" y="96" width="100" height="20" rx="3" fill="#0f172a" stroke="#e11d48" stroke-width="1.2"/>
+  <text x="64" y="109.5" font-family="monospace" font-size="8" font-weight="900" fill="#e11d48" text-anchor="middle">ENTITY</text>
+</svg></div>
+          <div class="icon-name">Rank IV: Entity (존재)</div>
+          <div class="icon-file">icons/icon_rank_4_entity.svg</div>
+          <div class="code-box">![Rank IV: Entity (존재)](icons/icon_rank_4_entity.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <rect x="6" y="6" width="116" height="116" rx="14" fill="#080c14" stroke="#ef4444" stroke-width="2.5"/>
+  <circle cx="64" cy="52" r="32" fill="#7f1d1d" stroke="#ef4444" stroke-width="2"/>
+  <text x="64" y="62" font-family="-apple-system, sans-serif" font-size="24" font-weight="900" fill="#ffffff" text-anchor="middle">V</text>
+  <rect x="14" y="96" width="100" height="20" rx="3" fill="#0f172a" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="64" y="109.5" font-family="monospace" font-size="8" font-weight="900" fill="#ef4444" text-anchor="middle">SOVEREIGN</text>
+</svg></div>
+          <div class="icon-name">Rank V: Sovereign (군주)</div>
+          <div class="icon-file">icons/icon_rank_5_sovereign.svg</div>
+          <div class="code-box">![Rank V: Sovereign (군주)](icons/icon_rank_5_sovereign.svg)</div>
+        </div>
+        </div><div class="section-title">&#x25C6; HAN DAMAGE SIGNATURES</div><div class="icons-grid">
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <polygon points="64,8 118,64 64,120 10,64" fill="#0a0e17" stroke="#ef4444" stroke-width="3"/>
+  <polygon points="64,24 102,64 64,104 26,64" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="64" y="62" font-family="'Apple SD Gothic Neo', sans-serif" font-size="16" font-weight="900" fill="#ffffff" text-anchor="middle">원한</text>
+  <text x="64" y="78" font-family="monospace" font-size="8" font-weight="bold" fill="#ef4444" text-anchor="middle">GRUDGE</text>
+</svg></div>
+          <div class="icon-name">Grudge (원한) — Crimson</div>
+          <div class="icon-file">icons/icon_damage_grudge.svg</div>
+          <div class="code-box">![Grudge (원한) — Crimson](icons/icon_damage_grudge.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <polygon points="64,8 118,64 64,120 10,64" fill="#0a0e17" stroke="#3b82f6" stroke-width="3"/>
+  <polygon points="64,24 102,64 64,104 26,64" fill="#1e3a8a" stroke="#3b82f6" stroke-width="1.5"/>
+  <text x="64" y="62" font-family="'Apple SD Gothic Neo', sans-serif" font-size="16" font-weight="900" fill="#ffffff" text-anchor="middle">비탄</text>
+  <text x="64" y="78" font-family="monospace" font-size="8" font-weight="bold" fill="#3b82f6" text-anchor="middle">LAMENT</text>
+</svg></div>
+          <div class="icon-name">Lament (비탄) — Deep Blue</div>
+          <div class="icon-file">icons/icon_damage_lament.svg</div>
+          <div class="code-box">![Lament (비탄) — Deep Blue](icons/icon_damage_lament.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <polygon points="64,8 118,64 64,120 10,64" fill="#0a0e17" stroke="#a855f7" stroke-width="3"/>
+  <polygon points="64,24 102,64 64,104 26,64" fill="#3b0764" stroke="#a855f7" stroke-width="1.5"/>
+  <text x="64" y="62" font-family="'Apple SD Gothic Neo', sans-serif" font-size="16" font-weight="900" fill="#ffffff" text-anchor="middle">중압</text>
+  <text x="64" y="78" font-family="monospace" font-size="8" font-weight="bold" fill="#a855f7" text-anchor="middle">WEIGHT</text>
+</svg></div>
+          <div class="icon-name">Weight (중압) — Obsidian</div>
+          <div class="icon-file">icons/icon_damage_weight.svg</div>
+          <div class="code-box">![Weight (중압) — Obsidian](icons/icon_damage_weight.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <polygon points="64,8 118,64 64,120 10,64" fill="#0a0e17" stroke="#94a3b8" stroke-width="3"/>
+  <polygon points="64,24 102,64 64,104 26,64" fill="#1e293b" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="64" y="62" font-family="'Apple SD Gothic Neo', sans-serif" font-size="16" font-weight="900" fill="#ffffff" text-anchor="middle">공허</text>
+  <text x="64" y="78" font-family="monospace" font-size="8" font-weight="bold" fill="#94a3b8" text-anchor="middle">VOID</text>
+</svg></div>
+          <div class="icon-name">Void (공허) — Pale White</div>
+          <div class="icon-file">icons/icon_damage_void.svg</div>
+          <div class="code-box">![Void (공허) — Pale White](icons/icon_damage_void.svg)</div>
+        </div>
+        </div><div class="section-title">&#x25C6; M.A.W. EQUIPMENT GRADES</div><div class="icons-grid">
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#080c14" stroke="#10b981" stroke-width="3"/>
+  <rect x="28" y="28" width="72" height="72" rx="8" fill="#064e3b" stroke="#10b981" stroke-width="2"/>
+  <text x="64" y="74" font-family="-apple-system, sans-serif" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">α</text>
+  <rect x="16" y="98" width="96" height="18" rx="3" fill="#0f172a" stroke="#10b981" stroke-width="1"/>
+  <text x="64" y="110.5" font-family="monospace" font-size="7.5" font-weight="bold" fill="#10b981" text-anchor="middle">GRADE-ALPHA</text>
+</svg></div>
+          <div class="icon-name">Grade-α (Alpha)</div>
+          <div class="icon-file">icons/icon_maw_grade_alpha.svg</div>
+          <div class="code-box">![Grade-α (Alpha)](icons/icon_maw_grade_alpha.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#080c14" stroke="#0284c7" stroke-width="3"/>
+  <rect x="28" y="28" width="72" height="72" rx="8" fill="#0c4a6e" stroke="#0284c7" stroke-width="2"/>
+  <text x="64" y="74" font-family="-apple-system, sans-serif" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">β</text>
+  <rect x="16" y="98" width="96" height="18" rx="3" fill="#0f172a" stroke="#0284c7" stroke-width="1"/>
+  <text x="64" y="110.5" font-family="monospace" font-size="7.5" font-weight="bold" fill="#0284c7" text-anchor="middle">GRADE-BETA</text>
+</svg></div>
+          <div class="icon-name">Grade-β (Beta)</div>
+          <div class="icon-file">icons/icon_maw_grade_beta.svg</div>
+          <div class="code-box">![Grade-β (Beta)](icons/icon_maw_grade_beta.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#080c14" stroke="#f59e0b" stroke-width="3"/>
+  <rect x="28" y="28" width="72" height="72" rx="8" fill="#78350f" stroke="#f59e0b" stroke-width="2"/>
+  <text x="64" y="74" font-family="-apple-system, sans-serif" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">γ</text>
+  <rect x="16" y="98" width="96" height="18" rx="3" fill="#0f172a" stroke="#f59e0b" stroke-width="1"/>
+  <text x="64" y="110.5" font-family="monospace" font-size="7.5" font-weight="bold" fill="#f59e0b" text-anchor="middle">GRADE-GAMMA</text>
+</svg></div>
+          <div class="icon-name">Grade-γ (Gamma)</div>
+          <div class="icon-file">icons/icon_maw_grade_gamma.svg</div>
+          <div class="code-box">![Grade-γ (Gamma)](icons/icon_maw_grade_gamma.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#080c14" stroke="#8b5cf6" stroke-width="3"/>
+  <rect x="28" y="28" width="72" height="72" rx="8" fill="#3b0764" stroke="#8b5cf6" stroke-width="2"/>
+  <text x="64" y="74" font-family="-apple-system, sans-serif" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">δ</text>
+  <rect x="16" y="98" width="96" height="18" rx="3" fill="#0f172a" stroke="#8b5cf6" stroke-width="1"/>
+  <text x="64" y="110.5" font-family="monospace" font-size="7.5" font-weight="bold" fill="#8b5cf6" text-anchor="middle">GRADE-DELTA</text>
+</svg></div>
+          <div class="icon-name">Grade-δ (Delta)</div>
+          <div class="icon-file">icons/icon_maw_grade_delta.svg</div>
+          <div class="code-box">![Grade-δ (Delta)](icons/icon_maw_grade_delta.svg)</div>
+        </div>
+
+        <div class="icon-card">
+          <div class="icon-preview"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <circle cx="64" cy="64" r="56" fill="#080c14" stroke="#ef4444" stroke-width="3"/>
+  <rect x="28" y="28" width="72" height="72" rx="8" fill="#7f1d1d" stroke="#ef4444" stroke-width="2"/>
+  <text x="64" y="74" font-family="-apple-system, sans-serif" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">ω</text>
+  <rect x="16" y="98" width="96" height="18" rx="3" fill="#0f172a" stroke="#ef4444" stroke-width="1"/>
+  <text x="64" y="110.5" font-family="monospace" font-size="7.5" font-weight="bold" fill="#ef4444" text-anchor="middle">GRADE-OMEGA</text>
+</svg></div>
+          <div class="icon-name">Grade-ω (Omega)</div>
+          <div class="icon-file">icons/icon_maw_grade_omega.svg</div>
+          <div class="code-box">![Grade-ω (Omega)](icons/icon_maw_grade_omega.svg)</div>
+        </div>
+        </div>
+  </div>
+<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  <div class="footer-signal" aria-hidden="true">
+    <span>RD://PUBLIC-NET</span><i></i>
+    <span>SECC LINK STABLE</span><i></i>
+    <span>FACILITY 01 // GATE WATCH</span><i></i>
+    <span>PUBLICATION GATES PASSING</span>
+  </div>
+
+  <div class="footer-hero">
+    <section class="footer-identity" aria-label="Somnarak Wiki">
+      <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
+      <a class="footer-brand" href="../../index.html">
+        <span class="footer-emblem"><img src="../../assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
+      </a>
+      <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
+      <p>The public record follows Somnarak from the Alpha Tree and five city zones into Facility 01, where witnessed canon is curated without replacing absence with invention.</p>
+      <div class="footer-badges" aria-label="Archive classification">
+        <span>FACILITY 01</span><span>DIRECTORATE</span><span>PUBLIC CODEX</span>
+      </div>
+    </section>
+
+    <figure class="footer-network">
+      <div class="footer-network-frame">
+        <img src="../../assets/layout/footer-directorate-network.svg" alt="Directorate archive topology linking the Alpha Tree, five city zones, Facility 01, Gate Watch, and eight public archive gateways"/>
+        <span class="footer-network-scan" aria-hidden="true"></span>
+      </div>
+      <figcaption><span>Live archive topology</span><b>ALPHA TREE → FACILITY 01 → PUBLIC CODEX</b></figcaption>
+    </figure>
+
+    <section class="footer-status" aria-label="Current archive status">
+      <span>Verified repository snapshot</span>
+      <strong>1.8.31</strong>
+      <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
+      <dl>
+        <div><dt>Public records</dt><dd>197 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
+        <div><dt>Cycle state</dt><dd>ENDED</dd></div>
+        <div><dt>Gate command</dt><dd>XYAN</dd></div>
+      </dl>
+    </section>
+  </div>
+
+  <div class="footer-directory">
+    <section class="footer-archives" aria-labelledby="footer-archives-title">
+      <header><span>Primary collections</span><h2 id="footer-archives-title">Eight Archive Gateways</h2><p>Continue through the complete public taxonomy.</p></header>
+      <div>
+        <a href="../../characters/index.html" data-footer-archive="01" style="--gateway:#ef5b55"><span>01</span><b>Echo-Cores</b><small>Characters</small></a>
+        <a href="../../lore/index.html" data-footer-archive="02" style="--gateway:#a78bfa"><span>02</span><b>Cycle Archive</b><small>Lore</small></a>
+        <a href="../../locations/index.html" data-footer-archive="03" style="--gateway:#38bdf8"><span>03</span><b>City Atlas</b><small>Locations</small></a>
+        <a href="../../factions/index.html" data-footer-archive="04" style="--gateway:#f59e0b"><span>04</span><b>Orders</b><small>Factions</small></a>
+        <a href="../../departments/index.html" data-footer-archive="05" style="--gateway:#71efaf"><span>05</span><b>Hand of Change</b><small>Facility</small></a>
+        <a href="../../entities/index.html" data-footer-archive="06" style="--gateway:#fb7185"><span>06</span><b>SECC Registry</b><small>Entities</small></a>
+        <a href="../../maw/index.html" data-footer-archive="07" style="--gateway:#f1df76"><span>07</span><b>M.A.W. Arsenal</b><small>Equipment</small></a>
+        <a href="../../mechanics/index.html" data-footer-archive="08" style="--gateway:#60a5fa"><span>08</span><b>Systems Codex</b><small>Mechanics</small></a>
+      </div>
+    </section>
+
+    <nav class="footer-links" aria-label="Archive resources">
+      <header><span>Project access</span><h2>Archive Resources</h2><p>Inspect provenance, files, and visual infrastructure.</p></header>
+      <div>
+        <a href="../../project/source-map.html" data-footer-link="R-01"><b>Source Map</b><small>Canon provenance</small></a>
+        <a href="../../downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
+        <a href="../../assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
+        <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+      </div>
+    </nav>
+  </div>
+
+  <section class="footer-register" aria-label="Publication register">
+    <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
+    <dl>
+      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+    </dl>
+    <div class="footer-protocols">
+      <span><b>01</b> SOURCE-LED CONTENT</span>
+      <span><b>02</b> DISTINCT VISUAL FORM</span>
+      <span><b>03</b> NO RECOLOR-ONLY ART</span>
+      <span><b>04</b> VERIFIED LOCAL ROUTES</span>
+    </div>
+  </section>
+
+  <div class="footer-base">
+    <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
+    <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+  </div>
+</footer>
+</body>
+</html>

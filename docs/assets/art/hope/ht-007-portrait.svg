@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="VIGIL">
+  <rect width="500" height="500" fill="#05070c"/>
+  <rect x="18" y="18" width="464" height="464" fill="none" stroke="#eab308" stroke-width="3"/>
+  
+  <rect x="235" y="120" width="30" height="220" fill="#1c1917" stroke="#f1df76" stroke-width="3"/>
+  <polygon points="250,70 310,140 190,140" fill="#f1df76"/>
+  <circle cx="250" cy="108" r="10" fill="#ef5b55"/>
+  <line x1="160" y1="340" x2="340" y2="340" stroke="#f1df76" stroke-width="6"/>
+
+  <text x="250" y="460" text-anchor="middle" fill="#eab308" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="4">VIGIL</text>
+</svg>

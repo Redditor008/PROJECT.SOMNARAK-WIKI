@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="THE SILENT VIGIL  —  A LAMP THAT DOES NOT SPEAK">
+  <defs>
+    <linearGradient id="bght007" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="fadeht007" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eab308" stop-opacity="0"/>
+      <stop offset="1" stop-color="#eab308" stop-opacity=".28"/>
+    </linearGradient>
+    <filter id="glowht007" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bght007)"/>
+  <rect width="1400" height="280" fill="url(#fadeht007)"/>
+  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#eab308" stroke-width="2.4"/>
+  <line x1="24" y1="24" x2="1376" y2="24" stroke="#eab308" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  <line x1="24" y1="256" x2="1376" y2="256" stroke="#eab308" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  
+  <rect x="1188" y="18" width="194" height="28" fill="#000" opacity=".55" stroke="#eab308" stroke-width="1"/>
+  <text x="1285" y="37" text-anchor="middle" fill="#eab308" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="3">HT-007</text>
+  <g filter="url(#glowht007)">
+  
+  <rect x="660" y="36" width="80" height="170" fill="#1c1917" stroke="#f1df76" stroke-width="3"/>
+  <polygon points="700,16 780,70 620,70" fill="#f1df76"/>
+  <circle cx="700" cy="52" r="10" fill="#ef5b55"/>
+  <line x1="560" y1="206" x2="840" y2="206" stroke="#f1df76" stroke-width="8"/>
+  <path fill="#020617" d="M0 176 L80 176 L80 150 L140 150 L140 176 L220 176 L220 140 L280 140 L280 176 L400 176 L400 158 L500 158 L500 176 L1400 176 L1400 226 L0 226 Z" opacity=".85"/>
+  <rect x="120" y="70" width="220" height="70" fill="#020617" opacity=".5" stroke="#eab308"/>
+  <text x="230" y="112" text-anchor="middle" fill="#eab308" font-family="Impact" font-size="16" letter-spacing="4">VIGIL</text>
+    
+  </g>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="246" fill="#eab308" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">HT-007  ·  침묵의 경계  ·  NIGHT WATCH</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">THE SILENT VIGIL  —  A LAMP THAT DOES NOT SPEAK</text>
+</svg>

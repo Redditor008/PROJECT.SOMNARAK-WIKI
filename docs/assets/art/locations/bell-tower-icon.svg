@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Orphan Bell Tower — bronze bell, no ringer">
+  <rect width="400" height="400" fill="#05070c"/>
+  <rect x="18" y="18" width="364" height="364" fill="none" stroke="#38bdf8" stroke-width="8"/>
+  
+  <path d="M140 80 H260 L240 140 H160 Z" fill="#1c1917" stroke="#38bdf8" stroke-width="5"/>
+  <rect x="168" y="140" width="64" height="140" fill="#0b1220" stroke="#38bdf8" stroke-width="5"/>
+  <path d="M150 200 C150 160 250 160 250 200 L240 250 H160 Z" fill="#b45309" stroke="#f1df76" stroke-width="5"/>
+  <circle cx="200" cy="255" r="10" fill="#f1df76"/>
+
+  <rect x="18" y="18" width="250" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.4">ATLAS  ·  BELL TOWER</text>
+</svg>

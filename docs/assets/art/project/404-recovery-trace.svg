@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Signal Lost archival recovery map</title>
+  <desc id="desc">A broken request signal reaches a fractured 404 gate, then separates into registry-code, archive-gateway, and canon-status traces while an unrecoverable route fades beyond Gate 5.</desc>
+  <defs>
+    <linearGradient id="void-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#03050a"/>
+      <stop offset="0.58" stop-color="#0b101a"/>
+      <stop offset="1" stop-color="#180812"/>
+    </linearGradient>
+    <linearGradient id="trace" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8d2e42"/>
+      <stop offset="0.42" stop-color="#ef7085"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <radialGradient id="breach" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#8d2e42" stop-opacity="0.48"/>
+      <stop offset="0.55" stop-color="#30101d" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#03050a" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#203247" stroke-width="1" opacity="0.34"/>
+    </pattern>
+    <filter id="soft-glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="8" fill="url(#void-bg)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="8" fill="url(#grid)" stroke="#8d2e42" stroke-width="2"/>
+  <path d="M18 44H360L382 22H690" fill="none" stroke="#38bdf8" stroke-width="2" opacity="0.55"/>
+  <text x="24" y="31" fill="#8aa3b9" font-family="monospace" font-size="12" letter-spacing="2">ARCHIVE ROUTE DIAGNOSTIC // YEAR 4,238</text>
+  <text x="1176" y="31" text-anchor="end" fill="#ef7085" font-family="monospace" font-size="12" letter-spacing="2">RESIDUAL VOID / 404</text>
+
+  <!-- The unresolved request enters as a clipped record card. -->
+  <g transform="translate(40 108)">
+    <path d="M0 0H205L232 27V126H0Z" fill="#0b111b" stroke="#7890a6" stroke-width="2"/>
+    <path d="M205 0V27H232" fill="none" stroke="#7890a6" stroke-width="2"/>
+    <rect x="17" y="18" width="64" height="18" fill="#8d2e42"/>
+    <text x="49" y="31" text-anchor="middle" fill="#fff0f2" font-family="monospace" font-size="10" font-weight="bold">REQUEST</text>
+    <path d="M18 56H182M18 72H150M18 88H194" stroke="#52677a" stroke-width="5"/>
+    <path d="M18 106H92" stroke="#38bdf8" stroke-width="3" stroke-dasharray="7 5"/>
+    <text x="218" y="116" text-anchor="end" fill="#94a3b8" font-family="monospace" font-size="9">ROUTE / UNKNOWN</text>
+  </g>
+
+  <!-- A broken gate marks the vanished URL rather than vanished canon. -->
+  <circle cx="393" cy="174" r="112" fill="url(#breach)"/>
+  <path d="M345 94A94 94 0 0 1 435 87M465 102A94 94 0 0 1 482 143M486 179A94 94 0 0 1 447 245M419 263A94 94 0 0 1 346 252M316 228A94 94 0 0 1 301 187M302 150A94 94 0 0 1 324 112" fill="none" stroke="url(#trace)" stroke-width="7" stroke-linecap="square" filter="url(#soft-glow)"/>
+  <path d="M376 110L398 148L380 171L409 198L390 238" fill="none" stroke="#ef7085" stroke-width="4"/>
+  <path d="M353 144L377 156M409 198L439 211M398 148L426 131" stroke="#ef7085" stroke-width="2"/>
+  <text x="393" y="173" text-anchor="middle" fill="#f1df76" font-family="Impact, Arial Narrow, sans-serif" font-size="52" letter-spacing="5">404</text>
+  <text x="393" y="198" text-anchor="middle" fill="#9ddff8" font-family="monospace" font-size="10" letter-spacing="3">ADDRESS FRACTURED</text>
+  <path d="M272 171H294" stroke="#ef7085" stroke-width="5" stroke-dasharray="8 8"/>
+
+  <!-- Three recovery traces emerge with different symbolic outcomes. -->
+  <g fill="none" stroke="#38bdf8" stroke-width="2">
+    <path d="M482 136C545 136 548 83 616 83H690"/>
+    <path d="M487 174H770"/>
+    <path d="M468 224C548 224 548 278 626 278H700"/>
+  </g>
+  <g fill="#38bdf8">
+    <circle cx="616" cy="83" r="5"/><circle cx="770" cy="174" r="5"/><circle cx="626" cy="278" r="5"/>
+  </g>
+
+  <g transform="translate(690 52)">
+    <path d="M0 0H244V68H0L-12 34Z" fill="#07141d" stroke="#38bdf8" stroke-width="2"/>
+    <text x="15" y="18" fill="#71efaf" font-family="monospace" font-size="9" letter-spacing="2">TRACE 01 / DURABLE KEY</text>
+    <text x="15" y="40" fill="#edf7ff" font-family="Impact, Arial Narrow, sans-serif" font-size="18" letter-spacing="1">REGISTRY CODE</text>
+    <g font-family="monospace" font-size="9" fill="#f1df76">
+      <text x="16" y="58">SE-001</text><text x="86" y="58">CORE-06</text><text x="159" y="58">MAW-W-010-01</text>
+    </g>
+  </g>
+
+  <g transform="translate(770 135)">
+    <path d="M0 0H338V78H0L14 39Z" fill="#0a111b" stroke="#f1df76" stroke-width="2"/>
+    <path d="M23 17H58V61H23ZM31 25H50V61" fill="none" stroke="#f1df76" stroke-width="3"/>
+    <path d="M69 23H93V55H69" fill="none" stroke="#38bdf8" stroke-width="2"/>
+    <text x="112" y="22" fill="#38bdf8" font-family="monospace" font-size="9" letter-spacing="2">TRACE 02 / NESTED PLACEMENT</text>
+    <text x="112" y="47" fill="#fff4c5" font-family="Impact, Arial Narrow, sans-serif" font-size="19" letter-spacing="1">RETURN TO THE ARCHIVE GATE</text>
+    <text x="112" y="65" fill="#94a3b8" font-family="monospace" font-size="9">ENTITY / PERSONNEL / FACILITY / CYCLE</text>
+  </g>
+
+  <g transform="translate(700 246)">
+    <path d="M0 0H281L299 32L281 64H0Z" fill="#120b13" stroke="#ef7085" stroke-width="2" stroke-dasharray="8 4"/>
+    <path d="M22 13L41 32L22 51L3 32Z" fill="#8d2e42" stroke="#ef7085" stroke-width="2"/>
+    <path d="M13 32H31M22 23V41" stroke="#fff0f2" stroke-width="2"/>
+    <text x="56" y="20" fill="#ef9aaa" font-family="monospace" font-size="9" letter-spacing="2">TRACE 03 / CANON BOUNDARY</text>
+    <text x="56" y="43" fill="#f4e7ed" font-family="Impact, Arial Narrow, sans-serif" font-size="18" letter-spacing="1">ABSENT ≠ UNPUBLISHED</text>
+    <text x="56" y="56" fill="#9d8991" font-family="monospace" font-size="8">DO NOT INVENT THE MISSING RECORD</text>
+  </g>
+
+  <!-- The truly lost route continues past Gate 5 and dissolves. -->
+  <path d="M998 278H1155" fill="none" stroke="#8d2e42" stroke-width="3" stroke-dasharray="14 10" opacity="0.72"/>
+  <path d="M1084 250V306M1096 256V300" stroke="#ef7085" stroke-width="2" opacity="0.55"/>
+  <text x="1090" y="242" text-anchor="middle" fill="#ef7085" font-family="monospace" font-size="9" letter-spacing="2">GATE 5</text>
+  <text x="1168" y="298" text-anchor="end" fill="#6e4855" font-family="monospace" font-size="9">BEYOND THE VEIL</text>
+
+  <path d="M20 333H1180" stroke="#26394d"/>
+  <text x="24" y="349" fill="#7890a6" font-family="monospace" font-size="9" letter-spacing="2">FOLLOW THE SUBJECT, NOT THE VANISHED ADDRESS</text>
+  <text x="1176" y="349" text-anchor="end" fill="#f1df76" font-family="monospace" font-size="9">DEEP VAULT INDEX // RECOVERY MAP 03</text>
+</svg>

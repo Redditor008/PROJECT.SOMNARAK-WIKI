@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="THE REPEATED SURVIVOR  —  FOOTPRINTS THAT STACK">
+  <defs>
+    <linearGradient id="bgu902" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#041016"/>
+      <stop offset="1" stop-color="#0b1020"/>
+    </linearGradient>
+    <linearGradient id="fadeu902" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#71efaf" stop-opacity="0"/>
+      <stop offset="1" stop-color="#71efaf" stop-opacity=".28"/>
+    </linearGradient>
+    <filter id="glowu902" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1400" height="280" fill="url(#bgu902)"/>
+  <rect width="1400" height="280" fill="url(#fadeu902)"/>
+  <polygon points="8,8 1392,8 1392,272 8,272" fill="none" stroke="#71efaf" stroke-width="2.4"/>
+  <line x1="24" y1="24" x2="1376" y2="24" stroke="#71efaf" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  <line x1="24" y1="256" x2="1376" y2="256" stroke="#71efaf" stroke-width="1" stroke-dasharray="10 6" opacity=".4"/>
+  
+  <rect x="1188" y="18" width="194" height="28" fill="#000" opacity=".55" stroke="#71efaf" stroke-width="1"/>
+  <text x="1285" y="37" text-anchor="middle" fill="#71efaf" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="3">UNK-902</text>
+  <g filter="url(#glowu902)">
+  
+  <path d="M120 180 C280 60 480 60 700 140 C920 220 1120 220 1280 100" fill="none" stroke="#71efaf" stroke-width="4"/>
+  <path d="M120 180 C280 60 480 60 700 140 C920 220 1120 220 1280 100" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="8 8" opacity=".7"/>
+  <polygon points="1280,100 1260,88 1260,112" fill="#71efaf"/>
+  <g fill="#f1df76">
+    <circle cx="220" cy="150" r="5"/><circle cx="400" cy="90" r="5"/>
+    <circle cx="700" cy="140" r="6"/><circle cx="980" cy="190" r="5"/>
+    <circle cx="1160" cy="140" r="5"/>
+  </g>
+  <text x="200" y="70" fill="#71efaf" font-family="Impact" font-size="18" letter-spacing="4">I</text>
+  <text x="480" y="50" fill="#71efaf" font-family="Impact" font-size="18" letter-spacing="4">II</text>
+  <text x="760" y="70" fill="#71efaf" font-family="Impact" font-size="18" letter-spacing="4">III</text>
+  <text x="1040" y="210" fill="#71efaf" font-family="Impact" font-size="18" letter-spacing="4">N</text>
+  <rect x="560" y="48" width="280" height="36" fill="#000" opacity=".4" stroke="#71efaf"/>
+  <text x="700" y="72" text-anchor="middle" fill="#a7f3d0" font-family="Impact" font-size="13" letter-spacing="3">LOOP COUNTER: —</text>
+    
+  </g>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="246" fill="#71efaf" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">UNK-902  ·  되풀이의 생존자  ·  LOOP</text>
+  <text x="32" y="268" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">THE REPEATED SURVIVOR  —  FOOTPRINTS THAT STACK</text>
+</svg>

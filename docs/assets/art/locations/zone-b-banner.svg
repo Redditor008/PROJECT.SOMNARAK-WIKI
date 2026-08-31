@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Zone B west and Maw pit">
+  <rect width="1400" height="280" fill="#070410"/>
+  <path d="M40 140 L280 40 L280 240 Z" fill="#14532d" stroke="#22c55e" stroke-width="8"/>
+  <ellipse cx="160" cy="150" rx="70" ry="48" fill="#022c22" stroke="#ef5b55" stroke-width="6"/>
+  <path d="M120 140 Q160 110 200 148 Q170 190 130 170" fill="#111"/>
+  <text x="360" y="90" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="28">THE PAST</text>
+  <text x="360" y="124" fill="#94a3b8" font-family="Arial" font-size="16">West green. First settlement. Old Lament. Cheongula ground.</text>
+  <text x="360" y="152" fill="#64748b" font-family="Arial" font-size="15">The Maw is an irregular pit in B, not a cell in the Hand and not a crater in A.</text>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="248" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FROM THE CITY MAP</text>
+  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2">ZONE B  —  OLD WARD AND THE MAW</text>
+</svg>

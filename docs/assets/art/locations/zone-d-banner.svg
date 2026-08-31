@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Zone D two orange flanks">
+  <rect width="1400" height="280" fill="#070410"/>
+  <path d="M60 90 L240 30 L420 90 L240 150 Z" fill="#9a3412" stroke="#f59e0b" stroke-width="7"/>
+  <path d="M60 190 L240 250 L420 190 L240 130 Z" fill="#9a3412" stroke="#f59e0b" stroke-width="7"/>
+  <path d="M210 70 L240 40 L270 70 L255 100 L225 100 Z" fill="#7c2d12" stroke="#f1df76" stroke-width="4"/>
+  <path d="M240 175 L210 220 M240 175 L270 220 M240 155 V175" stroke="#71efaf" stroke-width="5"/>
+  <text x="480" y="90" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="28">TWO ORANGE FLANKS</text>
+  <text x="480" y="124" fill="#94a3b8" font-family="Arial" font-size="16">North heats what the city will wear. South grows what it cannot bury.</text>
+  <text x="480" y="152" fill="#64748b" font-family="Arial" font-size="15">Hollow Glass is a tavern here. Not tenements. Not north commerce.</text>
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
+  <text x="32" y="248" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">FROM THE CITY MAP</text>
+  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2">ZONE D  —  FORGE FLANK AND ECHO GARDENS</text>
+</svg>
