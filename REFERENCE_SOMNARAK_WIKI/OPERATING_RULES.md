@@ -27,6 +27,22 @@ arena/01a04eea-…  0d89b5bf   4,023 files   root: + .nojekyll  index.html  docs
 
 Do not publish or report completion until the page and visual checklist in that document passes.
 
+## RULE 0A — The public Pages URL is the owner’s acceptance surface.
+
+`LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md` is binding. The project owner checks every update at:
+
+> https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/
+
+A local preview, commit, push, or open pull request is not a live deployment. For every `docs/` change, verify the configured Pages source, integrate into it, wait for the build, fetch the public URL with a cache-busting query, and confirm a distinctive new marker before saying the work is live. Report local, committed, pushed, merged, building, and live-verified states separately.
+
+## RULE 0B — Do not create avoidable branch clutter.
+
+The established Pages source when this rule was written is `arena/01a04eea-project-somnarak-wiki:/docs`. Use that branch directly when the coding environment permits. Arena may assign and lock each new chatroom to a platform-created branch; when that happens, use only that assigned branch, create no additional branches, and open one direct pull request into the configured Pages source. Repository prose cannot prevent Arena from assigning a session branch, so never claim otherwise. See `LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md` for the exact exception and completion format.
+
+## RULE 0C — Do not leave completed work only in the working tree.
+
+Git can only commit files after they exist in a workspace, so “never use the workspace” is technically impossible. Apply the owner’s instruction as the strict practical rule: finish a coherent change, run its validation gates, commit it immediately, and end every completed turn with a clean `git status`. Do not leave finished work as uncommitted workspace state. Do not satisfy “instant commit” by committing a knowingly broken or untested partial change; validation comes immediately before the commit.
+
 ## RULE 1 — Never force-push, ever. Especially not arena → main.
 
 `main` is currently the **only** branch containing `FOR_WIKI.zip`, the 13.66 MiB archive that holds
@@ -80,23 +96,21 @@ If a downloadable wiki bundle is wanted, publish it as a **GitHub Release asset*
 does not touch repo history) or have visitors use GitHub's own `/archive/main.zip` download —
 which already exists, is always current, and costs you zero bytes.
 
-## RULE 4 — GitHub Pages: pick the branch that can actually serve.
+## RULE 4 — Preserve and verify the established GitHub Pages source.
 
-`main` has no root `index.html`, so Pages-from-main-root today renders only the README. Choose one:
+As verified on 2026-08-31, the live site publishes from:
 
-- **Fastest, zero git changes:** enable Pages on `arena/01a04eea-project-somnarak-wiki` / Root.
-  It has `index.html`, `docs/index.html` and a root `.nojekyll`. Works immediately.
-- **Correct:** Rule 1's ff-merge first, then `main` / Root.
-- Pages cannot be enabled from inside a sandbox without a token. If you have write scope:
-  ```bash
-  curl -s -X POST -H "Authorization: Bearer $GH_TOKEN" -H "Content-Type: application/json" \
-    -d '{"source":{"branch":"main","path":"/"}}' \
-    https://api.github.com/repos/Redditor008/PROJECT.SOMNARAK-WIKI/pages
-  ```
-  If that returns 401, tell the human it's a Settings click — do not fake it or claim it's live.
+```text
+branch: arena/01a04eea-project-somnarak-wiki
+path:   /docs
+URL:    https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/
+```
 
-`.nojekyll` must be at the **root of the publishing source** or Jekyll will process the tree and
-strip `_`-prefixed files. After enabling, verify by fetching the URL — not by the commit message.
+Do not redirect Pages to `main`, repository root, or a newly created branch merely for convenience. Before each deployment, query the current configuration with `gh api repos/Redditor008/PROJECT.SOMNARAK-WIKI/pages`; if it differs, report the actual source and follow the owner’s current setting.
+
+A pull request must target the configured Pages branch directly. After merge, verify a distinctive changed marker at the public URL with a cache-busting query. A successful merge command or HTTP 200 that still contains the old marker is not deployment proof. Follow `LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md` and do not claim the site is live while the build is pending.
+
+`.nojekyll` must remain at the publishing source where needed so Jekyll does not strip underscore-prefixed paths.
 
 ## RULE 5 — Netlify is dead. Do not restore it.
 
@@ -129,13 +143,14 @@ Commit state to git; git is the durable store, the sandbox is a conveyor belt.
 
 ---
 
-## Definition of done — per session, all five lines
+## Definition of done — per session, every line
 
 ```
 [ ] git ls-files | grep -c 'FOR_WIKI.zip'  ≥ 1 on main
 [ ] pushed branch, `git status --short | wc -l` = 0
 [ ] no new *.zip tracked (except never: FOR_WIKI.zip is exempt and frozen)
-[ ] if Pages was claimed: an HTTP 200 from the live URL, pasted
+[ ] if Pages was claimed: public URL fetched after build and a distinctive new marker recorded
+[ ] no manually created extra branch; Arena-assigned branch went directly to the Pages source
 [ ] no force-push occurred; if main ≠ ff-ancestor, escalated instead of merging
 ```
 

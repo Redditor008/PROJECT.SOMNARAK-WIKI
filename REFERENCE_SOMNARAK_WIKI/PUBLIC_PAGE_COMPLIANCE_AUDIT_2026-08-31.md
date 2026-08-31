@@ -12,9 +12,10 @@ All reproducible publication gates pass in the current working tree.
 | Gate | Scope | Result |
 | --- | ---: | --- |
 | Editorial word floor | 197 HTML files | **PASS** |
-| Local resources, IDs, and fragments | 20,201 local references; 1,773 fragments | **PASS** |
+| Local resources, IDs, and fragments | 20,281 local references; 1,767 fragments | **PASS** |
 | Search reconciliation | 196 records for 196 non-404 pages | **PASS** |
 | Canonical global top bar | 197 components; 10 archive links each | **PASS** |
+| Canonical global left sidebar | 197 components; 21 directory links each | **PASS** |
 | Canonical global bottom bar | 197 components; 14 fixed links each | **PASS** |
 | SVG XML validity | 1,329 SVG files | **PASS** |
 | Page-level SVG candidate coverage | 197 HTML files | **PASS** |
@@ -26,6 +27,7 @@ Run the same gates from the repository root:
 ```bash
 python3 tools/audit_page_word_floor.py
 python3 tools/sync_global_top_bar.py
+python3 tools/sync_global_left_sidebar.py
 python3 tools/sync_global_bottom_bar.py
 python3 tools/audit_site_structure.py
 python3 tools/audit_svg_compositions.py
@@ -71,13 +73,21 @@ The visual treatment was rebuilt as a Directorate terminal header with an emblem
 
 `python3 tools/sync_global_top_bar.py` compares each static copy against the canonical renderer; `--write` repairs drift. The structure audit invokes the same validator and currently reports **197 expected components and zero consistency issues**.
 
+The left-sidebar review found twelve rough structural variants among 195 existing rails, while the Entity Tales anthology used a separate legacy navigation system and the icon gallery had no sidebar. Labels, destinations, branding marks, core numbering, archive order, and active-page behavior differed. Some character records even replaced the current character’s anchor with unlinked text, preventing one reusable contract.
+
+All **197 pages** now use the homepage-derived archive rail. Each contains the same public-network identity panel, nine database hubs, nine Echo-Core records, two maps, Download Center route, era classification, and 1.8.31 status console. Root, one-level, and two-level prefixes resolve independently; exact records receive `aria-current="page"`, while nested pages also identify their parent archive with `aria-current="location"`. The Entity Tales and icon-gallery layouts were brought into the shared shell instead of being exempted.
+
+The updated visual system uses an illuminated Somnarak emblem housing, cyan/gold Directorate circuitry, numbered group headers, compact archive codes, archive-specific signal colors, clear hover/focus states, a sticky viewport rail, and an online release console. It remains a desktop information rail; below 993 pixels it yields to the complete responsive primary navigation rather than squeezing article content or creating a second competing drawer. Reduced-motion and print states are explicit.
+
+`python3 tools/sync_global_left_sidebar.py` renders and validates the component. Its `--write` mode repairs every static copy, and the structure audit now reports **197 canonical left sidebars and zero consistency issues**.
+
 The bottom-bar review found **69 unrelated footer compositions across 190 pages**, plus seven routes with no footer: the icon gallery, both atlas maps, the Departments hub, the reader Download Center, the Locations hub, and the project Distribution Ledger. Page categories, legal boilerplate, project notes, character-registry slogans, release data, and one-off status messages had been mixed unpredictably into the same global position.
 
 All **197 pages** now end with one expanded Directorate archive terminus after the page shell closes. Its fourteen fixed links include the Somnarak home identity, all eight primary archive gateways, Source Map, Download Center, Icon Library, repository, and changelog. The shared release register records 1.8.31, 197 public pages, 256,745 counted editorial words, 1,414 SVG/PNG assets, the 200-word floor, Year 4,238/Cycle Ended state, Gate Command, public-access telemetry, and the four binding quality protocols.
 
 The footer is intentionally substantial rather than a narrow legal strip. A large identity and motto panel sits beside a new source-led topology SVG that traces the Alpha Tree and five zones through all eight Facility 01 floors into eight orbiting public archive gateways. A separate release console, full sitemap deck, project-resource bank, four-cell publication register, protocol rail, and final status line create a layered Directorate terminal. Desktop uses a broad three-part hero and four-column gateway matrix; intermediate and mobile layouts progressively form two-column and single-column stacks without hiding a destination.
 
-`python3 tools/sync_global_bottom_bar.py` enforces exact content, destinations, one-footer count, and placement before `</body>`; `--write` removes old variants and regenerates the component. The structure audit invokes both global-bar validators and currently reports **197 top bars, 197 bottom bars, and zero consistency issues**.
+`python3 tools/sync_global_bottom_bar.py` enforces exact content, destinations, one-footer count, and placement before `</body>`; `--write` removes old variants and regenerates the component. The structure audit invokes all three global-chrome validators and currently reports **197 top bars, 197 left sidebars, 197 bottom bars, and zero consistency issues**.
 
 ## SVG integrity and composition review
 

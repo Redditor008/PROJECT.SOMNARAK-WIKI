@@ -14,9 +14,11 @@ from urllib.parse import unquote, urlsplit
 
 try:  # Support both `python tools/...` and package-style imports in tests.
     from .sync_global_bottom_bar import validate_bottom_bars
+    from .sync_global_left_sidebar import validate_left_sidebars
     from .sync_global_top_bar import validate_top_bars
 except ImportError:
     from sync_global_bottom_bar import validate_bottom_bars
+    from sync_global_left_sidebar import validate_left_sidebars
     from sync_global_top_bar import validate_top_bars
 
 REFERENCE_ATTRIBUTES = {
@@ -64,7 +66,7 @@ class InventoryParser(HTMLParser):
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Check every page's paths, IDs, fragments, global bars, and search record."
+        description="Check every page's paths, IDs, fragments, global chrome, and search record."
     )
     parser.add_argument(
         "root",
@@ -175,6 +177,12 @@ def main() -> int:
             {"page": issue.page, "kind": issue.kind, "value": issue.detail}
         )
 
+    left_sidebar_issues = validate_left_sidebars(root)
+    for issue in left_sidebar_issues:
+        failures.append(
+            {"page": issue.page, "kind": issue.kind, "value": issue.detail}
+        )
+
     bottom_bar_issues = validate_bottom_bars(root)
     for issue in bottom_bar_issues:
         failures.append(
@@ -227,11 +235,15 @@ def main() -> int:
         f"{len(top_bar_issues)} consistency issues"
     )
     print(
+        f"Global left sidebar: {len(html_files)} expected components; "
+        f"{len(left_sidebar_issues)} consistency issues"
+    )
+    print(
         f"Global bottom bar: {len(html_files)} expected components; "
         f"{len(bottom_bar_issues)} consistency issues"
     )
     if passed:
-        print("PASS: paths, IDs, fragments, search coverage, and global bars are complete")
+        print("PASS: paths, IDs, fragments, search coverage, and global chrome are complete")
     else:
         print(f"FAIL: {len(failures)} structural issue(s)")
         for failure in failures:
@@ -251,6 +263,8 @@ def main() -> int:
             "expected_search_pages": len(expected_urls),
             "top_bar_components": len(html_files),
             "top_bar_issues": len(top_bar_issues),
+            "left_sidebar_components": len(html_files),
+            "left_sidebar_issues": len(left_sidebar_issues),
             "bottom_bar_components": len(html_files),
             "bottom_bar_issues": len(bottom_bar_issues),
             "failures": failures,
