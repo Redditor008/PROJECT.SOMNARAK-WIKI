@@ -12993,26 +12993,33 @@ nav.float-toc > div {
 }
 
 /* === 2026-09-01 · float-TOC sticks at the last rail (content's end) above the lower footer ===
-   --float-toc-top / --float-toc-left are driven by wiki.js: the widget's
-   resting pin (a quarter down the gap between the top bar and the bottom
-   of the viewport on desktop, 18px from the bottom on narrow screens,
-   left edge of the actual content column) until the bottom of the page
-   box (the content frame) approaches, then it tracks just above that
-   edge — a full gap above the top of the lower footer — and exits
-   through the top of the viewport with the end of the content: stuck at
-   the last rail, never inside the bottom bar box, never hidden. */
+   wiki.js drives --float-toc-xform (a translate()): the widget's resting
+   pin (a quarter down the gap between the top bar and the bottom of the
+   viewport on desktop, 18px from the bottom on narrow screens, left
+   edge of the actual content column) until the bottom of the page box
+   (the content frame) approaches, then it tracks just above that edge —
+   a full gap above the top of the lower footer — and exits through the
+   top of the viewport with the end of the content: stuck at the last
+   rail, never inside the bottom bar box, never hidden. Motion is
+   transform-only (compositor) so it tracks scrolling smoothly; the
+   legacy drop-shadow filter is disabled because it repaints every frame
+   while the widget moves. */
 nav.float-toc {
-  top: var(--float-toc-top, calc(25vh - 2px)) !important;
-  bottom: var(--float-toc-bottom, auto) !important;
-  left: var(--float-toc-left, max(8px, calc((100vw - min(1560px, calc(100vw - 32px))) / 2 + 226px))) !important;
+  top: 0 !important;
+  left: 0 !important;
   right: auto !important;
+  bottom: auto !important;
+  transform: var(--float-toc-xform, translate(max(8px, calc((100vw - min(1560px, calc(100vw - 32px))) / 2 + 226px)), calc(25vh - 2px))) !important;
+  will-change: transform;
+  filter: none !important;
 }
 @media (max-width: 1100px) {
   nav.float-toc {
-    top: var(--float-toc-top, auto) !important;
-    bottom: var(--float-toc-bottom, 18px) !important;
-    left: var(--float-toc-left, 8px) !important;
+    top: 0 !important;
+    left: 0 !important;
     right: auto !important;
+    bottom: auto !important;
+    transform: var(--float-toc-xform, translate(8px, calc(100vh - 170px))) !important;
   }
 }
 

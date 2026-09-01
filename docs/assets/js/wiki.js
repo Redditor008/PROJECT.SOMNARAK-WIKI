@@ -510,21 +510,25 @@
       const MAX_EXT = 220;  // longest the transparent lower hit zone gets
       const STOP = 2;       // stop line sits 2px above the reference edge
       const LEFT_INSET = 6;
+      // Resolve the measured elements once — not on every frame.
+      const topBar = q('.utility');
+      const pageBox = q('.wiki-shell') || contentArea;
+      const drawer = q('.left-rail');
       let ticking = false;
       const updateStick = () => {
         ticking = false;
+        // ---- read (one layout pass) ----
         const h = floatToc.offsetHeight || 60;
         const btnH = trigger ? (trigger.offsetHeight || h) : h;
         const footerTop = footer.getBoundingClientRect().top;
         // The page box (the bordered content frame). The stopper must sit
         // at its bottom edge — which is a full margin above the top of the
         // lower footer — never inside the footer box.
-        const pageBox = q('.wiki-shell') || contentArea;
         const boxBottom = pageBox.getBoundingClientRect().bottom;
+        const contentRect = contentArea.getBoundingClientRect();
         const isNarrow = window.matchMedia
           ? window.matchMedia('(max-width: 1100px)').matches
           : window.innerWidth <= 1100;
-        const topBar = q('.utility');
         const barH = topBar ? (topBar.offsetHeight || 48) : 48;
         // Resting position: a quarter of the way down the open gap between
         // the sticky top bar and the bottom of the viewport (guarded to
@@ -539,20 +543,17 @@
         const stopLine = Math.min(footerTop, boxBottom, window.innerHeight) - STOP;
         const top = Math.min(naturalTop, stopLine - h);
         const ext = Math.max(0, Math.min(MAX_EXT, Math.round(stopLine - (top + h))));
-        const contentRect = contentArea.getBoundingClientRect();
         let left = Math.max(8, Math.round(contentRect.left + LEFT_INSET));
         // If the left-rail drawer is open (narrow screens), slide the
         // widget to the right of it so the two never clip each other.
-        const drawer = q('.left-rail');
         if (drawer && drawer.classList.contains('open')) {
           const dRect = drawer.getBoundingClientRect();
           if (dRect.right > 0 && dRect.left < window.innerWidth) {
             left = Math.max(left, Math.round(dRect.right + 8));
           }
         }
-        floatToc.style.setProperty('--float-toc-top', Math.round(top) + 'px');
-        floatToc.style.setProperty('--float-toc-bottom', 'auto');
-        floatToc.style.setProperty('--float-toc-left', left + 'px');
+        // ---- write once (transform = compositor, no layout thrash) ----
+        floatToc.style.transform = 'translate(' + left + 'px,' + Math.round(top) + 'px)';
         floatToc.style.setProperty('--float-toc-hit-ext', ext + 'px');
         floatToc.style.setProperty('--float-toc-hit-ext-top', btnH + 'px');
       };
