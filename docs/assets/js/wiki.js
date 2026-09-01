@@ -508,7 +508,7 @@
     const footer = q('footer.global-footer') || q('footer');
     if (footer) {
       const MAX_EXT = 220;  // longest the transparent lower hit zone gets
-      const STOP = 2;       // stop line sits 2px above the footer's top edge
+      const STOP = 2;       // stop line sits 2px above the reference edge
       const LEFT_INSET = 6;
       let ticking = false;
       const updateStick = () => {
@@ -516,6 +516,11 @@
         const h = floatToc.offsetHeight || 60;
         const btnH = trigger ? (trigger.offsetHeight || h) : h;
         const footerTop = footer.getBoundingClientRect().top;
+        // The page box (the bordered content frame). The stopper must sit
+        // at its bottom edge — which is a full margin above the top of the
+        // lower footer — never inside the footer box.
+        const pageBox = q('.wiki-shell') || contentArea;
+        const boxBottom = pageBox.getBoundingClientRect().bottom;
         const isNarrow = window.matchMedia
           ? window.matchMedia('(max-width: 1100px)').matches
           : window.innerWidth <= 1100;
@@ -526,9 +531,12 @@
         // stay below the top bar on very short screens).
         const baseTop = Math.max(barH + 14, Math.round(barH + (window.innerHeight - barH - h) * 0.25));
         const naturalTop = isNarrow ? window.innerHeight - 18 - h : baseTop;
-        // The lower hit edge stops here: 2px above the footer's top edge,
-        // or 2px above the viewport bottom while the footer is off-screen.
-        const stopLine = Math.min(footerTop, window.innerHeight) - STOP;
+        // The lower hit edge stops here: 2px above the lowest of the page
+        // box's bottom edge and the footer's top edge — i.e. exactly at the
+        // bottom of the page box, a full gap above the top of the bottom
+        // bar box — or 2px above the viewport bottom while both are
+        // off-screen.
+        const stopLine = Math.min(footerTop, boxBottom, window.innerHeight) - STOP;
         const top = Math.min(naturalTop, stopLine - h);
         const ext = Math.max(0, Math.min(MAX_EXT, Math.round(stopLine - (top + h))));
         const contentRect = contentArea.getBoundingClientRect();
