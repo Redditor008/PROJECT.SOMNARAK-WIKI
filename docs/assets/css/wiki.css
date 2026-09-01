@@ -7025,8 +7025,8 @@ table td img,
 .character-article,
 .wiki-article-grid {
   display: grid !important;
-  grid-template-columns: minmax(0, 1fr) 340px !important;
-  gap: 32px !important;
+  grid-template-columns: minmax(0, 1fr) 300px !important;
+  gap: 20px !important;
   align-items: start !important;
   width: 100% !important;
   max-width: 100% !important;
@@ -7040,6 +7040,21 @@ table td img,
   .wiki-article-grid {
     grid-template-columns: 1fr !important;
   }
+}
+
+/* 2026-09-01 · Written-text width fix. New-gen article markup nests the
+   infobox INSIDE .entity-article, which already owns the
+   1fr + 300px split. The legacy outer template
+   (.entity-columns: 1fr + 300px) still applied and reserved an EMPTY
+   300px track, crushing the written text to roughly half the content
+   width. Where a new-gen article wrapper is present, collapse the outer
+   grid to a single column so the text column runs right up to the
+   infobox. Old-gen M.A.W. pages (infobox is a DIRECT child of the
+   columns grid, no article wrapper) keep the two-column outer grid. */
+.entity-columns:has(> .entity-article),
+.item-columns:has(> .item-article) {
+  grid-template-columns: minmax(0, 1fr) !important;
+  gap: 0 !important;
 }
 
 /* Ensure ALL text containers stay inside boxes without overflow */
@@ -7066,7 +7081,7 @@ table td img,
 .character-infobox,
 .item-infobox {
   width: 100% !important;
-  max-width: 340px !important;
+  max-width: 300px !important;
   box-sizing: border-box !important;
   background: #080d16 !important;
   border: 2px solid var(--entity, #f1df76) !important;
