@@ -12994,13 +12994,13 @@ nav.float-toc > div {
 
 /* === 2026-09-01 · float-TOC sticks at the last rail (content's end) above the lower footer ===
    --float-toc-top / --float-toc-left are driven by wiki.js: the widget's
-   natural pin (86px desktop / 18px bottom on narrow screens, left edge of
-   the actual content column) until the footer's top edge approaches, then
-   it tracks just above that edge and exits through the top of the
-   viewport with the end of the content — stuck at the last rail, never
-   over the footer, never hidden. */
+   resting pin (vertically centered in the viewport on desktop, 18px from
+   the bottom on narrow screens, left edge of the actual content column)
+   until the footer's top edge approaches, then it tracks just above that
+   edge and exits through the top of the viewport with the end of the
+   content — stuck at the last rail, never over the footer, never hidden. */
 nav.float-toc {
-  top: var(--float-toc-top, 86px) !important;
+  top: var(--float-toc-top, calc(50vh - 75px)) !important;
   bottom: var(--float-toc-bottom, auto) !important;
   left: var(--float-toc-left, max(8px, calc((100vw - min(1560px, calc(100vw - 32px))) / 2 + 226px))) !important;
   right: auto !important;

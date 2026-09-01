@@ -519,7 +519,9 @@
           : window.innerWidth <= 1100;
         const topBar = q('.utility');
         const barH = topBar ? (topBar.offsetHeight || 48) : 48;
-        const baseTop = Math.max(86, barH + 14);
+        // Resting position: vertically centered in the viewport, but never
+        // tucked behind the sticky top bar on short screens.
+        const baseTop = Math.max(barH + 14, Math.round((window.innerHeight - h) / 2));
         const naturalTop = isNarrow ? window.innerHeight - 18 - h : baseTop;
         // The lower hit edge stops here: 2px above the footer's top edge,
         // or 2px above the viewport bottom while the footer is off-screen.
