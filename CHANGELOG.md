@@ -8,6 +8,9 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- Added L-Corp-wiki.gg-style data tables to the ten SE record pages, fully source-led from the `01_Sorrow_Entities` canon records: a **Field Parameters** table (risk tier, entity role, primary pressure, starting Sorrow Gauge, Han-Energy yield, work difficulty, activation threshold, tool/M.A.W. grade, vessel-destructible status, Han Dust drop, and recommended response — 10–11 statistics per entity, mirroring the L-Corp "Basic Info" block) and a **Combat Actions** table (each entity's five recorded moves with category, damage value including AoE suffixes, and trigger condition — mirroring the L-Corp "Ability" block). Every value is extracted from the entity's SECC source record; nothing is invented.
+- Added L-Corp ExpandSpoilers-style spoiler protection to the ten SE record pages: the **Story** record is sealed behind a collapsed hazard box (new `details.spoiler-box` component — crimson border, diagonal hazard fill, SPOILER seal tag, expand hint). The section heading stays outside the box so floating-TOC anchors keep working.
+
 - Added three archive mechanics to the shared footer on all 197 routes: a per-page FILED UNDER filing strip (archive gateway, registry code, source-reference designation/item ID, and Korean name — auto-joined from `REFERENCE_SOMNARAK_WIKI` by the extended `tools/sync_global_bottom_bar.py`, with set-number hard constraints to prevent false provenance joins), a Random Archive action (196-route list generated into `wiki.js` by the new `tools/sync_random_archive.py`), and a last-verified stamp in the publication register.
 - Added the CSS redaction component (`<details class="redaction">`, sealed/unseal labels) with a live redaction-protocol demonstration on the 404 recovery page.
 
