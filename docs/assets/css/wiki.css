@@ -7034,7 +7034,11 @@ table td img,
   margin-bottom: 2.5rem !important;
 }
 
-@media (max-width: 1080px) {
+/* The two-column split (written text left, info profile table right)
+   holds down to the site-wide mobile threshold of 760px. Collapsing at
+   1080px used to drop the infobox BELOW the written text on small
+   laptops/tablets, where the side table belongs. */
+@media (max-width: 760px) {
   .entity-article,
   .character-article,
   .wiki-article-grid {
