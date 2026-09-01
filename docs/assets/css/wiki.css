@@ -13040,6 +13040,21 @@ details.spoiler-box .spoiler-body p { margin: 8px 0; }
 .cell-list { margin: 0; padding: 0 0 0 16px; list-style: disc; }
 .cell-list li { margin: 0 0 4px; }
 
+/* ============================================================
+   SUPPLEMENTARY FIELD RECORDS (2026-09-02)
+   Subpage intro/close + active clickable links on parent pages
+   ============================================================ */
+.fr-intro { margin: 18px 0 26px; padding: 14px 16px; border: 1px solid rgba(56,189,248,.25); border-left: 3px solid #38bdf8; border-radius: 6px; background: rgba(8,13,22,.6); font-size: 15px; line-height: 1.65; color: #c9ccd4; }
+.fr-end { margin: 30px 0 6px; padding-top: 12px; border-top: 1px dashed rgba(143,163,191,.35); font: 600 10.5px/1.6 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: .14em; text-transform: uppercase; color: #8fa3bf; }
+.ch-intro { margin: 10px 0 14px; padding: 8px 12px; border-left: 2px solid rgba(143,163,191,.4); font-size: 13.5px; font-style: italic; color: #9fb2cc; }
+.ext-record-link { display: inline-flex; align-items: center; gap: 8px; margin: 0 0 20px; padding: 9px 15px; border: 1px solid rgba(56,189,248,.45); border-radius: 6px; background: rgba(56,189,248,.06); font: 700 11px/1 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: .16em; color: #38bdf8; text-decoration: none; text-transform: uppercase; transition: background .15s ease, border-color .15s ease, color .15s ease; }
+.ext-record-link:hover { background: rgba(56,189,248,.16); border-color: #38bdf8; color: #7dd3fc; }
+.ext-record-link::after { content: "\2197"; font-size: 13px; }
+.record-ext-link { display: inline-block; margin: -6px 0 14px; font: 600 10.5px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: .12em; color: #38bdf8; text-decoration: none; text-transform: uppercase; border-bottom: 1px dashed rgba(56,189,248,.5); }
+.record-ext-link:hover { color: #7dd3fc; border-bottom-style: solid; }
+.record-ext-link::after { content: " \2197"; }
+
+
 
 /* === 2026-09-01 · canonical float-TOC pin + hard viewport limits (overrides all earlier generations) === */
 nav.float-toc {
