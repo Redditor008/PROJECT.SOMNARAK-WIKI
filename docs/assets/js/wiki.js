@@ -552,8 +552,11 @@
             left = Math.max(left, Math.round(dRect.right + 8));
           }
         }
-        // ---- write once (transform = compositor, no layout thrash) ----
-        floatToc.style.transform = 'translate(' + left + 'px,' + Math.round(top) + 'px)';
+        // ---- write once (transform via var = compositor, no layout thrash) ----
+        // The stylesheet rule is `transform: var(--float-toc-xform, …)
+        // !important`, so the position MUST go through the custom property —
+        // an inline `style.transform` would lose to the !important rule.
+        floatToc.style.setProperty('--float-toc-xform', 'translate(' + left + 'px,' + Math.round(top) + 'px)');
         floatToc.style.setProperty('--float-toc-hit-ext', ext + 'px');
         floatToc.style.setProperty('--float-toc-hit-ext-top', btnH + 'px');
       };
