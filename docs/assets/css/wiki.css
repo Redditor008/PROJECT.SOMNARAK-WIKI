@@ -13019,6 +13019,28 @@ details.spoiler-box summary .spoiler-hint {
 details.spoiler-box .spoiler-body { padding: 2px 14px 14px; color: #c9ccd4; }
 details.spoiler-box .spoiler-body p { margin: 8px 0; }
 
+/* ============================================================
+   RECORD CHAPTERS — L-Corp pattern parity (2026-09-02)
+   Testimony quotes / record lists / observation entries /
+   registry addendum / table cell lists
+   ============================================================ */
+.record-list { margin: 14px 0 4px; padding: 0; list-style: none; }
+.record-list li { position: relative; padding: 0 0 10px 18px; margin: 0; font-size: 15px; line-height: 1.65; color: #c9ccd4; }
+.record-list li::before { content: ""; position: absolute; left: 2px; top: 10px; width: 8px; height: 2px; background: #d44b4b; }
+.testimony-list { margin: 14px 0 4px; display: grid; gap: 12px; }
+.testimony-quote { margin: 0; padding: 14px 16px 12px; border-left: 2px solid #d44b4b; background: linear-gradient(90deg, rgba(212, 75, 75, 0.07), rgba(212, 75, 75, 0) 70%); border-radius: 0 6px 6px 0; }
+.testimony-quote blockquote { margin: 0; font-size: 15.5px; line-height: 1.6; color: #e8edf7; font-style: italic; }
+.testimony-quote figcaption { margin-top: 8px; font: 600 10.5px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 0.14em; color: #8fa3bf; text-transform: uppercase; }
+.obs-entry { margin: 0 0 14px; padding: 12px 14px; border: 1px solid rgba(62, 139, 213, 0.25); border-radius: 6px; background: rgba(8, 13, 22, 0.5); }
+.obs-entry-label { display: block; font: 700 10.5px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 0.12em; text-transform: uppercase; color: #3e8bd5; margin-bottom: 6px; }
+.obs-entry p { margin: 0; font-size: 15px; line-height: 1.65; color: #c9ccd4; }
+.spoiler-quote { margin: 0 0 12px !important; font-size: 13.5px !important; font-style: italic; color: #9fb2cc; }
+.addendum { margin: 10px 0 4px; padding: 12px 14px; border: 1px dashed rgba(143, 163, 191, 0.35); border-radius: 6px; background: rgba(8, 13, 22, 0.5); }
+.addendum p { margin: 0; font-size: 14px; line-height: 1.65; color: #9fb2cc; }
+.cell-list { margin: 0; padding: 0 0 0 16px; list-style: disc; }
+.cell-list li { margin: 0 0 4px; }
+
+
 /* === 2026-09-01 · canonical float-TOC pin + hard viewport limits (overrides all earlier generations) === */
 nav.float-toc {
   position: fixed !important;
