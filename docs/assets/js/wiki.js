@@ -408,8 +408,10 @@
 
     floatToc.innerHTML = `
       <button type="button" class="float-toc-trigger" aria-expanded="false" title="Page contents">
-        <span class="toc-icon">☰</span>
-        <span class="toc-text">PAGE CONTENTS</span>
+        <span class="float-toc-tab">
+          <span class="toc-icon">☰</span>
+          <span class="toc-text">PAGE CONTENTS</span>
+        </span>
       </button>
       <div class="float-toc-panel">
         <div class="float-toc-header">
@@ -519,9 +521,10 @@
           : window.innerWidth <= 1100;
         const topBar = q('.utility');
         const barH = topBar ? (topBar.offsetHeight || 48) : 48;
-        // Resting position: vertically centered in the viewport, but never
-        // tucked behind the sticky top bar on short screens.
-        const baseTop = Math.max(barH + 14, Math.round((window.innerHeight - h) / 2));
+        // Resting position: a quarter of the way down the open gap between
+        // the sticky top bar and the bottom of the viewport (guarded to
+        // stay below the top bar on very short screens).
+        const baseTop = Math.max(barH + 14, Math.round(barH + (window.innerHeight - barH - h) * 0.25));
         const naturalTop = isNarrow ? window.innerHeight - 18 - h : baseTop;
         // The lower hit edge stops here: 2px above the footer's top edge,
         // or 2px above the viewport bottom while the footer is off-screen.

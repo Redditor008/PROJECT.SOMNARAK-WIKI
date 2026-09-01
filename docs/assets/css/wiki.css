@@ -12994,13 +12994,14 @@ nav.float-toc > div {
 
 /* === 2026-09-01 · float-TOC sticks at the last rail (content's end) above the lower footer ===
    --float-toc-top / --float-toc-left are driven by wiki.js: the widget's
-   resting pin (vertically centered in the viewport on desktop, 18px from
-   the bottom on narrow screens, left edge of the actual content column)
-   until the footer's top edge approaches, then it tracks just above that
-   edge and exits through the top of the viewport with the end of the
-   content — stuck at the last rail, never over the footer, never hidden. */
+   resting pin (a quarter down the gap between the top bar and the bottom
+   of the viewport on desktop, 18px from the bottom on narrow screens,
+   left edge of the actual content column) until the footer's top edge
+   approaches, then it tracks just above that edge and exits through the
+   top of the viewport with the end of the content — stuck at the last
+   rail, never over the footer, never hidden. */
 nav.float-toc {
-  top: var(--float-toc-top, calc(50vh - 75px)) !important;
+  top: var(--float-toc-top, calc(25vh - 2px)) !important;
   bottom: var(--float-toc-bottom, auto) !important;
   left: var(--float-toc-left, max(8px, calc((100vw - min(1560px, calc(100vw - 32px))) / 2 + 226px))) !important;
   right: auto !important;
@@ -13014,26 +13015,52 @@ nav.float-toc {
   }
 }
 
-/* === 2026-09-01 · float-TOC trigger: compact visible tab + long lower hit zone ===
-   The button IS the visible tab (small, at its original position — never
-   pushed down). A separate transparent element (.float-toc-hit-ext)
-   extends the clickable area far below the tab; wiki.js sizes it so its
-   lower edge always stops exactly 2px before the top of the lower footer
-   (or the viewport bottom while the footer is off-screen). */
+/* === 2026-09-01 · float-TOC trigger: smaller visible tab, same big hit box ===
+   The button keeps its original clickable footprint (fixed 2.3rem wide ×
+   min 9.4rem tall, transparent) while the visible tab (.float-toc-tab)
+   is the smaller gold element centered inside it — so the button looks
+   smaller but the hit box never shrinks. A separate transparent element
+   (.float-toc-hit-ext) extends the clickable area far below the tab;
+   wiki.js sizes it so its lower edge always stops exactly 2px before
+   the top of the lower footer (or the viewport bottom while the footer
+   is off-screen). */
 nav.float-toc .float-toc-trigger,
 nav.float-toc > button {
   position: relative !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 2.3rem !important;
+  min-height: 9.4rem !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  color: #f1df76 !important;
+  cursor: pointer;
+}
+nav.float-toc .float-toc-tab {
+  display: inline-block !important;
+  writing-mode: vertical-rl;
   background: #141207 !important;
   border: 1.5px solid #f1df76 !important;
   box-shadow: 0 8px 18px rgba(0,0,0,0.75) !important;
   color: #f1df76 !important;
-  padding: 4px 10px !important;
-  font-size: 0.62rem !important;
-  letter-spacing: 0.1em !important;
+  padding: 6px 4px !important;
+  font-size: 0.52rem !important;
+  letter-spacing: 0.08em !important;
   border-radius: 3px !important;
+  white-space: nowrap;
+}
+nav.float-toc .float-toc-tab .toc-icon {
+  font-size: 0.6rem !important;
 }
 nav.float-toc .float-toc-trigger:hover,
 nav.float-toc > button:hover {
+  background: transparent !important;
+}
+nav.float-toc .float-toc-trigger:hover .float-toc-tab,
+nav.float-toc > button:hover .float-toc-tab {
   background: #f1df76 !important;
   color: #111 !important;
 }
