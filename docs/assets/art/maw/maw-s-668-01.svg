@@ -5,20 +5,20 @@
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gle4d87b" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bge4d87b)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bge4d87b)" stroke="#8a8f98" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="114" fill="url(#gle4d87b)"/>
   <g transform="rotate(13 200.0 190.0)">
-    <path d="M104.0 173.8 L161.6 145.45 L188.0 129.25 L212.0 129.25 L238.4 145.45 L296.0 173.8 L272.0 234.55 L200.0 266.8 L128.0 234.55 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
-    <path d="M128.0 161.7 L272.0 161.7" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".7"/>
+    <path d="M104.0 173.8 L161.6 145.45 L188.0 129.25 L212.0 129.25 L238.4 145.45 L296.0 173.8 L272.0 234.55 L200.0 266.8 L128.0 234.55 Z" fill="#8a8f98" fill-opacity=".22" stroke="#8a8f98" stroke-width="3"/>
+    <path d="M128.0 161.7 L272.0 161.7" fill="none" stroke="#8a8f98" stroke-width="1.6" opacity=".7"/>
     <circle cx="200.0" cy="196.0" r="14" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
-    <circle cx="200.0" cy="196.0" r="8" fill="#3e8bd5" fill-opacity=".5"/>
-    <path d="M180.0 202.2 L220.0 208.2" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
-    <path d="M180.0 218.2 L220.0 224.2" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
+    <circle cx="200.0" cy="196.0" r="8" fill="#8a8f98" fill-opacity=".5"/>
+    <path d="M180.0 202.2 L220.0 208.2" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".55"/>
+    <path d="M180.0 218.2 L220.0 224.2" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".55"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-S-668-01</text>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-S-668-01</text>
 </svg>

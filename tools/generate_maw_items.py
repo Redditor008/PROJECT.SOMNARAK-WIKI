@@ -105,6 +105,10 @@ def parse_record(text: str) -> dict:
         m = re.search(rf"\*\*{re.escape(key)}:?\*\* *([^\n]+?) *$", text, re.M)
         return m.group(1).strip() if m else None
 
+    def bullet(key: str):
+        m = re.search(rf"^\s*[-*]\s*{re.escape(key)}: (.+)$", text, re.M)
+        return m.group(1).strip() if m else None
+
     f["name"] = first(r"^# M\.A\.W\. \w+ — (.+)$")
     f["flavor"] = first(r"^> \*“?(.+?)”?\* ?$")
     f["doc_id"] = first(r"\*\*Document ID:\*\* *`([^`]+)`")
@@ -163,27 +167,92 @@ def parse_record(text: str) -> dict:
         f.setdefault("incident_name", None)
 
     # Inline summary line: "**δ Mixed; L/G/V/W ...; max 2; 45 Echoes.** ..."
-    inline = re.search(r"\*\*([αβγδ]) ([A-Za-z]+); (L/G/V/W) ([\d./]+); max (\d+); (\d+) Echoes\.\*\* *(.+)", text)
+    inline = re.search(r"\*\*([αβγδεω]) ([A-Za-z]+); (L/G/V/W) ([\d./]+); max (\d+); (\d+) Echoes\.\*\* *(.+)", text)
     if inline:
-        f.setdefault("grade_raw", inline.group(1))
-        f.setdefault("element_raw", inline.group(2))
-        f.setdefault("max_raw", inline.group(5))
-        f.setdefault("echo_raw", inline.group(6) + " Sorrow Echoes")
+        if not f.get("grade_raw"):
+            f["grade_raw"] = inline.group(1)
+        if not f.get("element_raw"):
+            f["element_raw"] = inline.group(2)
+        if not f.get("max_raw"):
+            f["max_raw"] = inline.group(5)
+        if not f.get("echo_raw"):
+            f["echo_raw"] = inline.group(6) + " Sorrow Echoes"
         if not f["appearance"] and not f["ability_body"]:
-            f["ability_body"] = f["ability_body"] or inline.group(7).strip()
+            f["ability_body"] = inline.group(7).strip()
+
+    # Format C: bold "Grade / Element:" field + CORE STATISTICS value row
+    ge = re.search(r"\*\*Grade\s*/\s*Element:\*\* *([αβγδεω])\s*/\s*([A-Za-z]+)", text)
+    if ge:
+        if not f.get("grade_raw"):
+            f["grade_raw"] = ge.group(1)
+        if not f.get("element_raw"):
+            f["element_raw"] = ge.group(2)
+    cs = re.search(
+        r"\|\s*Damage\s*\|\s*Speed\s*\|[^|\n]*\|\s*Pattern\s*/\s*Falloff\s*\|\s*Maximum\s*/\s*Echo Cost\s*\|\n"
+        r"\|[\s:\-|]+\|\n\|([^|\n]+)\|([^|\n]+)\|([^|\n]+)\|([^|\n]+)\|([^|\n]+)\|",
+        text,
+    )
+    if cs:
+        def cell(v: str) -> str | None:
+            v = v.strip()
+            return None if v in ("", "—", "–", "-") else v
+        if not f.get("damage"):
+            f["damage"] = cell(cs.group(1))
+        if not f.get("speed"):
+            f["speed"] = cell(cs.group(2))
+        if not f.get("range"):
+            f["range"] = cell(cs.group(3))
+        pf = [x.strip() for x in cs.group(4).split("/")]
+        if len(pf) == 2:
+            if not f.get("pattern"):
+                f["pattern"] = cell(pf[0])
+            if not f.get("falloff"):
+                f["falloff"] = cell(pf[1])
+        mc = [x.strip() for x in cs.group(5).split("/")]
+        if len(mc) == 2:
+            if not f.get("max_raw"):
+                f["max_raw"] = cell(mc[0])
+            if not f.get("echo_raw"):
+                f["echo_raw"] = cell(mc[1])
+    # Format C extras: SECC designation, binding rule, failure bullets, item history
+    f["secc"] = first(r"\*\*Source SECC Designation:\*\* *`([^`]+)`")
+    if not f.get("canonical_ability"):
+        f["canonical_ability"] = bold("Canonical ability")
+    if not f.get("limit"):
+        f["limit"] = bold("Binding rule") or bold("Failure mode")
+    if not f.get("corrosion"):
+        c_bits = []
+        for key, label in (("First sign", "First sign"), ("Escalation", "Escalation"), ("Terminal state", "Terminal state")):
+            v = bullet(key)
+            if v:
+                c_bits.append(f"{label}: {v}")
+        if c_bits:
+            f["corrosion"] = " ".join(c_bits)
+    if not f.get("incident"):
+        h = re.search(r"## ITEM-SPECIFIC HISTORY[^\n]*\n\n(.*?)(?=\n## |\n\*\*Document ID:|\n---)", text, re.S)
+        if h:
+            f["incident"] = re.sub(r"\s+", " ", h.group(1)).strip()
+            f.setdefault("incident_name", None)
 
     # grade/element cleanup: take the base token before an em dash
     g = f.get("grade_raw") or ""
-    f["grade"] = g[0] if g and g[0] in GRADE_LABEL else None
+    f["grade"] = g[0] if g and g[0] in "αβγδεω" else None
     e = f.get("element_raw") or ""
     f["element"] = e.split(" — ")[0].strip() if e else None
     f["element_sub"] = e.split(" — ")[1].strip() if " — " in e else None
     t = f.get("type_raw") or ""
     f["subtype"] = t.split(" — ")[1].strip() if " — " in t else None
 
-    m = re.search(r"(?:^|\s)(\d+)(?:–|-)(\d+)", f.get("damage") or "")
-    if m:
-        f["damage"] = f"{f['element'] or ''} {m.group(1)}–{m.group(2)}".strip()
+    # element fallback: the damage line leads with the element name
+    if not f["element"]:
+        dm0 = re.match(r"^(Lament|Grudge|Void|Weight|Mixed)\b", f.get("damage") or "")
+        if dm0:
+            f["element"] = dm0.group(1)
+    # keep the raw damage value; only rebuild it when it lacks the element lead
+    if f.get("damage") and not re.match(r"^(Lament|Grudge|Void|Weight|Mixed)\s+\d", f["damage"]):
+        m = re.search(r"(\d+)(?:–|-)(\d+)", f["damage"])
+        if m:
+            f["damage"] = f"{f['element'] or ''} {m.group(1)}–{m.group(2)}".strip()
 
     return f
 
@@ -329,7 +398,7 @@ def build_content(item: dict) -> str:
     donor_ref = (
         f'<a href="{ent_page}">{esc(donor_text)}</a>' if ent_page else esc(donor_text)
     )
-    grade = f"{f['grade']} — {GRADE_LABEL[f['grade']]}" if f["grade"] else None
+    grade = (f"{f['grade']} — {GRADE_LABEL[f['grade']]}" if f["grade"] in GRADE_LABEL else f["grade"]) if f["grade"] else None
     element = f"{f['element']} — {f['element_sub']}" if f.get("element_sub") else f["element"]
     hero_span = " · ".join(x for x in [TYPE_LABEL[t], grade, element] if x)
     img = f'../assets/art/maw/{item["art_name"]}?v={ASSET_VERSION}'
@@ -525,6 +594,7 @@ def build_content(item: dict) -> str:
         ("Element", element),
         ("Maximum", f.get("max_raw")),
         ("Echo cost", f.get("echo_raw")),
+        ("SECC", f.get("secc")),
         ("Classification", f.get("classification")),
         ("Filed", f.get("author")),
     ]

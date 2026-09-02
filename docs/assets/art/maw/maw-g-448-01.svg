@@ -5,22 +5,22 @@
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="glee9218" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgee9218)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgee9218)" stroke="#d64a4a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="121" fill="url(#glee9218)"/>
   <g transform="rotate(-7 200.0 180.0)">
-    <circle cx="200.0" cy="180.0" r="96" fill="#3e8bd5" fill-opacity=".16" stroke="#3e8bd5" stroke-width="3"/>
-    <circle cx="200.0" cy="180.0" r="52.8" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".8"/>
+    <circle cx="200.0" cy="180.0" r="96" fill="#d64a4a" fill-opacity=".16" stroke="#d64a4a" stroke-width="3"/>
+    <circle cx="200.0" cy="180.0" r="52.8" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".8"/>
     <path d="M324.3 153.6 L184.8 195.8" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
     <path d="M249.9 153.6 L200.4 195.8" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
     <path d="M355.2 153.6 L211.8 195.8" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
     <path d="M265.7 153.6 L215.2 195.8" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <circle cx="200.0" cy="180.0" r="8" fill="#3e8bd5" fill-opacity=".7"/>
-    <path d="M200.0 276.0 L190.0 252.0 L210.0 252.0 Z" fill="#3e8bd5" fill-opacity=".4"/>
+    <circle cx="200.0" cy="180.0" r="8" fill="#d64a4a" fill-opacity=".7"/>
+    <path d="M200.0 276.0 L190.0 252.0 L210.0 252.0 Z" fill="#d64a4a" fill-opacity=".4"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-G-448-01</text>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-G-448-01</text>
 </svg>

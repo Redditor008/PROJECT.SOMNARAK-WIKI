@@ -5,22 +5,22 @@
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gl442bed" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg442bed)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg442bed)" stroke="#c9a86a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="130" fill="url(#gl442bed)"/>
   <g transform="rotate(9 200.0 190.0)">
-    <path d="M174.0 190.0 L185.0 131.6 L187.0 23.0 L215.0 139.9 L226.0 190.0 Z" fill="#3e8bd5" fill-opacity=".28" stroke="#3e8bd5" stroke-width="3"/>
+    <path d="M174.0 190.0 L185.0 131.6 L187.0 23.0 L215.0 139.9 L226.0 190.0 Z" fill="#c9a86a" fill-opacity=".28" stroke="#c9a86a" stroke-width="3"/>
     <path d="M200.0 190.0 L187.0 23.0" fill="none" stroke="#e0f2fe" stroke-width="1.4" opacity=".8"/>
     <path d="M189.4 131.6 L201.4 135.6" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
     <path d="M187.3 103.7 L199.3 107.7" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
     <path d="M185.1 75.9 L197.1 79.9" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <rect x="166.0" y="186.0" width="68.0" height="8" rx="3" fill="#3e8bd5" fill-opacity=".5"/>
-    <rect x="193.0" y="194.0" width="14" height="46" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-    <circle cx="200.0" cy="248.0" r="5" fill="#3e8bd5" fill-opacity=".7"/>
+    <rect x="166.0" y="186.0" width="68.0" height="8" rx="3" fill="#c9a86a" fill-opacity=".5"/>
+    <rect x="193.0" y="194.0" width="14" height="46" rx="5" fill="#1f2937" stroke="#c9a86a" stroke-width="2"/>
+    <circle cx="200.0" cy="248.0" r="5" fill="#c9a86a" fill-opacity=".7"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-845-01</text>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-W-845-01</text>
 </svg>
