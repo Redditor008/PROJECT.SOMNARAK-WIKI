@@ -183,7 +183,7 @@ needs assertions after `setTimeout`; `file://` localStorage throws.
   coverage text/bar updated.
 - New tools: `tools/generate_maw_items.py`, `tools/build_search_index.py`.
 - Site totals: 1,041 chrome pages, 1,040 search routes + sitemap URLs,
-  728,439 editorial words, 1,282 SVGs.
+  739,550 editorial words, 1,282 SVGs.
 - Prior rounds: SE field-record subpages, SE category tag strips, M.A.W.
   chapter publication (combat/resistance/gift records), Google indexing
   (sitemap/robots/SEO meta + GSC verification), home right sidebar rebuilt as
@@ -197,9 +197,11 @@ needs assertions after `setTimeout`; `file://` localStorage throws.
    (6.6k–16.3k words each; Director's Story sealed; core cross-links;
    Related Records nav; static + float TOCs regenerated).
 3. Faction tech / relations / dream realm / memory archive / corporations —
-   `factions/faction-technology.html`, `factions/index.html` (relations),
-   `lore/the-dream-realm.html`, `locations/the-library-of-stolen-pasts.html`,
-   `factions/the-founding-corporations.html` vs their 07_Reference sources.
+   **done** (round 26, same day): all five records published in full —
+   faction-technology 4,316 words, the-dream-realm 2,640,
+   the-library-of-stolen-pasts 2,188, the-founding-corporations 1,498,
+   factions hub +3,435-word Web of Power record (power structure,
+   relationship matrices, hidden alliances, rivalries, tensions, hooks).
 4. `SOMNARAK_ENTITY_TALES.md` publication — **verified against the real
    entity files first** (owner gate): 246/246 tales match a real entity file
    by Korean name; SECC codes present in all 246 stems; all 55 main-protected
