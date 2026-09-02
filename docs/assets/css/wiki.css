@@ -13272,3 +13272,153 @@ body.home-page .rail-action {
   font-family: var(--display, Impact, sans-serif) !important;
 }
 body.home-page .rail-action:hover { background: #141207 !important; }
+
+/* ============================================================
+   HOME RIGHT RAIL — FACILITY 01 CONSOLE (refined remake
+   2026-09-02): slim code-chip rows + 44px banner strips,
+   per-floor accent, console status line
+   ============================================================ */
+body.home-page .floor-rail {
+  padding: 22px 14px 26px !important;
+}
+body.home-page .floor-rail > h2 {
+  font: 1.3rem/1 Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.14em !important;
+  color: #f1df76 !important;
+  text-align: center !important;
+  margin: 0 0 6px !important;
+}
+body.home-page .floor-rail > h2::before,
+body.home-page .floor-rail > h2::after { content: none !important; }
+body.home-page .floor-rail > h2 + .floor-button-list {
+  border-top: 1px solid #223047 !important;
+  margin-top: 12px !important;
+}
+body.home-page .floor-button-list {
+  display: block !important;
+}
+body.home-page .floor-card-link {
+  display: block !important;
+  position: relative !important;
+  margin: 8px 0 0 !important;
+  padding: 0 !important;
+  border: 1px solid #1c2a3d !important;
+  border-top: 2px solid var(--floor, #38bdf8) !important;
+  border-radius: 4px !important;
+  background: linear-gradient(180deg, #0a0f18 0%, #060a12 100%) !important;
+  overflow: hidden !important;
+  text-decoration: none !important;
+  transition: border-color 0.15s ease, transform 0.15s ease !important;
+}
+body.home-page .floor-card-top {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  padding: 9px 10px 8px !important;
+  min-width: 0 !important;
+}
+body.home-page .floor-code {
+  flex-shrink: 0 !important;
+  font: 700 0.6rem/1 ui-monospace, SFMono-Regular, Menlo, monospace !important;
+  letter-spacing: 0.12em !important;
+  color: var(--floor, #38bdf8) !important;
+  border: 1px solid var(--floor, #38bdf8) !important;
+  border-radius: 3px !important;
+  padding: 3px 5px 2px !important;
+}
+body.home-page .floor-dept-name {
+  flex: 1 1 auto !important;
+  min-width: 0 !important;
+  font: 0.76rem/1.35 var(--display, Impact, "Arial Narrow Bold", sans-serif) !important;
+  letter-spacing: 0.09em !important;
+  color: #dfe7f3 !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+body.home-page .floor-avatar-img {
+  width: 26px !important;
+  height: 26px !important;
+  min-width: 26px !important;
+  border-radius: 50% !important;
+  border: 1.5px solid var(--floor, #38bdf8) !important;
+  background: #05070c !important;
+  object-fit: cover !important;
+  flex-shrink: 0 !important;
+  transition: box-shadow 0.15s ease !important;
+}
+body.home-page .floor-card-banner {
+  position: relative !important;
+  width: 100% !important;
+  height: 44px !important;
+  border-top: 1px solid #16233a !important;
+  overflow: hidden !important;
+}
+body.home-page .floor-banner-img {
+  width: 100% !important;
+  height: 44px !important;
+  object-fit: cover !important;
+  display: block !important;
+  filter: brightness(0.85) saturate(1.05) !important;
+  transition: filter 0.2s ease !important;
+}
+body.home-page .floor-card-link:hover {
+  border-color: var(--floor, #38bdf8) !important;
+  transform: translateY(-1px) !important;
+}
+body.home-page .floor-card-link:hover .floor-banner-img { filter: brightness(1.12) saturate(1.12) !important; }
+body.home-page .floor-card-link:hover .floor-avatar-img { box-shadow: 0 0 10px var(--floor, #38bdf8) !important; }
+body.home-page .floor-card-link:hover .floor-dept-name { color: #ffffff !important; }
+body.home-page .floor-badge-tag,
+body.home-page .floor-lead-name,
+body.home-page .floor-info-text,
+body.home-page .floor-card-head { display: none !important; }
+body.home-page .rail-console-status {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  margin-top: 12px !important;
+  padding: 9px 10px !important;
+  border: 1px solid #1c2a3d !important;
+  border-radius: 4px !important;
+  background: #060a12 !important;
+  font: 600 0.58rem/1.5 ui-monospace, SFMono-Regular, Menlo, monospace !important;
+  letter-spacing: 0.12em !important;
+  color: #9fb2cc !important;
+}
+body.home-page .rail-console-status .led-dot {
+  display: inline-block !important;
+  width: 7px !important;
+  height: 7px !important;
+  border-radius: 50% !important;
+  background: #10b981 !important;
+  box-shadow: 0 0 6px #10b981 !important;
+  flex-shrink: 0 !important;
+}
+body.home-page .rail-console-status small {
+  display: block !important;
+  margin-top: 1px !important;
+  font-weight: 500 !important;
+  color: #5f7189 !important;
+}
+body.home-page .rail-action {
+  display: block !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  margin-top: 9px !important;
+  padding: 10px 8px !important;
+  border: 1px solid rgba(241, 223, 118, 0.5) !important;
+  border-radius: 4px !important;
+  background: #050505 !important;
+  color: #f1df76 !important;
+  text-align: center !important;
+  letter-spacing: 0.14em !important;
+  font: 0.78rem var(--display, Impact, "Arial Narrow Bold", sans-serif) !important;
+  text-decoration: none !important;
+  transition: background 0.15s ease, border-color 0.15s ease !important;
+}
+body.home-page .rail-action:hover {
+  background: #141207 !important;
+  border-color: #f1df76 !important;
+  color: #fff3a0 !important;
+}

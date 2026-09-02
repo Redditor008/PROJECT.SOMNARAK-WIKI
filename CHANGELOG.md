@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- Refined remake of the main homepage right sidebar (FACILITY 01 console): the cluttered banner-badge cards are replaced with slim floor rows — a per-floor accent hairline and **F1–F8 code chip** (floor color), department name, and 26px core avatar with floor-color ring — over a 44px banner strip (dimmed, brightens on hover; avatar glows in the floor color). A console status line (`● ALL FLOORS NOMINAL · CONSOLE SYNC · YEAR 4,238`) and two gold action buttons (Facility 01 Map, City Atlas) close the rail. One consolidated CSS block now owns the rail; all legacy/ghost class rules are neutralized.
+
 - Rebuilt the main homepage right sidebar (FACILITY 01 Master Facility Console): each of the eight floors is now a banner card — per-floor banner art (`assets/art/departments/f1..f8-banner.svg`), a FLOOR badge, the core avatar, department name, and core lead — followed by the Facility 01 Map and City Atlas actions. Consolidated the home-rail CSS into one deterministic block (hover accent follows the floor color; legacy pseudo-element decorations on the header neutralized).
 
 - **Category tags (D)** — added the "in: …" tag strip above the title on all ten SE record pages: Sorrow Entity, manifestation, element, sorrow category, coherence, potency, and location — every value sourced from the page's own infobox fact-grid (nothing invented). New `.entity-tags` chip styling keyed to the entity accent color.
