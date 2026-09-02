@@ -161,7 +161,7 @@ def render_left_sidebar(path: Path, root: Path) -> str:
 
     <div class="site-mark">
       <a href="{prefix}index.html" aria-label="Somnarak Wiki main overview">
-        <span class="site-mark-emblem"><img src="{prefix}assets/icons/somnarak_icon.svg" width="104" height="104" alt=""/></span>
+        <span class="site-mark-emblem"><img src="{prefix}assets/icons/somnarak_icon.svg?v=20260903b" width="104" height="104" alt=""/></span>
         <span class="site-mark-copy"><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
       </a>
       <p>CITY OF UNRESOLVED SORROW</p>

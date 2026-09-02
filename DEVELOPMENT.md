@@ -22,6 +22,7 @@ Directorate). No build step, no framework — plain HTML + one CSS + one JS.
 | Path | Contents |
 |---|---|
 | `docs/` | The public site (root = `index.html`). `assets/{css,js,art,icons,layout,avatars}`, `data/search.json`, one folder per archive (`characters/`, `lore/`, `locations/`, `factions/`, `departments/`, `entities/`, `maw/`, `mechanics/`, `atlas/`, `project/`) |
+| `assets/icons/somnarak_icon.svg` | **The site emblem is the real city map** (five-zone layout, not a generic seal) — owner-verified 2026-09-03. Canonical city geometry lives in `assets/layout/city/blueprints/SOMNARAK_CITY_LAYOUT.svg` (polygon coords in a 1800×1100 space, map center 620,550). Rebuild the emblem/banner by scaling those polygons — never invent new shapes. |
 | `tools/` | All gate/sync/generation scripts. **Standard library only.** See §5–§7 |
 | `REFERENCE_SOMNARAK_WIKI/` | Canon source tree. M.A.W. item registry: `LORE or REFERANCE/M.A.W. Codex_Set Registry/` (note the misspelled folder name — it is canonical). SE sources: `LORE or REFERANCE/01_Sorrow_Entities/` |
 | `CHANGELOG.md` | Round-by-round history. Add an entry every commit batch |

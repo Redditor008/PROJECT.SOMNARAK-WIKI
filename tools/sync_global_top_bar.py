@@ -105,7 +105,7 @@ def render_top_bar(path: Path, root: Path) -> str:
       <span class="nav-open-text">MENU</span>
     </button>
     <a class="utility-brand" href="{prefix}index.html" aria-label="Somnarak Wiki main page">
-      <img src="{prefix}assets/icons/somnarak_icon.svg" width="34" height="34" alt=""/>
+      <img src="{prefix}assets/icons/somnarak_icon.svg?v=20260903b" width="34" height="34" alt=""/>
       <span class="utility-brand-copy"><b>SOMNARAK.WIKI</b><small>DIRECTORATE ARCHIVE</small></span>
     </a>
     <span class="utility-era"><i aria-hidden="true"></i><span>YEAR 4,238</span><b>DAWN INITIATIVE</b></span>

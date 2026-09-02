@@ -210,7 +210,7 @@ def render_bottom_bar(path: Path, root: Path) -> str:
     <section class="footer-identity" aria-label="Somnarak Wiki">
       <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
       <a class="footer-brand" href="{prefix}index.html">
-        <span class="footer-emblem"><img src="{prefix}assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span class="footer-emblem"><img src="{prefix}assets/icons/somnarak_icon.svg?v=20260903b" width="78" height="78" alt=""/></span>
         <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
       </a>
       <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
