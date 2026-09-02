@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- Added Google-indexing infrastructure for the live site: `docs/sitemap.xml` (all 206 public pages with absolute URLs, lastmod, changefreq, and depth-based priority) and `docs/robots.txt` (crawl allow + `Sitemap:` pointer to `https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/sitemap.xml`).
+- Added per-page SEO meta to all 206 public pages via the new `tools/sync_seo_meta.py` (idempotent, verify + --write modes, matching the existing sync-suite convention): `<meta name="description">` (search-index text, falling back to the first content paragraph), `<link rel="canonical">` to the canonical GitHub Pages URL, Open Graph set (og:type/site_name/title/description/url) and `twitter:card`. Deduplicated 39 legacy pages that carried a jsdom-normalized description meta in alternate attribute order.
+- New `tools/build_sitemap.py` regenerates sitemap.xml + robots.txt from the docs tree (re-run after adding pages).
+
 - Added ten supplementary **Field Record** pages (one per published SE: `entities/se-XXX-...-field-record.html`) carrying the remaining SECC source chapters not reproduced on the main record — Core Stat Line (full), Operational Notes, Special Behaviors, Operational Work Notes, Detailed Appearance Profile, Escalation Notes, Detailed Activation Record, M.A.W. Use Notes, Field Use Record, the full Flavor Text sensory set, Interaction Pattern, and Entity Interaction Record (6–12 sections per entity, exactly what each source file contains). Each subpage reuses the entity's banner, seal, and tactical combat radar, has its own FIELD RECORD tab, four-level breadcrumb, back/next article-nav, and is indexed in search.
 - Added the active clickables on the ten main SE record pages: a **Full field record ↗** link strip at the top of the content plus four contextual section links (appearance profile / activation record / maw use notes / interaction record) that deep-link to the matching subpage section, falling back to the subpage root where an entity's source lacks that section.
 
