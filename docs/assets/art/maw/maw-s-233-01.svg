@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SOUL SHROUD">
+  <defs>
+    <radialGradient id="bgbfcd98" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <radialGradient id="glbfcd98" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgbfcd98)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#glbfcd98)"/>
+  <g transform="rotate(11 200.0 190.0)">
+    <path d="M118.0 172.8 L167.2 142.7 L188.0 125.5 L212.0 125.5 L232.8 142.7 L282.0 172.8 L261.5 237.3 L200.0 270.8 L138.5 237.3 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
+    <path d="M138.5 159.9 L261.5 159.9" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".7"/>
+    <circle cx="200.0" cy="196.0" r="14" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
+    <circle cx="200.0" cy="196.0" r="8" fill="#3e8bd5" fill-opacity=".5"/>
+    <path d="M180.0 202.9 L220.0 208.9" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
+    <path d="M180.0 218.9 L220.0 224.9" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
+  </g>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-S-233-01</text>
+</svg>

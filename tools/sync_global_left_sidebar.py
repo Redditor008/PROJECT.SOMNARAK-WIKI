@@ -196,8 +196,8 @@ def render_left_sidebar(path: Path, root: Path) -> str:
 
     <div class="rail-status" aria-label="Current archive release">
       <span><i aria-hidden="true"></i> ARCHIVE ONLINE</span>
-      <strong>1.8.31</strong>
-      <small>197 PUBLIC RECORDS // CYCLE ENDED</small>
+      <strong>1.9.0</strong>
+      <small>1,041 PUBLIC RECORDS // CYCLE ENDED</small>
     </div>
   </div>
 </aside>'''

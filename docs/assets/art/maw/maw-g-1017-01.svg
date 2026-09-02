@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE TRACE MARK">
+  <defs>
+    <radialGradient id="bgd9df27" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <radialGradient id="gld9df27" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgd9df27)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="145" fill="url(#gld9df27)"/>
+  <g transform="rotate(-6 200.0 180.0)">
+    <circle cx="200.0" cy="180.0" r="94" fill="#3e8bd5" fill-opacity=".16" stroke="#3e8bd5" stroke-width="3"/>
+    <circle cx="200.0" cy="180.0" r="51.7" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".8"/>
+    <path d="M439.6 154.2 L208.3 195.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
+    <path d="M447.4 154.2 L197.5 195.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
+    <path d="M451.3 154.2 L210.1 195.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
+    <path d="M453.6 154.2 L217.7 195.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
+    <path d="M454.4 154.2 L184.1 195.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
+    <circle cx="200.0" cy="180.0" r="8" fill="#3e8bd5" fill-opacity=".7"/>
+    <path d="M200.0 274.0 L190.0 252.0 L210.0 252.0 Z" fill="#3e8bd5" fill-opacity=".4"/>
+  </g>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-G-1017-01</text>
+</svg>

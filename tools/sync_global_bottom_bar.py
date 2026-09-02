@@ -30,7 +30,7 @@ BOTTOM_BAR_RE = re.compile(
 )
 ANY_FOOTER_RE = re.compile(r'<footer\b[^>]*>.*?</footer>', re.IGNORECASE | re.DOTALL)
 
-LAST_VERIFIED = "2026-09-01"
+LAST_VERIFIED = "2026-09-02"
 
 _ENTITY_PAGE_RE = re.compile(r"^se-(\d{3})-(.+)$")
 _MAW_PAGE_RE = re.compile(r"^maw-([WSGwsg])-(\d{3})-(\d{2})-(.+)$")
@@ -230,11 +230,11 @@ def render_bottom_bar(path: Path, root: Path) -> str:
 
     <section class="footer-status" aria-label="Current archive status">
       <span>Verified repository snapshot</span>
-      <strong>1.8.31</strong>
+      <strong>1.9.0</strong>
       <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
       <dl>
-        <div><dt>Public records</dt><dd>197 HTML</dd></div>
-        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Public records</dt><dd>1,041 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>1,040 ROUTES</dd></div>
         <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
         <div><dt>Cycle state</dt><dd>ENDED</dd></div>
         <div><dt>Gate command</dt><dd>XYAN</dd></div>
@@ -272,9 +272,9 @@ def render_bottom_bar(path: Path, root: Path) -> str:
   <section class="footer-register" aria-label="Publication register">
     <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
     <dl>
-      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
-      <div><dt>Editorial corpus</dt><dd>253,515</dd><small>Counted words</small></div>
-      <div><dt>Visual assets</dt><dd>448</dd><small>SVG</small></div>
+      <div><dt>Public pages</dt><dd>1,041</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>523,150</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,282</dd><small>SVG</small></div>
       <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
       <div><dt>Last verified</dt><dd>{LAST_VERIFIED}</dd><small>SYNC {ASSET_VERSION}</small></div>
     </dl>
@@ -289,7 +289,7 @@ def render_bottom_bar(path: Path, root: Path) -> str:
   <div class="footer-base">
     <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
     <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
-    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.9.0 CHANGELOG <b aria-hidden="true">↗</b></a>
   </div>
 </footer>'''
 
