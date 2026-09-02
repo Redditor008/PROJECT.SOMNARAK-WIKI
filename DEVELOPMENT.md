@@ -183,7 +183,7 @@ needs assertions after `setTimeout`; `file://` localStorage throws.
   coverage text/bar updated.
 - New tools: `tools/generate_maw_items.py`, `tools/build_search_index.py`.
 - Site totals: 1,041 chrome pages, 1,040 search routes + sitemap URLs,
-  619,238 editorial words, 1,282 SVGs.
+  728,439 editorial words, 1,282 SVGs.
 - Prior rounds: SE field-record subpages, SE category tag strips, M.A.W.
   chapter publication (combat/resistance/gift records), Google indexing
   (sitemap/robots/SEO meta + GSC verification), home right sidebar rebuilt as
@@ -192,11 +192,10 @@ needs assertions after `setTimeout`; `file://` localStorage throws.
 
 **Queued (round 26, 2026-09-02 — owner-ordered sequence):**
 1. Reverie Directorate full record — **done** (this round, see CHANGELOG).
-2. Nine Echo-Core character page expansions — `docs/characters/the-*.html`
-   (380–744 words each) vs full `CHARACTER_WIKI/` sources (7.2k–16.8k words
-   each: Voice and Mannerisms, The Secret, full Relationships, Trivia,
-   Story Appearances, Echo-Core Name, etc.). No word ceiling — only the 200
-   floor (owner: "no word limit ceiling, only a word limit floor").
+2. Nine Echo-Core character page expansions — **done** (round 26, same day):
+   all nine `characters/the-*.html` rebuilt in full from `CHARACTER_WIKI/`
+   (6.6k–16.3k words each; Director's Story sealed; core cross-links;
+   Related Records nav; static + float TOCs regenerated).
 3. Faction tech / relations / dream realm / memory archive / corporations —
    `factions/faction-technology.html`, `factions/index.html` (relations),
    `lore/the-dream-realm.html`, `locations/the-library-of-stolen-pasts.html`,
