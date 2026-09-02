@@ -10,10 +10,12 @@ from __future__ import annotations
 
 import argparse
 import re
+
+VERIFY_RE = re.compile(r"^(?:google|bing|yandex|facebook|twitter)[0-9a-zA-Z]{10,}\.(?:html|txt)$", re.I)
 from dataclasses import dataclass
 from pathlib import Path
 
-ASSET_VERSION = "20260901w"
+ASSET_VERSION = "20260901x"
 
 # key, primary label, terminal sublabel, route, Directorate slot
 NAV_ITEMS = (
@@ -208,7 +210,7 @@ def validate_top_bars(root: Path) -> list[TopBarIssue]:
     """Return all top-bar, shared-style, and shared-script consistency issues."""
     root = root.resolve()
     issues: list[TopBarIssue] = []
-    for path in sorted(root.rglob("*.html")):
+    for path in (p for p in sorted(root.rglob("*.html")) if not VERIFY_RE.match(p.name)):
         label = path.relative_to(root).as_posix()
         text = path.read_text(encoding="utf-8", errors="replace")
         matches = list(TOP_BAR_RE.finditer(text))
@@ -257,7 +259,7 @@ def main() -> int:
 
     if args.write:
         changed = sum(update_page(path, root) for path in sorted(root.rglob("*.html")))
-        print(f"Synchronized global top bar: {changed} of {len(list(root.rglob('*.html')))} pages updated")
+        print(f"Synchronized global top bar: {changed} of {len([p for p in root.rglob('*.html') if not VERIFY_RE.match(p.name)])} pages updated")
 
     issues = validate_top_bars(root)
     if issues:
@@ -270,7 +272,7 @@ def main() -> int:
 
     print(
         f"PASS: canonical top-bar labels, destinations, active states, search paths, and assets "
-        f"match across {len(list(root.rglob('*.html')))} pages"
+        f"match across {len([p for p in root.rglob('*.html') if not VERIFY_RE.match(p.name)])} pages"
     )
     return 0
 

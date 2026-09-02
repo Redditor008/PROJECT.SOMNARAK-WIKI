@@ -13,6 +13,8 @@ from __future__ import annotations
 
 import argparse
 import re
+
+VERIFY_RE = re.compile(r"^(?:google|bing|yandex|facebook|twitter)[0-9a-zA-Z]{10,}\.(?:html|txt)$", re.I)
 from dataclasses import dataclass
 from functools import lru_cache
 from pathlib import Path
@@ -314,7 +316,7 @@ def update_page(path: Path, root: Path) -> bool:
 def validate_bottom_bars(root: Path) -> list[BottomBarIssue]:
     root = root.resolve()
     issues: list[BottomBarIssue] = []
-    for path in sorted(root.rglob("*.html")):
+    for path in (p for p in sorted(root.rglob("*.html")) if not VERIFY_RE.match(p.name)):
         label = path.relative_to(root).as_posix()
         text = path.read_text(encoding="utf-8", errors="replace")
         all_footers = list(ANY_FOOTER_RE.finditer(text))
@@ -373,7 +375,7 @@ def main() -> int:
         print(f"error: public root does not exist: {root}")
         return 2
 
-    html_files = sorted(root.rglob("*.html"))
+    html_files = [p for p in sorted(root.rglob("*.html")) if not VERIFY_RE.match(p.name)]
     if args.write:
         changed = sum(update_page(path, root) for path in html_files)
         print(f"Synchronized global bottom bar: {changed} of {len(html_files)} pages updated")

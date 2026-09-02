@@ -13054,6 +13054,15 @@ details.spoiler-box .spoiler-body p { margin: 8px 0; }
 .record-ext-link:hover { color: #7dd3fc; border-bottom-style: solid; }
 .record-ext-link::after { content: " \2197"; }
 
+/* ============================================================
+   ENTITY CATEGORY TAGS (2026-09-02) — "in: …" strip above the
+   record title, values sourced from the infobox fact-grid
+   ============================================================ */
+.entity-tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 10px; }
+.entity-tags span { padding: 3px 9px; border: 1px solid rgba(143,163,191,.3); border-radius: 4px; font: 600 9.5px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: .1em; text-transform: uppercase; color: #9fb2cc; background: rgba(8,13,22,.5); }
+.entity-tags span:first-child { border-color: var(--entity, #38bdf8); color: var(--entity, #38bdf8); }
+
+
 
 
 /* === 2026-09-01 · canonical float-TOC pin + hard viewport limits (overrides all earlier generations) === */

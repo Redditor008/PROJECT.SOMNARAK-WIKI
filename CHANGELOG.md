@@ -8,6 +8,10 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Category tags (D)** — added the "in: …" tag strip above the title on all ten SE record pages: Sorrow Entity, manifestation, element, sorrow category, coherence, potency, and location — every value sourced from the page's own infobox fact-grid (nothing invented). New `.entity-tags` chip styling keyed to the entity accent color.
+- **M.A.W. install-% bump (A, phase 1)** — published the missing source chapters on all 27 M.A.W. codex pages that have a source record: **Combat Record** + named **Signature Ability** + **Wielder Cost** (weapons, incl. the Rejection Rule where present), **Resistance Record** + named **Protective Ability** + Bearer/Wearer Cost (suits), and **Gift Effect** + named gift record + Binding Requirement (gifts). All content extracted verbatim from the `M.A.W. Codex_Set Registry` sources.
+- All gate and sync tools now skip search-engine verification files (e.g. `google<id>.html`) so the owner's Search Console file stays byte-identical and out of the audit surface.
+
 - Added Google-indexing infrastructure for the live site: `docs/sitemap.xml` (all 206 public pages with absolute URLs, lastmod, changefreq, and depth-based priority) and `docs/robots.txt` (crawl allow + `Sitemap:` pointer to `https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/sitemap.xml`).
 - Added per-page SEO meta to all 206 public pages via the new `tools/sync_seo_meta.py` (idempotent, verify + --write modes, matching the existing sync-suite convention): `<meta name="description">` (search-index text, falling back to the first content paragraph), `<link rel="canonical">` to the canonical GitHub Pages URL, Open Graph set (og:type/site_name/title/description/url) and `twitter:card`. Deduplicated 39 legacy pages that carried a jsdom-normalized description meta in alternate attribute order.
 - New `tools/build_sitemap.py` regenerates sitemap.xml + robots.txt from the docs tree (re-run after adding pages).

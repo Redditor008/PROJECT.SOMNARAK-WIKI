@@ -10,6 +10,8 @@ from __future__ import annotations
 
 import argparse
 import re
+
+VERIFY_RE = re.compile(r"^(?:google|bing|yandex|facebook|twitter)[0-9a-zA-Z]{10,}\.(?:html|txt)$", re.I)
 from dataclasses import dataclass
 from html import escape
 from pathlib import Path
@@ -269,7 +271,7 @@ def validate_left_sidebars(root: Path) -> list[LeftSidebarIssue]:
     """Return every missing, duplicate, or drifted global left-sidebar issue."""
     root = root.resolve()
     issues: list[LeftSidebarIssue] = []
-    for path in sorted(root.rglob("*.html")):
+    for path in (p for p in sorted(root.rglob("*.html")) if not VERIFY_RE.match(p.name)):
         label = path.relative_to(root).as_posix()
         text = path.read_text(encoding="utf-8", errors="replace")
         all_rails = list(LEFT_RAIL_RE.finditer(text))
@@ -315,7 +317,7 @@ def main() -> int:
         print(f"error: public root does not exist: {root}")
         return 2
 
-    html_files = sorted(root.rglob("*.html"))
+    html_files = [p for p in sorted(root.rglob("*.html")) if not VERIFY_RE.match(p.name)]
     if args.write:
         changed = sum(update_page(path, root) for path in html_files)
         print(f"Synchronized global left sidebar: {changed} of {len(html_files)} pages updated")
