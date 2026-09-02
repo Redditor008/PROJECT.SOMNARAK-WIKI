@@ -667,7 +667,7 @@ CROSS_REF = """<!-- Bottom Cross-Reference Directory -->
   </div>
 </section>"""
 
-ASSET_VERSION = "20260901aa"
+ASSET_VERSION = "20260902b"
 
 
 def main() -> int:
@@ -675,7 +675,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--limit", type=int, default=0)
-    parser.add_argument("--version", default="20260901aa")
+    parser.add_argument("--version", default="20260902b")
     args = parser.parse_args()
     ASSET_VERSION = args.version
 

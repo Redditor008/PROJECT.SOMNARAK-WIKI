@@ -13422,3 +13422,19 @@ body.home-page .rail-action:hover {
   border-color: #f1df76 !important;
   color: #fff3a0 !important;
 }
+
+/* R.D. facility diagrams (ASCII architecture from source) */
+pre.diagram {
+  font-family: "Cascadia Code", "Fira Code", ui-monospace, "SF Mono", Consolas, monospace;
+  font-size: 12.5px;
+  line-height: 1.55;
+  color: #e8e6e3;
+  background: #14141c;
+  border: 1px solid #2a2a38;
+  border-left: 3px solid #f1df76;
+  border-radius: 8px;
+  padding: 14px 16px;
+  margin: 16px 0;
+  overflow-x: auto;
+  white-space: pre;
+}

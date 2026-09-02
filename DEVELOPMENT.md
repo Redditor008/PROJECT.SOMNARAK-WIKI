@@ -183,12 +183,31 @@ needs assertions after `setTimeout`; `file://` localStorage throws.
   coverage text/bar updated.
 - New tools: `tools/generate_maw_items.py`, `tools/build_search_index.py`.
 - Site totals: 1,041 chrome pages, 1,040 search routes + sitemap URLs,
-  523,150 editorial words, 1,282 SVGs.
+  619,238 editorial words, 1,282 SVGs.
 - Prior rounds: SE field-record subpages, SE category tag strips, M.A.W.
   chapter publication (combat/resistance/gift records), Google indexing
   (sitemap/robots/SEO meta + GSC verification), home right sidebar rebuilt as
   the FACILITY 01 console, float-TOC, infobox/grid geometry fixes.
   Full history: `CHANGELOG.md`.
+
+**Queued (round 26, 2026-09-02 — owner-ordered sequence):**
+1. Reverie Directorate full record — **done** (this round, see CHANGELOG).
+2. Nine Echo-Core character page expansions — `docs/characters/the-*.html`
+   (380–744 words each) vs full `CHARACTER_WIKI/` sources (7.2k–16.8k words
+   each: Voice and Mannerisms, The Secret, full Relationships, Trivia,
+   Story Appearances, Echo-Core Name, etc.). No word ceiling — only the 200
+   floor (owner: "no word limit ceiling, only a word limit floor").
+3. Faction tech / relations / dream realm / memory archive / corporations —
+   `factions/faction-technology.html`, `factions/index.html` (relations),
+   `lore/the-dream-realm.html`, `locations/the-library-of-stolen-pasts.html`,
+   `factions/the-founding-corporations.html` vs their 07_Reference sources.
+4. `SOMNARAK_ENTITY_TALES.md` publication — **verified against the real
+   entity files first** (owner gate): 246/246 tales match a real entity file
+   by Korean name; SECC codes present in all 246 stems; all 55 main-protected
+   entities covered (file = 55 main + 190 non-main); 88 tales use narrative
+   names differing from the entity-file codenames (Korean is authority —
+   publish under codename, keep tale epithet as alias); 242/246 tale entities
+   are M.A.W. donors; 81 donor IDs (SE-1001+ series) have no tale.
 
 **Deferred (owner decisions, not forgotten):**
 - Tabs UI on item pages (later). Gallery (later). References: **never**.
