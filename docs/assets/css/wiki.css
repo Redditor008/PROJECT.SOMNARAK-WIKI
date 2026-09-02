@@ -13236,3 +13236,39 @@ aside.left-rail[data-component="global-left-sidebar"] .rail-signal b {
     margin-right: 4px !important;
   }
 }
+
+/* ============================================================
+   HOME RIGHT RAIL — Master Facility Console (rebuilt 2026-09-02)
+   Banner cards + core avatars + lead names, per-floor accent
+   ============================================================ */
+body.home-page .floor-rail > h2 {
+  font: 1.15rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.1em !important;
+  color: #f1df76 !important;
+  text-align: center !important;
+  margin: 0 0 14px !important;
+}
+body.home-page .floor-rail > h2::before,
+body.home-page .floor-rail > h2::after { content: none !important; }
+body.home-page .floor-card-head {
+  display: flex !important;
+  align-items: center !important;
+  gap: 9px !important;
+  padding: 8px 10px !important;
+  min-width: 0 !important;
+}
+body.home-page .floor-card-link { transition: border-color .15s ease, transform .15s ease !important; }
+body.home-page .floor-card-link:hover {
+  border-color: var(--floor, #38bdf8) !important;
+  transform: translateY(-1px) !important;
+}
+body.home-page .floor-card-link:hover .floor-dept-name { color: var(--floor, #f1df76) !important; }
+body.home-page .rail-action {
+  border: 2px solid var(--gold, #f1df76) !important;
+  background: #050505 !important;
+  color: var(--gold, #f1df76) !important;
+  text-align: center !important;
+  letter-spacing: 0.12em !important;
+  font-family: var(--display, Impact, sans-serif) !important;
+}
+body.home-page .rail-action:hover { background: #141207 !important; }

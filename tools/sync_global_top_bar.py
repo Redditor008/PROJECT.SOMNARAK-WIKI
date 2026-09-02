@@ -15,7 +15,7 @@ VERIFY_RE = re.compile(r"^(?:google|bing|yandex|facebook|twitter)[0-9a-zA-Z]{10,
 from dataclasses import dataclass
 from pathlib import Path
 
-ASSET_VERSION = "20260901x"
+ASSET_VERSION = "20260901y"
 
 # key, primary label, terminal sublabel, route, Directorate slot
 NAV_ITEMS = (

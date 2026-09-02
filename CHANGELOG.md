@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- Rebuilt the main homepage right sidebar (FACILITY 01 Master Facility Console): each of the eight floors is now a banner card — per-floor banner art (`assets/art/departments/f1..f8-banner.svg`), a FLOOR badge, the core avatar, department name, and core lead — followed by the Facility 01 Map and City Atlas actions. Consolidated the home-rail CSS into one deterministic block (hover accent follows the floor color; legacy pseudo-element decorations on the header neutralized).
+
 - **Category tags (D)** — added the "in: …" tag strip above the title on all ten SE record pages: Sorrow Entity, manifestation, element, sorrow category, coherence, potency, and location — every value sourced from the page's own infobox fact-grid (nothing invented). New `.entity-tags` chip styling keyed to the entity accent color.
 - **M.A.W. install-% bump (A, phase 1)** — published the missing source chapters on all 27 M.A.W. codex pages that have a source record: **Combat Record** + named **Signature Ability** + **Wielder Cost** (weapons, incl. the Rejection Rule where present), **Resistance Record** + named **Protective Ability** + Bearer/Wearer Cost (suits), and **Gift Effect** + named gift record + Binding Requirement (gifts). All content extracted verbatim from the `M.A.W. Codex_Set Registry` sources.
 - All gate and sync tools now skip search-engine verification files (e.g. `google<id>.html`) so the owner's Search Console file stays byte-identical and out of the audit surface.
