@@ -1,40 +1,81 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FORGOTTEN LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // GLASS PALE LENS -->
   <defs>
-    <radialGradient id="bgdfa478" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="flBg" cx=".5" cy=".38" r=".72">
+      <stop offset="0" stop-color="#eef3f6"/>
+      <stop offset=".55" stop-color="#c1ccd3"/>
+      <stop offset="1" stop-color="#5c676e"/>
     </radialGradient>
-    <radialGradient id="gldfa478" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    <radialGradient id="flGlass" cx=".44" cy=".36" r=".6">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".95"/>
+      <stop offset=".55" stop-color="#dbe4e9" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#9aabb5" stop-opacity=".9"/>
     </radialGradient>
+    <linearGradient id="flEdge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#b9c7d0"/>
+    </linearGradient>
+    <linearGradient id="flGrip" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8a9aa5"/>
+      <stop offset="1" stop-color="#3c454b"/>
+    </linearGradient>
+    <filter id="flGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgdfa478)" stroke="#8a8f98" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="117" fill="url(#gldfa478)"/>
-  <g transform="rotate(4 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="50.0" ry="71.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="41.0" ry="59.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="32.0" ry="49.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M232.1 137.6 L226.4 146.8" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M245.7 163.1 L237.5 168.0" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M250.0 194.5 L241.0 194.1" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M244.1 225.3 L236.2 219.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="138.0" y="186.0" width="124.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="263.0" width="12" height="33.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
+
+  <rect width="400" height="400" fill="url(#flBg)"/>
+
+  <!-- Short grip -->
+  <rect x="192" y="252" width="16" height="82" rx="6" fill="url(#flGrip)" stroke="#3c454b" stroke-width="1.4"/>
+  <path d="M192 274 L208 274 M192 296 L208 296" stroke="#2a3338" stroke-width="1.2"/>
+  <circle cx="200" cy="326" r="4" fill="#68737b"/>
+
+  <!-- Lens-edged disc flattens into a thin plane -->
+  <circle cx="200" cy="172" r="90" fill="url(#flGlass)" stroke="#8a9aa5" stroke-width="2"/>
+  <circle cx="200" cy="172" r="78" fill="none" stroke="#eef3f6" stroke-width="1" opacity=".6"/>
+  <g filter="url(#flGlow)">
+    <path d="M112 132 Q200 96 288 132 Q298 172 288 212 Q200 248 112 212 Q102 172 112 132 Z"
+          fill="none" stroke="url(#flEdge)" stroke-width="5" opacity=".9"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M184.0 88.0 L198.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+
+  <!-- A face begins to appear, then fragments -->
+  <g opacity=".75">
+    <ellipse cx="200" cy="170" rx="36" ry="46" fill="#eef3f6" stroke="#8a9aa5" stroke-width="1"/>
+    <path d="M182 158 Q184 146 194 146 Q196 156 190 162" fill="none" stroke="#8a9aa5" stroke-width="1.2"/>
+    <path d="M218 158 Q216 146 206 146 Q204 156 210 162" fill="none" stroke="#8a9aa5" stroke-width="1.2"/>
+    <path d="M196 184 Q200 190 204 184" fill="none" stroke="#8a9aa5" stroke-width="1.2"/>
+    <path d="M190 200 Q200 208 210 200" fill="none" stroke="#8a9aa5" stroke-width="1" opacity=".6"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M200.0 88.0 L214.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  <g stroke="#7d8b93" stroke-width="1" opacity=".55">
+    <line x1="164" y1="150" x2="132" y2="128"/>
+    <line x1="236" y1="150" x2="268" y2="128"/>
+    <line x1="164" y1="200" x2="140" y2="220"/>
+    <line x1="236" y1="200" x2="260" y2="220"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M216.0 88.0 L230.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+
+  <!-- The thread being un-woven -->
+  <path d="M42 92 Q140 126 200 154" fill="none" stroke="#68737b" stroke-width="1.6" opacity=".7"/>
+  <path d="M358 88 Q272 120 200 154" fill="none" stroke="#68737b" stroke-width="1.6" opacity=".7"/>
+  <path d="M42 92 L42 76" stroke="#68737b" stroke-width="1.4" opacity=".6"/>
+  <path d="M358 88 L358 72" stroke="#68737b" stroke-width="1.4" opacity=".6"/>
+
+  <!-- Severed ends -->
+  <circle cx="200" cy="154" r="4" fill="#ffffff" filter="url(#flGlow)"/>
+  <path d="M56 86 l8 -8 M62 90 l6 -10 M344 82 l8 -8 M338 86 l6 -10" stroke="#68737b" stroke-width="1.2" opacity=".5"/>
+
+  <!-- One small nameless memory left in the glass -->
+  <g fill="#ffffff" opacity=".55">
+    <circle cx="172" cy="208" r="2"/>
+    <circle cx="232" cy="210" r="2"/>
+    <circle cx="150" cy="190" r="1.6"/>
+    <circle cx="252" cy="188" r="1.6"/>
   </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
+  <path d="M184 216 L192 222 L200 216 L208 222" fill="none" stroke="#ffffff" stroke-width="1" opacity=".4"/>
+
+  <!-- The returned song, passing back -->
+  <g fill="none" stroke="#5c676e" stroke-width="1.2" opacity=".5">
+    <path d="M120 312 q8 -18 16 0 q8 18 16 0"/>
+    <path d="M140 318 q8 -18 16 0 q8 18 16 0"/>
+    <path d="M160 324 q8 -18 16 0 q8 18 16 0"/>
   </g>
-  <g transform="rotate(-11 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-009-01</text>
 </svg>

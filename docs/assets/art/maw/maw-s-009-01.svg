@@ -1,37 +1,75 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FORGOTTEN VEIL">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- SUIT // VOID VEIL -->
   <defs>
-    <radialGradient id="bga69a58" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="fvBg" cx=".5" cy=".42" r=".78">
+      <stop offset="0" stop-color="#c1ccd3"/>
+      <stop offset="1" stop-color="#4a555c"/>
     </radialGradient>
-    <radialGradient id="gla69a58" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="fvCloth" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2f6f8" stop-opacity=".5"/>
+      <stop offset=".55" stop-color="#dbe4e9" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#c1ccd3" stop-opacity=".12"/>
+    </linearGradient>
+    <linearGradient id="fvFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#eef3f6" stop-opacity=".2"/>
+      <stop offset=".5" stop-color="#ffffff" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#eef3f6" stop-opacity=".2"/>
+    </linearGradient>
+    <filter id="fvBlur" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bga69a58)" stroke="#8a8f98" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="112" fill="url(#gla69a58)"/>
-  <g transform="rotate(-3 200.0 192.0)">
-<path d="M135.0 125.8 Q200.0 89.0 265.0 125.8 L259.8 249.0 Q200.0 276.6 140.2 249.0 Z" fill="#8a8f98" fill-opacity=".16" stroke="#8a8f98" stroke-width="3"/>
-<path d="M143.0 150.6 Q200.0 164.6 257.0 146.6" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
-<path d="M143.0 170.6 Q200.0 184.6 257.0 166.6" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
-<path d="M143.0 190.6 Q200.0 204.6 257.0 186.6" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
-<circle cx="200.0" cy="129.4" r="7" fill="#8a8f98" fill-opacity=".65"/>
+
+  <rect width="400" height="400" fill="url(#fvBg)"/>
+
+  <!-- Wearer outline dissolving -->
+  <g opacity=".55" filter="url(#fvBlur)">
+    <ellipse cx="200" cy="160" rx="30" ry="36" fill="#1f272b"/>
+    <path d="M158 210 Q200 178 242 210 L254 286 Q200 320 146 286 Z" fill="#1f272b"/>
   </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 208.0 Q200.0 226.0 264.0 202.0" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".4"/>
+  <g fill="none" stroke="#5a676f" stroke-width="1.2" opacity=".6">
+    <path d="M170 202 Q200 176 230 202"/>
+    <path d="M158 238 Q200 214 242 238"/>
+    <path d="M152 266 Q200 240 248 266"/>
   </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 238.0 Q200.0 256.0 264.0 232.0" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".4"/>
+
+  <!-- Near-transparent veil -->
+  <path d="M132 96 Q200 66 268 96 L286 240 Q200 300 114 240 Z"
+        fill="url(#fvCloth)" stroke="#eef3f6" stroke-width="1.4" opacity=".9"/>
+  <path d="M142 110 L128 246 L166 270 L152 108 Z" fill="#dbe4e9" fill-opacity=".12" stroke="#eef3f6" stroke-width=".7" opacity=".5"/>
+  <path d="M258 110 L272 246 L234 270 L248 108 Z" fill="#dbe4e9" fill-opacity=".12" stroke="#eef3f6" stroke-width=".7" opacity=".5"/>
+
+  <!-- Outline fades when memory reaches for the wearer -->
+  <g filter="url(#fvBlur)" fill="none" stroke="url(#fvFade)" stroke-width="1.4" opacity=".75">
+    <path d="M200 92 L166 100 L140 122 L126 158 Q118 190 122 220 L132 254 L154 280 L180 296 L200 300 L220 296 L246 280 L268 254 L278 220 Q282 190 274 158 L260 122 L234 100 Z"/>
   </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 268.0 Q200.0 286.0 264.0 262.0" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".4"/>
+  <path d="M200 92 L166 100 L140 122 L126 158 Q118 190 122 220 L132 254 L154 280 L180 296 L200 300 L220 296 L246 280 L268 254 L278 220 Q282 190 274 158 L260 122 L234 100 Z"
+        fill="none" stroke="#ffffff" stroke-width=".8" opacity=".45"/>
+
+  <!-- Absence margin: memory trails break off -->
+  <g stroke="#8a9aa5" stroke-width="1" opacity=".45" stroke-dasharray="5 5">
+    <path d="M118 170 L76 160"/>
+    <path d="M282 170 L324 160"/>
+    <path d="M122 230 L70 232"/>
+    <path d="M278 230 L330 232"/>
   </g>
-  <g transform="rotate(8 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
+  <circle cx="64" cy="160" r="3" fill="#8a9aa5" opacity=".4"/>
+  <circle cx="336" cy="160" r="3" fill="#8a9aa5" opacity=".4"/>
+  <circle cx="58" cy="232" r="3" fill="#8a9aa5" opacity=".4"/>
+  <circle cx="342" cy="232" r="3" fill="#8a9aa5" opacity=".4"/>
+
+  <!-- Route log: entered as unconfirmed companion -->
+  <rect x="88" y="322" width="224" height="52" rx="5" fill="#eef3f6" stroke="#8a9aa5" stroke-width="1.2" opacity=".85"/>
+  <g stroke="#5c676e" stroke-width="1" opacity=".6">
+    <line x1="110" y1="336" x2="290" y2="336"/>
+    <line x1="110" y1="348" x2="240" y2="348"/>
+    <line x1="110" y1="360" x2="262" y2="360"/>
   </g>
-  <g transform="rotate(12 200.0 236.0)" opacity=".9">
-    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
+  <text x="112" y="345" font-size="10" fill="#3c454b" opacity=".7">unconfirmed companion</text>
+  <path d="M176 348 L216 348" stroke="#68737b" stroke-width="1.4" opacity=".7"/>
+
+  <!-- Verbal check-in being maintained next to the absence -->
+  <g stroke="#eef3f6" stroke-width="1.2" opacity=".5" fill="none">
+    <path d="M60 286 Q72 286 76 298"/>
+    <path d="M54 296 Q66 296 70 308"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-S-009-01</text>
 </svg>

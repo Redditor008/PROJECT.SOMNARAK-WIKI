@@ -1,44 +1,83 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LISTENING REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // CRYSTAL BLADE -->
   <defs>
-    <radialGradient id="bg6560f7" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="lrBg" cx=".42" cy=".44" r=".74">
+      <stop offset="0" stop-color="#0d2548"/>
+      <stop offset="1" stop-color="#02050f"/>
     </radialGradient>
-    <radialGradient id="gl6560f7" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="lrBlade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f6fb5"/>
+      <stop offset=".5" stop-color="#7cb7ef"/>
+      <stop offset="1" stop-color="#1f4f8c"/>
+    </linearGradient>
+    <linearGradient id="lrGroove" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9cd0ff" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#1f4f8c" stop-opacity=".4"/>
+    </linearGradient>
+    <filter id="lrGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg6560f7)" stroke="#3e8bd5" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="113" fill="url(#gl6560f7)"/>
-  <g transform="rotate(8 200.0 192.0)">
-<path d="M187.0 192.0 L194.54 88.32000000000001 L200.0 48.0 L205.46 96.96 L213.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 48.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="193.5" y="108.5" width="13.0" height="60.5" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="177.0" y="187.0" width="46.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="48.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="256.0" r="5.0" fill="#3e8bd5" fill-opacity=".7"/>
+
+  <rect width="400" height="400" fill="url(#lrBg)"/>
+
+  <!-- Wall behind the blade -->
+  <path d="M52 52 L348 52 L348 348 L52 348 Z" fill="#0a1830" stroke="#1f4f8c" stroke-width="1" opacity=".85"/>
+  <g stroke="#173c6e" stroke-width=".8" opacity=".5">
+    <path d="M76 76 h180 M76 122 h140 M76 190 h200 M76 254 h160 M76 314 h220"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M184.0 88.0 L198.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  <path d="M60 300 h260 M60 300 L60 314" stroke="#2f6fb5" stroke-width="1" opacity=".45"/>
+
+  <!-- Whisper reaching the groove -->
+  <g fill="none" stroke="#6fb7ec" stroke-width="1" opacity=".5">
+    <path d="M82 170 q10 -6 20 0 M86 180 q10 -6 20 0 M82 190 q10 -6 20 0"/>
+    <path d="M318 170 q10 -6 20 0 M314 180 q10 -6 20 0 M318 190 q10 -6 20 0"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M200.0 88.0 L214.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  <path d="M120 178 L140 178 M260 178 L280 178" stroke="#6fb7ec" stroke-width="1" opacity=".6"/>
+
+  <!-- Narrow blue crystal blade -->
+  <g transform="rotate(-7 200 190)">
+    <path d="M200 62 L188 198 L200 314 L212 198 Z"
+          fill="url(#lrBlade)" stroke="#9cd0ff" stroke-width="1.6" opacity=".95"/>
+    <path d="M200 66 L200 310" stroke="#dff0ff" stroke-width=".8" opacity=".8"/>
+    <path d="M194 96 L206 96 M194 128 L206 128 M194 164 L206 164 M194 220 L206 220 M194 256 L206 256"
+          stroke="#2f6fb5" stroke-width=".8" opacity=".45"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M216.0 88.0 L230.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+
+  <!-- Shallow groove along the flat -->
+  <g transform="rotate(-7 200 190)">
+    <rect x="196" y="76" width="8" height="152" rx="4"
+          fill="url(#lrGroove)" stroke="#1f4f8c" stroke-width=".8"/>
+    <path d="M200 84 L200 224" stroke="#0d2548" stroke-width="1" opacity=".5"/>
   </g>
-  <g transform="rotate(12 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+
+  <!-- Tiny moving letters in the groove -->
+  <g fill="#dff0ff" filter="url(#lrGlow)">
+    <text x="191" y="110" font-size="8" transform="rotate(-7 200 190)">abc</text>
+    <text x="189" y="132" font-size="8" transform="rotate(-7 200 190)">_</text>
+    <text x="188" y="176" font-size="8" transform="rotate(-7 200 190)">..</text>
+    <text x="187" y="208" font-size="8" transform="rotate(-7 200 190)">/.</text>
   </g>
-  <g transform="rotate(14 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
+  <g fill="#6fb7ec" opacity=".7">
+    <circle cx="199" cy="102" r="1.2"/>
+    <circle cx="201" cy="126" r="1.2"/>
+    <circle cx="199" cy="152" r="1.2"/>
+    <circle cx="201" cy="196" r="1.2"/>
+    <circle cx="199" cy="226" r="1.2"/>
   </g>
-  <g transform="rotate(-14 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
+
+  <!-- The soft tone / one honest sentence -->
+  <g fill="none" stroke="#3e8bd5" opacity=".55" filter="url(#lrGlow)">
+    <circle cx="126" cy="192" r="16" stroke-width="1"/>
+    <circle cx="126" cy="192" r="26" stroke-width=".8"/>
+    <circle cx="126" cy="192" r="38" stroke-width=".6"/>
+    <circle cx="274" cy="192" r="16" stroke-width="1"/>
+    <circle cx="274" cy="192" r="26" stroke-width=".8"/>
+    <circle cx="274" cy="192" r="38" stroke-width=".6"/>
   </g>
-  <g transform="rotate(-14 162.0 118.0)" opacity=".9">
-    <path d="M155.3 118.0 Q162.0 111.3 168.7 118.0" fill="none" stroke="#e0f2fe" stroke-width="1.3" opacity=".42"/><path d="M157.4 121.4 Q162.0 116.3 166.6 121.4" fill="none" stroke="#e0f2fe" stroke-width="0.8" opacity=".32"/>
+
+  <!-- The recovered warning line under the wall -->
+  <g transform="rotate(-2 200 318)">
+    <rect x="148" y="306" width="104" height="20" rx="3" fill="#0d1830" stroke="#2f6fb5" stroke-width=".8" opacity=".8"/>
+    <text x="156" y="319" font-size="9" fill="#9cd0ff">warning filed</text>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-011-01</text>
 </svg>

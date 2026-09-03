@@ -1,37 +1,79 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DEBT SCALE">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- GIFT // GLASS PENDANT -->
   <defs>
-    <radialGradient id="bg271334" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="dsBg" cx=".44" cy=".4" r=".74">
+      <stop offset="0" stop-color="#eef3f6"/>
+      <stop offset=".6" stop-color="#c1ccd3"/>
+      <stop offset="1" stop-color="#556067"/>
     </radialGradient>
-    <radialGradient id="gl271334" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="dsGlass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".92"/>
+      <stop offset=".55" stop-color="#dbe4e9" stop-opacity=".76"/>
+      <stop offset="1" stop-color="#9aabb5" stop-opacity=".9"/>
+    </linearGradient>
+    <linearGradient id="dsBeam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#8a9aa5"/>
+    </linearGradient>
+    <filter id="dsGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg271334)" stroke="#8a8f98" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="112" fill="url(#gl271334)"/>
-  <g transform="rotate(5 200.0 192.0)">
-<path d="M176.9 105.0 Q200.0 72.0 223.1 105.0" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".7"/>
-<path d="M183.5 138.0 L216.5 138.0" stroke="#e0f2fe" stroke-width="1.4" opacity=".7"/>
-<path d="M179.5 144.6 Q200.0 171.0 220.5 144.6 L213.9 171.0 Q200.0 181.6 186.1 171.0 Z" fill="#8a8f98" fill-opacity=".22" stroke="#8a8f98" stroke-width="3"/>
+
+  <rect width="400" height="400" fill="url(#dsBg)"/>
+
+  <!-- Hanging cord -->
+  <path d="M200 48 L200 86" stroke="#93a3ad" stroke-width="1.4"/>
+  <circle cx="200" cy="48" r="4" fill="#8a9aa5"/>
+
+  <!-- Tiny balance scale -->
+  <g transform="rotate(-4 200 176)">
+    <!-- Post -->
+    <path d="M200 86 L200 176 L186 200 L214 200 Z" fill="#9aabb5" stroke="#8a9aa5" stroke-width="1"/>
+    <circle cx="200" cy="88" r="5" fill="#8a9aa5"/>
+    <!-- Beam -->
+    <path d="M96 96 L304 96" stroke="#9aabb5" stroke-width="2.4"/>
+    <path d="M96 96 L86 92 M304 96 L314 92" stroke="#9aabb5" stroke-width="1.6"/>
+    <!-- Pans -->
+    <path d="M96 96 L96 156 M304 96 L304 156" stroke="#9aabb5" stroke-width="1.4"/>
+    <path d="M86 156 L106 156 Q96 164 96 164 Q86 164 86 156 Z" fill="url(#dsGlass)" stroke="#8a9aa5" stroke-width="1.2"/>
+    <path d="M294 156 L314 156 Q304 164 304 164 Q294 164 294 156 Z" fill="url(#dsGlass)" stroke="#8a9aa5" stroke-width="1.2"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M184.0 88.0 L198.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+
+  <!-- Level in ordinary air -->
+  <path d="M96 96 L304 96" stroke="#ffffff" stroke-width=".8" opacity=".5"/>
+
+  <!-- It tips near a declared or hidden obligation -->
+  <g transform="rotate(-8 96 156)">
+    <path d="M86 156 L106 156 Q96 164 96 164 Q86 164 86 156 Z" fill="url(#dsGlass)" stroke="#8a9aa5" stroke-width="1.2"/>
+    <circle cx="96" cy="160" r="3.4" fill="#68737b" opacity=".65"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M200.0 88.0 L214.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  <path d="M96 96 L96 156" stroke="#68737b" stroke-width="1.4"/>
+
+  <!-- The obligation marks shown by the scale: inherited, imposed, promised, self-created -->
+  <g fill="none" stroke="#5c676e" stroke-width="1.2" opacity=".6">
+    <path d="M116 226 Q200 216 284 226"/>
+    <path d="M124 244 Q200 234 276 244"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M216.0 88.0 L230.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  <circle cx="116" cy="226" r="3" fill="#5c676e" opacity=".7"/>
+  <circle cx="284" cy="226" r="3" fill="#5c676e" opacity=".7"/>
+  <circle cx="130" cy="244" r="3" fill="#5c676e" opacity=".7"/>
+  <circle cx="270" cy="244" r="3" fill="#5c676e" opacity=".7"/>
+
+  <!-- It tells what is carried, not what is fair -->
+  <rect x="130" y="272" width="140" height="24" rx="4" fill="#dbe4e9" stroke="#8a9aa5" stroke-width="1" opacity=".85"/>
+  <g stroke="#5c676e" stroke-width="1" opacity=".5">
+    <line x1="150" y1="280" x2="250" y2="280"/>
+    <line x1="150" y1="288" x2="210" y2="288"/>
   </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
+
+  <!-- The old Collector vault, still tipping the scale -->
+  <g transform="rotate(-36 320 128)">
+    <rect x="306" y="98" width="28" height="42" rx="3" fill="#68737b" opacity=".45"/>
+    <path d="M310 116 L330 116" stroke="#5c676e" stroke-width="1.4" opacity=".5"/>
   </g>
-  <g transform="rotate(9 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <g transform="rotate(-12 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#8a8f98" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#8a8f98" stroke-width="2" opacity=".45"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-G-014-01</text>
+  <circle cx="320" cy="128" r="6" fill="#556067" opacity=".5" filter="url(#dsGlow)"/>
+
+  <!-- The recovered, suppressed, then recovered record -->
+  <path d="M320 352 L320 318 Q320 306 332 304 L340 304" fill="none" stroke="#8a9aa5" stroke-width="1.4" opacity=".55"/>
+  <path d="M338 300 L342 310 L332 306 Z" fill="#8a9aa5" opacity=".55"/>
 </svg>

@@ -1,41 +1,88 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FORGOTTEN MASK">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- GIFT // GLASS CHARM -->
   <defs>
-    <radialGradient id="bgeadde8" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="fmBg" cx=".42" cy=".38" r=".72">
+      <stop offset="0" stop-color="#dbe4e9"/>
+      <stop offset="1" stop-color="#424b52"/>
     </radialGradient>
-    <radialGradient id="gleadde8" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    <linearGradient id="fmGlass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".92"/>
+      <stop offset=".55" stop-color="#dbe4e9" stop-opacity=".78"/>
+      <stop offset="1" stop-color="#9aabb5" stop-opacity=".88"/>
+    </linearGradient>
+    <radialGradient id="fmReflect" cx=".5" cy=".42" r=".6">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#8a9aa5" stop-opacity=".35"/>
     </radialGradient>
+    <filter id="fmGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgeadde8)" stroke="#8a8f98" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="119" fill="url(#gleadde8)"/>
-  <g transform="rotate(11 200.0 192.0)">
-<path d="M200.0 101.0 L200.0 171.3" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
-<circle cx="200.0" cy="171.3" r="5" fill="#e0f2fe" opacity=".5"/>
-<path d="M152.4 179.8 Q200.0 131.0 247.6 179.8 L235.4 229.8 Q200.0 253.0 164.6 229.8 Z" fill="#8a8f98" fill-opacity=".22" stroke="#8a8f98" stroke-width="3"/>
-<path d="M176.8 204.2 L223.2 204.2" stroke="#e0f2fe" stroke-width="1.2" opacity=".6"/>
+
+  <rect width="400" height="400" fill="url(#fmBg)"/>
+
+  <!-- Small pale-glass mask -->
+  <g transform="rotate(-4 200 166)">
+    <path d="M136 128 Q164 88 200 84 Q236 88 264 128 Q282 168 268 200 Q250 232 224 242 Q200 250 176 242 Q150 232 132 200 Q118 168 136 128 Z"
+          fill="url(#fmGlass)" stroke="#9aabb5" stroke-width="2.2"/>
+    <path d="M136 128 Q164 88 200 84 Q236 88 264 128" fill="none" stroke="#ffffff" stroke-width="1.2" opacity=".7"/>
+
+    <!-- Two shallow eyes -->
+    <path d="M160 150 Q168 142 178 150 Q170 158 160 150 Z" fill="#4a555c" opacity=".85"/>
+    <path d="M222 150 Q232 142 240 150 Q232 158 222 150 Z" fill="#4a555c" opacity=".85"/>
+    <path d="M166 148 Q169 145 172 148" stroke="#ffffff" stroke-width=".7" opacity=".5"/>
+    <path d="M228 148 Q231 145 234 148" stroke="#ffffff" stroke-width=".7" opacity=".5"/>
+
+    <!-- No other features -->
+    <path d="M194 188 Q200 192 206 188" fill="none" stroke="#9aabb5" stroke-width=".8" opacity=".35"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M184.0 88.0 L198.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+
+  <!-- Reflection of the last person who sincerely remembered the bearer -->
+  <g opacity=".8">
+    <path d="M152 248 Q194 214 248 248" fill="none" stroke="#5c676e" stroke-width="1.2"/>
+    <circle cx="200" cy="250" r="26" fill="url(#fmReflect)"/>
+    <path d="M186 244 Q200 238 214 244" fill="none" stroke="#5c676e" stroke-width="1"/>
+    <path d="M193 262 Q200 268 207 262" fill="none" stroke="#5c676e" stroke-width="1"/>
+    <path d="M200 250 L200 272" stroke="#5c676e" stroke-width=".8" opacity=".5"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M200.0 88.0 L214.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  <circle cx="200" cy="216" r="3" fill="#ffffff" opacity=".8" filter="url(#fmGlow)"/>
+
+  <!-- Memory hooks being severed / falling away -->
+  <g stroke="#68737b" stroke-width="1.2" opacity=".5" fill="none">
+    <path d="M100 170 L138 178"/>
+    <path d="M300 170 L262 178"/>
+    <path d="M96 216 L136 208"/>
+    <path d="M304 216 L264 208"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M216.0 88.0 L230.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  <g fill="#68737b" opacity=".4">
+    <circle cx="88" cy="170" r="3"/>
+    <circle cx="312" cy="170" r="3"/>
+    <circle cx="84" cy="218" r="3"/>
+    <circle cx="316" cy="218" r="3"/>
   </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
+
+  <!-- The memories that feed the mask: smells, routes, casual names -->
+  <g fill="none" stroke="#5c676e" stroke-width="1" opacity=".45">
+    <path d="M118 300 q10 -12 22 0"/>
+    <path d="M142 316 q10 -12 22 0"/>
+    <path d="M166 330 q10 -12 22 0"/>
+    <path d="M210 330 q10 -12 22 0"/>
+    <path d="M234 316 q10 -12 22 0"/>
+    <path d="M258 300 q10 -12 22 0"/>
   </g>
-  <g transform="rotate(-13 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
+  <g fill="#ffffff" opacity=".5" filter="url(#fmGlow)">
+    <circle cx="118" cy="302" r="1.6"/>
+    <circle cx="142" cy="318" r="1.6"/>
+    <circle cx="166" cy="332" r="1.6"/>
+    <circle cx="210" cy="332" r="1.6"/>
+    <circle cx="234" cy="318" r="1.6"/>
+    <circle cx="258" cy="302" r="1.6"/>
   </g>
-  <g transform="rotate(11 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
+
+  <!-- Weekly written life log beneath -->
+  <rect x="152" y="344" width="96" height="36" rx="4" fill="#eef3f6" stroke="#9aabb5" stroke-width="1"/>
+  <g stroke="#68737b" stroke-width="1" opacity=".5">
+    <line x1="166" y1="354" x2="234" y2="354"/>
+    <line x1="166" y1="362" x2="220" y2="362"/>
+    <line x1="166" y1="370" x2="230" y2="370"/>
   </g>
-  <g transform="rotate(-14 200.0 120.0)" opacity=".9">
-    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-G-009-01</text>
 </svg>

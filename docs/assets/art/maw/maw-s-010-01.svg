@@ -1,35 +1,69 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE ABSOLUTE MANTLE">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- SUIT // WEIGHT MANTLE -->
   <defs>
-    <radialGradient id="bg7307e2" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="amB" cx=".5" cy=".38" r=".76">
+      <stop offset="0" stop-color="#1a1a1f"/>
+      <stop offset="1" stop-color="#050506"/>
     </radialGradient>
-    <radialGradient id="gl7307e2" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="amM" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b2b31"/>
+      <stop offset=".5" stop-color="#15151a"/>
+      <stop offset="1" stop-color="#0a0a0c"/>
+    </linearGradient>
+    <linearGradient id="amAnchor" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#565660" stop-opacity=".2"/>
+      <stop offset=".5" stop-color="#8a8f98" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#565660" stop-opacity=".2"/>
+    </linearGradient>
+    <filter id="amGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg7307e2)" stroke="#c9a86a" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="108" fill="url(#gl7307e2)"/>
-  <g transform="rotate(12 200.0 192.0)">
-<path d="M122.0 181.5 L151.6 150.0 L186.0 138.0 L214.0 138.0 L248.4 150.0 L278.0 181.5 L262.4 237.0 L137.6 237.0 Z" fill="#c9a86a" fill-opacity=".18" stroke="#c9a86a" stroke-width="3"/>
-<path d="M132.9 218.2 Q200.0 235.5 267.1 218.2" stroke="#e0f2fe" stroke-width="1.1" opacity=".5"/>
-<circle cx="200.0" cy="144.0" r="5" fill="#c9a86a" fill-opacity=".7"/>
+
+  <rect width="400" height="400" fill="url(#amB)"/>
+
+  <!-- Collapse pressure converging downward -->
+  <g stroke="#565660" stroke-width="1" opacity=".35">
+    <path d="M40 70 L120 110"/>
+    <path d="M360 70 L280 110"/>
+    <path d="M60 92 L140 124"/>
+    <path d="M340 92 L260 124"/>
   </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 208.0 Q200.0 226.0 264.0 202.0" fill="none" stroke="#c9a86a" stroke-width="1.2" opacity=".4"/>
+  <path d="M110 60 Q200 84 290 60" fill="none" stroke="#2c2c33" stroke-width="1.4"/>
+
+  <!-- Mantle body -->
+  <path d="M104 84 Q200 60 296 84 L312 262 Q200 322 88 262 Z"
+        fill="url(#amM)" stroke="#3a3a40" stroke-width="2"/>
+  <path d="M126 94 Q134 170 116 266 L146 252 L154 116 Z" fill="#131317" stroke="#2f2f35" stroke-width="1"/>
+  <path d="M274 94 Q266 170 284 266 L254 252 L246 116 Z" fill="#131317" stroke="#2f2f35" stroke-width="1"/>
+
+  <!-- Collar / shoulders -->
+  <path d="M158 94 Q200 82 242 94 L246 118 Q200 134 154 118 Z" fill="#0d0d0f" stroke="#34343c" stroke-width="1.4"/>
+  <circle cx="200" cy="106" r="5" fill="#565660"/>
+
+  <!-- Fixed Point anchor lines -->
+  <g filter="url(#amGlow)">
+    <path d="M200 126 L200 76" stroke="#8a8f98" stroke-width="2"/>
+    <path d="M200 76 L188 88 M200 76 L212 88" stroke="#8a8f98" stroke-width="2" fill="none"/>
   </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 238.0 Q200.0 256.0 264.0 232.0" fill="none" stroke="#c9a86a" stroke-width="1.2" opacity=".4"/>
+  <path d="M120 206 Q200 244 280 206" fill="none" stroke="url(#amAnchor)" stroke-width="1.6" opacity=".8"/>
+  <path d="M132 232 Q200 266 268 232" fill="none" stroke="#565660" stroke-width="1.2" opacity=".5"/>
+  <path d="M150 258 Q200 286 250 258" fill="none" stroke="#565660" stroke-width="1.2" opacity=".4"/>
+
+  <!-- Heavy hem flattened by refusal to move -->
+  <path d="M88 262 Q96 296 128 282 Q140 308 164 284 Q176 310 200 288 Q224 310 236 284 Q260 308 272 282 Q304 296 312 262 L318 262 Q200 322 82 262 Z"
+        fill="#0a0a0c" stroke="#34343c" stroke-width="1.2"/>
+
+  <!-- Eleven minutes counted in the dust -->
+  <g fill="#565660" opacity=".7">
+    <text x="64" y="70" font-size="12">+11m</text>
+    <text x="314" y="70" font-size="12">+11m</text>
   </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 268.0 Q200.0 286.0 264.0 262.0" fill="none" stroke="#c9a86a" stroke-width="1.2" opacity=".4"/>
+
+  <!-- The partner's verified counter-order by name -->
+  <g fill="none" stroke="#8a8f98" stroke-width="1.4" opacity=".7">
+    <path d="M70 300 Q110 312 150 304"/>
+    <path d="M330 300 Q290 312 250 304"/>
   </g>
-  <g transform="rotate(-1 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#c9a86a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".45"/>
-  </g>
-  <g transform="rotate(4 162.0 118.0)" opacity=".9">
-    <path d="M155.3 118.0 Q162.0 111.3 168.7 118.0" fill="none" stroke="#e0f2fe" stroke-width="1.3" opacity=".42"/><path d="M157.4 121.4 Q162.0 116.3 166.6 121.4" fill="none" stroke="#e0f2fe" stroke-width="0.8" opacity=".32"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-S-010-01</text>
+  <path d="M70 294 L62 308 L86 308 Z" fill="#8a8f98" opacity=".7"/>
+  <path d="M330 294 L338 308 L314 308 Z" fill="#8a8f98" opacity=".7"/>
 </svg>

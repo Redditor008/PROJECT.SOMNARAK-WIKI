@@ -1,47 +1,79 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DEBT LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // PALE HAN-GLASS LENS -->
   <defs>
-    <radialGradient id="bg65e3ca" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="dlBg" cx=".5" cy=".4" r=".72">
+      <stop offset="0" stop-color="#eef3f6"/>
+      <stop offset=".55" stop-color="#becad2"/>
+      <stop offset="1" stop-color="#4f5a61"/>
     </radialGradient>
-    <radialGradient id="gl65e3ca" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    <radialGradient id="dlGlass" cx=".46" cy=".4" r=".6">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".9"/>
+      <stop offset=".55" stop-color="#dbe4e9" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#93a3ad" stop-opacity=".88"/>
     </radialGradient>
+    <radialGradient id="dlCloud" cx=".5" cy=".5" r=".62">
+      <stop offset="0" stop-color="#93a3ad" stop-opacity=".6"/>
+      <stop offset=".7" stop-color="#b9c7d0" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#dbe4e9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="dlGrip" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8a9aa5"/>
+      <stop offset="1" stop-color="#3c454b"/>
+    </linearGradient>
+    <filter id="dlGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg65e3ca)" stroke="#8a8f98" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="119" fill="url(#gl65e3ca)"/>
-  <g transform="rotate(9 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="58.0" ry="62.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="49.0" ry="50.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="40.0" ry="40.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M237.3 144.5 L231.5 153.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M253.0 166.8 L244.8 171.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M258.0 194.2 L249.0 193.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M251.2 221.1 L243.3 215.5" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M234.1 242.2 L228.8 232.5" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="130.0" y="186.0" width="140.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="254.0" width="12" height="40.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
+
+  <rect width="400" height="400" fill="url(#dlBg)"/>
+
+  <!-- Short grip -->
+  <rect x="192" y="248" width="16" height="86" rx="6" fill="url(#dlGrip)" stroke="#3c454b" stroke-width="1.4"/>
+  <path d="M192 272 L208 272 M192 296 L208 296" stroke="#2a3338" stroke-width="1.2"/>
+  <circle cx="200" cy="326" r="4" fill="#68737b"/>
+
+  <!-- Near-transparent disc -->
+  <circle cx="200" cy="172" r="88" fill="url(#dlGlass)" stroke="#93a3ad" stroke-width="2"/>
+  <circle cx="200" cy="172" r="74" fill="none" stroke="#eef3f6" stroke-width=".8" opacity=".55"/>
+
+  <!-- Cloudy where a target carries unacknowledged obligation -->
+  <g filter="url(#dlGlow)">
+    <ellipse cx="176" cy="154" rx="40" ry="34" fill="#93a3ad" opacity=".35"/>
+    <ellipse cx="226" cy="188" rx="36" ry="30" fill="#b9c7d0" opacity=".3"/>
+    <ellipse cx="160" cy="196" rx="24" ry="22" fill="#93a3ad" opacity=".25"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M184.0 88.0 L198.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  <g fill="#93a3ad" opacity=".55">
+    <circle cx="160" cy="140" r="6"/>
+    <circle cx="212" cy="130" r="5"/>
+    <circle cx="244" cy="164" r="6"/>
+    <circle cx="186" cy="200" r="6"/>
+    <circle cx="232" cy="208" r="5"/>
+    <circle cx="160" cy="180" r="4"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M200.0 88.0 L214.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+
+  <!-- The child's inherited medical burden inside the cloud -->
+  <path d="M180 158 L220 158 L220 190 L200 206 L180 190 Z" fill="#7d8b93" opacity=".55"/>
+  <path d="M186 164 L214 164 M186 172 L214 172" stroke="#5c676e" stroke-width="1" opacity=".5"/>
+  <circle cx="184" cy="184" r="4" fill="#5c676e" opacity=".45"/>
+  <circle cx="216" cy="184" r="4" fill="#5c676e" opacity=".45"/>
+
+  <!-- The named obligation clears a narrow path -->
+  <path d="M120 232 L200 196 L280 232" fill="none" stroke="#ffffff" stroke-width="1.4" opacity=".7"/>
+  <circle cx="200" cy="196" r="4" fill="#ffffff" filter="url(#dlGlow)"/>
+
+  <!-- Read the account: imposed vs inherited vs chosen -->
+  <g stroke="#5c676e" stroke-width="1.2" opacity=".55" fill="none">
+    <path d="M120 96 L150 120"/>
+    <path d="M280 96 L250 120"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M216.0 88.0 L230.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  <path d="M150 120 L140 108 M250 120 L260 108" stroke="#5c676e" stroke-width="1.2" opacity=".6"/>
+  <circle cx="150" cy="120" r="3" fill="#5c676e" opacity=".6"/>
+  <circle cx="250" cy="120" r="3" fill="#5c676e" opacity=".6"/>
+
+  <!-- Accuracy did not produce justice -->
+  <g stroke="#5c676e" stroke-width="1" opacity=".4" stroke-dasharray="4 4">
+    <path d="M60 312 Q200 298 340 312"/>
   </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(2 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <g transform="rotate(2 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <g transform="rotate(-14 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#8a8f98" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#8a8f98" stroke-width="2" opacity=".45"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-014-01</text>
+  <circle cx="109" cy="306" r="2.4" fill="#5c676e" opacity=".4"/>
+  <circle cx="200" cy="304" r="2.4" fill="#5c676e" opacity=".4"/>
+  <circle cx="291" cy="306" r="2.4" fill="#5c676e" opacity=".4"/>
 </svg>

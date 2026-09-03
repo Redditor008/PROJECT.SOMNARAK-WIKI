@@ -1,27 +1,82 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE ABSOLUTE VERDICT">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- GIFT // BLACK CHARM -->
   <defs>
-    <radialGradient id="bg43782d" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="avBg" cx=".46" cy=".42" r=".72">
+      <stop offset="0" stop-color="#1c1c21"/>
+      <stop offset="1" stop-color="#050506"/>
     </radialGradient>
-    <radialGradient id="gl43782d" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="avSteel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38383f"/>
+      <stop offset=".5" stop-color="#19191d"/>
+      <stop offset="1" stop-color="#0d0d0f"/>
+    </linearGradient>
+    <linearGradient id="avInset" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b2b31"/>
+      <stop offset="1" stop-color="#131317"/>
+    </linearGradient>
+    <filter id="avGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg43782d)" stroke="#c9a86a" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="115" fill="url(#gl43782d)"/>
-  <g transform="rotate(-11 200.0 192.0)">
-<path d="M200.0 112.0 L200.0 174.0" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
-<circle cx="200.0" cy="174.0" r="5" fill="#e0f2fe" opacity=".5"/>
-<path d="M158.7 181.4 Q200.0 139.0 241.3 181.4 L230.7 224.9 Q200.0 245.0 169.3 224.9 Z" fill="#c9a86a" fill-opacity=".22" stroke="#c9a86a" stroke-width="3"/>
-<path d="M179.9 202.6 L220.1 202.6" stroke="#e0f2fe" stroke-width="1.2" opacity=".6"/>
+
+  <rect width="400" height="400" fill="url(#avBg)"/>
+
+  <!-- The 19 unsaved people appearing as a field of pressure -->
+  <g fill="#565660" opacity=".35">
+    <circle cx="90" cy="120" r="3"/>
+    <circle cx="120" cy="92" r="3"/>
+    <circle cx="156" cy="66" r="3"/>
+    <circle cx="200" cy="54" r="3"/>
+    <circle cx="244" cy="66" r="3"/>
+    <circle cx="280" cy="92" r="3"/>
+    <circle cx="310" cy="120" r="3"/>
+    <circle cx="72" cy="152" r="3"/>
+    <circle cx="328" cy="152" r="3"/>
+    <circle cx="96" cy="186" r="3"/>
+    <circle cx="304" cy="186" r="3"/>
+    <circle cx="140" cy="124" r="3"/>
+    <circle cx="260" cy="124" r="3"/>
+    <circle cx="180" cy="106" r="3"/>
+    <circle cx="220" cy="106" r="3"/>
+    <circle cx="160" cy="146" r="3"/>
+    <circle cx="240" cy="146" r="3"/>
+    <circle cx="120" cy="160" r="3"/>
+    <circle cx="280" cy="160" r="3"/>
   </g>
-  <g transform="rotate(10 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#c9a86a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".45"/>
+
+  <!-- Hanging loop -->
+  <path d="M200 54 L200 90" stroke="#565660" stroke-width="1.4"/>
+  <circle cx="200" cy="54" r="4" fill="#6b6b76"/>
+
+  <!-- Black charm with three impressions -->
+  <path d="M162 96 Q200 82 238 96 L250 176 Q200 206 150 176 Z"
+        fill="url(#avSteel)" stroke="#565660" stroke-width="2.6"/>
+  <path d="M162 96 Q200 82 238 96" fill="none" stroke="#6b6b76" stroke-width="1" opacity=".6"/>
+
+  <!-- Closed eye -->
+  <path d="M170 126 Q186 138 202 126 Q186 118 170 126 Z" fill="#0a0a0c" stroke="#6b6b76" stroke-width="1.2"/>
+  <path d="M186 126 Q186 140 186 142" stroke="#6b6b76" stroke-width="1" opacity=".6"/>
+
+  <!-- Scale -->
+  <path d="M214 118 L214 152" stroke="#6b6b76" stroke-width="1.6"/>
+  <path d="M198 126 Q214 118 230 126" fill="none" stroke="#6b6b76" stroke-width="1.4"/>
+  <path d="M198 126 L198 142 Q214 150 230 142 L230 126" fill="none" stroke="#6b6b76" stroke-width="1.2"/>
+  <path d="M207 144 Q214 140 221 144" stroke="#8a8f98" stroke-width="1" opacity=".6"/>
+
+  <!-- Folded wing -->
+  <path d="M176 164 Q190 152 206 160 Q196 170 192 182 Z" fill="none" stroke="#6b6b76" stroke-width="1.4"/>
+  <path d="M180 172 Q190 166 198 174" fill="none" stroke="#6b6b76" stroke-width="1" opacity=".7"/>
+
+  <!-- Heavy when excusing self while condemning another -->
+  <path d="M150 176 Q200 218 250 176" fill="none" stroke="#565660" stroke-width="1.4" opacity=".7"/>
+  <path d="M156 190 Q200 230 244 190" fill="none" stroke="#565660" stroke-width="1.2" opacity=".5"/>
+  <path d="M162 204 Q200 242 238 204" fill="none" stroke="#565660" stroke-width="1.2" opacity=".4"/>
+
+  <!-- The 19s who could not be saved cross the bottom -->
+  <g stroke="#565660" stroke-width="1" opacity=".4" stroke-dasharray="4 4">
+    <path d="M84 300 Q200 286 316 300"/>
+    <path d="M84 316 Q200 302 316 316"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-G-010-01</text>
+  <circle cx="134" cy="296" r="2.5" fill="#565660" opacity=".3"/>
+  <circle cx="200" cy="292" r="2.5" fill="#565660" opacity=".3"/>
+  <circle cx="266" cy="296" r="2.5" fill="#565660" opacity=".3"/>
 </svg>
