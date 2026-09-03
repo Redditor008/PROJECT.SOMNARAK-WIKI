@@ -31,60 +31,52 @@
   <rect width="400" height="400" fill="url(#hlBg)"/>
   <ellipse cx="200" cy="160" rx="230" ry="200" fill="url(#hlFog)"/>
 
-  <!-- Long White Drift fog columns -->
-  <g stroke="#6a7680" stroke-width="1" opacity=".4">
-    <path d="M60 54 L60 188 M330 54 L330 188 M60 110 L330 110"/>
-  </g>
-  <g fill="none" stroke="#8aa0b0" stroke-width="1.2" opacity=".4">
-    <path d="M0 110 Q160 92 400 118"/>
-    <path d="M0 306 Q180 286 400 314"/>
+  <!-- drift environment (subtle) -->
+  <g fill="none" stroke="#8aa0b0" stroke-width="1.2" opacity=".3">
+    <path d="M0 110 Q160 92 400 118"/><path d="M0 306 Q180 286 400 314"/>
   </g>
   <g fill="#9aa8b2" opacity=".2">
-    <ellipse cx="86" cy="326" rx="66" ry="18"/>
-    <ellipse cx="316" cy="330" rx="70" ry="18"/>
+    <ellipse cx="86" cy="326" rx="66" ry="18"/><ellipse cx="316" cy="330" rx="70" ry="18"/>
   </g>
 
-  <!-- Cord -->
-  <path d="M200 26 L200 82" stroke="#8a9aa5" stroke-width="2.4"/>
-  <circle cx="200" cy="24" r="6" fill="url(#hlMetal)"/>
+  <!-- LANTERN HANDLE RING + BAIL: clear way to hold / hang it -->
+  <path d="M200 26 L200 54" stroke="#8a9aa5" stroke-width="2.4"/>
+  <circle cx="200" cy="24" r="7" fill="none" stroke="#a8b7c2" stroke-width="2"/>
+  <circle cx="200" cy="24" r="3" fill="#a8b7c2"/>
+  <path d="M186 54 L214 54" stroke="#8a9aa5" stroke-width="2.4"/>
 
   <!-- Holder hand -->
   <path d="M126 342 Q158 322 198 330 L224 328 Q240 338 236 356 L132 362 Z"
         fill="#4a555c" stroke="#8a9aa5" stroke-width="1.8" opacity=".95"/>
   <path d="M136 352 Q168 344 198 350" fill="none" stroke="#8a9aa5" stroke-width="1.4" opacity=".7"/>
 
-  <!-- Caged lantern, larger -->
-  <path d="M172 84 L228 84 L234 178 Q200 198 166 178 Z" fill="url(#hlGlass)" stroke="#a8b7c2" stroke-width="2.6"/>
-  <path d="M164 96 L236 96 L230 74 L170 74 Z" fill="url(#hlMetal)" stroke="#4a565e" stroke-width="1.6"/>
-  <rect x="172" y="70" width="56" height="5" rx="2.5" fill="url(#hlMetal)"/>
-  <path d="M200 54 L200 70" stroke="#8a9aa5" stroke-width="2.4"/>
+  <!-- Caged lantern -->
+  <path d="M172 62 L228 62 L234 178 Q200 198 166 178 Z" fill="url(#hlGlass)" stroke="#a8b7c2" stroke-width="2.6"/>
+  <path d="M164 74 L236 74 L230 54 L170 54 Z" fill="url(#hlMetal)" stroke="#4a565e" stroke-width="1.6"/>
+  <rect x="172" y="50" width="56" height="5" rx="2.5" fill="url(#hlMetal)"/>
   <g stroke="#8a9aa5" stroke-width="2.4" opacity=".9">
-    <line x1="182" y1="84" x2="182" y2="174"/><line x1="200" y1="84" x2="200" y2="182"/><line x1="218" y1="84" x2="218" y2="174"/>
+    <line x1="182" y1="62" x2="182" y2="174"/><line x1="200" y1="62" x2="200" y2="182"/><line x1="218" y1="62" x2="218" y2="174"/>
   </g>
   <path d="M172 122 L228 122 M168 154 L232 154" stroke="#8a9aa5" stroke-width="1.8" opacity=".8"/>
-
-  <!-- White flame -->
   <g filter="url(#hlGlow)">
-    <ellipse cx="200" cy="126" rx="22" ry="32" fill="#ffffff" opacity=".95"/>
+    <ellipse cx="200" cy="112" rx="22" ry="32" fill="#ffffff" opacity=".95"/>
   </g>
-  <path d="M200 102 Q188 124 200 152 Q212 124 200 102 Z" fill="#ffffff"/>
-  <path d="M200 118 Q194 128 200 140 Q206 128 200 118 Z" fill="#f2f6f8" opacity=".8"/>
+  <path d="M200 88 Q188 110 200 138 Q212 110 200 88 Z" fill="#ffffff"/>
+  <path d="M200 104 Q194 114 200 126 Q206 114 200 104 Z" fill="#f2f6f8" opacity=".8"/>
 
   <!-- Bold forward beam -->
   <g stroke="#ffffff" opacity=".85" filter="url(#hlGlow)">
-    <line x1="232" y1="130" x2="344" y2="100"/>
+    <line x1="232" y1="120" x2="344" y2="90"/>
   </g>
-  <path d="M326 96 L352 96 L332 118 Z" fill="#ffffff" opacity=".9"/>
+  <path d="M326 86 L352 86 L332 108 Z" fill="#ffffff" opacity=".9"/>
 
-  <!-- Handprint stone anchor -->
+  <!-- Handprint anchor -->
   <g fill="none" stroke="#8a9aa5" stroke-width="2" opacity=".9">
     <ellipse cx="300" cy="268" rx="22" ry="30"/>
     <path d="M282 256 L282 296 L292 296 L292 254 Z"/>
     <path d="M318 256 L318 296 L308 296 L308 254 Z"/>
-    <path d="M280 260 Q266 248 272 238" stroke-width="1.4"/>
-    <path d="M320 260 Q334 248 328 238" stroke-width="1.4"/>
+    <path d="M280 260 Q266 248 272 238" stroke-width="1.4"/><path d="M320 260 Q334 248 328 238" stroke-width="1.4"/>
   </g>
-  <ellipse cx="300" cy="316" rx="46" ry="12" fill="#394147" opacity=".5"/>
   <path d="M300 314 Q300 330 292 342 M300 314 Q300 330 308 342" fill="none" stroke="#8a9aa5" stroke-width="1.4" opacity=".6"/>
   <circle cx="300" cy="346" r="4" fill="#8a9aa5" opacity=".8"/>
 

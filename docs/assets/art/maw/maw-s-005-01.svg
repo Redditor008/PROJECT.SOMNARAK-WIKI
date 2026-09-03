@@ -15,9 +15,9 @@
       <stop offset=".5" stop-color="#5a101d"/>
       <stop offset="1" stop-color="#2c060c"/>
     </linearGradient>
-    <linearGradient id="epRib" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="epStrap" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#2c060c"/>
-      <stop offset=".5" stop-color="#d9435a"/>
+      <stop offset=".5" stop-color="#f78a9b"/>
       <stop offset="1" stop-color="#2c060c"/>
     </linearGradient>
     <filter id="epGlow" x="-50%" y="-50%" width="200%" height="200%">
@@ -27,56 +27,48 @@
 
   <rect width="400" height="400" fill="url(#epBg)"/>
 
-  <!-- Contained Mother block: wall, marked trainees -->
-  <g stroke="#5a2222" stroke-width="1" opacity=".5" fill="none">
-    <path d="M48 60 L48 336 M352 60 L352 336 M48 100 L352 100 M48 168 L352 168 M48 240 L352 240"/>
+  <!-- containment block wall (subtle) -->
+  <g stroke="#5a2222" stroke-width="1" opacity=".4" fill="none">
+    <path d="M48 64 L48 332 M352 64 L352 332 M48 104 L352 104 M48 240 L352 240"/>
   </g>
-  <!-- three marked trainee positions -->
-  <g fill="#d9435a" opacity=".4">
+  <g fill="#d9435a" opacity=".35">
     <circle cx="112" cy="116" r="7"/><circle cx="200" cy="116" r="7"/><circle cx="288" cy="116" r="7"/>
   </g>
-  <g stroke="#f78a9b" stroke-width="1" opacity=".5">
-    <path d="M112 116 L112 136 M200 116 L200 136 M288 116 L288 136"/>
-    <path d="M100 132 L124 132 M188 132 L212 132 M276 132 L300 132"/>
-  </g>
 
-  <!-- Crumbling wall hit that the plate absorbed -->
-  <g stroke="#802f33" stroke-width="1.2" opacity=".5" fill="none" stroke-dasharray="4 4">
-    <path d="M112 160 L112 216 L200 240 L288 216 L288 160"/>
-  </g>
-
-  <!-- Crimson harness: overlapping plates closing around the ribs -->
+  <!-- Crimson harness -->
   <g filter="url(#epGlow)">
     <path d="M148 86 L252 86 L262 136 L256 206 Q200 236 144 206 L138 136 Z"
           fill="url(#epPlate)" stroke="#d9435a" stroke-width="2.2"/>
   </g>
-  <!-- shoulder plates -->
   <path d="M146 86 Q170 70 200 78 Q230 70 254 86 L244 108 Q200 116 156 108 Z" fill="#3a0c16" stroke="#8f1f33" stroke-width="1.4"/>
-  <!-- overlapping plate seams -->
-  <g fill="none" stroke="url(#epRib)" stroke-width="1.6" opacity=".8">
+  <g fill="none" stroke="#8f1f33" stroke-width="1.6" opacity=".8">
     <path d="M158 108 Q200 120 242 108"/>
     <path d="M154 134 Q200 148 246 134"/>
     <path d="M150 160 Q200 176 250 160"/>
     <path d="M148 186 Q200 202 252 186"/>
   </g>
-  <!-- rounded belly plate -->
-  <path d="M160 206 Q200 230 240 206" fill="none" stroke="#d9435a" stroke-width="1.4" opacity=".7"/>
-
-  <!-- center clasp / tightness node -->
   <circle cx="200" cy="148" r="8" fill="#2c060c" stroke="#d9435a" stroke-width="1.6"/>
   <circle cx="200" cy="148" r="3" fill="#f78a9b" filter="url(#epGlow)"/>
 
-  <!-- Closed Circle: the wearer must remain with the cluster -->
+  <!-- WEARING HARNESS STRAPS: shoulder + waist, buckles, clear fit -->
+  <g stroke="url(#epStrap)" stroke-width="2" fill="none" opacity=".9">
+    <path d="M158 88 L162 154 L170 206"/>
+    <path d="M242 88 L238 154 L230 206"/>
+  </g>
+  <path d="M158 174 L242 174" stroke="url(#epStrap)" stroke-width="2.2"/>
+  <rect x="188" y="168" width="24" height="14" rx="3" fill="#2c060c" stroke="#f78a9b" stroke-width="1.4"/>
+  <path d="M196 172 L204 172" stroke="#f78a9b" stroke-width="1.2"/>
+  <!-- shoulder tie loops -->
+  <circle cx="164" cy="112" r="5" fill="none" stroke="#f78a9b" stroke-width="1.4"/>
+  <circle cx="236" cy="112" r="5" fill="none" stroke="#f78a9b" stroke-width="1.4"/>
+
+  <!-- Closed Circle cluster -->
   <g stroke="#f78a9b" stroke-width="1" opacity=".4" fill="none" stroke-dasharray="4 4">
     <path d="M112 250 L112 300 L288 300 L288 250"/>
   </g>
   <g stroke="#f78a9b" opacity=".5">
     <circle cx="112" cy="300" r="3.4"/><circle cx="288" cy="300" r="3.4"/><circle cx="200" cy="316" r="3.4"/>
   </g>
-
-  <!-- Floor -->
-  <path d="M92 336 L308 336 L296 364 L104 364 Z" fill="#160707" stroke="#5a2222" stroke-width="1"/>
-  <ellipse cx="200" cy="344" rx="20" ry="5" fill="#0a0303"/>
 
   <rect width="400" height="400" fill="url(#epVign)"/>
 </svg>

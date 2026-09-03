@@ -19,6 +19,11 @@
       <stop offset="0" stop-color="#d6ecff" stop-opacity=".9"/>
       <stop offset="1" stop-color="#2f6fb5" stop-opacity=".2"/>
     </linearGradient>
+    <linearGradient id="rqGrip" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2a3338"/>
+      <stop offset=".5" stop-color="#4c555c"/>
+      <stop offset="1" stop-color="#20262a"/>
+    </linearGradient>
     <filter id="rqGlow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="4"/>
     </filter>
@@ -26,67 +31,61 @@
 
   <rect width="400" height="400" fill="url(#rqBg)"/>
 
-  <!-- Tower chamber panels -->
-  <g stroke="#1f3f6e" stroke-width="1" opacity=".45" fill="none">
-    <path d="M58 32 L58 368 M342 32 L342 368 M44 84 L356 84 M44 316 L356 316"/>
-    <path d="M58 32 L342 32 M58 368 L342 368"/>
-  </g>
-  <g fill="#1f3f6e" opacity=".3">
-    <rect x="52" y="40" width="2" height="26"/><rect x="52" y="124" width="2" height="48"/>
-    <rect x="52" y="206" width="2" height="40"/><rect x="346" y="58" width="2" height="38"/>
-    <rect x="346" y="148" width="2" height="56"/><rect x="346" y="246" width="2" height="44"/>
+  <!-- Tower chamber panels (kept subtle so the item is the hero) -->
+  <g stroke="#1f3f6e" stroke-width="1" opacity=".35" fill="none">
+    <path d="M58 40 L58 300 M342 40 L342 300 M44 84 L356 84"/>
   </g>
 
-  <!-- Great bell rim + toll rings behind -->
-  <g fill="none" stroke="#4a86c9" opacity=".5">
+  <!-- Great bell rim + soft toll rings -->
+  <g fill="none" stroke="#4a86c9" opacity=".45">
     <path d="M70 52 Q200 26 330 52" stroke-width="3"/>
     <path d="M90 58 Q200 36 310 58" stroke-width="1.4" opacity=".55"/>
   </g>
-  <g fill="none" stroke="#2f6fb5" opacity=".35" filter="url(#rqGlow)">
-    <circle cx="200" cy="326" r="88" stroke-width="1.4"/>
-    <circle cx="200" cy="326" r="132" stroke-width="1"/>
-    <circle cx="200" cy="326" r="176" stroke-width=".8"/>
-  </g>
-  <g fill="#4a86c9" opacity=".5">
-    <circle cx="70" cy="326" r="6"/><circle cx="330" cy="326" r="6"/><circle cx="90" cy="392" r="6"/>
+  <g fill="none" stroke="#2f6fb5" opacity=".3" filter="url(#rqGlow)">
+    <circle cx="200" cy="200" r="96" stroke-width="1.2"/>
+    <circle cx="200" cy="200" r="140" stroke-width=".8"/>
   </g>
 
-  <!-- Floor plate with inlaid name record -->
-  <path d="M112 352 L288 352 L276 376 L124 376 Z" fill="#0c1c38" stroke="#2f4f7e" stroke-width="1" opacity=".9"/>
-  <g stroke="#3f6fa5" stroke-width="1" opacity=".5">
-    <path d="M142 360 h48 M204 360 h48 M142 370 h32 M204 370 h28"/>
-  </g>
+  <!-- Floor plate -->
+  <path d="M110 354 L290 354 L278 378 L122 378 Z" fill="#0c1c38" stroke="#2f4f7e" stroke-width="1"/>
 
-  <!-- Slender blade: centred, balanced across the frame -->
+  <!-- Slender blade: edge -->
   <g transform="rotate(-4 200 190)">
-    <path d="M200 58 L190 194 L200 322 L210 194 Z"
+    <path d="M200 48 L188 150 L200 232 L212 150 Z"
           fill="url(#rqBlade)" stroke="#a7d4ff" stroke-width="1.6"/>
-    <path d="M200 66 L200 314" stroke="#d6ecff" stroke-width=".9" opacity=".8"/>
-    <!-- Faint names under the crystal -->
-    <g font-size="8" fill="#d6ecff" opacity=".5">
-      <text x="180" y="112">_</text><text x="178" y="140">..</text>
-      <text x="177" y="190">/..</text><text x="178" y="238">.</text>
-      <text x="180" y="282">..</text>
-    </g>
-    <g fill="#6fb7ec" opacity=".7">
-      <circle cx="200" cy="92" r="1.2"/><circle cx="196" cy="150" r="1.2"/>
-      <circle cx="200" cy="214" r="1.2"/><circle cx="196" cy="276" r="1.2"/>
+    <path d="M200 54 L200 226" stroke="#d6ecff" stroke-width=".9" opacity=".85"/>
+    <!-- faint names under crystal -->
+    <g fill="#d6ecff" opacity=".5">
+      <text x="181" y="92" font-size="8">_</text><text x="180" y="120" font-size="8">..</text>
+      <text x="179" y="168" font-size="8">/.</text><text x="180" y="204" font-size="8">.</text>
     </g>
   </g>
 
-  <!-- Tollcut: one soundless ring striking the blade -->
-  <g fill="none" stroke="#a7d4ff" opacity=".55" filter="url(#rqGlow)">
-    <circle cx="200" cy="190" r="48" stroke-width="1.4"/>
-    <circle cx="200" cy="190" r="72" stroke-width="1"/>
-    <circle cx="200" cy="190" r="96" stroke-width=".8"/>
+  <!-- Cross-guard -->
+  <g transform="rotate(-4 200 190)">
+    <path d="M168 226 L232 226 L226 244 L174 244 Z" fill="#2a3338" stroke="#6b6b76" stroke-width="1.2"/>
+    <circle cx="200" cy="235" r="4" fill="#6b6b76"/>
   </g>
-  <circle cx="200" cy="190" r="3" fill="#d6ecff" filter="url(#rqGlow)"/>
 
-  <!-- Names moving outward in the rhythm of a distant toll -->
-  <g font-size="9" fill="#8fbdf0" opacity=".45">
-    <text x="92" y="238" transform="rotate(-14 92 238)">name</text>
-    <text x="272" y="220" transform="rotate(12 272 220)">name</text>
+  <!-- Wrapped grip (two-handed) -->
+  <g transform="rotate(-4 200 190)">
+    <rect x="192" y="244" width="16" height="72" rx="7" fill="url(#rqGrip)" stroke="#4c555c" stroke-width="1.4"/>
+    <path d="M192 252 L208 260 M192 262 L208 270 M192 272 L208 280 M192 282 L208 290 M192 292 L208 300 M192 302 L208 310" stroke="#1c2226" stroke-width="1.6" opacity=".7"/>
+    <path d="M192 248 L208 248 M192 312 L208 312" stroke="#6b6b76" stroke-width="1.2"/>
   </g>
+
+  <!-- Pommel ring -->
+  <g transform="rotate(-4 200 190)">
+    <circle cx="200" cy="324" r="8" fill="#2a3338" stroke="#6b6b76" stroke-width="1.6"/>
+    <circle cx="200" cy="324" r="3.5" fill="#0c1e42"/>
+  </g>
+
+  <!-- Tollcut ring at contact -->
+  <g fill="none" stroke="#a7d4ff" opacity=".5" filter="url(#rqGlow)">
+    <circle cx="200" cy="140" r="42" stroke-width="1.2"/>
+    <circle cx="200" cy="140" r="66" stroke-width=".8"/>
+  </g>
+  <circle cx="200" cy="140" r="3" fill="#d6ecff" filter="url(#rqGlow)"/>
 
   <rect width="400" height="400" fill="url(#rqVign)"/>
 </svg>

@@ -20,6 +20,11 @@
       <stop offset=".5" stop-color="#6b6b76"/>
       <stop offset="1" stop-color="#27272d"/>
     </linearGradient>
+    <linearGradient id="mmBelt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c9a86a" stop-opacity=".25"/>
+      <stop offset=".5" stop-color="#c9a86a" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#c9a86a" stop-opacity=".25"/>
+    </linearGradient>
     <filter id="mmDust" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2"/>
     </filter>
@@ -27,21 +32,12 @@
 
   <rect width="400" height="400" fill="url(#mmBg)"/>
 
-  <!-- Memorial route corridor with footfall pressure -->
-  <g stroke="#2c2a27" stroke-width="1" opacity=".5" fill="none">
-    <path d="M48 68 L48 340 M352 68 L352 340 M48 108 L352 108 M48 180 L352 180"/>
+  <!-- Corridor / footfall (subtle) -->
+  <g stroke="#2c2a27" stroke-width="1" opacity=".4" fill="none">
+    <path d="M48 72 L48 336 M352 72 L352 336 M48 112 L352 112"/>
   </g>
-  <g stroke="#3a362e" stroke-width=".8" opacity=".4">
-    <path d="M70 56 Q200 40 330 56 M80 76 Q200 58 320 76"/>
-  </g>
-  <!-- shadow footfall of the Colossus advances beyond the frame -->
   <ellipse cx="72" cy="316" rx="34" ry="12" fill="#020202" opacity=".7" filter="url(#mmDust)"/>
   <ellipse cx="340" cy="320" rx="40" ry="14" fill="#020202" opacity=".7" filter="url(#mmDust)"/>
-
-  <!-- Ground: procession line -->
-  <path d="M32 352 L368 352" stroke="#45454d" stroke-width="1" opacity=".4"/>
-  <path d="M90 352 L118 352 M282 352 L310 352" stroke="#c9a86a" stroke-width="1.4" opacity=".6"/>
-  <path d="M90 346 L106 352 L90 358 Z M310 346 L294 352 L310 358 Z" fill="#c9a86a" opacity=".45"/>
 
   <!-- Long funeral coat -->
   <path d="M148 74 Q200 56 252 74 L266 116 Q246 134 244 158 L262 300 Q228 336 236 356 L222 356 L216 304 L210 356 L190 356 L187 300 L178 356 L164 356 L172 306 Q152 326 156 300 L158 158 Q156 132 134 114 Z"
@@ -52,10 +48,8 @@
   <!-- Open front route card -->
   <path d="M170 104 L230 104 L222 300 L180 300 Z" fill="#0c0c0f" stroke="#2c2c32" stroke-width="1"/>
   <g stroke="#8a8f98" stroke-width="1" opacity=".45">
-    <line x1="180" y1="128" x2="220" y2="128"/>
-    <line x1="180" y1="146" x2="208" y2="146"/>
-    <line x1="180" y1="164" x2="216" y2="164"/>
-    <line x1="180" y1="214" x2="222" y2="214"/>
+    <line x1="180" y1="128" x2="220" y2="128"/><line x1="180" y1="146" x2="208" y2="146"/>
+    <line x1="180" y1="164" x2="216" y2="164"/><line x1="180" y1="214" x2="222" y2="214"/>
     <line x1="180" y1="232" x2="210" y2="232"/>
   </g>
   <path d="M184 200 L196 208 L216 200" fill="none" stroke="#c9a86a" stroke-width="1.2" opacity=".6"/>
@@ -65,20 +59,16 @@
   <path d="M196 104 L200 126 L204 104" fill="#0a0a0c" stroke="#565660" stroke-width="1"/>
   <circle cx="200" cy="102" r="4" fill="#565660"/>
 
+  <!-- WAIST BELT + BUCKLE: clear way to wear it closed -->
+  <path d="M164 202 L236 202 L234 218 L166 218 Z" fill="#1d1d22" stroke="url(#mmBelt)" stroke-width="1.4" opacity=".95"/>
+  <rect x="192" y="198" width="16" height="24" rx="3" fill="#3a3a40" stroke="#c9a86a" stroke-width="1.4"/>
+  <path d="M200 202 L200 218" stroke="#c9a86a" stroke-width="1"/>
+
   <!-- Wet Han threads -->
   <g stroke="url(#mmThread)" stroke-width="1.6" opacity=".85">
-    <path d="M150 92 Q142 180 150 308"/>
-    <path d="M166 88 Q158 190 164 326"/>
-    <path d="M180 92 Q176 200 180 340"/>
-    <path d="M220 92 Q224 200 220 340"/>
-    <path d="M234 88 Q242 190 236 326"/>
-    <path d="M250 92 Q258 180 250 308"/>
-  </g>
-  <g stroke="#565660" stroke-width=".9" opacity=".5">
-    <path d="M156 106 Q148 190 156 312"/>
-    <path d="M188 98 Q186 208 188 336"/>
-    <path d="M212 98 Q214 208 212 336"/>
-    <path d="M244 106 Q252 190 244 312"/>
+    <path d="M150 92 Q142 180 150 308"/><path d="M166 88 Q158 190 164 326"/>
+    <path d="M180 92 Q176 200 180 340"/><path d="M220 92 Q224 200 220 340"/>
+    <path d="M234 88 Q242 190 236 326"/><path d="M250 92 Q258 180 250 308"/>
   </g>
 
   <!-- Split hem -->
@@ -86,12 +76,10 @@
     <path d="M156 300 Q164 330 174 306 Q180 342 190 308 Q196 346 200 310 Q208 344 212 306 Q222 340 228 304 L236 356 L164 356 Z"/>
   </g>
 
-  <!-- Grey dust after every procession -->
+  <!-- Grey dust -->
   <g fill="#9aa0aa" filter="url(#mmDust)">
     <circle cx="150" cy="340" r="1.6" opacity=".6"/><circle cx="176" cy="344" r="2" opacity=".5"/>
     <circle cx="204" cy="346" r="1.8" opacity=".5"/><circle cx="230" cy="342" r="1.5" opacity=".6"/>
-    <circle cx="252" cy="336" r="1.3" opacity=".6"/><circle cx="190" cy="350" r="1.2" opacity=".45"/>
-    <circle cx="218" cy="350" r="1.1" opacity=".45"/>
   </g>
 
   <rect width="400" height="400" fill="url(#mmVign)"/>

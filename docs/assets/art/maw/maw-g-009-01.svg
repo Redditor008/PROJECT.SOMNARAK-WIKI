@@ -19,6 +19,10 @@
       <stop offset="0" stop-color="#ffffff" stop-opacity=".9"/>
       <stop offset="1" stop-color="#8ba2b8" stop-opacity=".3"/>
     </radialGradient>
+    <linearGradient id="fmCord" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8ba2b8"/>
+      <stop offset="1" stop-color="#3a5070"/>
+    </linearGradient>
     <filter id="fmGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="3"/>
     </filter>
@@ -26,44 +30,36 @@
 
   <rect width="400" height="400" fill="url(#fmBg)"/>
 
-  <!-- Archive shelving behind -->
-  <g stroke="#48627f" stroke-width="1.2" opacity=".55">
+  <!-- Archive shelving (subtle) -->
+  <g stroke="#48627f" stroke-width="1.2" opacity=".45">
     <path d="M56 82 L344 82 M56 156 L344 156 M56 230 L344 230"/>
   </g>
-  <g fill="#2c435f" opacity=".8">
-    <rect x="72" y="54" width="60" height="20"/><rect x="164" y="54" width="56" height="20"/>
-    <rect x="252" y="54" width="66" height="20"/><rect x="72" y="128" width="52" height="20"/>
-    <rect x="160" y="128" width="70" height="20"/><rect x="262" y="128" width="56" height="20"/>
-  </g>
 
-  <!-- Hanging cords -->
-  <path d="M160 82 L124 58 M240 82 L276 58" stroke="#8ba2b8" stroke-width="1.8"/>
-  <circle cx="124" cy="56" r="5" fill="#8ba2b8" opacity=".8"/>
-  <circle cx="276" cy="56" r="5" fill="#8ba2b8" opacity=".8"/>
+  <!-- WEARING CORD + LOOP: clear way to carry the face-mask -->
+  <path d="M200 30 Q200 46 172 62 Q138 80 124 116" fill="none" stroke="url(#fmCord)" stroke-width="2.4" opacity=".9"/>
+  <path d="M200 30 Q200 46 228 62 Q262 80 276 116" fill="none" stroke="url(#fmCord)" stroke-width="2.4" opacity=".9"/>
+  <circle cx="200" cy="28" r="7" fill="#1a2a40" stroke="#8ba2b8" stroke-width="1.6"/>
 
   <!-- Large pale-glass mask -->
   <g transform="rotate(-5 200 174)">
     <path d="M132 132 Q158 78 200 72 Q242 78 268 132 Q288 170 274 204 Q252 240 224 250 Q200 258 176 250 Q148 240 126 204 Q112 170 132 132 Z"
           fill="url(#fmGlass)" stroke="#b2c4d1" stroke-width="2.4"/>
-    <path d="M132 132 Q158 78 200 72 Q242 78 268 132" fill="none" stroke="#ffffff" stroke-width="1.4" opacity=".9"/>
     <path d="M154 154 Q165 144 178 154 Q168 162 154 154 Z" fill="#3a5070" opacity=".9"/>
     <path d="M222 154 Q235 144 246 154 Q236 162 222 154 Z" fill="#3a5070" opacity=".9"/>
     <circle cx="166" cy="154" r="2.4" fill="#ffffff" opacity=".6"/>
     <circle cx="234" cy="154" r="2.4" fill="#ffffff" opacity=".6"/>
-    <path d="M192 200 Q200 205 208 200" fill="none" stroke="#b2c4d1" stroke-width="1" opacity=".4"/>
   </g>
+  <!-- metal rings where cords attach -->
+  <circle cx="142" cy="122" r="6" fill="#1a2a40" stroke="#8ba2b8" stroke-width="1.4"/>
+  <circle cx="258" cy="122" r="6" fill="#1a2a40" stroke="#8ba2b8" stroke-width="1.4"/>
 
   <!-- Severed side hooks -->
   <g stroke="#8ba2b8" stroke-width="1.4" opacity=".6" fill="none">
     <path d="M112 148 L92 140 M292 148 L312 140"/>
     <path d="M108 196 L88 204 M292 196 L312 204"/>
   </g>
-  <g fill="#8ba2b8" opacity=".5">
-    <circle cx="84" cy="140" r="3.4"/><circle cx="316" cy="140" r="3.4"/>
-    <circle cx="80" cy="206" r="3.4"/><circle cx="320" cy="206" r="3.4"/>
-  </g>
 
-  <!-- Reflection pool: last person who sincerely remembered -->
+  <!-- Reflection pool -->
   <g filter="url(#fmGlow)">
     <path d="M120 288 Q200 260 280 288 L280 316 Q200 344 120 316 Z" fill="url(#fmPool)" stroke="#ffffff" stroke-width="1"/>
   </g>
@@ -71,26 +67,14 @@
     <circle cx="200" cy="288" r="26" fill="url(#fmPool)"/>
     <path d="M182 278 Q200 270 218 278" fill="none" stroke="#3a5070" stroke-width="1.2"/>
     <path d="M190 296 Q200 302 210 296" fill="none" stroke="#3a5070" stroke-width="1.2"/>
-    <path d="M200 282 L200 306" stroke="#3a5070" stroke-width=".8" opacity=".6"/>
   </g>
   <circle cx="200" cy="226" r="3.4" fill="#ffffff" opacity=".9" filter="url(#fmGlow)"/>
 
   <!-- feeds on unrecorded memories -->
   <g fill="none" stroke="#6f89a3" stroke-width="1.2" opacity=".6">
-    <path d="M116 352 q10 -12 20 0"/>
-    <path d="M138 360 q10 -12 20 0"/>
-    <path d="M160 366 q10 -12 20 0"/>
-    <path d="M226 366 q10 -12 20 0"/>
-    <path d="M248 360 q10 -12 20 0"/>
-    <path d="M270 352 q10 -12 20 0"/>
-  </g>
-
-  <!-- Weekly life log -->
-  <rect x="146" y="340" width="108" height="36" rx="4" fill="#ffffff" stroke="#b2c4d1" stroke-width="1.2"/>
-  <g stroke="#3a5070" stroke-width="1.2" opacity=".7">
-    <line x1="160" y1="350" x2="240" y2="350"/>
-    <line x1="160" y1="358" x2="226" y2="358"/>
-    <line x1="160" y1="366" x2="232" y2="366"/>
+    <path d="M116 352 q10 -12 20 0"/><path d="M138 360 q10 -12 20 0"/>
+    <path d="M160 366 q10 -12 20 0"/><path d="M226 366 q10 -12 20 0"/>
+    <path d="M248 360 q10 -12 20 0"/><path d="M270 352 q10 -12 20 0"/>
   </g>
 
   <rect width="400" height="400" fill="url(#fmVign)"/>

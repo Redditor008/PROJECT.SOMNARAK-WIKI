@@ -11,9 +11,13 @@
       <stop offset="1" stop-color="#010305" stop-opacity=".9"/>
     </radialGradient>
     <linearGradient id="edCharm" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#a7d4ff" stop-opacity=".95"/>
-      <stop offset=".5" stop-color="#2f6fb5" stop-opacity=".9"/>
-      <stop offset="1" stop-color="#1f4f8c" stop-opacity=".9"/>
+      <stop offset="0" stop-color="#a7d4ff" stop-opacity=".96"/>
+      <stop offset=".5" stop-color="#2f6fb5" stop-opacity=".94"/>
+      <stop offset="1" stop-color="#1f4f8c" stop-opacity=".94"/>
+    </linearGradient>
+    <linearGradient id="edCord" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8fbdf0"/>
+      <stop offset="1" stop-color="#1f4f8c"/>
     </linearGradient>
     <filter id="edGlow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="4"/>
@@ -22,26 +26,25 @@
 
   <rect width="400" height="400" fill="url(#edBg)"/>
 
-  <!-- Archive ledge / abandoned record wall -->
-  <g stroke="#1f3f6e" stroke-width="1" opacity=".45" fill="none">
-    <path d="M44 120 L356 120 M44 158 L356 158 M44 196 L356 196 M44 234 L356 234"/>
-    <path d="M44 120 L44 360 M356 120 L356 360"/>
+  <!-- Archive marker wall (subtle) -->
+  <g stroke="#1f3f6e" stroke-width="1" opacity=".35" fill="none">
+    <path d="M44 132 L356 132 M44 168 L356 168 M44 204 L356 204"/>
   </g>
-  <path d="M96 120 L96 158 M172 120 L172 158 M248 120 L248 158 M320 120 L320 158" stroke="#2f4f7e" stroke-width="1" opacity=".5"/>
-
-  <!-- Blank Archive marker: returned without a name -->
-  <rect x="252" y="128" width="72" height="46" rx="3" fill="#0c1c38" stroke="#3f6fa5" stroke-width="1"/>
+  <rect x="252" y="136" width="72" height="46" rx="3" fill="#0c1c38" stroke="#3f6fa5" stroke-width="1"/>
   <g stroke="#3f6fa5" stroke-width="1" opacity=".55">
-    <line x1="262" y1="140" x2="314" y2="140"/><line x1="262" y1="150" x2="300" y2="150"/>
+    <line x1="262" y1="148" x2="314" y2="148"/><line x1="262" y1="158" x2="300" y2="158"/>
   </g>
-  <circle cx="288" cy="164" r="3" fill="#6fb7ec" opacity=".6" filter="url(#edGlow)"/>
 
   <!-- Midnight toll ripples -->
-  <g fill="none" stroke="#2f6fb5" opacity=".4" filter="url(#edGlow)">
-    <circle cx="200" cy="180" r="58" stroke-width="1.2"/>
-    <circle cx="200" cy="180" r="92" stroke-width="1"/>
-    <circle cx="200" cy="180" r="128" stroke-width=".8"/>
+  <g fill="none" stroke="#2f6fb5" opacity=".35" filter="url(#edGlow)">
+    <circle cx="200" cy="172" r="62" stroke-width="1.1"/>
+    <circle cx="200" cy="172" r="96" stroke-width=".8"/>
   </g>
+
+  <!-- WEARING CORD + LOOP: clear way to carry the charm -->
+  <path d="M200 32 Q200 48 168 66 Q132 86 122 122" fill="none" stroke="url(#edCord)" stroke-width="2.6" opacity=".9"/>
+  <circle cx="200" cy="30" r="8" fill="#1f4f8c" stroke="#8fbdf0" stroke-width="1.8"/>
+  <circle cx="200" cy="30" r="3" fill="#8fbdf0"/>
 
   <!-- Blue crystal charm: edge of a broken bell clapper -->
   <g transform="rotate(-16 200 184)">
@@ -50,18 +53,16 @@
     <path d="M180 112 L210 188" stroke="#d6ecff" stroke-width=".9" opacity=".7"/>
     <path d="M188 128 L192 132 M198 156 L202 160" stroke="#6fb7ec" stroke-width="1" opacity=".7"/>
   </g>
+  <!-- metal ring where cord meets charm -->
+  <circle cx="200" cy="92" r="6" fill="#2a3338" stroke="#cfe8ff" stroke-width="1.4"/>
   <!-- broken clapper tip -->
   <path d="M202 202 L216 206 L210 222 L196 214 Z" fill="#1f4f8c" stroke="#6fb7ec" stroke-width="1"/>
 
-  <!-- It stays cold until a name is said; then grows heavy and points to the chest -->
+  <!-- It grows heavy and points to the chest -->
   <path d="M212 218 Q216 250 212 278" fill="none" stroke="#8fbdf0" stroke-width="1.4" opacity=".6"/>
-  <path d="M226 254 L214 240 M226 254 L218 270" fill="none" stroke="#8fbdf0" stroke-width="1.2" opacity=".55"/>
   <circle cx="226" cy="254" r="3" fill="#cfe8ff" filter="url(#edGlow)"/>
 
-  <!-- Named grief / avoided name -->
-  <g font-size="10" fill="#8fbdf0" opacity=".5" transform="rotate(-8 260 300)">
-    <text x="240" y="304">name</text>
-  </g>
+  <!-- named avoided grief -->
   <path d="M232 308 L240 300 M232 316 L242 312" stroke="#8fbdf0" stroke-width="1" opacity=".5" fill="none"/>
 
   <rect width="400" height="400" fill="url(#edVign)"/>

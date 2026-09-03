@@ -15,10 +15,10 @@
       <stop offset=".5" stop-color="#17171a"/>
       <stop offset="1" stop-color="#0c0c0e"/>
     </linearGradient>
-    <linearGradient id="amRivet" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#3c3c44"/>
+    <linearGradient id="amStrap" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2c2c33"/>
       <stop offset=".5" stop-color="#8a8f98"/>
-      <stop offset="1" stop-color="#3c3c44"/>
+      <stop offset="1" stop-color="#2c2c33"/>
     </linearGradient>
     <filter id="amGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="3"/>
@@ -27,18 +27,10 @@
 
   <rect width="400" height="400" fill="url(#amBg)"/>
 
-  <!-- Sealed breach chamber with pressure grading lines -->
-  <g stroke="#2c2c33" stroke-width="1.2" opacity=".5">
-    <line x1="64" y1="52" x2="64" y2="340"/>
-    <line x1="336" y1="52" x2="336" y2="340"/>
-    <line x1="64" y1="92" x2="336" y2="92"/>
-    <line x1="64" y1="150" x2="336" y2="150"/>
-    <line x1="64" y1="250" x2="336" y2="250"/>
-  </g>
-  <!-- converging collapse field -->
-  <g stroke="#565660" stroke-width="1" opacity=".4">
-    <path d="M52 48 L150 100 M348 48 L250 100"/>
-    <path d="M72 76 L160 118 M328 76 L240 118"/>
+  <!-- chamber (subtle) -->
+  <g stroke="#2c2c33" stroke-width="1.2" opacity=".4">
+    <line x1="64" y1="52" x2="64" y2="340"/><line x1="336" y1="52" x2="336" y2="340"/>
+    <line x1="64" y1="92" x2="336" y2="92"/><line x1="64" y1="250" x2="336" y2="250"/>
   </g>
 
   <!-- Fixed Point anchor -->
@@ -57,30 +49,34 @@
     <path d="M112 168 L152 164 M288 168 L248 164"/>
     <path d="M106 196 L148 190 M294 196 L252 190"/>
   </g>
-  <g fill="url(#amRivet)" opacity=".85">
-    <circle cx="150" cy="116" r="2.6"/><circle cx="250" cy="116" r="2.6"/>
-    <circle cx="146" cy="140" r="2.6"/><circle cx="254" cy="140" r="2.6"/>
-    <circle cx="142" cy="164" r="2.6"/><circle cx="258" cy="164" r="2.6"/>
-    <circle cx="138" cy="190" r="2.6"/><circle cx="262" cy="190" r="2.6"/>
-  </g>
-  <rect x="188" y="124" width="24" height="86" rx="6" fill="#101014" stroke="url(#amRivet)" stroke-width="1.6"/>
+  <!-- inner core -->
+  <rect x="188" y="124" width="24" height="86" rx="6" fill="#101014" stroke="url(#amStrap)" stroke-width="1.6"/>
   <circle cx="200" cy="138" r="4.4" fill="#565660"/>
+
+  <!-- WEARING STRAPS: shoulder + waist buckle, clear fit -->
+  <g stroke="url(#amStrap)" stroke-width="2" fill="none" opacity=".9">
+    <path d="M160 88 L164 150 L172 200"/>
+    <path d="M240 88 L236 150 L228 200"/>
+  </g>
+  <path d="M162 172 L238 172" stroke="url(#amStrap)" stroke-width="2.2" opacity=".9"/>
+  <rect x="188" y="166" width="24" height="14" rx="3" fill="#0d0d0f" stroke="#8a8f98" stroke-width="1.4"/>
+  <path d="M196 172 L204 172" stroke="#8a8f98" stroke-width="1.2"/>
+  <circle cx="170" cy="112" r="5" fill="none" stroke="#8a8f98" stroke-width="1.4"/>
+  <circle cx="230" cy="112" r="5" fill="none" stroke="#8a8f98" stroke-width="1.4"/>
 
   <!-- Flat heavy hem -->
   <path d="M94 200 L306 200 L312 224 Q200 248 88 224 Z" fill="#0a0a0c" stroke="#34343c" stroke-width="1.4"/>
   <path d="M98 210 L302 210" stroke="#565660" stroke-width="1" opacity=".5"/>
 
-  <!-- 11 min refusal -->
+  <!-- 11 min -->
   <g fill="#565660" opacity=".8">
-    <text x="50" y="76" font-size="12">+11m</text>
-    <text x="320" y="76" font-size="12">+11m</text>
+    <text x="50" y="76" font-size="12">+11m</text><text x="320" y="76" font-size="12">+11m</text>
   </g>
   <path d="M200 214 L200 252" stroke="#565660" stroke-width="1.4" opacity=".5" stroke-dasharray="3 3"/>
 
-  <!-- Partner's counter-order -->
+  <!-- Partner counter-order -->
   <g fill="none" stroke="#8a8f98" stroke-width="1.6" opacity=".8">
-    <path d="M62 292 Q102 306 144 300"/>
-    <path d="M338 292 Q298 306 256 300"/>
+    <path d="M62 292 Q102 306 144 300"/><path d="M338 292 Q298 306 256 300"/>
   </g>
   <path d="M62 286 L54 300 L78 300 Z" fill="#8a8f98" opacity=".8"/>
   <path d="M338 286 L346 300 L322 300 Z" fill="#8a8f98" opacity=".8"/>

@@ -15,9 +15,10 @@
       <stop offset=".5" stop-color="#dbe4e9" stop-opacity=".9"/>
       <stop offset="1" stop-color="#b2c4d1" stop-opacity=".94"/>
     </linearGradient>
-    <linearGradient id="flShine" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#cfe0ea"/>
+    <linearGradient id="flGrip" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1a2a40"/>
+      <stop offset=".5" stop-color="#48627f"/>
+      <stop offset="1" stop-color="#1a2a40"/>
     </linearGradient>
     <filter id="flGlow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="3"/>
@@ -26,45 +27,28 @@
 
   <rect width="400" height="400" fill="url(#flBg)"/>
 
-  <!-- Memory Weaver loom: vertical threads and horizontal weft -->
-  <g stroke="#3a5070" stroke-width="1.2" opacity=".5">
-    <line x1="64" y1="48" x2="64" y2="326"/>
-    <line x1="120" y1="48" x2="120" y2="326"/>
-    <line x1="280" y1="48" x2="280" y2="326"/>
-    <line x1="336" y1="48" x2="336" y2="326"/>
-  </g>
-  <g stroke="#48627f" stroke-width="1" opacity=".4">
-    <line x1="52" y1="82" x2="348" y2="82"/>
-    <line x1="52" y1="148" x2="348" y2="148"/>
-    <line x1="52" y1="214" x2="348" y2="214"/>
-    <line x1="52" y1="280" x2="348" y2="280"/>
+  <!-- Weaver threads (subtle) -->
+  <g stroke="#3a5070" stroke-width="1.2" opacity=".45">
+    <line x1="64" y1="48" x2="64" y2="326"/><line x1="120" y1="48" x2="120" y2="326"/>
+    <line x1="280" y1="48" x2="280" y2="326"/><line x1="336" y1="48" x2="336" y2="326"/>
   </g>
 
-  <!-- Woven memory panel behind -->
-  <rect x="42" y="94" width="316" height="104" rx="4" fill="#1a2a40" stroke="#48627f" stroke-width="1" opacity=".85"/>
-  <g stroke="#2c435f" stroke-width="1" opacity=".6">
-    <line x1="54" y1="108" x2="346" y2="108"/>
-    <line x1="54" y1="120" x2="346" y2="120"/>
-    <line x1="54" y1="132" x2="346" y2="132"/>
-    <line x1="54" y1="144" x2="346" y2="144"/>
-    <line x1="54" y1="156" x2="346" y2="156"/>
-    <line x1="54" y1="168" x2="346" y2="168"/>
-    <line x1="54" y1="180" x2="346" y2="180"/>
-  </g>
-
-  <!-- Loom-shuttle lens blade, larger -->
+  <!-- Loom-shuttle lens blade -->
   <g transform="rotate(-14 200 200)">
     <path d="M70 192 L124 158 L312 158 L366 192 L312 226 L124 226 Z"
           fill="url(#flBlade)" stroke="#cfe0ea" stroke-width="2.6"/>
-    <path d="M70 192 L124 158 L312 158 L366 192 L312 226 L124 226 Z"
-          fill="none" stroke="url(#flShine)" stroke-width="1.4" opacity=".8"/>
-    <circle cx="94" cy="192" r="9" fill="#48627f" stroke="#cfe0ea" stroke-width="1.6"/>
-    <circle cx="94" cy="192" r="4" fill="#ffffff"/>
     <path d="M124 158 L312 158" stroke="#ffffff" stroke-width="3"/>
     <path d="M124 226 L312 226" stroke="#b2c4d1" stroke-width="1.2" opacity=".7"/>
   </g>
 
-  <!-- Fragmented face never expected -->
+  <!-- HANDLE: eyelet + small wooden grip at the tail -->
+  <g transform="rotate(-14 200 200)">
+    <circle cx="94" cy="192" r="9" fill="#48627f" stroke="#cfe0ea" stroke-width="1.6"/>
+    <circle cx="94" cy="192" r="4" fill="#ffffff"/>
+    <path d="M70 192 L84 192" stroke="#cfe0ea" stroke-width="2"/>
+  </g>
+
+  <!-- Fragmented face -->
   <g opacity=".8">
     <ellipse cx="222" cy="192" rx="28" ry="34" fill="#ffffff" stroke="#b2c4d1" stroke-width="1.2"/>
     <path d="M208 182 Q210 170 220 170 Q222 180 216 184" fill="none" stroke="#b2c4d1" stroke-width="1.2"/>
@@ -72,26 +56,22 @@
     <path d="M214 206 Q220 210 226 206" fill="none" stroke="#b2c4d1" stroke-width="1.2"/>
   </g>
   <g stroke="#8ba2b8" stroke-width="1" opacity=".7">
-    <line x1="196" y1="148" x2="212" y2="164"/>
-    <line x1="252" y1="150" x2="234" y2="164"/>
-    <line x1="200" y1="218" x2="216" y2="206"/>
-    <line x1="250" y1="218" x2="232" y2="208"/>
+    <line x1="196" y1="148" x2="212" y2="164"/><line x1="252" y1="150" x2="234" y2="164"/>
+    <line x1="200" y1="218" x2="216" y2="206"/><line x1="250" y1="218" x2="232" y2="208"/>
   </g>
 
-  <!-- Thread through eyelet, then severing -->
+  <!-- Thread through eyelet then sever -->
   <path d="M36 168 Q66 170 92 192 L108 216 L152 264" fill="none" stroke="#8ba2b8" stroke-width="2.2" opacity=".85"/>
   <path d="M36 168 L36 150" stroke="#8ba2b8" stroke-width="1.6" opacity=".7"/>
   <path d="M108 216 Q124 224 136 244 M108 216 Q120 216 134 240" fill="none" stroke="#8ba2b8" stroke-width="1.6" opacity=".8"/>
   <circle cx="248" cy="268" r="4.6" fill="#ffffff" filter="url(#flGlow)"/>
 
-  <!-- Unwoven return thread -->
+  <!-- Unwoven return -->
   <path d="M286 264 Q324 254 360 260" fill="none" stroke="#8ba2b8" stroke-width="1.8" opacity=".7"/>
-  <path d="M360 260 L360 242" stroke="#8ba2b8" stroke-width="1.4" opacity=".6"/>
 
-  <!-- small nameless memories in the glass -->
+  <!-- small nameless memories -->
   <g fill="#ffffff" opacity=".7" filter="url(#flGlow)">
-    <circle cx="166" cy="192" r="2.6"/><circle cx="190" cy="184" r="2.6"/>
-    <circle cx="162" cy="212" r="2.2"/><circle cx="186" cy="220" r="2.2"/>
+    <circle cx="166" cy="192" r="2.6"/><circle cx="190" cy="184" r="2.6"/><circle cx="162" cy="212" r="2.2"/>
   </g>
 
   <!-- Returned song -->

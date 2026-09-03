@@ -15,6 +15,10 @@
       <stop offset=".55" stop-color="#edf2f5" stop-opacity=".82"/>
       <stop offset="1" stop-color="#a9b7c0" stop-opacity=".92"/>
     </linearGradient>
+    <linearGradient id="dsCord" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a9b7c0"/>
+      <stop offset="1" stop-color="#6f7d86"/>
+    </linearGradient>
     <filter id="dsGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2"/>
     </filter>
@@ -22,23 +26,19 @@
 
   <rect width="400" height="400" fill="url(#dsBg)"/>
 
-  <!-- Collector record room environment -->
-  <g stroke="#6f7d86" stroke-width="1.2" opacity=".5">
-    <path d="M52 64 L52 332 M348 64 L348 332 M52 110 L348 110 M52 210 L348 210 M52 292 L348 292"/>
-  </g>
-  <g fill="#7d8b93" opacity=".35">
-    <rect x="64" y="78" width="36" height="8"/><rect x="112" y="78" width="22" height="8"/>
-    <rect x="64" y="126" width="30" height="8"/><rect x="110" y="126" width="30" height="8"/>
-    <rect x="66" y="176" width="24" height="8"/><rect x="102" y="176" width="34" height="8"/>
+  <!-- record room (subtle) -->
+  <g stroke="#6f7d86" stroke-width="1.2" opacity=".4">
+    <path d="M52 64 L52 332 M348 64 L348 332 M52 110 L348 110 M52 210 L348 210"/>
   </g>
 
-  <!-- Chain -->
-  <path d="M200 38 L200 74" stroke="#8a9aa5" stroke-width="1.8"/>
-  <circle cx="200" cy="38" r="4.4" fill="#8a9aa5"/>
+  <!-- WEARING CHAIN + LOOP: clear way to hang the balance pendant -->
+  <path d="M200 30 L200 70" stroke="url(#dsCord)" stroke-width="2"/>
+  <circle cx="200" cy="28" r="6" fill="none" stroke="#a9b7c0" stroke-width="1.6"/>
+  <path d="M188 70 L212 70" stroke="#a9b7c0" stroke-width="1.8"/>
 
   <!-- Balance stem -->
-  <path d="M196 74 L204 74 L204 156 L200 184 L196 156 Z" fill="#a9b7c0" stroke="#8a9aa5" stroke-width="1"/>
-  <circle cx="200" cy="74" r="5" fill="#8a9aa5"/>
+  <path d="M196 70 L204 70 L204 156 L200 184 L196 156 Z" fill="#a9b7c0" stroke="#8a9aa5" stroke-width="1"/>
+  <circle cx="200" cy="70" r="5" fill="#8a9aa5"/>
 
   <!-- Beam, tipped -->
   <path d="M108 84 L292 96" stroke="#a9b7c0" stroke-width="2.6"/>
@@ -60,28 +60,22 @@
     <line x1="304" y1="154" x2="334" y2="154" stroke="#6f7d86" stroke-width="1" opacity=".7"/>
     <line x1="304" y1="160" x2="326" y2="160" stroke="#6f7d86" stroke-width="1" opacity=".7"/>
   </g>
-  <path d="M296 156 Q284 152 292 146" fill="none" stroke="#8a9aa5" stroke-width="1"/>
 
   <!-- Collector vault -->
   <g transform="rotate(-34 328 126)">
     <rect x="312" y="100" width="36" height="50" rx="3" fill="#7d8b93" opacity=".5"/>
     <path d="M318 122 L346 122" stroke="#6f7d86" stroke-width="1.4" opacity=".6"/>
-    <path d="M318 132 L338 132" stroke="#6f7d86" stroke-width="1.4" opacity=".6"/>
   </g>
   <circle cx="328" cy="118" r="6.6" fill="#5c686f" opacity=".7" filter="url(#dsGlow)"/>
 
-  <!-- What is carried, not fair -->
+  <!-- what is carried -->
   <path d="M132 224 Q200 212 268 224" fill="none" stroke="#6f7d86" stroke-width="1.4" opacity=".65"/>
   <path d="M140 240 Q200 230 260 240" fill="none" stroke="#6f7d86" stroke-width="1.4" opacity=".5"/>
-  <circle cx="132" cy="224" r="3.4" fill="#6f7d86" opacity=".7"/>
-  <circle cx="268" cy="224" r="3.4" fill="#6f7d86" opacity=".7"/>
-  <circle cx="140" cy="240" r="3.4" fill="#6f7d86" opacity=".7"/>
-  <circle cx="260" cy="240" r="3.4" fill="#6f7d86" opacity=".7"/>
+  <circle cx="132" cy="224" r="3.4" fill="#6f7d86" opacity=".7"/><circle cx="268" cy="224" r="3.4" fill="#6f7d86" opacity=".7"/>
 
-  <!-- record: archived, suppressed, recovered -->
+  <!-- record -->
   <path d="M312 330 L312 300 Q312 288 324 286 L334 286" fill="none" stroke="#8a9aa5" stroke-width="1.6" opacity=".65"/>
   <path d="M330 282 L334 292 L324 288 Z" fill="#8a9aa5" opacity=".65"/>
-  <path d="M110 300 L86 282 M110 300 L82 300 M110 308 L78 306" fill="none" stroke="#8a9aa5" stroke-width="1.4" opacity=".6"/>
 
   <rect width="400" height="400" fill="url(#dsVign)"/>
 </svg>

@@ -15,6 +15,10 @@
       <stop offset=".5" stop-color="#18181c"/>
       <stop offset="1" stop-color="#0c0c0e"/>
     </linearGradient>
+    <linearGradient id="avCord" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8a8f98"/>
+      <stop offset="1" stop-color="#4c4c56"/>
+    </linearGradient>
     <filter id="avGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2"/>
     </filter>
@@ -22,33 +26,26 @@
 
   <rect width="400" height="400" fill="url(#avBg)"/>
 
-  <!-- The nineteen unsaved -->
-  <g fill="#565660" opacity=".4">
+  <!-- nineteen unsaved (subtle) -->
+  <g fill="#565660" opacity=".35">
     <circle cx="90" cy="106" r="3"/><circle cx="122" cy="82" r="3"/><circle cx="158" cy="60" r="3"/>
     <circle cx="200" cy="50" r="3"/><circle cx="242" cy="60" r="3"/><circle cx="278" cy="82" r="3"/>
     <circle cx="310" cy="106" r="3"/><circle cx="70" cy="144" r="3"/><circle cx="330" cy="144" r="3"/>
     <circle cx="92" cy="180" r="3"/><circle cx="308" cy="180" r="3"/><circle cx="120" cy="210" r="3"/>
-    <circle cx="280" cy="210" r="3"/><circle cx="150" cy="232" r="3"/><circle cx="250" cy="232" r="3"/>
-    <circle cx="176" cy="248" r="3"/><circle cx="224" cy="248" r="3"/><circle cx="200" cy="258" r="3"/>
-    <circle cx="200" cy="296" r="3"/>
+    <circle cx="280" cy="210" r="3"/>
   </g>
-  <g stroke="#565660" stroke-width="1" opacity=".35" stroke-dasharray="3 3">
+  <g stroke="#565660" stroke-width="1" opacity=".3" stroke-dasharray="3 3">
     <path d="M70 124 Q150 112 200 124 Q250 112 330 124"/>
-    <path d="M92 196 Q200 176 308 196"/>
   </g>
 
-  <!-- Judgment field rings -->
-  <g stroke="#565660" stroke-width="1" opacity=".3">
-    <circle cx="200" cy="200" r="76"/><circle cx="200" cy="200" r="120"/><circle cx="200" cy="200" r="164"/>
-  </g>
-
-  <!-- Chain -->
-  <path d="M200 42 L200 82" stroke="#565660" stroke-width="1.8"/>
-  <circle cx="200" cy="40" r="4.6" fill="#6b6b76"/>
+  <!-- WEARING CHAIN + BAIL: clear way to carry the verdict plate -->
+  <path d="M200 34 L200 74" stroke="url(#avCord)" stroke-width="2"/>
+  <circle cx="200" cy="32" r="5" fill="#2a2a30" stroke="#8a8f98" stroke-width="1.4"/>
+  <circle cx="200" cy="32" r="2" fill="#8a8f98"/>
+  <path d="M186 74 L214 74" stroke="#8a8f98" stroke-width="1.8"/>
 
   <!-- Downward-triangular verdict plate -->
   <path d="M200 82 L296 236 Q200 282 104 236 Z" fill="url(#avPlate)" stroke="#565660" stroke-width="2.6"/>
-  <path d="M200 82 L296 236 Q200 282 104 236 Z" fill="none" stroke="#2c2c33" stroke-width="1" opacity=".6"/>
 
   <!-- Closed eye crown -->
   <path d="M174 122 Q188 112 202 122 Q188 132 174 122 Z" fill="#0a0a0c" stroke="#8a8f98" stroke-width="1.2"/>
@@ -68,8 +65,8 @@
   <path d="M206 246 Q200 260 194 246" fill="none" stroke="#8a8f98" stroke-width="1.4" opacity=".7"/>
   <circle cx="200" cy="256" r="4.4" fill="#8a8f98" opacity=".7"/>
 
-  <!-- Sentence pressure field -->
-  <path d="M148 304 L252 304 M162 322 L238 322 M184 340 L216 340" stroke="#565660" stroke-width="1.2" opacity=".4"/>
+  <!-- Sentence pressure -->
+  <path d="M148 304 L252 304 M162 322 L238 322" stroke="#565660" stroke-width="1.2" opacity=".4"/>
   <g filter="url(#avGlow)">
     <circle cx="200" cy="256" r="28" fill="none" stroke="#8a8f98" stroke-width=".8" opacity=".55"/>
   </g>

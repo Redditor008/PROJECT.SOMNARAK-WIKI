@@ -22,17 +22,12 @@
 
   <rect width="400" height="400" fill="url(#emBg)"/>
 
-  <!-- South Dock fire environment, ruined walkway -->
-  <g stroke="#5a2222" stroke-width="1" opacity=".5" fill="none">
-    <path d="M48 66 L48 330 M352 66 L352 330 M48 100 L352 100 M48 258 L352 258"/>
+  <!-- fire environment (subtle) -->
+  <g stroke="#5a2222" stroke-width="1" opacity=".4" fill="none">
+    <path d="M48 70 L48 326 M352 70 L352 326 M48 104 L352 104 M48 258 L352 258"/>
   </g>
-  <g stroke="#802f33" stroke-width="1.2" opacity=".4" fill="none">
-    <path d="M60 236 L160 222 L220 242 M340 236 L240 222 L180 242"/>
-  </g>
-  <!-- fire embers -->
-  <g fill="#d9435a" opacity=".4" filter="url(#emGlow)">
-    <circle cx="84" cy="120" r="2"/><circle cx="120" cy="88" r="2"/>
-    <circle cx="300" cy="180" r="2"/><circle cx="330" cy="120" r="2"/>
+  <g fill="#d9435a" opacity=".35" filter="url(#emGlow)">
+    <circle cx="84" cy="120" r="2"/><circle cx="120" cy="88" r="2"/><circle cx="300" cy="180" r="2"/>
   </g>
 
   <!-- Clothing seam / tail attachment -->
@@ -48,9 +43,17 @@
     <path d="M240 182 Q250 202 228 218 Q204 236 186 228 L194 222 Q208 226 220 214 Q232 202 222 184 Z"
           fill="url(#emClasp)" stroke="#f78a9b" stroke-width="1.6"/>
   </g>
-  <!-- wrists meeting -->
   <circle cx="200" cy="236" r="7" fill="#5a101d" stroke="#f78a9b" stroke-width="1.6"/>
   <circle cx="200" cy="236" r="2.6" fill="#f78a9b" filter="url(#emGlow)"/>
+
+  <!-- WEARING PIN / LATCH: clear fastening to the seam -->
+  <path d="M200 286 L200 314" stroke="#802f33" stroke-width="2"/>
+  <rect x="192" y="224" width="16" height="14" rx="3" fill="#2c060c" stroke="#f78a9b" stroke-width="1.4"/>
+  <circle cx="200" cy="231" r="2.4" fill="#f78a9b"/>
+  <g stroke="#f78a9b" stroke-width="1.4" opacity=".7">
+    <path d="M160 262 L176 262 L186 256"/>
+    <path d="M240 262 L224 262 L214 256"/>
+  </g>
 
   <!-- Hold Fast: prevents one ally from being moved / pulled -->
   <path d="M230 248 Q270 272 302 262 L312 272" fill="none" stroke="#f78a9b" stroke-width="1.6" opacity=".7"/>
@@ -58,15 +61,8 @@
   <circle cx="304" cy="284" r="6" fill="none" stroke="#f78a9b" stroke-width="1.2" opacity=".7"/>
   <circle cx="96" cy="284" r="6" fill="none" stroke="#f78a9b" stroke-width="1.2" opacity=".7"/>
 
-  <!-- Warm when someone nearby is frightened -->
   <g fill="none" stroke="#d9435a" opacity=".4" filter="url(#emGlow)">
-    <circle cx="200" cy="236" r="28"/><circle cx="200" cy="236" r="48"/>
-  </g>
-
-  <!-- Evacuation list read aloud -->
-  <path d="M118 334 Q200 322 282 334" fill="none" stroke="#f78a9b" stroke-width="1" opacity=".45" stroke-dasharray="4 4"/>
-  <g fill="#f78a9b" opacity=".5">
-    <circle cx="140" cy="330" r="2"/><circle cx="200" cy="326" r="2"/><circle cx="260" cy="330" r="2"/>
+    <circle cx="200" cy="236" r="30"/><circle cx="200" cy="236" r="50"/>
   </g>
 
   <rect width="400" height="400" fill="url(#emVign)"/>
