@@ -26,44 +26,49 @@
 
   <rect width="400" height="400" fill="url(#edBg)"/>
 
-  <!-- Archive marker wall (subtle) -->
-  <g stroke="#1f3f6e" stroke-width="1" opacity=".35" fill="none">
-    <path d="M44 132 L356 132 M44 168 L356 168 M44 204 L356 204"/>
+  <!-- Archive marker wall (subtle, kept behind the item) -->
+  <g stroke="#1f3f6e" stroke-width="1" opacity=".3" fill="none">
+    <path d="M44 128 L356 128 M44 168 L356 168 M44 208 L356 208"/>
   </g>
-  <rect x="252" y="136" width="72" height="46" rx="3" fill="#0c1c38" stroke="#3f6fa5" stroke-width="1"/>
-  <g stroke="#3f6fa5" stroke-width="1" opacity=".55">
-    <line x1="262" y1="148" x2="314" y2="148"/><line x1="262" y1="158" x2="300" y2="158"/>
+  <rect x="252" y="128" width="72" height="48" rx="3" fill="#0c1c38" stroke="#3f6fa5" stroke-width="1" opacity=".45"/>
+  <g stroke="#3f6fa5" stroke-width="1" opacity=".35">
+    <line x1="262" y1="142" x2="314" y2="142"/><line x1="262" y1="152" x2="300" y2="152"/>
   </g>
 
   <!-- Midnight toll ripples -->
-  <g fill="none" stroke="#2f6fb5" opacity=".35" filter="url(#edGlow)">
-    <circle cx="200" cy="172" r="62" stroke-width="1.1"/>
-    <circle cx="200" cy="172" r="96" stroke-width=".8"/>
+  <g fill="none" stroke="#2f6fb5" opacity=".3" filter="url(#edGlow)">
+    <circle cx="200" cy="180" r="66" stroke-width="1"/>
+    <circle cx="200" cy="180" r="100" stroke-width=".8"/>
   </g>
 
-  <!-- WEARING CORD + LOOP: clear way to carry the charm -->
-  <path d="M200 32 Q200 48 168 66 Q132 86 122 122" fill="none" stroke="url(#edCord)" stroke-width="2.6" opacity=".9"/>
-  <circle cx="200" cy="30" r="8" fill="#1f4f8c" stroke="#8fbdf0" stroke-width="1.8"/>
-  <circle cx="200" cy="30" r="3" fill="#8fbdf0"/>
+  <!-- SINGLE WEARING CORD: loop at top runs straight down to the charm -->
+  <path d="M200 40 L200 118" stroke="url(#edCord)" stroke-width="2.6" opacity=".95"/>
+  <circle cx="200" cy="38" r="8" fill="#1f4f8c" stroke="#8fbdf0" stroke-width="1.8"/>
+  <circle cx="200" cy="38" r="3" fill="#8fbdf0"/>
+  <!-- small slide knot on the cord -->
+  <rect x="193" y="98" width="14" height="8" rx="3" fill="#2a3338" stroke="#8fbdf0" stroke-width="1"/>
 
-  <!-- Blue crystal charm: edge of a broken bell clapper -->
-  <g transform="rotate(-16 200 184)">
-    <path d="M168 104 L182 100 L214 186 L216 204 L202 200 L180 132 Z"
+  <!-- Metal ring joining cord to charm -->
+  <circle cx="200" cy="126" r="8" fill="#2a3338" stroke="#cfe8ff" stroke-width="1.6"/>
+  <circle cx="200" cy="126" r="3" fill="#0c1e42"/>
+
+  <!-- Blue crystal charm: edge of a broken bell clapper, hanging vertical, centred -->
+  <g>
+    <path d="M200 134 L184 190 L200 252 L216 190 Z"
           fill="url(#edCharm)" stroke="#cfe8ff" stroke-width="1.6"/>
-    <path d="M180 112 L210 188" stroke="#d6ecff" stroke-width=".9" opacity=".7"/>
-    <path d="M188 128 L192 132 M198 156 L202 160" stroke="#6fb7ec" stroke-width="1" opacity=".7"/>
+    <path d="M200 140 L200 246" stroke="#d6ecff" stroke-width=".9" opacity=".7"/>
+    <path d="M194 164 L198 168 M192 190 L196 194 M194 216 L198 220" stroke="#6fb7ec" stroke-width="1" opacity=".7"/>
+    <!-- broken clapper tip (symmetrical) -->
+    <path d="M200 252 L191 274 L209 274 Z" fill="#1f4f8c" stroke="#6fb7ec" stroke-width="1"/>
   </g>
-  <!-- metal ring where cord meets charm -->
-  <circle cx="200" cy="92" r="6" fill="#2a3338" stroke="#cfe8ff" stroke-width="1.4"/>
-  <!-- broken clapper tip -->
-  <path d="M202 202 L216 206 L210 222 L196 214 Z" fill="#1f4f8c" stroke="#6fb7ec" stroke-width="1"/>
 
-  <!-- It grows heavy and points to the chest -->
-  <path d="M212 218 Q216 250 212 278" fill="none" stroke="#8fbdf0" stroke-width="1.4" opacity=".6"/>
-  <circle cx="226" cy="254" r="3" fill="#cfe8ff" filter="url(#edGlow)"/>
+  <!-- It grows heavy and points toward the chest (visible gesture) -->
+  <path d="M214 202 L232 218 L224 234" fill="none" stroke="#8fbdf0" stroke-width="1.6" opacity=".7"/>
+  <circle cx="226" cy="226" r="3.4" fill="#cfe8ff" filter="url(#edGlow)"/>
 
-  <!-- named avoided grief -->
-  <path d="M232 308 L240 300 M232 316 L242 312" stroke="#8fbdf0" stroke-width="1" opacity=".5" fill="none"/>
+  <!-- Named avoided grief -->
+  <path d="M276 300 Q300 296 312 302" fill="none" stroke="#8fbdf0" stroke-width="1.2" opacity=".5"/>
+  <circle cx="276" cy="300" r="3" fill="#cfe8ff" opacity=".7"/>
 
   <rect width="400" height="400" fill="url(#edVign)"/>
 </svg>

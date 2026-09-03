@@ -59,13 +59,14 @@
   <path d="M152 76 L264 76 L258 96 L158 96 Z" fill="url(#dlFrame)" stroke="#4a555c" stroke-width="1.4"/>
   <circle cx="200" cy="76" r="4.4" fill="#7d8b93"/>
 
-  <!-- HANDLE: clear wrapped grip + pommel projecting from bracket -->
-  <g transform="rotate(12 292 268)">
-    <rect x="284" y="250" width="16" height="68" rx="8" fill="url(#dlGrip)" stroke="#4a555c" stroke-width="1.4"/>
-    <path d="M284 258 L300 266 M284 268 L300 276 M284 278 L300 286 M284 288 L300 296 M284 298 L300 306" stroke="#2c3338" stroke-width="1.4" opacity=".7"/>
-    <path d="M284 250 L300 250 M284 318 L300 318" stroke="#8a979e" stroke-width="1.2"/>
-    <circle cx="292" cy="328" r="7" fill="url(#dlFrame)" stroke="#4a555c" stroke-width="1.4"/>
-    <circle cx="292" cy="328" r="3" fill="#8a979e"/>
+  <!-- HANDLE: grip joined to the bracket's lower-right corner by a short neck -->
+  <g transform="rotate(18 256 252)">
+    <path d="M236 250 L274 250 L272 258 L238 258 Z" fill="#4a555c" stroke="#8a9aa5" stroke-width="1"/>
+    <rect x="240" y="258" width="26" height="68" rx="8" fill="url(#dlGrip)" stroke="#8a9aa5" stroke-width="1.4"/>
+    <path d="M240 266 L266 276 M240 278 L266 288 M240 290 L266 300 M240 302 L266 312 M240 314 L266 324" stroke="#2c3338" stroke-width="1.4" opacity=".7"/>
+    <path d="M240 258 L266 258 M240 326 L266 326" stroke="#8a9aa5" stroke-width="1.2"/>
+    <circle cx="253" cy="338" r="8" fill="url(#dlFrame)" stroke="#4a555c" stroke-width="1.4"/>
+    <circle cx="253" cy="338" r="3.4" fill="#8a979e"/>
   </g>
 
   <!-- Read the Account -->

@@ -41,11 +41,13 @@
     <path d="M124 226 L312 226" stroke="#b2c4d1" stroke-width="1.2" opacity=".7"/>
   </g>
 
-  <!-- HANDLE: eyelet + small wooden grip at the tail -->
+  <!-- HANDLE: dark grip rail + eyelet at the tail (clear hand-hold) -->
   <g transform="rotate(-14 200 200)">
-    <circle cx="94" cy="192" r="9" fill="#48627f" stroke="#cfe0ea" stroke-width="1.6"/>
-    <circle cx="94" cy="192" r="4" fill="#ffffff"/>
-    <path d="M70 192 L84 192" stroke="#cfe0ea" stroke-width="2"/>
+    <rect x="92" y="180" width="22" height="24" rx="7" fill="#1a2a40" stroke="#cfe0ea" stroke-width="1.6"/>
+    <path d="M96 186 L108 186 M96 192 L108 192 M96 198 L108 198" stroke="#48627f" stroke-width="1.2" opacity=".8"/>
+    <circle cx="92" cy="192" r="9" fill="#48627f" stroke="#cfe0ea" stroke-width="1.6"/>
+    <circle cx="92" cy="192" r="4" fill="#ffffff"/>
+    <path d="M70 192 L82 192" stroke="#cfe0ea" stroke-width="2"/>
   </g>
 
   <!-- Fragmented face -->
