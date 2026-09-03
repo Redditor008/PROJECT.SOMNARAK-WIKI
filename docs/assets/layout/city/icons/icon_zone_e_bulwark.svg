@@ -1,10 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
-  <polygon points="60,4 114,24 114,84 60,116 6,84 6,24" fill="#1e0a36" stroke="#a855f7" stroke-width="3.2"/>
-  
-  <polygon points="60,22 92,40 92,76 60,94 28,76 28,40" fill="none" stroke="#a855f7" stroke-width="3"/>
-  <rect x="54" y="18" width="12" height="8" fill="#c084fc"/>
-  <rect x="88" y="52" width="8" height="12" fill="#c084fc"/>
-  <rect x="54" y="90" width="12" height="8" fill="#c084fc"/>
-  <rect x="24" y="52" width="8" height="12" fill="#c084fc"/>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Zone E — perimeter bulwark ring">
+  <rect width="120" height="120" rx="10" fill="#070410" stroke="#a855f7" stroke-width="2.5"/>
+  <polygon points="34.8,16.6 85.2,16.6 110.4,60 85.2,103.4 34.8,103.4 9.6,60" fill="#4c1d95" stroke="#a855f7" stroke-width="2.4"/>
+  <polygon points="36.7,19.6 83.3,19.6 106.2,60 83.3,100.4 36.7,100.4 13.8,60" fill="#0b0817" stroke="#c084fc" stroke-width="0.9" stroke-dasharray="3 2" opacity="1"/>
+  <polygon points="41.1,27.1 78.9,27.1 97.8,60 78.9,92.9 41.1,92.9 22.2,60" fill="#422806" stroke="#f59e0b" stroke-width="1.6" opacity="0.3"/>
+  <polygon points="31.9,42.9 22.2,60 31.9,77.1 60,74.7 45.3,60 60,45.3" fill="#052e1f" stroke="#10b981" stroke-width="1.6" opacity="0.3"/>
+  <polygon points="68.4,30.6 92.6,60 68.4,89.4 60,74.7 74.7,60 60,45.3" fill="#0c2a4d" stroke="#3b82f6" stroke-width="1.6" opacity="0.3"/>
+  <path transform="translate(39,60)" d="M -6.3 -4.2 Q 0 -6.3 6.3 -4.2 Q 8.4 0 5.25 4.2 Q -1.05 6.3 -6.3 3.15 Z" fill="#022c22" stroke="#34d399" stroke-width="1" opacity="0.35"/>
+  <polygon points="60,45.3 74.7,60 60,74.7 45.3,60" fill="#450a0a" stroke="#ef4444" stroke-width="1.6" opacity="0.3"/>
+  <polygon points="60,50.4 69.6,60 60,69.6 50.4,60" fill="#1c0505" stroke="#f87171" stroke-width="0.9" opacity="0.35"/>
+  <circle cx="60" cy="60" r="2.4" fill="#ffffff"/>
+  <circle cx="60" cy="60" r="4.6" fill="none" stroke="#ef4444" stroke-width="0.9" opacity="0.8"/>
+  <polygon points="60,13.6 62.6,16.6 60,19.6 57.4,16.6" fill="#f1df76"/>
+  <polygon points="6.6,60 9.6,57.4 12.6,60 9.6,62.6" fill="#f1df76"/>
+  <polygon points="107.4,60 110.4,57.4 113.4,60 110.4,62.6" fill="#f1df76"/>
 </svg>
