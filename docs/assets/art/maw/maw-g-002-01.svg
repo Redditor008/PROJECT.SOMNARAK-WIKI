@@ -1,93 +1,85 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MOURNING SHELL">
   <defs>
-    <radialGradient id="shellBg" cx=".42" cy=".35" r=".68">
+    <linearGradient id="msBg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#1a1a1f"/>
       <stop offset="1" stop-color="#050506"/>
-    </radialGradient>
-    <linearGradient id="shellSteel" x1="0" y1="0" x2="1" y2="1">
+    </linearGradient>
+    <linearGradient id="msFan" x1="0" y1="1" x2="0" y2="0">
       <stop offset="0" stop-color="#34343c"/>
-      <stop offset=".5" stop-color="#17171a"/>
-      <stop offset="1" stop-color="#0d0d0f"/>
+      <stop offset=".6" stop-color="#17171a"/>
+      <stop offset="1" stop-color="#0c0c0e"/>
     </linearGradient>
-    <linearGradient id="shellInner" x1="0" y1="0" x2="0" y2="1">
+    <radialGradient id="msInner" cx=".5" cy=".62" r=".6">
       <stop offset="0" stop-color="#3a3a42"/>
-      <stop offset="1" stop-color="#202026"/>
-    </linearGradient>
-    <filter id="shellGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <stop offset="1" stop-color="#15151a"/>
+    </radialGradient>
+    <filter id="msGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2"/>
     </filter>
   </defs>
 
-  <rect width="400" height="400" fill="url(#shellBg)"/>
+  <rect width="400" height="400" fill="url(#msBg)"/>
 
-  <!-- Rain across the whole scene -->
-  <g stroke="#6b6b76" stroke-width=".7" opacity=".35">
-    <line x1="88" y1="70" x2="78" y2="120"/>
-    <line x1="150" y1="54" x2="140" y2="106"/>
-    <line x1="220" y1="58" x2="210" y2="112"/>
-    <line x1="292" y1="66" x2="282" y2="118"/>
-    <line x1="120" y1="116" x2="110" y2="168"/>
-    <line x1="250" y1="110" x2="240" y2="160"/>
-    <line x1="330" y1="84" x2="320" y2="134"/>
-    <line x1="70" y1="150" x2="60" y2="200"/>
-    <line x1="316" y1="150" x2="306" y2="200"/>
+  <!-- Head worn on a brow band -->
+  <path d="M118 236 Q200 210 282 236 L282 260 Q200 282 118 260 Z" fill="#0d0d0f" stroke="#34343c" stroke-width="1.4"/>
+  <path d="M118 236 L118 260 M282 236 L282 260" stroke="#565660" stroke-width="1.2" opacity=".6"/>
+
+  <!-- Scallop shell as a wide low fan -->
+  <path d="M200 96 Q158 100 128 146 Q120 164 122 190 L146 206 Q172 188 200 192 Q228 188 254 206 L278 190 Q280 164 272 146 Q242 100 200 96 Z"
+        fill="url(#msFan)" stroke="#565660" stroke-width="2.4"/>
+  <path d="M200 96 Q158 100 128 146 Q120 164 122 190" fill="none" stroke="#8a8f98" stroke-width="1.4" opacity=".6"/>
+  <path d="M200 96 Q242 100 272 146 Q280 164 278 190" fill="none" stroke="#8a8f98" stroke-width="1.4" opacity=".6"/>
+
+  <!-- Radiating shell ridges toward a hinge knot -->
+  <g stroke="#3f3f47" stroke-width="1.4" opacity=".7" fill="none">
+    <path d="M200 104 L150 196"/>
+    <path d="M200 104 L128 174"/>
+    <path d="M200 104 L118 150"/>
+    <path d="M200 104 L186 200"/>
+    <path d="M200 104 L200 206"/>
+    <path d="M200 104 L214 200"/>
+    <path d="M200 104 L250 196"/>
+    <path d="M200 104 L272 174"/>
+    <path d="M200 104 L282 150"/>
+  </g>
+  <circle cx="200" cy="98" r="8" fill="#101014" stroke="#565660" stroke-width="1.2"/>
+
+  <!-- Inner opening: workers carrying beams, tools, and each other through rain -->
+  <path d="M166 168 Q200 158 234 168 Q242 190 238 208 Q200 220 162 208 Q158 190 166 168 Z"
+        fill="url(#msInner)" stroke="#17171a" stroke-width="2"/>
+  <!-- beam -->
+  <rect x="166" y="172" width="68" height="5" rx="2" fill="#565660" opacity=".85"/>
+  <!-- left bearer -->
+  <g stroke="#8a8f98" stroke-width="1.4" fill="none">
+    <path d="M176 194 L178 214 M176 214 Q178 190 180 214"/>
+    <circle cx="178" cy="186" r="5" fill="#15151a"/>
+    <path d="M178 214 L172 228 M178 214 L184 228"/>
+  </g>
+  <!-- right bearer -->
+  <g stroke="#8a8f98" stroke-width="1.4" fill="none">
+    <path d="M224 194 L222 214 M224 214 Q222 190 220 214"/>
+    <circle cx="222" cy="186" r="5" fill="#15151a"/>
+    <path d="M222 214 L216 228 M222 214 L228 228"/>
+  </g>
+  <!-- carried companion in the middle -->
+  <path d="M192 216 L200 208 L208 216 L206 224 L194 224 Z" fill="#0c0c0e" stroke="#8a8f98" stroke-width="1"/>
+
+  <!-- Rain over the shell -->
+  <g stroke="#565660" stroke-width=".9" opacity=".65">
+    <line x1="156" y1="140" x2="150" y2="168"/>
+    <line x1="182" y1="132" x2="178" y2="160"/>
+    <line x1="218" y1="132" x2="222" y2="160"/>
+    <line x1="244" y1="140" x2="250" y2="168"/>
+    <line x1="170" y1="180" x2="166" y2="204"/>
+    <line x1="230" y1="180" x2="234" y2="204"/>
   </g>
 
-  <!-- Shell-shaped black Han-steel charm -->
-  <path d="M200 64 Q142 92 128 168 Q120 232 166 286 Q186 306 200 314 Q214 306 234 286 Q280 232 272 168 Q258 92 200 64 Z"
-        fill="url(#shellSteel)" stroke="#565660" stroke-width="3"/>
-
-  <!-- Ridge lines across the shell -->
-  <g fill="none" stroke="#565660" stroke-width="1.2" opacity=".65">
-    <path d="M200 70 Q178 150 188 252"/>
-    <path d="M200 70 Q224 150 212 252"/>
-    <path d="M200 70 Q158 132 168 238"/>
-    <path d="M200 70 Q242 132 232 238"/>
-    <path d="M200 86 Q140 152 154 240"/>
-    <path d="M200 86 Q260 152 246 240"/>
+  <!-- Route report under the shell -->
+  <path d="M200 226 L200 254" stroke="#565660" stroke-width="1.6"/>
+  <rect x="166" y="254" width="68" height="26" rx="3" fill="#0d0d0f" stroke="#3a3a40" stroke-width="1.2"/>
+  <g stroke="#8a8f98" stroke-width="1" opacity=".6">
+    <line x1="176" y1="262" x2="224" y2="262"/>
+    <line x1="176" y1="270" x2="208" y2="270"/>
   </g>
-
-  <!-- Inner opening showing moving worker silhouettes -->
-  <path d="M166 112 Q200 94 234 112 Q254 172 232 238 Q200 258 168 238 Q146 172 166 112 Z"
-        fill="url(#shellInner)" stroke="#17171a" stroke-width="3"/>
-  <path d="M166 112 Q200 94 234 112 Q254 172 232 238 Q200 258 168 238 Q146 172 166 112 Z"
-        fill="none" stroke="#565660" stroke-width="1" opacity=".5"/>
-
-  <!-- Workers carrying beams, tools, and each other through rain -->
-  <g fill="#0d0d0f" stroke="#15151a" stroke-width="1">
-    <path d="M176 178 L182 214 M176 214 Q182 186 188 214" fill="none" stroke="#8a8f98" stroke-width="1.4"/>
-    <rect x="172" y="160" width="28" height="5" rx="2" fill="#565660" opacity=".85"/>
-    <circle cx="182" cy="196" r="5" fill="#15151a"/>
-    <path d="M182 202 L182 226 M182 226 L176 242 M182 226 L188 242"/>
-    <path d="M182 226 L176 240 M182 226 L188 240" stroke="#565660" stroke-width="1.2" fill="none"/>
-
-    <path d="M210 190 L208 224" stroke="#8a8f98" stroke-width="2"/>
-    <circle cx="208" cy="210" r="5" fill="#15151a"/>
-    <path d="M208 216 L208 242 L202 256 M208 242 L214 256" stroke="#565660" stroke-width="1.4" fill="none"/>
-    <path d="M198 206 L198 226" stroke="#8a8f98" stroke-width="1.5"/>
-    <path d="M200 242 L226 236" stroke="#565660" stroke-width="1.6"/>
-
-    <path d="M184 258 L190 240 L206 240 L214 258 Z" fill="#0c0c0e" stroke="#8a8f98" stroke-width="1"/>
-    <circle cx="197" cy="238" r="4" fill="#15151a"/>
-  </g>
-
-  <!-- Rain over the inner silhouettes -->
-  <g stroke="#6b6b76" stroke-width=".8" opacity=".6">
-    <line x1="174" y1="118" x2="170" y2="142"/>
-    <line x1="196" y1="110" x2="192" y2="136"/>
-    <line x1="216" y1="118" x2="212" y2="142"/>
-    <line x1="182" y1="146" x2="178" y2="168"/>
-    <line x1="204" y1="146" x2="200" y2="168"/>
-    <line x1="224" y1="150" x2="220" y2="172"/>
-  </g>
-
-  <!-- Route report display below the shell -->
-  <path d="M200 314 L200 340" stroke="#565660" stroke-width="2"/>
-  <rect x="164" y="340" width="72" height="34" rx="4" fill="#0d0d0f" stroke="#3a3a40" stroke-width="1.4"/>
-  <g stroke="#8a8f98" stroke-width="1" opacity=".65">
-    <line x1="174" y1="350" x2="226" y2="350"/>
-    <line x1="174" y1="358" x2="210" y2="358"/>
-    <line x1="174" y1="366" x2="222" y2="366"/>
-  </g>
-  <circle cx="236" cy="340" r="4" fill="#c9a86a" opacity=".8" filter="url(#shellGlow)"/>
+  <circle cx="242" cy="254" r="4" fill="#c9a86a" opacity=".8" filter="url(#msGlow)"/>
 </svg>

@@ -1,78 +1,83 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MOURNING MANTLE">
   <defs>
-    <radialGradient id="mantBg" cx=".5" cy=".35" r=".75">
+    <linearGradient id="mmS_Bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#17171a"/>
       <stop offset="1" stop-color="#050506"/>
-    </radialGradient>
-    <linearGradient id="mantCloth" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#232329"/>
-      <stop offset=".5" stop-color="#121216"/>
-      <stop offset="1" stop-color="#0a0a0c"/>
     </linearGradient>
-    <linearGradient id="mantThread" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#34343c"/>
-      <stop offset=".5" stop-color="#5c5c66"/>
-      <stop offset="1" stop-color="#24242a"/>
+    <linearGradient id="mmS_Cloth" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f2f36"/>
+      <stop offset=".45" stop-color="#19191e"/>
+      <stop offset="1" stop-color="#0b0b0e"/>
     </linearGradient>
-    <filter id="mantDust" x="-50%" y="-50%" width="200%" height="200%">
+    <linearGradient id="mmS_Thread" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3c3c44"/>
+      <stop offset=".5" stop-color="#6b6b76"/>
+      <stop offset="1" stop-color="#27272d"/>
+    </linearGradient>
+    <filter id="mmS_Dust" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2"/>
     </filter>
   </defs>
 
-  <rect width="400" height="400" fill="url(#mantBg)"/>
+  <rect width="400" height="400" fill="url(#mmS_Bg)"/>
 
-  <!-- Draped mantle body -->
-  <path d="M104 60 Q200 34 296 60 L310 250 Q200 312 90 250 Z"
-        fill="url(#mantCloth)" stroke="#3a3a40" stroke-width="2"/>
-  <path d="M126 74 Q138 158 118 246 L144 236 L152 96 Z" fill="#17171a" stroke="#2f2f35" stroke-width="1"/>
-  <path d="M274 74 Q262 158 282 246 L256 236 L248 96 Z" fill="#17171a" stroke="#2f2f35" stroke-width="1"/>
+  <!-- Ground: procession line -->
+  <path d="M32 352 L368 352" stroke="#45454d" stroke-width="1" opacity=".4"/>
+  <path d="M90 352 L118 352 M282 352 L310 352" stroke="#c9a86a" stroke-width="1.4" opacity=".6"/>
+  <path d="M90 346 L106 352 L90 358 Z M310 346 L294 352 L310 358 Z" fill="#c9a86a" opacity=".45"/>
 
-  <!-- Collar -->
-  <path d="M156 70 Q200 58 244 70 L248 96 Q200 112 152 96 Z" fill="#0d0d0f" stroke="#34343c" stroke-width="1.4"/>
+  <!-- Long funeral coat: high collar, fitted waist, flared open skirt -->
+  <path d="M148 74 Q200 56 252 74 L266 116 Q246 134 244 158 L262 300 Q228 336 236 356 L222 356 L216 304 L210 356 L190 356 L187 300 L178 356 L164 356 L172 306 Q152 326 156 300 L158 158 Q156 132 134 114 Z"
+        fill="url(#mmS_Cloth)" stroke="#3a3a40" stroke-width="2"/>
+  <!-- Flared epaulettes -->
+  <path d="M140 78 Q136 52 170 64 L158 86 Z" fill="#1d1d22" stroke="#3a3a40" stroke-width="1.2"/>
+  <path d="M260 78 Q264 52 230 64 L242 86 Z" fill="#1d1d22" stroke="#3a3a40" stroke-width="1.2"/>
 
-  <!-- Han threads that hang like wet fabric -->
-  <g stroke="url(#mantThread)" stroke-width="1.4" opacity=".8">
-    <path d="M120 100 Q112 166 130 270"/>
-    <path d="M144 92 Q136 176 150 278"/>
-    <path d="M168 86 Q164 184 172 290"/>
-    <path d="M232 86 Q236 184 228 290"/>
-    <path d="M256 92 Q264 176 250 278"/>
-    <path d="M280 100 Q288 166 270 270"/>
+  <!-- Open front shows a memorial route card inside -->
+  <path d="M170 104 L230 104 L222 300 L180 300 Z" fill="#0c0c0f" stroke="#2c2c32" stroke-width="1"/>
+  <g stroke="#8a8f98" stroke-width="1" opacity=".45">
+    <line x1="180" y1="128" x2="220" y2="128"/>
+    <line x1="180" y1="146" x2="208" y2="146"/>
+    <line x1="180" y1="164" x2="216" y2="164"/>
+    <line x1="180" y1="214" x2="222" y2="214"/>
+    <line x1="180" y1="232" x2="210" y2="232"/>
   </g>
-  <g stroke="#565660" stroke-width=".8" opacity=".5">
-    <path d="M126 120 Q120 190 136 260"/>
-    <path d="M156 104 Q152 196 160 282"/>
-    <path d="M244 104 Q248 196 240 282"/>
-    <path d="M274 120 Q280 190 264 260"/>
-  </g>
+  <path d="M184 200 L196 208 L216 200" fill="none" stroke="#c9a86a" stroke-width="1.2" opacity=".6"/>
 
-  <!-- Wet hanging droop at the hem -->
-  <g fill="#0d0d0f" stroke="#3a3a40" stroke-width="1" opacity=".9">
-    <path d="M92 250 Q110 292 126 262 Q132 296 150 266 Q156 300 172 268 Q178 300 194 268 Q200 304 214 268 Q222 298 238 268 Q246 300 260 266 Q270 294 282 262 Q296 286 308 250 L310 250 Q200 312 90 250 Z"/>
-  </g>
+  <!-- Collar and tie -->
+  <path d="M162 80 Q200 66 238 80 L244 100 Q200 114 156 100 Z" fill="#141419" stroke="#34343c" stroke-width="1.4"/>
+  <path d="M196 104 L200 126 L204 104" fill="#0a0a0c" stroke="#565660" stroke-width="1"/>
+  <circle cx="200" cy="102" r="4" fill="#565660"/>
 
-  <!-- Grey dust gathering after every procession -->
-  <g fill="#8a8f98" filter="url(#mantDust)">
-    <circle cx="112" cy="266" r="1.4" opacity=".55"/>
-    <circle cx="146" cy="282" r="1.8" opacity=".5"/>
-    <circle cx="184" cy="292" r="1.4" opacity=".5"/>
-    <circle cx="222" cy="290" r="2" opacity=".45"/>
-    <circle cx="258" cy="280" r="1.5" opacity=".5"/>
-    <circle cx="292" cy="264" r="1.3" opacity=".55"/>
-    <circle cx="138" cy="272" r="1" opacity=".4"/>
-    <circle cx="204" cy="296" r="1.2" opacity=".4"/>
+  <!-- Wet Han threads hanging in long curtains -->
+  <g stroke="url(#mmS_Thread)" stroke-width="1.6" opacity=".85">
+    <path d="M150 92 Q142 180 150 308"/>
+    <path d="M166 88 Q158 190 164 326"/>
+    <path d="M180 92 Q176 200 180 340"/>
+    <path d="M220 92 Q224 200 220 340"/>
+    <path d="M234 88 Q242 190 236 326"/>
+    <path d="M250 92 Q258 180 250 308"/>
   </g>
-  <g fill="#b8bdc4" opacity=".25">
-    <circle cx="162" cy="288" r=".8"/>
-    <circle cx="238" cy="286" r=".8"/>
-    <circle cx="278" cy="268" r=".7"/>
+  <g stroke="#565660" stroke-width=".9" opacity=".5">
+    <path d="M156 106 Q148 190 156 312"/>
+    <path d="M188 98 Q186 208 188 336"/>
+    <path d="M212 98 Q214 208 212 336"/>
+    <path d="M244 106 Q252 190 244 312"/>
   </g>
 
-  <!-- One approved route continues forward -->
-  <path d="M40 306 L360 306" stroke="#565660" stroke-width="1.2" opacity=".35"/>
-  <g stroke="#c9a86a" stroke-width="1.4" opacity=".7" fill="none">
-    <path d="M72 306 h28"/>
-    <path d="M300 306 h28"/>
+  <!-- Split hem hanging into wet folds -->
+  <g fill="#0d0d10" stroke="#3a3a40" stroke-width="1">
+    <path d="M156 300 Q164 330 174 306 Q180 342 190 308 Q196 346 200 310 Q208 344 212 306 Q222 340 228 304 L236 356 L164 356 Z"/>
   </g>
-  <path d="M72 300 L96 312 L72 318 Z" fill="#c9a86a" opacity=".55"/>
+
+  <!-- Grey dust after every procession -->
+  <g fill="#9aa0aa" filter="url(#mmS_Dust)">
+    <circle cx="150" cy="340" r="1.6" opacity=".6"/>
+    <circle cx="176" cy="344" r="2" opacity=".5"/>
+    <circle cx="204" cy="346" r="1.8" opacity=".5"/>
+    <circle cx="230" cy="342" r="1.5" opacity=".6"/>
+    <circle cx="252" cy="336" r="1.3" opacity=".6"/>
+    <circle cx="190" cy="350" r="1.2" opacity=".45"/>
+    <circle cx="218" cy="350" r="1.1" opacity=".45"/>
+  </g>
 </svg>

@@ -1,69 +1,72 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE HOPE LANTERN">
   <defs>
-    <radialGradient id="lampBg" cx=".5" cy=".38" r=".72">
-      <stop offset="0" stop-color="#b9c7d0"/>
+    <linearGradient id="hlBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9aa8b2"/>
       <stop offset="1" stop-color="#3c454b"/>
-    </radialGradient>
-    <linearGradient id="lampGlass" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#f2f6f8" stop-opacity=".9"/>
-      <stop offset=".55" stop-color="#d3dde3" stop-opacity=".75"/>
-      <stop offset="1" stop-color="#8a9aa5" stop-opacity=".85"/>
     </linearGradient>
-    <linearGradient id="lampMetal" x1="0" y1="0" x2="0" y2="1">
+    <radialGradient id="hlGlass" cx=".5" cy=".5" r=".6">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".95"/>
+      <stop offset=".6" stop-color="#cfe0ea" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#8a9aa5" stop-opacity=".7"/>
+    </radialGradient>
+    <linearGradient id="hlMetal" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#58636b"/>
       <stop offset="1" stop-color="#2a3338"/>
     </linearGradient>
-    <radialGradient id="lampFlame" cx=".5" cy=".45" r=".6">
-      <stop offset="0" stop-color="#ffffff" stop-opacity=".98"/>
-      <stop offset=".6" stop-color="#cfe0ea" stop-opacity=".6"/>
-      <stop offset="1" stop-color="#cfe0ea" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="lampGlow" x="-60%" y="-60%" width="220%" height="220%">
+    <filter id="hlGlow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="4"/>
     </filter>
   </defs>
 
-  <rect width="400" height="400" fill="url(#lampBg)"/>
+  <rect width="400" height="400" fill="url(#hlBg)"/>
 
-  <!-- Hand holding the miniature lantern -->
-  <path d="M124 236 Q150 214 190 228 L246 224 Q276 238 268 268 L136 278 Z"
-        fill="#4a555c" stroke="#6b767e" stroke-width="1.6" opacity=".85"/>
-  <path d="M124 236 Q116 256 136 278" fill="none" stroke="#6b767e" stroke-width="1.2" opacity=".6"/>
-  <path d="M240 226 Q258 236 254 256" fill="none" stroke="#6b767e" stroke-width="1.2" opacity=".6"/>
+  <!-- Cord -->
+  <path d="M200 34 L200 84" stroke="#58636b" stroke-width="2"/>
+  <circle cx="200" cy="32" r="5" fill="url(#hlMetal)"/>
 
-  <!-- Thumb-sized pale-glass lantern -->
-  <path d="M178 96 L222 96 L226 204 Q200 224 174 204 Z" fill="url(#lampGlass)" stroke="#8a9aa5" stroke-width="2.4"/>
-  <path d="M172 110 L228 110 L230 126 L170 126 Z" fill="url(#lampMetal)" stroke="#2a3338" stroke-width="1.4"/>
-  <rect x="182" y="92" width="36" height="6" rx="3" fill="url(#lampMetal)"/>
-  <path d="M200 74 L200 92" stroke="#58636b" stroke-width="2"/>
-  <circle cx="200" cy="72" r="5" fill="url(#lampMetal)"/>
+  <!-- Holder hand from below -->
+  <path d="M130 342 Q160 322 196 330 L220 328 Q236 338 232 354 L136 360 Z"
+        fill="#4a555c" stroke="#6b767e" stroke-width="1.4" opacity=".9"/>
+  <path d="M136 352 Q166 344 196 350" fill="none" stroke="#6b767e" stroke-width="1" opacity=".6"/>
 
-  <!-- Glass panel ribs -->
-  <path d="M184 118 L192 96" stroke="#8a9aa5" stroke-width="1" opacity=".6"/>
-  <path d="M216 118 L208 96" stroke="#8a9aa5" stroke-width="1" opacity=".6"/>
-  <path d="M183 126 L192 110 M216 126 L208 110" stroke="#8a9aa5" stroke-width=".8" opacity=".45"/>
-  <path d="M180 166 Q200 186 220 166" fill="none" stroke="#8a9aa5" stroke-width=".8" opacity=".5"/>
-  <path d="M200 224 L200 254" stroke="#58636b" stroke-width="2.4"/>
+  <!-- Caged lantern -->
+  <path d="M176 86 L224 86 L230 172 Q200 190 170 172 Z" fill="url(#hlGlass)" stroke="#8a9aa5" stroke-width="2"/>
+  <!-- dome -->
+  <path d="M168 96 L232 96 L226 78 L174 78 Z" fill="url(#hlMetal)" stroke="#2a3338" stroke-width="1.4"/>
+  <rect x="176" y="74" width="48" height="4" rx="2" fill="url(#hlMetal)"/>
+  <path d="M200 62 L200 74" stroke="#58636b" stroke-width="2"/>
 
-  <!-- White flame with no visible fuel -->
-  <g filter="url(#lampGlow)">
-    <ellipse cx="200" cy="150" rx="22" ry="32" fill="url(#lampFlame)" opacity=".9"/>
+  <!-- Vertical cage bars -->
+  <g stroke="#58636b" stroke-width="2" opacity=".85">
+    <line x1="184" y1="86" x2="184" y2="170"/>
+    <line x1="200" y1="86" x2="200" y2="176"/>
+    <line x1="216" y1="86" x2="216" y2="170"/>
   </g>
-  <path d="M200 128 Q190 150 200 176 Q210 150 200 128 Z" fill="#ffffff" opacity=".95"/>
-  <path d="M200 142 Q195 152 200 164 Q205 152 200 142 Z" fill="#f2f6f8" opacity=".8"/>
+  <path d="M176 118 L224 118 M172 150 L228 150" stroke="#58636b" stroke-width="1.6" opacity=".75"/>
 
-  <!-- Forward ray, only where forward is answerable -->
-  <g stroke="#ffffff" opacity=".6" filter="url(#lampGlow)">
-    <line x1="226" y1="160" x2="332" y2="136"/>
+  <!-- White flame, no visible fuel -->
+  <g filter="url(#hlGlow)">
+    <ellipse cx="200" cy="124" rx="18" ry="28" fill="#ffffff" opacity=".9"/>
   </g>
-  <path d="M322 128 L344 134 L324 146 Z" fill="#ffffff" opacity=".8"/>
+  <path d="M200 104 Q190 124 200 148 Q210 124 200 104 Z" fill="#ffffff" opacity=".95"/>
+  <path d="M200 118 Q195 128 200 138 Q205 128 200 118 Z" fill="#f2f6f8" opacity=".8"/>
 
-  <!-- The next-person handprint that the light actually showed -->
-  <g fill="none" stroke="#58636b" stroke-width="1.6" opacity=".6">
-    <ellipse cx="298" cy="270" rx="18" ry="24"/>
-    <path d="M283 260 L283 292 L292 292 L292 258 Z"/>
-    <path d="M312 260 L312 292 L303 292 L303 258 Z"/>
-    <path d="M281 262 Q270 250 276 240" stroke-width="1.2"/>
-    <path d="M314 262 Q325 250 319 240" stroke-width="1.2"/>
+  <!-- Forward beam to next anchor -->
+  <g stroke="#ffffff" opacity=".7" filter="url(#hlGlow)">
+    <line x1="228" y1="128" x2="340" y2="104"/>
   </g>
+  <path d="M322 102 L348 100 L330 118 Z" fill="#ffffff" opacity=".85"/>
+
+  <!-- Next reachable anchor: the handprint on stone -->
+  <g fill="none" stroke="#58636b" stroke-width="1.6" opacity=".7">
+    <ellipse cx="304" cy="268" rx="20" ry="28"/>
+    <path d="M288 256 L288 292 L297 292 L297 254 Z"/>
+    <path d="M320 256 L320 292 L311 292 L311 254 Z"/>
+    <path d="M286 260 Q274 248 280 238" stroke-width="1.2"/>
+    <path d="M322 260 Q334 248 328 238" stroke-width="1.2"/>
+  </g>
+
+  <!-- It does not promise home; it shows the next person -->
+  <path d="M304 308 Q304 328 298 340 M304 308 Q304 328 310 340" fill="none" stroke="#58636b" stroke-width="1.2" opacity=".5"/>
+  <circle cx="304" cy="344" r="4" fill="#58636b" opacity=".7"/>
 </svg>

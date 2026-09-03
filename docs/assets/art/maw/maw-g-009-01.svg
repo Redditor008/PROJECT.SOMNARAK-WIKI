@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FORGOTTEN MASK">
   <defs>
-    <radialGradient id="fmBg" cx=".42" cy=".38" r=".72">
+    <radialGradient id="fmBg" cx=".44" cy=".4" r=".74">
       <stop offset="0" stop-color="#dbe4e9"/>
       <stop offset="1" stop-color="#424b52"/>
     </radialGradient>
     <linearGradient id="fmGlass" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#ffffff" stop-opacity=".92"/>
-      <stop offset=".55" stop-color="#dbe4e9" stop-opacity=".78"/>
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".94"/>
+      <stop offset=".55" stop-color="#dbe4e9" stop-opacity=".8"/>
       <stop offset="1" stop-color="#9aabb5" stop-opacity=".88"/>
     </linearGradient>
-    <radialGradient id="fmReflect" cx=".5" cy=".42" r=".6">
+    <radialGradient id="fmPool" cx=".5" cy=".5" r=".62">
       <stop offset="0" stop-color="#ffffff" stop-opacity=".9"/>
-      <stop offset="1" stop-color="#8a9aa5" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#8a9aa5" stop-opacity=".3"/>
     </radialGradient>
     <filter id="fmGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="3"/>
@@ -20,69 +20,64 @@
 
   <rect width="400" height="400" fill="url(#fmBg)"/>
 
-  <!-- Small pale-glass mask -->
-  <g transform="rotate(-4 200 166)">
-    <path d="M136 128 Q164 88 200 84 Q236 88 264 128 Q282 168 268 200 Q250 232 224 242 Q200 250 176 242 Q150 232 132 200 Q118 168 136 128 Z"
-          fill="url(#fmGlass)" stroke="#9aabb5" stroke-width="2.2"/>
-    <path d="M136 128 Q164 88 200 84 Q236 88 264 128" fill="none" stroke="#ffffff" stroke-width="1.2" opacity=".7"/>
+  <!-- Hanging cords from the brow -->
+  <path d="M160 82 L124 60 M240 82 L276 60" stroke="#68737b" stroke-width="1.6"/>
+  <circle cx="124" cy="58" r="4" fill="#68737b" opacity=".7"/>
+  <circle cx="276" cy="58" r="4" fill="#68737b" opacity=".7"/>
+
+  <!-- Large pale-glass mask, tilted toward the viewer -->
+  <g transform="rotate(-5 200 174)">
+    <path d="M132 132 Q158 78 200 72 Q242 78 268 132 Q288 170 274 204 Q252 240 224 250 Q200 258 176 250 Q148 240 126 204 Q112 170 132 132 Z"
+          fill="url(#fmGlass)" stroke="#8a9aa5" stroke-width="2.2"/>
+    <path d="M132 132 Q158 78 200 72 Q242 78 268 132" fill="none" stroke="#ffffff" stroke-width="1.2" opacity=".7"/>
 
     <!-- Two shallow eyes -->
-    <path d="M160 150 Q168 142 178 150 Q170 158 160 150 Z" fill="#4a555c" opacity=".85"/>
-    <path d="M222 150 Q232 142 240 150 Q232 158 222 150 Z" fill="#4a555c" opacity=".85"/>
-    <path d="M166 148 Q169 145 172 148" stroke="#ffffff" stroke-width=".7" opacity=".5"/>
-    <path d="M228 148 Q231 145 234 148" stroke="#ffffff" stroke-width=".7" opacity=".5"/>
+    <path d="M154 154 Q165 144 178 154 Q168 162 154 154 Z" fill="#4a555c" opacity=".85"/>
+    <path d="M222 154 Q235 144 246 154 Q236 162 222 154 Z" fill="#4a555c" opacity=".85"/>
+    <circle cx="166" cy="154" r="2" fill="#ffffff" opacity=".5"/>
+    <circle cx="234" cy="154" r="2" fill="#ffffff" opacity=".5"/>
 
-    <!-- No other features -->
-    <path d="M194 188 Q200 192 206 188" fill="none" stroke="#9aabb5" stroke-width=".8" opacity=".35"/>
+    <!-- no other features -->
+    <path d="M192 200 Q200 205 208 200" fill="none" stroke="#9aabb5" stroke-width=".8" opacity=".35"/>
   </g>
 
-  <!-- Reflection of the last person who sincerely remembered the bearer -->
-  <g opacity=".8">
-    <path d="M152 248 Q194 214 248 248" fill="none" stroke="#5c676e" stroke-width="1.2"/>
-    <circle cx="200" cy="250" r="26" fill="url(#fmReflect)"/>
-    <path d="M186 244 Q200 238 214 244" fill="none" stroke="#5c676e" stroke-width="1"/>
-    <path d="M193 262 Q200 268 207 262" fill="none" stroke="#5c676e" stroke-width="1"/>
-    <path d="M200 250 L200 272" stroke="#5c676e" stroke-width=".8" opacity=".5"/>
-  </g>
-  <circle cx="200" cy="216" r="3" fill="#ffffff" opacity=".8" filter="url(#fmGlow)"/>
-
-  <!-- Memory hooks being severed / falling away -->
+  <!-- Hooks severed from the sides -->
   <g stroke="#68737b" stroke-width="1.2" opacity=".5" fill="none">
-    <path d="M100 170 L138 178"/>
-    <path d="M300 170 L262 178"/>
-    <path d="M96 216 L136 208"/>
-    <path d="M304 216 L264 208"/>
+    <path d="M112 148 L92 142 M292 148 L312 142"/>
+    <path d="M108 196 L88 204 M292 196 L312 204"/>
   </g>
   <g fill="#68737b" opacity=".4">
-    <circle cx="88" cy="170" r="3"/>
-    <circle cx="312" cy="170" r="3"/>
-    <circle cx="84" cy="218" r="3"/>
-    <circle cx="316" cy="218" r="3"/>
+    <circle cx="84" cy="142" r="3"/><circle cx="316" cy="142" r="3"/>
+    <circle cx="80" cy="206" r="3"/><circle cx="320" cy="206" r="3"/>
   </g>
 
-  <!-- The memories that feed the mask: smells, routes, casual names -->
+  <!-- Reflection pool: last person who sincerely remembered the bearer -->
+  <g filter="url(#fmGlow)">
+    <path d="M124 288 Q200 262 276 288 L276 314 Q200 340 124 314 Z" fill="url(#fmPool)" stroke="#ffffff" stroke-width=".8" opacity=".7"/>
+  </g>
+  <g opacity=".7">
+    <circle cx="200" cy="288" r="24" fill="url(#fmPool)"/>
+    <path d="M184 278 Q200 270 216 278" fill="none" stroke="#5c676e" stroke-width="1"/>
+    <path d="M192 294 Q200 300 208 294" fill="none" stroke="#5c676e" stroke-width="1"/>
+    <path d="M200 282 L200 304" stroke="#5c676e" stroke-width=".7" opacity=".5"/>
+  </g>
+  <circle cx="200" cy="226" r="3" fill="#ffffff" opacity=".85" filter="url(#fmGlow)"/>
+
+  <!-- The mask feeds on unrecorded memories: smells, routes, casual names -->
   <g fill="none" stroke="#5c676e" stroke-width="1" opacity=".45">
-    <path d="M118 300 q10 -12 22 0"/>
-    <path d="M142 316 q10 -12 22 0"/>
-    <path d="M166 330 q10 -12 22 0"/>
-    <path d="M210 330 q10 -12 22 0"/>
-    <path d="M234 316 q10 -12 22 0"/>
-    <path d="M258 300 q10 -12 22 0"/>
-  </g>
-  <g fill="#ffffff" opacity=".5" filter="url(#fmGlow)">
-    <circle cx="118" cy="302" r="1.6"/>
-    <circle cx="142" cy="318" r="1.6"/>
-    <circle cx="166" cy="332" r="1.6"/>
-    <circle cx="210" cy="332" r="1.6"/>
-    <circle cx="234" cy="318" r="1.6"/>
-    <circle cx="258" cy="302" r="1.6"/>
+    <path d="M116 352 q9 -10 18 0"/>
+    <path d="M138 360 q9 -10 18 0"/>
+    <path d="M160 366 q9 -10 18 0"/>
+    <path d="M226 366 q9 -10 18 0"/>
+    <path d="M248 360 q9 -10 18 0"/>
+    <path d="M270 352 q9 -10 18 0"/>
   </g>
 
-  <!-- Weekly written life log beneath -->
-  <rect x="152" y="344" width="96" height="36" rx="4" fill="#eef3f6" stroke="#9aabb5" stroke-width="1"/>
+  <!-- Weekly life log required -->
+  <rect x="148" y="340" width="104" height="34" rx="3" fill="#eef3f6" stroke="#9aabb5" stroke-width="1" opacity=".95"/>
   <g stroke="#68737b" stroke-width="1" opacity=".5">
-    <line x1="166" y1="354" x2="234" y2="354"/>
-    <line x1="166" y1="362" x2="220" y2="362"/>
-    <line x1="166" y1="370" x2="230" y2="370"/>
+    <line x1="162" y1="350" x2="238" y2="350"/>
+    <line x1="162" y1="358" x2="224" y2="358"/>
+    <line x1="162" y1="366" x2="230" y2="366"/>
   </g>
 </svg>

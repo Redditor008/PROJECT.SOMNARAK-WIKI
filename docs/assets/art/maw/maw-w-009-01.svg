@@ -1,81 +1,85 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FORGOTTEN LENS">
   <defs>
-    <radialGradient id="flBg" cx=".5" cy=".38" r=".72">
+    <radialGradient id="flBg" cx=".5" cy=".42" r=".76">
       <stop offset="0" stop-color="#eef3f6"/>
       <stop offset=".55" stop-color="#c1ccd3"/>
       <stop offset="1" stop-color="#5c676e"/>
     </radialGradient>
-    <radialGradient id="flGlass" cx=".44" cy=".36" r=".6">
-      <stop offset="0" stop-color="#ffffff" stop-opacity=".95"/>
-      <stop offset=".55" stop-color="#dbe4e9" stop-opacity=".8"/>
+    <linearGradient id="flBlade" x1="0" y1="0" x2="1" y2=".2">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".92"/>
+      <stop offset=".5" stop-color="#dbe4e9" stop-opacity=".82"/>
       <stop offset="1" stop-color="#9aabb5" stop-opacity=".9"/>
-    </radialGradient>
-    <linearGradient id="flEdge" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#b9c7d0"/>
     </linearGradient>
-    <linearGradient id="flGrip" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#8a9aa5"/>
-      <stop offset="1" stop-color="#3c454b"/>
+    <linearGradient id="flShine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#cfe0ea"/>
     </linearGradient>
     <filter id="flGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="4"/>
+      <feGaussianBlur stdDeviation="3"/>
     </filter>
   </defs>
 
   <rect width="400" height="400" fill="url(#flBg)"/>
 
-  <!-- Short grip -->
-  <rect x="192" y="252" width="16" height="82" rx="6" fill="url(#flGrip)" stroke="#3c454b" stroke-width="1.4"/>
-  <path d="M192 274 L208 274 M192 296 L208 296" stroke="#2a3338" stroke-width="1.2"/>
-  <circle cx="200" cy="326" r="4" fill="#68737b"/>
-
-  <!-- Lens-edged disc flattens into a thin plane -->
-  <circle cx="200" cy="172" r="90" fill="url(#flGlass)" stroke="#8a9aa5" stroke-width="2"/>
-  <circle cx="200" cy="172" r="78" fill="none" stroke="#eef3f6" stroke-width="1" opacity=".6"/>
-  <g filter="url(#flGlow)">
-    <path d="M112 132 Q200 96 288 132 Q298 172 288 212 Q200 248 112 212 Q102 172 112 132 Z"
-          fill="none" stroke="url(#flEdge)" stroke-width="5" opacity=".9"/>
+  <!-- Looms of the Memory Weaver behind -->
+  <g stroke="#8a9aa5" stroke-width="1" opacity=".4">
+    <path d="M40 54 Q200 30 360 54"/>
+    <path d="M40 86 Q200 62 360 86"/>
+    <path d="M40 118 Q200 94 360 118"/>
+  </g>
+  <g stroke="#8a9aa5" stroke-width=".8" opacity=".3">
+    <path d="M60 50 L60 330 M320 50 L320 330 M190 40 L190 330"/>
   </g>
 
-  <!-- A face begins to appear, then fragments -->
-  <g opacity=".75">
-    <ellipse cx="200" cy="170" rx="36" ry="46" fill="#eef3f6" stroke="#8a9aa5" stroke-width="1"/>
-    <path d="M182 158 Q184 146 194 146 Q196 156 190 162" fill="none" stroke="#8a9aa5" stroke-width="1.2"/>
-    <path d="M218 158 Q216 146 206 146 Q204 156 210 162" fill="none" stroke="#8a9aa5" stroke-width="1.2"/>
-    <path d="M196 184 Q200 190 204 184" fill="none" stroke="#8a9aa5" stroke-width="1.2"/>
-    <path d="M190 200 Q200 208 210 200" fill="none" stroke="#8a9aa5" stroke-width="1" opacity=".6"/>
+  <!-- Loom-shuttle lens blade, leaning up-left -->
+  <g transform="rotate(-14 200 200)">
+    <path d="M76 196 L124 168 L312 168 L360 196 L312 224 L124 224 Z"
+          fill="url(#flBlade)" stroke="#8a9aa5" stroke-width="2"/>
+    <path d="M76 196 L124 168 L312 168 L360 196 L312 224 L124 224 Z"
+          fill="none" stroke="url(#flShine)" stroke-width="1.4" opacity=".7"/>
+    <!-- Eyelet at the tail -->
+    <circle cx="98" cy="196" r="7" fill="#5c676e" opacity=".75"/>
+    <circle cx="98" cy="196" r="3.4" fill="#eef3f6"/>
+    <!-- Cutting plane lip -->
+    <path d="M124 168 L312 168" stroke="#ffffff" stroke-width="2.4"/>
+    <path d="M124 224 L312 224" stroke="#8a9aa5" stroke-width="1" opacity=".6"/>
   </g>
-  <g stroke="#7d8b93" stroke-width="1" opacity=".55">
-    <line x1="164" y1="150" x2="132" y2="128"/>
-    <line x1="236" y1="150" x2="268" y2="128"/>
-    <line x1="164" y1="200" x2="140" y2="220"/>
-    <line x1="236" y1="200" x2="260" y2="220"/>
+
+  <!-- Faces sometimes appear, never the expected one -->
+  <g opacity=".65">
+    <ellipse cx="214" cy="196" rx="24" ry="30" fill="#eef3f6" stroke="#8a9aa5" stroke-width="1"/>
+    <path d="M202 188 Q204 178 212 178 Q214 186 210 190" fill="none" stroke="#8a9aa5" stroke-width="1.1"/>
+    <path d="M226 188 Q224 178 216 178 Q214 186 218 190" fill="none" stroke="#8a9aa5" stroke-width="1.1"/>
+    <path d="M208 206 Q214 210 220 206" fill="none" stroke="#8a9aa5" stroke-width="1.1"/>
+  </g>
+  <!-- Fragmentation lines over the face -->
+  <g stroke="#8a9aa5" stroke-width="1" opacity=".55">
+    <line x1="188" y1="180" x2="204" y2="192"/>
+    <line x1="240" y1="182" x2="222" y2="196"/>
+    <line x1="192" y1="216" x2="210" y2="204"/>
+    <line x1="238" y1="218" x2="220" y2="208"/>
   </g>
 
-  <!-- The thread being un-woven -->
-  <path d="M42 92 Q140 126 200 154" fill="none" stroke="#68737b" stroke-width="1.6" opacity=".7"/>
-  <path d="M358 88 Q272 120 200 154" fill="none" stroke="#68737b" stroke-width="1.6" opacity=".7"/>
-  <path d="M42 92 L42 76" stroke="#68737b" stroke-width="1.4" opacity=".6"/>
-  <path d="M358 88 L358 72" stroke="#68737b" stroke-width="1.4" opacity=".6"/>
+  <!-- The thread passing through the eyelet, then severing -->
+  <path d="M42 174 Q70 176 94 196 L104 214 L150 260" fill="none" stroke="#68737b" stroke-width="1.8" opacity=".75"/>
+  <path d="M42 174 L42 158" stroke="#68737b" stroke-width="1.4" opacity=".6"/>
+  <path d="M104 214 Q118 222 132 240 M104 214 Q116 214 128 236" fill="none" stroke="#68737b" stroke-width="1.4" opacity=".7"/>
+  <circle cx="236" cy="262" r="4" fill="#ffffff" filter="url(#flGlow)"/>
 
-  <!-- Severed ends -->
-  <circle cx="200" cy="154" r="4" fill="#ffffff" filter="url(#flGlow)"/>
-  <path d="M56 86 l8 -8 M62 90 l6 -10 M344 82 l8 -8 M338 86 l6 -10" stroke="#68737b" stroke-width="1.2" opacity=".5"/>
+  <!-- Unwoven thread returning through a path -->
+  <path d="M286 260 Q320 252 356 256" fill="none" stroke="#68737b" stroke-width="1.4" opacity=".6"/>
+  <path d="M356 256 L356 240" stroke="#68737b" stroke-width="1.2" opacity=".6"/>
 
-  <!-- One small nameless memory left in the glass -->
+  <!-- Small nameless memory left in the glass -->
   <g fill="#ffffff" opacity=".55">
-    <circle cx="172" cy="208" r="2"/>
-    <circle cx="232" cy="210" r="2"/>
-    <circle cx="150" cy="190" r="1.6"/>
-    <circle cx="252" cy="188" r="1.6"/>
+    <circle cx="154" cy="188" r="2"/><circle cx="176" cy="180" r="2"/>
+    <circle cx="150" cy="210" r="1.7"/><circle cx="172" cy="220" r="1.7"/>
   </g>
-  <path d="M184 216 L192 222 L200 216 L208 222" fill="none" stroke="#ffffff" stroke-width="1" opacity=".4"/>
 
-  <!-- The returned song, passing back -->
+  <!-- Returned song passing back -->
   <g fill="none" stroke="#5c676e" stroke-width="1.2" opacity=".5">
-    <path d="M120 312 q8 -18 16 0 q8 18 16 0"/>
-    <path d="M140 318 q8 -18 16 0 q8 18 16 0"/>
-    <path d="M160 324 q8 -18 16 0 q8 18 16 0"/>
+    <path d="M120 312 q7 -16 14 0 q7 16 14 0"/>
+    <path d="M138 318 q7 -16 14 0 q7 16 14 0"/>
+    <path d="M156 324 q7 -16 14 0 q7 16 14 0"/>
   </g>
 </svg>

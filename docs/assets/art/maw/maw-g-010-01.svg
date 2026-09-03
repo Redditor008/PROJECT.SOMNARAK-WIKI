@@ -1,17 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE ABSOLUTE VERDICT">
   <defs>
-    <radialGradient id="avBg" cx=".46" cy=".42" r=".72">
-      <stop offset="0" stop-color="#1c1c21"/>
+    <radialGradient id="avBg" cx=".46" cy=".4" r=".74">
+      <stop offset="0" stop-color="#1d1d22"/>
       <stop offset="1" stop-color="#050506"/>
     </radialGradient>
-    <linearGradient id="avSteel" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="avPlate" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#38383f"/>
-      <stop offset=".5" stop-color="#19191d"/>
+      <stop offset=".5" stop-color="#17171a"/>
       <stop offset="1" stop-color="#0d0d0f"/>
-    </linearGradient>
-    <linearGradient id="avInset" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#2b2b31"/>
-      <stop offset="1" stop-color="#131317"/>
     </linearGradient>
     <filter id="avGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2"/>
@@ -20,63 +16,52 @@
 
   <rect width="400" height="400" fill="url(#avBg)"/>
 
-  <!-- The 19 unsaved people appearing as a field of pressure -->
+  <!-- The nineteen unsaved as a field of pressure -->
   <g fill="#565660" opacity=".35">
-    <circle cx="90" cy="120" r="3"/>
-    <circle cx="120" cy="92" r="3"/>
-    <circle cx="156" cy="66" r="3"/>
-    <circle cx="200" cy="54" r="3"/>
-    <circle cx="244" cy="66" r="3"/>
-    <circle cx="280" cy="92" r="3"/>
-    <circle cx="310" cy="120" r="3"/>
-    <circle cx="72" cy="152" r="3"/>
-    <circle cx="328" cy="152" r="3"/>
-    <circle cx="96" cy="186" r="3"/>
-    <circle cx="304" cy="186" r="3"/>
-    <circle cx="140" cy="124" r="3"/>
-    <circle cx="260" cy="124" r="3"/>
-    <circle cx="180" cy="106" r="3"/>
-    <circle cx="220" cy="106" r="3"/>
-    <circle cx="160" cy="146" r="3"/>
-    <circle cx="240" cy="146" r="3"/>
-    <circle cx="120" cy="160" r="3"/>
-    <circle cx="280" cy="160" r="3"/>
+    <circle cx="90" cy="112" r="3"/><circle cx="122" cy="88" r="3"/><circle cx="158" cy="66" r="3"/>
+    <circle cx="200" cy="56" r="3"/><circle cx="242" cy="66" r="3"/><circle cx="278" cy="88" r="3"/>
+    <circle cx="310" cy="112" r="3"/><circle cx="70" cy="150" r="3"/><circle cx="330" cy="150" r="3"/>
+    <circle cx="92" cy="186" r="3"/><circle cx="308" cy="186" r="3"/><circle cx="120" cy="216" r="3"/>
+    <circle cx="280" cy="216" r="3"/><circle cx="150" cy="238" r="3"/><circle cx="250" cy="238" r="3"/>
+    <circle cx="176" cy="254" r="3"/><circle cx="224" cy="254" r="3"/><circle cx="200" cy="264" r="3"/>
+    <circle cx="200" cy="300" r="3"/>
+  </g>
+  <g stroke="#565660" stroke-width="1" opacity=".3" stroke-dasharray="3 3">
+    <path d="M70 130 Q150 118 200 130 Q250 118 330 130"/>
+    <path d="M92 200 Q200 180 308 200"/>
   </g>
 
-  <!-- Hanging loop -->
-  <path d="M200 54 L200 90" stroke="#565660" stroke-width="1.4"/>
-  <circle cx="200" cy="54" r="4" fill="#6b6b76"/>
+  <!-- Chain -->
+  <path d="M200 48 L200 84" stroke="#565660" stroke-width="1.6"/>
+  <circle cx="200" cy="46" r="4" fill="#6b6b76"/>
 
-  <!-- Black charm with three impressions -->
-  <path d="M162 96 Q200 82 238 96 L250 176 Q200 206 150 176 Z"
-        fill="url(#avSteel)" stroke="#565660" stroke-width="2.6"/>
-  <path d="M162 96 Q200 82 238 96" fill="none" stroke="#6b6b76" stroke-width="1" opacity=".6"/>
+  <!-- Downward-triangular verdict plate -->
+  <path d="M200 84 L292 232 Q200 276 108 232 Z" fill="url(#avPlate)" stroke="#565660" stroke-width="2.4"/>
+  <path d="M200 84 L292 232 Q200 276 108 232 Z" fill="none" stroke="#2c2c33" stroke-width="1" opacity=".6"/>
 
-  <!-- Closed eye -->
-  <path d="M170 126 Q186 138 202 126 Q186 118 170 126 Z" fill="#0a0a0c" stroke="#6b6b76" stroke-width="1.2"/>
-  <path d="M186 126 Q186 140 186 142" stroke="#6b6b76" stroke-width="1" opacity=".6"/>
+  <!-- Closed eye at the crown -->
+  <path d="M176 120 Q188 112 200 120 Q188 128 176 120 Z" fill="#0a0a0c" stroke="#8a8f98" stroke-width="1.2"/>
+  <path d="M188 120 L188 128" stroke="#8a8f98" stroke-width="1"/>
 
-  <!-- Scale -->
-  <path d="M214 118 L214 152" stroke="#6b6b76" stroke-width="1.6"/>
-  <path d="M198 126 Q214 118 230 126" fill="none" stroke="#6b6b76" stroke-width="1.4"/>
-  <path d="M198 126 L198 142 Q214 150 230 142 L230 126" fill="none" stroke="#6b6b76" stroke-width="1.2"/>
-  <path d="M207 144 Q214 140 221 144" stroke="#8a8f98" stroke-width="1" opacity=".6"/>
+  <!-- Scale down the left face -->
+  <path d="M154 168 L154 206" stroke="#8a8f98" stroke-width="1.6"/>
+  <path d="M140 174 Q154 166 168 174" fill="none" stroke="#8a8f98" stroke-width="1.3"/>
+  <path d="M140 174 L140 190 Q154 198 168 190 L168 174" fill="none" stroke="#8a8f98" stroke-width="1.1"/>
+  <path d="M148 192 Q154 188 160 192" stroke="#8a8f98" stroke-width="1" opacity=".6"/>
 
-  <!-- Folded wing -->
-  <path d="M176 164 Q190 152 206 160 Q196 170 192 182 Z" fill="none" stroke="#6b6b76" stroke-width="1.4"/>
-  <path d="M180 172 Q190 166 198 174" fill="none" stroke="#6b6b76" stroke-width="1" opacity=".7"/>
+  <!-- Folded wing down the right face -->
+  <path d="M226 168 Q236 156 250 164 Q240 174 236 190 Z" fill="none" stroke="#8a8f98" stroke-width="1.4"/>
+  <path d="M232 178 Q240 174 246 182 M238 194 Q246 190 252 198" fill="none" stroke="#8a8f98" stroke-width="1" opacity=".7"/>
 
-  <!-- Heavy when excusing self while condemning another -->
-  <path d="M150 176 Q200 218 250 176" fill="none" stroke="#565660" stroke-width="1.4" opacity=".7"/>
-  <path d="M156 190 Q200 230 244 190" fill="none" stroke="#565660" stroke-width="1.2" opacity=".5"/>
-  <path d="M162 204 Q200 242 238 204" fill="none" stroke="#565660" stroke-width="1.2" opacity=".4"/>
+  <!-- The verdict grows heavy on self-excuse -->
+  <path d="M206 244 Q200 258 194 244" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".6"/>
+  <circle cx="200" cy="252" r="4" fill="#8a8f98" opacity=".6"/>
 
-  <!-- The 19s who could not be saved cross the bottom -->
-  <g stroke="#565660" stroke-width="1" opacity=".4" stroke-dasharray="4 4">
-    <path d="M84 300 Q200 286 316 300"/>
-    <path d="M84 316 Q200 302 316 316"/>
+  <!-- Sentence pressure: nothing gets past judgment, including allies -->
+  <g stroke="#565660" stroke-width="1" opacity=".35">
+    <path d="M150 300 L250 300 M160 320 L240 320 M182 340 L218 340"/>
   </g>
-  <circle cx="134" cy="296" r="2.5" fill="#565660" opacity=".3"/>
-  <circle cx="200" cy="292" r="2.5" fill="#565660" opacity=".3"/>
-  <circle cx="266" cy="296" r="2.5" fill="#565660" opacity=".3"/>
+  <g filter="url(#avGlow)">
+    <circle cx="200" cy="252" r="26" fill="none" stroke="#8a8f98" stroke-width=".8" opacity=".5"/>
+  </g>
 </svg>
