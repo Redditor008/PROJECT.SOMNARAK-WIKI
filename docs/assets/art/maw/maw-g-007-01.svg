@@ -1,37 +1,69 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE HOPE LANTERN">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- GIFT // GLASS LANTERN -->
   <defs>
-    <radialGradient id="bgaa307c" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="lampBg" cx=".5" cy=".38" r=".72">
+      <stop offset="0" stop-color="#b9c7d0"/>
+      <stop offset="1" stop-color="#3c454b"/>
     </radialGradient>
-    <radialGradient id="glaa307c" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    <linearGradient id="lampGlass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2f6f8" stop-opacity=".9"/>
+      <stop offset=".55" stop-color="#d3dde3" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#8a9aa5" stop-opacity=".85"/>
+    </linearGradient>
+    <linearGradient id="lampMetal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#58636b"/>
+      <stop offset="1" stop-color="#2a3338"/>
+    </linearGradient>
+    <radialGradient id="lampFlame" cx=".5" cy=".45" r=".6">
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".98"/>
+      <stop offset=".6" stop-color="#cfe0ea" stop-opacity=".6"/>
+      <stop offset="1" stop-color="#cfe0ea" stop-opacity="0"/>
     </radialGradient>
+    <filter id="lampGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgaa307c)" stroke="#8a8f98" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="115" fill="url(#glaa307c)"/>
-  <g transform="rotate(-8 200.0 192.0)">
-<path d="M162.0 154.2 L238.0 154.2 L228.9 231.1 L171.1 231.1 Z" fill="#8a8f98" fill-opacity=".18" stroke="#8a8f98" stroke-width="3"/>
-<path d="M186.3 142.9 L213.7 142.9 L203.8 135.3 L196.2 135.3 Z" fill="#8a8f98" fill-opacity=".5"/>
-<path d="M173.4 192.0 L226.6 192.0" stroke="#e0f2fe" stroke-width="1" opacity=".55"/>
-<rect x="184.8" y="231.1" width="30.4" height="6" rx="3" fill="#8a8f98" fill-opacity=".5"/>
+
+  <rect width="400" height="400" fill="url(#lampBg)"/>
+
+  <!-- Hand holding the miniature lantern -->
+  <path d="M124 236 Q150 214 190 228 L246 224 Q276 238 268 268 L136 278 Z"
+        fill="#4a555c" stroke="#6b767e" stroke-width="1.6" opacity=".85"/>
+  <path d="M124 236 Q116 256 136 278" fill="none" stroke="#6b767e" stroke-width="1.2" opacity=".6"/>
+  <path d="M240 226 Q258 236 254 256" fill="none" stroke="#6b767e" stroke-width="1.2" opacity=".6"/>
+
+  <!-- Thumb-sized pale-glass lantern -->
+  <path d="M178 96 L222 96 L226 204 Q200 224 174 204 Z" fill="url(#lampGlass)" stroke="#8a9aa5" stroke-width="2.4"/>
+  <path d="M172 110 L228 110 L230 126 L170 126 Z" fill="url(#lampMetal)" stroke="#2a3338" stroke-width="1.4"/>
+  <rect x="182" y="92" width="36" height="6" rx="3" fill="url(#lampMetal)"/>
+  <path d="M200 74 L200 92" stroke="#58636b" stroke-width="2"/>
+  <circle cx="200" cy="72" r="5" fill="url(#lampMetal)"/>
+
+  <!-- Glass panel ribs -->
+  <path d="M184 118 L192 96" stroke="#8a9aa5" stroke-width="1" opacity=".6"/>
+  <path d="M216 118 L208 96" stroke="#8a9aa5" stroke-width="1" opacity=".6"/>
+  <path d="M183 126 L192 110 M216 126 L208 110" stroke="#8a9aa5" stroke-width=".8" opacity=".45"/>
+  <path d="M180 166 Q200 186 220 166" fill="none" stroke="#8a9aa5" stroke-width=".8" opacity=".5"/>
+  <path d="M200 224 L200 254" stroke="#58636b" stroke-width="2.4"/>
+
+  <!-- White flame with no visible fuel -->
+  <g filter="url(#lampGlow)">
+    <ellipse cx="200" cy="150" rx="22" ry="32" fill="url(#lampFlame)" opacity=".9"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M184.0 88.0 L198.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  <path d="M200 128 Q190 150 200 176 Q210 150 200 128 Z" fill="#ffffff" opacity=".95"/>
+  <path d="M200 142 Q195 152 200 164 Q205 152 200 142 Z" fill="#f2f6f8" opacity=".8"/>
+
+  <!-- Forward ray, only where forward is answerable -->
+  <g stroke="#ffffff" opacity=".6" filter="url(#lampGlow)">
+    <line x1="226" y1="160" x2="332" y2="136"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M200.0 88.0 L214.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  <path d="M322 128 L344 134 L324 146 Z" fill="#ffffff" opacity=".8"/>
+
+  <!-- The next-person handprint that the light actually showed -->
+  <g fill="none" stroke="#58636b" stroke-width="1.6" opacity=".6">
+    <ellipse cx="298" cy="270" rx="18" ry="24"/>
+    <path d="M283 260 L283 292 L292 292 L292 258 Z"/>
+    <path d="M312 260 L312 292 L303 292 L303 258 Z"/>
+    <path d="M281 262 Q270 250 276 240" stroke-width="1.2"/>
+    <path d="M314 262 Q325 250 319 240" stroke-width="1.2"/>
   </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M216.0 88.0 L230.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
-  </g>
-  <g transform="rotate(-16 236.0 250.0)">    <path d="M200.0 278.0 C190.0 244.0, 212.0 230.0, 202.0 186.0" fill="none" stroke="#8a8f98" stroke-width="2" opacity=".55"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(13 200.0 120.0)" opacity=".9">
-    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-G-007-01</text>
 </svg>

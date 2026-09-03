@@ -1,38 +1,78 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MOURNING MANTLE">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- SUIT // BLACK MANTLE -->
   <defs>
-    <radialGradient id="bgb0c743" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="mantBg" cx=".5" cy=".35" r=".75">
+      <stop offset="0" stop-color="#17171a"/>
+      <stop offset="1" stop-color="#050506"/>
     </radialGradient>
-    <radialGradient id="glb0c743" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="mantCloth" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#232329"/>
+      <stop offset=".5" stop-color="#121216"/>
+      <stop offset="1" stop-color="#0a0a0c"/>
+    </linearGradient>
+    <linearGradient id="mantThread" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34343c"/>
+      <stop offset=".5" stop-color="#5c5c66"/>
+      <stop offset="1" stop-color="#24242a"/>
+    </linearGradient>
+    <filter id="mantDust" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgb0c743)" stroke="#c9a86a" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="126" fill="url(#glb0c743)"/>
-  <g transform="rotate(-2 200.0 192.0)">
-<path d="M119.0 181.2 L149.8 148.9 L186.0 136.6 L214.0 136.6 L250.2 148.9 L281.0 181.2 L264.8 238.2 L135.2 238.2 Z" fill="#c9a86a" fill-opacity=".18" stroke="#c9a86a" stroke-width="3"/>
-<path d="M130.3 218.9 Q200.0 236.7 269.7 218.9" stroke="#e0f2fe" stroke-width="1.1" opacity=".5"/>
-<circle cx="200.0" cy="142.7" r="5" fill="#c9a86a" fill-opacity=".7"/>
+
+  <rect width="400" height="400" fill="url(#mantBg)"/>
+
+  <!-- Draped mantle body -->
+  <path d="M104 60 Q200 34 296 60 L310 250 Q200 312 90 250 Z"
+        fill="url(#mantCloth)" stroke="#3a3a40" stroke-width="2"/>
+  <path d="M126 74 Q138 158 118 246 L144 236 L152 96 Z" fill="#17171a" stroke="#2f2f35" stroke-width="1"/>
+  <path d="M274 74 Q262 158 282 246 L256 236 L248 96 Z" fill="#17171a" stroke="#2f2f35" stroke-width="1"/>
+
+  <!-- Collar -->
+  <path d="M156 70 Q200 58 244 70 L248 96 Q200 112 152 96 Z" fill="#0d0d0f" stroke="#34343c" stroke-width="1.4"/>
+
+  <!-- Han threads that hang like wet fabric -->
+  <g stroke="url(#mantThread)" stroke-width="1.4" opacity=".8">
+    <path d="M120 100 Q112 166 130 270"/>
+    <path d="M144 92 Q136 176 150 278"/>
+    <path d="M168 86 Q164 184 172 290"/>
+    <path d="M232 86 Q236 184 228 290"/>
+    <path d="M256 92 Q264 176 250 278"/>
+    <path d="M280 100 Q288 166 270 270"/>
   </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 208.0 Q200.0 226.0 264.0 202.0" fill="none" stroke="#c9a86a" stroke-width="1.2" opacity=".4"/>
+  <g stroke="#565660" stroke-width=".8" opacity=".5">
+    <path d="M126 120 Q120 190 136 260"/>
+    <path d="M156 104 Q152 196 160 282"/>
+    <path d="M244 104 Q248 196 240 282"/>
+    <path d="M274 120 Q280 190 264 260"/>
   </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 238.0 Q200.0 256.0 264.0 232.0" fill="none" stroke="#c9a86a" stroke-width="1.2" opacity=".4"/>
+
+  <!-- Wet hanging droop at the hem -->
+  <g fill="#0d0d0f" stroke="#3a3a40" stroke-width="1" opacity=".9">
+    <path d="M92 250 Q110 292 126 262 Q132 296 150 266 Q156 300 172 268 Q178 300 194 268 Q200 304 214 268 Q222 298 238 268 Q246 300 260 266 Q270 294 282 262 Q296 286 308 250 L310 250 Q200 312 90 250 Z"/>
   </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 268.0 Q200.0 286.0 264.0 262.0" fill="none" stroke="#c9a86a" stroke-width="1.2" opacity=".4"/>
+
+  <!-- Grey dust gathering after every procession -->
+  <g fill="#8a8f98" filter="url(#mantDust)">
+    <circle cx="112" cy="266" r="1.4" opacity=".55"/>
+    <circle cx="146" cy="282" r="1.8" opacity=".5"/>
+    <circle cx="184" cy="292" r="1.4" opacity=".5"/>
+    <circle cx="222" cy="290" r="2" opacity=".45"/>
+    <circle cx="258" cy="280" r="1.5" opacity=".5"/>
+    <circle cx="292" cy="264" r="1.3" opacity=".55"/>
+    <circle cx="138" cy="272" r="1" opacity=".4"/>
+    <circle cx="204" cy="296" r="1.2" opacity=".4"/>
   </g>
-  <g transform="rotate(-13 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  <g fill="#b8bdc4" opacity=".25">
+    <circle cx="162" cy="288" r=".8"/>
+    <circle cx="238" cy="286" r=".8"/>
+    <circle cx="278" cy="268" r=".7"/>
   </g>
-  <g transform="rotate(-2 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#c9a86a" opacity=".42"/>
+
+  <!-- One approved route continues forward -->
+  <path d="M40 306 L360 306" stroke="#565660" stroke-width="1.2" opacity=".35"/>
+  <g stroke="#c9a86a" stroke-width="1.4" opacity=".7" fill="none">
+    <path d="M72 306 h28"/>
+    <path d="M300 306 h28"/>
   </g>
-  <g transform="rotate(-14 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#c9a86a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".45"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-S-002-01</text>
+  <path d="M72 300 L96 312 L72 318 Z" fill="#c9a86a" opacity=".55"/>
 </svg>

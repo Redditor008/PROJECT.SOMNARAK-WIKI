@@ -1,34 +1,72 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MOURNING MAUL">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLACK MAUL -->
   <defs>
-    <radialGradient id="bg981f65" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <linearGradient id="maulBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0a0c"/>
+      <stop offset=".6" stop-color="#151518"/>
+      <stop offset="1" stop-color="#050506"/>
+    </linearGradient>
+    <linearGradient id="maulSteel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b2b30"/>
+      <stop offset=".45" stop-color="#45454d"/>
+      <stop offset="1" stop-color="#1a1a1e"/>
+    </linearGradient>
+    <linearGradient id="maulEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0e0e10"/>
+      <stop offset=".5" stop-color="#6b6b76"/>
+      <stop offset="1" stop-color="#0e0e10"/>
+    </linearGradient>
+    <radialGradient id="maulTear" cx=".5" cy=".5" r=".6">
+      <stop offset="0" stop-color="#c9a86a" stop-opacity=".55"/>
+      <stop offset=".6" stop-color="#5a4a34" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#1a1a1e" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="gl981f65" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <filter id="maulGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg981f65)" stroke="#c9a86a" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="127" fill="url(#gl981f65)"/>
-  <g transform="rotate(-2 200.0 192.0)">
-<rect x="143.0" y="158.0" width="114.0" height="68.0" rx="7" fill="#c9a86a" fill-opacity=".24" stroke="#c9a86a" stroke-width="3.5"/>
-<path d="M165.8 168.2 L234.2 168.2" stroke="#e0f2fe" stroke-width="1.3" opacity=".7"/>
-<circle cx="200.0" cy="192.0" r="11.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
-<rect x="194.0" y="226.0" width="12" height="108.0" rx="4" fill="#1f2937" stroke="#c9a86a" stroke-width="2"/>
-<circle cx="200.0" cy="344.0" r="7" fill="#c9a86a" fill-opacity=".55"/>
+
+  <rect width="400" height="400" fill="url(#maulBg)"/>
+
+  <!-- Dented ordinary flooring beneath the maul -->
+  <path d="M84 326 L316 326 L300 352 L100 352 Z" fill="#101014" stroke="#2a2a2f" stroke-width="1.2"/>
+  <path d="M128 332 h34 M196 332 h44 M262 332 h34" stroke="#33333a" stroke-width="1.4" opacity=".5"/>
+  <circle cx="200" cy="342" r="8" fill="#0a0a0c" stroke="#3a3a40" stroke-width="1"/>
+
+  <!-- Weightless tear-crystal architecture beneath the head -->
+  <circle cx="200" cy="302" r="68" fill="url(#maulTear)" opacity=".6"/>
+  <path d="M168 316 L191 284 L203 302 L222 270 L234 300 L258 316" fill="none" stroke="#c9a86a" stroke-width="1" opacity=".55" filter="url(#maulGlow)"/>
+
+  <!-- Shaft -->
+  <rect x="193" y="168" width="14" height="138" rx="4" fill="#232329" stroke="#3f3f47" stroke-width="1.4"/>
+  <path d="M193 190 L207 190 M193 214 L207 214 M193 240 L207 240 M193 268 L207 268" stroke="#0d0d0f" stroke-width="2" opacity=".6"/>
+  <path d="M200 306 L184 288 L216 288 Z" fill="#3a3a40" stroke="#565660" stroke-width="1.2"/>
+
+  <!-- Too-broad maul face -->
+  <path d="M112 110 Q200 82 288 110 L304 176 Q200 206 96 176 Z" fill="url(#maulSteel)" stroke="#565660" stroke-width="2.4"/>
+  <path d="M112 110 Q200 82 288 110" fill="none" stroke="url(#maulEdge)" stroke-width="3"/>
+  <path d="M96 176 Q200 206 304 176" fill="none" stroke="#6b6b76" stroke-width="1.6" opacity=".7"/>
+
+  <!-- Cracks and fatigue seams across the face -->
+  <g stroke="#15151a" stroke-width="1.6" opacity=".9" fill="none">
+    <path d="M142 126 L168 148 L154 168"/>
+    <path d="M228 120 L212 146 L236 162"/>
+    <path d="M188 112 L194 148 L180 176"/>
+    <path d="M120 154 L148 172"/>
+    <path d="M274 150 L254 170"/>
   </g>
-  <g transform="rotate(-13 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  <g stroke="#6b6b76" stroke-width="1" opacity=".35" fill="none">
+    <path d="M138 140 q24 -12 48 0"/>
+    <path d="M214 138 q26 -12 50 0"/>
   </g>
-  <g transform="rotate(5 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#c9a86a" opacity=".42"/>
+
+  <!-- Memorial band across the face -->
+  <path d="M104 158 Q200 184 296 158" fill="none" stroke="#c9a86a" stroke-width="1.6" opacity=".65"/>
+  <circle cx="200" cy="178" r="5" fill="none" stroke="#c9a86a" stroke-width="1.4"/>
+
+  <!-- The dead already fallen inside the maul -->
+  <g stroke="#565660" stroke-width="1.2" opacity=".45" fill="none">
+    <path d="M160 190 L160 214"/>
+    <path d="M200 192 L200 218"/>
+    <path d="M240 190 L240 214"/>
   </g>
-  <g transform="rotate(-14 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#c9a86a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".45"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-W-002-01</text>
 </svg>

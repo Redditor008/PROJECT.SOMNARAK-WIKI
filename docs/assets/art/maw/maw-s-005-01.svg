@@ -1,30 +1,80 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE EMBRACE PLATE">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- SUIT // FIRM EMBRACE -->
   <defs>
-    <radialGradient id="bgc38c3e" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="platBg" cx=".5" cy=".4" r=".72">
+      <stop offset="0" stop-color="#2a0e12"/>
+      <stop offset="1" stop-color="#0b0406"/>
     </radialGradient>
-    <radialGradient id="glc38c3e" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    <linearGradient id="platRib" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d95860"/>
+      <stop offset=".5" stop-color="#8f1a22"/>
+      <stop offset="1" stop-color="#430911"/>
+    </linearGradient>
+    <linearGradient id="platDark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6e1119"/>
+      <stop offset="1" stop-color="#2a0a0e"/>
+    </linearGradient>
+    <radialGradient id="platCore" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#ffb6b8" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#c22c36" stop-opacity=".15"/>
     </radialGradient>
+    <filter id="platGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgc38c3e)" stroke="#d64a4a" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="125" fill="url(#glc38c3e)"/>
-  <g transform="rotate(-5 200.0 192.0)">
-<path d="M115.0 171.8 L160.9 135.4 L182.0 113.2 L218.0 113.2 L239.1 135.4 L285.0 171.8 L266.3 244.5 L200.0 274.8 L133.7 244.5 Z" fill="#d64a4a" fill-opacity=".22" stroke="#d64a4a" stroke-width="3"/>
-<path d="M133.7 161.7 L266.3 161.7" stroke="#d64a4a" stroke-width="1.5" opacity=".6"/>
-<circle cx="200.0" cy="198.0" r="17.0" fill="none" stroke="#e0f2fe" stroke-width="1.8" opacity=".72"/>
-<circle cx="200.0" cy="198.0" r="6.0" fill="#d64a4a" fill-opacity=".5"/>
+
+  <rect width="400" height="400" fill="url(#platBg)"/>
+
+  <!-- Body behind the harness -->
+  <path d="M136 70 Q200 42 264 70 L286 282 Q200 346 114 282 Z"
+        fill="#1a070a" stroke="#491018" stroke-width="1.2"/>
+
+  <!-- Overlapping rib plates tightening around the chest -->
+  <path d="M92 118 Q200 60 308 118 L292 166 Q200 210 108 166 Z"
+        fill="url(#platRib)" stroke="#ff9ca0" stroke-width="2"/>
+  <path d="M84 164 Q200 212 316 164 L302 210 Q200 252 98 210 Z"
+        fill="url(#platDark)" stroke="#d95860" stroke-width="1.8"/>
+  <path d="M98 210 Q200 252 302 210 L288 256 Q200 296 112 256 Z"
+        fill="url(#platRib)" stroke="#d95860" stroke-width="1.8"/>
+  <path d="M112 256 Q200 296 288 256 L276 298 Q200 334 124 298 Z"
+        fill="url(#platDark)" stroke="#b22931" stroke-width="1.8"/>
+
+  <!-- Plate seams -->
+  <g stroke="#3a0d11" stroke-width="1.2" opacity=".75" fill="none">
+    <path d="M132 124 Q200 160 268 124"/>
+    <path d="M112 196 Q200 236 288 196"/>
+    <path d="M124 244 Q200 280 276 244"/>
+    <path d="M140 286 Q200 318 260 286"/>
   </g>
-  <g transform="rotate(-3 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
+
+  <!-- Central lock where the plates close -->
+  <circle cx="200" cy="188" r="42" fill="#2a0a0e" stroke="#ff9ca0" stroke-width="2"/>
+  <circle cx="200" cy="188" r="30" fill="url(#platCore)"/>
+  <circle cx="200" cy="188" r="18" fill="none" stroke="#ff9ca0" stroke-width="1.6" opacity=".8"/>
+  <path d="M188 188 L200 174 L212 188" fill="none" stroke="#ffd3d4" stroke-width="1.6" opacity=".8"/>
+
+  <!-- Closed Circle pressure running around the rib cage -->
+  <path d="M124 154 Q200 118 276 154" fill="none" stroke="#ffb6b8" stroke-width="1.2" opacity=".55"/>
+  <path d="M118 222 Q200 258 282 222" fill="none" stroke="#ffb6b8" stroke-width="1.2" opacity=".55"/>
+
+  <!-- Firm embrace making breathing difficult -->
+  <g fill="none" stroke="#ff9ca0" stroke-width="1.4" opacity=".55">
+    <path d="M112 158 Q88 196 116 226"/>
+    <path d="M288 158 Q312 196 284 226"/>
   </g>
-  <g transform="rotate(10 200.0 236.0)" opacity=".9">
-    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
+
+  <!-- The three protected trainees from the containment failure -->
+  <g stroke="#ffd3d4" stroke-width="1.2" opacity=".55">
+    <path d="M164 260 L164 290"/>
+    <path d="M200 262 L200 292"/>
+    <path d="M236 260 L236 290"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-S-005-01</text>
+  <circle cx="164" cy="256" r="4" fill="#ffb6b8" opacity=".6"/>
+  <circle cx="200" cy="258" r="4" fill="#ffb6b8" opacity=".6"/>
+  <circle cx="236" cy="256" r="4" fill="#ffb6b8" opacity=".6"/>
+
+  <!-- Breath, barely passing -->
+  <g stroke="#ff9ca0" stroke-width="1" opacity=".4" fill="none" filter="url(#platGlow)">
+    <path d="M136 174 h22"/>
+    <path d="M242 174 h22"/>
+  </g>
 </svg>

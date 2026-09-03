@@ -1,42 +1,67 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE EMBRACE FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // HAND CLOSING AROUND WRIST -->
   <defs>
-    <radialGradient id="bgbe4419" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="fangBg" cx=".52" cy=".4" r=".72">
+      <stop offset="0" stop-color="#2a0f12"/>
+      <stop offset="1" stop-color="#0b0506"/>
     </radialGradient>
-    <radialGradient id="glbe4419" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="fangBlade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0747a"/>
+      <stop offset=".45" stop-color="#c22c36"/>
+      <stop offset="1" stop-color="#6e1119"/>
+    </linearGradient>
+    <linearGradient id="fangWarm" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#ffb6b8" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#c22c36" stop-opacity=".4"/>
+    </linearGradient>
+    <filter id="fangGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgbe4419)" stroke="#d64a4a" stroke-width="2.4"/>
-  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="114" fill="url(#glbe4419)"/>
-  <g transform="rotate(2 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 111.14999999999999, 225.0 45.0 231.0 45.0 C221.0 115.56, 220.0 142.01999999999998, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 124.38, 223.0 53.0 228.0 51.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="45.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="249.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
+
+  <rect width="400" height="400" fill="url(#fangBg)"/>
+
+  <!-- Crimson line drawn back toward the bearer -->
+  <path d="M40 310 Q140 272 196 224" fill="none" stroke="#ee7c82" stroke-width="2" opacity=".7" filter="url(#fangGlow)"/>
+  <circle cx="42" cy="310" r="4" fill="#ffb6b8" opacity=".7"/>
+
+  <!-- Hand-like curve opening around a wrist -->
+  <path d="M132 286 Q118 220 166 178 Q206 140 258 152" fill="none" stroke="#ee7c82" stroke-width="2" opacity=".45"/>
+  <path d="M132 286 Q122 242 152 206 Q178 176 216 170" fill="none" stroke="#8f1a22" stroke-width="1.4" opacity=".5"/>
+
+  <!-- Curved fang blade like a hand closing around a wrist -->
+  <path d="M96 292 Q86 202 152 132 Q222 66 300 84 Q252 120 224 168 Q192 226 160 276 Q130 308 96 292 Z"
+        fill="url(#fangBlade)" stroke="#ff9ca0" stroke-width="2.4"/>
+  <path d="M118 268 Q116 204 170 152 Q222 108 284 96" fill="none" stroke="#ffd3d4" stroke-width="1.6" opacity=".7"/>
+
+  <!-- Inner curve where the wrist would rest -->
+  <path d="M130 250 Q134 208 166 178 Q198 152 238 154 Q210 184 192 226 Q172 266 148 282 Z"
+        fill="#3a0d11" stroke="#8f1a22" stroke-width="1.6" opacity=".95"/>
+
+  <!-- Warm grip, cold tip -->
+  <circle cx="104" cy="282" r="9" fill="url(#fangWarm)" filter="url(#fangGlow)"/>
+  <circle cx="108" cy="276" r="3" fill="#ffd3d4" opacity=".8"/>
+  <path d="M300 84 L312 72" stroke="#e8f0f4" stroke-width="3" opacity=".85"/>
+  <path d="M310 74 Q324 58 330 44" fill="none" stroke="#e8f0f4" stroke-width="1.4" opacity=".55"/>
+
+  <!-- Small motion lines near the wounded nearest person -->
+  <g stroke="#ee7c82" stroke-width="1.2" opacity=".6">
+    <path d="M330 210 q8 -4 16 2"/>
+    <path d="M322 226 q10 -6 20 0"/>
+    <path d="M312 242 q12 -8 24 0"/>
   </g>
-  <g transform="rotate(-16 172.0 252.0)">    <circle cx="176.0" cy="226.0" r="4.0" fill="#e0f2fe" opacity=".3"/>
+
+  <!-- Breath against the wrist -->
+  <g fill="none" stroke="#c22c36" opacity=".5">
+    <path d="M148 220 q10 -8 20 0"/>
+    <path d="M158 232 q10 -8 20 0"/>
+    <path d="M146 244 q12 -8 24 0"/>
   </g>
-  <g transform="rotate(-16 172.0 252.0)">    <circle cx="200.0" cy="238.0" r="5.0" fill="#e0f2fe" opacity=".3"/>
+
+  <!-- The two held, pulled children from the Little Door evacuation -->
+  <g fill="none" stroke="#ffd3d4" stroke-width="1.2" opacity=".55">
+    <path d="M148 158 L156 186"/>
+    <path d="M244 148 L252 178"/>
   </g>
-  <g transform="rotate(-16 172.0 252.0)">    <circle cx="224.0" cy="250.0" r="6.0" fill="#e0f2fe" opacity=".3"/>
-  </g>
-  <g transform="rotate(-16 236.0 250.0)">    <path d="M200.0 278.0 C190.0 244.0, 212.0 230.0, 202.0 186.0" fill="none" stroke="#d64a4a" stroke-width="2" opacity=".55"/>
-  </g>
-  <g transform="rotate(8 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <g transform="rotate(12 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <g transform="rotate(-14 200.0 120.0)" opacity=".9">
-    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-005-01</text>
+  <circle cx="152" cy="156" r="4" fill="#ff9ca0" opacity=".6"/>
+  <circle cx="248" cy="146" r="4" fill="#ff9ca0" opacity=".6"/>
 </svg>
