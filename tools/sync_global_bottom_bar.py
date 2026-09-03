@@ -30,7 +30,7 @@ BOTTOM_BAR_RE = re.compile(
 )
 ANY_FOOTER_RE = re.compile(r'<footer\b[^>]*>.*?</footer>', re.IGNORECASE | re.DOTALL)
 
-LAST_VERIFIED = "2026-09-02"
+LAST_VERIFIED = "2026-09-03"
 
 _ENTITY_PAGE_RE = re.compile(r"^se-(\d{3})-(.+)$")
 _MAW_PAGE_RE = re.compile(r"^maw-([WSGwsg])-(\d{3})-(\d{2})-(.+)$")
@@ -273,7 +273,7 @@ def render_bottom_bar(path: Path, root: Path) -> str:
     <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
     <dl>
       <div><dt>Public pages</dt><dd>1,041</dd><small>HTML records</small></div>
-      <div><dt>Editorial corpus</dt><dd>739,550</dd><small>Counted words</small></div>
+      <div><dt>Editorial corpus</dt><dd>892,953</dd><small>Counted words</small></div>
       <div><dt>Visual assets</dt><dd>1,282</dd><small>SVG</small></div>
       <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
       <div><dt>Last verified</dt><dd>{LAST_VERIFIED}</dd><small>SYNC {ASSET_VERSION}</small></div>

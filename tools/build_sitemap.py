@@ -11,7 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
 BASE = "https://redditor008.github.io/PROJECT.SOMNARAK-WIKI"
-LASTMOD = "2026-09-02"
+LASTMOD = "2026-09-03"
 
 def priority(url: str) -> float:
     if url in ("", "index.html"):
