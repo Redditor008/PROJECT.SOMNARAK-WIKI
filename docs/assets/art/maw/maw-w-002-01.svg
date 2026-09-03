@@ -1,10 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MOURNING MAUL">
   <defs>
     <linearGradient id="mmBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0a0a0c"/>
-      <stop offset=".6" stop-color="#16161b"/>
-      <stop offset="1" stop-color="#050506"/>
+      <stop offset="0" stop-color="#151312"/>
+      <stop offset=".5" stop-color="#0a0908"/>
+      <stop offset="1" stop-color="#030303"/>
     </linearGradient>
+    <radialGradient id="mmVign" cx=".5" cy=".4" r=".78">
+      <stop offset="0" stop-color="#0a0908" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#050404" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#010101" stop-opacity=".9"/>
+    </radialGradient>
     <linearGradient id="mmHead" x1="0" y1="0" x2="1" y2=".7">
       <stop offset="0" stop-color="#1f1f24"/>
       <stop offset=".35" stop-color="#4a4a52"/>
@@ -27,10 +32,48 @@
 
   <rect width="400" height="400" fill="url(#mmBg)"/>
 
+  <!-- Colossus route corridor: standing wall and projected footfall -->
+  <g stroke="#2c2a27" stroke-width="1" opacity=".5" fill="none">
+    <path d="M44 70 L44 330 M356 70 L356 330 M44 96 L356 96 M44 156 L356 156 M44 300 L356 300"/>
+  </g>
+  <path d="M44 330 Q200 312 356 330 L356 360 Q200 342 44 360 Z" fill="#0c0b0a" stroke="#2c2a27" stroke-width="1"/>
+  <g stroke="#3a362e" stroke-width="1" opacity=".45">
+    <path d="M80 352 L120 352 M180 348 L230 348 M290 352 L330 352"/>
+  </g>
+  <!-- memorial architecture rise behind -->
+  <g stroke="#c9a86a" stroke-width=".8" opacity=".3">
+    <path d="M74 300 L120 222 L150 260 M326 300 L280 222 L250 260"/>
+  </g>
+
   <!-- Drop-shadow: black weight falls before the head -->
   <path d="M92 152 Q200 134 308 152 L310 178 Q200 202 90 178 Z" fill="#040405" opacity=".85" filter="url(#mmGlow)"/>
 
-  <!-- Plated working floor with a dented seam -->
+  <!-- Barrel maul head -->
+  <path d="M88 132 Q200 102 312 132 Q322 158 312 184 Q200 214 88 184 Q78 158 88 132 Z"
+        fill="url(#mmHead)" stroke="#565660" stroke-width="2.6"/>
+  <path d="M92 138 Q200 112 308 138" fill="none" stroke="url(#mmIronside)" stroke-width="4"/>
+  <path d="M92 178 Q200 204 308 178" fill="none" stroke="#45454d" stroke-width="1.6" opacity=".7"/>
+  <path d="M188 116 L188 196 M212 116 L212 196" stroke="#8a8f98" stroke-width="3" opacity=".8"/>
+  <g fill="#8a8f98" opacity=".85">
+    <circle cx="188" cy="120" r="2.4"/><circle cx="212" cy="120" r="2.4"/>
+    <circle cx="188" cy="192" r="2.4"/><circle cx="212" cy="192" r="2.4"/>
+  </g>
+  <g stroke="#15151a" stroke-width="1.8" opacity=".85" fill="none">
+    <path d="M126 144 L156 162 L142 184"/>
+    <path d="M210 136 L206 170 L226 186"/>
+    <path d="M284 144 L262 164 L278 184"/>
+  </g>
+  <path d="M104 170 Q200 192 296 166" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".65"/>
+  <circle cx="200" cy="184" r="5" fill="none" stroke="#c9a86a" stroke-width="1.6"/>
+
+  <!-- Short thick haft -->
+  <rect x="196" y="204" width="8" height="118" rx="3" fill="#1f1f24" stroke="#45454d" stroke-width="1.4"/>
+  <g stroke="#565660" stroke-width="1.4" opacity=".5">
+    <path d="M196 222 L204 222 M196 252 L204 252 M196 282 L204 282 M196 312 L204 312"/>
+  </g>
+  <path d="M184 210 L216 210 L212 226 L188 226 Z" fill="#45454d" stroke="#565660" stroke-width="1.2"/>
+
+  <!-- Dented flooring under the maul -->
   <path d="M70 330 L330 330 L312 360 L88 360 Z" fill="#0d0d0f" stroke="#3a3a40" stroke-width="1.2"/>
   <g stroke="#565660" stroke-width="1" opacity=".4">
     <path d="M108 336 h48 M176 336 h48 M244 336 h48"/>
@@ -38,50 +81,14 @@
   </g>
   <ellipse cx="200" cy="340" rx="26" ry="7" fill="#060608" stroke="#5a5a63" stroke-width="1"/>
 
-  <!-- Barrel maul head: broad, low, concave underside -->
-  <path d="M88 132 Q200 102 312 132 Q322 158 312 184 Q200 214 88 184 Q78 158 88 132 Z"
-        fill="url(#mmHead)" stroke="#565660" stroke-width="2.6"/>
-  <path d="M92 138 Q200 112 308 138" fill="none" stroke="url(#mmIronside)" stroke-width="4"/>
-  <path d="M92 178 Q200 204 308 178" fill="none" stroke="#45454d" stroke-width="1.6" opacity=".7"/>
-
-  <!-- Two ironstraps that bind the head to the haft -->
-  <path d="M188 116 L188 196 M212 116 L212 196" stroke="#8a8f98" stroke-width="3" opacity=".8"/>
-  <g fill="#8a8f98" opacity=".85">
-    <circle cx="188" cy="120" r="2.4"/><circle cx="212" cy="120" r="2.4"/>
-    <circle cx="188" cy="192" r="2.4"/><circle cx="212" cy="192" r="2.4"/>
-  </g>
-
-  <!-- Fatigue seams across the face -->
-  <g stroke="#15151a" stroke-width="1.8" opacity=".85" fill="none">
-    <path d="M126 144 L156 162 L142 184"/>
-    <path d="M210 136 L206 170 L226 186"/>
-    <path d="M284 144 L262 164 L278 184"/>
-  </g>
-  <g stroke="#8a8f98" stroke-width="1" opacity=".3" fill="none">
-    <path d="M120 156 q34 -14 68 0"/>
-    <path d="M216 156 q34 -14 68 0"/>
-  </g>
-
-  <!-- memorial band of the dead already beneath -->
-  <path d="M104 170 Q200 192 296 166" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".65"/>
-  <circle cx="200" cy="184" r="5" fill="none" stroke="#c9a86a" stroke-width="1.6"/>
-
-  <!-- Short thick haft beneath -->
-  <rect x="196" y="204" width="8" height="118" rx="3" fill="#1f1f24" stroke="#45454d" stroke-width="1.4"/>
-  <g stroke="#565660" stroke-width="1.4" opacity=".5">
-    <path d="M196 222 L204 222 M196 252 L204 252 M196 282 L204 282 M196 312 L204 312"/>
-  </g>
-  <!-- Binding collar -->
-  <path d="M184 210 L216 210 L212 226 L188 226 Z" fill="#45454d" stroke="#565660" stroke-width="1.2"/>
-
-  <!-- Tear-crystal architecture grows under the head, carries it weightlessly -->
+  <!-- Tear-crystal architecture grows under the head -->
   <g opacity=".7" filter="url(#mmGlow)">
     <path d="M200 318 L224 286 L204 300 L226 268 L210 290 L232 258 L214 282 L240 250 L200 280 L166 254 L182 274 L158 244 L178 264 L148 236 L176 260 L162 282 Z" fill="none" stroke="#c9a86a" stroke-width="1"/>
     <circle cx="200" cy="286" r="34" fill="url(#mmTear)"/>
   </g>
-
-  <!-- three points of the dead workers' fatigue -->
   <g fill="#c9a86a" opacity=".45">
     <circle cx="150" cy="302" r="2"/><circle cx="200" cy="296" r="2"/><circle cx="250" cy="302" r="2"/>
   </g>
+
+  <rect width="400" height="400" fill="url(#mmVign)"/>
 </svg>

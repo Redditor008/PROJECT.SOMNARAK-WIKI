@@ -1,8 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE ABSOLUTE MANTLE">
   <defs>
-    <radialGradient id="amBg" cx=".5" cy=".34" r=".78">
-      <stop offset="0" stop-color="#1a1a1f"/>
-      <stop offset="1" stop-color="#050506"/>
+    <linearGradient id="amBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#17171d"/>
+      <stop offset=".5" stop-color="#0d0d10"/>
+      <stop offset="1" stop-color="#040406"/>
+    </linearGradient>
+    <radialGradient id="amVign" cx=".5" cy=".42" r=".8">
+      <stop offset="0" stop-color="#16161b" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#0a0a0d" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#000" stop-opacity=".9"/>
     </radialGradient>
     <linearGradient id="amPlate" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#2f2f36"/>
@@ -21,63 +27,66 @@
 
   <rect width="400" height="400" fill="url(#amBg)"/>
 
-  <!-- Collapse pressure converging on the fixed point -->
-  <g stroke="#565660" stroke-width="1" opacity=".35">
-    <path d="M52 40 L148 96 M348 40 L252 96"/>
-    <path d="M72 66 L160 116 M328 66 L240 116"/>
+  <!-- Sealed breach chamber with pressure grading lines -->
+  <g stroke="#2c2c33" stroke-width="1.2" opacity=".5">
+    <line x1="64" y1="52" x2="64" y2="340"/>
+    <line x1="336" y1="52" x2="336" y2="340"/>
+    <line x1="64" y1="92" x2="336" y2="92"/>
+    <line x1="64" y1="150" x2="336" y2="150"/>
+    <line x1="64" y1="250" x2="336" y2="250"/>
+  </g>
+  <!-- converging collapse field -->
+  <g stroke="#565660" stroke-width="1" opacity=".4">
+    <path d="M52 48 L150 100 M348 48 L250 100"/>
+    <path d="M72 76 L160 118 M328 76 L240 118"/>
   </g>
 
-  <!-- Fixed Point anchor rope -->
+  <!-- Fixed Point anchor -->
   <g filter="url(#amGlow)">
-    <line x1="200" y1="42" x2="200" y2="92" stroke="#8a8f98" stroke-width="2"/>
-    <path d="M200 42 L188 52 M200 42 L212 52" stroke="#8a8f98" stroke-width="2" fill="none"/>
+    <line x1="200" y1="40" x2="200" y2="92" stroke="#8a8f98" stroke-width="2.4"/>
+    <path d="M200 40 L188 52 M200 40 L212 52" stroke="#8a8f98" stroke-width="2.2" fill="none"/>
   </g>
-  <circle cx="200" cy="42" r="4" fill="#8a8f98"/>
+  <circle cx="200" cy="40" r="5" fill="#8a8f98"/>
 
-  <!-- Rigid plate-poncho: broad angular shoulders, tapered stiff skirt -->
-  <path d="M118 88 L282 88 L306 200 Q200 236 94 200 Z" fill="url(#amPlate)" stroke="#3a3a40" stroke-width="2.4"/>
-  <!-- top collar band -->
-  <path d="M172 88 L228 88 L224 116 Q200 124 176 116 Z" fill="#0d0d0f" stroke="#34343c" stroke-width="1.4"/>
-
-  <!-- Articulated plate seams (angular, not draped) -->
-  <g stroke="#45454d" stroke-width="1.4" fill="none">
+  <!-- Rigid plate-poncho -->
+  <path d="M118 88 L282 88 L306 200 Q200 236 94 200 Z" fill="url(#amPlate)" stroke="#3a3a40" stroke-width="2.6"/>
+  <path d="M172 88 L228 88 L224 116 Q200 124 176 116 Z" fill="#0d0d0f" stroke="#34343c" stroke-width="1.6"/>
+  <g stroke="#45454d" stroke-width="1.6" fill="none">
     <path d="M124 112 L154 116 M276 112 L246 116"/>
     <path d="M118 140 L154 140 M282 140 L246 140"/>
     <path d="M112 168 L152 164 M288 168 L248 164"/>
     <path d="M106 196 L148 190 M294 196 L252 190"/>
   </g>
-  <!-- Rivets -->
-  <g fill="url(#amRivet)" opacity=".8">
-    <circle cx="150" cy="116" r="2.4"/><circle cx="250" cy="116" r="2.4"/>
-    <circle cx="146" cy="140" r="2.4"/><circle cx="254" cy="140" r="2.4"/>
-    <circle cx="142" cy="164" r="2.4"/><circle cx="258" cy="164" r="2.4"/>
-    <circle cx="138" cy="190" r="2.4"/><circle cx="262" cy="190" r="2.4"/>
+  <g fill="url(#amRivet)" opacity=".85">
+    <circle cx="150" cy="116" r="2.6"/><circle cx="250" cy="116" r="2.6"/>
+    <circle cx="146" cy="140" r="2.6"/><circle cx="254" cy="140" r="2.6"/>
+    <circle cx="142" cy="164" r="2.6"/><circle cx="258" cy="164" r="2.6"/>
+    <circle cx="138" cy="190" r="2.6"/><circle cx="262" cy="190" r="2.6"/>
   </g>
+  <rect x="188" y="124" width="24" height="86" rx="6" fill="#101014" stroke="url(#amRivet)" stroke-width="1.6"/>
+  <circle cx="200" cy="138" r="4.4" fill="#565660"/>
 
-  <!-- Inner core column stays anchored -->
-  <rect x="188" y="124" width="24" height="86" rx="6" fill="#101014" stroke="url(#amRivet)" stroke-width="1.4"/>
-  <circle cx="200" cy="138" r="4" fill="#565660"/>
-
-  <!-- Flat heavy hem refuses to move -->
-  <path d="M94 200 L306 200 L312 224 Q200 248 88 224 Z" fill="#0a0a0c" stroke="#34343c" stroke-width="1.2"/>
+  <!-- Flat heavy hem -->
+  <path d="M94 200 L306 200 L312 224 Q200 248 88 224 Z" fill="#0a0a0c" stroke="#34343c" stroke-width="1.4"/>
   <path d="M98 210 L302 210" stroke="#565660" stroke-width="1" opacity=".5"/>
 
-  <!-- Eleven minutes of refusal counted in the dust -->
-  <g fill="#565660" opacity=".7">
-    <text x="52" y="72" font-size="12">+11m</text>
-    <text x="318" y="72" font-size="12">+11m</text>
+  <!-- 11 min refusal -->
+  <g fill="#565660" opacity=".8">
+    <text x="50" y="76" font-size="12">+11m</text>
+    <text x="320" y="76" font-size="12">+11m</text>
   </g>
-  <path d="M200 214 L200 250" stroke="#565660" stroke-width="1.2" opacity=".4" stroke-dasharray="3 3"/>
+  <path d="M200 214 L200 252" stroke="#565660" stroke-width="1.4" opacity=".5" stroke-dasharray="3 3"/>
 
-  <!-- Partner's verified counter-order by name -->
-  <g fill="none" stroke="#8a8f98" stroke-width="1.4" opacity=".7">
-    <path d="M64 292 Q104 306 146 300"/>
-    <path d="M336 292 Q296 306 254 300"/>
+  <!-- Partner's counter-order -->
+  <g fill="none" stroke="#8a8f98" stroke-width="1.6" opacity=".8">
+    <path d="M62 292 Q102 306 144 300"/>
+    <path d="M338 292 Q298 306 256 300"/>
   </g>
-  <path d="M64 286 L56 300 L80 300 Z" fill="#8a8f98" opacity=".7"/>
-  <path d="M336 286 L344 300 L320 300 Z" fill="#8a8f98" opacity=".7"/>
-  <path d="M170 282 L230 282 L224 300 L176 300 Z" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".6"/>
+  <path d="M62 286 L54 300 L78 300 Z" fill="#8a8f98" opacity=".8"/>
+  <path d="M338 286 L346 300 L322 300 Z" fill="#8a8f98" opacity=".8"/>
+  <path d="M170 282 L230 282 L224 300 L176 300 Z" fill="none" stroke="#8a8f98" stroke-width="1.4" opacity=".7"/>
 
-  <!-- The anchor field ends with the order -->
-  <circle cx="200" cy="214" r="4" fill="#8a8f98" opacity=".8" filter="url(#amGlow)"/>
+  <circle cx="200" cy="214" r="4.4" fill="#8a8f98" opacity=".9" filter="url(#amGlow)"/>
+
+  <rect width="400" height="400" fill="url(#amVign)"/>
 </svg>

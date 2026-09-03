@@ -1,74 +1,90 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LAMENT'S SHROUD">
   <defs>
-    <radialGradient id="shrBg" cx=".5" cy=".42" r=".7">
-      <stop offset="0" stop-color="#0a1a3c"/>
-      <stop offset="1" stop-color="#02050f"/>
+    <linearGradient id="shBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c1e42"/>
+      <stop offset=".5" stop-color="#081127"/>
+      <stop offset="1" stop-color="#02060f"/>
+    </linearGradient>
+    <radialGradient id="shVign" cx=".5" cy=".42" r=".78">
+      <stop offset="0" stop-color="#081127" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#050a16" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#010305" stop-opacity=".9"/>
     </radialGradient>
-    <linearGradient id="shrSilk" x1="0" y1="0" x2="0" y2="1">
+    <linearGradient id="shSilk" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#2f6fb5"/>
-      <stop offset=".45" stop-color="#1c4a85"/>
-      <stop offset="1" stop-color="#102c55"/>
+      <stop offset=".42" stop-color="#1f4f8c"/>
+      <stop offset="1" stop-color="#0d2a55"/>
     </linearGradient>
-    <linearGradient id="shrLift" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#6fb7ec" stop-opacity=".15"/>
-      <stop offset="1" stop-color="#cfe8ff" stop-opacity=".5"/>
+    <linearGradient id="shHem" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6fb7ec" stop-opacity=".2"/>
+      <stop offset=".5" stop-color="#cfe8ff" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#6fb7ec" stop-opacity=".2"/>
     </linearGradient>
-    <filter id="shrGlow" x="-40%" y="-40%" width="180%" height="180%">
+    <filter id="shGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="3"/>
     </filter>
   </defs>
 
-  <rect width="400" height="400" fill="url(#shrBg)"/>
+  <rect width="400" height="400" fill="url(#shBg)"/>
 
-  <!-- Shoulder and throat silhouette beneath the silk -->
-  <path d="M118 154 Q200 112 282 154 L292 208 Q200 262 108 208 Z"
-        fill="#0b1830" stroke="#173c6e" stroke-width="1" opacity=".95"/>
-  <path d="M168 128 Q200 118 232 128 L226 174 Q200 188 174 174 Z" fill="#0b1830" opacity=".9"/>
+  <!-- Bell tower interior wall -->
+  <g stroke="#1f3f6e" stroke-width="1" opacity=".4" fill="none">
+    <path d="M52 40 L52 360 M348 40 L348 360"/>
+    <path d="M64 92 L336 92 M64 150 L336 150 M64 208 L336 208 M64 266 L336 266"/>
+  </g>
+  <g fill="#1f3f6e" opacity=".28">
+    <rect x="92" y="52" width="2" height="30"/><rect x="176" y="52" width="2" height="30"/>
+    <rect x="224" y="52" width="2" height="30"/><rect x="308" y="52" width="2" height="30"/>
+  </g>
 
-  <!-- Deep-blue shroud wrapping shoulders and throat -->
-  <path d="M98 158 Q112 118 150 104 Q200 88 250 104 Q288 118 302 158 L292 236 Q200 300 108 236 Z"
-        fill="url(#shrSilk)" fill-opacity=".92" stroke="#3e8bd5" stroke-width="2"/>
-  <path d="M126 128 Q126 202 142 258 L156 238 L136 166 Z" fill="#2f6fb5" fill-opacity=".85"/>
-  <path d="M274 128 Q274 202 258 258 L244 238 L264 166 Z" fill="#2f6fb5" fill-opacity=".85"/>
-  <path d="M158 108 Q170 142 160 188 Q138 190 112 170" fill="none" stroke="#6fb7ec" stroke-width="1.2" opacity=".5"/>
-  <path d="M242 108 Q230 142 240 188 Q262 190 288 170" fill="none" stroke="#6fb7ec" stroke-width="1.2" opacity=".5"/>
+  <!-- Toll zone rings, body drawn into the chamber -->
+  <g fill="none" stroke="#2f6fb5" opacity=".35" filter="url(#shGlow)">
+    <circle cx="200" cy="220" r="94" stroke-width="1.2"/>
+    <circle cx="200" cy="220" r="136" stroke-width=".9"/>
+    <circle cx="200" cy="220" r="178" stroke-width=".7"/>
+  </g>
+
+  <!-- Deep-blue shroud wrapping shoulders and throat without pressure -->
+  <g filter="url(#shGlow)">
+    <path d="M132 108 Q200 84 268 108 L286 232 Q200 288 114 232 Z"
+          fill="url(#shSilk)" stroke="#4a86c9" stroke-width="2"/>
+  </g>
+  <!-- flowing wrap folds -->
+  <path d="M148 108 Q156 174 132 250 L160 240 L164 122 Z" fill="#2f6fb5" fill-opacity=".85"/>
+  <path d="M252 108 Q244 174 268 250 L240 240 L236 122 Z" fill="#2f6fb5" fill-opacity=".85"/>
+  <!-- throat wrap -->
+  <path d="M166 104 Q200 96 234 104 L234 130 Q200 142 166 130 Z" fill="#1f4f8c" stroke="#6fb7ec" stroke-width="1.2"/>
+  <path d="M182 132 L200 138 L218 132" fill="none" stroke="#cfe8ff" stroke-width="1"/>
 
   <!-- Fabric moves as if listening -->
-  <g fill="none" stroke="#cfe8ff" opacity=".55">
-    <path d="M174 112 Q182 150 176 200 Q158 244 132 262" stroke-width="1.4"/>
-    <path d="M226 112 Q218 150 224 200 Q242 244 268 262" stroke-width="1.4"/>
-    <path d="M200 106 Q202 182 198 276" stroke-width="1.2" opacity=".6"/>
-  </g>
-  <g fill="none" stroke="#3e8bd5" opacity=".45">
-    <path d="M154 176 Q200 196 246 176"/>
-    <path d="M158 202 Q200 222 242 202"/>
-    <path d="M164 228 Q200 248 236 228"/>
+  <g fill="none" stroke="#6fb7ec" stroke-width="1" opacity=".5">
+    <path d="M156 154 Q164 226 150 262"/>
+    <path d="M244 154 Q236 226 250 262"/>
+    <path d="M190 150 Q190 220 174 268"/>
+    <path d="M210 150 Q210 220 226 268"/>
   </g>
 
-  <!-- Three unrecorded names gathered at the hem -->
-  <g filter="url(#shrGlow)">
-    <path d="M126 246 l4 -10 3 10 z" fill="#dff0ff"/>
-    <path d="M193 258 l4 -12 4 12 z" fill="#dff0ff"/>
-    <path d="M264 244 l4 -10 3 10 z" fill="#dff0ff"/>
+  <!-- Tiny pale marks along the hem: names with no other record -->
+  <path d="M114 232 Q200 288 286 232 L300 240 Q200 300 100 240 Z" fill="#102c55" stroke="url(#shHem)" stroke-width="1.6"/>
+  <g fill="#cfe8ff" filter="url(#shGlow)">
+    <circle cx="140" cy="252" r="2"/><circle cx="168" cy="266" r="2"/>
+    <circle cx="200" cy="274" r="2"/><circle cx="232" cy="266" r="2"/>
+    <circle cx="260" cy="252" r="2"/>
   </g>
-  <g fill="#e0f2fe" opacity=".6">
-    <circle cx="132" cy="252" r="1.6"/>
-    <circle cx="200" cy="266" r="1.6"/>
-    <circle cx="270" cy="250" r="1.6"/>
+  <path d="M140 252 L140 262 M168 266 L168 276 M200 274 L200 284 M232 266 L232 276 M260 252 L260 262"
+        stroke="#6fb7ec" stroke-width="1" opacity=".5"/>
+
+  <!-- Three stored names held; a fourth would speak all at once -->
+  <g font-size="9" fill="#8fbdf0" opacity=".5">
+    <text x="252" y="170">i</text><text x="266" y="186">i</text><text x="278" y="204">i</text>
+  </g>
+  <path d="M252 176 L250 190 M266 192 L265 206 M278 210 L278 222" stroke="#6fb7ec" stroke-width="1" opacity=".4"/>
+
+  <!-- Floor with grief-record band -->
+  <path d="M110 336 L290 336 L280 366 L120 366 Z" fill="#0c1c38" stroke="#2f4f7e" stroke-width="1"/>
+  <g stroke="#3f6fa5" stroke-width="1" opacity=".5">
+    <line x1="146" y1="346" x2="254" y2="346"/><line x1="146" y1="356" x2="222" y2="356"/>
   </g>
 
-  <!-- Tiny pale marks along the hem -->
-  <path d="M108 236 L282 236" stroke="#2f6fb5" stroke-width="1.2" opacity=".6"/>
-  <g stroke="#dff0ff" stroke-width="1" opacity=".45">
-    <line x1="116" y1="240" x2="116" y2="252"/>
-    <line x1="144" y1="246" x2="144" y2="256"/>
-    <line x1="162" y1="250" x2="162" y2="260"/>
-    <line x1="180" y1="252" x2="180" y2="264"/>
-    <line x1="220" y1="252" x2="220" y2="264"/>
-    <line x1="238" y1="250" x2="238" y2="260"/>
-    <line x1="254" y1="246" x2="254" y2="256"/>
-  </g>
-
-  <!-- A single toll line crossing the shroud -->
-  <path d="M48 200 Q200 236 352 186" fill="none" stroke="#3e8bd5" stroke-width=".8" opacity=".35"/>
+  <rect width="400" height="400" fill="url(#shVign)"/>
 </svg>

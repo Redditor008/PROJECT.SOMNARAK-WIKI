@@ -1,22 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE HOPE LENS">
   <defs>
-    <radialGradient id="hlBg" cx=".46" cy=".38" r=".74">
-      <stop offset="0" stop-color="#eef3f6"/>
-      <stop offset=".58" stop-color="#b9c7d0"/>
-      <stop offset="1" stop-color="#4a555c"/>
+    <linearGradient id="hlBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2c3136"/>
+      <stop offset=".5" stop-color="#1c2024"/>
+      <stop offset="1" stop-color="#0c0f12"/>
+    </linearGradient>
+    <radialGradient id="hlFog" cx=".5" cy=".4" r=".7">
+      <stop offset="0" stop-color="#4a555c" stop-opacity=".5"/>
+      <stop offset=".7" stop-color="#2c3136" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#0c0f12" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="hlVign" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c0f12" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#0c0f12" stop-opacity=".8"/>
+    </linearGradient>
     <radialGradient id="hlGlass" cx=".42" cy=".38" r=".6">
-      <stop offset="0" stop-color="#ffffff" stop-opacity=".94"/>
-      <stop offset=".55" stop-color="#dbe4e9" stop-opacity=".8"/>
-      <stop offset="1" stop-color="#8a9aa5" stop-opacity=".85"/>
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".98"/>
+      <stop offset=".55" stop-color="#e6eef2" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#9db0bc" stop-opacity=".95"/>
     </radialGradient>
     <linearGradient id="hlSteel" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#8a9aa5"/>
-      <stop offset="1" stop-color="#3c454b"/>
-    </linearGradient>
-    <linearGradient id="hlBlade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#cfe0ea" stop-opacity=".75"/>
+      <stop offset="0" stop-color="#a8b7c2"/>
+      <stop offset="1" stop-color="#4a565e"/>
     </linearGradient>
     <filter id="hlGlow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="4"/>
@@ -24,56 +29,77 @@
   </defs>
 
   <rect width="400" height="400" fill="url(#hlBg)"/>
+  <ellipse cx="200" cy="180" rx="240" ry="180" fill="url(#hlFog)"/>
 
-  <!-- Refused false routes: three possible lanes, one chosen away -->
-  <g stroke="#68737b" stroke-width="1.4" opacity=".45" stroke-dasharray="4 4">
-    <path d="M30 126 L110 148"/>
-    <path d="M30 236 L110 226"/>
+  <!-- Fog layers, bolder -->
+  <g fill="none" stroke="#8aa0b0" stroke-width="1.2" opacity=".35">
+    <path d="M0 96 Q120 78 244 96 Q320 108 400 92"/>
+    <path d="M0 300 Q160 282 300 302 Q350 310 400 300"/>
   </g>
-  <path d="M30 180 Q130 178 170 188" fill="none" stroke="#68737b" stroke-width="1.6" opacity=".6"/>
-
-  <!-- Surveyor pole -->
-  <rect x="180" y="70" width="10" height="270" rx="5" fill="#68737b" stroke="#4f5a61" stroke-width="1.2"/>
-  <g stroke="#565660" stroke-width="1.2" opacity=".55">
-    <path d="M180 104 L190 104 M180 148 L190 148 M180 192 L190 192 M180 238 L190 238 M180 286 L190 286"/>
+  <g stroke="#6a7680" stroke-width="1" opacity=".4" stroke-dasharray="4 8">
+    <path d="M40 70 L360 70 M40 130 L360 130"/>
   </g>
 
-  <!-- Side grip on the pole -->
-  <rect x="190" y="252" width="30" height="16" rx="6" fill="url(#hlSteel)" stroke="#2a3338" stroke-width="1.2"/>
-  <circle cx="204" cy="284" r="4" fill="#58636b"/>
-
-  <!-- Pivot fork receiving the lens -->
-  <path d="M150 96 L166 70 L186 66 L186 100 L150 100 Z" fill="#58636b" stroke="#2a3338" stroke-width="1.2"/>
-  <path d="M186 66 L206 96" stroke="#58636b" stroke-width="3"/>
-  <circle cx="196" cy="82" r="5" fill="#58636b"/>
-
-  <!-- Pale glass lens on the fork -->
-  <circle cx="212" cy="150" r="64" fill="url(#hlGlass)" stroke="#8a9aa5" stroke-width="2.2"/>
-  <circle cx="212" cy="150" r="54" fill="none" stroke="#eef3f6" stroke-width="1" opacity=".6"/>
-  <circle cx="212" cy="150" r="42" fill="none" stroke="#cfe0ea" stroke-width=".8" opacity=".45"/>
-
-  <!-- No face reflects; the lens shows the direction being refused -->
-  <g stroke="#7d8b93" stroke-width="1.4" opacity=".6">
-    <path d="M192 150 L232 150 M212 130 L212 170"/>
+  <!-- Surrounding survey poles (environment, spaced wide) -->
+  <g stroke="#5a666e" stroke-width="2.4">
+    <line x1="64" y1="96" x2="64" y2="304"/>
+    <line x1="336" y1="96" x2="336" y2="304"/>
   </g>
-  <path d="M212 150 L252 176 Q260 182 254 192" fill="none" stroke="#68737b" stroke-width="2" opacity=".7"/>
-  <path d="M252 176 L250 160" stroke="#68737b" stroke-width="1.8" opacity=".6"/>
+  <g stroke="#a8b7c2" stroke-width="1.4" opacity=".7">
+    <line x1="64" y1="130" x2="64" y2="238"/> <line x1="336" y1="130" x2="336" y2="238"/>
+  </g>
 
-  <!-- Thin plane of white light blade, angled to the side -->
+  <!-- False route lanes -->
+  <g stroke="#8aa0b0" stroke-width="1.4" opacity=".45" stroke-dasharray="4 4">
+    <path d="M20 150 Q120 130 170 160"/>
+    <path d="M20 250 Q120 240 170 232"/>
+  </g>
+
+  <!-- Bold surveyor pole (centered main object) -->
+  <rect x="196" y="60" width="16" height="310" rx="8" fill="#5a666e" stroke="#8a9aa5" stroke-width="2"/>
+  <g stroke="#a8b7c2" stroke-width="1.4" opacity=".8">
+    <line x1="196" y1="96" x2="212" y2="96"/>
+    <line x1="196" y1="140" x2="212" y2="140"/>
+    <line x1="196" y1="184" x2="212" y2="184"/>
+    <line x1="196" y1="228" x2="212" y2="228"/>
+    <line x1="196" y1="272" x2="212" y2="272"/>
+  </g>
+  <rect x="212" y="260" width="40" height="22" rx="8" fill="url(#hlSteel)" stroke="#2c3136" stroke-width="1.6"/>
+  <circle cx="232" cy="300" r="6" fill="#8a9aa5"/>
+
+  <!-- Pivot fork + big lens -->
+  <path d="M166 96 L184 64 L208 60 L208 98 L166 98 Z" fill="#8a9aa5" stroke="#4a565e" stroke-width="1.4"/>
+  <path d="M208 60 L230 96" stroke="#8a9aa5" stroke-width="3.4"/>
+  <circle cx="220" cy="80" r="7" fill="#a8b7c2"/>
+  <circle cx="238" cy="158" r="82" fill="url(#hlGlass)" stroke="#a8b7c2" stroke-width="3"/>
+  <circle cx="238" cy="158" r="68" fill="none" stroke="#ffffff" stroke-width="1.4" opacity=".7"/>
+  <circle cx="238" cy="158" r="52" fill="none" stroke="#cfe0ea" stroke-width="1" opacity=".5"/>
+
+  <!-- Lens: no face, only refused direction -->
+  <g stroke="#55636c" stroke-width="2" opacity=".7">
+    <path d="M212 158 L264 158 M238 132 L238 184"/>
+  </g>
+  <path d="M238 158 L286 190 Q296 198 288 212" fill="none" stroke="#55636c" stroke-width="2.6" opacity=".85"/>
+  <path d="M286 190 L282 170" stroke="#55636c" stroke-width="2" opacity=".7"/>
+
+  <!-- Thin white blade, bold -->
   <g filter="url(#hlGlow)">
-    <path d="M256 112 L344 78 L360 94 L282 138 Z" fill="#ffffff" opacity=".9"/>
+    <path d="M290 110 L380 70 L394 88 L310 140 Z" fill="#ffffff" opacity=".95"/>
   </g>
-  <path d="M256 112 L344 78" fill="none" stroke="#ffffff" stroke-width="1.6" opacity="1"/>
-  <path d="M344 78 L360 94" fill="none" stroke="#ffffff" stroke-width="1.2" opacity=".8"/>
-  <path d="M282 138 L256 112" stroke="#cfe0ea" stroke-width="1.2" opacity=".8"/>
+  <path d="M290 110 L380 70" stroke="#ffffff" stroke-width="2"/>
+  <path d="M380 70 L394 88" stroke="#ffffff" stroke-width="1.4" opacity=".85"/>
+  <path d="M310 140 L290 110" stroke="#cfe0ea" stroke-width="1.4" opacity=".85"/>
 
-  <!-- Reflection points on the pole/glass -->
-  <g fill="#ffffff" opacity=".6">
-    <circle cx="184" cy="92" r="2"/><circle cx="166" cy="140" r="2"/><circle cx="152" cy="188" r="2"/>
-    <circle cx="146" cy="236" r="2"/><circle cx="152" cy="204" r="1.6"/>
+  <!-- white glow points -->
+  <g fill="#ffffff" filter="url(#hlGlow)">
+    <circle cx="204" cy="126" r="2.4"/><circle cx="190" cy="204" r="2.4"/>
+    <circle cx="186" cy="260" r="2"/><circle cx="188" cy="316" r="2"/>
   </g>
 
-  <!-- Homeward line fades when the bearer lies -->
-  <path d="M288 292 Q336 288 366 300" fill="none" stroke="#ffffff" stroke-width="1.4" opacity=".6"/>
-  <circle cx="288" cy="292" r="3.5" fill="#ffffff" opacity=".7"/>
+  <!-- Homeward line -->
+  <path d="M96 316 Q180 300 300 316" fill="none" stroke="#ffffff" stroke-width="1.6" opacity=".55"/>
+  <circle cx="96" cy="316" r="3.5" fill="#ffffff" opacity=".8"/>
+  <circle cx="300" cy="316" r="3.5" fill="#ffffff" opacity=".8"/>
+
+  <rect width="400" height="400" fill="url(#hlVign)"/>
 </svg>

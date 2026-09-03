@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE ABSOLUTE MAUL">
   <defs>
     <linearGradient id="amBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0e0e11"/>
-      <stop offset=".6" stop-color="#16161b"/>
-      <stop offset="1" stop-color="#050506"/>
+      <stop offset="0" stop-color="#17171d"/>
+      <stop offset=".5" stop-color="#0d0d10"/>
+      <stop offset="1" stop-color="#040406"/>
     </linearGradient>
+    <radialGradient id="amVign" cx=".5" cy=".4" r=".8">
+      <stop offset="0" stop-color="#16161b" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#0a0a0d" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#000" stop-opacity=".9"/>
+    </radialGradient>
     <linearGradient id="amHead" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#34343c"/>
-      <stop offset=".5" stop-color="#17171a"/>
-      <stop offset="1" stop-color="#0b0b0d"/>
-    </linearGradient>
-    <linearGradient id="amSide" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0b0b0d"/>
-      <stop offset=".5" stop-color="#45454d"/>
+      <stop offset="0" stop-color="#4a4a52"/>
+      <stop offset=".5" stop-color="#1c1c22"/>
       <stop offset="1" stop-color="#0b0b0d"/>
     </linearGradient>
     <filter id="amGlow" x="-50%" y="-50%" width="200%" height="200%">
@@ -22,56 +22,66 @@
 
   <rect width="400" height="400" fill="url(#amBg)"/>
 
-  <!-- Gantry beam over the maul -->
-  <path d="M96 48 L304 48 L304 72 L96 72 Z" fill="#0d0d0f" stroke="#3a3a40" stroke-width="1.2"/>
-  <path d="M126 48 L126 72 M274 48 L274 72" stroke="#565660" stroke-width="1.4"/>
-
-  <!-- Chain dropping from the gantry -->
-  <g stroke="#565660" stroke-width="1.4" opacity=".8">
-    <line x1="200" y1="72" x2="200" y2="86"/>
-    <line x1="200" y1="94" x2="200" y2="108"/>
+  <!-- Sealed Convergence chamber: containment pillars -->
+  <g stroke="#2c2c33" stroke-width="1.2" opacity=".5">
+    <line x1="70" y1="48" x2="70" y2="330"/>
+    <line x1="330" y1="48" x2="330" y2="330"/>
+    <line x1="70" y1="82" x2="330" y2="82"/>
+    <line x1="70" y1="280" x2="330" y2="280"/>
   </g>
-  <circle cx="200" cy="102" r="4" fill="#565660"/>
+  <g stroke="#3a3a40" stroke-width="1" opacity=".4">
+    <path d="M70 130 L330 130 M70 178 L330 178 M70 226 L330 226"/>
+  </g>
+  <!-- convergence field arcs -->
+  <g fill="none" stroke="#565660" opacity=".35" stroke-dasharray="4 6">
+    <path d="M30 140 Q200 100 370 140 M30 240 Q200 200 370 240"/>
+  </g>
 
-  <!-- Shadow arrives before the head: leading vertical smear -->
-  <path d="M172 116 L228 116 L226 210 L174 210 Z" fill="#040405" opacity=".9" filter="url(#amGlow)"/>
+  <!-- Gantry beam -->
+  <path d="M92 44 L308 44 L308 68 L92 68 Z" fill="#16161a" stroke="#3a3a40" stroke-width="1.2"/>
+  <path d="M122 44 L122 68 M278 44 L278 68" stroke="#565660" stroke-width="1.4"/>
+
+  <!-- Chain -->
+  <g stroke="#565660" stroke-width="1.6" opacity=".85">
+    <line x1="200" y1="68" x2="200" y2="82"/>
+    <line x1="200" y1="90" x2="200" y2="104"/>
+  </g>
+  <circle cx="200" cy="98" r="4.4" fill="#565660"/>
+
+  <!-- Shadow arrives first -->
+  <path d="M166 116 L234 116 L232 218 L168 218 Z" fill="#020203" opacity=".92" filter="url(#amGlow)"/>
 
   <!-- Tall sealed drop-head -->
-  <path d="M166 106 L234 106 L232 216 L168 216 Z"
-        fill="url(#amHead)" stroke="#565660" stroke-width="2.4"/>
-  <path d="M168 108 L232 108" stroke="#8a8f98" stroke-width="1.6" opacity=".7"/>
-  <path d="M166 110 L166 214" stroke="url(#amSide)" stroke-width="3"/>
+  <path d="M164 104 L236 104 L234 218 L166 218 Z" fill="url(#amHead)" stroke="#565660" stroke-width="2.6"/>
+  <path d="M166 106 L234 106" stroke="#8a8f98" stroke-width="1.8" opacity=".8"/>
+  <path d="M166 108 L166 216" stroke="#3a3a40" stroke-width="2"/>
 
-  <!-- Three shallow impressions stacked on the face -->
-  <!-- closed eye -->
-  <path d="M178 128 Q191 120 204 128 Q191 136 178 128 Z" fill="#0a0a0c" stroke="#6b6b76" stroke-width="1.2"/>
-  <path d="M191 128 L191 134" stroke="#6b6b76" stroke-width="1"/>
-  <!-- scale -->
-  <path d="M184 150 L190 150 M198 150 L204 150 M190 148 L190 164 M198 148 L198 164 M190 160 Q194 156 198 160" fill="none" stroke="#6b6b76" stroke-width="1"/>
-  <!-- folded wing -->
-  <path d="M182 176 Q191 166 200 172 Q194 182 190 192 Z M188 184 Q194 180 198 186 M193 194 Q200 190 205 196" fill="none" stroke="#6b6b76" stroke-width="1.2"/>
-  <g fill="#8a8f98" opacity=".4">
-    <circle cx="200" cy="130" r="2"/><circle cx="200" cy="164" r="2"/><circle cx="200" cy="200" r="2"/>
+  <!-- Three impressions stacked -->
+  <path d="M176 124 Q190 116 204 124 Q190 132 176 124 Z" fill="#0a0a0c" stroke="#8a8f98" stroke-width="1.2"/>
+  <path d="M190 124 L190 130" stroke="#8a8f98" stroke-width="1"/>
+  <path d="M182 148 L188 148 M198 148 L204 148 M188 146 L188 162 M198 146 L198 162 M188 158 Q193 154 198 158" fill="none" stroke="#8a8f98" stroke-width="1"/>
+  <path d="M182 174 Q190 164 198 170 Q192 180 188 190 Z M188 182 Q194 178 198 184 M192 194 Q198 190 202 196" fill="none" stroke="#8a8f98" stroke-width="1.2"/>
+  <g fill="#8a8f98" opacity=".45">
+    <circle cx="200" cy="126" r="2"/><circle cx="200" cy="162" r="2"/><circle cx="200" cy="198" r="2"/>
   </g>
 
-  <!-- Verdict shaft driven into the floor -->
-  <rect x="193" y="216" width="14" height="112" rx="4" fill="#131317" stroke="#3a3a40" stroke-width="1.4"/>
-  <path d="M193 232 L207 232 M193 252 L207 252 M193 272 L207 272 M193 292 L207 292" stroke="#0b0b0d" stroke-width="2" opacity=".6"/>
+  <!-- Verdict shaft -->
+  <rect x="193" y="218" width="14" height="110" rx="4" fill="#1c1c22" stroke="#3a3a40" stroke-width="1.6"/>
+  <path d="M193 234 L207 234 M193 254 L207 254 M193 274 L207 274 M193 294 L207 294" stroke="#0b0b0d" stroke-width="2" opacity=".7"/>
 
-  <!-- Floor with no visible crater -->
-  <path d="M70 330 L330 330 L308 360 L92 360 Z" fill="#0e0e11" stroke="#2c2c33" stroke-width="1.2"/>
-  <path d="M200 330 L204 360 L210 330" fill="#050506" stroke="#3a3a40" stroke-width=".8"/>
+  <!-- Floor with no crater -->
+  <path d="M70 330 L330 330 L308 360 L92 360 Z" fill="#0d0d0f" stroke="#2c2c33" stroke-width="1.2"/>
+  <path d="M200 330 L204 360 L210 330" fill="#040405" stroke="#3a3a40" stroke-width=".8"/>
 
-  <!-- Three names written around it in dust -->
-  <g fill="#8a8f98" opacity=".55">
-    <text x="110" y="300" font-size="11">name one</text>
-    <text x="252" y="310" font-size="11">name two</text>
-    <text x="150" y="336" font-size="11">name three</text>
+  <!-- Three names in dust -->
+  <g fill="#8a8f98" opacity=".6">
+    <text x="112" y="302" font-size="11">name one</text>
+    <text x="254" y="314" font-size="11">name two</text>
+    <text x="148" y="338" font-size="11">name three</text>
   </g>
   <g fill="#8a8f98" opacity=".3">
-    <circle cx="116" cy="292" r="1.4"/><circle cx="256" cy="302" r="1.4"/><circle cx="154" cy="328" r="1.4"/>
+    <circle cx="118" cy="294" r="1.4"/><circle cx="258" cy="306" r="1.4"/><circle cx="152" cy="330" r="1.4"/>
   </g>
 
-  <!-- No Appeal line in the dust -->
-  <path d="M96 320 L304 320" stroke="#565660" stroke-width="1" opacity=".35"/>
+  <rect width="400" height="400" fill="url(#amVign)"/>
 </svg>

@@ -1,71 +1,79 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LISTENING STONE">
   <defs>
-    <radialGradient id="stBg" cx=".34" cy=".44" r=".76">
-      <stop offset="0" stop-color="#0d2548"/>
-      <stop offset="1" stop-color="#02050f"/>
-    </radialGradient>
-    <linearGradient id="stStone" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#4f8fca"/>
-      <stop offset=".5" stop-color="#2f6fb5"/>
-      <stop offset="1" stop-color="#1c4a85"/>
+    <linearGradient id="lsBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#123a5f"/>
+      <stop offset=".5" stop-color="#0a2440"/>
+      <stop offset="1" stop-color="#040d1c"/>
     </linearGradient>
-    <radialGradient id="stWarm" cx=".5" cy=".5" r=".6">
-      <stop offset="0" stop-color="#9cd0ff" stop-opacity=".9"/>
-      <stop offset="1" stop-color="#2f6fb5" stop-opacity=".4"/>
+    <radialGradient id="lsVign" cx=".5" cy=".42" r=".8">
+      <stop offset="0" stop-color="#0e2c4d" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#08203a" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#020810" stop-opacity=".9"/>
     </radialGradient>
-    <filter id="stGlow" x="-60%" y="-60%" width="220%" height="220%">
+    <linearGradient id="lsStone" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5aa0d8"/>
+      <stop offset=".5" stop-color="#3f8fd0"/>
+      <stop offset="1" stop-color="#2a6ba2"/>
+    </linearGradient>
+    <radialGradient id="lsWarm" cx=".5" cy=".5" r=".6">
+      <stop offset="0" stop-color="#c8e6ff" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#3f8fd0" stop-opacity=".4"/>
+    </radialGradient>
+    <filter id="lsGlow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="4"/>
     </filter>
   </defs>
 
-  <rect width="400" height="400" fill="url(#stBg)"/>
+  <rect width="400" height="400" fill="url(#lsBg)"/>
 
-  <!-- The wall, old and layered -->
-  <path d="M40 40 L360 40 L360 360 L40 360 Z" fill="#08152a" stroke="#1f4f8c" stroke-width="1"/>
-  <g stroke="#173c6e" stroke-width=".8" opacity=".55">
-    <path d="M64 70 h160 M64 100 h120 M64 150 h200 M64 210 h170 M64 260 h140 M64 310 h220"/>
+  <!-- Condemned Old Lament block wall -->
+  <path d="M40 40 L360 40 L360 360 L40 360 Z" fill="#0d2a50" stroke="#2a6ba2" stroke-width="1.2"/>
+  <g stroke="#1f5188" stroke-width="1" opacity=".7">
+    <line x1="64" y1="70" x2="300" y2="70"/>
+    <line x1="64" y1="100" x2="220" y2="100"/>
+    <line x1="64" y1="150" x2="320" y2="150"/>
+    <line x1="64" y1="210" x2="290" y2="210"/>
+    <line x1="64" y1="260" x2="240" y2="260"/>
+    <line x1="64" y1="310" x2="300" y2="310"/>
   </g>
-  <path d="M120 70 Q160 160 120 320" fill="none" stroke="#102c55" stroke-width="1.2" opacity=".6"/>
-  <path d="M260 100 Q230 190 270 310" fill="none" stroke="#102c55" stroke-width="1.2" opacity=".6"/>
+  <path d="M120 70 Q160 180 122 328 M282 100 Q250 200 288 324" stroke="#123a5f" stroke-width="1.4" opacity=".6"/>
 
   <!-- The seam where the oldest accessible layer holds a sentence -->
-  <path d="M230 150 Q250 210 228 270" fill="none" stroke="#9cd0ff" stroke-width="1" opacity=".5" stroke-dasharray="3 3"/>
-  <circle cx="238" cy="206" r="6" fill="#9cd0ff" opacity=".55" filter="url(#stGlow)"/>
+  <path d="M228 150 Q250 212 226 274" fill="none" stroke="#9fd8ff" stroke-width="1.2" opacity=".6" stroke-dasharray="3 3"/>
+  <circle cx="238" cy="208" r="7" fill="#9fd8ff" opacity=".7" filter="url(#lsGlow)"/>
 
-  <!-- Flat face of the stone pressed to the wall -->
-  <g transform="rotate(-8 150 210)">
-    <ellipse cx="150" cy="210" rx="34" ry="38" fill="#12243d" stroke="#3e8bd5" stroke-width="1.2"/>
-    <ellipse cx="150" cy="210" rx="26" ry="30" fill="url(#stStone)" stroke="#9cd0ff" stroke-width="1.6"/>
-    <path d="M150 184 L150 240" stroke="#1c4a85" stroke-width="1.2" opacity=".7"/>
-    <path d="M132 210 L168 210" stroke="#1c4a85" stroke-width="1.2" opacity=".7"/>
-    <circle cx="150" cy="210" r="8" fill="url(#stWarm)" filter="url(#stGlow)"/>
+  <!-- Flat face stone pressed to wall -->
+  <g transform="rotate(-8 148 210)">
+    <ellipse cx="148" cy="210" rx="38" ry="42" fill="#123a5f" stroke="#3f8fd0" stroke-width="1.4"/>
+    <ellipse cx="148" cy="210" rx="29" ry="33" fill="url(#lsStone)" stroke="#9fd8ff" stroke-width="2"/>
+    <path d="M148 180 L148 240" stroke="#2a6ba2" stroke-width="1.4" opacity=".8"/>
+    <path d="M128 210 L168 210" stroke="#2a6ba2" stroke-width="1.4" opacity=".8"/>
+    <circle cx="148" cy="210" r="9" fill="url(#lsWarm)" filter="url(#lsGlow)"/>
   </g>
 
-  <!-- Warm point moves only where a whisper is ready -->
-  <circle cx="222" cy="196" r="5" fill="#9cd0ff" opacity=".8" filter="url(#stGlow)"/>
-  <circle cx="222" cy="196" r="12" fill="#9cd0ff" opacity=".2"/>
-  <path d="M272 210 Q200 216 172 210" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".5"/>
+  <!-- Warm point moves only where ready -->
+  <circle cx="224" cy="196" r="6" fill="#c8e6ff" opacity=".9" filter="url(#lsGlow)"/>
+  <circle cx="224" cy="196" r="14" fill="#c8e6ff" opacity=".2"/>
+  <path d="M272 212 Q200 218 178 210" fill="none" stroke="#6fb7ec" stroke-width="1.2" opacity=".6"/>
 
-  <!-- The one complete sentence rising from the seam -->
+  <!-- one complete sentence rising -->
   <g transform="rotate(-4 300 128)">
-    <rect x="248" y="116" width="108" height="26" rx="4" fill="#0d1f3d" stroke="#3e8bd5" stroke-width=".8"/>
-    <text x="258" y="128" font-size="8" fill="#cfe8ff">one sentence</text>
-    <text x="258" y="138" font-size="8" fill="#cfe8ff">from old layer</text>
+    <rect x="246" y="114" width="112" height="28" rx="4" fill="#0d2a50" stroke="#3f8fd0" stroke-width="1"/>
+    <path d="M258 124 L348 124 M258 132 L322 132" stroke="#9fd8ff" stroke-width="1" opacity=".8"/>
   </g>
-  <path d="M300 142 L268 188" stroke="#6fb7ec" stroke-width="1" opacity=".55"/>
+  <path d="M300 142 L266 190" stroke="#8fc9f2" stroke-width="1.2" opacity=".7"/>
 
-  <!-- The warning word coming too late but preventing a second collapse -->
-  <path d="M300 316 Q200 348 100 316" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".4"/>
-  <path d="M300 316 L288 308 M100 316 L112 308" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".5"/>
-  <path d="M160 322 l10 -14 3 16 z" fill="#9cd0ff" opacity=".6"/>
-  <path d="M236 326 l10 -14 3 16 z" fill="#9cd0ff" opacity=".6"/>
+  <!-- warning too late but prevents second collapse -->
+  <path d="M296 322 Q200 352 104 322" fill="none" stroke="#3f8fd0" stroke-width="1.2" opacity=".5"/>
+  <path d="M296 322 L284 314 M104 322 L116 314" fill="none" stroke="#3f8fd0" stroke-width="1.4" opacity=".6"/>
+  <path d="M158 330 l10 -14 3 16 z" fill="#9fd8ff" opacity=".7"/>
+  <path d="M238 332 l10 -14 3 16 z" fill="#9fd8ff" opacity=".7"/>
 
-  <!-- Background whispers after Hear the Seam -->
-  <g fill="#6fb7ec" opacity=".35">
-    <circle cx="78" cy="120" r="1.4"/>
-    <circle cx="104" cy="86" r="1.4"/>
-    <circle cx="330" cy="150" r="1.4"/>
-    <circle cx="348" cy="118" r="1.4"/>
-    <circle cx="58" cy="170" r="1.4"/>
+  <g fill="#8fc9f2" opacity=".5">
+    <circle cx="78" cy="120" r="1.8"/><circle cx="104" cy="84" r="1.8"/>
+    <circle cx="330" cy="148" r="1.8"/><circle cx="348" cy="116" r="1.8"/>
+    <circle cx="58" cy="172" r="1.8"/>
   </g>
+
+  <rect width="400" height="400" fill="url(#lsVign)"/>
 </svg>

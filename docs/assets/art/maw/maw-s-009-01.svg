@@ -1,17 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FORGOTTEN VEIL">
   <defs>
-    <radialGradient id="fvBg" cx=".5" cy=".4" r=".78">
-      <stop offset="0" stop-color="#c1ccd3"/>
-      <stop offset="1" stop-color="#4a555c"/>
+    <linearGradient id="fvBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a5070"/>
+      <stop offset=".5" stop-color="#24374f"/>
+      <stop offset="1" stop-color="#101b2a"/>
+    </linearGradient>
+    <radialGradient id="fvVign" cx=".5" cy=".4" r=".8">
+      <stop offset="0" stop-color="#20344e" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#17263b" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#0b1522" stop-opacity=".9"/>
     </radialGradient>
     <linearGradient id="fvPanel" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#f2f6f8" stop-opacity=".5"/>
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".5"/>
       <stop offset=".6" stop-color="#dbe4e9" stop-opacity=".3"/>
-      <stop offset="1" stop-color="#b9c7d0" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#b2c4d1" stop-opacity=".12"/>
     </linearGradient>
     <linearGradient id="fvEdge" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#ffffff" stop-opacity=".15"/>
-      <stop offset=".5" stop-color="#ffffff" stop-opacity=".85"/>
+      <stop offset=".5" stop-color="#ffffff" stop-opacity=".9"/>
       <stop offset="1" stop-color="#ffffff" stop-opacity=".15"/>
     </linearGradient>
     <filter id="fvBlur" x="-40%" y="-40%" width="180%" height="180%">
@@ -21,56 +27,66 @@
 
   <rect width="400" height="400" fill="url(#fvBg)"/>
 
-  <!-- Absence margin: the outside world does not retain the wearer -->
-  <g stroke="#8a9aa5" stroke-width="1" opacity=".4" stroke-dasharray="5 5">
-    <path d="M70 150 L120 158 M330 150 L280 158"/>
-    <path d="M64 214 L112 212 M336 214 L288 212"/>
-    <path d="M78 282 L126 280 M322 282 L274 280"/>
+  <!-- Archive columns with recorded positions -->
+  <g stroke="#48627f" stroke-width="1.2" opacity=".55">
+    <line x1="92" y1="58" x2="92" y2="322"/>
+    <line x1="308" y1="58" x2="308" y2="322"/>
+  </g>
+  <g stroke="#2c435f" stroke-width="1" opacity=".5">
+    <line x1="52" y1="86" x2="348" y2="86"/>
+    <line x1="52" y1="150" x2="348" y2="150"/>
+    <line x1="52" y1="214" x2="348" y2="214"/>
+    <line x1="52" y1="278" x2="348" y2="278"/>
   </g>
 
-  <!-- Hood held high on the head -->
-  <path d="M164 68 Q200 48 236 68 Q250 104 238 142 L162 142 Q150 104 164 68 Z"
-        fill="#eef3f6" fill-opacity=".32" stroke="#ffffff" stroke-width="1.8" opacity=".9"/>
-  <path d="M172 80 Q200 64 228 80" fill="none" stroke="#ffffff" stroke-width="1" opacity=".55"/>
-  <!-- faint head inside the hood -->
-  <ellipse cx="200" cy="112" rx="22" ry="24" fill="#8a9aa5" opacity=".25"/>
+  <!-- Absence margin -->
+  <g stroke="#6f89a3" stroke-width="1.2" opacity=".5" stroke-dasharray="5 5">
+    <path d="M56 160 L112 166 M344 160 L288 166"/>
+    <path d="M50 232 L108 230 M350 232 L292 230"/>
+  </g>
 
-  <!-- Ragged vertical curtain of staggered translucent panels -->
+  <!-- Hood held high -->
+  <path d="M158 66 Q200 44 242 66 Q256 102 244 142 L156 142 Q144 102 158 66 Z"
+        fill="#ffffff" fill-opacity=".3" stroke="#ffffff" stroke-width="2.2"/>
+  <path d="M168 78 Q200 62 232 78" fill="none" stroke="#ffffff" stroke-width="1.2" opacity=".6"/>
+  <ellipse cx="200" cy="112" rx="24" ry="26" fill="#8ba2b8" opacity=".3"/>
+
+  <!-- Ragged curtain of staggered translucent panels -->
   <g filter="url(#fvBlur)">
-    <path d="M160 142 L180 142 L172 216 L148 224 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1.2"/>
-    <path d="M176 142 L204 142 L206 190 L182 188 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1.2"/>
-    <path d="M200 142 L228 142 L224 230 L200 228 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1.2"/>
-    <path d="M224 142 L244 142 L252 204 L228 208 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1.2"/>
-    <!-- lower stagger -->
-    <path d="M148 224 L172 216 L178 294 L156 304 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1"/>
-    <path d="M182 188 L206 190 L210 246 L192 248 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1"/>
-    <path d="M200 228 L224 230 L222 310 L196 306 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1"/>
-    <path d="M228 208 L252 204 L248 290 L226 292 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1"/>
+    <path d="M152 142 L178 142 L170 220 L144 230 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1.4"/>
+    <path d="M174 142 L206 142 L208 196 L180 192 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1.4"/>
+    <path d="M202 142 L232 142 L228 236 L200 234 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1.4"/>
+    <path d="M228 142 L250 142 L258 210 L230 214 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1.4"/>
+    <path d="M144 230 L170 220 L176 300 L152 312 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1.2"/>
+    <path d="M180 192 L208 196 L212 254 L192 256 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1.2"/>
+    <path d="M200 234 L228 236 L226 316 L196 312 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1.2"/>
+    <path d="M230 214 L258 210 L252 300 L228 302 Z" fill="url(#fvPanel)" stroke="url(#fvEdge)" stroke-width="1.2"/>
   </g>
-  <!-- bottom ragged fringe -->
-  <path d="M156 304 L186 286 L184 316 L192 306 L196 322 L200 306 L206 320 L210 306 L222 292 L226 312 L248 290 L240 324 L172 322 Z"
-        fill="#dbe4e9" fill-opacity=".15" stroke="#ffffff" stroke-width="1" opacity=".6"/>
+  <path d="M152 312 L176 296 L174 320 L184 310 L188 326 L194 310 L198 324 L204 310 L212 318 L216 306 L226 318 L252 300 L244 328 L162 326 Z"
+        fill="#ffffff" fill-opacity=".16" stroke="#ffffff" stroke-width="1.2"/>
 
-  <!-- Where memory reaches for the wearer, the outline blurs away -->
-  <g filter="url(#fvBlur)" fill="none" stroke="url(#fvEdge)" stroke-width="1.2" opacity=".6">
-    <path d="M162 140 L156 176 L158 216 L168 252 L176 286"/>
-    <path d="M238 140 L244 176 L242 216 L230 252 L224 286"/>
+  <!-- blur outlines -->
+  <g filter="url(#fvBlur)" fill="none" stroke="url(#fvEdge)" stroke-width="1.4" opacity=".7">
+    <path d="M158 140 L152 178 L154 220 L164 260 L172 296"/>
+    <path d="M242 140 L248 178 L246 220 L234 260 L228 298"/>
   </g>
 
   <!-- Written position records: route log -->
-  <rect x="88" y="326" width="224" height="42" rx="4" fill="#eef3f6" stroke="#8a9aa5" stroke-width="1"/>
-  <g stroke="#5c676e" stroke-width="1" opacity=".6">
-    <line x1="110" y1="338" x2="292" y2="338"/>
-    <line x1="110" y1="350" x2="236" y2="350"/>
+  <rect x="86" y="322" width="228" height="46" rx="5" fill="#ffffff" stroke="#8ba2b8" stroke-width="1.4"/>
+  <g stroke="#3a5070" stroke-width="1.2" opacity=".7">
+    <line x1="108" y1="336" x2="292" y2="336"/>
+    <line x1="108" y1="350" x2="238" y2="350"/>
   </g>
-  <path d="M136 350 L206 350" stroke="#68737b" stroke-width="1.6" opacity=".7"/>
-  <circle cx="214" cy="350" r="5" fill="#68737b" opacity=".6"/>
+  <path d="M134 350 L206 350" stroke="#48627f" stroke-width="2" opacity=".8"/>
+  <circle cx="216" cy="350" r="6" fill="#48627f" opacity=".7"/>
 
-  <!-- Verbal check-in maintained beside the absence -->
-  <g stroke="#eef3f6" stroke-width="1.2" opacity=".5" fill="none">
-    <path d="M64 132 Q76 132 80 144"/>
-    <path d="M58 142 Q70 142 74 154"/>
-    <path d="M336 132 Q324 132 320 144"/>
-    <path d="M342 142 Q330 142 326 154"/>
+  <!-- verbal check-ins -->
+  <g stroke="#ffffff" stroke-width="1.4" opacity=".6" fill="none">
+    <path d="M60 122 Q74 122 78 136"/>
+    <path d="M54 134 Q68 134 72 148"/>
+    <path d="M340 122 Q326 122 322 136"/>
+    <path d="M346 134 Q332 134 328 148"/>
   </g>
+
+  <rect width="400" height="400" fill="url(#fvVign)"/>
 </svg>

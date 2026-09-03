@@ -1,19 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE HOPE VEIL">
   <defs>
-    <radialGradient id="hvBg" cx=".6" cy=".4" r=".78">
-      <stop offset="0" stop-color="#9aa8b2"/>
-      <stop offset="1" stop-color="#3c454b"/>
+    <linearGradient id="hvBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2c3136"/>
+      <stop offset=".5" stop-color="#1c2024"/>
+      <stop offset="1" stop-color="#0c0f12"/>
+    </linearGradient>
+    <radialGradient id="hvFog" cx=".5" cy=".4" r=".7">
+      <stop offset="0" stop-color="#4a555c" stop-opacity=".45"/>
+      <stop offset=".7" stop-color="#2c3136" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#0c0f12" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="hvVign" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c0f12" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#0c0f12" stop-opacity=".78"/>
+    </linearGradient>
     <linearGradient id="hvGossamer" x1="0" y1="0" x2="1" y2=".2">
-      <stop offset="0" stop-color="#f2f6f8" stop-opacity=".2"/>
-      <stop offset=".4" stop-color="#eef3f6" stop-opacity=".55"/>
+      <stop offset="0" stop-color="#eef3f6" stop-opacity=".12"/>
+      <stop offset=".4" stop-color="#ffffff" stop-opacity=".6"/>
       <stop offset=".7" stop-color="#dbe4e9" stop-opacity=".4"/>
       <stop offset="1" stop-color="#b9c7d0" stop-opacity=".15"/>
     </linearGradient>
     <linearGradient id="hvOutline" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ffffff" stop-opacity=".1"/>
-      <stop offset=".5" stop-color="#ffffff" stop-opacity=".95"/>
-      <stop offset="1" stop-color="#eef3f6" stop-opacity=".5"/>
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".12"/>
+      <stop offset=".5" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#eef3f6" stop-opacity=".55"/>
     </linearGradient>
     <filter id="hvGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="3"/>
@@ -21,51 +31,58 @@
   </defs>
 
   <rect width="400" height="400" fill="url(#hvBg)"/>
+  <ellipse cx="200" cy="190" rx="240" ry="190" fill="url(#hvFog)"/>
 
-  <!-- Fog bands -->
-  <g fill="none" stroke="#dbe4e9" stroke-width="1.4" opacity=".3">
-    <path d="M0 118 Q150 96 400 130"/>
-    <path d="M0 274 Q180 250 400 286"/>
+  <!-- fog layers -->
+  <g fill="none" stroke="#8aa0b0" stroke-width="1.4" opacity=".4">
+    <path d="M0 128 Q160 106 400 142"/>
+    <path d="M0 296 Q180 272 400 306"/>
+  </g>
+  <g stroke="#6a7680" stroke-width="1" opacity=".35">
+    <path d="M44 88 L356 88 M44 238 L356 238"/>
   </g>
 
-  <!-- Route walker facing right, small in the fog -->
-  <g>
-    <circle cx="258" cy="186" r="18" fill="#5a676f" opacity=".75"/>
-    <path d="M238 214 L258 202 L278 214 L282 292 L234 292 Z" fill="#5a676f" opacity=".75"/>
-    <path d="M246 238 L230 268 M270 238 L286 268" stroke="#5a676f" stroke-width="3" fill="none" opacity=".75"/>
+  <!-- Fake repeated hallway behind -->
+  <g stroke="#7b8994" stroke-width="1.2" opacity=".4" fill="none">
+    <path d="M76 72 L76 238 M324 72 L324 238 M76 104 L324 104 M76 172 L324 172"/>
   </g>
 
-  <!-- Hood crown around the walker -->
-  <path d="M228 156 Q258 136 292 158 Q300 182 292 200 Q258 214 228 198 Q220 178 228 156 Z"
-        fill="none" stroke="#eef3f6" stroke-width="2" opacity=".8"/>
+  <!-- Route walker (slightly larger, bold) -->
+  <circle cx="262" cy="186" r="22" fill="#5a676f" stroke="#a8b7c2" stroke-width="1.4"/>
+  <path d="M238 216 L262 202 L286 216 L292 300 L232 300 Z" fill="#4d585f" stroke="#a8b7c2" stroke-width="1"/>
+  <path d="M250 238 L234 272 M274 238 L290 272" stroke="#4d585f" stroke-width="4" fill="none"/>
 
-  <!-- Veil streaming left in the wind: long banner tail -->
-  <path d="M234 168 Q200 150 158 158 Q104 168 52 140 Q20 122 8 96 Q40 110 96 116 Q148 120 190 132 Q216 140 236 160 Q252 174 250 192 Q228 192 204 186 Q146 174 98 186 Q48 198 14 182 Q56 206 116 206 Q170 206 224 204 L270 206 Z"
-        fill="url(#hvGossamer)" stroke="url(#hvOutline)" stroke-width="2" opacity=".9"/>
+  <!-- Hood -->
+  <path d="M232 156 Q262 136 296 158 Q304 182 296 202 Q262 216 232 200 Q224 180 232 156 Z"
+        fill="none" stroke="#ffffff" stroke-width="3" opacity=".95"/>
 
-  <!-- Loose outline of points of light along the banner -->
+  <!-- Bold veil banner streaming left -->
+  <path d="M238 170 Q200 150 158 158 Q104 168 52 140 Q20 122 8 96 Q40 110 96 116 Q148 120 190 132 Q216 140 238 162 Q254 176 252 194 Q230 194 204 188 Q146 176 98 188 Q48 200 14 184 Q56 208 116 208 Q170 208 224 206 L276 208 Z"
+        fill="url(#hvGossamer)" stroke="url(#hvOutline)" stroke-width="3" opacity=".95"/>
+
+  <!-- loose point outline -->
   <g fill="#ffffff" filter="url(#hvGlow)">
-    <circle cx="252" cy="160" r="2.6"/><circle cx="214" cy="152" r="2.4"/>
-    <circle cx="174" cy="158" r="2.2"/><circle cx="132" cy="164" r="2"/>
-    <circle cx="90" cy="168" r="1.8"/><circle cx="52" cy="166" r="1.6"/>
-    <circle cx="20" cy="152" r="1.5"/><circle cx="252" cy="192" r="2.4"/>
-    <circle cx="216" cy="198" r="2.2"/><circle cx="178" cy="202" r="2"/>
-    <circle cx="140" cy="200" r="1.8"/><circle cx="102" cy="202" r="1.6"/>
-    <circle cx="66" cy="198" r="1.5"/><circle cx="34" cy="192" r="1.4"/>
+    <circle cx="252" cy="164" r="3"/><circle cx="214" cy="154" r="2.6"/>
+    <circle cx="174" cy="160" r="2.4"/><circle cx="132" cy="166" r="2.2"/>
+    <circle cx="90" cy="170" r="2"/><circle cx="52" cy="168" r="1.8"/>
+    <circle cx="20" cy="154" r="1.7"/><circle cx="252" cy="196" r="2.6"/>
+    <circle cx="216" cy="202" r="2.4"/><circle cx="178" cy="206" r="2.2"/>
+    <circle cx="140" cy="204" r="2"/><circle cx="102" cy="206" r="1.8"/>
+    <circle cx="66" cy="202" r="1.7"/><circle cx="34" cy="196" r="1.6"/>
   </g>
-  <path d="M20 152 Q52 166 90 168 Q132 164 174 158 Q214 152 252 160 Q252 192 216 198 Q178 202 140 200 Q102 202 66 198 Q34 192 20 152 Z"
-        fill="none" stroke="#ffffff" stroke-width=".8" opacity=".5"/>
+  <path d="M20 154 Q52 168 90 170 Q132 166 174 160 Q214 154 252 164 Q252 196 216 202 Q178 206 140 204 Q102 206 66 202 Q34 196 20 154 Z"
+        fill="none" stroke="#ffffff" stroke-width="1" opacity=".75"/>
 
-  <!-- Route card: the honest destination -->
-  <rect x="244" y="246" width="108" height="30" rx="4" fill="#eef3f6" stroke="#8a9aa5" stroke-width="1.2" opacity=".9"/>
-  <g stroke="#5c676e" stroke-width="1" opacity=".6">
-    <line x1="256" y1="256" x2="340" y2="256"/>
-    <line x1="256" y1="264" x2="316" y2="264"/>
+  <!-- Route card (bold) -->
+  <rect x="246" y="248" width="120" height="36" rx="6" fill="#ffffff" stroke="#8a9aa5" stroke-width="1.8"/>
+  <g stroke="#5c676e" stroke-width="1.4" opacity=".7">
+    <line x1="260" y1="260" x2="352" y2="260"/><line x1="260" y1="270" x2="324" y2="270"/>
   </g>
-  <path d="M258 250 L266 258" stroke="#cfe0ea" stroke-width="1.2" opacity=".7"/>
 
-  <!-- Route anchor line -->
-  <path d="M292 300 Q258 316 246 340 M292 300 Q326 316 338 340" fill="none" stroke="#eef3f6" stroke-width="1.2" opacity=".5"/>
-  <circle cx="246" cy="340" r="3.5" fill="#ffffff" opacity=".7"/>
-  <circle cx="338" cy="340" r="3.5" fill="#ffffff" opacity=".7"/>
+  <!-- Route anchor -->
+  <path d="M296 304 Q258 320 248 346 M296 304 Q334 320 344 346" fill="none" stroke="#ffffff" stroke-width="1.6" opacity=".7"/>
+  <circle cx="248" cy="346" r="4" fill="#ffffff" opacity=".85"/>
+  <circle cx="344" cy="346" r="4" fill="#ffffff" opacity=".85"/>
+
+  <rect width="400" height="400" fill="url(#hvVign)"/>
 </svg>

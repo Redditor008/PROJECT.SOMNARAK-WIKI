@@ -1,13 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE ABSOLUTE VERDICT">
   <defs>
-    <radialGradient id="avBg" cx=".46" cy=".4" r=".74">
+    <linearGradient id="avBg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#1d1d22"/>
+      <stop offset=".5" stop-color="#111114"/>
       <stop offset="1" stop-color="#050506"/>
+    </linearGradient>
+    <radialGradient id="avVign" cx=".5" cy=".4" r=".8">
+      <stop offset="0" stop-color="#16161b" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#0a0a0d" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#000" stop-opacity=".9"/>
     </radialGradient>
     <linearGradient id="avPlate" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#38383f"/>
-      <stop offset=".5" stop-color="#17171a"/>
-      <stop offset="1" stop-color="#0d0d0f"/>
+      <stop offset="0" stop-color="#3c3c44"/>
+      <stop offset=".5" stop-color="#18181c"/>
+      <stop offset="1" stop-color="#0c0c0e"/>
     </linearGradient>
     <filter id="avGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2"/>
@@ -16,52 +22,57 @@
 
   <rect width="400" height="400" fill="url(#avBg)"/>
 
-  <!-- The nineteen unsaved as a field of pressure -->
-  <g fill="#565660" opacity=".35">
-    <circle cx="90" cy="112" r="3"/><circle cx="122" cy="88" r="3"/><circle cx="158" cy="66" r="3"/>
-    <circle cx="200" cy="56" r="3"/><circle cx="242" cy="66" r="3"/><circle cx="278" cy="88" r="3"/>
-    <circle cx="310" cy="112" r="3"/><circle cx="70" cy="150" r="3"/><circle cx="330" cy="150" r="3"/>
-    <circle cx="92" cy="186" r="3"/><circle cx="308" cy="186" r="3"/><circle cx="120" cy="216" r="3"/>
-    <circle cx="280" cy="216" r="3"/><circle cx="150" cy="238" r="3"/><circle cx="250" cy="238" r="3"/>
-    <circle cx="176" cy="254" r="3"/><circle cx="224" cy="254" r="3"/><circle cx="200" cy="264" r="3"/>
-    <circle cx="200" cy="300" r="3"/>
+  <!-- The nineteen unsaved -->
+  <g fill="#565660" opacity=".4">
+    <circle cx="90" cy="106" r="3"/><circle cx="122" cy="82" r="3"/><circle cx="158" cy="60" r="3"/>
+    <circle cx="200" cy="50" r="3"/><circle cx="242" cy="60" r="3"/><circle cx="278" cy="82" r="3"/>
+    <circle cx="310" cy="106" r="3"/><circle cx="70" cy="144" r="3"/><circle cx="330" cy="144" r="3"/>
+    <circle cx="92" cy="180" r="3"/><circle cx="308" cy="180" r="3"/><circle cx="120" cy="210" r="3"/>
+    <circle cx="280" cy="210" r="3"/><circle cx="150" cy="232" r="3"/><circle cx="250" cy="232" r="3"/>
+    <circle cx="176" cy="248" r="3"/><circle cx="224" cy="248" r="3"/><circle cx="200" cy="258" r="3"/>
+    <circle cx="200" cy="296" r="3"/>
   </g>
-  <g stroke="#565660" stroke-width="1" opacity=".3" stroke-dasharray="3 3">
-    <path d="M70 130 Q150 118 200 130 Q250 118 330 130"/>
-    <path d="M92 200 Q200 180 308 200"/>
+  <g stroke="#565660" stroke-width="1" opacity=".35" stroke-dasharray="3 3">
+    <path d="M70 124 Q150 112 200 124 Q250 112 330 124"/>
+    <path d="M92 196 Q200 176 308 196"/>
+  </g>
+
+  <!-- Judgment field rings -->
+  <g stroke="#565660" stroke-width="1" opacity=".3">
+    <circle cx="200" cy="200" r="76"/><circle cx="200" cy="200" r="120"/><circle cx="200" cy="200" r="164"/>
   </g>
 
   <!-- Chain -->
-  <path d="M200 48 L200 84" stroke="#565660" stroke-width="1.6"/>
-  <circle cx="200" cy="46" r="4" fill="#6b6b76"/>
+  <path d="M200 42 L200 82" stroke="#565660" stroke-width="1.8"/>
+  <circle cx="200" cy="40" r="4.6" fill="#6b6b76"/>
 
   <!-- Downward-triangular verdict plate -->
-  <path d="M200 84 L292 232 Q200 276 108 232 Z" fill="url(#avPlate)" stroke="#565660" stroke-width="2.4"/>
-  <path d="M200 84 L292 232 Q200 276 108 232 Z" fill="none" stroke="#2c2c33" stroke-width="1" opacity=".6"/>
+  <path d="M200 82 L296 236 Q200 282 104 236 Z" fill="url(#avPlate)" stroke="#565660" stroke-width="2.6"/>
+  <path d="M200 82 L296 236 Q200 282 104 236 Z" fill="none" stroke="#2c2c33" stroke-width="1" opacity=".6"/>
 
-  <!-- Closed eye at the crown -->
-  <path d="M176 120 Q188 112 200 120 Q188 128 176 120 Z" fill="#0a0a0c" stroke="#8a8f98" stroke-width="1.2"/>
-  <path d="M188 120 L188 128" stroke="#8a8f98" stroke-width="1"/>
+  <!-- Closed eye crown -->
+  <path d="M174 122 Q188 112 202 122 Q188 132 174 122 Z" fill="#0a0a0c" stroke="#8a8f98" stroke-width="1.2"/>
+  <path d="M188 122 L188 130" stroke="#8a8f98" stroke-width="1"/>
 
-  <!-- Scale down the left face -->
-  <path d="M154 168 L154 206" stroke="#8a8f98" stroke-width="1.6"/>
-  <path d="M140 174 Q154 166 168 174" fill="none" stroke="#8a8f98" stroke-width="1.3"/>
-  <path d="M140 174 L140 190 Q154 198 168 190 L168 174" fill="none" stroke="#8a8f98" stroke-width="1.1"/>
-  <path d="M148 192 Q154 188 160 192" stroke="#8a8f98" stroke-width="1" opacity=".6"/>
+  <!-- Scale left -->
+  <path d="M152 168 L152 208" stroke="#8a8f98" stroke-width="1.8"/>
+  <path d="M138 176 Q152 168 166 176" fill="none" stroke="#8a8f98" stroke-width="1.4"/>
+  <path d="M138 176 L138 192 Q152 200 166 192 L166 176" fill="none" stroke="#8a8f98" stroke-width="1.2"/>
+  <path d="M146 194 Q152 190 158 194" stroke="#8a8f98" stroke-width="1" opacity=".7"/>
 
-  <!-- Folded wing down the right face -->
-  <path d="M226 168 Q236 156 250 164 Q240 174 236 190 Z" fill="none" stroke="#8a8f98" stroke-width="1.4"/>
-  <path d="M232 178 Q240 174 246 182 M238 194 Q246 190 252 198" fill="none" stroke="#8a8f98" stroke-width="1" opacity=".7"/>
+  <!-- Folded wing right -->
+  <path d="M228 170 Q238 156 252 164 Q242 176 238 192 Z" fill="none" stroke="#8a8f98" stroke-width="1.5"/>
+  <path d="M234 180 Q242 176 248 184 M240 196 Q248 192 254 200" fill="none" stroke="#8a8f98" stroke-width="1" opacity=".8"/>
 
-  <!-- The verdict grows heavy on self-excuse -->
-  <path d="M206 244 Q200 258 194 244" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".6"/>
-  <circle cx="200" cy="252" r="4" fill="#8a8f98" opacity=".6"/>
+  <!-- Heavy on self-excuse -->
+  <path d="M206 246 Q200 260 194 246" fill="none" stroke="#8a8f98" stroke-width="1.4" opacity=".7"/>
+  <circle cx="200" cy="256" r="4.4" fill="#8a8f98" opacity=".7"/>
 
-  <!-- Sentence pressure: nothing gets past judgment, including allies -->
-  <g stroke="#565660" stroke-width="1" opacity=".35">
-    <path d="M150 300 L250 300 M160 320 L240 320 M182 340 L218 340"/>
-  </g>
+  <!-- Sentence pressure field -->
+  <path d="M148 304 L252 304 M162 322 L238 322 M184 340 L216 340" stroke="#565660" stroke-width="1.2" opacity=".4"/>
   <g filter="url(#avGlow)">
-    <circle cx="200" cy="252" r="26" fill="none" stroke="#8a8f98" stroke-width=".8" opacity=".5"/>
+    <circle cx="200" cy="256" r="28" fill="none" stroke="#8a8f98" stroke-width=".8" opacity=".55"/>
   </g>
+
+  <rect width="400" height="400" fill="url(#avVign)"/>
 </svg>

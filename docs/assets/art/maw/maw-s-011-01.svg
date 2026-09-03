@@ -1,18 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LISTENING SHROUD">
   <defs>
-    <radialGradient id="lsBg" cx=".42" cy=".36" r=".78">
-      <stop offset="0" stop-color="#0d2548"/>
-      <stop offset="1" stop-color="#02050f"/>
+    <linearGradient id="lsBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#123a5f"/>
+      <stop offset=".5" stop-color="#0a2440"/>
+      <stop offset="1" stop-color="#040d1c"/>
+    </linearGradient>
+    <radialGradient id="lsVign" cx=".5" cy=".42" r=".8">
+      <stop offset="0" stop-color="#0e2c4d" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#08203a" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#020810" stop-opacity=".9"/>
     </radialGradient>
     <linearGradient id="lsSilk" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#2f6fb5"/>
-      <stop offset=".45" stop-color="#1c4a85"/>
-      <stop offset="1" stop-color="#102c55"/>
+      <stop offset="0" stop-color="#4a9fd8"/>
+      <stop offset=".45" stop-color="#2a72a8"/>
+      <stop offset="1" stop-color="#123a5f"/>
     </linearGradient>
     <linearGradient id="lsChannel" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#cfe8ff" stop-opacity=".15"/>
-      <stop offset=".5" stop-color="#dff0ff" stop-opacity=".9"/>
-      <stop offset="1" stop-color="#cfe8ff" stop-opacity=".15"/>
+      <stop offset="0" stop-color="#c8e6ff" stop-opacity=".15"/>
+      <stop offset=".5" stop-color="#d6ecff" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#c8e6ff" stop-opacity=".15"/>
     </linearGradient>
     <filter id="lsGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2"/>
@@ -22,63 +28,56 @@
   <rect width="400" height="400" fill="url(#lsBg)"/>
 
   <!-- Wall chorus behind -->
-  <g fill="none" stroke="#1f4f8c" stroke-width=".8" opacity=".5">
-    <path d="M20 92 Q60 84 100 92"/>
-    <path d="M300 92 Q340 84 380 92"/>
-    <path d="M20 150 Q60 142 100 150"/>
-    <path d="M300 150 Q340 142 380 150"/>
-    <path d="M20 208 Q60 200 100 208"/>
-    <path d="M300 208 Q340 200 380 208"/>
-    <path d="M20 266 Q60 258 100 266"/>
-    <path d="M300 266 Q340 258 380 266"/>
+  <g stroke="#2a6ba2" stroke-width="1" opacity=".6" fill="none">
+    <path d="M18 92 Q60 82 100 92"/>
+    <path d="M300 92 Q340 82 382 92"/>
+    <path d="M18 152 Q60 142 100 152"/>
+    <path d="M300 152 Q340 142 382 152"/>
+    <path d="M18 212 Q60 202 100 212"/>
+    <path d="M300 212 Q340 202 382 212"/>
+    <path d="M18 270 Q60 260 100 270"/>
+    <path d="M300 270 Q340 260 382 270"/>
   </g>
-  <g fill="#1f4f8c" opacity=".45">
-    <circle cx="44" cy="92" r="2"/>
-    <circle cx="356" cy="92" r="2"/>
-    <circle cx="44" cy="150" r="2"/>
-    <circle cx="356" cy="150" r="2"/>
-    <circle cx="44" cy="208" r="2"/>
-    <circle cx="356" cy="208" r="2"/>
-    <circle cx="44" cy="266" r="2"/>
-    <circle cx="356" cy="266" r="2"/>
+  <g fill="#2a6ba2" opacity=".6">
+    <circle cx="44" cy="92" r="2.4"/><circle cx="356" cy="92" r="2.4"/>
+    <circle cx="44" cy="152" r="2.4"/><circle cx="356" cy="152" r="2.4"/>
+    <circle cx="44" cy="212" r="2.4"/><circle cx="356" cy="212" r="2.4"/>
+    <circle cx="44" cy="270" r="2.4"/><circle cx="356" cy="270" r="2.4"/>
   </g>
 
   <!-- Shroud covering shoulders + head -->
-  <path d="M124 92 Q200 66 276 92 L292 230 Q200 286 108 230 Z"
-        fill="url(#lsSilk)" stroke="#3e8bd5" stroke-width="2" opacity=".95"/>
-  <path d="M150 92 Q158 158 146 252 L170 244 L174 108 Z" fill="#2f6fb5" fill-opacity=".85"/>
-  <path d="M250 92 Q242 158 254 252 L230 244 L226 108 Z" fill="#2f6fb5" fill-opacity=".85"/>
-  <path d="M159 86 Q200 74 241 86 L244 112 Q200 128 156 112 Z" fill="#0d1f3d" stroke="#1f4f8c" stroke-width="1.2"/>
+  <path d="M122 92 Q200 64 278 92 L294 232 Q200 288 106 232 Z"
+        fill="url(#lsSilk)" stroke="#6fb7ec" stroke-width="2.6"/>
+  <path d="M148 92 Q156 158 144 254 L170 246 L174 108 Z" fill="#2a72a8" fill-opacity=".9"/>
+  <path d="M252 92 Q244 158 256 254 L230 246 L226 108 Z" fill="#2a72a8" fill-opacity=".9"/>
+  <path d="M158 86 Q200 74 242 86 L246 112 Q200 128 154 112 Z" fill="#0d2a50" stroke="#3f8fd0" stroke-width="1.4"/>
 
-  <!-- Clear Channel: one selected voice is isolated -->
-  <path d="M60 196 Q140 172 200 182 Q264 192 340 164" fill="none" stroke="url(#lsChannel)" stroke-width="2.2" filter="url(#lsGlow)"/>
-  <circle cx="200" cy="182" r="5" fill="#dff0ff" filter="url(#lsGlow)"/>
+  <!-- Clear Channel: one voice isolated -->
+  <path d="M56 200 Q140 174 200 184 Q264 194 344 164" fill="none" stroke="url(#lsChannel)" stroke-width="2.6" filter="url(#lsGlow)"/>
+  <circle cx="200" cy="184" r="6" fill="#d6ecff" filter="url(#lsGlow)"/>
 
-  <!-- The delayed chorus waiting outside the shroud -->
-  <g fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".4" stroke-dasharray="3 3">
-    <path d="M52 172 Q90 164 128 176"/>
-    <path d="M272 176 Q310 164 348 172"/>
-    <path d="M52 224 Q90 216 128 228"/>
-    <path d="M272 228 Q310 216 348 224"/>
+  <!-- Delayed chorus outside -->
+  <g fill="none" stroke="#6fb7ec" stroke-width="1.2" opacity=".5" stroke-dasharray="3 3">
+    <path d="M50 172 Q90 162 130 176"/>
+    <path d="M270 176 Q310 162 350 172"/>
+    <path d="M50 228 Q90 218 130 232"/>
+    <path d="M270 232 Q310 218 350 228"/>
   </g>
-  <g fill="#3e8bd5" opacity=".35">
-    <circle cx="84" cy="176" r="1.5"/>
-    <circle cx="316" cy="176" r="1.5"/>
-    <circle cx="84" cy="228" r="1.5"/>
-    <circle cx="316" cy="228" r="1.5"/>
+  <g fill="#6fb7ec" opacity=".45">
+    <circle cx="84" cy="176" r="1.8"/><circle cx="316" cy="176" r="1.8"/>
+    <circle cx="84" cy="232" r="1.8"/><circle cx="316" cy="232" r="1.8"/>
   </g>
 
-  <!-- The one voice isolated at the seam -->
-  <text transform="rotate(-8 84 236)" font-size="9" fill="#cfe8ff" opacity=".7">"def"</text>
-  <path d="M106 240 L150 236 Q170 234 188 228" stroke="#cfe8ff" stroke-width="1" opacity=".6"/>
+  <!-- the one voice isolated -->
+  <path d="M104 244 L150 240 Q170 238 188 232" fill="none" stroke="#d6ecff" stroke-width="1.2" opacity=".7"/>
+  <circle cx="188" cy="232" r="3" fill="#d6ecff" filter="url(#lsGlow)"/>
 
-  <!-- Minor joys kept distant -->
-  <g fill="#cfe8ff" opacity=".3">
-    <circle cx="70" cy="302" r="2"/>
-    <circle cx="96" cy="294" r="1.6"/>
-    <circle cx="120" cy="286" r="1.3"/>
-    <circle cx="280" cy="286" r="1.3"/>
-    <circle cx="304" cy="294" r="1.6"/>
-    <circle cx="330" cy="302" r="2"/>
+  <!-- minor joys distant -->
+  <g fill="#c8e6ff" opacity=".4">
+    <circle cx="70" cy="302" r="2.4"/><circle cx="96" cy="294" r="2"/>
+    <circle cx="120" cy="286" r="1.8"/><circle cx="280" cy="286" r="1.8"/>
+    <circle cx="304" cy="294" r="2"/><circle cx="330" cy="302" r="2.4"/>
   </g>
+
+  <rect width="400" height="400" fill="url(#lsVign)"/>
 </svg>

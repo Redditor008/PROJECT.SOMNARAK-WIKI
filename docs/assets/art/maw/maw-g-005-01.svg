@@ -1,74 +1,73 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE EMBRACE">
   <defs>
-    <radialGradient id="embBg" cx=".52" cy=".42" r=".68">
-      <stop offset="0" stop-color="#2a0d11"/>
-      <stop offset="1" stop-color="#0b0406"/>
+    <linearGradient id="emBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a0b0b"/>
+      <stop offset=".5" stop-color="#1c0505"/>
+      <stop offset="1" stop-color="#070202"/>
+    </linearGradient>
+    <radialGradient id="emVign" cx=".5" cy=".4" r=".78">
+      <stop offset="0" stop-color="#1c0505" stop-opacity="0"/>
+      <stop offset=".72" stop-color="#0d0303" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#020101" stop-opacity=".9"/>
     </radialGradient>
-    <linearGradient id="embHook" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#e87078"/>
-      <stop offset="1" stop-color="#6e1119"/>
+    <linearGradient id="emClasp" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d9435a"/>
+      <stop offset=".55" stop-color="#8f1f33"/>
+      <stop offset="1" stop-color="#3a0c16"/>
     </linearGradient>
-    <linearGradient id="embArm" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#c22c36"/>
-      <stop offset=".5" stop-color="#e87078"/>
-      <stop offset="1" stop-color="#8f1a22"/>
-    </linearGradient>
-    <filter id="embGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <filter id="emGlow" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="3"/>
     </filter>
   </defs>
 
-  <rect width="400" height="400" fill="url(#embBg)"/>
+  <rect width="400" height="400" fill="url(#emBg)"/>
 
-  <!-- Clothing seam the clasp has fastened itself to -->
-  <path d="M108 150 Q200 178 292 150" fill="none" stroke="#7a1520" stroke-width="2" opacity=".7"/>
-  <path d="M112 190 Q200 222 288 190" fill="none" stroke="#5a0e14" stroke-width="1.4" opacity=".55"/>
-  <g stroke="#5a0e14" stroke-width="1" opacity=".5">
-    <path d="M140 162 L136 178"/>
-    <path d="M172 170 L168 188"/>
-    <path d="M228 170 L232 188"/>
-    <path d="M260 162 L264 178"/>
+  <!-- South Dock fire environment, ruined walkway -->
+  <g stroke="#5a2222" stroke-width="1" opacity=".5" fill="none">
+    <path d="M48 66 L48 330 M352 66 L352 330 M48 100 L352 100 M48 258 L352 258"/>
+  </g>
+  <g stroke="#802f33" stroke-width="1.2" opacity=".4" fill="none">
+    <path d="M60 236 L160 222 L220 242 M340 236 L240 222 L180 242"/>
+  </g>
+  <!-- fire embers -->
+  <g fill="#d9435a" opacity=".4" filter="url(#emGlow)">
+    <circle cx="84" cy="120" r="2"/><circle cx="120" cy="88" r="2"/>
+    <circle cx="300" cy="180" r="2"/><circle cx="330" cy="120" r="2"/>
   </g>
 
-  <!-- Tail attachment loop -->
-  <path d="M200 176 Q214 152 200 134 Q186 152 200 176" fill="none" stroke="#e87078" stroke-width="2" opacity=".6"/>
-  <path d="M200 134 Q200 120 200 110" stroke="#c22c36" stroke-width="2"/>
-
-  <!-- Two small arms meeting at the wrists, holding the clasp -->
-  <path d="M112 148 Q166 132 196 150 Q204 156 196 166 Q166 184 116 178 Q104 166 112 148 Z"
-        fill="url(#embArm)" stroke="#ff9ca0" stroke-width="2"/>
-  <circle cx="116" cy="154" r="7" fill="#e87078" stroke="#ffd3d4" stroke-width="1.2"/>
-  <path d="M116 162 L116 178" stroke="#6e1119" stroke-width="1.4"/>
-  <circle cx="112" cy="148" r="3" fill="#ffd3d4" opacity=".7"/>
-
-  <path d="M288 148 Q234 132 204 150 Q196 156 204 166 Q234 184 284 178 Q296 166 288 148 Z"
-        fill="url(#embArm)" stroke="#ff9ca0" stroke-width="2"/>
-  <circle cx="284" cy="154" r="7" fill="#e87078" stroke="#ffd3d4" stroke-width="1.2"/>
-  <path d="M284 162 L284 178" stroke="#6e1119" stroke-width="1.4"/>
-  <circle cx="288" cy="148" r="3" fill="#ffd3d4" opacity=".7"/>
-
-  <!-- Wrists where the two arms meet -->
-  <path d="M192 144 Q200 158 208 144 Q202 164 192 164 Q186 156 192 144 Z" fill="#8f1a22"/>
-  <circle cx="200" cy="154" r="5" fill="#ffd3d4" opacity=".8" filter="url(#embGlow)"/>
-
-  <!-- Hold-fast restraint lines -->
-  <g stroke="#ffd3d4" stroke-width="1.4" opacity=".5">
-    <path d="M96 210 Q200 244 304 210"/>
-    <path d="M104 234 Q200 266 296 234"/>
-  </g>
-  <circle cx="102" cy="210" r="3.5" fill="#ff9ca0" opacity=".7"/>
-  <circle cx="298" cy="210" r="3.5" fill="#ff9ca0" opacity=".7"/>
-  <circle cx="110" cy="234" r="3.5" fill="#ff9ca0" opacity=".7"/>
-  <circle cx="290" cy="234" r="3.5" fill="#ff9ca0" opacity=".7"/>
-
-  <!-- Second pair of arms, only partially visible -->
-  <g stroke="#e87078" stroke-width="1.6" opacity=".4" fill="none" filter="url(#embGlow)">
-    <path d="M146 116 Q196 104 236 118"/>
-    <path d="M164 132 Q200 124 236 132"/>
+  <!-- Clothing seam / tail attachment -->
+  <path d="M130 286 L270 286 L258 314 L142 314 Z" fill="#160707" stroke="#5a2222" stroke-width="1"/>
+  <g stroke="#802f33" stroke-width="1" opacity=".6">
+    <path d="M150 296 L250 296 M150 304 L238 304"/>
   </g>
 
-  <!-- South Dock fire child, held in place -->
-  <path d="M200 258 L200 286" stroke="#ffd3d4" stroke-width="1.6" opacity=".7"/>
-  <circle cx="200" cy="254" r="6" fill="#ff9ca0" opacity=".8"/>
-  <path d="M200 286 Q220 293 240 286" stroke="#ffd3d4" stroke-width="1.6" opacity=".6" fill="none"/>
+  <!-- Crimson clasp: two small arms meeting at the wrists -->
+  <g filter="url(#emGlow)">
+    <path d="M160 182 Q150 202 172 218 Q196 236 214 228 L206 222 Q192 226 180 214 Q168 202 178 184 Z"
+          fill="url(#emClasp)" stroke="#f78a9b" stroke-width="1.6"/>
+    <path d="M240 182 Q250 202 228 218 Q204 236 186 228 L194 222 Q208 226 220 214 Q232 202 222 184 Z"
+          fill="url(#emClasp)" stroke="#f78a9b" stroke-width="1.6"/>
+  </g>
+  <!-- wrists meeting -->
+  <circle cx="200" cy="236" r="7" fill="#5a101d" stroke="#f78a9b" stroke-width="1.6"/>
+  <circle cx="200" cy="236" r="2.6" fill="#f78a9b" filter="url(#emGlow)"/>
+
+  <!-- Hold Fast: prevents one ally from being moved / pulled -->
+  <path d="M230 248 Q270 272 302 262 L312 272" fill="none" stroke="#f78a9b" stroke-width="1.6" opacity=".7"/>
+  <path d="M170 248 Q130 272 98 262 L88 272" fill="none" stroke="#f78a9b" stroke-width="1.6" opacity=".7"/>
+  <circle cx="304" cy="284" r="6" fill="none" stroke="#f78a9b" stroke-width="1.2" opacity=".7"/>
+  <circle cx="96" cy="284" r="6" fill="none" stroke="#f78a9b" stroke-width="1.2" opacity=".7"/>
+
+  <!-- Warm when someone nearby is frightened -->
+  <g fill="none" stroke="#d9435a" opacity=".4" filter="url(#emGlow)">
+    <circle cx="200" cy="236" r="28"/><circle cx="200" cy="236" r="48"/>
+  </g>
+
+  <!-- Evacuation list read aloud -->
+  <path d="M118 334 Q200 322 282 334" fill="none" stroke="#f78a9b" stroke-width="1" opacity=".45" stroke-dasharray="4 4"/>
+  <g fill="#f78a9b" opacity=".5">
+    <circle cx="140" cy="330" r="2"/><circle cx="200" cy="326" r="2"/><circle cx="260" cy="330" r="2"/>
+  </g>
+
+  <rect width="400" height="400" fill="url(#emVign)"/>
 </svg>

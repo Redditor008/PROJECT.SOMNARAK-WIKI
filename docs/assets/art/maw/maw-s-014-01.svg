@@ -1,13 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DEBT VEIL">
   <defs>
-    <radialGradient id="dvBg" cx=".5" cy=".4" r=".78">
-      <stop offset="0" stop-color="#c1ccd3"/>
+    <linearGradient id="dvBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#bec9d0"/>
+      <stop offset=".5" stop-color="#8a979e"/>
       <stop offset="1" stop-color="#4a555c"/>
+    </linearGradient>
+    <radialGradient id="dvVign" cx=".5" cy=".42" r=".8">
+      <stop offset="0" stop-color="#8a979e" stop-opacity="0"/>
+      <stop offset=".72" stop-color="#5c686f" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#2c3033" stop-opacity=".72"/>
     </radialGradient>
     <linearGradient id="dvWrap" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#f2f6f8" stop-opacity=".55"/>
-      <stop offset=".6" stop-color="#dbe4e9" stop-opacity=".35"/>
-      <stop offset="1" stop-color="#b9c7d0" stop-opacity=".2"/>
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".58"/>
+      <stop offset=".6" stop-color="#edf2f5" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#bec9d0" stop-opacity=".18"/>
     </linearGradient>
     <linearGradient id="dvWitness" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#ffffff" stop-opacity=".15"/>
@@ -21,60 +27,68 @@
 
   <rect width="400" height="400" fill="url(#dvBg)"/>
 
-  <!-- Wearer head/neck emerging above the wrap -->
-  <ellipse cx="200" cy="112" rx="26" ry="30" fill="#1f272b" opacity=".45"/>
-  <path d="M180 130 Q200 118 220 130" fill="none" stroke="#5a676f" stroke-width="1.2" opacity=".6"/>
-
-  <!-- Transparent torso wrap, ending at mid-body -->
-  <g filter="url(#dvGlow)">
-    <path d="M158 140 L242 140 L246 202 Q200 230 154 202 Z"
-          fill="url(#dvWrap)" stroke="#eef3f6" stroke-width="1.4" opacity=".9"/>
+  <!-- R.D. record room environment -->
+  <g stroke="#6f7d86" stroke-width="1.2" opacity=".5">
+    <path d="M52 58 L52 336 M348 58 L348 336 M52 94 L348 94 M52 244 L348 244"/>
   </g>
-  <!-- crossing bandages -->
-  <g fill="none" stroke="#eef3f6" stroke-width="1.4" opacity=".6">
+  <g fill="#7d8b93" opacity=".35">
+    <rect x="66" y="70" width="26" height="8"/><rect x="104" y="70" width="32" height="8"/><rect x="66" y="106" width="20" height="8"/>
+    <rect x="66" y="150" width="38" height="8"/><rect x="116" y="150" width="20" height="8"/>
+  </g>
+
+  <!-- Wearer head/neck above the wrap -->
+  <ellipse cx="200" cy="112" rx="26" ry="30" fill="#5c686f" opacity=".4"/>
+  <path d="M180 130 Q200 118 220 130" fill="none" stroke="#5c686f" stroke-width="1.4" opacity=".65"/>
+
+  <!-- Transparent torso wrap -->
+  <g filter="url(#dvGlow)">
+    <path d="M158 140 L242 140 L246 202 Q200 230 154 202 Z" fill="url(#dvWrap)" stroke="#ffffff" stroke-width="1.8"/>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-width="1.6" opacity=".75">
     <path d="M160 150 L240 170 M160 170 L240 190 M158 186 L238 204 M162 160 L238 180"/>
   </g>
-  <!-- shoulder straps -->
-  <path d="M158 140 Q170 126 182 134 L176 152 Z" fill="#cfe0ea" fill-opacity=".2" stroke="#eef3f6" stroke-width="1"/>
-  <path d="M242 140 Q230 126 218 134 L224 152 Z" fill="#cfe0ea" fill-opacity=".2" stroke="#eef3f6" stroke-width="1"/>
+  <path d="M158 140 Q170 126 182 134 L176 152 Z" fill="#edf2f5" fill-opacity=".2" stroke="#ffffff" stroke-width="1"/>
+  <path d="M242 140 Q230 126 218 134 L224 152 Z" fill="#edf2f5" fill-opacity=".2" stroke="#ffffff" stroke-width="1"/>
 
-  <!-- Cutaway hem shows the debt hanging in open air below -->
-  <path d="M154 202 Q200 230 246 202 L254 214 Q200 240 146 214 Z" fill="#b9c7d0" fill-opacity=".12" stroke="#eef3f6" stroke-width="1" opacity=".6"/>
+  <!-- cutaway hem -->
+  <path d="M154 202 Q200 230 246 202 L254 214 Q200 240 146 214 Z" fill="#bec9d0" fill-opacity=".15" stroke="#ffffff" stroke-width="1" opacity=".7"/>
 
-  <!-- Suspended low-grade debt mark on a thread -->
-  <path d="M200 214 L200 258" stroke="#93a3ad" stroke-width="1.2" opacity=".6" stroke-dasharray="3 3"/>
+  <!-- suspended low-grade debt mark -->
+  <path d="M200 214 L200 258" stroke="#8a979e" stroke-width="1.4" opacity=".7" stroke-dasharray="3 3"/>
   <g transform="rotate(6 200 272)" filter="url(#dvGlow)">
-    <circle cx="200" cy="272" r="17" fill="none" stroke="#68737b" stroke-width="1.4" opacity=".8"/>
-    <path d="M192 264 L200 254 L208 264" fill="none" stroke="#68737b" stroke-width="1.4" opacity=".8"/>
-    <path d="M188 280 Q200 290 212 280" fill="none" stroke="#68737b" stroke-width="1.2" opacity=".7"/>
-    <path d="M200 254 L200 272 L194 280" stroke="#68737b" stroke-width="1" opacity=".7" fill="none"/>
+    <circle cx="200" cy="272" r="19" fill="none" stroke="#6f7d86" stroke-width="1.6" opacity=".85"/>
+    <path d="M191 263 L200 252 L209 263" fill="none" stroke="#6f7d86" stroke-width="1.6" opacity=".85"/>
+    <path d="M187 280 Q200 291 213 280" fill="none" stroke="#6f7d86" stroke-width="1.4" opacity=".8"/>
+    <path d="M200 252 L200 272 L194 280" stroke="#6f7d86" stroke-width="1.1" opacity=".8" fill="none"/>
   </g>
 
-  <!-- Second stored mark: both return at once -->
-  <circle cx="248" cy="264" r="12" fill="#93a3ad" opacity=".5"/>
-  <circle cx="248" cy="264" r="7" fill="none" stroke="#68737b" stroke-width="1" opacity=".5"/>
-  <path d="M244 256 L248 252 L252 256" stroke="#68737b" stroke-width="1" opacity=".5" fill="none"/>
+  <!-- second mark -->
+  <circle cx="250" cy="264" r="13" fill="#8a979e" opacity=".55"/>
+  <circle cx="250" cy="264" r="8" fill="none" stroke="#6f7d86" stroke-width="1.2" opacity=".6"/>
+  <path d="M246 255 L250 251 L254 255" stroke="#6f7d86" stroke-width="1.2" opacity=".6" fill="none"/>
 
-  <!-- Memory blackout: 6 hours -->
+  <!-- six hour blackout -->
   <g filter="url(#dvGlow)">
-    <ellipse cx="200" cy="306" rx="84" ry="20" fill="#1f272b" opacity=".88"/>
+    <ellipse cx="200" cy="306" rx="86" ry="21" fill="#3c454b" opacity=".88"/>
   </g>
-  <ellipse cx="200" cy="306" rx="84" ry="20" fill="#1f272b" stroke="#5a676f" stroke-width="1" opacity=".88"/>
-  <text x="144" y="311" fill="#8a9aa5" opacity=".7" font-size="10">6 HRS BLACKOUT</text>
+  <ellipse cx="200" cy="306" rx="86" ry="21" fill="#3c454b" stroke="#6f7d86" stroke-width="1.2" opacity=".88"/>
+  <text x="146" y="311" fill="#a9b7c0" opacity=".85" font-size="10">6 HRS BLACKOUT</text>
 
-  <!-- Witness at removal: required -->
-  <g stroke="url(#dvWitness)" stroke-width="1.4" opacity=".7" fill="none">
+  <!-- witness at removal -->
+  <g stroke="url(#dvWitness)" stroke-width="1.6" opacity=".8" fill="none">
     <path d="M96 322 L152 330"/>
-    <circle cx="88" cy="330" r="7" fill="none" stroke="#eef3f6"/>
-    <path d="M80 324 Q88 320 96 324" stroke="#eef3f6" stroke-width="1.2"/>
+    <circle cx="88" cy="330" r="8" fill="none" stroke="#ffffff"/>
+    <path d="M80 323 Q88 318 96 323" stroke="#ffffff" stroke-width="1.4"/>
     <path d="M304 322 L248 330"/>
-    <circle cx="312" cy="330" r="7" fill="none" stroke="#eef3f6"/>
-    <path d="M320 324 Q312 320 304 324" stroke="#eef3f6" stroke-width="1.2"/>
+    <circle cx="312" cy="330" r="8" fill="none" stroke="#ffffff"/>
+    <path d="M320 323 Q312 318 304 323" stroke="#ffffff" stroke-width="1.4"/>
   </g>
 
-  <!-- Facing the law / accountability, not hiding -->
-  <path d="M84 364 Q200 352 316 364" fill="none" stroke="#5a676f" stroke-width="1" opacity=".5"/>
-  <g fill="#eef3f6" opacity=".6">
-    <circle cx="120" cy="358" r="2"/><circle cx="200" cy="354" r="2"/><circle cx="280" cy="358" r="2"/>
+  <!-- accountability -->
+  <path d="M84 364 Q200 352 316 364" fill="none" stroke="#6f7d86" stroke-width="1.2" opacity=".6"/>
+  <g fill="#ffffff" opacity=".7">
+    <circle cx="120" cy="358" r="2.4"/><circle cx="200" cy="354" r="2.4"/><circle cx="280" cy="358" r="2.4"/>
   </g>
+
+  <rect width="400" height="400" fill="url(#dvVign)"/>
 </svg>

@@ -1,18 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DEBT LENS">
   <defs>
-    <radialGradient id="dlBg" cx=".46" cy=".42" r=".74">
-      <stop offset="0" stop-color="#eef3f6"/>
-      <stop offset=".58" stop-color="#becad2"/>
-      <stop offset="1" stop-color="#4f5a61"/>
+    <radialGradient id="dlBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#bec9d0"/>
+      <stop offset=".5" stop-color="#8a979e"/>
+      <stop offset="1" stop-color="#4a555c"/>
+    </radialGradient>
+    <radialGradient id="dlVign" cx=".5" cy=".42" r=".8">
+      <stop offset="0" stop-color="#8a979e" stop-opacity="0"/>
+      <stop offset=".72" stop-color="#5c686f" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#2c3033" stop-opacity=".72"/>
     </radialGradient>
     <radialGradient id="dlGlass" cx=".44" cy=".4" r=".58">
-      <stop offset="0" stop-color="#ffffff" stop-opacity=".92"/>
-      <stop offset=".55" stop-color="#dbe4e9" stop-opacity=".72"/>
-      <stop offset="1" stop-color="#93a3ad" stop-opacity=".88"/>
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".96"/>
+      <stop offset=".55" stop-color="#edf2f5" stop-opacity=".86"/>
+      <stop offset="1" stop-color="#a9b7c0" stop-opacity=".92"/>
     </radialGradient>
     <linearGradient id="dlFrame" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#8a9aa5"/>
-      <stop offset="1" stop-color="#3c454b"/>
+      <stop offset="0" stop-color="#a9b7c0"/>
+      <stop offset="1" stop-color="#4a555c"/>
     </linearGradient>
     <filter id="dlGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="4"/>
@@ -21,9 +26,19 @@
 
   <rect width="400" height="400" fill="url(#dlBg)"/>
 
-  <!-- Archive ledger behind the lens: inherited medical burden -->
-  <rect x="148" y="100" width="120" height="150" rx="4" fill="#f2f6f8" stroke="#8a9aa5" stroke-width="1.4" opacity=".9"/>
-  <g stroke="#5c676e" stroke-width="1" opacity=".6">
+  <!-- Archive ledger wall -->
+  <g stroke="#6f7d86" stroke-width="1.2" opacity=".5">
+    <path d="M52 60 L52 334 M348 60 L348 334 M52 94 L348 94 M52 158 L348 158 M52 234 L348 234"/>
+  </g>
+  <g fill="#7d8b93" opacity=".35">
+    <rect x="66" y="72" width="28" height="8"/><rect x="110" y="72" width="34" height="8"/>
+    <rect x="66" y="106" width="40" height="8"/><rect x="122" y="106" width="26" height="8"/>
+    <rect x="66" y="176" width="34" height="8"/><rect x="116" y="176" width="40" height="8"/>
+  </g>
+
+  <!-- Ledger behind: inherited medical burden -->
+  <rect x="148" y="100" width="120" height="150" rx="5" fill="#ffffff" stroke="#8a979e" stroke-width="1.6" opacity=".95"/>
+  <g stroke="#6f7d86" stroke-width="1.2" opacity=".75">
     <line x1="162" y1="120" x2="254" y2="120"/>
     <line x1="162" y1="136" x2="232" y2="136"/>
     <line x1="162" y1="152" x2="248" y2="152"/>
@@ -31,52 +46,48 @@
     <line x1="162" y1="202" x2="226" y2="202"/>
     <line x1="162" y1="218" x2="240" y2="218"/>
   </g>
-  <!-- a small child's mark on the ledger -->
-  <path d="M180 168 L210 168 L210 178 L195 186 L180 178 Z" fill="#7d8b93" opacity=".55"/>
-  <circle cx="190" cy="174" r="5" fill="#5c676e" opacity=".45"/>
-  <circle cx="204" cy="174" r="5" fill="#5c676e" opacity=".45"/>
+  <path d="M180 168 L210 168 L210 178 L195 186 L180 178 Z" fill="#8a979e" opacity=".6"/>
+  <circle cx="190" cy="174" r="5" fill="#6f7d86" opacity=".5"/><circle cx="204" cy="174" r="5" fill="#6f7d86" opacity=".5"/>
 
-  <!-- Pale lens clipped into the squared bracket, tilted -->
+  <!-- Pale lens in squared bracket, tilted -->
   <g transform="rotate(-10 208 172)">
-    <circle cx="208" cy="172" r="66" fill="url(#dlGlass)" stroke="#93a3ad" stroke-width="2.2"/>
-    <circle cx="208" cy="172" r="54" fill="none" stroke="#eef3f6" stroke-width="1" opacity=".6"/>
-    <!-- cloudy read on unacknowledged obligation -->
+    <circle cx="208" cy="172" r="70" fill="url(#dlGlass)" stroke="#a9b7c0" stroke-width="2.6"/>
+    <circle cx="208" cy="172" r="58" fill="none" stroke="#ffffff" stroke-width="1.4" opacity=".7"/>
     <g filter="url(#dlGlow)">
-      <ellipse cx="192" cy="160" rx="30" ry="24" fill="#93a3ad" opacity=".35"/>
-      <ellipse cx="228" cy="186" rx="26" ry="20" fill="#b9c7d0" opacity=".3"/>
+      <ellipse cx="190" cy="158" rx="32" ry="25" fill="#8a979e" opacity=".4"/>
+      <ellipse cx="230" cy="186" rx="28" ry="21" fill="#a9b7c0" opacity=".35"/>
     </g>
-    <g fill="#93a3ad" opacity=".5">
-      <circle cx="190" cy="150" r="4"/><circle cx="236" cy="158" r="4"/><circle cx="220" cy="188" r="4"/>
-      <circle cx="182" cy="188" r="3"/><circle cx="246" cy="182" r="3"/>
+    <g fill="#7d8b93" opacity=".6">
+      <circle cx="190" cy="148" r="4.4"/><circle cx="236" cy="158" r="4.4"/>
+      <circle cx="220" cy="188" r="4.4"/><circle cx="182" cy="188" r="3.4"/>
+      <circle cx="246" cy="182" r="3.4"/>
     </g>
-    <!-- named obligation clears a narrow line -->
-    <path d="M164 200 L208 176 L252 200" fill="none" stroke="#ffffff" stroke-width="1.6" opacity=".8"/>
+    <path d="M160 202 L208 176 L256 202" fill="none" stroke="#ffffff" stroke-width="1.8" opacity=".9"/>
   </g>
-  <!-- clamp hinge at the top -->
-  <path d="M152 76 L264 76 L258 96 L158 96 Z" fill="url(#dlFrame)" stroke="#2a3338" stroke-width="1.2"/>
-  <circle cx="200" cy="76" r="4" fill="#68737b"/>
+  <path d="M152 76 L264 76 L258 96 L158 96 Z" fill="url(#dlFrame)" stroke="#4a555c" stroke-width="1.4"/>
+  <circle cx="200" cy="76" r="4.4" fill="#7d8b93"/>
 
-  <!-- Retractable handle projecting down-right -->
+  <!-- Retractable handle -->
   <g transform="rotate(18 300 260)">
-    <rect x="288" y="248" width="14" height="92" rx="7" fill="url(#dlFrame)" stroke="#2a3338" stroke-width="1.2"/>
-    <path d="M288 268 L302 268 M288 290 L302 290 M288 312 L302 312" stroke="#2a3338" stroke-width="1.2" opacity=".7"/>
+    <rect x="288" y="248" width="14" height="92" rx="7" fill="url(#dlFrame)" stroke="#4a555c" stroke-width="1.4"/>
+    <path d="M288 268 L302 268 M288 290 L302 290 M288 312 L302 312" stroke="#4a555c" stroke-width="1.2" opacity=".7"/>
   </g>
-  <circle cx="306" cy="342" r="5" fill="#58636b"/>
+  <circle cx="306" cy="342" r="5" fill="#6f7d86"/>
 
-  <!-- Read the Account: accuracy, not justice -->
-  <path d="M96 84 L120 106 L108 118" fill="none" stroke="#5c676e" stroke-width="1.4" opacity=".6"/>
-  <path d="M304 84 L280 106 L292 118" fill="none" stroke="#5c676e" stroke-width="1.4" opacity=".6"/>
-
-  <!-- inherited vs imposed vs chosen labels on the ledger -->
-  <g fill="#4f5a61" opacity=".6">
+  <!-- Read the Account labels -->
+  <g fill="#3c454b" opacity=".7">
     <text x="162" y="118" font-size="9">inherited</text>
     <text x="162" y="134" font-size="9">imposed?</text>
     <text x="162" y="150" font-size="9">chosen?</text>
   </g>
+  <path d="M96 84 L120 106 L108 118" fill="none" stroke="#6f7d86" stroke-width="1.6" opacity=".7"/>
+  <path d="M304 84 L280 106 L292 118" fill="none" stroke="#6f7d86" stroke-width="1.6" opacity=".7"/>
 
-  <!-- The line where accuracy did not produce justice -->
-  <path d="M66 348 L150 336 L200 340 L262 332 L340 348" fill="none" stroke="#5c676e" stroke-width="1.2" opacity=".4"/>
-  <circle cx="80" cy="346" r="2.4" fill="#5c676e" opacity=".4"/>
-  <circle cx="200" cy="340" r="2.4" fill="#5c676e" opacity=".4"/>
-  <circle cx="320" cy="344" r="2.4" fill="#5c676e" opacity=".4"/>
+  <!-- accuracy, not justice -->
+  <path d="M66 348 L150 336 L200 340 L262 332 L340 348" fill="none" stroke="#6f7d86" stroke-width="1.2" opacity=".5"/>
+  <circle cx="80" cy="346" r="2.4" fill="#6f7d86" opacity=".5"/>
+  <circle cx="200" cy="340" r="2.4" fill="#6f7d86" opacity=".5"/>
+  <circle cx="320" cy="344" r="2.4" fill="#6f7d86" opacity=".5"/>
+
+  <rect width="400" height="400" fill="url(#dlVign)"/>
 </svg>
