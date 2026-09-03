@@ -7020,26 +7020,52 @@ table td img,
    COMPREHENSIVE LAYOUT & SIDE-TABLE FIXES
    ========================================================================= */
 
-/* Fix 2-Column Article Grid (Main Content Left + Side Table Right) */
-.entity-article,
+/* Fix 2-Column Article Grid (Main Content Left + Side Table Right).
+   2026-09-01: corrected against the REAL DOM (verified on all 197 pages
+   with jsdom). Record pages look like this:
+     .entity-columns / .item-columns   <- the two-column wrapper
+       .entity-article                  <- written text ONLY (single child)
+       .entity-infobox / .item-infobox  <- profile table sibling (right)
+   Department/lore pages look like this:
+     .character-article.wiki-article-grid   <- the two-column wrapper
+       .character-main-content
+       .character-infobox
+   So the OUTER wrapper owns the split, .entity-article is a plain block
+   (a grid here created a 300px dead zone right of the text), and the
+   character/lore wrappers only go two-column when they actually carry
+   an infobox child. DESKTOP-ONLY wiki (owner policy): unconditional at
+   every window width - no mobile stacking, ever. This also overrides
+   the legacy 760px one-column collapse in the legacy block at the top
+   of the file. */
+.entity-columns,
+.item-columns {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) 300px !important;
+  gap: 25px !important;
+  align-items: start !important;
+}
+.entity-article {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
 .character-article,
 .wiki-article-grid {
   display: grid !important;
-  grid-template-columns: minmax(0, 1fr) 340px !important;
-  gap: 32px !important;
+  grid-template-columns: minmax(0, 1fr) 300px !important;
+  gap: 20px !important;
   align-items: start !important;
   width: 100% !important;
   max-width: 100% !important;
   box-sizing: border-box !important;
   margin-bottom: 2.5rem !important;
 }
-
-@media (max-width: 1080px) {
-  .entity-article,
-  .character-article,
-  .wiki-article-grid {
-    grid-template-columns: 1fr !important;
-  }
+/* The three records that carry no infobox child: no 300px dead zone.
+   Browsers without :has() simply keep the two-column grid (harmless). */
+.character-article:not(:has(> .character-infobox)),
+.wiki-article-grid:not(:has(> .character-infobox)) {
+  display: block !important;
 }
 
 /* Ensure ALL text containers stay inside boxes without overflow */
@@ -7066,7 +7092,7 @@ table td img,
 .character-infobox,
 .item-infobox {
   width: 100% !important;
-  max-width: 340px !important;
+  max-width: 300px !important;
   box-sizing: border-box !important;
   background: #080d16 !important;
   border: 2px solid var(--entity, #f1df76) !important;
@@ -12548,4 +12574,867 @@ body .tale-main { padding: 24px clamp(18px, 3vw, 46px) 54px !important; }
 
 @media print {
   aside.left-rail[data-component="global-left-sidebar"] { display: none !important; }
+}
+
+/* ==========================================================================
+   RIGHT RAIL — FACILITY 01 HAZARD CONSOLE (home page only)
+   L-Corp industrial parity with the canonical left rail: layered dark
+   gradient, edge accent strips, signal header, coded rows, mirrored hover.
+   Reference: REFERENCE_SOMNARAK_WIKI/tools/build_perfect_rails_and_styles.py
+   Canonical component block — keep at END of stylesheet (RULE A4.4).
+   ========================================================================== */
+body.home-page .floor-rail {
+  --rail-gold: #f1df76;
+  --rail-cyan: #38bdf8;
+  --rail-red: #ef5b55;
+  --rail-green: #71efaf;
+  position: relative !important;
+  display: block !important;
+  align-self: stretch !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+  padding: 11px 10px 16px !important;
+  overflow: visible !important;
+  isolation: isolate;
+  color: #dce7ef !important;
+  border: 0 !important;
+  border-left: 1px solid #34495a !important;
+  background:
+    linear-gradient(90deg, transparent 0 8px, rgba(241,223,118,.08) 8px 9px, transparent 9px),
+    repeating-linear-gradient(0deg, rgba(255,255,255,.018) 0 1px, transparent 1px 4px),
+    radial-gradient(circle at 50% 92px, rgba(241,223,118,.13), transparent 150px),
+    linear-gradient(180deg, #07101a 0%, #03070c 56%, #070b10 100%) !important;
+  box-shadow:
+    inset 10px 0 28px rgba(0,0,0,.72),
+    inset 1px 0 0 rgba(241,223,118,.12),
+    -9px 0 24px rgba(0,0,0,.3) !important;
+}
+body.home-page .floor-rail::before,
+body.home-page .floor-rail::after {
+  content: "";
+  position: absolute;
+  z-index: 2;
+  left: -2px;
+  width: 3px;
+  height: 84px;
+  pointer-events: none;
+}
+body.home-page .floor-rail::before {
+  top: 0;
+  background: linear-gradient(180deg, var(--rail-gold), transparent);
+  box-shadow: 0 0 12px rgba(241,223,118,.32);
+}
+body.home-page .floor-rail::after {
+  bottom: 0;
+  background: linear-gradient(0deg, var(--rail-cyan), transparent);
+  box-shadow: 0 0 12px rgba(56,189,248,.3);
+}
+
+/* Signal header — mirrors the left rail's site-mark header + L-Corp header rule */
+body.home-page .floor-rail > h2 {
+  position: relative;
+  margin: 0 0 13px !important;
+  padding: 10px 10px 12px !important;
+  text-align: center !important;
+  color: var(--rail-gold) !important;
+  font: 1.35rem/1 Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: .14em !important;
+  text-transform: uppercase;
+  text-shadow: 0 0 12px rgba(241,223,118,.35);
+  border: 1px solid #26394a !important;
+  border-bottom: 2px solid var(--rail-red) !important;
+  background:
+    repeating-linear-gradient(0deg, rgba(255,255,255,.015) 0 1px, transparent 1px 4px),
+    rgba(4,10,16,.9);
+}
+body.home-page .floor-rail > h2::before {
+  content: "/// DEPARTMENT CONSOLE // HAND OF CHANGE";
+  display: block;
+  margin: 0 0 8px;
+  color: var(--rail-cyan) !important;
+  font: 700 .5rem/1 "Courier New", monospace !important;
+  letter-spacing: .16em;
+  text-shadow: none;
+}
+body.home-page .floor-rail > h2::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 50%;
+  width: 64px;
+  height: 3px;
+  transform: translateX(-50%);
+  background: linear-gradient(90deg, transparent, var(--rail-gold), transparent);
+  box-shadow: 0 0 9px rgba(241,223,118,.35);
+}
+
+/* Floor rows — coded terminal rows with per-floor accent + hazard hover */
+body.home-page .floor-button {
+  position: relative;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  gap: 8px;
+  width: 100% !important;
+  min-width: 0 !important;
+  min-height: 54px !important;
+  margin: 6px 0 !important;
+  padding: 7px 10px 7px 0 !important;
+  box-sizing: border-box;
+  overflow: hidden;
+  color: #d8e2e9 !important;
+  border: 1px solid #24394a !important;
+  border-left: 3px solid color-mix(in srgb, var(--floor) 58%, #24394a) !important;
+  border-radius: 3px;
+  background: rgba(3,8,13,.54) !important;
+  text-decoration: none !important;
+  transition: color .16s ease, background .16s ease, border-color .16s ease, box-shadow .16s ease, transform .16s ease !important;
+}
+body.home-page .floor-button::before {
+  content: "///";
+  position: static !important;
+  display: grid;
+  place-items: center;
+  align-self: stretch;
+  min-width: 27px;
+  flex: 0 0 27px;
+  color: #5c7585;
+  border-right: 1px solid #243747;
+  font: 700 .5rem/1 "Courier New", monospace !important;
+  letter-spacing: -.06em;
+}
+body.home-page .floor-button span {
+  display: block !important;
+  min-width: 0;
+  flex: 1 1 auto;
+  color: inherit !important;
+  font: 700 .68rem/1.12 Arial, "Segoe UI", sans-serif !important;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  overflow: hidden;
+}
+body.home-page .floor-button small {
+  display: block;
+  margin-top: 4px;
+  overflow: hidden;
+  color: #698091 !important;
+  font: 700 .44rem/1 "Courier New", monospace !important;
+  letter-spacing: .055em !important;
+  text-transform: uppercase;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+body.home-page .floor-button img {
+  width: 38px !important;
+  height: 38px !important;
+  min-width: 38px !important;
+  max-width: 38px !important;
+  flex: 0 0 38px;
+  object-fit: contain;
+  border-radius: 50% !important;
+  border: 1.5px solid color-mix(in srgb, var(--floor) 62%, #24394a) !important;
+  background: #05070c;
+  box-shadow: 0 0 0 3px rgba(0,0,0,.35), 0 0 10px color-mix(in srgb, var(--floor) 22%, transparent);
+  transition: transform .2s cubic-bezier(.16,1,.3,1), border-color .2s ease, box-shadow .2s ease;
+}
+body.home-page .floor-button:hover,
+body.home-page .floor-button:focus-visible {
+  z-index: 1;
+  color: #fff !important;
+  border-color: color-mix(in srgb, var(--floor) 58%, #213444) !important;
+  border-left-color: var(--floor) !important;
+  background: linear-gradient(90deg, color-mix(in srgb, var(--floor) 14%, #06101a), #07101a) !important;
+  box-shadow: inset 3px 0 0 var(--floor), 0 0 14px color-mix(in srgb, var(--floor) 26%, transparent);
+  outline: none;
+  transform: translateX(-2px);
+}
+body.home-page .floor-button:hover::before,
+body.home-page .floor-button:focus-visible::before { color: var(--floor); }
+body.home-page .floor-button:hover small,
+body.home-page .floor-button:focus-visible small { color: #9fb4c2; }
+body.home-page .floor-button:hover img,
+body.home-page .floor-button:focus-visible img {
+  transform: scale(1.12) rotate(3deg);
+  border-color: var(--floor) !important;
+  box-shadow: 0 0 0 3px rgba(0,0,0,.35), 0 0 14px color-mix(in srgb, var(--floor) 55%, transparent);
+}
+
+/* Action buttons — L-Corp heavy hazard actions (red stripe, gold frame) */
+body.home-page .rail-action {
+  position: relative;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  gap: 8px;
+  width: 100% !important;
+  min-width: 0;
+  box-sizing: border-box;
+  margin: 6px 0 0 !important;
+  padding: 11px 12px 11px 40px !important;
+  overflow: hidden;
+  color: #fff !important;
+  font: 1rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: .1em !important;
+  text-transform: uppercase;
+  border: 2px solid var(--rail-gold) !important;
+  border-radius: 3px;
+  background: linear-gradient(90deg, #141c2c 0%, #090e18 100%) !important;
+  box-shadow: 0 0 16px rgba(241,223,118,.18), 0 4px 12px rgba(0,0,0,.6);
+  text-decoration: none !important;
+  transition: transform .2s ease, box-shadow .2s ease, background .2s ease, border-color .2s ease;
+}
+body.home-page .floor-button + .rail-action { margin-top: 17px !important; }
+body.home-page .rail-action::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 26px;
+  background: repeating-linear-gradient(-45deg, var(--rail-red), var(--rail-red) 7px, #05070a 7px, #05070a 14px);
+  border-right: 2px solid var(--rail-gold);
+  box-shadow: 2px 0 6px rgba(0,0,0,.8);
+}
+body.home-page .rail-action::after {
+  content: "\2192";
+  position: relative;
+  z-index: 1;
+  color: var(--rail-gold);
+  font-size: 1.05rem;
+  line-height: 1;
+}
+body.home-page .rail-action:hover,
+body.home-page .rail-action:focus-visible {
+  background: #1e2a42 !important;
+  border-color: #fff !important;
+  box-shadow: 0 0 22px rgba(241,223,118,.55), 0 4px 14px rgba(0,0,0,.6);
+  outline: none;
+  transform: translateY(-2px);
+}
+
+/* Below the desktop grid the console drops under the article, full width */
+@media (max-width: 992px) {
+  body.home-page .wiki-shell.home-shell {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+  body.home-page .floor-rail {
+    grid-column: 1 / -1 !important;
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0 10px;
+    align-items: center;
+    padding: 13px 12px 17px !important;
+    border-left: 0 !important;
+    border-top: 1px solid #34495a !important;
+    box-shadow: inset 0 10px 28px rgba(0,0,0,.72) !important;
+  }
+  body.home-page .floor-rail::before,
+  body.home-page .floor-rail::after {
+    left: 0;
+    top: 0;
+    bottom: auto;
+    width: 84px;
+    height: 3px;
+  }
+  body.home-page .floor-rail::before { background: linear-gradient(90deg, var(--rail-gold), transparent); }
+  body.home-page .floor-rail::after { left: auto; right: 0; background: linear-gradient(270deg, var(--rail-cyan), transparent); }
+  body.home-page .floor-rail > h2 { grid-column: 1 / -1; }
+  body.home-page .rail-action { grid-column: 1 / -1; }
+  body.home-page .floor-button { transform: none !important; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body.home-page .floor-button,
+  body.home-page .floor-button img,
+  body.home-page .rail-action { transition: none !important; }
+  body.home-page .floor-button:hover,
+  body.home-page .rail-action:hover { transform: none; }
+}
+
+@media print {
+  body.home-page .floor-rail { display: none !important; }
+}
+
+/* === 2026-09-01 · Phase 1 archive mechanics: filing strip, random archive action, redaction component === */
+footer.wiki-footer .footer-filed {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 12px;
+  padding: 8px 20px;
+  border-top: 2px solid #6d5a1e;
+  border-bottom: 1px solid #2b3d4d;
+  background:
+    repeating-linear-gradient(-45deg, rgba(245,214,123,.05) 0 8px, rgba(0,0,0,0) 8px 16px),
+    rgba(2,6,10,.85);
+  font: 700 .56rem/1.5 "Courier New", monospace;
+  letter-spacing: .125em;
+  text-transform: uppercase;
+  color: #d8c690;
+}
+footer.wiki-footer .footer-filed-tag {
+  color: #f5d67b;
+  border: 1px solid #6d5a1e;
+  padding: 2px 7px;
+  background: rgba(245,214,123,.08);
+}
+footer.wiki-footer .footer-filed-section {
+  color: #7dd3fc !important;
+  text-decoration: none !important;
+  border-bottom: 1px dotted rgba(125,211,252,.5);
+}
+footer.wiki-footer .footer-filed-section:hover { color: #bae6fd !important; }
+footer.wiki-footer .footer-filed-code {
+  color: #e2e8f0;
+  border: 1px solid #3f4a5a;
+  padding: 2px 7px;
+  background: #071019;
+}
+footer.wiki-footer .footer-filed-src {
+  color: #9aafbf;
+  border: 1px dashed #30485a;
+  padding: 2px 7px;
+  background: rgba(7,16,25,.6);
+}
+footer.wiki-footer .footer-filed-name { color: #d5e0e8; }
+footer.wiki-footer .footer-filed-ko {
+  color: #f0abfc;
+  letter-spacing: .04em;
+  text-transform: none;
+}
+footer.wiki-footer .footer-link-button {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 0;
+  min-height: 67px;
+  padding: 12px 11px 10px 42px;
+  overflow: hidden;
+  text-align: left;
+  color: #d5e0e8 !important;
+  background: #071019;
+  border: 1px dashed #4a3f1c;
+  font: inherit;
+  cursor: pointer;
+  transition: transform .17s ease, border-color .17s ease, background .17s ease;
+}
+footer.wiki-footer .footer-link-button::before {
+  content: attr(data-footer-link);
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font: 700 .5rem/1 "Courier New", monospace;
+  letter-spacing: .08em;
+  color: #f5d67b;
+  border-right: 1px dashed #4a3f1c;
+  background: rgba(245,214,123,.06);
+}
+footer.wiki-footer .footer-link-button b {
+  font: 700 .72rem/1.2 "Courier New", monospace;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+footer.wiki-footer .footer-link-button small {
+  margin-top: 4px;
+  font: 400 .55rem/1.3 "Courier New", monospace;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: #718799;
+}
+footer.wiki-footer .footer-link-button:hover {
+  transform: translateY(-2px);
+  border-color: #6d5a1e;
+  background: #0a1420;
+}
+details.redaction {
+  margin: 20px 0;
+  border: 1px solid #4a3f1c;
+  background:
+    repeating-linear-gradient(45deg, rgba(245,214,123,.04) 0 10px, rgba(0,0,0,0) 10px 20px),
+    rgba(2,6,10,.6);
+}
+details.redaction summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 14px;
+  cursor: pointer;
+  list-style: none;
+  font: 700 .62rem/1.4 "Courier New", monospace;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: #f5d67b;
+}
+details.redaction summary::-webkit-details-marker { display: none; }
+details.redaction summary:hover { color: #fbe6a3; }
+details.redaction summary .redaction-state { color: #9aafbf; }
+details.redaction[open] summary .redaction-state::before { content: "— "; }
+details.redaction .redaction-body { padding: 4px 14px 14px; color: #c9d1dd; }
+details.redaction .redaction-body p { margin: 8px 0; }
+
+/* === 2026-09-02 · L-Corp-style spoiler protection (ExpandSpoilers pattern).
+   Record-page Story records are sealed behind a collapsed hazard box;
+   the section heading stays outside the box so TOC anchors keep working. === */
+details.spoiler-box {
+  margin: 18px 0 26px;
+  border: 2px solid #7e2a33;
+  border-left: 5px solid #d44b4b;
+  background:
+    repeating-linear-gradient(45deg, rgba(212,75,75,.05) 0 10px, rgba(0,0,0,0) 10px 20px),
+    rgba(10,2,4,.55);
+}
+details.spoiler-box summary {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 11px 14px;
+  cursor: pointer;
+  list-style: none;
+  font: 700 .68rem/1.4 "Courier New", monospace;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  color: #ff8d8d;
+}
+details.spoiler-box summary::-webkit-details-marker { display: none; }
+details.spoiler-box summary:hover { color: #ffb3b3; }
+details.spoiler-box summary .spoiler-seal {
+  border: 1px solid #d44b4b;
+  color: #d44b4b;
+  padding: 3px 7px;
+  font-size: .58rem;
+  letter-spacing: .2em;
+}
+details.spoiler-box summary .spoiler-hint {
+  margin-left: auto;
+  color: #9a7d80;
+  font-size: .58rem;
+}
+details.spoiler-box .spoiler-body { padding: 2px 14px 14px; color: #c9ccd4; }
+details.spoiler-box .spoiler-body p { margin: 8px 0; }
+
+/* ============================================================
+   RECORD CHAPTERS — L-Corp pattern parity (2026-09-02)
+   Testimony quotes / record lists / observation entries /
+   registry addendum / table cell lists
+   ============================================================ */
+.record-list { margin: 14px 0 4px; padding: 0; list-style: none; }
+.record-list li { position: relative; padding: 0 0 10px 18px; margin: 0; font-size: 15px; line-height: 1.65; color: #c9ccd4; }
+.record-list li::before { content: ""; position: absolute; left: 2px; top: 10px; width: 8px; height: 2px; background: #d44b4b; }
+.testimony-list { margin: 14px 0 4px; display: grid; gap: 12px; }
+.testimony-quote { margin: 0; padding: 14px 16px 12px; border-left: 2px solid #d44b4b; background: linear-gradient(90deg, rgba(212, 75, 75, 0.07), rgba(212, 75, 75, 0) 70%); border-radius: 0 6px 6px 0; }
+.testimony-quote blockquote { margin: 0; font-size: 15.5px; line-height: 1.6; color: #e8edf7; font-style: italic; }
+.testimony-quote figcaption { margin-top: 8px; font: 600 10.5px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 0.14em; color: #8fa3bf; text-transform: uppercase; }
+.obs-entry { margin: 0 0 14px; padding: 12px 14px; border: 1px solid rgba(62, 139, 213, 0.25); border-radius: 6px; background: rgba(8, 13, 22, 0.5); }
+.obs-entry-label { display: block; font: 700 10.5px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 0.12em; text-transform: uppercase; color: #3e8bd5; margin-bottom: 6px; }
+.obs-entry p { margin: 0; font-size: 15px; line-height: 1.65; color: #c9ccd4; }
+.spoiler-quote { margin: 0 0 12px !important; font-size: 13.5px !important; font-style: italic; color: #9fb2cc; }
+.addendum { margin: 10px 0 4px; padding: 12px 14px; border: 1px dashed rgba(143, 163, 191, 0.35); border-radius: 6px; background: rgba(8, 13, 22, 0.5); }
+.addendum p { margin: 0; font-size: 14px; line-height: 1.65; color: #9fb2cc; }
+.cell-list { margin: 0; padding: 0 0 0 16px; list-style: disc; }
+.cell-list li { margin: 0 0 4px; }
+
+/* ============================================================
+   SUPPLEMENTARY FIELD RECORDS (2026-09-02)
+   Subpage intro/close + active clickable links on parent pages
+   ============================================================ */
+.fr-intro { margin: 18px 0 26px; padding: 14px 16px; border: 1px solid rgba(56,189,248,.25); border-left: 3px solid #38bdf8; border-radius: 6px; background: rgba(8,13,22,.6); font-size: 15px; line-height: 1.65; color: #c9ccd4; }
+.fr-end { margin: 30px 0 6px; padding-top: 12px; border-top: 1px dashed rgba(143,163,191,.35); font: 600 10.5px/1.6 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: .14em; text-transform: uppercase; color: #8fa3bf; }
+.ch-intro { margin: 10px 0 14px; padding: 8px 12px; border-left: 2px solid rgba(143,163,191,.4); font-size: 13.5px; font-style: italic; color: #9fb2cc; }
+.ext-record-link { display: inline-flex; align-items: center; gap: 8px; margin: 0 0 20px; padding: 9px 15px; border: 1px solid rgba(56,189,248,.45); border-radius: 6px; background: rgba(56,189,248,.06); font: 700 11px/1 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: .16em; color: #38bdf8; text-decoration: none; text-transform: uppercase; transition: background .15s ease, border-color .15s ease, color .15s ease; }
+.ext-record-link:hover { background: rgba(56,189,248,.16); border-color: #38bdf8; color: #7dd3fc; }
+.ext-record-link::after { content: "\2197"; font-size: 13px; }
+.record-ext-link { display: inline-block; margin: -6px 0 14px; font: 600 10.5px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: .12em; color: #38bdf8; text-decoration: none; text-transform: uppercase; border-bottom: 1px dashed rgba(56,189,248,.5); }
+.record-ext-link:hover { color: #7dd3fc; border-bottom-style: solid; }
+.record-ext-link::after { content: " \2197"; }
+
+/* ============================================================
+   ENTITY CATEGORY TAGS (2026-09-02) — "in: …" strip above the
+   record title, values sourced from the infobox fact-grid
+   ============================================================ */
+.entity-tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 10px; }
+.entity-tags span { padding: 3px 9px; border: 1px solid rgba(143,163,191,.3); border-radius: 4px; font: 600 9.5px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: .1em; text-transform: uppercase; color: #9fb2cc; background: rgba(8,13,22,.5); }
+.entity-tags span:first-child { border-color: var(--entity, #38bdf8); color: var(--entity, #38bdf8); }
+
+
+
+
+/* === 2026-09-01 · canonical float-TOC pin + hard viewport limits (overrides all earlier generations) === */
+nav.float-toc {
+  position: fixed !important;
+  top: 86px !important;
+  left: max(8px, calc((100vw - min(1560px, calc(100vw - 32px))) / 2 + 196px)) !important;
+  right: auto !important;
+  bottom: auto !important;
+  z-index: 45 !important;
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start !important;
+  gap: 0 !important;
+  max-height: calc(100vh - 110px) !important;
+  overflow: visible !important;
+}
+nav.float-toc .float-toc-panel,
+nav.float-toc > div {
+  position: static !important;
+  top: auto !important;
+  bottom: auto !important;
+  left: auto !important;
+  width: 300px !important;
+  max-width: min(340px, calc(100vw - 60px)) !important;
+  max-height: calc(100vh - 110px) !important;
+  overflow-y: auto !important;
+}
+@media (max-width: 1100px) {
+  nav.float-toc {
+    top: auto !important;
+    bottom: 18px !important;
+    left: 8px !important;
+    right: auto !important;
+  }
+  nav.float-toc .float-toc-panel,
+  nav.float-toc > div {
+    max-height: 55vh !important;
+  }
+}
+
+/* === 2026-09-01 · float-TOC sticks at the last rail (content's end) above the lower footer ===
+   wiki.js drives --float-toc-xform (a translate()): the widget's resting
+   pin (a quarter down the gap between the top bar and the bottom of the
+   viewport on desktop, 18px from the bottom on narrow screens, left
+   edge of the actual content column) until the bottom of the page box
+   (the content frame) approaches, then it tracks just above that edge —
+   a full gap above the top of the lower footer — and exits through the
+   top of the viewport with the end of the content: stuck at the last
+   rail, never inside the bottom bar box, never hidden. Motion is
+   transform-only (compositor) so it tracks scrolling smoothly; the
+   legacy drop-shadow filter is disabled because it repaints every frame
+   while the widget moves. */
+nav.float-toc {
+  top: 0 !important;
+  left: 0 !important;
+  right: auto !important;
+  bottom: auto !important;
+  transform: var(--float-toc-xform, translate(max(8px, calc((100vw - min(1560px, calc(100vw - 32px))) / 2 + 226px)), calc(25vh - 2px))) !important;
+  will-change: transform;
+  filter: none !important;
+}
+@media (max-width: 1100px) {
+  nav.float-toc {
+    top: 0 !important;
+    left: 0 !important;
+    right: auto !important;
+    bottom: auto !important;
+    transform: var(--float-toc-xform, translate(8px, calc(100vh - 170px))) !important;
+  }
+}
+
+/* === 2026-09-01 · float-TOC trigger: smaller visible tab, same big hit box ===
+   The button keeps its original clickable footprint (fixed 2.3rem wide ×
+   min 9.4rem tall, transparent) while the visible tab (.float-toc-tab)
+   is the smaller gold element centered inside it — so the button looks
+   smaller but the hit box never shrinks. A separate transparent element
+   (.float-toc-hit-ext) extends the clickable area far below the tab;
+   wiki.js sizes it so its lower edge always stops exactly 2px before
+   the top of the lower footer (or the viewport bottom while the footer
+   is off-screen). */
+nav.float-toc .float-toc-trigger,
+nav.float-toc > button {
+  position: relative !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 2.3rem !important;
+  min-height: 9.4rem !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  color: #f1df76 !important;
+  cursor: pointer;
+}
+nav.float-toc .float-toc-tab {
+  display: inline-block !important;
+  writing-mode: vertical-rl;
+  background: #141207 !important;
+  border: 1.5px solid #f1df76 !important;
+  box-shadow: 0 8px 18px rgba(0,0,0,0.75) !important;
+  color: #f1df76 !important;
+  padding: 6px 4px !important;
+  font-size: 0.52rem !important;
+  letter-spacing: 0.08em !important;
+  border-radius: 3px !important;
+  white-space: nowrap;
+}
+nav.float-toc .float-toc-tab .toc-icon {
+  font-size: 0.6rem !important;
+}
+nav.float-toc .float-toc-trigger:hover,
+nav.float-toc > button:hover {
+  background: transparent !important;
+}
+nav.float-toc .float-toc-trigger:hover .float-toc-tab,
+nav.float-toc > button:hover .float-toc-tab {
+  background: #f1df76 !important;
+  color: #111 !important;
+}
+nav.float-toc .float-toc-hit-ext {
+  position: absolute;
+  top: var(--float-toc-hit-ext-top, 0px);
+  left: 0;
+  width: 44px;
+  height: var(--float-toc-hit-ext, 0px);
+  cursor: pointer;
+}
+
+/* === 2026-09-01 · rail-signal (PUBLIC NETWORK / NODE RD-01) never clips ===
+   The network label truncates (ellipsis) when the rail is too narrow —
+   it can never be overlapped by NODE RD-01, which keeps its full width.
+   (The label must be block-level for text-overflow to apply; the legacy
+   display:flex on the span made ellipsis impossible.) */
+aside.left-rail[data-component="global-left-sidebar"] .rail-signal {
+  overflow: hidden !important;
+}
+aside.left-rail[data-component="global-left-sidebar"] .rail-signal span {
+  display: block !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+  flex: 0 1 auto !important;
+  min-width: 0 !important;
+}
+aside.left-rail[data-component="global-left-sidebar"] .rail-signal i {
+  display: inline-block !important;
+  vertical-align: -1px !important;
+  flex: none !important;
+}
+aside.left-rail[data-component="global-left-sidebar"] .rail-signal b {
+  flex: 0 0 auto !important;
+}
+@media (max-width: 1180px) {
+  aside.left-rail[data-component="global-left-sidebar"] .rail-signal {
+    font-size: 0.42rem !important;
+    gap: 5px !important;
+    padding: 5px 5px !important;
+  }
+}
+@media (max-width: 1024px) {
+  aside.left-rail[data-component="global-left-sidebar"] .rail-signal {
+    font-size: 0.38rem !important;
+    gap: 4px !important;
+  }
+  aside.left-rail[data-component="global-left-sidebar"] .rail-signal i {
+    width: 5px !important;
+    height: 5px !important;
+    flex-basis: 5px !important;
+    margin-right: 4px !important;
+  }
+}
+
+/* ============================================================
+   HOME RIGHT RAIL — Master Facility Console (rebuilt 2026-09-02)
+   Banner cards + core avatars + lead names, per-floor accent
+   ============================================================ */
+body.home-page .floor-rail > h2 {
+  font: 1.15rem Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.1em !important;
+  color: #f1df76 !important;
+  text-align: center !important;
+  margin: 0 0 14px !important;
+}
+body.home-page .floor-rail > h2::before,
+body.home-page .floor-rail > h2::after { content: none !important; }
+body.home-page .floor-card-head {
+  display: flex !important;
+  align-items: center !important;
+  gap: 9px !important;
+  padding: 8px 10px !important;
+  min-width: 0 !important;
+}
+body.home-page .floor-card-link { transition: border-color .15s ease, transform .15s ease !important; }
+body.home-page .floor-card-link:hover {
+  border-color: var(--floor, #38bdf8) !important;
+  transform: translateY(-1px) !important;
+}
+body.home-page .floor-card-link:hover .floor-dept-name { color: var(--floor, #f1df76) !important; }
+body.home-page .rail-action {
+  border: 2px solid var(--gold, #f1df76) !important;
+  background: #050505 !important;
+  color: var(--gold, #f1df76) !important;
+  text-align: center !important;
+  letter-spacing: 0.12em !important;
+  font-family: var(--display, Impact, sans-serif) !important;
+}
+body.home-page .rail-action:hover { background: #141207 !important; }
+
+/* ============================================================
+   HOME RIGHT RAIL — FACILITY 01 CONSOLE (refined remake
+   2026-09-02): slim code-chip rows + 44px banner strips,
+   per-floor accent, console status line
+   ============================================================ */
+body.home-page .floor-rail {
+  padding: 22px 14px 26px !important;
+}
+body.home-page .floor-rail > h2 {
+  font: 1.3rem/1 Impact, "Arial Narrow Bold", sans-serif !important;
+  letter-spacing: 0.14em !important;
+  color: #f1df76 !important;
+  text-align: center !important;
+  margin: 0 0 6px !important;
+}
+body.home-page .floor-rail > h2::before,
+body.home-page .floor-rail > h2::after { content: none !important; }
+body.home-page .floor-rail > h2 + .floor-button-list {
+  border-top: 1px solid #223047 !important;
+  margin-top: 12px !important;
+}
+body.home-page .floor-button-list {
+  display: block !important;
+}
+body.home-page .floor-card-link {
+  display: block !important;
+  position: relative !important;
+  margin: 8px 0 0 !important;
+  padding: 0 !important;
+  border: 1px solid #1c2a3d !important;
+  border-top: 2px solid var(--floor, #38bdf8) !important;
+  border-radius: 4px !important;
+  background: linear-gradient(180deg, #0a0f18 0%, #060a12 100%) !important;
+  overflow: hidden !important;
+  text-decoration: none !important;
+  transition: border-color 0.15s ease, transform 0.15s ease !important;
+}
+body.home-page .floor-card-top {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  padding: 9px 10px 8px !important;
+  min-width: 0 !important;
+}
+body.home-page .floor-code {
+  flex-shrink: 0 !important;
+  font: 700 0.6rem/1 ui-monospace, SFMono-Regular, Menlo, monospace !important;
+  letter-spacing: 0.12em !important;
+  color: var(--floor, #38bdf8) !important;
+  border: 1px solid var(--floor, #38bdf8) !important;
+  border-radius: 3px !important;
+  padding: 3px 5px 2px !important;
+}
+body.home-page .floor-dept-name {
+  flex: 1 1 auto !important;
+  min-width: 0 !important;
+  font: 0.76rem/1.35 var(--display, Impact, "Arial Narrow Bold", sans-serif) !important;
+  letter-spacing: 0.09em !important;
+  color: #dfe7f3 !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+body.home-page .floor-avatar-img {
+  width: 26px !important;
+  height: 26px !important;
+  min-width: 26px !important;
+  border-radius: 50% !important;
+  border: 1.5px solid var(--floor, #38bdf8) !important;
+  background: #05070c !important;
+  object-fit: cover !important;
+  flex-shrink: 0 !important;
+  transition: box-shadow 0.15s ease !important;
+}
+body.home-page .floor-card-banner {
+  position: relative !important;
+  width: 100% !important;
+  height: 44px !important;
+  border-top: 1px solid #16233a !important;
+  overflow: hidden !important;
+}
+body.home-page .floor-banner-img {
+  width: 100% !important;
+  height: 44px !important;
+  object-fit: cover !important;
+  display: block !important;
+  filter: brightness(0.85) saturate(1.05) !important;
+  transition: filter 0.2s ease !important;
+}
+body.home-page .floor-card-link:hover {
+  border-color: var(--floor, #38bdf8) !important;
+  transform: translateY(-1px) !important;
+}
+body.home-page .floor-card-link:hover .floor-banner-img { filter: brightness(1.12) saturate(1.12) !important; }
+body.home-page .floor-card-link:hover .floor-avatar-img { box-shadow: 0 0 10px var(--floor, #38bdf8) !important; }
+body.home-page .floor-card-link:hover .floor-dept-name { color: #ffffff !important; }
+body.home-page .floor-badge-tag,
+body.home-page .floor-lead-name,
+body.home-page .floor-info-text,
+body.home-page .floor-card-head { display: none !important; }
+body.home-page .rail-console-status {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  margin-top: 12px !important;
+  padding: 9px 10px !important;
+  border: 1px solid #1c2a3d !important;
+  border-radius: 4px !important;
+  background: #060a12 !important;
+  font: 600 0.58rem/1.5 ui-monospace, SFMono-Regular, Menlo, monospace !important;
+  letter-spacing: 0.12em !important;
+  color: #9fb2cc !important;
+}
+body.home-page .rail-console-status .led-dot {
+  display: inline-block !important;
+  width: 7px !important;
+  height: 7px !important;
+  border-radius: 50% !important;
+  background: #10b981 !important;
+  box-shadow: 0 0 6px #10b981 !important;
+  flex-shrink: 0 !important;
+}
+body.home-page .rail-console-status small {
+  display: block !important;
+  margin-top: 1px !important;
+  font-weight: 500 !important;
+  color: #5f7189 !important;
+}
+body.home-page .rail-action {
+  display: block !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  margin-top: 9px !important;
+  padding: 10px 8px !important;
+  border: 1px solid rgba(241, 223, 118, 0.5) !important;
+  border-radius: 4px !important;
+  background: #050505 !important;
+  color: #f1df76 !important;
+  text-align: center !important;
+  letter-spacing: 0.14em !important;
+  font: 0.78rem var(--display, Impact, "Arial Narrow Bold", sans-serif) !important;
+  text-decoration: none !important;
+  transition: background 0.15s ease, border-color 0.15s ease !important;
+}
+body.home-page .rail-action:hover {
+  background: #141207 !important;
+  border-color: #f1df76 !important;
+  color: #fff3a0 !important;
+}
+
+/* R.D. facility diagrams (ASCII architecture from source) */
+pre.diagram {
+  font-family: "Cascadia Code", "Fira Code", ui-monospace, "SF Mono", Consolas, monospace;
+  font-size: 12.5px;
+  line-height: 1.55;
+  color: #e8e6e3;
+  background: #14141c;
+  border: 1px solid #2a2a38;
+  border-left: 3px solid #f1df76;
+  border-radius: 8px;
+  padding: 14px 16px;
+  margin: 16px 0;
+  overflow-x: auto;
+  white-space: pre;
 }

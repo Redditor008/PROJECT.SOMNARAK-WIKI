@@ -1,23 +1,41 @@
 #!/usr/bin/env python3
-"""Render and verify one canonical Somnarak footer on every public HTML page."""
+"""Render and verify one canonical Somnarak footer on every public HTML page.
+
+The footer now carries three per-page data rows on top of the shared chrome:
+
+1. A FILED UNDER strip (section gateway, wiki registry code, source reference
+   code / designation, and the Korean name) joined from REFERENCE_SOMNARAK_WIKI.
+2. A Random Archive action button (routed client-side by wiki.js).
+3. A last-verified stamp in the publication register.
+"""
 
 from __future__ import annotations
 
 import argparse
 import re
+
+VERIFY_RE = re.compile(r"^(?:google|bing|yandex|facebook|twitter)[0-9a-zA-Z]{10,}\.(?:html|txt)$", re.I)
 from dataclasses import dataclass
+from functools import lru_cache
 from pathlib import Path
 
 try:  # Support direct execution and package-style imports.
-    from .sync_global_top_bar import page_prefix
+    from .sync_global_top_bar import ASSET_VERSION, page_prefix
 except ImportError:
-    from sync_global_top_bar import page_prefix
+    from sync_global_top_bar import ASSET_VERSION, page_prefix
 
 BOTTOM_BAR_RE = re.compile(
     r'<footer\b[^>]*\bdata-component=["\']global-bottom-bar["\'][^>]*>.*?</footer>',
     re.IGNORECASE | re.DOTALL,
 )
 ANY_FOOTER_RE = re.compile(r'<footer\b[^>]*>.*?</footer>', re.IGNORECASE | re.DOTALL)
+
+LAST_VERIFIED = "2026-09-02"
+
+_ENTITY_PAGE_RE = re.compile(r"^se-(\d{3})-(.+)$")
+_MAW_PAGE_RE = re.compile(r"^maw-([WSGwsg])-(\d{3})-(\d{2})-(.+)$")
+_CODE_PREFIXES = ("SE-", "HT-", "MAW-", "ORDEAL")
+_HANGUL_RE = re.compile(r"[\uac00-\ud7a3]")
 
 
 @dataclass(frozen=True)
@@ -27,9 +45,160 @@ class BottomBarIssue:
     detail: str
 
 
+# ---------------------------------------------------------------------------
+# Reference join: map a public page to its REFERENCE_SOMNARAK_WIKI source file
+# ---------------------------------------------------------------------------
+
+
+def _is_hangul(token: str) -> bool:
+    return bool(_HANGUL_RE.search(token))
+
+
+@lru_cache(maxsize=None)
+def _reference_entries() -> tuple:
+    """Index every reference markdown file.
+
+    Returns tuples of (name_tokens, codes, hangul, path).
+    """
+    entries: list[tuple] = []
+    ref_root = Path(__file__).resolve().parent.parent / "REFERENCE_SOMNARAK_WIKI"
+    if not ref_root.is_dir():
+        return tuple(entries)
+    for path in ref_root.rglob("*.md"):
+        stem = path.stem
+        head, sep, tail = stem.partition("__")
+        parts = [head, *tail.split("_")] if sep else stem.split("_")
+        hangul = " ".join(p for p in parts if _is_hangul(p))
+        ascii_parts = [p for p in parts if not _is_hangul(p)]
+        codes = [
+            p
+            for p in ascii_parts
+            if p.upper().startswith(_CODE_PREFIXES) or p.upper() in ("MAW-W", "MAW-S", "MAW-G")
+        ]
+        name_tokens = frozenset(p.lower() for p in ascii_parts if p not in codes)
+        if not name_tokens:
+            continue
+        entries.append((name_tokens, tuple(codes), hangul, path.as_posix()))
+    return tuple(entries)
+
+
+def _best_match(
+    name_tokens: frozenset,
+    section_filter: tuple[str, ...],
+    require_code: str | None = None,
+    set_hint: str | None = None,
+) -> tuple[tuple[str, ...], str] | None:
+    """Pick the unique best reference file for a page's name tokens.
+
+    When set_hint is given it is a hard constraint: the reference path must
+    contain an exact path segment equal to the set number (e.g. "004"), so a
+    set-004 page can never be joined to a set-1014 file that merely shares
+    generic name words.
+    """
+    if not name_tokens:
+        return None
+    scored: list[tuple] = []
+    for tokens, codes, hangul, where in _reference_entries():
+        if not any(part in where for part in section_filter):
+            continue
+        if require_code and require_code.upper() not in tuple(c.upper() for c in codes):
+            continue
+        if set_hint:
+            segments = set(where.split("/"))
+            segments.update(part for seg in where.split("/") for part in seg.split("_"))
+            if set_hint not in segments:
+                continue
+        shared = len(name_tokens & tokens)
+        if shared < min(2, len(name_tokens)):
+            continue
+        scored.append((shared, where, codes, hangul))
+    if not scored:
+        return None
+    scored.sort(key=lambda item: (-item[0], item[1]))
+    top = [item for item in scored if item[0] == scored[0][0]]
+    if len(top) != 1:
+        return None
+    return top[0][2], top[0][3]
+
+
+def _filing_strip(path: Path, root: Path) -> str:
+    """Render the per-page FILED UNDER strip inside the footer."""
+    rel = path.relative_to(root).as_posix()
+    parts = rel.split("/")
+    top = parts[0] if len(parts) > 1 else path.stem
+    sections = {
+        "index": ("MAIN ARCHIVE", "index.html"),
+        "404": ("SIGNAL LOST", "index.html"),
+        "characters": ("01 · ECHO-CORES", "characters/index.html"),
+        "lore": ("02 · CYCLE ARCHIVE", "lore/index.html"),
+        "locations": ("03 · CITY ATLAS", "locations/index.html"),
+        "factions": ("04 · ORDERS", "factions/index.html"),
+        "departments": ("05 · HAND OF CHANGE", "departments/index.html"),
+        "entities": ("06 · SECC REGISTRY", "entities/index.html"),
+        "maw": ("07 · M.A.W. ARSENAL", "maw/index.html"),
+        "mechanics": ("08 · SYSTEMS CODEX", "mechanics/index.html"),
+        "project": ("PROVENANCE", "project/source-map.html"),
+    }
+    label, hub = sections.get(top, ("PUBLIC CODEX", "index.html"))
+    prefix = page_prefix(path, root)
+    extras: list[str] = []
+    stem = path.stem
+
+    entity_match = _ENTITY_PAGE_RE.match(stem)
+    maw_match = _MAW_PAGE_RE.match(stem)
+    if top == "entities" and entity_match:
+        extras.append(f'<code class="footer-filed-code">SE-{entity_match.group(1)}</code>')
+        match = _best_match(
+            frozenset(entity_match.group(2).split("-")),
+            ("01_Sorrow_Entities", "02_Hope_Transformation", "03_Unknown_Entities"),
+        )
+        if match:
+            codes, hangul = match
+            name = entity_match.group(2).split("-")
+            extras.append(f'<span class="footer-filed-name">{" ".join(name)}</span>')
+            if hangul:
+                extras.append(f'<span class="footer-filed-ko">{hangul}</span>')
+            if codes:
+                designation = codes[0][3:] if codes[0].startswith("SE-") else codes[0]
+                extras.append(f'<code class="footer-filed-src">DESIGNATION {designation}</code>')
+    elif top == "maw" and maw_match:
+        mtype, mset, mvar, rest = (
+            maw_match.group(1).upper(),
+            maw_match.group(2),
+            maw_match.group(3),
+            maw_match.group(4),
+        )
+        extras.append(f'<code class="footer-filed-code">MAW-{mtype}-{mset}-{mvar}</code>')
+        match = _best_match(
+            frozenset(rest.split("-")),
+            ("M.A.W. Codex_Set Registry",),
+            require_code=f"MAW-{mtype}",
+            set_hint=mset,
+        )
+        if match:
+            codes, hangul = match
+            extras.append(f'<span class="footer-filed-name">{" ".join(rest.split("-"))}</span>')
+            if hangul:
+                extras.append(f'<span class="footer-filed-ko">{hangul}</span>')
+            parent = next((c for c in codes if not c.startswith("MAW-")), None)
+            if parent:
+                extras.append(f'<code class="footer-filed-src">ITEM ID {parent}</code>')
+
+    extra_html = "".join(extras)
+    return (
+        f'<div class="footer-filed" aria-label="Filing record">'
+        f'<span class="footer-filed-tag">FILED UNDER</span>'
+        f'<a class="footer-filed-section" href="{prefix}{hub}">{label}</a>'
+        f"{extra_html}"
+        f"</div>"
+    )
+
+
 def render_bottom_bar(path: Path, root: Path) -> str:
     prefix = page_prefix(path, root)
+    filed = _filing_strip(path, root)
     return f'''<footer class="wiki-footer global-footer" data-component="global-bottom-bar">
+  {filed}
   <div class="footer-signal" aria-hidden="true">
     <span>RD://PUBLIC-NET</span><i></i>
     <span>SECC LINK STABLE</span><i></i>
@@ -41,7 +210,7 @@ def render_bottom_bar(path: Path, root: Path) -> str:
     <section class="footer-identity" aria-label="Somnarak Wiki">
       <span class="footer-kicker">CITY OF UNRESOLVED SORROW // YEAR 4,238</span>
       <a class="footer-brand" href="{prefix}index.html">
-        <span class="footer-emblem"><img src="{prefix}assets/icons/somnarak_icon.svg" width="78" height="78" alt=""/></span>
+        <span class="footer-emblem"><img src="{prefix}assets/icons/somnarak_icon.svg?v=20260903b" width="78" height="78" alt=""/></span>
         <span><b>SOMNARAK</b><small>OFFICIAL WIKI ARCHIVE</small></span>
       </a>
       <h2>Witness the sorrow.<br/><em>Preserve the name.</em></h2>
@@ -61,11 +230,11 @@ def render_bottom_bar(path: Path, root: Path) -> str:
 
     <section class="footer-status" aria-label="Current archive status">
       <span>Verified repository snapshot</span>
-      <strong>1.8.31</strong>
+      <strong>1.9.0</strong>
       <p><i aria-hidden="true"></i> ARCHIVE ONLINE</p>
       <dl>
-        <div><dt>Public records</dt><dd>197 HTML</dd></div>
-        <div><dt>Search corpus</dt><dd>196 ROUTES</dd></div>
+        <div><dt>Public records</dt><dd>1,041 HTML</dd></div>
+        <div><dt>Search corpus</dt><dd>1,040 ROUTES</dd></div>
         <div><dt>Current era</dt><dd>YEAR 4,238</dd></div>
         <div><dt>Cycle state</dt><dd>ENDED</dd></div>
         <div><dt>Gate command</dt><dd>XYAN</dd></div>
@@ -95,6 +264,7 @@ def render_bottom_bar(path: Path, root: Path) -> str:
         <a href="{prefix}downloads.html" data-footer-link="R-02"><b>Download Center</b><small>Reader snapshot</small></a>
         <a href="{prefix}assets/icons/icons_gallery.html" data-footer-link="R-03"><b>Icon Library</b><small>Visual registry</small></a>
         <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI" data-footer-link="R-04" target="_blank" rel="noopener noreferrer"><b>Repository</b><small>Revision history</small></a>
+        <button type="button" class="footer-link-button" data-footer-link="R-05" data-random-archive><b>Random Archive</b><small>Jump to a random record</small></button>
       </div>
     </nav>
   </div>
@@ -102,10 +272,11 @@ def render_bottom_bar(path: Path, root: Path) -> str:
   <section class="footer-register" aria-label="Publication register">
     <header><span>Publication register</span><b>VERIFIED WORKING-TREE BASELINE</b></header>
     <dl>
-      <div><dt>Public pages</dt><dd>197</dd><small>HTML records</small></div>
-      <div><dt>Editorial corpus</dt><dd>256,745</dd><small>Counted words</small></div>
-      <div><dt>Visual assets</dt><dd>1,414</dd><small>SVG + PNG</small></div>
+      <div><dt>Public pages</dt><dd>1,041</dd><small>HTML records</small></div>
+      <div><dt>Editorial corpus</dt><dd>739,550</dd><small>Counted words</small></div>
+      <div><dt>Visual assets</dt><dd>1,282</dd><small>SVG</small></div>
       <div><dt>Editorial floor</dt><dd>200+</dd><small>Words per page</small></div>
+      <div><dt>Last verified</dt><dd>{LAST_VERIFIED}</dd><small>SYNC {ASSET_VERSION}</small></div>
     </dl>
     <div class="footer-protocols">
       <span><b>01</b> SOURCE-LED CONTENT</span>
@@ -118,7 +289,7 @@ def render_bottom_bar(path: Path, root: Path) -> str:
   <div class="footer-base">
     <span><i aria-hidden="true"></i> REVERIE DIRECTORATE // PUBLIC ACCESS NODE</span>
     <span>WITNESS THE SORROW · PRESERVE THE NAME</span>
-    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.8.31 CHANGELOG <b aria-hidden="true">↗</b></a>
+    <a href="https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/main/CHANGELOG.md" target="_blank" rel="noopener noreferrer">RELEASE 1.9.0 CHANGELOG <b aria-hidden="true">↗</b></a>
   </div>
 </footer>'''
 
@@ -145,7 +316,7 @@ def update_page(path: Path, root: Path) -> bool:
 def validate_bottom_bars(root: Path) -> list[BottomBarIssue]:
     root = root.resolve()
     issues: list[BottomBarIssue] = []
-    for path in sorted(root.rglob("*.html")):
+    for path in (p for p in sorted(root.rglob("*.html")) if not VERIFY_RE.match(p.name)):
         label = path.relative_to(root).as_posix()
         text = path.read_text(encoding="utf-8", errors="replace")
         all_footers = list(ANY_FOOTER_RE.finditer(text))
@@ -189,6 +360,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--write", action="store_true", help="rewrite drifted pages instead of only checking"
     )
+    parser.add_argument(
+        "--report-joins",
+        action="store_true",
+        help="print the reference join used for every page's filing strip",
+    )
     return parser.parse_args()
 
 
@@ -199,10 +375,15 @@ def main() -> int:
         print(f"error: public root does not exist: {root}")
         return 2
 
-    html_files = sorted(root.rglob("*.html"))
+    html_files = [p for p in sorted(root.rglob("*.html")) if not VERIFY_RE.match(p.name)]
     if args.write:
         changed = sum(update_page(path, root) for path in html_files)
         print(f"Synchronized global bottom bar: {changed} of {len(html_files)} pages updated")
+
+    if args.report_joins:
+        for path in html_files:
+            strip = _filing_strip(path, root)
+            print(f"{path.relative_to(root).as_posix()}  ::  {re.sub('<[^>]+>', ' ', strip)}")
 
     issues = validate_bottom_bars(root)
     if issues:

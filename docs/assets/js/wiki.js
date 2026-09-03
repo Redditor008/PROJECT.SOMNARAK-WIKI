@@ -142,6 +142,40 @@
   // =========================================================================
   // 3. IN-ARTICLE TABLE OF CONTENTS (#toc) TOGGLE (SUPPORTS <ol> & <ul>)
   // =========================================================================
+  // =========================================================================
+  // 1b. RUNTIME HEADING ANCHORS (MediaWiki-style auto ids)
+  // Many wiki pages have h2/h3 section titles without id attributes, which
+  // leaves the floating page-contents and sidebar TOC with nothing to link
+  // to. Assign a stable slug id to every heading that lacks one, before any
+  // TOC is built. Existing ids are always preserved.
+  // =========================================================================
+  function slugifyHeading(text) {
+    return String(text)
+      .replace(/&[a-z]+;/gi, ' ')
+      .replace(/[^\p{L}\p{N}\s_-]/gu, ' ')
+      .trim()
+      .replace(/\s+/g, '-')
+      .replace(/^[^-_\p{L}\p{N}]+/u, '')
+      .replace(/-+$/g, '')
+      .toLowerCase();
+  }
+
+  function ensureHeadingIds(contentArea) {
+    const root = contentArea || document;
+    qa('h2, h3', root).forEach((h) => {
+      if (h.closest('.float-toc')) return;
+      if (h.id) return;
+      const base = slugifyHeading(h.textContent) || 'section';
+      let id = base;
+      let n = 2;
+      while (root.querySelector(`[id="${id}"]`) || document.getElementById(id)) {
+        id = `${base}-${n}`;
+        n += 1;
+      }
+      h.id = id;
+    });
+  }
+
   function initTableOfContents() {
     qa('.toc, #toc').forEach(toc => {
       const title = q('.toctitle, .toc-title', toc);
@@ -317,15 +351,19 @@
     const skipTitle = /^(DATABASE HUBS|THE NINE ECHO-CORES|CARTOGRAPHY|FACILITY 01|ENTITY REGISTRY)$/i;
     const clean = (el) => el.textContent.replace(/^[■›•\s\d\.\/]+/, '').replace(/#$/, '').trim();
 
-    const sections = qa('.wiki-section', contentArea);
+    // Collect every addressable h2 in the content area, whether or not it is
+    // wrapped in a .wiki-section (entity/lore pages use flat h2[id] sections).
     const items = [];
-    sections.forEach(sec => {
-      if (sec.classList.contains('codex-stub')) return;
-      const h = q('h2.section-title[id], h2[id]', sec);
-      if (!h) return;
+    const seen = new Set();
+    qa('h2[id]', contentArea).forEach((h) => {
+      if (h.closest('.float-toc')) return;
+      const sec = h.closest('.wiki-section');
+      if (sec && sec.classList.contains('codex-stub')) return;
+      if (seen.has(h.id)) return;
+      seen.add(h.id);
       const title = clean(h);
       if (!title || skipTitle.test(title)) return;
-      const home = sec.getAttribute('data-toc-home') || h.getAttribute('data-toc-home');
+      const home = (sec && sec.getAttribute('data-toc-home')) || h.getAttribute('data-toc-home');
       items.push({
         id: h.id,
         title,
@@ -340,13 +378,17 @@
     const useH3 = inPage.length > 0 && inPage.length <= 10;
     if (useH3) {
       inPage.forEach(it => {
-        const sec = it.el.closest('.wiki-section');
-        if (!sec) return;
-        qa(':scope > h3[id]', sec).forEach(h3 => {
-          const title = clean(h3);
-          if (!title) return;
-          items.push({ id: h3.id, title, home: null, el: h3, away: false, sub: true });
-        });
+        let node = it.el.nextElementSibling;
+        while (node && node.tagName !== 'H2') {
+          if (node.tagName === 'H3' && node.id && !seen.has(node.id)) {
+            const title = clean(node);
+            if (title) {
+              seen.add(node.id);
+              items.push({ id: node.id, title, home: null, el: node, away: false, sub: true });
+            }
+          }
+          node = node.nextElementSibling;
+        }
       });
     }
 
@@ -366,8 +408,10 @@
 
     floatToc.innerHTML = `
       <button type="button" class="float-toc-trigger" aria-expanded="false" title="Page contents">
-        <span class="toc-icon">☰</span>
-        <span class="toc-text">PAGE CONTENTS</span>
+        <span class="float-toc-tab">
+          <span class="toc-icon">☰</span>
+          <span class="toc-text">PAGE CONTENTS</span>
+        </span>
       </button>
       <div class="float-toc-panel">
         <div class="float-toc-header">
@@ -429,7 +473,7 @@
     });
 
     const inPageEls = visible.filter(it => !it.away).map(it => it.el);
-    if (inPageEls.length) {
+    if (inPageEls.length && typeof IntersectionObserver !== 'undefined') {
       const headingObserver = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
           if (!entry.isIntersecting) return;
@@ -440,6 +484,93 @@
         });
       }, { rootMargin: '-90px 0px -62% 0px', threshold: 0 });
       inPageEls.forEach(h => headingObserver.observe(h));
+    }
+
+    // Stick at the last rail: the visible tab keeps its natural position
+    // (it is never pushed down), and a long transparent hit zone extends
+    // BELOW the tab. That lower hit edge always stops exactly 2px before
+    // the top of the lower footer (or the viewport bottom while the footer
+    // is off-screen). Only when the footer rises up to that lower hit edge
+    // does the tab itself lift, tracking the footer's top edge upward and
+    // exiting through the top of the viewport — the visible tab therefore
+    // stops exactly before the top of the bottom-bar box and can never
+    // cross it. The left edge is pinned to the actual content column
+    // because the left-rail width changes across breakpoints.
+    const hitExt = document.createElement('span');
+    hitExt.className = 'float-toc-hit-ext';
+    hitExt.setAttribute('aria-hidden', 'true');
+    floatToc.appendChild(hitExt);
+    hitExt.addEventListener('click', (e) => {
+      e.stopPropagation();
+      trigger.click();
+    });
+
+    const footer = q('footer.global-footer') || q('footer');
+    if (footer) {
+      const MAX_EXT = 220;  // longest the transparent lower hit zone gets
+      const STOP = 2;       // stop line sits 2px above the reference edge
+      const LEFT_INSET = 6;
+      // Resolve the measured elements once — not on every frame.
+      const topBar = q('.utility');
+      const pageBox = q('.wiki-shell') || contentArea;
+      const drawer = q('.left-rail');
+      let ticking = false;
+      const updateStick = () => {
+        ticking = false;
+        // ---- read (one layout pass) ----
+        const h = floatToc.offsetHeight || 60;
+        const btnH = trigger ? (trigger.offsetHeight || h) : h;
+        const footerTop = footer.getBoundingClientRect().top;
+        // The page box (the bordered content frame). The stopper must sit
+        // at its bottom edge — which is a full margin above the top of the
+        // lower footer — never inside the footer box.
+        const boxBottom = pageBox.getBoundingClientRect().bottom;
+        const contentRect = contentArea.getBoundingClientRect();
+        const isNarrow = window.matchMedia
+          ? window.matchMedia('(max-width: 1100px)').matches
+          : window.innerWidth <= 1100;
+        const barH = topBar ? (topBar.offsetHeight || 48) : 48;
+        // Resting position: a quarter of the way down the open gap between
+        // the sticky top bar and the bottom of the viewport (guarded to
+        // stay below the top bar on very short screens).
+        const baseTop = Math.max(barH + 14, Math.round(barH + (window.innerHeight - barH - h) * 0.25));
+        const naturalTop = isNarrow ? window.innerHeight - 18 - h : baseTop;
+        // The lower hit edge stops here: 2px above the lowest of the page
+        // box's bottom edge and the footer's top edge — i.e. exactly at the
+        // bottom of the page box, a full gap above the top of the bottom
+        // bar box — or 2px above the viewport bottom while both are
+        // off-screen.
+        const stopLine = Math.min(footerTop, boxBottom, window.innerHeight) - STOP;
+        const top = Math.min(naturalTop, stopLine - h);
+        const ext = Math.max(0, Math.min(MAX_EXT, Math.round(stopLine - (top + h))));
+        let left = Math.max(8, Math.round(contentRect.left + LEFT_INSET));
+        // If the left-rail drawer is open (narrow screens), slide the
+        // widget to the right of it so the two never clip each other.
+        if (drawer && drawer.classList.contains('open')) {
+          const dRect = drawer.getBoundingClientRect();
+          if (dRect.right > 0 && dRect.left < window.innerWidth) {
+            left = Math.max(left, Math.round(dRect.right + 8));
+          }
+        }
+        // ---- write once (transform via var = compositor, no layout thrash) ----
+        // The stylesheet rule is `transform: var(--float-toc-xform, …)
+        // !important`, so the position MUST go through the custom property —
+        // an inline `style.transform` would lose to the !important rule.
+        floatToc.style.setProperty('--float-toc-xform', 'translate(' + left + 'px,' + Math.round(top) + 'px)');
+        floatToc.style.setProperty('--float-toc-hit-ext', ext + 'px');
+        floatToc.style.setProperty('--float-toc-hit-ext-top', btnH + 'px');
+      };
+      const requestStick = () => {
+        if (!ticking) {
+          ticking = true;
+          requestAnimationFrame(updateStick);
+        }
+      };
+      window.addEventListener('scroll', requestStick, { passive: true });
+      window.addEventListener('resize', requestStick, { passive: true });
+      // The drawer only ever toggles on a click — re-evaluate then too.
+      document.addEventListener('click', requestStick, { passive: true });
+      updateStick();
     }
   }
 
@@ -596,23 +727,242 @@
     }
   }
 
-  // Initialize all components on DOM ready
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', () => {
-      initTableOfContents();
-      initActionTabs();
-      initFloatingToc();
-      initHeadingPermalinks();
-      initBackToTop();
-      initSearch();
+  // Random Archive — jumps the reader to a random public record.
+  // >>> RANDOM_ARCHIVE_PAGES (generated by tools/sync_random_archive.py — do not edit)
+  const RANDOM_ARCHIVE_PAGES = [
+    "assets/icons/icons_gallery.html",
+    "atlas/hand-of-change-map.html",
+    "atlas/somnarak-city-map.html",
+    "characters/cheonbulok-refugees.html",
+    "characters/doha.html",
+    "characters/high-architects.html",
+    "characters/index.html",
+    "characters/joon.html",
+    "characters/kael.html",
+    "characters/minho.html",
+    "characters/soojin.html",
+    "characters/sora.html",
+    "characters/taeho.html",
+    "characters/the-archive-lead-marjuk.html",
+    "characters/the-border-lead-mellda.html",
+    "characters/the-containment-lead-dekan.html",
+    "characters/the-director-majin.html",
+    "characters/the-exile-xyan.html",
+    "characters/the-extraction-lead-zyrak.html",
+    "characters/the-outsider-ishall.html",
+    "characters/the-research-lead-ayshuk.html",
+    "characters/the-secretary-seiyon.html",
+    "characters/yeonhwa.html",
+    "departments/agent-assignment.html",
+    "departments/core-suppression-guidelines.html",
+    "departments/daily-cycle.html",
+    "departments/daily-missions.html",
+    "departments/facility-meltdown-procedures.html",
+    "departments/facility-room-types.html",
+    "departments/facility-upgrades.html",
+    "departments/floor-1-neutral-command.html",
+    "departments/floor-2-maws-keep.html",
+    "departments/floor-3-extraction-hall.html",
+    "departments/floor-4-insight-forge.html",
+    "departments/floor-5-border-watch.html",
+    "departments/floor-6-deep-vault.html",
+    "departments/floor-7-shadow-corps.html",
+    "departments/floor-8-gate-watch.html",
+    "departments/incident-reports-archive.html",
+    "departments/index.html",
+    "departments/research-observation.html",
+    "downloads.html",
+    "entities/entity-groups-and-chains.html",
+    "entities/hope-transformations.html",
+    "entities/ht-001-the-guiding-light.html",
+    "entities/ht-002-the-shield-of-dawn.html",
+    "entities/ht-003-the-gentle-flame.html",
+    "entities/ht-004-the-reuniting-spark.html",
+    "entities/ht-005-the-defiant-ember.html",
+    "entities/ht-006-the-eternal-warmth.html",
+    "entities/ht-007-the-silent-vigil.html",
+    "entities/ht-008-the-healing-touch.html",
+    "entities/ht-009-the-burning-hope.html",
+    "entities/ht-010-the-living-memory.html",
+    "entities/ht-011-the-shared-glass.html",
+    "entities/ht-012-the-standing-witness.html",
+    "entities/ht-v-hc-001-the-trinity-of-dawn.html",
+    "entities/ht-v-hh-001-the-hand-of-hope.html",
+    "entities/index.html",
+    "entities/list.html",
+    "entities/se-001-the-orphaned-bell.html",
+    "entities/se-002-the-grieving-colossus.html",
+    "entities/se-003-the-wilderness-tide.html",
+    "entities/se-005-the-smothering-mother.html",
+    "entities/se-007-brume.html",
+    "entities/se-009-the-memory-weaver.html",
+    "entities/se-010-the-convergence.html",
+    "entities/se-011-the-whispering-walls.html",
+    "entities/se-014-the-debt-eater.html",
+    "entities/se-015-the-debt-scale.html",
+    "entities/unk-247-the-undelivered-thanks.html",
+    "entities/unk-248-the-unconsoled.html",
+    "entities/unk-250-the-extinguished.html",
+    "entities/unk-251-the-unspoken-line.html",
+    "entities/unk-901-the-mewgical-girl.html",
+    "entities/unk-902-the-repeated-survivor.html",
+    "entities/unk-903-the-music-box-of-agony.html",
+    "entities/unknown-entities.html",
+    "factions/faction-technology.html",
+    "factions/index.html",
+    "factions/the-architects.html",
+    "factions/the-collectors.html",
+    "factions/the-founding-corporations.html",
+    "factions/the-giltong-enforcers.html",
+    "factions/the-high-council.html",
+    "factions/the-horizon-caravan.html",
+    "factions/the-judexhan.html",
+    "factions/the-keepers.html",
+    "factions/the-memory-washers.html",
+    "factions/the-menders.html",
+    "factions/the-reverie-directorate.html",
+    "factions/the-sed-corps.html",
+    "factions/the-ucd-strike-force.html",
+    "factions/the-underworld-and-wound-walkers.html",
+    "factions/the-wardens.html",
+    "factions/the-weavers.html",
+    "index.html",
+    "locations/district-structure-veil-and-raw.html",
+    "locations/index.html",
+    "locations/the-desolate.html",
+    "locations/the-hollow-glass.html",
+    "locations/the-library-of-stolen-pasts.html",
+    "locations/the-maw.html",
+    "locations/the-orphan-bell-tower.html",
+    "locations/unknown-cities.html",
+    "locations/zone-a-core-nexus.html",
+    "locations/zone-b-west-ward.html",
+    "locations/zone-c-collectors-row.html",
+    "locations/zone-d-forge-and-gardens.html",
+    "locations/zone-e-perimeter-bulwark.html",
+    "lore/daily-life-in-somnarak.html",
+    "lore/efflorescence-and-fracture.html",
+    "lore/entity-tales.html",
+    "lore/facility-incident-reports.html",
+    "lore/index.html",
+    "lore/named-fractures.html",
+    "lore/night-hazards-and-vigil.html",
+    "lore/somnarak-cosmology.html",
+    "lore/somnarak-name-registry.html",
+    "lore/the-alpha-tree.html",
+    "lore/the-book-of-regressor.html",
+    "lore/the-cheongula-incident.html",
+    "lore/the-cycle-and-absolvohan.html",
+    "lore/the-dawn-of-hope.html",
+    "lore/the-doorspeech.html",
+    "lore/the-dream-realm.html",
+    "lore/the-first-sovereign-war.html",
+    "lore/the-seven-absolute-taboos.html",
+    "lore/the-three-ages-and-history.html",
+    "lore/the-three-sorrows.html",
+    "lore/the-weeping-river.html",
+    "maw/index.html",
+    "maw/maw-crafting-and-extraction.html",
+    "maw/maw-g-001-01-laments-edge.html",
+    "maw/maw-g-002-01-the-mourning-shell.html",
+    "maw/maw-g-003-01-memory-thread-needle.html",
+    "maw/maw-g-004-01-corrosion-visor.html",
+    "maw/maw-g-005-01-the-embrace.html",
+    "maw/maw-g-006-01-effluent-gland.html",
+    "maw/maw-g-007-01-the-hope-lantern.html",
+    "maw/maw-g-008-01-spike-crown.html",
+    "maw/maw-g-009-01-the-forgotten-mask.html",
+    "maw/maw-g-010-01-the-absolute-verdict.html",
+    "maw/maw-g-011-01-the-listening-stone.html",
+    "maw/maw-g-014-01-the-debt-scale-gift.html",
+    "maw/maw-g-015-01-the-balance-pendant.html",
+    "maw/maw-s-001-01-the-laments-shroud.html",
+    "maw/maw-s-002-01-the-mourning-mantle.html",
+    "maw/maw-s-003-01-tide-cloak.html",
+    "maw/maw-s-004-01-sentrys-iron-plate.html",
+    "maw/maw-s-005-01-the-embrace-plate.html",
+    "maw/maw-s-006-01-leech-membrane-suit.html",
+    "maw/maw-s-007-01-the-hope-veil.html",
+    "maw/maw-s-008-01-sarcophagus-shroud.html",
+    "maw/maw-s-009-01-the-forgotten-veil.html",
+    "maw/maw-s-010-01-the-absolute-mantle.html",
+    "maw/maw-s-011-01-the-listening-shroud.html",
+    "maw/maw-s-014-01-the-debt-veil.html",
+    "maw/maw-s-015-01-the-balance-veil.html",
+    "maw/maw-set-synergies.html",
+    "maw/maw-w-001-01-the-laments-requiem.html",
+    "maw/maw-w-002-01-the-mourning-maul.html",
+    "maw/maw-w-003-01-memory-blade.html",
+    "maw/maw-w-004-01-rust-halberd.html",
+    "maw/maw-w-005-01-the-embrace-fang.html",
+    "maw/maw-w-006-01-siphon-cannula.html",
+    "maw/maw-w-007-01-the-hope-lens.html",
+    "maw/maw-w-008-01-thorn-impaler.html",
+    "maw/maw-w-009-01-the-forgotten-lens.html",
+    "maw/maw-w-010-01-the-absolute-maul.html",
+    "maw/maw-w-011-01-the-listening-requiem.html",
+    "maw/maw-w-014-01-the-debt-lens.html",
+    "maw/maw-w-015-01-the-balance-lens.html",
+    "mechanics/agent-attributes-and-stats.html",
+    "mechanics/containment-and-suppression.html",
+    "mechanics/default-standard-equipment.html",
+    "mechanics/enemy-bestiary.html",
+    "mechanics/fracture-and-therapy.html",
+    "mechanics/han-energy-and-damage.html",
+    "mechanics/han-relic-registry.html",
+    "mechanics/han-relics-and-tools.html",
+    "mechanics/index.html",
+    "mechanics/maw-equipment-system.html",
+    "mechanics/ordeal-black.html",
+    "mechanics/ordeal-blue.html",
+    "mechanics/ordeal-grey.html",
+    "mechanics/ordeal-pale.html",
+    "mechanics/ordeal-purple.html",
+    "mechanics/ordeals-framework.html",
+    "mechanics/panic-states-and-corrosion.html",
+    "mechanics/resonant-clash-mechanics.html",
+    "mechanics/taboo-resonance-mechanics.html",
+    "mechanics/the-four-ordeals.html",
+    "mechanics/the-four-work-types.html",
+    "project/downloads.html",
+    "project/source-map.html"
+  ];
+// <<< RANDOM_ARCHIVE_PAGES
+
+  function initRandomArchive() {
+    if (!RANDOM_ARCHIVE_PAGES.length) return;
+    document.addEventListener('click', (event) => {
+      const trigger = event.target.closest('[data-random-archive]');
+      if (!trigger) return;
+      event.preventDefault();
+      const brand = document.querySelector('a.footer-brand');
+      const rootPrefix = brand ? (brand.getAttribute('href') || '') : '';
+      const current = (location.pathname.split('/').pop() || 'index.html').toLowerCase();
+      let pick = current;
+      while (pick === current && RANDOM_ARCHIVE_PAGES.length > 1) {
+        pick = RANDOM_ARCHIVE_PAGES[(Math.random() * RANDOM_ARCHIVE_PAGES.length) | 0].toLowerCase();
+      }
+      location.href = rootPrefix + pick;
     });
-  } else {
+  }
+
+  // Initialize all components on DOM ready
+  const runInit = () => {
+    const contentArea = q('#content') || q('.wiki-content') || q('main');
+    ensureHeadingIds(contentArea);
     initTableOfContents();
     initActionTabs();
     initFloatingToc();
     initHeadingPermalinks();
     initBackToTop();
     initSearch();
+    initRandomArchive();
+  };
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', runInit);
+  } else {
+    runInit();
   }
 
 })();

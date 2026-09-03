@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DANCING PLATE">
+  <defs>
+    <radialGradient id="bg96892e" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <radialGradient id="gl96892e" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg96892e)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="141" fill="url(#gl96892e)"/>
+  <g transform="rotate(-1 200.0 190.0)">
+    <path d="M119.0 173.2 L167.6 143.8 L188.0 127.0 L212.0 127.0 L232.4 143.8 L281.0 173.2 L260.75 236.2 L200.0 269.2 L139.25 236.2 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
+    <path d="M139.2 160.6 L260.8 160.6" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".7"/>
+    <circle cx="200.0" cy="196.0" r="14" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
+    <circle cx="200.0" cy="196.0" r="8" fill="#3e8bd5" fill-opacity=".5"/>
+    <path d="M180.0 202.6 L220.0 208.6" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
+    <path d="M180.0 218.6 L220.0 224.6" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
+  </g>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-S-099-01</text>
+</svg>

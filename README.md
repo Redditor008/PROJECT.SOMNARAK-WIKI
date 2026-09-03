@@ -29,8 +29,8 @@ The 31 August 2026 snapshot reorganizes and expands the archive while preserving
 
 - **197** tracked public HTML files, including the 404 page and asset gallery
 - **8** principal archive hubs spanning Entities, M.A.W., Characters, Mechanics, Factions, Facility, Atlas, and Lore
-- Approximately **270,000 words** of public page content
-- **1,414** local SVG and PNG art assets
+- **253,462** words of public page content (chrome-excluded editorial count)
+- **448** local SVG art assets
 - Dedicated Hope Transformation, Unknown Entity, and five-color Ordeal collections
 
 See [`CHANGELOG.md`](CHANGELOG.md) for the reconstructed release history, route changes, verification details, and known issues.

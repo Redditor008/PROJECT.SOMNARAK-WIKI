@@ -1,19 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Somnarak city — hex, diamond, Maw">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Somnarak city — the canonical five-zone layout: bulwark ring E, forge flanks D, old ward B with the Maw, collectors chevron C, core diamond A around the Alpha Tree">
+  <defs>
+    <radialGradient id="cityGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="treeGlowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fef08a" stop-opacity="0.95"/>
+      <stop offset="45%" stop-color="#f59e0b" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#ef4444" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
   <rect width="1400" height="280" fill="#070410"/>
-  <g transform="translate(40,10) scale(2.2)">
-    <polygon points="60,8 104,32 104,88 60,112 16,88 16,32" fill="#2e1065" stroke="#a855f7" stroke-width="2"/>
-    <path d="M18,50 L40,40 L48,60 L40,80 L22,78 Z" fill="#14532d" stroke="#22c55e" stroke-width="1"/>
-    <path d="M102,50 L80,40 L72,60 L80,80 L98,78 Z" fill="#1e3a8a" stroke="#3b82f6" stroke-width="1"/>
-    <path d="M40,28 L60,16 L80,28 L60,40 Z" fill="#9a3412" stroke="#f59e0b" stroke-width="1"/>
-    <path d="M40,92 L60,104 L80,92 L60,80 Z" fill="#9a3412" stroke="#f59e0b" stroke-width="1"/>
-    <polygon points="60,38 80,60 60,82 40,60" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.5"/>
-    <circle cx="60" cy="60" r="5" fill="#f1df76"/>
-    <ellipse cx="32" cy="66" rx="10" ry="7" fill="#022c22" stroke="#22c55e" stroke-width="1.1"/>
+  <ellipse cx="215" cy="124" rx="240" ry="150" fill="url(#cityGlow)"/>
+
+  <!-- The City of Somnarak — canonical five-zone layout (from the municipal cartography) -->
+  <g>
+    <!-- Zone E: perimeter bulwark -->
+    <polygon points="157.4,25.5 272.6,25.5 330.2,124 272.6,222.5 157.4,222.5 99.8,124" fill="#2e1065" stroke="#a855f7" stroke-width="3"/>
+    <polygon points="161.2,32.7 268.8,32.7 320.6,124 268.8,215.3 161.2,215.3 109.4,124" fill="#0b0817" stroke="#c084fc" stroke-width="1.2" stroke-dasharray="6 4" opacity="0.95"/>
+    <!-- Zone D: north & south forge flanks -->
+    <polygon points="171.8,48.5 258.2,48.5 301.4,124 258.2,199.5 171.8,199.5 128.6,124" fill="#3a2305" stroke="#d97706" stroke-width="1.8"/>
+    <!-- Zone B: old ward, west lobe -->
+    <polygon points="151.4,85.1 128.6,124 151.4,162.9 215,157.6 181.4,124 215,90.4" fill="#052e1f" stroke="#10b981" stroke-width="1.8"/>
+    <!-- Zone C: collectors chevron, east -->
+    <polygon points="233.8,56.8 289.4,124 233.8,191.2 215,157.6 248.6,124 215,90.4" fill="#0c2a4d" stroke="#3b82f6" stroke-width="1.8"/>
+    <!-- The Maw -->
+    <path transform="translate(167,124)" d="M -14.4 -9.6 Q 0 -14.4 14.4 -9.6 Q 19.2 0 12 9.6 Q -2.4 14.4 -14.4 7.2 Z" fill="#022c22" stroke="#34d399" stroke-width="1.4"/>
+    <!-- Zone A: core nexus diamond -->
+    <polygon points="215,90.4 248.6,124 215,157.6 181.4,124" fill="#450a0a" stroke="#ef4444" stroke-width="2.2"/>
+    <polygon points="215,102.2 236.8,124 215,145.8 193.2,124" fill="#1c0505" stroke="#f87171" stroke-width="1.2"/>
+    <!-- Alpha Tree spire -->
+    <circle cx="215" cy="124" r="16" fill="url(#treeGlowB)"/>
+    <circle cx="215" cy="124" r="6.5" fill="#ffffff"/>
+    <circle cx="215" cy="124" r="10.5" fill="none" stroke="#ef4444" stroke-width="1.2" opacity="0.85"/>
+    <!-- Gates: I north, II west, III east -->
+    <polygon points="215,19.5 220,25.5 215,31.5 210,25.5" fill="#f1df76"/>
+    <polygon points="93.8,124 99.8,119 105.8,124 99.8,129" fill="#f1df76"/>
+    <polygon points="324.2,124 330.2,119 336.2,124 330.2,129" fill="#f1df76"/>
+    <!-- zone marks -->
+    <text x="193" y="72" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" fill="#f59e0b" text-anchor="middle">D</text>
+    <text x="193" y="190" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" fill="#f59e0b" text-anchor="middle">D</text>
+    <text x="146" y="103" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" fill="#34d399" text-anchor="middle">B</text>
+    <text x="262" y="129" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="bold" fill="#60a5fa" text-anchor="middle">C</text>
   </g>
+
   <text x="380" y="78" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="13" letter-spacing="3">MUGENHAN  ·  YEAR 4,238  ·  FROM THE CITY MAP</text>
   <text x="380" y="122" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="32" letter-spacing="1.4">SOMNARAK CITY</text>
-  <text x="380" y="158" fill="#94a3b8" font-family="Arial, sans-serif" font-size="15">Hex bulwark (E). Red diamond core (A) around the Alpha Tree. West B holds the Maw. East C is Collectors' Row. North/south D is forge and Echo Gardens.</text>
-  <text x="380" y="186" fill="#64748b" font-family="Arial, sans-serif" font-size="14">Not a 400 m titanium curtain. Not relic bazaars. The Hand of Change sits under the Tree, not as a seventh plaza building.</text>
+  <text x="380" y="158" fill="#94a3b8" font-family="Arial, sans-serif" font-size="15">Red diamond core (A) around the Alpha Tree. West B holds the Maw. East C is Collectors' Row. D flanks north and south.</text>
+  <text x="380" y="186" fill="#64748b" font-family="Arial, sans-serif" font-size="14">Bulwark ring E. Gates I, II, III: north, west, east. Not a titanium curtain, not relic bazaars — the Hand sits under the Tree.</text>
   <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
   <text x="32" y="248" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">A DIAMOND  ·  B WEST  ·  C EAST  ·  D FLANKS  ·  E RING</text>
   <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">FIVE ZONES  —  THE MAP, NOT A GRID</text>

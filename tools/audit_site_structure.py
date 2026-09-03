@@ -3,6 +3,10 @@
 
 from __future__ import annotations
 
+import re
+
+VERIFY_RE = re.compile(r"^(?:google|bing|yandex|facebook|twitter)[0-9a-zA-Z]{10,}\.(?:html|txt)$", re.I)
+
 import argparse
 import json
 import sys
@@ -118,7 +122,7 @@ def main() -> int:
         print(f"error: public root does not exist: {root}", file=sys.stderr)
         return 2
 
-    html_files = sorted(root.rglob("*.html"))
+    html_files = [p for p in sorted(root.rglob("*.html")) if not VERIFY_RE.match(p.name)]
     parsed: dict[Path, InventoryParser] = {}
     for path in html_files:
         parser = InventoryParser()

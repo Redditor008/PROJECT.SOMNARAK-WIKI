@@ -23,6 +23,8 @@ import argparse
 import hashlib
 import json
 import re
+
+VERIFY_RE = re.compile(r"^(?:google|bing|yandex|facebook|twitter)[0-9a-zA-Z]{10,}\.(?:html|txt)$", re.I)
 import sys
 import xml.etree.ElementTree as ET
 from collections import defaultdict
@@ -259,7 +261,7 @@ def main() -> int:
     alias_groups.sort(key=lambda group: group[0])
     cross_subject_groups.sort(key=lambda group: group[0])
 
-    html_files = sorted(html_root.rglob("*.html"))
+    html_files = [p for p in sorted(html_root.rglob("*.html")) if not VERIFY_RE.match(p.name)]
     page_visuals: dict[Path, PageVisualParser] = {}
     svg_usage: dict[Path, set[Path]] = defaultdict(set)
     for page in html_files:

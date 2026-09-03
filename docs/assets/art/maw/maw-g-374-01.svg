@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SLEEPING BRACELET">
+  <defs>
+    <radialGradient id="bgf56e75" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <radialGradient id="glf56e75" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgf56e75)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="120" fill="url(#glf56e75)"/>
+  <g transform="rotate(10 200.0 180.0)">
+    <circle cx="200.0" cy="180.0" r="82" fill="#d64a4a" fill-opacity=".16" stroke="#d64a4a" stroke-width="3"/>
+    <circle cx="200.0" cy="180.0" r="45.1" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".8"/>
+    <path d="M273.1 157.4 L205.1 193.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
+    <path d="M226.4 157.4 L210.4 193.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
+    <path d="M324.5 157.4 L215.2 193.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
+    <circle cx="200.0" cy="180.0" r="8" fill="#d64a4a" fill-opacity=".7"/>
+    <path d="M200.0 262.0 L190.0 252.0 L210.0 252.0 Z" fill="#d64a4a" fill-opacity=".4"/>
+  </g>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-G-374-01</text>
+</svg>

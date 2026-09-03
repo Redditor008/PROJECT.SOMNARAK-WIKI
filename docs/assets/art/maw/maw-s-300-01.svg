@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SECRET VEIL">
+  <defs>
+    <radialGradient id="bg940caa" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <radialGradient id="gl940caa" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg940caa)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="129" fill="url(#gl940caa)"/>
+  <g transform="rotate(8 200.0 190.0)">
+    <path d="M113.0 172.2 L165.2 141.05 L188.0 123.25 L212.0 123.25 L234.8 141.05 L287.0 172.2 L265.25 238.95 L200.0 273.2 L134.75 238.95 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
+    <path d="M134.8 158.8 L265.2 158.8" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".7"/>
+    <circle cx="200.0" cy="196.0" r="14" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
+    <circle cx="200.0" cy="196.0" r="8" fill="#3e8bd5" fill-opacity=".5"/>
+    <path d="M180.0 203.3 L220.0 209.3" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
+    <path d="M180.0 219.3 L220.0 225.3" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
+  </g>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-S-300-01</text>
+</svg>

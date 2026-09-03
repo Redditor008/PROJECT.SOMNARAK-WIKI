@@ -10,6 +10,8 @@ from __future__ import annotations
 import argparse
 import json
 import re
+
+VERIFY_RE = re.compile(r"^(?:google|bing|yandex|facebook|twitter)[0-9a-zA-Z]{10,}\.(?:html|txt)$", re.I)
 import sys
 from dataclasses import asdict, dataclass
 from html.parser import HTMLParser
@@ -152,7 +154,7 @@ def main() -> int:
         print("error: --minimum must be at least 1", file=sys.stderr)
         return 2
 
-    pages = sorted(root.rglob("*.html"))
+    pages = [p for p in sorted(root.rglob("*.html")) if not VERIFY_RE.match(p.name)]
     results = [count_page(path, root, args.minimum) for path in pages]
     failures = sorted(
         (result for result in results if not result.passes),
