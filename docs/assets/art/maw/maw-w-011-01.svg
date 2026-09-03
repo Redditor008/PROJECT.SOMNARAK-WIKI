@@ -1,30 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LISTENING REQUIEM">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- WEAPON // CRYSTAL BLADE -->
   <defs>
-    <radialGradient id="bgw011" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bg6560f7" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="glw011" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
+    <radialGradient id="gl6560f7" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgw011)" stroke="#38bdf8" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg6560f7)" stroke="#3e8bd5" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#glw011)"/>
-  
-  <!-- narrow blue crystal blade, one shallow groove, tiny moving letters -->
-  <path d="M186 64 L214 64 L228 300 L200 338 L172 300 Z" fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
-  <path d="M200 80 L200 292" fill="none" stroke="#e0f2fe" stroke-width="2.4"/>
-  <g fill="#bae6fd" font-family="Impact, Arial Black, sans-serif" font-size="9" opacity=".75">
-    <text x="206" y="120">A</text><text x="206" y="150">N</text>
-    <text x="206" y="180">A</text><text x="206" y="210">M</text>
-    <text x="206" y="240">E</text>
+  <circle cx="200" cy="188" r="113" fill="url(#gl6560f7)"/>
+  <g transform="rotate(8 200.0 192.0)">
+<path d="M187.0 192.0 L194.54 88.32000000000001 L200.0 48.0 L205.46 96.96 L213.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
+<path d="M200.0 192.0 L200.0 48.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
+<rect x="193.5" y="108.5" width="13.0" height="60.5" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
+<rect x="177.0" y="187.0" width="46.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
+<rect x="193.0" y="196.0" width="14" height="48.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
+<circle cx="200.0" cy="256.0" r="5.0" fill="#3e8bd5" fill-opacity=".7"/>
   </g>
-  <rect x="176" y="328" width="48" height="16" fill="#082f49" stroke="#38bdf8"/>
-    
-  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">WEAPON // GROOVED CRYSTAL</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE LISTENING REQUIEM</text>
+  <g transform="rotate(-16 214.0 128.0)">    <path d="M184.0 88.0 L198.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  </g>
+  <g transform="rotate(-16 214.0 128.0)">    <path d="M200.0 88.0 L214.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  </g>
+  <g transform="rotate(-16 214.0 128.0)">    <path d="M216.0 88.0 L230.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  </g>
+  <g transform="rotate(12 148.0 112.0)" opacity=".9">
+    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  </g>
+  <g transform="rotate(14 252.0 96.0)" opacity=".9">
+    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
+  </g>
+  <g transform="rotate(-14 152.0 300.0)" opacity=".9">
+    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
+  </g>
+  <g transform="rotate(-14 162.0 118.0)" opacity=".9">
+    <path d="M155.3 118.0 Q162.0 111.3 168.7 118.0" fill="none" stroke="#e0f2fe" stroke-width="1.3" opacity=".42"/><path d="M157.4 121.4 Q162.0 116.3 166.6 121.4" fill="none" stroke="#e0f2fe" stroke-width="0.8" opacity=".32"/>
+  </g>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-011-01</text>
 </svg>

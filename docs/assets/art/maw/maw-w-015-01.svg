@@ -1,27 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BALANCE LENS">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- WEAPON // GLASS PALE LENS -->
   <defs>
-    <radialGradient id="bgw015" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bg74ea08" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="glw015" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#e2e8f0" stop-opacity=".22"/>
+    <radialGradient id="gl74ea08" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgw015)" stroke="#e2e8f0" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg74ea08)" stroke="#8a8f98" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#glw015)"/>
-  
-  <!-- pale disc divided by a fine horizontal line that tilts -->
-  <circle cx="200" cy="170" r="98" fill="#1e293b" stroke="#e2e8f0" stroke-width="3.4"/>
-  <path d="M108 186 L292 154" stroke="#f1df76" stroke-width="3"/>
-  <path d="M200 72 A98 98 0 0 1 200 268" fill="#0f172a" opacity=".55"/>
-  <rect x="188" y="268" width="24" height="64" fill="#0f172a" stroke="#94a3b8" stroke-width="2"/>
-  <rect x="176" y="328" width="48" height="14" fill="#111" stroke="#e2e8f0"/>
-    
-  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#e2e8f0" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#e2e8f0" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">WEAPON // TILTED LINE</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE BALANCE LENS</text>
+  <circle cx="200" cy="188" r="118" fill="url(#gl74ea08)"/>
+  <g transform="rotate(-4 200.0 192.0)">
+<ellipse cx="200.0" cy="192.0" rx="65.0" ry="72.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
+<ellipse cx="200.0" cy="192.0" rx="56.0" ry="60.0" fill="#8a8f98" fill-opacity=".18"/>
+<ellipse cx="200.0" cy="192.0" rx="47.0" ry="50.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
+<path d="M241.8 136.8 L236.0 146.0" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<path d="M259.4 162.7 L251.2 167.6" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<path d="M265.0 194.5 L256.0 194.1" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<rect x="123.0" y="186.0" width="154.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
+<rect x="194.0" y="264.0" width="12" height="26.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
+  </g>
+  <g transform="rotate(-16 214.0 128.0)">    <path d="M184.0 88.0 L198.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  </g>
+  <g transform="rotate(-16 214.0 128.0)">    <path d="M200.0 88.0 L214.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  </g>
+  <g transform="rotate(-16 214.0 128.0)">    <path d="M216.0 88.0 L230.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
+  </g>
+  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
+  </g>
+  <g transform="rotate(5 200.0 82.0)" opacity=".9">
+    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
+  </g>
+  <g transform="rotate(-11 152.0 300.0)" opacity=".9">
+    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
+  </g>
+  <g transform="rotate(-14 250.0 320.0)" opacity=".9">
+    <path d="M250.0 313.5 L250.0 326.5" stroke="#8a8f98" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#8a8f98" stroke-width="2" opacity=".45"/>
+  </g>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-015-01</text>
 </svg>

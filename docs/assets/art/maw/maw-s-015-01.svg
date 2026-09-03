@@ -1,30 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BALANCE VEIL">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- SUIT // BALANCE VEIL -->
   <defs>
-    <radialGradient id="bgs015" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bg2bbddd" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gls015" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#e2e8f0" stop-opacity=".22"/>
+    <radialGradient id="gl2bbddd" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgs015)" stroke="#e2e8f0" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg2bbddd)" stroke="#8a8f98" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#gls015)"/>
-  
-  <!-- pale veil divided into ledger-like panels -->
-  <rect x="118" y="88" width="164" height="220" fill="#1e293b" stroke="#e2e8f0" stroke-width="3"/>
-  <line x1="200" y1="88" x2="200" y2="308" stroke="#f1df76" stroke-width="2"/>
-  <g stroke="#94a3b8" stroke-width="1.4">
-    <line x1="128" y1="130" x2="190" y2="130"/><line x1="210" y1="130" x2="272" y2="130"/>
-    <line x1="128" y1="168" x2="190" y2="168"/><line x1="210" y1="168" x2="272" y2="168"/>
-    <line x1="128" y1="206" x2="190" y2="206"/><line x1="210" y1="206" x2="250" y2="206"/>
-    <line x1="128" y1="244" x2="170" y2="244"/><line x1="210" y1="244" x2="272" y2="244"/>
+  <circle cx="200" cy="188" r="115" fill="url(#gl2bbddd)"/>
+  <g transform="rotate(-5 200.0 192.0)">
+<path d="M124.0 129.4 Q200.0 94.6 276.0 129.4 L269.9 245.9 Q200.0 272.0 130.1 245.9 Z" fill="#8a8f98" fill-opacity=".16" stroke="#8a8f98" stroke-width="3"/>
+<path d="M132.0 152.8 Q200.0 166.8 268.0 148.8" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M132.0 172.8 Q200.0 186.8 268.0 168.8" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M132.0 192.8 Q200.0 206.8 268.0 188.8" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<circle cx="200.0" cy="132.8" r="7" fill="#8a8f98" fill-opacity=".65"/>
   </g>
-    
-  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#e2e8f0" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#e2e8f0" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">SUIT // LEDGER PANELS</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE BALANCE VEIL</text>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 208.0 Q200.0 226.0 264.0 202.0" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 238.0 Q200.0 256.0 264.0 232.0" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 268.0 Q200.0 286.0 264.0 262.0" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-10 152.0 300.0)" opacity=".9">
+    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
+  </g>
+  <g transform="rotate(-10 250.0 320.0)" opacity=".9">
+    <path d="M250.0 313.5 L250.0 326.5" stroke="#8a8f98" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#8a8f98" stroke-width="2" opacity=".45"/>
+  </g>
+  <g transform="rotate(-14 200.0 236.0)" opacity=".9">
+    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
+  </g>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-S-015-01</text>
 </svg>

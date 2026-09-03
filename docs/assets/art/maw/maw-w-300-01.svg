@@ -1,26 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SECRET LENS">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- WEAPON // LENS -->
   <defs>
     <radialGradient id="bg9f2821" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gl9f2821" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg9f2821)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg9f2821)" stroke="#8a8f98" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="123" fill="url(#gl9f2821)"/>
-  <g transform="rotate(10 200.0 190.0)">
-    <path d="M174.0 190.0 L192.0 135.8 L187.0 35.0 L208.0 143.5 L226.0 190.0 Z" fill="#3e8bd5" fill-opacity=".28" stroke="#3e8bd5" stroke-width="3"/>
-    <path d="M200.0 190.0 L187.0 35.0" fill="none" stroke="#e0f2fe" stroke-width="1.4" opacity=".8"/>
-    <path d="M189.4 135.8 L201.4 139.8" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <path d="M187.3 109.9 L199.3 113.9" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <path d="M185.1 84.1 L197.1 88.1" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <rect x="166.0" y="186.0" width="68.0" height="8" rx="3" fill="#3e8bd5" fill-opacity=".5"/>
-    <rect x="193.0" y="194.0" width="14" height="46" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-    <circle cx="200.0" cy="248.0" r="5" fill="#3e8bd5" fill-opacity=".7"/>
+  <circle cx="200" cy="188" r="131" fill="url(#gl9f2821)"/>
+  <g transform="rotate(-12 200.0 192.0)">
+<ellipse cx="200.0" cy="192.0" rx="51.0" ry="73.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
+<ellipse cx="200.0" cy="192.0" rx="42.0" ry="61.0" fill="#8a8f98" fill-opacity=".18"/>
+<ellipse cx="200.0" cy="192.0" rx="33.0" ry="51.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
+<path d="M232.8 136.1 L227.0 145.3" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<path d="M246.6 162.3 L238.4 167.2" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<path d="M251.0 194.5 L242.0 194.1" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<path d="M245.0 226.3 L237.1 220.6" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<path d="M230.0 251.1 L224.7 241.4" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<rect x="137.0" y="186.0" width="126.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
+<rect x="194.0" y="265.0" width="12" height="37.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-300-01</text>
+  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
+  </g>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-300-01</text>
 </svg>

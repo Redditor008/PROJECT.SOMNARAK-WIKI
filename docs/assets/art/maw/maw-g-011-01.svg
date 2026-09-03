@@ -1,25 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LISTENING STONE">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- GIFT // LISTENING STONE -->
   <defs>
-    <radialGradient id="bgg011" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bg3886ff" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="glg011" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
+    <radialGradient id="gl3886ff" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgg011)" stroke="#38bdf8" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg3886ff)" stroke="#3e8bd5" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#glg011)"/>
-  
-  <!-- small deep-blue stone with one flat face -->
-  <path d="M120 230 L150 120 L250 108 L286 210 L240 268 L150 274 Z" fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
-  <path d="M150 120 L250 108 L250 128 L160 140 Z" fill="#082f49" stroke="#bae6fd" stroke-width="2"/>
-  <circle cx="200" cy="190" r="10" fill="#38bdf8" opacity=".5"/>
-    
-  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">GIFT // FLAT-FACE STONE</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE LISTENING STONE</text>
+  <circle cx="200" cy="188" r="123" fill="url(#gl3886ff)"/>
+  <g transform="rotate(-1 200.0 192.0)">
+<path d="M157.0 219.6 Q148.4 178.2, 187.1 161.6 Q221.5 146.0, 243.0 182.8 Q239.6 215.9 200.0 223.3 Z" fill="#3e8bd5" fill-opacity=".2" stroke="#3e8bd5" stroke-width="3"/>
+<path d="M180.2 199.4 C191.4 175.4, 205.2 179.1, 218.1 195.7" stroke="#e0f2fe" stroke-width="1.1" opacity=".55"/>
+  </g>
+  <g transform="rotate(-16 236.0 250.0)">    <path d="M200.0 278.0 C190.0 244.0, 212.0 230.0, 202.0 186.0" fill="none" stroke="#3e8bd5" stroke-width="2" opacity=".55"/>
+  </g>
+  <g transform="rotate(-8 152.0 300.0)" opacity=".9">
+    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
+  </g>
+  <g transform="rotate(3 162.0 118.0)" opacity=".9">
+    <path d="M155.3 118.0 Q162.0 111.3 168.7 118.0" fill="none" stroke="#e0f2fe" stroke-width="1.3" opacity=".42"/><path d="M157.4 121.4 Q162.0 116.3 166.6 121.4" fill="none" stroke="#e0f2fe" stroke-width="0.8" opacity=".32"/>
+  </g>
+  <g transform="rotate(-14 200.0 120.0)" opacity=".9">
+    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
+  </g>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-G-011-01</text>
 </svg>

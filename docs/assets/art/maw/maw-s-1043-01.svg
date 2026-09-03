@@ -1,24 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="MIASMA&#x27;S VEIL">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- SUIT // VEIL -->
   <defs>
     <radialGradient id="bg31ea84" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gl31ea84" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg31ea84)" stroke="#3e8bd5" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="145" fill="url(#gl31ea84)"/>
-  <g transform="rotate(-13 200.0 190.0)">
-    <path d="M139.0 172.6 L175.6 142.15 L188.0 124.75 L212.0 124.75 L224.4 142.15 L261.0 172.6 L245.75 237.85 L200.0 271.6 L154.25 237.85 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
-    <path d="M154.2 159.6 L245.8 159.6" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".7"/>
-    <circle cx="200.0" cy="196.0" r="14" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
-    <circle cx="200.0" cy="196.0" r="8" fill="#3e8bd5" fill-opacity=".5"/>
-    <path d="M180.0 203.1 L220.0 209.1" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
-    <path d="M180.0 219.1 L220.0 225.1" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
+  <circle cx="200" cy="188" r="117" fill="url(#gl31ea84)"/>
+  <g transform="rotate(-2 200.0 192.0)">
+<path d="M124.0 121.4 Q200.0 82.2 276.0 121.4 L269.9 252.8 Q200.0 282.2 130.1 252.8 Z" fill="#3e8bd5" fill-opacity=".16" stroke="#3e8bd5" stroke-width="3"/>
+<path d="M132.0 147.9 Q200.0 161.9 268.0 143.9" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M132.0 167.9 Q200.0 181.9 268.0 163.9" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M132.0 187.9 Q200.0 201.9 268.0 183.9" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M132.0 207.9 Q200.0 221.9 268.0 203.9" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M132.0 227.9 Q200.0 241.9 268.0 223.9" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<circle cx="200.0" cy="125.4" r="7" fill="#3e8bd5" fill-opacity=".65"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 208.0 Q200.0 226.0 264.0 202.0" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 238.0 Q200.0 256.0 264.0 232.0" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 268.0 Q200.0 286.0 264.0 262.0" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(4 148.0 112.0)" opacity=".9">
+    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  </g>
+  <g transform="rotate(-7 252.0 96.0)" opacity=".9">
+    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
+  </g>
+  <g transform="rotate(-14 152.0 300.0)" opacity=".9">
+    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
+  </g>
+  <g transform="rotate(-14 200.0 236.0)" opacity=".9">
+    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-S-1043-01</text>
 </svg>

@@ -1,25 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE WARNING THREAD">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- GIFT // THREAD -->
   <defs>
     <radialGradient id="bg62211b" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gl62211b" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg62211b)" stroke="#d64a4a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="117" fill="url(#gl62211b)"/>
-  <g transform="rotate(-1 200.0 180.0)">
-    <circle cx="200.0" cy="180.0" r="81" fill="#d64a4a" fill-opacity=".16" stroke="#d64a4a" stroke-width="3"/>
-    <circle cx="200.0" cy="180.0" r="44.6" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".8"/>
-    <path d="M307.6 157.7 L195.9 193.4" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M363.7 157.7 L192.2 193.4" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M271.5 157.7 L202.8 193.4" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <circle cx="200.0" cy="180.0" r="8" fill="#d64a4a" fill-opacity=".7"/>
-    <path d="M200.0 261.0 L190.0 252.0 L210.0 252.0 Z" fill="#d64a4a" fill-opacity=".4"/>
+  <circle cx="200" cy="188" r="121" fill="url(#gl62211b)"/>
+  <g transform="rotate(7 200.0 192.0)">
+<path d="M176.0 65.0 C224.0 47.0, 170.0 141.2, 226.0 166.6 C180.0 185.7, 226.0 212.0, 178.0 253.0" fill="none" stroke="#d64a4a" stroke-width="3"/>
+<path d="M216.0 146.3 C190.0 156.4, 218.0 181.8, 186.0 192.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".55"/>
+<circle cx="178.0" cy="253.0" r="5" fill="#d64a4a" fill-opacity=".6"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-G-249-01</text>
 </svg>

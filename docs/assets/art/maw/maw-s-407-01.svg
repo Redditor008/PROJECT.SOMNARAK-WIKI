@@ -1,24 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LINGERING VEIL">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- SUIT // VEIL -->
   <defs>
     <radialGradient id="bga9a030" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gla9a030" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bga9a030)" stroke="#3e8bd5" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="119" fill="url(#gla9a030)"/>
-  <g transform="rotate(-6 200.0 190.0)">
-    <path d="M125.0 171.2 L170.0 138.3 L188.0 119.5 L212.0 119.5 L230.0 138.3 L275.0 171.2 L256.25 241.7 L200.0 277.2 L143.75 241.7 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
-    <path d="M143.8 157.1 L256.2 157.1" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".7"/>
-    <circle cx="200.0" cy="196.0" r="14" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
-    <circle cx="200.0" cy="196.0" r="8" fill="#3e8bd5" fill-opacity=".5"/>
-    <path d="M180.0 204.1 L220.0 210.1" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
-    <path d="M180.0 220.1 L220.0 226.1" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
+  <circle cx="200" cy="188" r="131" fill="url(#gla9a030)"/>
+  <g transform="rotate(1 200.0 192.0)">
+<path d="M120.0 122.2 Q200.0 83.4 280.0 122.2 L273.6 252.1 Q200.0 281.2 126.4 252.1 Z" fill="#3e8bd5" fill-opacity=".16" stroke="#3e8bd5" stroke-width="3"/>
+<path d="M128.0 148.3 Q200.0 162.3 272.0 144.3" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M128.0 168.3 Q200.0 182.3 272.0 164.3" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M128.0 188.3 Q200.0 202.3 272.0 184.3" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M128.0 208.3 Q200.0 222.3 272.0 204.3" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M128.0 228.3 Q200.0 242.3 272.0 224.3" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<circle cx="200.0" cy="126.0" r="7" fill="#3e8bd5" fill-opacity=".65"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 208.0 Q200.0 226.0 264.0 202.0" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 238.0 Q200.0 256.0 264.0 232.0" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 268.0 Q200.0 286.0 264.0 262.0" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(4 200.0 320.0)" opacity=".9">
+    <circle cx="200.0" cy="320.0" r="4.8" fill="none" stroke="#3e8bd5" stroke-width="1.4" opacity=".42"/>
+  </g>
+  <g transform="rotate(-1 200.0 236.0)" opacity=".9">
+    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-S-407-01</text>
 </svg>

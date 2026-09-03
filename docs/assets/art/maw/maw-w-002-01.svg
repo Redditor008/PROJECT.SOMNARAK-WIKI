@@ -1,27 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MOURNING MAUL">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- WEAPON // BLACK MAUL -->
   <defs>
-    <radialGradient id="bgw002" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bg981f65" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="glw002" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".22"/>
+    <radialGradient id="gl981f65" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgw002)" stroke="#ef5b55" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg981f65)" stroke="#c9a86a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#glw002)"/>
-  
-  <!-- black Han-steel maul, head too broad for its shaft -->
-  <rect x="86" y="92" width="228" height="118" rx="8" fill="#1c1917" stroke="#ef5b55" stroke-width="3.2"/>
-  <rect x="102" y="108" width="196" height="86" rx="4" fill="#111" stroke="#7f1d1d" stroke-width="2"/>
-  <rect x="186" y="206" width="28" height="128" fill="#292524" stroke="#f1df76" stroke-width="2.4"/>
-  <rect x="176" y="328" width="48" height="16" fill="#1c1917" stroke="#ef5b55"/>
-  <path d="M110 150 H290" stroke="#fca5a5" stroke-width="2" opacity=".5"/>
-    
-  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">WEAPON // OVERBROAD HEAD</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE MOURNING MAUL</text>
+  <circle cx="200" cy="188" r="127" fill="url(#gl981f65)"/>
+  <g transform="rotate(-2 200.0 192.0)">
+<rect x="143.0" y="158.0" width="114.0" height="68.0" rx="7" fill="#c9a86a" fill-opacity=".24" stroke="#c9a86a" stroke-width="3.5"/>
+<path d="M165.8 168.2 L234.2 168.2" stroke="#e0f2fe" stroke-width="1.3" opacity=".7"/>
+<circle cx="200.0" cy="192.0" r="11.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
+<rect x="194.0" y="226.0" width="12" height="108.0" rx="4" fill="#1f2937" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="200.0" cy="344.0" r="7" fill="#c9a86a" fill-opacity=".55"/>
+  </g>
+  <g transform="rotate(-13 148.0 112.0)" opacity=".9">
+    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  </g>
+  <g transform="rotate(5 252.0 96.0)" opacity=".9">
+    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#c9a86a" opacity=".42"/>
+  </g>
+  <g transform="rotate(-14 250.0 320.0)" opacity=".9">
+    <path d="M250.0 313.5 L250.0 326.5" stroke="#c9a86a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".45"/>
+  </g>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-W-002-01</text>
 </svg>

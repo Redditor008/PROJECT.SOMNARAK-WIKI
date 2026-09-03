@@ -1,24 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DREAM SHROUD">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- SUIT // SHROUD -->
   <defs>
     <radialGradient id="bg826b58" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gl826b58" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg826b58)" stroke="#3e8bd5" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="112" fill="url(#gl826b58)"/>
-  <g transform="rotate(-1 200.0 190.0)">
-    <path d="M123.0 172.6 L169.2 142.15 L188.0 124.75 L212.0 124.75 L230.8 142.15 L277.0 172.6 L257.75 237.85 L200.0 271.6 L142.25 237.85 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
-    <path d="M142.2 159.6 L257.8 159.6" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".7"/>
-    <circle cx="200.0" cy="196.0" r="14" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
-    <circle cx="200.0" cy="196.0" r="8" fill="#3e8bd5" fill-opacity=".5"/>
-    <path d="M180.0 203.1 L220.0 209.1" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
-    <path d="M180.0 219.1 L220.0 225.1" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
+  <circle cx="200" cy="188" r="119" fill="url(#gl826b58)"/>
+  <g transform="rotate(-7 200.0 192.0)">
+<path d="M172.0 75.2 C160.8 150.2, 144.0 204.3, 163.0 280.6 C184.0 302.7, 216.0 302.7, 237.0 280.6 C256.0 204.3, 239.2 150.2, 228.0 75.2 Z" fill="#3e8bd5" fill-opacity=".18" stroke="#3e8bd5" stroke-width="3"/>
+<path d="M181.0 91.1 Q200.0 137.9 219.0 91.1" stroke="#e0f2fe" stroke-width="1.3" opacity=".55"/>
+<path d="M198.0 86.2 L194.0 233.8" stroke="#3e8bd5" stroke-width="1.6" opacity=".55"/>
+<path d="M202.0 86.2 L206.0 233.8" stroke="#3e8bd5" stroke-width="1.6" opacity=".55"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 208.0 Q200.0 226.0 264.0 202.0" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 238.0 Q200.0 256.0 264.0 232.0" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 268.0 Q200.0 286.0 264.0 262.0" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".4"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-S-175-01</text>
 </svg>

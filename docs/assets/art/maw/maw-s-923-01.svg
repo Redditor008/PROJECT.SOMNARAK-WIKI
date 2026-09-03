@@ -1,24 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="HATRED ABOVE&#x27;S VEIL">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- SUIT // VEIL -->
   <defs>
     <radialGradient id="bgaea436" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="glaea436" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgaea436)" stroke="#d64a4a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#glaea436)"/>
-  <g transform="rotate(6 200.0 190.0)">
-    <path d="M120.0 172.0 L168.0 140.5 L188.0 122.5 L212.0 122.5 L232.0 140.5 L280.0 172.0 L260.0 239.5 L200.0 274.0 L140.0 239.5 Z" fill="#d64a4a" fill-opacity=".22" stroke="#d64a4a" stroke-width="3"/>
-    <path d="M140.0 158.5 L260.0 158.5" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".7"/>
-    <circle cx="200.0" cy="196.0" r="14" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
-    <circle cx="200.0" cy="196.0" r="8" fill="#d64a4a" fill-opacity=".5"/>
-    <path d="M180.0 203.5 L220.0 209.5" fill="none" stroke="#d64a4a" stroke-width="1.2" opacity=".55"/>
-    <path d="M180.0 219.5 L220.0 225.5" fill="none" stroke="#d64a4a" stroke-width="1.2" opacity=".55"/>
+  <circle cx="200" cy="188" r="127" fill="url(#glaea436)"/>
+  <g transform="rotate(3 200.0 192.0)">
+<path d="M118.0 126.5 Q200.0 90.1 282.0 126.5 L275.4 248.4 Q200.0 275.7 124.6 248.4 Z" fill="#d64a4a" fill-opacity=".16" stroke="#d64a4a" stroke-width="3"/>
+<path d="M126.0 151.1 Q200.0 165.1 274.0 147.1" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M126.0 171.1 Q200.0 185.1 274.0 167.1" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M126.0 191.1 Q200.0 205.1 274.0 187.1" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M126.0 211.1 Q200.0 225.1 274.0 207.1" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M126.0 231.1 Q200.0 245.1 274.0 227.1" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<circle cx="200.0" cy="130.1" r="7" fill="#d64a4a" fill-opacity=".65"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 208.0 Q200.0 226.0 264.0 202.0" fill="none" stroke="#d64a4a" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 238.0 Q200.0 256.0 264.0 232.0" fill="none" stroke="#d64a4a" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 268.0 Q200.0 286.0 264.0 262.0" fill="none" stroke="#d64a4a" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-8 148.0 112.0)" opacity=".9">
+    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  </g>
+  <g transform="rotate(8 252.0 96.0)" opacity=".9">
+    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#d64a4a" opacity=".42"/>
+  </g>
+  <g transform="rotate(-14 152.0 300.0)" opacity=".9">
+    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
+  </g>
+  <g transform="rotate(-14 200.0 120.0)" opacity=".9">
+    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
+  </g>
+  <g transform="rotate(-14 200.0 236.0)" opacity=".9">
+    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-S-923-01</text>
 </svg>

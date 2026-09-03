@@ -1,25 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DEBT VEIL">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- SUIT // VOID VEIL -->
   <defs>
-    <radialGradient id="bgs014" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bg1a315a" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gls014" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#f1df76" stop-opacity=".22"/>
+    <radialGradient id="gl1a315a" cx="50%" cy="46%" r="42%">
+      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgs014)" stroke="#f1df76" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg1a315a)" stroke="#8a8f98" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#gls014)"/>
-  
-  <!-- pale veil close to the body; one opaque obligation mark -->
-  <path d="M126 96 C186 68 230 68 274 100 L288 246 C236 278 150 278 114 246 Z" fill="#f8fafc" fill-opacity=".1" stroke="#f1df76" stroke-width="2.4"/>
-  <ellipse cx="200" cy="176" rx="36" ry="48" fill="#1c1917" stroke="#f1df76" stroke-width="2"/>
-  <text x="200" y="182" text-anchor="middle" fill="#f1df76" font-family="Impact" font-size="16">1</text>
-    
-  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">SUIT // ONE MARK</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE DEBT VEIL</text>
+  <circle cx="200" cy="188" r="121" fill="url(#gl1a315a)"/>
+  <g transform="rotate(10 200.0 192.0)">
+<path d="M125.0 121.4 Q200.0 82.2 275.0 121.4 L269.0 252.8 Q200.0 282.2 131.0 252.8 Z" fill="#8a8f98" fill-opacity=".16" stroke="#8a8f98" stroke-width="3"/>
+<path d="M133.0 147.9 Q200.0 161.9 267.0 143.9" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M133.0 167.9 Q200.0 181.9 267.0 163.9" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M133.0 187.9 Q200.0 201.9 267.0 183.9" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M133.0 207.9 Q200.0 221.9 267.0 203.9" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<path d="M133.0 227.9 Q200.0 241.9 267.0 223.9" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
+<circle cx="200.0" cy="125.4" r="7" fill="#8a8f98" fill-opacity=".65"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 208.0 Q200.0 226.0 264.0 202.0" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 238.0 Q200.0 256.0 264.0 232.0" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 268.0 Q200.0 286.0 264.0 262.0" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(5 250.0 320.0)" opacity=".9">
+    <path d="M250.0 313.5 L250.0 326.5" stroke="#8a8f98" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#8a8f98" stroke-width="2" opacity=".45"/>
+  </g>
+  <g transform="rotate(-5 200.0 236.0)" opacity=".9">
+    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
+  </g>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-S-014-01</text>
 </svg>

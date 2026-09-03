@@ -1,26 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="VESTIGE PENDANT">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- GIFT // THREADED PENDANT -->
   <defs>
     <radialGradient id="bg86398e" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gl86398e" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg86398e)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg86398e)" stroke="#d64a4a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="118" fill="url(#gl86398e)"/>
-  <g transform="rotate(-6 200.0 180.0)">
-    <circle cx="200.0" cy="180.0" r="95" fill="#3e8bd5" fill-opacity=".16" stroke="#3e8bd5" stroke-width="3"/>
-    <circle cx="200.0" cy="180.0" r="52.3" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".8"/>
-    <path d="M414.7 153.9 L192.0 195.7" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M436.7 153.9 L190.5 195.7" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M447.7 153.9 L189.8 195.7" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M453.2 153.9 L207.7 195.7" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <circle cx="200.0" cy="180.0" r="8" fill="#3e8bd5" fill-opacity=".7"/>
-    <path d="M200.0 275.0 L190.0 252.0 L210.0 252.0 Z" fill="#3e8bd5" fill-opacity=".4"/>
+  <g transform="rotate(11 200.0 192.0)">
+<path d="M174.1 97.0 Q200.0 60.0 225.9 97.0" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".7"/>
+<path d="M181.5 134.0 L218.5 134.0" stroke="#e0f2fe" stroke-width="1.4" opacity=".7"/>
+<path d="M177.1 141.4 Q200.0 171.0 222.9 141.4 L215.5 171.0 Q200.0 182.8 184.5 171.0 Z" fill="#d64a4a" fill-opacity=".22" stroke="#d64a4a" stroke-width="3"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-G-622-01</text>
+  <g transform="rotate(4 152.0 300.0)" opacity=".9">
+    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
+  </g>
+  <g transform="rotate(-14 152.0 312.0)" opacity=".9">
+    <path d="M152.0 309.0 L152.0 315.0" stroke="#d64a4a" stroke-width="0.7" opacity=".5"/><circle cx="152.0" cy="309.3" r="1.5" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".5"/>
+  </g>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-G-622-01</text>
 </svg>

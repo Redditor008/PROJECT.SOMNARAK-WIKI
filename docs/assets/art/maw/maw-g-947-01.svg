@@ -1,27 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BLACK DROP">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- GIFT // CHARM -->
   <defs>
     <radialGradient id="bg69445f" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gl69445f" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg69445f)" stroke="#c9a86a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="137" fill="url(#gl69445f)"/>
-  <g transform="rotate(-5 200.0 180.0)">
-    <circle cx="200.0" cy="180.0" r="81" fill="#c9a86a" fill-opacity=".16" stroke="#c9a86a" stroke-width="3"/>
-    <circle cx="200.0" cy="180.0" r="44.6" fill="none" stroke="#c9a86a" stroke-width="1.6" opacity=".8"/>
-    <path d="M208.7 157.7 L184.7 193.4" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M314.3 157.7 L186.6 193.4" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M367.1 157.7 L203.1 193.4" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M393.8 157.7 L196.9 193.4" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M407.2 157.7 L209.4 193.4" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <circle cx="200.0" cy="180.0" r="8" fill="#c9a86a" fill-opacity=".7"/>
-    <path d="M200.0 261.0 L190.0 252.0 L210.0 252.0 Z" fill="#c9a86a" fill-opacity=".4"/>
+  <circle cx="200" cy="188" r="117" fill="url(#gl69445f)"/>
+  <g transform="rotate(8 200.0 192.0)">
+<path d="M200.0 99.0 L200.0 171.3" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
+<circle cx="200.0" cy="171.3" r="5" fill="#e0f2fe" opacity=".5"/>
+<path d="M152.4 179.8 Q200.0 131.0 247.6 179.8 L235.4 229.8 Q200.0 253.0 164.6 229.8 Z" fill="#c9a86a" fill-opacity=".22" stroke="#c9a86a" stroke-width="3"/>
+<path d="M176.8 204.2 L223.2 204.2" stroke="#e0f2fe" stroke-width="1.2" opacity=".6"/>
+  </g>
+  <g transform="rotate(-16 236.0 250.0)">    <path d="M200.0 278.0 C190.0 244.0, 212.0 230.0, 202.0 186.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".55"/>
+  </g>
+  <g transform="rotate(1 148.0 112.0)" opacity=".9">
+    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  </g>
+  <g transform="rotate(-14 252.0 96.0)" opacity=".9">
+    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#c9a86a" opacity=".42"/>
+  </g>
+  <g transform="rotate(-14 200.0 120.0)" opacity=".9">
+    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-G-947-01</text>
 </svg>

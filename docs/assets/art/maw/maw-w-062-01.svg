@@ -1,26 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE RESENTMENT FANG">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- WEAPON // FANG -->
   <defs>
     <radialGradient id="bgb9a37e" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="glb9a37e" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgb9a37e)" stroke="#d64a4a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="148" fill="url(#glb9a37e)"/>
-  <g transform="rotate(4 200.0 190.0)">
-    <path d="M174.0 190.0 L185.0 132.9 L187.0 27.0 L215.0 141.1 L226.0 190.0 Z" fill="#d64a4a" fill-opacity=".28" stroke="#d64a4a" stroke-width="3"/>
-    <path d="M200.0 190.0 L187.0 27.0" fill="none" stroke="#e0f2fe" stroke-width="1.4" opacity=".8"/>
-    <path d="M189.4 132.9 L201.4 136.9" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <path d="M187.3 105.8 L199.3 109.8" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <path d="M185.1 78.6 L197.1 82.6" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <rect x="166.0" y="186.0" width="68.0" height="8" rx="3" fill="#d64a4a" fill-opacity=".5"/>
-    <rect x="193.0" y="194.0" width="14" height="46" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-    <circle cx="200.0" cy="248.0" r="5" fill="#d64a4a" fill-opacity=".7"/>
+  <circle cx="200" cy="188" r="110" fill="url(#glb9a37e)"/>
+  <g transform="rotate(1 200.0 192.0)">
+<path d="M186.0 192.0 C180.0 117.19999999999999, 218.0 56.0 224.0 56.0 C214.0 121.28, 220.0 145.76, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
+<path d="M196.0 184.0 C208.0 129.44, 216.0 64.0 221.0 62.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
+<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
+<rect x="193.0" y="192.0" width="14" height="53.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
+<circle cx="200.0" cy="257.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
+  </g>
+  <g transform="rotate(-16 200.0 278.0)">    <circle cx="192.0" cy="264.0" r="5" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".45"/>
+  </g>
+  <g transform="rotate(-16 200.0 278.0)">    <circle cx="204.0" cy="264.0" r="5" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".45"/>
+  </g>
+  <g transform="rotate(-16 200.0 278.0)">    <circle cx="216.0" cy="264.0" r="5" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".45"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-062-01</text>
 </svg>
