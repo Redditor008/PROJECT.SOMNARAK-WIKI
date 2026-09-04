@@ -9,6 +9,10 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+## Appearance
+
+The Broken Plate is the suit of Door to No One’s set, bound by the same rule as its siblings: acknowledge both sides without forcing the threshold to reunite them. Rejection reproduces the originating wound — armor closed to anyone intending to occupy the doorway. Its defining engagement is the Mid-Threshold Plate vigil, the wearer stepping aside for separate choices: positioned between the two sides, its decisive act was withdrawal — the wearer leaving the frame so each side could choose without an intermediary’s body suggesting a direction. The item preserved the distinction between present choice and source grief by refusing to let protection become occupancy. The operational cost is the set’s signature: source emotion enters the bearer during use, the door’s vacancy pressing on the chest plates. Corrosion runs from attribution blurring, through compulsion becoming normal — the vigil sliding into residence — to a terminal failure that reenacts the original event through the operator. It is maintained by recording source, bearer, trigger, result, and unresolved uncertainty, with rest only after debrief. Emergency shutdown requires a named witness to restate the resolution while the bearer relinquishes the armor voluntarily — the set works only as Threshold Without Reunion; no piece resolves the source alone.
+
 **Grade / Element:** β / Grudge  
 **Resistances L/G/V/W:** 1.0/0.4/1.8/1.2  
 **Maximum / Cost:** 4 / 20 Echoes
