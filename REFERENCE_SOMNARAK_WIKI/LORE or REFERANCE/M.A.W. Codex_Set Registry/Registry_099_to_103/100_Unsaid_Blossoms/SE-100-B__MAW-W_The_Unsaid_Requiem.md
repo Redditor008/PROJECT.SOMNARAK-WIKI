@@ -54,7 +54,11 @@
 
 ## COMBAT FILE
 
-### Basic attack — *Held Breath*
+### Appearance
+
+The Unsaid Requiem is a narrow blade of pale-blue Han crystal with a single floating petal set above the guard, small enough to spin slowly in still air. The blade is smooth and cold, with a faint seam running down the flat that turns blue only when a silence is being held near it. The grip is short and wrapped in pale cord, and the guard is a rounded open ring. The weapon does not speak for the bearer; it makes silence heavy enough to acknowledge. A close blue strike deals Lament damage and lets an emotional pressure held behind silence become briefly perceptible, without translating the pressure into words. The petal spins backward when the bearer tries to edit another person's memory of a conversation, and it settles only when the bearer has written one sentence they can say and one boundary they will respect. After use the bearer writes one sentence they can say to a living person and one boundary they will respect, and the weapon is stored between the two sealed notes.
+
+### Basic attack— *Held Breath*
 
 A close blue strike deals Lament damage and makes an emotional pressure held behind silence briefly perceptible. The target may retain privacy; the weapon does not translate the pressure into words.
 

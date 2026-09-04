@@ -54,7 +54,11 @@ The Mantle formed from the soft dark residue left where the Giant’s seated han
 
 ## PROTECTIVE FILE
 
-### Passive effect — *Held Ground*
+### Appearance
+
+The Giants Mantle is a long black mantle of dense Han fabric that falls from the shoulders to the ankles in straight, unbroken panels, with an open collar mark and a hem that drags slightly across the floor. The cloth is heavier than it appears and stays still at rest. It strongly endures direct Weight pressure by treating the ground beneath the bearer as part of the defense, and it cannot function well on a bearer who believes they deserve no place to rest. When the wearer points to a rest location and the support person confirms the path, a stable Weight field holds the wearer's position through one concentrated impact or structural shift. If the wearer stays after the declared task ends, the field hardens around the boots and movement becomes slow and painful. The mantle is laid flat in its rest location after each use, and the support person traces the open collar mark while the wearer names one burden that will be handed off.
+
+### Passive effect— *Held Ground*
 
 The Mantle strongly endures direct Weight pressure by treating the ground beneath the bearer as part of the defense. It cannot function well on a bearer who believes they deserve no place to rest.
 

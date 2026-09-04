@@ -51,7 +51,11 @@
 
 ## EFFECT FILE
 
-### Passive effect — *Unclosed Gap*
+### Appearance
+
+The Cage Charm is a small charm of dark Han metal shaped like a barred window, with a set of vertical bars that brighten when a real barrier is present. It hangs from a short cord and rests against the bearer's chest, cold in an ordinary room. When the bearer names the affected person's current choice and an available safe route, the bright bar becomes visible to the team and shows where a release or review must begin. The charm does not establish legal guilt, prove intent, or let a bearer override every restriction they dislike. If used to identify an enemy rather than a barrier, it heats against the skin and shortens the bearer's temper. It is cooled in its case after the bearer names one fact they still do not know. After each reading, the oversight partner reviews the barrier report and its follow-up action with the bearer, and the charm is cooled only after one unknown fact is named.
+
+### Passive effect— *Unclosed Gap*
 
 The Charm marks one present operational barrier—physical, procedural, or Han-based—that is preventing someone from leaving, being heard, or receiving a lawful review.
 

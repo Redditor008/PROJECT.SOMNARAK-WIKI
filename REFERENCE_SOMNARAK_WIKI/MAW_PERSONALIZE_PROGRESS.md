@@ -126,4 +126,22 @@ Status: **done**. All 36 records had no Appearance section; inserted `### Appear
 - Latest remote commit at creation: `b93d520`.
 - Batch 1 commits: `019d5e7` (weapons + archetype catalog), `5c9e5d0` (`.md` appearance), `b93d520` (`.html` appearance sync).
 - Batch 2 commits: `cb8a687` (36 `.md` + 36 `.html` for sets 025–054 + this log).
-- Batch 3 commits: added after this log's update (see `git log --oneline -N` for `MAW batch (3): ...`).
+- Batch 3 commits: `7f4c476` (36 `.md` + 36 `.html` for sets 055–099 + this log).
+
+## 9. Batch 4 (sets 100, 101, 102, 103, 105, 106, 108, 115, 119, 120, 125)
+
+Status: **done**. Set 111 is entity-only (`SE-111-A__SIDE_CODEX_The_Final_Door.md`, no W/S/G items), so batch 4 = 11 sets / **33 records** instead of 36.
+
+- All 33 records had **no** `### Appearance` section → inserted into each `.md` (150–177 words), then synced into the matching `docs/maw/maw-*-NNN-01-*.html` page (all inserted after the Overview paragraph, before Extraction or Bestowal).
+- md↔html parity: **33 / 33 exact** after normalizing HTML entity encoding (`&#x27;` ↔ `'`, `&amp;` ↔ `&`).
+- Word floor: **min 150 / max 177** on both `.md` and `.html`.
+- Same batch-3 gotchas applied: inserted `###` headers restored (33/33); short paragraphs supplemented with one lore-consistent closing line to reach ≥150 (32 supplemented, 1 was at 150).
+- No SVGs touched.
+
+### File paths touched (Batch 4)
+Registry dirs:
+- `Registry_099_to_103/{100_Unsaid_Blossoms,101_Emberling,102_Dancing_Chains,103_Frozen_Veil}`
+- `Registry_105_to_115/{105_Lonely_Giant,106_I_Alone_Crossed,108_Animus,115_Remembrance}`
+- `Registry_119_to_127/{119_Homeless_Sorrow,120_Redcage,125_Deja_Vu}`
+
+Each set's `SE-NNN-B/C/D` `.md` record plus the matching `docs/maw/maw-<w|s|g>-NNN-01-*.html` page.

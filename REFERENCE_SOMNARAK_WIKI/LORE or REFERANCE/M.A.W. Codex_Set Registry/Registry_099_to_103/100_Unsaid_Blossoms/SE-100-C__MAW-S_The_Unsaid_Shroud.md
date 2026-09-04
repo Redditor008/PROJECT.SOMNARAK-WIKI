@@ -54,7 +54,11 @@ The Shroud grew from a cluster of fallen petals after a visitor stayed beneath t
 
 ## PROTECTIVE FILE
 
-### Passive effect — *Layered Silence*
+### Appearance
+
+The Unsaid Shroud is a pale blue shroud of soft Han silk cut to hang over the shoulders and chest in loose, layered folds, each fold carrying a single upright petal vein. The inner lining is smooth and cool, and the hem is heavier than the rest of the cloth because it holds the unsaid words the wearer has allowed to wait. The wrap fastens at the throat and can be loosened by the wearer alone. When a boundary phrase passes through the fabric, the hem absorbs one sudden Lament surge without turning the wearer into stone. If the phrase is used to manipulate or abandon another person, the fabric grows heavy and its protection returns to normal. Between uses the shroud hangs over an empty chair beside a blank page, never with a finished confession. Between uses the wrap is hung over an empty chair beside a blank page, and the bearer writes only a boundary, never a confession, before folding the page away.
+
+### Passive effect— *Layered Silence*
 
 The Shroud reduces direct Lament impact by keeping incoming emotional pressure separate, like petals that fall one at a time instead of all at once.
 

@@ -54,7 +54,11 @@ The Veil formed after a worker stayed with a returned memory until it faded and 
 
 ## PROTECTIVE FILE
 
-### Passive effect — *Current Outline*
+### Appearance
+
+The Returning Veil is a pale veil of fine Han gossamer with an inner seam that runs from the collar to the hem, and a small seed knot at the throat where the current-time card is tucked. The cloth is light and cool and settles over the shoulders without hiding the face. It strongly resists Void return pressure by distinguishing a bearer's current self from a memory or object that has reappeared too late. When a witness speaks a three-part current anchor and the wearer answers with a present choice, the veil rejects one return-image surge and makes the current body unmistakable to the wearer. If the wearer responds only with a past fact, the anchor freezes and resistance returns to normal. The veil is not stored with relics, photographs, or objects intended to trigger a return. After each use the wearer and witness refresh the current-time card and name one choice available today, and the veil is never stored beside a memory object.
+
+### Passive effect— *Current Outline*
 
 The Veil strongly resists Void return pressure by distinguishing a bearer’s current self from a memory or object that has reappeared too late.
 

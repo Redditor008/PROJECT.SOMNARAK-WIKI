@@ -54,7 +54,11 @@
 
 ## COMBAT FILE
 
-### Basic attack — *Residue Mark*
+### Appearance
+
+The Trace Fang is a narrow crimson blade of Han iron with a red thread wound around the grip, the thread glowing only when a context note has been written with one known fact and one unknown. The edge is slim and unpolished, and the blade carries a faint residue mark near the guard. The Fang strikes a single target with weak Grudge output and identifies whether active fury is coming from the present interaction or from clinging residue of a past event. When the bearer states the evidence limit in front of a second observer, it separates one current threat response from inherited rage long enough for the team to act on what is happening. The red thread wraps the grip if the bearer names a culprit the residue does not establish. It is stored beside the unknown field. After each use the bearer reads the known fact and unknown field aloud with a second observer, and the fang is stored beside the unknown field rather than the conclusion.
+
+### Basic attack— *Residue Mark*
 
 The Fang strikes a single target with weak Grudge output and identifies whether active fury is coming from the present interaction or clinging residue from a past event.
 

@@ -54,7 +54,11 @@
 
 ## COMBAT FILE
 
-### Basic attack — *Far-Side Line*
+### Appearance
+
+The I Alone Crossed Requiem is a long blade of pale-blue Han crystal with a broken fuller running down the centre of the flat, the break widening and dimming as the weapon carries an account that still blames one person. The blade is smooth and cold, and its edge narrows to a short point. The grip is wrapped in dark blue cord over a ridged core, and the guard is a crossed ring. The weapon sends a blue Pierce line through a survivor-guilt or abandonment surge, dealing direct Lament damage without declaring that loss has been repaired. A debrief partner and the bearer draw a route with at least two safe exits and mark one factor no person controlled; the requiem rests across the completed map, never across a single name. The fuller dims only after that account is shared. The bearer and debrief partner draw a route with at least two safe exits and mark one factor no person controlled, and the requiem rests across the completed map.
+
+### Basic attack— *Far-Side Line*
 
 The Requiem sends a blue Pierce line through a survivor-guilt or abandonment surge. It deals direct Lament damage without declaring that loss has been repaired.
 

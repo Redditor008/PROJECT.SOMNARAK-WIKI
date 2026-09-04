@@ -54,7 +54,11 @@
 
 ## COMBAT FILE
 
-### Basic attack — *Witness Line*
+### Appearance
+
+The Memory Lens is a pale Han-glass disc, slightly convex, in a dark frame at the top of a short handle, with a faint pale seam crossing the face. It is cold and almost invisible in clear air and carries no writing. The lens sends a pale Void Pierce through an invasive memory pressure, separating a target's identity from a memory that is trying to overwrite or consume it. When two witnesses confirm the line of custody, it cuts the pressure free and returns it to an approved containment or Archive vessel without granting the bearer access to its contents. It cannot restore a deleted memory or decide who owns a disputed one. The lens is placed face-down in a pale-lined case and never cleaned with liquid from the Well, and a forced shutter can scatter memory fragments into both witnesses. The two witnesses sign the custody card and name what the bearer is not allowed to know, and the lens is placed face-down in its pale-lined case after every use.
+
+### Basic attack— *Witness Line*
 
 The Lens sends a pale Void Pierce through an invasive memory pressure, separating a target’s identity from a memory that is trying to overwrite or consume it.
 

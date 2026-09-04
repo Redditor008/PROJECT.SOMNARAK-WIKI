@@ -54,7 +54,11 @@ The Shield formed from a released bar echo after a Cage observation team acknowl
 
 ## PROTECTIVE FILE
 
-### Passive effect — *Rage Catch*
+### Appearance
+
+The Cage Shield is a back plate of crimson Han iron fitted over the spine and shoulders with narrow black straps, and a grid of vertical ridges that close into a solid surface when a barrier is active. A single gap remains in the lower backplate while an exit route is open, and the metal is unpolished and warm near the ridges. The shield absorbs direct Grudge attacks into its backplate and disperses the impact only if the wearer maintains an open route for those affected by the conflict. When a release observer confirms the exit remains open, the grid reflects one rage-based strike away from protected people and into an unoccupied pressure field. If the wearer blocks the route after activation, the reflected force returns and leaves the wearer convinced they are trapped. An open route is drawn on the shield case before every issue. Before every issue the wearer draws an open route on the shield case, and a release observer checks the route against the actual site rather than the diagram alone.
+
+### Passive effect— *Rage Catch*
 
 The Shield absorbs direct Grudge attacks into its backplate and disperses the impact only if the wearer maintains an open route for those affected by the conflict.
 

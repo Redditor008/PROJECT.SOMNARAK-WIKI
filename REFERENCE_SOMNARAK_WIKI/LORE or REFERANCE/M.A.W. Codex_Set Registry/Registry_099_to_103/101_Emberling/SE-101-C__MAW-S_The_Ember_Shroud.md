@@ -54,7 +54,11 @@ The Shroud formed when Emberling watched a worker move away from the chair only 
 
 ## PROTECTIVE FILE
 
-### Passive effect — *Hearth Space*
+### Appearance
+
+The Ember Shroud is a soft dark-blue shroud of Han silk cut to the waist, with a warm glow running along the hem and a single shoulder clasp on the left side. The inner lining is smooth and cool, while the outer weave carries a faint ember light that reaches the hem only when a handover is real. The shroud reduces direct Lament harm in a small shared space where two people can remain by choice, and it never converts presence into confinement. When a named relief person sits or stands in the space and acknowledges the bearer's planned departure, the hem holds one incoming cold or abandonment surge while the transition occurs. If no relief arrives by the declared time, the glow darkens and all Lament resistance returns to normal. It is aired beside an open doorway with two chairs, one of them empty. The shroud is aired beside an open doorway with two chairs, one of them empty, and the wearer names who may use the empty chair before the clasp is folded.
+
+### Passive effect— *Hearth Space*
 
 The Shroud reduces direct Lament harm in a small shared space where the wearer and another person can remain by choice. It never converts presence into confinement.
 

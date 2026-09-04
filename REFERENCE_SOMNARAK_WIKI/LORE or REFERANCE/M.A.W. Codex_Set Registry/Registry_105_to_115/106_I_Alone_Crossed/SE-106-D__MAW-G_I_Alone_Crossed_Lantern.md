@@ -51,7 +51,11 @@
 
 ## EFFECT FILE
 
-### Passive effect — *Route Sense*
+### Appearance
+
+The I Alone Crossed Lantern is a small lantern of pale blue Han glass with a narrow top loop, a shutter at the front, and a base that sits flat on any surface. The glass is clear until it fills with blue threads of trust, responsibility, abandonment, and support between people, each thread brightening as a route is mapped. When the bearer asks permission to map a live team's connection, one failed or fragile handoff becomes visible as a dim gap in the threads. The light does not reveal who deserves fault, and every witnessed gap is felt by the bearer as though they were the one who failed to cross it. The lantern is closed only after a next action is recorded rather than a blame finding, and its blue depth must stop moving before storage. The lantern is closed only after a next action is recorded with the people involved, and its blue threads must stop moving before the case is stored.
+
+### Passive effect— *Route Sense*
 
 The Lantern shows emotional routes: trust, responsibility, abandonment, and support between people. It does not show who deserves fault or guarantee that a route can be repaired.
 

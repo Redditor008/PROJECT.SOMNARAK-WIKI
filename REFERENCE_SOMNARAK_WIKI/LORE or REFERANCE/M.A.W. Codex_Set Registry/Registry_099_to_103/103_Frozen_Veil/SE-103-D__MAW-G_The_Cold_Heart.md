@@ -52,7 +52,11 @@
 
 ## EFFECT FILE
 
-### Passive effect — *Blank Pulse*
+### Appearance
+
+The Cold Heart is a small pale-glass charm shaped like a flattened heart, worn at the head slot on a short pin. Its surface is white and smooth while inactive and carries a thin blue line that warms faintly when a sharp emotional manipulation attempt is detected. Under an authorized emergency interval, the heart makes the wearer immune to emotional manipulation, but also unable to feel love, fear, grief, joy, guilt, or relief while it holds. The glass stays white until the threat ends and turns grey only after the welfare authority and the relationship anchor confirm the removal plan. A thin internal crack means delayed feelings are building for return. The heart is never tested to measure duration, and it is returned to paired-key custody after any controlled use. Before any activation, the welfare authority and the relationship anchor both confirm the removal plan in writing, and the heart is never left active after the threat has ended.
+
+### Passive effect— *Blank Pulse*
 
 While inactive, the Heart detects a sharp emotional manipulation attempt through a pale heat at the head slot. Detection is not an authorization to activate.
 

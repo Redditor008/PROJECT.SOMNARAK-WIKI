@@ -51,7 +51,11 @@
 
 ## EFFECT FILE
 
-### Passive effect — *Low Light*
+### Appearance
+
+The Shadow Hearth is a small round charm of dark Han metal with a shallow recess at its centre, worn at the head slot on a short pin. The metal is cold and grey until the bearer creates a low-light circle, at which point a soft amber light gathers in the recess without producing heat. It identifies a nearby displaced sorrow by cooling against the bearer, without revealing who caused the displacement. When a person consents to remain in the circle and a follow-up witness accepts the later account, the hearth creates a small area where displaced sorrow can settle long enough for the person to speak, rest, or choose an exit. The light goes out and the grief moves into the bearer's own emotional field when the hearth closes. It is cleaned only with a dry cloth. After the hearth closes, the bearer tells the follow-up person which grief settled and what practical support is needed next, and the recess is cleaned with a dry cloth only.
+
+### Passive effect— *Low Light*
 
 The Hearth identifies a nearby displaced sorrow by cooling at the head slot. It does not reveal the person who “caused” displacement or provide a permanent place to live.
 
