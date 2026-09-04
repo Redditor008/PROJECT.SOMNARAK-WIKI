@@ -11,9 +11,9 @@
       <stop offset="1" stop-color="#000" stop-opacity=".9"/>
     </radialGradient>
     <linearGradient id="avPlate" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#3c3c44"/>
-      <stop offset=".5" stop-color="#18181c"/>
-      <stop offset="1" stop-color="#0c0c0e"/>
+      <stop offset="0" stop-color="#565660"/>
+      <stop offset=".5" stop-color="#2a2a32"/>
+      <stop offset="1" stop-color="#111114"/>
     </linearGradient>
     <linearGradient id="avCord" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#8a8f98"/>
@@ -26,50 +26,48 @@
 
   <rect width="400" height="400" fill="url(#avBg)"/>
 
-  <!-- nineteen unsaved (subtle) -->
-  <g fill="#565660" opacity=".35">
-    <circle cx="90" cy="106" r="3"/><circle cx="122" cy="82" r="3"/><circle cx="158" cy="60" r="3"/>
-    <circle cx="200" cy="50" r="3"/><circle cx="242" cy="60" r="3"/><circle cx="278" cy="82" r="3"/>
-    <circle cx="310" cy="106" r="3"/><circle cx="70" cy="144" r="3"/><circle cx="330" cy="144" r="3"/>
-    <circle cx="92" cy="180" r="3"/><circle cx="308" cy="180" r="3"/><circle cx="120" cy="210" r="3"/>
-    <circle cx="280" cy="210" r="3"/>
-  </g>
-  <g stroke="#565660" stroke-width="1" opacity=".3" stroke-dasharray="3 3">
-    <path d="M70 124 Q150 112 200 124 Q250 112 330 124"/>
+  <!-- nineteen unsaved (subtle constellation behind the charm) -->
+  <g fill="#565660" opacity=".3">
+    <circle cx="80" cy="84" r="3"/><circle cx="118" cy="58" r="3"/><circle cx="160" cy="40" r="3"/>
+    <circle cx="205" cy="32" r="3"/><circle cx="250" cy="40" r="3"/><circle cx="292" cy="58" r="3"/>
+    <circle cx="324" cy="84" r="3"/><circle cx="62" cy="140" r="3"/><circle cx="340" cy="140" r="3"/>
+    <circle cx="84" cy="192" r="3"/><circle cx="316" cy="192" r="3"/><circle cx="108" cy="240" r="3"/>
+    <circle cx="292" cy="240" r="3"/><circle cx="138" cy="284" r="3"/><circle cx="262" cy="284" r="3"/>
+    <circle cx="168" cy="318" r="3"/><circle cx="232" cy="318" r="3"/><circle cx="200" cy="338" r="3"/>
   </g>
 
-  <!-- WEARING CHAIN + BAIL: clear way to carry the verdict plate -->
-  <path d="M200 34 L200 74" stroke="url(#avCord)" stroke-width="2"/>
-  <circle cx="200" cy="32" r="5" fill="#2a2a30" stroke="#8a8f98" stroke-width="1.4"/>
-  <circle cx="200" cy="32" r="2" fill="#8a8f98"/>
-  <path d="M186 74 L214 74" stroke="#8a8f98" stroke-width="1.8"/>
+  <!-- WEARING CHAIN + BAIL: compact black charm with clear hanging hardware -->
+  <path d="M200 44 L200 86" stroke="url(#avCord)" stroke-width="2.2"/>
+  <circle cx="200" cy="42" r="6" fill="#2a2a30" stroke="#8a8f98" stroke-width="1.6"/>
+  <circle cx="200" cy="42" r="2.4" fill="#8a8f98"/>
+  <path d="M200 86 L200 96" stroke="#8a8f98" stroke-width="2"/>
+  <circle cx="200" cy="98" r="5" fill="none" stroke="#8a8f98" stroke-width="1.8"/>
 
-  <!-- Downward-triangular verdict plate -->
-  <path d="M200 82 L296 236 Q200 282 104 236 Z" fill="url(#avPlate)" stroke="#565660" stroke-width="2.6"/>
-
-  <!-- Closed eye crown -->
-  <path d="M174 122 Q188 112 202 122 Q188 132 174 122 Z" fill="#0a0a0c" stroke="#8a8f98" stroke-width="1.2"/>
-  <path d="M188 122 L188 130" stroke="#8a8f98" stroke-width="1"/>
-
-  <!-- Scale left -->
-  <path d="M152 168 L152 208" stroke="#8a8f98" stroke-width="1.8"/>
-  <path d="M138 176 Q152 168 166 176" fill="none" stroke="#8a8f98" stroke-width="1.4"/>
-  <path d="M138 176 L138 192 Q152 200 166 192 L166 176" fill="none" stroke="#8a8f98" stroke-width="1.2"/>
-  <path d="M146 194 Q152 190 158 194" stroke="#8a8f98" stroke-width="1" opacity=".7"/>
-
-  <!-- Folded wing right -->
-  <path d="M228 170 Q238 156 252 164 Q242 176 238 192 Z" fill="none" stroke="#8a8f98" stroke-width="1.5"/>
-  <path d="M234 180 Q242 176 248 184 M240 196 Q248 192 254 200" fill="none" stroke="#8a8f98" stroke-width="1" opacity=".8"/>
-
-  <!-- Heavy on self-excuse -->
-  <path d="M206 246 Q200 260 194 246" fill="none" stroke="#8a8f98" stroke-width="1.4" opacity=".7"/>
-  <circle cx="200" cy="256" r="4.4" fill="#8a8f98" opacity=".7"/>
-
-  <!-- Sentence pressure -->
-  <path d="M148 304 L252 304 M162 322 L238 322" stroke="#565660" stroke-width="1.2" opacity=".4"/>
-  <g filter="url(#avGlow)">
-    <circle cx="200" cy="256" r="28" fill="none" stroke="#8a8f98" stroke-width=".8" opacity=".55"/>
+  <!-- Downward-triangular verdict pendant (compact, symmetrical, physical) -->
+  <g>
+    <path d="M200 106 L272 224 Q200 272 128 224 Z" fill="url(#avPlate)" stroke="#8a8f98" stroke-width="2.4"/>
+    <path d="M200 110 L267 221 L200 265 L133 221 Z" fill="#22222a" opacity=".45"/>
+    <!-- closed eye crown -->
+    <path d="M176 146 Q190 136 204 146 Q190 156 176 146 Z" fill="#0a0a0c" stroke="#a9aeb6" stroke-width="1.3"/>
+    <path d="M190 146 L190 154" stroke="#a9aeb6" stroke-width="1"/>
+    <!-- scale left -->
+    <path d="M166 182 L166 218" stroke="#a9aeb6" stroke-width="1.8"/>
+    <path d="M154 190 Q166 183 178 190" fill="none" stroke="#a9aeb6" stroke-width="1.4"/>
+    <path d="M154 190 L154 206 Q166 213 178 206 L178 190" fill="none" stroke="#a9aeb6" stroke-width="1.2"/>
+    <path d="M162 208 Q166 205 170 208" stroke="#a9aeb6" stroke-width="1" opacity=".7"/>
+    <!-- folded wing right -->
+    <path d="M234 184 Q244 170 258 178 Q248 190 244 206 Z" fill="none" stroke="#a9aeb6" stroke-width="1.5"/>
+    <path d="M240 194 Q248 190 254 198 M246 210 Q254 206 260 214" fill="none" stroke="#a9aeb6" stroke-width="1" opacity=".8"/>
+    <!-- heavy on self-excuse -->
+    <path d="M206 232 Q200 246 194 232" fill="none" stroke="#a9aeb6" stroke-width="1.4" opacity=".7"/>
+    <circle cx="200" cy="240" r="4.4" fill="#a9aeb6" opacity=".7"/>
   </g>
+
+  <!-- shadow halo -->
+  <circle cx="200" cy="200" r="72" fill="none" stroke="#8a8f98" stroke-width=".8" opacity=".35" filter="url(#avGlow)"/>
+
+  <!-- sentence pressure -->
+  <path d="M150 322 L250 322 M164 334 L236 334" stroke="#565660" stroke-width="1.2" opacity=".4"/>
 
   <rect width="400" height="400" fill="url(#avVign)"/>
 </svg>

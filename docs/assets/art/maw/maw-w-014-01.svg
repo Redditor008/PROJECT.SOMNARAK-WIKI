@@ -36,51 +36,54 @@
     <path d="M52 60 L52 334 M348 60 L348 334 M52 94 L348 94 M52 158 L348 158"/>
   </g>
 
-  <!-- Ledger behind -->
-  <rect x="148" y="100" width="120" height="150" rx="5" fill="#ffffff" stroke="#8a979e" stroke-width="1.6" opacity=".95"/>
+  <!-- Ledger behind the lens -->
+  <rect x="148" y="72" width="120" height="180" rx="5" fill="#ffffff" stroke="#8a979e" stroke-width="1.6" opacity=".95"/>
   <g stroke="#6f7d86" stroke-width="1.2" opacity=".75">
-    <line x1="162" y1="120" x2="254" y2="120"/><line x1="162" y1="136" x2="232" y2="136"/>
-    <line x1="162" y1="152" x2="248" y2="152"/><line x1="162" y1="186" x2="254" y2="186"/>
-    <line x1="162" y1="202" x2="226" y2="202"/><line x1="162" y1="218" x2="240" y2="218"/>
+    <line x1="162" y1="92" x2="254" y2="92"/><line x1="162" y1="108" x2="232" y2="108"/>
+    <line x1="162" y1="124" x2="248" y2="124"/><line x1="162" y1="158" x2="254" y2="158"/>
+    <line x1="162" y1="174" x2="226" y2="174"/><line x1="162" y1="190" x2="240" y2="190"/>
   </g>
-  <path d="M180 168 L210 168 L210 178 L195 186 L180 178 Z" fill="#8a979e" opacity=".6"/>
-  <circle cx="190" cy="174" r="5" fill="#6f7d86" opacity=".5"/><circle cx="204" cy="174" r="5" fill="#6f7d86" opacity=".5"/>
+  <path d="M180 140 L210 140 L210 150 L195 158 L180 150 Z" fill="#8a979e" opacity=".6"/>
+  <circle cx="190" cy="146" r="5" fill="#6f7d86" opacity=".5"/><circle cx="204" cy="146" r="5" fill="#6f7d86" opacity=".5"/>
 
-  <!-- Pale lens in squared bracket -->
-  <g transform="rotate(-10 208 172)">
-    <circle cx="208" cy="172" r="70" fill="url(#dlGlass)" stroke="#a9b7c0" stroke-width="2.6"/>
-    <circle cx="208" cy="172" r="58" fill="none" stroke="#ffffff" stroke-width="1.4" opacity=".7"/>
-    <g filter="url(#dlGlow)">
-      <ellipse cx="190" cy="158" rx="32" ry="25" fill="#8a979e" opacity=".4"/>
-      <ellipse cx="230" cy="186" rx="28" ry="21" fill="#a9b7c0" opacity=".35"/>
-    </g>
-    <path d="M160 202 L208 176 L256 202" fill="none" stroke="#ffffff" stroke-width="1.8" opacity=".9"/>
+  <!-- Debt lens: ring + glass, straight up on centre axis -->
+  <g filter="url(#dlGlow)">
+    <circle cx="200" cy="168" r="66" fill="url(#dlGlass)" stroke="#a9b7c0" stroke-width="2.6"/>
   </g>
-  <path d="M152 76 L264 76 L258 96 L158 96 Z" fill="url(#dlFrame)" stroke="#4a555c" stroke-width="1.4"/>
-  <circle cx="200" cy="76" r="4.4" fill="#7d8b93"/>
+  <circle cx="200" cy="168" r="56" fill="none" stroke="#ffffff" stroke-width="1.4" opacity=".7"/>
+  <g filter="url(#dlGlow)">
+    <ellipse cx="182" cy="152" rx="30" ry="23" fill="#8a979e" opacity=".4"/>
+    <ellipse cx="222" cy="182" rx="26" ry="20" fill="#a9b7c0" opacity=".35"/>
+  </g>
+  <path d="M158 196 L200 172 L242 196" fill="none" stroke="#ffffff" stroke-width="1.8" opacity=".9"/>
 
-  <!-- HANDLE: grip joined to the bracket's lower-right corner by a short neck -->
-  <g transform="rotate(18 256 252)">
-    <path d="M236 250 L274 250 L272 258 L238 258 Z" fill="#4a555c" stroke="#8a9aa5" stroke-width="1"/>
-    <rect x="240" y="258" width="26" height="68" rx="8" fill="url(#dlGrip)" stroke="#8a9aa5" stroke-width="1.4"/>
-    <path d="M240 266 L266 276 M240 278 L266 288 M240 290 L266 300 M240 302 L266 312 M240 314 L266 324" stroke="#2c3338" stroke-width="1.4" opacity=".7"/>
-    <path d="M240 258 L266 258 M240 326 L266 326" stroke="#8a9aa5" stroke-width="1.2"/>
-    <circle cx="253" cy="338" r="8" fill="url(#dlFrame)" stroke="#4a555c" stroke-width="1.4"/>
-    <circle cx="253" cy="338" r="3.4" fill="#8a979e"/>
+  <!-- Bracket clip that clamps the lens to the ledger -->
+  <path d="M150 62 L250 62 L245 84 L155 84 Z" fill="url(#dlFrame)" stroke="#4a555c" stroke-width="1.4"/>
+  <circle cx="200" cy="66" r="4.4" fill="#7d8b93"/>
+
+  <!-- HANDLE: collinear with lens axis, leading out of the ring bottom -->
+  <path d="M183 232 L217 232 L215 242 L185 242 Z" fill="#4a555c" stroke="#8a9aa5" stroke-width="1"/>
+  <path d="M185 242 Q200 236 215 242 L213 250 L187 250 Z" fill="#3c454b" stroke="#8a9aa5" stroke-width="1"/>
+  <rect x="187" y="250" width="26" height="64" rx="9" fill="url(#dlGrip)" stroke="#8a9aa5" stroke-width="1.4"/>
+  <g stroke="#2c3338" stroke-width="1.4" opacity=".7">
+    <path d="M187 258 L213 268 M187 270 L213 280 M187 282 L213 292 M187 294 L213 304 M187 306 L213 314"/>
   </g>
+  <path d="M187 250 L213 250 M187 314 L213 314" stroke="#8a9aa5" stroke-width="1.2"/>
+  <circle cx="200" cy="326" r="8" fill="url(#dlFrame)" stroke="#4a555c" stroke-width="1.4"/>
+  <circle cx="200" cy="326" r="3.4" fill="#8a979e"/>
 
   <!-- Read the Account -->
   <g fill="#3c454b" opacity=".7">
-    <text x="162" y="118" font-size="9">inherited</text>
-    <text x="162" y="134" font-size="9">imposed?</text>
-    <text x="162" y="150" font-size="9">chosen?</text>
+    <text x="162" y="90" font-size="9">inherited</text>
+    <text x="162" y="106" font-size="9">imposed?</text>
+    <text x="162" y="122" font-size="9">chosen?</text>
   </g>
-  <path d="M96 84 L120 106 L108 118" fill="none" stroke="#6f7d86" stroke-width="1.6" opacity=".7"/>
-  <path d="M304 84 L280 106 L292 118" fill="none" stroke="#6f7d86" stroke-width="1.6" opacity=".7"/>
+  <path d="M96 74 L120 96 L108 108" fill="none" stroke="#6f7d86" stroke-width="1.6" opacity=".7"/>
+  <path d="M304 74 L280 96 L292 108" fill="none" stroke="#6f7d86" stroke-width="1.6" opacity=".7"/>
 
   <!-- accuracy not justice -->
-  <path d="M66 348 L150 336 L200 340 L262 332 L340 348" fill="none" stroke="#6f7d86" stroke-width="1.2" opacity=".5"/>
-  <circle cx="200" cy="340" r="2.4" fill="#6f7d86" opacity=".5"/>
+  <path d="M66 354 L150 342 L200 346 L262 338 L340 354" fill="none" stroke="#6f7d86" stroke-width="1.2" opacity=".5"/>
+  <circle cx="200" cy="346" r="2.4" fill="#6f7d86" opacity=".5"/>
 
   <rect width="400" height="400" fill="url(#dlVign)"/>
 </svg>

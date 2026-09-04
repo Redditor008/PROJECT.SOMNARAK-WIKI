@@ -11,13 +11,22 @@
       <stop offset="1" stop-color="#2c3033" stop-opacity=".72"/>
     </radialGradient>
     <linearGradient id="dsGlass" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#ffffff" stop-opacity=".96"/>
-      <stop offset=".55" stop-color="#edf2f5" stop-opacity=".82"/>
-      <stop offset="1" stop-color="#a9b7c0" stop-opacity=".92"/>
+      <stop offset="0" stop-color="#ffffff" stop-opacity=".98"/>
+      <stop offset=".55" stop-color="#edf2f5" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#a9b7c0" stop-opacity=".95"/>
     </linearGradient>
     <linearGradient id="dsCord" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#a9b7c0"/>
       <stop offset="1" stop-color="#6f7d86"/>
+    </linearGradient>
+    <linearGradient id="dsMetal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9d5dc"/>
+      <stop offset="1" stop-color="#6f7d86"/>
+    </linearGradient>
+    <linearGradient id="dsFrame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c9d5dc"/>
+      <stop offset=".5" stop-color="#8a9aa5"/>
+      <stop offset="1" stop-color="#5c686f"/>
     </linearGradient>
     <filter id="dsGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2"/>
@@ -28,54 +37,59 @@
 
   <!-- record room (subtle) -->
   <g stroke="#6f7d86" stroke-width="1.2" opacity=".4">
-    <path d="M52 64 L52 332 M348 64 L348 332 M52 110 L348 110 M52 210 L348 210"/>
+    <path d="M52 64 L52 332 M348 64 L348 332 M52 110 L348 110 M52 284 L348 284"/>
   </g>
 
-  <!-- WEARING CHAIN + LOOP: clear way to hang the balance pendant -->
-  <path d="M200 30 L200 70" stroke="url(#dsCord)" stroke-width="2"/>
-  <circle cx="200" cy="28" r="6" fill="none" stroke="#a9b7c0" stroke-width="1.6"/>
-  <path d="M188 70 L212 70" stroke="#a9b7c0" stroke-width="1.8"/>
+  <!-- WEARING CHAIN + LOOP: compact pendant hangs from the page -->
+  <path d="M200 26 L200 58" stroke="#6f7d86" stroke-width="3"/>
+  <circle cx="200" cy="22" r="7" fill="none" stroke="#c9d5dc" stroke-width="2.4"/>
+  <circle cx="200" cy="66" r="5" fill="none" stroke="#c9d5dc" stroke-width="2"/>
+
+  <!-- OVAL PENDANT FRAME: reads as worn jewellery -->
+  <ellipse cx="200" cy="182" rx="82" ry="116" fill="none" stroke="url(#dsFrame)" stroke-width="4"/>
+  <ellipse cx="200" cy="182" rx="76" ry="110" fill="none" stroke="#edf2f5" stroke-width="1" opacity=".6"/>
 
   <!-- Balance stem -->
-  <path d="M196 70 L204 70 L204 156 L200 184 L196 156 Z" fill="#a9b7c0" stroke="#8a9aa5" stroke-width="1"/>
-  <circle cx="200" cy="70" r="5" fill="#8a9aa5"/>
+  <path d="M196 82 L204 82 L204 170 L200 192 L196 170 Z" fill="url(#dsMetal)" stroke="#4a555c" stroke-width="1.2"/>
+  <circle cx="200" cy="86" r="6" fill="#4a555c" stroke="#c9d5dc" stroke-width="1.6"/>
 
-  <!-- Beam, tipped -->
-  <path d="M108 84 L292 96" stroke="#a9b7c0" stroke-width="2.6"/>
-  <path d="M108 84 L98 80 M292 96 L302 92" stroke="#a9b7c0" stroke-width="1.4"/>
+  <!-- Beam, tipped with central pivot collar -->
+  <path d="M140 110 L260 122" stroke="url(#dsMetal)" stroke-width="4"/>
+  <circle cx="200" cy="116" r="6" fill="#4a555c" stroke="#c9d5dc" stroke-width="1.6"/>
+  <path d="M140 110 L128 106 M260 122 L272 118" stroke="url(#dsMetal)" stroke-width="2.4"/>
 
-  <!-- Left pan lower -->
-  <path d="M108 84 L108 148" stroke="#a9b7c0" stroke-width="1.4"/>
-  <path d="M96 148 L120 148 Q108 154 108 154 Q96 154 96 148 Z" fill="url(#dsGlass)" stroke="#8a9aa5" stroke-width="1.4"/>
-  <circle cx="108" cy="150" r="3.8" fill="#6f7d86" opacity=".8"/>
-  <path d="M86 160 L130 160 Q108 176 108 176 Q86 176 86 160 Z" fill="#edf2f5" opacity=".95" stroke="#8a9aa5" stroke-width="1"/>
+  <!-- Left pan lower (heavier) -->
+  <path d="M140 110 L140 160" stroke="url(#dsMetal)" stroke-width="2.4"/>
+  <path d="M125 160 L155 160 Q140 168 140 168 Q125 168 125 160 Z" fill="url(#dsGlass)" stroke="#4a555c" stroke-width="1.8"/>
+  <circle cx="140" cy="162" r="4.6" fill="#5c686f" opacity=".9"/>
+  <path d="M114 172 L166 172 Q140 186 140 186 Q114 186 114 172 Z" fill="#edf2f5" opacity=".98" stroke="#4a555c" stroke-width="1.6"/>
 
-  <!-- Right pan high -->
-  <path d="M292 96 L292 146" stroke="#a9b7c0" stroke-width="1.4"/>
-  <path d="M280 146 L304 146 Q292 152 292 152 Q280 152 280 146 Z" fill="url(#dsGlass)" stroke="#8a9aa5" stroke-width="1.4"/>
+  <!-- Right pan high (lighter) -->
+  <path d="M260 122 L260 158" stroke="url(#dsMetal)" stroke-width="2.4"/>
+  <path d="M245 158 L275 158 Q260 166 260 166 Q245 166 245 158 Z" fill="url(#dsGlass)" stroke="#4a555c" stroke-width="1.8"/>
+  <path d="M236 170 L284 170 Q260 182 260 182 Q236 182 236 170 Z" fill="#edf2f5" opacity=".98" stroke="#4a555c" stroke-width="1.4"/>
 
-  <!-- Scroll -->
-  <g transform="rotate(-12 316 158)">
-    <rect x="296" y="146" width="46" height="20" rx="2" fill="#ffffff" stroke="#8a9aa5" stroke-width="1"/>
-    <line x1="304" y1="154" x2="334" y2="154" stroke="#6f7d86" stroke-width="1" opacity=".7"/>
-    <line x1="304" y1="160" x2="326" y2="160" stroke="#6f7d86" stroke-width="1" opacity=".7"/>
+  <!-- Scar / scroll tucked into the lower frame -->
+  <g transform="rotate(-14 298 228)">
+    <rect x="272" y="218" width="50" height="22" rx="2" fill="#ffffff" stroke="#4a555c" stroke-width="1.4"/>
+    <line x1="282" y1="226" x2="316" y2="226" stroke="#6f7d86" stroke-width="1.2" opacity=".8"/>
+    <line x1="282" y1="234" x2="306" y2="234" stroke="#6f7d86" stroke-width="1.2" opacity=".8"/>
   </g>
 
-  <!-- Collector vault -->
-  <g transform="rotate(-34 328 126)">
-    <rect x="312" y="100" width="36" height="50" rx="3" fill="#7d8b93" opacity=".5"/>
-    <path d="M318 122 L346 122" stroke="#6f7d86" stroke-width="1.4" opacity=".6"/>
+  <!-- Collector vault clipped at frame's right edge -->
+  <g transform="rotate(-34 330 126)">
+    <rect x="310" y="104" width="40" height="50" rx="3" fill="#7d8b93" opacity=".5"/>
+    <path d="M316 130 L346 130" stroke="#5c686f" stroke-width="1.4" opacity=".7"/>
   </g>
-  <circle cx="328" cy="118" r="6.6" fill="#5c686f" opacity=".7" filter="url(#dsGlow)"/>
+  <circle cx="330" cy="120" r="6" fill="#5c686f" opacity=".7" filter="url(#dsGlow)"/>
 
   <!-- what is carried -->
-  <path d="M132 224 Q200 212 268 224" fill="none" stroke="#6f7d86" stroke-width="1.4" opacity=".65"/>
-  <path d="M140 240 Q200 230 260 240" fill="none" stroke="#6f7d86" stroke-width="1.4" opacity=".5"/>
-  <circle cx="132" cy="224" r="3.4" fill="#6f7d86" opacity=".7"/><circle cx="268" cy="224" r="3.4" fill="#6f7d86" opacity=".7"/>
+  <path d="M150 306 Q200 294 250 306" fill="none" stroke="#5c686f" stroke-width="1.8" opacity=".8"/>
+  <path d="M158 320 Q200 312 242 320" fill="none" stroke="#5c686f" stroke-width="1.4" opacity=".6"/>
 
   <!-- record -->
-  <path d="M312 330 L312 300 Q312 288 324 286 L334 286" fill="none" stroke="#8a9aa5" stroke-width="1.6" opacity=".65"/>
-  <path d="M330 282 L334 292 L324 288 Z" fill="#8a9aa5" opacity=".65"/>
+  <path d="M336 338 L336 312 Q336 302 348 300 L360 300" fill="none" stroke="#8a9aa5" stroke-width="1.8" opacity=".8"/>
+  <path d="M356 296 L360 308 L350 302 Z" fill="#8a9aa5" opacity=".8"/>
 
   <rect width="400" height="400" fill="url(#dsVign)"/>
 </svg>

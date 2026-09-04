@@ -11,8 +11,8 @@
       <stop offset="1" stop-color="#000" stop-opacity=".9"/>
     </radialGradient>
     <linearGradient id="amHead" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#4a4a52"/>
-      <stop offset=".5" stop-color="#1c1c22"/>
+      <stop offset="0" stop-color="#565660"/>
+      <stop offset=".5" stop-color="#22222a"/>
       <stop offset="1" stop-color="#0b0b0d"/>
     </linearGradient>
     <linearGradient id="amGrip" x1="0" y1="0" x2="1" y2="0">
@@ -21,7 +21,7 @@
       <stop offset="1" stop-color="#202026"/>
     </linearGradient>
     <filter id="amGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2"/>
+      <feGaussianBlur stdDeviation="3"/>
     </filter>
   </defs>
 
@@ -33,47 +33,55 @@
     <line x1="70" y1="82" x2="330" y2="82"/><line x1="70" y1="280" x2="330" y2="280"/>
   </g>
 
-  <!-- Gantry -->
+  <!-- Gantry suspending the maul -->
   <path d="M92 44 L308 44 L308 68 L92 68 Z" fill="#16161a" stroke="#3a3a40" stroke-width="1.2"/>
   <g stroke="#565660" stroke-width="1.6" opacity=".85">
     <line x1="200" y1="68" x2="200" y2="82"/><line x1="200" y1="90" x2="200" y2="104"/>
   </g>
   <circle cx="200" cy="98" r="4.4" fill="#565660"/>
 
-  <!-- shadow arrives first -->
-  <path d="M166 116 L234 116 L232 218 L168 218 Z" fill="#020203" opacity=".92" filter="url(#amGlow)"/>
-
-  <!-- Tall sealed drop-head -->
-  <path d="M164 104 L236 104 L234 218 L166 218 Z" fill="url(#amHead)" stroke="#565660" stroke-width="2.6"/>
-  <path d="M166 106 L234 106" stroke="#8a8f98" stroke-width="1.8" opacity=".8"/>
-  <path d="M176 124 Q190 116 204 124 Q190 132 176 124 Z" fill="#0a0a0c" stroke="#8a8f98" stroke-width="1.2"/>
-  <path d="M190 124 L190 130" stroke="#8a8f98" stroke-width="1"/>
-  <path d="M182 148 L188 148 M198 148 L204 148 M188 146 L188 162 M198 146 L198 162 M188 158 Q193 154 198 158" fill="none" stroke="#8a8f98" stroke-width="1"/>
-  <path d="M182 174 Q190 164 198 170 Q192 180 188 190 Z M188 182 Q194 178 198 184 M192 194 Q198 190 202 196" fill="none" stroke="#8a8f98" stroke-width="1.2"/>
-
-  <!-- TWO-HAND SHAFT: long, wrapped, clear handle -->
-  <rect x="193" y="218" width="14" height="108" rx="6" fill="url(#amGrip)" stroke="#3f3f48" stroke-width="1.4"/>
-  <g fill="#14141a" opacity=".65">
-    <rect x="193" y="230" width="14" height="7"/><rect x="193" y="246" width="14" height="7"/>
-    <rect x="193" y="262" width="14" height="7"/><rect x="193" y="278" width="14" height="7"/>
-    <rect x="193" y="294" width="14" height="7"/>
+  <!-- HEAVY MAUL HEAD: broad, tall, two-handed strike head -->
+  <g filter="url(#amGlow)">
+    <path d="M164 104 L236 104 L244 210 L156 210 Z" fill="#020203" opacity=".9"/>
   </g>
-  <path d="M193 218 L207 218 M193 326 L207 326" stroke="#6b6b76" stroke-width="1.4"/>
-  <path d="M193 222 L207 226 M193 306 L207 310" stroke="#6b6b76" stroke-width="1" opacity=".7"/>
+  <path d="M160 104 L240 104 L248 210 L152 212 Z" fill="url(#amHead)" stroke="#565660" stroke-width="2.8"/>
+  <path d="M160 106 L240 106" stroke="#8a8f98" stroke-width="2" opacity=".9"/>
+  <!-- seams / rivets on the head -->
+  <g stroke="#3f3f48" stroke-width="1" opacity=".85">
+    <path d="M170 128 L230 128 M168 154 L232 154 M166 180 L234 180"/>
+  </g>
+  <g fill="#8a8f98" opacity=".8">
+    <circle cx="176" cy="128" r="2.2"/><circle cx="200" cy="128" r="2.2"/><circle cx="224" cy="128" r="2.2"/>
+    <circle cx="176" cy="154" r="2.2"/><circle cx="200" cy="154" r="2.2"/><circle cx="224" cy="154" r="2.2"/>
+  </g>
+  <path d="M182 176 Q190 168 198 174 Q192 184 188 194 Z" fill="none" stroke="#8a8f98" stroke-width="1.2"/>
+  <path d="M188 186 Q194 182 198 188 M192 198 Q198 194 202 200" fill="none" stroke="#8a8f98" stroke-width="1"/>
+
+  <!-- TWO-HAND HAft: long, thick, wrapped in two grip sections -->
+  <rect x="188" y="210" width="24" height="128" rx="7" fill="url(#amGrip)" stroke="#3f3f48" stroke-width="1.6"/>
+  <g fill="#14141a" opacity=".7">
+    <rect x="188" y="222" width="24" height="8"/><rect x="188" y="238" width="24" height="8"/>
+    <rect x="188" y="254" width="24" height="8"/><rect x="188" y="270" width="24" height="8"/>
+    <rect x="188" y="286" width="24" height="8"/><rect x="188" y="302" width="24" height="8"/>
+  </g>
+  <path d="M188 210 L212 210" stroke="#6b6b76" stroke-width="2"/>
+  <path d="M188 312 L212 312" stroke="#6b6b76" stroke-width="1.6"/>
+  <!-- hand-guard collar at top of grip -->
+  <path d="M183 210 L217 210 L215 222 L185 222 Z" fill="#1c1c22" stroke="#565660" stroke-width="1.2"/>
 
   <!-- Pommel cap -->
-  <path d="M193 326 L207 326 L205 342 L195 342 Z" fill="#1c1c22" stroke="#565660" stroke-width="1.2"/>
-  <circle cx="200" cy="336" r="3.4" fill="#565660"/>
+  <path d="M188 338 L212 338 L209 356 L191 356 Z" fill="#1c1c22" stroke="#565660" stroke-width="1.4"/>
+  <circle cx="200" cy="347" r="4" fill="#565660"/>
 
   <!-- Floor no crater -->
   <path d="M70 330 L330 330 L308 360 L92 360 Z" fill="#0d0d0f" stroke="#2c2c33" stroke-width="1.2"/>
-  <path d="M200 330 L204 360 L210 330" fill="#040405" stroke="#3a3a40" stroke-width=".8"/>
+  <path d="M200 330 L206 362 L212 330" fill="#040405" stroke="#3a3a40" stroke-width=".8"/>
 
   <!-- Three names in dust -->
   <g fill="#8a8f98" opacity=".6">
-    <text x="112" y="302" font-size="11">name one</text>
-    <text x="254" y="314" font-size="11">name two</text>
-    <text x="148" y="338" font-size="11">name three</text>
+    <text x="112" y="306" font-size="11">name one</text>
+    <text x="254" y="318" font-size="11">name two</text>
+    <text x="148" y="342" font-size="11">name three</text>
   </g>
 
   <rect width="400" height="400" fill="url(#amVign)"/>

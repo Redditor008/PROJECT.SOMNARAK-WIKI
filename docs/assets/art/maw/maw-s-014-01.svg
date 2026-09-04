@@ -29,7 +29,7 @@
 
   <!-- record room (subtle) -->
   <g stroke="#6f7d86" stroke-width="1.2" opacity=".4">
-    <path d="M52 58 L52 336 M348 58 L348 336 M52 94 L348 94 M52 244 L348 244"/>
+    <path d="M52 58 L52 336 M348 58 L348 336 M52 94 L348 94 M52 250 L348 250"/>
   </g>
 
   <!-- Wearer head/neck -->
@@ -60,29 +60,37 @@
   <!-- cutaway hem -->
   <path d="M154 202 Q200 230 246 202 L252 214 Q200 240 148 214 Z" fill="#bec9d0" fill-opacity=".15" stroke="#ffffff" stroke-width="1" opacity=".7"/>
 
+  <!-- DRAW CORDS: two lanyards hanging from the hem, symmetric, tied to the wrap -->
+  <g fill="none" stroke="url(#dvStrap)" opacity=".92">
+    <path d="M160 214 L152 268" stroke-width="2"/>
+    <path d="M240 214 L248 268" stroke-width="2"/>
+  </g>
+  <path d="M155 208 L165 208" stroke="#a9b7c0" stroke-width="2"/>
+  <path d="M235 208 L245 208" stroke="#a9b7c0" stroke-width="2"/>
+  <g fill="none" stroke="#a9b7c0" stroke-width="1.6">
+    <circle cx="152" cy="276" r="7"/>
+    <circle cx="248" cy="276" r="7"/>
+  </g>
+  <circle cx="152" cy="276" r="2.6" fill="#5c686f"/>
+  <circle cx="248" cy="276" r="2.6" fill="#5c686f"/>
+
   <!-- suspended debt mark -->
-  <path d="M200 214 L200 258" stroke="#8a979e" stroke-width="1.4" opacity=".7" stroke-dasharray="3 3"/>
+  <path d="M200 236 L200 258" stroke="#8a979e" stroke-width="1.4" opacity=".7" stroke-dasharray="3 3"/>
   <g transform="rotate(6 200 272)" filter="url(#dvGlow)">
     <circle cx="200" cy="272" r="19" fill="none" stroke="#6f7d86" stroke-width="1.6" opacity=".85"/>
     <path d="M191 263 L200 252 L209 263" fill="none" stroke="#6f7d86" stroke-width="1.6" opacity=".85"/>
     <path d="M187 280 Q200 291 213 280" fill="none" stroke="#6f7d86" stroke-width="1.4" opacity=".8"/>
   </g>
 
-  <!-- second mark -->
-  <circle cx="250" cy="264" r="13" fill="#8a979e" opacity=".55"/>
-  <circle cx="250" cy="264" r="8" fill="none" stroke="#6f7d86" stroke-width="1.2" opacity=".6"/>
-
-  <!-- six hour blackout -->
+  <!-- six hour blackout badge: lanyard runs from buckle down to a clear hanging badge -->
+  <path d="M200 184 L200 274" stroke="#8a979e" stroke-width="1.6" opacity=".8"/>
+  <circle cx="200" cy="274" r="5" fill="none" stroke="#a9b7c0" stroke-width="1.6"/>
   <g filter="url(#dvGlow)">
-    <ellipse cx="200" cy="306" rx="86" ry="21" fill="#3c454b" opacity=".88"/>
+    <ellipse cx="200" cy="312" rx="70" ry="18" fill="#3c454b" opacity=".94"/>
   </g>
-  <text x="146" y="311" fill="#a9b7c0" opacity=".85" font-size="10">6 HRS BLACKOUT</text>
-
-  <!-- witness -->
-  <g stroke="#ffffff" stroke-width="1.6" opacity=".8" fill="none">
-    <path d="M96 322 L152 330"/><circle cx="88" cy="330" r="8" fill="none"/>
-    <path d="M304 322 L248 330"/><circle cx="312" cy="330" r="8" fill="none"/>
-  </g>
+  <path d="M164 304 L164 320 L236 320 L236 304" fill="none" stroke="#a9b7c0" stroke-width="1.4" opacity=".9"/>
+  <circle cx="200" cy="302" r="2.6" fill="#a9b7c0"/>
+  <text x="144" y="316" fill="#ffffff" opacity=".95" font-size="10">6 HRS BLACKOUT</text>
 
   <rect width="400" height="400" fill="url(#dvVign)"/>
 </svg>
