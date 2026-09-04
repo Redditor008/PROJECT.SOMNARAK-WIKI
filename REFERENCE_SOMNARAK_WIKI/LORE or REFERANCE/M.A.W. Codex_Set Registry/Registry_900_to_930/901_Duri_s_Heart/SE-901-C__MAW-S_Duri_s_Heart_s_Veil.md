@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Weight damage, protecting against the body register of sorrow.   <!-- SE-901 -->
 **Binding rule:** the bearer names Duri's Heart's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Duri's Heart's Veil is the suit record of the Duri's Heart set — β-grade, Weight- aligned, resistant to Weight at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Weight damage, protection against the body register of sorrow the heavy object carries. Binding names Duri's Heart's event — Not recorded, provenance withheld by the wound itself — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a constant low fatigue, as though Duri's Heart's burden settles on the wearer's shoulders and stays there for the length of the shift. The source-trace fixed doctrine: the object recognizes patience, its weight pressure settling gradually under sustained presence, and the Veil uncouples the hazard only after attribution to Duri's Heart. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

@@ -19,6 +19,10 @@
 **Canonical ability:** Grants a minor boon tied to Dormant Monolith's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names Dormant Monolith's event—A border worker carried family and community obligations until the mind became a sleeping pillar.—and accepts this limit: Ground the worker and establish a rotation of duty
 
+## Appearance
+
+The Dormant Monolith Charm is the gift record of the Dormant Monolith set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability grants a minor boon tied to the Monolith's sorrow, the effect mirroring the entity's nature: stillness earned, not seized. Binding names the source event — a border worker carried family and community obligations until the mind became a sleeping pillar — and accepts the set's limit: ground the worker and establish a rotation of duty. The cost is small and linguistic: the bearer occasionally forgets a word, speech acquiring its own dormant stretches. The source-trace fixed doctrine: the Charm reveals the duties holding the worker in place, obligation made visible as architecture, and it interrupts the hazard only after attribution to Dormant Monolith. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 4%  

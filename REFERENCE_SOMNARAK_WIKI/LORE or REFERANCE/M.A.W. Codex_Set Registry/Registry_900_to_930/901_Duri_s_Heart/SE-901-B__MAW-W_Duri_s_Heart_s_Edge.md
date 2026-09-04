@@ -19,6 +19,10 @@
 **Canonical ability:** Channels weight body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.   <!-- SE-901 -->
 **Binding rule:** the bearer names Duri's Heart's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Duri's Heart's Edge is the weapon record of the Duri's Heart set — β-grade, Weight- aligned, striking at 11–22 Weight in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels weight body sorrow: the blade does not cut flesh so much as the body register of the target's grief, the load a frame carries before it speaks. Binding names Duri's Heart's event — Not recorded, an object whose owner and occasion are both lost — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is mild memory fragmentation with each use, the wielder's own record chipping the way an overworked heart loses its beats. The source-trace fixed doctrine: the object gave no field response the registry could transcribe, and the Edge severs the hazard only after attribution to Duri's Heart. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
