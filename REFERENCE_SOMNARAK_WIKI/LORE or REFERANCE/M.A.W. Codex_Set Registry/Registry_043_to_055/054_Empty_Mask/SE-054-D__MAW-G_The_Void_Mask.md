@@ -21,7 +21,11 @@
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Empty Mask source record |
 
-### Ability — Borrowed Blankness
+### Appearance
+
+The Void Mask is a small, blank mask charm carved from pale grey glass, with no eyes, nose, or mouth, its surface smooth and its edges left rough. It hangs from a short black cord and rests flat against the bearer's chest. When the bearer borrows blankness, the glass takes on a faint grey sheen and ordinary observers begin to remember an outline rather than a face. Two witnesses must record the bearer's name before the Gift can be used, and it cannot be used twice in one day. While active the charm grows cold and the bearer's sense of personal markers begins to slip: handwriting familiarity, favorite colours, minor habits, and then memories of self-recognition. When the effect ends, the bearer may not recognize their own apartment door until someone greets them by name. The mask is returned to a grey cloth after each use, and the smooth face stays cool for a full day.
+
+### Ability— Borrowed Blankness
 
 The bearer becomes difficult to recognize for one short operation. Ordinary observers remember an outline, not a face.
 

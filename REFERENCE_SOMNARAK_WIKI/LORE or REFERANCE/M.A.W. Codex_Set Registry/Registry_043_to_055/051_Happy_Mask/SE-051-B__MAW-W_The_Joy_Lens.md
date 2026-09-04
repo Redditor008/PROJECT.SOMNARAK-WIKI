@@ -20,7 +20,11 @@
 | Maximum Amount | 4 — Stocked |
 | Echo Cost | 25 Sorrow Echoes |
 
-### Ability — Crack the Facade
+### Appearance
+
+The Joy Lens is a pale, slightly convex Han-glass disc mounted on a short black handle, its surface clear in ordinary light and faintly warm to the touch. When it is pointed at a person performing an emotional mask, a thin band of grey light crosses the glass and reveals the Void pressure beneath the performed smile, false cheer, or compliance. The disc is small enough to hold in one hand, with a shallow thumb rest at the base and a tether ring at the pommel. It does not punish ordinary joy; a bearer who assumes all happiness is false receives the Lens's Void backlash instead. After use the glass stays grey for about an hour and the bearer's own face becomes difficult to read, so that allies may mistake calm for concealment. The tether ring is small and black, and the grey band fades by the time the bearer has left the room.
+
+### Ability— Crack the Facade
 
 The Lens reveals and strikes the Void pressure beneath an actively performed emotional mask. It works best against deliberate false cheer, compliance smiles, and emotional suppression effects.
 

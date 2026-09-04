@@ -24,7 +24,11 @@
 | Maximum Amount | 3 — Standard |
 | Echo Cost | 40 Sorrow Echoes |
 
-### Ability — Recorded Moment
+### Appearance
+
+The Witness Requiem is a long, narrow blade of pale-blue Han crystal that carries no ornament and little curve, its edge running straight from a small round guard to a stubby point. Along the flat, a faint seam of light runs from hilt to tip, brightening only when the bearer names an act they have witnessed directly or through verified record. The grip is long and wrapped in dark blue cord over a ridged core, and the guard is a simple disc of grey metal, wide enough for two hands. In ordinary light the blade appears cold and still; once a witnessed fact is named, the seam glows and the whole blade takes on a low, blue sheen. The weapon forces the actor and any linked accomplices to remember the observed moment without allowing the bearer to embellish it, and it fails silently if the bearer lies about what they saw.
+
+### Ability— Recorded Moment
 
 **Trigger:** The bearer witnesses a harmful act directly or through verified record, then names the observed fact before striking.
 

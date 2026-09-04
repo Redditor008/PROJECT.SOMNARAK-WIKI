@@ -21,7 +21,11 @@
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Silent Maiden source record |
 
-### Ability — Unheard Shelter
+### Appearance
+
+The Silence Cloak is a small clasp charm of pale Han glass shaped like a folded corner of cloth, with a black pin set into its back. It fastens to a collar or lapel and measures no larger than a thumb. When the bearer creates a quiet area, the glass corner opens like a tiny tent, and a faint grey shade falls over the chosen person. The shade blocks sound-based coercion and forced public attention without preventing the sheltered person from leaving or writing. The clasp stays cool while the shelter holds and warms only when the sheltered person chooses to step out. The Gift cannot be used to conceal harm, evade necessary accountability, or silence another person's voluntary speech, and after use the bearer cannot speak above a whisper until the sheltered person has gone. The clasp is fixed to the inner lapel, and the grey shade spreads only as far as the sheltered person can still choose to leave.
+
+### Ability— Unheard Shelter
 
 Once per shift, the bearer may create a quiet area where one willing person cannot be targeted by sound-based coercion or forced public attention.
 

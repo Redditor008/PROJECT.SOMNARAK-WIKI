@@ -20,7 +20,11 @@
 | Maximum Amount | 4 — Stocked |
 | Echo Cost | 25 Sorrow Echoes |
 
-### Ability — Spent Moment
+### Appearance
+
+The Hourglass Maul is a heavy black two-hand maul whose head is cut into the shape of a flattened hourglass, narrow at the middle and broad at both faces. A single line of pale sand runs through the glass inset at the waist, held in place by a thin black collar. When the bearer stores a delayed action, one grain of that sand shifts from the upper to the lower chamber and the maul gains a low, weighty hum. The haft is long, ribbed, and wrapped in black Han-grip, with a squared pommel that hangs lower than usual. The head's two faces are unpolished, and the glass inset stays cold even after a charged strike. The Maul cannot reverse a missed moment; it only makes the regret of the second physically heavy. The waist inset is set flush with the metal, and the sand glows a pale gold only in the second after an action is stored.
+
+### Ability— Spent Moment
 
 The Maul stores one delayed action—an interrupted strike, missed step, or unfinished movement—and releases its Weight on the next impact.
 

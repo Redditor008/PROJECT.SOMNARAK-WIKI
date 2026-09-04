@@ -28,7 +28,11 @@
 | Maximum Amount | 5 — Abundant |
 | Echo Cost | 10 Sorrow Echoes |
 
-### Ability — Unheard No More
+### Appearance
+
+The Silence Veil is a pale, near-transparent veil of fine Han silk folded into a short drape that covers the crown, temples, and shoulders without reaching below the collarbone. It is lighter than it appears and almost weightless in a still room. The cloth holds no colour of its own; it picks up the grey of the surrounding air and the faint blue of the wearer's voice when they speak. A narrow hem runs along the lower edge, woven with tiny pale threads that tighten whenever a Void effect tries to erase, dismiss, or make the wearer difficult to recognize. The veil does not make the wearer louder or clearer; it makes absence harder to impose. Laid out after use, the hem slowly returns to a flat, pale line, and the wearer is left feeling faintly absent in crowded rooms until they are welcomed back by name. The veil is kept on a wooden stand when not in use, and the hem returns to a flat pale line before the next deployment.
+
+### Ability— Unheard No More
 
 The Veil reduces low-grade Void effects that erase, dismiss, or make the wearer difficult to recognize. It does not make the wearer louder; it makes absence harder to impose.
 

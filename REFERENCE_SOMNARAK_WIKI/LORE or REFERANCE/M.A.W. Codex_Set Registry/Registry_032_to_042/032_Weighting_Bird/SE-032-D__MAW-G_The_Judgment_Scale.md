@@ -21,7 +21,11 @@
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Weighting Bird source record |
 
-### Ability — Compare the Burden
+### Appearance
+
+The Judgment Scale is a small crimson pendant of polished Han glass, shaped like a narrow balance beam with two shallow trays hanging from fine black threads. The beam is barely longer than a finger and the whole charm weighs almost nothing, but its trays are cut thin enough that light passes through them. In ordinary air the scale stays level; when the bearer uses it, one tray sinks slowly toward the person carrying the heavier present sorrow and trembles just above the lower of the two weights. The pendant compares only what is carried now, never moral worth, historical cause, or future consequence. After use the bearer feels both burdens at once and may mistake the heavier one for the more important one. The glass stays warm for as long as the comparison is remembered, and it is kept on a short red cord beside the chest. The pendant is worn over the sternum, where the two trays hang level until the bearer chooses which burden to observe.
+
+### Ability— Compare the Burden
 
 The Gift compares two people’s current sorrow load and shows which burden is heavier in the present moment.
 

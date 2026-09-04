@@ -26,7 +26,11 @@
 | Maximum Amount | 3 — Standard |
 | Echo Cost | 35 Sorrow Echoes |
 
-### Ability — Hold the Scale
+### Appearance
+
+The Judgment Plate is a heavy crimson harness of overlapping Han-iron plates fitted tight across the chest, ribs, and shoulders with narrow black straps. Each plate is cut along a sharp diagonal, so the whole surface reads as a set of angled scales rather than a smooth cuirass. A single seam runs down the centre plate, pale and grey, and hardens whenever the bearer stands between an accused target and a hostile attack. The Plate absorbs low-to-medium Grudge pressure and holds the force as heat along its crimson seams, which grow warm to the touch without glowing. The harness is difficult to remove quickly and does not loosen until the bearer's reflexes begin to dull. Once a first judgment is made, the plates resist revision, and every new fact starts to feel like an attack on a verdict already reached. The harness is stored with the straps crossed, and the centre seam is checked for warm spots before every breach deployment.
+
+### Ability— Hold the Scale
 
 The Plate hardens when a bearer stands between an accused target and a hostile attack. It protects against Grudge pressure but makes the bearer increasingly reluctant to revise a first judgment.
 

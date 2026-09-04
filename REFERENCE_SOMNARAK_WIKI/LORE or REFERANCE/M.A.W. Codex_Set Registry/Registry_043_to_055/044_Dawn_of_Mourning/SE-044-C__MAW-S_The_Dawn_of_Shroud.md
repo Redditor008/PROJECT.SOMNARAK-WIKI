@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Dawn of Mourning's kind of pressure.  
 **Binding rule:** the bearer names Dawn of Mourning's event—In historical branches, the twelfth blessing completed the chain and turned healing into sentencing. The current cycle diverged: compassion transformed into The Hand of Hope.—and accepts this limit: Genuine confession before the twelfth blessing; no reliable post-formation method exists
 
+### Appearance
+
+The Dawn of Shroud is a deep-blue shroud of soft Han silk that drapes over the shoulders and chest in broad, rounded folds. The outer weave is smooth with a faint silver sheen along the hem, while the inner lining is dark and cool. A single pale seam runs from the left shoulder to the right hip and brightens when the Shroud records the source event the wearer has named. The cloth is heavier than it appears and settles against the body without being tied, so that the wearer must actively remove it by hand. It resists Lament pressure and shields the mind without deadening the wearer's sense of the sorrow itself. In prolonged wear the seam remains faintly luminous, and the bearer loses access to minor joys. The hem is finished with a single line of silver thread, and the cloth keeps the shape of the last shoulder it covered until it is folded away.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

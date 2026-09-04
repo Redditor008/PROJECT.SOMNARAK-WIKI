@@ -22,7 +22,11 @@
 | Maximum Amount | 5 — Abundant |
 | Echo Cost | 15 Sorrow Echoes |
 
-### Ability — Quiet Interval
+### Appearance
+
+The Silence Lens is a pale Han-glass disc set into a short, plain black hilt, wide enough to cover the fist and light enough to hold for a long watch. In ordinary air the glass is almost clear, with a faint grey band running around the rim. When the bearer activates it, the band glows and a thin soundless membrane stretches across the lens face, visible only as a ripple where light crosses it. The membrane never hardens or cracks; it simply keeps a space of quiet around the target for one turn. The hilt is unmarked except for a single shallow notch where the bearer's thumb rests, and a small tether ring hangs beneath the pommel. In a loud room the glass stays cold; in a forced-confession room it warms faintly along the edge nearest the speaker. The Lens protects silence without choosing what the silence means. In storage the glass is wrapped in black cloth, and the first sign of a retained silence is a faint ringing that only the bearer can hear.
+
+### Ability— Quiet Interval
 
 The Lens creates a brief soundless space around one target. It interrupts coercive speech, sonic pressure, and forced confession effects for one turn.
 

@@ -21,7 +21,11 @@
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Cracked Hourglass source record |
 
-### Ability — One Brief Moment
+### Appearance
+
+The Hourglass Pendant is a small cracked charm of black metal and pale glass shaped like a tiny hourglass, its waist thin enough to break with light pressure. A single line of fine sand hangs in the upper chamber, and a hairline crack runs down one side of the glass. The pendant is worn on a short black cord and rests cold against the chest until the bearer asks for one brief moment. Then the top chamber empties by one grain, the crack deepens invisibly, and the wearer is given a single pause long enough to choose a response instead of reacting on panic. The gift cannot undo damage, revive the dead, or repeat a choice, and the cost is small, cumulative, and unmeasurable by ordinary clocks. Each use leaves the glass a shade greyer at the bottom. The crack is fine enough to be missed in ordinary light, and the lower chamber holds a thin line of grey sediment that never disappears.
+
+### Ability— One Brief Moment
 
 Once per day, the bearer can slow one local instant long enough to choose a response rather than react by panic.
 

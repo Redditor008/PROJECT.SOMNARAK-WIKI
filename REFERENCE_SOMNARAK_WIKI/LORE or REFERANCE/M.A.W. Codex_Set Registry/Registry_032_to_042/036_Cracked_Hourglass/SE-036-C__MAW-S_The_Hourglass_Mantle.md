@@ -26,7 +26,11 @@
 | Maximum Amount | 4 — Stocked |
 | Echo Cost | 20 Sorrow Echoes |
 
-### Ability — Slow Interval
+### Appearance
+
+The Hourglass Mantle is a dark, heavy mantle of dense Han fabric that covers the shoulders and upper arms in long, straight panels. Across the back, a narrow band of pale sand runs beneath a strip of clear glass, its grains visible as a thin line that moves when the Mantle borrows time. The cloth is cut close and does not billow, and its inner lining is cool against the skin. When the wearer activates a slow interval, the sand band glows faintly and the fabric seems to hold still for a few seconds while the world continues around it. The wearer receives only a clearer interval within the pressure, not a stopped world. After the effect ends, the sand band falls back by a darker shade, and the wearer is left with fatigue that feels like borrowed consequence. The mantle is folded with the sand band outward, and the glass strip is wiped dry after each operation.
+
+### Ability— Slow Interval
 
 Once per encounter, the Mantle slows the wearer’s perceived local time for up to five seconds, providing enough room to brace, retreat, or complete one deliberate action.
 

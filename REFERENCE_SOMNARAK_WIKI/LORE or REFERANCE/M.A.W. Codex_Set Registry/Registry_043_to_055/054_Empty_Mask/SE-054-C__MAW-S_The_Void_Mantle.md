@@ -26,7 +26,11 @@
 | Maximum Amount | 4 — Stocked |
 | Echo Cost | 20 Sorrow Echoes |
 
-### Ability — Name Weight
+### Appearance
+
+The Void Mantle is a black, straight-cut mantle of dense Han fabric that falls from the shoulders to the knees with no flare and no ornament. A single pale strip runs down the front and darkens by stages as an identity-erasure effect settles into the cloth as Weight. The fabric is heavier than it appears and hangs almost motionless, and its inner lining stays cool against the neck. While the effect is stored, the mantle does not move with the wearer's breath; it holds one continuous shape. The wearer can continue to be recognized through the stored absence, but only until a witness names them and records one true fact. After that discharge the pale strip returns to its original grey, and the wearer gradually feels familiar again, though the fatigue remains for a while. The front strip is checked before every mission, and a single pale change in its colour is treated as a warning.
+
+### Ability— Name Weight
 
 The Mantle lets the wearer carry one identity-erasure effect without immediately disappearing from others’ memory. The effect settles into the mantle as Weight.
 

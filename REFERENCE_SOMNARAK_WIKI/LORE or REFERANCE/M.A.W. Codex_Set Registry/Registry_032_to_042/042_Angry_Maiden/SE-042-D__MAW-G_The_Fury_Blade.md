@@ -21,7 +21,11 @@
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Angry Maiden source record |
 
-### Ability — Wrongness Mark
+### Appearance
+
+The Fury Blade is a small crimson pendant shaped like a short blade with a broken guard, carved from Han glass and polished on one face. It hangs from a black cord and rests flat against the chest. When a nearby action directly repeats a harm the bearer has documented before, the pendant warms and a crimson edge-light appears along the blade face, bright enough to read from a short distance. The light is warning rather than invitation. The Gift reacts to resemblance, not legal certainty, so a situation may resemble past injustice without being identical to it. After it lights, the bearer feels anger not only at the present act but at every similar act the Gift remembers, and the pendant stays warm until the bearer writes down what was seen. The pendant hangs over the sternum, where the edge-light can be seen by the bearer without needing to lift the cord.
+
+### Ability— Wrongness Mark
 
 The pendant warms and produces a crimson edge-light when a nearby action directly repeats a harm the bearer has documented before.
 

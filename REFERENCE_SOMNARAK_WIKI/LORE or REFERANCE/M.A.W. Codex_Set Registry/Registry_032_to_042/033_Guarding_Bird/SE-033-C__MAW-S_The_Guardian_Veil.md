@@ -26,7 +26,11 @@
 | Maximum Amount | 3 — Standard |
 | Echo Cost | 35 Sorrow Echoes |
 
-### Ability — Shelter Mark
+### Appearance
+
+The Guardian Veil is a pale, near-opaque veil of layered Han gossamer that hangs from the crown to the chest, its lower edge cut in a straight line and finished with a thin silver thread. It is heavier than it appears and settles into place without being fastened. When the wearer marks a person or location as protected, the silver thread begins to glow faintly, and the veil takes on a low white haze that redirects incoming low-to-medium Void pressure toward the wearer. The mark does not release while the wearer remains attached to the post, and leaving it breaks the protection abruptly. After prolonged use the cloth becomes warm against the shoulders and the wearer feels increasingly unable to imagine a life beyond the assigned place. The thread cools only when the protected person or place is safely handed on. The veil is carried folded in a flat pouch, and the silver thread glows briefly when the marked person or place is handed to another responder.
+
+### Ability— Shelter Mark
 
 The Veil marks one person or location as protected. Incoming low-to-medium Void pressure is redirected toward the wearer while the mark remains active.
 
