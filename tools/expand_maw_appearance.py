@@ -33,8 +33,9 @@ BATCHES = {
     "6": ["159", "160", "165", "168", "169", "170", "175", "176", "180", "184", "185", "189"],
     "7": ["190", "193", "195", "200", "219", "220", "222", "225", "230", "233", "235", "236"],
     "8": ["240", "245", "247", "249", "250", "252", "255", "260", "270", "275", "280", "283"],
+    "9": ["285", "290", "300", "301", "308", "310", "315", "316", "320", "329", "330", "339"],
 }
-DEFAULT_BATCH = "8"
+DEFAULT_BATCH = "9"
 
 WORD_MIN, WORD_MAX = 150, 205
 
@@ -51,6 +52,16 @@ STATS_HEADINGS = [
     "## COMBAT FILE",
     "## PROTECTIVE FILE",
     "## EFFECT FILE",
+    "## STATISTICS",
+    "## PROTECTION",
+    "## SET RELATIONSHIP",
+]
+
+# fallback insertion anchors for heading-less compact records (batch 9+)
+TABLE_ANCHORS = [
+    "\n| Grade / Element |",
+    "\n| Lament |",
+    "\n**Grade / Element:**",
 ]
 
 
@@ -1520,6 +1531,559 @@ OVERRIDES.update({
     ),
 })
 
+OVERRIDES.update({
+    # ---- batch 9 (compact and heading-less records; all paragraphs source-led) ----
+    "w-285": (
+        "The Silence Maul is a compact black maul of Han steel with an empty mouth-shaped recess set into "
+        "the head \u2014 a place for one word, kept hollow until a word is freely given. It forms after safe "
+        "voluntary speech or accepted silence, and its binding is an exercise in restraint: the wielder "
+        "receives one freely offered word without requesting any context around it. In use, that single "
+        "voluntarily spoken word becomes Weight against a selected obstruction \u2014 in its recorded case the "
+        "word \u201cdoor\u201d entered the head during a Commons pressure lock and one strike released the jammed "
+        "exit, the wielder asking nothing else and carrying the remaining heaviness himself. The Maul "
+        "cannot extract, interpret, or demand the sentence around the word. The cost is progressive "
+        "heaviness and slight aging. A follow-up demand turns the blow on the speaker \u2014 the confession "
+        "strike \u2014 while a wielder deciding what the word meant makes the loaded assumption, and a weapon "
+        "treating refusal as hostility is punishing silence. It is maintained with the mouth recess left "
+        "empty in a quiet room, the word\u2019s operational use recorded without its private context. Shutdown "
+        "grounds the Maul after one word and returns choice to the speaker."
+    ),
+    "s-285": (
+        "The Silence Mantle is a matte black garment of Han weave that breathes without sound and leaves "
+        "the wearer\u2019s mouth uncovered \u2014 quiet built into the cloth, speech left deliberately possible. It "
+        "condenses after a pressure field recedes without forced disclosure, and its binding needs three "
+        "things: a listener, a private exit, and permission for the wearer to say nothing at all. Worn "
+        "beside a silent group, the Mantle distributes silence pressure across its folds while keeping "
+        "speech and exit available \u2014 in its recorded case it reduced crushing Weight while nobody spoke, "
+        "and relief began before the first voluntary word. The cost is constant low fatigue, and prolonged "
+        "wear makes every conversation feel like demand. An exit that closes until the wearer speaks is "
+        "the quiet prison; silence praised so strongly that speech becomes disloyal is listener pressure; "
+        "and a wearer disappearing from shared attention is Void withdrawal. It is maintained hung in a "
+        "room with an open exit and no questions, cleared only after someone enters and leaves without "
+        "explanation. The wearer removes it personally unless they request help \u2014 no one else\u2019s hands "
+        "decide when the quiet ends."
+    ),
+    "g-285": (
+        "The Silence Weight is a warm black head-token of Han steel that makes external sound recede "
+        "while unspoken burden appears to the bearer as pressure \u2014 never as content, never as words. The "
+        "entity granted it after a worker offered safe listening without demanding response; it cannot be "
+        "manufactured. Carried into a crowded space, it prevents external noise from disturbing the bearer "
+        "and senses nearby unspoken words \u2014 in its recorded case identifying which silence in a Commons "
+        "response carried dangerous pressure without exposing what anyone withheld. The cost is the same "
+        "sensitivity turned inward: the bearer feels every unspoken word as weight. Every pause feeling "
+        "like concealed crisis is the first corrosion sign; pressure interpreted as specific content is "
+        "the mind-reading error, sensation reported as testimony; a bearer trying to relieve every "
+        "silence has the rescue compulsion; and ordinary community sound becoming an attack is noise "
+        "exile. Care records only location, intensity, and consent status \u2014 nothing guessed \u2014 and the "
+        "bearer spends equal time listening to ordinary chosen sound after each work cycle. Emergency "
+        "release leaves the group\u2019s private boundary, restores external sound gradually, and speaks none "
+        "of the guessed content."
+    ),
+    "w-290": (
+        "The Lost Lens is a pale disc of Han glass whose surface rejects one direction at a time \u2014 hold "
+        "it up and a single bearing clouds over, refused, while every other way stays undecided. It forms "
+        "from an A-Relic husk after safe route termination, and binding requires the wielder to name their "
+        "present location and admit that no known correct path exists. In use the Lens attacks one "
+        "verified false route or directional illusion \u2014 in its recorded case collapsing a false return "
+        "route identified by matching hazard records \u2014 and it cannot select the remaining path as "
+        "correct; elimination is all it does. The cost is quiet subtraction: one small nameless memory "
+        "disappears per use, the first wielder losing a harmless shortcut but not the capacity to "
+        "navigate. Treating elimination as proof is last-option certainty; repeated use removing safe "
+        "context along with dangerous paths is map erasure; and the nearest grief mistaken for "
+        "destination is sorrow targeting. It is maintained facing a current map that contains marked "
+        "unknowns, clearing only routes disproven by evidence. Shutdown lowers the disc after one "
+        "rejection and returns navigation to an external map or guide."
+    ),
+    "s-290": (
+        "The Lost Veil is a near-colorless suit of Han gossamer with one warm present-location thread "
+        "running through it \u2014 a single line of here in a fabric that otherwise barely admits to existing. "
+        "It forms from Compass husk residue, and it binds only through an external navigator who never "
+        "follows the source needle. Worn where spatial direction collapses, the thread preserves current "
+        "identity \u2014 in its recorded case keeping name and body intact while four Forge corridors appeared "
+        "equally wrong, long enough to wait for structural mapping. It does not show a route. The cost is "
+        "distance from oneself: the wearer feels faintly absent and may experience their own location as "
+        "secondhand information, like an absent traveler described by someone else. A present-location "
+        "thread that follows a false route is the moving anchor; a wearer obeying the set instead of the "
+        "navigator is guide substitution; and a person who remains named but cannot feel where they are "
+        "has entered Void drift. It is maintained hung at a surveyed fixed point, the navigator naming "
+        "coordinates while the wearer describes present sensations. The external navigator confirms "
+        "location before the warm thread is opened for removal."
+    ),
+    "g-290": (
+        "The Lost Compass is a pale head-compass of Han glass whose needle points away from one unsafe "
+        "direction \u2014 a navigation instrument built entirely out of refusal. The source granted it after a "
+        "worker put the active A-Relic down rather than follow it; it cannot be manufactured. Its function "
+        "is a single negative: it identifies one wrong direction, and its cost is the mirror of that "
+        "function \u2014 it never identifies the right one. In its recorded case it rejected a Han-flooded "
+        "tunnel during a survey, and the bearer still waited for physical mapping before choosing among "
+        "the remaining routes. A needle rejecting every direction in sequence is the first corrosion "
+        "sign; a bearer treating silence as approval is the second; and \u201cwrong\u201d expanding from route to "
+        "person or choice is moral compass drift, the navigation tool judging people. The unrejected "
+        "direction becoming destiny is the last-path fallacy, and a needle reversing toward emotional "
+        "concentration is sorrow attraction. Care tests it only against surveyed hazards, recording what "
+        "evidence made the direction wrong and leaving all other paths unranked. Emergency release stops "
+        "moving, names the current location, and returns decision authority to an external navigator."
+    ),
+    "w-300": (
+        "The Secret Lens is a pale lens of Han glass set in a dark frame, its center permanently clouded "
+        "like the source crystal \u2014 an instrument that sees tethers clearly while refusing to see the "
+        "secret itself. It forms from channel residue after a whisper returns to the Lock, and binding "
+        "requires one secret the wielder is authorized to protect plus one oversight authority. In use it "
+        "pierces up to three access tethers produced by a single sealed-memory whisper \u2014 in its recorded "
+        "case cutting a listener\u2019s obsession, visible as a Void tether to the vault, without touching the "
+        "whisper \u2014 while aiming through the Lock strikes the memory itself and widens the breach. The "
+        "cost is attrition: small nameless memories disappear with each use; its first wielder lost why a "
+        "familiar archive phrase once comforted her. Damaging the guarded memory as if it were the threat "
+        "is the truth cut; protecting institutional concealment from review is secrecy defense; and one "
+        "cut opening several curiosity paths is access spread. It is maintained stored facing the closed "
+        "Lock while oversight records why the last tether \u2014 not the truth \u2014 was severed. Shutdown "
+        "rotates it away from the vault and grounds it after the whisper ends."
+    ),
+    "s-300": (
+        "The Secret Veil is a near-colorless suit of Han gossamer with a single opaque seam sewn over the "
+        "heart \u2014 one place the fabric refuses to be transparent, holding the whisper where it cannot "
+        "spread. It condenses after a Lock whisper closes cleanly, and it binds through a pre-contact "
+        "identity statement and an external reviewer. Worn during sealed-memory exposure, it keeps one "
+        "whisper from replacing identity or expanding into unapproved memory access \u2014 the first wearer "
+        "resisted the Void but experienced herself as merely the container selected to know. That is the "
+        "cost: the wearer feels faintly absent and may begin valuing the secret above the self carrying "
+        "it. A wearer defining themselves by exclusive access has taken on the secret identity; all "
+        "speech feeling like breach is disclosure panic; and a person becoming another lock is Void "
+        "custody. It is maintained by the external reviewer repeating the pre-contact identity statement "
+        "along with one fact unrelated to the secret, while the opaque seam remains closed without "
+        "hardening. Removal is the reviewer\u2019s act alone \u2014 the collar opens only after the wearer gives a "
+        "present-tense response unrelated to vault content."
+    ),
+    "g-300": (
+        "The Secret Key is a pale head-key of Han glass with no teeth at all, a clouded memory drifting "
+        "visibly inside its shaft \u2014 a key that opens by payment, never by force. The Lock granted it "
+        "after a worker heard one whisper and chose not to open the vault; it cannot be manufactured. It "
+        "unlocks one sealed memory as a bounded whisper, and its cost is permanent \u2014 one personal memory "
+        "sacrificed each time. In its recorded case the payment was an ordinary meal remembered with an "
+        "old colleague; the event remains in the calendar, but its lived warmth is gone. A Key requesting increasingly important memories is the "
+        "first corrosion sign; sacrifice treated as proof of entitlement is the second; and an opened "
+        "memory seeking additional context is the third. Offering someone else\u2019s memory without consent "
+        "is payment substitution, one whisper becoming argument for the whole vault is access escalation, "
+        "and paying again to justify previous loss is the martyr key. Care records what was learned, what "
+        "was paid, and why no further access follows automatically, the Key staying sealed until "
+        "independent review. Emergency release ends the whisper and refuses a second payment; breaking "
+        "the Key opens without boundary."
+    ),
+    "w-301": (
+        "The Feu Follet Requiem is a short blade of deep-blue Han crystal whose edge alternates between "
+        "cold liquid light and remembered flame \u2014 two temperatures sharing one edge, never at the same "
+        "moment. It forms after a worker anchors in present sensation, and its binding requires one "
+        "current warmth source and one admitted memory imperfection. Its work is separation without "
+        "erasure: the Requiem cuts the bond that makes remembered comfort override current sensory "
+        "evidence \u2014 in its recorded case separating a survivor\u2019s remembered campfire from a cold room "
+        "without erasing that the fire once saved them \u2014 while striking the memory itself removes part "
+        "of the rescue. The wielder pays in grief: they feel the source sorrow and cry involuntarily, the "
+        "first bearer weeping when the old warmth stopped feeling immediate. Cutting away historical "
+        "comfort is rescue erasure; treating current discomfort as proof no safety ever existed is cold "
+        "proof; and repeated use dissolving sensory boundaries is the melt edge. It is maintained held "
+        "between a current heat source and a written memory account without touching either \u2014 the edge "
+        "must show two distinct temperatures. Shutdown sheathes it once present sensation returns; no "
+        "one keeps cutting to perfect the memory."
+    ),
+    "s-301": (
+        "The Feu Follet Shroud is a wrapping shroud of blue Han-silk with cold flame patterns on its "
+        "outer face and one current-temperature thread running inside \u2014 fire that gives no heat worn "
+        "over a single line of honest warmth. It condenses after stable Ferrehan contact, and it binds "
+        "through a present sensory anchor and a removal partner. Worn while the source changes rescue "
+        "warmth into cold grief, the cloth lets remembered warmth cool without translating that change "
+        "into total loss of safety or self \u2014 the first wearer kept her identity but found ordinary "
+        "pleasure emotionally numb afterward. That is the standing cost: minor joys go numb, and "
+        "prolonged wear makes all comfort feel temporary and suspect. Rejecting every comfort before it "
+        "can fade is permanent winter; refusing current danger because old warmth persists is memory "
+        "shelter; and a memory that stays factual but emotionally dead is Void extinguishing. It is "
+        "maintained dried beside moderate current warmth \u2014 never flame \u2014 while the wearer names one "
+        "comfort that changed without becoming false. The removal partner confirms current temperature "
+        "and location before the inner thread is opened."
+    ),
+    "g-301": (
+        "The Feu Follet Ember is a cool blue tail-ember of Han crystal that produces emotional warmth "
+        "without any physical heat \u2014 comfort with no temperature, glowing faintly like a flame seen "
+        "through deep water. Feu Follet granted it after a worker accepted that a remembered rescue was "
+        "imperfect and past; it cannot be manufactured. Its function is brief and bounded: it provides "
+        "emotional warmth during distress \u2014 in its recorded case stabilizing a frightened worker long "
+        "enough to identify current shelter, the warmth ending on schedule. The cost compounds: warmth "
+        "fades with each use and takes one small memory as fuel; the recorded bearer kept a favorite "
+        "song\u2019s title but lost why it once felt comforting. Activating before distress begins is the "
+        "first corrosion sign; warmth treated as proof of safety is false shelter; and memory loss "
+        "accepted as routine payment is memory fuel, meaningful identity material spent casually. "
+        "Distress maintained to justify use is the dependency flame. Care records each memory lost and "
+        "makes no replacement story, keeping the Ember cold between uses until ordinary comfort is again "
+        "tolerable. Emergency release names present shelter, stops activation, and accepts the return of "
+        "distress without paying a second memory."
+    ),
+    "w-308": (
+        "The Vault of Unspoken Spites Fang is a crimson fang of Han iron with dark liquid visibly moving "
+        "away from the tip \u2014 stored anger in retreat, drawn back down the blade toward its record. It "
+        "forms from dried runoff after a grievance leaves the Vault through acknowledgment rather than "
+        "retaliation, and its binding requires a provenance record and a non-person release target. In "
+        "use the Fang separates one stored grievance through up to three contaminated shadow layers \u2014 in "
+        "its recorded case severing a decades-old labor grievance from a floor shadow and grounding it "
+        "into a sealed review vessel \u2014 while aiming at a person makes them the grievance\u2019s new "
+        "container. The cost is somatic: old wounds ache, and prolonged use leaves bruising; the first "
+        "wielder\u2019s old hand injuries bruised with the anger\u2019s original strikes. The nearest person "
+        "becoming a release vessel is the scapegoat line; a grievance repeated as punishment is the "
+        "retaliation edge; and missing provenance returning anger through the wielder is the ownerless "
+        "rebound. It is maintained resting above its release record until the liquid retreats fully from "
+        "the edge, deposit marks never polished away. Shutdown grounds it into an empty reviewed vessel "
+        "and lowers it before any target is named."
+    ),
+    "s-308": (
+        "The Vault of Unspoken Spites Veil is a warm crimson veil of Han cloth with one dark pocket that "
+        "moves across its surface \u2014 a held grievance visibly traveling the fabric, never allowed to "
+        "settle in. It condenses after responsible anger release, and it binds through a named witness "
+        "and a discharge plan agreed before wear. In the field it receives one hostile emotional effect "
+        "for bounded transport to release review \u2014 in its recorded case absorbing the first attack of a "
+        "returned supervisor\u2019s resentment and preserving the team. The cost travels with the cloth: the "
+        "wearer carries the absorbed anger and may misassign it, the first wearer distrusting workers "
+        "who had never participated in the original dispute. A second attack merging grievances is the "
+        "second deposit; blaming unrelated people is the inherited target; and provenance disappearing "
+        "while anger remains is Void ownership. The suit is not long-term storage. It is maintained by "
+        "opening the dark pocket before the named witness and describing feeling, source confidence, and "
+        "uncertainty \u2014 released before sleep, always. The witness lifts the cloth only after discharge "
+        "responsibility transfers to a real review process, not a promise."
+    ),
+    "g-308": (
+        "The Vault of Unspoken Spites Charm is a crimson tail-charm of Han iron that heats when anger is "
+        "deposited without provenance, review, or release duty \u2014 a thermometer for irresponsible "
+        "storage, cool around honest containment. The Vault granted it after a worker returned one "
+        "grievance to accountable care; it cannot be manufactured. Its registered function is exactly "
+        "that discrimination: in its recorded case it distinguished a worker\u2019s request for temporary "
+        "containment from an official\u2019s attempt to discard public resentment permanently. The cost is "
+        "carried in the bearer\u2019s own temper, which shortens with the work. A Charm burning around every "
+        "expression of anger is the first corrosion sign; a bearer treating all containment as "
+        "abandonment is the second; and temper offered as evidence is the third. Prohibiting necessary "
+        "short holding is no-container dogma; an emotional reaction replacing provenance is the heat "
+        "verdict; and sending a grievance back to harmed people without support is the return fantasy. "
+        "Care records who deposited, why, for how long, and who accepted release duty \u2014 the Charm cools "
+        "only when responsibility is real. Emergency release stops intake, names the current custodian, "
+        "and transfers no anger to an unconsenting person."
+    ),
+    "w-310": (
+        "The Truth Lens is a pale disc of Han glass showing one contradiction across a fracture line \u2014 "
+        "the lie and the fact held visibly apart by a crack that runs through the image, never through "
+        "the person. It forms from crack-light after bounded Ferrehan, and its binding is a test of "
+        "discrimination: the wielder must distinguish harmful deception from privacy, uncertainty, "
+        "courtesy, and protective presentation. In use it attacks one verified deception producing "
+        "current harm \u2014 in its recorded case a forged safety claim rather than the frightened seller "
+        "repeating it \u2014 and it cannot establish a complete truth or target a person for having social "
+        "masks. The cost is attrition: small nameless memories disappear with each use, one shot costing "
+        "a nameless memory of market trust. Withheld information turned into a target is the privacy "
+        "strike; one contradiction defining the whole person is the total-truth claim; and a wielder "
+        "whose own certainty becomes invisible to the Lens has entered self-righteous fracture. It is "
+        "maintained placed beside evidence showing both contradiction and context \u2014 the fracture clears "
+        "only when the target is narrower than the person. Shutdown lowers it once the harmful claim "
+        "stops; it does not continue into character judgment."
+    ),
+    "s-310": (
+        "The Truth Veil is a near-colorless suit of Han gossamer with different self-images moving "
+        "across separate panels \u2014 several true versions of the wearer at once, none permitted to claim "
+        "the whole. It condenses after a viewer accepts and limits one Mirror truth, and it binds through "
+        "a partner who names one context absent from the reflection. Worn under direct gaze, each "
+        "truthful image remains a part rather than replacing the wearer\u2019s whole identity \u2014 the first "
+        "wearer resisted identity fracture but felt like an observer absent from all the versions shown. "
+        "That absence is the cost: the wearer feels faintly distant and may begin treating context as "
+        "excuse rather than information. Context used to deny accountability is the excuse cloth; panels "
+        "that stop referring to the same person are shard identity; and a wearer absent from every truth "
+        "is the Void observer. It is maintained by the partner naming a truth and its limit while the "
+        "wearer adds one current choice showing change remains possible \u2014 the panels answer to the "
+        "present, not the reflection. Removal ends the direct gaze first, then opens the panels from the "
+        "current-choice seam."
+    ),
+    "g-310": (
+        "The Truth Lens pendant is a warm head-pendant of pale Han glass that shows hairline fractures "
+        "across deceptive statements \u2014 lies crack visibly in its surface while honest speech passes "
+        "unmarked. Cracked Mirror granted it after a worker acknowledged an unflattering truth and "
+        "looked away without demanding completion; it cannot be manufactured. Its function reads "
+        "deception, not people: it sees through lies and deliberate deception \u2014 in its recorded case "
+        "exposing a forged containment clearance while staying silent when a survivor said \u201cI\u2019m fine\u201d "
+        "to end an unwanted conversation, intent and harm kept as separate questions. The cost is "
+        "symmetrical: the bearer cannot lie convincingly. Every metaphor appearing deceptive is the "
+        "literal fracture; truths announced without consent or purpose is truth aggression, disclosure "
+        "used as punishment; and the Gift turned on vulnerable people for convenience is compelled "
+        "honesty, destroying privacy and safe social boundaries. Care records detected statement, "
+        "evidence, intent uncertainty, and actual harm separately \u2014 the Lens clears only while "
+        "\u201cunknown\u201d remains an available answer. Emergency release stops the questioning, leaves "
+        "direct-gaze range, and permits silence without treating it as deception."
+    ),
+    "w-315": (
+        "The Unsprouted Life Requiem is a singing blade of deep-blue Han crystal with a split seed-shaped "
+        "guard \u2014 and no point aimed inward, the geometry itself refusing the source\u2019s body. It forms "
+        "from cooled tears outside growth medium, and its binding requires a living host anchor and an "
+        "explicit source-shell exclusion. In use it pierces up to three detached growth paths and "
+        "removes them from a living host \u2014 in its recorded case severing three root-limbs from an agent "
+        "without touching the seed body \u2014 while striking the source shell accelerates manifestation. "
+        "The wielder pays in borrowed mourning: they receive the almost-born grief and cry "
+        "involuntarily, the first bearer weeping for futures the roots displayed and refusing to record "
+        "them as predictions. Opening unknown manifestation with a blow is the shell cut; attacking an "
+        "imagined form as if present is future targeting; and living tissue classified as root growth "
+        "is host confusion. It is maintained resting near the sealed dry chamber with the guard facing "
+        "the source and the edge facing away, all root residue removed before reuse. Shutdown sheathes "
+        "after host separation \u2014 there is never a final strike on the Seed."
+    ),
+    "s-315": (
+        "The Unsprouted Life Shroud is a wrapping of blue Han-silk patterned with roots that stop at a "
+        "clear inner body line \u2014 growth drawn right up to the boundary of the wearer and not one "
+        "thread past it. It condenses from cooled tear mist, and it binds through a partner who verifies "
+        "the wearer remains distinct from any emerging form. Worn during partial manifestation, it keeps "
+        "protective or invasive growth outside identity and Mind boundaries \u2014 in its recorded case "
+        "unknown limbs moved across the outer cloth while the inner line preserved body ownership. The "
+        "cost is a specific grief: minor joys go numb, and the wearer may mourn futures that never "
+        "belonged to them, the unrealized life pressing against the Mind. A wearer identifying with the "
+        "unknown entity is form adoption; growth crossing the body boundary is the root seam; and an "
+        "identity gap giving manifestation room inside is the Void unborn. It is maintained hung on a "
+        "body-shaped frame with no soil, water, or organic filling, the root marks required to stop at "
+        "the inner line. Removal is verified first \u2014 the partner confirms name, body, and current "
+        "intention before peeling the outward growth away."
+    ),
+    "g-315": (
+        "The Unsprouted Life Core is a cool tail-core of deep-blue Han crystal containing root-light but "
+        "no seed \u2014 the pattern of growth held without the thing that grows. Unsprouted Life granted it "
+        "after a worker completed Ferrehan without planting or watering; it cannot be manufactured. "
+        "Activated, it generates bounded protective growth around the bearer \u2014 in its recorded case the "
+        "barrier held through a root surge \u2014 and its fuel is the crueler part: growth feeds on memories "
+        "of future possibilities. The recorded bearer lost the felt possibility of one journey she had "
+        "planned; the itinerary facts remained, but the anticipation was gone. A barrier displaying "
+        "increasingly specific future lives is the first corrosion sign; a bearer spending possibilities "
+        "to avoid ordinary risk is the second; and growth reaching toward the source shell is the third. "
+        "Repeated use leaving no imaginable alternatives is future starvation; planting the Core to "
+        "replace the source is seed substitution; and a barrier that prevents the bearer from changing "
+        "course is the protective prison. Care records each future-memory loss without inventing "
+        "replacement hope, and the growth dries completely outside any soil. Emergency release stops "
+        "feeding possibilities, opens one present exit, and lets the barrier wither naturally."
+    ),
+    "w-316": (
+        "The Empty Fang is a crimson fang of Han iron with an empty knot at the guard and no line "
+        "extending from it \u2014 the shape of an attachment with nothing left attached. It forms from slack "
+        "Tether residue after conscious release, and its binding requires the wielder to name the "
+        "expectation being released and forbid judgment of the absent person. In use it cuts one "
+        "self-binding expectation that has no reciprocal hold \u2014 in its recorded case ending the loop "
+        "that kept an agent waiting at an unused Gate marker through a recurring-return dream; the "
+        "waiting ended, and the relationship memory did not. It cannot attack the absent person, the "
+        "original promise, or grief itself. The cost is somatic: old wounds ache, and prolonged use "
+        "leaves bruising. Erasing relationship history along with expectation is the memory cut; the "
+        "absent person becoming a target is the blame edge; and a wielder offering a new promise while "
+        "cutting the old one has made a replacement tether. It is maintained laid beside the slack line "
+        "record, naming separately what ended and what remains meaningful. Shutdown sheathes the Fang "
+        "before anyone proposes a future return."
+    ),
+    "s-316": (
+        "The Empty Plate is a crimson harness of Han iron with an open plate where a second grip would "
+        "have been \u2014 the absence built into the armor, left visible on purpose. It condenses after "
+        "Tether loosens, and it binds through a release witness who makes no replacement promise. Worn "
+        "beside someone ending years of waiting, it resists the anger released when a one-sided bond "
+        "ends while leaving the empty grip visible \u2014 in its recorded case holding against the Grudge "
+        "surge at a Gate release. The cost concentrates in the hands: reflexes dull, especially when the "
+        "wearer tries to carry another person\u2019s waiting; the first wearer slowed whenever he reached to "
+        "hold the rope for them. A wearer taking over the waiting is the rescuer grip; covering the open "
+        "plate to hide abandonment is empty denial; and all relationship meaning disappearing is Void "
+        "severance. It is maintained with the open plate kept empty while a witness names one "
+        "relationship fact that remains after release \u2014 what ended and what stays are separate entries. "
+        "The wearer opens the harness from the absent-grip side without reaching for another person."
+    ),
+    "g-316": (
+        "The Empty Knot is a warm crimson tail-knot of Han iron with one loop and no second line \u2014 half "
+        "of a connection, honestly presented as half. Tether granted it after a worker helped someone "
+        "end waiting without offering a substitute return; it cannot be manufactured. Its function is "
+        "verification, not verdict: it reveals bonds maintained without reciprocal contact \u2014 in its "
+        "recorded case identifying an active emotional tether to a person whose last confirmed contact "
+        "had ended years before, while declaring nothing about the absent person\u2019s motive. The cost is "
+        "ambient: the bearer feels every abandoned expectation nearby. Temporary distance appearing as "
+        "abandonment is the first corrosion sign; judging relationships without context is the second; "
+        "and every unmet expectation becoming a tether requiring intervention is the expectation flood. "
+        "Misreading a living reciprocal bond is premature release, and absence treated as proof of "
+        "rejection is motive fiction. Care verifies last contact, current consent, uncertainty, and the "
+        "waiting person\u2019s own goal \u2014 the Knot loosens only when it stops claiming motive. Emergency "
+        "release withdraws from the relationship decision entirely and returns authority to the person "
+        "holding the line."
+    ),
+    "w-320": (
+        "The Storm Maul is a black maul of Han steel shaped from post-Storm hail, its head scored with "
+        "rain grooves that point toward the last evacuation route \u2014 the weather\u2019s aftermath machined "
+        "into a wayfinder. It binds only after casualties and shelter needs are logged; the record comes "
+        "before the weapon. In use it moves fallen sorrow-load through up to three connected "
+        "obstructions away from a marked shelter route \u2014 in its recorded case driving three fallen "
+        "Weight masses off an evacuation line during the North Commons Blackfall, the cloud layer never "
+        "targeted. The cost is progressive heaviness and slight aging; each strike aged the first "
+        "wielder\u2019s hands and deepened the pull in his shoulders. A blow aimed at the sky returns as "
+        "weighted hail; a bearer collecting Storm residue instead of clearing passage has made the "
+        "extraction swing; and load moved onto another shelter is route abandonment. It is maintained "
+        "laid along the completed evacuation route while every displaced burden is mapped to where it "
+        "ended \u2014 no residue remains unassigned. Shutdown grounds the Maul once the route clears; no one "
+        "keeps swinging for lower weather pressure."
+    ),
+    "s-320": (
+        "The Storm Shield is a black shield-backed harness of Han steel with a canopy ridge that grows "
+        "visibly heavier as it absorbs Storm sorrow \u2014 shelter that gains mass with every person it "
+        "covers. It forms from post-passage hail, and it binds through a moving evacuation plan and a "
+        "second load monitor. In the field it absorbs local Storm pressure while the wearer and the "
+        "protected group continue toward lower load \u2014 it is a moving shelter, never a permanent one. "
+        "The cost is literal: stored sorrow increases physical mass until discharged after passage; in "
+        "its recorded deployment the harness nearly pinned its wearer when three late evacuees entered "
+        "and no one recalculated capacity. Protecting capacity by refusing late evacuees without "
+        "rerouting them is the closed edge; a wearer who stops moving while pressure accumulates is the "
+        "static dam; and route purpose disappearing while structure remains is Void whiteout. It is "
+        "maintained by discharging absorbed sorrow into a reviewed post-Storm grounding bed while "
+        "recording everyone sheltered \u2014 the Shield clears when weight returns to baseline. The load "
+        "monitor confirms complete discharge before the back ridge is released."
+    ),
+    "g-320": (
+        "The Storm Charm is a matte black head-charm of Han steel containing a tiny moving storm line \u2014 "
+        "the weather in miniature, crossing the charm\u2019s face like a front crossing a map. It appears "
+        "only after a survivor completes Ferrehan shelter work and the Storm passes; it cannot be "
+        "manufactured. Its function is comparative, never absolute: it identifies shelter overload and "
+        "the direction of lowest current pressure \u2014 in its recorded case rerouting evacuees before a "
+        "shelter wall bowed, the indicated corridor less dangerous rather than safe, physical scouts "
+        "still checking it. The cost accumulates with the city\u2019s grief: the bearer moves more slowly as "
+        "it gathers. Lowest pressure becoming \u201csafe\u201d in reports is gradient certainty; a bearer "
+        "stopping for perfect readings is capacity delay; and a Charm pointing toward areas emptied of "
+        "people rather than structurally viable routes is empty-zone bias, absence of people mistaken "
+        "for safety. Care compares each indication with physical structure, population, and route data, "
+        "and the Charm clears only after the Storm passes. Emergency release follows the current best "
+        "route with scouts \u2014 no one waits for a stable needle inside Sovereign weather."
+    ),
+    "w-329": (
+        "The Melting Lens is a pale disc of Han glass whose edge softens false architectural certainty \u2014 "
+        "held to the eye, a confident facade goes soft at its borders while honest ruin stays sharp. It "
+        "forms from upward melt after accepted incompletion, and its binding requires a plan, a "
+        "present-site record, and explicit separation between them. In use it targets one reconstruction "
+        "falsely presented as the original plan \u2014 in its recorded case dissolving a ceremonial facade "
+        "built over Folly\u2019s footprint while the source outline remained visible \u2014 and it cannot strike "
+        "the historical outline or prove a current design authentic. The cost is one small nameless "
+        "memory per use; its first wielder lost why one unrealized public square had felt personally "
+        "hopeful. Source history dissolving with the replica is outline erasure; every built structure "
+        "treated as false is completion bias; and a wielder claiming authority over intended occupants "
+        "is plan possession. It is maintained placed between the plan and the current-site map, one on "
+        "each side, clearing only material unsupported by either historical evidence or current use. "
+        "What the record supports, the Lens leaves standing."
+    ),
+    "s-329": (
+        "The Melting Veil is a pale veil of Han gossamer with seams that flow upward \u2014 against gravity, "
+        "the way Folly\u2019s architecture melts \u2014 and one current-body outline woven at the center. It "
+        "condenses after the source releases a stable melt, and it binds through a present-location "
+        "anchor. Worn inside upward-melting architecture, it resists loss of identity and spatial "
+        "definition \u2014 in its recorded case preserving bodies and exit perception for a survey team "
+        "while three imagined floors softened around them. The cost is a haunting rather than a wound: "
+        "faint self-absence, and longing for unrealized occupancy; the first wearer felt absent from "
+        "every warm room the tower might have held. A wearer adopting an imagined life is the future "
+        "resident; the current location melting with the plan is site loss; and warm emptiness replacing "
+        "present relationships is the Void room. It is maintained hung over a current-site marker until "
+        "all seams stop rising \u2014 and it is never fitted to a phantom room. The present-location anchor "
+        "is confirmed before every wear; the outline at the center answers to the body, not the "
+        "building."
+    ),
+    "g-329": (
+        "The Melting Brick is a warm head-tile of pale Han glass that displays intended use and occupant "
+        "flow, never a completed image \u2014 doorways as arrows, floors as circulation, and no finished "
+        "walls anywhere in the projection. Folly granted it after a worker mapped the outline without "
+        "construction; it cannot be manufactured. Its function preserves purpose without pretending "
+        "completion: it reveals the intended purpose of an unfinished structure \u2014 in its recorded case "
+        "identifying a planned shelter floor while retaining the word unbuilt across every projection. "
+        "The cost is grief at scale: the bearer feels every future the building could have held. A "
+        "projection gaining doors unsupported by plans is the first corrosion sign; intended users "
+        "becoming orders to current citizens is the second; and a bearer mourning every abandoned design "
+        "as personal failure is the third. In the set, the Brick preserves purpose while the Veil "
+        "preserves the observer and the Lens removes false reconstruction. Care compares funding, plan, "
+        "site, and actual occupancy \u2014 keeping intended, built, and used as three separate fields that "
+        "are never allowed to blur into one claim about what the structure is."
+    ),
+    "w-330": (
+        "The Frozen Maul is a matte black maul of Han steel with a frozen window face \u2014 the head is a "
+        "pane of endpoint frost, and somewhere in it a final departure is preserved mid-step. It forms "
+        "from endpoint frost after a completed circuit, and its binding requires a named route endpoint "
+        "and a prohibition against striking the reflected farewell. In use it breaks one current "
+        "obstruction forcing the waiting route to repeat \u2014 in its recorded case a sealed exit that "
+        "prevented the entity\u2019s final pass; the image survived the blow. The cost is progressive "
+        "heaviness and slight aging; the first wielder\u2019s shoulders gained the heaviness of years spent "
+        "watching the same corner. Striking the farewell erases its endpoint \u2014 the one failure the "
+        "binding explicitly forbids; stopping the circuit early freezes the head solid; and using the "
+        "Maul to summon return makes the wielder wait in place, inheriting the vigil instead of ending "
+        "it. It is maintained resting at the route endpoint until the frost displays the final departure "
+        "exactly once and does not repeat \u2014 a single showing is completion, a loop is corrosion. The "
+        "window face is never wiped clear; the farewell belongs to the route, not the wielder."
+    ),
+    "s-330": (
+        "The Frozen Pane is a black pane-harness of Han steel containing moving farewell scenes \u2014 "
+        "departures crossing the armor\u2019s face like figures passing behind glass. It condenses after the "
+        "circuit settles, and it binds through an accompaniment partner and a current endpoint. Under "
+        "attack it absorbs one impact and briefly slows its source while displaying the departure "
+        "attached to the pressure \u2014 in its recorded case taking a frozen-shard impact, slowing the "
+        "attacker, then replaying every departure associated with the route until the wearer named the "
+        "present Commons aloud. The cost is empathic: the wearer feels every departure reflected in the "
+        "shield. Scenes replacing current sight is the first failure; absorbed force mistaken for proof "
+        "of return is the second; and Void erasing the endpoint is the third \u2014 a shield full of "
+        "farewells with nowhere for them to have ended. It is maintained thawed beside the completed "
+        "route while the partner names past departure and current location separately, two entries that "
+        "must never merge. The accompaniment partner stays within voice range for the whole deployment; "
+        "the Pane is worn on a walked route, never at a window."
+    ),
+    "g-330": (
+        "The Frozen Charm is a cold black head-charm of Han steel showing one closed circuit \u2014 a "
+        "route drawn complete, with an ending and no promise after it. Sitting Boundary granted it "
+        "after a worker walked the route, named the ending, and offered no promise of return; it cannot "
+        "be manufactured. Its function is the honest endpoint: it identifies the historical terminus of "
+        "repeated waiting \u2014 in its recorded case marking the final corner of a Commons route rather "
+        "than the window where observers expected reunion. The cost is cumulative: the bearer moves "
+        "more slowly under accumulated farewells. A desired reunion replacing the real endpoint is the "
+        "first failure; ordinary pauses declared final is the second; and a bearer moving too slowly to "
+        "complete the circuit is the third \u2014 the Charm\u2019s own weight defeating its purpose. In the set "
+        "it marks the endpoint while the Pane accompanies and the Maul removes the current obstruction. "
+        "Care walks the route once without watching for return, recording where the historical movement "
+        "actually ended rather than where anyone hoped it would turn around. The circuit on its face "
+        "stays closed; reopening it is not restoration but relapse."
+    ),
+    "w-339": (
+        "The Fallen Requiem is a blade of deep-blue Han crystal patterned with wall cracks \u2014 the "
+        "fracture map of a failed safeguard etched down the flat, kept as evidence rather than polished "
+        "out. It forms after a failed safeguard is documented without promises of replacement certainty, "
+        "and that documentation is its binding. In use it separates up to three failure paths from one "
+        "realistic anchor \u2014 in its recorded case severing three spreading collapse lines from a current "
+        "evacuation marker during an Echo Gardens anchor failure; the marker held long enough for "
+        "movement, and nobody called it safe. Striking the memory of failure destroys the lesson and "
+        "repeats the breach. The cost is involuntary weeping under the source\u2019s betrayed-protection "
+        "grief. An anchor treated as perfect is the first failure; evidence cut away with the cascade "
+        "is the second; and repeated use making every barrier feel doomed is the third \u2014 the weapon\u2019s "
+        "pessimism outliving its purpose. It is maintained aligned with a current emergency route while "
+        "the wielder records exactly what that route cannot protect against \u2014 the limit written down, "
+        "never rounded up to safety. The crack pattern stays visible; a smooth Requiem has forgotten "
+        "what it is for."
+    ),
+    "s-339": (
+        "The Fallen Barrier is a barrier plate of deep-blue Han crystal with one visible crack before "
+        "any use at all \u2014 the flaw shipped with the shield, honesty built into the equipment. Binding "
+        "requires a named escape route and an explicit protection limit stated before wear. Under "
+        "attack it absorbs one impact meant for the wearer while preserving movement toward the route \u2014 "
+        "a one-impact anchor, never a wall. The cost cuts inward: the shield cracks into the wearer\u2019s "
+        "memory of safety; its first wearer felt the crack open through his memory of every room he had "
+        "once considered perfectly safe. Assuming a second impact is the first failure; hiding the "
+        "crack to reassure others is the second; and a wearer who stops trusting every safeguard is the "
+        "third \u2014 the Barrier\u2019s lesson curdled into despair. It is maintained with the crack left "
+        "visible and the protection-limit card updated after each deployment, the stated limit and the "
+        "real one kept in the same handwriting. The named escape route is walked before wear; the plate "
+        "protects movement toward it, not the decision to stand still behind a shield that has already "
+        "said, plainly, that it holds exactly once."
+    ),
+    "g-339": (
+        "The Fallen Charm is a tail-charm of deep-blue Han crystal containing one moving crack \u2014 a "
+        "fracture that travels slowly through the stone, never healing and never finished. Breach "
+        "granted it after a worker accepted failed protection and established a limited current anchor; "
+        "it cannot be manufactured. Its function is the audit no one wants: it marks a safeguard whose "
+        "real limit no longer matches its stated protection \u2014 in its recorded case identifying a "
+        "sealed room whose wall held physical force but not the internal Han flow that had caused the "
+        "prior collapse. The cost is nocturnal: the bearer weeps in sleep. Every imperfection becoming "
+        "breach is the first failure; detection hidden to preserve confidence is the second; and a "
+        "marked failure treated as proof all protection is useless is the third \u2014 the Charm\u2019s finding "
+        "inflated into fatalism. In the set it identifies failure for the Barrier and the Requiem to "
+        "act on. Care records stated limit, actual limit, failure path, and remaining useful protection "
+        "as four separate entries \u2014 because a safeguard that fails one way usually still works in "
+        "three others, and the record must say so as plainly as it says what broke."
+    ),
+})
+
 SLOT_BY_SUFFIX = {"B": "w", "C": "s", "D": "g"}
 
 
@@ -1551,6 +2115,12 @@ def insert_md(md_path: Path, paragraph: str, write: bool) -> None:
         i = text.find("\n" + heading)
         if i != -1 and (pos is None or i < pos):
             pos = i
+    if pos is None:
+        # heading-less compact records: insert before the first stats table/block
+        for anchor in TABLE_ANCHORS:
+            i = text.find(anchor)
+            if i != -1 and (pos is None or i < pos):
+                pos = i
     if pos is None:
         raise SystemExit(f"{md_path.name}: no stats heading found for insertion")
     new = text[: pos + 1] + "## Appearance\n\n" + paragraph + "\n\n" + text[pos + 1 :]

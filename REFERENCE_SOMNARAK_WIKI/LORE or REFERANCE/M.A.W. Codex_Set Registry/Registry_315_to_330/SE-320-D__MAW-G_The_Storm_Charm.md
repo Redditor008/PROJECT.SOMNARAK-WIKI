@@ -16,6 +16,10 @@
 
 A matte black Han-steel Head charm containing a tiny moving storm line. It appears only after a survivor completes Ferrehan shelter work and the Storm passes. Bestowal chance is 4%.
 
+## Appearance
+
+The Storm Charm is a matte black head-charm of Han steel containing a tiny moving storm line — the weather in miniature, crossing the charm’s face like a front crossing a map. It appears only after a survivor completes Ferrehan shelter work and the Storm passes; it cannot be manufactured. Its function is comparative, never absolute: it identifies shelter overload and the direction of lowest current pressure — in its recorded case rerouting evacuees before a shelter wall bowed, the indicated corridor less dangerous rather than safe, physical scouts still checking it. The cost accumulates with the city’s grief: the bearer moves more slowly as it gathers. Lowest pressure becoming “safe” in reports is gradient certainty; a bearer stopping for perfect readings is capacity delay; and a Charm pointing toward areas emptied of people rather than structurally viable routes is empty-zone bias, absence of people mistaken for safety. Care compares each indication with physical structure, population, and route data, and the Charm clears only after the Storm passes. Emergency release follows the current best route with scouts — no one waits for a stable needle inside Sovereign weather.
+
 ## FUNCTION & COST
 
 **Grade / Element:** γ / Weight  
