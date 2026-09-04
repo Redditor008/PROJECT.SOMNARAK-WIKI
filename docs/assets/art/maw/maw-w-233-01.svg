@@ -1,38 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SOUL REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg728b4c" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw233" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl728b4c" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl233" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#93c5fd"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg728b4c)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw233)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="122" fill="url(#gl728b4c)"/>
-  <g transform="rotate(3 200.0 192.0)">
-<path d="M186.0 192.0 L194.12 86.88000000000001 L200.0 46.0 L205.88 95.64 L214.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 46.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="193.0" y="107.3" width="14.0" height="61.3" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="176.0" y="187.0" width="48.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="44.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="252.0" r="5.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(-3 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(-8 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <g transform="rotate(-14 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <g transform="rotate(-14 200.0 120.0)" opacity=".9">
-    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-233-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- bipyramidal blade: widest at mid-length, tapering to a point at BOTH ends (no prism section) -->
+  <path d="M112 330 L204 226 L232 194 L294 106 L268 172 L240 208 L142 314 Z"
+        fill="url(#bl233)" stroke="#38bdf8" stroke-width="2.8"/>
+  <path d="M112 330 L226 200 L294 106" stroke="#1e3a5f" stroke-width="1.6"/>
+  <!-- upper pyramid facets -->
+  <path d="M294 106 L252 168 M294 106 L262 186" stroke="#7dd3fc" stroke-width="1.4"/>
+  <!-- lower pyramid facets -->
+  <path d="M112 330 L188 232 M112 330 L172 258" stroke="#7dd3fc" stroke-width="1.4"/>
+  <!-- mid-body facet junction band: the widest waist -->
+  <path d="M204 226 L240 208 M212 240 L248 220" stroke="#1e3a5f" stroke-width="1.4" opacity=".85"/>
+  <path d="M208 232 L244 214" stroke="#e0f2fe" stroke-width="1.2" opacity=".8"/>
+  <!-- THE LAMENT FILM: warm beads standing along the whole edge line -->
+  <circle cx="140" cy="308" r="2.6" fill="#7dd3fc"/><circle cx="162" cy="284" r="2.4" fill="#93c5fd"/>
+  <circle cx="184" cy="260" r="2.6" fill="#7dd3fc"/><circle cx="206" cy="236" r="2.4" fill="#93c5fd"/>
+  <circle cx="228" cy="212" r="2.6" fill="#7dd3fc"/><circle cx="250" cy="184" r="2.4" fill="#93c5fd"/>
+  <circle cx="268" cy="156" r="2.6" fill="#7dd3fc"/><circle cx="282" cy="132" r="2.2" fill="#93c5fd"/>
+  <path d="M138 312 C 136 317, 136 321, 138 324 M182 264 C 180 269, 180 273, 182 276 M226 216 C 224 221, 224 225, 226 228 M266 160 C 264 165, 264 169, 266 172"
+        fill="none" stroke="#60a5fa" stroke-width="1.2" opacity=".7"/>
+  <!-- the unrememberable song: notation that blurs as it leaves the blade -->
+  <path d="M300 96 C 308 90, 316 88, 324 90" fill="none" stroke="#7dd3fc" stroke-width="1.6" opacity=".85"/>
+  <path d="M306 82 C 313 77, 320 76, 327 78" fill="none" stroke="#60a5fa" stroke-width="1.3" opacity=".55"/>
+  <path d="M312 68 C 318 64, 324 63, 330 65" fill="none" stroke="#3b5f88" stroke-width="1.1" opacity=".35"/>
+  <circle cx="326" cy="88" r="2" fill="#7dd3fc" opacity=".8"/><circle cx="331" cy="76" r="1.6" fill="#60a5fa" opacity=".5"/>
+  <!-- interior: a walking-line inclusion, the Soul's route it was left beside -->
+  <path d="M162 296 C 186 268, 212 242, 240 218 C 256 204, 270 188, 280 170" fill="none" stroke="#0a1626" stroke-width="2"/>
+  <path d="M172 288 L176 292 M212 248 L216 252 M252 202 L256 206" stroke="#f1df76" stroke-width="1.6" opacity=".8"/>
+  <!-- waist collar mount and grip: bound at the crystal's widest point -->
+  <path d="M196 240 L216 260" stroke="#12233d" stroke-width="9"/>
+  <path d="M198 238 L214 254" stroke="#93c5fd" stroke-width="1.8"/>
+  <path d="M204 256 L244 300" stroke="#12233d" stroke-width="12" stroke-linecap="round"/>
+  <path d="M212 262 L220 270 M222 272 L230 280 M232 282 L240 290" stroke="#60a5fa" stroke-width="2.4"/>
+  <path d="M250 308 a7 7 0 1 0 .1 0" fill="#0a1626" stroke="#93c5fd" stroke-width="2.4"/>
+  <!-- two tears left outside the walking line, at the pommel -->
+  <path d="M258 322 C 255 328, 255 333, 258 336 C 261 333, 261 328, 258 322 Z M270 330 C 267 336, 267 341, 270 344 C 273 341, 273 336, 270 330 Z" fill="#38bdf8" opacity=".85"/>
 </svg>

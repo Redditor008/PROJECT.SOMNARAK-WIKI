@@ -133,3 +133,22 @@ Batch-6 additions (2026-09-05, per owner ruling to add non-striking forms — ra
 | MAW-W-190 The Rage Fang | Fang-Head Javelin (cast weapon, bounded red path ending at accountability) | Medium (source: range 3 — Medium) |
 
 Batch-6 form notes: three of the Medium items became true non-melee kinds per the owner's directive — a candle-staff (W-165), a loom-frame thread-bow (W-176), and a hand-cannon sighting frame (W-184) — plus a thrown javelin (W-190); the canonically named Mauls/Hammer keep their kind with fully distinct scenes.
+
+Batch-7 additions (2026-09-05, shape-variant research standard, weapon-first detail, no scene props):
+
+| Item | Archetype (researched variant) | Band (source) |
+| --- | --- | --- |
+| MAW-W-193 The Wall's Maul | Monolith Maul (light-swallowing unmarked block, hairline division seam, twin grips) | Medium (source: 3 — Medium) |
+| MAW-W-195 The Sorrow Lens | Mirror-Faced Blade (dusk reflection in the flat, clouding pry-corner) | Medium (source: 3 — Medium) |
+| MAW-W-200 The Gatekeeper's Blade | Long Single-Edged Boundary Blade (gate-arch watermark, gate-pillar quillons) | Medium (source: 3 — Medium) |
+| MAW-W-205 The Hollow Staff | Seam-Staff (bark stripped against the grain, lit central seam, intake vents) | Medium (source: Range 3 — Medium) |
+| MAW-W-210 The Laughter Lens | Angled Hand-Lens (pointing handle, offset mouth-ahead-of-face in the glass) | Short (source: Range 2 — Short) |
+| MAW-W-215 The Name Lens | Two-Handed Wire-Frame Lens (yoke frame, twin grips, letters at opposite edges) | Short (source: Range 2 — Short) |
+| MAW-W-219 Splinter Requiem | Acicular Needle-Crystal Blade (needle cluster habit, wet luminous edge, running droplets) | Short (source: 2 / 50) |
+| MAW-W-220 The Years Maul | Calendar Post-Driver (stacked leaf faces, torn consequence leaf, elongating ringed shaft) | Long (source: 10–15) |
+| MAW-W-222 Patina Fang | Rust-Flake-Edge Fang (orange flake serrations sharper than polish, patina blooms, quivering tip) | Long (source: 10–15) |
+| MAW-W-225 The River Maul | Flow-Channel Maul (tunnel bored through the head, dark intake / bright outlet faces) | Medium (source: 7–12) |
+| MAW-W-230 The Final Lens | Sight-Staff (lens disc fork-mounted atop a long pale frame, heartbeat pulse ring, planted butt spike) | Long (source: 10–15) |
+| MAW-W-233 The Soul Requiem | Bipyramidal Crystal Blade (double-pyramid profile, Lament bead film, fading song notation) | Medium (source: 7–12) |
+
+Batch-7 form notes: crystal formations extended with two new researched variants — acicular/needle habit (W-219) and bipyramidal (W-233); lens family split into four distinct builds (mirror-blade, angled hand-lens, wire-frame yoke, staff-mounted sight); maul family extended with monolith, calendar post-driver, and flow-channel bores; W-205 is the set's first true staff kind.

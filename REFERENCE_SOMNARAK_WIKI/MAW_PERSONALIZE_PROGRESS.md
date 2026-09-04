@@ -308,6 +308,25 @@ W-100…126 redrawn as varied forms, each staged from its own record:
 
 Gates PASS. Batch 5 (W-127…159) still in rejected style; next redo round after owner review — apply the same variety + range-stat rule.
 
+## 15i. Batch 7 (2026-09-05, full current standard: shape-variant research + weapon-first detail)
+
+Items: W-193, 195, 200, 205, 210, 215, 219, 220, 222, 225, 230, 233. Ranges from records: Medium = 193/195/200/205/225/233; Short = 210/215/219; Long (10–15) = 220/222/230. All drawn weapon-only (no stickmen/scene props), each a distinct researched shape variant:
+
+- W-193 Wall's Maul — MONOLITH MAUL: unmarked light-swallowing black block (interior pure black, light dying at the rims), the hairline division seam etched down the face, matched witness-notches both sides, TWO wrapped grips on one haft (it will not lift for a single hand's cause).
+- W-195 Sorrow Lens — MIRROR-FACED BLADE: broad flat rectangular razor of Void-white glass holding a dusk-dim room reflection (window, low light bar), opacity clouding rolling in from the pry-corner, boundary line etched mid-face.
+- W-200 Gatekeeper's Blade — LONG SINGLE-EDGED BOUNDARY BLADE: deep-red flat brightening to a pale true edge, faint gate-arch watermark near the guard, verified-mark rune at the tip third, gate-pillar quillons with the declared passage kept open between them, route tag on the ring pommel.
+- W-205 Hollow Staff — SEAM-STAFF (first true staff kind): matte black shaft textured like bark stripped AGAINST the grain, dim lit central seam that illuminates nothing, echo-intake vents mid-staff drinking ambient Han motes, root-shadow etched at the butt ferrule.
+- W-210 Laughter Lens — ANGLED HAND-LENS: palm-wide ground disc with radial rim ticks, handle joined at a POINTING angle, the glass showing a mouth a fraction ahead of its face, returned-laugh wave entering from behind the rim.
+- W-215 Name Lens — TWO-HANDED WIRE-FRAME LENS: small near-translucent disc in a bent-wire yoke with twin wire-wound grips and hung witness cards; letters materializing at opposite edges, the agreement line joining only matches, mismatches left visible, one warm living-answer spot.
+- W-219 Splinter Requiem — ACICULAR NEEDLE-CRYSTAL BLADE (new researched crystal habit): slender needle blade with two companion needles grown alongside, wet luminous edge, authentic droplets running point-to-hilt and vanishing, song lines at the exact remembered pitch, dry residue line at the base.
+- W-220 Years Maul — CALENDAR POST-DRIVER: both striking faces stacked with calendar leaves (page edges drawn), one leaf mid-tear showing consequence lines, registration plate the shaft has outgrown, finger-width growth rings down the haft with the newest ring brightest.
+- W-222 Patina Fang — RUST-FLAKE-EDGE FANG: warm dark iron fang whose edge is a run of standing orange rust-flake serrations (sharper than polish), flakes shedding, green patina blooms on the flat, motion-ghost quiver at the tip toward the oldest marker.
+- W-225 River Maul — FLOW-CHANNEL MAUL: an open tunnel bored clean through the head (no reservoir), dark intake mouth one face and bright outlet mouth the other, channel bore visible through the block, ripple marks worn into the faces, downstream quiver ghosts.
+- W-230 Final Lens — SIGHT-STAFF: nearly colorless lens disc fork-mounted atop a long pale frame, heartbeat pulse-line ring, one clear transparency wedge at the exact boundary, three diminishing falloff rings etched down the frame, memory-cost bead counter, planted butt spike.
+- W-233 Soul Requiem — BIPYRAMIDAL CRYSTAL BLADE (new researched crystal habit): double-pyramid profile widest at the waist and pointed both ways, warm Lament bead film standing along the edge, walking-line inclusion inside, song notation blurring as it leaves the blade, two tears at the pommel.
+
+No kind changes vs the records — Appearance parity intact. Gates PASS (SVG, structure, word floor). Next: batch 8 = next 12 W numbers >233 and <1000.
+
 ## 15h. Batches 5 + 6 SHAPE-VARIANT UPGRADE (2026-09-05, owner ruling: research real shape variants, minimum 4 per weapon shape)
 
 Owner directive: research online the different real shapes of each weapon type (minimum 4 variants per shape family) and make each item a DIFFERENT researched variant — e.g. a crystal blade must look like actual crystal (jagged / blunt / sharp / natural edge), not a generic sword recolored. Research sources: splitting-maul subtypes (wedge-poll, post maul, spike maul, drum/cylinder, octagonal sledge), natural quartz formations (terminated prism, double-terminated, bladed/platy aggregate, fenster/skeleton windows, phantom growth, faden thread, druse crust), knife/sword edge types (sharp V, serrated, blunt wedge, natural crystal edge), bow rest-shapes (straight D, recurve, reflex, deflex), javelin types (socketed pilum, barbed angon with weighted joint).

@@ -1,31 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE RIVER MAUL">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // MAUL -->
   <defs>
-    <radialGradient id="bgf37931" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw225" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1c1206"/>
+      <stop offset="100%" stop-color="#0a0703"/>
     </radialGradient>
-    <radialGradient id="glf37931" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl225" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#78350f"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgf37931)" stroke="#c9a86a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw225)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="123" fill="url(#glf37931)"/>
-  <g transform="rotate(0 200.0 192.0)">
-<rect x="159.0" y="153.0" width="82.0" height="78.0" rx="7" fill="#c9a86a" fill-opacity=".24" stroke="#c9a86a" stroke-width="3.5"/>
-<path d="M175.4 164.7 L224.6 164.7" stroke="#e0f2fe" stroke-width="1.3" opacity=".7"/>
-<circle cx="200.0" cy="192.0" r="11.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
-<rect x="194.0" y="231.0" width="12" height="97.0" rx="4" fill="#1f2937" stroke="#c9a86a" stroke-width="2"/>
-<circle cx="200.0" cy="338.0" r="7" fill="#c9a86a" fill-opacity=".55"/>
-  </g>
-  <g transform="rotate(-2 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#c9a86a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".45"/>
-  </g>
-  <g transform="rotate(-5 200.0 120.0)" opacity=".9">
-    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-W-225-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0703" stroke="#d97706" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- head: broad block angled, with THE CHANNEL bored clean through -->
+  <path d="M142 88 L306 116 C 318 118, 325 127, 323 139 L311 205 C 309 217, 300 224, 288 222 L124 194 C 112 192, 105 183, 107 171 L119 105 C 121 93, 130 86, 142 88 Z"
+        fill="#171006" stroke="#d97706" stroke-width="3.2"/>
+  <rect x="118" y="96" width="196" height="118" rx="10" transform="rotate(10 216 155)" fill="url(#bl225)" opacity=".14"/>
+  <!-- THE FLOW CHANNEL: open tunnel entering the left face, leaving the right — no reservoir -->
+  <ellipse cx="136" cy="146" rx="13" ry="22" transform="rotate(10 136 146)" fill="#060402" stroke="#f59e0b" stroke-width="2.6"/>
+  <ellipse cx="294" cy="174" rx="11" ry="19" transform="rotate(10 294 174)" fill="#060402" stroke="#fde68a" stroke-width="2.6"/>
+  <!-- channel bore visible through the block -->
+  <path d="M148 132 C 196 138, 244 148, 284 160 M148 162 C 196 168, 244 178, 284 188" fill="none" stroke="#a16207" stroke-width="2"/>
+  <path d="M160 140 C 200 146, 240 154, 276 164" fill="none" stroke="#78350f" stroke-width="1.4" opacity=".8"/>
+  <!-- flow direction: Weight entering dark, leaving bright -->
+  <path d="M96 134 L122 140" stroke="#78350f" stroke-width="3"/>
+  <path d="M116 132 L126 141 L114 146" fill="none" stroke="#78350f" stroke-width="2"/>
+  <path d="M310 180 L344 188" stroke="#fde68a" stroke-width="3"/>
+  <path d="M336 180 L348 189 L334 194" fill="none" stroke="#fde68a" stroke-width="2"/>
+  <!-- ripple marks worn into the faces by passage -->
+  <path d="M170 112 C 178 116, 186 116, 194 112 M210 118 C 218 122, 226 122, 234 118 M250 126 C 258 130, 266 130, 274 126" fill="none" stroke="#a16207" stroke-width="1.6" opacity=".8"/>
+  <path d="M162 196 C 170 200, 178 200, 186 196 M226 206 C 234 210, 242 210, 250 206" fill="none" stroke="#a16207" stroke-width="1.6" opacity=".8"/>
+  <!-- downstream quiver ghosts -->
+  <path d="M330 150 C 338 146, 346 144, 354 146 M334 162 C 342 158, 350 157, 358 159" fill="none" stroke="#d97706" stroke-width="1.4" opacity=".55"/>
+  <!-- iron hoops + rivets -->
+  <path d="M176 94 L162 200 M262 108 L248 214" stroke="#78716c" stroke-width="6"/>
+  <circle cx="172" cy="120" r="2.2" fill="#fde68a"/><circle cx="166" cy="172" r="2.2" fill="#fde68a"/>
+  <circle cx="258" cy="134" r="2.2" fill="#fde68a"/><circle cx="252" cy="186" r="2.2" fill="#fde68a"/>
+  <!-- eye collar + two-hand haft -->
+  <path d="M206 220 L218 238" stroke="#78716c" stroke-width="9"/>
+  <path d="M216 236 L172 384" stroke="#100b04" stroke-width="15" stroke-linecap="round"/>
+  <path d="M214 240 L174 378" stroke="#2c1c0a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M206 262 L220 266 M200 282 L214 286 M194 302 L208 306" stroke="#f59e0b" stroke-width="2.6"/>
+  <path d="M186 330 L200 334 M182 344 L196 348" stroke="#fbbf24" stroke-width="2.6"/>
+  <path d="M166 392 a8 8 0 1 0 .1 0" fill="#1c1206" stroke="#f59e0b" stroke-width="2.4"/>
 </svg>

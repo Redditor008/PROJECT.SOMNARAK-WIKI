@@ -1,26 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE GATEKEEPER’S BLADE">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE GATEKEEPER'S BLADE">
   <defs>
-    <radialGradient id="bgb645d4" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw200" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#230a0e"/>
+      <stop offset="100%" stop-color="#0c0405"/>
     </radialGradient>
-    <radialGradient id="glb645d4" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl200" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgb645d4)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw200)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#glb645d4)"/>
-  <g transform="rotate(4 200.0 192.0)">
-<path d="M184.0 192.0 L193.28 94.8 L200.0 57.0 L206.72 102.89999999999999 L216.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 57.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="192.0" y="113.7" width="16.0" height="56.7" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="174.0" y="187.0" width="52.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="40.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="248.0" r="7.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-200-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0405" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- long straight single-edged blade rising right, deep red flat brightening to the edge -->
+  <path d="M128 316 L116 304 L286 96 C 296 84, 310 78, 322 82 L330 88 C 334 100, 330 112, 320 122 L146 330 Z"
+        fill="url(#bl200)" stroke="#ef4444" stroke-width="2.8"/>
+  <!-- flat: deep red core band -->
+  <path d="M136 306 L296 110" stroke="#7f1d1d" stroke-width="6" opacity=".9"/>
+  <path d="M138 300 L292 112" stroke="#450a0a" stroke-width="2"/>
+  <!-- edge brightening: pale line at the true edge -->
+  <path d="M130 318 L318 122" stroke="#fecaca" stroke-width="2"/>
+  <path d="M150 302 L306 132" stroke="#fca5a5" stroke-width="1" opacity=".7"/>
+  <!-- THE GATE-ARCH WATERMARK near the guard, faint in the metal -->
+  <path d="M166 266 L166 296 M198 234 L198 268 M166 274 C 166 252, 198 244, 198 242" fill="none" stroke="#fca5a5" stroke-width="1.8" opacity=".75"/>
+  <path d="M172 282 C 172 268, 192 262, 192 258" fill="none" stroke="#fca5a5" stroke-width="1.2" opacity=".5"/>
+  <!-- the verified-mark rune at the tip third -->
+  <circle cx="272" cy="128" r="7" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <path d="M272 121 L272 135 M265 128 L279 128" stroke="#f1df76" stroke-width="1.6"/>
+  <!-- fuller groove -->
+  <path d="M158 290 L288 132" stroke="#2b0c0c" stroke-width="3" opacity=".8"/>
+  <!-- GATE-PILLAR QUILLONS: two small boundary posts as the crossguard -->
+  <path d="M112 292 L98 278" stroke="#7f1d1d" stroke-width="10" stroke-linecap="round"/>
+  <path d="M138 330 L152 344" stroke="#7f1d1d" stroke-width="10" stroke-linecap="round"/>
+  <rect x="88" y="266" width="14" height="20" rx="2" fill="#230a0e" stroke="#ef4444" stroke-width="2"/>
+  <rect x="146" y="336" width="14" height="20" rx="2" fill="#230a0e" stroke="#ef4444" stroke-width="2"/>
+  <path d="M92 270 L98 270 M150 340 L156 340" stroke="#fca5a5" stroke-width="1.4"/>
+  <!-- the declared passage: an open slot between the pillars, kept clear -->
+  <path d="M104 288 L142 326" stroke="#f1df76" stroke-width="1.6" stroke-dasharray="5 4" opacity=".8"/>
+  <!-- wrapped grip + ring pommel with the route tag -->
+  <path d="M120 312 L82 352" stroke="#2b0c0c" stroke-width="12" stroke-linecap="round"/>
+  <path d="M116 318 L124 326 M108 326 L116 334 M100 334 L108 342 M92 342 L100 350" stroke="#ef4444" stroke-width="2.4"/>
+  <circle cx="74" cy="362" r="9" fill="none" stroke="#fca5a5" stroke-width="2.6"/>
+  <path d="M70 372 C 62 378, 54 378, 48 372" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <rect x="34" y="356" width="16" height="11" rx="2" fill="none" stroke="#f1df76" stroke-width="1.6"/>
 </svg>
