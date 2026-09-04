@@ -1,28 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FURY FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bgfe6d21" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bw042" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="glfe6d21" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
+    <radialGradient id="gw042" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgfe6d21)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw042)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="131" fill="url(#glfe6d21)"/>
-  <g transform="rotate(-5 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 118.85, 223.0 59.0 229.0 59.0 C219.0 122.84, 220.0 146.78, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 130.82, 221.0 67.0 226.0 65.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="54.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="258.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <g transform="rotate(-2 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#d64a4a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#d64a4a" stroke-width="2" opacity=".45"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-042-01</text>
+  <circle cx="200" cy="188" r="130" fill="url(#gw042)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- RING TALON: karambit tooth — thick back, sharp inner curve, ring pommel -->
+  <path d="M256 282 C 196 282, 148 240, 140 176 C 138 158, 142 142, 152 130 L170 142 C 164 154, 162 168, 166 184 C 176 228, 212 256, 258 260 Z" fill="#7f1d1d" fill-opacity=".5" stroke="#ef4444" stroke-width="3"/>
+  <path d="M158 136 C 152 150, 150 166, 154 182" fill="none" stroke="#fecaca" stroke-width="1.8" opacity=".85"/>
+  <path d="M150 128 L142 112 L158 118 Z" fill="#ef4444"/>
+  <path d="M178 196 C 194 230, 226 250, 256 254" fill="none" stroke="#fecaca" stroke-width="1.1" opacity=".6"/>
+  <rect x="252" y="256" width="40" height="34" rx="8" fill="#2b0808" stroke="#ef4444" stroke-width="2.6"/>
+  <path d="M258 266 L286 274 M258 280 L286 288" stroke="#ef4444" stroke-width="1.4" opacity=".8"/>
+  <circle cx="286" cy="312" r="20" fill="none" stroke="#ef4444" stroke-width="4"/>
+  <circle cx="286" cy="312" r="20" fill="none" stroke="#f1df76" stroke-width="1" opacity=".5"/>
 </svg>

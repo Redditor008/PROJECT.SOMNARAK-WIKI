@@ -166,3 +166,36 @@ Each set's `SE-NNN-B/C/D` `.md` record plus the matching `docs/maw/maw-<w|s|g>-N
 
 ## 11. Next batch
 Batch 6 next 12 item-bearing sets in registry order, continuing after 157: `159, 160, 165, 168, 169, 170, 175, 176, 180, 184, 185, 189` (12 sets; verify each has B/C/D records).
+
+> NOTE (2026-09-04): the Appearance-expansion arm of this run was completed in a later session on branch `arena/01a06ba5-project-somnarak-wiki` (batches 6–20, all 291 in-scope sets; legacy sets cleared and 1000-series deferred by owner ruling — see `SESSION_BREAK_PRECAUTION.md` §6). The weapon-SVG remake arm continues below.
+
+---
+
+## 12. Weapon SVG remake — Batch 2 (W-025, 031, 032, 033, 036, 041, 042, 043, 044, 048, 051, 054)
+
+Session: branch `arena/01a06ba5-project-somnarak-wiki`, 2026-09-04.
+
+Status: **done**. The next 12 W items after the batch-1 dozen (in `docs/assets/art/maw/` numeric order) were redesigned by hand from each page's own Appearance paragraph — each is a distinct silhouette; no `generate_maw_items.py` involvement.
+
+| Item | Archetype | Band |
+|---|---|---|
+| W-025 The Silence Lens | Lens Buckler | Close |
+| W-031 The Witness Requiem | Estoc | Long |
+| W-032 The Judgment Fang | Kukri Cleaver | Short |
+| W-033 The Guardian Lens | Framed Pavise Lens | Medium |
+| W-036 The Hourglass Maul | Hourglass Maul | Room |
+| W-041 The Tear Requiem | Tear Dagger | Short |
+| W-042 The Fury Fang | Ring Talon | Close |
+| W-043 The Silence Lens | Signal Loupe | Instant |
+| W-044 The Dawn of Requiem | Sabre | Medium |
+| W-048 The Singing Requiem | Song Scimitar | Medium |
+| W-051 The Joy Lens | Ray Loupe | Instant |
+| W-054 The Void Maul | Dish Maul | Room |
+
+- Catalog extended with archetypes 18–21 (Lens/Loupe, Curved Blade, Hooked Blade, Shield-Weapon) in `MAW_WEAPON_ARCHETYPES.md`; mapping table extended to 24 items.
+- Element palettes preserved per item (Void = grey/pale, Lament = blue, Grudge = crimson, Weight = amber/black); frame/badge chrome matches batch-1 format.
+- Visual check: all 12 rendered via `tools/render_maw_svg.mjs` (needs `npm install --no-save @resvg/resvg-js` first — not committed) and reviewed as a contact-sheet grid; all silhouettes distinct from each other and from batch 1.
+- Gates: `audit_svg_compositions.py` PASS (1284 XML files, cross-subject composition checks), `audit_site_structure.py` PASS.
+
+## 13. Next weapon batch
+Batch 3 = next 12 W SVGs in numeric order: `055, 061, 062, 063, 071, 073, 077, 081, 088, 091, 092, 099`. Same procedure: read each page's Appearance paragraph → assign an unused archetype/variant (extend the catalog if needed) → hand-write the SVG in the batch-1 format → render + contact-sheet review → gates → update mapping table + this log → commit + push.

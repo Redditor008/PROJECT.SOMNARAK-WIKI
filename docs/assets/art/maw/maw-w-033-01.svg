@@ -1,38 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE GUARDIAN LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bge748db" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bw033" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gle748db" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
+    <radialGradient id="gw033" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#94a3b8" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bge748db)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw033)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="111" fill="url(#gle748db)"/>
-  <g transform="rotate(-9 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="55.0" ry="61.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="46.0" ry="49.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="37.0" ry="39.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M235.4 145.3 L229.6 154.5" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M250.2 167.2 L242.0 172.1" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M255.0 194.1 L246.0 193.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M248.6 220.6 L240.6 215.0" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M232.3 241.4 L227.0 231.6" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="133.0" y="186.0" width="134.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="253.0" width="12" height="34.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(10 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <g transform="rotate(9 200.0 236.0)" opacity=".9">
-    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-033-01</text>
+  <circle cx="200" cy="188" r="130" fill="url(#gw033)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- FRAMED PAVISE LENS: broad glass pane in heavy frame, cross-grip, threshold feet -->
+  <rect x="122" y="62" width="156" height="230" rx="18" fill="#0f172a" stroke="#94a3b8" stroke-width="5"/>
+  <rect x="138" y="78" width="124" height="198" rx="12" fill="#d7dde6" fill-opacity=".12" stroke="#e2e8f0" stroke-width="1.6"/>
+  <ellipse cx="200" cy="177" rx="46" ry="72" fill="none" stroke="#94a3b8" stroke-width="2" opacity=".8"/>
+  <path d="M200 105 L200 249 M154 177 L246 177" stroke="#e2e8f0" stroke-width="1.2" opacity=".55"/>
+  <circle cx="200" cy="177" r="10" fill="none" stroke="#e2e8f0" stroke-width="1.6"/>
+  <path d="M168 300 L168 322 L184 322 M232 300 L232 322 L216 322" fill="none" stroke="#94a3b8" stroke-width="3"/>
+  <path d="M144 292 L124 336 M256 292 L276 336" stroke="#94a3b8" stroke-width="3"/>
+  <path d="M118 336 L132 336 M268 336 L282 336" stroke="#f1df76" stroke-width="2.4"/>
+  <rect x="176" y="168" width="48" height="18" rx="4" fill="#0f172a" stroke="#94a3b8" stroke-width="1.6" opacity=".9"/>
 </svg>

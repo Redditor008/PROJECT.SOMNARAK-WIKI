@@ -36,6 +36,13 @@ Every M.A.W. Weapon (W) item must map to a distinct archetype so no two share a 
 | 15 | **Cannon / Projector** | Room–Instant | Culverin | Mortar | Beam Projector |
 | 16 | **Astral Item** | Instant | Prism | Orrery | Tome-Lens |
 | 17 | **Thrown Ring** | Long–Room | Chakram | Javelin | Boomerang |
+| 18 | **Lens / Loupe** | Close–Instant | Lens Buckler | Signal Loupe | Ray Loupe |
+| 19 | **Curved Blade** | Medium | Sabre | Song Scimitar | Falchion |
+| 20 | **Hooked Blade** | Short–Close | Kukri Cleaver | Ring Talon | Sickle |
+| 21 | **Shield-Weapon** | Medium | Framed Pavise Lens | Tower Lens | Spiked Targe |
+
+Additional maul-family variants introduced by later batches (still one silhouette per item): Hourglass Maul, Dish Maul.
+Additional short-blade variants: Tear Dagger. Additional rapier-family variants: Estoc (thicker, guardless thruster).
 
 ## Current W → archetype mapping (distinct silhouettes)
 
@@ -53,3 +60,15 @@ Every M.A.W. Weapon (W) item must map to a distinct archetype so no two share a 
 | MAW-W-016 The Lost Lens | Compass Chakram | Long |
 | MAW-W-019 The Debt Maul | Chain Flail | Room |
 | MAW-W-021 The Silenced Requiem | Rapier | Long |
+| MAW-W-025 The Silence Lens | Lens Buckler | Close |
+| MAW-W-031 The Witness Requiem | Estoc | Long |
+| MAW-W-032 The Judgment Fang | Kukri Cleaver | Short |
+| MAW-W-033 The Guardian Lens | Framed Pavise Lens | Medium |
+| MAW-W-036 The Hourglass Maul | Hourglass Maul | Room |
+| MAW-W-041 The Tear Requiem | Tear Dagger | Short |
+| MAW-W-042 The Fury Fang | Ring Talon | Close |
+| MAW-W-043 The Silence Lens | Signal Loupe | Instant |
+| MAW-W-044 The Dawn of Requiem | Sabre | Medium |
+| MAW-W-048 The Singing Requiem | Song Scimitar | Medium |
+| MAW-W-051 The Joy Lens | Ray Loupe | Instant |
+| MAW-W-054 The Void Maul | Dish Maul | Room |

@@ -1,32 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DAWN OF REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg5fc287" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bw044" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gl5fc287" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
+    <radialGradient id="gw044" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#7dd3fc" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg5fc287)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw044)" stroke="#7dd3fc" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="118" fill="url(#gl5fc287)"/>
-  <g transform="rotate(-8 200.0 192.0)">
-<path d="M180.0 192.0 L191.6 96.24000000000001 L200.0 59.0 L208.4 104.22 L220.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 59.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="190.0" y="114.9" width="20.0" height="55.9" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="170.0" y="187.0" width="60.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="47.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="255.0" r="7.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(-13 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(-13 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-044-01</text>
+  <circle cx="200" cy="188" r="130" fill="url(#gw044)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#7dd3fc" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#7dd3fc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- SABRE: gently curved single-edge blade, curved guard bowing to the pommel -->
+  <path d="M150 54 C 196 96, 228 158, 238 240 L222 246 C 206 170, 178 116, 140 76 Z" fill="#bae6fd" fill-opacity=".24" stroke="#7dd3fc" stroke-width="2.8"/>
+  <path d="M148 72 C 186 112, 212 164, 226 234" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
+  <path d="M152 60 L142 50 L136 64 Z" fill="#7dd3fc"/>
+  <path d="M212 246 L252 238 L258 254 L220 262 Z" fill="#082f49" stroke="#7dd3fc" stroke-width="2.6"/>
+  <path d="M232 262 L246 330 L228 334 L216 268 Z" fill="#082f49" stroke="#7dd3fc" stroke-width="2.4"/>
+  <path d="M222 280 L240 276 M226 298 L244 294 M230 316 L246 312" stroke="#7dd3fc" stroke-width="1.4" opacity=".85"/>
+  <path d="M254 252 C 288 274, 288 316, 246 330" fill="none" stroke="#7dd3fc" stroke-width="2.6"/>
+  <circle cx="238" cy="338" r="8" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
 </svg>
