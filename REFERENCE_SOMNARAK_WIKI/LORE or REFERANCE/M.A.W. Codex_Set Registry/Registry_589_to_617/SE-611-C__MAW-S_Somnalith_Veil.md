@@ -30,6 +30,10 @@ The Veil formed when Sora remained beside Somnalith without entering the visible
 | Binding cost | Extended use makes external identity anchors feel artificial |
 | Corrosion risk | Moderate; severe beyond one rest cycle |
 
+## Appearance
+
+The Somnalith Veil is a pale veil of Han gossamer that flows without air and tightens near Void pressure — the wearer’s outline becomes incomplete in reflections while their name stays visible on the inner hem, the self simplified outside and preserved against the skin. Binding requires three identity anchors recorded outside the Dream layer. It formed around a watcher who remained beside Somnalith without entering the visible dream; a wearer seeking escape rather than observation fades at the fingertips before the cloth closes, refused at the hands first. In the field, its Anchor Silhouette resists Void erosion around a sleeping dream boundary and keeps the wearer’s name, body, and assignment associated — it does not preserve emotional immediacy, and trained partners must verify the anchors from outside, since the wearer’s own certainty is the least reliable instrument present. The overload is quiet: if one anchor is false or outdated, the Veil removes it without warning, and losing all three allows the cloth to substitute Somnalith’s sleeping outline for the wearer’s. The anchors are re-verified before every wear — current, true, and three — because the Veil enforces its arithmetic without announcement, and two is already halfway to becoming the sleeper’s shadow.
+
 ## PROTECTIVE FUNCTION
 
 **Anchor Silhouette:** resists Void erosion around a sleeping dream boundary and keeps the wearer’s name, body, and assignment associated. The effect does not preserve emotional immediacy; trained partners must verify the anchors.

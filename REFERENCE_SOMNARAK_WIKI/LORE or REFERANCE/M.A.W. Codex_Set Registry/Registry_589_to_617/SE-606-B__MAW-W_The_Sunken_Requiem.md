@@ -30,6 +30,10 @@ Binding accepts a user who can distinguish suppression from privacy. A bearer wh
 | Binding cost | The user becomes curious about every silence around them |
 | Corrosion risk | Severe when the blade touches an unconsenting record |
 
+## Appearance
+
+The Sunken Requiem is a slender blade of deep-blue Han crystal whose luminous edge appears below its physical edge in every reflection — the true cutting line visible only in mirrors, one layer down, like the sorrow it works on. Water beads upward along the grip when concealed sorrow is nearby. It was extracted after a journal owner opened her own buried record and refused the Market’s offer to purchase it. Binding accepts a user who can distinguish suppression from privacy — a bearer who believes all hidden pain must be exposed sees the reflected edge turn toward nearby people, the weapon showing them their own creed aimed at bystanders. In use, its Sealwake pierces Han layers used to bury, falsify, or compulsively perform a sorrow record, channeling Lament against the obstruction and stopping at the owner’s testimony; the blade cannot decide that reluctance equals suppression. A second pierce during the same disclosure requires renewed consent — without it, the falloff lines redirect into observers, making their own concealed grief audible to the room. It is the Market’s opposite made into an edge: it opens what was buried by force or sale, and it stops, always, exactly where the owner’s own voice begins.
+
 ## FUNCTION
 
 **Sealwake:** pierces Han layers used to bury, falsify, or compulsively perform a sorrow record. It channels Lament against the obstruction and stops at the owner’s testimony. The blade cannot decide that reluctance equals suppression.

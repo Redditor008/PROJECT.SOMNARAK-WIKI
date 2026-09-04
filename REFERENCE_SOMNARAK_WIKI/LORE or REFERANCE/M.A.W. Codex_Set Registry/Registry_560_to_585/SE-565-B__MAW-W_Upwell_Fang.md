@@ -29,6 +29,10 @@ Binding requires a confirmed rescue target and a surface route. Without both, th
 | Binding cost | Prolonged use leaves circular bruising and rescue fixation |
 | Corrosion risk | Moderate near unverified voices |
 
+## Appearance
+
+The Upwell Fang is a fang-curved crimson blade of Han iron that weeps a thin film of Han when swung — and its inner curve reflects openings below the wielder even on solid ground. Extraction succeeded only after a team worked Ferrehan from the rim and refused every voice answering from the shaft. Binding requires a confirmed rescue target and surface route; otherwise old wounds ache and faint well-rim bruises circle the user’s joints. In use, its Rim Cut severs unstable material or a phantasmal barrier along a verified path to a living target — it damages Body and structure, never the hidden space itself, and an unconfirmed downward cut curves back toward the wielder’s oldest scar. The Fang must cool at the true edge between attacks; repeated swings from inside a marked opening count as descent and feed the source’s transformation. In its recorded case a wielder tested solid stone where a sister’s name called: the inner curve showed a deep shaft; he struck the red reflection, not the stone, and the phantom opening split without structural damage — though an old knee injury reopened anyway. The blade now beads Han along its curve whenever a familiar voice is used as bait.
+
 ## FUNCTION
 
 **Rim Cut:** severs unstable material or a phantasmal barrier along a verified path to a living target. It damages Body and structural integrity, not the hidden space itself. A cut aimed downward without confirmation curves back toward the wielder’s oldest scar.

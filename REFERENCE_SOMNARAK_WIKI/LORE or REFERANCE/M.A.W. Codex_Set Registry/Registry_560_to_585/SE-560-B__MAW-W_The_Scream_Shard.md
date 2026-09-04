@@ -29,6 +29,10 @@ Binding requires the user to state who must receive the protest and what obstruc
 | Binding cost | Repeated use weakens the distinction between testimony and retaliation |
 | Corrosion risk | High after a strike against a living messenger |
 
+## Appearance
+
+The Scream Shard is a jagged crimson blade of Han iron with a wet sheen of Han along its edge — silent, its active swing shaping the wielder’s anger into a visible pressure wake. It was extracted only after Dismissed Cry’s pulse sequence was transcribed without editorial reduction. Binding requires the user to state who must receive the protest and what obstruction — not person — will be struck; rejection externalizes the user’s anger as a voice behind them. In use, its Content Edge gives physical force to one suppressed protest, damaging a seal, barrier, record alteration, or Grudge manifestation that prevented reception — it cannot determine whether the grievance is true; it protects arrival, not verdict. The wielder hears personal anger as an external speaker, and repeated use blurs testimony into retaliation. A second strike before the first message is recorded redirects the stored force through the wielder’s throat; recovery requires a verbatim log and thirty silent breaths. In its recorded case a warden’s second blow treated the entity itself as obstruction; the blade split his lip and made every nearby worker repeat his words. One dark notch remains, glowing whenever the target is a message’s carrier rather than the thing stopping it.
+
 ## FUNCTION
 
 **Content Edge:** gives physical force to one suppressed protest, damaging a seal, barrier, record alteration, or Grudge manifestation that prevented reception. The ability cannot determine whether the grievance is true; it protects arrival, not verdict.

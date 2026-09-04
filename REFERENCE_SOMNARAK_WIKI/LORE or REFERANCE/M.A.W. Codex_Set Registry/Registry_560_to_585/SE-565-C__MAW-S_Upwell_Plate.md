@@ -30,6 +30,10 @@ The Plate formed around Hanul Grey at Old Lament’s broken rim when he chose to
 | Binding cost | The wearer resents anyone who ends the search |
 | Corrosion risk | Moderate; high after crossing a marked rim |
 
+## Appearance
+
+The Upwell Plate is a crimson plated harness whose lower straps tighten near hidden hollows — dark, warm metal plates overlapping like well stones around the torso, the source’s geometry worn as protection against it. It binds only after the wearer marks a physical boundary and names the colleague responsible for calling them back. It formed at Old Lament’s broken rim around a wearer who chose to remain with a mother’s grief without lowering himself into the opening. In the field, its True-Edge Brace anchors one foot and the pelvis outside a verified opening when Grudge pressure pulls toward loss — the suit does not prevent voluntary descent; it forces the wearer to feel the boundary they are choosing to cross. If the wearer crosses while claiming they were pulled, the plates rotate inward and reproduce the well’s circular geometry around the chest. In its recorded case the rear greave fused to the true corridor edge and dislocated the wearer’s forward ankle rather than let a transformed floor redefine the boundary; once he admitted the step was chosen, the greave released and the false opening closed. The left boot remains one finger-width heavier — it reacts to self-deception before it reacts to downward force.
+
 ## PROTECTIVE FUNCTION
 
 **True-Edge Brace:** anchors one foot and the pelvis outside a verified opening when Grudge pressure pulls toward loss. The suit does not prevent voluntary descent; it forces the wearer to feel the boundary they are choosing to cross.

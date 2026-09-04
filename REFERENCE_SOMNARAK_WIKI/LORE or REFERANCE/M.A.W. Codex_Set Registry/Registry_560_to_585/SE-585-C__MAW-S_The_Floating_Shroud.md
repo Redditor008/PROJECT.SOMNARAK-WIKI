@@ -30,6 +30,10 @@ The suit condensed around Uri Hanbaram while he guided a circling patrol out of 
 | Binding cost | Removal feels like losing the community a second time |
 | Corrosion risk | Moderate; severe under a fixed roof |
 
+## Appearance
+
+The Floating Shroud is a shroud of deep-blue Han-silk whose hems float level with Rootless’s lowest leaves — memory-shapes move upward through the fabric and vanish at the shoulders. It binds to a wearer responsible for keeping a group together between markers, not for choosing where that group must settle. It condensed around a guide who led a circling patrol out of the Tethered Grove by naming companions instead of vanished streets. In the field, its Moving Canopy protects a traveling group from Lament that erases orientation, names, or mutual recognition — the shroud keys direction to people and route sequence rather than destination. Remaining at one marker for more than a work cycle causes the hem to descend; when it touches the ground, the suit defines everyone beneath it as the only community worth preserving. In its recorded case an exhausted agent asked to stop “just until this feels like somewhere,” the hem settled over their boots, and the wearer could no longer remember anyone outside the group — until the next marker was moved past them and the shroud rose to follow movement, restoring the omitted names. One patch at the hem stays colorless whenever rest is quietly becoming settlement.
+
 ## PROTECTIVE FUNCTION
 
 **Moving Canopy:** protects a nearby traveling group from Lament that erases orientation, names, or mutual recognition. The shroud keys direction to people and route sequence rather than destination.

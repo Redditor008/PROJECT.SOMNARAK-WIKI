@@ -27,6 +27,10 @@ A tail-mounted crimson charm shaped like a closed mouth. It is dark until it rec
 | Binding cost | Anger sounds external even when it is the bearer’s own |
 | Corrosion risk | Moderate near repeated institutional dismissal |
 
+## Appearance
+
+The Scream Charm is a tail-mounted crimson charm shaped like a closed mouth — dark until it receives pressure, when a thin line opens without sound, a mouth that admits without speaking. Dismissed Cry grants it unpredictably after successful work; a replacement shatters the older Gift into harmless heat. Its function is the One-Breath Interval: a brief pause between receiving hostile emotional force and answering it, enough to identify speaker, grievance, and target. The pause cannot suppress anger — and using it to avoid response closes the charm permanently. The costs are cumulative: the bearer’s temper shortens after each absorbed grievance, and anger begins to sound external even when it is the bearer’s own. The hidden condition cuts both ways: carrying an unheard statement accurately to its intended recipient cools the mouth-line, while paraphrasing it into harmless language stores the omitted force for release during sleep. In its recorded case the bearer delivered recovered border testimony but replaced the verb “seized” with “relocated” — that night the charm spoke through her sleeping jaw until every person in the ward heard the original wording. The Gift protects delivery, not diplomacy; its mouth-line still opens at euphemism before it reacts to shouting.
+
 ## EFFECT & HIDDEN CONDITION
 
 **One-Breath Interval:** creates a brief pause between receiving hostile emotional force and answering it, enough to identify speaker, grievance, and target. The pause cannot suppress anger; using it to avoid response closes the charm permanently.

@@ -30,6 +30,10 @@ Binding requires the wielder to name a lost place and one living relationship th
 | Binding cost | The wielder begins navigating by loss rather than present terrain |
 | Corrosion risk | Severe after contact with soil |
 
+## Appearance
+
+The Floating Root is a club of deep-blue Han crystal grown around a pale root grip — and it remains a finger-width above any surface unless forced downward. Its active grain points toward places that still hold the target’s emotional ties. Extraction occurred beneath Rootless’s moving shadow after three temporary route markers were removed in order. Binding requires the wielder to name a lost place and one living relationship that does not depend on returning there; a bearer who names only geography feels every unreachable place pull on the weapon at once. In use, its Tie Reading reveals emotional bonds between people and places as suspended root-lines, and can sever a coercive false anchor or pierce a Lament manifestation along a marked route — it cannot create belonging or decide that a tie should end. It must remain off the ground during recovery: planting it grants one breath of stability, then violent false-root growth through everyone who accepted the promise. In its recorded case a wielder drove the tip beside a patrol stake, and every visible root entered the patrol’s boots, mapping lost streets through their legs. The tip is now pale, not blue, warming before touching anything a bearer wants to call permanent.
+
 ## FUNCTION
 
 **Tie Reading:** a controlled sweep reveals emotional bonds between people and places as suspended root-lines. It can sever a coercive false anchor or pierce a Lament manifestation along a marked route. It cannot create belonging or decide that a tie should end.
