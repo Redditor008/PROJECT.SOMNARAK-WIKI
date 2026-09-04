@@ -1,40 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE TEAR REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // TEAR -->
   <defs>
-    <radialGradient id="bg368e39" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bw055" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gl368e39" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
+    <radialGradient id="gw055" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#7dd3fc" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg368e39)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw055)" stroke="#7dd3fc" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="134" fill="url(#gl368e39)"/>
-  <g transform="rotate(-3 200.0 192.0)">
-<path d="M200.0 146.0 C233.1 183.7, 235.9 211.3, 200.0 220.5 C164.1 211.3, 166.9 183.7, 200.0 146.0 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 158.0 L200.0 208.6" stroke="#e0f2fe" stroke-width="1.2" opacity=".6"/>
-  </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M184.0 88.0 L198.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
-  </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M200.0 88.0 L214.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
-  </g>
-  <g transform="rotate(-16 214.0 128.0)">    <path d="M216.0 88.0 L230.0 284.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".38"/>
-  </g>
-  <g transform="rotate(-16 172.0 252.0)">    <circle cx="176.0" cy="226.0" r="4.0" fill="#e0f2fe" opacity=".3"/>
-  </g>
-  <g transform="rotate(-16 172.0 252.0)">    <circle cx="200.0" cy="238.0" r="5.0" fill="#e0f2fe" opacity=".3"/>
-  </g>
-  <g transform="rotate(-16 172.0 252.0)">    <circle cx="224.0" cy="250.0" r="6.0" fill="#e0f2fe" opacity=".3"/>
-  </g>
-  <g transform="rotate(-10 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(-8 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-055-01</text>
+  <circle cx="200" cy="188" r="130" fill="url(#gw055)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#7dd3fc" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#7dd3fc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- TEAR STILETTO: needle blade swelling at the base, teardrop pommel -->
+  <path d="M200 44 L204 120 L212 196 L200 226 L188 196 L196 120 Z" fill="#bfdbfe" fill-opacity=".2" stroke="#7dd3fc" stroke-width="2.4"/>
+  <path d="M200 58 L200 218" stroke="#e0f2fe" stroke-width="1.1" opacity=".75"/>
+  <path d="M212 196 C 224 210, 224 222, 214 230 M188 196 C 176 210, 176 222, 186 230" fill="none" stroke="#7dd3fc" stroke-width="1.8"/>
+  <path d="M176 232 L224 232 L216 246 L184 246 Z" fill="#0c1e3e" stroke="#7dd3fc" stroke-width="2.4"/>
+  <rect x="190" y="246" width="20" height="54" rx="5" fill="#0c1e3e" stroke="#7dd3fc" stroke-width="2.2"/>
+  <path d="M191 258 L209 264 M191 272 L209 278 M191 286 L209 292" stroke="#7dd3fc" stroke-width="1.4" opacity=".85"/>
+  <path d="M200 302 C 216 312, 216 336, 200 348 C 184 336, 184 312, 200 302 Z" fill="#0c1e3e" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="328" r="4" fill="#e0f2fe"/>
 </svg>

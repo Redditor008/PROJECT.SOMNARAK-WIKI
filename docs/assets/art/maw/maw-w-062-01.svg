@@ -1,31 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE RESENTMENT FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bgb9a37e" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bw062" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="glb9a37e" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
+    <radialGradient id="gw062" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgb9a37e)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw062)" stroke="#dc2626" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="110" fill="url(#glb9a37e)"/>
-  <g transform="rotate(1 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 117.19999999999999, 218.0 56.0 224.0 56.0 C214.0 121.28, 220.0 145.76, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 129.44, 216.0 64.0 221.0 62.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="53.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="257.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <g transform="rotate(-16 200.0 278.0)">    <circle cx="192.0" cy="264.0" r="5" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".45"/>
-  </g>
-  <g transform="rotate(-16 200.0 278.0)">    <circle cx="204.0" cy="264.0" r="5" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".45"/>
-  </g>
-  <g transform="rotate(-16 200.0 278.0)">    <circle cx="216.0" cy="264.0" r="5" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".45"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-062-01</text>
+  <circle cx="200" cy="188" r="130" fill="url(#gw062)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#dc2626" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#dc2626" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- FALX: long haft with a forward-sweeping hooked blade at the top -->
+  <path d="M214 132 C 214 92, 192 66, 148 58 C 128 54, 112 58, 104 68 L116 82 C 124 74, 138 72, 152 76 C 184 84, 198 104, 198 134 Z" fill="#7f1d1d" fill-opacity=".5" stroke="#dc2626" stroke-width="3"/>
+  <path d="M118 76 C 132 68, 152 68, 168 76" fill="none" stroke="#fca5a5" stroke-width="1.6" opacity=".8"/>
+  <path d="M108 66 L96 56 L102 74 Z" fill="#dc2626"/>
+  <path d="M198 134 C 200 112, 190 94, 172 84" fill="none" stroke="#fca5a5" stroke-width="1" opacity=".55"/>
+  <rect x="198" y="132" width="16" height="26" fill="#290a0a" stroke="#dc2626" stroke-width="2.2"/>
+  <rect x="199" y="158" width="14" height="164" rx="5" fill="#290a0a" stroke="#dc2626" stroke-width="2.6"/>
+  <path d="M200 180 L213 188 M200 208 L213 216 M200 236 L213 244 M200 264 L213 272 M200 292 L213 300" stroke="#dc2626" stroke-width="1.4" opacity=".8"/>
+  <path d="M193 322 L219 322 L215 340 L197 340 Z" fill="#290a0a" stroke="#f1df76" stroke-width="2"/>
 </svg>

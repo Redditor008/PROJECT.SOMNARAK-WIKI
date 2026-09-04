@@ -41,8 +41,12 @@ Every M.A.W. Weapon (W) item must map to a distinct archetype so no two share a 
 | 20 | **Hooked Blade** | Short–Close | Kukri Cleaver | Ring Talon | Sickle |
 | 21 | **Shield-Weapon** | Medium | Framed Pavise Lens | Tower Lens | Spiked Targe |
 
-Additional maul-family variants introduced by later batches (still one silhouette per item): Hourglass Maul, Dish Maul.
-Additional short-blade variants: Tear Dagger. Additional rapier-family variants: Estoc (thicker, guardless thruster).
+| 22 | **Glaive / Polearm Blade** | Long | Round-Edge Glaive | Falx | Naginata |
+| 23 | **Exotic / Transforming** | Room | Crown Coil Blade | Whip Sword | Fan Blade |
+
+Additional maul-family variants introduced by later batches (still one silhouette per item): Hourglass Maul, Dish Maul, Vessel Maul.
+Additional short-blade variants: Tear Dagger, Tear Stiletto, Notched Dao. Additional rapier-family variants: Estoc (thicker, guardless thruster).
+Additional sword-family variants: Squared Warbrand, Cruciform Longsword, Falchion. Additional lens-family variants: Caliper Lens, Lens Pistol, Sceptre Lens.
 
 ## Current W → archetype mapping (distinct silhouettes)
 
@@ -72,3 +76,15 @@ Additional short-blade variants: Tear Dagger. Additional rapier-family variants:
 | MAW-W-048 The Singing Requiem | Song Scimitar | Medium |
 | MAW-W-051 The Joy Lens | Ray Loupe | Instant |
 | MAW-W-054 The Void Maul | Dish Maul | Room |
+| MAW-W-055 The Tear Requiem | Tear Stiletto | Short |
+| MAW-W-061 The Burden Maul | Vessel Maul | Room |
+| MAW-W-062 The Resentment Fang | Falx | Medium |
+| MAW-W-063 The Denial Lens | Caliper Lens | Instant |
+| MAW-W-071 The Gentle Requiem | Round-Edge Glaive | Long |
+| MAW-W-073 The Duty Fang | Squared Warbrand | Medium |
+| MAW-W-077 The Shadow Lens | Lens Pistol | Instant |
+| MAW-W-081 The Hollow Lens | Sceptre Lens | Long |
+| MAW-W-088 The Sorrow Requiem | Cruciform Longsword | Medium |
+| MAW-W-091 The Crown of Requiem | Crown Coil Blade | Room |
+| MAW-W-092 The Burning Fang | Falchion | Medium |
+| MAW-W-099 The Dancing Fang | Notched Dao | Short |

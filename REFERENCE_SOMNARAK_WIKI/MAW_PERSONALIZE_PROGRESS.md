@@ -197,5 +197,27 @@ Status: **done**. The next 12 W items after the batch-1 dozen (in `docs/assets/a
 - Visual check: all 12 rendered via `tools/render_maw_svg.mjs` (needs `npm install --no-save @resvg/resvg-js` first — not committed) and reviewed as a contact-sheet grid; all silhouettes distinct from each other and from batch 1.
 - Gates: `audit_svg_compositions.py` PASS (1284 XML files, cross-subject composition checks), `audit_site_structure.py` PASS.
 
-## 13. Next weapon batch
-Batch 3 = next 12 W SVGs in numeric order: `055, 061, 062, 063, 071, 073, 077, 081, 088, 091, 092, 099`. Same procedure: read each page's Appearance paragraph → assign an unused archetype/variant (extend the catalog if needed) → hand-write the SVG in the batch-1 format → render + contact-sheet review → gates → update mapping table + this log → commit + push.
+## 13. Weapon SVG remake — Batch 3 (W-055, 061, 062, 063, 071, 073, 077, 081, 088, 091, 092, 099)
+
+Status: **done** (same session, 2026-09-04). Same procedure as §12; each SVG hand-designed from its page's Appearance paragraph.
+
+| Item | Archetype | Band |
+|---|---|---|
+| W-055 The Tear Requiem | Tear Stiletto | Short |
+| W-061 The Burden Maul | Vessel Maul | Room |
+| W-062 The Resentment Fang | Falx | Medium |
+| W-063 The Denial Lens | Caliper Lens | Instant |
+| W-071 The Gentle Requiem | Round-Edge Glaive | Long |
+| W-073 The Duty Fang | Squared Warbrand | Medium |
+| W-077 The Shadow Lens | Lens Pistol | Instant |
+| W-081 The Hollow Lens | Sceptre Lens | Long |
+| W-088 The Sorrow Requiem | Cruciform Longsword | Medium |
+| W-091 The Crown of Requiem | Crown Coil Blade | Room |
+| W-092 The Burning Fang | Falchion | Medium |
+| W-099 The Dancing Fang | Notched Dao | Short |
+
+- Catalog extended with archetypes 22–23 (Glaive/Polearm Blade, Exotic/Transforming) plus family-variant notes; mapping table now 36 items.
+- Contact-sheet rendered and reviewed; all distinct. SVG + structure gates PASS.
+
+## 14. Next weapon batch
+Batch 4 = next 12 W SVGs in numeric order: `100, 101, 102, 103, 105, 106, 108, 115, 119, 120, 125, 126`. Same procedure: read each page's Appearance paragraph → assign an unused archetype/variant (extend the catalog if needed) → hand-write the SVG in the batch-1 format → render + contact-sheet review → gates → update mapping table + this log → commit + push.

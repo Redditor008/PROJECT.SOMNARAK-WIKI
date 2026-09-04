@@ -1,35 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE HOLLOW LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bg5ac0ec" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bw081" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gl5ac0ec" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
+    <radialGradient id="gw081" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#a8b0bc" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg5ac0ec)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw081)" stroke="#a8b0bc" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="125" fill="url(#gl5ac0ec)"/>
-  <g transform="rotate(-9 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="56.0" ry="65.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="47.0" ry="53.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="38.0" ry="43.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M236.0 142.2 L230.2 151.4" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M251.2 165.6 L242.9 170.4" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M256.0 194.3 L247.0 193.8" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M249.4 222.5 L241.5 216.9" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M232.9 244.6 L227.6 234.9" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="132.0" y="186.0" width="136.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="257.0" width="12" height="34.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(1 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-081-01</text>
+  <circle cx="200" cy="188" r="130" fill="url(#gw081)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#a8b0bc" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#a8b0bc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- SCEPTRE LENS: tall rod crowned with a concave hollow dish lens -->
+  <path d="M140 84 C 160 118, 240 118, 260 84 L268 96 C 244 136, 156 136, 132 96 Z" fill="#141922" stroke="#a8b0bc" stroke-width="2.8"/>
+  <path d="M148 90 C 168 116, 232 116, 252 90" fill="none" stroke="#f1f5f9" stroke-width="1.4" opacity=".7"/>
+  <ellipse cx="200" cy="112" rx="34" ry="7" fill="#d7dde6" fill-opacity=".12" stroke="#f1f5f9" stroke-width="1.2"/>
+  <path d="M200 64 L200 78 M170 64 L176 76 M230 64 L224 76" stroke="#a8b0bc" stroke-width="1.4" opacity=".6"/>
+  <circle cx="200" cy="150" r="10" fill="none" stroke="#a8b0bc" stroke-width="2.2"/>
+  <rect x="194" y="160" width="12" height="160" rx="5" fill="#141922" stroke="#a8b0bc" stroke-width="2.4"/>
+  <path d="M194 186 L206 186 M194 212 L206 212 M194 238 L206 238 M194 264 L206 264 M194 290 L206 290" stroke="#a8b0bc" stroke-width="1.3" opacity=".7"/>
+  <path d="M186 320 L214 320 L210 340 L190 340 Z" fill="#141922" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="350" r="4" fill="#f1df76"/>
 </svg>

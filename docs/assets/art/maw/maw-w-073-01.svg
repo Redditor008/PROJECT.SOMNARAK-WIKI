@@ -1,31 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DUTY FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bgdab7a9" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bw073" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gldab7a9" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
+    <radialGradient id="gw073" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgdab7a9)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw073)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="119" fill="url(#gldab7a9)"/>
-  <g transform="rotate(8 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 105.64999999999999, 229.0 35.0 235.0 35.0 C225.0 110.36, 220.0 138.62, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 119.78, 227.0 43.0 232.0 41.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="45.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="249.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <g transform="rotate(3 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <g transform="rotate(-6 200.0 236.0)" opacity=".9">
-    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-073-01</text>
+  <circle cx="200" cy="188" r="130" fill="url(#gw073)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- SQUARED WARBRAND: broad straight blade, squared tip and squared guard -->
+  <path d="M184 48 L216 48 L216 208 L204 224 L184 224 Z" fill="#7f1d1d" fill-opacity=".45" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M210 56 L210 214" stroke="#fecaca" stroke-width="1.4" opacity=".8"/>
+  <path d="M190 76 L204 76 M190 116 L204 116 M190 156 L204 156 M190 196 L204 196" stroke="#fecaca" stroke-width="1" opacity=".55"/>
+  <rect x="156" y="224" width="88" height="16" rx="2" fill="#2b0808" stroke="#ef4444" stroke-width="2.6"/>
+  <path d="M156 232 L140 232 M244 232 L260 232" stroke="#ef4444" stroke-width="2.4"/>
+  <rect x="188" y="240" width="24" height="84" rx="6" fill="#2b0808" stroke="#ef4444" stroke-width="2.4"/>
+  <path d="M190 256 L210 264 M190 276 L210 284 M190 296 L210 304" stroke="#ef4444" stroke-width="1.5" opacity=".85"/>
+  <rect x="184" y="324" width="32" height="18" rx="3" fill="#2b0808" stroke="#f1df76" stroke-width="2"/>
 </svg>
