@@ -1,80 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MOURNING SHELL">
   <defs>
-    <linearGradient id="msBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#171516"/>
-      <stop offset=".5" stop-color="#0b0a0b"/>
-      <stop offset="1" stop-color="#030303"/>
-    </linearGradient>
-    <radialGradient id="msVign" cx=".5" cy=".42" r=".78">
-      <stop offset="0" stop-color="#0b0a0b" stop-opacity="0"/>
-      <stop offset=".7" stop-color="#050505" stop-opacity=".35"/>
-      <stop offset="1" stop-color="#010101" stop-opacity=".9"/>
+    <radialGradient id="bg002" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <linearGradient id="msFan" x1="0" y1="1" x2="0" y2="0">
-      <stop offset="0" stop-color="#34343c"/>
-      <stop offset=".6" stop-color="#17171a"/>
-      <stop offset="1" stop-color="#0c0c0e"/>
-    </linearGradient>
-    <radialGradient id="msInner" cx=".5" cy=".62" r=".6">
-      <stop offset="0" stop-color="#3a3a42"/>
-      <stop offset="1" stop-color="#15151a"/>
+    <radialGradient id="g0002" cx="50%" cy="46%" r="46%">
+      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".24"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="msBand" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#34343c"/>
-      <stop offset=".5" stop-color="#8a8f98"/>
-      <stop offset="1" stop-color="#34343c"/>
-    </linearGradient>
-    <filter id="msGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2"/>
-    </filter>
   </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg002)" stroke="#ef5b55" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#g0002)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
 
-  <rect width="400" height="400" fill="url(#msBg)"/>
-
-  <!-- rainy work site (subtle) -->
-  <g stroke="#4a4750" stroke-width=".8" opacity=".4">
-    <path d="M52 54 L52 164 M352 54 L352 164 M52 236 L52 318 M352 236 L352 318"/>
-    <path d="M52 80 L352 80 M52 128 L352 128"/>
+  <!-- Mourning Shell: bar-shaped crown with headband + latch -->
+  <path d="M94 168 Q94 118 150 112 L250 112 Q306 118 306 168 L306 196 Q250 204 200 204 Q150 204 94 196 Z"
+        fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
+  <path d="M120 150 L280 150" stroke="#fca5a5" stroke-width="1.6" opacity=".8"/>
+  <g fill="#450a0a" stroke="#fca5a5" stroke-width="1.2">
+    <rect x="138" y="126" width="22" height="10" rx="2"/>
+    <rect x="190" y="126" width="20" height="10" rx="2"/>
+    <rect x="240" y="126" width="22" height="10" rx="2"/>
   </g>
-  <g stroke="#6b6b76" stroke-width=".9" opacity=".4">
-    <line x1="76" y1="64" x2="68" y2="106"/><line x1="146" y1="54" x2="138" y2="98"/>
-    <line x1="256" y1="58" x2="248" y2="102"/><line x1="328" y1="66" x2="320" y2="108"/>
-  </g>
-
-  <!-- Scallop shell fan -->
-  <path d="M200 96 Q158 100 128 146 Q120 164 122 190 L146 206 Q172 188 200 192 Q228 188 254 206 L278 190 Q280 164 272 146 Q242 100 200 96 Z"
-        fill="url(#msFan)" stroke="#565660" stroke-width="2.4"/>
-  <path d="M200 96 Q158 100 128 146 Q120 164 122 190" fill="none" stroke="#8a8f98" stroke-width="1.4" opacity=".6"/>
-  <path d="M200 96 Q242 100 272 146 Q280 164 278 190" fill="none" stroke="#8a8f98" stroke-width="1.4" opacity=".6"/>
-  <g stroke="#3f3f47" stroke-width="1.4" opacity=".7" fill="none">
-    <path d="M200 104 L150 196"/><path d="M200 104 L128 174"/><path d="M200 104 L118 150"/>
-    <path d="M200 104 L186 200"/><path d="M200 104 L200 206"/><path d="M200 104 L214 200"/>
-    <path d="M200 104 L250 196"/><path d="M200 104 L272 174"/><path d="M200 104 L282 150"/>
-  </g>
-
-  <!-- Inner opening: workers carrying beams/tools/each other -->
-  <path d="M166 168 Q200 158 234 168 Q242 190 238 208 Q200 220 162 208 Q158 190 166 168 Z"
-        fill="url(#msInner)" stroke="#17171a" stroke-width="2"/>
-  <rect x="166" y="172" width="68" height="5" rx="2" fill="#565660" opacity=".85"/>
-  <g stroke="#8a8f98" stroke-width="1.4" fill="none">
-    <path d="M176 194 L178 214 M176 214 Q178 190 180 214"/>
-    <circle cx="178" cy="186" r="5" fill="#15151a"/><path d="M178 214 L172 228 M178 214 L184 228"/>
-  </g>
-  <g stroke="#8a8f98" stroke-width="1.4" fill="none">
-    <path d="M224 194 L222 214 M224 214 Q222 190 220 214"/>
-    <circle cx="222" cy="186" r="5" fill="#15151a"/><path d="M222 214 L216 228 M222 214 L228 228"/>
-  </g>
-  <path d="M192 216 L200 208 L208 216 L206 224 L194 224 Z" fill="#0c0c0e" stroke="#8a8f98" stroke-width="1"/>
-
-  <!-- WEARING HEADBAND + LATCH: clear way to wear the brow-shell -->
-  <path d="M118 236 Q200 210 282 236 L282 260 Q200 282 118 260 Z" fill="#0d0d0f" stroke="url(#msBand)" stroke-width="2"/>
-  <rect x="184" y="224" width="32" height="22" rx="4" fill="#3a3a40" stroke="#8a8f98" stroke-width="1.4"/>
-  <circle cx="200" cy="235" r="4" fill="#8a8f98"/>
-  <path d="M184 235 L196 235 M204 235 L216 235" stroke="#8a8f98" stroke-width="1"/>
-
-  <!-- Route report below -->
-  <path d="M200 226 L200 254" stroke="#565660" stroke-width="1.6"/>
-  <rect x="166" y="254" width="68" height="26" rx="3" fill="#0d0d0f" stroke="#3a3a40" stroke-width="1.2"/>
-
-  <rect width="400" height="400" fill="url(#msVign)"/>
+  <!-- headband -->
+  <path d="M100 210 L100 268 Q140 286 200 286 Q260 286 300 268 L300 210 Q200 236 100 210 Z" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
+  <!-- latch -->
+  <rect x="186" y="242" width="28" height="18" rx="3" fill="#7f1d1d" stroke="#f1df76" stroke-width="1.8"/>
+  <circle cx="200" cy="251" r="3" fill="#f1df76"/>
 </svg>

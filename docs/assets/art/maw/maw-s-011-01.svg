@@ -1,72 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LISTENING SHROUD">
   <defs>
-    <linearGradient id="lsBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#123a5f"/>
-      <stop offset=".5" stop-color="#0a2440"/>
-      <stop offset="1" stop-color="#040d1c"/>
-    </linearGradient>
-    <radialGradient id="lsVign" cx=".5" cy=".42" r=".8">
-      <stop offset="0" stop-color="#0e2c4d" stop-opacity="0"/>
-      <stop offset=".7" stop-color="#08203a" stop-opacity=".36"/>
-      <stop offset="1" stop-color="#020810" stop-opacity=".9"/>
+    <radialGradient id="bs011" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <linearGradient id="lsSilk" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#4a9fd8"/>
-      <stop offset=".45" stop-color="#2a72a8"/>
-      <stop offset="1" stop-color="#123a5f"/>
-    </linearGradient>
-    <linearGradient id="lsStrap" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0a2440"/>
-      <stop offset=".5" stop-color="#8fc9f2"/>
-      <stop offset="1" stop-color="#0a2440"/>
-    </linearGradient>
-    <filter id="lsGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2"/>
-    </filter>
+    <radialGradient id="gs011" cx="50%" cy="46%" r="46%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".24"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
   </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bs011)" stroke="#38bdf8" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gs011)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">SUIT</text>
 
-  <rect width="400" height="400" fill="url(#lsBg)"/>
-
-  <!-- wall chorus (subtle) -->
-  <g stroke="#2a6ba2" stroke-width="1" opacity=".55" fill="none">
-    <path d="M18 92 Q60 82 100 92"/><path d="M300 92 Q340 82 382 92"/>
-    <path d="M18 152 Q60 142 100 152"/><path d="M300 152 Q340 142 382 152"/>
-    <path d="M18 212 Q60 202 100 212"/><path d="M300 212 Q340 202 382 212"/>
-  </g>
-
-  <!-- Shroud covering shoulders + head -->
-  <path d="M122 92 Q200 64 278 92 L294 232 Q200 288 106 232 Z"
-        fill="url(#lsSilk)" stroke="#6fb7ec" stroke-width="2.6"/>
-  <path d="M148 92 Q156 158 144 254 L170 246 L174 108 Z" fill="#2a72a8" fill-opacity=".9"/>
-  <path d="M252 92 Q244 158 256 254 L230 246 L226 108 Z" fill="#2a72a8" fill-opacity=".9"/>
-  <path d="M158 86 Q200 74 242 86 L246 112 Q200 128 154 112 Z" fill="#0d2a50" stroke="#3f8fd0" stroke-width="1.4"/>
-
-  <!-- WEARING KNOT + HOOD DRAW: clear fastener -->
-  <path d="M164 124 Q200 144 236 124" fill="none" stroke="url(#lsStrap)" stroke-width="2.4" opacity=".9"/>
-  <circle cx="164" cy="126" r="4" fill="#0a2440" stroke="#8fc9f2" stroke-width="1.4"/>
-  <circle cx="236" cy="126" r="4" fill="#0a2440" stroke="#8fc9f2" stroke-width="1.4"/>
-  <path d="M160 128 L154 142 M240 128 L246 142" stroke="#8fc9f2" stroke-width="1.4" opacity=".8"/>
-
-  <!-- Clear Channel: one voice isolated -->
-  <path d="M56 200 Q140 174 200 184 Q264 194 344 164" fill="none" stroke="#d6ecff" stroke-width="2.6" filter="url(#lsGlow)"/>
-  <circle cx="200" cy="184" r="6" fill="#d6ecff" filter="url(#lsGlow)"/>
-
-  <!-- Delayed chorus -->
-  <g fill="none" stroke="#6fb7ec" stroke-width="1.2" opacity=".5" stroke-dasharray="3 3">
-    <path d="M50 172 Q90 162 130 176"/><path d="M270 176 Q310 162 350 172"/>
-    <path d="M50 228 Q90 218 130 232"/><path d="M270 232 Q310 218 350 228"/>
-  </g>
-  <g fill="#6fb7ec" opacity=".45">
-    <circle cx="84" cy="176" r="1.8"/><circle cx="316" cy="176" r="1.8"/><circle cx="84" cy="232" r="1.8"/>
-  </g>
-
-  <path d="M104 244 L150 240 Q170 238 188 232" fill="none" stroke="#d6ecff" stroke-width="1.2" opacity=".7"/>
-  <circle cx="188" cy="232" r="3" fill="#d6ecff" filter="url(#lsGlow)"/>
-
-  <g fill="#c8e6ff" opacity=".4">
-    <circle cx="70" cy="302" r="2.4"/><circle cx="96" cy="294" r="2"/>
-    <circle cx="120" cy="286" r="1.8"/><circle cx="280" cy="286" r="1.8"/>
-  </g>
-
-  <rect width="400" height="400" fill="url(#lsVign)"/>
+  <!-- Listening Shroud: long flowing shroud, split trailing hem -->
+  <path d="M150 92 Q200 72 250 92 L262 230 Q236 272 206 240 Q200 284 190 240 Q166 272 142 230 Z"
+        fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
+  <path d="M162 150 L238 150" stroke="#38bdf8" stroke-width="1.2" opacity=".7"/>
+  <path d="M158 196 L242 196" stroke="#38bdf8" stroke-width="1.2" opacity=".7"/>
+  <!-- isolated channel: straight vertical relief, no mouth-like shape -->
+  <path d="M168 176 L168 232" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="168" cy="244" r="7" fill="#082f49" stroke="#f1df76" stroke-width="1.6"/>
+  <!-- hood knot + draw cords -->
+  <path d="M200 88 L200 64" stroke="#7dd3fc" stroke-width="2.4"/>
+  <circle cx="200" cy="60" r="8" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
+  <path d="M170 100 L170 122 M230 100 L230 122" stroke="#7dd3fc" stroke-width="2"/>
 </svg>

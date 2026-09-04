@@ -1,83 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE HOPE VEIL">
   <defs>
-    <linearGradient id="hvBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#2c3136"/>
-      <stop offset=".5" stop-color="#1c2024"/>
-      <stop offset="1" stop-color="#0c0f12"/>
-    </linearGradient>
-    <radialGradient id="hvFog" cx=".5" cy=".4" r=".7">
-      <stop offset="0" stop-color="#4a555c" stop-opacity=".45"/>
-      <stop offset=".7" stop-color="#2c3136" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#0c0f12" stop-opacity="0"/>
+    <radialGradient id="bs007" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <linearGradient id="hvVign" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0c0f12" stop-opacity=".14"/>
-      <stop offset="1" stop-color="#0c0f12" stop-opacity=".78"/>
-    </linearGradient>
-    <linearGradient id="hvGossamer" x1="0" y1="0" x2="1" y2=".2">
-      <stop offset="0" stop-color="#eef3f6" stop-opacity=".12"/>
-      <stop offset=".4" stop-color="#ffffff" stop-opacity=".58"/>
-      <stop offset=".7" stop-color="#dbe4e9" stop-opacity=".4"/>
-      <stop offset="1" stop-color="#b9c7d0" stop-opacity=".15"/>
-    </linearGradient>
-    <linearGradient id="hvDraw" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ffffff" stop-opacity=".5"/>
-      <stop offset=".5" stop-color="#ffffff" stop-opacity=".95"/>
-      <stop offset="1" stop-color="#ffffff" stop-opacity=".5"/>
-    </linearGradient>
-    <filter id="hvGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3"/>
-    </filter>
+    <radialGradient id="g0007" cx="50%" cy="46%" r="46%">
+      <stop offset="0%" stop-color="#fde68a" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
   </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bs007)" stroke="#fde68a" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#g0007)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#fde68a" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#fde68a" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">SUIT</text>
 
-  <rect width="400" height="400" fill="url(#hvBg)"/>
-  <ellipse cx="200" cy="190" rx="240" ry="190" fill="url(#hvFog)"/>
-
-  <!-- fog + fake hallway (subtle) -->
-  <g fill="none" stroke="#8aa0b0" stroke-width="1.4" opacity=".35">
-    <path d="M0 128 Q160 106 400 142"/><path d="M0 296 Q180 272 400 306"/>
-  </g>
-  <g stroke="#7b8994" stroke-width="1.2" opacity=".3" fill="none">
-    <path d="M76 72 L76 238 M324 72 L324 238 M76 104 L324 104"/>
-  </g>
-
-  <!-- Route walker -->
-  <circle cx="262" cy="186" r="22" fill="#5a676f" stroke="#a8b7c2" stroke-width="1.4"/>
-  <path d="M238 216 L262 202 L286 216 L292 300 L232 300 Z" fill="#4d585f" stroke="#a8b7c2" stroke-width="1"/>
-  <path d="M250 238 L234 272 M274 238 L290 272" stroke="#4d585f" stroke-width="4" fill="none"/>
-
-  <!-- Hood -->
-  <path d="M232 156 Q262 136 296 158 Q304 182 296 202 Q262 216 232 200 Q224 180 232 156 Z"
-        fill="none" stroke="#ffffff" stroke-width="3" opacity=".95"/>
-
-  <!-- HOOD DRAW-CORD + ends: clear wearing fastener -->
-  <path d="M234 196 Q210 208 188 206 M294 196 Q318 208 340 206" fill="none" stroke="url(#hvDraw)" stroke-width="2" opacity=".9"/>
-  <circle cx="188" cy="208" r="3" fill="#ffffff"/>
-  <circle cx="340" cy="208" r="3" fill="#ffffff"/>
-  <path d="M186 208 L180 222 M342 208 L348 222" stroke="#ffffff" stroke-width="1.4" opacity=".8"/>
-
-  <!-- Bold veil banner streaming left -->
-  <path d="M238 170 Q200 150 158 158 Q104 168 52 140 Q20 122 8 96 Q40 110 96 116 Q148 120 190 132 Q216 140 238 162 Q254 176 252 194 Q230 194 204 188 Q146 176 98 188 Q48 200 14 184 Q56 208 116 208 Q170 208 224 206 L276 208 Z"
-        fill="url(#hvGossamer)" stroke="#ffffff" stroke-width="3" opacity=".95"/>
-
-  <!-- loose point outline -->
-  <g fill="#ffffff" filter="url(#hvGlow)">
-    <circle cx="252" cy="164" r="3"/><circle cx="214" cy="154" r="2.6"/><circle cx="174" cy="160" r="2.4"/>
-    <circle cx="132" cy="166" r="2.2"/><circle cx="90" cy="170" r="2"/><circle cx="52" cy="168" r="1.8"/>
-    <circle cx="20" cy="154" r="1.7"/><circle cx="252" cy="196" r="2.6"/><circle cx="216" cy="202" r="2.4"/>
-    <circle cx="178" cy="206" r="2.2"/><circle cx="140" cy="204" r="2"/><circle cx="102" cy="206" r="1.8"/>
-  </g>
-
-  <!-- Route card -->
-  <rect x="246" y="248" width="120" height="36" rx="6" fill="#ffffff" stroke="#8a9aa5" stroke-width="1.8"/>
-  <g stroke="#5c676e" stroke-width="1.4" opacity=".7">
-    <line x1="260" y1="260" x2="352" y2="260"/><line x1="260" y1="270" x2="324" y2="270"/>
-  </g>
-
-  <!-- Route anchor -->
-  <path d="M296 304 Q258 320 248 346 M296 304 Q334 320 344 346" fill="none" stroke="#ffffff" stroke-width="1.6" opacity=".7"/>
-  <circle cx="248" cy="346" r="4" fill="#ffffff" opacity=".85"/>
-  <circle cx="344" cy="346" r="4" fill="#ffffff" opacity=".85"/>
-
-  <rect width="400" height="400" fill="url(#hvVign)"/>
+  <!-- Hope Veil: drifting fringed hood-shaped veil -->
+  <path d="M120 140 Q120 96 168 88 L232 88 Q280 96 280 140 L288 232 Q248 262 200 262 Q152 262 112 232 Z"
+        fill="#292524" stroke="#fde68a" stroke-width="3"/>
+  <path d="M132 148 L268 148 M142 192 L258 192" stroke="#fde68a" stroke-width="1.6" opacity=".8"/>
+  <path d="M162 232 L170 260 M200 238 L200 268 M238 232 L230 260" stroke="#fff7cc" stroke-width="1.6" opacity=".8"/>
+  <!-- straight collar neckline, no curves -->
+  <path d="M150 122 L250 122" stroke="#fff7cc" stroke-width="2"/>
+  <path d="M150 122 L150 134 L162 126 M250 122 L250 134 L238 126" fill="none" stroke="#fde68a" stroke-width="1.6"/>
+  <!-- hood base cord -->
+  <path d="M160 160 L240 160" stroke="#fde68a" stroke-width="2"/>
+  <!-- hood draw-cord + tie -->
+  <circle cx="200" cy="96" r="4" fill="#f1df76"/>
+  <path d="M150 104 L150 118 M250 104 L250 118" stroke="#fde68a" stroke-width="2"/>
 </svg>

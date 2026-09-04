@@ -1,74 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="LAMENT'S EDGE">
   <defs>
-    <linearGradient id="edBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0c1e42"/>
-      <stop offset=".5" stop-color="#081127"/>
-      <stop offset="1" stop-color="#02060f"/>
-    </linearGradient>
-    <radialGradient id="edVign" cx=".5" cy=".4" r=".78">
-      <stop offset="0" stop-color="#081127" stop-opacity="0"/>
-      <stop offset=".7" stop-color="#050a16" stop-opacity=".34"/>
-      <stop offset="1" stop-color="#010305" stop-opacity=".9"/>
+    <radialGradient id="bg001" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <linearGradient id="edCharm" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#a7d4ff" stop-opacity=".96"/>
-      <stop offset=".5" stop-color="#2f6fb5" stop-opacity=".94"/>
-      <stop offset="1" stop-color="#1f4f8c" stop-opacity=".94"/>
-    </linearGradient>
-    <linearGradient id="edCord" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#8fbdf0"/>
-      <stop offset="1" stop-color="#1f4f8c"/>
-    </linearGradient>
-    <filter id="edGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="4"/>
-    </filter>
+    <radialGradient id="g0001" cx="50%" cy="46%" r="46%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".24"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
   </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg001)" stroke="#38bdf8" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#g0001)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
 
-  <rect width="400" height="400" fill="url(#edBg)"/>
+  <!-- wearing cord + loop -->
+  <path d="M200 78 L200 138" stroke="#7dd3fc" stroke-width="4"/>
+  <circle cx="200" cy="72" r="12" fill="#082f49" stroke="#f1df76" stroke-width="2.4"/>
 
-  <!-- Archive marker wall (subtle, kept behind the item) -->
-  <g stroke="#1f3f6e" stroke-width="1" opacity=".3" fill="none">
-    <path d="M44 128 L356 128 M44 168 L356 168 M44 208 L356 208"/>
-  </g>
-  <rect x="252" y="128" width="72" height="48" rx="3" fill="#0c1c38" stroke="#3f6fa5" stroke-width="1" opacity=".45"/>
-  <g stroke="#3f6fa5" stroke-width="1" opacity=".35">
-    <line x1="262" y1="142" x2="314" y2="142"/><line x1="262" y1="152" x2="300" y2="152"/>
-  </g>
-
-  <!-- Midnight toll ripples -->
-  <g fill="none" stroke="#2f6fb5" opacity=".3" filter="url(#edGlow)">
-    <circle cx="200" cy="180" r="66" stroke-width="1"/>
-    <circle cx="200" cy="180" r="100" stroke-width=".8"/>
-  </g>
-
-  <!-- SINGLE WEARING CORD: loop at top runs straight down to the charm -->
-  <path d="M200 40 L200 118" stroke="url(#edCord)" stroke-width="2.6" opacity=".95"/>
-  <circle cx="200" cy="38" r="8" fill="#1f4f8c" stroke="#8fbdf0" stroke-width="1.8"/>
-  <circle cx="200" cy="38" r="3" fill="#8fbdf0"/>
-  <!-- small slide knot on the cord -->
-  <rect x="193" y="98" width="14" height="8" rx="3" fill="#2a3338" stroke="#8fbdf0" stroke-width="1"/>
-
-  <!-- Metal ring joining cord to charm -->
-  <circle cx="200" cy="126" r="8" fill="#2a3338" stroke="#cfe8ff" stroke-width="1.6"/>
-  <circle cx="200" cy="126" r="3" fill="#0c1e42"/>
-
-  <!-- Blue crystal charm: edge of a broken bell clapper, hanging vertical, centred -->
-  <g>
-    <path d="M200 134 L184 190 L200 252 L216 190 Z"
-          fill="url(#edCharm)" stroke="#cfe8ff" stroke-width="1.6"/>
-    <path d="M200 140 L200 246" stroke="#d6ecff" stroke-width=".9" opacity=".7"/>
-    <path d="M194 164 L198 168 M192 190 L196 194 M194 216 L198 220" stroke="#6fb7ec" stroke-width="1" opacity=".7"/>
-    <!-- broken clapper tip (symmetrical) -->
-    <path d="M200 252 L191 274 L209 274 Z" fill="#1f4f8c" stroke="#6fb7ec" stroke-width="1"/>
-  </g>
-
-  <!-- It grows heavy and points toward the chest (visible gesture) -->
-  <path d="M214 202 L232 218 L224 234" fill="none" stroke="#8fbdf0" stroke-width="1.6" opacity=".7"/>
-  <circle cx="226" cy="226" r="3.4" fill="#cfe8ff" filter="url(#edGlow)"/>
-
-  <!-- Named avoided grief -->
-  <path d="M276 300 Q300 296 312 302" fill="none" stroke="#8fbdf0" stroke-width="1.2" opacity=".5"/>
-  <circle cx="276" cy="300" r="3" fill="#cfe8ff" opacity=".7"/>
-
-  <rect width="400" height="400" fill="url(#edVign)"/>
+  <!-- bell-clapper charm: hard-edged trapezoid, hanging -->
+  <path d="M168 160 L200 140 L232 160 L246 252 L154 252 Z" fill="#0c4a6e" stroke="#38bdf8" stroke-width="3"/>
+  <path d="M200 154 L200 244" stroke="#bae6fd" stroke-width="1.4" opacity=".7"/>
+  <!-- broken edge mark -->
+  <path d="M232 160 L246 252" stroke="#ef5b55" stroke-width="2.4" stroke-dasharray="5 4"/>
+  <!-- pommel ring under charm -->
+  <circle cx="200" cy="266" r="10" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="266" r="3.4" fill="#f1df76"/>
 </svg>

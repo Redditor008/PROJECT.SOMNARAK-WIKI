@@ -1,86 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE HOPE LENS">
   <defs>
-    <linearGradient id="hlBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#2c3136"/>
-      <stop offset=".5" stop-color="#1c2024"/>
-      <stop offset="1" stop-color="#0c0f12"/>
-    </linearGradient>
-    <radialGradient id="hlFog" cx=".5" cy=".4" r=".7">
-      <stop offset="0" stop-color="#4a555c" stop-opacity=".5"/>
-      <stop offset=".7" stop-color="#2c3136" stop-opacity=".25"/>
-      <stop offset="1" stop-color="#0c0f12" stop-opacity="0"/>
+    <radialGradient id="bw007" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <linearGradient id="hlVign" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0c0f12" stop-opacity=".14"/>
-      <stop offset="1" stop-color="#0c0f12" stop-opacity=".8"/>
-    </linearGradient>
-    <radialGradient id="hlGlass" cx=".42" cy=".38" r=".6">
-      <stop offset="0" stop-color="#ffffff" stop-opacity=".98"/>
-      <stop offset=".55" stop-color="#e6eef2" stop-opacity=".9"/>
-      <stop offset="1" stop-color="#9db0bc" stop-opacity=".95"/>
+    <radialGradient id="gw007" cx="50%" cy="46%" r="46%">
+      <stop offset="0%" stop-color="#fde68a" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="hlGrip" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2c3136"/>
-      <stop offset=".5" stop-color="#6a7680"/>
-      <stop offset="1" stop-color="#20262a"/>
-    </linearGradient>
-    <filter id="hlGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="4"/>
-    </filter>
   </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw007)" stroke="#fde68a" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gw007)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#fde68a" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#fde68a" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <rect width="400" height="400" fill="url(#hlBg)"/>
-  <ellipse cx="200" cy="180" rx="240" ry="180" fill="url(#hlFog)"/>
-
-  <!-- fog layers + survey surround (subtle) -->
-  <g fill="none" stroke="#8aa0b0" stroke-width="1.2" opacity=".3">
-    <path d="M0 96 Q120 78 244 96 Q320 108 400 92"/>
-    <path d="M0 300 Q160 282 300 302 Q350 310 400 300"/>
-  </g>
-  <g stroke="#5a666e" stroke-width="2.4">
-    <line x1="64" y1="96" x2="64" y2="304"/><line x1="336" y1="96" x2="336" y2="304"/>
-  </g>
-
-  <!-- Bold surveyor pole -->
-  <rect x="196" y="60" width="16" height="310" rx="8" fill="#5a666e" stroke="#8a9aa5" stroke-width="2"/>
-  <g stroke="#a8b7c2" stroke-width="1.4" opacity=".8">
-    <line x1="196" y1="96" x2="212" y2="96"/><line x1="196" y1="140" x2="212" y2="140"/>
-    <line x1="196" y1="184" x2="212" y2="184"/><line x1="196" y1="228" x2="212" y2="228"/>
-  </g>
-
-  <!-- GRIP SECTION: wrapped hand-hold on the pole -->
-  <rect x="196" y="252" width="16" height="56" rx="8" fill="url(#hlGrip)" stroke="#a8b7c2" stroke-width="1.4"/>
-  <path d="M196 260 L212 268 M196 270 L212 278 M196 280 L212 288 M196 290 L212 298" stroke="#1c2024" stroke-width="1.6" opacity=".7"/>
-  <path d="M196 252 L212 252 M196 308 L212 308" stroke="#a8b7c2" stroke-width="1.2"/>
-
-  <!-- Pivot fork + lens -->
-  <path d="M166 96 L184 64 L208 60 L208 98 L166 98 Z" fill="#8a9aa5" stroke="#4a565e" stroke-width="1.4"/>
-  <path d="M208 60 L230 96" stroke="#8a9aa5" stroke-width="3.4"/>
-  <circle cx="220" cy="80" r="7" fill="#a8b7c2"/>
-  <circle cx="238" cy="158" r="82" fill="url(#hlGlass)" stroke="#a8b7c2" stroke-width="3"/>
-  <circle cx="238" cy="158" r="68" fill="none" stroke="#ffffff" stroke-width="1.4" opacity=".7"/>
-  <g stroke="#55636c" stroke-width="2" opacity=".7">
-    <path d="M212 158 L264 158 M238 132 L238 184"/>
-  </g>
-  <path d="M238 158 L286 190 Q296 198 288 212" fill="none" stroke="#55636c" stroke-width="2.6" opacity=".85"/>
-  <path d="M286 190 L282 170" stroke="#55636c" stroke-width="2" opacity=".7"/>
-
-  <!-- white blade -->
-  <g filter="url(#hlGlow)">
-    <path d="M290 110 L380 70 L394 88 L310 140 Z" fill="#ffffff" opacity=".95"/>
-  </g>
-  <path d="M290 110 L380 70" stroke="#ffffff" stroke-width="2"/>
-  <path d="M310 140 L290 110" stroke="#cfe0ea" stroke-width="1.4" opacity=".85"/>
-
-  <!-- white glow points -->
-  <g fill="#ffffff" filter="url(#hlGlow)">
-    <circle cx="204" cy="126" r="2.4"/><circle cx="190" cy="204" r="2.4"/><circle cx="186" cy="260" r="2"/>
-  </g>
-
-  <!-- homeward line -->
-  <path d="M96 316 Q180 300 300 316" fill="none" stroke="#ffffff" stroke-width="1.6" opacity=".55"/>
-  <circle cx="96" cy="316" r="3.5" fill="#ffffff" opacity=".8"/>
-  <circle cx="300" cy="316" r="3.5" fill="#ffffff" opacity=".8"/>
-
-  <rect width="400" height="400" fill="url(#hlVign)"/>
+  <!-- Hope Lens: round glass-disc tour on a pole -->
+  <circle cx="200" cy="176" r="84" fill="#292524" stroke="#fde68a" stroke-width="3"/>
+  <circle cx="200" cy="176" r="62" fill="#451a03" stroke="#fde68a" stroke-width="2.4"/>
+  <path d="M172 154 L236 176" stroke="#fff7cc" stroke-width="2.4"/>
+  <path d="M228 196 L188 200" stroke="#fde68a" stroke-width="1.6" opacity=".7"/>
+  <!-- pole + grip -->
+  <rect x="190" y="260" width="20" height="98" rx="5" fill="#451a03" stroke="#fde68a" stroke-width="2.4"/>
+  <path d="M192 272 L208 280 M192 290 L208 298" stroke="#fff7cc" stroke-width="1.4" opacity=".8"/>
+  <!-- grip cap -->
+  <path d="M184 260 L216 260 L214 274 L186 274 Z" fill="#292524" stroke="#fde68a" stroke-width="2"/>
+  <circle cx="200" cy="298" r="8" fill="#292524" stroke="#f1df76" stroke-width="2"/>
 </svg>

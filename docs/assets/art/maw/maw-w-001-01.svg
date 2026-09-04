@@ -1,91 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LAMENT'S REQUIEM">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="LAMENT'S REQUIEM">
   <defs>
-    <linearGradient id="rqBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0c1e42"/>
-      <stop offset=".52" stop-color="#081127"/>
-      <stop offset="1" stop-color="#02060f"/>
-    </linearGradient>
-    <radialGradient id="rqVign" cx=".5" cy=".38" r=".78">
-      <stop offset="0" stop-color="#0a1830" stop-opacity="0"/>
-      <stop offset=".72" stop-color="#050a16" stop-opacity=".35"/>
-      <stop offset="1" stop-color="#010305" stop-opacity=".9"/>
+    <radialGradient id="bw001" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <linearGradient id="rqBlade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#4a86c9"/>
-      <stop offset=".48" stop-color="#a7d4ff"/>
-      <stop offset="1" stop-color="#1f4f8c"/>
-    </linearGradient>
-    <linearGradient id="rqCore" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#d6ecff" stop-opacity=".9"/>
-      <stop offset="1" stop-color="#2f6fb5" stop-opacity=".2"/>
-    </linearGradient>
-    <linearGradient id="rqGrip" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2a3338"/>
-      <stop offset=".5" stop-color="#4c555c"/>
-      <stop offset="1" stop-color="#20262a"/>
-    </linearGradient>
-    <filter id="rqGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="4"/>
-    </filter>
+    <radialGradient id="gw001" cx="50%" cy="46%" r="46%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".24"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
   </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw001)" stroke="#38bdf8" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gw001)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <rect width="400" height="400" fill="url(#rqBg)"/>
+  <!-- slender deep-blue Han crystal blade: hard-edged vertical shard -->
+  <path d="M200 42 L240 118 L240 200 L200 224 L160 200 L160 118 Z" fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
+  <path d="M200 56 L200 216" stroke="#bae6fd" stroke-width="1.4" opacity=".8"/>
+  <path d="M174 132 L200 156 M226 132 L200 156" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
+  <path d="M160 118 L146 128 L154 146" fill="none" stroke="#7dd3fc" stroke-width="1.6" opacity=".8"/>
+  <path d="M240 118 L254 128 L246 146" fill="none" stroke="#7dd3fc" stroke-width="1.6" opacity=".8"/>
 
-  <!-- Tower chamber panels (kept subtle so the item is the hero) -->
-  <g stroke="#1f3f6e" stroke-width="1" opacity=".35" fill="none">
-    <path d="M58 40 L58 300 M342 40 L342 300 M44 84 L356 84"/>
-  </g>
-
-  <!-- Great bell rim + soft toll rings -->
-  <g fill="none" stroke="#4a86c9" opacity=".45">
-    <path d="M70 52 Q200 26 330 52" stroke-width="3"/>
-    <path d="M90 58 Q200 36 310 58" stroke-width="1.4" opacity=".55"/>
-  </g>
-  <g fill="none" stroke="#2f6fb5" opacity=".3" filter="url(#rqGlow)">
-    <circle cx="200" cy="200" r="96" stroke-width="1.2"/>
-    <circle cx="200" cy="200" r="140" stroke-width=".8"/>
-  </g>
-
-  <!-- Floor plate -->
-  <path d="M110 354 L290 354 L278 378 L122 378 Z" fill="#0c1c38" stroke="#2f4f7e" stroke-width="1"/>
-
-  <!-- Slender blade: edge -->
-  <g transform="rotate(-4 200 190)">
-    <path d="M200 48 L188 150 L200 232 L212 150 Z"
-          fill="url(#rqBlade)" stroke="#a7d4ff" stroke-width="1.6"/>
-    <path d="M200 54 L200 226" stroke="#d6ecff" stroke-width=".9" opacity=".85"/>
-    <!-- faint names under crystal -->
-    <g fill="#d6ecff" opacity=".5">
-      <text x="181" y="92" font-size="8">_</text><text x="180" y="120" font-size="8">..</text>
-      <text x="179" y="168" font-size="8">/.</text><text x="180" y="204" font-size="8">.</text>
-    </g>
-  </g>
-
-  <!-- Cross-guard -->
-  <g transform="rotate(-4 200 190)">
-    <path d="M168 226 L232 226 L226 244 L174 244 Z" fill="#2a3338" stroke="#6b6b76" stroke-width="1.2"/>
-    <circle cx="200" cy="235" r="4" fill="#6b6b76"/>
-  </g>
-
-  <!-- Wrapped grip (two-handed) -->
-  <g transform="rotate(-4 200 190)">
-    <rect x="192" y="244" width="16" height="72" rx="7" fill="url(#rqGrip)" stroke="#4c555c" stroke-width="1.4"/>
-    <path d="M192 252 L208 260 M192 262 L208 270 M192 272 L208 280 M192 282 L208 290 M192 292 L208 300 M192 302 L208 310" stroke="#1c2226" stroke-width="1.6" opacity=".7"/>
-    <path d="M192 248 L208 248 M192 312 L208 312" stroke="#6b6b76" stroke-width="1.2"/>
-  </g>
-
-  <!-- Pommel ring -->
-  <g transform="rotate(-4 200 190)">
-    <circle cx="200" cy="324" r="8" fill="#2a3338" stroke="#6b6b76" stroke-width="1.6"/>
-    <circle cx="200" cy="324" r="3.5" fill="#0c1e42"/>
-  </g>
-
-  <!-- Tollcut ring at contact -->
-  <g fill="none" stroke="#a7d4ff" opacity=".5" filter="url(#rqGlow)">
-    <circle cx="200" cy="140" r="42" stroke-width="1.2"/>
-    <circle cx="200" cy="140" r="66" stroke-width=".8"/>
-  </g>
-  <circle cx="200" cy="140" r="3" fill="#d6ecff" filter="url(#rqGlow)"/>
-
-  <rect width="400" height="400" fill="url(#rqVign)"/>
+  <!-- crossguard -->
+  <path d="M168 222 L232 222 L224 238 L176 238 Z" fill="#082f49" stroke="#7dd3fc" stroke-width="2.4"/>
+  <!-- wrapped grip -->
+  <rect x="186" y="240" width="28" height="64" rx="6" fill="#082f49" stroke="#38bdf8" stroke-width="2.4"/>
+  <path d="M188 250 L212 258 M188 264 L212 272 M188 278 L212 286" stroke="#38bdf8" stroke-width="1.6" opacity=".8"/>
+  <!-- pommel ring -->
+  <circle cx="200" cy="314" r="9" fill="#082f49" stroke="#f1df76" stroke-width="2.2"/>
+  <circle cx="200" cy="314" r="3.4" fill="#f1df76"/>
 </svg>

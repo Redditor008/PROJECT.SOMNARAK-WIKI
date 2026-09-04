@@ -1,89 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LISTENING REQUIEM">
   <defs>
-    <linearGradient id="lrBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#123a5f"/>
-      <stop offset=".5" stop-color="#0a2440"/>
-      <stop offset="1" stop-color="#040d1c"/>
-    </linearGradient>
-    <radialGradient id="lrVign" cx=".5" cy=".42" r=".8">
-      <stop offset="0" stop-color="#0e2c4d" stop-opacity="0"/>
-      <stop offset=".7" stop-color="#08203a" stop-opacity=".36"/>
-      <stop offset="1" stop-color="#020810" stop-opacity=".9"/>
+    <radialGradient id="bw011" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <linearGradient id="lrBlade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#3f8fd0"/>
-      <stop offset=".5" stop-color="#8fc9f2"/>
-      <stop offset="1" stop-color="#2a6ba2"/>
-    </linearGradient>
-    <linearGradient id="lrGroove" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#c8e6ff" stop-opacity=".96"/>
-      <stop offset="1" stop-color="#2a6ba2" stop-opacity=".4"/>
-    </linearGradient>
-    <linearGradient id="lrGrip" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0a2440"/>
-      <stop offset=".5" stop-color="#2a5a80"/>
-      <stop offset="1" stop-color="#081b32"/>
-    </linearGradient>
-    <filter id="lrGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2"/>
-    </filter>
+    <radialGradient id="gw011" cx="50%" cy="46%" r="46%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".24"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
   </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw011)" stroke="#38bdf8" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gw011)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <rect width="400" height="400" fill="url(#lrBg)"/>
-
-  <!-- Old wall (subtle) -->
-  <path d="M50 44 L350 44 L350 352 L50 352 Z" fill="#0d2a50" stroke="#2a6ba2" stroke-width="1.2"/>
-  <g stroke="#1f5188" stroke-width="1" opacity=".55">
-    <line x1="76" y1="80" x2="300" y2="80"/><line x1="76" y1="128" x2="240" y2="128"/>
-    <line x1="76" y1="176" x2="320" y2="176"/><line x1="76" y1="226" x2="282" y2="226"/>
-  </g>
-
-  <!-- whisper lines -->
-  <g fill="none" stroke="#8fc9f2" stroke-width="1.2" opacity=".6">
-    <path d="M64 172 q12 -8 24 0 M68 184 q12 -8 24 0 M64 196 q12 -8 24 0"/>
-    <path d="M336 172 q12 -8 24 0 M332 184 q12 -8 24 0 M336 196 q12 -8 24 0"/>
-  </g>
-
-  <!-- Narrow blue crystal blade -->
-  <g transform="rotate(-6 200 190)">
-    <path d="M200 56 L186 148 L200 214 L214 148 Z"
-          fill="url(#lrBlade)" stroke="#9fd8ff" stroke-width="2"/>
-    <path d="M200 62 L200 208" stroke="#d6ecff" stroke-width="1" opacity=".9"/>
-    <path d="M192 92 L208 92 M192 122 L208 122 M192 152 L208 152 M192 182 L208 182" stroke="#2a6ba2" stroke-width=".9" opacity=".55"/>
-  </g>
-
-  <!-- Shallow groove -->
-  <g transform="rotate(-6 200 190)">
-    <rect x="196" y="72" width="9" height="90" rx="4.5" fill="url(#lrGroove)" stroke="#2a6ba2" stroke-width=".9"/>
-    <path d="M200 80 L200 152" stroke="#0d2a50" stroke-width="1" opacity=".5"/>
-  </g>
-  <g fill="#d6ecff" filter="url(#lrGlow)">
-    <text x="190" y="88" font-size="9" transform="rotate(-6 200 190)">abc</text>
-    <text x="188" y="104" font-size="9" transform="rotate(-6 200 190)">_</text>
-    <text x="186" y="132" font-size="9" transform="rotate(-6 200 190)">..</text>
-  </g>
-
-  <!-- GRIP: wrapped handle + guard + pommel at the base -->
-  <g transform="rotate(-6 200 190)">
-    <path d="M184 214 L216 214 L210 232 L190 232 Z" fill="#0a2440" stroke="#6fb7ec" stroke-width="1.2"/>
-    <rect x="192" y="232" width="16" height="52" rx="7" fill="url(#lrGrip)" stroke="#6fb7ec" stroke-width="1.2"/>
-    <path d="M192 240 L208 248 M192 250 L208 258 M192 260 L208 268 M192 270 L208 278" stroke="#081b32" stroke-width="1.4" opacity=".7"/>
-    <path d="M192 232 L208 232 M192 284 L208 284" stroke="#6fb7ec" stroke-width="1.2"/>
-    <circle cx="200" cy="294" r="7" fill="#0a2440" stroke="#6fb7ec" stroke-width="1.6"/>
-    <circle cx="200" cy="294" r="3" fill="#6fb7ec"/>
-  </g>
-
-  <!-- soft tone -->
-  <g fill="none" stroke="#6fb7ec" opacity=".6" filter="url(#lrGlow)">
-    <circle cx="130" cy="184" r="18" stroke-width="1.2"/><circle cx="130" cy="184" r="32" stroke-width="1"/>
-    <circle cx="270" cy="184" r="18" stroke-width="1.2"/><circle cx="270" cy="184" r="32" stroke-width="1"/>
-  </g>
-
-  <!-- warning line -->
-  <g transform="rotate(-2 200 338)">
-    <rect x="146" y="326" width="112" height="24" rx="4" fill="#0d2a50" stroke="#3f8fd0" stroke-width="1"/>
-    <path d="M156 334 L248 334 M156 342 L222 342" stroke="#8fc9f2" stroke-width="1" opacity=".8"/>
-  </g>
-
-  <rect width="400" height="400" fill="url(#lrVign)"/>
+  <!-- Listening Requiem: tall grooved crystal blade with wrap grip -->
+  <path d="M200 46 L230 190 L230 224 L200 250 L170 224 L170 190 Z" fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
+  <path d="M200 60 L200 240" stroke="#bae6fd" stroke-width="1.2" opacity=".7"/>
+  <path d="M188 120 L200 132 M212 120 L200 132 M188 156 L200 168 M212 156 L200 168 M188 192 L200 204 M212 192 L200 204" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
+  <!-- guard -->
+  <path d="M180 248 L220 248 L214 262 L186 262 Z" fill="#082f49" stroke="#7dd3fc" stroke-width="2"/>
+  <!-- wrap grip -->
+  <rect x="188" y="262" width="24" height="64" rx="6" fill="#082f49" stroke="#38bdf8" stroke-width="2.4"/>
+  <path d="M190 274 L210 282 M190 288 L210 296 M190 302 L210 310" stroke="#38bdf8" stroke-width="1.6" opacity=".8"/>
+  <!-- pommel -->
+  <circle cx="200" cy="336" r="8" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
 </svg>

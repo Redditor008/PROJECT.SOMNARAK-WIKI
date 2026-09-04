@@ -1,71 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE HOPE LANTERN">
   <defs>
-    <linearGradient id="hlBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#2c3136"/>
-      <stop offset=".5" stop-color="#1c2024"/>
-      <stop offset="1" stop-color="#0c0f12"/>
-    </linearGradient>
-    <radialGradient id="hlFog" cx=".5" cy=".38" r=".72">
-      <stop offset="0" stop-color="#4a555c" stop-opacity=".5"/>
-      <stop offset=".7" stop-color="#2c3136" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#0c0f12" stop-opacity="0"/>
+    <radialGradient id="bg007" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <linearGradient id="hlVign" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0c0f12" stop-opacity=".14"/>
-      <stop offset="1" stop-color="#0c0f12" stop-opacity=".78"/>
-    </linearGradient>
-    <radialGradient id="hlGlass" cx=".5" cy=".5" r=".6">
-      <stop offset="0" stop-color="#ffffff" stop-opacity=".98"/>
-      <stop offset=".6" stop-color="#dbe4e9" stop-opacity=".7"/>
-      <stop offset="1" stop-color="#8a9aa5" stop-opacity=".8"/>
+    <radialGradient id="g0007b" cx="50%" cy="46%" r="46%">
+      <stop offset="0%" stop-color="#fde68a" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="hlMetal" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#a8b7c2"/>
-      <stop offset="1" stop-color="#4a565e"/>
-    </linearGradient>
-    <filter id="hlGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="4"/>
-    </filter>
   </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg007)" stroke="#fde68a" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#g0007b)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#fde68a" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#fde68a" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
 
-  <rect width="400" height="400" fill="url(#hlBg)"/>
-  <ellipse cx="200" cy="160" rx="230" ry="200" fill="url(#hlFog)"/>
-
-  <!-- drift environment (subtle, kept behind the lantern) -->
-  <g fill="none" stroke="#8aa0b0" stroke-width="1.2" opacity=".3">
-    <path d="M0 110 Q160 92 400 118"/><path d="M0 306 Q180 286 400 314"/>
-  </g>
-  <g fill="#9aa8b2" opacity=".18">
-    <ellipse cx="86" cy="332" rx="66" ry="16"/><ellipse cx="316" cy="336" rx="70" ry="16"/>
-  </g>
-
-  <!-- LANTERN HANDLE RING + BAIL: clear way to hold / hang it -->
-  <path d="M200 30 L200 56" stroke="#8a9aa5" stroke-width="2.4"/>
-  <circle cx="200" cy="28" r="8" fill="none" stroke="#a8b7c2" stroke-width="2"/>
-  <circle cx="200" cy="28" r="3.2" fill="#a8b7c2"/>
-  <path d="M186 56 L214 56" stroke="#8a9aa5" stroke-width="2.4"/>
-  <circle cx="200" cy="62" r="4" fill="none" stroke="#a8b7c2" stroke-width="1.6"/>
-
-  <!-- Caged glass lantern (compact, centred, distinct) -->
-  <path d="M176 72 L224 72 L230 184 Q200 204 170 184 Z" fill="url(#hlGlass)" stroke="#a8b7c2" stroke-width="2.6"/>
-  <path d="M168 84 L232 84 L226 64 L174 64 Z" fill="url(#hlMetal)" stroke="#4a565e" stroke-width="1.6"/>
-  <rect x="176" y="60" width="48" height="5" rx="2.5" fill="url(#hlMetal)"/>
-  <g stroke="#8a9aa5" stroke-width="2.4" opacity=".9">
-    <line x1="186" y1="72" x2="186" y2="180"/><line x1="200" y1="72" x2="200" y2="188"/><line x1="214" y1="72" x2="214" y2="180"/>
-  </g>
-  <path d="M176 128 L224 128 M172 160 L228 160" stroke="#8a9aa5" stroke-width="1.8" opacity=".8"/>
-  <g filter="url(#hlGlow)">
-    <ellipse cx="200" cy="120" rx="20" ry="30" fill="#ffffff" opacity=".95"/>
-  </g>
-  <path d="M200 96 Q190 116 200 146 Q210 116 200 96 Z" fill="#ffffff"/>
-  <path d="M200 112 Q195 122 200 134 Q205 122 200 112 Z" fill="#f2f6f8" opacity=".8"/>
+  <!-- Hope Lantern: caged glass lantern with handle ring + bail -->
+  <path d="M200 64 L200 92" stroke="#fde68a" stroke-width="2.4"/>
+  <circle cx="200" cy="58" r="10" fill="#292524" stroke="#f1df76" stroke-width="2"/>
+  <path d="M184 94 L216 94 L222 130 L216 96 L184 96 Z" fill="#451a03" stroke="#fde68a" stroke-width="2"/>
+  <!-- lantern body -->
+  <path d="M178 126 L222 126 L228 246 Q200 270 172 246 Z" fill="#451a03" stroke="#fde68a" stroke-width="3"/>
+  <path d="M188 126 L188 244 M200 126 L200 254 M212 126 L212 244" stroke="#fde68a" stroke-width="1.8" opacity=".8"/>
+  <path d="M178 168 L222 168 M174 210 L226 210" stroke="#fde68a" stroke-width="1.6" opacity=".7"/>
+  <!-- flame -->
+  <path d="M200 142 Q188 164 200 188 Q212 164 200 142 Z" fill="#fff7ed" stroke="#fde68a" stroke-width="1.4"/>
   <!-- base ring -->
-  <path d="M174 182 Q200 192 226 182 L226 188 Q200 200 174 188 Z" fill="url(#hlMetal)" stroke="#4a565e" stroke-width="1.2"/>
-  <circle cx="200" cy="196" r="4" fill="#4a565e"/>
-
-  <!-- drifter silhouette holding a second dim mote (small, stays behind beam) -->
-  <circle cx="318" cy="252" r="3.4" fill="#9aa8b2" opacity=".5"/>
-  <path d="M318 256 L318 268 M318 260 L308 272 M318 260 L328 272" stroke="#9aa8b2" stroke-width="1.2" opacity=".4"/>
-
-  <rect width="400" height="400" fill="url(#hlVign)"/>
+  <path d="M176 246 L224 246 L220 260 L180 260 Z" fill="#292524" stroke="#fde68a" stroke-width="2"/>
 </svg>

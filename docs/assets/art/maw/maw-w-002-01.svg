@@ -1,88 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MOURNING MAUL">
   <defs>
-    <linearGradient id="mmBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#151312"/>
-      <stop offset=".5" stop-color="#0a0908"/>
-      <stop offset="1" stop-color="#030303"/>
-    </linearGradient>
-    <radialGradient id="mmVign" cx=".5" cy=".4" r=".78">
-      <stop offset="0" stop-color="#0a0908" stop-opacity="0"/>
-      <stop offset=".7" stop-color="#050404" stop-opacity=".35"/>
-      <stop offset="1" stop-color="#010101" stop-opacity=".9"/>
+    <radialGradient id="bw002" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <linearGradient id="mmHead" x1="0" y1="0" x2="1" y2=".7">
-      <stop offset="0" stop-color="#1f1f24"/>
-      <stop offset=".35" stop-color="#4a4a52"/>
-      <stop offset=".75" stop-color="#232329"/>
-      <stop offset="1" stop-color="#0c0c0e"/>
-    </linearGradient>
-    <linearGradient id="mmGrip" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2a2a30"/>
-      <stop offset=".5" stop-color="#4a4a54"/>
-      <stop offset="1" stop-color="#202026"/>
-    </linearGradient>
-    <radialGradient id="mmTear" cx=".5" cy=".5" r=".62">
-      <stop offset="0" stop-color="#c9a86a" stop-opacity=".6"/>
-      <stop offset=".7" stop-color="#6a563d" stop-opacity=".25"/>
-      <stop offset="1" stop-color="#16161b" stop-opacity="0"/>
+    <radialGradient id="gw002" cx="50%" cy="46%" r="46%">
+      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".24"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
-    <filter id="mmGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3"/>
-    </filter>
   </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw002)" stroke="#ef5b55" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gw002)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <rect width="400" height="400" fill="url(#mmBg)"/>
-
-  <!-- Corridor (subtle) -->
-  <g stroke="#2c2a27" stroke-width="1" opacity=".4" fill="none">
-    <path d="M56 96 L56 320 M344 96 L344 320 M56 126 L344 126"/>
-  </g>
-  <g stroke="#c9a86a" stroke-width=".8" opacity=".25">
-    <path d="M74 300 L120 222 L150 260 M326 300 L280 222 L250 260"/>
-  </g>
-
-  <!-- Barrel maul head -->
-  <path d="M88 132 Q200 102 312 132 Q322 158 312 184 Q200 214 88 184 Q78 158 88 132 Z"
-        fill="url(#mmHead)" stroke="#565660" stroke-width="2.6"/>
-  <path d="M92 138 Q200 112 308 138" fill="none" stroke="#6b6b76" stroke-width="4"/>
-  <path d="M92 178 Q200 204 308 178" fill="none" stroke="#45454d" stroke-width="1.6" opacity=".7"/>
-  <path d="M188 116 L188 196 M212 116 L212 196" stroke="#8a8f98" stroke-width="3" opacity=".8"/>
-  <g fill="#8a8f98" opacity=".85">
-    <circle cx="188" cy="120" r="2.4"/><circle cx="212" cy="120" r="2.4"/>
-    <circle cx="188" cy="192" r="2.4"/><circle cx="212" cy="192" r="2.4"/>
-  </g>
-  <g stroke="#15151a" stroke-width="1.8" opacity=".85" fill="none">
-    <path d="M126 144 L156 162 L142 184"/>
-    <path d="M210 136 L206 170 L226 186"/>
-    <path d="M284 144 L262 164 L278 184"/>
-  </g>
-  <path d="M104 170 Q200 192 296 166" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".65"/>
-  <circle cx="200" cy="184" r="5" fill="none" stroke="#c9a86a" stroke-width="1.6"/>
-
-  <!-- SHORT THICK HAFT: clearly a handle in two hands -->
-  <rect x="194" y="202" width="12" height="120" rx="6" fill="url(#mmGrip)" stroke="#565660" stroke-width="1.4"/>
-  <g fill="#1f1f24" opacity=".6">
-    <rect x="194" y="214" width="12" height="8"/><rect x="194" y="238" width="12" height="8"/>
-    <rect x="194" y="262" width="12" height="8"/><rect x="194" y="286" width="12" height="8"/>
-  </g>
-  <path d="M194 202 L206 202 M194 322 L206 322" stroke="#6b6b76" stroke-width="1.4"/>
-
-  <!-- Binding collar where haft enters the head -->
-  <path d="M184 200 L216 200 L212 218 L188 218 Z" fill="#45454d" stroke="#565660" stroke-width="1.2"/>
-  <path d="M184 200 L216 200" stroke="#8a8f98" stroke-width="1.4"/>
-
-  <!-- Dented flooring -->
-  <path d="M70 330 L330 330 L312 360 L88 360 Z" fill="#0d0d0f" stroke="#3a3a40" stroke-width="1.2"/>
-  <ellipse cx="200" cy="340" rx="26" ry="7" fill="#060608" stroke="#5a5a63" stroke-width="1"/>
-
-  <!-- Tear-crystal architecture under head -->
-  <g opacity=".7" filter="url(#mmGlow)">
-    <path d="M200 318 L224 286 L204 300 L226 268 L210 290 L232 258 L214 282 L240 250 L200 280 L166 254 L182 274 L158 244 L178 264 L148 236 L176 260 L162 282 Z" fill="none" stroke="#c9a86a" stroke-width="1"/>
-    <circle cx="200" cy="286" r="34" fill="url(#mmTear)"/>
-  </g>
-  <g fill="#c9a86a" opacity=".45">
-    <circle cx="150" cy="302" r="2"/><circle cx="200" cy="296" r="2"/><circle cx="250" cy="302" r="2"/>
-  </g>
-
-  <rect width="400" height="400" fill="url(#mmVign)"/>
+  <!-- Mourning Maul: broad humped head, flat underside, short two-hand haft -->
+  <path d="M92 150 L308 150 L312 236 Q200 262 88 236 Z" fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
+  <path d="M118 150 L118 210 M282 150 L282 210" stroke="#fca5a5" stroke-width="1.4" opacity=".7"/>
+  <path d="M140 184 L260 184" stroke="#ef5b55" stroke-width="1.6" opacity=".8"/>
+  <rect x="186" y="244" width="28" height="82" rx="6" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
+  <path d="M188 258 L212 266 M188 274 L212 282 M188 290 L212 298" stroke="#fca5a5" stroke-width="1.6" opacity=".8"/>
+  <circle cx="200" cy="336" r="9" fill="#292524" stroke="#f1df76" stroke-width="2.2"/>
+  <circle cx="200" cy="336" r="3.4" fill="#f1df76"/>
 </svg>

@@ -1,69 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE EMBRACE">
   <defs>
-    <linearGradient id="emBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#3a0b0b"/>
-      <stop offset=".5" stop-color="#1c0505"/>
-      <stop offset="1" stop-color="#070202"/>
-    </linearGradient>
-    <radialGradient id="emVign" cx=".5" cy=".4" r=".78">
-      <stop offset="0" stop-color="#1c0505" stop-opacity="0"/>
-      <stop offset=".72" stop-color="#0d0303" stop-opacity=".34"/>
-      <stop offset="1" stop-color="#020101" stop-opacity=".9"/>
+    <radialGradient id="bg005" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <linearGradient id="emClasp" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#d9435a"/>
-      <stop offset=".55" stop-color="#8f1f33"/>
-      <stop offset="1" stop-color="#3a0c16"/>
-    </linearGradient>
-    <filter id="emGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="3"/>
-    </filter>
+    <radialGradient id="g0005" cx="50%" cy="46%" r="46%">
+      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".24"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
   </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg005)" stroke="#ef5b55" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#g0005)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
 
-  <rect width="400" height="400" fill="url(#emBg)"/>
-
-  <!-- fire environment (subtle) -->
-  <g stroke="#5a2222" stroke-width="1" opacity=".4" fill="none">
-    <path d="M48 70 L48 326 M352 70 L352 326 M48 104 L352 104 M48 258 L352 258"/>
-  </g>
-  <g fill="#d9435a" opacity=".35" filter="url(#emGlow)">
-    <circle cx="84" cy="120" r="2"/><circle cx="120" cy="88" r="2"/><circle cx="300" cy="180" r="2"/>
-  </g>
-
-  <!-- Clothing seam / tail attachment -->
-  <path d="M130 286 L270 286 L258 314 L142 314 Z" fill="#160707" stroke="#5a2222" stroke-width="1"/>
-  <g stroke="#802f33" stroke-width="1" opacity=".6">
-    <path d="M150 296 L250 296 M150 304 L238 304"/>
-  </g>
-
-  <!-- Crimson clasp: two small arms meeting at the wrists -->
-  <g filter="url(#emGlow)">
-    <path d="M160 182 Q150 202 172 218 Q196 236 214 228 L206 222 Q192 226 180 214 Q168 202 178 184 Z"
-          fill="url(#emClasp)" stroke="#f78a9b" stroke-width="1.6"/>
-    <path d="M240 182 Q250 202 228 218 Q204 236 186 228 L194 222 Q208 226 220 214 Q232 202 222 184 Z"
-          fill="url(#emClasp)" stroke="#f78a9b" stroke-width="1.6"/>
-  </g>
-  <circle cx="200" cy="236" r="7" fill="#5a101d" stroke="#f78a9b" stroke-width="1.6"/>
-  <circle cx="200" cy="236" r="2.6" fill="#f78a9b" filter="url(#emGlow)"/>
-
-  <!-- WEARING PIN / LATCH: clear fastening to the seam -->
-  <path d="M200 286 L200 314" stroke="#802f33" stroke-width="2"/>
-  <rect x="192" y="224" width="16" height="14" rx="3" fill="#2c060c" stroke="#f78a9b" stroke-width="1.4"/>
-  <circle cx="200" cy="231" r="2.4" fill="#f78a9b"/>
-  <g stroke="#f78a9b" stroke-width="1.4" opacity=".7">
-    <path d="M160 262 L176 262 L186 256"/>
-    <path d="M240 262 L224 262 L214 256"/>
-  </g>
-
-  <!-- Hold Fast: prevents one ally from being moved / pulled -->
-  <path d="M230 248 Q270 272 302 262 L312 272" fill="none" stroke="#f78a9b" stroke-width="1.6" opacity=".7"/>
-  <path d="M170 248 Q130 272 98 262 L88 272" fill="none" stroke="#f78a9b" stroke-width="1.6" opacity=".7"/>
-  <circle cx="304" cy="284" r="6" fill="none" stroke="#f78a9b" stroke-width="1.2" opacity=".7"/>
-  <circle cx="96" cy="284" r="6" fill="none" stroke="#f78a9b" stroke-width="1.2" opacity=".7"/>
-
-  <g fill="none" stroke="#d9435a" opacity=".4" filter="url(#emGlow)">
-    <circle cx="200" cy="236" r="30"/><circle cx="200" cy="236" r="50"/>
-  </g>
-
-  <rect width="400" height="400" fill="url(#emVign)"/>
+  <!-- Embrace: clasp-bar gift with pin latch -->
+  <path d="M118 132 Q118 88 152 84 L200 76 L248 84 Q282 88 282 132 L282 164 Q200 204 118 164 Z"
+        fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
+  <path d="M126 112 L274 112" stroke="#fb7185" stroke-width="1.6" opacity=".8"/>
+  <path d="M150 150 L250 150" stroke="#f1df76" stroke-width="2"/>
+  <!-- pin / latch -->
+  <path d="M160 176 L240 176 L244 214 L156 214 Z" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
+  <circle cx="200" cy="195" r="5" fill="#f1df76"/>
+  <!-- hanging cord + ring -->
+  <path d="M200 76 L200 42" stroke="#ef5b55" stroke-width="2.4"/>
+  <circle cx="200" cy="38" r="9" fill="#292524" stroke="#f1df76" stroke-width="2"/>
 </svg>

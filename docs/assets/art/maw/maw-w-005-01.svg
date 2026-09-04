@@ -1,68 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE EMBRACE FANG">
   <defs>
-    <linearGradient id="efBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#3a0b0b"/>
-      <stop offset=".5" stop-color="#1c0505"/>
-      <stop offset="1" stop-color="#070202"/>
-    </linearGradient>
-    <radialGradient id="efVign" cx=".5" cy=".4" r=".78">
-      <stop offset="0" stop-color="#1c0505" stop-opacity="0"/>
-      <stop offset=".72" stop-color="#0d0303" stop-opacity=".34"/>
-      <stop offset="1" stop-color="#020101" stop-opacity=".9"/>
+    <radialGradient id="bw005" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <linearGradient id="efBlade" x1="0" y1="0" x2="1" y2=".6">
-      <stop offset="0" stop-color="#d9435a"/>
-      <stop offset=".5" stop-color="#8f1f33"/>
-      <stop offset="1" stop-color="#3a0c16"/>
-    </linearGradient>
-    <linearGradient id="efGrip" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#3a0c16"/>
-      <stop offset=".5" stop-color="#7a1a2a"/>
-      <stop offset="1" stop-color="#2a070d"/>
-    </linearGradient>
-    <filter id="efGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3"/>
-    </filter>
+    <radialGradient id="gw005" cx="50%" cy="46%" r="46%">
+      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".24"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
   </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw005)" stroke="#ef5b55" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gw005)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <rect width="400" height="400" fill="url(#efBg)"/>
-
-  <!-- Collapsing hall (subtle) -->
-  <g stroke="#5a2222" stroke-width="1" opacity=".4" fill="none">
-    <path d="M52 60 L52 328 M348 60 L348 328 M52 84 L348 84 M52 196 L348 196"/>
-  </g>
-
-  <!-- Crimson pull line -->
-  <path d="M60 208 L120 168 L200 160 L280 172 L340 218" fill="none" stroke="#f78a9b" stroke-width="2.2" opacity=".5" filter="url(#efGlow)"/>
-
-  <!-- Fang blade -->
-  <g transform="rotate(-12 200 200)">
-    <path d="M112 232 Q152 132 236 112 Q286 100 302 130 Q270 142 240 150 Q188 178 156 228 Z"
-          fill="url(#efBlade)" stroke="#f78a9b" stroke-width="2.2"/>
-    <path d="M112 232 Q152 132 236 112" fill="none" stroke="#f78a9b" stroke-width="3"/>
-    <g fill="#f78a9b" opacity=".7">
-      <circle cx="166" cy="176" r="2"/><circle cx="190" cy="154" r="2"/>
-      <circle cx="214" cy="136" r="2"/><circle cx="240" cy="126" r="2"/>
-    </g>
-  </g>
-
-  <!-- GRIP: short wrapped handle at the base of the curve -->
-  <g transform="rotate(-12 200 200)">
-    <path d="M96 226 Q92 236 100 244 L120 240 Q120 228 112 220 Z" fill="url(#efGrip)" stroke="#f78a9b" stroke-width="1.6"/>
-    <path d="M96 226 L104 218 M103 231 L111 224 M108 236 L116 230" stroke="#f78a9b" stroke-width="1" opacity=".8"/>
-    <path d="M92 238 L104 252" stroke="#7a1a2a" stroke-width="2"/>
-    <circle cx="108" cy="256" r="5" fill="#d9435a" filter="url(#efGlow)"/>
-  </g>
-
-  <!-- Warm grip / cold tip markers -->
-  <circle cx="296" cy="116" r="4" fill="#6fb7ec" opacity=".8" filter="url(#efGlow)"/>
-
-  <!-- point angles toward nearest injured -->
-  <path d="M302 130 L332 100 L342 112" fill="none" stroke="#f78a9b" stroke-width="1.4" opacity=".6"/>
-  <circle cx="340" cy="112" r="3" fill="#f78a9b" opacity=".7"/>
-
-  <!-- floor -->
-  <path d="M104 320 Q200 300 296 320" fill="none" stroke="#f78a9b" stroke-width="1" opacity=".3" stroke-dasharray="4 4"/>
-
-  <rect width="400" height="400" fill="url(#efVign)"/>
+  <!-- Embrace Fang: broad curved scythe-blade fang with pointed tip -->
+  <path d="M120 320 L200 84 L214 92 L230 260 Q230 320 172 330 Z" fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
+  <path d="M146 292 L202 104" stroke="#fb7185" stroke-width="1.4" opacity=".7"/>
+  <path d="M170 312 L204 130 M190 306 L210 170" stroke="#ef5b55" stroke-width="1.2" opacity=".7"/>
+  <!-- wrapped grip -->
+  <rect x="136" y="320" width="28" height="66" rx="6" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
+  <path d="M139 332 L161 340 M139 348 L161 356 M139 364 L161 372" stroke="#fb7185" stroke-width="1.6" opacity=".8"/>
+  <circle cx="150" cy="396" r="8" fill="#292524" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="150" cy="396" r="3" fill="#f1df76"/>
 </svg>

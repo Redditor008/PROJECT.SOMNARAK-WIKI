@@ -1,73 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE ABSOLUTE VERDICT">
   <defs>
-    <linearGradient id="avBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#1d1d22"/>
-      <stop offset=".5" stop-color="#111114"/>
-      <stop offset="1" stop-color="#050506"/>
-    </linearGradient>
-    <radialGradient id="avVign" cx=".5" cy=".4" r=".8">
-      <stop offset="0" stop-color="#16161b" stop-opacity="0"/>
-      <stop offset=".7" stop-color="#0a0a0d" stop-opacity=".36"/>
-      <stop offset="1" stop-color="#000" stop-opacity=".9"/>
+    <radialGradient id="bg010" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
     </radialGradient>
-    <linearGradient id="avPlate" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#565660"/>
-      <stop offset=".5" stop-color="#2a2a32"/>
-      <stop offset="1" stop-color="#111114"/>
-    </linearGradient>
-    <linearGradient id="avCord" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#8a8f98"/>
-      <stop offset="1" stop-color="#4c4c56"/>
-    </linearGradient>
-    <filter id="avGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2"/>
-    </filter>
+    <radialGradient id="g0010b" cx="50%" cy="46%" r="46%">
+      <stop offset="0%" stop-color="#94a3b8" stop-opacity=".2"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
   </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg010)" stroke="#94a3b8" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#g0010b)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0f172a" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
 
-  <rect width="400" height="400" fill="url(#avBg)"/>
-
-  <!-- nineteen unsaved (subtle constellation behind the charm) -->
-  <g fill="#565660" opacity=".3">
-    <circle cx="80" cy="84" r="3"/><circle cx="118" cy="58" r="3"/><circle cx="160" cy="40" r="3"/>
-    <circle cx="205" cy="32" r="3"/><circle cx="250" cy="40" r="3"/><circle cx="292" cy="58" r="3"/>
-    <circle cx="324" cy="84" r="3"/><circle cx="62" cy="140" r="3"/><circle cx="340" cy="140" r="3"/>
-    <circle cx="84" cy="192" r="3"/><circle cx="316" cy="192" r="3"/><circle cx="108" cy="240" r="3"/>
-    <circle cx="292" cy="240" r="3"/><circle cx="138" cy="284" r="3"/><circle cx="262" cy="284" r="3"/>
-    <circle cx="168" cy="318" r="3"/><circle cx="232" cy="318" r="3"/><circle cx="200" cy="338" r="3"/>
-  </g>
-
-  <!-- WEARING CHAIN + BAIL: compact black charm with clear hanging hardware -->
-  <path d="M200 44 L200 86" stroke="url(#avCord)" stroke-width="2.2"/>
-  <circle cx="200" cy="42" r="6" fill="#2a2a30" stroke="#8a8f98" stroke-width="1.6"/>
-  <circle cx="200" cy="42" r="2.4" fill="#8a8f98"/>
-  <path d="M200 86 L200 96" stroke="#8a8f98" stroke-width="2"/>
-  <circle cx="200" cy="98" r="5" fill="none" stroke="#8a8f98" stroke-width="1.8"/>
-
-  <!-- Downward-triangular verdict pendant (compact, symmetrical, physical) -->
-  <g>
-    <path d="M200 106 L272 224 Q200 272 128 224 Z" fill="url(#avPlate)" stroke="#8a8f98" stroke-width="2.4"/>
-    <path d="M200 110 L267 221 L200 265 L133 221 Z" fill="#22222a" opacity=".45"/>
-    <!-- closed eye crown -->
-    <path d="M176 146 Q190 136 204 146 Q190 156 176 146 Z" fill="#0a0a0c" stroke="#a9aeb6" stroke-width="1.3"/>
-    <path d="M190 146 L190 154" stroke="#a9aeb6" stroke-width="1"/>
-    <!-- scale left -->
-    <path d="M166 182 L166 218" stroke="#a9aeb6" stroke-width="1.8"/>
-    <path d="M154 190 Q166 183 178 190" fill="none" stroke="#a9aeb6" stroke-width="1.4"/>
-    <path d="M154 190 L154 206 Q166 213 178 206 L178 190" fill="none" stroke="#a9aeb6" stroke-width="1.2"/>
-    <path d="M162 208 Q166 205 170 208" stroke="#a9aeb6" stroke-width="1" opacity=".7"/>
-    <!-- folded wing right -->
-    <path d="M234 184 Q244 170 258 178 Q248 190 244 206 Z" fill="none" stroke="#a9aeb6" stroke-width="1.5"/>
-    <path d="M240 194 Q248 190 254 198 M246 210 Q254 206 260 214" fill="none" stroke="#a9aeb6" stroke-width="1" opacity=".8"/>
-    <!-- heavy on self-excuse -->
-    <path d="M206 232 Q200 246 194 232" fill="none" stroke="#a9aeb6" stroke-width="1.4" opacity=".7"/>
-    <circle cx="200" cy="240" r="4.4" fill="#a9aeb6" opacity=".7"/>
-  </g>
-
+  <!-- Absolute Verdict: compact downward-triangular charm on cord + bail -->
+  <path d="M200 84 L200 120" stroke="#e2e8f0" stroke-width="2.4"/>
+  <circle cx="200" cy="80" r="10" fill="#1e293b" stroke="#f1df76" stroke-width="2"/>
+  <!-- plate -->
+  <path d="M200 132 L272 232 Q200 286 128 232 Z" fill="#1e293b" stroke="#e2e8f0" stroke-width="3"/>
+  <path d="M200 136 L196 144 L200 146 L204 144 Z" fill="none" stroke="#94a3b8" stroke-width="1.6"/>
+  <!-- geometric glyphs -->
+  <path d="M176 190 L188 190 L182 202 Z" fill="none" stroke="#94a3b8" stroke-width="1.6"/>
+  <rect x="210" y="186" width="20" height="14" fill="none" stroke="#94a3b8" stroke-width="1.6"/>
+  <path d="M204 226 L196 238 M212 226 L204 238" stroke="#94a3b8" stroke-width="1.4"/>
   <!-- shadow halo -->
-  <circle cx="200" cy="200" r="72" fill="none" stroke="#8a8f98" stroke-width=".8" opacity=".35" filter="url(#avGlow)"/>
-
-  <!-- sentence pressure -->
-  <path d="M150 322 L250 322 M164 334 L236 334" stroke="#565660" stroke-width="1.2" opacity=".4"/>
-
-  <rect width="400" height="400" fill="url(#avVign)"/>
+  <circle cx="200" cy="210" r="66" fill="none" stroke="#94a3b8" stroke-width=".8" opacity=".4"/>
 </svg>

@@ -1,87 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FORGOTTEN LENS">
   <defs>
-    <radialGradient id="flVign" cx=".5" cy=".42" r=".8">
-      <stop offset="0" stop-color="#20344e" stop-opacity="0"/>
-      <stop offset=".7" stop-color="#17263b" stop-opacity=".34"/>
-      <stop offset="1" stop-color="#0b1522" stop-opacity=".9"/>
+    <radialGradient id="bw009" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#082f49"/>
+      <stop offset="100%" stop-color="#020617"/>
     </radialGradient>
-    <linearGradient id="flBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#3a5070"/>
-      <stop offset=".5" stop-color="#24374f"/>
-      <stop offset="1" stop-color="#101b2a"/>
-    </linearGradient>
-    <linearGradient id="flBlade" x1="0" y1="0" x2="1" y2=".2">
-      <stop offset="0" stop-color="#ffffff" stop-opacity=".96"/>
-      <stop offset=".5" stop-color="#dbe4e9" stop-opacity=".9"/>
-      <stop offset="1" stop-color="#b2c4d1" stop-opacity=".94"/>
-    </linearGradient>
-    <linearGradient id="flGrip" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#1a2a40"/>
-      <stop offset=".5" stop-color="#48627f"/>
-      <stop offset="1" stop-color="#1a2a40"/>
-    </linearGradient>
-    <filter id="flGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="3"/>
-    </filter>
+    <radialGradient id="gw009" cx="50%" cy="46%" r="46%">
+      <stop offset="0%" stop-color="#67e8f9" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
   </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw009)" stroke="#67e8f9" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gw009)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#020617" stroke="#67e8f9" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#67e8f9" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <rect width="400" height="400" fill="url(#flBg)"/>
-
-  <!-- Weaver threads (subtle) -->
-  <g stroke="#3a5070" stroke-width="1.2" opacity=".45">
-    <line x1="64" y1="48" x2="64" y2="326"/><line x1="120" y1="48" x2="120" y2="326"/>
-    <line x1="280" y1="48" x2="280" y2="326"/><line x1="336" y1="48" x2="336" y2="326"/>
-  </g>
-
-  <!-- Loom-shuttle lens blade -->
-  <g transform="rotate(-14 200 200)">
-    <path d="M70 192 L124 158 L312 158 L366 192 L312 226 L124 226 Z"
-          fill="url(#flBlade)" stroke="#cfe0ea" stroke-width="2.6"/>
-    <path d="M124 158 L312 158" stroke="#ffffff" stroke-width="3"/>
-    <path d="M124 226 L312 226" stroke="#b2c4d1" stroke-width="1.2" opacity=".7"/>
-  </g>
-
-  <!-- HANDLE: dark grip rail + eyelet at the tail (clear hand-hold) -->
-  <g transform="rotate(-14 200 200)">
-    <rect x="92" y="180" width="22" height="24" rx="7" fill="#1a2a40" stroke="#cfe0ea" stroke-width="1.6"/>
-    <path d="M96 186 L108 186 M96 192 L108 192 M96 198 L108 198" stroke="#48627f" stroke-width="1.2" opacity=".8"/>
-    <circle cx="92" cy="192" r="9" fill="#48627f" stroke="#cfe0ea" stroke-width="1.6"/>
-    <circle cx="92" cy="192" r="4" fill="#ffffff"/>
-    <path d="M70 192 L82 192" stroke="#cfe0ea" stroke-width="2"/>
-  </g>
-
-  <!-- Fragmented face -->
-  <g opacity=".8">
-    <ellipse cx="222" cy="192" rx="28" ry="34" fill="#ffffff" stroke="#b2c4d1" stroke-width="1.2"/>
-    <path d="M208 182 Q210 170 220 170 Q222 180 216 184" fill="none" stroke="#b2c4d1" stroke-width="1.2"/>
-    <path d="M234 182 Q232 170 224 170 Q222 180 226 184" fill="none" stroke="#b2c4d1" stroke-width="1.2"/>
-    <path d="M214 206 Q220 210 226 206" fill="none" stroke="#b2c4d1" stroke-width="1.2"/>
-  </g>
-  <g stroke="#8ba2b8" stroke-width="1" opacity=".7">
-    <line x1="196" y1="148" x2="212" y2="164"/><line x1="252" y1="150" x2="234" y2="164"/>
-    <line x1="200" y1="218" x2="216" y2="206"/><line x1="250" y1="218" x2="232" y2="208"/>
-  </g>
-
-  <!-- Thread through eyelet then sever -->
-  <path d="M36 168 Q66 170 92 192 L108 216 L152 264" fill="none" stroke="#8ba2b8" stroke-width="2.2" opacity=".85"/>
-  <path d="M36 168 L36 150" stroke="#8ba2b8" stroke-width="1.6" opacity=".7"/>
-  <path d="M108 216 Q124 224 136 244 M108 216 Q120 216 134 240" fill="none" stroke="#8ba2b8" stroke-width="1.6" opacity=".8"/>
-  <circle cx="248" cy="268" r="4.6" fill="#ffffff" filter="url(#flGlow)"/>
-
-  <!-- Unwoven return -->
-  <path d="M286 264 Q324 254 360 260" fill="none" stroke="#8ba2b8" stroke-width="1.8" opacity=".7"/>
-
-  <!-- small nameless memories -->
-  <g fill="#ffffff" opacity=".7" filter="url(#flGlow)">
-    <circle cx="166" cy="192" r="2.6"/><circle cx="190" cy="184" r="2.6"/><circle cx="162" cy="212" r="2.2"/>
-  </g>
-
-  <!-- Returned song -->
-  <g fill="none" stroke="#6f89a3" stroke-width="1.4" opacity=".6">
-    <path d="M116 322 q8 -18 16 0 q8 18 16 0"/>
-    <path d="M134 328 q8 -18 16 0 q8 18 16 0"/>
-    <path d="M152 334 q8 -18 16 0 q8 18 16 0"/>
-  </g>
-
-  <rect width="400" height="400" fill="url(#flVign)"/>
+  <!-- Forgotten Lens: elongated loom-shuttle lens, hard-edged, with tail grip -->
+  <path d="M96 214 L296 118 L318 168 L288 214 L96 268 Z" fill="#0c4a6e" stroke="#a5f3fc" stroke-width="3"/>
+  <path d="M286 142 L110 244" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
+  <path d="M300 172 L110 262" stroke="#a5f3fc" stroke-width="1.2" opacity=".8"/>
+  <!-- eyelet -->
+  <circle cx="108" cy="238" r="12" fill="#082f49" stroke="#a5f3fc" stroke-width="2.4"/>
+  <circle cx="108" cy="238" r="4" fill="#e0f2fe"/>
+  <!-- tail grip rail -->
+  <path d="M118 240 L150 252 L144 266 L112 254 Z" fill="#082f49" stroke="#a5f3fc" stroke-width="2.4"/>
+  <path d="M120 246 L146 256" stroke="#a5f3fc" stroke-width="1.2"/>
 </svg>

@@ -1,72 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LISTENING STONE">
   <defs>
-    <linearGradient id="lsBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#123a5f"/>
-      <stop offset=".5" stop-color="#0a2440"/>
-      <stop offset="1" stop-color="#040d1c"/>
-    </linearGradient>
-    <radialGradient id="lsVign" cx=".5" cy=".42" r=".8">
-      <stop offset="0" stop-color="#0e2c4d" stop-opacity="0"/>
-      <stop offset=".7" stop-color="#08203a" stop-opacity=".36"/>
-      <stop offset="1" stop-color="#020810" stop-opacity=".9"/>
+    <radialGradient id="bg011" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <linearGradient id="lsStone" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#5aa0d8"/>
-      <stop offset=".5" stop-color="#3f8fd0"/>
-      <stop offset="1" stop-color="#2a6ba2"/>
-    </linearGradient>
-    <radialGradient id="lsWarm" cx=".5" cy=".5" r=".6">
-      <stop offset="0" stop-color="#c8e6ff" stop-opacity=".95"/>
-      <stop offset="1" stop-color="#3f8fd0" stop-opacity=".4"/>
+    <radialGradient id="g0011" cx="50%" cy="46%" r="46%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".24"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="lsCord" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#8fc9f2"/>
-      <stop offset="1" stop-color="#1f5188"/>
-    </linearGradient>
-    <filter id="lsGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="4"/>
-    </filter>
   </defs>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg011)" stroke="#38bdf8" stroke-width="2.4"/>
+  <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#g0011)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
 
-  <rect width="400" height="400" fill="url(#lsBg)"/>
-
-  <!-- Old wall (subtle) -->
-  <path d="M40 40 L360 40 L360 360 L40 360 Z" fill="#0d2a50" stroke="#2a6ba2" stroke-width="1.2"/>
-  <g stroke="#1f5188" stroke-width="1" opacity=".65">
-    <line x1="64" y1="70" x2="300" y2="70"/><line x1="64" y1="100" x2="220" y2="100"/>
-    <line x1="64" y1="150" x2="320" y2="150"/><line x1="64" y1="210" x2="290" y2="210"/>
-  </g>
-  <path d="M228 150 Q250 212 226 274" fill="none" stroke="#9fd8ff" stroke-width="1.2" opacity=".6" stroke-dasharray="3 3"/>
-  <circle cx="238" cy="208" r="7" fill="#9fd8ff" opacity=".7" filter="url(#lsGlow)"/>
-
-  <!-- WEARING CORD + LOOP: clear way to carry the stone -->
-  <path d="M200 34 Q200 50 168 62 Q140 76 134 104" fill="none" stroke="url(#lsCord)" stroke-width="2.2" opacity=".9"/>
-  <circle cx="200" cy="32" r="6" fill="#0a2440" stroke="#8fc9f2" stroke-width="1.4"/>
-  <circle cx="200" cy="32" r="2.4" fill="#8fc9f2"/>
-
-  <!-- Flat face stone pressed to wall -->
-  <g transform="rotate(-8 148 210)">
-    <ellipse cx="148" cy="210" rx="38" ry="42" fill="#123a5f" stroke="#3f8fd0" stroke-width="1.4"/>
-    <ellipse cx="148" cy="210" rx="29" ry="33" fill="url(#lsStone)" stroke="#9fd8ff" stroke-width="2"/>
-    <circle cx="148" cy="210" r="9" fill="url(#lsWarm)" filter="url(#lsGlow)"/>
-  </g>
-  <!-- carrying ring at the stone's top -->
-  <circle cx="148" cy="170" r="5" fill="#0a2440" stroke="#8fc9f2" stroke-width="1.4"/>
-
-  <!-- Warm point -->
-  <circle cx="224" cy="196" r="6" fill="#c8e6ff" opacity=".9" filter="url(#lsGlow)"/>
-  <circle cx="224" cy="196" r="14" fill="#c8e6ff" opacity=".2"/>
-
-  <!-- sentence rising -->
-  <g transform="rotate(-4 300 128)">
-    <rect x="246" y="114" width="112" height="28" rx="4" fill="#0d2a50" stroke="#3f8fd0" stroke-width="1"/>
-    <path d="M258 124 L348 124 M258 132 L322 132" stroke="#9fd8ff" stroke-width="1" opacity=".8"/>
-  </g>
-  <path d="M300 142 L266 190" stroke="#8fc9f2" stroke-width="1.2" opacity=".7"/>
-
-  <!-- warning -->
-  <path d="M296 322 Q200 352 104 322" fill="none" stroke="#3f8fd0" stroke-width="1.2" opacity=".5"/>
-  <path d="M296 322 L284 314 M104 322 L116 314" fill="none" stroke="#3f8fd0" stroke-width="1.4" opacity=".6"/>
-
-  <rect width="400" height="400" fill="url(#lsVign)"/>
+  <!-- Listening Stone: flat-faced smooth pebble pendant with warm spark + sentence card -->
+  <path d="M200 74 L200 130" stroke="#7dd3fc" stroke-width="2.4"/>
+  <circle cx="200" cy="70" r="10" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
+  <!-- stone -->
+  <ellipse cx="200" cy="204" rx="90" ry="74" fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
+  <path d="M150 180 L250 180 M140 236 L260 236" stroke="#38bdf8" stroke-width="1" opacity=".5"/>
+  <!-- warm point -->
+  <circle cx="238" cy="176" r="8" fill="#f1df76"/>
+  <circle cx="238" cy="176" r="16" fill="none" stroke="#f1df76" stroke-width="1" opacity=".6"/>
+  <!-- sentence card -->
+  <rect x="150" y="286" width="100" height="18" rx="2" fill="#082f49" stroke="#7dd3fc" stroke-width="1.4"/>
+  <path d="M158 295 L196 295 M204 295 L242 295" stroke="#7dd3fc" stroke-width="1" opacity=".8"/>
+  <!-- carrying loop + ring -->
+  <path d="M290 148 L290 200 M110 148 L110 200" stroke="#7dd3fc" stroke-width="1.6" opacity=".6"/>
+  <circle cx="290" cy="206" r="6" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <circle cx="110" cy="206" r="6" fill="none" stroke="#f1df76" stroke-width="1.6"/>
 </svg>
