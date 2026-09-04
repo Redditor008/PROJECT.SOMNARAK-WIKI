@@ -52,7 +52,11 @@
 
 ## EFFECT FILE
 
-### Passive effect — *Question Weight*
+### Appearance
+
+The Burning Page is a small folio charm of pale Han glass shaped like a single folded sheet, its face blank and its edge bound with a thin red thread. It hangs from a short cord and rests flat against the bearer's chest, cold and silent. When an authorized reader opens the Page in front of a named archive witness and consequence recipient, the blank face fills with one truth hidden by the city, then burns after the reader understands it. The glass is never polished or copied, and after reading it cannot be restored, repaired, or used a second time. A reader who seeks a weaponized answer sees only an unlit margin; if they force heat into it, the Page returns the question as a record of their own concealed motive. The folio is kept in a blank-state case beside its authorization record, and it is checked for heat rather than polished or copied.
+
+### Passive effect— *Question Weight*
 
 The Page grows warm when an authorized question has an actual preservation purpose. It does not determine whether the reader will like the answer.
 

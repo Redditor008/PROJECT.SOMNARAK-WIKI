@@ -115,10 +115,15 @@ Status: **done**. Same 36-record + 36-page procedure. All records originally had
 ### Files touched (Batch 2)
 Registry dirs: `Registry_016_to_031/025_*`, `Registry_043_to_055/{031..044,048,051,054}*` sets (SE-xxx-B/C/D `.md`), plus the matching `docs/maw/maw-<code>-...html` pages.
 
-## 7. Snapshot of this log's creation
+## 7. Batch 3 (sets 055, 061, 062, 063, 071, 073, 077, 081, 088, 091, 092, 099)
+
+Status: **done**. All 36 records had no Appearance section; inserted `### Appearance` into each `.md` (154–168 words) and synced to `.html` (12 replaced, 24 inserted — the Weapon pages had no Appearance heading). md↔html parity 36/36. No SVGs touched. Same gotchas from batch 2 applied (inserted `###` headers restored; word counts measured correctly after header fix; supplements added to reach 150+).
+
+## 8. Snapshot of this log's creation
 
 - Log created: session while on branch `arena/01a06714-project-somnarak-wiki`, after the first 12-set batch (and its html sync) was committed and pushed.
 - Worktree at creation: clean except `_batch_previews/` (scratch, untracked).
 - Latest remote commit at creation: `b93d520`.
 - Batch 1 commits: `019d5e7` (weapons + archetype catalog), `5c9e5d0` (`.md` appearance), `b93d520` (`.html` appearance sync).
-- Batch 2 commits: added after this log's creation (see `git log --oneline -N` for `MAW batch (2): ...`).
+- Batch 2 commits: `cb8a687` (36 `.md` + 36 `.html` for sets 025–054 + this log).
+- Batch 3 commits: added after this log's update (see `git log --oneline -N` for `MAW batch (3): ...`).

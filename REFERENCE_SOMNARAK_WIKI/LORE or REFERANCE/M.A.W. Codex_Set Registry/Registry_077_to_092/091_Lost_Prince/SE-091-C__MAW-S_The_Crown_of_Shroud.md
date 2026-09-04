@@ -54,7 +54,11 @@ The Shroud formed from the second tear the Prince gave after a work session ende
 
 ## PROTECTIVE FILE
 
-### Passive effect — *Stayed With*
+### Appearance
+
+The Crown of Shroud is a deep-blue shroud of soft Han silk cut close to the shoulders, with a collar that fastens at the throat and a hem that falls to the waist. The collar is the only stiff part of the garment and stays cool during an open presence, growing warm when a handover is acknowledged. The fabric lowers direct Lament harm while the wearer is openly present with another person, and it does not grant ownership of that person or punish them for leaving. When a departure, relief, and protected person all acknowledge the transfer, a soft blue layer remains around the group during the transition. A cold rigid collar means the shroud is trying to convert companionship into obligation, and the relief person unknots it before the wearer leaves. The shroud is folded with its collar loose between assignments, and the departure and arrival notes are tucked into the sleeve until the next inspection.
+
+### Passive effect— *Stayed With*
 
 The Shroud reduces direct Lament harm when the wearer is openly present with another person. It does not grant ownership of that person or punish them for leaving.
 

@@ -54,7 +54,11 @@
 
 ## COMBAT FILE
 
-### Basic attack — *Mercy’s Edge*
+### Appearance
+
+The Hollow Lens is a pale Han-glass disc, slightly concave, set into a black frame with a short handle and a white-lined case. Its face looks empty in ordinary light and warms only when the bearer has completed a pre-use identity baseline with a witness. The Lens releases a pale piercing line that interrupts a pull on identity long enough for a target to speak, choose, or retreat, but it cannot cure the grief beneath the pressure. A thin directional seam marks where the line will go, and it bends toward the user if the bearer tries to make another person easier to manage. The glass is kept face-down in its case after use, and a dissolvable strip carrying the bearer's chosen intention rests under the lid. The lens is returned to its white-lined case face-down, and the dissolvable strip is inspected before the next session is permitted. The seam is aligned with the witness before the line is released.
+
+### Basic attack— *Mercy’s Edge*
 
 The Lens releases a pale piercing line that strikes active Void pressure around a target. It can interrupt a pull on identity long enough for the target to speak, choose, or retreat; it cannot cure the grief beneath the pressure.
 

@@ -21,7 +21,11 @@
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Rejector source record |
 
-### Ability — No Further
+### Appearance
+
+The Denial Shield is a small shield pendant of pale grey Han glass, shaped like a rounded buckle with a raised rim and a short black loop for a cord. It is light and cold and rests flat against the bearer's chest. Once per encounter it rejects one incoming direct attack, mark, or forced movement effect, and the rim glows briefly at the moment of refusal. For the same short interval it also rejects healing, rescue pull, and emotional support, so the bearer cannot accept help until someone offers it again after the effect ends. The glass turns a shade paler after each use and slowly returns to grey. Its protection is absolute for one instant and its refusal is equally absolute, which is why rescue teams keep a second offer ready. The shield is stored on a grey cloth, and a second offer of aid is always carried by the rescue team so the bearer is not left waiting alone.
+
+### Ability— No Further
 
 Once per encounter, the Gift rejects one incoming direct attack, mark, or forced movement effect.
 

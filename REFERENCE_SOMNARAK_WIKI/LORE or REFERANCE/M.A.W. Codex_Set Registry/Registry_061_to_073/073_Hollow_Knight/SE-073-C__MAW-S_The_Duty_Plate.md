@@ -26,7 +26,11 @@
 | Maximum Amount | 3 — Standard |
 | Echo Cost | 35 Sorrow Echoes |
 
-### Ability — Stand the Watch
+### Appearance
+
+The Duty Plate is a heavy dark harness of overlapping Han-iron plates fitted across the chest, shoulders, and upper arms with narrow black straps. Between the plates run shallow ridges that catch light only while the bearer remains on a declared post, route, or protected threshold. The inner lining is smooth and cool and the outer metal is unpolished, with a single square buckle that cannot be released from the front. The armor strengthens defense on post and loses strength when the bearer moves without formal relief. It cannot recognize when a mission has quietly become meaningless, so a bearer may protect an abandoned station long after the order was cancelled. The plates dull the reflexes toward retreat and rest, making duty easier to feel than personal need. The plate is stored with the buckle facing the wall, and the crossed straps are checked before every watch so the wearer knows the post can end.
+
+### Ability— Stand the Watch
 
 The Plate strengthens defense while the bearer remains on a declared post, route, or protected threshold.
 

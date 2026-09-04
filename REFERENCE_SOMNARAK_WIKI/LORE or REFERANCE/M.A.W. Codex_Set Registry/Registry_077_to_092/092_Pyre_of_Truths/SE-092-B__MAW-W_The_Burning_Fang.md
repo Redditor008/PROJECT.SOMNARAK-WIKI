@@ -54,7 +54,11 @@
 
 ## COMBAT FILE
 
-### Basic attack — *Margin Cut*
+### Appearance
+
+The Burning Fang is a slim crimson blade of Han iron with a narrow spine and a broad, slightly curved edge, its surface unpolished and flecked with dark red. A single page-mark sits near the guard and turns from pale grey to black when the bearer is about to suppress testimony rather than preserve it. The grip is wrapped in dark cord over a ridged core, and the pommel is a small closed book form. The Fang launches a crimson Pierce line that strikes body and structure with Grudge output, exposing the suppressive act driving the target's aggression. Where it lands, the red line glows along the spine and then fades. A bearer who draws it to erase a record finds the page-mark turn black and the next strike landing as Grudge backlash on their own old injuries. The fang is kept with its page-mark grey, and a preservation observer witnesses the recording of the task before the blade is drawn again.
+
+### Basic attack— *Margin Cut*
 
 The Fang launches a crimson Pierce line that strikes body and structure with Grudge output. Where it lands, the target experiences a brief exposure of the suppressive act currently driving their aggression.
 

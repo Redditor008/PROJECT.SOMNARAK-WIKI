@@ -20,7 +20,11 @@
 | Maximum Amount | 5 — Abundant |
 | Echo Cost | 15 Sorrow Echoes |
 
-### Ability — Gentle Cut
+### Appearance
+
+The Gentle Requiem is a long, short-waisted blade of pale-blue Han crystal with a rounded, almost blunt edge that never looks ready to cut. A single seam runs along the flat from the collar to the point, and the seam carries a soft blue light that can be turned toward healing or harm. The grip is long and wrapped in pale cord over a ridged core, with a small round guard and an open pommel ring. The bearer must declare which function is intended before contact: the weapon will deliver minor Lament pressure or draw a small amount of pain from a willing target, but it cannot heal without taking some emotional pressure into its bearer, and it cannot harm without awakening the source's grief. The blade stays cool until a function is named. The blade is wiped with cool water after each use, and a small record of which function was chosen is filed before the weapon is sheathed.
+
+### Ability— Gentle Cut
 
 The Requiem may deliver minor Lament pressure or draw a small amount of pain from a willing target. The bearer must declare which function is intended before contact.
 

@@ -21,7 +21,11 @@
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Debtor source record |
 
-### Ability — Take a Link
+### Appearance
+
+The Burden Chain is a short black charm chain of Han-iron links, each link slightly different in size and worn across the chest or wrist on a thin black cord. It is small enough to be looped through a belt and cold to the touch. When the bearer accepts a willing ally's burden, one link glows a dull grey and the chain settles against the skin, carrying the immediate Weight pressure that had been forcing the ally down. The Chain cannot be removed while the accepted burden remains unacknowledged, and it transfers care rather than ownership. After use the bearer feels the ally's exhaustion along with the specific reason the ally had been carrying it, and the grey link cools only once that burden is named or handed on. The chain is kept on a black cord, and a link that has carried once stays slightly warmer than the others for the rest of the day.
+
+### Ability— Take a Link
 
 The bearer may accept one willing ally’s current burden for a short period, reducing the ally’s immediate Weight pressure.
 

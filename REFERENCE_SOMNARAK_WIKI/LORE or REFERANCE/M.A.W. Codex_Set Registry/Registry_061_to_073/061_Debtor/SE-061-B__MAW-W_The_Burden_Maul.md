@@ -21,7 +21,11 @@
 | Maximum Amount | 3 — Standard |
 | Echo Cost | 40 Sorrow Echoes |
 
-### Ability — Shared Load
+### Appearance
+
+The Burden Maul is a broad black two-hand maul of dense Han iron, its head cut into a wide shallow bowl so that the striking face looks less like a hammer than like a container. A narrow rim of pale metal runs around the opening, and the bowl itself is unpolished and cold. The haft is long, ribbed, and wrapped in black Han-grip, ending in a squared pommel marked by a single grey dot. When the bearer uses it, the bowl seems to receive a portion of measured Weight, and the rim glows faintly along the side nearest the target. The Maul transfers burden through the strike line and distributes it across hostile barriers or willing allied carriers. A burden cannot be given to someone who has not agreed to carry it, and a forced transfer returns doubled. The maul is stored with its bowl turned upward, and a faint grey film remains at the rim after each transfer of load.
+
+### Ability— Shared Load
 
 The Maul transfers a portion of one bearer’s measured Weight pressure through a strike line and distributes it across hostile barriers or willing allied carriers.
 

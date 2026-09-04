@@ -51,7 +51,11 @@
 
 ## EFFECT FILE
 
-### Passive effect — *Empty Cup*
+### Appearance
+
+The Hollow Chalice is a small cup of pale grey Han glass, short and wide, with a rounded band of darkened metal around its rim and a fitted lid. It hangs from a head slot by a thin cord and rests cold against the bearer. Inside, the cup is empty and smooth, with no marking; when a willing person names a specific grief and the bearer repeats whose grief it is, the chalice draws the immediate emotional intensity from that one sorrow and gives the person enough calm to choose a next action. It does not store the removed feeling, and it cannot take trauma histories, memories, identity, or another person's pain by proxy. After use the cup stays covered until a welfare review records what the sorrow still matters for, rather than confirming that it has been removed. The chalice is kept covered and upright after use, and the band is checked for ash marks before it is offered to another willing person.
+
+### Passive effect— *Empty Cup*
 
 The Chalice identifies whether a stated sorrow has a clear owner and name. It does not validate a demand to remove it.
 

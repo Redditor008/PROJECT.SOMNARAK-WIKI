@@ -21,7 +21,11 @@
 | Maximum Amount | 3 — Standard |
 | Echo Cost | 40 Sorrow Echoes |
 
-### Ability — Unpaid Anger
+### Appearance
+
+The Resentment Fang is a broad crimson blade of Han iron, curved forward like a thick hook with a back edge thick enough to rest a thumb against. A line of darker red runs along the curve and stays hidden until the bearer documents the target relationship and the chain of imposed obligation. The grip is black and wrapped with a deep finger notch, and the pommel is a small squared block that warms as the Fang prepares to strike. In ordinary use the weapon is cold and dull; once the obligation chain is recorded, the red line brightens and the whole blade seems to lean toward the people or structures enforcing the debt. It cannot distinguish a responsible person from a person trapped in the same system, and it spares those it is not told to strike. The fang is never stored with the red line visible, and it is wiped with a dry cloth before the named obligation is recorded.
+
+### Ability— Unpaid Anger
 
 The Fang follows a documented chain of imposed obligation and strikes through the people or structures enforcing it.
 

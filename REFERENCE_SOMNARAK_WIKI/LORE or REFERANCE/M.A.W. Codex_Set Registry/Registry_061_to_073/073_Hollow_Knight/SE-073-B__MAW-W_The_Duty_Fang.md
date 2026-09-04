@@ -21,7 +21,11 @@
 | Maximum Amount | 3 — Standard |
 | Echo Cost | 40 Sorrow Echoes |
 
-### Ability — Ordered Strike
+### Appearance
+
+The Duty Fang is a broad, straight crimson blade of Han iron with a squared guard and a flat spine, its edge thick and unpolished. A short black inscription runs along the spine and glows only when the bearer states the protective task and the person it protects. The grip is long enough for two hands and wrapped in black cord over a ridged core, and the pommel is an open ring worn smooth. In ordinary use the Fang is cold and plain; under a clear protective task it takes on a red sheen and follows a line toward the defined threat. It weakens if the bearer cannot say whom the task protects, and after the threat is gone it turns every following impact into self-inflicted old-wound pain until a trusted person gives a formal relief. The fang is sheathed only after a formal relief, and the black inscription along the spine returns to grey the moment the task is declared complete.
+
+### Ability— Ordered Strike
 
 The Fang gains structure when used under a clear protective task. It follows a line toward the defined threat and weakens if the bearer cannot state whom the task protects.
 
