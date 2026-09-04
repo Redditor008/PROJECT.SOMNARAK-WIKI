@@ -1,28 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DEBT MAUL">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // MAUL -->
   <defs>
-    <radialGradient id="bgecd33a" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw019" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#0c0a09"/>
+      <stop offset="100%" stop-color="#030405"/>
     </radialGradient>
-    <radialGradient id="glecd33a" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
+    <radialGradient id="gw019" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#94a3b8" stop-opacity=".18"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="head019" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3f4a5a"/>
+      <stop offset="1" stop-color="#1b222b"/>
+    </linearGradient>
+    <filter id="f019" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgecd33a)" stroke="#c9a86a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw019)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="120" fill="url(#glecd33a)"/>
-  <g transform="rotate(8 200.0 192.0)">
-<rect x="146.0" y="154.0" width="108.0" height="76.0" rx="7" fill="#c9a86a" fill-opacity=".24" stroke="#c9a86a" stroke-width="3.5"/>
-<path d="M167.6 165.4 L232.4 165.4" stroke="#e0f2fe" stroke-width="1.3" opacity=".7"/>
-<circle cx="200.0" cy="192.0" r="10.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
-<rect x="194.0" y="230.0" width="12" height="112.0" rx="4" fill="#1f2937" stroke="#c9a86a" stroke-width="2"/>
-<circle cx="200.0" cy="352.0" r="7" fill="#c9a86a" fill-opacity=".55"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gw019)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#040506" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- inherited chain marks -->
+  <g fill="none" stroke="#1f2937" stroke-width="1.4" opacity=".6">
+    <path d="M76 116 L76 172 M76 172 L108 172 M108 172 L108 128"/>
+    <path d="M298 272 L298 316 M298 316 L266 316 M266 316 L266 276"/>
   </g>
-  <g transform="rotate(5 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#c9a86a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".45"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-W-019-01</text>
+  <circle cx="76" cy="116" r="4" fill="#94a3b8" opacity=".5"/>
+  <circle cx="298" cy="272" r="4" fill="#94a3b8" opacity=".5"/>
+
+  <!-- Debt Maul: broad black Han-steel head, family-link bindings -->
+  <path d="M112 118 L288 118 L292 160 L278 176 L292 216 L282 240 Q200 254 118 240 L108 216 L122 176 L108 160 Z"
+        fill="url(#head019)" stroke="#94a3b8" stroke-width="3"/>
+  <path d="M112 118 L288 118" stroke="#cbd5e1" stroke-width="1.6" opacity=".8"/>
+  <path d="M120 150 L280 150 M116 216 L284 216" stroke="#1b222b" stroke-width="1.4" opacity=".7"/>
+  <!-- family-link bindings around the head -->
+  <path d="M132 132 L268 132 M140 196 L260 196 M150 172 L250 172" stroke="#64748b" stroke-width="2.4"/>
+  <path d="M132 132 L150 172 M268 132 L250 172 M140 196 L150 172 M260 196 L250 172" stroke="#64748b" stroke-width="1.2" opacity=".6"/>
+  <circle cx="200" cy="196" r="7" fill="#0c0a09" stroke="#f1df76" stroke-width="1.6"/>
+  <circle cx="200" cy="196" r="3" fill="#f1df76"/>
+
+  <!-- haft -->
+  <path d="M186 240 L214 240 L210 254 L190 254 Z" fill="#1b222b" stroke="#94a3b8" stroke-width="1.6"/>
+  <rect x="190" y="254" width="20" height="90" rx="6" fill="#1b222b" stroke="#94a3b8" stroke-width="2.4"/>
+  <path d="M192 268 L208 276 M192 286 L208 294 M192 304 L208 312 M192 322 L208 330" stroke="#64748b" stroke-width="1.4"/>
+  <path d="M184 344 L216 344 L214 364 L186 364 Z" fill="#1b222b" stroke="#94a3b8" stroke-width="2"/>
+  <circle cx="200" cy="354" r="5" fill="#f1df76"/>
+  <circle cx="200" cy="376" r="5" fill="#94a3b8" opacity=".6" filter="url(#f019)"/>
 </svg>

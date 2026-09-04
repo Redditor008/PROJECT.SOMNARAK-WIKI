@@ -1,40 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BALANCE VEIL">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- SUIT // BALANCE VEIL -->
   <defs>
-    <radialGradient id="bg2bbddd" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bs015" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gl2bbddd" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
+    <radialGradient id="gs015" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#e2e8f0" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="veil015" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#64748b"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg2bbddd)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bs015)" stroke="#e2e8f0" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="115" fill="url(#gl2bbddd)"/>
-  <g transform="rotate(-5 200.0 192.0)">
-<path d="M124.0 129.4 Q200.0 94.6 276.0 129.4 L269.9 245.9 Q200.0 272.0 130.1 245.9 Z" fill="#8a8f98" fill-opacity=".16" stroke="#8a8f98" stroke-width="3"/>
-<path d="M132.0 152.8 Q200.0 166.8 268.0 148.8" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
-<path d="M132.0 172.8 Q200.0 186.8 268.0 168.8" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
-<path d="M132.0 192.8 Q200.0 206.8 268.0 188.8" stroke="#e0f2fe" stroke-width="1" opacity=".45"/>
-<circle cx="200.0" cy="132.8" r="7" fill="#8a8f98" fill-opacity=".65"/>
-  </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 208.0 Q200.0 226.0 264.0 202.0" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".4"/>
-  </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 238.0 Q200.0 256.0 264.0 232.0" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".4"/>
-  </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 268.0 Q200.0 286.0 264.0 262.0" fill="none" stroke="#8a8f98" stroke-width="1.2" opacity=".4"/>
-  </g>
-  <g transform="rotate(-10 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <g transform="rotate(-10 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#8a8f98" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#8a8f98" stroke-width="2" opacity=".45"/>
-  </g>
-  <g transform="rotate(-14 200.0 236.0)" opacity=".9">
-    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-S-015-01</text>
+  <circle cx="200" cy="188" r="132" fill="url(#gs015)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#030712" stroke="#e2e8f0" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#e2e8f0" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">SUIT</text>
+
+  <!-- Balance Veil: hooded account-shell, ledger bands down the body -->
+  <path d="M130 140 Q130 96 200 90 Q270 96 270 140 L278 216 L264 240 L278 270 Q200 304 122 270 L136 240 L122 216 Z"
+        fill="#1f2937" stroke="#e2e8f0" stroke-width="3"/>
+  <!-- hood -->
+  <path d="M156 100 Q200 120 244 100 L240 128 Q200 150 160 128 Z" fill="#0f172a" stroke="#e2e8f0" stroke-width="2"/>
+  <!-- ledger bands (identity entries, not a face) -->
+  <path d="M160 208 L240 208 M156 236 L244 236 M154 264 L246 264" stroke="#94a3b8" stroke-width="1.6" opacity=".9"/>
+  <path d="M168 186 L232 186" stroke="#e2e8f0" stroke-width="1.2" opacity=".6"/>
+  <!-- thin vault slit -->
+  <path d="M182 148 L218 148" stroke="#f8fafc" stroke-width="2"/>
+  <!-- scale that separates account -->
+  <path d="M138 152 L124 176 L152 168" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="138" cy="150" r="4" fill="#f1df76"/>
+  <path d="M262 152 L276 176 L248 168" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="262" cy="150" r="4" fill="#f1df76"/>
+  <!-- shoulder straps -->
+  <path d="M150 108 L150 140 M250 108 L250 140" stroke="#94a3b8" stroke-width="2.4"/>
+  <path d="M158 112 L242 112" stroke="#e2e8f0" stroke-width="2"/>
 </svg>

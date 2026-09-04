@@ -1,24 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LOST COMPASS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- GIFT // COMPASS CHARM -->
   <defs>
-    <radialGradient id="bg995dcf" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bg016" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gl995dcf" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
+    <radialGradient id="g0016" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#e2e8f0" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg995dcf)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg016)" stroke="#e2e8f0" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="120" fill="url(#gl995dcf)"/>
-  <g transform="rotate(-3 200.0 192.0)">
-<path d="M200.0 117.0 L200.0 177.0" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
-<circle cx="200.0" cy="177.0" r="5" fill="#e0f2fe" opacity=".5"/>
-<path d="M165.7 183.2 Q200.0 148.0 234.3 183.2 L225.5 219.3 Q200.0 236.0 174.5 219.3 Z" fill="#8a8f98" fill-opacity=".22" stroke="#8a8f98" stroke-width="3"/>
-<path d="M183.3 200.8 L216.7 200.8" stroke="#e0f2fe" stroke-width="1.2" opacity=".6"/>
+  <circle cx="200" cy="188" r="132" fill="url(#g0016)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#030712" stroke="#e2e8f0" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#e2e8f0" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
+
+  <!-- rejected wrong-way paths -->
+  <g stroke="#94a3b8" stroke-width="1" opacity=".3">
+    <path d="M70 84 L112 84 L112 116 M300 306 L334 306 L334 278"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-G-016-01</text>
+
+  <!-- wearing cord + bail -->
+  <path d="M200 66 L200 112" stroke="#e2e8f0" stroke-width="2.6"/>
+  <circle cx="200" cy="62" r="11" fill="#1f2937" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="62" r="3.4" fill="#f1df76"/>
+
+  <!-- Lost Compass: compass charm, needle refuses the false bearing -->
+  <circle cx="200" cy="200" r="92" fill="#1f2937" stroke="#e2e8f0" stroke-width="3"/>
+  <circle cx="200" cy="200" r="78" fill="#0f172a" stroke="#e2e8f0" stroke-width="1.4"/>
+  <path d="M200 128 L200 272 M122 200 L278 200 M145 145 L255 255 M255 145 L145 255" stroke="#94a3b8" stroke-width="1" opacity=".5"/>
+  <circle cx="200" cy="200" r="14" fill="#f1df76" opacity=".85"/>
+  <circle cx="200" cy="200" r="7" fill="#0f172a"/>
+  <!-- needle rules out one bearing -->
+  <path d="M200 200 L292 156" stroke="#f1df76" stroke-width="4"/>
+  <path d="M200 200 L108 244" stroke="#e2e8f0" stroke-width="2"/>
+  <!-- rejected arc -->
+  <path d="M292 156 L300 176 L282 168" fill="#1f2937" stroke="#ef5b55" stroke-width="2"/>
+  <circle cx="292" cy="156" r="6" fill="#1f2937" stroke="#ef5b55" stroke-width="1.6"/>
+  <!-- rim notch -->
+  <path d="M200 108 L200 128 M274 200 L294 200" stroke="#e2e8f0" stroke-width="2"/>
 </svg>

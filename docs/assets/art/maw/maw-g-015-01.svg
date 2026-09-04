@@ -1,29 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BALANCE PENDANT">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- GIFT // MINIATURE BALANCE BEAM -->
   <defs>
-    <radialGradient id="bg6ddcf6" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bg015" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gl6ddcf6" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
+    <radialGradient id="g0015" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#e2e8f0" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="met015" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#64748b"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg6ddcf6)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg015)" stroke="#e2e8f0" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="115" fill="url(#gl6ddcf6)"/>
-  <g transform="rotate(0 200.0 192.0)">
-<path d="M169.9 107.0 Q200.0 64.0 230.1 107.0" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".7"/>
-<path d="M178.5 150.0 L221.5 150.0" stroke="#e0f2fe" stroke-width="1.4" opacity=".7"/>
-<path d="M173.3 158.6 Q200.0 193.0 226.7 158.6 L218.1 193.0 Q200.0 206.8 181.9 193.0 Z" fill="#8a8f98" fill-opacity=".22" stroke="#8a8f98" stroke-width="3"/>
-  </g>
-  <g transform="rotate(1 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <g transform="rotate(-10 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#8a8f98" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#8a8f98" stroke-width="2" opacity=".45"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-G-015-01</text>
+  <circle cx="200" cy="188" r="132" fill="url(#g0015)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#030712" stroke="#e2e8f0" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#e2e8f0" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
+
+  <!-- burden rings -->
+  <circle cx="200" cy="190" r="96" fill="none" stroke="#e2e8f0" opacity=".2"/>
+  <circle cx="200" cy="190" r="118" fill="none" stroke="#e2e8f0" opacity=".14"/>
+
+  <!-- wearing cord + bail -->
+  <path d="M200 74 L200 122" stroke="#e2e8f0" stroke-width="2.6"/>
+  <circle cx="200" cy="70" r="11" fill="#1f2937" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="70" r="3.4" fill="#f1df76"/>
+
+  <!-- Balance Pendant: miniature balance beam -->
+  <path d="M196 124 L204 124 L204 164 L200 186 L196 164 Z" fill="url(#met015)" stroke="#94a3b8" stroke-width="1.4"/>
+  <circle cx="200" cy="124" r="5" fill="#1f2937" stroke="#e2e8f0" stroke-width="1.4"/>
+  <!-- beam, slightly tipped toward the heavier side -->
+  <path d="M118 164 L282 184" stroke="#e2e8f0" stroke-width="3.4"/>
+  <circle cx="200" cy="174" r="4" fill="#f1df76"/>
+  <!-- left pan low -->
+  <path d="M118 164 L118 214" stroke="#e2e8f0" stroke-width="2"/>
+  <path d="M102 214 L134 214 Q118 224 118 224 Q102 224 102 214 Z" fill="url(#met015)" stroke="#94a3b8" stroke-width="1.6"/>
+  <!-- right pan high -->
+  <path d="M282 184 L282 208" stroke="#e2e8f0" stroke-width="2"/>
+  <path d="M268 208 L296 208 Q282 216 282 216 Q268 216 268 208 Z" fill="url(#met015)" stroke="#94a3b8" stroke-width="1.2"/>
+  <!-- weight bead -->
+  <circle cx="118" cy="236" r="5" fill="#f1df76" opacity=".8"/>
 </svg>

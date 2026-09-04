@@ -1,32 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DEBT CHAIN">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- GIFT // BLACK CHAIN -->
   <defs>
-    <radialGradient id="bg4ce016" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bg019" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#0c0a09"/>
+      <stop offset="100%" stop-color="#030405"/>
     </radialGradient>
-    <radialGradient id="gl4ce016" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
+    <radialGradient id="g0019" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#94a3b8" stop-opacity=".18"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <filter id="f019b" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg4ce016)" stroke="#c9a86a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg019)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="133" fill="url(#gl4ce016)"/>
-  <g transform="rotate(-9 200.0 192.0)">
-<circle cx="176.2" cy="192.0" r="25.2" fill="none" stroke="#c9a86a" stroke-width="5"/>
-<circle cx="223.8" cy="192.0" r="25.2" fill="none" stroke="#c9a86a" stroke-width="5"/>
-<path d="M179.5 174.0 L220.5 174.0" stroke="#e0f2fe" stroke-width="1.2" opacity=".55"/>
+  <circle cx="200" cy="188" r="132" fill="url(#g0019)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#040506" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
+
+  <!-- wearing cord + bail -->
+  <path d="M200 66 L200 104" stroke="#94a3b8" stroke-width="2.6"/>
+  <circle cx="200" cy="62" r="11" fill="#1b222b" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="62" r="3.4" fill="#f1df76"/>
+
+  <!-- Debt Chain: continuous overlapping chain, one link named -->
+  <g fill="#1b222b" stroke="#94a3b8" stroke-width="2.2">
+    <!-- top row -->
+    <ellipse cx="126" cy="146" rx="22" ry="12" transform="rotate(14 126 146)"/>
+    <ellipse cx="172" cy="128" rx="22" ry="12" transform="rotate(-6 172 128)"/>
+    <ellipse cx="222" cy="128" rx="22" ry="12" transform="rotate(6 222 128)"/>
+    <ellipse cx="268" cy="148" rx="22" ry="12" transform="rotate(-12 268 148)"/>
+    <!-- middle row -->
+    <ellipse cx="150" cy="182" rx="22" ry="12" transform="rotate(-10 150 182)"/>
+    <ellipse cx="248" cy="184" rx="22" ry="12" transform="rotate(10 248 184)"/>
   </g>
-  <g transform="rotate(-16 200.0 278.0)">    <circle cx="192.0" cy="264.0" r="5" fill="none" stroke="#c9a86a" stroke-width="1.6" opacity=".45"/>
-  </g>
-  <g transform="rotate(-16 200.0 278.0)">    <circle cx="204.0" cy="264.0" r="5" fill="none" stroke="#c9a86a" stroke-width="1.6" opacity=".45"/>
-  </g>
-  <g transform="rotate(-16 200.0 278.0)">    <circle cx="216.0" cy="264.0" r="5" fill="none" stroke="#c9a86a" stroke-width="1.6" opacity=".45"/>
-  </g>
-  <g transform="rotate(1 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#c9a86a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".45"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-G-019-01</text>
+  <!-- the named named link (glows) -->
+  <ellipse cx="200" cy="180" rx="28" ry="15" transform="rotate(0 200 180)" fill="#0c0a09" stroke="#f1df76" stroke-width="3.4"/>
+  <ellipse cx="200" cy="180" rx="34" ry="21" fill="none" stroke="#f1df76" stroke-width="1" opacity=".5" filter="url(#f019b)"/>
+  <!-- name-plate on the glowing link -->
+  <rect x="174" y="212" width="52" height="18" rx="2" fill="#0c0a09" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M182 221 L218 221" stroke="#f1df76" stroke-width="1.2"/>
+  <!-- continuation off the page -->
+  <path d="M106 158 L76 172 M294 158 L326 172" stroke="#64748b" stroke-width="2.4"/>
+  <circle cx="76" cy="172" r="4" fill="#94a3b8" opacity=".6"/>
+  <circle cx="326" cy="172" r="4" fill="#94a3b8" opacity=".6"/>
 </svg>

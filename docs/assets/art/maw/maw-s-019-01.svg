@@ -1,32 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DEBT MANTLE">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- SUIT // WEIGHT MANTLE -->
   <defs>
-    <radialGradient id="bg04d31d" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bs019" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#0c0a09"/>
+      <stop offset="100%" stop-color="#030405"/>
     </radialGradient>
-    <radialGradient id="gl04d31d" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
+    <radialGradient id="gs019" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#94a3b8" stop-opacity=".18"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg04d31d)" stroke="#c9a86a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bs019)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="112" fill="url(#gl04d31d)"/>
-  <g transform="rotate(-1 200.0 192.0)">
-<path d="M133.0 181.1 L158.5 148.3 L186.0 135.8 L214.0 135.8 L241.5 148.3 L267.0 181.1 L253.6 238.8 L146.4 238.8 Z" fill="#c9a86a" fill-opacity=".18" stroke="#c9a86a" stroke-width="3"/>
-<path d="M142.4 219.3 Q200.0 237.2 257.6 219.3" stroke="#e0f2fe" stroke-width="1.1" opacity=".5"/>
-<circle cx="200.0" cy="142.1" r="5" fill="#c9a86a" fill-opacity=".7"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gs019)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#040506" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">SUIT</text>
+
+  <!-- ancestral debt links -->
+  <g fill="none" stroke="#1f2937" stroke-width="1.4" opacity=".6">
+    <path d="M74 104 L74 156 M74 156 L104 156 M104 156 L104 116"/>
+    <path d="M326 292 L326 340 M326 340 L296 340 M296 340 L296 300"/>
   </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 208.0 Q200.0 226.0 264.0 202.0" fill="none" stroke="#c9a86a" stroke-width="1.2" opacity=".4"/>
+
+  <!-- Debt Mantle: heavy Weight mantle, layered family-ledger plates -->
+  <path d="M116 128 L284 128 L290 200 L278 222 L294 258 Q200 300 106 258 L122 222 L110 200 Z"
+        fill="#1b222b" stroke="#94a3b8" stroke-width="3"/>
+  <path d="M116 128 L284 128" stroke="#cbd5e1" stroke-width="1.6" opacity=".8"/>
+  <path d="M132 176 L268 176 M138 216 L262 216 M130 252 L270 252" stroke="#64748b" stroke-width="1.4" opacity=".8"/>
+  <!-- plate seams -->
+  <path d="M152 144 L152 244 M248 144 L248 244" stroke="#0c0a09" stroke-width="1" opacity=".6"/>
+  <!-- ledger clasps -->
+  <rect x="180" y="190" width="40" height="18" rx="3" fill="#0c0a09" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M188 199 L212 199" stroke="#f1df76" stroke-width="1"/>
+  <circle cx="160" cy="190" r="5" fill="none" stroke="#f1df76" stroke-width="1.4"/>
+  <circle cx="240" cy="190" r="5" fill="none" stroke="#f1df76" stroke-width="1.4"/>
+  <!-- shoulder straps -->
+  <path d="M150 132 L182 200 M250 132 L218 200" stroke="#64748b" stroke-width="3"/>
+  <path d="M136 132 L264 132" stroke="#94a3b8" stroke-width="2"/>
+  <!-- weight studs -->
+  <g fill="#64748b" opacity=".8">
+    <circle cx="140" cy="150" r="3"/><circle cx="200" cy="150" r="3"/><circle cx="260" cy="150" r="3"/>
   </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 238.0 Q200.0 256.0 264.0 232.0" fill="none" stroke="#c9a86a" stroke-width="1.2" opacity=".4"/>
-  </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 268.0 Q200.0 286.0 264.0 262.0" fill="none" stroke="#c9a86a" stroke-width="1.2" opacity=".4"/>
-  </g>
-  <g transform="rotate(-1 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#c9a86a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".45"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-S-019-01</text>
 </svg>
