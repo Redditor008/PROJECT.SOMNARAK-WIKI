@@ -1,25 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE EMPTY FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg435390" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw316" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl435390" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl316" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg435390)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw316)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="120" fill="url(#gl435390)"/>
-  <g transform="rotate(10 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 117.19999999999999, 231.0 56.0 237.0 56.0 C227.0 121.28, 220.0 145.76, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 129.44, 229.0 64.0 234.0 62.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="50.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="254.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-316-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- short compact crimson fang, moderate curve -->
+  <path d="M156 296 L146 284 C 176 262, 202 234, 222 200 C 238 172, 256 148, 280 132 C 290 126, 300 130, 302 140 C 304 150, 296 158, 286 164 C 264 178, 246 200, 232 228 C 216 260, 190 284, 168 300 Z"
+        fill="url(#bl316)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M154 288 C 184 266, 210 238, 228 206 C 244 178, 262 154, 284 140" fill="none" stroke="#4c0d13" stroke-width="2"/>
+  <path d="M164 294 C 192 274, 216 246, 234 214 C 248 188, 264 166, 288 150" fill="none" stroke="#ffe4e6" stroke-width="1.8"/>
+  <!-- the ended waiting: tally ticks along the flat that simply STOP -->
+  <path d="M188 258 L196 264 M198 244 L206 250 M208 230 L216 236 M218 216 L226 222" stroke="#fda4af" stroke-width="1.8"/>
+  <path d="M228 202 L236 208" stroke="#7f1d1d" stroke-width="1.8" stroke-dasharray="2 3" opacity=".7"/>
+  <!-- the kept memory: a small warm portrait mark near the guard, intact -->
+  <rect x="176" y="272" width="18" height="14" rx="2" transform="rotate(-32 185 279)" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <circle cx="185" cy="278" r="2.4" fill="#f1df76" opacity=".8"/>
+  <!-- recurring-return dream: dashed loop above the spine, now cut open -->
+  <path d="M244 178 C 258 164, 276 158, 292 162" fill="none" stroke="#fda4af" stroke-width="1.4" stroke-dasharray="4 5" opacity=".8"/>
+  <path d="M286 154 L298 170" stroke="#f1df76" stroke-width="2.2"/>
+  <!-- THE EMPTY KNOT GUARD: a tied loop with NOTHING attached -->
+  <path d="M128 296 C 112 290, 102 296, 102 308 C 102 320, 112 328, 124 326 C 136 324, 142 314, 138 304 C 148 306, 154 314, 152 324" fill="none" stroke="#fca5a5" stroke-width="4"/>
+  <path d="M128 296 C 112 290, 102 296, 102 308" fill="none" stroke="#7f1d1d" stroke-width="1.4"/>
+  <!-- the frayed stub: where a line once left, nothing extends -->
+  <path d="M100 314 L88 320" stroke="#fca5a5" stroke-width="3"/>
+  <path d="M88 320 L82 318 M88 320 L84 326 M88 320 L80 322" stroke="#7f1d1d" stroke-width="1.6"/>
+  <path d="M78 330 L66 340" stroke="#450a0a" stroke-width="1.4" stroke-dasharray="2 5" opacity=".6"/>
+  <!-- grip + no-judgment band -->
+  <path d="M148 306 L120 356" stroke="#4c0d13" stroke-width="11" stroke-linecap="round"/>
+  <path d="M144 314 L134 308 M138 326 L128 320 M132 338 L122 332" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M124 348 L112 342" stroke="#f1df76" stroke-width="2.6"/>
+  <path d="M114 362 a6 6 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.2"/>
 </svg>

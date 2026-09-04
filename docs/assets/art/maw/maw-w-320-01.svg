@@ -1,28 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE STORM MAUL">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // MAUL -->
   <defs>
-    <radialGradient id="bgd9792b" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw320" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#181206"/>
+      <stop offset="100%" stop-color="#0d0a04"/>
     </radialGradient>
-    <radialGradient id="gld9792b" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl320" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#92400e"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgd9792b)" stroke="#c9a86a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw320)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="134" fill="url(#gld9792b)"/>
-  <g transform="rotate(6 200.0 192.0)">
-<rect x="149.0" y="155.0" width="102.0" height="74.0" rx="7" fill="#c9a86a" fill-opacity=".24" stroke="#c9a86a" stroke-width="3.5"/>
-<path d="M169.4 166.1 L230.6 166.1" stroke="#e0f2fe" stroke-width="1.3" opacity=".7"/>
-<circle cx="200.0" cy="192.0" r="12.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
-<rect x="194.0" y="229.0" width="12" height="102.0" rx="4" fill="#1f2937" stroke="#c9a86a" stroke-width="2"/>
-<circle cx="200.0" cy="341.0" r="7" fill="#c9a86a" fill-opacity=".55"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- maul head built of fused hail lumps, tilted -->
+  <g transform="rotate(-8 208 140)">
+    <path d="M118 128 C 112 104, 130 86, 154 88 C 158 72, 180 64, 198 72 C 208 58, 232 58, 244 70 C 264 62, 286 74, 288 94 C 304 100, 310 118, 300 132 C 308 146, 300 162, 284 166 L 132 168 C 116 162, 110 144, 118 128 Z"
+          fill="url(#bl320)" stroke="#d97706" stroke-width="3"/>
+    <!-- hailstone lump seams -->
+    <path d="M154 90 C 158 104, 158 118, 154 130 M198 74 C 202 92, 202 112, 198 130 M244 72 C 246 92, 246 112, 242 132 M288 96 C 284 110, 280 124, 276 136" fill="none" stroke="#78350f" stroke-width="1.6" opacity=".8"/>
+    <circle cx="140" cy="112" r="3" fill="#fde68a" opacity=".5"/><circle cx="222" cy="94" r="3.4" fill="#fde68a" opacity=".4"/><circle cx="268" cy="112" r="2.6" fill="#fde68a" opacity=".5"/>
+    <!-- RAIN GROOVES: every score points the same way — toward the route -->
+    <path d="M130 146 L166 152 M156 138 L196 144 M186 130 L226 136 M214 146 L254 152 M240 134 L280 140 M162 158 L202 164 M228 158 L268 164" stroke="#0d0a04" stroke-width="2.6"/>
+    <path d="M166 152 L160 148 L160 156 Z M226 136 L220 132 L220 140 Z M280 140 L274 136 L274 144 Z M268 164 L262 160 L262 168 Z" fill="#fbbf24"/>
+    <!-- the evacuation-route mark the grooves aim at -->
+    <path d="M296 148 L316 152" stroke="#fde68a" stroke-width="3"/>
+    <path d="M316 152 L308 146 M316 152 L308 158" stroke="#fde68a" stroke-width="2.2"/>
+    <!-- the untargetable cloud layer: dashed band kept above the head -->
+    <path d="M128 52 C 152 44, 180 42, 206 46 M216 44 C 240 40, 264 42, 284 50" fill="none" stroke="#78716c" stroke-width="2" stroke-dasharray="4 6" opacity=".7"/>
   </g>
-  <g transform="rotate(12 200.0 120.0)" opacity=".9">
-    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-W-320-01</text>
+  <!-- casualty/shelter LOG PLATE mounted before the grip: the record comes before the weapon -->
+  <rect x="180" y="182" width="56" height="22" rx="3" fill="#0d0a04" stroke="#f1df76" stroke-width="1.8"/>
+  <path d="M186 190 L222 190 M186 197 L214 197" stroke="#f1df76" stroke-width="1.3"/>
+  <path d="M228 188 L232 192 L238 184" fill="none" stroke="#4ade80" stroke-width="1.6"/>
+  <!-- heavy two-hand haft; aging rings deepening downward -->
+  <path d="M208 204 L188 366" stroke="#0d0a04" stroke-width="14" stroke-linecap="round"/>
+  <path d="M208 204 L188 366" stroke="#92400e" stroke-width="10" stroke-linecap="round"/>
+  <path d="M198 236 L214 238 M195 260 L211 262 M192 284 L208 286 M190 308 L206 310" stroke="#fbbf24" stroke-width="2.6"/>
+  <path d="M188 330 L202 332 M186 344 L200 346 M185 354 L199 356" stroke="#78350f" stroke-width="2.4"/>
+  <path d="M184 376 a7 7 0 1 0 .1 0" fill="#181206" stroke="#fbbf24" stroke-width="2.4"/>
 </svg>

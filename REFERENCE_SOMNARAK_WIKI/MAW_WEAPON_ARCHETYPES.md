@@ -171,3 +171,22 @@ Batch-8 additions (2026-09-05, shape-variant research standard, weapon-first det
 | MAW-W-275 The Rage Hammer | Rounding Forge-Hammer (researched smithing pattern: one flat face + one domed rounding face, ember vein, heartbeat rings quickening) | Medium (source: 5-9) |
 
 Batch-8 form notes: the two same-named Memory Requiems are opposite silhouettes — a needle-thin stiletto cradling a suspended drop versus a broad square-heeled bridge-deck cleaver; the fang family gains ghost-trace and S-recurve variants; blades gain truncated, sealed-petal, leaf-with-basal-flare, and level-waterline geometries; the hammer follows the real rounding-hammer smithing pattern (flat + gently domed faces); the two lenses split into a hand paddle and a long zone-diagram instrument.
+
+Batch-9 additions (2026-09-05, NEW OWNER RULING: some M.A.W. items may take NON-WEAPON object forms — lantern, candle, chalice, ring, etc. — chosen to fit the item's story and range band; the parity rule applies whenever the form changes):
+
+| Item | Archetype (researched variant) | Band (source) |
+| --- | --- | --- |
+| MAW-W-280 The Tear Requiem | NON-WEAPON: Faceted Crystal Chalice (honed rim as the only edge, tears beading outside, own grief resting inside, salt-residue foot) | Short (source: 2 — Short) |
+| MAW-W-283 The Rust Wall Maul | Wall-Head Maul (overlapping rusted plate courses, ONE bright passable seam kept open, three closure-point rivets vs the dashed historic boundary) | Medium (source: 3 — Medium) |
+| MAW-W-285 The Silence Maul | Compact Cube-Head Maul (empty mouth-shaped recess with a dashed one-word slot, restraint marks, tied silence-knot cord) | Short (source: 2 — Short) |
+| MAW-W-290 The Lost Lens | Gimbaled Compass-Lens (bearing ring on pivots, ONE sector clouded and crossed out, all other spokes dashed-undecided, present-location pin) | Short (source: 2 — Short) |
+| MAW-W-300 The Secret Lens | Framed Tether-Piercing Instrument (permanently clouded center, three prong spikes, barred sight-line into the cloud, oversight seal plate) | Medium (source: 3 — Medium) |
+| MAW-W-301 Feu Follet Requiem | NON-WEAPON: Four-Paned Hand Lantern (single wick half cold liquid light / half remembered flame, severed comfort-bond etch, stray wisp-lights outside the glass) | Short (source: 2 — Short) |
+| MAW-W-308 Vault of Unspoken Spites Fang | Retreat-Channel Fang (dark liquid flowing AWAY from the tip with down-blade arrows, three shadow-layer bands, sealed review vessel pommel) | Medium (source: 3 — Medium) |
+| MAW-W-310 The Truth Lens | Fracture-Split Disc (jagged crack holding forged claim and fact apart, hazard marks on the fact side only, checklist grip, crack-light glint) | Short (source: 2 — Short) |
+| MAW-W-315 Unsprouted Life Requiem | Outward-Curled Blade with Split Seed-Pod Guard (tip curls away from the wielder, three severed root-limbs, excluded source-shell dashed outside the geometry) | Medium (source: 3 — Medium) |
+| MAW-W-316 The Empty Fang | Empty-Knot Fang (guard is a tied loop with NOTHING attached, frayed stub where a line once left, tally ticks that simply stop) | Short (source: 2 — Short) |
+| MAW-W-320 The Storm Maul | Fused-Hailstone Maul (head of lumped hail seams, rain grooves ALL pointing toward the route mark, untargetable dashed cloud band, log plate before the grip) | Medium (source: 3 — Medium) |
+| MAW-W-329 The Melting Lens | Half-Melted Lorgnette Lens (rim sharp on the honest-ruin side, sagging and dripping on the facade side, dashed true-circle ghost, protected footprint line) | Short (source: 2 — Short) |
+
+Batch-9 form notes: first two NON-WEAPON forms enter the set under the owner's ruling — a chalice (W-280) and a hand lantern (W-301), both with Appearance text updated in md and html per the parity rule; the lens family gains gimbaled-compass, prong-instrument, fracture-split, and half-melted variants; the maul family gains wall-plate, cube-recess, and fused-hailstone heads; the fang family gains retreat-channel and empty-knot variants.
