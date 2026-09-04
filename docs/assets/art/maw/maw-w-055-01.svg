@@ -1,27 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE TEAR REQUIEM">
   <defs>
-    <radialGradient id="bw055" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw055" cx="50%" cy="60%" r="62%">
+      <stop offset="0%" stop-color="#0f2440"/>
+      <stop offset="100%" stop-color="#040a14"/>
     </radialGradient>
-    <radialGradient id="gw055" cx="50%" cy="46%" r="50%">
+    <radialGradient id="gw055" cx="58%" cy="38%" r="50%">
       <stop offset="0%" stop-color="#7dd3fc" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="bl055" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e0f2fe"/>
+      <stop offset="1" stop-color="#0c4a6e"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw055)" stroke="#7dd3fc" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw055)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw055)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#7dd3fc" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#7dd3fc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+  <circle cx="228" cy="150" r="132" fill="url(#gw055)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#040a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- TEAR STILETTO: needle blade swelling at the base, teardrop pommel -->
-  <path d="M200 44 L204 120 L212 196 L200 226 L188 196 L196 120 Z" fill="#bfdbfe" fill-opacity=".2" stroke="#7dd3fc" stroke-width="2.4"/>
-  <path d="M200 58 L200 218" stroke="#e0f2fe" stroke-width="1.1" opacity=".75"/>
-  <path d="M212 196 C 224 210, 224 222, 214 230 M188 196 C 176 210, 176 222, 186 230" fill="none" stroke="#7dd3fc" stroke-width="1.8"/>
-  <path d="M176 232 L224 232 L216 246 L184 246 Z" fill="#0c1e3e" stroke="#7dd3fc" stroke-width="2.4"/>
-  <rect x="190" y="246" width="20" height="54" rx="5" fill="#0c1e3e" stroke="#7dd3fc" stroke-width="2.2"/>
-  <path d="M191 258 L209 264 M191 272 L209 278 M191 286 L209 292" stroke="#7dd3fc" stroke-width="1.4" opacity=".85"/>
-  <path d="M200 302 C 216 312, 216 336, 200 348 C 184 336, 184 312, 200 302 Z" fill="#0c1e3e" stroke="#f1df76" stroke-width="2"/>
-  <circle cx="200" cy="328" r="4" fill="#e0f2fe"/>
+  <!-- TEAR STILETTO: rising diagonal needle, tip upper-right -->
+  <path d="M330 70 L322 64 L188 216 L176 240 L200 226 Z" fill="url(#bl055)" stroke="#7dd3fc" stroke-width="2.6"/>
+  <!-- the single sorrow line, guard to tip, lit -->
+  <path d="M196 224 L326 68" stroke="#e0f2fe" stroke-width="1.6" opacity=".95"/>
+  <path d="M240 176 L246 182 M282 128 L288 134" stroke="#e0f2fe" stroke-width="1.1" opacity=".55"/>
+  <!-- teardrop guard wrapping DOWN toward the blade -->
+  <path d="M178 238 C 162 226, 158 208, 170 196 C 184 202, 190 218, 186 232 C 196 240, 200 252, 194 262 C 182 262, 176 250, 178 238 Z"
+        fill="#0c1e3e" stroke="#7dd3fc" stroke-width="2.4"/>
+  <!-- short dark-blue-cord grip -->
+  <path d="M188 262 L158 306 L140 294 L172 252 Z" fill="#0c1e3e" stroke="#38bdf8" stroke-width="2.4"/>
+  <path d="M172 268 L184 276 M162 282 L174 290" stroke="#38bdf8" stroke-width="1.5" opacity=".85"/>
+  <circle cx="144" cy="306" r="7" fill="#0c1e3e" stroke="#f1df76" stroke-width="2"/>
+  <!-- a true sorrow, concentrated: glow pooling under the tip -->
+  <circle cx="330" cy="70" r="10" fill="#e0f2fe" fill-opacity=".28"/>
+  <circle cx="330" cy="70" r="4" fill="#e0f2fe" fill-opacity=".7"/>
+  <!-- unremarkable in ordinary light: dim sheath left behind, lower-left -->
+  <path d="M96 318 L150 342 L146 354 L90 330 Z" fill="none" stroke="#1e3a5f" stroke-width="2.2" opacity=".8"/>
 </svg>

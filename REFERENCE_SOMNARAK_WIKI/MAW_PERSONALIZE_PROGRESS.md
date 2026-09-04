@@ -270,5 +270,23 @@ Owner review of batches 2–5: **rejected as too same-shape / too template.** Ru
 - Batch 2 (W-025…054) was REDONE to this standard (`docs/assets/art/maw/maw-w-0{25,31,32,33,36,41,42,43,44,48,51,54}-01.svg`): each has a unique layout (W-025 fist-buckler with dying sound arcs; W-031 full-diagonal estoc with witness iris in the guard; W-032 massive forward-bent cleaver with cho notch; W-033 pane braced in a drawn doorway; W-036 tilted mid-swing with falling sand grains; W-041 tear hanging point-down from the grip; W-042 talon curling across frame with ember specks and fist ring; W-043 loupe with silenced ripple sector; W-044 sabre rising over a dawn horizon; W-048 scimitar with light-filled groove and note-motes; W-051 loupe reading a cracked smiling mask; W-054 dish face turned to the viewer swallowing motes).
 - **Batches 3–5 (W-055…159) remain in the rejected template style and must be redone the same way, 12 per review round.**
 
+## 15c. Batch 3 REDONE to the personalization standard (2026-09-04, after owner approved the batch-2 redo)
+
+W-055…099 redrawn as individual illustrations, each staged from its own Appearance text:
+- W-055 Tear Requiem — rising diagonal stiletto, teardrop guard wrapping down, sorrow-glow pooled at the tip, dim sheath left behind.
+- W-061 Burden Maul — tilted open bowl receiving falling weight-blocks, rim glowing on the target side, burden line arcing out, grey-dot squared pommel.
+- W-062 Resentment Fang — falx leaning/straining toward drawn enforcement pillars, obligation chain-links etched along the blade, finger-notch grip, warming pommel block.
+- W-063 Denial Lens — hand disc mid-cut severing a branded command mark's tether, thumb-rest notch, tether ring, untouchable voluntary bond below.
+- W-071 Gentle Requiem — blunt round-edged glaive, centre seam FORKING into green heal / red harm lines, willing open palm giving a pain wisp, open ring pommel.
+- W-073 Duty Fang — squared warbrand planted point-down as a wall between a jagged threat and a small sheltered figure, glowing spine inscription, ring pommel.
+- W-077 Shadow Lens — opaque grey disc with opened centre aperture firing the pale strike that knocks a label tag loose; three spoken-fact tally marks + witness profile; wooden rest.
+- W-081 Hollow Lens — lens lifted from its open white-lined case, dashed directional seam + pierce line interrupting a hooked identity-pull.
+- W-088 Sorrow Requiem — narrow diagonal blade with a low-note wave travelling the flat, blue moisture beads climbing the grip, struck target rings.
+- W-091 Crown of Requiem — closed circlet with inward-tucked points + relief-contact inset figure, blade line half-unfurled with floating question-mark motes.
+- W-092 Burning Fang — blade launching a crimson pierce line that cracks a gag-bar, page-mark mid-turn grey→black at the guard, closed-book pommel.
+- W-099 Dancing Fang — dao mid-step shattering a shackle with sparks, lit notched spine, dance-step arc, lit doorway safe endpoint, ring pommel.
+
+Gates PASS. Batches 4–5 (W-100…159) still in rejected style; next redo round after owner review.
+
 ## 16. Next weapon batch
 Batch 6 = next 12 W SVGs in numeric order after 159 (run `ls docs/assets/art/maw/maw-w-*-01.svg | grep -oE 'maw-w-[0-9]+' | sed 's/maw-w-//' | sort -n | awk '$1>159 && $1<1000' | head -12` for the exact list). Same procedure: read each page's Appearance paragraph → assign an unused archetype/variant (extend the catalog if needed) → hand-write the SVG in the batch-1 format → render + contact-sheet review → gates → update mapping table + this log → commit + push.
