@@ -90,8 +90,8 @@ Execute in order. Do not skip steps.
 ## 6. CURRENT WORK LEDGER (update this section whenever the queue changes)
 
 - **Active workstream:** M.A.W. Appearance expansion via `tools/expand_maw_appearance.py` — 12 sets (36 item pages) per batch, 150–204 words per section, md+html parity required.
-- **Shipped:** batches 6–17 (through commit `d644c12`, sets up to 911). Progress: **227/291 sets**.
-- **Remaining queue:** 912–930 consecutive, then 941, 944, 946, 947, 948, 949, 954, 959, 965, 967, 973, 976, 993, 997.
+- **Shipped:** batches 6–19 (sets up to 948). Progress: **251/291 sets**.
+- **Remaining queue:** 949, 954, 959, 965, 967, 973, 976, 993, 997 (9 sets — one final batch).
 - **Deferred by owner decision:** tabs UI (later), gallery (later), references (never).
 - **Other open item:** stale root `README.md` refresh.
 

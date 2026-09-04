@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (composure, peace of mind). A tendril of grief-slime extends from the weapon and gently coils around a target, drawing them close — a weapon that wants to embrace.  
 **Binding rule:** the bearer names Grieving Love's event—Sooah, an apothecary of Zone D, laboured night and day to draw the Weeping-wasting out of her beloved Haneul. On the final night, exhausted, she reached for the last reagent, slipped, and fell into the vat. The cure that should have separated sorrow from flesh instead fused them — her sorrow became her flesh.—and accepts this limit: Do not flee her embrace — sit with her grief until she lets go of her own accord
 
+## Appearance
+
+The Comforting Coil is the weapon record of the Grieving Love set — β-grade, Lament- aligned, striking at 5–10 Lament at medium range in a pierce pattern for 24 Sorrow Echoes a use — and its canonical ability deals Lament damage against the Mind: a tendril of grief-slime coils gently around a target, drawing them close — a weapon that wants to embrace. Binding names the source event — the apothecary Sooah slipped on the final night of curing her beloved Haneul and fell into the vat; the cure fused her sorrow into her flesh — and accepts the set's limit: do not flee her embrace; sit with her grief until she lets go. The cost is visitation: the wielder sees the faces of everyone they failed to comfort. The source-trace fixed doctrine: she flinches and recoils under aggression, which reads to her as rejection, and the Coil stays the hazard only after attribution to Grieving Love. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

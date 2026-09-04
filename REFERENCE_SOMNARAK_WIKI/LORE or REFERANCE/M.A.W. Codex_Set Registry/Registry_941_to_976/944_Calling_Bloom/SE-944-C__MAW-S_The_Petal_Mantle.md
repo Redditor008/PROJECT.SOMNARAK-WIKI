@@ -19,6 +19,10 @@
 **Canonical ability:** A thin membrane of petals that absorbs Lament pressure and shields the wearer's composure. It is strongest against the very sorrow it is made of.  
 **Binding rule:** the bearer names Calling Bloom's event—Nari, a wilderness scavenger child, heard what she believed was her brother Seojun crying for help deep in the wood. She ran past the safe outskirts, past the mushroom-beds she knew, all the way to the clearing at the wood's centre — and found no brother, only a single small flower with an eye. Curious, she touched it. She was gone before her hand came away.—and accepts this limit: Do not answer the voice — name the child, not the brother, and lead her back toward the wood's edge
 
+## Appearance
+
+The Petal Mantle is the suit record of the Calling Bloom set — β-grade, Lament- aligned, resistant to Lament at 0.3, worn at 20 Sorrow Echoes a deployment — and its canonical ability is a thin membrane of petals that absorbs Lament pressure and shields the wearer's composure, strongest against the very sorrow it is made of. Binding names the source event — Nari chased her brother's voice to the wood's center, found a flower with an eye, touched it, and was gone — and accepts the set's limit: do not answer the voice; name the child, not the brother, and lead her back toward the wood's edge. The cost is quiet clinginess: the wearer cannot let conversations end or leave rooms first. The source-trace fixed doctrine: the worker endured the calling without answering and the child wandered closer, then away, calmed that someone did not run, the Mantle discharging the hazard only after attribution to Calling Bloom. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

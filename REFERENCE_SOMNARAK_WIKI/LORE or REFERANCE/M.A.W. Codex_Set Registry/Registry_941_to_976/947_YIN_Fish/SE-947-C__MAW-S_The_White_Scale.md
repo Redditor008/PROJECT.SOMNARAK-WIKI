@@ -19,6 +19,10 @@
 **Canonical ability:** A scaled vest that absorbs Weight pressure and shields both resolve and body. It is strongest against the very heaviness it is made of — the wearer does not drown in the fish's air.  
 **Binding rule:** the bearer names YIN Fish's event—The puddle was flagged after the third fisherman vanished at its bank in a single season — each reaching for the small, easy silhouette, each seized and pulled under by a body far larger than the water should hold. The R.D. sealed the sector and began the record.—and accepts this limit: Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills
 
+## Appearance
+
+The White Scale is the suit record of the YIN Fish set — β-grade, Weight-aligned, resistant to Weight at 0.3, worn at 20 Sorrow Echoes a deployment — and its canonical ability is a scaled vest that absorbs Weight pressure and shields both resolve and body: the wearer does not drown in the fish's air. Binding names the source event — three fishermen in one season reached for the small silhouette and were pulled under by a body the water should not hold — and accepts the set's limit: do not reach in; name the hunger aloud and the silhouette stills. The cost is stillness: the wearer grows quiet and unwilling to make waves, in conversation, in motion, in mood. The source-trace fixed doctrine: the worker endured the heavy, drowning air at the bank without flinching or reaching, and the fish calmed, the Scale redirecting the hazard only after attribution to YIN Fish. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

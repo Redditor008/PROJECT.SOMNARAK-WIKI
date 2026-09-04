@@ -19,6 +19,10 @@
 **Canonical ability:** A thin, cool membrane of grief-slime that absorbs Lament pressure and shields the wearer's composure. It is strongest against the very sorrow it is made of.  
 **Binding rule:** the bearer names Grieving Love's event—Sooah, an apothecary of Zone D, laboured night and day to draw the Weeping-wasting out of her beloved Haneul. On the final night, exhausted, she reached for the last reagent, slipped, and fell into the vat. The cure that should have separated sorrow from flesh instead fused them — her sorrow became her flesh.—and accepts this limit: Do not flee her embrace — sit with her grief until she lets go of her own accord
 
+## Appearance
+
+The Mourner's Film is the suit record of the Grieving Love set — β-grade, Lament- aligned, resistant to Lament at 0.3, worn at 20 Sorrow Echoes a deployment — and its canonical ability is a thin, cool membrane of grief-slime that absorbs Lament pressure and shields the wearer's composure, strongest against the very sorrow it is made of. Binding names the source event — Sooah fell into her own cure on the last night of tending Haneul, and the reagent fused her sorrow into her flesh — and accepts the set's limit: do not flee her embrace; sit with her grief until she lets go of her own accord. The cost is quiet clinginess: the wearer cannot let conversations end or leave rooms first. The source-trace fixed doctrine: the worker endured her cold, clinging field without pulling away and she calmed, comforted that someone did not leave, the Film containing the hazard only after attribution to Grieving Love. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

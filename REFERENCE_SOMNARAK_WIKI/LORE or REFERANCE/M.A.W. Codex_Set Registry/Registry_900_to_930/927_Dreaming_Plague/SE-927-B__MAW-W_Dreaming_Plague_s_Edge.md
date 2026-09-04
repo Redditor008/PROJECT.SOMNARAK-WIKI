@@ -19,6 +19,10 @@
 **Canonical ability:** Channels void dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.   <!-- SE-927 -->
 **Binding rule:** the bearer names Dreaming Plague's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Dreaming Plague's Edge is the weapon record of the Dreaming Plague set — δ-grade, Void-aligned, striking at 11–20 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels void dream sorrow: the blade cuts at the dream register of the target's grief, a contagion that spreads bed to bed through sleep itself, held at critical potency. Binding names Dreaming Plague's event — Not recorded, patient zero asleep beyond interviewing — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a persistent low-grade headache with each use, the first symptom of a sickness the wielder must not let become theirs. The source- trace fixed doctrine: the hazard gave no transcribable field response, and the Edge interrupts the hazard only after attribution to Dreaming Plague. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

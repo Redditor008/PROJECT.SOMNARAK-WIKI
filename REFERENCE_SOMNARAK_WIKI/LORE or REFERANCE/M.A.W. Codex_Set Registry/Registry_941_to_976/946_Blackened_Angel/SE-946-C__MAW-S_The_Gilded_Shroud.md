@@ -19,6 +19,10 @@
 **Canonical ability:** A shroud of tarnished angel-feathers that absorbs Weight pressure and shields both resolve and body. It is strongest against the very heaviness it is made of.  
 **Binding rule:** the bearer names Blackened Angel's event—A Collector named Kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. The angel could not refuse. With the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear.—and accepts this limit: Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand
 
+## Appearance
+
+The Gilded Shroud is the suit record of the Blackened Angel set — γ-grade, Weight- aligned, resistant to Weight at 0.3, worn at 28 Sorrow Echoes a deployment — and its canonical ability is a shroud of tarnished angel- feathers that absorbs Weight pressure and shields both resolve and body, strongest against the very heaviness it is made of. Binding names the source event — Kangmin's nightly cruelties forced the wish- granting angel toward the color of its own black tears — and accepts the set's limit: do not make a wish; name the angel's grief and empty the dish of tears by hand. The cost inverts generosity: the wearer will not ask anyone for anything and resents those who ask of them. The source-trace fixed doctrine: the worker held beneath the weight of all those granted wishes, a giving thing that gave too much, and the Shroud severs the hazard only after attribution to Blackened Angel. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
