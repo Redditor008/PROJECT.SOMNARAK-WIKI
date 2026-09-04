@@ -1,22 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SCREAM SHARD">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // SHARD -->
   <defs>
-    <radialGradient id="bg7d8f19" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw560" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl7d8f19" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl560" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg7d8f19)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw560)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="123" fill="url(#gl7d8f19)"/>
-  <g transform="rotate(8 200.0 192.0)">
-<path d="M183.0,245.0 193.2,144.3 203.4,126.3 217.0,181.4 209.3,253.5 Z" fill="#3e8bd5" fill-opacity=".26" stroke="#3e8bd5" stroke-width="3" transform="rotate(5 200.0 192.0)"/>
-<path d="M191.5 225.9 L203.1 136.9" stroke="#e0f2fe" stroke-width="1.3" opacity=".7"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-560-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- JAGGED ZIGZAG SHARD: lightning-bolt profile, silent -->
+  <path d="M150 330 L138 318 L186 268 L164 258 L216 200 L196 188 L252 126 L238 114 L296 66 L312 82 L272 128 L288 140 L238 200 L258 214 L206 274 L226 286 L166 340 Z"
+        fill="url(#bl560)" stroke="#ef4444" stroke-width="2.6"/>
+  <!-- wet Han sheen along the leading jags -->
+  <path d="M144 322 L184 280 M170 262 L212 216 M200 192 L248 138 M242 118 L294 74" stroke="#ffe4e6" stroke-width="2"/>
+  <path d="M162 332 L222 282 M254 210 L284 144" stroke="#4c0d13" stroke-width="1.6" opacity=".8"/>
+  <!-- wet droplets at the jag points -->
+  <path d="M186 264 C 183 269, 183 273, 186 276 C 189 273, 189 269, 186 264 Z" fill="#fca5a5"/>
+  <path d="M254 122 C 251 127, 251 131, 254 134 C 257 131, 257 127, 254 122 Z" fill="#fda4af"/>
+  <!-- THE PRESSURE WAKE: silent force arcs pushed ahead of the edge -->
+  <path d="M316 96 C 330 92, 344 94, 356 102 M312 116 C 328 114, 342 118, 352 128 M304 138 C 318 138, 330 144, 338 154" fill="none" stroke="#fda4af" stroke-width="2" opacity=".8"/>
+  <path d="M360 106 L370 104 M356 132 L366 132" stroke="#7f1d1d" stroke-width="1.6"/>
+  <!-- silence of the blade itself: crossed-out sound mark beside the flat -->
+  <path d="M128 258 C 134 252, 134 244, 128 238 M120 264 C 130 256, 130 240, 120 232" fill="none" stroke="#64748b" stroke-width="1.6" opacity=".7"/>
+  <path d="M116 232 L138 264" stroke="#7f1d1d" stroke-width="1.8"/>
+  <!-- the transcribed pulse: unreduced protest record etched near the guard -->
+  <path d="M158 300 L164 292 L168 302 L174 288 L178 300 L184 292" fill="none" stroke="#f1df76" stroke-width="1.8"/>
+  <rect x="150" y="306" width="42" height="13" rx="2" transform="rotate(-42 171 312)" fill="none" stroke="#f1df76" stroke-width="1.3"/>
+  <!-- receiver + obstruction (not person) marks -->
+  <path d="M330 178 L344 178 M337 171 L337 185" stroke="#fda4af" stroke-width="1.8"/>
+  <rect x="322" y="196" width="26" height="16" rx="2" fill="none" stroke="#fca5a5" stroke-width="1.6"/>
+  <path d="M326 204 L344 204" stroke="#7f1d1d" stroke-width="1.4"/>
+  <!-- guard + grip -->
+  <path d="M126 334 L172 352" stroke="#4c0d13" stroke-width="9" stroke-linecap="round"/>
+  <path d="M150 354 L128 392" stroke="#4c0d13" stroke-width="11" stroke-linecap="round"/>
+  <path d="M148 362 L138 358 M144 374 L134 370 M140 386 L130 382" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M124 400 a6 6 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.2"/>
 </svg>

@@ -228,3 +228,22 @@ Batch-11 additions (2026-09-05, full standard incl. non-weapon forms where the s
 | MAW-W-505 Cold Burn Lens | Chained Watch-Monocle (heavy duty-chain to a hook, frost creeping down the links, frozen shadow-link chain across the glass cut gold mid-span, ceremony seal, intact service record) | Short (source: 2 / 2) |
 
 Batch-11 form notes: first true dagger enters the set (W-456); the fang family gains open-channel, inverted point-down, and twin-shore builds; the requiem blades gain circulation, lagging-shadow, wet-film, silent-executioner, and wound-holding geometries; the maul family gains the sideways-head anti-excavation build drawn straight from its record; the lens family gains hooded-visor and chained-monocle builds.
+
+Batch-12 additions (2026-09-05, full standard + NEW set-line check: each weapon's whole set folder (A source codex, C/D siblings) is now read for set-level context before drawing):
+
+| Item | Archetype (researched variant) | Band (source) |
+| --- | --- | --- |
+| MAW-W-517 Lachrymose Requiem | NON-WEAPON-ADJACENT: Tear-Glaive (one huge solidified teardrop mounted on a long haft, fainter tears etched inside it, three grief shards severed while the weeping continues untouched behind the head) | Long (source: 10-15 dmg, 3/3) |
+| MAW-W-518 The Glass Requiem | Window-Pane Blade (tall arched tunnel-window with muntin bars; distant warm rooms in the upper lights, the watcher's anchor ground and planted feet in the lower; fixation gaze-line cut gold, view intact) | Short (source: 2/2) |
+| MAW-W-519 The Empty Lens | Hinged Locket Lens (locket open on a chain: left half solid lived-record etchings and one real tear, right half a dashed empty future-silhouette with nothing inside, counterfeit claim severed) | Short (source: 2/2) |
+| MAW-W-525 Cenotaph Fang | Monument Fang (empty name plaque set into the flat — a cenotaph names no body; memorial wreath; blame line severed while the duty column stands; two review seats facing) | Short (source: 2/2) |
+| MAW-W-554 Fallow Requiem | Crystal Sickle (deep reaping crescent with rusted root grain oxidized through it, unopened seed pouch at the handle, fallow furrow lines below, shell kept uncut) | Short (source: 2/2) |
+| MAW-W-558 The Familiar Maul | Tree-Ring Drum Maul (round head face-on as a family-tree cross-section, generation knots, ONE branch glowing for the believed obligation, chosen-duty tag vs inherited-duty tag, scale-disagreement mark) | Medium (source: line pierce, 3 targets) |
+| MAW-W-559 The Ruin Requiem | Swept-Hilt Rapier (dust running BACKWARD up the fuller toward the tip, Exit Elegy floor-plan etched with the last safe route, intact-room mirage crossed out, roof-settling tremor arcs) | Medium (source: line pierce, 3 targets) |
+| MAW-W-560 The Scream Shard | Jagged Zigzag Shard (lightning-bolt profile, wet Han sheen on the leading jags, silent — crossed-out sound mark — with visible pressure-wake arcs pushed ahead, unreduced protest transcript) | Medium (source: single designated target) |
+| MAW-W-565 Upwell Fang | Deep Hook Fang (karambit-deep inner curve with ring pommel; a well shaft reflected DOWNWARD in the concave face, refused voices crossed out inside it, gold verified surface route, well-rim bruise rings) | Short (source: single, rim work) |
+| MAW-W-585 The Floating Root | Hovering Crystal Club (massive blue crystal head on a pale grown-root grip, floating a finger-width above the drawn ground line, active grain arrows pointing at tie-places, one living green relationship anchored) | Medium (source: line pierce, 3 targets) |
+| MAW-W-589 Nemo's Blade | Blue-Black Healing Saber (long shallow curve; the edge lights warm ONLY along the living-tissue span; tear-name droplets travelling point to hilt each with a name-script; present-patient band) | Medium (source: single designated target) |
+| MAW-W-606 The Sunken Requiem | Mirror-Edge Blade over Reflection Band (physical blade held level with a matte edge; in the water band below, the reflected blade carries the LUMINOUS true edge one layer down; upward water beads on the grip) | Medium (source: line pierce, 3 targets) |
+
+Batch-12 form notes: set-line check now standard (A/C/D files read per set); three parity updates shipped (W-517 tear-glaive, W-518 window-blade, W-554 sickle); first sickle, first rapier, first locket, and first hovering club enter the set; W-519 differentiated from the batch-10 W-409 Empty Lens namesake (locket vs A-frame).

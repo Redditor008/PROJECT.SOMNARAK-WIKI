@@ -1,26 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FLOATING ROOT">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg6ee419" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw585" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl6ee419" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl585" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg6ee419)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw585)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="131" fill="url(#gl6ee419)"/>
-  <g transform="rotate(-8 200.0 192.0)">
-<path d="M187.0 192.0 L194.54 86.16000000000001 L200.0 45.0 L205.46 94.97999999999999 L213.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 45.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="193.5" y="106.7" width="13.0" height="61.7" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="177.0" y="187.0" width="46.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="39.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="247.0" r="6.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-585-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- THE GROUND it refuses to touch -->
+  <path d="M96 344 L312 344" stroke="#12233d" stroke-width="3"/>
+  <path d="M108 352 L140 352 M156 352 L214 352 M232 352 L296 352" stroke="#1e3a5f" stroke-width="1.8"/>
+  <!-- THE HOVER GAP: thin bright void between club butt and ground -->
+  <path d="M176 336 L240 336" stroke="#7dd3fc" stroke-width="1.4" stroke-dasharray="3 3" opacity=".9"/>
+  <path d="M186 340 L182 344 M210 340 L206 344 M232 340 L228 344" stroke="#3b5f88" stroke-width="1.1" opacity=".7"/>
+  <!-- THE CLUB: massive blue crystal head swelling upward from a pale root grip -->
+  <path d="M182 328 C 168 300, 162 264, 168 226 C 174 184, 192 148, 218 124 C 244 100, 272 96, 290 114 C 306 130, 308 158, 296 190 C 282 228, 256 268, 226 300 C 212 314, 198 324, 182 328 Z"
+        fill="url(#bl585)" stroke="#38bdf8" stroke-width="2.8"/>
+  <!-- crystal facets on the head -->
+  <path d="M200 300 C 186 268, 182 230, 190 192 C 198 156, 216 128, 240 112" fill="none" stroke="#1e3a5f" stroke-width="2"/>
+  <path d="M226 288 C 246 260, 264 228, 276 194 C 284 168, 284 144, 274 128" fill="none" stroke="#e0f2fe" stroke-width="1.8"/>
+  <path d="M206 240 L232 252 M214 200 L242 214 M228 164 L254 178 M248 132 L268 146" stroke="#3b5f88" stroke-width="1.3" opacity=".8"/>
+  <!-- THE PALE ROOT GRIP: root fingers grown up around the crystal base -->
+  <path d="M186 322 C 180 302, 178 282, 180 262" fill="none" stroke="#e7e5e4" stroke-width="5"/>
+  <path d="M198 318 C 192 300, 189 280, 190 260" fill="none" stroke="#d6d3d1" stroke-width="4"/>
+  <path d="M210 312 C 205 296, 203 278, 204 262" fill="none" stroke="#e7e5e4" stroke-width="3.4"/>
+  <path d="M180 262 C 184 250, 192 242, 202 238 M190 260 C 196 252, 204 246, 212 244" fill="none" stroke="#d6d3d1" stroke-width="2.4"/>
+  <path d="M184 314 L176 318 M196 306 L188 312 M206 300 L200 306" stroke="#a8a29e" stroke-width="1.8"/>
+  <!-- ACTIVE GRAIN pointing toward tie-places: bright grain arrows aimed off-frame -->
+  <path d="M238 226 C 254 218, 270 214, 286 214" fill="none" stroke="#f1df76" stroke-width="2.2"/>
+  <path d="M286 214 L278 208 M286 214 L279 220" stroke="#f1df76" stroke-width="1.8"/>
+  <path d="M230 186 C 244 174, 258 166, 274 162" fill="none" stroke="#fde68a" stroke-width="1.8" opacity=".85"/>
+  <path d="M274 162 L266 158 M274 162 L268 168" stroke="#fde68a" stroke-width="1.5" opacity=".85"/>
+  <!-- named lost place: dashed unreachable marker far right -->
+  <rect x="318" y="196" width="26" height="20" rx="3" fill="none" stroke="#64748b" stroke-width="1.6" stroke-dasharray="4 3"/>
+  <path d="M324 206 L338 206" stroke="#64748b" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <!-- one living relationship that stays: solid warm line anchored to the ground -->
+  <path d="M296 240 C 306 262, 310 286, 308 310" fill="none" stroke="#4ade80" stroke-width="2"/>
+  <circle cx="308" cy="318" r="4" fill="none" stroke="#4ade80" stroke-width="1.8"/>
+  <!-- removed route markers: three faded posts in order -->
+  <path d="M120 320 L120 336 M144 326 L144 340 M160 330 L160 342" stroke="#3b5f88" stroke-width="2.2" opacity=".6"/>
+  <path d="M116 320 L124 316 M140 326 L148 322" stroke="#3b5f88" stroke-width="1.4" opacity=".5"/>
 </svg>
