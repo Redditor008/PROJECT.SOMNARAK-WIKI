@@ -14,33 +14,25 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0703" stroke="#d97706" stroke-width="1.2"/>
   <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- long haft crossing low, iron-banded, cold sheen -->
   <path d="M48 328 L338 268" stroke="#100b04" stroke-width="15" stroke-linecap="round"/>
   <path d="M52 324 L334 266" stroke="#2c1c0a" stroke-width="9" stroke-linecap="round"/>
   <path d="M96 316 L100 334 M156 304 L160 322 M216 292 L220 310" stroke="#78716c" stroke-width="6"/>
   <path d="M97 314 L100 330 M157 302 L160 318 M217 290 L220 306" stroke="#a8a29e" stroke-width="1.8"/>
   <path d="M42 336 a8 8 0 1 0 .1 0" fill="#1c1206" stroke="#f59e0b" stroke-width="2.4"/>
-  <!-- THE LEDGER-WALL HEAD: broad block, offset brick courses, each brick a ruled entry -->
   <path d="M232 96 L356 118 C 366 120, 372 128, 370 138 L354 226 C 352 236, 344 242, 334 240 L210 218 C 200 216, 194 208, 196 198 L212 110 C 214 100, 222 94, 232 96 Z"
         fill="#171006" stroke="#d97706" stroke-width="3.2"/>
   <rect x="216" y="112" width="140" height="112" rx="8" transform="rotate(10 286 168)" fill="url(#bl180)" opacity=".14"/>
-  <!-- brick courses, offset like recorded obligation -->
   <path d="M206 148 L364 176 M202 182 L358 210" stroke="#a16207" stroke-width="2.2"/>
   <path d="M262 106 L254 152 M310 114 L302 160 M232 152 L224 196 M282 160 L274 206 M330 168 L324 212" stroke="#a16207" stroke-width="1.8"/>
-  <!-- ruled ledger lines inside several bricks -->
   <path d="M222 128 L250 133 M222 136 L244 140 M270 166 L298 171 M270 174 L292 178 M236 196 L262 201" stroke="#78350f" stroke-width="1.2"/>
-  <!-- one entry struck through: the debt it opened -->
   <path d="M300 186 L334 192" stroke="#fde68a" stroke-width="2"/>
   <path d="M298 190 L336 188" stroke="#f59e0b" stroke-width="1.2"/>
-  <!-- iron edge-bands top and bottom, riveted -->
   <path d="M228 98 L358 122" stroke="#78716c" stroke-width="6"/>
   <path d="M206 214 L336 238" stroke="#78716c" stroke-width="6"/>
   <circle cx="244" cy="103" r="2.4" fill="#fde68a"/><circle cx="300" cy="113" r="2.4" fill="#fde68a"/><circle cx="348" cy="121" r="2.4" fill="#fde68a"/>
   <circle cx="222" cy="219" r="2.4" fill="#fde68a"/><circle cx="278" cy="229" r="2.4" fill="#fde68a"/><circle cx="326" cy="237" r="2.4" fill="#fde68a"/>
-  <!-- pressure glow rolling off the striking face: the wall it holds open -->
   <path d="M372 130 C 382 138, 388 148, 390 160 M370 148 C 378 154, 383 162, 385 172" fill="none" stroke="#fde68a" stroke-width="2" opacity=".8"/>
   <path d="M368 166 C 374 170, 378 176, 380 184" fill="none" stroke="#f59e0b" stroke-width="1.6" opacity=".6"/>
-  <!-- eye collar where haft meets head -->
   <path d="M232 210 L252 226" stroke="#78716c" stroke-width="9"/>
   <circle cx="238" cy="216" r="2.4" fill="#fde68a"/><circle cx="247" cy="223" r="2.4" fill="#fde68a"/>
 </svg>

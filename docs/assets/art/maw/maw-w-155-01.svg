@@ -14,32 +14,24 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0703" stroke="#eab308" stroke-width="1.2"/>
   <text x="30" y="36" fill="#eab308" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- the wrong shadow: cast UP-LEFT toward the light, as a dark twin of the maul -->
   <path d="M148 172 L84 108" stroke="#000000" stroke-width="12" stroke-linecap="round" opacity=".8"/>
-  <rect x="34" y="52" width="74" height="52" rx="8" transform="rotate(45 71 78)" fill="#000000" opacity=".8"/>
-  <path d="M148 172 L84 108" stroke="#eab308" stroke-width="1" opacity=".25"/>
-  <!-- small lamp glow upper-left that the shadow wrongly reaches for -->
+  <path d="M40 60 L88 44 L120 76 L104 124 L56 140 L24 108 Z" fill="#000000" opacity=".8"/>
   <circle cx="52" cy="52" r="10" fill="none" stroke="#fde047" stroke-width="2"/>
   <circle cx="52" cy="52" r="4" fill="#fde047"/>
   <path d="M52 36 L52 28 M66 42 L72 36 M38 42 L32 36" stroke="#fde047" stroke-width="1.6" opacity=".8"/>
-  <!-- the mallet itself: compact, dense, downward-right diagonal -->
   <path d="M172 196 L318 342" stroke="#2c1c0a" stroke-width="14" stroke-linecap="round"/>
   <path d="M176 200 L314 338" stroke="#4a300f" stroke-width="8" stroke-linecap="round"/>
   <path d="M204 232 L192 244 M232 260 L220 272 M260 288 L248 300" stroke="#eab308" stroke-width="2" opacity=".85"/>
   <path d="M322 350 a8 8 0 1 0 .1 0" fill="#1c1206" stroke="#fde047" stroke-width="2.4"/>
-  <!-- head: squat octagonal iron block, rim chamfers, strike faces polished -->
   <path d="M128 128 L176 112 L216 128 L232 176 L216 216 L168 232 L128 216 L112 168 Z"
         fill="#171006" stroke="#eab308" stroke-width="3"/>
-  <path d="M136 136 L176 122 L208 136 L222 174 L208 208 L170 222 L136 208 L122 170 Z" fill="url(#bl155)" opacity=".22"/>
+  <path d="M136 136 L176 122 L208 136 L222 174 L208 208 L170 222 L136 208 L122 170 Z" fill="none" stroke="#a16207" stroke-width="2"/>
+  <path d="M128 128 L136 136 M176 112 L176 122 M216 128 L208 136 M232 176 L222 174 M216 216 L208 208 M168 232 L170 222 M128 216 L136 208 M112 168 L122 170" stroke="#713f12" stroke-width="1.6"/>
+  <path d="M140 142 L172 130 L202 142 L216 172 L202 202 L172 214 L142 202 L128 172 Z" fill="url(#bl155)" opacity=".2"/>
   <path d="M128 128 L176 112 L216 128" fill="none" stroke="#fde047" stroke-width="1.6" opacity=".9"/>
-  <!-- chamfer facets -->
-  <path d="M140 144 L204 200 M204 144 L140 200" stroke="#713f12" stroke-width="1.8" opacity=".8"/>
   <circle cx="172" cy="172" r="14" fill="none" stroke="#a16207" stroke-width="2"/>
   <circle cx="172" cy="172" r="5" fill="#eab308"/>
-  <!-- weight-block sigil stamped on the face -->
   <rect x="162" y="162" width="20" height="20" fill="none" stroke="#fde047" stroke-width="1.2" opacity=".7" transform="rotate(45 172 172)"/>
-  <!-- lamp glints on the rim: light agrees, shadow does not -->
   <path d="M214 130 L224 122 M228 150 L240 146 M226 196 L238 202" stroke="#fde047" stroke-width="2" opacity=".85"/>
-  <!-- chalk uncertainty tick where shadow meets iron -->
   <path d="M138 122 C 134 114, 136 106, 142 102 M148 118 L146 110" fill="none" stroke="#d6d3d1" stroke-width="1.4" opacity=".7"/>
 </svg>

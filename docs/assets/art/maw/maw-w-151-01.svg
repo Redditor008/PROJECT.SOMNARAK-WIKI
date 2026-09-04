@@ -14,26 +14,25 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0405" stroke="#b91c1c" stroke-width="1.2"/>
   <text x="30" y="36" fill="#b91c1c" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- the club: heavy gnarled head high right, tapering to the gripped root low left -->
-  <path d="M96 348 C 130 320, 158 292, 184 258 C 212 222, 240 186, 272 156 C 296 134, 322 120, 344 118 C 356 118, 362 126, 358 138 C 352 156, 338 172, 320 186 C 290 208, 262 236, 238 268 C 214 298, 190 326, 162 350 C 144 364, 122 370, 104 364 C 94 360, 92 354, 96 348 Z"
+  <path d="M96 348 C 130 320, 158 292, 184 258 C 212 222, 240 186, 272 156 C 288 142, 304 132, 320 128 L352 148 C 350 168, 340 186, 322 200 C 292 220, 264 244, 240 274 C 216 302, 190 330, 162 352 C 144 366, 122 370, 104 364 C 94 360, 92 354, 96 348 Z"
         fill="url(#bl151)" stroke="#b91c1c" stroke-width="2.8"/>
-  <!-- bark plates and knots on the head -->
-  <path d="M300 150 C 310 142, 322 136, 334 134 M286 170 C 296 160, 308 152, 322 146 M306 176 C 316 168, 328 160, 338 156" fill="none" stroke="#450a0a" stroke-width="2.2"/>
-  <circle cx="330" cy="142" r="4" fill="none" stroke="#7f1d1d" stroke-width="2"/>
-  <circle cx="312" cy="164" r="3" fill="none" stroke="#7f1d1d" stroke-width="1.8"/>
-  <!-- grain lines flowing the whole length -->
-  <path d="M112 350 C 148 322, 180 288, 210 250 C 238 214, 268 180, 302 154" fill="none" stroke="#7f1d1d" stroke-width="2.2"/>
-  <path d="M126 356 C 160 328, 192 294, 222 258 C 248 226, 276 194, 308 170" fill="none" stroke="#450a0a" stroke-width="1.6" opacity=".9"/>
+  <path d="M306 128 C 322 108, 348 102, 366 114 C 382 124, 386 146, 376 164 C 368 180, 352 190, 334 188 C 324 202, 310 206, 300 198"
+        fill="url(#bl151)" stroke="#b91c1c" stroke-width="2.8"/>
+  <circle cx="344" cy="138" r="9" fill="none" stroke="#7f1d1d" stroke-width="2.4"/>
+  <circle cx="344" cy="138" r="4" fill="none" stroke="#450a0a" stroke-width="1.8"/>
+  <circle cx="362" cy="156" r="6" fill="none" stroke="#7f1d1d" stroke-width="2"/>
+  <circle cx="326" cy="162" r="7" fill="none" stroke="#7f1d1d" stroke-width="2"/>
+  <circle cx="326" cy="162" r="3" fill="none" stroke="#450a0a" stroke-width="1.4"/>
+  <path d="M320 124 C 336 116, 356 118, 368 130 M312 144 C 318 134, 330 128, 342 128 M336 176 C 350 174, 362 166, 368 154" fill="none" stroke="#450a0a" stroke-width="1.8"/>
+  <path d="M352 132 C 358 128, 366 130, 370 136" fill="none" stroke="#fca5a5" stroke-width="1.2" opacity=".7"/>
+  <path d="M112 350 C 148 322, 180 288, 210 250 C 234 220, 260 190, 290 166" fill="none" stroke="#7f1d1d" stroke-width="2.2"/>
+  <path d="M126 356 C 160 328, 192 294, 222 258 C 244 232, 268 206, 296 182" fill="none" stroke="#450a0a" stroke-width="1.6" opacity=".9"/>
   <path d="M104 356 C 140 328, 174 292, 204 254" fill="none" stroke="#fca5a5" stroke-width="1.2" opacity=".7"/>
-  <!-- root-tip fingers splitting off the head like a fence being born -->
-  <path d="M344 118 C 350 106, 352 94, 350 82 M352 124 C 362 116, 370 106, 374 94 M356 136 C 368 134, 378 128, 384 118"
+  <path d="M366 114 C 372 102, 374 90, 372 78 M378 128 C 388 120, 394 110, 396 98 M382 148 C 392 146, 400 140, 404 130"
         fill="none" stroke="#b91c1c" stroke-width="2.6" stroke-linecap="round"/>
-  <path d="M350 82 L346 74 M350 82 L356 76 M374 94 L372 84 M374 94 L382 90" stroke="#b91c1c" stroke-width="1.8"/>
-  <!-- the LIVING green strand coiling the grip and diving to ground -->
+  <path d="M372 78 L368 70 M372 78 L378 72 M396 98 L394 88 M396 98 L404 94" stroke="#b91c1c" stroke-width="1.8"/>
   <path d="M100 352 C 112 344, 120 348, 116 358 C 112 366, 120 372, 130 368 M126 340 C 138 332, 146 336, 142 346" fill="none" stroke="#4ade80" stroke-width="2.6"/>
   <path d="M108 366 C 100 376, 90 380, 80 378" fill="none" stroke="#4ade80" stroke-width="2.2"/>
   <path d="M80 378 L70 382 L76 372 Z" fill="#4ade80"/>
-  <path d="M148 330 C 154 326, 158 328, 156 334" fill="none" stroke="#86efac" stroke-width="1.6"/>
-  <!-- tiny leaf pair on the strand -->
   <path d="M120 336 C 116 330, 118 324, 124 322 C 126 328, 124 334, 120 336 Z M134 346 C 138 340, 144 338, 148 342 C 144 346, 138 348, 134 346 Z" fill="#4ade80" opacity=".9"/>
 </svg>

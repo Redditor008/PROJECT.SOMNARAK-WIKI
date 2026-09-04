@@ -14,32 +14,24 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- grip and round guard, solid — the only certain part of it -->
   <path d="M140 370 L156 302" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
   <path d="M142 356 L154 358 M146 338 L158 340 M150 320 L162 322" stroke="#60a5fa" stroke-width="2.2"/>
   <path d="M134 378 a7 7 0 1 0 .1 0" fill="#0a1626" stroke="#93c5fd" stroke-width="2.4"/>
   <circle cx="160" cy="292" r="12" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.6"/>
   <path d="M154 286 L166 298 M166 286 L154 298" stroke="#3b5f88" stroke-width="1.6"/>
-  <!-- the blade: matte dust-echo, upright lean; SOLID at the edge line, DISSOLVING at the spine -->
   <path d="M166 284 L214 78 C 217 66, 226 60, 236 62 C 246 64, 251 74, 249 86 L204 292 C 192 298, 176 296, 166 284 Z"
         fill="#16324f" stroke="#60a5fa" stroke-width="2.6"/>
-  <!-- kept core: the bright line it steadies things with -->
   <path d="M176 282 L226 76" stroke="#e0f2fe" stroke-width="2.2"/>
   <path d="M170 276 L218 80" stroke="#7dd3fc" stroke-width="1" opacity=".7"/>
-  <!-- compacted dust strata across the flat -->
   <path d="M180 250 L214 256 M186 222 L220 228 M192 194 L226 200 M198 166 L230 172 M204 138 L236 144 M210 110 L240 116" stroke="#0a1626" stroke-width="1.8"/>
-  <!-- the spine dissolving: edge broken into particles mid-flight -->
   <path d="M240 96 L246 92 M244 118 L252 112 M240 142 L250 138 M236 168 L246 164 M232 194 L242 190" stroke="#3b5f88" stroke-width="2.2"/>
   <circle cx="256" cy="88" r="2" fill="#7dd3fc"/><circle cx="264" cy="102" r="1.6" fill="#60a5fa"/><circle cx="258" cy="122" r="1.8" fill="#93c5fd"/>
   <circle cx="266" cy="140" r="1.4" fill="#3b5f88"/><circle cx="254" cy="158" r="1.8" fill="#60a5fa"/><circle cx="262" cy="178" r="1.3" fill="#3b5f88"/>
   <circle cx="272" cy="120" r="1.2" fill="#7dd3fc"/><circle cx="276" cy="156" r="1" fill="#3b5f88"/>
-  <!-- grains streaming off the moving tip in a drift-tail -->
   <path d="M238 66 C 254 56, 272 50, 292 48" fill="none" stroke="#60a5fa" stroke-width="1.6" stroke-dasharray="2 5" opacity=".8"/>
   <circle cx="284" cy="52" r="1.8" fill="#7dd3fc"/><circle cx="298" cy="46" r="1.4" fill="#60a5fa"/><circle cx="310" cy="44" r="1.1" fill="#3b5f88"/>
-  <!-- dust settled on the hilt shoulder: custody postponed -->
   <path d="M150 288 C 146 284, 146 280, 150 278 M144 296 C 140 292, 140 288, 144 286" fill="none" stroke="#38bdf8" stroke-width="1.4" opacity=".8"/>
   <circle cx="148" cy="274" r="1.4" fill="#38bdf8"/><circle cx="141" cy="282" r="1.2" fill="#38bdf8"/>
-  <!-- faint outline of what the blade held steady, engraved on the flat: one doorway -->
   <path d="M196 232 L200 208 L214 210 L210 234 Z" fill="none" stroke="#7dd3fc" stroke-width="1.4" opacity=".9"/>
   <path d="M198 226 L212 228" stroke="#7dd3fc" stroke-width="1" opacity=".6"/>
 </svg>

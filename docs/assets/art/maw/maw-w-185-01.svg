@@ -14,34 +14,37 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- the broad trowel blade filling the frame, angled -->
-  <path d="M96 262 C 76 232, 76 194, 98 162 C 122 128, 162 108, 206 108 C 232 108, 254 118, 268 136 L262 176 C 250 226, 220 268, 178 292 C 152 306, 122 300, 104 278 Z"
+  <!-- diamond-point trowel blade: four straight edges meeting in a point, angled -->
+  <path d="M84 216 L188 108 L268 150 L196 286 C 190 296, 180 298, 170 292 L94 236 C 86 230, 82 224, 84 216 Z"
         fill="url(#bl185)" stroke="#38bdf8" stroke-width="2.8"/>
-  <!-- brush-stroke ridges: long curved strokes with raised edges -->
-  <path d="M112 250 C 132 218, 162 194, 198 180 M104 222 C 124 192, 152 168, 188 154 M124 270 C 148 240, 178 216, 214 200 M108 190 C 128 166, 154 148, 184 138"
-        fill="none" stroke="#1e3a5f" stroke-width="2.4"/>
-  <path d="M113 246 C 133 215, 162 191, 197 177 M105 218 C 125 189, 152 165, 187 151" fill="none" stroke="#7dd3fc" stroke-width="1" opacity=".8"/>
-  <!-- dragged background: the deep color pulled down toward the guard in one smear -->
-  <path d="M228 118 L266 140 L256 190 L216 166 Z" fill="#1d4ed8" opacity=".65"/>
-  <path d="M232 124 L258 140 M228 136 L254 152 M224 150 L250 166" stroke="#0a1626" stroke-width="1.8"/>
-  <path d="M262 132 L268 136" stroke="#e0f2fe" stroke-width="1.6"/>
-  <!-- impasto blobs still wet on the flat -->
-  <path d="M148 208 a5 4 0 1 0 .1 0 M170 234 a4 3.4 0 1 0 .1 0" fill="#60a5fa" opacity=".9"/>
-  <path d="M147 205 a5 4 0 1 0 .1 0" fill="none" stroke="#e0f2fe" stroke-width=".8" opacity=".7"/>
-  <!-- thin flexible edge highlight all round -->
-  <path d="M98 166 C 122 132, 162 112, 204 112" fill="none" stroke="#e0f2fe" stroke-width="1.8" opacity=".9"/>
-  <!-- whisper-lines rising off the blade edge like voices steadied into script -->
-  <path d="M270 148 C 282 144, 290 146, 296 152 M266 168 C 278 164, 286 166, 292 172 M258 190 C 270 186, 278 188, 284 194"
-        fill="none" stroke="#3b5f88" stroke-width="1.6" opacity=".8"/>
-  <path d="M296 152 L306 150 M292 172 L302 170" stroke="#7dd3fc" stroke-width="1.4" opacity=".8"/>
-  <!-- cranked tang: the palette-knife'S signature double bend, riveted ferrule -->
-  <path d="M182 290 C 196 298, 204 310, 206 324" fill="none" stroke="#12233d" stroke-width="8"/>
-  <path d="M184 288 C 197 296, 204 307, 206 320" fill="none" stroke="#60a5fa" stroke-width="1.6" opacity=".7"/>
-  <path d="M202 322 L226 322" stroke="#93c5fd" stroke-width="5"/>
-  <circle cx="210" cy="322" r="2" fill="#0a1626"/><circle cx="220" cy="322" r="2" fill="#0a1626"/>
-  <!-- wooden grip with paint-stained fingermarks -->
-  <path d="M226 322 L286 348" stroke="#12233d" stroke-width="12" stroke-linecap="round"/>
-  <path d="M236 324 L244 332 M252 331 L260 339 M268 338 L276 346" stroke="#60a5fa" stroke-width="2.2"/>
-  <path d="M242 322 C 246 318, 252 318, 256 322 M262 331 C 266 327, 272 327, 276 331" fill="none" stroke="#1d4ed8" stroke-width="1.8" opacity=".8"/>
-  <path d="M292 354 a7 7 0 1 0 .1 0" fill="#0a1626" stroke="#93c5fd" stroke-width="2.4"/>
+  <!-- center ridge from point to heel -->
+  <path d="M188 108 L180 280" stroke="#1e3a5f" stroke-width="2.2"/>
+  <path d="M186 116 L178 268" stroke="#7dd3fc" stroke-width="1" opacity=".8"/>
+  <!-- brush-stroke ridges sweeping the flat -->
+  <path d="M110 218 C 134 194, 160 172, 186 156 M100 204 C 124 180, 150 158, 178 140 M124 238 C 148 214, 174 192, 202 174 M138 254 C 162 232, 188 210, 216 192"
+        fill="none" stroke="#1e3a5f" stroke-width="2.2"/>
+  <path d="M111 214 C 135 191, 160 169, 185 153 M101 200 C 125 177, 150 155, 177 137" fill="none" stroke="#7dd3fc" stroke-width="1" opacity=".8"/>
+  <!-- dragged background smear toward the heel -->
+  <path d="M212 156 L262 152 L232 226 L196 208 Z" fill="#1d4ed8" opacity=".6"/>
+  <path d="M218 162 L252 158 M214 176 L246 172 M210 192 L240 190" stroke="#0a1626" stroke-width="1.8"/>
+  <!-- impasto blobs -->
+  <path d="M144 210 a5 4 0 1 0 .1 0 M164 238 a4 3.4 0 1 0 .1 0" fill="#60a5fa" opacity=".9"/>
+  <!-- keen edge lights -->
+  <path d="M86 214 L186 110 M190 110 L266 150" stroke="#e0f2fe" stroke-width="1.6" opacity=".9"/>
+  <!-- whisper-lines rising off the point -->
+  <path d="M272 142 C 284 138, 292 140, 298 146 M268 162 C 280 158, 288 160, 294 166" fill="none" stroke="#3b5f88" stroke-width="1.6" opacity=".8"/>
+  <path d="M298 146 L308 144 M294 166 L304 164" stroke="#7dd3fc" stroke-width="1.4" opacity=".8"/>
+  <!-- STEPPED CRANK tang: two clear right-angle bends lifting the handle off the blade plane -->
+  <path d="M186 290 L200 306" fill="none" stroke="#12233d" stroke-width="8"/>
+  <path d="M200 306 L222 300" fill="none" stroke="#12233d" stroke-width="8"/>
+  <path d="M222 300 L238 314" fill="none" stroke="#12233d" stroke-width="8"/>
+  <path d="M188 290 L199 303 M202 305 L220 300 M224 302 L236 312" stroke="#60a5fa" stroke-width="1.6" opacity=".8"/>
+  <!-- riveted ferrule -->
+  <path d="M236 312 L252 316" stroke="#93c5fd" stroke-width="6"/>
+  <circle cx="242" cy="314" r="2" fill="#0a1626"/><circle cx="249" cy="315" r="2" fill="#0a1626"/>
+  <!-- wooden grip, paint-stained -->
+  <path d="M252 316 L312 340" stroke="#12233d" stroke-width="12" stroke-linecap="round"/>
+  <path d="M262 318 L270 326 M278 325 L286 333 M294 332 L302 340" stroke="#60a5fa" stroke-width="2.2"/>
+  <path d="M268 316 C 272 312, 278 312, 282 316 M288 325 C 292 321, 298 321, 302 325" fill="none" stroke="#1d4ed8" stroke-width="1.8" opacity=".8"/>
+  <path d="M318 346 a7 7 0 1 0 .1 0" fill="#0a1626" stroke="#93c5fd" stroke-width="2.4"/>
 </svg>

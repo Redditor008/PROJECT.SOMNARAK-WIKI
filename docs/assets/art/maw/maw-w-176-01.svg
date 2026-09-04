@@ -14,35 +14,35 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- upper limb: curved crystal, faceted, tip nock carved -->
-  <path d="M232 44 C 172 68, 130 118, 116 180 C 112 196, 111 212, 113 228"
+  <!-- upper limb with RECURVED tip (bends away at the end) -->
+  <path d="M226 52 C 172 76, 132 122, 118 180 C 114 196, 113 210, 114 224"
         fill="none" stroke="url(#bl176)" stroke-width="12" stroke-linecap="round"/>
-  <path d="M232 44 C 176 70, 136 118, 122 176" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
-  <path d="M212 56 L222 68 M178 84 L190 94 M148 124 L162 132 M128 168 L142 172" stroke="#1e3a5f" stroke-width="2"/>
-  <!-- lower limb -->
-  <path d="M113 228 C 116 280, 142 326, 186 356" fill="none" stroke="url(#bl176)" stroke-width="12" stroke-linecap="round"/>
-  <path d="M120 232 C 124 278, 148 320, 188 348" fill="none" stroke="#1e3a5f" stroke-width="2" opacity=".8"/>
-  <path d="M126 262 L138 258 M140 296 L152 288 M162 326 L172 316" stroke="#1e3a5f" stroke-width="2"/>
-  <!-- carved tip nocks -->
-  <path d="M236 38 L244 48 L232 52" fill="#12233d" stroke="#7dd3fc" stroke-width="2"/>
-  <path d="M190 360 L198 352 L194 366" fill="#12233d" stroke="#7dd3fc" stroke-width="2"/>
-  <!-- WARP STRANDS crossing the bow window like a loom -->
-  <path d="M222 58 L180 348 M206 66 L166 336 M190 78 L152 320 M174 94 L140 300 M158 114 L130 276" stroke="#3b5f88" stroke-width="1.4" opacity=".85"/>
-  <!-- weft traces half-woven across the warp -->
-  <path d="M150 160 L206 152 M140 208 L188 202 M136 254 L176 250" stroke="#60a5fa" stroke-width="1.2" opacity=".6"/>
-  <!-- the bowstring: single released thread, DRAWN, luminous -->
-  <path d="M238 46 L286 208 L192 358" fill="none" stroke="#e0f2fe" stroke-width="2.6"/>
-  <!-- the nocked shot: a spindle-bolt of wound thread, aimed right -->
-  <path d="M286 208 L368 200" stroke="#7dd3fc" stroke-width="3.4"/>
-  <path d="M296 203 L312 213 M316 201 L332 211 M336 199 L350 208" stroke="#38bdf8" stroke-width="1.6"/>
-  <path d="M362 192 L374 200 L362 208" fill="#0a1626" stroke="#e0f2fe" stroke-width="2.2"/>
-  <path d="M286 200 L278 194 M286 216 L278 222" stroke="#e0f2fe" stroke-width="2"/>
-  <!-- the two anchor knots of light at the grip: Dream and waking -->
-  <circle cx="270" cy="190" r="7" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.6"/>
-  <path d="M266 186 C 268 184, 272 184, 274 186 M266 193 C 268 195, 272 195, 274 193" stroke="#7dd3fc" stroke-width="1.4" fill="none"/>
-  <circle cx="270" cy="226" r="7" fill="#0a1626" stroke="#fcd34d" stroke-width="2.6"/>
-  <path d="M267 223 L273 229 M273 223 L267 229" stroke="#fcd34d" stroke-width="1.4"/>
-  <!-- cord grip between the knots -->
-  <path d="M270 198 L270 218" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
-  <path d="M266 202 L274 202 M266 208 L274 208 M266 214 L274 214" stroke="#93c5fd" stroke-width="1.8"/>
+  <path d="M226 52 C 240 44, 252 44, 260 52" fill="none" stroke="url(#bl176)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M226 52 C 178 76, 140 120, 126 176" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
+  <path d="M208 62 L218 74 M176 90 L188 100 M148 128 L162 136 M128 172 L142 176" stroke="#1e3a5f" stroke-width="2"/>
+  <!-- lower limb with RECURVED tip -->
+  <path d="M114 224 C 118 276, 144 320, 186 350" fill="none" stroke="url(#bl176)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M186 350 C 200 358, 212 358, 220 352" fill="none" stroke="url(#bl176)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M121 228 C 126 274, 150 314, 188 342" fill="none" stroke="#1e3a5f" stroke-width="2" opacity=".8"/>
+  <path d="M128 260 L140 256 M142 294 L154 286 M164 324 L174 314" stroke="#1e3a5f" stroke-width="2"/>
+  <!-- string nocks in the recurved tips -->
+  <path d="M258 46 L266 56 L254 58" fill="#12233d" stroke="#7dd3fc" stroke-width="2"/>
+  <path d="M218 356 L226 348 L224 360" fill="#12233d" stroke="#7dd3fc" stroke-width="2"/>
+  <!-- WARP STRANDS crossing the bow window -->
+  <path d="M222 60 L184 342 M206 68 L170 330 M190 82 L156 314 M174 98 L144 296 M158 118 L134 272" stroke="#3b5f88" stroke-width="1.4" opacity=".85"/>
+  <path d="M150 164 L206 156 M140 212 L188 206 M136 258 L176 254" stroke="#60a5fa" stroke-width="1.2" opacity=".6"/>
+  <!-- bowstring drawn -->
+  <path d="M260 52 L292 210 L220 352" fill="none" stroke="#e0f2fe" stroke-width="2.6"/>
+  <!-- nocked spindle-bolt of wound thread -->
+  <path d="M292 210 L372 202" stroke="#7dd3fc" stroke-width="3.4"/>
+  <path d="M302 205 L318 215 M322 203 L338 213 M342 201 L356 210" stroke="#38bdf8" stroke-width="1.6"/>
+  <path d="M366 194 L378 202 L366 210" fill="#0a1626" stroke="#e0f2fe" stroke-width="2.2"/>
+  <path d="M292 202 L284 196 M292 218 L284 224" stroke="#e0f2fe" stroke-width="2"/>
+  <!-- Dream and waking anchor knots at the grip -->
+  <circle cx="276" cy="192" r="7" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.6"/>
+  <path d="M272 188 C 274 186, 278 186, 280 188 M272 195 C 274 197, 278 197, 280 195" stroke="#7dd3fc" stroke-width="1.4" fill="none"/>
+  <circle cx="276" cy="228" r="7" fill="#0a1626" stroke="#fcd34d" stroke-width="2.6"/>
+  <path d="M273 225 L279 231 M279 225 L273 231" stroke="#fcd34d" stroke-width="1.4"/>
+  <path d="M276 200 L276 220" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
+  <path d="M272 204 L280 204 M272 210 L280 210 M272 216 L280 216" stroke="#93c5fd" stroke-width="1.8"/>
 </svg>

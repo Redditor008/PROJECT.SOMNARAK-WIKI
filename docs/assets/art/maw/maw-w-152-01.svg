@@ -14,32 +14,22 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#060812" stroke="#818cf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#818cf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- blade: tall, slightly tilted, glass over charred door-grain -->
-  <path d="M186 322 L170 322 L162 306 L196 88 C 198 72, 208 62, 220 64 C 232 66, 238 78, 236 94 L204 310 Z"
+  <path d="M186 322 L170 322 L162 306 L192 96 L212 62 L232 90 L204 310 Z"
         fill="url(#bl152)" stroke="#818cf8" stroke-width="2.8"/>
-  <!-- charred door-grain: long wavering grain lines with knots -->
-  <path d="M186 300 C 190 240, 196 180, 204 120 M196 306 C 200 244, 206 184, 214 122 M178 296 C 182 244, 188 190, 194 138"
-        fill="none" stroke="#1e1b4b" stroke-width="1.8"/>
-  <path d="M198 210 a4 6 0 1 0 .1 0 M188 254 a3 5 0 1 0 .1 0" fill="none" stroke="#1e1b4b" stroke-width="1.6"/>
-  <!-- scorch marks -->
-  <path d="M180 276 C 184 272, 190 272, 194 276 M206 160 C 210 156, 216 156, 220 160" fill="none" stroke="#4c1d95" stroke-width="2" opacity=".8"/>
-  <!-- glass sheen -->
-  <path d="M170 310 L200 96" stroke="#e0e7ff" stroke-width="1.4" opacity=".85"/>
-  <!-- the threshold inlay: one bright line across the flat, gold, pointing home -->
-  <path d="M170 232 L228 224" stroke="#f1df76" stroke-width="3"/>
-  <path d="M222 218 L232 224 L222 230" fill="none" stroke="#f1df76" stroke-width="2"/>
-  <!-- ghost-door repeats engraved ABOVE the threshold, fading -->
-  <rect x="196" y="120" width="20" height="30" rx="2" fill="none" stroke="#818cf8" stroke-width="1.6" opacity=".85"/>
-  <rect x="192" y="158" width="20" height="30" rx="2" fill="none" stroke="#6366f1" stroke-width="1.4" opacity=".55" stroke-dasharray="4 3"/>
-  <rect x="188" y="194" width="19" height="28" rx="2" fill="none" stroke="#4f46e5" stroke-width="1.2" opacity=".35" stroke-dasharray="2 4"/>
-  <!-- the REAL door: solid, lit, engraved BELOW the threshold -->
-  <rect x="180" y="246" width="22" height="34" rx="2" fill="#1e1b4b" stroke="#c7d2fe" stroke-width="2"/>
-  <circle cx="185" cy="264" r="1.8" fill="#fcd34d"/>
-  <path d="M176 284 L208 284" stroke="#fcd34d" stroke-width="1.6" opacity=".8"/>
-  <!-- door-lintel guard: a small doorframe the blade passes through -->
+  <path d="M180 296 L204 110 L216 88 L228 106 L206 292 Z" fill="none" stroke="#6366f1" stroke-width="1.6" opacity=".75"/>
+  <path d="M188 274 L206 130 L215 112 L224 126 L208 270 Z" fill="none" stroke="#4f46e5" stroke-width="1.4" opacity=".55"/>
+  <path d="M194 252 L208 148 L214 134 L221 146 L210 250 Z" fill="none" stroke="#4338ca" stroke-width="1.2" opacity=".4"/>
+  <path d="M212 62 L232 90 M212 62 L192 96" stroke="#e0e7ff" stroke-width="1.8"/>
+  <path d="M216 88 L228 106 M215 112 L224 126" stroke="#a5b4fc" stroke-width="1.2" opacity=".8"/>
+  <path d="M176 300 C 182 240, 190 172, 198 116 M196 306 C 202 246, 208 180, 216 118" fill="none" stroke="#1e1b4b" stroke-width="1.6"/>
+  <path d="M186 216 a4 6 0 1 0 .1 0" fill="none" stroke="#1e1b4b" stroke-width="1.6"/>
+  <path d="M172 310 L204 92" stroke="#e0e7ff" stroke-width="1.4" opacity=".85"/>
+  <path d="M168 254 L226 246" stroke="#f1df76" stroke-width="3"/>
+  <path d="M220 240 L230 246 L220 252" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <rect x="180" y="272" width="22" height="32" rx="2" fill="#1e1b4b" stroke="#c7d2fe" stroke-width="2"/>
+  <circle cx="185" cy="289" r="1.8" fill="#fcd34d"/>
   <path d="M156 322 L156 344 M216 322 L216 344 M150 322 L222 322" fill="none" stroke="#a5b4fc" stroke-width="4"/>
   <path d="M156 328 L216 328" stroke="#6366f1" stroke-width="1.4" opacity=".7"/>
-  <!-- wrapped grip + boot-worn pommel -->
   <path d="M186 344 L186 376" stroke="#1e1b4b" stroke-width="11" stroke-linecap="round"/>
   <path d="M180 350 L192 350 M180 358 L192 358 M180 366 L192 366" stroke="#818cf8" stroke-width="2.2"/>
   <path d="M176 382 C 182 388, 192 388, 198 382" fill="none" stroke="#c7d2fe" stroke-width="2.6"/>

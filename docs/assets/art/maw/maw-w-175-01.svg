@@ -14,33 +14,29 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- blade: long elegant diagonal, translucent crystal -->
+  <!-- tabular faden crystal blade -->
   <path d="M118 314 L102 330 L116 344 L310 128 C 326 110, 330 88, 316 76 C 302 66, 282 72, 268 88 Z"
         fill="url(#bl175)" stroke="#38bdf8" stroke-width="2.8"/>
   <path d="M124 308 L306 106" stroke="#e0f2fe" stroke-width="1.6" opacity=".9"/>
   <path d="M136 318 L300 138" stroke="#1e3a5f" stroke-width="1.8"/>
-  <!-- WANDERING threads under the surface near the guard: loose, directionless -->
-  <path d="M134 296 C 146 288, 142 278, 154 270 C 162 264, 158 256, 168 250 C 176 244, 172 236, 182 230"
-        fill="none" stroke="#3b5f88" stroke-width="2"/>
-  <path d="M148 306 C 162 296, 158 288, 172 278 C 182 270, 178 262, 190 254" fill="none" stroke="#3b5f88" stroke-width="1.6" opacity=".8"/>
-  <path d="M128 284 C 138 278, 136 270, 146 264" fill="none" stroke="#3b5f88" stroke-width="1.4" opacity=".6"/>
-  <!-- the threads ALIGN mid-blade into one luminous line running out the tip -->
-  <path d="M186 240 C 198 230, 212 218, 226 204" fill="none" stroke="#7dd3fc" stroke-width="2.6"/>
-  <path d="M226 204 L306 118" stroke="#e0f2fe" stroke-width="3"/>
-  <path d="M298 108 L312 116 M302 128 L314 118" stroke="#e0f2fe" stroke-width="1.6" opacity=".8"/>
-  <!-- knot where they join: small bright braid -->
-  <circle cx="222" cy="208" r="4.6" fill="none" stroke="#f1df76" stroke-width="2"/>
-  <path d="M216 214 C 219 210, 225 206, 229 203" stroke="#f1df76" stroke-width="1.2"/>
-  <!-- oval doorway guard: thread-light framed like a door ajar -->
+  <!-- THE FADEN THREAD: single milky-white line running the full length inside the crystal -->
+  <path d="M126 314 C 160 280, 196 244, 232 206 C 258 178, 282 150, 302 120" fill="none" stroke="#ffffff" stroke-width="3" opacity=".95"/>
+  <path d="M126 314 C 160 280, 196 244, 232 206 C 258 178, 282 150, 302 120" fill="none" stroke="#e0f2fe" stroke-width="6" opacity=".25"/>
+  <!-- the repetitive-cracking texture of a faden line: tiny cross-cracks along it -->
+  <path d="M150 288 L158 294 M178 260 L186 266 M206 232 L214 238 M234 202 L242 208 M262 172 L270 178 M286 142 L294 148"
+        stroke="#bae6fd" stroke-width="1.4" opacity=".8"/>
+  <!-- gas-liquid inclusions beading on the thread -->
+  <circle cx="166" cy="272" r="2" fill="#ffffff" opacity=".9"/><circle cx="222" cy="216" r="2.2" fill="#ffffff" opacity=".9"/><circle cx="276" cy="156" r="2" fill="#ffffff" opacity=".9"/>
+  <!-- tabular facet shading -->
+  <path d="M148 282 L172 302 M196 230 L220 250 M248 176 L272 196" stroke="#3b5f88" stroke-width="1.2" opacity=".7"/>
+  <!-- oval doorway guard framing the thread -->
   <ellipse cx="106" cy="324" rx="14" ry="24" transform="rotate(45 106 324)" fill="#0a1626" stroke="#93c5fd" stroke-width="3.2"/>
   <ellipse cx="106" cy="324" rx="8" ry="17" transform="rotate(45 106 324)" fill="none" stroke="#60a5fa" stroke-width="1.6" opacity=".8"/>
-  <path d="M100 318 L112 330" stroke="#e0f2fe" stroke-width="1.6"/>
-  <!-- pale blue cord wrap, loop by loop, with the consent-knot ends -->
+  <path d="M100 318 L112 330" stroke="#ffffff" stroke-width="1.8"/>
+  <!-- pale blue cord wrap + waking-anchor lantern charm -->
   <path d="M92 340 L54 378" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
   <path d="M88 344 L96 352 M80 352 L88 360 M72 360 L80 368 M64 368 L72 376" stroke="#93c5fd" stroke-width="2.6"/>
   <path d="M50 384 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#fcd34d" stroke-width="2.2"/>
-  <path d="M44 388 C 38 392, 32 392, 28 388 M56 392 C 52 396, 46 397, 42 395" fill="none" stroke="#93c5fd" stroke-width="1.6"/>
-  <!-- waking-anchor charm: tiny lantern hung from the guard -->
   <path d="M124 342 C 128 348, 128 354, 124 358" fill="none" stroke="#fcd34d" stroke-width="1.6"/>
   <rect x="118" y="358" width="13" height="16" rx="2" fill="#0a1626" stroke="#fcd34d" stroke-width="1.8"/>
   <path d="M124 362 L124 370" stroke="#fcd34d" stroke-width="1.6"/>

@@ -14,36 +14,40 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- BODY: slender white frame, long sighting rail, aimed up-right -->
-  <path d="M92 262 L296 190 C 306 186, 316 190, 320 200 L326 216 C 330 226, 326 236, 316 240 L112 312 C 102 316, 92 312, 88 302 L82 286 C 78 276, 82 266, 92 262 Z"
-        fill="#1a1d24" stroke="#e2e8f0" stroke-width="2.8"/>
-  <!-- sighting rail with notches along the top edge -->
-  <path d="M96 258 L298 186" stroke="#cbd5e1" stroke-width="3"/>
-  <path d="M120 252 L118 244 M152 240 L150 232 M184 228 L182 220 M216 217 L214 209 M248 206 L246 198 M278 195 L276 187" stroke="#cbd5e1" stroke-width="2"/>
-  <!-- frame engraving: three declaration slots (known/unknown/inferred) etched into the flat -->
-  <rect x="140" y="258" width="42" height="14" rx="2" transform="rotate(-19.5 161 265)" fill="none" stroke="#94a3b8" stroke-width="1.6"/>
-  <rect x="188" y="241" width="42" height="14" rx="2" transform="rotate(-19.5 209 248)" fill="none" stroke="#94a3b8" stroke-width="1.4" stroke-dasharray="4 3"/>
-  <rect x="236" y="224" width="42" height="14" rx="2" transform="rotate(-19.5 257 231)" fill="none" stroke="#64748b" stroke-width="1.4" stroke-dasharray="2 3"/>
-  <!-- grip: angled, chequered -->
+  <!-- SEGMENTED body: four connected sections with join seams and pin dots -->
+  <path d="M92 262 L146 243 L152 259 L98 278 C 90 280, 84 276, 82 269 C 81 266, 85 264, 92 262 Z" fill="#1a1d24" stroke="#e2e8f0" stroke-width="2.6"/>
+  <path d="M156 240 L212 220 L218 236 L162 256 Z" fill="#1a1d24" stroke="#e2e8f0" stroke-width="2.6"/>
+  <path d="M222 216 L278 196 L284 212 L228 232 Z" fill="#1a1d24" stroke="#e2e8f0" stroke-width="2.6"/>
+  <path d="M288 193 L308 186 C 316 183, 324 187, 327 195 C 330 203, 326 211, 318 214 L294 209 Z" fill="#1a1d24" stroke="#e2e8f0" stroke-width="2.6"/>
+  <!-- join couplings between segments -->
+  <path d="M148 242 L160 254 M214 222 L224 234 M280 198 L290 208" stroke="#94a3b8" stroke-width="4"/>
+  <circle cx="152" cy="250" r="1.8" fill="#e2e8f0"/><circle cx="218" cy="229" r="1.8" fill="#e2e8f0"/><circle cx="284" cy="204" r="1.8" fill="#e2e8f0"/>
+  <!-- energy conduit running through all sections -->
+  <path d="M96 268 C 160 244, 240 216, 312 196" fill="none" stroke="#cbd5e1" stroke-width="1.6" stroke-dasharray="8 4" opacity=".8"/>
+  <!-- sighting rail notches on top -->
+  <path d="M120 254 L118 246 M172 236 L170 228 M238 212 L236 204 M296 192 L294 184" stroke="#cbd5e1" stroke-width="2"/>
+  <!-- declaration slots etched: known / unknown / inferred -->
+  <rect x="166" y="242" width="34" height="12" rx="2" transform="rotate(-19.5 183 248)" fill="none" stroke="#94a3b8" stroke-width="1.5"/>
+  <rect x="230" y="219" width="34" height="12" rx="2" transform="rotate(-19.5 247 225)" fill="none" stroke="#94a3b8" stroke-width="1.4" stroke-dasharray="4 3"/>
+  <rect x="118" y="259" width="26" height="12" rx="2" transform="rotate(-19.5 131 265)" fill="none" stroke="#64748b" stroke-width="1.4" stroke-dasharray="2 3"/>
+  <!-- grip: chequered, angled, its own section -->
   <path d="M118 308 L142 368 C 146 378, 140 386, 130 386 L110 386 C 102 386, 96 380, 98 372 L104 314 Z" fill="#1a1d24" stroke="#e2e8f0" stroke-width="2.6"/>
+  <path d="M104 300 L124 292 L130 308 L110 316 Z" fill="#1a1d24" stroke="#94a3b8" stroke-width="2"/>
   <path d="M108 326 L132 344 M106 340 L128 358 M112 318 L134 334" stroke="#64748b" stroke-width="1.6"/>
   <path d="M124 322 L108 336 M130 336 L112 352 M134 350 L118 366" stroke="#64748b" stroke-width="1.6"/>
-  <!-- trigger-ring: not a trigger — an open witness-ring, nothing to pull -->
+  <!-- witness-ring (no trigger) -->
   <circle cx="158" cy="322" r="14" fill="none" stroke="#cbd5e1" stroke-width="2.6"/>
   <circle cx="158" cy="322" r="14" fill="none" stroke="#475061" stroke-width="1" stroke-dasharray="3 4"/>
-  <!-- muzzle mount: THE LENS where a muzzle would be -->
-  <path d="M312 196 L332 224" stroke="#94a3b8" stroke-width="7"/>
-  <circle cx="342" cy="196" r="34" fill="#0e1013" stroke="#e2e8f0" stroke-width="3.2"/>
-  <!-- fogged outer zone of the glass -->
-  <circle cx="342" cy="196" r="26" fill="none" stroke="#94a3b8" stroke-width="2" stroke-dasharray="4 3" opacity=".8"/>
-  <path d="M326 182 C 332 176, 342 174, 350 178 M324 200 C 328 206, 334 210, 342 211" fill="none" stroke="#64748b" stroke-width="1.6" opacity=".7"/>
-  <!-- the cleared reading core -->
-  <circle cx="342" cy="196" r="12" fill="#181b22" stroke="#e2e8f0" stroke-width="2"/>
-  <path d="M336 190 L348 202 M348 190 L336 202" stroke="#e2e8f0" stroke-width="1.2" opacity=".8"/>
-  <circle cx="338" cy="192" r="2.6" fill="#e2e8f0"/>
-  <!-- hard sight-glint off the lens rim -->
-  <path d="M366 172 L378 162 M370 186 L384 182" stroke="#e2e8f0" stroke-width="1.8" opacity=".85"/>
-  <!-- lanyard loop + archive seal tag at the butt -->
+  <!-- muzzle mount + THE LENS -->
+  <path d="M318 190 L334 216" stroke="#94a3b8" stroke-width="7"/>
+  <circle cx="344" cy="190" r="34" fill="#0e1013" stroke="#e2e8f0" stroke-width="3.2"/>
+  <circle cx="344" cy="190" r="26" fill="none" stroke="#94a3b8" stroke-width="2" stroke-dasharray="4 3" opacity=".8"/>
+  <path d="M328 176 C 334 170, 344 168, 352 172 M326 194 C 330 200, 336 204, 344 205" fill="none" stroke="#64748b" stroke-width="1.6" opacity=".7"/>
+  <circle cx="344" cy="190" r="12" fill="#181b22" stroke="#e2e8f0" stroke-width="2"/>
+  <path d="M338 184 L350 196 M350 184 L338 196" stroke="#e2e8f0" stroke-width="1.2" opacity=".8"/>
+  <circle cx="340" cy="186" r="2.6" fill="#e2e8f0"/>
+  <path d="M368 166 L380 156 M372 180 L386 176" stroke="#e2e8f0" stroke-width="1.8" opacity=".85"/>
+  <!-- lanyard + archive seal -->
   <path d="M104 384 C 96 390, 88 390, 82 384" fill="none" stroke="#94a3b8" stroke-width="2"/>
   <rect x="64" y="368" width="16" height="12" rx="2" fill="none" stroke="#cbd5e1" stroke-width="1.6"/>
   <circle cx="72" cy="374" r="2" fill="#cbd5e1"/>

@@ -14,33 +14,31 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0703" stroke="#f59e0b" stroke-width="1.2"/>
   <text x="30" y="36" fill="#f59e0b" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- haft sweeping from low-left, iron collars -->
-  <path d="M84 348 L232 214" stroke="#2c1c0a" stroke-width="14" stroke-linecap="round"/>
-  <path d="M88 344 L228 218" stroke="#4a300f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M84 348 L226 222" stroke="#2c1c0a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M88 344 L222 226" stroke="#4a300f" stroke-width="8" stroke-linecap="round"/>
   <path d="M118 320 L132 334 M150 290 L164 304 M182 262 L196 276" stroke="#78716c" stroke-width="6"/>
   <path d="M120 318 L130 328 M152 288 L162 298 M184 260 L194 270" stroke="#d6d3d1" stroke-width="1.6"/>
   <path d="M78 356 a8 8 0 1 0 .1 0" fill="#1c1206" stroke="#f59e0b" stroke-width="2.4"/>
-  <!-- clock-face head: heavy ring, glass face, numerals as ticks -->
-  <circle cx="272" cy="152" r="74" fill="#171006" stroke="#f59e0b" stroke-width="3.4"/>
-  <circle cx="272" cy="152" r="74" fill="url(#bl156)" opacity=".18"/>
-  <circle cx="272" cy="152" r="60" fill="none" stroke="#a16207" stroke-width="2"/>
-  <!-- hour ticks, twelve of them -->
-  <path d="M272 96 L272 106 M272 198 L272 208 M216 152 L226 152 M318 152 L328 152 M244 104 L249 113 M300 104 L295 113 M244 200 L249 191 M300 200 L295 191 M222 124 L231 129 M322 124 L313 129 M222 180 L231 175 M322 180 L313 175"
+  <path d="M232 100 C 218 112, 210 130, 210 150 C 210 170, 218 188, 232 200 L296 224 C 282 212, 274 194, 274 174 C 274 154, 282 136, 296 124 Z"
+        fill="#171006" stroke="#d97706" stroke-width="3"/>
+  <path d="M244 110 C 232 122, 226 138, 226 154 C 226 170, 232 186, 244 198 M262 118 C 250 130, 244 146, 244 162 C 244 178, 250 194, 262 206"
+        fill="none" stroke="#78716c" stroke-width="4"/>
+  <path d="M245 112 C 234 124, 228 138, 228 153 M263 120 C 252 132, 246 146, 246 161" stroke="#a8a29e" stroke-width="1.4" fill="none"/>
+  <ellipse cx="302" cy="174" rx="46" ry="60" fill="#171006" stroke="#f59e0b" stroke-width="3.2"/>
+  <ellipse cx="302" cy="174" rx="46" ry="60" fill="url(#bl156)" opacity=".16"/>
+  <ellipse cx="302" cy="174" rx="35" ry="48" fill="none" stroke="#a16207" stroke-width="1.8"/>
+  <path d="M302 118 L302 128 M302 220 L302 230 M260 174 L268 174 M336 174 L344 174 M276 132 L281 140 M328 132 L323 140 M276 216 L281 208 M328 216 L323 208"
         stroke="#fbbf24" stroke-width="2.4"/>
-  <!-- hands stuck off-time -->
-  <path d="M272 152 L296 118" stroke="#fde68a" stroke-width="4" stroke-linecap="round"/>
-  <path d="M272 152 L240 164" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="272" cy="152" r="5" fill="#fde68a"/>
-  <!-- the crack across the face, gears exposed inside -->
-  <path d="M212 122 L246 142 L238 166 L268 186 L262 210" fill="none" stroke="#f59e0b" stroke-width="3"/>
-  <path d="M212 122 L246 142 L238 166" fill="none" stroke="#fff7d6" stroke-width="1.2"/>
-  <circle cx="250" cy="176" r="9" fill="none" stroke="#a16207" stroke-width="2"/>
-  <path d="M250 165 L250 169 M250 183 L250 187 M239 176 L243 176 M257 176 L261 176 M243 169 L246 172 M257 180 L254 177 M243 183 L246 180 M257 172 L254 175" stroke="#a16207" stroke-width="1.8"/>
-  <circle cx="264" cy="196" r="6" fill="none" stroke="#78350f" stroke-width="1.8"/>
-  <path d="M264 188 L264 191 M264 201 L264 204 M256 196 L259 196 M269 196 L272 196" stroke="#78350f" stroke-width="1.4"/>
-  <!-- strike collar joining head to haft -->
-  <path d="M226 206 L244 224" stroke="#78716c" stroke-width="8"/>
-  <path d="M228 204 L242 218" stroke="#d6d3d1" stroke-width="1.8"/>
-  <!-- due-tick engraved at twelve: the one mark that matters -->
-  <path d="M266 88 L272 96 L282 82" fill="none" stroke="#4ade80" stroke-width="2.6"/>
+  <path d="M302 174 L320 142" stroke="#fde68a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M302 174 L282 184" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="302" cy="174" r="5" fill="#fde68a"/>
+  <path d="M268 136 L292 158 L284 180 L306 200 L300 224" fill="none" stroke="#f59e0b" stroke-width="3"/>
+  <path d="M268 136 L292 158 L284 180" fill="none" stroke="#fff7d6" stroke-width="1.2"/>
+  <circle cx="294" cy="192" r="9" fill="none" stroke="#a16207" stroke-width="2"/>
+  <path d="M294 181 L294 185 M294 199 L294 203 M283 192 L287 192 M301 192 L305 192 M287 185 L290 188 M301 196 L298 193 M287 199 L290 196 M301 188 L298 191" stroke="#a16207" stroke-width="1.8"/>
+  <circle cx="308" cy="210" r="6" fill="none" stroke="#78350f" stroke-width="1.8"/>
+  <path d="M308 202 L308 205 M308 215 L308 218 M300 210 L303 210 M313 210 L316 210" stroke="#78350f" stroke-width="1.4"/>
+  <path d="M296 112 L302 120 L312 106" fill="none" stroke="#4ade80" stroke-width="2.6"/>
+  <path d="M230 206 L246 220" stroke="#78716c" stroke-width="8"/>
+  <path d="M232 204 L244 216" stroke="#d6d3d1" stroke-width="1.8"/>
 </svg>

@@ -14,34 +14,26 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- handle: pale glass too, light passing through, faceted -->
   <path d="M256 372 L226 180" stroke="#1a1d24" stroke-width="13" stroke-linecap="round"/>
   <path d="M252 366 L226 186" stroke="#333a47" stroke-width="7" stroke-linecap="round"/>
   <path d="M246 340 L258 336 M240 300 L252 296 M234 260 L246 256" stroke="#94a3b8" stroke-width="2"/>
   <path d="M244 344 L232 250" stroke="#e2e8f0" stroke-width="1.2" opacity=".6"/>
   <path d="M262 380 a8 8 0 1 0 .1 0" fill="#14161c" stroke="#cbd5e1" stroke-width="2.4"/>
-  <!-- head: translucent Han-glass block; inner planes visible -->
   <path d="M128 108 L300 88 C 314 86, 324 94, 326 108 L332 152 C 334 166, 326 176, 312 178 L140 198 C 126 200, 116 192, 114 178 L108 134 C 106 120, 114 110, 128 108 Z"
         fill="#181b22" stroke="#cbd5e1" stroke-width="3"/>
   <path d="M124 116 L296 96 M132 190 L304 170" stroke="#e2e8f0" stroke-width="1.4" opacity=".7"/>
   <path d="M140 112 L152 192 M300 94 L312 172" stroke="#333a47" stroke-width="1.6"/>
   <path d="M118 128 L322 104" stroke="#e2e8f0" stroke-width="1" opacity=".4"/>
-  <!-- THE BELL HOLLOW seen through the glass: a bell-shaped void with a silent clapper -->
   <path d="M206 112 C 190 118, 180 132, 178 150 C 177 160, 180 168, 188 172 L244 166 C 250 160, 252 150, 250 140 C 246 124, 234 112, 218 110 C 214 110, 210 110, 206 112 Z"
         fill="#0b0d12" stroke="#94a3b8" stroke-width="2.4"/>
   <path d="M196 122 C 188 130, 184 142, 184 154" fill="none" stroke="#64748b" stroke-width="1.4" opacity=".8"/>
-  <path d="M212 168 L214 176 M210 180 a4 4 0 1 0 8 0 a4 4 0 1 0 -8 0" fill="none" stroke="#e2e8f0" stroke-width="1.8"/>
-  <!-- the clapper hangs FREE of the bell wall: it has never rung -->
   <path d="M216 118 L215 152" stroke="#94a3b8" stroke-width="1.6"/>
   <circle cx="215" cy="156" r="4.4" fill="#333a47" stroke="#e2e8f0" stroke-width="1.6"/>
-  <!-- swallowed-sound marks etched on the striking face, cancelled -->
   <path d="M138 140 C 142 136, 146 144, 150 140 M138 156 C 142 152, 146 160, 150 156" stroke="#64748b" stroke-width="1.6" fill="none"/>
   <path d="M134 134 L154 162 M154 134 L134 162" stroke="#475061" stroke-width="1.2" opacity=".8"/>
-  <!-- one pale impact ring living in the glass of the opposite face -->
   <circle cx="292" cy="132" r="16" fill="none" stroke="#e2e8f0" stroke-width="1.8" opacity=".9"/>
   <circle cx="292" cy="132" r="9" fill="none" stroke="#cbd5e1" stroke-width="1.2" opacity=".6"/>
   <circle cx="292" cy="132" r="3" fill="#e2e8f0" opacity=".9"/>
-  <!-- collar -->
   <path d="M220 196 L232 202" stroke="#64748b" stroke-width="8"/>
   <circle cx="226" cy="200" r="2" fill="#e2e8f0"/>
 </svg>

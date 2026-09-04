@@ -14,31 +14,30 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0703" stroke="#d97706" stroke-width="1.2"/>
   <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- compact haft, angled, with a working man's rope lashing -->
   <path d="M104 340 L232 208" stroke="#2c1c0a" stroke-width="13" stroke-linecap="round"/>
   <path d="M108 336 L228 212" stroke="#4a300f" stroke-width="7" stroke-linecap="round"/>
   <path d="M132 316 C 140 308, 148 312, 146 320 C 154 312, 162 316, 160 324" fill="none" stroke="#a16207" stroke-width="2.6"/>
   <path d="M98 348 a7 7 0 1 0 .1 0" fill="#1c1206" stroke="#f59e0b" stroke-width="2.4"/>
-  <!-- the head: small dense block, one face bright (the brace face), the rest rust-bloomed -->
-  <path d="M212 118 L316 96 L338 160 L246 194 C 232 198, 220 192, 216 178 Z"
+  <!-- CROSS-PEEN head: flat round face right, tapering wedge peen left -->
+  <path d="M244 130 L296 118 C 312 114, 326 122, 330 138 L338 166 C 342 182, 334 196, 318 200 L266 212 C 254 214, 244 208, 240 196 Z"
         fill="#171006" stroke="#d97706" stroke-width="3"/>
-  <path d="M222 126 L308 108 L326 156 L248 184 Z" fill="url(#bl169)" opacity=".2"/>
-  <!-- the bright brace face: polished from every load it has taken -->
-  <path d="M316 96 L338 160" stroke="#fde68a" stroke-width="4"/>
-  <path d="M320 104 L334 148" stroke="#fff7d6" stroke-width="1.6"/>
-  <!-- rust blooming in LIVING lines across the cheek — they appear when a support is overloaded -->
-  <path d="M232 132 C 244 138, 250 148, 250 160 M256 124 C 268 132, 274 144, 272 158 M282 116 C 294 126, 298 140, 294 154"
+  <path d="M244 130 L204 118 C 194 116, 186 122, 186 132 L186 148 C 186 158, 194 164, 204 162 L240 196" fill="#100b04" stroke="#d97706" stroke-width="2.6"/>
+  <path d="M192 126 L196 154" stroke="#78350f" stroke-width="1.8"/>
+  <rect x="250" y="128" width="80" height="74" rx="10" transform="rotate(-13 290 165)" fill="url(#bl169)" opacity=".18"/>
+  <!-- the bright working face -->
+  <path d="M330 138 L338 166" stroke="#fde68a" stroke-width="4.4"/>
+  <path d="M331 144 L336 160" stroke="#fff7d6" stroke-width="1.6"/>
+  <!-- rust blooming in living lines -->
+  <path d="M256 148 C 268 154, 274 164, 274 176 M280 140 C 292 148, 298 160, 296 174 M304 132 C 316 142, 320 156, 316 170"
         fill="none" stroke="#b45309" stroke-width="2.6"/>
-  <path d="M236 128 C 240 126, 244 127, 246 130 M262 120 C 266 118, 270 119, 272 122" stroke="#ea580c" stroke-width="1.8"/>
-  <circle cx="248" cy="164" r="2" fill="#b45309"/><circle cx="270" cy="160" r="2.2" fill="#b45309"/><circle cx="292" cy="156" r="1.8" fill="#b45309"/>
-  <!-- old cracks bound with iron stitching: repairs it carries proudly -->
-  <path d="M226 172 L246 148 M240 178 L258 152" stroke="#78350f" stroke-width="1.8"/>
-  <path d="M230 162 L242 168 M238 154 L250 160 M246 146 L258 152" stroke="#a8a29e" stroke-width="2.2"/>
-  <!-- collar rivets -->
-  <path d="M216 178 L236 196" stroke="#78716c" stroke-width="8"/>
-  <circle cx="222" cy="186" r="2.2" fill="#fde68a"/><circle cx="231" cy="193" r="2.2" fill="#fde68a"/>
-  <!-- the short dark brace line leaving the bright face: load moving where it is prepared to go -->
-  <path d="M340 130 C 356 134, 366 144, 370 158" fill="none" stroke="#100b04" stroke-width="5"/>
-  <path d="M340 130 C 356 134, 366 144, 370 158" fill="none" stroke="#f59e0b" stroke-width="1.2" opacity=".6"/>
-  <path d="M366 150 L372 160 L360 160" fill="none" stroke="#f59e0b" stroke-width="1.8"/>
+  <path d="M260 144 C 264 142, 268 143, 270 146 M286 136 C 290 134, 294 135, 296 138" stroke="#ea580c" stroke-width="1.8"/>
+  <circle cx="272" cy="180" r="2" fill="#b45309"/><circle cx="294" cy="178" r="2.2" fill="#b45309"/><circle cx="314" cy="174" r="1.8" fill="#b45309"/>
+  <!-- old cracks bound with iron stitching -->
+  <path d="M250 196 L270 172 M264 202 L282 176" stroke="#78350f" stroke-width="1.8"/>
+  <path d="M254 186 L266 192 M262 178 L274 184 M270 170 L282 176" stroke="#a8a29e" stroke-width="2.2"/>
+  <!-- eye collar -->
+  <path d="M240 196 L256 210" stroke="#78716c" stroke-width="8"/>
+  <circle cx="246" cy="202" r="2.2" fill="#fde68a"/>
+  <!-- peen wedge grain -->
+  <path d="M196 128 L236 140 M196 148 L234 156" stroke="#3f2d12" stroke-width="1.4" opacity=".9"/>
 </svg>

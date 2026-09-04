@@ -14,32 +14,35 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- the small blade: broad, blunt-tipped, angled AWAY from forward -->
-  <path d="M172 268 L120 210 C 106 194, 104 172, 118 158 C 132 144, 154 146, 170 160 L262 242 C 274 254, 276 268, 268 278 C 258 288, 242 288, 228 278 Z"
+  <!-- double-terminated crystal blade: pyramid facets at BOTH ends (grew free, points nowhere) -->
+  <path d="M96 232 L128 196 L262 240 L294 292 L262 316 L128 272 Z"
         fill="url(#bl168)" stroke="#38bdf8" stroke-width="2.8"/>
-  <!-- blunt tip cap: the no-point-forward default -->
-  <path d="M118 158 C 108 168, 106 184, 112 196" fill="none" stroke="#e0f2fe" stroke-width="2.6"/>
-  <path d="M112 170 L104 164 M110 182 L100 180" stroke="#7dd3fc" stroke-width="1.8"/>
-  <!-- facet shading -->
-  <path d="M136 176 L244 270 M128 192 L226 276" stroke="#1e3a5f" stroke-width="1.8" opacity=".85"/>
-  <path d="M158 162 L258 250" stroke="#e0f2fe" stroke-width="1.4" opacity=".85"/>
-  <!-- the BROKEN route line inside the crystal: dashes snapping apart, then the turn -->
-  <path d="M140 186 L162 206 M170 214 L188 230 M196 238 L210 250" stroke="#0a1626" stroke-width="3.4"/>
-  <path d="M214 254 C 226 262, 240 264, 252 258" fill="none" stroke="#7dd3fc" stroke-width="3.4"/>
-  <path d="M246 250 L258 256 L248 266" fill="none" stroke="#7dd3fc" stroke-width="2.4"/>
-  <path d="M164 208 L168 212 M190 232 L194 236" stroke="#f1df76" stroke-width="2" opacity=".9"/>
-  <!-- compass-rose guard at the shoulder -->
-  <circle cx="276" cy="286" r="22" fill="#0a1626" stroke="#60a5fa" stroke-width="2.6"/>
-  <path d="M276 268 L281 281 L294 286 L281 291 L276 304 L271 291 L258 286 L271 281 Z" fill="#12233d" stroke="#7dd3fc" stroke-width="1.8"/>
-  <circle cx="276" cy="286" r="3.4" fill="#f1df76"/>
-  <path d="M276 268 L276 261" stroke="#f1df76" stroke-width="2.4"/>
-  <!-- return-route needle inside the rose points BACK along the grip -->
-  <path d="M276 286 L294 302" stroke="#f1df76" stroke-width="2.6"/>
-  <!-- wrapped grip, worn bright where the custodian's hand checks it -->
-  <path d="M292 302 L330 340" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
-  <path d="M298 306 L306 314 M306 314 L298 322 M314 322 L322 330 M322 330 L314 338" stroke="#7dd3fc" stroke-width="2.2"/>
-  <path d="M336 348 a7 7 0 1 0 .1 0" fill="#0a1626" stroke="#f1df76" stroke-width="2.4"/>
-  <!-- dim tally notches on the spine: they light one per returned member -->
-  <path d="M150 152 L156 144 M166 158 L172 150 M182 166 L188 158 M198 176 L204 168" stroke="#3b5f88" stroke-width="2.4"/>
-  <path d="M150 152 L156 144" stroke="#e0f2fe" stroke-width="1" opacity=".9"/>
+  <!-- termination facets left end -->
+  <path d="M96 232 L128 196 M96 232 L128 272 M96 232 L134 234" stroke="#7dd3fc" stroke-width="1.8"/>
+  <path d="M128 196 L134 234 L128 272" fill="none" stroke="#1e3a5f" stroke-width="1.4"/>
+  <!-- termination facets right end -->
+  <path d="M294 292 L262 240 M294 292 L262 316 M294 292 L256 280" stroke="#7dd3fc" stroke-width="1.8"/>
+  <path d="M262 240 L256 280 L262 316" fill="none" stroke="#1e3a5f" stroke-width="1.4"/>
+  <!-- prism faces between -->
+  <path d="M134 234 L256 280 M128 200 L260 244 M130 268 L258 312" stroke="#1e3a5f" stroke-width="1.6" opacity=".85"/>
+  <path d="M132 206 L258 250" stroke="#e0f2fe" stroke-width="1.4" opacity=".9"/>
+  <!-- the BROKEN route line inside: snapped dashes, then the turn toward home -->
+  <path d="M142 240 L164 248 M172 252 L192 259 M200 262 L216 268" stroke="#0a1626" stroke-width="3.4"/>
+  <path d="M220 270 C 234 274, 246 272, 254 262" fill="none" stroke="#7dd3fc" stroke-width="3.4"/>
+  <path d="M248 256 L258 258 L252 268" fill="none" stroke="#7dd3fc" stroke-width="2.4"/>
+  <path d="M166 250 L170 252 M194 260 L198 262" stroke="#f1df76" stroke-width="2" opacity=".9"/>
+  <!-- growth striations -->
+  <path d="M150 222 L152 250 M182 232 L184 262 M214 244 L216 274 M240 254 L242 284" stroke="#3b5f88" stroke-width="1.1" opacity=".7"/>
+  <!-- compass-rose guard mounted at the crystal's waist -->
+  <circle cx="196" cy="322" r="22" fill="#0a1626" stroke="#60a5fa" stroke-width="2.6"/>
+  <path d="M196 304 L201 317 L214 322 L201 327 L196 340 L191 327 L178 322 L191 317 Z" fill="#12233d" stroke="#7dd3fc" stroke-width="1.8"/>
+  <circle cx="196" cy="322" r="3.4" fill="#f1df76"/>
+  <path d="M196 322 L182 336" stroke="#f1df76" stroke-width="2.6"/>
+  <path d="M196 286 L196 300" stroke="#12233d" stroke-width="8"/>
+  <!-- wrapped grip hanging below -->
+  <path d="M212 338 L248 368" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
+  <path d="M218 342 L226 350 M226 350 L218 358 M234 356 L242 364" stroke="#7dd3fc" stroke-width="2.2"/>
+  <path d="M254 374 a7 7 0 1 0 .1 0" fill="#0a1626" stroke="#f1df76" stroke-width="2.4"/>
+  <!-- dim tally notches on the upper prism face -->
+  <path d="M150 214 L156 208 M166 219 L172 213 M182 224 L188 218 M198 230 L204 224" stroke="#3b5f88" stroke-width="2.2"/>
 </svg>

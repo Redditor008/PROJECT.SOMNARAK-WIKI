@@ -14,34 +14,29 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0703" stroke="#d97706" stroke-width="1.2"/>
   <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- halo ring behind the head -->
   <circle cx="216" cy="126" r="86" fill="none" stroke="#f1df76" stroke-width="2" opacity=".5"/>
   <circle cx="216" cy="126" r="78" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="3 6" opacity=".4"/>
-  <!-- haft rising to the orb, banded -->
   <path d="M150 372 L204 196" stroke="#2c1c0a" stroke-width="14" stroke-linecap="round"/>
   <path d="M154 366 L202 200" stroke="#4a300f" stroke-width="8" stroke-linecap="round"/>
   <path d="M166 330 L184 336 M178 292 L196 298 M190 254 L206 260" stroke="#78716c" stroke-width="6"/>
   <path d="M167 328 L183 333 M179 290 L195 295 M191 252 L205 257" stroke="#d6d3d1" stroke-width="1.6"/>
-  <!-- carved stone orb head -->
   <circle cx="216" cy="126" r="62" fill="#181208" stroke="#d97706" stroke-width="3.2"/>
   <circle cx="216" cy="126" r="62" fill="url(#bl130)" opacity=".22"/>
   <circle cx="216" cy="126" r="50" fill="none" stroke="#a16207" stroke-width="1.6" opacity=".8"/>
-  <!-- carved reliquary bands and prayer notches -->
   <path d="M158 108 C 190 96, 242 96, 274 108" fill="none" stroke="#a16207" stroke-width="2.4"/>
   <path d="M156 142 C 190 154, 242 154, 276 142" fill="none" stroke="#a16207" stroke-width="2.4"/>
-  <path d="M168 104 L170 112 M186 99 L188 107 M206 96 L207 104 M226 96 L227 104 M246 99 L247 107 M264 104 L266 112" stroke="#d97706" stroke-width="1.6"/>
-  <!-- gold-filled cracks: the load split into three, sealed in gold -->
+  <path d="M176 116 a7 8 0 0 1 14 0 L190 126 L176 126 Z M206 110 a7 8 0 0 1 14 0 L220 120 L206 120 Z M238 114 a7 8 0 0 1 14 0 L252 124 L238 124 Z"
+        fill="#100b04" stroke="#d97706" stroke-width="1.4"/>
+  <path d="M170 148 L176 156 M192 152 L196 160 M216 154 L216 162 M240 152 L236 160 M260 148 L254 156" stroke="#a16207" stroke-width="1.6"/>
   <path d="M216 66 L206 100 L224 118 L204 142 L216 182" fill="none" stroke="#f1df76" stroke-width="3.4"/>
   <path d="M206 100 L182 92 M224 118 L252 112 L262 92 M204 142 L176 150 M252 112 L258 134" fill="none" stroke="#f1df76" stroke-width="2.4"/>
   <path d="M216 66 L206 100 L224 118" fill="none" stroke="#fff7d6" stroke-width="1.2"/>
-  <!-- stone pitting -->
   <circle cx="190" cy="118" r="1.8" fill="#78350f"/><circle cx="238" cy="138" r="2" fill="#78350f"/>
   <circle cx="248" cy="104" r="1.6" fill="#78350f"/><circle cx="196" cy="160" r="1.8" fill="#78350f"/>
-  <!-- soft sanctified glow at the crown -->
   <path d="M198 60 C 206 52, 226 52, 234 60" fill="none" stroke="#fde68a" stroke-width="2" opacity=".8"/>
   <path d="M192 50 C 202 40, 230 40, 240 50" fill="none" stroke="#fde68a" stroke-width="1.2" opacity=".5"/>
-  <!-- the case key chained at the haft base -->
   <path d="M150 372 C 160 376, 170 378, 180 376" fill="none" stroke="#a16207" stroke-width="2" stroke-dasharray="4 3"/>
   <circle cx="192" cy="372" r="8" fill="none" stroke="#f1df76" stroke-width="2.4"/>
   <path d="M200 372 L220 372 M212 372 L212 380 M220 372 L220 378" stroke="#f1df76" stroke-width="2.4"/>
+  <path d="M144 380 a8 8 0 1 0 .1 0" fill="#1c1206" stroke="#d97706" stroke-width="2.4"/>
 </svg>

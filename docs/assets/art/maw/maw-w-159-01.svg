@@ -14,28 +14,25 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0405" stroke="#ef4444" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- grip low-left, frost creeping onto the wrap -->
   <path d="M96 344 L136 296" stroke="#3f1212" stroke-width="12" stroke-linecap="round"/>
   <path d="M102 336 L112 344 M112 324 L122 332 M122 312 L132 320" stroke="#fecaca" stroke-width="2.2"/>
   <path d="M100 342 L92 348 M108 330 L100 336" stroke="#bfdbfe" stroke-width="1.6" opacity=".8"/>
   <path d="M90 352 a7 7 0 1 0 .1 0" fill="#230a0e" stroke="#ef4444" stroke-width="2.4"/>
-  <!-- guard: crossbar with hanging icicles -->
   <path d="M118 300 L164 268" stroke="#7f1d1d" stroke-width="8" stroke-linecap="round"/>
   <path d="M120 298 L162 270" stroke="#fca5a5" stroke-width="1.8"/>
   <path d="M130 302 L128 318 L134 306 M146 292 L146 310 L152 296 M158 282 L160 296 L164 286" fill="#bfdbfe" stroke="#bfdbfe" stroke-width="1"/>
-  <!-- the fang: broad crimson curve, frost sheath over the spine -->
   <path d="M148 284 C 142 232, 158 178, 196 136 C 226 102, 264 80, 304 74 C 318 72, 328 76, 330 86 C 332 96, 324 106, 310 112 C 274 126, 244 148, 222 178 C 198 210, 184 248, 182 288 Z"
         fill="url(#bl159)" stroke="#ef4444" stroke-width="2.8"/>
   <path d="M164 276 C 162 232, 178 188, 210 152 C 238 120, 272 98, 308 88" fill="none" stroke="#450a0a" stroke-width="2.2"/>
   <path d="M180 284 C 180 248, 192 212, 214 182 C 236 152, 266 128, 300 112" fill="none" stroke="#fecaca" stroke-width="1.6" opacity=".9"/>
-  <!-- frost sheath: pale crystalline plates over the outer spine -->
-  <path d="M156 246 L136 240 L150 228 M170 196 L152 184 L172 178 M196 152 L184 134 L204 138 M232 112 L226 92 L246 102 M274 84 L276 64 L292 80"
-        fill="none" stroke="#bfdbfe" stroke-width="2.2"/>
-  <path d="M146 236 L154 232 M160 186 L168 182 M190 140 L198 142 M230 98 L240 104 M278 70 L288 78" stroke="#e0f2fe" stroke-width="1.2" opacity=".9"/>
-  <!-- frost stars on the flat -->
+  <path d="M150 250 L144 238 L152 242 L154 230 L160 240 L166 232 L166 244 Z" fill="#0f1f38" stroke="#bfdbfe" stroke-width="1.6"/>
+  <path d="M166 196 L162 184 L170 188 L174 176 L179 188 L186 182 L184 194 Z" fill="#0f1f38" stroke="#bfdbfe" stroke-width="1.6"/>
+  <path d="M192 150 L190 138 L197 143 L202 132 L206 144 L213 139 L210 151 Z" fill="#0f1f38" stroke="#bfdbfe" stroke-width="1.6"/>
+  <path d="M232 110 L232 98 L239 104 L245 94 L248 106 L255 102 L251 113 Z" fill="#0f1f38" stroke="#bfdbfe" stroke-width="1.6"/>
+  <path d="M278 82 L280 70 L286 77 L293 68 L294 80 L302 78 L296 88 Z" fill="#0f1f38" stroke="#bfdbfe" stroke-width="1.6"/>
+  <path d="M146 240 L150 244 M164 186 L168 190 M194 140 L198 145 M234 100 L238 105 M282 72 L285 77" stroke="#e0f2fe" stroke-width="1" opacity=".9"/>
   <path d="M206 200 L218 200 M212 194 L212 206 M208 196 L216 204 M216 196 L208 204" stroke="#bfdbfe" stroke-width="1.4"/>
   <path d="M244 156 L254 156 M249 151 L249 161" stroke="#bfdbfe" stroke-width="1.2"/>
-  <!-- the trapped breath: coiled white wisp escaping the pressure knot at the very tip -->
   <circle cx="330" cy="86" r="5" fill="none" stroke="#fecaca" stroke-width="2"/>
   <path d="M336 80 C 346 70, 348 58, 342 48 C 352 52, 360 48, 362 38" fill="none" stroke="#e0f2fe" stroke-width="2.2"/>
   <path d="M344 84 C 354 80, 360 82, 364 88" fill="none" stroke="#e0f2fe" stroke-width="1.4" opacity=".7"/>

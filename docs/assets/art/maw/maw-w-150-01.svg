@@ -14,30 +14,29 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- blade rising right, shimmer bands fading toward the grip -->
   <path d="M156 292 L142 308 L156 322 L322 132 C 336 116, 338 96, 326 86 C 314 78, 296 84, 284 98 Z"
         fill="url(#bl150)" stroke="#38bdf8" stroke-width="2.8"/>
   <path d="M162 288 L318 112" stroke="#e0f2fe" stroke-width="1.6" opacity=".9"/>
   <path d="M172 296 L310 140" stroke="#1e3a5f" stroke-width="1.8"/>
-  <!-- shimmer bands: bright at tip, fading down -->
-  <path d="M296 106 L312 120" stroke="#e0f2fe" stroke-width="3" opacity=".95"/>
-  <path d="M268 136 L286 152" stroke="#bae6fd" stroke-width="3" opacity=".75"/>
-  <path d="M240 166 L258 182" stroke="#7dd3fc" stroke-width="3" opacity=".55"/>
-  <path d="M212 196 L230 212" stroke="#38bdf8" stroke-width="3" opacity=".38"/>
-  <path d="M184 226 L202 242" stroke="#1d4ed8" stroke-width="3" opacity=".28"/>
-  <!-- engraved laugh-note curling into a tear on the flat -->
-  <path d="M250 148 C 258 140, 268 140, 272 148 C 275 154, 270 160, 264 158" fill="none" stroke="#f1df76" stroke-width="1.8"/>
-  <path d="M262 164 C 258 170, 258 175, 262 178 C 266 175, 266 170, 262 164 Z" fill="#7dd3fc"/>
-  <!-- chime-hollow guard: open crescent with three hanging chime rods -->
+  <path d="M262 138 L286 132 L272 158 Z" fill="#050a14" stroke="#7dd3fc" stroke-width="2.2"/>
+  <path d="M266 141 L281 137 L272 152 Z" fill="none" stroke="#3b5f88" stroke-width="1.2"/>
+  <path d="M224 180 L246 174 L233 198 Z" fill="#050a14" stroke="#7dd3fc" stroke-width="2"/>
+  <path d="M228 183 L241 179 L233 192 Z" fill="none" stroke="#3b5f88" stroke-width="1.1"/>
+  <path d="M188 220 L207 215 L196 236 Z" fill="#050a14" stroke="#60a5fa" stroke-width="1.8"/>
+  <path d="M191 223 L202 219 L196 230 Z" fill="none" stroke="#3b5f88" stroke-width="1"/>
+  <path d="M286 128 C 294 122, 302 120, 310 122 M246 170 C 254 164, 262 162, 270 164 M207 211 C 214 206, 221 204, 228 206"
+        fill="none" stroke="#7dd3fc" stroke-width="1.4" opacity=".8"/>
+  <path d="M296 112 C 304 104, 314 104, 318 112 C 321 118, 316 124, 310 122" fill="none" stroke="#f1df76" stroke-width="1.8"/>
+  <path d="M308 128 C 304 134, 304 139, 308 142 C 312 139, 312 134, 308 128 Z" fill="#7dd3fc"/>
+  <path d="M268 136 L286 152" stroke="#bae6fd" stroke-width="3" opacity=".7"/>
+  <path d="M212 196 L230 212" stroke="#38bdf8" stroke-width="3" opacity=".4"/>
+  <path d="M184 226 L202 242" stroke="#1d4ed8" stroke-width="3" opacity=".26"/>
   <path d="M138 300 C 128 288, 128 272, 140 262 C 154 252, 172 254, 182 266" fill="none" stroke="#7dd3fc" stroke-width="3.4"/>
   <path d="M144 268 C 152 260, 164 260, 172 266" fill="none" stroke="#38bdf8" stroke-width="1.6" opacity=".7"/>
   <path d="M146 302 L146 330 M158 308 L158 342 M170 306 L170 334" stroke="#93c5fd" stroke-width="2.6"/>
   <rect x="142" y="330" width="8" height="10" rx="2" fill="#12233d" stroke="#7dd3fc" stroke-width="1.4"/>
   <rect x="154" y="342" width="8" height="12" rx="2" fill="#12233d" stroke="#7dd3fc" stroke-width="1.4"/>
   <rect x="166" y="334" width="8" height="10" rx="2" fill="#12233d" stroke="#7dd3fc" stroke-width="1.4"/>
-  <!-- sound rings leaving the hollow -->
-  <path d="M120 278 C 112 270, 108 260, 108 250 M104 290 C 92 280, 86 266, 86 252" fill="none" stroke="#38bdf8" stroke-width="1.4" opacity=".6"/>
-  <!-- cord-bound grip below the hollow, joy and loss knots at its ends -->
   <path d="M134 314 L96 352" stroke="#12233d" stroke-width="10" stroke-linecap="round"/>
   <path d="M128 320 L136 328 M120 328 L128 336 M112 336 L120 344 M104 344 L112 352" stroke="#7dd3fc" stroke-width="2.2"/>
   <circle cx="92" cy="360" r="5" fill="none" stroke="#f1df76" stroke-width="2"/>
