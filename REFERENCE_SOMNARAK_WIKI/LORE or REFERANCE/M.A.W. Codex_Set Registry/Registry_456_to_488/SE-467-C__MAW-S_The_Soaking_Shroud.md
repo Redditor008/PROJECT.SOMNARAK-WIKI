@@ -16,6 +16,10 @@ A blue Han-silk shroud carrying separate identity lines joined by removable wet 
 
 Iseulfros wore it during a three-person memory review. The Shroud preserved distinct selves, though minor joy dulled under combined grief.
 
+## Appearance
+
+The Soaking Shroud is a shroud of blue Han-silk carrying separate identity lines joined by removable wet links — each participant a dry thread of their own, connected only by moisture that is designed to be taken out. In the field it maintains identity boundaries during shared recall — in its recorded case preserving three distinct selves through a three-person memory review, though minor joy dulled under the combined grief, three sorrows arriving through one cloth. A group voice replacing individuals is the first failure — the chorus swallowing its singers; one person carrying all the grief is the second, the shared load quietly re-sorted onto the most willing shoulders; and Void erasing provenance is the third, the memory surviving but no one able to say whose it was. It is maintained by drying each identity line separately after return — one line, one drying, one person confirmed distinct, the removable links lifted out and stored apart from the threads they joined. The links are never left wet between sessions; moisture that lingers begins to believe it is permanent, and permanent joining is exactly what this Shroud exists to prevent.
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 | 1.0 | 1.6 | 0.8 | 4 / 20 Echoes |
