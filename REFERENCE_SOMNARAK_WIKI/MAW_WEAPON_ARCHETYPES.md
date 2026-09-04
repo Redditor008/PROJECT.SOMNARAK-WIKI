@@ -152,3 +152,22 @@ Batch-7 additions (2026-09-05, shape-variant research standard, weapon-first det
 | MAW-W-233 The Soul Requiem | Bipyramidal Crystal Blade (double-pyramid profile, Lament bead film, fading song notation) | Medium (source: 7–12) |
 
 Batch-7 form notes: crystal formations extended with two new researched variants — acicular/needle habit (W-219) and bipyramidal (W-233); lens family split into four distinct builds (mirror-blade, angled hand-lens, wire-frame yoke, staff-mounted sight); maul family extended with monolith, calendar post-driver, and flow-channel bores; W-205 is the set's first true staff kind.
+
+Batch-8 additions (2026-09-05, shape-variant research standard, weapon-first detail, no scene props):
+
+| Item | Archetype (researched variant) | Band (source) |
+| --- | --- | --- |
+| MAW-W-235 The Watcher's Lens | Two-Sided Paddle Lens (tilted disc showing both faces, printed firing-condition text, blank acceptance seal) | Medium (source: 5-9) |
+| MAW-W-236 The Seedless Requiem | Short Broad Leaf Blade with basal flare (empty seed-shaped fuller, rain-residue beads, sprout pommel) | Short (source: 3-6) |
+| MAW-W-240 The Ruin Fang | Ghost-Trace Fang (wet-edged crimson curve trailing dashed ghost-masonry lines, overlapping survivor maps) | Medium (source: 5-9) |
+| MAW-W-245 The Wall Requiem | Truncated Upright Blade (straight blade ending in a raw squared break, dashed ghost of the unfinished length, notes only below the break) | Medium (source: 5-9) |
+| MAW-W-247 The Unopened Bloom Sword | Sealed Petal Blade (closed-bud flat, ONE permanent split as the heated edge, sepal guard, no-contact band) | Short (source: 3-6) |
+| MAW-W-249 The Warning Fang | S-Recurve Fang (edge polished in verified segments with raw gaps, solid-then-dashed direction line, double-bar two-report guard) | Long (source: 10-15) |
+| MAW-W-250 The Memory Requiem | Slender Stiletto with Wide Crescent Guard (suspended raindrop held in the crescent hollow, never falling; identity-anchor studs) | Medium (source: 5-9) |
+| MAW-W-252 The Unknown Extraction Lens | Zone-Diagram Instrument Lens (dissipation rings, fractured whisper glyph, do-not-read hatch, back-to-Gate fin) | Special (source: 2 / 50 Echoes) |
+| MAW-W-255 The Architect's Maul | Blueprint-Face Maul (etched incomplete plan, walls stopping mid-line, bright present load-path to the fracture mark, iron straps) | Medium (source: 7-12) |
+| MAW-W-260 The Memory Requiem | Broad Bridge-Deck Cleaver (square heel notch, meandering worn-path fuller with set path-stones, footprints fading past the tip) | Long (source: 10-15) |
+| MAW-W-270 The Lake Requiem | Level-Waterline Blade (blade steeply tilted, waterline band perfectly horizontal, level-gauge guard with centered bubble) | Medium (source: 7-12) |
+| MAW-W-275 The Rage Hammer | Rounding Forge-Hammer (researched smithing pattern: one flat face + one domed rounding face, ember vein, heartbeat rings quickening) | Medium (source: 5-9) |
+
+Batch-8 form notes: the two same-named Memory Requiems are opposite silhouettes — a needle-thin stiletto cradling a suspended drop versus a broad square-heeled bridge-deck cleaver; the fang family gains ghost-trace and S-recurve variants; blades gain truncated, sealed-petal, leaf-with-basal-flare, and level-waterline geometries; the hammer follows the real rounding-hammer smithing pattern (flat + gently domed faces); the two lenses split into a hand paddle and a long zone-diagram instrument.

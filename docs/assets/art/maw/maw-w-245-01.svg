@@ -1,32 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE WALL REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bged2b5d" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw245" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gled2b5d" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl245" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bged2b5d)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw245)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="122" fill="url(#gled2b5d)"/>
-  <g transform="rotate(2 200.0 192.0)">
-<path d="M184.0 192.0 L193.28 87.60000000000001 L200.0 47.0 L206.72 96.3 L216.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 47.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="192.0" y="107.9" width="16.0" height="60.9" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="174.0" y="187.0" width="52.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="52.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="260.0" r="5.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(-4 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(14 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-245-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- straight upright blade — and it STOPS: squared-off unfinished tip where the song broke -->
+  <path d="M186 340 L172 340 L166 326 L178 122 L226 118 L232 322 L222 336 Z"
+        fill="url(#bl245)" stroke="#38bdf8" stroke-width="2.8"/>
+  <!-- THE TRUNCATION: raw squared top edge, unpolished, with break burrs -->
+  <path d="M178 122 L226 118" stroke="#f1df76" stroke-width="3.4"/>
+  <path d="M182 116 L186 122 M198 114 L200 120 M214 113 L216 119" stroke="#f1df76" stroke-width="1.8"/>
+  <!-- ghost of the unfinished length: faint dashed continuation above -->
+  <path d="M182 114 L188 60 M220 112 L224 58" stroke="#3b5f88" stroke-width="1.4" stroke-dasharray="3 6" opacity=".55"/>
+  <path d="M188 60 L224 58" stroke="#3b5f88" stroke-width="1.2" stroke-dasharray="2 5" opacity=".4"/>
+  <!-- polished edge light BELOW the break only -->
+  <path d="M174 326 L182 128" stroke="#e0f2fe" stroke-width="2"/>
+  <path d="M228 318 L222 124" stroke="#1e3a5f" stroke-width="2"/>
+  <!-- fresco staff-lines across the flat: notes below, EMPTY lines above the last lyric bar -->
+  <path d="M178 296 L226 293 M177 278 L227 275 M177 260 L227 257 M176 242 L228 239 M176 224 L228 221" stroke="#1e3a5f" stroke-width="1.3" opacity=".85"/>
+  <circle cx="190" cy="294" r="2.6" fill="#7dd3fc"/><circle cx="206" cy="276" r="2.6" fill="#7dd3fc"/>
+  <circle cx="196" cy="258" r="2.6" fill="#60a5fa"/><circle cx="214" cy="240" r="2.6" fill="#7dd3fc"/>
+  <path d="M193 294 L193 282 M209 276 L209 264 M199 258 L199 246 M217 240 L217 228" stroke="#7dd3fc" stroke-width="1.4"/>
+  <!-- the LAST CONFIRMED LYRIC: one bright bar, then empty staff -->
+  <path d="M176 206 L228 203" stroke="#93c5fd" stroke-width="2.6"/>
+  <path d="M175 188 L228 185 M175 170 L228 167 M174 152 L228 149 M174 134 L227 131" stroke="#12233d" stroke-width="1.3"/>
+  <!-- hum arcs at the living edge -->
+  <path d="M160 300 C 152 294, 147 286, 146 276 M160 260 C 154 256, 150 250, 149 243" fill="none" stroke="#38bdf8" stroke-width="1.4" opacity=".6"/>
+  <!-- choir-arch guard -->
+  <path d="M156 344 L246 338" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
+  <path d="M182 352 C 182 346, 188 341, 196 341 C 204 341, 210 345, 211 351" fill="none" stroke="#7dd3fc" stroke-width="2"/>
+  <!-- grip + silence band -->
+  <path d="M198 348 L200 386" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
+  <path d="M192 356 L206 356 M192 366 L206 366" stroke="#60a5fa" stroke-width="2.2"/>
+  <path d="M192 376 L208 376" stroke="#3b5f88" stroke-width="2.8"/>
+  <path d="M200 392 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.2"/>
 </svg>
