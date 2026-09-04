@@ -1,31 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DUTY FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bgdab7a9" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw073" cx="50%" cy="46%" r="60%">
+      <stop offset="0%" stop-color="#26090c"/>
+      <stop offset="100%" stop-color="#0c0305"/>
     </radialGradient>
-    <radialGradient id="gldab7a9" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
+    <radialGradient id="gw073" cx="50%" cy="42%" r="48%">
+      <stop offset="0%" stop-color="#f87171" stop-opacity=".18"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="bl073" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#991b1b"/>
+      <stop offset=".5" stop-color="#fca5a5"/>
+      <stop offset="1" stop-color="#991b1b"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgdab7a9)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw073)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="119" fill="url(#gldab7a9)"/>
-  <g transform="rotate(8 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 105.64999999999999, 229.0 35.0 235.0 35.0 C225.0 110.36, 220.0 138.62, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 119.78, 227.0 43.0 232.0 41.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="45.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="249.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <g transform="rotate(3 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <g transform="rotate(-6 200.0 236.0)" opacity=".9">
-    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-073-01</text>
+  <circle cx="200" cy="176" r="132" fill="url(#gw073)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0305" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- the protected: small figure sheltering behind the blade, lower left -->
+  <circle cx="92" cy="270" r="13" fill="none" stroke="#d6d3d1" stroke-width="2.4"/>
+  <path d="M74 316 C 74 296, 110 296, 110 316" fill="none" stroke="#d6d3d1" stroke-width="2.4"/>
+  <!-- the threat line: jagged pressure from the right, stopped at the blade -->
+  <path d="M368 130 L318 152 M372 176 L320 180 M366 224 L318 206" stroke="#7f1d1d" stroke-width="2.6" opacity=".85"/>
+  <path d="M318 148 L310 156 M320 176 L310 182 M318 210 L308 204" stroke="#ef4444" stroke-width="2" opacity=".9"/>
+  <!-- SQUARED WARBRAND: planted vertically as a wall, square tip DOWN into the ground -->
+  <path d="M232 66 L272 66 L272 282 L232 282 Z" fill="url(#bl073)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M232 282 L272 282 L272 296 L232 296 Z" fill="#450a0a" stroke="#ef4444" stroke-width="2.2"/>
+  <!-- ground line it is driven into -->
+  <path d="M120 296 L344 296" stroke="#57534e" stroke-width="2.6" opacity=".8"/>
+  <path d="M214 306 L232 296 M272 296 L292 306" stroke="#57534e" stroke-width="1.8" opacity=".6"/>
+  <!-- the spine inscription, glowing while the task holds -->
+  <path d="M240 84 L240 268" stroke="#450a0a" stroke-width="4" opacity=".9"/>
+  <path d="M240 92 L240 112 M240 124 L240 136 M240 150 L240 176 M240 188 L240 196 M240 210 L240 238 M240 250 L240 262" stroke="#fee2e2" stroke-width="1.8" opacity=".95"/>
+  <!-- red sheen edge facing the threat -->
+  <path d="M270 74 L270 276" stroke="#fecaca" stroke-width="1.6" opacity=".8"/>
+  <!-- squared guard + two-hand grip rising from the blade top -->
+  <rect x="218" y="52" width="68" height="14" rx="2" fill="#450a0a" stroke="#ef4444" stroke-width="2.4"/>
+  <path d="M244 52 L244 24 L260 24 L260 52 Z" fill="#450a0a" stroke="#dc2626" stroke-width="2.2"/>
+  <path d="M246 32 L258 36 M246 42 L258 46" stroke="#ef4444" stroke-width="1.3" opacity=".85"/>
+  <!-- open ring pommel worn smooth -->
+  <circle cx="252" cy="14" r="8" fill="none" stroke="#f1df76" stroke-width="2.2"/>
 </svg>

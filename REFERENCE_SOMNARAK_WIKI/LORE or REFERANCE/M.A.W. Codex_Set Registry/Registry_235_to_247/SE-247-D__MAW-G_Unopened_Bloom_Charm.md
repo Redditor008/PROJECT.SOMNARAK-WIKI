@@ -19,6 +19,10 @@ A warm crimson Han-iron Tail charm shaped like one split petal. It glows at the 
 
 Unopened Bloom granted it after Kkotlom remained beside the torn form without picking a fallen petal. Bestowal probability is 5%; the Gift cannot be manufactured.
 
+## Appearance
+
+The Unopened Bloom Charm is a warm crimson tail-charm of Han iron shaped like one split petal — a single fragment of the flower, carried without ever having been picked. It glows at the original wound and changes color around later damage, concealment, or attempted replacement, making it a chronology worn at the belt: first harm, second harm, cover-up, each in its own light. The Bloom granted it after a worker remained beside the torn form without picking a fallen petal; it cannot be manufactured. Its registered use is exact — it distinguishes the original memorial tear from subsequent harm or repair, and in its recorded case it stopped a maintenance team from sealing the source split with clear resin, marking the resin as a second event rather than healing. The bearer’s temper shortens when damage is made cosmetically invisible. Every imperfection glowing as original harm is the purity error; chronology becoming accusation is the blame flare; and an attractive repair cooling the Gift while erasing provenance is the worst failure. Care compares it against first-contact sketches and later maintenance logs, naming original tear, later harm, and protective work separately. Pulling it free during a repair transfers the split to the bearer’s skin.
+
 ## FUNCTION & COST
 
 **Grade / Element:** α / Grudge  

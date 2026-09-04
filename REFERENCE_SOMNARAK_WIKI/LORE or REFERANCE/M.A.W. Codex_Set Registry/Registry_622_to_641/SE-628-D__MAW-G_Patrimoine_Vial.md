@@ -27,6 +27,10 @@ A matte black steel vial rests at the Head slot and cools near Patrimoine’s so
 | Binding cost | Other people experience relief by loading more into the wearer |
 | Corrosion risk | High without a scheduled discharge route |
 
+## Appearance
+
+The Patrimoine Vial is a matte black steel vial at the head slot that cools near the source’s pressure — and black silt rises inside despite the vessel having no opening, sediment in a container nothing can enter. Bestowal follows successful work unpredictably; it cannot be manufactured. Its function is the Room Draw: it absorbs diffuse emotional Weight from one bounded room, creating a temporary window for evacuation or testimony — the pressure is not destroyed but remains intact inside the bearer-linked Vial. The hidden condition is attribution: an unnamed source makes the Gift treat its bearer as source, and later discharge returns every burden to that person with added inheritance pressure. In its recorded case the Vial cleared an analysis chamber long enough to evacuate staff, but the initial report labeled the pressure “ambient” and sent the bearer to rest — in the corridor, everyone near her felt sudden relief while her own Resolve collapsed. She reopened the record, named the soldier’s rage and each transfer event, then joined the Mantle route to the basin; the silt fell only after attribution. The Gift now clouds whenever “ambient” is used where a source history is available — a vessel that refuses anonymous sorrow.
+
 ## EFFECT & HIDDEN CONDITION
 
 **Room Draw:** absorbs diffuse emotional Weight from one bounded room, creating a temporary window for evacuation or testimony. The pressure remains intact inside the bearer-linked Vial.

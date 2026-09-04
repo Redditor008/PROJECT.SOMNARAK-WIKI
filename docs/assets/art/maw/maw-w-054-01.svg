@@ -1,31 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE VOID MAUL">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // MAUL -->
   <defs>
-    <radialGradient id="bg77b9d6" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw054" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#191411"/>
+      <stop offset="100%" stop-color="#0a0705"/>
     </radialGradient>
-    <radialGradient id="gl77b9d6" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
+    <radialGradient id="gw054" cx="50%" cy="38%" r="50%">
+      <stop offset="0%" stop-color="#a8a29e" stop-opacity=".16"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="dish054" cx="50%" cy="46%" r="60%">
+      <stop offset="0%" stop-color="#030303"/>
+      <stop offset="72%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#44403c"/>
+    </radialGradient>
+    <linearGradient id="hd054" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#57534e"/>
+      <stop offset="1" stop-color="#1c1917"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg77b9d6)" stroke="#c9a86a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw054)" stroke="#a8a29e" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="111" fill="url(#gl77b9d6)"/>
-  <g transform="rotate(-4 200.0 192.0)">
-<rect x="159.0" y="162.0" width="82.0" height="60.0" rx="7" fill="#c9a86a" fill-opacity=".24" stroke="#c9a86a" stroke-width="3.5"/>
-<path d="M175.4 171.0 L224.6 171.0" stroke="#e0f2fe" stroke-width="1.3" opacity=".7"/>
-<circle cx="200.0" cy="192.0" r="8.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
-<rect x="194.0" y="222.0" width="12" height="114.0" rx="4" fill="#1f2937" stroke="#c9a86a" stroke-width="2"/>
-<circle cx="200.0" cy="346.0" r="7" fill="#c9a86a" fill-opacity=".55"/>
-  </g>
-  <g transform="rotate(-12 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#c9a86a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".45"/>
-  </g>
-  <g transform="rotate(12 200.0 236.0)" opacity=".9">
-    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-W-054-01</text>
+  <circle cx="200" cy="168" r="132" fill="url(#gw054)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0705" stroke="#a8a29e" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#a8a29e" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- DISH MAUL: the empty bowl face turned toward you -->
+  <path d="M112 92 L288 92 L302 176 L98 176 Z" fill="url(#hd054)" stroke="#a8a29e" stroke-width="3"/>
+  <!-- the concave dish: darkness with a pale grey rim ring -->
+  <ellipse cx="200" cy="134" rx="76" ry="34" fill="url(#dish054)" stroke="#d6d3d1" stroke-width="3.4"/>
+  <ellipse cx="200" cy="134" rx="58" ry="24" fill="none" stroke="#57534e" stroke-width="1.4" opacity=".7"/>
+  <ellipse cx="200" cy="134" rx="34" ry="13" fill="none" stroke="#44403c" stroke-width="1.2" opacity=".6"/>
+  <!-- nothing reflects at the centre -->
+  <ellipse cx="200" cy="134" rx="10" ry="4" fill="#000"/>
+  <!-- what the bowl has swallowed: faint motes drifting IN -->
+  <path d="M120 60 L146 92 M282 56 L264 88 M200 44 L200 76" stroke="#78716c" stroke-width="1.2" stroke-dasharray="3 5" opacity=".55"/>
+  <circle cx="120" cy="60" r="2.2" fill="#a8a29e" opacity=".6"/>
+  <circle cx="282" cy="56" r="2" fill="#a8a29e" opacity=".55"/>
+  <circle cx="200" cy="44" r="2.4" fill="#a8a29e" opacity=".65"/>
+  <!-- cheek weights -->
+  <path d="M112 92 L98 176 M288 92 L302 176" stroke="#57534e" stroke-width="1.6" opacity=".8"/>
+  <rect x="126" y="150" width="18" height="14" rx="2" fill="#0a0705" stroke="#78716c" stroke-width="1.4"/>
+  <rect x="256" y="150" width="18" height="14" rx="2" fill="#0a0705" stroke="#78716c" stroke-width="1.4"/>
+  <!-- straight heavy haft -->
+  <rect x="190" y="176" width="20" height="152" rx="6" fill="#0f0c0a" stroke="#a8a29e" stroke-width="2.6"/>
+  <path d="M191 200 L209 206 M191 224 L209 230 M191 248 L209 254 M191 272 L209 278 M191 296 L209 302" stroke="#78716c" stroke-width="1.6" opacity=".8"/>
+  <path d="M182 328 L218 328 L212 350 L188 350 Z" fill="#0f0c0a" stroke="#f1df76" stroke-width="2"/>
 </svg>

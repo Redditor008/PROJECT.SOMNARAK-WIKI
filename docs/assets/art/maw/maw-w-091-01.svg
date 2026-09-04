@@ -1,29 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE CROWN OF REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // CROWN -->
   <defs>
-    <radialGradient id="bgb1ae1f" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw091" cx="42%" cy="56%" r="62%">
+      <stop offset="0%" stop-color="#101f3c"/>
+      <stop offset="100%" stop-color="#050a15"/>
     </radialGradient>
-    <radialGradient id="glb1ae1f" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl091" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1e40af"/>
+      <stop offset="1" stop-color="#e0f2fe"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgb1ae1f)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw091)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="134" fill="url(#glb1ae1f)"/>
-  <g transform="rotate(1 200.0 192.0)">
-<path d="M256.0,214.8 251.9,165.4 252.0,187.4 268.3,187.4 229.5,165.4 229.6,187.4 245.9,187.4 207.1,165.4 207.2,187.4 223.5,187.4 184.7,165.4 184.8,187.4 201.1,187.4 162.3,165.4 162.4,187.4 178.7,187.4 139.9,165.4 140.0,187.4 156.3,187.4 144.0,214.8 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M144.0 212.5 L256.0 212.5" stroke="#e0f2fe" stroke-width="1.2" opacity=".55"/>
-<circle cx="200.0" cy="162.4" r="4" fill="#e0f2fe" opacity=".7"/>
-  </g>
-  <g transform="rotate(8 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(-2 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-091-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a15" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- THE CLOSED CIRCLET: resting ring, points tucked INWARD, lower-left -->
+  <circle cx="140" cy="268" r="58" fill="none" stroke="#38bdf8" stroke-width="4.4"/>
+  <circle cx="140" cy="268" r="58" fill="none" stroke="#bae6fd" stroke-width="1.2" opacity=".5"/>
+  <!-- inward points -->
+  <path d="M140 216 L134 234 L146 234 Z M192 268 L174 262 L174 274 Z M140 320 L146 302 L134 302 Z M88 268 L106 274 L106 262 Z" fill="#7dd3fc"/>
+  <path d="M177 231 L162 240 L170 248 Z M103 231 L118 240 L110 248 Z M177 305 L162 296 L170 288 Z" fill="#7dd3fc" opacity=".8"/>
+  <!-- the small inset figure of the relief contact, set in the hilt segment -->
+  <rect x="120" y="252" width="40" height="32" rx="6" fill="#081226" stroke="#7dd3fc" stroke-width="2"/>
+  <circle cx="140" cy="262" r="5" fill="none" stroke="#e0f2fe" stroke-width="1.6"/>
+  <path d="M132 280 C 132 272, 148 272, 148 280" fill="none" stroke="#e0f2fe" stroke-width="1.6"/>
+  <!-- THE OPENED LINE: blade unfurling from the circlet toward upper-right -->
+  <path d="M190 228 C 240 188, 288 140, 326 84 L344 94 C 308 152, 260 200, 208 242 Z" fill="url(#bl091)" stroke="#38bdf8" stroke-width="2.6"/>
+  <path d="M198 230 C 248 190, 294 144, 332 90" fill="none" stroke="#e0f2fe" stroke-width="1.4" opacity=".9"/>
+  <!-- every point becomes a question: floating question-tick shapes off the extended edge -->
+  <path d="M300 92 C 306 84, 316 84, 320 92 C 322 98, 318 102, 312 104 L312 110" fill="none" stroke="#bae6fd" stroke-width="1.8"/>
+  <circle cx="312" cy="118" r="1.8" fill="#bae6fd"/>
+  <path d="M258 140 C 263 133, 271 134, 274 140 C 276 145, 272 149, 267 150 L267 155" fill="none" stroke="#bae6fd" stroke-width="1.5" opacity=".8"/>
+  <circle cx="267" cy="162" r="1.5" fill="#bae6fd" opacity=".8"/>
+  <path d="M228 180 C 232 174, 239 175, 241 180 C 243 184, 239 187, 235 188 L235 192" fill="none" stroke="#bae6fd" stroke-width="1.3" opacity=".6"/>
+  <!-- singing shimmer along the opened blade -->
+  <path d="M222 224 L230 232 M256 192 L264 200 M290 154 L298 162" stroke="#e0f2fe" stroke-width="1.1" opacity=".6"/>
+  <!-- gold tell -->
+  <circle cx="140" cy="268" r="3.4" fill="#f1df76"/>
 </svg>

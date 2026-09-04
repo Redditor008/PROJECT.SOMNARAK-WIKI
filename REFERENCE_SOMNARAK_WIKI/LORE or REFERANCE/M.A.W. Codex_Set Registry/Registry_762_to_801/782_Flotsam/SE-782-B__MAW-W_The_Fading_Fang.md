@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Flotsam's grudge signature in the strike.  
 **Binding rule:** the bearer names Flotsam's event—A household relic passed through generations until no one remembered its purpose; its history began to burn away.—and accepts this limit: Name the owners and purpose; do not force preservation
 
+## Appearance
+
+The Fading Fang is the weapon record of Flotsam’s set, a Grudge instrument attacking the Body by channeling the source’s grudge signature into the strike. Binding is testimonial: the bearer names Flotsam’s event — a household relic passed through generations until no one remembered its purpose, and its history began to burn away — and accepts the set’s limit: name the owners and purpose; do not force preservation. The operational cost is the Grudge standard: the wielder’s old wounds ache, prolonged use leaves faint bruising, and continued use makes the sorrow feel autobiographical — the forgotten relic’s history smoldering among the wielder’s own unremembered inheritances. The source-trace fixed the doctrine: when heat spread across nearby objects, the weapon redirected the immediate hazard only after the team attributed it to Flotsam — and treating the response as the bearer’s own story reproduced the source wound, establishing the present binding rule. Corrosion runs from describing Flotsam’s event in first person, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

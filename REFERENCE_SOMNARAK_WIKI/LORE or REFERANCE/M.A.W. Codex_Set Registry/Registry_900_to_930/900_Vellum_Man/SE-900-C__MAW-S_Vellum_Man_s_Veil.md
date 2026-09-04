@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting against the tale register of sorrow.   <!-- SE-900 -->
 **Binding rule:** the bearer names Vellum Man's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Vellum Man's Veil is the suit record of the Vellum Man set — α-grade, Lament-aligned, resistant to Lament at 0.3 while running weak to Void at 1.2 and enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Lament damage, protection against the tale register of sorrow that the subject's paper body carries. Binding names Vellum Man's event — Not recorded, the wound filed without its story — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost follows the wearer home: Vellum Man's grief rides into every quiet moment, and small joys feel distant until the Veil is removed. The source-trace fixed doctrine: the subject recognizes patience, its lament pressure settling gradually under sustained presence, and the Veil interrupts the hazard only after attribution to Vellum Man. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

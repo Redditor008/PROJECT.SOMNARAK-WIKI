@@ -1,24 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE RISING HAMMER">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // HAMMER -->
   <defs>
-    <radialGradient id="bg2486ec" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw392" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#181206"/>
+      <stop offset="100%" stop-color="#0d0a04"/>
     </radialGradient>
-    <radialGradient id="gl2486ec" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl392" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#92400e"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg2486ec)" stroke="#c9a86a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw392)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gl2486ec)"/>
-  <g transform="rotate(8 200.0 192.0)">
-<rect x="140.0" y="167.0" width="120.0" height="50.0" rx="6" fill="#c9a86a" fill-opacity=".22" stroke="#c9a86a" stroke-width="3"/>
-<path d="M147.0 173.0 L251.0 211.0" stroke="#e0f2fe" stroke-width="1.1" opacity=".6"/>
-<rect x="195.0" y="217.0" width="10" height="95.0" rx="4" fill="#1f2937" stroke="#c9a86a" stroke-width="2"/>
-<circle cx="200.0" cy="320.0" r="6" fill="#c9a86a" fill-opacity=".55"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- THE REFLECTIVE WALL: faint vertical mirror line the strike passes through -->
+  <path d="M262 70 L262 330" stroke="#78716c" stroke-width="1.6" stroke-dasharray="6 6" opacity=".6"/>
+  <path d="M268 84 L276 84 M268 110 L280 110 M268 136 L274 136" stroke="#78716c" stroke-width="1.2" opacity=".5"/>
+  <!-- THE RISING REFLECTION: ghost hammer-head ABOVE, leading the blow, dashed -->
+  <g opacity=".85">
+    <rect x="132" y="70" width="150" height="64" rx="9" fill="none" stroke="#fde68a" stroke-width="2.2" stroke-dasharray="7 5"/>
+    <path d="M148 86 L188 86 M148 102 L178 102" stroke="#fde68a" stroke-width="1.2" stroke-dasharray="4 4" opacity=".7"/>
+    <path d="M296 96 L316 88 M296 112 L320 106" stroke="#fde68a" stroke-width="1.6" stroke-dasharray="3 4"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-W-392-01</text>
+  <!-- rise arrows between ghost and metal -->
+  <path d="M158 158 L158 142 M158 142 L152 150 M158 142 L164 150 M250 158 L250 142 M250 142 L244 150 M250 142 L256 150" stroke="#fbbf24" stroke-width="2"/>
+  <!-- THE REAL HEAD: black Han steel, following its own reflection -->
+  <rect x="128" y="168" width="158" height="70" rx="9" fill="url(#bl392)" stroke="#d97706" stroke-width="3"/>
+  <rect x="128" y="168" width="158" height="14" rx="7" fill="#78350f" opacity=".7"/>
+  <!-- forge scale + strap detail -->
+  <path d="M142 200 L156 200 M266 204 L278 204" stroke="#92400e" stroke-width="1.8"/>
+  <rect x="196" y="168" width="16" height="70" fill="#0d0a04" opacity=".55"/>
+  <path d="M198 176 L210 176 M198 228 L210 228" stroke="#fbbf24" stroke-width="1.6"/>
+  <circle cx="140" cy="180" r="2.4" fill="#451a03"/><circle cx="274" cy="180" r="2.4" fill="#451a03"/>
+  <circle cx="140" cy="226" r="2.4" fill="#451a03"/><circle cx="274" cy="226" r="2.4" fill="#451a03"/>
+  <!-- the erased-name target: deletion mark struck through the wall -->
+  <path d="M296 196 L330 192" stroke="#e7e5e4" stroke-width="2.2"/>
+  <path d="M304 186 L322 202 M322 186 L304 202" stroke="#ef4444" stroke-width="2.2"/>
+  <!-- the borrowed district-face left untouched: small dashed portrait beside the wall -->
+  <rect x="300" y="222" width="26" height="30" rx="3" fill="none" stroke="#78716c" stroke-width="1.4" stroke-dasharray="3 3"/>
+  <circle cx="313" cy="233" r="5" fill="none" stroke="#78716c" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <!-- missing-identity plate: documented without substitution -->
+  <rect x="146" y="248" width="46" height="15" rx="2" fill="#0d0a04" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M152 256 L172 256 M176 256 L186 256" stroke="#f1df76" stroke-width="1.2"/>
+  <!-- haft: inherited-fury heat settling into the grip -->
+  <path d="M208 238 L208 372" stroke="#0d0a04" stroke-width="14" stroke-linecap="round"/>
+  <path d="M208 238 L208 372" stroke="#92400e" stroke-width="10" stroke-linecap="round"/>
+  <path d="M200 270 L216 270 M200 292 L216 292 M200 314 L216 314" stroke="#fbbf24" stroke-width="2.6"/>
+  <path d="M202 336 L214 336 M203 350 L213 350" stroke="#ef4444" stroke-width="2.4"/>
+  <path d="M208 382 a7 7 0 1 0 .1 0" fill="#181206" stroke="#fbbf24" stroke-width="2.4"/>
 </svg>

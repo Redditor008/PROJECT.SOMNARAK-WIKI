@@ -16,6 +16,10 @@
 
 A warm blue Han-crystal Tail charm shaped like two route stones with empty space between. The Bridge granted it after Yeonhwa mapped a crossing as memory and allowed it to settle. Bestowal chance is 4%.
 
+## Appearance
+
+The Memory Span is a warm blue tail-charm of Han crystal shaped like two route stones with empty space between them — the crossing itself, carried as an absence between two points. The Bridge granted it after a cartographer mapped a crossing as memory and allowed it to settle; it cannot be manufactured. Its function sounds like transport and is not: one remembered distance may be crossed once — in its recorded use, carrying its bearer across a missing stair memory to reach a trapped observer, entry and exit both occurring in the same present room. Only the remembered effort and the farewells were real. The cost is those farewells: the bearer feels the final goodbye of everyone attached to the route. The empty gap filling with a desired shore is the first corrosion sign, and a bearer confusing remembered transit with teleportation is the destination claim — the Gift constructing a false shore. A second crossing strands the bearer inside route memory. Care maps old path and current geometry on separate layers; the Span clears when they share only the crossing action, never a destination. Emergency release drops the destination claim, names current ground, and crosses back through the same memory once.
+
 ## FUNCTION & COST
 
 **Grade / Element:** δ / Lament  

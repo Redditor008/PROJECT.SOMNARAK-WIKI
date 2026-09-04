@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Tear Too Small to Honor's kind of pressure.  
 **Binding rule:** the bearer names Tear Too Small to Honor's event—A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Tear Too Small to Honor Shroud is the suit record of its source’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a grief so small it was hidden rather than mourned. Binding is testimonial: the wearer names the source event — a visitor hid a single tear beneath a Garden stone, and the grief flattened into a collapsed object — and accepts the registry’s limit: the entity- specific management condition must be satisfied and the Sorrow Gauge held below 25%. The operational cost is numbness to minor joys — an exact echo of the source’s minor sorrow denied minor honor — and continued use makes the sorrow feel autobiographical. The source-trace set the doctrine: the suit tests whether the worker can hold grief without dismissing it — smallness respected, not triaged away — and it contained the immediate hazard only after the team attributed it to the source. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

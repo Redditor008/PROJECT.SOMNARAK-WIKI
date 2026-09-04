@@ -16,6 +16,10 @@
 
 A pale reflection echo formed after a viewer named one grief with a companion and looked away by choice. The Lens requires a mirror witness; it rejects use to expose another person’s sorrow.
 
+## Appearance
+
+The Sorrow Lens (weapon expression) is a pale reflection-echo blade — a flat, mirror-faced edge of Void-white Han glass that formed after a viewer named one grief with a companion and then looked away by choice. Nothing about it invites a second glance: its face holds the room dimly, the way a mirror does at dusk, and it clouds to full opacity the moment someone tries to use it to pry. In use the Lens separates a target from an identity overload caused by reflected grief, opening a boundary between a person and the mirrored loss that has trapped them, long enough for a companion to name the person’s present body. It cannot reveal secrets, and it cannot prove that a grief belongs to anyone. The bearer pays a small nameless memory with each drawing, and a companion debrief is mandatory afterward. It requires a mirror witness to bind at all, and it refuses any use aimed at exposing another person’s sorrow. It is maintained with consent records and witness notes, and the companion shutters the reflecting face to end every use.
+
 ## CORE STATISTICS
 
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |

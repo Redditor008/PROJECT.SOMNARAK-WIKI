@@ -16,6 +16,10 @@
 
 A blue dust echo formed after a Desolate survey documented a settlement’s last trace and let Ephemera fade at dusk. It binds to a route custodian; a bearer cannot use it to treat a destroyed place as salvage.
 
+## Appearance
+
+The Fading Requiem is a short blue blade that looks permanently on the edge of dispersal: its surface is made of compacted dust-echo, matte rather than bright, and fine grains lift from the spine whenever the weapon moves quickly. It condensed from a Desolate survey that documented a settlement’s last trace and then let Ephemera fade at dusk, and it keeps the manners of that survey. Raised over a fading site, the edge steadies one memory field — a street plan, a doorway, the outline of a well — long enough for a witness to record it, and no longer; it does not keep the ruin from fading, and using it to force a place to remain makes the blade itself dissolve into dust. The bearer feels the unwept grief of the ruin after each use, and blue dust gathers on the hilt when archival custody is postponed. It binds to a route custodian and refuses any bearer treating a destroyed place as salvage. The blade is maintained with a route record, and the map custodian cases it once the recorded memory reaches storage.
+
 ## CORE STATISTICS
 
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |

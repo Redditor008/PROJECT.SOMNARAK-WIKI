@@ -18,6 +18,10 @@ A heavy crimson Han-iron hammer pulsing like Crucible’s heart. It forms from c
 
 Binding requires the wielder to state the anger entering the work and the object’s protective purpose. Durivel used it to shape an emergency brace while a breach hammered the opposite door. The brace held, but he hated every correction the metal required.
 
+## Appearance
+
+The Rage Hammer is a heavy crimson forge-hammer of Han iron that pulses in the hand like Crucible’s own heart — a slow beat through the haft that quickens near unnamed anger. It forms from cooled slag after the Forge produces a named nonviolent tool, and its binding is a declaration: the wielder states the anger entering the work and the object’s protective purpose before the first strike. In use, hostile force accelerates Han shaping at one selected target — opposition becomes forge-heat, a breach hammering the opposite door speeding the brace being shaped against it — but using manufactured opposition or personal resentment as fuel imprints that anger permanently into the result. The cost is relational: the wielder feels anger toward every object altered, hating each correction the metal requires. Provoking hostility for speed is the enemy-manufacture failure, and a protective item developing an aggressive function is weapon drift. It is maintained by reworking one harmless scrap slowly with no opposition, naming each error without striking harder — the pulse clears when the object is allowed to remain imperfect. Shutdown sets the Hammer on cooled slag and stops work before anger becomes the reason to continue.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

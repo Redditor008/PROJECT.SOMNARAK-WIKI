@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Flotsam's kind of pressure.  
 **Binding rule:** the bearer names Flotsam's event—A household relic passed through generations until no one remembered its purpose; its history began to burn away.—and accepts this limit: Name the owners and purpose; do not force preservation
 
+## Appearance
+
+The Fading Plate is the suit record of Flotsam’s set, granting resistance to Grudge damage and protecting the Body against the pressure of a history burning away unremembered. Binding is testimonial: the wearer names Flotsam’s event — a household relic passed through generations until no one remembered its purpose, and its history began to burn away — and accepts the set’s limit: name the owners and purpose; do not force preservation. The operational cost is the Grudge standard for armor: the wearer’s reflexes dull, as if armored by resentment, and continued use makes the sorrow feel autobiographical — the relic’s forgotten decades installing themselves as the wearer’s own. The source-trace set the doctrine: the suit tests whether the worker can hold a memory without possessing it — custody distinguished from ownership, the exact line the source burned across — and it stayed the immediate hazard only after the team attributed it to Flotsam. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

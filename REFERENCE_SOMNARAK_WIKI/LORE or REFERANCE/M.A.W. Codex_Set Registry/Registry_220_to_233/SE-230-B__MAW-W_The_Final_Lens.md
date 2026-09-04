@@ -21,6 +21,10 @@ The Lens forms from residue left when a final moment is recorded without alterat
 
 During the *Corridor Without Color*, Zyrak waited through a dying Keeper’s exposed final thought, then fired into the pale wake behind it. The line reopened the vault route without destroying the record. She later remembered the Keeper’s name but lost the ordinary memory of where they first met.
 
+## Appearance
+
+The Final Lens is a lens-ground disc of nearly colorless Han-glass mounted on a long pale frame, held like a staff-mounted sight rather than a blade. The disc pulses faintly — in time with the last heartbeat it observed — and goes fully transparent at the exact boundary after a final image ends. It forms from residue left when a final moment is recorded without alteration, and it binds only to a wielder who can repeat the difference between ending a harmful Void effect and deleting the memory that carries it. Once a final frame completes, the Lens focuses the Void immediately following it through up to three targets, attacking Soul continuity in the blank after the ending; firing early pierces the memory itself and removes evidence from every witness. Each shot takes a small unnamed memory from the wielder while leaving indexed facts intact. It is maintained placed between two sealed witness accounts, cleared only when it shows a transparent interval after both accounts rather than when one version wins. Shutdown is the frame rotated away from all faces until its borrowed heartbeat stops; breaking it releases every retained Blank After.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

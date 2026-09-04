@@ -30,6 +30,10 @@ The Plate formed around Yeonhwa while she completed Ferrehan beside Vestige’s 
 | Binding cost | The wearer starts treating documentation as rescue |
 | Corrosion risk | Moderate; severe when standing inside the hollow ring |
 
+## Appearance
+
+The Vestige Plate is a crimson harness of Han iron whose plates flicker out one at a time and return in a different order — armor rehearsing disappearance on its surface. It tightens against Grudge but never covers the wearer’s feet, preserving awareness that phantom ground cannot bear weight. It formed around a recorder completing Ferrehan beside Vestige’s fading trunk, and it binds only to someone carrying a record medium, not a containment stake — witnesses distinguished from wardens at binding. In the field, its Shadow Stand resists Grudge pressure while the wearer observes a fading trace: the suit supports the recorder’s body but never materializes the erased floor beneath them. Attempting to bear structural weight on a phantom feature makes the missing plates return inside the wearer’s stance, locking knees and hips into a monument posture. In its recorded case a wearer braced collapsing map tables as if a rematerialized road were stable — the armor slowed her escape and formed a pedestal around both legs, which vanished only when the tables were abandoned, the tree’s shadow alone was copied, and she was pulled toward current ground. A missing plate at the left knee now warns against supporting reconstructions.
+
 ## PROTECTIVE FUNCTION
 
 **Shadow Stand:** resists Grudge pressure while the wearer observes a fading trace. The suit supports the recorder’s body but never materializes the erased floor beneath them.

@@ -9,6 +9,10 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+## Appearance
+
+The Severed Requiem is the weapon of the Vanished Rope’s set, bound by the source rule that governs all three pieces: hold the bond without dragging the vanished person back. Rejection reproduces the originating wound — it will not bind to anyone mistaking retrieval for love. Its defining engagement is the Reverse Haul, when the Requiem cut a compulsive pull rather than the bond: offered a connection and the desperate hauling on it, the weapon severed only the compulsion, leaving the bond intact and slack. Attachment may remain; the dragging must stop. The operational cost is the set’s signature: source emotion enters the bearer during use, the empty end of the rope felt in the grip. Corrosion runs from attribution blurring, through compulsion becoming normal — the pull reasserting as routine — to a terminal failure that reenacts the original event through the operator. It is maintained by recording source, bearer, trigger, result, and unresolved uncertainty, with cleaning only after debrief. Emergency shutdown requires a named witness to restate the resolution while the bearer relinquishes the blade voluntarily — the set functions only as The End That Cannot Be Pulled; no piece resolves the source alone.
+
 **Grade / Element:** α / Lament  
 **Damage:** 3–6  
 **Speed / Range:** 2 / 2  

@@ -16,6 +16,10 @@
 
 A crimson Han-iron Tail charm shaped like a small cooled coal. It warms around acknowledged anger and burns around emotion being treated as free fuel. Crucible granted it after a worker named resentment before making a repair tool. Bestowal rate is 5%.
 
+## Appearance
+
+This Rage Charm is a crimson tail-charm of Han iron shaped like a small cooled coal — spent fuel, carried as a reminder of what fuel costs. It warms around acknowledged anger and burns outright around emotion being treated as free fuel; the distinction is its entire function. Crucible granted it after a worker named resentment before making a repair tool; it cannot be manufactured. As the audit point of its set, it distinguishes named emotional input from hidden rage entering the Forge — in its recorded case staying warm while workers described their anger, and flaring only when a supervisor called that rage “useful output variance.” The bearer’s temper shortens for as long as they carry it. A Charm burning around all production work is the first corrosion sign; a bearer mistaking temper for diagnostic truth is the second; and anger treated as resolved merely because it was logged is the third. Emotional naming becoming another production requirement is the metric-capture failure. Care records anger, source, requested change, and the worker’s right to stop — the Charm cools only when naming changes the work conditions. Removal waits until production stops; a hot Charm torn free ignites every hidden resentment in the room.
+
 ## FUNCTION & COST
 
 **Grade / Element:** β / Grudge  

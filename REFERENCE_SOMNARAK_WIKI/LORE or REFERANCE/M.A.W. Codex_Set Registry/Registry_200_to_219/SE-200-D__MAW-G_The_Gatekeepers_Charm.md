@@ -16,6 +16,10 @@
 
 The Charm appears only after Aegis recognizes an arrival and the Gate Watch writes the response. It binds to a route officer, never a permanent gate owner.
 
+## Appearance
+
+The Gatekeeper’s Charm is a small tail-charm in Gate-red metal, shaped like a latch that never quite closes. It appears only after Aegis recognizes an arrival and the Gate Watch writes the response, and it binds to a route officer — never to a permanent gate owner, a distinction the Charm enforces by cooling in the hand of anyone who holds a post too long. Consulted at a working gate, it identifies one missing passage responsibility: an unassigned guard, an unkept return record, absent arrival support, or unclear closure authority. It points at obligations, never at people, and it grows heavy the moment it is used to identify a person instead of a duty. The bearer’s temper shortens whenever they see a route held without accountability — the Charm’s recorded cost — and it burns near a route treated as one-way by habit. It is maintained through route review, and the Gate Watch partner removes it once the missing duty has been assigned. Breaking the Charm creates a false passage-denial mark that some gate, somewhere, will honor.
+
 ## GIFT STATISTICS
 
 **Slot:** Tail · **Chance:** 4% · **Bonus:** +3 source-work. **Effect:** identifies one missing passage responsibility—guard, return record, arrival support, or closure authority. **Cost:** temper shortens when the bearer sees a route held without accountability.

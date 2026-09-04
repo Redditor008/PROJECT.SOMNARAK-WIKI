@@ -26,6 +26,10 @@
 
 The Veil formed from an unclaimed leaf echo after a missing-record observation ended without speculation. **Binding:** Archive witness and identity check required. **Rejection:** When a wearer treats a gap as a story to complete, Void resistance becomes normal.
 
+## Appearance
+
+The Redacted Veil is a full-length suit of pale, half-transparent cloth that blurs the wearer’s outline without ever fully hiding it — by rule, an Archive witness must still be able to read the wearer’s name through the fabric, and the Veil is not worn if the name cannot be read. The weave is Void-pale and faintly cool, with a collar that holds the wearer’s identity card visible at the throat. Beside a missing history the Veil protects identity: it keeps the erasure field from attaching to the wearer while preserving the difference between a blank and an answer. When the witness calls the bearer by name and names the known record, the Veil rejects one Void surge. The wearer feels faintly absent to themself while it is active, and the witness may terminate use. The collar empties when the wearer wants an answer too quickly, and a wearer who supplies unsupported details finds the veil turn transparent and give nothing. A blank veil goes to Archive custody at once. The witness unfastens the collar during shutdown; cutting the cloth attaches an absence to the wearer’s reflection.
+
 ## PROTECTION STATISTICS
 
 | Lament | Grudge | Void | Weight |

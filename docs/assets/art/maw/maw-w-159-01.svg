@@ -1,28 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FROZEN FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bgfbef5a" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw159" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#230a0e"/>
+      <stop offset="100%" stop-color="#0c0405"/>
     </radialGradient>
-    <radialGradient id="glfbef5a" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl159" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fecaca"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgfbef5a)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw159)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="117" fill="url(#glfbef5a)"/>
-  <g transform="rotate(0 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 112.25, 224.0 47.0 230.0 47.0 C220.0 116.6, 220.0 142.7, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 125.3, 222.0 55.0 227.0 53.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="50.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="254.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <g transform="rotate(8 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-159-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0405" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <path d="M96 344 L136 296" stroke="#3f1212" stroke-width="12" stroke-linecap="round"/>
+  <path d="M102 336 L112 344 M112 324 L122 332 M122 312 L132 320" stroke="#fecaca" stroke-width="2.2"/>
+  <path d="M100 342 L92 348 M108 330 L100 336" stroke="#bfdbfe" stroke-width="1.6" opacity=".8"/>
+  <path d="M90 352 a7 7 0 1 0 .1 0" fill="#230a0e" stroke="#ef4444" stroke-width="2.4"/>
+  <path d="M118 300 L164 268" stroke="#7f1d1d" stroke-width="8" stroke-linecap="round"/>
+  <path d="M120 298 L162 270" stroke="#fca5a5" stroke-width="1.8"/>
+  <path d="M130 302 L128 318 L134 306 M146 292 L146 310 L152 296 M158 282 L160 296 L164 286" fill="#bfdbfe" stroke="#bfdbfe" stroke-width="1"/>
+  <path d="M148 284 C 142 232, 158 178, 196 136 C 226 102, 264 80, 304 74 C 318 72, 328 76, 330 86 C 332 96, 324 106, 310 112 C 274 126, 244 148, 222 178 C 198 210, 184 248, 182 288 Z"
+        fill="url(#bl159)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M164 276 C 162 232, 178 188, 210 152 C 238 120, 272 98, 308 88" fill="none" stroke="#450a0a" stroke-width="2.2"/>
+  <path d="M180 284 C 180 248, 192 212, 214 182 C 236 152, 266 128, 300 112" fill="none" stroke="#fecaca" stroke-width="1.6" opacity=".9"/>
+  <path d="M150 250 L144 238 L152 242 L154 230 L160 240 L166 232 L166 244 Z" fill="#0f1f38" stroke="#bfdbfe" stroke-width="1.6"/>
+  <path d="M166 196 L162 184 L170 188 L174 176 L179 188 L186 182 L184 194 Z" fill="#0f1f38" stroke="#bfdbfe" stroke-width="1.6"/>
+  <path d="M192 150 L190 138 L197 143 L202 132 L206 144 L213 139 L210 151 Z" fill="#0f1f38" stroke="#bfdbfe" stroke-width="1.6"/>
+  <path d="M232 110 L232 98 L239 104 L245 94 L248 106 L255 102 L251 113 Z" fill="#0f1f38" stroke="#bfdbfe" stroke-width="1.6"/>
+  <path d="M278 82 L280 70 L286 77 L293 68 L294 80 L302 78 L296 88 Z" fill="#0f1f38" stroke="#bfdbfe" stroke-width="1.6"/>
+  <path d="M146 240 L150 244 M164 186 L168 190 M194 140 L198 145 M234 100 L238 105 M282 72 L285 77" stroke="#e0f2fe" stroke-width="1" opacity=".9"/>
+  <path d="M206 200 L218 200 M212 194 L212 206 M208 196 L216 204 M216 196 L208 204" stroke="#bfdbfe" stroke-width="1.4"/>
+  <path d="M244 156 L254 156 M249 151 L249 161" stroke="#bfdbfe" stroke-width="1.2"/>
+  <circle cx="330" cy="86" r="5" fill="none" stroke="#fecaca" stroke-width="2"/>
+  <path d="M336 80 C 346 70, 348 58, 342 48 C 352 52, 360 48, 362 38" fill="none" stroke="#e0f2fe" stroke-width="2.2"/>
+  <path d="M344 84 C 354 80, 360 82, 364 88" fill="none" stroke="#e0f2fe" stroke-width="1.4" opacity=".7"/>
 </svg>

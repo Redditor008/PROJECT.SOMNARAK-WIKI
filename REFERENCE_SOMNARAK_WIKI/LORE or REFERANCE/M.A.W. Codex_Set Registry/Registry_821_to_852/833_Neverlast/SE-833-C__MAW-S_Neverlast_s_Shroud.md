@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Neverlast's kind of pressure.  
 **Binding rule:** the bearer names Neverlast's event—A friendship ended with one person disappearing. The remaining grief remained unanswered until it crystallized.—and accepts this limit: Remain with it and acknowledge the abandonment; do not promise a return
 
+## Appearance
+
+Neverlast’s Shroud is the suit record of Neverlast’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a grief that crystallized waiting for an answer that never came. Binding is testimonial: the wearer names Neverlast’s event — a friendship ended with one person disappearing, and the remaining grief stayed unanswered until it crystallized — and accepts the set’s limit: remain with it and acknowledge the abandonment; do not promise a return. The operational cost is numbness to minor joys, and continued use makes the sorrow feel autobiographical — the abandonment slowly re-addressed to the wearer’s own friendships. The source-trace set the doctrine: the suit weighs the worker’s resolve and patience — protection rated not against impact but against the long, answerless waiting that is this source’s native element — and it contained the immediate hazard only after attribution to Neverlast. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

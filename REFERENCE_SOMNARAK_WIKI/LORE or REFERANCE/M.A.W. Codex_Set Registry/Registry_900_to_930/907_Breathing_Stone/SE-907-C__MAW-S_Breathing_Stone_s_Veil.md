@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Weight damage, protecting against the body register of sorrow.   <!-- SE-907 -->
 **Binding rule:** the bearer names Breathing Stone's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Breathing Stone's Veil is the suit record of the Breathing Stone set — δ-grade, Weight-aligned, resistant to Weight at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Weight damage, protection against the body register of sorrow the breathing place exhales. Binding names Breathing Stone's event — Not recorded, respiration without biography — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a constant low fatigue, as though Breathing Stone's burden settles on the wearer's shoulders, each of the place's breaths added to their own. The source-trace fixed doctrine: the place recognizes patience, its weight pressure settling gradually under sustained presence, and the Veil stabilizes the hazard only after attribution to Breathing Stone. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

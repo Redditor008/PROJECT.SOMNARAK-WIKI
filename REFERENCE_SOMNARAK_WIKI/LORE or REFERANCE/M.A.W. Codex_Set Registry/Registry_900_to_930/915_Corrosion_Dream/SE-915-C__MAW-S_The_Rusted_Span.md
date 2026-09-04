@@ -19,6 +19,10 @@
 **Canonical ability:** Creates a temporary path through hostile space.  
 **Binding rule:** the bearer names Corrosion Dream's event—A bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion.—and accepts this limit: Do not promise reunion; name both the crossing and the loss
 
+## Appearance
+
+The Rusted Span is the suit record of the Corrosion Dream set — γ-grade, Void-aligned, resistant to Void at 0.3 while enduring Grudge at 0.8 and running weak to Lament and Weight, worn at 35 Sorrow Echoes a deployment — and its canonical ability creates a temporary path through hostile space, the dreamed bridge briefly rebuilt underfoot. Binding names the source event — a bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion — and accepts the set's limit: do not promise reunion; name both the crossing and the loss. The cost is communal: the wearer feels everyone who cannot follow, each crossing counted against those still on the far side. The source-trace fixed doctrine: the source keeps singing until the worker can remain with the distance, and the Span marks the hazard only after attribution to Corrosion Dream. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

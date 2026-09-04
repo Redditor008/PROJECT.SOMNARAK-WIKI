@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Weight damage, protecting against the spirit register of sorrow.   <!-- SE-919 -->
 **Binding rule:** the bearer names Passing Bell's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Passing Bell's Veil is the suit record of the Passing Bell set — β-grade, Weight- aligned, resistant to Weight at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Weight damage, protection against the spirit register of sorrow that rings on after the funeral has passed. Binding names Passing Bell's event — Not recorded, the toll persisting without its parish record — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a constant low fatigue, as though Passing Bell's burden settles on the wearer's shoulders, every hour arriving with a mourner's tread. The source-trace fixed doctrine: the manifestation recognizes patience, its weight pressure settling gradually under sustained presence, and the Veil stabilizes the hazard only after attribution to Passing Bell. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

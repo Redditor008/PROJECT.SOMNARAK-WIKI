@@ -18,6 +18,10 @@ A near-colorless Han-gossamer veil with different self-images moving across sepa
 
 Binding requires a partner to name one context absent from the reflection. Iseulfros wore it during direct-gaze testing; the Veil resisted identity fracture, but she felt like an observer absent from all the versions shown.
 
+## Appearance
+
+The Truth Veil is a near-colorless suit of Han gossamer with different self-images moving across separate panels — several true versions of the wearer at once, none permitted to claim the whole. It condenses after a viewer accepts and limits one Mirror truth, and it binds through a partner who names one context absent from the reflection. Worn under direct gaze, each truthful image remains a part rather than replacing the wearer’s whole identity — the first wearer resisted identity fracture but felt like an observer absent from all the versions shown. That absence is the cost: the wearer feels faintly distant and may begin treating context as excuse rather than information. Context used to deny accountability is the excuse cloth; panels that stop referring to the same person are shard identity; and a wearer absent from every truth is the Void observer. It is maintained by the partner naming a truth and its limit while the wearer adds one current choice showing change remains possible — the panels answer to the present, not the reflection. Removal ends the direct gaze first, then opens the panels from the current-choice seam.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

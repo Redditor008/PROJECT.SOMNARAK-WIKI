@@ -16,6 +16,10 @@
 
 A matte black Han-steel Head charm with two rusted faces and a clear seam. The Subject granted it after Xyan named city, exile, departure, and return without choosing one as the universal viewpoint. Bestowal chance is 4%.
 
+## Appearance
+
+The Rust Wall Charm is a matte black head-charm of Han steel with two rusted faces and one clear seam between them — both sides of a separation carried at the temple, with the passage kept visible. The Subject granted it after an officer named city, exile, departure, and return without choosing one as the universal viewpoint; it cannot be manufactured. Its function is completion of the record: it identifies which side of a separation is absent from the current account — in its recorded case correcting a Gate review that described “outbound traffic” without naming involuntary exile, while refusing to classify every departure as forced. The bearer pays in the stride, moving more slowly under both histories. A Charm inventing two sides where more exist is the binary-wall failure; a bearer mistaking naming for agreement is the second sign; and movement stopping under the demand to represent everyone is representation load. A bearer claiming exemption from both consequences has built the neutral center. Care adds missing positions without merging them or speaking for them, and the Charm clears while its seam remains open and no side is labeled neutral. Emergency release transfers the record to multiple named witnesses and steps out of representative authority.
+
 ## FUNCTION & COST
 
 **Grade / Element:** γ / Weight  

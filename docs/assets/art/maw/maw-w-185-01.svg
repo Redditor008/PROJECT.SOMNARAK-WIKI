@@ -1,26 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE GALLERY REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg3e15e3" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw185" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl3e15e3" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl185" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#93c5fd"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg3e15e3)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw185)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="123" fill="url(#gl3e15e3)"/>
-  <g transform="rotate(-8 200.0 192.0)">
-<path d="M180.0 192.0 L191.6 78.96000000000001 L200.0 35.0 L208.4 88.38 L220.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 35.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="190.0" y="100.9" width="20.0" height="65.9" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="170.0" y="187.0" width="60.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="46.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="254.0" r="8.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-185-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- diamond-point trowel blade: four straight edges meeting in a point, angled -->
+  <path d="M84 216 L188 108 L268 150 L196 286 C 190 296, 180 298, 170 292 L94 236 C 86 230, 82 224, 84 216 Z"
+        fill="url(#bl185)" stroke="#38bdf8" stroke-width="2.8"/>
+  <!-- center ridge from point to heel -->
+  <path d="M188 108 L180 280" stroke="#1e3a5f" stroke-width="2.2"/>
+  <path d="M186 116 L178 268" stroke="#7dd3fc" stroke-width="1" opacity=".8"/>
+  <!-- brush-stroke ridges sweeping the flat -->
+  <path d="M110 218 C 134 194, 160 172, 186 156 M100 204 C 124 180, 150 158, 178 140 M124 238 C 148 214, 174 192, 202 174 M138 254 C 162 232, 188 210, 216 192"
+        fill="none" stroke="#1e3a5f" stroke-width="2.2"/>
+  <path d="M111 214 C 135 191, 160 169, 185 153 M101 200 C 125 177, 150 155, 177 137" fill="none" stroke="#7dd3fc" stroke-width="1" opacity=".8"/>
+  <!-- dragged background smear toward the heel -->
+  <path d="M212 156 L262 152 L232 226 L196 208 Z" fill="#1d4ed8" opacity=".6"/>
+  <path d="M218 162 L252 158 M214 176 L246 172 M210 192 L240 190" stroke="#0a1626" stroke-width="1.8"/>
+  <!-- impasto blobs -->
+  <path d="M144 210 a5 4 0 1 0 .1 0 M164 238 a4 3.4 0 1 0 .1 0" fill="#60a5fa" opacity=".9"/>
+  <!-- keen edge lights -->
+  <path d="M86 214 L186 110 M190 110 L266 150" stroke="#e0f2fe" stroke-width="1.6" opacity=".9"/>
+  <!-- whisper-lines rising off the point -->
+  <path d="M272 142 C 284 138, 292 140, 298 146 M268 162 C 280 158, 288 160, 294 166" fill="none" stroke="#3b5f88" stroke-width="1.6" opacity=".8"/>
+  <path d="M298 146 L308 144 M294 166 L304 164" stroke="#7dd3fc" stroke-width="1.4" opacity=".8"/>
+  <!-- STEPPED CRANK tang: two clear right-angle bends lifting the handle off the blade plane -->
+  <path d="M186 290 L200 306" fill="none" stroke="#12233d" stroke-width="8"/>
+  <path d="M200 306 L222 300" fill="none" stroke="#12233d" stroke-width="8"/>
+  <path d="M222 300 L238 314" fill="none" stroke="#12233d" stroke-width="8"/>
+  <path d="M188 290 L199 303 M202 305 L220 300 M224 302 L236 312" stroke="#60a5fa" stroke-width="1.6" opacity=".8"/>
+  <!-- riveted ferrule -->
+  <path d="M236 312 L252 316" stroke="#93c5fd" stroke-width="6"/>
+  <circle cx="242" cy="314" r="2" fill="#0a1626"/><circle cx="249" cy="315" r="2" fill="#0a1626"/>
+  <!-- wooden grip, paint-stained -->
+  <path d="M252 316 L312 340" stroke="#12233d" stroke-width="12" stroke-linecap="round"/>
+  <path d="M262 318 L270 326 M278 325 L286 333 M294 332 L302 340" stroke="#60a5fa" stroke-width="2.2"/>
+  <path d="M268 316 C 272 312, 278 312, 282 316 M288 325 C 292 321, 298 321, 302 325" fill="none" stroke="#1d4ed8" stroke-width="1.8" opacity=".8"/>
+  <path d="M318 346 a7 7 0 1 0 .1 0" fill="#0a1626" stroke="#93c5fd" stroke-width="2.4"/>
 </svg>

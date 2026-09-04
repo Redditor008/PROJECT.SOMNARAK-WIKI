@@ -1,25 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="VAULT OF UNSPOKEN SPITE’S FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="VAULT OF UNSPOKEN SPITES FANG">
   <defs>
-    <radialGradient id="bg9ab406" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw308" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl9ab406" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl308" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg9ab406)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw308)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="115" fill="url(#gl9ab406)"/>
-  <g transform="rotate(-8 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 118.85, 232.0 59.0 238.0 59.0 C228.0 122.84, 220.0 146.78, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 130.82, 230.0 67.0 235.0 65.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="45.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="249.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-308-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- crimson fang, deep single curve, tip high right -->
+  <path d="M120 316 L108 304 C 150 288, 192 262, 226 226 C 258 192, 282 154, 316 128 C 326 120, 338 122, 342 132 C 346 142, 340 152, 328 158 C 296 176, 268 206, 244 242 C 220 278, 180 308, 134 324 Z"
+        fill="url(#bl308)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M118 308 C 162 292, 202 264, 234 230 C 264 198, 288 162, 320 138" fill="none" stroke="#4c0d13" stroke-width="2.2"/>
+  <path d="M130 318 C 176 302, 216 272, 246 236 C 272 202, 296 168, 326 146" fill="none" stroke="#ffe4e6" stroke-width="1.8"/>
+  <!-- THE RETREATING LIQUID: dark channel flowing AWAY from the tip, arrows down-blade -->
+  <path d="M324 140 C 292 162, 266 192, 244 226 C 222 260, 190 290, 152 308" fill="none" stroke="#0d0507" stroke-width="5"/>
+  <path d="M324 140 C 292 162, 266 192, 244 226 C 222 260, 190 290, 152 308" fill="none" stroke="#7f1d1d" stroke-width="2.2"/>
+  <path d="M300 160 L292 158 L296 166 Z M258 206 L250 204 L254 212 Z M216 262 L208 260 L212 268 Z M176 296 L168 294 L172 302 Z" fill="#fca5a5"/>
+  <!-- droplets pulled backward, none reaching the tip -->
+  <circle cx="308" cy="152" r="2" fill="#7f1d1d"/><circle cx="270" cy="192" r="2.4" fill="#7f1d1d"/><circle cx="232" cy="244" r="2" fill="#7f1d1d"/>
+  <!-- three contaminated shadow-layer bands it can pierce -->
+  <path d="M262 186 L282 202 M240 214 L262 232 M218 242 L242 262" stroke="#450a0a" stroke-width="4" opacity=".85"/>
+  <path d="M262 186 L282 202 M240 214 L262 232 M218 242 L242 262" stroke="#fda4af" stroke-width="1.2" stroke-dasharray="3 3"/>
+  <!-- provenance-record plate on the flat -->
+  <rect x="196" y="270" width="34" height="16" rx="2" transform="rotate(-38 213 278)" fill="#0d0507" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M204 276 L222 264 M208 282 L226 270" stroke="#f1df76" stroke-width="1.1"/>
+  <!-- guard + grip -->
+  <path d="M98 322 L146 342" stroke="#4c0d13" stroke-width="9" stroke-linecap="round"/>
+  <path d="M114 344 L96 384" stroke="#4c0d13" stroke-width="11" stroke-linecap="round"/>
+  <path d="M114 352 L104 348 M110 362 L100 358 M106 372 L96 368" stroke="#dc2626" stroke-width="2.4"/>
+  <!-- THE SEALED REVIEW VESSEL at the pommel: where grievances ground out -->
+  <path d="M84 386 C 78 390, 76 398, 80 404 C 86 410, 96 410, 102 404 C 106 398, 104 390, 98 386 L 96 380 L 86 380 Z" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.2"/>
+  <path d="M86 380 L96 380" stroke="#f1df76" stroke-width="2.4"/>
+  <path d="M84 396 C 88 400, 94 400, 98 396" fill="none" stroke="#7f1d1d" stroke-width="1.6"/>
+  <circle cx="91" cy="394" r="1.6" fill="#ef4444"/>
 </svg>

@@ -19,6 +19,10 @@
 **Canonical ability:** Opens one blocked passage for a few seconds.  
 **Binding rule:** the bearer names Portcullis's event—A tunnel collapse sealed a door while people were still on both sides of it.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Collapsed Key is the gift record of Portcullis’ set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is the set’s brief mercy: it opens one blocked passage for a few seconds, the sealed door’s one concession, measured in breaths. Binding names Portcullis’ event — a tunnel collapse sealed a door while people were still on both sides of it — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is the door’s own grief: the user feels the departure of everyone who once waited behind it, each opening invoiced in vigils it came too late for, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the people and route beyond the door, and it contained the immediate hazard only after attribution to Portcullis — treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 5%  

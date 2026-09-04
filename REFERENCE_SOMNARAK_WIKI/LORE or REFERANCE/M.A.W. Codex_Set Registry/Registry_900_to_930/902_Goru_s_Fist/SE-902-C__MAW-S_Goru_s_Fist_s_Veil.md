@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Grudge damage, protecting against the body register of sorrow.   <!-- SE-902 -->
 **Binding rule:** the bearer names Goru's Fist's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Goru's Fist's Veil is the suit record of the Goru's Fist set — γ-grade, Grudge- aligned, resistant to Grudge at 0.3 while running weak to Void at 1.2 and enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Grudge damage, protection against the body register of sorrow the fist holds. Binding names Goru's Fist's event — Not recorded, the grievance preserved without its cause — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is somatic: the wearer holds every slight in their body, reflexes stiffening, anger arriving before thought, the suit teaching the fist's posture to its occupant. The source-trace fixed doctrine: the object recognizes patience, its grudge pressure settling gradually under sustained presence, and the Veil stays the hazard only after attribution to Goru's Fist. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

@@ -27,6 +27,10 @@ A deep-blue crystal shard rests at the Tail slot, shifting among stone grain, wi
 | Binding cost | Unstored details become harder to recall |
 | Corrosion risk | High if displayed as an intact relic |
 
+## Appearance
+
+The Ruin Fragment is a shard of deep-blue crystal worn at the tail slot, shifting among stone grain, window glass, and splintered wood — its material never proves which settlement produced it, and that unprovability is kept. Bestowal follows an accepted work cycle unpredictably; it is never manufactured, and it stores exactly one place- memory. Its function is the Last Interior: with a consenting witness, it preserves one bounded memory of a destroyed place — one room, path, threshold, or gathering point — storing viewpoint and uncertainty along with detail; it does not verify objective history. The costs: the bearer hears the stored place collapse during sleep, and unstored details grow harder to recall. The hidden condition is severe: mounted in a museum reconstruction or labeled “all that remains,” the Gift begins stealing compatible pieces from nearby memories until it can imitate a complete building. In its recorded case it preserved a common hearth’s warmth, soot scent, and missing eastern wall — and when an archivist later drew that wall onto an exhibit diagram, the Fragment took the archivist’s own kitchen wall that night to fill the gap. It now bears a smooth plane where no wall should be; accurate uncertainty keeps that plane cool.
+
 ## EFFECT & HIDDEN CONDITION
 
 **Last Interior:** with a consenting witness, the Fragment preserves one bounded memory of a destroyed place—one room, path, threshold, or gathering point. It stores viewpoint and uncertainty along with detail; it does not verify objective history.

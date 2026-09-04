@@ -19,6 +19,10 @@
 **Canonical ability:** Reveals hidden grief in a darkened space.  
 **Binding rule:** the bearer names Memorial Flame Mid-Ceremony's event—A memorial flame was extinguished during an Alpha Tree evacuation. The mourners were scattered and never completed the ceremony.—and accepts this limit: Complete the memorial without attempting to recreate the original flame
 
+## Appearance
+
+The Absent Flame is the gift record of Memorial Flame Mid-Ceremony’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its ability completes the set’s logic: revealing hidden grief in a darkened space, as the lost memorial once did for its mourners. Binding is testimonial: the bearer names the source event — a memorial flame extinguished during an Alpha Tree evacuation, the ceremony never completed — and accepts the set’s limit: complete the memorial without attempting to recreate the original flame. The operational cost follows the light: the user carries the grief revealed after the light fades, and continued use makes the source sorrow feel autobiographical. The source-trace fixed the doctrine: the gift reveals the memorial and its tenders, and it severed the immediate hazard only after the team attributed it to the source — treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first- person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  

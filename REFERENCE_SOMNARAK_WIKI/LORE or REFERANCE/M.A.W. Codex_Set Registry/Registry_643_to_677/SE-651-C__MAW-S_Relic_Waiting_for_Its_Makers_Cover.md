@@ -14,6 +14,10 @@
 
 A breathing plate of pale Han-glass that conceals the wearer from attentive observers. It binds only with a named external monitor.
 
+## Appearance
+
+The Relic Waiting for Its Makers’ Cover is a breathing plate of pale Han glass that conceals the wearer from attentive observers — armor whose protection is being unnoticed, where walls lean toward what they perceive. It binds only with a named external monitor; the outside watcher is part of the equipment. In the field, its Unattended Presence resists Void and keeps the walls from focusing on the wearer — and the cost is the same silence inward: the wearer cannot share secrets or ask for help. In its recorded case a disoriented wearer could not request extraction — her monitor noticed one wall no longer leaning toward her and entered under Ferrehan; the suit released only when she accepted the offered hand without explaining. Corrosion runs from assistance feeling impossible, through the wearer erasing their own distress signals, to a terminal state that hides them from every relationship — invisibility completing itself socially. It is maintained by inspecting with the named monitor and testing a nonverbal help signal before every use; emergency shutdown has the monitor open the back plate after offering — never demanding — assistance, the distinction between the two written into the release mechanism.
+
 **Grade / Element:** γ / Void
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

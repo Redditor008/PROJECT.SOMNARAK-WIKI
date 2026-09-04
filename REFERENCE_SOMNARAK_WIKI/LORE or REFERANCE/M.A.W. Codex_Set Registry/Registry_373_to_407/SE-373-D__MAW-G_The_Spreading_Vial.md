@@ -14,6 +14,10 @@
 
 A warm blue Han-crystal Tail vial containing one moving channel. The Well granted it after two linked sites acknowledged each other. Bestowal chance is 4%.
 
+## Appearance
+
+The Spreading Vial is a warm tail-vial of blue Han crystal containing one moving channel — a thread of sorrow visibly traveling inside the glass, always in transit, never pooling. The Well granted it after two linked sites acknowledged each other; it cannot be manufactured. Its function is courier work of the most careful kind: it carries a small amount of sorrow to a consenting distant witness. The cost is borne along the whole route: the carrier feels grief at both origin and destination, paying at each end of the journey. Consent assumed rather than confirmed is the first failure — a witness surprised by sorrow they never agreed to receive; a witness appointed as absorber is the second, acknowledgment inflated into disposal; and carried grief mistaken for the carrier’s own life is the third, the vial’s contents leaking into biography. Care confirms both witnesses before opening and closes after acknowledgment, not after emotional resolution — the Vial’s work ends when the grief has been received, not when it has been healed. What moves through the glass is small by design; sorrow travels safely only in amounts a witness can actually hold.
+
 **Grade / Element:** γ / Lament  
 **Bonus:** +2 Clarity  
 **Effect:** carries a small amount of sorrow to a consenting distant witness  

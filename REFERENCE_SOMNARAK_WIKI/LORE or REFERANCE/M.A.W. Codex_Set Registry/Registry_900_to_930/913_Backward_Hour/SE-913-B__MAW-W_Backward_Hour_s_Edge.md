@@ -19,6 +19,10 @@
 **Canonical ability:** Channels grudge grudge sorrow in each strike — the weapon does not cut flesh so much as cut at the grudge register of the target's grief.   <!-- SE-913 -->
 **Binding rule:** the bearer names Backward Hour's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Backward Hour's Edge is the weapon record of the Backward Hour set — γ-grade, Grudge- aligned, striking at 14–21 Grudge in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels grudge sorrow in its own register: the blade cuts at resentment itself, time run in reverse toward the wrong that started it. Binding names Backward Hour's event — Not recorded, an hour that retreats from every attempt to date it — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is mild memory fragmentation with each use, moments rearranged the way the hour rearranges its own. The source-trace fixed doctrine: the time-manifestation gave no transcribable field response, and the Edge severs the hazard only after attribution to Backward Hour. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

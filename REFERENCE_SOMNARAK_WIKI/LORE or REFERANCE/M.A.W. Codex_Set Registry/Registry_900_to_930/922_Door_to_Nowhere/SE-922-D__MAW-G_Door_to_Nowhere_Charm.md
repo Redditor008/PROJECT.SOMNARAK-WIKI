@@ -19,6 +19,10 @@
 **Canonical ability:** Grants a minor boon tied to Door to Nowhere's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names Door to Nowhere's event—A resident was trapped during a district lockdown, watching a door rise beyond reach.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Door to Nowhere Charm is the gift record of the Door to Nowhere set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability grants a minor boon tied to the Door's sorrow, the effect mirroring the entity's nature: an opening acknowledged without being trusted. Binding names the source event — a resident was trapped during a district lockdown, watching a door rise beyond reach — and accepts the registry's limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is temperamental: the bearer's temper shortens, the lockdown's frustration seeping into small delays. The source-trace fixed doctrine: the Charm shows why the exit was denied, the lockdown's logic laid open at last, and it uncouples the hazard only after attribution to Door to Nowhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  

@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Weight damage, attacking both body and resolve. A stroke of the plume lays the weight of a granted wish onto the target — the heaviness of getting exactly what one asked for.  
 **Binding rule:** the bearer names Blackened Angel's event—A Collector named Kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. The angel could not refuse. With the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear.—and accepts this limit: Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand
 
+## Appearance
+
+The Tarnish Plume is the weapon record of the Blackened Angel set — γ-grade, Weight- aligned, striking at 7–12 Weight at medium range in a pierce pattern for 30 Sorrow Echoes a use — and its canonical ability deals Weight damage against body and resolve alike: a stroke lays the weight of a granted wish onto the target — the heaviness of getting what one asked for. Binding names the source event — the Collector Kangmin came nightly to wish ill on his debtors; the angel could not refuse, wept black, and dimmed with every cruelty — and accepts the set's limit: do not make a wish; name the angel's grief and empty the dish of tears by hand. The cost: the wielder's own wishes come true in small, unwelcome ways. The source-trace fixed doctrine: as an Object the angel cannot be confronted through Pugnahan, and the Plume stabilizes the hazard only after attribution to Blackened Angel. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

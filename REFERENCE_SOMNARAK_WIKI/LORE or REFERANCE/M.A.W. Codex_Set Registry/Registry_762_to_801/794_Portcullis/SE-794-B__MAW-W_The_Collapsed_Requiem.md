@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Portcullis's lament signature in the strike.  
 **Binding rule:** the bearer names Portcullis's event—A tunnel collapse sealed a door while people were still on both sides of it.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Collapsed Requiem is the weapon record of Portcullis’ set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names Portcullis’ event — a tunnel collapse sealed a door while people were still on both sides of it — and accepts the registry’s limit: the entity-specific management condition must be satisfied and the Sorrow Gauge held below 25%. The operational cost is the Lament standard: the wielder feels the entity’s unwept grief, prolonged use causes involuntary weeping, and continued use makes the sorrow feel autobiographical — the sealed door’s double vigil misfiling itself among the wielder’s own separations. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon redirects the immediate hazard only after the team attributes it to Portcullis, and treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

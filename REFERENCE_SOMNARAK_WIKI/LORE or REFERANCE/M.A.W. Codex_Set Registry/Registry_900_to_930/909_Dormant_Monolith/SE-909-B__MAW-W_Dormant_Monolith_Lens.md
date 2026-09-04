@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Dormant Monolith's void signature in the strike.  
 **Binding rule:** the bearer names Dormant Monolith's event—A border worker carried family and community obligations until the mind became a sleeping pillar.—and accepts this limit: Ground the worker and establish a rotation of duty
 
+## Appearance
+
+The Dormant Monolith Lens is the weapon record of the Dormant Monolith set — δ-grade, Void-aligned, striking at 10–15 Void at fast speed and medium range in a pierce pattern, 100% to the primary and 70% and 50% to the targets behind, two uses at 50 Sorrow Echoes each — and its canonical ability deals Void damage against the Soul, identity, memory, and sense of self, channeling the Monolith's void signature in the strike. Binding names the source event — a border worker carried family and community obligations until the mind became a sleeping pillar — and accepts the set's limit: ground the worker and establish a rotation of duty. The cost is quiet attrition: the wielder loses small, nameless memories with each use. The source-trace fixed doctrine: the Monolith rises through the worker's thoughts, and the Lens witnesses the hazard only after attribution to Dormant Monolith. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

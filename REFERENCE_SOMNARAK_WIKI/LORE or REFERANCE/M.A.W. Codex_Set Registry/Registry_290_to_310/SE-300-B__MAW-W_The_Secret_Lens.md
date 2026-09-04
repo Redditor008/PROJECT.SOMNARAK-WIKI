@@ -18,6 +18,10 @@ A pale Han-glass lens in a dark frame whose center stays clouded like the source
 
 Binding requires one secret the wielder is authorized to protect and one oversight authority. Zyrak used the Lens when a listener’s obsession became a visible Void tether to the vault. One line cut the tether without touching the whisper; Zyrak lost why a familiar archive phrase once comforted her.
 
+## Appearance
+
+The Secret Lens is a pale lens of Han glass set in a dark frame, its center permanently clouded like the source crystal — an instrument that sees tethers clearly while refusing to see the secret itself. It forms from channel residue after a whisper returns to the Lock, and binding requires one secret the wielder is authorized to protect plus one oversight authority. In use it pierces up to three access tethers produced by a single sealed-memory whisper — in its recorded case cutting a listener’s obsession, visible as a Void tether to the vault, without touching the whisper — while aiming through the Lock strikes the memory itself and widens the breach. The cost is attrition: small nameless memories disappear with each use; its first wielder lost why a familiar archive phrase once comforted her. Damaging the guarded memory as if it were the threat is the truth cut; protecting institutional concealment from review is secrecy defense; and one cut opening several curiosity paths is access spread. It is maintained stored facing the closed Lock while oversight records why the last tether — not the truth — was severed. Shutdown rotates it away from the vault and grounds it after the whisper ends.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

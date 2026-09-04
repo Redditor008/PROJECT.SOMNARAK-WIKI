@@ -1,34 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE JUDGMENT FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg0d51f6" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw032" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#2a0d0d"/>
+      <stop offset="100%" stop-color="#0e0404"/>
     </radialGradient>
-    <radialGradient id="gl0d51f6" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
+    <radialGradient id="gw032" cx="46%" cy="48%" r="52%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="bl032" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fca5a5"/>
+      <stop offset="1" stop-color="#7f1d1d"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg0d51f6)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw032)" stroke="#dc2626" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="120" fill="url(#gl0d51f6)"/>
-  <g transform="rotate(11 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 110.05, 231.0 43.0 237.0 43.0 C227.0 114.52, 220.0 141.34, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 123.46, 229.0 51.0 234.0 49.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="43.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="247.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <g transform="rotate(-16 200.0 278.0)">    <circle cx="192.0" cy="264.0" r="5" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".45"/>
-  </g>
-  <g transform="rotate(-16 200.0 278.0)">    <circle cx="204.0" cy="264.0" r="5" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".45"/>
-  </g>
-  <g transform="rotate(-16 200.0 278.0)">    <circle cx="216.0" cy="264.0" r="5" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".45"/>
-  </g>
-  <g transform="rotate(-13 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#d64a4a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#d64a4a" stroke-width="2" opacity=".45"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-032-01</text>
+  <circle cx="192" cy="188" r="132" fill="url(#gw032)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0e0404" stroke="#dc2626" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#dc2626" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+  <path d="M12 132 L16 130 M16 168 L12 170 M12 204 L16 202 M16 240 L12 242" stroke="#dc2626" stroke-width="1.4" opacity=".8"/>
+
+  <!-- KUKRI CLEAVER: massive forward-bent blade, edge belly down-left -->
+  <path d="M282 296 L262 282 C 196 256, 138 212, 108 148 C 96 122, 96 98, 110 82 C 118 74, 130 72, 140 78 L134 96 C 128 94, 122 96, 120 104 C 114 124, 120 146, 134 168 C 168 220, 216 254, 274 274 Z"
+        fill="url(#bl032)" stroke="#ef4444" stroke-width="3"/>
+  <!-- shallow channel along the thick back -->
+  <path d="M146 96 C 134 116, 136 142, 152 170 C 182 216, 224 248, 272 268" fill="none" stroke="#450a0a" stroke-width="4" opacity=".8"/>
+  <path d="M146 96 C 134 116, 136 142, 152 170 C 182 216, 224 248, 272 268" fill="none" stroke="#fecaca" stroke-width="1.2" opacity=".7"/>
+  <!-- edge glint on the belly -->
+  <path d="M116 130 C 140 186, 196 236, 260 262" fill="none" stroke="#fee2e2" stroke-width="1.6" opacity=".8"/>
+  <!-- judgment notch at the base of the edge (cho) -->
+  <path d="M262 282 L252 268 L266 270 Z" fill="#0e0404" stroke="#ef4444" stroke-width="1.6"/>
+  <!-- heavy bolster + grip angled down-right -->
+  <path d="M278 274 L316 296 L306 316 L270 296 Z" fill="#450a0a" stroke="#ef4444" stroke-width="2.6"/>
+  <path d="M306 306 L330 348 L310 358 L288 318 Z" fill="#450a0a" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M300 316 L316 308 M308 330 L324 322" stroke="#ef4444" stroke-width="1.6" opacity=".85"/>
+  <circle cx="322" cy="356" r="7" fill="#450a0a" stroke="#f1df76" stroke-width="2"/>
 </svg>

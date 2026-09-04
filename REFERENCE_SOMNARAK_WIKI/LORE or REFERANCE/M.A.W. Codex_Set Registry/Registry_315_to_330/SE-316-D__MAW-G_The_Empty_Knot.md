@@ -16,6 +16,10 @@
 
 A warm crimson Han-iron Tail knot with one loop and no second line. Tether granted it after Haneulash helped a worker end waiting without offering a substitute return. Bestowal chance is 5%.
 
+## Appearance
+
+The Empty Knot is a warm crimson tail-knot of Han iron with one loop and no second line — half of a connection, honestly presented as half. Tether granted it after a worker helped someone end waiting without offering a substitute return; it cannot be manufactured. Its function is verification, not verdict: it reveals bonds maintained without reciprocal contact — in its recorded case identifying an active emotional tether to a person whose last confirmed contact had ended years before, while declaring nothing about the absent person’s motive. The cost is ambient: the bearer feels every abandoned expectation nearby. Temporary distance appearing as abandonment is the first corrosion sign; judging relationships without context is the second; and every unmet expectation becoming a tether requiring intervention is the expectation flood. Misreading a living reciprocal bond is premature release, and absence treated as proof of rejection is motive fiction. Care verifies last contact, current consent, uncertainty, and the waiting person’s own goal — the Knot loosens only when it stops claiming motive. Emergency release withdraws from the relationship decision entirely and returns authority to the person holding the line.
+
 ## FUNCTION & COST
 
 **Grade / Element:** α / Grudge  

@@ -1,25 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="PATINA FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg882043" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw222" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#230a0e"/>
+      <stop offset="100%" stop-color="#0c0405"/>
     </radialGradient>
-    <radialGradient id="gl882043" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl222" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg882043)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw222)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="110" fill="url(#gl882043)"/>
-  <g transform="rotate(-5 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 115.0, 228.0 52.0 234.0 52.0 C224.0 119.2, 220.0 144.4, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 127.6, 226.0 60.0 231.0 58.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="51.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="255.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-222-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0405" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- fang-curved blade sweeping up-right, warm dark iron -->
+  <path d="M120 322 C 112 270, 126 214, 162 166 C 190 130, 228 104, 270 92 C 294 84, 316 86, 330 96 C 326 110, 312 120, 294 128 C 258 142, 226 164, 202 194 C 174 228, 158 274, 156 320 Z"
+        fill="url(#bl222)" stroke="#ef4444" stroke-width="2.8"/>
+  <!-- warm-iron core shading -->
+  <path d="M138 308 C 134 264, 148 218, 178 178 C 206 142, 244 116, 288 102" fill="none" stroke="#450a0a" stroke-width="2.4"/>
+  <path d="M152 314 C 152 274, 166 234, 192 200 C 218 166, 252 140, 292 124" fill="none" stroke="#fca5a5" stroke-width="1.4" opacity=".8"/>
+  <!-- THE RUST-FLAKE EDGE: orange flakes standing off the edge, sharper than polish -->
+  <path d="M122 318 L110 306 L126 304 M128 284 L114 274 L130 272 M136 250 L124 238 L140 238 M148 218 L138 204 L154 206 M164 190 L156 174 L172 178 M184 162 L178 146 L194 152 M208 138 L204 122 L220 130 M236 116 L234 100 L250 110 M266 100 L266 84 L282 96"
+        fill="#7c2d12" stroke="#fb923c" stroke-width="1.8"/>
+  <path d="M112 304 L124 303 M116 272 L128 271 M126 238 L138 238 M140 206 L152 208 M158 176 L170 180 M180 148 L192 154 M206 124 L218 132 M236 102 L248 112" stroke="#fdba74" stroke-width="1" opacity=".9"/>
+  <!-- flakes shedding: orange specks drifting off the edge -->
+  <circle cx="102" cy="296" r="1.8" fill="#fb923c"/><circle cx="108" cy="262" r="1.4" fill="#fdba74"/><circle cx="118" cy="228" r="1.6" fill="#fb923c"/>
+  <circle cx="132" cy="196" r="1.3" fill="#fdba74"/><circle cx="150" cy="166" r="1.6" fill="#fb923c"/>
+  <!-- patina blooms on the flat: green-brown corrosion islands -->
+  <path d="M196 232 C 204 226, 214 226, 220 232 C 214 240, 204 240, 196 232 Z" fill="#3f6212" opacity=".55"/>
+  <path d="M236 180 C 242 174, 252 174, 258 180 C 252 188, 242 188, 236 180 Z" fill="#3f6212" opacity=".45"/>
+  <path d="M172 272 C 178 266, 186 266, 192 272 C 186 278, 178 278, 172 272 Z" fill="#4d7c0f" opacity=".4"/>
+  <!-- the QUIVER at the tip: motion ghosts toward the oldest marker -->
+  <path d="M318 88 C 324 82, 332 78, 340 78 M322 100 C 328 96, 336 94, 344 94" fill="none" stroke="#ef4444" stroke-width="1.6" opacity=".55"/>
+  <path d="M334 82 L348 74" stroke="#fb923c" stroke-width="1.8" stroke-dasharray="4 4" opacity=".8"/>
+  <!-- socket guard + grip low-left -->
+  <path d="M114 328 L142 348" stroke="#7f1d1d" stroke-width="10"/>
+  <path d="M118 326 L138 342" stroke="#f1df76" stroke-width="2.6"/>
+  <path d="M112 336 L84 372" stroke="#2b0c0c" stroke-width="12" stroke-linecap="round"/>
+  <path d="M108 344 L118 350 M100 354 L110 360 M92 364 L102 370" stroke="#ef4444" stroke-width="2.4"/>
+  <path d="M78 380 a7 7 0 1 0 .1 0" fill="#230a0e" stroke="#fb923c" stroke-width="2.4"/>
 </svg>

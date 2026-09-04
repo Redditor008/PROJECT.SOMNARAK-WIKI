@@ -1,33 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FINAL LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bg0a58c1" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw230" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#14161c"/>
+      <stop offset="100%" stop-color="#08090c"/>
     </radialGradient>
-    <radialGradient id="gl0a58c1" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl230" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#475061"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg0a58c1)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw230)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="110" fill="url(#gl0a58c1)"/>
-  <g transform="rotate(9 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="63.0" ry="79.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="54.0" ry="67.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="45.0" ry="57.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M240.5 131.5 L234.7 140.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M257.6 159.9 L249.3 164.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M263.0 194.8 L254.0 194.3" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="125.0" y="186.0" width="150.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="271.0" width="12" height="26.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(-2 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-230-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- the long pale frame: straight staff with a fork mount at the crown -->
+  <path d="M172 384 L226 96" stroke="#1a1d24" stroke-width="14" stroke-linecap="round"/>
+  <path d="M175 376 L224 102" stroke="#333a47" stroke-width="8" stroke-linecap="round"/>
+  <path d="M184 340 L200 344 M192 300 L207 304 M199 260 L214 264 M206 220 L221 224" stroke="#94a3b8" stroke-width="2.2"/>
+  <!-- fork mount cradling the disc -->
+  <path d="M220 100 C 208 88, 204 72, 210 58 M232 102 C 246 94, 254 80, 252 64" fill="none" stroke="#cbd5e1" stroke-width="4"/>
+  <!-- THE LENS DISC: nearly colorless, mounted high -->
+  <circle cx="230" cy="58" r="44" fill="#0e1013" stroke="#e2e8f0" stroke-width="3.2"/>
+  <circle cx="230" cy="58" r="34" fill="#101318" stroke="#94a3b8" stroke-width="1.6"/>
+  <!-- heartbeat pulse ring: faint, in time with the last heartbeat it observed -->
+  <circle cx="230" cy="58" r="22" fill="none" stroke="#cbd5e1" stroke-width="1.4" opacity=".7"/>
+  <path d="M212 58 L220 58 L224 48 L230 68 L236 52 L240 58 L248 58" fill="none" stroke="#e2e8f0" stroke-width="1.8"/>
+  <!-- the exact-boundary transparency: one clear wedge where the final image ended -->
+  <path d="M230 58 L262 36 A44 44 0 0 1 268 70 Z" fill="#e2e8f0" opacity=".1"/>
+  <path d="M230 58 L262 36 M230 58 L268 70" stroke="#e2e8f0" stroke-width="1.2" opacity=".6"/>
+  <!-- sighting notch and aim line down the staff axis -->
+  <path d="M230 104 L230 116" stroke="#e2e8f0" stroke-width="2.4"/>
+  <path d="M258 96 L322 118" stroke="#64748b" stroke-width="1.6" stroke-dasharray="7 5" opacity=".8"/>
+  <path d="M314 112 L326 119 L312 124" fill="none" stroke="#64748b" stroke-width="1.6" opacity=".8"/>
+  <!-- the three-target falloff etched as three diminishing rings on the frame -->
+  <circle cx="243" cy="152" r="8" fill="none" stroke="#cbd5e1" stroke-width="1.8"/>
+  <circle cx="237" cy="182" r="6" fill="none" stroke="#94a3b8" stroke-width="1.6"/>
+  <circle cx="231" cy="208" r="4.4" fill="none" stroke="#64748b" stroke-width="1.4"/>
+  <!-- memory-cost counter: small bead abacus near the grip -->
+  <path d="M196 288 L216 292" stroke="#94a3b8" stroke-width="2"/>
+  <circle cx="200" cy="289" r="2.6" fill="#cbd5e1"/><circle cx="208" cy="290" r="2.6" fill="#64748b"/><circle cx="215" cy="292" r="2.6" fill="#333a47"/>
+  <!-- two-hand grips: upper and lower wraps -->
+  <path d="M203 244 L219 248 M200 256 L216 260" stroke="#e2e8f0" stroke-width="2.4"/>
+  <path d="M181 326 L196 330 M178 338 L193 342" stroke="#e2e8f0" stroke-width="2.4"/>
+  <!-- butt spike: it plants for the shot -->
+  <path d="M168 388 L162 402" stroke="#cbd5e1" stroke-width="4"/>
+  <path d="M166 384 L176 388" stroke="#94a3b8" stroke-width="5"/>
 </svg>

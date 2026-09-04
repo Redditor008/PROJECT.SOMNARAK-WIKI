@@ -16,6 +16,10 @@
 
 A warm deep-blue Han-crystal Tail flask that remains empty-looking until held against witnessed Lake memory. Mnemosyne granted it after a worker catalogued one life and returned it without claiming ownership. Bestowal chance is 4%.
 
+## Appearance
+
+The Lake Flask is a warm tail-flask of deep-blue Han crystal that looks empty until it is held against witnessed Lake memory — then its interior moves, one life in liquid form. Mnemosyne granted it after a worker catalogued one life and returned it without claiming ownership; it cannot be manufactured. Its function is custody, never collection: it stores one witnessed memory long enough for the work that requires it — in its recorded case, one lost street-vendor’s memory carried long enough to compare an erased market map. The cost is the ending: the user feels the death or loss attached to the stored life — the vendor’s final empty stall remained in the bearer’s body until the Flask returned to the shore. Liquid displaying the bearer’s face instead of the source life is the ownership stain — a bearer calling the stored life “my memory” — and a second memory added mixes both identities in the capacity breach. Unwitnessed contents evaporate and leave grief without record. Care keeps the witness present, reads provenance, and returns the liquid to its original channel; the Flask clears once the same memory reappears in the Lake. It opens only at the witnessed shore, never into another archive vessel.
+
 ## FUNCTION & COST
 
 **Grade / Element:** γ / Lament  

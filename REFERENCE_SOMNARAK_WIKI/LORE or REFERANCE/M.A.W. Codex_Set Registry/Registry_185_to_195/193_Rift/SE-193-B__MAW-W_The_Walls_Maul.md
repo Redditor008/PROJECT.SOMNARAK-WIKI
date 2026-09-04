@@ -16,6 +16,10 @@
 
 Formed from a black absence echo after former neighbors crossed the old line with witnesses from both histories. A bearer needs representatives from both sides and may not wield it to prove reunion.
 
+## Appearance
+
+The Wall’s Maul is a massive black maul formed from an absence echo — the black that was left when former neighbors crossed the old line with witnesses from both histories. Its head is smooth, unmarked Han material that seems to swallow lamplight, and its weight is the Weight of a division no one can see anymore but everyone still walks around. The weapon will not lift for a single hand’s cause: it requires representatives from both sides present, and it may not be wielded to prove reunion. Swung correctly it breaks an invisible Weight division field long enough for a current shared route to be established — an old road reopened for a joint memorial, a crossing made walkable — but it cannot erase lived separation, and the route stays open only while both groups keep the follow-up plan. The bearer grows progressively heavier, and use without mutual witness turns the Maul’s force back on the one who swung it. Black cracks spread across the head when the bearer calls the divide solved. It is maintained with both history records side by side, and shutdown requires witnesses from both sides.
+
 ## CORE STATISTICS
 
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |

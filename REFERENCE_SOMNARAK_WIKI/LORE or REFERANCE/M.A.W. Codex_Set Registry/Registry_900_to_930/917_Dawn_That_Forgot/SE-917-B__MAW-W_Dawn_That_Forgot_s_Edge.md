@@ -19,6 +19,10 @@
 **Canonical ability:** Channels void dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.   <!-- SE-917 -->
 **Binding rule:** the bearer names Dawn That Forgot's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Dawn That Forgot's Edge is the weapon record of the Dawn That Forgot set — γ-grade, Void-aligned, striking at 14–25 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels void dream sorrow: the blade cuts at the dream register of the target's grief, a morning that arrived without remembering what it was supposed to end. Binding names Dawn That Forgot's event — Not recorded, the sunrise keeping no minutes of its own night — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is emotional numbness toward the Void element with each use, the wielder's feeling bleaching like sky at first light. The source-trace fixed doctrine: the time-manifestation gave no transcribable field response, and the Edge stays the hazard only after attribution to Dawn That Forgot. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

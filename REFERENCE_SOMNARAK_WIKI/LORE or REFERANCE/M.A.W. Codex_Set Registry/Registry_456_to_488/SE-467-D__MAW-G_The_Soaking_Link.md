@@ -14,6 +14,10 @@
 
 A deep-blue Tail chain-link that opens only between two consenting people. Bestowal follows successful memory return. Chance: 5%.
 
+## Appearance
+
+The Soaking Link is a tail chain-link of deep-blue crystal that opens only between two consenting people — mechanically incapable of connecting anyone to anyone without both yeses; forced, it simply stays shut. Bestowal follows successful memory return; it cannot be manufactured. Its function is the set’s purpose in miniature: it allows two people to share one memory temporarily — one memory, two people, a stated duration, nothing more. The cost is symmetrical: both feel the grief attached to what they share, the emotional freight arriving with the cargo for giver and receiver alike. Consent assumed from relationship is the first failure — intimacy read as standing permission, the marriage or friendship treated as a signature it never was; temporary sharing becoming copy is the second, the loan quietly converted to theft by duplication; and one participant refusing return is the third, the borrowed past held hostage. Care names owners, duration, and return point before the Link is opened — whose memory, how long, and exactly where it goes back, agreed aloud while the Link is still closed. A Link opened without the third answer has no way home, and memories without a way home become the Weaver’s work all over again.
+
 **Grade / Element:** β / Lament  
 **Bonus:** +1 Clarity  
 **Effect:** allows two people to share one memory temporarily  

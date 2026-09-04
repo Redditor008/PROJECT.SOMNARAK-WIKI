@@ -19,6 +19,10 @@ The Years Charm is a small black Han-steel calendar weight worn at the Head slot
 
 Walking Calendar bestowed it after Marjuk restored a casualty entry with its consequence and authorizing office intact. The Gift’s chance is 4%; it cannot be scheduled or extracted.
 
+## Appearance
+
+The Years Charm is a small black Han-steel calendar weight worn at the head slot — matte, disproportionately heavy, and engraved with a single blank square that warms near an omitted date. Walking Calendar bestowed it after an archivist restored a casualty entry with its consequence and authorizing office intact; it cannot be scheduled or extracted. In use it points toward a missing date, an excised consequence, or a chronology that has been made falsely seamless — and it detects missing consequence as readily as missing calendar data, holding its bearer motionless beside a page whose dates are complete but whose footnote names an evacuation without the people denied passage. It does not determine guilt; it identifies where history has been made falsely light. The bearer’s movement slows as unresolved omissions accumulate, and blank squares multiplying across the band are the first corrosion sign. Filling an omission with a convenient explanation cools the Charm while making it heavier. Care requires comparing the marked interval against original, edited, and public versions, and the Charm lightens only when uncertainty is recorded rather than filled. Emergency release is the current date spoken aloud and one defined archival task handed to another named person.
+
 ## FUNCTION & COST
 
 **Grade / Element:** δ / Weight  

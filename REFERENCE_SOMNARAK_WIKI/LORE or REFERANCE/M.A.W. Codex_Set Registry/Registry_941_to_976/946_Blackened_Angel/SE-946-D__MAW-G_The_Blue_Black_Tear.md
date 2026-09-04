@@ -19,6 +19,10 @@
 **Canonical ability:** A tear that darkens from blue to black in the presence of a cruel or selfish wish, warning the bearer before the wish is spoken — the angel's last gift to the kind.  
 **Binding rule:** the bearer names Blackened Angel's event—A Collector named Kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. The angel could not refuse. With the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear.—and accepts this limit: Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand
 
+## Appearance
+
+The Blue-Black Tear is the gift record of the Blackened Angel set — hand-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability is a tear that darkens from blue to black near a cruel or selfish wish, warning before it is spoken: the angel's last gift to the kind. Binding names the source event — Kangmin wished ill on his debtors nightly, and the angel, unable to refuse, wept black and dimmed from gold — and accepts the set's limit: do not make a wish; name the angel's grief and empty the dish of tears by hand. The cost: the bearer weeps briefly whenever someone nearby gets exactly what they wished for. The source- trace fixed doctrine: the statue's record opened, every granted wish flickering across its surface with the ratio of gold to black readable, and the Tear uncouples the hazard only after attribution to Blackened Angel. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Hand / 4%  

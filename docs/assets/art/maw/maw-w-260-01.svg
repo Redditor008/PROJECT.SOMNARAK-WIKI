@@ -1,35 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MEMORY REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg3b273e" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw260" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl3b273e" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl260" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1e40af"/>
+      <stop offset="1" stop-color="#93c5fd"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg3b273e)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw260)" stroke="#60a5fa" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="121" fill="url(#gl3b273e)"/>
-  <g transform="rotate(-4 200.0 192.0)">
-<path d="M188.0 192.0 L194.96 72.48 L200.0 26.0 L205.04 82.44 L212.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 26.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="194.0" y="95.7" width="12.0" height="69.7" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="178.0" y="187.0" width="44.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="47.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="255.0" r="7.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(-6 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(-4 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <g transform="rotate(-14 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-260-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#60a5fa" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#60a5fa" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- BROAD flat blade like a bridge deck plank: wide, square-backed, shallow diagonal -->
+  <path d="M76 262 L82 232 L318 158 C 332 154, 344 160, 348 174 C 352 188, 346 200, 332 204 L100 276 C 88 280, 78 274, 76 262 Z"
+        fill="url(#bl260)" stroke="#3b82f6" stroke-width="2.8"/>
+  <!-- square heel notch (cleaver profile signature) -->
+  <path d="M82 232 L102 226 L106 244" fill="none" stroke="#3b82f6" stroke-width="2.4"/>
+  <!-- spine + edge -->
+  <path d="M84 236 L322 162" stroke="#1e3a5f" stroke-width="2.2"/>
+  <path d="M80 266 L330 200" stroke="#e0f2fe" stroke-width="2"/>
+  <!-- THE WORN-PATH FULLER: meandering bright footpath across the wide flat -->
+  <path d="M96 254 C 128 240, 156 240, 184 230 C 212 220, 236 218, 262 206 C 284 196, 304 190, 322 186"
+        fill="none" stroke="#0a1626" stroke-width="6"/>
+  <path d="M96 254 C 128 240, 156 240, 184 230 C 212 220, 236 218, 262 206 C 284 196, 304 190, 322 186"
+        fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".9"/>
+  <!-- path-stones -->
+  <ellipse cx="124" cy="245" rx="5.4" ry="3.6" transform="rotate(-14 124 245)" fill="#12233d" stroke="#93c5fd" stroke-width="1.4"/>
+  <ellipse cx="176" cy="233" rx="5.4" ry="3.6" transform="rotate(-16 176 233)" fill="#12233d" stroke="#93c5fd" stroke-width="1.4"/>
+  <ellipse cx="228" cy="219" rx="5.4" ry="3.6" transform="rotate(-20 228 219)" fill="#12233d" stroke="#93c5fd" stroke-width="1.4"/>
+  <ellipse cx="280" cy="200" rx="5.4" ry="3.6" transform="rotate(-18 280 200)" fill="#12233d" stroke="#93c5fd" stroke-width="1.4"/>
+  <!-- footprints fading past the tip edge -->
+  <path d="M330 182 C 334 180, 337 180, 339 182 M340 174 C 343 172, 346 172, 348 174 M349 167 C 351 166, 353 166, 354 167" stroke="#60a5fa" stroke-width="1.8" opacity=".8" fill="none"/>
+  <!-- three unstable lift points rising off the spine, each cut -->
+  <path d="M150 232 L144 214 M214 216 L208 198 M278 196 L272 178" stroke="#3b5f88" stroke-width="2.4"/>
+  <path d="M138 222 L154 220 M202 206 L218 204 M266 186 L282 184" stroke="#e0f2fe" stroke-width="1.8"/>
+  <!-- settled-bridge arcs etched near the heel: far shore missing -->
+  <path d="M104 262 C 110 254, 120 252, 128 256" fill="none" stroke="#93c5fd" stroke-width="2"/>
+  <path d="M132 256 C 136 254, 140 254, 143 256" fill="none" stroke="#3b5f88" stroke-width="1.6" stroke-dasharray="3 4"/>
+  <!-- full-width tang into a two-hand bridge-rail grip -->
+  <path d="M92 278 L112 330" stroke="#12233d" stroke-width="12" stroke-linecap="round"/>
+  <path d="M112 330 L140 372" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
+  <path d="M98 292 L110 288 M104 308 L116 304 M118 340 L130 336 M126 354 L138 350" stroke="#60a5fa" stroke-width="2.4"/>
+  <path d="M146 380 a7 7 0 1 0 .1 0" fill="#0a1626" stroke="#93c5fd" stroke-width="2.4"/>
+  <rect x="152" y="386 " width="18" height="12" rx="2" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <circle cx="161" cy="392" r="1.6" fill="#f1df76"/>
 </svg>

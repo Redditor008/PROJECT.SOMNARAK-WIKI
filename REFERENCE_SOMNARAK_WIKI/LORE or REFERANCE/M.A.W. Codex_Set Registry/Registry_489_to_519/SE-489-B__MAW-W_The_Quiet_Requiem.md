@@ -16,6 +16,10 @@ A deep-blue Han-crystal blade with a silent edge and luminous grievance lines. I
 
 Durivel severed three coercive suppression paths from a dream field while leaving individual silence untouched. He wept for words no one remembered withholding.
 
+## Appearance
+
+The Quiet Requiem is a blade of deep-blue Han crystal with a silent edge and luminous grievance lines — the steel makes no sound at all in motion, while the suppressed complaints it exists to free glow visibly along the flat. It forms after voluntary truth naming: someone said the unsaid thing by choice, and the blade condensed from that. In use it removes forced silence from up to three linked targets — in its recorded case severing three coercive suppression paths from a dream field while leaving individual silence untouched, the wielder weeping for words no one remembered withholding. Privacy attacked is the first failure — chosen quiet cut as if it were imposed; confession extracted is the second, the liberation of speech inverted into its compulsion; and every quiet classified as suppression is the third, the diagnosis swallowing the whole category of rest. It is maintained by calibrating against voluntary silence and independently verified coercion — one sample of each, so the edge relearns the difference every time. The grievance lines dim as freed words are spoken elsewhere; lines still bright after a cut mean the silence was severed but the speech never became safe — unfinished business, not success.
+
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | δ / Lament | 10–15 | 3 / 3 | Pierce | 2 / 50 |

@@ -19,6 +19,10 @@ A hollow blue Han-crystal pod at the Tail slot. It contains no seed. When assign
 
 Unwitnessed bestowed it after a worker marked the absence and waited through Ferrehan without planting. Observed bestowal probability is 5%. Manufacturing is impossible.
 
+## Appearance
+
+The Seedless Pod is a hollow pod of blue Han-crystal worn at the tail slot, and its hollowness is exact — it contains no seed, and never will. When it is assigned to a fragile beginning, one dim point of light appears inside the crystal, a glow that shows that something has started without ever showing its final form. Unwitnessed bestowed it after a worker marked the absence and waited through Ferrehan without planting; manufacturing is impossible. In function it preserves one fragile beginning outside the source boundary — in its recorded trial, the first line of a survivor’s account stayed legible through a Han-storm while imagined complete narratives appeared and vanished around it. The cost is constant and quiet: the bearer feels every future that did not start. The point of light dividing into competing futures is the first corrosion sign, and a Pod that treats completion as death and refuses release is the last. Naming the final form makes the Gift preserve a plan instead of a beginning, and it goes dark if anyone declares its protected outcome mandatory. Care returns it to a neutral site until the protected person or project makes one unpredicted choice.
+
 ## FUNCTION & COST
 
 **Grade / Element:** α / Lament  

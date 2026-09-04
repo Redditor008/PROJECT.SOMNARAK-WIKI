@@ -16,6 +16,10 @@
 
 A cool deep-blue Han-crystal Tail core containing root-light but no seed. Unsprouted Life granted it after a worker completed Ferrehan without planting or watering. Bestowal chance is 4%.
 
+## Appearance
+
+The Unsprouted Life Core is a cool tail-core of deep-blue Han crystal containing root-light but no seed — the pattern of growth held without the thing that grows. Unsprouted Life granted it after a worker completed Ferrehan without planting or watering; it cannot be manufactured. Activated, it generates bounded protective growth around the bearer — in its recorded case the barrier held through a root surge — and its fuel is the crueler part: growth feeds on memories of future possibilities. The recorded bearer lost the felt possibility of one journey she had planned; the itinerary facts remained, but the anticipation was gone. A barrier displaying increasingly specific future lives is the first corrosion sign; a bearer spending possibilities to avoid ordinary risk is the second; and growth reaching toward the source shell is the third. Repeated use leaving no imaginable alternatives is future starvation; planting the Core to replace the source is seed substitution; and a barrier that prevents the bearer from changing course is the protective prison. Care records each future-memory loss without inventing replacement hope, and the growth dries completely outside any soil. Emergency release stops feeding possibilities, opens one present exit, and lets the barrier wither naturally.
+
 ## FUNCTION & COST
 
 **Grade / Element:** δ / Lament  

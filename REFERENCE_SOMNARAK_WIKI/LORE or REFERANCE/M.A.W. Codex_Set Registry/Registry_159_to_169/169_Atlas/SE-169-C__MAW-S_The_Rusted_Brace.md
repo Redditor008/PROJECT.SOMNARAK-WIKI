@@ -34,6 +34,10 @@ The Brace formed from Atlas rust after a worker was replaced by a repair frame a
 
 **Rejection rule:** If worn to take on every failing task, the ribs tighten and its Weight resistance returns to normal until a supervisor assigns relief.
 
+## Appearance
+
+The Rusted Brace is a lightweight black harness with rusted support ribs across shoulders and back. The braces deploy only after a relief time is written into the current work order. In active use the ribs extend short dark braces toward a nearby stressed structure or person-sized load. At full activation, the ribs transfer one local Weight surge into the prepared replacement and release the wearer’s brace pressure. The wearer names the support task, relief time, and replacement mechanism before fastening the harness. The wearer feels responsible for every supported thing. Supervisor or relief worker can terminate use. The Brace is hung open on a Forge stand, not stored closed around itself. If worn to take on every failing task, the ribs tighten and its Weight resistance returns to normal until a supervisor assigns relief. The relief worker opens the lower rib latch, states the replacement, and removes the harness during shutdown.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

@@ -39,6 +39,10 @@
 
 **Rejection rule:** If the Hammer is raised without an external listener, the bearer’s own warning calls become inaudible to them and the weapon refuses activation.
 
+## Appearance
+
+The Silence Hammer is a pale Han-glass hammer with a bell-shaped hollow inside the head and no audible movement. It will not lift until an outside alert partner is assigned to hear what the bearer cannot. In active use a single pale impact circle spreads outward, swallowing nearby sound within a defined space. At full activation, the Hammer suppresses a single overwhelming sound or Void-alert surge while the partner receives and records the external warning. The bearer names an alert partner who remains outside the silence field. The bearer cannot hear while the silence field persists. External alert partner holds authority to end the field. Hearing check and warning log are mandatory after impact. The Hammer is stored beside response logs, never an unacknowledged alarm record. If the Hammer is raised without an external listener, the bearer’s own warning calls become inaudible to them and the weapon refuses activation. The alert partner speaks the end cue through the channel and covers the hammer hollow with its muted cap during shutdown.
+
 ## CORE STATISTICS
 
 | Field | Record |

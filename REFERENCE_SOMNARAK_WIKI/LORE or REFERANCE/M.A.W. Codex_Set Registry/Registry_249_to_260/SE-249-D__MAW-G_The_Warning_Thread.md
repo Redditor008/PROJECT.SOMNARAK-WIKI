@@ -16,6 +16,10 @@
 
 A warm crimson Han-iron Tail thread carrying one pulse of sound through static. It never holds a complete sentence. The source granted it after Sora preserved a danger-direction fragment and openly marked the absent words. Bestowal probability is 4%.
 
+## Appearance
+
+The Warning Thread is a warm crimson thread of Han iron worn at the tail, carrying one pulse of sound through static — and by nature it never holds a complete sentence. The source granted it after a dreamer preserved a danger-direction fragment and openly marked the absent words; it cannot be manufactured. Its function is transmission without embroidery: it preserves one verified warning fragment through interference, and in its recorded case it carried “east—ground—” from a dreamer to an awake patrol, who avoided an eastern subsidence zone without inventing what the missing words described. The Thread goes physically rigid around speculative words — guessing stiffens it like wire. The cost arrives as sound: the bearer hears every warning that arrived too late, replaying over current safe conditions. A fragment growing fluent despite no new evidence is the sentence-growth failure, alarm fatigue makes current warnings inaudible, and a bearer treating a fragment as inevitable future has tied the prophecy knot. Care plays the raw fragment once and records signal, noise, and silence separately; the Thread clears when it returns only the original pulse. Emergency release transmits the fragment exactly once to a named responder, then lets the Thread fall silent.
+
 ## FUNCTION & COST
 
 **Grade / Element:** δ / Grudge  

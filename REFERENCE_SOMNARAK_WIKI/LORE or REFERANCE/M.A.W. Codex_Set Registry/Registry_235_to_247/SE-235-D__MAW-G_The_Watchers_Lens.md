@@ -19,6 +19,10 @@ A pale Han-glass lens-pendant fixed at the Head slot. When touched to a wall, it
 
 Panopticon granted it after an observer acknowledged the gaze and acted on a recorded hazard. Acquisition chance is 5%; no extraction procedure produces a Gift.
 
+## Appearance
+
+The Watcher’s Lens gift is a pale Han-glass lens-pendant fixed at the head slot, small enough to sit unnoticed at the hairline. Touched to a wall, it reveals what that structure witnessed from its own position — twelve shifts of a corridor, one alcove’s unblinking record of a citizen collapsing while people passed. The price is symmetrical with the power: the bearer cannot later forget the scene, even if the wall’s record is sealed. Panopticon granted it after an observer acknowledged the gaze and acted on a recorded hazard; no extraction procedure produces it. The Gift supplies evidence, never verdicts — a wall’s field of view is not the whole event, and mistaking perspective for truth is its listed failure. Old scenes intruding over present walls is the first corrosion sign; a bearer seeking private scenes unrelated to intervention is the last and worst. Care requires recording exactly where the structure could and could not see, with another witness identifying the blind areas, and the Lens rests against an unwitnessing surface until the current room becomes primary again. Emergency release covers the bearer’s sight — not the Gift — with neutral cloth; shattering the lens projects the permanent scene to everyone nearby.
+
 ## FUNCTION & COST
 
 **Grade / Element:** β / Void  

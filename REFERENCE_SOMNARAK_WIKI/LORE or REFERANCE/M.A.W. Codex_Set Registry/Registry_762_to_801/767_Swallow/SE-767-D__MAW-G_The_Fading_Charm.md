@@ -19,6 +19,10 @@
 **Canonical ability:** Grants a minor boon tied to Swallow's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names Swallow's event—A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence.—and accepts this limit: Name the source of the grief and return emotional ownership
 
+## Appearance
+
+The Fading Charm is the gift record of Swallow’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — its ability mirroring the entity: a minor boon tied to Swallow’s sorrow, the absence returning a measure of what it took. Binding is testimonial: the bearer names Swallow’s event — a memorial beneath the Alpha Tree absorbed generations of visitors’ grief and became a spreading absence — and accepts the set’s limit: name the source of the grief and return emotional ownership. The operational cost arrives at night: the bearer weeps in their sleep, grief draining on its own schedule, and continued use makes the source sorrow feel autobiographical. The source-trace fixed the doctrine: the gift reveals the people whose sorrow feeds it, and it stayed the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  

@@ -19,6 +19,10 @@
 **Canonical ability:** Slows the wearer's perception of time during crisis.  
 **Binding rule:** the bearer names Uprooted's event—A Desolate settlement moved repeatedly, leaving its roots and structures behind each time.—and accepts this limit: Do not burn the roots; map and witness their route
 
+## Appearance
+
+The Uprooted Shield is the suit record of the Uprooted set — α-grade, Lament-aligned, resistant to Lament at 0.4 while enduring Weight at 0.8 and running weak to Void at 1.6, worn at 10 Sorrow Echoes a deployment — and its canonical ability slows the wearer's perception of time during crisis, the long patience of roots lent to a moment of panic. Binding names the source event — a Desolate settlement moved repeatedly, leaving its roots and structures behind each time — and accepts the set's limit: do not burn the roots; map and witness their route. The cost is retrospective: the wearer feels the sorrow of every place they have ever left. The source-trace fixed doctrine: the entity tests whether the worker can bear rootless movement, and the Shield redirects the hazard only after attribution to Uprooted. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

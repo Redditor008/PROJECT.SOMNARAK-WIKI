@@ -1,41 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LAUGHTER LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS FOCUS -->
   <defs>
-    <radialGradient id="bg6cb0b8" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw210" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#14161c"/>
+      <stop offset="100%" stop-color="#08090c"/>
     </radialGradient>
-    <radialGradient id="gl6cb0b8" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl210" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#475061"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg6cb0b8)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw210)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="129" fill="url(#gl6cb0b8)"/>
-  <g transform="rotate(12 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="66.0" ry="73.0" fill="none" stroke="#3e8bd5" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="57.0" ry="61.0" fill="#3e8bd5" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="48.0" ry="51.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M242.4 136.1 L236.6 145.3" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M260.3 162.3 L252.1 167.2" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M266.0 194.5 L257.0 194.1" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M258.3 226.3 L250.3 220.6" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M238.8 251.1 L233.5 241.4" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="122.0" y="186.0" width="156.0" height="12" rx="5" fill="#3e8bd5" fill-opacity=".4"/>
-<rect x="194.0" y="265.0" width="12" height="34.0" rx="4" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(-4 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <g transform="rotate(14 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <g transform="rotate(-14 200.0 120.0)" opacity=".9">
-    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-210-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- the palm-wide disc, held high, face toward viewer -->
+  <circle cx="234" cy="148" r="76" fill="#0e1013" stroke="#cbd5e1" stroke-width="3.2"/>
+  <circle cx="234" cy="148" r="76" fill="url(#bl210)" opacity=".1"/>
+  <circle cx="234" cy="148" r="62" fill="#14161c" stroke="#94a3b8" stroke-width="1.8"/>
+  <!-- inner light flickering in time with laughter: irregular pulse arcs -->
+  <path d="M196 120 C 208 108, 226 102, 244 106" fill="none" stroke="#e2e8f0" stroke-width="2" opacity=".85"/>
+  <path d="M190 138 C 196 130, 206 124, 216 122" fill="none" stroke="#cbd5e1" stroke-width="1.4" opacity=".5"/>
+  <path d="M262 110 C 272 116, 280 126, 283 138" fill="none" stroke="#94a3b8" stroke-width="1.6" opacity=".65"/>
+  <!-- seen through the glass: the mouth a fraction AHEAD of the face — two offset profiles -->
+  <path d="M214 146 C 222 138, 234 134, 246 136 C 256 138, 264 146, 266 156 C 264 168, 256 176, 244 178 C 230 180, 218 174, 212 162 Z"
+        fill="none" stroke="#64748b" stroke-width="1.8" opacity=".8"/>
+  <path d="M228 162 C 234 166, 242 166, 248 162" fill="none" stroke="#e2e8f0" stroke-width="2.4"/>
+  <path d="M236 168 C 242 172, 250 172, 256 168" fill="none" stroke="#475061" stroke-width="2" opacity=".8"/>
+  <circle cx="232" cy="150" r="2" fill="#94a3b8"/>
+  <!-- the returned last-laugh: sound wave entering from behind the rim -->
+  <path d="M304 120 C 312 114, 320 112, 328 114 M300 134 C 308 128, 316 126, 324 128" fill="none" stroke="#94a3b8" stroke-width="1.6" opacity=".7"/>
+  <path d="M298 126 L286 132" stroke="#cbd5e1" stroke-width="1.6"/>
+  <!-- ground-glass rim texture: fine radial ticks -->
+  <path d="M234 72 L234 80 M290 92 L284 98 M310 148 L302 148 M290 204 L284 198 M234 224 L234 216 M178 204 L184 198 M158 148 L166 148 M178 92 L184 98" stroke="#64748b" stroke-width="1.8"/>
+  <!-- THE ANGLED HANDLE: joins the disc at a pointing angle, not a swinging one -->
+  <path d="M196 210 L160 246" stroke="#94a3b8" stroke-width="8"/>
+  <path d="M162 244 L118 330" stroke="#1a1d24" stroke-width="13" stroke-linecap="round"/>
+  <path d="M160 248 L120 326" stroke="#333a47" stroke-width="7" stroke-linecap="round"/>
+  <path d="M150 268 L162 274 M142 284 L154 290 M134 300 L146 306" stroke="#94a3b8" stroke-width="2.4"/>
+  <!-- collet where handle meets rim -->
+  <circle cx="198" cy="208" r="7" fill="#14161c" stroke="#cbd5e1" stroke-width="2.2"/>
+  <path d="M112 338 a8 8 0 1 0 .1 0" fill="#14161c" stroke="#cbd5e1" stroke-width="2.4"/>
+  <!-- pointing line off the disc face -->
+  <path d="M300 170 L344 186" stroke="#64748b" stroke-width="1.6" stroke-dasharray="6 5" opacity=".7"/>
 </svg>

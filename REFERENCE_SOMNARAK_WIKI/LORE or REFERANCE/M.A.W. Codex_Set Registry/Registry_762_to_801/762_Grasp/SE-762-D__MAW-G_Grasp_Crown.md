@@ -19,6 +19,10 @@
 **Canonical ability:** Heals minor wounds through warm sorrow.  
 **Binding rule:** the bearer names Grasp's event—A Han-storm consumed a bridge; a rescuer continued calling across the gap until the calls became a burning figure.—and accepts this limit: Do not promise rescue; acknowledge the limits of one person
 
+## Appearance
+
+The Grasp Crown is the gift record of Grasp’s set — tail-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its ability is the set’s gentlest: healing minor wounds through warm sorrow. Binding is testimonial: the bearer names Grasp’s event — a Han-storm consumed a bridge, and a rescuer continued calling across the gap until the calls became a burning figure — and accepts the set’s limit: do not promise rescue; acknowledge the limits of one person. The operational cost is its shadow: the wearer feels the rage of every failed rescue, and continued use makes the source sorrow feel autobiographical. The first field bearer’s source-trace fixed the doctrine: the gift reveals the failed rescue and its victims, and it isolated the immediate hazard only after the team attributed it to Grasp — treating the response as the bearer’s own story reproduced the source wound and established the binding rule. Corrosion runs from describing the event in first person, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  

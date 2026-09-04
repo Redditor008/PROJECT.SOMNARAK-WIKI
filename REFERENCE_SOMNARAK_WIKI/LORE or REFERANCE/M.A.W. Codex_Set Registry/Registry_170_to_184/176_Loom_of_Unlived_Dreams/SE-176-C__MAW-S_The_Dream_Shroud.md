@@ -26,6 +26,10 @@
 
 The Shroud formed when a Loom dream room was closed with both anchors intact. **Binding:** a wearer cannot enter a woven construct alone. **Rejection:** If either anchor is treated as optional, the fabric gives only normal resistance.
 
+## Appearance
+
+This Dream Shroud is cut from pale loom-cloth that shows two textures at once — the weave of the current room and, faintly beneath it, the weave of whatever construct the wearer stands inside. Two anchor knots sit at the collar, one held by a waking witness and one by a Dream witness, and the suit gives only ordinary resistance unless both knots are tied and held by separate hands. Worn correctly, the fabric keeps the wearer’s current body and Dream identity distinct from a Loom-created temporary reality, so a woven room can be entered, worked, and left without the wearer’s outline joining the cloth. When both witnesses jointly invoke the return cue, the Shroud breaks one Dream bleed and sets the wearer back into current space. Minor joys go numb after immersion, and either anchor may end use. One knot tightens when the bearer starts privileging the dream over waking consent, and a two-knot deadlock puts the suit into Dream Gate custody. Both witnesses release their knots together during shutdown; cutting either knot leaves the wearer split between the construct and the current room.
+
 ## PROTECTION STATISTICS
 
 | Lament | Grudge | Void | Weight |

@@ -30,6 +30,10 @@ Durivel extracted it in Collector’s Row after a Ferrehan cycle in which the or
 | Binding cost | Prolonged use ages the hands and teaches the wielder to miss heaviness |
 | Corrosion risk | Severe after three unresolved debt-line strikes |
 
+## Appearance
+
+The Familiar Maul is a matte black maul of Han steel, too heavy for its measured mass — scales and arms disagree about it. Inactive, root grain circles the head like a family tree; active, one branch glows for every obligation the target believes is part of them. It was extracted in Collector’s Row after a Ferrehan cycle in which the originating debt was spoken but no descendant was reduced to a ledger entry, and binding accepts only a wielder who can name one duty they chose and one they merely inherited — a wielder who cannot make that distinction feels the haft root into both palms. In use, a downward blow exposes and cracks one inherited burden feeding current Weight pressure; it cannot erase a debt, absolve harm, or damage a chosen responsibility. A correct strike leaves a black root-shaped fracture in the floor; a false strike transfers the targeted obligation to the wielder. Each committed swing adds perceived body-weight until discharged, and prolonged use ages the hands and teaches the wielder to miss heaviness. In its recorded case the Maul stopped above a fourth root that marked food voluntarily shared, not an imposed account — the weapon judges coercion, not inconvenience.
+
 ## FUNCTION
 
 **Ledgerbreak:** a downward blow exposes and cracks one inherited burden feeding current Weight pressure. It cannot erase a debt, absolve harm, or damage a chosen responsibility. A correct strike leaves a black root-shaped fracture in the floor; a false strike transfers the targeted obligation to the wielder.

@@ -1,38 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SINGING REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg02374c" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw048" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#101838"/>
+      <stop offset="100%" stop-color="#05060f"/>
     </radialGradient>
-    <radialGradient id="gl02374c" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
+    <radialGradient id="gw048" cx="46%" cy="46%" r="54%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="bl048" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c7d2fe"/>
+      <stop offset="1" stop-color="#1e1b4b"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg02374c)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw048)" stroke="#818cf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="129" fill="url(#gl02374c)"/>
-  <g transform="rotate(6 200.0 192.0)">
-<path d="M182.0 192.0 L192.44 71.04 L200.0 24.0 L207.56 81.11999999999999 L218.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 24.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="191.0" y="94.6" width="18.0" height="70.6" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="172.0" y="187.0" width="56.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="36.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="244.0" r="8.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(12 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(-3 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <g transform="rotate(-14 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <g transform="rotate(-14 200.0 120.0)" opacity=".9">
-    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-048-01</text>
+  <circle cx="192" cy="192" r="132" fill="url(#gw048)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#05060f" stroke="#818cf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#818cf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- SONG SCIMITAR: deep-blue crescent like a drawn breath -->
+  <path d="M300 72 C 226 84, 162 132, 132 204 C 120 234, 118 262, 126 284 L150 274 C 144 254, 146 230, 156 206 C 184 142, 238 100, 306 92 Z"
+        fill="url(#bl048)" stroke="#818cf8" stroke-width="2.8"/>
+  <!-- the full-length groove, filling with light -->
+  <path d="M292 84 C 226 96, 172 138, 148 202 C 140 224, 138 246, 142 266" fill="none" stroke="#1e1b4b" stroke-width="5" opacity=".9"/>
+  <path d="M292 84 C 226 96, 172 138, 148 202 C 140 224, 138 246, 142 266" fill="none" stroke="#e0e7ff" stroke-width="1.8" stroke-dasharray="22 10" opacity=".95"/>
+  <!-- note-motes rising off the singing edge -->
+  <circle cx="318" cy="64" r="3.2" fill="#e0e7ff"/>
+  <path d="M318 64 L318 48 L328 44" fill="none" stroke="#e0e7ff" stroke-width="1.6"/>
+  <circle cx="286" cy="120" r="2.6" fill="#c7d2fe" opacity=".85"/>
+  <path d="M286 120 L286 108" stroke="#c7d2fe" stroke-width="1.3" opacity=".85"/>
+  <circle cx="234" cy="146" r="2.2" fill="#a5b4fc" opacity=".7"/>
+  <path d="M234 146 L234 136" stroke="#a5b4fc" stroke-width="1.1" opacity=".7"/>
+  <circle cx="196" cy="186" r="1.8" fill="#818cf8" opacity=".55"/>
+  <!-- collar + down-swept grip -->
+  <path d="M122 288 L152 276 L162 296 L134 310 Z" fill="#1e1b4b" stroke="#818cf8" stroke-width="2.6"/>
+  <path d="M140 308 L128 356 L150 362 L164 302 Z" fill="#1e1b4b" stroke="#6366f1" stroke-width="2.4"/>
+  <path d="M138 322 L156 328 M134 338 L152 344" stroke="#818cf8" stroke-width="1.5" opacity=".85"/>
+  <circle cx="138" cy="368" r="7" fill="#1e1b4b" stroke="#f1df76" stroke-width="2"/>
 </svg>

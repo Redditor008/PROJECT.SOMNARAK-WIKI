@@ -19,6 +19,10 @@
 **Canonical ability:** Channels void mind sorrow in each strike — the weapon does not cut flesh so much as cut at the mind register of the target's grief.   <!-- SE-918 -->
 **Binding rule:** the bearer names Ninety Seconds's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Ninety Seconds's Edge is the weapon record of the Ninety Seconds set — δ-grade, Void- aligned, striking at 11–16 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels void mind sorrow: the blade cuts at the mind register of the target's grief, a minute and a half of thought that never resolved, looping at critical potency. Binding names Ninety Seconds's event — Not recorded, whatever happened held inside a span too short for testimony — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is emotional numbness toward the Void element with each use, feeling switched off for exactly as long as it takes. The source-trace fixed doctrine: the time-manifestation gave no transcribable field response, and the Edge marks the hazard only after attribution to Ninety Seconds. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

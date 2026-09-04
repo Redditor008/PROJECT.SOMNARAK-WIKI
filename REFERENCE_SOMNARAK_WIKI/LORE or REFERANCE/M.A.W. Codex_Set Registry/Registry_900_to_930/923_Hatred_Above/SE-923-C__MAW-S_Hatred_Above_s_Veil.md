@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Grudge damage, protecting against the grudge register of sorrow.   <!-- SE-923 -->
 **Binding rule:** the bearer names Hatred Above's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Hatred Above's Veil is the suit record of the Hatred Above set — δ-grade, Grudge- aligned, resistant to Grudge at 0.3 while running weak to Void at 1.2 and enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Grudge damage, protection against a resentment that presses down from overhead rather than facing its target. Binding names Hatred Above's event — Not recorded, the hostility older than any of its explanations — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is somatic: the wearer holds every slight in their body, reflexes stiffening, anger arriving before thought, shoulders braced against a sky that disapproves. The source-trace fixed doctrine: the hazard recognizes patience, its grudge pressure settling gradually under sustained presence, and the Veil redirects the hazard only after attribution to Hatred Above. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

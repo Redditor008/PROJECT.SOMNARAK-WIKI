@@ -19,6 +19,10 @@
 **Canonical ability:** Channels lament tale sorrow in each strike — the weapon does not cut flesh so much as cut at the tale register of the target's grief.   <!-- SE-900 -->
 **Binding rule:** the bearer names Vellum Man's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Vellum Man's Edge is the weapon record of the Vellum Man set — α-grade, Lament- aligned, striking at 8–19 Lament in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels lament tale sorrow: the blade does not cut flesh so much as the tale register of the target's grief, the story a body tells about its loss. Binding names Vellum Man's event — the registry files it as Not recorded, a blank page held inside a subject made of pages — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is emotional numbness toward the Lament element itself, each strike thinning the wielder's feeling for the very register the Edge cuts. The source-trace fixed doctrine with a rare weapon response: Vellum Man stands its ground and meets force with equal force, and the Edge isolates the hazard only after attribution to Vellum Man. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

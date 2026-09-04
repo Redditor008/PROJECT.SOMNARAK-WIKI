@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting against the lament register of sorrow.   <!-- SE-912 -->
 **Binding rule:** the bearer names Eleven Fifty-Nine's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Eleven Fifty-Nine's Veil is the suit record of the Eleven Fifty-Nine set — γ-grade, Lament-aligned, resistant to Lament at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Lament damage, protection against the sorrow of a minute that will not end. Binding names Eleven Fifty-Nine's event — Not recorded, the waiting preserved without whatever was waited for — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost follows the wearer out of the field: Eleven Fifty-Nine's grief rides into every quiet moment, and small joys feel distant until the suit is removed, each evening pausing at its own 11:59. The source-trace fixed doctrine: the manifestation recognizes patience, its lament pressure settling gradually under sustained presence, and the Veil interrupts the hazard only after attribution to Eleven Fifty-Nine. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

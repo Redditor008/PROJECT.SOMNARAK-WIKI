@@ -1,32 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE WILLOW REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg35f67c" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw140" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl35f67c" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl140" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1e40af"/>
+      <stop offset="1" stop-color="#93c5fd"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg35f67c)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw140)" stroke="#3b82f6" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="108" fill="url(#gl35f67c)"/>
-  <g transform="rotate(-3 200.0 192.0)">
-<path d="M186.0 192.0 L194.12 78.96000000000001 L200.0 35.0 L205.88 88.38 L214.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 35.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="193.0" y="100.9" width="14.0" height="65.9" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="176.0" y="187.0" width="48.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="35.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="243.0" r="8.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(6 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(6 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-140-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#3b82f6" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#3b82f6" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <path d="M312 350 L286 274" stroke="#12233d" stroke-width="12" stroke-linecap="round"/>
+  <path d="M304 336 L316 332 M298 318 L310 314 M292 300 L304 296" stroke="#3b82f6" stroke-width="2.2"/>
+  <path d="M318 358 a7 7 0 1 0 .1 0" fill="#0a1626" stroke="#93c5fd" stroke-width="2.4"/>
+  <path d="M268 262 C 258 246, 262 230, 278 224 C 294 218, 308 226, 312 242 C 300 254, 284 262, 268 262 Z" fill="#12233d" stroke="#60a5fa" stroke-width="2.6"/>
+  <path d="M272 256 C 282 244, 294 236, 306 232 M282 252 L288 242 M292 246 L298 236" fill="none" stroke="#7dd3fc" stroke-width="1.4"/>
+  <path d="M276 232 C 220 160, 150 122, 76 118 C 60 118, 48 122, 42 130 C 52 142, 68 148, 86 150 C 152 158, 214 196, 258 252 Z"
+        fill="url(#bl140)" stroke="#3b82f6" stroke-width="2.8"/>
+  <path d="M258 240 C 226 196, 186 164, 140 146 L132 156 C 176 172, 212 200, 242 240" fill="none" stroke="#1e3a5f" stroke-width="1.8"/>
+  <path d="M232 216 C 204 186, 170 162, 130 148 L124 158 C 160 170, 192 192, 218 222" fill="none" stroke="#1e3a5f" stroke-width="1.4" opacity=".85"/>
+  <path d="M120 140 L108 152 M150 148 L140 162 M182 162 L172 176 M212 184 L202 198 M240 212 L230 226" stroke="#60a5fa" stroke-width="1.6"/>
+  <path d="M118 138 L112 145 M148 146 L142 153 M180 160 L174 167 M210 182 L204 189" stroke="#e0f2fe" stroke-width="1.2"/>
+  <path d="M254 250 C 210 196, 150 160, 88 152" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".9"/>
+  <circle cx="104" cy="156" r="2.6" fill="#93c5fd"/><circle cx="150" cy="170" r="2.4" fill="#7dd3fc"/><circle cx="196" cy="192" r="2.6" fill="#93c5fd"/>
+  <path d="M104 162 C 102 176, 104 190, 100 204 M150 176 C 148 190, 150 202, 146 216 M196 198 C 194 210, 196 222, 192 234"
+        fill="none" stroke="#60a5fa" stroke-width="1.4" stroke-dasharray="2 5" opacity=".8"/>
+  <path d="M98 210 C 94 216, 94 221, 98 224 C 102 221, 102 216, 98 210 Z M144 222 C 140 228, 140 233, 144 236 C 148 233, 148 228, 144 222 Z M190 240 C 186 246, 186 251, 190 254 C 194 251, 194 246, 190 240 Z" fill="#7dd3fc" opacity=".9"/>
+  <path d="M120 214 C 150 226, 180 244, 206 268" fill="none" stroke="#1e40af" stroke-width="1.4" opacity=".55"/>
 </svg>

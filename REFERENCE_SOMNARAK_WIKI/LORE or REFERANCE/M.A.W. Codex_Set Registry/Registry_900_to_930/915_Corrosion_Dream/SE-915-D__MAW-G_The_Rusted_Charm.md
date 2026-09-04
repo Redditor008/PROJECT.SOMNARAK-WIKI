@@ -19,6 +19,10 @@
 **Canonical ability:** Grants a minor boon tied to Corrosion Dream's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names Corrosion Dream's event—A bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion.—and accepts this limit: Do not promise reunion; name both the crossing and the loss
 
+## Appearance
+
+The Rusted Charm is the gift record of the Corrosion Dream set — head-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability grants a minor boon tied to Corrosion Dream's sorrow, the effect mirroring the entity's nature: a crossing attempted, never guaranteed. Binding names the source event — a bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion — and accepts the set's limit: do not promise reunion; name both the crossing and the loss. The cost is small and linguistic: the bearer occasionally forgets a word, sentences losing planks mid-span. The source-trace fixed doctrine: the Charm reveals the failed crossing and those left behind, the dream shown with its casualties, and it witnesses the hazard only after attribution to Corrosion Dream. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 4%  

@@ -29,6 +29,10 @@ A binder must name an external stimulus to remove and one internal memory they w
 | Binding cost | The user forgets why familiar habits once mattered |
 | Corrosion risk | High when aimed through the sleeper’s boundary |
 
+## Appearance
+
+The Somnalith Lens is a lens-ground disc of pale Han glass, almost colorless, with an edge visible only when it crosses a memory boundary — and it pulses in time with Somnalith’s slow breath, the weapon keeping the sleeper’s rhythm even at distance. Extraction was performed from a dream echo after the source remained undisturbed for a complete rest cycle. A binder must name an external stimulus to remove and one internal memory they will not pursue; rejection deletes the second statement before the weapon activates, taking the promise before it can be kept. In use, its Disturbance Excision cuts a sound, command, touch-impression, or emotional intrusion from the immediate dream boundary — it can strike an active hostile manifestation, but it cannot extract Somnalith’s underlying memory safely. The Lens requires one complete breath before reuse; rapid activation removes the user’s reason for wielding it and leaves the disc following the nearest emotional command. In its recorded case a wielder tried to cut the reflected scene instead of the researcher’s intrusion — the disc erased his memory of the safety order, an eye-shaped crack opened in the source, and only cutting the named external claim, “This grief is mine,” closed it before full waking.
+
 ## FUNCTION
 
 **Disturbance Excision:** cuts a sound, command, touch-impression, or emotional intrusion from the immediate dream boundary. It can inflict canonical Void damage on an active hostile manifestation. It cannot extract Somnalith’s underlying memory safely.

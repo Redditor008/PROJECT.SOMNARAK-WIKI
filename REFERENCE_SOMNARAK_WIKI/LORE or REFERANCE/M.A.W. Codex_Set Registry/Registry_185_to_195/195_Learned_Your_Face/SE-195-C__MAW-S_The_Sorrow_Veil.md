@@ -16,6 +16,10 @@
 
 The Veil formed after a companion sat through a mirror gaze without interpreting the reflected grief for the viewer. It binds to a named witness who can stop the exposure.
 
+## Appearance
+
+The Sorrow Veil is a suit of pale, half-reflective weave that formed after a companion sat through a mirror gaze without interpreting the reflected grief for the viewer. Worn, it reads as a thin silver-grey film over ordinary clothing, and from certain angles the fabric returns not the room’s light but a faint image of whoever stands beside the wearer — the companion thread made visible. The Veil resists Void reflection pressure near Learned Your Face while preserving that thread: the wearer can stand in the mirror’s field and remain a person accompanied rather than a person absorbed. The cost is a faint absence — the wearer feels slightly missing to themself for the duration of wear. It binds only to a named witness who can stop the exposure, and the fitting rule is absolute: the collar fades when the bearer refuses companionship, and a threadless Veil is sealed. It is maintained with a consented mirror witness and a debrief after every exposure. The witness unfastens it at the first loss-of-self sign; cutting the fabric leaves a grief reflection hanging where the wearer stood.
+
 ## PROTECTION STATISTICS
 
 | Lament | Grudge | Void | Weight |

@@ -16,6 +16,10 @@
 
 A cool blue Han-crystal Tail charm holding one moving salt pattern. Pall granted it after Haneulash wore the I-Relic, remained identifiable, and accepted external removal. Bestowal chance is 5%.
 
+## Appearance
+
+The Tear Charm is a cool blue tail-charm of Han crystal holding one moving salt pattern — a single grief’s signature, drifting slowly under the surface like sediment that never settles. Pall granted it after a worker wore the I-Relic, remained identifiable, and accepted external removal; it cannot be manufactured. Its function is ownership in a place built to dissolve it: the Charm preserves one personal grief marker within collective mourning — in its recorded case keeping a bearer’s grief for a lost plan distinct from the older tears in Pall, letting her share the field without claiming the historical mourners’ pain. The cost is nocturnal: the bearer weeps in sleep. A salt pattern that begins matching everyone nearby is the ownership blur; a bearer treating personal grief as more authentic than shared sorrow is building a grief hierarchy; and sleep-tears reproducing Pall’s prior wearers mark the dream weave — a second Pall forming in the bearer’s bed. Care requires naming the grief without comparing its size or importance; the Charm clears when the salt pattern remains distinct without becoming isolated. Emergency release wakes the bearer, identifies current grief, and moves them away from woven tear material before sleep resumes.
+
 ## FUNCTION & COST
 
 **Grade / Element:** β / Lament  

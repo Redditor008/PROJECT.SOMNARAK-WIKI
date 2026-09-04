@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Relic of a Thousand Owners's kind of pressure.  
 **Binding rule:** the bearer names Relic of a Thousand Owners's event—A relic passed from one exile to another until its history became a wandering figure.—and accepts this limit: Do not claim ownership; document its owners
 
+## Appearance
+
+The Flowing Shroud is the suit record of the Relic of a Thousand Owners’ set, granting resistance to Lament damage and protecting the Mind against the pressure of a history that has never been allowed to stop moving. Binding is testimonial: the wearer names the source event — a relic passed from one exile to another until its history became a wandering figure — and accepts the set’s limit: do not claim ownership; document its owners. The operational cost is numbness to minor joys, and continued use makes the sorrow feel autobiographical — the wanderer’s thousand-handed past settling over the wearer’s own. The source-trace set the doctrine: the suit tests whether the worker can hold history without possession — the discipline each of the relic’s thousand owners passed by letting go — and it interrupted the immediate hazard only after the team attributed it to the Relic. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

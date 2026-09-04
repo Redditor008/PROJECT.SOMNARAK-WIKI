@@ -1,32 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DREAM REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // THREAD -->
   <defs>
-    <radialGradient id="bg4d1e69" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw175" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl4d1e69" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl175" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#93c5fd"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg4d1e69)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw175)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="119" fill="url(#gl4d1e69)"/>
-  <g transform="rotate(-9 200.0 192.0)">
-<path d="M176.0 69.0 C224.0 51.0, 170.0 142.8, 226.0 167.4 C180.0 185.8, 226.0 212.0, 178.0 251.0" fill="none" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M216.0 147.7 C190.0 157.6, 218.0 182.2, 186.0 192.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".55"/>
-<circle cx="178.0" cy="251.0" r="5" fill="#3e8bd5" fill-opacity=".6"/>
-  </g>
-  <g transform="rotate(-6 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(-5 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <g transform="rotate(-14 162.0 118.0)" opacity=".9">
-    <path d="M155.3 118.0 Q162.0 111.3 168.7 118.0" fill="none" stroke="#e0f2fe" stroke-width="1.3" opacity=".42"/><path d="M157.4 121.4 Q162.0 116.3 166.6 121.4" fill="none" stroke="#e0f2fe" stroke-width="0.8" opacity=".32"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-175-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- tabular faden crystal blade -->
+  <path d="M118 314 L102 330 L116 344 L310 128 C 326 110, 330 88, 316 76 C 302 66, 282 72, 268 88 Z"
+        fill="url(#bl175)" stroke="#38bdf8" stroke-width="2.8"/>
+  <path d="M124 308 L306 106" stroke="#e0f2fe" stroke-width="1.6" opacity=".9"/>
+  <path d="M136 318 L300 138" stroke="#1e3a5f" stroke-width="1.8"/>
+  <!-- THE FADEN THREAD: single milky-white line running the full length inside the crystal -->
+  <path d="M126 314 C 160 280, 196 244, 232 206 C 258 178, 282 150, 302 120" fill="none" stroke="#ffffff" stroke-width="3" opacity=".95"/>
+  <path d="M126 314 C 160 280, 196 244, 232 206 C 258 178, 282 150, 302 120" fill="none" stroke="#e0f2fe" stroke-width="6" opacity=".25"/>
+  <!-- the repetitive-cracking texture of a faden line: tiny cross-cracks along it -->
+  <path d="M150 288 L158 294 M178 260 L186 266 M206 232 L214 238 M234 202 L242 208 M262 172 L270 178 M286 142 L294 148"
+        stroke="#bae6fd" stroke-width="1.4" opacity=".8"/>
+  <!-- gas-liquid inclusions beading on the thread -->
+  <circle cx="166" cy="272" r="2" fill="#ffffff" opacity=".9"/><circle cx="222" cy="216" r="2.2" fill="#ffffff" opacity=".9"/><circle cx="276" cy="156" r="2" fill="#ffffff" opacity=".9"/>
+  <!-- tabular facet shading -->
+  <path d="M148 282 L172 302 M196 230 L220 250 M248 176 L272 196" stroke="#3b5f88" stroke-width="1.2" opacity=".7"/>
+  <!-- oval doorway guard framing the thread -->
+  <ellipse cx="106" cy="324" rx="14" ry="24" transform="rotate(45 106 324)" fill="#0a1626" stroke="#93c5fd" stroke-width="3.2"/>
+  <ellipse cx="106" cy="324" rx="8" ry="17" transform="rotate(45 106 324)" fill="none" stroke="#60a5fa" stroke-width="1.6" opacity=".8"/>
+  <path d="M100 318 L112 330" stroke="#ffffff" stroke-width="1.8"/>
+  <!-- pale blue cord wrap + waking-anchor lantern charm -->
+  <path d="M92 340 L54 378" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
+  <path d="M88 344 L96 352 M80 352 L88 360 M72 360 L80 368 M64 368 L72 376" stroke="#93c5fd" stroke-width="2.6"/>
+  <path d="M50 384 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#fcd34d" stroke-width="2.2"/>
+  <path d="M124 342 C 128 348, 128 354, 124 358" fill="none" stroke="#fcd34d" stroke-width="1.6"/>
+  <rect x="118" y="358" width="13" height="16" rx="2" fill="#0a1626" stroke="#fcd34d" stroke-width="1.8"/>
+  <path d="M124 362 L124 370" stroke="#fcd34d" stroke-width="1.6"/>
+  <circle cx="124" cy="372" r="1.4" fill="#fcd34d"/>
 </svg>

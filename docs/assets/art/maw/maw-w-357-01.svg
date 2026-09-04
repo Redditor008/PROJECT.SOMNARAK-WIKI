@@ -1,25 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE ABSENT FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg7d09c6" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw357" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl7d09c6" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl357" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg7d09c6)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw357)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="124" fill="url(#gl7d09c6)"/>
-  <g transform="rotate(8 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 115.0, 228.0 52.0 234.0 52.0 C224.0 119.2, 220.0 144.4, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 127.6, 226.0 60.0 231.0 58.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="42.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="246.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-357-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- LOWER SOLID SECTION: from guard partway up -->
+  <path d="M136 306 L126 294 C 152 276, 176 254, 196 228 L 214 244 C 196 272, 168 294, 148 310 Z"
+        fill="url(#bl357)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M134 298 C 158 280, 180 260, 198 236" fill="none" stroke="#4c0d13" stroke-width="2"/>
+  <path d="M144 304 C 166 288, 188 268, 206 244" fill="none" stroke="#ffe4e6" stroke-width="1.8"/>
+  <!-- THE ABSENT SECTION: outline only, dashed — the record fails here -->
+  <path d="M196 228 C 214 204, 228 178, 240 152 L 258 164 C 246 192, 232 220, 214 244"
+        fill="none" stroke="#fca5a5" stroke-width="1.8" stroke-dasharray="5 6"/>
+  <path d="M204 216 L216 226 M216 196 L228 206 M228 176 L240 186" stroke="#7f1d1d" stroke-width="1.1" stroke-dasharray="2 5" opacity=".6"/>
+  <!-- honesty mark beside the gap: recorded absence, no replacement narrative -->
+  <rect x="242" y="196" width="26 " height="14" rx="2" transform="rotate(24 255 203)" fill="#0d0507" stroke="#f1df76" stroke-width="1.4"/>
+  <path d="M247 204 L263 210" stroke="#f1df76" stroke-width="1.1"/>
+  <path d="M268 190 L276 182 M272 196 L282 190" stroke="#7f1d1d" stroke-width="1.4" opacity=".7"/>
+  <!-- UPPER SOLID SECTION: tip returns, sharp and real -->
+  <path d="M240 152 C 252 128, 268 108, 290 94 C 300 88, 310 92, 312 102 C 314 112, 306 120, 296 126 C 280 136, 268 148, 258 164 Z"
+        fill="url(#bl357)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M244 148 C 256 126, 272 108, 292 96" fill="none" stroke="#4c0d13" stroke-width="2"/>
+  <path d="M254 158 C 264 140, 278 124, 296 112" fill="none" stroke="#ffe4e6" stroke-width="1.8"/>
+  <!-- severed false-explanation: a torn label cut away from the blade -->
+  <path d="M300 150 C 310 146, 320 146, 328 150" fill="none" stroke="#fda4af" stroke-width="1.4" stroke-dasharray="3 4"/>
+  <path d="M310 142 L320 156" stroke="#f1df76" stroke-width="2.2"/>
+  <rect x="322" y="156" width="28" height="15" rx="2" fill="none" stroke="#7f1d1d" stroke-width="1.6"/>
+  <path d="M327 163 L345 163" stroke="#7f1d1d" stroke-width="1.2"/>
+  <path d="M322 156 L336 148" stroke="#7f1d1d" stroke-width="1.3" stroke-dasharray="2 3"/>
+  <!-- guard + grip with ache-band -->
+  <path d="M112 310 L158 328" stroke="#4c0d13" stroke-width="9" stroke-linecap="round"/>
+  <path d="M130 330 L110 372" stroke="#4c0d13" stroke-width="11" stroke-linecap="round"/>
+  <path d="M128 338 L118 334 M124 350 L114 346 M120 362 L110 358" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M106 380 a6 6 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.2"/>
 </svg>

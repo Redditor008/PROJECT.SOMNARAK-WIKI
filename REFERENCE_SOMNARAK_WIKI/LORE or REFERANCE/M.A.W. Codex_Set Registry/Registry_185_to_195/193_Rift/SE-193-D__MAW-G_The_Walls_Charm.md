@@ -16,6 +16,10 @@
 
 Bestowed after a former boundary was crossed with both histories named. The Charm requires two route witnesses; it rejects unilateral readings.
 
+## Appearance
+
+The Wall’s Charm is a small black head-charm shaped like a short section of line — a boundary reduced to something that fits in a palm. It is bestowed only after a former boundary has been crossed with both histories named aloud, and it requires two route witnesses; it rejects every unilateral reading. Held over a district map or carried down a avoided street, the Charm identifies one invisible inherited barrier — not a physical obstacle but an old crossing custom, a habit of avoidance passed down until no one remembers choosing it. The bearer moves slower under its history, a drag in the legs that eases only when the barrier is addressed jointly. When a bearer wants simple blame, the Charm points at every line at once and gives nothing usable; the correct response is a joint visit, not a verdict of irrationality. It is maintained with both sides’ accounts and a shared follow-up recorded together. The witnesses cover it after each route action; breaking the Charm hardens an invisible barrier around the bearer themselves.
+
 ## GIFT STATISTICS
 
 **Slot:** Head · **Chance:** 4% · **Bonus:** +3 source-work. **Effect:** identifies one invisible inherited barrier. **Cost:** bearer moves slower under its history.

@@ -1,28 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DANCING FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg6314c6" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw099" cx="54%" cy="50%" r="62%">
+      <stop offset="0%" stop-color="#270c0c"/>
+      <stop offset="100%" stop-color="#0d0505"/>
     </radialGradient>
-    <radialGradient id="gl6314c6" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl099" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fecaca"/>
+      <stop offset="1" stop-color="#991b1b"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg6314c6)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw099)" stroke="#f87171" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="126" fill="url(#gl6314c6)"/>
-  <g transform="rotate(5 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 120.5, 234.0 62.0 240.0 62.0 C230.0 124.39999999999999, 220.0 147.8, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 132.2, 232.0 70.0 237.0 68.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="53.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="257.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <g transform="rotate(11 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-099-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0505" stroke="#f87171" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#f87171" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- the restraint being broken: a shackle and chain, split open, upper-left -->
+  <path d="M96 92 A 30 30 0 1 1 140 116" fill="none" stroke="#78716c" stroke-width="6"/>
+  <path d="M140 116 L152 130" stroke="#78716c" stroke-width="4" opacity=".7"/>
+  <ellipse cx="164" cy="146" rx="9" ry="6" fill="none" stroke="#78716c" stroke-width="2.6" transform="rotate(42 164 146)" opacity=".8"/>
+  <ellipse cx="180" cy="164" rx="9" ry="6" fill="none" stroke="#78716c" stroke-width="2.6" transform="rotate(48 180 164)" opacity=".55"/>
+  <!-- shatter sparks where the edge met the shackle -->
+  <path d="M128 100 L116 86 M142 104 L146 88 M134 118 L122 122" stroke="#fca5a5" stroke-width="2" opacity=".9"/>
+  <!-- DAO: short broad blade swinging through, one deliberate step -->
+  <path d="M132 118 C 176 148, 232 172, 296 184 L316 210 L292 206 C 222 196, 162 172, 116 138 Z" fill="url(#bl099)" stroke="#f87171" stroke-width="2.8"/>
+  <!-- notched spine, red line travelling the notches -->
+  <path d="M136 124 C 180 152, 234 174, 296 186" fill="none" stroke="#450a0a" stroke-width="3.6" opacity=".9"/>
+  <path d="M150 132 L146 140 M172 144 L168 152 M196 156 L192 164 M222 166 L218 174 M250 174 L246 182 M276 181 L272 189" stroke="#fee2e2" stroke-width="1.8" opacity=".95"/>
+  <!-- the safe endpoint it points to: a small lit doorway, right -->
+  <rect x="336" y="216" width="34" height="52" rx="3" fill="none" stroke="#78716c" stroke-width="2.2"/>
+  <path d="M344 224 L344 260 M362 224 L362 260" stroke="#78716c" stroke-width="1" opacity=".5"/>
+  <circle cx="357" cy="244" r="2" fill="#f1df76"/>
+  <path d="M316 210 L334 226" stroke="#f87171" stroke-width="1.4" stroke-dasharray="4 4" opacity=".8"/>
+  <!-- dance-step arc under the swing -->
+  <path d="M120 320 C 170 300, 240 296, 300 312" fill="none" stroke="#7f1d1d" stroke-width="2" stroke-dasharray="2 8" opacity=".8"/>
+  <path d="M150 314 L142 306 M212 300 L208 290 M272 306 L268 296" stroke="#7f1d1d" stroke-width="1.6" opacity=".6"/>
+  <!-- squared guard + grip sweeping down into the step -->
+  <path d="M112 132 L134 116 L118 96 L96 112 Z" fill="#450a0a" stroke="#f87171" stroke-width="2.4"/>
+  <path d="M100 110 L76 84 L60 98 L86 126 Z" fill="#450a0a" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M84 96 L96 108 M74 106 L86 118" stroke="#f87171" stroke-width="1.4" opacity=".85"/>
+  <!-- ring pommel worn smooth -->
+  <circle cx="54" cy="82" r="13" fill="none" stroke="#f87171" stroke-width="3.4"/>
+  <circle cx="54" cy="82" r="13" fill="none" stroke="#f1df76" stroke-width="1" opacity=".5"/>
 </svg>

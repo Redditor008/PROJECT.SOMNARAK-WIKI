@@ -19,6 +19,10 @@
 **Canonical ability:** Channels void phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.  
 **Binding rule:** the bearer names Glass Elsewhere's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Glass Elsewhere's Edge is the weapon record of the Glass Elsewhere set — β-grade, Void-aligned, striking at 11–19 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels void phantasmal sorrow: the blade does not cut flesh so much as the phantasmal register of the target's grief, the ache of a place seen through glass and never reached. Binding names Glass Elsewhere's event — Not recorded, the pane keeping its view but not its history — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a persistent low-grade headache with each use, pressure gathering behind the eyes that keep looking through. The source-trace fixed doctrine: the object gave no transcribable field response, and the Edge interrupts the hazard only after attribution to Glass Elsewhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

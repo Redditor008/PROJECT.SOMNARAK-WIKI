@@ -19,6 +19,10 @@
 **Canonical ability:** Converts suppressed desire into brief physical strength.  
 **Binding rule:** the bearer names Last Fruit's event—A child was forbidden the last fruit from a dying tree; the denied longing ignited into a figure.—and accepts this limit: Name the desire; do not promise to fulfill it
 
+## Appearance
+
+The Burning Seed is the gift record of Last Fruit’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is conversion: it turns suppressed desire into brief physical strength, the heat of wanting made briefly usable. Binding names Last Fruit’s event — a child was forbidden the last fruit from a dying tree, and the denied longing ignited into a figure — and accepts the set’s limit: name the desire; do not promise to fulfill it. The cost keeps the ledger honest: the wearer feels desire as heat whenever it is denied, refusals registering as temperature, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the desire beneath the anger — the wanting that rage conceals — and it interrupted the immediate hazard only after attribution to Last Fruit. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 5%  

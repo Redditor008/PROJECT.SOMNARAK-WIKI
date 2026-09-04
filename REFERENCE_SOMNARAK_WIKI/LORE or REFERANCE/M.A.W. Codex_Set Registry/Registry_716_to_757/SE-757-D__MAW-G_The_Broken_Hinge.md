@@ -9,6 +9,10 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+## Appearance
+
+The Broken Hinge is the gift of Door to No One’s set — tail-slot, granted unpredictably after successful work, bound by the set’s rule: acknowledge both sides without forcing the threshold to reunite them. Rejection reproduces the originating wound. Its defining event is its own bestowal, which sensed movement without promising anyone waited beyond: the Gift arrived as a hinge separated from its door, still feeling traffic through the frame it once served — motion reported without the consoling fiction of a person beyond. The item preserved the distinction between present choice and source grief by refusing to convert detection into expectation. The operational cost is the set’s signature: source emotion enters the bearer during use, the hinge’s phantom swing felt at the spine. Corrosion runs from attribution blurring, through compulsion becoming normal — every movement quietly assigned an arriving face — to a terminal failure that reenacts the original event through the operator. It is maintained by recording source, bearer, trigger, result, and unresolved uncertainty, with rest only after debrief. Emergency shutdown requires a named witness to restate the resolution while the bearer relinquishes it voluntarily — the set functions only as Threshold Without Reunion; no piece resolves the source alone.
+
 **Grade / Element:** β / Grudge  
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 Resilience

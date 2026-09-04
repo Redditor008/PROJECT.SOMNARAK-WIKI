@@ -19,6 +19,10 @@
 **Canonical ability:** Channels weight weight sorrow in each strike — the weapon does not cut flesh so much as cut at the weight register of the target's grief.   <!-- SE-925 -->
 **Binding rule:** the bearer names Sorrow Mass's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Sorrow Mass's Edge is the weapon record of the Sorrow Mass set — ω-grade, the only Catastrophic-potency source in this stretch of the registry, Weight-aligned, striking at 8–16 Weight in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels weight sorrow in its own register: the blade cuts at heaviness itself, grief accreted past the point of having a shape. Binding names Sorrow Mass's event — Not recorded, a Sovereign-coherence accumulation too large to trace to one loss — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a persistent low-grade headache with each use, the skull registering pressure the way deep floors register load. The source-trace fixed doctrine: the hazard gave no transcribable field response, and the Edge severs the hazard only after attribution to Sorrow Mass. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

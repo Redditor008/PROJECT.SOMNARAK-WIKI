@@ -1,32 +1,57 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE NAME LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FRAMED LENS -->
   <defs>
-    <radialGradient id="bg0ac866" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw215" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#14161c"/>
+      <stop offset="100%" stop-color="#08090c"/>
     </radialGradient>
-    <radialGradient id="gl0ac866" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl215" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#64748b"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg0ac866)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw215)" stroke="#cbd5e1" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="110" fill="url(#gl0ac866)"/>
-  <g transform="rotate(2 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="51.0" ry="64.0" fill="none" stroke="#3e8bd5" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="42.0" ry="52.0" fill="#3e8bd5" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="33.0" ry="42.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M232.8 143.0 L227.0 152.2" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M246.6 166.0 L238.4 170.8" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M251.0 194.2 L242.0 193.8" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M245.0 222.0 L237.1 216.4" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M230.0 243.8 L224.7 234.1" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="137.0" y="186.0" width="126.0" height="12" rx="5" fill="#3e8bd5" fill-opacity=".4"/>
-<rect x="194.0" y="256.0" width="12" height="31.0" rx="4" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-215-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#cbd5e1" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#cbd5e1" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- the small near-translucent disc at center -->
+  <circle cx="200" cy="170" r="58" fill="#101318" stroke="#e2e8f0" stroke-width="3"/>
+  <circle cx="200" cy="170" r="46" fill="#14161c" stroke="#94a3b8" stroke-width="1.6"/>
+  <!-- blank center; letters materializing around OPPOSITE edges -->
+  <path d="M162 138 L168 132 M174 128 L182 124 M188 120 L196 118" stroke="#cbd5e1" stroke-width="2.4"/>
+  <path d="M204 222 L212 220 M218 216 L226 212 M232 206 L238 200" stroke="#cbd5e1" stroke-width="2.4"/>
+  <path d="M160 146 L156 152 M244 190 L246 184" stroke="#94a3b8" stroke-width="2"/>
+  <!-- the agreement line joining ONLY matched letters, straight across -->
+  <path d="M178 126 L228 210" stroke="#e2e8f0" stroke-width="2"/>
+  <circle cx="178" cy="126" r="3" fill="#e2e8f0"/><circle cx="228" cy="210" r="3" fill="#e2e8f0"/>
+  <!-- one visible mismatch: broken stub that connects to nothing -->
+  <path d="M192 119 L200 132" stroke="#64748b" stroke-width="1.6" stroke-dasharray="3 3"/>
+  <path d="M236 203 L228 192" stroke="#64748b" stroke-width="1.6" stroke-dasharray="3 3"/>
+  <!-- character-by-character flicker: partial glyph boxes on the glass -->
+  <rect x="186" y="152" width="10" height="12" fill="none" stroke="#475061" stroke-width="1.2"/>
+  <rect x="200" y="152" width="10" height="12" fill="none" stroke="#475061" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <rect x="214" y="152" width="10" height="12" fill="none" stroke="#333a47" stroke-width="1.1" stroke-dasharray="1 3"/>
+  <path d="M189 160 L193 156 M203 162 L207 156" stroke="#94a3b8" stroke-width="1.3"/>
+  <!-- warm spot where a living person answers -->
+  <circle cx="182" cy="192" r="7" fill="#fcd34d" opacity=".25"/>
+  <circle cx="182" cy="192" r="3" fill="#fcd34d" opacity=".6"/>
+  <!-- THE TWO-HANDED WIRE FRAME: bent wire yoke wrapping the disc, two grips -->
+  <path d="M148 136 C 128 152, 120 176, 128 200 C 134 218, 148 230, 166 234" fill="none" stroke="#cbd5e1" stroke-width="3.4"/>
+  <path d="M252 136 C 272 152, 280 176, 272 200 C 266 218, 252 230, 234 234" fill="none" stroke="#cbd5e1" stroke-width="3.4"/>
+  <path d="M148 136 C 160 122, 180 114, 200 114 C 220 114, 240 122, 252 136" fill="none" stroke="#94a3b8" stroke-width="2.4"/>
+  <!-- wire binding twists where frame meets rim -->
+  <path d="M150 140 L158 148 M154 136 L162 144 M250 140 L242 148 M246 136 L238 144" stroke="#94a3b8" stroke-width="1.6"/>
+  <!-- left grip: wire-wound handle angling down-left -->
+  <path d="M162 232 L120 300" stroke="#1a1d24" stroke-width="11" stroke-linecap="round"/>
+  <path d="M156 244 L166 250 M148 258 L158 264 M140 272 L150 278 M132 286 L142 292" stroke="#94a3b8" stroke-width="2.2"/>
+  <path d="M114 308 a7 7 0 1 0 .1 0" fill="#14161c" stroke="#e2e8f0" stroke-width="2.2"/>
+  <!-- right grip: mirrored -->
+  <path d="M238 232 L280 300" stroke="#1a1d24" stroke-width="11" stroke-linecap="round"/>
+  <path d="M244 244 L234 250 M252 258 L242 264 M260 272 L250 278 M268 286 L258 292" stroke="#94a3b8" stroke-width="2.2"/>
+  <path d="M286 308 a7 7 0 1 0 .1 0" fill="#14161c" stroke="#e2e8f0" stroke-width="2.2"/>
+  <!-- witness cards hung from each grip -->
+  <rect x="88" y="316" width="26" height="18" rx="2" fill="none" stroke="#cbd5e1" stroke-width="1.6"/>
+  <path d="M94 324 L108 324 M94 329 L104 329" stroke="#64748b" stroke-width="1.3"/>
+  <rect x="286" y="316" width="26" height="18" rx="2" fill="none" stroke="#cbd5e1" stroke-width="1.6"/>
+  <path d="M292 324 L306 324 M292 329 L302 329" stroke="#64748b" stroke-width="1.3"/>
 </svg>

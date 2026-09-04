@@ -20,6 +20,10 @@ Binding requires the wielder to name a beginning they will defend while leaving 
 
 Durivel used it to protect a newly established Desolate water-marker from a husk surge. One precise strike stopped the present threat; he refused a second when the blade began showing the settlement that might someday grow around the marker.
 
+## Appearance
+
+The Seedless Requiem is a short singing blade of faint blue Han-crystal whose central groove is seed-shaped — and empty. The emptiness is the point: the weapon guards beginnings, not outcomes, and the groove darkens the moment its bearer supplies a final form for the thing being protected. It forms from rain residue outside Unwitnessed’s marked boundary, and binding requires the wielder to name a beginning they will defend while leaving its outcome undescribed. In action it strikes one immediate threat to a fragile beginning — a husk surge against a new water-marker, a present danger to a first attempt — and it will not attack uncertainty, delay, or failure merely because the bearer fears them. The cost is anticipatory grief: the wielder feels Unwitnessed’s sorrow and weeps for futures the protected beginning may never reach. Attacking a possible outcome damages the beginning itself, and collecting phantom forms fills the blade with unusable husks; suppressed grief jams the groove outright. It is maintained washed with ordinary rain outside the no-plant ring, recording only what the protected beginning is now, and the groove clears when no future image remains in it. Shutdown lowers the edge and strikes every projected outcome from the mission order.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

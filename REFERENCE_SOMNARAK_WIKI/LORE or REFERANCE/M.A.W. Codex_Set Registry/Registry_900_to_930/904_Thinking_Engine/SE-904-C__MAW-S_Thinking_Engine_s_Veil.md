@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting against the mind register of sorrow.  
 **Binding rule:** the bearer names Thinking Engine's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Thinking Engine's Veil is the suit record of the Thinking Engine set — γ-grade, Lament-aligned, resistant to Lament at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Lament damage, protection against the mind register of sorrow the engine turns over and over. Binding names Thinking Engine's event — Not recorded, the calculation preserved without its first input — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost follows the wearer out of the field: Thinking Engine's grief rides into every quiet moment, and small joys feel distant until the suit is removed. The source-trace fixed doctrine: the object recognizes patience, its lament pressure settling gradually under sustained presence, and the Veil opens the hazard only after attribution to Thinking Engine. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

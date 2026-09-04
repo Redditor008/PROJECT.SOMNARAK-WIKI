@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Pandora's Jar's weight signature in the strike.  
 **Binding rule:** the bearer names Pandora's Jar's event—A treasured artifact disappeared during a Desolate expedition; records of it were later removed.—and accepts this limit: Bear the heat and name what was lost
 
+## Appearance
+
+The Relic Maul is the weapon record of the Pandora's Jar set — δ-grade, Weight- aligned, striking at 10–15 Weight at fast speed and medium range in a pierce pattern, two uses at 50 Sorrow Echoes each — and its canonical ability deals Weight damage against the Han, sorrow reserves and karmic debt, channeling the Jar's weight signature. Binding names the source event — a treasured artifact disappeared during a Desolate expedition, and the records of it were later removed — and accepts the set's limit: bear the heat and name what was lost. The cost accumulates: the wielder feels progressively heavier, and prolonged use ages them slightly. The source-trace fixed doctrine: pressed, the self-aware Jar burns with retaliatory fury, loss answering loss in kind, and the Maul opens the hazard only after attribution to Pandora's Jar. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
