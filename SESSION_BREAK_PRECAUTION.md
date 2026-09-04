@@ -90,7 +90,7 @@ Execute in order. Do not skip steps.
 ## 6. CURRENT WORK LEDGER (update this section whenever the queue changes)
 
 - **Workstream COMPLETE:** M.A.W. Appearance expansion via `tools/expand_maw_appearance.py` — all 20 batches shipped, 291 sets / 873 item pages carry 150–204-word source-led Appearance sections with md+html parity.
-- **Candidate next workstream (registry-parity round):** 92 legacy/1000-series sets have HTML pages but registry MDs without an `## Appearance` heading; of their ~276 pages, 126 HTML pages lack the Appearance section entirely and 9 are under 100 words (141 already fine). Verify scope with the owner before starting.
+- **Owner scope ruling (2026-09-04):** the 92 sets outside the 291-set queue are CLOSED, not pending. (a) **Legacy sets** (001–215 registry blocks) — cleared from the queue by owner instruction; no further Appearance work. (b) **1000-series sets** (1001–1043) — these belong to the **Unknown Entity Package**, which was not finished at the time the M.A.W. Registry was created (their A-codices still carry placeholder SECC designations such as `C-Iα-000`); DEFERRED until the owner finishes that package. Do not draft Appearance content for either group unless the owner reopens them.
 - **Deferred by owner decision:** tabs UI (later), gallery (later), references (never).
 - **Other open item:** stale root `README.md` refresh.
 
