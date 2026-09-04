@@ -1,26 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BORDER ROOT">
   <defs>
-    <radialGradient id="bw151" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw151" cx="46%" cy="50%" r="64%">
+      <stop offset="0%" stop-color="#230b0a"/>
+      <stop offset="100%" stop-color="#0c0404"/>
     </radialGradient>
-    <radialGradient id="gw151" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#b91c1c" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="cl151" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b91c1c"/>
+      <stop offset="1" stop-color="#450a0a"/>
+    </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw151)" stroke="#b91c1c" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw151)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#b91c1c" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0404" stroke="#b91c1c" stroke-width="1.2"/>
   <text x="30" y="36" fill="#b91c1c" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- ROOT CUDGEL: broad flanged club head, living root strand coiling the handle -->
-  <path d="M176 60 C 160 84, 156 122, 168 152 L232 152 C 244 122, 240 84, 224 60 C 208 50, 192 50, 176 60 Z" fill="#7f1d1d" fill-opacity=".5" stroke="#b91c1c" stroke-width="2.8"/>
-  <path d="M186 64 C 176 88, 174 120, 182 146 M214 64 C 224 88, 226 120, 218 146 M200 56 L200 150" stroke="#fca5a5" stroke-width="1.3" opacity=".6" fill="none"/>
-  <path d="M168 152 L232 152 L226 168 L174 168 Z" fill="#290a0a" stroke="#b91c1c" stroke-width="2.4"/>
-  <rect x="190" y="168" width="20" height="140" rx="7" fill="#290a0a" stroke="#b91c1c" stroke-width="2.4"/>
-  <path d="M188 176 C 216 184, 184 200, 212 208 C 184 216, 216 232, 188 240 C 216 248, 184 264, 212 272 C 190 280, 212 292, 192 300" fill="none" stroke="#4ade80" stroke-width="2.6" opacity=".85"/>
-  <path d="M212 208 L222 204 M188 240 L178 236 M212 272 L222 276" stroke="#4ade80" stroke-width="1.8" opacity=".7"/>
-  <path d="M186 308 L214 308 L210 328 L190 328 Z" fill="#290a0a" stroke="#f1df76" stroke-width="2"/>
+  <!-- ground line -->
+  <path d="M40 276 L360 276" stroke="#3f1d1d" stroke-width="2.6"/>
+  <!-- THE CLUB planted at the boundary, short and broad, dull crimson darkening under load -->
+  <path d="M186 84 C 170 96, 162 122, 168 150 L232 150 C 238 122, 230 96, 214 84 C 204 76, 196 76, 186 84 Z" fill="url(#cl151)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M180 100 C 174 118, 174 134, 178 146 M220 100 C 226 118, 226 134, 222 146" fill="none" stroke="#7f1d1d" stroke-width="1.6" opacity=".8"/>
+  <!-- grip wrapped OVER the living root strand -->
+  <rect x="189" y="150" width="22" height="94" rx="7" fill="#2b0808" stroke="#b91c1c" stroke-width="2.4"/>
+  <!-- the root strand: alive, coiling down the handle and INTO the ground -->
+  <path d="M187 156 C 216 166, 184 182, 213 192 C 184 202, 216 218, 187 228 C 204 236, 204 244, 196 252 C 190 262, 194 270, 200 276"
+        fill="none" stroke="#4ade80" stroke-width="2.8" opacity=".9"/>
+  <path d="M213 192 L224 188 M187 228 L176 224" stroke="#4ade80" stroke-width="1.8" opacity=".7"/>
+  <!-- THE RED ROOT LINE rising along the selected boundary -->
+  <path d="M200 276 C 160 272, 120 274, 76 278 M200 276 C 244 272, 288 274, 330 278" fill="none" stroke="#ef4444" stroke-width="2.6"/>
+  <!-- root fence tines rising: hostile side barred -->
+  <path d="M92 276 C 90 262, 96 252, 92 240 M124 276 C 126 260, 120 252, 124 240 M156 276 C 154 262, 160 254, 156 244" fill="none" stroke="#ef4444" stroke-width="2.4"/>
+  <path d="M92 240 L86 232 M124 240 L130 232 M156 244 L152 234" stroke="#ef4444" stroke-width="2"/>
+  <path d="M108 276 C 108 266, 112 260, 110 252 M140 276 C 140 268, 136 262, 138 254" fill="none" stroke="#7f1d1d" stroke-width="1.8" opacity=".8"/>
+  <!-- THE NEGOTIATED PASSAGE: an open arch left in the fence, right side -->
+  <path d="M252 276 C 252 250, 262 238, 276 238 C 290 238, 300 250, 300 276" fill="none" stroke="#4ade80" stroke-width="2.6"/>
+  <path d="M276 232 L276 224" stroke="#4ade80" stroke-width="1.8"/>
+  <!-- non-hostile traveller passing through the arch -->
+  <circle cx="276" cy="256" r="6" fill="none" stroke="#d6d3d1" stroke-width="1.8"/>
+  <path d="M276 262 L276 274 M276 266 L270 271 M276 266 L282 271" stroke="#d6d3d1" stroke-width="1.8"/>
+  <!-- hostile pressure stopped at the fence, left -->
+  <path d="M54 236 L84 250" stroke="#7f1d1d" stroke-width="2.6"/>
+  <path d="M84 250 L74 242 M84 250 L72 254" stroke="#7f1d1d" stroke-width="2"/>
+  <!-- root tines continuing past the arch -->
+  <path d="M322 276 C 320 264, 326 256, 322 246" fill="none" stroke="#ef4444" stroke-width="2.2"/>
+  <circle cx="200" cy="252" r="3" fill="#f1df76"/>
 </svg>

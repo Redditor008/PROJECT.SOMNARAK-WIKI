@@ -1,27 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE THORN FANG">
   <defs>
-    <radialGradient id="bw145" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw145" cx="50%" cy="54%" r="64%">
+      <stop offset="0%" stop-color="#250b0b"/>
+      <stop offset="100%" stop-color="#0c0404"/>
     </radialGradient>
-    <radialGradient id="gw145" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#dc2626" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl145" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fca5a5"/>
+      <stop offset="1" stop-color="#7f1d1d"/>
+    </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw145)" stroke="#dc2626" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw145)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#dc2626" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0404" stroke="#dc2626" stroke-width="1.2"/>
   <text x="30" y="36" fill="#dc2626" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- THORN SICKLE: inward-hooking blade with thorn spikes along the outer ridge -->
-  <path d="M148 84 C 210 74, 258 108, 268 168 C 272 196, 262 218, 242 228 L232 210 C 246 200, 252 184, 248 164 C 240 122, 204 98, 158 104 Z" fill="#7f1d1d" fill-opacity=".5" stroke="#dc2626" stroke-width="2.8"/>
-  <path d="M166 96 C 210 92, 244 116, 252 156" fill="none" stroke="#fca5a5" stroke-width="1.3" opacity=".75"/>
-  <path d="M186 84 L192 68 L202 84 M226 94 L238 82 L242 100 M256 122 L272 116 L268 134 M268 158 L286 158 L276 172" fill="#dc2626" stroke="#dc2626" stroke-width="1.2"/>
-  <path d="M150 86 L136 78 L142 96 Z" fill="#dc2626"/>
-  <path d="M232 226 L252 238 L244 268 L222 258 Z" fill="#290a0a" stroke="#dc2626" stroke-width="2.4"/>
-  <path d="M232 262 L218 324 L238 330 L250 270 Z" fill="#290a0a" stroke="#dc2626" stroke-width="2.2"/>
-  <path d="M228 282 L244 288 M224 300 L240 306" stroke="#dc2626" stroke-width="1.4" opacity=".85"/>
-  <circle cx="226" cy="342" r="8" fill="#290a0a" stroke="#f1df76" stroke-width="2"/>
+  <!-- THE UNFURLED THORN PERIMETER: red defensive ring around the protected centre -->
+  <path d="M118 258 A 92 74 0 1 1 282 258" fill="none" stroke="#ef4444" stroke-width="3"/>
+  <!-- thorns along the perimeter -->
+  <path d="M112 226 L98 220 M124 196 L112 184 M148 172 L140 158 M182 158 L178 142 M220 158 L226 142 M254 174 L264 162 M276 200 L290 190 M286 232 L302 228" stroke="#ef4444" stroke-width="2.4"/>
+  <!-- THE MARKED ENTRANCE: a deliberate gap with gate posts -->
+  <path d="M118 258 L118 282 M282 258 L282 282" stroke="#fca5a5" stroke-width="3"/>
+  <circle cx="118" cy="290" r="4" fill="#fca5a5"/>
+  <circle cx="282" cy="290" r="4" fill="#fca5a5"/>
+  <!-- the safe person entering through the gap, unharmed -->
+  <circle cx="200" cy="316" r="8" fill="none" stroke="#d6d3d1" stroke-width="2.2"/>
+  <path d="M200 324 L200 344 M200 330 L190 338 M200 330 L210 338" stroke="#d6d3d1" stroke-width="2.2"/>
+  <path d="M200 300 L200 282" stroke="#d6d3d1" stroke-width="1.6" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- WHAT IS PROTECTED at the centre: a small named marker -->
+  <rect x="186" y="196" width="28" height="20" rx="3" fill="#1c0808" stroke="#fecaca" stroke-width="2"/>
+  <path d="M192 206 L208 206" stroke="#fecaca" stroke-width="1.6"/>
+  <!-- THE THORN FANG planted at the perimeter's crown, curving inward like a thorn -->
+  <g transform="rotate(8 200 120)">
+    <path d="M196 176 C 168 156, 154 128, 158 96 C 160 80, 168 68, 182 62 L190 76 C 180 82, 174 92, 174 106 C 172 130, 182 150, 206 164 Z"
+          fill="url(#bl145)" stroke="#ef4444" stroke-width="2.8"/>
+    <!-- thorned ridge along the back -->
+    <path d="M162 84 L150 78 M158 106 L144 104 M162 128 L148 132 M172 148 L162 158" stroke="#ef4444" stroke-width="2.2"/>
+    <!-- warm sap-like Han line at the edge -->
+    <path d="M188 74 C 180 82, 176 94, 177 108 C 178 128, 188 146, 204 158" fill="none" stroke="#fb923c" stroke-width="1.6" opacity=".85"/>
+    <!-- dark crimson cord grip -->
+    <path d="M200 168 L222 184 L212 200 L192 186 Z" fill="#450a0a" stroke="#dc2626" stroke-width="2.4"/>
+    <path d="M202 180 L214 188" stroke="#ef4444" stroke-width="1.4" opacity=".85"/>
+    <circle cx="222" cy="202" r="6" fill="#450a0a" stroke="#f1df76" stroke-width="2"/>
+  </g>
+  <!-- the hostile force held OUTSIDE: pressure arrows stopped at the ring -->
+  <path d="M62 180 L102 202 M58 240 L96 248" stroke="#7f1d1d" stroke-width="2.6"/>
+  <path d="M102 202 L92 192 M102 202 L90 208 M96 248 L86 240 M96 248 L84 252" stroke="#7f1d1d" stroke-width="2"/>
+  <path d="M338 182 L296 204 M344 244 L302 250" stroke="#7f1d1d" stroke-width="2.6"/>
+  <path d="M296 204 L308 194 M296 204 L310 210 M302 250 L314 242 M302 250 L316 254" stroke="#7f1d1d" stroke-width="2"/>
 </svg>

@@ -308,6 +308,25 @@ W-100…126 redrawn as varied forms, each staged from its own record:
 
 Gates PASS. Batch 5 (W-127…159) still in rejected style; next redo round after owner review — apply the same variety + range-stat rule.
 
+## 15e. Batch 5 REDONE (2026-09-05, after owner approved batch 4 + variety rule)
+
+Ranges from records: W-135/150/152/155/156 = `2 — Short`; W-127/130/140/145/151/157/159 = `3 — Medium`. Note: five items in this batch are canonically NAMED "Maul" and W-151 is named a club by its own record, so their weapon KIND is fixed by canon — variety was achieved by giving every maul a completely different head, pose, and scene, and by pushing the non-maul items into non-sword forms where the record allows.
+
+- W-127 Broken Maul — FRACTURE-FACE MAUL: head face to viewer with mirrored cracks reflecting two angles of the bearer's face; multiple black impact paths converge on one chosen endpoint ring (Medium).
+- W-130 Saint's Maul — RELIQUARY STONE MAUL: cracked stone orb held high, black pressure lines splitting the named load onto THREE prepared support points; wide case key at the haft base (Medium).
+- W-135 Warm Requiem — TEAR-LIGHT BLADE: warm tear-shaped light drifting inside the crystal, dream-line running to a lantern waking-anchor with the wake-cue tag; fading dream spiral being cut (Short).
+- W-140 Willow Requiem — WEEPING WILLOW BLADE: the blade droops in a willow arc, shedding slow-falling leaf-light motes; leaf-shaped guard; hum arcs under the bow (Medium).
+- W-145 Thorn Fang — THORN HOOK + PERIMETER: inward-curving thorn planted at the crown of its unfurled red thorn ring, marked entrance gap with a safe person entering; hostile arrows stopped outside (Medium).
+- W-150 Laughter Requiem — CHIME BLADE: shimmer band fading toward the gripped end, chime hollow releasing a laugh-note that falls as a tear; the one-joy/one-loss pair held together by a cord (Short).
+- W-151 Border Root — ROOT CLUB + BOUNDARY FENCE: living green root strand coiling the grip into the ground, raising a red root fence with the negotiated open arch and a traveller passing through (Medium).
+- W-152 Wandering Requiem — DOOR-GRAIN BLADE: charred door-grain under the glass; the blade separates a repeating ghost-door loop from the real lit door, threshold line pointing home (Short).
+- W-155 Shadow Maul — WRONG-SHADOW MALLET: compact mallet in a lamp-lit room casting its shadow TOWARD the lamp, the shadow darkening as it reaches the hovering Weight block; chalk balance/uncertainty marks (Short).
+- W-156 Deadline Maul — CLOCK-FACE MAUL: cracked clock face with off-time hands, weight line running to the framed action field with its green check; case card with due date/action/protected rest (Short).
+- W-157 Sleeping Maul — EXHALE MAUL: head held horizontal, black weight line falling like a slow exhale onto the hatched fatigue field; rest/watch/wake-bell rotation drawn below (Medium).
+- W-159 Frozen Fang — FROST-FRACTURE FANG: frost fractures opening along the sharp red line, the visible breath escaping the pressure knot at the tip; relief person's raised stop-hand; cold exhale under the guard (Medium).
+
+Gates PASS (SVG, structure, word floor). No Appearance text changes needed: all 12 illustrations depict exactly the forms the records describe (mauls stay mauls, blades stay blades, club stays a club) — parity intact from the batch-appearance install.
+
 **Text-parity follow-up (owner check, 2026-09-04):** when a redo CHANGES an item's physical form, the `### Appearance` text in the `.md` record AND the `.html` page must be updated to describe the new form (physical-form sentences only; abilities, limits, rituals kept verbatim). Applied to the four batch-4 items whose kind changed: W-100 (narrow blade → bladed war fan with script-lined ribs), W-102 (broad blade → rope dart on woven cord + open link), W-108 (narrow blade → tracing needle/awl with eye + red thread), W-120 (broad blade → hinged trap-jaw cage held open). W-101/103/105/106/115/119/125/126 already matched their art (scene/staging changed, form did not). md↔html parity re-verified 12/12; word counts 167–205; word-floor, structure, and SVG gates PASS. **This parity rule applies to every future redo batch.**
 
 ## 16. Next weapon batch

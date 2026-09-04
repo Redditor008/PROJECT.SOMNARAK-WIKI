@@ -1,27 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SAINT'S MAUL">
   <defs>
-    <radialGradient id="bw130" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw130" cx="50%" cy="34%" r="66%">
+      <stop offset="0%" stop-color="#231a09"/>
+      <stop offset="100%" stop-color="#0c0803"/>
     </radialGradient>
-    <radialGradient id="gw130" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#d97706" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    <radialGradient id="hd130" cx="44%" cy="38%" r="66%">
+      <stop offset="0%" stop-color="#57534e"/>
+      <stop offset="100%" stop-color="#171412"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw130)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw130)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#d97706" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0803" stroke="#d97706" stroke-width="1.2"/>
   <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- STONE ORB MAUL: cracked stone sphere head banded to a straight haft -->
-  <circle cx="200" cy="118" r="64" fill="#241c07" stroke="#d97706" stroke-width="3.2"/>
-  <path d="M162 86 L184 104 L178 126 M240 78 L226 102 L242 120 M198 160 L208 138 L194 122 M156 138 L176 132" fill="none" stroke="#fcd34d" stroke-width="1.6" opacity=".8"/>
-  <path d="M148 100 C 160 82, 182 70, 204 70" fill="none" stroke="#fcd34d" stroke-width="1" opacity=".4"/>
-  <rect x="172" y="176" width="56" height="14" rx="4" fill="#1c1917" stroke="#d97706" stroke-width="2.2"/>
-  <rect x="193" y="190" width="14" height="132" rx="5" fill="#1c1917" stroke="#d97706" stroke-width="2.6"/>
-  <path d="M193 212 L207 212 M193 236 L207 236 M193 260 L207 260 M193 284 L207 284" stroke="#d97706" stroke-width="1.6" opacity=".75"/>
-  <rect x="190" y="236" width="20" height="22" rx="4" fill="none" stroke="#fcd34d" stroke-width="1.6"/>
-  <path d="M188 322 L212 322 L208 342 L192 342 Z" fill="#1c1917" stroke="#f1df76" stroke-width="2"/>
+  <!-- rounded stone head, held high like a saint's reliquary -->
+  <circle cx="200" cy="108" r="54" fill="url(#hd130)" stroke="#d97706" stroke-width="3.2"/>
+  <!-- fine stone cracks, mid-dissolve: some solid, some fading -->
+  <path d="M172 82 L188 100 L180 118 M232 78 L220 100 L234 116 M200 160 L206 138 L194 126" fill="none" stroke="#fde68a" stroke-width="1.6" opacity=".9"/>
+  <path d="M164 122 L180 130 M226 132 L240 126" fill="none" stroke="#fde68a" stroke-width="1.2" stroke-dasharray="3 4" opacity=".5"/>
+  <!-- warm band where the grip band sits -->
+  <path d="M158 130 A 54 54 0 0 0 242 130" fill="none" stroke="#fb923c" stroke-width="3" opacity=".6"/>
+  <!-- BLACK PRESSURE LINES: the named load split into THREE portions -->
+  <path d="M178 156 C 150 200, 128 244, 118 288" fill="none" stroke="#0c0a09" stroke-width="4.4"/>
+  <path d="M178 156 C 150 200, 128 244, 118 288" fill="none" stroke="#fbbf24" stroke-width="1.2" stroke-dasharray="6 6" opacity=".75"/>
+  <path d="M200 162 L200 288" stroke="#0c0a09" stroke-width="4.4"/>
+  <path d="M200 162 L200 288" stroke="#fbbf24" stroke-width="1.2" stroke-dasharray="6 6" opacity=".75"/>
+  <path d="M222 156 C 250 200, 272 244, 282 288" fill="none" stroke="#0c0a09" stroke-width="4.4"/>
+  <path d="M222 156 C 250 200, 272 244, 282 288" fill="none" stroke="#fbbf24" stroke-width="1.2" stroke-dasharray="6 6" opacity=".75"/>
+  <!-- the three PREPARED SUPPORT POINTS -->
+  <path d="M100 306 L136 306 L118 288 Z" fill="#171412" stroke="#fde68a" stroke-width="2.2"/>
+  <path d="M182 306 L218 306 L200 288 Z" fill="#171412" stroke="#fde68a" stroke-width="2.2"/>
+  <path d="M264 306 L300 306 L282 288 Z" fill="#171412" stroke="#fde68a" stroke-width="2.2"/>
+  <path d="M84 306 L316 306" stroke="#44403c" stroke-width="2.4"/>
+  <!-- long wrapped haft descending behind the lines, WIDE CASE KEY at the base -->
+  <rect x="194" y="162" width="12" height="150" rx="4" fill="#161009" stroke="#d97706" stroke-width="2.2"/>
+  <path d="M194 190 L206 190 M194 216 L206 216 M194 242 L206 242 M194 268 L206 268" stroke="#d97706" stroke-width="1.4" opacity=".7"/>
+  <rect x="186" y="312" width="28" height="16" rx="3" fill="#161009" stroke="#f1df76" stroke-width="2"/>
+  <path d="M214 320 L236 320 M228 314 L228 326 M236 314 L236 326" stroke="#f1df76" stroke-width="2"/>
 </svg>

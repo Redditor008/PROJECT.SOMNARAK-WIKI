@@ -48,7 +48,7 @@ Additional maul-family variants introduced by later batches (still one silhouett
 Additional short-blade variants: Tear Dagger, Tear Stiletto, Notched Dao. Additional rapier-family variants: Estoc (thicker, guardless thruster).
 Additional sword-family variants: Squared Warbrand, Cruciform Longsword, Falchion. Additional lens-family variants: Caliper Lens, Lens Pistol, Sceptre Lens.
 Batch-4 additions (REDONE 2026-09-04 per owner variety ruling — non-blade/blunt forms, bands taken from each record's `Speed / range` stat): War Fan, Sheathed Vigil Blade, Rope Dart, Frost Lens, Set-Down Maul, Bridge Blade, Needle Awl + Red Thread, Mirror Lens, Well Lens, Trap-Jaw Cage, Thrown Shutter Disc, Glass Melt Blade.
-Batch-5 additions: Split-Head Maul, Stone Orb Maul, Kris Wave Blade, Willow-Leaf Saber, Thorn Sickle, Main-Gauche, Root Cudgel, Cane Sword, Wedge Maul, Clock Maul, Bell Maul, Shard Fang.
+Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items are canonically NAMED Mauls, so their kind is fixed by canon — variety achieved by giving each maul a wholly different head, pose, and scene): Fracture-Face Maul, Reliquary Stone Maul, Tear-Light Blade, Weeping Willow Blade, Thorn Hook + Perimeter, Chime Blade, Root Club + Boundary Fence, Door-Grain Blade, Wrong-Shadow Mallet, Clock-Face Maul, Exhale Maul, Frost-Fracture Fang.
 
 ## Current W → archetype mapping (distinct silhouettes)
 
@@ -102,15 +102,15 @@ Batch-5 additions: Split-Head Maul, Stone Orb Maul, Kris Wave Blade, Willow-Leaf
 | MAW-W-120 The Cage Fang | Trap-Jaw Cage (open barred jaws) | Medium (source: range 3 — Medium) |
 | MAW-W-125 The Returning Lens | Thrown Shutter Disc (return arc) | Medium (source: range 3 — Medium) |
 | MAW-W-126 The Melting Lens | Glass Melt Blade (dissolving edge) | Short (source: range 2 — Short) |
-| MAW-W-127 The Broken Maul | Split-Head Maul | Room |
-| MAW-W-130 The Saint's Maul | Stone Orb Maul | Room |
-| MAW-W-135 The Warm Requiem | Kris Wave Blade | Short |
-| MAW-W-140 The Willow Requiem | Willow-Leaf Saber | Medium |
-| MAW-W-145 The Thorn Fang | Thorn Sickle | Short |
-| MAW-W-150 The Laughter Requiem | Main-Gauche | Close |
-| MAW-W-151 The Border Root | Root Cudgel | Short |
-| MAW-W-152 The Wandering Requiem | Cane Sword | Medium |
-| MAW-W-155 The Shadow Maul | Wedge Maul | Room |
-| MAW-W-156 The Deadline Maul | Clock Maul | Room |
-| MAW-W-157 The Sleeping Maul | Bell Maul | Room |
-| MAW-W-159 The Frozen Fang | Shard Fang | Short |
+| MAW-W-127 The Broken Maul | Fracture-Face Maul (mirrored cracks, converging impact paths) | Medium (source: range 3 — Medium) |
+| MAW-W-130 The Saint's Maul | Reliquary Stone Maul (load split to three support points) | Medium (source: range 3 — Medium) |
+| MAW-W-135 The Warm Requiem | Tear-Light Blade (dream-line to waking anchor) | Short (source: range 2 — Short) |
+| MAW-W-140 The Willow Requiem | Weeping Willow Blade (drooping arc, falling leaf-light) | Medium (source: range 3 — Medium) |
+| MAW-W-145 The Thorn Fang | Thorn Hook + Perimeter (unfurled boundary ring, marked entrance) | Medium (source: range 3 — Medium) |
+| MAW-W-150 The Laughter Requiem | Chime Blade (laugh-to-tear chime, joy/loss pair) | Short (source: range 2 — Short) |
+| MAW-W-151 The Border Root | Root Club + Boundary Fence (living strand, open passage arch) | Medium (source: range 3 — Medium) |
+| MAW-W-152 The Wandering Requiem | Door-Grain Blade (threshold line to the real door) | Short (source: range 2 — Short) |
+| MAW-W-155 The Shadow Maul | Wrong-Shadow Mallet (shadow cast toward the lamp) | Short (source: range 2 — Short) |
+| MAW-W-156 The Deadline Maul | Clock-Face Maul (case card, weight line to action field) | Short (source: range 2 — Short) |
+| MAW-W-157 The Sleeping Maul | Exhale Maul (horizontal head, weight line onto fatigue field) | Medium (source: range 3 — Medium) |
+| MAW-W-159 The Frozen Fang | Frost-Fracture Fang (released breath, relief stop-hand) | Medium (source: range 3 — Medium) |

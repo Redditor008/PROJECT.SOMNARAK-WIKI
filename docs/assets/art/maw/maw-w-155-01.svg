@@ -1,27 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SHADOW MAUL">
   <defs>
-    <radialGradient id="bw155" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw155" cx="66%" cy="34%" r="64%">
+      <stop offset="0%" stop-color="#26200c"/>
+      <stop offset="100%" stop-color="#0c0a04"/>
     </radialGradient>
-    <radialGradient id="gw155" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#eab308" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="hd155" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3f3a30"/>
+      <stop offset="1" stop-color="#12100b"/>
+    </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw155)" stroke="#eab308" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw155)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#eab308" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0a04" stroke="#eab308" stroke-width="1.2"/>
   <text x="30" y="36" fill="#eab308" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- WEDGE MAUL: asymmetric wedge head; shadow falls the wrong way -->
-  <path d="M132 122 L262 82 L268 148 L136 158 Z" fill="#292009" stroke="#eab308" stroke-width="3"/>
-  <path d="M148 126 L252 94 M144 144 L256 134" stroke="#eab308" stroke-width="1.1" opacity=".5"/>
-  <path d="M262 82 L292 70 L296 96 L268 104 Z" fill="#0c0a03" stroke="#eab308" stroke-width="2.2"/>
-  <path d="M136 158 L96 128 L92 108 L128 132" fill="#000" fill-opacity=".55" stroke="#fef08a" stroke-width="1.2" opacity=".7"/>
-  <path d="M104 120 L120 130" stroke="#fef08a" stroke-width=".9" opacity=".5"/>
-  <rect x="194" y="158" width="14" height="158" rx="5" fill="#1c1917" stroke="#eab308" stroke-width="2.6"/>
-  <path d="M194 184 L208 184 M194 210 L208 210 M194 236 L208 236 M194 262 L208 262 M194 288 L208 288" stroke="#eab308" stroke-width="1.5" opacity=".75"/>
-  <path d="M188 316 L214 316 L210 336 L192 336 Z" fill="#1c1917" stroke="#f1df76" stroke-width="2"/>
+  <!-- THE LIT ROOM: a lamp burning on the right -->
+  <path d="M318 96 L318 150" stroke="#57534e" stroke-width="3"/>
+  <rect x="304" y="96" width="28" height="36" rx="4" fill="#0f0d08" stroke="#a8a29e" stroke-width="2.2"/>
+  <circle cx="318" cy="114" r="8" fill="#fde68a"/>
+  <path d="M318 96 L318 88 M300 104 L292 100 M336 104 L344 100" stroke="#fde68a" stroke-width="1.6" opacity=".7"/>
+  <!-- light rays falling LEFT toward the maul -->
+  <path d="M296 118 L252 138 M298 130 L256 152" stroke="#fde68a" stroke-width="1" stroke-dasharray="3 6" opacity=".5"/>
+  <!-- floor -->
+  <path d="M48 262 L352 262" stroke="#3f3a30" stroke-width="2.6"/>
+  <!-- COMPACT MALLET standing on the floor, head up -->
+  <rect x="140" y="120" width="92" height="62" rx="8" fill="url(#hd155)" stroke="#eab308" stroke-width="3"/>
+  <path d="M152 132 L220 132 M148 168 L224 168" stroke="#57534e" stroke-width="1.4" opacity=".7"/>
+  <rect x="178" y="182" width="16" height="80" rx="5" fill="#0f0d08" stroke="#eab308" stroke-width="2.4"/>
+  <path d="M179 200 L193 205 M179 220 L193 225 M179 240 L193 245" stroke="#eab308" stroke-width="1.4" opacity=".8"/>
+  <!-- THE WRONG SHADOW: cast TOWARD the lamp, lengthening toward the pressure -->
+  <path d="M232 262 C 262 256, 292 252, 320 252 L332 262 Z" fill="#000" fill-opacity=".75"/>
+  <path d="M232 262 C 262 258, 292 256, 322 258" fill="none" stroke="#78716c" stroke-width="1.2" opacity=".6"/>
+  <!-- it darkens as it reaches THE WEIGHT PRESSURE: a black block hovering at the room's edge -->
+  <rect x="326" y="216" width="34" height="34" rx="4" fill="#050403" stroke="#78716c" stroke-width="2.2"/>
+  <path d="M334 224 L352 242 M352 224 L334 242" stroke="#44403c" stroke-width="1.6"/>
+  <path d="M322 252 L326 250" stroke="#000" stroke-width="4"/>
+  <!-- the TRUE shadow that should exist, faint and unused, on the left -->
+  <path d="M140 262 C 120 258, 100 258, 82 260 L72 262 Z" fill="#000" fill-opacity=".15"/>
+  <!-- verified balance + marked uncertainty: two chalk marks on the floor -->
+  <path d="M120 276 L152 276" stroke="#d6d3d1" stroke-width="2"/>
+  <path d="M254 276 C 258 270, 264 270, 268 276 C 264 282, 258 282, 254 276 Z" fill="none" stroke="#d6d3d1" stroke-width="1.6"/>
+  <circle cx="186" cy="270" r="3" fill="#f1df76"/>
 </svg>

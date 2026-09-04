@@ -1,28 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FROZEN FANG">
   <defs>
-    <radialGradient id="bw159" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw159" cx="46%" cy="46%" r="64%">
+      <stop offset="0%" stop-color="#230a0e"/>
+      <stop offset="100%" stop-color="#0c0405"/>
     </radialGradient>
-    <radialGradient id="gw159" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#ef4444" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl159" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fecaca"/>
+    </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw159)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw159)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef4444" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0405" stroke="#ef4444" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- SHARD FANG: jagged frost-fractured tooth blade with a cold exhale under the guard -->
-  <path d="M204 46 L226 92 L214 104 L232 148 L216 158 L228 200 L204 224 L186 196 L198 168 L180 130 L196 112 L184 76 Z" fill="#7f1d1d" fill-opacity=".5" stroke="#ef4444" stroke-width="2.6"/>
-  <path d="M204 62 L206 210" stroke="#fecaca" stroke-width="1.1" opacity=".7"/>
-  <path d="M196 100 L214 96 M192 138 L218 132 M198 176 L216 172" stroke="#bfdbfe" stroke-width="1.4" opacity=".8"/>
-  <path d="M220 78 L232 70 M226 122 L240 116 M222 186 L236 182" stroke="#bfdbfe" stroke-width="1" opacity=".55"/>
-  <path d="M168 228 L240 228 L232 244 L176 244 Z" fill="#2b0808" stroke="#ef4444" stroke-width="2.4"/>
-  <path d="M160 252 C 168 248, 174 250, 178 256 M156 264 C 164 260, 172 262, 176 268" fill="none" stroke="#bfdbfe" stroke-width="1.3" opacity=".65"/>
-  <rect x="190" y="244" width="20" height="66" rx="6" fill="#2b0808" stroke="#ef4444" stroke-width="2.2"/>
-  <path d="M191 258 L209 264 M191 276 L209 282 M191 292 L209 298" stroke="#ef4444" stroke-width="1.4" opacity=".85"/>
-  <circle cx="200" cy="322" r="8" fill="#2b0808" stroke="#f1df76" stroke-width="2"/>
+  <!-- crimson fang curving up-right, FROSTED while awaiting the named relief -->
+  <path d="M124 292 C 118 232, 138 172, 182 130 C 206 106, 234 92, 262 88 L266 108 C 240 112, 216 126, 196 146 C 158 184, 142 236, 148 288 Z"
+        fill="url(#bl159)" stroke="#ef4444" stroke-width="2.8"/>
+  <!-- FROST-LIKE FRACTURES across the edge -->
+  <path d="M158 244 L142 250 M150 250 L146 262 M170 204 L154 204 M162 210 L154 220 M188 168 L174 162 M182 174 L172 182 M214 138 L204 128 M222 132 L214 122 M244 112 L238 100" stroke="#bfdbfe" stroke-width="1.8" opacity=".9"/>
+  <path d="M152 270 L160 276 M178 190 L186 196 M232 122 L240 128" stroke="#dbeafe" stroke-width="1.1" opacity=".55"/>
+  <!-- THE SHARP RED LINE the fractures open along -->
+  <path d="M146 280 C 142 232, 158 186, 192 150 C 214 128, 238 114, 262 108" fill="none" stroke="#fee2e2" stroke-width="1.4" opacity=".85"/>
+  <!-- THE VISIBLE BREATH releasing from the target pressure at the tip -->
+  <path d="M268 92 C 288 80, 306 76, 322 80 C 336 84, 342 94, 336 104 C 348 104, 354 114, 348 124 C 340 132, 326 132, 316 126 C 308 134, 294 134, 286 126"
+        fill="none" stroke="#bfdbfe" stroke-width="2" opacity=".85"/>
+  <path d="M296 96 C 306 92, 316 92, 324 96 M292 112 C 302 108, 312 108, 320 112" fill="none" stroke="#dbeafe" stroke-width="1.2" opacity=".6"/>
+  <!-- the pressure knot the breath escapes from: a clenched coil breaking open -->
+  <path d="M338 148 C 352 152, 358 164, 352 174 C 346 182, 334 182, 328 174" fill="none" stroke="#7f1d1d" stroke-width="2.4" opacity=".8"/>
+  <path d="M334 158 L344 166" stroke="#7f1d1d" stroke-width="1.8" opacity=".7"/>
+  <!-- THE COLD EXHALE trapped under the guard -->
+  <path d="M120 302 C 110 306, 102 314, 100 324 M132 308 C 124 312, 118 318, 116 326" fill="none" stroke="#bfdbfe" stroke-width="1.6" opacity=".7"/>
+  <!-- guard + grip -->
+  <path d="M118 292 L152 288 L158 310 L124 316 Z" fill="#450a0a" stroke="#ef4444" stroke-width="2.4"/>
+  <path d="M136 316 L142 356 L162 352 L154 310 Z" fill="#450a0a" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M142 326 L158 322 M144 340 L160 336" stroke="#ef4444" stroke-width="1.4" opacity=".85"/>
+  <!-- THE RELIEF PERSON'S raised stop-hand, named before the draw -->
+  <path d="M64 168 L64 138 M72 166 L72 132 M80 166 L80 130 M88 168 L88 136 M58 172 C 58 186, 68 194, 80 194 C 90 194, 96 188, 96 178 L96 152"
+        fill="none" stroke="#d6d3d1" stroke-width="2.4"/>
+  <path d="M104 186 C 118 196, 130 212, 136 232" fill="none" stroke="#d6d3d1" stroke-width="1.4" stroke-dasharray="4 5" opacity=".7"/>
+  <circle cx="150" cy="366" r="6" fill="#450a0a" stroke="#f1df76" stroke-width="2"/>
 </svg>

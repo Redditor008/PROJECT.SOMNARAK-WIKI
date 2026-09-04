@@ -1,26 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE WILLOW REQUIEM">
   <defs>
-    <radialGradient id="bw140" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw140" cx="50%" cy="40%" r="64%">
+      <stop offset="0%" stop-color="#0c1c3a"/>
+      <stop offset="100%" stop-color="#04080f"/>
     </radialGradient>
-    <radialGradient id="gw140" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#3b82f6" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl140" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#93c5fd"/>
+      <stop offset="1" stop-color="#1e3a8a"/>
+    </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw140)" stroke="#3b82f6" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw140)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#3b82f6" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#04080f" stroke="#3b82f6" stroke-width="1.2"/>
   <text x="30" y="36" fill="#3b82f6" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- WILLOW-LEAF SABER: long slender leaf-curve blade with a leaf-shaped guard -->
-  <path d="M262 50 C 214 84, 184 148, 178 232 L194 236 C 200 156, 226 98, 270 62 Z" fill="#1e40af" fill-opacity=".3" stroke="#3b82f6" stroke-width="2.4"/>
-  <path d="M258 62 C 218 96, 194 152, 188 226" fill="none" stroke="#bfdbfe" stroke-width="1.2" opacity=".8"/>
-  <path d="M240 84 L250 92 M222 112 L232 120 M208 146 L219 152 M198 184 L210 188" stroke="#bfdbfe" stroke-width=".9" opacity=".5"/>
-  <path d="M168 236 C 182 228, 200 228, 212 238 C 200 248, 182 248, 168 236 Z" fill="#0b1d4d" stroke="#3b82f6" stroke-width="2.2"/>
-  <path d="M182 246 L172 312 L190 316 L198 248 Z" fill="#0b1d4d" stroke="#3b82f6" stroke-width="2.2"/>
-  <path d="M182 262 L196 266 M180 278 L194 282 M178 294 L192 298" stroke="#3b82f6" stroke-width="1.3" opacity=".85"/>
-  <path d="M170 316 C 162 326, 164 338, 176 342 C 186 338, 188 328, 182 318 Z" fill="#0b1d4d" stroke="#f1df76" stroke-width="1.8"/>
+  <!-- slender blade DROOPING like a willow branch: hilt high-left, tip bowing down-right -->
+  <path d="M96 88 C 176 96, 244 136, 286 208 C 302 236, 310 264, 312 290 L296 292 C 292 266, 284 240, 270 216 C 230 152, 170 114, 94 106 Z"
+        fill="url(#bl140)" fill-opacity=".55" stroke="#60a5fa" stroke-width="2.6"/>
+  <!-- the long tear-leaf line down the centre, with the Han film that never drips -->
+  <path d="M102 97 C 178 106, 240 144, 280 212 C 292 234, 300 260, 304 284" fill="none" stroke="#dbeafe" stroke-width="1.5" opacity=".9"/>
+  <path d="M150 108 C 154 114, 150 120, 144 120 M212 140 C 216 146, 212 152, 206 152 M262 192 C 266 198, 262 204, 256 204" fill="none" stroke="#bfdbfe" stroke-width="1.2" opacity=".7"/>
+  <!-- PALE LEAF-LIGHT shed along the chosen line: motes falling slowly -->
+  <path d="M180 150 C 186 146, 192 148, 194 154 C 190 158, 184 158, 180 150 Z" fill="#bfdbfe" opacity=".85"/>
+  <path d="M228 190 C 234 186, 240 188, 242 194 C 238 198, 232 198, 228 190 Z" fill="#bfdbfe" opacity=".65"/>
+  <path d="M262 240 C 268 236, 274 238, 276 244 C 272 248, 266 248, 262 240 Z" fill="#bfdbfe" opacity=".5"/>
+  <path d="M188 162 L186 178 M236 202 L234 216 M270 252 L268 264" stroke="#bfdbfe" stroke-width="1" stroke-dasharray="2 4" opacity=".5"/>
+  <path d="M186 186 L184 196 M232 224 L230 232" stroke="#93c5fd" stroke-width=".9" stroke-dasharray="1 4" opacity=".35"/>
+  <!-- hum after the farewell is named: soft arcs under the bow -->
+  <path d="M220 262 C 212 270, 200 272, 190 268 M232 282 C 220 292, 204 294, 190 288" fill="none" stroke="#3b82f6" stroke-width="1.2" opacity=".5"/>
+  <!-- PALE LEAF-SHAPED GUARD at the hilt -->
+  <path d="M88 82 C 102 72, 118 74, 126 86 C 116 98, 100 100, 88 92 Z" fill="#0c1e3e" stroke="#93c5fd" stroke-width="2.2"/>
+  <path d="M94 87 C 104 84, 112 85, 120 88" fill="none" stroke="#dbeafe" stroke-width="1" opacity=".7"/>
+  <!-- cool wrapped grip rising off-frame -->
+  <path d="M84 80 L62 44 L78 34 L98 70 Z" fill="#0c1e3e" stroke="#3b82f6" stroke-width="2.4"/>
+  <path d="M74 64 L86 56 M68 52 L80 44" stroke="#3b82f6" stroke-width="1.4" opacity=".85"/>
+  <circle cx="66" cy="30" r="7" fill="#0c1e3e" stroke="#f1df76" stroke-width="2"/>
 </svg>
