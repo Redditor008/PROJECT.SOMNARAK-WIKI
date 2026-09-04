@@ -30,6 +30,10 @@ The Mantle formed while Iseulfros endured Patrimoine’s pressure without sealin
 | Binding cost | The wearer begins feeling responsible for keeping all burden in motion |
 | Corrosion risk | Moderate; severe if the route pauses over living tissue |
 
+## Appearance
+
+The Patrimoine Mantle is a black mantle of Han weave whose draped seams move like roots carrying liquid beneath cloth — breathing with the wearer and remaining unnaturally heavy. Binding requires a route marker at entry and a nonliving discharge site at exit; an unmarked exit closes the hem around both ankles. It formed around a carrier who endured Patrimoine’s pressure without sealing it into her body. In the field, its Carried Current channels incoming Weight across the garment toward the marked exit, reducing concentration in the wearer — it transports pressure; it neither destroys nor absolves it. The overload is stillness: stopping between markers lets the seams root into the body, and after three still breaths the wearer becomes an intermediate settling bed. In its recorded case the wearer carried the Vault Dam burden and stopped at the seventh root marker to help a collapsed analyst — the Mantle interpreted her stillness as arrival and drove a black seam into her calf. She delegated the aid, resumed, and discharged before the seam reached bone — transport and care require separate staff. A dark stitch remains at the seventh hem marker, tightening whenever the wearer tries to perform both roles.
+
 ## PROTECTIVE FUNCTION
 
 **Carried Current:** channels incoming Weight across the garment toward the marked exit, reducing concentration in the wearer. It transports pressure; it neither destroys nor absolves it.

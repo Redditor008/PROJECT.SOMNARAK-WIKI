@@ -14,6 +14,10 @@
 
 A crimson harness carrying the scent of vanished rooms. It binds only outside the absent foundation.
 
+## Appearance
+
+The Vanished Plate is a crimson harness carrying the scent of vanished rooms — interiors that no longer exist anywhere except as smell in the armor’s seams. It binds only outside the absent foundation; the boundary of the deleted building is a binding line the suit will not cross into. In the field, its Shadow Vigil resists Grudge while the wearer memorializes a removed room — protection scoped to witness-work, and reflexes dull whenever the wearer attempts to support phantom architecture, the armor withdrawing cooperation the moment memorial turns into masonry. In its recorded case a wearer leaned against a stair visible only through the set’s Gift — the Plate hardened into a load-bearing column and the stair began returning above her, absence accepting the invitation. Stepping onto current pavement dissolved both support and stair. Corrosion runs from phantom walls feeling solid, through joints aligning with absent beams, to a terminal state that installs the wearer as tower foundation. It is maintained by separating the plates on current ground and marking every missing room as non-load-bearing; emergency shutdown has a mourner close the vigil while the wearer moves out of the shadow under their own power — the exit walked, not carried.
+
 **Grade / Element:** β / Grudge
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

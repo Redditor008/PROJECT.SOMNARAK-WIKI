@@ -29,6 +29,10 @@ Binding requires a named traveler, an acknowledged departure, and a destination 
 | Binding cost | Prolonged use leaves bruises shaped like unfinished joints |
 | Corrosion risk | High when used to create permanent passage |
 
+## Appearance
+
+The Exiles’ Wall Fang is a fang-curved crimson blade of Han iron that pulses when drawn near a forced crossing — wet red light follows the inner curve but gives no heat. Extraction occurred after Gate Watch removed a completed lintel from the source instead of cutting through its body. Binding requires a named traveler, an acknowledged departure, and a destination selected by that traveler; rejection makes the wielder’s old injuries ache until every direction feels punitive. In use, its Coercion Brace Cut severs a physical or emotional support forcing a traveler toward, away from, or indefinitely against a boundary — it damages structures and Grudge manifestations but cannot decide where the traveler should go. One cut is authorized per named crossing; a second without renewed destination consent begins framing a doorway in the wielder’s own body. In its recorded case the inner curve brightened around a roof brace that had converted shelter into completion — cutting it reopened both exits without selecting either, and a follow-up swing at a doorpost “to make the route safer” was refused, laying a red lintel-shaped bruise across the wielder’s shoulders that faded only after the final traveler named an outward destination freely.
+
 ## FUNCTION
 
 **Coercion Brace Cut:** severs a physical or emotional support forcing a traveler toward, away from, or indefinitely against a boundary. It damages structures and Grudge manifestations but cannot decide where the traveler should go.

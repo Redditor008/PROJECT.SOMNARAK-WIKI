@@ -29,6 +29,10 @@ Binding requires the wielder to name a nonliving destination for released Weight
 | Binding cost | Prolonged use ages the wielder slightly |
 | Corrosion risk | High if used to dam or reverse the source flow |
 
+## Appearance
+
+The Patrimoine Maul is a matte black maul of Han steel whose head pulses with a slow current when drawn — root channels cross its faces but never meet at the center, inheritance drawn as circuitry refusing closure. The first stable extraction followed acknowledgment of the soldier and those through whom his unrest moved. Binding requires a named nonliving destination for released Weight; without one, each swing adds the current to the user’s body. In use, its Basin Break opens inert stone, prepared Han-clay, or dead root into a settling bed for acknowledged pressure — it damages active Weight manifestations but cannot safely strike a living carrier. A blow without a prepared route creates a closed basin in the wielder’s chest, and the next impact plants Patrimoine’s seed there. In its recorded case a wielder broke a stone trough before the route was marked: the basin was ready but emotionally unlinked, so the current entered his sternum and his movements aged within seconds. Once soldier, analyst, and wielder were named as separate carriers, the channels aligned toward the trough and a routed second strike released the load. The head now refuses to pulse when any bearer in the transfer record is omitted.
+
 ## FUNCTION
 
 **Basin Break:** opens inert stone, prepared Han-clay, or dead root into a settling bed for acknowledged pressure. The Maul can damage active Weight manifestations but cannot safely strike a living carrier.

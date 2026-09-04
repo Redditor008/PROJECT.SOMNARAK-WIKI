@@ -30,6 +30,10 @@ The Plate condensed around the Orchard Lane medic when the return promise was wi
 | Binding cost | The wearer begins offering promises to escape others’ anger |
 | Corrosion risk | Moderate; severe after tasting or carrying fruit |
 
+## Appearance
+
+The Melting Plate is a crimson plated harness cold against the skin despite its dark inner glow — its fruit-shaped seams softening when longing is described as a plan, the armor registering the moment desire converts into commitment. It binds to an escort who can repeat a desire without converting it. It condensed around the Orchard Lane medic when the return promise was withdrawn and the anger allowed to remain. In the field, its Unpromised Guard resists the Grudge released when a desired home or future is acknowledged as unavailable — the suit keeps the wearer present without requiring optimism from the speaker. The overload is reassurance unsupported by a route or resource: the inner plates melt and reform around the promise, locking the wearer into fulfilling it. In its recorded case the medic said “We will find a way back” to calm an exile — the Plate resisted the first anger wave, then melted inward around his ribs as the promise gained weight. Asked to state what he could actually provide, he offered water, transport, and a listening shift; the impossible portion ran from the seams as crimson liquid. Its chest plate now softens at the word “will” unless a present resource follows.
+
 ## PROTECTIVE FUNCTION
 
 **Unpromised Guard:** resists Grudge released when a desired home or future is acknowledged as unavailable. The suit keeps the wearer present without requiring optimism from the speaker.

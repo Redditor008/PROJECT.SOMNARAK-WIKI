@@ -27,6 +27,10 @@ A warm crimson seed-charm sits at the Tail slot and softens without losing mass 
 | Binding cost | The bearer feels responsible for desires they can only witness |
 | Corrosion risk | High in promise-making roles |
 
+## Appearance
+
+The Melting Seed is a warm crimson seed-charm at the tail slot that softens without losing mass when anger is nearby — yielding in texture, constant in substance, like the desire under rage. The Harvest grants it unpredictably after successful work; it cannot be manufactured. Its function is the Desire Kernel: it reveals the desire behind a person’s anger in their own sensory language — taste, room, harvest, family, or future — without judging feasibility, and it must not be read aloud without consent. The hidden condition is fulfillment: if the bearer promises it, the Seed begins growing a false orchard inside their plans, redirecting every resource toward reproducing the desire until the Gift melts. In its recorded case it showed an exile’s anger as the taste of fruit cut in her mother’s kitchen — a clerk entered “return to family kitchen” as the required remedy, Gate routes started bending cityward, and the Gift grew warm enough to scorch its clasp. The exile corrected the record herself: she wanted the future that taste represented, not transport to a room now occupied by strangers. The remedy was removed and her wording preserved; the Seed now displays desires as images without destination coordinates.
+
 ## EFFECT & HIDDEN CONDITION
 
 **Desire Kernel:** reveals the desire behind a person’s anger in their own sensory language—taste, room, harvest, family, or future. It does not judge feasibility and must not be read aloud without consent.

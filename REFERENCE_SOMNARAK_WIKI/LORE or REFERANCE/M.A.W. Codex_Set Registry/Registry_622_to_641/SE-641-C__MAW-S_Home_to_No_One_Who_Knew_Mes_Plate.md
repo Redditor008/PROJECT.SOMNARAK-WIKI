@@ -30,6 +30,10 @@ The Plate formed around the Old Lament resident who chose to receive the relic i
 | Binding cost | Former-owner habits enter posture and speech |
 | Corrosion risk | Severe when current-name strip is removed |
 
+## Appearance
+
+Home to No One Who Knew Me’s Plate is a breathing crimson harness of Han iron whose plate shapes change when no one watches — only one current-name strip over the sternum stays fixed, refusing revision. Binding requires a receiver who accepts protection without claiming former ownership. It formed around the Old Lament resident who chose to receive the relic in its changed state after the ceremonial title was removed. In the field, its Present Receiver resists the Grudge of unrecognized return while preserving the wearer’s current name, body, and relationship to the object — reception without inherited ownership. The overload is misnaming: calling the wearer a former owner replaces one plate with that person’s historical clothing or injury, and at full substitution the suit returns the old owner through the current body. In its recorded case an elder said the receiving resident stood where the relic’s last keeper had stood — the shoulder plates became that keeper’s coat, and her hands began performing an obsolete ceremony. The current-name strip was restored and she was asked what relationship she chose now. “Custodian for one cycle” stopped the substitution. The right shoulder still changes texture when resemblance is treated as identity.
+
 ## PROTECTIVE FUNCTION
 
 **Present Receiver:** resists Grudge from unrecognized return while preserving the wearer’s current name, body, and relationship to the object. It allows reception without inherited ownership.
