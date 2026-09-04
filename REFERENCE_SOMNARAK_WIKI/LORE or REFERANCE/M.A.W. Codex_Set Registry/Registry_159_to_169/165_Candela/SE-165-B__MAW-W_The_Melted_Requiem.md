@@ -39,6 +39,10 @@
 
 **Rejection rule:** If the weapon is drawn to control a person for something that has not happened, it melts cold in the bearer’s hand and applies its Lament pressure to the bearer’s own future fear.
 
+## Appearance
+
+The Melted Requiem is a blue blade whose surface seems soft like wax but holds a sharp, singing edge. It activates only after the bearer states that the perceived future is possible, not certain. In active use melted-looking light runs forward along the blade and stops at one current emotional danger. At full activation, the full Pierce line clears a rising anticipatory Lament surge, allowing a team to prepare without taking control of others’ future decisions. The bearer appoints a present-care witness who can halt use if prediction language becomes certainty. The bearer feels Candela’s unwept grief and may cry after use. Every use must name uncertainty and present consent. The blade stays soft-lit until a current-care debrief is complete. The Requiem is never stored beside a forecast alone. If the weapon is drawn to control a person for something that has not happened, it melts cold in the bearer’s hand and applies its Lament pressure to the bearer’s own future fear. The witness covers the melt line, says the present action, and sheaths the weapon during shutdown.
+
 ## CORE STATISTICS
 
 | Field | Record |

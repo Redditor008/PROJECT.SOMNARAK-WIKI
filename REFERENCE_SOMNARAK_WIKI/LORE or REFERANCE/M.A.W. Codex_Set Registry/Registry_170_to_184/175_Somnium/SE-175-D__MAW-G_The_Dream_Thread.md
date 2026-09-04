@@ -29,6 +29,10 @@ The Thread appeared after a consented Dream session ended on cue. The candidate 
 
 **Rejection:** Entering a dream without consent tangles the Thread around the bearer’s own desire and prevents a safe return until an anchor intervenes.
 
+## Appearance
+
+The Dream Thread is a thin band of woven blue thread worn at the tail line, light enough to forget until a dream is near. At rest the weave lies flat and colorless; where a dreamer has permitted contact, single strands lift and glow, tracing the boundary of the consented Dream so the bearer can see exactly where permission ends. During entry the band pays out an almost invisible filament that trails back to the outside anchor, and the bearer walks another person’s dream holding that one line. The Thread allows observation, support, or shared navigation, never extraction: it cannot read secrets as inventory, alter a dreamer’s choice, or remain after the anchor cue. Every dream entered leaves an emotional fragment lodged in the weave, a feeling that was never the bearer’s, and each fragment must be named and separated in debrief before the band is worn again. Entering without consent tangles the Thread around the bearer’s own desire and blocks a safe return until the anchor intervenes. The anchor unhooks the band after debrief during shutdown; cutting it leaves the bearer emotionally inside the last dream.
+
 ## GIFT STATISTICS
 
 **Source bonus:** +2 when working Somnium. **Cost:** The wearer carries an emotional fragment from every dream entered. One thread only; replacement requires debrief and release.

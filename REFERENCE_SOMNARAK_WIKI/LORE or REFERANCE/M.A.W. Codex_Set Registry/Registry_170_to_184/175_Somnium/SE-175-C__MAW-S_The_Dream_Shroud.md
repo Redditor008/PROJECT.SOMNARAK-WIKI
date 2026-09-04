@@ -29,6 +29,10 @@ The Shroud formed from a released Somnium thread after a dreamer acknowledged a 
 
 **Rejection:** A wearer who uses the Shroud to remain in a dream loses its Lament resistance and becomes numb to the present person calling them back.
 
+## Appearance
+
+The Dream Shroud is a suit of deep-blue dream-cloth that hangs like slow water, its folds catching light in the shapes of rooms the wearer has wanted and never lived in. A single waking-anchor thread runs from the collar down the breast and must remain visible outside the Dream at all times; the suit is not fastened until that thread is confirmed by the outside observer. Inside a desired Dream image the fabric steadies the wearer’s emotional stability, diffusing the Lament of the image while the collar thread keeps one line of the present body legible. When the anchor gives the cue, the cloth pulls taut along that thread and rejects one Dream escalation, returning attention to the current body. Minor joys go numb after long immersion, and the anchor may end use over the wearer’s objection. The fabric begins showing a desired scene on its own when the wearer treats waking as failure, and a Shroud whose collar thread has faded is sealed immediately. The anchor unfastens the collar thread and calls the bearer into current light during shutdown.
+
 ## PROTECTION STATISTICS
 
 | Lament | Grudge | Void | Weight |

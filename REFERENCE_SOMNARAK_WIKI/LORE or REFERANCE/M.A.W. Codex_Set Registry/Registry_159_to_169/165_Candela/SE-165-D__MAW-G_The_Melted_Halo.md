@@ -39,6 +39,10 @@
 
 **Rejection rule:** If the bearer cites the Halo as certain proof of a future act, the circlet makes them grieve their own imagined consequence until removed.
 
+## Appearance
+
+The Melted Halo is a small halo of deep-blue glass sagging slightly as if softened by heat. It displays possibility intensity, not certainty or outcome. In active use the Halo brightens around approaching emotional danger and drips blue light that disappears before landing. At full activation, the Halo clarifies one emotional risk pattern so a team can prepare resources without controlling anyone. The bearer has a present-care witness who can distinguish a warning from a claim of knowledge. It carries no Echo cost, but possible dangers become emotionally vivid. The Halo is stored dim, never used as a continuous forecast. If the bearer cites the Halo as certain proof of a future act, the circlet makes them grieve their own imagined consequence until removed. The witness covers the circlet, names one current reality, and removes the Gift during shutdown. A second Halo makes every future branch appear urgent. The care witness covers the circlet after a present action and uncertainty disclosure are recorded.
+
 ## GIFT STATISTICS
 
 | Field | Record |

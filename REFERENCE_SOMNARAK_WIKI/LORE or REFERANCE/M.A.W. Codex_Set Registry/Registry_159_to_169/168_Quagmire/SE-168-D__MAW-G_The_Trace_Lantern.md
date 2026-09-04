@@ -39,6 +39,10 @@
 
 **Rejection rule:** If used to chase a hidden route without preserving the missing travelers, the Lantern’s light turns toward the bearer and plays their own footsteps as never arriving.
 
+## Appearance
+
+The Trace Lantern is a tiny blue lantern that shows no flame until a route is named aloud. A hidden path is never shown without the unfinished traveler names attached to it. In active use thin blue lines illuminate hidden paths beneath dust, Han residue, and grief pressure. At full activation, the Lantern illuminates one hidden route and the trace of travelers who failed to arrive along it. The bearer must have a map custodian to receive every name and route the Lantern reveals. It carries no Echo cost, but route voices continue after the light closes. The Lantern is never used as an autonomous navigation tool. If used to chase a hidden route without preserving the missing travelers, the Lantern’s light turns toward the bearer and plays their own footsteps as never arriving. The custodian covers the light, names the current camp route, and removes the Lantern during shutdown.
+
 ## GIFT STATISTICS
 
 | Field | Record |
