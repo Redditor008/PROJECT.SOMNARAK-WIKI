@@ -1,31 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="FROZEN FURY LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bgdc9c47" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw668" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="100%" stop-color="#08090c"/>
     </radialGradient>
-    <radialGradient id="gldc9c47" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl668" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#475569"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgdc9c47)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw668)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="110" fill="url(#gldc9c47)"/>
-  <g transform="rotate(-3 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="48.0" ry="61.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="39.0" ry="49.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="30.0" ry="39.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M230.9 145.3 L225.1 154.5" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M243.9 167.2 L235.6 172.1" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M248.0 194.1 L239.0 193.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M242.4 220.6 L234.4 215.0" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="140.0" y="186.0" width="120.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="253.0" width="12" height="30.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-668-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- handle low-left -->
+  <path d="M112 366 L160 300" stroke="#1c2128" stroke-width="12" stroke-linecap="round"/>
+  <path d="M122 352 L134 360 M134 336 L146 344 M146 320 L158 328" stroke="#94a3b8" stroke-width="2.2"/>
+  <path d="M106 376 a7 7 0 1 0 .1 0" fill="#111318" stroke="#cbd5e1" stroke-width="2.4"/>
+  <path d="M158 304 C 166 294, 176 288, 186 286" fill="none" stroke="#475569" stroke-width="5"/>
+  <!-- THE CIRCULAR DOCUMENT PANE: glass holding the corrected ledger's reflection -->
+  <circle cx="226" cy="178" r="102" fill="url(#bl668)" fill-opacity=".16" stroke="#e2e8f0" stroke-width="3"/>
+  <circle cx="226" cy="178" r="93" fill="none" stroke="#475569" stroke-width="1.3"/>
+  <path d="M162 122 C 176 106, 196 96, 216 94" fill="none" stroke="#e2e8f0" stroke-width="1.8" opacity=".5"/>
+  <!-- LEDGER LINES across the glass: ruled register with entries -->
+  <path d="M156 130 L296 130 M152 152 L300 152 M148 174 L304 174 M148 196 L304 196 M152 218 L300 218 M158 240 L294 240" stroke="#475569" stroke-width="1.3"/>
+  <path d="M186 118 L186 250" stroke="#334155" stroke-width="1.2"/>
+  <!-- entries: name column + record marks -->
+  <path d="M160 142 L180 142 M160 164 L178 164 M160 186 L182 186 M160 208 L176 208 M164 230 L180 230" stroke="#94a3b8" stroke-width="1.6"/>
+  <path d="M192 142 L246 142 M192 164 L252 164 M192 208 L240 208 M196 230 L236 230" stroke="#64748b" stroke-width="1.4"/>
+  <!-- THE FALSE CLAUSE: 'voluntary departure' line — EXCISED with a gold cut, gap left visible -->
+  <path d="M192 186 L218 186" stroke="#64748b" stroke-width="1.4"/>
+  <path d="M226 186 L258 186" stroke="#0b0d10" stroke-width="4"/>
+  <path d="M224 178 L236 194" stroke="#f1df76" stroke-width="2.6"/>
+  <path d="M262 186 L286 186" stroke="#64748b" stroke-width="1.4"/>
+  <!-- the truth written beneath: corrected small line under the excision -->
+  <path d="M226 192 L258 192" stroke="#e2e8f0" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <!-- accountability grip-plate: institution named -->
+  <rect x="240" y="252" width="52" height="16" rx="2" fill="#08090c" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M246 260 L286 260" stroke="#f1df76" stroke-width="1.2"/>
+  <!-- THE ICE: arrested grief frozen at the rim — icicle teeth, DO NOT STRIKE hatch -->
+  <path d="M144 226 C 140 236, 138 246, 139 256 L 146 250 L 148 262 L 155 254 L 156 266 L 163 258" fill="none" stroke="#7dd3fc" stroke-width="2.2"/>
+  <path d="M136 216 C 130 220, 126 226, 124 233" fill="none" stroke="#7dd3fc" stroke-width="1.6" opacity=".8"/>
+  <path d="M128 244 L120 252 M134 254 L126 262" stroke="#7f1d1d" stroke-width="1.8"/>
+  <!-- full-thaw warning droplet held frozen -->
+  <path d="M150 274 C 147 279, 147 283, 150 286 C 153 283, 153 279, 150 274 Z" fill="none" stroke="#7dd3fc" stroke-width="1.6"/>
+  <!-- attrition mote -->
+  <circle cx="316" cy="112" r="2.6" fill="none" stroke="#64748b" stroke-width="1.3" stroke-dasharray="2 3" opacity=".7"/>
 </svg>

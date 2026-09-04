@@ -1,25 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="HOME TO NO ONE WHO KNEW ME’S FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="HOME TO NO ONE WHO KNEW MES FANG">
   <defs>
-    <radialGradient id="bg8a2b2b" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw641" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl8a2b2b" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl641" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg8a2b2b)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw641)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="121" fill="url(#gl8a2b2b)"/>
-  <g transform="rotate(2 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 111.14999999999999, 234.0 45.0 240.0 45.0 C230.0 115.56, 220.0 142.01999999999998, 215.0 192.0 Z" fill="#3e8bd5" fill-opacity=".26" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 124.38, 232.0 53.0 237.0 51.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#3e8bd5" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="43.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="247.0" r="5" fill="#3e8bd5" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-641-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- GHOST SHAPES: three faint historical forms of the blade, superimposed -->
+  <path d="M142 318 C 178 296, 208 264, 228 224 C 244 192, 262 166, 286 148" fill="none" stroke="#7f1d1d" stroke-width="2" stroke-dasharray="6 5" opacity=".55"/>
+  <path d="M136 308 C 176 290, 210 260, 234 220 C 252 190, 274 166, 300 152" fill="none" stroke="#7f1d1d" stroke-width="1.6" stroke-dasharray="3 6" opacity=".45"/>
+  <path d="M150 326 C 184 300, 212 268, 230 230 C 246 196, 266 170, 292 154 L 300 166 C 276 184, 258 210, 244 242 C 226 282, 192 310, 160 330 Z" fill="none" stroke="#fca5a5" stroke-width="1.4" stroke-dasharray="2 4" opacity=".6"/>
+  <!-- ghost tips of other eras: a broader leaf and a straighter point, faded -->
+  <path d="M286 148 C 296 136, 310 128, 324 126 C 320 138, 312 148, 302 154" fill="none" stroke="#7f1d1d" stroke-width="1.4" stroke-dasharray="4 4" opacity=".5"/>
+  <path d="M300 152 L322 118 L328 140" fill="none" stroke="#7f1d1d" stroke-width="1.2" stroke-dasharray="3 5" opacity=".4"/>
+  <!-- THE CURRENT BLADE: solid ONLY because position is dated — crisp fang -->
+  <path d="M148 316 L138 304 C 172 284, 200 254, 220 216 C 236 186, 256 162, 282 146 C 292 140, 304 144, 308 154 C 312 164, 306 174, 296 180 C 272 194, 254 216, 240 246 C 222 282, 188 306, 160 322 Z"
+        fill="url(#bl641)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M146 308 C 178 288, 206 258, 226 222 C 242 192, 260 170, 284 154" fill="none" stroke="#4c0d13" stroke-width="2"/>
+  <path d="M156 316 C 188 296, 216 266, 234 230 C 250 200, 268 178, 292 162" fill="none" stroke="#ffe4e6" stroke-width="1.8"/>
+  <!-- quiver marks at the spine: still trembling between shapes -->
+  <path d="M198 262 L206 268 M216 234 L224 240 M236 204 L244 210" stroke="#fda4af" stroke-width="1.4" opacity=".8"/>
+  <!-- THE DATED-POSITION PLATE: where-and-when statement that holds the form -->
+  <rect x="176" y="272" width="52" height="20" rx="3" transform="rotate(-36 202 282)" fill="#0d0507" stroke="#f1df76" stroke-width="1.8"/>
+  <path d="M184 280 L212 260 M188 288 L216 268" stroke="#f1df76" stroke-width="1.2"/>
+  <path d="M214 258 L222 252" stroke="#f1df76" stroke-width="1.6"/>
+  <!-- the acknowledged original: one solid seal; return-copies: three dashed duplicates severed -->
+  <circle cx="268" cy="232" r="7" fill="none" stroke="#fca5a5" stroke-width="2"/>
+  <circle cx="288" cy="216" r="6" fill="none" stroke="#7f1d1d" stroke-width="1.4" stroke-dasharray="3 3"/>
+  <circle cx="302" cy="236" r="6" fill="none" stroke="#7f1d1d" stroke-width="1.4" stroke-dasharray="3 3"/>
+  <circle cx="316" cy="212" r="6" fill="none" stroke="#7f1d1d" stroke-width="1.4" stroke-dasharray="3 3"/>
+  <path d="M284 210 L294 222 M298 230 L308 242 M312 206 L322 218" stroke="#f1df76" stroke-width="2"/>
+  <!-- guard + grip -->
+  <path d="M124 320 L170 340" stroke="#4c0d13" stroke-width="9" stroke-linecap="round"/>
+  <path d="M148 342 L126 384" stroke="#4c0d13" stroke-width="11" stroke-linecap="round"/>
+  <path d="M146 350 L136 346 M142 362 L132 358 M138 374 L128 370" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M122 392 a6 6 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.2"/>
 </svg>

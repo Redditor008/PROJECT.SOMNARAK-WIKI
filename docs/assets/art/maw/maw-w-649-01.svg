@@ -1,32 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MISSING LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bgbc0c0b" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw649" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="100%" stop-color="#08090c"/>
     </radialGradient>
-    <radialGradient id="glbc0c0b" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl649" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#475569"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgbc0c0b)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw649)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="127" fill="url(#glbc0c0b)"/>
-  <g transform="rotate(1 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="65.0" ry="60.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="56.0" ry="48.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="47.0" ry="38.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M241.8 146.0 L236.0 155.2" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M259.4 167.6 L251.2 172.5" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M265.0 194.1 L256.0 193.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M257.4 220.2 L249.4 214.5" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M238.2 240.5 L232.9 230.8" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="123.0" y="186.0" width="154.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="252.0" width="12" height="40.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-649-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- handle -->
+  <path d="M136 372 L182 306" stroke="#1c2128" stroke-width="12" stroke-linecap="round"/>
+  <path d="M146 358 L158 366 M158 342 L170 350 M170 326 L182 334" stroke="#94a3b8" stroke-width="2.2"/>
+  <path d="M130 382 a7 7 0 1 0 .1 0" fill="#111318" stroke="#cbd5e1" stroke-width="2.4"/>
+  <path d="M180 310 C 188 300, 198 294, 208 292" fill="none" stroke="#475569" stroke-width="5"/>
+  <!-- THE DISC: glass visible only as a faint fill — NO permanent rim -->
+  <circle cx="232" cy="184" r="100" fill="url(#bl649)" fill-opacity=".12"/>
+  <circle cx="232" cy="184" r="100" fill="none" stroke="#334155" stroke-width="1" stroke-dasharray="1 9" opacity=".5"/>
+  <path d="M172 128 C 186 112, 206 102, 226 100" fill="none" stroke="#e2e8f0" stroke-width="1.6" opacity=".4"/>
+  <!-- CLAIM 1 (unsupported): certainty tag with no evidence line -> edge arc appears beside it -->
+  <rect x="288" y="96" width="42" height="17" rx="2" fill="#08090c" stroke="#cbd5e1" stroke-width="1.6"/>
+  <path d="M294 105 L324 105" stroke="#94a3b8" stroke-width="1.3"/>
+  <path d="M296 118 L296 126" stroke="#475569" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <path d="M300 92 A 100 100 0 0 1 330 160" fill="none" stroke="#e2e8f0" stroke-width="3.2"/>
+  <path d="M300 92 A 100 100 0 0 1 330 160" fill="none" stroke="#e2e8f0" stroke-width="9" opacity=".14"/>
+  <path d="M322 132 L332 128" stroke="#f1df76" stroke-width="2.4"/>
+  <!-- CLAIM 2 (unsupported): another certainty tag low-left -> second edge arc -->
+  <rect x="118" y="212" width="40" height="16" rx="2" fill="#08090c" stroke="#cbd5e1" stroke-width="1.5"/>
+  <path d="M124 220 L152 220" stroke="#94a3b8" stroke-width="1.2"/>
+  <path d="M134 150 A 100 100 0 0 0 134 220" fill="none" stroke="#cbd5e1" stroke-width="2.8"/>
+  <path d="M136 196 L128 200" stroke="#f1df76" stroke-width="2.2"/>
+  <!-- SUPPORTED memory: evidence-backed tag with solid line beneath — NO edge near it -->
+  <rect x="240" y="252" width="42" height="16" rx="2" fill="#08090c" stroke="#4ade80" stroke-width="1.6"/>
+  <path d="M246 260 L276 260" stroke="#4ade80" stroke-width="1.2"/>
+  <path d="M246 272 L276 272" stroke="#166534" stroke-width="2"/>
+  <!-- the feeling preserved: warm heart-mote kept when a claim is cut -->
+  <path d="M212 158 C 209 152, 202 152, 200 158 C 198 163, 204 168, 208 170 C 212 168, 218 163, 216 158 C 214 152, 214 155, 212 158 Z" fill="none" stroke="#fb923c" stroke-width="1.6"/>
+  <path d="M208 176 L208 184" stroke="#fb923c" stroke-width="1.2" stroke-dasharray="2 2" opacity=".7"/>
+  <!-- self-demonstration: the wielder's own true/hope pair etched at center -->
+  <path d="M222 196 L242 196" stroke="#e2e8f0" stroke-width="1.8"/>
+  <path d="M222 208 L242 208" stroke="#64748b" stroke-width="1.6" stroke-dasharray="3 3"/>
+  <path d="M216 202 L212 202" stroke="#94a3b8" stroke-width="1.2"/>
+  <!-- attrition mote -->
+  <circle cx="152" cy="106" r="2.6" fill="none" stroke="#64748b" stroke-width="1.3" stroke-dasharray="2 3" opacity=".7"/>
 </svg>

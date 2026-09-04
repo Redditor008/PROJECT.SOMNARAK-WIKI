@@ -1,33 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="SOMNALITH LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bg4a6166" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw611" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="100%" stop-color="#08090c"/>
     </radialGradient>
-    <radialGradient id="gl4a6166" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl611" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#475569"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg4a6166)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw611)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="122" fill="url(#gl4a6166)"/>
-  <g transform="rotate(-8 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="58.0" ry="61.0" fill="none" stroke="#3e8bd5" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="49.0" ry="49.0" fill="#3e8bd5" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="40.0" ry="39.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M237.3 145.3 L231.5 154.5" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M253.0 167.2 L244.8 172.1" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M258.0 194.1 L249.0 193.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="130.0" y="186.0" width="140.0" height="12" rx="5" fill="#3e8bd5" fill-opacity=".4"/>
-<rect x="194.0" y="253.0" width="12" height="26.0" rx="4" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(-11 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-611-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- slender handle low-right -->
+  <path d="M282 372 L246 296" stroke="#1c2128" stroke-width="12" stroke-linecap="round"/>
+  <path d="M272 352 L284 346 M262 332 L274 326 M252 312 L264 306" stroke="#94a3b8" stroke-width="2.2"/>
+  <path d="M288 382 a7 7 0 1 0 .1 0" fill="#111318" stroke="#cbd5e1" stroke-width="2.4"/>
+  <path d="M244 292 C 238 282, 234 272, 232 262" fill="none" stroke="#475569" stroke-width="5"/>
+  <!-- THE MEMORY BOUNDARY: dashed frontier crossing the frame -->
+  <path d="M84 96 C 140 132, 178 180, 196 240 C 202 262, 204 284, 202 306" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="7 6"/>
+  <path d="M96 84 L104 96 M120 106 L128 118" stroke="#475569" stroke-width="1.4" opacity=".6"/>
+  <!-- THE DISC: almost colorless — rim drawn ONLY where it crosses the boundary -->
+  <circle cx="196" cy="188" r="96" fill="url(#bl611)" fill-opacity=".10"/>
+  <circle cx="196" cy="188" r="96" fill="none" stroke="#334155" stroke-width="1" stroke-dasharray="2 8" opacity=".5"/>
+  <!-- visible edge arc: bright ONLY across the boundary zone -->
+  <path d="M124 122 A 96 96 0 0 0 101 200" fill="none" stroke="#e2e8f0" stroke-width="3.4"/>
+  <path d="M124 122 A 96 96 0 0 0 101 200" fill="none" stroke="#e2e8f0" stroke-width="9" opacity=".15"/>
+  <path d="M118 130 L110 124 M104 160 L94 158 M103 190 L93 192" stroke="#cbd5e1" stroke-width="1.6"/>
+  <!-- BREATH PULSE RINGS: concentric, in the sleeper's slow rhythm -->
+  <circle cx="196" cy="188" r="20" fill="none" stroke="#94a3b8" stroke-width="1.8"/>
+  <circle cx="196" cy="188" r="38" fill="none" stroke="#64748b" stroke-width="1.5" opacity=".85"/>
+  <circle cx="196" cy="188" r="56" fill="none" stroke="#475569" stroke-width="1.3" opacity=".7"/>
+  <circle cx="196" cy="188" r="74" fill="none" stroke="#334155" stroke-width="1.2" opacity=".55"/>
+  <!-- slow-breath waveform across the center: long inhale, longer exhale -->
+  <path d="M148 188 C 160 176, 172 176, 184 188 C 200 204, 216 204, 232 188 C 240 180, 248 180, 254 186" fill="none" stroke="#e2e8f0" stroke-width="2"/>
+  <circle cx="196" cy="188" r="4" fill="#0b0d10" stroke="#e2e8f0" stroke-width="1.8"/>
+  <!-- the external stimulus severed OUTSIDE the boundary: a sound spike cut -->
+  <path d="M74 210 L86 204 L82 218 L94 212" fill="none" stroke="#cbd5e1" stroke-width="1.8"/>
+  <path d="M80 200 L92 216" stroke="#f1df76" stroke-width="2.4"/>
+  <!-- the internal memory NOT pursued: soft mote inside, ringed hands-off -->
+  <circle cx="232" cy="152" r="4" fill="#475569"/>
+  <circle cx="232" cy="152" r="11" fill="none" stroke="#64748b" stroke-width="1.2" stroke-dasharray="2 4"/>
+  <!-- rest-cycle tally near the collar: one complete undisturbed cycle -->
+  <path d="M236 250 L246 250 M241 245 L241 255" stroke="#f1df76" stroke-width="1.6"/>
+  <circle cx="241" cy="250" r="8" fill="none" stroke="#f1df76" stroke-width="1.2"/>
 </svg>
