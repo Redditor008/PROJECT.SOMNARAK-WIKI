@@ -30,6 +30,10 @@
 | **Maximum Amount** | 4 — Stocked |
 | **Echo Cost** | 20 Sorrow Echoes |
 
+### Appearance
+
+The Balance Veil is a pale balance veil of near-transparent Han glass-thread shaped like a folded sheet pressed close to the head and shoulders. It does not obscure the wearer's face or movement, but it makes the wearer feel less like a person and more like an entry in a ledger, as though the person inside the cloth had been temporarily converted into a measure. The fabric is cool, smooth, and almost weightless, and it hangs without swaying. When a debt is being measured the veil takes on a faint grey tint for as long as the reading lasts, then clears gradually. It cannot settle anything; it delays the emotional impact until the reading is complete, at which point the burden returns with full weight. In extended use, personal choices begin to feel like entries made by someone else, and the wearer forgets why they mattered. The veil is kept folded on a neutral shelf when not in use and returns to a flat, colourless shape once the reading ends.
+
 ### Protective Ability — Separate Account
 
 The Veil creates a temporary distinction between the bearer’s identity and a debt currently being measured. This allows a bearer to observe a reading without being wholly consumed by it.

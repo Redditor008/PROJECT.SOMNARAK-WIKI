@@ -26,7 +26,7 @@
 
 ### Appearance
 
-A near-transparent disc mounted in a short grip. The Lens becomes cloudy when pointed at a target carrying unacknowledged obligation and clears only after the bearer names what is being measured.
+The Debt Lens is a near-transparent Han-glass disc set into a short black grip, wide enough to cover a palm and thin enough to hold against a target at chest height. In ordinary light the disc is almost invisible; when pointed at a target carrying unacknowledged obligation it becomes cloudy from the edge inward, the cloud forming in bands that correspond to the weight of the debt. The lens clears only after the bearer names what is being measured, and even then a faint grey ring remains at the rim. The grip is short and straight, with a shallow thumb rest and a pale tether loop at the base. Held in a quiet room, the lens is cold; held near a Collector's ledger, it hums faintly. It reads obligation without deciding whether the obligation is just. The lens weighs almost nothing at rest, yet it presses forward against the grip with a small, constant pressure while it is reading.
 
 ---
 

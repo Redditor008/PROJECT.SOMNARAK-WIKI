@@ -27,7 +27,7 @@
 
 ### Appearance
 
-A tiny balance scale made of pale Han glass. It remains level in ordinary air and tips only when held near a person with a declared or hidden obligation.
+The Debt Scale is a tiny balance scale made of pale Han glass, small enough to rest on a finger and fine enough that its two pans hang level even when moved. In ordinary air the beam stays perfectly horizontal, and no jostling, wind, or changes in temperature disturb it. When held near a person carrying a declared or hidden obligation, one pan sinks by a precise amount: inherited debts tip slowly, imposed debts tip sharply, promised debts hold the beam trembling, and self-created debts bring it level only after a long pause. At the Archive's SECTOR C-01 the scale continues to tip toward an old Collector vault without being held by anyone. It does not tell the bearer what is fair; it tells the bearer what is carried. The scale hangs from a thin pale cord and never touches the person being measured, because contact would make the reading impossible. The two glass pans are so thin that light passes through them, and the whole charm is cold until it is brought near a declared obligation.
 
 ---
 

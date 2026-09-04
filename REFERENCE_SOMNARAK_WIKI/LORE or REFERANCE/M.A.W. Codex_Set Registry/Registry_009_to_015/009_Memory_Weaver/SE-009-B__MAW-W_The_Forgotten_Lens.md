@@ -27,7 +27,7 @@
 
 ### Appearance
 
-A pale Han-glass disc that flattens into a thin cutting plane when drawn. Faces sometimes appear on its surface, but never the face the bearer expects to see.
+The Forgotten Lens is a pale Han-glass disc that folds into a thin cutting plane when drawn, the two halves of the disc sliding until almost no thickness remains. In its resting shape the surface is smooth and slightly cloudy; in its drawn shape it becomes harder than Han-iron and almost invisible at the edge. Faces sometimes appear on the surface, but never the face the bearer expects to see. The images do not hold; they drift and smooth away as the lens cools. The grip is a short ring of pale glass mounted behind the disc, meant to be held between thumb and forefinger rather than gripped fully, and a thin tether runs from the ring to the bearer's wrist. When the lens cuts a memory thread, its surface clears completely for a moment and then fills with one small nameless memory that belongs to the wielder, not to the target.
 
 ---
 

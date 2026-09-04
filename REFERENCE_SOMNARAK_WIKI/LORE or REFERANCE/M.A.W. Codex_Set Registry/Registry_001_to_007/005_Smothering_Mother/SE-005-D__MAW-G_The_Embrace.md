@@ -27,7 +27,7 @@
 
 ### Appearance
 
-A crimson clasp shaped like two small arms meeting at the wrists. It fastens itself to a clothing seam, belt loop, or tail attachment and warms whenever someone nearby is frightened.
+The Embrace is a crimson clasp charm shaped like two small arms meeting at the wrists, the hands overlapping so that the clasp can fasten itself to a clothing seam, belt loop, or tail attachment without a cord. The metal is thin and warm to the touch, and the two arms are not identical: the left is slightly longer, the right slightly thicker, as though they were made for different hands. When someone nearby is frightened, the clasp closes a fraction tighter and warms from the wrist outward; when the fear passes it loosens and cools. On a stationary garment the clasp tends to drift toward the side of the wearer where the frightened person is standing. After a night in use the inner wrists leave a faint red mark on the fabric it has gripped, a mark that fades only after the wearer confirms the other person is safe.
 
 ---
 
@@ -47,9 +47,7 @@ The bearer develops a compulsion to keep nearby people within sight. After activ
 
 ## HISTORY OF USE
 
-A Gift bearer used Hold Fast during the Year 4,237 South Dock fire to keep a child from being pulled into a collapsing walkway. The child survived. The bearer then refused to leave the dock until every civilian was counted. The Gift cooled only after the last evacuation list was read aloud.
-
-The Archive records this as success and warning in equal measure.
+A Gift bearer used Hold Fast during the Year 4,237 South Dock fire to keep a child from being pulled into a collapsing walkway. The child survived. The bearer then refused to leave the dock until every civilian was counted. The Gift cooled only after the last evacuation list was read aloud. The Archive records this as success and warning in equal measure.
 
 ---
 

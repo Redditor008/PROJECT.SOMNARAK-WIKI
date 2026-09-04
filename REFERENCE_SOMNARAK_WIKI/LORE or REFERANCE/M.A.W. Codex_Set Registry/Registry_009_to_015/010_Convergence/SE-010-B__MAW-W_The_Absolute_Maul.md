@@ -27,7 +27,7 @@
 
 ### Appearance
 
-A black maul whose head contains three shallow impressions: an eye, a scale, and a wing. When carried, its shadow arrives a fraction of a second before the object itself.
+The Absolute Maul is a black two-hand maul of sealed Han steel, its head broad and heavy and its haft short enough to require both hands close together. Along the face run three shallow impressions: an eye, a scale, and a folded wing, each pressed to a different depth so that no two catch light at the same time. The metal is entirely without polish, and the head seems to drink the light around it. When carried, its shadow arrives a fraction of a second before the object itself, so that the floor darkens before the Maul reaches that space. The grip is black and ridged with an inset ring near the collar, and the haft is worn smooth where the previous bearer's hands rested. It has no current authorized bearer, and the dust in the workshop is never completely cleared from its face. Archive staff who handle it wear gloves, because the metal carries the temperature of whatever judgment it last witnessed.
 
 ---
 
@@ -59,9 +59,7 @@ After use, the bearer experiences every nearby person’s self-accusation as if 
 
 ## HISTORY OF USE
 
-The Maul was recovered after the fourth recorded Convergence separation. The extraction team found it embedded in a floor that had no visible impact crater. Three names were written around it in dust; all belonged to personnel who had survived but later Fractured.
-
-No current bearer has been authorized.
+The Maul was recovered after the fourth recorded Convergence separation. The extraction team found it embedded in a floor that had no visible impact crater. Three names were written around it in dust; all belonged to personnel who had survived but later Fractured. No current bearer has been authorized.
 
 ---
 

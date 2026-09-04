@@ -28,6 +28,10 @@
 | **Maximum Amount** | 4 — Stocked |
 | **Echo Cost** | 20 Sorrow Echoes |
 
+### Appearance
+
+The Lost Veil is a pale orientation veil of near-transparent Han glass-thread that drapes over the head and shoulders without affecting the wearer's sight. In ordinary rooms it is almost invisible; inside an unstable route it gathers a faint cool haze along one edge, which is the direction back toward the anchor the wearer set before entering. The veil records only one anchor at a time. When a second anchor is set, the old direction vanishes completely, and the fabric settles back to neutral. The cloth does not warm or weigh while a return path is active; it simply holds a tension in one corner. On removal, the wearer feels faintly absent from whichever place was used as the anchor, and people there may describe them as hard to place until the next visit. The haze gathers at the lower corner near the heart, where the recorded return direction is held, and it never brightens or fades until the anchor is replaced.
+
 ### Ability — Return Vector
 
 When the wearer sets a physical anchor before entering an unstable route, the Veil retains the direction back to that anchor through moderate Void interference.

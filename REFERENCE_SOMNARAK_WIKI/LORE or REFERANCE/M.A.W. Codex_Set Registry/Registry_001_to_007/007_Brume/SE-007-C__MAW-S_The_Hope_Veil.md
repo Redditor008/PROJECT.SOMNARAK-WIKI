@@ -26,7 +26,7 @@
 
 ### Appearance
 
-A near-transparent veil of pale Han gossamer. Inside Brume, it catches dim points of light that form a loose outline around the wearer, making the bearer easier—not harder—for allies to locate.
+The Hope Veil is a near-transparent veil of pale Han gossamer, so fine that it can be folded to the size of a hand and worn loosely over the shoulders and head without hiding the wearer's face. Inside Brume the fabric catches small dim points of light that gather into a loose outline around the wearer, making the bearer easier, not harder, for allies to locate. The outline is never complete: it trembles at the edges and strengthens in the direction of the nearest active route anchor. In clear air the Veil is all but invisible, and only a faint cold fringe marks where it ends. When the bearer lies about a destination or moves more than fifty meters from the team anchor, the pale points scatter and the Veil stops holding the route. After removal the fabric is cool and leaves the wearer feeling briefly absent from the place they remember standing.
 
 ---
 
@@ -53,9 +53,7 @@ The wearer feels faintly absent after removal. For several hours, mirrors and me
 
 ## HISTORY OF USE
 
-A Hope Veil prevented the loss of a three-person survey crew during a fog retreat in Year 4,237. All three were visible to one another through a density that should have erased line of sight. The crew later admitted that the route card named the home of a fourth member who had died in an earlier expedition.
-
-The Veil held because the destination was honest, even though the person was gone.
+A Hope Veil prevented the loss of a three-person survey crew during a fog retreat in Year 4,237. All three were visible to one another through a density that should have erased line of sight. The crew later admitted that the route card named the home of a fourth member who had died in an earlier expedition. The Veil held because the destination was honest, even though the person was gone.
 
 ---
 

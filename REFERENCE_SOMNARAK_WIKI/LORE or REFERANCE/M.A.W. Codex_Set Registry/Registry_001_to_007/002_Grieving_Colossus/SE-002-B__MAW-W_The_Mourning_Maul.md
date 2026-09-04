@@ -27,7 +27,7 @@
 
 ### Appearance
 
-A black Han-steel maul with a face that seems too broad for the shaft supporting it. When set down, it dents ordinary flooring but rests weightlessly on architecture grown from the Colossus’s tears.
+The Mourning Maul is a black two-hand weapon of Han steel whose head seems too broad for the shaft beneath it, as if the metal remembered a larger body and refused to shrink. The face is flat and unpolished, marked by faint horizontal striations that catch light only when the Maul is lifted. The haft is ribbed and slightly longer than standard issue, wrapped in black Han-grip that darkens with repeated use. Set down on ordinary flooring, the Maul dents the surface almost immediately; set on architecture grown from the Colossus's tears, it rests without a trace of weight. A fine grey film gathers on the head after every procession and is never brushed away, because the dust is the only record of the route's dead. Carried near an approved memorial route, the metal stays cool and quiet; carried by someone who dismisses an identified death, it becomes too heavy to lift.
 
 ---
 

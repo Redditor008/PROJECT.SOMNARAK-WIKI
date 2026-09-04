@@ -28,6 +28,10 @@
 | Maximum Amount | 3 — Standard |
 | Echo Cost | 35 Sorrow Echoes |
 
+### Appearance
+
+The Silenced Shroud is a deep-blue song shroud of fine Han silk that wraps closely around the throat, shoulders, and upper arms without constricting the chest. It is cut narrow and hangs short, and when worn in a swell it stays cool against the skin while the surrounding pressure grows. The shroud separates the Choir's emotional pressure from the wearer's physical ability to speak, so that commands, singing, and lyric transcription continue through moderate Lament exposure. The cloth does not become quiet; it holds a faint tension in the weave that increases with each lyric it blocks. After removal the shroud releases those lines slowly so that the wearer hears one in sleep on different nights, returning each time until a single line is preserved in an official record. The collar stays slightly cool even after a long protection, and the fabric keeps the shape of the wearer's fall on them.
+
 ### Ability — Keep the Voice
 
 The Shroud separates the Choir’s emotional pressure from the wearer’s physical ability to speak. A bearer can continue to issue commands, sing, or record lyrics through moderate Lament exposure.

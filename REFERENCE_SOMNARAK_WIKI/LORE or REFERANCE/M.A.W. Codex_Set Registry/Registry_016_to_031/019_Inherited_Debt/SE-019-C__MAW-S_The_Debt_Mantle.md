@@ -28,6 +28,10 @@
 | Maximum Amount | 4 — Stocked |
 | Echo Cost | 20 Sorrow Echoes |
 
+### Appearance
+
+The Debt Mantle is a black Weight mantle of dense, unpolished Han fabric that falls from the shoulders to the knees in long, straight panels. It is heavier than it appears and settled, as though it had been inherited rather than merely put on. The cloth does not billow; it hangs almost motionless, and its inner lining is cold and smooth against the neck. When the wearer classifies one burden as inherited rather than personal, the panel nearest the heart darkens slightly, and the mantle holds the distinction for the length of the operation without removing any of the legal, emotional, or social consequences. After removal the mantle keeps a faint pale pressure mark where the deferred burden was held. The wearer is left tired in ways that do not feel like their own, old pain, old fear, old exhaustion. The mantle grows lighter only when the deferred burden is named aloud to another person, and for a short time the panel near the heart returns to black.
+
 ### Ability — Separate Ledger
 
 The Mantle lets the wearer classify one burden as inherited rather than personal for a limited operation. The distinction prevents immediate Weight collapse but does not erase legal, emotional, or social consequences.

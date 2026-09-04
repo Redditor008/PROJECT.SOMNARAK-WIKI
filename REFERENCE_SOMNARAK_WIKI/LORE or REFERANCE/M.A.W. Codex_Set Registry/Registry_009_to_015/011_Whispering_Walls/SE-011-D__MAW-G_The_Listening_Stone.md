@@ -27,7 +27,7 @@
 
 ### Appearance
 
-A small deep-blue stone with one flat face. When held to a wall, it becomes warm only where a whisper is ready to be heard.
+The Listening Stone is a small deep-blue crystal with one flat face polished smooth and the other left rough and grey. It fits easily inside a closed fist and carries no visible marking. When held against a wall, the flat face warms only where a whisper is ready to be heard; the warm patch is small and precise, no larger than a coin, and it moves along the surface as the bearer shifts the stone. In ordinary air the stone stays cool and gives no reading. If the bearer asks it for a secret directly it remains stubbornly cold, because the wall decides what it can bear to say. After a successful reading the rough face holds a faint pale line until the bearer repeats the sentence into an official record or tells it to the person it was meant for. The rough face of the stone stays grey after any reading, and a line of pale frost gathers along the flat until the sentence is written down.
 
 ---
 

@@ -22,6 +22,10 @@
 | **Maximum Amount** | 4 — Stocked |
 | **Echo Cost** | 25 Sorrow Echoes |
 
+### Appearance
+
+The Lost Lens is a pale Void lens blade made of near-transparent Han glass mounted in a short black grip. In clear light the glass looks almost empty, but held against a false route it darkens slightly along the direction the obstacle's sorrow is trying to mislead the bearer. The edge is not visibly sharp; it becomes a cutting plane only when the bearer names a lost thing and points the Lens at an obstacle. When the blade cuts, it does so along a false bearing rather than ordinary geometry, so the strike arrives where the enemy wanted the bearer to look. The grip is short and cold, marked by a small compass notch at the pommel. After each use, one route the bearer once knew well feels unfamiliar, even when the map still reads correctly. The Lens does not retain the direction it cut; after the strike the glass clears, and the false route closes behind it as if it had never been opened.
+
 ### Ability — Correct the Bearing
 
 **Damage:** Void 5–9  

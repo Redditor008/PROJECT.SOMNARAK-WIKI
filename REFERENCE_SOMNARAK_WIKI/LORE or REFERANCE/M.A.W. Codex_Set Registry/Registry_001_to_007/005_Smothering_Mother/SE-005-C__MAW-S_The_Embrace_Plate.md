@@ -26,7 +26,7 @@
 
 ### Appearance
 
-A crimson harness of overlapping Han-iron plates. The plates tighten around the wearer’s ribs when an ally is injured nearby. At full activation, the armor feels like a firm embrace that makes breathing difficult but possible.
+The Embrace Plate is a crimson harness of overlapping Han-iron plates, fitted to the torso, shoulders, and lower ribs with narrow black straps and a single central buckle that cannot be opened from the outside. Each plate is slightly curved inward so that the whole harness reads like a closed set of arms around the chest. When an ally within five meters takes direct physical damage, the plates tighten around the wearer's ribs a notch at a time, closing until the armor feels like a firm embrace that makes breathing difficult but still possible. Upon full activation the metal runs warm along the inner surface and the buckle dims to a dull red. The wearer's movement grows heavier while the pressure is held, and the harness will not loosen until every marked ally is either confirmed safe or formally handed to another responder. The strap beneath the lower ribs leaves a red line after long wear, and the buckle stays warm until the absorbed pressure is released.
 
 ---
 
