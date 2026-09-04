@@ -19,6 +19,10 @@ A smooth black Han-steel stone fixed at the Head slot. It begins lead-cold and g
 
 The Gift appeared after a Ferrehan observer completed rotation without attempting direct River contact. Probability is 4%. It cannot be manufactured, requested, or emptied into storage.
 
+## Appearance
+
+The River Stone is a smooth black Han-steel stone fixed at the head slot. It begins lead-cold and gains mass without changing size, and its surface holds no reflection at all; a genuine Stone points its heaviest side toward the sluice return, wherever the bearer stands. It appeared after a Ferrehan observer completed rotation without attempting direct River contact, and it cannot be manufactured, requested, or emptied into storage. In function it absorbs sorrow from the immediate environment — enough to clear a monitoring room for evacuation — and every absorbed burden increases the bearer’s physical and emotional weight, until the Stone pins the head toward the return trench and demands discharge. Neck strain appears before the Stone feels heavy to the hand, which is the first corrosion sign; a bearer describing other people’s grief as inventory is the second. Enclosing the Stone preserves burden and creates a local undertow, and emptying it outside the sluice seeds a new Weight pool. Release seats the bearer above the return trench, heavy face downstream, one monitoring gate opened at a time until the Stone cools — and no one may measure the released burden as production yield. Shattering it produces a room-wide heavy wave.
+
 ## FUNCTION & COST
 
 **Grade / Element:** γ / Weight  

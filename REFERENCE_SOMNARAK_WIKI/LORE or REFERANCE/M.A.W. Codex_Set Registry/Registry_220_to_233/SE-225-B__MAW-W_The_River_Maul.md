@@ -21,6 +21,10 @@ It is shaped only from residue already condensed at the sealed monitoring sluice
 
 Zyrak first deployed it after a channel shift loaded an access bridge with sorrow. Three aligned strikes moved the pressure into a return trench. The bridge rose; Zyrak’s hair gained a permanent gray band matching the waterline.
 
+## Appearance
+
+The River Maul is a matte black two-handed maul of Han steel that quivers toward the downstream route whenever it is lifted. Its head contains no reservoir — by design, Weight enters one face and must leave the other — and an authentic Maul cannot be aimed directly upstream without rotating in the bearer’s hands. It is shaped only from residue already condensed at the sealed monitoring sluice, and binding requires a declared discharge path; no bearer may carry it beyond the mapped return network. In use it drives burden through up to three targets or structures along the declared flow, attacking Han reserves and karmic load, and the outlet rule is absolute: a strike without an open outlet stores the entire line inside the wielder. Each use increases bodily heaviness, and prolonged operation produces slight aging proportional to the burden redirected — the first bearer’s hair carries a permanent gray band matching the waterline. Obstructed outlets send the hit back through the bearer, and striking to collect Han roots the handle into the sluice floor. It is maintained resting across the open return trench until both faces reach the same temperature. Shutdown is the grip released while the head faces downstream.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

@@ -18,6 +18,10 @@ A cool blue Han-silk wrapping patterned with roots that end before reaching a ce
 
 Harin wore it during a rain-triggered expansion. Phantom trees, flowers, and crops moved across the cloth while the actual survey markers remained visible. The suit prevented Lament overload, but the successful containment brought no satisfaction for several hours.
 
+## Appearance
+
+The Seedless Shroud is a cool blue wrapping of Han-silk patterned with roots that end before reaching a center — growth interrupted, woven honestly into cloth. It condenses from mist over Unwitnessed’s boundary after Ferrehan, and it binds only to a wearer prepared to guard potential without claiming ownership of it. Worn during an expansion event, the fabric becomes a moving screen: phantom trees, flowers, and crops drift across the outer weave — every future the ground never grew — while the actual survey markers stay visible through it, and none of the imagined forms take root in the wearer’s mind. The cost follows the protection: minor joys go numb, and the deeper risk is a wearer who begins valuing hypothetical futures over present life. Fabric reaching toward a beginning the wearer treats as theirs is the first corrosion sign, and every present pleasure postponed for a possible later life is the last. It is maintained spread over barren ground away from the source site, one ordinary current object placed at its center and described without metaphor — the root pattern must stop short of it. Removal rolls the cloth inward from the unrealized edges while a partner keeps the present object visible.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

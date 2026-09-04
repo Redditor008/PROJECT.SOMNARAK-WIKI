@@ -19,6 +19,10 @@ A small crimson Han-iron Tail charm, dark and faintly warm. Its rust pattern res
 
 Patina granted the Charm after Mellda endured Ferrehan while refusing both sides’ demand that she identify the “true heirs” of the feud. Acquisition chance is 4%; it cannot be manufactured.
 
+## Appearance
+
+Patina Charm is a small crimson Han-iron charm worn at the tail, dark and faintly warm, its rust pattern resembling two boundary lines that never meet. The metal’s behavior is its function in miniature: it stays cool through a current, documented threat, and heats sharply the moment an old grievance is assigned to a living stranger by ancestry, district, accent, or inherited role. Patina granted it after a worker endured Ferrehan while refusing both sides’ demand to identify the “true heirs” of the feud, and it cannot be manufactured. As the audit point of its set, the Charm distinguishes present hostility from inherited accusation — it does not decide which history is correct, only warns when history is being converted into a living person’s essential nature. The bearer’s temper shortens whenever people ignore the distinction, and persistent heat around all unfamiliar people is the first corrosion sign. Treating every present grievance as inherited cools the Charm falsely and leaves current victims unprotected. Care requires recording one present harm and one inherited accusation from the same incident without collapsing either into the other, the Charm resting on neutral ground until both boundary lines cool separately.
+
 ## FUNCTION & COST
 
 **Grade / Element:** δ / Grudge  
