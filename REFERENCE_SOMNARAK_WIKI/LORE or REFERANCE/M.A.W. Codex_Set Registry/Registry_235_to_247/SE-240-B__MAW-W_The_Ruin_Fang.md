@@ -18,6 +18,10 @@ A dark crimson Han-iron fang whose wet edge outlines absent masonry when raised.
 
 During the *East Stair That Wasn’t There*, Fang removed a modern brace blocking a phantom evacuation route. Durivel refused to cut a remembered wall when the maps disagreed. The brace fell; his old shoulder wound bruised in the exact shape of the tenement’s missing banister.
 
+## Appearance
+
+The Ruin Fang is a dark crimson fang of Han iron whose wet edge does something no other blade does: raised inside a memorial footprint, it outlines absent masonry — the ghost-lines of walls, stairs, and banisters that no longer exist — in a thin red tracing along its edge. It forms from the overlap between two corroborated survivor maps, and it binds only to a wielder who can distinguish surviving evidence from reconstruction. In use the blade attacks one present obstruction crossing a corroborated lost boundary — a modern brace blocking a phantom evacuation route — and it cannot strike the absence itself; unsupported geometry makes the edge cut the wielder’s own remembered space instead. The cost is written on the body: the first bearer’s old shoulder wound bruised in the exact shape of a tenement’s missing banister. Imagined detail hardening into a replica edge is the first corrosion sign. It is maintained with independent room sketches laid on opposite sides of the blade, cleaning only the edge where both show the same boundary and leaving disputed sections wet and unusable. Shutdown steps outside the memorial footprint and lowers the Fang before the phantom room fades.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

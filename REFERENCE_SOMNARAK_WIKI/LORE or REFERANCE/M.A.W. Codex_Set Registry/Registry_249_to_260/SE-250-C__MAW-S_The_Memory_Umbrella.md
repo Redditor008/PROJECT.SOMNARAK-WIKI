@@ -18,6 +18,10 @@ A wearable blue Han-silk canopy with clear channels running from rim to sealed p
 
 Binding requires the wearer to carry two identity anchors and accept post-use processing duty. Iseulfros crossed a heavy garden fall under the first Umbrella; thirty-two stranger memories remained above her and required three shifts to catalogue.
 
+## Appearance
+
+The Memory Umbrella is a wearable canopy of blue Han-silk with clear channels running from rim to sealed processing pockets — rain equipment for a rain no forecast covers. It condenses from mist around successfully catalogued drops, and it binds to a wearer who carries two identity anchors and accepts post-use processing duty, because the canopy’s protection is a debt: memory droplets enter the labeled channels instead of the wearer’s mind, but the Umbrella does not destroy or anonymize what it catches. Every stored memory must later be processed — the first wearer crossed a heavy garden fall and spent three shifts cataloguing the thirty-two stranger memories that remained above her. Saturation exposes the wearer to all of them simultaneously. Drops losing provenance when compartments merge is the mixed-channel failure, and Void drying leaves memories as facts without emotional identity. Closing the canopy before processing turns it into a memory reservoir, which is why folding a loaded Umbrella is prohibited outright. It is maintained by opening each channel over a separate Archive tray, a recorder logging sensory content and uncertainty before the next pocket is released. The canopy stays open until every drop is transferred.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

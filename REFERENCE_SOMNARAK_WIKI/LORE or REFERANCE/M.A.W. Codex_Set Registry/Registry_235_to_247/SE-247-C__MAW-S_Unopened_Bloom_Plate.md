@@ -18,6 +18,10 @@ A dark crimson Han-iron harness arranged like overlapping split petals. It smell
 
 Iseulfros wore it during a spore breach near a broken memorial. The armor resisted the Crimson field long enough to clear civilians, but dulled her reflexes whenever she reached toward the Bloom itself.
 
+## Appearance
+
+The Unopened Bloom Plate is a dark crimson harness of Han iron arranged like overlapping split petals, and it smells permanently of char and crushed flowers. Each plate carries the pattern of the Bloom’s tear, and polishing that pattern away causes outright rejection — the armor insists on its own damage being visible. It condenses after a no-touch Ferrehan cycle and binds to a wearer who records damage before attempting repair. In the field the plates harden against aggression reaching the torn form, holding a Crimson field long enough to clear civilians — but protection drops the moment the wearer conceals, replaces, or handles the original damage. The cost accumulates around good intentions: reflexes dull as resentment armor thickens, worst around repair tools, and the first wearer froze every time she reached toward the Bloom itself. New memorial material fusing to the armor is the replacement-shell failure, and erased provenance passes through the weak seams as Void rot. It is maintained by opening each petal plate and documenting every new scratch separately from the source tear, removing only loose residue. Removal requires a witness standing between wearer and memorial while the harness opens from the outermost undamaged plate.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

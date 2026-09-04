@@ -19,6 +19,10 @@ A near-colorless Han-gossamer veil with thirteen pale seams running from collar 
 
 Binding requires an external timekeeper and a pre-contact identity statement. Iseulfros wore it during a residual whisper test; the suit resisted the Void, but at second eleven she experienced her own name as information about an absent person.
 
+## Appearance
+
+The Unknown Extraction Veil is a near-colorless suit of Han gossamer with thirteen pale seams running from collar to floor — and the seams are a clock: one darkens for each second of an active whisper, counting down the only protection the garment offers. The same prohibited historical event produced it. Binding requires an external timekeeper and a pre-contact identity statement spoken aloud. Worn in contact, each seam takes one second of identity pressure; at the final seam, protection ends regardless of content or listener readiness — the fourteenth second delivers all stored Void into the wearer. The cost begins earlier: the wearer feels faintly absent, and may treat the whispered truth as more real than the self hearing it — at second eleven of its one test, the wearer experienced her own name as information about an absent person. Inner heat turning the garment toward the Gate is the warm-side pull; the Veil must never touch the threshold line. Maintenance counts every seam under neutral light while a partner repeats the identity statement; any seam that stays dark seals the unit from reuse. The timekeeper lifts the collar immediately after second thirteen — the wearer never removes it alone.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

@@ -18,6 +18,10 @@ A black two-handed Han-steel maul whose faces display incomplete plan sections. 
 
 Binding requires the wielder to state who a structure was intended to serve and why finishing it now may repeat the loss. During the *Door Without a Room*, Durivel struck a present load fracture along the intended support line while leaving the absent doorway untouched. His arms aged visibly through the third blow.
 
+## Appearance
+
+The Architect’s Maul is a black two-handed maul of Han steel whose striking faces display incomplete plan sections — walls that stop mid-line, stairs that reach no landing, drawn in the metal itself. It forms from blueprint residue after purpose is documented without construction, and its binding is an act of restraint: the wielder states who the structure was intended to serve and why finishing it now may repeat the loss. In use it sends Weight through up to three connected structural targets matching the plan’s present load path — striking the fracture that exists, along the line that was intended — and it cannot create the missing element or make unoccupied design safe. The cost is age: the wielder grows heavier and older with prolonged operation, the first bearer’s arms aging visibly through the third blow. A completion strike materializes the absent element hollow and unstable, and a bearer lost inside future plans suffers blueprint aging. It is maintained resting its head on a current support outside the phantom plan, reading intended use and present use separately, and the missing plan face is always left blank. Shutdown grounds the Maul before the last required strike becomes a completion impulse.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

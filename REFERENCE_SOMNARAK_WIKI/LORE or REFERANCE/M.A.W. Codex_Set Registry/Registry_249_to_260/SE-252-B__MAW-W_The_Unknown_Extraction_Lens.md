@@ -19,6 +19,10 @@ A pale Han-glass disc held in a long black frame. Its surface remains blank unti
 
 The unit predates current extraction rules. Binding requires the wielder to stand with back to the Gate and name the sealed field receiving the discharge. During the only authorized modern test, Zyrak dispersed residual Void from an empty monitoring chamber and lost the memory of why one childhood word had mattered.
 
+## Appearance
+
+The Unknown Extraction Lens is a pale disc of Han glass held in a long black frame, and its surface stays blank until a Gate whisper enters the room — then it fractures the fragment into center, inner, and outer dissipation zones, a target diagram for what must not be read. The unit predates current extraction rules. Binding requires the wielder to stand with their back to the Gate and name the sealed field receiving the discharge. In use it converts one quarantined whisper fragment into a controlled long-area Void burst aimed away from all persons and the threshold; it does not reveal, preserve, or validate content — dissipation is the entire function. The cost is subtraction: small nameless memories disappear with each discharge, and the only modern test cost its wielder the memory of why one childhood word had mattered. Aiming at the Gate creates a false hinge in space, and decoding the burst traps the truth in the wielder. Maintenance stores it face-down in a sealed dissipation room for thirteen silent seconds, verified image-free before the case closes. Shutdown rotates the frame away from the threshold and grounds it in the empty field; an active disc is never covered by hand.
+
 ## STATISTICS & FUNCTION
 
 | Field | Record |
