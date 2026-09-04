@@ -4,10 +4,13 @@
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="g0011" cx="50%" cy="46%" r="46%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".24"/>
+    <radialGradient id="g0011" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <filter id="f011" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg011)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
@@ -15,20 +18,23 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
 
-  <!-- Listening Stone: flat-faced smooth pebble pendant with warm spark + sentence card -->
-  <path d="M200 74 L200 130" stroke="#7dd3fc" stroke-width="2.4"/>
-  <circle cx="200" cy="70" r="10" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
+  <!-- Listening Stone: flat-faced pebble pendant, warm spark, sentence card -->
+  <path d="M200 66 L200 124" stroke="#7dd3fc" stroke-width="2.4"/>
+  <circle cx="200" cy="62" r="11" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
   <!-- stone -->
-  <ellipse cx="200" cy="204" rx="90" ry="74" fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
-  <path d="M150 180 L250 180 M140 236 L260 236" stroke="#38bdf8" stroke-width="1" opacity=".5"/>
-  <!-- warm point -->
-  <circle cx="238" cy="176" r="8" fill="#f1df76"/>
-  <circle cx="238" cy="176" r="16" fill="none" stroke="#f1df76" stroke-width="1" opacity=".6"/>
+  <ellipse cx="200" cy="202" rx="90" ry="76" fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
+  <ellipse cx="200" cy="202" rx="78" ry="64" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".55"/>
+  <path d="M150 176 L250 176 M142 240 L258 240" stroke="#38bdf8" stroke-width="1" opacity=".55"/>
+  <path d="M162 208 L238 208" stroke="#38bdf8" stroke-width="1" opacity=".4"/>
+  <!-- warm spark -->
+  <circle cx="242" cy="172" r="9" fill="#f1df76"/>
+  <circle cx="242" cy="172" r="18" fill="none" stroke="#f1df76" stroke-width="1" opacity=".6"/>
+  <circle cx="242" cy="172" r="27" fill="none" stroke="#f1df76" stroke-width=".8" opacity=".35" filter="url(#f011)"/>
   <!-- sentence card -->
-  <rect x="150" y="286" width="100" height="18" rx="2" fill="#082f49" stroke="#7dd3fc" stroke-width="1.4"/>
-  <path d="M158 295 L196 295 M204 295 L242 295" stroke="#7dd3fc" stroke-width="1" opacity=".8"/>
-  <!-- carrying loop + ring -->
-  <path d="M290 148 L290 200 M110 148 L110 200" stroke="#7dd3fc" stroke-width="1.6" opacity=".6"/>
-  <circle cx="290" cy="206" r="6" fill="none" stroke="#f1df76" stroke-width="1.6"/>
-  <circle cx="110" cy="206" r="6" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <rect x="148" y="288" width="104" height="18" rx="2" fill="#082f49" stroke="#7dd3fc" stroke-width="1.4"/>
+  <path d="M156 297 L196 297 M204 297 L244 297" stroke="#7dd3fc" stroke-width="1" opacity=".8"/>
+  <!-- wear loops -->
+  <path d="M290 140 L290 200 M110 140 L110 200" stroke="#7dd3fc" stroke-width="1.6" opacity=".6"/>
+  <circle cx="290" cy="206" r="7" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <circle cx="110" cy="206" r="7" fill="none" stroke="#f1df76" stroke-width="1.6"/>
 </svg>

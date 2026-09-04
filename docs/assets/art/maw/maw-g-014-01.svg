@@ -4,10 +4,13 @@
       <stop offset="0%" stop-color="#1c1917"/>
       <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <radialGradient id="g0014" cx="50%" cy="46%" r="46%">
+    <radialGradient id="g0014" cx="50%" cy="46%" r="50%">
       <stop offset="0%" stop-color="#fde68a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <filter id="f014b" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg014)" stroke="#fde68a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
@@ -15,22 +18,29 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#fde68a" stroke-width="1.2"/>
   <text x="30" y="36" fill="#fde68a" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
 
-  <!-- Debt Scale: balance pendant chain + oval frame, geometric pan marks -->
+  <!-- Debt Scale: balance pendant, oval frame, geometric pans -->
   <path d="M200 78 L200 118" stroke="#fde68a" stroke-width="2.4"/>
-  <circle cx="200" cy="74" r="10" fill="#292524" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="74" r="11" fill="#292524" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="74" r="3.4" fill="#f1df76"/>
   <!-- stem -->
   <path d="M196 120 L204 120 L204 208 L200 232 L196 208 Z" fill="#451a03" stroke="#fde68a" stroke-width="1.6"/>
+  <circle cx="200" cy="120" r="5" fill="#292524" stroke="#fde68a" stroke-width="1.4"/>
   <!-- beam -->
-  <path d="M146 150 L254 164" stroke="#fde68a" stroke-width="3"/>
-  <!-- left pan -->
-  <path d="M146 150 L146 196" stroke="#fde68a" stroke-width="2"/>
-  <path d="M132 196 L160 196 Q146 204 146 204 Q132 204 132 196 Z" fill="#451a03" stroke="#fde68a" stroke-width="1.6"/>
-  <!-- right pan -->
-  <path d="M254 164 L254 192" stroke="#fde68a" stroke-width="2"/>
-  <path d="M240 192 L268 192 Q254 200 254 200 Q240 200 240 192 Z" fill="#451a03" stroke="#fde68a" stroke-width="1.6"/>
+  <path d="M140 152 L260 168" stroke="#fde68a" stroke-width="3"/>
+  <circle cx="200" cy="160" r="4" fill="#451a03" stroke="#fde68a" stroke-width="1.4"/>
+  <path d="M140 152 L128 148 M260 168 L272 164" stroke="#fde68a" stroke-width="1.8"/>
+  <!-- pans -->
+  <path d="M140 152 L140 196" stroke="#fde68a" stroke-width="2"/>
+  <path d="M124 196 L156 196 Q140 204 140 204 Q124 204 124 196 Z" fill="#451a03" stroke="#fde68a" stroke-width="1.6"/>
+  <path d="M260 168 L260 194" stroke="#fde68a" stroke-width="2"/>
+  <path d="M244 194 L276 194 Q260 202 260 202 Q244 202 244 194 Z" fill="#451a03" stroke="#fde68a" stroke-width="1.6"/>
   <!-- oval frame -->
-  <ellipse cx="200" cy="168" rx="78" ry="118" fill="none" stroke="#fde68a" stroke-width="2" opacity=".7"/>
+  <ellipse cx="200" cy="178" rx="82" ry="118" fill="none" stroke="#fde68a" stroke-width="2" opacity=".7"/>
+  <ellipse cx="200" cy="178" rx="72" ry="108" fill="none" stroke="#fff7cc" stroke-width=".8" opacity=".45"/>
   <!-- collector scroll -->
-  <rect x="262" y="232" width="52" height="22" rx="2" fill="#451a03" stroke="#fde68a" stroke-width="1.4"/>
-  <path d="M270 240 L306 240 M270 248 L296 248" stroke="#fde68a" stroke-width="1" opacity=".8"/>
+  <rect x="262" y="236" width="54" height="22" rx="2" fill="#451a03" stroke="#fde68a" stroke-width="1.4"/>
+  <path d="M270 244 L308 244 M270 252 L298 252" stroke="#fde68a" stroke-width="1" opacity=".8"/>
+  <!-- weight beads -->
+  <circle cx="128" cy="238" r="4" fill="#fde68a" opacity=".6" filter="url(#f014b)"/>
+  <circle cx="284" cy="112" r="4" fill="#fde68a" opacity=".5" filter="url(#f014b)"/>
 </svg>

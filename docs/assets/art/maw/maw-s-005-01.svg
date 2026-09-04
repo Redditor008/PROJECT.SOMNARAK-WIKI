@@ -4,8 +4,8 @@
       <stop offset="0%" stop-color="#1c1917"/>
       <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <radialGradient id="gs005" cx="50%" cy="46%" r="46%">
-      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".24"/>
+    <radialGradient id="gs005" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
@@ -15,15 +15,21 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">SUIT</text>
 
-  <!-- Embrace Plate: rounded vest plate with layered waist bands + harness straps -->
-  <path d="M126 132 L274 132 L286 240 Q200 288 114 240 Z" fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
-  <path d="M126 132 L274 132" stroke="#fb7185" stroke-width="1.4" opacity=".8"/>
-  <path d="M138 176 L262 176 M142 208 L258 208 M146 240 L254 240" stroke="#fb7185" stroke-width="1.2" opacity=".7"/>
-  <!-- shoulder + waist harness straps -->
-  <path d="M132 136 L162 208" stroke="#f1df76" stroke-width="4"/>
-  <path d="M268 136 L238 208" stroke="#f1df76" stroke-width="4"/>
-  <rect x="180" y="200" width="40" height="18" rx="3" fill="#450a0a" stroke="#f1df76" stroke-width="1.8"/>
+  <!-- Embrace Plate: rounded vest plate, layered bands, harness -->
+  <path d="M124 128 L276 128 L286 196 L274 216 L290 252 Q200 304 110 252 L126 216 L114 196 Z"
+        fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
+  <path d="M124 128 L276 128" stroke="#fb7185" stroke-width="1.4" opacity=".8"/>
+  <path d="M134 168 L266 168 M138 200 L262 200 M128 244 L272 244" stroke="#fb7185" stroke-width="1.2" opacity=".7"/>
+  <path d="M130 244 L200 270 L270 244" fill="none" stroke="#ef5b55" stroke-width="1.2" opacity=".65"/>
+  <!-- inner plate relief -->
+  <path d="M154 148 L246 148 M148 232 L252 232" stroke="#fca5a5" stroke-width="1" opacity=".45"/>
+
+  <!-- harness straps + buckle -->
+  <path d="M130 132 L160 208" stroke="#f1df76" stroke-width="4"/>
+  <path d="M270 132 L240 208" stroke="#f1df76" stroke-width="4"/>
+  <rect x="180" y="202" width="40" height="18" rx="3" fill="#450a0a" stroke="#f1df76" stroke-width="1.8"/>
+  <path d="M138 132 L262 132" stroke="#f1df76" stroke-width="2.4"/>
   <!-- shoulder loops -->
-  <circle cx="140" cy="148" r="8" fill="none" stroke="#f1df76" stroke-width="2"/>
-  <circle cx="260" cy="148" r="8" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="142" cy="148" r="7" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="258" cy="148" r="7" fill="none" stroke="#f1df76" stroke-width="2"/>
 </svg>

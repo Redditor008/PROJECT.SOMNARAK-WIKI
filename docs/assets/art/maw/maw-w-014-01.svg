@@ -4,10 +4,13 @@
       <stop offset="0%" stop-color="#1c1917"/>
       <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <radialGradient id="gw014" cx="50%" cy="46%" r="46%">
+    <radialGradient id="gw014" cx="50%" cy="46%" r="50%">
       <stop offset="0%" stop-color="#fde68a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <filter id="f014" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw014)" stroke="#fde68a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
@@ -15,15 +18,24 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#fde68a" stroke-width="1.2"/>
   <text x="30" y="36" fill="#fde68a" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- Debt Lens: round pale glass disc lens angled in a bracket, collinear grip -->
-  <circle cx="200" cy="168" r="86" fill="#292524" stroke="#fde68a" stroke-width="3"/>
-  <circle cx="200" cy="168" r="64" fill="#451a03" stroke="#fde68a" stroke-width="2.4"/>
-  <path d="M164 150 L236 168 M216 196 L176 204" stroke="#fff7cc" stroke-width="1.6" opacity=".8"/>
+  <!-- record ledger lines -->
+  <path d="M92 96 L148 86 M252 112 L308 102" stroke="#fde68a" stroke-width="1" opacity=".3"/>
+
+  <!-- Debt Lens: round pale glass disc lens, concentric rings -->
+  <circle cx="200" cy="168" r="90" fill="#292524" stroke="#fde68a" stroke-width="3"/>
+  <circle cx="200" cy="168" r="68" fill="#451a03" stroke="#fde68a" stroke-width="2.4"/>
+  <circle cx="200" cy="168" r="48" fill="none" stroke="#fff7cc" stroke-width="1.2" opacity=".6"/>
+  <path d="M168 150 L236 168 M214 196 L174 204" stroke="#fff7cc" stroke-width="1.6" opacity=".8"/>
+  <path d="M162 186 L190 170 M240 170 L210 186" stroke="#fde68a" stroke-width="1.2" opacity=".7"/>
   <!-- bracket clamp -->
-  <path d="M148 78 L252 78 L246 96 L154 96 Z" fill="#292524" stroke="#fde68a" stroke-width="2"/>
-  <!-- collinear grip straight down from ring -->
-  <path d="M182 252 L218 252 L214 264 L186 264 Z" fill="#292524" stroke="#fde68a" stroke-width="2"/>
-  <rect x="190" y="264" width="20" height="78" rx="6" fill="#451a03" stroke="#fde68a" stroke-width="2.4"/>
-  <path d="M192 276 L208 284 M192 292 L208 300 M192 308 L208 316 M192 324 L208 332" stroke="#fff7cc" stroke-width="1.4" opacity=".8"/>
-  <circle cx="200" cy="352" r="8" fill="#292524" stroke="#f1df76" stroke-width="2"/>
+  <path d="M146 74 L254 74 L248 94 L152 94 Z" fill="#292524" stroke="#fde68a" stroke-width="2"/>
+  <!-- collinear grip -->
+  <path d="M180 256 L220 256 L216 270 L184 270 Z" fill="#292524" stroke="#fde68a" stroke-width="2"/>
+  <rect x="190" y="270" width="20" height="78" rx="6" fill="#451a03" stroke="#fde68a" stroke-width="2.4"/>
+  <path d="M192 284 L208 292 M192 302 L208 310 M192 320 L208 328" stroke="#fff7cc" stroke-width="1.4" opacity=".8"/>
+  <path d="M190 260 L210 260 M190 344 L210 344" stroke="#fde68a" stroke-width="1.2"/>
+  <circle cx="200" cy="354" r="9" fill="#292524" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="354" r="3" fill="#f1df76"/>
+  <!-- mote -->
+  <circle cx="318" cy="96" r="4" fill="#fde68a" opacity=".5" filter="url(#f014)"/>
 </svg>

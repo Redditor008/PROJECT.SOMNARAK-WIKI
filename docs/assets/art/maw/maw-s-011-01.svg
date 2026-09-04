@@ -4,8 +4,8 @@
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gs011" cx="50%" cy="46%" r="46%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".24"/>
+    <radialGradient id="gs011" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
@@ -15,16 +15,17 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">SUIT</text>
 
-  <!-- Listening Shroud: long flowing shroud, split trailing hem -->
-  <path d="M150 92 Q200 72 250 92 L262 230 Q236 272 206 240 Q200 284 190 240 Q166 272 142 230 Z"
+  <!-- Listening Shroud: flowing shroud, split trailing hem, resonance strip -->
+  <path d="M148 88 Q200 68 252 88 L266 200 Q260 224 246 232 L242 258 Q224 282 206 252 Q200 288 194 252 Q176 282 158 258 L154 232 Q140 224 134 200 Z"
         fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
-  <path d="M162 150 L238 150" stroke="#38bdf8" stroke-width="1.2" opacity=".7"/>
-  <path d="M158 196 L242 196" stroke="#38bdf8" stroke-width="1.2" opacity=".7"/>
-  <!-- isolated channel: straight vertical relief, no mouth-like shape -->
-  <path d="M168 176 L168 232" stroke="#f1df76" stroke-width="2"/>
-  <circle cx="168" cy="244" r="7" fill="#082f49" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M160 144 L240 144 M156 190 L244 190" stroke="#38bdf8" stroke-width="1.2" opacity=".7"/>
+  <path d="M142 226 L258 226" stroke="#38bdf8" stroke-width="1" opacity=".5"/>
+  <!-- resonance relief strip -->
+  <path d="M170 172 L170 226" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="170" cy="238" r="7" fill="#082f49" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M158 108 L242 108" stroke="#7dd3fc" stroke-width="1" opacity=".5"/>
   <!-- hood knot + draw cords -->
-  <path d="M200 88 L200 64" stroke="#7dd3fc" stroke-width="2.4"/>
-  <circle cx="200" cy="60" r="8" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
-  <path d="M170 100 L170 122 M230 100 L230 122" stroke="#7dd3fc" stroke-width="2"/>
+  <path d="M200 84 L200 60" stroke="#7dd3fc" stroke-width="2.4"/>
+  <circle cx="200" cy="56" r="9" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
+  <path d="M168 96 L168 118 M232 96 L232 118" stroke="#7dd3fc" stroke-width="2"/>
 </svg>

@@ -4,8 +4,8 @@
       <stop offset="0%" stop-color="#1c1917"/>
       <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <radialGradient id="g0002" cx="50%" cy="46%" r="46%">
-      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".24"/>
+    <radialGradient id="g0002" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
@@ -15,18 +15,27 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
 
-  <!-- Mourning Shell: bar-shaped crown with headband + latch -->
-  <path d="M94 168 Q94 118 150 112 L250 112 Q306 118 306 168 L306 196 Q250 204 200 204 Q150 204 94 196 Z"
+  <!-- Mourning Shell: segmented crown plate with headband + latch -->
+  <path d="M92 160 Q92 110 148 104 L252 104 Q308 110 308 160 L308 192 Q254 202 200 202 Q146 202 92 192 Z"
         fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
-  <path d="M120 150 L280 150" stroke="#fca5a5" stroke-width="1.6" opacity=".8"/>
-  <g fill="#450a0a" stroke="#fca5a5" stroke-width="1.2">
-    <rect x="138" y="126" width="22" height="10" rx="2"/>
-    <rect x="190" y="126" width="20" height="10" rx="2"/>
-    <rect x="240" y="126" width="22" height="10" rx="2"/>
+  <path d="M92 160 Q92 120 150 114 L250 114 Q308 120 308 160" fill="none" stroke="#fca5a5" stroke-width="1.2" opacity=".7"/>
+  <!-- crown slots -->
+  <g fill="#450a0a" stroke="#fca5a5" stroke-width="1.4">
+    <rect x="120" y="126" width="34" height="18" rx="3"/>
+    <rect x="183" y="120" width="34" height="18" rx="3"/>
+    <rect x="246" y="126" width="34" height="18" rx="3"/>
   </g>
+  <path d="M118 160 L282 160" stroke="#ef5b55" stroke-width="1.4" opacity=".8"/>
+  <!-- side flanges -->
+  <path d="M108 192 L104 214 L120 206 L120 196 Z M292 192 L296 214 L280 206 L280 196 Z" fill="#292524" stroke="#ef5b55" stroke-width="1.4"/>
+
   <!-- headband -->
-  <path d="M100 210 L100 268 Q140 286 200 286 Q260 286 300 268 L300 210 Q200 236 100 210 Z" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
+  <path d="M100 214 L100 272 Q140 292 200 292 Q260 292 300 272 L300 214 Q200 240 100 214 Z"
+        fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
+  <path d="M110 244 L290 244" stroke="#ef5b55" stroke-width="1" opacity=".5"/>
   <!-- latch -->
-  <rect x="186" y="242" width="28" height="18" rx="3" fill="#7f1d1d" stroke="#f1df76" stroke-width="1.8"/>
-  <circle cx="200" cy="251" r="3" fill="#f1df76"/>
+  <rect x="184" y="250" width="32" height="20" rx="3" fill="#7f1d1d" stroke="#f1df76" stroke-width="1.8"/>
+  <circle cx="200" cy="260" r="4" fill="#f1df76"/>
+  <!-- hanging loop -->
+  <circle cx="200" cy="308" r="7" fill="none" stroke="#f1df76" stroke-width="1.6"/>
 </svg>

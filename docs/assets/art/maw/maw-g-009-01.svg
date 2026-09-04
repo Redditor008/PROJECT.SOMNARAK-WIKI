@@ -4,8 +4,8 @@
       <stop offset="0%" stop-color="#082f49"/>
       <stop offset="100%" stop-color="#020617"/>
     </radialGradient>
-    <radialGradient id="g0009" cx="50%" cy="46%" r="46%">
-      <stop offset="0%" stop-color="#67e8f9" stop-opacity=".22"/>
+    <radialGradient id="g0009" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#67e8f9" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
@@ -15,20 +15,20 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#020617" stroke="#67e8f9" stroke-width="1.2"/>
   <text x="30" y="36" fill="#67e8f9" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
 
-  <!-- Forgotten Mask: pale oval mask, woven X-seam vent (no face) -->
-  <ellipse cx="200" cy="196" rx="92" ry="116" fill="#082f49" stroke="#a5f3fc" stroke-width="3"/>
-  <!-- criss-cross weave seams across the whole face -->
-  <path d="M136 152 L264 240 M264 152 L136 240" stroke="#e0f2fe" stroke-width="2"/>
-  <path d="M154 138 L246 214 M246 138 L154 214" stroke="#e0f2fe" stroke-width="1.2" opacity=".6"/>
-  <path d="M154 252 L246 178 M246 252 L154 178" stroke="#e0f2fe" stroke-width="1.2" opacity=".6"/>
-  <!-- vent slot: single diagonal mark -->
-  <path d="M178 196 L222 214" stroke="#e0f2fe" stroke-width="2.4"/>
-
+  <!-- Forgotten Mask: pale oval woven mask with criss-cross seams -->
+  <ellipse cx="200" cy="196" rx="92" ry="118" fill="#082f49" stroke="#a5f3fc" stroke-width="3"/>
+  <ellipse cx="200" cy="196" rx="82" ry="108" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".55"/>
+  <path d="M134 154 L266 240 M266 154 L134 240" stroke="#e0f2fe" stroke-width="2"/>
+  <path d="M152 140 L248 216 M248 140 L152 216" stroke="#e0f2fe" stroke-width="1.2" opacity=".6"/>
+  <path d="M152 254 L248 178 M248 254 L152 178" stroke="#e0f2fe" stroke-width="1.2" opacity=".6"/>
+  <!-- gear ring -->
+  <circle cx="200" cy="196" r="40" fill="none" stroke="#a5f3fc" stroke-width="1.2" opacity=".6" stroke-dasharray="4 4"/>
   <!-- wearing cord + rings + hooks -->
-  <path d="M200 84 L200 46" stroke="#a5f3fc" stroke-width="2.4"/>
-  <circle cx="200" cy="42" r="10" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
-  <path d="M150 100 L150 122 M250 100 L250 122" stroke="#a5f3fc" stroke-width="2"/>
-  <circle cx="138" cy="130" r="7" fill="none" stroke="#f1df76" stroke-width="2"/>
-  <circle cx="262" cy="130" r="7" fill="none" stroke="#f1df76" stroke-width="2"/>
-  <path d="M124 166 L140 176 M276 166 L260 176" stroke="#a5f3fc" stroke-width="2"/>
+  <path d="M200 82 L200 44" stroke="#a5f3fc" stroke-width="2.4"/>
+  <circle cx="200" cy="40" r="11" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="40" r="3.4" fill="#f1df76"/>
+  <path d="M148 96 L148 118 M252 96 L252 118" stroke="#a5f3fc" stroke-width="2"/>
+  <circle cx="136" cy="126" r="8" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="264" cy="126" r="8" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <path d="M120 160 L138 172 M280 160 L262 172" stroke="#a5f3fc" stroke-width="2"/>
 </svg>

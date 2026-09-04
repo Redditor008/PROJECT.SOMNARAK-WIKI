@@ -4,7 +4,7 @@
       <stop offset="0%" stop-color="#1c1917"/>
       <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <radialGradient id="gs014" cx="50%" cy="46%" r="46%">
+    <radialGradient id="gs014" cx="50%" cy="46%" r="50%">
       <stop offset="0%" stop-color="#fde68a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
@@ -15,16 +15,24 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#fde68a" stroke-width="1.2"/>
   <text x="30" y="36" fill="#fde68a" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">SUIT</text>
 
-  <!-- Debt Veil: transparent towering wrap with waist straps + buckle, straight seams -->
-  <path d="M156 116 L244 116 L252 220 Q200 256 148 220 Z" fill="#292524" stroke="#fde68a" stroke-width="3"/>
-  <path d="M162 150 L238 150 M158 186 L242 186" stroke="#fde68a" stroke-width="1.6" opacity=".8"/>
-  <path d="M162 150 L242 170 M158 186 L238 206" stroke="#fde68a" stroke-width="1" opacity=".5"/>
-  <!-- shoulder + waist straps, buckle -->
-  <path d="M160 120 L166 216 L174 238" stroke="#f1df76" stroke-width="3"/>
-  <path d="M240 120 L234 216 L226 238" stroke="#f1df76" stroke-width="3"/>
-  <rect x="184" y="188" width="32" height="18" rx="3" fill="#292524" stroke="#f1df76" stroke-width="1.8"/>
+  <!-- Debt Veil: transparent towering wrap, layered seams -->
+  <path d="M152 112 L248 112 L256 196 L246 220 L260 244 Q204 278 148 244 L162 220 L150 196 Z"
+        fill="#292524" stroke="#fde68a" stroke-width="3"/>
+  <path d="M160 146 L240 146 M154 182 L246 182 M156 224 L244 224" stroke="#fde68a" stroke-width="1.5" opacity=".8"/>
+  <path d="M160 146 L240 168 M154 182 L246 204" stroke="#fde68a" stroke-width="1" opacity=".5"/>
+  <!-- shoulder + waist straps -->
+  <path d="M156 116 L164 216 L174 244" stroke="#f1df76" stroke-width="3.4"/>
+  <path d="M244 116 L236 216 L226 244" stroke="#f1df76" stroke-width="3.4"/>
+  <path d="M156 204 L244 204" stroke="#f1df76" stroke-width="3"/>
+  <rect x="182" y="192" width="36" height="20" rx="3" fill="#292524" stroke="#f1df76" stroke-width="1.8"/>
+  <circle cx="168" cy="204" r="4" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <circle cx="232" cy="204" r="4" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <!-- drape cords -->
+  <path d="M162 244 L158 274 M238 244 L242 274" stroke="#fde68a" stroke-width="1.6"/>
+  <circle cx="158" cy="280" r="6" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <circle cx="242" cy="280" r="6" fill="none" stroke="#f1df76" stroke-width="1.6"/>
   <!-- six-hour badge -->
-  <path d="M200 238 L200 274" stroke="#fde68a" stroke-width="2"/>
-  <rect x="162" y="274" width="76" height="20" rx="3" fill="#292524" stroke="#fde68a" stroke-width="1.6"/>
-  <path d="M170 284 L230 284" stroke="#fde68a" stroke-width="1.2" opacity=".8"/>
+  <path d="M200 278 L200 304" stroke="#fde68a" stroke-width="1.6"/>
+  <rect x="162" y="304" width="76" height="20" rx="3" fill="#292524" stroke="#fde68a" stroke-width="1.6"/>
+  <path d="M170 314 L230 314" stroke="#fde68a" stroke-width="1.2" opacity=".8"/>
 </svg>

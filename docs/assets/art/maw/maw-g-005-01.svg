@@ -4,8 +4,8 @@
       <stop offset="0%" stop-color="#1c1917"/>
       <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <radialGradient id="g0005" cx="50%" cy="46%" r="46%">
-      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".24"/>
+    <radialGradient id="g0005" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
@@ -15,15 +15,19 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
 
-  <!-- Embrace: clasp-bar gift with pin latch -->
-  <path d="M118 132 Q118 88 152 84 L200 76 L248 84 Q282 88 282 132 L282 164 Q200 204 118 164 Z"
+  <!-- Embrace: clasp-bar gift, double wing flanges, pin latch -->
+  <path d="M116 130 Q116 86 152 82 L200 74 L248 82 Q284 86 284 130 L284 158 Q246 178 200 178 Q154 178 116 158 Z"
         fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
-  <path d="M126 112 L274 112" stroke="#fb7185" stroke-width="1.6" opacity=".8"/>
-  <path d="M150 150 L250 150" stroke="#f1df76" stroke-width="2"/>
-  <!-- pin / latch -->
-  <path d="M160 176 L240 176 L244 214 L156 214 Z" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
-  <circle cx="200" cy="195" r="5" fill="#f1df76"/>
+  <path d="M124 108 L276 108" stroke="#fb7185" stroke-width="1.6" opacity=".8"/>
+  <path d="M138 148 L262 148" stroke="#f1df76" stroke-width="2"/>
+  <!-- wing side flanges -->
+  <path d="M116 158 L100 176 L120 180 L120 158 Z M284 158 L300 176 L280 180 L280 158 Z" fill="#292524" stroke="#ef5b55" stroke-width="1.6"/>
+  <!-- pin block -->
+  <path d="M158 184 L242 184 L248 224 L152 224 Z" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
+  <path d="M166 204 L234 204" stroke="#fca5a5" stroke-width="1.2" opacity=".7"/>
+  <circle cx="200" cy="202" r="6" fill="#f1df76"/>
   <!-- hanging cord + ring -->
-  <path d="M200 76 L200 42" stroke="#ef5b55" stroke-width="2.4"/>
-  <circle cx="200" cy="38" r="9" fill="#292524" stroke="#f1df76" stroke-width="2"/>
+  <path d="M200 74 L200 44" stroke="#ef5b55" stroke-width="2.4"/>
+  <circle cx="200" cy="40" r="10" fill="#292524" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="40" r="3.4" fill="#f1df76"/>
 </svg>

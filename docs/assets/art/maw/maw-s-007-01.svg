@@ -4,28 +4,28 @@
       <stop offset="0%" stop-color="#1c1917"/>
       <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <radialGradient id="g0007" cx="50%" cy="46%" r="46%">
+    <radialGradient id="gs007" cx="50%" cy="46%" r="50%">
       <stop offset="0%" stop-color="#fde68a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bs007)" stroke="#fde68a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="132" fill="url(#g0007)"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gs007)"/>
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#fde68a" stroke-width="1.2"/>
   <text x="30" y="36" fill="#fde68a" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">SUIT</text>
 
-  <!-- Hope Veil: drifting fringed hood-shaped veil -->
-  <path d="M120 140 Q120 96 168 88 L232 88 Q280 96 280 140 L288 232 Q248 262 200 262 Q152 262 112 232 Z"
+  <!-- Hope Veil: drifting fringed hood, layered hem, hood draw-cord -->
+  <path d="M116 138 Q116 92 164 84 L236 84 Q284 92 284 138 L292 196 L278 218 L296 252 Q248 282 200 282 Q152 282 104 252 L122 218 L108 196 Z"
         fill="#292524" stroke="#fde68a" stroke-width="3"/>
-  <path d="M132 148 L268 148 M142 192 L258 192" stroke="#fde68a" stroke-width="1.6" opacity=".8"/>
-  <path d="M162 232 L170 260 M200 238 L200 268 M238 232 L230 260" stroke="#fff7cc" stroke-width="1.6" opacity=".8"/>
-  <!-- straight collar neckline, no curves -->
-  <path d="M150 122 L250 122" stroke="#fff7cc" stroke-width="2"/>
-  <path d="M150 122 L150 134 L162 126 M250 122 L250 134 L238 126" fill="none" stroke="#fde68a" stroke-width="1.6"/>
-  <!-- hood base cord -->
-  <path d="M160 160 L240 160" stroke="#fde68a" stroke-width="2"/>
-  <!-- hood draw-cord + tie -->
-  <circle cx="200" cy="96" r="4" fill="#f1df76"/>
-  <path d="M150 104 L150 118 M250 104 L250 118" stroke="#fde68a" stroke-width="2"/>
+  <path d="M128 138 L272 138 M138 184 L262 184 M126 232 L274 232" stroke="#fde68a" stroke-width="1.4" opacity=".8"/>
+  <path d="M152 244 L162 276 M200 252 L200 286 M248 244 L238 276" stroke="#fff7cc" stroke-width="1.2" opacity=".8"/>
+  <!-- hem fringe -->
+  <path d="M116 262 L124 274 M136 270 L144 282 M158 274 L166 286 M184 278 L190 288 M220 278 L226 288 M244 274 L252 286 M262 270 L270 282" stroke="#fde68a" stroke-width="1.4" opacity=".7"/>
+  <!-- hood + straight collar -->
+  <path d="M148 118 L252 118" stroke="#fff7cc" stroke-width="2"/>
+  <path d="M148 118 L148 132 L160 124 M252 118 L252 132 L240 124" fill="none" stroke="#fde68a" stroke-width="1.6"/>
+  <circle cx="200" cy="94" r="4" fill="#f1df76"/>
+  <!-- throat clasp -->
+  <rect x="188" y="134" width="24" height="14" rx="3" fill="#451a03" stroke="#f1df76" stroke-width="1.6"/>
 </svg>

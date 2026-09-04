@@ -4,10 +4,17 @@
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gw001" cx="50%" cy="46%" r="46%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".24"/>
+    <radialGradient id="gw001" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="bl001" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#0c4a6e"/>
+    </linearGradient>
+    <filter id="f001" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw001)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
@@ -15,19 +22,34 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- slender deep-blue Han crystal blade: hard-edged vertical shard -->
-  <path d="M200 42 L240 118 L240 200 L200 224 L160 200 L160 118 Z" fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
-  <path d="M200 56 L200 216" stroke="#bae6fd" stroke-width="1.4" opacity=".8"/>
-  <path d="M174 132 L200 156 M226 132 L200 156" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
-  <path d="M160 118 L146 128 L154 146" fill="none" stroke="#7dd3fc" stroke-width="1.6" opacity=".8"/>
-  <path d="M240 118 L254 128 L246 146" fill="none" stroke="#7dd3fc" stroke-width="1.6" opacity=".8"/>
+  <!-- echo rings: memory crests under the blade -->
+  <g fill="none" stroke="#38bdf8" opacity=".22">
+    <circle cx="78" cy="308" r="22" stroke-width="1"/>
+    <circle cx="78" cy="308" r="32" stroke-width=".8"/>
+    <circle cx="78" cy="308" r="42" stroke-width=".6"/>
+  </g>
+  <path d="M300 92 Q348 92 352 132" fill="none" stroke="#7dd3fc" stroke-width="1" opacity=".35"/>
 
-  <!-- crossguard -->
-  <path d="M168 222 L232 222 L224 238 L176 238 Z" fill="#082f49" stroke="#7dd3fc" stroke-width="2.4"/>
-  <!-- wrapped grip -->
-  <rect x="186" y="240" width="28" height="64" rx="6" fill="#082f49" stroke="#38bdf8" stroke-width="2.4"/>
-  <path d="M188 250 L212 258 M188 264 L212 272 M188 278 L212 286" stroke="#38bdf8" stroke-width="1.6" opacity=".8"/>
-  <!-- pommel ring -->
-  <circle cx="200" cy="314" r="9" fill="#082f49" stroke="#f1df76" stroke-width="2.2"/>
-  <circle cx="200" cy="314" r="3.4" fill="#f1df76"/>
+  <!-- slender deep-blue Han crystal blade: tall faceted shard -->
+  <path d="M200 40 L232 110 L234 178 L218 210 L200 224 L182 210 L166 178 L168 110 Z"
+        fill="url(#bl001)" stroke="#7dd3fc" stroke-width="3"/>
+  <path d="M200 54 L200 216" stroke="#bae6fd" stroke-width="1.4" opacity=".85"/>
+  <path d="M184 112 L200 138 M216 112 L200 138 M176 154 L200 180 M224 154 L200 180" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
+  <path d="M200 96 L188 128 L200 122 L212 128 Z" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".8"/>
+  <!-- fracture seams -->
+  <path d="M166 178 L182 190 M234 178 L218 190" stroke="#7dd3fc" stroke-width="1.2" opacity=".8"/>
+
+  <!-- crossguard with side prongs -->
+  <path d="M172 224 L228 224 L220 240 L180 240 Z" fill="#082f49" stroke="#7dd3fc" stroke-width="2.4"/>
+  <path d="M172 224 L158 224 L164 234 L178 236 M228 224 L242 224 L236 234 L222 236" fill="#082f49" stroke="#7dd3fc" stroke-width="1.6"/>
+
+  <!-- wrapped grip: four bound coils -->
+  <rect x="186" y="240" width="28" height="66" rx="6" fill="#082f49" stroke="#38bdf8" stroke-width="2.4"/>
+  <path d="M188 250 L212 258 M188 264 L212 272 M188 278 L212 286 M188 292 L212 300" stroke="#38bdf8" stroke-width="1.8" opacity=".85"/>
+  <path d="M186 244 L214 244 M186 302 L214 302" stroke="#7dd3fc" stroke-width="1.4"/>
+
+  <!-- pommel ring with echo bead -->
+  <circle cx="200" cy="316" r="10" fill="#082f49" stroke="#f1df76" stroke-width="2.2"/>
+  <circle cx="200" cy="316" r="3.4" fill="#f1df76"/>
+  <circle cx="200" cy="336" r="4" fill="#38bdf8" opacity=".7" filter="url(#f001)"/>
 </svg>

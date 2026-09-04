@@ -4,10 +4,17 @@
       <stop offset="0%" stop-color="#1c1917"/>
       <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <radialGradient id="gw005" cx="50%" cy="46%" r="46%">
-      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".24"/>
+    <radialGradient id="gw005" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="bl005" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fb7185"/>
+      <stop offset="1" stop-color="#7f1d1d"/>
+    </linearGradient>
+    <filter id="f005" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw005)" stroke="#ef5b55" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
@@ -15,13 +22,23 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- Embrace Fang: broad curved scythe-blade fang with pointed tip -->
-  <path d="M120 320 L200 84 L214 92 L230 260 Q230 320 172 330 Z" fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
-  <path d="M146 292 L202 104" stroke="#fb7185" stroke-width="1.4" opacity=".7"/>
-  <path d="M170 312 L204 130 M190 306 L210 170" stroke="#ef5b55" stroke-width="1.2" opacity=".7"/>
-  <!-- wrapped grip -->
-  <rect x="136" y="320" width="28" height="66" rx="6" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
-  <path d="M139 332 L161 340 M139 348 L161 356 M139 364 L161 372" stroke="#fb7185" stroke-width="1.6" opacity=".8"/>
-  <circle cx="150" cy="396" r="8" fill="#292524" stroke="#f1df76" stroke-width="2"/>
-  <circle cx="150" cy="396" r="3" fill="#f1df76"/>
+  <!-- Embrace Fang: broad curved scythe fang with serrated back edge -->
+  <path d="M120 316 L196 82 L212 92 L234 256 Q236 318 180 330 Q150 336 120 326 Z"
+        fill="url(#bl005)" stroke="#ef5b55" stroke-width="3"/>
+  <!-- serration -->
+  <path d="M120 316 L136 302 M128 306 L144 292 M136 296 L152 282 M144 286 L160 272 M152 276 L168 262 M160 266 L176 252" stroke="#fca5a5" stroke-width="1.4" opacity=".7"/>
+  <path d="M150 300 L202 108" stroke="#fb7185" stroke-width="1.2" opacity=".7"/>
+  <path d="M176 316 L210 160 M204 314 L222 200" stroke="#ef5b55" stroke-width="1.2" opacity=".7"/>
+  <!-- blood-line -->
+  <path d="M212 92 L222 168 L216 260" stroke="#ef5b55" stroke-width="1.6"/>
+
+  <!-- guard + wrapped grip -->
+  <path d="M128 326 L172 322 L168 338 L124 342 Z" fill="#292524" stroke="#ef5b55" stroke-width="1.6"/>
+  <rect x="128" y="338" width="28" height="54" rx="6" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
+  <path d="M131 350 L153 358 M131 364 L153 372 M131 378 L153 386" stroke="#fca5a5" stroke-width="1.6" opacity=".8"/>
+  <!-- pommel -->
+  <circle cx="142" cy="400" r="8" fill="#292524" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="142" cy="400" r="3" fill="#f1df76"/>
+  <!-- drift bead -->
+  <circle cx="262" cy="112" r="4" fill="#ef5b55" opacity=".6" filter="url(#f005)"/>
 </svg>

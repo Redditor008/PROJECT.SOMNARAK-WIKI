@@ -4,10 +4,17 @@
       <stop offset="0%" stop-color="#1c1917"/>
       <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <radialGradient id="gw002" cx="50%" cy="46%" r="46%">
-      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".24"/>
+    <radialGradient id="gw002" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="ml002" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ef5b55"/>
+      <stop offset="1" stop-color="#7f1d1d"/>
+    </linearGradient>
+    <filter id="f002" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw002)" stroke="#ef5b55" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
@@ -15,12 +22,27 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- Mourning Maul: broad humped head, flat underside, short two-hand haft -->
-  <path d="M92 150 L308 150 L312 236 Q200 262 88 236 Z" fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
-  <path d="M118 150 L118 210 M282 150 L282 210" stroke="#fca5a5" stroke-width="1.4" opacity=".7"/>
-  <path d="M140 184 L260 184" stroke="#ef5b55" stroke-width="1.6" opacity=".8"/>
-  <rect x="186" y="244" width="28" height="82" rx="6" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
-  <path d="M188 258 L212 266 M188 274 L212 282 M188 290 L212 298" stroke="#fca5a5" stroke-width="1.6" opacity=".8"/>
-  <circle cx="200" cy="336" r="9" fill="#292524" stroke="#f1df76" stroke-width="2.2"/>
-  <circle cx="200" cy="336" r="3.4" fill="#f1df76"/>
+  <!-- impact shards -->
+  <g stroke="#7f1d1d" opacity=".5">
+    <path d="M76 150 L96 138 M68 176 L90 168 M82 202 L102 190" stroke-width="1.6"/>
+  </g>
+
+  <!-- Mourning Maul: broad humped head, layered crown -->
+  <path d="M92 136 L308 136 L312 208 Q300 236 270 242 Q200 258 130 242 Q100 236 88 208 Z"
+        fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
+  <path d="M92 136 L308 136 L306 158 L94 158 Z" fill="#450a0a" stroke="#fca5a5" stroke-width="1.6"/>
+  <path d="M118 136 L118 208 M282 136 L282 208" stroke="#fca5a5" stroke-width="1.2" opacity=".7"/>
+  <path d="M134 176 L266 176 M146 206 L254 206" stroke="#ef5b55" stroke-width="1.4" opacity=".8"/>
+  <!-- crescent face relief -->
+  <path d="M164 182 Q200 210 236 182" fill="none" stroke="#fca5a5" stroke-width="1.4" opacity=".7"/>
+
+  <!-- collar -->
+  <path d="M182 242 L218 242 L214 254 L186 254 Z" fill="#450a0a" stroke="#ef5b55" stroke-width="1.6"/>
+  <!-- two-hand haft -->
+  <rect x="186" y="254" width="28" height="96" rx="6" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
+  <path d="M188 266 L212 274 M188 280 L212 288 M188 294 L212 302 M188 308 L212 316 M188 322 L212 330" stroke="#fca5a5" stroke-width="1.6" opacity=".8"/>
+  <!-- pommel -->
+  <path d="M182 350 L218 350 L216 368 L184 368 Z" fill="#292524" stroke="#ef5b55" stroke-width="2"/>
+  <circle cx="200" cy="359" r="5" fill="#f1df76"/>
+  <circle cx="200" cy="378" r="4" fill="#ef5b55" opacity=".6" filter="url(#f002)"/>
 </svg>

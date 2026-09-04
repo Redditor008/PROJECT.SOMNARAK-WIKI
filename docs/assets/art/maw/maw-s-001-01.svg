@@ -4,10 +4,14 @@
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gs001" cx="50%" cy="46%" r="46%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".24"/>
+    <radialGradient id="gs001" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="sl001" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c4a6e"/>
+      <stop offset="1" stop-color="#082f49"/>
+    </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bs001)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
@@ -15,16 +19,32 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">SUIT</text>
 
-  <!-- draped shroud: rounded shoulders, notched collar, wide hem -->
-  <path d="M128 158 Q128 110 200 104 Q272 110 272 158 L274 246 Q200 282 126 246 Z"
-        fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
-  <path d="M164 108 Q200 128 236 108 L232 132 Q200 150 168 132 Z" fill="#082f49" stroke="#7dd3fc" stroke-width="2.4"/>
-  <path d="M150 172 L250 172 M146 200 L254 200 M142 232 L258 232" stroke="#38bdf8" stroke-width="1.2" opacity=".7"/>
+  <!-- memory crests -->
+  <g fill="none" stroke="#38bdf8" opacity=".22">
+    <circle cx="322" cy="306" r="20" stroke-width="1"/>
+    <circle cx="322" cy="306" r="30" stroke-width=".8"/>
+  </g>
+
+  <!-- draped shroud: rounded shoulders + notched collar + layered body -->
+  <path d="M124 156 Q124 104 196 98 Q268 104 276 156 L280 204 L270 222 L282 256 Q200 296 118 256 L130 222 L120 204 Z"
+        fill="url(#sl001)" stroke="#7dd3fc" stroke-width="3"/>
+  <!-- collar notch -->
+  <path d="M160 104 Q200 128 240 104 L236 130 Q200 150 164 130 Z" fill="#082f49" stroke="#7dd3fc" stroke-width="2.2"/>
+  <!-- layered hem flares -->
+  <path d="M120 242 Q200 276 280 242 L280 252 Q200 288 120 252 Z" fill="#0c4a6e" stroke="#7dd3fc" stroke-width="1.6"/>
+  <path d="M132 262 Q200 294 268 262" fill="none" stroke="#38bdf8" stroke-width="1.2" opacity=".7"/>
+  <!-- fold lines -->
+  <path d="M150 170 L250 170 M146 200 L254 200 M142 230 L258 230" stroke="#38bdf8" stroke-width="1.2" opacity=".7"/>
+  <path d="M176 118 L170 250 M224 118 L230 250" stroke="#38bdf8" stroke-width="1" opacity=".45"/>
 
   <!-- throat clasp -->
   <rect x="188" y="132" width="24" height="16" rx="3" fill="#082f49" stroke="#f1df76" stroke-width="1.8"/>
   <circle cx="200" cy="140" r="3" fill="#f1df76"/>
-  <!-- waist strap -->
-  <path d="M140 210 L260 210" stroke="#f1df76" stroke-width="4"/>
-  <rect x="186" y="202" width="28" height="16" rx="3" fill="#082f49" stroke="#f1df76" stroke-width="1.8"/>
+  <!-- shoulder cords + chest medallion -->
+  <path d="M160 106 L176 132 M240 106 L224 132" stroke="#7dd3fc" stroke-width="1.8"/>
+  <circle cx="200" cy="176" r="10" fill="#082f49" stroke="#7dd3fc" stroke-width="1.8"/>
+  <circle cx="200" cy="176" r="4" fill="#f1df76"/>
+  <!-- waist sash -->
+  <path d="M132 214 L268 214" stroke="#f1df76" stroke-width="4"/>
+  <rect x="184" y="206" width="32" height="16" rx="3" fill="#082f49" stroke="#f1df76" stroke-width="1.8"/>
 </svg>

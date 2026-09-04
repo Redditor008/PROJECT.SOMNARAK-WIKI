@@ -4,8 +4,8 @@
       <stop offset="0%" stop-color="#082f49"/>
       <stop offset="100%" stop-color="#020617"/>
     </radialGradient>
-    <radialGradient id="gs009" cx="50%" cy="46%" r="46%">
-      <stop offset="0%" stop-color="#67e8f9" stop-opacity=".22"/>
+    <radialGradient id="gs009" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#67e8f9" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
@@ -15,12 +15,17 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#020617" stroke="#67e8f9" stroke-width="1.2"/>
   <text x="30" y="36" fill="#67e8f9" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">SUIT</text>
 
-  <!-- Forgotten Veil: staggered curtain veil with angled top edge -->
-  <path d="M104 132 L296 132 L304 168 L284 190 L300 224 L272 258 L252 244 L232 278 L200 258 L176 268 L156 240 L136 254 L118 210 L96 184 Z"
+  <!-- Forgotten Veil: staggered curtain veil, layered shingles -->
+  <path d="M104 128 L296 128 L304 166 L284 190 L300 226 L272 258 L252 244 L232 278 L200 258 L178 268 L156 240 L136 254 L118 210 L96 184 Z"
         fill="#0c4a6e" stroke="#a5f3fc" stroke-width="3"/>
-  <path d="M130 150 L270 150 M112 176 L288 176" stroke="#67e8f9" stroke-width="1.2" opacity=".7"/>
+  <path d="M130 150 L270 150 M112 178 L288 178 M122 206 L278 206" stroke="#67e8f9" stroke-width="1.2" opacity=".7"/>
+  <!-- shingle overlaps -->
+  <path d="M130 150 L110 184 M270 150 L290 184 M152 194 L134 232 M248 194 L266 232 M176 234 L160 264 M224 234 L240 264" stroke="#67e8f9" stroke-width="1.2" opacity=".7"/>
   <!-- hood tie + clasp -->
-  <path d="M200 132 L200 158" stroke="#f1df76" stroke-width="2.4"/>
-  <circle cx="200" cy="128" r="5" fill="#082f49" stroke="#f1df76" stroke-width="1.8"/>
-  <rect x="188" y="166" width="24" height="14" rx="3" fill="#082f49" stroke="#f1df76" stroke-width="1.8"/>
+  <path d="M200 128 L200 154" stroke="#f1df76" stroke-width="2.4"/>
+  <circle cx="200" cy="124" r="5" fill="#082f49" stroke="#f1df76" stroke-width="1.8"/>
+  <rect x="188" y="162" width="24" height="14" rx="3" fill="#082f49" stroke="#f1df76" stroke-width="1.8"/>
+  <!-- curtain tread -->
+  <path d="M152 286 Q200 302 248 286" fill="none" stroke="#a5f3fc" stroke-width="1.2" opacity=".6"/>
+  <circle cx="200" cy="294" r="4" fill="#f1df76"/>
 </svg>

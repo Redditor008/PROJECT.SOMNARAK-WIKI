@@ -4,28 +4,35 @@
       <stop offset="0%" stop-color="#1e293b"/>
       <stop offset="100%" stop-color="#0f172a"/>
     </radialGradient>
-    <radialGradient id="g0010" cx="50%" cy="46%" r="46%">
+    <radialGradient id="gs010" cx="50%" cy="46%" r="50%">
       <stop offset="0%" stop-color="#94a3b8" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bs010)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="132" fill="url(#g0010)"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gs010)"/>
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0f172a" stroke="#94a3b8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">SUIT</text>
 
-  <!-- Absolute Mantle: riveted plate-mantle, broad shoulders + angled hem -->
-  <path d="M104 132 L296 132 L292 240 Q200 286 108 240 Z" fill="#1e293b" stroke="#e2e8f0" stroke-width="3"/>
-  <path d="M104 132 L296 132" stroke="#94a3b8" stroke-width="1.6" opacity=".8"/>
-  <path d="M142 180 L258 180 M150 216 L250 216" stroke="#94a3b8" stroke-width="1.2" opacity=".7"/>
+  <!-- Absolute Mantle: riveted plate-mantle with pressure seams -->
+  <path d="M100 128 L300 128 L296 202 L284 224 L300 256 Q200 304 100 256 L116 224 L104 202 Z"
+        fill="#1e293b" stroke="#e2e8f0" stroke-width="3"/>
+  <path d="M100 128 L300 128" stroke="#94a3b8" stroke-width="1.6" opacity=".8"/>
+  <path d="M138 176 L262 176 M144 218 L256 218 M132 252 L268 252" stroke="#94a3b8" stroke-width="1.2" opacity=".7"/>
+  <!-- plate seams -->
+  <path d="M124 164 L276 164 M118 232 L282 232" stroke="#1e293b" stroke-width="1.2" opacity=".6"/>
+  <path d="M164 150 L164 250 M236 150 L236 250" stroke="#1e293b" stroke-width="1" opacity=".5"/>
   <!-- rivets -->
-  <g fill="#e2e8f0" opacity=".8">
-    <circle cx="130" cy="150" r="3"/><circle cx="200" cy="150" r="3"/><circle cx="270" cy="150" r="3"/>
-    <circle cx="126" cy="240" r="3"/><circle cx="274" cy="240" r="3"/>
+  <g fill="#e2e8f0" opacity=".85">
+    <circle cx="136" cy="148" r="3"/><circle cx="200" cy="148" r="3"/><circle cx="264" cy="148" r="3"/>
+    <circle cx="128" cy="256" r="3"/><circle cx="200" cy="260" r="3"/><circle cx="272" cy="256" r="3"/>
   </g>
-  <!-- shoulder + waist straps, buckle -->
-  <path d="M148 136 L192 200" stroke="#f1df76" stroke-width="4"/>
-  <path d="M252 136 L208 200" stroke="#f1df76" stroke-width="4"/>
-  <rect x="180" y="200" width="40" height="18" rx="3" fill="#1e293b" stroke="#f1df76" stroke-width="1.8"/>
+  <!-- harness straps + buckle -->
+  <path d="M146 132 L196 202" stroke="#f1df76" stroke-width="4"/>
+  <path d="M254 132 L204 202" stroke="#f1df76" stroke-width="4"/>
+  <rect x="178" y="200" width="44" height="20" rx="3" fill="#1e293b" stroke="#f1df76" stroke-width="1.8"/>
+  <path d="M144 132 L256 132" stroke="#f1df76" stroke-width="2.4"/>
+  <circle cx="164" cy="160" r="5" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <circle cx="236" cy="160" r="5" fill="none" stroke="#f1df76" stroke-width="1.6"/>
 </svg>
