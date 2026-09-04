@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Spire of Unanswered Prayer's lament signature in the strike.  
 **Binding rule:** the bearer names Spire of Unanswered Prayer's event—A Desolate community vanished beneath a Han surge; survivors carried its tower-song into the city.—and accepts this limit: Listen to the song; do not silence it
 
+## Appearance
+
+The Tower Requiem is the weapon record of the Spire of Unanswered Prayer’s set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names the source event — a Desolate community vanished beneath a Han surge, and survivors carried its tower-song into the city — and accepts the set’s limit: listen to the song; do not silence it. The operational cost is the Lament standard: the wielder feels the entity’s unwept grief, prolonged use causes involuntary weeping, and continued use makes the sorrow feel autobiographical — the drowned settlement’s hymn rehearsing itself in the wielder’s memory as if learned in childhood. The source-trace fixed the doctrine: when the voice became a storm of hot tears, the weapon uncoupled the immediate hazard only after the team attributed it to the Spire — and treating the response as the bearer’s own story reproduced the source wound, establishing the present binding rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

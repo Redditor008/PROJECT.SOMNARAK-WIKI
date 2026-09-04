@@ -19,6 +19,10 @@
 **Canonical ability:** Reveals hidden anger and the object of its grievance.  
 **Binding rule:** the bearer names Mirror of Soaking's event—Citizens swallowed rage under debt and order until suppressed anger became a reflective object.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Rage Lens is the gift record of the Mirror of Soaking’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is diagnostic: it reveals hidden anger and the object of its grievance, swallowed rage surfaced with its address. Binding names the source event — citizens swallowed rage under debt and order until suppressed anger became a reflective object — and accepts the registry’s limit: the entity- specific management condition must be satisfied and the Sorrow Gauge held below 25%. The cost is auditory contamination: the wearer hears anger in every neutral statement, its sensitivity bleeding into ordinary speech, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the event that created the anger — grievance traced to origin rather than to target — and it interrupted the immediate hazard only after attribution to the Mirror. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 5%  

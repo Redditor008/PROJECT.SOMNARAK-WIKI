@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Mirror of Soaking's kind of pressure.  
 **Binding rule:** the bearer names Mirror of Soaking's event—Citizens swallowed rage under debt and order until suppressed anger became a reflective object.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Rage Plate is the suit record of the Mirror of Soaking’s set, granting resistance to Grudge damage and protecting the Body against the pressure of anger soaked and stored rather than spoken. Binding is testimonial: the wearer names the source event — citizens swallowed rage under debt and order until suppressed anger became a reflective object — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is the Grudge standard for armor: the wearer’s reflexes dull, as if armored by resentment — the metaphor made literal against this source — and continued use makes the sorrow feel autobiographical. The source-trace set the doctrine: the suit forces the worker to remain before their own rage — the Mirror’s reflection turned on its handler, protection conditional on enduring it — and it isolated the immediate hazard only after the team attributed it to the Mirror. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

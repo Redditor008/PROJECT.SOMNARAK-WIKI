@@ -19,6 +19,10 @@
 **Canonical ability:** Releases one suppressed breath and calms panic.  
 **Binding rule:** the bearer names Pent's event—A worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness.—and accepts this limit: Permit rest and acknowledge exhaustion as real
 
+## Appearance
+
+The Vanished Breath is the gift record of Pent’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability administers the mercy the source denied itself: it releases one suppressed breath and calms panic, the held sigh finally permitted its exit. Binding names Pent’s event — a worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness — and accepts the set’s limit: permit rest and acknowledge exhaustion as real. The operational cost extends the ability’s sensitivity: the wearer feels every exhaustion hidden nearby, each concealed fatigue registering on the carrier, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the worker and the moment of collapse — the hidden failure finally witnessed — and it discharged the immediate hazard only after attribution to Pent. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  

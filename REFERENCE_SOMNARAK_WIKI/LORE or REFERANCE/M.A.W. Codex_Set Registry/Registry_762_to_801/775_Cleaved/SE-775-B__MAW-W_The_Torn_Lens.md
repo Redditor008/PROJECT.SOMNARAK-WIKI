@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Cleaved's void signature in the strike.  
 **Binding rule:** the bearer names Cleaved's event—A tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan.—and accepts this limit: Do not complete the structure; document what was intended and lost
 
+## Appearance
+
+The Torn Lens is the weapon record of Cleaved’s set, a Void instrument attacking the Soul by channeling the source’s void signature into the strike. Binding is testimonial: the bearer names Cleaved’s event — a tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan — and accepts the set’s limit: do not complete the structure; document what was intended and lost. The operational cost is the Void standard: the wielder loses small, nameless memories with each use, and continued use makes the sorrow feel autobiographical — the abandoned blueprint slowly filing itself among the wielder’s own unfinished intentions. The source-trace fixed the doctrine: when the entity split further and burned through nearby walls, the weapon opened the immediate hazard only after the team attributed it to Cleaved — and treating the response as the bearer’s own story reproduced the source wound, establishing the present binding rule. Corrosion runs from describing Cleaved’s event in first person, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
