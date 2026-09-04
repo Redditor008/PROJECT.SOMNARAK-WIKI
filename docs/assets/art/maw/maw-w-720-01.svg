@@ -1,25 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MELTED FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg9e5c96" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw720" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl9e5c96" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl720" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg9e5c96)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw720)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="119" fill="url(#gl9e5c96)"/>
-  <g transform="rotate(4 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 123.8, 232.0 68.0 238.0 68.0 C228.0 127.52, 220.0 149.84, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 134.96, 230.0 76.0 235.0 74.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="56.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="260.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-720-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- THE FRAGMENT BLADE: four separate melted segments along one line, gaps never filled -->
+  <path d="M138 330 L128 318 C 146 304, 162 290, 176 274 L 190 286 C 176 302, 158 318, 150 336 Z"
+        fill="url(#bl720)" stroke="#ef4444" stroke-width="2.6"/>
+  <path d="M204 258 C 216 244, 226 228, 234 212 L 250 222 C 240 240, 228 256, 218 270 Z"
+        fill="url(#bl720)" stroke="#ef4444" stroke-width="2.6"/>
+  <path d="M246 190 C 252 176, 258 164, 266 152 L 282 160 C 274 172, 268 184, 262 198 Z"
+        fill="url(#bl720)" stroke="#ef4444" stroke-width="2.6"/>
+  <path d="M276 132 C 284 120, 294 110, 306 102 C 314 98, 322 102, 324 110 C 326 118, 320 126, 312 130 C 304 134, 298 140, 292 148 Z"
+        fill="url(#bl720)" stroke="#ef4444" stroke-width="2.6"/>
+  <!-- melted drips at every break face -->
+  <path d="M180 280 C 178 286, 178 290, 181 293 C 184 290, 184 286, 183 281" fill="#fca5a5" opacity=".9"/>
+  <path d="M240 218 C 238 224, 238 228, 241 231 C 244 228, 244 224, 243 219" fill="#fda4af" opacity=".9"/>
+  <path d="M270 158 C 268 163, 268 167, 271 170 C 274 167, 274 163, 273 159" fill="#fca5a5" opacity=".9"/>
+  <!-- THE GAPS: empty dashed spans — the missing accusation NEVER supplied -->
+  <path d="M192 282 L206 262 M252 220 L260 200 M284 158 L290 150" stroke="#64748b" stroke-width="1.6" stroke-dasharray="3 5" opacity=".8"/>
+  <path d="M196 268 L202 274 M254 208 L260 214" stroke="#450a0a" stroke-width="1.2" stroke-dasharray="1 4" opacity=".7"/>
+  <!-- the inserted-name error: a guessed tag crossed out red, hard -->
+  <rect x="252" y="248" width="38" height="15" rx="2" transform="rotate(10 271 255)" fill="#0d0507" stroke="#64748b" stroke-width="1.6"/>
+  <path d="M258 256 L284 260" stroke="#64748b" stroke-width="1.1"/>
+  <path d="M254 246 L290 268" stroke="#7f1d1d" stroke-width="2.4"/>
+  <!-- fragments-received-as-is doctrine: open receiving tray etched near guard -->
+  <path d="M148 300 L176 300 L172 312 L152 312 Z" fill="none" stroke="#f1df76" stroke-width="1.8"/>
+  <path d="M154 296 L158 300 M164 294 L166 300 M172 296 L170 300" stroke="#f1df76" stroke-width="1.3"/>
+  <!-- edge lights on each fragment -->
+  <path d="M136 322 C 150 308, 164 294, 178 280 M210 262 C 222 246, 232 230, 240 216 M250 192 C 256 180, 262 168, 270 158 M280 134 C 288 122, 298 112, 308 106" fill="none" stroke="#ffe4e6" stroke-width="1.6"/>
+  <!-- guard + grip -->
+  <path d="M114 332 L160 352" stroke="#4c0d13" stroke-width="9" stroke-linecap="round"/>
+  <path d="M138 354 L116 394" stroke="#4c0d13" stroke-width="11" stroke-linecap="round"/>
+  <path d="M136 362 L126 358 M132 374 L122 370 M128 386 L118 382" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M112 402 a6 6 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.2"/>
 </svg>

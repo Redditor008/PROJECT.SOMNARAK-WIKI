@@ -1,25 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE VANISHED FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bgefa4dd" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw677" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="glefa4dd" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl677" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgefa4dd)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw677)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="114" fill="url(#glefa4dd)"/>
-  <g transform="rotate(5 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 121.05, 222.0 63.0 228.0 63.0 C218.0 124.92, 220.0 148.14, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 132.66, 220.0 71.0 225.0 69.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="49.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="253.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-677-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- THE PHANTOM TOWER OUTLINE: dashed absence rising behind, never struck -->
+  <path d="M268 330 L268 128 L288 108 L308 128 L308 330" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="6 6" opacity=".7"/>
+  <path d="M276 160 L300 160 M276 200 L300 200 M276 240 L300 240 M276 280 L300 280" stroke="#475569" stroke-width="1.3" stroke-dasharray="3 4" opacity=".6"/>
+  <!-- phantom stone answering force: one ghost block half-materialized at the outline edge -->
+  <rect x="252" y="188" width="18" height="13" fill="none" stroke="#94a3b8" stroke-width="1.6" stroke-dasharray="2 2"/>
+  <!-- THE FANG: broad CLEAVER-NOSE profile — deep belly, squared dropped nose, short back -->
+  <path d="M92 300 L86 276 C 92 232, 112 196, 144 172 C 172 152, 204 144, 232 150 L 236 176 L 226 178 C 230 190, 226 202, 214 208 C 178 226, 140 254, 108 296 Z"
+        fill="url(#bl677)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M92 280 C 100 240, 120 206, 150 184 C 176 166, 204 158, 228 162" fill="none" stroke="#4c0d13" stroke-width="2"/>
+  <!-- THE WEEPING EDGE: Han tears running off the belly -->
+  <path d="M96 292 C 110 258, 134 228, 166 206 C 186 192, 206 184, 224 182" fill="none" stroke="#ffe4e6" stroke-width="2.2"/>
+  <path d="M124 246 C 121 251, 121 255, 124 258 C 127 255, 127 251, 124 246 Z" fill="#fca5a5"/>
+  <path d="M162 212 C 159 217, 159 221, 162 224 C 165 221, 165 217, 162 212 Z" fill="#fda4af"/>
+  <path d="M204 190 C 201 195, 201 199, 204 202 C 207 199, 207 195, 204 190 Z" fill="#fca5a5"/>
+  <path d="M126 262 L126 272 M164 228 L164 238" stroke="#7f1d1d" stroke-width="1.2" stroke-dasharray="1 3"/>
+  <!-- THE DELETION TAG severed ON THE PAVEMENT, not the absence -->
+  <path d="M120 330 L232 330" stroke="#475569" stroke-width="2.6"/>
+  <path d="M136 338 L160 338 M176 338 L216 338" stroke="#334155" stroke-width="1.6"/>
+  <rect x="158" y="312" width="34" height="15" rx="2" fill="#0d0507" stroke="#64748b" stroke-width="1.8"/>
+  <path d="M164 320 L186 320" stroke="#64748b" stroke-width="1.2"/>
+  <path d="M166 306 L184 330" stroke="#f1df76" stroke-width="2.6"/>
+  <!-- broken-wrist warning: ghost door falling, crossed -->
+  <path d="M240 214 L240 244 L258 244" fill="none" stroke="#7f1d1d" stroke-width="1.6" stroke-dasharray="3 3"/>
+  <path d="M238 222 L256 240" stroke="#7f1d1d" stroke-width="1.6"/>
+  <!-- grip along the squared back -->
+  <path d="M228 154 L262 122" stroke="#4c0d13" stroke-width="12" stroke-linecap="round"/>
+  <path d="M234 144 L242 152 M244 134 L252 142" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M268 114 a7 7 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.4"/>
 </svg>

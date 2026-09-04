@@ -1,25 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE WANDERING FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg71c308" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw754" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl71c308" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl754" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg71c308)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw754)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="123" fill="url(#gl71c308)"/>
-  <g transform="rotate(-2 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 117.75, 224.0 57.0 230.0 57.0 C220.0 121.8, 220.0 146.1, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 129.9, 222.0 65.0 227.0 63.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="49.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="253.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-754-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- wandering curve fang: gentle S drift, tip up-right -->
+  <path d="M140 318 L130 306 C 158 292, 182 272, 198 244 C 210 222, 226 204, 248 190 C 240 178, 240 166, 250 158 C 260 150, 274 152, 282 162 C 296 156, 310 158, 318 168 C 324 176, 320 186, 310 190 C 296 196, 282 194, 272 186 C 254 198, 240 214, 230 234 C 216 262, 190 290, 152 322 Z"
+        fill="url(#bl754)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M138 310 C 166 296, 190 274, 206 248 C 218 226, 234 208, 254 194" fill="none" stroke="#4c0d13" stroke-width="2"/>
+  <path d="M150 318 C 178 302, 202 280, 218 252" fill="none" stroke="#ffe4e6" stroke-width="1.8"/>
+  <!-- wander marks: loose drift dashes off the spine, path not a leash -->
+  <path d="M186 262 C 180 258, 176 252, 174 246 M216 226 C 210 222, 206 216, 204 210" fill="none" stroke="#fda4af" stroke-width="1.3" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- CARE vs RESTRAINT separated: affection ribbon standing, restraint clause cut -->
+  <path d="M234 262 C 246 256, 258 254, 270 256 C 278 258, 284 262, 288 268" fill="none" stroke="#4ade80" stroke-width="2.2"/>
+  <path d="M282 250 C 290 246, 298 246, 306 250" fill="none" stroke="#64748b" stroke-width="2.4"/>
+  <path d="M290 242 L298 258" stroke="#f1df76" stroke-width="2.6"/>
+  <!-- THE DESTROYED LOCK GUARD: a shackle burst open as the crossguard -->
+  <path d="M108 314 C 100 306, 100 294, 108 286 C 116 278, 128 278, 136 286" fill="none" stroke="#fca5a5" stroke-width="4"/>
+  <path d="M140 292 C 144 298, 144 306, 138 312" fill="none" stroke="#7f1d1d" stroke-width="3" stroke-dasharray="5 4"/>
+  <rect x="102" y="310" width="44" height="26" rx="4" fill="#0d0507" stroke="#fca5a5" stroke-width="2.4"/>
+  <path d="M124 318 L124 328 M120 322 L128 322" stroke="#7f1d1d" stroke-width="1.8"/>
+  <path d="M146 316 L156 308" stroke="#f1df76" stroke-width="2.4"/>
+  <!-- shackle shards flying -->
+  <path d="M150 296 L158 290 M154 304 L164 300" stroke="#fda4af" stroke-width="1.6"/>
+  <!-- THE OPEN EXIT: doorway left ajar beyond the tip, unblocked -->
+  <path d="M330 218 L330 262 L352 262 L352 218" fill="none" stroke="#4ade80" stroke-width="1.8"/>
+  <path d="M352 218 L360 224 L360 268 L352 262" fill="none" stroke="#166534" stroke-width="1.4"/>
+  <path d="M336 240 L346 240" stroke="#4ade80" stroke-width="1.3" stroke-dasharray="2 2"/>
+  <!-- grip below the burst lock -->
+  <path d="M122 338 L104 382" stroke="#4c0d13" stroke-width="11" stroke-linecap="round"/>
+  <path d="M120 348 L110 344 M116 360 L106 356 M112 372 L102 368" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M100 390 a6 6 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.2"/>
 </svg>

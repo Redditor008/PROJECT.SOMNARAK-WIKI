@@ -1,26 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SEVERED REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg6b72e0" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw723" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl6b72e0" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl723" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg6b72e0)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw723)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="127" fill="url(#gl6b72e0)"/>
-  <g transform="rotate(6 200.0 192.0)">
-<path d="M185.0 192.0 L193.7 87.60000000000001 L200.0 47.0 L206.3 96.3 L215.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 47.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="192.5" y="107.9" width="15.0" height="60.9" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="175.0" y="187.0" width="50.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="49.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="257.0" r="7.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-723-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- broad short blade, upright lean -->
+  <path d="M162 322 L152 310 C 148 262, 156 214, 176 172 C 190 142, 210 118, 234 102 L 254 120 C 234 140, 218 166, 208 196 C 194 236, 190 278, 194 316 L 180 330 Z"
+        fill="url(#bl723)" stroke="#38bdf8" stroke-width="2.8"/>
+  <path d="M158 304 C 154 260, 162 216, 180 178 C 194 150, 212 126, 232 110" fill="none" stroke="#1e3a5f" stroke-width="2"/>
+  <path d="M188 318 C 184 278, 190 238, 202 202 C 212 174, 226 148, 244 128" fill="none" stroke="#e0f2fe" stroke-width="1.6"/>
+  <!-- THE BOND ROPE: a SLACK rope laid into the fuller — intact, gently sagging -->
+  <path d="M176 300 C 168 276, 168 250, 176 226 C 184 202, 198 180, 216 162 C 208 186, 202 212, 200 240 C 198 262, 200 282, 206 300"
+        fill="none" stroke="#f1df76" stroke-width="2.6"/>
+  <path d="M176 288 L182 286 M174 258 L180 258 M180 222 L186 224 M196 186 L202 190" stroke="#b45309" stroke-width="1.4"/>
+  <!-- rope fibre twists -->
+  <path d="M178 296 L184 292 M176 272 L182 270 M178 240 L184 240 M188 204 L194 202 M204 174 L210 170" stroke="#fde68a" stroke-width="1.1" opacity=".8"/>
+  <!-- THE HAUL-LINE: the compulsive taut pull — straight strained line, SEVERED gold -->
+  <path d="M226 160 L280 128" stroke="#64748b" stroke-width="2.6"/>
+  <path d="M286 124 L316 106" stroke="#64748b" stroke-width="2.6" stroke-dasharray="5 4" opacity=".7"/>
+  <path d="M276 118 L290 136" stroke="#f1df76" stroke-width="2.8"/>
+  <!-- strain marks on the severed taut line -->
+  <path d="M238 150 L242 158 M256 140 L260 148" stroke="#450a0a" stroke-width="1.4"/>
+  <!-- the vanished end: rope simply ends in open air, honest, dashed -->
+  <path d="M206 300 C 210 310, 216 318, 224 324" fill="none" stroke="#f1df76" stroke-width="2" stroke-dasharray="4 4" opacity=".8"/>
+  <path d="M228 328 L236 334" stroke="#3b5f88" stroke-width="1.4" stroke-dasharray="2 4" opacity=".6"/>
+  <!-- no-retrieval vow plate -->
+  <rect x="212" y="252" width="36" height="15" rx="2" transform="rotate(-12 230 259)" fill="#050a14" stroke="#7dd3fc" stroke-width="1.6"/>
+  <path d="M218 260 L242 254" stroke="#7dd3fc" stroke-width="1.2"/>
+  <!-- source-grief tear -->
+  <path d="M148 200 C 145 205, 145 209, 148 212 C 151 209, 151 205, 148 200 Z" fill="#7dd3fc"/>
+  <!-- guard + grip -->
+  <path d="M144 326 L206 334" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
+  <path d="M174 338 L168 388" stroke="#12233d" stroke-width="12" stroke-linecap="round"/>
+  <path d="M166 350 L180 352 M164 364 L178 366" stroke="#60a5fa" stroke-width="2.4"/>
+  <path d="M164 396 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.2"/>
 </svg>

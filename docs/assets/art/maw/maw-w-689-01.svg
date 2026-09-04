@@ -1,34 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE WALL LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bg6f8f11" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw689" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="100%" stop-color="#08090c"/>
     </radialGradient>
-    <radialGradient id="gl6f8f11" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl689" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#475569"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg6f8f11)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw689)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="123" fill="url(#gl6f8f11)"/>
-  <g transform="rotate(-3 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="63.0" ry="63.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="54.0" ry="51.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="45.0" ry="41.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M240.5 143.7 L234.7 152.9" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M257.6 166.4 L249.3 171.3" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M263.0 194.2 L254.0 193.8" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M255.6 221.6 L247.7 215.9" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="125.0" y="186.0" width="150.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="255.0" width="12" height="36.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- handle -->
+  <path d="M292 368 L254 298" stroke="#1c2128" stroke-width="12" stroke-linecap="round"/>
+  <path d="M282 350 L294 344 M272 332 L284 326 M262 314 L274 308" stroke="#94a3b8" stroke-width="2.2"/>
+  <path d="M298 378 a7 7 0 1 0 .1 0" fill="#111318" stroke="#cbd5e1" stroke-width="2.4"/>
+  <path d="M252 294 C 246 284, 242 274, 240 264" fill="none" stroke="#475569" stroke-width="5"/>
+  <!-- THE DISC: pale glass fully coursed as a brick wall -->
+  <circle cx="204" cy="180" r="104" fill="url(#bl689)" fill-opacity=".16" stroke="#e2e8f0" stroke-width="3"/>
+  <circle cx="204" cy="180" r="95" fill="none" stroke="#475569" stroke-width="1.3"/>
+  <!-- brick courses across the glass -->
+  <path d="M110 144 L298 144 M104 168 L304 168 M102 192 L306 192 M106 216 L302 216 M116 240 L292 240 M134 264 L274 264 M124 120 L284 120" stroke="#64748b" stroke-width="1.4"/>
+  <path d="M150 120 L150 144 M204 120 L204 144 M256 120 L256 144 M128 144 L128 168 M180 144 L180 168 M232 144 L232 168 M282 144 L282 168 M150 168 L150 192 M204 168 L204 192 M256 168 L256 192 M128 192 L128 216 M180 192 L180 216 M282 192 L282 216 M150 216 L150 240 M204 216 L204 240 M256 216 L256 240 M170 240 L170 264 M226 240 L226 264" stroke="#64748b" stroke-width="1.2"/>
+  <!-- THE CONSENTED SEGMENT: one brick panel swung open on a hinge like a hatch -->
+  <rect x="204" y="192" width="76" height="24" fill="#08090c" stroke="#e2e8f0" stroke-width="2"/>
+  <g transform="rotate(-34 204 204)">
+    <rect x="204" y="192" width="76" height="24" fill="#111318" stroke="#e2e8f0" stroke-width="2.2"/>
+    <path d="M216 204 L268 204" stroke="#94a3b8" stroke-width="1.3"/>
   </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(-3 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-689-01</text>
+  <circle cx="204" cy="196" r="2.6" fill="#cbd5e1"/>
+  <circle cx="204" cy="212" r="2.6" fill="#cbd5e1"/>
+  <!-- light through the opened segment -->
+  <path d="M212 198 L244 186 M214 206 L252 200" stroke="#fde68a" stroke-width="1.4" opacity=".8"/>
+  <!-- THE CONSENT LIST as the targeting system: beneficiary-written tags, chosen one ticked -->
+  <rect x="112" y="286" width="40" height="15" rx="2" fill="#08090c" stroke="#64748b" stroke-width="1.5"/>
+  <path d="M118 294 L146 294" stroke="#64748b" stroke-width="1.1"/>
+  <rect x="112" y="306" width="40" height="15" rx="2" fill="#08090c" stroke="#4ade80" stroke-width="1.6"/>
+  <path d="M118 314 L140 314" stroke="#4ade80" stroke-width="1.1"/>
+  <path d="M143 310 L147 315 L154 305" fill="none" stroke="#4ade80" stroke-width="1.6"/>
+  <!-- load-bearing warning: one keystone brick marked never-open -->
+  <rect x="150" y="168" width="30" height="24" fill="none" stroke="#7f1d1d" stroke-width="1.8"/>
+  <path d="M154 172 L176 188 M176 172 L154 188" stroke="#7f1d1d" stroke-width="1.4"/>
+  <!-- attrition mote -->
+  <circle cx="122" cy="102" r="2.6" fill="none" stroke="#64748b" stroke-width="1.3" stroke-dasharray="2 3" opacity=".7"/>
 </svg>
