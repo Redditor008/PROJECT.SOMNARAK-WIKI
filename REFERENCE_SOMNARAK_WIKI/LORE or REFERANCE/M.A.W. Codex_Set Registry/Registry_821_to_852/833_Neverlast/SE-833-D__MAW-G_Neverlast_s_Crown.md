@@ -19,6 +19,10 @@
 **Canonical ability:** Slows the wearer's perception of time during emotional crises.  
 **Binding rule:** the bearer names Neverlast's event—A friendship ended with one person disappearing. The remaining grief remained unanswered until it crystallized.—and accepts this limit: Remain with it and acknowledge the abandonment; do not promise a return
 
+## Appearance
+
+Neverlast’s Crown is the gift record of Neverlast’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is temporal mercy: it slows the wearer’s perception of time during emotional crises, granting inside one moment the patience the source was never given across years. Binding names Neverlast’s event — a friendship ended in disappearance, the remaining grief unanswered until it crystallized — and accepts the set’s limit: remain with it and acknowledge the abandonment; do not promise a return. The cost is empathic intake: the wearer absorbs the pain of those they heal or comfort, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine with its rarest response: the entity opens its history to the worker — the crystallized grief willing to be read by someone who stays — and the gift discharged the immediate hazard only after attribution to Neverlast. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 5%  

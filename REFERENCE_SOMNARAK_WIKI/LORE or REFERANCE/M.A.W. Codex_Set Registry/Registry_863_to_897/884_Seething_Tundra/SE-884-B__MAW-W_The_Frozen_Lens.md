@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Seething Tundra's void signature in the strike.  
 **Binding rule:** the bearer names Seething Tundra's event—A mourner tried to preserve a final tear as a memorial; the tear hardened around their anger.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Frozen Lens of Seething Tundra’s set is a Void instrument attacking the Soul by channeling the source’s void signature into the strike. Binding is testimonial: the bearer names the source event — a mourner tried to preserve a final tear as a memorial, and the tear hardened around their anger — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is the Void standard: the wielder loses small, nameless memories with each use, and continued use makes the sorrow feel autobiographical — the preserved tear’s frozen anger seeping into the wielder’s own memorials. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon contains the immediate hazard only after attribution to Seething Tundra, and treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Seething Tundra's kind of pressure.  
 **Binding rule:** the bearer names Seething Tundra's event—A mourner tried to preserve a final tear as a memorial; the tear hardened around their anger.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Frozen Veil of Seething Tundra’s set grants resistance to Void damage, protecting the Soul against the pressure of a grief preserved past its own nature — the tear kept instead of wept. Binding is testimonial: the wearer names the source event — a mourner tried to preserve a final tear as a memorial, and the tear hardened around their anger — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is the Void standard for armor: the wearer feels faintly absent to themselves, and continued use makes the sorrow feel autobiographical — the mourner’s keeping rehearsed in the wearer’s own refusals to let grief move. The source-trace set the doctrine: the suit remains cold while testing the worker’s patience — protection at the source’s own temperature, endurance its only currency — and it discharged the immediate hazard only after attribution to Seething Tundra. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

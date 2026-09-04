@@ -19,6 +19,10 @@
 **Canonical ability:** Reveals lies and hidden obligations.  
 **Binding rule:** the bearer names Screaming Masonry's event—Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls.—and accepts this limit: Acknowledge duties without accepting impossible blame
 
+## Appearance
+
+The Screaming Masonry Ring is the gift record of its source’s set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability is forensic: it reveals lies and hidden obligations, the concealed debts generations of failure taught the walls to hold. Binding names the source event — residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls — and accepts the set’s limit: acknowledge duties without accepting impossible blame. The cost accompanies every disclosure: the wearer feels the burden behind every deception, each revealed lie arriving with the weight that made someone tell it, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the obligations behind the cry — the scream parsed into specific unfulfilled duties, grievance given its itemized bill — and it witnessed the immediate hazard only after attribution to Screaming Masonry. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 4%  

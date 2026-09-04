@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Screaming Masonry's kind of pressure.  
 **Binding rule:** the bearer names Screaming Masonry's event—Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls.—and accepts this limit: Acknowledge duties without accepting impossible blame
 
+## Appearance
+
+The Screaming Masonry Mantle is the suit record of its source’s set, granting resistance to Weight damage and protecting the Han — sorrow reserves, karmic debt — against the pressure of duties mortared into walls by generations who failed one another. Binding is testimonial: the wearer names the source event — residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls — and accepts the set’s limit: acknowledge duties without accepting impossible blame. That limit is the garment’s entire safety doctrine: the walls’ cry is real but is no summons to answer for every failure in the stone. The operational cost is a constant low fatigue, and continued use makes the sorrow feel autobiographical — the masonry’s debts migrating onto the wearer’s ledger. The source-trace set the doctrine: the suit weighs the worker’s resolve, and it marked the immediate hazard only after attribution to Screaming Masonry. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

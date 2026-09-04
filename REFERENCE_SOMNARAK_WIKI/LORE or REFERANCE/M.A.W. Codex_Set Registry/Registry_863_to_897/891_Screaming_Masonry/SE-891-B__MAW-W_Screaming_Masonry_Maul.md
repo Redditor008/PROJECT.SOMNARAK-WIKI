@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Screaming Masonry's weight signature in the strike.  
 **Binding rule:** the bearer names Screaming Masonry's event—Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls.—and accepts this limit: Acknowledge duties without accepting impossible blame
 
+## Appearance
+
+The Screaming Masonry Maul is the weapon record of its source’s set, a Weight instrument attacking the Han — sorrow reserves, karmic debt — by channeling the source’s weight signature into the strike. Binding is testimonial: the bearer names the source event — residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls — and accepts the set’s limit: acknowledge duties without accepting impossible blame. The operational cost is the Weight standard: the wielder feels progressively heavier, prolonged use ages them slightly, and continued use makes the sorrow feel autobiographical — generations of other people’s unkept obligations invoicing themselves to the wielder’s account. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon interrupts the immediate hazard only after attribution to Screaming Masonry, and treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

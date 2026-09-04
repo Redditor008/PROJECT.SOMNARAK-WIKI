@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Conservatory's kind of pressure.  
 **Binding rule:** the bearer names Conservatory's event—A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Conservatory Plate is the suit record of Conservatory’s set, granting resistance to Grudge damage and protecting the Body against the pressure of a rescue that destroyed what it meant to save. Binding is testimonial: the wearer names Conservatory’s event — a caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized — and accepts the registry’s limit: the entity- specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is the Grudge standard for armor: the wearer’s reflexes dull, as if armored by resentment, and continued use makes the sorrow feel autobiographical — the collapse refiling itself under the wearer’s own failures. The source-trace set the doctrine: the suit tests whether the worker can remain without rebuilding — the caretaker’s error inverted into discipline, presence where intervention would overload the wound again — and it interrupted the immediate hazard only after attribution to Conservatory. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
