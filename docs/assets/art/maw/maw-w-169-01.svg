@@ -5,8 +5,8 @@
       <stop offset="100%" stop-color="#0a0703"/>
     </radialGradient>
     <linearGradient id="bl169" x1="0" y1="1" x2="1" y2="0">
-      <stop offset="0" stop-color="#f59e0b"/>
-      <stop offset="1" stop-color="#fde68a"/>
+      <stop offset="0" stop-color="#78350f"/>
+      <stop offset="1" stop-color="#fbbf24"/>
     </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw169)" stroke="#d97706" stroke-width="2.4"/>
@@ -14,28 +14,31 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0703" stroke="#d97706" stroke-width="1.2"/>
   <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- small maul swung level at the stressed point -->
-  <path d="M74 156 L196 196" stroke="#3f2d12" stroke-width="8" stroke-linecap="round"/>
-  <rect x="186" y="172" width="58" height="46" rx="6" transform="rotate(18 215 195)" fill="#151009" stroke="#d97706" stroke-width="2.6"/>
-  <!-- rust lines that appear ONLY because the support is overloaded -->
-  <path d="M196 186 C 204 190, 210 196, 212 204 M222 182 C 228 188, 232 196, 232 204 M208 178 L212 186" stroke="#b45309" stroke-width="2"/>
-  <path d="M84 160 L92 162 M118 170 L126 173 M152 181 L160 184" stroke="#f59e0b" stroke-width="1.6" opacity=".7"/>
-  <!-- the overloaded support: cracked column -->
-  <path d="M296 96 L296 330 M324 96 L324 330" stroke="#7c5b26" stroke-width="4"/>
-  <path d="M288 96 L332 96 M288 330 L332 330" stroke="#7c5b26" stroke-width="5"/>
-  <path d="M296 196 L310 208 L300 220 L312 232" fill="none" stroke="#fb923c" stroke-width="2.4"/>
-  <!-- short dark brace line: stressed point to the PREPARED replacement -->
-  <path d="M252 208 C 268 210, 282 210, 296 208" fill="none" stroke="#100b04" stroke-width="5"/>
-  <path d="M296 208 C 278 232, 258 254, 238 272" fill="none" stroke="#f59e0b" stroke-width="2.6" stroke-dasharray="7 4"/>
-  <!-- the replacement: fresh A-frame prop, already set -->
-  <path d="M212 330 L238 272 L264 330 M222 308 L254 308" fill="none" stroke="#fde68a" stroke-width="2.8"/>
-  <path d="M204 336 L272 336" stroke="#78350f" stroke-width="2"/>
-  <!-- relief team ready with the repair plan -->
-  <circle cx="104" cy="272" r="5" fill="none" stroke="#fde68a" stroke-width="1.8"/>
-  <path d="M104 277 L104 292 M104 281 L96 286 M104 281 L112 286 M104 292 L98 302 M104 292 L110 302" stroke="#fde68a" stroke-width="1.8" fill="none"/>
-  <circle cx="130" cy="276" r="5" fill="none" stroke="#d97706" stroke-width="1.8"/>
-  <path d="M130 281 L130 296 M130 285 L122 290 M130 285 L138 288 M130 296 L124 306 M130 296 L136 306" stroke="#d97706" stroke-width="1.8" fill="none"/>
-  <rect x="140" y="288" width="16" height="11" fill="none" stroke="#d97706" stroke-width="1.4"/>
-  <!-- handoff verification tick, then the rust fades -->
-  <path d="M340 260 L346 268 L358 250" fill="none" stroke="#4ade80" stroke-width="2.4"/>
+  <!-- compact haft, angled, with a working man's rope lashing -->
+  <path d="M104 340 L232 208" stroke="#2c1c0a" stroke-width="13" stroke-linecap="round"/>
+  <path d="M108 336 L228 212" stroke="#4a300f" stroke-width="7" stroke-linecap="round"/>
+  <path d="M132 316 C 140 308, 148 312, 146 320 C 154 312, 162 316, 160 324" fill="none" stroke="#a16207" stroke-width="2.6"/>
+  <path d="M98 348 a7 7 0 1 0 .1 0" fill="#1c1206" stroke="#f59e0b" stroke-width="2.4"/>
+  <!-- the head: small dense block, one face bright (the brace face), the rest rust-bloomed -->
+  <path d="M212 118 L316 96 L338 160 L246 194 C 232 198, 220 192, 216 178 Z"
+        fill="#171006" stroke="#d97706" stroke-width="3"/>
+  <path d="M222 126 L308 108 L326 156 L248 184 Z" fill="url(#bl169)" opacity=".2"/>
+  <!-- the bright brace face: polished from every load it has taken -->
+  <path d="M316 96 L338 160" stroke="#fde68a" stroke-width="4"/>
+  <path d="M320 104 L334 148" stroke="#fff7d6" stroke-width="1.6"/>
+  <!-- rust blooming in LIVING lines across the cheek — they appear when a support is overloaded -->
+  <path d="M232 132 C 244 138, 250 148, 250 160 M256 124 C 268 132, 274 144, 272 158 M282 116 C 294 126, 298 140, 294 154"
+        fill="none" stroke="#b45309" stroke-width="2.6"/>
+  <path d="M236 128 C 240 126, 244 127, 246 130 M262 120 C 266 118, 270 119, 272 122" stroke="#ea580c" stroke-width="1.8"/>
+  <circle cx="248" cy="164" r="2" fill="#b45309"/><circle cx="270" cy="160" r="2.2" fill="#b45309"/><circle cx="292" cy="156" r="1.8" fill="#b45309"/>
+  <!-- old cracks bound with iron stitching: repairs it carries proudly -->
+  <path d="M226 172 L246 148 M240 178 L258 152" stroke="#78350f" stroke-width="1.8"/>
+  <path d="M230 162 L242 168 M238 154 L250 160 M246 146 L258 152" stroke="#a8a29e" stroke-width="2.2"/>
+  <!-- collar rivets -->
+  <path d="M216 178 L236 196" stroke="#78716c" stroke-width="8"/>
+  <circle cx="222" cy="186" r="2.2" fill="#fde68a"/><circle cx="231" cy="193" r="2.2" fill="#fde68a"/>
+  <!-- the short dark brace line leaving the bright face: load moving where it is prepared to go -->
+  <path d="M340 130 C 356 134, 366 144, 370 158" fill="none" stroke="#100b04" stroke-width="5"/>
+  <path d="M340 130 C 356 134, 366 144, 370 158" fill="none" stroke="#f59e0b" stroke-width="1.2" opacity=".6"/>
+  <path d="M366 150 L372 160 L360 160" fill="none" stroke="#f59e0b" stroke-width="1.8"/>
 </svg>

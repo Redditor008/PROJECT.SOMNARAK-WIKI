@@ -5,8 +5,8 @@
       <stop offset="100%" stop-color="#0a0703"/>
     </radialGradient>
     <linearGradient id="bl180" x1="0" y1="1" x2="1" y2="0">
-      <stop offset="0" stop-color="#f59e0b"/>
-      <stop offset="1" stop-color="#fde68a"/>
+      <stop offset="0" stop-color="#78350f"/>
+      <stop offset="1" stop-color="#fbbf24"/>
     </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw180)" stroke="#d97706" stroke-width="2.4"/>
@@ -14,30 +14,33 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0703" stroke="#d97706" stroke-width="1.2"/>
   <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- long iron-banded haft, horizontal ram thrust -->
-  <path d="M56 218 L232 202" stroke="#3f2d12" stroke-width="10" stroke-linecap="round"/>
-  <path d="M84 208 L86 226 M128 204 L130 222 M172 200 L174 218" stroke="#78716c" stroke-width="4"/>
-  <!-- broad head cut like a ledger wall: offset layered lines -->
-  <rect x="228" y="172" width="66" height="58" rx="5" fill="#151009" stroke="#d97706" stroke-width="2.8"/>
-  <path d="M228 190 L294 190 M228 208 L294 208 M246 172 L246 190 M264 190 L264 208 M282 172 L282 190 M240 208 L240 230 M270 208 L270 230" stroke="#a16207" stroke-width="1.6"/>
-  <!-- the debt barrier: Wall-like Weight surge, held open -->
-  <path d="M318 74 L318 168 M318 240 L318 344" stroke="#7c5b26" stroke-width="5"/>
-  <path d="M306 92 L330 92 M306 122 L330 122 M306 152 L330 152 M306 262 L330 262 M306 292 L330 292 M306 322 L330 322" stroke="#7c5b26" stroke-width="2"/>
-  <!-- pressure arcs where the head holds the gap -->
-  <path d="M300 176 C 310 184, 314 194, 314 204 M300 232 C 310 226, 314 218, 314 208" fill="none" stroke="#f59e0b" stroke-width="2.4"/>
-  <path d="M322 168 C 330 178, 334 192, 334 204 M322 240 C 330 230, 334 218, 334 206" fill="none" stroke="#fde68a" stroke-width="1.6" opacity=".7"/>
-  <!-- people reaching review through the held gap — never struck -->
-  <circle cx="346" cy="196" r="4.4" fill="none" stroke="#fde68a" stroke-width="1.8"/>
-  <path d="M346 200 L346 212 M346 203 L340 208 M346 203 L352 208 M346 212 L342 220 M346 212 L350 220" stroke="#fde68a" stroke-width="1.6" fill="none"/>
-  <path d="M336 204 L360 204" stroke="#f59e0b" stroke-width="1.2" stroke-dasharray="2 4" opacity=".8"/>
-  <rect x="364" y="182" width="16" height="40" rx="2" fill="none" stroke="#fde68a" stroke-width="1.8"/>
-  <!-- custodian with the route BEYOND the block, named before the head would rise -->
-  <circle cx="94" cy="290" r="5.4" fill="none" stroke="#d97706" stroke-width="1.8"/>
-  <path d="M94 295 L94 312 M94 299 L84 304 M94 299 L106 296 M94 312 L87 324 M94 312 L101 324" stroke="#d97706" stroke-width="1.8" fill="none"/>
-  <path d="M106 296 C 140 280, 186 272, 232 272 C 262 272, 288 276, 306 282" fill="none" stroke="#f59e0b" stroke-width="1.8" stroke-dasharray="7 5"/>
-  <path d="M298 274 L310 283 L296 290" fill="none" stroke="#f59e0b" stroke-width="1.8"/>
-  <!-- route review card closing every deployment -->
-  <rect x="58" y="112" width="76" height="40" rx="4" fill="none" stroke="#fde68a" stroke-width="1.8"/>
-  <path d="M68 124 L124 124 M68 133 L112 133 M68 142 L100 142" stroke="#fde68a" stroke-width="1.4"/>
-  <path d="M116 138 L121 144 L130 130" fill="none" stroke="#4ade80" stroke-width="2"/>
+  <!-- long haft crossing low, iron-banded, cold sheen -->
+  <path d="M48 328 L338 268" stroke="#100b04" stroke-width="15" stroke-linecap="round"/>
+  <path d="M52 324 L334 266" stroke="#2c1c0a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M96 316 L100 334 M156 304 L160 322 M216 292 L220 310" stroke="#78716c" stroke-width="6"/>
+  <path d="M97 314 L100 330 M157 302 L160 318 M217 290 L220 306" stroke="#a8a29e" stroke-width="1.8"/>
+  <path d="M42 336 a8 8 0 1 0 .1 0" fill="#1c1206" stroke="#f59e0b" stroke-width="2.4"/>
+  <!-- THE LEDGER-WALL HEAD: broad block, offset brick courses, each brick a ruled entry -->
+  <path d="M232 96 L356 118 C 366 120, 372 128, 370 138 L354 226 C 352 236, 344 242, 334 240 L210 218 C 200 216, 194 208, 196 198 L212 110 C 214 100, 222 94, 232 96 Z"
+        fill="#171006" stroke="#d97706" stroke-width="3.2"/>
+  <rect x="216" y="112" width="140" height="112" rx="8" transform="rotate(10 286 168)" fill="url(#bl180)" opacity=".14"/>
+  <!-- brick courses, offset like recorded obligation -->
+  <path d="M206 148 L364 176 M202 182 L358 210" stroke="#a16207" stroke-width="2.2"/>
+  <path d="M262 106 L254 152 M310 114 L302 160 M232 152 L224 196 M282 160 L274 206 M330 168 L324 212" stroke="#a16207" stroke-width="1.8"/>
+  <!-- ruled ledger lines inside several bricks -->
+  <path d="M222 128 L250 133 M222 136 L244 140 M270 166 L298 171 M270 174 L292 178 M236 196 L262 201" stroke="#78350f" stroke-width="1.2"/>
+  <!-- one entry struck through: the debt it opened -->
+  <path d="M300 186 L334 192" stroke="#fde68a" stroke-width="2"/>
+  <path d="M298 190 L336 188" stroke="#f59e0b" stroke-width="1.2"/>
+  <!-- iron edge-bands top and bottom, riveted -->
+  <path d="M228 98 L358 122" stroke="#78716c" stroke-width="6"/>
+  <path d="M206 214 L336 238" stroke="#78716c" stroke-width="6"/>
+  <circle cx="244" cy="103" r="2.4" fill="#fde68a"/><circle cx="300" cy="113" r="2.4" fill="#fde68a"/><circle cx="348" cy="121" r="2.4" fill="#fde68a"/>
+  <circle cx="222" cy="219" r="2.4" fill="#fde68a"/><circle cx="278" cy="229" r="2.4" fill="#fde68a"/><circle cx="326" cy="237" r="2.4" fill="#fde68a"/>
+  <!-- pressure glow rolling off the striking face: the wall it holds open -->
+  <path d="M372 130 C 382 138, 388 148, 390 160 M370 148 C 378 154, 383 162, 385 172" fill="none" stroke="#fde68a" stroke-width="2" opacity=".8"/>
+  <path d="M368 166 C 374 170, 378 176, 380 184" fill="none" stroke="#f59e0b" stroke-width="1.6" opacity=".6"/>
+  <!-- eye collar where haft meets head -->
+  <path d="M232 210 L252 226" stroke="#78716c" stroke-width="9"/>
+  <circle cx="238" cy="216" r="2.4" fill="#fde68a"/><circle cx="247" cy="223" r="2.4" fill="#fde68a"/>
 </svg>

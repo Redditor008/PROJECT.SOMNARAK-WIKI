@@ -5,8 +5,8 @@
       <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
     <linearGradient id="bl175" x1="0" y1="1" x2="1" y2="0">
-      <stop offset="0" stop-color="#60a5fa"/>
-      <stop offset="1" stop-color="#7dd3fc"/>
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#93c5fd"/>
     </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw175)" stroke="#38bdf8" stroke-width="2.4"/>
@@ -14,29 +14,35 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- slender blade, low diagonal; oval doorway guard -->
-  <path d="M96 330 L84 344 L96 354 L262 190 C 274 178, 276 164, 266 156 C 256 148, 242 152, 232 162 Z"
-        fill="url(#bl175)" stroke="#38bdf8" stroke-width="2.4"/>
-  <ellipse cx="104" cy="330" rx="10" ry="17" transform="rotate(45 104 330)" fill="none" stroke="#7dd3fc" stroke-width="2.4"/>
-  <path d="M92 342 L74 360" stroke="#12233d" stroke-width="6" stroke-linecap="round"/>
-  <path d="M76 346 L82 352 M84 338 L90 344" stroke="#60a5fa" stroke-width="1.6"/>
-  <!-- wandering threads under the surface gathering into ONE luminous line -->
-  <path d="M116 320 C 128 304, 124 296, 136 284 C 146 274, 144 264, 156 254" fill="none" stroke="#0a1626" stroke-width="1.8"/>
-  <path d="M128 326 C 142 312, 138 300, 152 288 C 162 278, 160 270, 172 260" fill="none" stroke="#0a1626" stroke-width="1.8"/>
-  <path d="M160 254 L252 166" stroke="#e0f2fe" stroke-width="2.6"/>
-  <!-- the line continues past the tip into the maze of hidden desire -->
-  <path d="M268 158 L312 118" stroke="#7dd3fc" stroke-width="2.4" stroke-dasharray="9 5"/>
-  <path d="M282 66 L346 66 L346 130 L298 130 L298 82 L330 82 L330 114 L314 114 L314 98" fill="none" stroke="#3b5f88" stroke-width="2.2"/>
-  <!-- the sleeper drawn OUT of the maze, not told the dream is false -->
-  <circle cx="256" cy="252" r="5.4" fill="none" stroke="#7dd3fc" stroke-width="1.8"/>
-  <path d="M262 256 L286 262 M286 262 L296 258 M286 262 L292 270" stroke="#7dd3fc" stroke-width="1.8" fill="none"/>
-  <path d="M244 262 C 252 258, 262 258, 270 260" fill="none" stroke="#3b5f88" stroke-width="1.4" opacity=".7"/>
-  <path d="M312 128 C 300 172, 284 214, 268 244" fill="none" stroke="#60a5fa" stroke-width="1.6" stroke-dasharray="3 6" opacity=".8"/>
-  <!-- waking anchor: lantern with the stated cue -->
-  <rect x="316" y="296" width="30" height="38" rx="4" fill="none" stroke="#fcd34d" stroke-width="2.2"/>
-  <path d="M323 296 L323 288 L339 288 L339 296 M331 306 L331 320" stroke="#fcd34d" stroke-width="2"/>
-  <circle cx="331" cy="324" r="2.4" fill="#fcd34d"/>
-  <path d="M316 315 C 296 312, 280 304, 268 292" fill="none" stroke="#fcd34d" stroke-width="1.4" stroke-dasharray="4 5" opacity=".8"/>
-  <!-- consent boundary spoken aloud: small paired marks -->
-  <path d="M60 96 C 66 90, 74 90, 80 96 M60 108 C 66 102, 74 102, 80 108" stroke="#7dd3fc" stroke-width="1.8" fill="none"/>
+  <!-- blade: long elegant diagonal, translucent crystal -->
+  <path d="M118 314 L102 330 L116 344 L310 128 C 326 110, 330 88, 316 76 C 302 66, 282 72, 268 88 Z"
+        fill="url(#bl175)" stroke="#38bdf8" stroke-width="2.8"/>
+  <path d="M124 308 L306 106" stroke="#e0f2fe" stroke-width="1.6" opacity=".9"/>
+  <path d="M136 318 L300 138" stroke="#1e3a5f" stroke-width="1.8"/>
+  <!-- WANDERING threads under the surface near the guard: loose, directionless -->
+  <path d="M134 296 C 146 288, 142 278, 154 270 C 162 264, 158 256, 168 250 C 176 244, 172 236, 182 230"
+        fill="none" stroke="#3b5f88" stroke-width="2"/>
+  <path d="M148 306 C 162 296, 158 288, 172 278 C 182 270, 178 262, 190 254" fill="none" stroke="#3b5f88" stroke-width="1.6" opacity=".8"/>
+  <path d="M128 284 C 138 278, 136 270, 146 264" fill="none" stroke="#3b5f88" stroke-width="1.4" opacity=".6"/>
+  <!-- the threads ALIGN mid-blade into one luminous line running out the tip -->
+  <path d="M186 240 C 198 230, 212 218, 226 204" fill="none" stroke="#7dd3fc" stroke-width="2.6"/>
+  <path d="M226 204 L306 118" stroke="#e0f2fe" stroke-width="3"/>
+  <path d="M298 108 L312 116 M302 128 L314 118" stroke="#e0f2fe" stroke-width="1.6" opacity=".8"/>
+  <!-- knot where they join: small bright braid -->
+  <circle cx="222" cy="208" r="4.6" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <path d="M216 214 C 219 210, 225 206, 229 203" stroke="#f1df76" stroke-width="1.2"/>
+  <!-- oval doorway guard: thread-light framed like a door ajar -->
+  <ellipse cx="106" cy="324" rx="14" ry="24" transform="rotate(45 106 324)" fill="#0a1626" stroke="#93c5fd" stroke-width="3.2"/>
+  <ellipse cx="106" cy="324" rx="8" ry="17" transform="rotate(45 106 324)" fill="none" stroke="#60a5fa" stroke-width="1.6" opacity=".8"/>
+  <path d="M100 318 L112 330" stroke="#e0f2fe" stroke-width="1.6"/>
+  <!-- pale blue cord wrap, loop by loop, with the consent-knot ends -->
+  <path d="M92 340 L54 378" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
+  <path d="M88 344 L96 352 M80 352 L88 360 M72 360 L80 368 M64 368 L72 376" stroke="#93c5fd" stroke-width="2.6"/>
+  <path d="M50 384 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#fcd34d" stroke-width="2.2"/>
+  <path d="M44 388 C 38 392, 32 392, 28 388 M56 392 C 52 396, 46 397, 42 395" fill="none" stroke="#93c5fd" stroke-width="1.6"/>
+  <!-- waking-anchor charm: tiny lantern hung from the guard -->
+  <path d="M124 342 C 128 348, 128 354, 124 358" fill="none" stroke="#fcd34d" stroke-width="1.6"/>
+  <rect x="118" y="358" width="13" height="16" rx="2" fill="#0a1626" stroke="#fcd34d" stroke-width="1.8"/>
+  <path d="M124 362 L124 370" stroke="#fcd34d" stroke-width="1.6"/>
+  <circle cx="124" cy="372" r="1.4" fill="#fcd34d"/>
 </svg>

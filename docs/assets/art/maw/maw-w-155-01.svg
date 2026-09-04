@@ -1,44 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SHADOW MAUL">
   <defs>
-    <radialGradient id="bw155" cx="66%" cy="34%" r="64%">
-      <stop offset="0%" stop-color="#26200c"/>
-      <stop offset="100%" stop-color="#0c0a04"/>
+    <radialGradient id="bw155" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1c1206"/>
+      <stop offset="100%" stop-color="#0a0703"/>
     </radialGradient>
-    <linearGradient id="hd155" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#3f3a30"/>
-      <stop offset="1" stop-color="#12100b"/>
+    <linearGradient id="bl155" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#713f12"/>
+      <stop offset="1" stop-color="#fde047"/>
     </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw155)" stroke="#eab308" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0a04" stroke="#eab308" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0703" stroke="#eab308" stroke-width="1.2"/>
   <text x="30" y="36" fill="#eab308" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- THE LIT ROOM: a lamp burning on the right -->
-  <path d="M318 96 L318 150" stroke="#57534e" stroke-width="3"/>
-  <rect x="304" y="96" width="28" height="36" rx="4" fill="#0f0d08" stroke="#a8a29e" stroke-width="2.2"/>
-  <circle cx="318" cy="114" r="8" fill="#fde68a"/>
-  <path d="M318 96 L318 88 M300 104 L292 100 M336 104 L344 100" stroke="#fde68a" stroke-width="1.6" opacity=".7"/>
-  <!-- light rays falling LEFT toward the maul -->
-  <path d="M296 118 L252 138 M298 130 L256 152" stroke="#fde68a" stroke-width="1" stroke-dasharray="3 6" opacity=".5"/>
-  <!-- floor -->
-  <path d="M48 262 L352 262" stroke="#3f3a30" stroke-width="2.6"/>
-  <!-- COMPACT MALLET standing on the floor, head up -->
-  <rect x="140" y="120" width="92" height="62" rx="8" fill="url(#hd155)" stroke="#eab308" stroke-width="3"/>
-  <path d="M152 132 L220 132 M148 168 L224 168" stroke="#57534e" stroke-width="1.4" opacity=".7"/>
-  <rect x="178" y="182" width="16" height="80" rx="5" fill="#0f0d08" stroke="#eab308" stroke-width="2.4"/>
-  <path d="M179 200 L193 205 M179 220 L193 225 M179 240 L193 245" stroke="#eab308" stroke-width="1.4" opacity=".8"/>
-  <!-- THE WRONG SHADOW: cast TOWARD the lamp, lengthening toward the pressure -->
-  <path d="M232 262 C 262 256, 292 252, 320 252 L332 262 Z" fill="#000" fill-opacity=".75"/>
-  <path d="M232 262 C 262 258, 292 256, 322 258" fill="none" stroke="#78716c" stroke-width="1.2" opacity=".6"/>
-  <!-- it darkens as it reaches THE WEIGHT PRESSURE: a black block hovering at the room's edge -->
-  <rect x="326" y="216" width="34" height="34" rx="4" fill="#050403" stroke="#78716c" stroke-width="2.2"/>
-  <path d="M334 224 L352 242 M352 224 L334 242" stroke="#44403c" stroke-width="1.6"/>
-  <path d="M322 252 L326 250" stroke="#000" stroke-width="4"/>
-  <!-- the TRUE shadow that should exist, faint and unused, on the left -->
-  <path d="M140 262 C 120 258, 100 258, 82 260 L72 262 Z" fill="#000" fill-opacity=".15"/>
-  <!-- verified balance + marked uncertainty: two chalk marks on the floor -->
-  <path d="M120 276 L152 276" stroke="#d6d3d1" stroke-width="2"/>
-  <path d="M254 276 C 258 270, 264 270, 268 276 C 264 282, 258 282, 254 276 Z" fill="none" stroke="#d6d3d1" stroke-width="1.6"/>
-  <circle cx="186" cy="270" r="3" fill="#f1df76"/>
+  <!-- the wrong shadow: cast UP-LEFT toward the light, as a dark twin of the maul -->
+  <path d="M148 172 L84 108" stroke="#000000" stroke-width="12" stroke-linecap="round" opacity=".8"/>
+  <rect x="34" y="52" width="74" height="52" rx="8" transform="rotate(45 71 78)" fill="#000000" opacity=".8"/>
+  <path d="M148 172 L84 108" stroke="#eab308" stroke-width="1" opacity=".25"/>
+  <!-- small lamp glow upper-left that the shadow wrongly reaches for -->
+  <circle cx="52" cy="52" r="10" fill="none" stroke="#fde047" stroke-width="2"/>
+  <circle cx="52" cy="52" r="4" fill="#fde047"/>
+  <path d="M52 36 L52 28 M66 42 L72 36 M38 42 L32 36" stroke="#fde047" stroke-width="1.6" opacity=".8"/>
+  <!-- the mallet itself: compact, dense, downward-right diagonal -->
+  <path d="M172 196 L318 342" stroke="#2c1c0a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M176 200 L314 338" stroke="#4a300f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M204 232 L192 244 M232 260 L220 272 M260 288 L248 300" stroke="#eab308" stroke-width="2" opacity=".85"/>
+  <path d="M322 350 a8 8 0 1 0 .1 0" fill="#1c1206" stroke="#fde047" stroke-width="2.4"/>
+  <!-- head: squat octagonal iron block, rim chamfers, strike faces polished -->
+  <path d="M128 128 L176 112 L216 128 L232 176 L216 216 L168 232 L128 216 L112 168 Z"
+        fill="#171006" stroke="#eab308" stroke-width="3"/>
+  <path d="M136 136 L176 122 L208 136 L222 174 L208 208 L170 222 L136 208 L122 170 Z" fill="url(#bl155)" opacity=".22"/>
+  <path d="M128 128 L176 112 L216 128" fill="none" stroke="#fde047" stroke-width="1.6" opacity=".9"/>
+  <!-- chamfer facets -->
+  <path d="M140 144 L204 200 M204 144 L140 200" stroke="#713f12" stroke-width="1.8" opacity=".8"/>
+  <circle cx="172" cy="172" r="14" fill="none" stroke="#a16207" stroke-width="2"/>
+  <circle cx="172" cy="172" r="5" fill="#eab308"/>
+  <!-- weight-block sigil stamped on the face -->
+  <rect x="162" y="162" width="20" height="20" fill="none" stroke="#fde047" stroke-width="1.2" opacity=".7" transform="rotate(45 172 172)"/>
+  <!-- lamp glints on the rim: light agrees, shadow does not -->
+  <path d="M214 130 L224 122 M228 150 L240 146 M226 196 L238 202" stroke="#fde047" stroke-width="2" opacity=".85"/>
+  <!-- chalk uncertainty tick where shadow meets iron -->
+  <path d="M138 122 C 134 114, 136 106, 142 102 M148 118 L146 110" fill="none" stroke="#d6d3d1" stroke-width="1.4" opacity=".7"/>
 </svg>

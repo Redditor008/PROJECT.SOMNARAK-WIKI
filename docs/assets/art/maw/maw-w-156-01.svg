@@ -1,44 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DEADLINE MAUL">
   <defs>
-    <radialGradient id="bw156" cx="44%" cy="38%" r="64%">
-      <stop offset="0%" stop-color="#241705"/>
-      <stop offset="100%" stop-color="#0c0702"/>
+    <radialGradient id="bw156" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1c1206"/>
+      <stop offset="100%" stop-color="#0a0703"/>
     </radialGradient>
-    <linearGradient id="hd156" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#4a3418"/>
-      <stop offset="1" stop-color="#160e05"/>
+    <linearGradient id="bl156" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#78350f"/>
+      <stop offset="1" stop-color="#fbbf24"/>
     </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw156)" stroke="#f59e0b" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0702" stroke="#f59e0b" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0703" stroke="#f59e0b" stroke-width="1.2"/>
   <text x="30" y="36" fill="#f59e0b" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- head with CRACKED CLOCK-FACE inset, tilted forward mid-move -->
-  <g transform="rotate(-8 170 130)">
-    <rect x="96" y="86" width="148" height="88" rx="10" fill="url(#hd156)" stroke="#f59e0b" stroke-width="3"/>
-    <circle cx="170" cy="130" r="34" fill="#0a0601" stroke="#fde68a" stroke-width="2.4"/>
-    <!-- crack through the face -->
-    <path d="M148 108 L164 126 L156 142 L170 158" fill="none" stroke="#fde68a" stroke-width="1.6" opacity=".9"/>
-    <!-- ticks -->
-    <path d="M170 100 L170 106 M198 130 L192 130 M170 160 L170 154 M142 130 L148 130" stroke="#fde68a" stroke-width="1.6" opacity=".8"/>
-    <!-- hands NOT at ordinary time: both past twelve, mid-travel -->
-    <path d="M170 130 L186 114 M170 130 L178 146" stroke="#fde68a" stroke-width="2.4"/>
-    <circle cx="170" cy="130" r="3" fill="#fde68a"/>
-  </g>
-  <!-- THE WEIGHT LINE the hands move along, toward the immediate action field -->
-  <path d="M244 132 C 280 140, 308 158, 328 186" fill="none" stroke="#0c0a09" stroke-width="5"/>
-  <path d="M244 132 C 280 140, 308 158, 328 186" fill="none" stroke="#fbbf24" stroke-width="1.4" stroke-dasharray="7 6" opacity=".85"/>
-  <!-- THE IMMEDIATE ACTION FIELD: one framed task, next verified action ticked -->
-  <rect x="304" y="190" width="66" height="52" rx="5" fill="#0f0a03" stroke="#fde68a" stroke-width="2.4"/>
-  <path d="M314 206 L330 206 M314 218 L344 218 M314 230 L338 230" stroke="#a16207" stroke-width="1.8"/>
-  <path d="M348 202 L354 210 L364 196" fill="none" stroke="#4ade80" stroke-width="2.2"/>
-  <!-- long wrapped haft -->
-  <path d="M150 178 L120 330 L104 326 L136 176 Z" fill="#120b03" stroke="#f59e0b" stroke-width="2.6"/>
-  <path d="M140 198 L152 202 M135 224 L147 228 M130 250 L142 254 M125 276 L137 280 M120 302 L132 306" stroke="#f59e0b" stroke-width="1.5" opacity=".8"/>
-  <path d="M102 332 L126 338 L122 354 L98 348 Z" fill="#120b03" stroke="#f1df76" stroke-width="2"/>
-  <!-- THE CASE CARD under the head: due date, action, PROTECTED REST interval -->
-  <rect x="66" y="196" width="76" height="46" rx="3" fill="#e7e5e4" fill-opacity=".92" stroke="#a8a29e" stroke-width="1.6" transform="rotate(-5 104 219)"/>
-  <path d="M76 210 L124 212 M76 220 L116 222" stroke="#292524" stroke-width="1.5" transform="rotate(-5 104 219)"/>
-  <path d="M76 230 L104 232" stroke="#4ade80" stroke-width="1.8" transform="rotate(-5 104 219)"/>
+  <!-- haft sweeping from low-left, iron collars -->
+  <path d="M84 348 L232 214" stroke="#2c1c0a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M88 344 L228 218" stroke="#4a300f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M118 320 L132 334 M150 290 L164 304 M182 262 L196 276" stroke="#78716c" stroke-width="6"/>
+  <path d="M120 318 L130 328 M152 288 L162 298 M184 260 L194 270" stroke="#d6d3d1" stroke-width="1.6"/>
+  <path d="M78 356 a8 8 0 1 0 .1 0" fill="#1c1206" stroke="#f59e0b" stroke-width="2.4"/>
+  <!-- clock-face head: heavy ring, glass face, numerals as ticks -->
+  <circle cx="272" cy="152" r="74" fill="#171006" stroke="#f59e0b" stroke-width="3.4"/>
+  <circle cx="272" cy="152" r="74" fill="url(#bl156)" opacity=".18"/>
+  <circle cx="272" cy="152" r="60" fill="none" stroke="#a16207" stroke-width="2"/>
+  <!-- hour ticks, twelve of them -->
+  <path d="M272 96 L272 106 M272 198 L272 208 M216 152 L226 152 M318 152 L328 152 M244 104 L249 113 M300 104 L295 113 M244 200 L249 191 M300 200 L295 191 M222 124 L231 129 M322 124 L313 129 M222 180 L231 175 M322 180 L313 175"
+        stroke="#fbbf24" stroke-width="2.4"/>
+  <!-- hands stuck off-time -->
+  <path d="M272 152 L296 118" stroke="#fde68a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M272 152 L240 164" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="272" cy="152" r="5" fill="#fde68a"/>
+  <!-- the crack across the face, gears exposed inside -->
+  <path d="M212 122 L246 142 L238 166 L268 186 L262 210" fill="none" stroke="#f59e0b" stroke-width="3"/>
+  <path d="M212 122 L246 142 L238 166" fill="none" stroke="#fff7d6" stroke-width="1.2"/>
+  <circle cx="250" cy="176" r="9" fill="none" stroke="#a16207" stroke-width="2"/>
+  <path d="M250 165 L250 169 M250 183 L250 187 M239 176 L243 176 M257 176 L261 176 M243 169 L246 172 M257 180 L254 177 M243 183 L246 180 M257 172 L254 175" stroke="#a16207" stroke-width="1.8"/>
+  <circle cx="264" cy="196" r="6" fill="none" stroke="#78350f" stroke-width="1.8"/>
+  <path d="M264 188 L264 191 M264 201 L264 204 M256 196 L259 196 M269 196 L272 196" stroke="#78350f" stroke-width="1.4"/>
+  <!-- strike collar joining head to haft -->
+  <path d="M226 206 L244 224" stroke="#78716c" stroke-width="8"/>
+  <path d="M228 204 L242 218" stroke="#d6d3d1" stroke-width="1.8"/>
+  <!-- due-tick engraved at twelve: the one mark that matters -->
+  <path d="M266 88 L272 96 L282 82" fill="none" stroke="#4ade80" stroke-width="2.6"/>
 </svg>

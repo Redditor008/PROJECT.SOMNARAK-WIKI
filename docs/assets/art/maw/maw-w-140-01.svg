@@ -1,38 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE WILLOW REQUIEM">
   <defs>
-    <radialGradient id="bw140" cx="50%" cy="40%" r="64%">
-      <stop offset="0%" stop-color="#0c1c3a"/>
-      <stop offset="100%" stop-color="#04080f"/>
+    <radialGradient id="bw140" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <linearGradient id="bl140" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#93c5fd"/>
-      <stop offset="1" stop-color="#1e3a8a"/>
+    <linearGradient id="bl140" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1e40af"/>
+      <stop offset="1" stop-color="#93c5fd"/>
     </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw140)" stroke="#3b82f6" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#04080f" stroke="#3b82f6" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#3b82f6" stroke-width="1.2"/>
   <text x="30" y="36" fill="#3b82f6" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- slender blade DROOPING like a willow branch: hilt high-left, tip bowing down-right -->
-  <path d="M96 88 C 176 96, 244 136, 286 208 C 302 236, 310 264, 312 290 L296 292 C 292 266, 284 240, 270 216 C 230 152, 170 114, 94 106 Z"
-        fill="url(#bl140)" fill-opacity=".55" stroke="#60a5fa" stroke-width="2.6"/>
-  <!-- the long tear-leaf line down the centre, with the Han film that never drips -->
-  <path d="M102 97 C 178 106, 240 144, 280 212 C 292 234, 300 260, 304 284" fill="none" stroke="#dbeafe" stroke-width="1.5" opacity=".9"/>
-  <path d="M150 108 C 154 114, 150 120, 144 120 M212 140 C 216 146, 212 152, 206 152 M262 192 C 266 198, 262 204, 256 204" fill="none" stroke="#bfdbfe" stroke-width="1.2" opacity=".7"/>
-  <!-- PALE LEAF-LIGHT shed along the chosen line: motes falling slowly -->
-  <path d="M180 150 C 186 146, 192 148, 194 154 C 190 158, 184 158, 180 150 Z" fill="#bfdbfe" opacity=".85"/>
-  <path d="M228 190 C 234 186, 240 188, 242 194 C 238 198, 232 198, 228 190 Z" fill="#bfdbfe" opacity=".65"/>
-  <path d="M262 240 C 268 236, 274 238, 276 244 C 272 248, 266 248, 262 240 Z" fill="#bfdbfe" opacity=".5"/>
-  <path d="M188 162 L186 178 M236 202 L234 216 M270 252 L268 264" stroke="#bfdbfe" stroke-width="1" stroke-dasharray="2 4" opacity=".5"/>
-  <path d="M186 186 L184 196 M232 224 L230 232" stroke="#93c5fd" stroke-width=".9" stroke-dasharray="1 4" opacity=".35"/>
-  <!-- hum after the farewell is named: soft arcs under the bow -->
-  <path d="M220 262 C 212 270, 200 272, 190 268 M232 282 C 220 292, 204 294, 190 288" fill="none" stroke="#3b82f6" stroke-width="1.2" opacity=".5"/>
-  <!-- PALE LEAF-SHAPED GUARD at the hilt -->
-  <path d="M88 82 C 102 72, 118 74, 126 86 C 116 98, 100 100, 88 92 Z" fill="#0c1e3e" stroke="#93c5fd" stroke-width="2.2"/>
-  <path d="M94 87 C 104 84, 112 85, 120 88" fill="none" stroke="#dbeafe" stroke-width="1" opacity=".7"/>
-  <!-- cool wrapped grip rising off-frame -->
-  <path d="M84 80 L62 44 L78 34 L98 70 Z" fill="#0c1e3e" stroke="#3b82f6" stroke-width="2.4"/>
-  <path d="M74 64 L86 56 M68 52 L80 44" stroke="#3b82f6" stroke-width="1.4" opacity=".85"/>
-  <circle cx="66" cy="30" r="7" fill="#0c1e3e" stroke="#f1df76" stroke-width="2"/>
+  <!-- grip low right, branch-like with bark rings -->
+  <path d="M312 350 L286 274" stroke="#12233d" stroke-width="12" stroke-linecap="round"/>
+  <path d="M304 336 L316 332 M298 318 L310 314 M292 300 L304 296" stroke="#3b82f6" stroke-width="2.2"/>
+  <path d="M318 358 a7 7 0 1 0 .1 0" fill="#0a1626" stroke="#93c5fd" stroke-width="2.4"/>
+  <!-- leaf-shaped guard, veined -->
+  <path d="M268 262 C 258 246, 262 230, 278 224 C 294 218, 308 226, 312 242 C 300 254, 284 262, 268 262 Z" fill="#12233d" stroke="#60a5fa" stroke-width="2.6"/>
+  <path d="M272 256 C 282 244, 294 236, 306 232 M282 252 L288 242 M292 246 L298 236" fill="none" stroke="#7dd3fc" stroke-width="1.4"/>
+  <!-- the drooping willow blade: long arc bending down like a branch in rain -->
+  <path d="M276 232 C 220 160, 150 122, 76 118 C 60 118, 48 122, 42 130 C 52 142, 68 148, 86 150 C 152 158, 214 196, 258 252 Z"
+        fill="url(#bl140)" stroke="#3b82f6" stroke-width="2.8"/>
+  <!-- central vein and side veins like a willow leaf -->
+  <path d="M266 240 C 214 178, 152 142, 84 134" fill="none" stroke="#1e3a5f" stroke-width="2"/>
+  <path d="M238 214 C 240 204, 246 198, 254 194 M198 182 C 200 172, 206 166, 214 162 M158 158 C 160 148, 166 142, 174 138 M118 142 C 120 134, 126 128, 134 126" fill="none" stroke="#1e3a5f" stroke-width="1.4" opacity=".85"/>
+  <!-- underside edge highlight -->
+  <path d="M254 250 C 210 196, 150 160, 88 152" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".9"/>
+  <!-- weep-light beading and falling from the low curve -->
+  <circle cx="104" cy="156" r="2.6" fill="#93c5fd"/><circle cx="150" cy="170" r="2.4" fill="#7dd3fc"/><circle cx="196" cy="192" r="2.6" fill="#93c5fd"/>
+  <path d="M104 162 C 102 176, 104 190, 100 204 M150 176 C 148 190, 150 202, 146 216 M196 198 C 194 210, 196 222, 192 234"
+        fill="none" stroke="#60a5fa" stroke-width="1.4" stroke-dasharray="2 5" opacity=".8"/>
+  <path d="M98 210 C 94 216, 94 221, 98 224 C 102 221, 102 216, 98 210 Z M144 222 C 140 228, 140 233, 144 236 C 148 233, 148 228, 144 222 Z M190 240 C 186 246, 186 251, 190 254 C 194 251, 194 246, 190 240 Z" fill="#7dd3fc" opacity=".9"/>
+  <!-- hum arcs under the bow of the blade -->
+  <path d="M120 214 C 150 226, 180 244, 206 268 M104 236 C 136 250, 166 270, 190 296" fill="none" stroke="#1e40af" stroke-width="1.4" opacity=".55"/>
 </svg>

@@ -1,43 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BROKEN MAUL">
   <defs>
-    <radialGradient id="bw127" cx="42%" cy="44%" r="64%">
-      <stop offset="0%" stop-color="#221807"/>
-      <stop offset="100%" stop-color="#0b0703"/>
+    <radialGradient id="bw127" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1c1206"/>
+      <stop offset="100%" stop-color="#0a0703"/>
     </radialGradient>
-    <linearGradient id="hd127" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#44403c"/>
-      <stop offset=".5" stop-color="#1c1917"/>
-      <stop offset="1" stop-color="#44403c"/>
+    <linearGradient id="bl127" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#78350f"/>
+      <stop offset="1" stop-color="#fbbf24"/>
     </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw127)" stroke="#f59e0b" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0b0703" stroke="#f59e0b" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0703" stroke="#f59e0b" stroke-width="1.2"/>
   <text x="30" y="36" fill="#f59e0b" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- broad head face turned to viewer, crossed by MIRRORED fracture lines -->
-  <g transform="rotate(-10 150 150)">
-    <rect x="72" y="92" width="156" height="116" rx="8" fill="url(#hd127)" stroke="#f59e0b" stroke-width="3"/>
-    <!-- mirrored fractures: same crack, flipped either side of the centre line -->
-    <path d="M150 92 L150 208" stroke="#78350f" stroke-width="1.6" opacity=".7"/>
-    <path d="M150 116 L120 136 L134 158 L104 178 M150 116 L180 136 L166 158 L196 178" fill="none" stroke="#fde68a" stroke-width="2" opacity=".9"/>
-    <path d="M150 140 L128 190 M150 140 L172 190" fill="none" stroke="#fbbf24" stroke-width="1.2" opacity=".6"/>
-    <!-- two different angles of the bearer's face caught in the halves -->
-    <path d="M112 122 C 118 116, 126 116, 130 122 M116 128 L118 126" fill="none" stroke="#fde68a" stroke-width="1.4" opacity=".75"/>
-    <path d="M188 122 C 184 116, 176 116, 172 122 M186 130 L182 128" fill="none" stroke="#fde68a" stroke-width="1.4" opacity=".75"/>
-  </g>
-  <!-- MULTIPLE BLACK IMPACT PATHS opening from the face, converging at ONE endpoint -->
-  <path d="M232 120 C 272 128, 304 148, 326 180" fill="none" stroke="#0c0a09" stroke-width="5"/>
-  <path d="M232 120 C 272 128, 304 148, 326 180" fill="none" stroke="#fbbf24" stroke-width="1.4" stroke-dasharray="8 6" opacity=".8"/>
-  <path d="M238 158 C 272 160, 302 168, 324 184" fill="none" stroke="#0c0a09" stroke-width="4"/>
-  <path d="M238 158 C 272 160, 302 168, 324 184" fill="none" stroke="#fbbf24" stroke-width="1.1" stroke-dasharray="5 6" opacity=".6"/>
-  <path d="M234 196 C 268 194, 300 188, 324 188" fill="none" stroke="#0c0a09" stroke-width="4"/>
-  <path d="M234 196 C 268 194, 300 188, 324 188" fill="none" stroke="#fbbf24" stroke-width="1.1" stroke-dasharray="5 6" opacity=".6"/>
-  <!-- the one chosen endpoint -->
-  <circle cx="332" cy="184" r="9" fill="none" stroke="#fde68a" stroke-width="2.6"/>
-  <circle cx="332" cy="184" r="3" fill="#f1df76"/>
-  <!-- long ribbed haft settling low and heavy -->
-  <path d="M136 214 L108 344 L92 340 L122 210 Z" fill="#140d05" stroke="#f59e0b" stroke-width="2.6"/>
-  <path d="M126 232 L138 236 M121 256 L133 260 M116 280 L128 284 M111 304 L123 308" stroke="#f59e0b" stroke-width="1.6" opacity=".8"/>
-  <path d="M90 346 L114 352 L110 368 L86 362 Z" fill="#140d05" stroke="#f1df76" stroke-width="2"/>
+  <!-- haft: long diagonal with grain, studs, leather wrap -->
+  <path d="M76 356 L268 128" stroke="#2c1c0a" stroke-width="15" stroke-linecap="round"/>
+  <path d="M80 350 L264 132" stroke="#4a300f" stroke-width="9" stroke-linecap="round"/>
+  <path d="M96 332 L110 344 M116 308 L130 320 M136 284 L150 296" stroke="#1c1206" stroke-width="5"/>
+  <path d="M98 330 L108 338 M118 306 L128 314 M138 282 L148 290" stroke="#f59e0b" stroke-width="1.4" opacity=".8"/>
+  <circle cx="88" cy="344" r="4.5" fill="#1c1206" stroke="#f59e0b" stroke-width="1.6"/>
+  <path d="M74 366 C 66 372, 58 372, 52 366 C 58 360, 66 360, 74 366 Z" fill="#2c1c0a" stroke="#f59e0b" stroke-width="1.8"/>
+  <!-- head: massive block, rotated with the swing -->
+  <rect x="216" y="66" width="128" height="96" rx="10" transform="rotate(-14 280 114)" fill="#171006" stroke="#f59e0b" stroke-width="3"/>
+  <rect x="226" y="76" width="108" height="76" rx="7" transform="rotate(-14 280 114)" fill="url(#bl127)" opacity=".28"/>
+  <!-- iron straps with rivets -->
+  <path d="M238 64 L214 158 M330 42 L306 136" stroke="#78716c" stroke-width="7"/>
+  <path d="M238 64 L214 158 M330 42 L306 136" stroke="#a8a29e" stroke-width="2"/>
+  <circle cx="233" cy="82" r="2.6" fill="#fde68a"/><circle cx="222" cy="122" r="2.6" fill="#fde68a"/>
+  <circle cx="325" cy="60" r="2.6" fill="#fde68a"/><circle cx="314" cy="100" r="2.6" fill="#fde68a"/>
+  <!-- the mirrored fracture: crack web with light inside -->
+  <path d="M282 70 L272 100 L288 112 L266 134 M272 100 L252 96 M288 112 L308 104 L316 84 M308 104 L312 130 M266 134 L276 152"
+        fill="none" stroke="#fde68a" stroke-width="3.2"/>
+  <path d="M282 70 L272 100 L288 112 L266 134 M288 112 L308 104" fill="none" stroke="#fff7d6" stroke-width="1.2"/>
+  <path d="M262 88 L268 92 M298 122 L292 126 M280 128 L284 136" stroke="#f59e0b" stroke-width="1.6"/>
+  <!-- two reflections of one face caught in the crack panes -->
+  <path d="M259 104 a7 9 0 1 0 .1 0" fill="none" stroke="#fbbf24" stroke-width="1.8"/>
+  <path d="M256 102 L258 104 M262 102 L264 104 M257 111 C 259 113, 262 113, 264 111" stroke="#fbbf24" stroke-width="1.4" fill="none"/>
+  <path d="M296 128 a7 9 0 1 0 .1 0" fill="none" stroke="#b45309" stroke-width="1.8"/>
+  <path d="M293 126 L295 128 M299 126 L301 128 M294 137 C 296 135, 299 135, 301 137" stroke="#b45309" stroke-width="1.4" fill="none"/>
+  <!-- impact shine off the striking face -->
+  <path d="M348 84 L370 74 M352 100 L372 96 M350 116 L368 122" stroke="#fde68a" stroke-width="2" opacity=".75"/>
+  <path d="M242 150 C 236 166, 224 176, 208 180" fill="none" stroke="#f59e0b" stroke-width="1.6" stroke-dasharray="5 5" opacity=".6"/>
 </svg>

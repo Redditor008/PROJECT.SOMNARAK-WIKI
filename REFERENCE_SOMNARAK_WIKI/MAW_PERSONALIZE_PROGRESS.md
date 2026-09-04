@@ -308,6 +308,10 @@ W-100…126 redrawn as varied forms, each staged from its own record:
 
 Gates PASS. Batch 5 (W-127…159) still in rejected style; next redo round after owner review — apply the same variety + range-stat rule.
 
+## 15g. Batches 5 + 6 DETAIL UPGRADE (2026-09-05, owner correction)
+
+Owner ruling: too much surrounding detail, not enough weapon detail — the weapons looked simple, and small stickmen are not wanted. All 24 SVGs (batch 5: W-127/130/135/140/145/150/151/152/155/156/157/159; batch 6: W-160/165/168/169/170/175/176/180/184/185/189/190) redrawn WEAPON-FIRST: no stick figures, no scene props; each weapon fills the frame at a dynamic angle with dense material detail (iron straps + rivets, banded hafts, cord wraps loop by loop, facet/grain/vein lines, edge highlights, engraved story marks carried ON the weapon itself — e.g. the Broken Maul's mirrored crack-web with two reflected faces, the Saint's Maul's gold-filled kintsugi cracks and halo, the Deadline Maul's clock face with exposed gears in the crack, the Binding Maul's open chain link forged into the head, the Silence Hammer's bell hollow visible inside the translucent glass head with an unrung clapper, the Loom bow's warp strands crossing the window, the Redacted Lens's fogged rim + cleared core with chequered grip and witness-ring, the Rage Fang's fissure web heating at the tip). Weapon KINDS unchanged from the records — no Appearance text edits required, parity intact. Gates PASS.
+
 ## 15f. Batch 6 (2026-09-05, first batch under the NON-MELEE ruling)
 
 Owner directive with the batch-5 approval: for variety, Medium-range items should include gun/cannon/staff/fantasy kinds — not everything a hitting/cutting weapon. Ranges from records: W-160/168/169/170/185/189 = `2 — Short`; W-165/175/176/180/184/190 = `3 — Medium`.

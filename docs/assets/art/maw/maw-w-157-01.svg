@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SLEEPING MAUL">
   <defs>
-    <radialGradient id="bw157" cx="50%" cy="30%" r="66%">
-      <stop offset="0%" stop-color="#201808"/>
+    <radialGradient id="bw157" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1c1206"/>
       <stop offset="100%" stop-color="#0a0703"/>
     </radialGradient>
-    <linearGradient id="hd157" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#524636"/>
-      <stop offset="1" stop-color="#171208"/>
+    <linearGradient id="bl157" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c5b26"/>
+      <stop offset="1" stop-color="#fde68a"/>
     </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw157)" stroke="#d97706" stroke-width="2.4"/>
@@ -14,31 +14,32 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0703" stroke="#d97706" stroke-width="1.2"/>
   <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- broad head held horizontal above the field, HUMMING: breath arcs inside -->
-  <rect x="104" y="88" width="192" height="66" rx="12" fill="url(#hd157)" stroke="#d97706" stroke-width="3"/>
-  <path d="M140 112 C 156 104, 176 104, 192 112 M208 130 C 224 122, 244 122, 260 130" fill="none" stroke="#fde68a" stroke-width="1.4" opacity=".65"/>
-  <path d="M150 132 C 162 126, 176 126, 188 132" fill="none" stroke="#fde68a" stroke-width="1" opacity=".4"/>
-  <!-- THE BLACK WEIGHT LINE falling like a slow exhale -->
-  <path d="M200 154 C 198 176, 202 198, 200 220" fill="none" stroke="#0c0a09" stroke-width="6"/>
-  <path d="M200 154 C 198 176, 202 198, 200 220" fill="none" stroke="#fbbf24" stroke-width="1.2" stroke-dasharray="4 7" opacity=".7"/>
-  <path d="M188 166 C 186 180, 188 194, 187 206 M212 166 C 214 180, 212 194, 213 206" fill="none" stroke="#1c1408" stroke-width="2.6" opacity=".7"/>
-  <!-- THE FATIGUE FIELD it presses on: a hatched patch of ground, held stable -->
-  <ellipse cx="200" cy="234" rx="74" ry="14" fill="#0a0601" stroke="#a16207" stroke-width="2.2"/>
-  <path d="M148 230 L164 240 M172 228 L188 241 M196 228 L212 241 M220 228 L236 240 M244 230 L254 238" stroke="#78350f" stroke-width="1.4" opacity=".8"/>
-  <!-- stable ground beyond the field -->
-  <path d="M64 252 L336 252" stroke="#3f3a30" stroke-width="2.2"/>
-  <!-- THE ROTATION: one figure resting, one standing watch, the wake person marked -->
-  <path d="M84 296 L128 296" stroke="#d6d3d1" stroke-width="2.4"/>
-  <circle cx="94" cy="290" r="6" fill="none" stroke="#d6d3d1" stroke-width="1.8"/>
-  <path d="M100 296 L126 294" stroke="#d6d3d1" stroke-width="3"/>
-  <path d="M104 282 C 108 278, 114 278, 118 282" fill="none" stroke="#78716c" stroke-width="1.2" opacity=".7"/>
-  <circle cx="298" cy="284" r="7" fill="none" stroke="#d6d3d1" stroke-width="2"/>
-  <path d="M298 291 L298 314 M298 296 L288 304 M298 296 L308 304 M298 314 L290 328 M298 314 L306 328" stroke="#d6d3d1" stroke-width="2"/>
-  <!-- the named wake person: small bell over the watcher -->
-  <path d="M292 262 C 292 254, 304 254, 304 262 L306 266 L290 266 Z" fill="none" stroke="#fde68a" stroke-width="1.6"/>
-  <circle cx="298" cy="269" r="1.6" fill="#fde68a"/>
-  <!-- wrapped grip rising from the head, sleepy to the touch -->
-  <path d="M280 88 L308 56 L322 68 L296 100 Z" fill="#171208" stroke="#d97706" stroke-width="2.4"/>
-  <path d="M294 76 L306 86 M304 66 L316 76" stroke="#d97706" stroke-width="1.5" opacity=".8"/>
-  <circle cx="318" cy="52" r="7" fill="#171208" stroke="#f1df76" stroke-width="2"/>
+  <!-- haft leaning diagonal, moss patches where it has rested long -->
+  <path d="M112 364 L256 176" stroke="#2c1c0a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M116 358 L252 180" stroke="#4a300f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M136 336 C 130 330, 130 324, 136 320 C 142 324, 142 330, 136 336 Z M168 296 C 163 291, 163 286, 168 282 C 173 286, 173 291, 168 296 Z" fill="#4d7c0f" opacity=".8"/>
+  <path d="M150 314 L162 324 M190 266 L202 276" stroke="#d97706" stroke-width="1.8" opacity=".7"/>
+  <path d="M106 372 a8 8 0 1 0 .1 0" fill="#1c1206" stroke="#d97706" stroke-width="2.4"/>
+  <!-- great horizontal head at rest atop the haft -->
+  <rect x="180" y="96" width="164" height="86" rx="14" transform="rotate(-8 262 139)" fill="#171006" stroke="#d97706" stroke-width="3.2"/>
+  <rect x="192" y="108" width="140" height="62" rx="10" transform="rotate(-8 262 139)" fill="url(#bl157)" opacity=".2"/>
+  <!-- the closed eye engraved on the cheek of the head -->
+  <path d="M226 138 C 244 126, 272 124, 292 132" fill="none" stroke="#fde68a" stroke-width="3"/>
+  <path d="M234 140 L232 148 M250 134 L249 143 M268 132 L268 141 M284 134 L286 142" stroke="#fde68a" stroke-width="2"/>
+  <!-- slow breath wisps leaving the head's brow -->
+  <path d="M310 108 C 322 102, 330 104, 334 112 C 337 118, 332 124, 326 122" fill="none" stroke="#fcd34d" stroke-width="1.8" opacity=".85"/>
+  <path d="M320 92 C 334 84, 346 86, 350 96" fill="none" stroke="#fcd34d" stroke-width="1.4" opacity=".55"/>
+  <!-- hum rings around the resting head -->
+  <path d="M186 176 C 176 172, 168 164, 164 154 M200 190 C 186 186, 174 176, 168 162" fill="none" stroke="#d97706" stroke-width="1.4" opacity=".6"/>
+  <path d="M336 148 C 344 142, 348 134, 348 124 M330 162 C 342 156, 350 144, 352 130" fill="none" stroke="#d97706" stroke-width="1.4" opacity=".6"/>
+  <!-- iron cradle-collar where haft meets head -->
+  <path d="M242 176 L262 190" stroke="#78716c" stroke-width="9"/>
+  <path d="M244 174 L260 186" stroke="#d6d3d1" stroke-width="2"/>
+  <circle cx="248" cy="184" r="2.2" fill="#fde68a"/>
+  <!-- weight line sinking gently from the head's underside like an exhale -->
+  <path d="M286 186 C 288 206, 284 226, 274 244 C 268 256, 258 264, 246 268" fill="none" stroke="#100b04" stroke-width="5"/>
+  <path d="M286 186 C 288 206, 284 226, 274 244" fill="none" stroke="#d97706" stroke-width="1.2" opacity=".5"/>
+  <!-- wake-bell hung at the collar, silent -->
+  <path d="M312 186 C 306 188, 302 194, 302 200 L322 200 C 322 194, 318 188, 312 186 Z" fill="#1c1206" stroke="#fde68a" stroke-width="1.8"/>
+  <path d="M310 202 L314 206" stroke="#fde68a" stroke-width="1.6"/>
 </svg>
