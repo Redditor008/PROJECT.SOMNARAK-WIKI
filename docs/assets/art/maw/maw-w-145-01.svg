@@ -1,28 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE THORN FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg9fdbaa" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bw145" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gl9fdbaa" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
+    <radialGradient id="gw145" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#dc2626" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg9fdbaa)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw145)" stroke="#dc2626" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="121" fill="url(#gl9fdbaa)"/>
-  <g transform="rotate(-2 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 105.64999999999999, 218.0 35.0 224.0 35.0 C214.0 110.36, 220.0 138.62, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 119.78, 216.0 43.0 221.0 41.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="51.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="255.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <g transform="rotate(5 200.0 236.0)" opacity=".9">
-    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-145-01</text>
+  <circle cx="200" cy="188" r="130" fill="url(#gw145)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#dc2626" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#dc2626" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- THORN SICKLE: inward-hooking blade with thorn spikes along the outer ridge -->
+  <path d="M148 84 C 210 74, 258 108, 268 168 C 272 196, 262 218, 242 228 L232 210 C 246 200, 252 184, 248 164 C 240 122, 204 98, 158 104 Z" fill="#7f1d1d" fill-opacity=".5" stroke="#dc2626" stroke-width="2.8"/>
+  <path d="M166 96 C 210 92, 244 116, 252 156" fill="none" stroke="#fca5a5" stroke-width="1.3" opacity=".75"/>
+  <path d="M186 84 L192 68 L202 84 M226 94 L238 82 L242 100 M256 122 L272 116 L268 134 M268 158 L286 158 L276 172" fill="#dc2626" stroke="#dc2626" stroke-width="1.2"/>
+  <path d="M150 86 L136 78 L142 96 Z" fill="#dc2626"/>
+  <path d="M232 226 L252 238 L244 268 L222 258 Z" fill="#290a0a" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M232 262 L218 324 L238 330 L250 270 Z" fill="#290a0a" stroke="#dc2626" stroke-width="2.2"/>
+  <path d="M228 282 L244 288 M224 300 L240 306" stroke="#dc2626" stroke-width="1.4" opacity=".85"/>
+  <circle cx="226" cy="342" r="8" fill="#290a0a" stroke="#f1df76" stroke-width="2"/>
 </svg>

@@ -240,5 +240,26 @@ Status: **done** (same session, 2026-09-04). Same procedure; each SVG hand-desig
 
 - Mapping table now 48 items. Contact sheet reviewed; all silhouettes distinct. SVG + structure gates PASS.
 
-## 15. Next weapon batch
-Batch 5 = next 12 W SVGs in numeric order after 126 (check `ls docs/assets/art/maw/maw-w-*-01.svg` for the exact sequence; expected around `127, 130, 135, 140, 145, 150, 151, 152, 155, 156, 157, 159`). Same procedure: read each page's Appearance paragraph → assign an unused archetype/variant (extend the catalog if needed) → hand-write the SVG in the batch-1 format → render + contact-sheet review → gates → update mapping table + this log → commit + push.
+## 15. Weapon SVG remake — Batch 5 (W-127, 130, 135, 140, 145, 150, 151, 152, 155, 156, 157, 159)
+
+Status: **done** (same session, 2026-09-04). Same procedure; each SVG hand-designed from its page's Appearance paragraph.
+
+| Item | Archetype | Band |
+|---|---|---|
+| W-127 The Broken Maul | Split-Head Maul | Room |
+| W-130 The Saint's Maul | Stone Orb Maul | Room |
+| W-135 The Warm Requiem | Kris Wave Blade | Short |
+| W-140 The Willow Requiem | Willow-Leaf Saber | Medium |
+| W-145 The Thorn Fang | Thorn Sickle | Short |
+| W-150 The Laughter Requiem | Main-Gauche | Close |
+| W-151 The Border Root | Root Cudgel | Short |
+| W-152 The Wandering Requiem | Cane Sword | Medium |
+| W-155 The Shadow Maul | Wedge Maul | Room |
+| W-156 The Deadline Maul | Clock Maul | Room |
+| W-157 The Sleeping Maul | Bell Maul | Room |
+| W-159 The Frozen Fang | Shard Fang | Short |
+
+- Mapping table now 60 items. Contact sheet reviewed; all silhouettes distinct. SVG + structure gates PASS.
+
+## 16. Next weapon batch
+Batch 6 = next 12 W SVGs in numeric order after 159 (run `ls docs/assets/art/maw/maw-w-*-01.svg | grep -oE 'maw-w-[0-9]+' | sed 's/maw-w-//' | sort -n | awk '$1>159 && $1<1000' | head -12` for the exact list). Same procedure: read each page's Appearance paragraph → assign an unused archetype/variant (extend the catalog if needed) → hand-write the SVG in the batch-1 format → render + contact-sheet review → gates → update mapping table + this log → commit + push.

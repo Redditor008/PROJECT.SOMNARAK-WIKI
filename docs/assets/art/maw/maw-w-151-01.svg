@@ -1,30 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BORDER ROOT">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // SHIELD -->
   <defs>
-    <radialGradient id="bg217a5f" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bw151" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gl217a5f" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
+    <radialGradient id="gw151" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#b91c1c" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg217a5f)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw151)" stroke="#b91c1c" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="132" fill="url(#gl217a5f)"/>
-  <g transform="rotate(0 200.0 192.0)">
-<path d="M200.0 119.3 L278.0 141.5 L278.0 202.1 Q256.2 246.5 200.0 274.8 Q143.8 246.5 122.0 202.1 L122.0 141.5 Z" fill="#d64a4a" fill-opacity=".2" stroke="#d64a4a" stroke-width="3"/>
-<path d="M200.0 127.4 L200.0 264.7" stroke="#e0f2fe" stroke-width="1.3" opacity=".55"/>
-<path d="M156.3 171.8 L243.7 171.8" stroke="#e0f2fe" stroke-width="1.2" opacity=".5"/>
-<circle cx="200.0" cy="192.0" r="15.0" fill="none" stroke="#d64a4a" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-6 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <g transform="rotate(10 200.0 236.0)" opacity=".9">
-    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-151-01</text>
+  <circle cx="200" cy="188" r="130" fill="url(#gw151)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#b91c1c" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#b91c1c" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- ROOT CUDGEL: broad flanged club head, living root strand coiling the handle -->
+  <path d="M176 60 C 160 84, 156 122, 168 152 L232 152 C 244 122, 240 84, 224 60 C 208 50, 192 50, 176 60 Z" fill="#7f1d1d" fill-opacity=".5" stroke="#b91c1c" stroke-width="2.8"/>
+  <path d="M186 64 C 176 88, 174 120, 182 146 M214 64 C 224 88, 226 120, 218 146 M200 56 L200 150" stroke="#fca5a5" stroke-width="1.3" opacity=".6" fill="none"/>
+  <path d="M168 152 L232 152 L226 168 L174 168 Z" fill="#290a0a" stroke="#b91c1c" stroke-width="2.4"/>
+  <rect x="190" y="168" width="20" height="140" rx="7" fill="#290a0a" stroke="#b91c1c" stroke-width="2.4"/>
+  <path d="M188 176 C 216 184, 184 200, 212 208 C 184 216, 216 232, 188 240 C 216 248, 184 264, 212 272 C 190 280, 212 292, 192 300" fill="none" stroke="#4ade80" stroke-width="2.6" opacity=".85"/>
+  <path d="M212 208 L222 204 M188 240 L178 236 M212 272 L222 276" stroke="#4ade80" stroke-width="1.8" opacity=".7"/>
+  <path d="M186 308 L214 308 L210 328 L190 328 Z" fill="#290a0a" stroke="#f1df76" stroke-width="2"/>
 </svg>

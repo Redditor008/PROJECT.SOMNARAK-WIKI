@@ -48,6 +48,7 @@ Additional maul-family variants introduced by later batches (still one silhouett
 Additional short-blade variants: Tear Dagger, Tear Stiletto, Notched Dao. Additional rapier-family variants: Estoc (thicker, guardless thruster).
 Additional sword-family variants: Squared Warbrand, Cruciform Longsword, Falchion. Additional lens-family variants: Caliper Lens, Lens Pistol, Sceptre Lens.
 Batch-4 additions: Petal Blade, Ember Sidesword, Link Cleaver, Hex Frost Lens, Round Grand Maul, Bridge Greatblade, Thread Sai, Gimbal Lens, Lantern Lens, Basket Cutlass, Shutter Lens, Glass Leaf Blade.
+Batch-5 additions: Split-Head Maul, Stone Orb Maul, Kris Wave Blade, Willow-Leaf Saber, Thorn Sickle, Main-Gauche, Root Cudgel, Cane Sword, Wedge Maul, Clock Maul, Bell Maul, Shard Fang.
 
 ## Current W → archetype mapping (distinct silhouettes)
 
@@ -101,3 +102,15 @@ Batch-4 additions: Petal Blade, Ember Sidesword, Link Cleaver, Hex Frost Lens, R
 | MAW-W-120 The Cage Fang | Basket Cutlass | Medium |
 | MAW-W-125 The Returning Lens | Shutter Lens | Instant |
 | MAW-W-126 The Melting Lens | Glass Leaf Blade | Short |
+| MAW-W-127 The Broken Maul | Split-Head Maul | Room |
+| MAW-W-130 The Saint's Maul | Stone Orb Maul | Room |
+| MAW-W-135 The Warm Requiem | Kris Wave Blade | Short |
+| MAW-W-140 The Willow Requiem | Willow-Leaf Saber | Medium |
+| MAW-W-145 The Thorn Fang | Thorn Sickle | Short |
+| MAW-W-150 The Laughter Requiem | Main-Gauche | Close |
+| MAW-W-151 The Border Root | Root Cudgel | Short |
+| MAW-W-152 The Wandering Requiem | Cane Sword | Medium |
+| MAW-W-155 The Shadow Maul | Wedge Maul | Room |
+| MAW-W-156 The Deadline Maul | Clock Maul | Room |
+| MAW-W-157 The Sleeping Maul | Bell Maul | Room |
+| MAW-W-159 The Frozen Fang | Shard Fang | Short |
