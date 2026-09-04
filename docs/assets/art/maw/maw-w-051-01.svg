@@ -1,30 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE JOY LENS">
   <defs>
     <radialGradient id="bw051" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+      <stop offset="0%" stop-color="#1d1f26"/>
+      <stop offset="100%" stop-color="#0a0b0e"/>
     </radialGradient>
-    <radialGradient id="gw051" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#a8b0bc" stop-opacity=".2"/>
+    <radialGradient id="gw051" cx="40%" cy="46%" r="52%">
+      <stop offset="0%" stop-color="#e7e5e4" stop-opacity=".16"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="dk051" cx="42%" cy="38%" r="72%">
+      <stop offset="0%" stop-color="#fafaf9"/>
+      <stop offset="55%" stop-color="#d6d3d1"/>
+      <stop offset="88%" stop-color="#78716c"/>
+      <stop offset="100%" stop-color="#57534e"/>
+    </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw051)" stroke="#a8b0bc" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw051)" stroke="#a8a29e" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw051)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#a8b0bc" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#a8b0bc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+  <circle cx="164" cy="192" r="132" fill="url(#gw051)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0b0e" stroke="#a8a29e" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#a8a29e" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- RAY LOUPE: convex warm lens on short handle, reading-threads radiating -->
-  <ellipse cx="200" cy="142" rx="54" ry="62" fill="#141922" stroke="#a8b0bc" stroke-width="3.5"/>
-  <ellipse cx="200" cy="142" rx="42" ry="50" fill="#e8edf4" fill-opacity=".14" stroke="#f1f5f9" stroke-width="1.4"/>
-  <path d="M176 108 A44 52 0 0 1 210 96" fill="none" stroke="#f1f5f9" stroke-width="2" opacity=".8"/>
-  <path d="M258 108 L296 84 M262 142 L306 142 M258 176 L296 200" stroke="#a8b0bc" stroke-width="1.3" stroke-dasharray="6 4" opacity=".6"/>
-  <circle cx="310" cy="84" r="5" fill="none" stroke="#a8b0bc" stroke-width="1.4"/>
-  <circle cx="318" cy="142" r="5" fill="none" stroke="#a8b0bc" stroke-width="1.4"/>
-  <circle cx="310" cy="200" r="5" fill="none" stroke="#a8b0bc" stroke-width="1.4"/>
-  <path d="M188 202 L212 202 L208 222 L192 222 Z" fill="#141922" stroke="#a8b0bc" stroke-width="2.2"/>
-  <rect x="186" y="222" width="28" height="100" rx="8" fill="#141922" stroke="#a8b0bc" stroke-width="2.6"/>
-  <path d="M188 240 L212 248 M188 262 L212 270 M188 284 L212 292" stroke="#a8b0bc" stroke-width="1.4" opacity=".8"/>
-  <circle cx="200" cy="334" r="9" fill="#141922" stroke="#f1df76" stroke-width="2"/>
+  <!-- the mask it is pointed at: a held smile, upper right -->
+  <path d="M296 84 C 330 84, 350 108, 348 140 C 346 170, 326 192, 298 192 C 282 192, 270 184, 264 172 C 262 144, 264 112, 276 94 C 282 88, 288 84, 296 84 Z"
+        fill="#141518" stroke="#78716c" stroke-width="2.4"/>
+  <path d="M286 124 L300 124 M320 124 L334 124" stroke="#a8a29e" stroke-width="2.6"/>
+  <path d="M288 158 C 300 170, 320 170, 332 156" fill="none" stroke="#a8a29e" stroke-width="2.6"/>
+  <!-- hairline crack in the held smile -->
+  <path d="M322 166 L318 180 L326 176" fill="none" stroke="#57534e" stroke-width="1.4"/>
+  <!-- reading threads: lens -> mask -->
+  <path d="M212 158 L268 130 M216 176 L266 156 M212 194 L264 178" stroke="#e7e5e4" stroke-width="1.2" stroke-dasharray="7 5" opacity=".65"/>
+  <!-- RAY LOUPE: warm convex lens, weighted lower-left -->
+  <ellipse cx="152" cy="184" rx="74" ry="80" fill="url(#dk051)" fill-opacity=".95" stroke="#e7e5e4" stroke-width="3.2" transform="rotate(-8 152 184)"/>
+  <ellipse cx="152" cy="184" rx="56" ry="62" fill="none" stroke="#fafaf9" stroke-width="1.3" opacity=".6" transform="rotate(-8 152 184)"/>
+  <!-- convex bulge highlight + faint warmth at the centre -->
+  <path d="M108 130 C 122 112, 146 102, 170 104" fill="none" stroke="#fafaf9" stroke-width="2.6" opacity=".85"/>
+  <circle cx="158" cy="188" r="12" fill="#fbbf24" fill-opacity=".28"/>
+  <circle cx="158" cy="188" r="4" fill="#fbbf24" fill-opacity=".55"/>
+  <!-- short black handle, down-left -->
+  <path d="M118 254 L92 296 L112 310 L136 270 Z" fill="#1c1917" stroke="#a8a29e" stroke-width="2.6"/>
+  <path d="M104 286 L120 296 M96 300 L112 310" stroke="#a8a29e" stroke-width="1.5" opacity=".8"/>
+  <circle cx="92" cy="316" r="8" fill="#1c1917" stroke="#f1df76" stroke-width="2"/>
 </svg>

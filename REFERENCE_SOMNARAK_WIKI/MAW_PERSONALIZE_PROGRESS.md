@@ -261,5 +261,14 @@ Status: **done** (same session, 2026-09-04). Same procedure; each SVG hand-desig
 
 - Mapping table now 60 items. Contact sheet reviewed; all silhouettes distinct. SVG + structure gates PASS.
 
+## 15b. OWNER CORRECTION (2026-09-04) — personalization standard, batch 2 REDONE
+
+Owner review of batches 2–5: **rejected as too same-shape / too template.** Ruling:
+- The reference standard is the **approved 001–021 weapons** (other-AI batch 1, commit `019d5e7`): every weapon is an *illustration* — its own composition, its own angle/pose, its own background gradient tuned to the item, and story props from the Appearance text (W-019's flail head swings off-axis with hinged links; W-011's katana sweeps diagonally with a hamon line; W-014's prism floats with an orbit halo and shard moons).
+- **NOT allowed:** the vertical centered blade-guard-grip-pommel template, one shared header/palette block, or archetype-only variation. That is generation, not personalization.
+- Work in **1 batch of 12 at a time**, then stop for owner review before the next.
+- Batch 2 (W-025…054) was REDONE to this standard (`docs/assets/art/maw/maw-w-0{25,31,32,33,36,41,42,43,44,48,51,54}-01.svg`): each has a unique layout (W-025 fist-buckler with dying sound arcs; W-031 full-diagonal estoc with witness iris in the guard; W-032 massive forward-bent cleaver with cho notch; W-033 pane braced in a drawn doorway; W-036 tilted mid-swing with falling sand grains; W-041 tear hanging point-down from the grip; W-042 talon curling across frame with ember specks and fist ring; W-043 loupe with silenced ripple sector; W-044 sabre rising over a dawn horizon; W-048 scimitar with light-filled groove and note-motes; W-051 loupe reading a cracked smiling mask; W-054 dish face turned to the viewer swallowing motes).
+- **Batches 3–5 (W-055…159) remain in the rejected template style and must be redone the same way, 12 per review round.**
+
 ## 16. Next weapon batch
 Batch 6 = next 12 W SVGs in numeric order after 159 (run `ls docs/assets/art/maw/maw-w-*-01.svg | grep -oE 'maw-w-[0-9]+' | sed 's/maw-w-//' | sort -n | awk '$1>159 && $1<1000' | head -12` for the exact list). Same procedure: read each page's Appearance paragraph → assign an unused archetype/variant (extend the catalog if needed) → hand-write the SVG in the batch-1 format → render + contact-sheet review → gates → update mapping table + this log → commit + push.

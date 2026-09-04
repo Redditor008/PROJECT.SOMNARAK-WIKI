@@ -1,28 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE TEAR REQUIEM">
   <defs>
     <radialGradient id="bw041" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+      <stop offset="0%" stop-color="#101d33"/>
+      <stop offset="100%" stop-color="#050a12"/>
     </radialGradient>
-    <radialGradient id="gw041" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#60a5fa" stop-opacity=".2"/>
+    <radialGradient id="gw041" cx="50%" cy="52%" r="52%">
+      <stop offset="0%" stop-color="#93c5fd" stop-opacity=".24"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="td041" cx="46%" cy="36%" r="70%">
+      <stop offset="0%" stop-color="#eff6ff"/>
+      <stop offset="60%" stop-color="#93c5fd"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw041)" stroke="#60a5fa" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw041)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#60a5fa" stroke-width="1.2"/>
+  <circle cx="200" cy="204" r="132" fill="url(#gw041)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a12" stroke="#60a5fa" stroke-width="1.2"/>
   <text x="30" y="36" fill="#60a5fa" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- TEAR DAGGER: milky tear-shaped crystal blade, fine point up, thick base -->
-  <path d="M200 52 C 236 118, 244 178, 200 232 C 156 178, 164 118, 200 52 Z" fill="#bfdbfe" fill-opacity=".22" stroke="#60a5fa" stroke-width="2.8"/>
-  <path d="M200 70 C 222 118, 226 168, 200 214" fill="none" stroke="#dbeafe" stroke-width="1.2" opacity=".7"/>
-  <path d="M200 70 C 178 118, 174 168, 200 214" fill="none" stroke="#dbeafe" stroke-width="1.2" opacity=".7"/>
-  <circle cx="200" cy="150" r="7" fill="#dbeafe" opacity=".9"/>
-  <circle cx="200" cy="150" r="14" fill="none" stroke="#dbeafe" stroke-width="1" opacity=".5"/>
-  <path d="M162 236 L238 236 L228 252 L172 252 Z" fill="#0c1e3e" stroke="#60a5fa" stroke-width="2.6"/>
-  <rect x="187" y="252" width="26" height="72" rx="6" fill="#0c1e3e" stroke="#60a5fa" stroke-width="2.4"/>
-  <path d="M189 268 L211 276 M189 288 L211 296 M189 308 L211 316" stroke="#60a5fa" stroke-width="1.5" opacity=".85"/>
-  <path d="M188 324 L212 324 L208 344 L192 344 Z" fill="#0c1e3e" stroke="#f1df76" stroke-width="2"/>
+  <!-- grip held above: the blade hangs like a tear about to fall -->
+  <circle cx="200" cy="74" r="8" fill="#0c1e3e" stroke="#f1df76" stroke-width="2"/>
+  <rect x="188" y="82" width="24" height="52" rx="6" fill="#0c1e3e" stroke="#60a5fa" stroke-width="2.4"/>
+  <path d="M190 94 L210 100 M190 108 L210 114 M190 122 L210 128" stroke="#60a5fa" stroke-width="1.5" opacity=".85"/>
+  <path d="M172 134 L228 134 L220 150 L180 150 Z" fill="#0c1e3e" stroke="#93c5fd" stroke-width="2.4"/>
+  <!-- TEAR DAGGER: milky drop, broad at the collar, falling to a fine point -->
+  <path d="M200 150 C 246 168, 262 216, 250 260 C 240 296, 220 322, 200 344 C 180 322, 160 296, 150 260 C 138 216, 154 168, 200 150 Z"
+        fill="url(#td041)" stroke="#93c5fd" stroke-width="2.8"/>
+  <!-- inner milky cloud -->
+  <path d="M200 176 C 228 190, 238 222, 230 254 C 224 280, 212 300, 200 316" fill="none" stroke="#eff6ff" stroke-width="1.4" opacity=".65"/>
+  <path d="M200 176 C 172 190, 162 222, 170 254 C 176 280, 188 300, 200 316" fill="none" stroke="#eff6ff" stroke-width="1.4" opacity=".65"/>
+  <!-- the held glow inside the tear -->
+  <circle cx="200" cy="238" r="10" fill="#eff6ff" opacity=".9"/>
+  <circle cx="200" cy="238" r="20" fill="none" stroke="#eff6ff" stroke-width="1.2" opacity=".45"/>
+  <!-- two small tears already fallen -->
+  <path d="M124 300 C 130 306, 130 314, 124 318 C 118 314, 118 306, 124 300 Z" fill="#93c5fd" opacity=".7"/>
+  <path d="M282 320 C 287 325, 287 331, 282 335 C 277 331, 277 325, 282 320 Z" fill="#93c5fd" opacity=".5"/>
 </svg>

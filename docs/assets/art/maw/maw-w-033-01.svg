@@ -1,28 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE GUARDIAN LENS">
   <defs>
     <radialGradient id="bw033" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+      <stop offset="0%" stop-color="#182030"/>
+      <stop offset="100%" stop-color="#070b12"/>
     </radialGradient>
-    <radialGradient id="gw033" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#94a3b8" stop-opacity=".2"/>
+    <radialGradient id="gw033" cx="50%" cy="46%" r="52%">
+      <stop offset="0%" stop-color="#cbd5e1" stop-opacity=".16"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="pn033" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e2e8f0" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#334155" stop-opacity=".4"/>
+    </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw033)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw033)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#94a3b8" stroke-width="1.2"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gw033)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#070b12" stroke="#94a3b8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- FRAMED PAVISE LENS: broad glass pane in heavy frame, cross-grip, threshold feet -->
-  <rect x="122" y="62" width="156" height="230" rx="18" fill="#0f172a" stroke="#94a3b8" stroke-width="5"/>
-  <rect x="138" y="78" width="124" height="198" rx="12" fill="#d7dde6" fill-opacity=".12" stroke="#e2e8f0" stroke-width="1.6"/>
-  <ellipse cx="200" cy="177" rx="46" ry="72" fill="none" stroke="#94a3b8" stroke-width="2" opacity=".8"/>
-  <path d="M200 105 L200 249 M154 177 L246 177" stroke="#e2e8f0" stroke-width="1.2" opacity=".55"/>
-  <circle cx="200" cy="177" r="10" fill="none" stroke="#e2e8f0" stroke-width="1.6"/>
-  <path d="M168 300 L168 322 L184 322 M232 300 L232 322 L216 322" fill="none" stroke="#94a3b8" stroke-width="3"/>
-  <path d="M144 292 L124 336 M256 292 L276 336" stroke="#94a3b8" stroke-width="3"/>
-  <path d="M118 336 L132 336 M268 336 L282 336" stroke="#f1df76" stroke-width="2.4"/>
-  <rect x="176" y="168" width="48" height="18" rx="4" fill="#0f172a" stroke="#94a3b8" stroke-width="1.6" opacity=".9"/>
+  <!-- the threshold it guards: door posts + lintel + floor -->
+  <path d="M96 70 L96 330 M304 70 L304 330 M96 70 L304 70" stroke="#475569" stroke-width="5" opacity=".7"/>
+  <path d="M60 330 L340 330" stroke="#475569" stroke-width="3" opacity=".7"/>
+  <path d="M96 88 L110 88 M290 88 L304 88" stroke="#475569" stroke-width="2" opacity=".5"/>
+  <!-- FRAMED PAVISE LENS: broad pane filling the doorway -->
+  <rect x="128" y="104" width="144" height="196" rx="16" fill="#0f172a" stroke="#cbd5e1" stroke-width="5"/>
+  <rect x="142" y="118" width="116" height="168" rx="10" fill="url(#pn033)" stroke="#e2e8f0" stroke-width="1.6"/>
+  <!-- daylight glint crossing the pane -->
+  <path d="M150 262 L252 128" stroke="#f8fafc" stroke-width="7" opacity=".22"/>
+  <path d="M162 272 L258 146" stroke="#f8fafc" stroke-width="2.4" opacity=".35"/>
+  <!-- central sight ring -->
+  <circle cx="200" cy="202" r="26" fill="none" stroke="#e2e8f0" stroke-width="2.2" opacity=".9"/>
+  <circle cx="200" cy="202" r="4" fill="#e2e8f0"/>
+  <!-- cross-grip behind the pane, seen through the glass -->
+  <path d="M168 202 L232 202" stroke="#64748b" stroke-width="8" opacity=".65"/>
+  <path d="M176 196 L176 208 M224 196 L224 208" stroke="#64748b" stroke-width="4" opacity=".65"/>
+  <!-- bracing feet planted on the floor -->
+  <path d="M148 300 L132 330 M252 300 L268 330" stroke="#cbd5e1" stroke-width="4"/>
+  <path d="M124 330 L142 330 M258 330 L276 330" stroke="#f1df76" stroke-width="2.6"/>
+  <circle cx="200" cy="112" r="4" fill="#f1df76"/>
 </svg>

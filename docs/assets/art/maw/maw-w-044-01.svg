@@ -1,27 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DAWN OF REQUIEM">
   <defs>
-    <radialGradient id="bw044" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw044" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#132441"/>
+      <stop offset="100%" stop-color="#060b15"/>
     </radialGradient>
-    <radialGradient id="gw044" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#7dd3fc" stop-opacity=".2"/>
+    <radialGradient id="sun044" cx="50%" cy="100%" r="60%">
+      <stop offset="0%" stop-color="#fcd34d" stop-opacity=".5"/>
+      <stop offset="55%" stop-color="#f59e0b" stop-opacity=".14"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="bl044" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1e40af"/>
+      <stop offset=".55" stop-color="#93c5fd"/>
+      <stop offset="1" stop-color="#eff6ff"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw044)" stroke="#7dd3fc" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw044)" stroke="#60a5fa" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw044)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#7dd3fc" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#7dd3fc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+  <!-- dawn rising behind the blade -->
+  <rect x="10" y="196" width="380" height="194" fill="url(#sun044)"/>
+  <path d="M40 300 L360 300" stroke="#fcd34d" stroke-width="1.6" opacity=".5"/>
+  <path d="M72 316 L328 316" stroke="#fcd34d" stroke-width="1" opacity=".3"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#060b15" stroke="#60a5fa" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#60a5fa" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- SABRE: gently curved single-edge blade, curved guard bowing to the pommel -->
-  <path d="M150 54 C 196 96, 228 158, 238 240 L222 246 C 206 170, 178 116, 140 76 Z" fill="#bae6fd" fill-opacity=".24" stroke="#7dd3fc" stroke-width="2.8"/>
-  <path d="M148 72 C 186 112, 212 164, 226 234" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-  <path d="M152 60 L142 50 L136 64 Z" fill="#7dd3fc"/>
-  <path d="M212 246 L252 238 L258 254 L220 262 Z" fill="#082f49" stroke="#7dd3fc" stroke-width="2.6"/>
-  <path d="M232 262 L246 330 L228 334 L216 268 Z" fill="#082f49" stroke="#7dd3fc" stroke-width="2.4"/>
-  <path d="M222 280 L240 276 M226 298 L244 294 M230 316 L246 312" stroke="#7dd3fc" stroke-width="1.4" opacity=".85"/>
-  <path d="M254 252 C 288 274, 288 316, 246 330" fill="none" stroke="#7dd3fc" stroke-width="2.6"/>
-  <circle cx="238" cy="338" r="8" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
+  <!-- SABRE: rising curve out of the horizon, tip toward the first light -->
+  <path d="M84 306 C 130 288, 214 232, 276 156 C 300 126, 318 96, 328 68 L306 62 C 294 92, 274 122, 250 150 C 196 214, 130 264, 78 288 Z"
+        fill="url(#bl044)" stroke="#93c5fd" stroke-width="2.8"/>
+  <!-- the single fine seam, collar to point -->
+  <path d="M92 296 C 146 274, 218 220, 268 156 C 288 130, 302 102, 312 76" fill="none" stroke="#eff6ff" stroke-width="1.4" opacity=".9"/>
+  <!-- first-light glint at the tip -->
+  <path d="M328 68 L344 44 M334 80 L356 66" stroke="#fcd34d" stroke-width="1.8" opacity=".8"/>
+  <!-- pale metal guard curving toward the grip -->
+  <path d="M78 288 L58 296 C 44 302, 40 318, 52 328 C 62 336, 78 334, 88 324 L100 310" fill="none" stroke="#dbeafe" stroke-width="4"/>
+  <path d="M84 306 L98 316 L86 332 L70 320 Z" fill="#0c1e3e" stroke="#93c5fd" stroke-width="2.4"/>
+  <!-- wrapped grip down into the dark -->
+  <path d="M92 326 L120 354 L104 368 L78 342 Z" fill="#0c1e3e" stroke="#60a5fa" stroke-width="2.4"/>
+  <path d="M96 340 L108 330 M106 350 L118 340" stroke="#60a5fa" stroke-width="1.5" opacity=".85"/>
+  <circle cx="114" cy="364" r="7" fill="#0c1e3e" stroke="#f1df76" stroke-width="2"/>
 </svg>

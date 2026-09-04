@@ -1,28 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE HOURGLASS MAUL">
   <defs>
     <radialGradient id="bw036" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+      <stop offset="0%" stop-color="#241a09"/>
+      <stop offset="100%" stop-color="#0d0903"/>
     </radialGradient>
-    <radialGradient id="gw036" cx="50%" cy="46%" r="50%">
+    <radialGradient id="gw036" cx="52%" cy="40%" r="52%">
       <stop offset="0%" stop-color="#f59e0b" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="hd036" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fde68a"/>
+      <stop offset="1" stop-color="#92400e"/>
+    </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw036)" stroke="#f59e0b" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw036)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#f59e0b" stroke-width="1.2"/>
+  <circle cx="204" cy="180" r="132" fill="url(#gw036)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0903" stroke="#f59e0b" stroke-width="1.2"/>
   <text x="30" y="36" fill="#f59e0b" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- HOURGLASS MAUL: flattened hourglass head, sand inset at the waist, long haft -->
-  <path d="M118 66 L186 92 L186 128 L118 154 Z" fill="#292009" stroke="#f59e0b" stroke-width="3"/>
-  <path d="M282 66 L214 92 L214 128 L282 154 Z" fill="#292009" stroke="#f59e0b" stroke-width="3"/>
-  <rect x="186" y="86" width="28" height="48" rx="5" fill="#1c1917" stroke="#f59e0b" stroke-width="2.4"/>
-  <circle cx="200" cy="110" r="9" fill="none" stroke="#fde68a" stroke-width="1.6"/>
-  <path d="M200 101 L200 119" stroke="#fde68a" stroke-width="2"/>
-  <path d="M126 78 L126 142 M138 74 L138 146 M274 78 L274 142 M262 74 L262 146" stroke="#f59e0b" stroke-width="1.2" opacity=".6"/>
-  <rect x="193" y="134" width="14" height="196" rx="5" fill="#1c1917" stroke="#f59e0b" stroke-width="2.6"/>
-  <path d="M194 168 L206 176 M194 200 L206 208 M194 232 L206 240 M194 264 L206 272 M194 296 L206 304" stroke="#f59e0b" stroke-width="1.5" opacity=".8"/>
-  <path d="M186 330 L214 330 L210 348 L190 348 Z" fill="#1c1917" stroke="#f1df76" stroke-width="2"/>
+  <g transform="rotate(24 218 150)">
+    <!-- HOURGLASS MAUL HEAD: two broad faces pinched at a glass waist -->
+    <path d="M118 96 L206 122 L206 178 L118 204 Z" fill="url(#hd036)" stroke="#f59e0b" stroke-width="3"/>
+    <path d="M330 96 L242 122 L242 178 L330 204 Z" fill="url(#hd036)" stroke="#f59e0b" stroke-width="3"/>
+    <path d="M128 108 L128 192 M142 104 L142 196 M320 108 L320 192 M306 104 L306 196" stroke="#92400e" stroke-width="1.6" opacity=".7"/>
+    <!-- the glass waist -->
+    <path d="M206 122 L242 122 L234 150 L242 178 L206 178 L214 150 Z" fill="#0d0903" stroke="#fde68a" stroke-width="2.4"/>
+    <!-- the single line of pale sand falling through -->
+    <path d="M224 126 L224 174" stroke="#fef3c7" stroke-width="2.6"/>
+    <path d="M220 168 L228 168 M218 174 L230 174" stroke="#fef3c7" stroke-width="1.4" opacity=".8"/>
+    <circle cx="224" cy="150" r="2.4" fill="#fef3c7"/>
+  </g>
+  <!-- long two-hand haft sweeping down-left -->
+  <path d="M212 208 L118 338 L102 328 L196 198 Z" fill="#1c1207" stroke="#f59e0b" stroke-width="2.6"/>
+  <path d="M188 226 L200 234 M172 248 L184 256 M156 270 L168 278 M140 292 L152 300 M124 314 L136 322" stroke="#f59e0b" stroke-width="1.6" opacity=".8"/>
+  <path d="M104 344 L124 356 L132 344 L114 332 Z" fill="#1c1207" stroke="#f1df76" stroke-width="2"/>
+  <!-- falling grains marking the swing arc -->
+  <circle cx="286" cy="252" r="2.2" fill="#fde68a" opacity=".8"/>
+  <circle cx="298" cy="274" r="1.8" fill="#fde68a" opacity=".6"/>
+  <circle cx="306" cy="296" r="1.5" fill="#fde68a" opacity=".4"/>
 </svg>
