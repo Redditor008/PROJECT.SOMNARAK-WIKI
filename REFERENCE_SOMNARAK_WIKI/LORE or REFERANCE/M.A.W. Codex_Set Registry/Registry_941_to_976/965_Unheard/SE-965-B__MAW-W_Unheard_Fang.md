@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Unheard's grudge signature in the strike.  
 **Binding rule:** the bearer names Unheard's event—A citizen's final protest was absorbed by the Collector's system. The words disappeared, but the pressure of the struggle remained.—and accepts this limit: Do not force sound into it; listen and record what remains
 
+## Appearance
+
+The Unheard Fang is the weapon record of the Unheard set — α-grade, Grudge-aligned, striking at 3–6 Grudge in a single-target pattern, five uses at 15 Sorrow Echoes each — and its canonical ability deals Grudge damage against the Body, physical form and structural integrity, channeling Unheard's grudge signature. Binding names the source event — a citizen's final protest was absorbed by the Collector's system; the words disappeared, but the pressure of the struggle remained — and accepts the set's limit: do not force sound into it; listen and record what remains. The cost is remembered in the flesh: the wielder's old wounds ache, and prolonged use leaves faint bruising. The source-trace fixed doctrine: pressed, the pressure fights back without producing sound, resistance with the voice already taken, and the Fang stays the hazard only after attribution to Unheard. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

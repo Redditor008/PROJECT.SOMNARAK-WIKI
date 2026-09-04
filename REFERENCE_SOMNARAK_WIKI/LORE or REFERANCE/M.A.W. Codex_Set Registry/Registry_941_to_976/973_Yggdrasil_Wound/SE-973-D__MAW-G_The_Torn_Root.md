@@ -19,6 +19,10 @@
 **Canonical ability:** Holds two conflicting memories without immediate collapse.  
 **Binding rule:** the bearer names Yggdrasil Wound's event—A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence.—and accepts this limit: Ground the worker and permit both memories to remain
 
+## Appearance
+
+The Torn Root is the gift record of the Yggdrasil Wound set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability holds two conflicting memories without immediate collapse, the torn worker's impossible task performed on the bearer's behalf. Binding names the source event — a tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence — and accepts the set's limit: ground the worker and permit both memories to remain. The cost is doubled: the wearer feels the pain of both memories simultaneously, protection priced at the full weight of what it holds apart. The source-trace fixed doctrine: the Root shows the memory held on each side of the split, and it opens the hazard only after attribution to Yggdrasil Wound. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  

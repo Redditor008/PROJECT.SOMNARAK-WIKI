@@ -89,9 +89,8 @@ Execute in order. Do not skip steps.
 
 ## 6. CURRENT WORK LEDGER (update this section whenever the queue changes)
 
-- **Active workstream:** M.A.W. Appearance expansion via `tools/expand_maw_appearance.py` — 12 sets (36 item pages) per batch, 150–204 words per section, md+html parity required.
-- **Shipped:** batches 6–19 (sets up to 948). Progress: **251/291 sets**.
-- **Remaining queue:** 949, 954, 959, 965, 967, 973, 976, 993, 997 (9 sets — one final batch).
+- **Workstream COMPLETE:** M.A.W. Appearance expansion via `tools/expand_maw_appearance.py` — all 20 batches shipped, 291 sets / 873 item pages carry 150–204-word source-led Appearance sections with md+html parity.
+- **Candidate next workstream (registry-parity round):** 92 legacy/1000-series sets have HTML pages but registry MDs without an `## Appearance` heading; of their ~276 pages, 126 HTML pages lack the Appearance section entirely and 9 are under 100 words (141 already fine). Verify scope with the owner before starting.
 - **Deferred by owner decision:** tabs UI (later), gallery (later), references (never).
 - **Other open item:** stale root `README.md` refresh.
 

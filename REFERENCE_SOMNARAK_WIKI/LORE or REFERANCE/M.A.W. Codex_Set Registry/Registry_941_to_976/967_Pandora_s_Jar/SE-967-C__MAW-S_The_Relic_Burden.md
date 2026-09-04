@@ -19,6 +19,10 @@
 **Canonical ability:** Converts incoming force into endurance.  
 **Binding rule:** the bearer names Pandora's Jar's event—A treasured artifact disappeared during a Desolate expedition; records of it were later removed.—and accepts this limit: Bear the heat and name what was lost
 
+## Appearance
+
+The Relic Burden is the suit record of the Pandora's Jar set — δ-grade, Weight- aligned, resistant to Weight at 0.5 while running weak to Void at 1.5, worn at 45 Sorrow Echoes a deployment — and its canonical ability converts incoming force into endurance, punishment accepted and banked the way the Jar banked its own disappearance. Binding names the source event — a treasured artifact disappeared during a Desolate expedition and its records were later removed — and accepts the set's limit: bear the heat and name what was lost. The cost is inventory: the wearer feels every loss attached to the object, the missing thing's whole ledger worn at once. The source-trace fixed doctrine: the Jar tests the worker beneath increasing heat, and the Burden stabilizes the hazard only after attribution to Pandora's Jar. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
