@@ -145,3 +145,24 @@ Registry dirs:
 - `Registry_119_to_127/{119_Homeless_Sorrow,120_Redcage,125_Deja_Vu}`
 
 Each set's `SE-NNN-B/C/D` `.md` record plus the matching `docs/maw/maw-<w|s|g>-NNN-01-*.html` page.
+
+## 10. Batch 5 (sets 126, 127, 130, 135, 140, 145, 150, 151, 152, 155, 156, 157)
+
+Status: **done**. The registry order does not use every integer (sets 128, 133, 142, 147, 153 do not exist), so batch 5 took the next 12 item-bearing sets in registry order: 126, 127, 130, 135, 140, 145, 150, 151, 152, 155, 156, 157 — **36 records**.
+
+- These records use a **different schema** from batches 1–4: `## ITEM IDENTITY`, `## EXTRACTION & BINDING` / `## ACQUISITION & BINDING`, `## CORE STATISTICS` / `## PROTECTION STATISTICS` / `## GIFT STATISTICS`, and `## COMBAT FILE` / `## PROTECTIVE FILE` / `## EFFECT FILE`.
+- Inserted `## Appearance` (top-level `##`, matching the record's own structure) before the first statistics header in each `.md` (36/36). Word counts: **157–205** (floor 150 met; a few slightly exceed 200, which the directive permits).
+- Synced into the matching `docs/maw/maw-*-NNN-01-*.html` page (36/36 inserted after Overview, before Extraction or Bestowal). md↔html parity: **36 / 36** after normalizing `&#x27;`/`&amp;`.
+- Gotcha hit and fixed in this batch: the insertion helper that removed the `## ` prefix from the following statistics header (e.g. `## CORE STATISTICS` → ` CORE STATISTICS`), which inflated the measured word count and broke the appearance/extraction boundary. Fix = regex restore `(?m)^ (PROTECTION STATISTICS|CORE STATISTICS|GIFT STATISTICS)$` → `## \1` on all 36, then re-sync the `.html` paragraphs.
+- No SVGs touched.
+
+### File paths touched (Batch 5)
+Registry dirs:
+- `Registry_119_to_127/{126_Anonym,127_Mirror_of_Broken}`
+- `Registry_130_to_150/{130_Deteriorata,135_Rem,140_Weeping_Willow,145_Briar,150_Risus}`
+- `Registry_151_to_157/{151_Border_Tree,152_Doorway_to_Nowhere,155_Harbinger,156_Deadline,157_Torpor}`
+
+Each set's `SE-NNN-B/C/D` `.md` record plus the matching `docs/maw/maw-<w|s|g>-NNN-01-*.html` page.
+
+## 11. Next batch
+Batch 6 next 12 item-bearing sets in registry order, continuing after 157: `159, 160, 165, 168, 169, 170, 175, 176, 180, 184, 185, 189` (12 sets; verify each has B/C/D records).

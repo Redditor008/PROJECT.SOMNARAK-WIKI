@@ -34,6 +34,10 @@ The Mantle formed after a Gate-side Ferrehan worker remained with several reflec
 
 **Rejection rule:** A wearer who uses the Mantle to suppress a past self finds the seams close around their shoulders and the Weight resistance returns to normal.
 
+## Appearance
+
+The Broken Mantle is a dark Han mantle split by mirrored black seams that never quite meet across the back, each seam holding a separate reflected silhouette while the weight stays evenly distributed over the shoulders. The cloth is heavy and unpolished and settles without billowing, and the central gap at the back reads like a line the wearer is not required to close. When a grounding partner is present and the wearer names a change they no longer need to apologize for, the seams open and distribute one Resolve-crushing Weight surge across reflected self-images so no single identity takes the whole impact. The mantle holds the fragments on the shoulders without asking them to become one unbroken person. It carries constant low fatigue after extended wear. After use the wearer and partner sit beside two non-facing mirrors, name a self from before and after a threshold, and identify the current exit route. If the wearer suppresses a past self, the seams close around the shoulders and Weight resistance returns to normal.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

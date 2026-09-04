@@ -34,6 +34,10 @@ The Shroud formed from a blue sound echo after a Commons observer heard the laug
 
 **Rejection rule:** If worn to avoid all sadness, the folds flatten and the Shroud’s Lament resistance drops to normal while minor joys become numb.
 
+## Appearance
+
+The Laughter Shroud is a light deep-blue shroud of fine Han cloth with small bell-like folds along the hem, each fold holding a slightly different curve. It drapes over the shoulders and chest without restricting the arms, and the inner lining stays cool while the folds catch a laugh, an exhale, or a tear before releasing it as a softer shared tone. The folds remain quiet if the wearer performs happiness for an audience. In active use the shroud diffuses one Lament surge among willing listeners without converting grief into forced celebration, and the soft chorus of folds lets relief and sadness exist in the same room. The wearer chooses a communal witness who can tell genuine relief from emotional shutdown. After use, minor joys become numb if the wearer has suppressed grief. It is hung in an open Commons case rather than sealed away. If worn to avoid all sadness, the folds flatten and Lament resistance drops to normal.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

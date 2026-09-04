@@ -39,6 +39,10 @@
 
 **Rejection rule:** A bearer who demands a culprit for a blameless ending finds the leaf line turn black and the strike return as Lament pressure through their own hands.
 
+## Appearance
+
+The Willow Requiem is a slender deep-blue blade of Han crystal with a long tear-leaf line running down the centre, and a thin film of Han that gathers along the line but never drips. The blade is smooth and slightly curved, with a pale leaf-shaped guard and a wrapped grip that stays cool. In active use it sheds pale leaf-light along a chosen line, each mote falling slowly before vanishing, and it only hums after the bearer names what ended and what was good about it. A full Pierce line contains a farewell-driven Lament wave long enough for people to leave safely or complete a ritual, letting a closure happen without turning into a second loss. The bearer feels the Willow's unwept grief after use and may cry. It rests between the pages of a two-part closeout: what ended and what continues. A bearer who demands a culprit for a blameless ending finds the leaf line turn black and the strike return as Lament pressure through their own hands.
+
 ## CORE STATISTICS
 
 | Field | Record |

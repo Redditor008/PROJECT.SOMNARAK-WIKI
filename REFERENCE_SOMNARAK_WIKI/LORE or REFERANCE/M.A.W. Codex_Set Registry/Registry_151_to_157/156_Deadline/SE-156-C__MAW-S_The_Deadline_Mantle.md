@@ -34,6 +34,10 @@ The Mantle coalesced from a black tick echo after Deadline paused for a verified
 
 **Rejection rule:** A wearer who uses the Mantle to work through planned rest finds the hem marks accelerate and its Weight resistance becomes normal.
 
+## Appearance
+
+The Deadline Mantle is a black Han mantle with faint concentric clock marks at the hem, each mark left incomplete so the garment cannot impersonate the source O-Relic. The cloth is heavy and unpolished and settles over the shoulders without hiding the hands. When a verified due date and a support person are in place, the marks slow around the wearer and distribute deadline Weight through the fabric rather than into the body. The hem marks form a readable arc on the lower edge, and a support person can see at a glance how much of the countdown the mantle is holding. The wearer carries constant low fatigue. If the support person declares a planned rest interval and confirms a replacement or delayed task, the mantle holds one deadline-induced Weight spike while the wearer steps into the scheduled pause. If the wearer rejects the pause, the clock marks close and protection falls to normal. The support person is bound to enforce the off-duty interval.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

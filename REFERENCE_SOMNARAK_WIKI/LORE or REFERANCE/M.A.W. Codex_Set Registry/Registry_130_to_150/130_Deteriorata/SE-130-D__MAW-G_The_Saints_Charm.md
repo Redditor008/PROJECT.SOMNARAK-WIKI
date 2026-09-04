@@ -39,6 +39,10 @@
 
 **Rejection rule:** If used to shame a person for not carrying enough, the Charm makes the bearer’s own movement slow and heavy until an apology and role review occur.
 
+## Appearance
+
+The Saint's Charm is a small black stone charm whose surface carries a single white crack, and it weighs more than its size suggests in the palm. A short cord lets it rest at the belt or against the chest, and in rest the crack lies pale and still. When the bearer has been treating a burden as untransferable, the crack turns and points toward the first practical handoff step: a person, route, record, or action that can begin distribution. The charm stays cool until the bearer has actually asked another person for help, and the absence of that conversation keeps it silent. It carries no Echo cost, but the bearer's movement grows slow and heavy while it reads the burden. At shift end the bearer records one burden transferred and one still requiring a plan, and the charm rests beside the completed handoff record. If used to shame a person for not carrying enough, the charm makes the bearer's own steps slow until an apology and role review occur. The relief person removes it while naming the task they accept.
+
 ## GIFT STATISTICS
 
 | Field | Record |

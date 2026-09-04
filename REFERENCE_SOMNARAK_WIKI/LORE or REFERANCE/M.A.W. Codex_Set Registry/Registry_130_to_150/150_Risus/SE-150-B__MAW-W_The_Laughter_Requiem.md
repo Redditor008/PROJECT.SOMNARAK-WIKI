@@ -39,6 +39,10 @@
 
 **Rejection rule:** A bearer who uses the weapon to mock grief or force cheer finds the blade go silent and receives its Lament output as an internal ache instead.
 
+## Appearance
+
+The Laughter Requiem is a small deep-blue blade of Han crystal with a bright tonal shimmer across the flat that fades to sorrow when the hilt is gripped. The grip is short, wrapped in blue cord, and the guard carries a tiny hollow that produces a brief laugh-like chime just before the edge releases a quiet Lament line. The blade stays silent until the bearer names one present joy and one loss connected to it, and the shimmer only returns while both states are held together. It interrupts a minor Lament escalation caused by suppressed loss after celebration, letting a group name the missing people and keep the gathering without forcing cheer. After use the bearer feels the entity's unwept grief and may weep. It is stored in a sound-damp case, never in a recording vault. A bearer who mocks grief or forces cheer finds the blade go silent and receives the Lament output as an internal ache instead. The witness covers the hilt chime and names the loss during shutdown.
+
 ## CORE STATISTICS
 
 | Field | Record |

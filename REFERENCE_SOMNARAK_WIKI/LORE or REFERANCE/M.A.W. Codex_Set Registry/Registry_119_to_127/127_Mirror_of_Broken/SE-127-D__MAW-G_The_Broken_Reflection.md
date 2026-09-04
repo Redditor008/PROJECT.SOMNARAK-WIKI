@@ -39,6 +39,10 @@
 
 **Rejection rule:** A wearer who smashes, hides, or orders one seam shut feels the Weight of every abandoned self at once and loses the Gift’s anchor effect.
 
+## Appearance
+
+The Broken Reflection is a small black mirror-tile of Han glass split by three fine seams, each holding a faint version of the bearer's face when the tile is first uncovered. The seams reflect different self-histories without forcing one to replace the others, and each face stays small and quiet rather than competing for the centre. The tile is cool and square, with a dark cloth sleeve for storage. When the bearer and a partner name the current situation and agree that no identity decision must be made inside the pressure field, the tile holds the conflicting self-images visible and reduces the impulse to choose one by force. The gift carries no Echo cost, but multiple self-images remain emotionally present after the reading. It is kept face-down until the next approved check. If the bearer smashes, hides, or orders a seam shut, the Weight of every abandoned self returns at once and the anchor effect is lost. The partner covers the seams with the black sleeve and names the exit route before removal during shutdown.
+
 ## GIFT STATISTICS
 
 | Field | Record |

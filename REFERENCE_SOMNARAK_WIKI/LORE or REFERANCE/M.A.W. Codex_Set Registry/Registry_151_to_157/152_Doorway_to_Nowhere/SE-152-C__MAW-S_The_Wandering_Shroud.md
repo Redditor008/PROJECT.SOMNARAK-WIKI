@@ -34,6 +34,10 @@ The Shroud formed after a worker observed an empty remembered room, closed the D
 
 **Rejection rule:** A wearer who uses the Shroud to remain inside a memory passage finds the charred seam close around the neck and loses all Lament reduction until the partner ends the contact.
 
+## Appearance
+
+The Wandering Shroud is a deep-blue shroud of fine Han cloth with a thin charred seam that resembles a doorframe around the wearer's shoulders. It drapes from the collar to the waist and leaves the hands free, and the collar closes with a single clasp that the return partner can release. In active use the seam creates a stable outline between a memory-room and the bearer's current body, and the cloth stays cool on the current side while the charred line marks the remembered side. The seam shows the present side only after the return partner speaks a current landmark, and pressing the collar inward lets the wearer step back toward the room that actually exists. The bearer's minor joys become numb if memory passage replaces current life. It is hung beside an open current-world door, never a sealed archive threshold. The partner unfastens the collar and walks the wearer three steps away from the memory-facing direction during shutdown.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

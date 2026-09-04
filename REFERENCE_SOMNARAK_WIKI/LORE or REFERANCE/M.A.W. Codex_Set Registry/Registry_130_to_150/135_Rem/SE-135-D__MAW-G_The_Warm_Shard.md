@@ -39,6 +39,10 @@
 
 **Rejection rule:** If the bearer uses the Shard without a waking purpose, the threshold shows only a desired dream and refuses to open back toward the current room until the anchor intervenes.
 
+## Appearance
+
+The Warm Shard is a small blue Han-glass shard shaped like a smooth, rounded teardrop, with a warm centre that seems to hold a light just below the surface of waking. It is light and cool in ordinary daylight and can be held between the fingers or worn close to the body. When a waking anchor is present and has spoken the return cue, the shard opens a softly lit Dream threshold no wider than the bearer's attention. The opening carries no visible frame and closes behind the bearer without leaving a mark in the room. The bearer enters a controlled Dream-state for one defined interval, and the shard stays warm only while the anchor holds the agreement. It cannot complete the source dream or create a permanent alternative life. After use the bearer loses one sharp edge from waking memory, and a colleague usually walks the relevant corridor so that some detail returns. The anchor covers the warm centre and speaks the cue for shutdown, and the shard is never stored inside a Dream Gate.
+
 ## GIFT STATISTICS
 
 | Field | Record |

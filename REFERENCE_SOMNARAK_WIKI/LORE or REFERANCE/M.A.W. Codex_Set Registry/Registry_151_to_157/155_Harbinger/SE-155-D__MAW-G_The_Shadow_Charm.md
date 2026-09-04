@@ -39,6 +39,10 @@
 
 **Rejection rule:** A bearer who uses the Charm to shame a debtor feels every pending obligation in their own life become physically heavy until a reviewer removes it.
 
+## Appearance
+
+The Shadow Charm is a small black ledger-charm of Han iron, square and thin, with a surface that reflects a line of text which disappears when read directly. A short cord lets it hang from the belt, and in rest the metal is cold and blank. When the bearer has agreed to an independent reviewer, a shadow line points toward one pending obligation or unexamined balance pressure, and the reflected text becomes legible only as the reviewer reads it aloud. The charm separates verified fact, dispute, and emotional dread without determining legal validity or calculating a payment. It carries no Echo cost, but obligation pressure becomes bodily noticeable after a reading. It is stored face-down beside the review record, never beside a collection notice alone. If the bearer uses it to shame a debtor, every pending obligation in their own life becomes physically heavy until a reviewer removes it. The reviewer covers the shadow text and names the next action during shutdown.
+
 ## GIFT STATISTICS
 
 | Field | Record |

@@ -39,6 +39,10 @@
 
 **Rejection rule:** If used to declare an entire side illegitimate, the Charm turns sharply toward the bearer and shortens their temper until the reading is reviewed.
 
+## Appearance
+
+The Border Charm is a small crimson root-marker charm of Han iron with two fine roots that point in opposite directions at rest. It hangs from a short cord and is cool in the palm, and one root glows red where a boundary is causing immediate exclusion or harm while the other stays dark until the bearer has asked someone from the other side to describe the line. In active use the marker reveals one possible negotiated opening, review point, or safe passage, and it refuses a reading without a counterpart account. It has no Echo cost, but the bearer's temper shortens near unfair or unexamined lines until the issue has a documented joint response. The marker shows what a line protects and what it divides without deciding political ownership. It is stored at the intersection of both accounts, never on one side's map. A bearer who declares an entire side illegitimate finds the charm turn toward them and shorten their temper until the reading is reviewed.
+
 ## GIFT STATISTICS
 
 | Field | Record |

@@ -39,6 +39,10 @@
 
 **Rejection rule:** A bearer who declares one self real and every other self false finds the Maul pull downward until they cannot lift it without a partner’s grounding cue.
 
+## Appearance
+
+The Broken Maul is a black Han-steel weapon with a broad, unpolished head crossed by mirrored fracture lines, each line reflecting a different angle of the bearer's face. In rest the metal is cold and the fracture lines lie dark across the face; when the bearer names more than one self-history they carry, the lines open into multiple black impact paths that converge only at one chosen endpoint. The haft is long and ribbed, wrapped in black Han-grip, and the weapon settles low and heavy in the hands. It breaks a Resolve-crushing self-conflict field across up to three aligned targets while a Gate Watch partner confirms a route away from the dream pressure. The bearer becomes progressively heavier with use and prolonged use produces slight aging. It rests between two open mirror panels, never facing only a single reflection. A bearer who declares one self real and every other self false feels the maul pull downward until a partner's grounding cue lets them lift it. The partner may stop any strike aimed at punishing the bearer rather than ending the field.
+
 ## CORE STATISTICS
 
 | Field | Record |
