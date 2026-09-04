@@ -47,7 +47,7 @@ Every M.A.W. Weapon (W) item must map to a distinct archetype so no two share a 
 Additional maul-family variants introduced by later batches (still one silhouette per item): Hourglass Maul, Dish Maul, Vessel Maul.
 Additional short-blade variants: Tear Dagger, Tear Stiletto, Notched Dao. Additional rapier-family variants: Estoc (thicker, guardless thruster).
 Additional sword-family variants: Squared Warbrand, Cruciform Longsword, Falchion. Additional lens-family variants: Caliper Lens, Lens Pistol, Sceptre Lens.
-Batch-4 additions: Petal Blade, Ember Sidesword, Link Cleaver, Hex Frost Lens, Round Grand Maul, Bridge Greatblade, Thread Sai, Gimbal Lens, Lantern Lens, Basket Cutlass, Shutter Lens, Glass Leaf Blade.
+Batch-4 additions (REDONE 2026-09-04 per owner variety ruling — non-blade/blunt forms, bands taken from each record's `Speed / range` stat): War Fan, Sheathed Vigil Blade, Rope Dart, Frost Lens, Set-Down Maul, Bridge Blade, Needle Awl + Red Thread, Mirror Lens, Well Lens, Trap-Jaw Cage, Thrown Shutter Disc, Glass Melt Blade.
 Batch-5 additions: Split-Head Maul, Stone Orb Maul, Kris Wave Blade, Willow-Leaf Saber, Thorn Sickle, Main-Gauche, Root Cudgel, Cane Sword, Wedge Maul, Clock Maul, Bell Maul, Shard Fang.
 
 ## Current W → archetype mapping (distinct silhouettes)
@@ -90,18 +90,18 @@ Batch-5 additions: Split-Head Maul, Stone Orb Maul, Kris Wave Blade, Willow-Leaf
 | MAW-W-091 The Crown of Requiem | Crown Coil Blade | Room |
 | MAW-W-092 The Burning Fang | Falchion | Medium |
 | MAW-W-099 The Dancing Fang | Notched Dao | Short |
-| MAW-W-100 The Unsaid Requiem | Petal Blade | Short |
-| MAW-W-101 The Ember Requiem | Ember Sidesword | Medium |
-| MAW-W-102 The Dancing Fang | Link Cleaver | Short |
-| MAW-W-103 The Cold Lens | Hex Frost Lens | Instant |
-| MAW-W-105 The Giant's Maul | Round Grand Maul | Room |
-| MAW-W-106 I Alone Crossed Requiem | Bridge Greatblade | Long |
-| MAW-W-108 The Trace Fang | Thread Sai | Close |
-| MAW-W-115 The Memory Lens | Gimbal Lens | Instant |
-| MAW-W-119 The Shadow Lens | Lantern Lens | Medium |
-| MAW-W-120 The Cage Fang | Basket Cutlass | Medium |
-| MAW-W-125 The Returning Lens | Shutter Lens | Instant |
-| MAW-W-126 The Melting Lens | Glass Leaf Blade | Short |
+| MAW-W-100 The Unsaid Requiem | War Fan (bladed, half-open) | Short (source: range 2 — Short) |
+| MAW-W-101 The Ember Requiem | Sheathed Vigil Blade (still-life w/ chair) | Short (source: range 2 — Short) |
+| MAW-W-102 The Dancing Fang | Rope Dart (cord + fang dart) | Medium (source: range 3 — Medium) |
+| MAW-W-103 The Cold Lens | Frost Lens (freezing pierce) | Medium (source: range 3 — Medium) |
+| MAW-W-105 The Giant's Maul | Set-Down Maul (grounded, open cuff) | Medium (source: range 3 — Medium) |
+| MAW-W-106 I Alone Crossed Requiem | Bridge Blade (laid flat over a gap) | Medium (source: range 3 — Medium) |
+| MAW-W-108 The Trace Fang | Needle Awl + Red Thread | Short (source: range 2 — Short) |
+| MAW-W-115 The Memory Lens | Mirror Lens (reflected stranger) | Medium (source: range 3 — Medium) |
+| MAW-W-119 The Shadow Lens | Well Lens (room-swallow scene) | Short (source: range 2 — Short) |
+| MAW-W-120 The Cage Fang | Trap-Jaw Cage (open barred jaws) | Medium (source: range 3 — Medium) |
+| MAW-W-125 The Returning Lens | Thrown Shutter Disc (return arc) | Medium (source: range 3 — Medium) |
+| MAW-W-126 The Melting Lens | Glass Melt Blade (dissolving edge) | Short (source: range 2 — Short) |
 | MAW-W-127 The Broken Maul | Split-Head Maul | Room |
 | MAW-W-130 The Saint's Maul | Stone Orb Maul | Room |
 | MAW-W-135 The Warm Requiem | Kris Wave Blade | Short |

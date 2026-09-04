@@ -1,30 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MEMORY LENS">
   <defs>
-    <radialGradient id="bw115" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw115" cx="50%" cy="44%" r="64%">
+      <stop offset="0%" stop-color="#17191e"/>
+      <stop offset="100%" stop-color="#08090b"/>
     </radialGradient>
-    <radialGradient id="gw115" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    <radialGradient id="dk115" cx="48%" cy="42%" r="68%">
+      <stop offset="0%" stop-color="#f4f4f5"/>
+      <stop offset="60%" stop-color="#b8bec7"/>
+      <stop offset="100%" stop-color="#52525b"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw115)" stroke="#8a8f98" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw115)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#8a8f98" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090b" stroke="#8a8f98" stroke-width="1.2"/>
   <text x="30" y="36" fill="#8a8f98" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- GIMBAL LENS: convex disc suspended in an outer pivot ring -->
-  <ellipse cx="200" cy="138" rx="72" ry="60" fill="none" stroke="#8a8f98" stroke-width="3"/>
-  <circle cx="128" cy="138" r="6" fill="#12161f" stroke="#8a8f98" stroke-width="1.8"/>
-  <circle cx="272" cy="138" r="6" fill="#12161f" stroke="#8a8f98" stroke-width="1.8"/>
-  <circle cx="200" cy="138" r="40" fill="#d7dde6" fill-opacity=".14" stroke="#e5e7eb" stroke-width="1.8"/>
-  <path d="M172 138 C 182 124, 218 124, 228 138" fill="none" stroke="#e5e7eb" stroke-width="1.2" opacity=".65"/>
-  <circle cx="200" cy="138" r="6" fill="#e5e7eb"/>
-  <path d="M200 78 L200 92 M200 184 L200 198" stroke="#8a8f98" stroke-width="1.6" opacity=".6"/>
-  <rect x="192" y="198" width="16" height="20" fill="#12161f" stroke="#8a8f98" stroke-width="2"/>
-  <rect x="186" y="218" width="28" height="100" rx="8" fill="#12161f" stroke="#8a8f98" stroke-width="2.6"/>
-  <path d="M188 236 L212 244 M188 258 L212 266 M188 280 L212 288 M188 300 L212 308" stroke="#8a8f98" stroke-width="1.4" opacity=".8"/>
-  <circle cx="200" cy="330" r="9" fill="#12161f" stroke="#f1df76" stroke-width="2"/>
+  <!-- the empty spot where the stranger should stand: dashed outline, right, NO ONE there -->
+  <path d="M312 150 C 312 136, 322 128, 332 128 C 342 128, 352 136, 352 150 C 352 160, 346 168, 338 170 L338 178 C 352 182, 360 194, 360 210 L360 258 L304 258 L304 210 C 304 194, 312 182, 326 178 L326 170 C 318 168, 312 160, 312 150 Z"
+        fill="none" stroke="#3f3f46" stroke-width="2" stroke-dasharray="5 5" opacity=".8"/>
+  <!-- THE MEMORY LENS: convex disc; INSIDE the glass, the stranger IS reflected -->
+  <ellipse cx="172" cy="196" rx="78" ry="84" fill="url(#dk115)" fill-opacity=".96" stroke="#e4e4e7" stroke-width="3.2" transform="rotate(-8 172 196)"/>
+  <ellipse cx="172" cy="196" rx="62" ry="68" fill="none" stroke="#71717a" stroke-width="1.6" opacity=".7" transform="rotate(-8 172 196)"/>
+  <!-- the faint pale seam crossing the face -->
+  <path d="M104 168 C 140 148, 208 146, 242 166" fill="none" stroke="#fafafa" stroke-width="2" opacity=".6"/>
+  <!-- the reflected stranger inside the glass: soft grey silhouette -->
+  <circle cx="176" cy="176" r="14" fill="#52525b" fill-opacity=".8"/>
+  <path d="M154 240 C 154 210, 198 210, 198 240 L198 252 C 184 258, 168 258, 154 252 Z" fill="#52525b" fill-opacity=".8"/>
+  <!-- separation: the memory pressure peeled away as a thin film -->
+  <path d="M236 148 C 258 136, 276 136, 290 148" fill="none" stroke="#a1a1aa" stroke-width="1.6" stroke-dasharray="6 4" opacity=".7"/>
+  <path d="M286 142 L296 146 L290 154" fill="none" stroke="#a1a1aa" stroke-width="1.6" opacity=".7"/>
+  <!-- pierce line: lens -> the pressure film, not the person -->
+  <path d="M226 160 L282 146" stroke="#f4f4f5" stroke-width="2.4"/>
+  <!-- glass glint -->
+  <path d="M118 138 C 134 122, 158 114, 182 116" fill="none" stroke="#fafafa" stroke-width="2.4" opacity=".85"/>
+  <!-- cold: no writing anywhere on the disc (clean face) -->
+  <!-- dark frame + short handle low-left -->
+  <path d="M136 272 L112 316 L132 328 L156 286 Z" fill="#131418" stroke="#8a8f98" stroke-width="2.4"/>
+  <path d="M126 296 L142 306" stroke="#8a8f98" stroke-width="1.5" opacity=".8"/>
+  <circle cx="112" cy="334" r="7" fill="#131418" stroke="#f1df76" stroke-width="2"/>
 </svg>

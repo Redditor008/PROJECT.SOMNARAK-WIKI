@@ -1,29 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE EMBER REQUIEM">
   <defs>
-    <radialGradient id="bw101" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw101" cx="46%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="#101c31"/>
+      <stop offset="100%" stop-color="#05080f"/>
     </radialGradient>
-    <radialGradient id="gw101" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl101" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#bae6fd"/>
+      <stop offset="1" stop-color="#0c4a6e"/>
+    </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw101)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw101)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#05080f" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- EMBER SIDESWORD: slim blade, curved knuckle-bow hilt, coal mote above the guard -->
-  <path d="M204 52 L210 78 L208 222 L200 234 L194 220 L198 78 Z" fill="#7dd3fc" fill-opacity=".22" stroke="#38bdf8" stroke-width="2.4"/>
-  <path d="M203 66 L202 224" stroke="#bae6fd" stroke-width="1.1" opacity=".75"/>
-  <circle cx="246" cy="214" r="9" fill="#fb923c" fill-opacity=".85"/>
-  <circle cx="246" cy="214" r="15" fill="none" stroke="#fb923c" stroke-width="1.2" opacity=".5"/>
-  <circle cx="246" cy="214" r="21" fill="none" stroke="#fb923c" stroke-width=".8" stroke-dasharray="2 4" opacity=".35"/>
-  <path d="M170 236 L232 236 L226 250 L176 250 Z" fill="#082f49" stroke="#38bdf8" stroke-width="2.4"/>
-  <path d="M176 250 C 148 274, 148 312, 182 326" fill="none" stroke="#38bdf8" stroke-width="2.8"/>
-  <rect x="190" y="250" width="20" height="70" rx="5" fill="#082f49" stroke="#38bdf8" stroke-width="2.2"/>
-  <path d="M191 264 L209 270 M191 282 L209 288 M191 300 L209 306" stroke="#38bdf8" stroke-width="1.4" opacity=".85"/>
-  <circle cx="200" cy="330" r="9" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
+  <!-- floor line -->
+  <path d="M52 330 L348 330" stroke="#1e3a5f" stroke-width="2.4" opacity=".8"/>
+  <!-- THE EMPTY CHAIR, waiting -->
+  <path d="M236 330 L236 208 L306 208 L306 330" fill="none" stroke="#64748b" stroke-width="3.4"/>
+  <path d="M236 262 L306 262" stroke="#64748b" stroke-width="3.4"/>
+  <path d="M242 262 L242 208 M300 262 L300 208" stroke="#64748b" stroke-width="1.4" opacity=".6"/>
+  <path d="M236 330 L228 344 M306 330 L314 344" stroke="#64748b" stroke-width="2.6"/>
+  <!-- the written return time pinned to the chair back -->
+  <rect x="256" y="222" width="34" height="24" rx="2" fill="#e2e8f0" fill-opacity=".9" stroke="#94a3b8" stroke-width="1.4" transform="rotate(-4 273 234)"/>
+  <path d="M262 230 L284 228 M262 236 L280 235 M262 242 L276 241" stroke="#334155" stroke-width="1.3" transform="rotate(-4 273 234)"/>
+  <!-- THE BLADE, sheathed, leaning against the chair -->
+  <g transform="rotate(14 176 260)">
+    <path d="M168 130 L188 130 L186 296 L170 296 Z" fill="#0a1526" stroke="#38bdf8" stroke-width="2.4"/>
+    <path d="M172 150 L184 150 M172 250 L184 250" stroke="#38bdf8" stroke-width="1.4" opacity=".7"/>
+    <!-- exposed slim pale-blue blade above the sheath collar -->
+    <path d="M172 130 L174 84 L182 84 L184 130 Z" fill="url(#bl101)" stroke="#7dd3fc" stroke-width="2"/>
+    <path d="M178 88 L178 128" stroke="#e0f2fe" stroke-width="1" opacity=".85"/>
+    <!-- open ring pommel at sheath foot -->
+    <circle cx="178" cy="308" r="9" fill="none" stroke="#7dd3fc" stroke-width="2.4"/>
+  </g>
+  <!-- THE COAL MOTE: suspended above the guard, glowing orange against the blue -->
+  <circle cx="196" cy="96" r="6" fill="#fb923c"/>
+  <circle cx="196" cy="96" r="12" fill="none" stroke="#fb923c" stroke-width="1.2" opacity=".55"/>
+  <circle cx="196" cy="96" r="19" fill="none" stroke="#fb923c" stroke-width=".8" stroke-dasharray="2 4" opacity=".35"/>
+  <!-- mote brightening: the real return point is named -->
+  <path d="M214 96 C 236 108, 252 132, 258 160" fill="none" stroke="#fb923c" stroke-width="1.2" stroke-dasharray="3 5" opacity=".5"/>
+  <!-- gold tell on the floor by the chair leg -->
+  <circle cx="322" cy="338" r="3" fill="#f1df76"/>
 </svg>

@@ -1,28 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE UNSAID REQUIEM">
   <defs>
-    <radialGradient id="bw100" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw100" cx="50%" cy="52%" r="62%">
+      <stop offset="0%" stop-color="#0f2038"/>
+      <stop offset="100%" stop-color="#050a12"/>
     </radialGradient>
-    <radialGradient id="gw100" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#7dd3fc" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="fan100" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#0c4a6e"/>
+      <stop offset="1" stop-color="#bae6fd"/>
+    </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw100)" stroke="#7dd3fc" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw100)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#7dd3fc" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a12" stroke="#7dd3fc" stroke-width="1.2"/>
   <text x="30" y="36" fill="#7dd3fc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- PETAL BLADE: narrow straight blade with a lone petal floating above the guard -->
-  <path d="M200 70 L206 96 L206 224 L200 236 L194 224 L194 96 Z" fill="#bfdbfe" fill-opacity=".2" stroke="#7dd3fc" stroke-width="2.4"/>
-  <path d="M200 82 L200 228" stroke="#e0f2fe" stroke-width="1.1" opacity=".75"/>
-  <path d="M236 214 C 252 202, 258 186, 252 172 C 240 178, 232 192, 234 208 Z" fill="#bfdbfe" fill-opacity=".35" stroke="#e0f2fe" stroke-width="1.6"/>
-  <path d="M244 196 C 242 204, 240 210, 237 214" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".7"/>
-  <path d="M230 226 C 234 232, 240 236, 248 238" fill="none" stroke="#7dd3fc" stroke-width="1" stroke-dasharray="3 4" opacity=".5"/>
-  <path d="M172 238 L228 238 L220 252 L180 252 Z" fill="#0c1e3e" stroke="#7dd3fc" stroke-width="2.4"/>
-  <rect x="190" y="252" width="20" height="60" rx="5" fill="#0c1e3e" stroke="#7dd3fc" stroke-width="2.2"/>
-  <path d="M191 266 L209 272 M191 282 L209 288 M191 296 L209 302" stroke="#7dd3fc" stroke-width="1.4" opacity=".85"/>
-  <circle cx="200" cy="322" r="8" fill="#0c1e3e" stroke="#f1df76" stroke-width="2"/>
+  <!-- WAR FAN half-open: each rib a held sentence, edges bladed -->
+  <g>
+    <path d="M200 292 L92 164 A 152 152 0 0 1 308 164 Z" fill="url(#fan100)" fill-opacity=".3" stroke="#7dd3fc" stroke-width="2.8"/>
+    <!-- ribs -->
+    <path d="M200 292 L104 176 M200 292 L136 140 M200 292 L172 124 M200 292 L212 122 M200 292 L250 134 M200 292 L284 158" stroke="#7dd3fc" stroke-width="2" opacity=".85"/>
+    <!-- the unsaid: faint script lines between ribs, trailing off -->
+    <path d="M148 190 C 158 186, 166 188, 172 184 M182 164 C 190 162, 196 164, 202 160 M224 158 C 232 158, 238 162, 244 160" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".6"/>
+    <path d="M156 214 C 164 210, 170 212, 176 208" fill="none" stroke="#e0f2fe" stroke-width="1" stroke-dasharray="4 4" opacity=".4"/>
+    <!-- bladed outer arc glint -->
+    <path d="M100 158 A 148 148 0 0 1 198 116" fill="none" stroke="#e0f2fe" stroke-width="1.8" opacity=".8"/>
+  </g>
+  <!-- the seam that turns blue near a held silence: lit rib -->
+  <path d="M200 292 L212 122" stroke="#e0f2fe" stroke-width="2.6" opacity=".95"/>
+  <circle cx="212" cy="122" r="4" fill="#e0f2fe"/>
+  <!-- THE PETAL: escaped above the fan, spinning slow in still air -->
+  <path d="M258 84 C 274 72, 292 74, 298 88 C 288 100, 270 102, 258 92 Z" fill="#bae6fd" fill-opacity=".5" stroke="#e0f2fe" stroke-width="1.6"/>
+  <path d="M262 88 C 274 86, 284 88, 292 88" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".7"/>
+  <path d="M250 104 C 246 96, 248 88, 254 82" fill="none" stroke="#7dd3fc" stroke-width="1" stroke-dasharray="2 4" opacity=".6"/>
+  <!-- short wrapped grip + rivet -->
+  <path d="M192 292 L208 292 L216 342 L184 342 Z" fill="#0c1e3e" stroke="#38bdf8" stroke-width="2.4"/>
+  <path d="M190 306 L210 312 M188 322 L212 328" stroke="#38bdf8" stroke-width="1.5" opacity=".85"/>
+  <circle cx="200" cy="292" r="6" fill="#050a12" stroke="#f1df76" stroke-width="2"/>
 </svg>

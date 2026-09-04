@@ -1,28 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DANCING FANG">
   <defs>
-    <radialGradient id="bw102" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw102" cx="50%" cy="46%" r="62%">
+      <stop offset="0%" stop-color="#260a0a"/>
+      <stop offset="100%" stop-color="#0d0404"/>
     </radialGradient>
-    <radialGradient id="gw102" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#dc2626" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="dt102" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fecaca"/>
+      <stop offset="1" stop-color="#991b1b"/>
+    </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw102)" stroke="#dc2626" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw102)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#dc2626" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0404" stroke="#dc2626" stroke-width="1.2"/>
   <text x="30" y="36" fill="#dc2626" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- LINK CLEAVER: broad squared cleaver blade, open chain link set into the handle -->
-  <path d="M136 84 L268 84 L268 196 L172 196 L136 156 Z" fill="#7f1d1d" fill-opacity=".45" stroke="#dc2626" stroke-width="2.8"/>
-  <path d="M148 96 L256 96" stroke="#fca5a5" stroke-width="1.3" opacity=".7"/>
-  <path d="M150 150 L256 150 M178 188 L256 188" stroke="#fca5a5" stroke-width="1" opacity=".45"/>
-  <circle cx="246" cy="122" r="7" fill="none" stroke="#fca5a5" stroke-width="1.6"/>
-  <rect x="238" y="196" width="20" height="14" fill="#290a0a" stroke="#dc2626" stroke-width="2"/>
-  <ellipse cx="248" cy="232" rx="14" ry="21" fill="none" stroke="#dc2626" stroke-width="3.4"/>
-  <rect x="238" y="252" width="20" height="70" rx="6" fill="#290a0a" stroke="#dc2626" stroke-width="2.4"/>
-  <path d="M239 266 L257 272 M239 284 L257 290 M239 302 L257 308" stroke="#dc2626" stroke-width="1.4" opacity=".85"/>
-  <path d="M234 322 L262 322 L258 340 L238 340 Z" fill="#290a0a" stroke="#f1df76" stroke-width="2"/>
+  <!-- the cord: a full dance orbit around the frame -->
+  <path d="M120 300 C 70 250, 84 160, 150 118 C 216 76, 306 96, 330 164 C 348 216, 322 268, 268 284"
+        fill="none" stroke="#7f1d1d" stroke-width="3"/>
+  <path d="M120 300 C 70 250, 84 160, 150 118 C 216 76, 306 96, 330 164 C 348 216, 322 268, 268 284"
+        fill="none" stroke="#fca5a5" stroke-width="1" stroke-dasharray="10 12" opacity=".7"/>
+  <!-- motion ghosts of earlier steps -->
+  <path d="M140 288 C 104 250, 112 180, 162 142" fill="none" stroke="#450a0a" stroke-width="1.6" stroke-dasharray="3 7" opacity=".7"/>
+  <!-- THE FANG DART at the cord's end: broad short head, mid-flight -->
+  <g transform="rotate(32 268 284)">
+    <path d="M268 240 L288 284 L268 300 L248 284 Z" fill="url(#dt102)" stroke="#f87171" stroke-width="2.6"/>
+    <path d="M268 250 L268 292" stroke="#fee2e2" stroke-width="1.2" opacity=".85"/>
+    <!-- red seam along the spine, visible while the task holds -->
+    <path d="M258 282 L268 246 L278 282" fill="none" stroke="#450a0a" stroke-width="2" opacity=".9"/>
+  </g>
+  <!-- speed flicks off the dart -->
+  <path d="M296 302 L312 316 M284 314 L296 330" stroke="#f87171" stroke-width="1.6" opacity=".7"/>
+  <!-- THE OPEN LINK set into the handle end -->
+  <path d="M120 300 L106 314" stroke="#7f1d1d" stroke-width="3"/>
+  <path d="M96 336 A 16 16 0 1 1 118 324" fill="none" stroke="#f87171" stroke-width="3.6"/>
+  <!-- the release partner's hand-mark: small open circle where the link waits -->
+  <circle cx="76" cy="352" r="8" fill="none" stroke="#d6d3d1" stroke-width="2" opacity=".8"/>
+  <path d="M84 346 L96 338" stroke="#d6d3d1" stroke-width="1.4" stroke-dasharray="3 3" opacity=".7"/>
+  <!-- squared guard mark on the grip section of the cord -->
+  <rect x="128" y="286" width="26" height="16" rx="3" fill="#450a0a" stroke="#dc2626" stroke-width="2.2" transform="rotate(-38 141 294)"/>
+  <circle cx="150" cy="278" r="3" fill="#f1df76"/>
 </svg>

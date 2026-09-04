@@ -1,28 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE GIANT'S MAUL">
   <defs>
-    <radialGradient id="bw105" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw105" cx="50%" cy="36%" r="66%">
+      <stop offset="0%" stop-color="#211807"/>
+      <stop offset="100%" stop-color="#0b0703"/>
     </radialGradient>
-    <radialGradient id="gw105" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#f59e0b" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="hd105" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#57534e"/>
+      <stop offset="1" stop-color="#0c0a09"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw105)" stroke="#f59e0b" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw105)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gw105)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#f59e0b" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#f59e0b" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0b0703" stroke="#d97706" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- ROUND GRAND MAUL: huge cylinder drum head, load-limit line, open grip cuff -->
-  <rect x="118" y="72" width="164" height="84" rx="42" fill="#292009" stroke="#f59e0b" stroke-width="3.2"/>
-  <path d="M160 72 L160 156 M240 72 L240 156" stroke="#f59e0b" stroke-width="1.2" opacity=".5"/>
-  <path d="M132 114 L268 114" stroke="#fde68a" stroke-width="1.8" stroke-dasharray="8 5" opacity=".8"/>
-  <circle cx="200" cy="114" r="12" fill="none" stroke="#fde68a" stroke-width="1.6" opacity=".7"/>
-  <rect x="192" y="156" width="16" height="150" rx="5" fill="#1c1917" stroke="#f59e0b" stroke-width="2.6"/>
-  <path d="M192 180 L208 180 M192 206 L208 206 M192 232 L208 232 M192 258 L208 258 M192 284 L208 284" stroke="#f59e0b" stroke-width="1.6" opacity=".75"/>
-  <path d="M182 306 C 166 316, 166 336, 182 346 M218 306 C 234 316, 234 336, 218 346" fill="none" stroke="#f59e0b" stroke-width="2.8"/>
-  <path d="M182 346 L192 352 M218 346 L208 352" stroke="#f59e0b" stroke-width="2.2"/>
-  <circle cx="200" cy="330" r="6" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <!-- ground -->
+  <path d="M40 302 L360 302" stroke="#44403c" stroke-width="3"/>
+  <!-- BLACK PRESSURE RINGS spreading into the ground from the set-down head -->
+  <ellipse cx="150" cy="302" rx="56" ry="12" fill="none" stroke="#f59e0b" stroke-width="2.2" opacity=".9"/>
+  <ellipse cx="150" cy="302" rx="92" ry="20" fill="none" stroke="#b45309" stroke-width="1.8" opacity=".6"/>
+  <ellipse cx="150" cy="302" rx="128" ry="28" fill="none" stroke="#78350f" stroke-width="1.4" opacity=".4"/>
+  <!-- THE MAUL: head down on the ground (set down, not raised), too dense for its shaft -->
+  <path d="M96 232 L204 232 L214 302 L86 302 Z" fill="url(#hd105)" stroke="#d97706" stroke-width="3.2"/>
+  <path d="M104 246 L198 246 M100 268 L202 268 M96 288 L206 288" stroke="#292524" stroke-width="2" opacity=".8"/>
+  <!-- density: hairline sag in the ground under it -->
+  <path d="M92 302 C 120 310, 180 310, 210 302" fill="none" stroke="#44403c" stroke-width="2.2"/>
+  <!-- load-limit line marked in faint grey on the head -->
+  <path d="M102 240 L196 240" stroke="#9ca3af" stroke-width="1.8" stroke-dasharray="6 4" opacity=".85"/>
+  <!-- long ribbed haft leaning up-right, at rest -->
+  <path d="M188 232 L296 96 L312 108 L206 238 Z" fill="#140d05" stroke="#d97706" stroke-width="2.6"/>
+  <path d="M212 216 L224 226 M232 192 L244 202 M252 168 L264 178 M272 144 L284 154" stroke="#d97706" stroke-width="1.6" opacity=".8"/>
+  <!-- THE OPEN GRIP CUFF at the haft's end: released from behind by the supporter -->
+  <path d="M300 92 A 18 18 0 1 1 326 112" fill="none" stroke="#fbbf24" stroke-width="3.4"/>
+  <path d="M330 118 L344 132" stroke="#fbbf24" stroke-width="2" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- the supporter's hand-line reaching from off-frame -->
+  <path d="M368 128 C 358 124, 350 126, 344 132" fill="none" stroke="#d6d3d1" stroke-width="2.2" opacity=".85"/>
+  <path d="M368 138 C 360 134, 352 136, 348 140" fill="none" stroke="#d6d3d1" stroke-width="1.8" opacity=".6"/>
+  <!-- two-person set-down: second pair of grip wraps mid-haft -->
+  <path d="M240 180 L256 192 M248 170 L264 182" stroke="#fbbf24" stroke-width="2" opacity=".9"/>
+  <circle cx="150" cy="266" r="4" fill="#f1df76"/>
 </svg>

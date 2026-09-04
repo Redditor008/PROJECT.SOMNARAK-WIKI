@@ -288,5 +288,25 @@ W-055…099 redrawn as individual illustrations, each staged from its own Appear
 
 Gates PASS. Batches 4–5 (W-100…159) still in rejected style; next redo round after owner review.
 
+## 15d. Batch 4 REDONE + owner VARIETY ruling (2026-09-04, after owner approved the batch-3 redo)
+
+**New owner ruling:** stop clustering on blade/blunt/spear — vary the weapon *kind* itself, and pick each form from the item's own `Speed / range` stat in its `SE-NNN-B` registry record (consult the M.A.W. codex/creation source). Recorded ranges for this batch: W-100/101/108/119/126 = `2 — Short`; W-102/103/105/106/115/120/125 = `3 — Medium`.
+
+W-100…126 redrawn as varied forms, each staged from its own record:
+- W-100 Unsaid Requiem — bladed WAR FAN half-open, ribs holding unfinished script, the lone petal spinning above (Short).
+- W-101 Ember Requiem — STILL LIFE: sheathed blade leaning on the empty chair with the written return time; coal mote glowing orange over the guard (Short).
+- W-102 Dancing Fang — ROPE DART: fang dart mid-orbit on a full cord loop, open link at the handle end, release partner's mark (Medium).
+- W-103 Cold Lens — FROST LENS freezing a pierce line that crystallizes a tangled interference; breath-fog off the glass (Medium).
+- W-105 Giant's Maul — SET-DOWN SCENE: head grounded with black pressure rings, load-limit line, open grip cuff released by the supporter's hand, second grip wraps (two-person rule) (Medium).
+- W-106 I Alone Crossed Requiem — the blade LAID FLAT AS A BRIDGE over a gap, broken fuller dimming mid-span, lone figure crossing (Medium).
+- W-108 Trace Fang — NEEDLE AWL with eye + RED THREAD running through the grip to the context note (one known fact, one unknown line) (Short).
+- W-115 Memory Lens — MIRROR LENS: the stranger reflected inside the glass while their dashed outline stands empty beside it; pierce hits the peeled pressure film, not the person (Medium).
+- W-119 Shadow Lens — WELL LENS held at the centre of a perspective-drawn room that is swallowing a name off a door plate; return-location note + witness outside (Short).
+- W-120 Cage Fang — TRAP-JAW CAGE: two barred jaws held open, ridge line open at the hinge, a small bird-line escaping (release, not revenge) (Medium).
+- W-125 Returning Lens — THROWN SHUTTER DISC mid-flight on its dashed return arc with spin ghosts, silver edge, tiny doorway return-image, open waiting hand (Medium).
+- W-126 Melting Lens — GLASS MELT BLADE: translucent edge dissolving into beads and reforming lower down, cracked portrait it works against, blank unmarked tag (Short).
+
+Gates PASS. Batch 5 (W-127…159) still in rejected style; next redo round after owner review — apply the same variety + range-stat rule.
+
 ## 16. Next weapon batch
 Batch 6 = next 12 W SVGs in numeric order after 159 (run `ls docs/assets/art/maw/maw-w-*-01.svg | grep -oE 'maw-w-[0-9]+' | sed 's/maw-w-//' | sort -n | awk '$1>159 && $1<1000' | head -12` for the exact list). Same procedure: read each page's Appearance paragraph → assign an unused archetype/variant (extend the catalog if needed) → hand-write the SVG in the batch-1 format → render + contact-sheet review → gates → update mapping table + this log → commit + push.
