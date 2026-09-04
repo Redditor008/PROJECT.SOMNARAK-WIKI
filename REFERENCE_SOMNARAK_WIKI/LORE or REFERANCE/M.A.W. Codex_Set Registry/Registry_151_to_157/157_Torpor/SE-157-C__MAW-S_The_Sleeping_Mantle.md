@@ -34,6 +34,10 @@ The Mantle formed from a black breath echo after a guard completed a full assign
 
 **Rejection rule:** If worn to avoid a necessary handoff or decision, the wake-thread goes silent and the Mantle’s Weight resistance returns to normal.
 
+## Appearance
+
+The Sleeping Mantle is a heavy black mantle that muffles sharp sound and bears a faint scent of wet stone after sleep. The cloth is dense and has a single wake-thread visible at the collar, bright enough to catch ordinary light. In active use it settles around the wearer like a safe heavy blanket while the wake person's name is held at the collar. The wake-thread responds only to the named waking person's voice and releases one exhaustion surge without startling the wearer into panic, allowing safe wakefulness while the guard stays in the room and the watch transfer is logged. It carries constant low fatigue after unplanned extended use. If worn to avoid a necessary handoff or decision, the wake-thread goes silent and Weight resistance returns to normal. The wake person unfastens the collar, says the cue, and guides the wearer into ordinary light and water during shutdown. It is aired in an occupied rest space, never sealed in an empty bunker.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

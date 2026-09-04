@@ -39,6 +39,10 @@
 
 **Rejection rule:** If rung to silence a grieving person or force cheer, the Bell produces no relief and replays the bearer’s own loss-memory at full force.
 
+## Appearance
+
+The Laughter Bell is a tiny deep-blue bell of Han metal, small enough to sit between two palms, with a smooth surface that stays silent unless it is held between two people. It rings without vibration and opens a brief warmth in the listeners' emotional field, a relief that is genuine but only lasts for a few breaths. The bell has no visible clapper and does not ring for solitary escape; another willing person must hear the first note. It carries no Echo cost and allows one shared relief interval per closeout. When the field ends, the bearer is asked to replay a memory of what was lost, and the same warm metal turns cool as the memory arrives. After use the bearer and witness state what brought relief and what the closing memory recalled. If rung to silence a grieving person or force cheer, the bell produces no relief and replays the bearer's own loss-memory at full force. It is stored beneath a soft cloth, never played repeatedly to keep morale up.
+
 ## GIFT STATISTICS
 
 | Field | Record |

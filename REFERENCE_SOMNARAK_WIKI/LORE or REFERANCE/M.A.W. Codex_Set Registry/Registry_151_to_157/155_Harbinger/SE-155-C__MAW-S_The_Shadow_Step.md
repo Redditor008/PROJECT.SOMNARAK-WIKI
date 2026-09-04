@@ -34,6 +34,10 @@ The Shadow Step formed after Harbinger’s silhouette stood behind a reviewed le
 
 **Rejection rule:** A wearer who uses the Step to evade a balance conversation becomes difficult for the partner to notice as well; its Weight resistance drops to normal until the conversation is faced.
 
+## Appearance
+
+The Shadow Step is a black greave-plate pair of Han iron fitted over the lower legs, with a faintly delayed shadow at each heel. The metal is unpolished and cool, and the shadow sits a half-step behind the wearer even when the wearer is still. When a return-call partner records where the wearer will reappear, the greaves let the wearer move unseen through debt-pressure zones, footsteps growing quiet and a brief shadow-like concealment sliding over the body. The route becomes visible when the partner calls the task and places a hand on the heel return mark. It carries a heavy cost: the wearer becomes difficult for others to notice or remember, and the same concealment can hide the wearer from the partner. The greaves grow heavy if the wearer delays a balance conversation and are never polished to remove their shadow marks. A wearer who evades a required conversation becomes difficult for the partner to notice as well, and Weight resistance drops to normal until the conversation is faced.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

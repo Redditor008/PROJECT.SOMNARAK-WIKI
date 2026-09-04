@@ -1,30 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE ABSOLUTE MAUL">
   <defs>
-    <radialGradient id="bgw010" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw010" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
     </radialGradient>
-    <radialGradient id="glw010" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#94a3b8" stop-opacity=".22"/>
+    <radialGradient id="gw010" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#94a3b8" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="hx010" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e2e8f0"/>
+      <stop offset="1" stop-color="#334155"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgw010)" stroke="#94a3b8" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw010)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#glw010)"/>
-  
-  <!-- black maul; three shallow marks: closed-eye slit, scale, folded wing -->
-  <rect x="108" y="86" width="184" height="112" rx="6" fill="#0a0a0a" stroke="#94a3b8" stroke-width="3"/>
-  <rect x="186" y="196" width="28" height="132" fill="#171717" stroke="#f1df76" stroke-width="2.2"/>
-  <!-- closed eye as a mark, not a face -->
-  <path d="M140 120 Q168 132 196 120" fill="none" stroke="#e2e8f0" stroke-width="3"/>
-  <!-- scale -->
-  <path d="M210 118 H250 M230 118 V146 M218 146 H242" fill="none" stroke="#f1df76" stroke-width="2.2"/>
-  <!-- folded wing -->
-  <path d="M148 158 L176 150 L176 176 L148 168 Z" fill="#1e293b" stroke="#94a3b8" stroke-width="1.6"/>
-    
-  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#94a3b8" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">WEAPON // THREE MARKS</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE ABSOLUTE MAUL</text>
+  <circle cx="200" cy="188" r="132" fill="url(#gw010)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0f172a" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- WAR SLEDGE: long two-handed haft + heavy angled head with three sealed impressions -->
+  <!-- head (rotated slab) -->
+  <g transform="rotate(-34 252 152)">
+    <rect x="180" y="118" width="136" height="72" rx="12" fill="url(#hx010)" stroke="#e2e8f0" stroke-width="3"/>
+    <rect x="180" y="180" width="30" height="10" rx="3" fill="#1e293b" stroke="#94a3b8" stroke-width="1.4"/>
+    <!-- three shallow geometric impressions (not a face) -->
+    <path d="M252 134 L260 142 L252 150 L244 142 Z" fill="#0f172a" stroke="#e2e8f0" stroke-width="1.6"/>
+    <rect x="240" y="154" width="24" height="4" rx="2" fill="#0f172a" stroke="#e2e8f0" stroke-width="1.2"/>
+    <path d="M244 170 L252 178 L260 170 L252 166 Z" fill="#0f172a" stroke="#e2e8f0" stroke-width="1.6"/>
+    <!-- forged side ribs -->
+    <path d="M190 132 L190 176 M200 132 L200 176" stroke="#94a3b8" stroke-width="1.4" opacity=".8"/>
+  </g>
+  <!-- striker corner -->
+  <path d="M306 112 L322 104 L326 120 L312 132 Z" fill="#1e293b" stroke="#e2e8f0" stroke-width="1.8"/>
+  <!-- haft running down-left -->
+  <path d="M216 192 L128 318 L152 332 L240 206 Z" fill="#0f172a" stroke="#e2e8f0" stroke-width="2.6"/>
+  <path d="M222 218 L206 238 M212 250 L196 270" stroke="#94a3b8" stroke-width="2" opacity=".9"/>
+  <!-- wrap bands -->
+  <path d="M196 282 L180 302 M188 302 L172 322 M180 318 L166 336" stroke="#94a3b8" stroke-width="2" opacity=".9"/>
+  <!-- butt ring -->
+  <circle cx="150" cy="326" r="10" fill="#0f172a" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="150" cy="326" r="3" fill="#f1df76"/>
+  <!-- hanging weight shadow -->
+  <ellipse cx="262" cy="172" rx="34" ry="20" fill="#e2e8f0" opacity=".08"/>
 </svg>

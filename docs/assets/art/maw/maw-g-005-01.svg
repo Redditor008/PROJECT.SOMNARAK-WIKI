@@ -1,25 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE EMBRACE">
   <defs>
-    <radialGradient id="bgg005" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bg005" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <radialGradient id="glg005" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#fb7185" stop-opacity=".22"/>
+    <radialGradient id="g0005" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgg005)" stroke="#fb7185" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg005)" stroke="#ef5b55" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#glg005)"/>
-  
-  <!-- crimson clasp: two small arms joined at the wrists — no face -->
-  <path d="M86 200 L86 150 L118 150 L118 120 L140 120 L140 150 L160 150 L160 110 L182 110 L182 150 L200 150 L200 210 L170 210 L170 250 L116 250 L116 210 Z" fill="#7f1d1d" stroke="#fb7185" stroke-width="2.6"/>
-  <path d="M314 200 L314 150 L282 150 L282 120 L260 120 L260 150 L240 150 L240 110 L218 110 L218 150 L200 150 L200 210 L230 210 L230 250 L284 250 L284 210 Z" fill="#7f1d1d" stroke="#fb7185" stroke-width="2.6"/>
-  <rect x="170" y="198" width="60" height="22" rx="4" fill="#f1df76"/>
-    
-  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#fb7185" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#fb7185" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">GIFT // JOINED WRISTS</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE EMBRACE</text>
+  <circle cx="200" cy="188" r="132" fill="url(#g0005)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
+
+  <!-- Embrace: clasp-bar gift, double wing flanges, pin latch -->
+  <path d="M116 130 Q116 86 152 82 L200 74 L248 82 Q284 86 284 130 L284 158 Q246 178 200 178 Q154 178 116 158 Z"
+        fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
+  <path d="M124 108 L276 108" stroke="#fb7185" stroke-width="1.6" opacity=".8"/>
+  <path d="M138 148 L262 148" stroke="#f1df76" stroke-width="2"/>
+  <!-- wing side flanges -->
+  <path d="M116 158 L100 176 L120 180 L120 158 Z M284 158 L300 176 L280 180 L280 158 Z" fill="#292524" stroke="#ef5b55" stroke-width="1.6"/>
+  <!-- pin block -->
+  <path d="M158 184 L242 184 L248 224 L152 224 Z" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
+  <path d="M166 204 L234 204" stroke="#fca5a5" stroke-width="1.2" opacity=".7"/>
+  <circle cx="200" cy="202" r="6" fill="#f1df76"/>
+  <!-- hanging cord + ring -->
+  <path d="M200 74 L200 44" stroke="#ef5b55" stroke-width="2.4"/>
+  <circle cx="200" cy="40" r="10" fill="#292524" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="40" r="3.4" fill="#f1df76"/>
 </svg>

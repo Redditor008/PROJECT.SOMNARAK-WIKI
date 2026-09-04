@@ -54,7 +54,11 @@ The first Plate grew from the Dancer’s final footprint after two workers ended
 
 ## PROTECTIVE FILE
 
-### Passive effect — *Partnered Step*
+### Appearance
+
+The Dancing Plate is a set of fitted Han-iron plates covering the shins, knees, and breastplate, joined by black links that flex with the stride. The breastplate carries a single cool circle where the rest partner's palm rests, and the shin plates are lighter along the outer edge. The plates move best when the wearer is allowed to stop and give their strongest Grudge protection while moving toward a declared purpose that remains physically possible to end. When the rest partner touches the circle and speaks the registered phrase, the plates settle and absorb one final incoming Grudge impact as the wearer disengages. If the wearer runs past the partner, the plates stiffen at the knees and make continued movement painful rather than impossible. The plate is never serviced while the wearer is still pacing, and the breastplate circle is locked cool before the shin links are unfastened. The plates are wiped with dry cloth only.
+
+### Passive effect— *Partnered Step*
 
 The Plate grants its strongest Grudge protection while the wearer moves toward a declared purpose that remains physically possible to end.
 

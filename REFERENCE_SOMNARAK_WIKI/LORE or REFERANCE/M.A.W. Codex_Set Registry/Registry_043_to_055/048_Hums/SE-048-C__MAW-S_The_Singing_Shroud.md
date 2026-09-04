@@ -26,7 +26,11 @@
 | Maximum Amount | 4 — Stocked |
 | Echo Cost | 20 Sorrow Echoes |
 
-### Ability — Keep the Tempo
+### Appearance
+
+The Singing Shroud is a mid-length deep-blue shroud of fine Han silk that falls from the shoulders to the waist in a narrow column. A single pale band runs diagonally across the chest, woven from fine threads that hold a faint hum when the shroud filters strong Lament. The cloth is smooth and cool, with a hem that does not flare, and it sits close enough to the body that the wearer can move and gesture freely. When the wearer is inside a low-to-medium Lament field, the band keeps a steady action rhythm and softens the emotional force without silencing the content. The shroud does not block the sound; it lets the wearer keep working. After removal the band continues to hum faintly, and the wearer hears a background tone until they rest in genuine quiet rather than manufactured suppression. The band is brushed clean after each use, and it flattens to a pale thread when the wearer has rested in genuine quiet.
+
+### Ability— Keep the Tempo
 
 The Shroud lets the wearer retain a steady action rhythm inside low-to-medium Lament fields. It filters the emotional force without silencing the content.
 

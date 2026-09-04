@@ -26,7 +26,11 @@
 | Maximum Amount | 4 — Stocked |
 | Echo Cost | 20 Sorrow Echoes |
 
-### Ability — Composed Face
+### Appearance
+
+The Joy Veil is a pale, near-transparent veil of fine Han gossamer shaped like a folded mask, hanging from the brow to the chin without covering the mouth. A thin seam of pale metal runs along its upper edge, and the whole garment is so light that it can be tucked into a pocket. When worn, the veil lets the wearer remain outwardly composed under short-term Void or social-pressure effects, softening the expression without covering it. The inner lining stays cool even as the wearer's distress is delayed rather than removed. After prolonged use the seam dulls, and the wearer begins to feel faintly absent and unable to tell when they need help. In a safe space the veil is removed so that the postponed sadness can surface on its own. The veil is stored folded with the seam inward, and it is worn only for the duration of one encounter.
+
+### Ability— Composed Face
 
 The Veil lets the wearer remain outwardly stable under short-term Void or social-pressure effects.
 

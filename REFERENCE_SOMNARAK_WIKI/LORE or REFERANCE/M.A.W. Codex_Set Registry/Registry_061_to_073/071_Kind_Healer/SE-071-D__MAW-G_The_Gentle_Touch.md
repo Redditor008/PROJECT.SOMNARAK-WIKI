@@ -21,7 +21,11 @@
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Kind Healer source record |
 
-### Ability — Small Relief
+### Appearance
+
+The Gentle Touch is a small token of deep-blue glass shaped like an open palm, no larger than a coin, with a short cord and a polished upper surface. The underside is unpolished and cool. Once per day the bearer may relieve a minor physical wound or immediate panic symptom through consensual touch, and the palm warms against their hand as the relief moves. The glass stays warm until the recipient has been checked again by another person. It cannot treat a major injury, cure a Fracture, or replace medical work, and its use requires a witness to both the wound and the follow-up. After the contact the bearer carries a trace of the pain, and the token is kept beside its care record rather than in a pocket. The token is stored beside its care record, and the next use is permitted only after the recipient has been checked again by another person.
+
+### Ability— Small Relief
 
 Once per day, the bearer may relieve a minor physical wound or immediate panic symptom through consensual touch.
 

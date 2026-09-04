@@ -1,27 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MOURNING MAUL">
   <defs>
-    <radialGradient id="bgw002" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw002" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <radialGradient id="glw002" cx="50%" cy="46%" r="42%">
+    <radialGradient id="gw002" cx="50%" cy="46%" r="50%">
       <stop offset="0%" stop-color="#ef5b55" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="box002" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fca5a5"/>
+      <stop offset="1" stop-color="#7f1d1d"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgw002)" stroke="#ef5b55" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw002)" stroke="#ef5b55" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#glw002)"/>
-  
-  <!-- black Han-steel maul, head too broad for its shaft -->
-  <rect x="86" y="92" width="228" height="118" rx="8" fill="#1c1917" stroke="#ef5b55" stroke-width="3.2"/>
-  <rect x="102" y="108" width="196" height="86" rx="4" fill="#111" stroke="#7f1d1d" stroke-width="2"/>
-  <rect x="186" y="206" width="28" height="128" fill="#292524" stroke="#f1df76" stroke-width="2.4"/>
-  <rect x="176" y="328" width="48" height="16" fill="#1c1917" stroke="#ef5b55"/>
-  <path d="M110 150 H290" stroke="#fca5a5" stroke-width="2" opacity=".5"/>
-    
-  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">WEAPON // OVERBROAD HEAD</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE MOURNING MAUL</text>
+  <circle cx="200" cy="188" r="132" fill="url(#gw002)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- BOX MAUL: rectangular bar head with vertical fluting, short two-hand haft -->
+  <path d="M96 138 L304 138 L304 240 L96 240 Z" fill="url(#box002)" stroke="#ef5b55" stroke-width="3"/>
+  <path d="M96 138 L304 138" stroke="#fca5a5" stroke-width="1.6" opacity=".8"/>
+  <!-- vertical flutes -->
+  <g stroke="#fca5a5" stroke-width="1.6" opacity=".8">
+    <path d="M136 138 L136 240"/> <path d="M168 138 L168 240"/> <path d="M232 138 L232 240"/> <path d="M264 138 L264 240"/>
+  </g>
+  <!-- mourning band -->
+  <path d="M112 176 L288 176" stroke="#450a0a" stroke-width="4"/>
+  <rect x="184" y="166" width="32" height="20" rx="3" fill="#450a0a" stroke="#f1df76" stroke-width="1.6"/>
+  <!-- rounded underside collar -->
+  <path d="M108 240 L292 240" stroke="#ef5b55" stroke-width="1.6"/>
+  <!-- haft -->
+  <rect x="188" y="240" width="24" height="92" rx="6" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
+  <path d="M190 256 L210 264 M190 274 L210 282 M190 292 L210 300 M190 310 L210 318" stroke="#fca5a5" stroke-width="1.4" opacity=".8"/>
+  <path d="M182 332 L218 332 L216 352 L184 352 Z" fill="#292524" stroke="#ef5b55" stroke-width="2"/>
+  <circle cx="200" cy="342" r="5" fill="#f1df76"/>
 </svg>

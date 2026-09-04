@@ -34,6 +34,10 @@ The Plate formed after a naturally shed thorn curled around an uncut memorial fl
 
 **Rejection rule:** A wearer who treats every approach as hostile finds the thorns turn inward and all Grudge resistance returns to 1.0.
 
+## Appearance
+
+The Thorn Plate is a crimson plate harness of Han iron fitted over the torso, shoulders, and lower ribs, with shallow thorn lines pressed flat against the metal. The plates are unpolished and warm where they sit against the body, and one marked gap stays open at the side so a safe-approach person can reach the wearer. When Grudge pressure approaches, the thorns rise around the wearer's boundary and leave that single gap clear. The gap appears only after the wearer names a person they do not want the armor to hurt, and the safe person may order the thorns lowered at any time. The passive protection endures direct Grudge pressure while a controlled approach path lets contact, care, or retreat occur without dismantling the entire defense. Reflexes dull as resentment becomes armor, and the armor is never honed to make its thorns sharper. If every approach is treated as hostile, the thorns turn inward and resistance returns to normal. The safe person touches the gap marker and releases the shoulder catches during shutdown.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

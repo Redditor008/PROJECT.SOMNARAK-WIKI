@@ -34,6 +34,10 @@ The Plate condensed from a root echo after a Border Tree passage was lowered thr
 
 **Rejection rule:** A wearer who blocks the designated passage finds every route on the armor close, and the Plate’s Grudge protection falls to normal.
 
+## Appearance
+
+The Border Plate is a crimson armor plate harness of Han iron engraved with thin root routes that stop at an open gap over the sternum. The plates cover the chest, shoulders, and lower ribs, and the gap remains a visible unpolished opening rather than a covered weakness. When a boundary is designated, the root routes rise as a defensive grid around the wearer's line and direct one incoming Grudge strike away from the open route without dropping the field. The sternum gap stays clear only while a non-hostile passage is maintained, so the armor cannot be closed by a wearer who decides to stop seeing who stands beyond it. The metal is warm under load and the root engravings carry a faint red edge. Reflexes dull under boundary resentment. A passage reviewer on the opposite side may terminate defense if the gap closes, and the reviewer presses the sternum gap and releases the shoulder latches during shutdown. Hammering the plate closed leaves a root barrier embedded in the nearest floor.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

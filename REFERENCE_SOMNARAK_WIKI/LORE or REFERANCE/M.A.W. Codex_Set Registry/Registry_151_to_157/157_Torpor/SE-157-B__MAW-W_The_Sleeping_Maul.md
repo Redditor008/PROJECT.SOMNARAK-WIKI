@@ -39,6 +39,10 @@
 
 **Rejection rule:** A bearer who draws the Maul without a rest plan feels the head sink into the ground and the source fatigue settle through their limbs.
 
+## Appearance
+
+The Sleeping Maul is a heavy black Han-steel maul with a soft breath-like hum inside the head and a wrapped grip that feels sleepy to the touch. The head is broad and unpolished, and the hum slows when the designated rest plan is not yet true. In active use a black Weight line falls from the head like a slow exhale, pressing down only on the fatigue field chosen by the bearer and holding the surrounding ground stable long enough for a team to rotate into rest. The maul does not rise until a replacement watch and a named wake person are physically in place, and the bearer establishes who rests, who guards, and who takes the weapon after the action. The bearer grows heavier with use and prolonged use causes slight aging. After the handoff the maul pulls down toward the designated cot rather than allowing another uninterrupted shift. The wake person covers the head, states who now holds the watch, and releases the grip cuff during shutdown.
+
 ## CORE STATISTICS
 
 | Field | Record |

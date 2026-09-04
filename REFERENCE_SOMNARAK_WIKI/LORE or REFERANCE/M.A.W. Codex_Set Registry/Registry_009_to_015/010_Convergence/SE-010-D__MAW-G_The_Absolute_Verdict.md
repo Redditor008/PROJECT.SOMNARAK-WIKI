@@ -27,7 +27,7 @@
 
 ### Appearance
 
-A black charm marked with a closed eye, a scale, and a folded wing. It becomes heavier when the bearer attempts to excuse their own action while condemning another person’s.
+The Absolute Verdict is a black charm marked with a closed eye, a scale, and a folded wing, each figure incised on a separate face of the small square pendant. The metal is dense and cold, heavy enough to pull a collar forward, and the three marks are never equally lit. When the bearer excuses their own action while condemning another person's, the charm grows heavier, shifting toward the side of the scale that tilts downward. If the bearer has recorded their own role honestly, the weight stays level. The pendant does not announce guilt; it only announces that pressure exists and has not been assigned. Close to a Collector's archive it turns sluggish, and near an unresolved responsibility it begins to feel like a small hand pressing against the chest. It asks the bearer to close a case, never to decide it. It is carried on a short black cord, and in official meetings it tends to swing toward the person speaking most confidently.
 
 ---
 

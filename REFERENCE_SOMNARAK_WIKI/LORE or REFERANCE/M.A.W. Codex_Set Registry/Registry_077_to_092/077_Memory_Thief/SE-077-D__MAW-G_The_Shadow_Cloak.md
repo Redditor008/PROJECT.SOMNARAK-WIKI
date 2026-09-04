@@ -51,7 +51,11 @@
 
 ## EFFECT FILE
 
-### Passive effect — *No Notice*
+### Appearance
+
+The Shadow Cloak is a small clasp charm of pale grey Han glass shaped like a folded cloth, with a dark pin set into its back. It fastens to a collar or lapel and rests cold against the chest. When the bearer touches it and names a person they will return to, the clasp opens a fraction and witnesses retain only a blank margin where the bearer stood. The effect ends the moment the bearer attacks, gives a false name, or changes the return person without recording it, and it does not defeat focused observation or a person using a Memory Anchor. The clasp grows warm when the bearer begins to enjoy being unaccounted for, and a second blank margin appears on the return note when the bearer has stayed hidden too long. It is placed beside the completed return note after use. The clasp is placed beside the completed return note for an hour after use, and the blank margin disappears once the note is read aloud.
+
+### Passive effect— *No Notice*
 
 The wearer is nearly invisible to casual attention and difficult to remember afterward. It does not defeat focused observation, physical restraint, camera records, or an alert person using a Memory Anchor.
 

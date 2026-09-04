@@ -1,29 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MOURNING MANTLE">
   <defs>
-    <radialGradient id="bgs002" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bs002" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <radialGradient id="gls002" cx="50%" cy="46%" r="42%">
+    <radialGradient id="gs002" cx="50%" cy="46%" r="50%">
       <stop offset="0%" stop-color="#ef5b55" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="sl002" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fca5a5"/>
+      <stop offset="1" stop-color="#7f1d1d"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgs002)" stroke="#ef5b55" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bs002)" stroke="#ef5b55" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#gls002)"/>
-  
-  <!-- black threads like wet fabric; grey dust on the hem -->
-  <path d="M120 90 C170 70 230 70 280 90 L300 240 C250 270 150 270 100 240 Z" fill="#111" stroke="#ef5b55" stroke-width="3"/>
-  <g stroke="#44403c" stroke-width="3" fill="none">
-    <path d="M140 110 L128 230"/><path d="M170 100 L162 240"/>
-    <path d="M200 94 L200 248"/><path d="M230 100 L238 240"/>
-    <path d="M260 110 L272 230"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gs002)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">SUIT</text>
+
+  <!-- Mourning Mantle: wide draped V-collar mantle with layered panels -->
+  <path d="M116 126 L284 126 L290 210 L278 234 L294 268 Q200 310 106 268 L122 234 L110 210 Z"
+        fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
+  <path d="M116 126 L200 200 L284 126" fill="#450a0a" stroke="#fca5a5" stroke-width="2.4"/>
+  <path d="M122 226 Q200 268 278 226 L278 238 Q200 280 122 238 Z" fill="#450a0a" stroke="#ef5b55" stroke-width="1.4"/>
+  <path d="M132 168 L268 168 M138 200 L262 200 M142 244 L258 244" stroke="#ef5b55" stroke-width="1.2" opacity=".7"/>
+  <path d="M150 150 L250 150" stroke="#fca5a5" stroke-width="1" opacity=".5"/>
+
+  <!-- shoulder + waist straps, buckle -->
+  <path d="M136 130 L184 200" stroke="#f1df76" stroke-width="4"/>
+  <path d="M264 130 L216 200" stroke="#f1df76" stroke-width="4"/>
+  <rect x="180" y="198" width="40" height="18" rx="3" fill="#450a0a" stroke="#f1df76" stroke-width="1.8"/>
+  <path d="M132 196 L268 196" stroke="#f1df76" stroke-width="3"/>
+  <!-- rivets -->
+  <g fill="#fca5a5" opacity=".7">
+    <circle cx="130" cy="132" r="3"/><circle cx="270" cy="132" r="3"/>
+    <circle cx="126" cy="268" r="3"/><circle cx="274" cy="268" r="3"/>
   </g>
-  <path d="M100 240 C150 268 250 268 300 240" fill="none" stroke="#a8a29e" stroke-width="8" opacity=".7"/>
-    
-  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">SUIT // WET THREAD</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE MOURNING MANTLE</text>
 </svg>

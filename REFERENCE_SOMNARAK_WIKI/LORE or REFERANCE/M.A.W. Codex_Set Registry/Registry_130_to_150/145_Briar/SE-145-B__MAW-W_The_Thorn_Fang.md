@@ -39,6 +39,10 @@
 
 **Rejection rule:** A bearer who uses the Fang to retaliate against an old harm finds the thorn ridge turn inward, drawing Grudge pain through the bearer’s old wounds.
 
+## Appearance
+
+The Thorn Fang is a curved crimson blade of Han iron with a thorned ridge along the back and a warm line of sap-like Han at the edge. The blade curves inward like a thorn, and its grip is wrapped in dark crimson cord over a ridged core. In active use the thorn ridge unfurls into a narrow red defensive line that holds a hostile force outside a named boundary while leaving a marked entrance for a safe person. The Fang draws only after the bearer names what is being protected and who is not a target, and the thorn line stays around the chosen perimeter only until the threat ends. The bearer's old wounds ache after prolonged use and crimson bruising can appear on the hands. A bearer who retaliates against an old harm finds the thorn ridge turn inward and draw Grudge pain through the old wounds. It is sheathed once the safe-person boundary is verified, and the safe person covers the thorn ridge and names the exit during shutdown.
+
 ## CORE STATISTICS
 
 | Field | Record |

@@ -54,7 +54,11 @@
 
 ## COMBAT FILE
 
-### Basic attack — *Not the Same Fruit*
+### Appearance
+
+The Returning Lens is a pale, slightly convex Han-glass disc in a thin dark frame, with a narrow shutter that closes over the face when not in use. The glass is cold and nearly clear in ordinary light, and holds a faint silver edge when a return image is present. The lens sends a Void Pierce through an intrusive return image, separating the memory's meaning from the room it is trying to replace. When the bearer and an anchor witness name what the return cannot restore, the lens clears a dangerous return loop along the full Pierce line, letting affected people recognize the memory without being absorbed by it. If the bearer tries to keep the return active, the lens takes a present association of equal emotional force and closes. It is set beside the current-time card, never beside a substituted memory object. Before storage, the bearer and anchor witness name one present fact the return cannot erase, and the lens is set beside the current-time card rather than a memory object.
+
+### Basic attack— *Not the Same Fruit*
 
 The Lens sends a Void Pierce through an intrusive return image, dealing direct damage and separating the memory’s meaning from the room it is trying to replace.
 

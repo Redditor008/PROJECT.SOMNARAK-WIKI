@@ -51,7 +51,11 @@
 
 ## EFFECT FILE
 
-### Passive effect — *Large Hands*
+### Appearance
+
+The Giants Ring is a broad black ring of Han iron, wide enough to cover two fingers, with a worn inner surface and a small rest stone kept beside it. It is heavy in the hand and cold against the skin. The ring grants extraordinary strength and resistance to physical force, suited to lifting, bracing, and rescue work rather than dominance over smaller bodies. For one defined lift it spreads the Weight across the bearer's stance and nearby prepared support points. It cannot lift a person who refuses, force a structure to be safe, or make the bearer invulnerable. After each use the bearer sets down three things deliberately: an item of equipment, a task, and a responsibility that belongs to someone else, and the ring is placed on the low rest stone rather than a trophy case. After each use the bearer sets down three things deliberately, and the ring is placed on its low rest stone rather than hung in a trophy case.
+
+### Passive effect— *Large Hands*
 
 The Ring grants extraordinary strength and resistance to physical force. It is suited to lifting, bracing, and rescue work—not dominance over smaller bodies.
 

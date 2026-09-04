@@ -26,7 +26,11 @@
 | Maximum Amount | 4 — Stocked |
 | Echo Cost | 20 Sorrow Echoes |
 
-### Ability — Remain Present
+### Appearance
+
+The Silence Veil is a pale, near-transparent veil of Han gossamer that falls over the head and shoulders in a single straight drape. It is cut to the collarbone and ends in a fine, unhemmed edge that fades into the air. In ordinary light the garment is almost invisible; under Void pressure it takes on a faint grey texture that catches the eye of anyone who knows the wearer's name. The veil does not make the bearer louder or more distinct; it anchors the wearer's identity in nearby witness memory, so teammates continue to recognize them through pressure that would otherwise remove them from recognition. The cloth is cold and weightless while active and warms only along the shoulders. After removal the wearer feels absent from themself and must be reintroduced by name after extended use. The veil is drawn from a sealed pouch immediately before use, and it is returned to water once the deployment ends.
+
+### Ability— Remain Present
 
 The Veil anchors the wearer’s identity in nearby witness memory during Void pressure. Teammates who know the wearer’s name are less likely to lose track of them.
 

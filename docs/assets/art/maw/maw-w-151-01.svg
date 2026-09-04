@@ -1,26 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BORDER ROOT">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- WEAPON // SHIELD -->
   <defs>
     <radialGradient id="bg217a5f" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gl217a5f" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg217a5f)" stroke="#d64a4a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="123" fill="url(#gl217a5f)"/>
-  <g transform="rotate(-1 200.0 190.0)">
-    <path d="M174.0 190.0 L190.0 128.8 L187.0 15.0 L210.0 137.5 L226.0 190.0 Z" fill="#d64a4a" fill-opacity=".28" stroke="#d64a4a" stroke-width="3"/>
-    <path d="M200.0 190.0 L187.0 15.0" fill="none" stroke="#e0f2fe" stroke-width="1.4" opacity=".8"/>
-    <path d="M189.4 128.8 L201.4 132.8" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <path d="M187.3 99.6 L199.3 103.6" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <path d="M185.1 70.4 L197.1 74.4" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <rect x="166.0" y="186.0" width="68.0" height="8" rx="3" fill="#d64a4a" fill-opacity=".5"/>
-    <rect x="193.0" y="194.0" width="14" height="46" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-    <circle cx="200.0" cy="248.0" r="5" fill="#d64a4a" fill-opacity=".7"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gl217a5f)"/>
+  <g transform="rotate(0 200.0 192.0)">
+<path d="M200.0 119.3 L278.0 141.5 L278.0 202.1 Q256.2 246.5 200.0 274.8 Q143.8 246.5 122.0 202.1 L122.0 141.5 Z" fill="#d64a4a" fill-opacity=".2" stroke="#d64a4a" stroke-width="3"/>
+<path d="M200.0 127.4 L200.0 264.7" stroke="#e0f2fe" stroke-width="1.3" opacity=".55"/>
+<path d="M156.3 171.8 L243.7 171.8" stroke="#e0f2fe" stroke-width="1.2" opacity=".5"/>
+<circle cx="200.0" cy="192.0" r="15.0" fill="none" stroke="#d64a4a" stroke-width="2"/>
+  </g>
+  <g transform="rotate(-6 152.0 300.0)" opacity=".9">
+    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
+  </g>
+  <g transform="rotate(10 200.0 236.0)" opacity=".9">
+    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-151-01</text>
 </svg>

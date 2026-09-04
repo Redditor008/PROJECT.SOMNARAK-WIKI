@@ -1,26 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="ELEVEN FIFTY-NINE&#x27;S TOKEN">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- GIFT // TOKEN -->
   <defs>
     <radialGradient id="bg840d5a" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gl840d5a" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg840d5a)" stroke="#3e8bd5" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="130" fill="url(#gl840d5a)"/>
-  <g transform="rotate(-11 200.0 180.0)">
-    <circle cx="200.0" cy="180.0" r="74" fill="#3e8bd5" fill-opacity=".16" stroke="#3e8bd5" stroke-width="3"/>
-    <circle cx="200.0" cy="180.0" r="40.7" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".8"/>
-    <path d="M330.6 159.7 L188.0 192.2" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M256.2 159.7 L201.1 192.2" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M218.9 159.7 L193.4 192.2" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M200.0 159.7 L188.6 192.2" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <circle cx="200.0" cy="180.0" r="8" fill="#3e8bd5" fill-opacity=".7"/>
-    <path d="M200.0 254.0 L190.0 252.0 L210.0 252.0 Z" fill="#3e8bd5" fill-opacity=".4"/>
+  <g transform="rotate(-10 200.0 192.0)">
+<path d="M165.0 167.5 L235.0 167.5 L219.2 216.5 L180.8 216.5 Z" fill="#3e8bd5" fill-opacity=".2" stroke="#3e8bd5" stroke-width="3"/>
+<circle cx="200.0" cy="192.0" r="12.0" fill="none" stroke="#e0f2fe" stroke-width="1.4" opacity=".65"/>
+  </g>
+  <g transform="rotate(-8 148.0 112.0)" opacity=".9">
+    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  </g>
+  <g transform="rotate(-2 252.0 96.0)" opacity=".9">
+    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-G-912-01</text>
 </svg>

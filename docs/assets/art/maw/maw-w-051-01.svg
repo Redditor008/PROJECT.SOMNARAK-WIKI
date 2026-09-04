@@ -1,26 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE JOY LENS">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- WEAPON // LENS -->
   <defs>
     <radialGradient id="bgfa083e" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="glfa083e" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgfa083e)" stroke="#8a8f98" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="149" fill="url(#glfa083e)"/>
-  <g transform="rotate(-8 200.0 190.0)">
-    <path d="M174.0 190.0 L187.0 116.5 L187.0 -20.0 L213.0 127.0 L226.0 190.0 Z" fill="#8a8f98" fill-opacity=".28" stroke="#8a8f98" stroke-width="3"/>
-    <path d="M200.0 190.0 L187.0 -20.0" fill="none" stroke="#e0f2fe" stroke-width="1.4" opacity=".8"/>
-    <path d="M189.4 116.5 L201.4 120.5" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <path d="M187.3 81.5 L199.3 85.5" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <path d="M185.1 46.5 L197.1 50.5" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <rect x="166.0" y="186.0" width="68.0" height="8" rx="3" fill="#8a8f98" fill-opacity=".5"/>
-    <rect x="193.0" y="194.0" width="14" height="46" rx="5" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-    <circle cx="200.0" cy="248.0" r="5" fill="#8a8f98" fill-opacity=".7"/>
+  <circle cx="200" cy="188" r="128" fill="url(#glfa083e)"/>
+  <g transform="rotate(3 200.0 192.0)">
+<ellipse cx="200.0" cy="192.0" rx="48.0" ry="76.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
+<ellipse cx="200.0" cy="192.0" rx="39.0" ry="64.0" fill="#8a8f98" fill-opacity=".18"/>
+<ellipse cx="200.0" cy="192.0" rx="30.0" ry="54.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
+<path d="M230.9 133.8 L225.1 143.0" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<path d="M243.9 161.1 L235.6 166.0" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<path d="M248.0 194.7 L239.0 194.2" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<path d="M242.4 227.7 L234.4 222.0" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<path d="M228.2 253.5 L222.9 243.8" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<rect x="140.0" y="186.0" width="120.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
+<rect x="194.0" y="268.0" width="12" height="31.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
+  </g>
+  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
+  </g>
+  <g transform="rotate(9 152.0 300.0)" opacity=".9">
+    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-051-01</text>
 </svg>

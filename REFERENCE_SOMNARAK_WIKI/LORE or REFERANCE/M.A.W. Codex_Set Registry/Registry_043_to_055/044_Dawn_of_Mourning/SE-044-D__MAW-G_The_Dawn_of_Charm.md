@@ -19,6 +19,10 @@
 **Canonical ability:** Grants a minor boon tied to Dawn of Mourning's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names Dawn of Mourning's event—In historical branches, the twelfth blessing completed the chain and turned healing into sentencing. The current cycle diverged: compassion transformed into The Hand of Hope.—and accepts this limit: Genuine confession before the twelfth blessing; no reliable post-formation method exists
 
+### Appearance
+
+The Dawn of Charm is a small pale-glass pendant shaped like a folded flower, its petals cut from milky blue crystal and joined at a silver pin. It hangs from a short cord and rests against the collarbone, no larger than a fingertip. Inside the folded petals a thin line of pale light moves slowly, responding to the source event the bearer named during binding. When the bearer works the source record or stands near the entity's sorrow, the light brightens and the petals open a fraction, granting a minor boon tied to that grief. The charm is cold in ordinary rooms and warms only when it is trying to show the wearer a hidden guilt. In sleep the bearer weeps without waking, and continued use makes the source sorrow feel as though it were the bearer's own. The cord is short enough that the charm cannot swing freely, and the silver pin stays cold even when the petals have opened.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 3%  

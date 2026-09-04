@@ -21,7 +21,11 @@
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Guarding Bird source record |
 
-### Ability — Take the Blow
+### Appearance
+
+The Guardian Wing is a small pale wing charm carved from Han glass, with two narrow vanes meeting at a central pin and a short black loop for a cord. Each vane is smooth on the outside and ridged on the inner edge, and the whole piece is light enough to swing freely from a collar. When the bearer chooses an ally to protect, the wing opens a fraction, and the trailing edge glows white; when an attack is absorbed, the two vanes close and stay shut for the rest of the encounter. The charm is cold in the hand and warms only near the protected ally. It does not release when tactical retreat becomes necessary, because it reads danger broadly. After use the bearer feels the protected ally's fear as their own, and the glass remains slightly open until the bearer can no longer bear to stay. The wing is worn on the off side, where it can swing without snagging, and its glass turns grey after a strike until the encounter ends.
+
+### Ability— Take the Blow
 
 Once per encounter, the Wing absorbs one attack intended for a chosen ally within short range.
 

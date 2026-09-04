@@ -1,24 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE INDEBTED PLATE">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- SUIT // PLATE -->
   <defs>
     <radialGradient id="bgf71e46" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="glf71e46" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgf71e46)" stroke="#3e8bd5" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="144" fill="url(#glf71e46)"/>
-  <g transform="rotate(-8 200.0 190.0)">
-    <path d="M135.0 173.6 L174.0 144.9 L188.0 128.5 L212.0 128.5 L226.0 144.9 L265.0 173.6 L248.75 235.1 L200.0 267.6 L151.25 235.1 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
-    <path d="M151.2 161.3 L248.8 161.3" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".7"/>
-    <circle cx="200.0" cy="196.0" r="14" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
-    <circle cx="200.0" cy="196.0" r="8" fill="#3e8bd5" fill-opacity=".5"/>
-    <path d="M180.0 202.3 L220.0 208.3" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
-    <path d="M180.0 218.3 L220.0 224.3" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
+  <circle cx="200" cy="188" r="132" fill="url(#glf71e46)"/>
+  <g transform="rotate(4 200.0 192.0)">
+<path d="M117.0 176.0 L161.8 147.2 L182.0 129.6 L218.0 129.6 L238.2 147.2 L283.0 176.0 L264.7 233.6 L200.0 257.6 L135.3 233.6 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
+<path d="M135.3 168.0 L264.7 168.0" stroke="#3e8bd5" stroke-width="1.5" opacity=".6"/>
+<circle cx="200.0" cy="198.0" r="20.0" fill="none" stroke="#e0f2fe" stroke-width="1.8" opacity=".72"/>
+<circle cx="200.0" cy="198.0" r="8.0" fill="#3e8bd5" fill-opacity=".5"/>
+  </g>
+  <g transform="rotate(8 200.0 320.0)" opacity=".9">
+    <circle cx="200.0" cy="320.0" r="4.8" fill="none" stroke="#3e8bd5" stroke-width="1.4" opacity=".42"/>
+  </g>
+  <g transform="rotate(-2 250.0 320.0)" opacity=".9">
+    <path d="M250.0 313.5 L250.0 326.5" stroke="#3e8bd5" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#3e8bd5" stroke-width="2" opacity=".45"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-S-456-01</text>
 </svg>

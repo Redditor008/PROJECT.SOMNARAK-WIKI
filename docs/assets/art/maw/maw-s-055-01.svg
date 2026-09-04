@@ -1,24 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE TEAR SHROUD">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- SUIT // TEAR SHROUD -->
   <defs>
     <radialGradient id="bgc0bc80" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="glc0bc80" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgc0bc80)" stroke="#3e8bd5" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="133" fill="url(#glc0bc80)"/>
-  <g transform="rotate(0 200.0 190.0)">
-    <path d="M137.0 173.2 L174.8 143.8 L188.0 127.0 L212.0 127.0 L225.2 143.8 L263.0 173.2 L247.25 236.2 L200.0 269.2 L152.75 236.2 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
-    <path d="M152.8 160.6 L247.2 160.6" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".7"/>
-    <circle cx="200.0" cy="196.0" r="14" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
-    <circle cx="200.0" cy="196.0" r="8" fill="#3e8bd5" fill-opacity=".5"/>
-    <path d="M180.0 202.6 L220.0 208.6" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
-    <path d="M180.0 218.6 L220.0 224.6" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
+  <circle cx="200" cy="188" r="116" fill="url(#glc0bc80)"/>
+  <g transform="rotate(-2 200.0 192.0)">
+<path d="M176.5 46.7 C167.1 140.0, 153.0 207.3, 169.0 302.2 C184.0 329.7, 216.0 329.7, 231.0 302.2 C247.0 207.3, 232.9 140.0, 223.5 46.7 Z" fill="#3e8bd5" fill-opacity=".18" stroke="#3e8bd5" stroke-width="3"/>
+<path d="M184.0 66.5 Q200.0 124.7 216.0 66.5" stroke="#e0f2fe" stroke-width="1.3" opacity=".55"/>
+<path d="M198.0 60.4 L194.0 244.0" stroke="#3e8bd5" stroke-width="1.6" opacity=".55"/>
+<path d="M202.0 60.4 L206.0 244.0" stroke="#3e8bd5" stroke-width="1.6" opacity=".55"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 208.0 Q200.0 226.0 264.0 202.0" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 238.0 Q200.0 256.0 264.0 232.0" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 268.0 Q200.0 286.0 264.0 262.0" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".4"/>
+  </g>
+  <g transform="rotate(-16 172.0 252.0)">    <circle cx="176.0" cy="226.0" r="4.0" fill="#e0f2fe" opacity=".3"/>
+  </g>
+  <g transform="rotate(-16 172.0 252.0)">    <circle cx="200.0" cy="238.0" r="5.0" fill="#e0f2fe" opacity=".3"/>
+  </g>
+  <g transform="rotate(-16 172.0 252.0)">    <circle cx="224.0" cy="250.0" r="6.0" fill="#e0f2fe" opacity=".3"/>
+  </g>
+  <g transform="rotate(14 148.0 112.0)" opacity=".9">
+    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  </g>
+  <g transform="rotate(-4 252.0 96.0)" opacity=".9">
+    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-S-055-01</text>
 </svg>

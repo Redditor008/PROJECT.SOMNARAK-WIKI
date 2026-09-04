@@ -54,7 +54,11 @@
 
 ## COMBAT FILE
 
-### Basic attack — *Step-Cut*
+### Appearance
+
+The Dancing Fang is a short, broad crimson blade of Han iron with a sloping curved edge and a squared guard, its spine marked by a line of small notches. The grip is wrapped in dark cord over a ridged core and ends in a ring pommel worn smooth. The Fang stays blunt for a user who cannot name an end, and it makes one short Grudge strike along a deliberate step, strongest against an active physical restraint such as an arm holding someone down, a locking mechanism, or a closing barrier. A faint red line travels along the notched spine when the bearer points to a real safe endpoint. If the bearer continues after the endpoint, the blade becomes heavy and pulls each following swing off line. It is stored with the endpoint card, never sharpened. The fang is stored with its endpoint card, and the final three steps are walked backward before the ring pommel is hung on its hook.
+
+### Basic attack— *Step-Cut*
 
 The Fang makes one short Grudge strike along a deliberate step. It is most effective against an active physical restraint—an arm holding someone down, a locking mechanism, a closing barrier—because the source remembers movement that was denied.
 

@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Dawn of Mourning's lament signature in the strike.  
 **Binding rule:** the bearer names Dawn of Mourning's event—In historical branches, the twelfth blessing completed the chain and turned healing into sentencing. The current cycle diverged: compassion transformed into The Hand of Hope.—and accepts this limit: Genuine confession before the twelfth blessing; no reliable post-formation method exists
 
+### Appearance
+
+The Dawn of Requiem is a long, pale-blue blade of Han crystal with a soft, milky finish and a short guard of pale metal that curves toward the grip. The flat carries a single fine seam that runs from the collar to the point, and the seam brightens when the bearer names the Dawn of Mourning event that governs the bind. The grip is wrapped in pale blue cord over a dark core, and the pommel is a small open ring, worn smooth by use. In open air the blade looks almost unmarked; near a source of unresolved grief it gains a faint blue glow and grows colder. The bearer must not mistake the memory it carries for permission to act, and the weapon will not serve a display that treats another person's sorrow as the bearer's own. The guard is set low so that the weapon can be carried close to the chest, and a faint line of blue light remains at the seam even when it is stored.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

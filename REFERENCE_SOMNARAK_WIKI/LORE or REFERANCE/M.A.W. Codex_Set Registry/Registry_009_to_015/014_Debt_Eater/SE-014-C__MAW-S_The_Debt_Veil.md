@@ -30,6 +30,10 @@
 | **Maximum Amount** | 4 — Stocked |
 | **Echo Cost** | 20 Sorrow Echoes |
 
+### Appearance
+
+The Debt Veil is a pale Void veil of near-transparent Han glass-thread folded over the head and shoulders in a single continuous drape. It does not hide the wearer's body, but it makes a held debt feel as though it belonged to someone else. The fabric is cold and weightless until a low-grade debt mark is suspended in it, after which the veil becomes faintly grey and heavier by the smallest measurable amount. The mark remains visible as a soft shadow against the chest, and it stays in the cloth until the wearer addresses it or removes the Veil with a witness present. When two marks are stored, both return at once and the grey spreads through the entire weave. The veil cannot be used to avoid lawful review or emergency triage, and it leaves the wearer feeling empty rather than calm. A witness is required at removal, because the veil will keep the shadow of a debt longer than the wearer can keep the memory of it.
+
 ### Protective Ability — Deferred Burden
 
 The Veil lets a wearer hold one low-grade debt mark without immediate clarity loss. The mark is not gone; it remains suspended in the fabric until the wearer addresses it or removes the Veil.
@@ -44,9 +48,7 @@ The wearer feels faintly absent to themself. Friends may describe the wearer as 
 
 ## HISTORY OF USE
 
-A Debt Veil prevented an R.D. clerk from being hollowed during an unplanned Eater feeding event. The clerk kept the marked burden through the night, then removed the Veil without a witness. The debt returned as a full memory blackout lasting six hours.
-
-Current issue protocol requires a witness at removal.
+A Debt Veil prevented an R.D. clerk from being hollowed during an unplanned Eater feeding event. The clerk kept the marked burden through the night, then removed the Veil without a witness. The debt returned as a full memory blackout lasting six hours. Current issue protocol requires a witness at removal.
 
 ---
 

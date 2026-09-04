@@ -27,7 +27,7 @@
 
 ### Appearance
 
-A crimson Han-iron blade curved inward like a hand closing around a wrist. It is faintly warm at the grip and cold at the tip. When left unattended, the point angles toward the nearest injured person.
+The Embrace Fang is a crimson Han-iron blade curved inward like a hand closing around a wrist, its point reaching back toward the grip so that the whole weapon resembles an incomplete circle. The metal is warm at the grip and almost cold at the tip, and the temperature difference is strongest when an injured person is nearby. The grip is wrapped in dark crimson cord over a warm-hollowed core, with a shallow thumb rest on the outer curve. When the weapon is left unattended its point slowly angles toward the nearest injured person, as though the blade had already decided what it wants to reach. In shadow the inner curve holds a dull red glow that brightens in the presence of fleeing allies. The Fang is light for its length and balanced for a pulling cut rather than a swing, and it makes no sound until it draws a crimson line toward its bearer.
 
 ---
 

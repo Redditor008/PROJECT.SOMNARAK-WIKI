@@ -39,6 +39,10 @@
 
 **Rejection rule:** A user who cannot name a relief bearer feels the Maul become too heavy to raise. Forcing motion pulls its Weight into the bearer’s shoulders.
 
+## Appearance
+
+The Saint's Maul is a matte black maul with fine stone cracks around the head that dissolve and reform when no one holds it, the surface unpolished and faintly warm where the grip band sits. The cracks fill with black pressure lines aimed at the load the bearer names, but only once the bearer also names who takes responsibility after the strike. The haft is long and wrapped, with a wide case key at the base. It cracks a concentrated Weight field into manageable portions across up to three prepared support points, and the bearer and relief partner identify how the post-strike load will divide before the blow. The bearer grows heavier with use and prolonged use causes slight aging. It is never displayed upright as a testament to endurance. A bearer who cannot name a relief person cannot raise the maul, and anyone who strikes without accepting relief finds the weapon anchor to the floor and pass its full Weight back into their own shoulders. The relief partner grounds the head and opens the grip band during shutdown.
+
 ## CORE STATISTICS
 
 | Field | Record |

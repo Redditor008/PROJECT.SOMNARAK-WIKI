@@ -39,6 +39,10 @@
 
 **Rejection rule:** A bearer who tries to create a wall without a passage finds the root strand coil around their ankle and prevents them from crossing any nearby threshold.
 
+## Appearance
+
+The Border Root is a root-gripped crimson Han-iron club, short and broad, with a living-looking root strand wrapped around the handle. The root strand is the only part of the weapon that moves at rest; it curls slowly when no boundary has been declared and stiffens once both a hostile direction and a non-hostile passage have been named. In active use the strand enters the ground and raises a red root line along the selected boundary, a strong barrier that repels hostile crossing while leaving the negotiated passage open. The grip is wrapped over the root, and the metal carries a dull crimson finish that darkens under load. The bearer becomes unable to cross any boundary they create and remains on the same side until the wall is honestly lowered. It is never stored in an armory rack without its agreement card. A bearer who raises the root without a passage finds the strand coil around their ankle, and the counterpart confirms the lowering condition and touches the root line from the other side during shutdown.
+
 ## CORE STATISTICS
 
 | Field | Record |

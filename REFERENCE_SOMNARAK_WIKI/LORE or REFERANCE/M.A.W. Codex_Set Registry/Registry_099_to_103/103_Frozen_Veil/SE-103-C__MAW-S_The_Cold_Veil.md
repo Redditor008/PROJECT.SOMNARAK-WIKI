@@ -54,7 +54,11 @@ The Cold Veil condensed after a source crack closed without trapping the observi
 
 ## PROTECTIVE FILE
 
-### Passive effect — *Quiet Perimeter*
+### Appearance
+
+The Cold Veil is a near-transparent veil of pale Han gossamer that drops from the crown to the collarbone in a single stiff fold, edged with a faint frost-white stitch. The fabric is cold and almost weightless, and the inner stitch disappears if the wearer treats absence as efficiency. It strongly resists direct Void pressure by creating a contained emotional distance, without making the wearer immune to consequence, empathy, or ordinary pain. When two anchors state the wearer's chosen relationship and receive an intelligible answer, the veil seals a short protection perimeter against one intrusive surge. If the wearer answers only with facts and cannot access meaning, the termination anchor removes the veil immediately and all resistance returns to normal. It is stored with a concrete voluntary detail, never in a general personnel file. Before storage, the two anchors and the wearer record one live attachment with a concrete voluntary detail, and the termination anchor is always the person who removes the veil.
+
+### Passive effect— *Quiet Perimeter*
 
 The Veil strongly resists direct Void pressure by creating a contained emotional distance. It does not make the wearer immune to consequence, empathy, or ordinary pain.
 

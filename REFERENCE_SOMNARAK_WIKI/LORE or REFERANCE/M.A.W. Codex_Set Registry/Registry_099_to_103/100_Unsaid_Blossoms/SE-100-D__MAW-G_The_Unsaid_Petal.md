@@ -51,7 +51,11 @@
 
 ## EFFECT FILE
 
-### Passive effect — *Listener’s Shape*
+### Appearance
+
+The Unsaid Petal is a small charm of blue Han crystal shaped like a single petal, no larger than a fingertip, with a fine central vein and a short chain. It is cold and nearly transparent in ordinary light and holds a soft grey glow when a withheld sentence has been chosen. When the bearer speaks that sentence aloud in the presence of a welfare witness, the petal lights once and carries the sentence to a memory of the intended listener with complete emotional clarity; no answer returns. The glass then becomes clear again. If a second sentence is added, the first glow dissolves and leaves only the bearer's unaltered memory of what was said. The petal rests on an unmarked blue cloth between uses, and its central vein darkens when the bearer begins rehearsing the sentence for an imagined reply. The petal rests on an unmarked blue cloth between uses, and the sentence written once on paper is stored in the bearer's private consequence file rather than used as evidence.
+
+### Passive effect— *Listener’s Shape*
 
 The Petal holds a sensory impression of the intended listener as a memory association. It does not recreate the person, reveal their thoughts, or prove what they would have said.
 

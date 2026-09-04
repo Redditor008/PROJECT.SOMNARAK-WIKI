@@ -1,24 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE TORN PLATE">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- SUIT // PLATE -->
   <defs>
     <radialGradient id="bgcd3a8a" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="glcd3a8a" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgcd3a8a)" stroke="#d64a4a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="114" fill="url(#glcd3a8a)"/>
-  <g transform="rotate(-12 200.0 190.0)">
-    <path d="M113.0 171.6 L165.2 139.4 L188.0 121.0 L212.0 121.0 L234.8 139.4 L287.0 171.6 L265.25 240.6 L200.0 275.6 L134.75 240.6 Z" fill="#d64a4a" fill-opacity=".22" stroke="#d64a4a" stroke-width="3"/>
-    <path d="M134.8 157.8 L265.2 157.8" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".7"/>
-    <circle cx="200.0" cy="196.0" r="14" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
-    <circle cx="200.0" cy="196.0" r="8" fill="#d64a4a" fill-opacity=".5"/>
-    <path d="M180.0 203.8 L220.0 209.8" fill="none" stroke="#d64a4a" stroke-width="1.2" opacity=".55"/>
-    <path d="M180.0 219.8 L220.0 225.8" fill="none" stroke="#d64a4a" stroke-width="1.2" opacity=".55"/>
+  <circle cx="200" cy="188" r="123" fill="url(#glcd3a8a)"/>
+  <g transform="rotate(-2 200.0 192.0)">
+<path d="M127.0 172.4 L166.4 137.1 L182.0 115.6 L218.0 115.6 L233.6 137.1 L273.0 172.4 L256.9 243.0 L200.0 272.4 L143.1 243.0 Z" fill="#d64a4a" fill-opacity=".22" stroke="#d64a4a" stroke-width="3"/>
+<path d="M143.1 162.6 L256.9 162.6" stroke="#d64a4a" stroke-width="1.5" opacity=".6"/>
+<circle cx="200.0" cy="198.0" r="19.0" fill="none" stroke="#e0f2fe" stroke-width="1.8" opacity=".72"/>
+<circle cx="200.0" cy="198.0" r="10.0" fill="#d64a4a" fill-opacity=".5"/>
+  </g>
+  <g transform="rotate(4 148.0 112.0)" opacity=".9">
+    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  </g>
+  <g transform="rotate(5 252.0 96.0)" opacity=".9">
+    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#d64a4a" opacity=".42"/>
+  </g>
+  <g transform="rotate(-14 152.0 300.0)" opacity=".9">
+    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
+  </g>
+  <g transform="rotate(-14 200.0 236.0)" opacity=".9">
+    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-S-779-01</text>
 </svg>

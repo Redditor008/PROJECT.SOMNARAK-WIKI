@@ -54,7 +54,11 @@
 
 ## COMBAT FILE
 
-### Basic attack — *Release Line*
+### Appearance
+
+The Dancing Fang is a short, broad crimson blade of Han iron with a squared guard and a narrow open link set into the handle. The edge is thick and unpolished, and a thin red seam runs along the spine, visible only while the bearer holds a declared movement task and a named release partner. The grip is wrapped in dark cord over a ridged core and keeps the blade balanced in hand. It sends a Crimson line through an active restraint, motion-lock, or forced-route mechanism, damaging structure and opening a route for a person who can actually choose to use it. If no exit exists, the Fang refuses to fire and binds the bearer's stance until the route is reassessed. The blade is stored point-down in a restraint tray after the shared release ritual. The bearer and release partner lay an unlinked cord between two chairs and each remove one end before the blade is cleaned, and no chain oil is ever applied to the edge.
+
+### Basic attack— *Release Line*
 
 The Fang sends a Crimson line through an active restraint, motion-lock, or forced-route mechanism. It damages physical structure and may open a route for a person who can actually choose to use it.
 

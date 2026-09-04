@@ -23,6 +23,10 @@
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Inherited Debt source record |
 
+### Appearance
+
+The Debt Chain is a short black charm chain of Han-iron links, each link different in size and each carrying a name pressed into its inner curve. The links are not welded together; they hang in a fixed order that cannot be changed, and the chain as a whole is small enough to wrap around a wrist or hang from a belt. When the bearer observes a current burden, the chain reveals one visible line between that burden and its previous holder, causing a single link to glow a pale grey. The chain shows sequence rather than blame: family, contract, coercion, and institutional transfer all appear equally. After every observation the chain grows heavier until the bearer names one link aloud to another person. A link that reaches a missing ledger page eventually goes cold and does not warm again. The chain is never laid flat on a table; it is hung by the largest link, which was the name of the first holder the Archive could confirm.
+
 ### Ability — Follow the Link
 
 The Chain reveals one visible line between a current burden and its previous holder. It can show family, contract, coercion, or institutional transfer.

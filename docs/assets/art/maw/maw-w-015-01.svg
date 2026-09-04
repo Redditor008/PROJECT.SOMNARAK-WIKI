@@ -1,27 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BALANCE LENS">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE CRESCENT BEAM">
   <defs>
-    <radialGradient id="bgw015" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw015" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#134e4a"/>
+      <stop offset="100%" stop-color="#042f2e"/>
     </radialGradient>
-    <radialGradient id="glw015" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#e2e8f0" stop-opacity=".22"/>
+    <radialGradient id="gw015" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgw015)" stroke="#e2e8f0" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw015)" stroke="#2dd4bf" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#glw015)"/>
-  
-  <!-- pale disc divided by a fine horizontal line that tilts -->
-  <circle cx="200" cy="170" r="98" fill="#1e293b" stroke="#e2e8f0" stroke-width="3.4"/>
-  <path d="M108 186 L292 154" stroke="#f1df76" stroke-width="3"/>
-  <path d="M200 72 A98 98 0 0 1 200 268" fill="#0f172a" opacity=".55"/>
-  <rect x="188" y="268" width="24" height="64" fill="#0f172a" stroke="#94a3b8" stroke-width="2"/>
-  <rect x="176" y="328" width="48" height="14" fill="#111" stroke="#e2e8f0"/>
-    
-  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#e2e8f0" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#e2e8f0" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">WEAPON // TILTED LINE</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE BALANCE LENS</text>
+  <circle cx="200" cy="188" r="132" fill="url(#gw015)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#042f2e" stroke="#2dd4bf" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#2dd4bf" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- BALANCE CANNON: dual-counterweight side-heavy beam cannon -->
+  <!-- barrel -->
+  <rect x="118" y="158" width="198" height="28" rx="6" fill="#042f2e" stroke="#2dd4bf" stroke-width="2.8"/>
+  <path d="M132 158 L132 186 M266 158 L266 186" stroke="#2dd4bf" stroke-width="1.4" opacity=".8"/>
+  <path d="M150 166 L172 182 M216 164 L246 182" stroke="#2dd4bf" stroke-width="1.2" opacity=".7"/>
+  <!-- muzzle brake -->
+  <path d="M316 150 L340 150 L346 172 L340 194 L316 194 Z" fill="#042f2e" stroke="#2dd4bf" stroke-width="2"/>
+  <path d="M332 150 L332 194 M326 156 L326 188" stroke="#2dd4bf" stroke-width="1.2"/>
+  <!-- balance beam -->
+  <rect x="92" y="172" width="26" height="8" rx="3" fill="#0f172a" stroke="#2dd4bf" stroke-width="1.8"/>
+  <!-- counterweight pendulum -->
+  <line x1="104" y1="180" x2="104" y2="240" stroke="#2dd4bf" stroke-width="2"/>
+  <circle cx="104" cy="252" r="14" fill="#042f2e" stroke="#2dd4bf" stroke-width="2.4"/>
+  <circle cx="104" cy="252" r="4" fill="#f1df76"/>
+  <!-- grip bracket -->
+  <path d="M162 186 L162 214 L186 214 L186 186 Z" fill="#042f2e" stroke="#2dd4bf" stroke-width="1.8"/>
+  <!-- foregrip ring -->
+  <circle cx="252" cy="206" r="8" fill="#042f2e" stroke="#2dd4bf" stroke-width="2"/>
+  <!-- coax lens -->
+  <circle cx="180" cy="166" r="7" fill="#0f172a" stroke="#2dd4bf" stroke-width="1.6"/>
+  <circle cx="180" cy="166" r="2.6" fill="#f1df76"/>
+  <!-- rear pulse core -->
+  <circle cx="112" cy="166" r="10" fill="#134e4a" stroke="#2dd4bf" stroke-width="2"/>
+  <circle cx="112" cy="166" r="3.4" fill="#99f6e4"/>
 </svg>

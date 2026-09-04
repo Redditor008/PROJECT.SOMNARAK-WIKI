@@ -39,6 +39,10 @@
 
 **Rejection rule:** A bearer who hides the display begins hearing its tick in every sleeping interval until the Watch is removed and the obligation is reviewed.
 
+## Appearance
+
+The Deadline Watch is a small black watch-charm of Han iron with a cracked dial and hands that point at a named obligation rather than at time. It sits at the head slot and stays cool on the skin, and the dial carries one clear due mark beside a verified obligation with a faint line toward the planned support action. It shows no date until an external verifier is identified, and the cracked face is never repaired to make the read clearer. In active use the watch displays a timeframe rather than a moral verdict, and the bearer and verifier record an action before the due mark and a support or recovery step after it, making the next route clearer while reducing panic around the approaching time. It carries no Echo cost and shows one verified due mark at a time. It is stored face-down beside the verified plan rather than worn overnight. If the bearer hides the display, the tick is heard in every sleeping interval until the watch is removed and the obligation reviewed.
+
 ## GIFT STATISTICS
 
 | Field | Record |

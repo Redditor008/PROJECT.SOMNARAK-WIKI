@@ -54,7 +54,11 @@
 
 ## COMBAT FILE
 
-### Basic attack — *Address the Shadow*
+### Appearance
+
+The Shadow Lens is a pale, nearly opaque disc of Han glass set in a plain black frame, with a central depth that widens when a room is swallowing a person's name. In daylight it appears empty and grey, and it opens only after the bearer writes a return location and names a location witness. The lens deals a narrow Void strike that separates a target from immediate unplaced-pressure, the feeling that every room has already abandoned them, without removing grief or creating housing. When a witness holds the available space and the bearer has identified a safe exit, it stabilizes a short area so displaced Void pressure cannot pull the target through connected rooms. If used to trap or evict, the effect reverses and the bearer becomes difficult for their own team to locate. It is stored in a marked room with an open door. The lens is placed in a marked room with an open door, and the case card is updated with the room name, exit, and witness before the shutter is left open.
+
+### Basic attack— *Address the Shadow*
 
 The Lens deals a narrow Void strike that separates a target from immediate unplaced-pressure—the feeling that every room has already abandoned them. It does not remove grief or create housing.
 

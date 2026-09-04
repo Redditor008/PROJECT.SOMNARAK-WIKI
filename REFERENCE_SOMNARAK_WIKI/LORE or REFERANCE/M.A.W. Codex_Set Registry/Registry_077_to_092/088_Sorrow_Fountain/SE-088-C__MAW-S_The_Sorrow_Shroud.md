@@ -54,7 +54,11 @@ The Shroud appeared at the Garden rim after a witness circle remained with a mou
 
 ## PROTECTIVE FILE
 
-### Passive effect — *Layered Water*
+### Appearance
+
+The Sorrow Shroud is a deep-blue shroud of layered Han silk cut in broad overlapping folds, each fold slightly darker than the one above it. The inner lining is smooth and cool and the outer surface carries a faint salt sheen after long use. A throat clasp closes the shroud at the front, and the wearer must name a post-exposure companion before it is sealed. The cloth lowers direct Lament harm by taking pressure through successive blue folds, so the burden is endured rather than deleted. When the wearer names the companion, one fold opens around a nearby consenting person and shares a portion of the incoming wave. A dry crack across the hem shows the shroud has become a dam rather than a current, and it is spread in morning air beside its witness after use. The shroud is spread in morning air beside its companion, and each person names one small pleasure without asking the other to match it.
+
+### Passive effect— *Layered Water*
 
 The Shroud lowers direct Lament harm by taking it through successive blue folds. The pressure is endured, not deleted.
 

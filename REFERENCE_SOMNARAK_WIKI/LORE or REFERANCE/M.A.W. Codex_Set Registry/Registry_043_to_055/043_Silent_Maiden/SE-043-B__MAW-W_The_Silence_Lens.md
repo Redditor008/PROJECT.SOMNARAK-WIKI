@@ -20,7 +20,11 @@
 | Maximum Amount | 4 — Stocked |
 | Echo Cost | 25 Sorrow Echoes |
 
-### Ability — Quiet Refusal
+### Appearance
+
+The Silence Lens is a small, round Han-glass disc mounted in a plain dark frame at the top of a short black handle. The glass is almost transparent, with a thin grey ring set just inside the rim. When the bearer activates it, the ring brightens and a clear, soundless field spreads around the target, blocking coercive commands, forced speech, and identity-lock effects for a short interval. The field has no colour and makes no noise, but it presses faintly against the hands of anyone holding the Lens. The handle is smooth and unmarked, with a single thumb notch near the frame, and the whole weapon is light enough to carry on a belt loop. The target cannot speak normally during the interval, and after use the bearer is left missing one ordinary sentence until they write it, sign it, or pass it to a witness. The frame is low and unpolished, and the grey ring dims only after the interval has passed.
+
+### Ability— Quiet Refusal
 
 The Lens creates a short Void interval around one target that blocks coercive commands, forced speech, and identity-lock effects.
 

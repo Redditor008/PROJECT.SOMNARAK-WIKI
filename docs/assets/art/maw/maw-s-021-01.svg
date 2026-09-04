@@ -1,24 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SILENCED SHROUD">
   <defs>
-    <radialGradient id="bge7482f" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bs021" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gle7482f" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+    <radialGradient id="gs021" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="sh021" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0c4a6e"/>
+      <stop offset="1" stop-color="#082f49"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bge7482f)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bs021)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="136" fill="url(#gle7482f)"/>
-  <g transform="rotate(1 200.0 190.0)">
-    <path d="M121.0 173.4 L168.4 144.35 L188.0 127.75 L212.0 127.75 L231.6 144.35 L279.0 173.4 L259.25 235.65 L200.0 268.4 L140.75 235.65 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
-    <path d="M140.8 160.9 L259.2 160.9" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".7"/>
-    <circle cx="200.0" cy="196.0" r="14" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
-    <circle cx="200.0" cy="196.0" r="8" fill="#3e8bd5" fill-opacity=".5"/>
-    <path d="M180.0 202.4 L220.0 208.4" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
-    <path d="M180.0 218.4 L220.0 224.4" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gs021)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">SUIT</text>
+
+  <!-- choir staves / suppressed voice -->
+  <g stroke="#38bdf8" stroke-width="1" opacity=".3">
+    <path d="M80 108 L140 108 M80 128 L140 128 M80 148 L140 148"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-S-021-01</text>
+
+  <!-- Silenced Shroud: song-shroud cape, throat keep + lyric band -->
+  <path d="M132 138 Q132 96 200 90 Q268 96 268 138 L278 214 L264 240 L278 280 Q200 314 122 280 L136 240 L122 214 Z"
+        fill="url(#sh021)" stroke="#7dd3fc" stroke-width="3"/>
+  <path d="M158 100 Q200 120 242 100 L238 128 Q200 148 162 128 Z" fill="#082f49" stroke="#7dd3fc" stroke-width="2"/>
+  <!-- throat keep: a small voice-gate bar -->
+  <rect x="184" y="160" width="32" height="16" rx="3" fill="#082f49" stroke="#f1df76" stroke-width="1.8"/>
+  <path d="M191 168 L209 168" stroke="#f1df76" stroke-width="1.2"/>
+  <!-- lyric band (the lines that blocked) -->
+  <path d="M154 220 L246 220 M158 248 L242 248 M160 276 L240 276" stroke="#38bdf8" stroke-width="1.6" opacity=".85"/>
+  <path d="M164 220 L164 276" stroke="#7dd3fc" stroke-width="1" opacity=".6"/>
+  <!-- shoulder tie -->
+  <path d="M166 108 L166 132 M234 108 L234 132" stroke="#7dd3fc" stroke-width="2"/>
 </svg>

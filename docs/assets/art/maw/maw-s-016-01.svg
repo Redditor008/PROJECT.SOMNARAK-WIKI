@@ -1,24 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LOST VEIL">
   <defs>
-    <radialGradient id="bge929cc" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bs016" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gle929cc" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+    <radialGradient id="gs016" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#e2e8f0" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bge929cc)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bs016)" stroke="#e2e8f0" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="112" fill="url(#gle929cc)"/>
-  <g transform="rotate(-7 200.0 190.0)">
-    <path d="M137.0 172.6 L174.8 142.15 L188.0 124.75 L212.0 124.75 L225.2 142.15 L263.0 172.6 L247.25 237.85 L200.0 271.6 L152.75 237.85 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
-    <path d="M152.8 159.6 L247.2 159.6" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".7"/>
-    <circle cx="200.0" cy="196.0" r="14" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
-    <circle cx="200.0" cy="196.0" r="8" fill="#3e8bd5" fill-opacity=".5"/>
-    <path d="M180.0 203.1 L220.0 209.1" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
-    <path d="M180.0 219.1 L220.0 225.1" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gs016)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#030712" stroke="#e2e8f0" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#e2e8f0" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">SUIT</text>
+
+  <!-- Unstable route lines / false vector -->
+  <g stroke="#94a3b8" stroke-width="1" opacity=".3">
+    <path d="M66 100 L96 100 L96 140 L134 140"/><path d="M334 300 L304 300 L304 260 L266 260"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-S-016-01</text>
+
+  <!-- Lost Veil: hooded orientation cape, return-vector anchor eye -->
+  <path d="M128 142 Q128 96 200 90 Q272 96 272 142 L282 220 L266 244 L282 282 Q200 318 118 282 L134 244 L118 220 Z"
+        fill="#1f2937" stroke="#e2e8f0" stroke-width="3"/>
+  <path d="M156 102 Q200 122 244 102 L240 130 Q200 152 160 130 Z" fill="#0f172a" stroke="#e2e8f0" stroke-width="2"/>
+  <!-- vector anchor ring -->
+  <circle cx="200" cy="180" r="18" fill="#0f172a" stroke="#f1df76" stroke-width="2"/>
+  <path d="M200 168 L195 180 L200 192 L205 180 Z" fill="#e2e8f0"/>
+  <!-- return vector line -->
+  <path d="M200 180 L268 128 L292 132" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="292" cy="132" r="4" fill="#f1df76"/>
+  <!-- route stitch seams -->
+  <path d="M146 236 L254 236 M142 266 L258 266" stroke="#94a3b8" stroke-width="1.6" opacity=".9"/>
+  <path d="M160 208 L240 208" stroke="#e2e8f0" stroke-width="1.2" opacity=".6"/>
+  <!-- anchor strap -->
+  <path d="M158 110 L158 134 M242 110 L242 134" stroke="#e2e8f0" stroke-width="2.4"/>
+  <path d="M166 108 L234 108" stroke="#94a3b8" stroke-width="1.6"/>
 </svg>

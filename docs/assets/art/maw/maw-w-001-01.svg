@@ -1,31 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="LAMENT'S REQUIEM">
   <defs>
-    <radialGradient id="bgw001" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bw001" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="glw001" cx="50%" cy="46%" r="42%">
+    <radialGradient id="gw001" cx="50%" cy="46%" r="50%">
       <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="gs001" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#0c4a6e"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgw001)" stroke="#38bdf8" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw001)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#glw001)"/>
-  
-  <!-- slender deep-blue Han crystal blade; names as faint lines under the edge -->
-  <path d="M118 318 L142 338 L168 300 L248 92 L268 68 L236 62 L162 248 Z" fill="#0c4a6e" stroke="#7dd3fc" stroke-width="3"/>
-  <path d="M248 92 L220 108 L162 248" fill="none" stroke="#bae6fd" stroke-width="1.6" opacity=".8"/>
-  <g fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".7">
-    <path d="M176 250 L214 150"/>
-    <path d="M188 258 L226 158"/>
-    <path d="M198 266 L234 172"/>
-  </g>
-  <line x1="118" y1="318" x2="86" y2="352" stroke="#f1df76" stroke-width="7" stroke-linecap="round"/>
-  <rect x="78" y="348" width="18" height="18" rx="2" fill="#082f49" stroke="#38bdf8"/>
-    
-  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">WEAPON // CRYSTAL BLADE</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">LAMENT'S REQUIEM</text>
+  <circle cx="200" cy="188" r="132" fill="url(#gw001)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- GREATSWORD: broad two-hand crystal blade with wide tapered shoulders -->
+  <path d="M200 40 L232 92 L240 178 L222 216 L200 232 L178 216 L160 178 L168 92 Z"
+        fill="url(#gs001)" stroke="#7dd3fc" stroke-width="3"/>
+  <path d="M200 56 L200 224" stroke="#bae6fd" stroke-width="1.4" opacity=".8"/>
+  <path d="M184 108 L200 132 M216 108 L200 132 M178 158 L200 182 M222 158 L200 182" stroke="#e0f2fe" stroke-width="1.1" opacity=".7"/>
+  <path d="M170 92 L156 100 L162 116 M230 92 L244 100 L238 116" fill="none" stroke="#7dd3fc" stroke-width="1.4"/>
+  <!-- wide greatsword crossguard -->
+  <path d="M158 218 L242 218 L234 236 L166 236 Z" fill="#082f49" stroke="#7dd3fc" stroke-width="2.4"/>
+  <path d="M158 218 L126 220 L134 234 L166 234 M242 218 L274 220 L266 234 L234 234" fill="#082f49" stroke="#7dd3fc" stroke-width="1.6"/>
+  <!-- long two-hand wrapped grip -->
+  <rect x="186" y="236" width="28" height="94" rx="6" fill="#082f49" stroke="#38bdf8" stroke-width="2.4"/>
+  <path d="M188 252 L212 262 M188 272 L212 282 M188 292 L212 302 M188 312 L212 322" stroke="#38bdf8" stroke-width="1.6" opacity=".85"/>
+  <path d="M186 240 L214 240 M186 326 L214 326" stroke="#7dd3fc" stroke-width="1.2"/>
+  <!-- pommel -->
+  <path d="M182 330 L218 330 L216 348 L184 348 Z" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="344" r="4" fill="#f1df76"/>
 </svg>

@@ -54,7 +54,11 @@ The Plate formed from a quiet patch of Commons air after Animus faded without be
 
 ## PROTECTIVE FILE
 
-### Passive effect — *Present Threat*
+### Appearance
+
+The Trace Plate is a crimson harness of Han-iron plates covering the chest, ribs, and shoulders, with a single unfilled line running across the centre plate where a conclusion would usually be etched. The metal is unpolished and warm to the touch, and the central line stays open until a wearer tries to force an answer into it. The plate gives strong resistance to direct Grudge pressure, especially when a residue field is provoking reaction faster than evidence can be understood. When a second observer asks whether the current threat is present or inherited, the centre line opens and diffuses one minor Grudge flare across the harness. A false answer seals the line and converts the next hit to normal damage. The plate is laid beside a two-column log, present evidence and inherited feeling, and the wearer may not erase the second column. Before storage the plate is laid beside a two-column log of present evidence and inherited feeling, and the wearer is not permitted to erase the second column.
+
+### Passive effect— *Present Threat*
 
 The Plate gives α-grade resistance to direct Grudge pressure, especially when a residue field is provoking reaction faster than evidence can be understood.
 

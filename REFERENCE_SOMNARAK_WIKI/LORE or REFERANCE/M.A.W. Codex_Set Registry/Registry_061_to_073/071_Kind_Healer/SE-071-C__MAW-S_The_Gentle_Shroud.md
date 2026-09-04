@@ -26,7 +26,11 @@
 | Maximum Amount | 5 — Abundant |
 | Echo Cost | 10 Sorrow Echoes |
 
-### Ability — Shared Care
+### Appearance
+
+The Gentle Shroud is a soft deep-blue shroud of fine Han silk cut to hang only to the waist, with a wide neck opening and a hem that does not flare. Its inner lining is smooth and cool and its outer weave catches light in narrow bands. Along the shoulders run two short pale seams that mark the places where a second caregiver's hands are meant to rest. The shroud buffers low-grade Lament and lets the wearer support a wounded person without taking all the pain alone, but it requires a second willing caregiver for full function; solo use reduces protection and begins care-overload accumulation. While in active care mode the wearer feels minor joy dim, and the seams stay visible until the pair rests. The cloth is folded between uses and never hung facing a wall. The shroud is folded with its two seams touching between uses, and it is never hung where the wearer may think the pair has already left.
+
+### Ability— Shared Care
 
 The Shroud buffers low-grade Lament and lets the wearer support a wounded person without taking all pain alone.
 

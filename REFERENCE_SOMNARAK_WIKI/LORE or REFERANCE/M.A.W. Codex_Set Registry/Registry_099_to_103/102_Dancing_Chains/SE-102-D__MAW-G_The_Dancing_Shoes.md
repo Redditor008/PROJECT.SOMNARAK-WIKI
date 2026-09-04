@@ -51,7 +51,11 @@
 
 ## EFFECT FILE
 
-### Passive effect — *Evasive Cadence*
+### Appearance
+
+The Dancing Shoes are a pair of light crimson shoes of Han leather and iron, with an open link mark at the sole of each foot and a short cord where a partner can pin them against a release bench. The soles are thin and flexible, and the leather is worn smooth at the toe. The shoes greatly increase movement speed, balance recovery, and evasive reflexes, carrying a rapid and stable escape line through uneven terrain, debris, or a short pursuit window without crossing a locked boundary or a physical wall. If a stop location is named, the feet keep stepping past it when the bearer is ashamed of stopping. The right shoe is always removed after the left, and the pair is kept low on a bench, never hung or displayed. After every issue, the bearer and partner rehearse the left-then-right removal sequence together, and no endurance drill is permitted during maintenance.
+
+### Passive effect— *Evasive Cadence*
 
 The Shoes greatly increase movement speed, balance recovery, and evasive reflexes. Their motion is skilled but not necessarily wise; they can outrun danger without knowing when to stop.
 

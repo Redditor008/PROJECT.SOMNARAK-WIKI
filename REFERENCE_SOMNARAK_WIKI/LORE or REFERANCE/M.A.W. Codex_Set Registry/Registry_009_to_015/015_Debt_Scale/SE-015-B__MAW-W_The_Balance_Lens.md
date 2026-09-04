@@ -26,7 +26,7 @@
 
 ### Appearance
 
-A pale Han-glass disc with a fine horizontal line at its center. The line tilts toward a target’s unresolved obligation when the bearer holds it in both hands.
+The Balance Lens is a pale Han-glass disc with a single fine horizontal line cut across its center, extending just past the rim on both sides. The disc is almost clear in ordinary light and cold to the touch, with a narrow black rim and a shaped grip area along the bottom edge that must be held with both hands. When the bearer names a verified obligation, the horizontal line tilts toward the target's unresolved burden with slow, deliberate motion and stops where the debt actually sits. If the bearer's claim is unverified, the line wavers instead of settling. The lens does not shade or blur; it only tilts. The grip is warm only in the center, where the bearer's two hands rest, and it leaves a faint trace of white on the skin after a prolonged reading. The disc must be held level before the naming begins; if it is held at an angle, the line settles at that angle rather than at the debt.
 
 ---
 

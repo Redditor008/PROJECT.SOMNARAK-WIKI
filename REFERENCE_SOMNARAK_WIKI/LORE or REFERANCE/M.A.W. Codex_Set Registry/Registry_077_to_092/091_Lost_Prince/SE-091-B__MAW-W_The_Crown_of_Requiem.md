@@ -54,7 +54,11 @@
 
 ## COMBAT FILE
 
-### Basic attack — *Questioning Cut*
+### Appearance
+
+The Crown of Requiem is a long, narrow blade of pale-blue Han crystal that folds into itself like the points of a closed circlet. When folded it rests in a smooth ring with the points tucked inward; when opened, the blade extends into a singing line and every point becomes a question. The hilt is short and dark, with a raised guard and a small inset figure of the relief contact who closes the weapon. The blade sends a blue Pierce line through attachment pressure, forcing a torn or bound person to recognise the bond or absence driving their action. It cannot create reunion or repair a bond, and it will not open for a bearer who promises a return they cannot give. The relief person, never the bearer, folds the points closed. The crown is stored folded with the relief contact's name facing outward, and the points do not dull even when the weapon is sealed for a long period.
+
+### Basic attack— *Questioning Cut*
 
 The blade sends a blue Pierce line through a target’s attachment pressure. It deals Lament damage and forces an immediate emotional recognition of the bond or absence that is driving the target’s action.
 

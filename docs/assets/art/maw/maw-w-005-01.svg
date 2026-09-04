@@ -1,26 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE EMBRACE FANG">
   <defs>
-    <radialGradient id="bgw005" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw005" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#450a0a"/>
+      <stop offset="100%" stop-color="#1c0505"/>
     </radialGradient>
-    <radialGradient id="glw005" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".22"/>
+    <radialGradient id="gw005" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#f87171" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="fn005" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#dc2626"/>
+      <stop offset="1" stop-color="#450a0a"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgw005)" stroke="#ef5b55" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw005)" stroke="#dc2626" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#glw005)"/>
-  
-  <!-- crimson blade curved inward like a hand closing on a wrist — no face -->
-  <path d="M92 250 C120 140 210 70 300 78 C250 110 210 170 198 250 C190 300 170 330 140 338 C160 300 150 270 92 250 Z" fill="#7f1d1d" stroke="#fb7185" stroke-width="3"/>
-  <path d="M300 78 C280 100 250 150 230 210" fill="none" stroke="#fecaca" stroke-width="2"/>
-  <path d="M118 268 C150 248 170 248 198 268" fill="none" stroke="#f1df76" stroke-width="3"/>
-  <circle cx="158" cy="258" r="6" fill="#f1df76"/>
-    
-  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">WEAPON // INWARD CURVE</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE EMBRACE FANG</text>
+  <circle cx="200" cy="188" r="132" fill="url(#gw005)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#1c0505" stroke="#dc2626" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#dc2626" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- TALON FANG CLAW: three inward-curving crimson fangs over a knuckle cuff -->
+  <!-- left fang -->
+  <path d="M154 174 C154 122 158 100 192 84 C178 110 168 136 172 174 Z" fill="url(#fn005)" stroke="#fca5a5" stroke-width="2.4"/>
+  <!-- right fang -->
+  <path d="M246 174 C246 122 242 100 208 84 C222 110 232 136 228 174 Z" fill="url(#fn005)" stroke="#fca5a5" stroke-width="2.4"/>
+  <!-- centre fang -->
+  <path d="M186 178 C188 120 194 100 200 84 C210 110 210 134 204 178 Z" fill="url(#fn005)" stroke="#fca5a5" stroke-width="2.4"/>
+  <!-- warm grip edge glints -->
+  <path d="M158 162 C158 128 166 108 190 92 M242 162 C242 128 234 108 210 92" stroke="#fecaca" stroke-width="1" opacity=".7"/>
+  <!-- knuckle cuff plate -->
+  <path d="M148 172 L252 172 L242 214 L158 214 Z" fill="#450a0a" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M166 188 L234 188" stroke="#fecaca" stroke-width="1.2" opacity=".7"/>
+  <circle cx="172" cy="200" r="4" fill="#f1df76"/>
+  <circle cx="200" cy="200" r="4" fill="#f1df76"/>
+  <circle cx="228" cy="200" r="4" fill="#f1df76"/>
+  <!-- wrist cuff ring behind -->
+  <path d="M120 190 L130 214 M280 190 L270 214" stroke="#dc2626" stroke-width="2"/>
+  <path d="M120 190 C150 210 250 210 280 190" fill="none" stroke="#dc2626" stroke-width="1.6" opacity=".8"/>
+  <!-- warm grip -->
+  <path d="M176 214 L224 214 L218 232 L182 232 Z" fill="#290a0a" stroke="#dc2626" stroke-width="1.8"/>
+  <rect x="182" y="232" width="36" height="96" rx="9" fill="#290a0a" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M188 252 L212 260 M188 274 L212 282 M188 296 L212 304" stroke="#f87171" stroke-width="1.6" opacity=".85"/>
+  <circle cx="200" cy="342" r="9" fill="#290a0a" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="342" r="2.6" fill="#f1df76"/>
 </svg>

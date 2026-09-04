@@ -27,7 +27,7 @@
 
 ### Appearance
 
-A deep-blue shroud of Han silk that wraps itself around the wearer’s shoulders and throat without pressure. In a toll zone, the fabric moves as if listening. Tiny pale marks appear along the hem when the wearer hears a name that has no other record.
+The Lament's Shroud is a deep-blue shroud of Han silk woven so loosely that it wraps itself around the wearer's shoulders and throat without applying any measurable pressure. In a toll zone the fabric does not simply hang; it moves with the air in short, listening motions, as though following the path of the bell's sound. The inner lining stays cold and smooth while the outer weave catches pale light along the hem whenever the wearer hears a name that has no other record. Those unrecorded names appear as tiny raised pale marks, each warm to the touch and slightly darker near the seam. The shroud can hold three such names without strain; at the fourth, the marks begin to murmur together. Worn through a long vigil, the cloth settles around its bearer like a garment that has decided to remain present, and the collar stiffens just enough to keep the head from turning away from the sound it is meant to survive.
 
 ---
 

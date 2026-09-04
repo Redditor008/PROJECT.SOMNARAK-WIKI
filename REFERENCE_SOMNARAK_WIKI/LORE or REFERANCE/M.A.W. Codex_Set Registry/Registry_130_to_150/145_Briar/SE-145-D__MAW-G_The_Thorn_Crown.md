@@ -39,6 +39,10 @@
 
 **Rejection rule:** If the bearer activates it to prevent a trusted person from caring for them, the defensive thorns turn inward and deliver the pain cost to the bearer.
 
+## Appearance
+
+The Thorn Crown is a small crimson thorn circlet of Han iron that sits at the tail slot and warms only after emotional pain rises. The thorns are short and fine, bent flat at rest, and one thorn bends outward when the bearer names a person who may approach safely. In active use fine crimson thorns rise into a ring around the bearer's immediate space, leaving one clear path for care, de-escalation, or exit while the rest of the ring deters active threat. The circlet is light and cool when idle, and the marked thorn remains distinguishable from the rest of the ring. It carries no Echo cost, but emotional pain becomes visible defensive pressure after activation. After use the bearer and safe person review the approach word, physical distance, and exit rule, and the crown is stored with its gate mark open. If the bearer activates it to prevent a trusted person from caring for them, the thorns turn inward and deliver the pain cost to the bearer. The safe person says the approach word and covers the bent thorn during shutdown.
+
 ## GIFT STATISTICS
 
 | Field | Record |

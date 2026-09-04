@@ -28,15 +28,13 @@
 
 ### Appearance
 
-A slender blade of deep-blue Han crystal. Its edge appears smooth until the bearer holds it against a source of grief; then faint names move beneath the crystal in the rhythm of a distant toll. No two bearers hear the same names.
+A slender two-hand blade of deep-blue Han crystal, the Lament's Requiem is cut so thin that its edge seems to hold no weight until it is bared against a source of grief. Beneath the surface, faint lines of names move in the rhythm of a distant toll, each one surfacing in a different cadence for every bearer who holds it. The grip is dark blue silk wrapped over a ridged Han-iron core, and a narrow soundless channel runs the length of the blade, widening wherever the crystal has absorbed an unrecorded name. In the presence of recent loss the channel glows a cold, soft blue; in silence it stays as still as a held breath. When swung the blade makes no metallic note, yet the names inside it keep time, so that those closest to the user hear a toll no instrument produced. No two bearers hear the same sequence, and no two blades remain identical once they have completed a Named Vigil.
 
 ---
 
 ## EXTRACTION HISTORY
 
-The Requiem is extracted only after an approved Named Vigil. The bearer stands beneath the Bell, carries a documented name through one complete toll sequence, and does not attempt to stop the sound. At the final toll, a thread of blue light falls from the bell’s inner rim and hardens into a blade in the Extraction frame.
-
-The Bell does not weaken visibly after extraction. The person who performed the vigil does.
+The Requiem is extracted only after an approved Named Vigil. The bearer stands beneath the Bell, carries a documented name through one complete toll sequence, and does not attempt to stop the sound. At the final toll, a thread of blue light falls from the bell’s inner rim and hardens into a blade in the Extraction frame. The Bell does not weaken visibly after extraction. The person who performed the vigil does.
 
 ### Rejection Rule
 

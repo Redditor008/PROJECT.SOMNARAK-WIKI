@@ -27,7 +27,7 @@
 
 ### Appearance
 
-A pale pendant shaped like a miniature balance beam. It turns toward the person whose burden is currently closest to breaking a room’s emotional equilibrium.
+The Balance Pendant is a pale charm shaped like a miniature balance beam, its crossbar fixed and its two tiny pans hanging freely from short, fine threads. It is light and cold and swings gently with movement. When someone near the bearer is carrying more than words can admit, the pendant turns toward that person with a slow, certain motion and begins to tremble as the burden approaches the limit of the room's emotional balance. The beam never explains what it has found; it only points. Held during mediation, the pendant may reveal the felt weight of an obligation while withholding its details. When the bearer actively shares the measure, the pendant grows warm and the weight becomes legible to both people for one brief minute, after which it cools without recording any verdict or victory. When the pendant cools, the person it pointed to cannot tell it had moved, and the bearer is left to decide what to do with the knowledge.
 
 ---
 
@@ -47,9 +47,7 @@ The bearer experiences the measured debt as personal weight. Repeated use can le
 
 ## HISTORY OF USE
 
-A Pendant bearer used Share the Measure during mediation between a Collector and a displaced tenant. The Collector experienced the tenant’s inherited debt as bodily weight for the first time. The debt was not erased, but the enforcement order was delayed long enough for an Archive appeal.
-
-The case remains incomplete. The Pendant recorded no victory.
+A Pendant bearer used Share the Measure during mediation between a Collector and a displaced tenant. The Collector experienced the tenant’s inherited debt as bodily weight for the first time. The debt was not erased, but the enforcement order was delayed long enough for an Archive appeal. The case remains incomplete. The Pendant recorded no victory.
 
 ---
 

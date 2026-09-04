@@ -54,7 +54,11 @@ The Plate formed when the Pyre’s fire parted around a blank preservation page 
 
 ## PROTECTIVE FILE
 
-### Passive effect — *Archive Stance*
+### Appearance
+
+The Burning Plate is a crimson chest harness of overlapping Han-iron plates, fitted tight with black straps and a single front clasp. Across the chest plate, crimson script grows brighter whenever the wearer defends a named person, testimony, or record. The inner lining is smooth and cool, and the outer metal is unpolished so that the lettering stays readable. The plate provides strong protection from direct Grudge pressure while the wearer holds a declared preservation target with a proportional end condition. If the wearer pursues a retreating opponent after the threat has ended, the script fades and the barrier turns inward, reducing all resistance to normal. A blank chest plate means the wearer has forgotten the record they claimed to protect. The plate is set before a non-classified record before each use, and the wearer states the proportional end condition aloud before the closure is sealed. The letters are read under ordinary light, never heat, because shine can hide the text that needs to be seen.
+
+### Passive effect— *Archive Stance*
 
 The Plate provides strong protection from direct Grudge pressure while the wearer defends a named person, testimony, or record. It does not make every cause righteous.
 

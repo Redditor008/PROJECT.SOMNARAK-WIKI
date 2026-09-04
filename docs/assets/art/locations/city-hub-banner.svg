@@ -1,20 +1,136 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Somnarak city — hex, diamond, Maw">
-  <rect width="1400" height="280" fill="#070410"/>
-  <g transform="translate(40,10) scale(2.2)">
-    <polygon points="60,8 104,32 104,88 60,112 16,88 16,32" fill="#2e1065" stroke="#a855f7" stroke-width="2"/>
-    <path d="M18,50 L40,40 L48,60 L40,80 L22,78 Z" fill="#14532d" stroke="#22c55e" stroke-width="1"/>
-    <path d="M102,50 L80,40 L72,60 L80,80 L98,78 Z" fill="#1e3a8a" stroke="#3b82f6" stroke-width="1"/>
-    <path d="M40,28 L60,16 L80,28 L60,40 Z" fill="#9a3412" stroke="#f59e0b" stroke-width="1"/>
-    <path d="M40,92 L60,104 L80,92 L60,80 Z" fill="#9a3412" stroke="#f59e0b" stroke-width="1"/>
-    <polygon points="60,38 80,60 60,82 40,60" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.5"/>
-    <circle cx="60" cy="60" r="5" fill="#f1df76"/>
-    <ellipse cx="32" cy="66" rx="10" ry="7" fill="#022c22" stroke="#22c55e" stroke-width="1.1"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 280" width="1400" height="280" role="img" aria-label="Atlas of Somnarak — five-zone hex: bulwark ring E, forge flanks D, old ward B with the Maw, collectors chevron C, core diamond A around the Alpha Tree">
+  <defs>
+    <linearGradient id="cityBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c0a1b"/>
+      <stop offset="45%" stop-color="#070411"/>
+      <stop offset="100%" stop-color="#02030a"/>
+    </linearGradient>
+    <radialGradient id="cityGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.30"/>
+      <stop offset="45%" stop-color="#7c3aed" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="treeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fef08a" stop-opacity="0.95"/>
+      <stop offset="38%" stop-color="#f59e0b" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#ef4444" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="goldTitle" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f1df76"/>
+      <stop offset="55%" stop-color="#fef9c3"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+    <linearGradient id="ruleGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f1df76" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#f1df76" stop-opacity="0.9"/>
+      <stop offset="55%" stop-color="#f1df76" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bottomBar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="scangrid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0 H0 V22" fill="none" stroke="#c084fc" stroke-width="0.35" opacity="0.14"/>
+    </pattern>
+  </defs>
+
+  <!-- Base plate -->
+  <rect width="1400" height="280" fill="url(#cityBg)"/>
+  <rect width="1400" height="280" fill="url(#scangrid)" opacity="0.5"/>
+  <rect x="10" y="10" width="1380" height="260" fill="none" stroke="#c084fc" stroke-width="1" opacity="0.28"/>
+  <rect x="16" y="16" width="1368" height="248" fill="none" stroke="#f1df76" stroke-width="0.5" stroke-dasharray="10 5" opacity="0.28"/>
+
+  <!-- Halo behind the hex -->
+  <ellipse cx="215" cy="124" rx="250" ry="170" fill="url(#cityGlow)"/>
+
+  <!-- Cartographic contour field (kept subtle behind the hex) -->
+  <g fill="none" stroke="#7c3aed" stroke-width="0.7" opacity="0.26">
+    <path d="M30 40 C120 20 190 60 230 90 C300 130 330 150 360 210"/>
+    <path d="M20 70 C110 52 180 88 220 116 C290 156 320 176 350 234"/>
+    <path d="M40 12 C130 8 200 44 242 74 C310 112 340 132 372 190"/>
   </g>
-  <text x="380" y="78" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="13" letter-spacing="3">MUGENHAN  ·  YEAR 4,238  ·  FROM THE CITY MAP</text>
-  <text x="380" y="122" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="32" letter-spacing="1.4">SOMNARAK CITY</text>
-  <text x="380" y="158" fill="#94a3b8" font-family="Arial, sans-serif" font-size="15">Hex bulwark (E). Red diamond core (A) around the Alpha Tree. West B holds the Maw. East C is Collectors' Row. North/south D is forge and Echo Gardens.</text>
-  <text x="380" y="186" fill="#64748b" font-family="Arial, sans-serif" font-size="14">Not a 400 m titanium curtain. Not relic bazaars. The Hand of Change sits under the Tree, not as a seventh plaza building.</text>
-  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity=".62"/>
-  <text x="32" y="248" fill="#c084fc" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="4">A DIAMOND  ·  B WEST  ·  C EAST  ·  D FLANKS  ·  E RING</text>
-  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="18" letter-spacing="2.5">FIVE ZONES  —  THE MAP, NOT A GRID</text>
+  <g fill="none" stroke="#38bdf8" stroke-width="0.5" opacity="0.16">
+    <path d="M50 250 C130 236 210 244 300 212 C360 190 400 178 440 128"/>
+    <path d="M38 236 C120 222 200 230 288 200 C348 178 388 166 428 116"/>
+  </g>
+
+  <!-- Orbit rings & scale ticks -->
+  <g fill="none" stroke="#a855f7" opacity="0.5">
+    <circle cx="215" cy="124" r="70" stroke-width="0.9" stroke-dasharray="2 6"/>
+    <circle cx="215" cy="124" r="84" stroke-width="0.6" stroke-dasharray="1 8" opacity="0.5"/>
+  </g>
+  <g stroke="#f1df76" stroke-width="1" opacity="0.45">
+    <line x1="270" y1="34" x2="274" y2="34"/>
+    <line x1="270" y1="214" x2="274" y2="214"/>
+    <line x1="126" y1="34" x2="130" y2="34"/>
+    <line x1="126" y1="214" x2="130" y2="214"/>
+  </g>
+  <text x="215" y="184" font-family="'JetBrains Mono', monospace" font-size="9" fill="#c084fc" text-anchor="middle" letter-spacing="2">RD-01</text>
+  <text x="215" y="200" font-family="'JetBrains Mono', monospace" font-size="8" fill="#f1df76" text-anchor="middle" letter-spacing="2">MUGENHAN</text>
+
+  <!-- The City of Somnarak — canonical five-zone layout, verbatim from the municipal cartography. -->
+  <g transform="translate(155,64)">
+    <!-- Zone E: perimeter bulwark ring -->
+    <polygon points="34.8,16.6 85.2,16.6 110.4,60 85.2,103.4 34.8,103.4 9.6,60" fill="#2e1065" stroke="#a855f7" stroke-width="2"/>
+    <polygon points="36.7,19.6 83.3,19.6 106.2,60 83.3,100.4 36.7,100.4 13.8,60" fill="#0b0817" stroke="#c084fc" stroke-width="1" stroke-dasharray="3 2" opacity="0.9"/>
+    <!-- Zone D: forge flanks (north & south) -->
+    <polygon points="41.1,27.1 78.9,27.1 97.8,60 78.9,92.9 41.1,92.9 22.2,60" fill="#422806" stroke="#f59e0b" stroke-width="1.6"/>
+    <!-- Zone B: old ward, west lobe -->
+    <polygon points="31.9,42.9 22.2,60 31.9,77.1 60,74.7 45.3,60 60,45.3" fill="#052e1f" stroke="#10b981" stroke-width="1.6"/>
+    <!-- Zone C: collectors chevron, east -->
+    <polygon points="68.4,30.6 92.6,60 68.4,89.4 60,74.7 74.7,60 60,45.3" fill="#0c2a4d" stroke="#3b82f6" stroke-width="1.6"/>
+    <!-- The Maw -->
+    <path transform="translate(39,60)" d="M -6.3 -4.2 Q 0 -6.3 6.3 -4.2 Q 8.4 0 5.25 4.2 Q -1.05 6.3 -6.3 3.15 Z" fill="#022c22" stroke="#34d399" stroke-width="1.1"/>
+    <!-- Zone A: core nexus diamond -->
+    <polygon points="60,45.3 74.7,60 60,74.7 45.3,60" fill="#450a0a" stroke="#ef4444" stroke-width="1.6"/>
+    <polygon points="60,50.4 69.6,60 60,69.6 50.4,60" fill="#1c0505" stroke="#f87171" stroke-width="1"/>
+    <!-- Alpha Tree spire -->
+    <circle cx="60" cy="60" r="16" fill="url(#treeGlow)"/>
+    <circle cx="60" cy="60" r="2.6" fill="#ffffff"/>
+    <circle cx="60" cy="60" r="5" fill="none" stroke="#ef4444" stroke-width="1" opacity="0.85"/>
+    <!-- Gates: I north, II west, III east -->
+    <polygon points="60,13.6 62.6,16.6 60,19.6 57.4,16.6" fill="#f1df76"/>
+    <polygon points="6.6,60 9.6,57.4 12.6,60 9.6,62.6" fill="#f1df76"/>
+    <polygon points="107.4,60 110.4,57.4 113.4,60 110.4,62.6" fill="#f1df76"/>
+  </g>
+
+  <!-- Kicker -->
+  <text x="380" y="58" font-family="'JetBrains Mono', monospace" font-size="12" fill="#f59e0b" letter-spacing="4">/// CARTOGRAPHY NODE 03</text>
+  <text x="380" y="74" font-family="'JetBrains Mono', monospace" font-size="10" fill="#a855f7" letter-spacing="3">MUGENHAN · YEAR 4,238 · FROM THE MASTER MAP</text>
+
+  <!-- Title block -->
+  <text x="380" y="128" font-family="Impact, Arial Black, sans-serif" font-size="38" letter-spacing="2" fill="url(#goldTitle)">ATLAS OF SOMNARAK</text>
+  <text x="380" y="152" font-family="'JetBrains Mono', monospace" font-size="12" fill="#c084fc" letter-spacing="4">CITY OF UNRESOLVED SORROW — A–E</text>
+  <rect x="380" y="160" width="460" height="2" fill="url(#ruleGlow)"/>
+
+  <!-- Body -->
+  <text x="380" y="188" font-family="Arial, sans-serif" font-size="15" fill="#cbd5e1">A purple hex around a red diamond. B is the Past and the Maw. C is Collectors' Row and debt street.</text>
+  <text x="380" y="208" font-family="Arial, sans-serif" font-size="15" fill="#94a3b8">D holds forge and Echo Gardens. E is the ring against the Desolate. The Hand sits under the Tree.</text>
+
+  <!-- Zone legend -->
+  <g font-family="'JetBrains Mono', monospace" font-size="10" font-weight="bold">
+    <polygon points="398,222 404,228 398,234 392,228" fill="#ef4444"/>
+    <text x="410" y="232" fill="#ef4444">A CORE</text>
+    <polygon points="490,222 496,228 490,234 484,228" fill="#10b981"/>
+    <text x="502" y="232" fill="#34d399">B WEST</text>
+    <polygon points="580,222 586,228 580,234 574,228" fill="#3b82f6"/>
+    <text x="592" y="232" fill="#60a5fa">C EAST</text>
+    <polygon points="668,222 674,228 668,234 662,228" fill="#f59e0b"/>
+    <text x="680" y="232" fill="#f59e0b">D FLANKS</text>
+    <polygon points="770,222 776,228 770,234 764,228" fill="#a855f7"/>
+    <text x="782" y="232" fill="#c084fc">E RING</text>
+  </g>
+
+  <!-- Bottom bar -->
+  <rect x="0" y="226" width="1400" height="54" fill="#000" opacity="0.7"/>
+  <rect x="0" y="226" width="1400" height="54" fill="url(#bottomBar)"/>
+  <line x1="0" y1="226" x2="1400" y2="226" stroke="#a855f7" stroke-width="1" opacity="0.55"/>
+  <text x="32" y="248" fill="#c084fc" font-family="'JetBrains Mono', monospace" font-size="10" letter-spacing="4">A DIAMOND · B WEST · C EAST · D FLANKS · E RING</text>
+  <text x="32" y="270" fill="#f1df76" font-family="Impact, Arial Black, sans-serif" font-size="17" letter-spacing="2.5">FIVE ZONES — THE MAP, NOT A GRID</text>
+  <g font-family="'JetBrains Mono', monospace" font-size="9" fill="#71efaf" text-anchor="end">
+    <circle cx="1318" cy="244" r="3" fill="#71efaf"/>
+    <text x="1330" y="248">ARCHIVE LIVE</text>
+    <text x="1368" y="268" fill="#94a3b8">NODE RD-01</text>
+  </g>
 </svg>

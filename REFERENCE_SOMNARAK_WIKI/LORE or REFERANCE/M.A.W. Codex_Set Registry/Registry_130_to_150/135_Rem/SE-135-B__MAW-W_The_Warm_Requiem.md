@@ -39,6 +39,10 @@
 
 **Rejection rule:** A bearer who says the dream is better than waking finds the blade’s warm light dim and cannot activate it until a current-world reason to return is named.
 
+## Appearance
+
+The Warm Requiem is a blue Han-crystal blade with a warm tear-shaped light moving beneath the surface, the glow pulsing slowly while the blade is at rest. The edge is smooth and the point short, and a thin channel follows the light toward the grip. When the bearer has stated the agreed wake cue, the light extends into a short dream-line that points toward the waking anchor and the blade begins to hum. It cuts one escalating Dream image with a Lament line and directs affected people toward the physical anchor without completing the abandoned dream. The grip is wrapped in blue cord over a cool core, and the hilt stays dim if the dream is being preferred over waking. After use the bearer feels unwept dream grief and may cry. The blade is never left beside a sleeping person without supervision. The anchor covers the tear light and grounds the bearer at a named landmark during shutdown, and if the cue is ignored the warm line turns inward while the current memory of that anchor grows indistinct.
+
 ## CORE STATISTICS
 
 | Field | Record |

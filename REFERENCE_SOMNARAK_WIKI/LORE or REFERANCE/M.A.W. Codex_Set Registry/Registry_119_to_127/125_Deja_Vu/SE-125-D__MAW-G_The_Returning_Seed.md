@@ -51,7 +51,11 @@
 
 ## EFFECT FILE
 
-### Passive effect — *Weight Match*
+### Appearance
+
+The Returning Seed is a small charm of pale grey Han glass shaped like a seed split into two halves, joined at a fine seam and worn on a short cord. It is cold and closed in ordinary air and warms near a lost memory the bearer is seeking. When an Archive witness confirms consent and the bearer names why the recovered memory is needed now, the halves open and return one lost memory with exceptional clarity while temporarily displacing a present memory of equal emotional weight. The seed cannot retrieve a memory for someone who has not consented or restore a whole life, and the present payment is selected by emotional equivalence rather than preference. The two halves are closed together by the witness, and the seed is kept in a paired case with the current-time anchor card. The seed is kept in a paired case with the current-time anchor card, and Archive staff compare the consent record and possible present cost before every activation.
+
+### Passive effect— *Weight Match*
 
 The Seed warms near a lost memory the bearer is seeking, but does not promise that recovery would be safe or appropriate.
 

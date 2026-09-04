@@ -1,27 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BURDEN CHAIN">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- GIFT // BLACK CHAIN -->
   <defs>
     <radialGradient id="bge05b3e" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gle05b3e" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bge05b3e)" stroke="#c9a86a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="131" fill="url(#gle05b3e)"/>
-  <g transform="rotate(3 200.0 180.0)">
-    <circle cx="200.0" cy="180.0" r="98" fill="#c9a86a" fill-opacity=".16" stroke="#c9a86a" stroke-width="3"/>
-    <circle cx="200.0" cy="180.0" r="53.9" fill="none" stroke="#c9a86a" stroke-width="1.6" opacity=".8"/>
-    <path d="M419.1 153.1 L183.8 196.2" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M297.0 153.1 L200.0 196.2" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M381.9 153.1 L213.2 196.2" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M278.4 153.1 L214.7 196.2" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M372.2 153.1 L181.5 196.2" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <circle cx="200.0" cy="180.0" r="8" fill="#c9a86a" fill-opacity=".7"/>
-    <path d="M200.0 278.0 L190.0 252.0 L210.0 252.0 Z" fill="#c9a86a" fill-opacity=".4"/>
+  <circle cx="200" cy="188" r="113" fill="url(#gle05b3e)"/>
+  <g transform="rotate(4 200.0 192.0)">
+<path d="M153.0 7.0 Q190.0 -17.0 227.0 7.0" fill="none" stroke="#c9a86a" stroke-width="3"/>
+<path d="M156.0 44.0 Q193.0 20.0 230.0 44.0" fill="none" stroke="#c9a86a" stroke-width="3"/>
+<path d="M159.0 81.0 Q196.0 57.0 233.0 81.0" fill="none" stroke="#c9a86a" stroke-width="3"/>
+<path d="M162.0 118.0 Q199.0 94.0 236.0 118.0" fill="none" stroke="#c9a86a" stroke-width="3"/>
+<path d="M165.0 155.0 Q202.0 131.0 239.0 155.0" fill="none" stroke="#c9a86a" stroke-width="3"/>
+<path d="M168.0 192.0 Q205.0 168.0 242.0 192.0" fill="none" stroke="#c9a86a" stroke-width="3"/>
+<path d="M200.0 122.0 L200.0 270.0" stroke="#e0f2fe" stroke-width="1.2" opacity=".6"/>
+  </g>
+  <g transform="rotate(-16 200.0 278.0)">    <circle cx="192.0" cy="264.0" r="5" fill="none" stroke="#c9a86a" stroke-width="1.6" opacity=".45"/>
+  </g>
+  <g transform="rotate(-16 200.0 278.0)">    <circle cx="204.0" cy="264.0" r="5" fill="none" stroke="#c9a86a" stroke-width="1.6" opacity=".45"/>
+  </g>
+  <g transform="rotate(-16 200.0 278.0)">    <circle cx="216.0" cy="264.0" r="5" fill="none" stroke="#c9a86a" stroke-width="1.6" opacity=".45"/>
+  </g>
+  <g transform="rotate(-14 250.0 320.0)" opacity=".9">
+    <path d="M250.0 313.5 L250.0 326.5" stroke="#c9a86a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".45"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-G-061-01</text>
 </svg>

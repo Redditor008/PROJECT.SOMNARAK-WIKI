@@ -51,7 +51,11 @@
 
 ## EFFECT FILE
 
-### Passive effect — *Thread Sight*
+### Appearance
+
+The Crown of Tears is a small charm of blue Han glass shaped like a single tear inside a thin black frame, no larger than a coin and worn on a short cord. A faint line of light runs through the tear and sharpens when the bearer obtains consent to observe a visible bond. The frame is smooth and cold, and the tear rattles slightly when the bearer begins treating relationships as data points. It reveals bonds, attachment directions, broken links, and emotional proximity, but cannot read memories, prove consent, or decide whether a person should remain in a relationship. The answer is structural rather than moral. After each use the charm is wrapped in blue cloth, and only the bonds relevant to the consented task are recorded. The charm is wrapped in blue cloth after each use, and only the bonds relevant to the consented task are listed in the record. The tear is placed face-down on the blue cloth between readings.
+
+### Passive effect— *Thread Sight*
 
 The charm reveals bonds, attachment directions, broken links, and emotional proximity. It cannot read memories, prove consent, or determine whether a person should remain in a relationship.
 

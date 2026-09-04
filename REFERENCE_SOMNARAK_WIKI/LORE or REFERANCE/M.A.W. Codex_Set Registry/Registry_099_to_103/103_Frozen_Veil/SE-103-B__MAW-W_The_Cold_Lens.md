@@ -54,7 +54,11 @@
 
 ## COMBAT FILE
 
-### Basic attack — *White Silence*
+### Appearance
+
+The Cold Lens is a pale, almost white Han-glass disc set into a thin dark frame at the top of a short handle, its face smooth and its rim edged with a bright winter line. It is cold to the touch and stays cold in any room. The lens sends a sharp Void Pierce through a target's active emotional intrusion and interrupts one manipulation pressure without declaring the target's own emotion invalid. A pale line cuts the intrusive pull across the full Pierce path when a named anchor confirms the influence is external rather than grief, anger, or consent. If the bearer uses it to avoid feeling, the lens mirrors the Void line and removes a current positive association instead. It is never cleaned with memory crystal or frozen water, and it rests in a frost-lined case between uses. Before the lens enters its frost-lined case, the bearer and anchor speak one shared memory with a sensory detail, and the lens is never cleaned with memory crystal.
+
+### Basic attack— *White Silence*
 
 The Lens sends a sharp Void Pierce through a target’s active emotional intrusion. It deals direct damage and interrupts one manipulation pressure without declaring the target’s own emotion invalid.
 

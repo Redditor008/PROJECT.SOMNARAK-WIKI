@@ -26,7 +26,11 @@
 | Maximum Amount | 4 — Stocked |
 | Echo Cost | 20 Sorrow Echoes |
 
-### Ability — Room for Mourning
+### Appearance
+
+The Tear Shroud is a deep-blue shroud of soft Han silk that drapes over the shoulders and chest in loose, rounded folds. It is cut fuller than most shrouds, with a wide hem that settles against the arms without binding. The inner lining is almost white and stays cool, while the outer surface is faintly damp to the touch even in a dry room. Along the hem, small darker patches form where the wearer has carried shared grief and fade slowly after removal. The shroud lowers direct Lament pressure while leaving the wearer able to feel and respond. In use it stays quiet and does not stiffen or cling. When the wearer removes it, the cloth is cooler than the room, and minor joy becomes difficult to reach for a long time. The shroud is aired after every vigil, and the darker patches along the hem fade only after the wearer has rested in a quiet room.
+
+### Ability— Room for Mourning
 
 The Shroud lets a bearer remain functional in shared grief fields without suppressing the emotion. It lowers direct Lament pressure while preserving the ability to feel and respond.
 

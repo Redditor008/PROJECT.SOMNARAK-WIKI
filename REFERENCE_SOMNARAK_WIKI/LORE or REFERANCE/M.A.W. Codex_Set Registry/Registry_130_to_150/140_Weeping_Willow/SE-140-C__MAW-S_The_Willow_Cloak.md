@@ -34,6 +34,10 @@ The Cloak formed from a leaf echo after a Garden visitor sat beneath the Willow 
 
 **Rejection rule:** If the Cloak is used to remain permanently unseen, it turns the wearer’s sorrow perceptible only as an absence that alarms trusted people but cannot be reached.
 
+## Appearance
+
+The Willow Cloak is a deep-blue billowing cloak of fine Han cloth with long pale tear-leaf seams that brush the floor without catching dust. It drapes from a single clasp at the throat and hangs open enough to leave the body visible, and the seams brighten only after the wearer tells a witness when they will return from private mourning. In active use the cloak softens how easily other people can read the wearer's grief while holding a quiet circle around the body, letting a vigil continue without visitors mistaking sorrow for a crisis. The cloth is light and does not cling, and the leaf seams hold a faint cool edge that catches the room's light. The wearer feels every ending nearby afterwards. It is hung near an open Garden path rather than a locked wardrobe, and a return witness names the connection before it can be sealed. If the cloak is used to remain permanently unseen, the sorrow becomes perceptible only as an absence that alarms trusted people but cannot be reached.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

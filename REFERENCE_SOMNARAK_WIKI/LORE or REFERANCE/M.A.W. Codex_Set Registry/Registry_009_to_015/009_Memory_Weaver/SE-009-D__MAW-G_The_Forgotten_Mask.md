@@ -27,7 +27,7 @@
 
 ### Appearance
 
-A small pale-glass mask with no features except two shallow eyes. When held to the face, it reflects the last person who sincerely remembered the bearer.
+The Forgotten Mask is a small pale-glass charm shaped like a face with no features except two shallow hollows where eyes would be. It is small enough to be held in one hand or carried on a chest strap, and its glass is cold, smooth, and faintly reflective. When held to the face it reflects the last person who sincerely remembered the bearer; the reflection is not the bearer's own face but a soft image of that person's certainty, and it fades as soon as it is named aloud. The two hollows never look directly back, yet they catch light from the direction of whoever is speaking. The mask feeds on the memories it prevents from being taken, so the glass grows slightly darker with each memory it absorbs. Around Archive staff, a weekly life log is required for every active Mask. In storage the mask is kept face down on a pale cloth, and the two hollows dim whenever a name is written into the life log beside it.
 
 ---
 

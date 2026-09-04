@@ -39,6 +39,10 @@
 
 **Rejection rule:** If used to expose or shame a person, the tile melts the bearer’s own reflection and makes pity from every observer feel immediate.
 
+## Appearance
+
+The Melting Reflection is a small pale mirror-tile of Han glass with a soft head-slot clasp, its face beginning clear and then gently melting at the edges whenever a nearby person is losing self-recognition. Thin ripples run across the tile where corrosive denial is pressing rather than ordinary change. The tile stays cool against the skin and the reflection in the centre remains sharp enough to read, while only the outer border becomes unclear. When the bearer asks a witness to confirm that a support response is available rather than an interrogation, the tile sharpens one erosion pattern and the team can tell whether the pressure needs grounding or withdrawal. The gift carries no Echo cost but leaves perception emotionally intrusive after a reading. It is stored face-down in soft cloth, never displayed as a warning object. If used to expose or shame someone, the tile melts the bearer's own reflection and makes every observer's pity immediate. The bearer must never define another person's correct self, and using the reading as authorization to enter someone's interior returns the erosion signal onto themselves.
+
 ## GIFT STATISTICS
 
 | Field | Record |

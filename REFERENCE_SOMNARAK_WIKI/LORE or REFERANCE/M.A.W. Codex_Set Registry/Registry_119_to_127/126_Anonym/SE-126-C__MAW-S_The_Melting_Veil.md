@@ -34,6 +34,10 @@ The Veil formed from a pale shard that stopped melting after a worker named a cu
 
 **Rejection rule:** If the suit is worn to force a person into a role, uniform, or former identity, the collar thread fades and the Veil provides no Void resistance.
 
+## Appearance
+
+The Melting Veil is a pale gossamer shroud of fine Han thread, cut long enough to fold across the shoulders and chest while softening into an almost invisible outline at the edges. Its central collar line remains clear, and a witness-held thread runs through the collar so that the current self becomes readable only when the witness speaks the bearer's chosen name. In active shelter the veil moves like a dissolving outline around the wearer, holding one minor identity-eroding pressure event without forcing the wearer to return to a former name or uniform. The cloth stays cool and nearly weightless, and the collar thread keeps the only readable mark on the garment. The wearer feels faintly absent after extended use. Between uses the bearer and witness write the chosen name on a dissolvable strip and review it beside one present self-chosen action, then remove the strip rather than filing it. If the veil is worn to force a role or former identity, the collar thread fades and Void resistance stops. The witness retains termination authority and may end use without demanding a history of every name ever used.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

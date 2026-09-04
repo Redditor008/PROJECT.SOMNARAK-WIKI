@@ -54,7 +54,11 @@ The Veil formed after a shadow chose a dim room and did not follow the worker pa
 
 ## PROTECTIVE FILE
 
-### Passive effect — *Held Room*
+### Appearance
+
+The Shadow Veil is a dark, near-opaque veil of wound Han gossamer, long enough to reach the floor when the wearer stands still, with a pale name thread running through the collar and a dark doorway hem that collects at the floor. The cloth is cool and heavy at the hem. It strongly resists Void pressure inside one witnessed location by making the room feel temporarily inhabitable rather than abandoned. When a threshold witness names the wearer and confirms an open exit, the veil repels one wave of room-to-room Void drift and returns the wearer to the visible interior boundary. If the wearer refuses the exit or the witness, the cloth turns transparent and the field disperses without protection. The veil is hung where both people can see it, never folded inside a sealed locker. The wearer and threshold witness stand on opposite sides of an open doorway and exchange the room's name, exit, and return time before the veil is hung back in view.
+
+### Passive effect— *Held Room*
 
 The Veil strongly resists Void pressure inside one witnessed location by making the room feel temporarily inhabitable rather than abandoned.
 

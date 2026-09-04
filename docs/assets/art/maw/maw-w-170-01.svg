@@ -1,26 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SILENCE HAMMER">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- WEAPON // HAMMER -->
   <defs>
     <radialGradient id="bg3267f6" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gl3267f6" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg3267f6)" stroke="#8a8f98" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="131" fill="url(#gl3267f6)"/>
-  <g transform="rotate(-9 200.0 190.0)">
-    <path d="M174.0 190.0 L189.0 112.0 L187.0 -33.0 L211.0 123.1 L226.0 190.0 Z" fill="#8a8f98" fill-opacity=".28" stroke="#8a8f98" stroke-width="3"/>
-    <path d="M200.0 190.0 L187.0 -33.0" fill="none" stroke="#e0f2fe" stroke-width="1.4" opacity=".8"/>
-    <path d="M189.4 112.0 L201.4 116.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <path d="M187.3 74.8 L199.3 78.8" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <path d="M185.1 37.6 L197.1 41.6" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <rect x="166.0" y="186.0" width="68.0" height="8" rx="3" fill="#8a8f98" fill-opacity=".5"/>
-    <rect x="193.0" y="194.0" width="14" height="46" rx="5" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-    <circle cx="200.0" cy="248.0" r="5" fill="#8a8f98" fill-opacity=".7"/>
+  <circle cx="200" cy="188" r="129" fill="url(#gl3267f6)"/>
+  <g transform="rotate(0 200.0 192.0)">
+<rect x="143.0" y="172.0" width="114.0" height="40.0" rx="6" fill="#8a8f98" fill-opacity=".22" stroke="#8a8f98" stroke-width="3"/>
+<path d="M150.0 178.0 L248.0 206.0" stroke="#e0f2fe" stroke-width="1.1" opacity=".6"/>
+<rect x="195.0" y="212.0" width="10" height="79.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
+<circle cx="200.0" cy="299.0" r="6" fill="#8a8f98" fill-opacity=".55"/>
+  </g>
+  <g transform="rotate(6 200.0 320.0)" opacity=".9">
+    <circle cx="200.0" cy="320.0" r="4.8" fill="none" stroke="#8a8f98" stroke-width="1.4" opacity=".42"/>
+  </g>
+  <g transform="rotate(12 162.0 118.0)" opacity=".9">
+    <path d="M155.3 118.0 Q162.0 111.3 168.7 118.0" fill="none" stroke="#e0f2fe" stroke-width="1.3" opacity=".42"/><path d="M157.4 121.4 Q162.0 116.3 166.6 121.4" fill="none" stroke="#e0f2fe" stroke-width="0.8" opacity=".32"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-170-01</text>
 </svg>

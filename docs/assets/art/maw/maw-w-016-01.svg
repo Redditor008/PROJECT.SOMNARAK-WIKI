@@ -1,26 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LOST LENS">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE GLASS COMPASS">
   <defs>
-    <radialGradient id="bg43bebb" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw016" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#172554"/>
+      <stop offset="100%" stop-color="#0b1020"/>
     </radialGradient>
-    <radialGradient id="gl43bebb" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".22"/>
+    <radialGradient id="gw016" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#fb7185" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="cm016" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fecdd3"/>
+      <stop offset="1" stop-color="#be123c"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg43bebb)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw016)" stroke="#fb7185" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="117" fill="url(#gl43bebb)"/>
-  <g transform="rotate(-10 200.0 190.0)">
-    <path d="M174.0 190.0 L193.0 116.2 L187.0 -21.0 L207.0 126.7 L226.0 190.0 Z" fill="#8a8f98" fill-opacity=".28" stroke="#8a8f98" stroke-width="3"/>
-    <path d="M200.0 190.0 L187.0 -21.0" fill="none" stroke="#e0f2fe" stroke-width="1.4" opacity=".8"/>
-    <path d="M189.4 116.2 L201.4 120.2" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <path d="M187.3 81.0 L199.3 85.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <path d="M185.1 45.8 L197.1 49.8" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <rect x="166.0" y="186.0" width="68.0" height="8" rx="3" fill="#8a8f98" fill-opacity=".5"/>
-    <rect x="193.0" y="194.0" width="14" height="46" rx="5" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-    <circle cx="200.0" cy="248.0" r="5" fill="#8a8f98" fill-opacity=".7"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-016-01</text>
+  <circle cx="200" cy="188" r="132" fill="url(#gw016)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0b1020" stroke="#fb7185" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#fb7185" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- COMPASS CHAKRAM: open C-ring with compass cross needle + notched blade rim -->
+  <!-- main C-ring -->
+  <path d="M200 96 A104 104 0 1 0 304 200 A104 104 0 1 0 264 120 A88 88 0 1 1 288 200 A88 88 0 1 1 200 112 Z"
+        fill="none" stroke="url(#cm016)" stroke-width="18" stroke-linejoin="round"/>
+  <!-- notch teeth -->
+  <path d="M96 120 L104 114 L112 120 M100 260 L108 254 L116 260 M196 90 L200 80 L204 90 M304 190 L312 186 L314 194"
+        fill="none" stroke="#fecdd3" stroke-width="1.6" opacity=".85"/>
+  <!-- bold compass points -->
+  <path d="M122 118 L200 188 L278 258 M278 118 L200 188 L122 258" fill="none" stroke="#fecdd3" stroke-width="1.6" opacity=".85"/>
+  <path d="M200 188 L214 172 M200 188 L186 204" stroke="#fecdd3" stroke-width="2"/>
+  <!-- pivot boss -->
+  <circle cx="200" cy="188" r="22" fill="#0b1020" stroke="#fb7185" stroke-width="2.6"/>
+  <circle cx="200" cy="188" r="8" fill="#fecdd3"/>
+  <circle cx="200" cy="188" r="2.6" fill="#0b1020"/>
+  <!-- cardinal glyphs -->
+  <circle cx="200" cy="72" r="4" fill="#fecdd3"/>
+  <circle cx="200" cy="304" r="4" fill="#fecdd3"/>
+  <circle cx="84" cy="188" r="4" fill="#fecdd3"/>
+  <circle cx="316" cy="188" r="4" fill="#fecdd3"/>
+  <!-- hang strap -->
+  <path d="M212 302 L212 322 L232 322" fill="none" stroke="#fb7185" stroke-width="2"/>
+  <circle cx="242" cy="322" r="5" fill="#f1df76"/>
 </svg>

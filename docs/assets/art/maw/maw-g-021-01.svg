@@ -1,27 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SILENCED LYRE">
   <defs>
-    <radialGradient id="bgeae926" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bg021" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gleae926" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+    <radialGradient id="g0021" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="arm021" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#0c4a6e"/>
+    </linearGradient>
+    <filter id="f021b" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgeae926)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg021)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="144" fill="url(#gleae926)"/>
-  <g transform="rotate(-13 200.0 180.0)">
-    <circle cx="200.0" cy="180.0" r="96" fill="#3e8bd5" fill-opacity=".16" stroke="#3e8bd5" stroke-width="3"/>
-    <circle cx="200.0" cy="180.0" r="52.8" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".8"/>
-    <path d="M215.8 153.6 L200.0 195.8" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M338.6 153.6 L194.5 195.8" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M399.6 153.6 L208.9 195.8" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M287.9 153.6 L213.7 195.8" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M231.7 153.6 L214.8 195.8" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <circle cx="200.0" cy="180.0" r="8" fill="#3e8bd5" fill-opacity=".7"/>
-    <path d="M200.0 276.0 L190.0 252.0 L210.0 252.0 Z" fill="#3e8bd5" fill-opacity=".4"/>
+  <circle cx="200" cy="188" r="132" fill="url(#g0021)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
+
+  <!-- calmed room -->
+  <g stroke="#38bdf8" stroke-width="1" opacity=".25">
+    <path d="M76 108 L116 108 M300 296 L336 296"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-G-021-01</text>
+
+  <!-- Silenced Lyre: open U-frame lyre, one silenced string -->
+  <!-- left arm -->
+  <path d="M150 132 L150 252 Q150 278 176 282 L176 262 Q164 258 164 248 L164 132 Z" fill="url(#arm021)" stroke="#7dd3fc" stroke-width="1.6"/>
+  <!-- right arm -->
+  <path d="M250 132 L250 252 Q250 278 224 282 L224 262 Q236 258 236 248 L236 132 Z" fill="url(#arm021)" stroke="#7dd3fc" stroke-width="1.6"/>
+  <!-- bridge -->
+  <path d="M164 274 Q200 296 236 274 L236 262 Q200 282 164 262 Z" fill="#082f49" stroke="#7dd3fc" stroke-width="2"/>
+  <!-- top crossbar -->
+  <path d="M150 132 L250 132" stroke="#7dd3fc" stroke-width="3"/>
+  <path d="M140 132 L150 132 M250 132 L260 132" stroke="#7dd3fc" stroke-width="2"/>
+  <!-- strings -->
+  <path d="M172 136 L172 268 M200 136 L200 278 M228 136 L228 268" stroke="#38bdf8" stroke-width="1.4" opacity=".8"/>
+  <!-- one silenced string (broken line) -->
+  <path d="M186 136 L186 204 M186 220 L186 268" stroke="#f1df76" stroke-width="2" stroke-dasharray="6 5"/>
+  <circle cx="186" cy="136" r="4" fill="#f1df76"/>
+  <!-- calm halo -->
+  <circle cx="200" cy="200" r="92" fill="none" stroke="#38bdf8" stroke-width="1" opacity=".4" filter="url(#f021b)"/>
 </svg>

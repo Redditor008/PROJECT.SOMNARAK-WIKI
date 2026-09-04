@@ -54,7 +54,11 @@ The Shroud formed alongside the Requiem after a Scar team completed a route acco
 
 ## PROTECTIVE FILE
 
-### Passive effect — *Two Banks*
+### Appearance
+
+The I Alone Crossed Shroud is a deep-blue shroud of wound Han silk with a thin gap in the weave along the centre, and a far-side marker set into the inner lining near the left shoulder. The cloth is light and cool and lies flat when open. It resists direct Lament pressure while the wearer remains connected to a named team on both sides of a route, not isolated at its centre. When the route partner confirms the return direction, the shroud holds one sudden Lament surge away from the team long enough for all named members to retreat together. If the wearer crosses past the partner after the abort, the marker vanishes and all remaining Lament impact reaches them normally. The cloth is laid across a route map with both departure and return lines visible before folding. The shroud is laid across a completed route map with both departure and return lines visible, and the bearer and partner trace the return line together before folding it.
+
+### Passive effect— *Two Banks*
 
 The Shroud resists direct Lament pressure while the wearer remains connected to a named team on both sides of a route, not isolated at its center.
 

@@ -54,7 +54,11 @@ The Veil coalesced after the Saint released a worker’s stated grief without ta
 
 ## PROTECTIVE FILE
 
-### Passive effect — *Name Within*
+### Appearance
+
+The Hollow Veil is a pale, close-cut veil of fine Han gossamer that hangs from the crown to the collarbone in a single straight drape, its inner lining marked with a faint outline of the wearer's own shape. The cloth is almost invisible in clear air and gathers a grey haze under Void pressure. It resists Void effects while the wearer retains a stated distinction between self, witness, and source, protecting identity without making the wearer emotionally invulnerable. A pale boundary can form between the wearer and a second person when they name their separate roles, deflecting a single reaching pull. If the wearer says I will take it all, the boundary reverses and the veil draws them toward numbness. The collar stays warm during a healthy session and goes cold when a helper role is being demanded beyond choice. The veil is laid flat after a session, and the collar stays warm for as long as the stated distinction between self and witness remains intact.
+
+### Passive effect— *Name Within*
 
 The Veil resists Void pressure while the wearer retains a stated distinction between self, witness, and source. It protects identity; it does not make the wearer emotionally invulnerable.
 

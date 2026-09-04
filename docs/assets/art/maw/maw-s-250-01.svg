@@ -1,24 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MEMORY UMBRELLA">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- SUIT // PLATE -->
   <defs>
     <radialGradient id="bg52b108" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gl52b108" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg52b108)" stroke="#3e8bd5" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="141" fill="url(#gl52b108)"/>
-  <g transform="rotate(13 200.0 190.0)">
-    <path d="M125.0 173.4 L170.0 144.35 L188.0 127.75 L212.0 127.75 L230.0 144.35 L275.0 173.4 L256.25 235.65 L200.0 268.4 L143.75 235.65 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
-    <path d="M143.8 160.9 L256.2 160.9" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".7"/>
-    <circle cx="200.0" cy="196.0" r="14" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
-    <circle cx="200.0" cy="196.0" r="8" fill="#3e8bd5" fill-opacity=".5"/>
-    <path d="M180.0 202.4 L220.0 208.4" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
-    <path d="M180.0 218.4 L220.0 224.4" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".55"/>
+  <circle cx="200" cy="188" r="109" fill="url(#gl52b108)"/>
+  <g transform="rotate(7 200.0 192.0)">
+<path d="M112.0 171.4 L159.5 134.3 L182.0 111.7 L218.0 111.7 L240.5 134.3 L288.0 171.4 L268.6 245.6 L200.0 276.5 L131.4 245.6 Z" fill="#3e8bd5" fill-opacity=".22" stroke="#3e8bd5" stroke-width="3"/>
+<path d="M131.4 161.1 L268.6 161.1" stroke="#3e8bd5" stroke-width="1.5" opacity=".6"/>
+<circle cx="200.0" cy="198.0" r="19.0" fill="none" stroke="#e0f2fe" stroke-width="1.8" opacity=".72"/>
+<circle cx="200.0" cy="198.0" r="8.0" fill="#3e8bd5" fill-opacity=".5"/>
+  </g>
+  <g transform="rotate(-1 148.0 112.0)" opacity=".9">
+    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  </g>
+  <g transform="rotate(5 252.0 96.0)" opacity=".9">
+    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
+  </g>
+  <g transform="rotate(-14 200.0 82.0)" opacity=".9">
+    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
+  </g>
+  <g transform="rotate(-14 200.0 320.0)" opacity=".9">
+    <circle cx="200.0" cy="320.0" r="4.8" fill="none" stroke="#3e8bd5" stroke-width="1.4" opacity=".42"/>
+  </g>
+  <g transform="rotate(-14 250.0 320.0)" opacity=".9">
+    <path d="M250.0 313.5 L250.0 326.5" stroke="#3e8bd5" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#3e8bd5" stroke-width="2" opacity=".45"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-S-250-01</text>
 </svg>

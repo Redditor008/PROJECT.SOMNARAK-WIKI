@@ -1,27 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FORGOTTEN MASK">
   <defs>
-    <radialGradient id="bgg009" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bg009" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#082f49"/>
+      <stop offset="100%" stop-color="#020617"/>
     </radialGradient>
-    <radialGradient id="glg009" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#67e8f9" stop-opacity=".22"/>
+    <radialGradient id="g0009" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#67e8f9" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgg009)" stroke="#67e8f9" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg009)" stroke="#67e8f9" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#glg009)"/>
-  
-  <!-- featureless pale-glass mask object; two shallow hollows, not a face -->
-  <ellipse cx="200" cy="188" rx="92" ry="110" fill="#ecfeff" fill-opacity=".12" stroke="#67e8f9" stroke-width="3.2"/>
-  <ellipse cx="166" cy="176" rx="16" ry="10" fill="none" stroke="#a5f3fc" stroke-width="2.4"/>
-  <ellipse cx="234" cy="176" rx="16" ry="10" fill="none" stroke="#a5f3fc" stroke-width="2.4"/>
-  <path d="M200 86 L200 64" stroke="#67e8f9" stroke-width="4"/>
-  <circle cx="200" cy="58" r="8" fill="none" stroke="#f1df76" stroke-width="2"/>
-    
-  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#67e8f9" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#67e8f9" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">GIFT // FEATURELESS GLASS</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE FORGOTTEN MASK</text>
+  <circle cx="200" cy="188" r="132" fill="url(#g0009)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#020617" stroke="#67e8f9" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#67e8f9" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">GIFT</text>
+
+  <!-- Forgotten Mask: pale oval woven mask with criss-cross seams -->
+  <ellipse cx="200" cy="196" rx="92" ry="118" fill="#082f49" stroke="#a5f3fc" stroke-width="3"/>
+  <ellipse cx="200" cy="196" rx="82" ry="108" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".55"/>
+  <path d="M134 154 L266 240 M266 154 L134 240" stroke="#e0f2fe" stroke-width="2"/>
+  <path d="M152 140 L248 216 M248 140 L152 216" stroke="#e0f2fe" stroke-width="1.2" opacity=".6"/>
+  <path d="M152 254 L248 178 M248 254 L152 178" stroke="#e0f2fe" stroke-width="1.2" opacity=".6"/>
+  <!-- gear ring -->
+  <circle cx="200" cy="196" r="40" fill="none" stroke="#a5f3fc" stroke-width="1.2" opacity=".6" stroke-dasharray="4 4"/>
+  <!-- wearing cord + rings + hooks -->
+  <path d="M200 82 L200 44" stroke="#a5f3fc" stroke-width="2.4"/>
+  <circle cx="200" cy="40" r="11" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="40" r="3.4" fill="#f1df76"/>
+  <path d="M148 96 L148 118 M252 96 L252 118" stroke="#a5f3fc" stroke-width="2"/>
+  <circle cx="136" cy="126" r="8" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="264" cy="126" r="8" fill="none" stroke="#f1df76" stroke-width="2"/>
+  <path d="M120 160 L138 172 M280 160 L262 172" stroke="#a5f3fc" stroke-width="2"/>
 </svg>

@@ -21,7 +21,11 @@
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Hollow Knight source record |
 
-### Ability — Take the Post
+### Appearance
+
+The Duty Shield is a small shield pendant of dark crimson Han glass, shaped like a rounded buckle with a raised rim and a short black loop for a cord. It is light and cold and rests against the bearer's chest. Once per encounter it intercepts one direct attack intended for a declared protected person, and the rim glows a dull red at the moment of interception. The bearer cannot retreat until the protected person is formally relieved, reaches safety, or explicitly refuses the protection. Afterward the glass stays warm and the bearer feels every fear the protected person hid during the encounter. It does not tell the bearer when the other person has already become safe, so it often keeps a bearer standing after the task has actually ended. The shield is kept on its cord until the protected person is relieved or safe, and the glass does not cool until that handover is spoken aloud.
+
+### Ability— Take the Post
 
 Once per encounter, the Shield intercepts one direct attack intended for a declared protected person.
 

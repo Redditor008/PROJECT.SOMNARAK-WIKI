@@ -30,6 +30,10 @@
 | **Maximum Amount** | 5 — Abundant |
 | **Echo Cost** | 10 Sorrow Echoes |
 
+### Appearance
+
+The Listening Shroud is a light deep-blue shroud of thin Han fabric that wraps around the neck and shoulders without reaching the knees. Its weave is exceptionally fine, almost translucent, and long-use pieces develop faint pale lines that follow the pattern of the voices most often heard. The shroud does not block ordinary sound; it reduces overlapping whisper noise so that a single voice can be isolated from a connected wall system. When the wearer selects one voice, the others do not disappear; they become a delayed chorus that returns after the shroud is removed. The cloth stays cool against the throat and warms only where the chosen voice is strongest. Removed at the end of a shift, it leaves the wearer attentive to grief rather than to ordinary conversation, and long-term archivists report dreaming in voices that are not their own. The weave closes along the collar after each use, and a careful archivist can read the last voice held there before it fades.
+
 ### Protective Ability — Clear Channel
 
 The Shroud reduces overlapping whisper noise and lets the wearer isolate one voice in a connected wall system.

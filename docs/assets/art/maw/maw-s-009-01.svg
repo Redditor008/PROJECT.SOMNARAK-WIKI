@@ -1,25 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FORGOTTEN VEIL">
   <defs>
-    <radialGradient id="bgs009" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bs009" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#082f49"/>
+      <stop offset="100%" stop-color="#020617"/>
     </radialGradient>
-    <radialGradient id="gls009" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#67e8f9" stop-opacity=".22"/>
+    <radialGradient id="gs009" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#67e8f9" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgs009)" stroke="#67e8f9" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bs009)" stroke="#67e8f9" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#gls009)"/>
-  
-  <!-- nearly transparent veil; outline fading — no wearer, no face -->
-  <path d="M128 96 C186 64 230 64 276 100 L292 236 C240 270 150 270 112 236 Z" fill="#67e8f9" fill-opacity=".08" stroke="#67e8f9" stroke-width="2.2" stroke-dasharray="3 7"/>
-  <path d="M148 120 C190 96 230 96 258 122" fill="none" stroke="#a5f3fc" stroke-width="1.6" opacity=".45"/>
-  <path d="M140 180 C200 160 240 200 270 180" fill="none" stroke="#22d3ee" stroke-width="1.4" opacity=".35"/>
-    
-  <rect x="18" y="18" width="230" height="26" rx="3" fill="#090d16" stroke="#67e8f9" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#67e8f9" font-family="Impact, Arial Black, sans-serif" font-size="11" letter-spacing="1.5">SUIT // FADING OUTLINE</text>
-  <rect x="18" y="354" width="364" height="28" rx="3" fill="#090d16" stroke="#f1df76" stroke-width="1.2"/>
-  <text x="200" y="373" text-anchor="middle" fill="#f8fafc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="1.6">THE FORGOTTEN VEIL</text>
+  <circle cx="200" cy="188" r="132" fill="url(#gs009)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#020617" stroke="#67e8f9" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#67e8f9" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">SUIT</text>
+
+  <!-- Forgotten Veil: staggered curtain veil, layered shingles -->
+  <path d="M104 128 L296 128 L304 166 L284 190 L300 226 L272 258 L252 244 L232 278 L200 258 L178 268 L156 240 L136 254 L118 210 L96 184 Z"
+        fill="#0c4a6e" stroke="#a5f3fc" stroke-width="3"/>
+  <path d="M130 150 L270 150 M112 178 L288 178 M122 206 L278 206" stroke="#67e8f9" stroke-width="1.2" opacity=".7"/>
+  <!-- shingle overlaps -->
+  <path d="M130 150 L110 184 M270 150 L290 184 M152 194 L134 232 M248 194 L266 232 M176 234 L160 264 M224 234 L240 264" stroke="#67e8f9" stroke-width="1.2" opacity=".7"/>
+  <!-- hood tie + clasp -->
+  <path d="M200 128 L200 154" stroke="#f1df76" stroke-width="2.4"/>
+  <circle cx="200" cy="124" r="5" fill="#082f49" stroke="#f1df76" stroke-width="1.8"/>
+  <rect x="188" y="162" width="24" height="14" rx="3" fill="#082f49" stroke="#f1df76" stroke-width="1.8"/>
+  <!-- curtain tread -->
+  <path d="M152 286 Q200 302 248 286" fill="none" stroke="#a5f3fc" stroke-width="1.2" opacity=".6"/>
+  <circle cx="200" cy="294" r="4" fill="#f1df76"/>
 </svg>

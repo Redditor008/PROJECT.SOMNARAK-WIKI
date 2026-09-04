@@ -39,6 +39,10 @@
 
 **Rejection rule:** If used to quiet a team without arranging rest or guard coverage, the token makes the bearer feel the team’s entire suppressed exhaustion at once.
 
+## Appearance
+
+The Sleeping Breath is a dark breath-token of Han metal, small and round, that cools and warms with a slow quiet rhythm like breathing. It hangs from a short cord and can be held in the palm or worn at the chest. When a guard plan, wake plan, and relief rotation have been verified, the token releases one deep exhale through the bearer's immediate field, briefly softening every sound and letting a team reset breath, attention, and panic without losing the assigned watch. The token stays dormant if the bearer has no plan for who will guard the people receiving calm. It carries no Echo cost and grants one short restorative calm interval per reviewed use. After the interval, the wearer feels the exhaustion of every person who had hidden fatigue to avoid reassignment. It is never worn through a full unreviewed shift, and the reviewer covers the token and names the next rest assignment during shutdown.
+
 ## GIFT STATISTICS
 
 | Field | Record |

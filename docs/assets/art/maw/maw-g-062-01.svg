@@ -1,27 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE RESENTMENT GAUNTLET">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- GIFT // CRIMSON GAUNTLET CHARM -->
   <defs>
     <radialGradient id="bgfb4dee" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="glfb4dee" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgfb4dee)" stroke="#d64a4a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="143" fill="url(#glfb4dee)"/>
-  <g transform="rotate(-12 200.0 180.0)">
-    <circle cx="200.0" cy="180.0" r="76" fill="#d64a4a" fill-opacity=".16" stroke="#d64a4a" stroke-width="3"/>
-    <circle cx="200.0" cy="180.0" r="41.8" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".8"/>
-    <path d="M191.8 159.1 L190.9 192.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M186.2 159.1 L201.8 192.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M183.7 159.1 L193.6 192.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M295.3 159.1 L207.0 192.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M351.1 159.1 L213.8 192.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <circle cx="200.0" cy="180.0" r="8" fill="#d64a4a" fill-opacity=".7"/>
-    <path d="M200.0 256.0 L190.0 252.0 L210.0 252.0 Z" fill="#d64a4a" fill-opacity=".4"/>
+  <circle cx="200" cy="188" r="123" fill="url(#glfb4dee)"/>
+  <g transform="rotate(-2 200.0 192.0)">
+<path d="M200.0 129.0 L200.0 178.4" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
+<circle cx="200.0" cy="178.4" r="5" fill="#e0f2fe" opacity=".5"/>
+<path d="M168.8 184.0 Q200.0 152.0 231.2 184.0 L223.2 216.8 Q200.0 232.0 176.8 216.8 Z" fill="#d64a4a" fill-opacity=".22" stroke="#d64a4a" stroke-width="3"/>
+<path d="M184.8 200.0 L215.2 200.0" stroke="#e0f2fe" stroke-width="1.2" opacity=".6"/>
+  </g>
+  <g transform="rotate(-5 152.0 300.0)" opacity=".9">
+    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
+  </g>
+  <g transform="rotate(-14 200.0 236.0)" opacity=".9">
+    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-G-062-01</text>
 </svg>

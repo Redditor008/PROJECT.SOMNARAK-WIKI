@@ -54,7 +54,11 @@ The Veil formed during the same voluntary cache-route exchange that produced the
 
 ## PROTECTIVE FILE
 
-### Passive effect — *Overlook*
+### Appearance
+
+The Shadow Veil is a pale gossamer veil of fine Han thread, drawn over the head and shoulders in a single loose drape that ends at the collarbone. It is almost invisible in a still room and gathers a faint grey texture under Void pressure. The inner thread, written in the wearer's own hand, is threaded through the collar and holds the bearer's name and task; it glows faintly while the veil is active. Unfocused attention skims past the wearer, and the cloth provides strong Void resistance by turning an invasive recognition pull into a brief lack of notice. When a paired witness calls the name and touches the thread, the veil pulls the wearer back into shared recognition. If the wearer refuses the call, the cloth stops protecting and every resistance value reverts to normal. The veil is laid flat between shifts, and the inner thread is kept loose so that a partner can always read the wearer's name and task.
+
+### Passive effect— *Overlook*
 
 Unfocused attention skims past the wearer. The Veil provides strong Void resistance because it turns an invasive recognition pull into a controlled, temporary lack of notice.
 

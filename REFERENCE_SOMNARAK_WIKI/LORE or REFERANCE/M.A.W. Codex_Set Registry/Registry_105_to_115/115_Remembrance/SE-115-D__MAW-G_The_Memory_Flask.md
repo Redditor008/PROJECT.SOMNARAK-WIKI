@@ -51,7 +51,11 @@
 
 ## EFFECT FILE
 
-### Passive effect — *Held Moment*
+### Appearance
+
+The Memory Flask is a small round flask of dark blue Han glass with a narrow neck, a cork stopper, and a short chain worn at the side. The glass is smooth and cold, deepening in colour as a stored memory gains emotional weight. It preserves one memory against immediate decay without making recall perfectly accurate or preventing the owner's feelings about the memory from changing. When an owner or custody authority authorizes a replay and records why it is needed now, the bearer experiences the memory in full emotional and sensory detail. The flask cannot manufacture a memory, replay someone else's life for curiosity, or preserve a second moment while one remains stored. It is kept empty whenever it is not actively preserving a permitted memory, and the custody ledger is reviewed before every replay. The flask is kept empty whenever it is not preserving a permitted memory, and a memory that begins replaying on its own must be returned to Archive custody.
+
+### Passive effect— *Held Moment*
 
 The Flask preserves one memory against immediate decay. It does not make recall perfectly accurate and does not prevent the owner’s feelings about the memory from changing.
 

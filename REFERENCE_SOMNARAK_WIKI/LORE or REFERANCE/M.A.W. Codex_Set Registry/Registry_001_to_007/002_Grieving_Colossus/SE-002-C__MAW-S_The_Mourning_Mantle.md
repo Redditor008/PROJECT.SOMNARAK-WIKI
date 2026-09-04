@@ -26,7 +26,7 @@
 
 ### Appearance
 
-A black mantle woven from Han threads that hang like wet fabric without becoming heavy until the wearer approaches unmarked dead or unrecorded labor sites. Its hem collects a faint grey dust after every procession.
+The Mourning Mantle is a black draped mantle woven from Han threads that hang like wet fabric whether or not they are damp. Worn in ordinary corridors it stays light and passes almost unnoticed; the weight arrives only when the wearer approaches unmarked dead or unrecorded labor sites, and then each fold settles against the shoulders as though answering a remembered demand. The hem collects a faint grey dust after every procession, clinging in the same pattern each time, never brushing off completely. At rest the mantle's collar sits low and open, allowing the bearer to keep moving without the fabric catching. Around Colossus-route officers the cloth is standard equipment, because it does not reduce the sorrow it encounters; it simply gives the wearer enough shape to continue carrying the route's burden without collapsing under the first step. The dust never washes out entirely, and in the Archive the mantle is stored beside the route report it most often accompanied.
 
 ---
 

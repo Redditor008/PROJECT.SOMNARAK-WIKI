@@ -1,25 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="UPWELL LANTERN">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- GIFT // NO FLAME -->
   <defs>
     <radialGradient id="bgd81c4e" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gld81c4e" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgd81c4e)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgd81c4e)" stroke="#d64a4a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="120" fill="url(#gld81c4e)"/>
-  <g transform="rotate(8 200.0 180.0)">
-    <circle cx="200.0" cy="180.0" r="100" fill="#3e8bd5" fill-opacity=".16" stroke="#3e8bd5" stroke-width="3"/>
-    <circle cx="200.0" cy="180.0" r="55.0" fill="none" stroke="#3e8bd5" stroke-width="1.6" opacity=".8"/>
-    <path d="M216.5 152.5 L200.0 196.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M344.4 152.5 L194.2 196.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M259.4 152.5 L186.1 196.5" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <circle cx="200.0" cy="180.0" r="8" fill="#3e8bd5" fill-opacity=".7"/>
-    <path d="M200.0 280.0 L190.0 252.0 L210.0 252.0 Z" fill="#3e8bd5" fill-opacity=".4"/>
+  <circle cx="200" cy="188" r="114" fill="url(#gld81c4e)"/>
+  <g transform="rotate(-8 200.0 192.0)">
+<path d="M171.0 153.6 L229.0 153.6 L222.0 231.7 L178.0 231.7 Z" fill="#d64a4a" fill-opacity=".18" stroke="#d64a4a" stroke-width="3"/>
+<path d="M189.6 142.1 L210.4 142.1 L202.9 134.4 L197.1 134.4 Z" fill="#d64a4a" fill-opacity=".5"/>
+<path d="M179.7 192.0 L220.3 192.0" stroke="#e0f2fe" stroke-width="1" opacity=".55"/>
+<rect x="188.4" y="231.7" width="23.2" height="6" rx="3" fill="#d64a4a" fill-opacity=".5"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-G-565-01</text>
+  <g transform="rotate(-16 236.0 250.0)">    <path d="M200.0 278.0 C190.0 244.0, 212.0 230.0, 202.0 186.0" fill="none" stroke="#d64a4a" stroke-width="2" opacity=".55"/>
+  </g>
+  <g transform="rotate(-3 200.0 82.0)" opacity=".9">
+    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
+  </g>
+  <g transform="rotate(12 152.0 300.0)" opacity=".9">
+    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
+  </g>
+  <g transform="rotate(-14 162.0 118.0)" opacity=".9">
+    <path d="M155.3 118.0 Q162.0 111.3 168.7 118.0" fill="none" stroke="#e0f2fe" stroke-width="1.3" opacity=".42"/><path d="M157.4 121.4 Q162.0 116.3 166.6 121.4" fill="none" stroke="#e0f2fe" stroke-width="0.8" opacity=".32"/>
+  </g>
+  <g transform="rotate(-14 200.0 120.0)" opacity=".9">
+    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
+  </g>
+  <g transform="rotate(-14 152.0 312.0)" opacity=".9">
+    <path d="M152.0 309.0 L152.0 315.0" stroke="#d64a4a" stroke-width="0.7" opacity=".5"/><circle cx="152.0" cy="309.3" r="1.5" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".5"/>
+  </g>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-G-565-01</text>
 </svg>

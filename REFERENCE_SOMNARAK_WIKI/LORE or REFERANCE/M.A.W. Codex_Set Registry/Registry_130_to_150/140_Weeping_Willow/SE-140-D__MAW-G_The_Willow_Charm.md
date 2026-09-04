@@ -39,6 +39,10 @@
 
 **Rejection rule:** If used to make someone “get over” an ending, the Charm goes dark and the bearer dreams every goodbye they have avoided.
 
+## Appearance
+
+The Willow Charm is a small blue crystal leaf with a fine tear line through its centre, small enough to hang from a cord or rest in the palm. In rest it hangs still and translucent, and when the bearer and the affected person agree that one specific task, phase, or farewell has ended, the leaf swings slowly and creates a quiet marker around the completed thing. The marker stays soft and does not cast a shadow, and it gives a short calm interval for a final statement, a return of tools, a shared silence, or a deliberate goodbye. It remains still if the bearer tries to end something another person has not agreed is over. The charm carries no Echo cost and allows one voluntary closing ritual at a time. It rests beside a written closeout and one concrete continuation step, and it is never tied to an object taken from the Willow. If used to make someone get over a loss, it goes dark and the bearer dreams every goodbye avoided.
+
 ## GIFT STATISTICS
 
 | Field | Record |

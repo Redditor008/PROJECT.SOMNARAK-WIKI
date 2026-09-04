@@ -34,6 +34,10 @@ The plate formed after a burden-transfer worker returned the shared Weight to a 
 
 **Rejection rule:** If the wearer says they alone must hold the task, the fragment’s cracks spread and its Weight resistance falls to normal until a handoff is acknowledged.
 
+## Appearance
+
+The Saint's Fragment is a black fragment-plate of Han iron fitted over the chest and shoulders, its surface crossed by pale stone cracks that catch the light differently under load. The plates are unpolished and slightly warm, and the shoulder seam opens on one side for the release authority. In active bearing the cracks hold pressure in place while dark Weight lines spread from the wearer to the ground, keeping one immense impact from breaking the body for the duration of a transfer. The plate warms only when the wearer admits something they cannot safely continue carrying, and the cracks then spread toward the throat line if the wearer alone insists on holding the task. The protection lowers the wearer's capacity to keep carrying once the handoff is acknowledged. It is stored on a support stand near the release record, never polished over its cracks. If the release authority opens the shoulder seam and names the assigned task complete, the contained pressure is released from the bones rather than allowed to settle.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

@@ -27,7 +27,7 @@
 
 ### Appearance
 
-A thin blue crystal charm shaped like the edge of a broken bell clapper. It stays cold until someone nearby says a name they have avoided saying aloud.
+Lament's Edge is a thin blue crystal charm shaped like the broken clapper of a bell, narrow enough to hang from a collar loop and light enough that the bearer forgets it is there. It stays cold against the chest until someone nearby says a name they have avoided saying aloud. Then the crystal loses its chill by degrees, grows heavier, and tilts toward that person's chest without revealing the name itself; it reveals only the act of hiding it. When the name is finally spoken honestly into an official record, the charm gives a faint, soundless ring and cools again. Up close the edge of the clapper shows hairline cracks that move very slowly as the charm ages, each crack corresponding to a suppressed grief the bearer has chosen not to name. In the Deep Archive the oldest issued Edge has cracked almost entirely through, yet it still hangs cold from its cord.
 
 ---
 
@@ -49,9 +49,7 @@ The bearer hears the Bell’s midnight toll whenever they leave a child’s ques
 
 ### Gift Record — Returned Without a Name
 
-A Lament’s Edge was returned to the Archive in Year 4,236 after its bearer died during a tunnel collapse. The charm remained cold for eleven days. On the twelfth, it rang once and warmed beside an uncatalogued child’s shoe recovered from the collapse site.
-
-The name connected to the charm has not been found. The Gift remains in the Deep Archive under a blank marker rather than being reissued.
+A Lament’s Edge was returned to the Archive in Year 4,236 after its bearer died during a tunnel collapse. The charm remained cold for eleven days. On the twelfth, it rang once and warmed beside an uncatalogued child’s shoe recovered from the collapse site. The name connected to the charm has not been found. The Gift remains in the Deep Archive under a blank marker rather than being reissued.
 
 ---
 

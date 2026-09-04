@@ -51,7 +51,11 @@
 
 ## EFFECT FILE
 
-### Passive effect — *Afterheat*
+### Appearance
+
+The Trace Ember is a small iron charm holding a single red coal, with a matte cover that can be closed over the glow and a short clasp for the tail slot. The metal is dark and unpolished, and the ember burns low and steady when idle. It identifies emotional residue left by a past event, where rage pressed into a surface, route, or room, without revealing the original grievance or naming a responsible person. When the bearer declares an investigation question and a context partner confirms the evidence limit, a short red path appears through the immediate environment showing where Grudge residue was strongest. The bearer feels a piece of the traced anger and may mistake the sensation for conviction. The ember is cooled beside the context log and stored with the unknown field read aloud. The ember is cooled beside a context log after each scan, and the partner reads the unknown field aloud before the item is returned to the tail slot.
+
+### Passive effect— *Afterheat*
 
 The Ember identifies emotional residue left by a past event: where rage pressed into a surface, route, or room. It does not reveal the original grievance or identify a responsible person.
 

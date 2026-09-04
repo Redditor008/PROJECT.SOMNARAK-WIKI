@@ -1,27 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SLEEPING REFLECTION">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- GIFT // LENS -->
   <defs>
     <radialGradient id="bg6e1297" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gl6e1297" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg6e1297)" stroke="#8a8f98" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="114" fill="url(#gl6e1297)"/>
-  <g transform="rotate(11 200.0 180.0)">
-    <circle cx="200.0" cy="180.0" r="91" fill="#8a8f98" fill-opacity=".16" stroke="#8a8f98" stroke-width="3"/>
-    <circle cx="200.0" cy="180.0" r="50.1" fill="none" stroke="#8a8f98" stroke-width="1.6" opacity=".8"/>
-    <path d="M228.5 155.0 L209.1 195.0" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M338.1 155.0 L216.8 195.0" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M392.9 155.0 L185.6 195.0" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M284.8 155.0 L182.8 195.0" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M230.8 155.0 L216.5 195.0" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <circle cx="200.0" cy="180.0" r="8" fill="#8a8f98" fill-opacity=".7"/>
-    <path d="M200.0 271.0 L190.0 252.0 L210.0 252.0 Z" fill="#8a8f98" fill-opacity=".4"/>
+  <circle cx="200" cy="188" r="127" fill="url(#gl6e1297)"/>
+  <g transform="rotate(-12 200.0 192.0)">
+<ellipse cx="200.0" cy="192.0" rx="54.0" ry="68.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
+<ellipse cx="200.0" cy="192.0" rx="45.0" ry="56.0" fill="#8a8f98" fill-opacity=".18"/>
+<ellipse cx="200.0" cy="192.0" rx="36.0" ry="46.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
+<path d="M234.7 139.9 L228.9 149.1" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<path d="M249.3 164.3 L241.1 169.2" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<path d="M254.0 194.4 L245.0 194.0" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<path d="M247.7 223.9 L239.7 218.3" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<path d="M231.7 247.0 L226.5 237.3" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
+<rect x="134.0" y="186.0" width="132.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
+<rect x="194.0" y="260.0" width="12" height="31.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
+  </g>
+  <g transform="rotate(9 148.0 112.0)" opacity=".9">
+    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  </g>
+  <g transform="rotate(2 252.0 96.0)" opacity=".9">
+    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#8a8f98" opacity=".42"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-G-954-01</text>
 </svg>

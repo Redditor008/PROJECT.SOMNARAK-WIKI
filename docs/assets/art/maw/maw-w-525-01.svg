@@ -1,26 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="CENOTAPH FANG">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- WEAPON // FANG -->
   <defs>
     <radialGradient id="bg72ff8a" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gl72ff8a" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg72ff8a)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg72ff8a)" stroke="#d64a4a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="120" fill="url(#gl72ff8a)"/>
-  <g transform="rotate(-13 200.0 190.0)">
-    <path d="M174.0 190.0 L189.0 126.3 L187.0 8.0 L211.0 135.4 L226.0 190.0 Z" fill="#3e8bd5" fill-opacity=".28" stroke="#3e8bd5" stroke-width="3"/>
-    <path d="M200.0 190.0 L187.0 8.0" fill="none" stroke="#e0f2fe" stroke-width="1.4" opacity=".8"/>
-    <path d="M189.4 126.3 L201.4 130.3" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <path d="M187.3 96.0 L199.3 100.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <path d="M185.1 65.6 L197.1 69.6" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-    <rect x="166.0" y="186.0" width="68.0" height="8" rx="3" fill="#3e8bd5" fill-opacity=".5"/>
-    <rect x="193.0" y="194.0" width="14" height="46" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-    <circle cx="200.0" cy="248.0" r="5" fill="#3e8bd5" fill-opacity=".7"/>
+  <circle cx="200" cy="188" r="117" fill="url(#gl72ff8a)"/>
+  <g transform="rotate(11 200.0 192.0)">
+<path d="M186.0 192.0 C180.0 115.55, 234.0 53.0 240.0 53.0 C230.0 119.72, 220.0 144.74, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
+<path d="M196.0 184.0 C208.0 128.06, 232.0 61.0 237.0 59.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
+<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
+<rect x="193.0" y="192.0" width="14" height="46.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
+<circle cx="200.0" cy="250.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-525-01</text>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-525-01</text>
 </svg>

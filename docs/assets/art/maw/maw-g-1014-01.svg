@@ -1,27 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE IRON CHARM">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- GIFT // CHARM -->
   <defs>
     <radialGradient id="bge4915e" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gle4915e" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bge4915e)" stroke="#d64a4a" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="116" fill="url(#gle4915e)"/>
-  <g transform="rotate(-3 200.0 180.0)">
-    <circle cx="200.0" cy="180.0" r="97" fill="#d64a4a" fill-opacity=".16" stroke="#d64a4a" stroke-width="3"/>
-    <circle cx="200.0" cy="180.0" r="53.4" fill="none" stroke="#d64a4a" stroke-width="1.6" opacity=".8"/>
-    <path d="M308.8 153.3 L204.5 196.0" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M242.4 153.3 L211.6 196.0" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M208.8 153.3 L213.8 196.0" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M192.0 153.3 L196.3 196.0" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M184.0 153.3 L207.5 196.0" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <circle cx="200.0" cy="180.0" r="8" fill="#d64a4a" fill-opacity=".7"/>
-    <path d="M200.0 277.0 L190.0 252.0 L210.0 252.0 Z" fill="#d64a4a" fill-opacity=".4"/>
+  <circle cx="200" cy="188" r="133" fill="url(#gle4915e)"/>
+  <g transform="rotate(-12 200.0 192.0)">
+<path d="M200.0 121.0 L200.0 176.7" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
+<circle cx="200.0" cy="176.7" r="5" fill="#e0f2fe" opacity=".5"/>
+<path d="M164.9 183.0 Q200.0 147.0 235.1 183.0 L226.1 219.9 Q200.0 237.0 173.9 219.9 Z" fill="#d64a4a" fill-opacity=".22" stroke="#d64a4a" stroke-width="3"/>
+<path d="M182.9 201.0 L217.1 201.0" stroke="#e0f2fe" stroke-width="1.2" opacity=".6"/>
+  </g>
+  <g transform="rotate(2 148.0 112.0)" opacity=".9">
+    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  </g>
+  <g transform="rotate(8 252.0 96.0)" opacity=".9">
+    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#d64a4a" opacity=".42"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-G-1014-01</text>
 </svg>

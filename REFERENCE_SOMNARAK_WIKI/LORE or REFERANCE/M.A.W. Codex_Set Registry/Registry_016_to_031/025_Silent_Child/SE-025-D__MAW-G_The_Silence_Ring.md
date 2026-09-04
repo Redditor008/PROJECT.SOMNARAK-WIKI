@@ -23,7 +23,11 @@
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Silent Child source record |
 
-### Ability — Shared Quiet
+### Appearance
+
+The Silence Ring is a pale glass ring, smooth and cold, no wider than a fingertip and shaped so that its inner face is slightly flattened against the skin. The glass is almost transparent, with a thin band of pale grey suspended through the centre. When the bearer calls a quiet field, the grey band brightens and the ring becomes cool enough to be felt through the finger; when the field ends, it slowly dims to its ordinary colour. The ring is worn on the off hand, where its small weight is easy to forget. Around a willing person it creates a ten-second pocket of quiet that blocks disruptive sound but does not stop writing, touch, or agreed signals. The bearer cannot raise their voice above a whisper until the next rest period, and the glass stays faintly warm until then. The ring is polished on the inner face only, and the grey band drifts slowly toward the side nearest the person being given quiet.
+
+### Ability— Shared Quiet
 
 Once per shift, the bearer may create a ten-second quiet field around a willing person or small group. The field blocks disruptive sound but does not prevent intentional communication by writing, touch, or agreed signal.
 

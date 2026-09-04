@@ -34,6 +34,10 @@ The Shroud formed after Rem completed one repeating image and the worker chose t
 
 **Rejection rule:** A wearer who extends the Dream interval without consent finds the Shroud’s Lament protection fade while waking memories become less vivid.
 
+## Appearance
+
+The Warm Shroud is a soft deep-blue shroud of fine Han weave with a subtle warmth at the inner collar that never quite reaches the skin, and a thin wake-cue thread woven into the collar. In active use the fabric produces a faint room-like outline around the wearer, preserving the waking body's boundary inside a Dream while leaving the face and hands uncovered. The cloth settles closely over the shoulders and upper arms and stays cool along the hem, so the wearer can feel the difference between the memory-room and the current room. The wake-cue thread responds to the anchor's voice and pulls the wearer's attention back through one Dream-loop escalation while the anchor holds a set maximum interval. Minor joys grow numb after too many shelters, and the wearer must accept a mandatory break from Dream work when the loss becomes measurable. Between uses it is aired under ordinary light. If the wearer extends the interval without consent, Lament protection fades while waking memories become less vivid.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

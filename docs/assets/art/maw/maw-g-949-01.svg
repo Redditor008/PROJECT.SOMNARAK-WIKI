@@ -1,25 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MISMATCHED EYE">
+  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
+  <!-- GIFT // EYE -->
   <defs>
     <radialGradient id="bg1803d8" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
     <radialGradient id="gl1803d8" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#777777" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#777777" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg1803d8)" stroke="#777777" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gl1803d8)"/>
-  <g transform="rotate(-10 200.0 180.0)">
-    <circle cx="200.0" cy="180.0" r="74" fill="#777777" fill-opacity=".16" stroke="#777777" stroke-width="3"/>
-    <circle cx="200.0" cy="180.0" r="40.7" fill="none" stroke="#777777" stroke-width="1.6" opacity=".8"/>
-    <path d="M350.2 159.7 L194.9 192.2" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M265.9 159.7 L204.6 192.2" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <path d="M333.7 159.7 L198.0 192.2" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".75"/>
-    <circle cx="200.0" cy="180.0" r="8" fill="#777777" fill-opacity=".7"/>
-    <path d="M200.0 254.0 L190.0 252.0 L210.0 252.0 Z" fill="#777777" fill-opacity=".4"/>
+  <circle cx="200" cy="188" r="117" fill="url(#gl1803d8)"/>
+  <g transform="rotate(-6 200.0 192.0)">
+<path d="M136.0 192.0 Q200.0 161.0 264.0 192.0 Q200.0 223.0 136.0 192.0 Z" fill="#777777" fill-opacity=".16" stroke="#777777" stroke-width="3"/>
+<circle cx="200.0" cy="192.0" r="17.0" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".7"/>
+<circle cx="200.0" cy="192.0" r="4" fill="#e0f2fe" opacity=".55"/>
+  </g>
+  <g transform="rotate(-12 148.0 112.0)" opacity=".9">
+    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  </g>
+  <g transform="rotate(9 252.0 96.0)" opacity=".9">
+    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#777777" opacity=".42"/>
   </g>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#777777">MAW-G-949-01</text>
 </svg>

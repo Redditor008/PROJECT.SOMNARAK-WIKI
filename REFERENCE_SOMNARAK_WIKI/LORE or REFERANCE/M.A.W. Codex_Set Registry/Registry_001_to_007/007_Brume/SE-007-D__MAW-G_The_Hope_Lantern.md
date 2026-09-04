@@ -27,7 +27,7 @@
 
 ### Appearance
 
-A thumb-sized pale-glass lantern with no visible fuel. Its flame is white, not warm. The light points forward only when the bearer can answer where forward is supposed to lead.
+The Hope Lantern is a thumb-sized pale-glass lantern with no visible fuel and no opening for a wick. Its flame is white rather than warm, barely larger than a fingertip, and it burns steadily without consuming anything. The light points forward only when the bearer can answer where forward is supposed to lead; if the bearer hesitates, the flame drifts sideways and dims instead of brightening. The glass case is held by a thin black frame with a small ring for a cord, and the whole charm presses coolly against the palm. In Brume it becomes the brightest object within a short radius, yet it does not illuminate the fog itself. When it identifies a reachable physical anchor, the flame leans toward rope, wall, teammate, shelter, or exit without explaining why. It promises nothing beyond the next step. The frame is dark and unpolished, and when the flame refuses to point the whole lantern feels lighter, as though hope had already left the glass.
 
 ---
 
@@ -47,9 +47,7 @@ The flame draws from the bearer’s own hope. After use, the bearer feels emotio
 
 ## HISTORY OF USE
 
-A Hope Lantern was carried by a Warden who became separated from her squad during the Long White Drift. The Lantern did not show the wall. It showed a handprint left on a stone by a trainee who had passed through earlier. The Warden followed the handprint, found the trainee alive, and both reached the wall before dawn.
-
-The Lantern’s recorded note reads: *It did not promise home. It showed the next person.*
+A Hope Lantern was carried by a Warden who became separated from her squad during the Long White Drift. The Lantern did not show the wall. It showed a handprint left on a stone by a trainee who had passed through earlier. The Warden followed the handprint, found the trainee alive, and both reached the wall before dawn. The Lantern’s recorded note reads: *It did not promise home. It showed the next person.*
 
 ---
 
