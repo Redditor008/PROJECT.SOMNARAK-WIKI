@@ -16,6 +16,10 @@ A pale Han-gossamer veil with one witness outline and a silent empty field. Bind
 
 Iseulfros wore it while anti-sound spread through the Commons. The Veil preserved her as observer while current speech vanished; she recorded the boundary without attributing content.
 
+## Appearance
+
+The Vanished Veil is a pale veil of Han gossamer bearing one witness outline beside a silent empty field — the shape of someone still present, stitched next to the shape of everything that is gone. Binding requires an external written identity anchor, kept outside the field. Worn in an erasure field it resists identity and record loss — in its recorded case preserving the wearer as observer while anti-sound spread through the Commons and current speech vanished; she recorded the boundary without attributing content. The cost is faint self-absence, the observer thinned by what she observes. A witness speaking for the erased group is the first failure — testimony invented on behalf of the silenced; all silence treated as suppression is the second; and the written anchor edited during exposure is the third, the one fixed point allowed to drift. It is maintained by comparing pre- and post-field records while leaving unknown content blank. The outline and the empty field never touch on the cloth; the moment they merge, the witness has entered the erasure and the record has lost its last outside line.
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 | 0.8 | 0.3 | 1.1 | 3 / 35 Echoes |

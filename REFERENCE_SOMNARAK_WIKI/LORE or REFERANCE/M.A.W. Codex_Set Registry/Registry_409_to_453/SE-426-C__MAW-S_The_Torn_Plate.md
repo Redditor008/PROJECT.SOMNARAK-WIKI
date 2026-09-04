@@ -16,6 +16,10 @@ A crimson Han-iron harness split around an empty identity space. Binding require
 
 Iseulfros wore it while Hollowcast rage surged. The Plate preserved physical continuity, but reflexes dulled whenever others tried to comfort through invented memories.
 
+## Appearance
+
+The Torn Plate is a crimson harness of Han iron split around an empty identity space — armor built as a ring of protection around a center it refuses to fill. Binding requires present body, name, consent, and objective anchors: four facts of now, no facts of then. In the field it protects present form without filling missing identity — in its recorded case preserving physical continuity through a Hollowcast rage surge, though reflexes dulled whenever others tried to comfort through invented memories, the armor stiffening against kindness built on fabrication. The empty center filled with biography is the first failure — the space packed with story until the armor fits a fiction; the body treated as the only self is the second, presence mistaken for completeness; and resentment armor suppressing curiosity is the third, the plates hardening against even honest questions about the gap. It is maintained by verifying current anchors and leaving every memory field blank — the checklist confirms who is standing here now and declines, every time, to speculate about who they were. The split in the harness is not damage; it is the only honest shape armor can take around an unknown.
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 | 0.4 | 1.8 | 1.2 | 4 / 20 Echoes |
