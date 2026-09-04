@@ -190,3 +190,22 @@ Batch-9 additions (2026-09-05, NEW OWNER RULING: some M.A.W. items may take NON-
 | MAW-W-329 The Melting Lens | Half-Melted Lorgnette Lens (rim sharp on the honest-ruin side, sagging and dripping on the facade side, dashed true-circle ghost, protected footprint line) | Short (source: 2 — Short) |
 
 Batch-9 form notes: first two NON-WEAPON forms enter the set under the owner's ruling — a chalice (W-280) and a hand lantern (W-301), both with Appearance text updated in md and html per the parity rule; the lens family gains gimbaled-compass, prong-instrument, fracture-split, and half-melted variants; the maul family gains wall-plate, cube-recess, and fused-hailstone heads; the fang family gains retreat-channel and empty-knot variants.
+
+Batch-10 additions (2026-09-05, full standard incl. non-weapon forms where the story fits):
+
+| Item | Archetype (researched variant) | Band (source) |
+| --- | --- | --- |
+| MAW-W-330 The Frozen Maul | Window-Face Maul (head is a frost pane preserving a farewell mid-step, frost ferns, dashed prohibition ring over the image, route-endpoint plate) | Short (source: 2 — Short) |
+| MAW-W-339 The Fallen Requiem | Crack-Stair Greatblade (left edge follows a stepped crack profile, fracture map etched as evidence, evacuation-marker anchor, documentation tag) | Medium (source: 3 — Medium) |
+| MAW-W-340 The Silence Hammer | Glass Dome Anti-Sound Hammer (translucent dome head, waveforms dying to a flatline core, dashed muted-field radius, one gold isolated signal path, crossed-out voice mark at the butt) | Short (source: 2 — Short) |
+| MAW-W-357 The Absent Fang | Missing-Section Fang (solid lower blade, dashed ghost outline where the middle section is absent, solid tip returning, torn false-explanation label cut away) | Short (source: 2 — Short) |
+| MAW-W-369 Susurruss Requiem | Shard-Scale-Edge Blade (edge made of separate overlapping flakes, unassembled word fragments drifting off, intact gold plea-line kept beneath) | Medium (source: 3 — Medium) |
+| MAW-W-371 The Vanished Lens | Annulus Lens (glass ring with a REAL hole at center, thick dashed erasure band orbiting the blank, three deletion paths severed at the ring, deletion-record tick) | Medium (source: 3 — Medium) |
+| MAW-W-373 The Spreading Requiem | Delta-Fork Blade (tip splits into three river mouths, etched river system carrying moisture beads on every branch, consent seal, tears at both ends) | Medium (source: 3 — Medium) |
+| MAW-W-374 The Sleeping Fang | Root-Curve Fang (sinuous grown-root silhouette, dormant wood grain, bark plates, closed root-knot eyes, severed green invasive roots, dashed source-clench beyond the tip) | Short (source: 2 — Short) |
+| MAW-W-378 The Drowned Requiem | NON-WEAPON: Crystal Diving Bell (level interior waterline, preserved call rippling beneath it, bubbles flattening at the line, muffled waves at the rim, severed pressure column outside, coordinates tag) | Short (source: 2 — Short) |
+| MAW-W-392 The Rising Hammer | Reflection-First Hammer (dashed ghost head RISING above the real head with rise arrows between, mirror wall line, erased-name strike beyond it, untouched dashed district-face) | Short (source: 2 — Short) |
+| MAW-W-407 The Lingering Lens | Torch-Staff Lens (lens carried aloft on a long staff, the blank center BURNS with flame tongues and an ember ring, unmarked coordinates, memory motes leaving) | Long (source: 10–15) |
+| MAW-W-409 The Empty Lens | A-Frame Stress Pane (triangular glass in a builder's A-frame with plumb line, pillar-shaped dashed blank, load-lines straining around the absence, untouched worker mark) | Medium (source: 3 — Medium) |
+
+Batch-10 form notes: third non-weapon form enters the set (W-378 diving bell); the lens family gains annulus (true hole), torch-staff, and A-frame triangular pane builds; the fang family gains missing-section and root-curve variants; the hammer family gains glass anti-sound dome and reflection-first ghost-head builds; the requiem blades gain crack-stair, shard-scale-edge, and delta-fork geometries.

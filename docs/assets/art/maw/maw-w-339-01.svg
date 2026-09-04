@@ -1,38 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FALLEN REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg69420d" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw339" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl69420d" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl339" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg69420d)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw339)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="123" fill="url(#gl69420d)"/>
-  <g transform="rotate(-2 200.0 192.0)">
-<path d="M188.0 192.0 L194.96 94.08 L200.0 56.0 L205.04 102.24 L212.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 56.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="194.0" y="113.1" width="12.0" height="57.1" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="178.0" y="187.0" width="44.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="41.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="249.0" r="6.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(-6 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(11 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <g transform="rotate(-14 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <g transform="rotate(-14 200.0 236.0)" opacity=".9">
-    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-339-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- tall greatblade, slight lean; the left edge is a stepped CRACK PROFILE -->
+  <path d="M172 348 L158 344 L154 330 L162 300 L154 296 L160 268 L150 262 L158 232 L150 226 L158 196 L152 190 L162 158 L156 152 L168 118 L180 84 C 186 70, 198 62, 210 66 L 226 74 L 232 322 L 218 342 Z"
+        fill="url(#bl339)" stroke="#38bdf8" stroke-width="2.6"/>
+  <!-- crack-stair edge highlight -->
+  <path d="M158 340 L156 330 L164 300 L156 296 L162 268 L152 262 L160 232 L152 226 L160 196 L154 190 L164 158 L158 152 L170 118 L182 86" fill="none" stroke="#e0f2fe" stroke-width="1.8"/>
+  <!-- right true edge -->
+  <path d="M228 78 L234 318" stroke="#1e3a5f" stroke-width="2.2"/>
+  <!-- THE FRACTURE MAP etched down the flat: branching wall cracks, kept as evidence -->
+  <path d="M196 92 L192 132 L198 168 L190 204 L196 242 L188 278 L194 314" fill="none" stroke="#12233d" stroke-width="2.6"/>
+  <path d="M192 132 L178 146 M198 168 L212 180 M190 204 L176 214 M196 242 L212 252 M188 278 L174 288" fill="none" stroke="#12233d" stroke-width="1.8"/>
+  <path d="M178 146 L172 158 M212 180 L218 192 M176 214 L170 224" fill="none" stroke="#12233d" stroke-width="1.3"/>
+  <!-- three collapse lines severed from the anchor -->
+  <path d="M212 252 L224 262 M174 288 L162 298 M218 192 L228 200" stroke="#3b5f88" stroke-width="1.6" stroke-dasharray="3 3"/>
+  <path d="M216 256 L224 248 M170 292 L162 284 M222 194 L228 186" stroke="#f1df76" stroke-width="2.2"/>
+  <!-- the realistic anchor: evacuation marker mark held on the flat -->
+  <path d="M206 300 L214 300 L210 292 Z" fill="none" stroke="#f1df76" stroke-width="1.8"/>
+  <circle cx="210" cy="304" r="1.6" fill="#f1df76"/>
+  <!-- documentation tag near the guard: nobody called it safe -->
+  <rect x="196" y="326" width="30" height="13" rx="2" fill="#050a14" stroke="#7dd3fc" stroke-width="1.4"/>
+  <path d="M201 332 L221 332" stroke="#7dd3fc" stroke-width="1.1"/>
+  <!-- song lines off the intact edge -->
+  <path d="M244 110 C 252 104, 260 102, 268 104 M246 150 C 254 144, 262 142, 270 144" fill="none" stroke="#7dd3fc" stroke-width="1.4" opacity=".7"/>
+  <!-- guard + two-hand grip -->
+  <path d="M150 352 L242 346" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
+  <path d="M196 354 L200 392" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
+  <path d="M190 362 L206 362 M190 372 L206 372 M191 382 L207 382" stroke="#60a5fa" stroke-width="2.2"/>
 </svg>

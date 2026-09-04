@@ -1,35 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="SUSURRUS’S REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="SUSURRUSS REQUIEM">
   <defs>
-    <radialGradient id="bgd6bdce" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw369" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gld6bdce" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl369" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgd6bdce)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw369)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="125" fill="url(#gld6bdce)"/>
-  <g transform="rotate(12 200.0 192.0)">
-<path d="M186.0 192.0 L194.12 89.04 L200.0 49.0 L205.88 97.61999999999999 L214.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 49.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="193.0" y="109.1" width="14.0" height="60.1" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="176.0" y="187.0" width="48.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="50.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="258.0" r="7.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(10 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(-5 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <g transform="rotate(-14 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-369-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- slender blade, diagonal up-right; the edge is SEPARATE SHARD SCALES, not one line -->
+  <path d="M130 322 L120 310 C 156 288, 190 258, 218 222 C 242 192, 262 160, 286 134 C 296 124, 310 122, 318 130 C 326 138, 322 152, 312 160 C 286 180, 264 208, 244 240 C 222 274, 186 304, 146 328 Z"
+        fill="url(#bl369)" stroke="#38bdf8" stroke-width="2.6"/>
+  <path d="M128 314 C 164 292, 196 262, 224 228 C 248 198, 268 168, 290 144" fill="none" stroke="#1e3a5f" stroke-width="2"/>
+  <!-- shard-scale edge: overlapping separate flakes along the cutting side -->
+  <path d="M140 322 L152 310 L158 320 Z M160 306 L172 294 L178 306 Z M180 288 L192 276 L198 288 Z M200 268 L212 254 L218 268 Z M220 244 L230 230 L238 244 Z M240 218 L250 204 L258 218 Z M260 192 L270 178 L278 192 Z"
+        fill="#7dd3fc" stroke="#0a1626" stroke-width="1.4"/>
+  <!-- wet edge droplets -->
+  <path d="M156 324 C 154 328, 154 332, 156 335 M218 272 C 216 276, 216 280, 218 283 M276 196 C 274 200, 274 204, 276 207" fill="none" stroke="#7dd3fc" stroke-width="1.4"/>
+  <!-- UNASSEMBLED WORD FRAGMENTS drifting off the edge — never forming a line -->
+  <path d="M170 262 L178 260 M186 250 L190 254 M206 232 L214 232" stroke="#e0f2fe" stroke-width="2"/>
+  <path d="M232 200 L238 196 L236 204 M256 172 L264 172 M270 154 L274 160" stroke="#93c5fd" stroke-width="1.8"/>
+  <path d="M188 240 C 186 244, 187 247, 190 248 M248 182 C 246 186, 247 189, 250 190" fill="none" stroke="#60a5fa" stroke-width="1.3" opacity=".8"/>
+  <!-- the intact plea kept beneath: unbroken grief-line low on the flat -->
+  <path d="M158 300 C 190 280, 220 254, 246 224" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <!-- witness notch at the guard: listened, did not finish the sentence -->
+  <path d="M126 306 L114 298 L120 312" fill="none" stroke="#7dd3fc" stroke-width="2.2"/>
+  <!-- guard + grip + weeping pommel -->
+  <path d="M104 318 L148 340" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
+  <path d="M122 342 L100 382" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
+  <path d="M120 350 L110 346 M116 362 L106 358 M112 374 L102 370" stroke="#60a5fa" stroke-width="2.4"/>
+  <path d="M96 390 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.2"/>
+  <path d="M92 396 C 89 400, 89 404, 92 407 C 95 404, 95 400, 92 396 Z" fill="#7dd3fc" opacity=".85"/>
 </svg>
