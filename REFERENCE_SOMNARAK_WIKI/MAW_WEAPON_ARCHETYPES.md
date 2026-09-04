@@ -209,3 +209,22 @@ Batch-10 additions (2026-09-05, full standard incl. non-weapon forms where the s
 | MAW-W-409 The Empty Lens | A-Frame Stress Pane (triangular glass in a builder's A-frame with plumb line, pillar-shaped dashed blank, load-lines straining around the absence, untouched worker mark) | Medium (source: 3 — Medium) |
 
 Batch-10 form notes: third non-weapon form enters the set (W-378 diving bell); the lens family gains annulus (true hole), torch-staff, and A-frame triangular pane builds; the fang family gains missing-section and root-curve variants; the hammer family gains glass anti-sound dome and reflection-first ghost-head builds; the requiem blades gain crack-stair, shard-scale-edge, and delta-fork geometries.
+
+Batch-11 additions (2026-09-05, full standard incl. non-weapon forms where the story fits):
+
+| Item | Archetype (researched variant) | Band (source) |
+| --- | --- | --- |
+| MAW-W-426 The Torn Fang | Open-Channel Fang (central void torn clean through with ragged burr lips, dashed never-closed stitches, honest-unknown outline at the tip) | Short (source: 2 / 2) |
+| MAW-W-447 The Melting Requiem | Circulation Blade (tip dissolving into beads, dashed return arc carrying droplets down, fresh crystal plates rebuilding at the guard, two ghost edges of previous forms) | Medium (source: 3 / 3) |
+| MAW-W-448 Overflow Fang | Inverted Point-Down Fang (held tip-down, liquid-light channel climbing point to guard with upward arrows, climbing droplets, memorial mark undisturbed at the low tip) | Long (source: 10–15 dmg, 3 / 3) |
+| MAW-W-453 The Shadow Requiem | Lagging-Shadow Blade (full cast silhouette one step behind the crisp blade, walked footprint record etched gold, blank no-name tag) | Short (source: 2 / 2) |
+| MAW-W-456 The Indebted Dagger | Straight Parallel Dirk (first true dagger: bruise stains UNDER the polished surface, sheen passing over them, ledger-notch crossguard, anesthetic band) | Short (source: 2 / 2) |
+| MAW-W-459 The Bulwark Lens | Hooded Visor Lens (armored hood guarding the upper half, sleeping brick wall line at rest, warmth kept outside the hood, intrusion severed beyond it) | Short (source: 2 / 2) |
+| MAW-W-467 The Soaking Requiem | Wet-Film Blade (level broad blade, moisture band holding distinct linked voice-beads on one gold thread, stolen link cut away below) | Short (source: 2 / 2) |
+| MAW-W-476 The Sehnsucht Maul | Sideways-Head Maul (head mounted parallel to the soil, striking faces left/right only, bottom face capped shut, buried Tear preserved dashed below the surface line) | Medium (source: 3 / 3) |
+| MAW-W-488 The Bridge Fang | Twin-Shore Fang (two unjoined parallel blades with open water between, matched consent notches facing across the gap, severed one-sided span, shared single grip) | Short (source: 2 / 2) |
+| MAW-W-489 The Quiet Requiem | Silent Executioner Blade (straight flat-backed blade with oblique clipped tip, matte unlit edge, luminous grievance script glowing on the flat, one dark intact silence line) | Long (source: 10–15 dmg, 3 / 3) |
+| MAW-W-503 Hover Requiem | Wound-Holding Blade (translucent pale-blue crystal with a floating injury reflection drifting inside, dashed drift ghosts, bounded green brace placed without cure promise) | Short (source: 2 / 2) |
+| MAW-W-505 Cold Burn Lens | Chained Watch-Monocle (heavy duty-chain to a hook, frost creeping down the links, frozen shadow-link chain across the glass cut gold mid-span, ceremony seal, intact service record) | Short (source: 2 / 2) |
+
+Batch-11 form notes: first true dagger enters the set (W-456); the fang family gains open-channel, inverted point-down, and twin-shore builds; the requiem blades gain circulation, lagging-shadow, wet-film, silent-executioner, and wound-holding geometries; the maul family gains the sideways-head anti-excavation build drawn straight from its record; the lens family gains hooded-visor and chained-monocle builds.

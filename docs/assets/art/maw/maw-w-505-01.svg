@@ -1,40 +1,58 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="COLD BURN LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bg9a92bc" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw505" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="100%" stop-color="#08090c"/>
     </radialGradient>
-    <radialGradient id="gl9a92bc" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl505" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#475569"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg9a92bc)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw505)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#gl9a92bc)"/>
-  <g transform="rotate(6 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="50.0" ry="68.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="41.0" ry="56.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="32.0" ry="46.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M232.1 139.9 L226.4 149.1" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M245.7 164.3 L237.5 169.2" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M250.0 194.4 L241.0 194.0" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M244.1 223.9 L236.2 218.3" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M229.4 247.0 L224.1 237.3" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="138.0" y="186.0" width="124.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="260.0" width="12" height="28.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- THE CHAIN: obligation itself — heavy linked chain from the monocle up to a duty hook -->
+  <g stroke="#94a3b8" stroke-width="2.4" fill="none">
+    <ellipse cx="286" cy="86" rx="7" ry="10" transform="rotate(24 286 86)"/>
+    <ellipse cx="276" cy="106" rx="7" ry="10" transform="rotate(10 276 106)"/>
+    <ellipse cx="270" cy="128" rx="7" ry="10" transform="rotate(-4 270 128)"/>
+    <ellipse cx="268" cy="150" rx="7" ry="10" transform="rotate(-12 268 150)"/>
   </g>
-  <g transform="rotate(-16 172.0 252.0)">    <circle cx="176.0" cy="226.0" r="4.0" fill="#e0f2fe" opacity=".3"/>
-  </g>
-  <g transform="rotate(-16 172.0 252.0)">    <circle cx="200.0" cy="238.0" r="5.0" fill="#e0f2fe" opacity=".3"/>
-  </g>
-  <g transform="rotate(-16 172.0 252.0)">    <circle cx="224.0" cy="250.0" r="6.0" fill="#e0f2fe" opacity=".3"/>
-  </g>
-  <g transform="rotate(-16 236.0 250.0)">    <path d="M200.0 278.0 C190.0 244.0, 212.0 230.0, 202.0 186.0" fill="none" stroke="#8a8f98" stroke-width="2" opacity=".55"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-505-01</text>
+  <path d="M292 66 C 298 60, 306 58, 314 62 C 310 70, 302 74, 294 72 Z" fill="#111318" stroke="#cbd5e1" stroke-width="2"/>
+  <!-- frost creeping ALONG the chain links -->
+  <path d="M282 92 L290 88 M272 112 L280 108 M266 134 L274 130" stroke="#bae6fd" stroke-width="1.3" opacity=".85"/>
+  <!-- THE MONOCLE: pale lens in a rimmed frame with a small grip tab -->
+  <circle cx="220" cy="240" r="102" fill="url(#bl505)" fill-opacity=".18" stroke="#e2e8f0" stroke-width="3"/>
+  <circle cx="220" cy="240" r="92" fill="none" stroke="#475569" stroke-width="1.4"/>
+  <circle cx="220" cy="240" r="108" fill="none" stroke="#334155" stroke-width="1.2"/>
+  <path d="M262 158 C 268 154, 274 152, 280 152" fill="none" stroke="#94a3b8" stroke-width="3"/>
+  <!-- glass sheen -->
+  <path d="M158 190 C 170 172, 188 160, 208 154" fill="none" stroke="#e2e8f0" stroke-width="1.8" opacity=".55"/>
+  <!-- THE FROZEN SHADOW-LINK: duty as an ice chain rendered IN frost across the glass -->
+  <circle cx="164" cy="240" r="10" fill="none" stroke="#bae6fd" stroke-width="2.4"/>
+  <path d="M174 240 L192 240" stroke="#bae6fd" stroke-width="2.4"/>
+  <ellipse cx="202" cy="240" rx="9" ry="6" fill="none" stroke="#bae6fd" stroke-width="2.2"/>
+  <path d="M211 240 L228 240" stroke="#bae6fd" stroke-width="2.2"/>
+  <ellipse cx="238" cy="240" rx="9" ry="6" fill="none" stroke="#93c5fd" stroke-width="2"/>
+  <path d="M247 240 L264 240" stroke="#93c5fd" stroke-width="2" stroke-dasharray="4 3"/>
+  <!-- the person / the post at either end of the frost chain -->
+  <circle cx="152" cy="226" r="6" fill="none" stroke="#e2e8f0" stroke-width="1.8"/>
+  <path d="M152 232 L152 250 M152 238 L144 246 M152 238 L160 246" stroke="#e2e8f0" stroke-width="1.8"/>
+  <rect x="268" y="222" width="22" height="36" fill="none" stroke="#e2e8f0" stroke-width="1.8"/>
+  <path d="M272 230 L286 230 M272 240 L286 240" stroke="#64748b" stroke-width="1.3"/>
+  <!-- THE CUT: obligation severed mid-chain, gold; both ends intact -->
+  <path d="M252 232 L262 250" stroke="#f1df76" stroke-width="2.8"/>
+  <!-- frost ferns spreading from the chain across the glass -->
+  <path d="M198 232 C 194 224, 188 218, 180 214 M242 250 C 246 258, 252 264, 260 268 M226 234 C 228 226, 232 220, 238 216" fill="none" stroke="#bae6fd" stroke-width="1.2" opacity=".7"/>
+  <!-- ceremony seal: duty ended witnessed, handed over -->
+  <rect x="196" y="286" width="48" height="16" rx="2" fill="#08090c" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M202 294 L226 294 M230 294 L238 294" stroke="#f1df76" stroke-width="1.2"/>
+  <path d="M240 282 L246 288 L254 276" fill="none" stroke="#4ade80" stroke-width="1.8"/>
+  <!-- preserved service record: intact ledger lines at the lower rim -->
+  <path d="M180 316 L232 316 M186 324 L224 324" stroke="#94a3b8" stroke-width="1.4"/>
+  <!-- attrition mote -->
+  <circle cx="120" cy="152" r="2.6" fill="none" stroke="#64748b" stroke-width="1.3" stroke-dasharray="2 3" opacity=".7"/>
 </svg>

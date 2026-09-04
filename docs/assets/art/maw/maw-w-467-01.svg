@@ -1,26 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SOAKING REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg530f01" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw467" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl530f01" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl467" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg530f01)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw467)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="123" fill="url(#gl530f01)"/>
-  <g transform="rotate(-2 200.0 192.0)">
-<path d="M180.0 192.0 L191.6 87.60000000000001 L200.0 47.0 L208.4 96.3 L220.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 47.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="190.0" y="107.9" width="20.0" height="60.9" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="170.0" y="187.0" width="60.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="36.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="244.0" r="7.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-467-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- broad short blade, gentle curve, held level-diagonal -->
+  <path d="M110 262 L116 240 C 160 222, 208 210, 256 206 C 288 204, 316 206, 338 214 C 344 224, 342 236, 332 242 C 306 236, 276 234, 246 238 C 200 244, 156 254, 122 270 Z"
+        fill="url(#bl467)" stroke="#38bdf8" stroke-width="2.6"/>
+  <path d="M118 244 C 162 228, 210 218, 258 214 C 290 212, 316 214, 336 220" fill="none" stroke="#1e3a5f" stroke-width="2"/>
+  <!-- THE WET FILM along the edge: glistening band -->
+  <path d="M120 264 C 156 250, 200 240, 246 236 C 278 232, 306 234, 330 240" fill="none" stroke="#e0f2fe" stroke-width="3" opacity=".9"/>
+  <path d="M126 268 C 162 256, 204 246, 248 242" fill="none" stroke="#7dd3fc" stroke-width="1.4" opacity=".7"/>
+  <!-- THE LINKED VOICES: distinct beads in the moisture, joined by one thread -->
+  <circle cx="150" cy="256" r="5" fill="#050a14" stroke="#e0f2fe" stroke-width="2"/>
+  <circle cx="196" cy="246" r="5" fill="#050a14" stroke="#7dd3fc" stroke-width="2"/>
+  <circle cx="242" cy="239" r="5" fill="#050a14" stroke="#93c5fd" stroke-width="2"/>
+  <circle cx="288" cy="236" r="5" fill="#050a14" stroke="#60a5fa" stroke-width="2"/>
+  <path d="M155 255 L191 247 M201 245 L237 240 M247 238 L283 236" stroke="#f1df76" stroke-width="1.4"/>
+  <!-- each voice distinct: different tiny wave in each bead -->
+  <path d="M147 256 C 149 254, 151 254, 153 256" fill="none" stroke="#e0f2fe" stroke-width="1.1"/>
+  <path d="M193 246 L199 246" stroke="#7dd3fc" stroke-width="1.1"/>
+  <path d="M239 239 C 241 237, 243 241, 245 239" fill="none" stroke="#93c5fd" stroke-width="1.1"/>
+  <path d="M285 236 C 287 234, 289 238, 291 236" fill="none" stroke="#60a5fa" stroke-width="1.1"/>
+  <!-- THE STOLEN LINK severed: one alien thread cut away below the row -->
+  <path d="M220 252 C 232 258, 242 266, 250 276" fill="none" stroke="#64748b" stroke-width="1.8" stroke-dasharray="3 3"/>
+  <path d="M230 264 L242 254" stroke="#f1df76" stroke-width="2.4"/>
+  <path d="M254 282 L262 292" stroke="#475569" stroke-width="1.3" stroke-dasharray="2 4" opacity=".6"/>
+  <!-- consent seal on the flat: everyone named agreed -->
+  <rect x="170" y="222" width="36" height="14" rx="2" transform="rotate(-8 188 229)" fill="#050a14" stroke="#f1df76" stroke-width="1.4"/>
+  <path d="M176 229 L200 226" stroke="#f1df76" stroke-width="1.1"/>
+  <!-- drip beads falling from the wet edge -->
+  <path d="M168 274 C 165 279, 165 283, 168 286 C 171 283, 171 279, 168 274 Z" fill="#7dd3fc"/>
+  <path d="M262 250 C 259 255, 259 259, 262 262 C 265 259, 265 255, 262 250 Z" fill="#60a5fa"/>
+  <!-- guard + downturned grip -->
+  <path d="M104 244 L120 282" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
+  <path d="M108 282 L84 330" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
+  <path d="M104 292 L94 288 M100 304 L90 300 M96 316 L86 312" stroke="#60a5fa" stroke-width="2.4"/>
+  <path d="M80 338 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.2"/>
+  <path d="M76 346 C 73 350, 73 354, 76 357 C 79 354, 79 350, 76 346 Z" fill="#7dd3fc" opacity=".85"/>
 </svg>

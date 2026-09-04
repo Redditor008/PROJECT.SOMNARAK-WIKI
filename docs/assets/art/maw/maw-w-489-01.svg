@@ -1,26 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE QUIET REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg2b8399" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw489" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl2b8399" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl489" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg2b8399)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw489)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="118" fill="url(#gl2b8399)"/>
-  <g transform="rotate(8 200.0 192.0)">
-<path d="M187.0 192.0 L194.54 95.52000000000001 L200.0 58.0 L205.46 103.56 L213.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 58.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="193.5" y="114.3" width="13.0" height="56.3" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="177.0" y="187.0" width="46.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="38.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="246.0" r="6.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-489-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- LONG STRAIGHT SILENT BLADE: executioner profile, flat back, oblique clipped tip — no curve, no motion -->
+  <path d="M168 320 L168 108 L228 66 L232 74 L232 320 Z" fill="url(#bl489)" stroke="#38bdf8" stroke-width="2.6"/>
+  <!-- flat back spine -->
+  <path d="M228 74 L228 316" stroke="#1e3a5f" stroke-width="2.2"/>
+  <!-- the SILENT edge: matte, deliberately unlit -->
+  <path d="M172 112 L172 316" stroke="#0a1626" stroke-width="2.6"/>
+  <!-- oblique clip highlight -->
+  <path d="M172 106 L226 70" stroke="#e0f2fe" stroke-width="2"/>
+  <!-- THE LUMINOUS GRIEVANCE LINES: three glowing script lines down the flat -->
+  <path d="M186 136 L186 188" stroke="#e0f2fe" stroke-width="2.2"/>
+  <path d="M186 136 L186 188" stroke="#e0f2fe" stroke-width="7" opacity=".16"/>
+  <path d="M182 148 L190 148 M182 164 L188 164 M183 176 L189 176" stroke="#e0f2fe" stroke-width="1.3"/>
+  <path d="M202 170 L202 236" stroke="#93c5fd" stroke-width="2.2"/>
+  <path d="M202 170 L202 236" stroke="#93c5fd" stroke-width="7" opacity=".16"/>
+  <path d="M198 184 L206 184 M198 202 L204 202 M199 220 L205 220" stroke="#93c5fd" stroke-width="1.3"/>
+  <path d="M216 210 L216 282" stroke="#7dd3fc" stroke-width="2.2"/>
+  <path d="M216 210 L216 282" stroke="#7dd3fc" stroke-width="7" opacity=".16"/>
+  <path d="M212 226 L220 226 M212 246 L218 246 M213 266 L219 266" stroke="#7dd3fc" stroke-width="1.3"/>
+  <!-- three severed coercive suppression clamps: grey bars cut with gold -->
+  <path d="M178 132 L194 132" stroke="#64748b" stroke-width="3"/>
+  <path d="M182 126 L190 140" stroke="#f1df76" stroke-width="2.4"/>
+  <path d="M194 166 L210 166" stroke="#64748b" stroke-width="3"/>
+  <path d="M198 160 L206 174" stroke="#f1df76" stroke-width="2.4"/>
+  <path d="M208 206 L224 206" stroke="#64748b" stroke-width="3"/>
+  <path d="M212 200 L220 214" stroke="#f1df76" stroke-width="2.4"/>
+  <!-- individual silence left intact: one dark unlit line, unforced -->
+  <path d="M191 250 L191 300" stroke="#12233d" stroke-width="2.2"/>
+  <!-- stillness: no motion lines anywhere; a resting dust mote on the spine -->
+  <circle cx="230" cy="140" r="1.6" fill="#3b5f88"/>
+  <!-- voluntary-truth seal above the guard -->
+  <rect x="180" y="296" width="40" height="15" rx="2" fill="#050a14" stroke="#f1df76" stroke-width="1.5"/>
+  <path d="M186 304 L206 304 M210 304 L214 304" stroke="#f1df76" stroke-width="1.1"/>
+  <!-- straight guard + long two-hand grip -->
+  <path d="M148 324 L252 324" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
+  <path d="M200 328 L200 392" stroke="#12233d" stroke-width="12" stroke-linecap="round"/>
+  <path d="M193 340 L207 340 M193 354 L207 354 M193 368 L207 368" stroke="#60a5fa" stroke-width="2.4"/>
+  <path d="M200 398 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.2"/>
 </svg>

@@ -1,30 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BULWARK LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bg38c268" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw459" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="100%" stop-color="#08090c"/>
     </radialGradient>
-    <radialGradient id="gl38c268" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl459" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#475569"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg38c268)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw459)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="134" fill="url(#gl38c268)"/>
-  <g transform="rotate(-8 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="66.0" ry="74.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="57.0" ry="62.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="48.0" ry="52.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M242.4 135.3 L236.6 144.5" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M260.3 161.9 L252.1 166.8" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M266.0 194.6 L257.0 194.2" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="122.0" y="186.0" width="156.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="266.0" width="12" height="29.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-459-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- handle low -->
+  <path d="M200 330 L200 380" stroke="#1c2128" stroke-width="13" stroke-linecap="round"/>
+  <path d="M192 344 L208 344 M192 358 L208 358" stroke="#94a3b8" stroke-width="2.2"/>
+  <path d="M200 388 a7 7 0 1 0 .1 0" fill="#111318" stroke="#cbd5e1" stroke-width="2.4"/>
+  <path d="M188 322 L212 322" stroke="#475569" stroke-width="7" stroke-linecap="round"/>
+  <!-- THE LENS DISC -->
+  <circle cx="200" cy="196" r="112" fill="url(#bl459)" fill-opacity=".18" stroke="#e2e8f0" stroke-width="2.8"/>
+  <circle cx="200" cy="196" r="103" fill="none" stroke="#475569" stroke-width="1.3"/>
+  <!-- THE PROTECTIVE HOOD: armored visor over the upper half — guarding, not breaching -->
+  <path d="M88 186 C 92 128, 140 86, 200 86 C 260 86, 308 128, 312 186 L 296 186 C 292 138, 250 102, 200 102 C 150 102, 108 138, 104 186 Z"
+        fill="#111318" stroke="#94a3b8" stroke-width="2.6"/>
+  <path d="M120 150 L134 158 M160 116 L168 130 M200 94 L200 108 M240 116 L232 130 M280 150 L266 158" stroke="#475569" stroke-width="2"/>
+  <path d="M104 176 L296 176" stroke="#64748b" stroke-width="1.4" opacity=".7"/>
+  <!-- rivets on the hood rim -->
+  <circle cx="112" cy="182" r="2.4" fill="#334155"/><circle cx="146" cy="126" r="2.4" fill="#334155"/><circle cx="200" cy="98" r="2.4" fill="#334155"/><circle cx="254" cy="126" r="2.4" fill="#334155"/><circle cx="288" cy="182" r="2.4" fill="#334155"/>
+  <!-- THE SLEEPING WALL LINE: brick course at rest across the glass -->
+  <path d="M96 214 L304 214" stroke="#e2e8f0" stroke-width="3"/>
+  <path d="M96 226 L304 226 M96 238 L304 238" stroke="#94a3b8" stroke-width="1.6"/>
+  <path d="M128 214 L128 226 M168 214 L168 226 M208 214 L208 226 M248 214 L248 226 M288 214 L288 226 M108 226 L108 238 M148 226 L148 238 M188 226 L188 238 M228 226 L228 238 M268 226 L268 238" stroke="#94a3b8" stroke-width="1.3"/>
+  <!-- asleep marks: slow breath curves above the wall -->
+  <path d="M164 202 C 170 198, 178 198, 184 202 M216 202 C 222 198, 230 198, 236 202" fill="none" stroke="#64748b" stroke-width="1.4" opacity=".8"/>
+  <!-- the severed intrusion: pressing field cut OUTSIDE the hood -->
+  <path d="M304 128 C 318 136, 330 148, 338 162" fill="none" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="4 4"/>
+  <path d="M320 138 L330 152" stroke="#f1df76" stroke-width="2.4"/>
+  <path d="M340 168 L348 180" stroke="#475569" stroke-width="1.4" stroke-dasharray="2 4" opacity=".6"/>
+  <!-- exterior warmth kept outside: small warm glow at the hood's edge, never entering -->
+  <circle cx="86" cy="130" r="5" fill="none" stroke="#fb923c" stroke-width="1.8"/>
+  <path d="M86 121 L86 116 M78 133 L73 132 M92 123 L96 119" stroke="#fb923c" stroke-width="1.4" opacity=".8"/>
+  <!-- consent seal under the wall -->
+  <rect x="180" y="262" width="40" height="15" rx="2" fill="#08090c" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M186 270 L214 270" stroke="#f1df76" stroke-width="1.1"/>
 </svg>

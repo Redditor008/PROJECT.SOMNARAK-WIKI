@@ -1,25 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="OVERFLOW FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bgfc5f64" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw448" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="glfc5f64" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl448" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgfc5f64)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw448)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="122" fill="url(#glfc5f64)"/>
-  <g transform="rotate(-8 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 105.64999999999999, 223.0 35.0 229.0 35.0 C219.0 110.36, 220.0 138.62, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 119.78, 221.0 43.0 226.0 41.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="50.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="254.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-448-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- fang POINT-DOWN: tip at bottom, guard high — the inverted stance of upward flow -->
+  <path d="M208 344 C 196 316, 190 284, 192 250 C 194 218, 202 188, 218 162 L 240 176 C 228 200, 222 228, 222 258 C 222 288, 226 316, 236 340 C 230 348, 218 350, 208 344 Z"
+        fill="url(#bl448)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M200 330 C 192 300, 190 268, 194 238 C 198 210, 206 186, 220 166" fill="none" stroke="#4c0d13" stroke-width="2"/>
+  <path d="M230 336 C 224 310, 220 282, 222 254 C 224 226, 230 200, 240 180" fill="none" stroke="#ffe4e6" stroke-width="1.6"/>
+  <!-- THE UPWARD FLOW: liquid light channel climbing the blade, arrows pointing UP -->
+  <path d="M216 336 C 208 308, 204 278, 206 248 C 208 220, 216 194, 228 172" fill="none" stroke="#0d0507" stroke-width="5"/>
+  <path d="M216 336 C 208 308, 204 278, 206 248 C 208 220, 216 194, 228 172" fill="none" stroke="#fda4af" stroke-width="2"/>
+  <path d="M210 306 L204 312 L212 314 Z M206 262 L200 268 L208 270 Z M210 218 L204 224 L212 226 Z M220 184 L214 190 L222 192 Z" fill="#ffe4e6"/>
+  <!-- climbing droplets, upside-down teardrops -->
+  <path d="M226 292 C 229 287, 229 283, 226 280 C 223 283, 223 287, 226 292 Z" fill="#fca5a5"/>
+  <path d="M214 240 C 217 235, 217 231, 214 228 C 211 231, 211 235, 214 240 Z" fill="#fda4af"/>
+  <!-- three inverted flood lines severed at the guard level -->
+  <path d="M196 196 C 184 190, 172 188, 160 190 M250 200 C 262 194, 274 192, 286 194 M244 168 C 254 158, 266 152, 278 150" fill="none" stroke="#7f1d1d" stroke-width="2" stroke-dasharray="4 4"/>
+  <path d="M164 184 L172 196 M280 188 L288 200 M270 146 L280 158" stroke="#f1df76" stroke-width="2.4"/>
+  <!-- the anchored grief kept below: memorial mark near the DOWNWARD tip, undisturbed -->
+  <rect x="196" y="352" width="34" height="16" rx="2" fill="#0d0507" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M202 360 L224 360 M206 364 L220 364" stroke="#f1df76" stroke-width="1.1"/>
+  <path d="M213 352 L213 344" stroke="#f1df76" stroke-width="1.4"/>
+  <!-- guard HIGH (weapon inverted) + grip rising above -->
+  <path d="M196 158 L262 150" stroke="#4c0d13" stroke-width="9" stroke-linecap="round"/>
+  <path d="M228 146 L236 96" stroke="#4c0d13" stroke-width="11" stroke-linecap="round"/>
+  <path d="M224 134 L238 132 M226 120 L240 118 M228 106 L242 104" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M240 88 a7 7 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.4"/>
+  <!-- descent-of-the-Well origin: one voluntary downward droplet beside the grip -->
+  <path d="M262 112 C 259 117, 259 121, 262 124 C 265 121, 265 117, 262 112 Z" fill="#7f1d1d" stroke="#fca5a5" stroke-width="1.2"/>
+  <path d="M262 128 L262 140" stroke="#7f1d1d" stroke-width="1.2" stroke-dasharray="2 3"/>
 </svg>
