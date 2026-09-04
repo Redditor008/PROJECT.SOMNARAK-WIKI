@@ -308,5 +308,7 @@ W-100…126 redrawn as varied forms, each staged from its own record:
 
 Gates PASS. Batch 5 (W-127…159) still in rejected style; next redo round after owner review — apply the same variety + range-stat rule.
 
+**Text-parity follow-up (owner check, 2026-09-04):** when a redo CHANGES an item's physical form, the `### Appearance` text in the `.md` record AND the `.html` page must be updated to describe the new form (physical-form sentences only; abilities, limits, rituals kept verbatim). Applied to the four batch-4 items whose kind changed: W-100 (narrow blade → bladed war fan with script-lined ribs), W-102 (broad blade → rope dart on woven cord + open link), W-108 (narrow blade → tracing needle/awl with eye + red thread), W-120 (broad blade → hinged trap-jaw cage held open). W-101/103/105/106/115/119/125/126 already matched their art (scene/staging changed, form did not). md↔html parity re-verified 12/12; word counts 167–205; word-floor, structure, and SVG gates PASS. **This parity rule applies to every future redo batch.**
+
 ## 16. Next weapon batch
 Batch 6 = next 12 W SVGs in numeric order after 159 (run `ls docs/assets/art/maw/maw-w-*-01.svg | grep -oE 'maw-w-[0-9]+' | sed 's/maw-w-//' | sort -n | awk '$1>159 && $1<1000' | head -12` for the exact list). Same procedure: read each page's Appearance paragraph → assign an unused archetype/variant (extend the catalog if needed) → hand-write the SVG in the batch-1 format → render + contact-sheet review → gates → update mapping table + this log → commit + push.
