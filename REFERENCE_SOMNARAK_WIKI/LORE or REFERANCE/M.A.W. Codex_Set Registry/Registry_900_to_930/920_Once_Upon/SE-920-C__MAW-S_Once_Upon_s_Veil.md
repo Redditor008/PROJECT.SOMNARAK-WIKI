@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting against the tale register of sorrow.   <!-- SE-920 -->
 **Binding rule:** the bearer names Once Upon's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Once Upon's Veil is the suit record of the Once Upon set — γ-grade, Lament-aligned, resistant to Lament at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Lament damage, protection against the tale register of sorrow that keeps restarting its own first line. Binding names Once Upon's event — Not recorded, the once-upon kept and the ever-after lost — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost follows the wearer home: Once Upon's grief rides into every quiet moment, and small joys feel distant until the suit is removed, each day narrated but never concluded. The source-trace fixed doctrine: the manifestation recognizes patience, its lament pressure settling gradually under sustained presence, and the Veil discharges the hazard only after attribution to Once Upon. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

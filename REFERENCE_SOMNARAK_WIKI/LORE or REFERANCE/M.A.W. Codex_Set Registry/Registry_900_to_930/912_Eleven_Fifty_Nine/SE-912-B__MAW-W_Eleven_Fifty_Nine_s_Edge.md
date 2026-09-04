@@ -19,6 +19,10 @@
 **Canonical ability:** Channels lament lament sorrow in each strike — the weapon does not cut flesh so much as cut at the lament register of the target's grief.   <!-- SE-912 -->
 **Binding rule:** the bearer names Eleven Fifty-Nine's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Eleven Fifty-Nine's Edge is the weapon record of the Eleven Fifty-Nine set — γ-grade, Lament-aligned, striking at 14–25 Lament in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels lament sorrow in its purest register: the blade cuts at the lament itself, grief measured in the last minute before a midnight that never arrives. Binding names Eleven Fifty-Nine's event — Not recorded, the hour stopped one tick short of its own explanation — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is chronic fatigue in the dominant hand, the wrist holding a clock hand that refuses its final move. The source-trace fixed doctrine: the time-manifestation gave no transcribable field response, and the Edge isolates the hazard only after attribution to Eleven Fifty-Nine. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
