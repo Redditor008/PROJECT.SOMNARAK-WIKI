@@ -8,13 +8,10 @@
       <stop offset="0%" stop-color="#ef5b55" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="ml002" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#ef5b55"/>
+    <linearGradient id="box002" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fca5a5"/>
       <stop offset="1" stop-color="#7f1d1d"/>
     </linearGradient>
-    <filter id="f002" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3"/>
-    </filter>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw002)" stroke="#ef5b55" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
@@ -22,27 +19,21 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- impact shards -->
-  <g stroke="#7f1d1d" opacity=".5">
-    <path d="M76 150 L96 138 M68 176 L90 168 M82 202 L102 190" stroke-width="1.6"/>
+  <!-- BOX MAUL: rectangular bar head with vertical fluting, short two-hand haft -->
+  <path d="M96 138 L304 138 L304 240 L96 240 Z" fill="url(#box002)" stroke="#ef5b55" stroke-width="3"/>
+  <path d="M96 138 L304 138" stroke="#fca5a5" stroke-width="1.6" opacity=".8"/>
+  <!-- vertical flutes -->
+  <g stroke="#fca5a5" stroke-width="1.6" opacity=".8">
+    <path d="M136 138 L136 240"/> <path d="M168 138 L168 240"/> <path d="M232 138 L232 240"/> <path d="M264 138 L264 240"/>
   </g>
-
-  <!-- Mourning Maul: broad humped head, layered crown -->
-  <path d="M92 136 L308 136 L312 208 Q300 236 270 242 Q200 258 130 242 Q100 236 88 208 Z"
-        fill="#7f1d1d" stroke="#ef5b55" stroke-width="3"/>
-  <path d="M92 136 L308 136 L306 158 L94 158 Z" fill="#450a0a" stroke="#fca5a5" stroke-width="1.6"/>
-  <path d="M118 136 L118 208 M282 136 L282 208" stroke="#fca5a5" stroke-width="1.2" opacity=".7"/>
-  <path d="M134 176 L266 176 M146 206 L254 206" stroke="#ef5b55" stroke-width="1.4" opacity=".8"/>
-  <!-- crescent face relief -->
-  <path d="M164 182 Q200 210 236 182" fill="none" stroke="#fca5a5" stroke-width="1.4" opacity=".7"/>
-
-  <!-- collar -->
-  <path d="M182 242 L218 242 L214 254 L186 254 Z" fill="#450a0a" stroke="#ef5b55" stroke-width="1.6"/>
-  <!-- two-hand haft -->
-  <rect x="186" y="254" width="28" height="96" rx="6" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
-  <path d="M188 266 L212 274 M188 280 L212 288 M188 294 L212 302 M188 308 L212 316 M188 322 L212 330" stroke="#fca5a5" stroke-width="1.6" opacity=".8"/>
-  <!-- pommel -->
-  <path d="M182 350 L218 350 L216 368 L184 368 Z" fill="#292524" stroke="#ef5b55" stroke-width="2"/>
-  <circle cx="200" cy="359" r="5" fill="#f1df76"/>
-  <circle cx="200" cy="378" r="4" fill="#ef5b55" opacity=".6" filter="url(#f002)"/>
+  <!-- mourning band -->
+  <path d="M112 176 L288 176" stroke="#450a0a" stroke-width="4"/>
+  <rect x="184" y="166" width="32" height="20" rx="3" fill="#450a0a" stroke="#f1df76" stroke-width="1.6"/>
+  <!-- rounded underside collar -->
+  <path d="M108 240 L292 240" stroke="#ef5b55" stroke-width="1.6"/>
+  <!-- haft -->
+  <rect x="188" y="240" width="24" height="92" rx="6" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
+  <path d="M190 256 L210 264 M190 274 L210 282 M190 292 L210 300 M190 310 L210 318" stroke="#fca5a5" stroke-width="1.4" opacity=".8"/>
+  <path d="M182 332 L218 332 L216 352 L184 352 Z" fill="#292524" stroke="#ef5b55" stroke-width="2"/>
+  <circle cx="200" cy="342" r="5" fill="#f1df76"/>
 </svg>

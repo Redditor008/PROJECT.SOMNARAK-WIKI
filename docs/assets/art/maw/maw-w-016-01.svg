@@ -1,48 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LOST LENS">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE GLASS COMPASS">
   <defs>
     <radialGradient id="bw016" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+      <stop offset="0%" stop-color="#172554"/>
+      <stop offset="100%" stop-color="#0b1020"/>
     </radialGradient>
     <radialGradient id="gw016" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#e2e8f0" stop-opacity=".2"/>
+      <stop offset="0%" stop-color="#fb7185" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="cut016" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#e2e8f0"/>
-      <stop offset="1" stop-color="#1f2937"/>
+    <linearGradient id="cm016" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fecdd3"/>
+      <stop offset="1" stop-color="#be123c"/>
     </linearGradient>
-    <filter id="f016" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3"/>
-    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw016)" stroke="#e2e8f0" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw016)" stroke="#fb7185" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gw016)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#030712" stroke="#e2e8f0" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#e2e8f0" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0b1020" stroke="#fb7185" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#fb7185" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- false-bearing corridors -->
-  <g stroke="#94a3b8" stroke-width="1" opacity=".3">
-    <path d="M70 120 L120 120 L120 170"/><path d="M280 300 L330 300 L330 250"/>
-  </g>
-  <circle cx="92" cy="330" r="3" fill="#e2e8f0" opacity=".4"/>
-
-  <!-- Lost Lens: void lens blade, blade edge cuts a false bearing -->
-  <path d="M200 46 L236 96 L248 210 L212 268 L188 268 L152 210 L164 96 Z"
-        fill="url(#cut016)" stroke="#e2e8f0" stroke-width="3"/>
-  <path d="M200 60 L200 252" stroke="#f8fafc" stroke-width="1.2" opacity=".7"/>
-  <path d="M176 120 L200 150 M224 120 L200 150 M170 180 L200 208 M230 180 L200 208" stroke="#94a3b8" stroke-width="1.2" opacity=".6"/>
-  <!-- bearing compass rose -->
-  <circle cx="200" cy="222" r="18" fill="#1f2937" stroke="#f1df76" stroke-width="1.6"/>
-  <path d="M200 204 L200 240 M182 222 L218 222" stroke="#f1df76" stroke-width="1"/>
-  <path d="M200 214 L206 222 L200 230 L194 222 Z" fill="#e2e8f0"/>
-  <path d="M200 84 L200 120" stroke="#f1df76" stroke-width="1.4" opacity=".7"/>
-  <circle cx="200" cy="84" r="4" fill="#f1df76"/>
-  <!-- hilt -->
-  <path d="M182 268 L218 268 L210 286 L190 286 Z" fill="#1f2937" stroke="#e2e8f0" stroke-width="2"/>
-  <rect x="190" y="286" width="20" height="58" rx="6" fill="#1f2937" stroke="#e2e8f0" stroke-width="2.4"/>
-  <path d="M192 298 L208 306 M192 312 L208 320 M192 326 L208 334" stroke="#94a3b8" stroke-width="1.4"/>
-  <circle cx="200" cy="352" r="8" fill="#1f2937" stroke="#f1df76" stroke-width="2"/>
-  <circle cx="200" cy="352" r="3" fill="#f1df76"/>
+  <!-- COMPASS CHAKRAM: open C-ring with compass cross needle + notched blade rim -->
+  <!-- main C-ring -->
+  <path d="M200 96 A104 104 0 1 0 304 200 A104 104 0 1 0 264 120 A88 88 0 1 1 288 200 A88 88 0 1 1 200 112 Z"
+        fill="none" stroke="url(#cm016)" stroke-width="18" stroke-linejoin="round"/>
+  <!-- notch teeth -->
+  <path d="M96 120 L104 114 L112 120 M100 260 L108 254 L116 260 M196 90 L200 80 L204 90 M304 190 L312 186 L314 194"
+        fill="none" stroke="#fecdd3" stroke-width="1.6" opacity=".85"/>
+  <!-- bold compass points -->
+  <path d="M122 118 L200 188 L278 258 M278 118 L200 188 L122 258" fill="none" stroke="#fecdd3" stroke-width="1.6" opacity=".85"/>
+  <path d="M200 188 L214 172 M200 188 L186 204" stroke="#fecdd3" stroke-width="2"/>
+  <!-- pivot boss -->
+  <circle cx="200" cy="188" r="22" fill="#0b1020" stroke="#fb7185" stroke-width="2.6"/>
+  <circle cx="200" cy="188" r="8" fill="#fecdd3"/>
+  <circle cx="200" cy="188" r="2.6" fill="#0b1020"/>
+  <!-- cardinal glyphs -->
+  <circle cx="200" cy="72" r="4" fill="#fecdd3"/>
+  <circle cx="200" cy="304" r="4" fill="#fecdd3"/>
+  <circle cx="84" cy="188" r="4" fill="#fecdd3"/>
+  <circle cx="316" cy="188" r="4" fill="#fecdd3"/>
+  <!-- hang strap -->
+  <path d="M212 302 L212 322 L232 322" fill="none" stroke="#fb7185" stroke-width="2"/>
+  <circle cx="242" cy="322" r="5" fill="#f1df76"/>
 </svg>

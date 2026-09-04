@@ -8,7 +8,7 @@
       <stop offset="0%" stop-color="#67e8f9" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="bl009" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="dg009" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#a5f3fc"/>
       <stop offset="1" stop-color="#0c4a6e"/>
     </linearGradient>
@@ -19,18 +19,21 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#020617" stroke="#67e8f9" stroke-width="1.2"/>
   <text x="30" y="36" fill="#67e8f9" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- Forgotten Lens: loom-shuttle blade with eyelet + tail grip -->
-  <path d="M92 224 L296 116 L320 170 L286 220 L92 274 L86 238 Z" fill="url(#bl009)" stroke="#a5f3fc" stroke-width="3"/>
-  <path d="M292 150 L110 250" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
-  <path d="M304 176 L112 264" stroke="#a5f3fc" stroke-width="1.2" opacity=".8"/>
-  <path d="M120 252 L152 244 M160 250 L192 240 M200 248 L232 238" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-  <!-- eyelet -->
-  <circle cx="106" cy="250" r="13" fill="#082f49" stroke="#a5f3fc" stroke-width="2.4"/>
-  <circle cx="106" cy="250" r="4" fill="#e0f2fe"/>
-  <!-- tail grip rail -->
-  <path d="M118 256 L156 270 L148 286 L112 272 Z" fill="#082f49" stroke="#a5f3fc" stroke-width="2.4"/>
-  <path d="M120 262 L150 274 M122 278 L150 286" stroke="#a5f3fc" stroke-width="1.2"/>
-  <!-- weave thread -->
-  <path d="M88 296 Q120 330 168 316 Q216 304 220 276" fill="none" stroke="#67e8f9" stroke-width="1.6" opacity=".8"/>
-  <circle cx="164" cy="318" r="4" fill="#f1df76"/>
+  <!-- SHUTTLE-RAZOR LENS: compact lens frame with a thin horizontal cutting plane -->
+  <!-- folded cutting blade, points right -->
+  <path d="M214 150 L216 142 L306 160 L310 170 L214 178 Z" fill="url(#dg009)" stroke="#a5f3fc" stroke-width="2.2"/>
+  <path d="M228 158 L302 166" stroke="#e0f2fe" stroke-width="1.2" opacity=".9"/>
+  <path d="M306 160 L316 158 L326 165 L316 172 Z" fill="#0c4a6e" stroke="#a5f3fc" stroke-width="1.6"/>
+  <!-- lens frame (shuttle boss) -->
+  <circle cx="188" cy="164" r="40" fill="#082f49" stroke="#a5f3fc" stroke-width="2.6"/>
+  <circle cx="188" cy="164" r="28" fill="#0c4a6e" stroke="#67e8f9" stroke-width="1.6"/>
+  <path d="M160 164 L216 164" stroke="#e0f2fe" stroke-width="1.2" opacity=".8"/>
+  <path d="M174 140 L202 188" stroke="#e0f2fe" stroke-width="1" opacity=".7"/>
+  <!-- offset ring guard -->
+  <circle cx="188" cy="164" r="9" fill="#020617" stroke="#f1df76" stroke-width="2"/>
+  <path d="M188 204 L188 220 L166 224" fill="none" stroke="#67e8f9" stroke-width="2"/>
+  <!-- short offset grip -->
+  <rect x="150" y="224" width="15" height="70" rx="6" transform="rotate(24 157 259)" fill="#082f49" stroke="#67e8f9" stroke-width="2"/>
+  <path d="M154 240 L170 248 M152 262 L168 270" stroke="#a5f3fc" stroke-width="1.2" opacity=".8"/>
+  <circle cx="136" cy="284" r="7" fill="#082f49" stroke="#f1df76" stroke-width="2"/>
 </svg>

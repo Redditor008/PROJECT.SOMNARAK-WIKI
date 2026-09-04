@@ -1,51 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DEBT MAUL">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DEBT CHAIN">
   <defs>
     <radialGradient id="bw019" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#0c0a09"/>
-      <stop offset="100%" stop-color="#030405"/>
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#0c0a09"/>
     </radialGradient>
-    <radialGradient id="gw019" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#94a3b8" stop-opacity=".18"/>
+    <radialGradient id="gw019" cx="50%" cy="44%" r="52%">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="head019" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#3f4a5a"/>
-      <stop offset="1" stop-color="#1b222b"/>
+    <linearGradient id="ch019" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fef3c7"/>
+      <stop offset="1" stop-color="#92400e"/>
     </linearGradient>
-    <filter id="f019" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3"/>
-    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw019)" stroke="#94a3b8" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw019)" stroke="#fbbf24" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gw019)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#040506" stroke="#94a3b8" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0a09" stroke="#fbbf24" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#fbbf24" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- inherited chain marks -->
-  <g fill="none" stroke="#1f2937" stroke-width="1.4" opacity=".6">
-    <path d="M76 116 L76 172 M76 172 L108 172 M108 172 L108 128"/>
-    <path d="M298 272 L298 316 M298 316 L266 316 M266 316 L266 276"/>
-  </g>
-  <circle cx="76" cy="116" r="4" fill="#94a3b8" opacity=".5"/>
-  <circle cx="298" cy="272" r="4" fill="#94a3b8" opacity=".5"/>
-
-  <!-- Debt Maul: broad black Han-steel head, family-link bindings -->
-  <path d="M112 118 L288 118 L292 160 L278 176 L292 216 L282 240 Q200 254 118 240 L108 216 L122 176 L108 160 Z"
-        fill="url(#head019)" stroke="#94a3b8" stroke-width="3"/>
-  <path d="M112 118 L288 118" stroke="#cbd5e1" stroke-width="1.6" opacity=".8"/>
-  <path d="M120 150 L280 150 M116 216 L284 216" stroke="#1b222b" stroke-width="1.4" opacity=".7"/>
-  <!-- family-link bindings around the head -->
-  <path d="M132 132 L268 132 M140 196 L260 196 M150 172 L250 172" stroke="#64748b" stroke-width="2.4"/>
-  <path d="M132 132 L150 172 M268 132 L250 172 M140 196 L150 172 M260 196 L250 172" stroke="#64748b" stroke-width="1.2" opacity=".6"/>
-  <circle cx="200" cy="196" r="7" fill="#0c0a09" stroke="#f1df76" stroke-width="1.6"/>
-  <circle cx="200" cy="196" r="3" fill="#f1df76"/>
-
-  <!-- haft -->
-  <path d="M186 240 L214 240 L210 254 L190 254 Z" fill="#1b222b" stroke="#94a3b8" stroke-width="1.6"/>
-  <rect x="190" y="254" width="20" height="90" rx="6" fill="#1b222b" stroke="#94a3b8" stroke-width="2.4"/>
-  <path d="M192 268 L208 276 M192 286 L208 294 M192 304 L208 312 M192 322 L208 330" stroke="#64748b" stroke-width="1.4"/>
-  <path d="M184 344 L216 344 L214 364 L186 364 Z" fill="#1b222b" stroke="#94a3b8" stroke-width="2"/>
-  <circle cx="200" cy="354" r="5" fill="#f1df76"/>
-  <circle cx="200" cy="376" r="5" fill="#94a3b8" opacity=".6" filter="url(#f019)"/>
+  <!-- CHAIN FLAIL: hinged links chain + starred head -->
+  <path d="M200 82 L196 108 L190 132 L152 166" fill="none" stroke="#fbbf24" stroke-width="2.2"/>
+  <!-- chain links -->
+  <ellipse cx="200" cy="112" rx="14" ry="9" fill="none" stroke="#fde68a" stroke-width="2.6" transform="rotate(30 200 112)"/>
+  <ellipse cx="190" cy="136" rx="13" ry="8" fill="none" stroke="#fde68a" stroke-width="2.6" transform="rotate(-24 190 136)"/>
+  <ellipse cx="174" cy="158" rx="12" ry="8" fill="none" stroke="#fde68a" stroke-width="2.6" transform="rotate(48 174 158)"/>
+  <!-- swinging arm -->
+  <path d="M170 178 L150 210 L136 230" stroke="#fde68a" stroke-width="3.4" stroke-linecap="round"/>
+  <circle cx="152" cy="196" r="6" fill="#0c0a09" stroke="#fde68a" stroke-width="2"/>
+  <circle cx="140" cy="216" r="6" fill="#0c0a09" stroke="#fde68a" stroke-width="2"/>
+  <!-- spiked flail head -->
+  <circle cx="128" cy="248" r="33" fill="url(#ch019)" stroke="#fbbf24" stroke-width="2.8"/>
+  <path d="M128 200 L128 214 M128 282 L128 268 M214 248 L200 248 M42 248 L56 248 M182 228 L172 238 M74 268 L84 258 M182 268 L172 258 M74 228 L84 238"
+        stroke="#fbbf24" stroke-width="2.6" stroke-linecap="round"/>
+  <circle cx="128" cy="248" r="9" fill="#0c0a09" stroke="#fde68a" stroke-width="2"/>
+  <!-- wrist grip -->
+  <rect x="188" y="70" width="24" height="36" rx="5" fill="#0c0a09" stroke="#fbbf24" stroke-width="2.2"/>
+  <circle cx="200" cy="56" r="8" fill="#0c0a09" stroke="#fde68a" stroke-width="2"/>
+  <circle cx="200" cy="56" r="2.6" fill="#f1df76"/>
 </svg>

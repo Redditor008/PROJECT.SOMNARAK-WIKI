@@ -8,9 +8,10 @@
       <stop offset="0%" stop-color="#94a3b8" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
-    <filter id="f010" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3"/>
-    </filter>
+    <linearGradient id="hx010" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e2e8f0"/>
+      <stop offset="1" stop-color="#334155"/>
+    </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw010)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
@@ -18,35 +19,28 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0f172a" stroke="#94a3b8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- pressure pillars -->
-  <g stroke="#1e293b" opacity=".6">
-    <path d="M70 150 L70 320 M330 150 L330 320 M70 320 L148 320 M330 320 L252 320" stroke-width="1.4"/>
+  <!-- WAR SLEDGE: long two-handed haft + heavy angled head with three sealed impressions -->
+  <!-- head (rotated slab) -->
+  <g transform="rotate(-34 252 152)">
+    <rect x="180" y="118" width="136" height="72" rx="12" fill="url(#hx010)" stroke="#e2e8f0" stroke-width="3"/>
+    <rect x="180" y="180" width="30" height="10" rx="3" fill="#1e293b" stroke="#94a3b8" stroke-width="1.4"/>
+    <!-- three shallow geometric impressions (not a face) -->
+    <path d="M252 134 L260 142 L252 150 L244 142 Z" fill="#0f172a" stroke="#e2e8f0" stroke-width="1.6"/>
+    <rect x="240" y="154" width="24" height="4" rx="2" fill="#0f172a" stroke="#e2e8f0" stroke-width="1.2"/>
+    <path d="M244 170 L252 178 L260 170 L252 166 Z" fill="#0f172a" stroke="#e2e8f0" stroke-width="1.6"/>
+    <!-- forged side ribs -->
+    <path d="M190 132 L190 176 M200 132 L200 176" stroke="#94a3b8" stroke-width="1.4" opacity=".8"/>
   </g>
-
-  <!-- Absolute Maul: heavy rectangular drop-head with glyphs -->
-  <path d="M124 104 L276 104 L280 186 L272 214 L276 236 L124 236 L128 214 L120 186 Z"
-        fill="#1e293b" stroke="#e2e8f0" stroke-width="3"/>
-  <!-- head crown -->
-  <path d="M124 104 L276 104 L276 118 L124 118 Z" fill="#0f172a" stroke="#94a3b8" stroke-width="1.4"/>
-  <!-- pressure marks -->
-  <g stroke="#94a3b8" stroke-width="1.8" opacity=".85">
-    <path d="M144 140 L152 128 L166 156 L170 146 M152 128 L170 146"/>
-    <rect x="188" y="130" width="32" height="22" rx="2"/>
-    <path d="M188 152 L204 152 L198 170 Z"/>
-    <path d="M232 136 L238 126 L246 152 L250 142 M238 126 L250 142"/>
-  </g>
-  <path d="M148 196 L252 196 M152 216 L248 216" stroke="#1e293b" stroke-width="1.4" opacity=".7"/>
-  <!-- rivets -->
-  <g fill="#e2e8f0" opacity=".8">
-    <circle cx="154" cy="214" r="3"/><circle cx="246" cy="214" r="3"/>
-    <circle cx="154" cy="300" r="3"/><circle cx="246" cy="300" r="3"/>
-  </g>
-
-  <!-- two-hand shaft -->
-  <rect x="188" y="236" width="24" height="104" rx="6" fill="#1e293b" stroke="#e2e8f0" stroke-width="2.4"/>
-  <path d="M190 252 L210 260 M190 268 L210 276 M190 284 L210 292 M190 300 L210 308 M190 316 L210 324" stroke="#94a3b8" stroke-width="1.4" opacity=".8"/>
-  <!-- pommel -->
-  <path d="M182 340 L218 340 L216 360 L184 360 Z" fill="#1e293b" stroke="#e2e8f0" stroke-width="2"/>
-  <circle cx="200" cy="350" r="6" fill="#f1df76"/>
-  <circle cx="200" cy="372" r="5" fill="#94a3b8" opacity=".6" filter="url(#f010)"/>
+  <!-- striker corner -->
+  <path d="M306 112 L322 104 L326 120 L312 132 Z" fill="#1e293b" stroke="#e2e8f0" stroke-width="1.8"/>
+  <!-- haft running down-left -->
+  <path d="M216 192 L128 318 L152 332 L240 206 Z" fill="#0f172a" stroke="#e2e8f0" stroke-width="2.6"/>
+  <path d="M222 218 L206 238 M212 250 L196 270" stroke="#94a3b8" stroke-width="2" opacity=".9"/>
+  <!-- wrap bands -->
+  <path d="M196 282 L180 302 M188 302 L172 322 M180 318 L166 336" stroke="#94a3b8" stroke-width="2" opacity=".9"/>
+  <!-- butt ring -->
+  <circle cx="150" cy="326" r="10" fill="#0f172a" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="150" cy="326" r="3" fill="#f1df76"/>
+  <!-- hanging weight shadow -->
+  <ellipse cx="262" cy="172" rx="34" ry="20" fill="#e2e8f0" opacity=".08"/>
 </svg>

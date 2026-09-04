@@ -1,44 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE EMBRACE FANG">
   <defs>
     <radialGradient id="bw005" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#1c1917"/>
-      <stop offset="100%" stop-color="#0c0a09"/>
+      <stop offset="0%" stop-color="#450a0a"/>
+      <stop offset="100%" stop-color="#1c0505"/>
     </radialGradient>
     <radialGradient id="gw005" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#ef5b55" stop-opacity=".22"/>
+      <stop offset="0%" stop-color="#f87171" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="bl005" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#fb7185"/>
-      <stop offset="1" stop-color="#7f1d1d"/>
+    <linearGradient id="fn005" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#dc2626"/>
+      <stop offset="1" stop-color="#450a0a"/>
     </linearGradient>
-    <filter id="f005" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3"/>
-    </filter>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw005)" stroke="#ef5b55" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw005)" stroke="#dc2626" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gw005)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#ef5b55" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#ef5b55" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#1c0505" stroke="#dc2626" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#dc2626" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- Embrace Fang: broad curved scythe fang with serrated back edge -->
-  <path d="M120 316 L196 82 L212 92 L234 256 Q236 318 180 330 Q150 336 120 326 Z"
-        fill="url(#bl005)" stroke="#ef5b55" stroke-width="3"/>
-  <!-- serration -->
-  <path d="M120 316 L136 302 M128 306 L144 292 M136 296 L152 282 M144 286 L160 272 M152 276 L168 262 M160 266 L176 252" stroke="#fca5a5" stroke-width="1.4" opacity=".7"/>
-  <path d="M150 300 L202 108" stroke="#fb7185" stroke-width="1.2" opacity=".7"/>
-  <path d="M176 316 L210 160 M204 314 L222 200" stroke="#ef5b55" stroke-width="1.2" opacity=".7"/>
-  <!-- blood-line -->
-  <path d="M212 92 L222 168 L216 260" stroke="#ef5b55" stroke-width="1.6"/>
-
-  <!-- guard + wrapped grip -->
-  <path d="M128 326 L172 322 L168 338 L124 342 Z" fill="#292524" stroke="#ef5b55" stroke-width="1.6"/>
-  <rect x="128" y="338" width="28" height="54" rx="6" fill="#292524" stroke="#ef5b55" stroke-width="2.4"/>
-  <path d="M131 350 L153 358 M131 364 L153 372 M131 378 L153 386" stroke="#fca5a5" stroke-width="1.6" opacity=".8"/>
-  <!-- pommel -->
-  <circle cx="142" cy="400" r="8" fill="#292524" stroke="#f1df76" stroke-width="2"/>
-  <circle cx="142" cy="400" r="3" fill="#f1df76"/>
-  <!-- drift bead -->
-  <circle cx="262" cy="112" r="4" fill="#ef5b55" opacity=".6" filter="url(#f005)"/>
+  <!-- TALON FANG CLAW: three inward-curving crimson fangs over a knuckle cuff -->
+  <!-- left fang -->
+  <path d="M154 174 C154 122 158 100 192 84 C178 110 168 136 172 174 Z" fill="url(#fn005)" stroke="#fca5a5" stroke-width="2.4"/>
+  <!-- right fang -->
+  <path d="M246 174 C246 122 242 100 208 84 C222 110 232 136 228 174 Z" fill="url(#fn005)" stroke="#fca5a5" stroke-width="2.4"/>
+  <!-- centre fang -->
+  <path d="M186 178 C188 120 194 100 200 84 C210 110 210 134 204 178 Z" fill="url(#fn005)" stroke="#fca5a5" stroke-width="2.4"/>
+  <!-- warm grip edge glints -->
+  <path d="M158 162 C158 128 166 108 190 92 M242 162 C242 128 234 108 210 92" stroke="#fecaca" stroke-width="1" opacity=".7"/>
+  <!-- knuckle cuff plate -->
+  <path d="M148 172 L252 172 L242 214 L158 214 Z" fill="#450a0a" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M166 188 L234 188" stroke="#fecaca" stroke-width="1.2" opacity=".7"/>
+  <circle cx="172" cy="200" r="4" fill="#f1df76"/>
+  <circle cx="200" cy="200" r="4" fill="#f1df76"/>
+  <circle cx="228" cy="200" r="4" fill="#f1df76"/>
+  <!-- wrist cuff ring behind -->
+  <path d="M120 190 L130 214 M280 190 L270 214" stroke="#dc2626" stroke-width="2"/>
+  <path d="M120 190 C150 210 250 210 280 190" fill="none" stroke="#dc2626" stroke-width="1.6" opacity=".8"/>
+  <!-- warm grip -->
+  <path d="M176 214 L224 214 L218 232 L182 232 Z" fill="#290a0a" stroke="#dc2626" stroke-width="1.8"/>
+  <rect x="182" y="232" width="36" height="96" rx="9" fill="#290a0a" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M188 252 L212 260 M188 274 L212 282 M188 296 L212 304" stroke="#f87171" stroke-width="1.6" opacity=".85"/>
+  <circle cx="200" cy="342" r="9" fill="#290a0a" stroke="#f1df76" stroke-width="2"/>
+  <circle cx="200" cy="342" r="2.6" fill="#f1df76"/>
 </svg>
