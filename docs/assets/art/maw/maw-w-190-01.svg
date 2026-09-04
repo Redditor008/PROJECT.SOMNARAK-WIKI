@@ -1,25 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE RAGE FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bge23d3c" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw190" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#230a0e"/>
+      <stop offset="100%" stop-color="#0c0405"/>
     </radialGradient>
-    <radialGradient id="gle23d3c" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl190" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#dc2626"/>
+      <stop offset="1" stop-color="#fecaca"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bge23d3c)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw190)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="132" fill="url(#gle23d3c)"/>
-  <g transform="rotate(-6 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 122.69999999999999, 227.0 66.0 233.0 66.0 C223.0 126.48, 220.0 149.16, 215.0 192.0 Z" fill="#3e8bd5" fill-opacity=".26" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 134.04, 225.0 74.0 230.0 72.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#3e8bd5" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="42.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="246.0" r="5" fill="#3e8bd5" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-190-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0405" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- short javelin cocked for the cast, fang head up-right -->
+  <path d="M92 312 L246 158" stroke="#4a1414" stroke-width="7" stroke-linecap="round"/>
+  <path d="M108 296 L120 308 M136 268 L148 280" stroke="#ef4444" stroke-width="1.8" opacity=".8"/>
+  <path d="M96 316 C 82 330, 74 336, 62 340" fill="none" stroke="#7f1d1d" stroke-width="2" stroke-dasharray="4 5" opacity=".8"/>
+  <!-- the crimson fang set as the head: fissure lines tip to socket -->
+  <path d="M240 164 C 252 140, 272 116, 300 98 C 312 90, 324 86, 332 88 C 330 100, 322 114, 308 128 C 288 148, 264 162, 246 170 Z"
+        fill="url(#bl190)" stroke="#ef4444" stroke-width="2.6"/>
+  <path d="M326 94 L306 112 M314 104 L292 124 M296 122 L272 142 M276 138 L254 156" stroke="#7f1d1d" stroke-width="1.8"/>
+  <path d="M330 90 C 322 98, 312 108, 302 116" stroke="#fecaca" stroke-width="1.6" opacity=".9"/>
+  <!-- socket binding fang to shaft -->
+  <path d="M238 156 L252 170" stroke="#f1df76" stroke-width="3"/>
+  <!-- cast arcs behind the shaft -->
+  <path d="M120 250 C 136 236, 154 224, 174 216 M108 232 C 126 216, 148 202, 172 192" fill="none" stroke="#b91c1c" stroke-width="1.4" stroke-dasharray="5 6" opacity=".7"/>
+  <!-- the bounded Grudge path: it ENDS at the accountability line -->
+  <path d="M84 348 L252 348" stroke="#dc2626" stroke-width="5"/>
+  <path d="M252 336 L252 360" stroke="#f1df76" stroke-width="4"/>
+  <path d="M262 348 L344 348" stroke="#57534e" stroke-width="2" stroke-dasharray="3 7" opacity=".7"/>
+  <!-- the injustice pressure it may open: coercive detention grid -->
+  <rect x="300" y="212" width="60" height="66" fill="none" stroke="#b91c1c" stroke-width="2.2"/>
+  <path d="M315 212 L315 278 M330 212 L330 278 M345 212 L345 278" stroke="#b91c1c" stroke-width="1.8"/>
+  <path d="M300 236 C 292 240, 286 246, 284 254" fill="none" stroke="#ef4444" stroke-width="2"/>
+  <!-- accountability witness empowered to stop retaliation -->
+  <circle cx="268" cy="312" r="5.4" fill="none" stroke="#fecaca" stroke-width="1.8"/>
+  <path d="M268 317 L268 334 M268 321 L258 314 M268 321 L280 318 M268 334 L261 346 M268 334 L275 346 M258 314 L256 306" stroke="#fecaca" stroke-width="1.8" fill="none"/>
+  <!-- heat in the fissures when intent drifts toward revenge -->
+  <path d="M64 120 C 70 110, 66 102, 72 92 M80 126 C 86 116, 82 108, 88 98" fill="none" stroke="#fb923c" stroke-width="1.8" opacity=".8"/>
+  <!-- the old wound that aches while it is drawn -->
+  <path d="M62 196 L86 196 M74 188 L74 204" stroke="#7f1d1d" stroke-width="2" opacity=".8"/>
 </svg>

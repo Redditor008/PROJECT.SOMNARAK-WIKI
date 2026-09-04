@@ -1,32 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MELTED REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg8eaaad" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw165" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl8eaaad" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl165" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg8eaaad)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw165)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="132" fill="url(#gl8eaaad)"/>
-  <g transform="rotate(-10 200.0 192.0)">
-<path d="M183.0 192.0 L192.86 84.72 L200.0 43.0 L207.14 93.66 L217.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 43.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="191.5" y="105.6" width="17.0" height="62.6" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="173.0" y="187.0" width="54.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="52.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="260.0" r="8.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(-8 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(10 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-165-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- tall candle-staff, planted diagonal -->
+  <path d="M132 366 L216 96" stroke="#1e3a5f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M148 318 L158 322 M170 250 L180 254 M192 182 L202 186" stroke="#60a5fa" stroke-width="1.6" opacity=".7"/>
+  <!-- soft wax head: candle body with drip curves, holds a sharp singing edge-fin -->
+  <path d="M204 108 C 196 96, 198 74, 210 58 C 218 46, 232 42, 240 50 C 250 60, 248 84, 238 100 C 234 108, 228 114, 220 116 C 212 118, 208 114, 204 108 Z"
+        fill="url(#bl165)" stroke="#38bdf8" stroke-width="2.6"/>
+  <path d="M206 104 C 202 116, 204 128, 210 136 M240 96 C 244 106, 243 118, 238 126" fill="none" stroke="#7dd3fc" stroke-width="2" opacity=".8"/>
+  <path d="M212 134 a4 4 0 1 0 .1 0 M239 124 a3.4 3.4 0 1 0 .1 0" fill="#7dd3fc" opacity=".7"/>
+  <path d="M240 50 L262 36" stroke="#e0f2fe" stroke-width="2.6" stroke-linecap="round"/>
+  <!-- melted-looking light running FORWARD and stopping at one current danger -->
+  <path d="M244 62 C 280 70, 306 84, 326 104" fill="none" stroke="#7dd3fc" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M252 74 C 258 80, 258 86, 252 90 M282 86 C 288 92, 288 98, 282 102" fill="none" stroke="#7dd3fc" stroke-width="1.6" opacity=".7"/>
+  <circle cx="336" cy="114" r="14" fill="none" stroke="#fb923c" stroke-width="2.6"/>
+  <path d="M336 106 L336 116 M336 121 L336 122" stroke="#fb923c" stroke-width="2.4"/>
+  <path d="M322 128 L350 100" stroke="#7dd3fc" stroke-width="2.2"/>
+  <!-- the future forked: possible (solid) never certain (dashed, unclaimed) -->
+  <path d="M262 210 C 288 208, 306 214, 318 226" fill="none" stroke="#60a5fa" stroke-width="2"/>
+  <path d="M262 210 C 286 224, 298 244, 302 266" fill="none" stroke="#3b5f88" stroke-width="2" stroke-dasharray="5 6"/>
+  <circle cx="322" cy="230" r="4" fill="none" stroke="#60a5fa" stroke-width="1.8"/>
+  <circle cx="304" cy="272" r="4" fill="none" stroke="#3b5f88" stroke-width="1.6" stroke-dasharray="3 3"/>
+  <!-- present-care witness, hand raised to halt certainty-language -->
+  <circle cx="88" cy="240" r="6" fill="none" stroke="#7dd3fc" stroke-width="1.8"/>
+  <path d="M88 246 L88 264 M88 251 L78 244 M88 251 L98 248 M88 264 L82 276 M88 264 L94 276 M98 248 L100 240" stroke="#7dd3fc" stroke-width="1.8" fill="none"/>
+  <!-- unwept tear -->
+  <path d="M108 292 C 104 298, 104 303, 108 306 C 112 303, 112 298, 108 292 Z" fill="#38bdf8" opacity=".8"/>
 </svg>

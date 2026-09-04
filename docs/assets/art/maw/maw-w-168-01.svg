@@ -1,32 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE TRACE REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg7975ce" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw168" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl7975ce" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl168" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg7975ce)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw168)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="111" fill="url(#gl7975ce)"/>
-  <g transform="rotate(8 200.0 192.0)">
-<path d="M186.0 192.0 L194.12 92.64 L200.0 54.0 L205.88 100.92 L214.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 54.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="193.0" y="112.0" width="14.0" height="58.0" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="176.0" y="187.0" width="48.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="38.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="246.0" r="8.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(13 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(1 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-168-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- small blade angled, point NOT forward -->
+  <path d="M118 262 L96 288 L112 300 L188 216 C 200 202, 202 188, 192 180 C 182 172, 168 178, 158 190 Z"
+        fill="url(#bl168)" stroke="#38bdf8" stroke-width="2.4"/>
+  <path d="M118 262 L100 288" stroke="#0a1626" stroke-width="4"/>
+  <rect x="86" y="288" width="30" height="12" rx="4" transform="rotate(38 101 294)" fill="#12233d" stroke="#60a5fa" stroke-width="2"/>
+  <!-- broken route line inside the crystal -->
+  <path d="M128 256 L142 240 M148 232 L158 220 M164 212 L172 202" stroke="#0a1626" stroke-width="2.6"/>
+  <!-- the route line TURNS toward the mapped return, not the collapsed trace -->
+  <path d="M172 202 C 200 176, 240 164, 282 166" fill="none" stroke="#7dd3fc" stroke-width="2.8"/>
+  <path d="M276 158 L290 166 L276 174" fill="none" stroke="#7dd3fc" stroke-width="2.4"/>
+  <!-- the mapped exit: lit doorway -->
+  <rect x="300" y="132" width="34" height="62" rx="3" fill="none" stroke="#7dd3fc" stroke-width="2.4"/>
+  <path d="M306 138 L328 138 L328 188" stroke="#38bdf8" stroke-width="1.4" opacity=".7"/>
+  <circle cx="308" cy="164" r="2" fill="#7dd3fc"/>
+  <!-- the collapsed trace: crumbling, refused -->
+  <path d="M150 300 C 176 316, 196 336, 208 356" fill="none" stroke="#3b5f88" stroke-width="2" stroke-dasharray="4 7" opacity=".8"/>
+  <path d="M214 350 L206 362 M200 344 L194 352" stroke="#3b5f88" stroke-width="1.4" opacity=".6"/>
+  <!-- map card with return route and custodian mark -->
+  <rect x="252" y="252" width="92" height="66" rx="4" fill="none" stroke="#60a5fa" stroke-width="1.8"/>
+  <path d="M262 302 C 276 286, 292 282, 306 270 L322 264" fill="none" stroke="#7dd3fc" stroke-width="2"/>
+  <circle cx="322" cy="264" r="3.4" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M262 268 L276 268 M262 276 L272 276" stroke="#60a5fa" stroke-width="1.2" opacity=".7"/>
+  <!-- map custodian holding the card edge -->
+  <circle cx="238" cy="300" r="5" fill="none" stroke="#7dd3fc" stroke-width="1.8"/>
+  <path d="M238 305 L238 320 M238 309 L248 306 M238 309 L230 314 M238 320 L232 330 M238 320 L244 330" stroke="#7dd3fc" stroke-width="1.8" fill="none"/>
+  <!-- dim tally: route stays dim until ALL return -->
+  <path d="M64 120 L64 134 M72 120 L72 134 M80 120 L80 134 M88 124 L88 134" stroke="#3b5f88" stroke-width="2"/>
 </svg>

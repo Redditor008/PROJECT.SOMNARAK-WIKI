@@ -308,6 +308,25 @@ W-100…126 redrawn as varied forms, each staged from its own record:
 
 Gates PASS. Batch 5 (W-127…159) still in rejected style; next redo round after owner review — apply the same variety + range-stat rule.
 
+## 15f. Batch 6 (2026-09-05, first batch under the NON-MELEE ruling)
+
+Owner directive with the batch-5 approval: for variety, Medium-range items should include gun/cannon/staff/fantasy kinds — not everything a hitting/cutting weapon. Ranges from records: W-160/168/169/170/185/189 = `2 — Short`; W-165/175/176/180/184/190 = `3 — Medium`.
+
+- W-160 Binding Maul — GROUNDED CHAIN-LINK MAUL: maul lying on the ground (it does not rise until the name is spoken), open link in the head, Weight line wrapping a hatched obligation field, name card and obligation card held apart, released person walking to the review door, custodian with the debt file (Short).
+- W-165 Melted Requiem — CANDLE-STAFF (new kind): tall planted staff whose wax-soft candle head drips light and carries a singing edge-fin; melted light runs forward and stops at ONE current danger; the future forked possible/never-certain; present-care witness with raised hand (Medium). Appearance text updated in md+html.
+- W-168 Trace Requiem — RETURN-ROUTE BLADE: small blade with the broken route line inside, the line turning toward the mapped lit exit and away from the crumbling collapsed trace; map card with custodian mark; dim tally until all return (Short).
+- W-169 Rusted Maul — BRACE-STRIKE MAUL: small maul swung level, rust lines on the head, short dark brace line from the cracked column into the prepared A-frame replacement, relief team with the repair plan, green handoff tick (Short).
+- W-170 Silence Hammer — BELL-HOLLOW HAMMER: pale glass hammer over the single spreading impact circle that swallows sound marks; external warning arriving OUTSIDE the field; alert partner with the warning log; struck-ear mark for the deaf bearer (Short).
+- W-175 Dream Requiem — THREAD-LIGHT BLADE: wandering under-surface threads gathering into one luminous line that runs past the tip into the maze of hidden desire; sleeper led out; lantern waking-anchor; oval doorway guard (Medium).
+- W-176 Dream Requiem (Loom) — LOOM-FRAME THREAD-BOW (new kind): two crystal limbs strung with the single released thread, warp strands crossing the window, two anchor knots (Dream/waking) at the grip; the shot unpicks a woven grid construct line by line and spirals the material back to the Loom's custody box (Medium). Appearance text updated in md+html.
+- W-180 Debt Maul — LEDGER-WALL RAM MAUL: long iron-banded haft driven horizontally like a ram, ledger-brick head holding the debt wall open, people passing through the held gap to review, custodian pointing the route beyond, route-review card (Medium).
+- W-184 Redacted Lens — HAND-CANNON SIGHTING FRAME (new kind): slender white pistol-shaped frame with the Void-glass disc where a muzzle would be — it fires nothing but sight; Pierce along the sightline to the pale erasure outline; three declaration cards (known/unknown/inferred); Archive-witness eye over the fragment tray (Medium). Appearance text updated in md+html.
+- W-185 Gallery Requiem — PALETTE-KNIFE BLADE: broad trowel blade with brush-stroke ridges and a dragged-background patch, cranked tang; faceless portrait in its frame, whispers steadied into legible lines; verified-name and explicit-unknown cards; witness eye; involuntary tears (Short).
+- W-189 Fading Requiem — DUST-ECHO BLADE: matte blade shedding grains from the spine, steadying cone falling on ONE bright doorway of a fading dashed settlement; witness recording; dusk band; postponed-custody dust on the hilt (Short).
+- W-190 Rage Fang — FANG-HEAD JAVELIN (new kind): crimson fang socketed onto a short javelin shaft cocked for the cast; the bounded red path literally ENDS at the gold accountability line; detention grid; accountability witness with the stop-hand; heat marks for revenge-drift (Medium). Appearance text updated in md+html.
+
+Gates PASS (SVG, structure, word floor). PARITY: form-sentences updated in registry md + docs html for the four items whose kind changed (W-165 staff, W-176 bow, W-184 hand-cannon frame, W-190 javelin); ability/limit/ritual text verbatim; md↔html parity 12/12.
+
 ## 15e. Batch 5 REDONE (2026-09-05, after owner approved batch 4 + variety rule)
 
 Ranges from records: W-135/150/152/155/156 = `2 — Short`; W-127/130/140/145/151/157/159 = `3 — Medium`. Note: five items in this batch are canonically NAMED "Maul" and W-151 is named a club by its own record, so their weapon KIND is fixed by canon — variety was achieved by giving every maul a completely different head, pose, and scene, and by pushing the non-maul items into non-sword forms where the record allows.

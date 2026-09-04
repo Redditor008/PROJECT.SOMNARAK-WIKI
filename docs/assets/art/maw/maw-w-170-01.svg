@@ -1,30 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SILENCE HAMMER">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // HAMMER -->
   <defs>
-    <radialGradient id="bg3267f6" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw170" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#14161c"/>
+      <stop offset="100%" stop-color="#08090c"/>
     </radialGradient>
-    <radialGradient id="gl3267f6" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl170" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#cbd5e1"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg3267f6)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw170)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="129" fill="url(#gl3267f6)"/>
-  <g transform="rotate(0 200.0 192.0)">
-<rect x="143.0" y="172.0" width="114.0" height="40.0" rx="6" fill="#8a8f98" fill-opacity=".22" stroke="#8a8f98" stroke-width="3"/>
-<path d="M150.0 178.0 L248.0 206.0" stroke="#e0f2fe" stroke-width="1.1" opacity=".6"/>
-<rect x="195.0" y="212.0" width="10" height="79.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-<circle cx="200.0" cy="299.0" r="6" fill="#8a8f98" fill-opacity=".55"/>
-  </g>
-  <g transform="rotate(6 200.0 320.0)" opacity=".9">
-    <circle cx="200.0" cy="320.0" r="4.8" fill="none" stroke="#8a8f98" stroke-width="1.4" opacity=".42"/>
-  </g>
-  <g transform="rotate(12 162.0 118.0)" opacity=".9">
-    <path d="M155.3 118.0 Q162.0 111.3 168.7 118.0" fill="none" stroke="#e0f2fe" stroke-width="1.3" opacity=".42"/><path d="M157.4 121.4 Q162.0 116.3 166.6 121.4" fill="none" stroke="#e0f2fe" stroke-width="0.8" opacity=".32"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-170-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- pale Han-glass hammer, raised from upper right -->
+  <path d="M330 84 L232 176" stroke="#475061" stroke-width="7" stroke-linecap="round"/>
+  <rect x="196" y="152" width="64" height="40" rx="6" transform="rotate(-43 228 172)" fill="#1a1d24" stroke="#cbd5e1" stroke-width="2.6" opacity=".95"/>
+  <!-- bell-shaped hollow inside the head, silent -->
+  <path d="M218 156 C 212 166, 212 174, 220 180 L236 168 C 230 160, 224 156, 218 156 Z" fill="none" stroke="#94a3b8" stroke-width="1.8"/>
+  <path d="M226 176 L229 179" stroke="#94a3b8" stroke-width="1.6"/>
+  <!-- the single pale impact circle spreading, swallowing sound -->
+  <circle cx="176" cy="252" r="26" fill="none" stroke="#e2e8f0" stroke-width="2.6"/>
+  <circle cx="176" cy="252" r="52" fill="none" stroke="#cbd5e1" stroke-width="1.8" opacity=".7"/>
+  <circle cx="176" cy="252" r="80" fill="none" stroke="#94a3b8" stroke-width="1.4" opacity=".45"/>
+  <!-- sound marks dying inside the field -->
+  <path d="M150 240 C 154 236, 158 244, 162 240 M186 268 C 190 264, 194 272, 198 268" stroke="#64748b" stroke-width="1.6" opacity=".5" fill="none"/>
+  <path d="M166 224 L170 228 M170 224 L166 228" stroke="#64748b" stroke-width="1.4" opacity=".5"/>
+  <!-- the external warning arriving OUTSIDE the silence -->
+  <path d="M46 120 L74 138 M52 108 L80 126" stroke="#e2e8f0" stroke-width="2" opacity=".8"/>
+  <path d="M84 132 C 92 138, 98 146, 102 156" fill="none" stroke="#e2e8f0" stroke-width="2" stroke-dasharray="5 4"/>
+  <!-- alert partner standing beyond the outer ring, ear turned, holding authority -->
+  <circle cx="92" cy="320" r="6" fill="none" stroke="#e2e8f0" stroke-width="2"/>
+  <path d="M92 326 L92 346 M92 331 L80 324 M92 331 L104 328 M92 346 L84 360 M92 346 L100 360" stroke="#e2e8f0" stroke-width="2" fill="none"/>
+  <path d="M98 316 a5 5 0 0 1 4 6" fill="none" stroke="#cbd5e1" stroke-width="1.6"/>
+  <!-- warning log the partner records -->
+  <rect x="112" y="336" width="40" height="26" rx="3" fill="none" stroke="#94a3b8" stroke-width="1.6"/>
+  <path d="M118 344 L146 344 M118 351 L138 351 M118 358 L132 358" stroke="#94a3b8" stroke-width="1.4"/>
+  <!-- the bearer cannot hear: struck ear mark near the grip -->
+  <path d="M316 108 a7 7 0 0 1 6 9 M312 100 L332 124" stroke="#94a3b8" stroke-width="1.8" fill="none"/>
 </svg>

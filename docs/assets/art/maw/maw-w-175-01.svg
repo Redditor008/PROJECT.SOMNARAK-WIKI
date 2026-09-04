@@ -1,32 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DREAM REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // THREAD -->
   <defs>
-    <radialGradient id="bg4d1e69" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw175" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl4d1e69" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl175" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg4d1e69)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw175)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="119" fill="url(#gl4d1e69)"/>
-  <g transform="rotate(-9 200.0 192.0)">
-<path d="M176.0 69.0 C224.0 51.0, 170.0 142.8, 226.0 167.4 C180.0 185.8, 226.0 212.0, 178.0 251.0" fill="none" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M216.0 147.7 C190.0 157.6, 218.0 182.2, 186.0 192.0" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".55"/>
-<circle cx="178.0" cy="251.0" r="5" fill="#3e8bd5" fill-opacity=".6"/>
-  </g>
-  <g transform="rotate(-6 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(-5 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <g transform="rotate(-14 162.0 118.0)" opacity=".9">
-    <path d="M155.3 118.0 Q162.0 111.3 168.7 118.0" fill="none" stroke="#e0f2fe" stroke-width="1.3" opacity=".42"/><path d="M157.4 121.4 Q162.0 116.3 166.6 121.4" fill="none" stroke="#e0f2fe" stroke-width="0.8" opacity=".32"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-175-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- slender blade, low diagonal; oval doorway guard -->
+  <path d="M96 330 L84 344 L96 354 L262 190 C 274 178, 276 164, 266 156 C 256 148, 242 152, 232 162 Z"
+        fill="url(#bl175)" stroke="#38bdf8" stroke-width="2.4"/>
+  <ellipse cx="104" cy="330" rx="10" ry="17" transform="rotate(45 104 330)" fill="none" stroke="#7dd3fc" stroke-width="2.4"/>
+  <path d="M92 342 L74 360" stroke="#12233d" stroke-width="6" stroke-linecap="round"/>
+  <path d="M76 346 L82 352 M84 338 L90 344" stroke="#60a5fa" stroke-width="1.6"/>
+  <!-- wandering threads under the surface gathering into ONE luminous line -->
+  <path d="M116 320 C 128 304, 124 296, 136 284 C 146 274, 144 264, 156 254" fill="none" stroke="#0a1626" stroke-width="1.8"/>
+  <path d="M128 326 C 142 312, 138 300, 152 288 C 162 278, 160 270, 172 260" fill="none" stroke="#0a1626" stroke-width="1.8"/>
+  <path d="M160 254 L252 166" stroke="#e0f2fe" stroke-width="2.6"/>
+  <!-- the line continues past the tip into the maze of hidden desire -->
+  <path d="M268 158 L312 118" stroke="#7dd3fc" stroke-width="2.4" stroke-dasharray="9 5"/>
+  <path d="M282 66 L346 66 L346 130 L298 130 L298 82 L330 82 L330 114 L314 114 L314 98" fill="none" stroke="#3b5f88" stroke-width="2.2"/>
+  <!-- the sleeper drawn OUT of the maze, not told the dream is false -->
+  <circle cx="256" cy="252" r="5.4" fill="none" stroke="#7dd3fc" stroke-width="1.8"/>
+  <path d="M262 256 L286 262 M286 262 L296 258 M286 262 L292 270" stroke="#7dd3fc" stroke-width="1.8" fill="none"/>
+  <path d="M244 262 C 252 258, 262 258, 270 260" fill="none" stroke="#3b5f88" stroke-width="1.4" opacity=".7"/>
+  <path d="M312 128 C 300 172, 284 214, 268 244" fill="none" stroke="#60a5fa" stroke-width="1.6" stroke-dasharray="3 6" opacity=".8"/>
+  <!-- waking anchor: lantern with the stated cue -->
+  <rect x="316" y="296" width="30" height="38" rx="4" fill="none" stroke="#fcd34d" stroke-width="2.2"/>
+  <path d="M323 296 L323 288 L339 288 L339 296 M331 306 L331 320" stroke="#fcd34d" stroke-width="2"/>
+  <circle cx="331" cy="324" r="2.4" fill="#fcd34d"/>
+  <path d="M316 315 C 296 312, 280 304, 268 292" fill="none" stroke="#fcd34d" stroke-width="1.4" stroke-dasharray="4 5" opacity=".8"/>
+  <!-- consent boundary spoken aloud: small paired marks -->
+  <path d="M60 96 C 66 90, 74 90, 80 96 M60 108 C 66 102, 74 102, 80 108" stroke="#7dd3fc" stroke-width="1.8" fill="none"/>
 </svg>

@@ -114,3 +114,22 @@ Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items a
 | MAW-W-156 The Deadline Maul | Clock-Face Maul (case card, weight line to action field) | Short (source: range 2 — Short) |
 | MAW-W-157 The Sleeping Maul | Exhale Maul (horizontal head, weight line onto fatigue field) | Medium (source: range 3 — Medium) |
 | MAW-W-159 The Frozen Fang | Frost-Fracture Fang (released breath, relief stop-hand) | Medium (source: range 3 — Medium) |
+
+Batch-6 additions (2026-09-05, per owner ruling to add non-striking forms — ranged/staff/fantasy kinds — wherever the record allows, keyed to the range stat):
+
+| Item | Archetype (form) | Band (source) |
+| --- | --- | --- |
+| MAW-W-160 The Binding Maul | Grounded Chain-Link Maul (lying scene, open link, name/obligation cards apart) | Short (source: range 2 — Short) |
+| MAW-W-165 The Melted Requiem | Candle-Staff (wax head, singing edge-fin, light-to-danger line) | Medium (source: range 3 — Medium) |
+| MAW-W-168 The Trace Requiem | Return-Route Blade (route line turned to the mapped exit, map custodian) | Short (source: range 2 — Short) |
+| MAW-W-169 The Rusted Maul | Brace-Strike Maul (load handoff to prepared A-frame replacement) | Short (source: range 2 — Short) |
+| MAW-W-170 The Silence Hammer | Bell-Hollow Hammer (pale impact circle, outside alert partner) | Short (source: range 2 — Short) |
+| MAW-W-175 The Dream Requiem | Thread-Light Blade (threads aligned into one line through the desire-maze) | Medium (source: range 3 — Medium) |
+| MAW-W-176 The Dream Requiem (Loom) | Loom-Frame Thread-Bow (warp window, two anchor knots, unpicking shot) | Medium (source: range 3 — Medium) |
+| MAW-W-180 The Debt Maul | Ledger-Wall Ram Maul (horizontal thrust holding the debt wall open) | Medium (source: range 3 — Medium) |
+| MAW-W-184 Redacted Lens | Hand-Cannon Sighting Frame (pistol grip, Void-glass lens at the muzzle) | Medium (source: range 3 — Medium) |
+| MAW-W-185 The Gallery Requiem | Palette-Knife Blade (brush-stroke ridges, faceless portrait frame) | Short (source: range 2 — Short) |
+| MAW-W-189 The Fading Requiem | Dust-Echo Blade (grain-shedding, steadying cone on one doorway) | Short (source: range 2 — Short) |
+| MAW-W-190 The Rage Fang | Fang-Head Javelin (cast weapon, bounded red path ending at accountability) | Medium (source: range 3 — Medium) |
+
+Batch-6 form notes: three of the Medium items became true non-melee kinds per the owner's directive — a candle-staff (W-165), a loom-frame thread-bow (W-176), and a hand-cannon sighting frame (W-184) — plus a thrown javelin (W-190); the canonically named Mauls/Hammer keep their kind with fully distinct scenes.
