@@ -219,5 +219,26 @@ Status: **done** (same session, 2026-09-04). Same procedure as §12; each SVG ha
 - Catalog extended with archetypes 22–23 (Glaive/Polearm Blade, Exotic/Transforming) plus family-variant notes; mapping table now 36 items.
 - Contact-sheet rendered and reviewed; all distinct. SVG + structure gates PASS.
 
-## 14. Next weapon batch
-Batch 4 = next 12 W SVGs in numeric order: `100, 101, 102, 103, 105, 106, 108, 115, 119, 120, 125, 126`. Same procedure: read each page's Appearance paragraph → assign an unused archetype/variant (extend the catalog if needed) → hand-write the SVG in the batch-1 format → render + contact-sheet review → gates → update mapping table + this log → commit + push.
+## 14. Weapon SVG remake — Batch 4 (W-100, 101, 102, 103, 105, 106, 108, 115, 119, 120, 125, 126)
+
+Status: **done** (same session, 2026-09-04). Same procedure; each SVG hand-designed from its page's Appearance paragraph.
+
+| Item | Archetype | Band |
+|---|---|---|
+| W-100 The Unsaid Requiem | Petal Blade | Short |
+| W-101 The Ember Requiem | Ember Sidesword | Medium |
+| W-102 The Dancing Fang | Link Cleaver | Short |
+| W-103 The Cold Lens | Hex Frost Lens | Instant |
+| W-105 The Giant's Maul | Round Grand Maul | Room |
+| W-106 I Alone Crossed Requiem | Bridge Greatblade | Long |
+| W-108 The Trace Fang | Thread Sai | Close |
+| W-115 The Memory Lens | Gimbal Lens | Instant |
+| W-119 The Shadow Lens | Lantern Lens | Medium |
+| W-120 The Cage Fang | Basket Cutlass | Medium |
+| W-125 The Returning Lens | Shutter Lens | Instant |
+| W-126 The Melting Lens | Glass Leaf Blade | Short |
+
+- Mapping table now 48 items. Contact sheet reviewed; all silhouettes distinct. SVG + structure gates PASS.
+
+## 15. Next weapon batch
+Batch 5 = next 12 W SVGs in numeric order after 126 (check `ls docs/assets/art/maw/maw-w-*-01.svg` for the exact sequence; expected around `127, 130, 135, 140, 145, 150, 151, 152, 155, 156, 157, 159`). Same procedure: read each page's Appearance paragraph → assign an unused archetype/variant (extend the catalog if needed) → hand-write the SVG in the batch-1 format → render + contact-sheet review → gates → update mapping table + this log → commit + push.

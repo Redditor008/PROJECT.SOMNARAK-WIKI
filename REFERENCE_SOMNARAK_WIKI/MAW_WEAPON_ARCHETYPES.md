@@ -47,6 +47,7 @@ Every M.A.W. Weapon (W) item must map to a distinct archetype so no two share a 
 Additional maul-family variants introduced by later batches (still one silhouette per item): Hourglass Maul, Dish Maul, Vessel Maul.
 Additional short-blade variants: Tear Dagger, Tear Stiletto, Notched Dao. Additional rapier-family variants: Estoc (thicker, guardless thruster).
 Additional sword-family variants: Squared Warbrand, Cruciform Longsword, Falchion. Additional lens-family variants: Caliper Lens, Lens Pistol, Sceptre Lens.
+Batch-4 additions: Petal Blade, Ember Sidesword, Link Cleaver, Hex Frost Lens, Round Grand Maul, Bridge Greatblade, Thread Sai, Gimbal Lens, Lantern Lens, Basket Cutlass, Shutter Lens, Glass Leaf Blade.
 
 ## Current W → archetype mapping (distinct silhouettes)
 
@@ -88,3 +89,15 @@ Additional sword-family variants: Squared Warbrand, Cruciform Longsword, Falchio
 | MAW-W-091 The Crown of Requiem | Crown Coil Blade | Room |
 | MAW-W-092 The Burning Fang | Falchion | Medium |
 | MAW-W-099 The Dancing Fang | Notched Dao | Short |
+| MAW-W-100 The Unsaid Requiem | Petal Blade | Short |
+| MAW-W-101 The Ember Requiem | Ember Sidesword | Medium |
+| MAW-W-102 The Dancing Fang | Link Cleaver | Short |
+| MAW-W-103 The Cold Lens | Hex Frost Lens | Instant |
+| MAW-W-105 The Giant's Maul | Round Grand Maul | Room |
+| MAW-W-106 I Alone Crossed Requiem | Bridge Greatblade | Long |
+| MAW-W-108 The Trace Fang | Thread Sai | Close |
+| MAW-W-115 The Memory Lens | Gimbal Lens | Instant |
+| MAW-W-119 The Shadow Lens | Lantern Lens | Medium |
+| MAW-W-120 The Cage Fang | Basket Cutlass | Medium |
+| MAW-W-125 The Returning Lens | Shutter Lens | Instant |
+| MAW-W-126 The Melting Lens | Glass Leaf Blade | Short |

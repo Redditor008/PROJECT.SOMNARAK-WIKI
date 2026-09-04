@@ -1,34 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SHADOW LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bg9db8b2" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bw119" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gl9db8b2" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
+    <radialGradient id="gw119" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#a8b0bc" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg9db8b2)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw119)" stroke="#a8b0bc" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="132" fill="url(#gl9db8b2)"/>
-  <g transform="rotate(-3 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="48.0" ry="78.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="39.0" ry="66.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="30.0" ry="56.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M230.9 132.2 L225.1 141.4" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M243.9 160.3 L235.6 165.2" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M248.0 194.7 L239.0 194.3" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M242.4 228.6 L234.4 223.0" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="140.0" y="186.0" width="120.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="270.0" width="12" height="27.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(-13 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-119-01</text>
+  <circle cx="200" cy="188" r="130" fill="url(#gw119)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#a8b0bc" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#a8b0bc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- LANTERN LENS: hooded lantern housing, deep circular aperture, carry bail -->
+  <path d="M154 96 L246 96 L258 122 L142 122 Z" fill="#141922" stroke="#a8b0bc" stroke-width="2.8"/>
+  <path d="M188 96 C 188 78, 212 78, 212 96" fill="none" stroke="#a8b0bc" stroke-width="2.4"/>
+  <rect x="150" y="122" width="100" height="118" rx="10" fill="#141922" stroke="#a8b0bc" stroke-width="3"/>
+  <circle cx="200" cy="180" r="36" fill="#0a0d13" stroke="#f1f5f9" stroke-width="2"/>
+  <circle cx="200" cy="180" r="24" fill="none" stroke="#f1f5f9" stroke-width="1.2" opacity=".6"/>
+  <circle cx="200" cy="180" r="11" fill="none" stroke="#f1f5f9" stroke-width="1" opacity=".4"/>
+  <circle cx="200" cy="180" r="3.5" fill="#f1f5f9"/>
+  <path d="M160 132 L160 230 M240 132 L240 230" stroke="#a8b0bc" stroke-width="1.1" opacity=".45"/>
+  <path d="M150 240 L250 240 L242 256 L158 256 Z" fill="#141922" stroke="#a8b0bc" stroke-width="2.4"/>
+  <rect x="190" y="256" width="20" height="66" rx="6" fill="#141922" stroke="#a8b0bc" stroke-width="2.4"/>
+  <path d="M191 270 L209 276 M191 288 L209 294 M191 304 L209 310" stroke="#a8b0bc" stroke-width="1.4" opacity=".8"/>
+  <circle cx="200" cy="334" r="8" fill="#141922" stroke="#f1df76" stroke-width="2"/>
 </svg>

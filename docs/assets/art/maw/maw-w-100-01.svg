@@ -1,35 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE UNSAID REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg80c0f1" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bw100" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gl80c0f1" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
+    <radialGradient id="gw100" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#7dd3fc" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg80c0f1)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw100)" stroke="#7dd3fc" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="133" fill="url(#gl80c0f1)"/>
-  <g transform="rotate(-2 200.0 192.0)">
-<path d="M187.0 192.0 L194.54 94.08 L200.0 56.0 L205.46 102.24 L213.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 56.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="193.5" y="113.1" width="13.0" height="57.1" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="177.0" y="187.0" width="46.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="36.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="244.0" r="8.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(-4 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(2 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <g transform="rotate(-14 200.0 320.0)" opacity=".9">
-    <circle cx="200.0" cy="320.0" r="4.8" fill="none" stroke="#3e8bd5" stroke-width="1.4" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-100-01</text>
+  <circle cx="200" cy="188" r="130" fill="url(#gw100)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#7dd3fc" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#7dd3fc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- PETAL BLADE: narrow straight blade with a lone petal floating above the guard -->
+  <path d="M200 70 L206 96 L206 224 L200 236 L194 224 L194 96 Z" fill="#bfdbfe" fill-opacity=".2" stroke="#7dd3fc" stroke-width="2.4"/>
+  <path d="M200 82 L200 228" stroke="#e0f2fe" stroke-width="1.1" opacity=".75"/>
+  <path d="M236 214 C 252 202, 258 186, 252 172 C 240 178, 232 192, 234 208 Z" fill="#bfdbfe" fill-opacity=".35" stroke="#e0f2fe" stroke-width="1.6"/>
+  <path d="M244 196 C 242 204, 240 210, 237 214" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".7"/>
+  <path d="M230 226 C 234 232, 240 236, 248 238" fill="none" stroke="#7dd3fc" stroke-width="1" stroke-dasharray="3 4" opacity=".5"/>
+  <path d="M172 238 L228 238 L220 252 L180 252 Z" fill="#0c1e3e" stroke="#7dd3fc" stroke-width="2.4"/>
+  <rect x="190" y="252" width="20" height="60" rx="5" fill="#0c1e3e" stroke="#7dd3fc" stroke-width="2.2"/>
+  <path d="M191 266 L209 272 M191 282 L209 288 M191 296 L209 302" stroke="#7dd3fc" stroke-width="1.4" opacity=".85"/>
+  <circle cx="200" cy="322" r="8" fill="#0c1e3e" stroke="#f1df76" stroke-width="2"/>
 </svg>

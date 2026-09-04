@@ -1,31 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE GIANT’S MAUL">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // MAUL -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE GIANT'S MAUL">
   <defs>
-    <radialGradient id="bg4f46c6" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bw105" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gl4f46c6" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
+    <radialGradient id="gw105" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg4f46c6)" stroke="#c9a86a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw105)" stroke="#f59e0b" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="115" fill="url(#gl4f46c6)"/>
-  <g transform="rotate(9 200.0 192.0)">
-<rect x="147.0" y="157.0" width="106.0" height="70.0" rx="7" fill="#c9a86a" fill-opacity=".24" stroke="#c9a86a" stroke-width="3.5"/>
-<path d="M168.2 167.5 L231.8 167.5" stroke="#e0f2fe" stroke-width="1.3" opacity=".7"/>
-<circle cx="200.0" cy="192.0" r="12.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
-<rect x="194.0" y="227.0" width="12" height="111.0" rx="4" fill="#1f2937" stroke="#c9a86a" stroke-width="2"/>
-<circle cx="200.0" cy="348.0" r="7" fill="#c9a86a" fill-opacity=".55"/>
-  </g>
-  <g transform="rotate(6 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#c9a86a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".45"/>
-  </g>
-  <g transform="rotate(-9 200.0 120.0)" opacity=".9">
-    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-W-105-01</text>
+  <circle cx="200" cy="188" r="130" fill="url(#gw105)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#f59e0b" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#f59e0b" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- ROUND GRAND MAUL: huge cylinder drum head, load-limit line, open grip cuff -->
+  <rect x="118" y="72" width="164" height="84" rx="42" fill="#292009" stroke="#f59e0b" stroke-width="3.2"/>
+  <path d="M160 72 L160 156 M240 72 L240 156" stroke="#f59e0b" stroke-width="1.2" opacity=".5"/>
+  <path d="M132 114 L268 114" stroke="#fde68a" stroke-width="1.8" stroke-dasharray="8 5" opacity=".8"/>
+  <circle cx="200" cy="114" r="12" fill="none" stroke="#fde68a" stroke-width="1.6" opacity=".7"/>
+  <rect x="192" y="156" width="16" height="150" rx="5" fill="#1c1917" stroke="#f59e0b" stroke-width="2.6"/>
+  <path d="M192 180 L208 180 M192 206 L208 206 M192 232 L208 232 M192 258 L208 258 M192 284 L208 284" stroke="#f59e0b" stroke-width="1.6" opacity=".75"/>
+  <path d="M182 306 C 166 316, 166 336, 182 346 M218 306 C 234 316, 234 336, 218 346" fill="none" stroke="#f59e0b" stroke-width="2.8"/>
+  <path d="M182 346 L192 352 M218 346 L208 352" stroke="#f59e0b" stroke-width="2.2"/>
+  <circle cx="200" cy="330" r="6" fill="none" stroke="#f1df76" stroke-width="2"/>
 </svg>

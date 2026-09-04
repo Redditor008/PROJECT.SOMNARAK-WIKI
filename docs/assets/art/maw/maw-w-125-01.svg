@@ -1,35 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE RETURNING LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bgcc9d5d" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bw125" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="glcc9d5d" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
+    <radialGradient id="gw125" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#9ca3af" stop-opacity=".2"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgcc9d5d)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw125)" stroke="#9ca3af" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="126" fill="url(#glcc9d5d)"/>
-  <g transform="rotate(6 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="55.0" ry="75.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="46.0" ry="63.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="37.0" ry="53.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M235.4 134.5 L229.6 143.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M250.2 161.5 L242.0 166.4" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M255.0 194.6 L246.0 194.2" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M248.6 227.2 L240.6 221.6" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M232.3 252.7 L227.0 243.0" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="133.0" y="186.0" width="134.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="267.0" width="12" height="34.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(10 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-125-01</text>
+  <circle cx="200" cy="188" r="130" fill="url(#gw125)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#9ca3af" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#9ca3af" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- SHUTTER LENS: framed disc with iris shutter slats converging on the centre -->
+  <circle cx="200" cy="142" r="58" fill="#101623" stroke="#9ca3af" stroke-width="3.2"/>
+  <circle cx="200" cy="142" r="46" fill="#d7dde6" fill-opacity=".12" stroke="#e5e7eb" stroke-width="1.4"/>
+  <path d="M200 96 L214 128 M240 118 L212 138 M246 156 L214 150 M226 190 L208 158 M186 188 L194 156 M156 166 L188 150 M154 128 L188 136 M176 98 L194 128" stroke="#e5e7eb" stroke-width="1.6" opacity=".8"/>
+  <circle cx="200" cy="142" r="10" fill="#0a0d13" stroke="#e5e7eb" stroke-width="1.6"/>
+  <path d="M262 108 L276 96 M262 176 L276 188" stroke="#9ca3af" stroke-width="1.3" stroke-dasharray="4 4" opacity=".5"/>
+  <rect x="192" y="200" width="16" height="18" fill="#101623" stroke="#9ca3af" stroke-width="2"/>
+  <rect x="185" y="218" width="30" height="100" rx="8" fill="#101623" stroke="#9ca3af" stroke-width="2.6"/>
+  <path d="M187 236 L213 244 M187 258 L213 266 M187 280 L213 288 M187 300 L213 308" stroke="#9ca3af" stroke-width="1.4" opacity=".8"/>
+  <circle cx="200" cy="330" r="9" fill="#101623" stroke="#f1df76" stroke-width="2"/>
 </svg>
