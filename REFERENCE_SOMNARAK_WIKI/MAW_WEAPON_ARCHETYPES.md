@@ -285,3 +285,25 @@ Batch-14 additions (2026-09-05, full standard + set-line check; nine canon fangs
 | MAW-W-762 Grasp Requiem | Bridge-Arc Blade with Missing Span (blade drawn as two bridge piers whose middle span is a dashed ghost over a Han-storm scar; the burning call-figure at the gap edge, sound arcs fading across; do-not-promise-rescue plate; one-lantern limit) | Medium (source: Lament) |
 
 Batch-14 form notes: nine canon fangs in one batch forced maximum intra-family variety — cleaver-nose, throat-bulge recurve, inset-pane needle, tanto, tuning-fork, fragment, S-drift burst-lock, and threshold-split builds all enter the catalog; the lens family gains the brick-course consent disc; the maul family gains the spade-edge digging build; the requiem blades gain rope-fuller and bridge-arc-with-missing-span geometries.
+
+Full-set similarity sweep (2026-09-05, owner recheck request): all 168 remade weapons rendered and pairwise-compared (pixel scan + visual pair review). Fifteen items found trending toward repeat silhouettes were fully redrawn as new researched builds:
+
+| Item | New build (replaces near-repeat) |
+| --- | --- |
+| MAW-W-220 The Years Maul | Calendar-Leaf Stack Maul — head is five fanned calendar leaves bound as striking faces showing consequences not days; shaft grown past its gold registration brackets, one omitted-year leaf sliding in |
+| MAW-W-245 The Wall Requiem | Short Leaf Blade — staff lines carved on the flat that stop mid-line at a hard break bar; hum arcs sound only after the break; fresco fragment kept with no pigment removed; kept-silence rest mark |
+| MAW-W-250 The Memory Requiem | Short Broad Sword, left lean — the single suspended raindrop above the crescent guard as centerpiece; two identity-anchor pins; invasive memory thread severed gold |
+| MAW-W-308 Vault of Unspoken Spite's Fang | Kukri Build — cho notch, inward bend, deep dropped belly; dark stored-anger rivulets flowing AWAY from the tip toward the provenance ledger; sealed review vessel; retaliation-at-person crossed |
+| MAW-W-316 The Empty Fang | Trailing-Point Slender Fang — the guard is an EMPTY OPEN KNOT with no line beyond it fading to a dot; absent person as unjudged dashed outline; released expectation tag cut free |
+| MAW-W-369 Susurrus's Requiem | Flamberge — undulating wet edges; three word-debris shards held in separate dashed zones, the connecting sentence-line crossed out, the unfinished sentence honored with a rest |
+| MAW-W-426 The Torn Fang | Straight-Spine Cleaver — ragged void torn down the middle; the torn-out strip lying apart, the invented-patch offer crossed out; identity anchor tag holding |
+| MAW-W-447 The Melting Requiem | Circulation Blade — solid at the guard, going soft mid-blade, tip fully dissolved into falling drops that travel a dashed circuit back to fresh facets accreting at the guard |
+| MAW-W-456 The Indebted Dagger | Rondel Dagger — short stiff triangular blade, big disc guard and disc pommel; grief bruises UNDER the metal; concealed-harm ledger line glowing beneath its covering bar; unsealed vow dashed |
+| MAW-W-503 Hover Requiem | Broken-Back Seax — straight edge, angled clip spine; large clear inclusion chamber holding the floating borrowed wound; obstruction severed beside an intact green brace; cure-promise crossed |
+| MAW-W-525 Cenotaph Fang | Stepped Stele Blade — cenotaph-profile monument silhouette with blank cartouche; self-punishment loop severed at the base while the green duty band stays intact |
+| MAW-W-617 Exiles' Wall Fang | Deep Crescent Talon — one continuous arc with wet red light on the INNER curve and no heat; the extracted lintel itself as crossguard; three traveler-chosen ways with a green tick |
+| MAW-W-641 Home to No One Who Knew Me's Fang | Dated Spike among Ghosts — one solid straight blade held by a gold dated-position tag, surrounded by dashed ghost outlines of its other historical shapes; truest-version crown crossed |
+| MAW-W-649 The Missing Lens | Ghost Disc — the lens rim is dashed and barely present; SOLID edge arcs materialize only beside unsupported claim tags (red x); the evidenced green claim faces an open gap in the rim |
+| MAW-W-723 The Severed Requiem | Straight Blade with Slack Coil — the bond rope coiled loosely around the blade, sagging and intact, its far end ending honestly in open air; the taut haul-line severed gold; no-retrieval plate |
+
+Sweep result: pairwise scan after redraws shows no repeating builds; every closest remaining pair is a verified different silhouette.

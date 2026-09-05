@@ -14,34 +14,34 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- broad short blade, upright lean -->
-  <path d="M162 322 L152 310 C 148 262, 156 214, 176 172 C 190 142, 210 118, 234 102 L 254 120 C 234 140, 218 166, 208 196 C 194 236, 190 278, 194 316 L 180 330 Z"
-        fill="url(#bl723)" stroke="#38bdf8" stroke-width="2.8"/>
-  <path d="M158 304 C 154 260, 162 216, 180 178 C 194 150, 212 126, 232 110" fill="none" stroke="#1e3a5f" stroke-width="2"/>
-  <path d="M188 318 C 184 278, 190 238, 202 202 C 212 174, 226 148, 244 128" fill="none" stroke="#e0f2fe" stroke-width="1.6"/>
-  <!-- THE BOND ROPE: a SLACK rope laid into the fuller — intact, gently sagging -->
-  <path d="M176 300 C 168 276, 168 250, 176 226 C 184 202, 198 180, 216 162 C 208 186, 202 212, 200 240 C 198 262, 200 282, 206 300"
-        fill="none" stroke="#f1df76" stroke-width="2.6"/>
-  <path d="M176 288 L182 286 M174 258 L180 258 M180 222 L186 224 M196 186 L202 190" stroke="#b45309" stroke-width="1.4"/>
-  <!-- rope fibre twists -->
-  <path d="M178 296 L184 292 M176 272 L182 270 M178 240 L184 240 M188 204 L194 202 M204 174 L210 170" stroke="#fde68a" stroke-width="1.1" opacity=".8"/>
-  <!-- THE HAUL-LINE: the compulsive taut pull — straight strained line, SEVERED gold -->
-  <path d="M226 160 L280 128" stroke="#64748b" stroke-width="2.6"/>
-  <path d="M286 124 L316 106" stroke="#64748b" stroke-width="2.6" stroke-dasharray="5 4" opacity=".7"/>
-  <path d="M276 118 L290 136" stroke="#f1df76" stroke-width="2.8"/>
-  <!-- strain marks on the severed taut line -->
-  <path d="M238 150 L242 158 M256 140 L260 148" stroke="#450a0a" stroke-width="1.4"/>
-  <!-- the vanished end: rope simply ends in open air, honest, dashed -->
-  <path d="M206 300 C 210 310, 216 318, 224 324" fill="none" stroke="#f1df76" stroke-width="2" stroke-dasharray="4 4" opacity=".8"/>
-  <path d="M228 328 L236 334" stroke="#3b5f88" stroke-width="1.4" stroke-dasharray="2 4" opacity=".6"/>
+  <!-- straight double-edged blade, vertical -->
+  <path d="M200 62 L 216 96 L 212 296 L 188 296 L 184 96 Z" fill="url(#bl723)" stroke="#38bdf8" stroke-width="2.6"/>
+  <path d="M200 70 L 200 292" stroke="#7dd3fc" stroke-width="1.8" opacity=".9"/>
+  <path d="M191 110 L 190 284 M209 110 L 210 284" stroke="#1d4ed8" stroke-width="1" opacity=".8"/>
+  <!-- the bond: slack rope coiled LOOSELY around the blade, sagging, intact -->
+  <path d="M138 140 C 168 156, 232 156, 264 138" fill="none" stroke="#fb923c" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M264 138 C 244 128, 156 128, 138 140" fill="none" stroke="#fb923c" stroke-width="2" stroke-dasharray="5 4" opacity=".6"/>
+  <path d="M146 196 C 172 216, 228 216, 258 194" fill="none" stroke="#fb923c" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M258 194 C 240 184, 162 184, 146 196" fill="none" stroke="#fb923c" stroke-width="2" stroke-dasharray="5 4" opacity=".6"/>
+  <path d="M154 252 C 178 274, 224 274, 250 250" fill="none" stroke="#fb923c" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M156 148 l 6 4 M170 208 l 6 4 M180 264 l 6 4 M242 146 l -6 4 M232 204 l -6 4 M226 262 l -6 4" stroke="#92400e" stroke-width="1.4"/>
+  <!-- the vanished person's end: rises and simply ends in open air, honest -->
+  <path d="M264 138 C 282 126, 294 110, 300 92" fill="none" stroke="#fb923c" stroke-width="3" stroke-linecap="round"/>
+  <path d="M300 92 C 304 82, 306 74, 307 66" fill="none" stroke="#fb923c" stroke-width="2" stroke-dasharray="3 6" opacity=".7"/>
+  <path d="M303 90 l 7 -2 M300 86 l 6 -5" stroke="#92400e" stroke-width="1.2"/>
+  <!-- the compulsive HAUL-LINE: taut, straight, severed gold -->
+  <path d="M212 232 L 344 210" stroke="#1d4ed8" stroke-width="2.6"/>
+  <path d="M270 228 L 282 214" stroke="#f1df76" stroke-width="2.8"/>
+  <path d="M262 218 l 6 -4 M288 228 l 5 -5" stroke="#f1df76" stroke-width="1.4"/>
+  <path d="M344 210 l -8 -5 M344 210 l -9 3" stroke="#1d4ed8" stroke-width="1.6"/>
   <!-- no-retrieval vow plate -->
-  <rect x="212" y="252" width="36" height="15" rx="2" transform="rotate(-12 230 259)" fill="#050a14" stroke="#7dd3fc" stroke-width="1.6"/>
-  <path d="M218 260 L242 254" stroke="#7dd3fc" stroke-width="1.2"/>
-  <!-- source-grief tear -->
-  <path d="M148 200 C 145 205, 145 209, 148 212 C 151 209, 151 205, 148 200 Z" fill="#7dd3fc"/>
+  <rect x="300" y="316" width="52" height="18" rx="3" fill="#050a14" stroke="#f1df76" stroke-width="1.4"/>
+  <path d="M308 325 h22" stroke="#f1df76" stroke-width="1.3"/>
+  <path d="M336 320 l 10 8 M346 320 l -10 8" stroke="#f1df76" stroke-width="1.4"/>
   <!-- guard + grip -->
-  <path d="M144 326 L206 334" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
-  <path d="M174 338 L168 388" stroke="#12233d" stroke-width="12" stroke-linecap="round"/>
-  <path d="M166 350 L180 352 M164 364 L178 366" stroke="#60a5fa" stroke-width="2.4"/>
-  <path d="M164 396 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.2"/>
+  <rect x="172" y="296" width="56" height="12" rx="4" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M194 308 L 191 362 L 209 362 L 206 308 Z" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M193 322 h14 M192 336 h15 M192 350 h15" stroke="#1d4ed8" stroke-width="1.6"/>
+  <circle cx="200" cy="370" r="6" fill="none" stroke="#38bdf8" stroke-width="1.8"/>
+
 </svg>

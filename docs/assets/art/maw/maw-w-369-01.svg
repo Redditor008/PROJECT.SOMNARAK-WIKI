@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="SUSURRUSS REQUIEM">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="SUSURRUS'S REQUIEM">
   <defs>
     <radialGradient id="bw369" cx="44%" cy="42%" r="66%">
       <stop offset="0%" stop-color="#0a1626"/>
@@ -14,27 +14,34 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- slender blade, diagonal up-right; the edge is SEPARATE SHARD SCALES, not one line -->
-  <path d="M130 322 L120 310 C 156 288, 190 258, 218 222 C 242 192, 262 160, 286 134 C 296 124, 310 122, 318 130 C 326 138, 322 152, 312 160 C 286 180, 264 208, 244 240 C 222 274, 186 304, 146 328 Z"
+  <!-- flamberge blade: undulating wet edges, vertical -->
+  <path d="M200 66 C 212 82, 216 96, 208 112 C 200 128, 200 140, 210 154 C 220 168, 220 182, 210 196 C 200 210, 200 224, 210 238 C 218 250, 218 262, 212 274 L 188 274 C 182 262, 182 250, 190 238 C 200 224, 200 210, 190 196 C 180 182, 180 168, 190 154 C 200 140, 200 128, 192 112 C 184 96, 188 82, 200 66 Z"
         fill="url(#bl369)" stroke="#38bdf8" stroke-width="2.6"/>
-  <path d="M128 314 C 164 292, 196 262, 224 228 C 248 198, 268 168, 290 144" fill="none" stroke="#1e3a5f" stroke-width="2"/>
-  <!-- shard-scale edge: overlapping separate flakes along the cutting side -->
-  <path d="M140 322 L152 310 L158 320 Z M160 306 L172 294 L178 306 Z M180 288 L192 276 L198 288 Z M200 268 L212 254 L218 268 Z M220 244 L230 230 L238 244 Z M240 218 L250 204 L258 218 Z M260 192 L270 178 L278 192 Z"
-        fill="#7dd3fc" stroke="#0a1626" stroke-width="1.4"/>
-  <!-- wet edge droplets -->
-  <path d="M156 324 C 154 328, 154 332, 156 335 M218 272 C 216 276, 216 280, 218 283 M276 196 C 274 200, 274 204, 276 207" fill="none" stroke="#7dd3fc" stroke-width="1.4"/>
-  <!-- UNASSEMBLED WORD FRAGMENTS drifting off the edge — never forming a line -->
-  <path d="M170 262 L178 260 M186 250 L190 254 M206 232 L214 232" stroke="#e0f2fe" stroke-width="2"/>
-  <path d="M232 200 L238 196 L236 204 M256 172 L264 172 M270 154 L274 160" stroke="#93c5fd" stroke-width="1.8"/>
-  <path d="M188 240 C 186 244, 187 247, 190 248 M248 182 C 246 186, 247 189, 250 190" fill="none" stroke="#60a5fa" stroke-width="1.3" opacity=".8"/>
-  <!-- the intact plea kept beneath: unbroken grief-line low on the flat -->
-  <path d="M158 300 C 190 280, 220 254, 246 224" fill="none" stroke="#f1df76" stroke-width="1.6"/>
-  <!-- witness notch at the guard: listened, did not finish the sentence -->
-  <path d="M126 306 L114 298 L120 312" fill="none" stroke="#7dd3fc" stroke-width="2.2"/>
-  <!-- guard + grip + weeping pommel -->
-  <path d="M104 318 L148 340" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
-  <path d="M122 342 L100 382" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
-  <path d="M120 350 L110 346 M116 362 L106 358 M112 374 L102 370" stroke="#60a5fa" stroke-width="2.4"/>
-  <path d="M96 390 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.2"/>
-  <path d="M92 396 C 89 400, 89 404, 92 407 C 95 404, 95 400, 92 396 Z" fill="#7dd3fc" opacity=".85"/>
+  <path d="M200 78 C 206 92, 206 100, 200 114 C 194 128, 194 142, 200 156 C 206 170, 206 184, 200 198 C 194 212, 194 226, 200 240 C 205 251, 205 260, 202 268" fill="none" stroke="#7dd3fc" stroke-width="1.6" opacity=".9"/>
+  <!-- wet edge: drops sliding off the waves -->
+  <path d="M219 162 c 0 6, -8 6, -8 0 c 0 -4, 4 -8, 4 -8 c 0 0, 4 4, 4 8" fill="#7dd3fc" opacity=".9"/>
+  <path d="M186 226 c 0 5, -7 5, -7 0 c 0 -3, 3.5 -7, 3.5 -7 c 0 0, 3.5 4, 3.5 7" fill="#7dd3fc" opacity=".75"/>
+  <!-- collapse shards: word-debris held APART in three separate zones, never assembled -->
+  <path d="M112 116 l 14 -8 l 2 14 Z" fill="#050a14" stroke="#7dd3fc" stroke-width="1.6"/>
+  <path d="M96 148 l 12 -4 l -2 12 Z" fill="#050a14" stroke="#38bdf8" stroke-width="1.4"/>
+  <circle cx="116" cy="134" r="17" fill="none" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="4 4"/>
+  <path d="M286 142 l 13 -9 l 3 13 Z" fill="#050a14" stroke="#7dd3fc" stroke-width="1.6"/>
+  <circle cx="292" cy="140" r="15" fill="none" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="4 4"/>
+  <path d="M290 224 l 12 -5 l -1 12 Z" fill="#050a14" stroke="#38bdf8" stroke-width="1.4"/>
+  <circle cx="294" cy="226" r="14" fill="none" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="4 4"/>
+  <!-- no sentence assembly: connecting line between zones crossed out -->
+  <path d="M132 132 C 190 120, 240 124, 278 138" fill="none" stroke="#475569" stroke-width="1.2" stroke-dasharray="5 4" opacity=".7"/>
+  <path d="M196 116 l 14 18 M210 116 l -14 18" stroke="#38bdf8" stroke-width="1.8" opacity="0"/>
+  <path d="M198 40 l 0 0" stroke="none"/>
+  <path d="M158 108 l 16 14 M174 108 l -16 14" stroke="#38bdf8" stroke-width="2"/>
+  <!-- the unfinished sentence: text line that stops, honored with silence mark -->
+  <rect x="64" y="284" width="60" height="16" rx="2" fill="#050a14" stroke="#7dd3fc" stroke-width="1.4"/>
+  <path d="M72 292 h28" stroke="#7dd3fc" stroke-width="1.3"/>
+  <path d="M106 288 v8" stroke="#1d4ed8" stroke-width="2"/>
+  <!-- guard: two downswept listening curves -->
+  <path d="M160 276 C 176 288, 224 288, 240 276 C 244 284, 240 292, 228 294 L 172 294 C 160 292, 156 284, 160 276 Z" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M194 294 L 191 348 L 209 348 L 206 294 Z" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M193 308 h14 M192 322 h15 M192 336 h15" stroke="#1d4ed8" stroke-width="1.6"/>
+  <circle cx="200" cy="356" r="6" fill="none" stroke="#38bdf8" stroke-width="1.8"/>
+
 </svg>

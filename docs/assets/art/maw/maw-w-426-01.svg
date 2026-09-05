@@ -14,29 +14,28 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- crimson fang, diagonal; OUTER shell only — the middle is torn out -->
-  <path d="M132 320 L122 308 C 154 286, 182 258, 204 224 C 224 194, 244 166, 272 144 C 284 134, 298 136, 304 146 C 310 156, 304 168, 294 176 C 270 194, 252 218, 236 246 C 216 280, 180 306, 144 326 Z"
+  <!-- straight spine cleaver, vertical pose -->
+  <path d="M158 78 L 254 112 C 262 148, 264 200, 256 244 C 250 274, 238 296, 224 306 L 158 306 Z"
         fill="url(#bl426)" stroke="#ef4444" stroke-width="2.8"/>
-  <!-- THE TORN CHANNEL: an open void down the middle with ragged torn edges -->
-  <path d="M156 296 L150 290 C 176 272, 198 250, 216 224 C 232 200, 250 178, 272 160 L 278 168 C 258 186, 242 206, 228 230 C 212 256, 188 280, 164 300 Z"
-        fill="#0d0507" stroke="#7f1d1d" stroke-width="1.6"/>
-  <!-- ragged tear burrs along the channel lips -->
-  <path d="M158 288 L152 284 M170 278 L164 272 M186 262 L180 256 M202 242 L196 236 M218 220 L212 214 M234 200 L228 194 M250 182 L244 176 M264 168 L258 162" stroke="#fca5a5" stroke-width="1.8"/>
-  <path d="M162 296 L168 302 M180 282 L186 288 M198 264 L204 270 M216 244 L222 250 M232 224 L238 230 M248 204 L254 210" stroke="#fca5a5" stroke-width="1.8"/>
-  <!-- nothing-replaced marks: empty dashed stitches across the void, never closed -->
-  <path d="M168 284 L176 292 M192 264 L200 272 M214 240 L222 248 M238 214 L246 222" stroke="#450a0a" stroke-width="1.3" stroke-dasharray="2 4" opacity=".8"/>
-  <!-- outer edge lights -->
-  <path d="M130 312 C 162 290, 190 262, 212 228 C 230 200, 250 174, 276 152" fill="none" stroke="#4c0d13" stroke-width="2"/>
-  <path d="M142 322 C 174 300, 202 272, 224 240 C 242 212, 260 190, 288 168" fill="none" stroke="#ffe4e6" stroke-width="1.6"/>
-  <!-- the honest unknown: angry outline kept blank near the tip -->
-  <path d="M300 118 C 308 112, 318 112, 324 118 C 330 124, 330 132, 324 138" fill="none" stroke="#7f1d1d" stroke-width="1.8" stroke-dasharray="4 4"/>
-  <path d="M310 124 L318 132" stroke="#ef4444" stroke-width="1.6" opacity=".8"/>
-  <!-- identity-anchor plate near guard: current anchors, no invention -->
-  <rect x="138" y="300" width="30" height="14" rx="2" transform="rotate(-34 153 307)" fill="#0d0507" stroke="#f1df76" stroke-width="1.4"/>
-  <path d="M144 306 L162 294" stroke="#f1df76" stroke-width="1.1"/>
-  <!-- guard + grip -->
-  <path d="M108 324 L154 344" stroke="#4c0d13" stroke-width="9" stroke-linecap="round"/>
-  <path d="M128 346 L106 386" stroke="#4c0d13" stroke-width="11" stroke-linecap="round"/>
-  <path d="M126 354 L116 350 M122 366 L112 362 M118 378 L108 374" stroke="#dc2626" stroke-width="2.4"/>
-  <path d="M102 394 a6 6 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.2"/>
+  <path d="M158 78 L 158 306" stroke="#fca5a5" stroke-width="2" opacity=".8"/>
+  <path d="M250 120 C 257 158, 258 206, 250 246" fill="none" stroke="#fca5a5" stroke-width="1.4" opacity=".7"/>
+  <!-- THE TORN CHANNEL: ragged void ripped down the middle, never refilled -->
+  <path d="M196 96 L 206 118 L 196 142 L 210 168 L 198 196 L 212 222 L 200 250 L 210 274 L 200 296 L 186 296 L 194 270 L 182 246 L 194 220 L 180 194 L 192 166 L 180 140 L 192 116 L 184 96 Z"
+        fill="#0d0507" stroke="#7f1d1d" stroke-width="1.8"/>
+  <path d="M186 108 l -5 3 M203 130 l 5 3 M184 158 l -5 2 M205 186 l 5 2 M186 210 l -5 2 M204 240 l 5 3 M188 262 l -5 3" stroke="#ef4444" stroke-width="1.2"/>
+  <!-- the torn-out strip lying apart, deliberately not replaced -->
+  <path d="M292 330 L 344 314 L 350 322 L 300 340 L 292 338 Z" fill="#450a0a" stroke="#7f1d1d" stroke-width="1.6"/>
+  <path d="M298 334 l 6 -3 M312 329 l 6 -2 M326 324 l 6 -2" stroke="#ef4444" stroke-width="1" opacity=".8"/>
+  <!-- invented-patch offer crossed out: honesty keeps the gap -->
+  <rect x="300" y="352" width="40" height="14" rx="2" fill="#0d0507" stroke="#7f1d1d" stroke-width="1.2"/>
+  <path d="M300 352 L 340 366 M340 352 L 300 366" stroke="#ef4444" stroke-width="1.8"/>
+  <!-- anchor tag: current identity holds without invention -->
+  <rect x="86" y="128" width="16" height="44" rx="2" fill="#0d0507" stroke="#f1df76" stroke-width="1.4"/>
+  <path d="M94 128 V 108 M86 116 h16" stroke="#f1df76" stroke-width="1.4"/>
+  <path d="M90 140 h8 M90 150 h8 M90 160 h8" stroke="#f1df76" stroke-width="1.1"/>
+  <!-- heel bolster + grip straight down -->
+  <rect x="150" y="306" width="82" height="12" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="2"/>
+  <path d="M182 318 L 178 366 L 196 366 L 194 318 Z" fill="#0d0507" stroke="#ef4444" stroke-width="2"/>
+  <path d="M181 330 h14 M180 342 h14 M180 354 h15" stroke="#7f1d1d" stroke-width="1.6"/>
+
 </svg>

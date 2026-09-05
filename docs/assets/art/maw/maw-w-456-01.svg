@@ -14,33 +14,34 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- straight narrow dagger, near vertical, parallel edges to an acute point -->
-  <path d="M186 96 L214 96 L212 268 L200 296 L188 268 Z" fill="url(#bl456)" stroke="#ef4444" stroke-width="2.6"/>
-  <path d="M190 100 L190 262" stroke="#ffe4e6" stroke-width="1.8"/>
-  <path d="M210 100 L210 262" stroke="#4c0d13" stroke-width="1.8"/>
-  <path d="M200 100 L200 288" stroke="#7f1d1d" stroke-width="1.2" opacity=".7"/>
-  <!-- THE GRIEF STAINS: bruise blots UNDER the metal — blurred, unreachable -->
-  <ellipse cx="197" cy="140" rx="8" ry="14" fill="#450a0a" opacity=".65"/>
-  <ellipse cx="204" cy="186" rx="6" ry="11" fill="#5b1220" opacity=".6"/>
-  <ellipse cx="196" cy="232" rx="7" ry="10" fill="#450a0a" opacity=".55"/>
-  <path d="M193 134 C 196 130, 200 129, 203 131 M200 180 C 203 177, 206 177, 208 179 M192 227 C 195 224, 198 224, 200 226" fill="none" stroke="#7f1d1d" stroke-width="1.1" opacity=".7"/>
-  <!-- unreachable: polished surface sheen PASSES OVER the stains -->
-  <path d="M188 118 L206 136 M188 158 L208 178 M188 204 L207 223" stroke="#fca5a5" stroke-width="1" opacity=".45"/>
-  <!-- reveal-line: one stain surfacing at the edge as a visible seam -->
-  <path d="M204 186 L212 190" stroke="#fda4af" stroke-width="1.8"/>
-  <path d="M214 188 C 220 186, 226 186, 232 188" fill="none" stroke="#fda4af" stroke-width="1.3" stroke-dasharray="2 3"/>
-  <!-- desire-without-promise mark: open hand tally, nothing guaranteed -->
-  <path d="M162 148 L174 148 M168 142 L168 154" stroke="#f1df76" stroke-width="1.8"/>
-  <path d="M160 162 C 164 158, 170 157, 175 159" fill="none" stroke="#f1df76" stroke-width="1.3" stroke-dasharray="3 3"/>
-  <!-- straight crossguard with ledger notches -->
-  <path d="M156 300 L244 300" stroke="#4c0d13" stroke-width="9" stroke-linecap="round"/>
-  <path d="M164 296 L164 304 M180 296 L180 304 M220 296 L220 304 M236 296 L236 304" stroke="#fca5a5" stroke-width="1.6"/>
-  <!-- grip with anesthetic band: no felt emotion while it works -->
-  <path d="M200 304 L200 372" stroke="#4c0d13" stroke-width="12" stroke-linecap="round"/>
-  <path d="M193 316 L207 316 M193 330 L207 330 M193 344 L207 344" stroke="#dc2626" stroke-width="2.4"/>
-  <path d="M192 358 L208 358" stroke="#78716c" stroke-width="3"/>
-  <!-- ring pommel with the unpromised-return token hanging open -->
-  <path d="M200 380 a8 8 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.4"/>
-  <path d="M208 386 C 214 388, 218 392, 220 398" fill="none" stroke="#7f1d1d" stroke-width="1.6" stroke-dasharray="3 3"/>
-  <rect x="216" y="396" width="18" height="11" rx="2" fill="none" stroke="#f1df76" stroke-width="1.4"/>
+  <!-- short stiff triangular dagger blade, point down-right -->
+  <path d="M170 168 L 296 288 C 303 295, 296 306, 287 301 L 148 196 C 138 188, 160 158, 170 168 Z"
+        fill="url(#bl456)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M172 184 L 288 292" stroke="#fca5a5" stroke-width="1.6" opacity=".85"/>
+  <path d="M164 176 L 252 254" stroke="#7f1d1d" stroke-width="1.2" opacity=".8"/>
+  <!-- grief stains: bruises UNDER the metal -->
+  <ellipse cx="206" cy="212" rx="14" ry="7" fill="#450a0a" opacity=".85" transform="rotate(42 206 212)"/>
+  <ellipse cx="238" cy="240" rx="10" ry="5" fill="#450a0a" opacity=".75" transform="rotate(42 238 240)"/>
+  <ellipse cx="264" cy="266" rx="8" ry="4" fill="#450a0a" opacity=".7" transform="rotate(42 264 266)"/>
+  <path d="M198 202 c 5 -2, 10 -1, 14 2" stroke="#7f1d1d" stroke-width="1" fill="none" opacity=".85"/>
+  <!-- BIG rondel disc guard, face-on ellipse -->
+  <ellipse cx="150" cy="186" rx="34" ry="16" fill="#0d0507" stroke="#ef4444" stroke-width="2.6" transform="rotate(42 150 186)"/>
+  <ellipse cx="150" cy="186" rx="21" ry="9" fill="none" stroke="#7f1d1d" stroke-width="1.6" transform="rotate(42 150 186)"/>
+  <ellipse cx="150" cy="186" rx="8" ry="3.5" fill="none" stroke="#fca5a5" stroke-width="1.2" transform="rotate(42 150 186)"/>
+  <!-- short thick grip up-left -->
+  <path d="M136 172 L 104 140 L 118 126 L 148 160 Z" fill="#0d0507" stroke="#ef4444" stroke-width="2.2"/>
+  <path d="M116 146 l 12 -11 M126 157 l 12 -11" stroke="#7f1d1d" stroke-width="1.8"/>
+  <!-- BIG rondel disc pommel -->
+  <ellipse cx="100" cy="124" rx="26" ry="12" fill="#0d0507" stroke="#ef4444" stroke-width="2.4" transform="rotate(42 100 124)"/>
+  <ellipse cx="100" cy="124" rx="14" ry="6" fill="none" stroke="#7f1d1d" stroke-width="1.4" transform="rotate(42 100 124)"/>
+  <!-- desire acknowledged without promise: open hand, dashed unsealed vow -->
+  <path d="M296 118 c 0 -10, 14 -10, 14 0 v 12 m -14 -12 v 14 m 7 -20 v 20" stroke="#7f1d1d" stroke-width="1.6" fill="none"/>
+  <rect x="288" y="140" width="32" height="12" rx="2" fill="none" stroke="#7f1d1d" stroke-width="1.3" stroke-dasharray="4 3"/>
+  <!-- concealed-harm ledger revealed: hidden entry glowing under the covering bar -->
+  <rect x="82" y="270" width="54" height="40" rx="3" fill="#0d0507" stroke="#f1df76" stroke-width="1.5"/>
+  <path d="M90 280 h38 M90 290 h38" stroke="#7f1d1d" stroke-width="1.4"/>
+  <path d="M90 300 h38" stroke="#ef4444" stroke-width="2.4"/>
+  <path d="M90 300 h38" stroke="#fca5a5" stroke-width="1" opacity=".8"/>
+  <path d="M100 314 l 6 8 M114 314 l 0 9 M128 314 l -6 8" stroke="#f1df76" stroke-width="1.1"/>
+
 </svg>

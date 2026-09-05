@@ -14,36 +14,37 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- short broad blade, upright with slight lean; pale-blue translucent crystal -->
-  <path d="M172 310 L162 298 C 158 254, 164 208, 182 168 C 194 142, 210 120, 230 106 L 248 122 C 232 140, 220 162, 212 188 C 200 226, 196 266, 200 304 L 186 316 Z"
-        fill="url(#bl503)" fill-opacity=".82" stroke="#38bdf8" stroke-width="2.6"/>
-  <path d="M168 292 C 166 252, 172 212, 188 176 C 198 152, 212 130, 228 114" fill="none" stroke="#1e3a5f" stroke-width="2"/>
-  <path d="M196 300 C 194 264, 198 228, 208 194 C 216 168, 228 144, 244 126" fill="none" stroke="#e0f2fe" stroke-width="1.6"/>
-  <!-- facet lines -->
-  <path d="M180 280 L196 282 M178 240 L198 244 M184 200 L206 206 M196 160 L218 168" stroke="#3b5f88" stroke-width="1.1" opacity=".7"/>
-  <!-- THE FLOATING INJURY REFLECTION: a wound suspended IN the crystal, drifting -->
-  <g>
-    <path d="M186 214 C 192 206, 202 204, 210 208 C 214 216, 212 226, 204 230 C 196 234, 188 230, 186 222 Z" fill="#0a1626" stroke="#fca5a5" stroke-width="2.2"/>
-    <path d="M192 214 L204 224 M196 226 C 199 222, 202 219, 206 217" stroke="#fca5a5" stroke-width="1.4"/>
-    <path d="M198 204 L198 198 M208 208 L213 204 M188 210 L183 206" stroke="#7f1d1d" stroke-width="1.2" opacity=".8"/>
-  </g>
-  <!-- drift trail: where the wound has floated, dashed ghosts -->
-  <ellipse cx="192" cy="252" rx="10" ry="7" fill="none" stroke="#3b5f88" stroke-width="1.2" stroke-dasharray="3 4" opacity=".6"/>
-  <ellipse cx="200" cy="182" rx="9" ry="6" fill="none" stroke="#3b5f88" stroke-width="1.1" stroke-dasharray="2 4" opacity=".45"/>
-  <path d="M196 244 C 194 236, 192 228, 190 222 M200 190 C 198 196, 196 202, 194 208" fill="none" stroke="#3b5f88" stroke-width="1" stroke-dasharray="1 4" opacity=".5"/>
-  <!-- not-healing: no closure stitches, the wound simply held -->
-  <!-- the severed obstruction: brace-block cut away OUTSIDE the blade -->
-  <path d="M256 180 L276 172 L280 188 L262 196 Z" fill="none" stroke="#64748b" stroke-width="1.8" stroke-dasharray="3 3"/>
-  <path d="M258 176 L272 192" stroke="#f1df76" stroke-width="2.4"/>
-  <path d="M284 194 L296 202" stroke="#475569" stroke-width="1.3" stroke-dasharray="2 4" opacity=".6"/>
-  <!-- bounded-aid mark: a small brace ACTUALLY placed, modest, no cure promise -->
-  <path d="M242 232 L262 240 M248 226 L248 246" stroke="#4ade80" stroke-width="2"/>
-  <path d="M266 244 C 272 246, 276 250, 278 256" fill="none" stroke="#166534" stroke-width="1.4" stroke-dasharray="3 3" opacity=".8"/>
-  <!-- witness tear beside the blade -->
-  <path d="M154 200 C 151 205, 151 209, 154 212 C 157 209, 157 205, 154 200 Z" fill="#7dd3fc"/>
-  <!-- guard + grip -->
-  <path d="M152 316 L212 322" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
-  <path d="M182 326 L176 380" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
-  <path d="M174 340 L188 342 M172 354 L186 356 M171 368 L185 370" stroke="#60a5fa" stroke-width="2.4"/>
-  <path d="M172 388 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.2"/>
+  <!-- broken-back seax: straight edge below, angled clip spine — nothing like the curved sabres -->
+  <path d="M110 262 L 262 262 L 322 210 C 328 204, 326 196, 318 196 L 196 186 L 110 226 Z"
+        fill="url(#bl503)" stroke="#38bdf8" stroke-width="2.8"/>
+  <path d="M116 258 H 258" stroke="#7dd3fc" stroke-width="2" opacity=".9"/>
+  <path d="M200 192 L 314 201" stroke="#1d4ed8" stroke-width="1.2" opacity=".8"/>
+  <path d="M262 262 L 318 214" stroke="#7dd3fc" stroke-width="1.2" opacity=".7"/>
+  <!-- the inclusion chamber: a clear pocket inside the crystal -->
+  <ellipse cx="196" cy="226" rx="44" ry="26" fill="#050a14" stroke="#7dd3fc" stroke-width="1.8" opacity=".95"/>
+  <!-- the floating injury: someone else's wound, suspended, drifting -->
+  <path d="M176 222 C 186 214, 202 216, 210 224 C 216 230, 214 236, 206 236 C 196 236, 184 232, 176 222 Z"
+        fill="none" stroke="#ef4444" stroke-width="2.2"/>
+  <path d="M186 224 l 8 4 M198 222 l 6 5" stroke="#ef4444" stroke-width="1.2" opacity=".8"/>
+  <path d="M218 216 c 5 -3, 9 -3, 13 0 M164 232 c -5 3, -9 3, -13 0" fill="none" stroke="#7dd3fc" stroke-width="1.2" opacity=".7" stroke-dasharray="2 3"/>
+  <!-- bounded intervention: the brace, unblocked — small green strut -->
+  <path d="M298 288 l 22 0 l 0 -22" fill="none" stroke="#4ade80" stroke-width="2.4"/>
+  <path d="M302 284 l 14 -14" stroke="#4ade80" stroke-width="1.6"/>
+  <!-- the obstruction, severed gold -->
+  <path d="M262 292 L 292 316" stroke="#1d4ed8" stroke-width="3"/>
+  <path d="M272 310 L 284 296" stroke="#f1df76" stroke-width="2.6"/>
+  <path d="M266 302 l 5 -5 M288 308 l 5 -5" stroke="#f1df76" stroke-width="1.3"/>
+  <!-- no-cure-promise: crossed cure glyph -->
+  <rect x="76" y="140" width="34" height="22" rx="3" fill="#050a14" stroke="#475569" stroke-width="1.4"/>
+  <path d="M93 144 v14 M86 151 h14" stroke="#475569" stroke-width="1.8"/>
+  <path d="M76 140 L 110 162 M110 140 L 76 162" stroke="#38bdf8" stroke-width="1.8"/>
+  <!-- witness eye kept open above the chamber -->
+  <path d="M176 154 C 190 142, 210 142, 224 154 C 210 166, 190 166, 176 154 Z" fill="none" stroke="#7dd3fc" stroke-width="1.6"/>
+  <circle cx="200" cy="154" r="5" fill="none" stroke="#7dd3fc" stroke-width="1.4"/>
+  <path d="M200 172 L 200 186" stroke="#7dd3fc" stroke-width="1.2" stroke-dasharray="3 3"/>
+  <!-- hilt: straight tang with wrapped grip, horizontal -->
+  <path d="M110 226 L 66 232 L 64 254 L 110 262 Z" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M78 233 l 2 20 M90 231 l 2 24 M102 229 l 2 28" stroke="#1d4ed8" stroke-width="1.6"/>
+  <circle cx="58" cy="243" r="7" fill="none" stroke="#38bdf8" stroke-width="1.8"/>
+
 </svg>

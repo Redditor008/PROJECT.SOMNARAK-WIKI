@@ -14,34 +14,32 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- blade rising up-right; the TIP IS DISSOLVING into droplets -->
-  <path d="M146 320 L136 308 C 168 288, 198 262, 222 230 C 240 206, 254 182, 266 158 L 288 170 C 278 196, 264 222, 246 248 C 224 280, 190 306, 158 326 Z"
+  <!-- solid lower blade, leaning diagonal -->
+  <path d="M160 318 L 148 308 C 172 270, 196 232, 218 196 L 246 214 C 226 250, 204 288, 178 326 Z"
         fill="url(#bl447)" stroke="#38bdf8" stroke-width="2.6"/>
-  <path d="M144 312 C 176 292, 206 266, 228 236 C 246 210, 260 186, 270 164" fill="none" stroke="#1e3a5f" stroke-width="2"/>
-  <path d="M156 320 C 188 300, 216 274, 238 244 C 254 220, 268 196, 280 174" fill="none" stroke="#e0f2fe" stroke-width="1.6"/>
-  <!-- the dissolving tip: edge breaks into beads above the melt line -->
-  <path d="M266 158 L288 170" stroke="#0a1626" stroke-width="2.4"/>
-  <path d="M276 148 C 273 153, 273 157, 276 160 C 279 157, 279 153, 276 148 Z" fill="#7dd3fc"/>
-  <path d="M290 136 C 287 141, 287 145, 290 148 C 293 145, 293 141, 290 136 Z" fill="#60a5fa"/>
-  <path d="M302 122 C 300 126, 300 129, 302 131 C 304 129, 304 126, 302 122 Z" fill="#93c5fd"/>
-  <circle cx="312" cy="110" r="1.8" fill="#bae6fd"/><circle cx="298" cy="152" r="1.6" fill="#7dd3fc"/>
-  <!-- THE CIRCULATION ARC: droplets travel back down toward the guard, dashed return path -->
-  <path d="M312 108 C 330 140, 332 184, 316 226 C 302 262, 274 292, 240 312" fill="none" stroke="#3b5f88" stroke-width="1.6" stroke-dasharray="4 6"/>
-  <path d="M300 250 L306 242 L308 252 Z M262 296 L270 290 L270 300 Z" fill="#7dd3fc"/>
-  <circle cx="322" cy="180" r="2" fill="#60a5fa"/><circle cx="316" cy="214" r="1.8" fill="#7dd3fc"/>
-  <!-- REBUILDING near the guard: fresh crystal growing in stacked plates -->
-  <path d="M160 314 L176 302 L182 312 L166 324 Z" fill="#7dd3fc" stroke="#0a1626" stroke-width="1.2"/>
-  <path d="M178 300 L192 290 L197 299 L184 309 Z" fill="#60a5fa" stroke="#0a1626" stroke-width="1.2" opacity=".85"/>
-  <path d="M194 288 L206 280 L210 288 L199 296 Z" fill="#3b82f6" stroke="#0a1626" stroke-width="1.2" opacity=".7"/>
-  <!-- never-the-same-edge: two ghost edges of previous forms -->
-  <path d="M150 306 C 182 286, 210 260, 232 230" fill="none" stroke="#3b5f88" stroke-width="1.1" stroke-dasharray="3 5" opacity=".6"/>
-  <path d="M162 324 C 194 304, 222 278, 244 250" fill="none" stroke="#3b5f88" stroke-width="1.1" stroke-dasharray="2 6" opacity=".45"/>
-  <!-- preserved shared-memory band on the flat -->
-  <path d="M186 286 C 204 272, 220 256, 234 238" fill="none" stroke="#f1df76" stroke-width="1.6"/>
-  <!-- guard + grip + release knot -->
-  <path d="M122 322 L166 342" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
-  <path d="M142 344 L120 384" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
-  <path d="M140 352 L130 348 M136 364 L126 360 M132 376 L122 372" stroke="#60a5fa" stroke-width="2.4"/>
-  <path d="M116 392 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.2"/>
-  <path d="M112 398 C 109 402, 109 406, 112 409 C 115 406, 115 402, 112 398 Z" fill="#7dd3fc" opacity=".85"/>
+  <path d="M162 302 C 184 268, 206 234, 226 204" fill="none" stroke="#7dd3fc" stroke-width="1.6" opacity=".85"/>
+  <!-- mid blade: edges going soft, first drips leaving -->
+  <path d="M218 196 C 232 172, 246 150, 258 132 L 282 148 C 272 164, 260 182, 246 214 Z"
+        fill="url(#bl447)" stroke="#38bdf8" stroke-width="2" opacity=".75"/>
+  <path d="M262 176 c 0 7, -9 7, -9 0 c 0 -4, 4.5 -9, 4.5 -9 c 0 0, 4.5 5, 4.5 9" fill="#7dd3fc" opacity=".9"/>
+  <!-- the TIP: fully melted into falling droplets — never the same edge twice -->
+  <path d="M258 132 C 268 118, 278 106, 288 96" fill="none" stroke="#38bdf8" stroke-width="1.6" stroke-dasharray="4 5" opacity=".7"/>
+  <path d="M281 112 c 0 8, -10 8, -10 0 c 0 -5, 5 -10, 5 -10 c 0 0, 5 5, 5 10" fill="#38bdf8"/>
+  <path d="M300 98 c 0 6, -8 6, -8 0 c 0 -4, 4 -8, 4 -8 c 0 0, 4 4, 4 8" fill="#7dd3fc"/>
+  <path d="M296 134 c 0 5, -7 5, -7 0 c 0 -3, 3.5 -7, 3.5 -7 c 0 0, 3.5 4, 3.5 7" fill="#38bdf8" opacity=".8"/>
+  <path d="M312 118 c 0 4, -6 4, -6 0 c 0 -3, 3 -6, 3 -6 c 0 0, 3 3, 3 6" fill="#7dd3fc" opacity=".7"/>
+  <!-- circulation: drops travel DOWN past the blade back to the guard -->
+  <path d="M310 130 C 322 176, 314 240, 268 300" fill="none" stroke="#1d4ed8" stroke-width="1.6" stroke-dasharray="5 5"/>
+  <path d="M268 300 l 9 -3 M268 300 l 2 -9" stroke="#1d4ed8" stroke-width="1.4"/>
+  <path d="M318 168 c 0 5, -7 5, -7 0 c 0 -3, 3.5 -7, 3.5 -7 c 0 0, 3.5 4, 3.5 7" fill="#1d4ed8" opacity=".8"/>
+  <path d="M316 226 c 0 5, -7 5, -7 0 c 0 -3, 3.5 -7, 3.5 -7 c 0 0, 3.5 4, 3.5 7" fill="#38bdf8" opacity=".7"/>
+  <!-- REFORMING at the guard: fresh angular facets accreting -->
+  <path d="M236 286 L 252 272 L 258 288 L 244 296 Z" fill="#050a14" stroke="#7dd3fc" stroke-width="1.8"/>
+  <path d="M222 306 L 236 296 L 240 310 Z" fill="#050a14" stroke="#7dd3fc" stroke-width="1.6"/>
+  <path d="M246 274 l 6 -6 M256 292 l 8 -2" stroke="#7dd3fc" stroke-width="1.2" opacity=".8"/>
+  <!-- guard + grip -->
+  <path d="M136 330 L 186 318 L 190 330 L 140 342 Z" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M150 340 L 128 372 L 114 362 L 138 332 Z" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M136 348 l 10 7 M128 358 l 10 7" stroke="#1d4ed8" stroke-width="1.6"/>
+
 </svg>

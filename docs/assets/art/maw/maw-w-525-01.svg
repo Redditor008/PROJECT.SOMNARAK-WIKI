@@ -14,31 +14,28 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- crimson fang, moderate curve up-right -->
-  <path d="M136 322 L126 310 C 160 288, 190 258, 214 222 C 234 192, 256 166, 282 146 C 292 138, 304 140, 310 150 C 316 160, 310 172, 300 180 C 274 198, 254 224, 238 254 C 218 290, 180 314, 148 330 Z"
+  <!-- monument blade: stepped shoulders, tapering stele, honed side edges -->
+  <path d="M200 74 C 214 84, 224 100, 226 122 L 230 268 L 244 268 L 244 288 L 258 288 L 258 306 L 142 306 L 142 288 L 156 288 L 156 268 L 170 268 L 174 122 C 176 100, 186 84, 200 74 Z"
         fill="url(#bl525)" stroke="#ef4444" stroke-width="2.8"/>
-  <path d="M134 314 C 168 292, 198 262, 220 228 C 240 198, 260 174, 286 154" fill="none" stroke="#4c0d13" stroke-width="2"/>
-  <path d="M146 322 C 180 300, 210 270, 232 236 C 250 208, 270 184, 294 166" fill="none" stroke="#ffe4e6" stroke-width="1.8"/>
-  <!-- THE EMPTY NAME PLAQUE set into the flat: a cenotaph names no body -->
-  <rect x="196" y="238" width="52" height="24" rx="3" transform="rotate(-38 222 250)" fill="#0d0507" stroke="#fca5a5" stroke-width="2"/>
-  <path d="M206 250 L240 224" stroke="#450a0a" stroke-width="1.6" stroke-dasharray="4 4"/>
-  <path d="M212 258 L242 234" stroke="#450a0a" stroke-width="1.4" stroke-dasharray="3 5"/>
-  <!-- chisel marks around the plaque: carved, cared for -->
-  <path d="M192 240 L188 236 M250 216 L254 212 M198 264 L194 268" stroke="#fda4af" stroke-width="1.4"/>
-  <!-- memorial wreath ring near the guard -->
-  <circle cx="168" cy="296" r="13" fill="none" stroke="#fca5a5" stroke-width="2"/>
-  <path d="M158 288 L162 292 M176 286 L172 290 M156 302 L161 300 M178 304 L173 302" stroke="#7f1d1d" stroke-width="1.6"/>
-  <!-- THE DISTINCTION: blame line severed / duty column standing -->
-  <path d="M254 200 C 264 192, 274 186, 284 182" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="3 3"/>
-  <path d="M264 188 L274 198" stroke="#f1df76" stroke-width="2.6"/>
-  <path d="M296 196 L296 224" stroke="#fda4af" stroke-width="3"/>
-  <path d="M291 224 L301 224 M291 196 L301 196" stroke="#fda4af" stroke-width="1.8"/>
-  <path d="M292 230 L300 236" stroke="#4ade80" stroke-width="1.8"/>
-  <!-- review-session mark: two seats facing, said aloud -->
-  <path d="M262 268 L268 268 L268 276 M284 268 L278 268 L278 276" fill="none" stroke="#f1df76" stroke-width="1.6"/>
-  <!-- guard + grip -->
-  <path d="M112 326 L158 346" stroke="#4c0d13" stroke-width="9" stroke-linecap="round"/>
-  <path d="M136 348 L114 388" stroke="#4c0d13" stroke-width="11" stroke-linecap="round"/>
-  <path d="M134 356 L124 352 M130 368 L120 364 M126 380 L116 376" stroke="#dc2626" stroke-width="2.4"/>
-  <path d="M110 396 a6 6 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.2"/>
+  <path d="M178 122 L 174 268 M226 122 L 230 268" stroke="#fca5a5" stroke-width="1.6" opacity=".8"/>
+  <path d="M200 82 C 209 90, 216 102, 218 118" fill="none" stroke="#fca5a5" stroke-width="1.3" opacity=".7"/>
+  <!-- blank cartouche: the empty tomb carries no name -->
+  <rect x="182" y="140" width="36" height="58" rx="4" fill="#0d0507" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M188 152 h24 M188 164 h24 M188 176 h24 M188 188 h16" stroke="#7f1d1d" stroke-width="1.2" stroke-dasharray="2 4"/>
+  <!-- self-punishment loop severed at the base: gold cut, ends recoiling -->
+  <path d="M166 246 a34 22 0 1 1 68 0" fill="none" stroke="#7f1d1d" stroke-width="2.4"/>
+  <path d="M166 246 C 162 252, 156 254, 150 252" fill="none" stroke="#7f1d1d" stroke-width="2.4"/>
+  <path d="M234 246 C 238 252, 244 254, 250 252" fill="none" stroke="#7f1d1d" stroke-width="2.4"/>
+  <path d="M196 222 L 204 210" stroke="#f1df76" stroke-width="2.4"/>
+  <path d="M190 214 l 5 -3 M206 224 l 4 -5" stroke="#f1df76" stroke-width="1.3"/>
+  <!-- duty band: intact green ring where responsibility stays -->
+  <rect x="176" y="318" width="48" height="10" rx="4" fill="none" stroke="#4ade80" stroke-width="2.2"/>
+  <path d="M186 306 L 182 318 M214 306 L 218 318" stroke="#ef4444" stroke-width="1.6"/>
+  <!-- grip below the plinth -->
+  <path d="M192 328 L 190 368 L 210 368 L 208 328 Z" fill="#0d0507" stroke="#ef4444" stroke-width="2"/>
+  <path d="M191 340 h18 M191 352 h18" stroke="#7f1d1d" stroke-width="1.6"/>
+  <!-- shared review: two facing seat marks, said aloud -->
+  <path d="M84 342 h14 v-12 M118 342 h-14 v-12" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M96 322 c 3 -5 7 -5 10 0" fill="none" stroke="#f1df76" stroke-width="1.2"/>
+
 </svg>

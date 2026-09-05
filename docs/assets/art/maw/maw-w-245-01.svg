@@ -14,34 +14,33 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- straight upright blade — and it STOPS: squared-off unfinished tip where the song broke -->
-  <path d="M186 340 L172 340 L166 326 L178 122 L226 118 L232 322 L222 336 Z"
+  <!-- short broad leaf blade, diagonal left-down to right-up -->
+  <path d="M148 262 C 150 226, 172 188, 214 158 C 232 145, 252 138, 268 138 C 276 138, 279 146, 274 152 C 262 168, 252 186, 240 208 C 226 234, 200 256, 166 268 C 156 271, 148 270, 148 262 Z"
         fill="url(#bl245)" stroke="#38bdf8" stroke-width="2.8"/>
-  <!-- THE TRUNCATION: raw squared top edge, unpolished, with break burrs -->
-  <path d="M178 122 L226 118" stroke="#f1df76" stroke-width="3.4"/>
-  <path d="M182 116 L186 122 M198 114 L200 120 M214 113 L216 119" stroke="#f1df76" stroke-width="1.8"/>
-  <!-- ghost of the unfinished length: faint dashed continuation above -->
-  <path d="M182 114 L188 60 M220 112 L224 58" stroke="#3b5f88" stroke-width="1.4" stroke-dasharray="3 6" opacity=".55"/>
-  <path d="M188 60 L224 58" stroke="#3b5f88" stroke-width="1.2" stroke-dasharray="2 5" opacity=".4"/>
-  <!-- polished edge light BELOW the break only -->
-  <path d="M174 326 L182 128" stroke="#e0f2fe" stroke-width="2"/>
-  <path d="M228 318 L222 124" stroke="#1e3a5f" stroke-width="2"/>
-  <!-- fresco staff-lines across the flat: notes below, EMPTY lines above the last lyric bar -->
-  <path d="M178 296 L226 293 M177 278 L227 275 M177 260 L227 257 M176 242 L228 239 M176 224 L228 221" stroke="#1e3a5f" stroke-width="1.3" opacity=".85"/>
-  <circle cx="190" cy="294" r="2.6" fill="#7dd3fc"/><circle cx="206" cy="276" r="2.6" fill="#7dd3fc"/>
-  <circle cx="196" cy="258" r="2.6" fill="#60a5fa"/><circle cx="214" cy="240" r="2.6" fill="#7dd3fc"/>
-  <path d="M193 294 L193 282 M209 276 L209 264 M199 258 L199 246 M217 240 L217 228" stroke="#7dd3fc" stroke-width="1.4"/>
-  <!-- the LAST CONFIRMED LYRIC: one bright bar, then empty staff -->
-  <path d="M176 206 L228 203" stroke="#93c5fd" stroke-width="2.6"/>
-  <path d="M175 188 L228 185 M175 170 L228 167 M174 152 L228 149 M174 134 L227 131" stroke="#12233d" stroke-width="1.3"/>
-  <!-- hum arcs at the living edge -->
-  <path d="M160 300 C 152 294, 147 286, 146 276 M160 260 C 154 256, 150 250, 149 243" fill="none" stroke="#38bdf8" stroke-width="1.4" opacity=".6"/>
-  <!-- choir-arch guard -->
-  <path d="M156 344 L246 338" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
-  <path d="M182 352 C 182 346, 188 341, 196 341 C 204 341, 210 345, 211 351" fill="none" stroke="#7dd3fc" stroke-width="2"/>
-  <!-- grip + silence band -->
-  <path d="M198 348 L200 386" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
-  <path d="M192 356 L206 356 M192 366 L206 366" stroke="#60a5fa" stroke-width="2.2"/>
-  <path d="M192 376 L208 376" stroke="#3b5f88" stroke-width="2.8"/>
-  <path d="M200 392 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.2"/>
+  <path d="M160 254 C 176 236, 210 200, 254 158" fill="none" stroke="#7dd3fc" stroke-width="1.6" opacity=".85"/>
+  <!-- the song carved on the flat: staff lines that STOP mid-line -->
+  <path d="M182 232 C 202 212, 222 192, 240 174 M190 240 C 210 220, 230 200, 248 182 M198 248 C 214 234, 230 218, 246 202" fill="none" stroke="#1d4ed8" stroke-width="1.2" opacity=".9"/>
+  <circle cx="204" cy="212" r="3" fill="#7dd3fc"/>
+  <circle cx="218" cy="200" r="3" fill="#7dd3fc"/>
+  <circle cx="230" cy="190" r="3" fill="none" stroke="#7dd3fc" stroke-width="1.4"/>
+  <!-- the break point: a hard bar where the line was interrupted -->
+  <path d="M244 168 L 256 190" stroke="#e2e8f0" stroke-width="2.6"/>
+  <path d="M252 162 L 264 184" stroke="#475569" stroke-width="1.4" stroke-dasharray="3 3"/>
+  <!-- hum arcs off the edge, sounding only AFTER the break -->
+  <path d="M272 196 c 8 -4, 14 -4, 20 2 M278 210 c 10 -5, 18 -4, 26 3 M284 226 c 12 -6, 22 -4, 32 4" fill="none" stroke="#7dd3fc" stroke-width="1.4" opacity=".85"/>
+  <!-- fresco fragment (no pigment removed): arch chip with figures left intact -->
+  <path d="M84 118 a 30 30 0 0 1 60 0 l 0 34 l -60 0 Z" fill="#050a14" stroke="#475569" stroke-width="1.6"/>
+  <path d="M96 132 c 6 -8, 12 -8, 18 0 M114 140 c 6 -8, 12 -8, 18 0" fill="none" stroke="#7dd3fc" stroke-width="1.3"/>
+  <path d="M84 152 h60" stroke="#475569" stroke-width="1.2"/>
+  <path d="M144 130 l 14 6" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="3 3"/>
+  <!-- kept-silence mark: rest symbol after the last confirmed lyric -->
+  <rect x="296" y="252" width="44" height="16" rx="2" fill="#050a14" stroke="#f1df76" stroke-width="1.4"/>
+  <path d="M303 260 h20" stroke="#f1df76" stroke-width="1.3"/>
+  <path d="M330 256 v8" stroke="#f1df76" stroke-width="2.4"/>
+  <!-- compact guard + down-left grip -->
+  <path d="M150 270 C 140 268, 130 272, 126 280 L 148 292 C 154 286, 154 276, 150 270 Z" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M132 288 L 106 330 L 122 340 L 146 298 Z" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M119 312 l 13 8 M126 301 l 13 8" stroke="#1d4ed8" stroke-width="1.6"/>
+  <circle cx="110" cy="338" r="6" fill="none" stroke="#38bdf8" stroke-width="1.8"/>
+
 </svg>

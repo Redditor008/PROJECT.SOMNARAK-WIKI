@@ -14,34 +14,33 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- very slender stiletto blade, steep diagonal — silhouette: needle-thin taper -->
-  <path d="M132 296 L124 288 L296 92 C 302 84, 312 82, 318 88 C 324 94, 322 104, 314 110 L142 302 Z"
-        fill="url(#bl250)" stroke="#38bdf8" stroke-width="2.4"/>
-  <path d="M130 292 L306 94" stroke="#e0f2fe" stroke-width="1.6" opacity=".9"/>
-  <path d="M138 296 L310 102" stroke="#1e3a5f" stroke-width="1.6"/>
-  <!-- narrow facet striations -->
-  <path d="M168 260 L176 268 M204 220 L212 228 M240 180 L248 188 M276 140 L284 148" stroke="#3b5f88" stroke-width="1.1" opacity=".75"/>
-  <!-- two identity-anchor studs -->
-  <circle cx="196" cy="232" r="4" fill="none" stroke="#f1df76" stroke-width="1.8"/>
-  <circle cx="244" cy="178" r="4" fill="none" stroke="#f1df76" stroke-width="1.8"/>
-  <path d="M200 228 L240 182" stroke="#f1df76" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
-  <!-- severance nick -->
-  <path d="M262 152 L272 162" stroke="#e0f2fe" stroke-width="3"/>
-  <!-- WIDE CRESCENT GUARD: broad moon cradle — the silhouette signature -->
-  <path d="M96 250 C 88 278, 96 308, 120 328 C 144 348, 176 352, 202 340 C 188 336, 172 330, 158 320 C 130 302, 112 278, 108 252 Z"
-        fill="#0a1626" stroke="#93c5fd" stroke-width="3"/>
-  <path d="M108 262 C 112 284, 126 304, 148 318" fill="none" stroke="#38bdf8" stroke-width="1.6" opacity=".7"/>
-  <!-- THE SUSPENDED RAINDROP inside the crescent hollow: never falls -->
-  <path d="M148 272 C 140 284, 140 296, 148 303 C 156 296, 156 284, 148 272 Z"
-        fill="#050a14" stroke="#e0f2fe" stroke-width="2.6"/>
-  <path d="M144 287 C 145 283, 148 280, 151 279" fill="none" stroke="#7dd3fc" stroke-width="1.4"/>
-  <circle cx="148" cy="288" r="17" fill="none" stroke="#7dd3fc" stroke-width="1.2" stroke-dasharray="2 4" opacity=".8"/>
-  <path d="M148 307 L148 318" stroke="#3b5f88" stroke-width="1.2" stroke-dasharray="1 4" opacity=".6"/>
-  <!-- song lines -->
-  <path d="M322 80 C 330 74, 338 72, 346 74 M326 94 C 334 88, 342 86, 350 88" fill="none" stroke="#7dd3fc" stroke-width="1.4" opacity=".7"/>
-  <!-- grip below the crescent + tear pommel -->
-  <path d="M118 316 L86 352" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
-  <path d="M114 322 L122 330 M106 330 L114 338 M98 338 L106 346" stroke="#60a5fa" stroke-width="2.4"/>
-  <path d="M80 360 a7 7 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.4"/>
-  <path d="M76 368 C 73 372, 73 376, 76 379 C 79 376, 79 372, 76 368 Z" fill="#38bdf8" opacity=".8"/>
+  <!-- short broad blade leaning LEFT, wide fuller, spatulate tip -->
+  <path d="M236 278 L 148 122 C 143 112, 152 102, 162 107 C 172 112, 178 122, 182 132 L 258 264 C 262 272, 244 284, 236 278 Z"
+        fill="url(#bl250)" stroke="#38bdf8" stroke-width="2.8"/>
+  <path d="M166 128 L 244 266" stroke="#7dd3fc" stroke-width="1.6" opacity=".85"/>
+  <path d="M158 118 L 232 250" stroke="#1d4ed8" stroke-width="1.2" opacity=".8"/>
+  <!-- singing: two tone arcs off the flat -->
+  <path d="M206 176 c 8 -6, 16 -7, 24 -3 M220 202 c 9 -6, 18 -7, 27 -2" fill="none" stroke="#7dd3fc" stroke-width="1.3" opacity=".8"/>
+  <!-- THE DROP: one clear raindrop suspended above the guard, never falling -->
+  <path d="M292 210 c 0 14, -20 14, -20 0 c 0 -9, 10 -20, 10 -20 c 0 0, 10 11, 10 20 Z"
+        fill="#050a14" stroke="#7dd3fc" stroke-width="2.4"/>
+  <path d="M278 206 c 1 -5, 4 -9, 8 -11" fill="none" stroke="#7dd3fc" stroke-width="1.2" opacity=".8"/>
+  <path d="M282 226 v 10" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="2 4"/>
+  <path d="M268 196 l -8 -6 M296 196 l 8 -6" stroke="#1d4ed8" stroke-width="1" opacity=".7"/>
+  <!-- crescent guard opening toward the drop -->
+  <path d="M226 286 C 240 274, 262 268, 282 272 C 278 260, 264 252, 248 254 C 236 256, 226 264, 222 274 Z"
+        fill="#050a14" stroke="#38bdf8" stroke-width="2.2"/>
+  <!-- two identity anchors: paired solid pins beside the grip -->
+  <rect x="300" y="298" width="10" height="26" rx="2" fill="#050a14" stroke="#f1df76" stroke-width="1.5"/>
+  <rect x="318" y="298" width="10" height="26" rx="2" fill="#050a14" stroke="#f1df76" stroke-width="1.5"/>
+  <path d="M305 292 v-8 M323 292 v-8" stroke="#f1df76" stroke-width="1.3"/>
+  <!-- invasive memory thread: single alien line, severed gold -->
+  <path d="M120 236 C 150 244, 178 258, 202 278" fill="none" stroke="#475569" stroke-width="2"/>
+  <path d="M158 246 L 168 262" stroke="#f1df76" stroke-width="2.4"/>
+  <path d="M152 256 l 5 -5 M172 250 l 5 -5" stroke="#f1df76" stroke-width="1.3"/>
+  <!-- grip down-right -->
+  <path d="M242 288 L 266 330 L 280 322 L 258 280 Z" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M252 300 l 12 -7 M259 313 l 12 -7" stroke="#1d4ed8" stroke-width="1.6"/>
+  <circle cx="276" cy="333" r="6" fill="none" stroke="#38bdf8" stroke-width="1.8"/>
+
 </svg>
