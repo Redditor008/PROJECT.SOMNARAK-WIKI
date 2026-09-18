@@ -307,3 +307,22 @@ Full-set similarity sweep (2026-09-05, owner recheck request): all 168 remade we
 | MAW-W-723 The Severed Requiem | Straight Blade with Slack Coil — the bond rope coiled loosely around the blade, sagging and intact, its far end ending honestly in open air; the taut haul-line severed gold; no-retrieval plate |
 
 Sweep result: pairwise scan after redraws shows no repeating builds; every closest remaining pair is a verified different silhouette.
+
+Batch-15 additions (2026-09-06, full-variety sweep — 12 mutually distinct silhouettes, 5 non-weapons):
+
+| Item | Archetype (new distinct build) | Band (source) |
+| --- | --- | --- |
+| MAW-W-763 The Absent Requiem | Cold-Wick Memorial Candle on Stone Altar (thick altar slab, single wax cylinder, charred bent wick, interrupted smoke curl, scattered-mourners ash ring — flame never recreated) — NON-WEAPON | Medium (source: 3/3 Pierce) |
+| MAW-W-767 The Fading Requiem | Hanging Memorial Bell with Fading Inscription (yoke + ring, broad bell body, tiered MOURNERS→VISITORS→STRANGERS fading text, rim gap and spreading absence halos, still clapper) — NON-WEAPON | Medium (source: 3/3 Pierce) |
+| MAW-W-775 The Torn Lens | Surveyor's Scope Tube with Unfinished-Tower Blueprint (vertical tube + tripod, solid lower floors → dashed mid → ghost top, void split, NOTED/LOST calibration) | Short (source: 2/2 Single) |
+| MAW-W-777 The Burning Fang | Seed-Socket Fang with Empty Pit Fuller (forward-curved fang, oval pit socket with radial grain, crossed stem, ember tip) | Short (source: 2/2 Single) |
+| MAW-W-778 The Listening Requiem | Sealed Speaking Horn (vertical horn, reinforcing rings, etched eulogy fragments sinking as a drip, stitch-sealed membrane at the bell, ground lines — testimony not drained) — NON-WEAPON | Short (source: 2/2 Single) |
+| MAW-W-779 The Torn Edge | Forge Chisel with Torn Bevel (wide flat, ground bevel left only, jagged torn right, forging marks, balking cross at grip) | Short (source: 2/2 Single) |
+| MAW-W-782 The Fading Fang | Straight Heirloom Fang with Patina Bands + Burn-Through (parallel straight edges, five horizontal patina generations, central burn hole with ember halo, ghost-tip smoke — straight for distinctness from the other two fangs) | Short (source: 2/2 Single) |
+| MAW-W-785 Tear Too Small to Honor Requiem | Flattened Garden Stone with Hidden Tear (wide collapsed stone, moss/lichen, tear bead pressed beneath, pressure halos, Garden inventory plate, TOO SMALL crossed) — NON-WEAPON | Short (source: 2/2 Single) |
+| MAW-W-792 The Flowing Hammer | Padded Curatorial Buffer Mallet (padded cylinder head, owner-plate ring, flowing exile lines, buffering waves, DOCUMENT/NOT OWNED shaft plate, open-ring pommel) | Medium (source: 3/3 Pierce) |
+| MAW-W-794 The Collapsed Requiem | Sealed Door Slab (vertical door, twin panels + twin handles, rubble seal top/bottom, vigil lights both sides, diagonal collapse ghost) — NON-WEAPON | Short (source: 2/2 Single) |
+| MAW-W-796 The Tower Requiem | Organ Pipe with Spiral Hymn (tall pipe, mouth/lip, spiral song + motes, Han-surge wave-eroded foot, LISTEN mark) — NON-WEAPON | Short (source: 2/2 Single) |
+| MAW-W-801 The Rage Fang | Hooked Talon Fang with Mirror Fuller (angular talon hook, bright polish, deep mirror groove holding the clenched debt-jaw, debt/order cage grid, pooling at the base) | Short (source: 2/2 Single) |
+
+Batch-15 form notes: full-variety rule — 5 non-weapons (candle, bell, stone, door, pipe) + lens-scope + horn + chisel + mallet + 3 fang variants deliberately differentiated (forward-curved pit fang 777 vs straight heirloom 782 vs hooked talon 801; fang-to-fang cropped diffs 0.046–0.057 after the straight/talon rework vs 0.022 before; closest in-batch pair 0.029 chisel vs straight fang). Element palettes preserved (Lament blue, Grudge red, Void grey).
