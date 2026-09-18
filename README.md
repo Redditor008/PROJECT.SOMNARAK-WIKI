@@ -43,7 +43,6 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 ├── UNIVERSAL_FOLLOW_RULE.md                # Portable AI baseline operating rules
 ├── SESSION_BREAK_PRECAUTION.md             # Crash-recovery protocol & active work ledger
 ├── CHANGELOG.md                            # Complete versioning and batch revision history
-├── 01_Somnarak_Wiki.zip                    # Historical static wiki build archive
 │
 └── REFERENCE_SOMNARAK_WIKI/                # Master Canon & Reference Archive (1,863 files)
     ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line audit of the 34 macro-canon codices

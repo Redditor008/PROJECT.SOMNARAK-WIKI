@@ -94,7 +94,7 @@ Execute in order. Do not skip steps.
 - **Owner scope ruling (2026-09-04):** the 92 sets outside the 291-set queue are CLOSED, not pending. (a) **Legacy sets** (001–215 registry blocks) — cleared from the queue by owner instruction; no further Appearance work. (b) **1000-series sets** (1001–1043) — these belong to the **Unknown Entity Package**, which was not finished at the time the M.A.W. Registry was created (their A-codices still carry placeholder SECC designations such as `C-Iα-000`); DEFERRED until the owner finishes that package. Do not draft Appearance content for either group unless the owner reopens them.
 - **Deferred by owner decision:** tabs UI (later), gallery (later), references (never).
 - **README refresh:** DONE (`1c3de49`).
-- **NON-WIKI branch documentation setup (2026-09-19):** Owner isolated the pure-markdown canonical reference repository (`NON-WIKI` branch) from the static web wiki (`main` branch). Root `README.md`, `DEVELOPMENT.md`, and `REFERENCE_SOMNARAK_WIKI/README.md` updated to establish full documentation, directory index, and workflow guidelines for the 1,863-file markdown archive.
+- **NON-WIKI branch documentation setup (2026-09-19):** Owner isolated the pure-markdown canonical reference repository (`NON-WIKI` branch) from the static web wiki (`main` branch). Root `README.md`, `DEVELOPMENT.md`, and `REFERENCE_SOMNARAK_WIKI/README.md` updated to establish full documentation, directory index, and workflow guidelines for the 1,863-file markdown archive. Removed obsolete deadweight files (`01_Somnarak_Wiki.zip`, `.nojekyll`, `07_Reference.zip.txt`) and cleaned `.gitignore`.
 
 ---
 

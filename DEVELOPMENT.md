@@ -35,7 +35,6 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 ├── UNIVERSAL_FOLLOW_RULE.md                # Portable AI baseline operating rules
 ├── SESSION_BREAK_PRECAUTION.md             # Session break, recovery protocol & work ledger
 ├── CHANGELOG.md                            # Release notes & batch modification history
-├── 01_Somnarak_Wiki.zip                    # Historical static wiki build archive
 │
 └── REFERENCE_SOMNARAK_WIKI/                # Master Canon & Reference Archive (1,863 files)
     ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Audit of the 34 foundational codices in 07_Reference
@@ -66,7 +65,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 ## 3. Standing Owner Rules (Binding on All Sessions)
 
 1. **A0 — Push Always:** Every single file creation, edit, rename, or deletion must be committed **and pushed** to the assigned session branch in the same turn. Never end a turn with uncommitted changes or unpushed local commits.
-2. **A5 — File Safety:** Never delete or overwrite owner files, historical archives (`01_Somnarak_Wiki.zip`), or canonical reference documents without an explicit, file-named instruction from the owner.
+2. **A5 — File Safety:** Never delete or overwrite owner files or canonical reference documents without an explicit, file-named instruction from the owner.
 3. **Canon Terminology is Immutable:** Retain authentic Somnarak-native terminology across all documentation:
    - Sorrow Entities (SE), SECC designations, and threat tiers (`ZAYIN`, `TETH`, `HE`, `WAW`, `ALEPH`).
    - M.A.W. (Materialized Armament of Woe), Weapons (W), Suits (S), Gifts (G).
