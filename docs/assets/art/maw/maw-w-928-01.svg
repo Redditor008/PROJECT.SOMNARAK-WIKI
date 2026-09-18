@@ -1,32 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="LETHE&#x27;S EDGE">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="WEAPON 928">
   <defs>
-    <radialGradient id="bgbc8892" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
-    </radialGradient>
-    <radialGradient id="glbc8892" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <radialGradient id="bg928" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#111318"/><stop offset="100%" stop-color="#08090c"/></radialGradient>
+    <radialGradient id="gl928" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#475569" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgbc8892)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg928)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="128" fill="url(#glbc8892)"/>
-  <g transform="rotate(9 200.0 192.0)">
-<path d="M185.0 192.0 L193.7 77.52000000000001 L200.0 33.0 L206.3 87.05999999999999 L215.0 192.0 Z" fill="#8a8f98" fill-opacity=".24" stroke="#8a8f98" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 33.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="192.5" y="99.8" width="15.0" height="66.8" fill="none" stroke="#8a8f98" stroke-width="1" opacity=".45"/>
-<rect x="175.0" y="187.0" width="50.0" height="10" rx="4" fill="#8a8f98" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="43.0" rx="5" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-<circle cx="200.0" cy="251.0" r="7.0" fill="#8a8f98" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(7 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(9 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#8a8f98" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-928-01</text>
+  <circle cx="200" cy="188" r="132" fill="url(#gl928)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+  <!-- hammer variant W-928 off=1 wob=6 -->
+  <path d="M166 72 L 238 72 L 238 108 L 166 108 Z" fill="#57534e" stroke="#94a3b8" stroke-width="2"/>
+  <path d="M194 108 L 210 108 L 210 232 L 194 232 Z" fill="#44403c" stroke="#94a3b8" stroke-width="1.6"/>
+  <path d="M190 232 L 214 232 L 212 314 C 212 322, 192 322, 192 314 Z" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <circle cx="202" cy="326" r="7" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#94a3b8">MAW-W-928-01</text>
+  <rect x="128" y="328" width="5" height="4" fill="#fff" opacity=".0"/>
+  <circle cx="108" cy="340" r="2" fill="#000" opacity=".0"/>
 </svg>
