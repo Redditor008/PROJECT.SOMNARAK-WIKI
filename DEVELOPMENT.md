@@ -109,33 +109,16 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 Use standard Python 3 and bash tools to inspect, verify, and audit the markdown files:
 
 ```bash
-# 1. Total file and markdown count in REFERENCE_SOMNARAK_WIKI
-python3 -c '
-import os
-base = "REFERENCE_SOMNARAK_WIKI"
-total = sum(len(files) for _, _, files in os.walk(base))
-mds = sum(len([f for f in files if f.endswith(".md")]) for _, _, files in os.walk(base))
-print(f"Total: {total} files | Markdown: {mds}")
-'
+# 1. Run the master archive audit (UTF-8, 34 codices, M.A.W. sets, entity counts)
+python3 tools/audit_lore_archive.py
 
-# 2. Check for missing A/B/C/D items in M.A.W. sets
-python3 -c '
-import os, glob
-base = "REFERENCE_SOMNARAK_WIKI/LORE or REFERANCE/M.A.W. Codex_Set Registry"
-dirs = [d for d in glob.glob(f"{base}/*/*") if os.path.isdir(d)]
-for d in sorted(dirs):
-    files = os.listdir(d)
-    slots = {"A": False, "B": False, "C": False, "D": False}
-    for f in files:
-        for s in slots:
-            if f"-{s}__" in f:
-                slots[s] = True
-    missing = [s for s, present in slots.items() if not present]
-    if missing:
-        print(f"Incomplete set in {os.path.basename(d)}: missing {missing}")
-'
+# 2. Verbose audit listing incomplete or exception sets
+python3 tools/audit_lore_archive.py --verbose
 
-# 3. Search for references to a specific entity or concept across all files
+# 3. Export structured audit data as JSON
+python3 tools/audit_lore_archive.py --json
+
+# 4. Search for references to a specific entity or concept across all files
 grep -rn "SE-001" "REFERENCE_SOMNARAK_WIKI/LORE or REFERANCE/"
 ```
 

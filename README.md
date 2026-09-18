@@ -169,9 +169,18 @@ When reviewing or expanding the Somnarak universe, adhere strictly to Somnarak-n
 
 ## Local Navigation & Tooling
 
-To explore and search the markdown corpus efficiently from the terminal:
+To explore, audit, and search the markdown corpus efficiently from the terminal:
 
 ```bash
+# Run the complete archive health audit
+python3 tools/audit_lore_archive.py
+
+# Verbose audit showing set details
+python3 tools/audit_lore_archive.py --verbose
+
+# Export audit results as JSON
+python3 tools/audit_lore_archive.py --json
+
 # Search for an entity or concept across all reference files
 grep -rn "Absolvohan" "REFERENCE_SOMNARAK_WIKI/LORE or REFERANCE/"
 
