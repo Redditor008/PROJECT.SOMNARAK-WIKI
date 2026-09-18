@@ -19,27 +19,38 @@ import argparse
 
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 REF_DIR = os.path.join(ROOT_DIR, "REFERENCE_SOMNARAK_WIKI")
-LORE_DIR = os.path.join(REF_DIR, "LORE or REFERANCE")
+WORLD_DIR = os.path.join(ROOT_DIR, "SOMNARAK-WORLD")
 
 
 def audit_utf8_files():
-    """Verify that all markdown files decode cleanly with valid UTF-8."""
+    """Verify that all markdown files decode cleanly with valid UTF-8 across the repository."""
     bad_files = []
     total_files = 0
     total_bytes = 0
 
-    for root, _, files in os.walk(REF_DIR):
-        for f in files:
-            if f.endswith(".md"):
-                total_files += 1
-                p = os.path.join(root, f)
-                try:
-                    with open(p, "rb") as fp:
-                        raw = fp.read()
-                        total_bytes += len(raw)
-                        raw.decode("utf-8")
-                except Exception as ex:
-                    bad_files.append((p, str(ex)))
+    scan_dirs = [WORLD_DIR, REF_DIR, ROOT_DIR]
+    scanned_paths = set()
+
+    for d in scan_dirs:
+        if not os.path.exists(d):
+            continue
+        for root, _, files in os.walk(d):
+            if ".git" in root:
+                continue
+            for f in files:
+                if f.endswith(".md"):
+                    p = os.path.join(root, f)
+                    if p in scanned_paths:
+                        continue
+                    scanned_paths.add(p)
+                    total_files += 1
+                    try:
+                        with open(p, "rb") as fp:
+                            raw = fp.read()
+                            total_bytes += len(raw)
+                            raw.decode("utf-8")
+                    except Exception as ex:
+                        bad_files.append((p, str(ex)))
 
     return {
         "total_markdown_files": total_files,
@@ -50,8 +61,8 @@ def audit_utf8_files():
 
 
 def audit_macro_canon():
-    """Audit the 34 foundational reference codices in 07_Reference/."""
-    folder = os.path.join(LORE_DIR, "07_Reference")
+    """Audit the 34 foundational reference codices in SOMNARAK-WORLD/07_Reference/."""
+    folder = os.path.join(WORLD_DIR, "07_Reference")
     if not os.path.exists(folder):
         return {"status": "FAIL", "error": "07_Reference folder missing"}
 
@@ -65,8 +76,8 @@ def audit_macro_canon():
 
 
 def audit_maw_registry():
-    """Verify quadripartite completeness (A/B/C/D) of M.A.W. equipment sets."""
-    base = os.path.join(LORE_DIR, "M.A.W. Codex_Set Registry")
+    """Verify quadripartite completeness (A/B/C/D) of M.A.W. equipment sets in SOMNARAK-WORLD/."""
+    base = os.path.join(WORLD_DIR, "M.A.W. Codex_Set Registry")
     if not os.path.exists(base):
         return {"status": "FAIL", "error": "M.A.W. Registry folder missing"}
 
@@ -96,7 +107,6 @@ def audit_maw_registry():
             if not missing:
                 complete_sets += 1
             else:
-                # Check for documented exceptions (e.g. SE-003 Wilderness Tide has no gear)
                 is_stub = any("Wilderness" in sf or "SE-003" in sf for sf in set_files)
                 incomplete_sets.append({
                     "registry": reg_dir,
@@ -114,8 +124,8 @@ def audit_maw_registry():
 
 
 def audit_sorrow_entities():
-    """Audit entity files, threat tiers, and unique codes in 01_Sorrow_Entities/."""
-    folder = os.path.join(LORE_DIR, "01_Sorrow_Entities")
+    """Audit entity files, threat tiers, and unique codes in SOMNARAK-WORLD/01_Sorrow_Entities/."""
+    folder = os.path.join(WORLD_DIR, "01_Sorrow_Entities")
     if not os.path.exists(folder):
         return {"status": "FAIL", "error": "01_Sorrow_Entities folder missing"}
 
@@ -128,7 +138,6 @@ def audit_sorrow_entities():
         code = m.group(1) if m else f.split("_")[0]
         by_code.setdefault(code, []).append(f)
 
-        # Tier breakdown
         if "-Iα" in f or "-Iβ" in f or "-Iγ" in f or "-Iδ" in f or "-I-" in f:
             tier_counts["ZAYIN"] += 1
         elif "-IIα" in f or "-IIβ" in f or "-IIγ" in f or "-IIδ" in f or "-II-" in f:
@@ -154,11 +163,11 @@ def audit_sorrow_entities():
 
 
 def audit_auxiliary_collections():
-    """Audit Ordeals, Hope Transformations, Unknowns, and Echo-Cores."""
-    ordeals_dir = os.path.join(LORE_DIR, "04_Ordeals")
-    hope_dir = os.path.join(LORE_DIR, "02_Hope_Transformation")
-    unk_dir = os.path.join(LORE_DIR, "03_Unknown_Entities")
-    chars_dir = os.path.join(LORE_DIR, "CHARACTER_WIKI")
+    """Audit Ordeals, Hope Transformations, Unknowns, and Echo-Cores in SOMNARAK-WORLD/."""
+    ordeals_dir = os.path.join(WORLD_DIR, "04_Ordeals")
+    hope_dir = os.path.join(WORLD_DIR, "02_Hope_Transformation")
+    unk_dir = os.path.join(WORLD_DIR, "03_Unknown_Entities")
+    chars_dir = os.path.join(WORLD_DIR, "CHARACTER_WIKI")
 
     ordeals = [f for f in os.listdir(ordeals_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(ordeals_dir) else []
     hope = [f for f in os.listdir(hope_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(hope_dir) else []

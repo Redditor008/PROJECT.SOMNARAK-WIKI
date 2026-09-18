@@ -95,6 +95,7 @@ Execute in order. Do not skip steps.
 - **Deferred by owner decision:** tabs UI (later), gallery (later), references (never).
 - **README refresh:** DONE (`1c3de49`).
 - **NON-WIKI branch documentation setup (2026-09-19):** Owner isolated the pure-markdown canonical reference repository (`NON-WIKI` branch) from the static web wiki (`main` branch). Root `README.md`, `DEVELOPMENT.md`, and `REFERENCE_SOMNARAK_WIKI/README.md` updated to establish full documentation, directory index, and workflow guidelines for the 1,863-file markdown archive. Removed obsolete deadweight files (`01_Somnarak_Wiki.zip`, `.nojekyll`, `07_Reference.zip.txt`) and cleaned `.gitignore`.
+- **SOMNARAK-WORLD directory migration (2026-09-19):** Created root `SOMNARAK-WORLD/` directory and migrated all in-universe lore files/subfolders (`07_Reference` with `PROJECT_SOMNARAK.md`, `01_Sorrow_Entities`, `02_Hope_Transformation`, `03_Unknown_Entities`, `04_Ordeals`, `CHARACTER_WIKI`, `M.A.W. Codex_Set Registry`) into it, leaving out-of-world editorial standards, handoffs, and manifests in `REFERENCE_SOMNARAK_WIKI/`. Updated audit tool `tools/audit_lore_archive.py` and documentation. All 1,879 markdown files PASS.
 
 ---
 

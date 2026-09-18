@@ -14,21 +14,30 @@ This branch serves as the authoritative, pure-markdown **source repository** for
 | Branch | Purpose | Scope | Primary Asset |
 |---|---|---|---|
 | **`main`** | Public Web Wiki Frontend | Static website served via GitHub Pages | HTML pages, CSS, JS, SVG compositions, web search |
-| **`NON-WIKI`** (This Branch) | Canon Lore & Reference Archive | Authoritative markdown source corpus | 1,863 reference files, entity codices, M.A.W. registries (~3.5M words) |
+| **`NON-WIKI`** (This Branch) | Canon Lore & Reference Archive | Authoritative markdown source corpus | 1,870+ reference files, entity codices, M.A.W. registries (~3.5M words) |
+
+---
+
+## Repository Architecture: Two Master Trees
+
+The archive cleanly separates in-universe lore from out-of-world editorial and audit documents:
+
+1. **`SOMNARAK-WORLD/`**: The complete in-universe canonical corpus (1,850+ files). Written strictly from an in-world perspective (Directorate clerks, Facility 01 Echo-Cores, containment workers, and city chroniclers). Contains the 34 foundational codices, Sorrow Entity dossiers, M.A.W. equipment sets, Ordeals, Hope Transformations, and Echo-Core personnel files.
+2. **`REFERENCE_SOMNARAK_WIKI/`**: Out-of-world editorial standards, structural audits, master catalogs, multi-session handoff protocols, and research manifests.
 
 ---
 
 ## Archive Statistics
 
-- **1,863 total files** in `REFERENCE_SOMNARAK_WIKI` (1,862 Markdown source codices)
+- **1,879 total markdown files** across `SOMNARAK-WORLD` and `REFERENCE_SOMNARAK_WIKI`
 - **Over 3.46 million words** of structured, canonical lore
-- **34 Macro-Canon Master Codices** establishing the entire cosmology, geopolitical landscape, and physical laws of Somnarak
-- **529 Sorrow Entity Dossiers** (`01_Sorrow_Entities`), covering threat levels ZAYIN through ALEPH
-- **291 M.A.W. Equipment Sets** (`M.A.W. Codex_Set Registry`, 1,196 files across 42 registry groups), cataloging Weapons, Suits, and Gifts
-- **60 Five-Color Ordeal Files** (`04_Ordeals`), documenting First, Second, Third, and Tide watches
-- **14 Hope Transformation Records** (`02_Hope_Transformation`), detailing resonant ascensions
-- **9 Echo-Core Dossiers** (`CHARACTER_WIKI`), covering the departmental leadership of Facility 01 ("The Hand of Change")
-- **8 Unknown Anomaly Records** (`03_Unknown_Entities`), containing unclassified deep-abyss occurrences
+- **34 Macro-Canon Master Codices** (`SOMNARAK-WORLD/07_Reference/`) establishing the entire cosmology, geopolitical landscape, and physical laws of Somnarak
+- **529 Sorrow Entity Dossiers** (`SOMNARAK-WORLD/01_Sorrow_Entities/`), representing 285 unique canonical entities across threat levels ZAYIN through ALEPH
+- **291 M.A.W. Equipment Sets** (`SOMNARAK-WORLD/M.A.W. Codex_Set Registry/`, 1,196 files across 42 registry groups), cataloging Weapons, Suits, and Gifts
+- **60 Five-Color Ordeal Files** (`SOMNARAK-WORLD/04_Ordeals/`), documenting First, Second, Third, and Tide watches
+- **14 Hope Transformation Records** (`SOMNARAK-WORLD/02_Hope_Transformation/`), detailing resonant ascensions
+- **9 Echo-Core Dossiers** (`SOMNARAK-WORLD/CHARACTER_WIKI/`), covering the departmental leadership of Facility 01 ("The Hand of Change")
+- **8 Unknown Anomaly Records** (`SOMNARAK-WORLD/03_Unknown_Entities/`), containing unclassified deep-abyss occurrences
 
 ---
 
@@ -43,9 +52,24 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 ├── UNIVERSAL_FOLLOW_RULE.md                # Portable AI baseline operating rules
 ├── SESSION_BREAK_PRECAUTION.md             # Crash-recovery protocol & active work ledger
 ├── CHANGELOG.md                            # Complete versioning and batch revision history
+├── tools/                                  # Non-wiki developer tools
+│   └── audit_lore_archive.py               # Standalone Python audit tool (UTF-8, codices, M.A.W., entities)
 │
-└── REFERENCE_SOMNARAK_WIKI/                # Master Canon & Reference Archive (1,863 files)
-    ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line audit of the 34 macro-canon codices
+├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,850+ files)
+│   ├── README.md                           # In-world archive guide & recommended reading order
+│   ├── 01_Sorrow_Entities/                 # 529 Entity files: Dossiers, tales, and containment data
+│   ├── 02_Hope_Transformation/             # 14 Hope Transformation files: HT-001 through HT-012, Trinity & Hand
+│   ├── 03_Unknown_Entities/                # 8 Unknown Entity files: UNK-248 through UNK-903 & Dramaturgy
+│   ├── 04_Ordeals/                         # 60 Ordeal files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
+│   ├── 07_Reference/                       # 34 Macro-Canon Master Codices: Cosmology, Factions, Systems
+│   ├── CHARACTER_WIKI/                     # 9 Echo-Core files: Facility 01 departmental leaders
+│   └── M.A.W. Codex_Set Registry/          # 1,196 files across 42 registry folders (A/B/C/D quadripartite sets)
+│
+└── REFERENCE_SOMNARAK_WIKI/                # Out-of-World Editorial Standards, Audits & Catalogs
+    ├── README.md                           # Overview of the reference standards folder
+    ├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 285 unique Sorrow Entities
+    ├── SORROW_ENTITIES_PAIRS_AUDIT.md      # Detailed audit and resolution guide for the 241 paired entity files
+    ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line audit of the 34 foundational codices
     ├── ALL_FILES_AUDIT_MANIFEST.md         # Comprehensive manifest of all reference files
     ├── CATEGORY_AND_PAGE_PLAN.md           # Information architecture & structural classification
     ├── CONTENT_AND_VISUAL_STANDARDS.md     # Editorial standards & authentic Somnarak terminology
@@ -55,24 +79,14 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
     ├── MAW_WEAPON_ARCHETYPES.md            # Comprehensive weapon taxonomy & silhouette archetypes
     ├── OPERATING_RULES.md                  # Canon integrity & directory rules
     ├── PROJECT_MOON_WIKI_NESTED_PLACEMENT_RESEARCH.md # Structural comparative research
-    ├── PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md     # Historical compliance audit
-    ├── README.md                           # Internal navigation guide for the reference folder
-    │
-    └── LORE or REFERANCE/                  # The Seven Primary Canon Repositories (1,850 files)
-        ├── 01_Sorrow_Entities/             # 529 Entity files: Dossiers, tales, and containment data
-        ├── 02_Hope_Transformation/         # 14 Hope Transformation files: HT-001 through HT-012, Trinity & Hand
-        ├── 03_Unknown_Entities/            # 8 Unknown Entity files: UNK-248 through UNK-903 & Dramaturgy
-        ├── 04_Ordeals/                     # 60 Ordeal files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
-        ├── 07_Reference/                   # 34 Macro-Canon Master Codices: Cosmology, Factions, Systems
-        ├── CHARACTER_WIKI/                 # 9 Echo-Core files: Facility 01 departmental leaders
-        └── M.A.W. Codex_Set Registry/      # 1,196 files across 42 registry folders (A/B/C/D quadripartite sets)
+    └── PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md     # Historical compliance audit
 ```
 
 ---
 
-## The 34 Macro-Canon Master Codices (`07_Reference/`)
+## The 34 Macro-Canon Master Codices (`SOMNARAK-WORLD/07_Reference/`)
 
-The 34 files located in `REFERENCE_SOMNARAK_WIKI/LORE or REFERANCE/07_Reference/` constitute the foundational canon of Somnarak. Every entity, piece of equipment, and district event derives from these texts.
+The 34 files located in `SOMNARAK-WORLD/07_Reference/` constitute the foundational in-world canon of Somnarak. Every entity, piece of equipment, and district event derives from these texts.
 
 | Codex File Name | Focus & Subject Matter | Key Topics Covered |
 |---|---|---|
@@ -113,7 +127,7 @@ The 34 files located in `REFERENCE_SOMNARAK_WIKI/LORE or REFERANCE/07_Reference/
 
 ---
 
-## Facility 01 & The Nine Echo-Cores (`CHARACTER_WIKI/`)
+## Facility 01 & The Nine Echo-Cores (`SOMNARAK-WORLD/CHARACTER_WIKI/`)
 
 The subterranean facility "The Hand of Change" is structured across 8 operational floors, led by the **Nine Echo-Cores**:
 
@@ -131,7 +145,7 @@ The subterranean facility "The Hand of Change" is structured across 8 operationa
 
 ---
 
-## M.A.W. Equipment System (`M.A.W. Codex_Set Registry/`)
+## M.A.W. Equipment System (`SOMNARAK-WORLD/M.A.W. Codex_Set Registry/`)
 
 The **Materialized Armament of Woe (M.A.W.)** registry contains complete equipment sets extracted from Sorrow Entities. Each set follows a strict quadripartite structure:
 
@@ -182,21 +196,10 @@ python3 tools/audit_lore_archive.py --verbose
 python3 tools/audit_lore_archive.py --json
 
 # Search for an entity or concept across all reference files
-grep -rn "Absolvohan" "REFERENCE_SOMNARAK_WIKI/LORE or REFERANCE/"
+grep -rn "Absolvohan" "SOMNARAK-WORLD/"
 
 # List all master codices in 07_Reference
-ls -lh "REFERENCE_SOMNARAK_WIKI/LORE or REFERANCE/07_Reference"
-
-# Count files across each reference category
-python3 -c '
-import os
-base = "REFERENCE_SOMNARAK_WIKI/LORE or REFERANCE"
-for d in sorted(os.listdir(base)):
-    p = os.path.join(base, d)
-    if os.path.isdir(p):
-        cnt = sum(len(files) for _, _, files in os.walk(p))
-        print(f"{d:30} : {cnt} files")
-'
+ls -lh "SOMNARAK-WORLD/07_Reference"
 ```
 
 ---
