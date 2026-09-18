@@ -6,13 +6,17 @@
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg954)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl954)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#94a3b8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- lantern variant W-954 off=-1 wob=8 -->
-  <path d="M178 48 L 218 48 L 218 232 L 178 232 Z" fill="#334155" stroke="#94a3b8" stroke-width="2"/>
-  <path d="M188 232 L 208 232 L 206 314 C 206 322, 190 322, 190 314 Z" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
-  <circle cx="198" cy="326" r="7" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+<!-- 954 pocket watch: round hunter case with lid, chain, roman numerals -->
+  <circle cx="200" cy="132" r="42" fill="#1e293b" stroke="#94a3b8" stroke-width="2"/>
+  <circle cx="200" cy="132" r="34" fill="#f8fafc" stroke="#334155" stroke-width="1"/>
+  <path d="M200 132 L200 110 M200 132 L218 142" stroke="#0f172a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M200 100 L200 104 M232 132 L228 132 M200 164 L200 160 M168 132 L172 132" stroke="#334155" stroke-width="1.2"/>
+  <circle cx="200" cy="90" r="6" fill="#94a3b8" stroke="#475569" stroke-width="1"/>
+  <path d="M200 84 L200 72" stroke="#94a3b8" stroke-width="1.6"/>
+  <path d="M186 172 Q200 184 214 172" stroke="#94a3b8" stroke-width="1" fill="none" opacity="0.6"/>
+  <circle cx="224" cy="146" r="2" fill="#475569" opacity="0.7"/>
+
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#94a3b8">MAW-W-954-01</text>
-  <rect x="154" y="324" width="4" height="4" fill="#fff" opacity=".0"/>
-  <circle cx="134" cy="342" r="1" fill="#000" opacity=".0"/>
 </svg>

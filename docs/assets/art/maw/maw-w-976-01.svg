@@ -6,13 +6,15 @@
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg976)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl976)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#94a3b8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- chakram variant W-976 off=0 wob=2 -->
-  <path d="M180 48 L 220 48 L 220 232 L 180 232 Z" fill="#334155" stroke="#94a3b8" stroke-width="2"/>
-  <path d="M190 232 L 210 232 L 208 314 C 208 322, 192 322, 192 314 Z" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
-  <circle cx="200" cy="326" r="7" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+<!-- 976 dawn: double horizon with two suns, different ray pattern from 917 -->
+  <rect x="148" y="100" width="104" height="120" rx="10" fill="#0f172a" stroke="#94a3b8" stroke-width="1.6"/>
+  <path d="M148 160 L252 160" stroke="#e2e8f0" stroke-width="1.4"/>
+  <path d="M182 160 A18 18 0 0 1 164 160" fill="#fbbf24" stroke="#f59e0b" stroke-width="1"/>
+  <path d="M218 160 A22 22 0 0 1 194 160" fill="#f59e0b" stroke="#d97706" stroke-width="1"/>
+  <path d="M168 138 L158 126 M182 132 L182 114 M218 132 L218 114 M232 138 L242 126" stroke="#fbbf24" stroke-width="1" opacity="0.6"/>
+  <path d="M158 182 Q200 172 242 182" stroke="#334155" stroke-width="0.8" fill="none" opacity="0.5"/>
+
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#94a3b8">MAW-W-976-01</text>
-  <rect x="136" y="326" width="5" height="4" fill="#fff" opacity=".0"/>
-  <circle cx="96" cy="340" r="2" fill="#000" opacity=".0"/>
 </svg>

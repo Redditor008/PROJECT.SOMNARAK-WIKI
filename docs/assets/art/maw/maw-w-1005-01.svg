@@ -6,13 +6,14 @@
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg1005)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl1005)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#ef4444" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- wave variant W-1005 off=1 wob=0 -->
-  <path d="M182 48 L 222 48 L 222 232 L 182 232 Z" fill="#334155" stroke="#ef4444" stroke-width="2"/>
-  <path d="M192 232 L 212 232 L 210 314 C 210 322, 194 322, 194 314 Z" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
-  <circle cx="202" cy="326" r="7" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+<!-- 1005 door: arched doorway with double doors, distinct from 922 -->
+  <rect x="166" y="72" width="68" height="128" rx="12" fill="#1c1917" stroke="#ef4444" stroke-width="1.6"/>
+  <path d="M174 84 Q200 60 226 84 L226 196 L174 196 Z" fill="#0c0a09" stroke="#7f1d1d" stroke-width="1"/>
+  <path d="M200 84 L200 196" stroke="#ef4444" stroke-width="1"/>
+  <circle cx="188" cy="138" r="3" fill="#ef4444"/><circle cx="212" cy="138" r="3" fill="#ef4444"/>
+  <path d="M178 172 L190 182 M222 172 L210 182" stroke="#fca5a5" stroke-width="0.8" fill="none" opacity="0.6"/>
+
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#ef4444">MAW-W-1005-01</text>
-  <rect x="125" y="325" width="4" height="5" fill="#fff" opacity=".0"/>
-  <circle cx="125" cy="345" r="1" fill="#000" opacity=".0"/>
 </svg>

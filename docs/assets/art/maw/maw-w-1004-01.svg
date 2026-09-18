@@ -6,13 +6,13 @@
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg1004)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl1004)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#ef4444" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- orb variant W-1004 off=0 wob=8 -->
-  <path d="M180 48 L 220 48 L 220 232 L 180 232 Z" fill="#334155" stroke="#ef4444" stroke-width="2"/>
-  <path d="M190 232 L 210 232 L 208 314 C 208 322, 192 322, 192 314 Z" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
-  <circle cx="200" cy="326" r="7" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+<!-- 1004 flesh: flayed slab with muscle fibers, distinct from 921 -->
+  <path d="M168 92 C154 110, 158 164, 172 188 C186 206, 214 206, 228 188 C242 164, 246 110, 232 92 C214 76, 186 76, 168 92 Z" fill="#7f1d1d" stroke="#ef4444" stroke-width="1.4"/>
+  <path d="M178 108 L222 108 M178 124 L222 124 M178 140 L222 140 M178 156 L222 156" stroke="#fca5a5" stroke-width="0.8" opacity="0.6"/>
+  <path d="M186 116 L210 134 L190 152" stroke="#fecaca" stroke-width="1" fill="none" opacity="0.8"/>
+  <ellipse cx="200" cy="172" rx="14" ry="6" fill="#450a0a" opacity="0.6"/>
+
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#ef4444">MAW-W-1004-01</text>
-  <rect x="124" y="324" width="6" height="4" fill="#fff" opacity=".0"/>
-  <circle cx="124" cy="344" r="3" fill="#000" opacity=".0"/>
 </svg>

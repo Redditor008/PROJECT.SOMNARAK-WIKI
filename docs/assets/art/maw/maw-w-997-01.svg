@@ -1,18 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="WEAPON 997">
   <defs>
-    <radialGradient id="bg997" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#0a1626"/><stop offset="100%" stop-color="#050a14"/></radialGradient>
-    <radialGradient id="gl997" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#1d4ed8" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
+    <radialGradient id="bg997" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#111318"/><stop offset="100%" stop-color="#08090c"/></radialGradient>
+    <radialGradient id="gl997" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#475569" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg997)" stroke="#38bdf8" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg997)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl997)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- tower variant W-997 off=0 wob=4 -->
-  <path d="M180 48 L 220 48 L 220 232 L 180 232 Z" fill="#334155" stroke="#38bdf8" stroke-width="2"/>
-  <path d="M190 232 L 210 232 L 208 314 C 208 322, 192 322, 192 314 Z" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
-  <circle cx="200" cy="326" r="7" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#38bdf8">MAW-W-997-01</text>
-  <rect x="157" y="327" width="5" height="5" fill="#fff" opacity=".0"/>
-  <circle cx="117" cy="345" r="2" fill="#000" opacity=".0"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+<!-- 997 digital timer: rectangular digital display with 90 and buttons -->
+  <rect x="162" y="102" width="76" height="68" rx="6" fill="#0f172a" stroke="#94a3b8" stroke-width="1.8"/>
+  <rect x="170" y="112" width="60" height="32" rx="3" fill="#020617" stroke="#22c55e" stroke-width="1"/>
+  <text x="200" y="132" text-anchor="middle" fill="#22c55e" font-family="monospace" font-size="16">90</text>
+  <circle cx="182" cy="156" r="6" fill="#334155" stroke="#94a3b8" stroke-width="1"/>
+  <circle cx="200" cy="156" r="6" fill="#ef4444" stroke="#7f1d1d" stroke-width="1"/>
+  <circle cx="218" cy="156" r="6" fill="#334155" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="184" y="172" width="32" height="10" rx="3" fill="#334155" stroke="#94a3b8" stroke-width="1"/>
+
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#94a3b8">MAW-W-997-01</text>
 </svg>
