@@ -1,5 +1,0 @@
-# Somnarak Wiki — GitHub Pages
-User-agent: *
-Allow: /
-
-Sitemap: https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/sitemap.xml
