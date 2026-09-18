@@ -3,20 +3,19 @@
     <radialGradient id="bg915" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#111318"/><stop offset="100%" stop-color="#08090c"/></radialGradient>
     <radialGradient id="gl915" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#475569" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg915)" stroke="#94a3b8" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg915)" stroke="#92400e" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl915)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- rust variant W-915 off=2 wob=0 -->
-  <path d="M164 48 L 240 48 L 240 200 L 204 228 L 164 200 Z" fill="#7c2d12" stroke="#92400e" stroke-width="2"/>
-  <circle cx="190" cy="96" r="2" fill="#292524" opacity=".5"/>
-  <circle cx="202" cy="112" r="3" fill="#292524" opacity=".5"/>
-  <circle cx="214" cy="128" r="2" fill="#292524" opacity=".5"/>
-  <path d="M180 228 L 228 228 L 226 244 L 182 244 Z" fill="#1c0a0a" stroke="#94a3b8" stroke-width="1.2"/>
-  <path d="M192 244 L 192 312 C 192 320, 216 320, 216 312 L 216 244 Z" fill="#1c0a0a" stroke="#94a3b8" stroke-width="1.2"/>
-  <circle cx="204" cy="326" r="7" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#94a3b8">MAW-W-915-01</text>
-  <rect x="155" y="325" width="4" height="5" fill="#fff" opacity=".0"/>
-  <circle cx="95" cy="343" r="1" fill="#000" opacity=".0"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#92400e" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#92400e" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+<!-- 915 rusted plate: pitted steel plate with corrosion holes -->
+  <rect x="148" y="88" width="104" height="128" rx="6" fill="#1c1917" stroke="#92400e" stroke-width="1.8"/>
+  <rect x="158" y="98" width="84" height="108" rx="4" fill="none" stroke="#d97706" stroke-width="0.8" stroke-dasharray="4 4" opacity="0.5"/>
+  <circle cx="176" cy="124" r="9" fill="#0c0a09" stroke="#92400e" stroke-width="1"/>
+  <circle cx="224" cy="138" r="7" fill="#0c0a09" stroke="#92400e" stroke-width="1"/>
+  <circle cx="192" cy="182" r="11" fill="#0c0a09" stroke="#92400e" stroke-width="1"/>
+  <path d="M158 108 Q200 92 242 108" stroke="#d97706" stroke-width="1.2" opacity="0.6" fill="none"/>
+  <circle cx="202" cy="152" r="2" fill="#d97706" opacity="0.7"/><circle cx="186" cy="166" r="1.5" fill="#d97706" opacity="0.5"/><circle cx="218" cy="168" r="1.8" fill="#92400e" opacity="0.6"/>
+ 
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#92400e">MAW-W-915-01</text>
 </svg>

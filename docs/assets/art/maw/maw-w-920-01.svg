@@ -8,12 +8,13 @@
   <circle cx="200" cy="188" r="132" fill="url(#gl920)"/>
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- book variant W-920 off=0 wob=0 -->
-  <path d="M158 48 L 242 48 L 242 212 L 200 232 L 158 212 Z" fill="#451a03" stroke="#92400e" stroke-width="2"/>
-  <path d="M200 48 L 200 232" stroke="#78350f" stroke-width="1.6"/>
-  <path d="M188 232 L 212 232 L 210 314 C 210 322, 190 322, 190 314 Z" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
-  <circle cx="200" cy="326" r="7" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+<!-- 920 once upon: open book blade with pages and spine -->
+  <path d="M148 132 L200 112 L200 192 L148 212 Z" fill="#1e293b" stroke="#38bdf8" stroke-width="1.4"/>
+  <path d="M252 132 L200 112 L200 192 L252 212 Z" fill="#0f172a" stroke="#38bdf8" stroke-width="1.4"/>
+  <path d="M200 112 L200 192" stroke="#f1df76" stroke-width="1.2"/>
+  <path d="M162 142 L188 132 M162 158 L188 148 M212 132 L238 142 M212 148 L238 158" stroke="#7dd3fc" stroke-width="0.9" opacity="0.7"/>
+  <circle cx="200" cy="202" r="4" fill="#f1df76" stroke="#38bdf8" stroke-width="0.8"/>
+  <rect x="184" y="68" width="32" height="10" rx="2" fill="#78350f" stroke="#f1df76" stroke-width="1"/>
+ 
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#38bdf8">MAW-W-920-01</text>
-  <rect x="120" y="320" width="6" height="4" fill="#fff" opacity=".0"/>
-  <circle cx="100" cy="340" r="3" fill="#000" opacity=".0"/>
 </svg>

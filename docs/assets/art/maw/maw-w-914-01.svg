@@ -6,15 +6,13 @@
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg914)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl914)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#94a3b8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- shard variant W-914 off=1 wob=8 -->
-  <path d="M187 40 L 215 40 L 247 150 L 202 264 L 155 150 Z" fill="#e2e8f0" stroke="#94a3b8" stroke-width="2" opacity=".92"/>
-  <path d="M187 40 L 202 96 L 215 40" fill="none" stroke="#e2e8f0" stroke-width="1"/>
-  <path d="M184 252 L 220 252 L 218 272 L 186 272 Z" fill="#1e293b" stroke="#94a3b8" stroke-width="1.2"/>
-  <path d="M194 272 L 194 314 C 194 322, 210 322, 210 314 L 210 272 Z" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
-  <circle cx="202" cy="326" r="7" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+<!-- 914 angular shard: transparent crystal shard with facets -->
+  <path d="M200 62 L238 124 L224 212 L176 212 L162 124 Z" fill="#334155" stroke="#94a3b8" stroke-width="1.6" opacity="0.85"/>
+  <path d="M200 62 L200 212 M162 124 L238 124 M176 212 L224 212" stroke="#e2e8f0" stroke-width="0.9" opacity="0.6"/>
+  <path d="M182 102 L200 62 L218 102" fill="none" stroke="#f1f5f9" stroke-width="1" opacity="0.7"/>
+  <path d="M176 168 L200 132 L224 168" fill="none" stroke="#94a3b8" stroke-width="0.8" stroke-dasharray="3 3"/>
+ 
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#94a3b8">MAW-W-914-01</text>
-  <rect x="154" y="324" width="6" height="4" fill="#fff" opacity=".0"/>
-  <circle cx="94" cy="342" r="3" fill="#000" opacity=".0"/>
 </svg>

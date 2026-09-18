@@ -6,15 +6,15 @@
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg922)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl922)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#ef4444" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- door variant W-922 off=2 wob=4 -->
-  <path d="M166 36 L 242 36 L 242 212 L 204 232 L 166 212 Z" fill="#1e293b" stroke="#ef4444" stroke-width="2"/>
-  <path d="M190 56 L 190 212 M218 56 L 218 212" stroke="#fca5a5" stroke-width="1.2"/>
-  <circle cx="192" cy="132" r="3" fill="#fca5a5"/>
-  <path d="M192 232 L 216 232 L 214 314 C 214 322, 194 322, 194 314 Z" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
-  <circle cx="204" cy="326" r="7" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+<!-- 922 door to nowhere fang: doorway frame with protruding fang -->
+  <rect x="166" y="72" width="68" height="132" rx="3" fill="#1c1917" stroke="#ef4444" stroke-width="1.6"/>
+  <rect x="174" y="80" width="52" height="116" rx="2" fill="#0c0a09" stroke="#7f1d1d" stroke-width="1"/>
+  <path d="M200 88 L200 196" stroke="#ef4444" stroke-width="0.8" stroke-dasharray="4 3" opacity="0.6"/>
+  <path d="M200 116 L232 148 L200 180 L200 116 Z" fill="#334155" stroke="#fca5a5" stroke-width="1.2"/>
+  <path d="M232 148 L238 148" stroke="#fca5a5" stroke-width="1.6"/>
+  <circle cx="186" cy="138" r="3" fill="#ef4444"/>
+ 
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#ef4444">MAW-W-922-01</text>
-  <rect x="122" y="322" width="5" height="4" fill="#fff" opacity=".0"/>
-  <circle cx="102" cy="342" r="2" fill="#000" opacity=".0"/>
 </svg>

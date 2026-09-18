@@ -6,17 +6,16 @@
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg918)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl918)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#94a3b8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- timer variant W-918 off=-2 wob=6 -->
-  <circle cx="196" cy="132" r="61" fill="#1e293b" stroke="#94a3b8" stroke-width="2"/>
-  <path d="M196 132 L 196 78" stroke="#e2e8f0" stroke-width="2"/>
-  <path d="M196 132 L 179 156" stroke="#ef4444" stroke-width="2"/>
-  <circle cx="196" cy="132" r="6" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
-  <text x="186" y="150" fill="#e2e8f0" font-family="monospace" font-size="7">90S</text>
-  <path d="M184 232 L 208 232 L 206 312 C 206 322, 186 322, 186 312 Z" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
-  <circle cx="196" cy="326" r="7" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+<!-- 918 ninety seconds: countdown timer dial with 90 marking -->
+  <circle cx="200" cy="148" r="48" fill="#1e293b" stroke="#94a3b8" stroke-width="2"/>
+  <circle cx="200" cy="148" r="38" fill="#020617" stroke="#e2e8f0" stroke-width="1"/>
+  <path d="M200 110 L200 120 M238 148 L228 148 M200 186 L200 176 M162 148 L172 148 M224 124 L218 130 M176 124 L182 130 M224 172 L218 166 M176 172 L182 166" stroke="#e2e8f0" stroke-width="1.2"/>
+  <path d="M200 148 L200 118" stroke="#ef4444" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M200 148 L226 148" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+  <text x="200" y="164" text-anchor="middle" fill="#f1f5f9" font-family="monospace" font-size="10">90</text>
+  <rect x="186" y="196" width="28" height="12" rx="3" fill="#334155" stroke="#94a3b8" stroke-width="1"/>
+ 
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#94a3b8">MAW-W-918-01</text>
-  <rect x="158" y="328" width="4" height="4" fill="#fff" opacity=".0"/>
-  <circle cx="98" cy="346" r="1" fill="#000" opacity=".0"/>
 </svg>

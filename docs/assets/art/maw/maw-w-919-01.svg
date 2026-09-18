@@ -6,15 +6,15 @@
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg919)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl919)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#d97706" stroke-width="1.2"/>
   <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- bell variant W-919 off=-1 wob=8 -->
-  <path d="M166 68 C 166 68, 168 96, 150 128 C 140 152, 146 176, 166 196 C 182 212, 214 212, 230 196 C 250 176, 256 152, 246 128 C 228 96, 230 68, 230 68 Z" fill="#94a3b8" stroke="#d97706" stroke-width="2"/>
-  <path d="M186 196 L 210 196 L 206 212 L 190 212 Z" fill="#1e293b" stroke="#d97706" stroke-width="1"/>
-  <path d="M190 212 L 190 268 L 206 268 L 206 212" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
-  <circle cx="198" cy="276" r="4" fill="#475569"/>
-  <circle cx="198" cy="326" r="7" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+<!-- 919 passing bell: cracked memorial bell with clapper -->
+  <path d="M168 164 Q168 88 200 72 Q232 88 232 164 L224 168 L176 168 Z" fill="#3f2a14" stroke="#d97706" stroke-width="1.8"/>
+  <ellipse cx="200" cy="172" rx="34" ry="8" fill="#1c1408" stroke="#d97706" stroke-width="1.2"/>
+  <circle cx="200" cy="184" r="6" fill="#422006" stroke="#fbbf24" stroke-width="1"/>
+  <path d="M200 96 L200 184" stroke="#78350f" stroke-width="1" stroke-dasharray="3 4" opacity="0.6"/>
+  <path d="M214 110 L210 138 L218 162" stroke="#ef4444" stroke-width="1.5" fill="none" opacity="0.9"/>
+  <path d="M176 120 Q184 124 176 132" stroke="#fbbf24" stroke-width="0.9" fill="none" opacity="0.6"/>
+ 
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d97706">MAW-W-919-01</text>
-  <rect x="159" y="329" width="5" height="5" fill="#fff" opacity=".0"/>
-  <circle cx="99" cy="347" r="2" fill="#000" opacity=".0"/>
 </svg>

@@ -6,16 +6,16 @@
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg923)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl923)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#ef4444" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- chain variant W-923 off=3 wob=6 -->
-  <path d="M192 36 L 220 36 L 220 232 L 192 232 Z" fill="#475569" stroke="#ef4444" stroke-width="2"/>
-  <ellipse cx="207" cy="56" rx="14" ry="8" fill="none" stroke="#fca5a5" stroke-width="1.8"/>
-  <ellipse cx="207" cy="84" rx="14" ry="8" fill="none" stroke="#fca5a5" stroke-width="1.8"/>
-  <ellipse cx="207" cy="112" rx="14" ry="8" fill="none" stroke="#fca5a5" stroke-width="1.8"/>
-  <path d="M194 232 L 218 232 L 216 314 C 216 322, 196 322, 196 314 Z" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
-  <circle cx="206" cy="326" r="7" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+<!-- 923 hatred above: chain-link blade with three links -->
+  <ellipse cx="200" cy="96" rx="22" ry="14" fill="none" stroke="#ef4444" stroke-width="2.2"/>
+  <ellipse cx="200" cy="128" rx="22" ry="14" fill="none" stroke="#fca5a5" stroke-width="2.2"/>
+  <ellipse cx="200" cy="160" rx="22" ry="14" fill="none" stroke="#ef4444" stroke-width="2.2"/>
+  <rect x="196" y="88" width="8" height="10" rx="2" fill="#1a0a0d"/>
+  <rect x="196" y="120" width="8" height="10" rx="2" fill="#1a0a0d"/>
+  <path d="M188 180 L212 180 L208 224 L192 224 Z" fill="#450a0a" stroke="#ef4444" stroke-width="1.2"/>
+  <path d="M200 180 L200 224" stroke="#7f1d1d" stroke-width="0.8" stroke-dasharray="3 3"/>
+ 
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#ef4444">MAW-W-923-01</text>
-  <rect x="123" y="323" width="6" height="5" fill="#fff" opacity=".0"/>
-  <circle cx="103" cy="343" r="3" fill="#000" opacity=".0"/>
 </svg>
