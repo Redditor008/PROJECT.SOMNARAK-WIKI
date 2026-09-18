@@ -6,14 +6,15 @@
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg927)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl927)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#94a3b8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- staff variant W-927 off=0 wob=4 -->
-  <path d="M194 32 L 206 32 L 206 232 L 194 232 Z" fill="#92400e" stroke="#78350f" stroke-width="2"/>
-  <circle cx="200" cy="32" r="16" fill="#7dd3fc" stroke="#94a3b8" stroke-width="1.4"/>
-  <path d="M188 232 L 212 232 L 210 314 C 210 322, 190 322, 190 314 Z" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
-  <circle cx="200" cy="326" r="7" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+<!-- 927 staff with crystal: gnarled wooden staff topped by prism crystal -->
+  <rect x="196" y="72" width="8" height="148" rx="4" fill="#3f2a14" stroke="#94a3b8" stroke-width="1.2"/>
+  <path d="M196 108 Q192 116 196 124 Q200 132 196 140 Q192 148 196 156" stroke="#78350f" stroke-width="1" fill="none" opacity="0.6"/>
+  <path d="M200 72 L214 88 L208 108 L192 108 L186 88 Z" fill="#334155" stroke="#94a3b8" stroke-width="1.4"/>
+  <path d="M200 72 L200 108 M186 88 L214 88" stroke="#e2e8f0" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="200" cy="96" r="3" fill="#e2e8f0" opacity="0.9"/>
+  <circle cx="200" cy="228" r="5" fill="#1c1917" stroke="#94a3b8" stroke-width="1"/>
+
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#94a3b8">MAW-W-927-01</text>
-  <rect x="127" y="327" width="4" height="5" fill="#fff" opacity=".0"/>
-  <circle cx="107" cy="347" r="1" fill="#000" opacity=".0"/>
 </svg>

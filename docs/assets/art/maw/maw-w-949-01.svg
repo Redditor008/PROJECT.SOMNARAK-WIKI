@@ -8,12 +8,12 @@
   <circle cx="200" cy="188" r="132" fill="url(#gl949)"/>
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- needle variant W-949 off=1 wob=8 -->
-  <path d="M202 32 L 208 72 L 205 72 L 205 232 L 199 232 L 199 72 L 196 72 Z" fill="#334155" stroke="#38bdf8" stroke-width="1.8"/>
-  <circle cx="202" cy="232" r="6" fill="#7dd3fc" stroke="#38bdf8" stroke-width="1"/>
-  <path d="M196 238 L 208 238 L 206 314 C 206 322, 198 322, 198 314 Z" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
-  <circle cx="202" cy="326" r="7" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+<!-- 949 needle: horizontal sewing needle with eye and trailing thread (rotated for variety) -->
+  <path d="M132 140 L256 142 L252 146 L132 144 Z" fill="#cbd5e1" stroke="#38bdf8" stroke-width="1.6"/>
+  <ellipse cx="144" cy="142" rx="5" ry="3" fill="none" stroke="#38bdf8" stroke-width="1.2"/>
+  <path d="M256 142 Q268 152 260 164 Q252 176 240 172" stroke="#f1df76" stroke-width="1.2" fill="none" opacity="0.9"/>
+  <circle cx="252" cy="142" r="1.8" fill="#38bdf8"/>
+  <rect x="124" y="136" width="8" height="12" rx="2" fill="#1e293b" stroke="#38bdf8" stroke-width="0.8"/>
+
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#38bdf8">MAW-W-949-01</text>
-  <rect x="149" y="329" width="5" height="5" fill="#fff" opacity=".0"/>
-  <circle cx="129" cy="345" r="2" fill="#000" opacity=".0"/>
 </svg>

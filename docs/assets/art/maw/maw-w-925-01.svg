@@ -6,14 +6,15 @@
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg925)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl925)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#d97706" stroke-width="1.2"/>
   <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- vessel variant W-925 off=-2 wob=0 -->
-  <path d="M168 92 L 224 92 L 220 192 L 172 192 Z" fill="#7dd3fc" stroke="#d97706" stroke-width="2"/>
-  <ellipse cx="196" cy="92" rx="28" ry="8" fill="#e0f2fe" stroke="#d97706" stroke-width="1.2"/>
-  <path d="M184 192 L 208 192 L 206 314 C 206 322, 186 322, 186 314 Z" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
-  <circle cx="196" cy="326" r="7" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+<!-- 925 vessel jar: amphora with twin handles, narrow neck, inscription -->
+  <path d="M184 84 L184 96 Q184 112 192 124 L192 196 Q192 212 200 216 Q208 212 208 196 L208 124 Q216 112 216 96 L216 84 Z" fill="#3f2a14" stroke="#d97706" stroke-width="1.6"/>
+  <path d="M184 96 Q172 104 172 118 Q172 132 184 136" fill="none" stroke="#d97706" stroke-width="1.6"/>
+  <path d="M216 96 Q228 104 228 118 Q228 132 216 136" fill="none" stroke="#d97706" stroke-width="1.6"/>
+  <ellipse cx="200" cy="84" rx="16" ry="4" fill="#1c1408" stroke="#d97706" stroke-width="1"/>
+  <path d="M192 142 L208 142 M192 158 L208 158 M192 174 L208 174" stroke="#fbbf24" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="200" cy="192" r="3" fill="#92400e" />
+
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d97706">MAW-W-925-01</text>
-  <rect x="125" y="325" width="5" height="5" fill="#fff" opacity=".0"/>
-  <circle cx="105" cy="345" r="2" fill="#000" opacity=".0"/>
 </svg>

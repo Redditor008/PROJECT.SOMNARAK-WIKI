@@ -6,14 +6,14 @@
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg947)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl947)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#d97706" stroke-width="1.2"/>
   <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- sickle variant W-947 off=-1 wob=4 -->
-  <path d="M198 48 C 226 48, 236 72, 226 96 C 216 112, 190 112, 182 96 L 190 84 C 198 92, 210 92, 214 84 C 218 72, 210 58, 198 48 Z" fill="#57534e" stroke="#d97706" stroke-width="2"/>
-  <path d="M190 96 L 190 232 L 206 232 L 206 96" fill="#44403c" stroke="#d97706" stroke-width="1.6"/>
-  <path d="M190 232 L 206 232 L 204 314 C 204 322, 192 322, 192 314 Z" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
-  <circle cx="198" cy="326" r="7" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+<!-- 947 sickle: deep crescent sickle with toothed edge -->
+  <path d="M212 72 Q248 108 214 152 Q200 168 182 152 Q150 122 168 92 Q184 74 212 72 Z" fill="none" stroke="#d97706" stroke-width="2.2"/>
+  <path d="M212 72 Q248 108 214 152" stroke="#fbbf24" stroke-width="1" fill="none" opacity="0.7"/>
+  <path d="M186 96 Q196 104 186 112 M189 112 Q199 120 189 128 M192 128 Q202 136 192 144" stroke="#d97706" stroke-width="0.9" opacity="0.8"/>
+  <rect x="178" y="152" width="12" height="54" rx="6" fill="#3f2a14" stroke="#d97706" stroke-width="1.2"/>
+  <circle cx="184" cy="214" r="4" fill="#1c1408" stroke="#d97706" stroke-width="1"/>
+
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d97706">MAW-W-947-01</text>
-  <rect x="147" y="327" width="6" height="5" fill="#fff" opacity=".0"/>
-  <circle cx="127" cy="343" r="3" fill="#000" opacity=".0"/>
 </svg>

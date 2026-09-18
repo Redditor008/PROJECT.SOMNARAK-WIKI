@@ -6,14 +6,15 @@
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg929)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl929)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#d97706" stroke-width="1.2"/>
   <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- maul variant W-929 off=2 wob=8 -->
-  <path d="M172 56 L 236 56 L 236 128 L 172 128 Z" fill="#57534e" stroke="#d97706" stroke-width="2"/>
-  <path d="M196 128 L 212 128 L 212 232 L 196 232 Z" fill="#44403c" stroke="#d97706" stroke-width="1.6"/>
-  <path d="M192 232 L 216 232 L 214 314 C 214 322, 194 322, 194 314 Z" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
-  <circle cx="204" cy="326" r="7" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+<!-- 929 maul head: splitting maul with flared bit and poll -->
+  <path d="M172 116 L228 108 L228 148 L172 156 Z" fill="#422006" stroke="#d97706" stroke-width="1.6"/>
+  <path d="M172 116 Q162 134 172 156" fill="#78350f" stroke="#d97706" stroke-width="1.2"/>
+  <path d="M228 108 Q238 128 228 148" fill="#1c1408" stroke="#92400e" stroke-width="1"/>
+  <rect x="188" y="98" width="24" height="18" rx="3" fill="#1c1408" stroke="#d97706" stroke-width="1"/>
+  <rect x="192" y="156" width="16" height="66" rx="5" fill="#3f2a14" stroke="#d97706" stroke-width="1.2"/>
+  <path d="M200 172 L200 214" stroke="#92400e" stroke-width="0.8" stroke-dasharray="4 3" opacity="0.6"/>
+
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d97706">MAW-W-929-01</text>
-  <rect x="129" y="329" width="6" height="5" fill="#fff" opacity=".0"/>
-  <circle cx="109" cy="341" r="3" fill="#000" opacity=".0"/>
 </svg>

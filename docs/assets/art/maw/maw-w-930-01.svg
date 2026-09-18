@@ -8,13 +8,13 @@
   <circle cx="200" cy="188" r="132" fill="url(#gl930)"/>
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- lens variant W-930 off=3 wob=0 -->
-  <circle cx="206" cy="132" r="56" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/>
-  <circle cx="206" cy="132" r="42" fill="#1e293b" stroke="#7dd3fc" stroke-width="1"/>
-  <circle cx="209" cy="132" r="6" fill="#7dd3fc" opacity=".6"/>
-  <path d="M194 232 L 218 232 L 216 314 C 216 322, 196 322, 196 314 Z" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
-  <circle cx="206" cy="326" r="7" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+<!-- 930 lens: hand lens with magnifier rim and handle -->
+  <circle cx="200" cy="128" r="36" fill="none" stroke="#38bdf8" stroke-width="2.2"/>
+  <circle cx="200" cy="128" r="30" fill="#0f172a" stroke="#7dd3fc" stroke-width="0.9" opacity="0.5"/>
+  <path d="M200 98 L200 104 M230 128 L224 128 M200 158 L200 152 M170 128 L176 128 M221 107 L217 111 M179 107 L183 111" stroke="#38bdf8" stroke-width="1" opacity="0.6"/>
+  <rect x="196" y="164" width="8" height="46" rx="4" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
+  <circle cx="200" cy="218" r="5" fill="#334155" stroke="#38bdf8" stroke-width="1"/>
+  <path d="M188 132 Q200 142 212 132" stroke="#38bdf8" stroke-width="0.8" fill="none" opacity="0.5"/>
+
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#38bdf8">MAW-W-930-01</text>
-  <rect x="130" y="320" width="4" height="4" fill="#fff" opacity=".0"/>
-  <circle cx="110" cy="342" r="1" fill="#000" opacity=".0"/>
 </svg>

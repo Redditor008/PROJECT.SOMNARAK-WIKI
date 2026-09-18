@@ -8,11 +8,13 @@
   <circle cx="200" cy="188" r="132" fill="url(#gl944)"/>
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- dagger variant W-944 off=3 wob=8 -->
-  <path d="M206 32 L 218 72 L 212 72 L 212 232 L 200 232 L 200 72 L 194 72 Z" fill="#334155" stroke="#38bdf8" stroke-width="2"/>
-  <path d="M196 232 L 216 232 L 214 314 C 214 322, 198 322, 198 314 Z" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
-  <circle cx="206" cy="326" r="7" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+<!-- 944 dagger: symmetrical stiletto with medial ridge -->
+  <path d="M200 66 L208 132 L200 188 L192 132 Z" fill="#334155" stroke="#38bdf8" stroke-width="1.4"/>
+  <path d="M200 66 L200 188" stroke="#e2e8f0" stroke-width="1" opacity="0.8"/>
+  <path d="M192 132 L208 132" stroke="#38bdf8" stroke-width="0.8" opacity="0.6"/>
+  <rect x="188" y="188" width="24" height="10" rx="2" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+  <rect x="194" y="198" width="12" height="28" rx="6" fill="#0f172a" stroke="#38bdf8" stroke-width="1"/>
+  <circle cx="200" cy="232" r="3" fill="#1e293b" stroke="#38bdf8" stroke-width="0.8"/>
+
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#38bdf8">MAW-W-944-01</text>
-  <rect x="144" y="324" width="6" height="4" fill="#fff" opacity=".0"/>
-  <circle cx="124" cy="340" r="3" fill="#000" opacity=".0"/>
 </svg>
