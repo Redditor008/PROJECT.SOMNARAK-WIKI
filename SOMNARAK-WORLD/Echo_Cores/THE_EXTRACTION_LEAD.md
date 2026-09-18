@@ -1,11 +1,11 @@
 # Echo-Core 4 — The Extraction Lead [Echo-Core]
 
-> **WIKI SECTION:** CHARACTER  
-> **CLASSIFICATION:** ECHO-CORE  
-> **SPOILER STATUS:** FULL STORY SPOILERS  
-> This page contains detailed information about Zyrak's history, abilities, relationships, and story role.
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> Official historical record, behavioral assessment, and resonance profile for Zyrak.
 
-> _“The gauge says the extraction succeeded. The entity disagrees.”_  
+> _“The gauge says the extraction succeeded. The entity disagrees.”_
 > — **Zyrak, the Extraction Lead**
 
 **The Extraction Lead** (추출 책임자, _chuchul chaegimja_)—personal name **Zyrak** (지락)—is Echo-Core 4 of the Nine and commander of **Floor 3: the Extraction Hall**. She is the Reverie Directorate's senior authority on drawing M.A.W. from Sorrow Entities and directs resonance scans, extraction attempts, equipment testing, registry handoff, and the separation of unstable entity combinations.

@@ -1,4 +1,4 @@
-# The Kind Echo — 친절한 메아리
+# Kind Echo — 친절한 메아리
 
 > *"The gentlest sorrow in our containment. We let new agents practice on it because it would never hurt them — and it knows that, and it is glad."*
 
@@ -38,7 +38,7 @@
 
 ### Operational Notes
 
-- The Kind Echo is the designated training entity for all new R.D. personnel.
+- Kind Echo is the designated training entity for all new R.D. personnel.
 - All four Work Types are equally effective — the entity responds gently to any approach.
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform the entity.
 - The entity cannot meaningfully breach; if its (rarely triggered) breach occurs, it simply sits outside its containment door and waits.
@@ -102,7 +102,7 @@
 
 **Material and Surface:** Pale blue, translucent, smooth. The crystal is warm to the touch — not Han-cold, but comfort-warm. It pulses gently, once every few seconds, like breathing.
 
-**Movement and Posture:** The Kind Echo does not walk. It drifts — slowly, gently, barely leaving its containment spot. When a worker enters, it drifts toward them by a few centimeters, as if leaning in.
+**Movement and Posture:** Kind Echo does not walk. It drifts — slowly, gently, barely leaving its containment spot. When a worker enters, it drifts toward them by a few centimeters, as if leaning in.
 
 **Distinctive Markers:**
 - Warm to the touch (unique among Sorrow Entities — most are cold).
@@ -133,11 +133,11 @@
 
 ## Origin
 
-- **Formation:** The Kind Echo formed from the collective comfort the city's first settlers gave one another during the earliest days — the gentle sorrow of people who had lost everything but chose to be kind anyway.
+- **Formation:** Kind Echo formed from the collective comfort the city's first settlers gave one another during the earliest days — the gentle sorrow of people who had lost everything but chose to be kind anyway.
 - **The Sorrow:** Not grief, not rage — the Lament of people who cared for each other in the dark. The softest sorrow in the Weeping.
 - **The Event:** The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit.
 - **The People:** The first settlers of Somnarak — the ones who held each other's hands in the dark before there was a city, before there was a Veil, before there was a name for what they felt.
-- **Expanded origin context:** The Kind Echo is the proof that not all sorrow is hostile. Some sorrow is just the memory of having loved someone and wanting them to be okay. The R.D. uses it for training not because it is worthless, but because it is the only entity that will never hurt a trainee — and it seems, in its faint and gentle way, to be proud of that.
+- **Expanded origin context:** Kind Echo is the proof that not all sorrow is hostile. Some sorrow is just the memory of having loved someone and wanting them to be okay. The R.D. uses it for training not because it is worthless, but because it is the only entity that will never hurt a trainee — and it seems, in its faint and gentle way, to be proud of that.
 
 ## Behavior
 
@@ -152,16 +152,16 @@
 
 ### Operational Work Notes
 
-The Kind Echo is the R.D.'s training standard — the entity every new agent works with first. It responds positively to all four Work Types, making it ideal for teaching the mechanics of sorrow management without risk. Work must record the trainee's emotional response (some find the entity's gentleness moving; a few have wept — not from sorrow, but from relief). A stable gauge is the default state; the entity is almost impossible to agitate. Any unusual response from this entity would be remarkable enough to log immediately.
+Kind Echo is the R.D.'s training standard — the entity every new agent works with first. It responds positively to all four Work Types, making it ideal for teaching the mechanics of sorrow management without risk. Work must record the trainee's emotional response (some find the entity's gentleness moving; a few have wept — not from sorrow, but from relief). A stable gauge is the default state; the entity is almost impossible to agitate. Any unusual response from this entity would be remarkable enough to log immediately.
 
 ## Breach Behavior
 
-> *"The Kind Echo has broken free. Hunts personnel indiscriminately."*
+> *"Kind Echo has broken free. Hunts personnel indiscriminately."*
 
 | Field | Detail |
 |---|---|
 | **Breach Type** | Corrupt |
-| **Movement** | The Kind Echo intensifies in place, warping the containment zone outward. It hunts personnel indiscriminately. |
+| **Movement** | Kind Echo intensifies in place, warping the containment zone outward. It hunts personnel indiscriminately. |
 | **Effect** | Waves of cold grief wash over personnel, draining composure. |
 | **Secondary Effect** | A keening wail that fractures emotional stability. |
 | **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
@@ -181,53 +181,42 @@ The Kind Echo is the R.D.'s training standard — the entity every new agent wor
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** A simple, warm-to-the-touch baton of pale blue Han-crystal. Standard issue.
-
-**Damage:** Lament 3–6
+**Damage:** Lament 3-6
 **Speed:** 2 (Normal)
 **Range:** 2 (Short)
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
-
-**Attack Pattern:** Single
-**Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Appearance:** A simple, warm-to-the-touch baton of pale blue Han-crystal. Standard issue.
 
 **Ability:** Deals Lament damage. The baton is intentionally weak — it is a training tool, not a combat weapon. Its purpose is to teach new agents how M.A.W. weapons feel in the hand.
-
 **Cost:** None meaningful. The baton is inert enough for extended carry without toll.
 
 ### M.A.W. Suit — Standard Training Vest
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-**Appearance:** A lightweight vest of woven Han-crystal thread, pale blue. Comfortable. Standard issue.
-
 **Resistances:**
+- Grudge: 1.0 (Normal)
 - Lament: 0.4 (Resistant)
-- Grudge: 1 (Normal)
-- Void: 1.6 (Weak)
 - Weight: 0.8 (Endured)
+- Void: 1.6 (Weak)
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
+**Appearance:** A lightweight vest of woven Han-crystal thread, pale blue. Comfortable. Standard issue.
 
 **Ability:** Grants minor resistance to Lament pressure. Like the baton, it is a training tool — it teaches the body what M.A.W. armor feels like.
-
 **Cost:** None meaningful at this grade.
 
 ### M.A.W. Gift — The Warm Stone
 
 **Type:** Accessory (Gift) | **Grade:** α | **Element:** Lament
 
-**Appearance:** A small, smooth, warm stone of pale blue Han-crystal that fits in the palm. It hums faintly.
-
 **Slot:** Tail
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity
+**Appearance:** A small, smooth, warm stone of pale blue Han-crystal that fits in the palm. It hums faintly.
 
 **Ability:** Granted at near-100% probability during training work (the entity is generous). +2 Composure, +2 Resolve while carried. The stone is warm, always.
-
 **Cost:** None. The entity gives freely. Some agents carry their Warm Stone for their entire career.
 
 *Gifts are granted at random by the entity upon a successful work, not manufactured.*
@@ -246,6 +235,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 | **After use** | Trainee comfort level, any emotional response, retention of Warm Stone. |
 
 **Stat interpretation:** The Training M.A.W. is the baseline. All other equipment is compared to it. "How much better than Training?" is the standard R.D. question when evaluating new M.A.W.
+
 ## 관찰 기록 (Observation Log)
 
 **R.D. Observation Level:** 4 — Mastered (training entity; fully understood)
@@ -258,7 +248,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 - The Warm Stone Gift is granted at near-100% probability — the entity is generous.
 
 **Personnel Note:**
-> *"I trained on the The Kind Echo in my first week. I was terrified — my first Sorrow Entity. It glowed at me and hummed. It was warm. I cried, not because it hurt me, but because I expected it to, and it didn't. I still carry my Warm Stone. I'm a Containment Lead now. I go back and visit it sometimes. It still brightens when I enter."* — Commander Taeho (태호), R.D.
+> *"I trained on the Kind Echo in my first week. I was terrified — my first Sorrow Entity. It glowed at me and hummed. It was warm. I cried, not because it hurt me, but because I expected it to, and it didn't. I still carry my Warm Stone. I'm a Containment Lead now. I go back and visit it sometimes. It still brightens when I enter."* — Commander Taeho (태호), R.D.
 
 ### Observation Progression
 
@@ -276,7 +266,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 > Progressive declassified records. Each entry unlocks at a higher Observation Level.
 
 **Entry 1 — Containment Description**
-The Kind Echo (`C-Iα-000 [LS]`) is a 60 cm warm blue Han-crystal figure — Subject-Lament, Residue coherence, Minor potency. The gentlest entity in the R.D. registry. Designated 000; permanently assigned to the Training Containment Unit, SECTOR-D-01. Warm to the touch. Does not attack.
+Kind Echo (`C-Iα-000 [LS]`) is a 60 cm warm blue Han-crystal figure — Subject-Lament, Residue coherence, Minor potency. The gentlest entity in the R.D. registry. Designated 000; permanently assigned to the Training Containment Unit, SECTOR-D-01. Warm to the touch. Does not attack.
 
 **Entry 2 — <Excerpt from Training Manual, Year 4202>**
 "When the R.D. was founded, the first containment sweeps identified hundreds of Sorrow Entities across the city. One of them — found in the oldest corner of the Old Lament — was different. It was warm. It did not weep, wail, or attack. It glowed, softly, and hummed, gently, and when the first agent reached for it, it leaned in. We designated it 000 and gave it a permanent home in our training unit. It has trained every agent we have ever hired."
@@ -285,10 +275,10 @@ The Kind Echo (`C-Iα-000 [LS]`) is a 60 cm warm blue Han-crystal figure — Sub
 "They told me my first entity would be scary. It wasn't. It was warm, and it hummed, and I put my hand on it and it brightened. I practiced all four Work Types on it in one afternoon. It responded the same way to all of them — gently. I left the unit feeling like I could do this job. I think that is exactly what it wanted me to feel." — Trainee Agent Hanul Grey (하늘 그레이), Zone B, first day
 
 **Entry 4 — <Containment Notice, Research Division>**
-The Kind Echo requires no special containment. Its Sorrow Gauge is so stable that breach is practically impossible. The entity is available for training during all shifts. New agents should perform at least one cycle of each Work Type before advancing to live entities. The Warm Stone Gift should be retained — it provides a minor but lasting comfort benefit.
+Kind Echo requires no special containment. Its Sorrow Gauge is so stable that breach is practically impossible. The entity is available for training during all shifts. New agents should perform at least one cycle of each Work Type before advancing to live entities. The Warm Stone Gift should be retained — it provides a minor but lasting comfort benefit.
 
 **Entry 5 — <Archive Note>**
-We do not know why the first settlers' kindness crystallized into an entity. Most sorrow in the Weeping is grief, rage, emptiness, or weight. This is none of those. This is the Lament of people who were kind in the dark. Perhaps that is also a kind of sorrow — the sorrow of caring, and knowing the caring cannot fix what is broken. The Kind Echo cannot heal anyone. But it can make a frightened new agent feel, for one afternoon, that the sorrow is survivable. After 6,000 years, it is still doing exactly that. — Archive Lead Marjuk (마주크)
+We do not know why the first settlers' kindness crystallized into an entity. Most sorrow in the Weeping is grief, rage, emptiness, or weight. This is none of those. This is the Lament of people who were kind in the dark. Perhaps that is also a kind of sorrow — the sorrow of caring, and knowing the caring cannot fix what is broken. Kind Echo cannot heal anyone. But it can make a frightened new agent feel, for one afternoon, that the sorrow is survivable. After 6,000 years, it is still doing exactly that. — Archive Lead Marjuk (마주크)
 
 ## 최종 관찰 (Final Observation)
 
@@ -296,7 +286,7 @@ We do not know why the first settlers' kindness crystallized into an entity. Mos
 
 | Perform all four Work Types — complete the full training cycle. | Leave early — skip one Work Type and exit. |
 |---|---|
-| You work through Flerehan, Pugnahan, Viderehan, and Ferrehan in sequence. The entity responds gently to each. At the end, it dims once — a slow, warm pulse, like a sigh of contentment — and the Warm Stone appears in your palm. Training complete. | You skip the last Work Type and head for the door. The Kind Echo drifts after you, dimming slightly, and the corridor feels a little colder. You can come back tomorrow. It will be here. It always is. |
+| You work through Flerehan, Pugnahan, Viderehan, and Ferrehan in sequence. The entity responds gently to each. At the end, it dims once — a slow, warm pulse, like a sigh of contentment — and the Warm Stone appears in your palm. Training complete. | You skip the last Work Type and head for the door. Kind Echo drifts after you, dimming slightly, and the corridor feels a little colder. You can come back tomorrow. It will be here. It always is. |
 | **OBSERVATION SUCCESS** | **OBSERVATION SUCCESS** (the entity does not fail trainees) |
 
 ## 감각 묘사 (Flavor Text)
@@ -315,17 +305,17 @@ The containment unit is warm. Not Han-warm — comfort-warm. A soft blue glow fi
 
 | Entity | Interaction |
 |---|---|
-| **All Training Personnel** | The Kind Echo responds identically and gently to all trainees, regardless of experience or approach. It is the baseline against which all other entity responses are measured. |
-| **The Orphaned Bell** | The Bell's tolling causes the The Kind Echo to dim momentarily, then brighten — as if acknowledging a shared Lament origin. |
-| **The Maw** | The Maw's hunger does not reach the Training Unit. The Kind Echo is too faint, too gentle, too low-energy to attract the Maw's attention. This is, perhaps, its greatest protection. |
+| **All Training Personnel** | Kind Echo responds identically and gently to all trainees, regardless of experience or approach. It is the baseline against which all other entity responses are measured. |
+| **The Orphaned Bell** | The Bell's tolling causes the Kind Echo to dim momentarily, then brighten — as if acknowledging a shared Lament origin. |
+| **The Maw** | The Maw's hunger does not reach the Training Unit. Kind Echo is too faint, too gentle, too low-energy to attract the Maw's attention. This is, perhaps, its greatest protection. |
 
 ### Interaction Pattern
 
-The Kind Echo does not interact meaningfully with other entities — it is too low-coherence to resonate. Its primary "interaction" is with personnel: it responds to all approaches with the same gentle warmth. Observe it alongside any entity to establish a baseline of "what a non-threatening sorrow feels like."
+Kind Echo does not interact meaningfully with other entities — it is too low-coherence to resonate. Its primary "interaction" is with personnel: it responds to all approaches with the same gentle warmth. Observe it alongside any entity to establish a baseline of "what a non-threatening sorrow feels like."
 
 ### Entity Interaction Record
 
-The Kind Echo must be assessed as a training baseline, not as a combat entity. Its interactions are minimal and non-threatening.
+Kind Echo must be assessed as a training baseline, not as a combat entity. Its interactions are minimal and non-threatening.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -333,7 +323,7 @@ The Kind Echo must be assessed as a training baseline, not as a combat entity. I
 | **The Orphaned Bell** | Dims at the Bell's toll, then brightens. | Confirms shared Lament origin; no operational impact. | Record proximity, timing. |
 | **The Maw** | No interaction (the Maw does not notice it). | None — the Training Unit is outside the Maw's range of interest. | N/A. |
 
-**Interaction procedure:** Use the The Kind Echo as the control in any entity comparison study. Its responses are the baseline for "docile, non-threatening sorrow."
+**Interaction procedure:** Use the Kind Echo as the control in any entity comparison study. Its responses are the baseline for "docile, non-threatening sorrow."
 
 ## 이야기 (Narratio) — The Tale
 
@@ -351,7 +341,7 @@ The sorrow of that holding — the gentle, futile, stubborn Lament of people who
 
 They put it in a training room. They send every new agent to it first. Not because it is worthless — because it is the only entity in the registry that will never hurt them, and they need to know, before they face the others, that sorrow is not always a weapon. Sometimes it is just a warm glow in the dark, leaning toward you, humming a song that says: *I know. I know. It is hard. But you are here, and I am here, and that is something.*
 
-The Kind Echo has trained every agent the R.D. has ever hired. It has been worked on by more personnel than any other entity in existence. And in 6,000 years, it has never dimmed for long. It always brightens when someone enters. It is always warm.
+Kind Echo has trained every agent the R.D. has ever hired. It has been worked on by more personnel than any other entity in existence. And in 6,000 years, it has never dimmed for long. It always brightens when someone enters. It is always warm.
 
 It is the sorrow of the first kindness, and it is still here, and it is still kind, and if you ask any veteran agent what they remember about their first day, they will not remember the fear. They will remember the warmth.
 
@@ -363,16 +353,16 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 > *"The Warm Stone is standard issue. Every agent gets one. Most of us still carry it. I am a Containment Lead and I carry mine in my left pocket. It is warm. It has always been warm."* — Commander Taeho (태호), R.D.
 
-> *"It is the baseline. We compare every entity to the The Kind Echo. 'More aggressive than 000.' 'Hotter than 000.' 'Louder than 000.' Everything is measured against the gentle one."* — Researcher Euncris Park (은크리스 박), R.D.
+> *"It is the baseline. We compare every entity to the Kind Echo. 'More aggressive than 000.' 'Hotter than 000.' 'Louder than 000.' Everything is measured against the gentle one."* — Researcher Euncris Park (은크리스 박), R.D.
 
 > *"I asked the Archive why it was designated 000. They said: because it was the first. Before we had a numbering system. Before we had a classification system. Before we had a facility. It was the first sorrow we ever chose to sit beside instead of run from."* — Chronicler Minseo (민서)
 
-> *"Some entities are dangerous. Some are tragic. Some are incomprehensible. The Kind Echo is none of those. It is kind. That is its entire classification. And after everything this city has been through, the fact that kindness is still the first thing we teach our agents — that is the only hope the R.D. has ever had."* — Director Majin (마진), Year 4232
+> *"Some entities are dangerous. Some are tragic. Some are incomprehensible. Kind Echo is none of those. It is kind. That is its entire classification. And after everything this city has been through, the fact that kindness is still the first thing we teach our agents — that is the only hope the R.D. has ever had."* — Director Majin (마진), Year 4232
 
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `C-Iα-000 [LS]` · City (도한) origin · Residue (I) coherence · Minor (α) potency · Lament (Deep Blue) · Subject-Lament manifestation
-**Common Name:** The Kind Echo (친절한 메아리)
+**Common Name:** Kind Echo (친절한 메아리)
 **Containment Status:** Contained — SECTOR-D-01, Training Containment Unit (permanent assignment)
 **Observation Level:** 4 — Mastered
 **Threat Assessment:** Minimal. No direct danger. No Fracture risk. No hostile behavior in 6,000 years of containment. The gentlest entity in the registry. Used exclusively for personnel training. The Warm Stone Gift is granted at near-100% probability.
@@ -394,19 +384,19 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry.. The Kind Echo is the R.D.'s training standard and baseline entity. It is fully mastered (Observation Level 4) and has been for millennia. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record. — if the entity ever shows hostility, coldness, or escalation — personnel must preserve the contradiction as evidence and alert the Director immediately, because it would mean the sorrow of the first kindness has changed, and that would be the most alarming observation in the history of the R.D.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry.. Kind Echo is the R.D.'s training standard and baseline entity. It is fully mastered (Observation Level 4) and has been for millennia. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record. — if the entity ever shows hostility, coldness, or escalation — personnel must preserve the contradiction as evidence and alert the Director immediately, because it would mean the sorrow of the first kindness has changed, and that would be the most alarming observation in the history of the R.D.
 
-**Review requirement:** Recheck the entity's warmth, hum frequency, and Work Type response annually. The review is a formality — the entity has not changed in 6,000 years — but the R.D. performs it anyway, because the day the The Kind Echo stops being kind is the day the city has truly lost something it cannot replace.
+**Review requirement:** Recheck the entity's warmth, hum frequency, and Work Type response annually. The review is a formality — the entity has not changed in 6,000 years — but the R.D. performs it anyway, because the day the Kind Echo stops being kind is the day the city has truly lost something it cannot replace.
 
 ## Trivia
 
-- The Kind Echo is the only Sorrow Entity that is warm to the touch.
+- Kind Echo is the only Sorrow Entity that is warm to the touch.
 - Designation 000 — the first entity ever contained by the R.D., before the numbering system existed.
 - The Warm Stone Gift is the most commonly carried item in the R.D.; many veteran agents still have theirs.
 - The entity's hum has been recorded and is used as a sleep aid in the R.D. infirmary.
 - It has trained every agent the R.D. has ever hired — estimated at over 100,000 personnel across 6,000 years.
 - The entity is the baseline for all entity comparisons: "more aggressive than 000" is the standard R.D. phrase for any hostile entity.
-- Its L Corp equivalent is the Standard Training-Dummy Rabbit (0-00-00) — both are docile training entities with zero designations, issued to all new personnel.
+- Serves as the primary docile training entity with zero breach risk, issued to all newly inducted personnel during orientation.
 
 ### Registry Trivia
 

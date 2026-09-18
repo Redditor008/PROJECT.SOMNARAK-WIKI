@@ -1,11 +1,11 @@
 # Echo-Core 2 — The Secretary [Echo-Core]
 
-> **WIKI SECTION:** CHARACTER  
-> **CLASSIFICATION:** ECHO-CORE  
-> **SPOILER STATUS:** FULL STORY SPOILERS  
-> This page contains detailed information about Seiyon's history, abilities, relationships, and story role.
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> Official historical record, behavioral assessment, and resonance profile for Seiyon.
 
-> _“The figures are correct, Director. They are not the whole truth.”_  
+> _“The figures are correct, Director. They are not the whole truth.”_
 > — **Seiyon, the Secretary**
 
 **The Secretary** (비서, _biseo_)—personal name **Seiyon** (세이연)—is Echo-Core 2 of the Nine and the central administrative intelligence of the **Reverie Directorate**. She works through a physical, fully human-looking Echo Effigy while maintaining the records, communications, schedules, alerts, and cross-floor coordination required to operate the facility.
@@ -807,14 +807,14 @@ It is not simply the sentence _“Don't let the sorrow win.”_ That sentence be
 
 Seiyon returns to Majin not as an administrative tool and not as the human woman restored, but as herself carrying a message that has crossed death, artificial birth, 1,778 Cycles, and the Archive.
 
-> **Seiyon:** _“I am not her. I am not a copy. I am not a memory. I am... me. But I carry her sorrow. I carry her love. I carry her Promise.”_  
-> **Majin:** _“...What Promise?”_  
-> **Seiyon:** _“The Promise she made to you—before she died. The Promise that you would survive. The Promise that you would carry on. The Promise that you would find hope.”_  
-> **Majin:** _“...She made that Promise?”_  
-> **Seiyon:** _“She made it to me. She gave it to me. She wanted me to give it to you.”_  
-> **Majin:** _“...What is the Promise?”_  
-> **Seiyon:** _“That sorrow is not the end. That sorrow is the beginning. That sorrow can become hope. That you—that we—that the city—can find what it never expected.”_  
-> **Majin:** _“...Hope.”_  
+> **Seiyon:** _“I am not her. I am not a copy. I am not a memory. I am... me. But I carry her sorrow. I carry her love. I carry her Promise.”_
+> **Majin:** _“...What Promise?”_
+> **Seiyon:** _“The Promise she made to you—before she died. The Promise that you would survive. The Promise that you would carry on. The Promise that you would find hope.”_
+> **Majin:** _“...She made that Promise?”_
+> **Seiyon:** _“She made it to me. She gave it to me. She wanted me to give it to you.”_
+> **Majin:** _“...What is the Promise?”_
+> **Seiyon:** _“That sorrow is not the end. That sorrow is the beginning. That sorrow can become hope. That you—that we—that the city—can find what it never expected.”_
+> **Majin:** _“...Hope.”_
 > **Seiyon:** _“Hope.”_
 
 #### Fulfillment
@@ -937,7 +937,7 @@ Void represents the threat of identity dissolution: being only a role, copy, ref
 
 #### Combined Meaning
 
-Lament asks: **How can she carry all this grief?**  
+Lament asks: **How can she carry all this grief?**
 Void asks: **Who is the “she” carrying it?**
 
 The Memory Archive resolves neither by eliminating the signature. Seiyon continues to mourn and remains a constructed consciousness. What changes is her conclusion: origin does not equal absence, and inheritance does not equal erasure.

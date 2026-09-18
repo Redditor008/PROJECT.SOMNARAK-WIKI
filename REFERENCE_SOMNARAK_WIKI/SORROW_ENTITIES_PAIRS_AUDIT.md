@@ -1,6 +1,6 @@
 # Sorrow Entities Paired Files & Variant Audit
 
-**Audit Scope:** `SOMNARAK-WORLD/01_Sorrow_Entities/`
+**Audit Scope:** `SOMNARAK-WORLD/Sorrow_Entities/`
 **Total Tracked Entity Files:** 529 dossiers  
 **Unique Entity Codes:** 287 canonical entities  
 **Codes with Multiple File Variants:** 241 codes  
@@ -22,7 +22,7 @@ In `01_Sorrow_Entities/`, 241 entity codes exist as multiple files. This duplica
 ## 2. Canonical Resolution Rule
 
 When determining which variant to cite in codices or armory references:
-- **Cross-Reference Authority:** Check `SOMNARAK-WORLD/M.A.W. Codex_Set Registry/`. The folder naming used in the M.A.W. registry represents the established editorial canon.
+- **Cross-Reference Authority:** Check `SOMNARAK-WORLD/MAW_Codex_Sets/`. The folder naming used in the M.A.W. registry represents the established editorial canon.
 - **Korean Designation is Supreme:** If English codenames differ, the Korean title (e.g. `빚을 먹는 자`, `분노의 용광로`) is the permanent anchor.
 
 ---

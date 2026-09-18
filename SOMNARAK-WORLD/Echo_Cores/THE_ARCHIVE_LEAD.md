@@ -1,11 +1,11 @@
 # Echo-Core 7 — The Archive Lead [Echo-Core]
 
-> **WIKI SECTION:** CHARACTER  
-> **CLASSIFICATION:** ECHO-CORE  
-> **SPOILER STATUS:** FULL STORY SPOILERS  
-> This page contains detailed information about Marjuk's history, abilities, relationships, and story role.
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> Official historical record, behavioral assessment, and resonance profile for Marjuk.
 
-> _“A record is not the past. It is the promise that the past will still be there when someone is ready to face it.”_  
+> _“A record is not the past. It is the promise that the past will still be there when someone is ready to face it.”_
 > — **Marjuk, the Archive Lead**
 
 **The Archive Lead** (기록 책임자, _girok chaegimja_)—personal name **Marjuk** (마주크)—is Echo-Core 7 of the Nine and commander of **Floor 6: the Deep Vault**. He is a man and former Keeper responsible for the Reverie Directorate's classified records, preserved Echoes, dangerous memory collections, and the oldest material held beneath the Alpha Tree.

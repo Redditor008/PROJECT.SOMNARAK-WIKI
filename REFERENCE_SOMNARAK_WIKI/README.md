@@ -2,9 +2,9 @@
 
 Welcome to the **Somnarak Reference Standards & Audit Directory**.
 
-Following the separation of the repository, all **in-universe narrative documents** (the 34 master codices, 529 Sorrow Entity dossiers, 1,196 M.A.W. set records, Ordeals, Hope Transformations, and Echo-Core dossiers) are housed directly in **`SOMNARAK-WORLD/`**.
+Following the separation of the repository, all **100% in-universe narrative documents** (the master codices, 529 Sorrow Entity dossiers, 1,196 M.A.W. set records, Ordeals, Hope Transformations, and Echo-Core dossiers) are housed directly in **`SOMNARAK-WORLD/`**.
 
-This directory (`REFERENCE_SOMNARAK_WIKI/`) contains the out-of-world architectural frameworks, transfer audits, compliance manifests, and master catalogs that govern the canon.
+This directory (`REFERENCE_SOMNARAK_WIKI/`) contains the out-of-world architectural frameworks, transfer audits, compliance manifests, developer guidelines, and master catalogs that govern the canon.
 
 ---
 
@@ -25,7 +25,12 @@ REFERENCE_SOMNARAK_WIKI/
 ├── MAW_WEAPON_ARCHETYPES.md            # Comprehensive taxonomy of weapon silhouettes and archetypes
 ├── OPERATING_RULES.md                  # Canon preservation rules and directory guidelines
 ├── PROJECT_MOON_WIKI_NESTED_PLACEMENT_RESEARCH.md # Comparative information architecture research
-└── PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md     # Historical compliance evaluation
+├── PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md     # Historical compliance evaluation
+├── REGISTRY_MASTER_STATUS.md           # M.A.W. Registry completion and archive tracking
+├── SOMNARAK_CORPORATIONS_GAME_DESIGN_FRAMEWORK.md # Original design document for the 3 corporations
+├── SOMNARAK_DOCUMENT_RULES.md          # Archival classification & authoring rules for entity files
+├── SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md # Authoritative list of 55 immutable core entities
+└── SOMNARAK_NAME_REGISTRY.md           # Authoritative nomenclature & character naming lexicon
 ```
 
 ---
@@ -33,12 +38,16 @@ REFERENCE_SOMNARAK_WIKI/
 ## Key Documents in This Directory
 
 1. **`SORROW_ENTITIES_CATALOG.md`**:
-   The definitive master catalog indexing all 285 unique Sorrow Entities cataloged in `SOMNARAK-WORLD/01_Sorrow_Entities/` by SECC Code, English Name, Korean Designation, Threat Tier, and Elemental Affinity.
+   The definitive master catalog indexing all 285 unique Sorrow Entities cataloged in `SOMNARAK-WORLD/Sorrow_Entities/` by SECC Code, English Name, Korean Designation, Threat Tier, and Elemental Affinity.
 2. **`SORROW_ENTITIES_PAIRS_AUDIT.md`**:
    Exhaustive audit analyzing the 241 entity codes with multiple dossiers (prefix variations and alternative English translations), establishing the canonical resolution guidelines.
-3. **`ALL_34_REFERENCE_FILES_AUDIT.md`**:
-   Historical transfer audit evaluating the depth and coverage of the 34 foundational codices located in `SOMNARAK-WORLD/07_Reference/`.
-4. **`CONTENT_AND_VISUAL_STANDARDS.md`**:
+3. **`SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md`**:
+   The authoritative developer list of the 55 core canonical entities whose designations and names are permanently protected against modification.
+4. **`SOMNARAK_DOCUMENT_RULES.md` & `SOMNARAK_NAME_REGISTRY.md`**:
+   The developer standards, ID formats, date conventions, and authentic Korean/English naming lexicon for authors expanding the entity archives.
+5. **`REGISTRY_MASTER_STATUS.md`**:
+   Comprehensive completion matrix for all M.A.W. equipment sets across the 42 range registries.
+6. **`CONTENT_AND_VISUAL_STANDARDS.md`**:
    The authoritative standard for Somnarak worldbuilding: 200-word floors, mandatory dossier sections, UTF-8 clean encoding, and authentic terminology enforcement.
-5. **`LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md`**:
+7. **`LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md`**:
    Branch governance protocol detailing the dual-branch architecture: `main` (for the public GitHub Pages static wiki) and `NON-WIKI` (for the pure markdown reference repository).

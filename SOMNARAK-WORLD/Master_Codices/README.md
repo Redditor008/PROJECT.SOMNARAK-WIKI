@@ -1,16 +1,18 @@
-# 07_Reference — Macro-Canon Master Codices
+# Master_Codices — Macro-Canon Foundational Codices
 
 **Archive Authority:** Reverie Directorate Executive Archive  
 **Status:** Supreme Canonical Baseline of Somnarak  
-**Total Tracked Codices:** 34 Master Markdown Documents (~435,000 words)
+**Total Tracked Codices:** 31 In-Universe Master Markdown Documents (~400,000 words)
 
 ---
 
 ## Overview
 
-The `07_Reference/` library contains the thirty-four foundational codices of Project Somnarak. These texts define the entire macro-cosmology, metaphysics, geopolitical structures, combat physics, facility operations, and societal laws of Somnarak — the City of Unresolved Sorrow.
+The `Master_Codices/` repository contains the foundational canonical source texts of Project Somnarak. These texts define the entire macro-cosmology, metaphysics, geopolitical structures, combat physics, facility operations, and societal laws of Somnarak — the City of Unresolved Sorrow.
 
-Every Sorrow Entity dossier, M.A.W. equipment entry, dialogue script, and district narrative derives directly from the rules established in these 34 files.
+Every Sorrow Entity dossier, M.A.W. equipment entry, dialogue script, and district narrative derives directly from the rules established in these foundational files.
+
+*(Note: Developer guidelines, authoring rules, and name registries previously bundled here are now maintained in `REFERENCE_SOMNARAK_WIKI/` to preserve this archive as a 100% in-universe library).*
 
 ---
 
@@ -26,13 +28,12 @@ Every Sorrow Entity dossier, M.A.W. equipment entry, dialogue script, and distri
 ### Group 2: Facility 01 & The Reverie Directorate
 - `The_REVERIE_DIRECTORATE.md` (2,934 lines): Architectural cutaway of Facility 01 ("The Hand of Change"), 8 operational subterranean floors, 9 Echo-Core roles, and departmental missions.
 - `SOMNARAK_SED.md`: The Sorrow Extraction Division; refining raw sorrow into usable citywide energy, extraction quotas, and hazard protocols.
-- `SOMNARAK_DOCUMENT_RULES.md`: Directorate classification regulations, redaction rules, security clearances, and document styles.
 
 ### Group 3: Systems, Combat Engine & Metaphysical Physics
 - `SOMNARAK_BATTLE_SYSTEM.md`: Full combat engine specifications: 4 damage types (Grudge, Lament, Void, Weight), work types, panic states, stagger mechanics, and formation strategies.
 - `SOMNARAK_MAW_CODEX.md`: Master M.A.W. architecture: extraction theory, weapon range bands, armor ratings, and gift resonance.
 - `SOMNARAK_HAN_RELICS.md`: Comprehensive registry of ancient artifacts imbued with permanent sorrow properties.
-- `SOMNARAK_ORDEALS_FRAMEWORK.md`: The mathematical and tactical framework of the 5-color Ordeals and 4 watches.
+- `SOMNARAK_ORDEALS_FRAMEWORK.md`: The tactical framework of the 5-color Ordeals and 4 watches.
 - `SOMNARAK_TABOO_RESONANCE.md`: Acoustic physics of the Seven Taboos and resonant punishment dynamics.
 - `SOMNARAK_ABSOLOVHAN.md`: The ultimate metaphysical philosophy of sorrow resolution, Resonant Clash, and the sovereign golden dawn.
 
@@ -42,7 +43,7 @@ Every Sorrow Entity dossier, M.A.W. equipment entry, dialogue script, and distri
 - `SOMNARAK_UCD.md`: Underworld Cleanup Descend; black-ops purge squads (Taeho, Yuna, Minho, Soojin) operating in the sewer depths.
 - `SOMNARAK_UNKNOWN_CITIES.md`: Sister cities Cheonbulok and Mugeukji, external geopolitical threats, and refugee enclaves.
 - `SOMNARAK_WOUND_WALKERS.md`: The monastic order of wandering healers sworn to absorb and transmute human sorrow.
-- `SOMNARAK_CORPORATIONS.md`: The three industrial cartels monopolizing trade, metallurgy, and acoustic technology.
+- `SOMNARAK_CORPORATIONS.md`: The three core institutions (R.D., SED, UCD) and their unified operational doctrine.
 - `SOMNARAK_FACTION_RELATIONS.md`: Diplomatic power balance matrix, covert treaties, and historical wars between factions.
 - `SOMNARAK_FACTION_TECH.md`: Technical documentation of industrial Han tools, acoustic dampening, and containment alloys.
 - `SOMNARAK_HORIZON_CARAVAN.md`: Nomadic desert traders traversing the exterior wastes.
@@ -54,11 +55,9 @@ Every Sorrow Entity dossier, M.A.W. equipment entry, dialogue script, and distri
 - `SOMNARAK_ENTITIES.md`: Phenomenological theory of Sorrow Entity emergence and crystallization.
 - `SOMNARAK_ENTITY_CODEX.md`: Master catalog of entities, SECC codes, risk ratings, and extraction potential.
 - `SOMNARAK_ENTITY_TALES.md`: Collected folklore, eyewitness testimonies, and tragic origins for 246 entities.
-- `SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md`: The 55 protected core entities that form the spine of Somnarak canon.
 - `SOMNARAK_ENEMY_LIST.md`: Non-entity threats, Outskirts beasts, and rogue constructs.
 - `SOMNARAK_NAMED_FRACTURES.md`: Psychological breakdown categories (Corrosion, Meltdown, Panic, Apathy).
 - `SOMNARAK_MEMORY_ARCHIVE.md`: Fragmentary pre-cataclysm historical logs and cycle-reset memories.
-- `SOMNARAK_NAME_REGISTRY.md`: Official Korean-English transliteration lexicon and nomenclature standards.
 
 ---
 

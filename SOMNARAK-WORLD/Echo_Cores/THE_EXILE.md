@@ -1,11 +1,11 @@
 # Echo-Core 9 — The Exile [Echo-Core]
 
-> **WIKI SECTION:** CHARACTER  
-> **CLASSIFICATION:** ECHO-CORE  
-> **SPOILER STATUS:** FULL STORY SPOILERS  
-> This page contains detailed information about Xyan's history, abilities, relationships, and story role.
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> Official historical record, behavioral assessment, and resonance profile for Xyan.
 
-> _“A wall may call the world beyond it empty. The world does not become empty for the wall's convenience.”_  
+> _“A wall may call the world beyond it empty. The world does not become empty for the wall's convenience.”_
 > — **Xyan, the Exile**
 
 **The Exile** (추방자, _chubangja_)—personal name **Xyan** (시안)—is Echo-Core 9 of the Nine and the boundary commander associated with **Floor 8: the Gate Watch**. He is a man, a Desolate-changed Cyborg, and a Reverie Directorate member who crossed the one-way Exile's Gate after the Council prohibited his investigation beyond Somnarak.

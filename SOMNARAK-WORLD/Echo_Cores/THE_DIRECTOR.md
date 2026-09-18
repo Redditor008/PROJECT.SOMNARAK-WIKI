@@ -1,11 +1,11 @@
 # Echo-Core 1 — The Director [Echo-Core]
 
-> **WIKI SECTION:** CHARACTER  
-> **CLASSIFICATION:** ECHO-CORE  
-> **SPOILER STATUS:** FULL STORY SPOILERS  
-> This page contains detailed information about Majin's history, abilities, relationships, and story role.
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> Official historical record, behavioral assessment, and resonance profile for Majin.
 
-> _“I remember every choice that brought us here. Knowing why I made them does not make them right.”_  
+> _“I remember every choice that brought us here. Knowing why I made them does not make them right.”_
 > — **Majin, the Director**
 
 **Majin** (마진) is **Echo-Core 1** of the Nine and the supreme authority of the **Reverie Directorate**, known throughout Somnarak by his office rather than his name — **The Director** (관장, *gwanjang*). He commands the Hand of Change beneath the Alpha Tree and coordinates the Directorate's eight operational floors from Floor 1.

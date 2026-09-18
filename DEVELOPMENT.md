@@ -40,19 +40,19 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 │
 ├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,850+ files)
 │   ├── README.md                           # In-world archive guide & recommended reading order
-│   ├── 01_Sorrow_Entities/                 # 529 files: SE-001 through SE-997 dossiers & tales
-│   ├── 02_Hope_Transformation/             # 14 files: HT-001 to HT-012, Trinity, and Hand of Hope
-│   ├── 03_Unknown_Entities/                # 8 files: UNK-248 to UNK-903 & Regressor Log
-│   ├── 04_Ordeals/                         # 60 files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
-│   ├── 07_Reference/                       # 34 files: Macro-Canon Master Codices
-│   ├── CHARACTER_WIKI/                     # 9 files: The Nine Echo-Cores of Facility 01
-│   └── M.A.W. Codex_Set Registry/          # 1,196 files: 42 registry folders with A/B/C/D item sets
+│   ├── Master_Codices/                     # 31 Macro-Canon Master Codices (Cosmology, Directorate, Systems)
+│   ├── Sorrow_Entities/                    # 529 files: SE-001 through SE-997 dossiers & tales
+│   ├── Echo_Cores/                         # 9 files: The Nine Echo-Cores of Facility 01
+│   ├── MAW_Codex_Sets/                     # 1,196 files: 42 registry folders with A/B/C/D item sets
+│   ├── Ordeals/                            # 60 files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
+│   ├── Hope_Transformations/               # 14 files: HT-001 to HT-012, Trinity, and Hand of Hope
+│   └── Unknown_Entities/                   # 8 files: UNK-248 to UNK-903 & Regressor Log
 │
 └── REFERENCE_SOMNARAK_WIKI/                # Out-of-World Editorial Standards, Audits & Catalogs
     ├── README.md                           # Overview of the reference standards folder
     ├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 285 unique Sorrow Entities
     ├── SORROW_ENTITIES_PAIRS_AUDIT.md      # Detailed audit and resolution guide for the 241 paired entity files
-    ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Audit of the 34 foundational codices in 07_Reference
+    ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line audit of the foundational codices
     ├── ALL_FILES_AUDIT_MANIFEST.md         # Comprehensive manifest of all reference files
     ├── CATEGORY_AND_PAGE_PLAN.md           # Information architecture & classification plan
     ├── CONTENT_AND_VISUAL_STANDARDS.md     # Narrative, terminological, and visual standards
@@ -62,7 +62,12 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
     ├── MAW_WEAPON_ARCHETYPES.md            # Weapon archetype taxonomy and research
     ├── OPERATING_RULES.md                  # Canon integrity & directory rules
     ├── PROJECT_MOON_WIKI_NESTED_PLACEMENT_RESEARCH.md # Structural comparative research
-    └── PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md     # Public page compliance audit
+    ├── PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md     # Public page compliance audit
+    ├── REGISTRY_MASTER_STATUS.md           # M.A.W. Registry completion tracking
+    ├── SOMNARAK_CORPORATIONS_GAME_DESIGN_FRAMEWORK.md # Original comparative design document
+    ├── SOMNARAK_DOCUMENT_RULES.md          # Archival classification & authoring rules for entity files
+    ├── SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md # Authoritative list of 55 immutable core entities
+    └── SOMNARAK_NAME_REGISTRY.md           # Authoritative nomenclature & character naming lexicon
 ```
 
 ---
@@ -84,15 +89,15 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 
 ## 4. Working with the In-World Canon Repositories (`SOMNARAK-WORLD/`)
 
-### A. The 34 Foundational Codices (`SOMNARAK-WORLD/07_Reference/`)
-- These 34 master files establish the cosmological, physical, and political framework of Somnarak.
+### A. The Master Codices (`SOMNARAK-WORLD/Master_Codices/`)
+- These 31 master files establish the cosmological, physical, and political framework of Somnarak.
 - When referencing world rules, always cite the corresponding codex (e.g., `PROJECT_SOMNARAK.md` for cosmology, `SOMNARAK_BATTLE_SYSTEM.md` for combat mechanics, `The_REVERIE_DIRECTORATE.md` for Facility 01 floors).
 
-### B. Sorrow Entity Files (`SOMNARAK-WORLD/01_Sorrow_Entities/`)
+### B. Sorrow Entity Files (`SOMNARAK-WORLD/Sorrow_Entities/`)
 - Filename convention: `SE-<SECC Code>_<English Name>_<Korean Name>.md` (e.g. `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`).
 - Entities carry containment procedures, work affinities (Ferrehan, Flerehan, Pugnahan, Viderehan), breach behaviors, and narrative tales.
 
-### C. M.A.W. Codex Set Registry (`SOMNARAK-WORLD/M.A.W. Codex_Set Registry/`)
+### C. M.A.W. Codex Sets (`SOMNARAK-WORLD/MAW_Codex_Sets/`)
 - Each set folder is organized under a registry range (e.g. `Registry_001_to_007/001_The_Orphaned_Bell/`).
 - Every complete set contains four files:
   - `SE-<ID>-A__SIDE_CODEX_<Name>.md`: The donor entity's lore and extraction parameters.
@@ -100,12 +105,12 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
   - `SE-<ID>-C__MAW-S_<Suit>.md`: Suit defenses, elemental resistances, and passive traits.
   - `SE-<ID>-D__MAW-G_<Gift>.md`: Gift slot, resonance triggers, and appearance.
 
-### D. Five-Color Ordeals (`SOMNARAK-WORLD/04_Ordeals/`)
+### D. Five-Color Ordeals (`SOMNARAK-WORLD/Ordeals/`)
 - Ordeals are organized by color: `BLACK` (Weight), `BLUE` (Lament), `GREY` (Grudge), `PALE` (Void), and `PURPLE` (Mixed).
 - Each color contains entities for four watches: `First_Watch`, `Second_Watch`, `Third_Watch`, and `Tide_Watch`.
 
-### E. Facility 01 Echo-Cores (`SOMNARAK-WORLD/CHARACTER_WIKI/`)
-- Contains detailed dossiers on the 9 Echo-Cores: Director Ayshuk, Secretary Seiyon, Majin (Floor 1), Dekan (Floor 2), Mellda (Floor 3), Ishall (Floor 4), Marjuk (Floor 5), Zyrak (Floor 6), and Xyan (Floor 8).
+### E. Facility 01 Echo-Cores (`SOMNARAK-WORLD/Echo_Cores/`)
+- Contains detailed dossiers on the 9 Echo-Cores: Director Majin (Floor 1), Secretary Seiyon, Dekan (Floor 2), Zyrak (Floor 3), Mellda (Floor 5), Marjuk (Floor 6), Ayshuk (Floor 4), Ishall (Floor 7), and Xyan (Floor 8).
 
 ---
 
@@ -114,7 +119,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 Use standard Python 3 and bash tools to inspect, verify, and audit the markdown files:
 
 ```bash
-# 1. Run the master archive audit (UTF-8, 34 codices, M.A.W. sets, entity counts)
+# 1. Run the master archive audit (UTF-8, codices, M.A.W. sets, entity counts)
 python3 tools/audit_lore_archive.py
 
 # 2. Verbose audit listing incomplete or exception sets

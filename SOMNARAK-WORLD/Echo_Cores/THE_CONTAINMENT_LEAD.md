@@ -1,11 +1,11 @@
 # Echo-Core 3 — The Containment Lead [Echo-Core]
 
-> **WIKI SECTION:** CHARACTER  
-> **CLASSIFICATION:** ECHO-CORE  
-> **SPOILER STATUS:** FULL STORY SPOILERS  
-> This page contains detailed information about Dekan's history, abilities, relationships, and story role.
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> Official historical record, behavioral assessment, and resonance profile for Dekan.
 
-> _“Containment report. Nothing breached. Something still changed.”_  
+> _“Containment report. Nothing breached. Something still changed.”_
 > — **Dekan, the Containment Lead**
 
 **The Containment Lead** (감금 책임자, _gamgeum chaegimja_)—personal name **Dekan** (데칸)—is Echo-Core 3 of the Nine and commander of **Floor 2: the Maw's Keep**. He oversees Sorrow Entity containment in the Raw, evaluates disturbances that ordinary instruments cannot classify, and reports changes in the Maw to Director Majin.

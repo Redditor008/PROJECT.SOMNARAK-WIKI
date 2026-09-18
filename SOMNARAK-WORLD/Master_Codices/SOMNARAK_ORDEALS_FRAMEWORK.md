@@ -33,13 +33,13 @@ Each Ordeal Color represents a type of Han manifestation, paralleling Somnarak's
 
 ### Color System
 
-| Color | Han Source | Somnarak Element | Theme | Parallels (Lobotomy) |
+| Color | Han Source | Somnarak Element | Theme | Phenomenological Manifestation |
 |---|---|---|---|---|
-| **BLUE** | Lament (Deep Blue) | Lament | Weeping, emotional assault, Composure drain, memory flood | Green (amorphous sorrow) |
-| **BLACK** | Weight (Black) | Weight | Crushing force, physical damage, structural destruction | Amber (physical swarm) |
-| **PALE** | Void (Pale White) | Void | Erasure, identity theft, Clarity drain, absence | Indigo (cold, mechanical) |
-| **GREY** | Grudge (desaturated Crimson) | Grudge | Hostility, aggression, violence, Resilience damage | Crimson (humanoid, hostile) |
-| **PURPLE** | Raw Han / corruption | Mixed / the Han itself | Chaos, infection, parasitic transformation, unpredictable | Violet (parasitic, invasive) |
+| **BLUE** | Lament (Deep Blue) | Lament | Weeping, emotional assault, Composure drain, memory flood | Amorphous weeping surges |
+| **BLACK** | Weight (Black) | Weight | Crushing force, physical damage, structural destruction | Dense gravitational swarms |
+| **PALE** | Void (Pale White) | Void | Erasure, identity theft, Clarity drain, absence | Cold absolute zero erasure |
+| **GREY** | Grudge (desaturated Crimson) | Grudge | Hostility, aggression, violence, Resilience damage | Humanoid coordinated fury |
+| **PURPLE** | Raw Han / corruption | Mixed / the Han itself | Chaos, infection, parasitic transformation, unpredictable | Parasitic bio-resonant infection |
 
 ### Color Behaviors
 

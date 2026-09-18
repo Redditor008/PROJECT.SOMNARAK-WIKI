@@ -1,4 +1,4 @@
-# 03_Unknown_Entities — Classified Anomalies & Deep Abyss Records
+# Unknown_Entities — Classified Anomalies & Deep Abyss Records
 
 **Archive Authority:** Facility 01 Deep Vault (Floor 6) & Shadow Corps  
 **Classification:** Black-Level Redacted / Unclassified SECC Anomaly  
@@ -8,7 +8,7 @@
 
 ## Overview
 
-The `03_Unknown_Entities/` archive holds dossiers on anomalous entities and narrative artifacts that defy standard SECC taxonomy, originate beyond the explored sectors of The Maw, or demonstrate non-cyclical behavior patterns.
+The `Unknown_Entities/` archive holds dossiers on anomalous entities and narrative artifacts that defy standard SECC taxonomy, originate beyond the explored sectors of The Maw, or demonstrate non-cyclical behavior patterns.
 
 These entities are maintained under strict quarantine protocols supervised by **Zyrak (The Exile)** on Floor 6 (Deep Vault) and monitored by the Shadow Corps.
 

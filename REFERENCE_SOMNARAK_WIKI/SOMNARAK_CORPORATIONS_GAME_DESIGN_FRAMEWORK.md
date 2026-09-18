@@ -1,7 +1,6 @@
-# SOMNARAK — The Three Corporations
-## The Game Framework
+# SOMNARAK — The Three Corporations (Original Game Design Framework)
 
-> *"Somnarak has one city, three operations, and a thousand sorrows. The Corporations are how the city survives."*
+> **Archival Note:** This document preserves the original development and comparative design framework linking Project Somnarak's three core factions to contemporary facility management and dungeon-crawler gameplay paradigms. For the in-universe institutional doctrine, refer to `SOMNARAK-WORLD/Master_Codices/SOMNARAK_CORPORATIONS.md`.
 
 ---
 
@@ -304,5 +303,3 @@ The Hand of Hope has opened.
 ---
 
 *"Somnarak has one city, three Corporations, and a thousand sorrows. The Corporations are how the city survives. The sorrows are why it needs to."*
-
----

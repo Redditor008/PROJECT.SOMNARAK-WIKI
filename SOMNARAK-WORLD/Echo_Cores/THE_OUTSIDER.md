@@ -1,11 +1,11 @@
 # Echo-Core 8 — The Outsider [Echo-Core]
 
-> **WIKI SECTION:** CHARACTER  
-> **CLASSIFICATION:** ECHO-CORE  
-> **SPOILER STATUS:** FULL STORY SPOILERS  
-> This page contains detailed information about Ishall's history, abilities, relationships, and story role.
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> Official historical record, behavioral assessment, and resonance profile for Ishall.
 
-> _“Silence is not absence. It is the shape an answer takes when someone has decided you do not deserve it.”_  
+> _“Silence is not absence. It is the shape an answer takes when someone has decided you do not deserve it.”_
 > — **Ishall, the Outsider**
 
 **The Outsider** (외부인, _oebuin_)—personal name **Ishall** (이샬)—is Echo-Core 8 of the Nine and commander of **Floor 7: the Shadow Corps**. She is a woman, a former adversary of the Reverie Directorate, and the leader responsible for field intelligence, infiltration, counter-intelligence, safe houses, and the mobile operations that cross Somnarak's official boundaries.
@@ -1161,34 +1161,34 @@ The unresolved work is institutional. Floor 7 still uses secrecy, covers, and da
 
 ### Day 17 — The Repeated Warning
 
-> **Ishall:** “Outsider report. The Exile sent a message.”  
-> **Ishall:** “The same as always: ‘The Furnace is burning.’”  
+> **Ishall:** “Outsider report. The Exile sent a message.”
+> **Ishall:** “The same as always: ‘The Furnace is burning.’”
 > **Ishall:** “And 1,778 times, no one has answered.”
 
 ### Day 17 — The Question of Path
 
-> **Ishall:** “Director? Should we answer?”  
-> **Majin:** “No. The Exile chose his path. We choose ours.”  
+> **Ishall:** “Director? Should we answer?”
+> **Majin:** “No. The Exile chose his path. We choose ours.”
 > **Ishall:** “And what path is that?”
 
 ### Day 55 — The Vaults
 
-> **Ishall:** “No. This one is different. It says: ‘The Vaults are leaking.’”  
+> **Ishall:** “No. This one is different. It says: ‘The Vaults are leaking.’”
 > **Ishall:** “Presumably. The Exile doesn't explain. He just... warns.”
 
 ### Day 97 — The Broken Pattern
 
-> **Ishall:** “Director? Three messages in one cycle. The Exile has never sent three messages in one cycle.”  
+> **Ishall:** “Director? Three messages in one cycle. The Exile has never sent three messages in one cycle.”
 > **Ishall:** “Something is happening. Something the Exile can see, and we can't.”
 
 ### Day 127 — The Smile
 
-> **Ishall:** “This one is different. It says: ‘The Hand will open. The Hand will spread. The Hand will heal.’”  
+> **Ishall:** “This one is different. It says: ‘The Hand will open. The Hand will spread. The Hand will heal.’”
 > **Ishall:** “Through the Desolate's Han-field. The Exile is standing at the border. And he's smiling.”
 
 ### Day 355 — Walking Home
 
-> **Ishall:** “Walking through the Desolate. Walking toward the city. Walking home.”  
+> **Ishall:** “Walking through the Desolate. Walking toward the city. Walking home.”
 > **Ishall:** “Director... the Exile is not alone. The Drift King is with him. The Cheonbulok refugees are with him. The Mugeukji Feelers are with him.”
 
 ### Day 365 — Inclusion

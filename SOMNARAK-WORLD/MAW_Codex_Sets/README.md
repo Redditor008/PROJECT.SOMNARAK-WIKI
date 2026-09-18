@@ -9,7 +9,7 @@
 
 ## Overview
 
-The `M.A.W. Codex_Set Registry/` houses the complete technical and narrative records for **Materialized Armament of Woe (M.A.W. / 비탄의 무장)** equipment extracted from Sorrow Entities.
+The `MAW_Codex_Sets/` repository houses the complete technical and narrative records for **Materialized Armament of Woe (M.A.W. / 비탄의 무장)** equipment extracted from Sorrow Entities.
 
 M.A.W. equipment represents the physical stabilization of an entity's emotional resonance into usable armaments, defensive weave suits, and resonant gifts. Without M.A.W. equipment, human personnel cannot survive direct contact with high-tier Sorrow Entities.
 

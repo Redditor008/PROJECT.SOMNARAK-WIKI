@@ -1,6 +1,6 @@
 # Registery UNK 247 to 903 — Side-Story Canon
 
-This is the single main codex folder for all seven `03_Unknown_Entities` Side-Story Canon records.
+This is the single main codex folder for all seven `Unknown_Entities` Side-Story Canon records.
 
 ## Folder Structure
 
@@ -49,7 +49,7 @@ Formal files use `UNK-XXX-A/B/C/D`. M.A.W. histories use `MAW-W/S/G-UNK-XXX-01`.
 ## Source Folder
 
 ```text
-01_Canonical_SE/03_Unknown_Entities/
+01_Canonical_SE/Unknown_Entities/
 ```
 
 These Side-Story Canon codices do not change the main Sorrow Entity completion count of **285/285 — 100.0%**.

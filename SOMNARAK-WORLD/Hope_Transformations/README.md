@@ -1,4 +1,4 @@
-# 02_Hope_Transformation — Resonant Ascensions & Golden Dawn
+# Hope_Transformations — Resonant Ascensions & Golden Dawn
 
 **Archive Authority:** Directorate Research Division & High Council  
 **Classification:** Restricted / Hope Transcendence Protocol  
@@ -8,7 +8,7 @@
 
 ## Overview
 
-The `02_Hope_Transformation/` directory records documented phenomena where Sorrow Entities or high-density Han fields undergo **Hope Transformation (희망의 승화)**.
+The `Hope_Transformations/` directory records documented phenomena where Sorrow Entities or high-density Han fields undergo **Hope Transformation (희망의 승화)**.
 
 In Somnarak metaphysics, when an entity or agent fully resolves the underlying grief, regret, or traumatic binding that anchored their Han energy, the entity does not vanish. Instead, its sorrow crystallizes into the radiant, golden state known as **Hope (희망 / 黄金之光)**. Hope is an anomalous, non-volatile state that neutralizes sorrow erosion, restores psychological coherence, and provides absolute barrier protection against Ordeals.
 

@@ -1,43 +1,33 @@
 # Project Somnarak — Non-Wiki Canon & Reference Archive
 
-Official authoritative repository of canonical lore, worldbuilding, and reference documentation for **Somnarak** — the City of Unresolved Sorrow.
-*Year 4,238 · Dawn Initiative · Reverie Directorate Protocol*
+Welcome to the **Canonical Lore & Reference Source Archive** for **Project Somnarak** (소마나락), maintained on the `NON-WIKI` branch.
+
+This repository serves as the authoritative, durable database and narrative foundation for the Somnarak universe (~3.5 million words). It houses the pure markdown source corpus for all cosmological frameworks, entity dossiers, equipment registries, and departmental records.
 
 ---
 
-## Overview
+## Repository Architecture
 
-Welcome to the **`NON-WIKI`** branch of **Project Somnarak**.
+The repository is cleanly divided into two master trees:
 
-This branch serves as the authoritative, pure-markdown **source repository** for all Somnarak worldbuilding materials, narrative manuscripts, entity containment files, and equipment registries. It is stripped of web build tools, HTML front-end pages, and browser bundles, focusing entirely on canon preservation, structural auditing, and editorial reference.
-
-| Branch | Purpose | Scope | Primary Asset |
-|---|---|---|---|
-| **`main`** | Public Web Wiki Frontend | Static website served via GitHub Pages | HTML pages, CSS, JS, SVG compositions, web search |
-| **`NON-WIKI`** (This Branch) | Canon Lore & Reference Archive | Authoritative markdown source corpus | 1,870+ reference files, entity codices, M.A.W. registries (~3.5M words) |
+| Directory | Role | Contents |
+|---|---|---|
+| **`SOMNARAK-WORLD/`** | **100% In-Universe Narrative & Operational Source** | Official containment dossiers, master codices, equipment sets, and Echo-Core records written entirely from within the Somnarak universe. |
+| **`REFERENCE_SOMNARAK_WIKI/`** | **Out-of-Universe Editorial Standards & Technical Audits** | Structural taxonomy, entity catalogs, paired-dossier audits, transfer manifests, and multi-agent handoff protocols. |
 
 ---
 
-## Repository Architecture: Two Master Trees
+## Archive Metrics at a Glance
 
-The archive cleanly separates in-universe lore from out-of-world editorial and audit documents:
-
-1. **`SOMNARAK-WORLD/`**: The complete in-universe canonical corpus (1,850+ files). Written strictly from an in-world perspective (Directorate clerks, Facility 01 Echo-Cores, containment workers, and city chroniclers). Contains the 34 foundational codices, Sorrow Entity dossiers, M.A.W. equipment sets, Ordeals, Hope Transformations, and Echo-Core personnel files.
-2. **`REFERENCE_SOMNARAK_WIKI/`**: Out-of-world editorial standards, structural audits, master catalogs, multi-session handoff protocols, and research manifests.
-
----
-
-## Archive Statistics
-
-- **1,879 total markdown files** across `SOMNARAK-WORLD` and `REFERENCE_SOMNARAK_WIKI`
+- **1,880 total markdown files** across `SOMNARAK-WORLD` and `REFERENCE_SOMNARAK_WIKI`
 - **Over 3.46 million words** of structured, canonical lore
-- **34 Macro-Canon Master Codices** (`SOMNARAK-WORLD/07_Reference/`) establishing the entire cosmology, geopolitical landscape, and physical laws of Somnarak
-- **529 Sorrow Entity Dossiers** (`SOMNARAK-WORLD/01_Sorrow_Entities/`), representing 285 unique canonical entities across threat levels ZAYIN through ALEPH
-- **291 M.A.W. Equipment Sets** (`SOMNARAK-WORLD/M.A.W. Codex_Set Registry/`, 1,196 files across 42 registry groups), cataloging Weapons, Suits, and Gifts
-- **60 Five-Color Ordeal Files** (`SOMNARAK-WORLD/04_Ordeals/`), documenting First, Second, Third, and Tide watches
-- **14 Hope Transformation Records** (`SOMNARAK-WORLD/02_Hope_Transformation/`), detailing resonant ascensions
-- **9 Echo-Core Dossiers** (`SOMNARAK-WORLD/CHARACTER_WIKI/`), covering the departmental leadership of Facility 01 ("The Hand of Change")
-- **8 Unknown Anomaly Records** (`SOMNARAK-WORLD/03_Unknown_Entities/`), containing unclassified deep-abyss occurrences
+- **31 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) establishing the entire cosmology, geopolitical landscape, and physical laws of Somnarak
+- **529 Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), representing 285 unique canonical entities across threat levels ZAYIN through ALEPH
+- **291 M.A.W. Equipment Sets** (`SOMNARAK-WORLD/MAW_Codex_Sets/`, 1,196 files across 42 registry groups), cataloging Weapons, Suits, and Gifts
+- **60 Five-Color Ordeal Files** (`SOMNARAK-WORLD/Ordeals/`), documenting First, Second, Third, and Tide watches
+- **14 Hope Transformation Records** (`SOMNARAK-WORLD/Hope_Transformations/`), detailing resonant ascensions
+- **9 Echo-Core Dossiers** (`SOMNARAK-WORLD/Echo_Cores/`), covering the departmental leadership of Facility 01 ("The Hand of Change")
+- **8 Unknown Anomaly Records** (`SOMNARAK-WORLD/Unknown_Entities/`), containing unclassified deep-abyss occurrences
 
 ---
 
@@ -57,13 +47,13 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │
 ├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,850+ files)
 │   ├── README.md                           # In-world archive guide & recommended reading order
-│   ├── 01_Sorrow_Entities/                 # 529 Entity files: Dossiers, tales, and containment data
-│   ├── 02_Hope_Transformation/             # 14 Hope Transformation files: HT-001 through HT-012, Trinity & Hand
-│   ├── 03_Unknown_Entities/                # 8 Unknown Entity files: UNK-248 through UNK-903 & Dramaturgy
-│   ├── 04_Ordeals/                         # 60 Ordeal files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
-│   ├── 07_Reference/                       # 34 Macro-Canon Master Codices: Cosmology, Factions, Systems
-│   ├── CHARACTER_WIKI/                     # 9 Echo-Core files: Facility 01 departmental leaders
-│   └── M.A.W. Codex_Set Registry/          # 1,196 files across 42 registry folders (A/B/C/D quadripartite sets)
+│   ├── Master_Codices/                     # 31 Macro-Canon Master Codices: Cosmology, Factions, Systems
+│   ├── Sorrow_Entities/                    # 529 Entity files: Dossiers, tales, and containment data
+│   ├── Echo_Cores/                         # 9 Echo-Core files: Facility 01 departmental leaders
+│   ├── MAW_Codex_Sets/                     # 1,196 files across 42 registry folders (A/B/C/D quadripartite sets)
+│   ├── Ordeals/                            # 60 Ordeal files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
+│   ├── Hope_Transformations/               # 14 Hope Transformation files: HT-001 through HT-012, Trinity & Hand
+│   └── Unknown_Entities/                   # 8 Unknown Entity files: UNK-248 through UNK-903 & Dramaturgy
 │
 └── REFERENCE_SOMNARAK_WIKI/                # Out-of-World Editorial Standards, Audits & Catalogs
     ├── README.md                           # Overview of the reference standards folder
@@ -79,136 +69,105 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
     ├── MAW_WEAPON_ARCHETYPES.md            # Comprehensive weapon taxonomy & silhouette archetypes
     ├── OPERATING_RULES.md                  # Canon integrity & directory rules
     ├── PROJECT_MOON_WIKI_NESTED_PLACEMENT_RESEARCH.md # Structural comparative research
-    └── PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md     # Historical compliance audit
+    ├── PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md     # Historical compliance audit
+    ├── REGISTRY_MASTER_STATUS.md           # M.A.W. Registry completion and archive tracking
+    ├── SOMNARAK_CORPORATIONS_GAME_DESIGN_FRAMEWORK.md # Original design document for the 3 corporations
+    ├── SOMNARAK_DOCUMENT_RULES.md          # Archival classification & authoring rules for entity files
+    ├── SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md # Authoritative list of 55 immutable core entities
+    └── SOMNARAK_NAME_REGISTRY.md           # Authoritative nomenclature & character naming lexicon
 ```
 
 ---
 
-## The 34 Macro-Canon Master Codices (`SOMNARAK-WORLD/07_Reference/`)
+## Macro-Canon Master Codices (`SOMNARAK-WORLD/Master_Codices/`)
 
-The 34 files located in `SOMNARAK-WORLD/07_Reference/` constitute the foundational in-world canon of Somnarak. Every entity, piece of equipment, and district event derives from these texts.
+The foundational source texts located in `SOMNARAK-WORLD/Master_Codices/` establish the core in-world canon of Somnarak. Every entity, piece of equipment, and district event derives from these texts:
 
 | Codex File Name | Focus & Subject Matter | Key Topics Covered |
 |---|---|---|
 | `PROJECT_SOMNARAK.md` | Master Worldbuilding Core (5,502 lines) | The Grand Cosmology, 5 Layers, The Maw, The Weeping, Universal Laws |
 | `The_REVERIE_DIRECTORATE.md` | Facility 01 Architecture (2,934 lines) | 8 Subterranean Floors, 9 Echo-Cores, Ordeal suppression systems |
 | `SOMNARAK_ABSOLOVHAN.md` | Sovereign Golden Dawn & Absolvohan | Resonant Clash, Absolvohan parts 1–9, the Hand of Hope |
-| `SOMNARAK_BATTLE_SYSTEM.md` | Combat Engine & Damage Types | 4 Damage Types (Grudge, Lament, Void, Weight), Work Types, Panic |
-| `SOMNARAK_CAST.md` | 25 Known People of Somnarak | Echo-Cores, leads, commanders, outlaws, and underworld brokers |
-| `SOMNARAK_CHEONGULA.md` | The First Sorrow & The Maw Event | Origin of the Cheongula Cataclysm, Year 0, The Great Fracture |
-| `SOMNARAK_CORPORATIONS.md` | The Three Industrial Monopolies | Corporate dominance, resource extraction, economic governance |
-| `SOMNARAK_DAILY_LIFE.md` | Urban Life & Acoustic Curfews | Food, fashion, sound suppressors, slum culture, city holidays |
-| `SOMNARAK_DAWN_OF_HOPE.md` | Dawn Initiative & Timeline | Year 4,238 Dawn Initiative, the 1,778 Cycles, historical epochs |
-| `SOMNARAK_DOCUMENT_RULES.md` | Directorate Archival Rules | Classification standards, classification levels, redaction rules |
-| `SOMNARAK_DREAM_REALM.md` | The Dream Realm & Weavers Guild | Dream-diving, subconscious condensation, ethereal aberrations |
-| `SOMNARAK_ENEMY_LIST.md` | External Threats & Aberrations | Outskirts beasts, rogue Han-constructs, anomalous predators |
-| `SOMNARAK_ENTITIES.md` | Entity System Overview | Emergence mechanics, sorrow condensation, containment theory |
-| `SOMNARAK_ENTITY_CODEX.md` | Complete Entity Codex | Comprehensive threat indices (ZAYIN, TETH, HE, WAW, ALEPH) |
-| `SOMNARAK_ENTITY_TALES.md` | Collected Entity Lore & Tales | In-universe folklore, agent interview logs, origin chronicles |
-| `SOMNARAK_FACTION_RELATIONS.md` | Diplomatic & Power Dynamics | Inter-faction rivalries, treaties, covert operations |
-| `SOMNARAK_FACTION_TECH.md` | Han Technologies & Machinery | Extraction engines, resonance dampers, containment plating |
-| `SOMNARAK_HAN_RELICS.md` | Han Relic Registry | Artifacts imbued with ancient sorrow, unique relic behaviors |
-| `SOMNARAK_HORIZON_CARAVAN.md` | The Nomads & Trade Caravans | Desert routes, wandering merchants, exterior wasteland trade |
-| `SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md` | Protected Canonical Manifest | The immutable baseline Sorrow Entities and core designations |
-| `SOMNARAK_MAW_CODEX.md` | Master M.A.W. Equipment Codex | Materialized Armament of Woe extraction, resonance, and wear |
-| `SOMNARAK_MEMORY_ARCHIVE.md` | Historical Records & Cycles | Recovered pre-cataclysm texts, ancient memories, cyclical resets |
-| `SOMNARAK_NAMED_FRACTURES.md` | Psychological Fractures | Agent mental degradation states, corrosion stages, therapy logs |
-| `SOMNARAK_NAME_REGISTRY.md` | Standardized Nomenclature | Korean-English transliteration rules and terminology standards |
-| `SOMNARAK_ORDEALS_FRAMEWORK.md` | Five-Color Ordeals Framework | Midnight, Dawn, Dusk, and Noon wave parameters and mechanics |
-| `SOMNARAK_SED.md` | Sorrow Extraction Division | Operational guidelines, quota requirements, extraction hazards |
-| `SOMNARAK_TABOO_RESONANCE.md` | Taboo Resonance Physics | The Seven Taboos, acoustic triggers, resonant backlash |
-| `SOMNARAK_THE_DESOLATE.md` | The Desolate Outskirts | The Scar, nomadic wastes, Han-storms, Kael's Kingdom |
-| `SOMNARAK_THE_DOORSPEECH.md` | Acoustic Censorship & Taboos | The Giltong Enforcers, speech monitors, silenced districts |
-| `SOMNARAK_THE_WEEPING.md` | The River of Liquid Han | The underground river, sorrow accumulation, entity crystallization |
-| `SOMNARAK_UCD.md` | Underworld Cleanup Descend | Strike Team Taeho/Yuna/Minho/Soojin, subterranean purge missions |
-| `SOMNARAK_UNDERWORLD.md` | The Raw & Underworld Factions | Menders, Frays, Memory Washers, Veil Merchants, Debt Brokers |
-| `SOMNARAK_UNKNOWN_CITIES.md` | Lost Sister Cities | Corners 2 & 3: Cheonbulok and Mugeukji, refugee migrations |
-| `SOMNARAK_WOUND_WALKERS.md` | Wound Walkers Order | The wandering healers, eternal sorrow alleviation, ascetic vows |
+| `SOMNARAK_BATTLE_SYSTEM.md` | Combat Engine & Damage Types | 4 Damage Elements (Grudge, Lament, Void, Weight), Formations |
+| `SOMNARAK_CHEONGULA.md` | The First Sorrow & The Maw Cataclysm | Historical origin of Cheongula, the Maw, and the First Sorrow |
+| `SOMNARAK_CORPORATIONS.md` | The Three Corporations Doctrine | Reverie Directorate (R.D.), Exploration (SED), Enforcement (UCD) |
+| `SOMNARAK_DAILY_LIFE.md` | Civilian Life & Urban Culture | Food synthesis, fashion, acoustic curfews, districts, and slang |
+| `SOMNARAK_DAWN_OF_HOPE.md` | Year 4,238 & The Dawn Initiative | The 1,778-cycle loop resolution and the 45% healing threshold |
+| `SOMNARAK_DREAM_REALM.md` | The Ethereal Dream Substratum | Dream-diving, Weavers Guild, ethereal entities, sleep phenomena |
+| `SOMNARAK_ENEMY_LIST.md` | Adversary Compendium | Undercity threats, feral constructs, rogue operators, Outskirts beasts |
+| `SOMNARAK_ENTITIES.md` | Entity Group Taxonomy & Chains | Connected entities, resonance chains, 5 Coherence levels (I to V) |
+| `SOMNARAK_ENTITY_CODEX.md` | Comprehensive Classification Codex | SECC breakdown, work affinities, and containment guidelines |
+| `SOMNARAK_ENTITY_TALES.md` | Master Origin Lore Anthology | Tripartite structure: 이야기 (Tale), 증언 (Testimony), 기록 (Record) |
+| `SOMNARAK_FACTION_RELATIONS.md`| Faction Geopolitical Matrix | Power balances, treaties, debts, and hostilities between groups |
+| `SOMNARAK_FACTION_TECH.md` | Institutional Technology Specifications| Acoustic dampening, basalt extraction, silk weaving, barrier rigs |
+| `SOMNARAK_HAN_RELICS.md` | Ancient Sovereign Artifacts | Pre-Structuring relics, properties, containment protocols |
+| `SOMNARAK_HORIZON_CARAVAN.md` | Nomad Traders & Desert Outposts | Exterior trade routes, desert navigation, and frontier survival |
+| `SOMNARAK_MAW_CODEX.md` | Master Armory & Extraction Engine | M.A.W. Weapon archetypes, suit weave defense ratings, gift slots |
+| `SOMNARAK_MEMORY_ARCHIVE.md` | Pre-Cataclysm Historical Logs | Fragmentary memory transcripts from before the First Cycle |
+| `SOMNARAK_NAMED_FRACTURES.md` | Historical Tragic Figures | Named citizens who underwent catastrophic psychological Fracture |
+| `SOMNARAK_ORDEALS_FRAMEWORK.md` | Five-Color Ordeal Defense | Tactical mechanics for Blue, Black, Pale, Grey, and Purple Ordeals |
+| `SOMNARAK_SED.md` | Somnarak Exploration Decreed | Deep subterranean reconnaissance, Maw descents, expedition teams |
+| `SOMNARAK_TABOO_RESONANCE.md` | Seven Taboos & Resonances | Absolute civic laws, acoustic censorship, and the Giltong Enforcers |
+| `SOMNARAK_THE_DESOLATE.md` | The Wasteland Beyond the Walls | The Scar, toxic Han-dust storms, nomad clans, and Kael's Kingdom |
+| `SOMNARAK_THE_DOORSPEECH.md` | Linguistic Censorship & Acoustic Control| Verbal taboos, speech filtration, and the Acoustic Enforcers |
+| `SOMNARAK_THE_WEEPING.md` | Subterranean River of Liquid Han | Hydrology of grief, crystallization points, and entity genesis |
+| `SOMNARAK_UCD.md` | Underworld Cleanup Descend | Tactical purge operations targeting the criminal syndicates and Frays |
+| `SOMNARAK_UNDERWORLD.md` | Subterranean Slums & The Raw | Menders, Frays, Memory Washers, Veil Merchants, and Debt Brokers |
+| `SOMNARAK_UNKNOWN_CITIES.md` | Sister Cities (Cheonbulok, Mugeukji) | External geopolitics, refugee enclaves, and forgotten city-states |
+| `SOMNARAK_WOUND_WALKERS.md` | Order of Wandering Healers | The monastic order sworn to absorb and transmute human sorrow |
+| `The_REVERIE_DIRECTORATE.md` | Facility 01 Internal Structure | Floor-by-floor layout, Echo-Core profiles, and emergency protocols |
 
 ---
 
-## Facility 01 & The Nine Echo-Cores (`SOMNARAK-WORLD/CHARACTER_WIKI/`)
+## Canonical Framework Summary
 
-The subterranean facility "The Hand of Change" is structured across 8 operational floors, led by the **Nine Echo-Cores**:
+All source lore across this archive adheres to four absolute pillars:
 
-| Echo-Core / Lead | File Name | Role & Department | Key Attributes |
-|---|---|---|---|
-| **Ayshuk** | `THE_DIRECTOR.md` | Director of Facility 01 | Executive Command, Dawn Protocol, Sovereign Authority |
-| **Seiyon** | `THE_SECRETARY.md` | Chief Secretary / Central Command | Operations Coordination, Schedule & Records, Liaison |
-| **Majin** | `THE_CONTAINMENT_LEAD.md` | Floor 1: Containment Lead | Primary Suppression, Physical Restraint, Safety Enforcer |
-| **Dekan** | `THE_ARCHIVE_LEAD.md` | Floor 2: Archive Lead | Historical Data, Anomaly Cataloging, Memory Protection |
-| **Mellda** | `THE_EXTRACTION_LEAD.md` | Floor 3: Extraction Lead | Han Energy Refining, M.A.W. Materialization, Forge Master |
-| **Ishall** | `THE_RESEARCH_LEAD.md` | Floor 4: Research Lead | Behavioral Insight, Biological Analysis, Tech Development |
-| **Marjuk** | `THE_BORDER_LEAD.md` | Floor 5: Border Watch Lead | Perimeter Security, Perimeter Quarantine, Incursion Defense |
-| **Zyrak** | `THE_EXILE.md` | Floor 6: Deep Vault Lead | Black-level Quarantine, Isolation Chambers, Forbidden Artifacts |
-| **Xyan** | `THE_OUTSIDER.md` | Floor 8: Gate Watch Lead | Threshold Surveillance, Exterior Horizon Monitoring, Gate Defense |
+1. **The Four Damage Types (사대 피해 유형):**
+   - **Grudge (원한 / Crimson):** Physical and structural kinetic damage.
+   - **Lament (비탄 / Blue):** Psychological erosion, composure loss, and despair.
+   - **Void (공허 / Pale White):** Soul damage, existential erasure, and memory loss.
+   - **Weight (비중 / Black):** Irreversible gravitational collapse and crushing trauma.
 
----
+2. **The Four Work Types (사대 격리 작업):**
+   - **Ferrehan (인내작업):** Physical endurance and barrier maintenance.
+   - **Flerehan (공감작업):** Insight, weeping resonance, and active listening.
+   - **Pugnahan (억제작업):** Repression, acoustic clamping, and physical force.
+   - **Viderehan (관찰작업):** Remote optical surveillance and detached analysis.
 
-## M.A.W. Equipment System (`SOMNARAK-WORLD/M.A.W. Codex_Set Registry/`)
+3. **Threat Classifications (위협 등급):**
+   - **`ZAYIN` (I):** Negligible threat; passive resonance; minimal containment risk.
+   - **`TETH` (II):** Low-to-moderate threat; standard suppression squads sufficient.
+   - **`HE` (III):** Significant threat; lethal capabilities; disciplined work required.
+   - **`WAW` (IV):** Critical threat; severe psychological degradation; catastrophic breach hazard.
+   - **`ALEPH` (V):** Existential threat; facility-wide or district-wide collapse potential.
 
-The **Materialized Armament of Woe (M.A.W.)** registry contains complete equipment sets extracted from Sorrow Entities. Each set follows a strict quadripartite structure:
-
-```
-Registry_<Range>/<Set_ID>_<Entity_Name>/
-├── SE-<ID>-A__SIDE_CODEX_<Entity>.md       # Entity source lore, extraction prerequisites, identity
-├── SE-<ID>-B__MAW-W_<Weapon_Name>.md       # Weapon: Form, speed/range, damage element, special attacks
-├── SE-<ID>-C__MAW-S_<Suit_Name>.md         # Suit: Resistances, endurance ratings, protective traits
-└── SE-<ID>-D__MAW-G_<Gift_Name>.md         # Gift: Slot (Head/Eye/Neck/etc.), resonance buff, appearance
-```
-
-### Damage & Resistance Affinity System
-Equipment and combat in Somnarak utilize four canonical energy types derived from Han:
-- **Grudge (원한 / 怨恨)**: Physical, kinetic sorrow. Crushing and cutting forces.
-- **Lament (비탄 / 悲歎)**: Psychological, weeping sorrow. Attacks sanity and coherence.
-- **Void (공허 / 空虛)**: Structural, erasing sorrow. Dual physical and mental breakdown.
-- **Weight (비중 / 悲重)**: Existential, gravitational sorrow. Percentage-based, irreversible burden.
+4. **M.A.W. Equipment Triad (비탄의 무장):**
+   - **MAW-W (Weapon):** Offense crystallized from the entity's core sorrow.
+   - **MAW-S (Suit):** Armor woven from the entity's resonance, conferring elemental defenses.
+   - **MAW-G (Gift):** Resonant accessory granting passive traits and cosmetic marks.
 
 ---
 
-## Core Canon Lexicon
+## Developer Verification Tools
 
-When reviewing or expanding the Somnarak universe, adhere strictly to Somnarak-native terminology:
-
-- **Somnarak (솜나락)**: The City of Unresolved Sorrow. Built over The Maw and the subterranean Weeping River.
-- **Han (한 / 恨)**: The primordial sorrow-energy that fuels the city's industry, drives entity emergence, and powers M.A.W. gear.
-- **Sorrow Entity (SE)**: Anomalous manifestations condensed from human sorrow, regret, and the Weeping River. Classified by SECC codes and threat levels: `ZAYIN` (I), `TETH` (II), `HE` (III), `WAW` (IV), `ALEPH` (V).
-- **M.A.W. (Materialized Armament of Woe)**: Weapons, suits, and gifts stabilized from entity resonance.
-- **Absolvohan (해한 / 解恨)**: The metaphysical release and purification of unresolved sorrow; the culmination of the Dawn Initiative.
-- **The Reverie Directorate (몽환국 / 夢幻局)**: The governing apparatus that administers Facility 01 and citywide Han allocation.
-- **Facility 01 ("The Hand of Change")**: The primary subterranean containment and extraction complex.
-- **Ordeals (시련 / 試練)**: Scheduled anomalous phenomena categorized by five colors (Black, Blue, Grey, Pale, Purple) and four watches (First Watch, Second Watch, Third Watch, Tide Watch).
-
----
-
-## Local Navigation & Tooling
-
-To explore, audit, and search the markdown corpus efficiently from the terminal:
+To audit file integrity, master codices, M.A.W. quadripartite sets, and entity counts:
 
 ```bash
-# Run the complete archive health audit
+# Run the full archive audit (all 1,880 markdown files)
 python3 tools/audit_lore_archive.py
 
-# Verbose audit showing set details
+# Run with verbose set breakdown
 python3 tools/audit_lore_archive.py --verbose
 
-# Export audit results as JSON
+# Export audit report as structured JSON
 python3 tools/audit_lore_archive.py --json
-
-# Search for an entity or concept across all reference files
-grep -rn "Absolvohan" "SOMNARAK-WORLD/"
-
-# List all master codices in 07_Reference
-ls -lh "SOMNARAK-WORLD/07_Reference"
 ```
 
 ---
 
-## Working Rules & Contribution Guidelines
+## Operating Rules for AI & Contributors
 
-All work on this repository is governed by the following binding documents:
-
-1. **Rule A0: Push Always** (`RULE-TO-FOLLOW.md`): Every file creation, edit, or deletion must be committed and pushed to the assigned session branch in the same turn.
-2. **Rule A5: File Safety** (`RULE-TO-FOLLOW.md`): Never delete or overwrite canon source files or owner archives without explicit instruction.
-3. **Session Fragility Precautions** (`SESSION_BREAK_PRECAUTION.md`): Keep units of work small, commit often, and maintain an accurate ledger.
-4. **Authentic Terminology** (`REFERENCE_SOMNARAK_WIKI/CONTENT_AND_VISUAL_STANDARDS.md`): Retain canonical Somnarak nomenclature across all files.
+1. **Push Always (Rule A0):** Every modification, creation, or deletion must be committed and pushed in the same turn.
+2. **File Safety (Rule A5):** Never delete canonical reference files without direct owner instruction.
+3. **Immutability of Canon:** Never replace authentic Somnarak terminology with generic placeholders. Retain all native nomenclature (Sorrow Entities, Han, Absolvohan, M.A.W., Reverie Directorate).

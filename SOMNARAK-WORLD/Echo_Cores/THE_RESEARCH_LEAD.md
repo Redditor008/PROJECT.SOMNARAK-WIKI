@@ -1,11 +1,11 @@
 # Echo-Core 5 — The Research Lead [Echo-Core]
 
-> **WIKI SECTION:** CHARACTER  
-> **CLASSIFICATION:** ECHO-CORE  
-> **SPOILER STATUS:** FULL STORY SPOILERS  
-> This page contains detailed information about Ayshuk's history, abilities, relationships, and story role.
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> Official historical record, behavioral assessment, and resonance profile for Ayshuk.
 
-> _“The model is consistent. The evidence is not. Follow the evidence.”_  
+> _“The model is consistent. The evidence is not. Follow the evidence.”_
 > — **Ayshuk, the Research Lead**
 
 **The Research Lead** (연구 책임자, _yeongu chaegimja_)—personal name **Ayshuk** (아이숙)—is Echo-Core 5 of the Nine and commander of **Floor 4: the Insight Forge**. He is the Reverie Directorate's senior authority on Han research, Sorrow Entity classification, and the Three Sorrows.

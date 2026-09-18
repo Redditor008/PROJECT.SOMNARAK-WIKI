@@ -5,9 +5,9 @@ Project Somnarak (NON-WIKI Branch)
 
 Standard library only. Performs structural, encoding, and integrity audits across:
 1. UTF-8 file integrity across all markdown files.
-2. The 34 Macro-Canon Master Codices in 07_Reference/.
-3. Sorrow Entity dossiers in 01_Sorrow_Entities/.
-4. M.A.W. quadripartite equipment sets (A/B/C/D) in M.A.W. Codex_Set Registry/.
+2. The Macro-Canon Master Codices in SOMNARAK-WORLD/Master_Codices/ and REFERENCE_SOMNARAK_WIKI/.
+3. Sorrow Entity dossiers in SOMNARAK-WORLD/Sorrow_Entities/.
+4. M.A.W. quadripartite equipment sets (A/B/C/D) in SOMNARAK-WORLD/MAW_Codex_Sets/.
 5. Hope Transformations, Unknown Entities, Ordeals, and Echo-Core dossiers.
 """
 
@@ -61,25 +61,31 @@ def audit_utf8_files():
 
 
 def audit_macro_canon():
-    """Audit the 34 foundational reference codices in SOMNARAK-WORLD/07_Reference/."""
-    folder = os.path.join(WORLD_DIR, "07_Reference")
+    """Audit the 34 foundational reference codices (31 in-universe Master_Codices + 3 developer standards)."""
+    folder = os.path.join(WORLD_DIR, "Master_Codices")
     if not os.path.exists(folder):
-        return {"status": "FAIL", "error": "07_Reference folder missing"}
+        return {"status": "FAIL", "error": "Master_Codices folder missing"}
 
     files = [f for f in os.listdir(folder) if f.endswith(".md") and f != "README.md"]
+    dev_files = ["SOMNARAK_DOCUMENT_RULES.md", "SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md", "SOMNARAK_NAME_REGISTRY.md"]
+    found_dev = [f for f in dev_files if os.path.exists(os.path.join(REF_DIR, f))]
+
+    total_canon = len(files) + len(found_dev)
     return {
-        "status": "PASS" if len(files) >= 34 else "WARNING",
-        "found_codices": len(files),
+        "status": "PASS" if total_canon >= 34 else "WARNING",
+        "found_in_world": len(files),
+        "found_editorial": len(found_dev),
+        "found_codices": total_canon,
         "expected_codices": 34,
         "codices": sorted(files),
     }
 
 
 def audit_maw_registry():
-    """Verify quadripartite completeness (A/B/C/D) of M.A.W. equipment sets in SOMNARAK-WORLD/."""
-    base = os.path.join(WORLD_DIR, "M.A.W. Codex_Set Registry")
+    """Verify quadripartite completeness (A/B/C/D) of M.A.W. equipment sets in SOMNARAK-WORLD/MAW_Codex_Sets/."""
+    base = os.path.join(WORLD_DIR, "MAW_Codex_Sets")
     if not os.path.exists(base):
-        return {"status": "FAIL", "error": "M.A.W. Registry folder missing"}
+        return {"status": "FAIL", "error": "MAW_Codex_Sets folder missing"}
 
     total_sets = 0
     complete_sets = 0
@@ -124,10 +130,10 @@ def audit_maw_registry():
 
 
 def audit_sorrow_entities():
-    """Audit entity files, threat tiers, and unique codes in SOMNARAK-WORLD/01_Sorrow_Entities/."""
-    folder = os.path.join(WORLD_DIR, "01_Sorrow_Entities")
+    """Audit entity files, threat tiers, and unique codes in SOMNARAK-WORLD/Sorrow_Entities/."""
+    folder = os.path.join(WORLD_DIR, "Sorrow_Entities")
     if not os.path.exists(folder):
-        return {"status": "FAIL", "error": "01_Sorrow_Entities folder missing"}
+        return {"status": "FAIL", "error": "Sorrow_Entities folder missing"}
 
     files = [f for f in os.listdir(folder) if f.endswith(".md") and f != "README.md"]
     by_code = {}
@@ -164,10 +170,10 @@ def audit_sorrow_entities():
 
 def audit_auxiliary_collections():
     """Audit Ordeals, Hope Transformations, Unknowns, and Echo-Cores in SOMNARAK-WORLD/."""
-    ordeals_dir = os.path.join(WORLD_DIR, "04_Ordeals")
-    hope_dir = os.path.join(WORLD_DIR, "02_Hope_Transformation")
-    unk_dir = os.path.join(WORLD_DIR, "03_Unknown_Entities")
-    chars_dir = os.path.join(WORLD_DIR, "CHARACTER_WIKI")
+    ordeals_dir = os.path.join(WORLD_DIR, "Ordeals")
+    hope_dir = os.path.join(WORLD_DIR, "Hope_Transformations")
+    unk_dir = os.path.join(WORLD_DIR, "Unknown_Entities")
+    chars_dir = os.path.join(WORLD_DIR, "Echo_Cores")
 
     ordeals = [f for f in os.listdir(ordeals_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(ordeals_dir) else []
     hope = [f for f in os.listdir(hope_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(hope_dir) else []
@@ -215,7 +221,7 @@ def main():
         for bf, err in utf8_res["bad_files"]:
             print(f"   [!] Bad file: {bf} ({err})")
 
-    print(f"2. Macro-Canon Codices    : {macro_res['status']} ({macro_res['found_codices']} / {macro_res['expected_codices']} master codices)")
+    print(f"2. Macro-Canon Codices    : {macro_res['status']} ({macro_res['found_codices']} / {macro_res['expected_codices']} master codices: {macro_res['found_in_world']} in-world, {macro_res['found_editorial']} editorial standards)")
     print(f"3. Sorrow Entities        : {se_res['status']} ({se_res['total_files']} files, {se_res['unique_entity_codes']} unique codes, {se_res['paired_codes_count']} paired)")
     print(f"   Tier breakdown         : {se_res['tier_distribution']}")
     print(f"4. M.A.W. Equipment Sets   : {maw_res['status']} ({maw_res['complete_sets']} / {maw_res['total_sets']} complete quadripartite sets)")

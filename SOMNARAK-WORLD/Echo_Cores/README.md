@@ -1,4 +1,4 @@
-# CHARACTER_WIKI — The Nine Echo-Cores of Facility 01
+# Echo_Cores — The Nine Echo-Cores of Facility 01
 
 **Archive Authority:** Directorate Executive Personnel Registry  
 **Classification:** High-Clearance Dossiers  
@@ -8,7 +8,7 @@
 
 ## Overview
 
-The `CHARACTER_WIKI/` directory contains deep psychological, historical, and combat dossiers for the **Nine Echo-Cores (메아리 핵)**—the departmental directors who govern the subterranean sectors of Facility 01 ("The Hand of Change").
+The `Echo_Cores/` repository contains deep psychological, historical, and combat dossiers for the **Nine Echo-Cores (메아리 핵)**—the departmental directors who govern the subterranean sectors of Facility 01 ("The Hand of Change").
 
 Each Echo-Core represents a fundamental aspect of human will, endurance, and sorrow-management, bound to the facility's central extraction architecture to preserve civic stability across the 1,778 Cycles.
 

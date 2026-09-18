@@ -1,11 +1,11 @@
 # Echo-Core 6 — The Border Lead [Echo-Core]
 
-> **WIKI SECTION:** CHARACTER  
-> **CLASSIFICATION:** ECHO-CORE  
-> **SPOILER STATUS:** FULL STORY SPOILERS  
-> This page contains detailed information about Mellda's history, abilities, relationships, and story role.
+> **RECORD DESIGNATION:** ECHO-CORE DOSSIER
+> **FACILITY 01 CLASSIFICATION:** LEVEL 5 / REVERIE DIRECTORATE
+> **CLEARANCE PROTOCOL:** RESTRICTED TO AUTHORIZED PERSONNEL
+> Official historical record, behavioral assessment, and resonance profile for Mellda.
 
-> _“Hold the line. Do not mistake fear for hostility.”_  
+> _“Hold the line. Do not mistake fear for hostility.”_
 > — **Mellda, the Border Lead**
 
 **The Border Lead** (경계 책임자, _gyeonggye chaegimja_)—personal name **Mellda** (멜다)—is Echo-Core 6 of the Nine and commander of **Floor 5: the Border Watch**. She is a woman, an experienced former Warden, and the Reverie Directorate's first line of defense against threats approaching Somnarak from the Desolate.
