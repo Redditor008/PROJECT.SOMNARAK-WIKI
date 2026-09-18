@@ -1,34 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="DURI'S HEART'S EDGE">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="WEAPON 901">
   <defs>
-    <radialGradient id="bg901" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#181206"/>
-      <stop offset="100%" stop-color="#0d0a04"/>
-    </radialGradient>
-    <radialGradient id="gl901" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#fbbf24" stop-opacity=".20"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="heart901" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#7f1d1d"/>
-      <stop offset="50%" stop-color="#dc2626"/>
-      <stop offset="100%" stop-color="#450a0a"/>
-    </linearGradient>
+    <radialGradient id="bg901" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#181206"/><stop offset="100%" stop-color="#0d0a04"/></radialGradient>
+    <radialGradient id="gl901" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#92400e" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg901)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl901)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#d97706" stroke-width="1.2"/>
   <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- DURI'S HEART'S EDGE: heart-shaped blade — weight body -->
-  <path d="M200 52 C 220 32, 252 44, 244 76 C 236 104, 212 128, 200 144 C 188 128, 164 104, 156 76 C 148 44, 180 32, 200 52 Z" fill="url(#heart901)" stroke="#d97706" stroke-width="2.2"/>
-  <path d="M186 68 C 194 60, 206 60, 214 68" fill="none" stroke="#fca5a5" stroke-width="1.2" opacity=".7"/>
-  <path d="M200 78 L 200 144" stroke="#450a0a" stroke-width="1" opacity=".5"/>
-  <circle cx="200" cy="96" r="6" fill="#450a0a" stroke="#7f1d1d" stroke-width="1"/>
-  <path d="M170 144 L 230 144 L 224 164 L 176 164 Z" fill="#1e293b" stroke="#d97706" stroke-width="1.4"/>
-  <path d="M186 164 L 186 304 C 186 312, 214 312, 214 304 L 214 164 Z" fill="#1c0a0a" stroke="#7f1d1d" stroke-width="1.6"/>
-  <g stroke="#450a0a" stroke-width="1">
-    <path d="M190 180 L 210 180"/><path d="M190 204 L 210 204"/><path d="M190 228 L 210 228"/><path d="M190 252 L 210 252"/>
-  </g>
-  <circle cx="200" cy="320" r="7" fill="#450a0a" stroke="#d97706" stroke-width="1.2"/>
+<!-- 901 duri heart v2: anatomical heart with aorta, distinct from flat heart -->
+  <path d="M200 96 C184 96, 168 112, 172 132 C176 152, 192 168, 200 184 C208 168, 224 152, 228 132 C232 112, 216 96, 200 96 Z" fill="#7f1d1d" stroke="#d97706" stroke-width="1.4"/>
+  <path d="M196 96 L188 84 L192 78 L200 92" fill="#991b1b" stroke="#ef4444" stroke-width="1"/>
+  <path d="M204 96 L212 84 L208 78 L200 92" fill="#991b1b" stroke="#ef4444" stroke-width="1"/>
+  <path d="M184 124 Q200 136 216 124" stroke="#fca5a5" stroke-width="1" fill="none" opacity="0.7"/>
+  <circle cx="200" cy="144" r="2" fill="#fca5a5"/>
+
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d97706">MAW-W-901-01</text>
 </svg>

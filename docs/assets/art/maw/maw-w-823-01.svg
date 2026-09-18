@@ -1,58 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE CROSSING REQUIEM">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="WEAPON 823">
   <defs>
-    <radialGradient id="bg823" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#0a1626"/>
-      <stop offset="100%" stop-color="#050a14"/>
-    </radialGradient>
-    <radialGradient id="gl823" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#1d4ed8" stop-opacity=".20"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="deck823" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#334155"/>
-      <stop offset="100%" stop-color="#1e293b"/>
-    </linearGradient>
+    <radialGradient id="bg823" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#0a1626"/><stop offset="100%" stop-color="#050a14"/></radialGradient>
+    <radialGradient id="gl823" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#1d4ed8" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg823)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl823)"/>
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+<!-- 823 crossing v2: stone arch bridge with single span, distinct from 908 -->
+  <path d="M148 164 Q200 92 252 164" fill="none" stroke="#94a3b8" stroke-width="2.2"/>
+  <path d="M148 164 L148 188 L252 188 L252 164" fill="#1e293b" stroke="#38bdf8" stroke-width="1.4"/>
+  <rect x="168" y="164" width="12" height="24" fill="#334155" stroke="#94a3b8" stroke-width="1"/>
+  <rect x="220" y="164" width="12" height="24" fill="#334155" stroke="#94a3b8" stroke-width="1"/>
+  <path d="M184 138 Q200 122 216 138" stroke="#38bdf8" stroke-width="1" fill="none" opacity="0.6"/>
+  <circle cx="200" cy="108" r="2" fill="#38bdf8"/>
 
-  <!-- CROSSING REQUIEM: suspension bridge collapsed — both shores named, gap honored -->
-  <!-- blade is the bridge deck, vertical, with missing span -->
-  <path d="M138 42 L 262 42 L 262 68 L 138 68 Z" fill="url(#deck823)" stroke="#38bdf8" stroke-width="1.8"/>
-  <!-- north tower -->
-  <path d="M152 42 L 152 168 L 168 168 L 168 42 Z" fill="#1e293b" stroke="#475569" stroke-width="1.2"/>
-  <path d="M152 68 L 168 68 M152 100 L 168 100 M152 132 L 168 132" stroke="#64748b" stroke-width="1"/>
-  <!-- south tower -->
-  <path d="M232 42 L 232 168 L 248 168 L 248 42 Z" fill="#1e293b" stroke="#475569" stroke-width="1.2"/>
-  <path d="M232 68 L 248 68 M232 100 L 248 100 M232 132 L 248 132" stroke="#64748b" stroke-width="1"/>
-  <!-- suspension cables: snapped, hanging -->
-  <path d="M152 42 C 176 72, 188 88, 200 96" fill="none" stroke="#94a3b8" stroke-width="1.4"/>
-  <path d="M248 42 C 224 72, 212 88, 200 96" fill="none" stroke="#94a3b8" stroke-width="1.4"/>
-  <path d="M152 42 C 154 58, 156 72, 152 84" fill="none" stroke="#94a3b8" stroke-width="1" stroke-dasharray="3 3" opacity=".6"/>
-  <path d="M248 42 C 246 58, 244 72, 248 84" fill="none" stroke="#94a3b8" stroke-width="1" stroke-dasharray="3 3" opacity=".6"/>
-  <!-- deck gap: missing span, dashed ghost -->
-  <path d="M168 56 L 200 56" stroke="#e2e8f0" stroke-width="1.8"/>
-  <path d="M200 56 L 232 56" stroke="#38bdf8" stroke-width="1.8" stroke-dasharray="4 4" opacity=".45"/>
-  <path d="M200 56 L 200 96" stroke="#38bdf8" stroke-width="1.2" stroke-dasharray="3 3" opacity=".4"/>
-  <!-- Han surge scar hanging in the gap -->
-  <path d="M186 72 C 192 76, 208 76, 214 72 C 208 88, 192 88, 186 72" fill="#7f1d1d" stroke="#ef4444" stroke-width="1"/>
-  <path d="M190 80 C 196 82, 204 82, 210 80" fill="none" stroke="#fca5a5" stroke-width="1" opacity=".6"/>
-  <!-- shore plates: both named -->
-  <rect x="132" y="84" width="38" height="14" rx="2" fill="#0f172a" stroke="#38bdf8" stroke-width="1"/>
-  <text x="136" y="94" fill="#7dd3fc" font-family="monospace" font-size="6">SHORE A</text>
-  <rect x="230" y="84" width="38" height="14" rx="2" fill="#0f172a" stroke="#38bdf8" stroke-width="1"/>
-  <text x="234" y="94" fill="#7dd3fc" font-family="monospace" font-size="6">SHORE B</text>
-  <!-- sob waves that are listened between -->
-  <path d="M168 114 C 178 110, 188 118, 200 114 C 212 110, 222 118, 232 114" fill="none" stroke="#7dd3fc" stroke-width="1.2" opacity=".6"/>
-  <!-- grip is the bridge approach road, descending -->
-  <path d="M186 168 L 214 168 L 214 308 L 186 308 Z" fill="#1e293b" stroke="#475569" stroke-width="1.6"/>
-  <g stroke="#334155" stroke-width="1">
-    <path d="M186 188 L 214 188"/><path d="M186 212 L 214 212"/><path d="M186 236 L 214 236"/><path d="M186 260 L 214 260"/>
-  </g>
-  <path d="M186 308 L 182 332 L 218 332 L 214 308 Z" fill="#0f172a" stroke="#38bdf8" stroke-width="1.2"/>
-  <circle cx="200" cy="342" r="7" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#38bdf8">MAW-W-823-01</text>
 </svg>

@@ -1,36 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="GORU'S FIST'S EDGE">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="WEAPON 902">
   <defs>
-    <radialGradient id="bg902" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#1a0a0d"/>
-      <stop offset="100%" stop-color="#0d0507"/>
-    </radialGradient>
-    <radialGradient id="gl902" cx="50%" cy="46%" r="50%">
-      <stop offset="0%" stop-color="#7f1d1d" stop-opacity=".28"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="fist902" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#57534e"/>
-      <stop offset="50%" stop-color="#a8a29e"/>
-      <stop offset="100%" stop-color="#1c1917"/>
-    </linearGradient>
+    <radialGradient id="bg902" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#1a0a0d"/><stop offset="100%" stop-color="#0d0507"/></radialGradient>
+    <radialGradient id="gl902" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#7f1d1d" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg902)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl902)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#ef4444" stroke-width="1.2"/>
   <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- GORU'S FIST'S EDGE: knuckle blade — grudge stored in muscle -->
-  <path d="M162 48 L 238 48 L 238 128 L 224 144 L 176 144 L 162 128 Z" fill="url(#fist902)" stroke="#ef4444" stroke-width="2.2"/>
-  <g fill="#1c1917" stroke="#44403c" stroke-width="1">
-    <rect x="172" y="56" width="20" height="28" rx="4"/><rect x="196" y="56" width="20" height="28" rx="4"/><rect x="220" y="64" width="12" height="20" rx="3"/>
-  </g>
-  <g stroke="#57534e" stroke-width="1">
-    <path d="M182 70 L 182 78"/><path d="M206 70 L 206 78"/>
-  </g>
-  <path d="M162 128 L 176 144 L 224 144 L 238 128" fill="#991b1b" stroke="#ef4444" stroke-width="1.2"/>
-  <path d="M200 144 L 200 164" stroke="#ef4444" stroke-width="2"/>
-  <path d="M172 164 L 228 164 L 226 182 L 174 182 Z" fill="#1c0a0a" stroke="#7f1d1d" stroke-width="1.6"/>
-  <path d="M184 182 L 184 312 C 184 320, 216 320, 216 312 L 216 182 Z" fill="#1a0a0d" stroke="#7f1d1d" stroke-width="1.6"/>
-  <circle cx="200" cy="326" r="7" fill="#450a0a" stroke="#ef4444" stroke-width="1.2"/>
+<!-- 902 goru fist v2: gauntlet fist with plates, distinct from 782 -->
+  <path d="M176 108 L224 108 L224 156 L176 156 Z" fill="#334155" stroke="#ef4444" stroke-width="1.6"/>
+  <path d="M176 108 L176 92 Q176 84 184 84 L216 84 Q224 84 224 92 L224 108" fill="#1e293b" stroke="#ef4444" stroke-width="1.2"/>
+  <rect x="184" y="120" width="32" height="12" rx="2" fill="#1a0a0d" stroke="#ef4444" stroke-width="1"/>
+  <circle cx="192" cy="138" r="3" fill="#450a0a" stroke="#ef4444" stroke-width="0.8"/>
+  <circle cx="208" cy="138" r="3" fill="#450a0a" stroke="#ef4444" stroke-width="0.8"/>
+  <rect x="188" y="156" width="24" height="28" rx="6" fill="#0f172a" stroke="#ef4444" stroke-width="1"/>
+
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#ef4444">MAW-W-902-01</text>
 </svg>
