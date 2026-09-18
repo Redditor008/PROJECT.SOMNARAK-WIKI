@@ -1,34 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SHADOW LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bg9db8b2" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw119" cx="50%" cy="50%" r="64%">
+      <stop offset="0%" stop-color="#15161a"/>
+      <stop offset="100%" stop-color="#070809"/>
     </radialGradient>
-    <radialGradient id="gl9db8b2" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    <radialGradient id="dk119" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#030304"/>
+      <stop offset="55%" stop-color="#26272c"/>
+      <stop offset="100%" stop-color="#6b7280"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg9db8b2)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw119)" stroke="#a8b0bc" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="132" fill="url(#gl9db8b2)"/>
-  <g transform="rotate(-3 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="48.0" ry="78.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="39.0" ry="66.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="30.0" ry="56.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M230.9 132.2 L225.1 141.4" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M243.9 160.3 L235.6 165.2" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M248.0 194.7 L239.0 194.3" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M242.4 228.6 L234.4 223.0" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="140.0" y="186.0" width="120.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="270.0" width="12" height="27.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(-13 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-119-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#070809" stroke="#a8b0bc" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#a8b0bc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- THE ROOM, drawn in thin perspective lines, swallowing -->
+  <path d="M70 96 L330 96 L296 140 L104 140 Z" fill="none" stroke="#3f3f46" stroke-width="1.8" opacity=".8"/>
+  <path d="M70 96 L70 300 L104 262 L104 140 M330 96 L330 300 L296 262 L296 140" fill="none" stroke="#3f3f46" stroke-width="1.8" opacity=".8"/>
+  <path d="M70 300 L330 300 L296 262 L104 262 Z" fill="none" stroke="#3f3f46" stroke-width="1.8" opacity=".8"/>
+  <!-- the name being swallowed: letters pulled off a small door plate into the centre -->
+  <rect x="112" y="150" width="44" height="16" rx="2" fill="none" stroke="#71717a" stroke-width="1.6"/>
+  <path d="M118 158 L128 158" stroke="#a1a1aa" stroke-width="1.8"/>
+  <path d="M136 158 C 152 162, 166 170, 178 180" stroke="#71717a" stroke-width="1.4" stroke-dasharray="3 4" opacity=".8"/>
+  <path d="M146 156 C 160 158, 172 164, 182 172" stroke="#71717a" stroke-width="1" stroke-dasharray="2 5" opacity=".5"/>
+  <!-- THE SHADOW LENS held at the room's centre: the deep well widening -->
+  <circle cx="212" cy="200" r="64" fill="url(#dk119)" stroke="#c6ccd4" stroke-width="3.2"/>
+  <circle cx="212" cy="200" r="50" fill="none" stroke="#52525b" stroke-width="1.6" opacity=".7"/>
+  <!-- central depth: rings sinking inward -->
+  <circle cx="212" cy="200" r="34" fill="none" stroke="#3a3b41" stroke-width="1.6" opacity=".8"/>
+  <circle cx="212" cy="200" r="20" fill="none" stroke="#2a2b30" stroke-width="1.6" opacity=".9"/>
+  <circle cx="212" cy="200" r="9" fill="#000"/>
+  <!-- swallowed letters spiralling into the well -->
+  <path d="M186 176 C 196 172, 204 176, 206 184" fill="none" stroke="#9ca3af" stroke-width="1.3" opacity=".7"/>
+  <path d="M232 222 C 226 228, 218 228, 214 222" fill="none" stroke="#9ca3af" stroke-width="1.2" opacity=".55"/>
+  <circle cx="200" cy="190" r="1.6" fill="#d4d4d8" opacity=".8"/>
+  <circle cx="222" cy="212" r="1.4" fill="#d4d4d8" opacity=".6"/>
+  <!-- THE RETURN LOCATION, written and pinned outside the room; witness dot beside it -->
+  <rect x="304" y="318" width="62" height="30" rx="3" fill="#e7e5e4" fill-opacity=".92" stroke="#a8a29e" stroke-width="1.6" transform="rotate(-5 335 333)"/>
+  <path d="M312 328 L354 330 M312 336 L344 338" stroke="#292524" stroke-width="1.4" transform="rotate(-5 335 333)"/>
+  <circle cx="296" cy="340" r="5" fill="none" stroke="#d6d3d1" stroke-width="1.8"/>
+  <path d="M296 345 L296 352 M296 347 L290 351 M296 347 L302 351" stroke="#d6d3d1" stroke-width="1.6"/>
+  <!-- plain black frame handle, lower-left -->
+  <path d="M164 250 L136 296 L156 308 L182 264 Z" fill="#101114" stroke="#a8b0bc" stroke-width="2.4"/>
+  <path d="M152 276 L168 286" stroke="#a8b0bc" stroke-width="1.5" opacity=".8"/>
+  <circle cx="136" cy="314" r="7" fill="#101114" stroke="#f1df76" stroke-width="2"/>
 </svg>

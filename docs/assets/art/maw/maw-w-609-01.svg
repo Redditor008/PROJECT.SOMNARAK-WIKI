@@ -1,32 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THOUSAND HANDS REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg0dbd8a" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw609" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl0dbd8a" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl609" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg0dbd8a)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw609)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="127" fill="url(#gl0dbd8a)"/>
-  <g transform="rotate(2 200.0 192.0)">
-<path d="M187.0 192.0 L194.54 87.60000000000001 L200.0 47.0 L205.46 96.3 L213.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 47.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="193.5" y="107.9" width="13.0" height="60.9" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="177.0" y="187.0" width="46.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="52.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="260.0" r="5.0" fill="#3e8bd5" fill-opacity=".7"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- broad singing blade, upright lean -->
+  <path d="M158 330 L148 318 C 144 268, 152 216, 174 170 C 190 136, 212 110, 238 94 L 260 112 C 238 132, 220 158, 208 190 C 192 232, 186 278, 190 322 L 176 336 Z"
+        fill="url(#bl609)" stroke="#38bdf8" stroke-width="2.8"/>
+  <path d="M154 312 C 150 266, 158 218, 178 176 C 192 146, 212 120, 236 102" fill="none" stroke="#1e3a5f" stroke-width="2"/>
+  <!-- OVERLAPPING PALM LINES beneath the surface: handprints of every owner -->
+  <g opacity=".8">
+    <path d="M170 280 C 174 270, 182 264, 192 264 M172 292 C 178 284, 186 280, 196 280 M168 268 L172 258 M178 262 L184 252 M188 260 L194 252" fill="none" stroke="#3b5f88" stroke-width="1.4"/>
+    <path d="M186 230 C 192 222, 200 218, 210 219 M188 243 C 194 236, 202 232, 212 233 M184 218 L190 208 M196 214 L202 205 M206 213 L212 206" fill="none" stroke="#60a5fa" stroke-width="1.4"/>
+    <path d="M204 180 C 210 172, 218 168, 228 169 M206 192 C 212 186, 220 182, 230 184 M202 168 L208 158 M214 164 L220 156 M224 164 L230 157" fill="none" stroke="#3b5f88" stroke-width="1.4"/>
+    <path d="M224 136 C 230 128, 238 124, 246 126 M222 124 L228 116 M234 122 L240 114" fill="none" stroke="#7dd3fc" stroke-width="1.3"/>
   </g>
-  <g transform="rotate(11 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(3 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-609-01</text>
+  <!-- THE OWNER-ORDER EDGE: glow segments numbered by seniority, NOT geometric order -->
+  <path d="M152 322 C 149 300, 148 278, 150 256" fill="none" stroke="#e0f2fe" stroke-width="3"/>
+  <path d="M152 322 C 149 300, 148 278, 150 256" fill="none" stroke="#e0f2fe" stroke-width="8" opacity=".18"/>
+  <path d="M158 210 C 164 190, 172 172, 182 156" fill="none" stroke="#93c5fd" stroke-width="3"/>
+  <path d="M158 210 C 164 190, 172 172, 182 156" fill="none" stroke="#93c5fd" stroke-width="8" opacity=".15"/>
+  <path d="M196 136 C 206 122, 218 110, 232 100" fill="none" stroke="#7dd3fc" stroke-width="3"/>
+  <path d="M150 252 C 152 238, 155 224, 158 212" stroke="#12233d" stroke-width="2.4"/>
+  <path d="M184 152 C 188 146, 192 142, 196 138" stroke="#12233d" stroke-width="2.4"/>
+  <!-- seniority numerals beside the segments: 1 oldest at mid, 2 low, 3 at tip -->
+  <path d="M136 292 L136 280 L132 284" fill="none" stroke="#f1df76" stroke-width="1.8"/>
+  <path d="M142 190 C 142 184, 148 182, 150 186 C 152 190, 146 194, 142 198 L 150 198" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M208 108 C 214 104, 218 108, 214 112 C 218 114, 216 120, 210 120" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <!-- mine vs witnessed: two statement tags, one solid one outlined -->
+  <rect x="206" y="252" width="30" height="13" rx="2" transform="rotate(-14 221 258)" fill="#050a14" stroke="#f1df76" stroke-width="1.4"/>
+  <rect x="212" y="272" width="30" height="13" rx="2" transform="rotate(-14 227 278)" fill="none" stroke="#7dd3fc" stroke-width="1.3" stroke-dasharray="3 3"/>
+  <!-- song lines -->
+  <path d="M266 96 C 274 90, 282 88, 290 90 M268 112 C 276 106, 284 104, 292 106" fill="none" stroke="#7dd3fc" stroke-width="1.4" opacity=".7"/>
+  <!-- guard + grip -->
+  <path d="M140 336 L204 342" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
+  <path d="M172 346 L168 392" stroke="#12233d" stroke-width="12" stroke-linecap="round"/>
+  <path d="M164 358 L178 360 M163 372 L177 374" stroke="#60a5fa" stroke-width="2.4"/>
+  <path d="M166 398 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.2"/>
 </svg>

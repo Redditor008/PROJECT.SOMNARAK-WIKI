@@ -27,6 +27,10 @@ A crimson Han-iron pendant hangs at the Tail slot, much heavier than its size an
 | Binding cost | Current maps begin to seem dishonest for showing only current ground |
 | Corrosion risk | Moderate near civic expansion records |
 
+## Appearance
+
+The Vestige Pendant is a crimson pendant of Han iron hung at the tail slot, much heavier than its size and blank until an erased route crosses the bearer’s view — weight without image until deleted geography fills it. Bestowal may follow an accepted work cycle; it cannot be manufactured. Its function is the Denied Route: it reveals roads and settlement paths erased from official mapping, marking their historical course and final known endpoint — never a safe modern passage. The hidden condition splits by misuse: used for navigation, the Pendant leads through whatever now occupies the route; used to rebuild, it replaces living landmarks with phantom history until the bearer cannot find the present. In its recorded case it showed an erased settlement road crossing a current border clinic — a junior mapper painted the line on the clinic floor, and patients began following it through walls toward a vanished square. The navigation marks were erased, the old course was recorded on an archive layer, and the clinic’s current exits were restored; the Pendant cooled while still showing both truths separately. Its route line now breaks around occupied present structures instead of implying access — history annotated, never reopened as a door.
+
 ## EFFECT & HIDDEN CONDITION
 
 **Denied Route:** reveals roads and settlement paths erased from official mapping. It marks their historical course and final known endpoint, not a safe modern passage.

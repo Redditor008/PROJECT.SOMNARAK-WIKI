@@ -21,6 +21,10 @@ Fang forms from rust shed when current representatives name the same original lo
 
 Sentinel Harin carried it during the *Marker Nine Crossing*. The blade severed corrosion linking three route posts, allowing both patrols to withdraw. Every old fracture in Harin’s shield arm reopened as bruising, but no descendant was marked hostile.
 
+## Appearance
+
+Patina Fang is a fang-curved blade of crimson Han iron — dark, warm to the touch, and edged with orange rust flakes that are sharper than polished metal. Drawn, it does not point at the nearest enemy; it quivers toward the oldest active boundary marker in range, the original site of the inherited grievance. The Fang forms from rust shed when current representatives of both sides name the same original loss, and it binds only to a wielder who can state the grievance without naming a living heir as its rightful target. In action it follows a line of inherited hostility through up to three markers or structures, cutting the corroded route itself; a living person may be struck only for present conduct documented independently of ancestry, and Patina pulls the tip downward if the wielder points at a descendant. Old wounds ache with every draw, and prolonged use paints bruise-lines matching injuries inherited through family stories the wielder never suffered. It is maintained set between the two sides of the last crossed boundary, each side stating the same original loss in its own words, brushing away only the flakes that fall voluntarily. Shutdown is the point dropped into disputed soil and the grip released.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

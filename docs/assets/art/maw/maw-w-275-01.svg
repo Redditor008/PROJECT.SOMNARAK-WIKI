@@ -1,24 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE RAGE HAMMER">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // HAMMER -->
   <defs>
-    <radialGradient id="bg722edc" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw275" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#230a0e"/>
+      <stop offset="100%" stop-color="#0c0405"/>
     </radialGradient>
-    <radialGradient id="gl722edc" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl275" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg722edc)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw275)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="114" fill="url(#gl722edc)"/>
-  <g transform="rotate(12 200.0 192.0)">
-<rect x="140.0" y="171.0" width="120.0" height="42.0" rx="6" fill="#d64a4a" fill-opacity=".22" stroke="#d64a4a" stroke-width="3"/>
-<path d="M147.0 177.0 L251.0 207.0" stroke="#e0f2fe" stroke-width="1.1" opacity=".6"/>
-<rect x="195.0" y="213.0" width="10" height="88.0" rx="4" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="309.0" r="6" fill="#d64a4a" fill-opacity=".55"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-275-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0405" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- forge-hammer head: one FLAT face, one gently DOMED rounding face (researched: rounding hammer) -->
+  <path d="M136 118 L262 100 C 274 98, 284 106, 286 118 L292 158 C 294 170, 286 180, 274 182 L148 200 C 136 202, 126 194, 124 182 L118 142 C 116 130, 124 120, 136 118 Z"
+        fill="#1a0505" stroke="#ef4444" stroke-width="3.2"/>
+  <rect x="128" y="112" width="160" height="80" rx="9" transform="rotate(-8 208 152)" fill="url(#bl275)" opacity=".16"/>
+  <!-- the DOMED rounding face: right end swells into a polished dome -->
+  <path d="M286 118 C 302 122, 310 136, 308 152 C 306 164, 298 174, 286 178" fill="#2b0c0c" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M292 128 C 300 133, 303 142, 301 151" fill="none" stroke="#fca5a5" stroke-width="1.8"/>
+  <path d="M296 124 L300 120" stroke="#fecaca" stroke-width="1.6"/>
+  <!-- the FLAT face: left end, working-bright -->
+  <path d="M136 118 L124 182" stroke="#fecaca" stroke-width="4"/>
+  <path d="M133 126 L124 174" stroke="#fff1f2" stroke-width="1.4"/>
+  <!-- forge-scale texture on the cheeks -->
+  <path d="M156 132 L164 148 M180 128 L188 144 M204 124 L212 140 M228 120 L236 136 M252 116 L260 132" stroke="#450a0a" stroke-width="1.8" opacity=".9"/>
+  <!-- THE HEART PULSE: ember veins branching from the eye down the haft, beat rings -->
+  <path d="M206 196 L214 214" stroke="#78716c" stroke-width="9"/>
+  <circle cx="209" cy="203" r="2.2" fill="#fca5a5"/>
+  <path d="M212 212 L172 380" stroke="#2b0c0c" stroke-width="15" stroke-linecap="round"/>
+  <path d="M210 216 L174 374" stroke="#4a1414" stroke-width="9" stroke-linecap="round"/>
+  <!-- ember vein pulsing down the wood -->
+  <path d="M206 232 C 200 244, 202 254, 196 266 C 192 276, 194 284, 190 294 C 186 304, 188 312, 184 322"
+        fill="none" stroke="#fb923c" stroke-width="2.2"/>
+  <path d="M202 250 L210 256 M194 288 L202 294" stroke="#fb923c" stroke-width="1.4" opacity=".8"/>
+  <!-- beat rings: paired bands that read as a slow heartbeat, quickening downward -->
+  <path d="M202 246 L218 250 M199 258 L215 262" stroke="#ef4444" stroke-width="2.4"/>
+  <path d="M192 290 L208 294 M190 298 L206 302" stroke="#ef4444" stroke-width="2.4"/>
+  <path d="M183 330 L199 334 M182 336 L198 340 M181 342 L197 346" stroke="#ef4444" stroke-width="2.2"/>
+  <path d="M166 388 a8 8 0 1 0 .1 0" fill="#230a0e" stroke="#fb923c" stroke-width="2.4"/>
+  <!-- declaration band at the collar: named anger + protective purpose, two engraved slots -->
+  <rect x="216" y="222" width="34" height="13" rx="2" transform="rotate(12 233 228)" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <rect x="212" y="240" width="34" height="13" rx="2" transform="rotate(12 229 246)" fill="none" stroke="#f1df76" stroke-width="1.4" stroke-dasharray="4 3"/>
+  <!-- slag-origin drip frozen under the head -->
+  <path d="M160 202 C 158 210, 160 217, 166 221 C 170 216, 170 209, 166 203" fill="#2b0c0c" stroke="#fb923c" stroke-width="1.6"/>
+  <!-- heat rising off the domed face -->
+  <path d="M312 128 C 316 120, 312 114, 316 106 M320 144 C 324 136, 320 130, 324 122" fill="none" stroke="#fb923c" stroke-width="1.6" opacity=".7"/>
 </svg>

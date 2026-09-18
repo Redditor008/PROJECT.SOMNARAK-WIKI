@@ -19,6 +19,10 @@
 **Canonical ability:** Slows hostile emotional momentum.  
 **Binding rule:** the bearer names Relic of a Thousand Owners's event—A relic passed from one exile to another until its history became a wandering figure.—and accepts this limit: Do not claim ownership; document its owners
 
+## Appearance
+
+The Flowing Hammer is the weapon record of the Relic of a Thousand Owners’ set, and its canonical ability is unhammer-like on purpose: it slows hostile emotional momentum, blunting rage’s acceleration rather than striking bodies. Binding is testimonial: the bearer names the source event — a relic passed from one exile to another until its history became a wandering figure — and accepts the set’s limit: do not claim ownership; document its owners. The operational cost is the full passenger manifest: the wielder feels every exile carried by the weapon, each prior hand present in the grip, and continued use makes the sorrow feel autobiographical — a thousand displacements slowly filing themselves as the wielder’s own. The source-trace fixed the doctrine: the entity flows around aggression and returns it as force, and the weapon isolated the immediate hazard only after the team attributed it to the Relic — treating the response as the bearer’s own story reproduced the source wound and established the binding rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

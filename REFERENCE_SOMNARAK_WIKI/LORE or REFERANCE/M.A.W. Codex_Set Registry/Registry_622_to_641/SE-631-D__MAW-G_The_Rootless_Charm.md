@@ -27,6 +27,10 @@ A cool black steel charm rests at the Head slot, its root engraving never pointi
 | Binding cost | Spatial certainty depends on maintaining a chosen current anchor |
 | Corrosion risk | Moderate during evacuation or relocation |
 
+## Appearance
+
+The Rootless Charm is a cool black steel charm at the head slot whose root engraving never points down — a rootedness that refuses soil, oriented toward what the bearer holds to. Errant sometimes offers it after an accepted work cycle; it cannot be manufactured. Its function is the Consent Bearing: it prevents forced displacement and distinguishes chosen movement from external spatial confusion — it does not stop voluntary travel, and it does not guarantee that the current location is safe. The hidden condition is rigidity: used to resist every change, lost places overlap the present until the bearer cannot identify the ground under them, the protection against displacement inverted into permanent disorientation. In its recorded case the first bearer left the Borrowed Stall and met three doors in the corridor, each appearing as a prior home, beside one plain opening that led outside. The Gift blocked the Market pressure pushing her through the nearest door, but grief made all the remembered doors feel more authentic than the real one — until she was asked which opening contained a living companion. The plain exit steadied, and she crossed by choice. The engraving now points toward named people or purposes, never toward remembered architecture.
+
 ## EFFECT & HIDDEN CONDITION
 
 **Consent Bearing:** prevents forced displacement and distinguishes chosen movement from external spatial confusion. The Gift does not stop voluntary travel or guarantee that the current location is safe.

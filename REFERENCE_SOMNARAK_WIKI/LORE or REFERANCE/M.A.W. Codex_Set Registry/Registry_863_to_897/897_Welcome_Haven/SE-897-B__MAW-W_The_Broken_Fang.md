@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Welcome Haven's grudge signature in the strike.  
 **Binding rule:** the bearer names Welcome Haven's event—A border wall collapsed during an Outside Sorrow surge, leaving residents exposed.—and accepts this limit: Admit the wall failed; do not promise perfect protection
 
+## Appearance
+
+The Broken Fang of Welcome Haven’s set is a Grudge instrument attacking the Body by channeling the source’s grudge signature into the strike. Binding is testimonial: the bearer names the source event — a border wall collapsed during an Outside Sorrow surge, leaving residents exposed — and accepts the set’s limit: admit the wall failed; do not promise perfect protection. The operational cost is the Grudge standard: the wielder’s old wounds ache, prolonged use leaves faint bruising, and continued use makes the sorrow feel autobiographical — the breach replaying as if it had opened in the wielder’s own defenses. The source-trace fixed doctrine with a combat warning: the entity attacks with burning fragments — the failed wall’s own debris weaponized, protection turned projectile. The weapon witnesses the immediate hazard only after attribution to Welcome Haven; treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

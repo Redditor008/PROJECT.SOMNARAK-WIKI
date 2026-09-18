@@ -34,6 +34,10 @@ The Shroud formed from a blue halo echo after Candela’s wax face settled durin
 
 **Rejection rule:** If worn to avoid present joy because of imagined loss, the folds harden and the suit’s Lament resistance becomes normal.
 
+## Appearance
+
+The Melted Shroud is a deep-blue shroud whose folds continually soften and reset like wax under warm light. It stabilizes only after a present-care witness confirms the wearer is responding to evidence, not fear. In active use the cloth gathers possible grief into droplets that evaporate before reaching the floor. At full activation, the Shroud disperses one anticipatory grief spike and restores attention to immediate care. The wearer designates a witness empowered to ask whether an action is based on present evidence. Minor joys become numb after prolonged anticipation. Present-care witness can terminate use. The Shroud is aired in a current active room, not a prediction archive. If worn to avoid present joy because of imagined loss, the folds harden and the suit’s Lament resistance becomes normal. The witness opens the collar fold, names the present evidence, and removes the Shroud during shutdown. Its overload threshold is reached when folds harden into a fixed future face.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

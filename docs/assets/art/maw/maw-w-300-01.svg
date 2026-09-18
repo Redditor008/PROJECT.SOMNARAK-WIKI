@@ -1,32 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SECRET LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bg9f2821" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw300" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="100%" stop-color="#08090c"/>
     </radialGradient>
-    <radialGradient id="gl9f2821" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl300" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#475569"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg9f2821)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw300)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="131" fill="url(#gl9f2821)"/>
-  <g transform="rotate(-12 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="51.0" ry="73.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="42.0" ry="61.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="33.0" ry="51.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M232.8 136.1 L227.0 145.3" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M246.6 162.3 L238.4 167.2" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M251.0 194.5 L242.0 194.1" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M245.0 226.3 L237.1 220.6" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M230.0 251.1 L224.7 241.4" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="137.0" y="186.0" width="126.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="265.0" width="12" height="37.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- dark rectangular instrument frame, diagonal -->
+  <g transform="rotate(-20 200 200)">
+    <rect x="118" y="128" width="164" height="150" rx="12" fill="#111318" stroke="#94a3b8" stroke-width="2.8"/>
+    <rect x="126" y="136" width="148" height="134" rx="9" fill="none" stroke="#334155" stroke-width="1.6"/>
+    <!-- oversight-authority seal plate -->
+    <rect x="134" y="142" width="40" height="12" rx="2" fill="#0b0d10" stroke="#f1df76" stroke-width="1.4"/>
+    <path d="M139 148 L169 148" stroke="#f1df76" stroke-width="1.1"/>
+    <!-- LENS: clear outer glass, PERMANENTLY CLOUDED CENTER -->
+    <circle cx="200" cy="206" r="56" fill="url(#bl300)" fill-opacity=".2" stroke="#e2e8f0" stroke-width="2.6"/>
+    <circle cx="200" cy="206" r="24" fill="#475569"/>
+    <circle cx="200" cy="206" r="24" fill="none" stroke="#64748b" stroke-width="2"/>
+    <path d="M188 198 C 194 194, 204 194, 212 198 M186 210 C 194 206, 208 206, 214 212" fill="none" stroke="#94a3b8" stroke-width="1.6" opacity=".8"/>
+    <!-- the tethers it CAN see: three Void lines crossing the clear zone, avoiding the cloud -->
+    <path d="M152 172 C 168 180, 176 188, 180 196 M148 226 C 162 224, 172 222, 178 218 M236 250 C 230 240, 226 232, 224 226" fill="none" stroke="#e2e8f0" stroke-width="2"/>
+    <circle cx="152" cy="172" r="3" fill="#e2e8f0"/><circle cx="148" cy="226" r="3" fill="#e2e8f0"/><circle cx="236" cy="250" r="3" fill="#e2e8f0"/>
+    <!-- never-through-the-Lock: barred sight line into the cloud -->
+    <path d="M232 168 L214 188" stroke="#64748b" stroke-width="1.6" stroke-dasharray="3 4"/>
+    <path d="M210 182 L222 194" stroke="#ef4444" stroke-width="2.4"/>
+    <path d="M222 182 L210 194" stroke="#ef4444" stroke-width="2.4"/>
   </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-300-01</text>
+  <!-- THREE TETHER-PIERCING PRONGS off the frame head -->
+  <path d="M262 96 L302 60 M276 112 L322 78 M288 130 L338 100" stroke="#cbd5e1" stroke-width="3"/>
+  <path d="M302 60 L310 58 L306 66 Z M322 78 L330 76 L326 84 Z M338 100 L346 98 L342 106 Z" fill="#e2e8f0"/>
+  <path d="M268 90 L274 96 M284 106 L290 112" stroke="#475569" stroke-width="1.6"/>
+  <!-- handle grip below frame + chain to protected-secret tag -->
+  <path d="M148 292 L118 348" stroke="#1c2128" stroke-width="13" stroke-linecap="round"/>
+  <path d="M142 304 L128 298 M136 318 L122 312 M130 332 L116 326" stroke="#94a3b8" stroke-width="2.4"/>
+  <path d="M114 356 a6 6 0 1 0 .1 0" fill="#111318" stroke="#cbd5e1" stroke-width="2.2"/>
+  <path d="M112 366 C 108 370, 106 374, 107 379" fill="none" stroke="#64748b" stroke-width="1.6" stroke-dasharray="2 3"/>
+  <rect x="98" y="380" width="26" height="14" rx="2" fill="#0b0d10" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M103 387 L119 387" stroke="#f1df76" stroke-width="1.2"/>
 </svg>

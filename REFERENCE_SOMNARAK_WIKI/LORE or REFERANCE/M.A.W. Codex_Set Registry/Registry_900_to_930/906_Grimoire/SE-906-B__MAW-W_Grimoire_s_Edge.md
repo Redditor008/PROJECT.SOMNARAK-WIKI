@@ -19,6 +19,10 @@
 **Canonical ability:** Channels grudge tale sorrow in each strike — the weapon does not cut flesh so much as cut at the tale register of the target's grief.  
 **Binding rule:** the bearer names Grimoire's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Grimoire's Edge is the weapon record of the Grimoire set — β-grade, Grudge-aligned, striking at 11–16 Grudge in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels grudge tale sorrow: the blade does not cut flesh so much as the tale register of the target's grief, every strike a citation from a book that holds grievances instead of spells. Binding names Grimoire's event — Not recorded, a text whose first page is missing from itself — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a persistent low-grade headache with each use, the strain of reading in a hand that hates its reader. The source-trace fixed doctrine: the object gave no transcribable field response, and the Edge marks the hazard only after attribution to Grimoire. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

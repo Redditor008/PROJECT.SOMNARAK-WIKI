@@ -16,6 +16,10 @@
 
 A warm pale Han-glass Head pendant showing hairline fractures across deceptive statements. Cracked Mirror granted it after Euncris acknowledged an unflattering truth and looked away without demanding completion. Bestowal chance is 5%.
 
+## Appearance
+
+The Truth Lens pendant is a warm head-pendant of pale Han glass that shows hairline fractures across deceptive statements — lies crack visibly in its surface while honest speech passes unmarked. Cracked Mirror granted it after a worker acknowledged an unflattering truth and looked away without demanding completion; it cannot be manufactured. Its function reads deception, not people: it sees through lies and deliberate deception — in its recorded case exposing a forged containment clearance while staying silent when a survivor said “I’m fine” to end an unwanted conversation, intent and harm kept as separate questions. The cost is symmetrical: the bearer cannot lie convincingly. Every metaphor appearing deceptive is the literal fracture; truths announced without consent or purpose is truth aggression, disclosure used as punishment; and the Gift turned on vulnerable people for convenience is compelled honesty, destroying privacy and safe social boundaries. Care records detected statement, evidence, intent uncertainty, and actual harm separately — the Lens clears only while “unknown” remains an available answer. Emergency release stops the questioning, leaves direct-gaze range, and permits silence without treating it as deception.
+
 ## FUNCTION & COST
 
 **Grade / Element:** β / Void  

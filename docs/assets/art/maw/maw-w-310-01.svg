@@ -1,32 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE TRUTH LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bg9ea889" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw310" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="100%" stop-color="#08090c"/>
     </radialGradient>
-    <radialGradient id="gl9ea889" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl310" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#475569"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg9ea889)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw310)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="111" fill="url(#gl9ea889)"/>
-  <g transform="rotate(-3 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="52.0" ry="61.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="43.0" ry="49.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="34.0" ry="39.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M233.4 145.3 L227.6 154.5" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M247.5 167.2 L239.3 172.1" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M252.0 194.1 L243.0 193.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M245.9 220.6 L238.0 215.0" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M230.6 241.4 L225.3 231.6" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="136.0" y="186.0" width="128.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="253.0" width="12" height="37.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- pale disc, slight tilt, long side handle -->
+  <g transform="rotate(-10 210 168)">
+    <circle cx="210" cy="168" r="104" fill="url(#bl310)" fill-opacity=".2" stroke="#e2e8f0" stroke-width="3"/>
+    <circle cx="210" cy="168" r="96" fill="none" stroke="#475569" stroke-width="1.4"/>
+    <!-- THE FRACTURE LINE: jagged crack through the image, never through the person -->
+    <path d="M210 66 L202 96 L216 122 L200 152 L218 184 L202 214 L214 244 L208 270" fill="none" stroke="#e2e8f0" stroke-width="3"/>
+    <path d="M216 122 L228 118 M200 152 L188 150 M218 184 L230 186" stroke="#94a3b8" stroke-width="1.4"/>
+    <!-- LEFT OF CRACK: the forged claim — a stamped seal drawn in confident solid lines -->
+    <rect x="136" y="128" width="52" height="38" rx="4" fill="none" stroke="#cbd5e1" stroke-width="2.2"/>
+    <path d="M142 140 L182 140 M142 150 L174 150 M142 158 L178 158" stroke="#94a3b8" stroke-width="1.6"/>
+    <circle cx="176" cy="134" r="5" fill="none" stroke="#ef4444" stroke-width="1.8"/>
+    <path d="M144 186 L188 186 M148 196 L180 196" stroke="#64748b" stroke-width="1.4" stroke-dasharray="5 3"/>
+    <!-- RIGHT OF CRACK: the fact — same document, hazard marks where the forgery hides -->
+    <rect x="232" y="128" width="52" height="38" rx="4" fill="none" stroke="#cbd5e1" stroke-width="2.2"/>
+    <path d="M238 140 L278 140 M238 150 L270 150" stroke="#94a3b8" stroke-width="1.6"/>
+    <path d="M238 158 L250 158" stroke="#94a3b8" stroke-width="1.6"/>
+    <path d="M254 154 L266 162 M266 154 L254 162" stroke="#ef4444" stroke-width="2"/>
+    <path d="M238 186 L266 186 L262 196 L242 196 Z" fill="none" stroke="#64748b" stroke-width="1.4"/>
+    <!-- what it must NOT touch: privacy, courtesy, masks — small veils left intact at the rim -->
+    <path d="M150 224 C 156 218, 164 216, 172 218 M164 232 C 168 228, 174 227, 179 229" fill="none" stroke="#475569" stroke-width="1.4" opacity=".8"/>
+    <path d="M252 226 C 258 222, 266 222, 272 226" fill="none" stroke="#475569" stroke-width="1.4" opacity=".8"/>
+    <circle cx="262" cy="234" r="3" fill="none" stroke="#475569" stroke-width="1.2" opacity=".7"/>
   </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-310-01</text>
+  <!-- crack-light glint at the source point -->
+  <path d="M208 60 L204 46 M216 62 L226 50 M200 62 L190 52" stroke="#f1df76" stroke-width="1.8" opacity=".85"/>
+  <!-- handle: discrimination checklist ticked down the grip -->
+  <path d="M262 262 L308 344" stroke="#1c2128" stroke-width="13" stroke-linecap="round"/>
+  <path d="M270 278 L284 270 M278 292 L292 284 M286 306 L300 298 M294 320 L308 312" stroke="#94a3b8" stroke-width="2.2"/>
+  <path d="M272 274 L276 278 L282 268" fill="none" stroke="#4ade80" stroke-width="1.6"/>
+  <path d="M280 288 L284 292 L290 282" fill="none" stroke="#4ade80" stroke-width="1.6"/>
+  <path d="M314 352 a7 7 0 1 0 .1 0" fill="#111318" stroke="#cbd5e1" stroke-width="2.4"/>
+  <!-- attrition: one nameless memory mote drifting off -->
+  <circle cx="330" cy="330" r="2.6" fill="none" stroke="#64748b" stroke-width="1.3" stroke-dasharray="2 3" opacity=".7"/>
 </svg>

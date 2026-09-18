@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Survivors' Breath's void signature in the strike.  
 **Binding rule:** the bearer names Survivors' Breath's event—Citizens sighed after repeated crises until the collective breath became a wandering presence.—and accepts this limit: Permit rest; do not force personnel to continue working through it
 
+## Appearance
+
+The Resting Lens is the weapon record of Survivors’ Breath’s set, a Void instrument attacking the Soul by channeling the source’s void signature into the strike. Binding is testimonial: the bearer names the source event — citizens sighed after repeated crises until the collective breath became a wandering presence — and accepts the set’s limit: permit rest; do not force personnel to continue working through it. The operational cost is the Void standard: the wielder loses small, nameless memories with each use, and continued use makes the sorrow feel autobiographical — the city’s accumulated exhalation settling into the wielder’s own chest. The source-trace fixed doctrine with a physical warning: provoked, the breath becomes a harsh wind and spreads through the halls — the collective sigh turned gale, indoors. The weapon opens the immediate hazard only after attribution to Survivors’ Breath; treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

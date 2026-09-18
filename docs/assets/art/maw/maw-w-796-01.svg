@@ -1,32 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE TOWER REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bgefe3eb" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bg796" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="glefe3eb" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
+    <radialGradient id="gl796" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#1d4ed8" stop-opacity=".20"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="pipe796" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="50%" stop-color="#94a3b8"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgefe3eb)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg796)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="133" fill="url(#glefe3eb)"/>
-  <g transform="rotate(3 200.0 192.0)">
-<path d="M186.0 192.0 L194.12 77.52000000000001 L200.0 33.0 L205.88 87.05999999999999 L214.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 33.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="193.0" y="99.8" width="14.0" height="66.8" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="176.0" y="187.0" width="48.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="44.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="252.0" r="6.0" fill="#3e8bd5" fill-opacity=".7"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gl796)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- TOWER REQUIEM: organ pipe — the Spire's song carried, not silenced -->
+  <!-- pipe body vertical, tall -->
+  <path d="M174 32 L 226 32 L 226 292 C 226 302, 174 302, 174 292 Z" fill="url(#pipe796)" stroke="#38bdf8" stroke-width="2.4"/>
+  <!-- pipe mouth / lip -->
+  <path d="M174 210 L 226 210 L 218 228 L 182 228 Z" fill="#0f172a" stroke="#38bdf8" stroke-width="1.6"/>
+  <ellipse cx="200" cy="210" rx="26" ry="6" fill="#020617"/>
+  <path d="M182 228 L 182 236 L 218 236 L 218 228" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <!-- spiral song inside the pipe: the hymn rehearsing itself -->
+  <path d="M200 48 C 210 56, 214 72, 210 84 C 206 96, 194 104, 194 116 C 194 128, 206 136, 210 148 C 214 160, 210 176, 200 184" fill="none" stroke="#7dd3fc" stroke-width="1.6" opacity=".9"/>
+  <path d="M200 84 C 204 86, 206 90, 204 94" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".7"/>
+  <path d="M200 148 C 204 150, 206 154, 204 158" fill="none" stroke="#e0f2fe" stroke-width="1" opacity=".7"/>
+  <g fill="#7dd3fc" opacity=".85">
+    <circle cx="210" cy="62" r="1.6"/><circle cx="212" cy="78" r="1.3"/><circle cx="206" cy="94" r="1.4"/>
+    <circle cx="198" cy="112" r="1.3"/><circle cx="210" cy="132" r="1.5"/><circle cx="212" cy="154" r="1.4"/><circle cx="204" cy="174" r="1.2"/>
   </g>
-  <g transform="rotate(0 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  <!-- wave-eroded base: Han surge swallowing the lower spire -->
+  <path d="M174 272 C 184 274, 196 276, 200 282 C 204 276, 216 274, 226 272 L 226 292 C 226 302, 174 302, 174 292 Z" fill="#1e3a5f" stroke="#38bdf8" stroke-width="1.2"/>
+  <g fill="none" stroke="#7dd3fc" stroke-width="1" opacity=".5">
+    <path d="M176 278 C 186 276, 194 280, 200 278 C 206 280, 214 276, 224 278"/>
+    <path d="M178 286 C 188 284, 196 288, 200 286 C 204 288, 212 284, 222 286"/>
   </g>
-  <g transform="rotate(-12 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-796-01</text>
+  <circle cx="188" cy="284" r="1.2" fill="#7dd3fc" opacity=".6"/>
+  <circle cx="212" cy="284" r="1.2" fill="#7dd3fc" opacity=".6"/>
+  <!-- pipe toe / foot -->
+  <path d="M188 302 L 188 324 L 212 324 L 212 302 Z" fill="#0f172a" stroke="#38bdf8" stroke-width="1.4"/>
+  <circle cx="200" cy="328" r="6" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
+  <circle cx="200" cy="328" r="2" fill="#334155"/>
+  <!-- listening mark: ear, not mouth — do not silence -->
+  <path d="M182 44 C 180 40, 184 36, 188 40 C 190 42, 188 46, 186 46" fill="none" stroke="#94a3b8" stroke-width="1" opacity=".6"/>
+  <text x="190" y="42" fill="#64748b" font-family="monospace" font-size="5">LISTEN</text>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#38bdf8">MAW-W-796-01</text>
 </svg>

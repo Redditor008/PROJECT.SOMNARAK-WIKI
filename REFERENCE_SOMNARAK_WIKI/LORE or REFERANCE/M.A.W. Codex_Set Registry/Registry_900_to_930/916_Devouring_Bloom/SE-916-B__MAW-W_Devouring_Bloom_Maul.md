@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Devouring Bloom's weight signature in the strike.  
 **Binding rule:** the bearer names Devouring Bloom's event—Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading.—and accepts this limit: Witness the memories and prevent unauthorized petal collection
 
+## Appearance
+
+The Devouring Bloom Maul is the weapon record of the Devouring Bloom set — δ-grade, Weight-aligned, striking at 10–15 Weight at fast speed and medium range in a pierce pattern, 100% to the primary and 70% and 50% behind, two uses at 50 Sorrow Echoes each — and its canonical ability deals Weight damage against the Han, sorrow reserves and karmic debt, channeling the Bloom's weight signature. Binding names the source event — tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading — and accepts the set's limit: witness the memories and prevent unauthorized petal collection. The cost accumulates: the wielder feels progressively heavier, and prolonged use ages them slightly. The source-trace fixed doctrine: as an Object/Place source the Bloom cannot be confronted through Pugnahan, and the Maul uncouples the hazard only after attribution to Devouring Bloom. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

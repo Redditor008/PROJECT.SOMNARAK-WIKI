@@ -21,6 +21,10 @@ The Mantle forms from the shadow of a record-layer Walking Calendar releases aft
 
 Iseulfros wore it through a collapsing deep-storage aisle. The cloth identified a recent cosmetic brace as newer than the failing stone behind it, allowing evacuation before collapse. For two days afterward, every tool she touched arrived with the sensation of all previous hands that had used it.
 
+## Appearance
+
+The Years Mantle is a draped black Han-weave garment that smells of dust and wet stone. Its hem carries tiny date marks that rearrange themselves according to the age of each surface the cloth touches, and the authentic garment always keeps the current year’s mark nearest the wearer’s hand. It forms from the shadow of a record-layer that Walking Calendar releases after honest archival work, and it binds to a wearer who can distinguish responsibility from inherited personal guilt. Worn under Weight pressure, the cloth separates the pressure into historical layers so that centuries do not land on the body at once, and the wearer gains the ability to read the age and repair sequence of any material they touch. The cost follows them out of the archive: every contact delivers age as sensation, and prolonged wear makes present objects and living people feel like artifacts already archived. It is maintained by hanging it in the current archive room — never deep storage — and touching each hem mark with an object made this year until the current date returns to the hand. Removal is by a partner’s three present-tense questions, lifted from the newest layer outward.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

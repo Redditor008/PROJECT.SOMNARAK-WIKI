@@ -19,6 +19,10 @@
 **Canonical ability:** Protects against emotional surges.  
 **Binding rule:** the bearer names Seething Tundra's event—A mourner tried to preserve a final tear as a memorial; the tear hardened around their anger.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Frozen Fragment is the gift record of Seething Tundra’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is insulation: it protects against emotional surges, the hardened tear lending its calm to a bearer standing in weather it knows too well. Binding names the source event — a mourner tried to preserve a final tear as a memorial, and the tear hardened around their anger — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is the insulation’s spread: the wearer becomes emotionally cold and distant, the protection refusing to stay professional, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the memory embedded in its surface — the mourning that the preservation attempt froze mid-motion — and it redirected the immediate hazard only after attribution to Seething Tundra. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  

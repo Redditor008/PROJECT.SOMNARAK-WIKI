@@ -1,25 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FROZEN FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg0ce6cf" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw643" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl0ce6cf" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl643" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg0ce6cf)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw643)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="114" fill="url(#gl0ce6cf)"/>
-  <g transform="rotate(7 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 113.89999999999999, 228.0 50.0 234.0 50.0 C224.0 118.16, 220.0 143.72, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 126.67999999999999, 226.0 58.0 231.0 56.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="55.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="259.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- HARD-ANGLED FROZEN FANG: no smooth curves — straight facet segments like fractured ice, angling up-right -->
+  <path d="M142 322 L130 310 L172 282 L160 270 L212 232 L198 218 L252 176 L240 162 L296 118 L318 138 L272 182 L284 196 L232 240 L246 256 L196 296 L208 310 L158 336 Z"
+        fill="url(#bl643)" stroke="#ef4444" stroke-width="2.8"/>
+  <!-- faceted spine highlights: each segment its own plane -->
+  <path d="M138 314 L170 292 M168 276 L208 246 M206 226 L248 192 M246 170 L296 130" stroke="#ffe4e6" stroke-width="2"/>
+  <path d="M154 330 L200 302 M242 250 L280 190" stroke="#4c0d13" stroke-width="1.8" opacity=".8"/>
+  <!-- facet junctions: hard stop bars at every angle break -->
+  <path d="M164 286 L176 276 M204 236 L216 226 M244 180 L256 170" stroke="#7dd3fc" stroke-width="2.2"/>
+  <!-- THE ARRESTED FLARE beneath the mid-facet: burst frozen mid-explosion under a glassy layer -->
+  <g opacity=".95">
+    <circle cx="222" cy="238" r="4.6" fill="#fef3c7"/>
+    <path d="M222 227 L222 218 M222 249 L222 258 M211 238 L202 238 M233 238 L242 238" stroke="#fde68a" stroke-width="2.2"/>
+    <path d="M214 230 L207 223 M230 230 L237 223 M214 246 L207 253 M230 246 L237 253" stroke="#fbbf24" stroke-width="1.8"/>
+    <path d="M219 215 L225 215 M219 261 L225 261 M199 235 L199 241 M245 235 L245 241" stroke="#7dd3fc" stroke-width="2"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-643-01</text>
+  <ellipse cx="222" cy="238" rx="32" ry="25" fill="none" stroke="#fca5a5" stroke-width="1.2" stroke-dasharray="2 4" opacity=".7"/>
+  <!-- frost films on the lower facets -->
+  <path d="M176 300 L188 304 M182 292 L194 296 M256 196 L268 188" stroke="#7dd3fc" stroke-width="1.3" opacity=".7"/>
+  <!-- THREE DECLARATIONS: anger / owner / target as three separate sealed tags, never one accusation -->
+  <rect x="256" y="238" width="26" height="12" rx="2" transform="rotate(14 269 244)" fill="#0d0507" stroke="#f1df76" stroke-width="1.4"/>
+  <rect x="272" y="258" width="26" height="12" rx="2" transform="rotate(14 285 264)" fill="#0d0507" stroke="#fca5a5" stroke-width="1.4"/>
+  <rect x="288" y="278" width="26" height="12" rx="2" transform="rotate(14 301 284)" fill="#0d0507" stroke="#7dd3fc" stroke-width="1.4"/>
+  <path d="M262 244 L276 248 M278 264 L292 268 M294 284 L308 288" stroke="#64748b" stroke-width="1.1"/>
+  <!-- assumption warning: mirror-gaze oval crossed out -->
+  <ellipse cx="160" cy="216" rx="12" ry="16" fill="none" stroke="#64748b" stroke-width="1.6"/>
+  <path d="M152 206 L168 226" stroke="#7f1d1d" stroke-width="2"/>
+  <!-- angular guard + grip -->
+  <path d="M116 322 L162 344" stroke="#4c0d13" stroke-width="9" stroke-linecap="round"/>
+  <path d="M140 348 L118 388" stroke="#4c0d13" stroke-width="11" stroke-linecap="round"/>
+  <path d="M138 356 L128 352 M134 368 L124 364 M130 380 L120 376" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M114 396 a6 6 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.2"/>
 </svg>

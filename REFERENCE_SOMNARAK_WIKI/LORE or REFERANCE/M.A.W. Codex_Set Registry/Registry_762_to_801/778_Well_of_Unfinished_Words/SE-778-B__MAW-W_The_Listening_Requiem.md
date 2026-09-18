@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Well of Unfinished Words's lament signature in the strike.  
 **Binding rule:** the bearer names Well of Unfinished Words's event—Border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. Their words sank into the ground.—and accepts this limit: Allow testimony to finish; do not drain the Well
 
+## Appearance
+
+The Listening Requiem is the weapon record of the Well of Unfinished Words’ set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names the source event — border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish, and their words sank into the ground — and accepts the set’s limit: allow testimony to finish; do not drain the Well. The operational cost is the Lament standard: the wielder feels the entity’s unwept grief, prolonged use causes involuntary weeping, and continued use makes the sorrow feel autobiographical — the interrupted eulogies misfiling themselves among the wielder’s own unsaid words. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan at all — the weapon stabilizes the immediate hazard only after the team attributes it to the Well, and treating the response as the bearer’s own story reproduced the source wound and established the binding rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

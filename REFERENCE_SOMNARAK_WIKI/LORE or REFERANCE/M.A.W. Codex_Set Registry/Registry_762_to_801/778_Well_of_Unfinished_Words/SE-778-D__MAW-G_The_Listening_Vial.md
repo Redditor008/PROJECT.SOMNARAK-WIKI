@@ -19,6 +19,10 @@
 **Canonical ability:** Preserves one spoken testimony without interruption.  
 **Binding rule:** the bearer names Well of Unfinished Words's event—Border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. Their words sank into the ground.—and accepts this limit: Allow testimony to finish; do not drain the Well
 
+## Appearance
+
+The Listening Vial is the gift record of the Well of Unfinished Words’ set — tail- slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its ability answers the source wound: it preserves one spoken testimony without interruption, one account carried whole from speaker to record — what the dispersed mourners were never granted. Binding names the source event — border mourners gathered to speak of the dead but were dispersed before anyone finished, their words sinking into the ground — and accepts the set’s limit: allow testimony to finish; do not drain the Well. The cost shadows the ability: the wearer hears the testimony whenever the vial is closed, the words replaying against the stopper, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the grief embedded in the water, uncoupling the immediate hazard only after attribution to the Well — treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 5%  

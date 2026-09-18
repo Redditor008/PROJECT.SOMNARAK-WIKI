@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Shard of a Broken Promise's kind of pressure.  
 **Binding rule:** the bearer names Shard of a Broken Promise's event—An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Promise Shroud is the suit record of the Shard of a Broken Promise’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a vow that outlived its keeping. Binding is testimonial: the wearer names the source event — an artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived — and accepts the registry’s limit: the entity- specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is numbness to minor joys, and continued use makes the sorrow feel autobiographical — the broken vow quietly countersigned in the wearer’s name. The source-trace set the doctrine: the suit tests whether the worker can remain without repairing it — presence held beside a failure that must be witnessed, not fixed — repair would deny the breaking — and it redirected the immediate hazard only after attribution to the Shard. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

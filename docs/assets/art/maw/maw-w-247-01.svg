@@ -1,26 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="UNOPENED BLOOM SWORD">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bgbdbfad" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw247" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#230a0e"/>
+      <stop offset="100%" stop-color="#0c0405"/>
     </radialGradient>
-    <radialGradient id="glbdbfad" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl247" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fda4af"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgbdbfad)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw247)" stroke="#dc2626" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="108" fill="url(#glbdbfad)"/>
-  <g transform="rotate(10 200.0 192.0)">
-<path d="M188.0 192.0 L194.96 71.76 L200.0 25.0 L205.04 81.78 L212.0 192.0 Z" fill="#d64a4a" fill-opacity=".24" stroke="#d64a4a" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 25.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="194.0" y="95.1" width="12.0" height="70.1" fill="none" stroke="#d64a4a" stroke-width="1" opacity=".45"/>
-<rect x="178.0" y="187.0" width="44.0" height="10" rx="4" fill="#d64a4a" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="40.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="248.0" r="6.0" fill="#d64a4a" fill-opacity=".7"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-247-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0405" stroke="#dc2626" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#dc2626" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- the blade: a single closed petal — swollen convex flat, tapering to a soft point -->
+  <path d="M170 330 C 148 296, 140 250, 152 204 C 162 164, 186 128, 220 102 C 240 86, 260 78, 276 78 C 284 92, 284 114, 276 138 C 264 176, 240 212, 210 242 C 196 256, 184 272, 176 290 Z"
+        fill="url(#bl247)" stroke="#dc2626" stroke-width="2.8"/>
+  <!-- petal surface: soft curving veins like a closed bud -->
+  <path d="M180 310 C 166 274, 164 234, 176 194 C 186 160, 206 128, 234 104" fill="none" stroke="#450a0a" stroke-width="2.2"/>
+  <path d="M196 300 C 186 268, 186 232, 198 198 C 208 168, 226 140, 250 118" fill="none" stroke="#7f1d1d" stroke-width="1.8" opacity=".9"/>
+  <path d="M210 288 C 204 262, 206 232, 216 204" fill="none" stroke="#450a0a" stroke-width="1.4" opacity=".8"/>
+  <!-- petal sheen -->
+  <path d="M172 260 C 172 226, 182 192, 200 162" fill="none" stroke="#fda4af" stroke-width="1.6" opacity=".8"/>
+  <!-- THE ONE PERMANENT SPLIT: the single wound running the petal's length — this is the edge -->
+  <path d="M186 318 C 178 278, 180 234, 194 196 C 206 164, 226 134, 254 110" fill="none" stroke="#fecaca" stroke-width="2.6"/>
+  <path d="M186 318 C 178 278, 180 234, 194 196" fill="none" stroke="#fff1f2" stroke-width="1" opacity=".8"/>
+  <!-- heat along the split: warm glow bleeding from the wound -->
+  <path d="M190 300 C 186 272, 188 240, 198 210" fill="none" stroke="#fb923c" stroke-width="4" opacity=".28"/>
+  <path d="M204 186 C 214 160, 230 136, 252 116" fill="none" stroke="#fb923c" stroke-width="4" opacity=".22"/>
+  <!-- the two faces marked: healing flat (soft cross) and harming edge (pressure ticks) -->
+  <path d="M222 210 L234 210 M228 204 L228 216" stroke="#fda4af" stroke-width="2"/>
+  <path d="M184 246 L176 242 M188 226 L180 222 M194 208 L186 204" stroke="#dc2626" stroke-width="1.8"/>
+  <!-- sepal guard: tight calyx leaves clasping the petal base -->
+  <path d="M168 328 C 158 322, 152 312, 152 302 L168 308 Z M188 340 C 196 334, 200 326, 200 318 L186 324 Z"
+        fill="#230a0e" stroke="#dc2626" stroke-width="2"/>
+  <path d="M172 336 C 168 330, 166 324, 168 318" fill="none" stroke="#4ade80" stroke-width="2"/>
+  <!-- stem grip: smooth, thornless (touch renounced) with the no-contact band -->
+  <path d="M178 342 L166 388" stroke="#2b0c0c" stroke-width="10" stroke-linecap="round"/>
+  <path d="M176 352 L184 354 M173 364 L181 366" stroke="#dc2626" stroke-width="2"/>
+  <path d="M170 376 L182 378" stroke="#f1df76" stroke-width="2.6"/>
+  <path d="M160 394 a6 6 0 1 0 .1 0" fill="#230a0e" stroke="#fda4af" stroke-width="2.2"/>
 </svg>

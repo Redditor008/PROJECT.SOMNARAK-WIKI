@@ -19,6 +19,10 @@
 **Canonical ability:** Prevents one object's history from fading.  
 **Binding rule:** the bearer names Flotsam's event—A household relic passed through generations until no one remembered its purpose; its history began to burn away.—and accepts this limit: Name the owners and purpose; do not force preservation
 
+## Appearance
+
+The Fading Ember is the gift record of Flotsam’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability answers the source wound directly: it prevents one object’s history from fading, a single provenance held against the burn. Binding names Flotsam’s event — a household relic passed through generations until no one remembered its purpose, and its history began to burn away — and accepts the set’s limit: name the owners and purpose; do not force preservation. The operational cost is the ability’s full invoice: the wearer feels the object’s entire chain of owners, every hand arriving with the preservation, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift shows the relic’s fading history — the record legible even as it burns — and it contained the immediate hazard only after attribution to Flotsam. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 5%  

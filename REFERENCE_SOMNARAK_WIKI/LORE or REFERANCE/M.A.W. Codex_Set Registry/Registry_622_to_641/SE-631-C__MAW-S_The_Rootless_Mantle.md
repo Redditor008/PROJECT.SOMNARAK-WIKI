@@ -30,6 +30,10 @@ The Mantle formed around a resident who stayed in the opened stall by choice whi
 | Binding cost | Rest becomes difficult unless the anchor is reaffirmed |
 | Corrosion risk | Moderate; severe after duration expires |
 
+## Appearance
+
+The Rootless Mantle is a cold black mantle of Han weave with pale root threads that stop before the hem touches the ground — reaching arrested in the weave. It shifts with the wearer and grows heavier whenever someone names the shelter as destiny. Binding requires a current anchor defined by people, task, and duration — who, what for, and until when. It formed around a resident who stayed in the opened stall by choice while others departed. In the field, its Present Shelter distributes displacement Weight, keeping the wearer oriented to a chosen people-and-purpose anchor. The overload begins when the stated duration expires: root threads seek floor cracks, and remaining suited turns temporary shelter into a claim while dulling the wearer’s ability to choose departure. In its recorded case a resident wore it until the Market closing bell, then stayed because the cloth felt safer than another move — root threads entered the threshold and made every exit look like a former home. The choice was reopened, the companion waiting outside was named, and when she chose departure the threads withdrew. The hem darkens when an expired anchor is being renewed by fear rather than consent.
+
 ## PROTECTIVE FUNCTION
 
 **Present Shelter:** distributes Weight from spatial confusion and displacement pressure, allowing the wearer to remain oriented to a chosen people-and-purpose anchor.

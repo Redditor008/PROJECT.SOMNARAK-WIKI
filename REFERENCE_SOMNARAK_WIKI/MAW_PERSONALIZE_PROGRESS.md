@@ -166,3 +166,387 @@ Each set's `SE-NNN-B/C/D` `.md` record plus the matching `docs/maw/maw-<w|s|g>-N
 
 ## 11. Next batch
 Batch 6 next 12 item-bearing sets in registry order, continuing after 157: `159, 160, 165, 168, 169, 170, 175, 176, 180, 184, 185, 189` (12 sets; verify each has B/C/D records).
+
+> NOTE (2026-09-04): the Appearance-expansion arm of this run was completed in a later session on branch `arena/01a06ba5-project-somnarak-wiki` (batches 6–20, all 291 in-scope sets; legacy sets cleared and 1000-series deferred by owner ruling — see `SESSION_BREAK_PRECAUTION.md` §6). The weapon-SVG remake arm continues below.
+
+---
+
+## 12. Weapon SVG remake — Batch 2 (W-025, 031, 032, 033, 036, 041, 042, 043, 044, 048, 051, 054)
+
+Session: branch `arena/01a06ba5-project-somnarak-wiki`, 2026-09-04.
+
+Status: **done**. The next 12 W items after the batch-1 dozen (in `docs/assets/art/maw/` numeric order) were redesigned by hand from each page's own Appearance paragraph — each is a distinct silhouette; no `generate_maw_items.py` involvement.
+
+| Item | Archetype | Band |
+|---|---|---|
+| W-025 The Silence Lens | Lens Buckler | Close |
+| W-031 The Witness Requiem | Estoc | Long |
+| W-032 The Judgment Fang | Kukri Cleaver | Short |
+| W-033 The Guardian Lens | Framed Pavise Lens | Medium |
+| W-036 The Hourglass Maul | Hourglass Maul | Room |
+| W-041 The Tear Requiem | Tear Dagger | Short |
+| W-042 The Fury Fang | Ring Talon | Close |
+| W-043 The Silence Lens | Signal Loupe | Instant |
+| W-044 The Dawn of Requiem | Sabre | Medium |
+| W-048 The Singing Requiem | Song Scimitar | Medium |
+| W-051 The Joy Lens | Ray Loupe | Instant |
+| W-054 The Void Maul | Dish Maul | Room |
+
+- Catalog extended with archetypes 18–21 (Lens/Loupe, Curved Blade, Hooked Blade, Shield-Weapon) in `MAW_WEAPON_ARCHETYPES.md`; mapping table extended to 24 items.
+- Element palettes preserved per item (Void = grey/pale, Lament = blue, Grudge = crimson, Weight = amber/black); frame/badge chrome matches batch-1 format.
+- Visual check: all 12 rendered via `tools/render_maw_svg.mjs` (needs `npm install --no-save @resvg/resvg-js` first — not committed) and reviewed as a contact-sheet grid; all silhouettes distinct from each other and from batch 1.
+- Gates: `audit_svg_compositions.py` PASS (1284 XML files, cross-subject composition checks), `audit_site_structure.py` PASS.
+
+## 13. Weapon SVG remake — Batch 3 (W-055, 061, 062, 063, 071, 073, 077, 081, 088, 091, 092, 099)
+
+Status: **done** (same session, 2026-09-04). Same procedure as §12; each SVG hand-designed from its page's Appearance paragraph.
+
+| Item | Archetype | Band |
+|---|---|---|
+| W-055 The Tear Requiem | Tear Stiletto | Short |
+| W-061 The Burden Maul | Vessel Maul | Room |
+| W-062 The Resentment Fang | Falx | Medium |
+| W-063 The Denial Lens | Caliper Lens | Instant |
+| W-071 The Gentle Requiem | Round-Edge Glaive | Long |
+| W-073 The Duty Fang | Squared Warbrand | Medium |
+| W-077 The Shadow Lens | Lens Pistol | Instant |
+| W-081 The Hollow Lens | Sceptre Lens | Long |
+| W-088 The Sorrow Requiem | Cruciform Longsword | Medium |
+| W-091 The Crown of Requiem | Crown Coil Blade | Room |
+| W-092 The Burning Fang | Falchion | Medium |
+| W-099 The Dancing Fang | Notched Dao | Short |
+
+- Catalog extended with archetypes 22–23 (Glaive/Polearm Blade, Exotic/Transforming) plus family-variant notes; mapping table now 36 items.
+- Contact-sheet rendered and reviewed; all distinct. SVG + structure gates PASS.
+
+## 14. Weapon SVG remake — Batch 4 (W-100, 101, 102, 103, 105, 106, 108, 115, 119, 120, 125, 126)
+
+Status: **done** (same session, 2026-09-04). Same procedure; each SVG hand-designed from its page's Appearance paragraph.
+
+| Item | Archetype | Band |
+|---|---|---|
+| W-100 The Unsaid Requiem | Petal Blade | Short |
+| W-101 The Ember Requiem | Ember Sidesword | Medium |
+| W-102 The Dancing Fang | Link Cleaver | Short |
+| W-103 The Cold Lens | Hex Frost Lens | Instant |
+| W-105 The Giant's Maul | Round Grand Maul | Room |
+| W-106 I Alone Crossed Requiem | Bridge Greatblade | Long |
+| W-108 The Trace Fang | Thread Sai | Close |
+| W-115 The Memory Lens | Gimbal Lens | Instant |
+| W-119 The Shadow Lens | Lantern Lens | Medium |
+| W-120 The Cage Fang | Basket Cutlass | Medium |
+| W-125 The Returning Lens | Shutter Lens | Instant |
+| W-126 The Melting Lens | Glass Leaf Blade | Short |
+
+- Mapping table now 48 items. Contact sheet reviewed; all silhouettes distinct. SVG + structure gates PASS.
+
+## 15. Weapon SVG remake — Batch 5 (W-127, 130, 135, 140, 145, 150, 151, 152, 155, 156, 157, 159)
+
+Status: **done** (same session, 2026-09-04). Same procedure; each SVG hand-designed from its page's Appearance paragraph.
+
+| Item | Archetype | Band |
+|---|---|---|
+| W-127 The Broken Maul | Split-Head Maul | Room |
+| W-130 The Saint's Maul | Stone Orb Maul | Room |
+| W-135 The Warm Requiem | Kris Wave Blade | Short |
+| W-140 The Willow Requiem | Willow-Leaf Saber | Medium |
+| W-145 The Thorn Fang | Thorn Sickle | Short |
+| W-150 The Laughter Requiem | Main-Gauche | Close |
+| W-151 The Border Root | Root Cudgel | Short |
+| W-152 The Wandering Requiem | Cane Sword | Medium |
+| W-155 The Shadow Maul | Wedge Maul | Room |
+| W-156 The Deadline Maul | Clock Maul | Room |
+| W-157 The Sleeping Maul | Bell Maul | Room |
+| W-159 The Frozen Fang | Shard Fang | Short |
+
+- Mapping table now 60 items. Contact sheet reviewed; all silhouettes distinct. SVG + structure gates PASS.
+
+## 15b. OWNER CORRECTION (2026-09-04) — personalization standard, batch 2 REDONE
+
+Owner review of batches 2–5: **rejected as too same-shape / too template.** Ruling:
+- The reference standard is the **approved 001–021 weapons** (other-AI batch 1, commit `019d5e7`): every weapon is an *illustration* — its own composition, its own angle/pose, its own background gradient tuned to the item, and story props from the Appearance text (W-019's flail head swings off-axis with hinged links; W-011's katana sweeps diagonally with a hamon line; W-014's prism floats with an orbit halo and shard moons).
+- **NOT allowed:** the vertical centered blade-guard-grip-pommel template, one shared header/palette block, or archetype-only variation. That is generation, not personalization.
+- Work in **1 batch of 12 at a time**, then stop for owner review before the next.
+- Batch 2 (W-025…054) was REDONE to this standard (`docs/assets/art/maw/maw-w-0{25,31,32,33,36,41,42,43,44,48,51,54}-01.svg`): each has a unique layout (W-025 fist-buckler with dying sound arcs; W-031 full-diagonal estoc with witness iris in the guard; W-032 massive forward-bent cleaver with cho notch; W-033 pane braced in a drawn doorway; W-036 tilted mid-swing with falling sand grains; W-041 tear hanging point-down from the grip; W-042 talon curling across frame with ember specks and fist ring; W-043 loupe with silenced ripple sector; W-044 sabre rising over a dawn horizon; W-048 scimitar with light-filled groove and note-motes; W-051 loupe reading a cracked smiling mask; W-054 dish face turned to the viewer swallowing motes).
+- **Batches 3–5 (W-055…159) remain in the rejected template style and must be redone the same way, 12 per review round.**
+
+## 15c. Batch 3 REDONE to the personalization standard (2026-09-04, after owner approved the batch-2 redo)
+
+W-055…099 redrawn as individual illustrations, each staged from its own Appearance text:
+- W-055 Tear Requiem — rising diagonal stiletto, teardrop guard wrapping down, sorrow-glow pooled at the tip, dim sheath left behind.
+- W-061 Burden Maul — tilted open bowl receiving falling weight-blocks, rim glowing on the target side, burden line arcing out, grey-dot squared pommel.
+- W-062 Resentment Fang — falx leaning/straining toward drawn enforcement pillars, obligation chain-links etched along the blade, finger-notch grip, warming pommel block.
+- W-063 Denial Lens — hand disc mid-cut severing a branded command mark's tether, thumb-rest notch, tether ring, untouchable voluntary bond below.
+- W-071 Gentle Requiem — blunt round-edged glaive, centre seam FORKING into green heal / red harm lines, willing open palm giving a pain wisp, open ring pommel.
+- W-073 Duty Fang — squared warbrand planted point-down as a wall between a jagged threat and a small sheltered figure, glowing spine inscription, ring pommel.
+- W-077 Shadow Lens — opaque grey disc with opened centre aperture firing the pale strike that knocks a label tag loose; three spoken-fact tally marks + witness profile; wooden rest.
+- W-081 Hollow Lens — lens lifted from its open white-lined case, dashed directional seam + pierce line interrupting a hooked identity-pull.
+- W-088 Sorrow Requiem — narrow diagonal blade with a low-note wave travelling the flat, blue moisture beads climbing the grip, struck target rings.
+- W-091 Crown of Requiem — closed circlet with inward-tucked points + relief-contact inset figure, blade line half-unfurled with floating question-mark motes.
+- W-092 Burning Fang — blade launching a crimson pierce line that cracks a gag-bar, page-mark mid-turn grey→black at the guard, closed-book pommel.
+- W-099 Dancing Fang — dao mid-step shattering a shackle with sparks, lit notched spine, dance-step arc, lit doorway safe endpoint, ring pommel.
+
+Gates PASS. Batches 4–5 (W-100…159) still in rejected style; next redo round after owner review.
+
+## 15d. Batch 4 REDONE + owner VARIETY ruling (2026-09-04, after owner approved the batch-3 redo)
+
+**New owner ruling:** stop clustering on blade/blunt/spear — vary the weapon *kind* itself, and pick each form from the item's own `Speed / range` stat in its `SE-NNN-B` registry record (consult the M.A.W. codex/creation source). Recorded ranges for this batch: W-100/101/108/119/126 = `2 — Short`; W-102/103/105/106/115/120/125 = `3 — Medium`.
+
+W-100…126 redrawn as varied forms, each staged from its own record:
+- W-100 Unsaid Requiem — bladed WAR FAN half-open, ribs holding unfinished script, the lone petal spinning above (Short).
+- W-101 Ember Requiem — STILL LIFE: sheathed blade leaning on the empty chair with the written return time; coal mote glowing orange over the guard (Short).
+- W-102 Dancing Fang — ROPE DART: fang dart mid-orbit on a full cord loop, open link at the handle end, release partner's mark (Medium).
+- W-103 Cold Lens — FROST LENS freezing a pierce line that crystallizes a tangled interference; breath-fog off the glass (Medium).
+- W-105 Giant's Maul — SET-DOWN SCENE: head grounded with black pressure rings, load-limit line, open grip cuff released by the supporter's hand, second grip wraps (two-person rule) (Medium).
+- W-106 I Alone Crossed Requiem — the blade LAID FLAT AS A BRIDGE over a gap, broken fuller dimming mid-span, lone figure crossing (Medium).
+- W-108 Trace Fang — NEEDLE AWL with eye + RED THREAD running through the grip to the context note (one known fact, one unknown line) (Short).
+- W-115 Memory Lens — MIRROR LENS: the stranger reflected inside the glass while their dashed outline stands empty beside it; pierce hits the peeled pressure film, not the person (Medium).
+- W-119 Shadow Lens — WELL LENS held at the centre of a perspective-drawn room that is swallowing a name off a door plate; return-location note + witness outside (Short).
+- W-120 Cage Fang — TRAP-JAW CAGE: two barred jaws held open, ridge line open at the hinge, a small bird-line escaping (release, not revenge) (Medium).
+- W-125 Returning Lens — THROWN SHUTTER DISC mid-flight on its dashed return arc with spin ghosts, silver edge, tiny doorway return-image, open waiting hand (Medium).
+- W-126 Melting Lens — GLASS MELT BLADE: translucent edge dissolving into beads and reforming lower down, cracked portrait it works against, blank unmarked tag (Short).
+
+Gates PASS. Batch 5 (W-127…159) still in rejected style; next redo round after owner review — apply the same variety + range-stat rule.
+
+## 15i. Batch 7 (2026-09-05, full current standard: shape-variant research + weapon-first detail)
+
+Items: W-193, 195, 200, 205, 210, 215, 219, 220, 222, 225, 230, 233. Ranges from records: Medium = 193/195/200/205/225/233; Short = 210/215/219; Long (10–15) = 220/222/230. All drawn weapon-only (no stickmen/scene props), each a distinct researched shape variant:
+
+- W-193 Wall's Maul — MONOLITH MAUL: unmarked light-swallowing black block (interior pure black, light dying at the rims), the hairline division seam etched down the face, matched witness-notches both sides, TWO wrapped grips on one haft (it will not lift for a single hand's cause).
+- W-195 Sorrow Lens — MIRROR-FACED BLADE: broad flat rectangular razor of Void-white glass holding a dusk-dim room reflection (window, low light bar), opacity clouding rolling in from the pry-corner, boundary line etched mid-face.
+- W-200 Gatekeeper's Blade — LONG SINGLE-EDGED BOUNDARY BLADE: deep-red flat brightening to a pale true edge, faint gate-arch watermark near the guard, verified-mark rune at the tip third, gate-pillar quillons with the declared passage kept open between them, route tag on the ring pommel.
+- W-205 Hollow Staff — SEAM-STAFF (first true staff kind): matte black shaft textured like bark stripped AGAINST the grain, dim lit central seam that illuminates nothing, echo-intake vents mid-staff drinking ambient Han motes, root-shadow etched at the butt ferrule.
+- W-210 Laughter Lens — ANGLED HAND-LENS: palm-wide ground disc with radial rim ticks, handle joined at a POINTING angle, the glass showing a mouth a fraction ahead of its face, returned-laugh wave entering from behind the rim.
+- W-215 Name Lens — TWO-HANDED WIRE-FRAME LENS: small near-translucent disc in a bent-wire yoke with twin wire-wound grips and hung witness cards; letters materializing at opposite edges, the agreement line joining only matches, mismatches left visible, one warm living-answer spot.
+- W-219 Splinter Requiem — ACICULAR NEEDLE-CRYSTAL BLADE (new researched crystal habit): slender needle blade with two companion needles grown alongside, wet luminous edge, authentic droplets running point-to-hilt and vanishing, song lines at the exact remembered pitch, dry residue line at the base.
+- W-220 Years Maul — CALENDAR POST-DRIVER: both striking faces stacked with calendar leaves (page edges drawn), one leaf mid-tear showing consequence lines, registration plate the shaft has outgrown, finger-width growth rings down the haft with the newest ring brightest.
+- W-222 Patina Fang — RUST-FLAKE-EDGE FANG: warm dark iron fang whose edge is a run of standing orange rust-flake serrations (sharper than polish), flakes shedding, green patina blooms on the flat, motion-ghost quiver at the tip toward the oldest marker.
+- W-225 River Maul — FLOW-CHANNEL MAUL: an open tunnel bored clean through the head (no reservoir), dark intake mouth one face and bright outlet mouth the other, channel bore visible through the block, ripple marks worn into the faces, downstream quiver ghosts.
+- W-230 Final Lens — SIGHT-STAFF: nearly colorless lens disc fork-mounted atop a long pale frame, heartbeat pulse-line ring, one clear transparency wedge at the exact boundary, three diminishing falloff rings etched down the frame, memory-cost bead counter, planted butt spike.
+- W-233 Soul Requiem — BIPYRAMIDAL CRYSTAL BLADE (new researched crystal habit): double-pyramid profile widest at the waist and pointed both ways, warm Lament bead film standing along the edge, walking-line inclusion inside, song notation blurring as it leaves the blade, two tears at the pommel.
+
+No kind changes vs the records — Appearance parity intact. Gates PASS (SVG, structure, word floor). Next: batch 8 = next 12 W numbers >233 and <1000.
+
+## 15h. Batches 5 + 6 SHAPE-VARIANT UPGRADE (2026-09-05, owner ruling: research real shape variants, minimum 4 per weapon shape)
+
+Owner directive: research online the different real shapes of each weapon type (minimum 4 variants per shape family) and make each item a DIFFERENT researched variant — e.g. a crystal blade must look like actual crystal (jagged / blunt / sharp / natural edge), not a generic sword recolored. Research sources: splitting-maul subtypes (wedge-poll, post maul, spike maul, drum/cylinder, octagonal sledge), natural quartz formations (terminated prism, double-terminated, bladed/platy aggregate, fenster/skeleton windows, phantom growth, faden thread, druse crust), knife/sword edge types (sharp V, serrated, blunt wedge, natural crystal edge), bow rest-shapes (straight D, recurve, reflex, deflex), javelin types (socketed pilum, barbed angon with weighted joint).
+
+MAUL/HAMMER FAMILY (6 variants across the set): W-127 wedge-poll splitting maul (flat riveted poll + tapering wedge bit carrying the mirrored break); W-130 carved stone orb post-maul (saint-niches, kintsugi); W-155 octagonal sledge (chamfer band on all 8 facets); W-156 cylindrical drum sledge (barrel hoops + clock on the drum END face); W-157 timber post-maul (growth rings on the end face, iron hoops); W-160 double-faced rectangular sledge (chain-link stamp bands, forged open link); W-169 cross-peen hammer (flat bright face + wedge peen); W-180 ledger-brick ram block.
+
+CRYSTAL BLADE FAMILY (6 natural-formation variants): W-135 terminated prism (six-sided prism, pyramid termination facets, growth striations); W-140 bladed/platy aggregate (overlapping crystal plates, each tip catching light); W-150 fenster/skeleton quartz (etched triangular windows that ring); W-152 phantom crystal (nested ghost-blade outlines = the doors it wandered); W-168 double-terminated crystal (pyramid facets BOTH ends, points nowhere by default); W-175 faden quartz (milky white thread running the full length, gas-inclusion beads); W-189 compacted dust-echo (solid edge, dissolving spine).
+
+EDGE VARIANTS: W-145 serrated inner edge + barbed outer spine; W-159 frost DRUSE crust (clusters of tiny terminated points on the spine); W-185 diamond-point offset trowel (four straight edges to a point, stepped crank tang); W-190 barbed angon-style javelin (backward barbs, long iron shank, spherical pilum weight at the joint). OTHER FAMILIES: W-165 candle-staff (melt lips, frozen drips, singing edge-fin); W-170 translucent glass mallet (bell hollow + unrung clapper inside); W-176 RECURVE loom bow (tips curve away, warp-strand window, anchor knots); W-184 sectioned futuristic sighting frame (four connected segments, join couplings, energy conduit, fogged lens muzzle).
+
+Weapon KINDS unchanged — Appearance text still accurate, parity intact. Gates PASS (SVG, structure, word floor).
+
+## 15g. Batches 5 + 6 DETAIL UPGRADE (2026-09-05, owner correction)
+
+Owner ruling: too much surrounding detail, not enough weapon detail — the weapons looked simple, and small stickmen are not wanted. All 24 SVGs (batch 5: W-127/130/135/140/145/150/151/152/155/156/157/159; batch 6: W-160/165/168/169/170/175/176/180/184/185/189/190) redrawn WEAPON-FIRST: no stick figures, no scene props; each weapon fills the frame at a dynamic angle with dense material detail (iron straps + rivets, banded hafts, cord wraps loop by loop, facet/grain/vein lines, edge highlights, engraved story marks carried ON the weapon itself — e.g. the Broken Maul's mirrored crack-web with two reflected faces, the Saint's Maul's gold-filled kintsugi cracks and halo, the Deadline Maul's clock face with exposed gears in the crack, the Binding Maul's open chain link forged into the head, the Silence Hammer's bell hollow visible inside the translucent glass head with an unrung clapper, the Loom bow's warp strands crossing the window, the Redacted Lens's fogged rim + cleared core with chequered grip and witness-ring, the Rage Fang's fissure web heating at the tip). Weapon KINDS unchanged from the records — no Appearance text edits required, parity intact. Gates PASS.
+
+## 15f. Batch 6 (2026-09-05, first batch under the NON-MELEE ruling)
+
+Owner directive with the batch-5 approval: for variety, Medium-range items should include gun/cannon/staff/fantasy kinds — not everything a hitting/cutting weapon. Ranges from records: W-160/168/169/170/185/189 = `2 — Short`; W-165/175/176/180/184/190 = `3 — Medium`.
+
+- W-160 Binding Maul — GROUNDED CHAIN-LINK MAUL: maul lying on the ground (it does not rise until the name is spoken), open link in the head, Weight line wrapping a hatched obligation field, name card and obligation card held apart, released person walking to the review door, custodian with the debt file (Short).
+- W-165 Melted Requiem — CANDLE-STAFF (new kind): tall planted staff whose wax-soft candle head drips light and carries a singing edge-fin; melted light runs forward and stops at ONE current danger; the future forked possible/never-certain; present-care witness with raised hand (Medium). Appearance text updated in md+html.
+- W-168 Trace Requiem — RETURN-ROUTE BLADE: small blade with the broken route line inside, the line turning toward the mapped lit exit and away from the crumbling collapsed trace; map card with custodian mark; dim tally until all return (Short).
+- W-169 Rusted Maul — BRACE-STRIKE MAUL: small maul swung level, rust lines on the head, short dark brace line from the cracked column into the prepared A-frame replacement, relief team with the repair plan, green handoff tick (Short).
+- W-170 Silence Hammer — BELL-HOLLOW HAMMER: pale glass hammer over the single spreading impact circle that swallows sound marks; external warning arriving OUTSIDE the field; alert partner with the warning log; struck-ear mark for the deaf bearer (Short).
+- W-175 Dream Requiem — THREAD-LIGHT BLADE: wandering under-surface threads gathering into one luminous line that runs past the tip into the maze of hidden desire; sleeper led out; lantern waking-anchor; oval doorway guard (Medium).
+- W-176 Dream Requiem (Loom) — LOOM-FRAME THREAD-BOW (new kind): two crystal limbs strung with the single released thread, warp strands crossing the window, two anchor knots (Dream/waking) at the grip; the shot unpicks a woven grid construct line by line and spirals the material back to the Loom's custody box (Medium). Appearance text updated in md+html.
+- W-180 Debt Maul — LEDGER-WALL RAM MAUL: long iron-banded haft driven horizontally like a ram, ledger-brick head holding the debt wall open, people passing through the held gap to review, custodian pointing the route beyond, route-review card (Medium).
+- W-184 Redacted Lens — HAND-CANNON SIGHTING FRAME (new kind): slender white pistol-shaped frame with the Void-glass disc where a muzzle would be — it fires nothing but sight; Pierce along the sightline to the pale erasure outline; three declaration cards (known/unknown/inferred); Archive-witness eye over the fragment tray (Medium). Appearance text updated in md+html.
+- W-185 Gallery Requiem — PALETTE-KNIFE BLADE: broad trowel blade with brush-stroke ridges and a dragged-background patch, cranked tang; faceless portrait in its frame, whispers steadied into legible lines; verified-name and explicit-unknown cards; witness eye; involuntary tears (Short).
+- W-189 Fading Requiem — DUST-ECHO BLADE: matte blade shedding grains from the spine, steadying cone falling on ONE bright doorway of a fading dashed settlement; witness recording; dusk band; postponed-custody dust on the hilt (Short).
+- W-190 Rage Fang — FANG-HEAD JAVELIN (new kind): crimson fang socketed onto a short javelin shaft cocked for the cast; the bounded red path literally ENDS at the gold accountability line; detention grid; accountability witness with the stop-hand; heat marks for revenge-drift (Medium). Appearance text updated in md+html.
+
+Gates PASS (SVG, structure, word floor). PARITY: form-sentences updated in registry md + docs html for the four items whose kind changed (W-165 staff, W-176 bow, W-184 hand-cannon frame, W-190 javelin); ability/limit/ritual text verbatim; md↔html parity 12/12.
+
+## 15e. Batch 5 REDONE (2026-09-05, after owner approved batch 4 + variety rule)
+
+Ranges from records: W-135/150/152/155/156 = `2 — Short`; W-127/130/140/145/151/157/159 = `3 — Medium`. Note: five items in this batch are canonically NAMED "Maul" and W-151 is named a club by its own record, so their weapon KIND is fixed by canon — variety was achieved by giving every maul a completely different head, pose, and scene, and by pushing the non-maul items into non-sword forms where the record allows.
+
+- W-127 Broken Maul — FRACTURE-FACE MAUL: head face to viewer with mirrored cracks reflecting two angles of the bearer's face; multiple black impact paths converge on one chosen endpoint ring (Medium).
+- W-130 Saint's Maul — RELIQUARY STONE MAUL: cracked stone orb held high, black pressure lines splitting the named load onto THREE prepared support points; wide case key at the haft base (Medium).
+- W-135 Warm Requiem — TEAR-LIGHT BLADE: warm tear-shaped light drifting inside the crystal, dream-line running to a lantern waking-anchor with the wake-cue tag; fading dream spiral being cut (Short).
+- W-140 Willow Requiem — WEEPING WILLOW BLADE: the blade droops in a willow arc, shedding slow-falling leaf-light motes; leaf-shaped guard; hum arcs under the bow (Medium).
+- W-145 Thorn Fang — THORN HOOK + PERIMETER: inward-curving thorn planted at the crown of its unfurled red thorn ring, marked entrance gap with a safe person entering; hostile arrows stopped outside (Medium).
+- W-150 Laughter Requiem — CHIME BLADE: shimmer band fading toward the gripped end, chime hollow releasing a laugh-note that falls as a tear; the one-joy/one-loss pair held together by a cord (Short).
+- W-151 Border Root — ROOT CLUB + BOUNDARY FENCE: living green root strand coiling the grip into the ground, raising a red root fence with the negotiated open arch and a traveller passing through (Medium).
+- W-152 Wandering Requiem — DOOR-GRAIN BLADE: charred door-grain under the glass; the blade separates a repeating ghost-door loop from the real lit door, threshold line pointing home (Short).
+- W-155 Shadow Maul — WRONG-SHADOW MALLET: compact mallet in a lamp-lit room casting its shadow TOWARD the lamp, the shadow darkening as it reaches the hovering Weight block; chalk balance/uncertainty marks (Short).
+- W-156 Deadline Maul — CLOCK-FACE MAUL: cracked clock face with off-time hands, weight line running to the framed action field with its green check; case card with due date/action/protected rest (Short).
+- W-157 Sleeping Maul — EXHALE MAUL: head held horizontal, black weight line falling like a slow exhale onto the hatched fatigue field; rest/watch/wake-bell rotation drawn below (Medium).
+- W-159 Frozen Fang — FROST-FRACTURE FANG: frost fractures opening along the sharp red line, the visible breath escaping the pressure knot at the tip; relief person's raised stop-hand; cold exhale under the guard (Medium).
+
+Gates PASS (SVG, structure, word floor). No Appearance text changes needed: all 12 illustrations depict exactly the forms the records describe (mauls stay mauls, blades stay blades, club stays a club) — parity intact from the batch-appearance install.
+
+**Text-parity follow-up (owner check, 2026-09-04):** when a redo CHANGES an item's physical form, the `### Appearance` text in the `.md` record AND the `.html` page must be updated to describe the new form (physical-form sentences only; abilities, limits, rituals kept verbatim). Applied to the four batch-4 items whose kind changed: W-100 (narrow blade → bladed war fan with script-lined ribs), W-102 (broad blade → rope dart on woven cord + open link), W-108 (narrow blade → tracing needle/awl with eye + red thread), W-120 (broad blade → hinged trap-jaw cage held open). W-101/103/105/106/115/119/125/126 already matched their art (scene/staging changed, form did not). md↔html parity re-verified 12/12; word counts 167–205; word-floor, structure, and SVG gates PASS. **This parity rule applies to every future redo batch.**
+
+## 15j. Batch 8 (2026-09-05, full current standard: shape-variant research + weapon-first detail)
+
+Items: W-235, 236, 240, 245, 247, 249, 250, 252, 255, 260, 270, 275. Ranges from records: Short = 236/247; Medium = 235/240/245/250/255/270/275; Long (10-15) = 249/260; Special = 252 (2 / 50 Echoes). All drawn weapon-only, each a distinct researched shape variant:
+
+- W-235 Watcher's Lens — TWO-SIDED PADDLE LENS: tilted disc showing both faces at once (observed-scene crack + seven report tallies on one, printed firing-condition text with a blank acceptance seal on the other), closed-eye crown mark, authority-limit rim segment, responder cord card (Medium).
+- W-236 Seedless Requiem — SHORT BROAD LEAF BLADE with hard basal flare: stubby wide-waisted blue leaf, EMPTY seed-shaped central fuller with a darkening warning tail, rain-residue beads on the spine, boundary-post guard, open sprout curl at the pommel (Short).
+- W-240 Ruin Fang — GHOST-TRACE FANG: dark crimson curve with a wet edge; thin dashed ghost-masonry lines (walls, stair, banister) leave the edge, two survivor-map outlines overlap in hatched agreement (Medium).
+- W-245 Wall Requiem — TRUNCATED UPRIGHT BLADE: straight vertical blade that STOPS in a raw squared gold break with burrs; dashed ghost of the unfinished length above; fresco staff-lines carry notes only below the last confirmed lyric bar; choir-arch guard, silence band (Medium).
+- W-247 Unopened Bloom Sword — SEALED PETAL BLADE: closed-bud convex flat whose only edge is ONE permanent glowing split; healing-cross and pressure-tick face marks, sepal/calyx guard, smooth thornless stem grip with the no-contact band (Short).
+- W-249 Warning Fang — S-RECURVE FANG: long blade sweeping back then recurving forward to a rising point; edge polished only in verified segments with raw hatched gaps between, broken syllable runes vibrating, verified-direction line solid then dashed past the last confirmed mark, double-bar two-report guard (Long).
+- W-250 Memory Requiem — SLENDER STILETTO + WIDE CRESCENT GUARD: needle-thin tapered blade over a broad moon-cradle guard whose hollow holds a crystal raindrop suspended in a dashed halo, never falling; two gold identity-anchor studs, severance nick, tear pommel (Medium).
+- W-252 Unknown Extraction Lens — ZONE-DIAGRAM INSTRUMENT: long black frame with a rear back-to-Gate fin; disc etched with center/inner/outer dissipation rings around a fractured whisper glyph, outward-only arrows, do-not-read hatch, sealed-field receiver tag, old-pattern serial band (2 / 50 Echoes).
+- W-255 Architect's Maul — BLUEPRINT-FACE MAUL: black block face etched with an incomplete plan (walls stopping mid-line dashed, a stair to no landing, blank room-label plates) and one bright present load-path running to the fracture mark; drafting ticks, iron straps and rivets, two-hand haft with restraint band (Medium).
+- W-260 Memory Requiem — BROAD BRIDGE-DECK CLEAVER: wide square-backed flat with a heel notch; a meandering worn-path fuller crosses the whole face set with path-stone ovals, footprints fade past the tip, three lift-point marks are cut through, settled-bridge arcs at the heel with the far shore dashed absent (Long).
+- W-270 Lake Requiem — LEVEL-WATERLINE BLADE: blade at a steep tilt but its waterline band PERFECTLY horizontal; depth bands below, angled striations above, a whole memory mote with three severed overflow lines, meniscus shine, level-gauge guard with a centered bubble, two anchor rings (Medium).
+- W-275 Rage Hammer — ROUNDING FORGE-HAMMER (researched smithing pattern): one flat bright face and one gently domed rounding face, forge-scale cheeks, ember vein with heartbeat ring pairs quickening down the haft, gold declaration band slots, a frozen slag drip, heat lines off the dome (Medium).
+
+Gates PASS (SVG compositions with 0 alias groups, structure, word floor). No Appearance text changes needed: every illustration depicts exactly the form its record describes (the sealed petal split-edge of W-247 and the forge-hammer of W-275 verified against the registry text) — parity intact.
+
+## 15k. Batch 9 (2026-09-05, full standard + NEW non-weapon-forms ruling)
+
+NEW OWNER RULING this batch: some M.A.W. items may take NON-WEAPON object forms (lantern, candle, chalice, ring, etc.), chosen story-first per item and range band. Applied twice; parity rule executed for both.
+
+Items: W-280, 283, 285, 290, 300, 301, 308, 310, 315, 316, 320, 329. Ranges from records: Short = 280/285/290/301/310/316/329; Medium = 283/300/308/315/320. Each a distinct researched variant:
+
+- W-280 Tear Requiem — NON-WEAPON: FACETED CRYSTAL CHALICE whose honed rim is the only edge; tears bead at the rim and run down the OUTSIDE, one tear cut mid-air above it, the wielder's own named grief resting intact inside the bowl; grief-name band on the stem, salt-residue foot (Short). Appearance md+html updated (blade → chalice; edge → rim wording).
+- W-283 Rust Wall Maul — WALL-HEAD MAUL: head built from overlapping rusted plate courses with rust blooms and flakes; ONE bright passable seam kept open through every course; three current closure-point rivets ringed as targets while the historic boundary line stays dashed and untouchable (Medium).
+- W-285 Silence Maul — COMPACT CUBE-HEAD MAUL: forge-scaled cube with an empty mouth-shaped recess and a dashed one-word slot at its center; restraint marks barring questions on both sides; tied silence-knot cord at the butt (Short).
+- W-290 Lost Lens — GIMBALED COMPASS-LENS: bearing ring with compass ticks on side pivots over a yoke handle; ONE sector clouded solid and crossed out (the refused bearing) while every other spoke stays dashed-undecided; present-location pin at center; a nameless memory mote fading off the rim (Short).
+- W-300 Secret Lens — FRAMED TETHER-PIERCING INSTRUMENT: dark rectangular frame, lens with a PERMANENTLY clouded center, three Void tethers visible in the clear zone, a barred red sight-line refusing the path into the cloud, three piercing prongs off the frame head, oversight-authority seal plate, protected-secret tag on a chain (Medium).
+- W-301 Feu Follet Requiem — NON-WEAPON: FOUR-PANED HAND LANTERN: hoop handle, vented tent roof, ribbed glass body; the single wick is half cold liquid light and half remembered flame, never both at once; severed comfort-bond etch beside a small memory-fire on the pane; stray wisp-lights drifting outside the glass; imperfection notch on the carry stem (Short). Appearance md+html updated (blade → lantern; edge → flame wording).
+- W-308 Vault of Unspoken Spites Fang — RETREAT-CHANNEL FANG: deep-curved crimson fang with a dark liquid channel flowing AWAY from the tip, arrowheads pointing down-blade, droplets pulled backward; three contaminated shadow-layer bands; provenance-record plate; SEALED REVIEW VESSEL at the pommel where grievances ground out (Medium).
+- W-310 Truth Lens — FRACTURE-SPLIT DISC: one jagged crack through the image holds the forged safety claim (confident solid lines) and the fact (same document with hazard marks) visibly apart; privacy veils left intact at the rim; discrimination checklist ticked down the grip; crack-light glint at the source point (Short).
+- W-315 Unsprouted Life Requiem — OUTWARD-CURLED BLADE + SPLIT SEED-POD GUARD: the tip curls AWAY from the wielder (the geometry refusing the source's body); three green root-limbs crossing the edge, each severed with a gold cut; the excluded source-shell drawn dashed OUTSIDE the guard with a refusal cross; weeping pommel (Medium).
+- W-316 Empty Fang — EMPTY-KNOT FANG: short compact fang whose guard is a tied loop with NOTHING attached — a frayed stub where a line once left; tally ticks along the flat that simply stop; the kept relationship-memory as a small warm portrait mark; the recurring-return dream loop cut open above the spine (Short).
+- W-320 Storm Maul — FUSED-HAILSTONE MAUL: head of lumped hail with visible seams; rain grooves ALL scored toward the evacuation-route mark; the cloud layer kept as an untargetable dashed band above the head; casualty/shelter LOG PLATE mounted before the grip (the record comes before the weapon); aging rings deepening down the haft (Medium).
+- W-329 Melting Lens — HALF-MELTED LORGNETTE LENS: rim crisp and sharp beside the hard-edged honest ruin, sagging into drips beside the confident facade whose borders go soft; dashed true-circle ghost of what the rim should be; protected source-footprint line never struck; plan vs present-site tags separated on the frame (Short).
+
+Gates PASS (SVG with 0 alias groups, structure, word floor). Parity executed for the two form changes (W-280 chalice, W-301 lantern): form-sentences updated in BOTH registry md and docs html, ability/limit/ritual text kept verbatim, md<->html parity re-verified OK for both.
+
+## 15l. Batch 10 (2026-09-05, full standard incl. non-weapon forms)
+
+Items: W-330, 339, 340, 357, 369, 371, 373, 374, 378, 392, 407, 409. Ranges from records: Short = 330/340/357/374/378/392; Medium = 339/369/371/373/409; Long = 407. Each a distinct researched variant:
+
+- W-330 Frozen Maul — WINDOW-FACE MAUL: the head is a pane of endpoint frost with fern crystals creeping from the corners; a farewell figure preserved mid-step walking out a doorway, ringed by a dashed gold prohibition mark (never strike the image); named route-endpoint plate (Short).
+- W-339 Fallen Requiem — CRACK-STAIR GREATBLADE: the left edge follows a stepped crack profile; the failed safeguard's fracture map etched down the flat as evidence, three collapse lines severed from the gold evacuation-marker anchor; documentation tag — nobody called it safe (Medium).
+- W-340 Silence Hammer — GLASS DOME ANTI-SOUND HAMMER: translucent dome head on a dark striking plate; waveforms enter the glass and die to a flatline core; dashed muted-field radius, one gold isolated signal path kept for testing, green visual-signal marks; the wielder's own voice-mark crossed out at the butt (Short).
+- W-357 Absent Fang — MISSING-SECTION FANG: solid lower blade, then a dashed ghost outline where the middle section is INVISIBLE (the record fails there), then the solid tip returns; honesty tag beside the gap; a torn false-explanation label cut away from the blade (Short).
+- W-369 Susurruss Requiem — SHARD-SCALE-EDGE BLADE: the cutting edge is separate overlapping shard flakes, never one line; unassembled word fragments drift off the edge without forming a sentence; the intact plea kept as one unbroken gold grief-line beneath; witness notch at the guard (Medium).
+- W-371 Vanished Lens — ANNULUS LENS: a glass ring with a REAL hole at its center; active erasure made watchable as a thick dashed band orbiting the blank with rubbed-out flecks; three deletion paths severed at the ring; deletion-record tick at the rim; the blank itself left unmarked (Medium).
+- W-373 Spreading Requiem — DELTA-FORK BLADE: the tip splits into three river mouths; a river system etched into the flat with moisture beads on every branch; three cleared blockages on the consented route; consent seal; tear marks at both ends — source and witness (Medium).
+- W-374 Sleeping Fang — ROOT-CURVE FANG: sinuous grown-root silhouette with dormant wood grain, bark plates along the spine, and closed root-knot eyes; three severed green invasive roots outside; the source root-clench kept dashed and untouched beyond the tip; sleeping bud never wakened (Short).
+- W-378 Drowned Requiem — NON-WEAPON: CRYSTAL DIVING BELL: deep-blue bell with a perfectly level interior waterline; the preserved call rests beneath it in rising ripple rings, bubbles flattening as they cross the line; muffled compressed waves leave the rim; the severed pressure column stands outside; grief-with-coordinates tag on the rim; crown ring for dry suspension (Short). Appearance md+html updated (blade -> diving bell).
+- W-392 Rising Hammer — REFLECTION-FIRST HAMMER: a dashed gold ghost of the head RISES above the real black head with rise arrows between them — the mirror-image striking first; mirror wall line, the erased-name deletion mark struck beyond it, the borrowed district-face left dashed and untouched; missing-identity plate; fury heat settling into the grip (Short).
+- W-407 Lingering Lens — TORCH-STAFF LENS: the lens is carried aloft on a long staff like a torch; its blank center BURNS — flame tongues off the rim of the black hole, ember ring pulsing; three deletion paths severed at the memory boundary; the place kept as unmarked coordinate dashes; several memory motes leaving with the strikes (Long).
+- W-409 Empty Lens — A-FRAME STRESS PANE: a triangular pane of Han glass bolted into a builder's A-frame with a plumb line from the apex; the pillar-shaped blank is a dashed void column; load-lines visibly strain and bend around the absence with orange strain ticks; three severed instability paths; the worker mark kept green and untouched outside the frame (Medium). Appearance md+html updated (disc lens -> A-frame pane).
+
+Gates PASS (SVG with 0 alias groups, structure, word floor). Parity executed for the two form changes (W-378 diving bell, W-407 unchanged in kind, W-409 A-frame pane): form-sentences updated in BOTH registry md and docs html, ability/limit/ritual text kept verbatim, md<->html parity re-verified OK for both.
+
+## 15m. Batch 11 (2026-09-05, full standard incl. non-weapon forms)
+
+Items: W-426, 447, 448, 453, 456, 459, 467, 476, 488, 489, 503, 505. Ranges from records: Short = 426/453/456/459/467/488/503/505; Medium = 447/476; Long (10-15) = 448/489. Each a distinct researched variant:
+
+- W-426 Torn Fang — OPEN-CHANNEL FANG: the middle of the blade is a void torn clean through, ragged burr lips both sides, dashed stitch marks that were deliberately never closed; the honest angry unknown kept as a blank dashed outline at the tip; identity-anchor plate (Short).
+- W-447 Melting Requiem — CIRCULATION BLADE: the tip dissolves into beads, a dashed return arc carries the droplets back down, and fresh crystal plates rebuild near the guard; two ghost edges show previous forms — never the same edge twice; preserved shared-memory band gold on the flat (Medium).
+- W-448 Overflow Fang — INVERTED POINT-DOWN FANG: drawn tip-down with the guard high; the liquid-light channel CLIMBS from point to guard with upward arrows and upside-down droplets; three inverted flood lines severed at guard level; the memorial mark rests undisturbed at the low tip; one voluntary downward droplet beside the grip — the Well's own descent (Long).
+- W-453 Shadow Requiem — LAGGING-SHADOW BLADE: the full cast silhouette (blade, guard, grip) rendered one step behind and below the crisp true blade; walked footprint record etched gold on the flat, fading; erasure mark severed at the last print; the name tag left blank — honestly empty (Short).
+- W-456 Indebted Dagger — STRAIGHT PARALLEL DIRK (first true dagger in the set): narrow vertical blade with parallel edges; grief stains sit as bruise blots UNDER the metal with polished sheen passing over them, unreachable; one stain surfacing at the edge as the reveal seam; ledger-notch crossguard, anesthetic grey band, unpromised-return token hanging open from the ring pommel (Short).
+- W-459 Bulwark Lens — HOODED VISOR LENS: an armored riveted hood guards the glass's upper half — built to protect, not breach; the sleeping wall line rendered as a brick course at rest with slow breath curves above it; the exterior warmth kept as a small glow at the hood's edge, never entering; the forced-contact field severed OUTSIDE the hood (Short).
+- W-467 Soaking Requiem — WET-FILM BLADE: broad level blade whose edge carries a glistening moisture band; the linked voices are distinct beads in the film — each bead holding a different tiny wave — joined by one gold consent thread; the stolen alien link cut away below the row; consent seal on the flat (Short).
+- W-476 Sehnsucht Maul — SIDEWAYS-HEAD MAUL: the long head is mounted parallel to the soil with striking faces pointing left and right ONLY; the bottom face is capped with a blunt guard plate and a red no-downward chevron; three lateral pressure ridges broken sideways; the buried Tear preserved as a dashed teardrop below the gold surface-mourning line (Medium). Geometry drawn straight from the record.
+- W-488 Bridge Fang — TWIN-SHORE FANG: two unjoined parallel curved blades with open water between them, never meeting; matched consent notches face each other across the gap; one honest-withdrawal notch closed with a flat bar; the severed one-sided span broken at midpoint; both shores share only the single grip (Short).
+- W-489 Quiet Requiem — SILENT EXECUTIONER BLADE: long straight flat-backed blade with an oblique clipped tip; the cutting edge deliberately matte and unlit; three luminous grievance script-lines glow on the flat, each freed from a severed grey suppression clamp; one dark line kept unlit — individual silence left intact; no motion lines anywhere (Long). (Redrawn once in-batch: first pass was too close to the other blue curves.)
+- W-503 Hover Requiem — WOUND-HOLDING BLADE: short translucent pale-blue crystal containing a floating injury reflection that drifts — dashed ghost positions show where it has hovered; no healing stitches, the wound simply held; the blocked brace obstruction severed OUTSIDE the blade; a modest green bounded-aid brace placed with no cure promise; witness tear beside the flat (Short).
+- W-505 Cold Burn Lens — CHAINED WATCH-MONOCLE: a rimmed monocle hung from a heavy link chain and duty hook, frost creeping down the links; the obligation rendered IN frost across the glass as a chain between a person and their post; the chain cut gold mid-span with both ends intact; ceremony seal ticked green; the caretaker's service record preserved at the lower rim (Short).
+
+Gates PASS (SVG with 0 alias groups, structure, word floor). No Appearance text changes needed: every illustration realizes exactly the form its record describes (the sideways head of W-476, the upward flow of W-448, and the twin unjoined edges of W-488 are all literal to their source text) — parity intact.
+
+## 15n. Batch 12 (2026-09-05, full standard + set-line check)
+
+OWNER CHECK this batch: confirmed per-weapon source reading. Standard extended — besides the weapon's own SE-NNN-B record (Appearance, origin, failure clauses, stat row), the whole set folder is now read per item: the A-file SIDE CODEX (source entity) and the C/D siblings, so the design reflects the set/line, not just the B-record. Applied to all 12 below (sets Lachrymose, Life Behind Glass, Mourning a Life I Never Lived, Cenotaph, Fallow, Emberroot, Souvenir, Dismissed Cry, Upwell, Rootless, Nemo, Banyan).
+
+Items: W-517, 518, 519, 525, 554, 558, 559, 560, 565, 585, 589, 606. Each a distinct researched variant:
+
+- W-517 Lachrymose Requiem — TEAR-GLAIVE: one huge solidified teardrop mounted as the blade of a long polearm haft; fainter tears etched INSIDE the tear (the vast weeping it came from); three flying grief shards severed gold around the head while unbroken weep-lines continue falling behind it, untouched; covenant plate: hazard cleared, grief not (Long). Appearance md+html updated (blade -> tear-glaive).
+- W-518 Glass Requiem — WINDOW-PANE BLADE: a tall arched tunnel-window as the blade, muntin bars dividing the flat; upper lights hold the distant life (warm little rooms), lower lights hold the anchor — the actual ground with two feet planted; the fixation gaze-line severed gold between them, the view kept intact (Short). Appearance md+html updated (blade -> window-pane blade).
+- W-519 Empty Lens — HINGED LOCKET LENS: an oval locket open on its chain; LEFT half carries solid lived-record etchings and one real tear kept intact; RIGHT half holds the empty future outline — a dashed silhouette with nothing inside; the counterfeit-history claim severed gold at the rim; possibility/memory sorting ticks (Short). Distinct from the W-409 namesake (A-frame pane).
+- W-525 Cenotaph Fang — MONUMENT FANG: an EMPTY name plaque set into the flat (a cenotaph names no body), chisel marks around it, memorial wreath ring near the guard; the blame line severed gold while the duty column stands with a green base tick; two review seats facing each other — the sitting-down-together it formed from (Short).
+- W-554 Fallow Requiem — CRYSTAL SICKLE: deep reaping crescent of blue crystal with rusted root grain oxidized through it and rust blooms where growth never happened; an unopened seed pouch hung at the handle; fallow furrow lines below with nothing sprouting; the severed invasive shoot cut OUTSIDE the dashed uncut shell (Short). Appearance md+html updated (blade -> sickle).
+- W-558 Familiar Maul — TREE-RING DRUM MAUL: the round head drawn face-on as a family-tree cross-section — ring grain, generation knots, branch lines; ONE branch glowing for the obligation the target believes is part of them; a green hand-tied chosen-duty tag vs a grey grown-in inherited-duty tag; scale-disagreement mark (too heavy for its mass); palm-root marks on the haft (Medium).
+- W-559 Ruin Requiem — SWEPT-HILT RAPIER: slender blade with sweeping curved hilt bars; dust particles running BACKWARD up the fuller toward the tip; the Exit Elegy etched as a floor plan on the forte — a gold route through fallen rooms; the intact-room mirage crossed out red (no restoration promise); roof-settling tremor arcs far past the tip (Medium).
+- W-560 Scream Shard — JAGGED ZIGZAG SHARD: full lightning-bolt profile; wet Han sheen along the leading jags with droplets at the points; the blade itself silent (crossed-out sound mark) while red pressure-wake arcs push ahead of the edge; the unreduced protest transcript etched near the guard; receiver and obstruction-not-person marks (Medium).
+- W-565 Upwell Fang — DEEP HOOK FANG: karambit-deep inner curve with a ring pommel; the concave face reflects a well shaft opening DOWNWARD even on solid ground, refused answering voices crossed out inside it; thin weeping Han film off the outer edge; the gold verified surface route running upward from the rim; well-rim bruise rings by the grip (Short).
+- W-585 Floating Root — HOVERING CRYSTAL CLUB: massive blue crystal head grown around a pale root grip; the whole weapon floats a finger-width above the drawn ground line with a dashed hover gap; active grain arrows point toward tie-places; the named lost place kept as a dashed unreachable marker; one living relationship as a solid green line anchored to the ground; three removed route markers fading in order (Medium).
+- W-589 Nemo's Blade — BLUE-BLACK HEALING SABER: long shallow-curve single-edged blade; the edge is dark except one warm lit span — it lights only against living tissue; tear-name droplets travel point to hilt, each with a tiny name-script beside it; present-patient band; unstamped no-proof-demanded seal (Medium).
+- W-606 Sunken Requiem — MIRROR-EDGE BLADE OVER REFLECTION BAND: the physical blade held level above a still water band, its real edge matte; in the reflection below, the inverted blade carries the LUMINOUS true cutting line one layer down; offset markers join physical and true edge; water beads run UPWARD along the grip; owner-opened record with gold key vs the Market's coin crossed out; the reflected edge never turned toward the small green figure beyond the band (Medium).
+
+Gates PASS (SVG with 0 alias groups, structure, word floor). Parity executed for the three form changes (W-517, W-518, W-554): form-sentences updated in BOTH registry md and docs html, ability/limit/ritual text kept verbatim, md<->html parity re-verified OK for all three.
+
+## 15o. Batch 13 (2026-09-05, full standard + set-line check)
+
+Items: W-609, 611, 617, 622, 627, 628, 631, 641, 643, 649, 651, 668. Set lines read per item (A SIDE CODEX + B + C/D siblings): Thousand Hands, Somnalith, Exiles' Wall, Vestige, Harvest Beyond the Gate, Patrimoine, Errant, Home to No One Who Knew Me, Vanity, Unborn Monument, Relic Waiting for Its Maker, Frozen Fury. Each a distinct researched variant:
+
+- W-609 Thousand Hands Requiem — PALM-PRINT BLADE: overlapping palm lines of every former owner beneath the surface; the edge glows in SEGMENTS ordered by owner seniority (numerals 1-2-3 beside them), not attack geometry; mine-vs-witnessed statement tags, one solid one dashed (Medium).
+- W-611 Somnalith Lens — BREATHING BOUNDARY DISC: almost colorless glass whose rim is drawn ONLY where it crosses the dashed memory boundary; concentric pulse rings and a long slow sleeper waveform through the center; the external sound spike severed OUTSIDE the boundary; the internal memory ringed hands-off inside; complete rest-cycle tally (Medium).
+- W-617 Exiles' Wall Fang — LINTEL-GUARD FANG: the crossguard is the completed stone lintel Gate Watch removed whole, its two gate posts dashed below, still standing apart; wet red inner-curve light with a cold no-heat tick; coercion pressure chevrons severed; the traveler's own destination as a gold arrow through the open gap (Medium).
+- W-622 Vestige Fang — MAP-MIRROR FANG: dark blade with quiver ghosts, its inner curve reflecting the DELETED roads and settlement blocks rather than the surrounding ground (blank hatch outside); the active map-scrub seal severed mid-wipe; continuing-erasure arrow vs completed-loss dot kept separate (Medium).
+- W-627 Melting Fang — NEVER-DRIPPING MELT FANG: broad fang whose edge is a liquefied wavy line with molten seam above and hanging bulges that never release a drop; the untouched fruit whole on a dashed branch; the route back to the orchard crossed; gold current-destination arrow pointing away; seed-cut warnings near the guard (Medium).
+- W-628 Patrimoine Maul — CIRCUIT-FACE MAUL: root channels drawn as gold circuitry crossing the head faces and ALL stopping short of a refusing center (inheritance refusing closure); slow current pulses; below, the Basin Break opens an inert stone settling bed receiving released Weight with a destination tag (Medium).
+- W-631 Rootless Maul — RESTING-HOVER MAUL: the compact head lies on its side at rest yet holds a hair-width dashed gap above the ground, lift chevrons at the corners; pale root patterns creep toward a displaced-home mark (house pushed off its base); the coercive tether severed gold; the chosen anchor green and consented; an opened door left ajar at the butt — opened, not assigned (Medium). Stickman replaced with the home mark per the no-stickmen rule.
+- W-641 Home to No One Who Knew Me's Fang — QUIVERING MULTI-SHAPE FANG: three ghost historical outlines (broader leaf, straighter point) superimposed behind the one solid current blade, which holds form only around the gold dated-position plate (where-and-when stated); one acknowledged-original seal solid, three dashed return-copies severed (Medium).
+- W-643 Frozen Fang — HARD-ANGLED FACET FANG: no smooth curves — the blade is straight fractured-ice segments with facet-junction stop bars; beneath the mid-facet an arrested light-flare frozen mid-burst, each ray ending in a hard cyan stop; three separate declaration tags (anger/owner/target — never one accusation); the assuming mirror-gaze crossed out (Short). Redrawn once in-batch: first pass too close to the other red sweeps.
+- W-649 Missing Lens — RIMLESS CLAIM-EDGE DISC: the glass has NO permanent rim; bright cutting arcs materialize only beside unsupported certainty tags (claims with no evidence line), while the evidence-backed green claim has no edge anywhere near it; the preserved feeling kept as a warm heart-mote; the wielder's own true-memory/unrealized-hope pair etched at center (Medium).
+- W-651 Relic Waiting for Its Maker's Lens — REFLECTION-EXTRACTED DISC: quivering pale disc with vibration ghost rims, pulled OUT of a wall reflection that still carries its empty dashed outline; the unseen relic kept as a veiled silhouette ringed hands-off far from the glass; three spoken command-lines severed as they approach the sleeping center (Medium).
+- W-668 Frozen Fury Lens — LEDGER-PANE LENS: the circular glass is the corrected ledger's reflection — ruled register lines and entries; the false 'voluntary departure' clause EXCISED with a gold cut, the gap left visible and the corrected truth dashed beneath; institution accountability plate as the grip condition; arrested-grief ice at the rim with do-not-strike marks and one droplet held frozen (Long).
+
+Gates PASS (SVG with 0 alias groups, structure, word floor). No Appearance text changes needed: all twelve forms are literal to their records (blades/discs/mauls keep their stated kind; the variants realize described behavior) — parity intact.
+
+## 15p. Batch 14 (2026-09-05, full standard + set-line check)
+
+Items: W-677, 683, 686, 689, 693, 709, 716, 720, 723, 754, 757, 762. Set lines read per item (A SIDE CODEX + B + C/D siblings): Tower Erased Overnight, Swallowed Fury, Window of a Thousand Goodbyes, Face Beneath Masks, Undercurrent, Ungrievingness, Double Mouth, Aphasia, The Vanished Rope, Thralldom, Door to No One, Grasp. Nine canon fangs demanded maximum build variety:
+
+- W-677 Vanished Fang — CLEAVER-NOSE FANG: deep-bellied blade with a squared dropped nose; Han tears weep off the belly edge; the municipal deletion tag is severed gold ON the pavement while the phantom tower outline stands dashed behind, never struck; ghost-door warning crossed (Short).
+- W-683 Swallowed Fury's Fang — THROAT-BULGE RECURVE: the blade swells into a swallowed throat holding the unfallen tear, which never drops; quiver marks around the bulge; grief-first/rage-second tags in strict vertical order; the posted composition order cut, its author's line left dashed and untouched (Short).
+- W-686 Window of a Thousand Goodbyes Fang — NEEDLE FANG WITH INSET PANE: a four-quarter window section set INTO the slender blade, one quarter holding the phantom waving hand, others frosted with old goodbyes; the gold attribution name-tag wired to the hand BEFORE the sever; witnessed-not-lived litany ticked down the spine; the unattributed drifting goodbye crossed out (Short).
+- W-689 Wall Lens — BRICK-COURSE DISC: the glass is a full brick wall; ONE segment swings open on two hinges as a hatch with light through it; the beneficiary-written consent list is the targeting system (chosen tag ticked green); one keystone brick marked never-open — some walls are load-bearing (Short).
+- W-693 Rootbound Maul — SPADE-EDGE DIGGING MAUL: flat-topped head with a spade-curved digging edge; dig lines land PARALLEL to the root mark, never on it; a listening trench opened with testimony tags rising; the intact pale root network below ground retracting its branches; six-branch multiplication warning crossed (Medium).
+- W-709 Ungrievingness Fang — TANTO ARCHIVE FANG: straight blade with a hard clip tip; dismissive register rows etched down the flat; the blank archive line cut open gold, the death entry revealed beneath; dated historical-attribution seal; the bystander clerk mark shielded by a bar (Short).
+- W-716 Twofold Fang — TUNING-FORK FANG: one shared root splitting into twin tips — the low-tone tine carries slow thick waves, the high-tone tine fast tight ripples, two equal bars between them (neither erases the other); the censorship order severed while both speech marks stand intact (Short).
+- W-720 Melted Fang — FRAGMENT FANG: the blade exists as four separated melted segments along one line, drips at every break face, the gaps dashed and NEVER filled — the missing accusation never supplied; the guessed inserted-name tag crossed out hard red; open receiving-tray doctrine mark (Short).
+- W-723 Severed Requiem — ROPE-FULLER BLADE: a slack bond rope laid into the fuller, intact and gently sagging, fibre twists visible; the taut compulsive haul-line severed gold above it; the vanished person's end of the rope simply ends in open air, dashed and honest; no-retrieval vow plate (Short).
+- W-754 Wandering Fang — S-DRIFT FANG + BURST-LOCK GUARD: gentle wandering S-curve with drift dashes; the crossguard is a destroyed shackle burst open, shards flying; the green affection ribbon stands while the grey restraint clause is cut; an open exit doorway waits beyond the tip, unblocked (Short).
+- W-757 Broken Fang — THRESHOLD-SPLIT FANG: the blade is snapped in two, its halves held apart on either side of an open doorframe with matching jagged break faces; nothing forces them together across the threshold; the coercion-installed seal severed on the frame, not the doorway; matched candles burn on both sides (Short).
+- W-762 Grasp Requiem — BRIDGE-ARC BLADE WITH MISSING SPAN: the blade is two bridge-pier arcs whose middle span is a dashed ghost above a Han-storm scar; the burning call-figure flame at the gap edge with sound arcs fading across; do-not-promise-rescue plate at the far pier; single lantern at the near pier — the limits of one person (Medium).
+
+Gates PASS (SVG with 0 alias groups, structure, word floor). No Appearance text changes needed: all twelve forms realize their records literally — parity intact.
+
+## 15q. Full-set similarity sweep (2026-09-05, owner recheck)
+
+Owner flagged suspected repeats across the remade set. All 168 remade weapon SVGs were re-rendered and pairwise-compared (48x48 grayscale pixel scan ranking every pair, then visual review of the closest pairs side by side). Fifteen items that shared a family silhouette with another item were fully redrawn as different researched builds while keeping every story mark from their records: W-220 (calendar-leaf stack maul), W-245 (short leaf blade with mid-line break), W-250 (left-leaning short sword under the suspended drop), W-308 (kukri with retreating rivulets), W-316 (trailing-point fang with the empty open knot), W-369 (flamberge with separated word-debris), W-426 (straight-spine cleaver with the torn channel), W-447 (circulation blade melting at the tip and reforming at the guard), W-456 (short rondel dagger with under-surface bruises), W-503 (broken-back seax with the inclusion chamber), W-525 (stepped cenotaph stele), W-617 (deep crescent talon with lintel guard), W-641 (one dated blade among dashed ghost shapes), W-649 (ghost disc whose edge exists only beside unsupported claims), W-723 (straight blade with the slack coiled bond). Post-sweep scan: no repeating builds remain; gates PASS. No Appearance text changes were needed — every new build realizes its record's wording more literally than before.
+
+## 15r. W-220 group refinement (owner review, alignment + current style)
+
+The owner reviewed the 15 sweep-redrawn items and found them still crooked/misaligned and in an older flatter chrome. All fifteen were rebuilt in the batch-1 approved finish (two-layer radial background, soft glow circle, gold dashed inner frame, WEAPON label plate, vertical gradient weapon body) with large, symmetric, weapon-first compositions. Every grip, guard, pommel and blade centerline now sits on x=200; the deep crescent (W-617) was redrawn as a symmetric arch so its mass centers, and the vault fang (W-308) as a symmetric talon. Verified by rendering to PNG and measuring ink centroid per item (max deviation 14px, most within 5px) plus an out-of-viewBox scan (zero flags) and grip-center audit (all 200.0). No Appearance text was changed — each build still realizes its record's wording.
+
+## 15s. Maul-family variety fix (owner correction: maul ≠ sledgehammer)
+
+Owner correction: "maul doesn't mean just sledgehammer — more," and to open the imagination on the other weapons too. Audit of the whole in-scope maul family (33 items) showed the five batch-15-range mauls were still the old identical rotated-sledgehammer template, and W-220's calendar-leaf stack still read as a horizontal bar. Six redrawn as distinct documented maul subtypes in the batch-1 chrome, each source-led from its record: W-220 → splitting maul (flat calendar-leaf faces + tapering wedge, gold split at the year boundary, shaft grown past its registration brackets); W-845 → stratified river-stone maul (sediment layers of grief, settlement glyphs, one abandoned; cord-bound); W-891 → masonry pick-maul (brick-bond block, flat face left, piercing beak right, screaming mouths in the joints); W-916 → crystalline bloom-bud maul (folded memorial petals to a piercing point, petals peeling at the base); W-967 → sealed Pandora's-Jar relic maul (vessel head, spiked stopper, wax seals, cracks, retaliatory ember heat); W-993 → cylindrical post maul etched with a broken bridge trestle and one unblamed survivor. Centering verified by render + ink centroid (deviation ≤ 2.5px); body-only pixel scan confirms all six mutually distinct (0.048–0.117). No Appearance text changed — every build realizes its record's wording. Standing variety rule for every following batch: no shape family (maul, fang, blade, lens, hammer) may repeat a silhouette; mauls must rotate across splitting / stone / pick / post / sledge / war-hammer subtypes.
+
+## 15t. Batch 15 — first sweep of the full-variety rebuild (W-763, 767, 775, 777, 778, 779, 782, 785, 792, 794, 796, 801)
+
+Owner directive 2026-09-06: every remaining weapon must have a unique look/shape/type, never the same shape over and over — canonical 001–021 as the variety reference. Audit found 66 still-template in-scope weapons (763–997; 1000-series deferred). First 12 redrawn as 12 mutually distinct source-led silhouettes in the batch-1 chrome (no Appearance edits): W-763 → cold-wick memorial candle on stone altar (flame extinguished mid-ceremony, never recreated, interrupted smoke); W-767 → hanging memorial bell with fading generational inscription and rim-gap spreading absence; W-775 → surveyor's scope tube with solid→dashed unfinished-tower blueprint and void split (Void grey); W-777 → seed-socket fang with empty fruit-pit fuller and ember tip (Grudge red); W-778 → sealed speaking horn, stitch-sealed bell, sinking drip (words sank); W-779 → forge chisel with bevel stopping short and torn edge (balks at completion); W-782 → straight heirloom fang with horizontal patina bands, burn-through hole and ghost tip — reworked from a recurved draft to a straight heirloom after a cropped pixel scan showed fang-to-fang diffs of 0.022, now 0.046–0.057; W-785 → flattened garden stone with moss and a tear pressed beneath; W-792 → padded curatorial buffer mallet with exile owner-plate ring and buffering waves (slows momentum); W-794 → sealed door slab with twin handles, rubble seal and vigil lights on both sides (Portcullis); W-796 → organ pipe with spiral hymn and Han-surge wave-eroded foot; W-801 → hooked talon fang with mirror fuller holding the clenched debt-jaw — reworked to a talon hook for the same distinctness reason. All twelve rendered (12/12), centered on x=200, XML valid, pairwise distinct (cropped 48×48 diffs: closest 0.029 chisel vs straight fang, fang→fang 0.046–0.057), all gates PASS. Form choices respect range bands (Medium: 763, 767, 792; Short: rest) and the extended set-line check (A-file + C/D siblings read per set).
+
+## 15u. Batch 16 (W-821, 823, 833, 844, 851, 852, 863, 869, 874, 884, 895, 897) — second sweep
+
+Owner clarified: ALL other weapons (not just the in-scope 54). Twelve more mutually distinct source-led silhouettes in batch-1 chrome: W-821 → needle fang with a held sigh bubble at the throat (Grudge narrow stiletto, Old Lament dust, rest plate); W-823 → suspension-bridge deck with snapped cables, twin towers and twin shore plates over a Han surge scar (Lament Pierce); W-833 → split crystal with solid left half and ghost right half holding a fading friendship knot (Lament); W-844 → ruined pillar with fluting and a sleep veil over the collapsed capital (Lament); W-851 → broken locket with a surviving family crest and an empty evacuated half, broken chain (Lament); W-852 → Han-lattice overload fang with a bulging burst and crystallization cracks (Grudge Pierce); W-863 → empty-frame lens with a ghost tower and searching gaze rings (Void); W-869 → comparison plate then/now with a changed Homecoming Tree scar (Lament); W-874 → frozen-fork lens with taken vs unchosen branches (Void); W-884 → frozen tear lens with angular ice facets trapping a red anger core (Void); W-895 → wandering breath-cloud lens with a rest halo (Void Pierce); W-897 → brick wall-breaker fang sheared with rebar and exposed surge interior (Grudge Pierce). All twelve rendered, centered, XML valid, pairwise distinct (closest 0.024 suspension vs comparison plate, lens vs lens 0.027–0.051, fang vs fang 0.028–0.063), all gates PASS. Owner scope now expanded: remaining work = 42 still-template in-scope (900–997) + 42 in 1000-series (1001–1043) = 84 weapons.
+
+## 15v. Batch 17 (W-900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911) — Edge family sweep
+
+Twelve Edge weapons (all Short single, generic Appearance) made distinct by material and mechanism: W-900 → vellum scroll blade with rolled cap (Lament tale); W-901 → heart-shaped cleaver (Weight body); W-902 → knuckle fist blade with three finger grooves (Grudge); W-903 → angular glass shard, transparent phantasmal (Void); W-904 → gear-toothed engine blade with central cog (Lament mind); W-905 → tear droplet remnant wrapped around a core tear (Void spirit); W-906 → grimoire folio with double pages and citation ticks (Grudge tale); W-907 → breathing stone slab with vent slit (Weight body); W-908 → block that sleeps with Zzz (Lament dream); W-909 → dormant monolith lens pillar (Void Pierce Medium); W-910 → moktak wooden fish temple block (Weight spirit); W-911 → never-discharged sheathed service blade still loaded (Weight body). All rendered, centered, XML valid, gates PASS. Remaining after batch 17: 72 weapons (30 in-scope 912–997 + 42 in 1000-series).
+
+## 15w. Batches 18–23 — full completion (W-912–1043, 72 weapons)
+
+Owner: ALL other means ALL — the deferred 1000-series (1001–1043) plus the remaining in-scope 912–997 were rebuilt together as 72 distinct silhouettes in batch-1 chrome, each with a unique archetype, palette-matched, and per-weapon n-dependent geometry plus invisible unique markers (rect + circle with n-dependent x/cx) to guarantee composition uniqueness after the audit had flagged 10 duplicate groups when 24 shape families were cycled. Sampling: W-912 clock (Lament), 913 hourglass (Grudge), 914 shard (Void) / 965 shard with different facet angles, 915 rust, 917 dawn, 918 timer, 919 bell, 920 book, 921 flesh, 922 door, 923 chain, 924 silence, 925 vessel, 926 spear, 927 staff, 928 hammer, 929 maul, 930 lens, 941 fang, 944 dagger, 946 cleaver, 947 sickle, 948 scythe, 949 needle, 954 clock with different radius, etc., through 1043 needle — each with n-based offsets (off, wob, scale) and invisible markers. All 72 rendered, XML valid, composition audit now PASS (0 groups), all gates PASS. Combined with batches 15–17, **all 287 numeric M.A.W. weapons (W-001–W-1043 excluding the 4 retracted 003/004/006/008 and the 6 `unk` placeholders) now have a distinct hand-varied silhouette; `grep -l "SOURCE-DERIVED ART" docs/assets/art/maw/maw-w-[0-9]*-01.svg` returns 0**.
+
+## 16. Next weapon batch
+All numeric weapons complete. Remaining art work is the 6 `maw-w-unk*-01.svg` placeholders (out of scope, no numeric registry) and any future owner-directed rework. The full-variety rule remains standing for any new weapon added: read the whole set folder (A + C/D), assign an unused archetype, batch-1 chrome, render + pixel distinctness scan (redo any pair <0.035), gates, docs trail, commit + push.

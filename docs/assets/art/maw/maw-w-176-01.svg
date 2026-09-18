@@ -1,41 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DREAM REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg5f6afe" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw176" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl5f6afe" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl176" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#93c5fd"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg5f6afe)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw176)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="111" fill="url(#gl5f6afe)"/>
-  <g transform="rotate(10 200.0 192.0)">
-<path d="M183.0 192.0 L192.86 93.36 L200.0 55.0 L207.14 101.58 L217.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 55.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="191.5" y="112.5" width="17.0" height="57.5" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="173.0" y="187.0" width="54.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="50.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="258.0" r="6.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 208.0 Q200.0 226.0 264.0 202.0" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".4"/>
-  </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 238.0 Q200.0 256.0 264.0 232.0" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".4"/>
-  </g>
-  <g transform="rotate(-16 200.0 236.0)">    <path d="M136.0 268.0 Q200.0 286.0 264.0 262.0" fill="none" stroke="#3e8bd5" stroke-width="1.2" opacity=".4"/>
-  </g>
-  <g transform="rotate(-10 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(14 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <g transform="rotate(-14 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-176-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- upper limb with RECURVED tip (bends away at the end) -->
+  <path d="M226 52 C 172 76, 132 122, 118 180 C 114 196, 113 210, 114 224"
+        fill="none" stroke="url(#bl176)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M226 52 C 240 44, 252 44, 260 52" fill="none" stroke="url(#bl176)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M226 52 C 178 76, 140 120, 126 176" fill="none" stroke="#e0f2fe" stroke-width="2" opacity=".8"/>
+  <path d="M208 62 L218 74 M176 90 L188 100 M148 128 L162 136 M128 172 L142 176" stroke="#1e3a5f" stroke-width="2"/>
+  <!-- lower limb with RECURVED tip -->
+  <path d="M114 224 C 118 276, 144 320, 186 350" fill="none" stroke="url(#bl176)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M186 350 C 200 358, 212 358, 220 352" fill="none" stroke="url(#bl176)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M121 228 C 126 274, 150 314, 188 342" fill="none" stroke="#1e3a5f" stroke-width="2" opacity=".8"/>
+  <path d="M128 260 L140 256 M142 294 L154 286 M164 324 L174 314" stroke="#1e3a5f" stroke-width="2"/>
+  <!-- string nocks in the recurved tips -->
+  <path d="M258 46 L266 56 L254 58" fill="#12233d" stroke="#7dd3fc" stroke-width="2"/>
+  <path d="M218 356 L226 348 L224 360" fill="#12233d" stroke="#7dd3fc" stroke-width="2"/>
+  <!-- WARP STRANDS crossing the bow window -->
+  <path d="M222 60 L184 342 M206 68 L170 330 M190 82 L156 314 M174 98 L144 296 M158 118 L134 272" stroke="#3b5f88" stroke-width="1.4" opacity=".85"/>
+  <path d="M150 164 L206 156 M140 212 L188 206 M136 258 L176 254" stroke="#60a5fa" stroke-width="1.2" opacity=".6"/>
+  <!-- bowstring drawn -->
+  <path d="M260 52 L292 210 L220 352" fill="none" stroke="#e0f2fe" stroke-width="2.6"/>
+  <!-- nocked spindle-bolt of wound thread -->
+  <path d="M292 210 L372 202" stroke="#7dd3fc" stroke-width="3.4"/>
+  <path d="M302 205 L318 215 M322 203 L338 213 M342 201 L356 210" stroke="#38bdf8" stroke-width="1.6"/>
+  <path d="M366 194 L378 202 L366 210" fill="#0a1626" stroke="#e0f2fe" stroke-width="2.2"/>
+  <path d="M292 202 L284 196 M292 218 L284 224" stroke="#e0f2fe" stroke-width="2"/>
+  <!-- Dream and waking anchor knots at the grip -->
+  <circle cx="276" cy="192" r="7" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.6"/>
+  <path d="M272 188 C 274 186, 278 186, 280 188 M272 195 C 274 197, 278 197, 280 195" stroke="#7dd3fc" stroke-width="1.4" fill="none"/>
+  <circle cx="276" cy="228" r="7" fill="#0a1626" stroke="#fcd34d" stroke-width="2.6"/>
+  <path d="M273 225 L279 231 M279 225 L273 231" stroke="#fcd34d" stroke-width="1.4"/>
+  <path d="M276 200 L276 220" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
+  <path d="M272 204 L280 204 M272 210 L280 210 M272 216 L280 216" stroke="#93c5fd" stroke-width="1.8"/>
 </svg>

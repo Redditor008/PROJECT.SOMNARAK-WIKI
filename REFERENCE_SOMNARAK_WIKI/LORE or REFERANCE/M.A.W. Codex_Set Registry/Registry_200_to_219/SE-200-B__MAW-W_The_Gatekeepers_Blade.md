@@ -16,6 +16,10 @@
 
 A long crimson blade formed from the red echo Aegis left after lowering its weapon for a logged Gate arrival. It binds only when the wielder, Gate Watch partner, hostile condition, and permitted route are all named. It does not draw for an exclusion order.
 
+## Appearance
+
+The Gatekeeper’s Blade is a long crimson blade formed from the red echo Aegis left behind after lowering its weapon for a logged Gate arrival. The steel is deep red along the flat and brightens toward the edge, and a faint gate-arch watermark sits in the metal near the guard — visible only when the blade is raised at a boundary. It does not draw for an exclusion order: the wielder, the Gate Watch partner, the hostile condition, and the permitted route must all be named before the grip warms. In action the Blade marks a verified fleeing threat and prevents flight through the defined boundary, and its restraint is structural — it cannot mark an authorized returnee or a civilian using the declared passage. Every time the mark holds, the bearer feels the grief of historical exiles, the names in the old departure log pressing close. The blade heats when a bearer calls a person “unauthorized” without a current record, and the crimson edge darkens if the return lane is blocked. It is maintained with the incident map and route partner; the partner ends the mark, and breaking the blade creates a one-way Grudge barrier.
+
 ## CORE STATISTICS
 
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |

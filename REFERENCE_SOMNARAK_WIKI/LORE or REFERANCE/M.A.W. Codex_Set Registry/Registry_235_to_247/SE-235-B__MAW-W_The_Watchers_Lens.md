@@ -20,6 +20,10 @@ Binding requires the wielder to name what action they can perform and what excee
 
 During the *Third Warden Niche* incident, the Lens replayed a support crack ignored in seven reports. Durivel designated the crack—not the workers beneath it—and severed the Void hiding its urgency. Evacuation began before collapse; he lost the memory of who first taught him the inspection route.
 
+## Appearance
+
+The Watcher’s Lens is a short-handled disc of almost colorless Han-glass. One side shows the observed scene; the other remains blank until a responder accepts responsibility for acting on it — a weapon whose firing condition is printed in its own glass. It forms from an eye that closes after intervention, and binding requires the wielder to name what action they can perform and what exceeds their authority; a person who only intends to document sees no target at all. In use the Lens attacks one documented present danger — a support crack ignored in seven reports, a hazard hidden under Void — and it cannot target a person merely because surveillance marked them. Delay after designation drains the wielder’s nameless memories without producing a shot. An observed victim becoming the target instead of the danger is the listed failure, and repeated aiming without action erases the wielder’s reason for caring. It is maintained pressed against the repaired site — not the report archive — and the blank side clears only after real-world verification. Shutdown transfers responsibility aloud to a named qualified person.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

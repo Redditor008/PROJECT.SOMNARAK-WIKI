@@ -1,37 +1,65 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BRIDGE MAUL">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // MAUL -->
   <defs>
-    <radialGradient id="bgf2f4fe" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw993" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#181206"/>
+      <stop offset="100%" stop-color="#0d0a04"/>
     </radialGradient>
-    <radialGradient id="glf2f4fe" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
+    <radialGradient id="gw993" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="gs993" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fde68a"/>
+      <stop offset="100%" stop-color="#78350f"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgf2f4fe)" stroke="#c9a86a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw993)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="113" fill="url(#glf2f4fe)"/>
-  <g transform="rotate(-2 200.0 192.0)">
-<rect x="152.0" y="154.0" width="96.0" height="76.0" rx="7" fill="#c9a86a" fill-opacity=".24" stroke="#c9a86a" stroke-width="3.5"/>
-<path d="M171.2 165.4 L228.8 165.4" stroke="#e0f2fe" stroke-width="1.3" opacity=".7"/>
-<circle cx="200.0" cy="192.0" r="11.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
-<rect x="194.0" y="230.0" width="12" height="117.0" rx="4" fill="#1f2937" stroke="#c9a86a" stroke-width="2"/>
-<circle cx="200.0" cy="357.0" r="7" fill="#c9a86a" fill-opacity=".55"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gw993)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- POST MAUL: tall cylindrical head for driving posts, its face etched with a bridge trestle that broke mid-span -->
+  <!-- cylindrical head -->
+  <rect x="170" y="66" width="60" height="142" rx="12" fill="url(#gs993)" stroke="#d97706" stroke-width="3"/>
+  <!-- head bands -->
+  <path d="M170 88 H 230 M170 176 H 230" stroke="#92400e" stroke-width="2.4" opacity=".9"/>
+  <rect x="170" y="84" width="60" height="8" fill="#1c1206" opacity=".5"/>
+  <rect x="170" y="172" width="60" height="8" fill="#1c1206" opacity=".5"/>
+  <!-- vertical highlight -->
+  <path d="M188 70 L 188 204" stroke="#fff7cc" stroke-width="1.4" opacity=".55"/>
+  <!-- etched bridge trestle on the face -->
+  <g fill="none" stroke="#0d0a04" stroke-width="2.4">
+    <path d="M184 96 L 184 168 M216 96 L 216 168"/>
+    <path d="M180 116 L 220 116"/>
+    <path d="M184 96 L 184 116 L 216 116 L 216 96"/>
+    <path d="M184 116 L 216 168 M216 116 L 184 168"/>
   </g>
-  <g transform="rotate(-12 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  <g fill="none" stroke="#f1df76" stroke-width="1" opacity=".8">
+    <path d="M184 96 L 184 168 M216 96 L 216 168 M180 116 L 220 116"/>
   </g>
-  <g transform="rotate(-8 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#c9a86a" opacity=".42"/>
+  <!-- the span broke: a jagged fracture through the middle -->
+  <path d="M184 130 L 190 126 L 196 132 L 204 124 L 212 130 L 216 126" fill="none" stroke="#0d0a04" stroke-width="2"/>
+  <path d="M184 130 L 190 126 L 196 132 L 204 124 L 212 130 L 216 126" fill="none" stroke="#fbbf24" stroke-width="1.2" opacity=".9"/>
+  <!-- a falling girder shard -->
+  <path d="M236 138 L 244 136 L 242 148 L 234 146 Z" fill="#291c06" stroke="#f1df76" stroke-width="1.3"/>
+  <path d="M240 142 L 240 158" stroke="#f1df76" stroke-width="1" stroke-dasharray="2 3" opacity=".7"/>
+  <!-- the one survivor: a small figure standing on the intact span, not blamed -->
+  <g fill="none" stroke="#fde68a" stroke-width="1.4" opacity=".9">
+    <circle cx="200" cy="108" r="2.6"/>
+    <path d="M200 111 V 116"/>
   </g>
-  <g transform="rotate(-14 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#c9a86a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".45"/>
+  <!-- names ledger etched on the lower face -->
+  <g stroke="#fde68a" stroke-width="1.1" opacity=".7">
+    <path d="M186 184 H 214 M186 190 H 210 M186 196 H 214"/>
   </g>
-  <g transform="rotate(-14 200.0 120.0)" opacity=".9">
-    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-W-993-01</text>
+  <!-- collar -->
+  <rect x="184" y="208" width="32" height="14" rx="3" fill="#291c06" stroke="#d97706" stroke-width="1.8"/>
+  <!-- haft -->
+  <rect x="192" y="222" width="16" height="96" rx="6" fill="#291c06" stroke="#d97706" stroke-width="2.2"/>
+  <path d="M194 238 H 206 M194 256 H 206 M194 274 H 206 M194 292 H 206" stroke="#fff7cc" stroke-width="1.2" opacity=".7"/>
+  <path d="M196 224 L 204 224 M196 312 L 204 312" stroke="#fde68a" stroke-width="1.4"/>
+  <!-- pommel: a sunk piling cap -->
+  <path d="M184 318 L 216 318 L 216 340 L 184 340 Z" fill="#291c06" stroke="#d97706" stroke-width="2"/>
+  <path d="M186 322 H 214 M186 330 H 214" stroke="#f1df76" stroke-width="1.2" opacity=".8"/>
 </svg>

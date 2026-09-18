@@ -29,6 +29,10 @@ Binding requires the wielder to distinguish a continuing act of erasure from com
 | Binding cost | Repeated use leaves faint route-shaped bruises |
 | Corrosion risk | High when aimed at Vestige or a finished historical absence |
 
+## Appearance
+
+The Vestige Fang is a quivering fang of crimson Han iron, dark until an erased feature attempts to reappear — and its inner curve reflects missing roads rather than the surrounding ground, the deleted map legible in the metal. Extraction succeeded after an active map-scrub seal was disabled without striking Vestige. Binding requires the wielder to distinguish a continuing act of erasure from completed loss; rejection makes old scars ache wherever the user wishes history could be restored by force. In use, its Erasure Cut severs one active seal, false edit, or Han mechanism suppressing evidence of the settlement, dealing full Grudge damage to physical structure — it cannot restore what the mechanism already destroyed. A second cut against the same absence summons a phantom branch through the user’s oldest wound, and recovery requires a recorded statement of what remains unknowable. In its recorded case a wielder stopped a residual seal still bleaching soil, saw the erased road briefly appear, and struck the empty ground to keep it — the blade curved into his shoulder scar and a phantom branch pinned him beneath a road no longer present. The Fang now goes cold whenever its target is loss rather than an erasing agent.
+
 ## FUNCTION
 
 **Erasure Cut:** severs one active seal, false edit, or Han mechanism suppressing evidence of the settlement. It deals canonical Grudge damage to physical structure. It cannot restore what the mechanism already destroyed.

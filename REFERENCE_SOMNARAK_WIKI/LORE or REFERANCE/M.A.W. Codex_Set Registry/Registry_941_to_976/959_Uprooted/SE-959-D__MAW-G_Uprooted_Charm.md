@@ -19,6 +19,10 @@
 **Canonical ability:** Grants a minor boon tied to Uprooted's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names Uprooted's event—A Desolate settlement moved repeatedly, leaving its roots and structures behind each time.—and accepts this limit: Do not burn the roots; map and witness their route
 
+## Appearance
+
+The Uprooted Charm is the gift record of the Uprooted set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability grants a minor boon tied to Uprooted's sorrow, the effect mirroring the entity's nature: continuity carried by whoever is willing to trace the route. Binding names the source event — a Desolate settlement moved repeatedly, leaving its roots and structures behind each time — and accepts the set's limit: do not burn the roots; map and witness their route. The cost is nocturnal: the bearer weeps in their sleep, grief keeping the hours the settlement kept. The source-trace fixed doctrine: the Charm shows the settlements beneath the entity's growth, every departure layered under the living root-mass, and it stays the hazard only after attribution to Uprooted. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 5%  

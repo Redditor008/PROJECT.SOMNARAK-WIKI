@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Memorial Flame Mid-Ceremony's kind of pressure.  
 **Binding rule:** the bearer names Memorial Flame Mid-Ceremony's event—A memorial flame was extinguished during an Alpha Tree evacuation. The mourners were scattered and never completed the ceremony.—and accepts this limit: Complete the memorial without attempting to recreate the original flame
 
+## Appearance
+
+The Absent Shroud is the suit record of Memorial Flame Mid-Ceremony’s set, granting resistance to Lament damage and protecting the Mind against the pressure of a mourning interrupted and never resumed. Binding is testimonial: the wearer names the source event — a memorial flame extinguished during an Alpha Tree evacuation, the mourners scattered before the ceremony could finish — and accepts the set’s limit: complete the memorial without attempting to recreate the original flame. The operational cost is numbness to minor joys, and continued use makes the source sorrow feel autobiographical — the unfinished ceremony entering the wearer’s calendar of debts. The first field bearer’s source-trace set the doctrine: the suit tests whether the worker can mourn without a visible object — grief practiced against darkness — and it stabilized the immediate hazard only after the team attributed it to the source. Treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

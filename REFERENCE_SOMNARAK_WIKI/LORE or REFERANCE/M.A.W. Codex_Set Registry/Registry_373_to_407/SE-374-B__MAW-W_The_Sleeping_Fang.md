@@ -16,6 +16,10 @@ A crimson Han-iron fang with dormant root grain. It forms from dream residue aft
 
 Durivel severed three roots entering a monitoring floor while leaving the source root-clench untouched. Old wounds bruised with the absent traveler’s broken promise.
 
+## Appearance
+
+The Sleeping Fang is a crimson fang of Han iron with dormant root grain running through it — the wood-pattern of something alive and asleep, held still in the metal. It forms from dream residue after nonparticipating witness: someone watched the dream and did not enter it. In use it removes one invasive growth outside the sleeping body — in its recorded case severing three roots entering a monitoring floor while leaving the source root-clench untouched. It cannot cut the promise-root or wake the Tree. The cost arrives through old injuries: they bruise with the absent traveler’s broken promise, the wielder’s body keeping an account it never signed. A worker who becomes a second caretaker is the first failure — the vow acquiring new staff; the source root attacked is the second; and waking framed as resolution is the third, as if the dream were the problem rather than the abandonment inside it. It is maintained stored beyond root reach with the original vow marked as not transferable — the one label that matters, renewed at every storage check. The dormant grain is left dormant; a Fang that stirs has been tending instead of cutting.
+
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Grudge | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |

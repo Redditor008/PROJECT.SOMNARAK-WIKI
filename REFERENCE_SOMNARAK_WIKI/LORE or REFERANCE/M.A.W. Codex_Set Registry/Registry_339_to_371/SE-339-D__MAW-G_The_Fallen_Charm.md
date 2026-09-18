@@ -14,6 +14,10 @@
 
 A deep-blue Tail charm containing one moving crack. Breach granted it after a worker accepted failed protection and established a limited current anchor. Bestowal chance is 4%.
 
+## Appearance
+
+The Fallen Charm is a tail-charm of deep-blue Han crystal containing one moving crack — a fracture that travels slowly through the stone, never healing and never finished. Breach granted it after a worker accepted failed protection and established a limited current anchor; it cannot be manufactured. Its function is the audit no one wants: it marks a safeguard whose real limit no longer matches its stated protection — in its recorded case identifying a sealed room whose wall held physical force but not the internal Han flow that had caused the prior collapse. The cost is nocturnal: the bearer weeps in sleep. Every imperfection becoming breach is the first failure; detection hidden to preserve confidence is the second; and a marked failure treated as proof all protection is useless is the third — the Charm’s finding inflated into fatalism. In the set it identifies failure for the Barrier and the Requiem to act on. Care records stated limit, actual limit, failure path, and remaining useful protection as four separate entries — because a safeguard that fails one way usually still works in three others, and the record must say so as plainly as it says what broke.
+
 **Grade / Element:** δ / Lament  
 **Bonus:** +3 Clarity during source work  
 **Effect:** marks a safeguard whose real limit no longer matches its stated protection  

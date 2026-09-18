@@ -19,6 +19,10 @@
 **Canonical ability:** Grants a minor boon tied to Repose's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names Repose's event—An Outside Sorrow settlement collapsed; its last survivor carried the ruin into a sleep that became permanent.—and accepts this limit: Do not wake it; reduce noise and acknowledge the dead
 
+## Appearance
+
+The Ruin Charm is the gift record of Repose’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to Repose’s sorrow, shaped like the sleep it embodies. Binding names Repose’s event — an Outside Sorrow settlement collapsed, and its last survivor carried the ruin into a sleep that became permanent — and accepts the set’s limit: do not wake it; reduce noise and acknowledge the dead. The cost arrives at night: the bearer weeps in their sleep, grieving on the sleeper’s schedule rather than their own, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the settlement’s final day — the collapse the survivor carried into sleep, made legible without waking the sleeper for testimony — and it stabilized the immediate hazard only after attribution to Repose. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  

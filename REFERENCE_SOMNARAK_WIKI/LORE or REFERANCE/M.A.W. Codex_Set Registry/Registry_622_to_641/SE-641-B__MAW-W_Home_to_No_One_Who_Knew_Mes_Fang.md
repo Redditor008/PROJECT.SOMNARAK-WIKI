@@ -30,6 +30,10 @@ Binding requires one acknowledged original and a list of active return-copies. A
 | Binding cost | Bruises reproduce the relic’s discarded shapes |
 | Corrosion risk | Severe if aimed at current surroundings or the acknowledged original |
 
+## Appearance
+
+Home to No One Who Knew Me’s Fang is a fast crimson fang of Han iron that quivers between several historical shapes — the current blade appears only after the wielder states where and when they stand, a dated position required before it holds form. It was extracted after the source relic was received without its former civic role. Binding requires one acknowledged original and a list of active return- copies; a bearer seeking the “truest” historical version feels every old wound reopen. In use, its Duplicate Severance pierces up to three autonomous return-copies after the receiving witness acknowledges the original — it cuts compulsive repetition, not historical meaning or present architecture. Striking before acknowledgment generates another full-strength copy, and an unlisted version redirects the line through the wielder. In its recorded case three relic forms appeared around the plinth, and the wielder struck the oldest-looking one, assuming age proved originality — two copies multiplied and the street reverted another decade. Once a resident’s current reception identified the stable source, the Fang pierced the listed copies at full, 70%, and 50% force without harming the received relic. It now displays current time as a faint mark along its spine before accepting a target list.
+
 ## FUNCTION
 
 **Duplicate Severance:** pierces up to three autonomous return-copies after the receiving witness acknowledges the original. It cuts compulsive repetition, not historical meaning or present architecture.

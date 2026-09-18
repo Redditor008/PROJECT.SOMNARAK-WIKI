@@ -1,30 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BORDER ROOT">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // SHIELD -->
   <defs>
-    <radialGradient id="bg217a5f" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw151" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#230a0e"/>
+      <stop offset="100%" stop-color="#0c0405"/>
     </radialGradient>
-    <radialGradient id="gl217a5f" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl151" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#450a0a"/>
+      <stop offset="1" stop-color="#f87171"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg217a5f)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw151)" stroke="#b91c1c" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="132" fill="url(#gl217a5f)"/>
-  <g transform="rotate(0 200.0 192.0)">
-<path d="M200.0 119.3 L278.0 141.5 L278.0 202.1 Q256.2 246.5 200.0 274.8 Q143.8 246.5 122.0 202.1 L122.0 141.5 Z" fill="#d64a4a" fill-opacity=".2" stroke="#d64a4a" stroke-width="3"/>
-<path d="M200.0 127.4 L200.0 264.7" stroke="#e0f2fe" stroke-width="1.3" opacity=".55"/>
-<path d="M156.3 171.8 L243.7 171.8" stroke="#e0f2fe" stroke-width="1.2" opacity=".5"/>
-<circle cx="200.0" cy="192.0" r="15.0" fill="none" stroke="#d64a4a" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-6 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <g transform="rotate(10 200.0 236.0)" opacity=".9">
-    <path d="M182.7 236.0 Q200.0 217.3 217.3 236.0" fill="none" stroke="#e0f2fe" stroke-width="2.4" opacity=".38"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-151-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0405" stroke="#b91c1c" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#b91c1c" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <path d="M96 348 C 130 320, 158 292, 184 258 C 212 222, 240 186, 272 156 C 288 142, 304 132, 320 128 L352 148 C 350 168, 340 186, 322 200 C 292 220, 264 244, 240 274 C 216 302, 190 330, 162 352 C 144 366, 122 370, 104 364 C 94 360, 92 354, 96 348 Z"
+        fill="url(#bl151)" stroke="#b91c1c" stroke-width="2.8"/>
+  <path d="M306 128 C 322 108, 348 102, 366 114 C 382 124, 386 146, 376 164 C 368 180, 352 190, 334 188 C 324 202, 310 206, 300 198"
+        fill="url(#bl151)" stroke="#b91c1c" stroke-width="2.8"/>
+  <circle cx="344" cy="138" r="9" fill="none" stroke="#7f1d1d" stroke-width="2.4"/>
+  <circle cx="344" cy="138" r="4" fill="none" stroke="#450a0a" stroke-width="1.8"/>
+  <circle cx="362" cy="156" r="6" fill="none" stroke="#7f1d1d" stroke-width="2"/>
+  <circle cx="326" cy="162" r="7" fill="none" stroke="#7f1d1d" stroke-width="2"/>
+  <circle cx="326" cy="162" r="3" fill="none" stroke="#450a0a" stroke-width="1.4"/>
+  <path d="M320 124 C 336 116, 356 118, 368 130 M312 144 C 318 134, 330 128, 342 128 M336 176 C 350 174, 362 166, 368 154" fill="none" stroke="#450a0a" stroke-width="1.8"/>
+  <path d="M352 132 C 358 128, 366 130, 370 136" fill="none" stroke="#fca5a5" stroke-width="1.2" opacity=".7"/>
+  <path d="M112 350 C 148 322, 180 288, 210 250 C 234 220, 260 190, 290 166" fill="none" stroke="#7f1d1d" stroke-width="2.2"/>
+  <path d="M126 356 C 160 328, 192 294, 222 258 C 244 232, 268 206, 296 182" fill="none" stroke="#450a0a" stroke-width="1.6" opacity=".9"/>
+  <path d="M104 356 C 140 328, 174 292, 204 254" fill="none" stroke="#fca5a5" stroke-width="1.2" opacity=".7"/>
+  <path d="M366 114 C 372 102, 374 90, 372 78 M378 128 C 388 120, 394 110, 396 98 M382 148 C 392 146, 400 140, 404 130"
+        fill="none" stroke="#b91c1c" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M372 78 L368 70 M372 78 L378 72 M396 98 L394 88 M396 98 L404 94" stroke="#b91c1c" stroke-width="1.8"/>
+  <path d="M100 352 C 112 344, 120 348, 116 358 C 112 366, 120 372, 130 368 M126 340 C 138 332, 146 336, 142 346" fill="none" stroke="#4ade80" stroke-width="2.6"/>
+  <path d="M108 366 C 100 376, 90 380, 80 378" fill="none" stroke="#4ade80" stroke-width="2.2"/>
+  <path d="M80 378 L70 382 L76 372 Z" fill="#4ade80"/>
+  <path d="M120 336 C 116 330, 118 324, 124 322 C 126 328, 124 334, 120 336 Z M134 346 C 138 340, 144 338, 148 342 C 144 346, 138 348, 134 346 Z" fill="#4ade80" opacity=".9"/>
 </svg>

@@ -18,6 +18,10 @@ A black Han-steel Head compass with no cardinal marks. Its needle follows intend
 
 The Architect granted it after Yeonhwa mapped an unfinished structure by purpose without adding the missing room. Bestowal chance is 4%.
 
+## Appearance
+
+The Architect’s Compass is a black head-compass of Han steel with no cardinal marks at all — its needle ignores geography and follows intended circulation instead: door, stair, gathering place, light. The Architect granted it after a cartographer mapped an unfinished structure by purpose without adding the missing room; it cannot be manufactured. Held over damaged or incomplete construction, it reveals the intended structure beneath — in its recorded case, a planned clinic entry that was never built, whose intended route located buried utilities without the nonexistent clinic ever being marked as recovered infrastructure. The cost is grief for the unbuilt: the bearer feels every future the building failed to hold. A needle pointing toward people who never arrived is the first corrosion sign, planned use replacing actual current need the second, and a needle locked on the missing element is the completion pull. Blueprint authority — intended structure overriding living users — is the listed capture failure. Care compares intended plan, current structure, and current occupants on separate maps, and the Compass clears only while all three remain distinct. Emergency release leaves the construction zone and orients to a living person’s stated present destination; forcing north destroys the purpose needle.
+
 ## FUNCTION & COST
 
 **Grade / Element:** γ / Weight  

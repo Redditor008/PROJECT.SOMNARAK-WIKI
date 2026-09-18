@@ -1,31 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DEADLINE MAUL">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // MAUL -->
   <defs>
-    <radialGradient id="bgbd3f26" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw156" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1c1206"/>
+      <stop offset="100%" stop-color="#0a0703"/>
     </radialGradient>
-    <radialGradient id="glbd3f26" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl156" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#78350f"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgbd3f26)" stroke="#c9a86a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw156)" stroke="#f59e0b" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="133" fill="url(#glbd3f26)"/>
-  <g transform="rotate(1 200.0 192.0)">
-<rect x="153.0" y="163.0" width="94.0" height="58.0" rx="7" fill="#c9a86a" fill-opacity=".24" stroke="#c9a86a" stroke-width="3.5"/>
-<path d="M171.8 171.7 L228.2 171.7" stroke="#e0f2fe" stroke-width="1.3" opacity=".7"/>
-<circle cx="200.0" cy="192.0" r="12.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
-<rect x="194.0" y="221.0" width="12" height="114.0" rx="4" fill="#1f2937" stroke="#c9a86a" stroke-width="2"/>
-<circle cx="200.0" cy="345.0" r="7" fill="#c9a86a" fill-opacity=".55"/>
-  </g>
-  <g transform="rotate(9 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#c9a86a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".45"/>
-  </g>
-  <g transform="rotate(-3 200.0 120.0)" opacity=".9">
-    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-W-156-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0703" stroke="#f59e0b" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#f59e0b" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <path d="M84 348 L226 222" stroke="#2c1c0a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M88 344 L222 226" stroke="#4a300f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M118 320 L132 334 M150 290 L164 304 M182 262 L196 276" stroke="#78716c" stroke-width="6"/>
+  <path d="M120 318 L130 328 M152 288 L162 298 M184 260 L194 270" stroke="#d6d3d1" stroke-width="1.6"/>
+  <path d="M78 356 a8 8 0 1 0 .1 0" fill="#1c1206" stroke="#f59e0b" stroke-width="2.4"/>
+  <path d="M232 100 C 218 112, 210 130, 210 150 C 210 170, 218 188, 232 200 L296 224 C 282 212, 274 194, 274 174 C 274 154, 282 136, 296 124 Z"
+        fill="#171006" stroke="#d97706" stroke-width="3"/>
+  <path d="M244 110 C 232 122, 226 138, 226 154 C 226 170, 232 186, 244 198 M262 118 C 250 130, 244 146, 244 162 C 244 178, 250 194, 262 206"
+        fill="none" stroke="#78716c" stroke-width="4"/>
+  <path d="M245 112 C 234 124, 228 138, 228 153 M263 120 C 252 132, 246 146, 246 161" stroke="#a8a29e" stroke-width="1.4" fill="none"/>
+  <ellipse cx="302" cy="174" rx="46" ry="60" fill="#171006" stroke="#f59e0b" stroke-width="3.2"/>
+  <ellipse cx="302" cy="174" rx="46" ry="60" fill="url(#bl156)" opacity=".16"/>
+  <ellipse cx="302" cy="174" rx="35" ry="48" fill="none" stroke="#a16207" stroke-width="1.8"/>
+  <path d="M302 118 L302 128 M302 220 L302 230 M260 174 L268 174 M336 174 L344 174 M276 132 L281 140 M328 132 L323 140 M276 216 L281 208 M328 216 L323 208"
+        stroke="#fbbf24" stroke-width="2.4"/>
+  <path d="M302 174 L320 142" stroke="#fde68a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M302 174 L282 184" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="302" cy="174" r="5" fill="#fde68a"/>
+  <path d="M268 136 L292 158 L284 180 L306 200 L300 224" fill="none" stroke="#f59e0b" stroke-width="3"/>
+  <path d="M268 136 L292 158 L284 180" fill="none" stroke="#fff7d6" stroke-width="1.2"/>
+  <circle cx="294" cy="192" r="9" fill="none" stroke="#a16207" stroke-width="2"/>
+  <path d="M294 181 L294 185 M294 199 L294 203 M283 192 L287 192 M301 192 L305 192 M287 185 L290 188 M301 196 L298 193 M287 199 L290 196 M301 188 L298 191" stroke="#a16207" stroke-width="1.8"/>
+  <circle cx="308" cy="210" r="6" fill="none" stroke="#78350f" stroke-width="1.8"/>
+  <path d="M308 202 L308 205 M308 215 L308 218 M300 210 L303 210 M313 210 L316 210" stroke="#78350f" stroke-width="1.4"/>
+  <path d="M296 112 L302 120 L312 106" fill="none" stroke="#4ade80" stroke-width="2.6"/>
+  <path d="M230 206 L246 220" stroke="#78716c" stroke-width="8"/>
+  <path d="M232 204 L244 216" stroke="#d6d3d1" stroke-width="1.8"/>
 </svg>

@@ -1,26 +1,53 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="HOVER REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg6b9b38" cx="50%" cy="42%" r="58%">
+    <radialGradient id="bw503" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#111827"/>
       <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <radialGradient id="gl6b9b38" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
+    <radialGradient id="gw503" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="gs503" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#0c4a6e"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg6b9b38)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw503)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="116" fill="url(#gl6b9b38)"/>
-  <g transform="rotate(-4 200.0 192.0)">
-<path d="M187.0 192.0 L194.54 94.8 L200.0 57.0 L205.46 102.89999999999999 L213.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 57.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="193.5" y="113.7" width="13.0" height="56.7" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="177.0" y="187.0" width="46.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="34.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="242.0" r="7.0" fill="#3e8bd5" fill-opacity=".7"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gw503)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- HOVER REQUIEM: broken-back seax; inclusion chamber holds the floating borrowed wound -->
+  <path d="M200 56 L 240 96 L 240 250 L 158 250 L 158 96 Z"
+        fill="url(#gs503)" stroke="#7dd3fc" stroke-width="2.8"/>
+  <path d="M200 56 L 240 96" stroke="#bae6fd" stroke-width="1.6" opacity=".9"/>
+  <path d="M166 104 V 244" stroke="#bae6fd" stroke-width="1.1" opacity=".7"/>
+  <!-- the clear inclusion chamber -->
+  <ellipse cx="199" cy="164" rx="32" ry="46" fill="#0a1626" stroke="#7dd3fc" stroke-width="1.8" opacity=".95"/>
+  <ellipse cx="199" cy="164" rx="24" ry="37" fill="none" stroke="#0c4a6e" stroke-width="1" opacity=".7"/>
+  <!-- the floating borrowed wound, drifting -->
+  <path d="M187 154 c 8 -6 16 -4 22 4 c 4 6 2 11 -4 12 c -7 1 -14 -3 -18 -8 c -3 -4 -3 -7 0 -8 Z"
+        fill="none" stroke="#ef4444" stroke-width="2.2"/>
+  <path d="M190 156 l 6 3 M199 152 l 5 4" stroke="#ef4444" stroke-width="1.1" opacity=".8"/>
+  <g stroke="#7dd3fc" stroke-width="1" opacity=".6" stroke-dasharray="2 3">
+    <path d="M226 128 c 4 -3 7 -3 11 -1 M232 200 c 4 3 7 3 11 1"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-503-01</text>
+  <!-- the bounded intervention brace, intact -->
+  <path d="M296 288 l 24 0 l 0 -22" fill="none" stroke="#4ade80" stroke-width="2.4"/>
+  <path d="M300 284 l 14 -14" stroke="#4ade80" stroke-width="1.5"/>
+  <!-- the obstruction, severed -->
+  <path d="M264 296 L 292 316" stroke="#0c4a6e" stroke-width="3"/>
+  <path d="M272 312 L 282 300" stroke="#f1df76" stroke-width="2.6"/>
+  <path d="M266 306 l 5 -5 M288 310 l 5 -5" stroke="#f1df76" stroke-width="1.2"/>
+  <!-- the no-cure promise: crossed cure glyph -->
+  <rect x="70" y="150" width="34" height="22" rx="3" fill="#082f49" stroke="#0c4a6e" stroke-width="1.4"/>
+  <path d="M87 154 v14 M80 161 h14" stroke="#0c4a6e" stroke-width="1.8"/>
+  <path d="M70 150 L 104 172 M104 150 L 70 172" stroke="#38bdf8" stroke-width="1.8"/>
+  <!-- grip -->
+  <rect x="188" y="250" width="24" height="62" rx="6" fill="#082f49" stroke="#38bdf8" stroke-width="2.2"/>
+  <path d="M190 264 L 210 270 M190 282 L 210 288 M190 300 L 210 306" stroke="#7dd3fc" stroke-width="1.4" opacity=".8"/>
+  <circle cx="200" cy="326" r="6" fill="#082f49" stroke="#f1df76" stroke-width="1.8"/>
+
 </svg>

@@ -1,26 +1,55 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DROWNED REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg0a3f7e" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw378" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl0a3f7e" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl378" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg0a3f7e)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw378)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="113" fill="url(#gl0a3f7e)"/>
-  <g transform="rotate(-4 200.0 192.0)">
-<path d="M187.0 192.0 L194.54 96.96000000000001 L200.0 60.0 L205.46 104.88 L213.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 60.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="193.5" y="115.4" width="13.0" height="55.4" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="177.0" y="187.0" width="46.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="43.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="251.0" r="6.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-378-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- hanging ring + chain -->
+  <circle cx="200" cy="76" r="10" fill="none" stroke="#7dd3fc" stroke-width="2.6"/>
+  <path d="M200 86 L200 100 M196 93 L204 93" stroke="#3b5f88" stroke-width="2"/>
+  <!-- THE DIVING BELL: deep-blue crystal bell, wide mouth down -->
+  <path d="M148 210 C 148 148, 170 104, 200 104 C 230 104, 252 148, 252 210 L 262 236 L 138 236 Z"
+        fill="url(#bl378)" fill-opacity=".9" stroke="#38bdf8" stroke-width="2.8"/>
+  <path d="M158 196 C 158 152, 172 118, 192 110" fill="none" stroke="#e0f2fe" stroke-width="1.8" opacity=".7"/>
+  <path d="M244 200 C 244 160, 234 128, 218 114" fill="none" stroke="#1e3a5f" stroke-width="1.8"/>
+  <!-- crystal facet lines -->
+  <path d="M172 122 L172 226 M200 108 L200 232 M228 122 L228 226" stroke="#12233d" stroke-width="1.4" opacity=".8"/>
+  <!-- INTERIOR WATERLINE: the bell holds water inside, line perfectly level -->
+  <path d="M152 176 L248 176" stroke="#7dd3fc" stroke-width="2.4"/>
+  <path d="M156 182 L244 182" stroke="#3b5f88" stroke-width="1.2" opacity=".7"/>
+  <!-- THE PRESERVED CALL: a small mouth mark deep under the waterline, ripple rings rising -->
+  <path d="M194 208 C 197 211, 203 211, 206 208" fill="none" stroke="#e0f2fe" stroke-width="2.2"/>
+  <circle cx="200" cy="204" r="9" fill="none" stroke="#93c5fd" stroke-width="1.4"/>
+  <circle cx="200" cy="200" r="16" fill="none" stroke="#60a5fa" stroke-width="1.2" opacity=".8"/>
+  <circle cx="200" cy="194" r="24" fill="none" stroke="#3b5f88" stroke-width="1.1" opacity=".6"/>
+  <!-- bubbles carrying the call upward, flattening as they cross the waterline -->
+  <circle cx="206" cy="168" r="2.6" fill="none" stroke="#7dd3fc" stroke-width="1.3"/>
+  <circle cx="196" cy="152" r="2" fill="none" stroke="#7dd3fc" stroke-width="1.2"/>
+  <ellipse cx="204" cy="136" rx="2.6" ry="1.4" fill="none" stroke="#60a5fa" stroke-width="1.1"/>
+  <!-- muffled sound leaving the bell mouth: waves compressed flat -->
+  <path d="M160 246 C 166 242, 172 242, 178 246 M186 248 C 191 245, 196 245, 201 248 M209 248 C 213 246, 217 246, 221 248 M229 246 L 243 246" fill="none" stroke="#7dd3fc" stroke-width="1.6" opacity=".85"/>
+  <!-- THE SEVERED PRESSURE COLUMN outside the bell: cut, the voice unchanged -->
+  <path d="M286 116 L286 168 M280 124 L292 124 M280 140 L292 140 M280 156 L292 156" stroke="#1e3a5f" stroke-width="2.2"/>
+  <path d="M278 176 L294 168" stroke="#f1df76" stroke-width="2.4"/>
+  <path d="M286 184 L286 216" stroke="#3b5f88" stroke-width="1.6" stroke-dasharray="3 4" opacity=".7"/>
+  <!-- grief with coordinates: location tag hung on the rim, place beyond rescue -->
+  <path d="M252 226 C 260 224, 268 226, 272 232" fill="none" stroke="#3b5f88" stroke-width="1.4"/>
+  <rect x="268" y="232" width="34" height="16" rx="2" fill="#050a14" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M273 240 L297 240 M273 244 L289 244" stroke="#f1df76" stroke-width="1.1"/>
+  <!-- rim ferrule + two tear-drops falling from the mouth -->
+  <path d="M138 236 L262 236" stroke="#12233d" stroke-width="4"/>
+  <path d="M170 260 C 167 265, 167 269, 170 272 C 173 269, 173 265, 170 260 Z" fill="#7dd3fc"/>
+  <path d="M226 266 C 223 271, 223 275, 226 278 C 229 275, 229 271, 226 266 Z" fill="#60a5fa"/>
+  <!-- calm-acknowledgment band on the crown: panic never made one -->
+  <path d="M186 104 L214 104" stroke="#f1df76" stroke-width="2.6"/>
 </svg>

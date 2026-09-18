@@ -19,6 +19,10 @@
 **Canonical ability:** An eye-stone that flares warm in the presence of a deep, unspoken longing — warning the bearer of wishes too large to be granted safely.  
 **Binding rule:** the bearer names YANG River Flood's event—Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record.—and accepts this limit: Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim
 
+## Appearance
+
+The Glowing Eye is the gift record of the YANG River Flood set — head-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability is an eye-stone that flares warm near a deep, unspoken longing, warning of wishes too large to grant safely. Binding names the source event — a traveller slept beside the carving and stepped off the riverbank at dawn certain he could fly; the carving now sits in the Vault — and accepts the set's limit: do not touch; name the sky it cannot reach, and let the glowing eyes dim. The cost is nightly: the bearer dreams of flying, wakes on the ground, and grieves a thing they cannot name. The source-trace fixed doctrine: the carving's eyes brightened and its long history of grounded longing became readable in their glow, the Eye marking the hazard only after attribution to YANG River Flood. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 4%  

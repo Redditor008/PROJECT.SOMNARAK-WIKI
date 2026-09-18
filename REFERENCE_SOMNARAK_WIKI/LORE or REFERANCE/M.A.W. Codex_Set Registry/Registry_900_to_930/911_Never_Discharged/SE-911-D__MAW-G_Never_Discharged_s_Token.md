@@ -19,6 +19,10 @@
 **Canonical ability:** A fragment of the entity's body sorrow, crystallized into wearable form.   <!-- SE-911 -->
 **Binding rule:** the bearer names Never Discharged's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Never Discharged's Token is the gift record of the Never Discharged set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the source's body sorrow, crystallized into wearable form, an insignia from a service with no end date. Binding names Never Discharged's event — Not recorded, duty outlasting every document that assigned it — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is gravitational: the bearer moves as though carrying an invisible load that grows heavier near unresolved debt, standing at attention before obligations they never enlisted for. The source-trace fixed doctrine: the source permits study, its body pressure becoming legible under sustained observation, and the Token stays the hazard only after attribution to Never Discharged. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  

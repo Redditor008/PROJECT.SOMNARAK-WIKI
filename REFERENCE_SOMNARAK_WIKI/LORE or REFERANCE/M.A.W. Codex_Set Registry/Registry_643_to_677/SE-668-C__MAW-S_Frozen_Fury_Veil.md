@@ -14,6 +14,10 @@
 
 A pale gossamer veil smelling faintly of ash. Binding requires current-name, location, and year anchors.
 
+## Appearance
+
+The Frozen Fury Veil is a pale gossamer veil smelling faintly of ash — the fire is long over, but the cloth remembers it at the threshold of scent. Binding requires current-name, location, and year anchors: all three fastened before the ruin is entered. In the field, its Present Witness resists Void and prevents emotional fixation in the ruin’s final moment — the wearer held in the present tense inside a place that has none. The cost is a faint absence from oneself, presence thinned by its own protection. In its recorded case a wearer found an agent endlessly reading an evacuation notice — the Veil restored his current year but substituted a frozen resident’s face for his own until he stated he was witness, not inhabitant; the armor demanding the distinction aloud. Corrosion runs from present anchors frosting over, through the wearer repeating final gestures, to a terminal state that installs them among the frozen residents — witness converted into casualty by increments. It is maintained by rewriting all three anchors after every deployment and airing the Veil outside Collector territory; emergency shutdown has two present witnesses call name and year while the wearer turns their back on the ruin.
+
 **Grade / Element:** δ / Void
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

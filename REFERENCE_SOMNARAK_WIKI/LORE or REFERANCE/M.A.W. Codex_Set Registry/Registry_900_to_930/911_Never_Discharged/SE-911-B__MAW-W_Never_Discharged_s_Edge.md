@@ -19,6 +19,10 @@
 **Canonical ability:** Channels weight body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.   <!-- SE-911 -->
 **Binding rule:** the bearer names Never Discharged's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Never Discharged's Edge is the weapon record of the Never Discharged set — β-grade, Weight-aligned, striking at 11–17 Weight in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels weight body sorrow: the blade does not cut flesh so much as the body register of the target's grief, a service that never ended swung as an instrument. Binding names Never Discharged's event — Not recorded, the tour of duty missing its own orders — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is chronic fatigue in the dominant hand with each use, the grip that was never allowed to stand down. The source-trace fixed doctrine: the time-manifestation gave no transcribable field response, and the Edge discharges the hazard only after attribution to Never Discharged — the one release the source itself was refused. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

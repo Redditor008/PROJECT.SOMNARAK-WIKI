@@ -27,6 +27,10 @@ A Tail charm of crimson Han-iron contains a black ember that grows hot near reme
 | Binding cost | Its entire history is felt as personal grief |
 | Corrosion risk | Severe if recall is mistaken for ownership |
 
+## Appearance
+
+Home to No One Who Knew Me’s Ember is a tail charm of crimson Han iron containing a black ember that grows hot near remembered loss — heat keyed to what is missed, not to fire. Random bestowal belongs to the source alone; it cannot be manufactured. Its function is the One-Object Return: it recalls one specifically identified lost object for a brief acknowledgment interval — returning object and history, never legal title, former owner, intact context, or restoration. The hidden condition is the word “mine”: spoken before the object’s current status is reviewed, the Ember recalls every prior claimant’s emotional bond and distributes all of it through the bearer at once. In its recorded case the first Ember recalled a lost clapper associated with Old Lament’s former district bell — it appeared carrying generations of ceremonies, theft, exile, and neglect, and the bearer nearly installed it in the surviving bell before the record showed it recast for another community. The clapper was acknowledged, documented, and released without installation — returned to history rather than to service. The Ember now refuses to cool beside any object described only by its former function, holding its heat until the present tense is spoken.
+
 ## EFFECT & HIDDEN CONDITION
 
 **One-Object Return:** recalls one specifically identified lost object for a brief acknowledgment interval. The Gift returns object and history, not legal title, former owner, intact context, or restoration.

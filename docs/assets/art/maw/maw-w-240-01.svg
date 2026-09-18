@@ -1,25 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE RUIN FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bgef6966" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw240" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#230a0e"/>
+      <stop offset="100%" stop-color="#0c0405"/>
     </radialGradient>
-    <radialGradient id="glef6966" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl240" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgef6966)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw240)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="134" fill="url(#glef6966)"/>
-  <g transform="rotate(-1 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 108.94999999999999, 233.0 41.0 239.0 41.0 C229.0 113.48, 220.0 140.66, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 122.53999999999999, 231.0 49.0 236.0 47.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="44.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="248.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-240-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0405" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- dark crimson fang, deep curve, held tip-high -->
+  <path d="M132 330 C 120 280, 130 224, 162 178 C 188 140, 226 112, 268 100 C 292 92, 314 94, 328 104 C 324 118, 310 128, 292 136 C 256 150, 226 172, 204 202 C 178 236, 164 282, 164 328 Z"
+        fill="url(#bl240)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M148 318 C 142 272, 154 226, 184 186 C 212 150, 250 122, 294 110" fill="none" stroke="#450a0a" stroke-width="2.4"/>
+  <!-- THE WET EDGE: liquid shine running the whole inner curve -->
+  <path d="M166 322 C 166 280, 180 238, 206 204 C 230 172, 262 148, 298 134" fill="none" stroke="#fecaca" stroke-width="2.2"/>
+  <path d="M172 300 C 174 296, 174 292, 172 288 M196 240 C 198 236, 198 232, 196 228" stroke="#fff1f2" stroke-width="1.2" opacity=".8"/>
+  <!-- GHOST MASONRY: thin red tracings leaving the edge — wall lines, a stair, a banister that no longer exist -->
+  <path d="M298 134 L344 134 L344 96" fill="none" stroke="#ef4444" stroke-width="1.4" stroke-dasharray="6 4" opacity=".9"/>
+  <path d="M262 158 L306 158 L306 190 L330 190" fill="none" stroke="#ef4444" stroke-width="1.3" stroke-dasharray="5 4" opacity=".75"/>
+  <path d="M230 190 L262 190 L262 214 L286 214 L286 236" fill="none" stroke="#dc2626" stroke-width="1.2" stroke-dasharray="4 4" opacity=".6"/>
+  <path d="M208 226 L232 226 L232 246 L252 246" fill="none" stroke="#b91c1c" stroke-width="1.1" stroke-dasharray="3 4" opacity=".5"/>
+  <!-- stair ghost -->
+  <path d="M306 158 L306 146 L318 146 L318 134" fill="none" stroke="#ef4444" stroke-width="1.2" stroke-dasharray="3 3" opacity=".7"/>
+  <!-- the two corroborated survivor maps: overlapping etched outlines on the flat -->
+  <path d="M196 262 L228 258 L232 286 L200 290 Z" fill="none" stroke="#fca5a5" stroke-width="1.4" opacity=".8"/>
+  <path d="M204 254 L236 252 L238 280 L208 282 Z" fill="none" stroke="#f1df76" stroke-width="1.2" opacity=".7"/>
+  <!-- overlap zone hatched -->
+  <path d="M210 262 L230 260 M211 270 L231 268 M212 278 L230 276" stroke="#fb923c" stroke-width="1" opacity=".7"/>
+  <!-- socket guard + wrapped grip -->
+  <path d="M126 336 L154 356" stroke="#7f1d1d" stroke-width="10"/>
+  <path d="M130 334 L150 350" stroke="#fca5a5" stroke-width="1.8"/>
+  <path d="M124 344 L96 378" stroke="#2b0c0c" stroke-width="12" stroke-linecap="round"/>
+  <path d="M120 352 L130 358 M112 362 L122 368" stroke="#ef4444" stroke-width="2.4"/>
+  <path d="M90 386 a7 7 0 1 0 .1 0" fill="#230a0e" stroke="#fca5a5" stroke-width="2.4"/>
 </svg>

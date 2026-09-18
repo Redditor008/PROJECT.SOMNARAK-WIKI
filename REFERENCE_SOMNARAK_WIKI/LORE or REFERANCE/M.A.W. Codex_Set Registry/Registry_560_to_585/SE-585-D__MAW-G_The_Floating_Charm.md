@@ -27,6 +27,10 @@ A small deep-blue crystal charm floats behind the Tail slot without touching its
 | Binding cost | Dreams revisit every place associated with lost belonging |
 | Corrosion risk | Moderate after major displacement events |
 
+## Appearance
+
+The Floating Charm is a small charm of deep-blue crystal that floats behind the tail slot without touching its fastening — leaf-shapes drift upward inside it, rising and vanishing like the memory-shapes in its sibling shroud. Rootless grants it at random after successful work; it cannot be manufactured. Its function is the Living Map: it reveals emotional ties to a lost place as lines connecting living people rather than lines pointing toward vanished coordinates — a scattered group shown its mutual bonds while traveling, belonging drawn as a web with no pin in the ground. The hidden condition is absolute: used to prove ownership of land or designate a “true” homeland, the lines reverse and pull bearers toward the point where the place ceased to exist. In its recorded case the lines connected six survivors in different zones with no central point — and when an administrator drew a center by averaging their coordinates, all six walked toward the Scar in their sleep that night. The calculated point was erased, and the lines returned to one another. The Gift rejects geometric convenience whenever geometry is being used to replace community; its blank center is not an error but the first honest map.
+
 ## EFFECT & HIDDEN CONDITION
 
 **Living Map:** reveals emotional ties to a lost place as lines connecting living people rather than lines pointing toward vanished coordinates. It helps a scattered group identify mutual bonds while traveling.

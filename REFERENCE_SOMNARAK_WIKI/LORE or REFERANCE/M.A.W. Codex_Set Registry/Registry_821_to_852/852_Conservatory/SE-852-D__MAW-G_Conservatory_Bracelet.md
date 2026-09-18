@@ -19,6 +19,10 @@
 **Canonical ability:** Protects others from structural collapse.  
 **Binding rule:** the bearer names Conservatory's event—A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Conservatory Bracelet is the gift record of Conservatory’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability redeems the source’s failure in miniature: it protects others from structural collapse, the crystallized disaster lending out the protection it could not provide at home. Binding names Conservatory’s event — a caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is retrospective: the wearer feels every place they failed to preserve, each protected structure invoiced against the unprotected ones, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift shows the love and failure behind the structure — the devotion and the overload presented together, inseparable — and it marked the immediate hazard only after attribution to Conservatory. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  

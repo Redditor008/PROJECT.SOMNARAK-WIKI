@@ -19,6 +19,10 @@
 **Canonical ability:** Shows a person's hidden exhaustion and emotional wounds.  
 **Binding rule:** the bearer names Vanity Asleep's event—Citizens repeatedly avoided their own reflection after loss; the denied self became a sleeping presence.—and accepts this limit: Do not wake it by force; look at the reflected self without turning away
 
+## Appearance
+
+The Sleeping Reflection is the gift record of the Vanity Asleep set — head-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability shows a person's hidden exhaustion and emotional wounds, the mirror's honesty finally put to kind use. Binding names the source event — citizens repeatedly avoided their own reflection after loss, and the denied self became a sleeping presence — and accepts the set's limit: do not wake it by force; look at the reflected self without turning away. The cost is projection: the wearer sees pity in every face they meet, the avoided gaze returned from everywhere. The source-trace fixed doctrine: the Reflection revealed a truth the worker had avoided, the gift administering its own binding lesson, and it isolates the hazard only after attribution to Vanity Asleep. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 4%  

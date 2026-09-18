@@ -1,25 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE TORN FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg954d24" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw426" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#450a0a"/>
+      <stop offset="100%" stop-color="#1c0505"/>
     </radialGradient>
-    <radialGradient id="gl954d24" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
+    <radialGradient id="gw426" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#f87171" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="gs426" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fca5a5"/>
+      <stop offset="1" stop-color="#7f1d1d"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg954d24)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw426)" stroke="#dc2626" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="134" fill="url(#gl954d24)"/>
-  <g transform="rotate(-7 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 123.8, 223.0 68.0 229.0 68.0 C219.0 127.52, 220.0 149.84, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 134.96, 221.0 76.0 226.0 74.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="47.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="251.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-426-01</text>
+  <circle cx="200" cy="188" r="132" fill="url(#gw426)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#1c0505" stroke="#dc2626" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#dc2626" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- TORN FANG: straight spine, ragged channel torn down the middle and never refilled -->
+  <path d="M200 60 L 250 90 L 250 224 L 214 254 L 186 254 L 150 224 L 150 90 Z"
+        fill="url(#gs426)" stroke="#fca5a5" stroke-width="2.8"/>
+  <path d="M200 60 L 250 90" stroke="#fecaca" stroke-width="1.6" opacity=".9"/>
+  <!-- the torn central channel: ragged void -->
+  <path d="M196 96 L 214 100 L 208 132 L 218 148 L 202 182 L 212 210 L 202 244 L 192 244 L 202 210 L 192 182 L 208 148 L 198 132 L 204 100 Z"
+        fill="#160606" stroke="#7f1d1d" stroke-width="1.4"/>
+  <path d="M196 96 l 18 4 M214 100 l -6 32 M218 148 l -16 34 M212 210 l -10 34" stroke="#fca5a5" stroke-width="1" opacity=".75"/>
+  <!-- the strip torn out, lying apart -->
+  <path d="M286 296 L 300 294 L 296 316 L 284 314 Z" fill="#290a0a" stroke="#fca5a5" stroke-width="1.4"/>
+  <path d="M282 292 L 304 288" stroke="#fca5a5" stroke-width="1" stroke-dasharray="3 2" opacity=".7"/>
+  <!-- the invented-patch offer, crossed out -->
+  <path d="M304 250 L 322 246 L 320 262 L 306 258 Z" fill="none" stroke="#fecaca" stroke-width="1.2" stroke-dasharray="4 3"/>
+  <path d="M300 244 L 326 268 M326 244 L 300 268" stroke="#dc2626" stroke-width="2"/>
+  <!-- identity anchor tag holding -->
+  <rect x="120" y="252" width="40" height="20" rx="3" fill="#290a0a" stroke="#f1df76" stroke-width="1.4"/>
+  <path d="M126 260 h28" stroke="#f1df76" stroke-width="1.2"/>
+  <circle cx="134" cy="278" r="2" fill="#f1df76"/>
+  <!-- grip -->
+  <rect x="188" y="254" width="24" height="60" rx="6" fill="#290a0a" stroke="#dc2626" stroke-width="2.2"/>
+  <path d="M190 268 L 210 274 M190 286 L 210 292 M190 304 L 210 310" stroke="#fca5a5" stroke-width="1.4" opacity=".8"/>
+  <circle cx="200" cy="326" r="6" fill="#290a0a" stroke="#f1df76" stroke-width="1.8"/>
+
 </svg>

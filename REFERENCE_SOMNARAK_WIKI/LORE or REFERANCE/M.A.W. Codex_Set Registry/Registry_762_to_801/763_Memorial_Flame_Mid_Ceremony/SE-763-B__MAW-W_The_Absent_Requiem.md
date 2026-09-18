@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Memorial Flame Mid-Ceremony's lament signature in the strike.  
 **Binding rule:** the bearer names Memorial Flame Mid-Ceremony's event—A memorial flame was extinguished during an Alpha Tree evacuation. The mourners were scattered and never completed the ceremony.—and accepts this limit: Complete the memorial without attempting to recreate the original flame
 
+## Appearance
+
+The Absent Requiem is the weapon record of Memorial Flame Mid-Ceremony’s set, a Lament instrument attacking the Mind by channeling the extinguished memorial’s lament signature into the strike. Binding is testimonial: the bearer names the source event — a memorial flame was extinguished during an Alpha Tree evacuation, and the scattered mourners never completed the ceremony — and accepts the set’s limit: complete the memorial without attempting to recreate the original flame. The operational cost is the Lament standard: the wielder feels the entity’s unwept grief, prolonged use causes involuntary weeping, and continued use makes the source sorrow feel autobiographical — the interrupted ceremony misfiling itself as the wielder’s duty. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan at all — the weapon opens the immediate hazard only after the team attributes it to the source, and treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

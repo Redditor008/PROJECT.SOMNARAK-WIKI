@@ -18,6 +18,10 @@ A matte black Han-weave mantle that breathes without sound and leaves the wearer
 
 Binding requires a listener, a private exit, and permission for the wearer to say nothing. Hanul used it beside a silent family group; the Mantle reduced crushing Weight while nobody spoke. Relief began before the first voluntary word.
 
+## Appearance
+
+The Silence Mantle is a matte black garment of Han weave that breathes without sound and leaves the wearer’s mouth uncovered — quiet built into the cloth, speech left deliberately possible. It condenses after a pressure field recedes without forced disclosure, and its binding needs three things: a listener, a private exit, and permission for the wearer to say nothing at all. Worn beside a silent group, the Mantle distributes silence pressure across its folds while keeping speech and exit available — in its recorded case it reduced crushing Weight while nobody spoke, and relief began before the first voluntary word. The cost is constant low fatigue, and prolonged wear makes every conversation feel like demand. An exit that closes until the wearer speaks is the quiet prison; silence praised so strongly that speech becomes disloyal is listener pressure; and a wearer disappearing from shared attention is Void withdrawal. It is maintained hung in a room with an open exit and no questions, cleared only after someone enters and leaves without explanation. The wearer removes it personally unless they request help — no one else’s hands decide when the quiet ends.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

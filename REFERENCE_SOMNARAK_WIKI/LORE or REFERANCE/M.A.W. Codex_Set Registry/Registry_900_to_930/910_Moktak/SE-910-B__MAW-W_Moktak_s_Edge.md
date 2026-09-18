@@ -19,6 +19,10 @@
 **Canonical ability:** Channels weight spirit sorrow in each strike — the weapon does not cut flesh so much as cut at the spirit register of the target's grief.   <!-- SE-910 -->
 **Binding rule:** the bearer names Moktak's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Moktak's Edge is the weapon record of the Moktak set — β-grade, Weight-aligned, striking at 11–17 Weight in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels weight spirit sorrow: the blade does not cut flesh so much as the spirit register of the target's grief, each strike landing like the wooden bell's beat in an empty hall. Binding names Moktak's event — Not recorded, the rhythm surviving the hand that kept it — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is emotional numbness toward the Weight element with each use, devotion's percussion dulling the wielder to the register it strikes. The source-trace fixed doctrine: the place gave no transcribable field response, and the Edge stabilizes the hazard only after attribution to Moktak. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

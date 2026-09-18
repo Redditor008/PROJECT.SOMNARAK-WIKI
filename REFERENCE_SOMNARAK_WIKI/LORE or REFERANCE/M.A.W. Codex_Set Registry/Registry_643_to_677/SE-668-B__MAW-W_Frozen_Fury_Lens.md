@@ -14,6 +14,10 @@
 
 A circular weapon of pale glass was taken from the corrected ledger’s reflection. It rejects any wielder unable to name the institution responsible.
 
+## Appearance
+
+The Frozen Fury Lens is a circular weapon of pale glass taken from the corrected ledger’s reflection — extracted not from the ruin but from the document that finally told its truth. It rejects any wielder unable to name the institution responsible; accountability is the grip. In use, its Blame Excision pierces false attribution across up to three linked records — each use removes a small memory, and striking ice releases Full Thaw — the ruin’s arrested grief at once. In its recorded case a wielder cut a clause labeling one family absent from inspection; the next line falsely read “voluntary departure,” and his weakened second pierce removed it but also erased his memory of their room number — correction and uncertainty were preserved separately, the discipline the weapon teaches. Corrosion runs from missing memories feeling like exoneration, through the edge aiming at frozen residents, to a terminal state that erases victims while correcting blame — the record perfected at the cost of the people in it. It is maintained by comparing every cut with an independent resident record and leaving missing data blank; emergency shutdown reads the verified cause aloud with the Lens turned from the ruin; one operator memory stays forfeited.
+
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | δ / Void | 10–15 | 3 / 3 | Pierce 100/70/50% | 2 / 50 Echoes |

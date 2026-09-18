@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Well of Unfinished Words's kind of pressure.  
 **Binding rule:** the bearer names Well of Unfinished Words's event—Border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. Their words sank into the ground.—and accepts this limit: Allow testimony to finish; do not drain the Well
 
+## Appearance
+
+The Listening Shroud is the suit record of the Well of Unfinished Words’ set, granting resistance to Lament damage and protecting the Mind against the pressure of testimony that was never allowed to end. Binding is testimonial: the wearer names the source event — border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish, and their words sank into the ground — and accepts the set’s limit: allow testimony to finish; do not drain the Well. The operational cost is numbness to minor joys, and continued use makes the sorrow feel autobiographical — the sunken words rising as if they had been the wearer’s own. The source-trace set the doctrine: the suit requires the worker to remain and listen without interruption — protection conditioned on patience, the armor working only while the testimony runs — and it severed the immediate hazard only after the team attributed it to the Well. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

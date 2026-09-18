@@ -1,33 +1,63 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE RAGE FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg3ccc58" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bg801b" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl3ccc58" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
+    <radialGradient id="gl801b" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#7f1d1d" stop-opacity=".28"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="blade801b" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7f1d1d"/>
+      <stop offset="50%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#fecaca"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg3ccc58)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg801b)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="108" fill="url(#gl3ccc58)"/>
-  <g transform="rotate(0 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 116.64999999999999, 231.0 55.0 237.0 55.0 C227.0 120.75999999999999, 220.0 145.42, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 128.98, 229.0 63.0 234.0 61.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="50.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="254.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gl801b)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- RAGE FANG — TALON HOOK: raptor-claw silhouette, mirror-fuller holds the swallowed jaw -->
+  <!-- talon: hooked, angular, distinct from the other two fangs -->
+  <path d="M184 44 C 210 36, 248 42, 256 68 C 264 94, 246 122, 222 148 C 198 174, 172 198, 148 228 C 134 246, 122 252, 124 232 C 126 210, 144 184, 162 160 C 180 136, 192 102, 184 44 Z"
+        fill="url(#blade801b)" stroke="#ef4444" stroke-width="2.4"/>
+  <!-- hook tip emphasized -->
+  <path d="M124 232 C 122 242, 130 250, 140 246" fill="none" stroke="#fecaca" stroke-width="1.6"/>
+  <circle cx="122" cy="230" r="2.2" fill="#fecaca" stroke="#ef4444" stroke-width="1"/>
+  <!-- mirror polish sheen on the talon's back -->
+  <path d="M188 48 C 210 42, 244 48, 252 72" fill="none" stroke="#fff1f2" stroke-width="1.8" opacity=".9"/>
+  <path d="M192 62 C 212 56, 242 62, 248 86" fill="none" stroke="#fecaca" stroke-width="1" opacity=".55"/>
+  <!-- deep talon fuller: the soaking mirror groove, holds the clenched jaw -->
+  <path d="M206 64 C 216 82, 218 108, 210 132 C 202 156, 182 182, 162 204" fill="none" stroke="#38bdf8" stroke-width="2.2" opacity=".45"/>
+  <path d="M202 64 C 212 82, 214 108, 206 132 C 198 156, 178 182, 158 204" fill="none" stroke="#7dd3fc" stroke-width="1" opacity=".3"/>
+  <!-- clenched jaw reflection seated deep in the fuller — only visible in the groove -->
+  <g transform="translate(0,0)">
+    <path d="M192 108 C 196 106, 204 106, 206 110 L 206 124 C 204 128, 196 128, 192 124 Z" fill="#1e293b" stroke="#0f172a" stroke-width="1.2" opacity=".95"/>
+    <path d="M194 114 L 204 114 M194 118 L 204 118" stroke="#e2e8f0" stroke-width="1"/>
+    <path d="M192 124 L 188 132 L 194 132" fill="#1e293b" stroke="#0f172a" stroke-width="1"/>
+    <path d="M206 124 L 210 132 L 204 132" fill="#1e293b" stroke="#0f172a" stroke-width="1"/>
   </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
+  <!-- debt/order overlay: faint cage/grid over the blade, the pressure that soaked the rage -->
+  <g stroke="#475569" stroke-width="0.9" opacity=".4">
+    <path d="M186 70 L 242 70"/><path d="M182 92 L 244 92"/><path d="M174 112 L 238 112"/>
+    <path d="M196 62 L 196 148"/><path d="M214 60 L 214 142"/><path d="M230 66 L 230 132"/>
   </g>
-  <g transform="rotate(4 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  <!-- soaking pool at the talon's base, rage pooling -->
+  <ellipse cx="156" cy="216" rx="14" ry="8" fill="#7f1d1d" stroke="#ef4444" stroke-width="1" opacity=".65"/>
+  <ellipse cx="156" cy="216" rx="7" ry="4" fill="#450a0a"/>
+  <!-- guard: debt ledger bar, stamped CLOSED, talon-style flared -->
+  <path d="M138 232 L 190 232 L 186 250 L 142 250 Z" fill="#1a0a0d" stroke="#7f1d1d" stroke-width="1.6"/>
+  <rect x="148" y="238" width="28" height="8" rx="1" fill="#450a0a" stroke="#57534e" stroke-width="0.8"/>
+  <text x="150" y="244" fill="#a3a3a3" font-family="monospace" font-size="5">DEBT</text>
+  <path d="M148 242 L 176 242" stroke="#ef4444" stroke-width="1" opacity=".5"/>
+  <!-- grip: wrapped to contain the soaked rage -->
+  <path d="M148 250 L 148 308 C 148 318, 176 318, 176 308 L 176 250 Z" fill="#1a0a0d" stroke="#7f1d1d" stroke-width="1.6"/>
+  <g stroke="#450a0a" stroke-width="1.1">
+    <path d="M152 262 L 172 262"/><path d="M152 276 L 172 276"/><path d="M152 290 L 172 290"/><path d="M152 304 L 172 304"/>
   </g>
-  <g transform="rotate(-6 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#d64a4a" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-801-01</text>
+  <circle cx="162" cy="322" r="7" fill="#450a0a" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#ef4444">MAW-W-801-01</text>
 </svg>

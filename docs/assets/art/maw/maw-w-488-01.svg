@@ -1,25 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BRIDGE FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg3856aa" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw488" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl3856aa" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl488" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg3856aa)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw488)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="131" fill="url(#gl3856aa)"/>
-  <g transform="rotate(2 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 115.0, 231.0 52.0 237.0 52.0 C227.0 119.2, 220.0 144.4, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 127.6, 229.0 60.0 234.0 58.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="42.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="246.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-488-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- TWO SHORES: twin parallel curved blades that NEVER meet, gap between -->
+  <path d="M124 318 L114 306 C 148 284, 178 254, 202 218 C 220 190, 240 164, 264 144 L 276 156 C 254 176, 236 202, 220 230 C 200 264, 166 296, 136 320 Z"
+        fill="url(#bl488)" stroke="#ef4444" stroke-width="2.6"/>
+  <path d="M152 340 L142 330 C 176 306, 206 274, 230 238 C 248 210, 268 186, 292 166 L 304 178 C 282 198, 264 222, 248 250 C 228 284, 194 316, 164 342 Z"
+        fill="url(#bl488)" stroke="#ef4444" stroke-width="2.6"/>
+  <!-- edge lights on both shores -->
+  <path d="M122 310 C 156 288, 186 258, 208 224 C 226 196, 246 172, 268 152" fill="none" stroke="#ffe4e6" stroke-width="1.6"/>
+  <path d="M150 332 C 184 308, 214 278, 236 244 C 254 216, 274 192, 296 172" fill="none" stroke="#4c0d13" stroke-width="1.8"/>
+  <!-- THE GAP: open water between the shores — nothing spans it by default -->
+  <path d="M136 316 C 168 294, 196 264, 218 230 C 236 202, 256 178, 278 158" fill="none" stroke="#0d0507" stroke-width="4" opacity=".9"/>
+  <!-- the severed one-sided span: a broken plank crossing, cut at midpoint -->
+  <path d="M196 250 L214 262" stroke="#fda4af" stroke-width="2.6"/>
+  <path d="M218 264 L230 272" stroke="#fda4af" stroke-width="2.6" stroke-dasharray="4 3" opacity=".7"/>
+  <path d="M210 256 L222 246" stroke="#f1df76" stroke-width="2.4"/>
+  <!-- mutual-yes marks: matched notches facing each other across the gap -->
+  <path d="M170 288 L178 294 M186 300 L178 294" stroke="#fca5a5" stroke-width="1.8"/>
+  <path d="M244 208 L252 214 M260 220 L252 214" stroke="#fca5a5" stroke-width="1.8"/>
+  <!-- honest-withdrawal mark: one shore's notch closed with a flat bar -->
+  <path d="M240 260 L254 268" stroke="#7f1d1d" stroke-width="2.6"/>
+  <!-- preserved history: intact crossing-tally near the guard, not erased -->
+  <path d="M148 306 L154 312 M156 298 L162 304 M164 290 L170 296" stroke="#f1df76" stroke-width="1.6"/>
+  <!-- twin guards joining into one grip: the only place the shores share -->
+  <path d="M104 312 L146 332" stroke="#4c0d13" stroke-width="8" stroke-linecap="round"/>
+  <path d="M132 342 L172 356" stroke="#4c0d13" stroke-width="8" stroke-linecap="round"/>
+  <path d="M136 340 L112 386" stroke="#4c0d13" stroke-width="12" stroke-linecap="round"/>
+  <path d="M132 350 L122 346 M128 362 L118 358 M124 374 L114 370" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M108 394 a6 6 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.2"/>
 </svg>

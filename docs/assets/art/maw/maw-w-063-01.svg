@@ -1,40 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE DENIAL LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bgfd8268" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw063" cx="54%" cy="46%" r="60%">
+      <stop offset="0%" stop-color="#191c22"/>
+      <stop offset="100%" stop-color="#090a0d"/>
     </radialGradient>
-    <radialGradient id="glfd8268" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    <radialGradient id="dk063" cx="44%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#f4f4f5"/>
+      <stop offset="58%" stop-color="#a1a1aa"/>
+      <stop offset="100%" stop-color="#3f3f46"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgfd8268)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw063)" stroke="#a1a1aa" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="113" fill="url(#glfd8268)"/>
-  <g transform="rotate(-6 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="60.0" ry="69.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="51.0" ry="57.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="42.0" ry="47.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M238.6 139.1 L232.8 148.3" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M254.8 163.9 L246.6 168.8" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M260.0 194.4 L251.0 194.0" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M253.0 224.4 L245.0 218.8" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="128.0" y="186.0" width="144.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="261.0" width="12" height="33.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090a0d" stroke="#a1a1aa" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#a1a1aa" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- the coercive command mark being severed: a branded sigil with chain tails -->
+  <g transform="rotate(8 316 120)">
+    <rect x="288" y="92" width="56" height="56" rx="8" fill="none" stroke="#71717a" stroke-width="2.6"/>
+    <path d="M300 104 L332 136 M332 104 L300 136" stroke="#71717a" stroke-width="2.2"/>
   </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(1 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <g transform="rotate(2 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#8a8f98" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#8a8f98" stroke-width="2" opacity=".45"/>
-  </g>
-  <g transform="rotate(-14 200.0 120.0)" opacity=".9">
-    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-063-01</text>
+  <path d="M310 152 C 306 170, 296 184, 282 194" fill="none" stroke="#71717a" stroke-width="2" stroke-dasharray="7 5" opacity=".8"/>
+  <path d="M336 150 C 340 172, 336 194, 324 212" fill="none" stroke="#71717a" stroke-width="1.6" stroke-dasharray="5 6" opacity=".55"/>
+  <!-- the short Pierce line: from the lens, CUTTING the tether -->
+  <path d="M204 208 L296 168" stroke="#f4f4f5" stroke-width="2.6"/>
+  <path d="M284 160 L300 176 M292 158 L306 172" stroke="#f4f4f5" stroke-width="1.6" opacity=".85"/>
+  <!-- severed stub falling away -->
+  <path d="M306 196 L318 226" stroke="#52525b" stroke-width="1.8" stroke-dasharray="3 5" opacity=".6"/>
+  <!-- DENIAL LENS: small one-hand disc, low-left, tilted into the cut -->
+  <ellipse cx="164" cy="226" rx="58" ry="64" fill="url(#dk063)" fill-opacity=".94" stroke="#e4e4e7" stroke-width="3" transform="rotate(-18 164 226)"/>
+  <ellipse cx="164" cy="226" rx="43" ry="49" fill="none" stroke="#52525b" stroke-width="2.6" opacity=".85" transform="rotate(-18 164 226)"/>
+  <path d="M124 180 C 136 166, 156 158, 176 160" fill="none" stroke="#fafafa" stroke-width="2.2" opacity=".8"/>
+  <!-- shallow thumb rest notch on the frame -->
+  <path d="M204 190 C 212 194, 214 202, 208 208" fill="none" stroke="#e4e4e7" stroke-width="2.6"/>
+  <!-- cool glass: frost tick -->
+  <path d="M148 232 L164 226 L160 242" fill="none" stroke="#d4d4d8" stroke-width="1.2" opacity=".6"/>
+  <!-- short handle + tether ring at the pommel -->
+  <path d="M136 284 L112 322 L130 334 L152 298 Z" fill="#18181b" stroke="#a1a1aa" stroke-width="2.4"/>
+  <path d="M122 306 L136 316" stroke="#a1a1aa" stroke-width="1.5" opacity=".8"/>
+  <circle cx="108" cy="340" r="11" fill="none" stroke="#e4e4e7" stroke-width="2.6"/>
+  <circle cx="108" cy="340" r="3" fill="#f1df76"/>
+  <!-- rebound warning: voluntary bond, untouchable, lower right -->
+  <path d="M300 300 C 312 288, 330 288, 340 300 C 350 288, 368 288, 378 300" fill="none" stroke="#3f3f46" stroke-width="2.2" opacity=".7"/>
 </svg>

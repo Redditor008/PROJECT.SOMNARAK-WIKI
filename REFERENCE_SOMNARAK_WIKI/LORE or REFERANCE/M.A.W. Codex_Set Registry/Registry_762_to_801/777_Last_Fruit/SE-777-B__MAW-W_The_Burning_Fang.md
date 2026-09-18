@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Last Fruit's grudge signature in the strike.  
 **Binding rule:** the bearer names Last Fruit's event—A child was forbidden the last fruit from a dying tree; the denied longing ignited into a figure.—and accepts this limit: Name the desire; do not promise to fulfill it
 
+## Appearance
+
+The Burning Fang is the weapon record of Last Fruit’s set, a Grudge instrument attacking the Body by channeling the source’s grudge signature into the strike. Binding is testimonial: the bearer names Last Fruit’s event — a child was forbidden the last fruit from a dying tree, and the denied longing ignited into a figure — and accepts the set’s limit: name the desire; do not promise to fulfill it. The operational cost is the Grudge standard: the wielder’s old wounds ache, prolonged use leaves faint bruising, and continued use makes the sorrow feel autobiographical — the child’s denied longing slowly misfiling itself among the wielder’s own refusals. The source-trace fixed the doctrine: when sparks burst outward and the figure burned brighter, the weapon witnessed the immediate hazard only after the team attributed it to Last Fruit — and treating the response as the bearer’s own story reproduced the source wound, establishing the present binding rule. Corrosion runs from describing Last Fruit’s event in first person, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

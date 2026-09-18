@@ -1,35 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SORROW REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg1098fb" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw088" cx="46%" cy="44%" r="62%">
+      <stop offset="0%" stop-color="#0d1b3a"/>
+      <stop offset="100%" stop-color="#04070f"/>
     </radialGradient>
-    <radialGradient id="gl1098fb" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl088" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#93c5fd"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg1098fb)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw088)" stroke="#3b82f6" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="113" fill="url(#gl1098fb)"/>
-  <g transform="rotate(9 200.0 192.0)">
-<path d="M188.0 192.0 L194.96 73.2 L200.0 27.0 L205.04 83.1 L212.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 27.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="194.0" y="96.3" width="12.0" height="69.3" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="178.0" y="187.0" width="44.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="48.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="256.0" r="7.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(14 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(-4 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <g transform="rotate(-14 200.0 320.0)" opacity=".9">
-    <circle cx="200.0" cy="320.0" r="4.8" fill="none" stroke="#3e8bd5" stroke-width="1.4" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-088-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#04070f" stroke="#3b82f6" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#3b82f6" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- long narrow blade on a shallow diagonal, tip lower-right (a bowed head) -->
+  <path d="M76 96 L84 88 L308 244 L322 266 L296 258 Z" fill="url(#bl088)" stroke="#60a5fa" stroke-width="2.6"/>
+  <!-- the seam, guard to point -->
+  <path d="M88 96 L306 248" stroke="#dbeafe" stroke-width="1.5" opacity=".95"/>
+  <!-- THE LOW NOTE travelling the flat: slow wave hugging the seam -->
+  <path d="M112 118 C 126 110, 140 126, 154 118 C 168 110, 182 128, 196 122 C 212 116, 226 134, 242 130 C 256 126, 268 142, 282 140"
+        fill="none" stroke="#bfdbfe" stroke-width="1.4" opacity=".75"/>
+  <!-- burden made perceptible: the struck line of targets, faint, right -->
+  <circle cx="342" cy="286" r="9" fill="none" stroke="#334155" stroke-width="2" opacity=".8"/>
+  <circle cx="360" cy="310" r="7" fill="none" stroke="#334155" stroke-width="1.8" opacity=".6"/>
+  <path d="M318 262 L336 280 M348 294 L356 304" stroke="#3b82f6" stroke-width="1.4" stroke-dasharray="4 4" opacity=".7"/>
+  <!-- plain round guard -->
+  <circle cx="80" cy="92" r="14" fill="#0c1e3e" stroke="#60a5fa" stroke-width="2.6"/>
+  <!-- grip rising up-left; BLUE MOISTURE climbing it in beads -->
+  <path d="M70 82 L44 46 L60 34 L86 70 Z" fill="#0c1e3e" stroke="#3b82f6" stroke-width="2.4"/>
+  <path d="M58 62 L70 54 M50 50 L62 42" stroke="#3b82f6" stroke-width="1.4" opacity=".85"/>
+  <circle cx="76" cy="74" r="3" fill="#93c5fd" opacity=".95"/>
+  <circle cx="66" cy="60" r="2.6" fill="#93c5fd" opacity=".8"/>
+  <circle cx="57" cy="47" r="2.2" fill="#93c5fd" opacity=".6"/>
+  <circle cx="50" cy="36" r="1.8" fill="#93c5fd" opacity=".45"/>
+  <!-- small ring pommel -->
+  <circle cx="46" cy="28" r="8" fill="none" stroke="#f1df76" stroke-width="2.2"/>
 </svg>

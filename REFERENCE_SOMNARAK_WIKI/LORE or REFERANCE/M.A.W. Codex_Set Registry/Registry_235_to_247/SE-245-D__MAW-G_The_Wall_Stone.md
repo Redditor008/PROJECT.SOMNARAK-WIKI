@@ -19,6 +19,10 @@ A small deep-blue Han-crystal Tail stone. It vibrates with one confirmed fragmen
 
 Midnight Choir bestowed it after a listener catalogued a lullaby without composing its goodnight. The registered bestowal rate is 5%; no R.D. process can manufacture one.
 
+## Appearance
+
+The Wall Stone is a small deep-blue tail-stone of Han crystal that vibrates with one confirmed fragment of an unfinished song — and becomes silent exactly where the fresco does, refusing on principle to hum a single note further. The Midnight Choir bestowed it after a listener catalogued a lullaby without composing its goodnight; no R.D. process can manufacture one. In use it calms nearby people through the remembered fragment: during a shelter panic it steadied breathing without promising safety or resolution, and at its missing final line the responders supplied instructions rather than pretending the song had ended. The cost follows the bearer home — unfinished songs become audible whenever they are near walls. Every wall returning the same fragment is the first corrosion sign; a bearer who cannot tolerate silence after the break point is the second; and using the song to pacify people whose danger remains active is the listed misuse. A bearer who completes the phrase overwrites its source. Care is recitation at the originating wall — provenance, confirmed words, and the exact interruption — and the Stone must stop where the record stops. It is never smashed; every nearby surface would inherit the loop.
+
 ## FUNCTION & COST
 
 **Grade / Element:** β / Lament  

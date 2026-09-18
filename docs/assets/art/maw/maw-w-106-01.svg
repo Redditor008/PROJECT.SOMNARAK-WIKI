@@ -1,38 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="I ALONE CROSSED REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bgb8ec26" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw106" cx="50%" cy="40%" r="64%">
+      <stop offset="0%" stop-color="#0e1e3c"/>
+      <stop offset="100%" stop-color="#04080f"/>
     </radialGradient>
-    <radialGradient id="glb8ec26" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl106" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1e40af"/>
+      <stop offset=".5" stop-color="#93c5fd"/>
+      <stop offset="1" stop-color="#1e40af"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgb8ec26)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw106)" stroke="#60a5fa" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="118" fill="url(#glb8ec26)"/>
-  <g transform="rotate(-7 200.0 192.0)">
-<path d="M181.0 192.0 L192.02 94.8 L200.0 57.0 L207.98 102.89999999999999 L219.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 57.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="190.5" y="113.7" width="19.0" height="56.7" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="171.0" y="187.0" width="58.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="36.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="244.0" r="7.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(-16 172.0 252.0)">    <circle cx="176.0" cy="226.0" r="4.0" fill="#e0f2fe" opacity=".3"/>
-  </g>
-  <g transform="rotate(-16 172.0 252.0)">    <circle cx="200.0" cy="238.0" r="5.0" fill="#e0f2fe" opacity=".3"/>
-  </g>
-  <g transform="rotate(-16 172.0 252.0)">    <circle cx="224.0" cy="250.0" r="6.0" fill="#e0f2fe" opacity=".3"/>
-  </g>
-  <g transform="rotate(8 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(10 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-106-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#04080f" stroke="#60a5fa" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#60a5fa" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- the two ledges and the dark gap between -->
+  <path d="M24 232 L124 232 L136 252 L136 380 L24 380 Z" fill="#0a1220" stroke="#334155" stroke-width="2.6"/>
+  <path d="M376 232 L276 232 L264 252 L264 380 L376 380 Z" fill="#0a1220" stroke="#334155" stroke-width="2.6"/>
+  <path d="M136 300 L136 380 M264 300 L264 380" stroke="#1e293b" stroke-width="1.4" opacity=".6"/>
+  <!-- depth marks falling into the gap -->
+  <path d="M200 268 L200 292 M186 280 L186 300 M214 280 L214 300" stroke="#1e293b" stroke-width="1.6" opacity=".7"/>
+  <!-- THE BLADE LAID FLAT AS THE BRIDGE, spanning the gap -->
+  <path d="M108 222 L292 222 L302 232 L292 242 L108 242 L98 232 Z" fill="url(#bl106)" stroke="#93c5fd" stroke-width="2.6"/>
+  <!-- THE BROKEN FULLER: centre line that breaks and dims mid-span -->
+  <path d="M112 232 L178 232" stroke="#eff6ff" stroke-width="2" opacity=".95"/>
+  <path d="M222 232 L288 232" stroke="#eff6ff" stroke-width="2" opacity=".95"/>
+  <path d="M184 226 L192 238 M192 226 L184 238 M204 227 L212 237 M212 227 L204 237" stroke="#475569" stroke-width="1.6" opacity=".9"/>
+  <!-- the account that blames one person: a lone figure mid-crossing -->
+  <circle cx="200" cy="188" r="9" fill="none" stroke="#dbeafe" stroke-width="2.2"/>
+  <path d="M200 197 L200 216 M200 204 L188 210 M200 204 L212 210 M200 216 L192 230 M200 216 L208 230" stroke="#dbeafe" stroke-width="2.2"/>
+  <!-- footsteps behind the figure, only one set -->
+  <path d="M156 226 L162 226 M170 238 L176 238" stroke="#dbeafe" stroke-width="1.8" opacity=".6"/>
+  <!-- guard + grip: upturned at the far ledge like a bridge post -->
+  <path d="M292 214 L306 214 L306 250 L292 250 Z" fill="#0c1e3e" stroke="#60a5fa" stroke-width="2.4"/>
+  <path d="M306 224 L336 224 L336 240 L306 240 Z" fill="#0c1e3e" stroke="#3b82f6" stroke-width="2.2"/>
+  <path d="M312 228 L330 232 M312 236 L328 238" stroke="#3b82f6" stroke-width="1.3" opacity=".85"/>
+  <circle cx="344" cy="232" r="7" fill="none" stroke="#f1df76" stroke-width="2.2"/>
 </svg>

@@ -29,6 +29,10 @@ Binding requires a current destination unrelated to the lost orchard. A user who
 | Binding cost | Prolonged use bruises the hands with unfulfilled desire |
 | Corrosion risk | High when blade and fruit touch |
 
+## Appearance
+
+The Melting Fang is a crimson fang of Han iron whose inner light liquefies along the edge without dripping — a blade held permanently at the point of melting. It formed beside an untouched fruit after the holder named the desired home and refused to promise return. Binding requires a current destination unrelated to the lost orchard; a user who intends to preserve fruit feels old wounds reopen in the shape of seed cuts. In use, its Departure Cut removes one barrier keeping a person physically or emotionally trapped beside the melting orchard — it cannot open a route to the lost home or preserve a harvest sample. If the edge touches fruit, the desire inside transfers to the wielder, and the next strike treats the current destination as an obstacle. In its recorded case the Fang absorbed an exile’s wish for a family kitchen from a promised sample branch and turned toward the outward lane marker, and he stopped before impact, unable to remember why anyone would travel farther from the Gate. Only after the promise was broken and the fruit allowed to melt did he cut the equipment crate actually blocking the present path. A sweet-char scent now precedes every misdirected swing.
+
 ## FUNCTION
 
 **Departure Cut:** removes one barrier keeping a person physically or emotionally trapped beside the melting orchard. It cannot open a route to the lost home or preserve a harvest sample.

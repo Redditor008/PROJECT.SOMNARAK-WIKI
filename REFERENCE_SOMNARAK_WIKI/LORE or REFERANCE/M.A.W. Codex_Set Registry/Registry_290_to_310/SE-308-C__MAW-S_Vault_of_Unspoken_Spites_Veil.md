@@ -18,6 +18,10 @@ A warm crimson Han-cloth veil with one dark pocket moving across its surface. It
 
 Iseulfros wore it when a Vault surge returned a supervisor’s resentment. The Veil absorbed the first attack, preserving the team, but she carried the anger afterward and distrusted workers who had never participated in the original dispute.
 
+## Appearance
+
+The Vault of Unspoken Spites Veil is a warm crimson veil of Han cloth with one dark pocket that moves across its surface — a held grievance visibly traveling the fabric, never allowed to settle in. It condenses after responsible anger release, and it binds through a named witness and a discharge plan agreed before wear. In the field it receives one hostile emotional effect for bounded transport to release review — in its recorded case absorbing the first attack of a returned supervisor’s resentment and preserving the team. The cost travels with the cloth: the wearer carries the absorbed anger and may misassign it, the first wearer distrusting workers who had never participated in the original dispute. A second attack merging grievances is the second deposit; blaming unrelated people is the inherited target; and provenance disappearing while anger remains is Void ownership. The suit is not long-term storage. It is maintained by opening the dark pocket before the named witness and describing feeling, source confidence, and uncertainty — released before sleep, always. The witness lifts the cloth only after discharge responsibility transfers to a real review process, not a promise.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

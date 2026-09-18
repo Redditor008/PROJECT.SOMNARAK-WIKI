@@ -18,6 +18,10 @@ A pale Han-glass disc showing one contradiction across a fracture line. It forms
 
 Binding requires the wielder to distinguish harmful deception from privacy, uncertainty, courtesy, and protective presentation. During a Mask Market fraud incident, Durivel targeted a forged safety claim rather than the frightened seller repeating it. The lie collapsed; one nameless memory of market trust disappeared with the shot.
 
+## Appearance
+
+The Truth Lens is a pale disc of Han glass showing one contradiction across a fracture line — the lie and the fact held visibly apart by a crack that runs through the image, never through the person. It forms from crack-light after bounded Ferrehan, and its binding is a test of discrimination: the wielder must distinguish harmful deception from privacy, uncertainty, courtesy, and protective presentation. In use it attacks one verified deception producing current harm — in its recorded case a forged safety claim rather than the frightened seller repeating it — and it cannot establish a complete truth or target a person for having social masks. The cost is attrition: small nameless memories disappear with each use, one shot costing a nameless memory of market trust. Withheld information turned into a target is the privacy strike; one contradiction defining the whole person is the total-truth claim; and a wielder whose own certainty becomes invisible to the Lens has entered self-righteous fracture. It is maintained placed beside evidence showing both contradiction and context — the fracture clears only when the target is narrower than the person. Shutdown lowers it once the harmful claim stops; it does not continue into character judgment.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

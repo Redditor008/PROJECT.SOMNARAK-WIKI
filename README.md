@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>Release 1.8.31</strong> · 197 public HTML files · 31 August 2026
+  <strong>1.9.0 (Unreleased)</strong> · 1,042 public HTML files · September 2026
 </p>
 
 <p align="center">
@@ -23,40 +23,46 @@
 
 Static GitHub Pages encyclopedia. No account and no build step are required.
 
-## Current release — 1.8.31
+## Current state — 1.9.0 (Unreleased)
 
-The 31 August 2026 snapshot reorganizes and expands the archive while preserving Somnarak-native canon terminology.
+The September 2026 expansion grows the archive from 197 to over a thousand pages while preserving Somnarak-native canon terminology.
 
-- **197** tracked public HTML files, including the 404 page and asset gallery
-- **8** principal archive hubs spanning Entities, M.A.W., Characters, Mechanics, Factions, Facility, Atlas, and Lore
-- **253,462** words of public page content (chrome-excluded editorial count)
-- **448** local SVG art assets
+- **1,042** tracked public HTML files (1,040 indexed pages plus the 404 page and the Search Console verification file)
+- **10** principal archive hubs spanning Entities, M.A.W., Characters, Mechanics, Factions, Facility, Atlas, Lore, Locations, and Project
+- **876** M.A.W. archive pages — 291 complete item sets (weapon, suit, gift), every item page carrying a source-led Appearance section drawn from the M.A.W. Codex Set Registry
+- **246** entity tales collected in the [Entity Tales anthology](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/lore/entity-tales.html)
+- **1,284** local SVG art assets, all page-specific and gate-validated
+- Over **1.2 million** words of public page content
 - Dedicated Hope Transformation, Unknown Entity, and five-color Ordeal collections
 
-See [`CHANGELOG.md`](CHANGELOG.md) for the reconstructed release history, route changes, verification details, and known issues.
+See [`CHANGELOG.md`](CHANGELOG.md) for the full release history, the Unreleased work log, verification details, and known issues.
 
 ## Archives
 
 | Hub | What it covers |
 | --- | --- |
-| [Sorrow Entities](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/entities/) | Containment registry (published slice of ~288) |
-| [M.A.W.](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/maw/) | Weapons, suits, gifts |
+| [Sorrow Entities](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/entities/) | Containment registry — published entities, donors, and UNK records |
+| [M.A.W.](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/maw/) | Weapons, suits, gifts — 291 complete registry sets |
 | [Characters](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/characters/) | Nine Echo-Cores and supporting cast |
 | [Mechanics](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/mechanics/) | Han, work types, ordeals, containment |
 | [Factions](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/factions/) | Reverie Directorate, Council, guilds |
 | [Facility 01](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/departments/) | Hand of Change, floors 1–8 |
 | [Atlas](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/locations/) | Zones A–E, the Maw, the Desolate |
-| [Lore](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/lore/) | Cycles, Alpha Tree, taboos, Weeping |
+| [Lore](https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/lore/) | Cycles, Alpha Tree, taboos, Weeping, the Entity Tales anthology |
 
 ## Repository
 
 | Path | Role |
 | --- | --- |
 | [`docs/`](docs/) | Public wiki (HTML, CSS, art, search) — GitHub Pages root |
-| [`REFERENCE_SOMNARAK_WIKI/`](REFERENCE_SOMNARAK_WIKI/) | Canon sources and diagrams |
+| [`REFERENCE_SOMNARAK_WIKI/`](REFERENCE_SOMNARAK_WIKI/) | Canon sources and diagrams, including the M.A.W. Codex Set Registry |
+| [`tools/`](tools/) | Publication gates, chrome syncs, and content generators |
+| [`RULE-TO-FOLLOW.md`](RULE-TO-FOLLOW.md) | Binding owner rules (v2): push-always doctrine, PR lifecycle, cache-busting |
+| [`UNIVERSAL_FOLLOW_RULE.md`](UNIVERSAL_FOLLOW_RULE.md) | Additional binding session rules |
+| [`SESSION_BREAK_PRECAUTION.md`](SESSION_BREAK_PRECAUTION.md) | Arena session-break recovery protocol and work ledger |
+| [`DEVELOPMENT.md`](DEVELOPMENT.md) | Handoff guide: repo layout, gates, working loop, progress ledger |
 | [`REFERENCE_SOMNARAK_WIKI/CONTENT_AND_VISUAL_STANDARDS.md`](REFERENCE_SOMNARAK_WIKI/CONTENT_AND_VISUAL_STANDARDS.md) | Binding 200-word floor and non-generic SVG rules |
 | [`REFERENCE_SOMNARAK_WIKI/LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md`](REFERENCE_SOMNARAK_WIKI/LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md) | Binding live-site verification and no-extra-branch rules |
-| [`REFERENCE_SOMNARAK_WIKI/PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md`](REFERENCE_SOMNARAK_WIKI/PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md) | Current 197-page content, structure, search, and SVG audit |
 | [`CHANGELOG.md`](CHANGELOG.md) | Verified release history and known issues |
 
 ## Run locally
@@ -84,8 +90,16 @@ python3 tools/audit_site_structure.py
 python3 tools/audit_svg_compositions.py
 ```
 
-Use the corresponding sync tool with `--write` after adding or moving a public route. The checks enforce the same ten-link navigation header, homepage-derived left archive sidebar, and identity/resource/release footer across all 197 pages.
+After content changes, re-run the derived-artifact builders:
 
-Every public page must contain at least 200 meaningful editorial words after shared interface chrome is excluded. Pages and SVGs must be source-led, page-specific, and visually distinct—never generic templates or recolored duplicates. The SVG gate validates all 1,329 vector files as XML and compares curated page-art geometry without relying on color or labels. See the [complete content and visual standards](REFERENCE_SOMNARAK_WIKI/CONTENT_AND_VISUAL_STANDARDS.md).
+```bash
+python3 tools/sync_seo_meta.py
+python3 tools/build_search_index.py
+python3 tools/build_sitemap.py
+```
+
+Use the corresponding sync tool with `--write` after adding or moving a public route. The checks enforce the same ten-link navigation header, homepage-derived left archive sidebar, and identity/resource/release footer across all indexed pages. Any `wiki.css`/`wiki.js` change must bump `ASSET_VERSION` and re-sync, or the fix never shows live.
+
+Every public page must contain at least 200 meaningful editorial words after shared interface chrome is excluded. Pages and SVGs must be source-led, page-specific, and visually distinct—never generic templates or recolored duplicates. The SVG gate validates every vector file as XML and compares curated page-art geometry without relying on color or labels. See the [complete content and visual standards](REFERENCE_SOMNARAK_WIKI/CONTENT_AND_VISUAL_STANDARDS.md).
 
 Canon terms stay Somnarak-native: Sorrow Entities, SECC, M.A.W., Reverie Directorate, Echo-Cores, Han, Absolvohan.

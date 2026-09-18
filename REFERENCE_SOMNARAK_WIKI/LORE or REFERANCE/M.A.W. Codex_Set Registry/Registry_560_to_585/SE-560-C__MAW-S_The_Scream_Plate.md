@@ -30,6 +30,10 @@ The suit condensed around Handler Soojin while she remained inside Dismissed Cry
 | Binding cost | The wearer begins interpreting interruption as dismissal |
 | Corrosion risk | Moderate; severe during prolonged verbal conflict |
 
+## Appearance
+
+The Scream Plate is a crimson harness of Han iron with a sealed throat guard and ribs shaped around an absent mouth — armor built for receiving. It warms before Grudge pressure arrives. Binding accepts a wearer who agrees not to speak during initial reception; a wearer preparing a rebuttal feels the throat guard tighten. It condensed around a handler in the silent pressure who refused to repeat its anger through her own voice. In the field, Received Without Repetition converts incoming Grudge pressure into heat along the outer plates, letting the wearer hold anger without speaking it back — the effect lasts until someone other than the wearer can summarize the content accurately. Reflexes dull as resentment pools in the joints, and interruption begins to read as dismissal. If the wearer silently rehearses retaliation, the heat moves inward and stiffens elbows, jaw, and knees; at full lock the suit becomes an I-Relic mounting for the source’s voice. In its recorded eleven silent minutes, the wearer formed an answer at minute nine before hearing the final name — both knees locked until she abandoned it. A red seam remains across the left knee, hardening whenever a response is prepared before the speaker has finished.
+
 ## PROTECTIVE FUNCTION
 
 **Received Without Repetition:** converts incoming Grudge pressure into heat along the outer plates, letting the wearer hold anger without speaking it back. The effect lasts until the content can be summarized accurately by someone other than the wearer.

@@ -19,6 +19,10 @@
 **Canonical ability:** Channels void void sorrow in each strike — the weapon does not cut flesh so much as cut at the void register of the target's grief.   <!-- SE-914 -->
 **Binding rule:** the bearer names Amnesia's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Amnesia's Edge is the weapon record of the Amnesia set — β-grade, Void-aligned, striking at 11–22 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels void sorrow in its own register: the blade cuts at absence itself, grief for something that can no longer be named. Binding names Amnesia's event — Not recorded, and here the blank is the wound: a forgetting so complete it survives as a time of its own — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is mild memory fragmentation with each use, the wielder paying the weapon in its own currency. The source-trace fixed doctrine: the time-manifestation gave no transcribable field response, and the Edge redirects the hazard only after attribution to Amnesia. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

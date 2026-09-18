@@ -1,25 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE TWOFOLD FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bgd1d268" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw716" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gld1d268" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl716" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgd1d268)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw716)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="129" fill="url(#gld1d268)"/>
-  <g transform="rotate(9 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 121.6, 234.0 64.0 240.0 64.0 C230.0 125.44, 220.0 148.48, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 133.12, 232.0 72.0 237.0 70.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="48.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="252.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-716-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- shared root blade rising, then SPLITTING into two parallel tips -->
+  <path d="M186 344 L172 340 L168 250 C 168 222, 172 196, 182 174 L 166 96 L 186 88 L 196 158 L 206 158 L 216 84 L 236 92 L 220 174 C 230 196, 234 222, 234 250 L 230 340 L 216 344 L 212 254 C 212 232, 208 212, 201 196 C 194 212, 190 232, 190 254 Z"
+        fill="url(#bl716)" stroke="#ef4444" stroke-width="2.6"/>
+  <!-- left tine: LOW TONE — thick slow wave marks -->
+  <path d="M172 112 L188 106" stroke="#ffe4e6" stroke-width="1.8"/>
+  <path d="M158 126 C 164 122, 170 122, 176 126 C 182 130, 188 130, 194 126" fill="none" stroke="#fda4af" stroke-width="2.2"/>
+  <path d="M156 142 C 163 137, 171 137, 178 142 C 185 147, 193 147, 200 142" fill="none" stroke="#7f1d1d" stroke-width="1.8"/>
+  <!-- right tine: HIGH TONE — tight fast ripple marks -->
+  <path d="M214 108 L230 114" stroke="#ffe4e6" stroke-width="1.8"/>
+  <path d="M208 128 C 211 125, 214 125, 217 128 C 220 131, 223 131, 226 128 C 229 125, 232 125, 235 128" fill="none" stroke="#fda4af" stroke-width="1.8"/>
+  <path d="M206 144 C 209 141, 213 141, 216 144 C 219 147, 223 147, 226 144 C 229 141, 233 141, 236 144" fill="none" stroke="#7f1d1d" stroke-width="1.5"/>
+  <!-- NEITHER ERASES THE OTHER: equal bar between the tines -->
+  <path d="M196 170 L206 170" stroke="#f1df76" stroke-width="2.6"/>
+  <path d="M196 178 L206 178" stroke="#f1df76" stroke-width="2.6"/>
+  <!-- THE CENSORSHIP ORDER severed — the instruction, not a voice -->
+  <rect x="248" y="196" width="44" height="26" rx="2" transform="rotate(8 270 209)" fill="#0d0507" stroke="#64748b" stroke-width="1.8"/>
+  <path d="M256 206 L284 210 M256 214 L280 217" stroke="#64748b" stroke-width="1.2"/>
+  <path d="M254 196 L282 226" stroke="#f1df76" stroke-width="2.6"/>
+  <!-- both voices preserved: two intact speech marks flanking the order -->
+  <path d="M244 174 C 248 170, 253 168, 258 169" fill="none" stroke="#fda4af" stroke-width="1.6"/>
+  <path d="M290 240 C 294 237, 299 236, 304 237" fill="none" stroke="#fda4af" stroke-width="1.6"/>
+  <!-- resonance from the fork root: contradiction held, humming -->
+  <path d="M154 210 C 148 214, 144 220, 142 227 M248 214 C 254 218, 258 224, 260 231" fill="none" stroke="#fca5a5" stroke-width="1.3" opacity=".7"/>
+  <!-- collar + grip -->
+  <path d="M182 348 L220 348" stroke="#4c0d13" stroke-width="8" stroke-linecap="round"/>
+  <path d="M201 350 L201 392" stroke="#4c0d13" stroke-width="12" stroke-linecap="round"/>
+  <path d="M194 360 L208 360 M194 372 L208 372" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M201 398 a6 6 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.2"/>
 </svg>

@@ -18,6 +18,10 @@ A black Han-steel maul built from overlapping rusted faces with a passable seam 
 
 Binding requires the wielder to identify the current closure and the historic boundary separately. During a Gate corridor compression, Durivel broke three newly hardened plates while leaving the departure names visible. His arms gained the felt age of the abandoned wall.
 
+## Appearance
+
+The Rust Wall Maul is a black maul of Han steel whose head is built from overlapping rusted faces with a single passable seam running through it — a wall rendered as weapon, with the gap preserved. It forms from dream-rust released after both sides of a separation are named; binding requires the wielder to identify the current closure and the historic boundary separately. In use it carries Weight through up to three current closure points — newly hardened plates sealing a corridor — while the historic dream-boundary is left untouched; striking that older wall erases one side’s departure evidence and transfers it into the wielder. The cost is the wall’s age: progressive heaviness and slight aging, the first bearer’s arms gaining the felt age of the abandoned boundary. Both sides flattened into one false account is the neutral-blow failure; authorized passage treated as intrusion is return denial; and a bearer who becomes the wall’s new stationary purpose has inherited its rust. It is maintained resting across an open route while one account from each side is read without combining them, brushing only the rust shed at the passable seam. Shutdown grounds the Maul after passage reopens — the remaining dream image is not demolished.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

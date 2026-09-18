@@ -27,6 +27,10 @@ A deep-blue crystal root curls around the Tail slot, carrying more weight than i
 | Binding cost | The user cannot maintain their own chosen social mask |
 | Corrosion risk | Severe in public negotiations or performances |
 
+## Appearance
+
+The Sunken Root is a root of deep-blue crystal curled around the tail slot, carrying more weight than its measured mass — and it glows only in reflections, invisible to the direct look, like everything else this set touches. Banyan bestows it after successful work; it cannot be manufactured. Its function is Subface Roots: it reveals the emotional roots beneath a public identity as reflected branch patterns — showing pressure and relationship, never the content of the grief. Interpretation requires consent; resemblance is not diagnosis. The hidden condition is the interpreter’s trap: if the bearer announces what a pattern “must mean,” the Root adopts the claim and forces the subject’s expression to match it — and the resulting false confession feeds Banyan more efficiently than silence ever did. In its recorded case the Gift showed three branches beneath a performer’s smile, and an auditor labeled them bereavement, debt, and betrayal on the stage display; only the first was true, and the imposed labels made the performer enact all three until her mask split. The captions were removed, she was asked what she wished to name, and two roots faded uninterpreted. It has since been barred from unsupervised interviews, auditions, and debt hearings.
+
 ## EFFECT & HIDDEN CONDITION
 
 **Subface Roots:** reveals emotional roots beneath a public identity as reflected branch patterns. It shows pressure and relationship, not the content of the grief. Interpretation requires consent; resemblance is not diagnosis.

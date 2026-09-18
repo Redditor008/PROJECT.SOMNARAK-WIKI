@@ -14,6 +14,10 @@
 
 A crimson harness whose plates show unfamiliar faces under frost. It binds only if a second observer remains outside direct gaze.
 
+## Appearance
+
+The Frozen Plate is a crimson harness whose plates show unfamiliar faces under frost — strangers surfacing in the ice, each an anger seeking an owner. It binds only if a second observer remains outside direct gaze; the attribution witness is a binding requirement. In the field, its Intent Buffer contains Grudge while the viewer looks away and verifies whose anger appeared — reflexes dull as resentment collects, and assuming intent seals the joints, the armor punishing conclusion faster than it punishes rage. In its recorded case a wearer raised her arm against a reflected attacker who had never moved, and the elbow froze — an outside observer named the face as a previous traveler, and when the accusation was withdrawn, the joint released. Corrosion runs from unfamiliar faces persisting after removal, through resentment hardening into certainty, to a terminal state that fixes the wearer in an attacking pose. Solo gaze removes attribution; prolonged wear makes emotional distance feel safe. It is maintained by inspecting each plate in a covered mirror and clearing every face with an attribution note; in emergency the observer covers the reflective surfaces while the wearer names one feeling and one unchosen action.
+
 **Grade / Element:** α / Grudge
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

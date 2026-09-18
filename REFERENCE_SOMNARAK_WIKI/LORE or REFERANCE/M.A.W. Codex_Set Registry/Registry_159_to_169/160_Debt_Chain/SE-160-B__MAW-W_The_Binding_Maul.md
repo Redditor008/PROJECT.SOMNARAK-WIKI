@@ -39,6 +39,10 @@
 
 **Rejection rule:** If the Maul is aimed at a named debtor rather than a pressure field, its open link closes around the bearer’s wrist and adds physical Weight until custody review begins.
 
+## Appearance
+
+The Binding Maul is a black maul with a single open chain link set into the head, never bearing a name. The Maul remains on the ground until the bearer states the person’s name separately from the obligation. In active use the link opens into a short Weight line around a coercive obligation field. At full activation, the Maul breaks one acute obligation pressure loop and gives the affected person time to enter review, appeal, or support without the chain’s full Weight. The bearer appoints a debt custodian and agrees no strike may be used to enforce or erase a debt. The bearer grows heavier and prolonged use causes slight aging. Every target is defined as a pressure, never a debtor. The link remains open only after post-use custody review. The Maul is stored with the fields separate, never clipped to a debtor’s file. If the Maul is aimed at a named debtor rather than a pressure field, its open link closes around the bearer’s wrist and adds physical Weight until custody review begins. The custodian covers the open link, states the person’s name, and releases the wrist clasp during shutdown.
+
 ## CORE STATISTICS
 
 | Field | Record |

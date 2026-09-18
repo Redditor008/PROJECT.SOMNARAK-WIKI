@@ -19,6 +19,10 @@
 **Canonical ability:** Grants a minor boon tied to Welcome Haven's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names Welcome Haven's event—A border wall collapsed during an Outside Sorrow surge, leaving residents exposed.—and accepts this limit: Admit the wall failed; do not promise perfect protection
 
+## Appearance
+
+The Broken Charm is the gift record of Welcome Haven’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to Welcome Haven’s sorrow, shaped like its failed shelter. Binding names the source event — a border wall collapsed during an Outside Sorrow surge, leaving residents exposed — and accepts the set’s limit: admit the wall failed; do not promise perfect protection. The cost is behavioral: the bearer’s temper shortens, the breach’s grievance leaking into the carrier, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals what the wall failed to protect — the residents and rooms behind the breach made visible, failure measured in casualties rather than masonry — and it interrupted the immediate hazard only after attribution to Welcome Haven. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  

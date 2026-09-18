@@ -16,6 +16,10 @@
 
 A pale Han-glass Head key with no teeth and a clouded memory moving inside its shaft. The Lock granted it after a worker heard one whisper and chose not to open the vault. Bestowal chance is 4%.
 
+## Appearance
+
+The Secret Key is a pale head-key of Han glass with no teeth at all, a clouded memory drifting visibly inside its shaft — a key that opens by payment, never by force. The Lock granted it after a worker heard one whisper and chose not to open the vault; it cannot be manufactured. It unlocks one sealed memory as a bounded whisper, and its cost is permanent — one personal memory sacrificed each time. In its recorded case the payment was an ordinary meal remembered with an old colleague; the event remains in the calendar, but its lived warmth is gone. A Key requesting increasingly important memories is the first corrosion sign; sacrifice treated as proof of entitlement is the second; and an opened memory seeking additional context is the third. Offering someone else’s memory without consent is payment substitution, one whisper becoming argument for the whole vault is access escalation, and paying again to justify previous loss is the martyr key. Care records what was learned, what was paid, and why no further access follows automatically, the Key staying sealed until independent review. Emergency release ends the whisper and refuses a second payment; breaking the Key opens without boundary.
+
 ## FUNCTION & COST
 
 **Grade / Element:** γ / Void  

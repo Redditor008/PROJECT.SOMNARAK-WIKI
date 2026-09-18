@@ -1,32 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="LACRIMA&#x27;S EDGE">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="LACRIMA'S EDGE">
   <defs>
-    <radialGradient id="bg988923" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bg905" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="100%" stop-color="#08090c"/>
     </radialGradient>
-    <radialGradient id="gl988923" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
+    <radialGradient id="gl905" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#475569" stop-opacity=".20"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg988923)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg905)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="127" fill="url(#gl988923)"/>
-  <g transform="rotate(-5 200.0 192.0)">
-<path d="M183.0 192.0 L192.86 96.96000000000001 L200.0 60.0 L207.14 104.88 L217.0 192.0 Z" fill="#8a8f98" fill-opacity=".24" stroke="#8a8f98" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 60.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="191.5" y="115.4" width="17.0" height="55.4" fill="none" stroke="#8a8f98" stroke-width="1" opacity=".45"/>
-<rect x="173.0" y="187.0" width="54.0" height="10" rx="4" fill="#8a8f98" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="50.0" rx="5" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-<circle cx="200.0" cy="258.0" r="6.0" fill="#8a8f98" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(-7 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(-13 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#8a8f98" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-905-01</text>
+  <circle cx="200" cy="188" r="132" fill="url(#gl905)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+  <!-- LACRIMA'S EDGE: tear droplet blade -->
+  <path d="M200 36 C 220 56, 236 92, 224 132 C 212 168, 186 188, 176 204 L 224 204 L 224 252 L 200 272 L 176 252 L 176 204 C 168 188, 148 168, 136 132 C 124 92, 140 56, 160 36 Z" fill="#334155" stroke="#94a3b8" stroke-width="2"/>
+  <path d="M200 44 C 214 62, 226 92, 216 124 C 208 150, 194 170, 186 182" fill="none" stroke="#e2e8f0" stroke-width="1.2" opacity=".7"/>
+  <ellipse cx="200" cy="112" rx="10" ry="16" fill="#bae6fd" stroke="#7dd3fc" stroke-width="1.2" opacity=".9"/>
+  <path d="M176 204 L 224 204 L 222 224 L 178 224 Z" fill="#1e293b" stroke="#94a3b8" stroke-width="1.2"/>
+  <path d="M188 224 L 188 314 C 188 322, 212 322, 212 314 L 212 224 Z" fill="#1e293b" stroke="#475569" stroke-width="1.2"/>
+  <circle cx="200" cy="326" r="7" fill="#334155" stroke="#94a3b8" stroke-width="1"/>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#94a3b8">MAW-W-905-01</text>
 </svg>

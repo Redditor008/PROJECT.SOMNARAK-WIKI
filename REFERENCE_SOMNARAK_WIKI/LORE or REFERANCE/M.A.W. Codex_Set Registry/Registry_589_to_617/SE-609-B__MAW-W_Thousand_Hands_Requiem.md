@@ -30,6 +30,10 @@ Binding requires the wielder to state one memory that is theirs and one testimon
 | Binding cost | Personal memory begins adopting details from witnessed histories |
 | Corrosion risk | Severe after cutting an attributed account itself |
 
+## Appearance
+
+The Thousand Hands Requiem is a singing blade of deep-blue Han crystal with overlapping palm lines visible beneath its surface — and when readied, the edge glows from hilt to point in the order of the relic’s owners rather than the direction of attack, seniority of grief overriding geometry. Extraction succeeded after a Ferrehan bearer returned a projected history without assigning a false name. Binding requires the wielder to state one memory that is theirs and one testimony they only witnessed; rejection makes both statements sound equally autobiographical, the exact confusion the weapon exists to cut. In use, its Possession Cut severs the bond making a bearer believe another owner’s projected life is their own — the strike targets the claim of ownership, not the emotional content, and a correct cut leaves the account available for testimony. A pierce can free up to three affected bearers, but each falloff step weakens attribution, and the final target must repeat the former owner’s identity or uncertainty aloud before being struck. The palm lines under the surface never align with the wielder’s own grip; the day they do, the weapon is reporting that its holder has started believing a life that was only ever handed to them.
+
 ## FUNCTION
 
 **Possession Cut:** severs the bond making a bearer believe another owner’s projected life is their own. The strike targets the claim of ownership, not the emotional content; a correct cut leaves the account available for testimony.

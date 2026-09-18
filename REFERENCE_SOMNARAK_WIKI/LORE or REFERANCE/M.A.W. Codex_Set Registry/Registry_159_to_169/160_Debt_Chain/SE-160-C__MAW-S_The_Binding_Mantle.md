@@ -34,6 +34,10 @@ The Mantle formed from a Chain echo left after a review worker set down a link w
 
 **Rejection rule:** A wearer who announces they will carry another person’s debt finds the chain pattern close and the Mantle’s Weight protection reduce to normal.
 
+## Appearance
+
+The Binding Mantle is a black mantle with a loose chain pattern that never closes around the wearer’s body. The mantle tightens only when a debt custodian is physically present. In active use the pattern distributes observed Weight along the hem while leaving the wearer’s hands free. At full activation, the Mantle releases one accumulated Weight surge and lets the wearer withdraw without leaving the debt record abandoned. The wearer has a debt custodian who can identify when a review has become emotional inheritance. The wearer carries constant low fatigue. Custodian can end use when separation fails. The Mantle is hung open, never locked as a chain. A wearer who announces they will carry another person’s debt finds the chain pattern close and the Mantle’s Weight protection reduce to normal. The custodian unfastens the throat link, names the separation boundary, and removes the Mantle during shutdown. Its overload threshold is reached when chain pattern closes at the throat.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

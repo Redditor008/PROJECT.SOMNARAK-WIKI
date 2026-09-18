@@ -18,6 +18,10 @@ A crimson Han-iron harness whose plates flicker between sleeping body and red-st
 
 Binding requires an external waking recorder. Iseulfros wore it during a mobile Desolate sleep-watch; the Plate kept her body intact while the dream floor collapsed, but dulled her reflexes so severely that her recorder—not she—initiated the evacuation.
 
+## Appearance
+
+The Warning Plate is a crimson harness of Han iron whose plates flicker between two images: a sleeping body and a red-static silhouette, the listener and the interference, never quite settling on either. It forms after a dream fragment is captured without reconstruction, and it binds only with an external waking recorder assigned before wear. In the field the harness maintains physical continuity while Grudge tears dream-space apart — the wearer’s body stays whole while the dream floor collapses — but the protection preserves neither interpretation nor response speed. The cost is in the joints: reflexes dull as if resentment has armored every one of them, so severely that the first wearer’s recorder, not she, initiated the evacuation. A threat understood before the muscles can respond is the delayed-body failure; a guessed message locking one limb is the static joint; and a recorder’s interpretation replacing the dreamer’s fragment is the substitution the set forbids. Worn without a waking recorder, it traps the wearer in recursive warning. It is maintained with the wearer awake while each plate is tapped in fragment order — unknown intervals receive silence, not filler tones. The recorder states current location and confirmed danger before releasing the slowest joint last.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

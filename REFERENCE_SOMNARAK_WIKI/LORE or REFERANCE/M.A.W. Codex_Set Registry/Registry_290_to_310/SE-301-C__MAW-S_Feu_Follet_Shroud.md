@@ -18,6 +18,10 @@ A wrapping blue Han-silk shroud with cold outer flame and one current-temperatur
 
 Binding requires a present sensory anchor and removal partner. Iseulfros wore it while Feu Follet changed rescue warmth into cold grief. The Shroud kept the memory from consuming identity but left ordinary pleasure emotionally numb.
 
+## Appearance
+
+The Feu Follet Shroud is a wrapping shroud of blue Han-silk with cold flame patterns on its outer face and one current-temperature thread running inside — fire that gives no heat worn over a single line of honest warmth. It condenses after stable Ferrehan contact, and it binds through a present sensory anchor and a removal partner. Worn while the source changes rescue warmth into cold grief, the cloth lets remembered warmth cool without translating that change into total loss of safety or self — the first wearer kept her identity but found ordinary pleasure emotionally numb afterward. That is the standing cost: minor joys go numb, and prolonged wear makes all comfort feel temporary and suspect. Rejecting every comfort before it can fade is permanent winter; refusing current danger because old warmth persists is memory shelter; and a memory that stays factual but emotionally dead is Void extinguishing. It is maintained dried beside moderate current warmth — never flame — while the wearer names one comfort that changed without becoming false. The removal partner confirms current temperature and location before the inner thread is opened.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

@@ -19,6 +19,10 @@
 **Canonical ability:** Absorbs one emotional surge.  
 **Binding rule:** the bearer names Swallow's event—A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence.—and accepts this limit: Name the source of the grief and return emotional ownership
 
+## Appearance
+
+The Fading Veil is the suit record of Swallow’s set, and its canonical ability is absorption: it absorbs one emotional surge whole — doing deliberately what the source does blindly and forever. Binding is testimonial: the wearer names Swallow’s event — a memorial beneath the Alpha Tree absorbed generations of visitors’ grief and became a spreading absence — and accepts the set’s limit: name the source of the grief and return emotional ownership. The operational cost is the Veil’s own archive: the wearer feels every sorrow the Veil has ever absorbed, each surge shelved beside its predecessors, and continued use makes the source sorrow feel autobiographical. The source-trace set the doctrine: the suit tests whether the worker can carry grief without claiming it — the surge held as cargo, never identity — and it redirected the immediate hazard only after the team attributed it to Swallow. Treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

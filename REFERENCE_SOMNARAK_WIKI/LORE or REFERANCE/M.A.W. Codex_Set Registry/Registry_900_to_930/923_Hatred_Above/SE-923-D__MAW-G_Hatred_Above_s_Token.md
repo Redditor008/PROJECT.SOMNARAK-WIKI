@@ -19,6 +19,10 @@
 **Canonical ability:** A fragment of the entity's grudge sorrow, crystallized into wearable form.   <!-- SE-923 -->
 **Binding rule:** the bearer names Hatred Above's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Hatred Above's Token is the gift record of the Hatred Above set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's grudge sorrow, crystallized into wearable form, one clot of the overhead animus carried at eye level where it can finally be examined. Binding names Hatred Above's event — Not recorded, the grievance suspended beyond the reach of its own history — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a whetting: old injuries and old resentments sharpen whenever the gift is used, the bearer's past quarrels looking up and taking notes. The source-trace fixed doctrine: the hazard permits study, its grudge pressure becoming legible under sustained observation, and the Token stays the hazard only after attribution to Hatred Above. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  

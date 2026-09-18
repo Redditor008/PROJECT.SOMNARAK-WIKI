@@ -19,6 +19,10 @@
 **Canonical ability:** Makes hidden lies and suppressed endings visible.  
 **Binding rule:** the bearer names Unheard's event—A citizen's final protest was absorbed by the Collector's system. The words disappeared, but the pressure of the struggle remained.—and accepts this limit: Do not force sound into it; listen and record what remains
 
+## Appearance
+
+The Unheard Lantern is the gift record of the Unheard set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability makes hidden lies and suppressed endings visible, light held up for testimony that was never allowed to finish. Binding names the source event — a citizen's final protest was absorbed by the Collector's system; the words disappeared, but the pressure of the struggle remained — and accepts the set's limit: do not force sound into it; listen and record what remains. The cost is vicarious: the bearer feels the entity's anger at every ignored voice nearby. The source-trace fixed doctrine: the Lantern revealed the final words and their erasure, both the protest and the deletion entered into the record at last, and it discharges the hazard only after attribution to Unheard. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 5%  

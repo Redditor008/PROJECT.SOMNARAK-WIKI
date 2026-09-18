@@ -29,6 +29,10 @@ Binding requires a current anchor and the anchored person’s consent. Without b
 | Binding cost | Continued use ages the hands and shoulders slightly |
 | Corrosion risk | High if used as a stake or foundation tool |
 
+## Appearance
+
+The Rootless Maul is a compact two-handed maul of matte black Han steel whose head hovers a hair above the ground — declining to settle even at rest, its pale root patterns moving toward any person forced from a chosen place. It formed after the Borrowed Stall was opened rather than assigned as home. Binding requires a current anchor and that person’s consent; without both, the Maul grows heavy enough to age the wielder before the first blow. In use, its Uprooting Break strikes a coercive tether, order, or Weight manifestation forcing displacement — it does not make an anchor permanent and cannot designate a rightful home. Driving the head into soil creates immediate stability followed by a reverse uprooting that tears bearer and anchor apart. In its recorded case a wielder broke a lock trapping residents in the Borrowed Stall, then planted the head by a support post “to hold the result” — the weapon rooted through the post and lifted the stall floor in reverse, and a resident pulled it free only after stating she had chosen to leave. The stall survived; the wielder’s shoulder aged visibly along one bruise. The head now hovers higher near structures being mislabeled as permanent homes.
+
 ## FUNCTION
 
 **Uprooting Break:** strikes a coercive tether, order, or Weight manifestation forcing displacement. It does not make an anchor permanent and cannot designate a rightful home.

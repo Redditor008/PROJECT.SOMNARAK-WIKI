@@ -19,6 +19,10 @@
 **Canonical ability:** Slows time perception and stabilizes the wearer.  
 **Binding rule:** the bearer names Dormant Monolith's event—A border worker carried family and community obligations until the mind became a sleeping pillar.—and accepts this limit: Ground the worker and establish a rotation of duty
 
+## Appearance
+
+The Dormant Monolith Shield is the suit record of the Dormant Monolith set — δ-grade, Void-aligned, resistant to Void at 0.3 while enduring Grudge at 0.8 and running weak to Lament and Weight, worn at 45 Sorrow Echoes a deployment — and its canonical ability slows time perception and stabilizes the wearer, the pillar's stillness lent out as composure. Binding names the source event — a border worker carried family and community obligations until the mind became a sleeping pillar — and accepts the set's limit: ground the worker and establish a rotation of duty. The cost is a ledger of postponements: the wearer feels every duty they have put off, each one pressing like the pillar's mass. The source-trace fixed doctrine: the Monolith tests whether the worker can rest beneath responsibility, and the Shield isolates the hazard only after attribution to Dormant Monolith. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

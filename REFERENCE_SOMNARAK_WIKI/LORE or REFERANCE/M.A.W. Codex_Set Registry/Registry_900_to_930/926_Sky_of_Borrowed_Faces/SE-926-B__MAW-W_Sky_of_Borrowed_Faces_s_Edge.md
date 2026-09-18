@@ -19,6 +19,10 @@
 **Canonical ability:** Channels lament phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.   <!-- SE-926 -->
 **Binding rule:** the bearer names Sky of Borrowed Faces's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Sky of Borrowed Faces's Edge is the weapon record of its set — γ-grade, Lament- aligned, striking at 14–24 Lament in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels lament phantasmal sorrow: the blade cuts at the phantasmal register of the target's grief, mourning worn on a sky that shows everyone someone they lost. Binding names Sky of Borrowed Faces's event — Not recorded, no account of whose face hung there first — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is mild memory fragmentation with each use, the wielder's own recalled faces growing harder to hold still. The source-trace fixed doctrine: the hazard gave no transcribable field response, and the Edge redirects the hazard only after attribution to Sky of Borrowed Faces. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

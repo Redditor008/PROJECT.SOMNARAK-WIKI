@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Weight damage, protecting against the weight register of sorrow.   <!-- SE-925 -->
 **Binding rule:** the bearer names Sorrow Mass's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Sorrow Mass's Veil is the suit record of the Sorrow Mass set — ω-grade, Weight- aligned, resistant to Weight at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Weight damage, protection against a Catastrophic accumulation of grief that presses without aiming. Binding names Sorrow Mass's event — Not recorded, the Sovereign hazard being every loss compacted and no loss in particular — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a constant low fatigue, as though Sorrow Mass's burden settles on the wearer's shoulders, a fraction of the mass accepted as rent. The source-trace fixed doctrine: the hazard recognizes patience, its weight pressure settling gradually under sustained presence, and the Veil uncouples the hazard only after attribution to Sorrow Mass. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

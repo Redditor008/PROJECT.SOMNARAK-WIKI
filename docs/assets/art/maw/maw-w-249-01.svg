@@ -1,25 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE WARNING FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg1f2f18" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw249" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl1f2f18" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl249" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg1f2f18)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw249)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="121" fill="url(#gl1f2f18)"/>
-  <g transform="rotate(8 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 122.69999999999999, 232.0 66.0 238.0 66.0 C228.0 126.48, 220.0 149.16, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 134.04, 230.0 74.0 235.0 72.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="53.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="257.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-249-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- LONG S-RECURVE FANG: blade sweeps back, then recurves forward to a rising point -->
+  <path d="M118 322 L106 310 C 138 292, 172 268, 198 238 C 222 210, 238 180, 258 152 C 276 126, 300 104, 330 92 C 340 88, 348 92, 348 100 C 348 110, 340 118, 328 126 C 304 142, 286 164, 272 190 C 256 220, 238 250, 212 278 C 186 306, 154 324, 130 332 Z"
+        fill="url(#bl249)" stroke="#ef4444" stroke-width="2.8"/>
+  <!-- spine follows the recurve -->
+  <path d="M116 314 C 148 296, 180 272, 204 244 C 228 214, 244 184, 264 156 C 280 132, 302 112, 330 100" fill="none" stroke="#4c0d13" stroke-width="2.2"/>
+  <!-- POLISHED EDGE SEGMENTS interrupted by RAW BLANK GAPS -->
+  <path d="M132 326 C 152 318, 172 306, 190 292" fill="none" stroke="#ffe4e6" stroke-width="2.4"/>
+  <path d="M206 276 C 220 260, 232 244, 242 226" fill="none" stroke="#ffe4e6" stroke-width="2.4"/>
+  <path d="M258 200 C 268 182, 280 164, 294 148" fill="none" stroke="#ffe4e6" stroke-width="2.4"/>
+  <path d="M308 136 C 318 128, 330 120, 342 112" fill="none" stroke="#ffe4e6" stroke-width="2.4"/>
+  <!-- the gaps: raw hatch marks where the edge was never confirmed -->
+  <path d="M192 290 L200 296 M196 284 L204 290 M244 224 L252 230 M248 218 L256 224 M296 146 L304 152 M300 140 L308 146" stroke="#7f1d1d" stroke-width="1.6"/>
+  <!-- broken syllable runes vibrating along the flat -->
+  <path d="M170 288 L178 286 L176 294 M212 246 L220 244 L218 252 M254 192 L262 190 L260 198 M296 132 L304 130 L302 138" fill="none" stroke="#fda4af" stroke-width="1.6"/>
+  <path d="M166 296 C 163 299, 163 303, 166 306 M208 254 C 205 257, 205 261, 208 264" fill="none" stroke="#fda4af" stroke-width="1.1" opacity=".7"/>
+  <!-- red static hatch at the rising tip -->
+  <path d="M334 84 L342 76 M342 86 L352 78 M348 94 L358 88" stroke="#ef4444" stroke-width="1.6" opacity=".85"/>
+  <!-- verified-direction line: solid then dashed past the last confirmed point -->
+  <path d="M140 340 C 190 322, 238 292, 276 252" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <circle cx="276" cy="252" r="3.4" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <path d="M282 244 C 306 216, 326 186, 340 152" fill="none" stroke="#f1df76" stroke-width="1.4" stroke-dasharray="4 6" opacity=".8"/>
+  <!-- double-bar two-report guard -->
+  <path d="M96 330 L146 348 M92 342 L142 360" stroke="#4c0d13" stroke-width="7" stroke-linecap="round"/>
+  <path d="M100 332 L140 346 M96 344 L136 358" stroke="#fda4af" stroke-width="1.6"/>
+  <!-- grip + report-cord -->
+  <path d="M112 352 L92 388" stroke="#4c0d13" stroke-width="11" stroke-linecap="round"/>
+  <path d="M112 360 L102 356 M106 370 L96 366 M100 380 L90 376" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M88 392 a6 6 0 1 0 .1 0" fill="#1a0a0d" stroke="#fda4af" stroke-width="2.2"/>
+  <path d="M84 396 C 78 392, 74 386, 74 380" fill="none" stroke="#f1df76" stroke-width="1.4" stroke-dasharray="2 3"/>
 </svg>

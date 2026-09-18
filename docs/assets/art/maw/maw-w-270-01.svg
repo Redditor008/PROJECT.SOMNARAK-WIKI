@@ -1,32 +1,48 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE LAKE REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bgaf35a2" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw270" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="glaf35a2" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl270" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1e40af"/>
+      <stop offset="1" stop-color="#93c5fd"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgaf35a2)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw270)" stroke="#3b82f6" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="123" fill="url(#glaf35a2)"/>
-  <g transform="rotate(10 200.0 192.0)">
-<path d="M188.0 192.0 L194.96 75.36 L200.0 30.0 L205.04 85.08 L212.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 30.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="194.0" y="98.0" width="12.0" height="68.0" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="178.0" y="187.0" width="44.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="51.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="259.0" r="8.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(1 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(-6 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-270-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#3b82f6" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#3b82f6" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- blade held at a steep tilt — to prove the waterline stays level -->
+  <path d="M232 352 L218 344 L266 128 C 270 110, 282 98, 298 98 C 310 100, 318 110, 316 126 L268 342 C 256 352, 242 356, 232 352 Z"
+        fill="url(#bl270)" stroke="#3b82f6" stroke-width="2.8"/>
+  <path d="M228 340 L276 122" stroke="#1e3a5f" stroke-width="2"/>
+  <path d="M240 346 L288 124" stroke="#e0f2fe" stroke-width="1.6" opacity=".85"/>
+  <!-- THE STILL WATERLINE: perfectly horizontal band crossing the tilted blade -->
+  <path d="M226 236 L302 236" stroke="#e0f2fe" stroke-width="3"/>
+  <path d="M226 242 L300 242" stroke="#7dd3fc" stroke-width="1.4" opacity=".7"/>
+  <!-- below the line: filled water, darker, with slow depth bands -->
+  <path d="M224 258 L296 258 M226 280 L290 280 M230 304 L282 304 M234 326 L272 326" stroke="#1e40af" stroke-width="2" opacity=".8"/>
+  <!-- above the line: dry crystal, striations follow the blade's own angle instead -->
+  <path d="M254 200 L282 206 M260 172 L288 178 M266 144 L292 150" stroke="#3b5f88" stroke-width="1.4" opacity=".8"/>
+  <!-- the returned memory: one bright mote below the surface, whole, unfragmented -->
+  <circle cx="258" cy="286" r="7" fill="none" stroke="#e0f2fe" stroke-width="2"/>
+  <circle cx="258" cy="286" r="2.6" fill="#7dd3fc"/>
+  <!-- three overflow connections being severed: thin lines leaving the mote, each cut -->
+  <path d="M264 280 L286 264 M252 279 L236 262 M262 293 L280 308" stroke="#60a5fa" stroke-width="1.6"/>
+  <path d="M278 266 L284 272 M242 264 L236 270 M274 304 L280 298" stroke="#f1df76" stroke-width="2.2"/>
+  <!-- meniscus shine at the waterline edges -->
+  <path d="M226 234 C 230 231, 235 230, 240 231 M288 231 C 293 230, 298 231, 302 234" fill="none" stroke="#ffffff" stroke-width="1.2" opacity=".8"/>
+  <!-- horizon disagreement: the Lake's own tilted horizon etched faint near the tip -->
+  <path d="M270 118 L310 130" stroke="#3b5f88" stroke-width="1.2" stroke-dasharray="4 4" opacity=".7"/>
+  <!-- guard: level-gauge crossbar with its bubble exactly centered -->
+  <path d="M212 350 L286 366" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
+  <rect x="234" y="352" width="30" height="10" rx="5" fill="#0a1626" stroke="#93c5fd" stroke-width="1.8"/>
+  <circle cx="249" cy="357" r="3" fill="#7dd3fc"/>
+  <!-- grip + two identity-anchor rings -->
+  <path d="M244 366 L236 396" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
+  <path d="M240 374 L250 376 M238 384 L248 386" stroke="#60a5fa" stroke-width="2.2"/>
+  <circle cx="230" cy="402" r="5 " fill="none" stroke="#f1df76" stroke-width="1.8"/>
+  <circle cx="243" cy="404" r="5" fill="none" stroke="#f1df76" stroke-width="1.8"/>
 </svg>

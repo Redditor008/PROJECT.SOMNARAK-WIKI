@@ -30,6 +30,10 @@ The Plate formed during a Ferrehan stand at Half-Room Twelve while Xyan held the
 | Binding cost | The wearer starts treating indecision as moral superiority |
 | Corrosion risk | Moderate; severe if the central seam is closed |
 
+## Appearance
+
+The Exiles’ Wall Plate is a dark crimson harness of Han iron whose plates overlap like unfinished masonry — and a deliberate open seam runs down the center, the one gap that keeps armor from becoming architecture. It tightens near Grudge. Binding requires an escort who is not authorized to choose the traveler’s destination; the suit is built around that disqualification. It formed during a Ferrehan stand at Half-Room Twelve, around an escort who held the midpoint and refused both the city’s order to return the exiles and the Wall’s invitation to remain. In the field, its Midpoint Guard resists Grudge pressure from both sides of a contested boundary while keeping the escort responsive to the traveler — the open seam prevents the suit from becoming a wall. Standing after passage ends, or accepting authority over destination, closes one plate at a time; a fully closed harness fixes the wearer in place as border infrastructure. In its recorded case the escort’s balanced stance itself became obstruction: the seventh traveler asked him to step aside, and when he obeyed, the central seam reopened and she returned cityward by choice. One central plate now stays absent by design — replacing it is a shutdown-level fault.
+
 ## PROTECTIVE FUNCTION
 
 **Midpoint Guard:** resists Grudge pressure from both sides of a contested boundary while keeping the escort responsive to the traveler. The open seam prevents the suit from becoming a wall.

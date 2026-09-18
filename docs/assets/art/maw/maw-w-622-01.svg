@@ -1,25 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="VESTIGE FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bgafb578" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw622" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="glafb578" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl622" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgafb578)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw622)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="131" fill="url(#glafb578)"/>
-  <g transform="rotate(3 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 120.5, 224.0 62.0 230.0 62.0 C220.0 124.39999999999999, 220.0 147.8, 215.0 192.0 Z" fill="#3e8bd5" fill-opacity=".26" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 132.2, 222.0 70.0 227.0 68.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#3e8bd5" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="49.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="253.0" r="5" fill="#3e8bd5" fill-opacity=".65"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- dark quivering fang, broad inner curve up-left -->
+  <path d="M262 312 L274 302 C 252 270, 238 234, 234 194 C 230 160, 234 128, 248 100 L 226 90 C 208 122, 202 158, 206 196 C 212 244, 230 284, 250 316 Z"
+        fill="url(#bl622)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M268 300 C 248 270, 236 236, 232 198 C 228 162, 232 130, 244 104" fill="none" stroke="#ffe4e6" stroke-width="1.6"/>
+  <!-- quiver ghosts: dark until erasure stirs -->
+  <path d="M222 96 C 206 126, 199 160, 202 196 C 206 240, 220 278, 240 310" fill="none" stroke="#7f1d1d" stroke-width="1.3" stroke-dasharray="3 5" opacity=".6"/>
+  <path d="M232 92 C 214 124, 206 160, 210 198" fill="none" stroke="#7f1d1d" stroke-width="1.1" stroke-dasharray="2 6" opacity=".45"/>
+  <!-- THE INNER-CURVE MAP: missing roads legible in the metal, not the surrounding ground -->
+  <g transform="rotate(8 218 200)">
+    <path d="M212 130 C 216 160, 216 190, 212 220 C 210 240, 212 258, 218 274" fill="none" stroke="#fda4af" stroke-width="2"/>
+    <path d="M212 156 L228 148 M214 186 L230 184 M212 216 L226 220 M214 246 L228 252" stroke="#fda4af" stroke-width="1.5"/>
+    <path d="M228 148 L238 142 M230 184 L242 184 M226 220 L236 226" stroke="#7f1d1d" stroke-width="1.3" stroke-dasharray="3 3"/>
+    <!-- settlement blocks along the deleted roads -->
+    <rect x="230" y="136" width="8" height="6" fill="none" stroke="#fca5a5" stroke-width="1.1"/>
+    <rect x="234" y="178" width="9" height="7" fill="none" stroke="#fca5a5" stroke-width="1.1"/>
+    <rect x="228" y="226" width="8" height="6" fill="none" stroke="#fca5a5" stroke-width="1.1"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-622-01</text>
+  <!-- the surrounding ground it does NOT reflect: blank hatch outside the curve -->
+  <path d="M282 160 L294 152 M286 190 L298 184 M284 222 L296 216" stroke="#450a0a" stroke-width="1.4" opacity=".6"/>
+  <!-- THE ACTIVE MAP-SCRUB SEAL severed: eraser block cut mid-wipe -->
+  <rect x="158" y="150" width="26" height="16" rx="3" transform="rotate(-18 171 158)" fill="#0d0507" stroke="#64748b" stroke-width="1.8"/>
+  <path d="M154 144 C 148 140, 144 134, 142 128" fill="none" stroke="#64748b" stroke-width="1.4" stroke-dasharray="3 3"/>
+  <path d="M162 146 L178 164" stroke="#f1df76" stroke-width="2.6"/>
+  <!-- erasure-vs-loss discipline: continuing act (arrow) vs completed loss (period dot), separated -->
+  <path d="M156 216 C 164 212, 172 210, 180 211" fill="none" stroke="#fda4af" stroke-width="1.6"/>
+  <path d="M180 211 L173 206 M180 211 L174 217" stroke="#fda4af" stroke-width="1.4"/>
+  <circle cx="158" cy="240" r="2.6" fill="#7f1d1d"/>
+  <path d="M170 228 L146 252" stroke="#450a0a" stroke-width="1.2" stroke-dasharray="2 3" opacity=".7"/>
+  <!-- grip at the bottom, wrapped, with restored-by-force scar band warning -->
+  <path d="M256 322 L284 372" stroke="#4c0d13" stroke-width="11" stroke-linecap="round"/>
+  <path d="M262 334 L272 330 M268 346 L278 342 M274 358 L284 354" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M288 380 a6 6 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.2"/>
+  <path d="M296 372 C 302 370, 308 370, 313 373" fill="none" stroke="#7f1d1d" stroke-width="1.4" stroke-dasharray="2 3"/>
 </svg>

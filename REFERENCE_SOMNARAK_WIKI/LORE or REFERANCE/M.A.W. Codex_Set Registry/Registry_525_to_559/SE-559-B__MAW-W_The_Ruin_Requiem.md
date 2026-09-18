@@ -30,6 +30,10 @@ Binding requires a wielder to identify a place they cannot return to and refuse 
 | Binding cost | Prolonged use causes involuntary weeping for places never visited |
 | Corrosion risk | Severe when used inside reconstructed architecture |
 
+## Appearance
+
+The Ruin Requiem is a slender blade of deep-blue Han crystal down which dust runs backward when drawn, and each swing sounds like a roof settling far away. It formed after a survivor’s full account was heard without any fragment being fitted to another. Binding requires a wielder to identify a place they cannot return to and refuse the promise of restoration; rejection fills the user’s vision with intact rooms until they walk into present walls. In use, its Exit Elegy reveals the last remembered safe route through unstable or collapsed space — the line can pierce debris and Lament manifestations, but it cannot invent a passage, and a route unknown to the witness ends at the first uncertainty. Accuracy increases when a survivor corrects the wielder aloud; silencing the witness turns the next strike into Total Subsidence around the blade. Every attack draws unwept grief into the wielder’s breath; prolonged use brings weeping for places never visited. In its recorded case a wielder cut toward a second window remembered from a briefing; the survivor insisted her home had one, and the blade cracked the invention into blinding dust. It now shows a hairline fracture whenever an operator’s remembered map outranks a survivor’s account.
+
 ## FUNCTION
 
 **Exit Elegy:** the blade reveals the last remembered safe route through unstable or collapsed space. Its line can pierce debris and Lament manifestations, but it cannot invent a passage. A route unknown to the witness ends at the first uncertainty.

@@ -1,32 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="UNSPROUTED LIFE REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bgde1bc1" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw315" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="glde1bc1" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl315" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgde1bc1)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw315)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="123" fill="url(#glde1bc1)"/>
-  <g transform="rotate(-1 200.0 192.0)">
-<path d="M183.0 192.0 L192.86 83.28 L200.0 41.0 L207.14 92.33999999999999 L217.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 41.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="191.5" y="104.4" width="17.0" height="63.4" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="173.0" y="187.0" width="54.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="45.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="253.0" r="5.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(0 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(13 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-315-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- singing blade rising diagonal; the point CURLS OUTWARD away from center (refuses the source body) -->
+  <path d="M148 302 L136 292 C 168 262, 196 226, 216 186 C 232 154, 246 122, 268 96 C 280 82, 296 76, 308 84 C 300 86, 292 94, 288 104 C 296 100, 306 100, 312 106 C 300 110, 290 120, 284 134 C 270 166, 254 200, 232 232 C 210 264, 182 290, 160 308 Z"
+        fill="url(#bl315)" stroke="#38bdf8" stroke-width="2.8"/>
+  <path d="M146 294 C 178 264, 204 230, 224 190 C 240 158, 254 128, 274 102" fill="none" stroke="#1e3a5f" stroke-width="2"/>
+  <path d="M158 302 C 188 278, 214 246, 234 208 C 250 176, 264 146, 282 122" fill="none" stroke="#e0f2fe" stroke-width="1.8"/>
+  <!-- crystal growth striations -->
+  <path d="M180 268 L192 278 M204 236 L216 246 M226 202 L238 210 M248 166 L260 174" stroke="#3b5f88" stroke-width="1.2" opacity=".8"/>
+  <!-- THE THREE DETACHED GROWTH PATHS: root-limbs crossing the edge, each severed -->
+  <path d="M204 224 C 190 216, 178 214, 166 218 C 174 224, 184 228, 196 230" fill="none" stroke="#4ade80" stroke-width="2.4"/>
+  <path d="M236 180 C 224 170, 212 166, 200 168" fill="none" stroke="#4ade80" stroke-width="2.2"/>
+  <path d="M262 136 C 252 126, 242 122, 232 122" fill="none" stroke="#4ade80" stroke-width="2"/>
+  <path d="M198 232 L210 218 M198 176 L212 164 M230 130 L244 120" stroke="#f1df76" stroke-width="2.4"/>
+  <path d="M162 220 C 154 222, 148 226, 144 232 M196 170 C 188 170, 180 172, 174 176" fill="none" stroke="#166534" stroke-width="1.6" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- song lines -->
+  <path d="M300 72 C 308 66, 316 64, 324 66 M306 88 C 314 82, 322 80, 330 82" fill="none" stroke="#7dd3fc" stroke-width="1.4" opacity=".7"/>
+  <!-- THE SPLIT SEED-POD GUARD: two halves opened apart, hollow between -->
+  <path d="M124 302 C 108 296, 98 284, 98 270 C 112 272, 124 280, 132 292 Z" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.4"/>
+  <path d="M168 316 C 178 330, 180 344, 174 356 C 162 348, 156 336, 156 322 Z" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.4"/>
+  <path d="M104 276 C 112 278, 120 284, 126 292 M170 322 C 174 330, 175 340, 172 348" fill="none" stroke="#3b5f88" stroke-width="1.3"/>
+  <!-- the excluded source-shell: dashed seed kept OUTSIDE the geometry -->
+  <ellipse cx="120" cy="342" rx="12" ry="16" fill="none" stroke="#4ade80" stroke-width="1.6" stroke-dasharray="4 4"/>
+  <path d="M114 336 L126 348 M126 336 L114 348" stroke="#ef4444" stroke-width="1.8" opacity=".85"/>
+  <!-- grip angled away + weeping pommel (borrowed mourning) -->
+  <path d="M144 312 L108 356" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
+  <path d="M140 318 L148 326 M132 328 L140 336 M124 338 L132 346" stroke="#60a5fa" stroke-width="2.4"/>
+  <path d="M102 364 a7 7 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.4"/>
+  <path d="M98 374 C 95 379, 95 383, 98 386 C 101 383, 101 379, 98 374 Z" fill="#7dd3fc"/>
+  <path d="M108 376 C 106 380, 106 383, 108 385" fill="none" stroke="#38bdf8" stroke-width="1.2" opacity=".7"/>
 </svg>

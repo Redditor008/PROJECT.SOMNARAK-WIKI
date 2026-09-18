@@ -19,6 +19,10 @@
 **Canonical ability:** A petal that twitches awake when a voice in the room is not the speaker's own — warning the bearer of lies, mimicry, and stolen words.  
 **Binding rule:** the bearer names Calling Bloom's event—Nari, a wilderness scavenger child, heard what she believed was her brother Seojun crying for help deep in the wood. She ran past the safe outskirts, past the mushroom-beds she knew, all the way to the clearing at the wood's centre — and found no brother, only a single small flower with an eye. Curious, she touched it. She was gone before her hand came away.—and accepts this limit: Do not answer the voice — name the child, not the brother, and lead her back toward the wood's edge
 
+## Appearance
+
+The Watcher's Petal is the gift record of the Calling Bloom set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a petal that twitches awake when a voice is not the speaker's own, warning of lies, mimicry, and stolen words. Binding names the source event — Nari followed a cry she took for her brother Seojun's and touched the flower with an eye; she was gone before her hand came away — and accepts the set's limit: do not answer the voice; name the child, not the brother, and lead her back toward the wood's edge. The cost: the bearer sometimes feels watched from just above their own line of sight. The source- trace fixed doctrine: studied calmly, the bloom turned its eye on the observer, its mimicry laid bare, the Petal witnessing the hazard only after attribution to Calling Bloom. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  

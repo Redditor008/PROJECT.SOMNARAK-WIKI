@@ -21,6 +21,10 @@ It condenses from Weight released after an unabridged archive entry. Binding req
 
 Durivel used the first Maul during the *False Wall of Year 4,211* incident. One strike broke a newer storage partition hiding an older casualty register. After three swings his hands aged visibly and one shoulder retained twelve years of stiffness.
 
+## Appearance
+
+The Years Maul is a matte black two-handed maul of Han steel whose striking faces are formed from calendar leaves — but each leaf displays consequences rather than days. The shaft lengthens by one finger-width whenever the weapon records an omitted year, so an old Maul is visibly longer than its registration entry. It condenses from Weight released after an unabridged archive entry, and binding requires the wielder to name one institutional harm they benefit from, without pretending that personal confession completes repair. Before striking, the wielder states the target event and its surviving consequence; the Maul then sends that Weight through up to three linked structures. A date without consequence produces no force at all, and an invented date returns the blow through the bearer’s own joints. The cost is cumulative — the body grows heavier, ages slightly, and with repeated use historical time begins to feel more real than the current room. Swinging without a complete record freezes the head on one repeating year. It is maintained laid across two archive supports with the last affected file open beneath the head, and the shaft returns to registered length only when no euphemism remains in the entry.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

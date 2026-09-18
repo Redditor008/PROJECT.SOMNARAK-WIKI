@@ -21,6 +21,10 @@ The Plate condenses from Patina’s loosened Weight after Ferrehan. Binding requ
 
 Iseulfros tested it during a road expansion. Thrown hostility hardened the harness enough to cross the sinking route, but she began distrusting an unfamiliar medic solely because his accent matched one old faction. The Charm bearer interrupted before the bias became an order.
 
+## Appearance
+
+Patina Plate is a crimson Han-iron harness of rust-dark plates that breathe apart under calm conditions and clamp together near hostility — the armor’s state is legible across a room. Inside each plate runs an unassigned border line; names appear along those lines only when the wearer begins sorting strangers into inherited sides, which makes the interior of the armor its own warning system. The Plate condenses from Patina’s loosened Weight after Ferrehan, and binding requires the wearer to name a conflict they inherited and one person they refuse to treat as its continuation. In the field, directed anger hardens the outer plates into physical resistance — hostility tempered into armor — while Void slips through, because the protection depends on remembered sides. The cost is intimate: the wearer feels inherited anger toward strangers and begins mistaking unfamiliarity for allegiance. Plates that stay hard after hostility ends, or border lines acquiring family names, mean withdrawal. It is maintained opened flat over a current route map with all family labels removed, two people from different sides identifying present hazards together. A neutral partner unhooks the plates in the order hostility reached them; forced front release sends stored anger into the nearest stranger.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Cleaved's kind of pressure.  
 **Binding rule:** the bearer names Cleaved's event—A tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan.—and accepts this limit: Do not complete the structure; document what was intended and lost
 
+## Appearance
+
+The Torn Veil is the suit record of Cleaved’s set, granting resistance to Void damage and protecting the Soul against the pressure of a structure that exists only as intention. Binding is testimonial: the wearer names Cleaved’s event — a tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan — and accepts the set’s limit: do not complete the structure; document what was intended and lost. The operational cost is the Void standard for armor: the wearer feels faintly absent to themselves, presence thinned by the same protection that maintains it, and continued use makes the sorrow feel autobiographical. The source-trace set the doctrine: the suit forces the worker to endure the feeling of almost-arrival — the perpetual approach of a completion that never comes — and it stabilized the immediate hazard only after the team attributed it to Cleaved. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

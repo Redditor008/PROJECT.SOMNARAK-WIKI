@@ -18,6 +18,10 @@ A deep-blue Han-silk wrapping with a dark reflective outer layer and one warm pu
 
 Binding requires two personal anchors and a shore partner. Iseulfros wore it during an overflow channel inspection; hundreds of lives crossed the outer cloth while the pulse line kept her current body legible. Small pleasures felt irrelevant afterward.
 
+## Appearance
+
+The Lake Shroud is a wrapping of deep-blue Han-silk with a dark reflective outer layer and one warm pulse line running inside — a single thread of current life sewn through a surface built to carry other people’s. It condenses from mist after a witnessed memory returns to the Lake, and it binds through two personal anchors and a shore partner watching from dry ground. Worn at an overflow, historical lives reflect across the outer cloth without entering the wearer’s identity — hundreds of strangers’ years crossing the fabric while the pulse line keeps the current body legible. Void can erase the pulse, and deep Weight can submerge it. The cost is scale: minor joys go numb beside the mass of stored life, small pleasures feeling irrelevant for days. The outer life replacing the inner pulse is the reflection-merger failure, and a wearer who crosses the waterline becomes another stored reflection — the suit is not diving equipment and may not enter the Lake. It is maintained hung facing ordinary still water while the wearer states two current anchors and the shore partner confirms the pulse line. Removal steps beyond all memory water and opens from the warm inner seam.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

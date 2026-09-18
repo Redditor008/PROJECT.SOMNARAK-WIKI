@@ -29,6 +29,10 @@ The Ring formed after a Redacted observation preserved absence under Archive cus
 
 **Rejection:** Using it to manufacture identity from a gap causes the Ring to show a false complete record and then removes the bearer’s confidence in it.
 
+## Appearance
+
+The Redacted Ring is a plain circle of pale glass, unmarked and slightly cold, worn at the head. Light passes through it wrong: looking through the Ring at a record, a room, or a person’s account, the bearer sees one place where something should be and is not — a missing entry, a gap in a year, an absent name — outlined as a faint pale border. The Ring reveals the missing element and the boundary of the surrounding fragments, and nothing more; it never supplies the missing person’s whole story, never establishes motive, and never converts an absence into evidence for a preferred explanation. Every reading takes certainty from one of the bearer’s own remembered events, so that a bearer who uses the Ring often can no longer swear to the details of their own past. It brightens when the bearer is reaching for a satisfying story, and a Ring gone dark is sealed as a false-history hazard. It is worn only under Archive witness and stored with the custody ledger. The witness covers the Ring and closes custody during shutdown; breaking it fragments a current memory across everyone watching.
+
 ## GIFT STATISTICS
 
 **Source bonus:** +2 when working Redacted. **Cost:** The wearer loses certainty about one remembered event. One Ring only.

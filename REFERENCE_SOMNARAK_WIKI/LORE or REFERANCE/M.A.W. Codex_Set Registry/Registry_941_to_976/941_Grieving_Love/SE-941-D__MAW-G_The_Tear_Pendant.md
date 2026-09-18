@@ -19,6 +19,10 @@
 **Canonical ability:** A single suspended tear of grief-slime that grows warm in the presence of unspoken sorrow, warning the bearer when someone near them is grieving in silence.  
 **Binding rule:** the bearer names Grieving Love's event—Sooah, an apothecary of Zone D, laboured night and day to draw the Weeping-wasting out of her beloved Haneul. On the final night, exhausted, she reached for the last reagent, slipped, and fell into the vat. The cure that should have separated sorrow from flesh instead fused them — her sorrow became her flesh.—and accepts this limit: Do not flee her embrace — sit with her grief until she lets go of her own accord
 
+## Appearance
+
+The Tear Pendant is the gift record of the Grieving Love set — neck-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a suspended tear of grief-slime that warms near unspoken sorrow, warning the bearer when someone nearby is grieving in silence. Binding names the source event — Sooah, exhausted from tending Haneul, fell into the vat and the cure fused her sorrow into her flesh — and accepts the set's limit: do not flee her embrace; sit with her grief until she lets go of her own accord. The cost is overflow: the bearer weeps without cause at odd hours and cannot always say for whom. The source-trace fixed doctrine: studied gently, she grew still and let the worker see the bright pulse of the cure and the name she keeps murmuring, the Pendant discharging the hazard only after attribution to Grieving Love. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Neck / 5%  

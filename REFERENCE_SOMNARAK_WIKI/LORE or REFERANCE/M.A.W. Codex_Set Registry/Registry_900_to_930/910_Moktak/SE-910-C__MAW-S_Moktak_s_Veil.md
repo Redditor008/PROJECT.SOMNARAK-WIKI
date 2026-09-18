@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Weight damage, protecting against the spirit register of sorrow.   <!-- SE-910 -->
 **Binding rule:** the bearer names Moktak's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Moktak's Veil is the suit record of the Moktak set — β-grade, Weight-aligned, resistant to Weight at 0.3 while running weak to Void at 1.2, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Weight damage, protection against the spirit register of sorrow that gathers where the wooden bell once sounded. Binding names Moktak's event — Not recorded, the ceremony remembered by the room and not the record — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a constant low fatigue, as though Moktak's burden settles on the wearer's shoulders, the weight of a vigil kept without relief. The source-trace fixed doctrine: the place recognizes patience, its weight pressure settling gradually under sustained presence, and the Veil severs the hazard only after attribution to Moktak. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

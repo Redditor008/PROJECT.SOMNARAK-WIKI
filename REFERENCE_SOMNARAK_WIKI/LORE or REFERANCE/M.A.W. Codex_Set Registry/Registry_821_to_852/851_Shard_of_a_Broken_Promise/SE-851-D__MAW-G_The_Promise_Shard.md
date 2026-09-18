@@ -19,6 +19,10 @@
 **Canonical ability:** Protects the wearer from one anticipated betrayal.  
 **Binding rule:** the bearer names Shard of a Broken Promise's event—An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Promise Shard is the gift record of the Shard of a Broken Promise’s set — tail- slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability is preemptive: it protects the wearer from one anticipated betrayal, the broken vow’s survivor guarding against the wound it knows best. Binding names the source event — an artifact promised to a family’s protection was left behind in evacuation; the promise broke, the artifact survived — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is ambient: the wearer feels every broken promise nearby, the neighborhood’s failures all audible at once, and prolonged use makes the sorrow autobiographical. The source-trace fixed doctrine: the gift shows the promise and the moment it failed — vow and breaking held in one view, neither softened — and it stayed the hazard only after attribution to the Shard. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  

@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Yggdrasil Wound's kind of pressure.  
 **Binding rule:** the bearer names Yggdrasil Wound's event—A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence.—and accepts this limit: Ground the worker and permit both memories to remain
 
+## Appearance
+
+The Torn Veil is the suit record of the Yggdrasil Wound set — α-grade, Void-aligned, resistant to Void at 0.3 while enduring Grudge at 0.8 and running weak to Lament and Weight, worn at 10 Sorrow Echoes a deployment — and its canonical ability grants resistance to Void damage, protecting the Soul against the pull of a memory torn into a tree-shaped absence. Binding names the source event — a tunnel worker lost everyone in a collapse and preserved only one memory, which tore — and accepts the set's limit: ground the worker and permit both memories to remain. The cost is faint self-absence: the wearer feels slightly apart from themselves while the Veil is worn. The source- trace fixed doctrine: the Wound tests whether the worker can remain between both memories, and the Veil uncouples the hazard only after attribution to Yggdrasil Wound. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

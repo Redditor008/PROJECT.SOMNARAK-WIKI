@@ -19,6 +19,10 @@ A cool deep-blue Han-crystal thread worn at the Tail slot. It links the bearer t
 
 The Soul granted the Thread after Hanul and Euncris completed an accompanied route while openly admitting they did not remember it. Acquisition probability is 4%; no procedure can manufacture it.
 
+## Appearance
+
+The Soul Thread is a cool deep-blue Han-crystal thread worn at the tail slot, fine as a hair and colder than the room. It links the bearer to a fading person as a pulse — presence reduced to its honest minimum, with no name, no face, no biography attached — and false information physically deforms it: every unsupported detail hardens into a knot along the line. The Soul granted it after two workers completed an accompanied route while openly admitting they did not remember it; no procedure can manufacture one. In function the Thread keeps one fading identity connected to living witnesses — when every observer forgot the Soul on looking away, the Thread went on pulsing, letting its bearer say “someone remains behind us” without supplying a person. The cost enters at night: the bearer hears that person’s grief during sleep. Knots forming around plausible but unsupported details are the first corrosion sign, and dream-weeping before sleep the second. Care is comparative: two note-takers strike every unsupported statement and leave the missing fields visible, and the Thread unkinks only when “unknown” is accepted as a valid record. Cutting it abandons both ends to the same erasure.
+
 ## FUNCTION & COST
 
 **Grade / Element:** γ / Lament  

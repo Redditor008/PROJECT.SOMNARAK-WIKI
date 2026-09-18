@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (composure, certainty of being grounded). A thrust cast upward — the target feels the lurch of sudden, unwanted flight, and the worse lurch of the fall.  
 **Binding rule:** the bearer names YANG River Flood's event—Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record.—and accepts this limit: Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim
 
+## Appearance
+
+The Skyward Spear is the weapon record of the YANG River Flood set — γ-grade, Lament- aligned, striking at 7–12 Lament at fast speed and long range in an area pattern for 30 Sorrow Echoes a use — and its canonical ability deals Lament damage against the Mind: a thrust cast upward, the lurch of unwanted flight and the worse lurch of the fall. Binding names the source event — a traveller slept beside the carving and stepped off the riverbank at dawn certain he could fly; the carving now sits in the Vault — and accepts the set's limit: do not touch; name the sky it cannot reach. The cost: the wielder feels the ache of absent wings and glances too often at the sky. The source-trace fixed doctrine: as an Object source the carving cannot be confronted through Pugnahan, and the Spear isolates the hazard only after attribution to YANG River Flood. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

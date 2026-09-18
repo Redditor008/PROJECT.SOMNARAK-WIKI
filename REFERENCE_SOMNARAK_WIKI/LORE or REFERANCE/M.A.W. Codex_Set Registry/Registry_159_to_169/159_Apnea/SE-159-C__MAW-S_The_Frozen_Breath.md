@@ -34,6 +34,10 @@ The Breath formed when a worker’s voluntary exhale softened Apnea’s frost an
 
 **Rejection rule:** A wearer who treats the protective silence as proof they are fine finds the veil harden and all Grudge resistance return to normal.
 
+## Appearance
+
+The Frozen Breath is a crimson gossamer veil that feels like a cold breath over the mouth and chest. A relief observer can see cracks in the veil whenever the wearer is suppressing exhaustion. In active use the veil holds a thin frost-red barrier around the wearer’s breath and posture. At full activation, the veil releases its panic barrier in a controlled way, letting the wearer feel and state exhaustion without a sudden surge. The wearer assigns a relief observer who can read the crack pattern and remove the veil. The wearer cannot express exhaustion while active. Relief observer can terminate protection despite bearer objection. A wearer who treats the protective silence as proof they are fine finds the veil harden and all Grudge resistance return to normal. The observer unfastens the collar, gives the stop cue, and directs the wearer to guarded rest during shutdown. Its overload threshold is reached when crack pattern reaches the collar.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

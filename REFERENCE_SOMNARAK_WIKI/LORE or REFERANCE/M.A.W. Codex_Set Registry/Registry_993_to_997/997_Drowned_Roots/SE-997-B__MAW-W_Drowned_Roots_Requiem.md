@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Drowned Roots's lament signature in the strike.  
 **Binding rule:** the bearer names Drowned Roots's event—A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter.—and accepts this limit: Speak the soldier's duty without forcing a false name
 
+## Appearance
+
+The Drowned Roots Requiem is the weapon record of the Drowned Roots set — γ-grade, Lament-aligned, striking at 7–12 Lament at fast speed and medium range in a pierce pattern, three uses at 40 Sorrow Echoes each — and its canonical ability deals Lament damage against the Mind, emotional stability and willpower, channeling the specter's lament signature. Binding names the source event — a soldier's name was erased from the war record, and the forgotten duty grew into a tree-shaped specter — and accepts the set's limit: speak the soldier's duty without forcing a false name. The cost is borrowed mourning: the wielder feels the entity's unwept grief, and prolonged use causes involuntary weeping. The source-trace fixed doctrine: pressed, the specter resists and burns with anger, erasure answered with fire, and the Requiem severs the hazard only after attribution to Drowned Roots. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

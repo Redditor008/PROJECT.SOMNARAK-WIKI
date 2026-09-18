@@ -19,6 +19,10 @@
 **Canonical ability:** Reveals the memory of a place before it was altered.  
 **Binding rule:** the bearer names Homecoming Tree's event—A displaced community returned to its original border settlement and found it transformed beyond recognition.—and accepts this limit: Mark the place as changed; do not attempt to restore a false past
 
+## Appearance
+
+The Returning Leaf is the gift record of the Homecoming Tree’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is honest retrospection: it reveals the memory of a place before it was altered, the old settlement shown as record, not claim. Binding names the source event — a displaced community returned to its border settlement and found it transformed beyond recognition — and accepts the set’s limit: mark the place as changed; do not attempt to restore a false past. Its cost is communal: the wearer feels the grief of every person who returned too late, each reading attended by the delayed homecoming, and prolonged use makes the sorrow autobiographical. The source- trace fixed doctrine: the gift shows the settlement before and after abandonment — both states in one view, the change itself the subject — and it discharged the hazard only after attribution to the Tree. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 5%  

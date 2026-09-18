@@ -16,6 +16,10 @@
 
 A crimson Han-iron Tail charm that heats when anger is deposited without provenance, review, or release duty. The Vault granted it after Haneulash returned one grievance to accountable care. Bestowal chance is 4%.
 
+## Appearance
+
+The Vault of Unspoken Spites Charm is a crimson tail-charm of Han iron that heats when anger is deposited without provenance, review, or release duty — a thermometer for irresponsible storage, cool around honest containment. The Vault granted it after a worker returned one grievance to accountable care; it cannot be manufactured. Its registered function is exactly that discrimination: in its recorded case it distinguished a worker’s request for temporary containment from an official’s attempt to discard public resentment permanently. The cost is carried in the bearer’s own temper, which shortens with the work. A Charm burning around every expression of anger is the first corrosion sign; a bearer treating all containment as abandonment is the second; and temper offered as evidence is the third. Prohibiting necessary short holding is no-container dogma; an emotional reaction replacing provenance is the heat verdict; and sending a grievance back to harmed people without support is the return fantasy. Care records who deposited, why, for how long, and who accepted release duty — the Charm cools only when responsibility is real. Emergency release stops intake, names the current custodian, and transfers no anger to an unconsenting person.
+
 ## FUNCTION & COST
 
 **Grade / Element:** γ / Grudge  

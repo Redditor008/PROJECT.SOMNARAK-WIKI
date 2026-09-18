@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Repose's lament signature in the strike.  
 **Binding rule:** the bearer names Repose's event—An Outside Sorrow settlement collapsed; its last survivor carried the ruin into a sleep that became permanent.—and accepts this limit: Do not wake it; reduce noise and acknowledge the dead
 
+## Appearance
+
+The Ruin Requiem is the weapon record of Repose’s set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names Repose’s event — an Outside Sorrow settlement collapsed, and its last survivor carried the ruin into a sleep that became permanent — and accepts the set’s limit: do not wake it; reduce noise and acknowledge the dead. The operational cost is the Lament standard: the wielder feels the entity’s unwept grief, prolonged use causes involuntary weeping, and continued use makes the sorrow feel autobiographical — the sleeper’s carried ruin settling into the wielder’s own memory of home. The source-trace fixed doctrine around the set’s central danger: disturbed, the dream shifts into a destructive collapse — the sleeping settlement falling again, this time around whoever woke it. The weapon uncouples the immediate hazard only after attribution to Repose; treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

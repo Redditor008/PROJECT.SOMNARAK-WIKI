@@ -18,6 +18,10 @@ A singing deep-blue Han-crystal blade whose fuller resembles a worn path. It for
 
 During the *Apex Without Water*, Durivel cut three rising memory supports before the Bridge lifted a patrol above the Gardens. He left the route image intact and wept with the final departure of a traveler he never knew.
 
+## Appearance
+
+This Memory Requiem is a singing blade of deep-blue Han crystal whose fuller resembles a worn path — the groove polished not by grinding but by the remembered passage of feet that no longer cross anywhere. It forms from residue after the Bridge settles, and binding requires the wielder to state their current location and admit aloud that the old route cannot be restored. In use it pierces up to three unstable lift points along the remembered route, cutting rising memory supports before the Bridge lifts people into an ascent with no far shore — and striking a path-stone damages the memory itself, removing one traveler from the historical crossing. The wielder pays in departure grief: they feel the route’s unwept sorrow and cry involuntarily, the first bearer weeping at the final departure of a traveler he never knew. A shore cut costs the route’s history a traveler; a transport line turns the crossing into current infrastructure and raises the apex higher. It rests parallel to the settled footprint for maintenance, old route and current location read as separate entries, the fuller drying with its worn marks unpolished. Shutdown lowers the point when the Bridge returns to flat memory, even if the route remains visible.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

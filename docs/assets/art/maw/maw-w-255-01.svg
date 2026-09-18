@@ -1,28 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE ARCHITECT’S MAUL">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // MAUL -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE ARCHITECT'S MAUL">
   <defs>
-    <radialGradient id="bg114efa" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw255" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1c1206"/>
+      <stop offset="100%" stop-color="#0a0703"/>
     </radialGradient>
-    <radialGradient id="gl114efa" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl255" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#78350f"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg114efa)" stroke="#c9a86a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw255)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="132" fill="url(#gl114efa)"/>
-  <g transform="rotate(11 200.0 192.0)">
-<rect x="157.0" y="156.0" width="86.0" height="72.0" rx="7" fill="#c9a86a" fill-opacity=".24" stroke="#c9a86a" stroke-width="3.5"/>
-<path d="M174.2 166.8 L225.8 166.8" stroke="#e0f2fe" stroke-width="1.3" opacity=".7"/>
-<circle cx="200.0" cy="192.0" r="8.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
-<rect x="194.0" y="228.0" width="12" height="108.0" rx="4" fill="#1f2937" stroke="#c9a86a" stroke-width="2"/>
-<circle cx="200.0" cy="346.0" r="7" fill="#c9a86a" fill-opacity=".55"/>
-  </g>
-  <g transform="rotate(-14 200.0 120.0)" opacity=".9">
-    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-W-255-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0703" stroke="#d97706" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- heavy black block head, slight tilt -->
+  <path d="M140 84 L300 72 C 312 71, 321 79, 322 91 L328 163 C 329 175, 321 184, 309 185 L149 197 C 137 198, 128 190, 127 178 L121 106 C 120 94, 128 85, 140 84 Z"
+        fill="#0f0a03" stroke="#d97706" stroke-width="3.2"/>
+  <rect x="132" y="82" width="188" height="106" rx="9" transform="rotate(-4 226 135)" fill="url(#bl255)" opacity=".13"/>
+  <!-- THE PLAN FACE: incomplete blueprint etched in the metal — walls stopping mid-line -->
+  <path d="M148 104 L216 100 M216 100 L216 132" stroke="#fbbf24" stroke-width="2.2"/>
+  <path d="M216 132 L248 130" stroke="#fbbf24" stroke-width="2.2"/>
+  <path d="M248 130 L248 112" stroke="#fbbf24" stroke-width="2" stroke-dasharray="6 5"/>
+  <path d="M148 104 L148 156 M148 156 L184 154" stroke="#fbbf24" stroke-width="2.2"/>
+  <path d="M184 154 L206 153" stroke="#a16207" stroke-width="1.8" stroke-dasharray="4 5"/>
+  <!-- the stair that reaches no landing -->
+  <path d="M258 156 L266 156 L266 148 L274 148 L274 140 L282 140 L282 132" fill="none" stroke="#fde68a" stroke-width="2"/>
+  <path d="M282 132 L290 124" stroke="#78350f" stroke-width="1.6" stroke-dasharray="2 4"/>
+  <!-- room labels: tiny blank plates (who it was meant to serve, unstated in metal) -->
+  <rect x="160" y="118" width="26" height="12" rx="1.5" fill="none" stroke="#a16207" stroke-width="1.4"/>
+  <rect x="222" y="140" width="20" height="10" rx="1.5" fill="none" stroke="#a16207" stroke-width="1.3" stroke-dasharray="3 3"/>
+  <!-- present load path: one bright line crossing the plan diagonally to the fracture point -->
+  <path d="M152 176 L296 96" stroke="#f59e0b" stroke-width="2.6"/>
+  <path d="M290 92 L302 94 L294 104" fill="none" stroke="#f59e0b" stroke-width="2"/>
+  <path d="M226 134 L232 146 M229 133 L223 145" stroke="#fb923c" stroke-width="2.2"/>
+  <!-- drafting margin ticks around the face rim -->
+  <path d="M134 92 L134 100 M170 89 L170 97 M206 87 L206 95 M242 84 L242 92 M278 82 L278 90 M312 80 L312 88" stroke="#78350f" stroke-width="1.6"/>
+  <!-- iron straps + rivets -->
+  <path d="M138 86 L144 196 M302 74 L308 184" stroke="#78716c" stroke-width="6"/>
+  <circle cx="140" cy="112" r="2.2" fill="#fde68a"/><circle cx="142" cy="166" r="2.2" fill="#fde68a"/>
+  <circle cx="304" cy="100" r="2.2" fill="#fde68a"/><circle cx="306" cy="154" r="2.2" fill="#fde68a"/>
+  <!-- eye collar + two-hand haft with restraint band -->
+  <path d="M222 194 L232 212" stroke="#78716c" stroke-width="9"/>
+  <path d="M230 210 L186 382" stroke="#100b04" stroke-width="15" stroke-linecap="round"/>
+  <path d="M228 214 L188 376" stroke="#2c1c0a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M220 240 L236 244 M214 262 L230 266 M208 284 L224 288" stroke="#f59e0b" stroke-width="2.6"/>
+  <path d="M198 324 L214 328" stroke="#fde68a" stroke-width="3"/>
+  <path d="M194 344 L208 348 M191 356 L205 360" stroke="#fbbf24" stroke-width="2.4"/>
+  <path d="M180 390 a8 8 0 1 0 .1 0" fill="#1c1206" stroke="#f59e0b" stroke-width="2.4"/>
 </svg>

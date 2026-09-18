@@ -1,37 +1,66 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE RELIC MAUL">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // MAUL -->
   <defs>
-    <radialGradient id="bgcdd2c4" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw967" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#181206"/>
+      <stop offset="100%" stop-color="#0d0a04"/>
     </radialGradient>
-    <radialGradient id="glcdd2c4" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#c9a86a" stop-opacity=".2"/>
+    <radialGradient id="gw967" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="gs967" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fde68a"/>
+      <stop offset="100%" stop-color="#92400e"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgcdd2c4)" stroke="#c9a86a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw967)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="108" fill="url(#glcdd2c4)"/>
-  <g transform="rotate(-5 200.0 192.0)">
-<rect x="153.0" y="162.0" width="94.0" height="60.0" rx="7" fill="#c9a86a" fill-opacity=".24" stroke="#c9a86a" stroke-width="3.5"/>
-<path d="M171.8 171.0 L228.2 171.0" stroke="#e0f2fe" stroke-width="1.3" opacity=".7"/>
-<circle cx="200.0" cy="192.0" r="8.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
-<rect x="194.0" y="222.0" width="12" height="115.0" rx="4" fill="#1f2937" stroke="#c9a86a" stroke-width="2"/>
-<circle cx="200.0" cy="347.0" r="7" fill="#c9a86a" fill-opacity=".55"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gw967)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- RELIC MAUL: the head is Pandora's Jar itself — a sealed vessel whose spiked stopper carries the pierce, cracks and heat of something kept shut -->
+  <!-- jar body -->
+  <path d="M156 92 C 168 84, 232 84, 244 92 C 254 100, 258 118, 256 140 C 254 168, 238 200, 200 208 C 162 200, 146 168, 144 140 C 142 118, 146 100, 156 92 Z"
+        fill="url(#gs967)" stroke="#d97706" stroke-width="3"/>
+  <!-- neck and rim -->
+  <path d="M180 92 L 180 76 C 180 70, 220 70, 220 76 L 220 92 Z" fill="#3a2507" stroke="#d97706" stroke-width="2"/>
+  <rect x="172" y="70" width="56" height="8" rx="3" fill="#291c06" stroke="#d97706" stroke-width="1.8"/>
+  <!-- spiked stopper (pierce) -->
+  <path d="M200 34 L 210 70 L 190 70 Z" fill="#3a2507" stroke="#f1df76" stroke-width="1.8"/>
+  <path d="M200 34 L 200 66" stroke="#fde68a" stroke-width="1.2" opacity=".9"/>
+  <!-- wax seals over the lid -->
+  <circle cx="186" cy="74" r="5" fill="#7f1d1d" stroke="#f1df76" stroke-width="1.2"/>
+  <circle cx="214" cy="74" r="5" fill="#7f1d1d" stroke="#f1df76" stroke-width="1.2"/>
+  <circle cx="200" cy="78" r="4.4" fill="#7f1d1d" stroke="#f1df76" stroke-width="1.1"/>
+  <!-- cracks running from the seals -->
+  <g fill="none" stroke="#0d0a04" stroke-width="1.6">
+    <path d="M186 80 L 184 96 L 190 112 M214 80 L 216 98 L 210 116 M200 84 L 200 108"/>
   </g>
-  <g transform="rotate(-3 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  <g fill="none" stroke="#f1df76" stroke-width="0.8" opacity=".6">
+    <path d="M186 80 L 184 96 L 190 112 M214 80 L 216 98 L 210 116"/>
   </g>
-  <g transform="rotate(10 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#c9a86a" opacity=".42"/>
+  <!-- jar handles -->
+  <path d="M144 136 C 132 138, 128 150, 138 158 M256 136 C 268 138, 272 150, 262 158" fill="none" stroke="#d97706" stroke-width="3"/>
+  <!-- retaliatory heat: ember glow lines rising off the vessel -->
+  <g stroke="#fbbf24" stroke-width="1.6" opacity=".8" stroke-linecap="round">
+    <path d="M168 100 L 168 88 M188 94 L 188 80 M212 94 L 212 80 M232 100 L 232 88"/>
   </g>
-  <g transform="rotate(-14 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#c9a86a" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#c9a86a" stroke-width="2" opacity=".45"/>
+  <g stroke="#fde68a" stroke-width="1" opacity=".55" stroke-linecap="round">
+    <path d="M160 112 L 160 102 M240 112 L 240 102"/>
   </g>
-  <g transform="rotate(-14 200.0 120.0)" opacity=".9">
-    <circle cx="200.0" cy="120.0" r="7.2" fill="#f1df76" opacity=".22"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#c9a86a">MAW-W-967-01</text>
+  <!-- what was lost: a deleted-record gap on the belly -->
+  <path d="M184 132 L 216 132 L 210 150 L 190 150 Z" fill="#0d0a04" stroke="#f1df76" stroke-width="1" stroke-dasharray="3 3" opacity=".8"/>
+  <path d="M188 136 L 212 146 M212 136 L 188 146" stroke="#7f1d1d" stroke-width="1.2" opacity=".9"/>
+  <!-- mounting cradle binding the jar to the haft -->
+  <path d="M156 208 C 170 220, 230 220, 244 208" fill="none" stroke="#d97706" stroke-width="3"/>
+  <path d="M168 214 L 186 224 L 200 216 L 214 224 L 232 214" fill="none" stroke="#92400e" stroke-width="3"/>
+  <circle cx="186" cy="222" r="2.4" fill="#f1df76"/><circle cx="200" cy="218" r="2.4" fill="#f1df76"/><circle cx="214" cy="222" r="2.4" fill="#f1df76"/>
+  <!-- haft -->
+  <rect x="192" y="224" width="16" height="94" rx="6" fill="#291c06" stroke="#d97706" stroke-width="2.2"/>
+  <path d="M194 240 H 206 M194 258 H 206 M194 276 H 206 M194 294 H 206" stroke="#fff7cc" stroke-width="1.2" opacity=".7"/>
+  <path d="M196 226 L 204 226 M196 312 L 204 312" stroke="#fde68a" stroke-width="1.4"/>
+  <!-- pommel: a sealed lead capsule -->
+  <path d="M184 318 L 216 318 L 218 340 L 182 340 Z" fill="#291c06" stroke="#d97706" stroke-width="2"/>
+  <circle cx="200" cy="332" r="3.6" fill="#f1df76"/>
 </svg>

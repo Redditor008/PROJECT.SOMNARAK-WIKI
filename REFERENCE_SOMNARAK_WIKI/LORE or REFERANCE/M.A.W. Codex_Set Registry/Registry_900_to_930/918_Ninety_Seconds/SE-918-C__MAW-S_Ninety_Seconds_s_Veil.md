@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.   <!-- SE-918 -->
 **Binding rule:** the bearer names Ninety Seconds's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Ninety Seconds's Veil is the suit record of the Ninety Seconds set — δ-grade, Void- aligned, resistant to Void at 0.3 while enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Void damage, protection against the mind register of sorrow a looping minute and a half keeps sharpening. Binding names Ninety Seconds's event — Not recorded, the interval preserved with its contents withheld — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is transparency: the wearer becomes difficult to remember, even to themselves, while the protection is worn, presence measured out in ninety-second lapses. The source-trace fixed doctrine: the manifestation recognizes patience, its void pressure settling gradually under sustained presence, and the Veil witnesses the hazard only after attribution to Ninety Seconds. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

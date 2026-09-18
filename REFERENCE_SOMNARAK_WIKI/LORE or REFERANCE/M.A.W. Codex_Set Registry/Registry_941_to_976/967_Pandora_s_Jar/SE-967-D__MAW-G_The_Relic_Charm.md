@@ -19,6 +19,10 @@
 **Canonical ability:** Grants a minor boon tied to Pandora's Jar's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names Pandora's Jar's event—A treasured artifact disappeared during a Desolate expedition; records of it were later removed.—and accepts this limit: Bear the heat and name what was lost
 
+## Appearance
+
+The Relic Charm is the gift record of the Pandora's Jar set — head-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability grants a minor boon tied to the Jar's sorrow, the effect mirroring the entity's nature: what was erased insisting, quietly, on being carried. Binding names the source event — a treasured artifact disappeared during a Desolate expedition, and the records of it were later removed — and accepts the set's limit: bear the heat and name what was lost. The cost is a slowing: the bearer moves a little heavier, freight added to every step. The source-trace fixed doctrine: the Charm reveals fragments of the missing relic's history, the deleted record reassembling piece by piece, and it severs the hazard only after attribution to Pandora's Jar. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 4%  

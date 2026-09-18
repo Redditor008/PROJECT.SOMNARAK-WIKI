@@ -1,35 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE RUIN REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg7f4511" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw559" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl7f4511" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl559" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg7f4511)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw559)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="115" fill="url(#gl7f4511)"/>
-  <g transform="rotate(1 200.0 192.0)">
-<path d="M181.0 192.0 L192.02 84.72 L200.0 43.0 L207.98 93.66 L219.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 43.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="190.5" y="105.6" width="19.0" height="62.6" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="171.0" y="187.0" width="58.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="38.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="246.0" r="8.0" fill="#3e8bd5" fill-opacity=".7"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- slender rapier blade, steep diagonal -->
+  <path d="M136 316 L128 308 L296 92 C 302 84, 312 82, 318 88 C 324 94, 322 104, 316 110 L146 324 Z"
+        fill="url(#bl559)" stroke="#38bdf8" stroke-width="2.4"/>
+  <path d="M134 312 L306 94" stroke="#e0f2fe" stroke-width="1.4" opacity=".9"/>
+  <path d="M142 316 L312 102" stroke="#1e3a5f" stroke-width="1.4"/>
+  <!-- THE DUST RUNNING BACKWARD: particles flowing UP the fuller toward the tip -->
+  <path d="M150 306 L300 116" stroke="#0a1626" stroke-width="3"/>
+  <circle cx="170" cy="284" r="1.4" fill="#93c5fd"/><circle cx="192" cy="256" r="1.6" fill="#7dd3fc"/>
+  <circle cx="216" cy="226" r="1.4" fill="#93c5fd"/><circle cx="240" cy="196" r="1.6" fill="#7dd3fc"/>
+  <circle cx="262" cy="168" r="1.4" fill="#bae6fd"/><circle cx="282" cy="142" r="1.6" fill="#e0f2fe"/>
+  <path d="M176 278 L182 270 M222 220 L228 212 M268 162 L274 154" stroke="#3b5f88" stroke-width="1.2"/>
+  <!-- THE EXIT ELEGY: etched floor plan on the forte — the last safe route through fallen rooms -->
+  <g transform="rotate(-52 190 262)">
+    <rect x="158" y="240" width="64" height="44" fill="none" stroke="#12233d" stroke-width="1.8"/>
+    <path d="M180 240 L180 262 M180 274 L180 284 M200 240 L200 252 M200 262 L200 284 M158 262 L172 262 M188 262 L222 262" stroke="#12233d" stroke-width="1.4"/>
+    <path d="M164 278 L176 278 L176 266 L196 266 L196 250 L216 250" fill="none" stroke="#f1df76" stroke-width="2"/>
+    <path d="M216 250 L210 246 M216 250 L212 256" stroke="#f1df76" stroke-width="1.6"/>
+    <path d="M162 246 L170 252 M206 274 L214 280" stroke="#3b5f88" stroke-width="1.3"/>
   </g>
-  <g transform="rotate(14 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(8 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <g transform="rotate(-14 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-559-01</text>
+  <!-- roof-settling sound mark: one low tremor arc far behind the tip -->
+  <path d="M330 74 C 338 70, 346 70, 352 74" fill="none" stroke="#3b5f88" stroke-width="1.6" opacity=".7"/>
+  <path d="M334 64 C 341 61, 348 61, 353 64" fill="none" stroke="#3b5f88" stroke-width="1.2" opacity=".5"/>
+  <!-- no-restoration vow: intact-room mirage crossed out near the guard -->
+  <rect x="150" y="270 " width="26" height="18" rx="2" transform="rotate(-52 163 279)" fill="none" stroke="#64748b" stroke-width="1.4" stroke-dasharray="3 3"/>
+  <path d="M150 268 L168 288" stroke="#ef4444" stroke-width="1.8" opacity=".85"/>
+  <!-- SWEPT HILT: curved sweeping bars wrapping the hand -->
+  <path d="M112 308 L152 328" stroke="#12233d" stroke-width="8" stroke-linecap="round"/>
+  <path d="M116 312 C 100 322, 96 340, 108 352 C 118 362, 134 362, 144 352" fill="none" stroke="#7dd3fc" stroke-width="2.6"/>
+  <path d="M124 316 C 114 324, 112 336, 120 344" fill="none" stroke="#3b5f88" stroke-width="1.8"/>
+  <path d="M148 330 C 156 340, 156 352, 148 360" fill="none" stroke="#7dd3fc" stroke-width="2.2"/>
+  <!-- grip + pommel -->
+  <path d="M130 342 L112 380" stroke="#12233d" stroke-width="10" stroke-linecap="round"/>
+  <path d="M128 350 L118 346 M124 362 L114 358" stroke="#60a5fa" stroke-width="2.2"/>
+  <path d="M108 388 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.2"/>
 </svg>

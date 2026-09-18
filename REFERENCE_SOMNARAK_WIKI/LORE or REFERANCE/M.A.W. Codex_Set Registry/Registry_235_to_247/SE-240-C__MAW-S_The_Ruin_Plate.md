@@ -18,6 +18,10 @@ A crimson Han-iron harness carrying the scent of dead timber and plaster dust. I
 
 Binding requires a wearer who will absorb shock without claiming the armor restores what fell. Iseulfros used it when Holdout returned around a failing vault column. The Plate took the collapse long enough for evacuation, then replayed every impact through her body after removal.
 
+## Appearance
+
+The Ruin Plate is a crimson Han-iron harness that carries the scent of dead timber and plaster dust, its plates shaped like mismatched fragments from rooms that no longer exist — no two pieces matching, because no two surviving memories of the fallen building match either. It condenses after a stable memorialization cycle, and it binds to a wearer who will absorb shock without claiming the armor restores what fell. In the field the harness absorbs one sequence of structural shock and delays it until personnel clear the footprint — a collapse held in suspension long enough for evacuation. The cost comes due afterward: the wearer experiences the stored collapse through their own body, including phantom impact from walls that vanished years ago. Grudge hardens the plates, Void bypasses the absent joints, and Weight overloads the remembered foundation. Delayed impacts releasing before evacuation ends is the listed failure, and a wearer who steps inside the footprint turns the armor into a substitute wall. It is maintained by releasing stored shock into a test frame built outside the memorial boundary, comparing each impact to corroborated collapse records. Removal is flat on the ground outside the footprint, a partner releasing the plates in reverse collapse order.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

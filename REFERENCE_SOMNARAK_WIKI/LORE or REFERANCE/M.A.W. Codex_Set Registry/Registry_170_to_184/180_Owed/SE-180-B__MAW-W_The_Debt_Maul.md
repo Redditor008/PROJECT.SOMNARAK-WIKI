@@ -26,6 +26,10 @@
 
 Formed from a black ledger echo after a Wall block was measured, contextualized, and left intact. **Binding:** custodian and route plan required. **Rejection:** A bearer who uses it to erase a block or punish a debtor is anchored to the pressure they created.
 
+## Appearance
+
+The Debt Maul is a broad black maul of Han steel whose head is cut with the flat, layered lines of a ledger wall, each layer slightly offset like bricks of recorded obligation. The haft is long, iron-banded, and cold, and the head will not rise from the ground until a custodian has identified a route beyond the pressure block it is meant to open. In use the weapon drives a Weight Pierce into a present debt barrier — never into a person — and at full activation it holds a Wall-like Weight surge open long enough for people to reach review, care, or transit. It cannot demolish debt, decide a claim, or create private passage, and a bearer who swings it for advantage finds it immovable. The bearer grows progressively heavier and ages slightly with prolonged use, and every deployment ends in a route review. The head grows heavier still when the bearer calls a person a burden, and a black line appears along the haft when a route was omitted. The custodian covers the head and confirms the route during shutdown; breaking the Maul embeds debt pressure in the floor.
+
 ## CORE STATISTICS
 
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |

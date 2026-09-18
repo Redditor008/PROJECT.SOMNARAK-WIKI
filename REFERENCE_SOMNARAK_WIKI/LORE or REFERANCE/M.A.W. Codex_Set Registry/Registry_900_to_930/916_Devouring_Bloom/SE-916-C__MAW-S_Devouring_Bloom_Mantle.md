@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Devouring Bloom's kind of pressure.  
 **Binding rule:** the bearer names Devouring Bloom's event—Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading.—and accepts this limit: Witness the memories and prevent unauthorized petal collection
 
+## Appearance
+
+The Devouring Bloom Mantle is the suit record of the Devouring Bloom set — δ-grade, Weight-aligned, resistant to Weight at 0.5 while running weak to Void at 1.5, worn at 45 Sorrow Echoes a deployment — and its canonical ability grants resistance to Weight damage, protecting the Han, sorrow reserves and karmic debt, worn against exactly the Bloom's kind of pressure. Binding names the source event — tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading — and accepts the set's limit: witness the memories and prevent unauthorized petal collection. The cost is a constant low fatigue, the memorial's mass distributed across the wearer's shift. The source-trace fixed doctrine: the Bloom tests whether the worker can bear its growing weight, and the Mantle opens the hazard only after attribution to Devouring Bloom. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

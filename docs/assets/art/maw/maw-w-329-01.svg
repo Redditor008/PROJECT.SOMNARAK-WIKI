@@ -1,35 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MELTING LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bg88e416" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw329" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="100%" stop-color="#08090c"/>
     </radialGradient>
-    <radialGradient id="gl88e416" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl329" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#475569"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg88e416)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw329)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="112" fill="url(#gl88e416)"/>
-  <g transform="rotate(9 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="56.0" ry="73.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="47.0" ry="61.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="38.0" ry="51.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M236.0 136.1 L230.2 145.3" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M251.2 162.3 L242.9 167.2" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M256.0 194.5 L247.0 194.1" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M249.4 226.3 L241.5 220.6" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M232.9 251.1 L227.6 241.4" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="132.0" y="186.0" width="136.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="265.0" width="12" height="37.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(2 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-329-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- lorgnette stem handle, diagonal -->
+  <path d="M118 358 L172 286" stroke="#1c2128" stroke-width="12" stroke-linecap="round"/>
+  <path d="M130 346 L142 354 M142 330 L154 338 M154 314 L166 322" stroke="#94a3b8" stroke-width="2.2"/>
+  <path d="M112 368 a7 7 0 1 0 .1 0" fill="#111318" stroke="#cbd5e1" stroke-width="2.4"/>
+  <path d="M168 292 C 176 282, 186 276, 196 274" fill="none" stroke="#475569" stroke-width="5"/>
+  <!-- LENS DISC: sharp rim on the honest side, MELTING rim on the false side -->
+  <path d="M196 274 C 156 246, 146 190, 174 148 C 202 106, 262 92, 306 116 C 318 124, 326 134, 330 146 C 338 158, 336 166, 326 168 C 334 180, 332 190, 320 190 C 328 202, 322 212, 308 210 C 312 222, 302 230, 290 224 C 274 252, 234 268, 196 274 Z"
+        fill="url(#bl329)" fill-opacity=".2" stroke="#e2e8f0" stroke-width="2.8"/>
+  <!-- inner true circle ghost: what the rim SHOULD be -->
+  <circle cx="244" cy="182" r="76" fill="none" stroke="#475569" stroke-width="1.2" stroke-dasharray="4 6" opacity=".7"/>
+  <!-- melt drips off the soft side -->
+  <path d="M330 176 C 332 184, 331 191, 327 196 C 323 191, 323 184, 326 178 Z" fill="#94a3b8" opacity=".8"/>
+  <path d="M312 216 C 313 223, 311 229, 307 232 C 304 227, 305 221, 308 216 Z" fill="#64748b" opacity=".8"/>
+  <path d="M298 230 C 298 236, 296 240, 293 242" fill="none" stroke="#64748b" stroke-width="1.6" opacity=".7"/>
+  <!-- INSIDE LEFT: honest ruin — hard sharp broken outline, stays crisp -->
+  <path d="M182 206 L182 172 L196 172 L196 156 L212 156 L212 142 L226 142 L226 206 Z" fill="none" stroke="#e2e8f0" stroke-width="2.4"/>
+  <path d="M186 206 L186 214 M204 206 L204 216 M220 206 L220 212" stroke="#94a3b8" stroke-width="1.6"/>
+  <path d="M190 180 L200 180 M202 164 L208 164" stroke="#64748b" stroke-width="1.3"/>
+  <!-- INSIDE RIGHT: the confident facade going soft at its borders -->
+  <path d="M244 148 C 258 142, 276 142, 290 148 L 292 200 C 278 208, 258 208, 246 202 Z" fill="none" stroke="#94a3b8" stroke-width="2.2" opacity=".85"/>
+  <path d="M250 158 C 260 154, 274 154, 284 158 M250 170 L286 170 M252 182 L284 182" stroke="#64748b" stroke-width="1.4" opacity=".7"/>
+  <path d="M290 148 C 296 152, 298 158, 296 164 M292 200 C 288 206, 282 210, 276 211" fill="none" stroke="#64748b" stroke-width="1.4" stroke-dasharray="2 3" opacity=".8"/>
+  <!-- the protected source outline: dashed footprint under the facade, never struck -->
+  <path d="M240 214 L296 214" stroke="#f1df76" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <path d="M240 214 L240 208 M296 214 L296 208" stroke="#f1df76" stroke-width="1.4"/>
+  <!-- plan / present-site separation: two tags on the frame -->
+  <rect x="160" y="120" width="26" height="14" rx="2" fill="#0b0d10" stroke="#cbd5e1" stroke-width="1.4"/>
+  <path d="M165 127 L181 127" stroke="#94a3b8" stroke-width="1.2"/>
+  <rect x="160" y="138" width="26" height="14" rx="2" fill="#0b0d10" stroke="#f1df76" stroke-width="1.4"/>
+  <path d="M165 145 L181 145" stroke="#f1df76" stroke-width="1.2"/>
+  <path d="M173 134 L173 138" stroke="#ef4444" stroke-width="2"/>
+  <!-- attrition mote -->
+  <circle cx="348" cy="128" r="2.6" fill="none" stroke="#64748b" stroke-width="1.3" stroke-dasharray="2 3" opacity=".7"/>
 </svg>

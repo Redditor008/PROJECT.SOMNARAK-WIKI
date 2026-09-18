@@ -29,6 +29,10 @@ A binder must name the present patient rather than the identity they expect the 
 | Binding cost | Repeated healing reduces people to injuries and registry identifiers |
 | Corrosion risk | High after treatment without a spoken name |
 
+## Appearance
+
+Nemo’s Blade is a long blue-black healing blade of Han crystal that lights its edge only against living tissue — tear-names travel from point to hilt while it heals, the recovered identities of the unrecognized running down the steel. It formed after a Flerehan cycle in which every revealed name was repeated exactly and no one demanded documentary proof. A binder must name the present patient rather than the identity they expect the patient to reclaim; rejection renders the user emotionally numb before first contact and makes every face appear as an unverified claimant. In use, its Returned Touch seals minor cuts, exposure burns, and shallow fractures by drawing their pain into a cold tear along the blade, while the edge still inflicts full Lament damage — healing cannot restore erased memory, age, identity records, or lost relationships. The weapon requires one unarmed emotional check between patients; a second treatment while the wielder remains numb causes the healed person’s name to vanish from immediate recall. In its recorded case a healer called an unregistered courier “Arrival 7” and his healed cuts reopened as name-shaped marks — until she waited for grief to return, asked his name, and “Dohyun Baram” cooled all four.
+
 ## FUNCTION
 
 **Returned Touch:** the flat seals minor cuts, exposure burns, and shallow fractures by drawing their pain into a cold tear along the blade. The edge still inflicts canonical Lament damage. Healing cannot restore erased memory, age, identity records, or lost relationships.

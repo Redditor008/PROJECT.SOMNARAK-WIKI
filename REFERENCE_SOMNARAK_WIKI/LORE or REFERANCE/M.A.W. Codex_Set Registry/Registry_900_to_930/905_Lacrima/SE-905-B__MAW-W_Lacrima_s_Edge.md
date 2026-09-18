@@ -19,6 +19,10 @@
 **Canonical ability:** Channels void spirit sorrow in each strike — the weapon does not cut flesh so much as cut at the spirit register of the target's grief.  
 **Binding rule:** the bearer names Lacrima's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Lacrima's Edge is the weapon record of the Lacrima set — α-grade, Void-aligned, striking at 8–16 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels void spirit sorrow: the blade does not cut flesh so much as the spirit register of the target's grief, the salt line a soul leaves when it evaporates. Binding names Lacrima's event — Not recorded, one tear preserved with no face to fall from, its Gauge among the highest of the 900-series sets — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a persistent low-grade headache with each use, the kind that precedes weeping and never resolves into it. The source-trace fixed doctrine: the object gave no transcribable field response, and the Edge stays the hazard only after attribution to Lacrima. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

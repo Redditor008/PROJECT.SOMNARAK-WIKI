@@ -1,39 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE COLD LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // PALE LENS -->
   <defs>
-    <radialGradient id="bgb81049" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw103" cx="42%" cy="52%" r="64%">
+      <stop offset="0%" stop-color="#161a20"/>
+      <stop offset="100%" stop-color="#07090c"/>
     </radialGradient>
-    <radialGradient id="glb81049" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    <radialGradient id="dk103" cx="46%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#cbd5e1"/>
+      <stop offset="100%" stop-color="#475569"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgb81049)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw103)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="122" fill="url(#glb81049)"/>
-  <g transform="rotate(4 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="61.0" ry="64.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="52.0" ry="52.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="43.0" ry="42.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M239.2 143.0 L233.4 152.2" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M255.7 166.0 L247.5 170.8" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M261.0 194.2 L252.0 193.8" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="127.0" y="186.0" width="146.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="256.0" width="12" height="35.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 172.0 252.0)">    <circle cx="176.0" cy="226.0" r="4.0" fill="#e0f2fe" opacity=".3"/>
-  </g>
-  <g transform="rotate(-16 172.0 252.0)">    <circle cx="200.0" cy="238.0" r="5.0" fill="#e0f2fe" opacity=".3"/>
-  </g>
-  <g transform="rotate(-16 172.0 252.0)">    <circle cx="224.0" cy="250.0" r="6.0" fill="#e0f2fe" opacity=".3"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(2 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-103-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#07090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- the emotional interference being frozen: a tangled scribble, right, caught mid-freeze -->
+  <path d="M312 128 C 330 116, 344 124, 340 140 C 354 138, 362 152, 352 162 C 366 166, 366 182, 352 186 C 360 198, 350 210, 336 204"
+        fill="none" stroke="#64748b" stroke-width="2.4" opacity=".8"/>
+  <!-- frost overtaking the tangle -->
+  <path d="M322 132 L330 140 M326 126 L322 136 M344 156 L352 148 M348 160 L356 164 M340 192 L348 198 M344 186 L352 182" stroke="#e2e8f0" stroke-width="1.6" opacity=".9"/>
+  <!-- THE VOID PIERCE: a winter line from lens to tangle, crystallizing as it goes -->
+  <path d="M196 208 L318 160" stroke="#f8fafc" stroke-width="2.6"/>
+  <path d="M226 196 L232 184 M226 196 L236 204 M262 182 L268 170 M262 182 L272 190 M296 169 L302 158 M296 169 L306 177" stroke="#e2e8f0" stroke-width="1.4" opacity=".85"/>
+  <!-- THE COLD LENS: almost-white disc, winter-bright rim, 3/4 tilt lower-left -->
+  <ellipse cx="152" cy="232" rx="66" ry="72" fill="url(#dk103)" fill-opacity=".96" stroke="#f8fafc" stroke-width="3.4" transform="rotate(-16 152 232)"/>
+  <!-- the bright winter line edging the rim -->
+  <ellipse cx="152" cy="232" rx="58" ry="64" fill="none" stroke="#bfdbfe" stroke-width="2" opacity=".9" transform="rotate(-16 152 232)"/>
+  <ellipse cx="152" cy="232" rx="38" ry="43" fill="none" stroke="#94a3b8" stroke-width="1.4" opacity=".6" transform="rotate(-16 152 232)"/>
+  <!-- cold-in-any-room: breath fog curling off the glass -->
+  <path d="M96 180 C 88 172, 88 162, 96 156 C 90 150, 92 142, 100 140" fill="none" stroke="#cbd5e1" stroke-width="1.4" opacity=".6"/>
+  <path d="M116 164 C 110 158, 110 150, 116 146" fill="none" stroke="#cbd5e1" stroke-width="1.1" opacity=".45"/>
+  <!-- frost stars on the glass -->
+  <path d="M140 214 L164 250 M164 214 L140 250 M132 232 L172 232 M152 208 L152 256" stroke="#f8fafc" stroke-width="1" opacity=".55"/>
+  <!-- thin dark frame + short handle -->
+  <path d="M182 296 L206 338 L188 350 L162 306 Z" fill="#111318" stroke="#94a3b8" stroke-width="2.4"/>
+  <path d="M176 314 L192 324" stroke="#94a3b8" stroke-width="1.5" opacity=".8"/>
+  <circle cx="200" cy="352" r="7" fill="#111318" stroke="#f1df76" stroke-width="2"/>
 </svg>

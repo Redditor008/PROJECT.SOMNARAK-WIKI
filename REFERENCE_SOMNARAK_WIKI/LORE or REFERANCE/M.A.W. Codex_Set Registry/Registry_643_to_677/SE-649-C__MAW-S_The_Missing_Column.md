@@ -14,6 +14,10 @@
 
 A columnar plate of pale Han-glass with a deliberately hollow base. It binds only above surveyed current ground.
 
+## Appearance
+
+The Missing Column is a columnar plate of pale Han glass with a deliberately hollow base — support refusing a foundation on principle, since the ground it guards against never existed. It binds only above surveyed current ground; the survey is a binding condition. In the field, its Present Foundation resists spatial and emotional absence while the wearer keeps possibility distinct from memory — and the cost is unfiltered: the wearer feels every future that did not occur, the unbuilt pressing on them while they are protected from it. In its recorded case a wearer stepped onto a projected house floor — the Column extended downward, found no history, and began sinking through her legs, the armor becoming the missing foundation from her body. Retreating to surveyed dust and naming the house “unbuilt” restored its hollow base. Corrosion runs from treating imagined structures as load-bearing, through glass descending below the knees, to a terminal state that makes the body a foundation for the unborn settlement. It is maintained by measuring the hollow base above current terrain and never filling it with recovered soil; emergency shutdown sets three survey markers to define present ground while the wearer steps backward without looking down.
+
 **Grade / Element:** γ / Void
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

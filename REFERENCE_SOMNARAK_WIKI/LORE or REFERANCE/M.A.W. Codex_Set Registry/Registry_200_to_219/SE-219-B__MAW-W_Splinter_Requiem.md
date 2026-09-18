@@ -21,6 +21,10 @@ The blade forms from a dry residue line after a complete O-Relic channel. It bin
 
 **Current bearer:** Agent Durivel Cho, limited vault response. During the *Rain in a Sealed Corridor* incident, he cut three memory-bearing runoff strands away from evacuation personnel, then stopped when his tears began showing a childhood room he did not recognize.
 
+## Appearance
+
+Splinter Requiem is a slender deep-blue Han-crystal blade with a wet, luminous edge — authentic droplets run from point to hilt and vanish before they reach the hand. The blade sings when drawn, and the pitch is exact: it is the pitch of the last memory allowed to evaporate beside Splinter. It forms from a dry residue line after a complete O-Relic channel, and it binds only to a wielder who can name a grief they have postponed without claiming it is resolved; a bearer who calls suppression “recovery” finds the grip filling with warm water. In action a thrust carries one released grief along the wet edge and through up to three targets, cutting at emotional stability rather than flesh — though if the channel is held too long the blade can no longer distinguish the wielder’s tears from Splinter’s. The bearer weeps involuntarily during use, and later tears may carry memories that belong to the shard rather than to them. It is maintained point-down over a shallow witness basin outside Splinter’s drip line, and cleared only when its song ends. For shutdown it is sheathed wet, laid horizontal so runoff can exit both ends.
+
 ## STATISTICS & FUNCTION
 
 | Field | Record |

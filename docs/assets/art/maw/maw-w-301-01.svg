@@ -1,32 +1,56 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="FEU FOLLET REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bgb3e639" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw301" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="glb3e639" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl301" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgb3e639)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw301)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="111" fill="url(#glb3e639)"/>
-  <g transform="rotate(9 200.0 192.0)">
-<path d="M180.0 192.0 L191.6 73.2 L200.0 27.0 L208.4 83.1 L220.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 27.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="190.0" y="96.3" width="20.0" height="69.3" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="170.0" y="187.0" width="60.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="36.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="244.0" r="5.0" fill="#3e8bd5" fill-opacity=".7"/>
-  </g>
-  <g transform="rotate(-2 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(10 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-301-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- hoop handle -->
+  <path d="M162 96 C 162 62, 238 62, 238 96" fill="none" stroke="#1e3a5f" stroke-width="7"/>
+  <path d="M166 96 C 166 68, 234 68, 234 96" fill="none" stroke="#7dd3fc" stroke-width="1.6"/>
+  <!-- tent roof with vent holes -->
+  <path d="M148 132 L200 92 L252 132 Z" fill="#0a1626" stroke="#38bdf8" stroke-width="2.6"/>
+  <circle cx="188" cy="118" r="2.4" fill="none" stroke="#3b5f88" stroke-width="1.3"/>
+  <circle cx="212" cy="118" r="2.4" fill="none" stroke="#3b5f88" stroke-width="1.3"/>
+  <path d="M196 100 L204 100" stroke="#3b5f88" stroke-width="1.6"/>
+  <!-- four-rib lantern body, glass panes -->
+  <rect x="146" y="132" width="108" height="132" rx="8" fill="url(#bl301)" fill-opacity=".16" stroke="#38bdf8" stroke-width="2.8"/>
+  <path d="M146 148 L254 148 M146 248 L254 248" stroke="#1e3a5f" stroke-width="3"/>
+  <path d="M172 148 L172 248 M228 148 L228 248" stroke="#1e3a5f" stroke-width="2.2"/>
+  <path d="M152 156 L166 170 M152 170 L160 178" stroke="#7dd3fc" stroke-width="1.2" opacity=".5"/>
+  <!-- THE FEU FOLLET: one flame, two temperatures never at the same moment -->
+  <path d="M200 240 C 186 226, 182 208, 190 192 C 193 200, 197 205, 200 207 L200 240 Z" fill="#7dd3fc"/>
+  <path d="M200 240 C 214 226, 218 208, 210 192 C 207 200, 203 205, 200 207 L200 240 Z" fill="#fb923c"/>
+  <path d="M200 207 L200 240" stroke="#0a1626" stroke-width="1.6"/>
+  <path d="M190 192 C 192 184, 196 178, 200 174 C 204 178, 208 184, 210 192" fill="none" stroke="#e0f2fe" stroke-width="1.6" opacity=".8"/>
+  <!-- cold side: liquid-light drips; warm side: remembered-campfire sparks -->
+  <path d="M184 232 C 182 237, 182 241, 184 244" fill="none" stroke="#7dd3fc" stroke-width="1.4"/>
+  <circle cx="219" cy="222" r="1.6" fill="#fdba74"/><circle cx="223" cy="212" r="1.3" fill="#fb923c"/>
+  <!-- the cut bond: severed line between flame and a small memory-fire etched on the pane -->
+  <path d="M216 176 C 224 170, 232 166, 240 164" fill="none" stroke="#93c5fd" stroke-width="1.4" stroke-dasharray="3 4"/>
+  <path d="M228 164 L236 174" stroke="#f1df76" stroke-width="2.2"/>
+  <path d="M240 158 C 238 162, 239 166, 242 168 C 245 166, 246 162, 244 158 C 243 160, 241 160, 240 158 Z" fill="none" stroke="#fb923c" stroke-width="1.4"/>
+  <!-- wick cup + present-warmth anchor band -->
+  <path d="M192 244 L208 244 L206 252 L194 252 Z" fill="#12233d" stroke="#60a5fa" stroke-width="1.6"/>
+  <rect x="146" y="252" width="108" height="12" fill="#0a1626" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M154 258 L170 258" stroke="#f1df76" stroke-width="2.2"/>
+  <!-- base + carry stem with imperfection notch -->
+  <path d="M160 264 L240 264 L232 284 L168 284 Z" fill="#0a1626" stroke="#38bdf8" stroke-width="2.4"/>
+  <path d="M200 284 L200 344" stroke="#12233d" stroke-width="11"/>
+  <path d="M193 300 L207 300 M193 314 L207 314" stroke="#60a5fa" stroke-width="2.2"/>
+  <path d="M196 328 L204 332" stroke="#f1df76" stroke-width="2"/>
+  <path d="M200 352 a7 7 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.4"/>
+  <!-- wisp lights straying off (feu follet) -->
+  <circle cx="278" cy="180" r="3" fill="none" stroke="#7dd3fc" stroke-width="1.4" opacity=".8"/>
+  <circle cx="296" cy="156" r="2.2" fill="none" stroke="#7dd3fc" stroke-width="1.2" opacity=".6"/>
+  <path d="M282 176 C 288 168, 292 162, 294 158" fill="none" stroke="#3b5f88" stroke-width="1.1" stroke-dasharray="1 4" opacity=".7"/>
 </svg>

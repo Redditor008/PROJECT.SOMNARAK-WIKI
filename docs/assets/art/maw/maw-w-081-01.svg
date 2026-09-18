@@ -1,35 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE HOLLOW LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bg5ac0ec" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw081" cx="50%" cy="40%" r="62%">
+      <stop offset="0%" stop-color="#1b1d24"/>
+      <stop offset="100%" stop-color="#0a0b0e"/>
     </radialGradient>
-    <radialGradient id="gl5ac0ec" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    <radialGradient id="dk081" cx="46%" cy="42%" r="68%">
+      <stop offset="0%" stop-color="#fafafa"/>
+      <stop offset="55%" stop-color="#c6cad1"/>
+      <stop offset="100%" stop-color="#6b7280"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg5ac0ec)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw081)" stroke="#a8b0bc" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="125" fill="url(#gl5ac0ec)"/>
-  <g transform="rotate(-9 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="56.0" ry="65.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="47.0" ry="53.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="38.0" ry="43.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M236.0 142.2 L230.2 151.4" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M251.2 165.6 L242.9 170.4" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M256.0 194.3 L247.0 193.8" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M249.4 222.5 L241.5 216.9" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M232.9 244.6 L227.6 234.9" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="132.0" y="186.0" width="136.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="257.0" width="12" height="34.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(1 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-081-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0a0b0e" stroke="#a8b0bc" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#a8b0bc" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- the white-lined case, open on the floor -->
+  <path d="M96 296 L232 296 L218 344 L110 344 Z" fill="#111318" stroke="#8a8f98" stroke-width="2.6"/>
+  <path d="M108 304 L220 304 L210 336 L118 336 Z" fill="none" stroke="#f4f4f5" stroke-width="2" opacity=".85"/>
+  <ellipse cx="164" cy="320" rx="38" ry="10" fill="none" stroke="#f4f4f5" stroke-width="1.2" opacity=".5"/>
+  <!-- open lid leaning behind -->
+  <path d="M232 296 L286 236 L268 228 L218 288 Z" fill="#111318" stroke="#8a8f98" stroke-width="2.2"/>
+  <path d="M262 244 L274 250" stroke="#f4f4f5" stroke-width="1.4" opacity=".6"/>
+  <!-- THE HOLLOW LENS: just lifted, floating above the case, tilted -->
+  <ellipse cx="180" cy="150" rx="72" ry="62" fill="url(#dk081)" fill-opacity=".95" stroke="#e5e7eb" stroke-width="3" transform="rotate(-14 180 150)"/>
+  <ellipse cx="180" cy="150" rx="54" ry="46" fill="none" stroke="#9ca3af" stroke-width="1.6" opacity=".7" transform="rotate(-14 180 150)"/>
+  <path d="M132 108 C 146 94, 168 86, 190 88" fill="none" stroke="#fafafa" stroke-width="2.4" opacity=".85"/>
+  <!-- warmed only after the baseline: faint warm core -->
+  <circle cx="186" cy="154" r="9" fill="#fbbf24" fill-opacity=".2"/>
+  <!-- THE DIRECTIONAL SEAM: a hairline showing where the pierce will go -->
+  <path d="M212 122 L342 66" stroke="#f4f4f5" stroke-width="1.4" stroke-dasharray="12 5" opacity=".9"/>
+  <path d="M336 60 L350 62 L342 74" fill="none" stroke="#f4f4f5" stroke-width="1.6"/>
+  <!-- the pale piercing line itself, releasing -->
+  <path d="M216 130 L326 82" stroke="#fafafa" stroke-width="2.6" opacity=".95"/>
+  <!-- the pull on identity, interrupted: a hook line bending back -->
+  <path d="M330 96 C 348 108, 356 126, 352 146 C 348 160, 338 168, 326 170" fill="none" stroke="#4b5563" stroke-width="2.2" stroke-dasharray="6 5" opacity=".7"/>
+  <path d="M326 170 L334 160 M326 170 L338 174" stroke="#4b5563" stroke-width="1.8" opacity=".7"/>
+  <!-- lifting hand-grip under the lens -->
+  <path d="M148 202 L128 240 L146 250 L166 214 Z" fill="#16181d" stroke="#a8b0bc" stroke-width="2.4"/>
+  <path d="M138 224 L152 232" stroke="#a8b0bc" stroke-width="1.4" opacity=".8"/>
+  <circle cx="128" cy="258" r="7" fill="#16181d" stroke="#f1df76" stroke-width="2"/>
 </svg>

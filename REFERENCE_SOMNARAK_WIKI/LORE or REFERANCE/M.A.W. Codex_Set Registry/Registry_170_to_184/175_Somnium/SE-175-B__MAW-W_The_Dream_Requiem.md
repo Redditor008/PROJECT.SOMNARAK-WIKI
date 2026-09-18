@@ -31,6 +31,10 @@ Extracted after Somnium released one dream thread when a worker woke on cue and 
 
 **Binding:** A bearer needs a waking anchor and may not use the blade to decide another person’s future. **Rejection:** Calling a mirrored desire “what must happen” turns the path inward and ends activation.
 
+## Appearance
+
+The Dream Requiem is a blue blade of Han crystal threaded with shifting light, the strands moving under the surface like a path traced through a sleeping room. In rest the thread-light wanders without direction and the blade stays silent; it only hums after the bearer states the waking cue and the dreamer’s consent boundary aloud. Drawn, the threads align into a single luminous line down the flat, and a Lament Pierce along that line can separate a person from a maze built out of their own hidden desire without declaring the dream false. The grip is wrapped in pale blue cord and the guard is a thin oval that frames the thread-light like a doorway. The bearer carries unwept dream grief after every use and requires a waking orientation check when a full Pierce line has been run. The blade is never drawn without a waking anchor, and calling a mirrored desire “what must happen” turns the path inward and ends activation. The anchor covers the thread line, gives the cue, and cases the blade during shutdown.
+
 ## CORE STATISTICS
 
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |

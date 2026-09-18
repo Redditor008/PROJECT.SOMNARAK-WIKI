@@ -19,6 +19,10 @@
 **Canonical ability:** Heals minor wounds through warm, sorrowful light.  
 **Binding rule:** the bearer names Drowned Roots's event—A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter.—and accepts this limit: Speak the soldier's duty without forcing a false name
 
+## Appearance
+
+The Drowned Roots Lantern is the gift record of the Drowned Roots set — tail-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability heals minor wounds through warm, sorrowful light, the erased soldier still keeping watch over the living. Binding names the source event — a soldier's name was erased from the war record, and the forgotten duty grew into a tree-shaped specter — and accepts the set's limit: speak the soldier's duty without forcing a false name. The cost is contagious erasure: the wearer becomes difficult for others to remember, borrowing the soldier's condition with the soldier's gift. The source-trace fixed doctrine: the Lantern revealed the soldier's erased history, service recovered even where the name could not be, and it opens the hazard only after attribution to Drowned Roots. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  

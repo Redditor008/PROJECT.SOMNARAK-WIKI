@@ -1,28 +1,53 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FAMILIAR MAUL">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // MAUL -->
   <defs>
-    <radialGradient id="bgf24f9f" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw558" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#181206"/>
+      <stop offset="100%" stop-color="#0d0a04"/>
     </radialGradient>
-    <radialGradient id="glf24f9f" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl558" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#92400e"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bgf24f9f)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw558)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="134" fill="url(#glf24f9f)"/>
-  <g transform="rotate(-6 200.0 192.0)">
-<rect x="162.0" y="161.0" width="76.0" height="62.0" rx="7" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3.5"/>
-<path d="M177.2 170.3 L222.8 170.3" stroke="#e0f2fe" stroke-width="1.3" opacity=".7"/>
-<circle cx="200.0" cy="192.0" r="9.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".7"/>
-<rect x="194.0" y="223.0" width="12" height="113.0" rx="4" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="346.0" r="7" fill="#3e8bd5" fill-opacity=".55"/>
-  </g>
-  <g transform="rotate(6 250.0 320.0)" opacity=".9">
-    <path d="M250.0 313.5 L250.0 326.5" stroke="#3e8bd5" stroke-width="1.5" opacity=".5"/><path d="M242.0 316.0 Q250.0 313.0 258.0 316.0" fill="none" stroke="#3e8bd5" stroke-width="2" opacity=".45"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-558-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- ROUND HEAD FACE-ON: massive disc like a tree cross-section -->
+  <circle cx="200" cy="160" r="104" fill="url(#bl558)" stroke="#d97706" stroke-width="3"/>
+  <circle cx="200" cy="160" r="104" fill="none" stroke="#0d0a04" stroke-width="1.4"/>
+  <!-- FAMILY-TREE RING GRAIN circling the head -->
+  <circle cx="200" cy="160" r="88" fill="none" stroke="#78350f" stroke-width="1.8"/>
+  <circle cx="200" cy="160" r="70" fill="none" stroke="#78350f" stroke-width="1.6"/>
+  <circle cx="200" cy="160" r="52" fill="none" stroke="#92400e" stroke-width="1.6"/>
+  <circle cx="200" cy="160" r="34" fill="none" stroke="#92400e" stroke-width="1.4"/>
+  <circle cx="200" cy="160" r="18" fill="none" stroke="#b45309" stroke-width="1.4"/>
+  <circle cx="200" cy="160" r="5" fill="#451a03"/>
+  <!-- generation knots on the rings -->
+  <circle cx="200" cy="90" r="3" fill="#451a03"/><circle cx="148" cy="120" r="3" fill="#451a03"/>
+  <circle cx="256" cy="132" r="3" fill="#451a03"/><circle cx="164" cy="212" r="3" fill="#451a03"/>
+  <circle cx="244" cy="204" r="3" fill="#451a03"/>
+  <!-- branch lines radiating between rings: the tree, not a ledger -->
+  <path d="M200 155 L200 108 M200 142 C 188 134, 176 128, 162 126 M200 128 C 214 120, 230 116, 246 116 M200 178 C 188 188, 176 196, 166 200 M200 194 C 212 200, 224 206, 236 210" fill="none" stroke="#92400e" stroke-width="1.8"/>
+  <!-- ONE BRANCH GLOWING: the believed obligation, lit -->
+  <path d="M200 142 C 216 130, 234 122, 254 120 C 262 119, 270 120, 276 124" fill="none" stroke="#fde68a" stroke-width="3"/>
+  <path d="M200 142 C 216 130, 234 122, 254 120 C 262 119, 270 120, 276 124" fill="none" stroke="#fde68a" stroke-width="8" opacity=".18"/>
+  <path d="M270 116 L280 122 L272 130" fill="none" stroke="#fde68a" stroke-width="1.8"/>
+  <!-- chosen vs inherited: two duty tags at the rim — one tied by hand, one grown-in -->
+  <rect x="106" y="176" width="30" height="15" rx="2" fill="#0d0a04" stroke="#4ade80" stroke-width="1.6"/>
+  <path d="M111 184 L131 184" stroke="#4ade80" stroke-width="1.2"/>
+  <path d="M136 183 C 142 181, 148 180, 154 181" fill="none" stroke="#4ade80" stroke-width="1.3"/>
+  <rect x="262" y="192" width="30" height="15" rx="2" fill="#0d0a04" stroke="#78716c" stroke-width="1.6"/>
+  <path d="M267 200 L287 200" stroke="#78716c" stroke-width="1.2"/>
+  <path d="M262 199 C 254 198, 248 196, 244 192" fill="none" stroke="#78716c" stroke-width="1.3" stroke-dasharray="3 3"/>
+  <!-- too-heavy: scale disagreement mark -->
+  <path d="M300 74 L324 74 M312 74 L312 62 M304 80 C 304 86, 308 90, 312 90 C 316 90, 320 86, 320 80" fill="none" stroke="#fbbf24" stroke-width="1.8"/>
+  <path d="M306 70 L318 78" stroke="#ef4444" stroke-width="1.8"/>
+  <!-- haft with the two palm-root marks (binding roots into both palms if undistinguished) -->
+  <path d="M200 264 L200 380" stroke="#0d0a04" stroke-width="15" stroke-linecap="round"/>
+  <path d="M200 264 L200 380" stroke="#92400e" stroke-width="10" stroke-linecap="round"/>
+  <path d="M192 292 L208 292 M192 316 L208 316" stroke="#fbbf24" stroke-width="2.6"/>
+  <path d="M192 340 C 188 344, 186 350, 188 356 M208 340 C 212 344, 214 350, 212 356" fill="none" stroke="#b45309" stroke-width="2"/>
+  <path d="M200 388 a7 7 0 1 0 .1 0" fill="#181206" stroke="#fbbf24" stroke-width="2.4"/>
 </svg>

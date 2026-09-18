@@ -27,6 +27,10 @@ A warm Tail charm of blue Han-crystal containing a single open hand. The source 
 | Binding cost | Familiar memories feel emotionally colder beside borrowed ones |
 | Corrosion risk | Moderate; high after false first-person testimony |
 
+## Appearance
+
+The Thousand Hands Charm is a warm tail-charm of blue Han crystal containing a single open hand — and the hand closes whenever the bearer speaks a borrowed memory in first person, a small fist forming around the exact moment testimony becomes impersonation. The source grants it at random after successful work; it cannot be manufactured. Its function is the Not-Mine Mark: a clear bodily sensation when an active memory originated from another owner — it does not suppress the feeling, and it does not declare the account false; the borrowed grief stays real, stays felt, and stays borrowed. The hidden condition guards the other flank: a bearer who uses the sensation to dismiss another person’s grief as irrelevant turns the open hand into a permanent fist, and the Gift then blocks empathy rather than possession and must be removed. In its recorded case a bearer’s report began “I left my daughter in the water” — the hand closed, they stopped, reopened the record, and wrote two sentences: one witnessed, one lived. The Charm warmed but did not choose which grief mattered more. Its hand now closes before the bearer’s voice changes, the earliest verified attribution warning on record.
+
 ## EFFECT & HIDDEN CONDITION
 
 **Not-Mine Mark:** provides a clear bodily sensation when an active memory originated from another owner. It does not suppress the feeling or declare the account false.

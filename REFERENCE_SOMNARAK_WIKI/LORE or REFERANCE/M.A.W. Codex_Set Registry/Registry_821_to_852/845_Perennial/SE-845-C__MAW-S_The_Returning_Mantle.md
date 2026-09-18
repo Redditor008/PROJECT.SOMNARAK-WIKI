@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Perennial's kind of pressure.  
 **Binding rule:** the bearer names Perennial's event—A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground.—and accepts this limit: Acknowledge the place's history and do not claim it as unchanged
 
+## Appearance
+
+The Returning Mantle is the suit record of Perennial’s set, granting resistance to Weight damage and protecting the Han — sorrow reserves, karmic debt — against the pressure of ground layered with repeated abandonment. Binding is testimonial: the wearer names Perennial’s event — a settlement was founded, abandoned, rebuilt, and abandoned again, each return leaving another layer of grief in the ground — and accepts the set’s limit: acknowledge the place’s history and do not claim it as unchanged. The operational cost is a constant low fatigue — the Mantle spreading the strata’s weight thin — and continued use makes the sorrow feel autobiographical, the settlement’s cycles rehearsed in the wearer’s own returns. The source-trace set the doctrine: the suit tests whether the worker can stand beneath karmic weight — upright under the accumulated debt of every founding and every leaving — and it contained the immediate hazard only after attribution to Perennial. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

@@ -18,6 +18,10 @@ A near-colorless Han-gossamer veil with one opaque seam over the heart. It conde
 
 Binding requires a pre-contact identity statement and external reviewer. Iseulfros wore it during a sealed-memory exposure; the Veil resisted the Void but made her experience herself as merely the container selected to know.
 
+## Appearance
+
+The Secret Veil is a near-colorless suit of Han gossamer with a single opaque seam sewn over the heart — one place the fabric refuses to be transparent, holding the whisper where it cannot spread. It condenses after a Lock whisper closes cleanly, and it binds through a pre-contact identity statement and an external reviewer. Worn during sealed-memory exposure, it keeps one whisper from replacing identity or expanding into unapproved memory access — the first wearer resisted the Void but experienced herself as merely the container selected to know. That is the cost: the wearer feels faintly absent and may begin valuing the secret above the self carrying it. A wearer defining themselves by exclusive access has taken on the secret identity; all speech feeling like breach is disclosure panic; and a person becoming another lock is Void custody. It is maintained by the external reviewer repeating the pre-contact identity statement along with one fact unrelated to the secret, while the opaque seam remains closed without hardening. Removal is the reviewer’s act alone — the collar opens only after the wearer gives a present-tense response unrelated to vault content.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

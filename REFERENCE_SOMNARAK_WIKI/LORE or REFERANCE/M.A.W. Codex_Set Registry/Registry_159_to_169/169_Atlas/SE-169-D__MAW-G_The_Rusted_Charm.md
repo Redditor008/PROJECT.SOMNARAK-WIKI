@@ -39,6 +39,10 @@
 
 **Rejection rule:** If used to criticize a worker without offering relief, the Charm makes the bearer feel slow and responsible for every overload it detects.
 
+## Appearance
+
+The Rusted Charm is a small black charm with a single rust patch that spreads toward the most overburdened nearby support. It stays still if the bearer has not agreed to seek relief rather than merely identify the overload. In active use the rust patch forms an arrow to one person, structure, or task carrying more than its design can safely hold. At full activation, the Charm reveals the first viable rotation, repair, or support contact that can reduce the load. Every reading must produce a relief or repair question, not merely a report that someone is overburdened. It carries no Echo cost, but awareness of support burden slows the bearer. The Charm is stored beside completed rotation records, not failure notices. If used to criticize a worker without offering relief, the Charm makes the bearer feel slow and responsible for every overload it detects. The authority covers the rust patch, names the relief action, and removes the Charm during shutdown.
+
 ## GIFT STATISTICS
 
 | Field | Record |

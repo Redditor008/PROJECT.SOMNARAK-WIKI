@@ -1,26 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SHADOW REQUIEM">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
   <defs>
-    <radialGradient id="bg353676" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw453" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gl353676" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl453" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg353676)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw453)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="109" fill="url(#gl353676)"/>
-  <g transform="rotate(3 200.0 192.0)">
-<path d="M181.0 192.0 L192.02 86.88000000000001 L200.0 46.0 L207.98 95.64 L219.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 46.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="190.5" y="107.3" width="19.0" height="61.3" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="171.0" y="187.0" width="58.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="45.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="253.0" r="6.0" fill="#3e8bd5" fill-opacity=".7"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- THE LAGGING SHADOW: full silhouette offset back-left, one step behind the true blade -->
+  <g opacity=".55">
+    <path d="M112 342 L104 332 C 134 310, 160 282, 180 248 C 196 220, 212 194, 234 174 L 250 188 C 230 210, 214 236, 200 266 C 182 300, 150 326, 124 346 Z" fill="#1e3a5f"/>
+    <path d="M90 344 L134 362" stroke="#1e3a5f" stroke-width="8" stroke-linecap="round"/>
+    <path d="M112 364 L94 398" stroke="#1e3a5f" stroke-width="9" stroke-linecap="round"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-453-01</text>
+  <!-- step-lag gap marks between shadow and blade -->
+  <path d="M196 240 L210 230 M180 268 L194 258 M162 292 L176 282" stroke="#3b5f88" stroke-width="1.3" stroke-dasharray="2 4" opacity=".7"/>
+  <!-- THE TRUE BLADE: crisp, a step ahead up-right -->
+  <path d="M148 322 L140 312 C 170 290, 196 262, 216 228 C 232 200, 248 174, 270 154 L 286 168 C 266 190, 250 216, 236 246 C 218 280, 186 306, 160 326 Z"
+        fill="url(#bl453)" stroke="#38bdf8" stroke-width="2.6"/>
+  <path d="M146 314 C 176 292, 202 264, 222 232 C 238 204, 254 180, 274 160" fill="none" stroke="#1e3a5f" stroke-width="2"/>
+  <path d="M158 322 C 188 300, 214 272, 234 240 C 250 212, 264 190, 282 172" fill="none" stroke="#e0f2fe" stroke-width="1.6"/>
+  <!-- THE WALKED RECORD etched on the flat: footprint path written down -->
+  <path d="M168 296 C 188 280, 206 260, 220 238" fill="none" stroke="#f1df76" stroke-width="1.4"/>
+  <ellipse cx="176" cy="290" rx="3" ry="1.8" transform="rotate(-38 176 290)" fill="#f1df76" opacity=".9"/>
+  <ellipse cx="192" cy="272" rx="3" ry="1.8" transform="rotate(-42 192 272)" fill="#f1df76" opacity=".75"/>
+  <ellipse cx="206" cy="254" rx="3" ry="1.8" transform="rotate(-46 206 254)" fill="#f1df76" opacity=".6"/>
+  <!-- the severed erasure mark eating the last footprint, cut -->
+  <path d="M222 232 C 232 224, 242 220, 252 220" fill="none" stroke="#64748b" stroke-width="2" stroke-dasharray="3 3"/>
+  <path d="M236 214 L244 228" stroke="#f1df76" stroke-width="2.4"/>
+  <!-- NO NAME plate: blank tag, honestly empty -->
+  <rect x="246" y="236" width="26" height="13" rx="2" transform="rotate(20 259 242)" fill="#050a14" stroke="#7dd3fc" stroke-width="1.4"/>
+  <!-- guard + grip crisp -->
+  <path d="M124 326 L170 344" stroke="#12233d" stroke-width="9" stroke-linecap="round"/>
+  <path d="M148 346 L128 384" stroke="#12233d" stroke-width="11" stroke-linecap="round"/>
+  <path d="M146 354 L136 350 M142 366 L132 362 M138 378 L128 374" stroke="#60a5fa" stroke-width="2.4"/>
+  <path d="M124 392 a6 6 0 1 0 .1 0" fill="#0a1626" stroke="#7dd3fc" stroke-width="2.2"/>
+  <path d="M120 398 C 117 402, 117 406, 120 409 C 123 406, 123 402, 120 398 Z" fill="#7dd3fc" opacity=".85"/>
 </svg>

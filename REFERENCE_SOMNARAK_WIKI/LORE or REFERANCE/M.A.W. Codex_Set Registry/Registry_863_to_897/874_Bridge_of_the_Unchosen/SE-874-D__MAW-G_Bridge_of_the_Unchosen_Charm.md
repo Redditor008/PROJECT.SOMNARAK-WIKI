@@ -19,6 +19,10 @@
 **Canonical ability:** Grants a minor boon tied to Bridge of the Unchosen's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names Bridge of the Unchosen's event—A person abandoned a crossing at the last moment; the path froze around the decision.—and accepts this limit: Acknowledge possibility without treating it as history
 
+## Appearance
+
+The Bridge of the Unchosen Charm is the gift record of its source’s set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to the Bridge’s sorrow, shaped like its hesitation. Binding names the source event — a person abandoned a crossing at the last moment, the path freezing around the decision — and accepts the set’s limit: acknowledge possibility without treating it as history. The cost is linguistic: the bearer occasionally forgets a word, speech acquiring its own abandoned crossings, and prolonged use makes the sorrow autobiographical. The source- trace fixed doctrine: the gift shows the choice at the center of the crossing — not the life beyond the bridge but the decision itself, the point where the walker turned back — the only fact the set recognizes — and it uncoupled the hazard only after attribution to the Bridge. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  

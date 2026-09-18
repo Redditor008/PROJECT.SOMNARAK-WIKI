@@ -18,6 +18,10 @@ A pale Han-glass disc whose edge softens false architectural certainty. It forms
 
 Durivel used it to dissolve a ceremonial facade built over Folly’s footprint. The source outline remained visible; he lost the memory of why one unrealized public square had felt personally hopeful.
 
+## Appearance
+
+The Melting Lens is a pale disc of Han glass whose edge softens false architectural certainty — held to the eye, a confident facade goes soft at its borders while honest ruin stays sharp. It forms from upward melt after accepted incompletion, and its binding requires a plan, a present-site record, and explicit separation between them. In use it targets one reconstruction falsely presented as the original plan — in its recorded case dissolving a ceremonial facade built over Folly’s footprint while the source outline remained visible — and it cannot strike the historical outline or prove a current design authentic. The cost is one small nameless memory per use; its first wielder lost why one unrealized public square had felt personally hopeful. Source history dissolving with the replica is outline erasure; every built structure treated as false is completion bias; and a wielder claiming authority over intended occupants is plan possession. It is maintained placed between the plan and the current-site map, one on each side, clearing only material unsupported by either historical evidence or current use. What the record supports, the Lens leaves standing.
+
 ## STATISTICS
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Survivors' Breath's kind of pressure.  
 **Binding rule:** the bearer names Survivors' Breath's event—Citizens sighed after repeated crises until the collective breath became a wandering presence.—and accepts this limit: Permit rest; do not force personnel to continue working through it
 
+## Appearance
+
+The Resting Veil is the suit record of Survivors’ Breath’s set, granting resistance to Void damage and protecting the Soul against the pressure of a city’s worth of exhaustion moving through the halls. Binding is testimonial: the wearer names the source event — citizens sighed after repeated crises until the collective breath became a wandering presence — and accepts the set’s limit: permit rest; do not force personnel to continue working through it. The operational cost is the Void standard for armor: the wearer feels faintly absent to themselves, and continued use makes the sorrow feel autobiographical — the collective sigh acquiring the wearer’s voice. The source-trace set the doctrine: the suit tests whether the worker can rest without abandoning duty — the balance the sighing citizens were never afforded, recovery reframed as part of the work — and it stabilized the immediate hazard only after attribution to Survivors’ Breath. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

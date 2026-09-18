@@ -18,6 +18,10 @@ A wrapping blue Han-silk shroud patterned with two absent shores and one current
 
 Binding requires a physical anchor from the present site. Iseulfros wore it while the Gardens became an erased riverside route. The Shroud kept her current identity accessible, but minor joy vanished beneath the travelers’ accumulated farewells.
 
+## Appearance
+
+This Memory Shroud is a wrapping shroud of blue Han-silk patterned with two absent shores — one at each hem — and a single current-location mark woven over the heart. It condenses from bridge mist after Ferrehan, and it binds only through a physical anchor taken from the present site: something real, carried against the cloth. Worn while a remembered crossing tries to overwrite the present, the heart mark keeps current place and identity accessible — the wearer stands in the Gardens even while the Gardens become an erased riverside route. Losing the physical anchor makes the cloth follow the vanished route, wearer included. The cost is a traveler’s numbness: minor joys fade, especially pleasure associated with travel or return, buried under the accumulated farewells of everyone who ever crossed. A wearer left standing on the remembered shore after the Bridge settles is the anchor-loss failure, and a current home that feels less real than the route is return numbness. It is maintained wrapped around the present anchor beside the settled footprint while two people name the current site without describing the old shore. Removal steps completely off the memory route and unwraps from the heart mark outward.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

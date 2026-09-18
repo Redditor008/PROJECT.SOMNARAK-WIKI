@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Pent's grudge signature in the strike.  
 **Binding rule:** the bearer names Pent's event—A worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness.—and accepts this limit: Permit rest and acknowledge exhaustion as real
 
+## Appearance
+
+The Vanished Fang of Pent’s set is a Grudge instrument attacking the Body by channeling the source’s grudge signature into the strike. Binding is testimonial: the bearer names Pent’s event — a worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness — and accepts the set’s limit: permit rest and acknowledge exhaustion as real. The operational cost is the Grudge standard: the wielder’s old wounds ache, prolonged use leaves faint bruising, and continued use makes the sorrow feel autobiographical — the held-back sigh lodging in the wielder’s own chest, the suppressed exhaustion learning their posture. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon stays the immediate hazard only after the team attributes it to Pent, and treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

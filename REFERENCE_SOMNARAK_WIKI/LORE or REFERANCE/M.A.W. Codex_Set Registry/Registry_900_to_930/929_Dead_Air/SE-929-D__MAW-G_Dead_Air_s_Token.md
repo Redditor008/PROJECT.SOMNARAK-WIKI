@@ -19,6 +19,10 @@
 **Canonical ability:** A fragment of the entity's spirit sorrow, crystallized into wearable form.   <!-- SE-929 -->
 **Binding rule:** the bearer names Dead Air's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Dead Air's Token is the gift record of the Dead Air set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the hazard's spirit sorrow, crystallized into wearable form, a sealed second of the silence that followed the last transmission. Binding names Dead Air's event — Not recorded, the interruption preserved and the voice not — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is gravitational: the bearer moves as though carrying an invisible load that grows heavier near unresolved debt, the silence leaning on whatever was left unsaid. The source-trace fixed doctrine: the hazard permits study, its spirit pressure becoming legible under sustained observation, and the Token discharges the hazard only after attribution to Dead Air. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  

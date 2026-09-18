@@ -1,36 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SHADOW LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
   <defs>
-    <radialGradient id="bg7110bf" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw077" cx="46%" cy="50%" r="62%">
+      <stop offset="0%" stop-color="#17181c"/>
+      <stop offset="100%" stop-color="#08080a"/>
     </radialGradient>
-    <radialGradient id="gl7110bf" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    <radialGradient id="dk077" cx="50%" cy="46%" r="66%">
+      <stop offset="0%" stop-color="#52525b"/>
+      <stop offset="70%" stop-color="#27272a"/>
+      <stop offset="100%" stop-color="#18181b"/>
     </radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg7110bf)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw077)" stroke="#8a8f98" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="115" fill="url(#gl7110bf)"/>
-  <g transform="rotate(-10 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="64.0" ry="62.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="55.0" ry="50.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="46.0" ry="40.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M241.1 144.5 L235.4 153.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M258.5 166.8 L250.2 171.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M264.0 194.2 L255.0 193.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="124.0" y="186.0" width="152.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="254.0" width="12" height="29.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(-9 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <g transform="rotate(-6 152.0 300.0)" opacity=".9">
-    <circle cx="152.0" cy="300.0" r="2.2" fill="#e0f2fe" opacity=".36"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-077-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08080a" stroke="#8a8f98" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#8a8f98" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- three ordinary facts, spoken: tally marks hanging in the dark, left -->
+  <path d="M74 108 L74 140 M88 108 L88 140 M102 108 L102 140" stroke="#d4d4d8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M64 148 L112 100" stroke="#71717a" stroke-width="1.6" opacity=".6"/>
+  <!-- the witness: a simple profile watching from lower-left -->
+  <path d="M96 250 C 112 244, 122 250, 124 262 C 126 272, 120 280, 110 282 L102 292 L96 288 C 88 278, 88 260, 96 250 Z" fill="none" stroke="#71717a" stroke-width="2.2" opacity=".8"/>
+  <circle cx="112" cy="260" r="2" fill="#a1a1aa"/>
+  <!-- SHADOW LENS: nearly opaque grey disc, big, right of centre -->
+  <ellipse cx="240" cy="180" rx="86" ry="92" fill="url(#dk077)" stroke="#a1a1aa" stroke-width="3.2" transform="rotate(6 240 180)"/>
+  <ellipse cx="240" cy="180" rx="68" ry="74" fill="none" stroke="#3f3f46" stroke-width="1.8" opacity=".8" transform="rotate(6 240 180)"/>
+  <!-- empty and grey in daylight: flat dead sheen -->
+  <path d="M188 116 C 204 102, 228 96, 250 100" fill="none" stroke="#71717a" stroke-width="2" opacity=".55"/>
+  <!-- the faint aperture, opened at centre -->
+  <circle cx="240" cy="180" r="17" fill="#050506" stroke="#e4e4e7" stroke-width="2"/>
+  <circle cx="240" cy="180" r="7" fill="#f4f4f5" opacity=".9"/>
+  <!-- the narrow pale strike, out through the aperture -->
+  <path d="M254 170 L354 106" stroke="#f4f4f5" stroke-width="2.8"/>
+  <path d="M348 100 L362 100 L354 114" fill="#f4f4f5" opacity=".9"/>
+  <!-- the mislabel disrupted: label tag knocked off its string -->
+  <rect x="330" y="130" width="34" height="18" rx="3" fill="none" stroke="#71717a" stroke-width="1.8" transform="rotate(24 347 139)"/>
+  <path d="M338 136 L358 146" stroke="#71717a" stroke-width="1.2" transform="rotate(24 347 139)"/>
+  <!-- thin rings of light marking past uses -->
+  <circle cx="240" cy="180" r="30" fill="none" stroke="#d4d4d8" stroke-width="1" opacity=".5"/>
+  <circle cx="240" cy="180" r="42" fill="none" stroke="#d4d4d8" stroke-width=".8" opacity=".3"/>
+  <!-- unmarked handle with flat wooden rest + tether ring -->
+  <path d="M196 262 L166 312 L186 324 L214 276 Z" fill="#1c1917" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="150" y="308" width="34" height="10" rx="2" fill="#3f2d1e" stroke="#78716c" stroke-width="1.8" transform="rotate(-58 167 313)"/>
+  <circle cx="162" cy="334" r="10" fill="none" stroke="#e4e4e7" stroke-width="2.4"/>
+  <circle cx="162" cy="334" r="2.6" fill="#f1df76"/>
 </svg>

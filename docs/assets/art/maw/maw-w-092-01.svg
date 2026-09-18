@@ -1,28 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BURNING FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg04532a" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw092" cx="44%" cy="56%" r="62%">
+      <stop offset="0%" stop-color="#250909"/>
+      <stop offset="100%" stop-color="#0c0404"/>
     </radialGradient>
-    <radialGradient id="gl04532a" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl092" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fecaca"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg04532a)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw092)" stroke="#b91c1c" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="109" fill="url(#gl04532a)"/>
-  <g transform="rotate(-6 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 118.85, 233.0 59.0 239.0 59.0 C229.0 122.84, 220.0 146.78, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 130.82, 231.0 67.0 236.0 65.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="48.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="252.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <g transform="rotate(-4 200.0 320.0)" opacity=".9">
-    <circle cx="200.0" cy="320.0" r="4.8" fill="none" stroke="#d64a4a" stroke-width="1.4" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-092-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0c0404" stroke="#b91c1c" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#b91c1c" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- slim blade thrust up-right, mid-launch -->
+  <path d="M148 262 L262 118 L276 92 L282 100 L270 128 L162 274 Z" fill="url(#bl092)" stroke="#ef4444" stroke-width="2.6"/>
+  <path d="M158 262 L270 122" stroke="#fee2e2" stroke-width="1.3" opacity=".85"/>
+  <!-- flecks of dark red in the unpolished surface -->
+  <circle cx="200" cy="216" r="1.8" fill="#450a0a"/>
+  <circle cx="224" cy="184" r="1.6" fill="#450a0a"/>
+  <circle cx="246" cy="152" r="1.8" fill="#450a0a"/>
+  <!-- THE CRIMSON PIERCE LINE: launched from the tip, striking a wall of suppression -->
+  <path d="M280 96 L354 44" stroke="#f87171" stroke-width="3"/>
+  <path d="M280 96 L354 44" stroke="#fee2e2" stroke-width="1" opacity=".8"/>
+  <!-- the suppressive structure struck: a gag-bar cracking -->
+  <path d="M326 24 L376 60" stroke="#57534e" stroke-width="6" opacity=".85"/>
+  <path d="M350 40 L358 30 M352 46 L364 42" stroke="#f87171" stroke-width="1.8" opacity=".9"/>
+  <!-- exposed testimony: burned letters drifting free where it landed -->
+  <path d="M338 74 L344 82 M354 70 L358 80 M366 62 L374 70" stroke="#fca5a5" stroke-width="1.4" stroke-dasharray="2 3" opacity=".7"/>
+  <!-- guard with THE PAGE-MARK, mid-turn from pale grey to black -->
+  <path d="M138 268 L172 280 L162 306 L130 294 Z" fill="#450a0a" stroke="#ef4444" stroke-width="2.4"/>
+  <path d="M148 258 L160 236 L172 262 Z" fill="#d4d4d8" stroke="#b91c1c" stroke-width="1.6"/>
+  <path d="M160 236 L172 262 L166 262 Z" fill="#0c0404"/>
+  <!-- dark-cord grip descending -->
+  <path d="M136 300 L118 348 L138 356 L156 308 Z" fill="#450a0a" stroke="#b91c1c" stroke-width="2.4"/>
+  <path d="M132 316 L148 322 M128 332 L144 338" stroke="#ef4444" stroke-width="1.4" opacity=".85"/>
+  <!-- CLOSED BOOK pommel -->
+  <path d="M108 352 L138 362 L134 380 L104 370 Z" fill="#1c0a0a" stroke="#f1df76" stroke-width="2"/>
+  <path d="M112 358 L130 364 M111 364 L129 370" stroke="#f1df76" stroke-width="1" opacity=".7"/>
+  <path d="M108 352 L104 370" stroke="#fca5a5" stroke-width="2"/>
 </svg>

@@ -18,6 +18,10 @@ A fang-curved crimson Han-iron blade vibrating with interrupted syllables. It fo
 
 Binding requires the wielder to state one confirmed danger vector and one unknown. During the *Three-Syllable Storm*, Fang cut a path through red static toward rising Han pressure without naming the storm type. Durivel’s old leg injury bruised with every corrected direction.
 
+## Appearance
+
+The Warning Fang is a fang-curved blade of crimson Han iron that vibrates with interrupted syllables — pieces of a message that never finished arriving. It forms from the overlap of two independent dream reports, and the honesty of that origin is visible on the weapon: where the reports fall silent, blank gaps remain along the edge, unpolished and unfilled. Binding requires the wielder to state one confirmed danger vector and one unknown, in the same breath. In use the Fang pierces up to three interference layers along a verified direction, cutting a path through red static toward rising pressure without naming what the storm is — and supplying a missing target from fear makes the line follow the guess instead of the evidence. The cost is carried in old injuries: they ache with use, and prolonged operation leaves bruising shaped like broken signal marks. Inference becoming target is the prophecy-strike failure, and a weapon that repeats a resolved warning attacks the responder. It is maintained with separate fragment transcripts laid along opposite edges, cleaning only the matching sounds and leaving the gaps visible. Shutdown lowers the Fang when confirmed danger ends — even if the sentence remains incomplete.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

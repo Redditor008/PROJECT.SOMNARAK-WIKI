@@ -39,6 +39,10 @@
 
 **Rejection rule:** A bearer who maps people secretly feels each hidden link as a physical Weight around the neck until the charm is removed and the breach is reported.
 
+## Appearance
+
+The Binding Chain is a single open black chain link that closes only in reflection. It shows no connection for anyone who has not consented to the mapping. In active use fine dark lines extend between consenting people whose obligations affect one another. At full activation, the charm reveals debt connections across the group and highlights one shared pressure that needs review. Every person whose debt connection will be observed gives informed consent or has explicit Archive/oversight authority protecting their absent interests. It carries no Echo cost, but emotional link Weight accumulates per observation. The charm is stored open in a privacy case, never attached to a public ledger. A bearer who maps people secretly feels each hidden link as a physical Weight around the neck until the charm is removed and the breach is reported. The custodian covers the link, names the closure condition, and removes the Gift during shutdown.
+
 ## GIFT STATISTICS
 
 | Field | Record |

@@ -18,6 +18,10 @@ A singing deep-blue Han-crystal blade whose edge holds a perfectly still liquid 
 
 Binding requires two current identity anchors. During the *Rising Childhood*, Requiem separated one stranger’s early life from three workers without cutting the memory into fragments. Durivel wept for a family whose names were absent from every file.
 
+## Appearance
+
+The Lake Requiem is a singing blade of deep-blue Han crystal whose edge holds a perfectly still liquid line — a waterline that does not tilt when the blade moves, level against every horizon except the Lake’s own. It forms from a witnessed memory that voluntarily surfaced and returned, and it binds only to a wielder holding two current identity anchors. Its work is separation without harvest: the blade pierces up to three overflow connections while preserving the memory-mass as one record — in its recorded case, separating one stranger’s early life from three workers without cutting the memory into fragments — and striking the remembered figure splits its identity instead. The wielder pays in unclaimed mourning: they receive the Lake’s unwept grief and cry involuntarily, the first bearer weeping for a family whose names were absent from every file. A coherent memory fragmenting across several hosts is the life-cut failure, and a bearer who adopts the memory loses a self-anchor. It is maintained suspended over still Lake water without contact, the memory’s provenance record read once, the liquid edge kept unbroken. Shutdown sheathes after one complete separation and returns all surfaced material.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

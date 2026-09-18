@@ -30,6 +30,10 @@ The Shroud formed around the journal owner at the Mirror Auction when she chose 
 | Binding cost | The wearer becomes unable to tell privacy from isolation without review |
 | Corrosion risk | High under public observation or recording |
 
+## Appearance
+
+The Sunken Shroud is a cool wrap of deep-blue Han-silk with branch seams that point downward when inactive and turn inward during disclosure — the cloth’s own anatomy reorienting from burial toward the speaker. It tightens near Banyan’s Lament but leaves the wearer’s face uncovered; whatever else is protected, the face stays legible. Binding requires the wearer to name who may witness the current grief. It formed at the Mirror Auction around the journal owner when she chose private testimony rather than renewed burial, and someone seeking permanent numbness is rejected by water collecting inside the cloth. In the field, its Chosen Room creates an emotional boundary around one speaker and named witnesses, resisting the Lament produced by long-buried grief — it excludes attention, not sound, and invited listeners must still receive what is said; the room does not do the listening for them. The overload is surveillance in any form: recording equipment, hidden spectators, or coerced testimony makes the fabric transparent, and the absorbed sorrow then appears across every external mask and reflective surface — the privacy violated once, republished everywhere. The Shroud’s whole covenant is the guest list: grief spoken to chosen witnesses, in a room the speaker drew the walls of.
+
 ## PROTECTIVE FUNCTION
 
 **Chosen Room:** creates an emotional boundary around one speaker and named witnesses, resisting Lament produced by long-buried grief. It excludes attention, not sound; invited listeners must still receive what is said.

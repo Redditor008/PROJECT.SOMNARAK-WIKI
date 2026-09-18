@@ -16,6 +16,10 @@ A blue Han-crystal blade whose shadow walks one step behind. It forms after a na
 
 Durivel severed an erasure mark consuming Spoor’s footprints. The route remained; no name was supplied. He wept for an existence known only by path.
 
+## Appearance
+
+The Shadow Requiem is a blade of blue Han crystal whose shadow walks one step behind — the cast silhouette lagging every movement, a companion that follows rather than mirrors. It forms after a nameless route is accompanied and recorded: someone walked beside an existence known only by path, and wrote the path down. In use it strikes one active erasure threatening a walked record — in its recorded case severing an erasure mark consuming Spoor’s footprints; the route remained, and no name was supplied, the wielder weeping for an existence attested only by where it had been. A false name defended is the first failure — the record poisoned by the comfort of a label; the route claimed by the bearer is the second, accompaniment inflated into ownership; and being overlooked treated as tactical invisibility is the third, a wound repackaged as an asset. It is maintained by walking the recorded route without adding biography — the path renewed step by step, the blank beside it renewed too. The trailing shadow is never hurried; a Requiem whose shadow catches up has stopped following and started replacing.
+
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Lament | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |

@@ -27,6 +27,10 @@ A warm deep-blue crystal drop hangs at the Tail slot. A different name is legibl
 | Binding cost | Unspoken names intrude into the bearer’s dreams |
 | Corrosion risk | Moderate when used as identity certification |
 
+## Appearance
+
+Nemo’s Charm is a warm drop of deep-blue crystal hung at the tail slot — a different name is legible within it after every return, the tear holding one recovered identity at a time. Bestowal follows an accepted work cycle unpredictably; it cannot be manufactured. Its function is Tear Attribution: it keeps one carried name distinct from the bearer’s own identity and indicates which return produced it — it can support testimony but cannot authenticate lineage, citizenship, or historical record, a distinction the entire set depends on. The hidden condition is institutional: if an official stamps the Charm as conclusive proof, it begins replacing disputed archive names with the one inside the tear, and the apparent correction spreads until every overwritten person returns as Nemo. In its recorded case a junior clerk held it over an erased register and watched blank lines fill with one man’s name — the restoration looked merciful, but three unrelated exiles vanished from the same page before the register was pulled away. It is preserved as evidence of a name, never authority over other absences, and its crystal darkens whenever testimony is promoted into certainty without review — the Gift’s own warning against the mercy that overwrites.
+
 ## EFFECT & HIDDEN CONDITION
 
 **Tear Attribution:** keeps one carried name distinct from the bearer’s own identity and indicates which return produced it. It can support testimony but cannot authenticate lineage, citizenship, or historical record.

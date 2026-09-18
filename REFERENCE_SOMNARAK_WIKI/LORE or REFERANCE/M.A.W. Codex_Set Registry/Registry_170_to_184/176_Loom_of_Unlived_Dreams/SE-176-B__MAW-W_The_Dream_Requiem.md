@@ -27,6 +27,10 @@
 
 The blade formed from a thread the Loom released after a temporary dream room was allowed to fade. No active cloth was cut. **Binding:** bearer carries a Dream anchor and waking anchor. **Rejection:** using the blade to force a dreamer out or keep a dream alive makes the thread knot and ends activation.
 
+## Appearance
+
+The Loom’s Dream Requiem is a loom-framed thread-bow of blue Han crystal, its two curved limbs strung with a single released thread while warp strands cross the window between them, loosening and re-tightening as nearby dream-cloth shifts. The bow cannot draw until the released thread strung across it is marked with both anchors — one Dream, one waking — and the marks show as two small knots of light at the grip. In use the loosed thread-line runs a Lament Pierce that loosens a temporary dream reality where it has begun overwriting a current room, unpicking the construct a line at a time rather than tearing it. At full activation the weapon dissolves one escalating woven construct across its Pierce line and returns its emotional material to the Loom’s custody; it cannot decide which future was worth living. The bearer carries unwept dream grief, and recovery requires the temporary construct to be fully unmade. Thread knots gather around the hilt when the bearer wants to preserve a dream, and a black knot means a channel was not closed. Both anchors close the channel and case the bow during shutdown; breaking it leaves a woven room in the bearer’s next sleep.
+
 ## CORE STATISTICS
 
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |

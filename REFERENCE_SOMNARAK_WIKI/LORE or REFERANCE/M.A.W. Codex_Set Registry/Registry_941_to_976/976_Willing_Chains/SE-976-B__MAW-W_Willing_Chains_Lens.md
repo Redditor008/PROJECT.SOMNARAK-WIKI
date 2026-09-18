@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Willing Chains's void signature in the strike.  
 **Binding rule:** the bearer names Willing Chains's event—A district was bound by debt and duty until the obligations became a living chain.—and accepts this limit: Do not cut blindly; identify what each chain represents
 
+## Appearance
+
+The Willing Chains Lens is the weapon record of the Willing Chains set — β-grade, Void-aligned, striking at 5–9 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability deals Void damage against the Soul, identity, memory, and sense of self, channeling the Chains' void signature. Binding names the source event — a district was bound by debt and duty until the obligations became a living chain — and accepts the set's limit: do not cut blindly; identify what each chain represents. The cost is quiet attrition: the wielder loses small, nameless memories with each use. The source-trace fixed doctrine: cut carelessly, the chains lash outward and spread faster, obligation multiplying under attack, and the Lens uncouples the hazard only after attribution to Willing Chains. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

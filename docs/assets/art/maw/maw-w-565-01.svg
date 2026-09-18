@@ -1,25 +1,46 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="UPWELL FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg246011" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw565" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl246011" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl565" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg246011)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw565)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="129" fill="url(#gl246011)"/>
-  <g transform="rotate(10 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 123.8, 227.0 68.0 233.0 68.0 C223.0 127.52, 220.0 149.84, 215.0 192.0 Z" fill="#3e8bd5" fill-opacity=".26" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 134.96, 225.0 76.0 230.0 74.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#3e8bd5" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="56.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="260.0" r="5" fill="#3e8bd5" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-565-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- DEEP HOOK FANG: karambit-deep inner curve, tip curling back under -->
+  <path d="M150 116 L166 108 C 216 128, 256 162, 278 208 C 296 246, 296 286, 278 318 C 268 334, 252 344, 234 344 C 222 344, 212 338, 208 328 C 218 330, 228 326, 234 318 C 246 302, 248 278, 240 252 C 228 214, 198 164, 150 116 Z"
+        fill="url(#bl565)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M162 118 C 208 158, 240 204, 252 250 C 260 280, 258 306, 246 324" fill="none" stroke="#4c0d13" stroke-width="2"/>
+  <!-- outer edge light -->
+  <path d="M170 112 C 218 134, 256 168, 276 212 C 292 248, 292 284, 276 314" fill="none" stroke="#ffe4e6" stroke-width="1.8"/>
+  <!-- THE INNER CURVE REFLECTION: a well shaft opening DOWNWARD seen in the concave face -->
+  <ellipse cx="216" cy="220" rx="26" ry="12" transform="rotate(-18 216 220)" fill="#0d0507" stroke="#fda4af" stroke-width="2"/>
+  <path d="M196 228 C 200 254, 208 278, 222 296 M240 216 C 242 242, 238 268, 228 290" fill="none" stroke="#7f1d1d" stroke-width="1.8"/>
+  <path d="M204 244 L232 240 M208 264 L230 260 M214 282 L226 280" stroke="#7f1d1d" stroke-width="1.3"/>
+  <!-- refused voices answering from the shaft: crossed-out echo marks deep in it -->
+  <path d="M212 254 C 216 252, 220 252, 224 254" fill="none" stroke="#64748b" stroke-width="1.3"/>
+  <path d="M210 250 L226 260" stroke="#450a0a" stroke-width="1.6"/>
+  <path d="M214 272 C 217 270, 220 270, 223 272" fill="none" stroke="#64748b" stroke-width="1.2"/>
+  <path d="M212 268 L225 276" stroke="#450a0a" stroke-width="1.4"/>
+  <!-- weeping film: thin Han tears running off the outer edge -->
+  <path d="M282 200 C 285 195, 285 191, 282 188 C 279 191, 279 195, 282 200 Z" fill="#fca5a5"/>
+  <path d="M290 258 C 293 253, 293 249, 290 246 C 287 249, 287 253, 290 258 Z" fill="#fda4af"/>
+  <path d="M284 206 C 286 212, 287 218, 287 224" fill="none" stroke="#fca5a5" stroke-width="1.2" stroke-dasharray="2 3" opacity=".8"/>
+  <!-- verified surface route: gold line from rim upward, solid -->
+  <path d="M196 200 C 178 180, 162 158, 150 134" fill="none" stroke="#f1df76" stroke-width="1.8"/>
+  <path d="M150 134 L146 144 M150 134 L158 138" stroke="#f1df76" stroke-width="1.6"/>
+  <!-- well-rim bruise rings near the grip -->
+  <circle cx="146" cy="94" r="7" fill="none" stroke="#7f1d1d" stroke-width="1.8" opacity=".85"/>
+  <circle cx="146" cy="94" r="11" fill="none" stroke="#450a0a" stroke-width="1.3" opacity=".6"/>
+  <!-- grip at the top spine + ring pommel (karambit ring) -->
+  <path d="M144 110 L112 82" stroke="#4c0d13" stroke-width="12" stroke-linecap="round"/>
+  <path d="M138 102 L130 110 M128 94 L120 102" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M104 70 a10 10 0 1 0 .1 0" fill="none" stroke="#fca5a5" stroke-width="3"/>
 </svg>

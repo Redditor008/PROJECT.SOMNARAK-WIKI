@@ -17,6 +17,10 @@
 
 A pale Han-glass Neck charm with thirteen blank notches. The sole registered Gift appeared after an undocumented pre-rule whisper event; the Gate has not bestowed another. Source probability is recorded as 4%, but current contact is forbidden.
 
+## Appearance
+
+The Unknown Extraction Charm is a pale neck-charm of Han glass with thirteen blank notches cut into its rim — a counting device for a window no one should hold open. The sole registered Gift appeared after an undocumented pre-rule whisper event, and the Gate has never bestowed another; current contact is forbidden outright. Its function is termination: it counts and closes one thirteen-second whisper window, a cutoff and never a decoder. The cost is lexical — the bearer intermittently forgets an ordinary word, and the loss is not random: in the recorded residue test the Charm removed access to the word “hinge” at second thirteen, and that missing word prevented a spontaneous opening metaphor from becoming an O-Relic command. Forgotten words clustering around doors, locks, and permission is the first corrosion sign; notches filling before contact begins is the second; and a bearer who mistakes word loss for buried truth is already failing. A missing word treated as an opening command is the lexical-key error. Care records lost words as absences without interpreting them, and the Charm stays isolated until all thirteen notches are blank. Breaking it releases every forgotten word into the Gate chamber.
+
 ## FUNCTION & COST
 
 **Grade / Element:** δ / Void  

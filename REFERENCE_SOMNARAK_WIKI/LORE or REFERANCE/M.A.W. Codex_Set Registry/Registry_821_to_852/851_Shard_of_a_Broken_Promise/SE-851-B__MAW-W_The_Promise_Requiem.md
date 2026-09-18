@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Shard of a Broken Promise's lament signature in the strike.  
 **Binding rule:** the bearer names Shard of a Broken Promise's event—An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Promise Requiem is the weapon record of the Shard of a Broken Promise’s set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names the source event — an artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is the Lament standard: the wielder feels the entity’s unwept grief, prolonged use causes involuntary weeping, and continued use makes the sorrow feel autobiographical — the outlived promise filing itself among the wielder’s own kept and broken words. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon discharges the immediate hazard only after attribution to the Shard, and treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

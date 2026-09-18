@@ -30,6 +30,10 @@ The Shield formed during controlled contact when an agent accepted a former owne
 | Binding cost | Sleep no longer separates the wearer’s life from archived lives |
 | Corrosion risk | High after more than one owner per rest cycle |
 
+## Appearance
+
+The Thousand Hands Shield is a shield-backed harness of cool blue Han crystal covered by shallow hand impressions that rise and fall like breathing — the prints of previous owners, still moving in slow turns. It binds only to a wearer accompanied by an attribution witness; worn alone, the backplate treats every emotional impact as personal, which is precisely the error the set exists to prevent. It formed during controlled contact when an agent accepted a former owner’s grief without changing the account or extending the touch beyond the timer. In the field, its Held Impact absorbs an emotional shock and preserves its intensity without forcing immediate reenactment — the wearer can carry the impact to a prepared witness, provided its source label remains attached; grief transported like evidence, chain of custody intact. The overload is unlabeled accumulation: a second unattributed history before discharge stacks handprints over the spine, and at five overlapping prints the Shield selects a life at random and makes the wearer defend it as their own. The breathing of the impressions is checked at every inspection — prints that synchronize with the wearer’s own breath mean attribution is eroding, and the Shield comes off before the fifth hand lands.
+
 ## PROTECTIVE FUNCTION
 
 **Held Impact:** absorbs an emotional shock and preserves its intensity without forcing immediate reenactment. The wearer can carry the impact to a prepared witness, provided its source label remains attached.

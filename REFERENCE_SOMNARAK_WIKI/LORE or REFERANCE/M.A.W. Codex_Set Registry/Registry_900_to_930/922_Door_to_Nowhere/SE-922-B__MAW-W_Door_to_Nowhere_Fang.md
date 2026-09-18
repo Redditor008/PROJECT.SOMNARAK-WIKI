@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Door to Nowhere's grudge signature in the strike.  
 **Binding rule:** the bearer names Door to Nowhere's event—A resident was trapped during a district lockdown, watching a door rise beyond reach.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Door to Nowhere Fang is the weapon record of the Door to Nowhere set — δ-grade, Grudge-aligned, striking at 10–15 Grudge at fast speed and medium range in a pierce pattern, 100% to the primary and 70% and 50% behind, two uses at 50 Sorrow Echoes each — and its canonical ability deals Grudge damage against the Body, physical form and structural integrity, channeling the Door's grudge signature. Binding names the source event — a resident was trapped during a district lockdown, watching a door rise beyond reach — and accepts the registry's limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is remembered in the flesh: the wielder's old wounds ache, and prolonged use leaves faint bruising. The source-trace fixed doctrine: as an Object/Place source the Door cannot be confronted through Pugnahan, and the Fang stabilizes the hazard only after attribution to Door to Nowhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

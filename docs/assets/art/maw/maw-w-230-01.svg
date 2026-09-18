@@ -1,33 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE FINAL LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="WEAPON 230">
   <defs>
-    <radialGradient id="bg0a58c1" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
-    </radialGradient>
-    <radialGradient id="gl0a58c1" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <radialGradient id="bg230" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#111318"/><stop offset="100%" stop-color="#08090c"/></radialGradient>
+    <radialGradient id="gl230" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#475569" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg0a58c1)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg230)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="110" fill="url(#gl0a58c1)"/>
-  <g transform="rotate(9 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="63.0" ry="79.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="54.0" ry="67.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="45.0" ry="57.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M240.5 131.5 L234.7 140.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M257.6 159.9 L249.3 164.7" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M263.0 194.8 L254.0 194.3" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="125.0" y="186.0" width="150.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="271.0" width="12" height="26.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <g transform="rotate(-2 200.0 82.0)" opacity=".9">
-    <path d="M191.0 82.0 Q200.0 78.0 209.0 82.0 Q200.0 86.0 191.0 82.0 Z" fill="#e0f2fe" opacity=".4"/><circle cx="200.0" cy="82.0" r="2.0" fill="#e0f2fe" opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-230-01</text>
+  <circle cx="200" cy="188" r="132" fill="url(#gl230)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+<!-- 230 final lens v2: tall visor lens with hood, vertical -->
+  <path d="M168 88 L232 88 L232 188 Q232 212 200 212 Q168 212 168 188 Z" fill="#0f172a" stroke="#94a3b8" stroke-width="1.8"/>
+  <ellipse cx="200" cy="128" rx="26" ry="18" fill="#1e293b" stroke="#e2e8f0" stroke-width="1" opacity="0.6"/>
+  <path d="M168 88 Q200 72 232 88" fill="#1e293b" stroke="#94a3b8" stroke-width="1.6"/>
+  <path d="M184 108 L216 108 M184 148 L216 148" stroke="#94a3b8" stroke-width="0.8" opacity="0.5"/>
+  <circle cx="200" cy="192" r="4" fill="#475569" stroke="#94a3b8" stroke-width="1"/>
+
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#94a3b8">MAW-W-230-01</text>
 </svg>

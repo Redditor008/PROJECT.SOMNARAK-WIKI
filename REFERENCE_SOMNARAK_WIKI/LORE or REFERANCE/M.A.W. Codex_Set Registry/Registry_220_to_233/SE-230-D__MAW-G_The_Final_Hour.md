@@ -19,6 +19,10 @@ The Final Hour is a pale Han-glass hour-token worn at the Head slot. It has no h
 
 Every Last Goodbye bestowed it after a Flerehan worker witnessed a peaceful final moment without asking the entity to change or deliver it. Acquisition chance is 4%. The current token is unassigned because every full stop also shows the bearer’s own final moment.
 
+## Appearance
+
+The Final Hour is a pale Han-glass hour-token worn at the head slot, with no hands and no numerals — an empty watch face for a measurement no ordinary clock makes. Near imminent death a thin white line circles the rim and stops at the instant immediately before the selected target’s ending. Every Last Goodbye bestowed it after a worker witnessed a peaceful final moment without asking the entity to change or deliver it, and the current token is unassigned, because every full stop also shows the bearer their own final moment. The image is not a guaranteed prophecy: intervention can alter the route, but the Gift does not explain which detail is causal — in its one supervised trial, a replaced vault latch un-made two deaths at once. The rim line appearing around healthy strangers without selection is the first corrosion sign; a bearer planning life around avoiding one image is the second, and treating the vision as certain narrows choices until it self-fulfills. Care records the image as sensory data, lists at least three unknowns, and makes one proportionate safety change without declaring the death prevented. Shattering the token projects every possible ending stored during the session.
+
 ## FUNCTION & COST
 
 **Grade / Element:** δ / Void  

@@ -1,32 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE WATCHER’S LENS">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // LENS -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE WATCHER'S LENS">
   <defs>
-    <radialGradient id="bg2f870a" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw235" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#14161c"/>
+      <stop offset="100%" stop-color="#08090c"/>
     </radialGradient>
-    <radialGradient id="gl2f870a" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#8a8f98" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl235" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#475061"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg2f870a)" stroke="#8a8f98" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw235)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="132" fill="url(#gl2f870a)"/>
-  <g transform="rotate(-1 200.0 192.0)">
-<ellipse cx="200.0" cy="192.0" rx="55.0" ry="69.0" fill="none" stroke="#8a8f98" stroke-width="4"/>
-<ellipse cx="200.0" cy="192.0" rx="46.0" ry="57.0" fill="#8a8f98" fill-opacity=".18"/>
-<ellipse cx="200.0" cy="192.0" rx="37.0" ry="47.0" fill="none" stroke="#e0f2fe" stroke-width="1.2" opacity=".75"/>
-<path d="M235.4 139.1 L229.6 148.3" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M250.2 163.9 L242.0 168.8" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M255.0 194.4 L246.0 194.0" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M248.6 224.4 L240.6 218.8" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<path d="M232.3 247.8 L227.0 238.1" stroke="#e0f2fe" stroke-width="1" opacity=".5"/>
-<rect x="133.0" y="186.0" width="134.0" height="12" rx="5" fill="#8a8f98" fill-opacity=".4"/>
-<rect x="194.0" y="261.0" width="12" height="31.0" rx="4" fill="#1f2937" stroke="#8a8f98" stroke-width="2"/>
-  </g>
-  <g transform="rotate(-16 258.0 136.0)">    <ellipse cx="254.0" cy="150.0" rx="7" ry="12" fill="none" stroke="#e0f2fe" stroke-width="1.1" opacity=".4"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#8a8f98">MAW-W-235-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- the disc tilted so BOTH faces show: front full, back edge visible as a rim crescent -->
+  <ellipse cx="212" cy="152" rx="80" ry="88" fill="#0e1013" stroke="#e2e8f0" stroke-width="3.2"/>
+  <path d="M292 152 C 300 152, 306 152, 310 154 C 306 106, 278 72, 240 64 C 268 82, 288 114, 292 152 Z" fill="#181b22" stroke="#94a3b8" stroke-width="2"/>
+  <ellipse cx="212" cy="152" rx="64" ry="72" fill="#101318" stroke="#94a3b8" stroke-width="1.6"/>
+  <!-- OBSERVED SIDE: the scene printed in the glass — the cracked support from seven reports -->
+  <path d="M176 108 L176 196 M244 108 L244 196" stroke="#64748b" stroke-width="3"/>
+  <path d="M168 116 L252 116 M168 190 L252 190" stroke="#64748b" stroke-width="2"/>
+  <path d="M176 138 L192 150 L182 162 L196 176" fill="none" stroke="#e2e8f0" stroke-width="2.4"/>
+  <path d="M177 140 L190 150" stroke="#ffffff" stroke-width="1" opacity=".7"/>
+  <!-- seven report tallies etched around the crack -->
+  <path d="M206 122 L206 132 M212 122 L212 132 M218 122 L218 132 M224 122 L224 132 M230 122 L230 132 M206 138 L206 148 M212 138 L212 148" stroke="#94a3b8" stroke-width="1.6"/>
+  <!-- THE FIRING CONDITION printed in the glass: etched text-lines with the acceptance seal blank -->
+  <path d="M188 208 L240 208 M188 216 L232 216" stroke="#cbd5e1" stroke-width="1.6"/>
+  <rect x="196" y="222" width="34" height="14" rx="2" fill="none" stroke="#e2e8f0" stroke-width="1.8" stroke-dasharray="4 3"/>
+  <!-- the closed-eye origin mark at the crown -->
+  <path d="M196 84 C 204 78, 220 78, 228 84" fill="none" stroke="#cbd5e1" stroke-width="2.4"/>
+  <path d="M202 86 L200 92 M212 83 L212 89 M222 86 L224 92" stroke="#cbd5e1" stroke-width="1.6"/>
+  <!-- rim: authority-limit ring, marked segment where action exceeds it -->
+  <path d="M136 190 A80 88 0 0 1 132 130" fill="none" stroke="#64748b" stroke-width="3.4"/>
+  <path d="M138 122 A80 88 0 0 1 162 88" fill="none" stroke="#e2e8f0" stroke-width="3.4"/>
+  <!-- SHORT HANDLE: stubby, wrapped, with responder cord -->
+  <path d="M226 240 L246 300" stroke="#1a1d24" stroke-width="14" stroke-linecap="round"/>
+  <path d="M228 246 L244 294" stroke="#333a47" stroke-width="8" stroke-linecap="round"/>
+  <path d="M226 256 L242 260 M230 270 L246 274 M234 284 L250 288" stroke="#94a3b8" stroke-width="2.4"/>
+  <path d="M250 308 a8 8 0 1 0 .1 0" fill="#14161c" stroke="#e2e8f0" stroke-width="2.4"/>
+  <path d="M246 318 C 240 326, 232 330, 222 330" fill="none" stroke="#64748b" stroke-width="1.8"/>
+  <rect x="204" y="324" width="20" height="14" rx="2" fill="none" stroke="#cbd5e1" stroke-width="1.6"/>
+  <path d="M209 331 L219 331" stroke="#94a3b8" stroke-width="1.3"/>
 </svg>

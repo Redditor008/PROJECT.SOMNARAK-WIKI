@@ -19,6 +19,10 @@
 **Canonical ability:** A fragment of the entity's void sorrow, crystallized into wearable form.   <!-- SE-914 -->
 **Binding rule:** the bearer names Amnesia's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
+## Appearance
+
+Amnesia's Token is the gift record of the Amnesia set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability is a fragment of the manifestation's void sorrow, crystallized into wearable form, a keepsake from an event no one can retell. Binding names Amnesia's event — Not recorded, the account lost in exactly the way the entity loses accounts — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is a flicker of erasure: the bearer occasionally loses a familiar word or face for a few seconds after invoking the gift, small rehearsals of the source's condition. The source-trace fixed doctrine: the manifestation permits study, its void pressure becoming legible under sustained observation, and the Token contains the hazard only after attribution to Amnesia. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 5%  

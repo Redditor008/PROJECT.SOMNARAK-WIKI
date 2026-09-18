@@ -20,6 +20,10 @@ Binding requires the wielder to repeat the last confirmed lyric and then keep si
 
 During the *Seven-Room Refrain*, a work song spread as bone-rattling vibration beyond its final known word. Durivel cut the surplus resonance from one connecting wall. He wept in the dead singer’s rhythm but left the missing line intact.
 
+## Appearance
+
+The Wall Requiem is a short deep-blue blade of Han crystal whose edge hums only after an interrupted phrase — silence, then the exact pitch of a song that stopped mid-line. It forms from resonance fallen at the break point of the Midnight Choir’s frescoes; no pigment is ever removed. Binding is a discipline of the voice: the wielder must repeat the last confirmed lyric and then keep silence where the verse was lost. In use the Requiem attacks one harmful note continuing beyond a documented interruption — surplus resonance spreading as bone-rattling vibration past the final known word — and striking an original phrase damages the historical voice instead. The cost is grief on someone else’s meter: unwept sorrow enters the wielder and produces involuntary tears paced to the unfinished song. Invented notes becoming false targets is the first corrosion sign, and force used against the wall itself deletes the audible record. It is maintained held near — never against — the originating fresco at midnight, no recording played, the blade left to hum the confirmed phrase and stop by itself. Shutdown sheathes it at the break point and keeps the missing line silent.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

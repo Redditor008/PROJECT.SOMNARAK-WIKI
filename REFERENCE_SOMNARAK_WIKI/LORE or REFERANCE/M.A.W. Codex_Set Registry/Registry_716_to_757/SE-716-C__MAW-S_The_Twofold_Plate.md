@@ -9,6 +9,10 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+## Appearance
+
+The Twofold Plate is the suit of Double Mouth’s set, bound by the same source rule as its siblings: listen to both tones without forcing one to erase the other. Rejection reproduces the originating wound — armor that will not close over anyone intending to pick a winner. Its defining engagement is the Shouting Plate incident, where the armor locked until grief and accusation were recorded separately: the wearer immobilized by conflation, the suit refusing motion while two testimonies were filed as one. Separation released it — the Plate preserved the distinction between present choice and source grief by making that distinction a mechanical requirement. The operational cost is shared across the set: source emotion enters the bearer during use, the double voice pressing through the plates. Corrosion runs from attribution blurring, through compulsion becoming normal, to a terminal failure that reenacts the original event through the operator. It is maintained by recording source, bearer, trigger, result, and unresolved uncertainty, with cleaning or rest only after debrief. Emergency shutdown requires a named witness to restate the resolution while the bearer relinquishes the armor voluntarily — the set works only as Contradiction Held Together, and no piece resolves the source alone.
+
 **Grade / Element:** β / Grudge  
 **Resistances L/G/V/W:** 1.0/0.4/1.8/1.2  
 **Maximum / Cost:** 4 / 20 Echoes

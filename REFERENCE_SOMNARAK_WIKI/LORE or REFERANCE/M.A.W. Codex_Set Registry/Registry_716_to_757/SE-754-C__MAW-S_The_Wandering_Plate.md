@@ -9,6 +9,10 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+## Appearance
+
+The Wandering Plate is the suit of Thralldom’s set, bound by the same rule as its siblings: separate care from restraint and preserve an open exit. Rejection reproduces the originating wound — armor refusing any protector quietly become a jailer. Its defining engagement is the Open-Door Plate test, releasing only once the wearer could leave: the suit verified, as a mechanical condition, that its own wearer retained a working exit — guardianship audited from inside. The item preserved the distinction between present choice and source grief by making the open door part of the specification, not a courtesy. The operational cost is the set’s signature: source emotion enters the bearer during use, the thrall’s anxious devotion pressing against the plates. Corrosion runs from attribution blurring, through compulsion becoming normal — protection sliding into custody one precaution at a time — to a terminal failure that reenacts the original event through the operator. It is maintained by recording source, bearer, trigger, result, and unresolved uncertainty, with cleaning or rest only after debrief. Emergency shutdown requires a named witness to restate the resolution while the bearer relinquishes the armor voluntarily — the set works only as Care Without Captivity; no piece resolves the source alone.
+
 **Grade / Element:** α / Grudge  
 **Resistances L/G/V/W:** 1.0/0.4/1.8/1.2  
 **Maximum / Cost:** 5 / 10 Echoes

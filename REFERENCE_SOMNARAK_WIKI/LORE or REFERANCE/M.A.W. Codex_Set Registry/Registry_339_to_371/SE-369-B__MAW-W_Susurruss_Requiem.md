@@ -16,6 +16,10 @@ A wet-edged deep-blue Han-crystal blade formed after matching emotional fragment
 
 Durivel used it to separate sharp word-debris from an evacuation route while the underlying plea remained intact as grief and urgency. He wept in voices he could not quote.
 
+## Appearance
+
+The Susurruss Requiem is a wet-edged blade of deep-blue Han crystal, formed after matching emotional fragments are witnessed without sentence reconstruction — the weapon exists because someone listened and did not finish the sentence for the dead. In use it cuts up to three collapse shards without assembling them into language — in its recorded case separating sharp word-debris from an evacuation route while the underlying plea remained intact as grief and urgency. The cost is double: involuntary weeping, and temporary confusion between heard grief and personal memory; the first wielder wept in voices he could not quote. Word fragments attacked as meaningless is the first failure; an invented sentence guiding the blade is the second; and the emotional message attributed to the wielder is the third — someone else’s plea filed under the wrong name. It is maintained with independent transcripts laid on opposite sides while only nonlinguistic collapse residue is cleaned away. The wet edge is never dried completely; a dry Requiem has stopped listening, and a blade that stops listening starts composing.
+
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | γ / Lament | 7–12 | 3 / 3 | Pierce; 100% → 70% → 50% | 3 / 40 |

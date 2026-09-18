@@ -1,25 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BROKEN FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg11e723" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bw757" cx="44%" cy="42%" r="66%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl11e723" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bl757" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="1" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg11e723)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw757)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="118" fill="url(#gl11e723)"/>
-  <g transform="rotate(-11 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 122.69999999999999, 229.0 66.0 235.0 66.0 C225.0 126.48, 220.0 149.16, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 134.04, 227.0 74.0 232.0 72.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="42.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="246.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-757-01</text>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- THE THRESHOLD FRAME: an open doorframe standing mid-composition -->
+  <path d="M186 96 L186 328 M242 96 L242 328 M178 96 L250 96" fill="none" stroke="#64748b" stroke-width="3"/>
+  <path d="M186 328 L178 336 M242 328 L250 336" stroke="#64748b" stroke-width="2.2"/>
+  <path d="M192 116 L236 116" stroke="#334155" stroke-width="1.2" stroke-dasharray="3 4" opacity=".6"/>
+  <!-- LOWER HALF of the fang: LEFT side of the threshold, rising toward it -->
+  <path d="M92 322 L82 310 C 108 292, 132 270, 150 242 L 172 200 L 186 210 L 168 252 C 148 282, 122 306, 104 328 Z"
+        fill="url(#bl757)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M90 314 C 116 294, 138 272, 156 246" fill="none" stroke="#4c0d13" stroke-width="2"/>
+  <path d="M100 322 C 126 302, 148 278, 164 252" fill="none" stroke="#ffe4e6" stroke-width="1.8"/>
+  <!-- break face lower: jagged snap -->
+  <path d="M172 200 L178 194 L176 204 L184 200 L186 210" fill="none" stroke="#fca5a5" stroke-width="2"/>
+  <!-- UPPER HALF of the fang: RIGHT side of the threshold, tip flying on -->
+  <path d="M246 168 L258 122 C 262 108, 274 100, 286 104 C 298 108, 302 120, 296 132 L 274 176 L 260 186 Z"
+        fill="url(#bl757)" stroke="#ef4444" stroke-width="2.8"/>
+  <path d="M262 160 L280 118" stroke="#ffe4e6" stroke-width="1.8"/>
+  <path d="M254 172 L270 132" stroke="#4c0d13" stroke-width="1.6"/>
+  <!-- break face upper: matching jag, held APART across the doorway -->
+  <path d="M246 168 L252 162 L250 172 L258 168 L260 186" fill="none" stroke="#fca5a5" stroke-width="2"/>
+  <!-- the gap between halves crosses the open threshold: nothing forces them together -->
+  <path d="M190 206 L242 176" stroke="#64748b" stroke-width="1.4" stroke-dasharray="3 5" opacity=".7"/>
+  <!-- THE COERCIVE SEAL severed on the frame — not the doorway -->
+  <rect x="230" y="228" width="26" height="34" rx="3" fill="#0d0507" stroke="#64748b" stroke-width="1.8"/>
+  <path d="M236 238 L250 238 M236 246 L248 246 M236 254 L246 254" stroke="#64748b" stroke-width="1.2"/>
+  <path d="M228 226 L258 264" stroke="#f1df76" stroke-width="2.6"/>
+  <!-- both sides acknowledged: matched candle marks left and right of the door, neither pushed through -->
+  <path d="M158 140 L158 156 M154 156 L162 156" stroke="#fda4af" stroke-width="1.8"/>
+  <path d="M158 134 C 156 130, 158 126, 161 126 C 162 130, 161 133, 158 134 Z" fill="#fb923c"/>
+  <path d="M298 236 L298 252 M294 252 L302 252" stroke="#fda4af" stroke-width="1.8"/>
+  <path d="M298 230 C 296 226, 298 222, 301 222 C 302 226, 301 229, 298 230 Z" fill="#fb923c"/>
+  <!-- guard + grip on the lower half -->
+  <path d="M70 314 L112 336" stroke="#4c0d13" stroke-width="9" stroke-linecap="round"/>
+  <path d="M92 340 L74 380" stroke="#4c0d13" stroke-width="11" stroke-linecap="round"/>
+  <path d="M90 348 L80 344 M86 360 L76 356 M82 372 L72 368" stroke="#dc2626" stroke-width="2.4"/>
+  <path d="M70 388 a6 6 0 1 0 .1 0" fill="#1a0a0d" stroke="#fca5a5" stroke-width="2.2"/>
 </svg>

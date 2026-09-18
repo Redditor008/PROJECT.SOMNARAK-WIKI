@@ -19,6 +19,10 @@
 **Canonical ability:** Grants a minor boon tied to Relic of a Thousand Owners's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names Relic of a Thousand Owners's event—A relic passed from one exile to another until its history became a wandering figure.—and accepts this limit: Do not claim ownership; document its owners
 
+## Appearance
+
+The Flowing Charm is the gift record of the Relic of a Thousand Owners’ set — tail- slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to the Relic’s sorrow, shaped like the wandering it embodies. Binding names the source event — a relic passed from one exile to another until its history became a wandering figure — and accepts the set’s limit: do not claim ownership; document its owners. The cost arrives at night: the bearer weeps in their sleep, the carried exiles grieving on their own schedule, and continued use makes the sorrow feel autobiographical. The source-trace fixed doctrine: the gift reveals the chain of exiles who carried it — the full succession of hands made visible, exactly what the limit demands documented — and it marked the immediate hazard only after attribution to the Relic. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 4%  

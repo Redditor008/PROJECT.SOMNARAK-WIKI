@@ -19,6 +19,10 @@
 **Canonical ability:** Grants a minor boon tied to Miscast's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names Miscast's event—A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+The Torn Charm is the gift record of Miscast’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to Miscast’s sorrow, the artifact’s residue returning a usefulness shaped like its grievance. Binding is testimonial: the bearer names Miscast’s event — a Forge artifact was destroyed during a failed extraction, and its fragments kept the anger of the unfinished task — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is behavioral: the bearer’s temper shortens, the fragments’ impatience leaking into the carrier, and continued use makes the sorrow feel autobiographical. The source-trace fixed the doctrine: the gift reveals its former function — the purpose the failed extraction interrupted — and it stayed the immediate hazard only after the team attributed it to Miscast. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Tail / 5%  

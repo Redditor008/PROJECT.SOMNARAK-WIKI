@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Drowned Roots's kind of pressure.  
 **Binding rule:** the bearer names Drowned Roots's event—A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter.—and accepts this limit: Speak the soldier's duty without forcing a false name
 
+## Appearance
+
+The Drowned Roots Shroud is the suit record of the Drowned Roots set — γ-grade, Lament-aligned, resistant to Lament at 0.4 while enduring Weight at 0.8 and running weak to Void at 1.6, worn at 35 Sorrow Echoes a deployment — and its canonical ability grants resistance to Lament damage, protecting the Mind beneath branches grown from a duty nobody recorded. Binding names the source event — a soldier's name was erased from the war record, the forgotten duty growing into a tree-shaped specter — and accepts the set's limit: speak the soldier's duty without forcing a false name. The cost is anhedonia: the wearer becomes numb to minor joys while the Shroud is worn. The source-trace fixed doctrine: the specter tests whether the worker can remain beneath its branches, and the Shroud uncouples the hazard only after attribution to Drowned Roots. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

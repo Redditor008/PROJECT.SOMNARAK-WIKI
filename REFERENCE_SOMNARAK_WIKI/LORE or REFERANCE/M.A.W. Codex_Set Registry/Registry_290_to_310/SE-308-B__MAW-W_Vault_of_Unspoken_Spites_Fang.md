@@ -18,6 +18,10 @@ A crimson Han-iron fang with dark liquid moving away from the tip. It forms from
 
 Binding requires a provenance record and a non-person release target. During the *Third Deposit Return*, Durivel severed a decades-old labor grievance from the floor shadow and grounded it into a sealed review vessel. His old hand injuries bruised with the anger’s original strikes.
 
+## Appearance
+
+The Vault of Unspoken Spites Fang is a crimson fang of Han iron with dark liquid visibly moving away from the tip — stored anger in retreat, drawn back down the blade toward its record. It forms from dried runoff after a grievance leaves the Vault through acknowledgment rather than retaliation, and its binding requires a provenance record and a non-person release target. In use the Fang separates one stored grievance through up to three contaminated shadow layers — in its recorded case severing a decades-old labor grievance from a floor shadow and grounding it into a sealed review vessel — while aiming at a person makes them the grievance’s new container. The cost is somatic: old wounds ache, and prolonged use leaves bruising; the first wielder’s old hand injuries bruised with the anger’s original strikes. The nearest person becoming a release vessel is the scapegoat line; a grievance repeated as punishment is the retaliation edge; and missing provenance returning anger through the wielder is the ownerless rebound. It is maintained resting above its release record until the liquid retreats fully from the edge, deposit marks never polished away. Shutdown grounds it into an empty reviewed vessel and lowers it before any target is named.
+
 ## STATISTICS & FUNCTION
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |

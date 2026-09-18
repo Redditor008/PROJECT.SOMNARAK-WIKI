@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Bridge of the Unchosen's void signature in the strike.  
 **Binding rule:** the bearer names Bridge of the Unchosen's event—A person abandoned a crossing at the last moment; the path froze around the decision.—and accepts this limit: Acknowledge possibility without treating it as history
 
+## Appearance
+
+The Bridge of the Unchosen Lens is the weapon record of its source’s set, a Void instrument attacking the Soul by channeling the source’s void signature into the strike. Binding is testimonial: the bearer names the source event — a person abandoned a crossing at the last moment, and the path froze around the decision — and accepts the set’s limit: acknowledge possibility without treating it as history. The operational cost is the Void standard: the wielder loses small, nameless memories with each use, and continued use makes the sorrow feel autobiographical — the frozen decision thawing into the wielder’s own catalogue of last-moment turnings. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon stabilizes the immediate hazard only after attribution to the Bridge, and treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

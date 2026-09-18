@@ -34,6 +34,10 @@ The Shroud formed after a survey team recorded the trace names, stopped at the e
 
 **Rejection rule:** A wearer who tries to use the Shroud to explore beyond the agreed map boundary loses its Lament resistance and feels the full unfinished-arrival pressure.
 
+## Appearance
+
+The Trace Shroud is a blue shroud with a faint crystal route line running from collar to hem and ending before the floor. It never points toward Quagmire’s collapsed path unless a safe current route overlaps it. In active use the line becomes a visible return thread between the wearer and the current camp marker. At full activation, the route line brightens through one Quagmire disorientation event, guiding the wearer back to the current camp marker. The wearer has a map custodian, a physical return line, and a team count before entering Desolate route pressure. The wearer becomes numb to minor joys after too many lost-route surveys. Map custodian may order immediate return. The fabric is never stretched across the original broken trace. A wearer who tries to use the Shroud to explore beyond the agreed map boundary loses its Lament resistance and feels the full unfinished-arrival pressure. The custodian covers the forward line, calls camp coordinates, and removes the Shroud at the return marker during shutdown.
+
 ## PROTECTION STATISTICS
 
 > **Damage received = Base Damage × resistance multiplier**

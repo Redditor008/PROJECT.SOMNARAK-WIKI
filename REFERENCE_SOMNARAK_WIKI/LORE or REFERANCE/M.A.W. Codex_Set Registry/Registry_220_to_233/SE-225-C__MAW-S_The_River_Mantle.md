@@ -21,6 +21,10 @@ The Mantle binds to a wearer who accepts that the task is passage, not containme
 
 Iseulfros wore it during the access-bridge shift. The cloth dispersed the current around her legs while she reopened the return trench. She remained standing, but carried river-like fatigue for nine days and slept facing downstream.
 
+## Appearance
+
+The River Mantle is a breathing drape of matte black Han-weave whose hem flows downstream even in still air — the cloth always knows the direction of the current. Its inner surface feels like stone worn smooth by water, and it condenses from vapor above an authorized sluice return; no thread of it crosses the sealed River boundary. It binds to a wearer who accepts that the task is passage, not containment, and it rejects any deployment plan that promises to halt Black River. Worn in moving Weight, the cloth divides the current around the wearer and rejoins it behind them — banked passage, not a dam — and the effect gives no protection if both sides are sealed. The cost settles in the legs: constant low fatigue that becomes undertow, and rest does not help until all received burden has passed downstream. Bracing in place makes the cloth rigid and raises local pressure. It is maintained spread along — never across — the return trench until the fabric lifts downstream at every point. Removal is walking with the flow until the collar loosens; pulling it off facing upstream transfers the current into the chest.
+
 ## PROTECTION FILE
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |

@@ -39,6 +39,10 @@
 
 **Rejection rule:** A bearer who intends to hold an unsupported structure alone finds the maul head fuse to the ground and feels the source’s permanent-support pressure.
 
+## Appearance
+
+The Rusted Maul is a small black maul with rust lines that appear only when a nearby support is overloaded. The Maul cannot lift until the bearer names what will take the load after the strike. In active use the head sends a short dark brace line from one stressed point to a prepared replacement. At full activation, the Maul creates a brief brace across one failing point and transfers the load into the prepared replacement. The bearer has a repair plan and relief team ready before activating the Maul. The bearer grows heavier and prolonged use causes slight aging. Every brace strike must end in structural or team replacement. Rust line fades only after the support handoff is verified. The Maul is never left propping a structure after personnel depart. A bearer who intends to hold an unsupported structure alone finds the maul head fuse to the ground and feels the source’s permanent-support pressure. The repair lead confirms the replacement, covers the rust line, and lifts the Maul away with the bearer during shutdown.
+
 ## CORE STATISTICS
 
 | Field | Record |

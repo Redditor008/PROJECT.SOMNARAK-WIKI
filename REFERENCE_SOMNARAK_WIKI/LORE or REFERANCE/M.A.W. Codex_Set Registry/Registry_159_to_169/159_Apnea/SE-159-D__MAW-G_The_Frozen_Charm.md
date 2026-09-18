@@ -39,6 +39,10 @@
 
 **Rejection rule:** If used only to document fatigue without acting, the Charm’s frost spreads into the bearer’s temper and makes every command sound like coercion.
 
+## Appearance
+
+The Frozen Charm is a small crimson charm with a frost crack across its center. It stays cold unless the bearer is willing to call for relief rather than merely observe the warning. In active use the crack points toward the first moment a worker’s fatigue becomes a safety risk. At full activation, the Charm makes the fatigue risk visible to the relief authority and marks the first safe handoff point. The bearer has authority to trigger relief or a direct line to someone who does. It carries no Echo cost, but suppression danger becomes emotionally vivid. The Charm is stored only after the record names an actual improvement, not merely a warning issued. If used only to document fatigue without acting, the Charm’s frost spreads into the bearer’s temper and makes every command sound like coercion. The relief authority covers the frost crack, states the handoff, and removes the Charm during shutdown.
+
 ## GIFT STATISTICS
 
 | Field | Record |

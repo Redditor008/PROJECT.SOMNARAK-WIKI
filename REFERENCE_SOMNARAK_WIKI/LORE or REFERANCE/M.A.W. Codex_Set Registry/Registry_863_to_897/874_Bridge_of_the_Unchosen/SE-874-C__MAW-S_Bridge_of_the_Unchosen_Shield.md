@@ -19,6 +19,10 @@
 **Canonical ability:** Allows a brief crossing through emotional obstruction.  
 **Binding rule:** the bearer names Bridge of the Unchosen's event—A person abandoned a crossing at the last moment; the path froze around the decision.—and accepts this limit: Acknowledge possibility without treating it as history
 
+## Appearance
+
+The Bridge of the Unchosen Shield is the suit record of its source’s set, and its canonical ability is passage: it allows a brief crossing through emotional obstruction, the frozen bridge briefly walkable for someone who does not mistake the far side for a life owed. Binding is testimonial: the wearer names the source event — a person abandoned a crossing at the last moment, and the path froze around the decision — and accepts the set’s limit: acknowledge possibility without treating it as history. The operational cost is the weight of every road not taken — the Shield’s crossings paid for in the accumulated heaviness of alternatives — and continued use makes the sorrow feel autobiographical. The source-trace set the doctrine: the suit tests whether the worker can cross without claiming the alternative life — transit permitted, tenancy refused — and it severed the immediate hazard only after attribution to the Bridge. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

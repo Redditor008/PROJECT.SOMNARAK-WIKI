@@ -14,6 +14,10 @@
 
 A crimson Han-iron fang with frozen light beneath its edge. Extraction required a complete direct-gaze cycle followed by deliberate nonviolence. Binding accepts a wielder who names anger, owner, and confirmed target separately.
 
+## Appearance
+
+The Frozen Fang is a crimson fang of Han iron with frozen light held beneath its edge — illumination arrested mid-flare like the source’s anger. Extraction required a full direct-gaze cycle and deliberate nonviolence, and binding accepts only a wielder who names anger, owner, and confirmed target separately — three declarations, never one accusation. In use, its Confirmed Edge damages one designated physical threat at full force; but during an active reflection it instead attacks whoever the wielder assumes caused the anger, assumption itself becoming the targeting system. Each swing makes old wounds ache, and prolonged use leaves mirror-shaped bruises. In its recorded case a patrol viewer was intercepted before it reached an innocent escort — when the viewer looked away, the blade lost its target and exposed a crack in the actual hostile ice shard, and the delayed strike ended the activation without harming the reflected stranger. Corrosion runs from calling anger proof, through frost crossing the weapon hand, to a terminal state where every face becomes an enemy reflection. It is maintained by thawing only the hilt with body heat and logging the confirmed target after every use; a premature strike redirects at a presumed offender, and striking the mirror multiplies rage-shards.
+
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | α / Grudge | 3–6 | 2 / 2 | Single | 5 / 15 Echoes |

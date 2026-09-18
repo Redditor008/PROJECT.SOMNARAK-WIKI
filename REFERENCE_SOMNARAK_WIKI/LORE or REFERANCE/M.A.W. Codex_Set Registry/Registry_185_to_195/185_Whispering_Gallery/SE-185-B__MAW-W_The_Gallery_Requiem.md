@@ -16,6 +16,10 @@
 
 A blue blade formed from a paint echo after a verified name and an explicit unknown were preserved beside a faceless frame. It binds only to a bearer working under Archive witness; trying to force a portrait to yield a full biography turns the blade silent.
 
+## Appearance
+
+The Gallery Requiem is a blue blade with the texture of layered paint rather than polished crystal: its flat carries fine brush-stroke ridges, and close to the guard the color deepens as if a portrait’s background had been dragged down the steel. It was formed from a paint echo after a verified name and an explicit unknown were preserved beside a faceless frame, and the blade remembers that origin — it binds only to a bearer working under Archive witness, and it turns silent in the hand of anyone forcing a portrait to yield a full biography. Drawn before a whispering frame, the edge steadies the air so one forgotten history becomes emotionally legible, without compelling a living witness and without inventing a single missing detail. The bearer receives the Gallery’s unwept grief in exchange, and repeated use brings involuntary weeping. Paint-like blue marks surface along the flat when the bearer wants an answer too badly, and the blade is maintained with a known/unknown custody card between uses. The Archive witness cases the blade and names the unresolved field during shutdown.
+
 ## CORE STATISTICS
 
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |
