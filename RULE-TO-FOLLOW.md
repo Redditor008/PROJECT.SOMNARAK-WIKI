@@ -3,8 +3,8 @@
 **Authority:** Direct project-owner instruction (last updated 2026-09-01)
 **Status:** Mandatory for every AI, coding session, pull request, and deployment
 **Repository:** `Redditor008/PROJECT.SOMNARAK-WIKI`
-**Integration branch:** `main`
-**Public acceptance URL:** <https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/>
+**Integration branches:** `main` (for public web wiki) / `NON-WIKI` (for standalone reference archive)
+**Public acceptance URL:** <https://redditor008.github.io/PROJECT.SOMNARAK-WIKI/> (for `main`)
 **Supersedes:** `RULE-TO-FOLLOW.md` (v1). Where any older file or instruction conflicts with this file, **this file wins**.
 
 Read this file before changing anything. These rules are not optional. Content, canon, placement, and visual-quality rules in the referenced standards remain binding.
@@ -131,16 +131,17 @@ Read this file before changing anything. These rules are not optional. Content, 
 
 ---
 
-## 1. Use `main` as the permanent integration branch
+## 1. Permanent integration branches (`main` and `NON-WIKI`)
 
-1. `main` receives completed work.
-2. Do not rename a temporary branch to `main`, replace or delete `main`, create extra branches, use branch chains, or force-push.
-3. Arena may create and lock a session branch. When it does:
-   - stay on that branch,
+1. `main` receives completed work for the public web wiki (`docs/`).
+2. `NON-WIKI` receives completed work for the pure canon lore & reference repository (`REFERENCE_SOMNARAK_WIKI/`).
+3. Do not rename a temporary branch, replace or delete integration branches, create extra branches, use branch chains, or force-push.
+4. Arena may create and lock a session branch. When working on `NON-WIKI`:
+   - stay on that assigned branch,
    - create no other branch,
    - commit and push only that branch,
-   - open one PR from it into `main`.
-4. Direction: `main ← assigned branch`. Never reverse.
+   - open PR targeting `base: NON-WIKI` (never `main`, keeping the web wiki and reference repository cleanly decoupled).
+5. Direction: target integration branch ← assigned branch. Never reverse.
 
 ---
 
@@ -237,6 +238,15 @@ Standards live in:
 
 ## 7. Required checks before merge
 
+### For `NON-WIKI` branch (Canon Lore & Reference Archive):
+From the repository root:
+```bash
+python3 tools/audit_lore_archive.py
+git diff --check
+```
+All checks must output `PASS` and `git diff --check` must be completely clean.
+
+### For `main` branch (Web Wiki Frontend):
 From the repository root:
 ```bash
 python3 tools/audit_page_word_floor.py
@@ -250,7 +260,7 @@ node --check docs/assets/js/wiki.js
 git diff --check
 ```
 
-For website-wide chrome changes, also serve `docs/` locally and confirm all 197 HTML routes return HTTP 200, and visually review desktop + mobile widths when browser tooling is available.
+For website-wide chrome changes on `main`, also serve `docs/` locally and confirm all 197 HTML routes return HTTP 200, and visually review desktop + mobile widths when browser tooling is available.
 
 Do not merge known failures. Do not hide failed checks. Do not report local validation as live-site verification.
 
@@ -264,10 +274,10 @@ Active branch: <name>
 Commit: <full or short SHA>
 Push: <pushed / NOT PUSHED (state exact blocker)>
 Pull request: <none / URL / CLOSED-NOT-MERGED>
-Merged into main: <yes / no>
-Pages source: <branch:/path or unverified>
-Live verification URL: <URL or not verified>
-Distinctive live marker: <marker or not verified>
+Merged into target branch: <yes / no>
+Pages source: <branch:/path or not applicable for NON-WIKI>
+Live verification URL: <URL or not applicable for NON-WIKI>
+Distinctive live marker: <marker or not applicable for NON-WIKI>
 Temporary branch deleted: <yes / no>
 Working tree clean: <yes / no>
 Checks: <passed checks and any failures>
