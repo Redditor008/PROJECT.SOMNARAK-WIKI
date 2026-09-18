@@ -1,32 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="VELLUM MAN&#x27;S EDGE">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // BLADE -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="VELLUM MAN'S EDGE">
   <defs>
-    <radialGradient id="bga99d5a" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bg900" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#0a1626"/>
+      <stop offset="100%" stop-color="#050a14"/>
     </radialGradient>
-    <radialGradient id="gla99d5a" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#3e8bd5" stop-opacity=".2"/>
+    <radialGradient id="gl900" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#1d4ed8" stop-opacity=".20"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="vellum900" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fef3c7"/>
+      <stop offset="50%" stop-color="#fde68a"/>
+      <stop offset="100%" stop-color="#92400e"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bga99d5a)" stroke="#3e8bd5" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg900)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="130" fill="url(#gla99d5a)"/>
-  <g transform="rotate(3 200.0 192.0)">
-<path d="M185.0 192.0 L193.7 75.36 L200.0 30.0 L206.3 85.08 L215.0 192.0 Z" fill="#3e8bd5" fill-opacity=".24" stroke="#3e8bd5" stroke-width="3"/>
-<path d="M200.0 192.0 L200.0 30.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".8"/>
-<rect x="192.5" y="98.0" width="15.0" height="68.0" fill="none" stroke="#3e8bd5" stroke-width="1" opacity=".45"/>
-<rect x="175.0" y="187.0" width="50.0" height="10" rx="4" fill="#3e8bd5" fill-opacity=".45"/>
-<rect x="193.0" y="196.0" width="14" height="49.0" rx="5" fill="#1f2937" stroke="#3e8bd5" stroke-width="2"/>
-<circle cx="200.0" cy="257.0" r="6.0" fill="#3e8bd5" fill-opacity=".7"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gl900)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+  <!-- VELLUM MAN'S EDGE: vellum scroll blade — tale register -->
+  <path d="M174 36 L 226 36 L 226 52 L 174 52 Z" fill="#78350f" stroke="#92400e" stroke-width="1.2"/>
+  <path d="M174 36 C 174 28, 226 28, 226 36" fill="#fde68a" stroke="#92400e" stroke-width="1.2"/>
+  <circle cx="186" cy="36" r="5" fill="#1e293b" stroke="#92400e" stroke-width="1"/>
+  <circle cx="214" cy="36" r="5" fill="#1e293b" stroke="#92400e" stroke-width="1"/>
+  <path d="M178 52 L 178 252 L 200 272 L 222 252 L 222 52 Z" fill="url(#vellum900)" stroke="#92400e" stroke-width="2"/>
+  <g stroke="#78350f" stroke-width="1" opacity=".5">
+    <path d="M184 72 L 216 72"/><path d="M184 96 L 216 96"/><path d="M184 120 L 216 120"/><path d="M184 144 L 216 144"/><path d="M184 168 L 216 168"/><path d="M184 192 L 216 192"/>
   </g>
-  <g transform="rotate(-2 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
-  </g>
-  <g transform="rotate(-7 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#3e8bd5" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#3e8bd5">MAW-W-900-01</text>
+  <path d="M188 76 L 192 88 L 188 100" fill="none" stroke="#92400e" stroke-width="1.2"/>
+  <path d="M200 148 L 200 272" stroke="#f1df76" stroke-width="1.2" opacity=".6"/>
+  <text x="186" y="216" fill="#78350f" font-family="monospace" font-size="5">TALE</text>
+  <path d="M170 252 L 230 252 L 228 268 L 172 268 Z" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
+  <path d="M184 268 L 184 316 C 184 324, 216 324, 216 316 L 216 268 Z" fill="#1e293b" stroke="#92400e" stroke-width="1.4"/>
+  <circle cx="200" cy="328" r="7" fill="#78350f" stroke="#f1df76" stroke-width="1"/>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#38bdf8">MAW-W-900-01</text>
 </svg>

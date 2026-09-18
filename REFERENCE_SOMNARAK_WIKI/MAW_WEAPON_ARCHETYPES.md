@@ -345,3 +345,22 @@ Batch-16 additions (2026-09-06, second full-variety sweep — 12 mutually distin
 | MAW-W-897 The Broken Fang | Brick Wall-Breaker Fang (brick courses sheared diagonally, rebar, exposed surge interior, EXPOSED plate) | Medium (source: 3/3 Pierce) |
 
 Batch-16 form notes: second sweep expands scope to ALL remaining old-template weapons (in-scope + 1000-series) per owner clarification; 4 lenses differentiated by interior (ghost tower vs fork vs tear vs breath cloud; lens-to-lens diffs 0.027–0.051), 3 fangs differentiated (needle sigh vs lattice overload vs wall breaker; fang-to-fang 0.028–0.063), 5 requiem/bridge forms all distinct (suspension vs split crystal vs pillar vs locket vs comparison).
+
+Batch-17 additions (2026-09-06, Edge family — 12 distinct Edge silhouettes for the generic 900-series):
+
+| Item | Archetype (new distinct build) | Band (source) |
+| --- | --- | --- |
+| MAW-W-900 Vellum Man's Edge | Vellum Scroll Blade (rolled cap with side posts, tall vellum sheet with tale lines, TALE plate) | Short (source: 2/2 Single) |
+| MAW-W-901 Duri's Heart's Edge | Heart-Shaped Cleaver (double-lobe heart blade, seam line, centered heart core) | Short (source: 2/2 Single) |
+| MAW-W-902 Goru's Fist's Edge | Knuckle Fist Blade (flat slab with three finger-groove blocks, red fuller) | Short (source: 2/2 Single) |
+| MAW-W-903 Glass Elsewhere's Edge | Angular Glass Shard (diamond shard, transparent, facet lines, phantasmal center) | Short (source: 2/2 Single) |
+| MAW-W-904 Thinking Engine's Edge | Gear-Toothed Blade (vertical slab with side gear teeth, central cog, spokes) | Short (source: 2/2 Single) |
+| MAW-W-905 Lacrima's Edge | Tear-Wrapped Droplet (silhouette wrapped around a core tear, inner highlight) | Short (source: 2/2 Single) |
+| MAW-W-906 Grimoire's Edge | Folio Blade (book block with central spine, double pages with citation ticks) | Short (source: 2/2 Single) |
+| MAW-W-907 Breathing Stone's Edge | Breathing Stone Slab (stone slab with horizontal strata, central vent slit, glow) | Short (source: 2/2 Single) |
+| MAW-W-908 Unwaking Block's Edge | Sleeping Block (isometric block with top face, sleep Zzz) | Short (source: 2/2 Single) |
+| MAW-W-909 Dormant Monolith Lens | Monolith Pillar Lens (tall pillar with top cap, central viewfinder; lens not edge) | Medium (source: 3/3 Pierce) |
+| MAW-W-910 Moktak's Edge | Wooden Fish Temple Block (moktak barrel with slit and fish mouth, side straps) | Short (source: 2/2 Single) |
+| MAW-W-911 Never Discharged's Edge | Sheathed Service Blade (sheathed slab with strap plates, loaded red core, still sheathed) | Short (source: 2/2 Single) |
+
+Batch-17 form notes: all 12 Edges are Short single except 909 (Medium Pierce lens); variety achieved by material (vellum/heart/knuckle/glass/gear/tear/folio/stone/block/wood/service) — no two share a silhouette.
