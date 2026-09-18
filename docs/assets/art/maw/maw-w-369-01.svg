@@ -1,47 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="SUSURRUS'S REQUIEM">
   <defs>
-    <radialGradient id="bw369" cx="44%" cy="42%" r="66%">
-      <stop offset="0%" stop-color="#0a1626"/>
-      <stop offset="100%" stop-color="#050a14"/>
+    <radialGradient id="bw369" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <linearGradient id="bl369" x1="0" y1="1" x2="1" y2="0">
-      <stop offset="0" stop-color="#1d4ed8"/>
-      <stop offset="1" stop-color="#7dd3fc"/>
+    <radialGradient id="gw369" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gs369" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#0c4a6e"/>
     </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw369)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gw369)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- flamberge blade: undulating wet edges, vertical -->
-  <path d="M200 66 C 212 82, 216 96, 208 112 C 200 128, 200 140, 210 154 C 220 168, 220 182, 210 196 C 200 210, 200 224, 210 238 C 218 250, 218 262, 212 274 L 188 274 C 182 262, 182 250, 190 238 C 200 224, 200 210, 190 196 C 180 182, 180 168, 190 154 C 200 140, 200 128, 192 112 C 184 96, 188 82, 200 66 Z"
-        fill="url(#bl369)" stroke="#38bdf8" stroke-width="2.6"/>
-  <path d="M200 78 C 206 92, 206 100, 200 114 C 194 128, 194 142, 200 156 C 206 170, 206 184, 200 198 C 194 212, 194 226, 200 240 C 205 251, 205 260, 202 268" fill="none" stroke="#7dd3fc" stroke-width="1.6" opacity=".9"/>
+  <!-- SUSURRUS'S REQUIEM: flamberge with wet wavy edges; word-debris held apart, never assembled -->
+  <path d="M200 54 C 214 74 226 88 218 106 C 212 120 212 132 220 146 C 226 158 226 172 216 186 C 208 198 208 210 216 222 C 222 232 222 242 214 250 L 186 250 C 178 242 178 232 184 222 C 192 210 192 198 184 186 C 174 172 174 158 180 146 C 188 132 188 120 182 106 C 174 88 186 74 200 54 Z"
+        fill="url(#gs369)" stroke="#7dd3fc" stroke-width="2.8"/>
+  <path d="M200 70 C 210 86 212 104 204 118 M200 128 C 192 142 192 154 200 168 M200 180 C 208 192 208 204 200 216 M200 228 C 194 238 194 244 196 248" fill="none" stroke="#bae6fd" stroke-width="1.3" opacity=".85"/>
   <!-- wet edge: drops sliding off the waves -->
-  <path d="M219 162 c 0 6, -8 6, -8 0 c 0 -4, 4 -8, 4 -8 c 0 0, 4 4, 4 8" fill="#7dd3fc" opacity=".9"/>
-  <path d="M186 226 c 0 5, -7 5, -7 0 c 0 -3, 3.5 -7, 3.5 -7 c 0 0, 3.5 4, 3.5 7" fill="#7dd3fc" opacity=".75"/>
-  <!-- collapse shards: word-debris held APART in three separate zones, never assembled -->
-  <path d="M112 116 l 14 -8 l 2 14 Z" fill="#050a14" stroke="#7dd3fc" stroke-width="1.6"/>
-  <path d="M96 148 l 12 -4 l -2 12 Z" fill="#050a14" stroke="#38bdf8" stroke-width="1.4"/>
-  <circle cx="116" cy="134" r="17" fill="none" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="4 4"/>
-  <path d="M286 142 l 13 -9 l 3 13 Z" fill="#050a14" stroke="#7dd3fc" stroke-width="1.6"/>
-  <circle cx="292" cy="140" r="15" fill="none" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="4 4"/>
-  <path d="M290 224 l 12 -5 l -1 12 Z" fill="#050a14" stroke="#38bdf8" stroke-width="1.4"/>
-  <circle cx="294" cy="226" r="14" fill="none" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="4 4"/>
-  <!-- no sentence assembly: connecting line between zones crossed out -->
-  <path d="M132 132 C 190 120, 240 124, 278 138" fill="none" stroke="#475569" stroke-width="1.2" stroke-dasharray="5 4" opacity=".7"/>
-  <path d="M196 116 l 14 18 M210 116 l -14 18" stroke="#38bdf8" stroke-width="1.8" opacity="0"/>
-  <path d="M198 40 l 0 0" stroke="none"/>
-  <path d="M158 108 l 16 14 M174 108 l -16 14" stroke="#38bdf8" stroke-width="2"/>
-  <!-- the unfinished sentence: text line that stops, honored with silence mark -->
-  <rect x="64" y="284" width="60" height="16" rx="2" fill="#050a14" stroke="#7dd3fc" stroke-width="1.4"/>
-  <path d="M72 292 h28" stroke="#7dd3fc" stroke-width="1.3"/>
-  <path d="M106 288 v8" stroke="#1d4ed8" stroke-width="2"/>
-  <!-- guard: two downswept listening curves -->
-  <path d="M160 276 C 176 288, 224 288, 240 276 C 244 284, 240 292, 228 294 L 172 294 C 160 292, 156 284, 160 276 Z" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
-  <path d="M194 294 L 191 348 L 209 348 L 206 294 Z" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
-  <path d="M193 308 h14 M192 322 h15 M192 336 h15" stroke="#1d4ed8" stroke-width="1.6"/>
-  <circle cx="200" cy="356" r="6" fill="none" stroke="#38bdf8" stroke-width="1.8"/>
+  <g fill="#7dd3fc">
+    <path d="M226 152 c 0 6 -8 6 -8 0 c 0 -4 4 -8 4 -8 c 0 0 4 4 4 8"/>
+    <path d="M178 212 c 0 5 -7 5 -7 0 c 0 -3 3.5 -7 3.5 -7 c 0 0 3.5 4 3.5 7"/>
+  </g>
+  <!-- three collapse shards, held in separate dashed zones -->
+  <g fill="#082f49" stroke="#7dd3fc" stroke-width="1.5">
+    <path d="M112 112 l 15 -8 l 2 14 Z"/><circle cx="116" cy="112" r="17" fill="none" stroke="#0c4a6e" stroke-width="1.1" stroke-dasharray="4 4"/>
+    <path d="M288 160 l 13 -9 l 3 13 Z"/><circle cx="291" cy="157" r="15" fill="none" stroke="#0c4a6e" stroke-width="1.1" stroke-dasharray="4 4"/>
+    <path d="M286 250 l 12 -5 l -1 12 Z"/><circle cx="290" cy="252" r="14" fill="none" stroke="#0c4a6e" stroke-width="1.1" stroke-dasharray="4 4"/>
+  </g>
+  <!-- the sentence-line never drawn: crossing it out -->
+  <path d="M130 108 C 190 96 240 100 274 154" fill="none" stroke="#0c4a6e" stroke-width="1.2" stroke-dasharray="5 4" opacity=".7"/>
+  <path d="M186 96 l 14 16 M200 96 l -14 16" stroke="#38bdf8" stroke-width="1.8"/>
+  <!-- unfinished sentence honored with a rest -->
+  <rect x="150" y="292" width="42" height="12" rx="2" fill="#082f49" stroke="#f1df76" stroke-width="1.3"/>
+  <path d="M156 298 h30" stroke="#f1df76" stroke-width="1.3"/>
+  <!-- guard + grip -->
+  <path d="M160 250 C 178 264 222 264 240 250 C 244 258 240 266 228 268 L 172 268 C 160 266 156 258 160 250 Z" fill="#082f49" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="190" y="268" width="20" height="56" rx="6" fill="#082f49" stroke="#38bdf8" stroke-width="2.2"/>
+  <path d="M192 282 L 208 288 M192 298 L 208 304" stroke="#7dd3fc" stroke-width="1.4" opacity=".8"/>
+  <circle cx="200" cy="340" r="6" fill="#082f49" stroke="#f1df76" stroke-width="1.8"/>
 
 </svg>

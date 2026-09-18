@@ -1,45 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE MELTING REQUIEM">
   <defs>
-    <radialGradient id="bw447" cx="44%" cy="42%" r="66%">
-      <stop offset="0%" stop-color="#0a1626"/>
-      <stop offset="100%" stop-color="#050a14"/>
+    <radialGradient id="bw447" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <linearGradient id="bl447" x1="0" y1="1" x2="1" y2="0">
-      <stop offset="0" stop-color="#1d4ed8"/>
-      <stop offset="1" stop-color="#7dd3fc"/>
+    <radialGradient id="gw447" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gs447" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#0c4a6e"/>
     </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw447)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gw447)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- solid lower blade, leaning diagonal -->
-  <path d="M160 318 L 148 308 C 172 270, 196 232, 218 196 L 246 214 C 226 250, 204 288, 178 326 Z"
-        fill="url(#bl447)" stroke="#38bdf8" stroke-width="2.6"/>
-  <path d="M162 302 C 184 268, 206 234, 226 204" fill="none" stroke="#7dd3fc" stroke-width="1.6" opacity=".85"/>
-  <!-- mid blade: edges going soft, first drips leaving -->
-  <path d="M218 196 C 232 172, 246 150, 258 132 L 282 148 C 272 164, 260 182, 246 214 Z"
-        fill="url(#bl447)" stroke="#38bdf8" stroke-width="2" opacity=".75"/>
-  <path d="M262 176 c 0 7, -9 7, -9 0 c 0 -4, 4.5 -9, 4.5 -9 c 0 0, 4.5 5, 4.5 9" fill="#7dd3fc" opacity=".9"/>
-  <!-- the TIP: fully melted into falling droplets — never the same edge twice -->
-  <path d="M258 132 C 268 118, 278 106, 288 96" fill="none" stroke="#38bdf8" stroke-width="1.6" stroke-dasharray="4 5" opacity=".7"/>
-  <path d="M281 112 c 0 8, -10 8, -10 0 c 0 -5, 5 -10, 5 -10 c 0 0, 5 5, 5 10" fill="#38bdf8"/>
-  <path d="M300 98 c 0 6, -8 6, -8 0 c 0 -4, 4 -8, 4 -8 c 0 0, 4 4, 4 8" fill="#7dd3fc"/>
-  <path d="M296 134 c 0 5, -7 5, -7 0 c 0 -3, 3.5 -7, 3.5 -7 c 0 0, 3.5 4, 3.5 7" fill="#38bdf8" opacity=".8"/>
-  <path d="M312 118 c 0 4, -6 4, -6 0 c 0 -3, 3 -6, 3 -6 c 0 0, 3 3, 3 6" fill="#7dd3fc" opacity=".7"/>
-  <!-- circulation: drops travel DOWN past the blade back to the guard -->
-  <path d="M310 130 C 322 176, 314 240, 268 300" fill="none" stroke="#1d4ed8" stroke-width="1.6" stroke-dasharray="5 5"/>
-  <path d="M268 300 l 9 -3 M268 300 l 2 -9" stroke="#1d4ed8" stroke-width="1.4"/>
-  <path d="M318 168 c 0 5, -7 5, -7 0 c 0 -3, 3.5 -7, 3.5 -7 c 0 0, 3.5 4, 3.5 7" fill="#1d4ed8" opacity=".8"/>
-  <path d="M316 226 c 0 5, -7 5, -7 0 c 0 -3, 3.5 -7, 3.5 -7 c 0 0, 3.5 4, 3.5 7" fill="#38bdf8" opacity=".7"/>
-  <!-- REFORMING at the guard: fresh angular facets accreting -->
-  <path d="M236 286 L 252 272 L 258 288 L 244 296 Z" fill="#050a14" stroke="#7dd3fc" stroke-width="1.8"/>
-  <path d="M222 306 L 236 296 L 240 310 Z" fill="#050a14" stroke="#7dd3fc" stroke-width="1.6"/>
-  <path d="M246 274 l 6 -6 M256 292 l 8 -2" stroke="#7dd3fc" stroke-width="1.2" opacity=".8"/>
-  <!-- guard + grip -->
-  <path d="M136 330 L 186 318 L 190 330 L 140 342 Z" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
-  <path d="M150 340 L 128 372 L 114 362 L 138 332 Z" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
-  <path d="M136 348 l 10 7 M128 358 l 10 7" stroke="#1d4ed8" stroke-width="1.6"/>
+  <!-- MELTING REQUIEM: blade in circulation — solid at guard, soft mid, tip dissolved into drops -->
+  <path d="M200 70 L 230 102 C 240 128 236 154 224 176 C 216 188 210 198 210 208 C 210 218 214 228 216 236 L 184 236 C 186 228 190 218 190 208 C 190 198 184 188 176 176 C 164 154 160 128 170 102 Z"
+        fill="url(#gs447)" stroke="#7dd3fc" stroke-width="2.8"/>
+  <path d="M200 84 C 220 96 224 126 218 156 C 213 178 206 196 200 212" fill="none" stroke="#bae6fd" stroke-width="1.3" opacity=".85"/>
+  <!-- softened mid-blade: sagging droop lines -->
+  <g fill="none" stroke="#0c4a6e" stroke-width="1.2" opacity=".8">
+    <path d="M176 150 c 4 8 6 16 4 24 M224 150 c -4 8 -6 16 -4 24"/>
+  </g>
+  <!-- the tip dissolved: falling drops -->
+  <g fill="#7dd3fc">
+    <circle cx="226" cy="88" r="4.5"/><circle cx="236" cy="104" r="3.4"/><circle cx="242" cy="122" r="2.6"/>
+    <circle cx="170" cy="96" r="3.4"/><circle cx="162" cy="112" r="2.6"/>
+  </g>
+  <!-- circulation path: dashed circuit returning the melt to the guard -->
+  <path d="M244 128 C 282 150 296 196 270 236" fill="none" stroke="#7dd3fc" stroke-width="1.4" stroke-dasharray="5 4"/>
+  <path d="M270 236 l -16 8 l 8 -16" fill="none" stroke="#7dd3fc" stroke-width="1.4"/>
+  <!-- fresh facets accreting at the guard -->
+  <g fill="#082f49" stroke="#7dd3fc" stroke-width="1.3">
+    <path d="M166 240 l 14 10 l -6 8 Z"/><path d="M234 240 l -14 10 l 6 8 Z"/>
+  </g>
+  <!-- obsolete dream route: crossed out -->
+  <path d="M116 120 C 128 116 140 118 148 126" fill="none" stroke="#0c4a6e" stroke-width="1.4" stroke-dasharray="4 3"/>
+  <path d="M112 112 L 152 132 M152 112 L 112 132" stroke="#38bdf8" stroke-width="1.8"/>
+  <!-- grip -->
+  <rect x="190" y="242" width="20" height="56" rx="6" fill="#082f49" stroke="#38bdf8" stroke-width="2.2"/>
+  <path d="M192 256 L 208 262 M192 272 L 208 278" stroke="#7dd3fc" stroke-width="1.4" opacity=".8"/>
+  <circle cx="200" cy="314" r="6" fill="#082f49" stroke="#f1df76" stroke-width="1.8"/>
 
 </svg>

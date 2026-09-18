@@ -1,47 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE SEVERED REQUIEM">
   <defs>
-    <radialGradient id="bw723" cx="44%" cy="42%" r="66%">
-      <stop offset="0%" stop-color="#0a1626"/>
-      <stop offset="100%" stop-color="#050a14"/>
+    <radialGradient id="bw723" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#030712"/>
     </radialGradient>
-    <linearGradient id="bl723" x1="0" y1="1" x2="1" y2="0">
-      <stop offset="0" stop-color="#1d4ed8"/>
-      <stop offset="1" stop-color="#7dd3fc"/>
+    <radialGradient id="gw723" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gs723" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#0c4a6e"/>
     </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw723)" stroke="#38bdf8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gw723)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#090d16" stroke="#38bdf8" stroke-width="1.2"/>
   <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- straight double-edged blade, vertical -->
-  <path d="M200 62 L 216 96 L 212 296 L 188 296 L 184 96 Z" fill="url(#bl723)" stroke="#38bdf8" stroke-width="2.6"/>
-  <path d="M200 70 L 200 292" stroke="#7dd3fc" stroke-width="1.8" opacity=".9"/>
-  <path d="M191 110 L 190 284 M209 110 L 210 284" stroke="#1d4ed8" stroke-width="1" opacity=".8"/>
-  <!-- the bond: slack rope coiled LOOSELY around the blade, sagging, intact -->
-  <path d="M138 140 C 168 156, 232 156, 264 138" fill="none" stroke="#fb923c" stroke-width="3.4" stroke-linecap="round"/>
-  <path d="M264 138 C 244 128, 156 128, 138 140" fill="none" stroke="#fb923c" stroke-width="2" stroke-dasharray="5 4" opacity=".6"/>
-  <path d="M146 196 C 172 216, 228 216, 258 194" fill="none" stroke="#fb923c" stroke-width="3.4" stroke-linecap="round"/>
-  <path d="M258 194 C 240 184, 162 184, 146 196" fill="none" stroke="#fb923c" stroke-width="2" stroke-dasharray="5 4" opacity=".6"/>
-  <path d="M154 252 C 178 274, 224 274, 250 250" fill="none" stroke="#fb923c" stroke-width="3.4" stroke-linecap="round"/>
-  <path d="M156 148 l 6 4 M170 208 l 6 4 M180 264 l 6 4 M242 146 l -6 4 M232 204 l -6 4 M226 262 l -6 4" stroke="#92400e" stroke-width="1.4"/>
-  <!-- the vanished person's end: rises and simply ends in open air, honest -->
-  <path d="M264 138 C 282 126, 294 110, 300 92" fill="none" stroke="#fb923c" stroke-width="3" stroke-linecap="round"/>
-  <path d="M300 92 C 304 82, 306 74, 307 66" fill="none" stroke="#fb923c" stroke-width="2" stroke-dasharray="3 6" opacity=".7"/>
-  <path d="M303 90 l 7 -2 M300 86 l 6 -5" stroke="#92400e" stroke-width="1.2"/>
-  <!-- the compulsive HAUL-LINE: taut, straight, severed gold -->
-  <path d="M212 232 L 344 210" stroke="#1d4ed8" stroke-width="2.6"/>
-  <path d="M270 228 L 282 214" stroke="#f1df76" stroke-width="2.8"/>
-  <path d="M262 218 l 6 -4 M288 228 l 5 -5" stroke="#f1df76" stroke-width="1.4"/>
-  <path d="M344 210 l -8 -5 M344 210 l -9 3" stroke="#1d4ed8" stroke-width="1.6"/>
-  <!-- no-retrieval vow plate -->
-  <rect x="300" y="316" width="52" height="18" rx="3" fill="#050a14" stroke="#f1df76" stroke-width="1.4"/>
-  <path d="M308 325 h22" stroke="#f1df76" stroke-width="1.3"/>
-  <path d="M336 320 l 10 8 M346 320 l -10 8" stroke="#f1df76" stroke-width="1.4"/>
-  <!-- guard + grip -->
-  <rect x="172" y="296" width="56" height="12" rx="4" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
-  <path d="M194 308 L 191 362 L 209 362 L 206 308 Z" fill="#050a14" stroke="#38bdf8" stroke-width="2"/>
-  <path d="M193 322 h14 M192 336 h15 M192 350 h15" stroke="#1d4ed8" stroke-width="1.6"/>
-  <circle cx="200" cy="370" r="6" fill="none" stroke="#38bdf8" stroke-width="1.8"/>
+  <!-- SEVERED REQUIEM: straight blade with slack coils of bond rope; the taut haul-line severed gold -->
+  <path d="M200 62 L 232 96 L 234 244 L 200 260 L 166 244 L 168 96 Z"
+        fill="url(#gs723)" stroke="#7dd3fc" stroke-width="2.8"/>
+  <path d="M200 76 V 252" stroke="#bae6fd" stroke-width="1.2" opacity=".8"/>
+  <path d="M178 116 L 222 184 M222 116 L 178 184" stroke="#bae6fd" stroke-width="1" opacity=".5"/>
+  <!-- slack bond rope coiled around the blade, ending in open air -->
+  <g fill="none" stroke="#e7c873" stroke-width="2.2">
+    <ellipse cx="200" cy="140" rx="40" ry="11"/>
+    <ellipse cx="200" cy="180" rx="42" ry="12"/>
+    <ellipse cx="200" cy="220" rx="40" ry="11"/>
+  </g>
+  <g fill="none" stroke="#b08d3a" stroke-width="1" opacity=".85">
+    <path d="M160 140 C 180 146 220 146 240 140 M158 180 C 180 186 220 186 242 180 M160 220 C 180 226 220 226 240 220"/>
+  </g>
+  <path d="M238 138 C 262 130 282 116 292 98" fill="none" stroke="#e7c873" stroke-width="2" stroke-dasharray="1 0"/>
+  <path d="M290 100 c 6 -8 8 -16 6 -24" fill="none" stroke="#e7c873" stroke-width="1.4" opacity=".9"/>
+  <!-- the taut haul-line, severed gold -->
+  <path d="M168 196 C 130 186 96 176 70 160" fill="none" stroke="#0c4a6e" stroke-width="2.6"/>
+  <path d="M104 176 l 18 16" stroke="#f1df76" stroke-width="2.6"/>
+  <path d="M98 184 l 5 -5 M124 174 l 5 -5" stroke="#f1df76" stroke-width="1.2"/>
+  <!-- no-retrieval plate -->
+  <rect x="288" y="286" width="46" height="26" rx="3" fill="#082f49" stroke="#0c4a6e" stroke-width="1.4"/>
+  <path d="M304 292 l 14 -8 M304 306 l 14 8" stroke="#0c4a6e" stroke-width="1.4"/>
+  <path d="M300 284 L 326 316 M326 284 L 300 316" stroke="#38bdf8" stroke-width="1.8"/>
+  <!-- grip -->
+  <rect x="188" y="260" width="24" height="54" rx="6" fill="#082f49" stroke="#38bdf8" stroke-width="2.2"/>
+  <path d="M190 274 L 210 280 M190 292 L 210 298" stroke="#7dd3fc" stroke-width="1.4" opacity=".8"/>
+  <circle cx="200" cy="328" r="6" fill="#082f49" stroke="#f1df76" stroke-width="1.8"/>
 
 </svg>

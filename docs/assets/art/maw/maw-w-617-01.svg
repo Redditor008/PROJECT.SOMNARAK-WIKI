@@ -1,39 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="EXILES' WALL FANG">
   <defs>
-    <radialGradient id="bw617" cx="44%" cy="42%" r="66%">
-      <stop offset="0%" stop-color="#1a0a0d"/>
-      <stop offset="100%" stop-color="#0d0507"/>
+    <radialGradient id="bw617" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#450a0a"/>
+      <stop offset="100%" stop-color="#1c0505"/>
     </radialGradient>
-    <linearGradient id="bl617" x1="0" y1="1" x2="1" y2="0">
-      <stop offset="0" stop-color="#7f1d1d"/>
-      <stop offset="1" stop-color="#fca5a5"/>
+    <radialGradient id="gw617" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#f87171" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gs617" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fca5a5"/>
+      <stop offset="1" stop-color="#7f1d1d"/>
     </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw617)" stroke="#ef4444" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw617)" stroke="#dc2626" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+  <circle cx="200" cy="188" r="132" fill="url(#gw617)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#1c0505" stroke="#dc2626" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#dc2626" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- one deep crescent arc (talon build), opening upper-left -->
-  <path d="M282 312 C 190 298, 116 226, 112 132 C 112 122, 124 118, 128 128 C 142 208, 204 268, 288 288 C 298 291, 293 314, 282 312 Z"
-        fill="url(#bl617)" stroke="#ef4444" stroke-width="2.8"/>
-  <!-- wet red light following the INNER curve, no heat: bright line + drip -->
-  <path d="M131 140 C 146 212, 204 264, 280 284" fill="none" stroke="#fca5a5" stroke-width="2.4" opacity=".95"/>
-  <path d="M160 216 c 0 6, -8 6, -8 0 c 0 -4, 4 -8, 4 -8 c 0 0, 4 4, 4 8" fill="#ef4444" opacity=".9"/>
-  <path d="M204 254 c 0 5, -7 5, -7 0 c 0 -3, 3.5 -7, 3.5 -7 c 0 0, 3.5 4, 3.5 7" fill="#ef4444" opacity=".7"/>
-  <!-- coercion brace crossing the arc, severed gold -->
-  <path d="M188 148 L 236 236" stroke="#7f1d1d" stroke-width="3"/>
-  <path d="M205 180 L 219 172" stroke="#f1df76" stroke-width="2.6"/>
-  <path d="M199 172 l 5 -4 M222 182 l 5 -4" stroke="#f1df76" stroke-width="1.3"/>
-  <!-- the extracted lintel = crossguard: masonry beam, whole, taken instead of the body -->
-  <rect x="262" y="312" width="84" height="18" rx="2" fill="#0d0507" stroke="#f1df76" stroke-width="1.8"/>
-  <path d="M284 312 v18 M306 312 v18 M328 312 v18" stroke="#7f1d1d" stroke-width="1.4"/>
-  <!-- grip below the lintel -->
-  <path d="M298 330 L 302 372 L 318 370 L 312 330 Z" fill="#0d0507" stroke="#ef4444" stroke-width="2"/>
-  <path d="M302 342 l 12 -2 M304 354 l 12 -2" stroke="#7f1d1d" stroke-width="1.6"/>
-  <!-- traveler's own destinations: three ways, the traveler's tick chooses -->
-  <path d="M84 84 l -22 -14 M84 84 l 0 -26 M84 84 l 22 -14" stroke="#7f1d1d" stroke-width="1.8"/>
-  <path d="M60 68 l 2 6 l -7 1 M84 56 l -4 6 l 8 0 M108 68 l -7 -1 l 2 7" stroke="#7f1d1d" stroke-width="1.4" fill="none"/>
-  <path d="M100 76 l 5 5 l 9 -10" fill="none" stroke="#4ade80" stroke-width="2.2"/>
+  <!-- EXILES' WALL FANG: one deep crescent arch; wet red light on the INNER curve, lintel as crossguard -->
+  <path d="M148 250 C 148 176, 158 92, 200 72 C 242 92, 252 176, 252 250 C 232 196, 220 122, 200 104 C 180 122, 168 196, 148 250 Z"
+        fill="url(#gs617)" stroke="#fca5a5" stroke-width="2.8"/>
+  <!-- wet red light on the INNER curve, giving no heat -->
+  <path d="M200 104 C 220 122, 232 196, 252 250" fill="none" stroke="#fecaca" stroke-width="2.2" opacity=".9"/>
+  <path d="M200 104 C 180 122, 168 196, 148 250" fill="none" stroke="#fecaca" stroke-width="2.2" opacity=".9"/>
+  <g fill="none" stroke="#fecaca" stroke-width="1.4" opacity=".85">
+    <path d="M216 150 c -4 7, -11 8, -11 2 c 0 -4, 5 -8, 5 -8 c 0 0, 5 3, 6 6"/>
+    <path d="M188 186 c -3 6, -10 8, -10 2 c 0 -3, 4 -7, 4 -7 c 0 0, 6 2, 6 5"/>
+  </g>
+  <!-- no-heat mark -->
+  <path d="M306 84 c 0 8, -12 8, -12 0 c 0 -5, 4 -10, 4 -12 c 0 0, 8 6, 8 12 M300 82 l 3 -5 M306 82 l 2 -5" fill="none" stroke="#fecaca" stroke-width="1.2" opacity=".8"/>
+  <!-- the extracted lintel as crossguard -->
+  <rect x="150" y="252" width="100" height="20" rx="2" fill="#290a0a" stroke="#dc2626" stroke-width="2.2"/>
+  <path d="M158 262 H 242 M154 266 H 246" stroke="#7f1d1d" stroke-width="1.1"/>
+  <rect x="162" y="254" width="10" height="16" fill="#160606" stroke="#fecaca" stroke-width="1"/>
+  <rect x="228" y="254" width="10" height="16" fill="#160606" stroke="#fecaca" stroke-width="1"/>
+  <!-- three traveler-chosen ways, one ticked -->
+  <g fill="none" stroke="#fca5a5" stroke-width="1.2" opacity=".9">
+    <path d="M112 306 l 0 -26 M124 306 l 14 -22 M136 306 l 20 -14"/>
+  </g>
+  <path d="M128 288 l 4 6 l 8 -10" fill="none" stroke="#4ade80" stroke-width="2"/>
+  <!-- grip -->
+  <rect x="188" y="272" width="24" height="58" rx="6" fill="#290a0a" stroke="#dc2626" stroke-width="2.2"/>
+  <path d="M190 286 L 210 292 M190 304 L 210 310 M190 320 L 210 324" stroke="#fca5a5" stroke-width="1.4" opacity=".8"/>
+  <circle cx="200" cy="344" r="6" fill="#290a0a" stroke="#f1df76" stroke-width="1.8"/>
 
 </svg>

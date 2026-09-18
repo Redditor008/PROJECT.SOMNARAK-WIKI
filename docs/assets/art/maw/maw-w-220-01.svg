@@ -1,52 +1,61 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE YEARS MAUL">
   <defs>
-    <radialGradient id="bw220" cx="44%" cy="42%" r="66%">
+    <radialGradient id="bw220" cx="50%" cy="42%" r="58%">
       <stop offset="0%" stop-color="#181206"/>
       <stop offset="100%" stop-color="#0d0a04"/>
     </radialGradient>
-    <linearGradient id="bl220" x1="0" y1="1" x2="1" y2="0">
-      <stop offset="0" stop-color="#92400e"/>
-      <stop offset="1" stop-color="#fbbf24"/>
+    <radialGradient id="gw220" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#fbbf24" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gs220" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fde68a"/>
+      <stop offset="1" stop-color="#92400e"/>
     </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw220)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gw220)"/>
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
   <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- long shaft, head upper-right (mirror pose of the Architect's Maul) -->
-  <path d="M96 356 L 252 148" stroke="#92400e" stroke-width="9" stroke-linecap="round"/>
-  <path d="M96 356 L 252 148" stroke="#fbbf24" stroke-width="1.4" opacity=".5"/>
-  <!-- finger-width growth ticks along the shaft -->
-  <path d="M122 322 l 9 7 M138 300 l 9 7 M154 278 l 9 7 M170 257 l 9 7 M186 236 l 9 7 M202 214 l 9 7" stroke="#fbbf24" stroke-width="1.6"/>
-  <!-- registration bracket: the recorded length — the shaft now runs past it -->
-  <path d="M110 344 l -10 -8 M110 344 l 8 10" stroke="#f1df76" stroke-width="2"/>
-  <path d="M214 205 l -10 -8 M214 205 l 8 10" stroke="#f1df76" stroke-width="2"/>
-  <path d="M104 352 L 96 356" stroke="#ef4444" stroke-width="3"/>
-  <!-- HEAD: five calendar leaves stacked and fanned, bound as striking faces -->
-  <g transform="rotate(-53 272 122)">
-    <rect x="222" y="152" width="100" height="64" rx="5" fill="#0d0a04" stroke="#92400e" stroke-width="2" transform="rotate(9 272 184)"/>
-    <rect x="224" y="140" width="100" height="64" rx="5" fill="#0d0a04" stroke="#b45309" stroke-width="2" transform="rotate(4 274 172)"/>
-    <rect x="224" y="126" width="100" height="64" rx="5" fill="#181206" stroke="#d97706" stroke-width="2.2" transform="rotate(-3 274 158)"/>
-    <rect x="222" y="112" width="100" height="64" rx="5" fill="#181206" stroke="#d97706" stroke-width="2.4" transform="rotate(-8 272 144)"/>
-    <rect x="220" y="96" width="100" height="64" rx="5" fill="url(#bl220)" stroke="#fbbf24" stroke-width="2.6"/>
-    <!-- top leaf: consequences, not days -->
-    <path d="M232 112 h76" stroke="#0d0a04" stroke-width="2"/>
-    <path d="M236 126 l 10 0 l -5 9 Z" fill="none" stroke="#0d0a04" stroke-width="1.6"/>
-    <path d="M258 124 v12 M264 128 v8 M270 122 v14" stroke="#0d0a04" stroke-width="1.6"/>
-    <path d="M284 124 l 8 12 M292 124 l -8 12" stroke="#0d0a04" stroke-width="1.6"/>
-    <path d="M300 136 c 0 -8, 8 -8, 8 0" fill="none" stroke="#0d0a04" stroke-width="1.6"/>
-    <!-- curled corner of the top leaf -->
-    <path d="M320 96 L 302 96 C 310 104, 316 110, 320 114 Z" fill="#92400e" stroke="#fbbf24" stroke-width="1.4"/>
-    <!-- binding strap around the stack -->
-    <path d="M252 88 L 252 226 M296 88 L 296 226" stroke="#f1df76" stroke-width="2" opacity=".7"/>
+  <!-- CALENDAR-LEAF STACK MAUL: five fanned leaves as striking faces, shaft grown past its registration -->
+  <g stroke="#d97706" stroke-width="2" opacity=".9">
+    <!-- five stacked pointed leaves, alternating dark/gradient so the stack reads -->
+    <path d="M106 88 C 150 77, 250 77, 294 88 C 250 99, 150 99, 106 88 Z" fill="#291c06" stroke="#d97706" stroke-width="2"/>
+    <path d="M106 108 C 150 97, 250 97, 294 108 C 250 119, 150 119, 106 108 Z" fill="url(#gs220)" stroke="#d97706" stroke-width="2"/>
+    <path d="M106 128 C 150 117, 250 117, 294 128 C 250 139, 150 139, 106 128 Z" fill="#291c06" stroke="#d97706" stroke-width="2"/>
+    <path d="M106 148 C 150 137, 250 137, 294 148 C 250 159, 150 159, 106 148 Z" fill="url(#gs220)" stroke="#d97706" stroke-width="2"/>
+    <path d="M106 168 C 150 157, 250 157, 294 168 C 250 179, 150 179, 106 168 Z" fill="#291c06" stroke="#d97706" stroke-width="2"/>
   </g>
-  <!-- omitted year being appended: a leaf sliding into the stack -->
-  <rect x="318" y="242" width="44" height="30" rx="3" fill="#0d0a04" stroke="#fbbf24" stroke-width="1.6" transform="rotate(-12 340 257)"/>
-  <path d="M328 252 h22 M328 260 h14" stroke="#fbbf24" stroke-width="1.2" transform="rotate(-12 340 257)"/>
-  <path d="M316 276 l -14 14 M302 290 l 8 -1 M302 290 l 1 -8" stroke="#f1df76" stroke-width="1.4" fill="none"/>
-  <!-- personal-confession-completes-it refused -->
-  <path d="M66 236 a12 12 0 1 1 0.1 0" fill="none" stroke="#92400e" stroke-width="1.6"/>
-  <path d="M54 224 L 78 248 M78 224 L 54 248" stroke="#d97706" stroke-width="2"/>
+  <!-- leaf ribs and consequence ticks (marks, never day numbers) -->
+  <g stroke="#fff7cc" stroke-width="1.2" opacity=".85">
+    <path d="M110 88 H 290"/><path d="M110 108 H 290"/><path d="M110 128 H 290"/><path d="M110 148 H 290"/><path d="M110 168 H 290"/>
+    <path d="M150 81 l 14 6 M200 78 l 12 9 M250 81 l -14 6"/>
+    <path d="M150 101 l 14 6 M200 98 l 12 9 M250 101 l -14 6"/>
+    <path d="M150 121 l 14 6 M200 118 l 12 9 M250 121 l -14 6"/>
+    <path d="M150 141 l 14 6 M200 138 l 12 9 M250 141 l -14 6"/>
+    <path d="M150 161 l 14 6 M200 158 l 12 9 M250 161 l -14 6"/>
+  </g>
+  <!-- binding straps with gold rivets -->
+  <rect x="150" y="76" width="9" height="104" fill="#92400e" stroke="#d97706" stroke-width="1.6"/>
+  <rect x="241" y="76" width="9" height="104" fill="#92400e" stroke="#d97706" stroke-width="1.6"/>
+  <circle cx="154.5" cy="90" r="2.4" fill="#f1df76"/><circle cx="154.5" cy="128" r="2.4" fill="#f1df76"/><circle cx="154.5" cy="166" r="2.4" fill="#f1df76"/>
+  <circle cx="245.5" cy="90" r="2.4" fill="#f1df76"/><circle cx="245.5" cy="128" r="2.4" fill="#f1df76"/><circle cx="245.5" cy="166" r="2.4" fill="#f1df76"/>
+  <!-- head collar -->
+  <rect x="186" y="180" width="28" height="14" rx="3" fill="#291c06" stroke="#d97706" stroke-width="1.8"/>
+  <!-- shaft with growth rings, grown PAST the registration brackets -->
+  <rect x="192" y="194" width="16" height="122" rx="6" fill="#291c06" stroke="#d97706" stroke-width="2.2"/>
+  <g stroke="#fff7cc" stroke-width="1.2" opacity=".8">
+    <path d="M194 210 H 206 M194 226 H 206 M194 242 H 206 M194 258 H 206 M194 274 H 206 M194 290 H 206"/>
+  </g>
+  <!-- gold registration brackets at the old length -->
+  <path d="M186 208 L 192 208 M208 208 L 214 208" stroke="#f1df76" stroke-width="2.4"/>
+  <path d="M186 210 L 190 212 M214 210 L 210 212" stroke="#f1df76" stroke-width="1.4"/>
+  <path d="M176 262 H 224" stroke="#f1df76" stroke-width="1.2" stroke-dasharray="4 3"/>
+  <path d="M196 268 l -4 6 M204 268 l 4 6" stroke="#f1df76" stroke-width="1.2"/>
+  <!-- pommel -->
+  <path d="M184 316 L 216 316 L 214 336 L 186 336 Z" fill="#291c06" stroke="#d97706" stroke-width="2"/>
+  <circle cx="200" cy="330" r="4" fill="#f1df76"/>
 
 </svg>
