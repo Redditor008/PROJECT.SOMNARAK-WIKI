@@ -8,9 +8,9 @@
       <stop offset="0%" stop-color="#fbbf24" stop-opacity=".22"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="gs220" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#fde68a"/>
-      <stop offset="1" stop-color="#92400e"/>
+    <linearGradient id="gs220" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fde68a"/>
+      <stop offset="100%" stop-color="#92400e"/>
     </linearGradient>
   </defs>
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bw220)" stroke="#d97706" stroke-width="2.4"/>
@@ -19,43 +19,43 @@
   <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
   <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
 
-  <!-- CALENDAR-LEAF STACK MAUL: five fanned leaves as striking faces, shaft grown past its registration -->
-  <g stroke="#d97706" stroke-width="2" opacity=".9">
-    <!-- five stacked pointed leaves, alternating dark/gradient so the stack reads -->
-    <path d="M106 88 C 150 77, 250 77, 294 88 C 250 99, 150 99, 106 88 Z" fill="#291c06" stroke="#d97706" stroke-width="2"/>
-    <path d="M106 108 C 150 97, 250 97, 294 108 C 250 119, 150 119, 106 108 Z" fill="url(#gs220)" stroke="#d97706" stroke-width="2"/>
-    <path d="M106 128 C 150 117, 250 117, 294 128 C 250 139, 150 139, 106 128 Z" fill="#291c06" stroke="#d97706" stroke-width="2"/>
-    <path d="M106 148 C 150 137, 250 137, 294 148 C 250 159, 150 159, 106 148 Z" fill="url(#gs220)" stroke="#d97706" stroke-width="2"/>
-    <path d="M106 168 C 150 157, 250 157, 294 168 C 250 179, 150 179, 106 168 Z" fill="#291c06" stroke="#d97706" stroke-width="2"/>
+  <!-- SPLITTING MAUL: flat calendar-leaf face (left) + tapering wedge edge (right); the split is the year boundary -->
+  <!-- head mass -->
+  <path d="M112 88 C 132 82, 156 84, 178 90 C 206 98, 226 110, 236 120 L 288 122 L 288 156 L 236 170 C 226 180, 206 192, 178 198 C 156 204, 132 204, 112 198 Z"
+        fill="url(#gs220)" stroke="#d97706" stroke-width="3"/>
+  <!-- flat striking face: stacked calendar-leaf pages, each page carries consequence marks, never day numbers -->
+  <g stroke="#d97706" stroke-width="1.6">
+    <path d="M112 92 C 132 88, 160 88, 178 92 L 178 106 C 160 110, 132 110, 112 106 Z" fill="#291c06"/>
+    <path d="M112 112 C 132 108, 160 108, 178 112 L 178 126 C 160 130, 132 130, 112 126 Z" fill="#3a2507"/>
+    <path d="M112 132 C 132 128, 160 128, 178 132 L 178 146 C 160 150, 132 150, 112 146 Z" fill="#291c06"/>
+    <path d="M112 152 C 132 148, 160 148, 178 152 L 178 166 C 160 170, 132 170, 112 166 Z" fill="#3a2507"/>
+    <path d="M112 172 C 132 168, 160 168, 178 172 L 178 186 C 160 190, 132 190, 112 186 Z" fill="#291c06"/>
   </g>
-  <!-- leaf ribs and consequence ticks (marks, never day numbers) -->
+  <!-- consequence marks on the leaf pages -->
   <g stroke="#fff7cc" stroke-width="1.2" opacity=".85">
-    <path d="M110 88 H 290"/><path d="M110 108 H 290"/><path d="M110 128 H 290"/><path d="M110 148 H 290"/><path d="M110 168 H 290"/>
-    <path d="M150 81 l 14 6 M200 78 l 12 9 M250 81 l -14 6"/>
-    <path d="M150 101 l 14 6 M200 98 l 12 9 M250 101 l -14 6"/>
-    <path d="M150 121 l 14 6 M200 118 l 12 9 M250 121 l -14 6"/>
-    <path d="M150 141 l 14 6 M200 138 l 12 9 M250 141 l -14 6"/>
-    <path d="M150 161 l 14 6 M200 158 l 12 9 M250 161 l -14 6"/>
+    <path d="M124 99 L 124 105 M136 97 L 136 107 M148 99 L 148 105 M160 97 L 160 107"/>
+    <path d="M124 119 L 124 125 M136 117 L 136 127 M148 119 L 148 125 M160 117 L 160 127"/>
+    <path d="M124 139 L 124 145 M136 137 L 136 147 M148 139 L 148 145 M160 137 L 160 147"/>
+    <path d="M124 159 L 124 165 M136 157 L 136 167 M148 159 L 148 165 M160 157 L 160 167"/>
+    <path d="M124 179 L 124 185 M136 177 L 136 187 M148 179 L 148 185 M160 177 L 160 187"/>
   </g>
-  <!-- binding straps with gold rivets -->
-  <rect x="150" y="76" width="9" height="104" fill="#92400e" stroke="#d97706" stroke-width="1.6"/>
-  <rect x="241" y="76" width="9" height="104" fill="#92400e" stroke="#d97706" stroke-width="1.6"/>
-  <circle cx="154.5" cy="90" r="2.4" fill="#f1df76"/><circle cx="154.5" cy="128" r="2.4" fill="#f1df76"/><circle cx="154.5" cy="166" r="2.4" fill="#f1df76"/>
-  <circle cx="245.5" cy="90" r="2.4" fill="#f1df76"/><circle cx="245.5" cy="128" r="2.4" fill="#f1df76"/><circle cx="245.5" cy="166" r="2.4" fill="#f1df76"/>
+  <!-- the wedge: leaf veins converging on the cutting edge -->
+  <path d="M236 122 L 288 124 M236 138 L 288 138 M236 154 L 288 152 M214 128 L 288 132 M214 146 L 288 146" stroke="#78350f" stroke-width="1.4" opacity=".9"/>
+  <path d="M288 124 C 284 130, 284 148, 288 154" fill="none" stroke="#f1df76" stroke-width="1.6"/>
+  <!-- gold crack at the flat-face/wedge junction: the split of years -->
+  <path d="M182 92 L 192 104 L 188 118 L 198 130 L 194 146 L 204 158 L 200 172 L 210 186" fill="none" stroke="#f1df76" stroke-width="1.6" stroke-dasharray="5 3" opacity=".9"/>
   <!-- head collar -->
-  <rect x="186" y="180" width="28" height="14" rx="3" fill="#291c06" stroke="#d97706" stroke-width="1.8"/>
-  <!-- shaft with growth rings, grown PAST the registration brackets -->
-  <rect x="192" y="194" width="16" height="122" rx="6" fill="#291c06" stroke="#d97706" stroke-width="2.2"/>
+  <rect x="188" y="198" width="24" height="14" rx="3" fill="#291c06" stroke="#d97706" stroke-width="1.8"/>
+  <!-- two-handed shaft, grown PAST its registration length -->
+  <rect x="192" y="212" width="16" height="112" rx="6" fill="#291c06" stroke="#d97706" stroke-width="2.2"/>
   <g stroke="#fff7cc" stroke-width="1.2" opacity=".8">
-    <path d="M194 210 H 206 M194 226 H 206 M194 242 H 206 M194 258 H 206 M194 274 H 206 M194 290 H 206"/>
+    <path d="M194 226 H 206 M194 244 H 206 M194 262 H 206 M194 280 H 206 M194 298 H 206"/>
   </g>
-  <!-- gold registration brackets at the old length -->
-  <path d="M186 208 L 192 208 M208 208 L 214 208" stroke="#f1df76" stroke-width="2.4"/>
-  <path d="M186 210 L 190 212 M214 210 L 210 212" stroke="#f1df76" stroke-width="1.4"/>
-  <path d="M176 262 H 224" stroke="#f1df76" stroke-width="1.2" stroke-dasharray="4 3"/>
-  <path d="M196 268 l -4 6 M204 268 l 4 6" stroke="#f1df76" stroke-width="1.2"/>
+  <!-- gold registration brackets at the OLD length -->
+  <path d="M186 224 L 192 224 M208 224 L 214 224" stroke="#f1df76" stroke-width="2.4"/>
+  <path d="M186 226 L 190 228 M214 226 L 210 228" stroke="#f1df76" stroke-width="1.4"/>
+  <path d="M176 272 H 224" stroke="#f1df76" stroke-width="1.2" stroke-dasharray="4 3"/>
   <!-- pommel -->
-  <path d="M184 316 L 216 316 L 214 336 L 186 336 Z" fill="#291c06" stroke="#d97706" stroke-width="2"/>
-  <circle cx="200" cy="330" r="4" fill="#f1df76"/>
-
+  <path d="M184 324 L 216 324 L 214 344 L 186 344 Z" fill="#291c06" stroke="#d97706" stroke-width="2"/>
+  <circle cx="200" cy="338" r="4" fill="#f1df76"/>
 </svg>
