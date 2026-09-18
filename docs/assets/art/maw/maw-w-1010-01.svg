@@ -1,22 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="WEAPON 1010">
   <defs>
-    <radialGradient id="bg1010" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#0a1626"/><stop offset="100%" stop-color="#050a14"/></radialGradient>
-    <radialGradient id="gl1010" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#1d4ed8" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
+    <radialGradient id="bg1010" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#111318"/><stop offset="100%" stop-color="#08090c"/></radialGradient>
+    <radialGradient id="gl1010" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#475569" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg1010)" stroke="#38bdf8" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg1010)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl1010)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#38bdf8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- rust variant W-1010 off=-1 wob=0 -->
-  <path d="M161 48 L 237 48 L 237 200 L 198 228 L 161 200 Z" fill="#7c2d12" stroke="#92400e" stroke-width="2"/>
-  <circle cx="187" cy="96" r="2" fill="#292524" opacity=".5"/>
-  <circle cx="199" cy="112" r="3" fill="#292524" opacity=".5"/>
-  <circle cx="211" cy="128" r="2" fill="#292524" opacity=".5"/>
-  <path d="M174 228 L 222 228 L 220 244 L 176 244 Z" fill="#1c0a0a" stroke="#38bdf8" stroke-width="1.2"/>
-  <path d="M186 244 L 186 312 C 186 320, 210 320, 210 312 L 210 244 Z" fill="#1c0a0a" stroke="#38bdf8" stroke-width="1.2"/>
-  <circle cx="198" cy="326" r="7" fill="#050a14" stroke="#38bdf8" stroke-width="1.2"/>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#38bdf8">MAW-W-1010-01</text>
-  <rect x="130" y="320" width="6" height="4" fill="#fff" opacity=".0"/>
-  <circle cx="130" cy="342" r="3" fill="#000" opacity=".0"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+<!-- 1010 staff: shepherd crook staff with curved head -->
+  <path d="M196 72 L196 188 Q196 210 208 218" fill="none" stroke="#3f2a14" stroke-width="8" stroke-linecap="round"/>
+  <path d="M196 72 Q184 62 184 78 Q184 94 196 96" fill="none" stroke="#94a3b8" stroke-width="3" />
+  <circle cx="184" cy="78" r="4" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1"/>
+  <circle cx="208" cy="218" r="5" fill="#1c1917" stroke="#94a3b8" stroke-width="1"/>
+  <path d="M196 132 Q200 140 196 148" stroke="#78350f" stroke-width="0.9" fill="none" opacity="0.6"/>
+
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#94a3b8">MAW-W-1010-01</text>
 </svg>

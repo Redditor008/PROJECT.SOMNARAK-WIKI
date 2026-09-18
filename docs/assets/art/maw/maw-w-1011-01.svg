@@ -1,21 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="WEAPON 1011">
   <defs>
-    <radialGradient id="bg1011" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#181206"/><stop offset="100%" stop-color="#0d0a04"/></radialGradient>
-    <radialGradient id="gl1011" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#92400e" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
+    <radialGradient id="bg1011" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#111318"/><stop offset="100%" stop-color="#08090c"/></radialGradient>
+    <radialGradient id="gl1011" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#475569" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg1011)" stroke="#d97706" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg1011)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl1011)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- dawn variant W-1011 off=0 wob=2 -->
-  <circle cx="200" cy="132" r="59" fill="#0f172a" stroke="#d97706" stroke-width="2"/>
-  <path d="M142 132 L 258 132" stroke="#fbbf24" stroke-width="1.5"/>
-  <path d="M158 132 C 168 110, 232 110, 242 132" fill="#fbbf24" stroke="#f59e0b" stroke-width="1" opacity=".8"/>
-  <circle cx="200" cy="114" r="10" fill="#fef3c7" stroke="#fbbf24" stroke-width="1"/>
-  <path d="M192 252 L 208 252 L 206 312 C 206 320, 194 320, 194 312 Z" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
-  <circle cx="200" cy="326" r="7" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d97706">MAW-W-1011-01</text>
-  <rect x="131" y="321" width="4" height="5" fill="#fff" opacity=".0"/>
-  <circle cx="131" cy="343" r="1" fill="#000" opacity=".0"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+<!-- 1011 hammer: ball-peen hammer with domed peen -->
+  <rect x="164" y="122" width="72" height="28" rx="4" fill="#1e293b" stroke="#94a3b8" stroke-width="1.6"/>
+  <rect x="164" y="122" width="22" height="28" rx="3" fill="#334155" stroke="#e2e8f0" stroke-width="0.8"/>
+  <circle cx="236" cy="136" r="14" fill="#334155" stroke="#94a3b8" stroke-width="1.2"/>
+  <rect x="192" y="150" width="16" height="64" rx="6" fill="#3f2a14" stroke="#94a3b8" stroke-width="1.2"/>
+  <circle cx="200" cy="222" r="4" fill="#1c1917" stroke="#94a3b8" stroke-width="1"/>
+
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#94a3b8">MAW-W-1011-01</text>
 </svg>
