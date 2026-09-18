@@ -8,6 +8,8 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Comprehensive subfolder READMEs and master entity catalog for lore archive** — added dedicated `README.md` index documents to all seven primary narrative divisions (`01_Sorrow_Entities`, `02_Hope_Transformation`, `03_Unknown_Entities`, `04_Ordeals`, `07_Reference`, `CHARACTER_WIKI`, `M.A.W. Codex_Set Registry`), and established `REFERENCE_SOMNARAK_WIKI/SORROW_ENTITIES_CATALOG.md` indexing all 285 unique Sorrow Entities by SECC code, English codename, Korean designation, threat tier (ZAYIN through ALEPH), and elemental affinity.
+
 - **PROJECT-SOMNARAK--NON-WIKI branch documentation and index setup** — owner established the dedicated `NON-WIKI` branch isolating the pure-markdown canonical reference repository (1,863 files, 1,862 Markdown source codices, ~3.5M words) from the static web frontend. Updated root `README.md`, `DEVELOPMENT.md`, and `REFERENCE_SOMNARAK_WIKI/README.md` to remove broken web/HTML links, document the dual-branch architecture (`main` for static GitHub Pages wiki, `NON-WIKI` for authoritative lore corpus), provide a complete inventory of the 7 primary narrative divisions (`01_Sorrow_Entities`, `02_Hope_Transformation`, `03_Unknown_Entities`, `04_Ordeals`, `07_Reference`, `CHARACTER_WIKI`, `M.A.W. Codex_Set Registry`), and detail the 34 macro-canon master codices.
 
 ### Removed
