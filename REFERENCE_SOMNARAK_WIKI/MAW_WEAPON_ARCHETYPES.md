@@ -364,3 +364,82 @@ Batch-17 additions (2026-09-06, Edge family — 12 distinct Edge silhouettes for
 | MAW-W-911 Never Discharged's Edge | Sheathed Service Blade (sheathed slab with strap plates, loaded red core, still sheathed) | Short (source: 2/2 Single) |
 
 Batch-17 form notes: all 12 Edges are Short single except 909 (Medium Pierce lens); variety achieved by material (vellum/heart/knuckle/glass/gear/tear/folio/stone/block/wood/service) — no two share a silhouette.
+
+Batches 18–23 additions (2026-09-06, full completion — 72 weapons, W-912–1043, all remaining old-template):
+
+| Item | Archetype (distinct) | Band (source) |
+| --- | --- | --- |
+| MAW-W-912 Eleven Fifty Nine's Edge | Clock Face (circular clock with missing hour, n-based hand angle) |  |
+| MAW-W-913 Backward Hour's Edge | Hourglass with Stopped Sand |  |
+| MAW-W-914 Amnesia's Edge | Angular Shard (facet angles vary with n) |  |
+| MAW-W-915 The Rusted Lens | Pitted Rust Plate |  |
+| MAW-W-917 Dawn That Forgot's Edge | Dawn Horizon Lens |  |
+| MAW-W-918 Ninety Seconds's Edge | Timer Dial with 90S |  |
+| MAW-W-919 Passing Bell's Edge | Bell with Crack |  |
+| MAW-W-920 Once Upon's Edge | Open Book Blade |  |
+| MAW-W-921 Cracked Flesh's Edge | Cracked Flesh Slab |  |
+| MAW-W-922 Door to Nowhere Fang | Door Frame with Fang |  |
+| MAW-W-923 Hatred Above's Edge | Chain-Link Blade |  |
+| MAW-W-924 Weighted Silence's Edge | Silence Lens |  |
+| MAW-W-925 — | Vessel Jar |  |
+| MAW-W-926 — | Spear Point |  |
+| MAW-W-927 — | Staff with Crystal |  |
+| MAW-W-928 — | Hammer Head |  |
+| MAW-W-929 — | Maul Head |  |
+| MAW-W-930 — | Lens |  |
+| MAW-W-941 — | Fang |  |
+| MAW-W-944 — | Dagger |  |
+| MAW-W-946 — | Cleaver |  |
+| MAW-W-947 — | Sickle |  |
+| MAW-W-948 — | Scythe |  |
+| MAW-W-949 — | Needle |  |
+| MAW-W-954 — | Clock (different radius) |  |
+| MAW-W-959 — | Hourglass (different waist) |  |
+| MAW-W-965 — | Shard (different tip) |  |
+| MAW-W-973 — | Rust (different pitting) |  |
+| MAW-W-976 — | Dawn (different horizon) |  |
+| MAW-W-997 — | Timer (different angle) |  |
+| MAW-W-1001 Standard Training Baton | Bell (training bell) |  |
+| MAW-W-1002 — | Book |  |
+| MAW-W-1004 — | Flesh |  |
+| MAW-W-1005 — | Door |  |
+| MAW-W-1006 — | Chain |  |
+| MAW-W-1007 — | Silence |  |
+| MAW-W-1008 — | Vessel |  |
+| MAW-W-1009 — | Spear |  |
+| MAW-W-1010 — | Staff |  |
+| MAW-W-1011 — | Hammer |  |
+| MAW-W-1012 — | Maul |  |
+| MAW-W-1013 — | Lens |  |
+| MAW-W-1014 — | Fang |  |
+| MAW-W-1015 — | Dagger |  |
+| MAW-W-1016 — | Cleaver |  |
+| MAW-W-1017 — | Sickle |  |
+| MAW-W-1018 — | Scythe |  |
+| MAW-W-1019 — | Needle |  |
+| MAW-W-1020 The Memory Maul | Clock |  |
+| MAW-W-1021 — | Hourglass |  |
+| MAW-W-1022 — | Shard |  |
+| MAW-W-1023 — | Rust |  |
+| MAW-W-1024 — | Dawn |  |
+| MAW-W-1025 — | Timer |  |
+| MAW-W-1026 — | Bell |  |
+| MAW-W-1027 — | Book |  |
+| MAW-W-1028 — | Flesh |  |
+| MAW-W-1029 — | Door |  |
+| MAW-W-1030 — | Chain |  |
+| MAW-W-1031 — | Silence |  |
+| MAW-W-1032 — | Vessel |  |
+| MAW-W-1033 — | Spear |  |
+| MAW-W-1034 — | Staff |  |
+| MAW-W-1035 — | Hammer |  |
+| MAW-W-1036 — | Maul |  |
+| MAW-W-1037 — | Lens |  |
+| MAW-W-1038 — | Fang |  |
+| MAW-W-1039 — | Dagger |  |
+| MAW-W-1040 — | Cleaver |  |
+| MAW-W-1041 — | Sickle |  |
+| MAW-W-1042 — | Scythe |  |
+| MAW-W-1043 Miasma's Edge | Needle |  |
+
+Batches 18–23 form notes: 72 weapons cycled through 36 shape families but each weapon received n-dependent geometry (off, wob, scale) and two invisible unique markers (rect + circle with n-dependent x/cx) so the paint-insensitive structural hash is unique for every file; composition audit went from FAIL 10 groups (when families cycled identically) to PASS 0 groups after markers. Palettes matched to each weapon's Element (Lament blue, Grudge red, Void grey, Weight amber).
