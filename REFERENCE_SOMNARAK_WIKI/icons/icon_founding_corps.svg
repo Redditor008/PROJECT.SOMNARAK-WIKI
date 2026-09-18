@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
-  <polygon points="60,4 114,24 114,86 60,116 6,86 6,24" fill="#02140d" stroke="#71efaf" stroke-width="3.5"/>
-  <polygon points="60,10 108,26 108,82 60,110 12,82 12,26" fill="none" stroke="#71efaf" stroke-width="1.2" stroke-dasharray="6 3"/>
-  <polygon points="60,20 88,40 80,80 60,92 40,80 32,40" fill="#064e3b" stroke="#71efaf" stroke-width="2"/>
-<line x1="60" y1="20" x2="60" y2="92" stroke="#f1df76" stroke-width="2"/>
-<circle cx="60" cy="54" r="8" fill="#f1df76" stroke="#ffffff" stroke-width="1.5"/>
-  <text x="60" y="98" fill="#71efaf" font-family="'JetBrains Mono', monospace" font-size="7" font-weight="bold" text-anchor="middle">FOUNDING CORPS</text>
-  <text x="60" y="108" fill="#94a3b8" font-family="'JetBrains Mono', monospace" font-size="5.5" font-weight="bold" text-anchor="middle">ORIGIN BUILDERS</text>
-</svg>

@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
-  <rect x="3" y="3" width="114" height="114" rx="14" fill="#060910" stroke="#38bdf8" stroke-width="2"/>
-  <rect x="6" y="6" width="108" height="108" rx="10" fill="none" stroke="rgba(241, 223, 118, 0.25)" stroke-width="1"/>
-  <circle cx="60" cy="52" r="28" fill="#0c1726" stroke="#f1df76" stroke-width="2"/>
-  <polygon points="60,34 76,52 60,70 44,52" fill="#38bdf8"/>
-  <circle cx="60" cy="52" r="5" fill="#fff"/>
-  <text x="60" y="104" fill="#f1df76" font-family="Arial, sans-serif" font-size="7" font-weight="bold" text-anchor="middle">ARCHIVE DOC</text>
-</svg>

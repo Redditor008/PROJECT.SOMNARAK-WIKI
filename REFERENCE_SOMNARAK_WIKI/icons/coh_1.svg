@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="100%" height="100%">
-  <polygon points="6,12 114,12 114,108 6,108" fill="#031526" stroke="#38bdf8" stroke-width="3"/>
-  <text x="14" y="28" fill="#38bdf8" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="bold">COHERENCE [1/5]</text>
-  <rect x="14" y="36" width="14" height="24" rx="2" fill="#38bdf8" stroke="#ffffff" stroke-width="1"/>
-  <rect x="32" y="36" width="14" height="24" rx="2" fill="#0c4a6e" stroke="#38bdf8" stroke-width="0.8" opacity="0.4"/><rect x="50" y="36" width="14" height="24" rx="2" fill="#0c4a6e" stroke="#38bdf8" stroke-width="0.8" opacity="0.4"/><rect x="68" y="36" width="14" height="24" rx="2" fill="#0c4a6e" stroke="#38bdf8" stroke-width="0.8" opacity="0.4"/><rect x="86" y="36" width="14" height="24" rx="2" fill="#0c4a6e" stroke="#38bdf8" stroke-width="0.8" opacity="0.4"/>
-  <line x1="14" y1="74" x2="106" y2="74" stroke="#38bdf8" stroke-width="1" stroke-dasharray="4 2"/>
-  <text x="60" y="96" fill="#f1df76" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="bold" text-anchor="middle">STABILITY: T-1</text>
-</svg>
