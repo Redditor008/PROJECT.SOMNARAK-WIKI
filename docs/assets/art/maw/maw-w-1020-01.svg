@@ -6,13 +6,15 @@
   <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg1020)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl1020)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#d97706" stroke-width="1.2"/>
   <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- spear variant W-1020 off=2 wob=0 -->
-  <path d="M204 32 L 220 72 L 210 72 L 210 232 L 198 232 L 198 72 L 188 72 Z" fill="#475569" stroke="#d97706" stroke-width="2"/>
-  <path d="M192 232 L 216 232 L 214 314 C 214 322, 194 322, 194 314 Z" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
-  <circle cx="204" cy="326" r="7" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
+<!-- 1020 memory maul clock: sundial plinth with gnomon, distinct -->
+  <rect x="172" y="132" width="56" height="18" rx="2" fill="#1c1917" stroke="#d97706" stroke-width="1.4"/>
+  <rect x="178" y="118" width="44" height="14" rx="2" fill="#f8fafc" stroke="#92400e" stroke-width="1"/>
+  <path d="M200 118 L212 92" stroke="#1c1917" stroke-width="2" stroke-linecap="round"/>
+  <path d="M186 124 L194 118 M214 124 L206 118 M200 132 L200 124" stroke="#92400e" stroke-width="0.8" opacity="0.6"/>
+  <circle cx="200" cy="158" r="4" fill="#fbbf24" stroke="#d97706" stroke-width="1"/>
+  <path d="M176 150 L224 150 L220 164 L180 164 Z" fill="#422006" stroke="#d97706" stroke-width="1"/>
+
   <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d97706">MAW-W-1020-01</text>
-  <rect x="140" y="320" width="4" height="4" fill="#fff" opacity=".0"/>
-  <circle cx="80" cy="344" r="1" fill="#000" opacity=".0"/>
 </svg>

@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="WEAPON 1024">
   <defs>
-    <radialGradient id="bg1024" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#181206"/><stop offset="100%" stop-color="#0d0a04"/></radialGradient>
-    <radialGradient id="gl1024" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#92400e" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
+    <radialGradient id="bg1024" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#111318"/><stop offset="100%" stop-color="#08090c"/></radialGradient>
+    <radialGradient id="gl1024" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#475569" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg1024)" stroke="#d97706" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg1024)" stroke="#94a3b8" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl1024)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- lens variant W-1024 off=-1 wob=8 -->
-  <circle cx="198" cy="132" r="60" fill="#0f172a" stroke="#d97706" stroke-width="2"/>
-  <circle cx="198" cy="132" r="46" fill="#1e293b" stroke="#fbbf24" stroke-width="1"/>
-  <circle cx="197" cy="134" r="6" fill="#fbbf24" opacity=".6"/>
-  <path d="M186 232 L 210 232 L 208 314 C 208 322, 188 322, 188 314 Z" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
-  <circle cx="198" cy="326" r="7" fill="#0d0a04" stroke="#d97706" stroke-width="1.2"/>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d97706">MAW-W-1024-01</text>
-  <rect x="144" y="324" width="5" height="4" fill="#fff" opacity=".0"/>
-  <circle cx="84" cy="340" r="2" fill="#000" opacity=".0"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#94a3b8" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+<!-- 1024 dawn: triple ray dawn with clouds -->
+  <rect x="152" y="108" width="96" height="112" rx="8" fill="#0f172a" stroke="#94a3b8" stroke-width="1.6"/>
+  <path d="M152 164 L248 164" stroke="#e2e8f0" stroke-width="1.2"/>
+  <path d="M200 164 A28 28 0 0 1 172 164" fill="#f59e0b" stroke="#fbbf24" stroke-width="1"/>
+  <path d="M172 138 L162 126 M200 126 L200 108 M228 138 L238 126 M186 148 L176 142 M214 148 L224 142 M200 148 L200 138" stroke="#fbbf24" stroke-width="0.9" opacity="0.7"/>
+  <ellipse cx="168" cy="172" rx="14" ry="6" fill="#334155" opacity="0.5"/>
+  <ellipse cx="232" cy="172" rx="12" ry="5" fill="#334155" opacity="0.5"/>
+
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#94a3b8">MAW-W-1024-01</text>
 </svg>
