@@ -1,31 +1,56 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE BROKEN FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg30c227" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bg897" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl30c227" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
+    <radialGradient id="gl897" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#7f1d1d" stop-opacity=".28"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="blade897" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#78716c"/>
+      <stop offset="50%" stop-color="#a8a29e"/>
+      <stop offset="100%" stop-color="#57534e"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg30c227)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg897)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="113" fill="url(#gl30c227)"/>
-  <g transform="rotate(-3 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 110.6, 234.0 44.0 240.0 44.0 C230.0 115.03999999999999, 220.0 141.68, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 123.92, 232.0 52.0 237.0 50.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="42.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="246.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gl897)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- BROKEN FANG: border wall collapsed — admit the breach, no perfect protection -->
+  <!-- fang is a wall-breaker: brick wall pattern sheared, rebar exposed -->
+  <path d="M162 36 C 180 30, 224 30, 242 46 C 260 62, 260 118, 246 150 C 232 182, 208 210, 182 230 C 168 240, 148 238, 146 218 C 144 196, 160 166, 172 136 C 184 106, 176 52, 162 36 Z"
+        fill="url(#blade897)" stroke="#ef4444" stroke-width="2.4"/>
+  <!-- brick courses on the fang flat -->
+  <g stroke="#44403c" stroke-width="1.2">
+    <path d="M170 62 L 236 62"/><path d="M168 82 L 240 82"/><path d="M166 102 L 242 102"/><path d="M164 122 L 244 122"/><path d="M166 142 L 238 142"/>
+    <path d="M182 62 L 182 142"/><path d="M200 60 L 200 148"/><path d="M218 62 L 218 140"/>
   </g>
-  <g transform="rotate(12 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  <!-- breach: diagonal shear through the wall, rebar -->
+  <path d="M162 88 L 242 150" stroke="#ef4444" stroke-width="2.6"/>
+  <g stroke="#a8a29e" stroke-width="1.6">
+    <path d="M186 108 L 190 114"/><path d="M200 120 L 204 126"/><path d="M214 132 L 218 138"/>
   </g>
-  <g transform="rotate(13 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#d64a4a" opacity=".42"/>
+  <!-- exposed interior: Outside Sorrow surge -->
+  <path d="M186 108 L 242 150 L 236 162 L 180 120 Z" fill="#0c0a09" stroke="#7f1d1d" stroke-width="1" opacity=".85"/>
+  <path d="M192 122 L 210 136" stroke="#ef4444" stroke-width="1" opacity=".6"/>
+  <!-- community exposed mark -->
+  <rect x="172" y="164" width="36" height="10" rx="2" fill="#1e293b" stroke="#fbbf24" stroke-width="1"/>
+  <text x="176" y="172" fill="#fbbf24" font-family="monospace" font-size="5">EXPOSED</text>
+  <!-- no perfect protection cross -->
+  <text x="174" y="188" fill="#64748b" font-family="monospace" font-size="5" opacity=".6">PERFECT</text>
+  <path d="M174 190 L 206 190" stroke="#ef4444" stroke-width="1" opacity=".6"/>
+  <!-- guard: broken wall capstone -->
+  <path d="M148 218 L 204 218 L 200 236 L 152 236 Z" fill="#1c0a0a" stroke="#7f1d1d" stroke-width="1.6"/>
+  <path d="M156 224 L 196 224" stroke="#57534e" stroke-width="1"/>
+  <!-- grip: rescue brace -->
+  <path d="M158 236 L 158 308 C 158 316, 178 316, 178 308 L 178 236 Z" fill="#1a0a0d" stroke="#7f1d1d" stroke-width="1.6"/>
+  <g stroke="#450a0a" stroke-width="1">
+    <path d="M162 250 L 174 250"/><path d="M162 270 L 174 270"/><path d="M162 290 L 174 290"/>
   </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-897-01</text>
+  <circle cx="168" cy="320" r="7" fill="#450a0a" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#ef4444">MAW-W-897-01</text>
 </svg>

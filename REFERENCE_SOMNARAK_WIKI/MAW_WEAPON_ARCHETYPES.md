@@ -326,3 +326,22 @@ Batch-15 additions (2026-09-06, full-variety sweep — 12 mutually distinct silh
 | MAW-W-801 The Rage Fang | Hooked Talon Fang with Mirror Fuller (angular talon hook, bright polish, deep mirror groove holding the clenched debt-jaw, debt/order cage grid, pooling at the base) | Short (source: 2/2 Single) |
 
 Batch-15 form notes: full-variety rule — 5 non-weapons (candle, bell, stone, door, pipe) + lens-scope + horn + chisel + mallet + 3 fang variants deliberately differentiated (forward-curved pit fang 777 vs straight heirloom 782 vs hooked talon 801; fang-to-fang cropped diffs 0.046–0.057 after the straight/talon rework vs 0.022 before; closest in-batch pair 0.029 chisel vs straight fang). Element palettes preserved (Lament blue, Grudge red, Void grey).
+
+Batch-16 additions (2026-09-06, second full-variety sweep — 12 mutually distinct, expanded to include 1000-series scope):
+
+| Item | Archetype (new distinct build) | Band (source) |
+| --- | --- | --- |
+| MAW-W-821 The Vanished Fang | Needle Fang with Held Sigh Bubble (narrow stiletto, translucent sigh bubble at throat, silence marks, blunt tip, Old Lament dust, REST plate) | Short (source: 3/3 Pierce) |
+| MAW-W-823 The Crossing Requiem | Suspension-Bridge Deck (vertical deck with twin towers, snapped suspension cables, missing span ghost over Han surge scar, twin SHORE A/B plates) | Medium (source: 3/3 Pierce) |
+| MAW-W-833 Neverlast's Requiem | Split Crystal (left solid crystal half with facets, right ghost half holding a fading friendship knot — one grief crystallized, one side empty) | Short (source: 2/2 Single) |
+| MAW-W-844 The Ruin Requiem | Ruined Pillar (fluted pillar with collapsed capital, sleep veil over the top, Outside Sorrow cracks, quiet mark) | Medium (source: 3/3 Pierce) |
+| MAW-W-851 The Promise Requiem | Broken Locket (hinged locket, left half surviving family crest, right half empty evacuated ghost, broken chain) | Medium (source: 3/3 Pierce) |
+| MAW-W-852 Conservatory Fang | Han-Lattice Overload Fang (Han geometric lattice over the flat, bulging burst, crystallization cracks, HOME saved at base) | Medium (source: 3/3 Pierce) |
+| MAW-W-863 The Empty Lens | Empty-Frame Lens (concentric search rings around a ghost tower, location pin) | Short (source: 2/2 Single) |
+| MAW-W-869 The Returning Requiem | Comparison Plate (THEN ghost vs NOW solid settlement overlaid, transformation scar, changed Homecoming Tree) | Short (source: 2/2 Single) |
+| MAW-W-874 Bridge of the Unchosen Lens | Frozen-Fork Lens (circular lens with a forked path — taken solid vs unchosen frosted, decision moment pin, POSSIBILITY vs HISTORY) | Short (source: 2/2 Single) |
+| MAW-W-884 The Frozen Lens | Frozen Tear Lens (circular lens with angular tear inclusion, ice facets, red anger core trapped inside) | Short (source: 2/2 Single) |
+| MAW-W-895 The Resting Lens | Wandering Breath-Cloud Lens (elliptical lens with a wandering mist cloud, drift trails, REST halo) | Medium (source: 3/3 Pierce) |
+| MAW-W-897 The Broken Fang | Brick Wall-Breaker Fang (brick courses sheared diagonally, rebar, exposed surge interior, EXPOSED plate) | Medium (source: 3/3 Pierce) |
+
+Batch-16 form notes: second sweep expands scope to ALL remaining old-template weapons (in-scope + 1000-series) per owner clarification; 4 lenses differentiated by interior (ghost tower vs fork vs tear vs breath cloud; lens-to-lens diffs 0.027–0.051), 3 fangs differentiated (needle sigh vs lattice overload vs wall breaker; fang-to-fang 0.028–0.063), 5 requiem/bridge forms all distinct (suspension vs split crystal vs pillar vs locket vs comparison).

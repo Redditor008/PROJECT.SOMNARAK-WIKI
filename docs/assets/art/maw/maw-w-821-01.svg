@@ -1,31 +1,55 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="THE VANISHED FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg17a90f" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bg821" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl17a90f" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
+    <radialGradient id="gl821" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#7f1d1d" stop-opacity=".28"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="blade821" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#450a0a"/>
+      <stop offset="50%" stop-color="#991b1b"/>
+      <stop offset="100%" stop-color="#fca5a5"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg17a90f)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg821)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="118" fill="url(#gl17a90f)"/>
-  <g transform="rotate(-2 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 116.64999999999999, 226.0 55.0 232.0 55.0 C222.0 120.75999999999999, 220.0 145.42, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 128.98, 224.0 63.0 229.0 61.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="45.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="249.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gl821)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- VANISHED FANG: worker collapsed holding back a final sigh — the sigh lodged, never heard -->
+  <!-- needle fang, slender, the held breath at its throat -->
+  <path d="M190 36 L 210 36 L 212 188 L 200 212 L 188 188 Z" fill="url(#blade821)" stroke="#ef4444" stroke-width="2.2"/>
+  <!-- sigh bubble at ricasso: translucent, held, never released -->
+  <ellipse cx="200" cy="132" rx="18" ry="16" fill="#fef2f2" stroke="#fca5a5" stroke-width="1.4" opacity=".92"/>
+  <ellipse cx="200" cy="132" rx="10" ry="8" fill="#fffbeb" opacity=".85"/>
+  <path d="M192 132 C 196 128, 204 128, 208 132 C 204 136, 196 136, 192 132" fill="none" stroke="#7f1d1d" stroke-width="1" opacity=".45"/>
+  <!-- silence mark: lips sealed at the bubble's edge -->
+  <path d="M188 138 L 192 140 M208 138 L 212 140" stroke="#450a0a" stroke-width="1.2"/>
+  <!-- exhaustion crack: hairline down the fuller, the collapse line -->
+  <path d="M200 148 L 200 200" stroke="#fecaca" stroke-width="1.2" opacity=".65"/>
+  <path d="M196 176 C 200 178, 204 178, 208 176" fill="none" stroke="#7f1d1d" stroke-width="1" opacity=".5"/>
+  <!-- Old Lament dust on the flat -->
+  <g fill="#78716c" opacity=".5">
+    <circle cx="196" cy="64" r="1.2"/><circle cx="204" cy="72" r="1"/><circle cx="200" cy="84" r="1.3"/>
   </g>
-  <g transform="rotate(-13 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  <!-- tip blunt from holding — not sharpened to a point -->
+  <path d="M188 188 L 200 212 L 212 188" fill="#1a0a0d" stroke="#ef4444" stroke-width="1.4"/>
+  <path d="M194 196 L 206 196" stroke="#7f1d1d" stroke-width="1"/>
+  <!-- rest permission plate -->
+  <rect x="184" y="206" width="32" height="8" rx="1" fill="#0f172a" stroke="#22c55e" stroke-width="1"/>
+  <text x="188" y="212" fill="#22c55e" font-family="monospace" font-size="5">REST</text>
+  <!-- guard: collapsed worker's hard hat rim, dented -->
+  <path d="M176 212 L 224 212 L 222 228 L 178 228 Z" fill="#1c0a0a" stroke="#7f1d1d" stroke-width="1.6"/>
+  <path d="M186 218 C 186 214, 214 214, 214 218" fill="none" stroke="#57534e" stroke-width="1"/>
+  <!-- grip: wrapped for the long shift -->
+  <path d="M186 228 L 186 312 C 186 320, 214 320, 214 312 L 214 228 Z" fill="#1a0a0d" stroke="#7f1d1d" stroke-width="1.6"/>
+  <g stroke="#450a0a" stroke-width="1">
+    <path d="M190 240 L 210 240"/><path d="M190 258 L 210 258"/><path d="M190 276 L 210 276"/><path d="M190 294 L 210 294"/>
   </g>
-  <g transform="rotate(11 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#d64a4a" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-821-01</text>
+  <circle cx="200" cy="326" r="7" fill="#450a0a" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#ef4444">MAW-W-821-01</text>
 </svg>

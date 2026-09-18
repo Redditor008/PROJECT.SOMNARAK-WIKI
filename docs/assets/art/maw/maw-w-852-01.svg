@@ -1,31 +1,53 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="CONSERVATORY FANG">
-  <!-- SOURCE-DERIVED ART: TYPE + TITLE + APPEARANCE + FUNCTION -->
-  <!-- WEAPON // FANG -->
   <defs>
-    <radialGradient id="bg2a50a9" cx="50%" cy="42%" r="58%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#030712"/>
+    <radialGradient id="bg852" cx="50%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#1a0a0d"/>
+      <stop offset="100%" stop-color="#0d0507"/>
     </radialGradient>
-    <radialGradient id="gl2a50a9" cx="50%" cy="46%" r="42%">
-      <stop offset="0%" stop-color="#d64a4a" stop-opacity=".2"/>
+    <radialGradient id="gl852" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#7f1d1d" stop-opacity=".28"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="blade852" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="40%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#450a0a"/>
+    </linearGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg2a50a9)" stroke="#d64a4a" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg852)" stroke="#ef4444" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
-  <circle cx="200" cy="188" r="134" fill="url(#gl2a50a9)"/>
-  <g transform="rotate(-7 200.0 192.0)">
-<path d="M186.0 192.0 C180.0 111.69999999999999, 222.0 46.0 228.0 46.0 C218.0 116.08, 220.0 142.36, 215.0 192.0 Z" fill="#d64a4a" fill-opacity=".26" stroke="#d64a4a" stroke-width="3"/>
-<path d="M196.0 184.0 C208.0 124.84, 220.0 54.0 225.0 52.0" fill="none" stroke="#e0f2fe" stroke-width="1.5" opacity=".72"/>
-<rect x="182.0" y="184.0" width="36" height="9" rx="4" fill="#d64a4a" fill-opacity=".42"/>
-<rect x="193.0" y="192.0" width="14" height="58.0" rx="5" fill="#1f2937" stroke="#d64a4a" stroke-width="2"/>
-<circle cx="200.0" cy="262.0" r="5" fill="#d64a4a" fill-opacity=".65"/>
+  <circle cx="200" cy="188" r="132" fill="url(#gl852)"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#0d0507" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#ef4444" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+
+  <!-- CONSERVATORY FANG: caretaker overloaded Han structure — crystallized collapse -->
+  <!-- fang with Han lattice overload -->
+  <path d="M168 38 C 188 30, 228 32, 242 56 C 256 80, 252 122, 236 152 C 220 182, 194 212, 166 232 C 150 242, 136 236, 142 212 C 148 188, 164 158, 176 126 C 188 94, 180 54, 168 38 Z"
+        fill="url(#blade852)" stroke="#ef4444" stroke-width="2.4"/>
+  <!-- Han lattice: geometric overload pattern -->
+  <g stroke="#7dd3fc" stroke-width="1" opacity=".85">
+    <path d="M178 62 L 232 62"/><path d="M174 84 L 236 84"/><path d="M170 106 L 238 106"/>
+    <path d="M182 62 L 182 152"/><path d="M200 58 L 200 158"/><path d="M218 60 L 218 148"/>
+    <path d="M178 62 L 200 84 L 222 62" fill="none"/><path d="M174 84 L 200 106 L 226 84" fill="none"/>
   </g>
-  <g transform="rotate(-11 148.0 112.0)" opacity=".9">
-    <path d="M148.0 106.2 C152.3 110.9, 152.3 114.9, 148.0 117.0 C143.7 114.9, 143.7 110.9, 148.0 106.2 Z" fill="#e0f2fe" opacity=".42"/>
+  <!-- overload burst: lattice bulging, about to snap -->
+  <path d="M190 96 C 200 94, 212 96, 218 102 C 212 108, 200 110, 190 108 Z" fill="#0ea5e9" stroke="#38bdf8" stroke-width="1.2"/>
+  <path d="M194 102 L 214 102" stroke="#1e293b" stroke-width="1"/>
+  <!-- crystallization cracks -->
+  <path d="M168 152 C 172 162, 168 174, 172 184" fill="none" stroke="#fca5a5" stroke-width="1.2" opacity=".7"/>
+  <path d="M218 148 C 222 160, 218 172, 212 182" fill="none" stroke="#7dd3fc" stroke-width="1" opacity=".6"/>
+  <!-- home silhouette preserved at the base, saved -->
+  <rect x="150" y="216" width="28" height="14" rx="1" fill="#1e293b" stroke="#22c55e" stroke-width="1"/>
+  <text x="152" y="226" fill="#22c55e" font-family="monospace" font-size="5">HOME</text>
+  <path d="M150 216 C 152 212, 176 212, 178 216" fill="none" stroke="#22c55e" stroke-width="1"/>
+  <!-- guard: Han frame joint, overloaded -->
+  <ellipse cx="172" cy="236" rx="20" ry="10" fill="#1c0a0a" stroke="#7f1d1d" stroke-width="1.6"/>
+  <circle cx="172" cy="236" r="4" fill="#7dd3fc" stroke="#38bdf8" stroke-width="1"/>
+  <!-- grip: caretaker's tool wrap -->
+  <path d="M162 246 L 162 306 C 162 314, 182 314, 182 306 L 182 246 Z" fill="#1a0a0d" stroke="#7f1d1d" stroke-width="1.6"/>
+  <g stroke="#450a0a" stroke-width="1">
+    <path d="M166 258 L 178 258"/><path d="M166 276 L 178 276"/><path d="M166 294 L 178 294"/>
   </g>
-  <g transform="rotate(-9 252.0 96.0)" opacity=".9">
-    <path d="M252.0 91.8 C255.1 95.2, 255.1 98.1, 252.0 99.6 C248.9 98.1, 248.9 95.2, 252.0 91.8 Z" fill="#d64a4a" opacity=".42"/>
-  </g>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d64a4a">MAW-W-852-01</text>
+  <circle cx="172" cy="318" r="7" fill="#450a0a" stroke="#ef4444" stroke-width="1.2"/>
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#ef4444">MAW-W-852-01</text>
 </svg>
