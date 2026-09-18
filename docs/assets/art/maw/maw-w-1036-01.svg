@@ -1,18 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%" role="img" aria-label="WEAPON 1036">
   <defs>
-    <radialGradient id="bg1036" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#111318"/><stop offset="100%" stop-color="#08090c"/></radialGradient>
-    <radialGradient id="gl1036" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#475569" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
+    <radialGradient id="bg1036" cx="50%" cy="42%" r="58%"><stop offset="0%" stop-color="#181206"/><stop offset="100%" stop-color="#0d0a04"/></radialGradient>
+    <radialGradient id="gl1036" cx="50%" cy="46%" r="50%"><stop offset="0%" stop-color="#92400e" stop-opacity=".20"/><stop offset="100%" stop-color="#000" stop-opacity="0"/></radialGradient>
   </defs>
-  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg1036)" stroke="#94a3b8" stroke-width="2.4"/>
+  <rect x="6" y="6" width="388" height="388" rx="14" fill="url(#bg1036)" stroke="#d97706" stroke-width="2.4"/>
   <rect x="14" y="14" width="372" height="372" rx="10" fill="none" stroke="#f1df76" stroke-width="1" stroke-dasharray="7 4" opacity=".35"/>
   <circle cx="200" cy="188" r="132" fill="url(#gl1036)"/>
-  <rect x="18" y="18" width="122" height="26" rx="3" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
-  <text x="30" y="36" fill="#94a3b8" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
-  <!-- tower variant W-1036 off=-3 wob=2 -->
-  <path d="M174 48 L 214 48 L 214 232 L 174 232 Z" fill="#334155" stroke="#94a3b8" stroke-width="2"/>
-  <path d="M184 232 L 204 232 L 202 314 C 202 322, 186 322, 186 314 Z" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
-  <circle cx="194" cy="326" r="7" fill="#08090c" stroke="#94a3b8" stroke-width="1.2"/>
-  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#94a3b8">MAW-W-1036-01</text>
-  <rect x="156" y="326" width="5" height="4" fill="#fff" opacity=".0"/>
-  <circle cx="96" cy="344" r="2" fill="#000" opacity=".0"/>
+  <rect x="18" y="18" width="122" height="26" rx="3" fill="#050a14" stroke="#d97706" stroke-width="1.2"/>
+  <text x="30" y="36" fill="#d97706" font-family="Impact, Arial Black, sans-serif" font-size="12" letter-spacing="2">WEAPON</text>
+<!-- 1036 maul: war maul with spiked poll -->
+  <rect x="168" y="116" width="64" height="34" rx="4" fill="#422006" stroke="#d97706" stroke-width="1.6"/>
+  <path d="M232 116 L242 124 L242 142 L232 150" fill="#1c1408" stroke="#ef4444" stroke-width="1"/>
+  <path d="M242 124 L246 118 L246 148 L242 142" fill="#334155" stroke="#94a3b8" stroke-width="0.8"/>
+  <rect x="192" y="150" width="16" height="66" rx="5" fill="#3f2a14" stroke="#d97706" stroke-width="1.2"/>
+  <circle cx="200" cy="130" r="2" fill="#92400e"/>
+  <path d="M168 124 L232 124 M168 142 L232 142" stroke="#92400e" stroke-width="0.7" opacity="0.5"/>
+
+  <text x="16" y="380" font-family="monospace" font-size="15" letter-spacing="2" fill="#d97706">MAW-W-1036-01</text>
 </svg>
