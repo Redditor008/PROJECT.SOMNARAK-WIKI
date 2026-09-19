@@ -923,7 +923,7 @@ Seiyon's most persistent internal limitation is the belief that her needs are le
 
 Seiyon does not use a conventional M.A.W. Her progression in the Memory Archive is expressed through Key Pages, culminating in **The Promise**.
 
-#### Appearance — The Promise & Memory Archive Interface
+#### Appearance
 
 The Memory Archive Interface manifests as a hovering circular halo of pale white and deep blue crystalline Key Pages orbiting Seiyon's posture. Each page gleams like polished Han-glass, inscribed with delicate administrative registries and facility lifecycle histories.
 

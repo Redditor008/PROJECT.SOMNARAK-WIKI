@@ -696,7 +696,7 @@ The source establishes his work and departmental environment more firmly than a 
 
 No named weapon, armor set, relic, personal Echo Compass, or M.A.W. is assigned to him.
 
-#### Appearance — Research Ledger & Subject-Mind Manifestation
+#### Appearance
 
 The Research Ledger is a heavy bound directory clad in slate-grey sorrow-forged plates with inset Han-crystal indexing strips. Its parchment leaves are etched with glowing pale white classification matrices that record observation points and entity affinities in real time.
 
