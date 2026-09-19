@@ -66,7 +66,7 @@ Marjuk is patient, formal, and difficult to rush. He serves as the Directorate's
 | **Primary Function** | Archive command, record authentication, Echo preservation, restricted-access review, historical reconstruction, language analysis, Cycle documentation, and Final Door monitoring |
 | **Operational Presence** | Physical humanoid Cryogen on Floor 6 with direct voice communication, written records, and archive-system interfaces |
 | **M.A.W.** | **None recorded** — Directorate records place him outside ordinary M.A.W. contact; Keeper equipment and his Cryogen chassis are not M.A.W. |
-| **Archive Progression** | **None recorded** — no direct participation, Reception, Key Page, or Floor Realization in _The Memory Archive_ operation |
+| **Archive Progression** | **None recorded** — no direct participation, Encounter, Memory Folio, or Floor Realization in _The Memory Archive_ operation |
 | **Current Status** | Active; post-Cycle Archive Lead preserving both classified originals and the public record of truths revealed by the R.D. |
 | **First Major Appearance** | _Absolvohan_, Day 12 — recovery of a Before-Time fragment concerning Cheonbulok's Furnace |
 | **Protagonist Role** | _Absolvohan_ — major supporting Echo-Core whose archival discoveries help change the purpose of the Absolvohan |
@@ -560,15 +560,15 @@ Despite his title and physical proximity, Marjuk has **no direct recorded role**
 
 ### Structural Connection
 
-The Memory Archive is an ancient living structure beneath the Alpha Tree and is accessible through the Grand Archive. It consumes and preserves visitors as stories. Its setting overlaps Marjuk's professional domain, and its first Reception involves the First Keeper.
+The Memory Archive is an ancient living structure beneath the Alpha Tree and is accessible through the Grand Archive. It consumes and preserves visitors as stories. Its setting overlaps Marjuk's professional domain, and its first Encounter involves the First Keeper.
 
 Those facts make him relevant to the environment. They do not make him the Archive's creator, controller, guardian, narrator, or participant.
 
 ### Seiyon's Operation
 
-The narrative identifies Seiyon as the protagonist. She enters to confront the Original, completes Reception Battles and Floor Realizations, and emerges after the Merge.
+The narrative identifies Seiyon as the protagonist. She enters to confront the Original, completes Encounter Battles and Floor Realizations, and emerges after the Merge.
 
-Marjuk is not named as an escort, Reception opponent, Key Page, floor patron, or participant in the ending. No source places him into Seiyon's journey merely because he commands the R.D. Deep Vault.
+Marjuk is not named as an escort, Encounter opponent, Memory Folio, floor patron, or participant in the ending. No source places him into Seiyon's journey merely because he commands the R.D. Deep Vault.
 
 ### Distinct Archives
 
@@ -582,7 +582,7 @@ Marjuk's Place-Lament affects the Deep Vault. It does not establish control over
 
 ### Archive Progression Status
 
-No Reception, realization, Key Page, reward, combat, Merge effect, or post-operation transformation is assigned to Marjuk. His Profile therefore records **None**.
+No Encounter, realization, Memory Folio, reward, combat, Merge effect, or post-operation transformation is assigned to Marjuk. His Profile therefore records **None**.
 
 ---
 
@@ -825,11 +825,30 @@ His current clothing consists of:
 
 The coat reflects role and environment. It is not armor with a documented combat rating.
 
-### Memory Lens
+### The Deep Vault Memory-Lens
 
-The Keeper Memory Lens is a monocle of crystallized memory that can display visual, auditory, and emotional content from an Echo. It can compare memories and identify contradictions.
+Marjuk's primary archive implement is an ancient cryogenic survey loupe through which historical Echoes, lost Cycle iterations, and suppressed entity records are scrutinized without risk of psychological contamination.
 
-Marjuk's synthetic right eye can accept its display. The Lens is faction technology, not proof that every memory shown is objective. Prolonged use risks mixing the viewer's memories with the record.
+Appearance : A long brass-framed cryogenic loupe mounted on a four-foot survey staff, fitted with a twelve-inch circular quartz disc containing frozen microscopic memory plates and fine vernier scales.
+
+The quartz disc remains permanently chilled to near absolute zero, frosting the surrounding air with delicate ice crystals. Looking through the lens reveals chronological historical imprints and past entity movement paths etched into chamber stone.
+
+| Field | Registry Entry |
+|---|---|
+| **Designation** | The Deep Vault Memory-Lens |
+| **Type** | Cryogenic Chrono-Refraction Loupe & Staff |
+| **Archetype** | OPTICAL (Survey Loupe & Inspection Staff) |
+| **Grade** | δ (Deep Vault Authority) |
+| **Bearer** | Marjuk only |
+| **Element** | Void (Historical Silence) + Lament (Preserved Grief) |
+| **Bearer Signature** | Void (Grey/White) |
+| **Damage** | 6–12 Void direct + Chronological Stasis |
+| **Speed** | 3 (Normal Cadence — 1 focus sweep per 1.5s) |
+| **Range** | Range 4 (Long / Optical Standoff — 4–8m) |
+| **Attack Pattern** | Focused Chrono-Ray & Entity Slow (50% speed penalty) |
+| **Falloff** | 100% focused beam |
+| **Operational Cost** | Cryogen core coolant / 10 Sorrow Echoes |
+| **Corrosion Risk** | None (Isolated Cryogen Chassis / No Active Entity Link) |
 
 ### Whispering Index
 
@@ -1448,7 +1467,7 @@ No personal M.A.W. or Corrosion stage is assigned. Memory equipment, Cryogen con
 
 ### The Memory Archive
 
-The Grand Archive, Deep Vault, and Memory Archive are related but distinct. Marjuk is not the First Keeper, the Archivist Key Page, or a hidden participant in Seiyon's operation.
+The Grand Archive, Deep Vault, and Memory Archive are related but distinct. Marjuk is not the First Keeper, the Archivist Memory Folio, or a hidden participant in Seiyon's operation.
 
 ### Apparent Age
 

@@ -471,7 +471,7 @@ The story does not return his missing sorrow. It makes his observation more resp
 
 ## Role in _The Memory Archive_
 
-Ayshuk has **no direct recorded role** in _The Memory Archive_. He does not appear as a Reception opponent, Key Page holder, Patron, or identified participant in that operation.
+Ayshuk has **no direct recorded role** in _The Memory Archive_. He does not appear as a Encounter opponent, Memory Folio holder, Patron, or identified participant in that operation.
 
 The Memory Archive has its own floor and reception numbering. A reference to “Floor 4” in that operation is not sufficient evidence that the Directorate's Insight Forge or Ayshuk is involved. The two systems must not be merged by matching numbers alone.
 
@@ -712,21 +712,30 @@ Ayshuk commands, but does not personally own:
 - instruments used to assess M.A.W. potential;
 - upgraded Echo Compass systems when deployed to Floor 4 teams.
 
-### Research Ledger Fields
+### The Subject-Mind Analytical Ledger
 
-A standard ledger records:
+Ayshuk's signature focus implement is an autonomous floating vellum ledger that records, categorizes, and calculates the behavioral vulnerabilities of all active sorrow entities in real time.
 
-| Field | Purpose |
+Appearance : A floating hexagonal analytical ledger bound in silver-trimmed dark vellum, surrounded by three orbiting crystal prisms that hover effortlessly thirty centimeters above Ayshuk's left hand.
+
+The ledger's vellum leaves flip autonomously on air currents, displaying glowing azure behavioral diagrams and work efficiency formulas. The orbiting prisms project diagnostic beam grids that reveal hidden structural vulnerabilities in approaching sorrow entities.
+
+| Field | Registry Entry |
 |---|---|
-| **SECC designation** | Identifies the entity within the Directorate system |
-| **Observation Level** | States how much verified knowledge has been unlocked |
-| **OP count** | Tracks accumulated research progress |
-| **Completed projects** | Separates tested work from proposed work |
-| **Unlocked knowledge** | Records behavior, origin, core, triggers, and relationships as justified |
-| **M.A.W. history** | Connects research to extraction outcomes and consequences |
-| **Personnel notes** | Preserves exposure, response, and safety information |
-
-Ayshuk's authority lies in deciding whether the evidence supports the entry, not in making every entry personally.
+| **Designation** | The Subject-Mind Analytical Ledger |
+| **Type** | Autonomous Cognitive Diagnostic Focus |
+| **Archetype** | FANTASY (Levitating Astral Ledger & Prisms) |
+| **Grade** | δ (Critical Analytical Grade) |
+| **Bearer** | Ayshuk only |
+| **Element** | Lament (Cognitive Mind) + Void (Erasure) |
+| **Bearer Signature** | Lament (Deep Blue) |
+| **Damage** | 8–15 Lament direct (Cognitive Overload) |
+| **Speed** | 5 (Very Fast — 2 diagnostic pulses per second) |
+| **Range** | Special (Instant / Omnipresent Line-of-Sight) |
+| **Attack Pattern** | Diagnostic Beam Scan / Vulnerability Expose |
+| **Falloff** | 100% across all scanned entities within line-of-sight |
+| **Operational Cost** | 12 Sorrow Echoes per analysis cycle |
+| **Corrosion Risk** | None (Hollow Synthetic Mind / Zero Entity Resonance) |
 
 ### M.A.W. Status
 

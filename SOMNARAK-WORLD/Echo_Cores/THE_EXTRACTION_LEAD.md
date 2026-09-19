@@ -582,7 +582,7 @@ Her resolution is not absolution. The story does not undo the child, restore eve
 
 ## Role in _The Memory Archive_
 
-Zyrak has **no direct recorded appearance** in _The Memory Archive_ operation. She receives no Reception, Key Page, Floor Realization, or named Archive progression in the account.
+Zyrak has **no direct recorded appearance** in _The Memory Archive_ operation. She receives no Encounter, Memory Folio, Floor Realization, or named Archive progression in the account.
 
 ### Chronological Status
 
@@ -599,7 +599,7 @@ Zyrak and the Memory Archive approach the same problem from opposite institution
 - Zyrak removes memory from entities to recover the Before-Time;
 - the post-Cycle R.D. claims extraction should share rather than steal.
 
-These parallels sharpen her secret. They do not create an undocumented Reception or establish that the Archive knows what she has done.
+These parallels sharpen her secret. They do not create an undocumented Encounter or establish that the Archive knows what she has done.
 
 ### No Assigned Progression
 
@@ -830,20 +830,30 @@ Zyrak's Floor 3 clothing and tools are practical extensions of the work:
 
 These items define her working presentation without becoming a signature weapon set.
 
-### M.A.W. Extraction Rigs
+### The Precision Extraction-Rig
 
-The Extraction Hall's rigs externalize entity sorrow under controlled resonance. They use:
+Zyrak's signature equipment is a specialized shoulder-mounted extraction rig integrated directly into her Android chassis, designed to sample, harvest, and stabilize volatile M.A.W. energy cores.
 
-- calibration crystals;
-- resonance scanners;
-- entity-specific restraint and containment interfaces;
-- palm or wrist connections for the extractor;
-- M.A.W. shaping and separation tools;
-- emergency cutoffs;
-- testing mounts;
-- registry and storage systems.
+Appearance : A pneumatic shoulder-mounted extraction rig constructed from brushed titanium and brass gears, housing dual high-pressure harpoon injectors and a high-tensile silver suture spool mounted alongside an illuminated pressure gauge.
 
-The rigs belong to Floor 3. Their existence does not mean Zyrak can perform every extraction safely without staff or infrastructure.
+The rig deploys tethered resonance needles that penetrate entity cores to siphon concentrated Han into insulated collection canisters. Microscopic gear teeth click rhythmically as the system automatically balances pressure and prevents hazardous spiritual backflow.
+
+| Field | Registry Entry |
+|---|---|
+| **Designation** | The Precision Extraction-Rig |
+| **Type** | Standoff Harvesting Implement & Harpoon |
+| **Archetype** | GUN (Pneumatic Harpoon & Suture Siphon) |
+| **Grade** | δ (Critical Technical Grade) |
+| **Bearer** | Zyrak only |
+| **Element** | Void (Siphon) + Grudge (Penetration) |
+| **Bearer Signature** | Void (Pale Grey) |
+| **Damage** | 10–18 Void direct + Siphon Tether |
+| **Speed** | 3 (Normal Cadence — 1 launch per 1.4s) |
+| **Range** | Range 4 (Long / Standoff Ballistics — 4–8m) |
+| **Attack Pattern** | Piercing Harpoon & Suture Drain |
+| **Falloff** | 100% on tethered target; 40% shock along cable |
+| **Operational Cost** | 15 Sorrow Echoes per deployment |
+| **Corrosion Risk** | Stage 2 (Personality shifts / Collector doctrine bleed) |
 
 ### Calibration Crystals
 
@@ -1516,7 +1526,7 @@ Zyrak identifies the Three Birds' Day 170 merger as a Hope Entity. The entity is
 
 ### Memory Archive Nonappearance
 
-No occurrence of Zyrak appears in the Memory Archive record. No Reception, Key Page, Floor Realization, or Archive assignment follows by inference.
+No occurrence of Zyrak appears in the Memory Archive record. No Encounter, Memory Folio, Floor Realization, or Archive assignment follows by inference.
 
 ### Post-Cycle Secret Status
 

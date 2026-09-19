@@ -927,67 +927,30 @@ Old insignia and the exact arrangement of armor are visual design details, not p
 
 ### Cyborg Weapon — Threshold Vow
 
-**Threshold Vow** is Mellda's personal integrated Cyborg weapon. It is manufactured equipment built into her designated left forearm, not a M.A.W. stored in the arm. The system remains singular: the right arm cannot create a second copy.
+Threshold Vow is Mellda's signature heavy impact implement, constructed from reinforced industrial scrap-metal and hydraulic compression rams during her defense of the Outer Gate.
 
-#### Appearance
+Appearance : A colossal two-handed impact pile driver forged from industrial scrap-iron and hardened tungsten, measuring nearly two meters with a square striking head mounted on heavy hydraulic recoil dampers.
 
-In its normal state, Threshold Vow is a fully functional artificial forearm and hand. When activated, the hand retracts and the forearm extends into a one-meter Han-infused Sacred Blade. The edge emits a Crimson shine, and Black smoke surrounds the blade without hiding its shape.
+The battered iron head carries welded Warden service plates and deep Grudge scars from decades of border skirmishes. Dual pneumatic pistons along the reinforced shaft compress with an audible hiss before releasing devastating concussive shockwaves.
 
-#### Functional Properties
-
-- Transforms between a working artificial hand and one Sacred Blade.
-- Uses **Weight (Black)** for direct damage.
-- Applies **Grudge (Crimson)** as damage over time.
-- Attacks with a slow piercing line pattern at Room range.
-- Can strike up to three targets along that line.
-- Can release one concentrated Weight wave, followed by a mandatory 15-second recharge.
-- Returns to ordinary hand function when the blade retracts.
-- Cannot be transferred, extracted, or treated as Mellda's Effloresced personal M.A.W.
-
-#### Weapon Statistics
-
-| Field | Entry |
+| Field | Registry Entry |
 |---|---|
-| **Type** | Integrated Cyborg weapon |
-| **Output rating** | **Critical (δ)-equivalent**; not an actual M.A.W. grade |
-| **Element** | **Weight (Black) + Grudge (Crimson)** |
-| **Damage** | **6–16 Weight (Black)** direct + **2 Grudge (Crimson) per second for 10 seconds** |
-| **Speed** | **1 — Slow** |
-| **Range** | **5 — Room** |
-| **Attack pattern** | **Pierce** |
-| **Target coverage** | **Line; up to 3 targets total** |
-| **Falloff rule** | Primary **100%** → first pierced target **70%** → second pierced target **50%** |
-| **Damage application** | Apply the target's multiplier to direct damage and each Tick separately |
-| **Maximum amount** | **1 — integrated into the designated left arm** |
-| **M.A.W. status** | Manufactured Cyborg equipment; not extracted, bonded, or self-manifested M.A.W. |
+| **Designation** | Threshold Vow |
+| **Type** | Hydraulic Heavy Kinetic Breaching Armament |
+| **Archetype** | BLUNT (Pneumatic Impact Sledge / Maul) |
+| **Grade** | δ (Critical Frontier Grade) |
+| **Bearer** | Mellda only |
+| **Element** | Weight (Karmic Han) + Grudge (Impact Force) |
+| **Bearer Signature** | Weight (Amber/Black) |
+| **Damage** | 18–32 Weight direct + Concussive Tremor |
+| **Speed** | 2 (Slow Cadence — 1 strike per 2.2s) |
+| **Range** | Range 2 (Short / Heavy Melee Reach — 1–2m) |
+| **Attack Pattern** | Kinetic Shockwave & Directional Ground Tremor |
+| **Falloff** | 100% direct hit; 50% splash shockwave (3m radius) |
+| **Operational Cost** | Hydraulic charge / 15 Sorrow Echoes |
+| **Corrosion Risk** | N/A (Effloresced Outside Sorrow passenger; stable bond) |
 
-#### Attack Resolution
-
-A normal hit resolves the two damage components separately. The selected target receives 100% of the **6–16 Black direct damage** and each **2 Crimson Tick**. If the thrust pierces a second target, that target receives 70% of each component. A third and final target receives 50% of each component. The direct strike and ten-second Tick sequence are not added together before falloff.
-
-| Target | Multiplier | Direct Weight (Black) | Grudge (Crimson) Tick |
-|---|---:|---:|---:|
-| **Primary** | **100%** | **6–16** | **2 per second for 10 seconds** |
-| **First pierced** | **70%** | **4.2–11.2** | **1.4 per second for 10 seconds** |
-| **Second pierced** | **50%** | **3–8** | **1 per second for 10 seconds** |
-
-No rounding rule is recorded. The weapon specification therefore preserves the exact percentage results rather than rounding to whole numbers.
-
-#### Active Ability — Singular Weight Wave
-
-Threshold Vow can create a large singular wave made from concentrated **Weight (Black)** and send it along one line.
-
-| Field | Entry |
-|---|---|
-| **Wave damage** | **25 Weight (Black)** |
-| **Pattern** | Single line |
-| **Target coverage** | Up to 3 targets under the standard Threshold Vow line rule |
-| **Falloff** | Primary **100%** → first pierced target **70%** → second pierced target **50%** |
-| **Recharge** | **15 seconds** before the wave can be released again |
-
-The wave deals direct Weight damage and does not add a Crimson Tick unless another effect separately applies it. Under the standard falloff, its unrounded target values are **25**, **17.5**, and **12.5** Weight damage.
-
-#### Classification Clarification
+### Classification Clarification
 
 The arm's two colors align with Mellda's Weight and Grudge signature. Its output is equivalent to a Critical (δ) M.A.W., but that comparison measures combat output only. Threshold Vow has no extracted entity source, does not define the passenger's possible personal M.A.W., and does not become a third soul. When the blade retracts, the left hand returns to ordinary functional use.
 
