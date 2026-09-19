@@ -104,7 +104,7 @@ M.A.W. Armaments (`MAW-W`) belong to one of seven distinct categories. Weapons a
 - **Silhouettes & Sub-types:**
   - *Projectors & Ballistics:* Siege Arbalest, Repeating Crossbow, Heavy Culverin, Break-Action Hand Cannon, Trench Rifle, Harpoon Gun.
   - *Thrown Implements & Relics:* Piercing Needles & Spools, Returning Chakrams, Thrown Anchors, Sorrow-Weighted Javelins, Shattering Urns.
-  - *Sensory & Sonic Projectors:* Resonating Bells that emit directional soundwaves, Lanterns that cast burning light beams, Censers that project expanding sorrow fog.
+  - *Sensory, Light & Homing Foci:* Resonating Bells that emit directional soundwaves, Lanterns that cast burning light beams, Censers that project expanding sorrow fog, and Soul-Seeking Candelabra (antique brass candle stands whose deep purple flames detach into autonomous tracking wisps that seek designated targets across Range 4 Long).
   - *Reflective Rays:* Silver Mirrors casting focused sorrow beams across rooms.
 
 ### 4.3 MIXED (Transforming, Shifting & Multi-Stance)
@@ -136,7 +136,7 @@ M.A.W. Armaments (`MAW-W`) belong to one of seven distinct categories. Weapons a
 ### 4.7 PRIMAL (Bio-Organic, Calcified Bone & Visceral Anomaly)
 - **Concept:** Monstrous armaments born from living marrow, calcified jaws, muscular tendrils, and predatory sorrow instincts.
 - **Silhouettes & Sub-types:**
-  - *Jaws & Saws:* Snapping Bone-Jaws that bite and crush, Serrated Bone-Saws, Mandible Pincers, Chitin Cleavers.
+  - *Jaws & Saws:* Snapping Bone-Jaws that bite and crush, Serrated Bone-Saws, Mandible Pincers, Chitin Cleavers, and Hungry Jaw-Cleavers (massive 2-meter great-cleavers that appear as solid monolithic blades when unequipped, but physically split open down the front-middle when swung to reveal rows of ravenous, razor-sharp bone teeth that clamp shut during strikes).
   - *Talons, Tendrils & Flesh:* Rending Bone-Claw Gauntlets, Ossified Spine-Whips, Rib-Cage Bows, Tendon-Flails, Horn Pikes, and Living Bio-Spikes (rigid 1.2m calcified red marrow spikes that awaken and writhe as flexible, coiling muscular tendrils/tentacles when held by an Agent).
   - *Bio-Ocular Implants:* Organic sorrow eyes that physically replace the Agent's own eye socket upon equip, casting an unblinking gaze that inflicts a continuous Room-Wide Han Drain on any entity in sight.
 
