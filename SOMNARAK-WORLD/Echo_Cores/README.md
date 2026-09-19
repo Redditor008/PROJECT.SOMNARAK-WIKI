@@ -18,15 +18,15 @@ Each Echo-Core represents a fundamental aspect of human will, endurance, and sor
 
 | File Name | Name & Designation | Department / Sector | Core Narrative Role |
 |---|---|---|---|
-| `THE_DIRECTOR.md` | **Ayshuk (아이슈크)** | Executive Director | Supreme administrator; architect of the Dawn Protocol; holds the sovereign key |
-| `THE_SECRETARY.md` | **Seiyon (세이연)** | Chief Secretary / Central | Operational nexus; manages scheduling, inter-floor logistics, and Directorate liaisons |
-| `THE_CONTAINMENT_LEAD.md` | **Majin (마진)** | Floor 1: Containment | Primary physical suppression; frontline containment of volatile entities |
-| `THE_ARCHIVE_LEAD.md` | **Dekan (데칸)** | Floor 2: Archive | Keeper of historical records, memory preservation, and entity cataloging |
-| `THE_EXTRACTION_LEAD.md` | **Mellda (멜다)** | Floor 3: Extraction | Han refining forge master; materializes M.A.W. armaments from entity cores |
-| `THE_RESEARCH_LEAD.md` | **Ishall (이샬)** | Floor 4: Research | Biological and psychic investigation; formulates work affinities and behavioral models |
-| `THE_BORDER_LEAD.md` | **Marjuk (마르죽)** | Floor 5: Border Watch | Perimeter security; isolation and quarantine of breached sectors |
-| `THE_EXILE.md` | **Zyrak (자이락)** | Floor 6: Deep Vault | Warden of the deepest black-level vault; oversees the most terrifying anomalies |
-| `THE_OUTSIDER.md` | **Xyan (지안)** | Floor 8: Gate Watch | Exterior threshold commander; coordinates defense against external Ordeals and horrors |
+| `THE_DIRECTOR.md` | **Majin (마진)** | Echo-Core 1 / Floor 1 (Spires) | Supreme authority; only survivor of Ω-grade M.A.W. fusion; architect of the 1,778 Cycles |
+| `THE_SECRETARY.md` | **Seiyon (세이연)** | Echo-Core 2 / Floor 1 (Central) | Central administrative intelligence; manages facility logistics, liaisons, and memory archive |
+| `THE_CONTAINMENT_LEAD.md` | **Dekan (데칸)** | Echo-Core 3 / Floor 2 (Maw's Keep) | Frontline containment & suppression; monitors Maw disturbances; partially Maw-merged Cyborg |
+| `THE_EXTRACTION_LEAD.md` | **Zyrak (지락)** | Echo-Core 4 / Floor 3 (Extraction Hall) | M.A.W. forge-master; resonance scanner; former Collector master technician; Android |
+| `THE_RESEARCH_LEAD.md` | **Ayshuk (아이숙)** | Echo-Core 5 / Floor 4 (Insight Forge) | Han behavioral models, work affinities, and cognitive study; analytical Android intelligence |
+| `THE_BORDER_LEAD.md` | **Mellda (멜다)** | Echo-Core 6 / Floor 5 (Border Watch) | Perimeter defense against Outside Sorrow; Warden chassis heavy impact combatant; Cyborg |
+| `THE_ARCHIVE_LEAD.md` | **Marjuk (마주크)** | Echo-Core 7 / Floor 6 (Deep Vault) | Keeper of classified records, deep memory vaults, and ancient entity history; Cryogen |
+| `THE_OUTSIDER.md` | **Ishall (이샬)** | Echo-Core 8 / Floor 7 (Shadow Corps) | Covert operations and black-level anomaly containment; repurposed enemy Android chassis |
+| `THE_EXILE.md` | **Xyan (시안)** | Echo-Core 9 / Floor 8 (Gate Watch) | Outer threshold commander; defender against the Desolate; Desolate-changed Cyborg |
 
 *(Note: Floor 7 is administered as the Shadow Corps operational sector, co-monitored by Zyrak and Seiyon.)*
 
