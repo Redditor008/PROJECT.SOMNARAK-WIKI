@@ -486,7 +486,7 @@ Only broad institutional links are established:
 
 ### Archive Progression Status
 
-No reception, realization, page, E.G.O., floor reward, or post-operation change is assigned to him. His profile therefore records **None** rather than converting thematic relevance into a story appearance.
+No reception, realization, page, M.A.W., floor reward, or post-operation change is assigned to him. His profile therefore records **None** rather than converting thematic relevance into a story appearance.
 
 ---
 

@@ -98,22 +98,22 @@ The physical form the sorrow takes in the world — separate from Coherence and 
 
 #### Form Descriptors (Narrative Origin Types)
 
-The Form Descriptor classifies the **narrative origin and nature** of the sorrow — equivalent to Lobotomy Corporation's F/T/O/M form-type system, but in Somnarak terms. Each descriptor tells you what *kind* of grief the entity embodies:
+The Form Descriptor classifies the **narrative origin and nature** of the sorrow in Somnarak classification terms. Each descriptor tells you what *kind* of grief the entity embodies:
 
-| Descriptor | Korean | Meaning | LC Equivalent | Example Entities |
-|------------|--------|---------|---------------|-----------------|
-| **Body** | 신체 | Physical, corporeal — the sorrow has taken flesh and bone | — (physical) | The Orphaned Bell, The Smothering Mother |
-| **Lament** | 탄식 | Born from grief, loss, and mourning — the sorrow of what was taken | T (Trauma — grief) | The Hollow Choir, The Grieving Colossus |
-| **Grudge** | 원한 | Born from rage, injustice, and fury — the sorrow of what was done to you | T (Trauma — anger) | The Maw, The Rage Forge |
-| **Void** | 공허 | Born from absence, erasure, and dissolution — the sorrow of what was forgotten | T (Trauma — identity loss) | The Debt Eater, The Frozen Veil |
-| **Weight** | 무게 | Born from burden, obligation, and pressure — the sorrow of what you owe | T (Trauma — burden) | The Cracked Hourglass, The Debt Scale |
-| **Phantasmal** | 환영 | Spectral, semi-corporeal — exists between the Veil and the Raw | — (supernatural) | The Cartographer's Ghost, The Forgotten Soldier |
-| **Dream** | 꿈 | Partially exists in the Dream realm — the sorrow of what was only imagined | M (Mythical — dream) | The Secretary (Seiyon), entities connected to the Dream |
-| **Mind** | 정신 | Psychological, cognitive — attacks comprehension and reason itself | T (Trauma — psychological) | The Memory Weaver, The Silent Child |
-| **Spirit** | 영혼 | Soul-bound, afterlife-adjacent — the sorrow of the dead who cannot leave | — (spiritual) | The Kind Echo, entities bound to the Weeping |
-| **Tale** | 이야기 | Born from a forgotten story, myth, or legend — the sorrow crystallized when the story was lost | F (Fairytale) | The Frozen Veil (fairy-tale origin), Place-Tale entities |
+| Descriptor | Korean | Meaning | Example Entities |
+|------------|--------|---------|------------------|
+| **Body** | 신체 | Physical, corporeal — the sorrow has taken flesh and bone | The Orphaned Bell, The Smothering Mother |
+| **Lament** | 탄식 | Born from grief, loss, and mourning — the sorrow of what was taken | The Hollow Choir, The Grieving Colossus |
+| **Grudge** | 원한 | Born from rage, injustice, and fury — the sorrow of what was done to you | The Maw, The Rage Forge |
+| **Void** | 공허 | Born from absence, erasure, and dissolution — the sorrow of what was forgotten | The Debt Eater, The Frozen Veil |
+| **Weight** | 무게 | Born from burden, obligation, and pressure — the sorrow of what you owe | The Cracked Hourglass, The Debt Scale |
+| **Phantasmal** | 환영 | Spectral, semi-corporeal — exists between the Veil and the Raw | The Cartographer's Ghost, The Forgotten Soldier |
+| **Dream** | 꿈 | Partially exists in the Dream realm — the sorrow of what was only imagined | The Secretary (Seiyon), entities connected to the Dream |
+| **Mind** | 정신 | Psychological, cognitive — attacks comprehension and reason itself | The Memory Weaver, The Silent Child |
+| **Spirit** | 영혼 | Soul-bound, afterlife-adjacent — the sorrow of the dead who cannot leave | The Kind Echo, entities bound to the Weeping |
+| **Tale** | 이야기 | Born from a forgotten story, myth, or legend — the sorrow crystallized when the story was lost | The Frozen Veil (fairy-tale origin), Place-Tale entities |
 
-> **Tale** is the rarest descriptor — entities born when a story so powerful it shaped the city was forgotten, corrupted, or broken, and its sorrow crystallized into Han. These are the Somnarak equivalent of Lobotomy Corporation's Fairytale (F) form-type.
+> **Tale** is the rarest descriptor — entities born when a story so powerful it shaped the city was forgotten, corrupted, or broken, and its sorrow crystallized into Han. These are Sorrow Entities born of cultural narratives, forgotten oral lore, and fallen myths.
 
 The full Manifestation is written as **[Physical Type]-[Descriptor]**, combining 5 physical types with 10 form descriptors for a complete 50-cell classification matrix:
 

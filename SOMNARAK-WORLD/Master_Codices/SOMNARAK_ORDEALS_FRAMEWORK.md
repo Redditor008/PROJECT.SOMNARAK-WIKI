@@ -21,7 +21,7 @@
 | **Containment** | Contained in sectors | **Uncontained** — wander freely through the Hand of Change |
 | **Classification** | SECC code (Origin-Coherence-Potency-Number) | **Color + Time** (e.g., Blue First Watch) |
 | **Work Types** | Flerehan / Pugnahan / Viderehan / Ferrehan | **None** — Ordeals cannot be worked; they must be suppressed in combat |
-| **E.G.O / M.A.W.** | Yields equipment on extraction | **No extraction** — Ordeals dissolve on suppression, leaving only residual Han |
+| **M.A.W. Equipment** | Yields equipment on extraction | **No extraction** — Ordeals dissolve on suppression, leaving only residual Han |
 | **Tale / Testimony / Record** | Full 이야기 / 증언 / 기록 sections | **None** — Ordeals have no story; they are phenomena, not persons |
 | **Sorrow Gauge** | Gauge-based breach system | **Spawn-based** — they appear when facility Han-density crosses thresholds |
 
