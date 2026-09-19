@@ -204,27 +204,29 @@ The escalation pattern is specific to Hollow Bell: it is not a generic breach ev
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Silence Hammer
+### M.A.W. Weapon — The Clapperless Chime-Sceptre
 
-**Type:** Weapon | **Grade:** β | **Element:** Void
-
-**Appearance:** a heavy hammer of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
-
-**Damage:** Void 5-9
-**Speed:** 2 (Normal)
-**Range:** 2 (Short)
+**Category:** MAGIC (Resonant Chime-Sceptre & Silver Striker)
+**Grade:** β | **Element:** Void
+**Damage:** Void 6–10
+**Speed:** 4 (Fast)
+**Range:** 3 (Medium: 2–4m)
+**Pattern:** Ultrasonic Psychic Pulse
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Creates a field where sound cannot travel.
+**Appearance:** A slender sceptre of polished silver topped with an inverted hollow bronze bell that entirely lacks a clapper. A delicate silver tuning striker accompanies it. Tapping the bell generates inaudible ultrasonic pulses that pierce directly into the target's psychic core.
+
+**Ability:** *Hollow Toll* — Deals Void damage at Range 3. Ultrasonic resonance bypasses physical armor to disorient enemies, applying mental tremor and reducing target defense.
 
 **Cost:** The wielder cannot hear while the field persists.
 
-### M.A.W. Suit — The Silence Veil
+### M.A.W. Suit — The Resonance-Dampening Shroud
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Void
+**Category:** Protective Attire (Quilted Linen Shroud & Silver Threading)
+**Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** A hooded shroud woven from multi-layered acoustic-dampening linen interwoven with silver thread that grounds harmonic shock.
 
 **Resistances:**
 - Grudge: 0.8 (Endured)
@@ -238,19 +240,20 @@ The escalation pattern is specific to Hollow Bell: it is not a generic breach ev
 
 **Cost:** The wearer feels faintly absent to themselves.
 
-### M.A.W. Gift — The Silence Charm
+### M.A.W. Gift — The Hollow Bell Pendant
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Void
+**Category:** Stigma (Silver Chime Pendant)
+**Grade:** β | **Element:** Void
 
-**Appearance:** a small charm of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** A miniature hollow silver chime worn around the throat that swings silently without ringing.
 
-**Slot:** Head
+**Slot:** Neck / Pendant
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity
 
-**Ability:** Grants a minor boon tied to Hollow Bell's sorrow; the effect mirrors the entity's nature.
+**Ability:** Dampens hostile psychic reverberations.
 
-**Cost:** The bearer occasionally forgets a word.
+**Cost:** The bearer occasionally forgets a spoken word.
 
 *Gifts are granted at random by the entity upon a successful work, not manufactured.*
 

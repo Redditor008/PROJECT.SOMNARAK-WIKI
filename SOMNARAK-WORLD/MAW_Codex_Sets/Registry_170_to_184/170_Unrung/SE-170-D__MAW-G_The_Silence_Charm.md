@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Silence Charm
+# M.A.W. GIFT — The Muffled Clapper Brooch
 
 > *“It marks the word that was left unheard. The bearer may lose a word of their own in exchange.”*
 
@@ -16,7 +16,7 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Silence Charm |
+| Official name | The Muffled Clapper Brooch |
 | Set | Heard Warning |
 | Type / grade / element | Gift, pale bell charm / β — Moderate / Void — Pale White |
 | Slot | Head |
@@ -41,7 +41,7 @@
 
 ## Appearance
 
-The Silence Charm is a small pale bell with no clapper and a word-shaped gap across its surface. It identifies the absence in a warning chain, not the person to blame for it. In active use the gap glows at one missing alert word, unacknowledged plea, or suppressed response step. At full activation, the Charm identifies one missing alert step or unheard plea that needs verification. The bearer records every revealed missing element before acting on it. It carries no Echo cost, but one missing warning element at a time. The Charm rests beside a response log, not a secret file. If used to fabricate a warning gap, the Charm removes a word from the bearer’s active vocabulary until the false report is corrected. The custodian covers the gap, states what is known and unknown, and removes the Gift during shutdown. A second Charm reveals overlapping silence gaps that cannot be responsibly sorted.
+The Muffled Clapper Brooch is a small pale bell with no clapper and a word-shaped gap across its surface. It identifies the absence in a warning chain, not the person to blame for it. In active use the gap glows at one missing alert word, unacknowledged plea, or suppressed response step. At full activation, the Charm identifies one missing alert step or unheard plea that needs verification. The bearer records every revealed missing element before acting on it. It carries no Echo cost, but one missing warning element at a time. The Charm rests beside a response log, not a secret file. If used to fabricate a warning gap, the Charm removes a word from the bearer’s active vocabulary until the false report is corrected. The custodian covers the gap, states what is known and unknown, and removes the Gift during shutdown. A second Charm reveals overlapping silence gaps that cannot be responsibly sorted.
 
 ## GIFT STATISTICS
 

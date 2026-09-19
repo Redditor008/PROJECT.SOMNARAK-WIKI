@@ -204,27 +204,29 @@ The escalation pattern is specific to Veil of Tears: it is not a generic breach 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Tear Requiem
+### M.A.W. Weapon — The Weeping Veil-Pavise & Tear Javelin
 
-**Type:** Weapon | **Grade:** β | **Element:** Lament
-
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that hums faintly when gripped.
-
-**Damage:** Lament 5-9
-**Speed:** 2 (Normal)
-**Range:** 2 (Short)
+**Category:** MIXED / UNIQUE (Flowing Silk Pavise Shield & Barbed Javelin)
+**Grade:** β | **Element:** Lament
+**Damage:** Lament 6–10
+**Speed:** 2 (Slow)
+**Range:** 3 (Medium: Close block + Medium javelin throw)
+**Pattern:** Defensive Shield-Bash / Piercing Javelin Launch
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Veil of Tears's lament signature in the strike.
+**Appearance:** A wide, flowing tower shield constructed from layered weeping funeral silks stretched across bone ribs, housing a detachable barbed silver javelin along its central spine. Bearer can raise the shield to absorb ranged strikes or throw the javelin across medium range.
+
+**Ability:** *Veil Bastion* — Absorbs incoming projectile damage and can launch the barbed javelin to impale and root targets for 1 turn.
 
 **Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
-### M.A.W. Suit — The Tear Veil
+### M.A.W. Suit — The Pallbearer's Layered Shroud
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
+**Category:** Protective Attire (Heavy Black Funeral Pall & Weeping Veil)
+**Grade:** β | **Element:** Lament
 
-**Appearance:** a flowing veil of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** A voluminous black funeral pall composed of five tiers of translucent grieving lace, weeping tears of condensed Han along its trailing hem.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -234,23 +236,24 @@ The escalation pattern is specific to Veil of Tears: it is not a generic breach 
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Absorbs emotional attacks.
+**Ability:** High absorption against Lament and psychological stress, dissipating impact through layered cloth.
 
 **Cost:** The wearer displays all grief openly through continuous tears.
 
-### M.A.W. Gift — The Tear Charm
+### M.A.W. Gift — The Weeping Veil Clip
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Lament
+**Category:** Stigma (Hair / Head Veil Clip)
+**Grade:** β | **Element:** Lament
 
-**Appearance:** a small charm of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** An ornate hair clip shaped like a mourning ribbon set with a single faceted weeping sapphire.
 
-**Slot:** Tail
+**Slot:** Head / Hair
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity
 
-**Ability:** Grants a minor boon tied to Veil of Tears's sorrow; the effect mirrors the entity's nature.
+**Ability:** Reduces mental sanity loss from allied defeats or team distress.
 
-**Cost:** The bearer weeps in their sleep.
+**Cost:** The bearer weeps softly in their sleep.
 
 *Gifts are granted at random by the entity upon a successful work, not manufactured.*
 

@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Silence Hammer
+# M.A.W. WEAPON — The Clapperless Chime-Sceptre
 
 > *“Make room to test the warning. Do not mistake the soundless field for the warning being resolved.”*
 
@@ -18,7 +18,7 @@ Durivel deployed it around a suspect alarm relay, removing ambient noise while e
 
 ## Appearance
 
-The Silence Hammer is a pale hammer of Han glass holding anti-sound in its head — not quiet but the active removal of sound, carried as a striking mass. It forms from vibration left after a warning produces real verification: the alarm that turned out to be true leaves this behind. In use it creates a local field where sound cannot travel, isolating one signal path for testing — in its recorded case deployed around a suspect alarm relay, removing ambient noise while engineers tested function; the field also removed shouted updates, and visual signals kept the silence from becoming a new failure. The cost is total and immediate: the wielder cannot hear while the field persists. Emergency voices erased inside the field is the first failure; silence treated as proof of no danger is the second; and the field used to suppress testimony is the third — a verification tool inverted into censorship. It is maintained by testing with redundant visual and tactile alarms, and it is never activated without a non-audio exit signal agreed in advance. The head stays cold between uses; warmth in the anti-sound means something nearby is still being silenced.
+The Clapperless Chime-Sceptre is a pale hammer of Han glass holding anti-sound in its head — not quiet but the active removal of sound, carried as a striking mass. It forms from vibration left after a warning produces real verification: the alarm that turned out to be true leaves this behind. In use it creates a local field where sound cannot travel, isolating one signal path for testing — in its recorded case deployed around a suspect alarm relay, removing ambient noise while engineers tested function; the field also removed shouted updates, and visual signals kept the silence from becoming a new failure. The cost is total and immediate: the wielder cannot hear while the field persists. Emergency voices erased inside the field is the first failure; silence treated as proof of no danger is the second; and the field used to suppress testimony is the third — a verification tool inverted into censorship. It is maintained by testing with redundant visual and tactile alarms, and it is never activated without a non-audio exit signal agreed in advance. The head stays cold between uses; warmth in the anti-sound means something nearby is still being silenced.
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|

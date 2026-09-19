@@ -46,9 +46,9 @@ During the The Icedrop Source-Trace, the field team preserved this source fact: 
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Tear Requiem | β Lament 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-1010-B__MAW-W_The_Tear_Requiem.md` |
-| The Tear Shroud | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-1010-C__MAW-S_The_Tear_Shroud.md` |
-| The Tear Pendant | β; Tail; 5%; +1 stat bonus when working the source entity | `SE-1010-D__MAW-G_The_Tear_Pendant.md` |
+| The Glacial Tear-Mirror | β Lament 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-1010-B__MAW-W_The_Tear_Requiem.md` |
+| The Frost-Veiled Mourning Gown | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-1010-C__MAW-S_The_Tear_Shroud.md` |
+| The Unmelting Teardrop Brooch | β; Tail; 5%; +1 stat bonus when working the source entity | `SE-1010-D__MAW-G_The_Tear_Pendant.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 

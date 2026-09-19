@@ -123,10 +123,10 @@ Batch-6 additions (2026-09-05, per owner ruling to add non-striking forms — ra
 | MAW-W-165 The Melted Requiem | Candle-Staff (wax head, singing edge-fin, light-to-danger line) | Medium (source: range 3 — Medium) |
 | MAW-W-168 The Trace Requiem | Return-Route Blade (route line turned to the mapped exit, map custodian) | Short (source: range 2 — Short) |
 | MAW-W-169 The Rusted Maul | Brace-Strike Maul (load handoff to prepared A-frame replacement) | Short (source: range 2 — Short) |
-| MAW-W-170 The Silence Hammer | Bell-Hollow Hammer (pale impact circle, outside alert partner) | Short (source: range 2 — Short) |
+| MAW-W-170 The Muffled Resonance-Bell | UNIQUE / RANGE (Acoustic Resonance Bell & Clapper-Rod) | Long |
 | MAW-W-175 The Dream Requiem | Thread-Light Blade (threads aligned into one line through the desire-maze) | Medium (source: range 3 — Medium) |
 | MAW-W-176 The Dream Requiem (Loom) | Loom-Frame Thread-Bow (warp window, two anchor knots, unpicking shot) | Medium (source: range 3 — Medium) |
-| MAW-W-180 The Debt Maul | Ledger-Wall Ram Maul (horizontal thrust holding the debt wall open) | Medium (source: range 3 — Medium) |
+| MAW-W-180 The Sarcophagus Wall-Ram | UNIQUE (Wall Battering Ram / Mobile Bastion) | Room |
 | MAW-W-184 Redacted Lens | Hand-Cannon Sighting Frame (pistol grip, Void-glass lens at the muzzle) | Medium (source: range 3 — Medium) |
 | MAW-W-185 The Gallery Requiem | Palette-Knife Blade (brush-stroke ridges, faceless portrait frame) | Short (source: range 2 — Short) |
 | MAW-W-189 The Fading Requiem | Dust-Echo Blade (grain-shedding, steadying cone on one doorway) | Short (source: range 2 — Short) |
@@ -176,7 +176,7 @@ Batch-9 additions (2026-09-05, NEW OWNER RULING: some M.A.W. items may take NON-
 
 | Item | Archetype (researched variant) | Band (source) |
 | --- | --- | --- |
-| MAW-W-280 The Tear Requiem | NON-WEAPON: Faceted Crystal Chalice (honed rim as the only edge, tears beading outside, own grief resting inside, salt-residue foot) | Short (source: 2 — Short) |
+| MAW-W-280 The Weeping Veil-Pavise & Tear Javelin | MIXED / UNIQUE (Silk Pavise Shield & Barbed Javelin) | Medium |
 | MAW-W-283 The Rust Wall Maul | Wall-Head Maul (overlapping rusted plate courses, ONE bright passable seam kept open, three closure-point rivets vs the dashed historic boundary) | Medium (source: 3 — Medium) |
 | MAW-W-285 The Silence Maul | Compact Cube-Head Maul (empty mouth-shaped recess with a dashed one-word slot, restraint marks, tied silence-knot cord) | Short (source: 2 — Short) |
 | MAW-W-290 The Lost Lens | Gimbaled Compass-Lens (bearing ring on pivots, ONE sector clouded and crossed out, all other spokes dashed-undecided, present-location pin) | Short (source: 2 — Short) |
@@ -197,7 +197,7 @@ Batch-10 additions (2026-09-05, full standard incl. non-weapon forms where the s
 | --- | --- | --- |
 | MAW-W-330 The Frozen Maul | Window-Face Maul (head is a frost pane preserving a farewell mid-step, frost ferns, dashed prohibition ring over the image, route-endpoint plate) | Short (source: 2 — Short) |
 | MAW-W-339 The Fallen Requiem | Crack-Stair Greatblade (left edge follows a stepped crack profile, fracture map etched as evidence, evacuation-marker anchor, documentation tag) | Medium (source: 3 — Medium) |
-| MAW-W-340 The Silence Hammer | Glass Dome Anti-Sound Hammer (translucent dome head, waveforms dying to a flatline core, dashed muted-field radius, one gold isolated signal path, crossed-out voice mark at the butt) | Short (source: 2 — Short) |
+| MAW-W-340 The Clapperless Chime-Sceptre | MAGIC (Chime-Sceptre & Silver Striker) | Medium |
 | MAW-W-357 The Absent Fang | Missing-Section Fang (solid lower blade, dashed ghost outline where the middle section is absent, solid tip returning, torn false-explanation label cut away) | Short (source: 2 — Short) |
 | MAW-W-369 Susurruss Requiem | Shard-Scale-Edge Blade (edge made of separate overlapping flakes, unassembled word fragments drifting off, intact gold plea-line kept beneath) | Medium (source: 3 — Medium) |
 | MAW-W-371 The Vanished Lens | Annulus Lens (glass ring with a REAL hole at center, thick dashed erasure band orbiting the blank, three deletion paths severed at the ring, deletion-record tick) | Medium (source: 3 — Medium) |

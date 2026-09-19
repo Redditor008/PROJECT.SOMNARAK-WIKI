@@ -35,9 +35,9 @@ An echo forms after one warning is understood and produces a real verification a
 
 | Piece | Summary | File |
 |---|---|---|
-| Silence Hammer | Void 5–9; Speed 2; Range 2; Single; max 4; 25 Echoes. Creates a soundless field; wielder cannot hear. | `SE-340-B__MAW-W_The_Silence_Hammer.md` |
-| Silence Veil | 1.2 / 0.8 / 0.3 / 1.1; max 4; 20 Echoes. Protects identity while warning passes through silence. | `SE-340-C__MAW-S_The_Silence_Veil.md` |
-| Silence Charm | Head; 5%; +1 Composure. Preserves one warning word; bearer occasionally forgets another. | `SE-340-D__MAW-G_The_Silence_Charm.md` |
+| The Clapperless Chime-Sceptre | Void 5–9; Speed 2; Range 2; Single; max 4; 25 Echoes. Creates a soundless field; wielder cannot hear. | `SE-340-B__MAW-W_The_Silence_Hammer.md` |
+| The Resonance-Dampening Shroud | 1.2 / 0.8 / 0.3 / 1.1; max 4; 20 Echoes. Protects identity while warning passes through silence. | `SE-340-C__MAW-S_The_Silence_Veil.md` |
+| The Hollow Bell Pendant | Head; 5%; +1 Composure. Preserves one warning word; bearer occasionally forgets another. | `SE-340-D__MAW-G_The_Silence_Charm.md` |
 
 ## RESONANCE — *Function Before Form*
 

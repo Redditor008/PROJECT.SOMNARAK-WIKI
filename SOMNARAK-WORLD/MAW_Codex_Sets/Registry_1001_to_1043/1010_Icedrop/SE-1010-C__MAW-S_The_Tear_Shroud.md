@@ -1,6 +1,6 @@
-# M.A.W. SUIT — The Tear Shroud
+# M.A.W. PROTECTIVE ATTIRE — The Frost-Veiled Mourning Gown
 
-> *“The Tear Shroud remembers Icedrop; the bearer must not mistake memory for permission.”*
+> *“The Frost-Veiled Mourning Gown remembers Icedrop; the bearer must not mistake memory for permission.”*
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Icedrop Source-Trace: Suit Record*
 
-The first The Tear Shroud field bearer encountered this source response: Tests whether the worker can sit beside grief without touching it. The suit stays the immediate hazard only after the team attributed it to Icedrop. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Frost-Veiled Mourning Gown field bearer encountered this source response: Tests whether the worker can sit beside grief without touching it. The suit stays the immediate hazard only after the team attributed it to Icedrop. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -38,12 +38,12 @@ The first The Tear Shroud field bearer encountered this source response: Tests w
 - Terminal state: Icedrop's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1010 -->
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Tear Shroud only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Tear Shroud; shutdown preserves the record but does not refund its cost.
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Frost-Veiled Mourning Gown only after attribution review.  
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Frost-Veiled Mourning Gown; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *Icedrop — Witnessed Form*, The Tear Shroud performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Icedrop — Witnessed Form*, The Frost-Veiled Mourning Gown performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

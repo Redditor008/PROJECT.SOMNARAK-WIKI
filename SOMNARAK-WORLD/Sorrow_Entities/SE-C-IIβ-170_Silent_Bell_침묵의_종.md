@@ -204,27 +204,29 @@ The escalation pattern is specific to Silent Bell: it is not a generic breach ev
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Silence Hammer
+### M.A.W. Weapon — The Muffled Resonance-Bell
 
-**Type:** Weapon | **Grade:** β | **Element:** Void
-
-**Appearance:** a heavy hammer of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
-
-**Damage:** Void 5-9
-**Speed:** 2 (Normal)
-**Range:** 2 (Short)
+**Category:** UNIQUE / RANGE (Acoustic Resonance Bell & Clapper-Rod)
+**Grade:** β | **Element:** Void
+**Damage:** Void 6–10
+**Speed:** 3 (Normal)
+**Range:** 4 (Long: 4–8m)
+**Pattern:** Directional Chime / Deafening Han Wave
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Strikes create a field of silence.
+**Appearance:** A heavy handheld bronze bell with an internal lead clapper suspended by woven mourning thread. When struck with its companion tuning rod, it emits no ringing chime; instead, it projects a directional acoustic distortion wave across Range 4 that completely cancels local sound and vibrates the target's Soul.
+
+**Ability:** *Acoustic Nullification* — Deals Void damage across Range 4 (Long). Emits a directional sound-canceling wave that disrupts enemy chanting, casting, and verbal coordination for 2 turns.
 
 **Cost:** The wielder cannot hear while the field persists.
 
-### M.A.W. Suit — The Silence Veil
+### M.A.W. Suit — The Soundless Velvet Cassock
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Void
+**Category:** Protective Attire (Sound-Dampening Velvet & Lead-Mesh Vestments)
+**Grade:** β | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+**Appearance:** A tailored cassock of light-drinking midnight velvet lined with lead-mesh and dampened sorrow silk that swallows ambient reverberations.
 
 **Resistances:**
 - Grudge: 0.8 (Endured)
@@ -234,23 +236,24 @@ The escalation pattern is specific to Silent Bell: it is not a generic breach ev
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Silent Bell's kind of pressure.
+**Ability:** Grants high resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Silent Bell's kind of pressure.
 
 **Cost:** The wearer feels faintly absent to themselves.
 
-### M.A.W. Gift — The Silence Charm
+### M.A.W. Gift — The Muffled Clapper Brooch
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Void
+**Category:** Stigma (Acoustic Relic Brooch)
+**Grade:** β | **Element:** Void
 
-**Appearance:** a small charm of pale Han-glass, near-translucent and almost colourless, that catches the light oddly.
+**Appearance:** A tarnished bronze pin cast in the shape of a lead clapper tied with silence-thread, resting cold against the breast.
 
-**Slot:** Head
+**Slot:** Chest / Brooch
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity
 
-**Ability:** Grants a minor boon tied to Silent Bell's sorrow; the effect mirrors the entity's nature.
+**Ability:** Grants acoustic dampening, reducing incoming sonic and psychic mental tremor.
 
-**Cost:** The bearer occasionally forgets a word.
+**Cost:** The bearer occasionally forgets a spoken word.
 
 *Gifts are granted at random by the entity upon a successful work, not manufactured.*
 

@@ -204,32 +204,33 @@ The escalation pattern is specific to Icedrop: it is not a generic breach event.
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Tear Requiem
+### M.A.W. Weapon — The Glacial Tear-Mirror
 
-**Type:** Weapon | **Grade:** β | **Element:** Lament
-
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that hums faintly when gripped.
-
-**Damage:** Lament 5–9
-**Speed:** 2 (Normal)
-**Range:** 2 (Short)
+**Category:** RANGE (Crystalline Tear-Mirror & Frost-Ray Focus)
+**Grade:** β | **Element:** Lament
+**Damage:** Lament 6–10
+**Speed:** 4 (Fast)
+**Range:** 4 (Long: 4–8m)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Attack Pattern:** Single
+**Attack Pattern:** Focused Frost-Ray / Freezing Pierce
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
+**Falloff Rule:** 100% direct damage at all range bands up to 8m.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Icedrop's lament signature in the strike.
+**Appearance:** An oval handheld mirror crafted from an unmelting slab of tear-clear glacial ice encased in tarnished silver filigree. When raised against sorrow light, it refracts a focused beam of freezing Lament energy across Range 4.
+
+**Ability:** *Glacial Refraction* — Deals Lament damage at Range 4. Targets struck suffer a 25% reduction in movement and attack speed from freezing sorrow crystallization.
 
 **Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
-### M.A.W. Suit — The Tear Shroud
+### M.A.W. Suit — The Frost-Veiled Mourning Gown
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
+**Category:** Protective Attire (Heavy Silk Mourning Gown & Frozen Crystal Beads)
+**Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance:** A layered mourning gown woven from sorrow-dampened silk, edged with perpetual rime frost and weighted with frozen glass teardrop beads.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -239,21 +240,22 @@ The escalation pattern is specific to Icedrop: it is not a generic breach event.
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Icedrop's kind of pressure.
+**Ability:** Grants high resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Icedrop's kind of pressure.
 
 **Cost:** The wearer becomes numb to minor joys.
 
-### M.A.W. Gift — The Tear Pendant
+### M.A.W. Gift — The Unmelting Teardrop Brooch
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Lament
+**Category:** Stigma (Chest / Collar Ice Brooch)
+**Grade:** β | **Element:** Lament
 
-**Appearance:** a pendant of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance:** A solid drop of pale blue sorrow ice set into a frost-rimed silver pin, permanently radiating cold mist.
 
-**Slot:** Tail
+**Slot:** Chest / Brooch
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity
 
-**Ability:** Increases resistance to emotional attacks.
+**Ability:** Increases resistance to emotional attacks and slows close-range attackers.
 
 **Cost:** The wearer becomes more easily moved to tears.
 

@@ -1,6 +1,6 @@
-# M.A.W. GIFT — The Tear Pendant
+# M.A.W. GIFT — The Unmelting Teardrop Brooch
 
-> *“The Tear Pendant remembers Icedrop; the bearer must not mistake memory for permission.”*
+> *“The Unmelting Teardrop Brooch remembers Icedrop; the bearer must not mistake memory for permission.”*
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Icedrop Source-Trace: Gift Record*
 
-The first The Tear Pendant field bearer encountered this source response: Reveals the instant the tear crystallized. The gift contains the immediate hazard only after the team attributed it to Icedrop. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Unmelting Teardrop Brooch field bearer encountered this source response: Reveals the instant the tear crystallized. The gift contains the immediate hazard only after the team attributed it to Icedrop. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -37,12 +37,12 @@ The first The Tear Pendant field bearer encountered this source response: Reveal
 - Terminal state: Icedrop's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1010 -->
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Tear Pendant only after attribution review.   <!-- SE-1010 -->
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Tear Pendant; shutdown preserves the record but does not refund its cost. <!-- SE-1010 -->
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Unmelting Teardrop Brooch only after attribution review.   <!-- SE-1010 -->
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Unmelting Teardrop Brooch; shutdown preserves the record but does not refund its cost. <!-- SE-1010 -->
 
 ## SET RELATIONSHIP
 
-Within *Icedrop — Witnessed Form*, The Tear Pendant performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Icedrop — Witnessed Form*, The Unmelting Teardrop Brooch performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

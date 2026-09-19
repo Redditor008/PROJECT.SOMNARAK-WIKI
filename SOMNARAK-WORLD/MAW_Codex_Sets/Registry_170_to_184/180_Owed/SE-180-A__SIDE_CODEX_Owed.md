@@ -85,9 +85,9 @@ The set can hold, absorb, and reveal Weight from debt fields. It must never make
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Debt Maul | γ | Weight | Piercing response to wall-like obligation pressure | `SE-180-B__MAW-W_The_Debt_Maul.md` |
-| Suit | The Debt Shield | γ | Weight | Absorbs Weight without becoming permanent burden storage | `SE-180-C__MAW-S_The_Debt_Shield.md` |
-| Gift | The Debt Charm | γ | Weight | Identifies one block or obligation needing review | `SE-180-D__MAW-G_The_Debt_Charm.md` |
+| Weapon | The Sarcophagus Wall-Ram | γ | Weight | Piercing response to wall-like obligation pressure | `SE-180-B__MAW-W_The_Debt_Maul.md` |
+| Suit | The Mason's Mortar-Crusted Hauberk | γ | Weight | Absorbs Weight without becoming permanent burden storage | `SE-180-C__MAW-S_The_Debt_Shield.md` |
+| Gift | The Unpaid Brick Shard | γ | Weight | Identifies one block or obligation needing review | `SE-180-D__MAW-G_The_Debt_Charm.md` |
 
 ---
 

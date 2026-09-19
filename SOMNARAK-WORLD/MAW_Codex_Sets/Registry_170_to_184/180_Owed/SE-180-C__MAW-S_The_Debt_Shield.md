@@ -1,4 +1,4 @@
-# M.A.W. SUIT — The Debt Shield
+# M.A.W. PROTECTIVE ATTIRE — The Mason's Mortar-Crusted Hauberk
 
 > *“It stores the impact. If no review follows, the stored weight becomes another wall.”*
 
@@ -16,7 +16,7 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Debt Shield |
+| Official name | The Mason's Mortar-Crusted Hauberk |
 | Set | Measured Burden |
 | Type / grade / element | Suit, shield-backed harness / γ — Major / Weight — Black |
 | Maximum amount | 3 — Standard |
@@ -28,7 +28,7 @@ The Shield formed from an echo after a Wall measurement opened a support path. *
 
 ## Appearance
 
-The Debt Shield is a black harness built around a broad backplate, worn like a bearer’s yoke rather than armor. The plate’s surface is smooth Han iron that takes marks the way a ledger takes entries: every Weight impact the suit absorbs appears as a thin engraved line, and the lines remain visible until they are discharged through review. The straps cross the chest and leave the hands free, and the plate rides high enough that its marks can be read by a custodian standing behind the wearer. In the field the Shield endures direct Weight damage by converting impact into stored karmic pressure; when the custodian confirms a support or review action, one stored mark releases into the accountable route instead of the bearer’s body. The harness grows heavier with every absorbed impact, and a plate that is never discharged eventually becomes too heavy to wear. Marks multiply after unreviewed impacts, and hiding the plate closes it and drops protection to normal. A fully black plate is sealed immediately. The custodian opens the discharge latch during shutdown; cutting the harness spills its stored Weight into the bearer’s next route.
+The Mason's Mortar-Crusted Hauberk is a black harness built around a broad backplate, worn like a bearer’s yoke rather than armor. The plate’s surface is smooth Han iron that takes marks the way a ledger takes entries: every Weight impact the suit absorbs appears as a thin engraved line, and the lines remain visible until they are discharged through review. The straps cross the chest and leave the hands free, and the plate rides high enough that its marks can be read by a custodian standing behind the wearer. In the field the Shield endures direct Weight damage by converting impact into stored karmic pressure; when the custodian confirms a support or review action, one stored mark releases into the accountable route instead of the bearer’s body. The harness grows heavier with every absorbed impact, and a plate that is never discharged eventually becomes too heavy to wear. Marks multiply after unreviewed impacts, and hiding the plate closes it and drops protection to normal. A fully black plate is sealed immediately. The custodian opens the discharge latch during shutdown; cutting the harness spills its stored Weight into the bearer’s next route.
 
 ## PROTECTION STATISTICS
 

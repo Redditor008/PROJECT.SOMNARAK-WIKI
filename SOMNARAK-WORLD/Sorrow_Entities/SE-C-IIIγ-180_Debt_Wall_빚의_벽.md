@@ -180,11 +180,18 @@ The escalation pattern is specific to Debt Wall: it is not a generic breach even
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Debt Maul
+### M.A.W. Weapon — The Sarcophagus Wall-Ram
 
-**Type:** Weapon | **Grade:** γ | **Element:** Weight
+**Category:** UNIQUE (Monolithic Wall Battering Ram / Mobile Bastion)
+**Grade:** γ | **Element:** Weight
+**Damage:** Weight 12–20
+**Speed:** 1 (Very Slow)
+**Range:** 5 (Room — Seismic Tremor)
+**Pattern:** Bastion Charge / Seismic Impact
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
+**Appearance:** A massive rectangular slab of reinforced mortared masonry bound in rusted iron bands, fitted with leather shoulder harnesses and handles. The bearer heaves the stone barricade forward, slamming it against the earth to detonate a room-wide seismic tremor.
+
+**Ability:** *Monolithic Impact* — Deals heavy Weight damage across Range 5 (Room). Slams the stone wall-ram into the floor, detonating a shockwave that knocks down all enemies and shatters terrain.
 
 **Damage:** Weight 7-12
 **Speed:** 3 (Fast)
@@ -196,9 +203,10 @@ The escalation pattern is specific to Debt Wall: it is not a generic breach even
 
 **Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
 
-### M.A.W. Suit — The Debt Shield
+### M.A.W. Suit — The Mason's Mortar-Crusted Hauberk
 
-**Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
+**Category:** Protective Attire (Stone-Padded Hauberk & Lead Greaves)
+**Grade:** γ | **Element:** Weight
 
 **Appearance:** a shield-backed harness of black Han-steel, matte and unnaturally heavy, that tightens near its source element.
 
@@ -214,9 +222,10 @@ The escalation pattern is specific to Debt Wall: it is not a generic breach even
 
 **Cost:** The shield becomes heavier with every absorbed impact.
 
-### M.A.W. Gift — The Debt Charm
+### M.A.W. Gift — The Unpaid Brick Shard
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Weight
+**Category:** Stigma (Stone Relic Shard)
+**Grade:** γ | **Element:** Weight
 
 **Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, warm to the touch.
 

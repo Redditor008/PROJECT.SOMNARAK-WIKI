@@ -1,4 +1,4 @@
-# M.A.W. SUIT — The Silence Veil
+# M.A.W. PROTECTIVE ATTIRE — The Soundless Velvet Cassock
 
 > *“It shields the wearer from Void noise. It must not make them disappear from the warning chain.”*
 
@@ -16,7 +16,7 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Silence Veil |
+| Official name | The Soundless Velvet Cassock |
 | Set | Heard Warning |
 | Type / grade / element | Suit / β — Moderate / Void — Pale White |
 | Status | Active; external alert chain required |
@@ -36,7 +36,7 @@ The Veil formed when a warning review was completed without forcing Unrung to ri
 
 ## Appearance
 
-The Silence Veil is pale gossamer with a bell-shaped blank at the collar and no rustle when folded. The thread is readable only to the assigned alert partner. In active use the fabric mutes intrusive Void pressure around the wearer while an external alert thread remains visible. At full activation, the Veil rejects one Void silence surge and routes the warning status to the partner. The wearer appoints an alert partner who retains all audible warnings during use. The wearer feels faintly absent to themself. Alert partner may end silent deployment. The Veil is stored with its thread visible, never sealed alone. If worn to avoid a report or testimony, the external thread disappears and the Veil’s Void resistance returns to normal. The partner pulls the external thread, states the end cue, and unfastens the collar during shutdown. Its overload threshold is reached when the external alert thread vanishes. The triggered protection engages once alert partner confirms that a live warning channel remains outside the veil.
+The Soundless Velvet Cassock is pale gossamer with a bell-shaped blank at the collar and no rustle when folded. The thread is readable only to the assigned alert partner. In active use the fabric mutes intrusive Void pressure around the wearer while an external alert thread remains visible. At full activation, the Veil rejects one Void silence surge and routes the warning status to the partner. The wearer appoints an alert partner who retains all audible warnings during use. The wearer feels faintly absent to themself. Alert partner may end silent deployment. The Veil is stored with its thread visible, never sealed alone. If worn to avoid a report or testimony, the external thread disappears and the Veil’s Void resistance returns to normal. The partner pulls the external thread, states the end cue, and unfastens the collar during shutdown. Its overload threshold is reached when the external alert thread vanishes. The triggered protection engages once alert partner confirms that a live warning channel remains outside the veil.
 
 ## PROTECTION STATISTICS
 
