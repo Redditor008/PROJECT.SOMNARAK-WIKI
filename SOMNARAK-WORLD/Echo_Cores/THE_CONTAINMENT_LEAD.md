@@ -634,7 +634,7 @@ Dekan does not receive a simple restoration narrative. The place that made him c
 
 ## Role in _The Memory Archive_
 
-Dekan has **no direct recorded appearance** in _The Memory Archive_ operation. He receives no Encounter, Memory Folio, or Floor Realization in the preserved Archive account.
+Dekan has **no direct recorded appearance** in _The Memory Archive_ operation. He receives no Reception, Key Page, or Floor Realization in the preserved Archive account.
 
 ### Chronological Status
 
@@ -644,7 +644,7 @@ No source records an off-page Archive assignment for him.
 
 ### The Forgotten Soldier Connection
 
-**The Forgotten Soldier**, an entity within Dekan's broader containment domain, appears as Encounter 3 in Seiyon's Archive journey and yields **The Guardian** Memory Folio. The thematic connection is clear—duty without purpose closely resembles Dekan's danger after the Maw's release—but the source does not state that Dekan escorts the Soldier, enters the Archive, or participates in the battle.
+**The Forgotten Soldier**, an entity within Dekan's broader containment domain, appears as Reception 3 in Seiyon's Archive journey and yields **The Guardian** Key Page. The thematic connection is clear—duty without purpose closely resembles Dekan's danger after the Maw's release—but the source does not state that Dekan escorts the Soldier, enters the Archive, or participates in the battle.
 
 Accordingly:
 
@@ -786,28 +786,32 @@ The category does not make him an Android: he retains substantial flesh, a biolo
 
 ### The Scaled Maw-Flesh Arm
 
-Dekan's primary combat implement is his permanently grafted right arm, merged with biological tissue harvested from the outer rim of The Maw during the 412th Cycle breach.
+#### Appearance
 
-Appearance : A massive bio-mechanical right arm graft formed from overlapping midnight-blue scales and calcified Maw-chitin, extending twenty centimeters past normal human reach and ending in four heavy obsidian talons.
+The left arm presents as a living reptilian limb covered in dense charcoal-black scales from shoulder to claws. Five elongated, fully articulated digits terminate in curved obsidian talons that pulse with crimson subdermal light during active containment exertion.
 
-Deep red sinew pulses visibly beneath the segmented scale plates, venting hot pressurized sorrow vapor during heavy physical exertion. The arm delivers crushing kinetic strikes capable of pinning rampaging entities directly to chamber floors.
+Interlocking dermal scutes overlap along the forearm and triceps, sheltering biological vascular channels that throb in synchronization with the Maw's subterranean heartbeat. The transition between human torso flesh and scaled graft forms a hardened, scarred suture line that bleeds faint sorrow-mist when exposed to high-density Han fields.
 
-| Field | Registry Entry |
+#### Operational Kinematics
+
+##### Containment Clamp & Maw Resonance
+- **Activation Stance:** Steps forward firmly on his mechanical foot, bracing his 188-centimeter frame while extending the scaled left arm forward with talons curved.
+- **Trajectory & Interface:** Drives the clawed hand directly into containment barriers or entity carapaces; living Han-channels flare Crimson to absorb and suppress hostile sorrow spikes.
+- **Reach & Function:** Range 1 (Touch / Contact suppression); provides direct tactile neural feedback, translating entity distress into sensory data before physical containment breaches occur.
+- **Recoil & Consequence:** Causes dull phantom ache along the Neural Spine housing; scales darken toward deep charcoal as excess Han dissipates into his vascular system.
+
+| Field | Entry |
 |---|---|
-| **Designation** | The Scaled Maw-Flesh Arm |
-| **Type** | Biological Graft Weapon (Maw-Merged Prosthetic) |
-| **Archetype** | PRIMAL (Bio-Chitin Rending Claw & Crusher) |
-| **Grade** | δ (Critical Suppression Grade) |
-| **Bearer** | Dekan only |
-| **Element** | Grudge (Physical Trauma) + Weight (Karmic Han) |
-| **Bearer Signature** | Grudge (Crimson) |
-| **Damage** | 14–26 Grudge direct + 6 Weight crush |
-| **Speed** | 2 (Slow Cadence — 1 strike per 2.0s) |
-| **Range** | Range 1 (Close / Point-Blank Grapple — <1m) |
-| **Attack Pattern** | Kinetic Crush & Pinning Vice |
-| **Falloff** | Single-target 100% (Pin bonus: +30% to held targets) |
-| **Operational Cost** | Body-strain / 10 Sorrow Echoes per suppression |
-| **Corrosion State** | Stage 3 (Continuous Merging with The Maw) |
+| **Classification** | Living integrated body structure; not a confirmed personal M.A.W. |
+| **Location** | Entire left arm, shoulder through claws |
+| **Material** | Biological flesh, nerves, blood, reptilian scales, claws, and fused Han channels |
+| **Connection** | The Maw and the thousand consumed citizens |
+| **Primary function** | Sensory, communicative, and Place-Tale interface |
+| **Functional status** | Fully articulated and usable for writing, lifting, controls, careful contact, and containment tasks |
+| **Signature response** | Crimson at baseline; Deep Blue during the Maw's Lament state; dark after release unless new resonance occurs |
+| **Known offensive statistics** | None recorded |
+| **Removal status** | Living part of Dekan's body; not a detachable prosthesis |
+| **Post-release state** | Arm remains; residual Maw connection is unspecified after the thousand vanish |
 
 ### Containment Gear
 
@@ -1199,7 +1203,7 @@ Additional master references deepen that context without automatically becoming 
 - **_Faction Relationship Matrix_** — R.D./Council secrecy, Keeper records, Warden cooperation, Giltong scrutiny, and the Containment Lead's hidden-Archive story hook.
 - **_The Desolate_** and **_The Unknown Cities_** — the city/wilderness distinction and Cheonbulok continuity needed to prevent the Maw-merge or Bell report from being misclassified.
 
-Dekan has no direct recorded appearance in _The Memory Archive_. The Forgotten Soldier's Encounter does not by itself add Dekan to that story's cast.
+Dekan has no direct recorded appearance in _The Memory Archive_. The Forgotten Soldier's Reception does not by itself add Dekan to that story's cast.
 
 ### Era Status
 
@@ -1369,7 +1373,7 @@ The source says the Council does not know Dekan can speak to the Maw, while Maji
 
 ### Memory Archive Nonappearance
 
-The Archive's Forgotten Soldier does not create an off-page Dekan role. Archive progression remains “none recorded” unless a later source explicitly adds Dekan to a Encounter or Realization.
+The Archive's Forgotten Soldier does not create an off-page Dekan role. Archive progression remains “none recorded” unless a later source explicitly adds Dekan to a Reception or Realization.
 
 ### Final-Day Dating
 

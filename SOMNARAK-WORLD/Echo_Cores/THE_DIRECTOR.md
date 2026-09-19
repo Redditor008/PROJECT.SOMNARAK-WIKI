@@ -399,24 +399,290 @@ Majin is deathless, not invulnerable.
 
 Reaper Hungered is Majin's fused signature M.A.W. and the visible edge of his Ω-grade fusion. It is not stored, carried, loaned, or equipped. It manifests through the scythe-shaped mark on his left forearm and returns to the fusion when dismissed. He is its only bearer, and no second can exist while the fusion remains singular.
 
-Appearance : A seven-foot phantom war-scythe manifesting from the dark Han mark on Majin's left forearm, featuring a curved carbon blade held in place by fine segmented bands along a weightless black haft.
+#### Appearance
 
-The blade flat is traced with twin parallel lines of glowing Crimson Grudge and Deep Blue Lament that hum with suppressed grief. When swung, the scythe leaves a lingering trail of black particulate void that shears through structural matter without physical resistance.
+Reaper Hungered manifests as an immense phantom scythe formed of condensed Han, featuring an obsidian haft, an exaggerated crescent blade, and segmented stabilizing rings. Crimson and Deep Blue filaments track its cutting edge against a solid Weight-black silhouette.
+
+The long curved staff measures two meters, cast from semi-translucent dark resonance that casts no shadow under illumination. Double-edged resonance channels run along the inner and outer curve of the blade, emitting faint weeping echoes and crimson sparks that dissolve into ambient air before touching the floor.
+
+#### Kinematics and Move Set
+
+##### Hungering Harvest (Scythe-Line Pierce)
+- **Activation Stance:** Advances with measured, unhurried steps, sweeping the two-meter phantom haft in an effortless horizontal reaping arc.
+- **Trajectory & Energy:** The Weight-black blade cleaves through space along a wide trajectory, dragging a dual ribbon of Crimson Grudge and Deep Blue Lament behind its cutting bevel.
+- **Reach & Falloff:** Range 3 (Medium), piercing through up to 3 targets in a scythe-line (Primary 100% → First Pierced 70% → Second Pierced 50%).
+- **Hit Impact & Consequence:** Armor-piercing kinetic laceration delivering 10–20 Grudge direct damage, followed by 3 Lament per second for 10 seconds (30 total Lament across 20 half-second Ticks).
+- **Recoil & Recovery:** Speed 3 (Fast); the weapon possesses zero physical mass, requiring no kinetic deceleration or mechanical recovery.
+
+##### Phantom Reptile Beast (Singular Ω-Release)
+- **Activation Stance:** Raises his left arm, exposing the searing forearm brand while fixing his optical gaze upon a single designated entity.
+- **Trajectory & Energy:** The colossal ancestral jaw-silhouette of the Maw erupts directly from the scythe's lattice, descending in a catastrophic closing arc.
+- **Reach & Impact:** Range 3 (Medium), single target, delivering 999 direct Weight (Black) damage that obliterates baseline defenses.
+- **Hit Consequence & Aura:** Unleashes a room-spanning Slowness aura for 5 seconds; leaves Majin in an exhausted, defenseless collapse (consumes 90% HP and 90% SP).
 
 | Field | Registry Entry |
 |---|---|
-| **Designation** | Reaper Hungered |
-| **Type** | Signature M.A.W. (Fused Singular War-Scythe) |
-| **Archetype** | BLADES (Resonant Phantom Scythe) |
+| **Type** | Weapon — fused signature M.A.W. |
 | **Grade** | Ω — Singular |
 | **Bearer** | Majin only |
 | **Element** | Grudge (Crimson) + Lament (Deep Blue) |
-| **Bearer Signature** | Weight (Black) |
-| **Damage** | 10–20 Grudge direct + 30 Lament aftertone |
-| **Speed** | 3 (Normal Cadence — 1 strike per 1.2s) |
-| **Range** | Range 3 (Medium / Extended Reach — 2–4m) |
-| **Attack Pattern** | Pierce & Cleave — Scythe-line through up to 3 targets |
-| **Falloff** | 100% → 70% → 50% across sequential targets |
-| **Maximum Amount** | 1 — Singular |
-| **Operational Cost** | Null — the Ω-fusion internalizes the exchange |
-| **Corrosion State** | Stage 4 (Permanent Fusion — the entity is part of the bearer) |
+| **Bearer signature** | Weight (Black) |
+| **Damage** | 10–20 Grudge direct |
+| **Secondary damage** | 3 Lament per second for 10 seconds |
+| **Tick interval** | 0.5 seconds — 1.5 Lament per Tick |
+| **Full aftertone** | 30 Lament across 20 Ticks before falloff |
+| **Speed** | 3 — Fast |
+| **Range** | 3 — Medium |
+| **Attack pattern** | Pierce |
+| **Coverage** | Scythe-line through up to 3 targets |
+| **Falloff** | 100% → 70% → 50%, applied separately to the direct hit and every Tick |
+| **Maximum amount** | 1 — Unique |
+| **Operational cost** | Null — the fusion internalizes the exchange |
+| **Binding cost** | Irreversible fusion, deathlessness, pain retention, permanent containment responsibility |
+
+| Target | Grudge Direct | Lament / sec | Lament / Tick | Full 10s Lament |
+|---|---:|---:|---:|---:|
+| Primary — 100% | 10–20 | 3 | 1.5 | 30 |
+| First pierced — 70% | 7–14 | 2.1 | 1.05 | 21 |
+| Second pierced — 50% | 5–10 | 1.5 | 0.75 | 15 |
+
+#### Phantom Reptile Beast
+
+| Field | Registry Entry |
+|---|---|
+| **Attack** | Single-target phantom bite |
+| **Damage** | 999 Weight (Black) |
+| **Secondary effect** | Room-sized Slowness aura |
+| **Aura duration** | 5 seconds |
+| **Activation cost** | 90% of Majin's HP + 90% of his SP |
+| **Cooldown** | Not specified |
+
+The bite targets one subject and does not use the scythe's Pierce falloff. One activation leaves him effectively defenseless for the remainder of an engagement; R.D. doctrine treats it as a last-resort authorization rather than a combat option.
+
+**Signature clarification:** Majin's personal sorrow signature is Weight (Black). Reaper Hungered's normal cut inflicts Grudge, and its aftertone inflicts Lament. The phantom beast separately inflicts Weight. Bearer signature, weapon element, and named-ability damage are distinct fields.
+
+---
+
+## Relationships
+
+### Seiyon — The Secretary
+
+Seiyon is Majin's closest operational companion and the person most capable of recognizing his exhaustion. She is an AI Construct who awakened when an administrative system absorbed a human sorrow fragment associated with Majin's dead lover; she carries that face and memory-pattern without being the restored Original, and Majin does not treat her as a replacement. The resemblance gives every exchange an unspoken second history.
+
+Across 1,778 iterations she learns to distinguish his orders from his evasions. She is also the engineer who confirms the Absolvohan can disperse rather than fire, and the one who tells him on Day 177 that a hand needs contact rather than tonnage — the realization he then states in his own words.
+
+### Dekan — Containment Lead
+
+Dekan brings Majin the most personal reports from the Maw and the contained entities, and is often the person required to translate collective sorrow into a sentence the Director must answer. Through Dekan, the Maw asks whether the thousand are remembered, announces that it is tired, and finally falls silent. Majin trusts his observations even when sensor data cannot support them.
+
+### Zyrak — Extraction Lead
+
+Zyrak manages M.A.W. extraction and repeatedly prevents the Three Birds from converging. Her Day 103 vision of an Absolvohan that spreads like rain is the first concrete image of a future Majin did not design. Where he holds perfect memory of the past, she briefly perceives something that has not happened.
+
+### Ayshuk — Research Lead
+
+Ayshuk monitors the Kind Healer, the Weeping, and transformation-chain risk, and holds full technical knowledge of the Cycle. His reports force Majin to confront the limits of treating every anomaly as a threat pattern. When the Healer reaches ten blessings during a lapse in his attention, Majin refuses to assign blame.
+
+### Mellda — Border Lead
+
+Mellda stands between the R.D. and the Desolate. She carries an Effloresced Outside Sorrow passenger, which makes her a less absolute reflection of Majin's own condition — both contain another being within themselves, but hers wants to go home. His orders to let the nomads pass and later to open the gates both rest on her judgment.
+
+### Marjuk — Archive Lead
+
+Marjuk repeatedly uncovers material Majin has spent iterations classifying: the Furnace fragment, the Final Door's word for mercy, the Founder's journal. Their relationship is defined by the tension between preservation and concealment. The hidden entry Marjuk recovers on Day 145 breaks Majin's interpretation of the Hand of Change.
+
+### Ishall — The Outsider
+
+Ishall receives and interprets transmissions through the Desolate's Han-field, carries Xyan's warnings to Majin, and repeatedly asks the question he avoids: whether they should answer. Her persistence prevents the Exile from becoming background noise.
+
+### Xyan — The Exile
+
+Xyan identified evidence of an upstream Outside Sorrow source, defied a Council order prohibiting investigation, and knowingly crossed the one-way Exile's Gate. Majin knows he was right and refuses to answer him for most of the Cycle. Their conflict is ideological: Xyan chooses truth without institutional permission; Majin chooses stability through concealment.
+
+When Xyan returns on Day 355, it is because Majin opens passage from inside.
+
+### The Maw and the Thousand
+
+The Maw is the embodiment and location of Somnarak's First Sorrow — the thousand citizens consumed in the Cheongula. Majin has monitored their whispers through every iteration and carries the truth of their sacrifice while the city remembers only a sanitized mourning ritual. Their disappearance on Day 165 is the first burden he is permitted to put down.
+
+### The Kind Healer
+
+Majin spends most of the Cycle preventing the Kind Healer from reaching twelve blessings, because prior iterations produced the Dawn of Mourning. He regards it as innocent but dangerous. The final Cycle demonstrates that the same number, entity, and action can produce a different outcome when the surrounding relationships change.
+
+### The Orphaned Bell
+
+The Bell is among the facility's most persistent moral witnesses. It enters agents' dreams, tolls through the Cycle, and mourns the Cheonbulok envoy Majin refused. Where the Director says *"Noted,"* the Bell answers with mourning.
+
+---
+
+## The Secret
+
+Majin was not appointed. The Alpha Tree selected him during the Consolihan. In the vaults beneath Floor 1 he concealed the Absolvohan and diverted surplus Han-crystal into it across 1,778 iterations, intending to release the accumulated sorrow in a single event — knowing the release would probably destroy Somnarak. The plan was his private interpretation of a promise to his dead lover: *"Don't let the sorrow win."*
+
+The secret has two layers. The **political** layer is that the R.D. created and maintained the Cycle while accumulating a city-ending payload. The **personal** layer is that Majin had come to believe destruction and mercy were the same choice.
+
+Only the Nine knew the full nature of the Cycle, and not all of them understood the moral premise of the Absolvohan. He justified the concealment as protection. It also prevented anyone from challenging a conclusion he had reached alone.
+
+The diversion had a measurable cost. Seiyon's record for Year 4232+1778 states that the Veil generators in Zone D failed for three hours, twelve citizens were exposed to raw Han, and two Fractured — and that the Director diverted the surplus to the Absolvohan and did not mention the Fractures.
+
+> **Majin, Cycle era:** *"The city has survived for 4,200 years on sorrow. It can survive a little less — for a little longer. The Absolvohan will end this. The cost is worth it."*
+
+The Hand of Hope does not resolve either layer by treating the actions as harmless. Resolution comes through disclosure, judgment, forgiveness, and the transfer of truth from one immortal keeper into the public memory of the city.
+
+---
+
+## Flavor Text
+
+### Morning Report
+
+- *"Report."*
+- *"Concerned is our default state."*
+- *"Alert them. But don't alarm them."*
+
+### Personnel Strain
+
+- *"They need distance."*
+- *"It's not your fault. The Healer is persistent."*
+- *"The nomads are not enemies."*
+
+### Entity Escalation
+
+- *"Then we stop them. Every time."*
+- *"Then we accelerate."*
+- *"...Noted."*
+
+### Cycle-Era Doctrine
+
+- *"The one that ends."*
+- *"The Absolvohan is the only mercy left."*
+- *"The city has survived for 4,200 years on sorrow. It can survive a little less — for a little longer."*
+
+### Day-End Assessment
+
+- *"A good day. The city holds."*
+- *"Acceptable. The weight is carried."*
+- *"Stable. For now."*
+
+### The Reversal
+
+- *"Open the gates."*
+- *"The Absolvohan will not shoot. The Absolvohan will spread."*
+- *"We don't need the Absolvohan. We need each other."*
+
+### Post-Cycle
+
+- *"We live. We work. We carry the weight — not as a burden, but as a gift."*
+- *"The entities are not prisoners. The entities are family."*
+- *"The Cycle is over. The city is free. The sorrow has transformed. The Hand has opened."*
+
+### Final Entry
+
+> *"The planet has four corners. One is our city. One is the wild. One burns. One is silent. And we — we are the ones who chose to feel. Whether that is a blessing or a curse, I cannot say. But I can say this: it is ours. And we will carry it — together — into whatever comes next."*
+> — Director Majin, final entry, Year 4,233
+
+---
+
+## Story Appearances
+
+Majin appears across five primary Somnarak stories and operational records.
+
+| Work | Role |
+|---|---|
+| ***Absolvohan*** | Central protagonist and architect of the hidden Cycle; creator and eventual reinterpreter of the Absolvohan |
+| ***The Memory Archive*** | Appears directly in Floor Realization 3; referenced throughout Seiyon's descent |
+| ***Three Corporations*** | Key authority within the R.D. / SED / UCD framework |
+| ***R.D.*** | Supreme authority of the Reverie Directorate and commander of the Hand of Change |
+| ***Cheongula*** | Survivor and keeper of the truth behind Somnarak's First Sorrow |
+
+### Era Status
+
+| Era | Status |
+|---|---|
+| **Pre-Consolihan** | Han researcher beneath the Alpha Tree |
+| **Consolihan / Solidification** | Survivor; Ω-grade fusion subject; chosen by the Alpha Tree |
+| **Early R.D.** | Echo-Core 1; founder and supreme authority of the Reverie Directorate |
+| **Cycle Era** | Director; architect of the stabilization field; hidden Absolvohan accumulator across 1,778 iterations |
+| **Final Cycle** | Central figure of the Hand of Hope transformation |
+| **Year 4,233 — Memory Archive** | Active Director; Floor Realization 3 participant |
+| **Year 4,238 — Dawn Initiative** | Active Director |
+
+---
+
+## The Echo-Core Name
+
+> **The second fragment is the only one that changes.**
+
+The **Doorspeech** — the whisper of the Final Door on Floor 6 — contains ten fragments in fixed sequence, nine of which answer to Echo-Cores. Every position is invariant. Across 1,778 iterations the Archive Lead recorded 1,778 identical transcriptions.
+
+Position two produced 1,778 different ones.
+
+It is unmistakably a name. It carries the same weight, duration, and resonance signature as the others, and it answers to Majin every time. The sound is never the same twice, and no variant has ever recurred.
+
+Marjuk eventually stopped transcribing and began grouping. The variants cluster into five recognisable forms:
+
+| Variant | Hangul | Holds | Where it surfaces |
+|---|---|---|---|
+| **M** | — | A single letter | Council records; every official document redacts the Director to one initial |
+| **Majin** | 마진 | The registered personal name | Public use, R.D. rosters, everyday address |
+| **Manesu** | 마네수 | *manes*, the shades of the dead · 守 *su*, to guard | Recorded the night the Alpha Tree selected him |
+| **Jinmoto** | 진모토 | 眞 *jin*, true · 元 *moto*, origin | The Founder's journal, describing who would inherit the Hand |
+| **Onusdo** | 오누스도 | *onus*, burden · 道 *do*, the way | Surfaces when the Maw whispers |
+
+That last variant is the operationally significant one. On Day 1 of every iteration, Dekan reports that the Maw whispered the Director's name. The Maw is not using **Majin**. It is using the Door's fragment.
+
+### Marjuk's Conclusion
+
+> *"Nine of them are named. He is being addressed. A name is a fact about a person. An address is an attempt to reach one, and it changes depending on who is reaching."*
+
+The implication the Archive Lead did not write down is that the Door has been trying to get the Director's attention since before the Directorate existed, and has not yet found the word he will answer to.
+
+### Status
+
+Majin has never been informed that his position in the Doorspeech varies. He does not know that the Maw uses one of the Door's variants when it speaks his name.
+
+Marjuk holds the second fragment on a separate tablet under separate seal, and gives deference as his reason: *"The Director's name is not mine to file beside the others."* The operative reason is that he could not make it behave like a transcription.
+
+---
+
+## Notes
+
+Reference details that do not belong to a single section of the page.
+
+**On the fusion.** R.D. records state that Majin's Ω-grade M.A.W. fused with his body, mind, and existence. Because the source entity was organic rather than crystalline or mechanical, the fusion left no foreign material behind. Fusion scarring is neither Fracture nor Corrosion, and examiners have recorded no involuntary movement in the arm.
+
+**On the M.A.W. and the contained entity.** Reaper Hungered is the Ω-grade M.A.W. fused into Majin. The Sovereign-class sorrow sealed during that event persists through the fusion. After bonding, the M.A.W., the contained entity, and Majin are not three cleanly separable systems — but they remain distinct concepts.
+
+**On sleep.** Records consistently report that Majin does not sleep. This is understood as a persistent effect of the fusion and his command state; no examination has established that natural sleep is medically impossible for him.
+
+**On age.** He is 126 during the final Cycle and continues to age, since he is not a Cast Effigy. Each reset returns the city to its anchored physical state, so his body stays near 126 for as long as the Cycle holds while his memory carries every iteration forward. After 1,778 repeated years his remembered life exceeds nineteen centuries.
+
+**On the Absolvohan reserve.** Daily operational reports contain conflicting values, including premature 100-ton readings that do not match the recorded chronology. The stable figures: roughly 0.02 tons persist per iteration, the archived estimate places the reserve near 36 tons, approximately 49.8 tons disperse into Zone B on Day 160, and Majin later concludes the 100-ton target was never necessary.
+
+**On "Hand of Hope."** The name refers to three connected things: the state the Kind Healer reaches after its twelfth blessing, the dispersed non-weapon interpretation of the Absolvohan, and the post-Cycle doctrine that sorrow transforms through shared feeling. The shared title is deliberate — the entity embodies what the machine demonstrates and what the city chooses.
+
+**On final-day dating.** The Day 350–365 records are late-Cycle and anniversary milestones. Year 4,233 marks the first uninterrupted annual boundary after the temporal field loses the ability to reset Somnarak.
+
+---
+
+## Trivia
+
+- **관장** (*gwanjang*) is an ordinary Korean administrative title meaning the head or manager of an institution — the same word used for the director of a museum, library, or gymnasium. It is not a personal name. His registered personal name is **마진**.
+- **Absolvohan** (압솔보한) combines Latin *absolvo* — to acquit, release, or set free — with **Han**. The name contains his original intention: not management, but absolution.
+- Majin is the only Echo-Core who remains fully biological. Every other member of the Nine is an AI Construct, Android, Cyborg, or Cryogen.
+- He is the only known person to survive an Ω-grade M.A.W. fusion.
+- His habitual *"Noted"* becomes less frequent across the final Cycle as events force him to answer entities and people directly.
+- His first recorded weeping in 1,778 iterations occurs when the thousand sing a lullaby — not during a breach, a death report, or an accusation.
+- The Maw's question, *"Do they remember us?"*, is directed at Majin specifically because he is one of the only beings who actually does.
+- His two defining orders are opposite in form but continuous in purpose. *"Report"* closes emotion into manageable information; *"Open the gates"* allows the outside world to enter and change the plan.
+- He ends the Cycle still serving as Director. His resolution is neither retirement nor death.
+- Only about 15% of the dispersed sorrow becomes hope. The surviving 85% is what prevents the ending from functioning as a cure.
+
+---
+
+## External Links
+
+- **The Reverie Directorate** — facility structure, Echo-Core register, Cycle classification
+- **Absolvohan** — full day-by-day operational narrative, Day 0 through Day 365
+- **The Memory Archive** — Floor Realization 3
+- **Somnarak: The Breach — Ordeals** — Color × Time framework
+- **Cheongula** — the First Sorrow and the thousand

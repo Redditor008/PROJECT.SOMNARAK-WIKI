@@ -66,7 +66,7 @@ Xyan is patient, weathered, and difficult to frighten. He reads Han-flows, follo
 | **Primary Function** | Gate observation, external reconnaissance, Han-flow interpretation, Sorrow Entity migration warning, route stabilization, field survival, refugee approach coordination, and Floor 8 command |
 | **Operational Presence** | Physical Cyborg body outside Somnarak during the Cycle and physically returned inside the city after Day 355; no routine remote body or duplicate |
 | **M.A.W.** | **None recorded** — his Cyborg systems, Desolate changes, field equipment, and Subject-Phantasmal state are not personal M.A.W. |
-| **Archive Progression** | **None recorded** — no direct participation, Encounter, Memory Folio, or Floor Realization in _The Memory Archive_ operation |
+| **Archive Progression** | **None recorded** — no direct participation, Reception, Key Page, or Floor Realization in _The Memory Archive_ operation |
 | **Current Status** | Active and home; post-Cycle Echo-Core 9 associated with Floor 8 and the reopening of contact beyond Somnarak |
 | **First Major Appearance** | _Absolvohan_, Day 17 — his repeated warning, “The Furnace is burning,” reaches Central Command through Ishall |
 | **Protagonist Role** | _Absolvohan_ — major supporting Echo-Core whose warnings chart planetary change and whose return turns the Exile's Gate from finality into reception |
@@ -564,7 +564,7 @@ Xyan's _Absolvohan_ arc follows six stages:
 
 ### No Direct Participation
 
-Xyan is not named as a participant in _The Memory Archive_. He is not a Encounter opponent, Floor patron, Memory Folio, guardian, escort, or figure in Seiyon's Merge.
+Xyan is not named as a participant in _The Memory Archive_. He is not a Reception opponent, Floor patron, Key Page, guardian, escort, or figure in Seiyon's Merge.
 
 No progression follows from his Echo-Core number, exile history, or memory across Gate recurrence.
 
@@ -830,6 +830,12 @@ The Neural Spine provides unified control and sensory return for:
 
 The Spine integrates systems. It does not create autonomous movement or a second consciousness.
 
+#### Appearance
+
+The Neural Spine consists of an external spinal housing of matte-black alloy running from cervical base to sacrum. Segmented vertebrae clamps emit a low deep blue resonance, anchoring artificial lower limbs and his cybernetic left arm to surviving flesh.
+
+Cables shielded in dust-proof ballistic webbing bridge the junction between living skin and mechanical plating, sealed against Desolate grit by hardened rubber gaskets. Pale crystalline nodes sprout harmlessly along the steel-flesh seams, marking where foreign ambient Han permanently fused into his nervous system during years of exile.
+
 ### Field Clothing
 
 Xyan's current Echo-Core 9 clothing includes:
@@ -847,30 +853,19 @@ Xyan's current Echo-Core 9 clothing includes:
 
 The outfit is current equipment, not the rotted remains of his departure uniform.
 
-### The Desolate Boundary-Spine
+### Survival and Route Gear
 
-Xyan's signature weapon is a heavy grounding spear fashioned from a reinforced railway rail and high-voltage conduit cables recovered during his long exile in the Desolate.
-
-Appearance : A heavy seven-foot survey spear machined from weathered railway rail and Desolate scrap-iron, mounting a barbed chisel spike, an integrated copper grounding cable, and a reinforced spike pommel.
-
-The shaft is wound in weather-beaten electrical cable that channels ambient Desolate static directly into the earth. Thrusting into targets discharges stored electrical pulses that temporarily disrupt metaphysical entity coherence and paralyze movement.
-
-| Field | Registry Entry |
+| Issued or Carried Item | Function |
 |---|---|
-| **Designation** | The Desolate Boundary-Spine |
-| **Type** | Grounding Harpoon & Static Boundary Rod |
-| **Archetype** | POLEARM (Grounded Chisel-Spear & Static Rod) |
-| **Grade** | δ (Frontier Exile Grade) |
-| **Bearer** | Xyan only |
-| **Element** | Weight (Static Drag) + Void (Wilderness Silence) |
-| **Bearer Signature** | Weight (Pale Amber) |
-| **Damage** | 12–22 Weight direct + Paralyzing Discharge |
-| **Speed** | 2 (Slow Cadence — 1 thrust per 1.8s) |
-| **Range** | Range 3 (Medium / Extended Reach — 2–4m) |
-| **Attack Pattern** | Static Grounding Thrust & Area Tether |
-| **Falloff** | 100% direct target; 40% electrical chain to 1 adjacent target |
-| **Operational Cost** | 14 Sorrow Echoes per activation |
-| **Corrosion Risk** | High (Desolate-altered biology; continuous ambient mutation) |
+| **Compact water filter** | Makes limited field water safer to use |
+| **Route markers** | Identifies turns, shelter, unstable ground, and fallback paths |
+| **Signal wire** | Improves short-range contact when Han-wave transmission fails |
+| **Repair kit** | Maintains seals, plates, joints, and field sensors |
+| **Foldable face shield** | Reduces dust and crystal exposure during storms |
+| **Ration and seal pouches** | Protects food, medicine, and small equipment from Han-weather |
+| **Floor 8 credentials** | Establishes post-return command access and Gate authority within the R.D. |
+
+No item in this list is a unique relic or personal M.A.W.
 
 ### Gate Watch Systems
 
@@ -1516,7 +1511,7 @@ The Unknown Cities material controls broader city systems while its Ishall attri
 
 ### The Memory Archive
 
-No Encounter, Memory Folio, Floor Realization, Merge effect, or hidden participation is assigned.
+No Reception, Key Page, Floor Realization, Merge effect, or hidden participation is assigned.
 
 ### Floor and Hand Position
 

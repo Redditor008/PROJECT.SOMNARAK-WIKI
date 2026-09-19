@@ -66,7 +66,7 @@ Ishall is controlled, perceptive, and difficult to intimidate. Her humanoid Andr
 | **Primary Function** | Reconnaissance, infiltration, intelligence analysis, counter-intelligence, informant management, mobile command, hostile-field observation, and dangerous external missions |
 | **Operational Presence** | Physical humanoid Android moving through the Raw and between zones; the Veil rejects the repurposed body rather than providing a second appearance |
 | **M.A.W.** | **No named personal M.A.W.** — Android compatibility and earlier whisper exposure are recorded, but **Unanswered** is Before-Time Artifact equipment, not M.A.W. or specialized arms |
-| **Archive Progression** | **None recorded** — no direct participation, Encounter, Memory Folio, or Floor Realization in _The Memory Archive_ operation |
+| **Archive Progression** | **None recorded** — no direct participation, Reception, Key Page, or Floor Realization in _The Memory Archive_ operation |
 | **Current Status** | Active; post-Cycle commander of a Shadow Corps now responsible for finding threats without repeating the Council's practice of erasing inconvenient people |
 | **First Major Appearance** | _Absolvohan_, Day 17 — receipt of Xyan's warning, “The Furnace is burning” |
 | **Protagonist Role** | _Absolvohan_ — major supporting Echo-Core, receiver of the Exile's messages, and witness to the first unprecedented change in their pattern |
@@ -519,7 +519,7 @@ The question completes her story function. From the first ignored message to the
 
 Ishall's _Absolvohan_ arc proceeds through five stages:
 
-1. **Encounter** — the same warning arrives again;
+1. **Reception** — the same warning arrives again;
 2. **Question** — she asks why no one answers;
 3. **Comparison** — she recognizes unprecedented change;
 4. **Witness** — she sees Xyan smile and later return;
@@ -533,7 +533,7 @@ She does not personally open the gates or redesign the Absolvohan. Her contribut
 
 ### No Direct Participation
 
-Ishall is not named as a participant in _The Memory Archive_. She is not a Encounter opponent, Floor patron, Memory Folio, guardian, escort, or figure in Seiyon's final Merge.
+Ishall is not named as a participant in _The Memory Archive_. She is not a Reception opponent, Floor patron, Key Page, guardian, escort, or figure in Seiyon's final Merge.
 
 The operation belongs to Seiyon. Her intelligence role does not place her in it.
 
@@ -545,7 +545,7 @@ Ishall's profile therefore records **None** for Archive Progression.
 
 ### Distinction From the Memory Thief
 
-The Memory Archive includes figures and rewards associated with identity theft, memory preservation, and shadow imagery. These thematic similarities do not make Ishall the Memory Thief, the Shadow Memory Folio, or a concealed Archive resident.
+The Memory Archive includes figures and rewards associated with identity theft, memory preservation, and shadow imagery. These thematic similarities do not make Ishall the Memory Thief, the Shadow Key Page, or a concealed Archive resident.
 
 Her erased Council identity and current Android embodiment remain part of the R.D. storyline.
 
@@ -578,11 +578,11 @@ Ishall compares message content, timing, sender behavior, prior reports, and env
 
 Her use of “presumably” shows the boundary of this ability. She can produce a strong interpretation without transforming it into certainty.
 
-### Han-Wave Encounter
+### Han-Wave Reception
 
 Her Android sensors receive messages carried through the Desolate's sorrow-field. On Day 17, the narration explicitly identifies Ishall's sensors as the point of receipt.
 
-Encounter depends on a signal reaching her. She cannot create a reply channel by wanting one, read every transmission on the planet, or extract thoughts from a distant person.
+Reception depends on a signal reaching her. She cannot create a reply channel by wanting one, read every transmission on the planet, or extract thoughts from a distant person.
 
 ### Desolate Field Sight
 
@@ -764,30 +764,38 @@ Any older reference to an “enemy skull” is interpreted as a chassis cranial 
 
 ### Unanswered — Artifact Hands
 
-Unanswered consists of Ishall's dual articulated combat gauntlets, salvaged from the enemy strike-unit she formerly led and rebuilt with covert Directorate dampeners.
+> _“The hands do not reach for the target. They decide which part of the room still belongs to it.”_
 
-Appearance : A pair of articulated prosthetic combat gauntlets forged from blackened enemy war-chassis alloy, featuring reinforced finger joints, razor-honed talon tips, and integrated kinetic dampener channels along the forearms.
+#### Registry Status
 
-The dark metal surfaces remain completely cold, swallowing ambient light and sound within close reach. Clenching the gauntlets generates focused gravity-crush fields that compress physical space and stagger advancing targets in tight corridors.
-
-| Field | Registry Entry |
+| Field | Record |
 |---|---|
-| **Designation** | Unanswered |
-| **Type** | High-Density Kinetic Gauntlets |
-| **Archetype** | PRIMAL (Blackened Alloy Talons & Gravity Vice) |
-| **Grade** | δ (Black-Sector Grade) |
-| **Bearer** | Ishall only |
-| **Element** | Grudge (Physical Trauma) + Void (Erasure) |
-| **Bearer Signature** | Grudge (Burgundy) |
-| **Damage** | 16–28 Grudge direct + Spatial Compression |
-| **Speed** | 4 (Fast Cadence — 1 strike per 0.8s) |
-| **Range** | Range 2 (Short / CQC Reach — 1–2m) |
-| **Attack Pattern** | Converging Refusal / Closed Ground AoE |
-| **Falloff** | 100% primary target; 60% adjacent foes within 2m |
-| **Operational Cost** | 15 Sorrow Echoes per engagement |
-| **Corrosion Risk** | Stage 1 (Subtle entity whispers noted) |
+| **System Name** | **Unanswered** |
+| **System Category** | **Artifact Hands — paired remote combat and area-denial relics** |
+| **Bearer / User** | **Ishall**; no other successful user is recorded |
+| **Availability** | **1 — Unique pair** |
+| **Origin** | **Unknown Before-Time provenance** |
+| **Power Source** | Closed internal Han lattice of unknown construction, synchronized to Ishall's Grudge and Void signature |
+| **Binding Rule** | Physically separate and removable; operationally keyed to Ishall and inert outside her control range or when synchronization ends |
+| **Not Classified As** | M.A.W., M.A.W. Gift, Artificial Arm, specialized arm, Cyborg limb, Cast Effigy, or body transformation |
 
-### Standard Statistics — Converging Refusal
+#### Appearance
+
+Unanswered consists of two oversized floating hands with no attached wrists or forearms. Dark mineral-like plates cover the backs. Pale White palm surfaces sit above joints traced by thin Crimson channels. Empty circular cuffs end each artifact cleanly.
+
+The pair shows surface wear older than any R.D. deployment record, but no legible maker's mark or complete inscription. When inactive, the artifacts can be secured in a lined containment case. When active, they hover near Ishall without cables or visible propulsion.
+
+#### Functional Properties
+
+- The two hands deploy and dismiss as one paired system.
+- They move independently within Range 4 while sharing one control bond.
+- Their normal attack closes force into a selected area and leaves a short Void residue.
+- Their special mode places the hands at opposite sides of a room-sized field.
+- They cannot maintain Closed Ground and perform a standard paired assault at the same time.
+- They fall inert if Ishall loses consciousness or the signature bond is forcibly severed.
+- Damage to an Artifact Hand creates feedback but does not remove or transform either of Ishall's body hands.
+
+#### Standard Statistics — Converging Refusal
 
 | Field | Record |
 |---|---|
@@ -822,6 +830,22 @@ The falloff applies to each component separately. The Void total is not reduced 
 For **Converging Refusal**, the artifacts take opposed positions above or beside the chosen field section. Their fingers curl inward without making physical contact. Grudge force strikes the area immediately, followed by a Pale White pressure residue that persists for six seconds.
 
 The center receives the greatest pressure. Inner and outer zones remain dangerous but weaker. Physical cover, sufficient resistance, leaving the residue field, disrupting the hands, or enduring the damage can reduce the attack's effect.
+
+#### Kinematics and Move Set
+
+##### Converging Refusal (Standard Paired Assault)
+- **Activation Stance:** Ishall remains stationary with forward posture, her android hands relaxed at her sides while her optical focal point locks onto the target zone.
+- **Trajectory & Energy:** The two floating relic hands glide into opposed standoff coordinates above the target sector, fingers curling inward to compress an invisible spatial boundary of Crimson Grudge.
+- **Reach & Falloff:** Range 4 (Long), creating an AoE compression zone (Center 100% → Inner 70% → Outer 50%).
+- **Hit Impact & Consequence:** Crushing implosion dealing 10–15 Grudge direct damage, followed by 1.5 Void per second for 6 seconds (9 total Void at center).
+- **Recoil & Recovery:** Speed 3 (Fast); 8-second operational cooldown; costs 18 Sorrow Echoes.
+
+##### Closed Ground (Area-Denial Field)
+- **Activation Stance:** Ishall turns both palms outward toward opposing room walls, holding a rigid stance.
+- **Trajectory & Energy:** The Artifact Hands fly to opposite perimeter boundaries, turning Pale White palm surfaces inward to project a room-spanning grid of Void resonance.
+- **Reach & Falloff:** Range 5 (Room), establishing a 10-second continuous area field (Center: 2 Void/s [20 total] → Inner: 1.4 Void/s [14 total] → Outer: 1 Void/s [10 total]).
+- **Hit Impact & Disruption:** Erodes targets with continuous Void resonance while severely disrupting Han-assisted movement and remote Han-wave transmissions.
+- **Recoil & Recovery:** Speed 2 (Normal) to deploy; 45 Sorrow Echoes; 30-second cooldown after field expiration.
 
 ### Special Mechanic — Closed Ground
 
@@ -1454,7 +1478,7 @@ Unanswered never inherits M.A.W. extraction, Gift, corrosion, or entity-origin r
 
 ### The Memory Archive
 
-No direct participation, Encounter, Memory Folio, Floor Realization, or Merge effect is assigned to Ishall.
+No direct participation, Reception, Key Page, Floor Realization, or Merge effect is assigned to Ishall.
 
 ### Floor and Hand Position
 
