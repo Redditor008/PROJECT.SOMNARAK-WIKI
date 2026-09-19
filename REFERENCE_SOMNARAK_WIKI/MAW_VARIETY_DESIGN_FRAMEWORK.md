@@ -118,13 +118,13 @@ M.A.W. Armaments (`MAW-W`) belong to one of seven distinct categories. Weapons a
 - **Concept:** Implements derived from mundane objects, architecture, legal mechanisms, or emotional metaphors that enforce absolute rules.
 - **Silhouettes & Sub-types:**
   - *Architectural:* Barred Door Pavises, Coffin Battering Rams, Trapping Cages, Segmented Gallows Beams.
-  - *Measurement & Judgment:* Balance Scales that weigh karmic debt, Hourglass Hammers that leak temporal sand, Iron Gavels.
+  - *Measurement, Law & Jewelry:* Balance Scales that weigh karmic debt, Hourglass Hammers that leak temporal sand, Iron Gavels, and Heavy Karmic Signet Rings that emit close-range [Range 2] cone-shaped gravitational crush waves upon fist clench.
   - *Surgical & Craft:* Giant Suture Awls, Bone-Drills, Embalming Trochars, Weaving Shuttles.
 
 ### 4.5 FANTASY (Astral, Prismatic, Gravitational & Orbiting)
 - **Concept:** Ethereal artifacts that manipulate light, cosmic grief, soundlessness, or gravitational singularities.
 - **Silhouettes & Sub-types:**
-  - *Prisms & Orreries:* Floating Astral Prisms, Gyroscopic Star Orreries, Gravitational Singularity Orbs, Refracting Halos.
+  - *Prisms, Rings & Orreries:* Floating Astral Prisms, Gyroscopic Star Orreries, Gravitational Singularity Orbs, Refracting Halos, Signet Bands that project spatial gravity cones.
   - *Levitating Formations:* Floating Pale Glass Shards orbiting the bearer, Luminous Light Shields, Prismatic Crescent Discs.
 
 ### 4.6 MAGIC (Incantatory Catalysts, Ritual Foci & Grimoires)
@@ -137,7 +137,7 @@ M.A.W. Armaments (`MAW-W`) belong to one of seven distinct categories. Weapons a
 - **Concept:** Monstrous armaments born from living marrow, calcified jaws, muscular tendrils, and predatory sorrow instincts.
 - **Silhouettes & Sub-types:**
   - *Jaws & Saws:* Snapping Bone-Jaws that bite and crush, Serrated Bone-Saws, Mandible Pincers, Chitin Cleavers.
-  - *Talons & Flesh:* Rending Bone-Claw Gauntlets, Ossified Spine-Whips, Rib-Cage Bows, Tendon-Flails, Horn Pikes.
+  - *Talons, Tendrils & Flesh:* Rending Bone-Claw Gauntlets, Ossified Spine-Whips, Rib-Cage Bows, Tendon-Flails, Horn Pikes, and Living Bio-Spikes (rigid 1.2m calcified red marrow spikes that awaken and writhe as flexible, coiling muscular tendrils/tentacles when held by an Agent).
 
 ---
 
