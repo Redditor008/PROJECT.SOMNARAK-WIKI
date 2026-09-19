@@ -1,49 +1,54 @@
 # Chatroom Text Box & Table Standards (Arena.ai)
 
-**Authority:** User Directive  
-**Target Environment:** Arena.ai Chatroom Output  
+**Authority:** User Directive & Visual Verification
+**Target Environment:** Arena.ai Chatroom Output
 **Tool Reference:** [tablesgenerator.com/text_tables](https://www.tablesgenerator.com/text_tables)
 
 ---
 
-## 1. Core Constraints
+## 1. The Core Law: Always Use Fenced Code Blocks (```)
 
-| Setting | Value | Rationale |
-|---|---|---|
-| **Use Unicode symbols for borders** | **[No]** | Prevents terminal/font rendering artifacts across disparate client platforms. Strictly use standard ASCII (`+`, `-`, `|`, `=`). |
-| **Syntax Standard** | **reStructuredText [Yes]** | Clean grid table structure with distinct header separators (`+===+===+`) and cell dividers (`+---+---+`). |
-| **Max Row Character Limit** | **67 Characters Exactly** | Verified through character-by-character testing in Arena.ai chatroom view without code block fences to prevent line-wrapping. |
+```
+NEVER output raw text boxes or tables without ``` code fences!
+```
+
+**Why this is mandatory:**
+1. **Whitespace Preservation:** Normal chatroom markdown/HTML collapses consecutive spaces into a single space, destroying all cell padding and causing crooked, jagged borders.
+2. **Monospace Font:** Proportional fonts cause characters of varying widths (`W` vs `i`) to misalign column borders (`|`). Fenced code blocks force monospace rendering where every character has an identical width.
 
 ---
 
-## 2. Specification Examples
+## 2. Table & Box Constraints
 
-### A. Single Box / Text Banner (Width: Exactly 67 Chars)
+| Setting | Value | Rationale |
+|---|---|---|
+| **Enclosure** | **Fenced Code Block (``` ... ```)** | Mandatory. Prevents whitespace stripping and proportional font misalignment. |
+| **Use Unicode symbols for borders** | **[No]** | Pure standard ASCII only (`+`, `-`, `|`, `=`). Eliminates font rendering glitches. |
+| **Syntax Standard** | **reStructuredText [Yes]** | Clean grid table structure with `+===+===+` headers and `+---+---+` row dividers. |
+| **Max Row Character Limit** | **48 Characters Max** | Universal ceiling ensuring zero line-wrapping or horizontal scroll on mobile and Arena.ai split chat screens. |
+
+---
+
+## 3. Reference Blueprints (48 Characters Exact Width)
+
+### A. Single Text Box (Width: Exactly 48 Chars)
 ```
-+-----------------------------------------------------------------+
-| TITLE / HEADER TEXT (PADDED TO 65 INNER CHARS)                  |
-+=================================================================+
-| Body line text content                                          |
-+-----------------------------------------------------------------+
++----------------------------------------------+
+| HEADER TITLE (PADDED TO 46 INNER CHARS)      |
++==============================================+
+| Line content goes here                       |
+| Another row of text                          |
++----------------------------------------------+
 ```
 
-### B. Multi-Column Grid Table (Width: Exactly 67 Chars)
-```
-+------------------+----------------------------------------------+
-| Header A         | Header B                                     |
-+==================+==============================================+
-| Item 01          | Description text (padded to fit column)      |
-+------------------+----------------------------------------------+
-| Item 02          | Description text                             |
-+------------------+----------------------------------------------+
-```
-*(Column widths: 18 + 46 + 3 border characters = 67 characters total)*
-
-### C. Compact Mobile Profile (Width: 48 Chars)
+### B. Multi-Column Grid Table (Width: Exactly 48 Chars)
 ```
 +----------------+-----------------------------+
 | Header A       | Header B                    |
 +================+=============================+
-| Item 01        | Description text            |
+| Item 01        | Description text goes here  |
++----------------+-----------------------------+
+| Item 02        | Another entry               |
 +----------------+-----------------------------+
 ```
+*(Width math: 1 + 16 + 1 + 29 + 1 = 48 characters total)*

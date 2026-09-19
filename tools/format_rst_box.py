@@ -1,15 +1,16 @@
 """
 Utility to generate and validate reStructuredText ASCII tables
 conforming to Arena.ai Chatroom constraints:
+- Enclosure: ALWAYS enclose inside fenced code block (``` ... ```)
 - Unicode symbols for table borders: [No] (pure ASCII: +, -, |, =)
 - reStructuredText syntax: [Yes]
-- Character Limit Per ROW: <= 67 characters (user counted exact threshold).
+- Character Limit Per ROW: <= 48 characters max.
 """
 
-def make_box(lines, width=67):
+def make_box(lines, width=48):
     """
     Wraps text lines into a single-cell reStructuredText box
-    with max row length of 67 characters.
+    with max row length of 48 characters.
     """
     inner_w = width - 2  # account for left and right border
     top_bot = "+" + "-" * inner_w + "+"
@@ -17,7 +18,6 @@ def make_box(lines, width=67):
     out = [top_bot]
     for line in lines:
         if len(line) > inner_w:
-            # wrap line
             words = line.split()
             cur = ""
             for w in words:
@@ -34,10 +34,10 @@ def make_box(lines, width=67):
     return "\n".join(out)
 
 
-def make_rst_table(headers, rows, col_widths=None, max_width=67):
+def make_rst_table(headers, rows, col_widths=None, max_width=48):
     """
     Builds a multi-column reStructuredText ASCII grid table
-    ensuring total row width <= max_width (default 67).
+    ensuring total row width <= max_width (default 48).
     """
     num_cols = len(headers)
     if col_widths is None:
@@ -70,8 +70,12 @@ def make_rst_table(headers, rows, col_widths=None, max_width=67):
 
 
 if __name__ == "__main__":
-    b = make_box(["DIRECTIVE CONFIRMED", "Exact Row Limit: 67 Characters", "ASCII Only, reStructuredText Syntax"], width=67)
+    b = make_box(["DIRECTIVE CONFIRMED", "Enclose inside code blocks", "Width: 48 chars max"], width=48)
+    print("```")
     print(b)
-    print("\nTable example (width 67):")
-    t = make_rst_table(["Setting", "Specification"], [["Borders", "Pure ASCII (+, -, |, =)"], ["Limit", "Exactly 67 Characters Max"], ["Syntax", "reStructuredText [Yes]"]], col_widths=[18, 46], max_width=67)
+    print("```")
+    print("\nTable example (width 48):")
+    t = make_rst_table(["Setting", "Rule"], [["Enclosure", "Code block (```)"], ["Borders", "ASCII only (+,-,|)"], ["Width", "48 chars max"]], col_widths=[14, 30], max_width=48)
+    print("```")
     print(t)
+    print("```")
