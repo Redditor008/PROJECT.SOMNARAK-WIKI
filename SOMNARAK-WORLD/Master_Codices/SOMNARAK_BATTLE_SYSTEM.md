@@ -1,5 +1,5 @@
 # SOMNARAK — Battle System
-## Narrative Combat Framework
+## Narrative Combat Framework & Tactical Engine
 
 > *"In Somnarak, every battle is a conversation between sorrow and survival."*
 
@@ -8,24 +8,17 @@
 ## Battle Turn Rules
 
 | Battle Type | Minimum Turns | Description |
-|-------------|---------------|-------------|
+|---|---|---|
 | **Short** | 10 turns | Quick encounter — minor entity, small skirmish |
 | **Medium** | 16 turns | Standard encounter — moderate entity, Fray confrontation |
-| **Long** | 20+ turns | Major encounter — powerful entity, boss fight, critical mission |
+| **Long** | 20+ turns | Major encounter — powerful entity, boss fight, critical mission, Core Suppression |
 
 **Each turn includes:**
-- Character actions
-- Dialogue
-- Combat mechanics
-- Environmental description
-- Emotional beats
-
----
-
-# SOMNARAK — Battle System
-## Narrative Combat Framework
-
-> *"In Somnarak, every battle is a conversation between sorrow and survival."*
+- Character actions and tactical positioning
+- Dialogue and psychological pressure
+- Combat mechanics and elemental resonance
+- Environmental description and Han density shifts
+- Emotional beats and Fracture warnings
 
 ---
 
@@ -36,20 +29,20 @@
 Every battle in Somnarak follows three phases:
 
 | Phase | Name | Description |
-|-------|------|-------------|
-| **1** | **Tension** | The build-up — assessing the threat, preparing, positioning |
-| **2** | **Clash** | The confrontation — Work Types, M.A.W., entity response |
-| **3** | **Resolution** | The outcome — containment, escape, Fracture, or death |
+|---|---|---|
+| **1** | **Tension** | The build-up — assessing the threat, preparing, positioning, Sorrow Gauge verification |
+| **2** | **Clash** | The confrontation — Work Types, M.A.W., specialized weaponry, entity response |
+| **3** | **Resolution** | The outcome — containment, pacification, Fracture, or death |
 
 ---
 
 ### Phase 1: Tension (긴장 — Ginjang)
 
 **What happens:**
-- The threat is identified — entity, Fractured being, environmental hazard
+- The threat is identified — entity, Fractured being, environmental hazard, or Echo-Core Crisis
 - Personnel assess the situation — Sorrow Gauge, entity classification, Work Type selection
-- Positioning — who goes where, who does what
-- Equipment check — M.A.W. status, attribute assessment
+- Positioning — who goes where, who does what, establishment of defensive Range Bands
+- Equipment check — M.A.W. status, specialized weapon readiness, attribute assessment
 
 **Narrative focus:**
 - The atmosphere — what does the air feel like? What does the entity look like?
@@ -64,7 +57,7 @@ Every battle in Somnarak follows three phases:
 
 **What happens:**
 - Work Types are performed — Flerehan, Pugnahan, Viderehan, Ferrehan
-- M.A.W. is activated — weapons strike, armor protects, tools assist
+- M.A.W. and specialized equipment are activated — weapons strike, armor protects, tactical systems assist
 - The entity responds — attacking, defending, transforming, retreating
 - Attributes are tested — Resilience, Clarity, Composure, Resolve
 
@@ -81,8 +74,8 @@ Every battle in Somnarak follows three phases:
 ### Phase 3: Resolution (결의 — Gyeol-ui)
 
 **What happens:**
-- The outcome — containment, escape, Fracture, or death
-- Consequences — injuries, attribute changes, M.A.W. damage
+- The outcome — containment, escape, Fracture, realization, or death
+- Consequences — injuries, attribute changes, M.A.W. degradation, harmonic stabilization
 - Aftermath — what was learned? What was lost? What changed?
 - Documentation — the battle is recorded in the facility log
 
@@ -93,7 +86,40 @@ Every battle in Somnarak follows three phases:
 
 ---
 
-## II. Entity Combat Behavior — How Entities Fight
+## II. Range Bands & Kinematic Reach (거리 대역 및 기구학)
+
+Combat in Somnarak operates across five standardized **Range Bands**, governing weapon reaches, projectile trajectories, area-of-effect boundaries, and repositioning costs.
+
+### Range Band Classification
+
+| Range Band | Classification | Reach / Boundary | Tactical Application | Key Weapon / System Examples |
+|---|---|---|---|---|
+| **Range 1** | **Melee / Touch** | 0–2 meters | Direct physical grappling, extraction coupling, biological contact | Dekan's Scaled Maw Arm, Zyrak's Extraction Hands, Daggers |
+| **Range 2** | **Close** | 2–5 meters | Short-reach melee, stiletto thrusts, bucklers, point-blank fire | Short Blades, Trench Knives, Small Cudgels, Pepperboxes |
+| **Range 3** | **Medium** | 5–12 meters | Sweeping polearms, cleavers, scythe-lines, close ballistics | Majin's Reaper Hungered, Spears, Broadswords, Culverins |
+| **Range 4** | **Long** | 12–25 meters | Standoff ballistics, optical focus beams, remote relic arrays | Ishall's Unanswered (Converging Refusal), Matchlocks, Rifles |
+| **Range 5** | **Room / Sector** | 25+ meters | Room-clearing shockwaves, sector-wide area-denial fields | Mellda's Threshold Vow (Shockwave), Closed Ground, Reliquary Bells |
+
+---
+
+### Multi-Target Line & AoE Falloff Mechanics (다중 대상 감쇄 규칙)
+
+When an attack penetrates multiple targets along a directional line or radiates through concentric area zones, the Directorate enforces the canonical **100% → 70% → 50% Falloff Formula**:
+
+| Hit Sequence / Zone | Multiplier | Direct Damage Application | Damage-Over-Time (DoT) Tick Application |
+|---|---:|---|---|
+| **Primary Hit / Center Zone** | **100%** | Full listed direct damage (1.0×) | Full listed per-Tick damage (1.0×) |
+| **First Pierced / Inner Zone** | **70%** | 70% of listed direct damage (0.7×) | 70% of listed per-Tick damage (0.7×) |
+| **Second Pierced / Outer Zone** | **50%** | 50% of listed direct damage (0.5×) | 50% of listed per-Tick damage (0.5×) |
+
+#### Rules of Falloff Resolution
+1. **Independent Component Scaling:** The target multiplier is applied to the direct damage and each periodic Tick separately. Direct damage and subsequent DoT sequences are never added together before calculating falloff.
+2. **Unrounded Precision:** Unless an explicit floor or ceiling rule is stated, percentage calculations preserve exact fractional values to reflect true Han density dissipation.
+3. **Line Penetration Limit:** Linear piercing attacks terminate after striking three targets unless governed by a Sovereign-grade or Ω-grade exemption.
+
+---
+
+## III. Entity Combat Behavior — How Entities Fight
 
 ### Entity Behavior Patterns
 
@@ -102,7 +128,7 @@ Each Sorrow Entity has a **combat behavior** based on its Coherence level, Eleme
 #### By Coherence Level
 
 | Coherence | Combat Behavior |
-|-----------|-----------------|
+|---|---|
 | **I — Residue** | Passive — does not attack directly, causes ambient distress |
 | **II — Echo** | Reactive — responds to stimuli, mimics behavior |
 | **III — Fragment** | Active — seeks, attacks, has preferences |
@@ -113,173 +139,236 @@ Each Sorrow Entity has a **combat behavior** based on its Coherence level, Eleme
 
 #### By Element
 
-| Element | Combat Style | Weakness |
-|---------|--------------|----------|
-| **Lament (Deep Blue)** | Emotional attacks — grief waves, sorrow overwhelming | Clarity (mental resistance) |
-| **Grudge (Crimson)** | Physical attacks — rage strikes, relentless assault | Resilience (physical endurance) |
-| **Void (Pale White)** | Identity attacks — memory theft, reality distortion | Composure (emotional control) |
-| **Weight (Black)** | Pressure attacks — debt accumulation, crushing sorrow | Resolve (willpower) |
+| Element | Combat Style | Defensive Counter / Weakness |
+|---|---|---|
+| **Lament (Deep Blue)** | Emotional attacks — grief waves, sorrow overwhelming, mental breakdown | Clarity (mental resistance & perception) |
+| **Grudge (Crimson)** | Physical attacks — rage strikes, relentless kinetic assault, hemorrhaging | Resilience (physical endurance & armor) |
+| **Void (Pale White)** | Identity attacks — memory theft, reality distortion, area negation | Composure (emotional control & sanity) |
+| **Weight (Black)** | Pressure attacks — debt accumulation, crushing sorrow, kinetic shockwaves | Resolve (willpower & moral grounding) |
 
 ---
 
 #### By Manifestation Type
 
 | Type | Combat Behavior |
-|------|-----------------|
-| **Subject (Being)** | Direct combat — physical attacks, abilities |
-| **Object (Thing)** | Passive effects — area denial, status effects |
-| **Place (Location)** | Environmental — the battlefield itself is the enemy |
-| **Time (Moment)** | Temporal — time distortion, déjà vu, loops |
+|---|---|
+| **Subject (Being)** | Direct combat — physical attacks, abilities, martial stances |
+| **Object (Thing)** | Passive effects — area denial, environmental status effects, cognitive traps |
+| **Place (Location)** | Environmental — the battlefield itself is the enemy; shifting walls, toxic mists |
+| **Time (Moment)** | Temporal — time distortion, déjà vu, localized looping, delay fields |
 
 ---
 
 ### Entity Combat Actions
 
 | Action | Description | Trigger |
-|--------|-------------|---------|
-| **Sorrow Wave** | A burst of Han-energy that affects all nearby | Entity is agitated |
-| **Targeted Strike** | A focused attack on a specific person | Entity identifies a threat |
-| **Sorrow Absorption** | Drains Han from nearby personnel | Entity is hungry |
-| **Transformation** | Changes form or abilities | Entity is losing |
-| **Retreat** | Withdraws to a safer location | Entity is overwhelmed |
-| **Summon** | Calls other entities or creates constructs | Entity is intelligent |
-| **Corrupt** | Warps the environment — making the battlefield dangerous | Entity is powerful |
+|---|---|---|
+| **Sorrow Wave** | A burst of Han-energy that affects all nearby personnel | Entity is agitated or damaged |
+| **Targeted Strike** | A focused attack on a specific individual | Entity identifies a primary threat |
+| **Sorrow Absorption** | Drains Han from nearby personnel to regenerate coherence | Entity is hungry or exhausted |
+| **Transformation** | Changes form, element affinity, or attack patterns | Entity health falls below 50% |
+| **Retreat** | Withdraws into shadows or secondary chambers | Entity is overwhelmed |
+| **Summon** | Calls lesser Echoes or creates sorrow constructs | Entity is intelligent or Sovereign-class |
+| **Corrupt** | Warps the floor — making ground hazardous or inversion-prone | Entity possesses Place-Tale resonance |
 
 ---
 
-## III. Personnel Combat Actions — What Characters Do
+## IV. Personnel Combat Actions & Armament Systems
 
-### Offensive Actions
+### Personnel Offensive Actions
 
 | Action | Description | Attribute | Element |
-|--------|-------------|-----------|---------|
+|---|---|---|---|
 | **M.A.W. Strike** | Attack with equipped M.A.W. weapon | Varies by weapon | Varies |
+| **Specialized Strike** | Attack with manufactured Cyborg arm or ancient relic | Resilience / Resolve | Varies |
 | **Han Pulse** | A burst of Han-energy — pushes entities back | Resolve | Weight |
 | **Resonance Attack** | A focused emotional attack — exploits entity weakness | Composure | Varies |
 | **Work Type Offensive** | Using a Work Type offensively — Flerehan to overwhelm, Pugnahan to stun | Varies | Varies |
 
-### Defensive Actions
+### Personnel Defensive Actions
 
 | Action | Description | Attribute | Element |
-|--------|-------------|-----------|---------|
-| **Block** | Absorb an attack with M.A.W. armor | Resilience | Varies |
-| **Evade** | Dodge an attack — requires speed and awareness | Clarity | Void |
-| **Counter** | Absorb an attack and strike back | Resolve | Grudge |
-| **Support** | Protect another person — take damage for them | Composure | Lament |
+|---|---|---|---|
+| **Block** | Absorb an attack with M.A.W. armor or manufactured shield | Resilience | Varies |
+| **Evade** | Dodge an attack — requires speed, agility, and awareness | Clarity | Void |
+| **Counter** | Absorb an incoming strike and return immediate kinetic force | Resolve | Grudge |
+| **Support** | Intercept an attack intended for an ally | Composure | Lament |
 
-### Support Actions
+### Personnel Support Actions
 
 | Action | Description | Attribute | Element |
-|--------|-------------|-----------|---------|
-| **Heal** | Restore a person's health or sanity | Composure | Lament |
-| **Boost** | Temporarily increase a person's attributes | Resolve | Weight |
-| **Scan** | Analyze the entity — reveal weaknesses | Clarity | Void |
-| **Rally** | Inspire the team — increase morale | Resolve | Grudge |
+|---|---|---|---|
+| **Heal** | Restore an ally's health, stabilize wounds, or patch chassis plating | Composure | Lament |
+| **Boost** | Temporarily increase an ally's combat attributes | Resolve | Weight |
+| **Scan** | Analyze entity behavioral frequencies and reveal elemental affinities | Clarity | Void |
+| **Rally** | Reinforce team morale and prevent panic or Fracture | Resolve | Grudge |
 
 ---
 
-## IV. Battle Consequences
+### Armament Architecture in Combat
+
+Not all weapons in Facility 01 are extracted M.A.W. The combat engine distinguishes between four distinct weapon architectures:
+
+| Weapon Architecture | Origin & Nature | Combat Function & Mechanics | Key Examples |
+|---|---|---|---|
+| **Standard Extracted M.A.W.** | Materialized from Sorrow Entity cores (Grades α–δ) | Scales with user Work Type affinities; subject to equipment damage and rejection | *The Balance Projector*, *The Lost Lens* |
+| **Fused Singular M.A.W.** | Permanently fused into a living bearer's flesh (Grade Ω) | Zero operational cost; infinite durability; releases soul-shattering catastrophic strikes | Majin's *Reaper Hungered* (Scythe) |
+| **Specialized Manufactured Arms** | Precision engineering integrated into Cyborg chassis | Operates via hydraulic pistons and Han-channels; output equivalent to high-tier M.A.W. | Mellda's *Threshold Vow* (Arm Blade) |
+| **Before-Time Artifact Relics** | Ancient relics surviving from before the Consolihan | Closed ancient Han lattice; remote autonomous flight; spatial and gravitational disruption | Ishall's *Unanswered* (Floating Hands) |
+
+---
+
+## V. Battle Consequences
 
 ### During Battle
 
 | Consequence | Effect | Duration |
-|-------------|--------|----------|
-| **Injury** | Physical damage — reduced HP | Until healed |
-| **Sanity Loss** | Mental damage — reduced Clarity | Until recovered |
-| **Sorrow Exposure** | Han absorption — attribute reduction | Temporary |
-| **M.A.W. Damage** | Equipment degradation — reduced effectiveness | Until repaired |
+|---|---|---|
+| **Physical Injury** | Loss of HP; chassis damage; impaired movement speed | Until treated or repaired |
+| **Sanity Depletion** | Loss of SP; reduced Clarity; risk of panic | Until recovered through Flerehan/Lament |
+| **Sorrow Exposure** | Han absorption; progressive attribute dampening | Temporary; cleared upon sector exit |
+| **Equipment Strain** | M.A.W. wear; thermal buildup in mechanical joints | Until serviced in the forge |
 
 ### After Battle
 
 | Consequence | Effect | Duration |
-|-------------|--------|----------|
-| **Attribute Change** | Permanent increase or decrease | Permanent |
-| **Fracture Warning** | Early signs of Fracture | Until treated |
-| **M.A.W. Rejection** | Equipment rejects the user | Until re-bonded |
-| **Death** | Permanent loss | Forever |
-| **Fracture** | Transformation into Sorrow Entity | Irreversible |
+|---|---|---|
+| **Attribute Growth** | Permanent increase based on actions taken | Permanent |
+| **Fracture Warning** | Citizen or agent begins crystallization descent | Requires immediate psychiatric / medical care |
+| **M.A.W. Rejection** | Weapon or armor refuses user synchronization | Requires re-bonding or extraction review |
+| **Death** | Permanent loss of biological or synthetic life | Irreversible |
+| **Fracture** | Total irreversible transformation into a Sorrow Entity | Permanent |
 
 ---
 
-## V. Boss Encounters — Special Mechanics
+## VI. Boss Encounters & Core Suppressions
 
-### Entity-Specific Mechanics
+### Part A: Sovereign & Catastrophic Entity Encounters
 
-Each powerful entity has **unique mechanics** — special abilities, weaknesses, or conditions.
+Powerful entities possess encounter-defining mechanics, requiring coordinated multi-turn strategy:
 
-**Example — The Orphaned Bell (`IV-δ-001`):**
-- **Toll Attack:** Periodic bell toll — damages all personnel's Clarity
-- **Memory Loss:** Prolonged exposure causes memory loss
-- **Weakness:** Flerehan — singing to the bell calms it
-- **Special Condition:** If the bell is silenced, it becomes vulnerable
+- **The Orphaned Bell (`IV-δ-001`):**
+  - *Toll Attack:* Periodic acoustic pulse damaging team-wide Clarity.
+  - *Memory Erosion:* Prolonged exposure causes memory loss and disorientation.
+  - *Weakness:* Flerehan — singing to the bell calms its weeping harmonic.
+  - *Special Condition:* If silenced through acoustic dampeners, its physical shell becomes vulnerable to blunt force.
 
-**Example — The Smothering Mother (`IV-δ-005`):**
-- **Embrace Attack:** Grabs personnel — traps them in a crushing hug
-- **Sorrow Absorption:** Drains Han from trapped personnel
-- **Weakness:** Viderehan — showing her that her child is at peace
-- **Special Condition:** If she is shown her child's memory, she releases her victims
+- **The Smothering Mother (`IV-δ-005`):**
+  - *Embrace Attack:* Grapples agents in a crushing, suffocating embrace dealing continuous Grudge damage.
+  - *Sorrow Absorption:* Drains Han from trapped personnel to reinforce her carapace.
+  - *Weakness:* Viderehan — presenting memories showing her child at peace disarms her aggression.
+  - *Special Condition:* Releasing victims requires presenting authentic uncorrupted family Echoes.
 
-**Example — The Maw (`IV-ω-001`):**
-- **Area Effect:** The district itself is the entity — all personnel inside are affected
-- **Sorrow Tide:** Periodic waves of concentrated Han
-- **Weakness:** None known — the Maw cannot be defeated
-- **Special Condition:** The Maw can only be *communicated with* — through the Containment Lead
+- **The Maw (`IV-ω-001`):**
+  - *District Area Effect:* The entire subterranean sector is the entity's body.
+  - *Sorrow Tide:* Periodic cataclysmic surges of liquid Han that flood containment trenches.
+  - *Weakness:* None known — The Maw cannot be defeated or contained by force.
+  - *Special Condition:* It can only be communicated with through the Containment Lead (Dekan)'s scaled biological arm.
 
 ---
 
-## VI. Battle Atmosphere
+### Part B: Echo-Core Suppressions — Departmental Realization Battles (핵 진압 결전)
+
+When an Echo-Core fractures under accumulated cycle trauma, their sector undergoes a **Core Crisis (핵 위기)**. The Director and deployed agents must suppress the sector lead to ground their consciousness and achieve **Departmental Realization**.
+
+#### Permanent Suppression Rewards
+- **+10 to All Attributes:** Surviving personnel receive a permanent +10 to Resilience, Clarity, Composure, and Resolve.
+- **Sector Stabilization:** The suppressed floor permanently gains an operational department buff that persists across all subsequent cycles.
+- **Absolvohan Alignment:** Aligns one central extraction node toward the final dawn.
+
+#### Sector Suppression Profiles (Floors 2 through 8)
+
+##### Floor 2 — Dekan: The Maw Heartbeat Surge
+- **Boss Role:** Living graft resonance conduit.
+- **Combat Dynamic:** The collective lament of the thousand consumed souls floods Floor 2 in Crimson mist. Containment cells suffer cascading resonance failures. Agents must alternate between pacifying breached containment vats and pinning Dekan's scaled biological arm to ground his neural feedback.
+
+##### Floor 3 — Zyrak: Forge Bleed Overload
+- **Boss Role:** Android forge-master in cognitive memory bleed.
+- **Combat Dynamic:** Unformed M.A.W. resonance vats burst into volatile Han crystallization pulses. Cold crystallization fields sweep the room, locking agent gear. Agents must disrupt her calibration resonance while avoiding surgical mechanical strikes from her sorrow-forged hands.
+
+##### Floor 4 — Ayshuk: Void Logic Collapse
+- **Boss Role:** Emotionally null Android intellect experiencing feedback collapse.
+- **Combat Dynamic:** The Void of missing sorrow inverts the floor's analytical matrices. Sorrow Gauges project hallucinatory data, and Work Type effectiveness reverses. Agents must solve cognitive alignment puzzles under extreme mental disorientation to stabilize Ayshuk's Research Ledger.
+
+##### Floor 5 — Mellda: The Warden Martial Trial (The Pure Combat Duel)
+- **Boss Role:** Immovable heavy Warden bulwark.
+- **Combat Dynamic:** Mellda overclocks her Cyborg chassis, treating the facility itself as an Outside Sorrow breach. She engages agents in a relentless, uncompromising physical duel using **Threshold Vow**:
+  - *Warden's Puncture:* Linear Room-range piston thrusts dealing 6–16 Weight direct damage plus 2 Grudge/s hemorrhaging (100% → 70% → 50% line falloff).
+  - *Singular Weight Wave:* Massive 25-Weight shockwaves that sweep the arena, battering agents backward.
+  - *Win Condition:* Agents cannot talk Mellda down; they must break her defensive stance and withstand her crushing kinetic onslaught to prove their martial resolve.
+
+##### Floor 6 — Marjuk: Memory Vault Leak
+- **Boss Role:** Cryogen archive keeper drowned in forgotten history.
+- **Combat Dynamic:** Stasis containment seals shatter, releasing acoustic whispers and erased memories of the Cheongula sacrifice. The room fills with temporal vertigo and phantom echoes. Agents must navigate shifting floor geometry to reach and realign Marjuk's Memory Lens.
+
+##### Floor 7 — Ishall: The Dual Suppression Anomaly (Two-Phase Boss Gauntlet)
+*Echo-Core 8 represents Facility 01's only two-phase sequential suppression battle:*
+- **Phase 1 — Infiltrator Chassis Reclamation:**
+  - *Threat:* Hostile foreign military firmware overrides her repurposed enemy Android chassis. Ishall engages full optical refraction camouflage, laying razor-wire traps and firing high-velocity Grudge sniper rounds from concealed vantage points.
+  - *Objective:* Deploy electronic jamming, bypass lethal crossfire corridors, and physically breach her cranial chassis to shatter the military command loop and awaken **Ishall's true human soul**.
+- **Phase 2 — Unanswered Primordial Void Rupture:**
+  - *Threat:* Neutralizing her chassis severs the neural tether to her Before-Time relic hands. Untethered, **Unanswered** enters an autonomous primordial awakening, establishing an omnidirectional **Closed Ground** field:
+    * Disables all Han-assisted movement and remote Han-wave communications.
+    * Inverts local gravity and inflicts continuous Pale White Void erosion ticks.
+    * Periodically curls its floating mineral fingers to execute **Converging Refusal** spatial implosions.
+  - *Objective:* Brave the crushing Void vacuum on foot without Han propulsion, physically reaching both floating hands simultaneously to force a manual harmonic recalibration, binding them back to Ishall's restored human will.
+
+##### Floor 8 — Xyan: Desolate Gale Breach
+- **Boss Role:** Desolate-changed boundary vanguard.
+- **Combat Dynamic:** The boundary threshold fractures, letting howling Desolate winds, toxic Han dust, and phantasmal route echoes flood the lower corridors. Calcifying pale crystal spreads across the floor. Agents must fight their way upstream through the storm against heavy Weight pressure to reach and ground Xyan's Neural Spine.
+
+---
+
+## VII. Battle Atmosphere
 
 ### Environmental Effects
 
 | Environment | Effect on Battle |
-|-------------|------------------|
+|---|---|
 | **Zone B** | Heavy Han — entity abilities amplified, personnel attributes reduced |
 | **Zone C** | Veil active — entity abilities suppressed, personnel attributes normal |
-| **Zone D** | Mixed — depends on district |
-| **Zone E** | Outside Sorrow present — entity abilities unpredictable |
-| **Desolate** | Raw Han — entity abilities maximized, personnel at severe disadvantage |
-| **Deep Underground** | Han-dense — all abilities amplified, both entity and personnel |
+| **Zone D** | Mixed — depends on district architecture and sorrow flow |
+| **Zone E** | Outside Sorrow present — entity abilities unpredictable and volatile |
+| **The Desolate** | Raw Han — entity abilities maximized, personnel at severe disadvantage |
+| **Deep Underground** | Extreme Han density — all abilities amplified, both entity and personnel |
 
 ### Atmospheric Elements
 
 | Element | Description |
-|---------|-------------|
-| **Sound** | The entity's voice — whispers, screams, songs, silence |
-| **Light** | Han-lamps flicker, shadows move, the entity glows |
+|---|---|
+| **Sound** | The entity's voice — whispers, screams, songs, acoustic silence |
+| **Light** | Han-lamps flicker, shadows move, the entity glows with resonance hue |
 | **Temperature** | Cold (Void), Hot (Grudge), Heavy (Weight), Ethereal (Lament) |
-| **Smell** | Sorrow has a scent — tears, ash, dust, rain |
-| **Feeling** | The air itself carries emotion — grief, rage, emptiness, weight |
+| **Smell** | Sorrow has a scent — tears, ash, ozone, dust, mineral rain |
+| **Feeling** | The air itself carries emotional load — grief, rage, emptiness, gravitational weight |
 
 ---
 
-## VII. Battle Narrative Structure
+## VIII. Battle Narrative Structure
 
 ### How to Write a Battle
 
 **Step 1: Set the Scene**
-- Where are they? What does it look like? What does it feel like?
-- What is the entity? What does it want? What is its weakness?
+- Where are they? What does the environment look like? What does it feel like?
+- What is the entity or Echo-Core crisis? What are the immediate stakes?
 
 **Step 2: Build Tension**
-- The entity is identified. The team prepares. The stakes are clear.
+- The threat is identified. The team prepares and establishes Range Bands.
 - What are the characters afraid of? What do they have to lose?
 
 **Step 3: The Clash**
-- Work Types are performed. M.A.W. is activated. The entity responds.
+- Work Types are performed. M.A.W. or specialized arms are discharged.
 - What does the combat look like? What does it feel like?
-- How do the characters react under pressure?
+- How do the characters react under physical and emotional pressure?
 
 **Step 4: Escalation**
-- The battle intensifies. The entity transforms. The team is pushed to their limits.
-- What is the turning point? What is the cost?
+- The battle intensifies. The entity transforms or the Echo-Core enters a secondary crisis phase.
+- What is the turning point? What is the sacrifice?
 
 **Step 5: Resolution**
-- The outcome — containment, escape, Fracture, or death.
+- The outcome — containment, escape, Fracture, realization, or death.
 - What was learned? What was lost? What changed?
 
 **Step 6: Aftermath**
-- The consequences — injuries, attribute changes, M.A.W. damage.
-- How does the world respond? What happens next?
-
----
-
+- The consequences — injuries, attribute growth, equipment repair, trauma processing.
+- How does the facility respond? What step toward the Absolvohan was taken?
