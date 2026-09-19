@@ -95,7 +95,7 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 55 | Weapon | The Cage Fang | [The Rage Cage](../Sorrow_Entities/SE-C-IIIγ-120_The_Rage_Cage_분노의_감옥.md) | SE-C-IIIγ-120 | Weapon | γ | Grudge |
 | 56 | Suit | The Cage Shield | [The Rage Cage](../Sorrow_Entities/SE-C-IIIγ-120_The_Rage_Cage_분노의_감옥.md) | SE-C-IIIγ-120 | Armor (Suit) | γ | Grudge |
 | 57 | Gift | The Cage Charm | [The Rage Cage](../Sorrow_Entities/SE-C-IIIγ-120_The_Rage_Cage_분노의_감옥.md) | SE-C-IIIγ-120 | Accessory (Gift) | γ | Grudge |
-| 58 | Weapon | The Willow Requiem | [The Weeping Willow](../Sorrow_Entities/SE-C-IIIγ-140_The_Weeping_Willow_우는_버드나무.md) | SE-C-IIIγ-140 | Weapon | γ | Lament |
+| 58 | Weapon | The Weeping Willow War-Scythe | [The Weeping Willow](../Sorrow_Entities/SE-C-IIIγ-140_The_Weeping_Willow_우는_버드나무.md) | SE-C-IIIγ-140 | Weapon (MELEE — War-Scythe) | γ | Lament |
 | 59 | Suit | The Willow Cloak | [The Weeping Willow](../Sorrow_Entities/SE-C-IIIγ-140_The_Weeping_Willow_우는_버드나무.md) | SE-C-IIIγ-140 | Armor (Suit) | γ | Lament |
 | 60 | Gift | The Willow Charm | [The Weeping Willow](../Sorrow_Entities/SE-C-IIIγ-140_The_Weeping_Willow_우는_버드나무.md) | SE-C-IIIγ-140 | Accessory (Gift) | γ | Lament |
 | 61 | Weapon | The Thorn Fang | [The Garden of Thorns](../Sorrow_Entities/SE-C-IIIγ-145_The_Garden_of_Thorns_가시의_정원.md) | SE-C-IIIγ-145 | Weapon | γ | Grudge |
@@ -233,7 +233,7 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 193 | Weapon | The Silence Lens | [The Silent Maiden](../Sorrow_Entities/SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md) | SE-C-IVβ-043 | Weapon | β | Void |
 | 194 | Suit | The Silence Veil | [The Silent Maiden](../Sorrow_Entities/SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md) | SE-C-IVβ-043 | Armor (Suit) | β | Void |
 | 195 | Gift | The Silence Cloak | [The Silent Maiden](../Sorrow_Entities/SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md) | SE-C-IVβ-043 | Accessory (Gift) | β | Void |
-| 196 | Weapon | The Forgotten Lens | [The Memory Weaver](../Sorrow_Entities/SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) | SE-C-IVγ-009 | Weapon | γ | Void |
+| 196 | Weapon | The Weaver's Shuttle-Awl | [The Memory Weaver](../Sorrow_Entities/SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) | SE-C-IVγ-009 | Weapon (UNIQUE — Piercing Shuttle) | γ | Void |
 | 197 | Suit | The Forgotten Veil | [The Memory Weaver](../Sorrow_Entities/SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) | SE-C-IVγ-009 | Armor (Suit) | γ | Void |
 | 198 | Gift | The Forgotten Mask | [The Memory Weaver](../Sorrow_Entities/SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) | SE-C-IVγ-009 | Accessory (Gift) | γ | Void |
 | 199 | Weapon | The Duty Fang | [The Hollow Knight](../Sorrow_Entities/SE-C-IVγ-073_The_Hollow_Knight_빈_기사.md) | SE-C-IVγ-073 | Weapon | γ | Grudge |
@@ -269,13 +269,13 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 229 | Weapon | The Lament's Requiem | [The Orphaned Bell](../Sorrow_Entities/SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) | SE-C-IVδ-001 | Weapon (MELEE — Greatsword) | δ | Lament |
 | 230 | Suit | The Lament's Shroud | [The Orphaned Bell](../Sorrow_Entities/SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) | SE-C-IVδ-001 | Armor (Suit) | δ | Lament |
 | 231 | Gift | Lament's Edge | [The Orphaned Bell](../Sorrow_Entities/SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) | SE-C-IVδ-001 | Accessory (Gift) | δ | Lament |
-| 232 | Weapon | The Burning Fang | [The Burning Library](../Sorrow_Entities/SE-C-IVδ-092_The_Burning_Library_타오르는_도서관.md) | SE-C-IVδ-092 | Weapon | δ | Grudge |
+| 232 | Weapon | The Pyre Grimoire & Ash Lance | [The Burning Library](../Sorrow_Entities/SE-C-IVδ-092_The_Burning_Library_타오르는_도서관.md) | SE-C-IVδ-092 | Weapon (MAGIC — Grimoire & Flame Lance) | δ | Grudge |
 | 233 | Suit | The Burning Plate | [The Burning Library](../Sorrow_Entities/SE-C-IVδ-092_The_Burning_Library_타오르는_도서관.md) | SE-C-IVδ-092 | Armor (Suit) | δ | Grudge |
 | 234 | Gift | The Burning Page | [The Burning Library](../Sorrow_Entities/SE-C-IVδ-092_The_Burning_Library_타오르는_도서관.md) | SE-C-IVδ-092 | Accessory (Gift) | δ | Grudge |
 | 235 | Weapon | The Cold Lens | [The Frozen Veil](../Sorrow_Entities/SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md) | SE-C-IVδ-103 | Weapon | δ | Void |
 | 236 | Suit | The Cold Veil | [The Frozen Veil](../Sorrow_Entities/SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md) | SE-C-IVδ-103 | Armor (Suit) | δ | Void |
 | 237 | Gift | The Cold Heart | [The Frozen Veil](../Sorrow_Entities/SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md) | SE-C-IVδ-103 | Accessory (Gift) | δ | Void |
-| 238 | Weapon | The Broken Bridge Requiem | [The Broken Bridge](../Sorrow_Entities/SE-C-IVδ-106_The_Broken_Bridge_부서진_다리.md) | SE-C-IVδ-106 | Weapon | δ | Lament |
+| 238 | Weapon | The Survivor's Span-Cleaver | [The Broken Bridge](../Sorrow_Entities/SE-C-IVδ-106_The_Broken_Bridge_부서진_다리.md) | SE-C-IVδ-106 | Weapon (MELEE — Zweihander Span-Blade) | δ | Lament |
 | 239 | Suit | The Broken Bridge Shroud | [The Broken Bridge](../Sorrow_Entities/SE-C-IVδ-106_The_Broken_Bridge_부서진_다리.md) | SE-C-IVδ-106 | Armor (Suit) | δ | Lament |
 | 240 | Gift | The Broken Bridge Lantern | [The Broken Bridge](../Sorrow_Entities/SE-C-IVδ-106_The_Broken_Bridge_부서진_다리.md) | SE-C-IVδ-106 | Accessory (Gift) | δ | Lament |
 | 241 | Weapon | The Returning Lens | [The Returning Fruit](../Sorrow_Entities/SE-C-IVδ-125_The_Returning_Fruit_돌아온_열매.md) | SE-C-IVδ-125 | Weapon | δ | Void |
@@ -419,10 +419,10 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 379 | Weapon | The Storm Maul | [The Sorrow Storm](../Sorrow_Entities/SE-C-Vγ-320_The_Sorrow_Storm_슬픔의_폭풍.md) | SE-C-Vγ-320 | Weapon | γ | Weight |
 | 380 | Suit | The Storm Shield | [The Sorrow Storm](../Sorrow_Entities/SE-C-Vγ-320_The_Sorrow_Storm_슬픔의_폭풍.md) | SE-C-Vγ-320 | Armor (Suit) | γ | Weight |
 | 381 | Gift | The Storm Charm | [The Sorrow Storm](../Sorrow_Entities/SE-C-Vγ-320_The_Sorrow_Storm_슬픔의_폭풍.md) | SE-C-Vγ-320 | Accessory (Gift) | γ | Weight |
-| 382 | Weapon | The Mourning Maul | [The Grieving Colossus](../Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | SE-C-Vδ-002 | Weapon | δ | Weight |
+| 382 | Weapon | The Mourning Monument | [The Grieving Colossus](../Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | SE-C-Vδ-002 | Weapon (UNIQUE — Reliquary Sledge) | δ | Weight |
 | 383 | Suit | The Mourning Mantle | [The Grieving Colossus](../Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | SE-C-Vδ-002 | Armor (Suit) | δ | Weight |
 | 384 | Gift | The Mourning Shell | [The Grieving Colossus](../Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | SE-C-Vδ-002 | Accessory (Gift) | δ | Weight |
-| 385 | Weapon | The Absolute Maul | [The Convergence](../Sorrow_Entities/SE-C-Vδ-010_The_Convergence_수렴.md) | SE-C-Vδ-010 | Weapon | δ | Weight |
+| 385 | Weapon | The Gravitational Singularity-Hammer | [The Convergence](../Sorrow_Entities/SE-C-Vδ-010_The_Convergence_수렴.md) | SE-C-Vδ-010 | Weapon (FANTASY — Singularity Maul) | δ | Weight |
 | 386 | Suit | The Absolute Mantle | [The Convergence](../Sorrow_Entities/SE-C-Vδ-010_The_Convergence_수렴.md) | SE-C-Vδ-010 | Armor (Suit) | δ | Weight |
 | 387 | Gift | The Absolute Verdict | [The Convergence](../Sorrow_Entities/SE-C-Vδ-010_The_Convergence_수렴.md) | SE-C-Vδ-010 | Accessory (Gift) | δ | Weight |
 | 388 | Weapon | The Unknown — No Extraction Lens | [The Final Door](../Sorrow_Entities/SE-C-Vδ-111_The_Final_Door_마지막_문.md) | SE-C-Vδ-111 | Weapon | δ | Void |
@@ -785,7 +785,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 **Entry 1 — The Debt Prism (Weapon)**
 
-**Category:** FANTASY (Astral Prism / Floating Dodecahedron) | **Grade:** β | **Element:** Void  
+**Category:** FANTASY (Astral Prism / Floating Dodecahedron) | **Grade:** β | **Element:** Void
 **Damage:** Void 6–10 | **Speed:** 4 (Fast) | **Range:** Special (Instant) | **Pattern:** Channeled Ray / Prismatic Needles
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Read the Account channels the entity's void signature to strike targets downfield at light speed.
@@ -819,7 +819,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 **Entry 4 — The Balance Projector (Weapon)**
 
-**Category:** RANGE (Balance Crossbow / Counterweight Culverin) | **Grade:** β | **Element:** Void  
+**Category:** RANGE (Balance Crossbow / Counterweight Culverin) | **Grade:** β | **Element:** Void
 **Damage:** Void 8–14 | **Speed:** 2 (Slow) | **Range:** 4 (Long) | **Pattern:** Precision Shot / Equalizing Bolt
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Debt Scale's void signature in the strike, penetrating defenses based on target debt.
@@ -886,7 +886,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 **Entry 10 — The Hourglass Maul (Weapon)**
 
-**Category:** UNIQUE (Hourglass Sledge / Sand-Clock Hammer) | **Grade:** β | **Element:** Weight  
+**Category:** UNIQUE (Hourglass Sledge / Sand-Clock Hammer) | **Grade:** β | **Element:** Weight
 **Damage:** Weight 9–16 | **Speed:** 1 (Very Slow) | **Range:** 5 (Room) | **Pattern:** Ground Shockwave / Temporal Drag
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Spent Moment stores the momentum of delayed actions, releasing crushing temporal mass on impact.
@@ -1151,7 +1151,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 **Entry 34 — The Resentment Talon-Blade (Weapon)**
 
-**Category:** MIXED (Chain-Sickle / Transforming Falx) | **Grade:** γ | **Element:** Grudge  
+**Category:** MIXED (Chain-Sickle / Transforming Falx) | **Grade:** γ | **Element:** Grudge
 **Damage:** Grudge 9–15 | **Speed:** 3 (Normal) | **Range:** 2–3 (Short to Medium) | **Pattern:** Cleave / Retractable Whip Lash
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Unpaid Anger tracks the documented chain of imposed obligation, cleaving through physical and systemic restraints.
@@ -1218,7 +1218,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 **Entry 40 — The Hollow Sceptre (Weapon)**
 
-**Category:** MAGIC (Choral Staff / Resonant Sceptre) | **Grade:** γ | **Element:** Void  
+**Category:** MAGIC (Choral Staff / Resonant Sceptre) | **Grade:** γ | **Element:** Void
 **Damage:** Void 8–14 | **Speed:** 3 (Normal) | **Range:** 4 (Long) | **Pattern:** Line Pierce / Ultrasonic Beam
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Hollow Saint's void signature in the strike, carving out mental space for targets to reclaim agency.
@@ -1415,11 +1415,12 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Weeping Willow ( 우는 버드나무 ) — SE-C-IIIγ-140
 
-**Entry 58 — The Willow Requiem (Weapon)**
+**Entry 58 — The Weeping Willow War-Scythe (Weapon)**
 
-**Type:** Weapon | **Grade:** γ | **Element:** Lament
+**Category:** MELEE (War-Scythe / Flexible Branch-Blade) | **Grade:** γ | **Element:** Lament
+**Damage:** Lament 9–15 | **Speed:** 3 (Normal) | **Range:** 3 (Medium) | **Pattern:** Reaping Arc / Cascading Sigh
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Weeping Willow's lament signature in the strike.
+**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels gentle departure sorrow in wide reaping arcs, quieting aggression without hatred.
 
 **Cost:** 40 Sorrow Echoes
 
@@ -2933,11 +2934,12 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Memory Weaver ( 기억의 직공 ) — SE-C-IVγ-009
 
-**Entry 196 — The Forgotten Lens (Weapon)**
+**Entry 196 — The Weaver's Shuttle-Awl (Weapon)**
 
-**Type:** Weapon | **Grade:** γ | **Element:** Void
+**Category:** UNIQUE (Awl & Memory Spool / Piercing Shuttle) | **Grade:** γ | **Element:** Void
+**Damage:** Void 8–14 | **Speed:** 4 (Fast) | **Range:** 2 (Short) | **Pattern:** Precision Thrust / Thread Sever
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Memory Weaver's void signature in the strike.
+**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Threadcut pierces the target's psychic tapestry, unraveling combat memory and learned reactions.
 
 **Cost:** 40 Sorrow Echoes
 
@@ -3298,7 +3300,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 **Entry 229 — The Lament's Requiem (Weapon)**
 
-**Category:** MELEE (Resonating Greatsword) | **Grade:** δ | **Element:** Lament  
+**Category:** MELEE (Resonating Greatsword) | **Grade:** δ | **Element:** Lament
 **Damage:** Lament 12–18 | **Speed:** 2 (Slow) | **Range:** 3 (Medium) | **Pattern:** Wide Arc / Line Resonance
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Tollcut channels The Orphaned Bell's lament signature, causing soundless shockwaves that shatter target composure.
@@ -3330,11 +3332,12 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Burning Library ( 타오르는 도서관 ) — SE-C-IVδ-092
 
-**Entry 232 — The Burning Fang (Weapon)**
+**Entry 232 — The Pyre Grimoire & Ash Lance (Weapon)**
 
-**Type:** Weapon | **Grade:** δ | **Element:** Grudge
+**Category:** MAGIC (Grimoire-Catalyst / Flame Lance) | **Grade:** δ | **Element:** Grudge
+**Damage:** Grudge 14–22 | **Speed:** 3 (Normal) | **Range:** 4 (Long) | **Pattern:** Channeled Ash Burst / Consuming Conflagration
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Burning Library's grudge signature in the strike.
+**Ability:** Deals heavy Grudge damage, attacking the Body (physical form, structural integrity). Witness's Flame channels burning suppressed testimony into white-hot piercing javelins.
 
 **Cost:** 50 Sorrow Echoes
 
@@ -3396,11 +3399,12 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Broken Bridge ( 부서진 다리 ) — SE-C-IVδ-106
 
-**Entry 238 — The Broken Bridge Requiem (Weapon)**
+**Entry 238 — The Survivor's Span-Cleaver (Weapon)**
 
-**Type:** Weapon | **Grade:** δ | **Element:** Lament
+**Category:** MELEE (Zweihander / Segmented Span-Blade) | **Grade:** δ | **Element:** Lament
+**Damage:** Lament 14–22 | **Speed:** 2 (Slow) | **Range:** 3 (Medium) | **Pattern:** Sweeping Cleave / Structural Sever
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Broken Bridge's lament signature in the strike.
+**Ability:** Deals heavy Lament damage, attacking the Mind (emotional stability, willpower). Far Shore Sever sweeps in a wide arc, redirecting survivor vertigo and collapse trauma outward.
 
 **Cost:** 50 Sorrow Echoes
 
@@ -4190,7 +4194,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 **Entry 310 — The Cheongula — Devouring Jaw (Weapon)**
 
-**Category:** PRIMAL (Snapping Jaw / Serrated Bone-Saw) | **Grade:** ω | **Element:** Grudge  
+**Category:** PRIMAL (Snapping Jaw / Serrated Bone-Saw) | **Grade:** ω | **Element:** Grudge
 **Damage:** Grudge 22–34 | **Speed:** 2 (Slow) | **Range:** 2 (Short) | **Pattern:** Masticating Cleave / Multi-Bite Clamp
 
 **Ability:** Deals catastrophic Grudge damage, attacking the Body (physical form, structural integrity). Devouring Clamp traps the target within interlocking jaws, chewing through defenses.
@@ -4981,11 +4985,12 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Grieving Colossus ( 슬픔의 거인 ) — SE-C-Vδ-002
 
-**Entry 382 — The Mourning Maul (Weapon)**
+**Entry 382 — The Mourning Monument (Weapon)**
 
-**Type:** Weapon | **Grade:** δ | **Element:** Weight
+**Category:** UNIQUE (Reliquary Sledge / Memorial Pillar) | **Grade:** δ | **Element:** Weight
+**Damage:** Weight 16–26 | **Speed:** 1 (Very Slow) | **Range:** 5 (Room) | **Pattern:** Ground Shockwave / Seismic Grief
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Grieving Colossus's weight signature in the strike.
+**Ability:** Deals heavy Weight damage, attacking the Han (sorrow reserves, karmic debt). Memorial Break unleashes seismic ground tremors carrying the unbearable weight of fallen districts.
 
 **Cost:** 50 Sorrow Echoes
 
@@ -5014,11 +5019,12 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Convergence ( 수렴 ) — SE-C-Vδ-010
 
-**Entry 385 — The Absolute Maul (Weapon)**
+**Entry 385 — The Gravitational Singularity-Hammer (Weapon)**
 
-**Type:** Weapon | **Grade:** δ | **Element:** Weight
+**Category:** FANTASY (Singularity Maul / Orbiting Core) | **Grade:** δ | **Element:** Weight
+**Damage:** Weight 18–28 | **Speed:** 1 (Very Slow) | **Range:** 5 (Room) | **Pattern:** Gravitational Inversion / Collapsing Shockwave
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Convergence's weight signature in the strike.
+**Ability:** Deals extreme Weight damage, attacking the Han (sorrow reserves, karmic debt). No Appeal compresses chamber space toward an absolute singularity before detonating outward.
 
 **Cost:** 50 Sorrow Echoes
 
@@ -6501,7 +6507,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 **Entry 520 — The Embrace Talon (Weapon)**
 
-**Category:** PRIMAL (Rending Bone-Claw / Tendon Gauntlet) | **Grade:** δ | **Element:** Grudge  
+**Category:** PRIMAL (Rending Bone-Claw / Tendon Gauntlet) | **Grade:** δ | **Element:** Grudge
 **Damage:** Grudge 12–18 | **Speed:** 4 (Fast) | **Range:** 1 (Close) | **Pattern:** Snapping Clamp / Visceral Drag
 
 **Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Smothering Mother's grudge signature, refusing to allow anything within its grasp to retreat.

@@ -178,21 +178,26 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Mourning Maul
+### M.A.W. Weapon — The Mourning Monument
 
-**Type:** Weapon | **Grade:** δ | **Element:** Weight
+**Category:** UNIQUE (Reliquary Sledge / Memorial Pillar) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that flickers with inner light.
+**Appearance:** A massive, unpolished rectangular war sledge carved from petrified grey tear-crystal and banded with dark Han-steel. The striking faces are inscribed with rows of thousands of names from collapsed city districts, worn smooth by countless memorial processions. A constant fine ash of memorial dust falls from the stone head whenever it is hoisted. When brought down upon the earth, it produces no metallic clang, but a deep seismic shockwave that travels through the ground, forcing all nearby hostile bodies to their knees under the crushing gravitational weight of the unforgotten dead.
 
-**Damage:** Weight 10-15
-**Speed:** 3 (Fast)
-**Range:** 3 (Medium)
+**Damage:** Weight 16–26
+**Speed:** 1 (Very Slow)
+**Range:** 5 (Room)
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Grieving Colossus's weight signature in the strike.
+**Attack Pattern:** Ground Shockwave / Seismic Grief
+**Target Coverage:** Radial area burst (Room); strikes ground to unleash a 360° concussive seismic tremor affecting all grounded targets
+**Falloff Rule:** 100% damage at epicenter → 60% at perimeter; inflicts heavy stagger and crushing weight pressure.
+**Damage Application:** Direct Weight trauma to Han (sorrow reserves, karmic debt); drastically depletes target poise and immobilizes movement.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Ability:** Deals heavy Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Grieving Colossus's monumental sorrow, making dismissed deaths physically inescapable.
+
+**Cost:** The wielder feels progressively heavier; carried by someone who dismisses an identified death, the weapon becomes impossibly heavy to lift, causing joint strain and bone ache.
 
 ### M.A.W. Suit — The Mourning Mantle
 

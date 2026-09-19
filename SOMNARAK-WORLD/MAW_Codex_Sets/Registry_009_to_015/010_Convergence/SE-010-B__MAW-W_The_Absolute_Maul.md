@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Absolute Maul
+# M.A.W. WEAPON — The Gravitational Singularity-Hammer
 
-> *“It lands exactly where the verdict says the world must become smaller.”*
+> *“It lands exactly where the verdict says the world must collapse into a single point.”*
 
 ---
 
@@ -18,7 +18,8 @@
 
 | Field | Record |
 |---|---|
-| **Type** | Weapon — sealed two-handed maul |
+| **Type** | Weapon — gravitational core hammer |
+| **Category** | FANTASY (Singularity Maul / Orbiting Core) |
 | **Grade** | δ — Critical |
 | **Element** | Weight — Black |
 | **Maximum Amount** | 2 — historical sealed pair |
@@ -27,7 +28,7 @@
 
 ### Appearance
 
-The Absolute Maul is a black two-hand maul of sealed Han steel, its head broad and heavy and its haft short enough to require both hands close together. Along the face run three shallow impressions: an eye, a scale, and a folded wing, each pressed to a different depth so that no two catch light at the same time. The metal is entirely without polish, and the head seems to drink the light around it. When carried, its shadow arrives a fraction of a second before the object itself, so that the floor darkens before the Maul reaches that space. The grip is black and ridged with an inset ring near the collar, and the haft is worn smooth where the previous bearer's hands rested. It has no current authorized bearer, and the dust in the workshop is never completely cleared from its face. Archive staff who handle it wear gloves, because the metal carries the temperature of whatever judgment it last witnessed.
+The Gravitational Singularity-Hammer is a physics-distorting apparatus whose striking head is a dense, spherical core of collapsed matte-black Han-steel that devours surrounding illumination. The sphere is held in suspension between three counter-rotating gyroscopic rings etched with shallow impressions of an eye, a scale, and a folded wing. When carried, its shadow arrives a fraction of a second before the weapon itself, darkening the floor ahead. Ambient dust, papers, and loose debris continuously drift toward the suspended sphere. When brought down upon the earth or a structural obstruction, it causes local space to warp violently inward, dragging all nearby objects and bodies toward the strike point before discharging a thunderous 360° radial shockwave of pure Weight mass.
 
 ---
 
@@ -35,21 +36,21 @@ The Absolute Maul is a black two-hand maul of sealed Han steel, its head broad a
 
 | Field | Record |
 |---|---|
-| **Damage** | Weight 10–15 |
-| **Speed** | 3 — Fast |
-| **Range** | 3 — Medium |
-| **Attack Pattern** | Pierce |
-| **Target Coverage** | One line through up to 3 targets judged as part of the same obstruction |
-| **Falloff Rule** | Primary 100% → first pierced 70% → second pierced 50% |
-| **Recovery** | 8 seconds after Verdict impact |
+| **Damage** | Weight 18–28 |
+| **Speed** | 1 — Very Slow |
+| **Range** | 5 — Room |
+| **Attack Pattern** | Gravitational Inversion / Collapsing Shockwave |
+| **Target Coverage** | Room-wide area vacuum and shockwave; drags and crushes all targets |
+| **Falloff Rule** | Epicenter 100% → perimeter 70%; completely bypasses mundane armor |
+| **Recovery** | 4.5 seconds between singularity detonations |
 
 ### Signature Ability — No Appeal
 
-**Trigger:** The bearer designates a single obstruction under a Convergence emergency order.
+**Trigger:** The bearer designates a target area or barrier under a Convergence emergency order.
 
-**Effect:** The Maul compresses Weight into a direct line and breaks the obstruction, whether it is barrier, hostile construct, or unstable Han mass.
+**Effect:** The Singularity-Hammer inverts local gravitational geometry, sucking all entities within the chamber into the epicenter and crushing them under infinite density before repelling them with a devastating shockwave.
 
-**Limit:** It cannot make moral distinctions. A poorly defined order can treat an ally, structure, and hostile object as equivalent obstruction.
+**Limit:** It cannot make moral distinctions. A poorly defined order treats allies, infrastructure, and hostile entities as identical obstruction.
 
 ### Wielder Cost
 

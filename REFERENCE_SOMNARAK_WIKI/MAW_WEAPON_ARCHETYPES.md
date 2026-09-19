@@ -55,11 +55,11 @@ Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items a
 | Item | Archetype | Band |
 |---|---|---|
 | MAW-W-001 The Lament's Requiem | MELEE (Resonating Greatsword) | Medium |
-| MAW-W-002 The Mourning Maul | Box Maul | Room |
+| MAW-W-002 The Mourning Monument | UNIQUE (Reliquary Sledge) | Room |
 | MAW-W-005 The Embrace Talon | PRIMAL (Rending Bone-Claw) | Close |
 | MAW-W-007 The Hope Lens | Survey Staff | Long |
-| MAW-W-009 The Forgotten Lens | Shuttle Dagger | Short |
-| MAW-W-010 The Absolute Maul | War Sledge | Room |
+| MAW-W-009 The Weaver's Shuttle-Awl | UNIQUE (Piercing Shuttle) | Short |
+| MAW-W-010 The Gravitational Singularity-Hammer | FANTASY (Singularity Maul) | Room |
 | MAW-W-011 The Listening Requiem | Katana | Long |
 | MAW-W-014 The Debt Prism | FANTASY (Astral Prism) | Instant |
 | MAW-W-015 The Balance Projector | RANGE (Balance Crossbow) | Long |
@@ -88,14 +88,14 @@ Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items a
 | MAW-W-081 The Hollow Sceptre | MAGIC (Choral Staff) | Long |
 | MAW-W-088 The Sorrow Requiem | Cruciform Longsword | Medium |
 | MAW-W-091 The Crown of Requiem | Crown Coil Blade | Room |
-| MAW-W-092 The Burning Fang | Falchion | Medium |
+| MAW-W-092 The Pyre Grimoire & Ash Lance | MAGIC (Grimoire & Flame Lance) | Long |
 | MAW-W-099 The Dancing Fang | Notched Dao | Short |
 | MAW-W-100 The Unsaid Requiem | War Fan (bladed, half-open) | Short (source: range 2 — Short) |
 | MAW-W-101 The Ember Requiem | Sheathed Vigil Blade (still-life w/ chair) | Short (source: range 2 — Short) |
 | MAW-W-102 The Dancing Fang | Rope Dart (cord + fang dart) | Medium (source: range 3 — Medium) |
 | MAW-W-103 The Cold Lens | Frost Lens (freezing pierce) | Medium (source: range 3 — Medium) |
 | MAW-W-105 The Giant's Maul | Set-Down Maul (grounded, open cuff) | Medium (source: range 3 — Medium) |
-| MAW-W-106 I Alone Crossed Requiem | Bridge Blade (laid flat over a gap) | Medium (source: range 3 — Medium) |
+| MAW-W-106 The Survivor's Span-Cleaver | MELEE (Zweihander Span-Blade) | Medium |
 | MAW-W-108 The Trace Fang | Needle Awl + Red Thread | Short (source: range 2 — Short) |
 | MAW-W-115 The Memory Lens | Mirror Lens (reflected stranger) | Medium (source: range 3 — Medium) |
 | MAW-W-119 The Shadow Lens | Well Lens (room-swallow scene) | Short (source: range 2 — Short) |
@@ -105,7 +105,7 @@ Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items a
 | MAW-W-127 The Broken Maul | Fracture-Face Maul (mirrored cracks, converging impact paths) | Medium (source: range 3 — Medium) |
 | MAW-W-130 The Saint's Maul | Reliquary Stone Maul (load split to three support points) | Medium (source: range 3 — Medium) |
 | MAW-W-135 The Warm Requiem | Tear-Light Blade (dream-line to waking anchor) | Short (source: range 2 — Short) |
-| MAW-W-140 The Willow Requiem | Weeping Willow Blade (drooping arc, falling leaf-light) | Medium (source: range 3 — Medium) |
+| MAW-W-140 The Weeping Willow War-Scythe | MELEE (War-Scythe) | Medium |
 | MAW-W-145 The Thorn Fang | Thorn Hook + Perimeter (unfurled boundary ring, marked entrance) | Medium (source: range 3 — Medium) |
 | MAW-W-150 The Laughter Requiem | Chime Blade (laugh-to-tear chime, joy/loss pair) | Short (source: range 2 — Short) |
 | MAW-W-151 The Border Root | Root Club + Boundary Fence (living strand, open passage arch) | Medium (source: range 3 — Medium) |

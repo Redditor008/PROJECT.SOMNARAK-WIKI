@@ -188,26 +188,26 @@ The escalation pattern is specific to Pyre of Truths: it is not a generic breach
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Burning Fang
+### M.A.W. Weapon — The Pyre Grimoire & Ash Lance
 
-**Type:** Weapon | **Grade:** δ | **Element:** Grudge
+**Category:** MAGIC (Grimoire-Catalyst / Flame Lance) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that glows along its edge when readied.
+**Appearance:** An imposing, iron-bound ritual grimoire chained to an elongated spear-lance forged from smoldering slag and black cinder-iron. The tome's scorched vellum pages flutter violently, auto-inscribing suppressed testimonies in searing crimson embers. When pointed toward hostile targets, the pages ignite into swirling incandescent ash that channels down the lance's fluted barrel, unleashing soaring piercing javelins of white-hot Grudge fire across the corridor that immolate physical barriers while leaving mundane paper untouched.
 
-**Damage:** Grudge 10–15
-**Speed:** 3 (Fast)
-**Range:** 3 (Medium)
+**Damage:** Grudge 14–22
+**Speed:** 3 (Normal)
+**Range:** 4 (Long)
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Attack Pattern:** Pierce
-**Target Coverage:** Line; up to 3 targets total
+**Attack Pattern:** Channeled Ash Burst / Consuming Conflagration
+**Target Coverage:** Piercing linear flame corridor striking up to 3 targets in succession
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** Direct Grudge trauma to Body (physical form, structural integrity); inflicts lingering incinerating heat ticks and strips physical concealment.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Pyre of Truths's grudge signature in the strike.
+**Ability:** Deals heavy Grudge damage, attacking the Body (physical form, structural integrity). Witness's Flame channels the Pyre's incendiary sorrow to burn through active attempts to seize, destroy, or silence verified records.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old scars and burn marks ache; prolonged use leaves severe heat blisters and crimson bruising across the bearer's arms.
 
 ### M.A.W. Suit — The Burning Plate
 

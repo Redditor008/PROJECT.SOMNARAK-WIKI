@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Forgotten Lens
+# M.A.W. WEAPON — The Weaver's Shuttle-Awl
 
-> *“The Lens cuts the thread, but it cannot tell you whether the memory on the other side should have been kept.”*
+> *“The Shuttle cuts the thread, but it cannot tell you whether the memory on the other side should have been kept.”*
 
 ---
 
@@ -18,7 +18,8 @@
 
 | Field | Record |
 |---|---|
-| **Type** | Weapon — lens-edged disc |
+| **Type** | Weapon — memory shuttle awl |
+| **Category** | UNIQUE (Awl & Memory Spool / Piercing Shuttle) |
 | **Grade** | γ — Major |
 | **Element** | Void — Pale White |
 | **Maximum Amount** | 3 — Standard |
@@ -27,7 +28,7 @@
 
 ### Appearance
 
-The Forgotten Lens is a pale Han-glass disc that folds into a thin cutting plane when drawn, the two halves of the disc sliding until almost no thickness remains. In its resting shape the surface is smooth and slightly cloudy; in its drawn shape it becomes harder than Han-iron and almost invisible at the edge. Faces sometimes appear on the surface, but never the face the bearer expects to see. The images do not hold; they drift and smooth away as the lens cools. The grip is a short ring of pale glass mounted behind the disc, meant to be held between thumb and forefinger rather than gripped fully, and a thin tether runs from the ring to the bearer's wrist. When the lens cuts a memory thread, its surface clears completely for a moment and then fills with one small nameless memory that belongs to the wielder, not to the target.
+The Weaver's Shuttle-Awl is a heavy industrial weaving shuttle forged from cold-iron, fitted with an elongated diamond piercing awl at its forward tip. Within the shuttle’s hollow carriage lies a silver spindle wound with gossamer-thin pale memory thread. Held by a rear loop between the forefinger and thumb, the shuttle is thrust forward in rapid, fluid motions. When it penetrates an entity, it leaves no physical incision; instead, the diamond awl punctures the target's emotional tapestry, unraveling recorded memories and psychological anchors. The pale thread trailing from the shuttle briefly flashes with the exact hue of the severed emotion before turning ash-grey and vanishing.
 
 ---
 
@@ -35,13 +36,13 @@ The Forgotten Lens is a pale Han-glass disc that folds into a thin cutting plane
 
 | Field | Record |
 |---|---|
-| **Damage** | Void 7–12 |
-| **Speed** | 3 — Fast |
-| **Range** | 3 — Medium |
-| **Attack Pattern** | Pierce |
-| **Target Coverage** | Up to 3 targets linked by one shared illusion, memory, or command chain |
-| **Falloff Rule** | Primary 100% → first pierced 70% → second pierced 50% |
-| **Recovery** | 6 seconds after thread severance |
+| **Damage** | Void 8–14 |
+| **Speed** | 4 — Fast |
+| **Range** | 2 — Short |
+| **Attack Pattern** | Precision Thrust / Thread Sever |
+| **Target Coverage** | One designated target at short reach |
+| **Falloff Rule** | 100% damage to selected target; pins target cognitive reaction |
+| **Recovery** | 1.0 second between rapid thrusts |
 
 ### Signature Ability — Unweave
 

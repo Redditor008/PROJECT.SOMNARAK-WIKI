@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Willow Requiem
+# M.A.W. WEAPON — The Weeping Willow War-Scythe
 
-> *“The blade does not make the goodbye less real. It lets the grief pass through without becoming a wound that needs an enemy.”*
+> *“The scythe does not make the goodbye less real. It lets the grief pass through without becoming a wound that needs an enemy.”*
 
 ---
 
@@ -16,14 +16,15 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Willow Requiem |
+| Official name | The Weeping Willow War-Scythe |
 | Set | Gentle Endings |
 | Type / grade / element | Weapon / γ — Major / Lament — Deep Blue |
+| Category | MELEE (War-Scythe / Flexible Branch-Blade) |
 | Status | Active; farewell-witness issue |
 | Maximum amount | 3 — Standard |
 | Current bearer | Agent Kkotlom Lee |
-| Resting form | A slender blue blade with a long tear-leaf line down its center; a film of Han gathers but never drips. |
-| Active form | The blade sheds pale leaf-light along a chosen line, each mote falling slowly before vanishing. |
+| Resting form | A long-hafted willow scythe with weeping blue crystal tendrils draped along the crescent. |
+| Active form | Wide reaping arcs release a falling veil of blue dew and soundless farewells. |
 | Recognition rule | It hums only after the bearer names what ended and what was good about it. |
 
 ## EXTRACTION & BINDING
@@ -33,7 +34,7 @@
 | Current-registry extraction | Year 4,238, Echo Gardens; a naturally fallen tear-leaf shattered after a worker acknowledged an ending and left it uncollected |
 | Extraction authority | Zyrak, with Kkotlom Lee maintaining the farewell witness record |
 | Entity state | Calm; no branch, root, or living leaf was harvested |
-| Result | Three Requiems formed from blue leaf echoes |
+| Result | Three War-Scythes formed from blue leaf echoes |
 
 **Binding requirement:** The bearer identifies a farewell witness who can ensure the item is not used to manufacture a grievance.
 
@@ -41,15 +42,15 @@
 
 ## Appearance
 
-The Willow Requiem is a slender deep-blue blade of Han crystal with a long tear-leaf line running down the centre, and a thin film of Han that gathers along the line but never drips. The blade is smooth and slightly curved, with a pale leaf-shaped guard and a wrapped grip that stays cool. In active use it sheds pale leaf-light along a chosen line, each mote falling slowly before vanishing, and it only hums after the bearer names what ended and what was good about it. A full Pierce line contains a farewell-driven Lament wave long enough for people to leave safely or complete a ritual, letting a closure happen without turning into a second loss. The bearer feels the Willow's unwept grief after use and may cry. It rests between the pages of a two-part closeout: what ended and what continues. A bearer who demands a culprit for a blameless ending finds the leaf line turn black and the strike return as Lament pressure through their own hands.
+The Weeping Willow War-Scythe is a sweeping polearm scythe whose long shaft is grown from petrified willow heartwood wrapped in pale-blue prayer silk. The crescent head curves in a graceful willow-leaf arc forged of deep-blue Han-crystal, draped with delicate tendrils of flexible crystal foliage that weep cold, luminous blue tears when swung. As it sweeps through the air, the weapon leaves a falling curtain of weeping dew and soundless farewells, reaping through hostile emotional resolve across Medium reach.
 
 ## CORE STATISTICS
 
 | Field | Record |
 |---|---|
-| Damage | Lament 7–12 direct |
-| Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Damage | Lament 9–15 direct |
+| Speed / range | 3 — Normal / 3 — Medium |
+| Pattern / coverage | Reaping Arc / Cascading Sigh (up to 3 targets in frontal arc) |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 40 Sorrow Echoes to register and bind |
 | Operational cost | The bearer feels the Willow’s unwept grief and may cry after use. |

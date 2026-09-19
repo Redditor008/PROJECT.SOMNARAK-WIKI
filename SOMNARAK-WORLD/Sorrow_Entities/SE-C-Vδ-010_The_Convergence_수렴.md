@@ -176,21 +176,26 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Absolute Maul
+### M.A.W. Weapon — The Gravitational Singularity-Hammer
 
-**Type:** Weapon | **Grade:** δ | **Element:** Weight
+**Category:** FANTASY (Singularity Maul / Orbiting Core) | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that flickers with inner light.
+**Appearance:** A terrifying, physics-defying apparatus composed of a dense, spherical core of collapsed matte-black Han-steel that pulls surrounding light into its event horizon. The sphere floats freely between three counter-rotating gyroscopic rings of unpolished lead and Han-iron mounted atop a shock-damped haft. When hoisted, loose dust and debris in the room drift inexorably toward the core. When slammed down, it triggers a localized gravitational collapse: space distorts inward, sucking all surrounding hostiles toward the epicenter before detonating in a catastrophic radial shockwave of pure Weight pressure.
 
-**Damage:** Weight 10-15
-**Speed:** 3 (Fast)
-**Range:** 3 (Medium)
+**Damage:** Weight 18–28
+**Speed:** 1 (Very Slow)
+**Range:** 5 (Room)
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Convergence's weight signature in the strike.
+**Attack Pattern:** Gravitational Inversion / Collapsing Shockwave
+**Target Coverage:** Room-wide vacuum and shockwave; drags all targets in the chamber toward the strike point before detonating
+**Falloff Rule:** Epicenter 100% → perimeter 70%; completely obliterates physical barriers and energy shielding.
+**Damage Application:** Direct Weight trauma to Han (sorrow reserves, karmic debt); collapses posture and pins entities to the ground.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Ability:** Deals extreme Weight damage, attacking the Han (sorrow reserves, karmic debt). No Appeal compresses space into a single point of absolute judgment, breaking structures and constructs without regard for physical density.
+
+**Cost:** The wielder feels progressively heavier; after each discharge, the bearer experiences every nearby person’s self-accusation as their own, causing excruciating mental and spinal strain.
 
 ### M.A.W. Suit — The Absolute Mantle
 

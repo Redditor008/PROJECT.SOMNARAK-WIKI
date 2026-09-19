@@ -176,21 +176,26 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Forgotten Lens
+### M.A.W. Weapon — The Weaver's Shuttle-Awl
 
-**Type:** Weapon | **Grade:** γ | **Element:** Void
+**Category:** UNIQUE (Awl & Memory Spool / Piercing Shuttle) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that hums faintly when gripped.
+**Appearance:** A heavy industrial weaving shuttle forged from cold-iron, terminating in a needle-sharp diamond piercing awl. The hollow core of the shuttle holds an internal spindle wound with gossamer-thin, pale white memory thread that pays out soundlessly as the weapon is thrust. The awl passes through physical barriers without leaving bleeding wounds; instead, it stitches directly into the target's psychic tapestry, severing remembered loyalties, combat muscle memory, and emotional anchors with surgical speed.
 
-**Damage:** Void 7-12
-**Speed:** 3 (Fast)
-**Range:** 3 (Medium)
+**Damage:** Void 8–14
+**Speed:** 4 (Fast)
+**Range:** 2 (Short)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Memory Weaver's void signature in the strike.
+**Attack Pattern:** Precision Thrust / Thread Sever
+**Target Coverage:** 1 designated target at short reach
+**Falloff Rule:** 100% damage to selected target; pins target's cognitive response for 2 seconds.
+**Damage Application:** Direct Void trauma to Soul (identity, memory, sense of self); dismantles target combat adaptation and emotional buffs.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Memory Weaver's thread-cutting technique to unravel the victim's immediate recollections.
+
+**Cost:** The wielder loses small, nameless memories with each use; excessive stitching causes personal childhood memories to blur.
 
 ### M.A.W. Suit — The Forgotten Veil
 

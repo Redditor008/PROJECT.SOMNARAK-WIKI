@@ -180,21 +180,26 @@ The escalation pattern is specific to Weeping Willow: it is not a generic breach
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Willow Requiem
+### M.A.W. Weapon — The Weeping Willow War-Scythe
 
-**Type:** Weapon | **Grade:** γ | **Element:** Lament
+**Category:** MELEE (War-Scythe / Flexible Branch-Blade) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+**Appearance:** A sweeping polearm scythe whose long shaft is grown from petrified willow heartwood wrapped in pale-blue prayer silk. The crescent head curves in a graceful willow-leaf arc forged of deep-blue Han-crystal, draped with delicate tendrils of flexible crystal foliage that weep cold, luminous blue tears when swung. As it sweeps through the air, the weapon leaves a falling curtain of weeping dew and soundless farewells, reaping through hostile emotional resolve across Medium reach.
 
-**Damage:** Lament 7-12
-**Speed:** 3 (Fast)
+**Damage:** Lament 9–15
+**Speed:** 3 (Normal)
 **Range:** 3 (Medium)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Weeping Willow's lament signature in the strike.
+**Attack Pattern:** Reaping Arc / Cascading Sigh
+**Target Coverage:** Wide sweeping cleave engaging up to 3 targets in the frontal semi-circle
+**Falloff Rule:** Primary 100% → first swept target 70% → second swept target 50%.
+**Damage Application:** Direct Lament trauma to Mind (emotional stability, willpower); inflicts lingering weeping mist that slows enemy action.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Weeping Willow's sorrow to dissolve active aggression into quiet farewells.
+
+**Cost:** The wielder feels the entity's unwept farewells; prolonged use causes involuntary weeping.
 
 ### M.A.W. Suit — The Willow Cloak
 

@@ -168,26 +168,26 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — I Alone Crossed Requiem
+### M.A.W. Weapon — The Survivor's Span-Cleaver
 
-**Type:** Weapon | **Grade:** δ | **Element:** Lament
+**Category:** MELEE (Zweihander / Segmented Span-Blade) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that hums faintly when gripped.
+**Appearance:** A massive, jagged two-handed greatsword forged from a sheared suspension girder of deep-blue Han-crystal and rusted structural steel. Three severed high-tensile bridge cables trail from the ricasso, whipping with sorrowful resonance as the blade moves. The cutting edge is fractured along its midpoint, resembling a collapsed roadway span that bridges together only when swinging with lethal momentum. When swung, it produces the hollow screech of buckling suspension iron, cleaving across the frontal quadrant in a wide panoramic arc.
 
-**Damage:** Lament 10–15
-**Speed:** 3 (Fast)
+**Damage:** Lament 14–22
+**Speed:** 2 (Slow)
 **Range:** 3 (Medium)
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Attack Pattern:** Pierce
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Attack Pattern:** Sweeping Cleave / Structural Sever
+**Target Coverage:** Wide arc engaging up to 3 adjacent targets in the frontal 180° cone
+**Falloff Rule:** Primary 100% → first adjacent target 70% → second adjacent target 50%.
+**Damage Application:** Direct Lament trauma to Mind (emotional stability, willpower); induces intense psychological vertigo and breaks stance.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels I Alone Crossed's lament signature in the strike.
+**Ability:** Deals heavy Lament damage, attacking the Mind (emotional stability, willpower). Channels the survivor's agony of the collapsed span, cleaving through isolation panic and redirecting the trauma of collapse outward.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder feels the entity's unwept survivor grief; prolonged use causes severe vertigo and involuntary weeping whenever crossing thresholds alone.
 
 ### M.A.W. Suit — I Alone Crossed Shroud
 

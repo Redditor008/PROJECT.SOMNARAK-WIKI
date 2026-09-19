@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Burning Fang
+# M.A.W. WEAPON — The Pyre Grimoire & Ash Lance
 
 > *“It does not burn a record. It burns the hand trying to erase one.”*
 
@@ -16,14 +16,15 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Burning Fang |
+| Official name | The Pyre Grimoire & Ash Lance |
 | Set | Cindered Testament |
 | Type / grade / element | Weapon / δ — Critical / Grudge — Crimson |
+| Category | MAGIC (Grimoire-Catalyst / Flame Lance) |
 | Status | Active; archive-purpose authorization required |
 | Maximum amount | 2 — Limited |
 | Current bearer | Sentinel Harin |
-| Resting form | A curved crimson Han-iron blade with a hooked point and a dark page-shaped mark at the guard. |
-| Active form | Lines of unread text burn along the edge; the flame illuminates a strike without spreading to ordinary paper. |
+| Resting form | An iron-bound grimoire tethered by slag-chain to a black cinder-iron spear-lance. |
+| Active form | Pages combust into streaming crimson embers channeled through the lance bore into white-hot javelins. |
 | Recognition rule | The mark at the guard brightens only when the bearer can state what record or person they are protecting. |
 
 ## EXTRACTION & BINDING
@@ -33,30 +34,30 @@
 | Current-registry extraction | Year 4,238, Zone B; a blank Library page ignited itself after a preservation purpose was witnessed |
 | Extraction authority | Zyrak after Archive Lead Marjuk’s review |
 | Entity state | Flame parted around the selected shelf; no book was removed or damaged |
-| Result | Two stable Fangs; both retain a faint smell of char and old paper |
+| Result | Two stable weapons; both retain a faint smell of char and old paper |
 
 **Binding requirement:** The bearer identifies a preservation purpose and the person who will review the action afterward.
 
-**Rejection rule:** A bearer who draws the Fang to suppress testimony finds the page-mark turn black. The next strike lands as Grudge backlash on the bearer’s own old injury sites.
+**Rejection rule:** A bearer who draws the weapon to suppress testimony finds the page-mark turn black. The next strike lands as Grudge backlash on the bearer’s own old injury sites.
 
 ## CORE STATISTICS
 
 | Field | Record |
 |---|---|
-| Damage | Grudge 10–15 direct |
-| Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Damage | Grudge 14–22 direct |
+| Speed / range | 3 — Normal / 4 — Long |
+| Pattern / coverage | Channeled Ash Burst / Consuming Conflagration (up to 3 targets) |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 50 Sorrow Echoes to register and bind |
-| Operational cost | Old wounds ache; long use produces crimson bruising. |
+| Operational cost | Old wounds ache; long use produces crimson bruising and heat blisters. |
 | Binding cost | The bearer carries the responsibility to distinguish defense of truth from a desire to punish. |
-| Recovery | The blade is cooled only after an action record is filed. |
+| Recovery | The lance is cooled only after an action record is filed. |
 
 ## COMBAT FILE
 
 ### Appearance
 
-The Burning Fang is a slim crimson blade of Han iron with a narrow spine and a broad, slightly curved edge, its surface unpolished and flecked with dark red. A single page-mark sits near the guard and turns from pale grey to black when the bearer is about to suppress testimony rather than preserve it. The grip is wrapped in dark cord over a ridged core, and the pommel is a small closed book form. The Fang launches a crimson Pierce line that strikes body and structure with Grudge output, exposing the suppressive act driving the target's aggression. Where it lands, the red line glows along the spine and then fades. A bearer who draws it to erase a record finds the page-mark turn black and the next strike landing as Grudge backlash on their own old injuries. The fang is kept with its page-mark grey, and a preservation observer witnesses the recording of the task before the blade is drawn again.
+The Pyre Grimoire & Ash Lance consists of a heavy, blackened iron-bound grimoire linked by segmented slag-chain to a long, fluted lance of cinder-iron. Scorched vellum leaves flutter within the binding, auto-inscribing suppressed accounts in searing crimson embers. When sighted downfield, the burning script combusts into incandescent ash that funnels through the lance barrel, firing blazing javelins of white-hot Grudge across the corridor. The flames immolate physical barriers and hostile constructs while refusing to ignite mundane paper records.
 
 ### Basic attack— *Margin Cut*
 

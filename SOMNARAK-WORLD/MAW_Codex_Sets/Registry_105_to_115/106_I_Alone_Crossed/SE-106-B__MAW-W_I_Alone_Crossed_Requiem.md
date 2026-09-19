@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — I Alone Crossed Requiem
+# M.A.W. WEAPON — The Survivor's Span-Cleaver
 
 > *“The line does not erase a failure. It cuts the lie that one survivor’s life is evidence against them.”*
 
@@ -16,14 +16,15 @@
 
 | Field | Record |
 |---|---|
-| Official name | I Alone Crossed Requiem |
+| Official name | The Survivor's Span-Cleaver |
 | Set | Far Shore |
 | Type / grade / element | Weapon / δ — Critical / Lament — Deep Blue |
+| Category | MELEE (Zweihander / Segmented Span-Blade) |
 | Status | Restricted border issue; shared-debrief requirement |
 | Maximum amount | 2 — Limited |
 | Current bearer | Sentinel Harin |
-| Resting form | A deep-blue singing blade with a narrow break in the fuller that resembles a bridge span missing one support. |
-| Active form | The break fills with cold blue light and extends a line toward the far side of a chosen route. |
+| Resting form | A deep-blue crystal girder-blade with trailing suspension cables and a fractured midsection. |
+| Active form | The fractured span locks into alignment under momentum, cutting across the frontal quadrant with the screech of buckling iron. |
 | Recognition rule | The blade remains silent until the bearer names at least one factor in a failure that was not theirs alone to control. |
 
 ## EXTRACTION & BINDING
@@ -43,20 +44,20 @@
 
 | Field | Record |
 |---|---|
-| Damage | Lament 10–15 direct |
-| Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Damage | Lament 14–22 direct |
+| Speed / range | 2 — Slow / 3 — Medium |
+| Pattern / coverage | Sweeping Cleave / Structural Sever (up to 3 targets in frontal arc) |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 50 Sorrow Echoes to register and bind |
-| Operational cost | The bearer feels the entity’s unwept grief and may weep involuntarily. |
+| Operational cost | Prolonged use brings severe vertigo and unwept survivor grief. |
 | Binding cost | Every use requires a shared debrief before the next issue. |
-| Recovery | The break in the fuller remains dark until the debrief is logged. |
+| Recovery | One full breath and balance check between completed swings |
 
 ## COMBAT FILE
 
 ### Appearance
 
-The I Alone Crossed Requiem is a long blade of pale-blue Han crystal with a broken fuller running down the centre of the flat, the break widening and dimming as the weapon carries an account that still blames one person. The blade is smooth and cold, and its edge narrows to a short point. The grip is wrapped in dark blue cord over a ridged core, and the guard is a crossed ring. The weapon sends a blue Pierce line through a survivor-guilt or abandonment surge, dealing direct Lament damage without declaring that loss has been repaired. A debrief partner and the bearer draw a route with at least two safe exits and mark one factor no person controlled; the requiem rests across the completed map, never across a single name. The fuller dims only after that account is shared. The bearer and debrief partner draw a route with at least two safe exits and mark one factor no person controlled, and the requiem rests across the completed map.
+The Survivor's Span-Cleaver is a massive, two-handed slab greatsword forged from a sheared suspension girder of deep-blue Han-crystal and rusted bridge steel. Three severed high-tensile bridge cables trail from the ricasso, whipping with sorrowful resonance as the blade moves. The cutting edge is fractured along its midpoint, resembling a collapsed roadway span that bridges together only when swinging with lethal momentum. When swung, it produces the hollow screech of buckling suspension iron, cleaving across the frontal quadrant in a wide panoramic arc.
 
 ### Basic attack— *Far-Side Line*
 
