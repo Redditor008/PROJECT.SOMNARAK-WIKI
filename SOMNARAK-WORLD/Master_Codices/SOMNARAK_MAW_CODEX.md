@@ -56,7 +56,7 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 16 | Weapon | The Silenced Requiem | [The Hollow Choir](../Sorrow_Entities/SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | SE-C-IIIγ-021 | Weapon | γ | Lament |
 | 17 | Suit | The Silenced Shroud | [The Hollow Choir](../Sorrow_Entities/SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | SE-C-IIIγ-021 | Armor (Suit) | γ | Lament |
 | 18 | Gift | The Silenced Lyre | [The Hollow Choir](../Sorrow_Entities/SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | SE-C-IIIγ-021 | Accessory (Gift) | γ | Lament |
-| 19 | Weapon | The Witness Requiem | [The Observing Bird](../Sorrow_Entities/SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) | SE-C-IIIγ-031 | Weapon | γ | Lament |
+| 19 | Weapon | The Watcher's Unblinking Eye | [The Observing Bird](../Sorrow_Entities/SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) | SE-C-IIIγ-031 | Weapon (PRIMAL — Bio-Ocular Implant) | γ | Lament |
 | 20 | Suit | The Witness Shroud | [The Observing Bird](../Sorrow_Entities/SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) | SE-C-IIIγ-031 | Armor (Suit) | γ | Lament |
 | 21 | Gift | The Witness Eye | [The Observing Bird](../Sorrow_Entities/SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) | SE-C-IIIγ-031 | Accessory (Gift) | γ | Lament |
 | 22 | Weapon | The Judgment Fang | [The Weighting Bird](../Sorrow_Entities/SE-C-IIIγ-032_The_Weighting_Bird_재는_새.md) | SE-C-IIIγ-032 | Weapon | γ | Grudge |
@@ -152,7 +152,7 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 112 | Weapon | The Tear Requiem | [The Weeping Statue](../Sorrow_Entities/SE-C-IIβ-055_The_Weeping_Statue_우는_조상.md) | SE-C-IIβ-055 | Weapon | β | Lament |
 | 113 | Suit | The Tear Shroud | [The Weeping Statue](../Sorrow_Entities/SE-C-IIβ-055_The_Weeping_Statue_우는_조상.md) | SE-C-IIβ-055 | Armor (Suit) | β | Lament |
 | 114 | Gift | The Tear Earring | [The Weeping Statue](../Sorrow_Entities/SE-C-IIβ-055_The_Weeping_Statue_우는_조상.md) | SE-C-IIβ-055 | Accessory (Gift) | β | Lament |
-| 115 | Weapon | The Dancing Fang | [The Masked Dancer](../Sorrow_Entities/SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md) | SE-C-IIβ-099 | Weapon | β | Grudge |
+| 115 | Weapon | The Phantom Dancer's Tri-Daggers | [The Masked Dancer](../Sorrow_Entities/SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md) | SE-C-IIβ-099 | Weapon (FANTASY — Spectral Glove & 3 Daggers) | β | Grudge |
 | 116 | Suit | The Dancing Plate | [The Masked Dancer](../Sorrow_Entities/SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md) | SE-C-IIβ-099 | Armor (Suit) | β | Grudge |
 | 117 | Gift | The Dancing Mask | [The Masked Dancer](../Sorrow_Entities/SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md) | SE-C-IIβ-099 | Accessory (Gift) | β | Grudge |
 | 118 | Weapon | The Unsaid Requiem | [The Grave of Cherry Blossoms](../Sorrow_Entities/SE-C-IIβ-100_The_Grave_of_Cherry_Blossoms_벚꽃의_무덤.md) | SE-C-IIβ-100 | Weapon | β | Lament |
@@ -984,11 +984,12 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Observing Bird ( 지켜보는 새 ) — SE-C-IIIγ-031
 
-**Entry 19 — The Witness Requiem (Weapon)**
+**Entry 19 — The Watcher's Unblinking Eye (Weapon)**
 
-**Type:** Weapon | **Grade:** γ | **Element:** Lament
+**Category:** PRIMAL (Bio-Ocular Implement / Replaced Eye Focus) | **Grade:** γ | **Element:** Lament
+**Damage:** Lament 7–12 (continuous tick damage) | **Speed:** 3 (Normal) | **Range:** 5 (Room — Line of Sight) | **Pattern:** Channeled Gaze / Room-Wide Han Drain
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Observing Bird's lament signature in the strike.
+**Ability:** Deals continuous Lament damage across Range 5 (Room). Replaces the Agent's ocular socket upon equip; hostile entities within line of sight continuously lose Han and Mind stability over time.
 
 **Cost:** 40 Sorrow Echoes
 
@@ -2043,11 +2044,12 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Masked Dancer ( 가면 무용수 ) — SE-C-IIβ-099
 
-**Entry 115 — The Dancing Fang (Weapon)**
+**Entry 115 — The Phantom Dancer's Tri-Daggers (Weapon)**
 
-**Type:** Weapon | **Grade:** β | **Element:** Grudge
+**Category:** FANTASY (Spectral Silk Glove & 3 Telekinetic Daggers) | **Grade:** β | **Element:** Grudge
+**Damage:** Grudge 4–8 (x3 strikes) | **Speed:** 4 (Fast) | **Range:** 3 (Medium — 2–4m) | **Pattern:** Tri-Blade Flurry / Telekinetic Pierce
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Masked Dancer's grudge signature in the strike.
+**Ability:** Deals rapid multi-hit Grudge damage at Range 3. The spectral glove commands three hovering silver daggers to dart independently, piercing targets in rapid flurries.
 
 **Cost:** 25 Sorrow Echoes
 

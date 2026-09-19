@@ -173,30 +173,27 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Witness Requiem
+### M.A.W. Weapon — The Watcher's Unblinking Eye
 
-**Type:** Weapon | **Grade:** γ | **Element:** Lament
-
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
-
-**Damage:** Lament 7–12
-**Speed:** 3 (Fast)
-**Range:** 3 (Medium)
+**Category:** PRIMAL (Bio-Ocular Implement / Replaced Eye Focus)
+**Grade:** γ | **Element:** Lament
+**Damage:** Lament 7–12 (continuous tick damage)
+**Speed:** 3 (Normal)
+**Range:** 5 (Room — Line of Sight)
+**Pattern:** Channeled Gaze / Room-Wide Han Drain
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Attack Pattern:** Pierce
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Appearance:** An organic, bio-sorrow ocular implement with a calcified ivory sclera and concentric deep-blue crystalline pupils that weep fine, shimmering tears of Han. When equipped, it physically embeds into the Agent's ocular socket, replacing their natural eye. The Agent's field of vision shifts to a cold, monochromatic hue where every hidden sin, concealment, and unacknowledged grief is outlined in deep-blue fire.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Observing Bird's lament signature in the strike.
+**Ability:** *All-Seeing Drain* — Deals Lament damage across Range 5 (Room). Every hostile entity within the bearer's direct field of view continuously loses Han / Mind stability over time. While not an instant burst, the unrelenting psychological pressure wears down target defenses and inflicts steady tick damage until the target collapses.
 
 **Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
-### M.A.W. Suit — The Witness Shroud
+### M.A.W. Suit — The Feathered Shroud of Scrutiny
 
-**Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
+**Category:** Protective Attire (Weeping Feather Mantle & Eye-Tile Shroud)
+**Grade:** γ | **Element:** Lament
 
 **Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
 
@@ -212,9 +209,10 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Cost:** The wearer becomes numb to minor joys.
 
-### M.A.W. Gift — The Witness Eye
+### M.A.W. Gift — The Third Sclera
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Lament
+**Category:** Stigma (Ocular Relic Mark)
+**Grade:** γ | **Element:** Lament
 
 **Appearance:** an eye-tile of deep-blue Han-crystal, cool and faintly luminous, that grows cool near its source sorrow.
 

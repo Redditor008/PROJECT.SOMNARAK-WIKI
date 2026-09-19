@@ -67,7 +67,7 @@ Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items a
 | MAW-W-019 The Debt Maul | Chain Flail | Room |
 | MAW-W-021 The Silenced Requiem | Rapier | Long |
 | MAW-W-025 The Silence Lens | Lens Buckler | Close |
-| MAW-W-031 The Witness Requiem | Estoc | Long |
+| MAW-W-031 The Watcher's Unblinking Eye | PRIMAL (Bio-Ocular Implant) | Room |
 | MAW-W-032 The Judgment Fang | Kukri Cleaver | Short |
 | MAW-W-033 The Guardian Lens | Framed Pavise Lens | Medium |
 | MAW-W-036 The Hourglass Maul | UNIQUE (Hourglass Sledge) | Room |
@@ -89,7 +89,7 @@ Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items a
 | MAW-W-088 The Sorrow Requiem | Cruciform Longsword | Medium |
 | MAW-W-091 The Crown of Requiem | Crown Coil Blade | Room |
 | MAW-W-092 The Pyre Grimoire & Ash Lance | MAGIC (Grimoire & Flame Lance) | Long |
-| MAW-W-099 The Dancing Fang | Notched Dao | Short |
+| MAW-W-099 The Phantom Dancer's Tri-Daggers | FANTASY (Spectral Glove & 3 Knives) | Medium |
 | MAW-W-100 The Unsaid Requiem | War Fan (bladed, half-open) | Short (source: range 2 — Short) |
 | MAW-W-101 The Ember Requiem | Sheathed Vigil Blade (still-life w/ chair) | Short (source: range 2 — Short) |
 | MAW-W-102 The Dancing Fang | Rope Dart (cord + fang dart) | Medium (source: range 3 — Medium) |

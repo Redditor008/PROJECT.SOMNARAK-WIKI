@@ -1,28 +1,28 @@
-# M.A.W. SUIT — The Dancing Plate
+# M.A.W. PROTECTIVE ATTIRE — The Performer's Silk Robe & Ghostly Stole
 
-> *“The plates move best when the wearer knows they are allowed to stop moving.”*
+> *“The silks move best when the wearer knows they are allowed to stop moving.”*
 
 ---
 
-**Document ID:** `SE-099-C`  
-**Linked Entity:** `SE-099` — The Masked Dancer  
-**Item Registry Code:** `MAW-S-099-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified  
+**Document ID:** `SE-099-C`
+**Linked Entity:** `SE-099` — The Masked Dancer
+**Item Registry Code:** `MAW-S-099-01`
+**Author:** Environmental Hazard Specialist Iseulfros Kim
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Classified
 **Codex Set Completion:** `4/4`
 
 ## ITEM IDENTITY
 
 | Field | Record |
 |---|---|
-| Official name | The Dancing Plate |
+| Official name | The Performer's Silk Robe & Ghostly Stole |
 | Set | Borrowed Motion |
-| Type / grade / element | Suit / β — Moderate / Grudge — Crimson |
+| Type / grade / element | Protective Attire (Ceremonial Silk Robe & Stole) / β — Moderate / Grudge — Crimson |
 | Status | Active; scheduled rest checks required |
 | Maximum amount | 4 — Limited |
 | Current bearer | Agent Kkotlom Lee |
-| Resting form | Light crimson plates joined by flexible dark links, arranged over shoulders, ribs, and shins. |
+| Resting form | Billowing black and crimson ceremonial silk robe with elongated sleeves and a fluttering ribbon stole. |
 | Active form | Each plate shifts a fraction of a beat ahead of the wearer, catching impact in the direction of movement. |
 | Recognition rule | The breastplate bears one cool circle that turns warm only when a stop cue is registered. |
 
@@ -64,9 +64,9 @@ The Plate grants its strongest Grudge protection while the wearer moves toward a
 
 ### Triggered effect — *Rest Cue*
 
-**Activation rule:** The nominated partner says the registered phrase and touches the cool circle on the breastplate.  
-**Effect:** The moving plates settle and absorb one final incoming Grudge impact as the wearer disengages.  
-**Duration:** one attack sequence.  
+**Activation rule:** The nominated partner says the registered phrase and touches the cool circle on the breastplate.
+**Effect:** The moving plates settle and absorb one final incoming Grudge impact as the wearer disengages.
+**Duration:** one attack sequence.
 **Overload rule:** If the wearer runs past the partner, the plates stiffen at the knees and make continued movement painful rather than impossible.
 
 ## HISTORY OF USE
@@ -91,11 +91,11 @@ The Plate is the safeguard inside *Chosen Intermission*: the Fang may open a pat
 
 ---
 
-**Document ID:** `SE-099-C`  
-**Linked Entity:** `SE-099`  
-**Item Registry Code:** `MAW-S-099-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
+**Document ID:** `SE-099-C`
+**Linked Entity:** `SE-099`
+**Item Registry Code:** `MAW-S-099-01`
+**Author:** Environmental Hazard Specialist Iseulfros Kim
+**Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 
 ---

@@ -1,30 +1,30 @@
-# M.A.W. WEAPON — The Dancing Fang
+# M.A.W. WEAPON — The Phantom Dancer's Tri-Daggers
 
-> *“It follows the step you choose. If you cannot choose a final step, it will keep asking for one.”*
+> *“It follows the step you choose. If you cannot choose a final step, the three blades will keep weaving one for you.”*
 
 ---
 
-**Document ID:** `SE-099-B`  
-**Linked Entity:** `SE-099` — The Masked Dancer  
-**Item Registry Code:** `MAW-W-099-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified  
+**Document ID:** `SE-099-B`
+**Linked Entity:** `SE-099` — The Masked Dancer
+**Item Registry Code:** `MAW-W-099-01`
+**Author:** Extraction Lead Zyrak
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Classified
 **Codex Set Completion:** `4/4`
 
 ## ITEM IDENTITY
 
 | Field | Record |
 |---|---|
-| Official name | The Dancing Fang |
+| Official name | The Phantom Dancer's Tri-Daggers |
 | Set | Borrowed Motion |
-| Type / grade / element | Weapon / β — Moderate / Grudge — Crimson |
+| Type / grade / element | Weapon (FANTASY — Spectral Glove & 3 Daggers) / β — Moderate / Grudge — Crimson |
 | Status | Active; issued only with a declared endpoint and rest partner |
 | Maximum amount | 4 — Limited |
 | Current bearer | Sentinel Harin |
-| Resting form | A short crimson Han-iron fang with a heel-shaped notch at the guard. |
-| Active form | A narrow red afterimage trails the blade along the bearer’s chosen step. |
-| Recognition rule | The notch warms only after the bearer says where the movement ends. |
+| Resting form | A pale gossamer mourning silk glove with three floating silver daggers hovering in stasis around the palm. |
+| Active form | Subtle finger choreography sends all three daggers darting independently in rapid telekinetic arcs, trailing red ribbon afterimages. |
+| Recognition rule | The blades hum only after the bearer says where the movement ends. |
 
 ## EXTRACTION & BINDING
 
@@ -33,20 +33,20 @@
 | Current-registry extraction | Year 4,238, Mask Market; the Dancer paused for one full breath after a partnered movement ended by choice |
 | Extraction authority | Zyrak, with Agent Kkotlom Lee serving as movement witness |
 | Entity state | Calm; no audience pressure and no forced performance |
-| Result | Four stable Fangs from the final crimson footprint echo |
+| Result | Four stable Tri-Dagger sets from the final crimson footprint echo |
 
 **Binding requirement:** The bearer records a movement objective, a safe endpoint, and a person authorized to use the stop cue.
 
-**Rejection rule:** The Fang stays blunt for a user who cannot name an end. If forcibly swung, it redirects the strike into the bearer’s own exhausted joints as dull Grudge backlash.
+**Rejection rule:** The daggers drop inert for a user who cannot name an end. If forcibly swung, it redirects the strike into the bearer’s own exhausted joints as dull Grudge backlash.
 
 ## CORE STATISTICS
 
 | Field | Record |
 |---|---|
-| Damage | Grudge 5–9 direct |
-| Speed / range | 2 — Normal / 2 — Short |
-| Pattern / coverage | Single / one designated target |
-| Falloff | None; 100% to the selected target only |
+| Damage | Grudge 4–8 (x3 strikes) |
+| Speed / range | 4 — Fast / 3 — Medium (2–4m) |
+| Pattern / coverage | Tri-Blade Flurry / Telekinetic Pierce (up to 3 rapid consecutive thrusts) |
+| Falloff | None; 100% per connected dagger strike |
 | Echo cost | 25 Sorrow Echoes to register and bind |
 | Operational cost | Old injuries ache and repeated draws leave faint crimson bruising. |
 | Binding cost | The bearer must honor another person’s authority to end the movement. |
@@ -64,9 +64,9 @@ The Fang makes one short Grudge strike along a deliberate step. It is most effec
 
 ### Signature ability — *Clear Floor*
 
-**Trigger:** The bearer can point to a real, safe endpoint for themself or the person being freed.  
-**Effect:** The blade sends a single Crimson route through the obstruction between the target and that endpoint.  
-**Limit:** It cannot make an unsafe exit safe, create freedom where another constraint remains, or justify a pursuit after the route is clear.  
+**Trigger:** The bearer can point to a real, safe endpoint for themself or the person being freed.
+**Effect:** The blade sends a single Crimson route through the obstruction between the target and that endpoint.
+**Limit:** It cannot make an unsafe exit safe, create freedom where another constraint remains, or justify a pursuit after the route is clear.
 **Failure state:** If the bearer continues after the endpoint, the Fang becomes heavy and pulls each following swing off line.
 
 ## HISTORY OF USE
@@ -93,11 +93,11 @@ With Dancing Plate and Dancing Mask, the Fang supports *Chosen Intermission*. Th
 
 ---
 
-**Document ID:** `SE-099-B`  
-**Linked Entity:** `SE-099`  
-**Item Registry Code:** `MAW-W-099-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
+**Document ID:** `SE-099-B`
+**Linked Entity:** `SE-099`
+**Item Registry Code:** `MAW-W-099-01`
+**Author:** Extraction Lead Zyrak
+**Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 
 ---

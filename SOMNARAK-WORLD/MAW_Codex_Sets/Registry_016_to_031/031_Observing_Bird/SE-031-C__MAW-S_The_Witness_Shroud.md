@@ -1,18 +1,21 @@
-# M.A.W. SUIT — The Witness Shroud
+# M.A.W. PROTECTIVE ATTIRE — The Feathered Shroud of Scrutiny
 
 > *“The Shroud protects a witness from breaking under what was seen. It does not allow the witness to unsee it.”*
 
 ---
 
-**Document ID:** `SE-031-C`  
-**Linked Entity:** `SE-031` — The Observing Bird  
-**Item Registry Code:** `MAW-S-031-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified  
+**Document ID:** `SE-031-C`
+**Linked Entity:** `SE-031` — The Observing Bird
+**Item Registry Code:** `MAW-S-031-01`
+**Author:** Environmental Hazard Specialist Iseulfros Kim
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Classified
 **Codex Set Completion:** `4/4`
 
-## RESISTANCE RECORD
+## IDENTITY & RESISTANCE RECORD
+
+**Category:** Protective Attire (Weeping Feather Mantle & Eye-Tile Shroud)
+**Grade / Element:** γ / Lament
 
 | Element | Multiplier | Label |
 |---|---:|---|
@@ -42,11 +45,11 @@ The Shroud prevents an observed trauma from immediately collapsing the wearer’
 
 A Witness Shroud bearer observed a Convergence precursor event without turning away. The report preserved the first six seconds of the twelve-second formation window and later became the foundation of the current separation protocol.
 
-**Document ID:** `SE-031-C`  
-**Linked Entity:** `SE-031`  
-**Item Registry Code:** `MAW-S-031-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
+**Document ID:** `SE-031-C`
+**Linked Entity:** `SE-031`
+**Item Registry Code:** `MAW-S-031-01`
+**Author:** Environmental Hazard Specialist Iseulfros Kim
+**Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 
 ---

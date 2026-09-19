@@ -1,24 +1,25 @@
-# M.A.W. WEAPON — The Witness Requiem
+# M.A.W. WEAPON — The Watcher's Unblinking Eye
 
-> *“The weapon hurts because the act was seen, not because the weapon decides the act deserves punishment.”*
+> *“The eye embeds into the flesh; what it witnesses can never be unseen, and what it watches cannot preserve its Han.”*
 
 ---
 
-**Document ID:** `SE-031-B`  
-**Linked Entity:** `SE-031` — The Observing Bird  
-**Item Registry Code:** `MAW-W-031-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified  
+**Document ID:** `SE-031-B`
+**Linked Entity:** `SE-031` — The Observing Bird
+**Item Registry Code:** `MAW-W-031-01`
+**Author:** Extraction Lead Zyrak
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Classified
 **Codex Set Completion:** `4/4`
 
 ## COMBAT RECORD
 
 | Field | Record |
 |---|---|
-| Damage | Lament 7–12 |
-| Speed / Range | 3 — Fast / 3 — Medium |
-| Attack Pattern | Pierce |
+| Category | PRIMAL (Bio-Ocular Implement / Replaced Eye Focus) |
+| Damage | Lament 7–12 (continuous tick damage) |
+| Speed / Range | 3 — Normal / 5 — Room (Line of Sight) |
+| Attack Pattern | Channeled Gaze / Room-Wide Han Drain |
 | Target Coverage | Up to 3 targets linked by one observed act or concealment chain |
 | Falloff | 100% → 70% → 50% |
 | Maximum Amount | 3 — Standard |
@@ -42,11 +43,11 @@ The Witness Requiem is a long, narrow blade of pale-blue Han crystal that carrie
 
 A Witness Requiem was used to stop a covert execution order during a floor transfer. The bearer had seen the order but lacked authority. The weapon forced the commander and two aides to remember the recorded order long enough for the Archive to receive it.
 
-**Document ID:** `SE-031-B`  
-**Linked Entity:** `SE-031`  
-**Item Registry Code:** `MAW-W-031-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
+**Document ID:** `SE-031-B`
+**Linked Entity:** `SE-031`
+**Item Registry Code:** `MAW-W-031-01`
+**Author:** Extraction Lead Zyrak
+**Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 
 ---

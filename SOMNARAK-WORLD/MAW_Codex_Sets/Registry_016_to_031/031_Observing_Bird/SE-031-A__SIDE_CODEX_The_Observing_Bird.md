@@ -4,12 +4,12 @@
 
 ---
 
-**Document ID:** `SE-031-A`  
-**Related Entity ID:** `SE-031`  
-**SECC Designation:** `C-IIIγ-031 [LS]`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Document ID:** `SE-031-A`
+**Related Entity ID:** `SE-031`
+**SECC Designation:** `C-IIIγ-031 [LS]`
+**Author:** Researcher Euncris Park
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Restricted
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — SECTOR-B-01, Three Birds containment
 
@@ -56,9 +56,9 @@ The current post-Cycle Birds can harmonize. This does not remove the historical 
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Witness Requiem | γ | Lament | Piercing Lament strike that records wrongdoing | `SE-031-B__MAW-W_The_Witness_Requiem.md` |
-| **Suit** | The Witness Shroud | γ | Lament | Protects against observed grief while making the bearer visible to truth | `SE-031-C__MAW-S_The_Witness_Shroud.md` |
-| **Gift** | The Witness Eye | γ | Lament | Reveals sorrow embedded in an observed object or act | `SE-031-D__MAW-G_The_Witness_Eye.md` |
+| **Weapon** | The Watcher's Unblinking Eye | γ | Lament | Piercing Lament strike that records wrongdoing | `SE-031-B__MAW-W_The_Witness_Requiem.md` |
+| **Suit** | The Feathered Shroud of Scrutiny | γ | Lament | Protects against observed grief while making the bearer visible to truth | `SE-031-C__MAW-S_The_Witness_Shroud.md` |
+| **Gift** | The Third Sclera | γ | Lament | Reveals sorrow embedded in an observed object or act | `SE-031-D__MAW-G_The_Witness_Eye.md` |
 
 ### Set Resonance — No Blind Spot
 
@@ -94,10 +94,10 @@ Mastery requires the city to act on a witnessed injustice before the Bird has to
 
 ---
 
-**Document ID:** `SE-031-A`  
-**Related Entity:** `SE-031`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
+**Document ID:** `SE-031-A`
+**Related Entity:** `SE-031`
+**Author:** Researcher Euncris Park
+**Date:** Year 4,238 — Dawn Initiative
 **Classification:** Restricted
 
 ---

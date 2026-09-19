@@ -4,12 +4,12 @@
 
 ---
 
-**Document ID:** `SE-099-A`  
-**Related Entity ID:** `SE-099`  
-**SECC Designation:** `C-IIβ-099 [GS]`  
-**Author:** Agent Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Document ID:** `SE-099-A`
+**Related Entity ID:** `SE-099`
+**SECC Designation:** `C-IIβ-099 [GS]`
+**Author:** Agent Kkotlom Lee
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Restricted
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Mask Market partnered-movement containment
 
@@ -68,9 +68,9 @@ The first reliable marker is not the mask. It is precision without relief: a tur
 
 ### Breach response
 
-**Trigger:** An audience invites the Dancer to perform as spectacle, or Pugnahan turns motion into a demand.  
-**First warning:** the Dancer begins to mirror every observer’s hesitation as an accelerated step.  
-**Field effect:** it escapes into occupied corridors, converting denied movement into a crimson pursuit that drains Resilience.  
+**Trigger:** An audience invites the Dancer to perform as spectacle, or Pugnahan turns motion into a demand.
+**First warning:** the Dancer begins to mirror every observer’s hesitation as an accelerated step.
+**Field effect:** it escapes into occupied corridors, converting denied movement into a crimson pursuit that drains Resilience.
 **Emergency response:** clear the audience, place a trained partner in its path, acknowledge the exhaustion beneath the dance, and establish an actual rest boundary rather than trying to outpace it.
 
 ---
@@ -85,9 +85,9 @@ This set makes movement sharper, faster, and easier to maintain. Its central dan
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Dancing Fang | β | Grudge | Short-range response to physical restraint | `SE-099-B__MAW-W_The_Dancing_Fang.md` |
-| Suit | The Dancing Plate | β | Grudge | Moving defense with a mandatory rest cue | `SE-099-C__MAW-S_The_Dancing_Plate.md` |
-| Gift | The Dancing Mask | β | Grudge | Balance and reflex support at the cost of stillness | `SE-099-D__MAW-G_The_Dancing_Mask.md` |
+| Weapon | The Phantom Dancer's Tri-Daggers | β | Grudge | Short-range response to physical restraint | `SE-099-B__MAW-W_The_Dancing_Fang.md` |
+| Suit | The Performer's Silk Robe & Ghostly Stole | β | Grudge | Moving defense with a mandatory rest cue | `SE-099-C__MAW-S_The_Dancing_Plate.md` |
+| Gift | The Hollow Porcelain Shard | β | Grudge | Balance and reflex support at the cost of stillness | `SE-099-D__MAW-G_The_Dancing_Mask.md` |
 
 ---
 
@@ -165,16 +165,16 @@ This set makes movement sharper, faster, and easier to maintain. Its central dan
 
 ## PAGE 09 — CROSS-REFERENCE PAGE
 
-**Entity links:** The Hollow Choir; The Kind Healer; The Smothering Mother; the Masked Market.  
-**Containment distinction:** The Dancer’s source body is a Subject; its M.A.W. is entity-extracted and not Mask Market merchandise.  
+**Entity links:** The Hollow Choir; The Kind Healer; The Smothering Mother; the Masked Market.
+**Containment distinction:** The Dancer’s source body is a Subject; its M.A.W. is entity-extracted and not Mask Market merchandise.
 **Item links:** `SE-099-B`, `SE-099-C`, and `SE-099-D` hold the individual history and stoppage rules for Borrowed Motion.
 
 ---
 
-**Document ID:** `SE-099-A`  
-**Linked Entity:** `SE-099`  
-**Author:** Agent Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
+**Document ID:** `SE-099-A`
+**Linked Entity:** `SE-099`
+**Author:** Agent Kkotlom Lee
+**Date:** Year 4,238 — Dawn Initiative
 **Classification:** Restricted
 
 ---

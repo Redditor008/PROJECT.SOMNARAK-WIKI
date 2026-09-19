@@ -176,11 +176,18 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Dancing Fang
+### M.A.W. Weapon — The Phantom Dancer's Tri-Daggers
 
-**Type:** Weapon | **Grade:** β | **Element:** Grudge
+**Category:** FANTASY (Spectral Silk Glove & 3 Telekinetic Daggers)
+**Grade:** β | **Element:** Grudge
+**Damage:** Grudge 4–8 (x3 strikes)
+**Speed:** 4 (Fast)
+**Range:** 3 (Medium — 2–4m)
+**Pattern:** Tri-Blade Flurry / Telekinetic Pierce
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that flickers with inner light.
+**Appearance:** A pale, semi-translucent glove woven from gossamer mourning silk, adorned with faint red ribbon embroidery along the knuckles. Suspended in mid-air around the gloved hand are three floating, weightless daggers of mirror-polished silver that hum with held resentment. The bearer does not throw or physically touch the daggers—fluid finger twitches and dance-like hand choreography launch all three blades darting through the air in rapid succession, stitching through enemy vulnerabilities before returning to orbit around the palm.
+
+**Ability:** *Choreographed Flurry* — Deals multi-hit Grudge damage at Range 3. The three floating daggers strike three times in rapid succession, applying bleeding lacerations and disrupting enemy casting or focus.
 
 **Damage:** Grudge 5-9
 **Speed:** 2 (Normal)
@@ -192,9 +199,10 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
 
-### M.A.W. Suit — The Dancing Plate
+### M.A.W. Suit — The Performer's Silk Robe & Ghostly Stole
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Grudge
+**Category:** Protective Attire (Ceremonial Silk Robe & Flowing Ribbon Stole)
+**Grade:** β | **Element:** Grudge
 
 **Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that shifts and breathes with the wearer.
 
@@ -210,9 +218,10 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Cost:** The wearer's reflexes dull, as if armored by resentment.
 
-### M.A.W. Gift — The Dancing Mask
+### M.A.W. Gift — The Hollow Porcelain Shard
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Grudge
+**Category:** Stigma (Facial Mask Fragment)
+**Grade:** β | **Element:** Grudge
 
 **Appearance:** a mask-charm of crimson Han-iron, dark and faintly warm, warm to the touch.
 

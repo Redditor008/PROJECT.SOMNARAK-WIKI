@@ -1,28 +1,28 @@
-# M.A.W. GIFT — The Dancing Mask
+# M.A.W. GIFT — The Hollow Porcelain Shard
 
-> *“The charm makes every uneven floor feel like music. It does not know when the music is over.”*
+> *“The mask fragment makes every uneven floor feel like music. It does not know when the music is over.”*
 
 ---
 
-**Document ID:** `SE-099-D`  
-**Linked Entity:** `SE-099` — The Masked Dancer  
-**Item Registry Code:** `MAW-G-099-01`  
-**Author:** Agent Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified  
+**Document ID:** `SE-099-D`
+**Linked Entity:** `SE-099` — The Masked Dancer
+**Item Registry Code:** `MAW-G-099-01`
+**Author:** Agent Kkotlom Lee
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Classified
 **Codex Set Completion:** `4/4`
 
 ## ITEM IDENTITY
 
 | Field | Record |
 |---|---|
-| Official name | The Dancing Mask |
+| Official name | The Hollow Porcelain Shard |
 | Set | Borrowed Motion |
-| Type / grade / element | Gift, mask-charm / β — Moderate / Grudge — Crimson |
-| Slot | Tail |
+| Type / grade / element | Stigma, facial mask fragment / β — Moderate / Grudge — Crimson |
+| Slot | Head / Face |
 | Status | Bearer-bound; not approved for unsupervised patrols |
 | Known bearer | Agent Nari Kwon |
-| Resting form | A thumb-sized crimson smiling mask with closed eyes and a dark thread loop. |
+| Resting form | A delicate curved fragment of a smiling white porcelain theatrical mask adhering seamlessly to the cheek. |
 | Active form | The mask swings at the tail slot and silently marks a steady rhythm in the bearer’s balance. |
 | Recognition rule | Its smile fades whenever the bearer stands still by choice. |
 
@@ -61,9 +61,9 @@ The Mask improves balance, agility, and evasive reflexes. Its benefit is physica
 
 ### Active effect — *Borrowed Rhythm*
 
-**Trigger:** The bearer begins a declared movement task while the partner is in hearing range.  
-**Effect:** The charm sets a stable rhythm through uneven ground, crowd pressure, or a short evasive sequence.  
-**Limit:** It cannot be used to dance through another person’s boundary or to continue after the movement task is complete.  
+**Trigger:** The bearer begins a declared movement task while the partner is in hearing range.
+**Effect:** The charm sets a stable rhythm through uneven ground, crowd pressure, or a short evasive sequence.
+**Limit:** It cannot be used to dance through another person’s boundary or to continue after the movement task is complete.
 **Hidden condition:** If the bearer has denied fatigue, the rhythm speeds up as if the Mask is dancing for someone else.
 
 ## HISTORY OF USE
@@ -88,11 +88,11 @@ The Mask is the temptation inside *Chosen Intermission*. It makes continuation f
 
 ---
 
-**Document ID:** `SE-099-D`  
-**Linked Entity:** `SE-099`  
-**Item Registry Code:** `MAW-G-099-01`  
-**Author:** Agent Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
+**Document ID:** `SE-099-D`
+**Linked Entity:** `SE-099`
+**Item Registry Code:** `MAW-G-099-01`
+**Author:** Agent Kkotlom Lee
+**Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 
 ---
