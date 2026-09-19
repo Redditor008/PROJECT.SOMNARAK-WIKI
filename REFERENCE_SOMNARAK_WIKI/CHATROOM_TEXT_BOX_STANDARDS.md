@@ -12,30 +12,38 @@
 |---|---|---|
 | **Use Unicode symbols for borders** | **[No]** | Prevents terminal/font rendering artifacts across disparate client platforms. Strictly use standard ASCII (`+`, `-`, `|`, `=`). |
 | **Syntax Standard** | **reStructuredText [Yes]** | Clean grid table structure with distinct header separators (`+===+===+`) and cell dividers (`+---+---+`). |
-| **Max Row Character Limit** | **72–84 Characters (ASCII) / 48 Chars (Compact)** | Standard ASCII tables fit cleanly up to 72–84 chars without wrapping in normal desktop/tablet views, while 48 chars serves as the ultra-compact mobile profile. |
+| **Max Row Character Limit** | **67 Characters Exactly** | Verified through character-by-character testing in Arena.ai chatroom view without code block fences to prevent line-wrapping. |
 
 ---
 
 ## 2. Specification Examples
 
-### A. Single Box / Text Banner (Width: 48 Chars)
+### A. Single Box / Text Banner (Width: Exactly 67 Chars)
 ```
-+----------------------------------------------+
-| TITLE / HEADER TEXT                          |
-+==============================================+
-| Body line 1 (padded up to 46 content chars)  |
-| Body line 2                                  |
-+----------------------------------------------+
++-----------------------------------------------------------------+
+| TITLE / HEADER TEXT (PADDED TO 65 INNER CHARS)                  |
++=================================================================+
+| Body line text content                                          |
++-----------------------------------------------------------------+
 ```
 
-### B. Multi-Column Grid Table (Width: 48 Chars)
+### B. Multi-Column Grid Table (Width: Exactly 67 Chars)
+```
++------------------+----------------------------------------------+
+| Header A         | Header B                                     |
++==================+==============================================+
+| Item 01          | Description text (padded to fit column)      |
++------------------+----------------------------------------------+
+| Item 02          | Description text                             |
++------------------+----------------------------------------------+
+```
+*(Column widths: 18 + 46 + 3 border characters = 67 characters total)*
+
+### C. Compact Mobile Profile (Width: 48 Chars)
 ```
 +----------------+-----------------------------+
 | Header A       | Header B                    |
 +================+=============================+
 | Item 01        | Description text            |
 +----------------+-----------------------------+
-| Item 02        | Description text            |
-+----------------+-----------------------------+
 ```
-*(Column widths: 16 + 29 + 3 border characters = 48 characters total)*

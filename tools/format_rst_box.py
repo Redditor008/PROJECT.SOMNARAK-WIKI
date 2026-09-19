@@ -3,13 +3,13 @@ Utility to generate and validate reStructuredText ASCII tables
 conforming to Arena.ai Chatroom constraints:
 - Unicode symbols for table borders: [No] (pure ASCII: +, -, |, =)
 - reStructuredText syntax: [Yes]
-- Character Limit Per ROW: <= 48 characters.
+- Character Limit Per ROW: <= 67 characters (user counted exact threshold).
 """
 
-def make_box(lines, width=48):
+def make_box(lines, width=67):
     """
     Wraps text lines into a single-cell reStructuredText box
-    with max row length of 48 characters.
+    with max row length of 67 characters.
     """
     inner_w = width - 2  # account for left and right border
     top_bot = "+" + "-" * inner_w + "+"
@@ -34,15 +34,13 @@ def make_box(lines, width=48):
     return "\n".join(out)
 
 
-def make_rst_table(headers, rows, col_widths=None, max_width=48):
+def make_rst_table(headers, rows, col_widths=None, max_width=67):
     """
     Builds a multi-column reStructuredText ASCII grid table
-    ensuring total row width <= max_width (default 48).
+    ensuring total row width <= max_width (default 67).
     """
     num_cols = len(headers)
     if col_widths is None:
-        # compute widths to fit in max_width
-        # border overhead: num_cols + 1 characters for '+' and '|'
         overhead = num_cols + 1
         available = max_width - overhead
         each = available // num_cols
@@ -72,8 +70,8 @@ def make_rst_table(headers, rows, col_widths=None, max_width=48):
 
 
 if __name__ == "__main__":
-    box = make_box(["M.A.W. TAXONOMY ARSENAL", "reStructuredText Standard", "Max width: 48 chars"])
-    print(box)
-    print("\nTable example:")
-    tbl = make_rst_table(["Category", "Role"], [["MELEE", "Kinetic Reach"], ["RANGE", "Ballistic"], ["MIXED", "Hybrid"], ["UNIQUE", "Conceptual"]], [16, 29])
-    print(tbl)
+    b = make_box(["DIRECTIVE CONFIRMED", "Exact Row Limit: 67 Characters", "ASCII Only, reStructuredText Syntax"], width=67)
+    print(b)
+    print("\nTable example (width 67):")
+    t = make_rst_table(["Setting", "Specification"], [["Borders", "Pure ASCII (+, -, |, =)"], ["Limit", "Exactly 67 Characters Max"], ["Syntax", "reStructuredText [Yes]"]], col_widths=[18, 46], max_width=67)
+    print(t)
