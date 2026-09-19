@@ -12,7 +12,7 @@
 |---|---|---|
 | **Use Unicode symbols for borders** | **[No]** | Prevents terminal/font rendering artifacts across disparate client platforms. Strictly use standard ASCII (`+`, `-`, `|`, `=`). |
 | **Syntax Standard** | **reStructuredText [Yes]** | Clean grid table structure with distinct header separators (`+===+===+`) and cell dividers (`+---+---+`). |
-| **Max Row Character Limit** | **48 Characters** | Hard ceiling for mobile screens and Arena.ai split chatroom UI to prevent unwanted line wrapping. |
+| **Max Row Character Limit** | **72–84 Characters (ASCII) / 48 Chars (Compact)** | Standard ASCII tables fit cleanly up to 72–84 chars without wrapping in normal desktop/tablet views, while 48 chars serves as the ultra-compact mobile profile. |
 
 ---
 
