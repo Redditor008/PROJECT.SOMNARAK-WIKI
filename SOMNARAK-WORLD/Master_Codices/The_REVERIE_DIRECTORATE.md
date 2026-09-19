@@ -2666,7 +2666,7 @@ The Archive Lead sometimes wonders: if the city knew the truth, would it change 
 
 **Origin:** Ishall was a Council agent — one of the hidden ones. The name "Ishall" was given to them by the Secretary — the only person who treated them as something other than a tool. The Council denies Ishall exists.
 
-**Nature:** Android — enemy body repurposed, original biological components removed during reconstruction after the failed mission.
+**Nature:** Android Cast Effigy — a living human woman whose soul was fused into a repurposed enemy mechanical chassis after her biological body was destroyed in her failed mission.
 
 **The Sorrow:** The Outsider carries **someone else's sorrow** — the sorrow of the Council that sent them. They are not their own person. They are an *instrument*. The R.D. uses them for the most dangerous tasks — the ones no one else will do.
 
@@ -2676,7 +2676,7 @@ The Archive Lead sometimes wonders: if the city knew the truth, would it change 
 
 | Field | Detail |
 |-------|--------|
-| **Effigy Type** | Android — enemy body repurposed, original biological components removed |
+| **Effigy Type** | Android (Human soul fused into a repurposed enemy mechanical chassis; 0% biological) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Han Signature** | Grudge (Crimson) + Void (Pale White) |
 | **Manifestation** | Subject-Body — physical, dangerous, marked |

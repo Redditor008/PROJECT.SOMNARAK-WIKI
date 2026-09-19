@@ -955,7 +955,7 @@ Under prolonged cycle exhaustion, the Directorate's administrative overrides col
 - **Element Signature:** **Grudge (Crimson)** direct kinetic ballistics and stealth minefields.
 - **Active Camouflage:** Ishall deploys full optical refraction, vanishing from standard sensors and striking from concealed vantage points across Floor 7.
 - **Crossfire Saturation:** High-speed sniper rounds and razor-wire ambushes that inflict heavy Grudge direct damage on moving agents.
-- **Suppression Objective:** Agents cannot reason with the hostile military firmware. They must deploy electronic jamming, bypass tactical kill-zones, and physically breach her chassis's cranial housing to shatter the foreign command loop and awaken her core consciousness.
+- **Suppression Objective:** Agents cannot reason with the hostile military firmware while it overrides the chassis. They must deploy electronic jamming, bypass tactical kill-zones, and physically breach the chassis's cranial housing to shatter the foreign command loop, awakening Ishall's true human soul and consciousness.
 
 ---
 
