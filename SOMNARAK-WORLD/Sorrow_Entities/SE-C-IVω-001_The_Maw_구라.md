@@ -192,21 +192,26 @@ The escalation pattern is specific to The Maw: it is not a generic breach event.
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Cheongula — Forbidden Fang
+### M.A.W. Weapon — The Cheongula — Devouring Jaw
 
-**Type:** Weapon | **Grade:** ω | **Element:** Grudge
+**Category:** PRIMAL (Snapping Jaw / Serrated Bone-Saw) | **Grade:** ω | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that hums faintly when gripped.
+**Appearance:** A terrifying, colossal scissor-jaw armament constructed from ossified mandibles, calcified teeth, and serrated black-iron bone-saws. Three rows of human-like molars grind together continuously along the inner shearing edge, while the outer spine is formed from jagged, interlocking vertebrae. When swung, the jaws snap violently shut with bone-splintering force, chewing into flesh, armor, and concrete alike while emitting the wet, ravenous chittering of thousands of starving mouths.
 
-**Damage:** Grudge 13-20
-**Speed:** 4 (Very Fast)
-**Range:** 4 (Long)
+**Damage:** Grudge 22–34
+**Speed:** 2 (Slow)
+**Range:** 2 (Short)
 **Max Amount:** 1
 **Cost:** 70 Sorrow Echoes
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Maw's grudge signature in the strike.
+**Attack Pattern:** Masticating Cleave / Multi-Bite Clamp
+**Target Coverage:** Devastating Short-range cleave against 1 primary target, with collateral bite damage to 1 adjacent target (100% → 70%)
+**Falloff Rule:** Primary takes full catastrophic trauma and bleed; secondary takes blunt crushing spillover.
+**Damage Application:** Direct Grudge trauma to Body (physical form, structural integrity); causes severe mastication bleed and armor destruction.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Ability:** Deals catastrophic Grudge damage, attacking the Body (physical form, structural integrity). Devouring Clamp traps the target within the interlocking jaws, chewing through defenses and converting inflicted trauma into temporary endurance for the bearer.
+
+**Cost:** The wielder experiences unbearable phantom hunger; prolonged use causes their jaw muscles to spasm and ache, and leaves deep, permanent bruising along the chest and arms.
 
 ### M.A.W. Suit — The Cheongula — Forbidden Plate
 

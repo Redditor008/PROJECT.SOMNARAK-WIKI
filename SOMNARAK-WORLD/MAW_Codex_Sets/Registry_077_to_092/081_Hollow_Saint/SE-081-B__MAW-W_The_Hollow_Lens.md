@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Hollow Lens
+# M.A.W. WEAPON — The Hollow Sceptre
 
 > *“It can make room for a person. It must never decide that the person is the thing taking up room.”*
 
@@ -16,15 +16,16 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Hollow Lens |
+| Official name | The Hollow Sceptre |
 | Set | Hollow Benediction |
 | Type / grade / element | Weapon / γ — Major / Void — Pale White |
+| Category | MAGIC (Choral Staff / Resonant Sceptre) |
 | Status | Active under identity-boundary supervision |
 | Maximum amount | 3 — Standard |
 | Current bearer | Unassigned between supervised deployments |
-| Resting form | A palm-sized disc of pale Han-glass with a center that looks cut out rather than transparent. |
-| Active form | A cold, narrow line stretches from the inner absence and leaves no reflection in the target’s wake. |
-| Recognition rule | A valid Lens shows its bearer’s hand around the edge but never across the hollow center. |
+| Resting form | A fluted silver sceptre with a pale-glass reliquary cage holding acoustic Void coils. |
+| Active form | A focused beam of resonant Void stretches from the reliquary cage along the corridor. |
+| Recognition rule | A valid Sceptre hums in the bearer's grip without causing numbness along the forearm. |
 
 ## EXTRACTION & BINDING
 
@@ -43,9 +44,9 @@
 
 | Field | Record |
 |---|---|
-| Damage | Void 7–12 direct |
-| Speed / range | 3 — Fast / 3 — Medium |
-| Pattern / coverage | Pierce / up to three targets |
+| Damage | Void 8–14 direct |
+| Speed / range | 3 — Normal / 4 — Long |
+| Pattern / coverage | Line Pierce / Ultrasonic Beam (up to three targets) |
 | Falloff | 100% → 70% → 50% |
 | Echo cost | 40 Sorrow Echoes to register and bind |
 | Operational cost | A small, nameless memory loosens after each successful release. |
@@ -56,7 +57,7 @@
 
 ### Appearance
 
-The Hollow Lens is a pale Han-glass disc, slightly concave, set into a black frame with a short handle and a white-lined case. Its face looks empty in ordinary light and warms only when the bearer has completed a pre-use identity baseline with a witness. The Lens releases a pale piercing line that interrupts a pull on identity long enough for a target to speak, choose, or retreat, but it cannot cure the grief beneath the pressure. A thin directional seam marks where the line will go, and it bends toward the user if the bearer tries to make another person easier to manage. The glass is kept face-down in its case after use, and a dissolvable strip carrying the bearer's chosen intention rests under the lid. The lens is returned to its white-lined case face-down, and the dissolvable strip is inspected before the next session is permitted. The seam is aligned with the witness before the line is released.
+The Hollow Sceptre is a fluted ritual stave of tarnished Han-silver, mounted with a hollow pale-glass reliquary cage holding acoustic Void coils. When pointed down a corridor, the sceptre vibrates with the soundless benediction of The Hollow Saint, channeling a focused, long-range beam of piercing resonant Void that severs cognitive suppression and strips foreign emotional possession without physical harm.
 
 ### Basic attack— *Mercy’s Edge*
 

@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Balance Lens
+# M.A.W. WEAPON — The Balance Projector
 
-> *“The Lens does not decide what a person is worth. It decides how much of them is currently being carried as debt.”*
+> *“The Projector does not decide what a person is worth. It decides how much of them is currently being carried as debt, and looses the bolt accordingly.”*
 
 ---
 
@@ -18,7 +18,8 @@
 
 | Field | Record |
 |---|---|
-| **Type** | Weapon — balance lens disc |
+| **Type** | Weapon — balance projector crossbow |
+| **Category** | RANGE (Balance Crossbow / Counterweight Culverin) |
 | **Grade** | β — Moderate |
 | **Element** | Void — Pale White |
 | **Maximum Amount** | 4 — Stocked |
@@ -26,7 +27,7 @@
 
 ### Appearance
 
-The Balance Lens is a pale Han-glass disc with a single fine horizontal line cut across its center, extending just past the rim on both sides. The disc is almost clear in ordinary light and cold to the touch, with a narrow black rim and a shaped grip area along the bottom edge that must be held with both hands. When the bearer names a verified obligation, the horizontal line tilts toward the target's unresolved burden with slow, deliberate motion and stops where the debt actually sits. If the bearer's claim is unverified, the line wavers instead of settling. The lens does not shade or blur; it only tilts. The grip is warm only in the center, where the bearer's two hands rest, and it leaves a faint trace of white on the skin after a prolonged reading. The disc must be held level before the naming begins; if it is held at an angle, the line settles at that angle rather than at the debt.
+The Balance Projector is a heavy, counterbalanced siege crossbow forged from weathered Han-brass, ironwood, and pale tempered Void glass. Two miniature brass scale-pans hang suspended beneath the firing housing; as the wielder draws the mechanism and sights an enemy downfield, the scale pans tilt with mechanical precision, measuring the target's outstanding karmic debt. The weapon loads no ordinary quarrels; instead, it condenses ambient Void into a thin, pressurized javelin of crystalline light that discharges with a sharp metallic thrum, striking distant targets with pinpoint existential impact. The brass remains cold and vibrates whenever an unpaid obligation is identified.
 
 ---
 
@@ -34,21 +35,21 @@ The Balance Lens is a pale Han-glass disc with a single fine horizontal line cut
 
 | Field | Record |
 |---|---|
-| **Damage** | Void 5–9 |
-| **Speed** | 2 — Normal |
-| **Range** | 2 — Short |
-| **Attack Pattern** | Single |
-| **Target Coverage** | One designated target |
-| **Falloff Rule** | 100% damage to the selected target only |
-| **Recovery** | 3 seconds after a completed measure strike |
+| **Damage** | Void 8–14 |
+| **Speed** | 2 — Slow |
+| **Range** | 4 — Long |
+| **Attack Pattern** | Precision Shot / Equalizing Bolt |
+| **Target Coverage** | One designated target at long range |
+| **Falloff Rule** | 100% damage to selected target; ignores armor proportionate to debt |
+| **Recovery** | 2.2 seconds between drawn bolts |
 
 ### Signature Ability — Balance Due
 
-**Trigger:** Bearer names a verified obligation the target carries.
+**Trigger:** Bearer names a verified obligation the target carries while sighting down the stock.
 
-**Effect:** The Lens applies Void pressure equal to the target’s immediate debt mark and reveals whether the obligation is inherited, self-created, imposed, or misrecorded.
+**Effect:** The Projector unleashes an equalizing bolt that applies heavy Void pressure equal to the target’s immediate debt mark, piercing energy barriers and revealing whether the obligation is inherited, self-created, or imposed.
 
-**Limit:** It cannot be used on an unmeasured claim without producing a false-positive reading. The bearer must verify source evidence first.
+**Limit:** Cannot lock onto an unverified target without suffering severe dispersion. The bearer must identify the debt link before release.
 
 ### Wielder Cost
 

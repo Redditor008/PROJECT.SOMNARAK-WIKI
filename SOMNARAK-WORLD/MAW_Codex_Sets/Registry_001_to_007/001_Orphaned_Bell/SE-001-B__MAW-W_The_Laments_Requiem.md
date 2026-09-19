@@ -19,6 +19,7 @@
 | Field | Record |
 |---|---|
 | **Type** | Weapon — singing blade |
+| **Category** | MELEE (Resonating Greatsword) |
 | **Grade** | δ — Critical |
 | **Element** | Lament — Deep Blue |
 | **Maximum Amount** | 2 — Limited |
@@ -46,11 +47,11 @@ A bearer who uses the blade to erase a memory, silence a witness, or punish some
 
 | Field | Record |
 |---|---|
-| **Damage** | Lament 10–15 |
-| **Speed** | 3 — Fast |
+| **Damage** | Lament 12–18 |
+| **Speed** | 2 — Slow |
 | **Range** | 3 — Medium |
-| **Attack Pattern** | Pierce |
-| **Target Coverage** | One line, up to 3 targets linked by a shared grief event |
+| **Attack Pattern** | Wide Arc / Line Resonance |
+| **Target Coverage** | One corridor line, up to 3 targets linked by a shared grief event |
 | **Falloff Rule** | Primary 100% → first pierced 70% → second pierced 50% |
 | **Recovery** | One full breath between completed swings |
 

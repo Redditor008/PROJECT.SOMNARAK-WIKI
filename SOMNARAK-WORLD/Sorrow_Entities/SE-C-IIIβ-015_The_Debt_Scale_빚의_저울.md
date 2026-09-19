@@ -204,26 +204,26 @@ The escalation pattern is specific to The Debt Scale: it is not a generic breach
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Balance Lens
+### M.A.W. Weapon — The Balance Projector
 
-**Type:** Weapon | **Grade:** β | **Element:** Void
+**Category:** RANGE (Balance Crossbow / Counterweight Culverin) | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+**Appearance:** A heavy, counterbalanced siege crossbow constructed from weathered Han-brass and pale tempered Void glass. Two miniature brass scale-pans hang beneath the firing housing; as the wielder draws the mechanism, the scale pans tilt, measuring the target's outstanding karmic debt. The weapon does not load standard bolts, but condenses ambient Void into a thin, pressurized glass javelin that discharges with a resonant metallic thrum, striking downfield with pinpoint kinetic and existential impact.
 
-**Damage:** Void 5–9
-**Speed:** 2 (Normal)
-**Range:** 2 (Short)
+**Damage:** Void 8–14
+**Speed:** 2 (Slow)
+**Range:** 4 (Long)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Attack Pattern:** Single
-**Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Attack Pattern:** Precision Shot / Equalizing Bolt
+**Target Coverage:** 1 designated target at long range
+**Falloff Rule:** 100% damage to the selected target; penetrates defenses if target carries active debt.
+**Damage Application:** Direct Void trauma to Soul (identity, memory, sense of self); strips target defenses proportionate to karmic disparity.
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Debt Scale's void signature in the strike.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** The wielder loses small, nameless memories with each use; repeated use makes the bearer mistake exactness for justice.
 
 ### M.A.W. Suit — The Balance Veil
 

@@ -14,19 +14,22 @@
 
 | Field | Record |
 |---|---|
-| Damage | Weight 5–9 |
-| Speed / Range | 2 — Normal / 2 — Short |
-| Pattern | Single |
-| Maximum Amount | 4 — Stocked |
-| Echo Cost | 25 Sorrow Echoes |
+| **Category** | UNIQUE (Hourglass Sledge / Sand-Clock Hammer) |
+| **Grade** | β — Moderate |
+| **Element** | Weight — Amber |
+| **Damage** | Weight 9–16 |
+| **Speed / Range** | 1 — Very Slow / 5 — Room |
+| **Pattern** | Ground Shockwave / Temporal Drag |
+| **Maximum Amount** | 4 — Stocked |
+| **Echo Cost** | 25 Sorrow Echoes |
 
 ### Appearance
 
-The Hourglass Maul is a heavy black two-hand maul whose head is cut into the shape of a flattened hourglass, narrow at the middle and broad at both faces. A single line of pale sand runs through the glass inset at the waist, held in place by a thin black collar. When the bearer stores a delayed action, one grain of that sand shifts from the upper to the lower chamber and the maul gains a low, weighty hum. The haft is long, ribbed, and wrapped in black Han-grip, with a squared pommel that hangs lower than usual. The head's two faces are unpolished, and the glass inset stays cold even after a charged strike. The Maul cannot reverse a missed moment; it only makes the regret of the second physically heavy. The waist inset is set flush with the metal, and the sand glows a pale gold only in the second after an action is stored.
+The Hourglass Maul is a colossal, twin-bulb war maul constructed from thick, crack-veined silicate glass framed within blackened Han-steel ribbing. Dense, pressurized black temporal sand swirls violently within both glass chambers. When raised overhead, the sand rushes toward the striking bulb, shifting the weapon's center of mass with tremendous gravitational momentum. When brought down upon the floor or a foe, the maul triggers a crushing radial tremor across the entire room, warping local momentum and dragging down the movement speed of everything caught within its temporal shockwave.
 
 ### Ability— Spent Moment
 
-The Maul stores one delayed action—an interrupted strike, missed step, or unfinished movement—and releases its Weight on the next impact.
+The Maul stores one delayed action—an interrupted strike, missed step, or unfinished movement—and releases its crushing Weight across the chamber floor on impact.
 
 **Limit:** It cannot reverse the action or restore lost time. It only makes the regret of the missed moment physically heavy.
 

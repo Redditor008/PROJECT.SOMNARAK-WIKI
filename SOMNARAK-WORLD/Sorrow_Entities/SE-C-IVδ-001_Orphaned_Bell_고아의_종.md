@@ -223,19 +223,24 @@ The escalation pattern is specific to Orphaned Bell: it is not a generic breach 
 
 ### M.A.W. Weapon — The Lament's Requiem
 
-**Type:** Weapon | **Grade:** δ | **Element:** Lament
+**Category:** MELEE (Resonating Greatsword) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
+**Appearance:** A slender, two-handed greatsword forged from resonant deep-blue Han-crystal, ground so thin that its edge appears weightless until brought against grief. Beneath the translucent crystalline plane, microscopic records of lost names drift in the rhythmic cadence of a distant toll. A soundless acoustic channel runs along the spine, glowing cold cerulean whenever recent loss is detected nearby. When swung, it displaces no air; rather, an unearthly toll echoes within the minds of all observers in the corridor.
 
-**Damage:** Lament 10-15
-**Speed:** 3 (Fast)
+**Damage:** Lament 12–18
+**Speed:** 2 (Slow)
 **Range:** 3 (Medium)
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Orphaned Bell's lament signature in the strike.
+**Attack Pattern:** Wide Arc / Line Resonance
+**Target Coverage:** Linear corridor; up to 3 targets linked by grief or active Lament
+**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Damage Application:** Direct Lament trauma to Mind and emotional stability; applies Toll Resonance tick damage.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Tollcut channels The Orphaned Bell's lament signature, causing soundless shockwaves that shatter the composure of connected targets.
+
+**Cost:** The wielder feels the entity's unwept grief; three consecutive swings blur one personal childhood memory until written down or spoken aloud.
 
 ### M.A.W. Suit — The Lament's Shroud
 

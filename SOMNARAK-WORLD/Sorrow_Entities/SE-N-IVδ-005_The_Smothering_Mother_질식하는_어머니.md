@@ -176,26 +176,26 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Embrace Fang
+### M.A.W. Weapon — The Embrace Talon
 
-**Type:** Weapon | **Grade:** δ | **Element:** Grudge
+**Category:** PRIMAL (Rending Bone-Claw / Tendon Gauntlet) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that glows along its edge when readied.
+**Appearance:** An articulated claw-gauntlet constructed from ossified maternal finger-bones and woven crimson sinew, terminating in jagged, inward-curving calcified talons designed to grasp rather than release. The jointed fingers twitch faintly when held idle, reaching instinctively toward living warmth. When struck in close quarters, the claws clamp shut with crushing mechanical force, hooking into the victim and dragging them into point-blank range while exuding a suffocating, feverish heat.
 
-**Damage:** Grudge 10–15
-**Speed:** 3 (Fast)
-**Range:** 3 (Medium)
+**Damage:** Grudge 12–18
+**Speed:** 4 (Fast)
+**Range:** 1 (Close)
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Attack Pattern:** Pierce
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Attack Pattern:** Snapping Clamp / Visceral Drag
+**Target Coverage:** 1 designated target at point-blank range
+**Falloff Rule:** 100% damage to the selected target; hooks and pulls target into Close range.
+**Damage Application:** Direct Grudge trauma to Body (physical form, structural integrity); inflicts bleeding lacerations and immobilizing hold.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Smothering Mother's grudge signature in the strike.
+**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Smothering Mother's grudge signature, refusing to allow anything within its grasp to retreat.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Cost:** The wielder's old wounds ache; prolonged use leaves severe bruising and induces an obsessive panic whenever allies move out of reach.
 
 ### M.A.W. Suit — The Embrace Plate
 

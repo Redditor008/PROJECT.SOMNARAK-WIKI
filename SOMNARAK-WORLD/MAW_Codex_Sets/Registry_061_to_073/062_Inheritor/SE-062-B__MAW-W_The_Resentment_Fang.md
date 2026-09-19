@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Resentment Fang
+# M.A.W. WEAPON — The Resentment Talon-Blade
 
 > *“It strikes hardest when the bearer has been told that anger is a debt of its own.”*
 
@@ -14,20 +14,21 @@
 
 | Field | Record |
 |---|---|
-| Damage | Grudge 7–12 |
-| Speed / Range | 3 — Fast / 3 — Medium |
-| Pattern | Pierce — up to 3 targets |
-| Falloff | 100% → 70% → 50% |
-| Maximum Amount | 3 — Standard |
-| Echo Cost | 40 Sorrow Echoes |
+| **Category** | MIXED (Chain-Sickle / Transforming Falx) |
+| **Damage** | Grudge 9–15 |
+| **Speed / Range** | 3 — Normal / 2–3 — Short to Medium |
+| **Pattern** | Cleave / Retractable Whip Lash |
+| **Falloff** | Primary 100% → secondary sweep 70% |
+| **Maximum Amount** | 3 — Standard |
+| **Echo Cost** | 40 Sorrow Echoes |
 
 ### Appearance
 
-The Resentment Fang is a broad crimson blade of Han iron, curved forward like a thick hook with a back edge thick enough to rest a thumb against. A line of darker red runs along the curve and stays hidden until the bearer documents the target relationship and the chain of imposed obligation. The grip is black and wrapped with a deep finger notch, and the pommel is a small squared block that warms as the Fang prepares to strike. In ordinary use the weapon is cold and dull; once the obligation chain is recorded, the red line brightens and the whole blade seems to lean toward the people or structures enforcing the debt. It cannot distinguish a responsible person from a person trapped in the same system, and it spares those it is not told to strike. The fang is never stored with the red line visible, and it is wiped with a dry cloth before the named obligation is recorded.
+The Resentment Talon-Blade is a broad, inwardly-curved falx blade of dark crimson Han-iron, connected to an internal spool of barbed spinal cable within the hilt. In locked configuration, it strikes as a heavy, hooked cleaver for devastating Short-range chopping strikes. When the hilt latch is released, the blade launches forward on five paces of segmented tension-wire, transforming into a sweeping chain-scythe that hooks targets at Medium range and reels them back toward the wielder while weeping a thin, caustic film of burning crimson Han. The pommel warms noticeably as the weapon locks onto structures or agents enforcing imposed debt.
 
 ### Ability— Unpaid Anger
 
-The Fang follows a documented chain of imposed obligation and strikes through the people or structures enforcing it.
+The Talon-Blade follows a documented chain of imposed obligation and strikes through the people or structures enforcing it, cleaving through physical and systemic restraints.
 
 **Limit:** It cannot distinguish a responsible person from a person trapped in the same system. The bearer must document the target relationship before activation.
 

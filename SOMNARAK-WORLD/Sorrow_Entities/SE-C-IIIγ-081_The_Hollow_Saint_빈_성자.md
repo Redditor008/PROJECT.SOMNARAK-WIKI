@@ -168,26 +168,26 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Hollow Lens
+### M.A.W. Weapon — The Hollow Sceptre
 
-**Type:** Weapon | **Grade:** γ | **Element:** Void
+**Category:** MAGIC (Choral Staff / Resonant Sceptre) | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that glows along its edge when readied.
+**Appearance:** A fluted ritual sceptre of tarnished Han-silver, mounted with a hollow pale-glass reliquary cage containing three acoustic Void coils. When pointed down a corridor, the sceptre vibrates with the soundless benediction of The Hollow Saint, channeling a focused, long-range beam of piercing resonant Void that severs cognitive suppression and strips foreign emotional possession without physical harm.
 
-**Damage:** Void 7–12
-**Speed:** 3 (Fast)
-**Range:** 3 (Medium)
+**Damage:** Void 8–14
+**Speed:** 3 (Normal)
+**Range:** 4 (Long)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Attack Pattern:** Pierce
-**Target Coverage:** Line; up to 3 targets total
+**Attack Pattern:** Line Pierce / Ultrasonic Beam
+**Target Coverage:** Linear corridor; pierces up to 3 aligned targets
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** Direct Void trauma to Soul (identity, memory, sense of self); shatters psychic links and suppression fields.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Hollow Saint's void signature in the strike.
+**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Hollow Saint's void signature in the strike, carving out mental space for targets to reclaim agency.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** The wielder loses small, nameless memories with each use; excessive channeling makes the wielder feel detached from their own physical form.
 
 ### M.A.W. Suit — The Hollow Veil
 

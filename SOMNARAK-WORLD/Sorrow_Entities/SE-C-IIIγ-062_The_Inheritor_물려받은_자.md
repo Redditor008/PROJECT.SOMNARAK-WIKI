@@ -171,21 +171,26 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Resentment Fang
+### M.A.W. Weapon — The Resentment Talon-Blade
 
-**Type:** Weapon | **Grade:** γ | **Element:** Grudge
+**Category:** MIXED (Chain-Sickle / Transforming Falx) | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+**Appearance:** A vicious, inwardly-curved falx blade of dark crimson Han-iron, connected to an internal spool of barbed spinal cable within the hilt. In locked configuration, it strikes as a heavy, hooked cleaver for devastating Short-range chopping strikes. When the hilt latch is released, the blade launches forward on five paces of segmented tension-wire, transforming into a sweeping chain-scythe that hooks targets at Medium range and reels them back toward the wielder while weeping a thin, caustic film of burning crimson Han.
 
-**Damage:** Grudge 7-12
-**Speed:** 3 (Fast)
-**Range:** 3 (Medium)
+**Damage:** Grudge 9–15
+**Speed:** 3 (Normal)
+**Range:** 2–3 (Short to Medium)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Inheritor's grudge signature in the strike.
+**Attack Pattern:** Cleave / Retractable Whip Lash
+**Target Coverage:** Dual-mode; Close cleave against 1 designated target or sweeping Medium lash across 2 adjacent targets
+**Falloff Rule:** Primary 100% → secondary caught in sweep 70%.
+**Damage Application:** Direct Grudge trauma to Body (physical form, structural integrity); inflicts deep lacerations and pulls medium-range targets into point-blank engagement.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Unpaid Anger tracks the documented chain of imposed obligation, cleaving through the physical and systemic anchors that bind the victim.
+
+**Cost:** The wielder's old wounds ache; prolonged use leaves deep bruising and stirs unspoken resentment until acknowledged by an ally.
 
 ### M.A.W. Suit — The Resentment Plate
 

@@ -176,26 +176,26 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Debt Lens
+### M.A.W. Weapon — The Debt Prism
 
-**Type:** Weapon | **Grade:** β | **Element:** Void
+**Category:** FANTASY (Astral Prism / Floating Dodecahedron) | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that pulses with the source sorrow when drawn.
+**Appearance:** A floating, faceted dodecahedral prism of pure pale Void crystal that levitates and rotates silently above the wielder's open hand. When brought before an indebted target, the prism’s geometric facets refract ambient sorrow into razor-thin, blinding needles of cold white light. Discharged instantaneously along line-of-sight with zero projectile travel time, the refracted beams bypass physical armor completely, striking directly into the target's sense of self and burning away memories tied to unpaid obligations.
 
-**Damage:** Void 5–9
-**Speed:** 2 (Normal)
-**Range:** 2 (Short)
+**Damage:** Void 6–10
+**Speed:** 4 (Fast)
+**Range:** Special (Instant)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Attack Pattern:** Single
-**Target Coverage:** 1 designated target
-**Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Attack Pattern:** Channeled Ray / Prismatic Needles
+**Target Coverage:** Instantaneous line-of-sight ray striking 1 designated target (can pierce through 1 additional target directly behind)
+**Falloff Rule:** 100% direct target → 60% pierced target; completely ignores physical armor.
+**Damage Application:** Direct Void trauma to Soul (identity, memory, sense of self); dissolves ungrounded ego buffers.
 
-**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels The Debt Eater's void signature in the strike.
+**Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Read the Account channels the entity's void signature to strike targets downfield at the speed of light.
 
-**Cost:** The wielder loses small, nameless memories with each use.
+**Cost:** The wielder loses small, nameless memories with each use; repeated use makes the bearer increasingly certain that measurable debt is the only truth worth keeping.
 
 ### M.A.W. Suit — The Debt Veil
 

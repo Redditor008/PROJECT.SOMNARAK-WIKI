@@ -54,15 +54,15 @@ Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items a
 
 | Item | Archetype | Band |
 |---|---|---|
-| MAW-W-001 The Lament's Requiem | Greatsword | Medium |
+| MAW-W-001 The Lament's Requiem | MELEE (Resonating Greatsword) | Medium |
 | MAW-W-002 The Mourning Maul | Box Maul | Room |
-| MAW-W-005 The Embrace Fang | Talon Claw | Close |
+| MAW-W-005 The Embrace Talon | PRIMAL (Rending Bone-Claw) | Close |
 | MAW-W-007 The Hope Lens | Survey Staff | Long |
 | MAW-W-009 The Forgotten Lens | Shuttle Dagger | Short |
 | MAW-W-010 The Absolute Maul | War Sledge | Room |
 | MAW-W-011 The Listening Requiem | Katana | Long |
-| MAW-W-014 The Debt Lens | Prism Astral Item | Instant |
-| MAW-W-015 The Balance Lens | Balance Cannon | Room |
+| MAW-W-014 The Debt Prism | FANTASY (Astral Prism) | Instant |
+| MAW-W-015 The Balance Projector | RANGE (Balance Crossbow) | Long |
 | MAW-W-016 The Lost Lens | Compass Chakram | Long |
 | MAW-W-019 The Debt Maul | Chain Flail | Room |
 | MAW-W-021 The Silenced Requiem | Rapier | Long |
@@ -70,7 +70,7 @@ Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items a
 | MAW-W-031 The Witness Requiem | Estoc | Long |
 | MAW-W-032 The Judgment Fang | Kukri Cleaver | Short |
 | MAW-W-033 The Guardian Lens | Framed Pavise Lens | Medium |
-| MAW-W-036 The Hourglass Maul | Hourglass Maul | Room |
+| MAW-W-036 The Hourglass Maul | UNIQUE (Hourglass Sledge) | Room |
 | MAW-W-041 The Tear Requiem | Tear Dagger | Short |
 | MAW-W-042 The Fury Fang | Ring Talon | Close |
 | MAW-W-043 The Silence Lens | Signal Loupe | Instant |
@@ -80,12 +80,12 @@ Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items a
 | MAW-W-054 The Void Maul | Dish Maul | Room |
 | MAW-W-055 The Tear Requiem | Tear Stiletto | Short |
 | MAW-W-061 The Burden Maul | Vessel Maul | Room |
-| MAW-W-062 The Resentment Fang | Falx | Medium |
+| MAW-W-062 The Resentment Talon-Blade | MIXED (Chain-Sickle) | Short–Medium |
 | MAW-W-063 The Denial Lens | Caliper Lens | Instant |
 | MAW-W-071 The Gentle Requiem | Round-Edge Glaive | Long |
 | MAW-W-073 The Duty Fang | Squared Warbrand | Medium |
 | MAW-W-077 The Shadow Lens | Lens Pistol | Instant |
-| MAW-W-081 The Hollow Lens | Sceptre Lens | Long |
+| MAW-W-081 The Hollow Sceptre | MAGIC (Choral Staff) | Long |
 | MAW-W-088 The Sorrow Requiem | Cruciform Longsword | Medium |
 | MAW-W-091 The Crown of Requiem | Crown Coil Blade | Room |
 | MAW-W-092 The Burning Fang | Falchion | Medium |

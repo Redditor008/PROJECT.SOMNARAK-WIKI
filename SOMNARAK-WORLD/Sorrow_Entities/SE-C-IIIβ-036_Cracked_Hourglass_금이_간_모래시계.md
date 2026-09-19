@@ -223,19 +223,24 @@ The escalation pattern is specific to Cracked Hourglass: it is not a generic bre
 
 ### M.A.W. Weapon — The Hourglass Maul
 
-**Type:** Weapon | **Grade:** β | **Element:** Weight
+**Category:** UNIQUE (Hourglass Sledge / Sand-Clock Hammer) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that quivers when raised.
+**Appearance:** A massive, twin-bulb war maul constructed from thick, crack-veined silicate glass framed within blackened Han-steel ribbing. Dense, pressurized black temporal sand swirls violently within both glass chambers. When raised overhead, the sand rushes toward the striking bulb, shifting the weapon's center of mass with tremendous gravitational momentum. When brought down upon the floor or a foe, the maul triggers a crushing radial tremor across the entire room, warping local momentum and dragging down the movement speed of everything caught within its temporal shockwave.
 
-**Damage:** Weight 5-9
-**Speed:** 2 (Normal)
-**Range:** 2 (Short)
+**Damage:** Weight 9–16
+**Speed:** 1 (Very Slow)
+**Range:** 5 (Room)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Cracked Hourglass's weight signature in the strike.
+**Attack Pattern:** Ground Shockwave / Temporal Drag
+**Target Coverage:** Radial area burst (Room); engages all grounded targets in the chamber
+**Falloff Rule:** 100% at epicenter → 60% outer perimeter; inflicts heavy kinetic deceleration.
+**Damage Application:** Direct Weight trauma to Han (sorrow reserves, karmic debt); drastically reduces target movement and attack speed.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Spent Moment stores the momentum of delayed or interrupted actions, releasing crushing temporal mass on impact.
+
+**Cost:** The wielder feels progressively heavier; each impact shortens the bearer’s subjective rest by one minute, leaving them physically exhausted while awake.
 
 ### M.A.W. Suit — The Hourglass Mantle
 

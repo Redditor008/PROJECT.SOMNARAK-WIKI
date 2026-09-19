@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Embrace Fang
+# M.A.W. WEAPON — The Embrace Talon
 
-> *“The curve is not made for hunting. It is made for pulling what runs back within reach.”*
+> *“The curve is not made for hunting. It is made for clamping what runs back within reach.”*
 
 ---
 
@@ -18,7 +18,8 @@
 
 | Field | Record |
 |---|---|
-| **Type** | Weapon — curved fang blade |
+| **Type** | Weapon — bone claw gauntlet |
+| **Category** | PRIMAL (Rending Bone-Claw / Tendon Gauntlet) |
 | **Grade** | δ — Critical |
 | **Element** | Grudge — Crimson |
 | **Maximum Amount** | 2 — Limited |
@@ -27,7 +28,7 @@
 
 ### Appearance
 
-The Embrace Fang is a crimson Han-iron blade curved inward like a hand closing around a wrist, its point reaching back toward the grip so that the whole weapon resembles an incomplete circle. The metal is warm at the grip and almost cold at the tip, and the temperature difference is strongest when an injured person is nearby. The grip is wrapped in dark crimson cord over a warm-hollowed core, with a shallow thumb rest on the outer curve. When the weapon is left unattended its point slowly angles toward the nearest injured person, as though the blade had already decided what it wants to reach. In shadow the inner curve holds a dull red glow that brightens in the presence of fleeing allies. The Fang is light for its length and balanced for a pulling cut rather than a swing, and it makes no sound until it draws a crimson line toward its bearer.
+The Embrace Talon is an articulated claw-gauntlet constructed from ossified maternal phalanges and braided crimson sinew, terminating in curved calcified talons that close inward like fingers locking around a wrist. The metal and bone core stays warm at the palm and feverish at the claw tips, throbbing noticeably when an injured or fleeing person is nearby. In shadow the inner curve radiates a dull crimson fever-glow. When swung in close quarters, the claws clamp violently shut upon contact, hooking deep into armor or flesh and dragging the target into point-blank reach while whispering muffled maternal endearments into the wielder's mind.
 
 ---
 
@@ -35,25 +36,25 @@ The Embrace Fang is a crimson Han-iron blade curved inward like a hand closing a
 
 | Field | Record |
 |---|---|
-| **Damage** | Grudge 10–15 |
-| **Speed** | 3 — Fast |
-| **Range** | 3 — Medium |
-| **Attack Pattern** | Pierce |
-| **Target Coverage** | One line through up to 3 targets who are moving away from the bearer’s protected zone |
-| **Falloff Rule** | Primary 100% → first pierced 70% → second pierced 50% |
-| **Recovery** | 3 seconds after a completed pull-cut |
+| **Damage** | Grudge 12–18 |
+| **Speed** | 4 — Fast |
+| **Range** | 1 — Close |
+| **Attack Pattern** | Snapping Clamp / Visceral Drag |
+| **Target Coverage** | One designated target at point-blank range |
+| **Falloff Rule** | 100% damage to the selected target; hooks and pulls target into Close range |
+| **Recovery** | 1.2 seconds between rapid vicious strikes |
 
 ### Signature Ability — Bring Them Back
 
-**Trigger:** An ally marked by the bearer is fleeing, falling, or being pulled away.
+**Trigger:** An ally marked by the bearer is fleeing, falling, or being pulled away; or a hostile target attempts to disengage.
 
-**Effect:** The Fang draws a crimson line toward the bearer. Against hostile targets, the line deals normal Pierce damage. Against a willing ally, it functions as a controlled short pull rather than damage.
+**Effect:** The Talon lashes forward with visceral sinew. Against hostile targets, the claws clamp shut and drag the enemy into point-blank reach, inflicting severe Grudge lacerations. Against a willing ally, it functions as an emergency tether pull.
 
-**Limit:** The Fang cannot distinguish care from possession. Repeated use on the same ally creates resistance and panic rather than comfort.
+**Limit:** The Talon cannot distinguish care from possession. Repeated use on the same ally creates resistance and panic rather than comfort.
 
 ### Wielder Cost
 
-Every use makes the bearer remember a person who left without returning. At three uses in one encounter, the bearer must pass a Composure check or refuse to let a nearby ally retreat.
+Every use makes the bearer remember a person who left without returning. At three uses in one encounter, the bearer must pass a Composure check or refuse to let any nearby ally retreat.
 
 ---
 

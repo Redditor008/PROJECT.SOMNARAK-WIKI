@@ -223,24 +223,24 @@ The escalation pattern is specific to The Orphaned Bell: it is not a generic bre
 
 ### M.A.W. Weapon — The Lament's Requiem
 
-**Type:** Weapon | **Grade:** δ | **Element:** Lament
+**Category:** MELEE (Resonating Greatsword) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
+**Appearance:** A slender, two-handed greatsword forged from resonant deep-blue Han-crystal, ground so thin that its edge appears weightless until brought against grief. Beneath the translucent crystalline plane, microscopic records of lost names drift in the rhythmic cadence of a distant toll. A soundless acoustic channel runs along the spine, glowing cold cerulean whenever recent loss is detected nearby. When swung, it displaces no air; rather, an unearthly toll echoes within the minds of all observers in the corridor.
 
-**Damage:** Lament 10–15
-**Speed:** 3 (Fast)
+**Damage:** Lament 12–18
+**Speed:** 2 (Slow)
 **Range:** 3 (Medium)
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Attack Pattern:** Pierce
-**Target Coverage:** Line; up to 3 targets total
+**Attack Pattern:** Wide Arc / Line Resonance
+**Target Coverage:** Linear corridor; up to 3 targets linked by grief or active Lament
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Damage Application:** Direct Lament trauma to Mind and emotional stability; applies Toll Resonance tick damage.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Orphaned Bell's lament signature in the strike.
+**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Tollcut channels The Orphaned Bell's lament signature, causing soundless shockwaves that shatter the composure of connected targets.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Cost:** The wielder feels the entity's unwept grief; three consecutive swings blur one personal childhood memory until written down or spoken aloud.
 
 ### M.A.W. Suit — The Lament's Shroud
 
