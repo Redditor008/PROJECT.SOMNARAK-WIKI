@@ -125,7 +125,7 @@ M.A.W. Armaments (`MAW-W`) belong to one of seven distinct categories. Weapons a
 - **Concept:** Ethereal artifacts that manipulate light, cosmic grief, soundlessness, or gravitational singularities.
 - **Silhouettes & Sub-types:**
   - *Prisms, Rings & Orreries:* Floating Astral Prisms, Gyroscopic Star Orreries, Gravitational Singularity Orbs, Refracting Halos, Signet Bands that project spatial gravity cones.
-  - *Levitating Formations:* Floating Pale Glass Shards orbiting the bearer, Luminous Light Shields, Prismatic Crescent Discs.
+  - *Spectral Implements & Levitating Arrays:* Phantom Gloves that telekinetically command multiple floating knives (e.g. 3 floating spirit daggers striking at Speed 4 Fast), Floating Pale Glass Shards, Luminous Light Shields.
 
 ### 4.6 MAGIC (Incantatory Catalysts, Ritual Foci & Grimoires)
 - **Concept:** Focused conduits that channel the bearer's Mind and the entity's sorrow frequency into directed psychic or elemental conflagrations.
@@ -138,6 +138,7 @@ M.A.W. Armaments (`MAW-W`) belong to one of seven distinct categories. Weapons a
 - **Silhouettes & Sub-types:**
   - *Jaws & Saws:* Snapping Bone-Jaws that bite and crush, Serrated Bone-Saws, Mandible Pincers, Chitin Cleavers.
   - *Talons, Tendrils & Flesh:* Rending Bone-Claw Gauntlets, Ossified Spine-Whips, Rib-Cage Bows, Tendon-Flails, Horn Pikes, and Living Bio-Spikes (rigid 1.2m calcified red marrow spikes that awaken and writhe as flexible, coiling muscular tendrils/tentacles when held by an Agent).
+  - *Bio-Ocular Implants:* Organic sorrow eyes that physically replace the Agent's own eye socket upon equip, casting an unblinking gaze that inflicts a continuous Room-Wide Han Drain on any entity in sight.
 
 ---
 
