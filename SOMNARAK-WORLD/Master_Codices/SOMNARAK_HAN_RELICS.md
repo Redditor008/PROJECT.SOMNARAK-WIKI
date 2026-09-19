@@ -1,5 +1,5 @@
 # SOMNARAK — Han Relics
-## Artifacts of the Before-Time
+## Artifacts of the Before-Time & Primordial Instruments
 
 > *"The Before-Time is not gone. It is buried — in the walls, in the ground, in the objects that survived. The relics remember what the city forgot."*
 
@@ -7,11 +7,9 @@
 
 ## Overview
 
-Han Relics are objects from the **Before-Time** — the era before the Consolihan, before the Cheongula, before the city was built on sorrow. These artifacts are not just old — they are *saturated* with Han from a time when sorrow was raw, unstructured, and infinite.
+Han Relics are objects connected to the deepest foundations of Mugenhan — spanning the enigmatic **Before-Time** (the primordial era prior to human settlement and the Consolihan) through the great gathering of grief that built Somnarak. These artifacts are not merely antique; they are *saturated* with Han from epochs when sorrow was raw, unstructured, infinite, or woven into the very fabric of physical reality.
 
-Each relic holds a fragment of the Before-Time — a memory, a truth, a secret that the city has buried. Finding them is dangerous. Using them is more dangerous. Destroying them is impossible.
-
-The relics are the closest thing Somnarak has to **quest objects** — items that drive narrative, reveal truth, and change the course of the story.
+Each relic holds a fragment of the past — a primordial law, a memory, a truth, or a secret that the Council and Directorate have sought to catalogue, exploit, or bury. Finding them is dangerous. Wielding them requires exceptional psychological fortitude or synthetic calibration. Destroying them is impossible.
 
 ---
 
@@ -19,73 +17,118 @@ The relics are the closest thing Somnarak has to **quest objects** — items tha
 
 ### The Nature of Relics
 
-Han Relics are not manufactured. They are *crystallized* — formed when the Before-Time's raw Han saturated an object, transforming it into something that is more than its material. A sword becomes a memory of war. A mirror becomes a window to the past. A key becomes a question that has no answer.
+Han Relics stand apart from manufactured municipal machinery and extracted equipment. They exist in two distinct metaphysical states:
+1. **Crystallized Manifestations:** Formed when immense, concentrated human sorrow saturated physical objects during historical crises, freezing raw emotion into matter.
+2. **Primordial Constructs:** Pre-Consolihan artifacts engineered or formed during the planet's unrecorded era, functioning according to closed, self-sustaining Han-lattice physics that modern science cannot replicate.
 
-**Properties:**
-- **Han-saturated** — each relic contains concentrated Han from the Before-Time
-- **Indestructible** — relics cannot be destroyed, only contained or hidden
-- **Resonant** — relics respond to sorrow, activating when near strong emotions
-- **Dangerous** — relics can Fracture those who use them without understanding
-- **Valuable** — relics are the most sought-after objects in Somnarak
-
-### The Origin
-
-The relics were created during the **Consolihan** — the great gathering of sorrow that stabilized the city. During the Consolihan, the settlers' collective grief crystallized into objects — tools, weapons, personal items, sacred objects. These crystallized items became the first Han Relics.
-
-The relics were scattered across the city as it grew — buried in walls, hidden in vaults, lost in the wilderness. Some were preserved by the Keepers. Some were stolen by the Frays. Some were forgotten entirely.
-
-### The Classification
-
-The Keepers classify Han Relics into four categories:
-
-| Category | Name | Description | Danger Level |
-|----------|------|-------------|--------------|
-| **Class I** | Echo Relics | Minor relics — contain fragments of memory or emotion | Low |
-| **Class II** | Sorrow Relics | Moderate relics — contain concentrated sorrow from specific events | Medium |
-| **Class III** | Legacy Relics | Major relics — contain the memories of important figures or events | High |
-| **Class IV** | Genesis Relics | Origin relics — contain the memories of the Consolihan itself | Critical |
+**Core Properties:**
+- **Han-Saturated:** Relics contain dense, stabilized Han that does not dissipate over millennia.
+- **Indestructible:** Relics cannot be permanently broken by conventional physical force or standard Han-weapons; they can only be contained, suppressed, or hidden.
+- **Harmonic Resonance:** Relics react violently to nearby psychological trauma, activating dormant properties when exposed to high sorrow density.
+- **Fracture Hazard:** Relics exert constant emotional pressure; unprotected human touch risks cognitive collapse or rapid crystallization.
+- **Absolute Permanence:** Unlike extracted armaments, relics do not degrade through usage or require daily caloric or emotional maintenance.
 
 ---
 
-## II. The Seven Great Relics
+### Threefold Material Taxonomy (유물 분류 체계)
 
-The most powerful Han Relics are known as the **Seven Great Relics** — artifacts from the Before-Time that hold the city's deepest secrets. Each relic is connected to a specific event, a specific person, or a specific truth that the city has buried.
+To prevent operational confusion within the Directorate and field teams, Somnarak's material technology is strictly delineated across three categories:
+
+| Category | Origin & Metaphysics | Degradation & Maintenance | User Synchronization | Key Exemplars |
+|---|---|---|---|---|
+| **Before-Time Primordial Artifacts** *(태고의 유물)* | Predates the Consolihan entirely; primordial Mugenhan origin; closed self-contained Han lattice | Absolute permanence; zero structural degradation; immune to entropy | Autonomous or neural signal bond; ignores standard Work Type affinities | *Unanswered* (Ishall's Paired Floating Hands) |
+| **Consolihan Crystallized Relics** *(합한 결정 유물)* | Formed during or after the Consolihan through intense human grief crystallization | Indestructible core; can enter dormancy if Han flow is starved | Resonates with human emotion; high risk of civilian Fracture | *The First Tear*, *The Founder's Seal*, *The Mourner's Mask* |
+| **Extracted M.A.W. Equipment** *(추출 장비)* | Materialized from contemporary Sorrow Entity cores via Directorate extraction technology | Subject to wear, physical fracture, and emotional rejection | Strictly governed by Work Type affinities (Flerehan, Pugnahan, etc.) | *The Balance Projector*, *The Lost Lens*, *Reaper Hungered* |
+
+---
+
+### Classification Matrix
+
+The Directorate and Archive classify relics according to their origin, resonance scale, and containment threat:
+
+| Category | Name | Description | Threat / Clearance |
+|---|---|---|---|
+| **Class I** | **Echo Relics** | Minor artifacts containing faint fragments of ambient memory or localized emotion | Low / Clearance 1 |
+| **Class II** | **Sorrow Relics** | Moderate relics saturated with concentrated grief from specific historical tragedies | Medium / Clearance 2 |
+| **Class III** | **Legacy Relics** | Major artifacts holding the direct memories, authority, or deeds of foundational figures | High / Clearance 3 |
+| **Class IV** | **Genesis & Sovereign Artifacts** | Primordial or foundational relics tied to the Consolihan, planetary physics, or sovereign authority | Critical (δ) / Clearance 4+ |
+
+---
+
+## II. Sovereign Before-Time & Genesis Relics
+
+The highest tier of artifacts in Somnarak consists of singular instruments that define reality, authority, and planetary containment.
+
+### Sovereign Artifact: Unanswered (무답 — Mudap, The Paired Primordial Hands)
+
+```text
++==============================================+
+| ARTIFACT DOSSIER: UNANSWERED (무답)          |
++==============================================+
+| Classification       | Sovereign Before-Time |
+| Category Rating      | Class IV / Critical-δ |
+| Current Bearer       | Echo-Core 8 (Ishall)  |
+| Operating Reach      | Range Band 4 & 5      |
+| Elemental Signature  | Void (Pale) & Grudge  |
+| Physical Connection  | None (Free Levitating)|
++==============================================+
+```
+
+**Classification:** Class IV — Sovereign Before-Time Artifact (δ — Critical)
+
+**What it is:** A unique pair of oversized, levitating five-fingered mechanical/mineral hands without wrists or forearms, each terminating at a closed circular cuff. The backs of the hands are composed of dark mineral-like plates worn smooth across uncounted centuries; their palms are stark Pale White, traversed by thin Crimson conductor channels that travel from the empty circular cuffs to the fingertips.
+
+**Origin & Provenance:**
+Excavated from deep pre-Consolihan abyssal strata beneath Sector 07. Untethered to civilian emotional grief, *Unanswered* belongs to Mugenhan's primordial era before the city was constructed. When the Directorate recovered and reconstructed Ishall's soul into her humanoid Android chassis, *Unanswered* was assigned to her command following successful neural frequency coupling. It remains separate equipment rather than biological or synthetic anatomy—Ishall possesses two fully functional Android hands of her own.
+
+**Properties & Tactical Capabilities:**
+- **Autonomous Suspension:** The hands hover independently behind and above Ishall's shoulders without physical cables, mechanical linkages, or visible Han crystals.
+- **Kinematic Speed & Range:** Moving with speed far exceeding humanoid kinematics, the hands engage targets across **Range Band 4 (Long, 12–25m)** and **Range Band 5 (Room, 25m+)**.
+- **Area-of-Effect & Piercing Falloff:** Standard kinetic strikes and crushing waves follow the canonical **100% → 70% → 50%** falloff formula.
+- **Closed Ground (폐쇄 영역):** When both hands take opposite positions in an enclosed chamber and turn their Pale White palms inward, they generate an omnidirectional Room-range area-denial field. Within this field, all external Han-wave communications are severed and Han-assisted rapid movement is nullified.
+- **Converging Refusal (수렴 거부):** The hands bracket an area from opposite angles and snap shut, generating a localized spatial implosion of Pale White Void and Crimson Grudge that crushes armor, constructs, and flesh.
+- **Autonomous Primordial Awakening:** If Ishall's neural bond is severed (as observed during Core Suppression Phase II), *Unanswered* detaches into an untethered primordial state, establishing an arena-wide Void singularity until physically reached and manually recalibrated to her restored human will.
+
+**Narrative Function:**
+*Unanswered* is the physical embodiment of unreciprocated calls and unacknowledged responsibility. As Xyan transmits warnings from the Desolate that the Directorate logs but refuses to answer, Ishall carries artifacts named for the institutional silence that erased her past—transforming absence into an instrument that protects rather than erases.
+
+---
 
 ### Relic 1: The First Tear (첫 번째 눈물 — Cheot Beonjjae Nunmul)
 
 **Classification:** Class IV — Genesis Relic
 
-**What it is:** A single tear — crystallized, ancient, glowing with faint blue light. The First Tear is the first sorrow ever felt on Mugenhan — the first moment of grief, preserved forever.
+**What it is:** A single tear — crystallized, ancient, glowing with a faint, ceaseless deep blue luminosity. The First Tear represents the first sorrow ever felt on Mugenhan — the foundational moment of human grief preserved across millennia.
 
-**Origin:** The First Tear was shed by the first settler to die on Mugenhan — a woman whose name has been erased from the Archive. She died of Han exposure — the first casualty of the planet's sorrow. Her final tear crystallized before it hit the ground.
+**Origin:** Shed by the first human settler to perish on Mugenhan — an unnamed woman whose identity was lost during the Archive's earliest purges. She succumbed to atmospheric Han exposure, becoming the first casualty of the planet's sorrow. Her final tear crystallized before touching the soil.
 
 **Properties:**
-- The tear is warm to the touch — but the warmth is not physical. It is *emotional*.
-- Anyone who touches the tear feels every sorrow ever felt on Mugenhan — a moment of absolute grief.
-- The tear cannot be destroyed. It cannot be contained. It can only be *hidden*.
+- Emits a gentle warmth that is psychological rather than thermodynamic.
+- Anyone establishing physical contact experiences the collective emotional weight of Mugenhan's history — a staggering wave of pure Lament.
+- Indestructible and uncontainable by standard magnetic or kinetic vats; can only be shielded within specialized resonance chambers.
 
-**Location:** Sealed in the Alpha Tree's deepest vault — behind the Final Door.
+**Location:** Sealed within the Alpha Tree's deepest root vault beneath Floor 1, guarded by Director Majin and Secretary Seiyon.
 
-**Narrative function:** The First Tear is the key to understanding the city's emotional foundation. Whoever holds the tear understands the full weight of Somnarak's sorrow — and can choose to carry it or release it.
+**Narrative Function:** The First Tear serves as the harmonic anchor for Facility 01's extraction grid. Whoever holds the tear comprehends the emotional origin of the city's sorrow and holds the authority to channel or release the planetary flow.
 
 ---
+
+## III. The Great Legacy & Sorrow Relics
+
+The remaining Great Relics govern municipal legitimacy, historical truth, economic obligation, and spatial geography:
 
 ### Relic 2: The Founder's Seal (창시자의 인장 — Changsija-ui Injang)
 
 **Classification:** Class III — Legacy Relic
 
-**What it is:** A seal — massive, made of dark Han-crystal, bearing the mark of the city's founder. The seal was used to authorize the Consolihan — the gathering of sorrow that stabilized the city.
-
-**Origin:** The Founder's Seal was created by the first Council — the group of settlers who decided to harness the planet's Han. The seal was used to mark official documents, to authorize decisions, to bind the city together.
+**What it is:** A massive signet crafted from black Han-crystal, bearing the deep relief crest of the city's founding administration. The seal authorized the original Consolihan accords that established Somnarak.
 
 **Properties:**
-- The seal resonates with authority — anyone who holds it commands respect, even from enemies.
-- The seal contains the Founder's final words — a message that has never been decoded.
-- The seal can authorize actions that would otherwise be forbidden — including Taboo exceptions.
+- Resonates with absolute executive authority; commands instinctive compliance even among hostile factions.
+- Encodes an encrypted, unread message left by the First Council.
+- Possesses legal and metaphysical bypass authority, granting temporary suspension of municipal Taboos.
 
-**Location:** Held by the Council of Sighs — passed from generation to generation.
-
-**Narrative function:** The Founder's Seal is the key to the Council's legitimacy. Whoever holds the seal holds the authority to make decisions that bind the city. The seal also contains a secret — the Founder's true intentions for the city.
+**Location:** Retained by the Council of Sighs, rotated among the Five Heads under heavy Giltong guard.
 
 ---
 
@@ -93,18 +136,14 @@ The most powerful Han Relics are known as the **Seven Great Relics** — artifac
 
 **Classification:** Class III — Legacy Relic
 
-**What it is:** A mask — beautiful, translucent, made of crystallized tears. The mask was worn by the first Mourner — the citizen who led the Consolihan's mourning rituals.
-
-**Origin:** The Mourner's Mask was created during the Consolihan — crystallized from the tears of the thousand citizens who gathered to mourn. The mask was worn by the Mourner — a citizen whose identity has been erased from the Archive.
+**What it is:** A translucent, porcelain-like mask crystallized from the tears of the thousand mourners who conducted the Consolihan's inaugural stabilization rites.
 
 **Properties:**
-- The mask allows the wearer to see the dead — not as ghosts, but as memories. The wearer sees the city's history as if it were happening now.
-- The mask suppresses the wearer's own emotions — they feel nothing, only the sorrow of others.
-- The mask cannot be removed by the wearer — only by someone else.
+- Grants the wearer the ability to perceive residual emotional memories woven into physical architecture, viewing past events as transparent physical echoes.
+- Completely numbs the wearer's subjective emotional capacity, replacing personal feeling with the collective sorrow of others.
+- Cannot be unfastened by the wearer's own hands; must be removed by an external observer.
 
-**Location:** Lost — the mask disappeared after the Consolihan. Some say it is in the Maw. Some say it is in the Echo Gardens. Some say it is still being worn.
-
-**Narrative function:** The Mourner's Mask is the key to understanding the Consolihan. Whoever wears the mask sees the truth about the city's founding — including the Cheongula.
+**Location:** Unrecorded. Rumored to be lost in the depths between Floor 2 (The Maw) and the abandoned upper Echo Gardens.
 
 ---
 
@@ -112,19 +151,14 @@ The most powerful Han Relics are known as the **Seven Great Relics** — artifac
 
 **Classification:** Class III — Legacy Relic
 
-**What it is:** A ledger — massive, made of crystallized obligation, containing the records of every debt ever incurred in Somnarak. The ledger is not a book — it is a *record* of the city's economic foundation.
-
-**Origin:** The Debt Ledger was created by the first Collectors — the citizens who established the debt system. The ledger was used to track obligations, to enforce payments, to manage the city's sorrow output.
+**What it is:** A monumental tome composed of crystallized obligation, recording every financial and emotional debt incurred since Somnarak's inception.
 
 **Properties:**
-- The ledger contains every debt ever incurred — including debts that have been erased, forgotten, or hidden.
-- The ledger can create new debts — writing a name in the ledger creates an obligation.
-- The ledger can erase debts — crossing out a name removes the obligation.
-- The ledger is alive — it grows as new debts are created, shrinking as debts are paid.
+- Documents every civic and personal debt, including expunged, forgotten, or redacted records.
+- Psychologically binds individuals whose names are inscribed, enforcing behavioral compliance through Weight resonance.
+- Inscribing or striking a name physically alters municipal ledger lines across Collector's Row.
 
-**Location:** Held by the Collectors — stored in a vault beneath Collector's Row.
-
-**Narrative function:** The Debt Ledger is the key to the city's economic system. Whoever controls the ledger controls the debt — and the debt controls the city. The ledger also contains a secret — the original debt that started the system.
+**Location:** Secured in the deep vaults beneath Collector's Row, managed by the High Collectors.
 
 ---
 
@@ -132,18 +166,14 @@ The most powerful Han Relics are known as the **Seven Great Relics** — artifac
 
 **Classification:** Class II — Sorrow Relic
 
-**What it is:** A thread — thin, shimmering, made of crystallized dreams. The thread connects the waking world to the Dream realm — a physical link between reality and the subconscious.
-
-**Origin:** The Dreamer's Thread was spun by the first Weaver — a citizen who discovered the Dream realm and created a way to access it. The thread was the first connection between Somnarak and the Dream.
+**What it is:** A gossamer, iridescent thread of crystallized dream-matter linking waking physical reality to the subterranean Dream realm.
 
 **Properties:**
-- The thread allows the holder to enter the Dream realm — physically, not just mentally.
-- The thread can weave illusions — creating temporary realities from dreams.
-- The thread can unravel — if pulled too hard, it breaks, severing the connection to the Dream.
+- Allows physical traversing into the Dream realm without undergoing narcotic sedation or neural sleep.
+- Capable of weaving transient physical barriers and illusions out of subconscious memories.
+- Highly delicate; excessive strain risks severing the user's conscious tether to their waking body.
 
-**Location:** Held by the Weavers — kept in a hidden chamber beneath the Dream Gates.
-
-**Narrative function:** The Dreamer's Thread is the key to the Dream realm. Whoever holds the thread can access the Dream — and the Dream contains truths that the waking world has forgotten.
+**Location:** Held by the Weavers in the secluded sanctum beneath the Dream Gates.
 
 ---
 
@@ -151,18 +181,14 @@ The most powerful Han Relics are known as the **Seven Great Relics** — artifac
 
 **Classification:** Class II — Sorrow Relic
 
-**What it is:** A compass — ancient, made of crystallized intent, pointing not north but toward the nearest source of sorrow. The compass was the first tool used to map the city's Han-flow.
-
-**Origin:** The Architect's Compass was created by the first Architect — the citizen who designed the city's layout. The compass was used to find the safest places to build — and the most dangerous places to avoid.
+**What it is:** An ancient, brass-and-crystal instrument whose needle points not toward magnetic north, but toward the nearest concentrated epicenter of Han energy.
 
 **Properties:**
-- The compass points toward sorrow — guiding the holder to the nearest source of Han.
-- The compass can map Han-flow — showing the invisible currents of sorrow that run through the city.
-- The compass can predict Han-storms — warning the holder of incoming surges.
+- Accurately tracks subterranean Han currents, tectonic shifts, and structural fault lines across all city zones.
+- Predicts incoming Han-storms and resonance surges hours before atmospheric barometers register changes.
+- Maps forgotten conduits and abandoned drainage tunnels beneath the municipal crust.
 
-**Location:** Lost — the compass disappeared during the city's second expansion. Some say it is buried in Zone B. Some say it is in the Desolate.
-
-**Narrative function:** The Architect's Compass is the key to understanding the city's layout. Whoever holds the compass can see the Han-flow — and the Han-flow reveals the city's hidden structure.
+**Location:** Preserved within Floor 6 (Archive Lead Marjuk's Stasis Vault), referenced during sector route planning.
 
 ---
 
@@ -170,126 +196,80 @@ The most powerful Han Relics are known as the **Seven Great Relics** — artifac
 
 **Classification:** Class III — Legacy Relic
 
-**What it is:** A key — massive, made of dark Han-crystal, bearing the mark of the Exile's Gate. The key opens the Gate — the passage between Somnarak and the Desolate.
-
-**Origin:** The Exile's Key was created by the Council — to seal the Exile's Gate after the Exile was cast out. The key was given to the Gate Watch — the Wardens who guard the border.
+**What it is:** A heavy, blackened Han-crystal key forged to seal the Exile's Gate, separating the protected municipal zones from the hazardous Desolate.
 
 **Properties:**
-- The key opens the Exile's Gate — allowing passage between Somnarak and the Desolate.
-- The key can seal the Gate — preventing anyone from entering or leaving.
-- The key resonates with the Exile — if the Exile touches the key, the Gate opens automatically.
+- Directly interfaces with the monumental mechanical locks of the boundary wall in Zone E.
+- Generates an impenetrable barrier seal when turned counter-clockwise in the gate's core housing.
+- Resonates in sympathetic vibration whenever Echo-Core 9 (Xyan, The Exile) approaches the municipal perimeter.
 
-**Location:** Held by the Gate Watch — kept in a vault beneath Zone E.
-
-**Narrative function:** The Exile's Key is the key to the Desolate. Whoever holds the key controls access to the wilderness — and the wilderness contains truths that the city has buried.
+**Location:** Stationed at Floor 8 (The Boundary Vanguard) under the joint watch of Warden Lead Mellda and the Gate Wardens.
 
 ---
 
-## III. Minor Relics
+## IV. Minor Relics Catalog
 
 ### Class I — Echo Relics
 
-| Relic | Description | Location |
-|-------|-------------|----------|
-| **The Whispering Stone** | A stone that whispers the names of the dead | Echo Gardens |
-| **The Tear Pendant** | A pendant that makes the wearer weep | Collector's Row |
-| **The Memory Shard** | A shard that shows fragments of forgotten memories | Grand Archive |
-| **The Sorrow Coin** | A coin that weighs exactly as much as the holder's grief | Collector's Row |
-| **The Dream Fragment** | A fragment of the Dream realm that has crystallized | Dream Gates |
-| **The Han Lantern** | A lantern that glows near sources of sorrow | Zone B |
-| **The Debt Token** | A token that represents a single unit of obligation | Collector's Row |
-| **The Veil Thread** | A thread from the Veil that suppresses emotion | Mender's Workshop |
+| Relic | Metaphysical Nature | Primary District / Location | Operational Utility |
+|---|---|---|---|
+| **The Whispering Stone** | Trapped vocal memories of the deceased | Echo Gardens | Decodes lost verbal frequencies |
+| **The Tear Pendant** | Saturated mineral pendant inducing weeping | Collector's Row | Calibrates Lament Work Type gear |
+| **The Memory Shard** | Fragmented ocular glass reflecting the past | Grand Archive | Restores corrupted archive logs |
+| **The Sorrow Coin** | Weight fluctuates based on holder's grief | Collector's Row | Currency in restricted undergrounds |
+| **The Dream Fragment** | Solidified ambient dream residue | Dream Gates | Stabilizes sedative medical wards |
+| **The Han Lantern** | Luminescent wick fueled by nearby sorrow | Zone B Outskirts | Provides illumination in zero-power sectors |
+| **The Debt Token** | Token marking a single unit of civic obligation | Collector's Row | Grants temporary passage across toll bridges |
+| **The Veil Thread** | Fine filament that dampens emotional output | Mender's Workshop | Calms agitated containment subjects |
 
 ### Class II — Sorrow Relics
 
-| Relic | Description | Location |
-|-------|-------------|----------|
-| **The Mourner's Bell** | A bell that tolls for the dead | Echo Gardens |
-| **The Debt Chain** | A chain that binds the holder to their obligation | Collector's Row |
-| **The Dream Mirror** | A mirror that shows the holder's subconscious | Dream Gates |
-| **The Han Compass** | A compass that points toward sorrow | Architect's Hall |
-| **The Memory Lock** | A lock that seals memories | Grand Archive |
-| **The Sorrow Seed** | A seed that grows into a Sorrow Entity | Echo Gardens |
-| **The Veil Needle** | A needle that repairs the Veil | Mender's Workshop |
-| **The Exile's Map** | A map of the Desolate | Zone E |
+| Relic | Metaphysical Nature | Primary District / Location | Operational Utility |
+|---|---|---|---|
+| **The Mourner's Bell** | Resonant acoustic bell tuned to grief | Echo Gardens | Stuns hostile entities with Lament pulses |
+| **The Debt Chain** | Heavy links that tighten when promises are broken | Collector's Row | Restrains physical entity manifestations |
+| **The Dream Mirror** | Reflects subconscious dread rather than light | Dream Gates | Reveals hidden psychological fractures |
+| **The Han Compass** | Miniature variant of the Architect's instrument | Architect's Hall | Navigates uncharted undercity sewers |
+| **The Memory Lock** | Complex tumblers that seal sensitive memories | Grand Archive | Shields operatives from cognitive hazards |
+| **The Sorrow Seed** | Dormant crystal seed capable of spawning Echoes | Deep Gardens | Cultivates controlled experimental Han flora |
+| **The Veil Needle** | Surgical needle used to weave psychological mists | Mender's Workshop | Repairs structural breaches in the Veil |
+| **The Exile's Map** | Shifting parchment displaying Desolate terrain | Zone E Outpost | Identifies safe migratory paths through raw Han |
 
 ---
 
-## IV. How Relics Are Used
+## V. Institutional Custody & Subterranean Vaults
 
-### For Storytelling
+Relics are not distributed casually; they are fiercely contested across Somnarak's dominant institutions:
 
-Han Relics are **quest objects** — items that drive narrative, reveal truth, and change the course of the story. Each relic is connected to a specific mystery, a specific character, or a specific event.
+### The Reverie Directorate (R.D.)
+- **Research & Deployment:** The R.D. studies relics to calibrate containment fields and develop advanced extraction frameworks.
+- **Deep Vaults:** The lowest floors of Facility 01 house the most volatile artifacts, including *Unanswered* (Floor 7) and *The First Tear* (Floor 1).
+- **Echo-Core Integration:** Certain relics interface directly with the cybernetic and android neural systems of Department Heads.
 
-**Example quests:**
-- Find the Architect's Compass to map the Han-flow and predict the next Han-storm
-- Retrieve the Mourner's Mask to see the truth about the Consolihan
-- Open the Exile's Gate to contact the Exile and learn about the Desolate
-- Steal the Debt Ledger to erase the city's debts and free the citizens
-- Use the Dreamer's Thread to enter the Dream realm and find forgotten memories
+### The Sorrow Extraction Department (SED)
+- **Excavation Operations:** The SED's deep extraction rigs frequently unearth buried pre-Consolihan artifacts in the Undercity and Forgotten Sectors.
+- **Quota Disputes:** SED leadership views relics as high-density energy caches, frequently clashing with Directorate researchers who demand relics remain intact for study.
 
-### For The SED
+### The Underworld Containment Division (UCD)
+- **Black Market Interdiction:** The UCD tracks illicit relic trafficking across Collector's Row, raiding Fray dens and criminal auctions to prevent dangerous Class II and III relics from falling into civilian hands.
 
-The SED encounters relics during exploration — finding them in the Undercity, the Forgotten Districts, the Deep Gardens. Each relic reveals a fragment of the Before-Time.
-
-### For The UCD
-
-The UCD encounters relics in the underworld — Frays selling them, Collectors hoarding them, citizens desperate enough to buy them. Each relic has a price.
-
-### For The R.D.
-
-The R.D. studies relics — analyzing their Han-content, decoding their memories, understanding their power. Each relic is a research project.
+### The Council of Sighs
+- **Civic Monopoly:** The Council claims legal ownership of all Consolihan-era relics, using the *Founder's Seal* and *Debt Ledger* to enforce municipal governance.
 
 ---
 
-## V. The Danger of Relics
+## VI. Hazards & Fracture Risks
 
-### Fracture Risk
+Wielding or storing Han Relics involves severe operational risks:
 
-Han Relics are dangerous. They contain concentrated sorrow from the Before-Time — sorrow that has been building for 6,000 years. Anyone who uses a relic without understanding risks Fracture.
-
-**Fracture triggers:**
-- Touching a Class IV relic without preparation
-- Using a relic for selfish purposes
-- Attempting to destroy a relic
-- Ignoring a relic's warnings
-
-### The Collector's Market
-
-Han Relics are the most valuable objects in Somnarak — more valuable than Echoes, more valuable than memories, more valuable than life itself. The black market for relics is thriving — Frays steal them, Collectors hoard them, citizens desperate enough to buy them.
-
-**The danger:** Relics in the wrong hands can destabilize the city. A relic used for profit can cause more harm than a relic used for understanding.
+1. **Psychological Erosion:** Relics radiate an unbroken field of ancient emotional memory. Personnel exposed without high Clarity or Composure experience progressive sensory disorientation, insomnia, and hallucinatory déjà vu.
+2. **Crystallization Descent:** Sustained physical contact with Class III or IV relics can trigger involuntary crystallization, converting biological tissue into brittle Han-crystal.
+3. **Harmonic Cascades:** Multiple relics stored in close proximity can synchronize their resonance frequencies, causing localized reality distortions, gravity inversions, and spontaneous Sorrow Entity manifestations.
 
 ---
 
-## VI. The Narrative Function
+## VII. The Ultimate Narrative Horizon
 
-### Quest Objects
+In the grand narrative of Somnarak, Han Relics are not mere collectibles—they are the physical fragments of the world's forgotten origin. 
 
-Han Relics are the closest thing Somnarak has to **quest objects** — items that drive narrative, reveal truth, and change the course of the story. Each relic is connected to a specific mystery:
-
-| Relic | Mystery |
-|-------|---------|
-| **The First Tear** | What was the first sorrow? |
-| **The Founder's Seal** | What did the Founder intend? |
-| **The Mourner's Mask** | What happened during the Consolihan? |
-| **The Debt Ledger** | What is the original debt? |
-| **The Dreamer's Thread** | What is the Dream realm? |
-| **The Architect's Compass** | What is the city's true layout? |
-| **The Exile's Key** | What lies beyond the Gate? |
-
-### The Ultimate Quest
-
-The Seven Great Relics, when gathered together, reveal the **truth about Somnarak** — the city's founding, the Consolihan, the Cheongula, and the path forward.
-
-The relics are the key to the Absolvohan — Director Majin's hidden plan. The relics are the key to the city's redemption — or its destruction.
-
-The relics are the story.
-
----
-
-*"The Before-Time is not gone. It is buried — in the walls, in the ground, in the objects that survived. The relics remember what the city forgot. And the city forgot everything."*
-
-— Archive Lead Marjuk, Fragment 7,001 (classified)
-
----
+When gathered and aligned through the Directorate's subterranean architecture, the Great Relics unlock the truth behind the Cheongula sacrifice and establish the harmonic alignment necessary to initiate **Absolvohan**—the dawn that will finally dissolve Somnarak's cycle of sorrow.
