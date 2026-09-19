@@ -28,7 +28,9 @@
 
 ### Appearance
 
-The Judgment Plate is a heavy crimson harness of overlapping Han-iron plates fitted tight across the chest, ribs, and shoulders with narrow black straps. Each plate is cut along a sharp diagonal, so the whole surface reads as a set of angled scales rather than a smooth cuirass. A single seam runs down the centre plate, pale and grey, and hardens whenever the bearer stands between an accused target and a hostile attack. The Plate absorbs low-to-medium Grudge pressure and holds the force as heat along its crimson seams, which grow warm to the touch without glowing. The harness is difficult to remove quickly and does not loosen until the bearer's reflexes begin to dull. Once a first judgment is made, the plates resist revision, and every new fact starts to feel like an attack on a verdict already reached. The harness is stored with the straps crossed, and the centre seam is checked for warm spots before every breach deployment.
+Appearance : A tailored charcoal-grey watchman’s greatcoat lined with dense raven-black down feathers and trimmed in antique bronze braiding. It fastens down the breast with twin rows of stamped scale-weight buttons.
+
+Dense layers of compacted corvid down beneath the woolen shell cushion incoming blunt trauma and absorb Grudge impacts. Miniature bronze balance feathers dangle from the shoulder epaulets, shifting weight to offset concussive kinetic shockwaves.
 
 ### Ability— Hold the Scale
 

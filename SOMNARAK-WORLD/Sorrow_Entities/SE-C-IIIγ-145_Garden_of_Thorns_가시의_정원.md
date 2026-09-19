@@ -198,53 +198,66 @@ The escalation pattern is specific to Garden of Thorns: it is not a generic brea
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Thorn Fang
+### M.A.W. Weapon — The Briar-Spool Needle Gun
 
-**Type:** Weapon | **Grade:** γ | **Element:** Grudge
-
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that glows along its edge when readied.
-
-**Damage:** Grudge 7-12
-**Speed:** 3 (Fast)
-**Range:** 3 (Medium)
+**Category:** RANGE / GUN SHAPE (Pneumatic Harpoon Needle Gun & Rotary Briar Spool)
+**Grade:** γ | **Element:** Grudge
+**Damage:** Grudge 11–17
+**Speed:** 3 (Normal)
+**Range:** 4 (Long: 5–20m pneumatic harpoon)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Garden of Thorns's grudge signature in the strike.
+**Attack Pattern:** Harpoon Puncture / Tensile Wire Tether
+**Target Coverage:** Single designated target line
+**Falloff Rule:** 100% damage to harpooned target.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+Appearance : A 105cm heavy pneumatic rifle forged from tarnished brass tubing and dark rosewood, mounting an exposed rotary spool of barbed iron briar-cables beneath the receiver. It shoots barbed iron harpoon needles across Range 4.
 
-### M.A.W. Suit — The Thorn Plate
+Pressurized sorrow air drives a thirty-centimeter fluted thorn harpoon through the muzzle with a sharp mechanical hiss, trailing high-tensile briar wire from the spinning brass spool. The barbed tip impales flesh or armor, allowing the wielder to yank targets into close range.
 
-**Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
+**Special Move Set:**
+- *Primary Kinematics — "Harpoon Puncture":* Pneumatic valve release propels a 30cm fluted iron thorn harpoon across Range 4; barbed teeth bury deep into target flesh or armor plating, dealing heavy Grudge puncture damage.
+- *Active Special — "Winch & Lacerate":* After impaling an enemy, the wielder engages the rotary brass spool lock with a foot press. The spool spins backward with a screaming gear whine, rapidly retracting high-tensile briar wire to drag the impaled target 6 meters toward the wielder while tearing open wounds for 160% Grudge damage and inflicting "Crippled Tendon".
+- *Cost & Drawback:* High pneumatic kickback wrenches the wielder's shoulder; briar cable friction can snap stray wire sparks.
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that tightens near its source element.
+### M.A.W. Suit — The Thorny Bramble Hauberk
+
+**Category:** Protective Attire (Interlocking Iron Wire & Flexible Briar Vine Mail)
+**Grade:** γ | **Element:** Grudge
+
+Appearance : A thigh-length hauberk woven from interlocking black iron wire intertwined with dried, flexible briar vines and needle-sharp thorns. It is worn over a thick buff leather undertunic.
+
+Petrified rose briars spiral across the iron chain links, reinforcing key impact zones along the shoulders and ribcage. Striking the armor causes briar thorns to snap outward violently, deflecting blades and lacerating melee attackers with reciprocal Grudge trauma.
 
 **Resistances:**
-- Grudge: 0.4 (Resistant)
+- Grudge: 0.5 (Endured)
 - Lament: 1.0 (Normal)
-- Weight: 1.2 (Weak)
-- Void: 1.8 (Weak)
+- Void: 1.3 (Weak)
+- Weight: 1.0 (Normal)
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Garden of Thorns's kind of pressure.
+**Ability:** *Reciprocal Barbs* — Reflects 30% of incoming melee physical damage back to the attacker as piercing Grudge laceration.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The wearer experiences continuous minor prickling against their ribs and shoulders.
 
-### M.A.W. Gift — The Thorn Crown
+### M.A.W. Gift — The Piercing Briar Coronet
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Grudge
+**Category:** Stigma (Head / Brow Inward-Facing Thorn Circlet)
+**Grade:** γ | **Element:** Grudge
 
-**Appearance:** a circlet of crimson Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+Appearance : A circular brow circlet fashioned from three entwined strands of blackened bronze briar, bearing twenty inward-facing thorn barbs that rest against the temple skin.
 
-**Slot:** Tail
+The sharp metallic thorns prick the forehead upon activation, channeling a steady pulse of painful alertness that sharpens tactical focus. The constant minor ache grants the bearer complete immunity to confusion, trance, and sleep inducements.
+
+**Slot:** Head / Brow
 **Acquisition Probability:** 4%
 **Effect:** +2 stat bonus when working the source entity
 
-**Ability:** Converts emotional pain into defensive thorns.
+**Ability:** *Vigilant Pain* — Total immunity to Sleep, Stun, and Trance effects; grants +2 Fortitude during sustained engagements.
 
-**Cost:** The wearer hurts anyone who approaches too closely.
+**Cost:** The coronet leaves small red puncture dots across the hairline when unequipped.
 
 *Gifts are granted at random by the entity upon a successful work, not manufactured.*
 

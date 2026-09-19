@@ -176,53 +176,66 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Ember Requiem
+### M.A.W. Weapon — The Cinder-Breech Carbine
 
-**Type:** Weapon | **Grade:** β | **Element:** Lament
-
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
-
-**Damage:** Lament 5-9
-**Speed:** 2 (Normal)
-**Range:** 2 (Short)
+**Category:** RANGE / GUN SHAPE (Flintlock Cinder Carbine & Brass Hearth-Hopper)
+**Grade:** β | **Element:** Lament
+**Damage:** Lament 6–11
+**Speed:** 3 (Normal)
+**Range:** 4 (Long: 6–18m standoff)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Ember Child's lament signature in the strike.
+**Attack Pattern:** Incandescent Cinder Blast / Area Spark Igniter
+**Target Coverage:** Forward cone; up to 3 targets
+**Falloff Rule:** Primary impact 100% → peripheral spark targets 60%.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+Appearance : An 85cm short-barreled trench carbine assembled from fire-charred ash wood and riveted iron plates, featuring an open top-loading furnace hopper. It discharges incandescent coal embers that explode into scattering orange sparks.
 
-### M.A.W. Suit — The Ember Shroud
+The brass firing breech stays perpetually red-hot, venting thin plumes of grey chimney smoke from side louvers. Squeezing the iron lever-action trigger ejects spent slag cartridges, launching three high-velocity embers that detonate on contact to inflict burning Lament trauma across Range 4.
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
+**Special Move Set:**
+- *Primary Kinematics — "Cinder Volley":* Lever-action cycle feeds glowing coals into the firing chamber; a burst of compressed steam-combustion propels incandescent ember pellets across Range 4, igniting target armor with burning Lament damage.
+- *Active Special — "Hearth-Break Shrapnel":* The wielder dumps the entire furnace hopper into the superheated chamber and fires directly into a cluster of enemies at Range 4. The detonation unleashes a 5-meter expanding cloud of blinding ash and whistling white-hot coal shrapnel. Afflicts all caught targets with "Cinder-Blindness" and continuous burn for 4 seconds.
+- *Cost & Drawback:* Scorching heat vents from the side louvers, singeing the wielder's gloves and raising their body temperature.
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+### M.A.W. Suit — The Hearth-Watcher's Ashen Cloak
+
+**Category:** Protective Attire (Fire-Retardant Spun Asbestos & Coarse Ash Wool)
+**Grade:** β | **Element:** Lament
+
+Appearance : A heavy hooded cape tailored from fire-retardant spun asbestos and coarse mountain wool, dusted with permanent coal ash. It clasps at the collar with a forged cast-iron grate hook.
+
+The lower hem is singed into permanent glowing charcoal edges that never burn through the dense fabric. Microscopic heat pockets woven throughout the lining shield the wearer from freezing cold and disperse explosive thermal shockwaves outward.
 
 **Resistances:**
-- Grudge: 1.0 (Normal)
-- Lament: 0.4 (Resistant)
-- Weight: 0.8 (Endured)
-- Void: 1.6 (Weak)
+- Lament: 0.6 (Endured)
+- Grudge: 0.8 (Endured)
+- Void: 1.5 (Weak)
+- Weight: 1.0 (Normal)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Ember Child's kind of pressure.
+**Ability:** *Insulating Embers* — Grants total immunity to freeze/frost debuffs and converts 15% of absorbed Lament damage into warm SP recovery.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The cloak constantly leaves soot marks on hands and gear.
 
-### M.A.W. Gift — The Ember Cloak
+### M.A.W. Gift — The Smoldering Charcoal Brooch
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Lament
+**Category:** Stigma (Neck / Collar Smoldering Coal Setting)
+**Grade:** β | **Element:** Lament
 
-**Appearance:** a cloak-clasp of deep-blue Han-crystal, cool and faintly luminous, warm to the touch.
+Appearance : A rough nugget of petrified coal secured in an iron prong brooch setting, worn pinned over the collar. It radiates gentle radiant warmth through the bearer’s coat.
 
-**Slot:** Tail
+A dormant orange ember pulses deep within the fractured black mineral, glowing brighter whenever the wielder takes physical or emotional damage. It provides constant internal comfort, mitigating panic and sub-zero environmental penalties.
+
+**Slot:** Neck / Collar
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity
 
-**Ability:** Protects against physical and emotional cold.
+**Ability:** *Warmth in Ash* — Bearer regains +1 SP every 5 seconds while in combat; immunity to hypothermia and shivering penalties.
 
-**Cost:** Draws warmth from the wearer's memories; happy memories fade slightly with use.
+**Cost:** The skin beneath the brooch becomes warm and faintly discolored by fine ash.
 
 *Gifts are granted at random by the entity upon a successful work, not manufactured.*
 

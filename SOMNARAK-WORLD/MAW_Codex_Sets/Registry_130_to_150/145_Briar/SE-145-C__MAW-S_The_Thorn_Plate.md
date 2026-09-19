@@ -16,9 +16,9 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Thorn Plate |
+| Official name | The Thorny Bramble Hauberk |
 | Set | Protected Bloom |
-| Type / grade / element | Suit / γ — Major / Grudge — Crimson |
+| Type / grade / element | Protective Attire (Interlocking Iron Wire & Flexible Briar Vine Mail) / γ / Grudge |
 | Status | Active; safe-approach plan required |
 | Maximum amount | 3 — Standard |
 | Current bearer | Agent Minho Ashford |
@@ -36,7 +36,9 @@ The Plate formed after a naturally shed thorn curled around an uncut memorial fl
 
 ## Appearance
 
-The Thorn Plate is a crimson plate harness of Han iron fitted over the torso, shoulders, and lower ribs, with shallow thorn lines pressed flat against the metal. The plates are unpolished and warm where they sit against the body, and one marked gap stays open at the side so a safe-approach person can reach the wearer. When Grudge pressure approaches, the thorns rise around the wearer's boundary and leave that single gap clear. The gap appears only after the wearer names a person they do not want the armor to hurt, and the safe person may order the thorns lowered at any time. The passive protection endures direct Grudge pressure while a controlled approach path lets contact, care, or retreat occur without dismantling the entire defense. Reflexes dull as resentment becomes armor, and the armor is never honed to make its thorns sharper. If every approach is treated as hostile, the thorns turn inward and resistance returns to normal. The safe person touches the gap marker and releases the shoulder catches during shutdown.
+Appearance : A thigh-length hauberk woven from interlocking black iron wire intertwined with dried, flexible briar vines and needle-sharp thorns. It is worn over a thick buff leather undertunic.
+
+Petrified rose briars spiral across the iron chain links, reinforcing key impact zones along the shoulders and ribcage. Striking the armor causes briar thorns to snap outward violently, deflecting blades and lacerating melee attackers with reciprocal Grudge trauma.
 
 ## PROTECTION STATISTICS
 

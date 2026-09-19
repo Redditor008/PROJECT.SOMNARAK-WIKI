@@ -85,15 +85,15 @@ This set protects against cold and isolation without pretending that equipment c
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Ember Requiem | β | Lament | Direct response to isolation-driven pressure | `SE-101-B__MAW-W_The_Ember_Requiem.md` |
-| Suit | The Ember Shroud | β | Lament | Protection against emotional cold and abandonment surge | `SE-101-C__MAW-S_The_Ember_Shroud.md` |
-| Gift | The Ember Cloak | β | Lament | Short-lived protection from physical and emotional cold | `SE-101-D__MAW-G_The_Ember_Cloak.md` |
+| Weapon | The Cinder-Breech Carbine | β | Lament | Direct response to isolation-driven pressure | `SE-101-B__MAW-W_The_Ember_Requiem.md` |
+| Suit | The Hearth-Watcher's Ashen Cloak | β | Lament | Protection against emotional cold and abandonment surge | `SE-101-C__MAW-S_The_Ember_Shroud.md` |
+| Gift | The Smoldering Charcoal Brooch | β | Lament | Short-lived protection from physical and emotional cold | `SE-101-D__MAW-G_The_Ember_Cloak.md` |
 
 ---
 
 ## PAGE 04 — WEAPON STAT CARD
 
-### M.A.W. Weapon — The Ember Requiem
+### M.A.W. Weapon — The Cinder-Breech Carbine
 
 | Field | Record |
 |---|---|
@@ -109,7 +109,7 @@ This set protects against cold and isolation without pretending that equipment c
 
 ## PAGE 05 — SUIT STAT CARD
 
-### M.A.W. Suit — The Ember Shroud
+### M.A.W. Suit — The Hearth-Watcher's Ashen Cloak
 
 | Field | Record |
 |---|---|
@@ -124,7 +124,7 @@ This set protects against cold and isolation without pretending that equipment c
 
 ## PAGE 06 — GIFT STAT CARD
 
-### M.A.W. Gift — The Ember Cloak
+### M.A.W. Gift — The Smoldering Charcoal Brooch
 
 | Field | Record |
 |---|---|

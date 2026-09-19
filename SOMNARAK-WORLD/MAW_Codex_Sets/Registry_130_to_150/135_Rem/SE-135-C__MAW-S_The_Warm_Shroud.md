@@ -16,9 +16,9 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Warm Shroud |
+| Official name | The Somnolent Gossamer Shroud |
 | Set | Wake With It |
-| Type / grade / element | Suit / β — Moderate / Lament — Deep Blue |
+| Type / grade / element | Protective Attire (Translucent Dream-Spun Silk & Veil) / β / Lament |
 | Status | Active; externally anchored Dream use only |
 | Maximum amount | 4 — Limited |
 | Current bearer | Dreamer Sora |
@@ -36,7 +36,9 @@ The Shroud formed after Rem completed one repeating image and the worker chose t
 
 ## Appearance
 
-The Warm Shroud is a soft deep-blue shroud of fine Han weave with a subtle warmth at the inner collar that never quite reaches the skin, and a thin wake-cue thread woven into the collar. In active use the fabric produces a faint room-like outline around the wearer, preserving the waking body's boundary inside a Dream while leaving the face and hands uncovered. The cloth settles closely over the shoulders and upper arms and stays cool along the hem, so the wearer can feel the difference between the memory-room and the current room. The wake-cue thread responds to the anchor's voice and pulls the wearer's attention back through one Dream-loop escalation while the anchor holds a set maximum interval. Minor joys grow numb after too many shelters, and the wearer must accept a mandatory break from Dream work when the loss becomes measurable. Between uses it is aired under ordinary light. If the wearer extends the interval without consent, Lament protection fades while waking memories become less vivid.
+Appearance : A flowing ankle-length robe of layered translucent violet gossamer worn over an inner tunic of soft dream-spun linen. It is accented by a trailing hooded veil that partially conceals the face.
+
+The sheer fabric drifts as if floating submerged in liquid, blurring the wearer’s silhouette into soft optical distortions. Incoming ranged attacks and psionic mental waves lose kinetic focus when passing through the dampening folds, reducing incoming Lament erosion.
 
 ## PROTECTION STATISTICS
 

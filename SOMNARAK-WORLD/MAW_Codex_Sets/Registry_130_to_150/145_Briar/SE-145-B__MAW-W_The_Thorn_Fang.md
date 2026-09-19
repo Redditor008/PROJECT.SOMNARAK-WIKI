@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Thorn Fang
+# M.A.W. WEAPON — The Briar-Spool Needle Gun
 
 > *“It remembers every wound. The bearer must decide whether a thorn is guarding a flower or trying to strike everyone nearby.”*
 
@@ -16,9 +16,9 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Thorn Fang |
+| Official name | The Briar-Spool Needle Gun |
 | Set | Protected Bloom |
-| Type / grade / element | Weapon / γ — Major / Grudge — Crimson |
+| Type / grade / element | RANGE / GUN SHAPE (Pneumatic Harpoon Needle Gun & Rotary Briar Spool) / γ / Grudge |
 | Status | Active; injury-and-boundary plan required |
 | Maximum amount | 3 — Standard |
 | Current bearer | Sentinel Harin |
@@ -41,7 +41,9 @@
 
 ## Appearance
 
-The Thorn Fang is a curved crimson blade of Han iron with a thorned ridge along the back and a warm line of sap-like Han at the edge. The blade curves inward like a thorn, and its grip is wrapped in dark crimson cord over a ridged core. In active use the thorn ridge unfurls into a narrow red defensive line that holds a hostile force outside a named boundary while leaving a marked entrance for a safe person. The Fang draws only after the bearer names what is being protected and who is not a target, and the thorn line stays around the chosen perimeter only until the threat ends. The bearer's old wounds ache after prolonged use and crimson bruising can appear on the hands. A bearer who retaliates against an old harm finds the thorn ridge turn inward and draw Grudge pain through the old wounds. It is sheathed once the safe-person boundary is verified, and the safe person covers the thorn ridge and names the exit during shutdown.
+Appearance : A 105cm heavy pneumatic rifle forged from tarnished brass tubing and dark rosewood, mounting an exposed rotary spool of barbed iron briar-cables beneath the receiver. It shoots barbed iron harpoon needles across Range 4.
+
+Pressurized sorrow air drives a thirty-centimeter fluted thorn harpoon through the muzzle with a sharp mechanical hiss, trailing high-tensile briar wire from the spinning brass spool. The barbed tip impales flesh or armor, allowing the wielder to yank targets into close range.
 
 ## CORE STATISTICS
 

@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Judgment Scale
+# M.A.W. GIFT — The Suspended Balance Scale
 
 > *“It shows who carries more. It does not show who deserves to.”*
 
@@ -23,7 +23,9 @@
 
 ### Appearance
 
-The Judgment Scale is a small crimson pendant of polished Han glass, shaped like a narrow balance beam with two shallow trays hanging from fine black threads. The beam is barely longer than a finger and the whole charm weighs almost nothing, but its trays are cut thin enough that light passes through them. In ordinary air the scale stays level; when the bearer uses it, one tray sinks slowly toward the person carrying the heavier present sorrow and trembles just above the lower of the two weights. The pendant compares only what is carried now, never moral worth, historical cause, or future consequence. After use the bearer feels both burdens at once and may mistake the heavier one for the more important one. The glass stays warm for as long as the comparison is remembered, and it is kept on a short red cord beside the chest. The pendant is worn over the sternum, where the two trays hang level until the bearer chooses which burden to observe.
+Appearance : A palm-sized antique brass balance scale pinned over the left breast, holding two miniature shallow pans suspended by hair-thin silver wires. The fulcrum rests directly above the bearer’s heart.
+
+The delicate brass needle tilts continuously between the two pans in response to nearby emotional intent, settling into dead center only during lethal confrontations. It emits a soft chime when an enemy prepares a heavy attack.
 
 ### Ability— Compare the Burden
 

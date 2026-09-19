@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Hourglass Pendant
+# M.A.W. GIFT — The Micro-Hourglass Choker
 
 > *“It grants one brief pause, then asks the bearer which future second they were willing to lose for it.”*
 
@@ -23,7 +23,9 @@
 
 ### Appearance
 
-The Hourglass Pendant is a small cracked charm of black metal and pale glass shaped like a tiny hourglass, its waist thin enough to break with light pressure. A single line of fine sand hangs in the upper chamber, and a hairline crack runs down one side of the glass. The pendant is worn on a short black cord and rests cold against the chest until the bearer asks for one brief moment. Then the top chamber empties by one grain, the crack deepens invisibly, and the wearer is given a single pause long enough to choose a response instead of reacting on panic. The gift cannot undo damage, revive the dead, or repeat a choice, and the cost is small, cumulative, and unmeasurable by ordinary clocks. Each use leaves the glass a shade greyer at the bottom. The crack is fine enough to be missed in ordinary light, and the lower chamber holds a thin line of grey sediment that never disappears.
+Appearance : A miniature three-centimeter glass hourglass encased in a filigree brass cage, suspended snugly against the throat by a black velvet ribbon. Golden sand trickles within both bulbs.
+
+The fine sand within the pendant flows upward against gravity whenever the bearer enters life-threatening danger, accelerating cognitive reaction speed. It grants a temporary evasion burst upon suffering a critical physical blow.
 
 ### Ability— One Brief Moment
 

@@ -56,9 +56,9 @@ If Observing or Guarding Bird enters breach state, the Weighting Bird stops indi
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| Weapon | The Judgment Fang | γ | Grudge | Piercing judgment against shared responsibility | `SE-032-B__MAW-W_The_Judgment_Fang.md` |
-| Suit | The Judgment Plate | γ | Grudge | Resists direct Grudge at the risk of hardening judgment | `SE-032-C__MAW-S_The_Judgment_Plate.md` |
-| Gift | The Judgment Scale | γ | Grudge | Compares two burdens without declaring either person innocent | `SE-032-D__MAW-G_The_Judgment_Scale.md` |
+| Weapon | The Calibrated Scale-Pistol | γ | Grudge | Piercing judgment against shared responsibility | `SE-032-B__MAW-W_The_Judgment_Fang.md` |
+| Suit | The Bailiff's Feathered Greatcoat | γ | Grudge | Resists direct Grudge at the risk of hardening judgment | `SE-032-C__MAW-S_The_Judgment_Plate.md` |
+| Gift | The Suspended Balance Scale | γ | Grudge | Compares two burdens without declaring either person innocent | `SE-032-D__MAW-G_The_Judgment_Scale.md` |
 
 ### Set Resonance — Burden of the Judge
 

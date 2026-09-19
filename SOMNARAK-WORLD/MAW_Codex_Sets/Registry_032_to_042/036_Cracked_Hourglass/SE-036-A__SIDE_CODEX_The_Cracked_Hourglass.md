@@ -56,9 +56,9 @@ Any observation must include a written start time, intended end time, and a seco
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| Weapon | The Hourglass Maul | β | Weight | Delivers time-weight through a single impact | `SE-036-B__MAW-W_The_Hourglass_Maul.md` |
-| Suit | The Hourglass Mantle | β | Weight | Distributes temporal burden at a personal cost | `SE-036-C__MAW-S_The_Hourglass_Mantle.md` |
-| Gift | The Hourglass Pendant | β | Weight | Briefly slows one moment | `SE-036-D__MAW-G_The_Hourglass_Pendant.md` |
+| Weapon | The Gyroscopic Chrono-Orrery | β | Weight | Delivers time-weight through a single impact | `SE-036-B__MAW-W_The_Hourglass_Maul.md` |
+| Suit | The Sandglass Watcher's Mantle | β | Weight | Distributes temporal burden at a personal cost | `SE-036-C__MAW-S_The_Hourglass_Mantle.md` |
+| Gift | The Micro-Hourglass Choker | β | Weight | Briefly slows one moment | `SE-036-D__MAW-G_The_Hourglass_Pendant.md` |
 
 ### Set Resonance — Counted Moment
 

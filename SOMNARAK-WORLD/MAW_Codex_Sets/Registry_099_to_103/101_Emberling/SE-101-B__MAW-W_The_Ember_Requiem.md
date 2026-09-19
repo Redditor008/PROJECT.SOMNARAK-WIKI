@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Ember Requiem
+# M.A.W. WEAPON — The Cinder-Breech Carbine
 
 > *“The blade carries a little light, but no one should mistake it for the hearth the child needed.”*
 
@@ -16,9 +16,9 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Ember Requiem |
+| Official name | The Cinder-Breech Carbine |
 | Set | Unspent Ember |
-| Type / grade / element | Weapon / β — Moderate / Lament — Deep Blue |
+| Type / grade / element | RANGE / GUN SHAPE (Flintlock Cinder Carbine & Brass Hearth-Hopper) / β / Lament |
 | Status | Active; a return-chair plan is required before issue |
 | Maximum amount | 4 — Limited |
 | Current bearer | Handler Soojin |
@@ -56,7 +56,9 @@
 
 ### Appearance
 
-The Ember Requiem is a slim, pale-blue blade of Han crystal with a small coal mote suspended above the guard, glowing faintly orange against the blue. The blade is smooth and cold, its edge narrow and its point short, and a thin seam runs along the flat from the collar to the tip. The grip is wrapped in pale cord over a dark core, and the pommel is an open ring. The weapon delivers a short Lament strike that exposes isolation-driven pressure without forcing comfort, so a target can no longer pretend they do not need a safe presence. The mote brightens when a real return point is named and darkens when the bearer mistakes protection for possession. The sheathed blade always rests beside an empty chair with a written return time, and the bearer sits there after the mission whether or not anyone arrives. The sheathed body is placed beside an empty chair with a written return time, and the bearer sits in that chair after the mission whether or not anyone else arrives.
+Appearance : An 85cm short-barreled trench carbine assembled from fire-charred ash wood and riveted iron plates, featuring an open top-loading furnace hopper. It discharges incandescent coal embers that explode into scattering orange sparks.
+
+The brass firing breech stays perpetually red-hot, venting thin plumes of grey chimney smoke from side louvers. Squeezing the iron lever-action trigger ejects spent slag cartridges, launching three high-velocity embers that detonate on contact to inflict burning Lament trauma across Range 4.
 
 ### Basic attack— *Hearthless Note*
 

@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Hourglass Maul
+# M.A.W. WEAPON — The Gyroscopic Chrono-Orrery
 
 > *“It lands with the weight of every second the bearer wished had gone differently.”*
 
@@ -25,7 +25,9 @@
 
 ### Appearance
 
-The Hourglass Maul is a colossal, twin-bulb war maul constructed from thick, crack-veined silicate glass framed within blackened Han-steel ribbing. Dense, pressurized black temporal sand swirls violently within both glass chambers. When raised overhead, the sand rushes toward the striking bulb, shifting the weapon's center of mass with tremendous gravitational momentum. When brought down upon the floor or a foe, the maul triggers a crushing radial tremor across the entire room, warping local momentum and dragging down the movement speed of everything caught within its temporal shockwave.
+Appearance : A 35cm floating brass apparatus featuring three concentric gimbal rings spinning around a cracked, luminous silicate glass hourglass core. It channels temporal sand into focused gravitational beams across Range 4.
+
+The interlocking brass gimbal rings revolve at high angular velocity, generating a faint humming acoustic resonance and a distorted gravity envelope. Pointing the apparatus focuses swirling golden sand into a high-pressure linear chrono-vortex that erodes target armor and decelerates movement speed.
 
 ### Ability— Spent Moment
 

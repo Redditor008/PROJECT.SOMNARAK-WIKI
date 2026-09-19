@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Thorn Crown
+# M.A.W. GIFT — The Piercing Briar Coronet
 
 > *“It turns pain into a fence. The bearer must tell trusted people where the gate is.”*
 
@@ -16,9 +16,9 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Thorn Crown |
+| Official name | The Piercing Briar Coronet |
 | Set | Protected Bloom |
-| Type / grade / element | Gift, crimson thorn circlet / γ — Major / Grudge — Crimson |
+| Type / grade / element | Stigma (Head / Brow Inward-Facing Thorn Circlet) / γ / Grudge |
 | Slot | Tail |
 | Status | Bearer-bound; proximity consent notice required |
 | Known bearer | Agent Sooah Park |
@@ -41,7 +41,9 @@
 
 ## Appearance
 
-The Thorn Crown is a small crimson thorn circlet of Han iron that sits at the tail slot and warms only after emotional pain rises. The thorns are short and fine, bent flat at rest, and one thorn bends outward when the bearer names a person who may approach safely. In active use fine crimson thorns rise into a ring around the bearer's immediate space, leaving one clear path for care, de-escalation, or exit while the rest of the ring deters active threat. The circlet is light and cool when idle, and the marked thorn remains distinguishable from the rest of the ring. It carries no Echo cost, but emotional pain becomes visible defensive pressure after activation. After use the bearer and safe person review the approach word, physical distance, and exit rule, and the crown is stored with its gate mark open. If the bearer activates it to prevent a trusted person from caring for them, the thorns turn inward and deliver the pain cost to the bearer. The safe person says the approach word and covers the bent thorn during shutdown.
+Appearance : A circular brow circlet fashioned from three entwined strands of blackened bronze briar, bearing twenty inward-facing thorn barbs that rest against the temple skin.
+
+The sharp metallic thorns prick the forehead upon activation, channeling a steady pulse of painful alertness that sharpens tactical focus. The constant minor ache grants the bearer complete immunity to confusion, trance, and sleep inducements.
 
 ## GIFT STATISTICS
 

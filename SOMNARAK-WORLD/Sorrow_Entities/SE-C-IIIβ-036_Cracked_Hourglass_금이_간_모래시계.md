@@ -221,58 +221,66 @@ The escalation pattern is specific to Cracked Hourglass: it is not a generic bre
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Hourglass Maul
+### M.A.W. Weapon — The Gyroscopic Chrono-Orrery
 
-**Category:** UNIQUE (Hourglass Sledge / Sand-Clock Hammer) | **Grade:** β | **Element:** Weight
-
-**Appearance:** A massive, twin-bulb war maul constructed from thick, crack-veined silicate glass framed within blackened Han-steel ribbing. Dense, pressurized black temporal sand swirls violently within both glass chambers. When raised overhead, the sand rushes toward the striking bulb, shifting the weapon's center of mass with tremendous gravitational momentum. When brought down upon the floor or a foe, the maul triggers a crushing radial tremor across the entire room, warping local momentum and dragging down the movement speed of everything caught within its temporal shockwave.
-
-**Damage:** Weight 9–16
-**Speed:** 1 (Very Slow)
-**Range:** 5 (Room)
+**Category:** FANTASY / RANGE (Suspended Gyroscopic Gimbal Rings & Temporal Sand Core)
+**Grade:** β | **Element:** Weight
+**Damage:** Weight 8–13
+**Speed:** 3 (Normal)
+**Range:** 4 (Long: 4–15m projected sand vortex)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Attack Pattern:** Ground Shockwave / Temporal Drag
-**Target Coverage:** Radial area burst (Room); engages all grounded targets in the chamber
-**Falloff Rule:** 100% at epicenter → 60% outer perimeter; inflicts heavy kinetic deceleration.
-**Damage Application:** Direct Weight trauma to Han (sorrow reserves, karmic debt); drastically reduces target movement and attack speed.
+**Attack Pattern:** Concentric Beam / Chrono-Singularity
+**Target Coverage:** Line beam + 4m radius impact vortex
+**Falloff Rule:** 100% center target → 60% peripheral vortex targets.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Spent Moment stores the momentum of delayed or interrupted actions, releasing crushing temporal mass on impact.
+Appearance : A 35cm floating brass apparatus featuring three concentric gimbal rings spinning around a cracked, luminous silicate glass hourglass core. It channels temporal sand into focused gravitational beams across Range 4.
 
-**Cost:** The wielder feels progressively heavier; each impact shortens the bearer’s subjective rest by one minute, leaving them physically exhausted while awake.
+The interlocking brass gimbal rings revolve at high angular velocity, generating a faint humming acoustic resonance and a distorted gravity envelope. Pointing the apparatus focuses swirling golden sand into a high-pressure linear chrono-vortex that erodes target armor and decelerates movement speed.
 
-### M.A.W. Suit — The Hourglass Mantle
+**Special Move Set:**
+- *Primary Kinematics — "Chrono-Beam":* Pointing the floating apparatus aligns the three brass gimbal rings into an optical axis; a pressurized golden beam of granular temporal sand fires across Range 4, dealing Weight damage and abrading physical defenses.
+- *Active Special — "Stasis Singularity":* The wielder spreads both arms wide, causing the gimbal rings to spin into a gyroscopic blur. A 4-meter vortex of swirling glass sand erupts at the designated target point at Range 4, pulling nearby enemies into the epicenter. Enemies caught in the vortex suffer continuous Weight crushing and are afflicted with "Temporal Drag" (-50% movement speed, +25% attack cooldowns for 4 seconds).
+- *Cost & Drawback:* Gravitational distortion causes momentary spatial disorientation and inner ear vertigo in the wielder.
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
+### M.A.W. Suit — The Sandglass Watcher's Mantle
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
+**Category:** Protective Attire (Desert-Cloth Mantle & Bronze Sand-Funnel Pauldrons)
+**Grade:** β | **Element:** Weight
+
+Appearance : A tailored desert-cloth mantle reinforced with curved bronze shoulder pauldrons shaped like sandglass funnels. Its deep hood is lined with fine amber-dyed silk that shields against swirling grit.
+
+Fine golden sand continuously trickles from hidden shoulder reservoirs down the pleated cloak hem without depleting, forming a protective particulate curtain. The drifting sand grains deflect glancing kinetic blows and disperse localized temporal shockwaves.
 
 **Resistances:**
-- Grudge: 1.0 (Normal)
-- Lament: 1.0 (Normal)
 - Weight: 0.5 (Endured)
-- Void: 1.5 (Weak)
+- Grudge: 1.1 (Weak)
+- Lament: 1.0 (Normal)
+- Void: 1.2 (Weak)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Cracked Hourglass's kind of pressure.
+**Ability:** *Temporal Particulate Screen* — Incoming projectiles have a 25% chance to miss or suffer 30% damage reduction as they pass through the drifting sand screen.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** The wearer's footsteps leave fine sand traces regardless of terrain.
 
-### M.A.W. Gift — The Hourglass Pendant
+### M.A.W. Gift — The Micro-Hourglass Choker
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Weight
+**Category:** Stigma (Neck / Throat Filigree Sand Vial)
+**Grade:** β | **Element:** Weight
 
-**Appearance:** a pendant of black Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
+Appearance : A miniature three-centimeter glass hourglass encased in a filigree brass cage, suspended snugly against the throat by a black velvet ribbon. Golden sand trickles within both bulbs.
 
-**Slot:** Head
+The fine sand within the pendant flows upward against gravity whenever the bearer enters life-threatening danger, accelerating cognitive reaction speed. It grants a temporary evasion burst upon suffering a critical physical blow.
+
+**Slot:** Neck / Choker
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity
 
-**Ability:** Slows time for one brief moment.
+**Ability:** *Adrenaline Inversion* — Upon taking a critical hit, wielder gains a 1.5-second burst of 100% Evasion and +30% movement speed (cooldown: 60 seconds).
 
-**Cost:** Shortens the wearer's life by seconds with every activation.
+**Cost:** The glass vial grows ice-cold against the throat when temporal abilities trigger.
 
 *Gifts are granted at random by the entity upon a successful work, not manufactured.*
 

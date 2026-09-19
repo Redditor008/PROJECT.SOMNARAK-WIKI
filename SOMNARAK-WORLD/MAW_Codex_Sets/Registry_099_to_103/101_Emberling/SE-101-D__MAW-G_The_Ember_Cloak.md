@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Ember Cloak
+# M.A.W. GIFT — The Smoldering Charcoal Brooch
 
 > *“It can keep you warm through the night. It takes warmth from the places you thought would always keep it.”*
 
@@ -16,9 +16,9 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Ember Cloak |
+| Official name | The Smoldering Charcoal Brooch |
 | Set | Unspent Ember |
-| Type / grade / element | Gift, ember clasp / β — Moderate / Lament — Deep Blue |
+| Type / grade / element | Stigma (Neck / Collar Smoldering Coal Setting) / β / Lament |
 | Slot | Tail |
 | Status | Bearer-bound; limited cold-response issue |
 | Known bearer | Agent Minho Ashford |
@@ -53,7 +53,9 @@
 
 ### Appearance
 
-The Ember Cloak is a small clasp charm of dark Han metal with a red point set into its centre, no larger than a thumb, and worn on a collar or lapel. The metal is cold until the bearer names a memory companion and the immediate cold threat, then a close warmth field gathers around the bearer and holds against an acute cold or emotional-numbing interval. The red point flickers when a happy memory loses sensory detail and turns black if the bearer uses the cloak only to avoid feeling, ending the warmth and accelerating the memory cost. The clasp is never warmed with fire or raw Han, and after use the bearer and companion share the chosen happy memory aloud, including one sensory detail, before the cloak is sealed beside an empty chair. The cloak is sealed for a period after use when the chosen memory has lost too much sensory detail, and it is never used as a substitute for a safe place to sleep.
+Appearance : A rough nugget of petrified coal secured in an iron prong brooch setting, worn pinned over the collar. It radiates gentle radiant warmth through the bearer’s coat.
+
+A dormant orange ember pulses deep within the fractured black mineral, glowing brighter whenever the wielder takes physical or emotional damage. It provides constant internal comfort, mitigating panic and sub-zero environmental penalties.
 
 ### Passive effect— *Small Heat*
 

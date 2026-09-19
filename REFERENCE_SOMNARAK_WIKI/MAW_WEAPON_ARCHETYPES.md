@@ -68,9 +68,9 @@ Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items a
 | MAW-W-021 The Silenced Requiem | Rapier | Long |
 | MAW-W-025 The Silence Lens | Lens Buckler | Close |
 | MAW-W-031 The Watcher's Unblinking Eye | PRIMAL (Bio-Ocular Implant) | Room |
-| MAW-W-032 The Judgment Fang | Kukri Cleaver | Short |
+| MAW-W-032 The Calibrated Scale-Pistol | GUN / RANGE (Break-Action Double-Barrel Scale-Pistol) | Medium / Instant |
 | MAW-W-033 The Guardian Lens | Framed Pavise Lens | Medium |
-| MAW-W-036 The Hourglass Maul | UNIQUE (Hourglass Sledge) | Room |
+| MAW-W-036 The Gyroscopic Chrono-Orrery | FANTASY / RANGE (Gyroscopic Chrono-Orrery) | Long |
 | MAW-W-041 The Tear Requiem | Tear Dagger | Short |
 | MAW-W-042 The Fury Fang | Ring Talon | Close |
 | MAW-W-043 The Silence Lens | Signal Loupe | Instant |
@@ -91,7 +91,7 @@ Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items a
 | MAW-W-092 The Pyre Grimoire & Ash Lance | MAGIC (Grimoire & Flame Lance) | Long |
 | MAW-W-099 The Phantom Dancer's Tri-Daggers | FANTASY (Spectral Glove & 3 Knives) | Medium |
 | MAW-W-100 The Unsaid Requiem | War Fan (bladed, half-open) | Short (source: range 2 — Short) |
-| MAW-W-101 The Ember Requiem | Sheathed Vigil Blade (still-life w/ chair) | Short (source: range 2 — Short) |
+| MAW-W-101 The Cinder-Breech Carbine | GUN / RANGE (Flintlock Cinder Carbine & Hopper) | Long |
 | MAW-W-102 The Dancing Fang | Rope Dart (cord + fang dart) | Medium (source: range 3 — Medium) |
 | MAW-W-103 The Cold Lens | Frost Lens (freezing pierce) | Medium (source: range 3 — Medium) |
 | MAW-W-105 The Giant's Maul | Set-Down Maul (grounded, open cuff) | Medium (source: range 3 — Medium) |
@@ -104,9 +104,9 @@ Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items a
 | MAW-W-126 The Melting Lens | Glass Melt Blade (dissolving edge) | Short (source: range 2 — Short) |
 | MAW-W-127 The Broken Maul | Fracture-Face Maul (mirrored cracks, converging impact paths) | Medium (source: range 3 — Medium) |
 | MAW-W-130 The Saint's Maul | Reliquary Stone Maul (load split to three support points) | Medium (source: range 3 — Medium) |
-| MAW-W-135 The Warm Requiem | Tear-Light Blade (dream-line to waking anchor) | Short (source: range 2 — Short) |
+| MAW-W-135 The Levitating Oneiric Prisms | FANTASY (Telekinetic Floating Lavender Prisms) | Long |
 | MAW-W-140 The Weeping Willow War-Scythe | MELEE (War-Scythe) | Medium |
-| MAW-W-145 The Thorn Fang | Thorn Hook + Perimeter (unfurled boundary ring, marked entrance) | Medium (source: range 3 — Medium) |
+| MAW-W-145 The Briar-Spool Needle Gun | GUN / RANGE (Pneumatic Harpoon Needle Gun & Spool) | Long |
 | MAW-W-150 The Laughter Requiem | Chime Blade (laugh-to-tear chime, joy/loss pair) | Short (source: range 2 — Short) |
 | MAW-W-151 The Border Root | Root Club + Boundary Fence (living strand, open passage arch) | Medium (source: range 3 — Medium) |
 | MAW-W-152 The Wandering Requiem | Door-Grain Blade (threshold line to the real door) | Short (source: range 2 — Short) |

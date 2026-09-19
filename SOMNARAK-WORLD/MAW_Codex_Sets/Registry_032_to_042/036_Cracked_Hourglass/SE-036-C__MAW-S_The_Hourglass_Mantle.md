@@ -28,7 +28,9 @@
 
 ### Appearance
 
-The Hourglass Mantle is a dark, heavy mantle of dense Han fabric that covers the shoulders and upper arms in long, straight panels. Across the back, a narrow band of pale sand runs beneath a strip of clear glass, its grains visible as a thin line that moves when the Mantle borrows time. The cloth is cut close and does not billow, and its inner lining is cool against the skin. When the wearer activates a slow interval, the sand band glows faintly and the fabric seems to hold still for a few seconds while the world continues around it. The wearer receives only a clearer interval within the pressure, not a stopped world. After the effect ends, the sand band falls back by a darker shade, and the wearer is left with fatigue that feels like borrowed consequence. The mantle is folded with the sand band outward, and the glass strip is wiped dry after each operation.
+Appearance : A tailored desert-cloth mantle reinforced with curved bronze shoulder pauldrons shaped like sandglass funnels. Its deep hood is lined with fine amber-dyed silk that shields against swirling grit.
+
+Fine golden sand continuously trickles from hidden shoulder reservoirs down the pleated cloak hem without depleting, forming a protective particulate curtain. The drifting sand grains deflect glancing kinetic blows and disperse localized temporal shockwaves.
 
 ### Ability— Slow Interval
 

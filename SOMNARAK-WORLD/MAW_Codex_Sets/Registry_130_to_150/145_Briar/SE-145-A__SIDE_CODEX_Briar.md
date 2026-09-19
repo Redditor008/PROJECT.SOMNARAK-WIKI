@@ -85,15 +85,15 @@ The set turns emotional pain into defense. Its cost is proximity: when grief is 
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Thorn Fang | γ | Grudge | Pierce response to repeated harm and active coercion | `SE-145-B__MAW-W_The_Thorn_Fang.md` |
-| Suit | The Thorn Plate | γ | Grudge | Grudge defense with a boundary-respecting cost | `SE-145-C__MAW-S_The_Thorn_Plate.md` |
-| Gift | The Thorn Crown | γ | Grudge | Converts emotional pain into defensive thorns | `SE-145-D__MAW-G_The_Thorn_Crown.md` |
+| Weapon | The Briar-Spool Needle Gun | γ | Grudge | Pierce response to repeated harm and active coercion | `SE-145-B__MAW-W_The_Thorn_Fang.md` |
+| Suit | The Thorny Bramble Hauberk | γ | Grudge | Grudge defense with a boundary-respecting cost | `SE-145-C__MAW-S_The_Thorn_Plate.md` |
+| Gift | The Piercing Briar Coronet | γ | Grudge | Converts emotional pain into defensive thorns | `SE-145-D__MAW-G_The_Thorn_Crown.md` |
 
 ---
 
 ## PAGE 04 — WEAPON STAT CARD
 
-### M.A.W. Weapon — The Thorn Fang
+### M.A.W. Weapon — The Briar-Spool Needle Gun
 
 | Field | Record |
 |---|---|
@@ -110,7 +110,7 @@ The set turns emotional pain into defense. Its cost is proximity: when grief is 
 
 ## PAGE 05 — SUIT STAT CARD
 
-### M.A.W. Suit — The Thorn Plate
+### M.A.W. Suit — The Thorny Bramble Hauberk
 
 | Field | Record |
 |---|---|
@@ -125,7 +125,7 @@ The set turns emotional pain into defense. Its cost is proximity: when grief is 
 
 ## PAGE 06 — GIFT STAT CARD
 
-### M.A.W. Gift — The Thorn Crown
+### M.A.W. Gift — The Piercing Briar Coronet
 
 | Field | Record |
 |---|---|

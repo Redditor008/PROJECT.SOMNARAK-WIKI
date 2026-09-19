@@ -16,9 +16,9 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Ember Shroud |
+| Official name | The Hearth-Watcher's Ashen Cloak |
 | Set | Unspent Ember |
-| Type / grade / element | Suit / β — Moderate / Lament — Deep Blue |
+| Type / grade / element | Protective Attire (Fire-Retardant Spun Asbestos & Coarse Ash Wool) / β / Lament |
 | Status | Active; post-exposure warmth review mandatory |
 | Maximum amount | 4 — Limited |
 | Current bearer | Agent Haneulash Yoon |
@@ -56,7 +56,9 @@ The Shroud formed when Emberling watched a worker move away from the chair only 
 
 ### Appearance
 
-The Ember Shroud is a soft dark-blue shroud of Han silk cut to the waist, with a warm glow running along the hem and a single shoulder clasp on the left side. The inner lining is smooth and cool, while the outer weave carries a faint ember light that reaches the hem only when a handover is real. The shroud reduces direct Lament harm in a small shared space where two people can remain by choice, and it never converts presence into confinement. When a named relief person sits or stands in the space and acknowledges the bearer's planned departure, the hem holds one incoming cold or abandonment surge while the transition occurs. If no relief arrives by the declared time, the glow darkens and all Lament resistance returns to normal. It is aired beside an open doorway with two chairs, one of them empty. The shroud is aired beside an open doorway with two chairs, one of them empty, and the wearer names who may use the empty chair before the clasp is folded.
+Appearance : A heavy hooded cape tailored from fire-retardant spun asbestos and coarse mountain wool, dusted with permanent coal ash. It clasps at the collar with a forged cast-iron grate hook.
+
+The lower hem is singed into permanent glowing charcoal edges that never burn through the dense fabric. Microscopic heat pockets woven throughout the lining shield the wearer from freezing cold and disperse explosive thermal shockwaves outward.
 
 ### Passive effect— *Hearth Space*
 

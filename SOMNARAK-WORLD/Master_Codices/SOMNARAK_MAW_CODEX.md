@@ -47,9 +47,9 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 7 | Weapon | The Lost Lens | [The Echo Compass](../Sorrow_Entities/SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md) | SE-C-IIIβ-016 | Weapon | β | Void |
 | 8 | Suit | The Lost Veil | [The Echo Compass](../Sorrow_Entities/SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md) | SE-C-IIIβ-016 | Armor (Suit) | β | Void |
 | 9 | Gift | The Lost Compass | [The Echo Compass](../Sorrow_Entities/SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md) | SE-C-IIIβ-016 | Accessory (Gift) | β | Void |
-| 10 | Weapon | The Hourglass Maul | [The Cracked Hourglass](../Sorrow_Entities/SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md) | SE-C-IIIβ-036 | Weapon (UNIQUE — Hourglass Sledge) | β | Weight |
-| 11 | Suit | The Hourglass Mantle | [The Cracked Hourglass](../Sorrow_Entities/SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md) | SE-C-IIIβ-036 | Armor (Suit) | β | Weight |
-| 12 | Gift | The Hourglass Pendant | [The Cracked Hourglass](../Sorrow_Entities/SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md) | SE-C-IIIβ-036 | Accessory (Gift) | β | Weight |
+| 10 | Weapon | The Gyroscopic Chrono-Orrery | [The Cracked Hourglass](../Sorrow_Entities/SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md) | SE-C-IIIβ-036 | Weapon (FANTASY — Chrono-Orrery) | β | Weight |
+| 11 | Suit | The Sandglass Watcher's Mantle | [The Cracked Hourglass](../Sorrow_Entities/SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md) | SE-C-IIIβ-036 | Armor (Sandglass Mantle) | β | Weight |
+| 12 | Gift | The Micro-Hourglass Choker | [The Cracked Hourglass](../Sorrow_Entities/SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md) | SE-C-IIIβ-036 | Accessory (Hourglass Choker) | β | Weight |
 | 13 | Weapon | The Rage Hammer | [The Rage Forge](../Sorrow_Entities/SE-C-IIIβ-275_The_Rage_Forge_분노의_용광로.md) | SE-C-IIIβ-275 | Weapon | β | Grudge |
 | 14 | Suit | The Rage Plate | [The Rage Forge](../Sorrow_Entities/SE-C-IIIβ-275_The_Rage_Forge_분노의_용광로.md) | SE-C-IIIβ-275 | Armor (Suit) | β | Grudge |
 | 15 | Gift | The Rage Charm | [The Rage Forge](../Sorrow_Entities/SE-C-IIIβ-275_The_Rage_Forge_분노의_용광로.md) | SE-C-IIIβ-275 | Accessory (Gift) | β | Grudge |
@@ -59,9 +59,9 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 19 | Weapon | The Watcher's Unblinking Eye | [The Observing Bird](../Sorrow_Entities/SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) | SE-C-IIIγ-031 | Weapon (PRIMAL — Bio-Ocular Implant) | γ | Lament |
 | 20 | Suit | The Witness Shroud | [The Observing Bird](../Sorrow_Entities/SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) | SE-C-IIIγ-031 | Armor (Suit) | γ | Lament |
 | 21 | Gift | The Witness Eye | [The Observing Bird](../Sorrow_Entities/SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) | SE-C-IIIγ-031 | Accessory (Gift) | γ | Lament |
-| 22 | Weapon | The Judgment Fang | [The Weighting Bird](../Sorrow_Entities/SE-C-IIIγ-032_The_Weighting_Bird_재는_새.md) | SE-C-IIIγ-032 | Weapon | γ | Grudge |
-| 23 | Suit | The Judgment Plate | [The Weighting Bird](../Sorrow_Entities/SE-C-IIIγ-032_The_Weighting_Bird_재는_새.md) | SE-C-IIIγ-032 | Armor (Suit) | γ | Grudge |
-| 24 | Gift | The Judgment Scale | [The Weighting Bird](../Sorrow_Entities/SE-C-IIIγ-032_The_Weighting_Bird_재는_새.md) | SE-C-IIIγ-032 | Accessory (Gift) | γ | Grudge |
+| 22 | Weapon | The Calibrated Scale-Pistol | [The Weighting Bird](../Sorrow_Entities/SE-C-IIIγ-032_The_Weighting_Bird_재는_새.md) | SE-C-IIIγ-032 | Weapon (GUN — Scale-Pistol) | γ | Grudge |
+| 23 | Suit | The Bailiff's Feathered Greatcoat | [The Weighting Bird](../Sorrow_Entities/SE-C-IIIγ-032_The_Weighting_Bird_재는_새.md) | SE-C-IIIγ-032 | Armor (Feathered Greatcoat) | γ | Grudge |
+| 24 | Gift | The Suspended Balance Scale | [The Weighting Bird](../Sorrow_Entities/SE-C-IIIγ-032_The_Weighting_Bird_재는_새.md) | SE-C-IIIγ-032 | Accessory (Balance Brooch) | γ | Grudge |
 | 25 | Weapon | The Guardian Lens | [The Guarding Bird](../Sorrow_Entities/SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md) | SE-C-IIIγ-033 | Weapon | γ | Void |
 | 26 | Suit | The Guardian Veil | [The Guarding Bird](../Sorrow_Entities/SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md) | SE-C-IIIγ-033 | Armor (Suit) | γ | Void |
 | 27 | Gift | The Guardian Wing | [The Guarding Bird](../Sorrow_Entities/SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md) | SE-C-IIIγ-033 | Accessory (Gift) | γ | Void |
@@ -98,9 +98,9 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 58 | Weapon | The Weeping Willow War-Scythe | [The Weeping Willow](../Sorrow_Entities/SE-C-IIIγ-140_The_Weeping_Willow_우는_버드나무.md) | SE-C-IIIγ-140 | Weapon (MELEE — War-Scythe) | γ | Lament |
 | 59 | Suit | The Willow Cloak | [The Weeping Willow](../Sorrow_Entities/SE-C-IIIγ-140_The_Weeping_Willow_우는_버드나무.md) | SE-C-IIIγ-140 | Armor (Suit) | γ | Lament |
 | 60 | Gift | The Willow Charm | [The Weeping Willow](../Sorrow_Entities/SE-C-IIIγ-140_The_Weeping_Willow_우는_버드나무.md) | SE-C-IIIγ-140 | Accessory (Gift) | γ | Lament |
-| 61 | Weapon | The Thorn Fang | [The Garden of Thorns](../Sorrow_Entities/SE-C-IIIγ-145_The_Garden_of_Thorns_가시의_정원.md) | SE-C-IIIγ-145 | Weapon | γ | Grudge |
-| 62 | Suit | The Thorn Plate | [The Garden of Thorns](../Sorrow_Entities/SE-C-IIIγ-145_The_Garden_of_Thorns_가시의_정원.md) | SE-C-IIIγ-145 | Armor (Suit) | γ | Grudge |
-| 63 | Gift | The Thorn Crown | [The Garden of Thorns](../Sorrow_Entities/SE-C-IIIγ-145_The_Garden_of_Thorns_가시의_정원.md) | SE-C-IIIγ-145 | Accessory (Gift) | γ | Grudge |
+| 61 | Weapon | The Briar-Spool Needle Gun | [The Garden of Thorns](../Sorrow_Entities/SE-C-IIIγ-145_The_Garden_of_Thorns_가시의_정원.md) | SE-C-IIIγ-145 | Weapon (GUN — Needle Harpoon Gun) | γ | Grudge |
+| 62 | Suit | The Thorny Bramble Hauberk | [The Garden of Thorns](../Sorrow_Entities/SE-C-IIIγ-145_The_Garden_of_Thorns_가시의_정원.md) | SE-C-IIIγ-145 | Armor (Bramble Hauberk) | γ | Grudge |
+| 63 | Gift | The Piercing Briar Coronet | [The Garden of Thorns](../Sorrow_Entities/SE-C-IIIγ-145_The_Garden_of_Thorns_가시의_정원.md) | SE-C-IIIγ-145 | Accessory (Briar Coronet) | γ | Grudge |
 | 64 | Weapon | The Sarcophagus Wall-Ram | [The Debt Wall](../Sorrow_Entities/SE-C-IIIγ-180_The_Debt_Wall_빚의_벽.md) | SE-C-IIIγ-180 | Weapon (UNIQUE — Wall Battering Ram) | γ | Weight |
 | 65 | Suit | The Mason's Mortar-Crusted Hauberk | [The Debt Wall](../Sorrow_Entities/SE-C-IIIγ-180_The_Debt_Wall_빚의_벽.md) | SE-C-IIIγ-180 | Armor (Stone-Padded Hauberk) | γ | Weight |
 | 66 | Gift | The Unpaid Brick Shard | [The Debt Wall](../Sorrow_Entities/SE-C-IIIγ-180_The_Debt_Wall_빚의_벽.md) | SE-C-IIIγ-180 | Accessory (Stone Relic Shard) | γ | Weight |
@@ -158,15 +158,15 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 118 | Weapon | The Unsaid Requiem | [The Grave of Cherry Blossoms](../Sorrow_Entities/SE-C-IIβ-100_The_Grave_of_Cherry_Blossoms_벚꽃의_무덤.md) | SE-C-IIβ-100 | Weapon | β | Lament |
 | 119 | Suit | The Unsaid Shroud | [The Grave of Cherry Blossoms](../Sorrow_Entities/SE-C-IIβ-100_The_Grave_of_Cherry_Blossoms_벚꽃의_무덤.md) | SE-C-IIβ-100 | Armor (Suit) | β | Lament |
 | 120 | Gift | The Unsaid Petal | [The Grave of Cherry Blossoms](../Sorrow_Entities/SE-C-IIβ-100_The_Grave_of_Cherry_Blossoms_벚꽃의_무덤.md) | SE-C-IIβ-100 | Accessory (Gift) | β | Lament |
-| 121 | Weapon | The Ember Requiem | [The Ember Child](../Sorrow_Entities/SE-C-IIβ-101_The_Ember_Child_embers_의_아이.md) | SE-C-IIβ-101 | Weapon | β | Lament |
-| 122 | Suit | The Ember Shroud | [The Ember Child](../Sorrow_Entities/SE-C-IIβ-101_The_Ember_Child_embers_의_아이.md) | SE-C-IIβ-101 | Armor (Suit) | β | Lament |
-| 123 | Gift | The Ember Cloak | [The Ember Child](../Sorrow_Entities/SE-C-IIβ-101_The_Ember_Child_embers_의_아이.md) | SE-C-IIβ-101 | Accessory (Gift) | β | Lament |
+| 121 | Weapon | The Cinder-Breech Carbine | [The Ember Child](../Sorrow_Entities/SE-C-IIβ-101_The_Ember_Child_embers_의_아이.md) | SE-C-IIβ-101 | Weapon (GUN — Cinder Carbine) | β | Lament |
+| 122 | Suit | The Hearth-Watcher's Ashen Cloak | [The Ember Child](../Sorrow_Entities/SE-C-IIβ-101_The_Ember_Child_embers_의_아이.md) | SE-C-IIβ-101 | Armor (Ashen Cloak) | β | Lament |
+| 123 | Gift | The Smoldering Charcoal Brooch | [The Ember Child](../Sorrow_Entities/SE-C-IIβ-101_The_Ember_Child_embers_의_아이.md) | SE-C-IIβ-101 | Accessory (Charcoal Brooch) | β | Lament |
 | 124 | Weapon | The Glacial Tear-Mirror | [The Frozen Tear](../Sorrow_Entities/SE-C-IIβ-102_The_Frozen_Tear_얼어붙은_눈물.md) | SE-C-IIβ-102 | Weapon (RANGE — Crystalline Tear-Mirror) | β | Lament |
 | 125 | Suit | The Frost-Veiled Mourning Gown | [The Frozen Tear](../Sorrow_Entities/SE-C-IIβ-102_The_Frozen_Tear_얼어붙은_눈물.md) | SE-C-IIβ-102 | Armor (Mourning Gown) | β | Lament |
 | 126 | Gift | The Unmelting Teardrop Brooch | [The Frozen Tear](../Sorrow_Entities/SE-C-IIβ-102_The_Frozen_Tear_얼어붙은_눈물.md) | SE-C-IIβ-102 | Accessory (Ice Brooch) | β | Lament |
-| 127 | Weapon | The Warm Requiem | [The Dream Fragment](../Sorrow_Entities/SE-C-IIβ-135_The_Dream_Fragment_꿈의_조각.md) | SE-C-IIβ-135 | Weapon | β | Lament |
-| 128 | Suit | The Warm Shroud | [The Dream Fragment](../Sorrow_Entities/SE-C-IIβ-135_The_Dream_Fragment_꿈의_조각.md) | SE-C-IIβ-135 | Armor (Suit) | β | Lament |
-| 129 | Gift | The Warm Shard | [The Dream Fragment](../Sorrow_Entities/SE-C-IIβ-135_The_Dream_Fragment_꿈의_조각.md) | SE-C-IIβ-135 | Accessory (Gift) | β | Lament |
+| 127 | Weapon | The Levitating Oneiric Prisms | [The Dream Fragment](../Sorrow_Entities/SE-C-IIβ-135_The_Dream_Fragment_꿈의_조각.md) | SE-C-IIβ-135 | Weapon (FANTASY — Floating Prisms) | β | Lament |
+| 128 | Suit | The Somnolent Gossamer Shroud | [The Dream Fragment](../Sorrow_Entities/SE-C-IIβ-135_The_Dream_Fragment_꿈의_조각.md) | SE-C-IIβ-135 | Armor (Gossamer Shroud) | β | Lament |
+| 129 | Gift | The Floating Dream Catcher Orb | [The Dream Fragment](../Sorrow_Entities/SE-C-IIβ-135_The_Dream_Fragment_꿈의_조각.md) | SE-C-IIβ-135 | Accessory (Levitating Orb) | β | Lament |
 | 130 | Weapon | The Muffled Resonance-Bell | [The Silent Bell](../Sorrow_Entities/SE-C-IIβ-170_The_Silent_Bell_침묵의_종.md) | SE-C-IIβ-170 | Weapon (UNIQUE / RANGE — Acoustic Resonance Bell) | β | Void |
 | 131 | Suit | The Soundless Velvet Cassock | [The Silent Bell](../Sorrow_Entities/SE-C-IIβ-170_The_Silent_Bell_침묵의_종.md) | SE-C-IIβ-170 | Armor (Sound-Dampening Velvet) | β | Void |
 | 132 | Gift | The Muffled Clapper Brooch | [The Silent Bell](../Sorrow_Entities/SE-C-IIβ-170_The_Silent_Bell_침묵의_종.md) | SE-C-IIβ-170 | Accessory (Acoustic Relic Brooch) | β | Void |
@@ -884,37 +884,55 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Cracked Hourglass ( 금이 간 모래시계 ) — SE-C-IIIβ-036
 
-**Entry 10 — The Hourglass Maul (Weapon)**
+**The Gyroscopic Chrono-Orrery (Weapon)**
 
-**Category:** UNIQUE (Hourglass Sledge / Sand-Clock Hammer) | **Grade:** β | **Element:** Weight
-**Damage:** Weight 9–16 | **Speed:** 1 (Very Slow) | **Range:** 5 (Room) | **Pattern:** Ground Shockwave / Temporal Drag
+**Category:** FANTASY / RANGE (Suspended Gyroscopic Gimbal Rings & Temporal Sand Core) | **Grade:** β | **Element:** Weight
+**Damage:** Weight 8–13 | **Speed:** 3 (Normal) | **Range:** 4 (Long: 4–15m projected sand vortex) | **Pattern:** Concentric Beam / Chrono-Singularity
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Spent Moment stores the momentum of delayed actions, releasing crushing temporal mass on impact.
+Appearance : A 35cm floating brass apparatus featuring three concentric gimbal rings spinning around a cracked, luminous silicate glass hourglass core. It channels temporal sand into focused gravitational beams across Range 4.
 
-**Cost:** 25 Sorrow Echoes
+The interlocking brass gimbal rings revolve at high angular velocity, generating a faint humming acoustic resonance and a distorted gravity envelope. Pointing the apparatus focuses swirling golden sand into a high-pressure linear chrono-vortex that erodes target armor and decelerates movement speed.
+
+**Special Move Set:**
+- *Primary Kinematics — "Chrono-Beam":* Pointing the floating apparatus aligns the three brass gimbal rings into an optical axis; a pressurized golden beam of granular temporal sand fires across Range 4, dealing Weight damage and abrading physical defenses.
+- *Active Special — "Stasis Singularity":* The wielder spreads both arms wide, causing the gimbal rings to spin into a gyroscopic blur. A 4-meter vortex of swirling glass sand erupts at the designated target point at Range 4, pulling nearby enemies into the epicenter. Enemies caught in the vortex suffer continuous Weight crushing and are afflicted with "Temporal Drag" (-50% movement speed, +25% attack cooldowns for 4 seconds).
+- *Cost & Drawback:* Gravitational distortion causes momentary spatial disorientation and inner ear vertigo in the wielder.
 
 ---
 
-**Entry 11 — The Hourglass Mantle (Suit)**
+**The Sandglass Watcher's Mantle (Suit)**
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
+**Category:** Protective Attire (Desert-Cloth Mantle & Bronze Sand-Funnel Pauldrons) | **Grade:** β | **Element:** Weight
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Cracked Hourglass's kind of pressure.
+Appearance : A tailored desert-cloth mantle reinforced with curved bronze shoulder pauldrons shaped like sandglass funnels. Its deep hood is lined with fine amber-dyed silk that shields against swirling grit.
 
+Fine golden sand continuously trickles from hidden shoulder reservoirs down the pleated cloak hem without depleting, forming a protective particulate curtain. The drifting sand grains deflect glancing kinetic blows and disperse localized temporal shockwaves.
+
+**Resistances:**
+- Weight: 0.5 (Endured)
+- Grudge: 1.1 (Weak)
+- Lament: 1.0 (Normal)
+- Void: 1.2 (Weak)
+**Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
----
-
-**Entry 12 — The Hourglass Pendant (Gift)**
-
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Weight
-
-**Ability:** Slows time for one brief moment.
-
-**Cost:** Shortens the wearer's life by seconds with every activation.
+**Ability:** *Temporal Particulate Screen* — Incoming projectiles have a 25% chance to miss or suffer 30% damage reduction as they pass through the drifting sand screen.
 
 ---
 
+**The Micro-Hourglass Choker (Gift)**
+
+**Category:** Stigma (Neck / Throat Filigree Sand Vial) | **Grade:** β | **Element:** Weight
+
+Appearance : A miniature three-centimeter glass hourglass encased in a filigree brass cage, suspended snugly against the throat by a black velvet ribbon. Golden sand trickles within both bulbs.
+
+The fine sand within the pendant flows upward against gravity whenever the bearer enters life-threatening danger, accelerating cognitive reaction speed. It grants a temporary evasion burst upon suffering a critical physical blow.
+
+**Slot:** Neck / Choker
+**Acquisition Probability:** 5%
+**Effect:** +1 stat bonus when working the source entity
+
+**Ability:** *Adrenaline Inversion* — Upon taking a critical hit, wielder gains a 1.5-second burst of 100% Evasion and +30% movement speed (cooldown: 60 seconds).
 
 ### The Rage Forge ( 분노의 용광로 ) — SE-C-IIIβ-275
 
@@ -1018,36 +1036,55 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Weighting Bird ( 재는 새 ) — SE-C-IIIγ-032
 
-**Entry 22 — The Judgment Fang (Weapon)**
+**The Calibrated Scale-Pistol (Weapon)**
 
-**Type:** Weapon | **Grade:** γ | **Element:** Grudge
+**Category:** RANGE / GUN SHAPE (Break-Action Double-Barrel Scale-Pistol) | **Grade:** γ | **Element:** Grudge
+**Damage:** Grudge 12–18 | **Speed:** 3 (Normal) | **Range:** 3 (Medium: 15m line shot / Instant) | **Pattern:** Dual Slug / Calibrated Guilt Impact
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Weighting Bird's grudge signature in the strike.
+Appearance : A 42cm break-action double-barrel handgun forged from tarnished brass and dark walnut, featuring twin suspended balance pans beside the breech. It chambers calibrated lead guilt weights, firing heavy kinetic slugs with a metallic chime.
 
-**Cost:** 40 Sorrow Echoes
+Twin miniature brass scale pans dangle from delicate chain links along the cylinder housing, shifting with the wielder’s heartbeat. When fired, the weapon balances karmic Han against lead powder, discharging pressurized bronze slugs that leave smoking golden vapor trails across Range 3.
+
+**Special Move Set:**
+- *Primary Kinematics — "Guilt-Weighted Discharge":* Smooth double-action trigger pull; hammer strikes the percussion cap of the lower barrel, launching a heavy calibrated lead slug that delivers concentrated Grudge kinetic trauma.
+- *Active Special — "Equilibrium Execution":* The wielder thumbs the breech lever open, loads two heavy karmic slugs into both barrels, and fires them simultaneously. The twin balance pans violently snap level, projecting an instantaneous dual-slug shockwave across Range 3. If the target's current HP% is higher than the wielder's HP%, damage scales by +40% as karmic rebalancing.
+- *Cost & Drawback:* Heavy wrist torque and concussive muzzle blast; consecutive shots increase trigger pull resistance.
 
 ---
 
-**Entry 23 — The Judgment Plate (Suit)**
+**The Bailiff's Feathered Greatcoat (Suit)**
 
-**Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
+**Category:** Protective Attire (Raven Down Lining & Stamped Scale-Weight Greatcoat) | **Grade:** γ | **Element:** Grudge
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against The Weighting Bird's kind of pressure.
+Appearance : A tailored charcoal-grey watchman’s greatcoat lined with dense raven-black down feathers and trimmed in antique bronze braiding. It fastens down the breast with twin rows of stamped scale-weight buttons.
 
+Dense layers of compacted corvid down beneath the woolen shell cushion incoming blunt trauma and absorb Grudge impacts. Miniature bronze balance feathers dangle from the shoulder epaulets, shifting weight to offset concussive kinetic shockwaves.
+
+**Resistances:**
+- Grudge: 0.6 (Endured)
+- Lament: 1.0 (Normal)
+- Void: 1.2 (Weak)
+- Weight: 0.8 (Endured)
+**Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
----
-
-**Entry 24 — The Judgment Scale (Gift)**
-
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Grudge
-
-**Ability:** Measures the karmic debt of two individuals and shows who owes more.
-
-**Cost:** The user feels both debts simultaneously.
+**Ability:** *Karmic Counterweight* — Reduces incoming Grudge damage by 25% when the attacker has dealt damage within the last 3 seconds.
 
 ---
 
+**The Suspended Balance Scale (Gift)**
+
+**Category:** Stigma (Chest / Brooch Miniature Balance Scale) | **Grade:** γ | **Element:** Grudge
+
+Appearance : A palm-sized antique brass balance scale pinned over the left breast, holding two miniature shallow pans suspended by hair-thin silver wires. The fulcrum rests directly above the bearer’s heart.
+
+The delicate brass needle tilts continuously between the two pans in response to nearby emotional intent, settling into dead center only during lethal confrontations. It emits a soft chime when an enemy prepares a heavy attack.
+
+**Slot:** Chest / Brooch
+**Acquisition Probability:** 4%
+**Effect:** +2 stat bonus when working the source entity
+
+**Ability:** *Impartial Reckoning* — Increases critical hit rate by +10% against targets with higher maximum health than the bearer.
 
 ### The Guarding Bird ( 지키는 새 ) — SE-C-IIIγ-033
 
@@ -1450,36 +1487,55 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Garden of Thorns ( 가시의 정원 ) — SE-C-IIIγ-145
 
-**Entry 61 — The Thorn Fang (Weapon)**
+**The Briar-Spool Needle Gun (Weapon)**
 
-**Type:** Weapon | **Grade:** γ | **Element:** Grudge
+**Category:** RANGE / GUN SHAPE (Pneumatic Harpoon Needle Gun & Rotary Briar Spool) | **Grade:** γ | **Element:** Grudge
+**Damage:** Grudge 11–17 | **Speed:** 3 (Normal) | **Range:** 4 (Long: 5–20m pneumatic harpoon) | **Pattern:** Harpoon Puncture / Tensile Wire Tether
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Garden of Thorns's grudge signature in the strike.
+Appearance : A 105cm heavy pneumatic rifle forged from tarnished brass tubing and dark rosewood, mounting an exposed rotary spool of barbed iron briar-cables beneath the receiver. It shoots barbed iron harpoon needles across Range 4.
 
-**Cost:** 40 Sorrow Echoes
+Pressurized sorrow air drives a thirty-centimeter fluted thorn harpoon through the muzzle with a sharp mechanical hiss, trailing high-tensile briar wire from the spinning brass spool. The barbed tip impales flesh or armor, allowing the wielder to yank targets into close range.
+
+**Special Move Set:**
+- *Primary Kinematics — "Harpoon Puncture":* Pneumatic valve release propels a 30cm fluted iron thorn harpoon across Range 4; barbed teeth bury deep into target flesh or armor plating, dealing heavy Grudge puncture damage.
+- *Active Special — "Winch & Lacerate":* After impaling an enemy, the wielder engages the rotary brass spool lock with a foot press. The spool spins backward with a screaming gear whine, rapidly retracting high-tensile briar wire to drag the impaled target 6 meters toward the wielder while tearing open wounds for 160% Grudge damage and inflicting "Crippled Tendon".
+- *Cost & Drawback:* High pneumatic kickback wrenches the wielder's shoulder; briar cable friction can snap stray wire sparks.
 
 ---
 
-**Entry 62 — The Thorn Plate (Suit)**
+**The Thorny Bramble Hauberk (Suit)**
 
-**Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
+**Category:** Protective Attire (Interlocking Iron Wire & Flexible Briar Vine Mail) | **Grade:** γ | **Element:** Grudge
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against The Garden of Thorns's kind of pressure.
+Appearance : A thigh-length hauberk woven from interlocking black iron wire intertwined with dried, flexible briar vines and needle-sharp thorns. It is worn over a thick buff leather undertunic.
 
+Petrified rose briars spiral across the iron chain links, reinforcing key impact zones along the shoulders and ribcage. Striking the armor causes briar thorns to snap outward violently, deflecting blades and lacerating melee attackers with reciprocal Grudge trauma.
+
+**Resistances:**
+- Grudge: 0.5 (Endured)
+- Lament: 1.0 (Normal)
+- Void: 1.3 (Weak)
+- Weight: 1.0 (Normal)
+**Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
----
-
-**Entry 63 — The Thorn Crown (Gift)**
-
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Grudge
-
-**Ability:** Converts emotional pain into defensive thorns.
-
-**Cost:** The wearer hurts anyone who approaches too closely.
+**Ability:** *Reciprocal Barbs* — Reflects 30% of incoming melee physical damage back to the attacker as piercing Grudge laceration.
 
 ---
 
+**The Piercing Briar Coronet (Gift)**
+
+**Category:** Stigma (Head / Brow Inward-Facing Thorn Circlet) | **Grade:** γ | **Element:** Grudge
+
+Appearance : A circular brow circlet fashioned from three entwined strands of blackened bronze briar, bearing twenty inward-facing thorn barbs that rest against the temple skin.
+
+The sharp metallic thorns prick the forehead upon activation, channeling a steady pulse of painful alertness that sharpens tactical focus. The constant minor ache grants the bearer complete immunity to confusion, trance, and sleep inducements.
+
+**Slot:** Head / Brow
+**Acquisition Probability:** 4%
+**Effect:** +2 stat bonus when working the source entity
+
+**Ability:** *Vigilant Pain* — Total immunity to Sleep, Stun, and Trance effects; grants +2 Fortitude during sustained engagements.
 
 ### The Debt Wall ( 빚의 벽 ) — SE-C-IIIγ-180
 
@@ -2111,36 +2167,55 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Ember Child ( embers 의 아이 ) — SE-C-IIβ-101
 
-**Entry 121 — The Ember Requiem (Weapon)**
+**The Cinder-Breech Carbine (Weapon)**
 
-**Type:** Weapon | **Grade:** β | **Element:** Lament
+**Category:** RANGE / GUN SHAPE (Flintlock Cinder Carbine & Brass Hearth-Hopper) | **Grade:** β | **Element:** Lament
+**Damage:** Lament 6–11 | **Speed:** 3 (Normal) | **Range:** 4 (Long: 6–18m standoff) | **Pattern:** Incandescent Cinder Blast / Area Spark Igniter
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Ember Child's lament signature in the strike.
+Appearance : An 85cm short-barreled trench carbine assembled from fire-charred ash wood and riveted iron plates, featuring an open top-loading furnace hopper. It discharges incandescent coal embers that explode into scattering orange sparks.
 
-**Cost:** 25 Sorrow Echoes
+The brass firing breech stays perpetually red-hot, venting thin plumes of grey chimney smoke from side louvers. Squeezing the iron lever-action trigger ejects spent slag cartridges, launching three high-velocity embers that detonate on contact to inflict burning Lament trauma across Range 4.
+
+**Special Move Set:**
+- *Primary Kinematics — "Cinder Volley":* Lever-action cycle feeds glowing coals into the firing chamber; a burst of compressed steam-combustion propels incandescent ember pellets across Range 4, igniting target armor with burning Lament damage.
+- *Active Special — "Hearth-Break Shrapnel":* The wielder dumps the entire furnace hopper into the superheated chamber and fires directly into a cluster of enemies at Range 4. The detonation unleashes a 5-meter expanding cloud of blinding ash and whistling white-hot coal shrapnel. Afflicts all caught targets with "Cinder-Blindness" and continuous burn for 4 seconds.
+- *Cost & Drawback:* Scorching heat vents from the side louvers, singeing the wielder's gloves and raising their body temperature.
 
 ---
 
-**Entry 122 — The Ember Shroud (Suit)**
+**The Hearth-Watcher's Ashen Cloak (Suit)**
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
+**Category:** Protective Attire (Fire-Retardant Spun Asbestos & Coarse Ash Wool) | **Grade:** β | **Element:** Lament
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The Ember Child's kind of pressure.
+Appearance : A heavy hooded cape tailored from fire-retardant spun asbestos and coarse mountain wool, dusted with permanent coal ash. It clasps at the collar with a forged cast-iron grate hook.
 
+The lower hem is singed into permanent glowing charcoal edges that never burn through the dense fabric. Microscopic heat pockets woven throughout the lining shield the wearer from freezing cold and disperse explosive thermal shockwaves outward.
+
+**Resistances:**
+- Lament: 0.6 (Endured)
+- Grudge: 0.8 (Endured)
+- Void: 1.5 (Weak)
+- Weight: 1.0 (Normal)
+**Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
----
-
-**Entry 123 — The Ember Cloak (Gift)**
-
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Lament
-
-**Ability:** Protects against physical and emotional cold.
-
-**Cost:** Draws warmth from the wearer's memories; happy memories fade slightly with use.
+**Ability:** *Insulating Embers* — Grants total immunity to freeze/frost debuffs and converts 15% of absorbed Lament damage into warm SP recovery.
 
 ---
 
+**The Smoldering Charcoal Brooch (Gift)**
+
+**Category:** Stigma (Neck / Collar Smoldering Coal Setting) | **Grade:** β | **Element:** Lament
+
+Appearance : A rough nugget of petrified coal secured in an iron prong brooch setting, worn pinned over the collar. It radiates gentle radiant warmth through the bearer’s coat.
+
+A dormant orange ember pulses deep within the fractured black mineral, glowing brighter whenever the wielder takes physical or emotional damage. It provides constant internal comfort, mitigating panic and sub-zero environmental penalties.
+
+**Slot:** Neck / Collar
+**Acquisition Probability:** 5%
+**Effect:** +1 stat bonus when working the source entity
+
+**Ability:** *Warmth in Ash* — Bearer regains +1 SP every 5 seconds while in combat; immunity to hypothermia and shivering penalties.
 
 ### The Frozen Tear ( 얼어붙은 눈물 ) — SE-C-IIβ-102
 
@@ -2177,36 +2252,55 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Dream Fragment ( 꿈의 조각 ) — SE-C-IIβ-135
 
-**Entry 127 — The Warm Requiem (Weapon)**
+**The Levitating Oneiric Prisms (Weapon)**
 
-**Type:** Weapon | **Grade:** β | **Element:** Lament
+**Category:** FANTASY (Telekinetically Suspended Lavender Prisms & Astral Somnolence Halo) | **Grade:** β | **Element:** Lament
+**Damage:** Lament 6–10 | **Speed:** 4 (Fast) | **Range:** 4 (Long: 4–12m levitating strikes) | **Pattern:** Tri-Prism Dart / Somnolent Orbit
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Dream Fragment's lament signature in the strike.
+Appearance : A cluster of three diamond-faceted lavender crystal prisms hovering telekinetically above the wielder’s open hand in a slow triangular orbit. The floating crystals emit faint chime vibrations and project translucent violet dream trails.
 
-**Cost:** 25 Sorrow Echoes
+Without physical handles or cords, the three twenty-centimeter prisms respond instantaneously to telekinetic hand gestures. Thrusting a palm forward launches the crystals in high-speed linear piercing trajectories up to Range 4 before they snap smoothly back into revolving equilibrium around the wrist.
+
+**Special Move Set:**
+- *Primary Kinematics — "Oneiric Pierce":* Thrusting the open hand forward commands one lavender prism to streak in a razor-sharp linear vector across Range 4, puncturing the target's psyche with Lament before arcing smoothly back into orbit.
+- *Active Special — "Somnolence Cage":* The wielder clasps their hands together at chest height; all three prisms accelerate into a spinning violet ring around a target at Range 4, projecting refracted planar beams of dream-light inward. The target is trapped within the geometric somnolence field for 3 seconds, taking continuous psychic erosion and suffering 50% slowed action speed.
+- *Cost & Drawback:* Mental synchronization drains cognitive stamina; sustaining the cage prevents the wielder from sprinting.
 
 ---
 
-**Entry 128 — The Warm Shroud (Suit)**
+**The Somnolent Gossamer Shroud (Suit)**
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
+**Category:** Protective Attire (Translucent Dream-Spun Silk & Veil) | **Grade:** β | **Element:** Lament
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The Dream Fragment's kind of pressure.
+Appearance : A flowing ankle-length robe of layered translucent violet gossamer worn over an inner tunic of soft dream-spun linen. It is accented by a trailing hooded veil that partially conceals the face.
 
+The sheer fabric drifts as if floating submerged in liquid, blurring the wearer’s silhouette into soft optical distortions. Incoming ranged attacks and psionic mental waves lose kinetic focus when passing through the dampening folds, reducing incoming Lament erosion.
+
+**Resistances:**
+- Lament: 0.5 (Endured)
+- Grudge: 1.2 (Weak)
+- Void: 0.8 (Endured)
+- Weight: 1.1 (Weak)
+**Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
----
-
-**Entry 129 — The Warm Shard (Gift)**
-
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Lament
-
-**Ability:** Allows the wearer to enter a controlled dream-state.
-
-**Cost:** Waking memories become less vivid after repeated use.
+**Ability:** *Oneiric Distortion* — Grants +20% evasion against ranged attacks and line projectiles as incoming projectiles bend through the blurred dream fabric.
 
 ---
 
+**The Floating Dream Catcher Orb (Gift)**
+
+**Category:** Stigma (Shoulder / Neck Levitating Amethyst Orb) | **Grade:** β | **Element:** Lament
+
+Appearance : A thumb-sized sphere of milky amethyst glass that floats untethered three inches above the wielder’s left shoulder. It revolves slowly along a fixed horizontal axis.
+
+Tiny luminescent silver dream flecks drift inside the floating orb like falling stars, spinning faster when mental attacks enter the chamber. The orb absorbs up to five points of incoming psychological erosion each engagement round.
+
+**Slot:** Shoulder / Floating
+**Acquisition Probability:** 5%
+**Effect:** +1 stat bonus when working the source entity
+
+**Ability:** *Lucid Buffer* — Absorbs up to 5 points of direct Lament damage per turn into the orb; grants +1 Clarity.
 
 ### The Silent Bell ( 침묵의 종 ) — SE-C-IIβ-170
 

@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Judgment Fang
+# M.A.W. WEAPON — The Calibrated Scale-Pistol
 
 > *“It cuts only after the bearer decides what must be weighed. That decision is the sharper edge.”*
 
@@ -23,7 +23,9 @@
 
 ### Appearance
 
-The Judgment Fang is a short, heavy crimson blade of Han iron that curves forward like a broad hook, its edge thicker near the grip and narrowing to a rounded point. A single shallow channel runs along the back of the blade, dark and unpolished, and fills with a dull red glow only after the bearer names a specific act. The grip is wrapped in black cord with a knuckle guard on the upper edge, and the pommel is a small squared block that warms when the weapon begins to weigh a responsibility chain. In ordinary use the Fang is quiet and cold; once a real act is named, the glow travels down the channel to the point. A false account turns the glow back against the bearer's hand, leaving old-wound pain and bruising where the first cut should have landed. The weapon is never drawn without a named act in the bearer's memory, and the channel cools only after the strike has been accounted for.
+Appearance : A 42cm break-action double-barrel handgun forged from tarnished brass and dark walnut, featuring twin suspended balance pans beside the breech. It chambers calibrated lead guilt weights, firing heavy kinetic slugs with a metallic chime.
+
+Twin miniature brass scale pans dangle from delicate chain links along the cylinder housing, shifting with the wielder’s heartbeat. When fired, the weapon balances karmic Han against lead powder, discharging pressurized bronze slugs that leave smoking golden vapor trails across Range 3.
 
 ### Ability— Mark the Measure
 

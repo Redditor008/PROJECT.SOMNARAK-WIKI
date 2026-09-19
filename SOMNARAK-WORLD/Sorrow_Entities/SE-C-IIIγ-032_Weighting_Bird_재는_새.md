@@ -168,53 +168,66 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Judgment Fang
+### M.A.W. Weapon — The Calibrated Scale-Pistol
 
-**Type:** Weapon | **Grade:** γ | **Element:** Grudge
-
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
-
-**Damage:** Grudge 7-12
-**Speed:** 3 (Fast)
-**Range:** 3 (Medium)
+**Category:** RANGE / GUN SHAPE (Break-Action Double-Barrel Scale-Pistol)
+**Grade:** γ | **Element:** Grudge
+**Damage:** Grudge 12–18
+**Speed:** 3 (Normal)
+**Range:** 3 (Medium: 15m line shot / Instant)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Weighting Bird's grudge signature in the strike.
+**Attack Pattern:** Dual Slug / Calibrated Guilt Impact
+**Target Coverage:** Line; up to 2 targets in direct trajectory
+**Falloff Rule:** Primary target 100% → second target 60%.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+Appearance : A 42cm break-action double-barrel handgun forged from tarnished brass and dark walnut, featuring twin suspended balance pans beside the breech. It chambers calibrated lead guilt weights, firing heavy kinetic slugs with a metallic chime.
 
-### M.A.W. Suit — The Judgment Plate
+Twin miniature brass scale pans dangle from delicate chain links along the cylinder housing, shifting with the wielder’s heartbeat. When fired, the weapon balances karmic Han against lead powder, discharging pressurized bronze slugs that leave smoking golden vapor trails across Range 3.
 
-**Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
+**Special Move Set:**
+- *Primary Kinematics — "Guilt-Weighted Discharge":* Smooth double-action trigger pull; hammer strikes the percussion cap of the lower barrel, launching a heavy calibrated lead slug that delivers concentrated Grudge kinetic trauma.
+- *Active Special — "Equilibrium Execution":* The wielder thumbs the breech lever open, loads two heavy karmic slugs into both barrels, and fires them simultaneously. The twin balance pans violently snap level, projecting an instantaneous dual-slug shockwave across Range 3. If the target's current HP% is higher than the wielder's HP%, damage scales by +40% as karmic rebalancing.
+- *Cost & Drawback:* Heavy wrist torque and concussive muzzle blast; consecutive shots increase trigger pull resistance.
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that tightens near its source element.
+### M.A.W. Suit — The Bailiff's Feathered Greatcoat
+
+**Category:** Protective Attire (Raven Down Lining & Stamped Scale-Weight Greatcoat)
+**Grade:** γ | **Element:** Grudge
+
+Appearance : A tailored charcoal-grey watchman’s greatcoat lined with dense raven-black down feathers and trimmed in antique bronze braiding. It fastens down the breast with twin rows of stamped scale-weight buttons.
+
+Dense layers of compacted corvid down beneath the woolen shell cushion incoming blunt trauma and absorb Grudge impacts. Miniature bronze balance feathers dangle from the shoulder epaulets, shifting weight to offset concussive kinetic shockwaves.
 
 **Resistances:**
-- Grudge: 0.4 (Resistant)
+- Grudge: 0.6 (Endured)
 - Lament: 1.0 (Normal)
-- Weight: 1.2 (Weak)
-- Void: 1.8 (Weak)
+- Void: 1.2 (Weak)
+- Weight: 0.8 (Endured)
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Weighting Bird's kind of pressure.
+**Ability:** *Karmic Counterweight* — Reduces incoming Grudge damage by 25% when the attacker has dealt damage within the last 3 seconds.
 
-**Cost:** The wearer's reflexes dull, as if armored by resentment.
+**Cost:** The coat grows physically heavier as the wielder witnesses allies taking damage.
 
-### M.A.W. Gift — The Judgment Scale
+### M.A.W. Gift — The Suspended Balance Scale
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Grudge
+**Category:** Stigma (Chest / Brooch Miniature Balance Scale)
+**Grade:** γ | **Element:** Grudge
 
-**Appearance:** a scale-pendant of crimson Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+Appearance : A palm-sized antique brass balance scale pinned over the left breast, holding two miniature shallow pans suspended by hair-thin silver wires. The fulcrum rests directly above the bearer’s heart.
 
-**Slot:** Tail
+The delicate brass needle tilts continuously between the two pans in response to nearby emotional intent, settling into dead center only during lethal confrontations. It emits a soft chime when an enemy prepares a heavy attack.
+
+**Slot:** Chest / Brooch
 **Acquisition Probability:** 4%
 **Effect:** +2 stat bonus when working the source entity
 
-**Ability:** Measures the karmic debt of two individuals and shows who owes more.
+**Ability:** *Impartial Reckoning* — Increases critical hit rate by +10% against targets with higher maximum health than the bearer.
 
-**Cost:** The user feels both debts simultaneously.
+**Cost:** The needle's constant movement creates a faint, persistent prickling sensation over the breastbone.
 
 *Gifts are granted at random by the entity upon a successful work, not manufactured.*
 

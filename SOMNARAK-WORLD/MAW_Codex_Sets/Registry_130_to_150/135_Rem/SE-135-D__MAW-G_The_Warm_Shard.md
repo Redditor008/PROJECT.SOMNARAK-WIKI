@@ -1,4 +1,4 @@
-# M.A.W. GIFT — The Warm Shard
+# M.A.W. GIFT — The Floating Dream Catcher Orb
 
 > *“It opens a controlled dream door. Every time it does, waking life loses one sharp edge.”*
 
@@ -16,9 +16,9 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Warm Shard |
+| Official name | The Floating Dream Catcher Orb |
 | Set | Wake With It |
-| Type / grade / element | Gift, warm Dream shard / β — Moderate / Lament — Deep Blue |
+| Type / grade / element | Stigma (Shoulder / Neck Levitating Amethyst Orb) / β / Lament |
 | Slot | Tail |
 | Status | Bearer-bound; controlled Dream-entry only |
 | Known bearer | Dreamer Sora |
@@ -41,7 +41,9 @@
 
 ## Appearance
 
-The Warm Shard is a small blue Han-glass shard shaped like a smooth, rounded teardrop, with a warm centre that seems to hold a light just below the surface of waking. It is light and cool in ordinary daylight and can be held between the fingers or worn close to the body. When a waking anchor is present and has spoken the return cue, the shard opens a softly lit Dream threshold no wider than the bearer's attention. The opening carries no visible frame and closes behind the bearer without leaving a mark in the room. The bearer enters a controlled Dream-state for one defined interval, and the shard stays warm only while the anchor holds the agreement. It cannot complete the source dream or create a permanent alternative life. After use the bearer loses one sharp edge from waking memory, and a colleague usually walks the relevant corridor so that some detail returns. The anchor covers the warm centre and speaks the cue for shutdown, and the shard is never stored inside a Dream Gate.
+Appearance : A thumb-sized sphere of milky amethyst glass that floats untethered three inches above the wielder’s left shoulder. It revolves slowly along a fixed horizontal axis.
+
+Tiny luminescent silver dream flecks drift inside the floating orb like falling stars, spinning faster when mental attacks enter the chamber. The orb absorbs up to five points of incoming psychological erosion each engagement round.
 
 ## GIFT STATISTICS
 

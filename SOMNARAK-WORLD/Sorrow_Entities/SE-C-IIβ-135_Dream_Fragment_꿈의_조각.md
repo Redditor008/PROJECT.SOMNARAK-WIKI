@@ -181,53 +181,66 @@ The escalation pattern is specific to Dream Fragment: it is not a generic breach
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Warm Requiem
+### M.A.W. Weapon — The Levitating Oneiric Prisms
 
-**Type:** Weapon | **Grade:** β | **Element:** Lament
-
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
-
-**Damage:** Lament 5-9
-**Speed:** 2 (Normal)
-**Range:** 2 (Short)
+**Category:** FANTASY (Telekinetically Suspended Lavender Prisms & Astral Somnolence Halo)
+**Grade:** β | **Element:** Lament
+**Damage:** Lament 6–10
+**Speed:** 4 (Fast)
+**Range:** 4 (Long: 4–12m levitating strikes)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Dream Fragment's lament signature in the strike.
+**Attack Pattern:** Tri-Prism Dart / Somnolent Orbit
+**Target Coverage:** Designated single target or 3 converging vectors
+**Falloff Rule:** Single target concentrated 100% → split vector 65% per prism.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+Appearance : A cluster of three diamond-faceted lavender crystal prisms hovering telekinetically above the wielder’s open hand in a slow triangular orbit. The floating crystals emit faint chime vibrations and project translucent violet dream trails.
 
-### M.A.W. Suit — The Warm Shroud
+Without physical handles or cords, the three twenty-centimeter prisms respond instantaneously to telekinetic hand gestures. Thrusting a palm forward launches the crystals in high-speed linear piercing trajectories up to Range 4 before they snap smoothly back into revolving equilibrium around the wrist.
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
+**Special Move Set:**
+- *Primary Kinematics — "Oneiric Pierce":* Thrusting the open hand forward commands one lavender prism to streak in a razor-sharp linear vector across Range 4, puncturing the target's psyche with Lament before arcing smoothly back into orbit.
+- *Active Special — "Somnolence Cage":* The wielder clasps their hands together at chest height; all three prisms accelerate into a spinning violet ring around a target at Range 4, projecting refracted planar beams of dream-light inward. The target is trapped within the geometric somnolence field for 3 seconds, taking continuous psychic erosion and suffering 50% slowed action speed.
+- *Cost & Drawback:* Mental synchronization drains cognitive stamina; sustaining the cage prevents the wielder from sprinting.
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+### M.A.W. Suit — The Somnolent Gossamer Shroud
+
+**Category:** Protective Attire (Translucent Dream-Spun Silk & Veil)
+**Grade:** β | **Element:** Lament
+
+Appearance : A flowing ankle-length robe of layered translucent violet gossamer worn over an inner tunic of soft dream-spun linen. It is accented by a trailing hooded veil that partially conceals the face.
+
+The sheer fabric drifts as if floating submerged in liquid, blurring the wearer’s silhouette into soft optical distortions. Incoming ranged attacks and psionic mental waves lose kinetic focus when passing through the dampening folds, reducing incoming Lament erosion.
 
 **Resistances:**
-- Grudge: 1.0 (Normal)
-- Lament: 0.4 (Resistant)
-- Weight: 0.8 (Endured)
-- Void: 1.6 (Weak)
+- Lament: 0.5 (Endured)
+- Grudge: 1.2 (Weak)
+- Void: 0.8 (Endured)
+- Weight: 1.1 (Weak)
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Dream Fragment's kind of pressure.
+**Ability:** *Oneiric Distortion* — Grants +20% evasion against ranged attacks and line projectiles as incoming projectiles bend through the blurred dream fabric.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer experiences occasional microsleep episodes while resting.
 
-### M.A.W. Gift — The Warm Shard
+### M.A.W. Gift — The Floating Dream Catcher Orb
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Lament
+**Category:** Stigma (Shoulder / Neck Levitating Amethyst Orb)
+**Grade:** β | **Element:** Lament
 
-**Appearance:** a shard-tile of deep-blue Han-crystal, cool and faintly luminous, carrying a faint weight that does not match its size.
+Appearance : A thumb-sized sphere of milky amethyst glass that floats untethered three inches above the wielder’s left shoulder. It revolves slowly along a fixed horizontal axis.
 
-**Slot:** Tail
+Tiny luminescent silver dream flecks drift inside the floating orb like falling stars, spinning faster when mental attacks enter the chamber. The orb absorbs up to five points of incoming psychological erosion each engagement round.
+
+**Slot:** Shoulder / Floating
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity
 
-**Ability:** Allows the wearer to enter a controlled dream-state.
+**Ability:** *Lucid Buffer* — Absorbs up to 5 points of direct Lament damage per turn into the orb; grants +1 Clarity.
 
-**Cost:** Waking memories become less vivid after repeated use.
+**Cost:** The floating orb casts faint violet reflections in mirrors even in total darkness.
 
 *Gifts are granted at random by the entity upon a successful work, not manufactured.*
 
