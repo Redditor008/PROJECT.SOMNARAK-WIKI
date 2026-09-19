@@ -1,4 +1,4 @@
-# M.A.W. SUIT — The Frozen Pane
+# M.A.W. PROTECTIVE ATTIRE — The Shuttered Window-Plate
 
 > *“It absorbs the blow and shows every departure reflected in it.”*
 
@@ -18,7 +18,7 @@ Iseulfros wore it through a frozen-shard impact. The Pane absorbed force and slo
 
 ## Appearance
 
-The Frozen Pane is a black pane-harness of Han steel containing moving farewell scenes — departures crossing the armor’s face like figures passing behind glass. It condenses after the circuit settles, and it binds through an accompaniment partner and a current endpoint. Under attack it absorbs one impact and briefly slows its source while displaying the departure attached to the pressure — in its recorded case taking a frozen-shard impact, slowing the attacker, then replaying every departure associated with the route until the wearer named the present Commons aloud. The cost is empathic: the wearer feels every departure reflected in the shield. Scenes replacing current sight is the first failure; absorbed force mistaken for proof of return is the second; and Void erasing the endpoint is the third — a shield full of farewells with nowhere for them to have ended. It is maintained thawed beside the completed route while the partner names past departure and current location separately, two entries that must never merge. The accompaniment partner stays within voice range for the whole deployment; the Pane is worn on a walked route, never at a window.
+The Shuttered Window-Plate is a black pane-harness of Han steel containing moving farewell scenes — departures crossing the armor’s face like figures passing behind glass. It condenses after the circuit settles, and it binds through an accompaniment partner and a current endpoint. Under attack it absorbs one impact and briefly slows its source while displaying the departure attached to the pressure — in its recorded case taking a frozen-shard impact, slowing the attacker, then replaying every departure associated with the route until the wearer named the present Commons aloud. The cost is empathic: the wearer feels every departure reflected in the shield. Scenes replacing current sight is the first failure; absorbed force mistaken for proof of return is the second; and Void erasing the endpoint is the third — a shield full of farewells with nowhere for them to have ended. It is maintained thawed beside the completed route while the partner names past departure and current location separately, two entries that must never merge. The accompaniment partner stays within voice range for the whole deployment; the Pane is worn on a walked route, never at a window.
 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|

@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Sorrow Requiem
+# M.A.W. WEAPON — The Weeping Basin-Aspergillum
 
 > *“It sings only when the bearer has stopped trying to outrun the grief in the room.”*
 
@@ -16,7 +16,7 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Sorrow Requiem |
+| Official name | The Weeping Basin-Aspergillum |
 | Set | Shared Current |
 | Type / grade / element | Weapon / γ — Major / Lament — Deep Blue |
 | Status | Active; issued with a post-use witness requirement |
@@ -56,7 +56,7 @@
 
 ### Appearance
 
-The Sorrow Requiem is a long, narrow blade of deep-blue Han crystal with a soft blue seam running from the guard to the point. The seam is silent until the bearer names a loss or pressure without naming an unwilling person as its cause, and then a low note travels along the flat as the blade strikes. The grip is wrapped in dark blue cord over a ridged core, with a plain round guard and a small ring pommel. The blade pierces a target or line of targets with Lament pressure, making an emotional burden perceptible rather than merely forcing it down. If the bearer swallows back tears, blue moisture climbs the grip and locks the blade in its sheath. The weapon rests on a dry cloth near the basin, not inside it, after every use. The blade is rested on dry cloth near the basin after activation, and the blue seam does not relight until the bearer has given the aftertone to a witness.
+The Weeping Basin-Aspergillum is a long, narrow blade of deep-blue Han crystal with a soft blue seam running from the guard to the point. The seam is silent until the bearer names a loss or pressure without naming an unwilling person as its cause, and then a low note travels along the flat as the blade strikes. The grip is wrapped in dark blue cord over a ridged core, with a plain round guard and a small ring pommel. The blade pierces a target or line of targets with Lament pressure, making an emotional burden perceptible rather than merely forcing it down. If the bearer swallows back tears, blue moisture climbs the grip and locks the blade in its sheath. The weapon rests on a dry cloth near the basin, not inside it, after every use. The blade is rested on dry cloth near the basin after activation, and the blue seam does not relight until the bearer has given the aftertone to a witness.
 
 ### Basic attack— *Welling Cut*
 

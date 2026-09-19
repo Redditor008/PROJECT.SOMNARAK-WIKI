@@ -168,32 +168,36 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Rage Fang
+### M.A.W. Weapon — The Vein-Heated Marble Brand
 
-**Type:** Weapon | **Grade:** γ | **Element:** Grudge
-
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that hums faintly when gripped.
-
-**Damage:** Grudge 7–12
-**Speed:** 3 (Fast)
-**Range:** 3 (Medium)
+**Category:** BLUNT / PRIMAL (Molten-Veined Broken Marble Fist & Haft)
+**Grade:** γ | **Element:** Grudge
+**Damage:** Grudge 12–19
+**Speed:** 2 (Slow)
+**Range:** 2 (Short: 1.5m reach)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Attack Pattern:** Pierce
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
+**Attack Pattern:** Overhand Crush / Thermal Eruption
+**Target Coverage:** Designated primary target + 3m outward ground starburst
+**Falloff Rule:** 100% direct kinetic impact; 70% thermal ground wave to adjacent enemies.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Rage Statue's grudge signature in the strike.
+**Appearance (SVG-Ready Specification):**
+A 120cm brutal war-implement featuring a square-profile bar of forged black iron bound with twin copper heat-dissipation coils. Mounted at the head is the life-sized severed right forearm and clenched fist of an ancient neoclassical statue sculpted from stark white Carrara marble. The stone fingers are locked in a white-knuckled spasm of furious clenching around the fractured stump of an iron sculptor's chisel. Deep crimson, glowing stress fissures spiderweb across the stone wrist, knuckles, and palm, pulsing with internal incandescent red Grudge fire (800°C) that makes the marble semi-translucent along the cracks. When swung, the air around the marble fist ripples with intense thermal haze and emits a low furnace drone.
 
-**Cost:** The wielder's old wounds ache; prolonged use leaves faint bruising.
+**Special Move Set:**
+- *Primary Kinematics — "Petrified Wrath":* Heavy diagonal bludgeoning strike; upon impact, the molten marble knuckles discharge an explosive blast of Grudge heat that incinerates armor plating and leaves blistered scorch wounds.
+- *Active Special — "Furnace Ground-Slam":* The wielder hoists the brand high with both hands and drives the clenched marble fist straight into the earth with full downward body weight. The chisel stump punctures the floor, detonating the molten Grudge fissures in an outward starburst pattern of flaming red cracks across a 3-meter radius (Range 2). Erupting geysers of superheated stone splinters and red Grudge fire launch caught targets into the air, inflicting heavy Grudge burn and "Armor-Crumble" (-20% target defense for 5s).
+- *Cost & Drawback:* Extreme thermal bleed radiates up the iron haft; two consecutive special slams require a 1-turn pause to vent heat or cause thermal self-burn.
 
-### M.A.W. Suit — The Rage Gauntlet
+### M.A.W. Suit — The Sculptor's Flame-Hardened Apron & Cuirass
 
-**Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
+**Category:** Protective Attire (Thick Bison Leather Apron & Slag-Infused Iron Breastplate)
+**Grade:** γ | **Element:** Grudge
 
-**Appearance:** a heavy gauntlet of crimson Han-iron, dark and faintly warm, that tightens near its source element.
+**Appearance (SVG-Ready Specification):**
+A heavy split-leg stonemason's work apron of vulcanized black bison leather, fitted over an arched iron breastplate embedded with hardened red slag and crushed marble shards. The left shoulder is protected by a solid iron pauldron styled after a sculptor's anvil, blackened with soot and scratched by hammer strikes.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -203,23 +207,25 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Strikes carry accumulated resentment.
+**Ability:** *Pyric Tempering* — Absorbs incoming Grudge and heat damage, converting stored thermal energy into kinetic speed (+10% attack speed when bearer is below 50% HP).
 
-**Cost:** The wearer cannot easily distinguish justice from retaliation.
+**Cost:** The wearer's thoughts run hot; small grievances feel immediately personal and urgent.
 
-### M.A.W. Gift — The Rage Charm
+### M.A.W. Gift — The Chiseled Knuckle Stigma
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Grudge
+**Category:** Stigma (Hand / Knuckle Calcification)
+**Grade:** γ | **Element:** Grudge
 
-**Appearance:** a small charm of crimson Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+**Appearance (SVG-Ready Specification):**
+The skin and bone across the wielder's striking knuckles calcify into jagged, white marble-like stone nodules. Thin, glowing reddish capillaries spiderweb between the stone knuckles, pulsing with dim orange ember light whenever adrenaline rises.
 
-**Slot:** Tail
+**Slot:** Hand / Knuckles
 **Acquisition Probability:** 4%
 **Effect:** +2 stat bonus when working the source entity
 
-**Ability:** Grants a minor boon tied to The Rage Statue's sorrow; the effect mirrors the entity's nature.
+**Ability:** *Stonefist Resolve* — Unarmed strikes deal +4 Grudge damage; bearer gains +1 Fortitude and cannot have weapons knocked from their grip.
 
-**Cost:** The bearer's temper shortens.
+**Cost:** The bearer's fingers become stiff and cold during periods of calm.
 
 *Gifts are granted at random by the entity upon a successful work, not manufactured.*
 

@@ -1,6 +1,6 @@
-# M.A.W. WEAPON — The Frozen Maul
+# M.A.W. WEAPON — The Shattered Escapement-Cudgel
 
-> *“The Frozen Maul remembers The Broken Clock; the bearer must not mistake memory for permission.”*
+> *“The Shattered Escapement-Cudgel remembers The Broken Clock; the bearer must not mistake memory for permission.”*
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The The Broken Clock Source-Trace: Weapon Record*
 
-The first The Frozen Maul field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to The Broken Clock. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Shattered Escapement-Cudgel field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to The Broken Clock. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -38,12 +38,12 @@ The first The Frozen Maul field bearer encountered this source response: N/A —
 - Terminal state: The Broken Clock's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-044 -->
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Frozen Maul only after attribution review.   <!-- SE-044 -->
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Frozen Maul; shutdown preserves the record but does not refund its cost. <!-- SE-044 -->
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Shattered Escapement-Cudgel only after attribution review.   <!-- SE-044 -->
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Shattered Escapement-Cudgel; shutdown preserves the record but does not refund its cost. <!-- SE-044 -->
 
 ## SET RELATIONSHIP
 
-Within *The Broken Clock — Witnessed Form*, The Frozen Maul performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Broken Clock — Witnessed Form*, The Shattered Escapement-Cudgel performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

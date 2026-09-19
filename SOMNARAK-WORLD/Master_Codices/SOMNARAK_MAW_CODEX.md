@@ -65,9 +65,9 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 25 | Weapon | The Guardian Lens | [The Guarding Bird](../Sorrow_Entities/SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md) | SE-C-IIIγ-033 | Weapon | γ | Void |
 | 26 | Suit | The Guardian Veil | [The Guarding Bird](../Sorrow_Entities/SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md) | SE-C-IIIγ-033 | Armor (Suit) | γ | Void |
 | 27 | Gift | The Guardian Wing | [The Guarding Bird](../Sorrow_Entities/SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md) | SE-C-IIIγ-033 | Accessory (Gift) | γ | Void |
-| 28 | Weapon | The Frozen Maul | [The Broken Clock](../Sorrow_Entities/SE-C-IIIγ-044_The_Broken_Clock_부서진_시계.md) | SE-C-IIIγ-044 | Weapon | γ | Weight |
-| 29 | Suit | The Frozen Mantle | [The Broken Clock](../Sorrow_Entities/SE-C-IIIγ-044_The_Broken_Clock_부서진_시계.md) | SE-C-IIIγ-044 | Armor (Suit) | γ | Weight |
-| 30 | Gift | The Frozen Moment | [The Broken Clock](../Sorrow_Entities/SE-C-IIIγ-044_The_Broken_Clock_부서진_시계.md) | SE-C-IIIγ-044 | Accessory (Gift) | γ | Weight |
+| 28 | Weapon | The Shattered Escapement-Cudgel | [The Broken Clock](../Sorrow_Entities/SE-C-IIIγ-044_The_Broken_Clock_부서진_시계.md) | SE-C-IIIγ-044 | Weapon (BLUNT — Escapement Wheel & Pendulum) | γ | Weight |
+| 29 | Suit | The Pendulum-Weighted Greatcoat | [The Broken Clock](../Sorrow_Entities/SE-C-IIIγ-044_The_Broken_Clock_부서진_시계.md) | SE-C-IIIγ-044 | Armor (Weighted Greatcoat) | γ | Weight |
+| 30 | Gift | The Frozen Escapement Wheel | [The Broken Clock](../Sorrow_Entities/SE-C-IIIγ-044_The_Broken_Clock_부서진_시계.md) | SE-C-IIIγ-044 | Accessory (Clockwork Shard) | γ | Weight |
 | 31 | Weapon | The Burden Maul | [The Debtor](../Sorrow_Entities/SE-C-IIIγ-061_The_Debtor_빚진_자.md) | SE-C-IIIγ-061 | Weapon | γ | Weight |
 | 32 | Suit | The Burden Mantle | [The Debtor](../Sorrow_Entities/SE-C-IIIγ-061_The_Debtor_빚진_자.md) | SE-C-IIIγ-061 | Armor (Suit) | γ | Weight |
 | 33 | Gift | The Burden Chain | [The Debtor](../Sorrow_Entities/SE-C-IIIγ-061_The_Debtor_빚진_자.md) | SE-C-IIIγ-061 | Accessory (Gift) | γ | Weight |
@@ -80,9 +80,9 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 40 | Weapon | The Hollow Sceptre | [The Hollow Saint](../Sorrow_Entities/SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md) | SE-C-IIIγ-081 | Weapon (MAGIC — Choral Staff) | γ | Void |
 | 41 | Suit | The Hollow Veil | [The Hollow Saint](../Sorrow_Entities/SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md) | SE-C-IIIγ-081 | Armor (Suit) | γ | Void |
 | 42 | Gift | The Hollow Chalice | [The Hollow Saint](../Sorrow_Entities/SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md) | SE-C-IIIγ-081 | Accessory (Gift) | γ | Void |
-| 43 | Weapon | The Sorrow Requiem | [The Sorrow Fountain](../Sorrow_Entities/SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md) | SE-C-IIIγ-088 | Weapon | γ | Lament |
-| 44 | Suit | The Sorrow Shroud | [The Sorrow Fountain](../Sorrow_Entities/SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md) | SE-C-IIIγ-088 | Armor (Suit) | γ | Lament |
-| 45 | Gift | The Sorrow Vial | [The Sorrow Fountain](../Sorrow_Entities/SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md) | SE-C-IIIγ-088 | Accessory (Gift) | γ | Lament |
+| 43 | Weapon | The Weeping Basin-Aspergillum | [The Sorrow Fountain](../Sorrow_Entities/SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md) | SE-C-IIIγ-088 | Weapon (MAGIC — Marble Aspergillum & Basin) | γ | Lament |
+| 44 | Suit | The Cistern-Keeper's Chiton & Mantle | [The Sorrow Fountain](../Sorrow_Entities/SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md) | SE-C-IIIγ-088 | Armor (Chiton & Mantle) | γ | Lament |
+| 45 | Gift | The Weeping Gargoyle Brooch | [The Sorrow Fountain](../Sorrow_Entities/SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md) | SE-C-IIIγ-088 | Accessory (Stone Brooch) | γ | Lament |
 | 46 | Weapon | The Dancing Fang | [The Dancing Chains](../Sorrow_Entities/SE-C-IIIγ-102_The_Dancing_Chains_춤추는_사슬.md) | SE-C-IIIγ-102 | Weapon | γ | Grudge |
 | 47 | Suit | The Dancing Plate | [The Dancing Chains](../Sorrow_Entities/SE-C-IIIγ-102_The_Dancing_Chains_춤추는_사슬.md) | SE-C-IIIγ-102 | Armor (Suit) | γ | Grudge |
 | 48 | Gift | The Dancing Shoes | [The Dancing Chains](../Sorrow_Entities/SE-C-IIIγ-102_The_Dancing_Chains_춤추는_사슬.md) | SE-C-IIIγ-102 | Accessory (Gift) | γ | Grudge |
@@ -104,9 +104,9 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 64 | Weapon | The Sarcophagus Wall-Ram | [The Debt Wall](../Sorrow_Entities/SE-C-IIIγ-180_The_Debt_Wall_빚의_벽.md) | SE-C-IIIγ-180 | Weapon (UNIQUE — Wall Battering Ram) | γ | Weight |
 | 65 | Suit | The Mason's Mortar-Crusted Hauberk | [The Debt Wall](../Sorrow_Entities/SE-C-IIIγ-180_The_Debt_Wall_빚의_벽.md) | SE-C-IIIγ-180 | Armor (Stone-Padded Hauberk) | γ | Weight |
 | 66 | Gift | The Unpaid Brick Shard | [The Debt Wall](../Sorrow_Entities/SE-C-IIIγ-180_The_Debt_Wall_빚의_벽.md) | SE-C-IIIγ-180 | Accessory (Stone Relic Shard) | γ | Weight |
-| 67 | Weapon | The Rage Fang | [The Rage Statue](../Sorrow_Entities/SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상.md) | SE-C-IIIγ-190 | Weapon | γ | Grudge |
-| 68 | Suit | The Rage Gauntlet | [The Rage Statue](../Sorrow_Entities/SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상.md) | SE-C-IIIγ-190 | Armor (Suit) | γ | Grudge |
-| 69 | Gift | The Rage Charm | [The Rage Statue](../Sorrow_Entities/SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상.md) | SE-C-IIIγ-190 | Accessory (Gift) | γ | Grudge |
+| 67 | Weapon | The Vein-Heated Marble Brand | [The Rage Statue](../Sorrow_Entities/SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상.md) | SE-C-IIIγ-190 | Weapon (BLUNT — Molten Marble Brand) | γ | Grudge |
+| 68 | Suit | The Sculptor's Flame-Hardened Apron & Cuirass | [The Rage Statue](../Sorrow_Entities/SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상.md) | SE-C-IIIγ-190 | Armor (Leather Apron & Cuirass) | γ | Grudge |
+| 69 | Gift | The Chiseled Knuckle Stigma | [The Rage Statue](../Sorrow_Entities/SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상.md) | SE-C-IIIγ-190 | Accessory (Knuckle Stigma) | γ | Grudge |
 | 70 | Weapon | The Sorrow Lens | [The Mirror of Sorrows](../Sorrow_Entities/SE-C-IIIγ-195_The_Mirror_of_Sorrows_슬픔의_거울.md) | SE-C-IIIγ-195 | Weapon | γ | Void |
 | 71 | Suit | The Sorrow Veil | [The Mirror of Sorrows](../Sorrow_Entities/SE-C-IIIγ-195_The_Mirror_of_Sorrows_슬픔의_거울.md) | SE-C-IIIγ-195 | Armor (Suit) | γ | Void |
 | 72 | Gift | The Sorrow Lens | [The Mirror of Sorrows](../Sorrow_Entities/SE-C-IIIγ-195_The_Mirror_of_Sorrows_슬픔의_거울.md) | SE-C-IIIγ-195 | Accessory (Gift) | γ | Void |
@@ -149,9 +149,9 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 109 | Weapon | The Void Maul | [The Empty Mask](../Sorrow_Entities/SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) | SE-C-IIβ-054 | Weapon | β | Weight |
 | 110 | Suit | The Void Mantle | [The Empty Mask](../Sorrow_Entities/SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) | SE-C-IIβ-054 | Armor (Suit) | β | Weight |
 | 111 | Gift | The Void Mask | [The Empty Mask](../Sorrow_Entities/SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) | SE-C-IIβ-054 | Accessory (Gift) | β | Weight |
-| 112 | Weapon | The Tear Requiem | [The Weeping Statue](../Sorrow_Entities/SE-C-IIβ-055_The_Weeping_Statue_우는_조상.md) | SE-C-IIβ-055 | Weapon | β | Lament |
-| 113 | Suit | The Tear Shroud | [The Weeping Statue](../Sorrow_Entities/SE-C-IIβ-055_The_Weeping_Statue_우는_조상.md) | SE-C-IIβ-055 | Armor (Suit) | β | Lament |
-| 114 | Gift | The Tear Earring | [The Weeping Statue](../Sorrow_Entities/SE-C-IIβ-055_The_Weeping_Statue_우는_조상.md) | SE-C-IIβ-055 | Accessory (Gift) | β | Lament |
+| 112 | Weapon | The Travertine Blind-Stiletto | [The Weeping Statue](../Sorrow_Entities/SE-C-IIβ-055_The_Weeping_Statue_우는_조상.md) | SE-C-IIβ-055 | Weapon (BLADES — Travertine Stiletto & Ribbon) | β | Lament |
+| 113 | Suit | The Mourner's Pleated Peplos | [The Weeping Statue](../Sorrow_Entities/SE-C-IIβ-055_The_Weeping_Statue_우는_조상.md) | SE-C-IIβ-055 | Armor (Silk Peplos) | β | Lament |
+| 114 | Gift | The Obsidian Tear Drop Earring | [The Weeping Statue](../Sorrow_Entities/SE-C-IIβ-055_The_Weeping_Statue_우는_조상.md) | SE-C-IIβ-055 | Accessory (Obsidian Earring) | β | Lament |
 | 115 | Weapon | The Phantom Dancer's Tri-Daggers | [The Masked Dancer](../Sorrow_Entities/SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md) | SE-C-IIβ-099 | Weapon (FANTASY — Spectral Glove & 3 Daggers) | β | Grudge |
 | 116 | Suit | The Dancing Plate | [The Masked Dancer](../Sorrow_Entities/SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md) | SE-C-IIβ-099 | Armor (Suit) | β | Grudge |
 | 117 | Gift | The Dancing Mask | [The Masked Dancer](../Sorrow_Entities/SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md) | SE-C-IIβ-099 | Accessory (Gift) | β | Grudge |
@@ -197,9 +197,9 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 157 | Weapon | The Truth Lens | [The Cracked Mirror](../Sorrow_Entities/SE-C-IIβ-310_The_Cracked_Mirror_금이_간_거울.md) | SE-C-IIβ-310 | Weapon | β | Void |
 | 158 | Suit | The Truth Veil | [The Cracked Mirror](../Sorrow_Entities/SE-C-IIβ-310_The_Cracked_Mirror_금이_간_거울.md) | SE-C-IIβ-310 | Armor (Suit) | β | Void |
 | 159 | Gift | The Truth Lens | [The Cracked Mirror](../Sorrow_Entities/SE-C-IIβ-310_The_Cracked_Mirror_금이_간_거울.md) | SE-C-IIβ-310 | Accessory (Gift) | β | Void |
-| 160 | Weapon | The Frozen Maul | [The Frozen Window](../Sorrow_Entities/SE-C-IIβ-330_The_Frozen_Window_얼어붙은_창.md) | SE-C-IIβ-330 | Weapon | β | Weight |
-| 161 | Suit | The Frozen Pane | [The Frozen Window](../Sorrow_Entities/SE-C-IIβ-330_The_Frozen_Window_얼어붙은_창.md) | SE-C-IIβ-330 | Armor (Suit) | β | Weight |
-| 162 | Gift | The Frozen Charm | [The Frozen Window](../Sorrow_Entities/SE-C-IIβ-330_The_Frozen_Window_얼어붙은_창.md) | SE-C-IIβ-330 | Accessory (Gift) | β | Weight |
+| 160 | Weapon | The Glazed Mullion-Pike | [The Frozen Window](../Sorrow_Entities/SE-C-IIβ-330_The_Frozen_Window_얼어붙은_창.md) | SE-C-IIβ-330 | Weapon (POLEARM / RANGE — Mullion-Pike & Pane) | β | Weight |
+| 161 | Suit | The Shuttered Window-Plate | [The Frozen Window](../Sorrow_Entities/SE-C-IIβ-330_The_Frozen_Window_얼어붙은_창.md) | SE-C-IIβ-330 | Armor (Shuttered Cuirass) | β | Weight |
+| 162 | Gift | The Rime-Pane Monocle | [The Frozen Window](../Sorrow_Entities/SE-C-IIβ-330_The_Frozen_Window_얼어붙은_창.md) | SE-C-IIβ-330 | Accessory (Ice Monocle) | β | Weight |
 | 163 | Weapon | The Clapperless Chime-Sceptre | [The Hollow Bell](../Sorrow_Entities/SE-C-IIβ-340_The_Hollow_Bell_빈_종.md) | SE-C-IIβ-340 | Weapon (MAGIC — Chime-Sceptre & Striker) | β | Void |
 | 164 | Suit | The Resonance-Dampening Shroud | [The Hollow Bell](../Sorrow_Entities/SE-C-IIβ-340_The_Hollow_Bell_빈_종.md) | SE-C-IIβ-340 | Armor (Resonance Shroud) | β | Void |
 | 165 | Gift | The Hollow Bell Pendant | [The Hollow Bell](../Sorrow_Entities/SE-C-IIβ-340_The_Hollow_Bell_빈_종.md) | SE-C-IIβ-340 | Accessory (Silver Chime Pendant) | β | Void |
@@ -1084,7 +1084,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Broken Clock ( 부서진 시계 ) — SE-C-IIIγ-044
 
-**Entry 28 — The Frozen Maul (Weapon)**
+**Entry 28 — The Shattered Escapement-Cudgel (Weapon)**
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
@@ -1094,7 +1094,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ---
 
-**Entry 29 — The Frozen Mantle (Suit)**
+**Entry 29 — The Pendulum-Weighted Greatcoat (Suit)**
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
 
@@ -1104,7 +1104,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ---
 
-**Entry 30 — The Frozen Moment (Gift)**
+**Entry 30 — The Frozen Escapement Wheel (Gift)**
 
 **Type:** Accessory (Gift) | **Grade:** γ | **Element:** Weight
 
@@ -1251,7 +1251,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Sorrow Fountain ( 슬픔의 분수 ) — SE-C-IIIγ-088
 
-**Entry 43 — The Sorrow Requiem (Weapon)**
+**Entry 43 — The Weeping Basin-Aspergillum (Weapon)**
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
@@ -1261,7 +1261,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ---
 
-**Entry 44 — The Sorrow Shroud (Suit)**
+**Entry 44 — The Cistern-Keeper's Chiton & Mantle (Suit)**
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
 
@@ -1271,7 +1271,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ---
 
-**Entry 45 — The Sorrow Vial (Gift)**
+**Entry 45 — The Weeping Gargoyle Brooch (Gift)**
 
 **Type:** Accessory (Gift) | **Grade:** γ | **Element:** Lament
 
@@ -1516,7 +1516,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Rage Statue ( 분노의 조각상 ) — SE-C-IIIγ-190
 
-**Entry 67 — The Rage Fang (Weapon)**
+**Entry 67 — The Vein-Heated Marble Brand (Weapon)**
 
 **Type:** Weapon | **Grade:** γ | **Element:** Grudge
 
@@ -1526,7 +1526,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ---
 
-**Entry 68 — The Rage Gauntlet (Suit)**
+**Entry 68 — The Sculptor's Flame-Hardened Apron & Cuirass (Suit)**
 
 **Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
 
@@ -1536,7 +1536,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ---
 
-**Entry 69 — The Rage Charm (Gift)**
+**Entry 69 — The Chiseled Knuckle Stigma (Gift)**
 
 **Type:** Accessory (Gift) | **Grade:** γ | **Element:** Grudge
 
@@ -2011,7 +2011,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Weeping Statue ( 우는 조상 ) — SE-C-IIβ-055
 
-**Entry 112 — The Tear Requiem (Weapon)**
+**Entry 112 — The Travertine Blind-Stiletto (Weapon)**
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
@@ -2021,7 +2021,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ---
 
-**Entry 113 — The Tear Shroud (Suit)**
+**Entry 113 — The Mourner's Pleated Peplos (Suit)**
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
@@ -2031,7 +2031,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ---
 
-**Entry 114 — The Tear Earring (Gift)**
+**Entry 114 — The Obsidian Tear Drop Earring (Gift)**
 
 **Type:** Accessory (Gift) | **Grade:** β | **Element:** Lament
 
@@ -2540,7 +2540,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Frozen Window ( 얼어붙은 창 ) — SE-C-IIβ-330
 
-**Entry 160 — The Frozen Maul (Weapon)**
+**Entry 160 — The Glazed Mullion-Pike (Weapon)**
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
@@ -2550,7 +2550,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ---
 
-**Entry 161 — The Frozen Pane (Suit)**
+**Entry 161 — The Shuttered Window-Plate (Suit)**
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
@@ -2560,7 +2560,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ---
 
-**Entry 162 — The Frozen Charm (Gift)**
+**Entry 162 — The Rime-Pane Monocle (Gift)**
 
 **Type:** Accessory (Gift) | **Grade:** β | **Element:** Weight
 

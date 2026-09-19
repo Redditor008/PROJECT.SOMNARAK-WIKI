@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Frozen Maul
+# M.A.W. WEAPON — The Glazed Mullion-Pike
 
 > *“Break what stops the circuit. Do not break the last view.”*
 
@@ -18,7 +18,7 @@ During a Commons freeze, Durivel broke a sealed exit that prevented the entity�
 
 ## Appearance
 
-The Frozen Maul is a matte black maul of Han steel with a frozen window face — the head is a pane of endpoint frost, and somewhere in it a final departure is preserved mid-step. It forms from endpoint frost after a completed circuit, and its binding requires a named route endpoint and a prohibition against striking the reflected farewell. In use it breaks one current obstruction forcing the waiting route to repeat — in its recorded case a sealed exit that prevented the entity’s final pass; the image survived the blow. The cost is progressive heaviness and slight aging; the first wielder’s shoulders gained the heaviness of years spent watching the same corner. Striking the farewell erases its endpoint — the one failure the binding explicitly forbids; stopping the circuit early freezes the head solid; and using the Maul to summon return makes the wielder wait in place, inheriting the vigil instead of ending it. It is maintained resting at the route endpoint until the frost displays the final departure exactly once and does not repeat — a single showing is completion, a loop is corrosion. The window face is never wiped clear; the farewell belongs to the route, not the wielder.
+The Glazed Mullion-Pike is a matte black maul of Han steel with a frozen window face — the head is a pane of endpoint frost, and somewhere in it a final departure is preserved mid-step. It forms from endpoint frost after a completed circuit, and its binding requires a named route endpoint and a prohibition against striking the reflected farewell. In use it breaks one current obstruction forcing the waiting route to repeat — in its recorded case a sealed exit that prevented the entity’s final pass; the image survived the blow. The cost is progressive heaviness and slight aging; the first wielder’s shoulders gained the heaviness of years spent watching the same corner. Striking the farewell erases its endpoint — the one failure the binding explicitly forbids; stopping the circuit early freezes the head solid; and using the Maul to summon return makes the wielder wait in place, inheriting the vigil instead of ending it. It is maintained resting at the route endpoint until the frost displays the final departure exactly once and does not repeat — a single showing is completion, a loop is corrosion. The window face is never wiped clear; the farewell belongs to the route, not the wielder.
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|

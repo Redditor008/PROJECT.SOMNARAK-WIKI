@@ -176,27 +176,31 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Tear Requiem
+### M.A.W. Weapon — The Travertine Blind-Stiletto
 
-**Type:** Weapon | **Grade:** β | **Element:** Lament
-
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that hums faintly when gripped.
-
-**Damage:** Lament 5-9
-**Speed:** 2 (Normal)
-**Range:** 2 (Short)
+**Category:** BLADES / UNIQUE (Chiseled Travertine Stiletto & Silk Ribbon Guard)
+**Grade:** β | **Element:** Lament
+**Damage:** Lament 6–10
+**Speed:** 4 (Fast)
+**Range:** 2 (Short: 1.2m reach)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Weeping Statue's lament signature in the strike.
+**Appearance (SVG-Ready Specification):**
+A 62cm precision thrusting stiletto carved entirely from a single rod of porous ash-grey travertine stone, containing no metallic parts. The blade is 44cm long with a strictly triangular cross-section (three concave faces grinding to a needle-sharp apex), with each face etched with a line of weeping eye pictograms. In place of a conventional crossguard, a 2-meter long, 5cm wide funeral ribbon of midnight-black mourning silk wraps tightly around the ricasso, binding several turns across the wielder's hand and wrist before trailing freely; the ribbon terminal is weighted with two faceted obsidian teardrop beads. Crystalline blue tears seep continuously from the travertine's natural stone pores, channeling down the concave fullers to the tip.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Special Move Set:**
+- *Primary Kinematics — "Grief Puncture":* High-frequency linear thrusts targeting sensory gaps or joints; the triangular stone blade punches clean puncture channels that immediately weep concentrated Lament fluid into the wound.
+- *Active Special — "Blindfold Bind & Heart-Pierce":* The wielder lashes the trailing silk funeral ribbon forward across Range 2, wrapping and entangling the target's weapon arm or head (inflicting 1-turn "Grief Blindness"). Instantly stepping along the taut silk, the wielder drives the triangular stone tip into the target's chest, detonating pooled sorrow tears for 150% critical Lament damage and heavy stagger.
+- *Cost & Drawback:* The silk ribbon tightening around the wielder's wrist restricts blood flow, requiring rapid release between engagements.
 
-### M.A.W. Suit — The Tear Shroud
+### M.A.W. Suit — The Mourner's Pleated Peplos
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
+**Category:** Protective Attire (Mourning Silk Peplos & Travertine Pauldrons)
+**Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that tightens near its source element.
+**Appearance (SVG-Ready Specification):**
+A classically draped, sleeveless peplos gown of deep mourning violet silk, pleated vertically and fastened at both clavicles by curved travertine stone fibulae pins. Trailing behind the shoulders is a translucent black grieving veil bordered with tear-shaped silver thread embroidery that wafts with cold Lament vapor.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -206,23 +210,25 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Weeping Statue's kind of pressure.
+**Ability:** *Veil of Lament* — Blurs the wearer's silhouette in trailing sorrow silk, granting +15% evasion against ranged projectiles and dampening psychological shockwaves.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer feels cold tears tracing their cheeks whenever near deep sorrow.
 
-### M.A.W. Gift — The Tear Earring
+### M.A.W. Gift — The Obsidian Tear Drop Earring
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Lament
+**Category:** Stigma (Ear / Ocular Tear Drop)
+**Grade:** β | **Element:** Lament
 
-**Appearance:** an earring of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance (SVG-Ready Specification):**
+A faceted teardrop of mirror-polished black obsidian suspended from the left earlobe by a silver barb. The drop permanently sweats a faint, icy condensation trail that traces a line down the wearer's jawline.
 
-**Slot:** Tail
+**Slot:** Head / Ear
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity
 
-**Ability:** Allows the wearer to cry without shame; tears become a source of strength.
+**Ability:** *Clear-Eyed Mourning* — Grants the wearer +1 Prudence and total immunity to blinding visual flashes.
 
-**Cost:** The wearer becomes more susceptible to tears and small sorrows.
+**Cost:** The wearer becomes easily moved to tears by minor melancholy.
 
 *Gifts are granted at random by the entity upon a successful work, not manufactured.*
 

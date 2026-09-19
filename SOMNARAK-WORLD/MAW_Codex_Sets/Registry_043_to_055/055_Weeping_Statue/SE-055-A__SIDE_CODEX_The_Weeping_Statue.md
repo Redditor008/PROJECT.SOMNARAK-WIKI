@@ -56,9 +56,9 @@ Do not drain, bottle, or destroy tears without an Archive memorial protocol. The
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| Weapon | The Tear Requiem | β | Lament | Directs acknowledged grief into a controlled strike | `SE-055-B__MAW-W_The_Tear_Requiem.md` |
-| Suit | The Tear Shroud | β | Lament | Lets a bearer remain present in deep mourning | `SE-055-C__MAW-S_The_Tear_Shroud.md` |
-| Gift | The Tear Earring | β | Lament | Turns visible tears into a source of short-term strength | `SE-055-D__MAW-G_The_Tear_Earring.md` |
+| Weapon | The Travertine Blind-Stiletto | β | Lament | Directs acknowledged grief into a controlled strike | `SE-055-B__MAW-W_The_Tear_Requiem.md` |
+| Suit | The Mourner's Pleated Peplos | β | Lament | Lets a bearer remain present in deep mourning | `SE-055-C__MAW-S_The_Tear_Shroud.md` |
+| Gift | The Obsidian Tear Drop Earring | β | Lament | Turns visible tears into a source of short-term strength | `SE-055-D__MAW-G_The_Tear_Earring.md` |
 
 ### Set Resonance — Tears Given Room
 

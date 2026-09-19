@@ -85,9 +85,9 @@ The Fountain gives no M.A.W. to a person who tries to take its water. The set fo
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Sorrow Requiem | γ | Lament | Piercing pressure that makes hidden grief audible | `SE-088-B__MAW-W_The_Sorrow_Requiem.md` |
-| Suit | The Sorrow Shroud | γ | Lament | Protection against an overwhelming lament surge | `SE-088-C__MAW-S_The_Sorrow_Shroud.md` |
-| Gift | The Sorrow Vial | γ | Lament | A small, consent-bound wave of shared calm | `SE-088-D__MAW-G_The_Sorrow_Vial.md` |
+| Weapon | The Weeping Basin-Aspergillum | γ | Lament | Piercing pressure that makes hidden grief audible | `SE-088-B__MAW-W_The_Sorrow_Requiem.md` |
+| Suit | The Cistern-Keeper's Chiton & Mantle | γ | Lament | Protection against an overwhelming lament surge | `SE-088-C__MAW-S_The_Sorrow_Shroud.md` |
+| Gift | The Weeping Gargoyle Brooch | γ | Lament | A small, consent-bound wave of shared calm | `SE-088-D__MAW-G_The_Sorrow_Vial.md` |
 
 ---
 

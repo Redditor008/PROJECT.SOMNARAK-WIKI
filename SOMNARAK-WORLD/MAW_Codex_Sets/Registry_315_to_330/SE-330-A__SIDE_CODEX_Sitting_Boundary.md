@@ -53,9 +53,9 @@ An echo forms after a full circuit ends and the witness names the farewell witho
 
 | Piece | Name | Grade | Purpose | File |
 |---|---|---:|---|---|
-| Weapon | The Frozen Maul | β | Breaks forced stillness or a frozen opening without striking the farewell image. | `SE-330-B__MAW-W_The_Frozen_Maul.md` |
-| Suit | The Frozen Pane | β | Absorbs one impact and displays departures it carries. | `SE-330-C__MAW-S_The_Frozen_Pane.md` |
-| Gift | The Frozen Charm | β | Identifies the true endpoint of a repeated waiting circuit. | `SE-330-D__MAW-G_The_Frozen_Charm.md` |
+| Weapon | The Glazed Mullion-Pike | β | Breaks forced stillness or a frozen opening without striking the farewell image. | `SE-330-B__MAW-W_The_Frozen_Maul.md` |
+| Suit | The Shuttered Window-Plate | β | Absorbs one impact and displays departures it carries. | `SE-330-C__MAW-S_The_Frozen_Pane.md` |
+| Gift | The Rime-Pane Monocle | β | Identifies the true endpoint of a repeated waiting circuit. | `SE-330-D__MAW-G_The_Frozen_Charm.md` |
 
 **Cards:** Maul Weight 5–9, Speed 2, Range 2, Single, maximum 4, 25 Echoes. Pane resistances 1.0 / 1.0 / 1.5 / 0.5, maximum 4, 20 Echoes. Charm Head, 5%, +1 Resolve.
 

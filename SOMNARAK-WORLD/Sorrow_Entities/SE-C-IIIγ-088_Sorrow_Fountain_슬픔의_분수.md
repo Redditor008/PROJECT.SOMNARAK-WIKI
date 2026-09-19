@@ -180,27 +180,31 @@ The escalation pattern is specific to Sorrow Fountain: it is not a generic breac
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Sorrow Requiem
+### M.A.W. Weapon — The Weeping Basin-Aspergillum
 
-**Type:** Weapon | **Grade:** γ | **Element:** Lament
-
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
-
-**Damage:** Lament 7-12
-**Speed:** 3 (Fast)
-**Range:** 3 (Medium)
+**Category:** MAGIC / BLUNT (Carved Marble Aspergillum & Pressurized Cistern Basin)
+**Grade:** γ | **Element:** Lament
+**Damage:** Lament 10–16
+**Speed:** 3 (Normal)
+**Range:** 4 (Long: 4–7m spray)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Sorrow Fountain's lament signature in the strike.
+**Appearance (SVG-Ready Specification):**
+A 115cm ceremonial wand-mace sculpted from fluted white Carrara marble, hollowed through its center to serve as an internal pressurized grief conduit. The striking terminal features a 24cm spherical cistern head carved into four weeping cherubic relief faces whose open, downturned mouths act as directional fluid spray jets, ringed above by 12 precision-drilled weeping apertures. The fluted stone shaft is wrapped along the lower half in water-resistant indigo suede, terminating in a flared bronze basin-valve turncock at the pommel. Luminescent cerulean Lament fluid constantly weeps from the cherub mouth vents, condensing into cold blue vapor that trails in low misty ribbons.
 
-**Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
+**Special Move Set:**
+- *Primary Kinematics — "Lachrymose Arc":* Horizontal sweeping stroke; centrifugal force flings an arc of pressurized weeping sorrow-water across Range 3, inflicting Lament splash damage while the dense stone head bludgeons nearby targets.
+- *Active Special — "Fountainhead Deluge":* The wielder plants both feet, rotates the base valve 90 degrees counter-clockwise with their off-hand, and thrusts the marble head forward at chest height. All four cherubic mouths erupt simultaneously, firing a high-pressure 60-degree conical torrent of cerulean Lament fluid reaching Range 4 (7m). Targets caught in the deluge suffer continuous Lament erosion and gain the "Grief-Soaked" debuff (+30% Lament vulnerability for 4 seconds).
+- *Cost & Drawback:* Condensing sorrow water soaks the wielder's hands; sustained usage induces involuntary weeping and momentary visual blur.
 
-### M.A.W. Suit — The Sorrow Shroud
+### M.A.W. Suit — The Cistern-Keeper's Chiton & Mantle
 
-**Type:** Armor (Suit) | **Grade:** γ | **Element:** Lament
+**Category:** Protective Attire (Waterlogged Fluted Chiton & Stone-Trimmed Mantle)
+**Grade:** γ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+**Appearance (SVG-Ready Specification):**
+An ankle-length pleated chiton woven from waterproofed bleached linen, worn underneath a cowl-hooded charcoal wool mantle. The mantle shoulders are anchored by twin sculpted marble gorget plates shaped like fountain basins, weeping thin trickles of glowing cerulean fluid down the fabric folds into an perpetually damp, weighted hemline.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -210,23 +214,25 @@ The escalation pattern is specific to Sorrow Fountain: it is not a generic breac
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Sorrow Fountain's kind of pressure.
+**Ability:** *Aqueous Dissipation* — Converts 20% of incoming direct physical and Lament impacts into weeping liquid runoff, dispersing force across the damp pleated linen.
 
-**Cost:** The wearer becomes numb to minor joys.
+**Cost:** The wearer feels permanently chilled to the bone; minor joy feels emotionally muffled.
 
-### M.A.W. Gift — The Sorrow Vial
+### M.A.W. Gift — The Weeping Gargoyle Brooch
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Lament
+**Category:** Stigma (Chest Stone Fastener)
+**Grade:** γ | **Element:** Lament
 
-**Appearance:** a small vial of deep-blue Han-crystal, cool and faintly luminous, that catches the light oddly.
+**Appearance (SVG-Ready Specification):**
+A 6cm brooch carved from pale grey fountain stone depicting a miniature horned gargoyle face, fastened to the collarbone with an iron pin. A single droplet of luminescent blue sorrow water continuously beads at the gargoyle's lower lip, crystallizing into a glass-like bead every 10 seconds.
 
-**Slot:** Tail
+**Slot:** Chest / Brooch
 **Acquisition Probability:** 4%
 **Effect:** +2 stat bonus when working the source entity
 
-**Ability:** Releases a calming wave of shared sorrow.
+**Ability:** *Shared Wellspring* — Restores 2 SP to the bearer whenever an adjacent ally suffers Lament damage.
 
-**Cost:** The vial must be refilled with the user's tears.
+**Cost:** The brooch slowly dampens the bearer's shirt with cold, salt-scented water.
 
 *Gifts are granted at random by the entity upon a successful work, not manufactured.*
 

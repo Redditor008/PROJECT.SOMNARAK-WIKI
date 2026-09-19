@@ -78,7 +78,7 @@ Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items a
 | MAW-W-048 The Singing Requiem | Song Scimitar | Medium |
 | MAW-W-051 The Joy Lens | Ray Loupe | Instant |
 | MAW-W-054 The Void Maul | Dish Maul | Room |
-| MAW-W-055 The Tear Requiem | Tear Stiletto | Short |
+| MAW-W-055 The Travertine Blind-Stiletto | BLADES / UNIQUE (Travertine Stiletto & Ribbon) | Short |
 | MAW-W-061 The Burden Maul | Vessel Maul | Room |
 | MAW-W-062 The Resentment Talon-Blade | MIXED (Chain-Sickle) | Short–Medium |
 | MAW-W-063 The Denial Lens | Caliper Lens | Instant |
@@ -86,7 +86,7 @@ Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items a
 | MAW-W-073 The Duty Fang | Squared Warbrand | Medium |
 | MAW-W-077 The Shadow Lens | Lens Pistol | Instant |
 | MAW-W-081 The Hollow Sceptre | MAGIC (Choral Staff) | Long |
-| MAW-W-088 The Sorrow Requiem | Cruciform Longsword | Medium |
+| MAW-W-088 The Weeping Basin-Aspergillum | MAGIC / BLUNT (Marble Aspergillum & Basin) | Long |
 | MAW-W-091 The Crown of Requiem | Crown Coil Blade | Room |
 | MAW-W-092 The Pyre Grimoire & Ash Lance | MAGIC (Grimoire & Flame Lance) | Long |
 | MAW-W-099 The Phantom Dancer's Tri-Daggers | FANTASY (Spectral Glove & 3 Knives) | Medium |
@@ -130,7 +130,7 @@ Batch-6 additions (2026-09-05, per owner ruling to add non-striking forms — ra
 | MAW-W-184 Redacted Lens | Hand-Cannon Sighting Frame (pistol grip, Void-glass lens at the muzzle) | Medium (source: range 3 — Medium) |
 | MAW-W-185 The Gallery Requiem | Palette-Knife Blade (brush-stroke ridges, faceless portrait frame) | Short (source: range 2 — Short) |
 | MAW-W-189 The Fading Requiem | Dust-Echo Blade (grain-shedding, steadying cone on one doorway) | Short (source: range 2 — Short) |
-| MAW-W-190 The Rage Fang | Fang-Head Javelin (cast weapon, bounded red path ending at accountability) | Medium (source: range 3 — Medium) |
+| MAW-W-190 The Vein-Heated Marble Brand | BLUNT / PRIMAL (Molten-Veined Broken Marble Fist) | Short |
 
 Batch-6 form notes: three of the Medium items became true non-melee kinds per the owner's directive — a candle-staff (W-165), a loom-frame thread-bow (W-176), and a hand-cannon sighting frame (W-184) — plus a thrown javelin (W-190); the canonically named Mauls/Hammer keep their kind with fully distinct scenes.
 
@@ -195,7 +195,7 @@ Batch-10 additions (2026-09-05, full standard incl. non-weapon forms where the s
 
 | Item | Archetype (researched variant) | Band (source) |
 | --- | --- | --- |
-| MAW-W-330 The Frozen Maul | Window-Face Maul (head is a frost pane preserving a farewell mid-step, frost ferns, dashed prohibition ring over the image, route-endpoint plate) | Short (source: 2 — Short) |
+| MAW-W-330 The Glazed Mullion-Pike | POLEARM / RANGE (Window-Mullion Cross-Pike & Pane) | Medium |
 | MAW-W-339 The Fallen Requiem | Crack-Stair Greatblade (left edge follows a stepped crack profile, fracture map etched as evidence, evacuation-marker anchor, documentation tag) | Medium (source: 3 — Medium) |
 | MAW-W-340 The Clapperless Chime-Sceptre | MAGIC (Chime-Sceptre & Silver Striker) | Medium |
 | MAW-W-357 The Absent Fang | Missing-Section Fang (solid lower blade, dashed ghost outline where the middle section is absent, solid tip returning, torn false-explanation label cut away) | Short (source: 2 — Short) |
@@ -400,7 +400,7 @@ Batches 18–23 additions (2026-09-06, full completion — 72 weapons, W-912–1
 | MAW-W-976 — | Dawn (different horizon) |  |
 | MAW-W-997 — | Timer (different angle) |  |
 | MAW-W-1001 Standard Training Baton | Bell (training bell) |  |
-| MAW-W-1002 — | Book |  |
+| MAW-W-1002 The Shattered Escapement-Cudgel | BLUNT / UNIQUE (Escapement Wheel & Pendulum) | Medium |
 | MAW-W-1004 — | Flesh |  |
 | MAW-W-1005 — | Door |  |
 | MAW-W-1006 — | Chain |  |

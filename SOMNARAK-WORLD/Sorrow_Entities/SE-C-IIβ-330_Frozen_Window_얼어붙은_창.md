@@ -168,27 +168,31 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Frozen Maul
+### M.A.W. Weapon — The Glazed Mullion-Pike
 
-**Type:** Weapon | **Grade:** β | **Element:** Weight
-
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that quivers when raised.
-
-**Damage:** Weight 5-9
-**Speed:** 2 (Normal)
-**Range:** 2 (Short)
+**Category:** POLEARM / RANGE (Window-Mullion Cross-Pike & Glacial Pane)
+**Grade:** β | **Element:** Weight
+**Damage:** Weight 7–12
+**Speed:** 3 (Normal)
+**Range:** 3 (Medium: 2.2m reach + 4m ranged frost-shatter)
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Frozen Window's weight signature in the strike.
+**Appearance (SVG-Ready Specification):**
+A 210cm polearm whose shaft is fashioned from a structural dark oak window mullion of squared cross-section (4cm x 4cm), bolted with wrought-iron corner brackets. The head is a cruciform junction where four rectangular panes (18cm x 10cm each) of diamond-hard, unmelting glacial window glass are set into iron glazing frames, converging to a razor-sharp four-sided glass spear point. Trapped silhouettes of falling snowflakes remain perpetually frozen inside each glass pane, emitting a cold aquamarine luminescence and shedding dry-ice mist. Trailing from the crossbar are delicate dangling icicle fringes that emit chime-like acoustic vibrations when thrusted.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Special Move Set:**
+- *Primary Kinematics — "Cruciform Thrust":* High-velocity linear thrust; the four-sided glacial glass head punches through armor, inflicting Weight puncture damage and creating frost fractures in the target's surface.
+- *Active Special — "Glazing Shatter-Lance":* The wielder steps into a forward lunge, spins the mullion-pike horizontally to accumulate a vortex of sub-zero sorrow mist, then thrusts violently toward the target. At peak extension (Range 3), the four glass panes shatter outward in a forward cone of crystalline shrapnel up to 4 meters, penetrating multiple enemies before instantly reforming on the mullion head from condensing ambient moisture. Enemies caught in the shrapnel cone take piercing Weight damage and are afflicted with "Deep Frostbite" (reduces target movement speed by 40% for 3 seconds).
+- *Cost & Drawback:* The cold oak shaft chills the wielder's fingers, causing breath to fog heavily and slightly reducing manual dexterity in low temperatures.
 
-### M.A.W. Suit — The Frozen Pane
+### M.A.W. Suit — The Shuttered Window-Plate
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
+**Category:** Protective Attire (Reinforced Oak Slats & Iron-Lattice Hauberk)
+**Grade:** β | **Element:** Weight
 
-**Appearance:** a pane-armor of black Han-steel, matte and unnaturally heavy, that tightens near its source element.
+**Appearance (SVG-Ready Specification):**
+A fitted cuirass made of interlocking dark-varnished oak window louvers set into a blackened iron lattice frame, lined with insulating sheared wool. A frosted glass pane is centered over the solar plexus, displaying faint frost ferns that thicken under enemy impact.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -198,23 +202,25 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Absorbs the force of an impact and briefly slows the attacker.
+**Ability:** *Shut-Out Bastion* — Reduces incoming physical and Weight damage by 20% when facing attackers directly, reflecting kinetic force back as cold air.
 
-**Cost:** The wearer feels every departure reflected in the shield.
+**Cost:** The wearer feels every departure reflected in the pane, creating a heavy sense of solitary confinement.
 
-### M.A.W. Gift — The Frozen Charm
+### M.A.W. Gift — The Rime-Pane Monocle
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Weight
+**Category:** Stigma (Eye / Ocular Lens)
+**Grade:** β | **Element:** Weight
 
-**Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, that grows cool near its source sorrow.
+**Appearance (SVG-Ready Specification):**
+A square monocle frame of tarnished iron holding a thin pane of frost-cracked window glass over the right eye, secured by a black velvet ribbon.
 
-**Slot:** Head
+**Slot:** Eye / Head
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity
 
-**Ability:** Grants a minor boon tied to Frozen Window's sorrow; the effect mirrors the entity's nature.
+**Ability:** *Thermal Fracture Sight* — Increases critical hit rate by 8% against slowed, rooted, or frozen targets by highlighting structural cold stress points.
 
-**Cost:** The bearer moves a little slower.
+**Cost:** The right eye perceives the world in chilled blue tones.
 
 *Gifts are granted at random by the entity upon a successful work, not manufactured.*
 

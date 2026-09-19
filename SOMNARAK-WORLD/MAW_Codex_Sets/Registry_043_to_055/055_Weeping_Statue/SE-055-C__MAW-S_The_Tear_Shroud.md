@@ -1,4 +1,4 @@
-# M.A.W. SUIT — The Tear Shroud
+# M.A.W. PROTECTIVE ATTIRE — The Mourner's Pleated Peplos
 
 > *“It keeps a bearer from turning grief into stone inside the body.”*
 
@@ -28,7 +28,7 @@
 
 ### Appearance
 
-The Tear Shroud is a deep-blue shroud of soft Han silk that drapes over the shoulders and chest in rounded, open folds. It is cut fuller than most shrouds, with a wide hem that settles against the arms without binding, and its inner lining is almost white and stays cool. The outer weave is faintly damp to the touch even in a dry room, and small darker patches form along the hem where the wearer has carried shared grief. The shroud prevents a grief response from becoming physically immobilizing, so emotion can move through the body without requiring the wearer to go empty. After wearing, the cloth is cooler than the room and the wearer becomes numb to minor joys until they have rested near an unstructured, honest emotional space. The shroud is aired between vigils, and the darker patches along the hem fade only when the wearer has rested near an unstructured space.
+The Mourner's Pleated Peplos is a deep-blue shroud of soft Han silk that drapes over the shoulders and chest in rounded, open folds. It is cut fuller than most shrouds, with a wide hem that settles against the arms without binding, and its inner lining is almost white and stays cool. The outer weave is faintly damp to the touch even in a dry room, and small darker patches form along the hem where the wearer has carried shared grief. The shroud prevents a grief response from becoming physically immobilizing, so emotion can move through the body without requiring the wearer to go empty. After wearing, the cloth is cooler than the room and the wearer becomes numb to minor joys until they have rested near an unstructured, honest emotional space. The shroud is aired between vigils, and the darker patches along the hem fade only when the wearer has rested near an unstructured space.
 
 ### Ability— Softened Stone
 

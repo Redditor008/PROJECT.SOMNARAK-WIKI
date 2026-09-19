@@ -1,6 +1,6 @@
-# M.A.W. GIFT — The Frozen Moment
+# M.A.W. GIFT — The Frozen Escapement Wheel
 
-> *“The Frozen Moment remembers The Broken Clock; the bearer must not mistake memory for permission.”*
+> *“The Frozen Escapement Wheel remembers The Broken Clock; the bearer must not mistake memory for permission.”*
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The The Broken Clock Source-Trace: Gift Record*
 
-The first The Frozen Moment field bearer encountered this source response: Reveals patterns in the loop's structure. The gift redirects the immediate hazard only after the team attributed it to The Broken Clock. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Frozen Escapement Wheel field bearer encountered this source response: Reveals patterns in the loop's structure. The gift redirects the immediate hazard only after the team attributed it to The Broken Clock. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -37,12 +37,12 @@ The first The Frozen Moment field bearer encountered this source response: Revea
 - Terminal state: The Broken Clock's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-044 -->
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Frozen Moment only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Frozen Moment; shutdown preserves the record but does not refund its cost.
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Frozen Escapement Wheel only after attribution review.  
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Frozen Escapement Wheel; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *The Broken Clock — Witnessed Form*, The Frozen Moment performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Broken Clock — Witnessed Form*, The Frozen Escapement Wheel performs the gift role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

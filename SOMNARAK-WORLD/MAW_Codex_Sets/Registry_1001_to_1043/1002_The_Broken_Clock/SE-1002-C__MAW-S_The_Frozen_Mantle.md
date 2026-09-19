@@ -1,6 +1,6 @@
-# M.A.W. SUIT — The Frozen Mantle
+# M.A.W. PROTECTIVE ATTIRE — The Pendulum-Weighted Greatcoat
 
-> *“The Frozen Mantle remembers The Broken Clock; the bearer must not mistake memory for permission.”*
+> *“The Pendulum-Weighted Greatcoat remembers The Broken Clock; the bearer must not mistake memory for permission.”*
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## ITEM-SPECIFIC HISTORY — *The The Broken Clock Source-Trace: Suit Record*
 
-The first The Frozen Mantle field bearer encountered this source response: Stretches a minute into an hour to test resolve. The suit discharges the immediate hazard only after the team attributed it to The Broken Clock. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Pendulum-Weighted Greatcoat field bearer encountered this source response: Stretches a minute into an hour to test resolve. The suit discharges the immediate hazard only after the team attributed it to The Broken Clock. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -38,12 +38,12 @@ The first The Frozen Mantle field bearer encountered this source response: Stret
 - Terminal state: The Broken Clock's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-044 -->
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Frozen Mantle only after attribution review.   <!-- SE-044 -->
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Frozen Mantle; shutdown preserves the record but does not refund its cost. <!-- SE-044 -->
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Pendulum-Weighted Greatcoat only after attribution review.   <!-- SE-044 -->
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Pendulum-Weighted Greatcoat; shutdown preserves the record but does not refund its cost. <!-- SE-044 -->
 
 ## SET RELATIONSHIP
 
-Within *The Broken Clock — Witnessed Form*, The Frozen Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Broken Clock — Witnessed Form*, The Pendulum-Weighted Greatcoat performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

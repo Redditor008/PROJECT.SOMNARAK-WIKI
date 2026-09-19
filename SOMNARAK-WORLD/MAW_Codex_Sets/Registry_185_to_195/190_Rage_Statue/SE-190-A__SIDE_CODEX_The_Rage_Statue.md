@@ -54,9 +54,9 @@ The Statue trembles only when watched for too long. Its fist lowers slightly whe
 
 | Piece | Name | Grade | Element | Individual codex |
 |---|---:|---|---|---|
-| Weapon | The Rage Fang | γ | Grudge | `SE-190-B__MAW-W_The_Rage_Fang.md` |
-| Suit | The Rage Gauntlet | γ | Grudge | `SE-190-C__MAW-S_The_Rage_Gauntlet.md` |
-| Gift | The Rage Charm | γ | Grudge | `SE-190-D__MAW-G_The_Rage_Charm.md` |
+| Weapon | The Vein-Heated Marble Brand | γ | Grudge | `SE-190-B__MAW-W_The_Rage_Fang.md` |
+| Suit | The Sculptor's Flame-Hardened Apron & Cuirass | γ | Grudge | `SE-190-C__MAW-S_The_Rage_Gauntlet.md` |
+| Gift | The Chiseled Knuckle Stigma | γ | Grudge | `SE-190-D__MAW-G_The_Rage_Charm.md` |
 
 ---
 

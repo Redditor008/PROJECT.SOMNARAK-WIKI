@@ -221,32 +221,36 @@ The escalation pattern is specific to The Broken Clock: it is not a generic brea
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Frozen Maul
+### M.A.W. Weapon — The Shattered Escapement-Cudgel
 
-**Type:** Weapon | **Grade:** γ | **Element:** Weight
-
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that quivers when raised.
-
-**Damage:** Weight 7–12
-**Speed:** 3 (Fast)
-**Range:** 3 (Medium)
+**Category:** BLUNT / UNIQUE (Clockwork Escapement Wheel & Pendulum Rod)
+**Grade:** γ | **Element:** Weight
+**Damage:** Weight 11–18
+**Speed:** 2 (Slow)
+**Range:** 3 (Medium: 2.5m reach)
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Attack Pattern:** Pierce
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Attack Pattern:** Overhand Arc / Temporal Impact
+**Target Coverage:** Line; up to 3 targets total along swing arc
+**Falloff Rule:** Primary target 100% → second target 70% → third target 50%.
+**Damage Application:** Direct crush damage on primary; temporal slow wave applied to all pierced targets.
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Broken Clock's weight signature in the strike.
+**Appearance (SVG-Ready Specification):**
+A 135cm heavy two-handed striking polearm fashioned from an aged brass pendulum shaft with a dense lead-sleeved grip wrapped in dark calfskin. The head is dominated by a 38cm diameter, half-fractured anchor escapement wheel of tarnished clockwork brass featuring 16 pointed ratchet teeth, with 4 broken jagged teeth on the upper crest exposing an interlocking steel gear cluster and a ticking balance wheel. An exposed spiral steel hairspring uncoils from the central arbor, wrapping loosely three times down the upper brass shaft and dangling 40cm past the cross-brace as an uncoiling metallic tassel. A permanent frosting of pale blue rime frost coats the lower gear teeth, shedding cold particulate sorrow dust whenever swung. The counterweight at the pommel is a faceted lead sphere engraved with Roman numeral XII.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Special Move Set:**
+- *Primary Kinematics — "Arrested Cadence":* Overhead diagonal down-sweep utilizing pendulum inertia; upon impact, the exposed ratchet teeth bite and violently hitch for 0.2 seconds before ripping free, inflicting heavy Weight crush damage.
+- *Active Special — "Desynchronized Stroke":* The wielder plants their back foot, raising the escapement wheel overhead as the balance wheel spins in reverse with a high-pitched metallic shriek. When slammed into the earth at Range 3, it detonates a 3-meter hemispherical temporal shockwave of Weight Han. Enemies caught in the blast are Staggered and suffer "Chrono-Stasis" (attack and movement animation speed reduced by 35% for 3 seconds).
+- *Cost & Drawback:* Resonant ticking vibrations travel up the shaft into the wielder's wrists; consecutive strikes cause temporary forearm numbness.
 
-### M.A.W. Suit — The Frozen Mantle
+### M.A.W. Suit — The Pendulum-Weighted Greatcoat
 
-**Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
+**Category:** Protective Attire (Heavy Woolen Watchman's Coat & Suspended Lead Weights)
+**Grade:** γ | **Element:** Weight
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that carries a faint scent of its origin.
+**Appearance (SVG-Ready Specification):**
+A double-breasted calf-length greatcoat tailored from dense charcoal-grey wool, reinforced with an internal lining of flexible bronze wire mesh. Suspended along the lower inner hemline are eight cylindrical brass pendulum weights (each 8cm long, stamped with minute indices) that swing with deliberate inertia, audibly clicking against lead hem-weights as the wearer walks. High storm collar lined with frost-rimed felt.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -256,23 +260,25 @@ The escalation pattern is specific to The Broken Clock: it is not a generic brea
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Broken Clock's kind of pressure.
+**Ability:** *Inertial Anchor* — Converts kinetic and gravitational displacement into grounded weight. Bearer cannot be involuntarily knocked back or tripped by attacks dealing under 25 Weight damage.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** The wearer carries a constant low physical fatigue from the coat's persistent inertial drag.
 
-### M.A.W. Gift — The Frozen Moment
+### M.A.W. Gift — The Frozen Escapement Wheel
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Weight
+**Category:** Stigma (Ear / Temple Clockwork Shard)
+**Grade:** γ | **Element:** Weight
 
-**Appearance:** a moment-token of black Han-steel, matte and unnaturally heavy, that grows briefly hot near sorrow.
+**Appearance (SVG-Ready Specification):**
+A thumb-sized brass gear wheel fused into the skull bone immediately behind the right ear. Its four visible teeth are coated in unmelting frost rime, advancing exactly one tooth per real-world minute with a faint, bone-conducted click.
 
-**Slot:** Head
+**Slot:** Head / Temple
 **Acquisition Probability:** 4%
 **Effect:** +2 stat bonus when working the source entity
 
-**Ability:** Slows the wearer's perception of time.
+**Ability:** *Subjective Dialing* — Expands the bearer's perceptual reaction window, granting +5% critical evasion and immunity to stagger from minor temporal slows.
 
-**Cost:** The wearer ages faster; every use consumes minutes of life.
+**Cost:** The bearer occasionally experiences subjective tinnitus mimicking an irregular pocket-watch escapement.
 
 *Gifts are granted at random by the entity upon a successful work, not manufactured.*
 

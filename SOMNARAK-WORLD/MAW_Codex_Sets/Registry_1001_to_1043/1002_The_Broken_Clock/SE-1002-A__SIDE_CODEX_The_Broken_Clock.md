@@ -46,9 +46,9 @@ During the The The Broken Clock Source-Trace, the field team preserved this sour
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Frozen Maul | γ Weight 7–12; Speed 3 (Fast); Range 3 (Medium); Pierce; max 3; 40 Sorrow Echoes | `SE-1002-B__MAW-W_The_Frozen_Maul.md` |
-| The Frozen Mantle | γ; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Endured); max 3; 35 Sorrow Echoes | `SE-1002-C__MAW-S_The_Frozen_Mantle.md` |
-| The Frozen Moment | γ; Head; 4%; +2 stat bonus when working the source entity | `SE-1002-D__MAW-G_The_Frozen_Moment.md` |
+| The Shattered Escapement-Cudgel | γ Weight 7–12; Speed 3 (Fast); Range 3 (Medium); Pierce; max 3; 40 Sorrow Echoes | `SE-1002-B__MAW-W_The_Frozen_Maul.md` |
+| The Pendulum-Weighted Greatcoat | γ; L/G/V/W 1 (Normal)/1 (Normal)/1.5 (Weak)/0.5 (Endured); max 3; 35 Sorrow Echoes | `SE-1002-C__MAW-S_The_Frozen_Mantle.md` |
+| The Frozen Escapement Wheel | γ; Head; 4%; +2 stat bonus when working the source entity | `SE-1002-D__MAW-G_The_Frozen_Moment.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 

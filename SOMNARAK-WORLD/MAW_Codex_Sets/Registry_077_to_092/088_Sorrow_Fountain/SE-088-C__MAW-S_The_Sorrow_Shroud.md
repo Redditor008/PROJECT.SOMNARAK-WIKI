@@ -1,4 +1,4 @@
-# M.A.W. SUIT — The Sorrow Shroud
+# M.A.W. PROTECTIVE ATTIRE — The Cistern-Keeper's Chiton & Mantle
 
 > *“The cloth does not say your grief is small. It says you do not have to let it arrive all at once.”*
 
@@ -16,7 +16,7 @@
 
 | Field | Record |
 |---|---|
-| Official name | The Sorrow Shroud |
+| Official name | The Cistern-Keeper's Chiton & Mantle |
 | Set | Shared Current |
 | Type / grade / element | Suit / γ — Major / Lament — Deep Blue |
 | Status | Active; monitored for joy-numbing saturation |
@@ -56,7 +56,7 @@ The Shroud appeared at the Garden rim after a witness circle remained with a mou
 
 ### Appearance
 
-The Sorrow Shroud is a deep-blue shroud of layered Han silk cut in broad overlapping folds, each fold slightly darker than the one above it. The inner lining is smooth and cool and the outer surface carries a faint salt sheen after long use. A throat clasp closes the shroud at the front, and the wearer must name a post-exposure companion before it is sealed. The cloth lowers direct Lament harm by taking pressure through successive blue folds, so the burden is endured rather than deleted. When the wearer names the companion, one fold opens around a nearby consenting person and shares a portion of the incoming wave. A dry crack across the hem shows the shroud has become a dam rather than a current, and it is spread in morning air beside its witness after use. The shroud is spread in morning air beside its companion, and each person names one small pleasure without asking the other to match it.
+The Cistern-Keeper's Chiton & Mantle is a deep-blue shroud of layered Han silk cut in broad overlapping folds, each fold slightly darker than the one above it. The inner lining is smooth and cool and the outer surface carries a faint salt sheen after long use. A throat clasp closes the shroud at the front, and the wearer must name a post-exposure companion before it is sealed. The cloth lowers direct Lament harm by taking pressure through successive blue folds, so the burden is endured rather than deleted. When the wearer names the companion, one fold opens around a nearby consenting person and shares a portion of the incoming wave. A dry crack across the hem shows the shroud has become a dam rather than a current, and it is spread in morning air beside its witness after use. The shroud is spread in morning air beside its companion, and each person names one small pleasure without asking the other to match it.
 
 ### Passive effect— *Layered Water*
 
