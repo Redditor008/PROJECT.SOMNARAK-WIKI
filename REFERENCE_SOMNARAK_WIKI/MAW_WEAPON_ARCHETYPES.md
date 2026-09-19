@@ -130,7 +130,7 @@ Batch-6 additions (2026-09-05, per owner ruling to add non-striking forms — ra
 | MAW-W-184 Redacted Lens | Hand-Cannon Sighting Frame (pistol grip, Void-glass lens at the muzzle) | Medium (source: range 3 — Medium) |
 | MAW-W-185 The Gallery Requiem | Palette-Knife Blade (brush-stroke ridges, faceless portrait frame) | Short (source: range 2 — Short) |
 | MAW-W-189 The Fading Requiem | Dust-Echo Blade (grain-shedding, steadying cone on one doorway) | Short (source: range 2 — Short) |
-| MAW-W-190 The Vein-Heated Marble Brand | BLUNT / PRIMAL (Molten-Veined Broken Marble Fist) | Short |
+| MAW-W-190 The Vein-Heated Marble Brand | BLUNT / PRIMAL (Molten-Veined Broken Marble Fist) | Close |
 
 Batch-6 form notes: three of the Medium items became true non-melee kinds per the owner's directive — a candle-staff (W-165), a loom-frame thread-bow (W-176), and a hand-cannon sighting frame (W-184) — plus a thrown javelin (W-190); the canonically named Mauls/Hammer keep their kind with fully distinct scenes.
 
@@ -185,7 +185,7 @@ Batch-9 additions (2026-09-05, NEW OWNER RULING: some M.A.W. items may take NON-
 | MAW-W-308 Vault of Unspoken Spites Fang | Retreat-Channel Fang (dark liquid flowing AWAY from the tip with down-blade arrows, three shadow-layer bands, sealed review vessel pommel) | Medium (source: 3 — Medium) |
 | MAW-W-310 The Truth Lens | Fracture-Split Disc (jagged crack holding forged claim and fact apart, hazard marks on the fact side only, checklist grip, crack-light glint) | Short (source: 2 — Short) |
 | MAW-W-315 Unsprouted Life Requiem | Outward-Curled Blade with Split Seed-Pod Guard (tip curls away from the wielder, three severed root-limbs, excluded source-shell dashed outside the geometry) | Medium (source: 3 — Medium) |
-| MAW-W-316 The Empty Fang | Empty-Knot Fang (guard is a tied loop with NOTHING attached, frayed stub where a line once left, tally ticks that simply stop) | Short (source: 2 — Short) |
+| MAW-W-316 The Empty Fang | Empty-Knot Fang (guard is a tied loop with NOTHING attached, frayed stub where a line once left, tally ticks that simply stop) | Close |
 | MAW-W-320 The Storm Maul | Fused-Hailstone Maul (head of lumped hail seams, rain grooves ALL pointing toward the route mark, untargetable dashed cloud band, log plate before the grip) | Medium (source: 3 — Medium) |
 | MAW-W-329 The Melting Lens | Half-Melted Lorgnette Lens (rim sharp on the honest-ruin side, sagging and dripping on the facade side, dashed true-circle ghost, protected footprint line) | Short (source: 2 — Short) |
 
@@ -198,11 +198,11 @@ Batch-10 additions (2026-09-05, full standard incl. non-weapon forms where the s
 | MAW-W-330 The Glazed Mullion-Pike | POLEARM / RANGE (Window-Mullion Cross-Pike & Pane) | Medium |
 | MAW-W-339 The Fallen Requiem | Crack-Stair Greatblade (left edge follows a stepped crack profile, fracture map etched as evidence, evacuation-marker anchor, documentation tag) | Medium (source: 3 — Medium) |
 | MAW-W-340 The Clapperless Chime-Sceptre | MAGIC (Chime-Sceptre & Silver Striker) | Medium |
-| MAW-W-357 The Absent Fang | Missing-Section Fang (solid lower blade, dashed ghost outline where the middle section is absent, solid tip returning, torn false-explanation label cut away) | Short (source: 2 — Short) |
+| MAW-W-357 The Absent Fang | Missing-Section Fang (solid lower blade, dashed ghost outline where the middle section is absent, solid tip returning, torn false-explanation label cut away) | Close |
 | MAW-W-369 Susurruss Requiem | Shard-Scale-Edge Blade (edge made of separate overlapping flakes, unassembled word fragments drifting off, intact gold plea-line kept beneath) | Medium (source: 3 — Medium) |
 | MAW-W-371 The Vanished Lens | Annulus Lens (glass ring with a REAL hole at center, thick dashed erasure band orbiting the blank, three deletion paths severed at the ring, deletion-record tick) | Medium (source: 3 — Medium) |
 | MAW-W-373 The Spreading Requiem | Delta-Fork Blade (tip splits into three river mouths, etched river system carrying moisture beads on every branch, consent seal, tears at both ends) | Medium (source: 3 — Medium) |
-| MAW-W-374 The Sleeping Fang | Root-Curve Fang (sinuous grown-root silhouette, dormant wood grain, bark plates, closed root-knot eyes, severed green invasive roots, dashed source-clench beyond the tip) | Short (source: 2 — Short) |
+| MAW-W-374 The Sleeping Fang | Root-Curve Fang (sinuous grown-root silhouette, dormant wood grain, bark plates, closed root-knot eyes, severed green invasive roots, dashed source-clench beyond the tip) | Close |
 | MAW-W-378 The Drowned Requiem | NON-WEAPON: Crystal Diving Bell (level interior waterline, preserved call rippling beneath it, bubbles flattening at the line, muffled waves at the rim, severed pressure column outside, coordinates tag) | Short (source: 2 — Short) |
 | MAW-W-392 The Rising Hammer | Reflection-First Hammer (dashed ghost head RISING above the real head with rise arrows between, mirror wall line, erased-name strike beyond it, untouched dashed district-face) | Short (source: 2 — Short) |
 | MAW-W-407 The Lingering Lens | Torch-Staff Lens (lens carried aloft on a long staff, the blank center BURNS with flame tongues and an ember ring, unmarked coordinates, memory motes leaving) | Long (source: 10–15) |
@@ -214,7 +214,7 @@ Batch-11 additions (2026-09-05, full standard incl. non-weapon forms where the s
 
 | Item | Archetype (researched variant) | Band (source) |
 | --- | --- | --- |
-| MAW-W-426 The Torn Fang | Open-Channel Fang (central void torn clean through with ragged burr lips, dashed never-closed stitches, honest-unknown outline at the tip) | Short (source: 2 / 2) |
+| MAW-W-426 The Torn Fang | Open-Channel Fang (central void torn clean through with ragged burr lips, dashed never-closed stitches, honest-unknown outline at the tip) | Close |
 | MAW-W-447 The Melting Requiem | Circulation Blade (tip dissolving into beads, dashed return arc carrying droplets down, fresh crystal plates rebuilding at the guard, two ghost edges of previous forms) | Medium (source: 3 / 3) |
 | MAW-W-448 Overflow Fang | Inverted Point-Down Fang (held tip-down, liquid-light channel climbing point to guard with upward arrows, climbing droplets, memorial mark undisturbed at the low tip) | Long (source: 10–15 dmg, 3 / 3) |
 | MAW-W-453 The Shadow Requiem | Lagging-Shadow Blade (full cast silhouette one step behind the crisp blade, walked footprint record etched gold, blank no-name tag) | Short (source: 2 / 2) |
@@ -222,7 +222,7 @@ Batch-11 additions (2026-09-05, full standard incl. non-weapon forms where the s
 | MAW-W-459 The Bulwark Lens | Hooded Visor Lens (armored hood guarding the upper half, sleeping brick wall line at rest, warmth kept outside the hood, intrusion severed beyond it) | Short (source: 2 / 2) |
 | MAW-W-467 The Soaking Requiem | Wet-Film Blade (level broad blade, moisture band holding distinct linked voice-beads on one gold thread, stolen link cut away below) | Short (source: 2 / 2) |
 | MAW-W-476 The Sehnsucht Maul | Sideways-Head Maul (head mounted parallel to the soil, striking faces left/right only, bottom face capped shut, buried Tear preserved dashed below the surface line) | Medium (source: 3 / 3) |
-| MAW-W-488 The Bridge Fang | Twin-Shore Fang (two unjoined parallel blades with open water between, matched consent notches facing across the gap, severed one-sided span, shared single grip) | Short (source: 2 / 2) |
+| MAW-W-488 The Bridge Fang | Twin-Shore Fang (two unjoined parallel blades with open water between, matched consent notches facing across the gap, severed one-sided span, shared single grip) | Close |
 | MAW-W-489 The Quiet Requiem | Silent Executioner Blade (straight flat-backed blade with oblique clipped tip, matte unlit edge, luminous grievance script glowing on the flat, one dark intact silence line) | Long (source: 10–15 dmg, 3 / 3) |
 | MAW-W-503 Hover Requiem | Wound-Holding Blade (translucent pale-blue crystal with a floating injury reflection drifting inside, dashed drift ghosts, bounded green brace placed without cure promise) | Short (source: 2 / 2) |
 | MAW-W-505 Cold Burn Lens | Chained Watch-Monocle (heavy duty-chain to a hook, frost creeping down the links, frozen shadow-link chain across the glass cut gold mid-span, ceremony seal, intact service record) | Short (source: 2 / 2) |
@@ -236,12 +236,12 @@ Batch-12 additions (2026-09-05, full standard + NEW set-line check: each weapon'
 | MAW-W-517 Lachrymose Requiem | NON-WEAPON-ADJACENT: Tear-Glaive (one huge solidified teardrop mounted on a long haft, fainter tears etched inside it, three grief shards severed while the weeping continues untouched behind the head) | Long (source: 10-15 dmg, 3/3) |
 | MAW-W-518 The Glass Requiem | Window-Pane Blade (tall arched tunnel-window with muntin bars; distant warm rooms in the upper lights, the watcher's anchor ground and planted feet in the lower; fixation gaze-line cut gold, view intact) | Short (source: 2/2) |
 | MAW-W-519 The Empty Lens | Hinged Locket Lens (locket open on a chain: left half solid lived-record etchings and one real tear, right half a dashed empty future-silhouette with nothing inside, counterfeit claim severed) | Short (source: 2/2) |
-| MAW-W-525 Cenotaph Fang | Monument Fang (empty name plaque set into the flat — a cenotaph names no body; memorial wreath; blame line severed while the duty column stands; two review seats facing) | Short (source: 2/2) |
+| MAW-W-525 Cenotaph Fang | Monument Fang (empty name plaque set into the flat — a cenotaph names no body; memorial wreath; blame line severed while the duty column stands; two review seats facing) | Close |
 | MAW-W-554 Fallow Requiem | Crystal Sickle (deep reaping crescent with rusted root grain oxidized through it, unopened seed pouch at the handle, fallow furrow lines below, shell kept uncut) | Short (source: 2/2) |
 | MAW-W-558 The Familiar Maul | Tree-Ring Drum Maul (round head face-on as a family-tree cross-section, generation knots, ONE branch glowing for the believed obligation, chosen-duty tag vs inherited-duty tag, scale-disagreement mark) | Medium (source: line pierce, 3 targets) |
 | MAW-W-559 The Ruin Requiem | Swept-Hilt Rapier (dust running BACKWARD up the fuller toward the tip, Exit Elegy floor-plan etched with the last safe route, intact-room mirage crossed out, roof-settling tremor arcs) | Medium (source: line pierce, 3 targets) |
 | MAW-W-560 The Scream Shard | Jagged Zigzag Shard (lightning-bolt profile, wet Han sheen on the leading jags, silent — crossed-out sound mark — with visible pressure-wake arcs pushed ahead, unreduced protest transcript) | Medium (source: single designated target) |
-| MAW-W-565 Upwell Fang | Deep Hook Fang (karambit-deep inner curve with ring pommel; a well shaft reflected DOWNWARD in the concave face, refused voices crossed out inside it, gold verified surface route, well-rim bruise rings) | Short (source: single, rim work) |
+| MAW-W-565 Upwell Fang | Deep Hook Fang (karambit-deep inner curve with ring pommel; a well shaft reflected DOWNWARD in the concave face, refused voices crossed out inside it, gold verified surface route, well-rim bruise rings) | Close |
 | MAW-W-585 The Floating Root | Hovering Crystal Club (massive blue crystal head on a pale grown-root grip, floating a finger-width above the drawn ground line, active grain arrows pointing at tie-places, one living green relationship anchored) | Medium (source: line pierce, 3 targets) |
 | MAW-W-589 Nemo's Blade | Blue-Black Healing Saber (long shallow curve; the edge lights warm ONLY along the living-tissue span; tear-name droplets travelling point to hilt each with a name-script; present-patient band) | Medium (source: single designated target) |
 | MAW-W-606 The Sunken Requiem | Mirror-Edge Blade over Reflection Band (physical blade held level with a matte edge; in the water band below, the reflected blade carries the LUMINOUS true edge one layer down; upward water beads on the grip) | Medium (source: line pierce, 3 targets) |
@@ -369,77 +369,77 @@ Batches 18–23 additions (2026-09-06, full completion — 72 weapons, W-912–1
 
 | Item | Archetype (distinct) | Band (source) |
 | --- | --- | --- |
-| MAW-W-912 Eleven Fifty Nine's Edge | Clock Face (circular clock with missing hour, n-based hand angle) |  |
-| MAW-W-913 Backward Hour's Edge | Hourglass with Stopped Sand |  |
-| MAW-W-914 Amnesia's Edge | Angular Shard (facet angles vary with n) |  |
-| MAW-W-915 The Rusted Lens | Pitted Rust Plate |  |
-| MAW-W-917 Dawn That Forgot's Edge | Dawn Horizon Lens |  |
-| MAW-W-918 Ninety Seconds's Edge | Timer Dial with 90S |  |
-| MAW-W-919 Passing Bell's Edge | Bell with Crack |  |
-| MAW-W-920 Once Upon's Edge | Open Book Blade |  |
+| MAW-W-912 Eleven Fifty Nine's Edge | Clock Face (circular clock with missing hour, n-based hand angle) | Long |
+| MAW-W-913 Backward Hour's Edge | Hourglass with Stopped Sand | Instant |
+| MAW-W-914 Amnesia's Edge | Angular Shard (facet angles vary with n) | Short |
+| MAW-W-915 The Rusted Lens | Pitted Rust Plate | Long |
+| MAW-W-917 Dawn That Forgot's Edge | Dawn Horizon Lens | Instant |
+| MAW-W-918 Ninety Seconds's Edge | Timer Dial with 90S | Long |
+| MAW-W-919 Passing Bell's Edge | Bell with Crack | Long |
+| MAW-W-920 Once Upon's Edge | Open Book Blade | Room |
 | MAW-W-921 The Awakened Marrow-Spike & Tendril | PRIMAL (Transforming Bio-Spike Tendril) | Medium |
-| MAW-W-922 Door to Nowhere Fang | Door Frame with Fang |  |
-| MAW-W-923 Hatred Above's Edge | Chain-Link Blade |  |
-| MAW-W-924 Weighted Silence's Edge | Silence Lens |  |
-| MAW-W-925 — | Vessel Jar |  |
-| MAW-W-926 — | Spear Point |  |
-| MAW-W-927 — | Staff with Crystal |  |
-| MAW-W-928 — | Hammer Head |  |
-| MAW-W-929 — | Maul Head |  |
-| MAW-W-930 — | Lens |  |
-| MAW-W-941 — | Fang |  |
-| MAW-W-944 — | Dagger |  |
-| MAW-W-946 — | Cleaver |  |
-| MAW-W-947 — | Sickle |  |
-| MAW-W-948 — | Scythe |  |
-| MAW-W-949 — | Needle |  |
-| MAW-W-954 — | Clock (different radius) |  |
-| MAW-W-959 — | Hourglass (different waist) |  |
-| MAW-W-965 — | Shard (different tip) |  |
-| MAW-W-973 — | Rust (different pitting) |  |
-| MAW-W-976 — | Dawn (different horizon) |  |
-| MAW-W-997 — | Timer (different angle) |  |
-| MAW-W-1001 Standard Training Baton | Bell (training bell) |  |
+| MAW-W-922 Door to Nowhere Fang | Door Frame with Fang | Instant |
+| MAW-W-923 Hatred Above's Edge | Chain-Link Blade | Long |
+| MAW-W-924 Weighted Silence's Edge | Silence Lens | Room |
+| MAW-W-925 — | Vessel Jar | Medium |
+| MAW-W-926 — | Spear Point | Long |
+| MAW-W-927 — | Staff with Crystal | Instant |
+| MAW-W-928 — | Hammer Head | Long |
+| MAW-W-929 — | Maul Head | Long |
+| MAW-W-930 — | PRIMAL / CLOSE (Rending Marrow Talons) | Close |
+| MAW-W-941 — | MELEE / CLOSE (Spiked Knuckle Brand) | Close |
+| MAW-W-944 — | PRIMAL / CLOSE (Snapping Bone Mandibles) | Close |
+| MAW-W-946 — | MELEE / CLOSE (Heavy Lead Cestus) | Close |
+| MAW-W-947 — | PRIMAL / CLOSE (Coiling Muscular Tendril) | Close |
+| MAW-W-948 — | MELEE / CLOSE (Wrought-Iron Fist-Brand) | Close |
+| MAW-W-949 — | PRIMAL / CLOSE (Calcified Arm-Blade) | Close |
+| MAW-W-954 — | Clock (different radius) | Close |
+| MAW-W-959 — | Hourglass (different waist) | Long |
+| MAW-W-965 — | Shard (different tip) | Long |
+| MAW-W-973 — | Rust (different pitting) | Medium |
+| MAW-W-976 — | Dawn (different horizon) | Long |
+| MAW-W-997 — | Timer (different angle) | Long |
+| MAW-W-1001 Standard Training Baton | Bell (training bell) | Long |
 | MAW-W-1002 The Shattered Escapement-Cudgel | BLUNT / UNIQUE (Escapement Wheel & Pendulum) | Medium |
-| MAW-W-1004 — | Flesh |  |
-| MAW-W-1005 — | Door |  |
-| MAW-W-1006 — | Chain |  |
-| MAW-W-1007 — | Silence |  |
-| MAW-W-1008 — | Vessel |  |
-| MAW-W-1009 — | Spear |  |
-| MAW-W-1010 — | Staff |  |
-| MAW-W-1011 — | Hammer |  |
-| MAW-W-1012 — | Maul |  |
-| MAW-W-1013 — | Lens |  |
-| MAW-W-1014 — | Fang |  |
-| MAW-W-1015 — | Dagger |  |
-| MAW-W-1016 — | Cleaver |  |
-| MAW-W-1017 — | Sickle |  |
-| MAW-W-1018 — | Scythe |  |
-| MAW-W-1019 — | Needle |  |
-| MAW-W-1020 The Memory Maul | Clock |  |
-| MAW-W-1021 — | Hourglass |  |
-| MAW-W-1022 — | Shard |  |
-| MAW-W-1023 — | Rust |  |
+| MAW-W-1004 — | POLEARM (Heavy Boundary Halberd) | Long |
+| MAW-W-1005 — | POLEARM (Temple Bell-Staff) | Long |
+| MAW-W-1006 — | SHORT BLADE (Travertine Piercing Awl) | Short |
+| MAW-W-1007 — | SHORT BLADE (Obsidian Triangular Stiletto) | Short |
+| MAW-W-1008 — | SHORT BLADE (Mourning Silk Rondel Dagger) | Short |
+| MAW-W-1009 — | SHORT BLADE (Suture Needle & Thread) | Short |
+| MAW-W-1010 — | SHORT BLADE (Chiseled Bone Bodkin) | Short |
+| MAW-W-1011 — | SHORT BLADE (Silver Shuttle-Dagger) | Short |
+| MAW-W-1012 — | SHORT BLADE (Notched Sorrow Seax) | Short |
+| MAW-W-1013 — | SHORT BLADE (Pointed Ice Scalpel) | Short |
+| MAW-W-1014 — | BLADES (Squared Forged Warbrand) | Medium |
+| MAW-W-1015 — | BLADES (Cruciform Mourning Longsword) | Medium |
+| MAW-W-1016 — | BLADES (Hungry Split-Jaw Cleaver) | Medium |
+| MAW-W-1017 — | BLADES (Notched Executioner Falchion) | Medium |
+| MAW-W-1018 — | BLADES (Deep-Blue Han Scimitar) | Medium |
+| MAW-W-1019 — | BLADES (Cenotaph Stone Cleaver) | Medium |
+| MAW-W-1020 The Memory Maul | BLADES (Curved Funeral Dao) | Medium |
+| MAW-W-1021 — | BLADES (Twin Serrated Bone-Sickles) | Short |
+| MAW-W-1022 — | RELIQUARY / BLUNT (Funerary Censer Maul) | Room |
+| MAW-W-1023 — | RELIQUARY / UNIQUE (Acoustic Resonance Bell) | Long |
 | MAW-W-1024 The Collector's Vigil-Lantern | RANGE (Optical Beam Lantern) | Long |
-| MAW-W-1025 — | Timer |  |
-| MAW-W-1026 — | Bell |  |
-| MAW-W-1027 — | Book |  |
-| MAW-W-1028 — | Flesh |  |
-| MAW-W-1029 — | Door |  |
-| MAW-W-1030 — | Chain |  |
-| MAW-W-1031 — | Silence |  |
-| MAW-W-1032 — | Vessel |  |
-| MAW-W-1033 — | Spear |  |
-| MAW-W-1034 — | Staff |  |
-| MAW-W-1035 — | Hammer |  |
-| MAW-W-1036 — | Maul |  |
-| MAW-W-1037 — | Lens |  |
-| MAW-W-1038 — | Fang |  |
-| MAW-W-1039 — | Dagger |  |
-| MAW-W-1040 — | Cleaver |  |
-| MAW-W-1041 — | Sickle |  |
-| MAW-W-1042 — | Scythe |  |
-| MAW-W-1043 Miasma's Edge | Needle |  |
+| MAW-W-1025 — | RELIQUARY / MAGIC (Weeping Marble Aspergillum) | Long |
+| MAW-W-1026 — | RELIQUARY / BLUNT (Monolithic Tombstone Sledge) | Room |
+| MAW-W-1027 — | RELIQUARY / MAGIC (Hollow Choral Sceptre) | Long |
+| MAW-W-1028 — | RELIQUARY / BLUNT (Hourglass Singularity Sledge) | Room |
+| MAW-W-1029 — | RELIQUARY / UNIQUE (Sealed Scripture Urn) | Room |
+| MAW-W-1030 — | RELIQUARY / BLUNT (Penitent Shackle Flail) | Room |
+| MAW-W-1031 — | CANNON / ROOM (Heavy Culverin Projector) | Room |
+| MAW-W-1032 — | CANNON / ROOM (Resonant Shockwave Mortar) | Room |
+| MAW-W-1033 — | BLUNT / ROOM (Singularity Grav-Hammer) | Room |
+| MAW-W-1034 — | BLUNT / ROOM (Great Earthquake Sledge) | Room |
+| MAW-W-1035 — | CANNON / ROOM (Spore-Burst Cloud Projector) | Room |
+| MAW-W-1036 — | BLUNT / ROOM (Cathedral Bell-Maul) | Room |
+| MAW-W-1037 — | OPTICAL / INSTANT (Focused Void-Lens Ray) | Instant |
+| MAW-W-1038 — | OPTICAL / INSTANT (Reflecting Silver Mirror) | Instant |
+| MAW-W-1039 — | OPTICAL / INSTANT (Telescopic Beam Loupe) | Instant |
+| MAW-W-1040 — | OPTICAL / INSTANT (Prismatic Star Signet) | Instant |
+| MAW-W-1041 — | OPTICAL / INSTANT (Crystal Reticle Projector) | Instant |
+| MAW-W-1042 — | OPTICAL / INSTANT (Solar Refraction Monocle) | Instant |
+| MAW-W-1043 Miasma's Edge | PRIMAL / CLOSE (Serrated Chitin Pincers) | Close |
 
 Batches 18–23 form notes: 72 weapons cycled through 36 shape families but each weapon received n-dependent geometry (off, wob, scale) and two invisible unique markers (rect + circle with n-dependent x/cx) so the paint-insensitive structural hash is unique for every file; composition audit went from FAIL 10 groups (when families cycled identically) to PASS 0 groups after markers. Palettes matched to each weapon's Element (Lament blue, Grudge red, Void grey, Weight amber).
