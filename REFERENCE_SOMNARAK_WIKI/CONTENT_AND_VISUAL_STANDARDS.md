@@ -188,3 +188,24 @@ A new or revised public page may be described as complete only when every applic
 These standards are a minimum quality gate. Passing them does not cap article length, visual complexity, or the number of meaningful page-specific assets.
 
 The current reproducible baseline and its manual-review limits are recorded in `PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md`.
+
+---
+
+## 9. Non-Wiki Canon Markdown Standards (`NON-WIKI` Branch)
+
+When authoring, auditing, or revising files within the `REFERENCE_SOMNARAK_WIKI/` lore repository on the `NON-WIKI` branch, the following requirements apply:
+
+1. **UTF-8 Cleanliness:** All markdown files must be encoded in standard UTF-8 without byte order marks (BOM). Zero decoding errors permitted.
+2. **SECC Designation Integrity:** Sorrow Entity records must follow canonical notation: `SE-[Manifestation]-[Tier][Subtype]-[Number]`. Tier numerals (I=ZAYIN, II=TETH, III=HE, IV=WAW, V=ALEPH) must match containment parameter tables.
+3. **M.A.W. Quadripartite Completeness:** Equipment sets in `M.A.W. Codex_Set Registry/` must contain all four standardized files (`-A` Side Codex, `-B` Weapon, `-C` Suit, `-D` Gift) unless a documented lore exception applies (e.g. SE-003 Wilderness Tide).
+4. **Mandatory Sections for Entity Dossiers:** Every entity file in `01_Sorrow_Entities/` must feature:
+   - Header with English codename and Korean designation.
+   - Quotation block capturing the entity's psychological essence.
+   - SECC Classification Table (Designation, Entity Type, Coherence, Potency, Sorrow Category, Element, Manifestation, Physical Form, Movement, Location, R.D. Observation Level).
+   - Operational parameters and work-type responses (Ferrehan, Flerehan, Pugnahan, Viderehan).
+   - Narrative Origin / Breach Tale.
+5. **Canon Terminology is Binding:** Retain authentic Somnarak nomenclature: Sorrow Entities, SECC, Han, Absolvohan, Facility 01, Echo-Cores, Ordeals. Generic terminology substitutes are strictly forbidden.
+6. **M.A.W. Dual-Paragraph Appearance Standard:** Every M.A.W. equipment piece (Weapon, Suit, Gift) must present its visual appearance in two distinct paragraphs separated by a blank line:
+   - Paragraph 1 starts with `Appearance : ` and provides a concise simple visual profile (20 to 48 words).
+   - Paragraph 2 provides the detailed appearance profile (20 to 66 words) focusing on mechanisms, textures, engravings, and sorrow emissions.
+7. **Validation Gate:** All markdown files must pass `python3 tools/audit_lore_archive.py`.

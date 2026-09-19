@@ -1,81 +1,54 @@
-# Somnarak Workspace & Archival Index
+# Somnarak Reference Archive Index (`REFERENCE_SOMNARAK_WIKI`)
 
-Welcome to the **Somnarak Project** workspace. This repository contains the complete canonical static wiki encyclopedia, modular vector art suites, high-resolution architectural schematics, comparative wiki research, and the original salvaged source corpus.
+Welcome to the **Somnarak Reference Standards & Audit Directory**.
+
+Following the separation of the repository, all **100% in-universe narrative documents** (the master codices, 529 Sorrow Entity dossiers, 1,196 M.A.W. set records, Ordeals, Hope Transformations, and Echo-Core dossiers) are housed directly in **`SOMNARAK-WORLD/`**.
+
+This directory (`REFERENCE_SOMNARAK_WIKI/`) contains the out-of-world architectural frameworks, transfer audits, compliance manifests, developer guidelines, and master catalogs that govern the canon.
 
 ---
 
-## 📂 Master Directory Structure
+## Directory Overview
 
 ```
-/home/user/
-├── 01_Somnarak_Wiki/               # Complete static wiki website (130 HTML pages + assets)
-│   ├── index.html                  # Main Wiki Portal (2x4 Project Moon Feature Grid)
-│   ├── 404.html                    # Residual Void 404 Gateway
-│   ├── characters/                 # 20 Canonical Character Articles (9 Echo-Cores, Leads, Artisans)
-│   ├── lore/                       # 17 World & Metaphysics Articles (Cosmology, Absolvohan, Ages)
-│   ├── factions/                   # 14 Factions & Guilds Articles (Directorate, Council, Arbiters)
-│   ├── mechanics/                  # 12 System & Battle Guides (SECC, Work Types, Attributes, M.A.W.)
-│   ├── locations/                  # 13 Atlas & District Guides (Zones A–E, The Maw, The Desolate)
-│   ├── departments/                # 11 Hand of Change Facility Articles (Floors 1–8, Incident Logs)
-│   ├── entities/                   # 10 Sorrow Entity Threat Analyses (SE-001 to SE-015)
-│   ├── maw/                        # 27 Canonical M.A.W. Equipment Pages (Weapons, Suits, Gifts)
-│   ├── atlas/                      # 2 Interactive High-Resolution Facility & City Blueprints
-│   ├── assets/                     # Modular CSS, JS, SVGs, and Appearance-Accurate Art
-│   └── data/search.json            # Dynamic Real-Time Search Engine Index (129 indexed records)
-│
-├── archives/                       # Master Categorized Distribution Archives (.zip)
-│   ├── 01_Somnarak_Wiki.zip        # Full static wiki build (130 pages + all assets)
-│   ├── somnarak_wiki_icons.zip     # 43 Modular Vector & PNG Wiki Icons
-│   ├── the_hand_and_city_map_layout.zip # Architectural Facility Cutaway & City Blueprints
-│   ├── FOR_WIKI.zip                # Salvaged source corpus (2,140 files)
-│   └── 01_Comparative_Wiki_Research.zip # Comparative wiki research dataset
-│
-├── salvaged_source_materials/      # Extracted Salvaged Canonical Source Corpus (2,140 files)
-│   └── FOR WIKI/
-│       ├── 00_Source_Materials/    # Core Markdowns (PROJECT_SOMNARAK, The_REVERIE_DIRECTORATE, Cast)
-│       ├── 01_Canonical_SE/        # Entity tales, dossiers, and work tables
-│       └── 02_Codex_Sets/          # M.A.W. equipment tables and sets
-│
-├── research_materials/             # Comparative Wiki Research Dataset (68 files)
-│   └── 01_Comparative_Wiki_Research/ # Lobotomy Corp, Library of Ruina & Limbus Company wiki structures
-│
-├── diagrams/                       # High-Resolution Architectural Vector & PNG Schematics
-│   ├── THE_HAND_DR_LAYOUT.svg      # 8-Floor Subterranean Facility Blueprint
-│   └── SOMNARAK_CITY_LAYOUT.svg    # 5-Zone Concentric City Master Plan
-│
-├── icons/                          # 43 Standalone Modular Vector & PNG Wiki Icons
-│   ├── icons_gallery.html          # Visual Browser Gallery for all 43 icons
-│   └── icons_manifest.json         # Metadata manifest for all 43 icons
-│
-└── tools/                          # Maintenance, Audit, and Generation Scripts
-    ├── audit_wiki_links.py         # 100% Relative Link & Asset Verifier
-    ├── rebuild_search_index.py     # Search Engine Index Generator
-    └── run_full_pipeline.py        # Master Build & Standardization Runner
+REFERENCE_SOMNARAK_WIKI/
+├── README.md                           # This directory index file
+├── ABSOLOVHAN_REPAIR_NOTES.md          # Canon harmonization and repair notes for Absolvohan texts
+├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 285 unique Sorrow Entities
+├── SORROW_ENTITIES_PAIRS_AUDIT.md      # Detailed audit and resolution guide for the 241 paired entity files
+├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line transfer audit of the 34 foundational codices
+├── ALL_FILES_AUDIT_MANIFEST.md         # Comprehensive manifest of all 1,863 reference files
+├── CATEGORY_AND_PAGE_PLAN.md           # Master classification and taxonomy framework
+├── CONTENT_AND_VISUAL_STANDARDS.md     # Quality guidelines, terminology, and content floors
+├── LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md# Operational policies regarding git branches and environments
+├── MASTER_HANDOFF_PROTOCOL.md          # Multi-agent handoff standards and continuity procedures
+├── MAW_PERSONALIZE_PROGRESS.md         # M.A.W. equipment visual design and variety ledger
+├── MAW_WEAPON_ARCHETYPES.md            # Comprehensive taxonomy of weapon silhouettes and archetypes
+├── OPERATING_RULES.md                  # Canon preservation rules and directory guidelines
+├── PROJECT_MOON_WIKI_NESTED_PLACEMENT_RESEARCH.md # Comparative information architecture research
+├── PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md     # Historical compliance evaluation
+├── REGISTRY_MASTER_STATUS.md           # M.A.W. Registry completion and archive tracking
+├── SOMNARAK_CORPORATIONS_GAME_DESIGN_FRAMEWORK.md # Original design document for the 3 corporations
+├── SOMNARAK_DOCUMENT_RULES.md          # Archival classification & authoring rules for entity files
+├── SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md # Authoritative list of 55 immutable core entities
+└── SOMNARAK_NAME_REGISTRY.md           # Authoritative nomenclature & character naming lexicon
 ```
 
 ---
 
-## 🔍 Quick Search & Navigation Reference
+## Key Documents in This Directory
 
-| Target Subject | Primary Wiki Route | Key Features |
-|---|---|---|
-| **Main Portal** | `01_Somnarak_Wiki/index.html` | 2x4 Feature Grid, Right Hazard Floor Chevrons |
-| **Echo-Cores & Leads** | `01_Somnarak_Wiki/characters/index.html` | Majin, Seiyon, Dekan, Zyrak, Ayshuk, Mellda, Marjuk, Ishall, Xyan |
-| **Cosmology & Lore** | `01_Somnarak_Wiki/lore/index.html` | 5 Layers, The 1,778 Cycles, Absolvohan (Parts 1–9), The Three Ages |
-| **Factions & Arbiters** | `01_Somnarak_Wiki/factions/index.html` | Reverie Directorate, High Council, Giltong Arbiters, Weavers, Wardens |
-| **Battle & Systems** | `01_Somnarak_Wiki/mechanics/index.html` | SECC Taxonomy, 4 Work Types, Agent Stats, Stagger Break, Ordeals |
-| **Atlas & City Zones** | `01_Somnarak_Wiki/locations/index.html` | Zones A–E, The Veil & The Raw, The Maw, The Desolate, Lost Cities |
-| **Facility Operations** | `01_Somnarak_Wiki/departments/index.html` | Floors 1–8 Schematics, 10 Canonical Incident Reports (IR-001 to IR-010) |
-| **Sorrow Entities** | `01_Somnarak_Wiki/entities/index.html` | SE-001 to SE-015 Threat Profiles & Tales |
-| **M.A.W. Armory** | `01_Somnarak_Wiki/maw/index.html` | 27 Weapon, Suit & Gift Codex Entries with Vector Art |
-
----
-
-## 🛠️ Verification Commands
-
-To verify link integrity and rebuild search index at any time:
-```bash
-python3 /home/user/tools/rebuild_search_index.py
-python3 -c "import os, glob; from bs4 import BeautifulSoup; [print(f'Checking {len(glob.glob(\"/home/user/01_Somnarak_Wiki/**/*.html\", recursive=True))} pages... OK!')]"
-```
-
+1. **`SORROW_ENTITIES_CATALOG.md`**:
+   The definitive master catalog indexing all 285 unique Sorrow Entities cataloged in `SOMNARAK-WORLD/Sorrow_Entities/` by SECC Code, English Name, Korean Designation, Threat Tier, and Elemental Affinity.
+2. **`SORROW_ENTITIES_PAIRS_AUDIT.md`**:
+   Exhaustive audit analyzing the 241 entity codes with multiple dossiers (prefix variations and alternative English translations), establishing the canonical resolution guidelines.
+3. **`SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md`**:
+   The authoritative developer list of the 55 core canonical entities whose designations and names are permanently protected against modification.
+4. **`SOMNARAK_DOCUMENT_RULES.md` & `SOMNARAK_NAME_REGISTRY.md`**:
+   The developer standards, ID formats, date conventions, and authentic Korean/English naming lexicon for authors expanding the entity archives.
+5. **`REGISTRY_MASTER_STATUS.md`**:
+   Comprehensive completion matrix for all M.A.W. equipment sets across the 42 range registries.
+6. **`CONTENT_AND_VISUAL_STANDARDS.md`**:
+   The authoritative standard for Somnarak worldbuilding: 200-word floors, mandatory dossier sections, UTF-8 clean encoding, and authentic terminology enforcement.
+7. **`LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md`**:
+   Branch governance protocol detailing the dual-branch architecture: `main` (for the public GitHub Pages static wiki) and `NON-WIKI` (for the pure markdown reference repository).
