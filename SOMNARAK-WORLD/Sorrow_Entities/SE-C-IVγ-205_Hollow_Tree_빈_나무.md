@@ -168,11 +168,18 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Hollow Staff
+### M.A.W. Weapon — The Ravenous Timber-Jaw
 
-**Type:** Weapon | **Grade:** γ | **Element:** Weight
+**Category:** PRIMAL (Living Jaw-Cleaver / 2m Split Maw-Blade)
+**Grade:** γ | **Element:** Weight
+**Damage:** Weight 12–20
+**Speed:** 2 (Slow)
+**Range:** 3 (Medium: 2–3m)
+**Pattern:** Masticating Cleave / Heavy Chomp
 
-**Appearance:** a staff of black Han-steel, matte and unnaturally heavy, that flickers with inner light.
+**Appearance:** A massive, two-meter executioner's cleaver forged from petrified dark wood and calcified bone. When stowed or unequipped, it rests as a solid, monolithic slab blade. When gripped and swung in combat, the front-middle seam of the blade physically tears open into a gaping, predatory wooden maw lined with jagged, razor-sharp bone teeth that salivate acidic Han. As the Agent cleaves, the jaws clamp violently shut on impact, chewing through enemy posture and structural integrity.
+
+**Ability:** *Timber Chomp* — Deals heavy Weight damage at Range 3. Cleaves in a crushing arc that snaps shut upon contact, dealing high posture break and reducing target physical resistance by 15%.
 
 **Damage:** Weight 7-12
 **Speed:** 3 (Fast)
@@ -184,9 +191,10 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Cost:** The wielder feels the emptiness of every place they enter.
 
-### M.A.W. Suit — The Hollow Mantle
+### M.A.W. Suit — The Hollow Bark-Carapace
 
-**Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
+**Category:** Protective Attire (Petrified Bark Plates & Hollow Rib-Armor)
+**Grade:** γ | **Element:** Weight
 
 **Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that shifts and breathes with the wearer.
 
@@ -202,9 +210,10 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 **Cost:** The wearer carries a constant low fatigue.
 
-### M.A.W. Gift — The Hollow Charm
+### M.A.W. Gift — The Splintered Gullet
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Weight
+**Category:** Stigma (Throat Relic Mark)
+**Grade:** γ | **Element:** Weight
 
 **Appearance:** a small charm of black Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
 

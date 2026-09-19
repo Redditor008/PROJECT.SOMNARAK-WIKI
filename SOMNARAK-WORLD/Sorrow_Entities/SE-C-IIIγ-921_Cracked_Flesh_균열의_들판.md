@@ -164,19 +164,27 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
 
-### M.A.W. Weapon — Cracked Flesh's Edge
+### M.A.W. Weapon — The Awakened Marrow-Spike & Tendril
 
-**Type:** Weapon | **Grade:** γ | **Element:** Grudge
+**Category:** PRIMAL (Bio-Spike Tendril / Transforming Flesh-Whip)
+**Grade:** γ | **Element:** Grudge
+**Damage:** Grudge 9–15
+**Speed:** 3 (Normal)
+**Range:** 3 (Medium: 2–4m)
+**Pattern:** Sweeping Tendril Lash / Constriction
 
-**Appearance:** a single-edged blade of crimson Han-iron, dark and faintly warm, that flickers with inner light.
+**Appearance:** When dormant or stowed, this implement appears as a rigid, calcified 1.2-meter crimson marrow spike of fossilized bone and dried sinew. When grasped in an Agent's hand, it draws warmth from their pulse; its calcified joints soften and unfurl into a living, muscular tendril that writhes with aggressive autonomy. It lashes across medium range and coils around limbs to crush bone.
+
+**Ability:** *Constricting Lash* — Deals Grudge damage across Range 3 (2–4m). Sweeping strikes wrap around enemy limbs, applying bleed and immobilizing targets for 1 turn.
 
 **Damage:** Grudge 14–19 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels grudge body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.
 **Cost:** The wielder experiences emotional numbness toward the source entity's element with each use.
 
-### M.A.W. Suit — Cracked Flesh's Veil
+### M.A.W. Suit — The Suture-Cracked Hauberk
 
-**Type:** Armor (Suit) | **Grade:** γ | **Element:** Grudge
+**Category:** Protective Attire (Calcified Bone-Leather Apron & Staple Mail)
+**Grade:** γ | **Element:** Grudge
 
 **Appearance:** a flowing veil of crimson Han-cloth, dark and faintly warm, that tightens near its source element.
 
@@ -184,9 +192,10 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
 **Ability:** Grants resistance to Grudge damage, protecting against the body register of sorrow.
 
-### M.A.W. Gift — Cracked Flesh's Token
+### M.A.W. Gift — The Fissured Skin Stigma
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Grudge
+**Category:** Stigma (Porcelain Fault-Line Mark)
+**Grade:** γ | **Element:** Grudge
 
 **Appearance:** a coin-token of crimson Han-iron, dark and faintly warm, warm to the touch.
 
@@ -278,7 +287,7 @@ The entity does not rage. It does not weep. It persists — body and grudge, pat
 
 **Common Name:** Cracked Flesh
 
-**Containment Status:** Contained — SECTOR-C-921 
+**Containment Status:** Contained — SECTOR-C-921
 
 **Observation Level:** 3 — Advanced
 

@@ -4,12 +4,12 @@
 
 ---
 
-**Document ID:** `SE-019-A`  
-**Related Entity ID:** `SE-019`  
-**SECC Designation:** `N-IVβ-019 [WS]`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Document ID:** `SE-019-A`
+**Related Entity ID:** `SE-019`
+**SECC Designation:** `N-IVβ-019 [WS]`
+**Author:** Auditor Yuna
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Restricted
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — SECTOR-C-01, hereditary-debt analysis
 
@@ -56,9 +56,9 @@ The entity does not require the debt to be forgiven or paid. It requires the tar
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Debt Maul | β | Weight | Breaks debt-laden pressure through direct impact | `SE-019-B__MAW-W_The_Debt_Maul.md` |
-| **Suit** | The Debt Mantle | β | Weight | Carries inherited burden without confusing it for selfhood | `SE-019-C__MAW-S_The_Debt_Mantle.md` |
-| **Gift** | The Debt Chain | β | Weight | Shows obligation paths between people | `SE-019-D__MAW-G_The_Debt_Chain.md` |
+| **Weapon** | The Ancestral Gravitational Signet | β | Weight | Breaks debt-laden pressure through direct impact | `SE-019-B__MAW-W_The_Debt_Maul.md` |
+| **Suit** | The Penitent's Shackled Vestments | β | Weight | Carries inherited burden without confusing it for selfhood | `SE-019-C__MAW-S_The_Debt_Mantle.md` |
+| **Gift** | The Generational Ledger Scar | β | Weight | Shows obligation paths between people | `SE-019-D__MAW-G_The_Debt_Chain.md` |
 
 ### Set Resonance — Name the Chain
 
@@ -94,10 +94,10 @@ Mastery requires a family to break a debt chain without passing the cost to some
 
 ---
 
-**Document ID:** `SE-019-A`  
-**Related Entity:** `SE-019`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
+**Document ID:** `SE-019-A`
+**Related Entity:** `SE-019`
+**Author:** Auditor Yuna
+**Date:** Year 4,238 — Dawn Initiative
 **Classification:** Restricted
 
 ---

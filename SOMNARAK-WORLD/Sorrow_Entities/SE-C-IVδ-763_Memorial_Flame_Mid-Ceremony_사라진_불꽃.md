@@ -180,32 +180,29 @@ The escalation pattern is specific to Memorial Flame Mid-Ceremony: it is not a g
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Absent Requiem
+### M.A.W. Weapon — The Soul-Seeking Candelabrum
 
-**Type:** Weapon | **Grade:** δ | **Element:** Lament
-
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
-
-**Damage:** Lament 10–15
-**Speed:** 3 (Fast)
-**Range:** 3 (Medium)
+**Category:** MAGIC / RANGE (Antique Candelabrum / Homing Purple Soul-Flame)
+**Grade:** δ | **Element:** Lament
+**Damage:** Lament 14–22
+**Speed:** 3 (Normal)
+**Range:** 4 (Long: 4–8m)
+**Pattern:** Homing Wisp / Tracking Soul-Burn
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Attack Pattern:** Pierce
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
+**Appearance:** An ornate antique candelabrum of tarnished bronze encrusted with weeping wax droplets, holding a thick, dark tallow candle. When inactive, it resembles a solemn altar artifact. When raised in battle, its wick flares with an eerie, deep-purple flame that casts no heat. Upon designating an enemy, luminous purple flame wisps detach and fly through the air, curving around obstacles to relentlessly seek and strike the target's Soul and Mind.
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Memorial Flame Mid-Ceremony's lament signature in the strike.
+**Ability:** *Soul-Seeker Conflagration* — Unleashes tracking purple flame wisps across Range 4 (Long). The wisps home onto target weak points, bypassing cover to inflict heavy Lament damage that erodes Sanity and triggers panic buildup.
 
 **Cost:** The wielder feels the entity's unwept grief; prolonged use causes involuntary weeping.
 
-### M.A.W. Suit — The Absent Shroud
+### M.A.W. Suit — The Extinguished Mourner's Shroud
 
-**Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
+**Category:** Protective Attire (Ash-Dusted Silk Veil & Funerary Shroud)
+**Grade:** δ | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that shifts and breathes with the wearer.
+**Appearance:** A wrapping shroud of ash-dusted deep-blue silk, cool and faintly luminous, that shifts and breathes with the wearer.
 
 **Resistances:**
 - Lament: 0.4 (Resistant)
@@ -219,15 +216,16 @@ The escalation pattern is specific to Memorial Flame Mid-Ceremony: it is not a g
 
 **Cost:** The wearer becomes numb to minor joys.
 
-### M.A.W. Gift — The Absent Flame
+### M.A.W. Gift — The Purple Wick Stigma
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Lament
+**Category:** Stigma (Ocular / Torso Relic Mark)
+**Grade:** δ | **Element:** Lament
 
-**Appearance:** a flame-charm of deep-blue Han-crystal, cool and faintly luminous, that grows briefly hot near sorrow.
+**Appearance:** A burning purple wick ember mark imprinted upon the skin that smolders without consuming flesh.
 
-**Slot:** Tail
+**Slot:** Torso / Neck
 **Acquisition Probability:** 4%
-**Effect:** +3 stat bonus when working the source entity
+**Effect:** +3 stat bonus when working the source entity and grants vision in sorrow fog.
 
 **Ability:** Reveals hidden grief in a darkened space.
 

@@ -1,16 +1,16 @@
-# M.A.W. SUIT — The Hollow Mantle
+# M.A.W. PROTECTIVE ATTIRE — The Hollow Bark-Carapace
 
 > *“It does not make the burden lighter. It leaves somewhere inside you for the burden not to become your whole shape.”*
 
 ---
 
-**Document ID:** `SE-205-C`  
-**Linked Entity:** `SE-205` — Timber Maw  
-**Item Registry Code:** `MAW-S-205-01`  
-**Entity Designation:** `C-IVγ-205 [WS]`  
-**Author:** Agent Iseulfros Kim, Environmental Hazard Specialist  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Document ID:** `SE-205-C`
+**Linked Entity:** `SE-205` — Timber Maw
+**Item Registry Code:** `MAW-S-205-01`
+**Entity Designation:** `C-IVγ-205 [WS]`
+**Author:** Agent Iseulfros Kim, Environmental Hazard Specialist
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Classified
 **Codex Set Completion:** `4/4`
 **Status:** Active — restricted Weight-hazard issue
 
@@ -18,13 +18,13 @@
 
 ## ITEM IDENTITY & BINDING
 
-The Mantle is a draped shell of matte black Han-weave. It has no fixed lining: between cloth and wearer is a hand-width of lead-cold space that persists even when the fabric is pressed inward. The shoulders rise and fall like slow breathing. In motion, the hem resembles a ring of roots deciding where to take hold.
+The Bark-Carapace is a draped shell of petrified bark plates and matte black Han-weave. It has no fixed lining: between armor and wearer is a hand-width of lead-cold space that persists even when the plating is pressed inward. The shoulders rise and fall like slow breathing. In motion, the hem resembles a ring of roots deciding where to take hold.
 
 An authentic Mantle does not copy the wearer’s outline while hung. It keeps one shoulder empty and casts the silhouette of someone who has not arrived.
 
 The binding test is performed beside Timber Maw. The applicant enters the trunk carrying no equipment beyond the test anchor, sits through Ferrehan, and leaves without placing anything in the hollow. The Mantle closes only around a wearer willing to set down excess load. It rejects operators who treat protection as permission to carry every burden available.
 
-**Set:** The Hollow Gathering  
+**Set:** The Hollow Gathering
 **Role:** Weight-pressure armor / recovery access
 
 ---
@@ -134,11 +134,11 @@ The Mantle is approved for root entanglement, floor compression, and Weight-heav
 
 ---
 
-**Document ID:** `SE-205-C`  
-**Linked Entity:** `SE-205`  
-**Item Registry Code:** `MAW-S-205-01`  
-**Author:** Agent Iseulfros Kim, Environmental Hazard Specialist  
-**Date:** Year 4,238 — Dawn Initiative  
+**Document ID:** `SE-205-C`
+**Linked Entity:** `SE-205`
+**Item Registry Code:** `MAW-S-205-01`
+**Author:** Agent Iseulfros Kim, Environmental Hazard Specialist
+**Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 
 ---

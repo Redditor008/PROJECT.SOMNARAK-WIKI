@@ -1,16 +1,16 @@
-# M.A.W. WEAPON — The Hollow Staff
+# M.A.W. WEAPON — The Ravenous Timber-Jaw
 
 > *“The first thing it takes from a room is pressure. The second is the reason anyone wanted to remain there.”*
 
 ---
 
-**Document ID:** `SE-205-B`  
-**Linked Entity:** `SE-205` — Timber Maw  
-**Item Registry Code:** `MAW-W-205-01`  
-**Entity Designation:** `C-IVγ-205 [WS]`  
-**Author:** Agent Durivel Cho, Field Extraction Specialist  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Document ID:** `SE-205-B`
+**Linked Entity:** `SE-205` — Timber Maw
+**Item Registry Code:** `MAW-W-205-01`
+**Entity Designation:** `C-IVγ-205 [WS]`
+**Author:** Agent Durivel Cho, Field Extraction Specialist
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Classified
 **Codex Set Completion:** `4/4`
 **Status:** Active — three controlled draws; Echo Gardens deployment only
 
@@ -18,11 +18,11 @@
 
 ## ITEM IDENTITY & VISUAL RECORD
 
-The Hollow Staff is a straight length of matte black Han-steel whose surface resembles bark stripped against the grain. It is lead-cold before use and becomes lighter in the hand as it drinks ambient Han. A dim light can be seen inside its central seam, but that light illuminates no surrounding surface. When the intake opens, nearby footsteps lose their echo.
+The Ravenous Timber-Jaw is a straight length of matte black Han-steel whose surface resembles bark stripped against the grain. It is lead-cold before use and becomes lighter in the hand as it drinks ambient Han. A dim light can be seen inside its central seam, but that light illuminates no surrounding surface. When the intake opens, nearby footsteps lose their echo.
 
 **Recognition rule:** Tap the lower third once against bare stone. An authentic Staff returns no impact sound, while its shadow briefly takes the shape of exposed roots.
 
-**Set:** The Hollow Gathering  
+**Set:** The Hollow Gathering
 **Role:** Environmental Han draw / line-control weapon
 
 ---
@@ -130,11 +130,11 @@ No district-scale trial is authorized.
 
 ---
 
-**Document ID:** `SE-205-B`  
-**Linked Entity:** `SE-205`  
-**Item Registry Code:** `MAW-W-205-01`  
-**Author:** Agent Durivel Cho, Field Extraction Specialist  
-**Date:** Year 4,238 — Dawn Initiative  
+**Document ID:** `SE-205-B`
+**Linked Entity:** `SE-205`
+**Item Registry Code:** `MAW-W-205-01`
+**Author:** Agent Durivel Cho, Field Extraction Specialist
+**Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 
 ---

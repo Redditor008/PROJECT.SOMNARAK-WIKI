@@ -64,7 +64,7 @@ Batch-5 additions (REDONE 2026-09-05 per variety + range-stat rule; five items a
 | MAW-W-014 The Debt Prism | FANTASY (Astral Prism) | Instant |
 | MAW-W-015 The Balance Projector | RANGE (Balance Crossbow) | Long |
 | MAW-W-016 The Lost Lens | Compass Chakram | Long |
-| MAW-W-019 The Debt Maul | Chain Flail | Room |
+| MAW-W-019 The Ancestral Gravitational Signet | UNIQUE (Karmic Seal Ring / Cone Gravity Apparatus) | Short |
 | MAW-W-021 The Silenced Requiem | Rapier | Long |
 | MAW-W-025 The Silence Lens | Lens Buckler | Close |
 | MAW-W-031 The Watcher's Unblinking Eye | PRIMAL (Bio-Ocular Implant) | Room |
@@ -141,7 +141,7 @@ Batch-7 additions (2026-09-05, shape-variant research standard, weapon-first det
 | MAW-W-193 The Wall's Maul | Monolith Maul (light-swallowing unmarked block, hairline division seam, twin grips) | Medium (source: 3 — Medium) |
 | MAW-W-195 The Sorrow Lens | Mirror-Faced Blade (dusk reflection in the flat, clouding pry-corner) | Medium (source: 3 — Medium) |
 | MAW-W-200 The Gatekeeper's Blade | Long Single-Edged Boundary Blade (gate-arch watermark, gate-pillar quillons) | Medium (source: 3 — Medium) |
-| MAW-W-205 The Hollow Staff | Seam-Staff (bark stripped against the grain, lit central seam, intake vents) | Medium (source: Range 3 — Medium) |
+| MAW-W-205 The Ravenous Timber-Jaw | PRIMAL (Living Jaw-Cleaver / 2m Split Maw-Blade) | Medium |
 | MAW-W-210 The Laughter Lens | Angled Hand-Lens (pointing handle, offset mouth-ahead-of-face in the glass) | Short (source: Range 2 — Short) |
 | MAW-W-215 The Name Lens | Two-Handed Wire-Frame Lens (yoke frame, twin grips, letters at opposite edges) | Short (source: Range 2 — Short) |
 | MAW-W-219 Splinter Requiem | Acicular Needle-Crystal Blade (needle cluster habit, wet luminous edge, running droplets) | Short (source: 2 / 50) |
@@ -312,7 +312,7 @@ Batch-15 additions (2026-09-06, full-variety sweep — 12 mutually distinct silh
 
 | Item | Archetype (new distinct build) | Band (source) |
 | --- | --- | --- |
-| MAW-W-763 The Absent Requiem | Cold-Wick Memorial Candle on Stone Altar (thick altar slab, single wax cylinder, charred bent wick, interrupted smoke curl, scattered-mourners ash ring — flame never recreated) — NON-WEAPON | Medium (source: 3/3 Pierce) |
+| MAW-W-763 The Soul-Seeking Candelabrum | MAGIC (Antique Candelabrum / Homing Purple Flame) | Long |
 | MAW-W-767 The Fading Requiem | Hanging Memorial Bell with Fading Inscription (yoke + ring, broad bell body, tiered MOURNERS→VISITORS→STRANGERS fading text, rim gap and spreading absence halos, still clapper) — NON-WEAPON | Medium (source: 3/3 Pierce) |
 | MAW-W-775 The Torn Lens | Surveyor's Scope Tube with Unfinished-Tower Blueprint (vertical tube + tripod, solid lower floors → dashed mid → ghost top, void split, NOTED/LOST calibration) | Short (source: 2/2 Single) |
 | MAW-W-777 The Burning Fang | Seed-Socket Fang with Empty Pit Fuller (forward-curved fang, oval pit socket with radial grain, crossed stem, ember tip) | Short (source: 2/2 Single) |
@@ -377,7 +377,7 @@ Batches 18–23 additions (2026-09-06, full completion — 72 weapons, W-912–1
 | MAW-W-918 Ninety Seconds's Edge | Timer Dial with 90S |  |
 | MAW-W-919 Passing Bell's Edge | Bell with Crack |  |
 | MAW-W-920 Once Upon's Edge | Open Book Blade |  |
-| MAW-W-921 Cracked Flesh's Edge | Cracked Flesh Slab |  |
+| MAW-W-921 The Awakened Marrow-Spike & Tendril | PRIMAL (Transforming Bio-Spike Tendril) | Medium |
 | MAW-W-922 Door to Nowhere Fang | Door Frame with Fang |  |
 | MAW-W-923 Hatred Above's Edge | Chain-Link Blade |  |
 | MAW-W-924 Weighted Silence's Edge | Silence Lens |  |

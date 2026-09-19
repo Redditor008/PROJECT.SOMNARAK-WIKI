@@ -4,12 +4,12 @@
 
 ---
 
-**Document ID:** `SE-763-A`  
-**Related Entity ID:** `SE-763`  
-**Source SECC Designation:** `C-IVδ-763 [LP]`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified  
+**Document ID:** `SE-763-A`
+**Related Entity ID:** `SE-763`
+**Source SECC Designation:** `C-IVδ-763 [LP]`
+**Author:** Researcher Euncris Park
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Classified
 **Codex Set Completion:** `4/4`
 
 ## SUBJECT
@@ -35,7 +35,7 @@ The Flame formed from a fire extinguished before its owner could grieve. The pai
 | Viderehan | Reveals the memorial and those who tended it. (Stable) |
 | Ferrehan | Tests whether the worker can mourn without a visible object. (Decrease) |
 
-**Trigger:** Unfinished memorials and extinguished rituals.  
+**Trigger:** Unfinished memorials and extinguished rituals.
 **Resolution:** Complete the memorial without attempting to recreate the original flame
 
 ## WITNESS RECORD — *The Memorial Flame Mid Ceremony Source-Trace*
@@ -46,9 +46,9 @@ During the The Memorial Flame Mid Ceremony Source-Trace, the field team preserve
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Absent Requiem | δ Lament 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-763-B__MAW-W_The_Absent_Requiem.md` |
-| The Absent Shroud | δ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 2; 45 Sorrow Echoes | `SE-763-C__MAW-S_The_Absent_Shroud.md` |
-| The Absent Flame | δ; Tail; 4%; +3 stat bonus when working the source entity | `SE-763-D__MAW-G_The_Absent_Flame.md` |
+| The Soul-Seeking Candelabrum | δ Lament 10–15; Speed 3 (Fast); Range 3 (Medium); Pierce; max 2; 50 Sorrow Echoes | `SE-763-B__MAW-W_The_Absent_Requiem.md` |
+| The Extinguished Mourner's Shroud | δ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Endured); max 2; 45 Sorrow Echoes | `SE-763-C__MAW-S_The_Absent_Shroud.md` |
+| The Purple Wick Stigma | δ; Tail; 4%; +3 stat bonus when working the source entity | `SE-763-D__MAW-G_The_Absent_Flame.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
@@ -56,10 +56,10 @@ The Gift identifies Memorial Flame Mid-Ceremony's source condition, the Suit let
 
 ---
 
-**Document ID:** `SE-763-A`  
-**Linked Entity:** `SE-763`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
+**Document ID:** `SE-763-A`
+**Linked Entity:** `SE-763`
+**Author:** Researcher Euncris Park
+**Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 
 ---

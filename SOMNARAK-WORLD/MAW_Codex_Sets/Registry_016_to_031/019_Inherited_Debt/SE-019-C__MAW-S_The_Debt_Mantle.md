@@ -1,15 +1,15 @@
-# M.A.W. SUIT — The Debt Mantle
+# M.A.W. PROTECTIVE ATTIRE — The Penitent's Shackled Vestments
 
 > *“It lets the bearer carry a burden without mistaking the burden for a self.”*
 
 ---
 
-**Document ID:** `SE-019-C`  
-**Linked Entity:** `SE-019` — The Inherited Debt  
-**Item Registry Code:** `MAW-S-019-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified  
+**Document ID:** `SE-019-C`
+**Linked Entity:** `SE-019` — The Inherited Debt
+**Item Registry Code:** `MAW-S-019-01`
+**Author:** Environmental Hazard Specialist Iseulfros Kim
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Classified
 **Codex Set Completion:** `4/4`
 
 ## RESISTANCE RECORD
@@ -30,7 +30,7 @@
 
 ### Appearance
 
-The Debt Mantle is a black Weight mantle of dense, unpolished Han fabric that falls from the shoulders to the knees in long, straight panels. It is heavier than it appears and settled, as though it had been inherited rather than merely put on. The cloth does not billow; it hangs almost motionless, and its inner lining is cold and smooth against the neck. When the wearer classifies one burden as inherited rather than personal, the panel nearest the heart darkens slightly, and the mantle holds the distinction for the length of the operation without removing any of the legal, emotional, or social consequences. After removal the mantle keeps a faint pale pressure mark where the deferred burden was held. The wearer is left tired in ways that do not feel like their own, old pain, old fear, old exhaustion. The mantle grows lighter only when the deferred burden is named aloud to another person, and for a short time the panel near the heart returns to black.
+The Penitent's Shackled Vestments is a black Weight mantle of dense, unpolished Han fabric that falls from the shoulders to the knees in long, straight panels. It is heavier than it appears and settled, as though it had been inherited rather than merely put on. The cloth does not billow; it hangs almost motionless, and its inner lining is cold and smooth against the neck. When the wearer classifies one burden as inherited rather than personal, the panel nearest the heart darkens slightly, and the mantle holds the distinction for the length of the operation without removing any of the legal, emotional, or social consequences. After removal the mantle keeps a faint pale pressure mark where the deferred burden was held. The wearer is left tired in ways that do not feel like their own, old pain, old fear, old exhaustion. The mantle grows lighter only when the deferred burden is named aloud to another person, and for a short time the panel near the heart returns to black.
 
 ### Ability — Separate Ledger
 
@@ -42,11 +42,11 @@ The Mantle lets the wearer classify one burden as inherited rather than personal
 
 A mediator wore the Mantle through a three-family settlement conference. The mediator stayed upright throughout, then collapsed after the meeting and woke reciting debts from a family unrelated to their own.
 
-**Document ID:** `SE-019-C`  
-**Linked Entity:** `SE-019`  
-**Item Registry Code:** `MAW-S-019-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
+**Document ID:** `SE-019-C`
+**Linked Entity:** `SE-019`
+**Item Registry Code:** `MAW-S-019-01`
+**Author:** Environmental Hazard Specialist Iseulfros Kim
+**Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 
 ---

@@ -254,9 +254,9 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 214 | Weapon | The Maze Lens | [The Memory Maze](../Sorrow_Entities/SE-C-IVγ-180_The_Memory_Maze_기억의_미로.md) | SE-C-IVγ-180 | Weapon | γ | Void |
 | 215 | Suit | The Maze Veil | [The Memory Maze](../Sorrow_Entities/SE-C-IVγ-180_The_Memory_Maze_기억의_미로.md) | SE-C-IVγ-180 | Armor (Suit) | γ | Void |
 | 216 | Gift | The Maze Key | [The Memory Maze](../Sorrow_Entities/SE-C-IVγ-180_The_Memory_Maze_기억의_미로.md) | SE-C-IVγ-180 | Accessory (Gift) | γ | Void |
-| 217 | Weapon | The Hollow Staff | [The Hollow Tree](../Sorrow_Entities/SE-C-IVγ-205_The_Hollow_Tree_빈_나무.md) | SE-C-IVγ-205 | Weapon | γ | Weight |
-| 218 | Suit | The Hollow Mantle | [The Hollow Tree](../Sorrow_Entities/SE-C-IVγ-205_The_Hollow_Tree_빈_나무.md) | SE-C-IVγ-205 | Armor (Suit) | γ | Weight |
-| 219 | Gift | The Hollow Charm | [The Hollow Tree](../Sorrow_Entities/SE-C-IVγ-205_The_Hollow_Tree_빈_나무.md) | SE-C-IVγ-205 | Accessory (Gift) | γ | Weight |
+| 217 | Weapon | The Ravenous Timber-Jaw | [The Hollow Tree](../Sorrow_Entities/SE-C-IVγ-205_The_Hollow_Tree_빈_나무.md) | SE-C-IVγ-205 | Weapon (PRIMAL — 2m Split Maw-Cleaver) | γ | Weight |
+| 218 | Suit | The Hollow Bark-Carapace | [The Hollow Tree](../Sorrow_Entities/SE-C-IVγ-205_The_Hollow_Tree_빈_나무.md) | SE-C-IVγ-205 | Armor (Attire) | γ | Weight |
+| 219 | Gift | The Splintered Gullet | [The Hollow Tree](../Sorrow_Entities/SE-C-IVγ-205_The_Hollow_Tree_빈_나무.md) | SE-C-IVγ-205 | Accessory (Stigma) | γ | Weight |
 | 220 | Weapon | The Frozen Maul | [The Broken Clocktower](../Sorrow_Entities/SE-C-IVγ-240_The_Broken_Clocktower_부서진_시계탑.md) | SE-C-IVγ-240 | Weapon | γ | Weight |
 | 221 | Suit | The Frozen Mantle | [The Broken Clocktower](../Sorrow_Entities/SE-C-IVγ-240_The_Broken_Clocktower_부서진_시계탑.md) | SE-C-IVγ-240 | Armor (Suit) | γ | Weight |
 | 222 | Gift | The Frozen Minute | [The Broken Clocktower](../Sorrow_Entities/SE-C-IVγ-240_The_Broken_Clocktower_부서진_시계탑.md) | SE-C-IVγ-240 | Accessory (Gift) | γ | Weight |
@@ -332,9 +332,9 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 292 | Weapon | The Frozen Ruin Lens | [The Frozen Ruin](../Sorrow_Entities/SE-C-IVδ-668_The_Frozen_Ruin_얼어붙은_잔해.md) | SE-C-IVδ-668 | Weapon | δ | Void |
 | 293 | Suit | The Frozen Ruin Veil | [The Frozen Ruin](../Sorrow_Entities/SE-C-IVδ-668_The_Frozen_Ruin_얼어붙은_잔해.md) | SE-C-IVδ-668 | Armor (Suit) | δ | Void |
 | 294 | Gift | The Frozen Ruin Bracelet | [The Frozen Ruin](../Sorrow_Entities/SE-C-IVδ-668_The_Frozen_Ruin_얼어붙은_잔해.md) | SE-C-IVδ-668 | Accessory (Gift) | δ | Void |
-| 295 | Weapon | The Absent Requiem | [The Vanished Flame](../Sorrow_Entities/SE-C-IVδ-763_The_Vanished_Flame_사라진_불꽃.md) | SE-C-IVδ-763 | Weapon | δ | Lament |
-| 296 | Suit | The Absent Shroud | [The Vanished Flame](../Sorrow_Entities/SE-C-IVδ-763_The_Vanished_Flame_사라진_불꽃.md) | SE-C-IVδ-763 | Armor (Suit) | δ | Lament |
-| 297 | Gift | The Absent Flame | [The Vanished Flame](../Sorrow_Entities/SE-C-IVδ-763_The_Vanished_Flame_사라진_불꽃.md) | SE-C-IVδ-763 | Accessory (Gift) | δ | Lament |
+| 295 | Weapon | The Soul-Seeking Candelabrum | [The Vanished Flame](../Sorrow_Entities/SE-C-IVδ-763_The_Vanished_Flame_사라진_불꽃.md) | SE-C-IVδ-763 | Weapon (MAGIC — Homing Flame Candelabrum) | δ | Lament |
+| 296 | Suit | The Extinguished Mourner's Shroud | [The Vanished Flame](../Sorrow_Entities/SE-C-IVδ-763_The_Vanished_Flame_사라진_불꽃.md) | SE-C-IVδ-763 | Armor (Attire) | δ | Lament |
+| 297 | Gift | The Purple Wick Stigma | [The Vanished Flame](../Sorrow_Entities/SE-C-IVδ-763_The_Vanished_Flame_사라진_불꽃.md) | SE-C-IVδ-763 | Accessory (Stigma) | δ | Lament |
 | 298 | Weapon | The Fading Requiem | [The Fading Shadow](../Sorrow_Entities/SE-C-IVδ-767_The_Fading_Shadow_번져가는_그림자.md) | SE-C-IVδ-767 | Weapon | δ | Lament |
 | 299 | Suit | The Fading Veil | [The Fading Shadow](../Sorrow_Entities/SE-C-IVδ-767_The_Fading_Shadow_번져가는_그림자.md) | SE-C-IVδ-767 | Armor (Suit) | δ | Lament |
 | 300 | Gift | The Fading Charm | [The Fading Shadow](../Sorrow_Entities/SE-C-IVδ-767_The_Fading_Shadow_번져가는_그림자.md) | SE-C-IVδ-767 | Accessory (Gift) | δ | Lament |
@@ -554,9 +554,9 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 514 | Weapon | The Bridge Maul | [Survivor's Span](../Sorrow_Entities/SE-N-IIβ-993_The_Collapsed_Bridge_무너진_다리.md) | SE-N-IIβ-993 | Weapon | β | Weight |
 | 515 | Suit | The Bridge Brace | [Survivor's Span](../Sorrow_Entities/SE-N-IIβ-993_The_Collapsed_Bridge_무너진_다리.md) | SE-N-IIβ-993 | Armor (Suit) | β | Weight |
 | 516 | Gift | The Bridge Charm | [Survivor's Span](../Sorrow_Entities/SE-N-IIβ-993_The_Collapsed_Bridge_무너진_다리.md) | SE-N-IIβ-993 | Accessory (Gift) | β | Weight |
-| 517 | Weapon | The Debt Maul | [The Inherited Debt](../Sorrow_Entities/SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) | SE-N-IVβ-019 | Weapon | β | Weight |
-| 518 | Suit | The Debt Mantle | [The Inherited Debt](../Sorrow_Entities/SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) | SE-N-IVβ-019 | Armor (Suit) | β | Weight |
-| 519 | Gift | The Debt Chain | [The Inherited Debt](../Sorrow_Entities/SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) | SE-N-IVβ-019 | Accessory (Gift) | β | Weight |
+| 517 | Weapon | The Ancestral Gravitational Signet | [The Inherited Debt](../Sorrow_Entities/SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) | SE-N-IVβ-019 | Weapon (UNIQUE — Gravity Crush Ring) | β | Weight |
+| 518 | Suit | The Penitent's Shackled Vestments | [The Inherited Debt](../Sorrow_Entities/SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) | SE-N-IVβ-019 | Armor (Attire) | β | Weight |
+| 519 | Gift | The Generational Ledger Scar | [The Inherited Debt](../Sorrow_Entities/SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) | SE-N-IVβ-019 | Accessory (Stigma) | β | Weight |
 | 520 | Weapon | The Embrace Talon | [The Smothering Mother](../Sorrow_Entities/SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md) | SE-N-IVδ-005 | Weapon (PRIMAL — Claw-Gauntlet) | δ | Grudge |
 | 521 | Suit | The Embrace Plate | [The Smothering Mother](../Sorrow_Entities/SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md) | SE-N-IVδ-005 | Armor (Suit) | δ | Grudge |
 | 522 | Gift | The Embrace | [The Smothering Mother](../Sorrow_Entities/SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md) | SE-N-IVδ-005 | Accessory (Gift) | δ | Grudge |
@@ -3168,19 +3168,20 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Hollow Tree ( 빈 나무 ) — SE-C-IVγ-205
 
-**Entry 217 — The Hollow Staff (Weapon)**
+**Entry 217 — The Ravenous Timber-Jaw (Weapon)**
 
-**Type:** Weapon | **Grade:** γ | **Element:** Weight
+**Category:** PRIMAL (Living Jaw-Cleaver / 2m Split Maw-Blade) | **Grade:** γ | **Element:** Weight
+**Damage:** Weight 12–20 | **Speed:** 2 (Slow) | **Range:** 3 (Medium: 2–3m) | **Pattern:** Masticating Cleave / Heavy Chomp
 
-**Ability:** Absorbs Han-energy from the surrounding environment.
+**Ability:** Deals heavy Weight damage at Range 3. A 2-meter solid monolithic cleaver that physically splits open down the middle into a ravenous wooden maw lined with bone teeth, clamping shut upon impact.
 
 **Cost:** 40 Sorrow Echoes
 
 ---
 
-**Entry 218 — The Hollow Mantle (Suit)**
+**Entry 218 — The Hollow Bark-Carapace (Suit)**
 
-**Type:** Armor (Suit) | **Grade:** γ | **Element:** Weight
+**Category:** Protective Attire (Petrified Bark Plates & Hollow Rib-Armor) | **Grade:** γ | **Element:** Weight
 
 **Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Hollow Tree's kind of pressure.
 
@@ -3188,9 +3189,11 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ---
 
-**Entry 219 — The Hollow Charm (Gift)**
+**Entry 219 — The Splintered Gullet (Gift)**
 
-**Type:** Accessory (Gift) | **Grade:** γ | **Element:** Weight
+**Category:** Stigma (Throat Relic Mark) | **Grade:** γ | **Element:** Weight
+
+**Ability:** Hardened wood-splinter teeth ring the bearer's collar, granting resistance against burden suppression.
 
 **Ability:** Grants a minor boon tied to The Hollow Tree's sorrow; the effect mirrors the entity's nature.
 
@@ -4029,19 +4032,20 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Vanished Flame ( 사라진 불꽃 ) — SE-C-IVδ-763
 
-**Entry 295 — The Absent Requiem (Weapon)**
+**Entry 295 — The Soul-Seeking Candelabrum (Weapon)**
 
-**Type:** Weapon | **Grade:** δ | **Element:** Lament
+**Category:** MAGIC / RANGE (Antique Candelabrum / Homing Purple Soul-Flame) | **Grade:** δ | **Element:** Lament
+**Damage:** Lament 14–22 | **Speed:** 3 (Normal) | **Range:** 4 (Long: 4–8m) | **Pattern:** Homing Wisp / Tracking Soul-Burn
 
-**Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Vanished Flame's lament signature in the strike.
+**Ability:** Deals Lament damage across Range 4 (Long). The antique candle's deep-purple flame detaches into tracking wisps that curve around obstacles to strike enemy Soul and Mind.
 
 **Cost:** 50 Sorrow Echoes
 
 ---
 
-**Entry 296 — The Absent Shroud (Suit)**
+**Entry 296 — The Extinguished Mourner's Shroud (Suit)**
 
-**Type:** Armor (Suit) | **Grade:** δ | **Element:** Lament
+**Category:** Protective Attire (Ash-Dusted Silk Veil & Funerary Shroud) | **Grade:** δ | **Element:** Lament
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The Vanished Flame's kind of pressure.
 
@@ -4049,11 +4053,11 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ---
 
-**Entry 297 — The Absent Flame (Gift)**
+**Entry 297 — The Purple Wick Stigma (Gift)**
 
-**Type:** Accessory (Gift) | **Grade:** δ | **Element:** Lament
+**Category:** Stigma (Ocular / Torso Relic Mark) | **Grade:** δ | **Element:** Lament
 
-**Ability:** Reveals hidden grief in a darkened space.
+**Ability:** A burning purple wick ember mark imprinted upon the skin that smolders without consuming flesh, revealing hidden grief in darkened spaces.
 
 **Cost:** The user carries the grief revealed after the light fades.
 
@@ -6477,19 +6481,20 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Inherited Debt ( 물려받은 빚 ) — SE-N-IVβ-019
 
-**Entry 517 — The Debt Maul (Weapon)**
+**Entry 517 — The Ancestral Gravitational Signet (Weapon)**
 
-**Type:** Weapon | **Grade:** β | **Element:** Weight
+**Category:** UNIQUE (Karmic Seal Ring / Cone Gravity Apparatus) | **Grade:** β | **Element:** Weight
+**Damage:** Weight 6–10 | **Speed:** 2 (Slow) | **Range:** 2 (Short: Cone Arc) | **Pattern:** Conical Gravity Wave / Posture Crush
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Inherited Debt's weight signature in the strike.
+**Ability:** Deals Weight damage in a forward cone at Range 2. When the bearer clenches their fist, the ring bends local space into a 120-degree gravity wave that crushes enemy posture.
 
 **Cost:** 25 Sorrow Echoes
 
 ---
 
-**Entry 518 — The Debt Mantle (Suit)**
+**Entry 518 — The Penitent's Shackled Vestments (Suit)**
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
+**Category:** Protective Attire (Heavy Monastic Cassock & Iron Links) | **Grade:** β | **Element:** Weight
 
 **Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Inherited Debt's kind of pressure.
 
@@ -6497,11 +6502,11 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ---
 
-**Entry 519 — The Debt Chain (Gift)**
+**Entry 519 — The Generational Ledger Scar (Gift)**
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Weight
+**Category:** Stigma (Hand / Wrist Tally Scar) | **Grade:** β | **Element:** Weight
 
-**Ability:** Allows the wearer to see the debts and obligations of others.
+**Ability:** Generational tally marks etched into the bearer's skin grant insight into the karmic debts and obligations of others.
 
 **Cost:** The wearer feels the weight of every debt observed.
 

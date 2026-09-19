@@ -1,16 +1,16 @@
-# M.A.W. GIFT — The Hollow Charm
+# M.A.W. GIFT — The Splintered Gullet
 
 > *“It points to the place that waited. It does not tell you whom to put there.”*
 
 ---
 
-**Document ID:** `SE-205-D`  
-**Linked Entity:** `SE-205` — Timber Maw  
-**Item Registry Code:** `MAW-G-205-01`  
-**Entity Designation:** `C-IVγ-205 [WS]`  
-**Author:** Agent Kkotlom Lee, Echo Gardens Patrol  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Document ID:** `SE-205-D`
+**Linked Entity:** `SE-205` — Timber Maw
+**Item Registry Code:** `MAW-G-205-01`
+**Entity Designation:** `C-IVγ-205 [WS]`
+**Author:** Agent Kkotlom Lee, Echo Gardens Patrol
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Classified
 **Codex Set Completion:** `4/4`
 **Status:** Active — bearer-bound to Agent Haneulash Yoon
 
@@ -18,7 +18,7 @@
 
 ## ITEM IDENTITY & BESTOWAL
 
-The Hollow Charm is a thumb-length piece of matte black Han-steel with the grain of old bark. It rests at the crown beneath the bearer’s hair as if suspended from an unseen branch. The piece is far heavier than its size predicts; when it turns, the bearer’s head follows a fraction of a second later.
+The Splintered Gullet is a thumb-length piece of matte black Han-steel with the grain of old bark. It rests at the crown beneath the bearer’s hair as if suspended from an unseen branch. The piece is far heavier than its size predicts; when it turns, the bearer’s head follows a fraction of a second later.
 
 A genuine Charm casts the shadow of a leafless fruit stem. It gives no reflection and makes no sound when struck.
 
@@ -108,11 +108,11 @@ The +2 work bonus is not proof that the Charm protects against grief. It protect
 
 ---
 
-**Document ID:** `SE-205-D`  
-**Linked Entity:** `SE-205`  
-**Item Registry Code:** `MAW-G-205-01`  
-**Author:** Agent Kkotlom Lee, Echo Gardens Patrol  
-**Date:** Year 4,238 — Dawn Initiative  
+**Document ID:** `SE-205-D`
+**Linked Entity:** `SE-205`
+**Item Registry Code:** `MAW-G-205-01`
+**Author:** Agent Kkotlom Lee, Echo Gardens Patrol
+**Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 
 ---

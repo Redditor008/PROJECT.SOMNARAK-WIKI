@@ -1,27 +1,27 @@
-# M.A.W. SUIT — Cracked Flesh's Veil
+# M.A.W. PROTECTIVE ATTIRE — The Suture-Cracked Hauberk
 
-> *“Cracked Flesh's Veil remembers Cracked Flesh; the bearer must not mistake memory for permission.”*
+> *“The Suture-Cracked Hauberk remembers Cracked Flesh; the bearer must not mistake memory for permission.”*
 
 ---
 
-**Document ID:** `SE-921-C`  
-**Linked Entity:** `SE-921` — Cracked Flesh  
-**Source SECC Designation:** `C-IIIγ-921 [GH]`  
-**Item Registry Code:** `MAW-S-921-01`  
-**Author:** Agent Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified  
+**Document ID:** `SE-921-C`
+**Linked Entity:** `SE-921` — Cracked Flesh
+**Source SECC Designation:** `C-IIIγ-921 [GH]`
+**Item Registry Code:** `MAW-S-921-01`
+**Author:** Agent Iseulfros Kim
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Classified
 **Codex Set Completion:** `4/4`
 
 ## IDENTITY & BINDING
 
-**Grade / Element:** γ / Grudge  
+**Grade / Element:** γ / Grudge
 **Canonical ability:** Grants resistance to Grudge damage, protecting against the body register of sorrow.   <!-- SE-921 -->
 **Binding rule:** the bearer names Cracked Flesh's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
-Cracked Flesh's Veil is the suit record of the Cracked Flesh set — γ-grade, Grudge- aligned, resistant to Grudge at 0.3 while running weak to Void at 1.2 and enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Grudge damage, protection against the body register of sorrow that splits along old grievances. Binding names Cracked Flesh's event — Not recorded, the injury legible, the injurer gone — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is somatic: the wearer holds every slight in their body, reflexes stiffening, anger arriving before thought, the suit's protection traced in the same crack pattern it guards against. The source-trace fixed doctrine: the hazard recognizes patience, its grudge pressure settling gradually under sustained presence, and the Veil isolates the hazard only after attribution to Cracked Flesh. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Suture-Cracked Hauberk is the suit record of the Cracked Flesh set — γ-grade, Grudge- aligned, resistant to Grudge at 0.3 while running weak to Void at 1.2 and enduring Weight at 0.8, worn for 20 Sorrow Echoes a deployment — and its canonical ability is elemental shelter: resistance to Grudge damage, protection against the body register of sorrow that splits along old grievances. Binding names Cracked Flesh's event — Not recorded, the injury legible, the injurer gone — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is somatic: the wearer holds every slight in their body, reflexes stiffening, anger arriving before thought, the suit's protection traced in the same crack pattern it guards against. The source-trace fixed doctrine: the hazard recognizes patience, its grudge pressure settling gradually under sustained presence, and the Veil isolates the hazard only after attribution to Cracked Flesh. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -33,7 +33,7 @@ Cracked Flesh's Veil is the suit record of the Cracked Flesh set — γ-grade, G
 
 ## ITEM-SPECIFIC HISTORY — *The Cracked Flesh Source-Trace: Suit Record*
 
-The first Cracked Flesh's Veil field bearer encountered this source response: Recognizes patience; the grudge pressure settles gradually under sustained presence. The suit isolates the immediate hazard only after the team attributed it to Cracked Flesh. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first The Suture-Cracked Hauberk field bearer encountered this source response: Recognizes patience; the grudge pressure settles gradually under sustained presence. The suit isolates the immediate hazard only after the team attributed it to Cracked Flesh. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,20 +42,20 @@ The first Cracked Flesh's Veil field bearer encountered this source response: Re
 - Terminal state: Cracked Flesh's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-921 -->
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Cracked Flesh's Veil only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Cracked Flesh's Veil; shutdown preserves the record but does not refund its cost.
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Suture-Cracked Hauberk only after attribution review.
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Suture-Cracked Hauberk; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
-Within *Cracked Flesh — Witnessed Form*, Cracked Flesh's Veil performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Cracked Flesh — Witnessed Form*, The Suture-Cracked Hauberk performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 
-**Document ID:** `SE-921-C`  
-**Linked Entity:** `SE-921`  
-**Item Registry Code:** `MAW-S-921-01`  
-**Author:** Agent Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
+**Document ID:** `SE-921-C`
+**Linked Entity:** `SE-921`
+**Item Registry Code:** `MAW-S-921-01`
+**Author:** Agent Iseulfros Kim
+**Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 
 ---

@@ -4,12 +4,12 @@
 
 ---
 
-**Document ID:** `SE-921-A`  
-**Related Entity ID:** `SE-921`  
-**Source SECC Designation:** `C-IIIγ-921 [GH]`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified  
+**Document ID:** `SE-921-A`
+**Related Entity ID:** `SE-921`
+**Source SECC Designation:** `C-IIIγ-921 [GH]`
+**Author:** Researcher Euncris Park
+**Date:** Year 4,238 — Dawn Initiative
+**Classification:** Classified
 **Codex Set Completion:** `4/4`
 
 ## SUBJECT
@@ -35,7 +35,7 @@ Not recorded Not recorded
 | Viderehan | Permits study; the body pressure becomes legible under sustained observation. (Decrease) |
 | Ferrehan | Recognizes patience; the grudge pressure settles gradually under sustained presence. (Decrease) |
 
-**Trigger:** Gauge escalation or violation of the recorded resolution condition.  
+**Trigger:** Gauge escalation or violation of the recorded resolution condition.
 **Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-921 -->
 
 ## WITNESS RECORD — *The Cracked Flesh Source-Trace*
@@ -46,9 +46,9 @@ During the The Cracked Flesh Source-Trace, the field team preserved this source 
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| Cracked Flesh's Edge | γ Grudge 14–19; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-921-B__MAW-W_Cracked_Flesh_s_Edge.md` |
-| Cracked Flesh's Veil | γ; L/G/V/W 1 (Normal)/0.3 (Resistant)/1.2 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-921-C__MAW-S_Cracked_Flesh_s_Veil.md` |
-| Cracked Flesh's Token | γ; Head; 5%; +1 stat bonus when working the source entity. | `SE-921-D__MAW-G_Cracked_Flesh_s_Token.md` |
+| The Awakened Marrow-Spike & Tendril | γ Grudge 14–19; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-921-B__MAW-W_Cracked_Flesh_s_Edge.md` |
+| The Suture-Cracked Hauberk | γ; L/G/V/W 1 (Normal)/0.3 (Resistant)/1.2 (Weak)/0.8 (Endured); max 4; 20 Sorrow Echoes | `SE-921-C__MAW-S_Cracked_Flesh_s_Veil.md` |
+| The Fissured Skin Stigma | γ; Head; 5%; +1 stat bonus when working the source entity. | `SE-921-D__MAW-G_Cracked_Flesh_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
@@ -56,10 +56,10 @@ The Gift identifies Cracked Flesh's source condition, the Suit lets a witness be
 
 ---
 
-**Document ID:** `SE-921-A`  
-**Linked Entity:** `SE-921`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
+**Document ID:** `SE-921-A`
+**Linked Entity:** `SE-921`
+**Author:** Researcher Euncris Park
+**Date:** Year 4,238 — Dawn Initiative
 **Classification:** Classified
 
 ---

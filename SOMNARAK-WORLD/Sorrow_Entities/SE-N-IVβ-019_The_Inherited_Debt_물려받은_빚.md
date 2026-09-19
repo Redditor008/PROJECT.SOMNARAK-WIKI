@@ -176,11 +176,18 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Debt Maul
+### M.A.W. Weapon — The Ancestral Gravitational Signet
 
-**Type:** Weapon | **Grade:** β | **Element:** Weight
+**Category:** UNIQUE (Karmic Seal Ring / Cone Gravity Apparatus)
+**Grade:** β | **Element:** Weight
+**Damage:** Weight 6–10
+**Speed:** 2 (Slow)
+**Range:** 2 (Short: Cone Arc)
+**Pattern:** Conical Gravity Wave / Posture Crush
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
+**Appearance:** An ornate, dense iron-stone signet ring worn directly on the Agent's index finger, engraved with ancient, worn debtor seals. When the bearer clenches their fist, the ring bends local space into a 120-degree forward cone of crushing gravitational force that slams targets into the floor under the unbearable weight of generational debt.
+
+**Ability:** *Generational Crush* — Releases a short-range cone of downward gravitational force at Range 2. Crushes physical stances and pins targets to the floor, inflicting heavy posture break.
 
 **Damage:** Weight 5–9
 **Speed:** 2 (Normal)
@@ -197,9 +204,10 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
 
-### M.A.W. Suit — The Debt Mantle
+### M.A.W. Suit — The Penitent's Shackled Vestments
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
+**Category:** Protective Attire (Heavy Monastic Cassock & Iron Links)
+**Grade:** β | **Element:** Weight
 
 **Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
 
@@ -215,9 +223,10 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 **Cost:** The wearer carries a constant low fatigue.
 
-### M.A.W. Gift — The Debt Chain
+### M.A.W. Gift — The Generational Ledger Scar
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Weight
+**Category:** Stigma (Hand / Wrist Tally Scar)
+**Grade:** β | **Element:** Weight
 
 **Appearance:** a chain of black Han-steel, matte and unnaturally heavy, that catches the light oddly.
 
