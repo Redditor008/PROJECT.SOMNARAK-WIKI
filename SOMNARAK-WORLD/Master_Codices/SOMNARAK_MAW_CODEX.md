@@ -512,7 +512,7 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 | 472 | Weapon | The Voice Lens | [The Silent Scream](../Sorrow_Entities/SE-N-IIβ-170_The_Silent_Scream_침묵의_비명.md) | SE-N-IIβ-170 | Weapon | β | Void |
 | 473 | Suit | The Voice Veil | [The Silent Scream](../Sorrow_Entities/SE-N-IIβ-170_The_Silent_Scream_침묵의_비명.md) | SE-N-IIβ-170 | Armor (Suit) | β | Void |
 | 474 | Gift | The Voice Amplifier | [The Silent Scream](../Sorrow_Entities/SE-N-IIβ-170_The_Silent_Scream_침묵의_비명.md) | SE-N-IIβ-170 | Accessory (Gift) | β | Void |
-| 475 | Weapon | The Debt Maul | [The Debt Collector's Lantern](../Sorrow_Entities/SE-N-IIβ-250_The_Debt_Collector's_Lantern_추징관의_등불.md) | SE-N-IIβ-250 | Weapon | β | Weight |
+| 475 | Weapon | The Collector's Vigil-Lantern | [The Debt Collector's Lantern](../Sorrow_Entities/SE-N-IIβ-250_The_Debt_Collector's_Lantern_추징관의_등불.md) | SE-N-IIβ-250 | Weapon (RANGE — Optical Beam Lantern) | β | Weight |
 | 476 | Suit | The Debt Mantle | [The Debt Collector's Lantern](../Sorrow_Entities/SE-N-IIβ-250_The_Debt_Collector's_Lantern_추징관의_등불.md) | SE-N-IIβ-250 | Armor (Suit) | β | Weight |
 | 477 | Gift | The Debt Lantern | [The Debt Collector's Lantern](../Sorrow_Entities/SE-N-IIβ-250_The_Debt_Collector's_Lantern_추징관의_등불.md) | SE-N-IIβ-250 | Accessory (Gift) | β | Weight |
 | 478 | Weapon | The Rusted Whisper's Maul | [The Rusted Whisper](../Sorrow_Entities/SE-N-IIβ-270_The_Rusted_Whisper_녹슨_속삭임.md) | SE-N-IIβ-270 | Weapon | β | Weight |
@@ -6010,29 +6010,32 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 
 ### The Debt Collector's Lantern ( 추징관의 등불 ) — SE-N-IIβ-250
 
-**Entry 475 — The Debt Maul (Weapon)**
+**Entry 475 — The Collector's Vigil-Lantern (Weapon)**
 
-**Type:** Weapon | **Grade:** β | **Element:** Weight
+**Category:** RANGE (Optical Projection / Directional Lantern Beam) | **Grade:** β | **Element:** Weight
+**Damage:** Weight 6–10 | **Speed:** 3 (Normal) | **Range:** 4 (Long — 4–8m) | **Pattern:** Focused Ray / Directional Scrutiny
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Debt Collector's Lantern's weight signature in the strike.
+**Ability:** Deals Weight damage at distance, attacking the Han (sorrow reserves, karmic debt). Ledger's Illumination projects a focused beam of heavy light across Range 4 (4–8m), exposing hidden karmic burdens and halving target movement speed.
 
 **Cost:** 25 Sorrow Echoes
 
 ---
 
-**Entry 476 — The Debt Mantle (Suit)**
+**Entry 476 — The Collector's Oilskin Trench-Coat (Suit)**
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
+**Category:** Protective Attire (Heavy Oilskin Coat & Lead-Weighted Stole) | **Grade:** β | **Element:** Weight
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Debt Collector's Lantern's kind of pressure.
+**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Anchors the bearer's Han against karmic crushing and environmental burden fields.
 
 **Cost:** 20 Sorrow Echoes
 
 ---
 
-**Entry 477 — The Debt Lantern (Gift)**
+**Entry 477 — Pale Wick Stigma (Gift)**
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Weight
+**Category:** Stigma (Ocular Relic Mark) | **Grade:** β | **Element:** Weight
+
+**Ability:** The bearer's pupil glows with a heatless ember in darkness, revealing debts hidden from ordinary records and increasing Resolve against Weight pressure.
 
 **Ability:** Reveals debts hidden from ordinary records.
 

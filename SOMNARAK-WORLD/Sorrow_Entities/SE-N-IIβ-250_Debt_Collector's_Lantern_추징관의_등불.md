@@ -204,27 +204,29 @@ The escalation pattern is specific to Debt Collector's Lantern: it is not a gene
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Debt Maul
+### M.A.W. Weapon — The Collector's Vigil-Lantern
 
-**Type:** Weapon | **Grade:** β | **Element:** Weight
-
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
-
-**Damage:** Weight 5-9
-**Speed:** 2 (Normal)
-**Range:** 2 (Short)
+**Category:** RANGE (Optical Projection / Directional Lantern Beam)
+**Grade:** β | **Element:** Weight
+**Damage:** Weight 6–10
+**Speed:** 3 (Normal)
+**Range:** 4 (Long — 4–8m)
+**Pattern:** Focused Ray / Directional Scrutiny
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Debt Collector's Lantern's weight signature in the strike.
+**Appearance:** An octagonal hand-lantern forged from tarnished brass and lead plates, encasing frosted quartz lenses held by blackened copper rivets. Suspended from a counterbalanced brass chain and fitted with an adjustable aperture ring, it burns not with combustion, but with a floating ember of pale, cold ash-light. When raised, it projects a focused beam of pale white-gold sorrow light across distance. Targets caught in the beam feel invisible ledgers pressing against their chest, and their footfalls ring like falling lead coins against wet stone.
 
-**Cost:** The wielder feels progressively heavier; prolonged use ages them slightly.
+**Ability:** *Ledger's Illumination* — Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Projects a focused beam of heavy light across Range 4 (4–8m), exposing hidden karmic burdens and halving target movement speed as the weight of their debt anchors their feet to the ground.
 
-### M.A.W. Suit — The Debt Mantle
+**Cost:** The wielder feels progressively heavier; prolonged use causes their shadow to lag slightly behind their body.
 
-**Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
+### M.A.W. Suit — The Collector's Oilskin Trench-Coat
 
-**Appearance:** a draped mantle of black Han-weave, matte and unnaturally heavy, that tightens near its source element.
+**Category:** Protective Attire (Heavy Oilskin Coat & Lead-Weighted Stole)
+**Grade:** β | **Element:** Weight
+
+**Appearance:** A stiff, ankle-length oilskin trench-coat in faded midnight black, lined with lead-weighted hem plates and stamped with faint, bureaucratic tax seals. The collar is high and reinforced with brass wire, shielding the wearer from ambient sorrow fallout.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -234,19 +236,20 @@ The escalation pattern is specific to Debt Collector's Lantern: it is not a gene
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Debt Collector's Lantern's kind of pressure.
+**Ability:** Grants strong resistance to Weight damage, anchoring the bearer's Han against karmic crushing and environmental burden fields.
 
-**Cost:** The wearer carries a constant low fatigue.
+**Cost:** The wearer carries a constant low fatigue and cannot run lightly.
 
-### M.A.W. Gift — The Debt Lantern
+### M.A.W. Gift — Pale Wick Stigma
 
-**Type:** Accessory (Gift) | **Grade:** β | **Element:** Weight
+**Category:** Stigma (Ocular Relic Mark)
+**Grade:** β | **Element:** Weight
 
-**Appearance:** a tiny lantern of black Han-steel, matte and unnaturally heavy, carrying a faint weight that does not match its size.
+**Appearance:** The bearer's right pupil takes on the appearance of a smoldering, heatless lantern wick that glows with a faint white ember in darkness, faintly outlining the karmic debts of nearby entities.
 
-**Slot:** Head
+**Slot:** Eye / Face
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity
+**Effect:** Grants detection of hidden karmic hazards in dark zones and increases Resolve against Weight pressure.
 
 **Ability:** Reveals debts hidden from ordinary records.
 

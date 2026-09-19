@@ -421,7 +421,7 @@ Batches 18–23 additions (2026-09-06, full completion — 72 weapons, W-912–1
 | MAW-W-1021 — | Hourglass |  |
 | MAW-W-1022 — | Shard |  |
 | MAW-W-1023 — | Rust |  |
-| MAW-W-1024 — | Dawn |  |
+| MAW-W-1024 The Collector's Vigil-Lantern | RANGE (Optical Beam Lantern) | Long |
 | MAW-W-1025 — | Timer |  |
 | MAW-W-1026 — | Bell |  |
 | MAW-W-1027 — | Book |  |
