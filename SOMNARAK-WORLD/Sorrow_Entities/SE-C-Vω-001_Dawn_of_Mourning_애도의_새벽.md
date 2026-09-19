@@ -178,11 +178,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift. This entity's set is theorized from its classification; verify before manufacture.
 
-### M.A.W. Weapon — The Dawn of Requiem
+### M.A.W. Weapon — The First Dawn Stiletto
 
 **Type:** Weapon | **Grade:** ω | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that hums faintly when gripped.
+Appearance : A delicate eight-inch thrusting stiletto forged from gold-tinted celestial alloy, tapering into a needle point with microscopic diamond serrations along its dual cutting edges.
+
+The weapon absorbs darkness, emitting a faint warm luminescence that glimmers like early twilight. Piercing strikes discharge concentrated radiant pulses that temporarily blind adjacent hostiles and sear shadow-tainted matter.
 
 **Damage:** Lament 13-20
 **Speed:** 4 (Very Fast)

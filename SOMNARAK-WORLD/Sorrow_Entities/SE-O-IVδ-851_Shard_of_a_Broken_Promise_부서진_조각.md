@@ -204,11 +204,13 @@ The escalation pattern is specific to Shard of a Broken Promise: it is not a gen
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Promise Requiem
+### M.A.W. Weapon — The Covenant Arbalest
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+Appearance : A repeating crossbow incorporating a top-mounted wooden magazine holding eight bone bolts, powered by recurved steel prod arms and operated by a smooth under-lever mechanism.
+
+Cycling the lever draws the bowstring and drops a fresh bolt into the firing channel in under one second. The weapon fires high-velocity quarrels that pin targets to walls with terrifying rapidity.
 
 **Damage:** Lament 10–15
 **Speed:** 3 (Fast)

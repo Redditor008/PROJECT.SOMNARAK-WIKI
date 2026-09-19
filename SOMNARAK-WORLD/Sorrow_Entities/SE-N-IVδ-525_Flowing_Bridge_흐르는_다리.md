@@ -172,11 +172,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Flowing Bridge Fang
+### M.A.W. Weapon — The River-Bridge Shrine
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that hums faintly when gripped.
+Appearance : A miniature carved stone shrine forty centimeters tall, fitted with miniature shingle roofing and an open recess holding an ancient river stone over which water constantly trickles.
+
+The clear water trickling within the shrine never overflows its drainage trough. Placing an Agent's hand inside washes away psychological terror and restores clarity under extreme duress.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)

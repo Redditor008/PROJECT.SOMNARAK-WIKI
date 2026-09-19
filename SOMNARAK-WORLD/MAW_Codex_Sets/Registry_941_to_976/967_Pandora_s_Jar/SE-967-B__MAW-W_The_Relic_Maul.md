@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Relic Maul
+# M.A.W. WEAPON — The Pandora War-Cleaver
 
 > *“The Relic Maul remembers Pandora's Jar; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Relic Maul is the weapon record of the Pandora's Jar set — δ-grade, Weight- aligned, striking at 10–15 Weight at fast speed and medium range in a pierce pattern, two uses at 50 Sorrow Echoes each — and its canonical ability deals Weight damage against the Han, sorrow reserves and karmic debt, channeling the Jar's weight signature. Binding names the source event — a treasured artifact disappeared during a Desolate expedition, and the records of it were later removed — and accepts the set's limit: bear the heat and name what was lost. The cost accumulates: the wielder feels progressively heavier, and prolonged use ages them slightly. The source-trace fixed doctrine: pressed, the self-aware Jar burns with retaliatory fury, loss answering loss in kind, and the Maul opens the hazard only after attribution to Pandora's Jar. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : A colossal four-foot war cleaver forged from dark bell-bronze, bound along the spine with soldered bronze bands and lead seals that keep the split halves of the blade clamped shut.
+
+Deep impact notches along the cutting bevel reveal simmering orange embers within the core. Striking hard armor strains the lead seals, venting bursts of pressurized retaliatory heat.
 
 ## CORE STATISTICS
 

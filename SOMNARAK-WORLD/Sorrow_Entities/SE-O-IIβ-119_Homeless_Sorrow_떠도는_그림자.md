@@ -198,11 +198,13 @@ The escalation pattern is specific to Homeless Sorrow: it is not a generic breac
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Shadow Lens
+### M.A.W. Weapon — The Shadow-Cast Kukri
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+Appearance : A heavy eleven-inch combat kukri with an inward-curving belly and sharp cho notch, forged from carbon steel treated with matte black oxide, fitted with a grooved horn grip.
+
+The blade's heavy forward balance generates tremendous chopping velocity in close melee. Curiously, the weapon casts no shadow on floors or walls even under intense overhead spotlights.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)

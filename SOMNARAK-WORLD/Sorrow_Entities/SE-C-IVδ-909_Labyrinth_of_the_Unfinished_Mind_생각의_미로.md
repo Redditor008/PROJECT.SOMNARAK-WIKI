@@ -164,11 +164,13 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
 
-### M.A.W. Weapon — Labyrinth of the Unfinished Mind's Edge
+### M.A.W. Weapon — The Echoing Zweihander
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-**Appearance:** a single-edged blade of pale Han-glass, near-translucent and almost colourless, that glows along its edge when readied.
+Appearance : A massive five-foot hexagonal sceptre carved from solid black volcanic basalt, weighing forty pounds and capped with a geometric monolith block engraved with deep warding runes.
+
+Requiring tremendous physical strength to wield, the sceptre serves equally as a crushing maul and ritual staff. Planting the butt into earth induces localized seismic ripples that stagger opponents.
 
 **Damage:** Void 11–16 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels void mind sorrow in each strike — the weapon does not cut flesh so much as cut at the mind register of the target's grief.
@@ -178,10 +180,10 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a flowing veil of pale Han-gossamer, near-translucent and almost colourless, that shifts and breathes with the wearer.
+Appearance : A massive six-foot two-handed greatsword with a four-foot blade, broad side parrying rings, and long drooping quillons that ring like tuned orchestral chimes when the sword is swung.
 
-**Resistances:** Void: 0.3 (Resistant) | Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Endured)
-**Max Amount:** 4 **Cost:** 20 Sorrow Echoes
+The blade's immense reach and momentum dominate wide hallways, holding multiple foes at bay. The chime quillons resonate in harmony with the swing, releasing acoustic ripples that disorient opponents.
+
 **Ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.
 
 ### M.A.W. Gift — Labyrinth of the Unfinished Mind's Token

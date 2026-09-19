@@ -204,11 +204,13 @@ The escalation pattern is specific to Frozen Mirror: it is not a generic breach 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Frozen Fang
+### M.A.W. Weapon — The Ice-Shard Stiletto
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that flickers with inner light.
+Appearance : An eight-inch thrusting dagger crafted entirely from optically clear glacial ice, fitted with an integral crossguard and a hilt wrapped in fine sealskin cordage.
+
+The ice is chemically stabilized by Han residue, making it as rigid as hardened titanium. Puncturing strikes melt slightly inside warm flesh, sealing wounds in frozen vascular blockages.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)

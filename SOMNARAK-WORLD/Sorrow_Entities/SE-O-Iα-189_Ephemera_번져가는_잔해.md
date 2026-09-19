@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Fading Requiem
+### M.A.W. Weapon — The Dusk-Memory Censer
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
+Appearance : A squat, pierced pewter censer forty centimeters in circumference, fitted with an ornate domed lid and filled with sterile cemetery soil collected from forgotten municipal mass graves.
+
+Heating the soil with internal charcoal embers releases a cool, earth-scented mist that brings quiet peace to agitated sorrow entities, dampening their aggressive fury across fifteen paces.
 
 **Damage:** Lament 3–6
 **Speed:** 2 (Normal)

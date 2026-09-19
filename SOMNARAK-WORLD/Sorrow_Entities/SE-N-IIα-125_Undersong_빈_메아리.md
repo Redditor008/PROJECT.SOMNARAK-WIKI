@@ -168,11 +168,13 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Echo Lens
+### M.A.W. Weapon — The Reverberant Spear
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that hums faintly when gripped.
+Appearance : A six-foot thrusting spear cast from bell-metal bronze, featuring a hollow fluted blade with lateral acoustic slots and an ash shaft wrapped in damp cordage.
+
+Moving the spear through the air produces whistling harmonic frequencies that disorient hostile hearing. Thrusting into solid obstacles releases an ear-piercing sonic crack that destabilizes balance.
 
 **Damage:** Void 3–6
 **Speed:** 2 (Normal)

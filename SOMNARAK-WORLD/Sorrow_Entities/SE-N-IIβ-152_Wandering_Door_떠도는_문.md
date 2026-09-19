@@ -168,11 +168,13 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Wandering Requiem
+### M.A.W. Weapon — The Wayfarer's Censer
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
+Appearance : A spherical brass incense burner pierced with hundreds of star-shaped ventilation holes, suspended from three slender steel chains with a counterweight pinecone finial.
+
+Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines. The censer produces a continuous trail of heavy, aromatic smoke that neutralizes atmospheric toxicity across eight paces.
 
 **Damage:** Lament 5-9
 **Speed:** 2 (Normal)

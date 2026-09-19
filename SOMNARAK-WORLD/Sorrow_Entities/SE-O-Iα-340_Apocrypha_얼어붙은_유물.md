@@ -180,11 +180,13 @@ The escalation pattern is specific to Apocrypha: it is not a generic breach even
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Apocrypha Lens
+### M.A.W. Weapon — The Cryo-Relic Lance
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that weeps a thin film of Han when swung.
+Appearance : An eight-foot ceremonial lance carved from pale mammoth ivory, tipped with a triangular spearhead of prehistoric glacier ice that remains permanently frozen in ambient temperatures.
+
+The lance point radiates an intense aura of sub-zero cold that freezes moisture on contact. Thrusting into targets causes immediate frostbite and shatters brittle chitin plates.
 
 **Damage:** Void 3–6
 **Speed:** 2 (Normal)

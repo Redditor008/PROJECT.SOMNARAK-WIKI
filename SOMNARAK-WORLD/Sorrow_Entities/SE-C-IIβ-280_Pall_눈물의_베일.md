@@ -204,9 +204,9 @@ The escalation pattern is specific to Pall: it is not a generic breach event. Pe
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Weeping Veil-Pavise & Tear Javelin
+### M.A.W. Weapon — The Surgeon's Cleaver
 
-**Category:** MIXED / UNIQUE (Flowing Silk Pavise Shield & Barbed Javelin)
+**Category:** BLADES (Mirror-Polished Square Cleaver)
 **Grade:** β | **Element:** Lament
 **Damage:** Lament 6–10
 **Speed:** 2 (Slow)
@@ -219,7 +219,9 @@ The escalation pattern is specific to Pall: it is not a generic breach event. Pe
 **Falloff Rule:** 100% impact damage at close contact; 80% javelin pierce at medium range.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Appearance:** A wide, flowing tower shield constructed from layered weeping funeral silks stretched across bone ribs, housing a detachable barbed silver javelin along its central spine. Bearer can raise the shield to absorb ranged strikes or throw the javelin across medium range.
+Appearance : A needle-pointed triangular stiletto forged from cold, unpolished surgical steel, measuring twenty-two centimeters with a dark bronze teardrop pommel and braided mourning-thread grip.
+
+The three-edged blade is etched with micro-capillary fullers that siphon condensing Lament beads toward the guard. When readied, the weapon emits a faint, sorrowful hum while tiny frost-rings form along the edges.
 
 **Ability:** *Veil Bastion* — Absorbs incoming projectile damage and can launch the barbed javelin to impale and root targets for 1 turn.
 
@@ -227,17 +229,13 @@ The escalation pattern is specific to Pall: it is not a generic breach event. Pe
 
 ### M.A.W. Suit — The Pallbearer's Layered Shroud
 
-**Category:** Protective Attire (Heavy Black Funeral Pall & Weeping Veil)
+**Category:** BLADES (Mirror-Polished Square Cleaver)
 **Grade:** β | **Element:** Lament
 
-**Appearance:** A voluminous black funeral pall composed of five tiers of translucent grieving lace, weeping tears of condensed Han along its trailing hem.
+Appearance : A broad rectangular surgical cleaver made from rustless hospital-grade steel, boasting a razor-honed flat cutting edge, rounded spine, and an ebony scales handle secured by brass rivets.
 
-**Resistances:**
-- Lament: 0.4 (Resistant)
-- Grudge: 1 (Normal)
-- Void: 1.6 (Weak)
-- Weight: 0.8 (Endured)
-**Max Amount:** 4
+The mirror-polished blade reflects no ambient distortion, remaining clinically sterile even after multiple strikes. It severs dense fibrous tissue and cartilage with effortless precision.
+
 **Cost:** 20 Sorrow Echoes
 
 **Ability:** High absorption against Lament and psychological stress, dissipating impact through layered cloth.
@@ -246,7 +244,7 @@ The escalation pattern is specific to Pall: it is not a generic breach event. Pe
 
 ### M.A.W. Gift — The Weeping Veil Clip
 
-**Category:** Stigma (Hair / Head Veil Clip)
+**Category:** BLADES (Mirror-Polished Square Cleaver)
 **Grade:** β | **Element:** Lament
 
 **Appearance:** An ornate hair clip shaped like a mourning ribbon set with a single faceted weeping sapphire.

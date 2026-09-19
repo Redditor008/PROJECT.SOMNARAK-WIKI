@@ -168,11 +168,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Redacted Lens
+### M.A.W. Weapon — The Arboretum Lance
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
+Appearance : A nine-foot jousting lance grown from hardened petrified ash, tapering smoothly to an iron-capped thorn head and protected by a broad circular hand-guard carved with intertwined leaf veins.
+
+The lance's grain is dense and completely knot-free, polished with botanical lacquer. Thrusting impacts generate concussive forward shockwaves that splinter wooden defenses and pin heavy opponents.
 
 **Damage:** Void 7–12
 **Speed:** 3 (Fast)

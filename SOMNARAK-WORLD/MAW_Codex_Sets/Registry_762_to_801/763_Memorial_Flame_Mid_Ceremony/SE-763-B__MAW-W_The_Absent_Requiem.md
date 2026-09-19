@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Soul-Seeking Candelabrum
+# M.A.W. WEAPON — The Candelabrum Bodkin
 
 > *“The Soul-Seeking Candelabrum remembers Memorial Flame Mid-Ceremony; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Soul-Seeking Candelabrum is the weapon record of Memorial Flame Mid-Ceremony’s set, a Lament instrument attacking the Mind by channeling the extinguished memorial’s lament signature into the strike. Binding is testimonial: the bearer names the source event — a memorial flame was extinguished during an Alpha Tree evacuation, and the scattered mourners never completed the ceremony — and accepts the set’s limit: complete the memorial without attempting to recreate the original flame. The operational cost is the Lament standard: the wielder feels the entity’s unwept grief, prolonged use causes involuntary weeping, and continued use makes the source sorrow feel autobiographical — the interrupted ceremony misfiling itself as the wielder’s duty. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan at all — the weapon opens the immediate hazard only after the team attributes it to the source, and treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the source response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+Appearance : A narrow thrusting bodkin fashioned from an antique branched brass candelabrum, featuring an eight-inch spike, tarnished leaf filigree, and a hollow socket holding unburnt purple wax.
+
+A constant thread of pale violet smoke coils around the point without heat or ignition. Upon target acquisition, the bodkin's tip flares with cold flame that marks the target's shadow across twenty paces.
 
 ## CORE STATISTICS
 

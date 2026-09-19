@@ -168,11 +168,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Dormant Monolith Lens
+### M.A.W. Weapon — The Echoing Zweihander
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that glows along its edge when readied.
+Appearance : A massive five-foot hexagonal sceptre carved from solid black volcanic basalt, weighing forty pounds and capped with a geometric monolith block engraved with deep warding runes.
+
+Requiring tremendous physical strength to wield, the sceptre serves equally as a crushing maul and ritual staff. Planting the butt into earth induces localized seismic ripples that stagger opponents.
 
 **Damage:** Void 10-15
 **Speed:** 3 (Fast)
@@ -188,14 +190,10 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a shield-backed harness of pale Han-glass, near-translucent and almost colourless, that carries a faint scent of its origin.
+Appearance : A massive six-foot two-handed greatsword with a four-foot blade, broad side parrying rings, and long drooping quillons that ring like tuned orchestral chimes when the sword is swung.
 
-**Resistances:**
-- Grudge: 0.8 (Endured)
-- Lament: 1.2 (Weak)
-- Weight: 1.1 (Weak)
-- Void: 0.3 (Resistant)
-**Max Amount:** 2
+The blade's immense reach and momentum dominate wide hallways, holding multiple foes at bay. The chime quillons resonate in harmony with the swing, releasing acoustic ripples that disorient opponents.
+
 **Cost:** 45 Sorrow Echoes
 
 **Ability:** Slows time perception and stabilizes the wearer.

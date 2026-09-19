@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Empty Lens
+### M.A.W. Weapon — The Void Shuttle-Awl
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
+Appearance : A smooth, seven-inch weaving shuttle carved from jet-black volcanic obsidian, tapering to a needle-sharp puncture tip with an eyelet hole threaded with translucent silver suture line.
+
+The obsidian body is polished to a glassy mirror finish without tool marks. Piercing strikes leave clean, bloodless incisions that temporarily bind the target's physical movement in taut spiritual threads.
 
 **Damage:** Void 7-12
 **Speed:** 3 (Fast)

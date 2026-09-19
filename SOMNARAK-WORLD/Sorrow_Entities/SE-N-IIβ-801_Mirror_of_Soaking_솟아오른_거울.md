@@ -204,11 +204,13 @@ The escalation pattern is specific to Mirror of Soaking: it is not a generic bre
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Rage Fang
+### M.A.W. Weapon — The Grudge Brazier
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that hums faintly when gripped.
+Appearance : A three-legged cast-iron fire basin forty centimeters wide, fitted with a domed spark arrester and two forged chain handles, carrying smoldering anthracite coals that never turn to ash.
+
+The coals glow with intense crimson heat, releasing thick black smoke that stings the eyes. Swinging the brazier by its chains showers combatants in burning embers that sear physical flesh.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)

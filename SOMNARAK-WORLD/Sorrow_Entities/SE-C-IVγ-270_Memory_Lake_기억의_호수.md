@@ -180,11 +180,13 @@ The escalation pattern is specific to Memory Lake: it is not a generic breach ev
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Lake Requiem
+### M.A.W. Weapon — The Rusted Boundary-Rod
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
+Appearance : A solid five-foot surveyor's staff forged from hexagonal iron bar, capped with a heavy square bronze head wrapped in oxidised copper wire and marked with distance notches.
+
+Planted firmly into the ground, the rod discharges low-voltage galvanic pulses that delineate a perimeter zone. Entities crossing the established boundary experience muscular numbness.
 
 **Damage:** Lament 7-12
 **Speed:** 3 (Fast)

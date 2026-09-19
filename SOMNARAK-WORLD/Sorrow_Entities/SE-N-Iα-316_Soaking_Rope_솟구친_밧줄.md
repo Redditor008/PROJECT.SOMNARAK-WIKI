@@ -168,11 +168,13 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Empty Fang
+### M.A.W. Weapon — The Penitent Gallows-Beam
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+Appearance : A four-foot heavy crossbeam salvaged from historic municipal gallows, constructed from weathered heartwood oak, bound in pitted iron straps, and trailing a three-foot severed hemp noose.
+
+Carried across the shoulders like a penitent yoke, the beam radiates suffocating moral guilt. Sweeping it in a wide two-handed arc delivers devastating crushing impact that subdues violent entities.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)

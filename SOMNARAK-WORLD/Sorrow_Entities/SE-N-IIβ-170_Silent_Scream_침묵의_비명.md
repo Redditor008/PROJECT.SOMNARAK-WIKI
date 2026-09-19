@@ -168,11 +168,13 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Voice Lens
+### M.A.W. Weapon — The Resonant Echo-Orrery
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that weeps a thin film of Han when swung.
+Appearance : A hovering mechanical assembly of five polished brass planetary globes mounted on curved wire arms, revolving in silence around a central quartz crystal sphere.
+
+Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat. Aligning all five planets unleashes a focused harmonic cone that shatters crystalline structures.
 
 **Damage:** Void 5-9
 **Speed:** 2 (Normal)

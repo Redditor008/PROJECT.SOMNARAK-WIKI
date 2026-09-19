@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — Redacted Lens
+# M.A.W. WEAPON — The Arboretum Lance
 
 > *“It can stop absence from spreading. It cannot invent the person the absence once held.”*
 
@@ -28,7 +28,9 @@ Formed from a pale leaf echo dropped after a worker recorded an absence without 
 
 ## Appearance
 
-The Redacted Lens is a weapon built around a disc of pale Void glass set in a slender white sighting-frame shaped like a hand-cannon, gripped like a pistol with the lens mounted where a muzzle would be — though it fires nothing but sight. At rest the glass is fogged and shows nothing; it opens — clears to a hard, readable transparency — only after the bearer states aloud what is known, what is unknown, and what is merely inferred, as three separate declarations. Through the cleared glass an erasure field becomes visible as a pale outline, and a Void Pierce along the sightline separates a target from active erasure pressure. At full activation, under Archive witness, the Lens stabilizes an absence so fragments can be preserved without fabricating a restoration; it cannot identify the erased person, restore a deleted life, or prove a desired explanation. Each use takes a small nameless memory from the bearer, and custody review follows every draw. The glass reflects a complete face when the bearer wants certainty too badly, and an opaque Lens is sealed. The witness covers the glass and names the blank during shutdown; breaking it scatters false history fragments.
+Appearance : A nine-foot jousting lance grown from hardened petrified ash, tapering smoothly to an iron-capped thorn head and protected by a broad circular hand-guard carved with intertwined leaf veins.
+
+The lance's grain is dense and completely knot-free, polished with botanical lacquer. Thrusting impacts generate concussive forward shockwaves that splinter wooden defenses and pin heavy opponents.
 
 ## CORE STATISTICS
 

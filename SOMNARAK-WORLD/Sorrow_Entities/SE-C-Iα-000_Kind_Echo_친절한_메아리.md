@@ -177,7 +177,7 @@ Kind Echo is the R.D.'s training standard — the entity every new agent works w
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift. The Standard Training M.A.W. set is issued to all new R.D. personnel.
 
-### M.A.W. Weapon — Standard Training Baton
+### M.A.W. Weapon — Pneumatic Training Carbine
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
@@ -186,7 +186,9 @@ Kind Echo is the R.D.'s training standard — the entity every new agent works w
 **Range:** 2 (Short)
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
-**Appearance:** A simple, warm-to-the-touch baton of pale blue Han-crystal. Standard issue.
+Appearance : A standardized pneumatic training carbine constructed from reinforced composite alloy and dull steel, featuring a side-mounted compressed air canister, fixed iron sights, and a weighted polymer stock.
+
+The weapon fires non-lethal compressed sorrow-pellets through an eight-groove rifled barrel. Its side gauge displays pressure levels calibrated in Sorrow Echo bars with an automatic safety release near the trigger.
 
 **Ability:** Deals Lament damage. The baton is intentionally weak — it is a training tool, not a combat weapon. Its purpose is to teach new agents how M.A.W. weapons feel in the hand.
 **Cost:** None meaningful. The baton is inert enough for extended carry without toll.

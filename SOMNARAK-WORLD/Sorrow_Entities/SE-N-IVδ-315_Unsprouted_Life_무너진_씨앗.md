@@ -222,11 +222,13 @@ The escalation pattern is specific to Unsprouted Life: it is not a generic breac
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Unsprouted Life Requiem
+### M.A.W. Weapon — The Collapsed Seed-Dagger
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
+Appearance : A compact push dagger featuring a broad leaf-shaped double-edged blade and a transverse T-handle carved from fossilized wood, inlaid with an ancient petrified iron seed.
+
+Designed for close-quarters grappling and underhand thrusts, the dagger slips easily between armor joints. The petrified seed in the handle pulses with faint warmth upon flesh contact.
 
 **Damage:** Lament 10–15
 **Speed:** 3 (Fast)

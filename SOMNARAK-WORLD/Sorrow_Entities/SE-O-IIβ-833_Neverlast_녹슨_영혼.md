@@ -171,11 +171,13 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Neverlast's Requiem
+### M.A.W. Weapon — The Rusted Lock-Pistol
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
+Appearance : An archaic wheel-lock horse pistol with a sixteen-inch iron barrel coated in flaky red rust, an oversized lock mechanism, and an elongated walnut stock ending in an iron skull-pommel.
+
+The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidation powder. The discharged iron ball leaves a trail of choking rust dust that accelerates metal fatigue in armor.
 
 **Damage:** Lament 5–9
 **Speed:** 2 (Normal)

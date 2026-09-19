@@ -176,11 +176,13 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Shadow Lens
+### M.A.W. Weapon — The Umbral Pepperbox
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+Appearance : A six-barreled revolving pepperbox pistol forged from gunmetal and stained walnut, featuring fluted rotating barrels, a ring trigger, and an enclosed underhammer percussion mechanism.
+
+The barrels rotate manually after each discharge, cycling paper cartridges packed with solidified shadow-powder. Firing produces muffled pops accompanied by expanding ink-black smoke that shrouds the firer's silhouette.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)

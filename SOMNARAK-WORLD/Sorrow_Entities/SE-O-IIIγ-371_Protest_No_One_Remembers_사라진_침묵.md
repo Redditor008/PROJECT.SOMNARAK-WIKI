@@ -168,11 +168,13 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Vanished Lens
+### M.A.W. Weapon — The Silent War-Scythe
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+Appearance : A seven-foot combat scythe with its curved razor blade reversed along the pole axis, fitted with a lead counterweight pommel and dual hand-grips bound in matte black friction tape.
+
+The reversed blade design allows for powerful downward hooking strikes and sweeping decapitations. The matte black finish eliminates all reflective glare, ensuring stealthy engagement.
 
 **Damage:** Void 7–12
 **Speed:** 3 (Fast)

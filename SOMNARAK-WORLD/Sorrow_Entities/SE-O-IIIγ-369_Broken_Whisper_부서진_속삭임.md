@@ -204,11 +204,13 @@ The escalation pattern is specific to Broken Whisper: it is not a generic breach
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Broken Whisper's Requiem
+### M.A.W. Weapon — The Murmur Astrolabe
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+Appearance : A floating navigational sphere twelve inches across, assembled from delicate silver coordinate rings that spin freely around an open core filled with quiet, whispering vocal mists.
+
+The whispering mist murmurs forgotten names and navigational headings in dead tongues. Aligning the coordinate rings projects an invisible acoustic cone that muffles incoming psychic screeching.
 
 **Damage:** Lament 7-12
 **Speed:** 3 (Fast)

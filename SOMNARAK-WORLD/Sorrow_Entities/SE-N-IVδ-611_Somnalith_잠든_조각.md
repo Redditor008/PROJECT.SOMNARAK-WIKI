@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Somnalith Lens
+### M.A.W. Weapon — The Slumbering Shard-Knife
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that pulses with the source sorrow when drawn.
+Appearance : A rugged seven-inch trench knife with an intentionally blunted false edge clip, featuring a broad carbon blade with dark patina and a cast-brass knuckle-duster grip.
+
+Designed for brutal trench defense, the knife combines punching blunt trauma with deep stabbing punctures. The knuckle grip provides exceptional security during desperate hand-to-hand combat.
 
 **Damage:** Void 3–6
 **Speed:** 2 (Normal)

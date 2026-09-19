@@ -222,11 +222,13 @@ The escalation pattern is specific to Mourner's Bloom: it is not a generic breac
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Sorrow Requiem
+### M.A.W. Weapon — The Lamentation Dirk
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+Appearance : A stout, double-edged combat dirk with a ten-inch high-carbon steel blade, featuring blackened iron quillons and a grip tightly bound in intertwined hair and silver wire.
+
+The blade surface remains permanently damp with chilled water droplets that seep from the hilt junction. Striking an armored foe releases a dull sob that vibrates along the spine without physical recoil.
 
 **Damage:** Lament 3–6
 **Speed:** 2 (Normal)

@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Listening Requiem
+# M.A.W. WEAPON — The Vigilance Sceptre
 
 > *“The Listening Requiem remembers Well of Unfinished Words; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Listening Requiem is the weapon record of the Well of Unfinished Words’ set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names the source event — border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish, and their words sank into the ground — and accepts the set’s limit: allow testimony to finish; do not drain the Well. The operational cost is the Lament standard: the wielder feels the entity’s unwept grief, prolonged use causes involuntary weeping, and continued use makes the sorrow feel autobiographical — the interrupted eulogies misfiling themselves among the wielder’s own unsaid words. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan at all — the weapon stabilizes the immediate hazard only after the team attributes it to the Well, and treating the response as the bearer’s own story reproduced the source wound and established the binding rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : A six-foot command standard topped with a gilded bronze finial shaped like an open, watchful eye, fitted onto a dark mahogany staff with brass reinforcement sleeves.
+
+The open eye finial rotates autonomously to track fast-moving entities within twenty paces. Striking the shaft against the floor bolsters the morale and psychic composure of nearby allies.
 
 ## CORE STATISTICS
 

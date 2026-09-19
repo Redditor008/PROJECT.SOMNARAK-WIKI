@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Broken Fang
+# M.A.W. WEAPON — The Breach-Pike
 
 > *“The Broken Fang remembers Welcome Haven; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Broken Fang of Welcome Haven’s set is a Grudge instrument attacking the Body by channeling the source’s grudge signature into the strike. Binding is testimonial: the bearer names the source event — a border wall collapsed during an Outside Sorrow surge, leaving residents exposed — and accepts the set’s limit: admit the wall failed; do not promise perfect protection. The operational cost is the Grudge standard: the wielder’s old wounds ache, prolonged use leaves faint bruising, and continued use makes the sorrow feel autobiographical — the breach replaying as if it had opened in the wielder’s own defenses. The source-trace fixed doctrine with a combat warning: the entity attacks with burning fragments — the failed wall’s own debris weaponized, protection turned projectile. The weapon witnesses the immediate hazard only after attribution to Welcome Haven; treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : An eight-foot industrial breaching pike made from octagonal manganese steel, featuring a reinforced four-inch crowbar chisel tip and a sliding pneumatic hammer sleeve along the shaft.
+
+Designed to breach barricaded doors and dislodge armored sorrow carapaces, the tool delivers tremendous prying leverage. The pneumatic sleeve slides forward to strike the chisel with jackhammer force.
 
 ## CORE STATISTICS
 

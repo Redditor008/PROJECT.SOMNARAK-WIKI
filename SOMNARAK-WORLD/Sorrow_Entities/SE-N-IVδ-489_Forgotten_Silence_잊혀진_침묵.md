@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Quiet Requiem
+### M.A.W. Weapon — The Hush Claymore
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+Appearance : A five-foot greatsword whose ricasso, crossguard, and pommel are tightly swaddled in dense grey acoustic felt, mounting a matte grey steel blade that reflects zero light.
+
+Swinging the claymore produces no wind-whistle or acoustic disturbance. Cleaving impacts are deadened into absolute silence, allowing the wielder to execute devastating strikes unnoticed.
 
 **Damage:** Lament 10-15
 **Speed:** 3 (Fast)

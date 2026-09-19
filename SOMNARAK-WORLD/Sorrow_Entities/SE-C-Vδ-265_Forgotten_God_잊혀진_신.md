@@ -172,11 +172,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Forgotten Requiem
+### M.A.W. Weapon — The Forgotten Choral-Sceptre
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
+Appearance : A tall, five-foot ceremonial sceptre made of tarnished sterling silver, crowned with an open Gothic belfry holding a silent, clapperless chime tuned to a mournful minor harmonic.
+
+The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striking the butt against stone sends ripples of acoustic resonance that disrupt psychic interference across twelve paces.
 
 **Damage:** Lament 10-15
 **Speed:** 3 (Fast)

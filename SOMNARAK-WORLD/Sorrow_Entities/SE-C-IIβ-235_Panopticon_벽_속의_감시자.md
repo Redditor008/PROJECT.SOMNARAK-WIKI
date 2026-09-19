@@ -168,11 +168,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Watcher's Lens
+### M.A.W. Weapon — The Torn Spirit-Urn
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+Appearance : A delicate white porcelain funerary vessel thirty centimeters tall, decorated with cracked blue willow patterns and covered by a loose pewter lid that rattles with internal steam.
+
+The urn continuously condenses cold sorrow-dew on its exterior surface, which trickles down into a collection tray. Splashing this condensation onto berserk entities pacifies their aggressive hostility.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)

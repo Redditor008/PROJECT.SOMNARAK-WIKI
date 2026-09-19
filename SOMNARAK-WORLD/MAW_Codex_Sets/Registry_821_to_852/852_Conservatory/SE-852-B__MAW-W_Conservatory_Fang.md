@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — Conservatory Fang
+# M.A.W. WEAPON — The Forgotten Ruin-Glyph
 
 > *“Conservatory Fang remembers Conservatory; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Conservatory Fang is the weapon record of Conservatory’s set, a Grudge instrument attacking the Body by channeling the source’s grudge signature into the strike. Binding is testimonial: the bearer names Conservatory’s event — a caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is the Grudge standard: the wielder’s old wounds ache, prolonged use leaves faint bruising, and continued use makes the sorrow feel autobiographical — the caretaker’s desperate overload replaying as if the wielder had thrown that switch themselves. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon isolates the immediate hazard only after attribution to Conservatory, and treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : An interconnected array of five floating architectural glyph stones carved from weathered limestone, orbiting in a loose two-foot perimeter around the wielder's shoulder.
+
+The glyphs glow with pale amber script that reassembles into protective boundary geometries. When targeted by kinetic attacks, the glyph stones interlock instantly to form a solid stone buckler.
 
 ## CORE STATISTICS
 

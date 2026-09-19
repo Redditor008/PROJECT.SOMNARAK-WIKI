@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — Neverlast's Requiem
+# M.A.W. WEAPON — The Rusted Lock-Pistol
 
 > *“Neverlast's Requiem remembers Neverlast; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-Neverlast’s Requiem is the weapon record of Neverlast’s set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names Neverlast’s event — a friendship ended with one person disappearing, and the remaining grief stayed unanswered until it crystallized — and accepts the set’s limit: remain with it and acknowledge the abandonment; do not promise a return. The operational cost is the Lament standard: the wielder feels the entity’s unwept grief, prolonged use causes involuntary weeping, and continued use makes the sorrow feel autobiographical — the vanished friend’s silence installing itself among the wielder’s own unanswered departures. The source-trace fixed doctrine and carries this set’s sharpest warning: the entity fights back, because aggression fuels its sorrow — every blow struck in anger feeds exactly what the blow was meant to end. The weapon therefore stays the immediate hazard only after attribution to Neverlast; treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : An archaic wheel-lock horse pistol with a sixteen-inch iron barrel coated in flaky red rust, an oversized lock mechanism, and an elongated walnut stock ending in an iron skull-pommel.
+
+The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidation powder. The discharged iron ball leaves a trail of choking rust dust that accelerates metal fatigue in armor.
 
 ## CORE STATISTICS
 

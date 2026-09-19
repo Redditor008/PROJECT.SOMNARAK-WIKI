@@ -204,9 +204,9 @@ The escalation pattern is specific to Unrung: it is not a generic breach event. 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Muffled Resonance-Bell
+### M.A.W. Weapon — The Resonant Echo-Orrery
 
-**Category:** UNIQUE / RANGE (Acoustic Resonance Bell & Clapper-Rod)
+**Category:** FANTASY (Harmonic Brass Planetary Orrery)
 **Grade:** β | **Element:** Void
 **Damage:** Void 6–10
 **Speed:** 3 (Normal)
@@ -219,7 +219,9 @@ The escalation pattern is specific to Unrung: it is not a generic breach event. 
 **Falloff Rule:** 100% direct damage to primary, 70% acoustic reverberation to adjacent targets.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Appearance:** A heavy handheld bronze bell with an internal lead clapper suspended by woven mourning thread. When struck with its companion tuning rod, it emits no ringing chime; instead, it projects a directional acoustic distortion wave across Range 4 that completely cancels local sound and vibrates the target's Soul.
+Appearance : A hovering mechanical assembly of five polished brass planetary globes mounted on curved wire arms, revolving in silence around a central quartz crystal sphere.
+
+Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat. Aligning all five planets unleashes a focused harmonic cone that shatters crystalline structures.
 
 **Ability:** *Acoustic Nullification* — Deals Void damage across Range 4 (Long). Emits a directional sound-canceling wave that disrupts enemy chanting, casting, and verbal coordination for 2 turns.
 
@@ -227,7 +229,7 @@ The escalation pattern is specific to Unrung: it is not a generic breach event. 
 
 ### M.A.W. Suit — The Soundless Velvet Cassock
 
-**Category:** Protective Attire (Sound-Dampening Velvet & Lead-Mesh Vestments)
+**Category:** FANTASY (Harmonic Brass Planetary Orrery)
 **Grade:** β | **Element:** Void
 
 **Appearance:** A tailored cassock of light-drinking midnight velvet lined with lead-mesh and dampened sorrow silk that swallows ambient reverberations.
@@ -246,7 +248,7 @@ The escalation pattern is specific to Unrung: it is not a generic breach event. 
 
 ### M.A.W. Gift — The Muffled Clapper Brooch
 
-**Category:** Stigma (Acoustic Relic Brooch)
+**Category:** FANTASY (Harmonic Brass Planetary Orrery)
 **Grade:** β | **Element:** Void
 
 **Appearance:** A tarnished bronze pin cast in the shape of a lead clapper tied with silence-thread, resting cold against the breast.

@@ -204,11 +204,13 @@ The escalation pattern is specific to Broken Fragment: it is not a generic breac
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Fragment Maul
+### M.A.W. Weapon — The Shard-Storm Reel
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that quivers when raised.
+Appearance : A suspended brass cable reel thirty centimeters wide hovering beside the wielder, guiding eight razor-edged fragments of mirror glass tethered by invisible filaments of sorrow-light.
+
+The central reel rotates smoothly, directing the floating glass shards in sweeping orbital arcs around the wielder. The shards slash passing hostiles while acting as an autonomous defensive perimeter.
 
 **Damage:** Weight 10-15
 **Speed:** 3 (Fast)

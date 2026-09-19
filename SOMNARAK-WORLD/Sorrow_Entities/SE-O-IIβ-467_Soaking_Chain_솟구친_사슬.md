@@ -168,11 +168,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Soaking Requiem
+### M.A.W. Weapon — The Soaking Chain-Gun
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
+Appearance : A multi-barreled volley gun mounting four brass barrels around a central axle, operated via an iron hand crank on the right receiver and fed by a canvas belt of water-tempered lead slugs.
+
+Cranking the handle discharges a continuous rolling stream of heavy lead slugs with deafening mechanical clatter. The barrels are cooled by a water jacket that steams vigorously during sustained fire.
 
 **Damage:** Lament 5-9
 **Speed:** 2 (Normal)

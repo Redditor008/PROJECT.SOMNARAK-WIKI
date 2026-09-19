@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Silence Lens
+# M.A.W. WEAPON — The Hush Stiletto
 
 > *“It does not silence a person. It gives the person one moment in which silence cannot be used against them.”*
 
@@ -24,7 +24,9 @@
 
 ### Appearance
 
-The Silence Lens is a pale Han-glass disc set into a short, plain black hilt, wide enough to cover the fist and light enough to hold for a long watch. In ordinary air the glass is almost clear, with a faint grey band running around the rim. When the bearer activates it, the band glows and a thin soundless membrane stretches across the lens face, visible only as a ripple where light crosses it. The membrane never hardens or cracks; it simply keeps a space of quiet around the target for one turn. The hilt is unmarked except for a single shallow notch where the bearer's thumb rests, and a small tether ring hangs beneath the pommel. In a loud room the glass stays cold; in a forced-confession room it warms faintly along the edge nearest the speaker. The Lens protects silence without choosing what the silence means. In storage the glass is wrapped in black cloth, and the first sign of a retained silence is a faint ringing that only the bearer can hear.
+Appearance : A nine-inch needle stiletto crafted from dull blackened steel, fitted with a disc guard and an ergonomic hilt completely wrapped in thick vulcanized rubber sheeting.
+
+The rubberized grip absorbs all vibration, ensuring silent deployment from concealed sheaths. The ultra-fine tip penetrates between kevlar layers and joint gaps without catching or dragging.
 
 ### Ability— Quiet Interval
 

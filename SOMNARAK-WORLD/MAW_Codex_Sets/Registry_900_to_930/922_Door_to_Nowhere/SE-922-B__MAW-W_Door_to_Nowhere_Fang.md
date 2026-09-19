@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — Door to Nowhere Fang
+# M.A.W. WEAPON — The Threshold Ward-Staff
 
 > *“Door to Nowhere Fang remembers Door to Nowhere; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Door to Nowhere Fang is the weapon record of the Door to Nowhere set — δ-grade, Grudge-aligned, striking at 10–15 Grudge at fast speed and medium range in a pierce pattern, 100% to the primary and 70% and 50% behind, two uses at 50 Sorrow Echoes each — and its canonical ability deals Grudge damage against the Body, physical form and structural integrity, channeling the Door's grudge signature. Binding names the source event — a resident was trapped during a district lockdown, watching a door rise beyond reach — and accepts the registry's limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is remembered in the flesh: the wielder's old wounds ache, and prolonged use leaves faint bruising. The source-trace fixed doctrine: as an Object/Place source the Door cannot be confronted through Pugnahan, and the Fang stabilizes the hazard only after attribution to Door to Nowhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : A stout six-foot staff turned from seasoned white oak, capped with an oversized four-toothed bronze keyhead that doubles as a heavy bludgeoning crown and door-lever.
+
+Planted across doorways or narrow corridors, the staff establishes an impenetrable warding barrier that prevents lesser entities from passing. In melee, the keyhead delivers bone-cracking swings.
 
 ## CORE STATISTICS
 

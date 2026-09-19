@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Trace Requiem
+# M.A.W. WEAPON — The Vestige Censer
 
 > *“It can cut the feeling that you must keep walking the failed route. It cannot make the travelers who were lost arrive.”*
 
@@ -41,7 +41,9 @@
 
 ## Appearance
 
-The Trace Requiem is a small blue blade with a broken route line within the crystal and no point facing forward by default. The blade does not light until the bearer names the return line and the map custodian. In active use the route line turns toward the team’s mapped return direction rather than the collapsed trace. At full activation, the blade interrupts one direction-loss surge and makes the group’s current exit legible through Desolate pressure. The bearer never travels beyond a Quagmire survey without a mapped return line and map custodian. The bearer feels the source’s unwept grief and may cry after use. Every deployment ends at the mapped return, not the remembered failure. Route line stays dim until all members return. The Requiem is stored with the return route facing up. A bearer who turns the weapon toward the collapsed route rather than the return line finds the edge go dark and feels lost-direction Lament in their own body. The map custodian covers the forward line, speaks the camp return point, and sheaths the blade during shutdown.
+Appearance : A handheld cast-brass thurible suspended by three delicate chains, pierced with floral filigree that releases thin, continuous curls of fragrant dried lavender incense.
+
+The aromatic smoke creates an emotional oasis that shields the bearer's sanity from horrific visual anomalies. In close quarters, swinging the heated brass bowl delivers painful blunt impacts.
 
 ## CORE STATISTICS
 

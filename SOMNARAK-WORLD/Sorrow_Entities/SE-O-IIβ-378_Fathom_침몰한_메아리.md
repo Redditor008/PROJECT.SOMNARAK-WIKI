@@ -168,11 +168,13 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Drowned Requiem
+### M.A.W. Weapon — The Deluge Longsword
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that hums faintly when gripped.
+Appearance : A forty-two inch hand-and-a-half longsword forged from blackened marine iron, featuring a straight crossguard, faceted scent-stopper pommel, and a hilt wrapped in salted ray-skin.
+
+Cold seawater constantly sweats from the fuller grooves, pooling along the quillons and dripping steadily. Slashing strikes release pressurized torrents of freezing brine that douse flame attacks.
 
 **Damage:** Lament 5–9
 **Speed:** 2 (Normal)

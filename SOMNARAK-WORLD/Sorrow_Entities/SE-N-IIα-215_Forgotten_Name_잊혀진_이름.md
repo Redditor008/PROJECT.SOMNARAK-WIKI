@@ -168,11 +168,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Name Lens
+### M.A.W. Weapon — The Epitaph Tanto
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+Appearance : A traditional nine-inch tanto with a straight spine and zero curve, housed in a cracked black lacquer scabbard inscribed with rows of anonymous registry identification numbers.
+
+The blade flat is polished to an immaculate mirror finish revealing tiny micro-chiseled characters. Slashing an enemy leaves a shallow incision that traces the outline of their unresolved regrets.
 
 **Damage:** Void 3-6
 **Speed:** 2 (Normal)

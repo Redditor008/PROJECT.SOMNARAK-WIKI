@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Embrace Talon
+# M.A.W. WEAPON — The Devotion Executioner-Cleaver
 
 > *“The curve is not made for hunting. It is made for clamping what runs back within reach.”*
 
@@ -28,9 +28,9 @@
 
 ### Appearance
 
-The Embrace Talon is an articulated claw-gauntlet constructed from ossified maternal phalanges and braided crimson sinew, terminating in curved calcified talons that close inward like fingers locking around a wrist. The metal and bone core stays warm at the palm and feverish at the claw tips, throbbing noticeably when an injured or fleeing person is nearby. In shadow the inner curve radiates a dull crimson fever-glow. When swung in close quarters, the claws clamp violently shut upon contact, hooking deep into armor or flesh and dragging the target into point-blank reach while whispering muffled maternal endearments into the wielder's mind.
+Appearance : A massive three-foot butcher cleaver devoid of a thrusting tip, forged from heavy spring steel with a reinforced rectangular spine and a thick oak handle bound in raw sinew.
 
----
+The sheer mass of the blade delivers devastating chopping strikes capable of severing thick bone and dense chitin. The flat edge is honed to a razor bevel that bites cleanly without jamming.
 
 ## COMBAT RECORD
 

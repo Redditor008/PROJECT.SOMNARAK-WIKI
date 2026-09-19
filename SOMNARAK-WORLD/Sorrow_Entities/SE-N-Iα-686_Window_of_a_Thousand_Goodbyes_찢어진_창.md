@@ -204,11 +204,13 @@ The escalation pattern is specific to Window of a Thousand Goodbyes: it is not a
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Window of a Thousand Goodbyes Fang
+### M.A.W. Weapon — The Window-Shard Sabre
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+Appearance : A curved cavalry sabre whose thirty-inch steel blade is flanked by interlocking panes of toughened green window glass, set into an iron basket hilt lined with buff leather.
+
+The glass-edged blade delivers devastating lacerating wounds with minimal cutting resistance. When parrying heavy mauls, individual glass segments shatter to deflect kinetic force before reforming.
 
 **Damage:** Grudge 3–6
 **Speed:** 2 (Normal)

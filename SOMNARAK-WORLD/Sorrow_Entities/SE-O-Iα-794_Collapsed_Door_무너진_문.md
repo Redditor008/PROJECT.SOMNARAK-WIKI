@@ -204,11 +204,13 @@ The escalation pattern is specific to Collapsed Door: it is not a generic breach
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Collapsed Requiem
+### M.A.W. Weapon — The Ruined Jamb-Knife
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that hums faintly when gripped.
+Appearance : A rugged six-inch utility knife forged from a demolished building's door hinge, featuring an offset chisel tip, serrated thumb ramp, and an unvarnished oak handle bound with steel wire.
+
+Designed to lever open stuck door jambs and pry apart armored joints, the knife resists heavy torque without bending. In close scuffles, the square chisel tip delivers brutal puncture wounds.
 
 **Damage:** Lament 3-6
 **Speed:** 2 (Normal)

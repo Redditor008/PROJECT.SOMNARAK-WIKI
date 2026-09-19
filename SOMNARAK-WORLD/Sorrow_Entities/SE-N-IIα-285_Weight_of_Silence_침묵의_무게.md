@@ -168,11 +168,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Silence Maul
+### M.A.W. Weapon — The Silent Memorial-Bell
 
 **Type:** Weapon | **Grade:** α | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
+Appearance : A cylindrical bronze monastery bell thirty centimeters high, lacking an internal clapper and suspended by a sturdy forged iron yoke with two leather-wrapped carrying handles.
+
+Striking the outer rim with an Agent's fist produces no audible sound wave, but discharges an invisible psychic pressure wave that ripples through solid concrete and staggers nearby entities.
 
 **Damage:** Weight 3-6
 **Speed:** 2 (Normal)

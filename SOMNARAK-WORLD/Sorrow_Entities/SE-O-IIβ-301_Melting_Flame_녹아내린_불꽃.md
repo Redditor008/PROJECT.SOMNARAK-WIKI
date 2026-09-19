@@ -168,11 +168,13 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Melting Flame Requiem
+### M.A.W. Weapon — The Smoldering Brand-Lance
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
+Appearance : An eight-foot heavy iron lance whose front three feet consist of a four-sided rectangular brand-head glowing with constant cherry-red heat, fitted with a leather heat-shield vamplate.
+
+Thrusting the brand-head into hostile entities sears deep third-degree burns into physical tissue while cauterizing emotional wounds, preventing entities from regenerating lost mass.
 
 **Damage:** Lament 5-9
 **Speed:** 2 (Normal)

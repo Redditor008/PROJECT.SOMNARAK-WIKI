@@ -168,11 +168,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Relic Maul
+### M.A.W. Weapon — The Pandora War-Cleaver
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
+Appearance : A colossal four-foot war cleaver forged from dark bell-bronze, bound along the spine with soldered bronze bands and lead seals that keep the split halves of the blade clamped shut.
+
+Deep impact notches along the cutting bevel reveal simmering orange embers within the core. Striking hard armor strains the lead seals, venting bursts of pressurized retaliatory heat.
 
 **Damage:** Weight 10-15
 **Speed:** 3 (Fast)

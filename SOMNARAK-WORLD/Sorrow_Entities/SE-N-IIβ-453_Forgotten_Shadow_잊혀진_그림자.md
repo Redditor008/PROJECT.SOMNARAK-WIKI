@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Shadow Requiem
+### M.A.W. Weapon — The Lamentation Sabre
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
+Appearance : An eleven-inch circular navigational planisphere crafted from blackened silver and pale ivory, floating horizontally above the bearer's forearm with revolving coordinate discs.
+
+The etched celestial coordinates point toward lost stars outside recorded cartography. Channeled during combat, the astrolabe bends ambient light into localized darkness, cloaking the bearer from ranged sight.
 
 **Damage:** Lament 5-9
 **Speed:** 2 (Normal)
@@ -188,14 +190,10 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that carries a faint scent of its origin.
+Appearance : A curved thirty-two inch cavalry sabre with a pipe-back spine, an enclosed steel three-bar hilt, and a high-carbon blade that sheds a persistent ribbon of pale blue sorrow mist.
 
-**Resistances:**
-- Grudge: 1.0 (Normal)
-- Lament: 0.4 (Resistant)
-- Weight: 0.8 (Endured)
-- Void: 1.6 (Weak)
-**Max Amount:** 4
+The sabre delivers fluid, sweeping draw-cuts from horseback or on foot. The blue sorrow mist trails along the cutting path, momentarily blinding the vision of adjacent combatants.
+
 **Cost:** 20 Sorrow Echoes
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Forgotten Shadow's kind of pressure.

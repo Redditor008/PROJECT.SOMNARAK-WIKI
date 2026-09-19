@@ -168,11 +168,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Cold Burn Lens
+### M.A.W. Weapon — The Returning Arbalest
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
+Appearance : A compact siege arbalest mounting high-tensile steel prod arms, a geared bronze cranequin spanning mechanism, and a grooved bone track carved with flight calculations.
+
+The weapon launches heavy square-headed bolts attached to microscopic retrieval cables. An internal spring-spool winds the bolt back into the loading groove instantly upon a missed discharge.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)

@@ -176,11 +176,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Embrace Talon
+### M.A.W. Weapon — The Devotion Executioner-Cleaver
 
-**Category:** PRIMAL (Rending Bone-Claw / Tendon Gauntlet) | **Grade:** δ | **Element:** Grudge
+**Category:** BLADES (Monolithic Pointless Cleaver)
 
-**Appearance:** An articulated claw-gauntlet constructed from ossified maternal finger-bones and woven crimson sinew, terminating in jagged, inward-curving calcified talons designed to grasp rather than release. The jointed fingers twitch faintly when held idle, reaching instinctively toward living warmth. When struck in close quarters, the claws clamp shut with crushing mechanical force, hooking into the victim and dragging them into point-blank range while exuding a suffocating, feverish heat.
+Appearance : A massive three-foot butcher cleaver devoid of a thrusting tip, forged from heavy spring steel with a reinforced rectangular spine and a thick oak handle bound in raw sinew.
+
+The sheer mass of the blade delivers devastating chopping strikes capable of severing thick bone and dense chitin. The flat edge is honed to a razor bevel that bites cleanly without jamming.
 
 **Damage:** Grudge 12–18
 **Speed:** 4 (Fast)

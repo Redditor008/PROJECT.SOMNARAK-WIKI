@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Gravitational Singularity-Hammer
+# M.A.W. WEAPON — The Singularity Orrery
 
 > *“It lands exactly where the verdict says the world must collapse into a single point.”*
 
@@ -28,9 +28,9 @@
 
 ### Appearance
 
-The Gravitational Singularity-Hammer is a physics-distorting apparatus whose striking head is a dense, spherical core of collapsed matte-black Han-steel that devours surrounding illumination. The sphere is held in suspension between three counter-rotating gyroscopic rings etched with shallow impressions of an eye, a scale, and a folded wing. When carried, its shadow arrives a fraction of a second before the weapon itself, darkening the floor ahead. Ambient dust, papers, and loose debris continuously drift toward the suspended sphere. When brought down upon the earth or a structural obstruction, it causes local space to warp violently inward, dragging all nearby objects and bodies toward the strike point before discharging a thunderous 360° radial shockwave of pure Weight mass.
+Appearance : A compact spherical astrolabe constructed from dark meteoric silver and three interlocking gimbal hoops, cradling an immovable two-inch sphere of compressed, light-swallowing black glass.
 
----
+The planetary hoops spin along multiple axes with zero friction, warping background lines into curved ripples. Clenching the focus ring projects a high-density gravitational pulse that pulls nearby airborne debris toward the center.
 
 ## COMBAT RECORD
 

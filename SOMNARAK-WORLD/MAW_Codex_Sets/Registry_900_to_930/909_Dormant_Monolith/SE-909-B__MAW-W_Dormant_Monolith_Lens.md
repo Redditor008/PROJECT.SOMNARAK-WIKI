@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — Dormant Monolith Lens
+# M.A.W. WEAPON — The Echoing Zweihander
 
 > *“Dormant Monolith Lens remembers Dormant Monolith; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Dormant Monolith Lens is the weapon record of the Dormant Monolith set — δ-grade, Void-aligned, striking at 10–15 Void at fast speed and medium range in a pierce pattern, 100% to the primary and 70% and 50% to the targets behind, two uses at 50 Sorrow Echoes each — and its canonical ability deals Void damage against the Soul, identity, memory, and sense of self, channeling the Monolith's void signature in the strike. Binding names the source event — a border worker carried family and community obligations until the mind became a sleeping pillar — and accepts the set's limit: ground the worker and establish a rotation of duty. The cost is quiet attrition: the wielder loses small, nameless memories with each use. The source-trace fixed doctrine: the Monolith rises through the worker's thoughts, and the Lens witnesses the hazard only after attribution to Dormant Monolith. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : A massive six-foot two-handed greatsword with a four-foot blade, broad side parrying rings, and long drooping quillons that ring like tuned orchestral chimes when the sword is swung.
+
+The blade's immense reach and momentum dominate wide hallways, holding multiple foes at bay. The chime quillons resonate in harmony with the swing, releasing acoustic ripples that disorient opponents.
 
 ## CORE STATISTICS
 

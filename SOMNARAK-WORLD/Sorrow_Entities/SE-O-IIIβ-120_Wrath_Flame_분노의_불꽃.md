@@ -168,11 +168,13 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Rage Fang
+### M.A.W. Weapon — The Wrath-Ember Censer
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that hums faintly when gripped.
+Appearance : A heavy cast-iron censer bristling with conical iron spikes, suspended from four heavy chains, housing volcanic pumice rocks soaked in boiling Grudge distillate.
+
+The thurible vents continuous streams of scalding sulfurous steam that burn organic flesh. In close melee, swinging the spiked iron censer inflicts severe bludgeoning and thermal trauma.
 
 **Damage:** Grudge 5-9
 **Speed:** 2 (Normal)

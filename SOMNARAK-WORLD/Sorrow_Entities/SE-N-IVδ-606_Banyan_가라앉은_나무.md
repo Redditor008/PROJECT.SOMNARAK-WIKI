@@ -198,11 +198,13 @@ The escalation pattern is specific to Banyan: it is not a generic breach event. 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Sunken Requiem
+### M.A.W. Weapon — The Sunken Harpoon-Gun
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that glows along its edge when readied.
+Appearance : A pneumatic heavy harpoon gun fashioned from sea-corroded brass and barnacle-encrusted teak, mounting a top flight rail that seats a barbed steel harpoon trailing braided hemp rope.
+
+Compressed gas cylinders discharge the harpoon with bone-crushing force up to thirty paces. Once impaled, the internal cable winch allows the bearer to reel in or anchor rampaging entities.
 
 **Damage:** Lament 10–15
 **Speed:** 3 (Fast)

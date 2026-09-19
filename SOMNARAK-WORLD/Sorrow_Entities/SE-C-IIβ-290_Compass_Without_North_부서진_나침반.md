@@ -204,11 +204,13 @@ The escalation pattern is specific to Compass Without North: it is not a generic
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Lost Lens
+### M.A.W. Weapon — The Primordial Greatsword
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
+Appearance : A massive two-handed greatsword spanning six feet overall, featuring a hand-hammered carbon blade, sweeping forward-curved iron quillons, and a long two-handed grip bound in worn ox-hide.
+
+The raw forged steel exhibits visible hammer creases and dark carbon quenching folds. Swung with momentum, the blade cleaves through dense barricades, carrying immense physical force that shatters brittle armor.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)

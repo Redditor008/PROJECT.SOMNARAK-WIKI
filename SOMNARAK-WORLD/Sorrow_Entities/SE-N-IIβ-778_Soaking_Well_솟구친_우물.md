@@ -180,11 +180,13 @@ The escalation pattern is specific to Soaking Well: it is not a generic breach e
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Listening Requiem
+### M.A.W. Weapon — The Vigilance Sceptre
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that hums faintly when gripped.
+Appearance : A six-foot command standard topped with a gilded bronze finial shaped like an open, watchful eye, fitted onto a dark mahogany staff with brass reinforcement sleeves.
+
+The open eye finial rotates autonomously to track fast-moving entities within twenty paces. Striking the shaft against the floor bolsters the morale and psychic composure of nearby allies.
 
 **Damage:** Lament 5-9
 **Speed:** 2 (Normal)

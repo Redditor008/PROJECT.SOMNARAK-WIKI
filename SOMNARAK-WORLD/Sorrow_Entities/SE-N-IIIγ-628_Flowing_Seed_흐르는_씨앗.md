@@ -198,11 +198,13 @@ The escalation pattern is specific to Flowing Seed: it is not a generic breach e
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Flowing Seed Maul
+### M.A.W. Weapon — The Sprouting Seax
 
 **Type:** Weapon | **Grade:** α | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that pulses with the source sorrow when drawn.
+Appearance : A broad broken-back seax featuring a straight cutting edge and sharply angled clip spine, fitted with an unvarnished bog-oak hilt that sprouts tiny dried seed pods along the pommel.
+
+The blade flat is etched with botanical germination diagrams filled with dark copper leafing. Cutting organic tissue leaves microscopic spores that drain kinetic momentum from the target.
 
 **Damage:** Weight 3-6
 **Speed:** 2 (Normal)

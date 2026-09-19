@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Hope Lens
+# M.A.W. WEAPON — The Horizon Blade
 
 > *“It does not show the right road. It shows which road was never real.”*
 
@@ -27,9 +27,9 @@
 
 ### Appearance
 
-The Hope Lens is a pale Han-glass disc mounted along a short, angled hilt, its surface almost clear in ordinary light and faintly white when held against a dark background. When activated, the outer edge flattens into a thin plane of white light that makes no sound and casts no true shadow. The disc reflects no face clearly; instead, it shows the direction the bearer is refusing to take, as a pale line that tilts away from the path already chosen. The hilt is plain black Han-iron with a small thumb guard, and the glass stays cold even after prolonged use. In Brume the Lens dims as the false route becomes clearer, and brightens again only when the bearer names an honest destination. The white line never points home; it only points away from the road that was never real. The Lens cannot be used to prove that a destination exists; it only proves that the previous one was false.
+Appearance : An elegant thirty-four inch arming sword featuring an open, sweeping bow-shaped crossguard, hollow ground double edges, and an azure enamel pommel depicting a clean horizon line.
 
----
+The blade is lightweight and perfectly balanced three inches ahead of the guard. It responds with exceptional speed, allowing for effortless parries and swift counter-thrusts in open spaces.
 
 ## COMBAT RECORD
 

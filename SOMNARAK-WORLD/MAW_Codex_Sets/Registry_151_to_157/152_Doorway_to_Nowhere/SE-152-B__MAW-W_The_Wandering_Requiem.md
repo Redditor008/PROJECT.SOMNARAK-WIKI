@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Wandering Requiem
+# M.A.W. WEAPON — The Wayfarer's Censer
 
 > *“It cuts the door from the room it is trying to replace. It does not cut the memory from the person who needs it.”*
 
@@ -41,7 +41,9 @@
 
 ## Appearance
 
-The Wandering Requiem is a slender deep-blue blade of Han crystal with a charred door-grain pattern beneath the glass, the grain running along the flat like the edge of an old threshold. In rest the pattern is dark and still; when the bearer names the current room and the person holding the return point, it opens into a narrow threshold line that points toward the present return route. The grip is wrapped in dark blue cord and the guard is narrow and straight. The blade separates a false threshold loop from the physical door and opens a visible path to the present for one target, without cutting the memory from the person who needs it. The bearer feels the Door's unwept grief after use and may weep. It never rests beside a locked door or a relic from the lost home. If the current return is absent, the blade refuses to draw and shows the bearer the same empty room instead. The partner covers the charred pattern and states the return route during shutdown.
+Appearance : A spherical brass incense burner pierced with hundreds of star-shaped ventilation holes, suspended from three slender steel chains with a counterweight pinecone finial.
+
+Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines. The censer produces a continuous trail of heavy, aromatic smoke that neutralizes atmospheric toxicity across eight paces.
 
 ## CORE STATISTICS
 

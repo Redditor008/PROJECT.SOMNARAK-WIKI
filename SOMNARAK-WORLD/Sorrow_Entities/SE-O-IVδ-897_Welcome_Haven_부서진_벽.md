@@ -168,11 +168,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Broken Fang
+### M.A.W. Weapon — The Breach-Pike
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
+Appearance : An eight-foot industrial breaching pike made from octagonal manganese steel, featuring a reinforced four-inch crowbar chisel tip and a sliding pneumatic hammer sleeve along the shaft.
+
+Designed to breach barricaded doors and dislodge armored sorrow carapaces, the tool delivers tremendous prying leverage. The pneumatic sleeve slides forward to strike the chisel with jackhammer force.
 
 **Damage:** Grudge 10–15
 **Speed:** 3 (Fast)

@@ -176,11 +176,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Silence Lens
+### M.A.W. Weapon — The Hush Stiletto
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+Appearance : A nine-inch needle stiletto crafted from dull blackened steel, fitted with a disc guard and an ergonomic hilt completely wrapped in thick vulcanized rubber sheeting.
+
+The rubberized grip absorbs all vibration, ensuring silent deployment from concealed sheaths. The ultra-fine tip penetrates between kevlar layers and joint gaps without catching or dragging.
 
 **Damage:** Void 3-6
 **Speed:** 2 (Normal)

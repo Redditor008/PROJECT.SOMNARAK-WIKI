@@ -204,11 +204,13 @@ The escalation pattern is specific to Forgotten Tear: it is not a generic breach
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Forgotten Tear Fang
+### M.A.W. Weapon — The Unwept Tear-Vessel
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that hums faintly when gripped.
+Appearance : A protective brass wire cradle holding an elongated sealed glass ampoule filled with clear, unwept sorrow tears, mounted onto a leather-wrapped forearm vambrace.
+
+The ampoule glows with soft azure bioluminescence that responds to emotional grief. Uncorking the cradle allows the bearer to project a cone of tranquilizing tear-vapor that pacifies raging thralls.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)

@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Torn Lens
+# M.A.W. WEAPON — The Wounded Tree-Censer
 
 > *“The Torn Lens remembers Yggdrasil Wound; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Torn Lens is the weapon record of the Yggdrasil Wound set — α-grade, Void-aligned, striking at 3–6 Void in a single-target pattern, five uses at 15 Sorrow Echoes each — and its canonical ability deals Void damage against the Soul, identity, memory, and sense of self, channeling the Wound's void signature. Binding names the source event — a tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence — and accepts the set's limit: ground the worker and permit both memories to remain. The cost is quiet attrition: the wielder loses small, nameless memories with each use. The source-trace fixed doctrine: pressed, the tree tears further through the worker's thoughts, and the Lens severs the hazard only after attribution to Yggdrasil Wound. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : A spherical censer carved from a hollowed ironwood tree burl, bound with brass hoops and suspended from a dark cord, burning amber resin extracted from sorrow-blighted weeping willows.
+
+The burning resin produces a warm, viscous smoke that clings to surfaces and coats airborne particles. Breathing the vapor numbs physical pain and bolsters an Agent's psychic resolve.
 
 ## CORE STATISTICS
 

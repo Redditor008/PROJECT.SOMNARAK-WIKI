@@ -188,11 +188,13 @@ The escalation pattern is specific to Whispering Walls: it is not a generic brea
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Listening Requiem
+### M.A.W. Weapon — The Occlusion Star-Chalice
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that hums faintly when gripped.
+Appearance : A carved obsidian drinking chalice hovering weightlessly six inches above the bearer's outstretched palm, filled with an immovable pool of liquid shadow that reflects no light.
+
+The chalice emits a steady gravitational pull that draws incoming projectile attacks into its dark center, safely neutralizing them. Inverting the cup discharges an expanding shockwave of crushing gravity.
 
 **Damage:** Lament 3-6
 **Speed:** 2 (Normal)

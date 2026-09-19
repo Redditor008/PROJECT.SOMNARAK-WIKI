@@ -203,11 +203,13 @@ The escalation pattern is specific to Quagmire: it is not a generic breach event
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Trace Requiem
+### M.A.W. Weapon — The Vestige Censer
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
+Appearance : A handheld cast-brass thurible suspended by three delicate chains, pierced with floral filigree that releases thin, continuous curls of fragrant dried lavender incense.
+
+The aromatic smoke creates an emotional oasis that shields the bearer's sanity from horrific visual anomalies. In close quarters, swinging the heated brass bowl delivers painful blunt impacts.
 
 **Damage:** Lament 3–6
 **Speed:** 2 (Normal)

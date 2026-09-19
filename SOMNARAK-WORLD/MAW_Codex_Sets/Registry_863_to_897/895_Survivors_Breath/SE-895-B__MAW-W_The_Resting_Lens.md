@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Resting Lens
+# M.A.W. WEAPON — The Repose Awl
 
 > *“The Resting Lens remembers Survivors' Breath; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Resting Lens is the weapon record of Survivors’ Breath’s set, a Void instrument attacking the Soul by channeling the source’s void signature into the strike. Binding is testimonial: the bearer names the source event — citizens sighed after repeated crises until the collective breath became a wandering presence — and accepts the set’s limit: permit rest; do not force personnel to continue working through it. The operational cost is the Void standard: the wielder loses small, nameless memories with each use, and continued use makes the sorrow feel autobiographical — the city’s accumulated exhalation settling into the wielder’s own chest. The source-trace fixed doctrine with a physical warning: provoked, the breath becomes a harsh wind and spreads through the halls — the collective sigh turned gale, indoors. The weapon opens the immediate hazard only after attribution to Survivors’ Breath; treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : A seven-inch puncturing awl machined from dense ox bone, weighted with lead inside its bulbous pommel for underhand ice-pick strikes, and wrapped in dried mourning ribbon.
+
+Designed to deliver silent, lethal strikes through cervical vertebrae, the awl slips through armor seams effortlessly. The bone needle point remains ice-cold, numbing the target's vocal cords.
 
 ## CORE STATISTICS
 

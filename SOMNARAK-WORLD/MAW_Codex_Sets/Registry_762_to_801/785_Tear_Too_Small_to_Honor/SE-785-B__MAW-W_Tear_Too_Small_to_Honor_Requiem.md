@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — Tear Too Small to Honor Requiem
+# M.A.W. WEAPON — The Tear-Drop Awl
 
 > *“Tear Too Small to Honor Requiem remembers Tear Too Small to Honor; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Tear Too Small to Honor Requiem is the weapon record of its source’s set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names the source event — a visitor hid a single tear beneath a Garden stone, and the grief flattened into a collapsed object — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is the Lament standard: the wielder feels the entity’s unwept grief, prolonged use causes involuntary weeping, and continued use makes the sorrow feel autobiographical — the hidden tear’s smallness pressing on the wielder’s own unhonored griefs. The source- trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon stays the immediate hazard only after the team attributes it to the source, and treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first- person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : A compact six-inch saddler's awl with a broad teardrop-shaped mahogany palm grip and a hardened diamond-section steel bodkin spike ground to a razor-sharp point.
+
+Held in the palm like an assassin's punch, the awl drives deep through heavy hide and plate armor. The diamond cross-section leaves triangular puncture wounds that resist rapid biological clotting.
 
 ## CORE STATISTICS
 

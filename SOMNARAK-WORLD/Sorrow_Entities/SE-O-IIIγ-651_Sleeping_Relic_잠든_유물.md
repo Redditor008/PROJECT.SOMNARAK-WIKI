@@ -180,11 +180,13 @@ The escalation pattern is specific to Sleeping Relic: it is not a generic breach
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Sleeping Relic's Lens
+### M.A.W. Weapon — The Dormant Halo-Ring
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
+Appearance : A floating golden halo hoop fifty centimeters in diameter hovering behind the bearer's head, studded with seven suspended hexagonal crystal prisms that gleam with pale dawn-light.
+
+The prisms rotate in synchrony, refracting psychic trauma away from the bearer's mind into harmless colored light flares. Channeled outward, it unleashes a blinding burst of tranquilizing brilliance.
 
 **Damage:** Void 7-12
 **Speed:** 3 (Fast)

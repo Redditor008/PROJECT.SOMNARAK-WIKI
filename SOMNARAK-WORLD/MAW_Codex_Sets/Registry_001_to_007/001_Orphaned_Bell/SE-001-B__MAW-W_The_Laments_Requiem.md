@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Lament’s Requiem
+# M.A.W. WEAPON — The First Dawn Stiletto
 
 > *“The blade does not cut the body first. It cuts the sentence a person uses to pretend they are not grieving.”*
 
@@ -29,9 +29,9 @@
 
 ### Appearance
 
-A slender two-hand blade of deep-blue Han crystal, the Lament's Requiem is cut so thin that its edge seems to hold no weight until it is bared against a source of grief. Beneath the surface, faint lines of names move in the rhythm of a distant toll, each one surfacing in a different cadence for every bearer who holds it. The grip is dark blue silk wrapped over a ridged Han-iron core, and a narrow soundless channel runs the length of the blade, widening wherever the crystal has absorbed an unrecorded name. In the presence of recent loss the channel glows a cold, soft blue; in silence it stays as still as a held breath. When swung the blade makes no metallic note, yet the names inside it keep time, so that those closest to the user hear a toll no instrument produced. No two bearers hear the same sequence, and no two blades remain identical once they have completed a Named Vigil.
+Appearance : A delicate eight-inch thrusting stiletto forged from gold-tinted celestial alloy, tapering into a needle point with microscopic diamond serrations along its dual cutting edges.
 
----
+The weapon absorbs darkness, emitting a faint warm luminescence that glimmers like early twilight. Piercing strikes discharge concentrated radiant pulses that temporarily blind adjacent hostiles and sear shadow-tainted matter.
 
 ## EXTRACTION HISTORY
 

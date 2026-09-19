@@ -180,11 +180,13 @@ The escalation pattern is specific to Memory Rain: it is not a generic breach ev
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Memory Requiem
+### M.A.W. Weapon — The Vigil Hand-Cannon
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
+Appearance : A flared-muzzle bronze hand-cannon incorporating a glass lantern chamber beneath the barrel, ignited by an enclosed wheel-lock mechanism and operated via a curved finger lever.
+
+The cannon fires incandescent phosphor pellets that illuminate dark chambers with blinding golden flare. The flame inside the underbarrel lantern flickers in rhythm with nearby sorrow activity.
 
 **Damage:** Lament 5-9
 **Speed:** 2 (Normal)

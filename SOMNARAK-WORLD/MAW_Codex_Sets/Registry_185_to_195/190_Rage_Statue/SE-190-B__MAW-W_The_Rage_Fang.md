@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Vein-Heated Marble Brand
+# M.A.W. WEAPON — The Ash-Phoenix Culverin
 
 > *“It carries the unthrown blow. The bearer must not mistake retaliation for the justice the blow was denied.”*
 
@@ -18,9 +18,9 @@ A crimson fissure echo forms only after the Statue’s fist lowers through ackno
 
 ## Appearance
 
-Appearance : A 120cm brutal brand featuring a forged black iron shaft wrapped in twin copper heat coils. The striking head is formed from the severed marble forearm and clenched fist of an ancient neoclassical statue.
+Appearance : An ornate bronze hand-culverin with a flared muzzle cast in the shape of a screaming phoenix head, featuring red copper filigree and a heavy cherry-wood tiller stock.
 
-The clenched stone fingers clasp the broken stump of an iron sculptor’s chisel, while deep crimson thermal fissures spiderweb across the knuckles and palm. Incandescent red Grudge heat pulses from within the stone, creating a shimmering thermal distortion wave whenever swung.
+The culverin discharges volcanic fire-slugs wrapped in dense black soot that explode into roaring fireballs upon contact. The barrel vents billowing ember clouds after each shot, requiring careful handling.
 
 ## CORE STATISTICS
 

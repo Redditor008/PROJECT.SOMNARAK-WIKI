@@ -180,11 +180,13 @@ The escalation pattern is specific to Soaking Wall: it is not a generic breach e
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Soaking Wall Fang
+### M.A.W. Weapon — The Wall-Fresco Monument
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
+Appearance : A four-foot portable limestone stele carved in low relief with the figures of weary municipal laborers, mounted on a dual-handled carrying frame bound with hemp rope.
+
+Carried into containment zones, the stele radiates the collective endurance of thousands of forgotten builders. It creates a localized stabilization aura that reinforces damaged structural walls.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)

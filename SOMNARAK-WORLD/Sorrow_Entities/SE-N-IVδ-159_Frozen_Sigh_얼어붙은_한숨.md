@@ -168,11 +168,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Frozen Fang
+### M.A.W. Weapon — The Glacial Stiletto
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that flickers with inner light.
+Appearance : An eight-inch triangular thrusting blade machined from cryogenic tungsten-carbide, featuring a hollow ground profile and a hilt completely wrapped in thermally insulated leather.
+
+The blade operates at near zero kelvin, causing moisture in the air to sublimate upon contact with the metal. Puncturing strikes cause immediate thermal shock and crystalline tissue embrittlement.
 
 **Damage:** Grudge 10-15
 **Speed:** 3 (Fast)

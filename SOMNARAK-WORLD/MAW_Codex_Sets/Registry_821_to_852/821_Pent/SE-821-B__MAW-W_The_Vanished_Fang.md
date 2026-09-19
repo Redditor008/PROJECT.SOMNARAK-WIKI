@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Vanished Fang
+# M.A.W. WEAPON — The Vanished Flintlock
 
 > *“The Vanished Fang remembers Pent; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Vanished Fang of Pent’s set is a Grudge instrument attacking the Body by channeling the source’s grudge signature into the strike. Binding is testimonial: the bearer names Pent’s event — a worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness — and accepts the set’s limit: permit rest and acknowledge exhaustion as real. The operational cost is the Grudge standard: the wielder’s old wounds ache, prolonged use leaves faint bruising, and continued use makes the sorrow feel autobiographical — the held-back sigh lodging in the wielder’s own chest, the suppressed exhaustion learning their posture. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon stays the immediate hazard only after the team attributes it to Pent, and treating the response as the bearer’s own story reproduced the wound and established the binding rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+Appearance : An exquisite eighteenth-century flintlock pistol crafted from silver-inlaid burl walnut, featuring a silver lockplate, swan-neck cock, and an engraved smoothbore barrel.
+
+The flint mechanism strikes a sparkless steel battery that ignites Void-powder without flash or sound. The discharged silver bullet passes through physical walls, striking only metaphysical soul cores.
 
 ## CORE STATISTICS
 

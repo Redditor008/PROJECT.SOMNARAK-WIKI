@@ -168,11 +168,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Broken Tear Requiem
+### M.A.W. Weapon — The Weeping Star-Prism
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+Appearance : A hovering polyhedral crystal cluster formed from deep indigo Han-gem, measuring seven inches across and floating within a delicate gyroscope of three silver filaments.
+
+The prism sheds continuous streams of luminous blue tears that dissolve before touching the floor. Channeled against sorrow entities, it refracts radiant grief into blinding azure flashes.
 
 **Damage:** Lament 10-15
 **Speed:** 3 (Fast)

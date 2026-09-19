@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — Uprooted Requiem
+# M.A.W. WEAPON — The Graveweed Needle-Rifle
 
 > *“Uprooted Requiem remembers Uprooted; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Uprooted Requiem is the weapon record of the Uprooted set — α-grade, Lament- aligned, striking at 3–6 Lament in a single-target pattern, five uses at 15 Sorrow Echoes each — and its canonical ability deals Lament damage against the Mind, emotional stability and willpower, channeling Uprooted's lament signature. Binding names the source event — a Desolate settlement moved repeatedly, leaving its roots and structures behind each time — and accepts the set's limit: do not burn the roots; map and witness their route. The cost is borrowed mourning: the wielder feels the entity's unwept grief, and prolonged use causes involuntary weeping. The source-trace fixed doctrine: pressed, roots strike outward and structures rise violently, the abandoned settlement defending what was left of it, and the Requiem discharges the hazard only after attribution to Uprooted. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : A slender pneumatic target rifle constructed from dark ebony wood and brass fittings, mounting a thirty-two inch micro-bore barrel and an under-barrel compressed air reservoir.
+
+The rifle discharges sixteen-inch hardened root needles poisoned with botanical paralytics. Firing is practically noiseless, creating a tiny air puff while delivering surgical long-range stopping power.
 
 ## CORE STATISTICS
 

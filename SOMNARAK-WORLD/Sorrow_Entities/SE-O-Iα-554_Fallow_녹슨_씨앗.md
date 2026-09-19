@@ -222,11 +222,13 @@ The escalation pattern is specific to Fallow: it is not a generic breach event. 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Fallow Requiem
+### M.A.W. Weapon — The Rusted Chronometer
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
+Appearance : An antique brass pocket chronometer twenty centimeters wide hovering at shoulder height, its three hands turning counter-clockwise against an enamel dial cracked with age.
+
+The chronometer ticks with loud, rhythmic mechanical clicks that echo through silent chambers. Activating the crown creates a localized time-dilation bubble that slows down hostile strike speeds.
 
 **Damage:** Lament 3–6
 **Speed:** 2 (Normal)

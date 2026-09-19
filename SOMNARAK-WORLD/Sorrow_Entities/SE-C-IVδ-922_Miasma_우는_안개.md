@@ -164,11 +164,13 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
 
-### M.A.W. Weapon — Miasma's Edge
+### M.A.W. Weapon — The Threshold Ward-Staff
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a single-edged blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
+Appearance : A stout six-foot staff turned from seasoned white oak, capped with an oversized four-toothed bronze keyhead that doubles as a heavy bludgeoning crown and door-lever.
+
+Planted across doorways or narrow corridors, the staff establishes an impenetrable warding barrier that prevents lesser entities from passing. In melee, the keyhead delivers bone-cracking swings.
 
 **Damage:** Lament 11–20
 **Speed:** 2 (Normal)

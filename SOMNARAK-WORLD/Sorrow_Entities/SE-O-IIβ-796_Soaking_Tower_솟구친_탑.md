@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Tower Requiem
+### M.A.W. Weapon — The Sinking Chime-Tower
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+Appearance : A portable tier of four graduated bronze bells mounted on a curved wrought-iron stand with a central carrying handle, each bell tuned to a descending minor fourth harmonic.
+
+Ringing the bells in descending order unleashes an acoustic resonance wave that forces airborne sorrow entities downward, pinning them to the floor under simulated atmospheric pressure.
 
 **Damage:** Lament 5-9
 **Speed:** 2 (Normal)

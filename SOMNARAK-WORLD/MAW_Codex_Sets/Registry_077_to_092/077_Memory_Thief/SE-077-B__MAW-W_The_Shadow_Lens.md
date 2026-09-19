@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Shadow Lens
+# M.A.W. WEAPON — The Umbral Pepperbox
 
 > *“If you cannot state who you are before drawing it, you should not draw it.”*
 
@@ -56,7 +56,9 @@
 
 ### Appearance
 
-The Shadow Lens is a pale, almost opaque disc of Han glass set in a plain black frame at the top of a short handle. In daylight it appears empty and grey, but when the bearer names three ordinary facts about themselves in front of a witness, a faint aperture opens at its centre. The Lens releases a narrow pale strike that disrupts a target's immediate ability to attach one active label to the correct thing, and a thin ring of light marks each use. The handle is unmarked, with a small tether ring and a flat wooden rest. It never opens for a bearer who claims nothing about them matters; it turns opaque and removes their certainty about the assigned exit route until a partner grounds them. The glass is wiped only with a dry archive cloth. The lens is kept in its opaque case when not drawn, and the aperture closes on its own once the paired witness has confirmed the assigned route.
+Appearance : A six-barreled revolving pepperbox pistol forged from gunmetal and stained walnut, featuring fluted rotating barrels, a ring trigger, and an enclosed underhammer percussion mechanism.
+
+The barrels rotate manually after each discharge, cycling paper cartridges packed with solidified shadow-powder. Firing produces muffled pops accompanied by expanding ink-black smoke that shrouds the firer's silhouette.
 
 ### Basic attack— *Misplaced Name*
 

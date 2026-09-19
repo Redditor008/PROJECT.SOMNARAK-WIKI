@@ -180,11 +180,13 @@ The escalation pattern is specific to Holdout: it is not a generic breach event.
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Ruin Fang
+### M.A.W. Weapon — The Mercy Broadsword
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+Appearance : A wide, double-edged arming sword forged from silvered steel, measuring ninety-five centimeters overall with a cruciform crossguard, rounded disc pommel, and a supple black leather wire-bound grip.
+
+The central fuller runs two-thirds of the blade, engraved with four ceremonial mercy seals in Old Script. Under impact, the blade dampens acoustic resonance, striking with dull, cushioned concussions rather than sharp ringing.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)

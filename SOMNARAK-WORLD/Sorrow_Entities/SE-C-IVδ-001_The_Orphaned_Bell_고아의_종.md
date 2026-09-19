@@ -221,11 +221,13 @@ The escalation pattern is specific to The Orphaned Bell: it is not a generic bre
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Lament's Requiem
+### M.A.W. Weapon — The First Dawn Stiletto
 
-**Category:** MELEE (Resonating Greatsword) | **Grade:** δ | **Element:** Lament
+**Category:** SHORT BLADE (Micro-Serrated Dawn Stiletto)
 
-**Appearance:** A slender, two-handed greatsword forged from resonant deep-blue Han-crystal, ground so thin that its edge appears weightless until brought against grief. Beneath the translucent crystalline plane, microscopic records of lost names drift in the rhythmic cadence of a distant toll. A soundless acoustic channel runs along the spine, glowing cold cerulean whenever recent loss is detected nearby. When swung, it displaces no air; rather, an unearthly toll echoes within the minds of all observers in the corridor.
+Appearance : A delicate eight-inch thrusting stiletto forged from gold-tinted celestial alloy, tapering into a needle point with microscopic diamond serrations along its dual cutting edges.
+
+The weapon absorbs darkness, emitting a faint warm luminescence that glimmers like early twilight. Piercing strikes discharge concentrated radiant pulses that temporarily blind adjacent hostiles and sear shadow-tainted matter.
 
 **Damage:** Lament 12–18
 **Speed:** 2 (Slow)

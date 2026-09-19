@@ -164,11 +164,13 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
 
-### M.A.W. Weapon — Endless Shift's Edge
+### M.A.W. Weapon — The Corrosion Cutlass
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a single-edged blade of black Han-steel, matte and unnaturally heavy, that pulses with the source sorrow when drawn.
+Appearance : A curved naval hanger with a broad twenty-eight inch single-edged blade showing deep rust pitting, protected by an ornate pierced brass basket hilt lined with sharkskin.
+
+Despite its corroded appearance, the cutting edge is polished to razor sharpness. The cutlass thrives in close-quarters skirmishing, deflecting enemy blows easily with its sturdy basket.
 
 **Damage:** Weight 11–19 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels weight weight sorrow in each strike — the weapon does not cut flesh so much as cut at the weight register of the target's grief.

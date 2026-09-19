@@ -223,11 +223,13 @@ The escalation pattern is specific to The Final Door: it is not a generic breach
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Unknown — No Extraction Lens
+### M.A.W. Weapon — The Redacted Hand-Cannon
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that hums faintly when gripped.
+Appearance : A massive break-action hand-cannon crafted from matte black ordnance steel, equipped with an oversized cylindrical chamber, walnut grip, and an optical prism lens mounted directly above the breech.
+
+The rifled barrel accepts heavy caliber lead-jacketed void rounds. Discharging the weapon generates tremendous recoil absorbed by pneumatic cylinder pistons, leaving a lingering smell of burnt ozone and sulfur.
 
 **Damage:** Void 10–15
 **Speed:** 3 (Fast)

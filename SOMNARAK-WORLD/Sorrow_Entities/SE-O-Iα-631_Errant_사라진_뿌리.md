@@ -168,11 +168,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Rootless Maul
+### M.A.W. Weapon — The Uprooted Great-Cleaver
 
 **Type:** Weapon | **Grade:** α | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that pulses with the source sorrow when drawn.
+Appearance : A monstrous three-foot chopping cleaver forged from rough-cut iron plate, hafted onto a naturally curved gnarled tree root that provides a secure, two-handed shock-absorbing grip.
+
+Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mass to split through heavy shields and bone carapaces. The rough iron bevel is ground with aggressive serrations.
 
 **Damage:** Weight 3–6
 **Speed:** 2 (Normal)

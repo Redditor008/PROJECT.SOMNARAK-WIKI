@@ -168,11 +168,13 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Ruin Requiem
+### M.A.W. Weapon — The Ruin Astral-Disc
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+Appearance : A floating circular bronze disc forty centimeters wide, etched with astronomical constellations and three concentric revolving calendar rings that hover horizontally before the wielder.
+
+The disc projects blue astral light beams along its orbital edges that illuminate invisible sorrow entities. Aligning the rings creates an impenetrable shield against incoming elemental projectiles.
 
 **Damage:** Lament 10–15
 **Speed:** 3 (Fast)

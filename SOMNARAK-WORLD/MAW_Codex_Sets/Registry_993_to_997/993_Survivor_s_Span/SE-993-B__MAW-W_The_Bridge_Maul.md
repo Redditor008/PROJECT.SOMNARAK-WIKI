@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Bridge Maul
+# M.A.W. WEAPON — The Arch-Span Orrery
 
 > *“The Bridge Maul remembers Survivor's Span; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Bridge Maul is the weapon record of the Survivor's Span set — β-grade, Weight- aligned, striking at 5–9 Weight in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability deals Weight damage against the Han, sorrow reserves and karmic debt, channeling the Span's weight signature. Binding names the source event — a tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear — and accepts the set's limit: do not blame the worker; share the names of those lost. The cost accumulates: the wielder feels progressively heavier, and prolonged use ages them slightly. The source-trace fixed doctrine: pressed, the broken spans strike the tunnel walls, the collapse rehearsing itself, and the Maul witnesses the hazard only after attribution to Survivor's Span. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : A levitating architectural miniature depicting a Romanesque stone arch bridge, whose polished granite keystone hovers two inches above the piers on magnetic tension fields.
+
+Displacing the keystone creates an invisible gravitational tension bridge across open chasms. The model absorbs incoming kinetic shocks, redistributing pressure harmlessly into the earth.
 
 ## CORE STATISTICS
 

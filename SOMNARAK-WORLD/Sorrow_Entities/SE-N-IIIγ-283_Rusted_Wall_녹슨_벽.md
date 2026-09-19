@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Rust Wall Maul
+### M.A.W. Weapon — The Rust-Wall Halberd
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
+Appearance : A heavy seven-foot polearm mounting a broad axe blade, a reinforced back-hook, and a four-edged top spike, all heavily coated in dark orange oxidation and secured to an oak haft.
+
+The heavy head is reinforced with dual steel langets extending eighteen inches down the haft. The square back-hook allows the bearer to snag shields and demolish reinforced timber palisades.
 
 **Damage:** Weight 7-12
 **Speed:** 3 (Fast)

@@ -164,11 +164,13 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.
 
-### M.A.W. Weapon — Amnesia's Edge
+### M.A.W. Weapon — The Driftglass Harpoon-Pike
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a single-edged blade of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+Appearance : An eight-foot sea-pike fashioned from salted driftwood, mounting a four-fluked spearhead made of sea-smoothed green bottle glass secured with waxed twine and brass pins.
+
+The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen upon withdrawal. A twenty-foot braided line attached to the shaft prevents struck quarry from escaping.
 
 **Damage:** Void 11–22 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
 **Ability:** Channels void void sorrow in each strike — the weapon does not cut flesh so much as cut at the void register of the target's grief.

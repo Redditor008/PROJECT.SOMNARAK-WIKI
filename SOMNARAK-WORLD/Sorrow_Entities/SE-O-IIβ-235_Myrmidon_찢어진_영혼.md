@@ -168,11 +168,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Myrmidon's Fang
+### M.A.W. Weapon — The Torn Spirit-Urn
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that glows along its edge when readied.
+Appearance : A delicate white porcelain funerary vessel thirty centimeters tall, decorated with cracked blue willow patterns and covered by a loose pewter lid that rattles with internal steam.
+
+The urn continuously condenses cold sorrow-dew on its exterior surface, which trickles down into a collection tray. Splashing this condensation onto berserk entities pacifies their aggressive hostility.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)

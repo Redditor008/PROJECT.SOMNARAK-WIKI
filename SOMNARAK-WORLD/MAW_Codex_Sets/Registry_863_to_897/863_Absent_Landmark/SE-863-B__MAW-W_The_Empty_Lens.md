@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Empty Lens
+# M.A.W. WEAPON — The Sunken Culverin
 
 > *“The Empty Lens remembers Absent Landmark; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Empty Lens of Absent Landmark’s set is a Void instrument attacking the Soul by channeling the source’s void signature into the strike. Binding is testimonial: the bearer names Absent Landmark’s event — an Old Lament tower collapsed and was cleared, but the district continued looking for its shape — and accepts the set’s limit: record its former location; do not attempt to rebuild it around the entity. The operational cost is the Void standard: the wielder loses small, nameless memories with each use, and continued use makes the sorrow feel autobiographical — the district’s searching gaze becoming the wielder’s own habit of looking for what is gone. The source-trace fixed doctrine with a physical warning: the ground pulls the weapon downward — the absence itself drawing the blade toward the cleared foundation. The weapon discharges the immediate hazard only after attribution to Absent Landmark; treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : A heavy, cast-bronze naval culverin dredged from flooded depths, featuring dark verdigris patina, reinforced reinforcing rings, a flared muzzle, and a handheld iron tiller grip.
+
+The bore discharges pressurized slugs of dense, compressed Void-water that disintegrate on impact with explosive sonic booms. Salt crust and wet silt continuously flake from the carriage during chamber venting.
 
 ## CORE STATISTICS
 

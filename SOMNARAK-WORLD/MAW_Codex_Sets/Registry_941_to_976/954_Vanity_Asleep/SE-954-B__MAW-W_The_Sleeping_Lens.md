@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Sleeping Lens
+# M.A.W. WEAPON — The Somnolent Trench-Rifle
 
 > *“The Sleeping Lens remembers Vanity Asleep; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Sleeping Lens is the weapon record of the Vanity Asleep set — γ-grade, Void- aligned, striking at 7–12 Void at fast speed and medium range in a pierce pattern, three uses at 40 Sorrow Echoes each — and its canonical ability deals Void damage against the Soul, identity, memory, and sense of self, channeling Vanity Asleep's void signature. Binding names the source event — citizens repeatedly avoided their own reflection after loss, and the denied self became a sleeping presence — and accepts the set's limit: do not wake it by force; look at the reflected self without turning away. The cost is quiet attrition: the wielder loses small, nameless memories with each use. The source-trace fixed doctrine: pressed, its reflection fractures into hostile versions of the worker, and the Lens marks the hazard only after attribution to Vanity Asleep. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : A rugged bolt-action service rifle fitted with a thirty-inch blued barrel, full-length wooden stock, brass butt-plate, and an extended five-round detachable box magazine.
+
+The weapon cycles low-velocity lead projectiles filled with condensed narcotic vapor. The report is low and throaty, leaving behind a faint lavender fog that dulls the senses of nearby combatants.
 
 ## CORE STATISTICS
 

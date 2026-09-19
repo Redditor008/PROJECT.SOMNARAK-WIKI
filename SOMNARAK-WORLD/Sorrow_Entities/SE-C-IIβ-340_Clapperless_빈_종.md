@@ -204,9 +204,9 @@ The escalation pattern is specific to Clapperless: it is not a generic breach ev
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Clapperless Chime-Sceptre
+### M.A.W. Weapon — The Cryo-Relic Lance
 
-**Category:** MAGIC (Resonant Chime-Sceptre & Silver Striker)
+**Category:** POLEARM (Prehistoric Frosted Rime Lance)
 **Grade:** β | **Element:** Void
 **Damage:** Void 6–10
 **Speed:** 4 (Fast)
@@ -219,7 +219,9 @@ The escalation pattern is specific to Clapperless: it is not a generic breach ev
 **Falloff Rule:** 100% direct damage to primary, 60% sonic disruption to secondary targets.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Appearance:** A slender sceptre of polished silver topped with an inverted hollow bronze bell that entirely lacks a clapper. A delicate silver tuning striker accompanies it. Tapping the bell generates inaudible ultrasonic pulses that pierce directly into the target's psychic core.
+Appearance : An eight-foot ceremonial lance carved from pale mammoth ivory, tipped with a triangular spearhead of prehistoric glacier ice that remains permanently frozen in ambient temperatures.
+
+The lance point radiates an intense aura of sub-zero cold that freezes moisture on contact. Thrusting into targets causes immediate frostbite and shatters brittle chitin plates.
 
 **Ability:** *Hollow Toll* — Deals Void damage at Range 3. Ultrasonic resonance bypasses physical armor to disorient enemies, applying mental tremor and reducing target defense.
 
@@ -227,7 +229,7 @@ The escalation pattern is specific to Clapperless: it is not a generic breach ev
 
 ### M.A.W. Suit — The Resonance-Dampening Shroud
 
-**Category:** Protective Attire (Quilted Linen Shroud & Silver Threading)
+**Category:** POLEARM (Prehistoric Frosted Rime Lance)
 **Grade:** β | **Element:** Void
 
 **Appearance:** A hooded shroud woven from multi-layered acoustic-dampening linen interwoven with silver thread that grounds harmonic shock.
@@ -246,7 +248,7 @@ The escalation pattern is specific to Clapperless: it is not a generic breach ev
 
 ### M.A.W. Gift — The Hollow Bell Pendant
 
-**Category:** Stigma (Silver Chime Pendant)
+**Category:** POLEARM (Prehistoric Frosted Rime Lance)
 **Grade:** β | **Element:** Void
 
 **Appearance:** A miniature hollow silver chime worn around the throat that swings silently without ringing.

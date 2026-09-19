@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Rusted Lens
+# M.A.W. WEAPON — The Corrosion Cutlass
 
 > *“The Rusted Lens remembers Corrosion Dream; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Rusted Lens is the weapon record of the Corrosion Dream set — γ-grade, Void- aligned, striking at 7–12 Void at fast speed and medium range in a pierce pattern, 100% to the primary and 70% and 50% to the targets behind, three uses at 40 Sorrow Echoes each — and its canonical ability deals Void damage against the Soul, identity, memory, and sense of self, channeling Corrosion Dream's void signature. Binding names the source event — a bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion — and accepts the set's limit: do not promise reunion; name both the crossing and the loss. The cost is quiet attrition: the wielder loses small, nameless memories with each use. The source-trace fixed doctrine: the bridge plates twist into defensive edges when pressed, and the Lens interrupts the hazard only after attribution to Corrosion Dream. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first- person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : A curved naval hanger with a broad twenty-eight inch single-edged blade showing deep rust pitting, protected by an ornate pierced brass basket hilt lined with sharkskin.
+
+Despite its corroded appearance, the cutting edge is polished to razor sharpness. The cutlass thrives in close-quarters skirmishing, deflecting enemy blows easily with its sturdy basket.
 
 ## CORE STATISTICS
 

@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — Amnesia's Edge
+# M.A.W. WEAPON — The Driftglass Harpoon-Pike
 
 > *“Amnesia's Edge remembers Amnesia; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-Amnesia's Edge is the weapon record of the Amnesia set — β-grade, Void-aligned, striking at 11–22 Void in a single-target pattern for 25 Sorrow Echoes a use — and its canonical ability channels void sorrow in its own register: the blade cuts at absence itself, grief for something that can no longer be named. Binding names Amnesia's event — Not recorded, and here the blank is the wound: a forgetting so complete it survives as a time of its own — and accepts the standard containment limit: reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The cost is mild memory fragmentation with each use, the wielder paying the weapon in its own currency. The source-trace fixed doctrine: the time-manifestation gave no transcribable field response, and the Edge redirects the hazard only after attribution to Amnesia. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : An eight-foot sea-pike fashioned from salted driftwood, mounting a four-fluked spearhead made of sea-smoothed green bottle glass secured with waxed twine and brass pins.
+
+The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen upon withdrawal. A twenty-foot braided line attached to the shaft prevents struck quarry from escaping.
 
 ## CORE STATISTICS
 

@@ -198,11 +198,13 @@ The escalation pattern is specific to Floating Tree: it is not a generic breach 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Floating Root
+### M.A.W. Weapon — The Suspended Root-Pike
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a root-gripped club of deep-blue Han-crystal, cool and faintly luminous, that glows along its edge when readied.
+Appearance : An eight-foot thrusting pike carved from deep ironwood, bound with living green creeper vines that tighten around the bearer's forearm, ending in a broad four-edged leaf pike.
+
+The living vines absorb emotional recoil, anchoring the wielder against heavy impacts. Thrusting forward causes the tip to extend three inches on fibrous muscular tendrils, penetrating deep defenses.
 
 **Damage:** Lament 7-12
 **Speed:** 3 (Fast)

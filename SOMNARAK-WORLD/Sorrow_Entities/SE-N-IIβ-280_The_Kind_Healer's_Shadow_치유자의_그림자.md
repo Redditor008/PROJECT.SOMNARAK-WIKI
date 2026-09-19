@@ -168,11 +168,13 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Healer's Requiem
+### M.A.W. Weapon — The Surgeon's Cleaver
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that hums faintly when gripped.
+Appearance : A needle-pointed triangular stiletto forged from cold, unpolished surgical steel, measuring twenty-two centimeters with a dark bronze teardrop pommel and braided mourning-thread grip.
+
+The three-edged blade is etched with micro-capillary fullers that siphon condensing Lament beads toward the guard. When readied, the weapon emits a faint, sorrowful hum while tiny frost-rings form along the edges.
 
 **Damage:** Lament 5–9
 **Speed:** 2 (Normal)
@@ -193,14 +195,10 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-**Appearance:** a wrapping shroud of deep-blue Han-silk, cool and faintly luminous, that settles cold against the skin.
+Appearance : A broad rectangular surgical cleaver made from rustless hospital-grade steel, boasting a razor-honed flat cutting edge, rounded spine, and an ebony scales handle secured by brass rivets.
 
-**Resistances:**
-- Lament: 0.4 (Resistant)
-- Grudge: 1 (Normal)
-- Void: 1.6 (Weak)
-- Weight: 0.8 (Endured)
-**Max Amount:** 4
+The mirror-polished blade reflects no ambient distortion, remaining clinically sterile even after multiple strikes. It severs dense fibrous tissue and cartilage with effortless precision.
+
 **Cost:** 20 Sorrow Echoes
 
 **Ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The Kind Healer's Shadow's kind of pressure.

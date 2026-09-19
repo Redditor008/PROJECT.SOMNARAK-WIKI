@@ -168,11 +168,13 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Soul Requiem
+### M.A.W. Weapon — The Forgotten Carbine
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+Appearance : A vintage lever-action saddle carbine with an octagonal blued steel barrel, brass receiver, and a custom buttstock carved from weathered animal bone and wrapped in sinew.
+
+The tubular magazine holds six rounds of hand-cast silver-lead ammunition. Operating the smooth underlever ejects spent brass with crisp mechanical precision, maintaining a rapid fire rate.
 
 **Damage:** Lament 7-12
 **Speed:** 3 (Fast)

@@ -204,9 +204,9 @@ The escalation pattern is specific to Debt Collector's Lantern: it is not a gene
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Collector's Vigil-Lantern
+### M.A.W. Weapon — The Vigil Hand-Cannon
 
-**Category:** RANGE (Optical Projection / Directional Lantern Beam)
+**Category:** GUN (Flared Bronze Lantern Hand-Cannon)
 **Grade:** β | **Element:** Weight
 **Damage:** Weight 6–10
 **Speed:** 3 (Normal)
@@ -215,7 +215,9 @@ The escalation pattern is specific to Debt Collector's Lantern: it is not a gene
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Appearance:** An octagonal hand-lantern forged from tarnished brass and lead plates, encasing frosted quartz lenses held by blackened copper rivets. Suspended from a counterbalanced brass chain and fitted with an adjustable aperture ring, it burns not with combustion, but with a floating ember of pale, cold ash-light. When raised, it projects a focused beam of pale white-gold sorrow light across distance. Targets caught in the beam feel invisible ledgers pressing against their chest, and their footfalls ring like falling lead coins against wet stone.
+Appearance : A flared-muzzle bronze hand-cannon incorporating a glass lantern chamber beneath the barrel, ignited by an enclosed wheel-lock mechanism and operated via a curved finger lever.
+
+The cannon fires incandescent phosphor pellets that illuminate dark chambers with blinding golden flare. The flame inside the underbarrel lantern flickers in rhythm with nearby sorrow activity.
 
 **Ability:** *Ledger's Illumination* — Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Projects a focused beam of heavy light across Range 4 (4–8m), exposing hidden karmic burdens and halving target movement speed as the weight of their debt anchors their feet to the ground.
 
@@ -223,7 +225,7 @@ The escalation pattern is specific to Debt Collector's Lantern: it is not a gene
 
 ### M.A.W. Suit — The Collector's Oilskin Trench-Coat
 
-**Category:** Protective Attire (Heavy Oilskin Coat & Lead-Weighted Stole)
+**Category:** GUN (Flared Bronze Lantern Hand-Cannon)
 **Grade:** β | **Element:** Weight
 
 **Appearance:** A stiff, ankle-length oilskin trench-coat in faded midnight black, lined with lead-weighted hem plates and stamped with faint, bureaucratic tax seals. The collar is high and reinforced with brass wire, shielding the wearer from ambient sorrow fallout.
@@ -242,7 +244,7 @@ The escalation pattern is specific to Debt Collector's Lantern: it is not a gene
 
 ### M.A.W. Gift — Pale Wick Stigma
 
-**Category:** Stigma (Ocular Relic Mark)
+**Category:** GUN (Flared Bronze Lantern Hand-Cannon)
 **Grade:** β | **Element:** Weight
 
 **Appearance:** The bearer's right pupil takes on the appearance of a smoldering, heatless lantern wick that glows with a faint white ember in darkness, faintly outlining the karmic debts of nearby entities.

@@ -181,11 +181,13 @@ The escalation pattern is specific to Broken Door: it is not a generic breach ev
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Broken Fang
+### M.A.W. Weapon — The Broken Lintel-Dagger
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
+Appearance : A heavy seven-inch chisel-bladed fighting dagger forged from an antique threshold pivot pin, featuring a square ground tip, thick quarter-inch spine, and an iron knuckle bow.
+
+Engineered for brutal close-quarters puncturing, the chisel tip punches cleanly through heavy armor plating and door locks. The notched ricasso serves as an effective blade-catcher against enemy knives.
 
 **Damage:** Grudge 5-9
 **Speed:** 2 (Normal)

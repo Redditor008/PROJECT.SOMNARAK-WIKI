@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Returning Lens
+### M.A.W. Weapon — The Reverberant Spear
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that hums faintly when gripped.
+Appearance : A six-foot thrusting spear cast from bell-metal bronze, featuring a hollow fluted blade with lateral acoustic slots and an ash shaft wrapped in damp cordage.
+
+Moving the spear through the air produces whistling harmonic frequencies that disorient hostile hearing. Thrusting into solid obstacles releases an ear-piercing sonic crack that destabilizes balance.
 
 **Damage:** Void 10–15
 **Speed:** 3 (Fast)

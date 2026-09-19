@@ -168,11 +168,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Graveweed Requiem
+### M.A.W. Weapon — The Graveweed Needle-Rifle
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that hums faintly when gripped.
+Appearance : A slender pneumatic target rifle constructed from dark ebony wood and brass fittings, mounting a thirty-two inch micro-bore barrel and an under-barrel compressed air reservoir.
+
+The rifle discharges sixteen-inch hardened root needles poisoned with botanical paralytics. Firing is practically noiseless, creating a tiny air puff while delivering surgical long-range stopping power.
 
 **Damage:** Lament 3-6
 **Speed:** 2 (Normal)

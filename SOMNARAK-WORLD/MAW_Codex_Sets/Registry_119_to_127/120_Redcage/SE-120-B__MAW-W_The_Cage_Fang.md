@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Cage Fang
+# M.A.W. WEAPON — The Wrath-Ember Censer
 
 > *“It can cut an active bar. It cannot make the bearer judge, jury, and release order all at once.”*
 
@@ -56,7 +56,9 @@
 
 ### Appearance
 
-The Cage Fang is a crimson trap-jaw of Han iron: two short, broad barred jaws hinged like a cage mouth and held open at rest, with a ridge along the back of the hinge that closes when the bearer draws it for revenge rather than release. The bars are thick and unpolished, and the hinge grip is wrapped in dark cord over a ridged core with an open ridge line at the guard. The Fang sends a crimson Pierce line through a coercive lock, restraint, or active Grudge barrier, damaging structure and making a release route visible where one actually exists. When the bearer identifies a real exit and an authority prepared to receive the person beyond it, the full line breaks the unjust barrier without transferring confinement to another target. If no safe route exists, the Fang refuses to cut and projects the cage's pressure back into the bearer's stance. It is stored beside a route map showing both the barrier and the support beyond it.
+Appearance : A heavy cast-iron censer bristling with conical iron spikes, suspended from four heavy chains, housing volcanic pumice rocks soaked in boiling Grudge distillate.
+
+The thurible vents continuous streams of scalding sulfurous steam that burn organic flesh. In close melee, swinging the spiked iron censer inflicts severe bludgeoning and thermal trauma.
 
 ### Basic attack— *Open Bar*
 

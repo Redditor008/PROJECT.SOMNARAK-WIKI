@@ -192,11 +192,13 @@ The escalation pattern is specific to The Maw: it is not a generic breach event.
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Cheongula — Devouring Jaw
+### M.A.W. Weapon — The First Dawn Stiletto
 
-**Category:** PRIMAL (Snapping Jaw / Serrated Bone-Saw) | **Grade:** ω | **Element:** Grudge
+**Category:** SHORT BLADE (Micro-Serrated Dawn Stiletto)
 
-**Appearance:** A terrifying, colossal scissor-jaw armament constructed from ossified mandibles, calcified teeth, and serrated black-iron bone-saws. Three rows of human-like molars grind together continuously along the inner shearing edge, while the outer spine is formed from jagged, interlocking vertebrae. When swung, the jaws snap violently shut with bone-splintering force, chewing into flesh, armor, and concrete alike while emitting the wet, ravenous chittering of thousands of starving mouths.
+Appearance : A delicate eight-inch thrusting stiletto forged from gold-tinted celestial alloy, tapering into a needle point with microscopic diamond serrations along its dual cutting edges.
+
+The weapon absorbs darkness, emitting a faint warm luminescence that glimmers like early twilight. Piercing strikes discharge concentrated radiant pulses that temporarily blind adjacent hostiles and sear shadow-tainted matter.
 
 **Damage:** Grudge 22–34
 **Speed:** 2 (Slow)

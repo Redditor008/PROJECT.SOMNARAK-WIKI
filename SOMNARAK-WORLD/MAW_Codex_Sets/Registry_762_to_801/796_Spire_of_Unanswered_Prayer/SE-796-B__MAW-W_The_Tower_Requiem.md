@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Tower Requiem
+# M.A.W. WEAPON — The Sinking Chime-Tower
 
 > *“The Tower Requiem remembers Spire of Unanswered Prayer; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Tower Requiem is the weapon record of the Spire of Unanswered Prayer’s set, a Lament instrument attacking the Mind by channeling the source’s lament signature into the strike. Binding is testimonial: the bearer names the source event — a Desolate community vanished beneath a Han surge, and survivors carried its tower-song into the city — and accepts the set’s limit: listen to the song; do not silence it. The operational cost is the Lament standard: the wielder feels the entity’s unwept grief, prolonged use causes involuntary weeping, and continued use makes the sorrow feel autobiographical — the drowned settlement’s hymn rehearsing itself in the wielder’s memory as if learned in childhood. The source-trace fixed the doctrine: when the voice became a storm of hot tears, the weapon uncoupled the immediate hazard only after the team attributed it to the Spire — and treating the response as the bearer’s own story reproduced the source wound, establishing the present binding rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the source Gauge.
+Appearance : A portable tier of four graduated bronze bells mounted on a curved wrought-iron stand with a central carrying handle, each bell tuned to a descending minor fourth harmonic.
+
+Ringing the bells in descending order unleashes an acoustic resonance wave that forces airborne sorrow entities downward, pinning them to the floor under simulated atmospheric pressure.
 
 ## CORE STATISTICS
 

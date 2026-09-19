@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Frozen Fang
+# M.A.W. WEAPON — The Glacial Stiletto
 
 > *“It can crack a held breath open. It must never be used to force a person past the point where they need to stop.”*
 
@@ -41,7 +41,9 @@
 
 ## Appearance
 
-The Frozen Fang is a crimson fang blade with frost-like fractures across its edge and a cold exhale trapped under the guard. The Fang will not draw until a relief person and a stop condition are named. In active use the fractures open along a sharp red line, releasing a visible breath from the target pressure. At full activation, the Fang breaks a high-pressure continuation loop across up to three aligned targets, giving them a safe interval to release breath, posture, or command. The bearer accepts that a relief person may command immediate withdrawal. Old wounds ache and prolonged use leaves crimson bruising. Every activation requires a verified stop or rest plan. The Fang remains frosted until the bearer completes relief. The Fang is stored only after an actual exhale and handoff, never after a promise to rest later. A bearer who uses the Fang to demand more effort from an exhausted person receives the blade’s cold Grudge through their own chest and cannot activate it again that day. The relief person covers the fractured edge, states the stop condition, and releases the grip clasp during shutdown.
+Appearance : An eight-inch triangular thrusting blade machined from cryogenic tungsten-carbide, featuring a hollow ground profile and a hilt completely wrapped in thermally insulated leather.
+
+The blade operates at near zero kelvin, causing moisture in the air to sublimate upon contact with the metal. Puncturing strikes cause immediate thermal shock and crystalline tissue embrittlement.
 
 ## CORE STATISTICS
 

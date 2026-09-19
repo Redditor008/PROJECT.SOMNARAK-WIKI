@@ -180,11 +180,13 @@ The escalation pattern is specific to Tower Erased Overnight: it is not a generi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Vanished Fang
+### M.A.W. Weapon — The Vanished Spire-Orrery
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+Appearance : A floating bronze architectural miniature representing a four-sided Gothic belltower forty centimeters tall, whose clock dials rotate counter-clockwise while its bell tolls silently.
+
+The miniature tower hovers alongside the bearer, projecting a localized temporal distortion field that slows the velocity of incoming enemy strikes, granting extra reaction time.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)

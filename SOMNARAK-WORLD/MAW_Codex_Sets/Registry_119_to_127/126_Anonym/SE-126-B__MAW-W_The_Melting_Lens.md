@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Melting Lens
+# M.A.W. WEAPON — The Liquefying Hand-Cannon
 
 > *“It finds the point where a self is dissolving. It may not decide which shape the self should keep.”*
 
@@ -41,7 +41,9 @@
 
 ## Appearance
 
-The Melting Lens is a thin, pale-white blade of Han glass cut so narrowly that its edge softens and reforms while it is being looked at. The surface carries no engraving and no fixed label, and in rest the lens appears almost translucent in ordinary light. Against a fragmenting self-image the edge traces a single pale line around the outline without closing it into a fixed shape, holding the boundary for one breath while the target names a present choice. The grip is short and flexible, wrapped in pale cord over a soft core, and it loses a fixed shape when the bearer tries to force someone back into an imposed identity. The weapon only hardens after the bearer states their current chosen name before a chosen-name witness, a recognition requirement written into the bind. Each strike cuts early identity erosion with a small Void pressure, and a small nameless memory leaves the bearer with every use. It is dried with a clean cloth, never engraved, and rests in a flexible case sleeve. If the witness cannot recognize the bearer's current response, the edge melts around the grip and the bearer cannot state their own present choice until that same witness restores the chosen name.
+Appearance : A heavy cast-iron hand-cannon with a ten-inch smoothbore barrel, whose exterior surfaces constantly exude a thin film of molten, cooling candle wax and congealed tallow.
+
+The weapon fires solid balls of compressed, burning tallow that splatter across targets upon impact, adhering tenaciously and burning with stubborn white flame that resists water extinguishing.
 
 ## CORE STATISTICS
 

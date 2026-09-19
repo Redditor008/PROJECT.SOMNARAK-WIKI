@@ -168,11 +168,13 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Fallen Requiem
+### M.A.W. Weapon — The Ruined Bastion-Pike
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that hums faintly when gripped.
+Appearance : An imposing ten-foot ash pike shod in rusted iron bands, mounting a leaf-shaped blade beneath a frayed, blood-stained military swallowtail pennant from a forgotten regiment.
+
+The pike's length holds large sorrow entities at bay outside claw reach. The tattered guidon flutters vigorously even in still subterranean chambers, broadcasting defiant resolve.
 
 **Damage:** Lament 10-15
 **Speed:** 3 (Fast)

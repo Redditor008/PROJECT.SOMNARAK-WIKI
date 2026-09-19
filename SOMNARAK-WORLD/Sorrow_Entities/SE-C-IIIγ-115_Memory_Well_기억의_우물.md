@@ -180,11 +180,13 @@ The escalation pattern is specific to Memory Well: it is not a generic breach ev
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Memory Lens
+### M.A.W. Weapon — The Shard-Storm Reel
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+Appearance : A suspended brass cable reel thirty centimeters wide hovering beside the wielder, guiding eight razor-edged fragments of mirror glass tethered by invisible filaments of sorrow-light.
+
+The central reel rotates smoothly, directing the floating glass shards in sweeping orbital arcs around the wielder. The shards slash passing hostiles while acting as an autonomous defensive perimeter.
 
 **Damage:** Void 7-12
 **Speed:** 3 (Fast)

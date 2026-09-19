@@ -180,11 +180,13 @@ The escalation pattern is specific to Bulwark: it is not a generic breach event.
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Bulwark Lens
+### M.A.W. Weapon — The Slumbering Wall-Gun
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
+Appearance : A massive five-foot fortress wall-gun with an octagonal iron barrel and heavy swivel pivot, stocked in dark ash and firing two-ounce lead balls ignited by a percussion cap.
+
+The weapon is intended to be rested on parapets or barricades to manage its ferocious recoil. Each shot penetrates through multiple targets in a straight file, shattering solid stone masonry.
 
 **Damage:** Void 3–6
 **Speed:** 2 (Normal)

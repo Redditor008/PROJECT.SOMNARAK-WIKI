@@ -168,11 +168,13 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Melting Requiem
+### M.A.W. Weapon — The Liquefying Zweihander
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
+Appearance : A five-foot two-handed greatsword with undulating flamberge wave edges, dual parrying hooks above the ricasso, and a steel ring-guard bound in damp, tarred canvas wrapping.
+
+The steel appears solid at rest but ripples visibly when swung, shedding droplets of cooling metallic slag. Striking hostile armor shears plates along irregular thermal fracture paths.
 
 **Damage:** Lament 7-12
 **Speed:** 3 (Fast)

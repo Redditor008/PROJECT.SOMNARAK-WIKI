@@ -204,11 +204,13 @@ The escalation pattern is specific to Frozen Shard: it is not a generic breach e
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Frozen Lens
+### M.A.W. Weapon — The Permafrost Awl
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
+Appearance : A slender leather-piercing awl fashioned from calcified whale bone, tapering to a needle-sharp point across seven inches with an ergonomic handle carved with rhythmic tally notches.
+
+The bone is cold to the touch and covered in permanent rime frost that does not melt under friction. Puncturing strikes produce microscopic ice needles inside target tissues, numbing motor function.
 
 **Damage:** Void 3-6
 **Speed:** 2 (Normal)

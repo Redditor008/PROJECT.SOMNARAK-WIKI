@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Severed Requiem
+### M.A.W. Weapon — The Severed Bond-Censer
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
+Appearance : A heavy spherical bronze thurible perforated with floral weeping motifs, suspended from three severed hemp cords and a central tarnished iron suspension ring.
+
+The lower chamber houses slow-smoldering cedar coals and powdered mourning herbs. Swinging the vessel releases dense, pale grey incense clouds that linger at chest height and muffle footfalls within five paces.
 
 **Damage:** Lament 3–6
 **Speed:** 2 (Normal)

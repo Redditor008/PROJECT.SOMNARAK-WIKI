@@ -190,11 +190,13 @@ The escalation pattern is specific to Brume: it is not a generic breach event. P
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Hope Lens
+### M.A.W. Weapon — The Horizon Blade
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that pulses with the source sorrow when drawn.
+Appearance : An elegant thirty-four inch arming sword featuring an open, sweeping bow-shaped crossguard, hollow ground double edges, and an azure enamel pommel depicting a clean horizon line.
+
+The blade is lightweight and perfectly balanced three inches ahead of the guard. It responds with exceptional speed, allowing for effortless parries and swift counter-thrusts in open spaces.
 
 **Damage:** Void 7–12
 **Speed:** 3 (Fast)

@@ -180,11 +180,13 @@ The escalation pattern is specific to Harvest Beyond the Gate: it is not a gener
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Melting Fang
+### M.A.W. Weapon — The Tallow Falchion
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that flickers with inner light.
+Appearance : A heavy, curved single-edged falchion whose blade flat is coated in hardened, semi-translucent candle tallow, terminating in a broad flared tip with an iron crossguard.
+
+The congealed tallow insulates the blade against electrical discharge while softening kinetic recoil. Slashing impacts leave sticky, slow-burning wax deposits that impede enemy joint movement.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)

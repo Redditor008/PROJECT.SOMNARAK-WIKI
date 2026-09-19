@@ -204,11 +204,13 @@ The escalation pattern is specific to Torn Relic: it is not a generic breach eve
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Torn Edge
+### M.A.W. Weapon — The Fracture Sundial
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a single-edged blade of crimson Han-iron, dark and faintly warm, that quivers when raised.
+Appearance : A circular stone sundial disc hovering horizontally at waist height, carved from fractured green slate with an angular triangular gnomon cast from unpolished meteorite iron.
+
+The dial casts a sharp, artificial shadow that rotates independently of actual overhead lighting. As the bearer approaches conflict, the gnomon projects a focused beam of razor-sharp shadow-light along the floor.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)

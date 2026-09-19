@@ -204,11 +204,13 @@ The escalation pattern is specific to Door to Nowhere: it is not a generic breac
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Door to Nowhere Fang
+### M.A.W. Weapon — The Threshold Ward-Staff
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that glows along its edge when readied.
+Appearance : A stout six-foot staff turned from seasoned white oak, capped with an oversized four-toothed bronze keyhead that doubles as a heavy bludgeoning crown and door-lever.
+
+Planted across doorways or narrow corridors, the staff establishes an impenetrable warding barrier that prevents lesser entities from passing. In melee, the keyhead delivers bone-cracking swings.
 
 **Damage:** Grudge 10-15
 **Speed:** 3 (Fast)

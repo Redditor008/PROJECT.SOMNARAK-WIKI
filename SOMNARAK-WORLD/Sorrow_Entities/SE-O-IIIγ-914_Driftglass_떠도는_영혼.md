@@ -204,11 +204,13 @@ The escalation pattern is specific to Driftglass: it is not a generic breach eve
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Driftglass Requiem
+### M.A.W. Weapon — The Driftglass Harpoon-Pike
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
+Appearance : An eight-foot sea-pike fashioned from salted driftwood, mounting a four-fluked spearhead made of sea-smoothed green bottle glass secured with waxed twine and brass pins.
+
+The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen upon withdrawal. A twenty-foot braided line attached to the shaft prevents struck quarry from escaping.
 
 **Damage:** Lament 7-12
 **Speed:** 3 (Fast)

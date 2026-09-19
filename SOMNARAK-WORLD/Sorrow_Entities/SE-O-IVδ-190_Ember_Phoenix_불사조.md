@@ -168,11 +168,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Rebirth Fang
+### M.A.W. Weapon — The Ash-Phoenix Culverin
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that hums faintly when gripped.
+Appearance : An ornate bronze hand-culverin with a flared muzzle cast in the shape of a screaming phoenix head, featuring red copper filigree and a heavy cherry-wood tiller stock.
+
+The culverin discharges volcanic fire-slugs wrapped in dense black soot that explode into roaring fireballs upon contact. The barrel vents billowing ember clouds after each shot, requiring careful handling.
 
 **Damage:** Grudge 10-15
 **Speed:** 3 (Fast)

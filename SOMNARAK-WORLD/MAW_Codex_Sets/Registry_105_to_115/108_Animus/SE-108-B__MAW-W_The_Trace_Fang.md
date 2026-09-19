@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Trace Fang
+# M.A.W. WEAPON — The Phantom Blade-Array
 
 > *“It can mark the heat of anger. It cannot tell you whom to burn for it.”*
 
@@ -56,7 +56,9 @@
 
 ### Appearance
 
-The Trace Fang is a long tracing needle of crimson Han iron, drawn out like an awl with a flattened eye set near the grip, and a red thread runs through the eye and winds around the grip, glowing only when a context note has been written with one known fact and one unknown. The point is slim and unpolished, and the shaft carries a faint residue mark near the guard. The Fang strikes a single target with weak Grudge output and identifies whether active fury is coming from the present interaction or from clinging residue of a past event. When the bearer states the evidence limit in front of a second observer, it separates one current threat response from inherited rage long enough for the team to act on what is happening. The red thread wraps the grip if the bearer names a culprit the residue does not establish. It is stored beside the unknown field. After each use the bearer reads the known fact and unknown field aloud with a second observer, and the fang is stored beside the unknown field rather than the conclusion.
+Appearance : Three identical six-inch throwing knives forged from translucent celestial crystal, levitating in a tight triangular formation before the wielder on silver astral threads.
+
+The knives respond instantly to telekinetic hand gestures, flying through the air to strike distant targets before returning to their hovering formation. They leave clean, bloodless incisions that bypass armor.
 
 ### Basic attack— *Residue Mark*
 

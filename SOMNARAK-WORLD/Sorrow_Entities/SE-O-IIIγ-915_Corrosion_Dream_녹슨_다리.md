@@ -168,11 +168,13 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Rusted Lens
+### M.A.W. Weapon — The Corrosion Cutlass
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that glows along its edge when readied.
+Appearance : A curved naval hanger with a broad twenty-eight inch single-edged blade showing deep rust pitting, protected by an ornate pierced brass basket hilt lined with sharkskin.
+
+Despite its corroded appearance, the cutting edge is polished to razor sharpness. The cutlass thrives in close-quarters skirmishing, deflecting enemy blows easily with its sturdy basket.
 
 **Damage:** Void 7-12
 **Speed:** 3 (Fast)

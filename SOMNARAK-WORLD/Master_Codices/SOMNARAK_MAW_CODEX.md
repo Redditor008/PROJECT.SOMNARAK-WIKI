@@ -188,7 +188,7 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 |148|Weapon|The Memory Requiem|[The Memory Rain](../Sorrow_Entities/SE-C-IIβ-250_The_Memory_Rain_기억의_비.md)|SE-C-IIβ-250| Weapon (REQUIEM — Resonant Blade) |β|Lament|
 |149|Suit|The Memory Umbrella|[The Memory Rain](../Sorrow_Entities/SE-C-IIβ-250_The_Memory_Rain_기억의_비.md)|SE-C-IIβ-250| Armor (Living Chitin & Carapace) |β|Lament|
 |150|Gift|The Memory Charm|[The Memory Rain](../Sorrow_Entities/SE-C-IIβ-250_The_Memory_Rain_기억의_비.md)|SE-C-IIβ-250| Accessory (Sorrow Charms & Talismans) |β|Lament|
-|151|Weapon|The Weeping Veil-Pavise & Tear Javelin|[The Veil of Tears](../Sorrow_Entities/SE-C-IIβ-280_The_Veil_of_Tears_눈물의_베일.md)|SE-C-IIβ-280| Weapon (SHORT BLADE — Stiletto/Awl) |β|Lament|
+|151|Weapon| The Weeping Stiletto |[The Veil of Tears](../Sorrow_Entities/SE-C-IIβ-280_The_Veil_of_Tears_눈물의_베일.md)|SE-C-IIβ-280| Weapon (SHORT BLADE — Stiletto/Awl) |β|Lament|
 |152|Suit|The Pallbearer's Layered Shroud|[The Veil of Tears](../Sorrow_Entities/SE-C-IIβ-280_The_Veil_of_Tears_눈물의_베일.md)|SE-C-IIβ-280| Armor (Shrouds, Veils & Peplos) |β|Lament|
 |153|Gift|The Weeping Veil Clip|[The Veil of Tears](../Sorrow_Entities/SE-C-IIβ-280_The_Veil_of_Tears_눈물의_베일.md)|SE-C-IIβ-280| Accessory (Brooches & Fasteners) |β|Lament|
 |154|Weapon|The Lost Lens|[The Broken Compass](../Sorrow_Entities/SE-C-IIβ-290_The_Broken_Compass_부서진_나침반.md)|SE-C-IIβ-290| Weapon (OPTICAL — Crystal/Lens) |β|Void|
@@ -332,7 +332,7 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 |292|Weapon|The Frozen Ruin Lens|[The Frozen Ruin](../Sorrow_Entities/SE-C-IVδ-668_The_Frozen_Ruin_얼어붙은_잔해.md)|SE-C-IVδ-668| Weapon (OPTICAL — Crystal/Lens) |δ|Void|
 |293|Suit|The Frozen Ruin Veil|[The Frozen Ruin](../Sorrow_Entities/SE-C-IVδ-668_The_Frozen_Ruin_얼어붙은_잔해.md)|SE-C-IVδ-668| Armor (Hauberks & Chain Mail) |δ|Void|
 |294|Gift|The Frozen Ruin Bracelet|[The Frozen Ruin](../Sorrow_Entities/SE-C-IVδ-668_The_Frozen_Ruin_얼어붙은_잔해.md)|SE-C-IVδ-668| Accessory (Floating Orbs & Coronets) |δ|Void|
-|295|Weapon|The Soul-Seeking Candelabrum|[The Vanished Flame](../Sorrow_Entities/SE-C-IVδ-763_The_Vanished_Flame_사라진_불꽃.md)|SE-C-IVδ-763| Weapon (SHORT BLADE — Stiletto/Awl) |δ|Lament|
+|295|Weapon| The Candelabrum Bodkin |[The Vanished Flame](../Sorrow_Entities/SE-C-IVδ-763_The_Vanished_Flame_사라진_불꽃.md)|SE-C-IVδ-763| Weapon (SHORT BLADE — Stiletto/Awl) |δ|Lament|
 |296|Suit|The Extinguished Mourner's Shroud|[The Vanished Flame](../Sorrow_Entities/SE-C-IVδ-763_The_Vanished_Flame_사라진_불꽃.md)|SE-C-IVδ-763| Armor (Living Chitin & Carapace) |δ|Lament|
 |297|Gift|The Purple Wick Stigma|[The Vanished Flame](../Sorrow_Entities/SE-C-IVδ-763_The_Vanished_Flame_사라진_불꽃.md)|SE-C-IVδ-763| Accessory (Special Relic Stigmas) |δ|Lament|
 |298|Weapon|The Fading Requiem|[The Fading Shadow](../Sorrow_Entities/SE-C-IVδ-767_The_Fading_Shadow_번져가는_그림자.md)|SE-C-IVδ-767| Weapon (REQUIEM — Resonant Blade) |δ|Lament|
@@ -350,7 +350,7 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 |310|Weapon|The Cheongula — Devouring Jaw|[The Maw](../Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md)|SE-C-IVω-001| Weapon (PRIMAL — Bio/Marrow) |ω|Grudge|
 |311|Suit|The Cheongula — Forbidden Plate|[The Maw](../Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md)|SE-C-IVω-001| Armor (Plates & Heavy Armor) |ω|Grudge|
 |312|Gift|The Cheongula — Forbidden Extraction|[The Maw](../Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md)|SE-C-IVω-001| Accessory (Floating Orbs & Coronets) |ω|Grudge|
-|313|Weapon|Standard Training Baton|[The Kind Echo](../Sorrow_Entities/SE-C-Iα-000_The_Kind_Echo_친절한_메아리.md)|SE-C-Iα-000| Weapon (GUN — Ballistics) |α|Lament|
+|313|Weapon| Pneumatic Training Carbine |[The Kind Echo](../Sorrow_Entities/SE-C-Iα-000_The_Kind_Echo_친절한_메아리.md)|SE-C-Iα-000| Weapon (GUN — Ballistics) |α|Lament|
 |314|Suit|Standard Training Vest|[The Kind Echo](../Sorrow_Entities/SE-C-Iα-000_The_Kind_Echo_친절한_메아리.md)|SE-C-Iα-000| Armor (Living Chitin & Carapace) |α|Lament|
 |315|Gift|The Warm Stone|[The Kind Echo](../Sorrow_Entities/SE-C-Iα-000_The_Kind_Echo_친절한_메아리.md)|SE-C-Iα-000| Accessory (Relic Drops & Seeds) |α|Lament|
 |316|Weapon|The Listening Requiem|[The Whispering Walls](../Sorrow_Entities/SE-C-Iα-011_The_Whispering_Walls_속삭이는_벽.md)|SE-C-Iα-011| Weapon (REQUIEM — Resonant Blade) |α|Lament|
@@ -365,10 +365,10 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 |325|Weapon|The Trace Fang|[The Spreading Trace](../Sorrow_Entities/SE-C-Iα-175_The_Spreading_Trace_스며든_흔적.md)|SE-C-Iα-175| Weapon (PRIMAL — Bio/Marrow) |α|Grudge|
 |326|Suit|The Trace Plate|[The Spreading Trace](../Sorrow_Entities/SE-C-Iα-175_The_Spreading_Trace_스며든_흔적.md)|SE-C-Iα-175| Armor (Plates & Heavy Armor) |α|Grudge|
 |327|Gift|The Trace Mark|[The Spreading Trace](../Sorrow_Entities/SE-C-Iα-175_The_Spreading_Trace_스며든_흔적.md)|SE-C-Iα-175| Accessory (Special Relic Stigmas) |α|Grudge|
-|328|Weapon|The Seedless Requiem|[The Vanished Seed](../Sorrow_Entities/SE-C-Iα-236_The_Vanished_Seed_사라진_씨앗.md)|SE-C-Iα-236| Weapon (FANTASY — Astral/Orrery) |α|Lament|
+|328|Weapon| The Barren Star-Orrery |[The Vanished Seed](../Sorrow_Entities/SE-C-Iα-236_The_Vanished_Seed_사라진_씨앗.md)|SE-C-Iα-236| Weapon (FANTASY — Astral/Orrery) |α|Lament|
 |329|Suit|The Seedless Shroud|[The Vanished Seed](../Sorrow_Entities/SE-C-Iα-236_The_Vanished_Seed_사라진_씨앗.md)|SE-C-Iα-236| Armor (Hauberks & Chain Mail) |α|Lament|
 |330|Gift|The Seedless Pod|[The Vanished Seed](../Sorrow_Entities/SE-C-Iα-236_The_Vanished_Seed_사라진_씨앗.md)|SE-C-Iα-236| Accessory (Relic Drops & Seeds) |α|Lament|
-|331|Weapon|The Kindness Requiem|[The Echo of Kindness](../Sorrow_Entities/SE-C-Iα-240_The_Echo_of_Kindness_친절의_메아리.md)|SE-C-Iα-240| Weapon (BLADES — Cleaver/Sword) |α|Lament|
+|331|Weapon| The Mercy Broadsword |[The Echo of Kindness](../Sorrow_Entities/SE-C-Iα-240_The_Echo_of_Kindness_친절의_메아리.md)|SE-C-Iα-240| Weapon (BLADES — Cleaver/Sword) |α|Lament|
 |332|Suit|The Kindness Shroud|[The Echo of Kindness](../Sorrow_Entities/SE-C-Iα-240_The_Echo_of_Kindness_친절의_메아리.md)|SE-C-Iα-240| Armor (Living Chitin & Carapace) |α|Lament|
 |333|Gift|The Kindness Stone|[The Echo of Kindness](../Sorrow_Entities/SE-C-Iα-240_The_Echo_of_Kindness_친절의_메아리.md)|SE-C-Iα-240| Accessory (Pendants & Chokers) |α|Lament|
 |334|Weapon|The Torn Flower Sword|[The Torn Flower](../Sorrow_Entities/SE-C-Iα-247_The_Torn_Flower_찢어진_꽃.md)|SE-C-Iα-247| Weapon (BLADES — Cleaver/Sword) |α|Grudge|
@@ -380,7 +380,7 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 |340|Weapon|The Melting Lens|[The Melting Tower](../Sorrow_Entities/SE-C-Iα-329_The_Melting_Tower_녹아내린_탑.md)|SE-C-Iα-329| Weapon (OPTICAL — Crystal/Lens) |α|Void|
 |341|Suit|The Melting Veil|[The Melting Tower](../Sorrow_Entities/SE-C-Iα-329_The_Melting_Tower_녹아내린_탑.md)|SE-C-Iα-329| Armor (Vestments & Outerwear) |α|Void|
 |342|Gift|The Melting Brick|[The Melting Tower](../Sorrow_Entities/SE-C-Iα-329_The_Melting_Tower_녹아내린_탑.md)|SE-C-Iα-329| Accessory (Ocular Lenses & Monocles) |α|Void|
-|343|Weapon|The Sorrow Requiem|[The Sorrow Flower](../Sorrow_Entities/SE-C-Iα-330_The_Sorrow_Flower_슬픔의_꽃.md)|SE-C-Iα-330| Weapon (SHORT BLADE — Stiletto/Awl) |α|Lament|
+|343|Weapon| The Lamentation Dirk |[The Sorrow Flower](../Sorrow_Entities/SE-C-Iα-330_The_Sorrow_Flower_슬픔의_꽃.md)|SE-C-Iα-330| Weapon (SHORT BLADE — Stiletto/Awl) |α|Lament|
 |344|Suit|The Sorrow Shroud|[The Sorrow Flower](../Sorrow_Entities/SE-C-Iα-330_The_Sorrow_Flower_슬픔의_꽃.md)|SE-C-Iα-330| Armor (Hauberks & Chain Mail) |α|Lament|
 |345|Gift|The Sorrow Petal|[The Sorrow Flower](../Sorrow_Entities/SE-C-Iα-330_The_Sorrow_Flower_슬픔의_꽃.md)|SE-C-Iα-330| Accessory (Relic Drops & Seeds) |α|Lament|
 |346|Weapon|The Rising Mirror Hammer|[The Rising Mirror](../Sorrow_Entities/SE-C-Iα-392_The_Rising_Mirror_솟아오른_거울.md)|SE-C-Iα-392| Weapon (BLUNT — Maul/Brand) |β|Weight|
@@ -392,19 +392,19 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 |352|Weapon|The Vanished Tear's Fang|[The Vanished Tear](../Sorrow_Entities/SE-C-Iα-683_The_Vanished_Tear_사라진_눈물.md)|SE-C-Iα-683| Weapon (PRIMAL — Bio/Marrow) |α|Grudge|
 |353|Suit|The Vanished Tear's Plate|[The Vanished Tear](../Sorrow_Entities/SE-C-Iα-683_The_Vanished_Tear_사라진_눈물.md)|SE-C-Iα-683| Armor (Plates & Heavy Armor) |α|Grudge|
 |354|Gift|The Vanished Tear's Ember|[The Vanished Tear](../Sorrow_Entities/SE-C-Iα-683_The_Vanished_Tear_사라진_눈물.md)|SE-C-Iα-683| Accessory (Brooches & Fasteners) |α|Grudge|
-|355|Weapon|The Severed Requiem|[The Vanished Rope](../Sorrow_Entities/SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md)|SE-C-Iα-723| Weapon (RELIQUARY — Censer/Bell) |α|Lament|
+|355|Weapon| The Severed Bond-Censer |[The Vanished Rope](../Sorrow_Entities/SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md)|SE-C-Iα-723| Weapon (RELIQUARY — Censer/Bell) |α|Lament|
 |356|Suit|The Severed Shroud|[The Vanished Rope](../Sorrow_Entities/SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md)|SE-C-Iα-723| Armor (Living Chitin & Carapace) |α|Lament|
 |357|Gift|The Severed Knot|[The Vanished Rope](../Sorrow_Entities/SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md)|SE-C-Iα-723| Accessory (Rings & Hand Seals) |α|Lament|
-|358|Weapon|The Torn Edge|[The Torn Relic](../Sorrow_Entities/SE-C-Iα-779_The_Torn_Relic_찢어진_유물.md)|SE-C-Iα-779| Weapon (FANTASY — Astral/Orrery) |α|Grudge|
+|358|Weapon| The Fracture Sundial |[The Torn Relic](../Sorrow_Entities/SE-C-Iα-779_The_Torn_Relic_찢어진_유물.md)|SE-C-Iα-779| Weapon (FANTASY — Astral/Orrery) |α|Grudge|
 |359|Suit|The Torn Plate|[The Torn Relic](../Sorrow_Entities/SE-C-Iα-779_The_Torn_Relic_찢어진_유물.md)|SE-C-Iα-779| Armor (Plates & Heavy Armor) |α|Grudge|
 |360|Gift|The Torn Charm|[The Torn Relic](../Sorrow_Entities/SE-C-Iα-779_The_Torn_Relic_찢어진_유물.md)|SE-C-Iα-779| Accessory (Sorrow Charms & Talismans) |α|Grudge|
-|361|Weapon|The Empty Lens|[The Sunken Tower](../Sorrow_Entities/SE-C-Iα-863_The_Sunken_Tower_가라앉은_탑.md)|SE-C-Iα-863| Weapon (GUN — Ballistics) |α|Void|
+|361|Weapon| The Sunken Culverin |[The Sunken Tower](../Sorrow_Entities/SE-C-Iα-863_The_Sunken_Tower_가라앉은_탑.md)|SE-C-Iα-863| Weapon (GUN — Ballistics) |α|Void|
 |362|Suit|The Empty Veil|[The Sunken Tower](../Sorrow_Entities/SE-C-Iα-863_The_Sunken_Tower_가라앉은_탑.md)|SE-C-Iα-863| Armor (Vestments & Outerwear) |α|Void|
 |363|Gift|The Empty Window|[The Sunken Tower](../Sorrow_Entities/SE-C-Iα-863_The_Sunken_Tower_가라앉은_탑.md)|SE-C-Iα-863| Accessory (Ocular Lenses & Monocles) |α|Void|
 |364|Weapon|The Returning Requiem|[The Returning Tree](../Sorrow_Entities/SE-C-Iα-869_The_Returning_Tree_돌아온_나무.md)|SE-C-Iα-869| Weapon (RELIQUARY — Censer/Bell) |α|Lament|
 |365|Suit|The Returning Shroud|[The Returning Tree](../Sorrow_Entities/SE-C-Iα-869_The_Returning_Tree_돌아온_나무.md)|SE-C-Iα-869| Armor (Hauberks & Chain Mail) |α|Lament|
 |366|Gift|The Returning Leaf|[The Returning Tree](../Sorrow_Entities/SE-C-Iα-869_The_Returning_Tree_돌아온_나무.md)|SE-C-Iα-869| Accessory (Floating Orbs & Coronets) |α|Lament|
-|367|Weapon|The Frozen Lens|[The Frozen Shard](../Sorrow_Entities/SE-C-Iα-884_The_Frozen_Shard_얼어붙은_조각.md)|SE-C-Iα-884| Weapon (SHORT BLADE — Stiletto/Awl) |α|Void|
+|367|Weapon| The Permafrost Awl |[The Frozen Shard](../Sorrow_Entities/SE-C-Iα-884_The_Frozen_Shard_얼어붙은_조각.md)|SE-C-Iα-884| Weapon (SHORT BLADE — Stiletto/Awl) |α|Void|
 |368|Suit|The Frozen Veil|[The Frozen Shard](../Sorrow_Entities/SE-C-Iα-884_The_Frozen_Shard_얼어붙은_조각.md)|SE-C-Iα-884| Armor (Living Chitin & Carapace) |α|Void|
 |369|Gift|The Frozen Fragment|[The Frozen Shard](../Sorrow_Entities/SE-C-Iα-884_The_Frozen_Shard_얼어붙은_조각.md)|SE-C-Iα-884| Accessory (Relic Drops & Seeds) |α|Void|
 |370|Weapon|Unheard Fang|[Unheard](../Sorrow_Entities/SE-C-Iα-965_The_Flowing_Silence_흐르는_침묵.md)|SE-C-Iα-965| Weapon (PRIMAL — Bio/Marrow) |α|Grudge|
@@ -422,22 +422,22 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 |382|Weapon|The Mourning Monument|[The Grieving Colossus](../Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md)|SE-C-Vδ-002| Weapon (RELIQUARY — Censer/Bell) |δ|Weight|
 |383|Suit|The Mourning Mantle|[The Grieving Colossus](../Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md)|SE-C-Vδ-002| Armor (Mantles, Coats & Cloaks) |δ|Weight|
 |384|Gift|The Mourning Shell|[The Grieving Colossus](../Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md)|SE-C-Vδ-002| Accessory (Pendants & Chokers) |δ|Weight|
-|385|Weapon|The Gravitational Singularity-Hammer|[The Convergence](../Sorrow_Entities/SE-C-Vδ-010_The_Convergence_수렴.md)|SE-C-Vδ-010| Weapon (FANTASY — Astral/Orrery) |δ|Weight|
+|385|Weapon| The Singularity Orrery |[The Convergence](../Sorrow_Entities/SE-C-Vδ-010_The_Convergence_수렴.md)|SE-C-Vδ-010| Weapon (FANTASY — Astral/Orrery) |δ|Weight|
 |386|Suit|The Absolute Mantle|[The Convergence](../Sorrow_Entities/SE-C-Vδ-010_The_Convergence_수렴.md)|SE-C-Vδ-010| Armor (Mantles, Coats & Cloaks) |δ|Weight|
 |387|Gift|The Absolute Verdict|[The Convergence](../Sorrow_Entities/SE-C-Vδ-010_The_Convergence_수렴.md)|SE-C-Vδ-010| Accessory (Ocular Lenses & Monocles) |δ|Weight|
-|388|Weapon|The Unknown — No Extraction Lens|[The Final Door](../Sorrow_Entities/SE-C-Vδ-111_The_Final_Door_마지막_문.md)|SE-C-Vδ-111| Weapon (GUN — Ballistics) |δ|Void|
+|388|Weapon| The Redacted Hand-Cannon |[The Final Door](../Sorrow_Entities/SE-C-Vδ-111_The_Final_Door_마지막_문.md)|SE-C-Vδ-111| Weapon (GUN — Ballistics) |δ|Void|
 |389|Suit|The Unknown — No Extraction Veil|[The Final Door](../Sorrow_Entities/SE-C-Vδ-111_The_Final_Door_마지막_문.md)|SE-C-Vδ-111| Armor (Hauberks & Chain Mail) |δ|Void|
 |390|Gift|Unknown — No Extraction Authorized|[The Final Door](../Sorrow_Entities/SE-C-Vδ-111_The_Final_Door_마지막_문.md)|SE-C-Vδ-111| Accessory (Floating Orbs & Coronets) |δ|Void|
-|391|Weapon|The Forgotten Requiem|[The Forgotten God](../Sorrow_Entities/SE-C-Vδ-265_The_Forgotten_God_잊혀진_신.md)|SE-C-Vδ-265| Weapon (POLEARM — Spear/Pike) |δ|Lament|
+|391|Weapon| The Forgotten Choral-Sceptre |[The Forgotten God](../Sorrow_Entities/SE-C-Vδ-265_The_Forgotten_God_잊혀진_신.md)|SE-C-Vδ-265| Weapon (POLEARM — Spear/Pike) |δ|Lament|
 |392|Suit|The Forgotten Shroud|[The Forgotten God](../Sorrow_Entities/SE-C-Vδ-265_The_Forgotten_God_잊혀진_신.md)|SE-C-Vδ-265| Armor (Living Chitin & Carapace) |δ|Lament|
 |393|Gift|The Forgotten Crown|[The Forgotten God](../Sorrow_Entities/SE-C-Vδ-265_The_Forgotten_God_잊혀진_신.md)|SE-C-Vδ-265| Accessory (Floating Orbs & Coronets) |δ|Lament|
-|394|Weapon|The First Requiem|[The First Tear](../Sorrow_Entities/SE-C-Vδ-290_The_First_Tear_첫_번째_눈물.md)|SE-C-Vδ-290| Weapon (BLADES — Cleaver/Sword) |δ (Critical)|Lament|
+|394|Weapon| The Primordial Greatsword |[The First Tear](../Sorrow_Entities/SE-C-Vδ-290_The_First_Tear_첫_번째_눈물.md)|SE-C-Vδ-290| Weapon (BLADES — Cleaver/Sword) |δ (Critical)|Lament|
 |395|Suit|The First Shroud|[The First Tear](../Sorrow_Entities/SE-C-Vδ-290_The_First_Tear_첫_번째_눈물.md)|SE-C-Vδ-290| Armor (Vestments & Outerwear) |δ (Critical)|Lament|
 |396|Gift|The First Charm|[The First Tear](../Sorrow_Entities/SE-C-Vδ-290_The_First_Tear_첫_번째_눈물.md)|SE-C-Vδ-290| Accessory (Sorrow Charms & Talismans) |δ (Critical)|Lament|
-|397|Weapon|The Dawn of Requiem|[The Dawn of Mourning](../Sorrow_Entities/SE-C-Vω-001_The_Dawn_of_Mourning_애도의_새벽.md)|SE-C-Vω-001| Weapon (SHORT BLADE — Stiletto/Awl) |ω|Lament|
+|397|Weapon| The First Dawn Stiletto |[The Dawn of Mourning](../Sorrow_Entities/SE-C-Vω-001_The_Dawn_of_Mourning_애도의_새벽.md)|SE-C-Vω-001| Weapon (SHORT BLADE — Stiletto/Awl) |ω|Lament|
 |398|Suit|The Dawn of Shroud|[The Dawn of Mourning](../Sorrow_Entities/SE-C-Vω-001_The_Dawn_of_Mourning_애도의_새벽.md)|SE-C-Vω-001| Armor (Vestments & Outerwear) |ω|Lament|
 |399|Gift|The Dawn of Charm|[The Dawn of Mourning](../Sorrow_Entities/SE-C-Vω-001_The_Dawn_of_Mourning_애도의_새벽.md)|SE-C-Vω-001| Accessory (Sorrow Charms & Talismans) |ω|Lament|
-|400|Weapon|The Shadow Lens|[The Memory Thief](../Sorrow_Entities/SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md)|SE-N-IIIβ-077| Weapon (GUN — Ballistics) |β|Void|
+|400|Weapon| The Umbral Pepperbox |[The Memory Thief](../Sorrow_Entities/SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md)|SE-N-IIIβ-077| Weapon (GUN — Ballistics) |β|Void|
 |401|Suit|The Shadow Veil|[The Memory Thief](../Sorrow_Entities/SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md)|SE-N-IIIβ-077| Armor (Hauberks & Chain Mail) |β|Void|
 |402|Gift|The Shadow Cloak|[The Memory Thief](../Sorrow_Entities/SE-N-IIIβ-077_The_Memory_Thief_기록_도둑.md)|SE-N-IIIβ-077| Accessory (Brooches & Fasteners) |β|Void|
 |403|Weapon|The Shadow Maul|[The Debt Collector's Shadow](../Sorrow_Entities/SE-N-IIIβ-155_The_Debt_Collector's_Shadow_추징관의_그림자.md)|SE-N-IIIβ-155| Weapon (BLUNT — Maul/Brand) |β|Weight|
@@ -452,79 +452,79 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 |412|Weapon|The Memory Maul|[The Chain of Memories](../Sorrow_Entities/SE-N-IIIβ-200_The_Chain_of_Memories_기억의_사슬.md)|SE-N-IIIβ-200| Weapon (BLUNT — Maul/Brand) |β|Weight|
 |413|Suit|The Memory Mantle|[The Chain of Memories](../Sorrow_Entities/SE-N-IIIβ-200_The_Chain_of_Memories_기억의_사슬.md)|SE-N-IIIβ-200| Armor (Mantles, Coats & Cloaks) |β|Weight|
 |414|Gift|The Memory Link|[The Chain of Memories](../Sorrow_Entities/SE-N-IIIβ-200_The_Chain_of_Memories_기억의_사슬.md)|SE-N-IIIβ-200| Accessory (Pendants & Chokers) |β|Weight|
-|415|Weapon|The Broken Maul|[The Broken Mirror](../Sorrow_Entities/SE-N-IIIγ-127_The_Broken_Mirror_부서진_거울.md)|SE-N-IIIγ-127| Weapon (FANTASY — Astral/Orrery) |γ|Weight|
+|415|Weapon| The Fractured Celestial Prism |[The Broken Mirror](../Sorrow_Entities/SE-N-IIIγ-127_The_Broken_Mirror_부서진_거울.md)|SE-N-IIIγ-127| Weapon (FANTASY — Astral/Orrery) |γ|Weight|
 |416|Suit|The Broken Mantle|[The Broken Mirror](../Sorrow_Entities/SE-N-IIIγ-127_The_Broken_Mirror_부서진_거울.md)|SE-N-IIIγ-127| Armor (Mantles, Coats & Cloaks) |γ|Weight|
 |417|Gift|The Broken Reflection|[The Broken Mirror](../Sorrow_Entities/SE-N-IIIγ-127_The_Broken_Mirror_부서진_거울.md)|SE-N-IIIγ-127| Accessory (Special Relic Stigmas) |γ|Weight|
 |418|Weapon|The Promise Fang|[The Broken Promise](../Sorrow_Entities/SE-N-IIIγ-160_The_Broken_Promise_깨진_약속.md)|SE-N-IIIγ-160| Weapon (PRIMAL — Bio/Marrow) |γ|Grudge|
 |419|Suit|The Promise Plate|[The Broken Promise](../Sorrow_Entities/SE-N-IIIγ-160_The_Broken_Promise_깨진_약속.md)|SE-N-IIIγ-160| Armor (Plates & Heavy Armor) |γ|Grudge|
 |420|Gift|The Promise Shard|[The Broken Promise](../Sorrow_Entities/SE-N-IIIγ-160_The_Broken_Promise_깨진_약속.md)|SE-N-IIIγ-160| Accessory (Relic Drops & Seeds) |γ|Grudge|
-|421|Weapon|The Forgotten Tree Lens|[The Forgotten Tree](../Sorrow_Entities/SE-N-IIIγ-184_The_Forgotten_Tree_잊혀진_나무.md)|SE-N-IIIγ-184| Weapon (POLEARM — Spear/Pike) |γ|Void|
+|421|Weapon| The Arboretum Lance |[The Forgotten Tree](../Sorrow_Entities/SE-N-IIIγ-184_The_Forgotten_Tree_잊혀진_나무.md)|SE-N-IIIγ-184| Weapon (POLEARM — Spear/Pike) |γ|Void|
 |422|Suit|The Forgotten Tree Veil|[The Forgotten Tree](../Sorrow_Entities/SE-N-IIIγ-184_The_Forgotten_Tree_잊혀진_나무.md)|SE-N-IIIγ-184| Armor (Vestments & Outerwear) |γ|Void|
 |423|Gift|The Forgotten Tree Ring|[The Forgotten Tree](../Sorrow_Entities/SE-N-IIIγ-184_The_Forgotten_Tree_잊혀진_나무.md)|SE-N-IIIγ-184| Accessory (Rings & Hand Seals) |γ|Void|
-|424|Weapon|The Rust Wall Maul|[The Rusted Wall](../Sorrow_Entities/SE-N-IIIγ-283_The_Rusted_Wall_녹슨_벽.md)|SE-N-IIIγ-283| Weapon (POLEARM — Spear/Pike) |γ|Weight|
+|424|Weapon| The Rust-Wall Halberd |[The Rusted Wall](../Sorrow_Entities/SE-N-IIIγ-283_The_Rusted_Wall_녹슨_벽.md)|SE-N-IIIγ-283| Weapon (POLEARM — Spear/Pike) |γ|Weight|
 |425|Suit|The Rust Wall Plate|[The Rusted Wall](../Sorrow_Entities/SE-N-IIIγ-283_The_Rusted_Wall_녹슨_벽.md)|SE-N-IIIγ-283| Armor (Plates & Heavy Armor) |γ|Weight|
 |426|Gift|The Rust Wall Charm|[The Rusted Wall](../Sorrow_Entities/SE-N-IIIγ-283_The_Rusted_Wall_녹슨_벽.md)|SE-N-IIIγ-283| Accessory (Sorrow Charms & Talismans) |γ|Weight|
 |427|Weapon|The Soaking Shadow's Fang|[The Soaking Shadow](../Sorrow_Entities/SE-N-IIIγ-308_The_Soaking_Shadow_솟구친_그림자.md)|SE-N-IIIγ-308| Weapon (PRIMAL — Bio/Marrow) |γ|Grudge|
 |428|Suit|The Soaking Shadow's Veil|[The Soaking Shadow](../Sorrow_Entities/SE-N-IIIγ-308_The_Soaking_Shadow_솟구친_그림자.md)|SE-N-IIIγ-308| Armor (Hauberks & Chain Mail) |γ|Grudge|
 |429|Gift|The Soaking Shadow's Charm|[The Soaking Shadow](../Sorrow_Entities/SE-N-IIIγ-308_The_Soaking_Shadow_솟구친_그림자.md)|SE-N-IIIγ-308| Accessory (Sorrow Charms & Talismans) |γ|Grudge|
-|430|Weapon|The Fading Whisper's Lens|[The Fading Whisper](../Sorrow_Entities/SE-N-IIIγ-407_The_Fading_Whisper_번져가는_속삭임.md)|SE-N-IIIγ-407| Weapon (GUN — Ballistics) |δ|Void|
+|430|Weapon| The Whispering Matchlock |[The Fading Whisper](../Sorrow_Entities/SE-N-IIIγ-407_The_Fading_Whisper_번져가는_속삭임.md)|SE-N-IIIγ-407| Weapon (GUN — Ballistics) |δ|Void|
 |431|Suit|The Fading Whisper's Veil|[The Fading Whisper](../Sorrow_Entities/SE-N-IIIγ-407_The_Fading_Whisper_번져가는_속삭임.md)|SE-N-IIIγ-407| Armor (Living Chitin & Carapace) |δ|Void|
 |432|Gift|The Fading Whisper's Key|[The Fading Whisper](../Sorrow_Entities/SE-N-IIIγ-407_The_Fading_Whisper_번져가는_속삭임.md)|SE-N-IIIγ-407| Accessory (Brooches & Fasteners) |δ|Void|
-|433|Weapon|The Empty Lens|[The Floating Pillar](../Sorrow_Entities/SE-N-IIIγ-409_The_Floating_Pillar_떠다니는_기둥.md)|SE-N-IIIγ-409| Weapon (SHORT BLADE — Stiletto/Awl) |γ|Void|
+|433|Weapon| The Void Shuttle-Awl |[The Floating Pillar](../Sorrow_Entities/SE-N-IIIγ-409_The_Floating_Pillar_떠다니는_기둥.md)|SE-N-IIIγ-409| Weapon (SHORT BLADE — Stiletto/Awl) |γ|Void|
 |434|Suit|The Empty Veil|[The Floating Pillar](../Sorrow_Entities/SE-N-IIIγ-409_The_Floating_Pillar_떠다니는_기둥.md)|SE-N-IIIγ-409| Armor (Vestments & Outerwear) |γ|Void|
 |435|Gift|The Empty Pillar|[The Floating Pillar](../Sorrow_Entities/SE-N-IIIγ-409_The_Floating_Pillar_떠다니는_기둥.md)|SE-N-IIIγ-409| Accessory (Ocular Lenses & Monocles) |γ|Void|
-|436|Weapon|The Melting Requiem|[The Melting Rope](../Sorrow_Entities/SE-N-IIIγ-447_The_Melting_Rope_녹아내린_밧줄.md)|SE-N-IIIγ-447| Weapon (BLADES — Cleaver/Sword) |γ|Lament|
+|436|Weapon| The Liquefying Zweihander |[The Melting Rope](../Sorrow_Entities/SE-N-IIIγ-447_The_Melting_Rope_녹아내린_밧줄.md)|SE-N-IIIγ-447| Weapon (BLADES — Cleaver/Sword) |γ|Lament|
 |437|Suit|The Melting Shroud|[The Melting Rope](../Sorrow_Entities/SE-N-IIIγ-447_The_Melting_Rope_녹아내린_밧줄.md)|SE-N-IIIγ-447| Armor (Hauberks & Chain Mail) |γ|Lament|
 |438|Gift|The Melting Knot|[The Melting Rope](../Sorrow_Entities/SE-N-IIIγ-447_The_Melting_Rope_녹아내린_밧줄.md)|SE-N-IIIγ-447| Accessory (Pendants & Chokers) |γ|Lament|
-|439|Weapon|The Ruin Lens|[The Returning Ruin](../Sorrow_Entities/SE-N-IIIγ-505_The_Returning_Ruin_돌아온_잔해.md)|SE-N-IIIγ-505| Weapon (GUN — Ballistics) |γ|Void|
+|439|Weapon| The Returning Arbalest |[The Returning Ruin](../Sorrow_Entities/SE-N-IIIγ-505_The_Returning_Ruin_돌아온_잔해.md)|SE-N-IIIγ-505| Weapon (GUN — Ballistics) |γ|Void|
 |440|Suit|The Ruin Veil|[The Returning Ruin](../Sorrow_Entities/SE-N-IIIγ-505_The_Returning_Ruin_돌아온_잔해.md)|SE-N-IIIγ-505| Armor (Living Chitin & Carapace) |γ|Void|
 |441|Gift|The Ruin Shard|[The Returning Ruin](../Sorrow_Entities/SE-N-IIIγ-505_The_Returning_Ruin_돌아온_잔해.md)|SE-N-IIIγ-505| Accessory (Relic Drops & Seeds) |γ|Void|
-|442|Weapon|The Floating Root|[The Floating Tree](../Sorrow_Entities/SE-N-IIIγ-585_The_Floating_Tree_떠다니는_나무.md)|SE-N-IIIγ-585| Weapon (POLEARM — Spear/Pike) |γ|Lament|
+|442|Weapon| The Suspended Root-Pike |[The Floating Tree](../Sorrow_Entities/SE-N-IIIγ-585_The_Floating_Tree_떠다니는_나무.md)|SE-N-IIIγ-585| Weapon (POLEARM — Spear/Pike) |γ|Lament|
 |443|Suit|The Floating Shroud|[The Floating Tree](../Sorrow_Entities/SE-N-IIIγ-585_The_Floating_Tree_떠다니는_나무.md)|SE-N-IIIγ-585| Armor (Vestments & Outerwear) |γ|Lament|
 |444|Gift|The Floating Charm|[The Floating Tree](../Sorrow_Entities/SE-N-IIIγ-585_The_Floating_Tree_떠다니는_나무.md)|SE-N-IIIγ-585| Accessory (Sorrow Charms & Talismans) |γ|Lament|
 |445|Weapon|The Returning Soul's Blade|[The Returning Soul](../Sorrow_Entities/SE-N-IIIγ-589_The_Returning_Soul_돌아온_영혼.md)|SE-N-IIIγ-589| Weapon (BLADES — Cleaver/Sword) |β|Lament|
 |446|Suit|The Returning Soul's Shroud|[The Returning Soul](../Sorrow_Entities/SE-N-IIIγ-589_The_Returning_Soul_돌아온_영혼.md)|SE-N-IIIγ-589| Armor (Hauberks & Chain Mail) |β|Lament|
 |447|Gift|The Returning Soul's Charm|[The Returning Soul](../Sorrow_Entities/SE-N-IIIγ-589_The_Returning_Soul_돌아온_영혼.md)|SE-N-IIIγ-589| Accessory (Sorrow Charms & Talismans) |β|Lament|
-|448|Weapon|The Flowing Seed Maul|[The Flowing Seed](../Sorrow_Entities/SE-N-IIIγ-628_The_Flowing_Seed_흐르는_씨앗.md)|SE-N-IIIγ-628| Weapon (SHORT BLADE — Stiletto/Awl) |α|Weight|
+|448|Weapon| The Sprouting Seax |[The Flowing Seed](../Sorrow_Entities/SE-N-IIIγ-628_The_Flowing_Seed_흐르는_씨앗.md)|SE-N-IIIγ-628| Weapon (SHORT BLADE — Stiletto/Awl) |α|Weight|
 |449|Suit|The Flowing Seed Mantle|[The Flowing Seed](../Sorrow_Entities/SE-N-IIIγ-628_The_Flowing_Seed_흐르는_씨앗.md)|SE-N-IIIγ-628| Armor (Mantles, Coats & Cloaks) |α|Weight|
 |450|Gift|The Flowing Seed Vial|[The Flowing Seed](../Sorrow_Entities/SE-N-IIIγ-628_The_Flowing_Seed_흐르는_씨앗.md)|SE-N-IIIγ-628| Accessory (Relic Drops & Seeds) |α|Weight|
-|451|Weapon|The Frozen Bridge Lens|[The Frozen Bridge](../Sorrow_Entities/SE-N-IIIγ-874_The_Frozen_Bridge_얼어붙은_다리.md)|SE-N-IIIγ-874| Weapon (FANTASY — Astral/Orrery) |β|Void|
+|451|Weapon| The Permafrost Star-Ring |[The Frozen Bridge](../Sorrow_Entities/SE-N-IIIγ-874_The_Frozen_Bridge_얼어붙은_다리.md)|SE-N-IIIγ-874| Weapon (FANTASY — Astral/Orrery) |β|Void|
 |452|Suit|The Frozen Bridge Shield|[The Frozen Bridge](../Sorrow_Entities/SE-N-IIIγ-874_The_Frozen_Bridge_얼어붙은_다리.md)|SE-N-IIIγ-874| Armor (Living Chitin & Carapace) |β|Void|
 |453|Gift|The Frozen Bridge Charm|[The Frozen Bridge](../Sorrow_Entities/SE-N-IIIγ-874_The_Frozen_Bridge_얼어붙은_다리.md)|SE-N-IIIγ-874| Accessory (Sorrow Charms & Talismans) |β|Void|
-|454|Weapon|The Sleeping Lens|[Vanity Asleep](../Sorrow_Entities/SE-N-IIIγ-954_The_Sleeping_Mirror_잠든_거울.md)|SE-N-IIIγ-954| Weapon (GUN — Ballistics) |γ|Void|
+|454|Weapon| The Somnolent Trench-Rifle |[Vanity Asleep](../Sorrow_Entities/SE-N-IIIγ-954_The_Sleeping_Mirror_잠든_거울.md)|SE-N-IIIγ-954| Weapon (GUN — Ballistics) |γ|Void|
 |455|Suit|The Sleeping Veil|[Vanity Asleep](../Sorrow_Entities/SE-N-IIIγ-954_The_Sleeping_Mirror_잠든_거울.md)|SE-N-IIIγ-954| Armor (Hauberks & Chain Mail) |γ|Void|
 |456|Gift|The Sleeping Reflection|[Vanity Asleep](../Sorrow_Entities/SE-N-IIIγ-954_The_Sleeping_Mirror_잠든_거울.md)|SE-N-IIIγ-954| Accessory (Brooches & Fasteners) |γ|Void|
-|457|Weapon|The Echo Lens|[The Hollow Echo](../Sorrow_Entities/SE-N-IIα-125_The_Hollow_Echo_빈_메아리.md)|SE-N-IIα-125| Weapon (POLEARM — Spear/Pike) |α|Void|
+|457|Weapon| The Reverberant Spear |[The Hollow Echo](../Sorrow_Entities/SE-N-IIα-125_The_Hollow_Echo_빈_메아리.md)|SE-N-IIα-125| Weapon (POLEARM — Spear/Pike) |α|Void|
 |458|Suit|The Echo Veil|[The Hollow Echo](../Sorrow_Entities/SE-N-IIα-125_The_Hollow_Echo_빈_메아리.md)|SE-N-IIα-125| Armor (Vestments & Outerwear) |α|Void|
 |459|Gift|The Echo Stone|[The Hollow Echo](../Sorrow_Entities/SE-N-IIα-125_The_Hollow_Echo_빈_메아리.md)|SE-N-IIα-125| Accessory (Special Relic Stigmas) |α|Void|
-|460|Weapon|The Name Lens|[The Forgotten Name](../Sorrow_Entities/SE-N-IIα-215_The_Forgotten_Name_잊혀진_이름.md)|SE-N-IIα-215| Weapon (SHORT BLADE — Stiletto/Awl) |α|Void|
+|460|Weapon| The Epitaph Tanto |[The Forgotten Name](../Sorrow_Entities/SE-N-IIα-215_The_Forgotten_Name_잊혀진_이름.md)|SE-N-IIα-215| Weapon (SHORT BLADE — Stiletto/Awl) |α|Void|
 |461|Suit|The Name Veil|[The Forgotten Name](../Sorrow_Entities/SE-N-IIα-215_The_Forgotten_Name_잊혀진_이름.md)|SE-N-IIα-215| Armor (Living Chitin & Carapace) |α|Void|
 |462|Gift|The Name Thread|[The Forgotten Name](../Sorrow_Entities/SE-N-IIα-215_The_Forgotten_Name_잊혀진_이름.md)|SE-N-IIα-215| Accessory (Ocular Lenses & Monocles) |α|Void|
-|463|Weapon|The Silence Maul|[The Weight of Silence](../Sorrow_Entities/SE-N-IIα-285_The_Weight_of_Silence_침묵의_무게.md)|SE-N-IIα-285| Weapon (RELIQUARY — Censer/Bell) |α|Weight|
+|463|Weapon| The Silent Memorial-Bell |[The Weight of Silence](../Sorrow_Entities/SE-N-IIα-285_The_Weight_of_Silence_침묵의_무게.md)|SE-N-IIα-285| Weapon (RELIQUARY — Censer/Bell) |α|Weight|
 |464|Suit|The Silence Mantle|[The Weight of Silence](../Sorrow_Entities/SE-N-IIα-285_The_Weight_of_Silence_침묵의_무게.md)|SE-N-IIα-285| Armor (Mantles, Coats & Cloaks) |α|Weight|
 |465|Gift|The Silence Weight|[The Weight of Silence](../Sorrow_Entities/SE-N-IIα-285_The_Weight_of_Silence_침묵의_무게.md)|SE-N-IIα-285| Accessory (Floating Orbs & Coronets) |α|Weight|
 |466|Weapon|The Duty Fang|[The Forgotten Soldier](../Sorrow_Entities/SE-N-IIβ-033_The_Forgotten_Soldier_잊혀진_병사.md)|SE-N-IIβ-033| Weapon (PRIMAL — Bio/Marrow) |β|Grudge|
 |467|Suit|The Duty Plate|[The Forgotten Soldier](../Sorrow_Entities/SE-N-IIβ-033_The_Forgotten_Soldier_잊혀진_병사.md)|SE-N-IIβ-033| Armor (Plates & Heavy Armor) |β|Grudge|
 |468|Gift|The Duty Blade|[The Forgotten Soldier](../Sorrow_Entities/SE-N-IIβ-033_The_Forgotten_Soldier_잊혀진_병사.md)|SE-N-IIβ-033| Accessory (Rings & Hand Seals) |β|Grudge|
-|469|Weapon|The Wandering Requiem|[The Wandering Door](../Sorrow_Entities/SE-N-IIβ-152_The_Wandering_Door_떠도는_문.md)|SE-N-IIβ-152| Weapon (RELIQUARY — Censer/Bell) |β|Lament|
+|469|Weapon| The Wayfarer's Censer |[The Wandering Door](../Sorrow_Entities/SE-N-IIβ-152_The_Wandering_Door_떠도는_문.md)|SE-N-IIβ-152| Weapon (RELIQUARY — Censer/Bell) |β|Lament|
 |470|Suit|The Wandering Shroud|[The Wandering Door](../Sorrow_Entities/SE-N-IIβ-152_The_Wandering_Door_떠도는_문.md)|SE-N-IIβ-152| Armor (Hauberks & Chain Mail) |β|Lament|
 |471|Gift|The Wandering Key|[The Wandering Door](../Sorrow_Entities/SE-N-IIβ-152_The_Wandering_Door_떠도는_문.md)|SE-N-IIβ-152| Accessory (Rings & Hand Seals) |β|Lament|
-|472|Weapon|The Voice Lens|[The Silent Scream](../Sorrow_Entities/SE-N-IIβ-170_The_Silent_Scream_침묵의_비명.md)|SE-N-IIβ-170| Weapon (FANTASY — Astral/Orrery) |β|Void|
+|472|Weapon| The Resonant Echo-Orrery |[The Silent Scream](../Sorrow_Entities/SE-N-IIβ-170_The_Silent_Scream_침묵의_비명.md)|SE-N-IIβ-170| Weapon (FANTASY — Astral/Orrery) |β|Void|
 |473|Suit|The Voice Veil|[The Silent Scream](../Sorrow_Entities/SE-N-IIβ-170_The_Silent_Scream_침묵의_비명.md)|SE-N-IIβ-170| Armor (Vestments & Outerwear) |β|Void|
 |474|Gift|The Voice Amplifier|[The Silent Scream](../Sorrow_Entities/SE-N-IIβ-170_The_Silent_Scream_침묵의_비명.md)|SE-N-IIβ-170| Accessory (Pendants & Chokers) |β|Void|
-|475|Weapon|The Collector's Vigil-Lantern|[The Debt Collector's Lantern](../Sorrow_Entities/SE-N-IIβ-250_The_Debt_Collector's_Lantern_추징관의_등불.md)|SE-N-IIβ-250| Weapon (GUN — Ballistics) |β|Weight|
+|475|Weapon| The Vigil Hand-Cannon |[The Debt Collector's Lantern](../Sorrow_Entities/SE-N-IIβ-250_The_Debt_Collector's_Lantern_추징관의_등불.md)|SE-N-IIβ-250| Weapon (GUN — Ballistics) |β|Weight|
 |476|Suit|The Debt Mantle|[The Debt Collector's Lantern](../Sorrow_Entities/SE-N-IIβ-250_The_Debt_Collector's_Lantern_추징관의_등불.md)|SE-N-IIβ-250| Armor (Mantles, Coats & Cloaks) |β|Weight|
 |477|Gift|The Debt Lantern|[The Debt Collector's Lantern](../Sorrow_Entities/SE-N-IIβ-250_The_Debt_Collector's_Lantern_추징관의_등불.md)|SE-N-IIβ-250| Accessory (Special Relic Stigmas) |β|Weight|
-|478|Weapon|The Rusted Whisper's Maul|[The Rusted Whisper](../Sorrow_Entities/SE-N-IIβ-270_The_Rusted_Whisper_녹슨_속삭임.md)|SE-N-IIβ-270| Weapon (POLEARM — Spear/Pike) |β|Weight|
+|478|Weapon| The Rusted Boundary-Rod |[The Rusted Whisper](../Sorrow_Entities/SE-N-IIβ-270_The_Rusted_Whisper_녹슨_속삭임.md)|SE-N-IIβ-270| Weapon (POLEARM — Spear/Pike) |β|Weight|
 |479|Suit|The Rusted Whisper's Mantle|[The Rusted Whisper](../Sorrow_Entities/SE-N-IIβ-270_The_Rusted_Whisper_녹슨_속삭임.md)|SE-N-IIβ-270| Armor (Mantles, Coats & Cloaks) |β|Weight|
 |480|Gift|The Rusted Whisper's Bell|[The Rusted Whisper](../Sorrow_Entities/SE-N-IIβ-270_The_Rusted_Whisper_녹슨_속삭임.md)|SE-N-IIβ-270| Accessory (Brooches & Fasteners) |β|Weight|
-|481|Weapon|The Healer's Requiem|[The Kind Healer's Shadow](../Sorrow_Entities/SE-N-IIβ-280_The_Kind_Healer's_Shadow_치유자의_그림자.md)|SE-N-IIβ-280| Weapon (BLADES — Cleaver/Sword) |β|Lament|
+|481|Weapon| The Surgeon's Cleaver |[The Kind Healer's Shadow](../Sorrow_Entities/SE-N-IIβ-280_The_Kind_Healer's_Shadow_치유자의_그림자.md)|SE-N-IIβ-280| Weapon (BLADES — Cleaver/Sword) |β|Lament|
 |482|Suit|The Healer's Shroud|[The Kind Healer's Shadow](../Sorrow_Entities/SE-N-IIβ-280_The_Kind_Healer's_Shadow_치유자의_그림자.md)|SE-N-IIβ-280| Armor (Living Chitin & Carapace) |β|Lament|
 |483|Gift|The Healer's Echo|[The Kind Healer's Shadow](../Sorrow_Entities/SE-N-IIβ-280_The_Kind_Healer's_Shadow_치유자의_그림자.md)|SE-N-IIβ-280| Accessory (Ocular Lenses & Monocles) |β|Lament|
 |484|Weapon|The Torn Fang|[The Torn Fruit](../Sorrow_Entities/SE-N-IIβ-426_The_Torn_Fruit_찢어진_열매.md)|SE-N-IIβ-426| Weapon (PRIMAL — Bio/Marrow) |β|Grudge|
 |485|Suit|The Torn Plate|[The Torn Fruit](../Sorrow_Entities/SE-N-IIβ-426_The_Torn_Fruit_찢어진_열매.md)|SE-N-IIβ-426| Armor (Plates & Heavy Armor) |β|Grudge|
 |486|Gift|The Torn Bracelet|[The Torn Fruit](../Sorrow_Entities/SE-N-IIβ-426_The_Torn_Fruit_찢어진_열매.md)|SE-N-IIβ-426| Accessory (Floating Orbs & Coronets) |β|Grudge|
-|487|Weapon|The Shadow Requiem|[The Forgotten Shadow](../Sorrow_Entities/SE-N-IIβ-453_The_Forgotten_Shadow_잊혀진_그림자.md)|SE-N-IIβ-453| Weapon (FANTASY — Astral/Orrery) |β|Lament|
+|487|Weapon| The Umbral Astrolabe |[The Forgotten Shadow](../Sorrow_Entities/SE-N-IIβ-453_The_Forgotten_Shadow_잊혀진_그림자.md)|SE-N-IIβ-453| Weapon (FANTASY — Astral/Orrery) |β|Lament|
 |488|Suit|The Shadow Shroud|[The Forgotten Shadow](../Sorrow_Entities/SE-N-IIβ-453_The_Forgotten_Shadow_잊혀진_그림자.md)|SE-N-IIβ-453| Armor (Hauberks & Chain Mail) |β|Lament|
 |489|Gift|The Shadow Song|[The Forgotten Shadow](../Sorrow_Entities/SE-N-IIβ-453_The_Forgotten_Shadow_잊혀진_그림자.md)|SE-N-IIβ-453| Accessory (Pendants & Chokers) |β|Lament|
 |490|Weapon|The Fading Fruit Dagger|[The Fading Fruit](../Sorrow_Entities/SE-N-IIβ-456_The_Fading_Fruit_번져가는_열매.md)|SE-N-IIβ-456| Weapon (SHORT BLADE — Stiletto/Awl) |α|Grudge|
@@ -533,244 +533,244 @@ This file is the authoritative M.A.W. registry. It does not alter the source Sor
 |493|Weapon|The Bridge Fang|[The Spreading Bridge](../Sorrow_Entities/SE-N-IIβ-488_The_Spreading_Bridge_스며든_다리.md)|SE-N-IIβ-488| Weapon (PRIMAL — Bio/Marrow) |β|Grudge|
 |494|Suit|The Bridge Plate|[The Spreading Bridge](../Sorrow_Entities/SE-N-IIβ-488_The_Spreading_Bridge_스며든_다리.md)|SE-N-IIβ-488| Armor (Plates & Heavy Armor) |β|Grudge|
 |495|Gift|The Bridge Bracelet|[The Spreading Bridge](../Sorrow_Entities/SE-N-IIβ-488_The_Spreading_Bridge_스며든_다리.md)|SE-N-IIβ-488| Accessory (Special Relic Stigmas) |β|Grudge|
-|496|Weapon|The Scream Shard|[The Soaking Scream](../Sorrow_Entities/SE-N-IIβ-560_The_Soaking_Scream_솟구친_절규.md)|SE-N-IIβ-560| Weapon (RELIQUARY — Censer/Bell) |β|Grudge|
+|496|Weapon| The Protest Relic-Urn |[The Soaking Scream](../Sorrow_Entities/SE-N-IIβ-560_The_Soaking_Scream_솟구친_절규.md)|SE-N-IIβ-560| Weapon (RELIQUARY — Censer/Bell) |β|Grudge|
 |497|Suit|The Scream Plate|[The Soaking Scream](../Sorrow_Entities/SE-N-IIβ-560_The_Soaking_Scream_솟구친_절규.md)|SE-N-IIβ-560| Armor (Plates & Heavy Armor) |β|Grudge|
 |498|Gift|The Scream Charm|[The Soaking Scream](../Sorrow_Entities/SE-N-IIβ-560_The_Soaking_Scream_솟구친_절규.md)|SE-N-IIβ-560| Accessory (Sorrow Charms & Talismans) |β|Grudge|
-|499|Weapon|The Melting Fang|[The Melting Fruit](../Sorrow_Entities/SE-N-IIβ-627_The_Melting_Fruit_녹아내린_열매.md)|SE-N-IIβ-627| Weapon (BLADES — Cleaver/Sword) |β|Grudge|
+|499|Weapon| The Tallow Falchion |[The Melting Fruit](../Sorrow_Entities/SE-N-IIβ-627_The_Melting_Fruit_녹아내린_열매.md)|SE-N-IIβ-627| Weapon (BLADES — Cleaver/Sword) |β|Grudge|
 |500|Suit|The Melting Plate|[The Melting Fruit](../Sorrow_Entities/SE-N-IIβ-627_The_Melting_Fruit_녹아내린_열매.md)|SE-N-IIβ-627| Armor (Plates & Heavy Armor) |β|Grudge|
 |501|Gift|The Melting Seed|[The Melting Fruit](../Sorrow_Entities/SE-N-IIβ-627_The_Melting_Fruit_녹아내린_열매.md)|SE-N-IIβ-627| Accessory (Relic Drops & Seeds) |β|Grudge|
-|502|Weapon|The Wall Lens|[The Spreading Wall](../Sorrow_Entities/SE-N-IIβ-689_The_Spreading_Wall_스며든_벽.md)|SE-N-IIβ-689| Weapon (GUN — Ballistics) |β|Void|
+|502|Weapon| The Bulwark Culverin |[The Spreading Wall](../Sorrow_Entities/SE-N-IIβ-689_The_Spreading_Wall_스며든_벽.md)|SE-N-IIβ-689| Weapon (GUN — Ballistics) |β|Void|
 |503|Suit|The Wall Veil|[The Spreading Wall](../Sorrow_Entities/SE-N-IIβ-689_The_Spreading_Wall_스며든_벽.md)|SE-N-IIβ-689| Armor (Vestments & Outerwear) |β|Void|
 |504|Gift|The Wall Shard|[The Spreading Wall](../Sorrow_Entities/SE-N-IIβ-689_The_Spreading_Wall_스며든_벽.md)|SE-N-IIβ-689| Accessory (Relic Drops & Seeds) |β|Void|
-|505|Weapon|The Listening Requiem|[The Soaking Well](../Sorrow_Entities/SE-N-IIβ-778_The_Soaking_Well_솟구친_우물.md)|SE-N-IIβ-778| Weapon (POLEARM — Spear/Pike) |β|Lament|
+|505|Weapon| The Vigilance Sceptre |[The Soaking Well](../Sorrow_Entities/SE-N-IIβ-778_The_Soaking_Well_솟구친_우물.md)|SE-N-IIβ-778| Weapon (POLEARM — Spear/Pike) |β|Lament|
 |506|Suit|The Listening Shroud|[The Soaking Well](../Sorrow_Entities/SE-N-IIβ-778_The_Soaking_Well_솟구친_우물.md)|SE-N-IIβ-778| Armor (Living Chitin & Carapace) |β|Lament|
 |507|Gift|The Listening Vial|[The Soaking Well](../Sorrow_Entities/SE-N-IIβ-778_The_Soaking_Well_솟구친_우물.md)|SE-N-IIβ-778| Accessory (Relic Drops & Seeds) |β|Lament|
-|508|Weapon|The Rage Fang|[The Soaking Mirror](../Sorrow_Entities/SE-N-IIβ-801_The_Soaking_Mirror_솟아오른_거울.md)|SE-N-IIβ-801| Weapon (RELIQUARY — Censer/Bell) |β|Grudge|
+|508|Weapon| The Grudge Brazier |[The Soaking Mirror](../Sorrow_Entities/SE-N-IIβ-801_The_Soaking_Mirror_솟아오른_거울.md)|SE-N-IIβ-801| Weapon (RELIQUARY — Censer/Bell) |β|Grudge|
 |509|Suit|The Rage Plate|[The Soaking Mirror](../Sorrow_Entities/SE-N-IIβ-801_The_Soaking_Mirror_솟아오른_거울.md)|SE-N-IIβ-801| Armor (Plates & Heavy Armor) |β|Grudge|
 |510|Gift|The Rage Lens|[The Soaking Mirror](../Sorrow_Entities/SE-N-IIβ-801_The_Soaking_Mirror_솟아오른_거울.md)|SE-N-IIβ-801| Accessory (Ocular Lenses & Monocles) |β|Grudge|
 |511|Weapon|The Returning Maul|[The Returning Flower](../Sorrow_Entities/SE-N-IIβ-845_The_Returning_Flower_돌아온_꽃.md)|SE-N-IIβ-845| Weapon (RELIQUARY — Censer/Bell) |β|Weight|
 |512|Suit|The Returning Mantle|[The Returning Flower](../Sorrow_Entities/SE-N-IIβ-845_The_Returning_Flower_돌아온_꽃.md)|SE-N-IIβ-845| Armor (Mantles, Coats & Cloaks) |β|Weight|
 |513|Gift|The Returning Petal|[The Returning Flower](../Sorrow_Entities/SE-N-IIβ-845_The_Returning_Flower_돌아온_꽃.md)|SE-N-IIβ-845| Accessory (Relic Drops & Seeds) |β|Weight|
-|514|Weapon|The Bridge Maul|[Survivor's Span](../Sorrow_Entities/SE-N-IIβ-993_The_Collapsed_Bridge_무너진_다리.md)|SE-N-IIβ-993| Weapon (FANTASY — Astral/Orrery) |β|Weight|
+|514|Weapon| The Arch-Span Orrery |[Survivor's Span](../Sorrow_Entities/SE-N-IIβ-993_The_Collapsed_Bridge_무너진_다리.md)|SE-N-IIβ-993| Weapon (FANTASY — Astral/Orrery) |β|Weight|
 |515|Suit|The Bridge Brace|[Survivor's Span](../Sorrow_Entities/SE-N-IIβ-993_The_Collapsed_Bridge_무너진_다리.md)|SE-N-IIβ-993| Armor (Hauberks & Chain Mail) |β|Weight|
 |516|Gift|The Bridge Charm|[Survivor's Span](../Sorrow_Entities/SE-N-IIβ-993_The_Collapsed_Bridge_무너진_다리.md)|SE-N-IIβ-993| Accessory (Brooches & Fasteners) |β|Weight|
 |517|Weapon|The Ancestral Gravitational Signet|[The Inherited Debt](../Sorrow_Entities/SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md)|SE-N-IVβ-019| Weapon (FANTASY — Astral/Orrery) |β|Weight|
 |518|Suit|The Penitent's Shackled Vestments|[The Inherited Debt](../Sorrow_Entities/SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md)|SE-N-IVβ-019| Armor (Vestments & Outerwear) |β|Weight|
 |519|Gift|The Generational Ledger Scar|[The Inherited Debt](../Sorrow_Entities/SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md)|SE-N-IVβ-019| Accessory (Floating Orbs & Coronets) |β|Weight|
-|520|Weapon|The Embrace Talon|[The Smothering Mother](../Sorrow_Entities/SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md)|SE-N-IVδ-005| Weapon (BLADES — Cleaver/Sword) |δ|Grudge|
+|520|Weapon| The Devotion Executioner-Cleaver |[The Smothering Mother](../Sorrow_Entities/SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md)|SE-N-IVδ-005| Weapon (BLADES — Cleaver/Sword) |δ|Grudge|
 |521|Suit|The Embrace Plate|[The Smothering Mother](../Sorrow_Entities/SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md)|SE-N-IVδ-005| Armor (Plates & Heavy Armor) |δ|Grudge|
 |522|Gift|The Embrace|[The Smothering Mother](../Sorrow_Entities/SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md)|SE-N-IVδ-005| Accessory (Rings & Hand Seals) |δ|Grudge|
-|523|Weapon|The Sleeping Maul|[The Sleeping Sigh](../Sorrow_Entities/SE-N-IVδ-157_The_Sleeping_Sigh_잠든_한숨.md)|SE-N-IVδ-157| Weapon (GUN — Ballistics) |δ|Weight|
+|523|Weapon| The Exhale Culverin |[The Sleeping Sigh](../Sorrow_Entities/SE-N-IVδ-157_The_Sleeping_Sigh_잠든_한숨.md)|SE-N-IVδ-157| Weapon (GUN — Ballistics) |δ|Weight|
 |524|Suit|The Sleeping Mantle|[The Sleeping Sigh](../Sorrow_Entities/SE-N-IVδ-157_The_Sleeping_Sigh_잠든_한숨.md)|SE-N-IVδ-157| Armor (Mantles, Coats & Cloaks) |δ|Weight|
 |525|Gift|The Sleeping Breath|[The Sleeping Sigh](../Sorrow_Entities/SE-N-IVδ-157_The_Sleeping_Sigh_잠든_한숨.md)|SE-N-IVδ-157| Accessory (Brooches & Fasteners) |δ|Weight|
-|526|Weapon|The Frozen Fang|[The Frozen Sigh](../Sorrow_Entities/SE-N-IVδ-159_The_Frozen_Sigh_얼어붙은_한숨.md)|SE-N-IVδ-159| Weapon (SHORT BLADE — Stiletto/Awl) |δ|Grudge|
+|526|Weapon| The Glacial Stiletto |[The Frozen Sigh](../Sorrow_Entities/SE-N-IVδ-159_The_Frozen_Sigh_얼어붙은_한숨.md)|SE-N-IVδ-159| Weapon (SHORT BLADE — Stiletto/Awl) |δ|Grudge|
 |527|Suit|The Frozen Breath|[The Frozen Sigh](../Sorrow_Entities/SE-N-IVδ-159_The_Frozen_Sigh_얼어붙은_한숨.md)|SE-N-IVδ-159| Armor (Living Chitin & Carapace) |δ|Grudge|
 |528|Gift|The Frozen Charm|[The Frozen Sigh](../Sorrow_Entities/SE-N-IVδ-159_The_Frozen_Sigh_얼어붙은_한숨.md)|SE-N-IVδ-159| Accessory (Pendants & Chokers) |δ|Grudge|
-|529|Weapon|The Collapsed Seed Requiem|[The Collapsed Seed](../Sorrow_Entities/SE-N-IVδ-315_The_Collapsed_Seed_무너진_씨앗.md)|SE-N-IVδ-315| Weapon (SHORT BLADE — Stiletto/Awl) |δ|Lament|
+|529|Weapon| The Collapsed Seed-Dagger |[The Collapsed Seed](../Sorrow_Entities/SE-N-IVδ-315_The_Collapsed_Seed_무너진_씨앗.md)|SE-N-IVδ-315| Weapon (SHORT BLADE — Stiletto/Awl) |δ|Lament|
 |530|Suit|The Collapsed Seed Shroud|[The Collapsed Seed](../Sorrow_Entities/SE-N-IVδ-315_The_Collapsed_Seed_무너진_씨앗.md)|SE-N-IVδ-315| Armor (Hauberks & Chain Mail) |δ|Lament|
 |531|Gift|The Collapsed Seed Core|[The Collapsed Seed](../Sorrow_Entities/SE-N-IVδ-315_The_Collapsed_Seed_무너진_씨앗.md)|SE-N-IVδ-315| Accessory (Relic Drops & Seeds) |δ|Lament|
-|532|Weapon|The Fallen Requiem|[The Collapsed Wall](../Sorrow_Entities/SE-N-IVδ-339_The_Collapsed_Wall_무너진_벽.md)|SE-N-IVδ-339| Weapon (POLEARM — Spear/Pike) |δ|Lament|
+|532|Weapon| The Ruined Bastion-Pike |[The Collapsed Wall](../Sorrow_Entities/SE-N-IVδ-339_The_Collapsed_Wall_무너진_벽.md)|SE-N-IVδ-339| Weapon (POLEARM — Spear/Pike) |δ|Lament|
 |533|Suit|The Fallen Barrier|[The Collapsed Wall](../Sorrow_Entities/SE-N-IVδ-339_The_Collapsed_Wall_무너진_벽.md)|SE-N-IVδ-339| Armor (Living Chitin & Carapace) |δ|Lament|
 |534|Gift|The Fallen Charm|[The Collapsed Wall](../Sorrow_Entities/SE-N-IVδ-339_The_Collapsed_Wall_무너진_벽.md)|SE-N-IVδ-339| Accessory (Special Relic Stigmas) |δ|Lament|
-|535|Weapon|The Quiet Requiem|[The Forgotten Silence](../Sorrow_Entities/SE-N-IVδ-489_The_Forgotten_Silence_잊혀진_침묵.md)|SE-N-IVδ-489| Weapon (BLADES — Cleaver/Sword) |δ|Lament|
+|535|Weapon| The Hush Claymore |[The Forgotten Silence](../Sorrow_Entities/SE-N-IVδ-489_The_Forgotten_Silence_잊혀진_침묵.md)|SE-N-IVδ-489| Weapon (BLADES — Cleaver/Sword) |δ|Lament|
 |536|Suit|The Quiet Shroud|[The Forgotten Silence](../Sorrow_Entities/SE-N-IVδ-489_The_Forgotten_Silence_잊혀진_침묵.md)|SE-N-IVδ-489| Armor (Vestments & Outerwear) |δ|Lament|
 |537|Gift|The Quiet Lens|[The Forgotten Silence](../Sorrow_Entities/SE-N-IVδ-489_The_Forgotten_Silence_잊혀진_침묵.md)|SE-N-IVδ-489| Accessory (Ocular Lenses & Monocles) |δ|Lament|
-|538|Weapon|The Broken Tear Requiem|[The Broken Tear](../Sorrow_Entities/SE-N-IVδ-517_The_Broken_Tear_부서진_눈물.md)|SE-N-IVδ-517| Weapon (FANTASY — Astral/Orrery) |δ|Lament|
+|538|Weapon| The Weeping Star-Prism |[The Broken Tear](../Sorrow_Entities/SE-N-IVδ-517_The_Broken_Tear_부서진_눈물.md)|SE-N-IVδ-517| Weapon (FANTASY — Astral/Orrery) |δ|Lament|
 |539|Suit|The Broken Tear Shroud|[The Broken Tear](../Sorrow_Entities/SE-N-IVδ-517_The_Broken_Tear_부서진_눈물.md)|SE-N-IVδ-517| Armor (Vestments & Outerwear) |δ|Lament|
 |540|Gift|The Broken Tear Shard|[The Broken Tear](../Sorrow_Entities/SE-N-IVδ-517_The_Broken_Tear_부서진_눈물.md)|SE-N-IVδ-517| Accessory (Relic Drops & Seeds) |δ|Lament|
-|541|Weapon|The Flowing Bridge Fang|[The Flowing Bridge](../Sorrow_Entities/SE-N-IVδ-525_The_Flowing_Bridge_흐르는_다리.md)|SE-N-IVδ-525| Weapon (RELIQUARY — Censer/Bell) |α|Grudge|
+|541|Weapon| The River-Bridge Shrine |[The Flowing Bridge](../Sorrow_Entities/SE-N-IVδ-525_The_Flowing_Bridge_흐르는_다리.md)|SE-N-IVδ-525| Weapon (RELIQUARY — Censer/Bell) |α|Grudge|
 |542|Suit|The Flowing Bridge Plate|[The Flowing Bridge](../Sorrow_Entities/SE-N-IVδ-525_The_Flowing_Bridge_흐르는_다리.md)|SE-N-IVδ-525| Armor (Plates & Heavy Armor) |α|Grudge|
 |543|Gift|The Flowing Bridge Ring|[The Flowing Bridge](../Sorrow_Entities/SE-N-IVδ-525_The_Flowing_Bridge_흐르는_다리.md)|SE-N-IVδ-525| Accessory (Rings & Hand Seals) |α|Grudge|
-|544|Weapon|The Sunken Requiem|[The Sunken Tree](../Sorrow_Entities/SE-N-IVδ-606_The_Sunken_Tree_가라앉은_나무.md)|SE-N-IVδ-606| Weapon (GUN — Ballistics) |δ|Lament|
+|544|Weapon| The Sunken Harpoon-Gun |[The Sunken Tree](../Sorrow_Entities/SE-N-IVδ-606_The_Sunken_Tree_가라앉은_나무.md)|SE-N-IVδ-606| Weapon (GUN — Ballistics) |δ|Lament|
 |545|Suit|The Sunken Shroud|[The Sunken Tree](../Sorrow_Entities/SE-N-IVδ-606_The_Sunken_Tree_가라앉은_나무.md)|SE-N-IVδ-606| Armor (Hauberks & Chain Mail) |δ|Lament|
 |546|Gift|The Sunken Root|[The Sunken Tree](../Sorrow_Entities/SE-N-IVδ-606_The_Sunken_Tree_가라앉은_나무.md)|SE-N-IVδ-606| Accessory (Floating Orbs & Coronets) |δ|Lament|
-|547|Weapon|The Sleeping Shard Lens|[The Sleeping Shard](../Sorrow_Entities/SE-N-IVδ-611_The_Sleeping_Shard_잠든_조각.md)|SE-N-IVδ-611| Weapon (SHORT BLADE — Stiletto/Awl) |α|Void|
+|547|Weapon| The Slumbering Shard-Knife |[The Sleeping Shard](../Sorrow_Entities/SE-N-IVδ-611_The_Sleeping_Shard_잠든_조각.md)|SE-N-IVδ-611| Weapon (SHORT BLADE — Stiletto/Awl) |α|Void|
 |548|Suit|The Sleeping Shard Veil|[The Sleeping Shard](../Sorrow_Entities/SE-N-IVδ-611_The_Sleeping_Shard_잠든_조각.md)|SE-N-IVδ-611| Armor (Living Chitin & Carapace) |α|Void|
 |549|Gift|The Sleeping Shard Vial|[The Sleeping Shard](../Sorrow_Entities/SE-N-IVδ-611_The_Sleeping_Shard_잠든_조각.md)|SE-N-IVδ-611| Accessory (Brooches & Fasteners) |α|Void|
 |550|Weapon|The Returning Relic's Fang|[The Returning Relic](../Sorrow_Entities/SE-N-IVδ-641_The_Returning_Relic_돌아온_유물.md)|SE-N-IVδ-641| Weapon (RELIQUARY — Censer/Bell) |δ|Grudge|
 |551|Suit|The Returning Relic's Plate|[The Returning Relic](../Sorrow_Entities/SE-N-IVδ-641_The_Returning_Relic_돌아온_유물.md)|SE-N-IVδ-641| Armor (Plates & Heavy Armor) |δ|Grudge|
 |552|Gift|The Returning Relic's Ember|[The Returning Relic](../Sorrow_Entities/SE-N-IVδ-641_The_Returning_Relic_돌아온_유물.md)|SE-N-IVδ-641| Accessory (Special Relic Stigmas) |δ|Grudge|
-|553|Weapon|The Vanished Fang|[The Vanished Sigh](../Sorrow_Entities/SE-N-IVδ-821_The_Vanished_Sigh_사라진_한숨.md)|SE-N-IVδ-821| Weapon (GUN — Ballistics) |δ|Grudge|
+|553|Weapon| The Vanished Flintlock |[The Vanished Sigh](../Sorrow_Entities/SE-N-IVδ-821_The_Vanished_Sigh_사라진_한숨.md)|SE-N-IVδ-821| Weapon (GUN — Ballistics) |δ|Grudge|
 |554|Suit|The Vanished Plate|[The Vanished Sigh](../Sorrow_Entities/SE-N-IVδ-821_The_Vanished_Sigh_사라진_한숨.md)|SE-N-IVδ-821| Armor (Plates & Heavy Armor) |δ|Grudge|
 |555|Gift|The Vanished Breath|[The Vanished Sigh](../Sorrow_Entities/SE-N-IVδ-821_The_Vanished_Sigh_사라진_한숨.md)|SE-N-IVδ-821| Accessory (Pendants & Chokers) |δ|Grudge|
-|556|Weapon|The Forgotten Ruin Fang|[The Forgotten Ruin](../Sorrow_Entities/SE-N-IVδ-852_The_Forgotten_Ruin_잊혀진_잔해.md)|SE-N-IVδ-852| Weapon (FANTASY — Astral/Orrery) |δ|Grudge|
+|556|Weapon| The Forgotten Ruin-Glyph |[The Forgotten Ruin](../Sorrow_Entities/SE-N-IVδ-852_The_Forgotten_Ruin_잊혀진_잔해.md)|SE-N-IVδ-852| Weapon (FANTASY — Astral/Orrery) |δ|Grudge|
 |557|Suit|The Forgotten Ruin Plate|[The Forgotten Ruin](../Sorrow_Entities/SE-N-IVδ-852_The_Forgotten_Ruin_잊혀진_잔해.md)|SE-N-IVδ-852| Armor (Plates & Heavy Armor) |δ|Grudge|
 |558|Gift|The Forgotten Ruin Bracelet|[The Forgotten Ruin](../Sorrow_Entities/SE-N-IVδ-852_The_Forgotten_Ruin_잊혀진_잔해.md)|SE-N-IVδ-852| Accessory (Ocular Lenses & Monocles) |δ|Grudge|
-|559|Weapon|Dormant Monolith Lens|[Dormant Monolith](../Sorrow_Entities/SE-N-IVδ-909_The_Sleeping_Pillar_잠든_기둥.md)|SE-N-IVδ-909| Weapon (POLEARM — Spear/Pike) |δ|Void|
+|559|Weapon| The Monolith Sceptre |[Dormant Monolith](../Sorrow_Entities/SE-N-IVδ-909_The_Sleeping_Pillar_잠든_기둥.md)|SE-N-IVδ-909| Weapon (POLEARM — Spear/Pike) |δ|Void|
 |560|Suit|Dormant Monolith Shield|[Dormant Monolith](../Sorrow_Entities/SE-N-IVδ-909_The_Sleeping_Pillar_잠든_기둥.md)|SE-N-IVδ-909| Armor (Vestments & Outerwear) |δ|Void|
 |561|Gift|Dormant Monolith Charm|[Dormant Monolith](../Sorrow_Entities/SE-N-IVδ-909_The_Sleeping_Pillar_잠든_기둥.md)|SE-N-IVδ-909| Accessory (Floating Orbs & Coronets) |δ|Void|
-|562|Weapon|The Relic Maul|[Pandora's Jar](../Sorrow_Entities/SE-N-IVδ-967_The_Vanished_Relic_사라진_유물.md)|SE-N-IVδ-967| Weapon (BLADES — Cleaver/Sword) |δ|Weight|
+|562|Weapon| The Pandora War-Cleaver |[Pandora's Jar](../Sorrow_Entities/SE-N-IVδ-967_The_Vanished_Relic_사라진_유물.md)|SE-N-IVδ-967| Weapon (BLADES — Cleaver/Sword) |δ|Weight|
 |563|Suit|The Relic Burden|[Pandora's Jar](../Sorrow_Entities/SE-N-IVδ-967_The_Vanished_Relic_사라진_유물.md)|SE-N-IVδ-967| Armor (Hauberks & Chain Mail) |δ|Weight|
 |564|Gift|The Relic Charm|[Pandora's Jar](../Sorrow_Entities/SE-N-IVδ-967_The_Vanished_Relic_사라진_유물.md)|SE-N-IVδ-967| Accessory (Special Relic Stigmas) |δ|Weight|
-|565|Weapon|The Silence Lens|[The Silent Child](../Sorrow_Entities/SE-N-Iα-025_The_Silent_Child_조용한_아이.md)|SE-N-Iα-025| Weapon (SHORT BLADE — Stiletto/Awl) |α|Void|
+|565|Weapon| The Hush Stiletto |[The Silent Child](../Sorrow_Entities/SE-N-Iα-025_The_Silent_Child_조용한_아이.md)|SE-N-Iα-025| Weapon (SHORT BLADE — Stiletto/Awl) |α|Void|
 |566|Suit|The Silence Veil|[The Silent Child](../Sorrow_Entities/SE-N-Iα-025_The_Silent_Child_조용한_아이.md)|SE-N-Iα-025| Armor (Living Chitin & Carapace) |α|Void|
 |567|Gift|The Silence Ring|[The Silent Child](../Sorrow_Entities/SE-N-Iα-025_The_Silent_Child_조용한_아이.md)|SE-N-Iα-025| Accessory (Rings & Hand Seals) |α|Void|
-|568|Weapon|The Empty Fang|[The Soaking Rope](../Sorrow_Entities/SE-N-Iα-316_The_Soaking_Rope_솟구친_밧줄.md)|SE-N-Iα-316| Weapon (RELIQUARY — Censer/Bell) |α|Grudge|
+|568|Weapon| The Penitent Gallows-Beam |[The Soaking Rope](../Sorrow_Entities/SE-N-Iα-316_The_Soaking_Rope_솟구친_밧줄.md)|SE-N-Iα-316| Weapon (RELIQUARY — Censer/Bell) |α|Grudge|
 |569|Suit|The Empty Plate|[The Soaking Rope](../Sorrow_Entities/SE-N-Iα-316_The_Soaking_Rope_솟구친_밧줄.md)|SE-N-Iα-316| Armor (Plates & Heavy Armor) |α|Grudge|
 |570|Gift|The Empty Knot|[The Soaking Rope](../Sorrow_Entities/SE-N-Iα-316_The_Soaking_Rope_솟구친_밧줄.md)|SE-N-Iα-316| Accessory (Pendants & Chokers) |α|Grudge|
-|571|Weapon|The Sleeping Wall Lens|[The Sleeping Wall](../Sorrow_Entities/SE-N-Iα-459_The_Sleeping_Wall_잠든_벽.md)|SE-N-Iα-459| Weapon (GUN — Ballistics) |α|Void|
+|571|Weapon| The Slumbering Wall-Gun |[The Sleeping Wall](../Sorrow_Entities/SE-N-Iα-459_The_Sleeping_Wall_잠든_벽.md)|SE-N-Iα-459| Weapon (GUN — Ballistics) |α|Void|
 |572|Suit|The Sleeping Wall Plate|[The Sleeping Wall](../Sorrow_Entities/SE-N-Iα-459_The_Sleeping_Wall_잠든_벽.md)|SE-N-Iα-459| Armor (Hauberks & Chain Mail) |α|Void|
 |573|Gift|The Sleeping Wall Charm|[The Sleeping Wall](../Sorrow_Entities/SE-N-Iα-459_The_Sleeping_Wall_잠든_벽.md)|SE-N-Iα-459| Accessory (Brooches & Fasteners) |α|Void|
-|574|Weapon|The Soaking Window Requiem|[The Soaking Window](../Sorrow_Entities/SE-N-Iα-518_The_Soaking_Window_솟구친_창.md)|SE-N-Iα-518| Weapon (FANTASY — Astral/Orrery) |α|Lament|
+|574|Weapon| The Fenestrated Prism |[The Soaking Window](../Sorrow_Entities/SE-N-Iα-518_The_Soaking_Window_솟구친_창.md)|SE-N-Iα-518| Weapon (FANTASY — Astral/Orrery) |α|Lament|
 |575|Suit|The Soaking Window Shroud|[The Soaking Window](../Sorrow_Entities/SE-N-Iα-518_The_Soaking_Window_솟구친_창.md)|SE-N-Iα-518| Armor (Vestments & Outerwear) |α|Lament|
 |576|Gift|The Soaking Window Shard|[The Soaking Window](../Sorrow_Entities/SE-N-Iα-518_The_Soaking_Window_솟구친_창.md)|SE-N-Iα-518| Accessory (Relic Drops & Seeds) |α|Lament|
-|577|Weapon|The Empty Lens|[The Spreading Seed](../Sorrow_Entities/SE-N-Iα-519_The_Spreading_Seed_스며든_씨앗.md)|SE-N-Iα-519| Weapon (POLEARM — Spear/Pike) |α|Void|
+|577|Weapon| The Sowing Glaive |[The Spreading Seed](../Sorrow_Entities/SE-N-Iα-519_The_Spreading_Seed_스며든_씨앗.md)|SE-N-Iα-519| Weapon (POLEARM — Spear/Pike) |α|Void|
 |578|Suit|The Empty Veil|[The Spreading Seed](../Sorrow_Entities/SE-N-Iα-519_The_Spreading_Seed_스며든_씨앗.md)|SE-N-Iα-519| Armor (Living Chitin & Carapace) |α|Void|
 |579|Gift|The Empty Seed|[The Spreading Seed](../Sorrow_Entities/SE-N-Iα-519_The_Spreading_Seed_스며든_씨앗.md)|SE-N-Iα-519| Accessory (Relic Drops & Seeds) |α|Void|
-|580|Weapon|The Torn Window Fang|[The Torn Window](../Sorrow_Entities/SE-N-Iα-686_The_Torn_Window_찢어진_창.md)|SE-N-Iα-686| Weapon (BLADES — Cleaver/Sword) |α|Grudge|
+|580|Weapon| The Window-Shard Sabre |[The Torn Window](../Sorrow_Entities/SE-N-Iα-686_The_Torn_Window_찢어진_창.md)|SE-N-Iα-686| Weapon (BLADES — Cleaver/Sword) |α|Grudge|
 |581|Suit|The Torn Window Plate|[The Torn Window](../Sorrow_Entities/SE-N-Iα-686_The_Torn_Window_찢어진_창.md)|SE-N-Iα-686| Armor (Hauberks & Chain Mail) |α|Grudge|
 |582|Gift|The Torn Window Shard|[The Torn Window](../Sorrow_Entities/SE-N-Iα-686_The_Torn_Window_찢어진_창.md)|SE-N-Iα-686| Accessory (Relic Drops & Seeds) |α|Grudge|
-|583|Weapon|The Collapsed Tear Requiem|[The Collapsed Tear](../Sorrow_Entities/SE-N-Iα-785_The_Collapsed_Tear_무너진_눈물.md)|SE-N-Iα-785| Weapon (SHORT BLADE — Stiletto/Awl) |β|Lament|
+|583|Weapon| The Tear-Drop Awl |[The Collapsed Tear](../Sorrow_Entities/SE-N-Iα-785_The_Collapsed_Tear_무너진_눈물.md)|SE-N-Iα-785| Weapon (SHORT BLADE — Stiletto/Awl) |β|Lament|
 |584|Suit|The Collapsed Tear Shroud|[The Collapsed Tear](../Sorrow_Entities/SE-N-Iα-785_The_Collapsed_Tear_무너진_눈물.md)|SE-N-Iα-785| Armor (Living Chitin & Carapace) |β|Lament|
 |585|Gift|The Collapsed Tear Ring|[The Collapsed Tear](../Sorrow_Entities/SE-N-Iα-785_The_Collapsed_Tear_무너진_눈물.md)|SE-N-Iα-785| Accessory (Rings & Hand Seals) |β|Lament|
-|586|Weapon|The Rage Fang|[The Wrath Flame](../Sorrow_Entities/SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md)|SE-O-IIIβ-120| Weapon (RELIQUARY — Censer/Bell) |β|Grudge|
+|586|Weapon| The Wrath-Ember Censer |[The Wrath Flame](../Sorrow_Entities/SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md)|SE-O-IIIβ-120| Weapon (RELIQUARY — Censer/Bell) |β|Grudge|
 |587|Suit|The Rage Plate|[The Wrath Flame](../Sorrow_Entities/SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md)|SE-O-IIIβ-120| Armor (Vestments & Outerwear) |β|Grudge|
 |588|Gift|The Rage Ember|[The Wrath Flame](../Sorrow_Entities/SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md)|SE-O-IIIβ-120| Accessory (Ocular Lenses & Monocles) |β|Grudge|
-|589|Weapon|The Soul Requiem|[The Forgotten Soul](../Sorrow_Entities/SE-O-IIIγ-233_The_Forgotten_Soul_잊혀진_영혼.md)|SE-O-IIIγ-233| Weapon (GUN — Ballistics) |γ|Lament|
+|589|Weapon| The Forgotten Carbine |[The Forgotten Soul](../Sorrow_Entities/SE-O-IIIγ-233_The_Forgotten_Soul_잊혀진_영혼.md)|SE-O-IIIγ-233| Weapon (GUN — Ballistics) |γ|Lament|
 |590|Suit|The Soul Shroud|[The Forgotten Soul](../Sorrow_Entities/SE-O-IIIγ-233_The_Forgotten_Soul_잊혀진_영혼.md)|SE-O-IIIγ-233| Armor (Vestments & Outerwear) |γ|Lament|
 |591|Gift|The Soul Thread|[The Forgotten Soul](../Sorrow_Entities/SE-O-IIIγ-233_The_Forgotten_Soul_잊혀진_영혼.md)|SE-O-IIIγ-233| Accessory (Floating Orbs & Coronets) |γ|Lament|
-|592|Weapon|The Broken Whisper's Requiem|[The Broken Whisper](../Sorrow_Entities/SE-O-IIIγ-369_The_Broken_Whisper_부서진_속삭임.md)|SE-O-IIIγ-369| Weapon (FANTASY — Astral/Orrery) |γ|Lament|
+|592|Weapon| The Murmur Astrolabe |[The Broken Whisper](../Sorrow_Entities/SE-O-IIIγ-369_The_Broken_Whisper_부서진_속삭임.md)|SE-O-IIIγ-369| Weapon (FANTASY — Astral/Orrery) |γ|Lament|
 |593|Suit|The Broken Whisper's Shroud|[The Broken Whisper](../Sorrow_Entities/SE-O-IIIγ-369_The_Broken_Whisper_부서진_속삭임.md)|SE-O-IIIγ-369| Armor (Hauberks & Chain Mail) |γ|Lament|
 |594|Gift|The Broken Whisper's Bell|[The Broken Whisper](../Sorrow_Entities/SE-O-IIIγ-369_The_Broken_Whisper_부서진_속삭임.md)|SE-O-IIIγ-369| Accessory (Special Relic Stigmas) |γ|Lament|
-|595|Weapon|The Vanished Lens|[The Vanished Silence](../Sorrow_Entities/SE-O-IIIγ-371_The_Vanished_Silence_사라진_침묵.md)|SE-O-IIIγ-371| Weapon (POLEARM — Spear/Pike) |γ|Void|
+|595|Weapon| The Silent War-Scythe |[The Vanished Silence](../Sorrow_Entities/SE-O-IIIγ-371_The_Vanished_Silence_사라진_침묵.md)|SE-O-IIIγ-371| Weapon (POLEARM — Spear/Pike) |γ|Void|
 |596|Suit|The Vanished Veil|[The Vanished Silence](../Sorrow_Entities/SE-O-IIIγ-371_The_Vanished_Silence_사라진_침묵.md)|SE-O-IIIγ-371| Armor (Living Chitin & Carapace) |γ|Void|
 |597|Gift|The Vanished Word|[The Vanished Silence](../Sorrow_Entities/SE-O-IIIγ-371_The_Vanished_Silence_사라진_침묵.md)|SE-O-IIIγ-371| Accessory (Pendants & Chokers) |γ|Void|
-|598|Weapon|The Sleeping Tree Fang|[The Sleeping Tree](../Sorrow_Entities/SE-O-IIIγ-374_The_Sleeping_Tree_잠든_나무.md)|SE-O-IIIγ-374| Weapon (BLADES — Cleaver/Sword) |β|Grudge|
+|598|Weapon| The Slumbering Oak-Blade |[The Sleeping Tree](../Sorrow_Entities/SE-O-IIIγ-374_The_Sleeping_Tree_잠든_나무.md)|SE-O-IIIγ-374| Weapon (BLADES — Cleaver/Sword) |β|Grudge|
 |599|Suit|The Sleeping Tree Plate|[The Sleeping Tree](../Sorrow_Entities/SE-O-IIIγ-374_The_Sleeping_Tree_잠든_나무.md)|SE-O-IIIγ-374| Armor (Hauberks & Chain Mail) |β|Grudge|
 |600|Gift|The Sleeping Tree Bracelet|[The Sleeping Tree](../Sorrow_Entities/SE-O-IIIγ-374_The_Sleeping_Tree_잠든_나무.md)|SE-O-IIIγ-374| Accessory (Brooches & Fasteners) |β|Grudge|
-|601|Weapon|The Sunken Tear Maul|[The Sunken Tear](../Sorrow_Entities/SE-O-IIIγ-476_The_Sunken_Tear_가라앉은_눈물.md)|SE-O-IIIγ-476| Weapon (GUN — Ballistics) |γ|Weight|
+|601|Weapon| The Sunken Tear Mortar |[The Sunken Tear](../Sorrow_Entities/SE-O-IIIγ-476_The_Sunken_Tear_가라앉은_눈물.md)|SE-O-IIIγ-476| Weapon (GUN — Ballistics) |γ|Weight|
 |602|Suit|The Sunken Tear Mantle|[The Sunken Tear](../Sorrow_Entities/SE-O-IIIγ-476_The_Sunken_Tear_가라앉은_눈물.md)|SE-O-IIIγ-476| Armor (Mantles, Coats & Cloaks) |γ|Weight|
 |603|Gift|The Sunken Tear Shard|[The Sunken Tear](../Sorrow_Entities/SE-O-IIIγ-476_The_Sunken_Tear_가라앉은_눈물.md)|SE-O-IIIγ-476| Accessory (Relic Drops & Seeds) |γ|Weight|
-|604|Weapon|The Ruin Requiem|[The Broken Ruin](../Sorrow_Entities/SE-O-IIIγ-559_The_Broken_Ruin_부서진_잔해.md)|SE-O-IIIγ-559| Weapon (SHORT BLADE — Stiletto/Awl) |γ|Lament|
+|604|Weapon| The Scavenger's Dirk |[The Broken Ruin](../Sorrow_Entities/SE-O-IIIγ-559_The_Broken_Ruin_부서진_잔해.md)|SE-O-IIIγ-559| Weapon (SHORT BLADE — Stiletto/Awl) |γ|Lament|
 |605|Suit|The Ruin Shroud|[The Broken Ruin](../Sorrow_Entities/SE-O-IIIγ-559_The_Broken_Ruin_부서진_잔해.md)|SE-O-IIIγ-559| Armor (Living Chitin & Carapace) |γ|Lament|
 |606|Gift|The Ruin Fragment|[The Broken Ruin](../Sorrow_Entities/SE-O-IIIγ-559_The_Broken_Ruin_부서진_잔해.md)|SE-O-IIIγ-559| Accessory (Relic Drops & Seeds) |γ|Lament|
-|607|Weapon|The Soaking Wall Fang|[The Soaking Wall](../Sorrow_Entities/SE-O-IIIγ-617_The_Soaking_Wall_솟구친_벽.md)|SE-O-IIIγ-617| Weapon (RELIQUARY — Censer/Bell) |α|Grudge|
+|607|Weapon| The Wall-Fresco Monument |[The Soaking Wall](../Sorrow_Entities/SE-O-IIIγ-617_The_Soaking_Wall_솟구친_벽.md)|SE-O-IIIγ-617| Weapon (RELIQUARY — Censer/Bell) |α|Grudge|
 |608|Suit|The Soaking Wall Plate|[The Soaking Wall](../Sorrow_Entities/SE-O-IIIγ-617_The_Soaking_Wall_솟구친_벽.md)|SE-O-IIIγ-617| Armor (Vestments & Outerwear) |α|Grudge|
 |609|Gift|The Soaking Wall Ring|[The Soaking Wall](../Sorrow_Entities/SE-O-IIIγ-617_The_Soaking_Wall_솟구친_벽.md)|SE-O-IIIγ-617| Accessory (Rings & Hand Seals) |α|Grudge|
-|610|Weapon|The Sleeping Relic's Lens|[The Sleeping Relic](../Sorrow_Entities/SE-O-IIIγ-651_The_Sleeping_Relic_잠든_유물.md)|SE-O-IIIγ-651| Weapon (FANTASY — Astral/Orrery) |γ|Void|
+|610|Weapon| The Dormant Halo-Ring |[The Sleeping Relic](../Sorrow_Entities/SE-O-IIIγ-651_The_Sleeping_Relic_잠든_유물.md)|SE-O-IIIγ-651| Weapon (FANTASY — Astral/Orrery) |γ|Void|
 |611|Suit|The Sleeping Relic's Cover|[The Sleeping Relic](../Sorrow_Entities/SE-O-IIIγ-651_The_Sleeping_Relic_잠든_유물.md)|SE-O-IIIγ-651| Armor (Vestments & Outerwear) |γ|Void|
 |612|Gift|The Sleeping Relic's Charm|[The Sleeping Relic](../Sorrow_Entities/SE-O-IIIγ-651_The_Sleeping_Relic_잠든_유물.md)|SE-O-IIIγ-651| Accessory (Brooches & Fasteners) |γ|Void|
-|613|Weapon|Driftglass Requiem|[Driftglass](../Sorrow_Entities/SE-O-IIIγ-914_The_Wandering_Soul_떠도는_영혼.md)|SE-O-IIIγ-914| Weapon (POLEARM — Spear/Pike) |γ|Lament|
+|613|Weapon| The Driftglass Harpoon-Pike |[Driftglass](../Sorrow_Entities/SE-O-IIIγ-914_The_Wandering_Soul_떠도는_영혼.md)|SE-O-IIIγ-914| Weapon (POLEARM — Spear/Pike) |γ|Lament|
 |614|Suit|Driftglass Shroud|[Driftglass](../Sorrow_Entities/SE-O-IIIγ-914_The_Wandering_Soul_떠도는_영혼.md)|SE-O-IIIγ-914| Armor (Hauberks & Chain Mail) |γ|Lament|
 |615|Gift|Driftglass Lantern|[Driftglass](../Sorrow_Entities/SE-O-IIIγ-914_The_Wandering_Soul_떠도는_영혼.md)|SE-O-IIIγ-914| Accessory (Special Relic Stigmas) |γ|Lament|
-|616|Weapon|The Rusted Lens|[Corrosion Dream](../Sorrow_Entities/SE-O-IIIγ-915_The_Rusted_Bridge_녹슨_다리.md)|SE-O-IIIγ-915| Weapon (BLADES — Cleaver/Sword) |γ|Void|
+|616|Weapon| The Corrosion Cutlass |[Corrosion Dream](../Sorrow_Entities/SE-O-IIIγ-915_The_Rusted_Bridge_녹슨_다리.md)|SE-O-IIIγ-915| Weapon (BLADES — Cleaver/Sword) |γ|Void|
 |617|Suit|The Rusted Span|[Corrosion Dream](../Sorrow_Entities/SE-O-IIIγ-915_The_Rusted_Bridge_녹슨_다리.md)|SE-O-IIIγ-915| Armor (Living Chitin & Carapace) |γ|Void|
 |618|Gift|The Rusted Charm|[Corrosion Dream](../Sorrow_Entities/SE-O-IIIγ-915_The_Rusted_Bridge_녹슨_다리.md)|SE-O-IIIγ-915| Accessory (Ocular Lenses & Monocles) |γ|Void|
-|619|Weapon|Graveweed Requiem|[Graveweed](../Sorrow_Entities/SE-O-IIIγ-959_The_Rising_Root_솟아오른_뿌리.md)|SE-O-IIIγ-959| Weapon (GUN — Ballistics) |α|Lament|
+|619|Weapon| The Graveweed Needle-Rifle |[Graveweed](../Sorrow_Entities/SE-O-IIIγ-959_The_Rising_Root_솟아오른_뿌리.md)|SE-O-IIIγ-959| Weapon (GUN — Ballistics) |α|Lament|
 |620|Suit|Graveweed Shield|[Graveweed](../Sorrow_Entities/SE-O-IIIγ-959_The_Rising_Root_솟아오른_뿌리.md)|SE-O-IIIγ-959| Armor (Vestments & Outerwear) |α|Lament|
 |621|Gift|Graveweed Charm|[Graveweed](../Sorrow_Entities/SE-O-IIIγ-959_The_Rising_Root_솟아오른_뿌리.md)|SE-O-IIIγ-959| Accessory (Floating Orbs & Coronets) |α|Lament|
-|622|Weapon|The Occlusihan Fang|[The Scar Walker](../Sorrow_Entities/SE-O-IIIδ-011_The_Scar_Walker_흉터의_행자.md)|SE-O-IIIδ-011| Weapon (FANTASY — Astral/Orrery) |δ|Grudge|
+|622|Weapon| The Occlusion Star-Chalice |[The Scar Walker](../Sorrow_Entities/SE-O-IIIδ-011_The_Scar_Walker_흉터의_행자.md)|SE-O-IIIδ-011| Weapon (FANTASY — Astral/Orrery) |δ|Grudge|
 |623|Suit|The Occlusihan Plate|[The Scar Walker](../Sorrow_Entities/SE-O-IIIδ-011_The_Scar_Walker_흉터의_행자.md)|SE-O-IIIδ-011| Armor (Hauberks & Chain Mail) |δ|Grudge|
 |624|Gift|The Occlusihan Blade|[The Scar Walker](../Sorrow_Entities/SE-O-IIIδ-011_The_Scar_Walker_흉터의_행자.md)|SE-O-IIIδ-011| Accessory (Pendants & Chokers) |δ|Grudge|
-|625|Weapon|The Shadow Lens|[The Wandering Shadow](../Sorrow_Entities/SE-O-IIβ-119_The_Wandering_Shadow_떠도는_그림자.md)|SE-O-IIβ-119| Weapon (SHORT BLADE — Stiletto/Awl) |β|Void|
+|625|Weapon| The Shadow-Cast Kukri |[The Wandering Shadow](../Sorrow_Entities/SE-O-IIβ-119_The_Wandering_Shadow_떠도는_그림자.md)|SE-O-IIβ-119| Weapon (SHORT BLADE — Stiletto/Awl) |β|Void|
 |626|Suit|The Shadow Veil|[The Wandering Shadow](../Sorrow_Entities/SE-O-IIβ-119_The_Wandering_Shadow_떠도는_그림자.md)|SE-O-IIβ-119| Armor (Living Chitin & Carapace) |β|Void|
 |627|Gift|The Shadow Hearth|[The Wandering Shadow](../Sorrow_Entities/SE-O-IIβ-119_The_Wandering_Shadow_떠도는_그림자.md)|SE-O-IIβ-119| Accessory (Special Relic Stigmas) |β|Void|
-|628|Weapon|The Torn Soul's Fang|[The Torn Soul](../Sorrow_Entities/SE-O-IIβ-235_The_Torn_Soul_찢어진_영혼.md)|SE-O-IIβ-235| Weapon (RELIQUARY — Censer/Bell) |β|Grudge|
+|628|Weapon| The Torn Spirit-Urn |[The Torn Soul](../Sorrow_Entities/SE-O-IIβ-235_The_Torn_Soul_찢어진_영혼.md)|SE-O-IIβ-235| Weapon (RELIQUARY — Censer/Bell) |β|Grudge|
 |629|Suit|The Torn Soul's Plate|[The Torn Soul](../Sorrow_Entities/SE-O-IIβ-235_The_Torn_Soul_찢어진_영혼.md)|SE-O-IIβ-235| Armor (Hauberks & Chain Mail) |β|Grudge|
 |630|Gift|The Torn Soul's Pendant|[The Torn Soul](../Sorrow_Entities/SE-O-IIβ-235_The_Torn_Soul_찢어진_영혼.md)|SE-O-IIβ-235| Accessory (Pendants & Chokers) |β|Grudge|
-|631|Weapon|The Melting Flame Requiem|[The Melting Flame](../Sorrow_Entities/SE-O-IIβ-301_The_Melting_Flame_녹아내린_불꽃.md)|SE-O-IIβ-301| Weapon (POLEARM — Spear/Pike) |β|Lament|
+|631|Weapon| The Smoldering Brand-Lance |[The Melting Flame](../Sorrow_Entities/SE-O-IIβ-301_The_Melting_Flame_녹아내린_불꽃.md)|SE-O-IIβ-301| Weapon (POLEARM — Spear/Pike) |β|Lament|
 |632|Suit|The Melting Flame Shroud|[The Melting Flame](../Sorrow_Entities/SE-O-IIβ-301_The_Melting_Flame_녹아내린_불꽃.md)|SE-O-IIβ-301| Armor (Living Chitin & Carapace) |β|Lament|
 |633|Gift|The Melting Flame Ember|[The Melting Flame](../Sorrow_Entities/SE-O-IIβ-301_The_Melting_Flame_녹아내린_불꽃.md)|SE-O-IIβ-301| Accessory (Ocular Lenses & Monocles) |β|Lament|
-|634|Weapon|The Drowned Requiem|[The Drowned Echo](../Sorrow_Entities/SE-O-IIβ-378_The_Drowned_Echo_침몰한_메아리.md)|SE-O-IIβ-378| Weapon (BLADES — Cleaver/Sword) |β|Lament|
+|634|Weapon| The Deluge Longsword |[The Drowned Echo](../Sorrow_Entities/SE-O-IIβ-378_The_Drowned_Echo_침몰한_메아리.md)|SE-O-IIβ-378| Weapon (BLADES — Cleaver/Sword) |β|Lament|
 |635|Suit|The Drowned Shroud|[The Drowned Echo](../Sorrow_Entities/SE-O-IIβ-378_The_Drowned_Echo_침몰한_메아리.md)|SE-O-IIβ-378| Armor (Vestments & Outerwear) |β|Lament|
 |636|Gift|The Drowned Bell|[The Drowned Echo](../Sorrow_Entities/SE-O-IIβ-378_The_Drowned_Echo_침몰한_메아리.md)|SE-O-IIβ-378| Accessory (Floating Orbs & Coronets) |β|Lament|
-|637|Weapon|The Soaking Requiem|[The Soaking Chain](../Sorrow_Entities/SE-O-IIβ-467_The_Soaking_Chain_솟구친_사슬.md)|SE-O-IIβ-467| Weapon (GUN — Ballistics) |β|Lament|
+|637|Weapon| The Soaking Chain-Gun |[The Soaking Chain](../Sorrow_Entities/SE-O-IIβ-467_The_Soaking_Chain_솟구친_사슬.md)|SE-O-IIβ-467| Weapon (GUN — Ballistics) |β|Lament|
 |638|Suit|The Soaking Shroud|[The Soaking Chain](../Sorrow_Entities/SE-O-IIβ-467_The_Soaking_Chain_솟구친_사슬.md)|SE-O-IIβ-467| Armor (Vestments & Outerwear) |β|Lament|
 |639|Gift|The Soaking Link|[The Soaking Chain](../Sorrow_Entities/SE-O-IIβ-467_The_Soaking_Chain_솟구친_사슬.md)|SE-O-IIβ-467| Accessory (Rings & Hand Seals) |β|Lament|
-|640|Weapon|The Vanished Fang|[The Vanished Tower](../Sorrow_Entities/SE-O-IIβ-677_The_Vanished_Tower_사라진_탑.md)|SE-O-IIβ-677| Weapon (FANTASY — Astral/Orrery) |β|Grudge|
+|640|Weapon| The Vanished Spire-Orrery |[The Vanished Tower](../Sorrow_Entities/SE-O-IIβ-677_The_Vanished_Tower_사라진_탑.md)|SE-O-IIβ-677| Weapon (FANTASY — Astral/Orrery) |β|Grudge|
 |641|Suit|The Vanished Plate|[The Vanished Tower](../Sorrow_Entities/SE-O-IIβ-677_The_Vanished_Tower_사라진_탑.md)|SE-O-IIβ-677| Armor (Hauberks & Chain Mail) |β|Grudge|
 |642|Gift|The Vanished Floor|[The Vanished Tower](../Sorrow_Entities/SE-O-IIβ-677_The_Vanished_Tower_사라진_탑.md)|SE-O-IIβ-677| Accessory (Brooches & Fasteners) |β|Grudge|
-|643|Weapon|The Broken Fang|[The Broken Door](../Sorrow_Entities/SE-O-IIβ-757_The_Broken_Door_부서진_문.md)|SE-O-IIβ-757| Weapon (SHORT BLADE — Stiletto/Awl) |β|Grudge|
+|643|Weapon| The Broken Lintel-Dagger |[The Broken Door](../Sorrow_Entities/SE-O-IIβ-757_The_Broken_Door_부서진_문.md)|SE-O-IIβ-757| Weapon (SHORT BLADE — Stiletto/Awl) |β|Grudge|
 |644|Suit|The Broken Plate|[The Broken Door](../Sorrow_Entities/SE-O-IIβ-757_The_Broken_Door_부서진_문.md)|SE-O-IIβ-757| Armor (Living Chitin & Carapace) |β|Grudge|
 |645|Gift|The Broken Hinge|[The Broken Door](../Sorrow_Entities/SE-O-IIβ-757_The_Broken_Door_부서진_문.md)|SE-O-IIβ-757| Accessory (Special Relic Stigmas) |β|Grudge|
-|646|Weapon|The Tower Requiem|[The Soaking Tower](../Sorrow_Entities/SE-O-IIβ-796_The_Soaking_Tower_솟구친_탑.md)|SE-O-IIβ-796| Weapon (RELIQUARY — Censer/Bell) |β|Lament|
+|646|Weapon| The Sinking Chime-Tower |[The Soaking Tower](../Sorrow_Entities/SE-O-IIβ-796_The_Soaking_Tower_솟구친_탑.md)|SE-O-IIβ-796| Weapon (RELIQUARY — Censer/Bell) |β|Lament|
 |647|Suit|The Tower Shroud|[The Soaking Tower](../Sorrow_Entities/SE-O-IIβ-796_The_Soaking_Tower_솟구친_탑.md)|SE-O-IIβ-796| Armor (Hauberks & Chain Mail) |β|Lament|
 |648|Gift|The Tower Tear|[The Soaking Tower](../Sorrow_Entities/SE-O-IIβ-796_The_Soaking_Tower_솟구친_탑.md)|SE-O-IIβ-796| Accessory (Ocular Lenses & Monocles) |β|Lament|
-|649|Weapon|The Rusted Soul's Requiem|[The Rusted Soul](../Sorrow_Entities/SE-O-IIβ-833_The_Rusted_Soul_녹슨_영혼.md)|SE-O-IIβ-833| Weapon (GUN — Ballistics) |β|Lament|
+|649|Weapon| The Rusted Lock-Pistol |[The Rusted Soul](../Sorrow_Entities/SE-O-IIβ-833_The_Rusted_Soul_녹슨_영혼.md)|SE-O-IIβ-833| Weapon (GUN — Ballistics) |β|Lament|
 |650|Suit|The Rusted Soul's Shroud|[The Rusted Soul](../Sorrow_Entities/SE-O-IIβ-833_The_Rusted_Soul_녹슨_영혼.md)|SE-O-IIβ-833| Armor (Mantles, Coats & Cloaks) |β|Lament|
 |651|Gift|The Rusted Soul's Crown|[The Rusted Soul](../Sorrow_Entities/SE-O-IIβ-833_The_Rusted_Soul_녹슨_영혼.md)|SE-O-IIβ-833| Accessory (Floating Orbs & Coronets) |β|Lament|
-|652|Weapon|Door to Nowhere Fang|[Door to Nowhere](../Sorrow_Entities/SE-O-IIβ-922_The_Rising_Door_솟아오른_문.md)|SE-O-IIβ-922| Weapon (POLEARM — Spear/Pike) |δ|Grudge|
+|652|Weapon| The Threshold Ward-Staff |[Door to Nowhere](../Sorrow_Entities/SE-O-IIβ-922_The_Rising_Door_솟아오른_문.md)|SE-O-IIβ-922| Weapon (POLEARM — Spear/Pike) |δ|Grudge|
 |653|Suit|Door to Nowhere Shield|[Door to Nowhere](../Sorrow_Entities/SE-O-IIβ-922_The_Rising_Door_솟아오른_문.md)|SE-O-IIβ-922| Armor (Living Chitin & Carapace) |δ|Grudge|
 |654|Gift|Door to Nowhere Charm|[Door to Nowhere](../Sorrow_Entities/SE-O-IIβ-922_The_Rising_Door_솟아오른_문.md)|SE-O-IIβ-922| Accessory (Rings & Hand Seals) |δ|Grudge|
-|655|Weapon|The Hope Lens|[The Drift Fog](../Sorrow_Entities/SE-O-IIγ-007_The_Drift_Fog_drifting_안개.md)|SE-O-IIγ-007| Weapon (BLADES — Cleaver/Sword) |γ|Void|
+|655|Weapon| The Horizon Blade |[The Drift Fog](../Sorrow_Entities/SE-O-IIγ-007_The_Drift_Fog_drifting_안개.md)|SE-O-IIγ-007| Weapon (BLADES — Cleaver/Sword) |γ|Void|
 |656|Suit|The Hope Veil|[The Drift Fog](../Sorrow_Entities/SE-O-IIγ-007_The_Drift_Fog_drifting_안개.md)|SE-O-IIγ-007| Armor (Vestments & Outerwear) |γ|Void|
 |657|Gift|The Hope Lantern|[The Drift Fog](../Sorrow_Entities/SE-O-IIγ-007_The_Drift_Fog_drifting_안개.md)|SE-O-IIγ-007| Accessory (Pendants & Chokers) |γ|Void|
-|658|Weapon|The Fragment Maul|[The Broken Fragment](../Sorrow_Entities/SE-O-IVδ-115_The_Broken_Fragment_부서진_파편.md)|SE-O-IVδ-115| Weapon (FANTASY — Astral/Orrery) |δ|Weight|
+|658|Weapon| The Shard-Storm Reel |[The Broken Fragment](../Sorrow_Entities/SE-O-IVδ-115_The_Broken_Fragment_부서진_파편.md)|SE-O-IVδ-115| Weapon (FANTASY — Astral/Orrery) |δ|Weight|
 |659|Suit|The Fragment Plate|[The Broken Fragment](../Sorrow_Entities/SE-O-IVδ-115_The_Broken_Fragment_부서진_파편.md)|SE-O-IVδ-115| Armor (Hauberks & Chain Mail) |δ|Weight|
 |660|Gift|The Fragment Charm|[The Broken Fragment](../Sorrow_Entities/SE-O-IVδ-115_The_Broken_Fragment_부서진_파편.md)|SE-O-IVδ-115| Accessory (Brooches & Fasteners) |δ|Weight|
-|661|Weapon|The Border Root|[The Spreading Tree](../Sorrow_Entities/SE-O-IVδ-151_The_Spreading_Tree_스며든_나무.md)|SE-O-IVδ-151| Weapon (SHORT BLADE — Stiletto/Awl) |δ|Grudge|
+|661|Weapon| The Bramble Tanto |[The Spreading Tree](../Sorrow_Entities/SE-O-IVδ-151_The_Spreading_Tree_스며든_나무.md)|SE-O-IVδ-151| Weapon (SHORT BLADE — Stiletto/Awl) |δ|Grudge|
 |662|Suit|The Border Plate|[The Spreading Tree](../Sorrow_Entities/SE-O-IVδ-151_The_Spreading_Tree_스며든_나무.md)|SE-O-IVδ-151| Armor (Vestments & Outerwear) |δ|Grudge|
 |663|Gift|The Border Charm|[The Spreading Tree](../Sorrow_Entities/SE-O-IVδ-151_The_Spreading_Tree_스며든_나무.md)|SE-O-IVδ-151| Accessory (Special Relic Stigmas) |δ|Grudge|
-|664|Weapon|The Trace Requiem|[The Collapsed Trace](../Sorrow_Entities/SE-O-IVδ-168_The_Collapsed_Trace_무너진_흔적.md)|SE-O-IVδ-168| Weapon (RELIQUARY — Censer/Bell) |α|Lament|
+|664|Weapon| The Vestige Censer |[The Collapsed Trace](../Sorrow_Entities/SE-O-IVδ-168_The_Collapsed_Trace_무너진_흔적.md)|SE-O-IVδ-168| Weapon (RELIQUARY — Censer/Bell) |α|Lament|
 |665|Suit|The Trace Shroud|[The Collapsed Trace](../Sorrow_Entities/SE-O-IVδ-168_The_Collapsed_Trace_무너진_흔적.md)|SE-O-IVδ-168| Armor (Mantles, Coats & Cloaks) |α|Lament|
 |666|Gift|The Trace Lantern|[The Collapsed Trace](../Sorrow_Entities/SE-O-IVδ-168_The_Collapsed_Trace_무너진_흔적.md)|SE-O-IVδ-168| Accessory (Ocular Lenses & Monocles) |α|Lament|
-|667|Weapon|The Rebirth Fang|[The Ember Phoenix](../Sorrow_Entities/SE-O-IVδ-190_The_Ember_Phoenix_불사조.md)|SE-O-IVδ-190| Weapon (GUN — Ballistics) |δ|Grudge|
+|667|Weapon| The Ash-Phoenix Culverin |[The Ember Phoenix](../Sorrow_Entities/SE-O-IVδ-190_The_Ember_Phoenix_불사조.md)|SE-O-IVδ-190| Weapon (GUN — Ballistics) |δ|Grudge|
 |668|Suit|The Rebirth Plate|[The Ember Phoenix](../Sorrow_Entities/SE-O-IVδ-190_The_Ember_Phoenix_불사조.md)|SE-O-IVδ-190| Armor (Living Chitin & Carapace) |δ|Grudge|
 |669|Gift|The Rebirth Ember|[The Ember Phoenix](../Sorrow_Entities/SE-O-IVδ-190_The_Ember_Phoenix_불사조.md)|SE-O-IVδ-190| Accessory (Floating Orbs & Coronets) |δ|Grudge|
-|670|Weapon|The Rootbound Maul|[The Spreading Root](../Sorrow_Entities/SE-O-IVδ-693_The_Spreading_Root_스며든_뿌리.md)|SE-O-IVδ-693| Weapon (POLEARM — Spear/Pike) |δ|Weight|
+|670|Weapon| The Taproot Sceptre |[The Spreading Root](../Sorrow_Entities/SE-O-IVδ-693_The_Spreading_Root_스며든_뿌리.md)|SE-O-IVδ-693| Weapon (POLEARM — Spear/Pike) |δ|Weight|
 |671|Suit|The Rootbound Mantle|[The Spreading Root](../Sorrow_Entities/SE-O-IVδ-693_The_Spreading_Root_스며든_뿌리.md)|SE-O-IVδ-693| Armor (Mantles, Coats & Cloaks) |δ|Weight|
 |672|Gift|The Rootbound Staff|[The Spreading Root](../Sorrow_Entities/SE-O-IVδ-693_The_Spreading_Root_스며든_뿌리.md)|SE-O-IVδ-693| Accessory (Rings & Hand Seals) |δ|Weight|
 |673|Weapon|The Burning Bridge Requiem|[The Burning Bridge](../Sorrow_Entities/SE-O-IVδ-762_The_Burning_Bridge_타오르는_다리.md)|SE-O-IVδ-762| Weapon (RELIQUARY — Censer/Bell) |γ|Lament|
 |674|Suit|The Burning Bridge Shroud|[The Burning Bridge](../Sorrow_Entities/SE-O-IVδ-762_The_Burning_Bridge_타오르는_다리.md)|SE-O-IVδ-762| Armor (Hauberks & Chain Mail) |γ|Lament|
 |675|Gift|The Burning Bridge Crown|[The Burning Bridge](../Sorrow_Entities/SE-O-IVδ-762_The_Burning_Bridge_타오르는_다리.md)|SE-O-IVδ-762| Accessory (Floating Orbs & Coronets) |γ|Lament|
-|676|Weapon|The Flowing Hammer|[The Flowing Relic](../Sorrow_Entities/SE-O-IVδ-792_The_Flowing_Relic_흐르는_유물.md)|SE-O-IVδ-792| Weapon (BLADES — Cleaver/Sword) |γ|Lament|
+|676|Weapon| The Cascading Falchion |[The Flowing Relic](../Sorrow_Entities/SE-O-IVδ-792_The_Flowing_Relic_흐르는_유물.md)|SE-O-IVδ-792| Weapon (BLADES — Cleaver/Sword) |γ|Lament|
 |677|Suit|The Flowing Shroud|[The Flowing Relic](../Sorrow_Entities/SE-O-IVδ-792_The_Flowing_Relic_흐르는_유물.md)|SE-O-IVδ-792| Armor (Living Chitin & Carapace) |γ|Lament|
 |678|Gift|The Flowing Charm|[The Flowing Relic](../Sorrow_Entities/SE-O-IVδ-792_The_Flowing_Relic_흐르는_유물.md)|SE-O-IVδ-792| Accessory (Pendants & Chokers) |γ|Lament|
-|679|Weapon|The Ruin Requiem|[The Sleeping Ruin](../Sorrow_Entities/SE-O-IVδ-844_The_Sleeping_Ruin_잠든_잔해.md)|SE-O-IVδ-844| Weapon (FANTASY — Astral/Orrery) |δ|Lament|
+|679|Weapon| The Ruin Astral-Disc |[The Sleeping Ruin](../Sorrow_Entities/SE-O-IVδ-844_The_Sleeping_Ruin_잠든_잔해.md)|SE-O-IVδ-844| Weapon (FANTASY — Astral/Orrery) |δ|Lament|
 |680|Suit|The Ruin Pillow|[The Sleeping Ruin](../Sorrow_Entities/SE-O-IVδ-844_The_Sleeping_Ruin_잠든_잔해.md)|SE-O-IVδ-844| Armor (Vestments & Outerwear) |δ|Lament|
 |681|Gift|The Ruin Charm|[The Sleeping Ruin](../Sorrow_Entities/SE-O-IVδ-844_The_Sleeping_Ruin_잠든_잔해.md)|SE-O-IVδ-844| Accessory (Brooches & Fasteners) |δ|Lament|
-|682|Weapon|The Promise Requiem|[The Broken Shard](../Sorrow_Entities/SE-O-IVδ-851_The_Broken_Shard_부서진_조각.md)|SE-O-IVδ-851| Weapon (GUN — Ballistics) |δ|Lament|
+|682|Weapon| The Covenant Arbalest |[The Broken Shard](../Sorrow_Entities/SE-O-IVδ-851_The_Broken_Shard_부서진_조각.md)|SE-O-IVδ-851| Weapon (GUN — Ballistics) |δ|Lament|
 |683|Suit|The Promise Shroud|[The Broken Shard](../Sorrow_Entities/SE-O-IVδ-851_The_Broken_Shard_부서진_조각.md)|SE-O-IVδ-851| Armor (Hauberks & Chain Mail) |δ|Lament|
 |684|Gift|The Promise Shard|[The Broken Shard](../Sorrow_Entities/SE-O-IVδ-851_The_Broken_Shard_부서진_조각.md)|SE-O-IVδ-851| Accessory (Special Relic Stigmas) |δ|Lament|
-|685|Weapon|The Resting Lens|[The Wandering Sigh](../Sorrow_Entities/SE-O-IVδ-895_The_Wandering_Sigh_떠도는_한숨.md)|SE-O-IVδ-895| Weapon (SHORT BLADE — Stiletto/Awl) |δ|Void|
+|685|Weapon| The Repose Awl |[The Wandering Sigh](../Sorrow_Entities/SE-O-IVδ-895_The_Wandering_Sigh_떠도는_한숨.md)|SE-O-IVδ-895| Weapon (SHORT BLADE — Stiletto/Awl) |δ|Void|
 |686|Suit|The Resting Veil|[The Wandering Sigh](../Sorrow_Entities/SE-O-IVδ-895_The_Wandering_Sigh_떠도는_한숨.md)|SE-O-IVδ-895| Armor (Mantles, Coats & Cloaks) |δ|Void|
 |687|Gift|The Resting Breath|[The Wandering Sigh](../Sorrow_Entities/SE-O-IVδ-895_The_Wandering_Sigh_떠도는_한숨.md)|SE-O-IVδ-895| Accessory (Ocular Lenses & Monocles) |δ|Void|
-|688|Weapon|The Broken Fang|[The Broken Wall](../Sorrow_Entities/SE-O-IVδ-897_The_Broken_Wall_부서진_벽.md)|SE-O-IVδ-897| Weapon (POLEARM — Spear/Pike) |δ|Grudge|
+|688|Weapon| The Breach-Pike |[The Broken Wall](../Sorrow_Entities/SE-O-IVδ-897_The_Broken_Wall_부서진_벽.md)|SE-O-IVδ-897| Weapon (POLEARM — Spear/Pike) |δ|Grudge|
 |689|Suit|The Broken Barrier|[The Broken Wall](../Sorrow_Entities/SE-O-IVδ-897_The_Broken_Wall_부서진_벽.md)|SE-O-IVδ-897| Armor (Living Chitin & Carapace) |δ|Grudge|
 |690|Gift|The Broken Charm|[The Broken Wall](../Sorrow_Entities/SE-O-IVδ-897_The_Broken_Wall_부서진_벽.md)|SE-O-IVδ-897| Accessory (Rings & Hand Seals) |δ|Grudge|
-|691|Weapon|The Echo Fang|[Reverberant](../Sorrow_Entities/SE-O-IVδ-909_The_Spreading_Echo_스며든_메아리.md)|SE-O-IVδ-909| Weapon (BLADES — Cleaver/Sword) |δ|Grudge|
+|691|Weapon| The Echoing Zweihander |[Reverberant](../Sorrow_Entities/SE-O-IVδ-909_The_Spreading_Echo_스며든_메아리.md)|SE-O-IVδ-909| Weapon (BLADES — Cleaver/Sword) |δ|Grudge|
 |692|Suit|The Echo Plate|[Reverberant](../Sorrow_Entities/SE-O-IVδ-909_The_Spreading_Echo_스며든_메아리.md)|SE-O-IVδ-909| Armor (Vestments & Outerwear) |δ|Grudge|
 |693|Gift|The Echo Flame|[Reverberant](../Sorrow_Entities/SE-O-IVδ-909_The_Spreading_Echo_스며든_메아리.md)|SE-O-IVδ-909| Accessory (Pendants & Chokers) |δ|Grudge|
-|694|Weapon|The Trace Fang|[The Wandering Trace](../Sorrow_Entities/SE-O-Iα-108_The_Wandering_Trace_떠도는_흔적.md)|SE-O-Iα-108| Weapon (FANTASY — Astral/Orrery) |α|Grudge|
+|694|Weapon| The Phantom Blade-Array |[The Wandering Trace](../Sorrow_Entities/SE-O-Iα-108_The_Wandering_Trace_떠도는_흔적.md)|SE-O-Iα-108| Weapon (FANTASY — Astral/Orrery) |α|Grudge|
 |695|Suit|The Trace Plate|[The Wandering Trace](../Sorrow_Entities/SE-O-Iα-108_The_Wandering_Trace_떠도는_흔적.md)|SE-O-Iα-108| Armor (Vestments & Outerwear) |α|Grudge|
 |696|Gift|The Trace Ember|[The Wandering Trace](../Sorrow_Entities/SE-O-Iα-108_The_Wandering_Trace_떠도는_흔적.md)|SE-O-Iα-108| Accessory (Brooches & Fasteners) |α|Grudge|
-|697|Weapon|The Melting Lens|[The Melting Shard](../Sorrow_Entities/SE-O-Iα-126_The_Melting_Shard_녹아내린_조각.md)|SE-O-Iα-126| Weapon (GUN — Ballistics) |α|Void|
+|697|Weapon| The Liquefying Hand-Cannon |[The Melting Shard](../Sorrow_Entities/SE-O-Iα-126_The_Melting_Shard_녹아내린_조각.md)|SE-O-Iα-126| Weapon (GUN — Ballistics) |α|Void|
 |698|Suit|The Melting Veil|[The Melting Shard](../Sorrow_Entities/SE-O-Iα-126_The_Melting_Shard_녹아내린_조각.md)|SE-O-Iα-126| Armor (Hauberks & Chain Mail) |α|Void|
 |699|Gift|The Melting Reflection|[The Melting Shard](../Sorrow_Entities/SE-O-Iα-126_The_Melting_Shard_녹아내린_조각.md)|SE-O-Iα-126| Accessory (Special Relic Stigmas) |α|Void|
-|700|Weapon|The Rusted Maul|[The Rusted Pillar](../Sorrow_Entities/SE-O-Iα-169_The_Rusted_Pillar_녹슨_기둥.md)|SE-O-Iα-169| Weapon (SHORT BLADE — Stiletto/Awl) |α|Weight|
+|700|Weapon| The Rust-Flake Seax |[The Rusted Pillar](../Sorrow_Entities/SE-O-Iα-169_The_Rusted_Pillar_녹슨_기둥.md)|SE-O-Iα-169| Weapon (SHORT BLADE — Stiletto/Awl) |α|Weight|
 |701|Suit|The Rusted Brace|[The Rusted Pillar](../Sorrow_Entities/SE-O-Iα-169_The_Rusted_Pillar_녹슨_기둥.md)|SE-O-Iα-169| Armor (Mantles, Coats & Cloaks) |α|Weight|
 |702|Gift|The Rusted Charm|[The Rusted Pillar](../Sorrow_Entities/SE-O-Iα-169_The_Rusted_Pillar_녹슨_기둥.md)|SE-O-Iα-169| Accessory (Ocular Lenses & Monocles) |α|Weight|
-|703|Weapon|The Fading Requiem|[The Fading Ruin](../Sorrow_Entities/SE-O-Iα-189_The_Fading_Ruin_번져가는_잔해.md)|SE-O-Iα-189| Weapon (RELIQUARY — Censer/Bell) |α|Lament|
+|703|Weapon| The Dusk-Memory Censer |[The Fading Ruin](../Sorrow_Entities/SE-O-Iα-189_The_Fading_Ruin_번져가는_잔해.md)|SE-O-Iα-189| Weapon (RELIQUARY — Censer/Bell) |α|Lament|
 |704|Suit|The Fading Shroud|[The Fading Ruin](../Sorrow_Entities/SE-O-Iα-189_The_Fading_Ruin_번져가는_잔해.md)|SE-O-Iα-189| Armor (Living Chitin & Carapace) |α|Lament|
 |705|Gift|The Fading Brick|[The Fading Ruin](../Sorrow_Entities/SE-O-Iα-189_The_Fading_Ruin_번져가는_잔해.md)|SE-O-Iα-189| Accessory (Floating Orbs & Coronets) |α|Lament|
-|706|Weapon|The Frozen Relic Lens|[The Frozen Relic](../Sorrow_Entities/SE-O-Iα-340_The_Frozen_Relic_얼어붙은_유물.md)|SE-O-Iα-340| Weapon (POLEARM — Spear/Pike) |α|Void|
+|706|Weapon| The Cryo-Relic Lance |[The Frozen Relic](../Sorrow_Entities/SE-O-Iα-340_The_Frozen_Relic_얼어붙은_유물.md)|SE-O-Iα-340| Weapon (POLEARM — Spear/Pike) |α|Void|
 |707|Suit|The Frozen Relic Veil|[The Frozen Relic](../Sorrow_Entities/SE-O-Iα-340_The_Frozen_Relic_얼어붙은_유물.md)|SE-O-Iα-340| Armor (Hauberks & Chain Mail) |α|Void|
 |708|Gift|The Frozen Relic Shard|[The Frozen Relic](../Sorrow_Entities/SE-O-Iα-340_The_Frozen_Relic_얼어붙은_유물.md)|SE-O-Iα-340| Accessory (Rings & Hand Seals) |α|Void|
-|709|Weapon|The Crying Requiem|[The Floating Fragment](../Sorrow_Entities/SE-O-Iα-453_The_Floating_Fragment_떠다니는_파편.md)|SE-O-Iα-453| Weapon (BLADES — Cleaver/Sword) |α|Lament|
+|709|Weapon| The Lamentation Sabre |[The Floating Fragment](../Sorrow_Entities/SE-O-Iα-453_The_Floating_Fragment_떠다니는_파편.md)|SE-O-Iα-453| Weapon (BLADES — Cleaver/Sword) |α|Lament|
 |710|Suit|The Crying Shroud|[The Floating Fragment](../Sorrow_Entities/SE-O-Iα-453_The_Floating_Fragment_떠다니는_파편.md)|SE-O-Iα-453| Armor (Vestments & Outerwear) |α|Lament|
 |711|Gift|The Crying Ember|[The Floating Fragment](../Sorrow_Entities/SE-O-Iα-453_The_Floating_Fragment_떠다니는_파편.md)|SE-O-Iα-453| Accessory (Pendants & Chokers) |α|Lament|
-|712|Weapon|The Rusted Seed Requiem|[The Rusted Seed](../Sorrow_Entities/SE-O-Iα-554_The_Rusted_Seed_녹슨_씨앗.md)|SE-O-Iα-554| Weapon (FANTASY — Astral/Orrery) |α|Lament|
+|712|Weapon| The Rusted Chronometer |[The Rusted Seed](../Sorrow_Entities/SE-O-Iα-554_The_Rusted_Seed_녹슨_씨앗.md)|SE-O-Iα-554| Weapon (FANTASY — Astral/Orrery) |α|Lament|
 |713|Suit|The Rusted Seed Shroud|[The Rusted Seed](../Sorrow_Entities/SE-O-Iα-554_The_Rusted_Seed_녹슨_씨앗.md)|SE-O-Iα-554| Armor (Mantles, Coats & Cloaks) |α|Lament|
 |714|Gift|The Rusted Seed Core|[The Rusted Seed](../Sorrow_Entities/SE-O-Iα-554_The_Rusted_Seed_녹슨_씨앗.md)|SE-O-Iα-554| Accessory (Brooches & Fasteners) |α|Lament|
-|715|Weapon|The Rootless Maul|[The Vanished Root](../Sorrow_Entities/SE-O-Iα-631_The_Vanished_Root_사라진_뿌리.md)|SE-O-Iα-631| Weapon (BLADES — Cleaver/Sword) |α|Weight|
+|715|Weapon| The Uprooted Great-Cleaver |[The Vanished Root](../Sorrow_Entities/SE-O-Iα-631_The_Vanished_Root_사라진_뿌리.md)|SE-O-Iα-631| Weapon (BLADES — Cleaver/Sword) |α|Weight|
 |716|Suit|The Rootless Mantle|[The Vanished Root](../Sorrow_Entities/SE-O-Iα-631_The_Vanished_Root_사라진_뿌리.md)|SE-O-Iα-631| Armor (Mantles, Coats & Cloaks) |α|Weight|
 |717|Gift|The Rootless Charm|[The Vanished Root](../Sorrow_Entities/SE-O-Iα-631_The_Vanished_Root_사라진_뿌리.md)|SE-O-Iα-631| Accessory (Special Relic Stigmas) |α|Weight|
-|718|Weapon|The Frozen Fang|[The Frozen Mirror](../Sorrow_Entities/SE-O-Iα-643_The_Frozen_Mirror_얼어붙은_거울.md)|SE-O-Iα-643| Weapon (SHORT BLADE — Stiletto/Awl) |α|Grudge|
+|718|Weapon| The Ice-Shard Stiletto |[The Frozen Mirror](../Sorrow_Entities/SE-O-Iα-643_The_Frozen_Mirror_얼어붙은_거울.md)|SE-O-Iα-643| Weapon (SHORT BLADE — Stiletto/Awl) |α|Grudge|
 |719|Suit|The Frozen Plate|[The Frozen Mirror](../Sorrow_Entities/SE-O-Iα-643_The_Frozen_Mirror_얼어붙은_거울.md)|SE-O-Iα-643| Armor (Living Chitin & Carapace) |α|Grudge|
 |720|Gift|The Frozen Reflection|[The Frozen Mirror](../Sorrow_Entities/SE-O-Iα-643_The_Frozen_Mirror_얼어붙은_거울.md)|SE-O-Iα-643| Accessory (Ocular Lenses & Monocles) |α|Grudge|
-|721|Weapon|The Forgotten Tear Fang|[The Forgotten Tear](../Sorrow_Entities/SE-O-Iα-709_The_Forgotten_Tear_잊혀진_눈물.md)|SE-O-Iα-709| Weapon (RELIQUARY — Censer/Bell) |α|Grudge|
+|721|Weapon| The Unwept Tear-Vessel |[The Forgotten Tear](../Sorrow_Entities/SE-O-Iα-709_The_Forgotten_Tear_잊혀진_눈물.md)|SE-O-Iα-709| Weapon (RELIQUARY — Censer/Bell) |α|Grudge|
 |722|Suit|The Forgotten Tear Plate|[The Forgotten Tear](../Sorrow_Entities/SE-O-Iα-709_The_Forgotten_Tear_잊혀진_눈물.md)|SE-O-Iα-709| Armor (Hauberks & Chain Mail) |α|Grudge|
 |723|Gift|The Forgotten Tear Shard|[The Forgotten Tear](../Sorrow_Entities/SE-O-Iα-709_The_Forgotten_Tear_잊혀진_눈물.md)|SE-O-Iα-709| Accessory (Floating Orbs & Coronets) |α|Grudge|
-|724|Weapon|The Melted Fang|[The Melting Whisper](../Sorrow_Entities/SE-O-Iα-720_The_Melting_Whisper_녹아내린_속삭임.md)|SE-O-Iα-720| Weapon (POLEARM — Spear/Pike) |α|Grudge|
+|724|Weapon| The Liquefying Spear |[The Melting Whisper](../Sorrow_Entities/SE-O-Iα-720_The_Melting_Whisper_녹아내린_속삭임.md)|SE-O-Iα-720| Weapon (POLEARM — Spear/Pike) |α|Grudge|
 |725|Suit|The Melted Plate|[The Melting Whisper](../Sorrow_Entities/SE-O-Iα-720_The_Melting_Whisper_녹아내린_속삭임.md)|SE-O-Iα-720| Armor (Vestments & Outerwear) |α|Grudge|
 |726|Gift|The Melted Word|[The Melting Whisper](../Sorrow_Entities/SE-O-Iα-720_The_Melting_Whisper_녹아내린_속삭임.md)|SE-O-Iα-720| Accessory (Rings & Hand Seals) |α|Grudge|
-|727|Weapon|The Wandering Fang|[The Wandering Chain](../Sorrow_Entities/SE-O-Iα-754_The_Wandering_Chain_떠도는_사슬.md)|SE-O-Iα-754| Weapon (BLADES — Cleaver/Sword) |α|Grudge|
+|727|Weapon| The Pilgrim's Boundary-Blade |[The Wandering Chain](../Sorrow_Entities/SE-O-Iα-754_The_Wandering_Chain_떠도는_사슬.md)|SE-O-Iα-754| Weapon (BLADES — Cleaver/Sword) |α|Grudge|
 |728|Suit|The Wandering Plate|[The Wandering Chain](../Sorrow_Entities/SE-O-Iα-754_The_Wandering_Chain_떠도는_사슬.md)|SE-O-Iα-754| Armor (Living Chitin & Carapace) |α|Grudge|
 |729|Gift|The Wandering Link|[The Wandering Chain](../Sorrow_Entities/SE-O-Iα-754_The_Wandering_Chain_떠도는_사슬.md)|SE-O-Iα-754| Accessory (Pendants & Chokers) |α|Grudge|
-|730|Weapon|The Collapsed Requiem|[The Collapsed Door](../Sorrow_Entities/SE-O-Iα-794_The_Collapsed_Door_무너진_문.md)|SE-O-Iα-794| Weapon (SHORT BLADE — Stiletto/Awl) |α|Lament|
+|730|Weapon| The Ruined Jamb-Knife |[The Collapsed Door](../Sorrow_Entities/SE-O-Iα-794_The_Collapsed_Door_무너진_문.md)|SE-O-Iα-794| Weapon (SHORT BLADE — Stiletto/Awl) |α|Lament|
 |731|Suit|The Collapsed Shroud|[The Collapsed Door](../Sorrow_Entities/SE-O-Iα-794_The_Collapsed_Door_무너진_문.md)|SE-O-Iα-794| Armor (Hauberks & Chain Mail) |α|Lament|
 |732|Gift|The Collapsed Key|[The Collapsed Door](../Sorrow_Entities/SE-O-Iα-794_The_Collapsed_Door_무너진_문.md)|SE-O-Iα-794| Accessory (Brooches & Fasteners) |α|Lament|
-|733|Weapon|The Torn Lens|[Yggdrasil Wound](../Sorrow_Entities/SE-O-Iα-973_The_Torn_Tree_찢어진_나무.md)|SE-O-Iα-973| Weapon (RELIQUARY — Censer/Bell) |α|Void|
+|733|Weapon| The Wounded Tree-Censer |[Yggdrasil Wound](../Sorrow_Entities/SE-O-Iα-973_The_Torn_Tree_찢어진_나무.md)|SE-O-Iα-973| Weapon (RELIQUARY — Censer/Bell) |α|Void|
 |734|Suit|The Torn Veil|[Yggdrasil Wound](../Sorrow_Entities/SE-O-Iα-973_The_Torn_Tree_찢어진_나무.md)|SE-O-Iα-973| Armor (Mantles, Coats & Cloaks) |α|Void|
 |735|Gift|The Torn Root|[Yggdrasil Wound](../Sorrow_Entities/SE-O-Iα-973_The_Torn_Tree_찢어진_나무.md)|SE-O-Iα-973| Accessory (Special Relic Stigmas) |α|Void|
 

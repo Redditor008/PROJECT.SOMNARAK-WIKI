@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Trace Maul
+### M.A.W. Weapon — The Vigil Hand-Cannon
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that quivers when raised.
+Appearance : A flared-muzzle bronze hand-cannon incorporating a glass lantern chamber beneath the barrel, ignited by an enclosed wheel-lock mechanism and operated via a curved finger lever.
+
+The cannon fires incandescent phosphor pellets that illuminate dark chambers with blinding golden flare. The flame inside the underbarrel lantern flickers in rhythm with nearby sorrow activity.
 
 **Damage:** Weight 10–15
 **Speed:** 3 (Fast)

@@ -168,11 +168,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Broken Maul
+### M.A.W. Weapon — The Fractured Celestial Prism
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that flickers with inner light.
+Appearance : A floating twelve-faced polyhedron constructed from silvered mirror panes, measuring eight inches across and levitating effortlessly above the wielder's open palm on invisible magnetic currents.
+
+Each facet reflects a different perspective of the surrounding room at impossible angles. When activated, the prism refracts incoming emotional hostility into splintered spectrum beams that disorient advancing attackers.
 
 **Damage:** Weight 7–12
 **Speed:** 3 (Fast)

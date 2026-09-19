@@ -204,11 +204,13 @@ The escalation pattern is specific to Forgotten Ruin: it is not a generic breach
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Forgotten Ruin Fang
+### M.A.W. Weapon — The Forgotten Ruin-Glyph
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+Appearance : An interconnected array of five floating architectural glyph stones carved from weathered limestone, orbiting in a loose two-foot perimeter around the wielder's shoulder.
+
+The glyphs glow with pale amber script that reassembles into protective boundary geometries. When targeted by kinetic attacks, the glyph stones interlock instantly to form a solid stone buckler.
 
 **Damage:** Grudge 10-15
 **Speed:** 3 (Fast)

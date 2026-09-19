@@ -204,11 +204,13 @@ The escalation pattern is specific to Life Behind Glass: it is not a generic bre
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Life Behind Glass Requiem
+### M.A.W. Weapon — The Fenestrated Prism
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that flickers with inner light.
+Appearance : A levitating three-dimensional tesseract constructed from lead came and fragments of antique cathedral stained glass, hovering silently at chest height and slowly turning on its axis.
+
+Light passing through the rotating colored panes casts shifting kaleidoscopic mosaics across the chamber. Hostiles caught within the projected colored light experience profound emotional exhaustion.
 
 **Damage:** Lament 3–6
 **Speed:** 2 (Normal)

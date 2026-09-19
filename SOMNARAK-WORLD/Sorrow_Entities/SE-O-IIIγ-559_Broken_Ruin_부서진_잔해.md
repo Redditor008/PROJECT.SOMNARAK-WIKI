@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Ruin Requiem
+### M.A.W. Weapon — The Scavenger's Dirk
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+Appearance : An eight-inch straight combat dirk forged from salvaged leaf-spring steel, featuring a chisel tip, notched spine for prying masonry, and a handle wrapped in tarred wire.
+
+The heavy spine allows the dirk to be hammered into stone seams to create climbing footholds or pry open sealed sarcophagi, functioning as both an effective tool and lethal thrusting blade.
 
 **Damage:** Lament 7-12
 **Speed:** 3 (Fast)

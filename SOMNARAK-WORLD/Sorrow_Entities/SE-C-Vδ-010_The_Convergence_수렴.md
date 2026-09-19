@@ -176,11 +176,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Gravitational Singularity-Hammer
+### M.A.W. Weapon — The Singularity Orrery
 
-**Category:** FANTASY (Singularity Maul / Orbiting Core) | **Grade:** δ | **Element:** Weight
+**Category:** FANTASY (Dark-Matter Spherical Orrery)
 
-**Appearance:** A terrifying, physics-defying apparatus composed of a dense, spherical core of collapsed matte-black Han-steel that pulls surrounding light into its event horizon. The sphere floats freely between three counter-rotating gyroscopic rings of unpolished lead and Han-iron mounted atop a shock-damped haft. When hoisted, loose dust and debris in the room drift inexorably toward the core. When slammed down, it triggers a localized gravitational collapse: space distorts inward, sucking all surrounding hostiles toward the epicenter before detonating in a catastrophic radial shockwave of pure Weight pressure.
+Appearance : A compact spherical astrolabe constructed from dark meteoric silver and three interlocking gimbal hoops, cradling an immovable two-inch sphere of compressed, light-swallowing black glass.
+
+The planetary hoops spin along multiple axes with zero friction, warping background lines into curved ripples. Clenching the focus ring projects a high-density gravitational pulse that pulls nearby airborne debris toward the center.
 
 **Damage:** Weight 18–28
 **Speed:** 1 (Very Slow)

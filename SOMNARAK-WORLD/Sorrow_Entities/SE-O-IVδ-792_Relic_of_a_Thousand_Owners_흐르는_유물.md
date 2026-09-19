@@ -168,11 +168,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Flowing Hammer
+### M.A.W. Weapon — The Cascading Falchion
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** a heavy hammer of deep-blue Han-crystal, cool and faintly luminous, that quivers when raised.
+Appearance : A thirty-inch curved falchion with a heavy flared cutting belly, its steel surface etched with undulating waterfall channels that guide flowing Lament water toward the tip.
+
+The heavy tip provides devastating chopping power that shears cleanly through reinforced protective garments. The fluid channels ensure the blade never binds or sticks in dense biological matter.
 
 **Damage:** Lament 7–12
 **Speed:** 3 (Fast)

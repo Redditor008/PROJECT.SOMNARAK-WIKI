@@ -198,11 +198,13 @@ The escalation pattern is specific to Mourning a Life I Never Lived: it is not a
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Empty Lens
+### M.A.W. Weapon — The Sowing Glaive
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
+Appearance : A seven-foot polearm featuring a wide, curving crescent blade with an upward hooked tip, mounted onto a varnished hickory shaft reinforced by twin steel langets.
+
+The broad crescent blade performs sweeping horizontal cuts that reap through crowds of lesser sorrow thralls. Deep fuller furrows along the blade channel sorrow moisture safely away from the grip.
 
 **Damage:** Void 3–6
 **Speed:** 2 (Normal)

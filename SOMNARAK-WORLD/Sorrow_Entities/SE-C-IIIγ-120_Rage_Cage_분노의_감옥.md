@@ -204,11 +204,13 @@ The escalation pattern is specific to Rage Cage: it is not a generic breach even
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Cage Fang
+### M.A.W. Weapon — The Wrath-Ember Censer
 
 **Type:** Weapon | **Grade:** γ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+Appearance : A heavy cast-iron censer bristling with conical iron spikes, suspended from four heavy chains, housing volcanic pumice rocks soaked in boiling Grudge distillate.
+
+The thurible vents continuous streams of scalding sulfurous steam that burn organic flesh. In close melee, swinging the spiked iron censer inflicts severe bludgeoning and thermal trauma.
 
 **Damage:** Grudge 7-12
 **Speed:** 3 (Fast)

@@ -180,11 +180,13 @@ The escalation pattern is specific to Rusted Pillar: it is not a generic breach 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Rusted Maul
+### M.A.W. Weapon — The Rust-Flake Seax
 
 **Type:** Weapon | **Grade:** α | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that weeps a thin film of Han when swung.
+Appearance : An eight-inch utility seax with a straight cutting edge and triangular clipped point, its blade encrusted in thick orange rust that sheds a fine metallic powder with every movement.
+
+The thick spine allows for heavy chopping and prying without risking blade fracture. The fine rust powder entering wounds causes severe biological irritation and inhibits rapid cellular regeneration.
 
 **Damage:** Weight 3-6
 **Speed:** 2 (Normal)

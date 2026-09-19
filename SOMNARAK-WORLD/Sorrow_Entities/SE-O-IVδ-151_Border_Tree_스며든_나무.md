@@ -198,11 +198,13 @@ The escalation pattern is specific to Border Tree: it is not a generic breach ev
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Border Root
+### M.A.W. Weapon — The Bramble Tanto
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a root-gripped club of crimson Han-iron, dark and faintly warm, that quivers when raised.
+Appearance : A traditional nine-inch Japanese tanto with a thick spine and razor-honed chisel tip, its wooden hilt and scabbard bound tightly in dried wild rose vines with sharp protective thorns.
+
+The wielder's grip draws small drops of blood from the thorns, attuning the blade to the bearer's vitality. Slashing targets inflicts deep lacerations that burn with plant alkaloid toxins.
 
 **Damage:** Grudge 10–15
 **Speed:** 3 (Fast)

@@ -203,11 +203,13 @@ The escalation pattern is specific to Bridge of the Unchosen: it is not a generi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Bridge of the Unchosen Lens
+### M.A.W. Weapon — The Permafrost Star-Ring
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that weeps a thin film of Han when swung.
+Appearance : A floating halo ring of seven small frosted crystal goblets orbiting at eye level, each vessel filled with a bead of luminous blue starlight that never evaporates.
+
+The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapping any chalice releases a chime that freezes moisture in the air into falling geometric snowflake blades.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)

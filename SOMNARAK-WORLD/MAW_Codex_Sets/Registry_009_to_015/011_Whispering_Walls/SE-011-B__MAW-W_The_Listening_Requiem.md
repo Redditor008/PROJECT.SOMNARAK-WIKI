@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Listening Requiem
+# M.A.W. WEAPON — The Occlusion Star-Chalice
 
 > *“The blade hums only when someone nearby is trying not to say something.”*
 
@@ -26,9 +26,9 @@
 
 ### Appearance
 
-The Listening Requiem is a narrow short blade of deep-blue Han crystal with a shallow groove running along its flat. The blade is light, barely longer than a forearm, and its edge is smooth without being sharp in ordinary air. When held near a wall, the groove fills with tiny pale letters that move across the surface in a slow, drifting line and vanish if the bearer tries to read them aloud too quickly. Each letter is no larger than a grain of sand, and they cluster toward whichever part of the wall is closest to a suppressed statement. In open space the groove stays dark and still. The grip is short and wrapped in dark blue cord, with a small flat pommel that warms faintly when the blade catches a concealed sentence. It gives one truthful note, never a confession. The blade stays cool against the hand and the groove is entirely dark in a room where nothing has been left unsaid.
+Appearance : A carved obsidian drinking chalice hovering weightlessly six inches above the bearer's outstretched palm, filled with an immovable pool of liquid shadow that reflects no light.
 
----
+The chalice emits a steady gravitational pull that draws incoming projectile attacks into its dark center, safely neutralizing them. Inverting the cup discharges an expanding shockwave of crushing gravity.
 
 ## COMBAT RECORD
 

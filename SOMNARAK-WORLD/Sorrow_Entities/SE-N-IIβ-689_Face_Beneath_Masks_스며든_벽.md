@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Wall Lens
+### M.A.W. Weapon — The Bulwark Culverin
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that weeps a thin film of Han when swung.
+Appearance : A four-foot iron fortress culverin mounted on a folding bipod swivel frame, featuring heavy reinforcing barrel hoops, a lever breech, and a wooden shoulder crutch.
+
+The culverin fires dense canister shot filled with lead shrapnel and salt-gravel. The wide cone of discharge tears through clustered targets, repelling swarming sorrow entities.
 
 **Damage:** Void 5–9
 **Speed:** 2 (Normal)

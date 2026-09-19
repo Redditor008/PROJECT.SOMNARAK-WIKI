@@ -204,11 +204,13 @@ The escalation pattern is specific to Soaking Scream: it is not a generic breach
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Scream Shard
+### M.A.W. Weapon — The Protest Relic-Urn
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a jagged shard-blade of crimson Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+Appearance : A squat stoneware funerary urn covered in a matte black slip glaze, its wide ceramic lid sealed with dried red wax and wound with unprinted parchment ribbons.
+
+The interior contains the preserved breath and final unuttered declarations of condemned demonstrators. Cracking the wax seal releases concussive acoustic shockwaves that deafen targets.
 
 **Damage:** Grudge 5-9
 **Speed:** 2 (Normal)

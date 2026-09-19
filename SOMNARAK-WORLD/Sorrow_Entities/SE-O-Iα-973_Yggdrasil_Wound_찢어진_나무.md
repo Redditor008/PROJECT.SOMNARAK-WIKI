@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Torn Lens
+### M.A.W. Weapon — The Wounded Tree-Censer
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that hums faintly when gripped.
+Appearance : A spherical censer carved from a hollowed ironwood tree burl, bound with brass hoops and suspended from a dark cord, burning amber resin extracted from sorrow-blighted weeping willows.
+
+The burning resin produces a warm, viscous smoke that clings to surfaces and coats airborne particles. Breathing the vapor numbs physical pain and bolsters an Agent's psychic resolve.
 
 **Damage:** Void 3-6
 **Speed:** 2 (Normal)

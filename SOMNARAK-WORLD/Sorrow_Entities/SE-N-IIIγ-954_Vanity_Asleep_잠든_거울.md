@@ -168,11 +168,13 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Sleeping Lens
+### M.A.W. Weapon — The Somnolent Trench-Rifle
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that hums faintly when gripped.
+Appearance : A rugged bolt-action service rifle fitted with a thirty-inch blued barrel, full-length wooden stock, brass butt-plate, and an extended five-round detachable box magazine.
+
+The weapon cycles low-velocity lead projectiles filled with condensed narcotic vapor. The report is low and throaty, leaving behind a faint lavender fog that dulls the senses of nearby combatants.
 
 **Damage:** Void 7-12
 **Speed:** 3 (Fast)

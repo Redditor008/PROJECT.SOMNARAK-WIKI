@@ -206,11 +206,13 @@ The escalation pattern is specific to First Tear: it is not a generic breach eve
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The First Requiem
+### M.A.W. Weapon — The Primordial Greatsword
 
 **Type:** Weapon | **Grade:** δ (Critical) | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that weeps a thin film of Han when swung.
+Appearance : A massive two-handed greatsword spanning six feet overall, featuring a hand-hammered carbon blade, sweeping forward-curved iron quillons, and a long two-handed grip bound in worn ox-hide.
+
+The raw forged steel exhibits visible hammer creases and dark carbon quenching folds. Swung with momentum, the blade cleaves through dense barricades, carrying immense physical force that shatters brittle armor.
 
 **Ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels First Tear's lament signature in the strike.
 

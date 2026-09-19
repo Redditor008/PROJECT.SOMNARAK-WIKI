@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Wandering Fang
+### M.A.W. Weapon — The Pilgrim's Boundary-Blade
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that flickers with inner light.
+Appearance : A straight, thirty-six inch single-edged boundary sword with a squared tip, etched along both flats with formal legal land deeds and carried in an open wooden scabbard.
+
+The sword marks territorial boundaries across chamber floors. Entities crossing a line drawn by the blade experience immediate gravitational drag, reducing their movement velocity by half.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)

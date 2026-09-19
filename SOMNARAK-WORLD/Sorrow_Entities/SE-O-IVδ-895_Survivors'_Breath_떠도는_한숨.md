@@ -168,11 +168,13 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Resting Lens
+### M.A.W. Weapon — The Repose Awl
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+Appearance : A seven-inch puncturing awl machined from dense ox bone, weighted with lead inside its bulbous pommel for underhand ice-pick strikes, and wrapped in dried mourning ribbon.
+
+Designed to deliver silent, lethal strikes through cervical vertebrae, the awl slips through armor seams effortlessly. The bone needle point remains ice-cold, numbing the target's vocal cords.
 
 **Damage:** Void 10–15
 **Speed:** 3 (Fast)

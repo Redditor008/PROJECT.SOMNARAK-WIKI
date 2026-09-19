@@ -222,11 +222,13 @@ The escalation pattern is specific to Slept Because You Never Returned: it is no
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Slept Because You Never Returned Fang
+### M.A.W. Weapon — The Slumbering Oak-Blade
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that quivers when raised.
+Appearance : A broad double-edged arming sword shaped from dense petrified black oak, weighing five pounds with a crossguard formed from intertwined root spurs and a smooth pebble pommel.
+
+The petrified wood possesses the hardness of tempered steel combined with superior shock dampening. The blade strikes with immense concussive authority, shattering enemy guard stances.
 
 **Damage:** Grudge 5–9
 **Speed:** 2 (Normal)

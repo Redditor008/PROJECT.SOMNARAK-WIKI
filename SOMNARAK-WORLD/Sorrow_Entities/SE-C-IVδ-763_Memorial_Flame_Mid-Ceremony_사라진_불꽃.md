@@ -180,9 +180,9 @@ The escalation pattern is specific to Memorial Flame Mid-Ceremony: it is not a g
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Soul-Seeking Candelabrum
+### M.A.W. Weapon — The Candelabrum Bodkin
 
-**Category:** MAGIC / RANGE (Antique Candelabrum / Homing Purple Soul-Flame)
+**Category:** SHORT BLADE (Antique Brass Bodkin)
 **Grade:** δ | **Element:** Lament
 **Damage:** Lament 14–22
 **Speed:** 3 (Normal)
@@ -191,7 +191,9 @@ The escalation pattern is specific to Memorial Flame Mid-Ceremony: it is not a g
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Appearance:** An ornate antique candelabrum of tarnished bronze encrusted with weeping wax droplets, holding a thick, dark tallow candle. When inactive, it resembles a solemn altar artifact. When raised in battle, its wick flares with an eerie, deep-purple flame that casts no heat. Upon designating an enemy, luminous purple flame wisps detach and fly through the air, curving around obstacles to relentlessly seek and strike the target's Soul and Mind.
+Appearance : A narrow thrusting bodkin fashioned from an antique branched brass candelabrum, featuring an eight-inch spike, tarnished leaf filigree, and a hollow socket holding unburnt purple wax.
+
+A constant thread of pale violet smoke coils around the point without heat or ignition. Upon target acquisition, the bodkin's tip flares with cold flame that marks the target's shadow across twenty paces.
 
 **Ability:** *Soul-Seeker Conflagration* — Unleashes tracking purple flame wisps across Range 4 (Long). The wisps home onto target weak points, bypassing cover to inflict heavy Lament damage that erodes Sanity and triggers panic buildup.
 
@@ -199,7 +201,7 @@ The escalation pattern is specific to Memorial Flame Mid-Ceremony: it is not a g
 
 ### M.A.W. Suit — The Extinguished Mourner's Shroud
 
-**Category:** Protective Attire (Ash-Dusted Silk Veil & Funerary Shroud)
+**Category:** SHORT BLADE (Antique Brass Bodkin)
 **Grade:** δ | **Element:** Lament
 
 **Appearance:** A wrapping shroud of ash-dusted deep-blue silk, cool and faintly luminous, that shifts and breathes with the wearer.
@@ -218,7 +220,7 @@ The escalation pattern is specific to Memorial Flame Mid-Ceremony: it is not a g
 
 ### M.A.W. Gift — The Purple Wick Stigma
 
-**Category:** Stigma (Ocular / Torso Relic Mark)
+**Category:** SHORT BLADE (Antique Brass Bodkin)
 **Grade:** δ | **Element:** Lament
 
 **Appearance:** A burning purple wick ember mark imprinted upon the skin that smolders without consuming flesh.

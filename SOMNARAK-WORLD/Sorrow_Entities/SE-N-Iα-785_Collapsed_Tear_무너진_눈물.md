@@ -204,11 +204,13 @@ The escalation pattern is specific to Collapsed Tear: it is not a generic breach
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Collapsed Tear Requiem
+### M.A.W. Weapon — The Tear-Drop Awl
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-**Appearance:** a slender, singing blade of deep-blue Han-crystal, cool and faintly luminous, that pulses with the source sorrow when drawn.
+Appearance : A compact six-inch saddler's awl with a broad teardrop-shaped mahogany palm grip and a hardened diamond-section steel bodkin spike ground to a razor-sharp point.
+
+Held in the palm like an assassin's punch, the awl drives deep through heavy hide and plate armor. The diamond cross-section leaves triangular puncture wounds that resist rapid biological clotting.
 
 **Damage:** Lament 5-9
 **Speed:** 2 (Normal)

@@ -168,11 +168,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Melting Lens
+### M.A.W. Weapon — The Liquefying Hand-Cannon
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that flickers with inner light.
+Appearance : A heavy cast-iron hand-cannon with a ten-inch smoothbore barrel, whose exterior surfaces constantly exude a thin film of molten, cooling candle wax and congealed tallow.
+
+The weapon fires solid balls of compressed, burning tallow that splatter across targets upon impact, adhering tenaciously and burning with stubborn white flame that resists water extinguishing.
 
 **Damage:** Void 3-6
 **Speed:** 2 (Normal)

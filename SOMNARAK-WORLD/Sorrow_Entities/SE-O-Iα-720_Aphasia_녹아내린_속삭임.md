@@ -172,11 +172,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Melted Fang
+### M.A.W. Weapon — The Liquefying Spear
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that glows along its edge when readied.
+Appearance : A seven-foot bronze-headed spear whose leaf-shaped blade slowly liquefies along its outer edges, dripping cooling bronze beads that re-coagulate upon hitting the ground.
+
+The spearhead maintains an extraordinary cutting edge despite its liquid boundary. Thrusting into enemy shields causes molten bronze beads to splash onto wooden frames, searing deep burn-holes.
 
 **Damage:** Grudge 3–6
 **Speed:** 2 (Normal)

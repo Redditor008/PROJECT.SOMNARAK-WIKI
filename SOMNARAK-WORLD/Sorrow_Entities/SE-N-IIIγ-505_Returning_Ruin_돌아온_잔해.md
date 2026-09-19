@@ -168,11 +168,13 @@ The behavior table is a snapshot, not a system. The classification and origin co
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Ruin Lens
+### M.A.W. Weapon — The Returning Arbalest
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that pulses with the source sorrow when drawn.
+Appearance : A compact siege arbalest mounting high-tensile steel prod arms, a geared bronze cranequin spanning mechanism, and a grooved bone track carved with flight calculations.
+
+The weapon launches heavy square-headed bolts attached to microscopic retrieval cables. An internal spring-spool winds the bolt back into the loading groove instantly upon a missed discharge.
 
 **Damage:** Void 7-12
 **Speed:** 3 (Fast)

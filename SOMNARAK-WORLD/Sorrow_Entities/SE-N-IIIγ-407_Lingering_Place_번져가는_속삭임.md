@@ -168,11 +168,13 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Lingering Place's Lens
+### M.A.W. Weapon — The Whispering Matchlock
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that weeps a thin film of Han when swung.
+Appearance : An elongated matchlock arquebus with a browned octagonal barrel, serpent lock, and cherry-wood stock, featuring a slow-burning braided cotton cord that emits zero sparks or odor.
+
+The breech is fitted with an internal lead baffler that silences the detonation completely. Discharging lead balls produces only a faint sigh, while the spent smoke dissipates instantaneously.
 
 **Damage:** Void 10–15
 **Speed:** 3 (Fast)

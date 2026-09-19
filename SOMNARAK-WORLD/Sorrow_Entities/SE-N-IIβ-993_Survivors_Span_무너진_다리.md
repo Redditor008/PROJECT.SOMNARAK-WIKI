@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Bridge Maul
+### M.A.W. Weapon — The Arch-Span Orrery
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that pulses with the source sorrow when drawn.
+Appearance : A levitating architectural miniature depicting a Romanesque stone arch bridge, whose polished granite keystone hovers two inches above the piers on magnetic tension fields.
+
+Displacing the keystone creates an invisible gravitational tension bridge across open chasms. The model absorbs incoming kinetic shocks, redistributing pressure harmlessly into the earth.
 
 **Damage:** Weight 5-9
 **Speed:** 2 (Normal)

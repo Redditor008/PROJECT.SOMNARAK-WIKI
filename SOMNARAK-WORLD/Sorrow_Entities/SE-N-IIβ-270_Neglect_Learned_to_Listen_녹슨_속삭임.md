@@ -180,11 +180,13 @@ The escalation pattern is specific to Neglect Learned to Listen: it is not a gen
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Neglect Learned to Listen's Maul
+### M.A.W. Weapon — The Rusted Boundary-Rod
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that flickers with inner light.
+Appearance : A solid five-foot surveyor's staff forged from hexagonal iron bar, capped with a heavy square bronze head wrapped in oxidised copper wire and marked with distance notches.
+
+Planted firmly into the ground, the rod discharges low-voltage galvanic pulses that delineate a perimeter zone. Entities crossing the established boundary experience muscular numbness.
 
 **Damage:** Weight 5–9
 **Speed:** 2 (Normal)

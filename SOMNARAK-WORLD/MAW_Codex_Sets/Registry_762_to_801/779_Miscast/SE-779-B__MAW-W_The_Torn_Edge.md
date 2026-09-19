@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Torn Edge
+# M.A.W. WEAPON — The Fracture Sundial
 
 > *“The Torn Edge remembers Miscast; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Torn Edge is the weapon record of Miscast’s set, and its canonical ability carries the source’s grievance into combat mechanics: strikes become stronger against damaged or unfinished structures, the broken artifact’s anger sharpest at incompletion. Binding is testimonial: the bearer names Miscast’s event — a Forge artifact was destroyed during a failed extraction, and its fragments kept the anger of the unfinished task — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The operational cost is singular and telling: the weapon resists every completed action — the blade balking at finish, carrying incompletion into the wielder’s hands — and continued use makes the sorrow feel autobiographical. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon discharges the immediate hazard only after the team attributes it to Miscast, and treating the response as the bearer’s own story reproduced the source wound and established the binding rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : A circular stone sundial disc hovering horizontally at waist height, carved from fractured green slate with an angular triangular gnomon cast from unpolished meteorite iron.
+
+The dial casts a sharp, artificial shadow that rotates independently of actual overhead lighting. As the bearer approaches conflict, the gnomon projects a focused beam of razor-sharp shadow-light along the floor.
 
 ## CORE STATISTICS
 

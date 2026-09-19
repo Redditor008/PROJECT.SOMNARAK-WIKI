@@ -178,11 +178,13 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Occlusihan Fang
+### M.A.W. Weapon — The Occlusion Star-Chalice
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that hums faintly when gripped.
+Appearance : A carved obsidian drinking chalice hovering weightlessly six inches above the bearer's outstretched palm, filled with an immovable pool of liquid shadow that reflects no light.
+
+The chalice emits a steady gravitational pull that draws incoming projectile attacks into its dark center, safely neutralizing them. Inverting the cup discharges an expanding shockwave of crushing gravity.
 
 **Damage:** Grudge 10-15
 **Speed:** 3 (Fast)

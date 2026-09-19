@@ -180,11 +180,13 @@ The escalation pattern is specific to Vanished Sigh: it is not a generic breach 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Vanished Fang
+### M.A.W. Weapon — The Vanished Flintlock
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that weeps a thin film of Han when swung.
+Appearance : An exquisite eighteenth-century flintlock pistol crafted from silver-inlaid burl walnut, featuring a silver lockplate, swan-neck cock, and an engraved smoothbore barrel.
+
+The flint mechanism strikes a sparkless steel battery that ignites Void-powder without flash or sound. The discharged silver bullet passes through physical walls, striking only metaphysical soul cores.
 
 **Damage:** Grudge 10-15
 **Speed:** 3 (Fast)

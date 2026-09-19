@@ -168,11 +168,13 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Rootbound Maul
+### M.A.W. Weapon — The Taproot Sceptre
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
+Appearance : A five-foot gnarled root sceptre carved from living briarwood, crowned with four splayed wooden spurs that writhe slowly when brought near moist soil or emotional sorrow.
+
+Planted into the ground, the spurs burrow deep into structural foundations to detect subterranean entity movements. Striking foes with the head drives splintering thorn-spurs deep into flesh.
 
 **Damage:** Weight 10-15
 **Speed:** 3 (Fast)

@@ -168,11 +168,13 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Trace Fang
+### M.A.W. Weapon — The Phantom Blade-Array
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that quivers when raised.
+Appearance : Three identical six-inch throwing knives forged from translucent celestial crystal, levitating in a tight triangular formation before the wielder on silver astral threads.
+
+The knives respond instantly to telekinetic hand gestures, flying through the air to strike distant targets before returning to their hovering formation. They leave clean, bloodless incisions that bypass armor.
 
 **Damage:** Grudge 3–6
 **Speed:** 2 (Normal)

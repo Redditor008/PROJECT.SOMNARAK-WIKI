@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — Bridge of the Unchosen Lens
+# M.A.W. WEAPON — The Permafrost Star-Ring
 
 > *“Bridge of the Unchosen Lens remembers Bridge of the Unchosen; the bearer must not mistake memory for permission.”*
 
@@ -21,7 +21,9 @@
 
 ## Appearance
 
-The Bridge of the Unchosen Lens is the weapon record of its source’s set, a Void instrument attacking the Soul by channeling the source’s void signature into the strike. Binding is testimonial: the bearer names the source event — a person abandoned a crossing at the last moment, and the path froze around the decision — and accepts the set’s limit: acknowledge possibility without treating it as history. The operational cost is the Void standard: the wielder loses small, nameless memories with each use, and continued use makes the sorrow feel autobiographical — the frozen decision thawing into the wielder’s own catalogue of last-moment turnings. The source-trace records the entity’s nature: an Object/Place entity, it cannot be confronted through Pugnahan — the weapon stabilizes the immediate hazard only after attribution to the Bridge, and treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event, through the item repeating the response outside contact, to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+Appearance : A floating halo ring of seven small frosted crystal goblets orbiting at eye level, each vessel filled with a bead of luminous blue starlight that never evaporates.
+
+The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapping any chalice releases a chime that freezes moisture in the air into falling geometric snowflake blades.
 
 ## CORE STATISTICS
 

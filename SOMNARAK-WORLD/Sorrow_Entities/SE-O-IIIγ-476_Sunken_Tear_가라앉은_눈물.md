@@ -204,11 +204,13 @@ The escalation pattern is specific to Sunken Tear: it is not a generic breach ev
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — Sunken Tear Maul
+### M.A.W. Weapon — The Sunken Tear Mortar
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that flickers with inner light.
+Appearance : A stubby, wide-mouthed bronze siege mortar mounted on a reinforced oak base, fitted with elevation screws and an oversized muzzle designed to launch spherical glass projectiles.
+
+The weapon fires ampoules filled with hyper-concentrated Lament brine that shatter on impact, saturating an entire room in weeping vapors that induce immediate despair and disorientation.
 
 **Damage:** Weight 7-12
 **Speed:** 3 (Fast)

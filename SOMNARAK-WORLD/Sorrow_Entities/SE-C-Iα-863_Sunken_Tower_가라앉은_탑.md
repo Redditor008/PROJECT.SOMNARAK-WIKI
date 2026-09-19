@@ -168,11 +168,13 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Empty Lens
+### M.A.W. Weapon — The Sunken Culverin
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-**Appearance:** a lens-ground disc of pale Han-glass, near-translucent and almost colourless, that quivers when raised.
+Appearance : A heavy, cast-bronze naval culverin dredged from flooded depths, featuring dark verdigris patina, reinforced reinforcing rings, a flared muzzle, and a handheld iron tiller grip.
+
+The bore discharges pressurized slugs of dense, compressed Void-water that disintegrate on impact with explosive sonic booms. Salt crust and wet silt continuously flake from the carriage during chamber venting.
 
 **Damage:** Void 3-6
 **Speed:** 2 (Normal)

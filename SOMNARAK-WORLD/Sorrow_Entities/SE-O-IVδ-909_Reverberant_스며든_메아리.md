@@ -180,11 +180,13 @@ The escalation pattern is specific to Reverberant: it is not a generic breach ev
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Echo Fang
+### M.A.W. Weapon — The Echoing Zweihander
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a fang-curved blade of crimson Han-iron, dark and faintly warm, that pulses with the source sorrow when drawn.
+Appearance : A massive five-foot hexagonal sceptre carved from solid black volcanic basalt, weighing forty pounds and capped with a geometric monolith block engraved with deep warding runes.
+
+Requiring tremendous physical strength to wield, the sceptre serves equally as a crushing maul and ritual staff. Planting the butt into earth induces localized seismic ripples that stagger opponents.
 
 **Damage:** Grudge 10-15
 **Speed:** 3 (Fast)
@@ -200,14 +202,10 @@ The escalation pattern is specific to Reverberant: it is not a generic breach ev
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness of crimson Han-iron, dark and faintly warm, that carries a faint scent of its origin.
+Appearance : A massive six-foot two-handed greatsword with a four-foot blade, broad side parrying rings, and long drooping quillons that ring like tuned orchestral chimes when the sword is swung.
 
-**Resistances:**
-- Grudge: 0.4 (Resistant)
-- Lament: 1.0 (Normal)
-- Weight: 1.2 (Weak)
-- Void: 1.8 (Weak)
-**Max Amount:** 2
+The blade's immense reach and momentum dominate wide hallways, holding multiple foes at bay. The chime quillons resonate in harmony with the swing, releasing acoustic ripples that disorient opponents.
+
 **Cost:** 45 Sorrow Echoes
 
 **Ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Reverberant's kind of pressure.

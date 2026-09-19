@@ -180,11 +180,13 @@ The escalation pattern is specific to Torpor: it is not a generic breach event. 
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.
 
-### M.A.W. Weapon — The Sleeping Maul
+### M.A.W. Weapon — The Exhale Culverin
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** a heavy two-handed maul of black Han-steel, matte and unnaturally heavy, that hums faintly when gripped.
+Appearance : A stubby, wide-bored naval culverin with an octagonal brass barrel, flared bell muzzle, and a handheld walnut stock fitted with an exposed side hammer.
+
+The weapon discharges high-pressure gusts of freezing, condensed breath harvested from dying entities. The blast inflicts severe blunt concussions and covers targets in suffocating hoarfrost.
 
 **Damage:** Weight 10–15
 **Speed:** 3 (Fast)
