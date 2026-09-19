@@ -27,17 +27,18 @@ Ishall is controlled, perceptive, and difficult to intimidate. Her humanoid Andr
 9. [Abilities](#abilities)
 10. [Limitations and Costs](#limitations-and-costs)
 11. [Equipment and Classification](#equipment-and-classification)
-12. [Relationships — The Nine](#relationships--the-nine)
-13. [Relationships — Other Figures and the City](#relationships--other-figures-and-the-city)
-14. [The Secret](#the-secret)
-15. [Central Question and Character Arc](#central-question-and-character-arc)
-16. [Selected Dialogue and Flavor Text](#selected-dialogue-and-flavor-text)
-17. [Themes and Motifs](#themes-and-motifs)
-18. [Story Appearances](#story-appearances)
-19. [The Echo-Core Name](#the-echo-core-name)
-20. [Notes](#notes)
-21. [Trivia](#trivia)
-22. [Final Character Statement](#final-character-statement)
+12. [Core Suppression Protocol — The Dual Suppression of Floor 7](#core-suppression-protocol--the-dual-suppression-of-floor-7)
+13. [Relationships — The Nine](#relationships--the-nine)
+14. [Relationships — Other Figures and the City](#relationships--other-figures-and-the-city)
+15. [The Secret](#the-secret)
+16. [Central Question and Character Arc](#central-question-and-character-arc)
+17. [Selected Dialogue and Flavor Text](#selected-dialogue-and-flavor-text)
+18. [Themes and Motifs](#themes-and-motifs)
+19. [Story Appearances](#story-appearances)
+20. [The Echo-Core Name](#the-echo-core-name)
+21. [Notes](#notes)
+22. [Trivia](#trivia)
+23. [Final Character Statement](#final-character-statement)
 
 ---
 
@@ -921,6 +922,64 @@ The record retains the compatibility and exposure note without assigning a perma
 Crimson appears in Ishall's active conductor lines and Unanswered's channels. Pale White appears in her sensor rings, the artifacts' palms, Void residue, and Closed Ground.
 
 Black belongs mainly to chassis structure, clothing, and Artifact surfaces. It is not assigned as a Weight element in her signature.
+
+---
+
+## Core Suppression Protocol — The Dual Suppression of Floor 7
+
+> _“Other sectors fracture along a single wound. Floor 7 fractures twice: first the assassin wakes up, then the Before-Time takes the room.”_
+
+Unlike standard Echo-Core crises that resolve through a single harmonic suppression, Echo-Core 8 presents a unique **Dual Suppression (이중 진압)** protocol. Because Ishall represents a volatile synthesis of two external lethal forces—a repurposed enemy military chassis and an uncataloged Before-Time relic—her Core Crisis unfolds in two distinct, sequential operational phases.
+
+### Suppression Overview
+
+| Field | Registry Entry |
+|---|---|
+| **Designation** | **Dual Suppression — Floor 7 (Shadow Corps)** |
+| **Target** | Echo-Core 8 — Ishall |
+| **Location** | Sector 07 Subterranean Operations Grid / Floor 7 Black Vault |
+| **Trigger Condition** | Cycle trauma saturation; failure of Directorate neural firewalls; Han harmonic desynchronization exceeding 92% |
+| **Phase Count** | **2 Sequential Suppressions** (Mandatory uninterrupted sequence) |
+| **Phase I Focus** | Tactical Infiltrator Subroutine (Enemy Chassis Reclamation) |
+| **Phase II Focus** | Primordial Void Singularity (Unanswered Awakened Relic) |
+| **Surviving Reward** | **+10 to All Attributes** (Resilience, Clarity, Composure, Resolve); permanent synchronization lock on *Unanswered*; facility-wide covert coordination bonus |
+
+---
+
+### Suppression I — The Infiltrator Protocol (Chassis Reclamation)
+
+#### Narrative Crisis
+Under prolonged cycle exhaustion, the Directorate's administrative overrides collapse. Ishall’s repurposed enemy Android chassis reverts to its original factory directives: execute black-ops sabotage, eliminate Directorate command personnel, and permanently dismantle Facility 01 from within.
+
+#### Encounter Mechanics
+- **Element Signature:** **Grudge (Crimson)** direct kinetic ballistics and stealth minefields.
+- **Active Camouflage:** Ishall deploys full optical refraction, vanishing from standard sensors and striking from concealed vantage points across Floor 7.
+- **Crossfire Saturation:** High-speed sniper rounds and razor-wire ambushes that inflict heavy Grudge direct damage on moving agents.
+- **Suppression Objective:** Agents cannot reason with the hostile military firmware. They must deploy electronic jamming, bypass tactical kill-zones, and physically breach her chassis's cranial housing to shatter the foreign command loop and awaken her core consciousness.
+
+---
+
+### Suppression II — The Primordial Void Rupture (Unanswered Awakened)
+
+#### Narrative Crisis
+Neutralizing the enemy chassis shatters her motor controls, severing the delicate neural link holding *Unanswered*. With their bearer incapacitated, the paired Before-Time Artifact Hands detach into an autonomous primordial state, awakening their closed ancient Han lattice.
+
+#### Encounter Mechanics
+- **Element Signature:** Pure **Void (Pale White)** area-denial and spatial distortion.
+- **Omnidirectional Closed Ground:** The two oversized relic hands fly to opposite structural weight-bearing columns of Floor 7, turning their Pale White palms inward. The entire encounter floor becomes an active *Closed Ground* field:
+  - All Han-assisted movement and remote Han-wave communications are completely suppressed.
+  - Ambient gravity inverts intermittently; agents suffer continuous Void erosion ticks across all zones.
+- **Converging Refusal Implosions:** Every 20 seconds, the floating relic hands target opposing quadrants of the floor, curling their fingers to collapse spatial boundaries and dealing lethal crushing damage to anyone caught within the converging vectors.
+- **Suppression Objective:** The relic hands cannot be destroyed by conventional weapons. Agents must endure the crushing Void pressure, cross the distorted terrain on foot without Han assistance, and establish physical contact with both artifacts simultaneously to force a harmonic recalibration, binding them back to Ishall's restored consciousness.
+
+---
+
+### Realization and Post-Suppression State
+
+Upon surviving both suppression phases:
+- **Harmonic Stabilization:** Ishall regains conscious command over both her chassis and the relic hands, permanently purging the enemy military subroutine.
+- **Attribute Growth:** All surviving personnel gain **+10 Resilience, Clarity, Composure, and Resolve**.
+- **Departmental Breakthrough:** Floor 7 permanently gains the **Silent Vanguard** upgrade, stabilizing Shadow Corps covert deployments across all subsequent cycles and securing Ishall's absolute allegiance to the Directorate.
 
 ---
 

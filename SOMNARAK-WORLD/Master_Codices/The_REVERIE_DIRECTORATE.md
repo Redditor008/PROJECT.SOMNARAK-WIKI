@@ -2012,6 +2012,45 @@ If an Ordeal is not handled properly, it **escalates**:
 
 ---
 
+## Core Suppression Protocols — Departmental Realization Trials
+
+> *"A door that will not open must be forced. An Echo-Core that will not speak must be suppressed."*
+> — Director Majin, *Facility Operations Log 4232+100*
+
+### Overview of Core Suppression (핵 진압 — Haek Jin-ap)
+
+Across the 1,778 Cycles, the Echo-Cores carry the unyielding emotional, psychological, and cosmological burden of Facility 01. When an Echo-Core's internal Han harmonic fractures under accumulated cycle sorrow, their sector enters a state of catastrophic resonance known as a **Core Crisis (핵 위기)**.
+
+During a Core Crisis:
+1. **Sector Breakdown:** The destabilized Echo-Core's emotional signature floods their respective floor, warping facility geometry, disabling safety protocols, and threatening total containment failure.
+2. **Directorate Response:** The Director and assigned agents must enter the destabilized sector, navigating distorted operational constraints to physically and psychologically suppress the crisis.
+3. **Harmonic Realization:** Surviving a Core Suppression grounds the Echo-Core's consciousness, permanently resolving their central existential trauma.
+
+### Permanent Suppression Rewards
+
+As documented in Directorate Personnel Records:
+- **Attribute Reinforcement:** Surviving personnel receive a permanent **+10 to All Attributes** (Resilience, Clarity, Composure, Resolve).
+- **Sector Stabilization:** The suppressed floor gains a permanent operational buff that persists across all subsequent cycles.
+- **Architectural Alignment:** Each successful suppression aligns one node of the central extraction network, advancing the facility toward the completion of the **Absolvohan**.
+
+### Facility 01 Suppression Roster (Floors 2 through 8)
+
+| Floor & Sector | Echo-Core Lead | Suppression Codename | Crisis Nature & Primary Threat |
+|---|---|---|---|
+| **Floor 2: Maw's Keep** | Dekan (Containment) | **Maw Heartbeat Surge** | Living graft resonance; the thousand consumed souls weep through the scaled arm; containment seals destabilize. |
+| **Floor 3: Extraction Hall** | Zyrak (Extraction) | **Forge Bleed Overload** | Memory bleed from extracted debtors overloads Android core; volatile Han crystallization pulses freeze equipment. |
+| **Floor 4: Insight Forge** | Ayshuk (Research) | **Void Logic Collapse** | Complete emotional detachment collapses into an infinite analytical Void; diagnostic feeds invert into psychic feedback. |
+| **Floor 5: Border Watch** | Mellda (Border Lead) | **Warden Martial Trial** | The ultimate physical combat gauntlet; Mellda's Warden chassis overclocks, unleashing room-clearing Weight shockwaves via Threshold Vow. |
+| **Floor 6: Deep Vault** | Marjuk (Archive) | **Memory Vault Leak** | Han-stasis memory seals shatter; ancient acoustic threads flood the dark vault with phantom memories and temporal vertigo. |
+| **Floor 7: Shadow Corps** | Ishall (Outsider) | **The Dual Suppression** | **Facility 01's only two-phase sequential suppression:** Stage 1 (Infiltrator Chassis Reclamation) followed by Stage 2 (Unanswered Primordial Void Singularity). |
+| **Floor 8: Gate Watch** | Xyan (Exile) | **Desolate Gale Breach** | Boundary threshold fractures; Desolate storm-winds and phantasmal route echoes sweep into the corridors, calcifying terrain into pale crystal. |
+
+### The Unique Anomaly of Floor 7: Ishall's Dual Suppression
+
+Floor 7 represents an unprecedented operational hazard. Because Ishall is an artificial synthesis of a **repurposed enemy assassin chassis** and an **ancient Before-Time relic**, her crisis cannot be quelled in a single engagement:
+
+1. **Stage 1 — Chassis Reclamation (Grudge):** Her foreign military programming overrides Directorate control, locking down Floor 7 in lethal optical cloaking, tactical ambushes, and sniper crossfire. Agents must bypass her military kill-zones and breach her chassis to awaken her personal consciousness.
+2. **Stage 2 — Unanswered Primordial Rupture (Void):** With her motor chassis disabled, the floating Before-Time Artifact Hands (*Unanswered*) awaken their ancient, closed Han-lattice. The relic hands establish an omnidirectional *Closed Ground* field that shuts down all Han-assisted movement and communications, bombarding the sector with crushing Void implosions until agents physically breach the vacuum and resynchronize the artifacts.
 
 ---
 
@@ -2641,6 +2680,8 @@ The Archive Lead sometimes wonders: if the city knew the truth, would it change 
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Han Signature** | Grudge (Crimson) + Void (Pale White) |
 | **Manifestation** | Subject-Body — physical, dangerous, marked |
+| **Armament** | Specialize Relic: Unanswered (Paired Floating Artifact Hands / Relic Gloves) |
+| **Core Suppression** | Dual Suppression: Stage 1 (Infiltrator Chassis) + Stage 2 (Unanswered Void Relic) |
 | **Veil/Raw** | Exists in the Raw — the Veil rejects them |
 | **Secret** | Was sent by the Council to destroy the R.D. — was abandoned after failure |
 | **Arc** | The Outsider must decide whether to serve the R.D. — or complete their original mission |
