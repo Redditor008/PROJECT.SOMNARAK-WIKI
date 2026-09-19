@@ -1,20 +1,22 @@
-## Batch 1 — Days 1–25[#](#batch_1_days_1_25 "Jump to section")
+# The Absolvohan — Part 2 — Batch 1: Days 1–25
 
-### Day 1[#](#day_1 "Jump to section")
+## Batch 1 — Days 1–25
 
-### Dialogue[#](#dialogue_2 "Jump to section")
+### Day 1
 
-> **Dekan:** _"Morning report. Entity 001 tolled at midnight. Again."_
+### Dialogue
 
-> **Seiyon:** _"Noted. The tolling frequency has increased by 0.3% since last cycle."_
+> **Dekan:** _"Morning report. Entity 001 tolled at midnight. Again."_
 
-> **Majin:** _"Noted. Continue monitoring."_
+> **Seiyon:** _"Noted. The tolling frequency has increased by 0.3% since last cycle."_
 
-> **Dekan:** _"Director... the Maw whispered last night. It said your name."_
+> **Majin:** _"Noted. Continue monitoring."_
 
-> **Majin:** _"...Noted."_
+> **Dekan:** _"Director... the Maw whispered last night. It said your name."_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session_2 "Jump to section")
+> **Majin:** _"...Noted."_
+
+### Day Narrative — Operational Shift Log
 
 **[MORNING REPORT — DAY 1]**
 
@@ -44,19 +46,19 @@ The cycle begins. Day 1 of Year 4232+1778. The facility awakens — Han-lamps fl
 |025 — Silent Child|Flerehan|Agent Choi|-10%|+0.01t|
 |028 — Cracked Hourglass|Viderehan|Agent Yoon|-3%|+0.01t|
 
-**Morning energy total:** +0.06 tons. Running total: 47.36 tons.
+**Morning energy total:** +0.06 tons. Running total: 47.36 tons.
 
 **[AFTERNOON — M.A.W. EXTRACTION REQUEST]**
 
-> **Zyrak:** _"Extraction request. Entity 028 — The Cracked Hourglass. M.A.W. potential: β-grade pendant. Time-slowing ability."_
+> **Zyrak:** _"Extraction request. Entity 028 — The Cracked Hourglass. M.A.W. potential: β-grade pendant. Time-slowing ability."_
 
-> **Majin:** _"Risk assessment?"_
+> **Majin:** _"Risk assessment?"_
 
-> **Zyrak:** _"Entity is stable. Gauge at 42%. Extraction success probability: 89%."_
+> **Zyrak:** _"Entity is stable. Gauge at 42%. Extraction success probability: 89%."_
 
-> **Majin:** _"Approved. Proceed with caution."_
+> **Majin:** _"Approved. Proceed with caution."_
 
-**Extraction Result:** Success. M.A.W. extracted — The Hourglass Pendant (β-grade, Weight element). Ability: Slow time briefly. Cost: Shortens wearer's life.
+**Extraction Result:** Success. M.A.W. extracted — The Hourglass Pendant (β-grade, Weight element). Ability: Slow time briefly. Cost: Shortens wearer's life.
 
 **[EVENING — FACILITY REVIEW]**
 
@@ -72,7 +74,7 @@ The cycle begins. Day 1 of Year 4232+1778. The facility awakens — Han-lamps fl
 
 The Director reviews the Absolvohan's status. Han-crystal reserves: 47.37 tons. Target: 100 tons. Progress: 0.07 tons today. At this rate, the Absolvohan will reach capacity in approximately 751 days.
 
-The Director does not share the number. The Director shares nothing. The Director simply says: _"Noted."_
+The Director does not share the number. The Director shares nothing. The Director simply says: _"Noted."_
 
 **[DEPLOYMENT PHASE — MORNING ASSIGNMENTS]**
 
@@ -95,19 +97,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Guarding Bird|Flerehan (tears — emotional engagement)|Agent Choi|+3%|+0.024t|Containment field flickered.|
 |The Orphaned Bell|Ferrehan (endurance — sustained presence)|Agent Yoon|-8%|+0.01t|Clean extraction potential.|
 
-Afternoon shift: M.A.W. extraction prep on Floor 3. Total energy produced: **+0.091 tons**.
+Afternoon shift: M.A.W. extraction prep on Floor 3. Total energy produced: **+0.091 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.091 tons** (daily quota: 0.066t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.091 tons** (daily quota: 0.066t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 12 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 0
 - Entities breached: 0
-- Ordeal: **The Voice** — PALE, Second Watch (Void — Pale White) — identity dissolution — personnel forget themselves — suppressed.
+- Ordeal: **The Voice** — PALE, Second Watch (Void — Pale White) — identity dissolution — personnel forget themselves — suppressed.
 - Sorrow Gauge average: 45% (falling)
 - M.A.W. extracted: δ-grade (Zyrak reports stable extraction)
-- Director's assessment: _"A good day. The city holds."_
+- Director's assessment: _"A good day. The city holds."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -117,7 +119,7 @@ New entity detected in the Han-flow scans overnight. The selection pool offered 
 2. The Orphaned Bell — City Sorrow — γ-grade
 3. The Observing Bird — Outside Sorrow — δ-grade
 
-The Director selects **The Sorrow Tide**. Containment cell: Cell B-14. Initial Sorrow Gauge: 38%. Classification pending full observation.
+The Director selects **The Sorrow Tide**. Containment cell: Cell B-14. Initial Sorrow Gauge: 38%. Classification pending full observation.
 
 **[PERSONNEL & TRAINING REPORT]**
 
@@ -129,7 +131,7 @@ The Director selects **The Sorrow Tide**. Containment cell: Cell B-14. Initial 
 
 **[M.A.W. EXTRACTION & FORGING]**
 
-- M.A.W. extracted: **The Choir's Hush** (Weapon, δ-grade) from The Orphaned Bell
+- M.A.W. extracted: **The Choir's Hush** (Weapon, δ-grade) from The Orphaned Bell
 - Extraction performed by: Zyrak (Floor 3, Extraction Hall)
 - Equipped to: Agent Han — quarantined for observation
 - Cost to wielder: emotional numbness in left hand
@@ -144,25 +146,25 @@ Night watch: Agent Jung, Floor 3. Overnight report:
 - Security incidents: none reported.
 - The Director did not sleep. The Director does not sleep.
 
-### Day 5[#](#day_5 "Jump to section")
+### Day 5
 
-### Dialogue[#](#dialogue_3 "Jump to section")
+### Dialogue
 
-> **Ayshuk:** _"Research report. Entity 015 — The Kind Healer — has blessed nine personnel. Three more and..."_
+> **Ayshuk:** _"Research report. Entity 015 — The Kind Healer — has blessed nine personnel. Three more and..."_
 
-> **Majin:** _"I know what happens at twelve."_
+> **Majin:** _"I know what happens at twelve."_
 
-> **Ayshuk:** _"Of course. Just... monitoring."_
+> **Ayshuk:** _"Of course. Just... monitoring."_
 
-> **Zyrak:** _"Extraction report. I pulled a β-grade M.A.W. from Entity 028 today. The Cracked Hourglass."_
+> **Zyrak:** _"Extraction report. I pulled a β-grade M.A.W. from Entity 028 today. The Cracked Hourglass."_
 
-> **Seiyon:** _"M.A.W. stored. Extraction efficiency: 94%."_
+> **Seiyon:** _"M.A.W. stored. Extraction efficiency: 94%."_
 
-> **Zyrak:** _"It fought me. The Hourglass didn't want to give up its time."_
+> **Zyrak:** _"It fought me. The Hourglass didn't want to give up its time."_
 
-> **Dekan:** _"Entities never want to give up anything. That's why they're contained."_
+> **Dekan:** _"Entities never want to give up anything. That's why they're contained."_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session_3 "Jump to section")
+### Day Narrative — Operational Shift Log
 
 Day 5. The facility settles into its rhythm. Agents report to their assignments. Containment teams perform Work Types. Extraction teams pull M.A.W. Research teams study. The Hand of Change operates.
 
@@ -196,19 +198,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Smothering Mother|Pugnahan (confrontation — direct challenge)|Agent Shin|-10%|+0.009t|Agent performed well.|
 |The Vanished Rope|Flerehan (tears — emotional engagement)|Agent Bae|-5%|+0.007t|Entity responsive.|
 
-Afternoon shift: M.A.W. extraction prep on Floor 3. Total energy produced: **+0.069 tons**.
+Afternoon shift: M.A.W. extraction prep on Floor 3. Total energy produced: **+0.069 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.069 tons** (daily quota: 0.067t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.069 tons** (daily quota: 0.067t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 10 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 0
 - Entities breached: 0
-- Ordeal: **None** — Han-density held below spawn threshold; a rare quiet day
+- Ordeal: **None** — Han-density held below spawn threshold; a rare quiet day
 - Sorrow Gauge average: 61% (falling)
 - M.A.W. extracted: γ-grade
-- Director's assessment: _"Stable. For now. The Director knows "for now" is all there is."_
+- Director's assessment: _"Stable. For now. The Director knows "for now" is all there is."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -224,7 +226,7 @@ No new entity detected today. The Han-flow scans returned three blanks — unusu
 
 **[M.A.W. EXTRACTION & FORGING]**
 
-- M.A.W. extracted: **The Healer's Salve** (Gift (Accessory), γ-grade) from The Memory Weaver
+- M.A.W. extracted: **The Healer's Salve** (Gift (Accessory), γ-grade) from The Memory Weaver
 - Extraction performed by: Zyrak (Floor 3, Extraction Hall)
 - Equipped to: Agent Lim — immediate deployment
 - Cost to wielder: accelerated aging (cosmetic)
@@ -239,27 +241,27 @@ Night watch: Agent Sim, Floor 8. Overnight report:
 - Security incidents: none reported.
 - The Director did not sleep. The Director does not sleep.
 
-### Day 7[#](#day_7 "Jump to section")
+### Day 7
 
-### Dialogue[#](#dialogue_4 "Jump to section")
+### Dialogue
 
-> **Mellda:** _"Border report. Han-storm approaching from the southeast. ETA: 6 hours."_
+> **Mellda:** _"Border report. Han-storm approaching from the southeast. ETA: 6 hours."_
 
-> **Majin:** _"Severity?"_
+> **Majin:** _"Severity?"_
 
-> **Mellda:** _"Moderate. The Desolate nomads are moving north. The Drift King's scouts were seen at the 8 km mark."_
+> **Mellda:** _"Moderate. The Desolate nomads are moving north. The Drift King's scouts were seen at the 8 km mark."_
 
-> **Seiyon:** _"Shall I alert the Wardens?"_
+> **Seiyon:** _"Shall I alert the Wardens?"_
 
-> **Majin:** _"No. Let the nomads pass. They're not hostile."_
+> **Majin:** _"No. Let the nomads pass. They're not hostile."_
 
-> **Mellda:** _"Director... the entity inside me. It's restless. It senses the storm."_
+> **Mellda:** _"Director... the entity inside me. It's restless. It senses the storm."_
 
-> **Majin:** _"Contain it, Mellda. You know how."_
+> **Majin:** _"Contain it, Mellda. You know how."_
 
-> **Mellda:** _"I know. I always do. But it gets harder each cycle."_
+> **Mellda:** _"I know. I always do. But it gets harder each cycle."_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session_4 "Jump to section")
+### Day Narrative — Operational Shift Log
 
 Day 7. The Han-storm approaches — a wave of concentrated sorrow sweeping from the southeast. The Desolate's nomads move north, following the Han flows, reading the planet's grief. The Drift King's scouts appear at the 8 km mark — watching, waiting, trading.
 
@@ -289,19 +291,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Memory Weaver|Flerehan (tears — emotional engagement)|Agent Sim|-6%|+0.023t|No complications.|
 |The Forgotten Soldier|Pugnahan (confrontation — direct challenge)|Agent Lim|-5%|+0.019t|Smooth work cycle.|
 
-Afternoon shift: border patrol reports filed from Floor 8. Total energy produced: **+0.073 tons**.
+Afternoon shift: border patrol reports filed from Floor 8. Total energy produced: **+0.073 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.073 tons** (daily quota: 0.041t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.073 tons** (daily quota: 0.041t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 7 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 0
 - Entities breached: 0
-- Ordeal: **The Surge** — BLUE, Second Watch (Lament — Deep Blue) — wave of sorrow pressure — psychological — suppressed.
+- Ordeal: **The Surge** — BLUE, Second Watch (Lament — Deep Blue) — wave of sorrow pressure — psychological — suppressed.
 - Sorrow Gauge average: 41% (rising)
 - M.A.W. extracted: γ-grade
-- Director's assessment: _"Quiet. The Director does not trust quiet. Quiet is the breath before."_
+- Director's assessment: _"Quiet. The Director does not trust quiet. Quiet is the breath before."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -317,7 +319,7 @@ No new entity detected today. The Han-flow scans returned three blanks — unusu
 
 **[M.A.W. EXTRACTION & FORGING]**
 
-- M.A.W. extracted: **The Wall's Mass** (Weapon, α-grade) from The Kind Healer
+- M.A.W. extracted: **The Wall's Mass** (Weapon, α-grade) from The Kind Healer
 - Extraction performed by: Zyrak (Floor 3, Extraction Hall)
 - Equipped to: Agent No — immediate deployment
 - Cost to wielder: emotional numbness in left hand
@@ -332,29 +334,29 @@ Night watch: Agent Yoon, Floor 5. Overnight report:
 - Security incidents: none reported.
 - The Director did not sleep. The Director does not sleep.
 
-### Day 12[#](#day_12 "Jump to section")
+### Day 12
 
-### Dialogue[#](#dialogue_5 "Jump to section")
+### Dialogue
 
-> **Marjuk:** _"Archive report. I found something... unusual."_
+> **Marjuk:** _"Archive report. I found something... unusual."_
 
-> **Majin:** _"Unusual how?"_
+> **Majin:** _"Unusual how?"_
 
-> **Marjuk:** _"A memory fragment from Before-Time. Pre-Consolihan. It mentions... the Furnace."_
+> **Marjuk:** _"A memory fragment from Before-Time. Pre-Consolihan. It mentions... the Furnace."_
 
-> **Seiyon:** _"The Furnace of Cheonbulok?"_
+> **Seiyon:** _"The Furnace of Cheonbulok?"_
 
-> **Marjuk:** _"Yes. The fragment says: 'The Furnace burns. The Furnace always burns. And what it burns, it releases.'"_
+> **Marjuk:** _"Yes. The fragment says: 'The Furnace burns. The Furnace always burns. And what it burns, it releases.'"_
 
-> **Majin:** _"..."_
+> **Majin:** _"..."_
 
-> **Marjuk:** _"Director?"_
+> **Marjuk:** _"Director?"_
 
-> **Majin:** _"Archive it. Classified. Echo-Core eyes only."_
+> **Majin:** _"Archive it. Classified. Echo-Core eyes only."_
 
-> **Marjuk:** _"As you wish."_
+> **Marjuk:** _"As you wish."_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session_5 "Jump to section")
+### Day Narrative — Operational Shift Log
 
 Day 12. Marjuk's discovery disturbs the Director. A memory fragment from the Before-Time — mentioning the Furnace of Cheonbulok. The Furnace that burns Han. The Furnace that releases rage into the atmosphere. The Furnace that is the source of Outside Sorrow.
 
@@ -386,19 +388,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Cracked Hourglass|Viderehan (observation — witnessing)|Agent Oh|stable|+0.022t|Entity responsive.|
 |The Forgotten Soldier|Ferrehan (endurance — sustained presence)|Agent Hwang|+3%|+0.018t|Agent requested reassignment.|
 
-Afternoon shift: border patrol reports filed from Floor 8. Total energy produced: **+0.077 tons**.
+Afternoon shift: border patrol reports filed from Floor 8. Total energy produced: **+0.077 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.077 tons** (daily quota: 0.056t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.077 tons** (daily quota: 0.056t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 8 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 2 — the Director remembers their names
 - Entities breached: 0
-- Ordeal: **The Voice** — PALE, Second Watch (Void — Pale White) — identity dissolution — personnel forget themselves — suppressed.
+- Ordeal: **The Voice** — PALE, Second Watch (Void — Pale White) — identity dissolution — personnel forget themselves — suppressed.
 - Sorrow Gauge average: 50% (rising)
 - M.A.W. extracted: β-grade
-- Director's assessment: _"The Director records the day and moves on. There is always another."_
+- Director's assessment: _"The Director records the day and moves on. There is always another."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -414,7 +416,7 @@ No new entity detected today. The Han-flow scans returned three blanks — unusu
 
 **[M.A.W. EXTRACTION & FORGING]**
 
-- M.A.W. extracted: **The Bird's Watch** (Suit (Armor), β-grade) from The Cracked Hourglass
+- M.A.W. extracted: **The Bird's Watch** (Suit (Armor), β-grade) from The Cracked Hourglass
 - Extraction performed by: Zyrak (Floor 3, Extraction Hall)
 - Equipped to: Agent Park — quarantined for observation
 - Cost to wielder: chronic fatigue
@@ -429,31 +431,31 @@ Night watch: Agent Kang, Floor 4. Overnight report:
 - Security incidents: none reported.
 - The Director did not sleep. The Director does not sleep.
 
-### Day 17[#](#day_17 "Jump to section")
+### Day 17
 
-### Dialogue[#](#dialogue_6 "Jump to section")
+### Dialogue
 
-> **Ishall:** _"Outsider report. The Exile sent a message."_
+> **Ishall:** _"Outsider report. The Exile sent a message."_
 
-> **Majin:** _"What did it say?"_
+> **Majin:** _"What did it say?"_
 
-> **Ishall:** _"The same as always: 'The Furnace is burning.'"_
+> **Ishall:** _"The same as always: 'The Furnace is burning.'"_
 
-> **Seiyon:** _"The Exile has sent this message 1,778 times."_
+> **Seiyon:** _"The Exile has sent this message 1,778 times."_
 
-> **Ishall:** _"And 1,778 times, no one has answered."_
+> **Ishall:** _"And 1,778 times, no one has answered."_
 
-> **Majin:** _"..."_
+> **Majin:** _"..."_
 
-> **Ishall:** _"Director? Should we answer?"_
+> **Ishall:** _"Director? Should we answer?"_
 
-> **Majin:** _"No. The Exile chose his path. We choose ours."_
+> **Majin:** _"No. The Exile chose his path. We choose ours."_
 
-> **Ishall:** _"And what path is that?"_
+> **Ishall:** _"And what path is that?"_
 
-> **Majin:** _"The one that ends."_
+> **Majin:** _"The one that ends."_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session_6 "Jump to section")
+### Day Narrative — Operational Shift Log
 
 Day 17. The Exile's message arrives — carried by Han-waves, transmitted through the Desolate's sorrow-field, received by Ishall's sensors. The same message. The same words. The same warning.
 
@@ -467,7 +469,7 @@ The Director does the math. The Director has done this math 1,778 times. The num
 
 Ishall watches the Director. The Outsider does not understand the Director's silence. The Outsider does not understand why the Director does not answer the Exile. The Outsider does not understand why the Director carries the weight alone.
 
-The Director does not explain. The Director simply says: _"The one that ends."_
+The Director does not explain. The Director simply says: _"The one that ends."_
 
 **[DEPLOYMENT PHASE — MORNING ASSIGNMENTS]**
 
@@ -489,19 +491,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Collapsed Whisper|Pugnahan (confrontation — direct challenge)|Agent Kim|-6%|+0.019t|Smooth work cycle.|
 |The Debt Eater|Ferrehan (endurance — sustained presence)|Agent Lim|-10%|+0.025t|Agent performed well.|
 
-Afternoon shift: emergency Sorrow Gauge monitoring on at-risk entities. Total energy produced: **+0.115 tons**.
+Afternoon shift: emergency Sorrow Gauge monitoring on at-risk entities. Total energy produced: **+0.115 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.115 tons** (daily quota: 0.041t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.115 tons** (daily quota: 0.041t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 12 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 0
 - Entities breached: 0
-- Ordeal: **The Voice** — PALE, Second Watch (Void — Pale White) — identity dissolution — personnel forget themselves — suppressed.
+- Ordeal: **The Voice** — PALE, Second Watch (Void — Pale White) — identity dissolution — personnel forget themselves — suppressed.
 - Sorrow Gauge average: 44% (rising)
 - M.A.W. extracted: — (no extraction today)
-- Director's assessment: _"The sorrow is managed. The sorrow is always managed."_
+- Director's assessment: _"The sorrow is managed. The sorrow is always managed."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -517,7 +519,7 @@ No new entity detected today. The Han-flow scans returned three blanks — unusu
 
 **[M.A.W. EXTRACTION & FORGING]**
 
-- M.A.W. extracted: **The Tide's Drag** (Weapon, γ-grade) from The Maw
+- M.A.W. extracted: **The Tide's Drag** (Weapon, γ-grade) from The Maw
 - Extraction performed by: Zyrak (Floor 3, Extraction Hall)
 - Equipped to: Agent Yuk — immediate deployment
 - Cost to wielder: recurring nightmares of the source entity

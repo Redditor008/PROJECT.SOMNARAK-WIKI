@@ -13,6 +13,7 @@ This directory (`REFERENCE_SOMNARAK_WIKI/`) contains the out-of-world architectu
 ```
 REFERENCE_SOMNARAK_WIKI/
 ├── README.md                           # This directory index file
+├── ABSOLOVHAN_REPAIR_NOTES.md          # Canon harmonization and repair notes for Absolvohan texts
 ├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 285 unique Sorrow Entities
 ├── SORROW_ENTITIES_PAIRS_AUDIT.md      # Detailed audit and resolution guide for the 241 paired entity files
 ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line transfer audit of the 34 foundational codices

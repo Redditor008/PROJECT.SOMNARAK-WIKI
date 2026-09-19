@@ -1,38 +1,40 @@
-## Batch 3 — Days 53–73[#](#batch_3_days_53_73 "Jump to section")
+# The Absolvohan — Part 4 — Batch 3: Days 53–73
 
-### Day 53[#](#day_53 "Jump to section")
+## Batch 3 — Days 53–73
 
-### Dialogue[#](#dialogue_12 "Jump to section")
+### Day 53
 
-> **Dekan:** _"Containment report. The Maw grew last night."_
+### Dialogue
 
-> **Majin:** _"How much?"_
+> **Dekan:** _"Containment report. The Maw grew last night."_
 
-> **Dekan:** _"2.3 centimeters. The perimeter markers moved."_
+> **Majin:** _"How much?"_
 
-> **Seiyon:** _"The Maw has grown 2.3 centimeters per cycle for 1,778 cycles."_
+> **Dekan:** _"2.3 centimeters. The perimeter markers moved."_
 
-> **Dekan:** _"Director... the Maw asked about the thousand again."_
+> **Seiyon:** _"The Maw has grown 2.3 centimeters per cycle for 1,778 cycles."_
 
-> **Majin:** _"What did it ask?"_
+> **Dekan:** _"Director... the Maw asked about the thousand again."_
 
-> **Dekan:** _"It asked: 'Do they remember us?'"_
+> **Majin:** _"What did it ask?"_
 
-> **Majin:** _"...Tell the Maw: the city mourns them every year. The Consolihan. The Orphaned Bell. The Echo Gardens."_
+> **Dekan:** _"It asked: 'Do they remember us?'"_
 
-> **Dekan:** _"And if the Maw asks: 'Is that enough?'"_
+> **Majin:** _"...Tell the Maw: the city mourns them every year. The Consolihan. The Orphaned Bell. The Echo Gardens."_
 
-> **Majin:** _"...Tell the Maw: it has to be."_
+> **Dekan:** _"And if the Maw asks: 'Is that enough?'"_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session_12 "Jump to section")
+> **Majin:** _"...Tell the Maw: it has to be."_
+
+### Day Narrative — Operational Shift Log
 
 Day 53. The Maw grows. The perimeter markers move. The thousand whisper. The cycle continues.
 
-Dekan's report is routine — but the Maw's question disturbs the Director. _"Do they remember us?"_
+Dekan's report is routine — but the Maw's question disturbs the Director. _"Do they remember us?"_
 
 The Director gives the answer they always give: the city mourns them every year. The Consolihan. The Orphaned Bell. The Echo Gardens. The city remembers.
 
-But the Director knows the truth — the city does not remember _why_. The city mourns a natural disaster. The city does not mourn a choice. The city does not mourn the Council's neglect.
+But the Director knows the truth — the city does not remember _why_. The city mourns a natural disaster. The city does not mourn a choice. The city does not mourn the Council's neglect.
 
 The Director carries the truth. The Director carries the thousand. The Director carries the Maw.
 
@@ -59,19 +61,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Vanished Rope|Ferrehan (endurance — sustained presence)|Agent Jang|-6%|+0.016t|Clean extraction potential.|
 |The Sorrow Tide|Pugnahan (confrontation — direct challenge)|Agent Lim|stable|+0.025t|Stable.|
 
-Afternoon shift: border patrol reports filed from Floor 8. Total energy produced: **+0.105 tons**.
+Afternoon shift: border patrol reports filed from Floor 8. Total energy produced: **+0.105 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.105 tons** (daily quota: 0.049t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.105 tons** (daily quota: 0.049t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 9 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 0
 - Entities breached: 0
-- Ordeal: **The Voice** — PALE, First Watch (Void — Pale White) — identity dissolution — personnel forget themselves — suppressed.
+- Ordeal: **The Voice** — PALE, First Watch (Void — Pale White) — identity dissolution — personnel forget themselves — suppressed.
 - Sorrow Gauge average: 38% (rising)
 - M.A.W. extracted: β-grade
-- Director's assessment: _"The cycle grinds forward. The Absolvohan grows."_
+- Director's assessment: _"The cycle grinds forward. The Absolvohan grows."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -81,7 +83,7 @@ New entity detected in the Han-flow scans overnight. The selection pool offered 
 2. The Guarding Bird — City Sorrow — α-grade
 3. The Guarding Bird — Inner Sorrow — β-grade
 
-The Director selects **The Hollow Choir**. Containment cell: Cell A-12. Initial Sorrow Gauge: 38%. Classification pending full observation.
+The Director selects **The Hollow Choir**. Containment cell: Cell A-12. Initial Sorrow Gauge: 38%. Classification pending full observation.
 
 **[PERSONNEL & TRAINING REPORT]**
 
@@ -106,29 +108,29 @@ Night watch: Agent Han, Floor 3. Overnight report:
 - Security incidents: one containment field flicker on Cell C-08 — auto-corrected.
 - The Director did not sleep. The Director does not sleep.
 
-### Day 55[#](#day_55 "Jump to section")
+### Day 55
 
-### Dialogue[#](#dialogue_13 "Jump to section")
+### Dialogue
 
-> **Ishall:** _"Outsider report. The Exile sent another message."_
+> **Ishall:** _"Outsider report. The Exile sent another message."_
 
-> **Majin:** _"The same?"_
+> **Majin:** _"The same?"_
 
-> **Ishall:** _"No. This one is different. It says: 'The Vaults are leaking.'"_
+> **Ishall:** _"No. This one is different. It says: 'The Vaults are leaking.'"_
 
-> **Seiyon:** _"The Storage Vaults of Mugeukji?"_
+> **Seiyon:** _"The Storage Vaults of Mugeukji?"_
 
-> **Ishall:** _"Presumably. The Exile doesn't explain. He just... warns."_
+> **Ishall:** _"Presumably. The Exile doesn't explain. He just... warns."_
 
-> **Majin:** _"...Noted."_
+> **Majin:** _"...Noted."_
 
-> **Ishall:** _"Director? Should we be concerned?"_
+> **Ishall:** _"Director? Should we be concerned?"_
 
-> **Majin:** _"We should always be concerned. Concerned is our default state."_
+> **Majin:** _"We should always be concerned. Concerned is our default state."_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session_13 "Jump to section")
+### Day Narrative — Operational Shift Log
 
-Day 55. The Exile's new message disturbs the Director. _"The Vaults are leaking."_
+Day 55. The Exile's new message disturbs the Director. _"The Vaults are leaking."_
 
 The Storage Vaults of Mugeukji — 5,800 years of suppressed emotion, contained in underground chambers, waiting to be released. If the Vaults leak, the emotional wave would destroy Mugeukji and everything within 1,000 kilometers.
 
@@ -158,19 +160,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Observing Bird|Pugnahan (confrontation — direct challenge)|Agent Shin|-3%|+0.016t|Entity responsive.|
 |The Silent Child|Flerehan (tears — emotional engagement)|Agent Yoo|-3%|+0.013t|Smooth work cycle.|
 
-Afternoon shift: routine containment maintenance. Total energy produced: **+0.049 tons**.
+Afternoon shift: routine containment maintenance. Total energy produced: **+0.049 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.049 tons** (daily quota: 0.052t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.049 tons** (daily quota: 0.052t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 7 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 0
 - Entities breached: 0
-- Ordeal: **None** — Han-density held below spawn threshold; a rare quiet day
+- Ordeal: **None** — Han-density held below spawn threshold; a rare quiet day
 - Sorrow Gauge average: 37% (falling)
 - M.A.W. extracted: δ-grade (Zyrak reports stable extraction)
-- Director's assessment: _"The sorrow is managed. The sorrow is always managed."_
+- Director's assessment: _"The sorrow is managed. The sorrow is always managed."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -186,7 +188,7 @@ No new entity detected today. The Han-flow scans returned three blanks — unusu
 
 **[M.A.W. EXTRACTION & FORGING]**
 
-- M.A.W. extracted: **The Healer's Salve** (Weapon, γ-grade) from The Silent Child
+- M.A.W. extracted: **The Healer's Salve** (Weapon, γ-grade) from The Silent Child
 - Extraction performed by: Zyrak (Floor 3, Extraction Hall)
 - Equipped to: Agent Sim — quarantined for observation
 - Cost to wielder: chronic fatigue
@@ -201,29 +203,29 @@ Night watch: Agent Kang, Floor 5. Overnight report:
 - Security incidents: none reported.
 - The Director did not sleep. The Director does not sleep.
 
-### Day 60[#](#day_60 "Jump to section")
+### Day 60
 
-### Dialogue[#](#dialogue_14 "Jump to section")
+### Dialogue
 
-> **Zyrak:** _"Extraction report. Entity 045 — The Lost Prince — approached me today."_
+> **Zyrak:** _"Extraction report. Entity 045 — The Lost Prince — approached me today."_
 
-> **Majin:** _"Approached you how?"_
+> **Majin:** _"Approached you how?"_
 
-> **Zyrak:** _"It asked me a question. It asked: 'Where did they go?'"_
+> **Zyrak:** _"It asked me a question. It asked: 'Where did they go?'"_
 
-> **Seiyon:** _"The Prince asks this question of everyone."_
+> **Seiyon:** _"The Prince asks this question of everyone."_
 
-> **Zyrak:** _"I know. But this time... it looked at me differently. Like it knew I was different. Like it knew I was an android."_
+> **Zyrak:** _"I know. But this time... it looked at me differently. Like it knew I was different. Like it knew I was an android."_
 
-> **Majin:** _"What did you say?"_
+> **Majin:** _"What did you say?"_
 
-> **Zyrak:** _"I said: 'I don't know.' The Prince nodded. It said: 'Neither do I.' And it walked away."_
+> **Zyrak:** _"I said: 'I don't know.' The Prince nodded. It said: 'Neither do I.' And it walked away."_
 
-> **Majin:** _"...Noted."_
+> **Majin:** _"...Noted."_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session_14 "Jump to section")
+### Day Narrative — Operational Shift Log
 
-Day 60. The Lost Prince's question disturbs Zyrak. _"Where did they go?"_
+Day 60. The Lost Prince's question disturbs Zyrak. _"Where did they go?"_
 
 The Prince asks this question of everyone — seeking the person who left it, the bond that was broken, the connection that was severed. But this time, the Prince looked at Zyrak differently — as if it recognized something. As if it knew Zyrak was not human.
 
@@ -253,19 +255,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Maw|Viderehan (observation — witnessing)|Agent Yoo|-5%|+0.025t|No complications.|
 |The Sorrow Tide|Ferrehan (endurance — sustained presence)|Agent Lim|-2%|+0.024t|Stable.|
 
-Afternoon shift: border patrol reports filed from Floor 8. Total energy produced: **+0.112 tons**.
+Afternoon shift: border patrol reports filed from Floor 8. Total energy produced: **+0.112 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.112 tons** (daily quota: 0.065t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.112 tons** (daily quota: 0.065t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 3 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 0
 - Entities breached: 0
-- Ordeal: **None** — Han-density held below spawn threshold; a rare quiet day
+- Ordeal: **None** — Han-density held below spawn threshold; a rare quiet day
 - Sorrow Gauge average: 44% (rising)
 - M.A.W. extracted: δ-grade (Zyrak reports stable extraction)
-- Director's assessment: _"No Fractures. No breaches. A small mercy."_
+- Director's assessment: _"No Fractures. No breaches. A small mercy."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -294,31 +296,31 @@ Night watch: Agent Lim, Floor 2. Overnight report:
 - Security incidents: none reported.
 - The Director did not sleep. The Director does not sleep.
 
-### Day 65[#](#day_65 "Jump to section")
+### Day 65
 
-### Dialogue[#](#dialogue_15 "Jump to section")
+### Dialogue
 
-> **Ayshuk:** _"Research report. The Weeping's flow rate has increased."_
+> **Ayshuk:** _"Research report. The Weeping's flow rate has increased."_
 
-> **Majin:** _"By how much?"_
+> **Majin:** _"By how much?"_
 
-> **Ayshuk:** _"0.7% since last cycle. The river is... growing."_
+> **Ayshuk:** _"0.7% since last cycle. The river is... growing."_
 
-> **Seiyon:** _"The Weeping has grown 0.7% per cycle for 1,778 cycles."_
+> **Seiyon:** _"The Weeping has grown 0.7% per cycle for 1,778 cycles."_
 
-> **Ayshuk:** _"Director... if the Weeping continues to grow, it will eventually surface. The entire city would be exposed to raw Han."_
+> **Ayshuk:** _"Director... if the Weeping continues to grow, it will eventually surface. The entire city would be exposed to raw Han."_
 
-> **Majin:** _"How long?"_
+> **Majin:** _"How long?"_
 
-> **Ayshuk:** _"At current rates... 4,000 cycles. Give or take."_
+> **Ayshuk:** _"At current rates... 4,000 cycles. Give or take."_
 
-> **Majin:** _"Then we have time."_
+> **Majin:** _"Then we have time."_
 
-> **Ayshuk:** _"Do we? The Absolvohan needs 100 tons. At current rates, that's 2,600 cycles. The Weeping surfaces in 4,000. We have a window of 1,400 cycles."_
+> **Ayshuk:** _"Do we? The Absolvohan needs 100 tons. At current rates, that's 2,600 cycles. The Weeping surfaces in 4,000. We have a window of 1,400 cycles."_
 
-> **Majin:** _"Then we accelerate."_
+> **Majin:** _"Then we accelerate."_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session_15 "Jump to section")
+### Day Narrative — Operational Shift Log
 
 Day 65. Ayshuk's research disturbs the Director. The Weeping is growing — 0.7% per cycle. At current rates, the river will surface in 4,000 cycles. The Absolvohan needs 2,600 cycles to reach capacity.
 
@@ -351,19 +353,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Vanished Rope|Ferrehan (endurance — sustained presence)|Agent Ahn|-3%|+0.007t|Stable.|
 |The Lonely Giant|Pugnahan (confrontation — direct challenge)|Agent No|-2%|+0.006t|Gauge within parameters.|
 
-Afternoon shift: border patrol reports filed from Floor 8. Total energy produced: **+0.06 tons**.
+Afternoon shift: border patrol reports filed from Floor 8. Total energy produced: **+0.06 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.06 tons** (daily quota: 0.045t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.06 tons** (daily quota: 0.045t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 3 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 2 — the Director remembers their names
 - Entities breached: 0
-- Ordeal: **The Surge** — BLUE, First Watch (Lament — Deep Blue) — wave of sorrow pressure — psychological — suppressed.
+- Ordeal: **The Surge** — BLUE, First Watch (Lament — Deep Blue) — wave of sorrow pressure — psychological — suppressed.
 - Sorrow Gauge average: 37% (falling)
 - M.A.W. extracted: β-grade
-- Director's assessment: _"No Fractures. No breaches. A small mercy."_
+- Director's assessment: _"No Fractures. No breaches. A small mercy."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -373,7 +375,7 @@ New entity detected in the Han-flow scans overnight. The selection pool offered 
 2. The Debt Eater — City Sorrow — α-grade
 3. The Guarding Bird — Outside Sorrow — α-grade
 
-The Director selects **The Guarding Bird**. Containment cell: Cell A-12. Initial Sorrow Gauge: 40%. Classification pending full observation.
+The Director selects **The Guarding Bird**. Containment cell: Cell A-12. Initial Sorrow Gauge: 40%. Classification pending full observation.
 
 **[PERSONNEL & TRAINING REPORT]**
 
@@ -385,7 +387,7 @@ The Director selects **The Guarding Bird**. Containment cell: Cell A-12. Initia
 
 **[M.A.W. EXTRACTION & FORGING]**
 
-- M.A.W. extracted: **The Colossus Plate** (Weapon, β-grade) from The Cracked Hourglass
+- M.A.W. extracted: **The Colossus Plate** (Weapon, β-grade) from The Cracked Hourglass
 - Extraction performed by: Zyrak (Floor 3, Extraction Hall)
 - Equipped to: Agent Shin — quarantined for observation
 - Cost to wielder: recurring nightmares of the source entity
@@ -400,27 +402,27 @@ Night watch: Agent Ahn, Floor 5. Overnight report:
 - Security incidents: one containment field flicker on Cell C-08 — auto-corrected.
 - The Director did not sleep. The Director does not sleep.
 
-### Day 73[#](#day_73 "Jump to section")
+### Day 73
 
-### Dialogue[#](#dialogue_16 "Jump to section")
+### Dialogue
 
-> **Mellda:** _"Border report. A Cheonbulok envoy arrived at the 5 km mark."_
+> **Mellda:** _"Border report. A Cheonbulok envoy arrived at the 5 km mark."_
 
-> **Majin:** _"...What?"_
+> **Majin:** _"...What?"_
 
-> **Mellda:** _"A single citizen. Armed. Desperate. Speaking a language we don't recognize. But the symbols on their armor... they match Cheonbulok's historical records."_
+> **Mellda:** _"A single citizen. Armed. Desperate. Speaking a language we don't recognize. But the symbols on their armor... they match Cheonbulok's historical records."_
 
-> **Seiyon:** _"First contact with Cheonbulok in 1,200 years."_
+> **Seiyon:** _"First contact with Cheonbulok in 1,200 years."_
 
-> **Majin:** _"...What do they want?"_
+> **Majin:** _"...What do they want?"_
 
-> **Mellda:** _"They're begging. They're on their knees. They're saying one word, over and over."_
+> **Mellda:** _"They're begging. They're on their knees. They're saying one word, over and over."_
 
-> **Majin:** _"What word?"_
+> **Majin:** _"What word?"_
 
-> **Mellda:** _"Help."_
+> **Mellda:** _"Help."_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session_16 "Jump to section")
+### Day Narrative — Operational Shift Log
 
 Day 73. The Cheonbulok envoy arrives — a single citizen, armed, desperate, kneeling at the 5 km mark. Speaking a language the Wardens don't recognize. Wearing armor that matches Cheonbulok's historical records.
 
@@ -462,19 +464,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Rising Wall|Pugnahan (confrontation — direct challenge)|Agent Yoo|stable|+0.012t|Gauge within parameters.|
 |The Memory Weaver|Flerehan (tears — emotional engagement)|Agent Oh|-12%|+0.012t|Stable.|
 
-Afternoon shift: research samples collected for Floor 4 analysis. Total energy produced: **+0.089 tons**.
+Afternoon shift: research samples collected for Floor 4 analysis. Total energy produced: **+0.089 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.089 tons** (daily quota: 0.046t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.089 tons** (daily quota: 0.046t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 5 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 2 — the Director remembers their names
 - Entities breached: 0
-- Ordeal: **The Surge** — BLUE, Second Watch (Lament — Deep Blue) — wave of sorrow pressure — psychological — suppressed.
+- Ordeal: **The Surge** — BLUE, Second Watch (Lament — Deep Blue) — wave of sorrow pressure — psychological — suppressed.
 - Sorrow Gauge average: 57% (falling)
 - M.A.W. extracted: δ-grade (Zyrak reports stable extraction)
-- Director's assessment: _"The cycle grinds forward. The Absolvohan grows."_
+- Director's assessment: _"The cycle grinds forward. The Absolvohan grows."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -484,7 +486,7 @@ New entity detected in the Han-flow scans overnight. The selection pool offered 
 2. The Weighting Bird — Inner Sorrow — α-grade
 3. The Kind Healer — Inner Sorrow — δ-grade
 
-The Director selects **The Smothering Mother**. Containment cell: Cell C-03. Initial Sorrow Gauge: 32%. Classification pending full observation.
+The Director selects **The Smothering Mother**. Containment cell: Cell C-03. Initial Sorrow Gauge: 32%. Classification pending full observation.
 
 **[PERSONNEL & TRAINING REPORT]**
 

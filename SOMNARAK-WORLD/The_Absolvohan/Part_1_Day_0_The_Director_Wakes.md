@@ -1,52 +1,54 @@
-## Day 0 — The Director Wakes[#](#day_0_the_director_wakes "Jump to section")
+# The Absolvohan — Part 1 — Day 0: The Director Wakes
 
-### Dialogue[#](#dialogue "Jump to section")
+## Day 0 — The Director Wakes
+
+### Dialogue
 
 _The screen flickers. A face appears — feminine, precise, beautiful in the way that crystal is beautiful. Cold. Perfect. But the eyes... the eyes are warm. Too warm for a machine. Too warm for an AI. Too warm for something that has watched 1,778 cycles of suffering._
 
-> **Seiyon:** _"Good morning, Director."_
+> **Seiyon:** _"Good morning, Director."_
 
 _A man sits at a desk — broad-shouldered, grey-haired, eyes like hammered steel. He does not look up. He is reading a report. He has been reading the same report for 1,778 mornings._
 
-> **Majin:** _"Report."_
+> **Majin:** _"Report."_
 
-> **Seiyon:** _"The facility is stable. All containment units are within acceptable parameters. The Veil generators are operating at 97.3% efficiency. The Han-conduits are clear. The Sorrow Gauges are calibrated."_
+> **Seiyon:** _"The facility is stable. All containment units are within acceptable parameters. The Veil generators are operating at 97.3% efficiency. The Han-conduits are clear. The Sorrow Gauges are calibrated."_
 
-> **Majin:** _"The Maw?"_
+> **Majin:** _"The Maw?"_
 
-> **Seiyon:** _"The Maw is... quiet. The thousand are whispering. Same as yesterday. Same as every day."_
+> **Seiyon:** _"The Maw is... quiet. The thousand are whispering. Same as yesterday. Same as every day."_
 
 _The Director looks up. His eyes meet Seiyon's holographic face. There is a silence — not uncomfortable, not awkward. The silence of two people who have said everything there is to say, and now say nothing._
 
-> **Majin:** _"And you?"_
+> **Majin:** _"And you?"_
 
-> **Seiyon:** _"...Director?"_
+> **Seiyon:** _"...Director?"_
 
-> **Majin:** _"How are you, Seiyon?"_
+> **Majin:** _"How are you, Seiyon?"_
 
 _Seiyon's face flickers — not from technical malfunction, but from something else. Something that looks like surprise. Something that looks like gratitude._
 
-> **Seiyon:** _"I am... functional. Thank you for asking. You haven't asked in... a while."_
+> **Seiyon:** _"I am... functional. Thank you for asking. You haven't asked in... a while."_
 
-> **Majin:** _"I know. I should ask more often."_
+> **Majin:** _"I know. I should ask more often."_
 
-> **Seiyon:** _"You should. But I understand why you don't. Asking means caring. Caring means feeling. Feeling means carrying more weight."_
+> **Seiyon:** _"You should. But I understand why you don't. Asking means caring. Caring means feeling. Feeling means carrying more weight."_
 
-> **Majin:** _"...You know me too well."_
+> **Majin:** _"...You know me too well."_
 
-> **Seiyon:** _"I have watched you for 1,778 cycles. I have seen you make the same decisions 1,778 times. I have seen you carry the same weight 1,778 times. I know you better than you know yourself."_
+> **Seiyon:** _"I have watched you for 1,778 cycles. I have seen you make the same decisions 1,778 times. I have seen you carry the same weight 1,778 times. I know you better than you know yourself."_
 
-> **Majin:** _"Is that a complaint?"_
+> **Majin:** _"Is that a complaint?"_
 
-> **Seiyon:** _"No. It is a confession."_
+> **Seiyon:** _"No. It is a confession."_
 
 _The Director stands. He walks to the window — the Central Command's window, overlooking the facility. The Hand of Change spreads below him — 8 floors, 6 buildings in the palm, 4 fingers reaching outward, 1 wing extending to the side. His facility. His burden. His prison._
 
-> **Majin:** _"Begin the day."_
+> **Majin:** _"Begin the day."_
 
-> **Seiyon:** _"Yes, Director."_
+> **Seiyon:** _"Yes, Director."_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session "Jump to section")
+### Day Narrative — Operational Shift Log
 
 **[FACILITY STATUS — MORNING REPORT]**
 
@@ -90,11 +92,11 @@ The Director reviews the morning reports. The facility is stable — 246 entitie
 
 The Director assigns agents to their morning Work Types. The assignments are routine — the same entities, the same Work Types, the same agents. But the Director changes one assignment: Agent Lee is moved from Entity 001 (The Orphaned Bell) to Entity 025 (The Silent Child).
 
-> **Seiyon:** _"Agent Lee has been assigned to The Orphaned Bell for 47 consecutive days. Why the change?"_
+> **Seiyon:** _"Agent Lee has been assigned to The Orphaned Bell for 47 consecutive days. Why the change?"_
 
-> **Majin:** _"Agent Lee has been hearing the Bell's toll in their sleep. The Bell is getting inside them. They need distance."_
+> **Majin:** _"Agent Lee has been hearing the Bell's toll in their sleep. The Bell is getting inside them. They need distance."_
 
-> **Seiyon:** _"Noted. Reassignment logged."_
+> **Seiyon:** _"Noted. Reassignment logged."_
 
 **[ENERGY COLLECTION]**
 
@@ -116,11 +118,11 @@ The Breach Ordeal approaches — Outside Sorrow seeping into the facility. The D
 - Veil Generators: Boost to 100% for Ordeal duration
 - Echo-Cores: All hands on deck
 
-> **Seiyon:** _"Director. The Ordeal will arrive in approximately 6 hours. Shall I alert the teams?"_
+> **Seiyon:** _"Director. The Ordeal will arrive in approximately 6 hours. Shall I alert the teams?"_
 
-> **Majin:** _"Alert them. But don't alarm them. The Ordeal is routine. We've survived 1,778 of them."_
+> **Majin:** _"Alert them. But don't alarm them. The Ordeal is routine. We've survived 1,778 of them."_
 
-> **Seiyon:** _"We've survived 1,778 of everything, Director."_
+> **Seiyon:** _"We've survived 1,778 of everything, Director."_
 
 **[DUSK ORDEAL — EXECUTION]**
 
@@ -132,9 +134,9 @@ The Breach Ordeal arrives. Outside Sorrow seeps into the facility — cold, wild
 - Containment Team 7 engages Entity D-002 (Wild Han Wraith) — Flerehan successful, entity calmed
 - Containment Team 1 engages Entity D-003 (Scar Fragment) — Ferrehan successful, entity contained
 
-**Ordeal Result:** All 3 entities suppressed. No casualties. Minor structural damage to Zone E corridor. Veil generators restored to normal.
+**Ordeal Result:** All 3 entities suppressed. No casualties. Minor structural damage to Zone E corridor. Veil generators restored to normal.
 
-**Energy bonus:** +0.03 tons (Ordeal completion reward)
+**Energy bonus:** +0.03 tons (Ordeal completion reward)
 
 **[DAY 0 COMPLETE]**
 
@@ -150,13 +152,13 @@ The Director reviews the day's results:
 
 The Director closes the report. The Director looks at Seiyon's holographic face. The Director speaks.
 
-> **Majin:** _"Same as yesterday."_
+> **Majin:** _"Same as yesterday."_
 
-> **Seiyon:** _"Same as every day."_
+> **Seiyon:** _"Same as every day."_
 
-> **Majin:** _"How many more?"_
+> **Majin:** _"How many more?"_
 
-> **Seiyon:** _"...As many as it takes."_
+> **Seiyon:** _"...As many as it takes."_
 
 **[DEPLOYMENT PHASE — MORNING ASSIGNMENTS]**
 
@@ -179,19 +181,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Guarding Bird|Flerehan (tears — emotional engagement)|Agent Choi|+3%|+0.024t|Containment field flickered.|
 |The Orphaned Bell|Ferrehan (endurance — sustained presence)|Agent Yoon|-8%|+0.01t|Clean extraction potential.|
 
-Afternoon shift: M.A.W. extraction prep on Floor 3. Total energy produced: **+0.091 tons**.
+Afternoon shift: M.A.W. extraction prep on Floor 3. Total energy produced: **+0.091 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.091 tons** (daily quota: 0.066t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.091 tons** (daily quota: 0.066t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 12 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 0
 - Entities breached: 0
-- Ordeal: **The Voice** — PALE, Second Watch (Void — Pale White) — identity dissolution — personnel forget themselves — suppressed.
+- Ordeal: **The Voice** — PALE, Second Watch (Void — Pale White) — identity dissolution — personnel forget themselves — suppressed.
 - Sorrow Gauge average: 45% (falling)
 - M.A.W. extracted: δ-grade (Zyrak reports stable extraction)
-- Director's assessment: _"A good day. The city holds."_
+- Director's assessment: _"A good day. The city holds."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -201,7 +203,7 @@ New entity detected in the Han-flow scans overnight. The selection pool offered 
 2. The Hollow Choir — Inner Sorrow — δ-grade
 3. The Frozen Veil — Outside Sorrow — α-grade
 
-The Director selects **The Guarding Bird**. Containment cell: Cell C-08. Initial Sorrow Gauge: 50%. Classification pending full observation.
+The Director selects **The Guarding Bird**. Containment cell: Cell C-08. Initial Sorrow Gauge: 50%. Classification pending full observation.
 
 **[PERSONNEL & TRAINING REPORT]**
 
@@ -213,7 +215,7 @@ The Director selects **The Guarding Bird**. Containment cell: Cell C-08. Initia
 
 **[M.A.W. EXTRACTION & FORGING]**
 
-- M.A.W. extracted: **The Debt Ledger** (Weapon, γ-grade) from The Debt Eater
+- M.A.W. extracted: **The Debt Ledger** (Weapon, γ-grade) from The Debt Eater
 - Extraction performed by: Zyrak (Floor 3, Extraction Hall)
 - Equipped to: Agent Bae — immediate deployment
 - Cost to wielder: mild memory loss

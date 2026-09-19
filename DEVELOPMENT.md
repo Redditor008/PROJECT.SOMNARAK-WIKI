@@ -38,9 +38,10 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 ├── tools/                                  # Non-wiki developer tools
 │   └── audit_lore_archive.py               # Standalone Python auditor (UTF-8, codices, M.A.W., entities)
 │
-├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,850+ files)
+├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,860+ files)
 │   ├── README.md                           # In-world archive guide & recommended reading order
 │   ├── Master_Codices/                     # 31 Macro-Canon Master Codices (Cosmology, Directorate, Systems)
+│   ├── The_Absolvohan/                     # 9 Chronological Narrative Volumes (Day 0–365 & Epilogue)
 │   ├── Sorrow_Entities/                    # 529 files: SE-001 through SE-997 dossiers & tales
 │   ├── Echo_Cores/                         # 9 files: The Nine Echo-Cores of Facility 01
 │   ├── MAW_Codex_Sets/                     # 1,196 files: 42 registry folders with A/B/C/D item sets
@@ -50,6 +51,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 │
 └── REFERENCE_SOMNARAK_WIKI/                # Out-of-World Editorial Standards, Audits & Catalogs
     ├── README.md                           # Overview of the reference standards folder
+    ├── ABSOLOVHAN_REPAIR_NOTES.md          # Canon harmonization and repair notes for Absolvohan texts
     ├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 285 unique Sorrow Entities
     ├── SORROW_ENTITIES_PAIRS_AUDIT.md      # Detailed audit and resolution guide for the 241 paired entity files
     ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line audit of the foundational codices

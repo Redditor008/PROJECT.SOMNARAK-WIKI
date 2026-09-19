@@ -8,7 +8,8 @@ Standard library only. Performs structural, encoding, and integrity audits acros
 2. The Macro-Canon Master Codices in SOMNARAK-WORLD/Master_Codices/ and REFERENCE_SOMNARAK_WIKI/.
 3. Sorrow Entity dossiers in SOMNARAK-WORLD/Sorrow_Entities/.
 4. M.A.W. quadripartite equipment sets (A/B/C/D) in SOMNARAK-WORLD/MAW_Codex_Sets/.
-5. Hope Transformations, Unknown Entities, Ordeals, and Echo-Core dossiers.
+5. The Absolvohan serial narrative volumes in SOMNARAK-WORLD/The_Absolvohan/.
+6. Hope Transformations, Unknown Entities, Ordeals, and Echo-Core dossiers.
 """
 
 import os
@@ -35,7 +36,7 @@ def audit_utf8_files():
         if not os.path.exists(d):
             continue
         for root, _, files in os.walk(d):
-            if ".git" in root:
+            if ".git" in root or "ABSOLOVHAN PART" in root:
                 continue
             for f in files:
                 if f.endswith(".md"):
@@ -169,16 +170,18 @@ def audit_sorrow_entities():
 
 
 def audit_auxiliary_collections():
-    """Audit Ordeals, Hope Transformations, Unknowns, and Echo-Cores in SOMNARAK-WORLD/."""
+    """Audit Ordeals, Hope Transformations, Unknowns, Echo-Cores, and The Absolvohan parts in SOMNARAK-WORLD/."""
     ordeals_dir = os.path.join(WORLD_DIR, "Ordeals")
     hope_dir = os.path.join(WORLD_DIR, "Hope_Transformations")
     unk_dir = os.path.join(WORLD_DIR, "Unknown_Entities")
     chars_dir = os.path.join(WORLD_DIR, "Echo_Cores")
+    abso_dir = os.path.join(WORLD_DIR, "The_Absolvohan")
 
     ordeals = [f for f in os.listdir(ordeals_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(ordeals_dir) else []
     hope = [f for f in os.listdir(hope_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(hope_dir) else []
     unk = [f for f in os.listdir(unk_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(unk_dir) else []
     chars = [f for f in os.listdir(chars_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(chars_dir) else []
+    abso = [f for f in os.listdir(abso_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(abso_dir) else []
 
     return {
         "status": "PASS",
@@ -186,6 +189,7 @@ def audit_auxiliary_collections():
         "hope_transformations_count": len(hope),
         "unknown_entities_count": len(unk),
         "echo_cores_count": len(chars),
+        "absolvohan_parts_count": len(abso),
     }
 
 
@@ -232,6 +236,7 @@ def main():
             print(f"   - {inc['registry']}/{inc['set']}: missing {inc['missing']}{exc}")
 
     print(f"5. Auxiliary Collections  : {aux_res['status']}")
+    print(f"   - The Absolvohan Parts : {aux_res['absolvohan_parts_count']} files (Day 0–365 Chronological Narrative)")
     print(f"   - Ordeals (5 Colors)   : {aux_res['ordeals_count']} files (Expected: 60)")
     print(f"   - Hope Transformations : {aux_res['hope_transformations_count']} files (Expected: 14)")
     print(f"   - Unknown Anomalies    : {aux_res['unknown_entities_count']} files (Expected: 8)")

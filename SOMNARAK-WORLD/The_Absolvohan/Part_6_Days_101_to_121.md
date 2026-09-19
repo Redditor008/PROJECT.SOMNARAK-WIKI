@@ -1,28 +1,30 @@
-## Batch 5 — Days 101–121[#](#batch_5_days_101_121 "Jump to section")
+# The Absolvohan — Part 6 — Batch 5: Days 101–121
 
-### Day 101[#](#day_101 "Jump to section")
+## Batch 5 — Days 101–121
 
-### Dialogue[#](#dialogue_22 "Jump to section")
+### Day 101
 
-> **Dekan:** _"Containment report. The Maw spoke clearly last night."_
+### Dialogue
 
-> **Majin:** _"Clearly?"_
+> **Dekan:** _"Containment report. The Maw spoke clearly last night."_
 
-> **Dekan:** _"Not whispers. Words. The Maw said: 'We are tired. We want to go home.'"_
+> **Majin:** _"Clearly?"_
 
-> **Seiyon:** _"The Maw has never spoken in words before."_
+> **Dekan:** _"Not whispers. Words. The Maw said: 'We are tired. We want to go home.'"_
 
-> **Dekan:** _"Director... what does 'home' mean for the Maw?"_
+> **Seiyon:** _"The Maw has never spoken in words before."_
 
-> **Majin:** _"...I don't know."_
+> **Dekan:** _"Director... what does 'home' mean for the Maw?"_
 
-> **Dekan:** _"You've carried this for 1,778 cycles. You must have wondered."_
+> **Majin:** _"...I don't know."_
 
-> **Majin:** _"I have wondered. I have never found an answer."_
+> **Dekan:** _"You've carried this for 1,778 cycles. You must have wondered."_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session_22 "Jump to section")
+> **Majin:** _"I have wondered. I have never found an answer."_
 
-Day 101. The Maw speaks in words — not whispers, not feelings, but clear, distinct words. _"We are tired. We want to go home."_
+### Day Narrative — Operational Shift Log
+
+Day 101. The Maw speaks in words — not whispers, not feelings, but clear, distinct words. _"We are tired. We want to go home."_
 
 The Director has heard the Maw whisper 1,778 times. The Director has never heard the Maw speak. The thousand — the citizens consumed in the Cheongula — have always communicated through feeling, through sensation, through the weight of their collective sorrow. But today, they speak.
 
@@ -55,19 +57,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Kind Healer|Viderehan (observation — witnessing)|Agent Jung|+2%|+0.01t|Sorrow Gauge rose unexpectedly.|
 |The Orphaned Bell|Flerehan (tears — emotional engagement)|Agent Jang|-12%|+0.011t|Gauge within parameters.|
 
-Afternoon shift: border patrol reports filed from Floor 8. Total energy produced: **+0.084 tons**.
+Afternoon shift: border patrol reports filed from Floor 8. Total energy produced: **+0.084 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.084 tons** (daily quota: 0.042t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.084 tons** (daily quota: 0.042t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 8 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 0
 - Entities breached: 0
-- Ordeal: **The Surge** — BLUE, First Watch (Lament — Deep Blue) — wave of sorrow pressure — psychological — suppressed.
+- Ordeal: **The Surge** — BLUE, First Watch (Lament — Deep Blue) — wave of sorrow pressure — psychological — suppressed.
 - Sorrow Gauge average: 38% (falling)
 - M.A.W. extracted: β-grade
-- Director's assessment: _"One day closer. The math does not change."_
+- Director's assessment: _"One day closer. The math does not change."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -77,7 +79,7 @@ New entity detected in the Han-flow scans overnight. The selection pool offered 
 2. The Guarding Bird — Inner Sorrow — β-grade
 3. The Observing Bird — Inner Sorrow — δ-grade
 
-The Director selects **The Smothering Mother**. Containment cell: Cell C-08. Initial Sorrow Gauge: 48%. Classification pending full observation.
+The Director selects **The Smothering Mother**. Containment cell: Cell C-08. Initial Sorrow Gauge: 48%. Classification pending full observation.
 
 **[PERSONNEL & TRAINING REPORT]**
 
@@ -102,27 +104,27 @@ Night watch: Agent Choi, Floor 7. Overnight report:
 - Security incidents: none reported.
 - The Director did not sleep. The Director does not sleep.
 
-### Day 103[#](#day_103 "Jump to section")
+### Day 103
 
-### Dialogue[#](#dialogue_23 "Jump to section")
+### Dialogue
 
-> **Zyrak:** _"Extraction report. Entity 044 — The Dawn of Mourning — has never formed in this cycle."_
+> **Zyrak:** _"Extraction report. Entity 044 — The Dawn of Mourning — has never formed in this cycle."_
 
-> **Majin:** _"Correct. The Kind Healer's blessing count is at ten."_
+> **Majin:** _"Correct. The Kind Healer's blessing count is at ten."_
 
-> **Zyrak:** _"But Director... I had a vision last night."_
+> **Zyrak:** _"But Director... I had a vision last night."_
 
-> **Majin:** _"A vision?"_
+> **Majin:** _"A vision?"_
 
-> **Zyrak:** _"I saw the Absolvohan. Not as it is — as it could be. Instead of shooting Han into the city... it spread it. Gently. Like rain."_
+> **Zyrak:** _"I saw the Absolvohan. Not as it is — as it could be. Instead of shooting Han into the city... it spread it. Gently. Like rain."_
 
-> **Seiyon:** _"An android having visions. Unusual."_
+> **Seiyon:** _"An android having visions. Unusual."_
 
-> **Zyrak:** _"I know. But the vision felt... real. Like a memory of something that hasn't happened yet."_
+> **Zyrak:** _"I know. But the vision felt... real. Like a memory of something that hasn't happened yet."_
 
-> **Majin:** _"...Noted."_
+> **Majin:** _"...Noted."_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session_23 "Jump to section")
+### Day Narrative — Operational Shift Log
 
 Day 103. Zyrak's vision disturbs the Director. An android having visions — unusual, unprecedented, impossible.
 
@@ -130,7 +132,7 @@ But the vision's content disturbs the Director more. The Absolvohan — designed
 
 The Director has always understood the Absolvohan as a weapon — a device of last resort, a tool of final confession. The Absolvohan shoots Han. The Absolvohan corrupts. The Absolvohan destroys.
 
-But Zyrak's vision suggests another possibility. What if the Absolvohan does not shoot? What if the Absolvohan _spreads_? What if the sorrow — instead of corrupting — transforms?
+But Zyrak's vision suggests another possibility. What if the Absolvohan does not shoot? What if the Absolvohan _spreads_? What if the sorrow — instead of corrupting — transforms?
 
 The Director pushes the thought away. The Absolvohan is a weapon. The Absolvohan is a confession. The Absolvohan is the end.
 
@@ -157,19 +159,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Vanished Rope|Ferrehan (endurance — sustained presence)|Agent Sim|-2%|+0.011t|Agent performed well.|
 |The Guarding Bird|Ferrehan (endurance — sustained presence)|Agent Hwang|+2%|+0.012t|Agent showed signs of Fracture risk.|
 
-Afternoon shift: research samples collected for Floor 4 analysis. Total energy produced: **+0.062 tons**.
+Afternoon shift: research samples collected for Floor 4 analysis. Total energy produced: **+0.062 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.062 tons** (daily quota: 0.049t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.062 tons** (daily quota: 0.049t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 10 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 0
 - Entities breached: 0
-- Ordeal: **The Surge** — BLUE, Second Watch (Lament — Deep Blue) — wave of sorrow pressure — psychological — suppressed.
+- Ordeal: **The Surge** — BLUE, Second Watch (Lament — Deep Blue) — wave of sorrow pressure — psychological — suppressed.
 - Sorrow Gauge average: 42% (falling)
 - M.A.W. extracted: δ-grade (Zyrak reports stable extraction)
-- Director's assessment: _"The facility endures. The Director does not rest."_
+- Director's assessment: _"The facility endures. The Director does not rest."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -179,7 +181,7 @@ New entity detected in the Han-flow scans overnight. The selection pool offered 
 2. The Grieving Colossus — City Sorrow — β-grade
 3. The Frozen Veil — Outside Sorrow — γ-grade
 
-The Director selects **The Smothering Mother**. Containment cell: Cell A-12. Initial Sorrow Gauge: 26%. Classification pending full observation.
+The Director selects **The Smothering Mother**. Containment cell: Cell A-12. Initial Sorrow Gauge: 26%. Classification pending full observation.
 
 **[PERSONNEL & TRAINING REPORT]**
 
@@ -204,31 +206,31 @@ Night watch: Agent Choi, Floor 2. Overnight report:
 - Security incidents: none reported.
 - The Director did not sleep. The Director does not sleep.
 
-### Day 108[#](#day_108 "Jump to section")
+### Day 108
 
-### Dialogue[#](#dialogue_24 "Jump to section")
+### Dialogue
 
-> **Mellda:** _"Border report. The Cheonbulok envoy returned."_
+> **Mellda:** _"Border report. The Cheonbulok envoy returned."_
 
-> **Majin:** _"...What?"_
+> **Majin:** _"...What?"_
 
-> **Mellda:** _"The same citizen. The same armor. But this time... they brought others. A dozen Cheonbulok citizens. Families. Children."_
+> **Mellda:** _"The same citizen. The same armor. But this time... they brought others. A dozen Cheonbulok citizens. Families. Children."_
 
-> **Seiyon:** _"Refugees."_
+> **Seiyon:** _"Refugees."_
 
-> **Mellda:** _"They're kneeling at the 5 km mark. All of them. Waiting."_
+> **Mellda:** _"They're kneeling at the 5 km mark. All of them. Waiting."_
 
-> **Majin:** _"...How many?"_
+> **Majin:** _"...How many?"_
 
-> **Mellda:** _"A dozen now. But the Drift King's scouts report more coming. Hundreds. Maybe thousands."_
+> **Mellda:** _"A dozen now. But the Drift King's scouts report more coming. Hundreds. Maybe thousands."_
 
-> **Majin:** _"The Furnace must be worse than we thought."_
+> **Majin:** _"The Furnace must be worse than we thought."_
 
-> **Mellda:** _"Director? What do we do?"_
+> **Mellda:** _"Director? What do we do?"_
 
-> **Majin:** _"...Open the gates."_
+> **Majin:** _"...Open the gates."_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session_24 "Jump to section")
+### Day Narrative — Operational Shift Log
 
 Day 108. The Cheonbulok envoy returns — not alone, but with others. Families. Children. Refugees. Kneeling at the 5 km mark, waiting for permission to enter.
 
@@ -263,19 +265,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Forgotten Soldier|Flerehan (tears — emotional engagement)|Agent Seo|-5%|+0.007t|Smooth work cycle.|
 |The Cracked Hourglass|Flerehan (tears — emotional engagement)|Agent Yoon|-2%|+0.019t|Clean extraction potential.|
 
-Afternoon shift: emergency Sorrow Gauge monitoring on at-risk entities. Total energy produced: **+0.047 tons**.
+Afternoon shift: emergency Sorrow Gauge monitoring on at-risk entities. Total energy produced: **+0.047 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.047 tons** (daily quota: 0.052t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.047 tons** (daily quota: 0.052t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 12 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 0
 - Entities breached: 0
-- Ordeal: **The Voice** — PALE, Second Watch (Void — Pale White) — identity dissolution — personnel forget themselves — suppressed.
+- Ordeal: **The Voice** — PALE, Second Watch (Void — Pale White) — identity dissolution — personnel forget themselves — suppressed.
 - Sorrow Gauge average: 53% (falling)
 - M.A.W. extracted: β-grade
-- Director's assessment: _"The Director records the day and moves on. There is always another."_
+- Director's assessment: _"The Director records the day and moves on. There is always another."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -285,7 +287,7 @@ New entity detected in the Han-flow scans overnight. The selection pool offered 
 2. The Debt Eater — Inner Sorrow — γ-grade
 3. The Frozen Veil — Inner Sorrow — δ-grade
 
-The Director selects **The Forgotten Soldier**. Containment cell: Cell D-15. Initial Sorrow Gauge: 34%. Classification pending full observation.
+The Director selects **The Forgotten Soldier**. Containment cell: Cell D-15. Initial Sorrow Gauge: 34%. Classification pending full observation.
 
 **[PERSONNEL & TRAINING REPORT]**
 
@@ -297,7 +299,7 @@ The Director selects **The Forgotten Soldier**. Containment cell: Cell D-15. In
 
 **[M.A.W. EXTRACTION & FORGING]**
 
-- M.A.W. extracted: **The Colossus Plate** (Suit (Armor), β-grade) from The Kind Healer
+- M.A.W. extracted: **The Colossus Plate** (Suit (Armor), β-grade) from The Kind Healer
 - Extraction performed by: Zyrak (Floor 3, Extraction Hall)
 - Equipped to: Agent Bae — quarantined for observation
 - Cost to wielder: emotional numbness in left hand
@@ -312,39 +314,39 @@ Night watch: Agent Lim, Floor 5. Overnight report:
 - Security incidents: one containment field flicker on Cell E-09 — auto-corrected.
 - The Director did not sleep. The Director does not sleep.
 
-### Day 113[#](#day_113 "Jump to section")
+### Day 113
 
-### Dialogue[#](#dialogue_25 "Jump to section")
+### Dialogue
 
-> **Ayshuk:** _"Research report. The Kind Healer approached the Cheonbulok refugees today."_
+> **Ayshuk:** _"Research report. The Kind Healer approached the Cheonbulok refugees today."_
 
-> **Majin:** _"...What?"_
+> **Majin:** _"...What?"_
 
-> **Ayshuk:** _"The Healer was in the medical wing — treating minor wounds. The refugees were there too. The Healer... blessed one of them."_
+> **Ayshuk:** _"The Healer was in the medical wing — treating minor wounds. The refugees were there too. The Healer... blessed one of them."_
 
-> **Seiyon:** _"Blessing count: eleven."_
+> **Seiyon:** _"Blessing count: eleven."_
 
-> **Majin:** _"One more and—"_
+> **Majin:** _"One more and—"_
 
-> **Ayshuk:** _"I know. I pulled the Healer away. But Director... the refugee the Healer blessed. They stopped raging."_
+> **Ayshuk:** _"I know. I pulled the Healer away. But Director... the refugee the Healer blessed. They stopped raging."_
 
-> **Majin:** _"Stopped raging?"_
+> **Majin:** _"Stopped raging?"_
 
-> **Ayshuk:** _"The refugees from Cheonbulok — they're addicted to fury. It's all they feel. But after the blessing... the refugee felt something else. Something they hadn't felt in decades."_
+> **Ayshuk:** _"The refugees from Cheonbulok — they're addicted to fury. It's all they feel. But after the blessing... the refugee felt something else. Something they hadn't felt in decades."_
 
-> **Majin:** _"What?"_
+> **Majin:** _"What?"_
 
-> **Ayshuk:** _"Hope."_
+> **Ayshuk:** _"Hope."_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session_25 "Jump to section")
+### Day Narrative — Operational Shift Log
 
 Day 113. The Kind Healer blesses a Cheonbulok refugee — blessing count rises to eleven. One more and the Dawn of Mourning forms.
 
-But the blessing does something unexpected. The refugee — addicted to fury, unable to feel anything but rage — stops raging. The Healer's blessing does not just heal wounds. The Healer's blessing heals _emotions_.
+But the blessing does something unexpected. The refugee — addicted to fury, unable to feel anything but rage — stops raging. The Healer's blessing does not just heal wounds. The Healer's blessing heals _emotions_.
 
-The Director is stunned. The Healer has blessed citizens before — and the result was always the same: temporary relief, followed by the slow approach toward the Transformation Chain. But this time, the blessing did something different. The blessing _transformed_ the rage. Not into sorrow. Not into emptiness. Into _hope_.
+The Director is stunned. The Healer has blessed citizens before — and the result was always the same: temporary relief, followed by the slow approach toward the Transformation Chain. But this time, the blessing did something different. The blessing _transformed_ the rage. Not into sorrow. Not into emptiness. Into _hope_.
 
-The Director wonders — not for the first time — if the Kind Healer is what they think it is. If the Healer is not a threat, but a gift. If the Transformation Chain is not a catastrophe, but a _possibility_.
+The Director wonders — not for the first time — if the Kind Healer is what they think it is. If the Healer is not a threat, but a gift. If the Transformation Chain is not a catastrophe, but a _possibility_.
 
 The Director pushes the thought away. The Healer must not bless twelve. The Dawn of Mourning must not form.
 
@@ -371,19 +373,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Collapsed Whisper|Ferrehan (endurance — sustained presence)|Agent Seo|-12%|+0.018t|Gauge within parameters.|
 |The Grieving Colossus|Flerehan (tears — emotional engagement)|Agent Hwang|-6%|+0.015t|Stable.|
 
-Afternoon shift: emergency Sorrow Gauge monitoring on at-risk entities. Total energy produced: **+0.078 tons**.
+Afternoon shift: emergency Sorrow Gauge monitoring on at-risk entities. Total energy produced: **+0.078 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.078 tons** (daily quota: 0.065t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.078 tons** (daily quota: 0.065t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 10 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 0
 - Entities breached: 0
-- Ordeal: **The Stampede** — BLACK, Third Watch (Weight — Black) — entities destabilising en masse — suppressed.
+- Ordeal: **The Stampede** — BLACK, Third Watch (Weight — Black) — entities destabilising en masse — suppressed.
 - Sorrow Gauge average: 61% (rising)
 - M.A.W. extracted: δ-grade (Zyrak reports stable extraction)
-- Director's assessment: _"Stable. For now. The Director knows "for now" is all there is."_
+- Director's assessment: _"Stable. For now. The Director knows "for now" is all there is."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -393,7 +395,7 @@ New entity detected in the Han-flow scans overnight. The selection pool offered 
 2. The Debt Eater — City Sorrow — γ-grade
 3. The Orphaned Bell — Outside Sorrow — β-grade
 
-The Director selects **The Weighting Bird**. Containment cell: Cell B-07. Initial Sorrow Gauge: 46%. Classification pending full observation.
+The Director selects **The Weighting Bird**. Containment cell: Cell B-07. Initial Sorrow Gauge: 46%. Classification pending full observation.
 
 **[PERSONNEL & TRAINING REPORT]**
 
@@ -418,29 +420,29 @@ Night watch: Agent Sim, Floor 6. Overnight report:
 - Security incidents: none reported.
 - The Director did not sleep. The Director does not sleep.
 
-### Day 121[#](#day_121 "Jump to section")
+### Day 121
 
-### Dialogue[#](#dialogue_26 "Jump to section")
+### Dialogue
 
-> **Marjuk:** _"Archive report. The Founder's journal — I read the last entry."_
+> **Marjuk:** _"Archive report. The Founder's journal — I read the last entry."_
 
-> **Majin:** _"...And?"_
+> **Majin:** _"...And?"_
 
-> **Marjuk:** _"It says: 'We built the city on sorrow. But sorrow is not the end. Sorrow is the beginning. The city will weep — for centuries, for millennia. But one day, the weeping will stop. And when it stops, the city will find something it never expected.'"_
+> **Marjuk:** _"It says: 'We built the city on sorrow. But sorrow is not the end. Sorrow is the beginning. The city will weep — for centuries, for millennia. But one day, the weeping will stop. And when it stops, the city will find something it never expected.'"_
 
-> **Seiyon:** _"What?"_
+> **Seiyon:** _"What?"_
 
-> **Marjuk:** _"The entry ends there. The Founder didn't say what."_
+> **Marjuk:** _"The entry ends there. The Founder didn't say what."_
 
-> **Majin:** _"...Archive it."_
+> **Majin:** _"...Archive it."_
 
-> **Marjuk:** _"Director... don't you want to know?"_
+> **Marjuk:** _"Director... don't you want to know?"_
 
-> **Majin:** _"I have carried this weight for 1,778 cycles. I have wondered what the Founder meant. I have never found an answer. But I have never stopped looking."_
+> **Majin:** _"I have carried this weight for 1,778 cycles. I have wondered what the Founder meant. I have never found an answer. But I have never stopped looking."_
 
-### Day Narrative — "Game Management Session"[#](#day_narrative_game_management_session_26 "Jump to section")
+### Day Narrative — Operational Shift Log
 
-Day 121. The Founder's journal — the last entry. _"Sorrow is not the end. Sorrow is the beginning. The city will weep — for centuries, for millennia. But one day, the weeping will stop. And when it stops, the city will find something it never expected."_
+Day 121. The Founder's journal — the last entry. _"Sorrow is not the end. Sorrow is the beginning. The city will weep — for centuries, for millennia. But one day, the weeping will stop. And when it stops, the city will find something it never expected."_
 
 The Director has read this entry 1,778 times. The Director has never understood it. The Director has never stopped trying.
 
@@ -470,19 +472,19 @@ Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumu
 |The Rising Wall|Ferrehan (endurance — sustained presence)|Agent Lim|-3%|+0.02t|Gauge within parameters.|
 |The Debt Eater|Ferrehan (endurance — sustained presence)|Agent Oh|-6%|+0.011t|No complications.|
 
-Afternoon shift: border patrol reports filed from Floor 8. Total energy produced: **+0.066 tons**.
+Afternoon shift: border patrol reports filed from Floor 8. Total energy produced: **+0.066 tons**.
 
 **[END OF DAY — PERFORMANCE REVIEW]**
 
-- Han-Energy produced: **+0.066 tons** (daily quota: 0.056t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
+- Han-Energy produced: **+0.066 tons** (daily quota: 0.056t — **MET**)
+- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
 - Agents levelled up: 10 (stats increased across Resilience, Clarity, Composure, Resolve)
 - Agents Fractured: 0
 - Entities breached: 0
-- Ordeal: **The Voice** — PALE, Second Watch (Void — Pale White) — identity dissolution — personnel forget themselves — suppressed.
+- Ordeal: **The Voice** — PALE, Second Watch (Void — Pale White) — identity dissolution — personnel forget themselves — suppressed.
 - Sorrow Gauge average: 60% (rising)
 - M.A.W. extracted: — (no extraction today)
-- Director's assessment: _"Stable. For now. The Director knows "for now" is all there is."_
+- Director's assessment: _"Stable. For now. The Director knows "for now" is all there is."_
 
 **[ENTITY SELECTION & CONTAINMENT]**
 
@@ -492,7 +494,7 @@ New entity detected in the Han-flow scans overnight. The selection pool offered 
 2. The Maw — Inner Sorrow — α-grade
 3. The Orphaned Bell — Inner Sorrow — β-grade
 
-The Director selects **The Debt Eater**. Containment cell: Cell B-14. Initial Sorrow Gauge: 48%. Classification pending full observation.
+The Director selects **The Debt Eater**. Containment cell: Cell B-14. Initial Sorrow Gauge: 48%. Classification pending full observation.
 
 **[PERSONNEL & TRAINING REPORT]**
 
@@ -504,7 +506,7 @@ The Director selects **The Debt Eater**. Containment cell: Cell B-14. Initial S
 
 **[M.A.W. EXTRACTION & FORGING]**
 
-- M.A.W. extracted: **The Maw's Hunger** (Gift (Accessory), γ-grade) from The Cracked Hourglass
+- M.A.W. extracted: **The Maw's Hunger** (Gift (Accessory), γ-grade) from The Cracked Hourglass
 - Extraction performed by: Zyrak (Floor 3, Extraction Hall)
 - Equipped to: Agent Park — pending attunement
 - Cost to wielder: emotional numbness in left hand

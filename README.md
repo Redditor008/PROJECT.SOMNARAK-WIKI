@@ -19,9 +19,10 @@ The repository is cleanly divided into two master trees:
 
 ## Archive Metrics at a Glance
 
-- **1,880 total markdown files** across `SOMNARAK-WORLD` and `REFERENCE_SOMNARAK_WIKI`
-- **Over 3.46 million words** of structured, canonical lore
+- **1,891 total markdown files** across `SOMNARAK-WORLD` and `REFERENCE_SOMNARAK_WIKI`
+- **Over 3.7 million words** of structured, canonical lore
 - **31 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) establishing the entire cosmology, geopolitical landscape, and physical laws of Somnarak
+- **9 Absolvohan Narrative Volumes** (`SOMNARAK-WORLD/The_Absolvohan/`), chronicling the full Day 0 through Day 365+ journey of Director Majin and Secretary Seiyon across the 1,778th and final Cycle
 - **529 Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), representing 285 unique canonical entities across threat levels ZAYIN through ALEPH
 - **291 M.A.W. Equipment Sets** (`SOMNARAK-WORLD/MAW_Codex_Sets/`, 1,196 files across 42 registry groups), cataloging Weapons, Suits, and Gifts
 - **60 Five-Color Ordeal Files** (`SOMNARAK-WORLD/Ordeals/`), documenting First, Second, Third, and Tide watches
@@ -45,9 +46,10 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 ├── tools/                                  # Non-wiki developer tools
 │   └── audit_lore_archive.py               # Standalone Python audit tool (UTF-8, codices, M.A.W., entities)
 │
-├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,850+ files)
+├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,860+ files)
 │   ├── README.md                           # In-world archive guide & recommended reading order
 │   ├── Master_Codices/                     # 31 Macro-Canon Master Codices: Cosmology, Factions, Systems
+│   ├── The_Absolvohan/                     # 9 Chronological Narrative Volumes (Day 0–365 & Epilogue)
 │   ├── Sorrow_Entities/                    # 529 Entity files: Dossiers, tales, and containment data
 │   ├── Echo_Cores/                         # 9 Echo-Core files: Facility 01 departmental leaders
 │   ├── MAW_Codex_Sets/                     # 1,196 files across 42 registry folders (A/B/C/D quadripartite sets)
@@ -57,6 +59,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │
 └── REFERENCE_SOMNARAK_WIKI/                # Out-of-World Editorial Standards, Audits & Catalogs
     ├── README.md                           # Overview of the reference standards folder
+    ├── ABSOLOVHAN_REPAIR_NOTES.md          # Canon harmonization and repair notes for Absolvohan texts
     ├── SORROW_ENTITIES_CATALOG.md          # Complete indexed catalog of all 285 unique Sorrow Entities
     ├── SORROW_ENTITIES_PAIRS_AUDIT.md      # Detailed audit and resolution guide for the 241 paired entity files
     ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line audit of the 34 foundational codices
