@@ -22,7 +22,9 @@
 
 ### Appearance
 
-The Travertine Blind-Stiletto is a slim blade of milky Han crystal shaped like a drawn tear, its edge thickening toward the base and narrowing to a point. The crystal is soft-looking and cloudy, with a faint blue glow along the curve whenever the bearer honestly acknowledges their grief. The grip is short and wrapped in dark blue cord, and a small teardrop guard wraps down toward the blade. In ordinary light the weapon looks almost unremarkable; when it concentrates a true sorrow, the glow runs from the guard to the tip in a single line. It cuts through emotional hardening, grief-suppression fields, and false composure, but cannot draw power from performative sorrow. A bearer who borrows another person's grief receives the Lament pressure instead. After a full strike the tears become physically heavy and leave small crystal drops wherever they fall. The blade is carried wrapped in pale cloth after each use, and the crystal drops it leaves behind are collected rather than swept away.
+Appearance : A 62cm precision stiletto sculpted entirely from ash-grey porous travertine stone without metal components. The blade features a triangular cross-section ground to a needle point, with weeping eye glyphs etched into each facet.
+
+A two-meter mourning ribbon of midnight-black silk binds around the stone ricasso and wielder’s wrist before trailing freely, weighted by two obsidian teardrops. Pressurized sorrow tears weep constantly from the stone pores, channeling down the concave facets toward the tip.
 
 ### Ability— Crying Edge
 

@@ -183,8 +183,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Falloff Rule:** 100% direct kinetic impact; 70% thermal ground wave to adjacent enemies.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Appearance (SVG-Ready Specification):**
-A 120cm brutal war-implement featuring a square-profile bar of forged black iron bound with twin copper heat-dissipation coils. Mounted at the head is the life-sized severed right forearm and clenched fist of an ancient neoclassical statue sculpted from stark white Carrara marble. The stone fingers are locked in a white-knuckled spasm of furious clenching around the fractured stump of an iron sculptor's chisel. Deep crimson, glowing stress fissures spiderweb across the stone wrist, knuckles, and palm, pulsing with internal incandescent red Grudge fire (800°C) that makes the marble semi-translucent along the cracks. When swung, the air around the marble fist ripples with intense thermal haze and emits a low furnace drone.
+Appearance : A 120cm brutal brand featuring a forged black iron shaft wrapped in twin copper heat coils. The striking head is formed from the severed marble forearm and clenched fist of an ancient neoclassical statue.
+
+The clenched stone fingers clasp the broken stump of an iron sculptor’s chisel, while deep crimson thermal fissures spiderweb across the knuckles and palm. Incandescent red Grudge heat pulses from within the stone, creating a shimmering thermal distortion wave whenever swung.
 
 **Special Move Set:**
 - *Primary Kinematics — "Petrified Wrath":* Heavy diagonal bludgeoning strike; upon impact, the molten marble knuckles discharge an explosive blast of Grudge heat that incinerates armor plating and leaves blistered scorch wounds.
@@ -196,8 +197,9 @@ A 120cm brutal war-implement featuring a square-profile bar of forged black iron
 **Category:** Protective Attire (Thick Bison Leather Apron & Slag-Infused Iron Breastplate)
 **Grade:** γ | **Element:** Grudge
 
-**Appearance (SVG-Ready Specification):**
-A heavy split-leg stonemason's work apron of vulcanized black bison leather, fitted over an arched iron breastplate embedded with hardened red slag and crushed marble shards. The left shoulder is protected by a solid iron pauldron styled after a sculptor's anvil, blackened with soot and scratched by hammer strikes.
+Appearance : A heavy split-leg stonemason’s apron of vulcanized black bison leather fitted over a slag-encrusted iron cuirass. Its left shoulder is guarded by a thick anvil-shaped pauldron bolted with forged square rivets.
+
+The breastplate is embedded with jagged chips of white marble and cooled red slag that absorb kinetic impacts. Internal heat channels radiate warmth across the torso, converting absorbed physical trauma into explosive forward momentum for the wearer.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -216,8 +218,9 @@ A heavy split-leg stonemason's work apron of vulcanized black bison leather, fit
 **Category:** Stigma (Hand / Knuckle Calcification)
 **Grade:** γ | **Element:** Grudge
 
-**Appearance (SVG-Ready Specification):**
-The skin and bone across the wielder's striking knuckles calcify into jagged, white marble-like stone nodules. Thin, glowing reddish capillaries spiderweb between the stone knuckles, pulsing with dim orange ember light whenever adrenaline rises.
+Appearance : A cluster of calcified white marble nodules fused directly over the knuckles of the wielder’s primary striking hand. The skin along the finger joints appears chiseled and petrified like weathered stone.
+
+Thin crimson capillaries glow between the stone plates, pulsing in sync with the bearer’s heartbeat. When the fist is clenched, faint embers flare beneath the calcified knuckles, adding searing Grudge heat to every physical impact.
 
 **Slot:** Hand / Knuckles
 **Acquisition Probability:** 4%

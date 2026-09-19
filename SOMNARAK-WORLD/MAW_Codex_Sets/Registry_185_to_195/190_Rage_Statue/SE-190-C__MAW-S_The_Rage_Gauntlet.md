@@ -18,7 +18,9 @@ The Gauntlet formed from a cooled fissure after the raised fist was witnessed wi
 
 ## Appearance
 
-The Sculptor's Flame-Hardened Apron & Cuirass is a heavy crimson gauntlet formed from a cooled fissure — stone-dark metal over the knuckles, with hairline crack patterns that pulse faintly warm when an old grievance passes through the wearer’s mind. It came into being when the Statue’s raised fist was witnessed without being forced down, and the armor keeps that discipline in its fit: the fingers close easily around present harm and stiffen around remembered harm. Worn in the field it adds accumulated resentment to a defensive strike, but only while the assigned response witness can name the actual present harm being answered. The cost is written into the hand — the wearer cannot easily distinguish justice from retaliation while the plates are warm. Fist plates pulse at old grievances, and a gauntlet that clenches by itself is withdrawn from issue immediately. It is maintained by naming the present harm, the remedy, and the stop point before each wearing, and it rejects any bearer who calls every anger righteous. The witness opens the palm seam for shutdown; cutting the gauntlet free releases a Grudge punch through the wearer’s own arm.
+Appearance : A heavy split-leg stonemason’s apron of vulcanized black bison leather fitted over a slag-encrusted iron cuirass. Its left shoulder is guarded by a thick anvil-shaped pauldron bolted with forged square rivets.
+
+The breastplate is embedded with jagged chips of white marble and cooled red slag that absorb kinetic impacts. Internal heat channels radiate warmth across the torso, converting absorbed physical trauma into explosive forward momentum for the wearer.
 
 ## PROTECTION STATISTICS
 

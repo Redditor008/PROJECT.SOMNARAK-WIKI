@@ -186,8 +186,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-**Appearance (SVG-Ready Specification):**
-A 62cm precision thrusting stiletto carved entirely from a single rod of porous ash-grey travertine stone, containing no metallic parts. The blade is 44cm long with a strictly triangular cross-section (three concave faces grinding to a needle-sharp apex), with each face etched with a line of weeping eye pictograms. In place of a conventional crossguard, a 2-meter long, 5cm wide funeral ribbon of midnight-black mourning silk wraps tightly around the ricasso, binding several turns across the wielder's hand and wrist before trailing freely; the ribbon terminal is weighted with two faceted obsidian teardrop beads. Crystalline blue tears seep continuously from the travertine's natural stone pores, channeling down the concave fullers to the tip.
+Appearance : A 62cm precision stiletto sculpted entirely from ash-grey porous travertine stone without metal components. The blade features a triangular cross-section ground to a needle point, with weeping eye glyphs etched into each facet.
+
+A two-meter mourning ribbon of midnight-black silk binds around the stone ricasso and wielder’s wrist before trailing freely, weighted by two obsidian teardrops. Pressurized sorrow tears weep constantly from the stone pores, channeling down the concave facets toward the tip.
 
 **Special Move Set:**
 - *Primary Kinematics — "Grief Puncture":* High-frequency linear thrusts targeting sensory gaps or joints; the triangular stone blade punches clean puncture channels that immediately weep concentrated Lament fluid into the wound.
@@ -199,8 +200,9 @@ A 62cm precision thrusting stiletto carved entirely from a single rod of porous 
 **Category:** Protective Attire (Mourning Silk Peplos & Travertine Pauldrons)
 **Grade:** β | **Element:** Lament
 
-**Appearance (SVG-Ready Specification):**
-A classically draped, sleeveless peplos gown of deep mourning violet silk, pleated vertically and fastened at both clavicles by curved travertine stone fibulae pins. Trailing behind the shoulders is a translucent black grieving veil bordered with tear-shaped silver thread embroidery that wafts with cold Lament vapor.
+Appearance : A pleated sleeveless peplos gown of deep mourning violet silk fastened at both clavicles by curved travertine stone fibulae pins. It is paired with a matching translucent black mourning veil that drapes over the face.
+
+The sheer veil is embroidered with fine silver weeping tear motifs that diffuse incoming light and conceal the wearer’s gaze. Travertine shoulder plates ground the silk drapery, dispersing emotional pressure and deflecting glancing ranged strikes with ease.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -219,8 +221,9 @@ A classically draped, sleeveless peplos gown of deep mourning violet silk, pleat
 **Category:** Stigma (Ear / Ocular Tear Drop)
 **Grade:** β | **Element:** Lament
 
-**Appearance (SVG-Ready Specification):**
-A faceted teardrop of mirror-polished black obsidian suspended from the left earlobe by a silver barb. The drop permanently sweats a faint, icy condensation trail that traces a line down the wearer's jawline.
+Appearance : A faceted teardrop of polished black obsidian suspended from the left earlobe by a sharp silver hook. It hangs beside the jawline, reflecting ambient shadows in distorted charcoal curves.
+
+The cold obsidian stone absorbs excess light and psychic vibration, maintaining a thin sheen of frosty moisture that chills the temple. It shields the wielder against blinding illumination and emotional shock by grounding sensory overloads.
 
 **Slot:** Head / Ear
 **Acquisition Probability:** 5%

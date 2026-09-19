@@ -18,19 +18,9 @@ Iseulfros wore it through a frozen-shard impact. The Pane absorbed force and slo
 
 ## Appearance
 
-The Shuttered Window-Plate is a black pane-harness of Han steel containing moving farewell scenes — departures crossing the armor’s face like figures passing behind glass. It condenses after the circuit settles, and it binds through an accompaniment partner and a current endpoint. Under attack it absorbs one impact and briefly slows its source while displaying the departure attached to the pressure — in its recorded case taking a frozen-shard impact, slowing the attacker, then replaying every departure associated with the route until the wearer named the present Commons aloud. The cost is empathic: the wearer feels every departure reflected in the shield. Scenes replacing current sight is the first failure; absorbed force mistaken for proof of return is the second; and Void erasing the endpoint is the third — a shield full of farewells with nowhere for them to have ended. It is maintained thawed beside the completed route while the partner names past departure and current location separately, two entries that must never merge. The accompaniment partner stays within voice range for the whole deployment; the Pane is worn on a walked route, never at a window.
+Appearance : A fitted cuirass of overlapping dark oak window louvers bolted onto a blackened iron lattice frame and lined with sheared wool. A thick frost-coated glass pane is set flush over the chest plate.
 
-| Lament | Grudge | Void | Weight | Maximum / Cost |
-|---:|---:|---:|---:|---:|
-| 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Endured | 4 / 20 Echoes |
-
-**Reflected Impact:** Absorbs one impact and briefly slows its source while displaying the departure attached to the pressure.
-
-**Cost:** The wearer feels every departure reflected in the shield.
-
-**Failures:** scenes replace current sight; absorbed force is mistaken for proof of return; Void erases the endpoint.
-
-**Maintenance:** Thaw beside the completed route while partner names past departure and current location separately.
+Intricate frost fern patterns shift across the central glass pane in response to incoming impacts, absorbing kinetic energy and venting sub-zero sorrow air. The louvered plates deflect direct physical strikes while insulating the bearer against sudden temperature drops.
 
 ---
 

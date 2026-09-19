@@ -18,7 +18,9 @@ The Charm is bestowed when a worker acknowledges an injustice behind the Statue�
 
 ## Appearance
 
-The Chiseled Knuckle Stigma is a small crimson tail-charm cut like a clenched fist that has not yet fallen, its surface crossed with the Statue’s fissure grain. It is bestowed only when a worker acknowledges the injustice behind the Statue’s pose without treating the Statue as permission to strike, and it binds to a response witness from the first day of carry. At rest it is warm as held breath; in use it marks one held anger that needs a present accountability route — an unaddressed record, an unopened review — and points at the route, not at the nearest person. The bearer pays in temper: carrying the Charm shortens it, and the sharpness does not ease until the marked review is entered into the action log. It burns outright near revenge fantasies, and a Charm that points at every person in the room means the bearer arrived already furious and must set it down. It is maintained with a current remedy and a stop point recorded beside each marking. The witness covers it after action; breaking it sends a Grudge flare through the closest grievance.
+Appearance : A cluster of calcified white marble nodules fused directly over the knuckles of the wielder’s primary striking hand. The skin along the finger joints appears chiseled and petrified like weathered stone.
+
+Thin crimson capillaries glow between the stone plates, pulsing in sync with the bearer’s heartbeat. When the fist is clenched, faint embers flare beneath the calcified knuckles, adding searing Grudge heat to every physical impact.
 
 ## GIFT STATISTICS
 

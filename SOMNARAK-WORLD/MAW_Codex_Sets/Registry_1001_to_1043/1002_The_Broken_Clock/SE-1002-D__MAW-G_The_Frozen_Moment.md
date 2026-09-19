@@ -19,6 +19,12 @@
 **Canonical ability:** Slows the wearer's perception of time.  
 **Binding rule:** the bearer names The Broken Clock's event—The loop made citizens experience events again and again without resolution. Their temporal exhaustion crystallized into the clock.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+Appearance : A thumb-sized brass gear wheel embedded flush into the cranial bone behind the right ear. It rests beneath the hairline, visible as a polished metallic crescent ringed by faint stress fractures.
+
+The wheel’s sixteen micro-teeth are coated in delicate rime frost and turn exactly one notch every sixty seconds, conducting an audible ticking vibration directly through the skull. Cold condensation trickles downward, chilling the bearer’s jawline during prolonged combat engagements.
+
 ## CORE STATISTICS
 
 **Slot / Chance:** Head / 4%  

@@ -190,8 +190,9 @@ The escalation pattern is specific to Sorrow Fountain: it is not a generic breac
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Appearance (SVG-Ready Specification):**
-A 115cm ceremonial wand-mace sculpted from fluted white Carrara marble, hollowed through its center to serve as an internal pressurized grief conduit. The striking terminal features a 24cm spherical cistern head carved into four weeping cherubic relief faces whose open, downturned mouths act as directional fluid spray jets, ringed above by 12 precision-drilled weeping apertures. The fluted stone shaft is wrapped along the lower half in water-resistant indigo suede, terminating in a flared bronze basin-valve turncock at the pommel. Luminescent cerulean Lament fluid constantly weeps from the cherub mouth vents, condensing into cold blue vapor that trails in low misty ribbons.
+Appearance : A 115cm ceremonial wand-mace sculpted from fluted white Carrara marble with a hollow core for pressurized fluid delivery. Its grip is wrapped in water-resistant indigo suede, terminating in a flared bronze drainage turncock at the base.
+
+The striking head consists of a 24cm spherical marble cistern carved into four weeping cherubic faces with open mouth vents and twelve drilled spray apertures. Luminescent cerulean Lament fluid seeps constantly from the eyes and mouths, condensing into cold blue vapor that trails during swings.
 
 **Special Move Set:**
 - *Primary Kinematics — "Lachrymose Arc":* Horizontal sweeping stroke; centrifugal force flings an arc of pressurized weeping sorrow-water across Range 3, inflicting Lament splash damage while the dense stone head bludgeons nearby targets.
@@ -203,8 +204,9 @@ A 115cm ceremonial wand-mace sculpted from fluted white Carrara marble, hollowed
 **Category:** Protective Attire (Waterlogged Fluted Chiton & Stone-Trimmed Mantle)
 **Grade:** γ | **Element:** Lament
 
-**Appearance (SVG-Ready Specification):**
-An ankle-length pleated chiton woven from waterproofed bleached linen, worn underneath a cowl-hooded charcoal wool mantle. The mantle shoulders are anchored by twin sculpted marble gorget plates shaped like fountain basins, weeping thin trickles of glowing cerulean fluid down the fabric folds into an perpetually damp, weighted hemline.
+Appearance : An ankle-length pleated chiton of waterproofed white linen worn beneath a cowl-hooded charcoal wool mantle. Twin sculpted marble fountain-basin gorget plates clasp the shoulders, anchoring the flowing fabric during rapid motion.
+
+Carved stone drainage channels trace across the shoulder plates, continually venting a thin trickle of glowing blue sorrow water down the pleated folds. The damp linen fabric absorbs shockwaves by dispersing kinetic force into weeping liquid runoff.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -223,8 +225,9 @@ An ankle-length pleated chiton woven from waterproofed bleached linen, worn unde
 **Category:** Stigma (Chest Stone Fastener)
 **Grade:** γ | **Element:** Lament
 
-**Appearance (SVG-Ready Specification):**
-A 6cm brooch carved from pale grey fountain stone depicting a miniature horned gargoyle face, fastened to the collarbone with an iron pin. A single droplet of luminescent blue sorrow water continuously beads at the gargoyle's lower lip, crystallizing into a glass-like bead every 10 seconds.
+Appearance : A six-centimeter brooch carved from pale grey fountain stone depicting a horned gargoyle face with downturned lips. An iron safety pin is anchored directly into the rear stone backing.
+
+A droplet of glowing blue sorrow water continuously beads at the lower lip of the gargoyle, solidifying into a brittle glass bead every ten seconds before dissolving into cool mist that calms the bearer’s heart.
 
 **Slot:** Chest / Brooch
 **Acquisition Probability:** 4%

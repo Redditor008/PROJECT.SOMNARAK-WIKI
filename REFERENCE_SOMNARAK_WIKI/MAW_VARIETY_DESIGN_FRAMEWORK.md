@@ -203,3 +203,23 @@ Every M.A.W. equipment description must feature:
 2. **Substance & Metallurgy:** Han-crystal, ossified bone, tarnished brass, cold glass, braided mourning hair, black steel.
 3. **Dynamic Sorrow Phenomena:** Drifting names, seeping vapor, soundless hum, shifting sand, wrong shadows, rhythmic pulses.
 4. **Resonance with Sorrow:** How the armament or attire responds when confronting grief, guilt, or fallen comrades.
+
+### 7.1 Dual-Paragraph Appearance Standard (Canonical Rule)
+
+Every M.A.W. equipment piece (Weapon, Suit, Gift) must present its visual appearance in **two distinct paragraphs separated by a blank line**, never merged into a single monolithic block:
+
+```text
+Appearance : <Normal / Simple Appearance Paragraph>
+
+<Detailed Appearance Paragraph>
+```
+
+- **Paragraph 1 — Normal / Simple Appearance (20 to 48 words max):**
+  - Begins directly with `Appearance : `
+  - Provides a concise, unambiguous visual summary stating primary silhouette, core materials, physical dimensions, and immediate functional profile.
+  - Constraint: Strictly between **20 words min and 48 words max**. Clean and vivid without being complicated.
+
+- **Paragraph 2 — Detailed Appearance (20 to 66 words max):**
+  - Follows on the next line after an empty paragraph break without a heading or prefix.
+  - Details specific mechanical components, moving gears/vents/seams, engravings, sorrow vapor/light emissions, textural contrasts, and atmospheric phenomena.
+  - Constraint: Strictly between **20 words min and 66 words max**. Detailed and concrete for vector/SVG rendering, yet free of convoluted jargon.

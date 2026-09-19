@@ -53,7 +53,9 @@
 
 ### Appearance
 
-The Weeping Gargoyle Brooch is a small glass bottle of deep-blue Han glass, no taller than a finger, with a narrow mouth, a cork stopper, and a short chain worn at the side. The glass is clear until the bearer's own genuine tear fills it, and then it turns a soft blue. When opened in front of consenting recipients, the vial releases a low wave that lets those present feel that their sorrow is being held with others for a brief recovery interval. The vial identifies nearby Lament pressure by warming against the bearer's body but does not diagnose why anyone is grieving. It is never topped up with water or another person's loss, and a black thread in the blue liquid means consent has become uncertain and the vial must not be opened. The vial is hung in a shaded garden case after use, and the cork is never replaced until every recipient has confirmed their consent.
+Appearance : A six-centimeter brooch carved from pale grey fountain stone depicting a horned gargoyle face with downturned lips. An iron safety pin is anchored directly into the rear stone backing.
+
+A droplet of glowing blue sorrow water continuously beads at the lower lip of the gargoyle, solidifying into a brittle glass bead every ten seconds before dissolving into cool mist that calms the bearer’s heart.
 
 ### Passive effect— *Held Drop*
 

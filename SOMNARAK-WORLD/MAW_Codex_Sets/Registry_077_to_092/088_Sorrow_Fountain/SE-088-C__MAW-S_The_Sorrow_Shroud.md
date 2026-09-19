@@ -56,7 +56,9 @@ The Shroud appeared at the Garden rim after a witness circle remained with a mou
 
 ### Appearance
 
-The Cistern-Keeper's Chiton & Mantle is a deep-blue shroud of layered Han silk cut in broad overlapping folds, each fold slightly darker than the one above it. The inner lining is smooth and cool and the outer surface carries a faint salt sheen after long use. A throat clasp closes the shroud at the front, and the wearer must name a post-exposure companion before it is sealed. The cloth lowers direct Lament harm by taking pressure through successive blue folds, so the burden is endured rather than deleted. When the wearer names the companion, one fold opens around a nearby consenting person and shares a portion of the incoming wave. A dry crack across the hem shows the shroud has become a dam rather than a current, and it is spread in morning air beside its witness after use. The shroud is spread in morning air beside its companion, and each person names one small pleasure without asking the other to match it.
+Appearance : An ankle-length pleated chiton of waterproofed white linen worn beneath a cowl-hooded charcoal wool mantle. Twin sculpted marble fountain-basin gorget plates clasp the shoulders, anchoring the flowing fabric during rapid motion.
+
+Carved stone drainage channels trace across the shoulder plates, continually venting a thin trickle of glowing blue sorrow water down the pleated folds. The damp linen fabric absorbs shockwaves by dispersing kinetic force into weeping liquid runoff.
 
 ### Passive effect— *Layered Water*
 

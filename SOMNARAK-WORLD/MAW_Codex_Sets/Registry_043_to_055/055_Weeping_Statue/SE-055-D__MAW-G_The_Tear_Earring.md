@@ -23,7 +23,9 @@
 
 ### Appearance
 
-The Obsidian Tear Drop Earring is a small crystal charm of deep-blue Han glass shaped like a falling drop, no larger than a fingertip, with a thin silver pin and a short chain that rests against the jaw. The glass is nearly clear and cold, and it warms only when the wearer sheds a genuine tear. When that tear reaches the crystal, the drop fills with a faint silver light and hardens into a stable Echo fragment small enough to be archived or passed to another person. The fragment records emotion, not a complete memory, so it cannot prove every detail of an event. After the drop is placed in an Archive or given willingly away, the earring cools; before that, the bearer remains more susceptible to tears and small sorrows. The earring is kept in a small grey case when not worn, and the silver light inside the drop does not fade until it is archived or given away.
+Appearance : A faceted teardrop of polished black obsidian suspended from the left earlobe by a sharp silver hook. It hangs beside the jawline, reflecting ambient shadows in distorted charcoal curves.
+
+The cold obsidian stone absorbs excess light and psychic vibration, maintaining a thin sheen of frosty moisture that chills the temple. It shields the wielder against blinding illumination and emotional shock by grounding sensory overloads.
 
 ### Ability— Tears as Record
 

@@ -236,8 +236,9 @@ The escalation pattern is specific to The Broken Clock: it is not a generic brea
 **Falloff Rule:** Primary target 100% → second target 70% → third target 50%.
 **Damage Application:** Direct crush damage on primary; temporal slow wave applied to all pierced targets.
 
-**Appearance (SVG-Ready Specification):**
-A 135cm heavy two-handed striking polearm fashioned from an aged brass pendulum shaft with a dense lead-sleeved grip wrapped in dark calfskin. The head is dominated by a 38cm diameter, half-fractured anchor escapement wheel of tarnished clockwork brass featuring 16 pointed ratchet teeth, with 4 broken jagged teeth on the upper crest exposing an interlocking steel gear cluster and a ticking balance wheel. An exposed spiral steel hairspring uncoils from the central arbor, wrapping loosely three times down the upper brass shaft and dangling 40cm past the cross-brace as an uncoiling metallic tassel. A permanent frosting of pale blue rime frost coats the lower gear teeth, shedding cold particulate sorrow dust whenever swung. The counterweight at the pommel is a faceted lead sphere engraved with Roman numeral XII.
+Appearance : A 135cm heavy two-handed polearm forged from an aged brass pendulum shaft, featuring a dark calfskin grip and a fractured clockwork gear head. The weapon radiates a faint hum of ticking gears and is counterweighted by a faceted lead pommel.
+
+The head mounts a 38cm anchor escapement wheel with four broken teeth that expose an internal steel gear cluster and a ticking balance wheel. An exposed steel hairspring uncoils down the brass shaft, while pale rime frost coats the lower ratchet teeth, releasing cold sorrow vapor with every swing.
 
 **Special Move Set:**
 - *Primary Kinematics — "Arrested Cadence":* Overhead diagonal down-sweep utilizing pendulum inertia; upon impact, the exposed ratchet teeth bite and violently hitch for 0.2 seconds before ripping free, inflicting heavy Weight crush damage.
@@ -249,8 +250,9 @@ A 135cm heavy two-handed striking polearm fashioned from an aged brass pendulum 
 **Category:** Protective Attire (Heavy Woolen Watchman's Coat & Suspended Lead Weights)
 **Grade:** γ | **Element:** Weight
 
-**Appearance (SVG-Ready Specification):**
-A double-breasted calf-length greatcoat tailored from dense charcoal-grey wool, reinforced with an internal lining of flexible bronze wire mesh. Suspended along the lower inner hemline are eight cylindrical brass pendulum weights (each 8cm long, stamped with minute indices) that swing with deliberate inertia, audibly clicking against lead hem-weights as the wearer walks. High storm collar lined with frost-rimed felt.
+Appearance : A double-breasted charcoal wool greatcoat reinforced with woven bronze mesh and fitted with a high storm collar. Designed for heavy watchmen, the garment bears deep interior pockets and brass button clasps along the front closure.
+
+Eight cylindrical brass pendulum weights stamped with minute indices dangle along the inner hemline, chiming softly against lead-weighted lining to anchor the bearer against kinetic recoil. Fine rime frost gathers around the hem, freezing fallen moisture into brittle ice beads.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -269,8 +271,9 @@ A double-breasted calf-length greatcoat tailored from dense charcoal-grey wool, 
 **Category:** Stigma (Ear / Temple Clockwork Shard)
 **Grade:** γ | **Element:** Weight
 
-**Appearance (SVG-Ready Specification):**
-A thumb-sized brass gear wheel fused into the skull bone immediately behind the right ear. Its four visible teeth are coated in unmelting frost rime, advancing exactly one tooth per real-world minute with a faint, bone-conducted click.
+Appearance : A thumb-sized brass gear wheel embedded flush into the cranial bone behind the right ear. It rests beneath the hairline, visible as a polished metallic crescent ringed by faint stress fractures.
+
+The wheel’s sixteen micro-teeth are coated in delicate rime frost and turn exactly one notch every sixty seconds, conducting an audible ticking vibration directly through the skull. Cold condensation trickles downward, chilling the bearer’s jawline during prolonged combat engagements.
 
 **Slot:** Head / Temple
 **Acquisition Probability:** 4%

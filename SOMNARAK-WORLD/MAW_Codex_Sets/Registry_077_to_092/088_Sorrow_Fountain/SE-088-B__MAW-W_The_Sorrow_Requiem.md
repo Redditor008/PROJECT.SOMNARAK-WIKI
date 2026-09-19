@@ -56,7 +56,9 @@
 
 ### Appearance
 
-The Weeping Basin-Aspergillum is a long, narrow blade of deep-blue Han crystal with a soft blue seam running from the guard to the point. The seam is silent until the bearer names a loss or pressure without naming an unwilling person as its cause, and then a low note travels along the flat as the blade strikes. The grip is wrapped in dark blue cord over a ridged core, with a plain round guard and a small ring pommel. The blade pierces a target or line of targets with Lament pressure, making an emotional burden perceptible rather than merely forcing it down. If the bearer swallows back tears, blue moisture climbs the grip and locks the blade in its sheath. The weapon rests on a dry cloth near the basin, not inside it, after every use. The blade is rested on dry cloth near the basin after activation, and the blue seam does not relight until the bearer has given the aftertone to a witness.
+Appearance : A 115cm ceremonial wand-mace sculpted from fluted white Carrara marble with a hollow core for pressurized fluid delivery. Its grip is wrapped in water-resistant indigo suede, terminating in a flared bronze drainage turncock at the base.
+
+The striking head consists of a 24cm spherical marble cistern carved into four weeping cherubic faces with open mouth vents and twelve drilled spray apertures. Luminescent cerulean Lament fluid seeps constantly from the eyes and mouths, condensing into cold blue vapor that trails during swings.
 
 ### Basic attack— *Welling Cut*
 

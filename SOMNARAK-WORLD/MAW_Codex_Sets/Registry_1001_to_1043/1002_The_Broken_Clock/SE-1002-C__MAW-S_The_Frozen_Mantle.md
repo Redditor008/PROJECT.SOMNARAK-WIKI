@@ -19,6 +19,12 @@
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Broken Clock's kind of pressure.  
 **Binding rule:** the bearer names The Broken Clock's event—The loop made citizens experience events again and again without resolution. Their temporal exhaustion crystallized into the clock.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+## Appearance
+
+Appearance : A double-breasted charcoal wool greatcoat reinforced with woven bronze mesh and fitted with a high storm collar. Designed for heavy watchmen, the garment bears deep interior pockets and brass button clasps along the front closure.
+
+Eight cylindrical brass pendulum weights stamped with minute indices dangle along the inner hemline, chiming softly against lead-weighted lining to anchor the bearer against kinetic recoil. Fine rime frost gathers around the hem, freezing fallen moisture into brittle ice beads.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

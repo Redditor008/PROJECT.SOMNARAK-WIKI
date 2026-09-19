@@ -205,4 +205,7 @@ When authoring, auditing, or revising files within the `REFERENCE_SOMNARAK_WIKI/
    - Operational parameters and work-type responses (Ferrehan, Flerehan, Pugnahan, Viderehan).
    - Narrative Origin / Breach Tale.
 5. **Canon Terminology is Binding:** Retain authentic Somnarak nomenclature: Sorrow Entities, SECC, Han, Absolvohan, Facility 01, Echo-Cores, Ordeals. Generic terminology substitutes are strictly forbidden.
-6. **Validation Gate:** All markdown files must pass `python3 tools/audit_lore_archive.py`.
+6. **M.A.W. Dual-Paragraph Appearance Standard:** Every M.A.W. equipment piece (Weapon, Suit, Gift) must present its visual appearance in two distinct paragraphs separated by a blank line:
+   - Paragraph 1 starts with `Appearance : ` and provides a concise simple visual profile (20 to 48 words).
+   - Paragraph 2 provides the detailed appearance profile (20 to 66 words) focusing on mechanisms, textures, engravings, and sorrow emissions.
+7. **Validation Gate:** All markdown files must pass `python3 tools/audit_lore_archive.py`.

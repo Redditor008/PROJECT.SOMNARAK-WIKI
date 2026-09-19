@@ -183,8 +183,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Falloff Rule:** 100% direct thrust damage; 70% shrapnel damage across 4m cone.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Appearance (SVG-Ready Specification):**
-A 210cm polearm whose shaft is fashioned from a structural dark oak window mullion of squared cross-section (4cm x 4cm), bolted with wrought-iron corner brackets. The head is a cruciform junction where four rectangular panes (18cm x 10cm each) of diamond-hard, unmelting glacial window glass are set into iron glazing frames, converging to a razor-sharp four-sided glass spear point. Trapped silhouettes of falling snowflakes remain perpetually frozen inside each glass pane, emitting a cold aquamarine luminescence and shedding dry-ice mist. Trailing from the crossbar are delicate dangling icicle fringes that emit chime-like acoustic vibrations when thrusted.
+Appearance : A 210cm cruciform polearm whose main shaft is fashioned from a dark structural oak window mullion bound in iron corner brackets. The head mounts four rectangular panes of unmelting glacial glass set into iron glazing frames.
+
+The converged glass point forms a diamond-hard spear tip, while trapped silhouettes of snowflakes remain perpetually frozen inside each pane. Icicle fringes dangle from the horizontal crossbar, emitting soft acoustic chimes and shedding sub-zero mist with each thrusting maneuver.
 
 **Special Move Set:**
 - *Primary Kinematics — "Cruciform Thrust":* High-velocity linear thrust; the four-sided glacial glass head punches through armor, inflicting Weight puncture damage and creating frost fractures in the target's surface.
@@ -196,8 +197,9 @@ A 210cm polearm whose shaft is fashioned from a structural dark oak window mulli
 **Category:** Protective Attire (Reinforced Oak Slats & Iron-Lattice Hauberk)
 **Grade:** β | **Element:** Weight
 
-**Appearance (SVG-Ready Specification):**
-A fitted cuirass made of interlocking dark-varnished oak window louvers set into a blackened iron lattice frame, lined with insulating sheared wool. A frosted glass pane is centered over the solar plexus, displaying faint frost ferns that thicken under enemy impact.
+Appearance : A fitted cuirass of overlapping dark oak window louvers bolted onto a blackened iron lattice frame and lined with sheared wool. A thick frost-coated glass pane is set flush over the chest plate.
+
+Intricate frost fern patterns shift across the central glass pane in response to incoming impacts, absorbing kinetic energy and venting sub-zero sorrow air. The louvered plates deflect direct physical strikes while insulating the bearer against sudden temperature drops.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -216,8 +218,9 @@ A fitted cuirass made of interlocking dark-varnished oak window louvers set into
 **Category:** Stigma (Eye / Ocular Lens)
 **Grade:** β | **Element:** Weight
 
-**Appearance (SVG-Ready Specification):**
-A square monocle frame of tarnished iron holding a thin pane of frost-cracked window glass over the right eye, secured by a black velvet ribbon.
+Appearance : A square monocle frame of tarnished iron securing a thin pane of rime-cracked window glass over the right eye. A black velvet ribbon fastens the frame snugly around the temple.
+
+Delicate frost fractures run through the lens without obscuring vision, highlighting structural stress points and micro-cracks in frozen matter. The cold glass sharpens the bearer’s focus, identifying brittle weaknesses in slowed or immobilized targets.
 
 **Slot:** Eye / Head
 **Acquisition Probability:** 5%
