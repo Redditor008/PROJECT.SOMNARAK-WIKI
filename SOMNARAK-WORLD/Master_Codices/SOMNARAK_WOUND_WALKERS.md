@@ -11,7 +11,7 @@
 **Setting:** Somnarak — healed, but not whole. 45% hope. 55% sorrow.
 **Company:** The Wound Walkers (상처 걷는 자 — Sanggeo Geonneun Ja)
 **Protagonist:** Sooah (수아) — The Healer
-**Game Style:** Library of Ruina — Floor Realizations (character exploration through combat)
+**Format:** The Seven Crucible Stations — Spiritual Pilgrimage across the Deep Fractures
 
 The Dawn Initiative achieved 45%. The Horizon Caravan connected two cities. The Memory Archive fulfilled the Promise.
 
@@ -32,6 +32,29 @@ The Wound Walkers are healers — citizens who walk through the city's wounds, h
 **Philosophy:** The city will always have wounds. Sorrow is Primordial — it cannot be erased. But wounds can be tended. Sorrow can be shared. Pain can be made bearable.
 
 The Wound Walkers do not seek to end sorrow. The Wound Walkers seek to *live with it*.
+
+---
+
+### The Spiritual Philosophy: Non-Containment Coexistence (비-격리 공존 철학)
+
+While the Reverie Directorate enforces absolute containment and the Dawn Initiative pursues kinetic dissolution, the Wound Walkers practice radical co-presence:
+- **The Festering Cage:** The Walkers hold that boxing sorrow behind basalt walls and electromagnetic fields only causes grief to putrefy into monstrous forms.
+- **The Living World:** Han is not a municipal hazard or an industrial fuel; it is the weeping blood of Mugenhan. You do not conquer an ocean by damming it; you learn to swim.
+- **The Practice of Sitting (동행 좌선):** When encountering a feral Sorrow Entity, a Walker does not draw weaponry. They sit within its aura of grief, matching their breathing to its infrasonic frequency until the entity's violent agitation subsides into quiet exhaustion.
+
+### Body Modification: Petrified Han Scars (석화된 한의 상흔 각인 — Han-Gak-In)
+
+The Wound Walkers bear physical marks of their pilgrimage directly upon their flesh:
+- **Ritual Absorption:** Through careful ritual incisions along the forearms, collarbone, and spine, Walkers allow small amounts of ambient Outside Han to merge with their bloodstream.
+- **The Mourning Brands (애도인 — Aedoin):** The Han nucleates under the skin, forming iridescent indigo and obsidian crystalline scar tissue.
+- **Organic Resonant Dampening:** These petrified scars act as biological emotional insulators, preventing the Walker's central nervous system from undergoing psychic Fracture even in high-density sorrow rifts. When tectonic Sorrow Tides rise, the scars radiate mild heat and hum at 14 Hz, serving as internal navigational compasses.
+
+### Historic Encounters with Floor 8: The Gate Watch (Xyan)
+
+The relationship between the nomadic Wound Walkers and the Reverie Directorate is defined by a silent pact at the city's edge:
+- **Council Hostility:** The Council of Sighs classifies the Walkers as unregistered heretics, ordering municipal Wardens to repel them with acoustic cannons if they approach the civic perimeter.
+- **Xyan's Secret Sanctuary:** From **Floor 8 (The Gate Watch)**, **The Exile (Xyan)** monitors their movements across the Desolate. Understanding their vital role in dispersing wilderness grief, Xyan covertly deactivates automated perimeter turrets when the Walkers cross Outpost Zero.
+- **The Silent Trade:** Xyan leaves supply caches of thermal rations, hydraulic grease, and clean water at boundary beacons. In return, the Walkers leave carved obsidian Han tablets detailing the migratory currents of colossal entities in the deep wilderness, providing Xyan with telemetry that Facility 01's sensors cannot detect.
 
 ---
 
@@ -203,14 +226,17 @@ The Wound Walkers are eternal. The city will always have wounds. And someone wil
 
 ---
 
-## VI. PM Elements Used
+## VI. Pilgrimage Mechanics & The Seven Crucible Stations (순례 체계: 일곱 개의 애도 정거장과 상흔 각인)
 
-| PM Game | Element | How Used |
-|---------|---------|----------|
-| **LoR** | Floor Realizations | Character exploration through combat |
-| **LoR** | The Library | The city itself — consumes and preserves |
-| **LC** | Facility Management | Managing the Wound Walkers' resources |
-| **LC** | Ordeals | The wounds are the Ordeals — periodic, eternal |
+The Wound Walkers operate through unique non-violent progression mechanics reflecting deep spiritual empathy:
+
+| Pilgrimage System | Tactical Dynamic | Metaphysical Function |
+|---|---|---|
+| **Crucible Stations** | Trauma Empathy Trials | Non-lethal encounters where the Walker endures an entity's sorrow waves until resonance synchronization is achieved |
+| **Mourning Brand Attunement** | Organic Scar Evolution | Unlocking dermal Han-veins to absorb localized psychic shockwaves, shielding companions from mental collapse |
+| **Silent Co-Presence Stance** | Pacification Aura | A meditative combat stance that neutralizes hostile entity aggression by sharing karmic weight rather than inflicting kinetic damage |
+| **Desolate Pathfinding** | Tectonic Han Scenting | Reading thermal hums from petrified scars to navigate toxic silt dunes and avoid sudden sorrow geysers |
+| **The Requiem Offering** | Relic Memory Transference | Placing crystallized memory beads onto ancient wounded ground to permanently pacify municipal trauma fissures |
 
 ---
 
