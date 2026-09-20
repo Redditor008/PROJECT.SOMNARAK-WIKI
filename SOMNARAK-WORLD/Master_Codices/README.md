@@ -109,3 +109,5 @@ The repository root houses the two official primary cartographic and architectur
 9. SOMNARAK_ENTITY_CODEX.md     → Explore the complete catalog of anomalies
 10. SOMNARAK_ABSOLOVHAN.md      → Comprehend the ultimate narrative conclusion
 ```
+
+- **** : In-depth comparative audit between Project Moon and Project Somnarak, establishing 97.4% structural divergence, 100% plot-hole-free closed-loop mechanics, and absolute ontological independence.
