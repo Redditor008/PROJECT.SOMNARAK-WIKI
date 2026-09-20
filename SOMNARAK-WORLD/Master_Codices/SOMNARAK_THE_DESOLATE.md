@@ -59,6 +59,18 @@ The Desolate's ground is not solid — it is *alive*. Han flows beneath the surf
 
 ---
 
+### Outside Sorrow (외부의 한 — Oebu-ui Han)
+
+Unlike the sorrow contained within Somnarak—which has been channeled through urban conduits, harvested into energy grids, and dampened by the Veil—the sorrow of the Desolate is **Outside Sorrow**.
+
+**Key Distinctions of Outside Sorrow:**
+- **Uncurated & Primordial:** It carries no civic debt ledgers, no commercial extraction limits, and no institutional structure. It exists as raw atmospheric pressure, geological shear, and mineral dust.
+- **Atmospheric Weather:** Outside Sorrow condenses into toxic particulate storms. Breathing it without filtration coats the respiratory tract in micro-crystalline Han needles, inducing violent coughing, rapid crystallization descent, or instant sensory vertigo.
+- **Autonomous Entity Generation:** Without the Directorate's containment fields, Outside Sorrow spontaneously congeals into wild, unclassified Sorrow Entities that roam the rifts and ruins of the buffer zone.
+- **The Absence of the Veil:** In the Desolate, there is no psychological dampening. Human emotions radiate freely, acting as beacon fires that draw wandering entities from miles away.
+
+---
+
 ## II. The Inhabitants
 
 ### The Population (~16,000)
@@ -158,6 +170,16 @@ The Desolate's ground is not solid — it is *alive*. Han flows beneath the surf
 - They are watched — by the R.D., by the nomads, by the entities
 
 **The agent paradox:** The Field Agents are the R.D.'s representatives in the Desolate. But the Desolate does not recognize the R.D.'s authority. The agents are alone — surrounded by Han, surrounded by entities, surrounded by the unknown.
+
+---
+
+### Phase-Shifting Cyborgs & Frontier Adaptation (위상 전이 사이보그 생체학)
+
+Ordinary biological humans cannot survive indefinitely in the Desolate without pressurized habitats or heavy environmental suits. The few Directorate officers and frontier sentries who operate continuously outside the Veil rely on **High-Output Biomechanical Augmentation** and **Phase-Shifting Physiology**:
+
+- **The Neural Spine:** An external spinal conduit integrating living nerves with synthetic sorrow-forged lattices. The Neural Spine regulates internal emotional equilibrium, preventing atmospheric Han pressure from overwhelming the biological brain.
+- **Environmental Filtration Gills:** Heavy synthetic respirators and thoracic filters that scrub toxic Han-dust from inhaled air, expelling calcifying particulate matter before it reaches the lungs.
+- **Subject-Phantasmal Phase-Shifting:** A rare physiological condition observed in long-term Desolate survivors (such as Warden Lead Mellda). The physical body experiences controlled moments of semi-translucence, existing simultaneously in both physical and phantasmal states. This phase-shift prevents raw Outside Sorrow from anchoring into solid biological tissue, rendering the bearer partially immune to ambient crystallization while granting enhanced kinematic reach.
 
 ---
 
@@ -358,6 +380,22 @@ The Wardens in the Watchtowers maintain a constant vigil — watching the wilder
 - **Unknown threats** — anything that should not exist
 
 **The Watch's burden:** The Wardens in the Watchtowers see things that the city does not want to know. They see the Desolate's beauty — the Han-storms' colors, the nomads' freedom, the entities' grace. They see the Desolate's horror — the Fractures, the collapses, the deaths. They carry the weight of what they see.
+
+---
+
+## VIII.B The Directorate Boundary Vanguard: Floors 5 & 8
+
+While municipal Wardens man the standard Watchtowers, the deep boundary defense of Somnarak is commanded by the Directorate's subterranean vanguard:
+
+### Floor 5 Outpost: The Threshold Watch (Warden Lead Mellda)
+- **Command Station:** Threshold Outpost, situated at the monumental fortified gate between Zone E and the Desolate.
+- **The Commander:** Mellda (멜다), a veteran Cyborg warrior who survived ten documented adult years surviving the Desolate following an unrecorded exile. She carries an Outside Sorrow entity passenger, granting her instinctive awareness of incoming Han-storms and tectonic shifts.
+- **Signature Boundary Defense:** Her specialized left forearm houses **Threshold Vow**—a manufactured Cyborg weapons system that reconfigures into a one-meter Han-infused Sacred Blade. Dealing 6–16 Weight direct damage plus 2 Grudge/s hemorrhaging, along with a 25-Weight linear shockwave, *Threshold Vow* serves as the primary barrier weapon to intercept Outside Sorrow incursions and protect retreating frontier refugees.
+
+### Floor 8 Outpost: The Exile's Gate (Boundary Vanguard Xyan)
+- **Command Station:** The lowest subterranean boundary station, positioned directly beneath the Scar at the physical threshold between municipal bedrock and raw planetary abyss.
+- **The Sentry:** Xyan (시안), the Frontier Cyborg scout known as "The Exile." Heavily reinforced with boundary survival plating and environmental gills, Xyan endures continuous exposure to the planet's rawest Han currents.
+- **The Unanswered Relay:** Stationed where no other human can survive, Xyan monitors subterranean fault lines and Outside Sorrow eruptions. He continuously transmits acoustic warning pulses through the planetary Han-field ("The Furnace is burning"). While the Council of Sighs ignores his dispatches, Echo-Core 8 (Ishall) in Floor 7's Black Vault obsessively logs and verifies every transmission.
 
 ---
 
