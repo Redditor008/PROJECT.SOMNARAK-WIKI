@@ -146,6 +146,40 @@ The Dreamer returns — ascending through the layers, passing back through the V
 | **The Dream Lantern** | A lantern that illuminates the Dream — reveals hidden paths | Weavers |
 | **The Dream Veil** | The barrier between the Dream and the physical world | Natural |
 
+### Dream-Diving Physics (Physical & Metaphysical Laws of Somnus)
+
+The Dream Realm operates under precise metaphysical mechanics that Dream-Divers must master to survive:
+
+#### 1. Chronological Dilation (시간 왜곡 현상)
+Perception and neural processing dilate exponentially with depth:
+- **Layer 1 (Shallow Dream):** 1 waking hour ≈ 1 dream hour. Minor sensory echoes.
+- **Layer 2 (Memory Dream):** 1 waking hour ≈ 6 dream hours. Memory recall occurs at high speed.
+- **Layer 3 (Sorrow Dream):** 1 waking hour ≈ 24 to 72 dream hours. Prolonged diving induces severe chronopathic disorientation upon waking.
+- **Layer 4 (Deep Dream):** Subjective time stretches infinitely; divers risk losing somatic memory of their physical body.
+
+#### 2. Semantic Gravity & Semiotic Mass (기호학적 질량과 의미 중력)
+Somnus contains no physical mass; matter is governed by emotional density:
+- **Neutral Thought:** Zero semiotic weight; floats weightlessly across dream strata.
+- **Unresolved Guilt / Mourning:** Possesses immense semiotic gravity. An unexpressed sorrow creates localized gravitational wells, distorting the surrounding dreamscape and pulling nearby consciousness downward.
+
+#### 3. Cognitive Buoyancy (인지적 부력)
+Survival in the Dream depends entirely on conscious equilibrium:
+- **Lucid Detachment:** Calm focus and emotional clarity generate positive buoyancy, allowing the Diver to float toward upper strata and reach waking consciousness.
+- **Panic & Grief Sinking:** Emotional panic creates sudden negative buoyancy. A panicked Diver plunges downward through the layers like lead, risking falling into the uncharted Core Dream.
+
+### Specialized Diving Equipment: Resonance Masks & Silver Guides
+
+Navigating deep Somnus requires specialized gear engineered to prevent psychic annihilation:
+
+#### Resonance Masks (공명 가면 — Gongmyeong Gamyeon)
+- **Construction:** Crafted from unglazed white porcelain infused with micro-pulverized Han-crystal dust and fitted with acoustic dampening baffles across the mouth and temple lines.
+- **Function:** Serves as a psychic circuit breaker. It dampens the deafening emotional weeping of Layer 3/4, shielding the Diver's biological central nervous system from cognitive feedback shock.
+- **Stress Diagnostic:** The porcelain mask is physically bonded to the Diver's mental state. As psychic strain rises, hairline fissures appear across the mask's surface. If the mask cracks completely within the Dream, the Diver suffers catastrophic psychic severance (Fracture) and enters an irreversible comatose trance in the physical world.
+
+#### Spun Silver Guide Threads (은사 유도선)
+- **Tethering:** Anchored to a somatic cranial rig at the dive station, the silver filament descends behind the Diver into the dream strata.
+- **Extraction Protocol:** When a Diver signals distress or reaches critical depth, surface attendants activate the mechanical winding spool, reeling the Diver's consciousness back through the Veil before negative buoyancy traps them.
+
 ---
 
 ## IV. The Weavers — Guardians of The Dream
@@ -177,6 +211,23 @@ The Weavers follow a code — a set of rules that govern their interaction with 
 3. **Never bring Dream-stuff back** — what belongs in the Dream stays in the Dream
 4. **Never speak of what you see** — some truths are too dangerous to share
 5. **Never forget you are dreaming** — losing yourself in the Dream is the end
+
+### The Dream Loom Mechanics (꿈의 직조기 — Kkum-ui Jikjogi)
+
+The Weavers' Spire houses the **Dream Looms** — massive, delicate apparatuses engineered from dark resonant ironwood, Han-conducting brass gears, and tensioned acoustic silver wire:
+
+#### 1. Dual-Phase Consciousness Protocol (이중 위상 의식 제어)
+Operating a Dream Loom cannot be done while fully awake or fully asleep:
+- **Somatic Phase (40% Consciousness):** The Weaver maintains somatic control over their physical hands and foot treadles, adjusting wooden shuttles and mechanical tension in the waking sanctuary.
+- **Dream Phase (60% Consciousness):** The Weaver projects their psychic awareness into Layer 2 (Memory) or Layer 3 (Sorrow), grasping raw, unformed emotional filaments drifting through the Veil.
+
+#### 2. Spun Han Filaments & Memory Threading
+- **Raw Material:** The Loom processes raw emotional mist into spun Han-filaments, interlacing them with high-purity silver wire to stabilize their resonance.
+- **Weaving Action:** The shuttle catches loose grief, regret, or traumatic memory loops, braiding them into dense, coherent patterns that neutralize their chaotic volatility.
+
+#### 3. Woven Deliverables & Masterworks
+- **Tapestries of Solace (위로의 태피스트리):** Resonant wall-hangings installed in medical wards and convalescent chambers. These tapestries emit a gentle 432 Hz harmonizing hum that soothes agitated minds and dramatically reduces civilian Fracture rates.
+- **Memory Anchors (기억의 닻):** Braided cords containing crystallized core memories. Reverie Directorate operatives and Dream-Divers carry these cords into high-risk zones as somatic grounding tethers against cognitive corruption.
 
 ---
 
@@ -247,6 +298,22 @@ The Dream and the city are connected in a cycle:
 6. Return to step 1
 
 **The question:** Can the cycle be broken? Can the Dream be controlled? Can the city survive the Dream's growth?
+
+---
+
+## VI.B. Directorate Interface: Floor 4 Cognitive Dampening & Ayshuk's Void Models
+
+The Reverie Directorate does not view the Dream Realm as esoteric mysticism. Under the supervision of **Chief Analyst Ayshuk** on **Floor 4 (Floor of Archival Analysis & Logic)**, Somnus is treated as a high-entropy sea of unstructured emotional data requiring systematic containment:
+
+### Ayshuk's Void Algorithmic Modeling (공허 해석 모델)
+- **Veil Ripple Detection:** Floor 4's analytical Void engines continuously monitor fluctuations in the Dream Veil across all twelve municipal sectors.
+- **Predictive Fracture Forecasting:** By analyzing nocturnal emotional anomalies and recurring nightmare clusters among citizens, Ayshuk's Void algorithms can predict Sorrow Entity crystallizations 12 to 36 hours before they physically manifest on the surface.
+- **The Mathematical Abyss:** Ayshuk views the Core Dream (Layer 5) not as a spirit world, but as the mathematical limit of absolute entropy — an emotional Void where individual identity collapses into pure statistical noise.
+
+### Cognitive Dampening Arrays (인지 감쇠 격자)
+- **Sub-Harmonic Broadcast Coils:** High-output resonant dampening emitters mounted along Facility 01's upper infrastructure emit low-amplitude cognitive counter-waves throughout Somnarak.
+- **Nightmare Suppression:** During periods of civil unrest or high Sorrow Tide surges, these arrays are set to full power, dampening collective civilian dreaming and suppressing spontaneous mass-hysteria.
+- **The Toll on Creativity:** Ayshuk's dampening arrays maintain municipal stability, but at a recognized cost: districts under heavy dampening report dull, dreamless sleep, emotional numbness, and a marked decline in artistic inspiration.
 
 ---
 
