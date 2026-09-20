@@ -261,7 +261,26 @@ The Veil is not a shield. The Veil is a *suppressor*. The Veil keeps the citizen
 
 The Cheongula created the Veil. The Veil perpetuates the Cheongula.
 
-### The R.D.
+### The Reverie Directorate & The Cheongula Tethers
+
+The Reverie Directorate does not merely manage the aftermath of the Cheongula; its subterranean architecture and executive leadership are physically and metaphysically tethered to the catastrophe of Year 202.
+
+#### Floor 2 — Dekan's Living Maw Graft (The Biological Resonance Conduit)
+The deepest containment trenches of Floor 2 sit directly above the tectonic fissure where the thousand citizens were consumed. Containment Lead Dekan carries the physical embodiment of the cataclysm: his entire right arm is fused with a living, crimson-scaled biological graft harvested from the Maw's crystalline flesh.
+- **The Living Cadence:** The scales on Dekan's arm breathe and pulse with an independent cardiac rhythm matching the collective heartbeat of the thousand trapped souls.
+- **Containment Telepathy:** Dekan speaks to volatile containment subjects in low, rhythmic murmurs because the entities recognize the frequency of the first sorrow vibrating through his flesh. When facility containment fields fluctuate, Dekan's arm bleeds hot crimson mist—the physical weeping of the original victims.
+
+#### Floor 6 — Marjuk's Stasis Archive (The Forbidden Eye of Year 202)
+While the Council of Sighs purged the true history of the Cheongula from civic databases, the unredacted truth survives inside Floor 6. Archive Lead Marjuk—whose living biological brain, left eye, and nervous bundle are preserved in continuous cryo-stasis fluid within an armored chassis—is the sole surviving entity who remembers the event as an eyewitness.
+- **The Erased Truth:** In his classified stasis logs (Fragment 7,001), Marjuk's vox records the horrifying reality: the thousand laborers in Zone B were not merely victims of municipal neglect; they were deliberately forced into the collapsing Han-fissure by the First Council to anchor the roots of the Alpha Tree and stabilize the city's power lattice.
+- **The REM Whispers:** During facility sleep shifts, Marjuk's stasis eye darts rapidly as his vox unit mutters the names, ages, and final words of the laborers who were pushed into the dark.
+
+#### Floor 1 — Director Majin's Founding Guilt & The 1,778 Cycles
+The Director's unyielding obsession with the classified protocol **Absolvohan** is rooted in the original sin of the Cheongula. Majin recognizes that every kilowatt of power illuminating Somnarak and every drop of medicine extracted by the Directorate is stolen from the agonizing souls calcified within the Maw.
+- The *1,778 Cycles* are not merely an administrative loop; they represent the Director's repeated refusal to accept a municipal reality founded on eternal, unatoned sacrifice.
+- His fused Ω-Grade scythe, *Reaper Hungered*, carries a primordial resonance tuned to cleave through the karmic debt generated on Day 1 of Year 202.
+
+### The R.D. (Historical Context)
 
 The R.D. was created after the Cheongula — as a way to contain the Sorrow Entities that the Cheongula generated. The R.D. studies, contains, and manages the entities that the city's sorrow creates.
 
