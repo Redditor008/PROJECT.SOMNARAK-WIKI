@@ -3206,38 +3206,81 @@ When multiple Sovereign or Entity breaches threaten total structural containment
 
 ---
 
-### System 5: Class-T Tool-Type Sorrow Relics & Cursed Apparatuses (도구형 한 유물 체계)
+### System 5: Relic-Entities — Tool-Class Sorrow Apparatuses (유물형 슬픔 개체 체계)
 
-Unlike living Sorrow Entities, Class-T Relics do not possess physical anatomy or sentience; they are cursed Before-Time devices that manipulate Han:
+> *"An inert object can hold as much grief as a walking beast. It does not cry, it does not bleed, but when taken up, it demands a price in blood, memory, or time."*
+
+In Lobotomy Corporation, non-living containment units are designated as "Tool Abnormalities". In Project Somnarak, these entities are **NOT** designated under a fabricated "Class-T" (in canonical SECC syntax, **T** denotes **Time Manifestation**, while **O** is Object, **P** is Place, and **H** is Hazard). Instead, they are canonically classified as **Relic-Entities (유물형 슬픔 개체)**: manifested sorrow artifacts, architectural relics, and temporal anomalies categorized under three operational **Tool Classes**:
 
 ```text
 +==============================================+
-|         CLASS-T TOOL RELIC REGISTRY          |
+|       RELIC-ENTITY TOOL CLASSES MATRIX       |
 +==============================================+
-| Tool Designation     | Operational Function  |
+| Tool Class           | Interaction Mode      |
 +======================+=======================+
-| SE-T-01: Hourglass   | Rewinds Floor Damage  |
+| I-Relic (Indumentum) | Equippable / Mounting |
 +----------------------+-----------------------+
-| SE-T-02: Sensory Well| Reveals All Traits    |
+| O-Relic (Offertorium)| Channeled / Sustained |
 +----------------------+-----------------------+
-| SE-T-03: Sarcophagus | Absolute Invulnerable |
-+----------------------+-----------------------+
-| SE-T-04: Suture Loom | Instant Stat Surge    |
+| A-Relic (Arcanum)    | Single-Use Discharge  |
 +======================+=======================+
 ```
 
-1. **SE-T-01: The Backward Hourglass (되감는 모래시계):**
-   - *Function:* Inverting the hourglass rewinds physical chamber damage and heals fatal wounds of agents on that floor by 3 minutes.
-   - *Cost:* The operator ages 10 physiological years immediately and permanently loses 15 Max Composure.
-2. **SE-T-02: The Acoustic Sensory Well (공명 투시경):**
-   - *Function:* An agent gazes into the dark well. For 3 minutes, all entity work preferences, hidden triggers, and Meltdown countdowns across the entire facility are revealed.
-   - *Cost:* The operator suffers 5 Void damage every 5 seconds while viewing.
-3. **SE-T-03: The Mourner's Iron Sarcophagus (애도자의 관):**
-   - *Function:* An agent steps inside the iron casket. While inside, the agent is 100% immune to all damage, Ordeals, and mental terror.
-   - *Cost:* For every 15 seconds the agent remains inside, all other containment cells on the floor gain +10% Sorrow Gauge. If kept inside beyond 60 seconds, the agent is consumed and fused into the iron plating.
-4. **SE-T-04: The Suture Loom of Unmade Memories (기억 봉합 베틀):**
-   - *Function:* Weaves liquid Han into an operative's gear, granting +30 to all four attributes for the remainder of the shift.
-   - *Cost:* At shift conclusion, the operative suffers total autobiographical amnesia and must undergo behavioral reconstruction under Secretary Seiyon.
+#### 1. The Three Tool Classes of Relic-Entities
+
+##### A. I-Relic (Indumentum — 장착형 유물 개체)
+- **Use Mode:** Equippable or mounting use. The operator must physically wear, hold, or equip the relic onto their person before it activates.
+- **Operational Rule:** Remains active only while attached to the operator. It does not release on its own; the operator must meet specific criteria and manually unequip it.
+- **Canonical Facility Examples:**
+  - `SE-C-IIIβ-015 [VO]` **The Debt Scale (빚의 저울):** A balance scale constructed of articulating bone. Placing a hand on the dish measures the operator's karmic debt as physical weight; the measured burden remains emotionally after release.
+  - `SE-C-IIIβ-036 [WS]` **The Cracked Hourglass (금이 간 모래시계):** Inverting or touching the hourglass briefly slows time in the surrounding containment sector; the operator's personal lifespan is permanently shortened with each use.
+  - `SE-C-IIIγ-102 [GO]` **The Dancing Chains (춤추는 사슬):** Ancient binding chains that wrap around the bearer, boosting kinetic movement speed while continuously inflicting Grudge lacerations.
+  - `SE-C-IIβ-051 [LS]` **The Happy Mask (행복한 가면):** Worn over the face to force emotional levity and suppress sorrow echoes; prolonged wear irreversibly erodes the bearer's authentic identity.
+  - `SE-C-Vδ-290 [LS]` **The First Tear (첫 번째 눈물):** Primordial crystallized tear sealed beneath Floor 1, acting as the master harmonic anchor for the facility's extraction conduits.
+
+##### B. O-Relic (Offertorium / Officium — 집중형/채널형 유물 개체)
+- **Use Mode:** Channeled or sustained interaction. The operator opens a continuous spiritual or physical channel through touch, observation, or spoken invocation, maintaining unbroken contact for the effect to persist.
+- **Operational Rule:** Answers only to a sustained channel. If abandoned mid-use without proper formal closure, the emotional residue compounds violently into the facility grid.
+- **Canonical Facility Examples:**
+  - `SE-C-IIIβ-016 [VO]` **The Echo Compass (메아리 나침반):** The operator holds the dark crystal needle and names a lost thing; points steadily toward the nearest sorrow source. Risk: the operator may follow the needle indefinitely into catatonia.
+  - `SE-C-IIIγ-195 [LO]` **The Mirror of Sorrows (슬픔의 거울):** Gaze-channeled mirror that reveals psychological fractures and entity resonance traits at the expense of draining operator Composure.
+  - `SE-C-IIIγ-300 [WO]` **The Memory Lock (기억의 자물쇠):** Channeled vault-lock that shields nearby operatives from cognitive and Void hazards; must be locked deliberately or the operator's memories bleed into the vault.
+  - `SE-C-IVγ-946 [WO]` **The Blackened Angel (검어진 천사):** Channeled wish-granting statue; a wish whispered before it relieves immediate chamber stress but incurs escalating Weight pressure.
+  - `SE-C-Vδ-111 [VO]` **The Final Door (마지막 문):** Abyssal seal on Floor 6 requiring continuous cryo-stasis channeling by Archive Lead Marjuk to prevent abyss eruptions.
+
+##### C. A-Relic (Arcanum — 소모형/방출형 유물 개체)
+- **Use Mode:** Single-use or triggered discharge. The relic is expended, consumed, or triggered for an immediate, high-potency operational outcome.
+- **Canonical Facility Examples:**
+  - `SE-C-IIβ-290 [VO]` **Compass Without North (부서진 나침반):** Discharges an omnidirectional acoustic pulse that clears atmospheric Han fog and reveals all breached entity coordinates for 60 seconds before shattering.
+  - `SE-N-IIβ-250 [WO]` **The Debt Collector's Lantern (추징관의 등불):** Expends its internal flame to instantly lower an agitated chamber's Sorrow Gauge by 40%, resetting breach countdowns.
+
+---
+
+#### 2. Relic-Entity Operational Protocols in the Reverie Directorate
+
+```text
++==============================================+
+|       RELIC-ENTITY CONTAINMENT PROTOCOLS     |
++==============================================+
+| Parameter            | Mandatory Directorate |
++======================+=======================+
+| Permitted Work Types | Viderehan & Ferrehan  |
++----------------------+-----------------------+
+| Prohibited Work Types| Flerehan & Pugnahan   |
++----------------------+-----------------------+
+| Breach Nature        | Threshold Activation  |
++----------------------+-----------------------+
+| M.A.W. Extraction    | Archetype Derivation  |
++======================+=======================+
+```
+
+1. **Restricted Work Type Protocols:** Because Relic-Entities are inert Objects (`[O]`), Locations (`[P]`), or Times (`[T]`), they cannot be physically fought (**Pugnahan**) or emotionally wept with (**Flerehan**). Agents assigned to Relic-Entity chambers are restricted strictly to **Viderehan (Memory Witnessing)** and **Ferrehan (Gravitational Bearing)**.
+2. **Activation & Escalation vs. Standard Breaches:** Relic-Entities do not walk down corridors like Subject-Body entities. Instead, failure to maintain containment or over-exposure triggers **Activation Cascades**:
+   - Spreading an acoustic contagion field through adjacent rooms.
+   - Forcing nearby agents into obsessive channel states.
+   - Accelerating the facility's Meltdown Level counters.
+3. **The Unavoidable Relic Toll:** A Relic-Entity always extracts a cost. Whether equipping an I-Relic, channeling an O-Relic, or triggering an A-Relic, the interaction permanently leaves residue in the operator: lost memories, physical aging, emotional detachment, or karmic weight.
+4. **Permanent Containment vs Extracted M.A.W.:** The original relic remains permanently housed within its containment chamber. Extracted M.A.W. pieces (e.g., *The Balance Projector* Crossbow from `SE-015 Debt Scale`, or *The Lost Lens* from `SE-016 Echo Compass`) are distinct resonance armaments derived from the entity's archetype—the original Relic-Entity is never removed or used as ordinary equipment.
 
 ---
 
@@ -3308,7 +3351,7 @@ Each of the eight floors offers three distinct technological breakthroughs unloc
 |                      | 3. Abyssal Grid Damp  |
 +----------------------+-----------------------+
 | F7: Ishall           | 1. Shadow Pod Transit |
-|                      | 2. Kinetic Black-Rounds|
+|                      | 2. Kinetic Black-Rnd  |
 |                      | 3. Contraband Scanner |
 +----------------------+-----------------------+
 | F8: Xyan             | 1. Frontier Sonar     |
@@ -3399,7 +3442,7 @@ The ultimate operational endgame of the Reverie Directorate, occurring at the cu
 +----------------------+-----------------------+
 | Phase III: Council   | Repel Giltong Assault |
 +----------------------+-----------------------+
-| Phase IV: Hand of Hope| Transmute Grief to Hope|
+| Phase IV: Hand of Hope| Transmute Grief-Hope |
 +======================+=======================+
 ```
 
