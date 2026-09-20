@@ -84,12 +84,33 @@ On Day 50, Ayin dissolved his physical form into the Light, sending a brilliant 
 - **Roland**, a seemingly washed-up, cynical Grade 9 Fixer, was suddenly teleported into the Library. Angela severed his limbs upon arrival, but reconstructed him to serve as her Head Curator and combat proxy.
 - **The Twist:** Roland was secretly a Grade 1 Fixer and the true wielder of the title of **The Black Silence**. His wife Angelica had been butchered by the Pianist, an event directly caused by the incomplete Light released when Angela interrupted the Seed of Light. Roland entered the Library with the covert intent to slaughter Angela once her goal was nearly complete.
 
-### C. The Sephirah Realizations and The Reverberation Ensemble
-- Through dozens of Receptions (fighting the Kurokumo Clan, Thumb, Index, Liu Association, R Corp, and Hana Association), the Sephirah underwent "Realizations," confronting the remaining grief of their human lives and achieving true emotional peace.
-- **The Reverberation Ensemble:** Led by **Argalia** (Angelica's brother), an alliance of powerful Distortions attacked the Library to seize the Light and usher in Carmen's age of pure, monstrous self-indulgence. The Librarians defeated the Ensemble in a brutal multi-floor battle.
+### C. The Ten Floor Realizations
+To reach emotional resolution, the Library forced Angela and Roland through **Ten Floor Realizations**, where their emotional outbursts resonated with the Floor Abnormalities:
+1. **Floor of History (Malkuth):** Scorched Girl, Happy Teddy Bear, Fairy Festival, Queen Bee, Snow White's Apple.
+2. **Floor of Technological Sciences (Yesod):** Forsaken Murderer, All-Around Helper, Singing Machine, Funeral of the Dead Butterflies, Der Freischütz.
+3. **Floor of Literature (Hod):** Shy Look Today, Red Shoes, Spider Bud, Laetitia, Today's Shy Look, Black Swan.
+4. **Floor of Art (Netzach):** Universe Fragment, Porccubus, Alriune, Child of the Galaxy, Da Capo (The Silent Orchestra).
+5. **Floor of Natural Sciences (Tiphereth):** The Four Magical Girls (Knight of Despair, King of Greed, Queen of Hatred, Servant of Wrath) culminating in the Jester of Nihil.
+6. **Floor of Language (Gebura):** Little Red Riding Hooded Mercenary, Big and Will be Bad Wolf, Mountain of Smiling Bodies, Nosferatu, Nothing There.
+7. **Floor of Social Sciences (Chesed):** Scarecrow Searching for Wisdom, Warm-Hearted Woodsman, Road of the King, Homeovoid, Ozma (Emerald City).
+8. **Floor of Philosophy (Binah):** Big Bird, Punishing Bird, Judgement Bird, culminating in the terrifying **Apocalypse Bird**.
+9. **Floor of Religion (Hokma):** Burrowing Heaven, Price of Silence, Blue Star, WhiteNight.
+10. **Floor of General Works (Keter):** Bloodbath, Heart of Aspiration, Pinocchio, Snow Queen, Silent Girl.
 
-### D. The Climax: Forgiveness, Light, and The Head's Intervention
-- Roland and Angela confronted each other in a duel of raw sorrow. Choosing to break the cycle of vengeance, Roland stayed his blade, and Angela chose to release the stolen Light back into the City, returning all converted guests back to life.
+### D. The Reverberation Ensemble (잔향악단 / Janhyang Akdan)
+Led by **Argalia (The Blue Reverberation)**, an alliance of nine apex Distortions attacked the Library:
+- *Argalia:* Resonant Scythe wielder, conductor of the ensemble.
+- *Philip (The Crying Children):* Multi-faced angel of acoustic flame.
+- *Greta:* Shark-headed cannibal chef from District 23.
+- *Bremen:* Chimera musician formed of donkey, dog, cat, and rooster.
+- *Oswald:* Ringmaster of the 8 o'Clock Circus.
+- *Tanya:* Brutal martial beast driven by raw physical violence.
+- *Jae-heon (The Puppeteer):* String master who puppeted human corpses, including Angelica’s body and the Vermilion Cross.
+- *Elena (The Blood-red Night):* Second Kindred Bloodfiend drinking fresh blood.
+- *Pluto (The Yesterday's Promise):* Demonic legal contractor enforcing absolute binding pacts.
+
+### E. The Climax: Forgiveness and The Head's Intervention
+- Roland and Angela confronted each other in a duel of raw sorrow. Choosing to break the cycle of vengeance, Roland stayed his blade, and Angela released the stolen Light back into the City, returning all converted guests back to life.
 - Before the Light could fully restore, the Head intervened directly: **Arbiter Zena** and **Claw Baral** breached the Library to eradicate Angela, declaring that an AI attempting to display human emotion and regret violated the fundamental Taboo of the City.
 - Roland, Gebura, and Binah held off Zena and Baral long enough for Angela to teleport the entire Library away, casting it into the wild, untamed **Outskirts**.
 
@@ -124,7 +145,7 @@ On Day 50, Ayin dissolved his physical form into the Light, sending a brilliant 
 Limbus Company’s strike force consists of twelve deeply flawed individuals named after classic world literature:
 1. **No. 1 Yi Sang (이상):** Korea (*The Wings*). Former genius of the League of Nine Literati; architect of the Mirror.
 2. **No. 2 Faust (파우스트):** Germany (*Faust*). Super-genius who established the *Gesellschaft* across all Mirror Worlds.
-3. **No. 3 Don Quixote (돈키호테):** Spain (*Don Quixote*). Delusional justice-obsessed knight; secretly a second-generation Bloodfiend.
+3. **No. 3 Don Quixote (돈키호테):** Spain (*Don Quixote*). Delusional justice-obsessed knight; secretly **Sancho**, a Second Kindred Bloodfiend.
 4. **No. 4 Ryōshū (료슈):** Japan (*Hell Screen*). Sadistic artist-swordsman speaking in cryptic four-character acronyms; ties to the Ring and Five Fingers.
 5. **No. 5 Meursault (뫼르소):** France (*The Stranger*). Emotionless, hyper-rational former N Corp operative who obeys direct commands without moral hesitation.
 6. **No. 6 Hong Lu (홍루):** China (*Dream of the Red Chamber*). Wealthy, detached scion of an unimaginably powerful, abusive merchant dynasty.
@@ -135,14 +156,14 @@ Limbus Company’s strike force consists of twelve deeply flawed individuals nam
 11. **No. 11 Outis (오티스):** Greece (*The Odyssey*). Cunning, militaristic Smoke War veteran who conceals her true corporate allegiance beneath absolute obedience.
 12. **No. 12 Gregor (그레고르):** Austria (*The Metamorphosis*). Smoke War veteran whose right arm was genetically altered into an insectile roach limb by G Corp.
 
-### C. The Canto Story Arcs
-- **Canto I: The Outcast (Gregor):** Explores the trauma of G Corp’s fallen insect veterans and the biological nightmares of the Smoke War.
+### C. The Comprehensive Canto Arcs
+- **Canto I: The Outcast (Gregor):** Explores the trauma of G Corp’s fallen insect veterans and the biological nightmares of the Smoke War; Yuri's tragic death by the Golden Apple Abnormality.
 - **Canto II: The Unloving (Rodion):** Delves into J Corp's gambling casino slums and the revolutionary rhetoric of Sonya and the Yurodivy.
-- **Canto III: The Unconfronting (Sinclair):** Infiltrates District 14, confronting Kromer and the brutal anti-prosthetic purges of Nagel und Hammer.
-- **Canto IV: The Unchanging (Yi Sang):** Uncovers K Corp’s subterranean tear-harvesting horror, confronting the fractured League of Nine Literati (Dongbaek and Dongrang).
-- **Canto V: The Evil Defining (Ishmael):** Voyages across the Great Lake into the belly of the colossal Pallid Whale to destroy Captain Ahab’s toxic obsession.
-- **Canto VI: The Heartbreaking (Heathcliff):** Investigates T Corp’s manor of Wuthering Heights, confronting the multidimensional entity *Erlking Heathcliff* and erasing Catherine from reality.
-- **Canto VII: The Dream Ending (Don Quixote):** Explores the carnival ruins of District 16 and the vampiric hierarchy of the ancient Bloodfiends.
+- **Canto III: The Unconfronting (Sinclair):** Infiltrates District 14, confronting Kromer and the brutal anti-prosthetic purges of Nagel und Hammer; Demian intervenes to crush Kromer.
+- **Canto IV: The Unchanging (Yi Sang):** Uncovers K Corp’s subterranean tear-harvesting horror, confronting the fractured League of Nine Literati (Dongbaek and Dongrang); Yi Sang reclaims his wings of freedom.
+- **Canto V: The Evil Defining (Ishmael):** Voyages across the Great Lake into the belly of the colossal Pallid Whale to destroy Captain Ahab’s toxic obsession; Ricardo chases the Sinners for stolen hair coupons; Indigo Elder intervenes.
+- **Canto VI: The Heartbreaking (Heathcliff):** Investigates T Corp’s manor of Wuthering Heights, confronting the multidimensional entity *Erlking Heathcliff*; erasing Catherine from all Mirror Worlds to save Heathcliff.
+- **Canto VII: The Dream Ending (Don Quixote):** Infiltrates the carnival ruins of District 16 (La Mancha Land), uncovering Don Quixote's true identity as the Second Kindred Bloodfiend Sancho under Sanzon's family.
 
 ---
 

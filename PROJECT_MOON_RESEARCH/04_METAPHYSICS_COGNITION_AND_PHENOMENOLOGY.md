@@ -36,7 +36,7 @@ At the deepest philosophical and metaphysical core of the Project Moon universe 
 
 ---
 
-## 2. ABNORMALITIES (환상체 / HWANSANGCHE)
+## 2. ABNORMALITIES (환상체 / HWANSANGCHE) & CONTAINMENT MECHANICS
 
 An **Abnormality** (*Hwansangche* / 환상체) is not an alien, a genetic mutant, or an animal. It is a physicalized human concept, trauma, fable, or archetype given tangible, indestructible form.
 
@@ -65,20 +65,65 @@ An **Abnormality** (*Hwansangche* / 환상체) is not an alien, a genetic mutant
 4. **WAW:** High threat level. Exhibits potent psychological mind-control, area-of-effect damage, and complex breach conditions (e.g., *Queen of Hatred*, *King of Greed*, *Judgement Bird*, *Big Bird*).
 5. **ALEPH:** Existential catastrophe. ALEPHs warp physical reality, resist standard weaponry, and possess the power to annihilate entire facility departments or city blocks in minutes (e.g., *Apocalypse Bird*, *WhiteNight*, *Nothing There*, *Mountain of Smiling Bodies*, *CENSORED*).
 
-### B. The Four Work Protocols
-In Lobotomy Corporation, employees interact with Abnormalities through four strict containment rituals designed to harvest energy without triggering breaches:
-1. **Instinct Work (본능 작업):** Satisfies physical, physiological, and bodily needs (feeding, sensory satisfaction).
-2. **Insight Work (통찰 작업):** Cleans and manages the environmental enclosure (ventilation, lighting, hygiene).
-3. **Attachment Work (애착 작업):** Fulfills social, emotional, and psychological desires (conversation, companionship).
-4. **Repression Work (억압 작업):** Suppresses the entity's impulses, exerting strict dominance and denying its core desires.
+### B. The Four Damage Types
+Containment and combat operations in Lobotomy Corporation revolve around four distinct damage types:
+- **RED (Physical Damage):** Deals direct physical trauma to an employee's Hit Points (HP). Caused by claws, kinetic impacts, and lacerations.
+- **WHITE (Mental Damage):** Attacks an employee's Sanity Points (SP). If an employee's SP reaches 0, they fall into **Panic** (exhibiting manic homicidal rage, suicidal hysteria, or catatonic wandering based on their highest attribute).
+- **BLACK (Hybrid Damage):** Simultaneously damages both HP and SP in equal measure. Highly dangerous to unbalanced personnel.
+- **PALE (Death Damage):** Pure ontological/existential damage. Deals damage directly calculated as a **percentage of the victim’s maximum HP** (e.g., dealing 50% max HP per strike), bypassing standard armor metrics.
 
-### C. Qliphoth Counter (클리포트 카운터) and Enkephalin (엔케팔린)
-- **Qliphoth Counter:** An artificial metric representing the strength of the facility's containment barrier over the Abnormality. Violating work preferences, bad work results, or environmental stress reduces the counter. When the counter reaches zero, the Abnormality breaches its containment chamber.
-- **Enkephalin:** The bio-mental energy harvested during work sessions. Enkephalin is cleanly refined into liquid fuel or gas, which powered Lobotomy Corporation and served as the premier energy commodity of District 12.
+### C. The Four Work Protocols & Employee Attributes
+Employees develop four primary attributes through specific containment tasks:
+1. **Instinct Work (본능 작업) -> Fortitude (체력):** Fulfills physical and physiological needs; increases maximum HP.
+2. **Insight Work (통찰 작업) -> Prudence (정신력):** Manages environmental hygiene and facility conditions; increases maximum SP.
+3. **Attachment Work (애착 작업) -> Temperance (절제):** Satisfies emotional, conversational, and social desires; increases work success rate and interaction speed.
+4. **Repression Work (억압 작업) -> Justice (정의):** Suppresses the entity's impulses with strict authority; increases attack speed and movement speed.
+
+### D. Qliphoth Counter and Enkephalin
+- **Qliphoth Counter:** The artificial containment metric maintaining the containment field. Bad work results or environmental panic reduce the counter. At zero, the entity breaches.
+- **Enkephalin:** Pure bio-mental energy harvested during successful work routines, refined into clean liquid fuel or pressurized gas.
 
 ---
 
-## 3. E.G.O (EXTERMINATION OF GEOMETRICAL ORGAN)
+## 3. ORDEALS (시련 / SIRYEON)
+
+During Lobotomy Corporation operations, the collective mental strain of the facility draws forth disruptive cosmic trials known as **Ordeals** (*Siryeon* / 시련). Unlike Abnormalities, Ordeals cannot be contained; they materialize in hallways to slaughter personnel and induce mass meltdowns.
+
+```text
++==============================================+
+|          THE FOUR TIERS OF ORDEALS           |
++==============================================+
+| Tier                 | Threat Level          |
++======================+=======================+
+| Dawn (새벽)          | TETH Hazard           |
++----------------------+-----------------------+
+| Noon (낮)            | HE Hazard             |
++----------------------+-----------------------+
+| Dusk (저녁)          | WAW Hazard            |
++----------------------+-----------------------+
+| Midnight (자정)      | ALEPH Calamity        |
++======================+=======================+
+```
+
+### A. The Ordeal Color Archetypes
+- **Amber (Worms / The Food Chain):** Worm-like chimeras tunneling through walls to overwhelm employees with continuous Red damage (*Dawn: Perfect Food*, *Noon: Scurrying Grudge*, *Dusk: Food Chain*, *Midnight: Eternal Hunger*).
+- **Crimson (Circus / The Clowns):** Distorted carnival performers and clowns that trigger explosive traps upon death and breach containment cells (*Dawn: Clowns*, *Noon: Circus*, *Dusk: Feast*).
+- **Green (Machinery / Ancient Steam):** Brutal clockwork automatons armed with heavy kinetic saws and cannons (*Dawn: Doubt*, *Noon: Process*, *Dusk: Briar*, *Midnight: Spiral of Contempt* — sweeping lethal lasers across whole sectors).
+- **Indigo (Sweepers / Industry):** Materializes during *Indigo Noon*, venting steam as armored Sweepers breach the facility to harvest agents into slurry.
+- **Violet (Cosmic / Eldritch Appendages):** Cosmic limbs and monolithic stone obelisks warping reality (*Dawn: Fruit of Understanding*, *Noon: God at Noon*, *Midnight: God Delusion*).
+- **Midnight Ordeals:** Completely immune to the temporal reversal effects of the *Backward Clock*.
+
+### B. The Ordeals of White (Keter Meltdown / Days 46–49)
+During the final realization days of Keter, standard Ordeals are replaced by the **White Ordeals**, summoning materialized **Fixers**:
+- *Red Fixer:* Long-range anti-material sniper rifle.
+- *White Fixer:* Psychic hammer dealing devastating SP damage.
+- *Black Fixer:* Dual blades dealing hybrid damage.
+- *Pale Fixer:* Scythe dealing lethal %-HP pale damage.
+- *Midnight of White (Day 49):* The supreme intervention where the facility is invaded by the **Claw (Baral)** and an echo of **Arbiter Garion**.
+
+---
+
+## 4. E.G.O (EXTERMINATION OF GEOMETRICAL ORGAN)
 
 ```text
 +==============================================+
@@ -92,9 +137,10 @@ In Lobotomy Corporation, employees interact with Abnormalities through four stri
 +======================+=======================+
 ```
 
-### A. Extracted E.G.O (Equipped Weapons and Suits)
+### A. Extracted E.G.O (Equipped Weapons, Suits, and Gifts)
 - **Extraction:** Developed in Lobotomy Corporation’s Extraction Team (overseen by Binah/Garion). By analyzing the conceptual resonance of an Abnormality, a physical weapon and protective suit can be drawn out of its form.
-- **Cognitive Synchronization:** E.G.O equipment is not mere metal and cloth; it is living, physicalized emotion. An employee equipping an ALEPH-grade weapon (such as *Mimicry* or *Paradise Lost*) must possess immense mental fortitude. If the user’s mind weakens, the E.G.O's conceptual weight will consume their sanity, causing them to panic or mutate.
+- **E.G.O Gifts:** Ephemeral or permanent biological/aesthetic accoutrements (wings, halos, masks, horns) that attach to an agent's body after performing exceptionally resonant work with an Abnormality, providing enhanced combat attributes.
+- **Cognitive Synchronization:** E.G.O equipment is living, physicalized emotion. An employee equipping an ALEPH-grade weapon (such as *Mimicry* or *Paradise Lost*) must possess immense mental fortitude. If the user’s mind weakens, the E.G.O's conceptual weight will consume their sanity, causing them to panic or mutate.
 
 ### B. Personal Awakened E.G.O (자생 E.G.O)
 - **Definition:** An E.G.O manifested directly from an individual human's own soul, without borrowing from an external Abnormality.
@@ -106,7 +152,7 @@ In Lobotomy Corporation, employees interact with Abnormalities through four stri
 
 ---
 
-## 4. THE SEED OF LIGHT PROJECT AND THE DISTORTION PHENOMENON
+## 5. THE SEED OF LIGHT PROJECT AND THE DISTORTION PHENOMENON
 
 ```text
 +==============================================+
@@ -128,7 +174,7 @@ In Lobotomy Corporation, employees interact with Abnormalities through four stri
 
 ### A. The Seed of Light Project (빛의 씨앗 계획)
 - **Carmen’s Vision:** Carmen observed that the citizens of the City suffered from a fatal spiritual affliction: they had lost the ability to love, hope, or see themselves as human beings, reduced to cogs in corporate slaughterhouses. Her goal was to plant the "Seed of Light" within every human soul, granting them emotional clarity and self-realization.
-- **Ayin’s Execution:** To complete the Seed, Ayin subjected the facility and Angela to a brutal, repeating 50-day cycle spanning over **one million years** of subjective time. During this ordeal, the Sephirah confronted and overcame their past traumas (virtues of hope, discretion, longing, etc.).
+- **Ayin’s Execution:** To complete the Seed, Ayin subjected the facility and Angela to a repeating 50-day cycle spanning over **one million years** of subjective time. During this ordeal, the Sephirah confronted and overcame their past traumas (virtues of hope, discretion, longing, etc.).
 - **The Seven Days of Illumination:** On Day 50, the Seed sprouted, radiating pure Light upward through the Alpha Tree roots across the City. It was intended to shine for **seven full days** to completely purify human consciousness.
 
 ### B. Angela’s Interruption
@@ -141,10 +187,42 @@ In Lobotomy Corporation, employees interact with Abnormalities through four stri
 - **The Whisper of Surrender:** Carmen does not encourage resilience; she urges the individual to give up trying to satisfy the expectations of others, to abandon social morals, and to embrace their deepest, most selfish obsessions.
 - **The Transformation:** If the individual accepts Carmen’s voice, their physical body violently mutates to outwardly reflect their internal neurosis, turning them into a **Distortion**.
 - **Notable Distortions:**
-  - *The Pianist (피아니스트):* A failed, impoverished musician in District 9 who distorted into an enormous biological piano made of human corpses, butchering 300,000 citizens (including Angelica) to play his masterpiece.
+  - *The Pianist (피아니스트):* A failed musician in District 9 who distorted into an enormous biological piano made of human corpses, butchering 300,000 citizens to play his masterpiece.
   - *The Crying Children (우는 아이들 - Philip):* An apprentice Fixer who distorted into a multi-faced, crying angel of acoustic fire after losing all his comrades.
   - *The Brazen Bull, Dongbaek, Dongrang, Hindley, Erlking Heathcliff.*
 
-### D. Abnormalities vs. Distortions: Structural Comparison
-- **Abnormalities:** Extracted from the collective, primordial Well via Cogito. They are timeless, immortal archetypes that represent universal human fears. When defeated, they revert to eggs or fragments.
-- **Distortions:** Individual, living human beings whose personal bodies and minds have mutated outward due to Carmen's voice interacting with their specific personal trauma. They can be killed, and some can theoretically be reverted if their psychological knot is unraveled.
+### D. The Distortion Detective (뒤틀림 탐정) & Reversibility
+- According to **Moses**, the Distortion is an incubating disease present within all City citizens. Moses can perceive invisible emotional smoke indicating pre-distortion instability.
+- Unlike Abnormalities (which are immortal archetypes), a Distortion can theoretically be **reversed and cured** if an investigator successfully resolves the underlying emotional knot, allowing the individual to regain their humanity.
+
+---
+
+## 6. PECCATULA (죄종 / JOEJONG) — THE SEVEN DEADLY SINS
+
+```text
++==============================================+
+|         THE SEVEN PECCATULA STRAINS          |
++==============================================+
+| Latin Strain         | Associated Sin        |
++======================+=======================+
+| Peccatulum Irae      | Wrath (분노)          |
++----------------------+-----------------------+
+| Peccatulum Luxuriae  | Lust (색욕)           |
++----------------------+-----------------------+
+| Peccatulum Pigritiae | Sloth (나태)          |
++----------------------+-----------------------+
+| Peccatulum Gulae     | Gluttony (탐식)       |
++----------------------+-----------------------+
+| Peccatulum Morositatis| Gloom (우울)         |
++----------------------+-----------------------+
+| Peccatulum Superbiae | Pride (오만)          |
++----------------------+-----------------------+
+| Peccatulum Invidiae  | Envy (질투)           |
++======================+=======================+
+```
+
+### A. Nature and Origin of Peccatula
+- **Failed Distortions:** While Distortions retain and amplify an individual’s personal neurosis, a **Peccatulum** (plural: *Peccatula* / 죄종) is born when a human being attempts and **fails** to distort.
+- **Total Erasure of Individuality:** The person completely ceases to exist. All personal identity, memories, and desires are wiped away, leaving behind a feral, animalistic beast embodying pure human sin.
+- **Classes 1, 2, and 3:** Peccatula evolve into higher classes when exposed to the radiant energy of the **Golden Boughs**, growing exponentially in scale, armor, and lethal aggression.
+- **Artificial Generation:** Organizations such as **N Corp** and the **Ring** have mastered methods to artificially induce Peccatula using the high refraction rate of the Glass Window or Monolith devices.

@@ -24,6 +24,8 @@ The technological and philosophical foundation of parallel dimensional observati
 | Gubo (구보)          | N Corp Co-Conspirator |
 +----------------------+-----------------------+
 | Aseah (아세아)       | Ring / Mirror Weaponry|
++----------------------+-----------------------+
+| Rim (림)             | League Intellectual   |
 +======================+=======================+
 ```
 
@@ -39,11 +41,12 @@ The technological and philosophical foundation of parallel dimensional observati
 ### C. The Infiltration and Fracture of the League
 - The League’s existence caught the attention of predatory Wings and power brokers.
 - **Hermann** (director of N Corp) and **Dias** orchestrated the destruction of the League from within:
-  - **Dongrang** abandoned the League’s pure ideals to pursue corporate prestige at **K Corp**, eventually sacrificing the League's memories to climb the executive ladder.
+  - **Dongrang** abandoned the League’s pure ideals to pursue corporate prestige at **K Corp**, eventually sacrificing the League's memories to climb the executive ladder and oversee the tear-harvesting laboratory.
   - **Gubo** defected to **N Corp**, working directly with Hermann to militarize the Mirror.
-  - **Aseah** allied with the **Ring** syndicate, subjecting kidnapped children to the Glass Window to force weaponized identity extraction.
+  - **Aseah** allied with the **Ring** syndicate, subjecting kidnapped children to the Glass Window to force weaponized identity extraction and peccatula creation.
   - **Dongbaek** formed a violent eco-terrorist resistance, attempting to blow up K Corp's tear-refining laboratories with her awakened E.G.O *Spicebush*.
-  - **Young-ji** was assassinated or vanished, and **Yi Sang** fell into catatonic, self-loathing despair before being rescued by Faust and Limbus Company.
+  - **Young-ji** was assassinated or vanished under mysterious circumstances, leaving his mirror blueprints behind.
+  - **Yi Sang** fell into catatonic, self-loathing despair before being rescued by Faust and Limbus Company.
 
 ---
 
@@ -86,6 +89,7 @@ The primary combat system utilized by Limbus Company is the technology of **Iden
 - **Mephistopheles:** The amphibious corporate bus driven by Charon and commanded by Dante.
 - Inside the engine compartment of Mephistopheles sits an advanced extraction apparatus co-engineered by **Faust** and **Aseah**, powered by Enkephalin and connected to the resonance of the **Golden Boughs**.
 - The engine scans infinite Mirror Worlds, isolates an alternate version of a specific Sinner who possessed superior combat training or specific weapons, and extracts their conceptual data into an **Identity ID**.
+- **The Backdoor Connection:** The back door of Mephistopheles utilizes Ring-like **Corridor** technology, connecting the bus interior directly to spatial supply corridors across the City.
 
 ### B. The Overwriting Process and Cognitive Bleed
 - When Dante authorizes an Identity shift, the alternate persona is superimposed directly over the physical body and nervous system of the Sinner.

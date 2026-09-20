@@ -43,7 +43,7 @@ The City is partitioned geometrically into **twenty-six distinct administrative 
 - **The Underclass:** Surrounding every Nest are the Backstreets. The Backstreets house the vast majority of the City’s population. Life in the Backstreets is characterized by squalor, overpopulation, extreme poverty, rampant crime, and the total absence of formal civic protection.
 - **Absence of Governance:** The Wings do not police or protect the Backstreets within their Districts unless Backstreet violence threatens to spill over into the Nest, damages corporate infrastructure, or disrupts transit corridors (such as Warp Train stations).
 - **Syndicate Hegemony:** In the vacuum of official law enforcement, the Backstreets are governed by criminal syndicates, gangs, Fixer offices, and the overwhelming authority of the **Five Fingers** (*Son-garak* / 손가락). Inhabitants must pay protection taxes to local syndicates or risk execution, organ harvesting, or forced labor.
-- **Cannibalism and Bio-Processing:** Due to extreme resource scarcity and corporate negligence, cannibalism and illegal biological salvaging are common realities in the deeper Backstreets. "Meat pies" and illicit bodily augmentations are widespread.
+- **Cannibalism and Bio-Processing:** Due to extreme resource scarcity and corporate negligence, cannibalism and illegal biological salvaging are common realities in the deeper Backstreets. "Meat pies" (served in District 23) and illicit bodily augmentations are widespread.
 
 ### D. District Borders and Checkpoints
 - Traveling between Districts is heavily restricted and strictly monitored.
@@ -52,7 +52,7 @@ The City is partitioned geometrically into **twenty-six distinct administrative 
 
 ---
 
-## 2. THE OUTSKIRTS (외곽 / OEGWAK), THE RUINS, AND THE BLACK FOREST
+## 2. THE OUTSKIRTS (외곽 / OEGWAK), THE RUINS, AND THE GREAT LAKE
 
 Beyond the outermost fortified perimeter of the City lies the untamed, unmapped world.
 
@@ -73,8 +73,29 @@ Beyond the outermost fortified perimeter of the City lies the untamed, unmapped 
 ### C. The Great Lake (대호수 / Daehosu)
 - **Topography:** Dominating **District 21 (U Corp)** and spilling far outward into the aquatic expanse, the Great Lake is a colossal, unnatural body of water governed by entirely unique physical and cosmological rules.
 - **Waves and Calamities:** The Lake is divided into shifting territories dominated by titanic monstrosities known as **Whales** (*Gorae* / 고래), categorized among the **Five Calamities** (*O-dae Jaeang* / 5대 재앙).
-- **Mermaidification (인어화):** The bodily fluids, breath, and secretions of the Whales possess infectious transformative properties. Humans exposed to Whale fluids (or consumed into their bellies) have their flesh, bones, and minds transfigured into aquatic, coral-like chimera known as **Mermaids** (*In-eo* / 인어), losing their human individuality to serve the Whale’s ecosystem.
-- **The Rules of Navigation:** U Corp enforces the strict, esoteric **Rules of the Lake**. Sailing across the Great Lake does not follow conventional marine navigation; vessels must obey bizarre, highly specific rituals (e.g., specific sailing angles, silence protocols, or intentional offerings) to avoid angering the waves and drawing the attention of the Calamities.
+- **Whale Varieties:** Includes the colossal **Pallid Whale** (capable of swallowing entire fleets and bleaching reality into pale calcified growths) and the **Dreaming Current**.
+- **Mermaidification (인어화):** The bodily fluids, breath, and secretions of the Whales possess infectious transformative properties. Humans exposed to Whale fluids (or consumed into their bellies) have their flesh, bones, and minds transfigured into aquatic, coral-like chimeras known as **Mermaids** (*In-eo* / 인어), losing their human individuality to serve the Whale’s ecosystem.
+- **The 21 Rules of Navigation:** U Corp enforces strict, esoteric maritime laws across the Lake. Sailing does not follow conventional navigation; vessels must obey bizarre, highly specific rituals (e.g., maintaining specific compass angles, complete silence during specific tide intervals, or sacrificial offerings to the waves) to prevent attracting the Calamities.
+
+### D. Bloodfiends (혈귀 / Hyeolgwi) — The Ancient Night Breed
+- **Species Nature:** Bloodfiends are an ancient, blood-dependent race of humanoids who have lived in secret throughout City history. They are virtually immortal and immune to aging as long as they consume fresh, flowing human blood.
+- **Origins:** Bloodfiends originate through three distinct mechanisms:
+  1. Being embraced (bitten and turned) by a higher-generation Bloodfiend Kindred.
+  2. Spontaneously manifesting via the **Distortion Phenomenon** as a stereotyped physiological distortion.
+  3. Receiving the blood of the Primogenitor in a mysterious "certain mansion".
+- **The Kindred Hierarchy:**
+  - **The Primogenitor:** The original progenitor of all Bloodfiends.
+  - **First Kindreds (1세대 혈귀):** Exactly twenty-five First Kindreds exist, each having settled in one of the twenty-five Districts to establish their own "Family" and cull their kin to maintain a quiet, hidden existence.
+  - **Second Kindreds (2세대 혈귀):** Direct offspring of the First Kindreds, including legendary figures such as **Elena (The Blood-red Night / 붉은 밤)** and **Sancho (Don Quixote)**.
+  - **Lower Kindreds (3rd through 7th Kindred):** Descendants such as Cassetti (7th Kindred), Dulcinea, the Barber, and the Priest.
+- **Physiological Traits & Limitations:**
+  - Red eyes (though common among cybernetic optical augmentations).
+  - Black and crimson crystalline blood-growths emerging across facial features during combat.
+  - Extreme cellular regeneration fueled by consuming fresh blood.
+  - **Hydrophobia:** An innate, irrational psychological terror of flowing water (which only high-generation Kindreds can mentally overcome).
+  - **Arithmomania:** A compulsive psychological urge to count objects.
+  - **Bloodbags (혈낭):** Humans whose blood has been drained and replaced with Bloodfiend fluids, reducing them to mindless, obedient blood-slaves.
+  - **Bloodfiend Hunters:** Specialized Fixer offices (such as the Devyat or Cinq contractors) dedicated exclusively to hunting and exterminating rogue Bloodfiends.
 
 ---
 
@@ -97,15 +118,15 @@ The ultimate governing regime of the City is known as **The Head** (*Meori* / �
 ```
 
 ### A. A Corp — The Arbiters (조율자 / Joyulja)
-- **Role:** The direct voice, executive will, and legal arbiters of the Head. Notable Arbiters include **Garion** (who led the raid on the Outskirts laboratory) and **Zena** (who intervened during the climax of *Library of Ruina*).
-- **Combat & Singularities:** Arbiters do not fight using conventional weapons. They wield the collected Singularities of the Wings at will. They manipulate **Fairies** (F Corp Singularity: opening/unraveling any defense or barrier), **Locks** (J Corp Singularity: locking concepts or space), and golden shockwaves that manipulate gravity and dimensional space. They possess absolute combat dominance over even Grade 1 Fixers.
+- **Role:** The direct voice, executive will, and legal arbiters of the Head. Notable Arbiters include **Garion** (who led the historical raid on Carmen's Outskirts laboratory) and **Zena** (who breached the Library during the climax of *Library of Ruina*).
+- **Combat & Singularities:** Arbiters do not fight using conventional weapons. They wield the collected Singularities of all Wings at will. They manipulate **Fairies** (F Corp Singularity: dissolving and opening any physical or conceptual barrier), **Locks** (J Corp Singularity: locking space and concepts), and golden gravitational shockwaves (*Paling*). They possess absolute combat dominance over even Grade 1 Fixers and Color Fixers.
 
 ### B. B Corp — The Eye / The Beholders (주시자 / Jusija)
-- **Role:** The supreme surveillance and intelligence apparatus. The Eye observes all activities within the 26 Districts via an omnipresent, near-omniscient network of physical, electronic, and cognitive sensors.
-- **Function:** The Beholders detect any violation of the Head’s Taboos, monitor patent registrations for Singularities, and track structural anomalies across the City. Nothing occurs in the City without the Beholders eventually noting it.
+- **Role:** The supreme surveillance and intelligence apparatus of the Head. Notable Beholders include **Luda**.
+- **Function:** The Eye observes all activities within the 26 Districts via an omnipresent, near-omniscient network of physical, electronic, and cognitive sensors. The Beholders detect any violation of the Head’s Taboos, monitor patent registrations for Singularities, and track structural anomalies across the City. Nothing occurs in the City without the Beholders eventually noting it.
 
 ### C. C Corp — The Claws (발톱 / Baltop)
-- **Role:** The undisputed executioners and shock-troop enforcers of the Head. When the Head decrees the liquidation of an organization, syndicate, or rogue Wing, the Claws are dispatched. A single Claw (such as **Baral**) can slaughter entire armies of elite Fixers and corporate security personnel.
+- **Role:** The undisputed executioners and shock-troop enforcers of the Head. Notable Claws include **Baral**.
 - **Equipment & Serums:** Claws are heavily armored, biomechanically augmented cyborg warriors equipped with massive tri-claw gauntlets. They utilize three proprietary corporate serums injected directly into their vascular systems during combat:
   1. **Serum W (W Corp):** Allows instantaneous spatial warping and short-range teleportation behind targets.
   2. **Serum K (K Corp):** Grants instantaneous cellular regeneration, closing fatal lacerations and regrowing severed limbs within seconds.
@@ -119,7 +140,7 @@ The Head does not interfere in everyday street crime, syndicate warfare, or huma
 
 However, the Head enforces a set of absolute, non-negotiable laws known as **The Taboos** (*Geumgi* / 금기). Any violation of a Taboo results in immediate, merciless extermination by the Arbiters and Claws.
 
-### A. The Taboo Against Human-Mimicking Artificial Intelligence
+### A. The Artificial Intelligence Ethics Amendment (인공지능 윤리 개정안)
 - **The Law:** It is strictly forbidden to construct an Artificial Intelligence that resembles a human in appearance, mimics human emotions, or possesses cognitive faculties indistinguishable from a human soul.
 - **Historical Context:** This law was enacted to preserve the definition of "humanity" as the exclusive currency of suffering and will in the City. Angela, the AI constructed by Ayin to manage Lobotomy Corporation, was deliberately designed in the physical image of Carmen but had to be kept hidden in the deepest subterranean bunkers to prevent A Corp from liquidating the facility. When Angela surfaced during the events of *Library of Ruina* and attempted to claim humanity, the Head dispatched Arbiter Zena and Claw Baral to purge her.
 
@@ -133,7 +154,7 @@ However, the Head enforces a set of absolute, non-negotiable laws known as **The
 - **Engineering Limitations:**
   - Firearm barrels cannot exceed strict caliber limits.
   - Bullets cannot be engineered to pierce reinforced structural concrete or steel building columns (to prevent the physical destruction of the City’s architectural framework).
-  - Sound suppressors (silencers) are strictly illegal; gunfire must be audibly detectable.
+  - Sound suppressors (silencers) are strictly illegal; gunfire must be audibly detectable across a designated decibel threshold.
 
 ### D. The Seven-Day Cloning Rule (The Duplication Taboo)
 - **The Law:** Under no circumstances may more than one living instance of an individual human exist simultaneously within the City for longer than **seven calendar days**.
@@ -183,4 +204,4 @@ The most terrifying civic mechanism within the City’s urban cycle is the pheno
 - Any living human caught outside during these 81 minutes is immediately swarmed, hooked, and dragged down. 
 - The Sweepers dismantle human bodies, liquefying corpses and biological tissue using chemical enzymes, and pump the resulting organic slurry into their back tanks.
 - When 04:34 AM arrives, the Sweepers instantly vanish back underground. At sunrise, the Backstreets are completely clean of blood, severed limbs, and dead bodies.
-- **Cosmological Function:** The biological slurry collected by the Sweepers is not discarded; it is sold to corporate entities (such as Old L Corp or food production facilities) to be processed into fuel, biofuel lubricants, or synthetic nutrients for the City.
+- **Cosmological Function:** The biological slurry collected by the Sweepers is sold directly to corporate entities (such as Old L Corp or food production facilities) to be refined into industrial fuel, biofuel lubricants, or synthetic nutrients for the City.

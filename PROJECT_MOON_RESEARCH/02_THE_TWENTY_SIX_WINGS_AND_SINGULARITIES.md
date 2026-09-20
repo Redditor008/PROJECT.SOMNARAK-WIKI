@@ -48,7 +48,7 @@ In the Project Moon universe, the entire technological and economic infrastructu
 +==============================================+
 | Wing Corp            | Proprietary Tech      |
 +======================+=======================+
-| A Corp (머리)        | Extraction & Locks    |
+| A Corp (머리 / 본체) | Extraction & Paling   |
 +----------------------+-----------------------+
 | B Corp (주시자)      | Omniscient Optics     |
 +----------------------+-----------------------+
@@ -56,9 +56,15 @@ In the Project Moon universe, the entire technological and economic infrastructu
 +----------------------+-----------------------+
 | D Corp               | Structural Reversion  |
 +----------------------+-----------------------+
+| E Corp               | Energy Conversion     |
++----------------------+-----------------------+
 | F Corp (요정)        | Spatial Unlocking     |
 +----------------------+-----------------------+
 | G Corp (Fallen)      | Gravity & Chimeras    |
++----------------------+-----------------------+
+| H Corp (홍원생명)    | Cellular Transmutat.  |
++----------------------+-----------------------+
+| I Corp               | Illumination/Holo     |
 +----------------------+-----------------------+
 | J Corp               | Probability Locks     |
 +----------------------+-----------------------+
@@ -66,110 +72,117 @@ In the Project Moon universe, the entire technological and economic infrastructu
 +----------------------+-----------------------+
 | L Corp (Lobotomy)    | Enkephalin Extraction |
 +----------------------+-----------------------+
-| M Corp               | Moonbeam Mental Shield|
+| M Corp (MDM)         | Moonbeam Mental Shield|
 +----------------------+-----------------------+
 | N Corp               | Canned Experience     |
 +----------------------+-----------------------+
+| O Corp               | Spatial Compression   |
++----------------------+-----------------------+
+| P Corp               | Stasis Portals        |
++----------------------+-----------------------+
+| Q Corp               | Rapid Solidification  |
++----------------------+-----------------------+
 | R Corp               | Hatchery Cloning      |
 +----------------------+-----------------------+
-| T Corp               | Time-Tax & Dilation   |
+| S Corp (살빛벼)      | Agro-Genetic Dystopia |
++----------------------+-----------------------+
+| T Corp (TimeTrack)   | Time-Tax & Dilation   |
 +----------------------+-----------------------+
 | U Corp               | Resonance Tuning      |
 +----------------------+-----------------------+
-| W Corp               | Spatial Restoration   |
+| V Corp               | Visual Refraction     |
++----------------------+-----------------------+
+| W Corp (WARP Corp)   | Spatial Restoration   |
++----------------------+-----------------------+
+| X Corp, Y Corp, Z    | Perimeter Wings       |
 +======================+=======================+
 ```
 
-### A Corp — The Head (머리)
-- **District:** District 1.
+### District 1: A Corp — The Head (머리)
 - **Singularity:** Dimensional Sovereignty, Concept Manipulation, and Arbiter Extraction. A Corp controls the foundational patents that govern the City. Arbiters wield "Fairies" (which dissolve and pierce any matter) and "Paling" (golden forcefields that immobilize space).
 
-### B Corp — The Eye / The Beholders (주시자)
-- **District:** District 2.
+### District 2: B Corp — The Eye / The Beholders (주시자)
 - **Singularity:** Omnipresent Perceptive Networks. B Corp operates visual and cognitive surveillance systems capable of penetrating any wall, digital firewall, or dimensional fold across all 26 Districts.
 
-### C Corp — The Claw (발톱)
-- **District:** District 3.
+### District 3: C Corp — The Claw (발톱)
 - **Singularity:** High-Density Biochemical Fusion and Warping Serums. C Corp synthesizes the combat serums (Serum W, Serum K, Serum R) utilized by the Claws to execute absolute physical enforcement.
 
-### D Corp
-- **District:** District 4 (Adjacent).
+### District 4: D Corp
 - **Singularity:** Temporal Structural Reversion. Capable of restoring damaged physical architecture and non-organic materials back to an earlier pristine state, reversing physical decay and explosive damage.
 
-### F Corp — Fairy (요정)
-- **District:** District 6.
+### District 5: E Corp
+- **Singularity:** Energy Extraction and High-Output Catalytic Conversion. Handles multi-district electrical grid conversion and power transmutation.
+
+### District 6: F Corp — Fairy (요정)
 - **Singularity:** "Fairy" (요정 / The Unlocking Singularity). F Corp's Singularity allows any door, seal, barrier, spatial dimension, or metaphysical concept to be completely unlocked, opened, or penetrated. Licensed to W Corp to breach dimensional barriers for WARP Trains.
 
-### G Corp (Fallen Wing) — Gravity & Bio-Augmentation
-- **District:** District 7 (Former).
+### District 7: G Corp (Fallen Wing) — Gravity & Bio-Augmentation
 - **Singularity:** Gravity Manipulation (former). During the Smoke War, G Corp utilized gravity fields to compress matter.
-- **Fall of G Corp:** Facing bankruptcy and strategic defeat, G Corp desperate modified its infantry with insectile chimera genes (roaches, beetles, wasps). Veterans like **Gregor** were left with monstrous insect limbs. Following their defeat in the Smoke War, G Corp fell, leaving its veterans abandoned as traumatized dregs in the Backstreets.
+- **Fall of G Corp:** Facing bankruptcy and strategic defeat, G Corp desperately modified its infantry with insectile chimera genes (roaches, beetles, wasps). Veterans like **Gregor** and **Outis** were left with monstrous physical or psychological trauma. Following their defeat in the Smoke War, G Corp fell, leaving its veterans abandoned as traumatized dregs in the Backstreets.
 
-### J Corp — Locks & Wagers
-- **District:** District 10.
+### District 8: H Corp — Hongyuan Bioengineering Group (홍원생명)
+- **Singularity:** Cellular Transfiguration and Biological Transmutation. Specializes in advanced bio-synthetic organs and cellular restructuring.
+
+### District 9: I Corp
+- **Singularity:** Illumination and Spatial Holographic Projection. Site of the infamous Pianist massacre where 300,000 citizens were slaughtered.
+
+### District 10: J Corp — Locks & Wagers
 - **Singularity:** Unpickable Probability Locks and Absolute Sealing. J Corp specializes in creating seals that cannot be opened unless specific, improbable conditions or gambling outcomes are met. The District functions as an immense casino-resort economy.
 
-### K Corp — The Tears of Regeneration
-- **District:** District 11.
+### District 11: K Corp — The Tears of Regeneration
 - **Singularity:** HP Ampules & Rapid Biological Regeneration.
 - **The Secret:** K Corp's miracle healing fluid is harvested from the **Eye of the Lotus** (or "Tear of the Weeping Eye"), an enormous, tragic anomalous creature kept in their deepest subterranean laboratory. The creature weeps tears of profound regenerative power *only when exposed to videos of extreme human suffering and despair*. K Corp systematically broadcasts horrific scenes of torture, murder, and misery to the entity to harvest its tears. Key personnel include the corrupt researcher **Dongrang**, the resistance figure **Dongbaek**, and corporate idol **Siegfried**.
 
-### L Corp (Old L Corp) — The Smoke Wing (Fallen)
-- **District:** District 12 (Former).
+### District 12: L Corp (Old L Corp) — The Smoke Wing (Fallen)
 - **Singularity:** Bio-Combustion Energy. Old L Corp supplied the City’s electrical power by burning organic biological waste (including human corpses procured from the Sweepers) inside colossal underground furnaces. The byproduct was an all-consuming, toxic black smoke that poisoned the City and triggered the Smoke War.
 
-### L Corp (Lobotomy Corporation) — The Extraction Wing (Fallen)
-- **District:** District 12 (Subterranean).
+### District 12: L Corp (Lobotomy Corporation) — The Extraction Wing (Fallen)
 - **Singularity:** Cogito Extraction and Enkephalin Production. Founded by **Ayin (A)** and **Carmen**, Lobotomy Corp replaced Old L Corp after the Smoke War. By injecting Cogito into human subjects, they extracted **Abnormalities** (*Hwansangche*) and harvested clean mental-emotional energy known as **Enkephalin**. The true purpose of Lobotomy Corporation was not energy production, but the realization of the **Seed of Light Project**.
 
-### M Corp — Moonbeams (Mental Stabilization)
-- **District:** District 13.
-- **Singularity:** The "Moonlight Stone" (*Wol-gwangseok*). M Corp produces rays and barriers of soothing luminescence that stabilize human cognition. Their technology shields the minds of corporate workers, preventing them from going insane when exposed to horrific urban phenomena or terrifying corporate operations.
+### District 13: M Corp — MDM Entreprise (Moonlight Stone)
+- **Singularity:** The "Moonlight Stone" (*Wol-gwangseok*). M Corp produces rays and barriers of soothing luminescence ("Moonbeams") that stabilize human cognition. Their technology shields the minds of corporate workers, preventing them from going insane when exposed to horrific urban phenomena or terrifying corporate operations.
 
-### N Corp — Canned Experiences & Nagel und Hammer
-- **District:** District 14.
+### District 14: N Corp — Canned Experiences & Nagel und Hammer
 - **Singularity:** "Canned Experiences" (*Gyeongheom Tongjorim*). N Corp’s Singularity allows human experiences, sensory memories, and emotional states to be extracted and preserved inside physical cans, which can then be ingested by consumers to relive the experience.
 - **Corporate Ideology (Nagel und Hammer):** N Corp is dominated by fanatical purism that violently condemns mechanical prosthetics and cyborg augmentations. Cult-like inquisitors led by **Kromer** systematically hunt down and execute anyone possessing prosthetic limbs, demanding that humanity retain the "purity of suffering flesh". Senior directors include **Hermann** and researcher **Gubo**.
 
-### O Corp — Spatial Folding
-- **District:** District 15.
+### District 15: O Corp — Spatial Folding
 - **Singularity:** High-Density Spatial Compression. O Corp can fold massive physical volumes into compact containers, allowing skyscrapers or massive industrial machinery to be stored inside handheld cases.
 
-### P Corp — Stasis and Preservation
-- **District:** District 16.
+### District 16: P Corp — Stasis and Preservation
 - **Singularity:** Absolute Temporal/Biological Stasis. Objects or biological organisms placed inside P Corp stasis portals remain entirely unaltered by time, thermodynamic decay, or physical trauma.
 
-### Q Corp — Instant Solidification
-- **District:** District 17.
+### District 17: Q Corp — Instant Solidification
 - **Singularity:** Rapid Fluid Solidification. Q Corp produces specialized chemical fluids that solidify instantly upon contact with air or kinetic pressure, forming near-indestructible kinetic barriers.
 
-### R Corp — The 4th Pack & The Hatchery (Cloning)
-- **District:** District 18.
+### District 18: R Corp — The 4th Pack & The Hatchery (Cloning)
 - **Singularity:** Biological Cloning Bio-Printing ("The Hatchery").
 - **Function:** R Corp operates as the premier private military contractor of the City, supplying elite strike teams: the **Fourth Pack** (comprising **Reindeer**, **Rhino**, **Rabbit** led by **Myo**, and **Raven** reconnaissance).
 - **The Cloning Ritual:** To bypass the Head’s strict **Seven-Day Cloning Taboo**, R Corp places thousands of cloned soldiers into closed temporal domes known as "The Hatchery". Time inside the dome is accelerated thousands of times. The clones are forced into a brutal battle royale, slaughtering their duplicate selves until only one traumatized, hyper-experienced survivor emerges to serve as the official operative.
 
-### S Corp — Agricultural Acceleration & Feudal Hegemony
-- **District:** District 19.
+### District 19: S Corp — Salpippyeo Agroindustries (살빛벼)
 - **Singularity:** Hyper-Accelerated Biological Cultivation. S Corp produces the majority of the City’s agricultural food supply through rapid genetic growth. Culturally, District 19 is an isolationist, feudal society modeled after traditional Korean dynasties, characterized by harsh caste systems and rigid agrarian labor.
 
-### T Corp — The Time Tax and Monochromatic Reality
-- **District:** District 20.
+### District 20: T Corp — TimeTrack (The Time Tax & Monochromatic Reality)
 - **Singularity:** Time Collection, Temporal Acceleration, and Dilation (The "T Corp Box" / TT2 Protocol).
 - **The Time Economy:** T Corp treats time as a literal currency. Residents and businesses must pay "Time Taxes". Those in time-debt are subjected to hyper-accelerated aging or temporal freezing. T Corp supplied Lobotomy Corporation with the **TT2 Protocol**, enabling the million-year 50-day time loops.
 - **The Monochromatic Tax:** In T Corp’s Backstreets, even **color** is a taxed commodity. Inhabitants who cannot afford color taxes perceive and live in a bleak, black-and-white monochromatic reality.
 
-### U Corp — Resonance Tuning & The Great Lake
-- **District:** District 21.
+### District 21: U Corp — Resonance Tuning & The Great Lake
 - **Singularity:** Acoustic Resonance Tuning and Sonic Stabilization.
 - **Function:** U Corp manufactures massive resonance tuning forks and sonic dampeners used to stabilize volatile matter. They govern the ports of the Great Lake, enforcing the maritime rules against the Five Calamities.
 
-### W Corp — WARP Trains & Spatial Restoration
-- **District:** District 23.
+### District 22: V Corp — Visual Reality Refraction
+- **Singularity:** Visual reality refraction and environmental optical distortion.
+
+### District 23: W Corp — WARP Corp (WARP Trains & Spatial Restoration)
 - **Singularity:** "Restoration" (복원 / Bogwon).
 - **The Grand Deception of WARP Trains:** Publicly, W Corp advertises its **WARP Trains** as hyper-advanced teleportation transit that moves passengers between any two Districts in exactly **10 seconds**.
-- **The Reality:** The train does not teleport; it tears into an alternate dimension where time does not flow conventionally. In that dimension, the train drifts for **thousands of years** in non-space. The passengers (in standard economy) do not die of starvation or thirst because death does not exist in that dimension; instead, they go completely insane, mutilating each other, fusing their flesh together, and experiencing millennia of unimaginable agony.
+- **The Reality:** The train does not teleport; it tears into an alternate dimension where time does not flow conventionally. In that dimension, the train drifts for **thousands of years** in non-space. The passengers (in standard economy) do not die of starvation or thirst because death does not exist in that dimension; instead, they go completely insane, mutilating each other, fusing their flesh together, and experiencing millennia of unimaginable agony (such as the monstrous chimera **Tomerry**).
 - **The Arrival:** When the train reaches its destination after millennia, W Corp "Clean-Up Agents" board the train. Using F Corp’s Singularity and W Corp’s true Singularity—**Restoration**—they gather the screaming masses of fused flesh, reverse their physical forms, and reconstruct their bodies and clothing to the exact cellular state they were in when they boarded. Finally, they erase the passengers' memories. The doors open, and passengers disembark, believing only 10 seconds have elapsed.
+
+### Districts 24, 25, 26: X Corp, Y Corp, Z Corp
+- Fringes and perimeter boundary management, energy relay arrays, and external defense buffers against the Outskirts.
 
 ---
 
