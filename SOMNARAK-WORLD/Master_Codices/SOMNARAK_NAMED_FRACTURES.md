@@ -44,6 +44,28 @@ The crystallized citizen becomes something new — a Sorrow Entity, a Fracture Z
 
 ---
 
+### Metaphysical Boundary: Irreversible Citizen Fracture vs. Echo-Core Cycle Crisis (균열과 핵 위기의 형이상학적 경계)
+
+A crucial diagnostic distinction maintained by Directorate psychiatric evaluators and Giltong inspectors is the absolute boundary separating **Citizen / Agent Irreversible Fracture** from an **Echo-Core Cycle Crisis**:
+
+| Diagnostic Parameter | Citizen / Agent Irreversible Fracture (비가역적 균열) | Echo-Core Cycle Crisis (핵 위기 — Haek Wigi) |
+|---|---|---|
+| **Subject of Collapse** | Civilian, municipal worker, or frontline field agent | Reconstructed Department Head (Echo-Cores 3 through 8) |
+| **Soul & Ego State** | Complete ontological dissolution; human ego erased | Retains core human soul; suffers severe trauma saturation |
+| **Physical Transformation** | Biological tissue turns to brittle mineral Han-crystal | Android/Cyborg chassis overclocks sorrow conduits; flesh intact |
+| **Reversibility** | **Irreversible (비가역적)** — no documented return | **Reversible (가역적)** — suppressible into full Realization |
+| **Resulting Entity** | Spawns a permanent Sorrow Entity (SECC code) | Manifests a departmental combat gauntlet / martial trial |
+| **Combat Objective** | Destruction or physical extraction containment | Break combat stance, ground trauma, restore human soul |
+| **Post-Combat State** | Dissolves to Weeping or remains caged in vat | **Reclaimed**; gains permanent **+10 to All Attributes** |
+| **Loop Persistence** | Lost forever within the active iteration | Cleared Realization and floor buffs persist across cycles |
+
+#### Psychiatric & Metaphysical Mechanics of the Crisis
+Unlike ordinary citizens whose fragile biological containers rupture under Han exposure, an Echo-Core possesses an engineered chassis—whether an industrial Cast Effigy (Zyrak, Ayshuk, Ishall), a cybernetic neural frame (Dekan, Mellda, Xyan), or a cryogen stasis unit (Marjuk). Their soul is anchored into sorrow-forged lattices, meaning it cannot simply dissolve into mineral salt or ambient vapor.
+
+Instead, when an Echo-Core reaches **trauma saturation** after enduring hundreds of reset cycles, their suppressed human memories, guilt, and existential fatigue trigger a **harmonic resonance cascade**. The department lead perceives the facility through the prism of their foundational tragedy, treating their own personnel as adversaries or foreign incursions. Suppressing an Echo-Core is not an execution—it is an aggressive therapeutic grounding that forces the human soul within the machine to confront its pain and awaken into **Departmental Realization**.
+
+---
+
 ## II. The Named Fractures
 
 ### Fracture 1: The Weeping Mother (우는 어머니 — Uneun Eomeoni)
@@ -398,6 +420,32 @@ When they emerged, the village was gone. Not destroyed — crystallized. Every b
 Families of Fractured citizens are affected — not just emotionally, but economically. The debt system does not forgive Fracture — the citizen's debt passes to their family, their children, their grandchildren.
 
 **The cycle:** A citizen Fractures. Their debt passes to their family. Their family struggles. Their children Fracture. The cycle continues.
+
+---
+
+### Departmental Realization Case Studies: Historical Echo-Core Crises (시설 사례 연구: 역사적 부서 위기 및 각성 결전)
+
+The Directorate Archive maintains detailed psychiatric records of previous Cycle crises, demonstrating how Echo-Core breakdowns differ fundamentally from civilian fractures:
+
+#### Case Study EC-03: Cycle 412 — Dekan's Crimson Hemorrhage (Floor 2)
+- **Trigger:** Sensation of phantom screams from the thousand souls consumed in the Cheongula cataclysm during a deep subterranean Han surge.
+- **Crisis Phenomenology:** Dekan's scaled biological arm swelled, its crimson scales opening into venting gills that bathed Floor 2 in corrosive red vapor. Containment seals across twelve high-threat vats suffered sympathetic vibration failures.
+- **Suppression Protocol:** Rather than killing Dekan, suppression squads alternated between pacifying breached containment cells and pinning his biological right arm to ground his neural feedback loop.
+- **Realization Outcome:** Dekan regained emotional equilibrium; Floor 2 permanently gained the *Maw Resonance Grounding* buff, preventing sympathetic vat cascades.
+
+#### Case Study EC-06: Cycle 984 — Mellda's Warden Martial Trial (Floor 5)
+- **Trigger:** Cognitive desynchronization caused by atmospheric Desolate dust leaking through boundary filters, prompting Mellda to perceive Facility 01 as an Outside Sorrow breach.
+- **Crisis Phenomenology:** Mellda deployed **Threshold Vow** into its one-meter Sacred Blade configuration, establishing an arena-wide combat perimeter. She unleashed continuous 25-Weight shockwaves and linear piercing piston thrusts that pinned suppression agents against bulkheads.
+- **Suppression Protocol:** Mellda could not be reasoned with through psychological counseling; agents had to survive an uncompromising twenty-turn physical duel, breaking her defensive guard and withstanding her kinetic onslaught to prove their martial resolve.
+- **Realization Outcome:** Mellda recognized the endurance of her comrades; Floor 5 stabilized, granting surviving personnel permanent +10 attributes and the *Frontier Bulwark* facility buff.
+
+#### Case Study EC-08: Cycle 1,419 — Ishall's Dual Infiltration Anomaly (Floor 7)
+- **Trigger:** Latent hostile military subroutines embedded in her repurposed enemy chassis bypassed Directorate neural firewalls, overwhelming her conscious human soul.
+- **Crisis Phenomenology (Phase 1):** Ishall engaged optical camouflage and deployed high-velocity Grudge sniper rounds and razor-wire ambushes throughout Sector 07 corridors.
+- **Suppression Protocol (Phase 1):** Agents deployed electromagnetic jamming and physically breached her cranial chassis to shatter the hostile command loop, awakening Ishall's true human soul.
+- **Crisis Phenomenology (Phase 2):** Chassis neutralization severed the neural link holding **Unanswered**. Untethered, the Before-Time relic hands awakened autonomously, generating an omnidirectional **Closed Ground** Void singularity that nullified Han propulsion and inverted local gravity.
+- **Suppression Protocol (Phase 2):** Agents advanced on foot through the crushing Void vacuum without Han acceleration, physically reaching both floating hands simultaneously to force a manual harmonic recalibration, binding *Unanswered* back to Ishall's restored human will.
+- **Realization Outcome:** The dual threat was neutralized; Ishall achieved complete realization, unlocking permanent facility-wide covert surveillance coordination.
 
 ---
 
