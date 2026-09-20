@@ -31,7 +31,8 @@ This document is the only assembled record of the Names outside Marjuk's origina
 9. [The First Fragment](#ix-the-first-fragment)
 10. [Protocol](#x-protocol)
 11. [Open Questions](#xi-open-questions)
-12. [Cross-References](#cross-references)
+12. [The Door and the Director's Unfulfilled Promise](#xii-the-door-and-the-directors-unfulfilled-promise-문과-총괄의-미완의-맹세)
+13. [Cross-References](#cross-references)
 
 ---
 
@@ -79,6 +80,14 @@ Marjuk's conclusion, recorded early and never revised: *the Door is not reacting
 - Prolonged exposure produces the same identity-blur risk as Keeper Resonance
 
 That last property is why only Marjuk has ever studied it at length. A Cryogen with eidetic recall and a preserved neural core can hold the sequence without the sequence holding him. Probably.
+
+### Metaphysics of the Before-Time Phonemes: Performative Ontology
+
+The Doorspeech does not follow normal semiotic or linguistic principles. Modern human speech is *descriptive* — it represents objects and actions through symbolic convention. The Before-Time phonemes spoken by the Door are **performatively ontological** (존재론적 수행어):
+
+- **Ontological Instantiation:** In the Before-Time dialect, the word does not symbolize the phenomenon; it *causes* and *substantiates* the phenomenon. Speaking an Echo-Core's true Doorspeech fragment reorganizes the local quantum and Han-density fields of the room.
+- **Infrasonic Carrier Frequencies:** The Doorspeech resonates at an ultra-low sub-audible carrier frequency (approximately 7.83 Hz, matching the core vibrational pulse of Mugenhan). It bypasses standard acoustic membrane mechanics, transmitting vibrations directly into biological bone marrow, neural synapses, and Han-relic circuits.
+- **Temporal Non-Linearity:** Because the words predate the Consolihan, they possess temporal inertia. They are not memories of what was said; they are permanent acoustic anchors holding the facility's baseline reality in suspension.
 
 ---
 
@@ -375,6 +384,15 @@ Marjuk's standing justification:
 
 The decision is his alone. It has never been reviewed, because reporting it would require revealing that there is something to review.
 
+### Floor 7 Acoustic Isolation Protocols: Chief Defender Baekho's Bastion Barrier
+
+Because the Doorspeech acts as an ontological disruptor, containing its acoustic bleed is Facility 01's highest classified defensive directive, managed directly by **Chief Defender Baekho** on **Floor 7 (Floor of Defense & Bastion Architecture)**:
+
+- **Triple-Layer Acoustic Baffles:** Floor 6's Deep Vault is encased in three concentric rings of reinforced basalt baffles interleaved with high-density leaded dampening foam.
+- **Anti-Vibrational Void Gel Dampeners:** Hydraulic bulkheads separating Floor 6 from the upper sectors are pressurized with specialized Void gel. This non-conductive fluid absorbs the 7.83 Hz carrier wave, preventing sympathetic acoustic resonance from vibrating the Alpha Tree's structural pylons.
+- **Crystalline Null-Resonance Shields:** Baekho engineered inverted Han-frequency emitters along the ceiling of Floor 6. If the Final Door begins an unprovoked whisper during an Ordeal, the shields project an immediate counter-harmonic cancellation field, containing the vocal vibration strictly within the lowest vault.
+- **The Catastrophic Bleed Scenario:** If the Doorspeech were ever to leak into civilian sectors, the unshielded population would experience instantaneous psychic sympathetic awakening, collapsing the collective Veil and triggering mass-Fracture across entire residential blocks.
+
 ---
 
 ## XI. Open Questions
@@ -389,6 +407,23 @@ The decision is his alone. It has never been reviewed, because reporting it woul
 8. Whether the Door has heard a single word Somnarak has said back.
 9. Why the Director's fragment is the only one that changes, and what it is trying to call him.
 10. Whether the Door is quoting Majin's lover, or whether she was quoting the Door.
+
+---
+
+## XII. The Door and the Director's Unfulfilled Promise (문과 총괄의 미완의 맹세)
+
+The Final Door is not merely an architectural relic; it is an ontological mirror reflecting the founding tragedy of the Reverie Directorate:
+
+### The Vow That Froze Time
+When Seiyon died during the Solidification, her dying command to Director Majin was simple:
+> *"Don't let the sorrow win." (누한이 이기지 못하게 하라)*
+
+Majin interpreted this imperative with absolute, unforgiving literalism. To prevent sorrow from claiming the city, he consolidated the grief of 400,000 citizens into containment trenches, trapped himself and the Echo-Cores in 1,778 temporal cycles, and engineered the Absolvohan to end the cycle on his own terms.
+
+### The Mirror of Guilt
+The Door refuses to open fully, yet refuses to fall silent. It recites the same nine names and the same dying plea every iteration, changing only the title it uses to address the Director. 
+
+The Door is waiting for Majin to understand what the vow actually meant. By attempting to defeat sorrow through perpetual containment and erasure, Majin made sorrow eternal. The Door whispers not to condemn him, but to hold him accountable to the promise he made before the first cycle began: that true victory over sorrow is not found in locking it in a vault, but in allowing the dawn to finally break.
 
 ---
 
