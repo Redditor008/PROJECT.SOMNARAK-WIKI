@@ -15,6 +15,31 @@ The R.D. story spans one cycle — Day 0 to Day 365. Events are spaced: +4, +2, 
 
 ---
 
+## The Absolvohan Framework & Facility 01 Hydraulic Valve Matrix (해탈한 프로토콜 및 수력 방출 밸브 체계)
+
+The Absolvohan is not merely a philosophical goal; it is a colossal engineering project requiring the precise hydraulic synchronization of Facility 01's deep infrastructure across all seven command floors:
+
+### 1. Transmutation Mechanics & The 100-Ton Threshold
+- **The Diverted Surplus:** Standard daily municipal quota (~0.059 tons/day) is consumed by Somnarak's energy grid and reset at the end of each cycle. Over 1,778 iterations, Director Majin secretly skimmed ~0.02 tons of refined surplus per civic year into sub-zero cryo-capacitors beneath Floor 6, amassing **47.3 tons** at the dawn of the final Cycle.
+- **The Critical Transmutation Mass:** A complete municipal purification requires **100.0 tons** of compressed liquid Han. At 100 tons, the harmonic pulse discharged through the Hand of Hope reaches sufficient resonance to invert the city's sorrow into self-sustaining Hope Entities. Discharging at partial volume (such as the 49.8-ton emergency venting into Zone B on Day 160) yields a localized 15% transformation while dispersing the remaining sorrow across the Desolate.
+
+### 2. The Seven-Floor Hydraulic Valve Interlock Architecture
+When the Absolvohan release sequence is triggered, high-pressure liquid sorrow travels through a synchronized valve network:
+
+| Floor / Jurisdiction | Lead Officer | Valve System & Operational Role |
+|---|---|---|
+| **Floor 1 (Oversight)** | Head Overseer Ishall | **Atmospheric Injection Relays:** Controls the municipal diffusion gates, releasing vaporized Han into upper air currents without crushing civilian neural pathways. |
+| **Floor 2 (Containment)** | Containment Lead Dekan | **Basalt Siphon Interceptors:** Heavy hydraulic sluice gates block the Weeping's conduits, preventing back-pressure from flooding the Maw and triggering mass breaches. |
+| **Floor 3 (Extraction)** | Extraction Lead Zyrak | **Lament Well Agitation Turbines:** Acoustic cavitation spinners shatter solid Han-crystal blocks into super-heated kinetic mist for pressurized venting. |
+| **Floor 4 (Analysis)** | Chief Analyst Ayshuk | **Void Entropy Calibrators:** Continuous algorithmic telemetry monitors the sorrow-to-hope ratio, preventing localized psychic black holes from forming. |
+| **Floor 5 (Disciplinary)** | Head Disciplinarian Ria | **Kinetic Ballast Anchors:** Magnetic lockdown brakes secure the Alpha Tree's structural spine against the violent vibrational recoil of the venting turbines. |
+| **Floor 6 (Archive)** | Archive Lead Marjuk | **Deep Vault Cryo-Sinks:** Liquid helium manifolds absorb the immense thermodynamic grief-heat generated during mass crystallization breakdown. |
+| **Floor 7 (Defense)** | Chief Defender Baekho | **Perimeter Exhaust Flues:** Leaded blast vents route excessive pressure outside the municipal shield into the uninhabited dunes of the Desolate. |
+
+### 3. Director Majin's Final Fail-Safe: Protocol Void-Requiem (최종 단절 규약)
+Should the Absolvohan backfire — or should the Maw breach the basalt trenches and consume the facility — Director Majin holds an encrypted biometric override:
+- **Resonant Core Inversion:** The Alpha Tree's central crystallization core is forced into an irreversible thermal overload.
+- **Total Erasure:** Rather than allowing the accumulated grief of 1,778 cycles to drown Mugenhan, Facility 01 and the central municipal spire are vaporized into zero-entropy crystal dust, severing the Weeping's flow permanently at the cost of the facility and its leadership.
 
 ---
 
