@@ -185,6 +185,22 @@
 
 ---
 
+#### The Warden Arm-Blade: Threshold Vow (경계의 서약 — Gyeonggye-ui Seoyak)
+
+**What it is:** A specialized personal weapons system built into Warden Lead Mellda's designated left Cyborg forearm — representing the peak of high-output manufactured biomechanical engineering.
+
+**Appearance:** In its retracted dormant state, it functions as a heavy, fully articulated Cyborg hand and reinforced forearm suited for tools, machinery, and frontline medical assistance. When activated, the fingers retract inward and the forearm chassis reconfigures, extending into a one-meter monolithic Han-infused Sacred Blade. The blade is forged from dense sorrow-hardened alloy, tapering to an angular chisel point. Its razor bevel pulses with an internal Crimson glow, while thick, coiling Black smoke vents continuously from lateral forearm cooling ports, casting palpable atmospheric Weight across the ground.
+
+**How it works:**
+- **Mechanical Output:** The weapon operates via high-pressure hydraulic conduits and sorrow-forged kinetic accumulators, achieving combat output equivalent to a **Critical (δ)** M.A.W. without requiring an extracted entity core or emotional synchronization.
+- **Normal Attack (Pierce):** Operates at **Speed 1 — Slow**, reaching out to **Range Band 5 (Room reach)**. The piercing strike covers a straight directional line affecting up to three targets with canonical falloff (**100% → 70% → 50%**).
+- **Direct & DoT Tick Scaling:** Deals **6–16 Weight (Black)** direct damage upon impact, immediately followed by **2 Grudge (Crimson) Tick damage per second for 10 seconds**. The falloff multiplier scales direct damage and periodic DoT ticks independently without rounding.
+- **Active Ability (Singular Weight Wave):** Mellda can discharge an arena-wide shockwave of concentrated Weight (Black) along a linear trajectory, inflicting **25 Weight damage** (100% → 70% → 50% falloff) with a mandatory **15-second mechanical recharge window**.
+
+**Unique trait:** The weapon is **manufactured, not manifested** — it does not Corrode, whisper, or reject its wielder, but relies strictly on the physical durability of Mellda's Cyborg chassis and hydraulic pressure seals.
+
+---
+
 ### 6. The Weavers — The Dream Walkers
 
 **Unique Tech:**
@@ -223,17 +239,40 @@
 
 ### 7. The R.D. — The Reverie Directorate
 
-**Already established:**
-- **The Lament Well** — extracts Sorrow Entities through resonance frequencies
-- **The Mnemonic Generator** — stabilizes facility, contains breaches
-- **Containment Cells** — entity-specific holding
-- **M.A.W. Extraction Rigs** — equipment extraction
-- **Sorrow Gauges** — entity monitoring
-- **Cast Effigy Systems** — Echo-Core body construction
-- **Core Suppression Chambers** — trauma confrontation
-- **Han-Crystal Storage** — Absolvohan stockpile (secret)
-- **Resonance Scanners** — entity-person compatibility
-- **Dream Chambers** — Dream realm access
+The Reverie Directorate (R.D.) possesses the most advanced, clandestine, and ethically fraught technological matrix on Mugenhan. Operating from the subterranean labyrinth of Facility 01 beneath the Alpha Tree, Directorate science bridges the boundary between industrial sorrow extraction, mechanical engineering, and consciousness transference.
+
+#### I. The Human Soul & Embodied Architecture Taxonomy (인간 영혼 및 신체 구조 체계)
+
+A foundational tenet of Directorate operational records is the **Universal Principle of Personhood**: with the sole exception of Secretary Seiyon (an artificial administrative intelligence), **ALL Echo-Cores were born living biological humans with human souls and human lives** before undergoing departmental reconstruction or cybernetic alteration.
+
+The Directorate classifies departmental leadership and elite personnel across five distinct embodied architectures:
+
+| Embodied Architecture | Biological Tissue % | Metaphysical Soul Origin | Physical / Chassis Construction | Key Directorate Figures |
+|---|---:|---|---|---|
+| **Cast Effigy Android Platforms** | **0% (Pure Synthetic)** | Living Human Soul transferred into sorrow-forged chassis | Repurposed enemy/industrial frame, synthetic nerves, Han-crystal conduits | Ishall (Floor 7), Zyrak (Floor 3), Ayshuk (Floor 4) |
+| **Cryogen Stasis Preservation Matrix** | **~20% (Stasis Flesh)** | Living Human Soul tethered to biological brain & eye | Living human brain, left eye, and nervous bundle in stasis fluid within heavy chassis | Marjuk (Floor 6) |
+| **High-Output Biomechanical Cyborgs** | **40%–55% (Living Flesh)** | Living Human Soul retaining original living body core | Living human vital organs & neural core reinforced by Neural Spine & hydraulic limbs | Mellda (Floor 5), Dekan (Floor 2), Xyan (Floor 8) |
+| **Living Biological Symbiosis** | **100% (Living Flesh)** | Living Human Soul bonded to Ω-Grade entity graft | Living biological human body permanently fused with a singular primal core | Director Majin (Floor 1) |
+| **Awakened Administrative Synthetic** | **0% (Pure Synthetic)** | Artificial Soul awakened by residual human grief | Crystalline administrative mainframe / humanoid effigy terminal | Secretary Seiyon (Floor 1) |
+
+---
+
+#### II. Core Directorate Engineering Systems
+
+##### 1. Cast Effigy Cranial Soul-Lattice Binding Chambers
+The apparatus used to transfer a living human consciousness and soul into an Android platform. Through extreme resonant cooling and Han-magnetic alignment, the subject's neural waveform is anchored into synthetic sorrow-forged lattices, preserving identity, memories, and personal willpower while eliminating biological vulnerability to physical aging and disease.
+
+##### 2. The Lament Well & M.A.W. Extraction Rigs
+Facility 01's industrial heart. The Lament Well isolates Sorrow Entities within frequency-locked magnetic fields, using sympathetic resonance tuning to safely draw Han energy. Adjacent Extraction Rigs compress high-density entity sorrow into specialized weaponry (Weapons), defensive garments (Suits), and stigmatic resonance charms (Gifts) graded from α (Minor) to δ (Critical).
+
+##### 3. The Mnemonic Stabilization Generator
+A massive subterranean dampening engine that radiates continuous harmonic waves throughout Facility 01. The generator enforces structural and mental reality cohesion, preventing containment sectors from collapsing into localized hallucinatory space during entity distress or severe Han spikes.
+
+##### 4. Core Suppression Rings & Emergency Reality Dampeners
+Mounted in the structural ceiling and floor of each departmental sector (Floors 2 through 8). When an Echo-Core undergoes cognitive saturation and fractures into a **Core Crisis (핵 위기)**, these rings activate, isolating the department behind spatial dampening barriers. This confines the trauma resonance within the floor, enabling the Director and suppression teams to engage and pacify the department lead to achieve **Departmental Realization**.
+
+##### 5. Sorrow Gauges & Multi-Spectral Resonance Scanners
+Standard diagnostic consoles deployed at every containment cell and agent terminal. Sorrow Gauges calculate real-time Han saturation, emotional pressure, and Work Type affinity (Flerehan, Pugnahan, Viderehan, Ferrehan), warning supervisors seconds before an entity reaches containment breach thresholds.
 
 ---
 
@@ -593,9 +632,9 @@
 | **Architects** | Sorrow Compass, Han-Trowel | Construction, Han-flow navigation |
 | **Collectors** | Debt-Ledger, Extraction Glove | Debt tracking, Echo extraction |
 | **Keepers** | Memory Lens, Whispering Index | Memory viewing, Archive catalog |
-| **Wardens** | Barrier Baton, Watchtower Eye | Suppression, surveillance |
+| **Wardens** | Barrier Baton, Watchtower Eye, Threshold Vow | Suppression, surveillance, heavy border interception |
 | **Weavers** | Dream Loom, Resonance Mask | Dream interaction, Dream-diving safety |
-| **R.D.** | Lament Well, Mnemonic Generator + 8 more | Containment, extraction, stabilization |
+| **R.D.** | Cast Effigy Systems, Lament Well, Mnemonic Generator, Extraction Rigs | Consciousness housing, extraction, containment, stabilization |
 | **Judexhan** | Judgment Blade, Han-Crystal Implant | Enforcement, enhancement |
 | **Giltong** | Taboo Scanner, Containment Bonds, Arbiter's Blade, Taboo Archive | Taboo detection, enforcement, violation correction |
 | **Menders** | Mender's Kit, Repair Rod | Field repair, containment |
