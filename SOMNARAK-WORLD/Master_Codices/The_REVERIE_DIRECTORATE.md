@@ -762,9 +762,135 @@ When a personnel member is promoted or assigned to a specific role, they may rec
 
 ---
 
+## The Four Elements of Sorrow (한의 사원소) & Combat Dynamics
+
+> *"Sorrow is not one thing. It is four. And each has its own teeth."*
+
+Sorrow itself manifests across **four elemental aspects** — each attacking a different dimension of the human person and requiring specific defenses:
+
+| Element | Korean | Symbol | Color | Nature | What It Attacks |
+|---|---|---|---|---|---|
+| **Lament** | 탄식 (Tansik) | ◆ | Deep Blue | Expressed grief that weeps, mourns, releases | **Mind** — emotional stability, willpower, composure |
+| **Grudge** | 원한 (Wonhan) | ◈ | Crimson | Suppressed resentment, bitterness, unresolved rage | **Body** — physical form, structural integrity, flesh |
+| **Void** | 공허 (Gongheo) | ◇ | Pale White | Lost sorrow, emptiness, numbness, erasure | **Soul** — identity, memory, sense of self |
+| **Weight** | 무게 (Muge) | ■ | Black | Accumulated sorrow, crushing ambient pressure | **Han** — sorrow reserves, karmic debt, structural mass |
+
+### The Elemental Interaction Cycle
+
+```text
++==============================================+
+|       THE FOUR ELEMENTS INTERACTION CYCLE    |
++==============+=======+=======+=======+=======+
+|  Atk \ Def   | Mind  | Body  | Soul  |  Han  |
++==============+=======+=======+=======+=======+
+|Lament (Blue) |Resist | Part  |Strong | Weak  |
++--------------+-------+-------+-------+-------+
+|Grudge (Red)  | Part  |Resist | Weak  |Strong |
++--------------+-------+-------+-------+-------+
+|Void (Pale)   |Strong | Weak  |Resist | Part  |
++--------------+-------+-------+-------+-------+
+|Weight (Black)| Weak  |Strong | Part  |Resist |
++==============+=======+=======+=======+=======+
+```
+
+- **Lament beats Soul:** Expressed grief erodes subjective identity.
+- **Grudge beats Han:** Held resentment amplifies existing debt and sorrow reserves.
+- **Void beats Mind:** Emptiness shatters mental clarity and composure.
+- **Weight beats Body:** Accumulated structural mass crushes physical flesh.
 
 ---
 
+## M.A.W. Gifts & Corrosion (선물과 부식)
+
+### M.A.W. Gifts (선물 — Seonmul) — Passive Resonance Items
+
+> *"A Gift is not a tool. It is a companion. It whispers. It watches. It remembers."*
+
+Gifts are passive byproducts of M.A.W. extraction — small crystallized fragments of the entity's sorrow that bond to the operative during work:
+- Gifts are **always active** — worn constantly without activation cost.
+- Gifts **cannot be easily removed** — the bond resists detachment.
+- Gifts can be **upgraded** by feeding them Echoes.
+
+#### Canonical M.A.W. Gifts from the Facility Registry:
+- **The Mourning Band (Ring / Hand):** Extracted from *The Grieving Colossus*. Grants +20% sorrow tolerance, but causes the wearer to weep silently at night.
+- **The Forgotten Mask (Mask / Face):** Extracted from *The Memory Weaver*. Provides complete immunity to memory theft, but slowly erodes insignificant childhood memories.
+- **The Cold Heart (Amulet / Neck):** Extracted from *The Frozen Veil*. Grants immunity to emotional manipulation, but nullifies the wearer's capacity to feel joy.
+- **The Debt Chain (Bracelet / Wrist):** Extracted from *The Inherited Debt*. Reveals the karmic debt of others, but forces the bearer to feel the weight of every debt observed.
+- **The Ember Pin (Hairpin / Head):** Extracted from *The Ember Child*. Provides thermal protection against cold brine sorrow, while slightly dimming happy memories.
+- **The Whisper Stud (Earring / Ear):** Extracted from *The Hollow Choir*. Translates entity vocalizations, but causes permanent background whispering.
+- **The Duty Ring (Ring / Hand):** Extracted from *The Forgotten Soldier*. Grants +15% combat effectiveness, but psychologically prevents the wearer from retreating.
+- **The Tear Pendant (Amulet / Neck):** Extracted from *The Orphaned Bell*. Grants resistance to memory loss while emitting a faint, perpetual tolling hum.
+
+---
+
+### M.A.W. Corrosion (부식 — Busik) — When M.A.W. Fails
+
+> *"The M.A.W. is alive. Push it too far, and it will push back."*
+
+When M.A.W. is overused beyond shift limits, misused against its nature, or starved of Echoes, the source entity's sorrow overtakes the bearer in **four progressive stages**:
+
+```text
++==============================================+
+|          M.A.W. CORROSION FOUR STAGES        |
++==============================================+
+| Stage # & Name       | Manifestation Signs   |
++======================+=======================+
+| Stage 1: Whispers    | Faint vocal feelings  |
++----------------------+-----------------------+
+| Stage 2: Bleed       | Personality shift     |
++----------------------+-----------------------+
+| Stage 3: Merge       | Blurring boundaries   |
++----------------------+-----------------------+
+| Stage 4: Takeover    | Entity dominates mind |
++======================+=======================+
+```
+
+1. **Stage 1 (Whispers):** The wearer hears the entity's feelings and desires as faint, persistent auditory sensations. Resolves with rest and shift rotation.
+2. **Stage 2 (Bleed):** The wearer's personality shifts toward the entity's element (Lament becomes melancholic, Grudge aggressive, Void detached, Weight resigned). Requires painful M.A.W. removal.
+3. **Stage 3 (Merge):** Boundaries blur; the wearer speaks in the entity's dual tone and acts on its impulses without realizing it. Demands Core Suppression intervention.
+4. **Stage 4 (Takeover):** The entity's personality completely dominates. The human mind remains aware but permanently trapped inside their own body. **Irreversible.**
+
+#### The Echo-Cores and Corrosion Status:
+- **The Director (Majin):** Stage 4 — permanently fused with Ω-grade *Reaper Hungered*; the entity IS part of his immortal body.
+- **The Secretary (Seiyon):** None — synthetic effigy construct without organic resonance.
+- **The Containment Lead (Dekan):** Stage 3 — left arm permanently merged with the living Maw.
+- **The Extraction Lead (Zyrak):** Stage 2 — personality shifts noted following child fracture trauma.
+- **The Research Lead (Ayshuk):** None — hollow emotional null-space; cannot corrode.
+- **The Border Lead (Mellda):** N/A — **Effloresced**, not Corroded.
+- **The Archive Lead (Marjuk):** None — isolated in cryo-stasis vault.
+- **The Outsider (Ishall):** Stage 1 — whispers noted between enemy chassis and *Unanswered*.
+- **The Exile (Xyan):** Unknown — continuous Desolate environmental alteration.
+
+---
+
+## Efflorescence (개화 — Gaehwa) — The Positive Path
+
+> *"Fracture is sorrow consuming you. Efflorescence is sorrow becoming you."*
+
+**Efflorescence** is the positive alternative to Fracture. When an individual reaches the brink of Fracture, instead of breaking under the weight of grief, they undergo a rare **Resonance Event** with a compatible Sorrow Entity:
+
+```text
++==============================================+
+|        EFFLORESCENCE VS. FRACTURE MATRIX     |
++==============================================+
+| Dimension            | Fracture vs Bloom     |
++======================+=======================+
+| Core Dynamic         | Consumed vs Becoming  |
++----------------------+-----------------------+
+| Conscious Control    | Lost vs Retained      |
++----------------------+-----------------------+
+| Physical Form        | Monster vs Human+Mark |
++----------------------+-----------------------+
+| M.A.W. Weaponry      | None vs Self-Manifest |
++----------------------+-----------------------+
+| Occurrence Rarity    | Common vs 1 in 100    |
++======================+=======================+
+```
+
+1. **The Resonance Event:** A person at the edge of Fracture encounters an entity whose foundational trauma mirrors their own wound. Rather than fighting or fleeing, mutual recognition occurs.
+2. **The Bloom:** The entity's sorrow merges into the person's strength, while the person's identity acts as an anchor. The person emerges transformed, carrying the entity's mark (color-shifting eyes, luminescent skin, dual-toned voice).
+3. **Self-Manifested M.A.W.:** An Effloresced being manifests unique M.A.W. directly from the bond. This armament cannot be extracted, stripped, or destroyed by facility rigs.
+4. **Border Lead Mellda as Canonical Exemplar:** Mellda survived 10 years in the Desolate by achieving Efflorescence with a benign Outside Sorrow entity, carrying it as a second soul within her flesh.
 
 ---
 
@@ -1465,9 +1591,85 @@ The Secretary records every event in the facility log. Every day. Every occurren
 
 ---
 
+## Breach Mechanics — The Sorrow Gauge & Containment Responses
+
+> *"Every Sorrow Entity has a breaking point. The Sorrow Gauge tells you how close you are to the abyss."*
+
+The Reverie Directorate's containment security relies on real-time tracking of the **Sorrow Gauge (한 게이지 — Han Geiji)**, measuring accumulated emotional and resonant stress within each containment chamber:
+
+```text
++==============================================+
+|          SORROW GAUGE OPERATIONAL TIERS      |
++==============================================+
+| Gauge Range & Level  | Chamber Status & Risk |
++======================+=======================+
+| 0% to 25% (Stable)   | Normal Operations     |
++----------------------+-----------------------+
+| 26% to 50% (Elevated)| Enhanced Monitoring   |
++----------------------+-----------------------+
+| 51% to 75% (Critical)| Breach Imminent       |
++----------------------+-----------------------+
+| 76% to 100% (Breach) | Active Containment Fl.|
++======================+=======================+
+```
+
+### The Three Canonical Breach Types
+
+```text
++==============================================+
+|         THE THREE CANONICAL BREACH TYPES     |
++==============================================+
+| Breach Category      | Affected Manifestation|
++======================+=======================+
+| Type 1: Escape (탈출)| Subject-Body Beings   |
++----------------------+-----------------------+
+| Type 2: Transform    | Object / Place / Chain|
++----------------------+-----------------------+
+| Type 3: Corrupt (부패)| Place / Void / Weight |
++======================+=======================+
+```
+
+1. **Type 1: Escape (탈출 — Talchul):**
+   - *Nature:* The entity physically shatters or bypasses containment bulkheads, moving through facility corridors, attacking staff, and damaging structural crystal conduits.
+   - *Affected Entities:* Subject (`S`) manifestations, beings with Body or Phantasmal forms, and high-coherence entities (Coherence IV–V).
+   - *Containment Response:* Physical interception via Pugnahan (kinetic suppression) or calming via Flerehan (empathic weeping).
+
+2. **Type 2: Transform (변형 — Byeonghyeong):**
+   - *Nature:* The entity does not wander corridors; instead, it evolves within its chamber, escalating its danger tier (α → β → γ → δ → ω) or gaining complex cognitive abilities.
+   - *Affected Entities:* Object (`O`) and Place (`P`) manifestations, entities with transformation chains (e.g. *The Kind Healer* → *The Dawn of Mourning* / *The Hand of Hope*).
+   - *Containment Response:* Adaptive work adjustment, emergency M.A.W. extraction, or Core Suppression stabilization.
+
+3. **Type 3: Corrupt (부패 — Bupae):**
+   - *Nature:* The containment cell itself mutates into an active **Fracture Zone**. Unrefined Han leaks into adjacent corridors, causing walls to weep brine and inflicting emotional bleed on nearby staff.
+   - *Affected Entities:* Place (`P`) manifestations, Void and Weight-dominant entities of high potency (γ to ω).
+   - *Containment Response:* Ferrehan endurance absorption, Architect-shored boundary sealing, or emergency sector quarantine.
 
 ---
 
+### Four-Stage Facility Breach Protocol
+
+1. **Stage 1 (Alert):** Secretary Seiyon sounds the facility-wide acoustic alarm, broadcasting entity SECC data and affected floor coordinates.
+2. **Stage 2 (Assess):** The responsible Echo-Core evaluates breach type, elemental pressure, and containment team readiness.
+3. **Stage 3 (Respond):** Specialized strike teams deploy; assigned Work Types (Pugnahan, Flerehan, Viderehan, Ferrehan) are applied in real time.
+4. **Stage 4 (Resolve):** Entity is suppressed, transformed, or destroyed; structural masonry is repaired, and wounded personnel undergo medical debriefing.
+
+---
+
+## Facility Daily Life, Sustenance & Night Hazards
+
+### Food Distribution & Sustenance in the Facility
+
+Personnel within Facility 01 receive nutritional and emotional sustenance distributed across three distinct forms:
+- **Normal Food (70%):** Traditional grains, root vegetables, and preserved meats grown in Zone D or imported from the frontier.
+- **Echo-Based Sustenance (20%):** Direct absorption of crystallized emotional Echoes, providing energetic sustenance and sensory clarity during high-stress operations.
+- **Han-Infused Rations (10%):** Standard-issue rations cultivated in stabilized Han-soil. Carries a mild, melancholy background hum that helps containment staff harmonize their circadian rhythm with the facility's crystalline pulse.
+
+### Night Hazards (야간 위험 — Yagan Wiheom)
+
+During facility nocturnal hours, subterranean Han density naturally surges:
+- **The Sorrow Tide (만조):** Ambient liquid Han rises in lower conduit drains, requiring drainage pump activation on Floors 2 and 6.
+- **Memory Fog (기억의 안개):** Unvented emotional vapor drifts through upper ventilation shafts, requiring Memory Anchors to prevent disorientation.
+- **Dream Rifts (꿈의 균열):** Subconscious bleed from the Weeping; Weaver specialists inspect stasis seals to prevent cognitive intrusion.
 
 ---
 
