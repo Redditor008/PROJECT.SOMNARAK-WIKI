@@ -3071,3 +3071,341 @@ The Shadow healed citizens until it began dying. The R.D. intervened — pulling
 **Total:** 44 Fractured, 356 incapacitated, 0 deaths
 
 ---
+
+
+---
+
+## Advanced Facility Systems & Operational Protocols (Lobotomy-Class Mechanics Expanded)
+
+> *"Containment is not merely locking a door. It is an active thermodynamic calculus of human grief, mechanical stress, and spiritual resonance."*
+
+The following ten advanced systems elevate the Reverie Directorate's operational architecture to full containment parity, formalizing protocols previously managed ad-hoc into systemic operational doctrines.
+
+---
+
+### System 1: The Resonant Meltdown & Acoustic Overload System (공명 변형 폭주 & 음향 과부하)
+
+```text
++==============================================+
+|       ACOUSTIC STRAIN MELTDOWN TIMELINE      |
++==============================================+
+| Strain Level         | Alarm & Target Count  |
++======================+=======================+
+| Level I to III       | 1-2 Chambers (45s)    |
++----------------------+-----------------------+
+| Level IV to VI       | 3-4 Chambers (45s)    |
++----------------------+-----------------------+
+| Level VII to X       | 5-6 Chambers (40s)    |
++======================+=======================+
+```
+
+#### 1. Meltdown Progression Mechanics
+- **Progression Trigger:** For every 5 successful Work Type interactions executed within the facility, the master **Acoustic Strain Gauge (음향 피로도)** advances by +1 Meltdown Level.
+- **Resonant Bleed Alarms:** When a Meltdown Level triggers, 1 to 6 random containment cells flash with an amber acoustic warning. A strict **45-second Resonant Bleed Timer** begins counting down on the chamber monitor.
+- **Resolution Requirement:** An Agent must enter the chamber and begin any assigned Work Type before the timer reaches 0.
+- **Failure Penalty:** If the timer expires:
+  1. The chamber's Sorrow Gauge immediately spikes to 100%.
+  2. The facility loses 20% of its currently harvested Han-Energy due to acoustic conduit backflow.
+  3. The contained Sorrow Entity breaches into the floor corridors immediately.
+
+#### 2. Acoustic Overload (음향 과부하)
+- Repeatedly interacting with the same Sorrow Entity within a single operational shift overtaxes the cell's acoustic suppression coils.
+- **Overload Penalty:** Each consecutive Work Type performed on the same entity adds a cumulative **+8% failure probability** to work success rates.
+- **Cooldown:** Acoustic Overload resets to 0% only when the facility advances to the next Meltdown Level.
+
+---
+
+### System 2: Directorate Tactical Command Directives (지휘관 전술 지령 탄환 시스템)
+
+Fired directly from the Decision Core on Floor 1 through pressurized pneumatic conduits running along the facility ceiling:
+
+```text
++==============================================+
+|       TACTICAL COMMAND DIRECTIVES MATRIX     |
++==============================================+
+| Directive Type       | Operational Effect    |
++======================+=======================+
+| Han Salve Jet        | Restores 25% Phys HP  |
++----------------------+-----------------------+
+| Veil Mist Dampener   | Restores 25% Composure|
++----------------------+-----------------------+
+| 4-Sign Aegis Shell   | 50 Dmg Reson. Shield  |
++----------------------+-----------------------+
+| Acoustic Siphon      | -60% Entity Move Speed|
++----------------------+-----------------------+
+| Quarantine Severance | Instant Lethal Purge  |
++======================+=======================+
+```
+
+1. **Han Salve Jet (생체 한 연고 투하):** Deploys a mist of coagulated positive Han that mends flesh and seals hemorrhages, restoring 25% Resilience (Physical HP) to all personnel in the targeted chamber or corridor.
+2. **Veil Mist Dampener (베일 안개 완화포):** Disperses an acoustic dampening aerosol that calms racing heartbeats and suppresses sorrow echoes, restoring 25% Composure (Mental SP).
+3. **Four-Sign Resonance Aegis (4대 공명 방호막):** Deploys a targeted elemental energy shield (Grudge, Lament, Weight, or Void) that absorbs up to 50 points of incoming damage of that specific frequency for 15 seconds.
+4. **Acoustic Siphon Round (음향 흡수 탄환):** Fires a kinetic dampening anchor into a breached entity, siphoning its vibrational energy and reducing its movement speed by 60% for 10 seconds.
+5. **Quarantine Severance Round (격리 단절 처형탄):** A classified titanium-core round authorized exclusively by Director Majin. Instantly executes an irrecoverably panicked Clerk or Fractured Agent. Essential to prevent mourning-feasting entities (*SE-010 Convergence* or *SE-061 Debtor*) from consuming their grief-saturated corpses and triggering facility-wide mass hysteria.
+
+---
+
+### System 3: Departmental Clerks, Floor Continuous Auras & Morale Cascades (부서 상주 보좌진 공명 오라)
+
+```text
++==============================================+
+|        FLOOR ATTENDANT RESONANCE AURAS       |
++==============================================+
+| Floor & Department   | Active Continuous Aura|
++======================+=======================+
+| F1: Neutral Command  | +10% Movement Speed   |
++----------------------+-----------------------+
+| F2: The Maw's Keep   | +10 Max Resilience    |
++----------------------+-----------------------+
+| F3: Extraction Hall  | +10% Han Extract Yield|
++----------------------+-----------------------+
+| F4: Insight Forge    | +8% Work Success Rate |
++----------------------+-----------------------+
+| F5: Border Watch     | +15% Grudge/Phys Def  |
++----------------------+-----------------------+
+| F6: Deep Vault       | +15 Max Composure (SP)|
++----------------------+-----------------------+
+| F7: Shadow Corps     | +15% Evade/Initiative |
++----------------------+-----------------------+
+| F8: Gate Watch       | +20s Ordeal Warning   |
++======================+=======================+
+```
+
+#### The Morale Cascade (사기 붕괴 메커니즘)
+- **100% to 70% Clerk Survival:** Full departmental aura active.
+- **69% to 31% Clerk Survival:** Departmental aura potency halved.
+- **30% to 1% Clerk Survival:** Departmental aura completely deactivated.
+- **0% Clerk Survival (Department Wiped):** The floor enters **Acoustic Despair Surge**. Entity Sorrow Gauges passively rise by +1% every 5 seconds, and all agents on that floor suffer -20 Max Composure.
+
+---
+
+### System 4: Emergency Floor Quarantine & The Shadow Sweep Protocol (그림자 소탕 의정서)
+
+When multiple Sovereign or Entity breaches threaten total structural containment, Director Majin can activate **The Shadow Sweep Protocol**:
+
+```text
++==============================================+
+|         SHADOW SWEEP PROTOCOL OVERVIEW       |
++==============================================+
+| Executive Authority  | Director Majin        |
++----------------------+-----------------------+
+| Field Commander      | Lead Ishall (Floor 7) |
++----------------------+-----------------------+
+| Deployment Asset     | 6 Android Effigies    |
++----------------------+-----------------------+
+| Armament Class       | Unanswered Relic Tech |
++----------------------+-----------------------+
+| Energy Cost          | 200 Han-Energy Units  |
++======================+=======================+
+```
+
+- **Execution:** Heavy hydraulic blast bulkheads sever the target floor from the central shaft.
+- A strike team of 6 high-output Android Effigies led by Lead Ishall drops into the quarantine zone via pressurized descent pods.
+- Armed with Before-Time relic cannons (*Unanswered* resonant rail-lances), the squad suppresses all uncontained entities, hostile Ordeals, and Fractured beings with extreme prejudice.
+- Once cleared, the floor is decontaminated, containment cells are reset, and surviving personnel are moved to Floor 6 stasis for cognitive scrubbing.
+
+---
+
+### System 5: Class-T Tool-Type Sorrow Relics & Cursed Apparatuses (도구형 한 유물 체계)
+
+Unlike living Sorrow Entities, Class-T Relics do not possess physical anatomy or sentience; they are cursed Before-Time devices that manipulate Han:
+
+```text
++==============================================+
+|         CLASS-T TOOL RELIC REGISTRY          |
++==============================================+
+| Tool Designation     | Operational Function  |
++======================+=======================+
+| SE-T-01: Hourglass   | Rewinds Floor Damage  |
++----------------------+-----------------------+
+| SE-T-02: Sensory Well| Reveals All Traits    |
++----------------------+-----------------------+
+| SE-T-03: Sarcophagus | Absolute Invulnerable |
++----------------------+-----------------------+
+| SE-T-04: Suture Loom | Instant Stat Surge    |
++======================+=======================+
+```
+
+1. **SE-T-01: The Backward Hourglass (되감는 모래시계):**
+   - *Function:* Inverting the hourglass rewinds physical chamber damage and heals fatal wounds of agents on that floor by 3 minutes.
+   - *Cost:* The operator ages 10 physiological years immediately and permanently loses 15 Max Composure.
+2. **SE-T-02: The Acoustic Sensory Well (공명 투시경):**
+   - *Function:* An agent gazes into the dark well. For 3 minutes, all entity work preferences, hidden triggers, and Meltdown countdowns across the entire facility are revealed.
+   - *Cost:* The operator suffers 5 Void damage every 5 seconds while viewing.
+3. **SE-T-03: The Mourner's Iron Sarcophagus (애도자의 관):**
+   - *Function:* An agent steps inside the iron casket. While inside, the agent is 100% immune to all damage, Ordeals, and mental terror.
+   - *Cost:* For every 15 seconds the agent remains inside, all other containment cells on the floor gain +10% Sorrow Gauge. If kept inside beyond 60 seconds, the agent is consumed and fused into the iron plating.
+4. **SE-T-04: The Suture Loom of Unmade Memories (기억 봉합 베틀):**
+   - *Function:* Weaves liquid Han into an operative's gear, granting +30 to all four attributes for the remainder of the shift.
+   - *Cost:* At shift conclusion, the operative suffers total autobiographical amnesia and must undergo behavioral reconstruction under Secretary Seiyon.
+
+---
+
+### System 6: Pre-Fracture Panic Typology & Sanity Restoration (4대 붕괴 패닉 유형 및 제정신 회복)
+
+When an agent's Composure hits 0, they do not instantly undergo irreversible physical Fracture; they enter a **Pre-Fracture Panic State** dictated by their highest attribute:
+
+```text
++==============================================+
+|          PRE-FRACTURE PANIC TYPOLOGY         |
++==============================================+
+| Highest Attribute    | Panic Behavioral State|
++======================+=======================+
+| Resilience (♦ Blue)  | Grudge Frenzy (Berserk|
++----------------------+-----------------------+
+| Clarity (♠ Pale)     | Void Catatonia(Suicide|
++----------------------+-----------------------+
+| Composure (♣ Crimson)| Lament Weeping (Echo) |
++----------------------+-----------------------+
+| Resolve (♦ Black)    | Weight Sabotage(Unlock|
++======================+=======================+
+```
+
+1. **Grudge Frenzy (원한 광란 / Berserk — Highest Resilience):** The agent hallucinates colleagues as grotesque sorrow phantoms, attacking nearby allies with +50% attack speed using their M.A.W. weapon.
+2. **Void Catatonia (공허 자멸 / Suicide — Highest Clarity):** The agent drops to their knees, whispering the ancient Cheongula death-dirge while ripping off their Memory Anchor, taking rapid self-inflicted Void damage until death.
+3. **Lament Weeping (비탄 방황 / Wandering Echo — Highest Composure):** The agent runs uncontrollably through facility hallways, shrieking piercing acoustic grief that inflicts 15 Lament SP damage on every employee in rooms they pass through.
+4. **Weight Sabotage (중압 사보타주 / Containment Release — Highest Resolve):** Overwhelmed by the city's crushing burden, the agent marches methodically to the nearest containment cells and overrides emergency containment levers, liberating contained entities.
+
+#### Sanity Restoration Protocol (제정신 회복 의정서)
+- Panicked operatives can be saved before they permanently Fracture.
+- Colleagues must intercept the panicked agent and strike them using **Lament (Blue) or Void (Pale)** M.A.W. weapons.
+- Inflicting mental damage equal to the target agent's maximum Composure purges the unvented Han buildup, restoring the agent to full sanity and stabilizing their mental gauge!
+
+---
+
+### System 7: Floor Research Trees & Echo-Core Suppression Milestones (8대 층별 연구 기술 트리)
+
+Each of the eight floors offers three distinct technological breakthroughs unlocked as the Echo-Core completes operational milestones:
+
+```text
++==============================================+
+|         FLOOR RESEARCH MILESTONES            |
++==============================================+
+| Floor                | Research Breakthroughs|
++======================+=======================+
+| F1: Majin & Seiyon   | 1. Valve Regulator    |
+|                      | 2. Cognitive Speed    |
+|                      | 3. Mnemonic Ledger    |
++----------------------+-----------------------+
+| F2: Dekan            | 1. Maw Acoustic Damp. |
+|                      | 2. Whispering Sensors |
+|                      | 3. Mag-Seal Latches   |
++----------------------+-----------------------+
+| F3: Zyrak            | 1. Crucible Tuning    |
+|                      | 2. Dual-Core Extract  |
+|                      | 3. M.A.W. Reson-Weave |
++----------------------+-----------------------+
+| F4: Ayshuk           | 1. Spectrometric View |
+|                      | 2. Bio-Loom Boost     |
+|                      | 3. Diagnostic Prism   |
++----------------------+-----------------------+
+| F5: Mellda           | 1. Veil Armor Infusion|
+|                      | 2. Sentry Turrets     |
+|                      | 3. Blast Bulkhead Lock|
++----------------------+-----------------------+
+| F6: Marjuk           | 1. Cryo Preservation  |
+|                      | 2. Truth Stasis Seals |
+|                      | 3. Abyssal Grid Damp  |
++----------------------+-----------------------+
+| F7: Ishall           | 1. Shadow Pod Transit |
+|                      | 2. Kinetic Black-Rounds|
+|                      | 3. Contraband Scanner |
++----------------------+-----------------------+
+| F8: Xyan             | 1. Frontier Sonar     |
+|                      | 2. Desolate Dampener  |
+|                      | 3. Exile Signal Decode|
++======================+=======================+
+```
+
+---
+
+### System 8: Agent Trait Titles, Resonant Scars & 8 M.A.W. Gift Body Slots (요원 칭호, 공명 흉터 및 8대 기프트)
+
+```text
++==============================================+
+|           THE 8 M.A.W. GIFT BODY SLOTS       |
++==============================================+
+| Slot #               | Anatomical Position   |
++======================+=======================+
+| Slot 1               | Forehead / Crown      |
++----------------------+-----------------------+
+| Slot 2               | Eyes / Mask / Visor   |
++----------------------+-----------------------+
+| Slot 3               | Mouth / Respirator    |
++----------------------+-----------------------+
+| Slot 4               | Neck / Collar         |
++----------------------+-----------------------+
+| Slot 5               | Torso / Mantle        |
++----------------------+-----------------------+
+| Slot 6               | Right Arm / Gauntlet  |
++----------------------+-----------------------+
+| Slot 7               | Left Arm / Bracer     |
++----------------------+-----------------------+
+| Slot 8               | Back / Wings / Spine  |
++======================+=======================+
+```
+
+- **Procedural Agent Titles:** Operatives who survive catastrophic crises earn distinct honorifics (e.g., *"The Maw-Hardened"* (+3 Resilience), *"Witness of the Cheongula"* (+3 Composure), *"Suture-Bearer"* (+3 Resolve), *"Unblinking"* (+3 Clarity)).
+- **Resonant Scars (공명 흉터):** Surviving Sovereign-grade breaches etches permanent physical alterations into an operative's body (e.g., crystalline tear-ducts, obsidian forearm plating, brine-veined corneas) providing passive elemental resistances.
+
+---
+
+### System 9: Shift Performance Index & Refined Han Reagents (교대 결산 등급 및 속성 연마)
+
+At the conclusion of each operational shift, Secretary Seiyon compiles the **Shift Evaluation Index**:
+
+```text
++==============================================+
+|            SHIFT PERFORMANCE RATINGS         |
++==============================================+
+| Grade                | Performance Criteria  |
++======================+=======================+
+| Grade S              | 100% Quota, 0 Deaths, |
+|                      | 0 Clerks Lost, 0 Breac|
++----------------------+-----------------------+
+| Grade A              | 100% Quota, 0 Deaths, |
+|                      | <5% Clerks Lost       |
++----------------------+-----------------------+
+| Grade B              | 100% Quota, 1-2 Deaths|
+|                      | <20% Clerks Lost      |
++----------------------+-----------------------+
+| Grade C              | Quota Met in Overtime,|
+|                      | 3+ Agent Fatalities   |
++----------------------+-----------------------+
+| Grade F              | Reserve Tap Compromise|
+|                      | or >50% Facility Fract|
++======================+=======================+
+```
+
+- **Reward Currency — Refined Han Reagents (정제 한 시약 / RHR):**
+  - High performance awards RHR points.
+  - Spent in Floor 4's Training Chambers to permanently hone agent attributes (Resilience, Clarity, Composure, Resolve) or hire elite apprentice staff.
+
+---
+
+### System 10: The Absolvohan Climax Sequence (Shift 1,778 Convergence Protocol)
+
+The ultimate operational endgame of the Reverie Directorate, occurring at the culmination of 1,778 cyclical iterations:
+
+```text
++==============================================+
+|        ABSOLVOHAN CONVERGENCE PHASES         |
++==============================================+
+| Phase                | Tactical Objective    |
++======================+=======================+
+| Phase I: Maw Uncap   | Vent Deep Tectonic Han|
++----------------------+-----------------------+
+| Phase II: 8-Floor Res| Echo-Core Synchrony   |
++----------------------+-----------------------+
+| Phase III: Council   | Repel Giltong Assault |
++----------------------+-----------------------+
+| Phase IV: Hand of Hope| Transmute Grief to Hope|
++======================+=======================+
+```
+
+1. **Phase I — Uncapping the Maw (심연 개방):** Floor 2 Lead Dekan unseals the abyssal tectonic valve, venting subterranean grief directly into the facility conduit network while withstanding waves of ancient Sovereign-tier sorrow entities.
+2. **Phase II — Eight-Floor Resonance Lockdown (8대 층 공명 동기화):** All eight Echo-Cores simultaneously synchronize their soul arrays. Director Majin engages *Reaper Hungered* at maximum harmonic output, holding the facility's crystalline lattice together.
+3. **Phase III — The Council of Sighs Interdiction (원로회 진압 차단):** Desperate to maintain civic control, the Council dispatches elite Giltong enforcers to seize the Absolvohan. Shadow Lead Ishall (Floor 7) and Border Lead Mellda (Floor 5) fortify the upper bulkheads, repelling the municipal invasion.
+4. **Phase IV — Manifestation of the Hand of Hope (희망의 손 점화):** The accumulated 36 tons of crystallized Flerehan undergoes full transmutation into **The Hand of Hope (희망의 손 / HT-001 through HT-012)**. Radiant golden dawn floods through the subterranean channels, permanently transforming 15% of the city's existential grief into Hope and breaking the cyclical loop forever.
+
+---
