@@ -384,13 +384,13 @@ Marjuk's standing justification:
 
 The decision is his alone. It has never been reviewed, because reporting it would require revealing that there is something to review.
 
-### Floor 7 Acoustic Isolation Protocols: Chief Defender Baekho's Bastion Barrier
+### Deep Vault Acoustic Isolation Protocols: The Floor 6 Abyssal Seal & Border Anchors
 
-Because the Doorspeech acts as an ontological disruptor, containing its acoustic bleed is Facility 01's highest classified defensive directive, managed directly by **Chief Defender Baekho** on **Floor 7 (Floor of Defense & Bastion Architecture)**:
+Because the Doorspeech acts as an ontological disruptor, containing its acoustic bleed is Facility 01's highest classified defensive directive, coordinated directly by **Archive Lead Marjuk** in **Floor 6 (The Deep Vault)** and reinforced by **Floor 5 (Mellda's Border Watch)** and **Floor 7 (Ishall's Shadow Corps)**:
 
-- **Triple-Layer Acoustic Baffles:** Floor 6's Deep Vault is encased in three concentric rings of reinforced basalt baffles interleaved with high-density leaded dampening foam.
-- **Anti-Vibrational Void Gel Dampeners:** Hydraulic bulkheads separating Floor 6 from the upper sectors are pressurized with specialized Void gel. This non-conductive fluid absorbs the 7.83 Hz carrier wave, preventing sympathetic acoustic resonance from vibrating the Alpha Tree's structural pylons.
-- **Crystalline Null-Resonance Shields:** Baekho engineered inverted Han-frequency emitters along the ceiling of Floor 6. If the Final Door begins an unprovoked whisper during an Ordeal, the shields project an immediate counter-harmonic cancellation field, containing the vocal vibration strictly within the lowest vault.
+- **Triple-Layer Acoustic Baffles:** Floor 6's Abyssal Seal Chamber is encased in three concentric rings of reinforced basalt baffles interleaved with high-density leaded dampening foam.
+- **Anti-Vibrational Void Gel Dampeners:** Hydraulic bulkheads separating Floor 6 from the upper sectors are pressurized with specialized non-conductive Void gel. This fluid absorbs the 7.83 Hz carrier wave, preventing sympathetic acoustic resonance from vibrating the Alpha Tree's structural pylons.
+- **Crystalline Null-Resonance Shields:** Floor 6 ceiling arrays feature inverted Han-frequency emitters. If the Final Door begins an unprovoked whisper during an Abyss Ordeal, the shields project an immediate counter-harmonic cancellation field, containing the vocal vibration strictly within the lowest vault.
 - **The Catastrophic Bleed Scenario:** If the Doorspeech were ever to leak into civilian sectors, the unshielded population would experience instantaneous psychic sympathetic awakening, collapsing the collective Veil and triggering mass-Fracture across entire residential blocks.
 
 ---

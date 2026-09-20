@@ -28,13 +28,14 @@ When the Absolvohan release sequence is triggered, high-pressure liquid sorrow t
 
 | Floor / Jurisdiction | Lead Officer | Valve System & Operational Role |
 |---|---|---|
-| **Floor 1 (Oversight)** | Head Overseer Ishall | **Atmospheric Injection Relays:** Controls the municipal diffusion gates, releasing vaporized Han into upper air currents without crushing civilian neural pathways. |
-| **Floor 2 (Containment)** | Containment Lead Dekan | **Basalt Siphon Interceptors:** Heavy hydraulic sluice gates block the Weeping's conduits, preventing back-pressure from flooding the Maw and triggering mass breaches. |
-| **Floor 3 (Extraction)** | Extraction Lead Zyrak | **Lament Well Agitation Turbines:** Acoustic cavitation spinners shatter solid Han-crystal blocks into super-heated kinetic mist for pressurized venting. |
-| **Floor 4 (Analysis)** | Chief Analyst Ayshuk | **Void Entropy Calibrators:** Continuous algorithmic telemetry monitors the sorrow-to-hope ratio, preventing localized psychic black holes from forming. |
-| **Floor 5 (Disciplinary)** | Head Disciplinarian Ria | **Kinetic Ballast Anchors:** Magnetic lockdown brakes secure the Alpha Tree's structural spine against the violent vibrational recoil of the venting turbines. |
-| **Floor 6 (Archive)** | Archive Lead Marjuk | **Deep Vault Cryo-Sinks:** Liquid helium manifolds absorb the immense thermodynamic grief-heat generated during mass crystallization breakdown. |
-| **Floor 7 (Defense)** | Chief Defender Baekho | **Perimeter Exhaust Flues:** Leaded blast vents route excessive pressure outside the municipal shield into the uninhabited dunes of the Desolate. |
+| **Floor 1 (Central Spire)** | Director Majin & Secretary Seiyon | **Atmospheric Injection Relays:** Controls the municipal diffusion gates from the Decision Core, modulating vaporized Han discharge into upper air currents. |
+| **Floor 2 (The Maw's Keep)** | Containment Lead Dekan | **Basalt Siphon Interceptors:** Heavy hydraulic sluice gates isolate the Weeping's primary trenches, preventing back-pressure from flooding the Maw and triggering mass breaches. |
+| **Floor 3 (Extraction Hall)** | Extraction Lead Zyrak | **Lament Well Agitation Turbines:** Acoustic cavitation spinners shatter solid Han-crystal blocks in Crystal Vats into super-heated kinetic mist for pressurized venting. |
+| **Floor 4 (Insight Forge)** | Research Lead Ayshuk | **Void Entropy Calibrators:** Real-time city simulation telemetry monitors the sorrow-to-hope ratio, preventing localized psychic black holes from forming. |
+| **Floor 5 (Border Watch)** | Border Lead Mellda | **Kinetic Ballast Anchors:** 500-Warden perimeter defense locks secure the Alpha Tree's structural spine against violent vibrational recoil. |
+| **Floor 6 (Deep Vault)** | Archive Lead Marjuk | **Deep Vault Cryo-Sinks:** Liquid helium manifolds absorb the immense thermodynamic grief-heat generated during mass crystallization breakdown near the Final Door. |
+| **Floor 7 (Shadow Corps)** | The Outsider Ishall | **Sovereign Overload Diverters:** Elite black-operations diversion valves prevent rogue Han surges from rupturing deep municipal conduits. |
+| **Floor 8 (Gate Watch)** | The Exile Xyan | **Desolate Transit Flues:** Outer perimeter sentry airlocks vent excess steam and unrefined sorrow pressure directly into the uninhabited dunes of the Desolate. |
 
 ### 3. Director Majin's Final Fail-Safe: Protocol Void-Requiem (최종 단절 규약)
 Should the Absolvohan backfire — or should the Maw breach the basalt trenches and consume the facility — Director Majin holds an encrypted biometric override:

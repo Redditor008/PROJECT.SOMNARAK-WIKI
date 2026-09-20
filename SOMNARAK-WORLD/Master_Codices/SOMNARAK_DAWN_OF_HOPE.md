@@ -327,14 +327,14 @@ Instead of capturing entities into containment vats or forging them into M.A.W. 
 
 The Dawn's aggressive liberation campaigns inevitably pit their field operatives against the Reverie Directorate's iron enforcers in Facility 01:
 
-### Rogue Acoustic Saboteurs vs. Floor 5 (Ria — Floor of Disciplinary Law)
+### Rogue Acoustic Saboteurs vs. Floor 5 (Mellda — Border Watch & Warden Garrison)
 - **The Saboteurs' Tactic:** Dawn underground cells carry high-frequency acoustic disruptors into the Alpha Tree's lower conduits, attempting to shatter the harmonic seals holding Floor 2's containment trenches.
-- **Ria's Counter-Execution:** Head Disciplinarian Ria regards the Dawn as suicidal arsonists whose haphazard entity releases risk triggering city-wide Sorrow Tides. Wielding her massive mechanical cleaver, the *Guillotine of Order*, Ria leads shock suppression squads into the subterranean aqueducts. When Dawn disruptors fire acoustic jams, Ria utilizes magnetic ballast dampeners to ground the frequencies, bisecting rogue sabotage rigs with merciless mechanical precision.
+- **Mellda's Perimeter Interception:** Border Lead Mellda regards the Dawn as reckless zealots whose haphazard entity releases risk triggering city-wide Sorrow Tides. Leading the 500-Warden garrison armed with her Cyborg-manufactured arm blade *Threshold Vow*, Mellda intercepts saboteur cells in the transit aqueducts. Utilizing magnetic bulwark dampeners to ground acoustic jams, she disarms rogue sabotage rigs with disciplined martial precision.
 
-### Ideological Deadlock vs. Floor 1 (Ishall — Floor of Oversight)
-- **Archive Infiltration:** Infiltrators from the Dawn repeatedly attempt to breach Floor 1's deep administrative servers to steal Director Majin's unredacted cycle logs and broadcast the 1,778 resets to the civilian populace.
-- **The Android's Judgment:** Head Overseer Ishall intercepts them at the Threshold of Order. As a woman whose human soul was placed within an emotionless Android Effigy, Ishall understands their longing for liberation better than anyone. Yet her cold administrative logic dictates that an abrupt, premature dissolution of the Alpha Tree would collapse Somnarak's atmospheric scrubbers within forty-eight hours, killing 400,000 citizens.
-- **The Silencing of Unanswered:** Rather than slaughtering the infiltrators, Ishall draws her Before-Time Relic, *Unanswered*. A single heavy silence wave discharges from the black barrel, freezing the saboteurs' acoustic gear and temporarily paralyzing their nervous systems, leaving them intact for Directorate memory-scrubbing.
+### Ideological Deadlock vs. Floor 7 (Ishall — Shadow Corps Command)
+- **Archive Infiltration:** Infiltrators from the Dawn repeatedly attempt to breach deep Directorate servers to steal Director Majin's unredacted cycle logs and broadcast the 1,778 resets to the civilian populace.
+- **The Outsider's Judgment:** Head of the Shadow Corps Ishall intercepts them at the subterranean nexus. As a woman whose human soul was preserved within an Android Effigy, Ishall understands their longing for liberation better than anyone. Yet her tactical oversight dictates that an abrupt, premature dissolution of the Alpha Tree would collapse Somnarak's atmospheric scrubbers within forty-eight hours, killing 400,000 citizens.
+- **The Silencing of Unanswered:** Rather than slaughtering the infiltrators, Ishall commands her paired floating Before-Time Artifact hands, *Unanswered*. A single heavy wave of absolute silence discharges, neutralizing the saboteurs' acoustic gear and paralyzing their nervous systems without lethal harm.
 
 ---
 
