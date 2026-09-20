@@ -9,11 +9,22 @@
 
 Somnarak operates through **three Corporations** — each an autonomous institution with its own strategic mission, executive authority, and specialized personnel. Together, they form the city's existential defense against the rising tide of unresolved sorrow.
 
-| Corporation | Abbreviation | Core Mission | Operational Doctrine | Primary Domain |
-|---|---|---|---|---|
-| **The Reverie Directorate** | **R.D.** | Contain Sorrow Entities, extract M.A.W., manage Facility 01 | Subterranean Facility Containment & M.A.W. Management | Facility 01 (Beneath Alpha Tree) |
-| **Somnarak Exploration Decreed** | **SED** | Explore the unmapped, discover the unknown, map the forgotten | Deep Maw Exploration & Structural Cartography | The Undercity, Deep Maw & Desolate |
-| **Underworld Cleanup Descend** | **UCD** | Dismantle the Frays, restore order, purge black markets | Urban Pacification & Anti-Fray Combat Operations | Zone B (The Raw), C, D & E |
+```text
++==============================================+
+|         THE THREE CORPORATIONS MATRIX        |
++==============================================+
+| Corporation          | Strategic Domain      |
++======================+=======================+
+| Reverie Directory    | Subterranean Facility |
+| (R.D. / 리버리 지부) | Containment & M.A.W.  |
++----------------------+-----------------------+
+| Somnarak Exploration | Deep Maw Exploration  |
+| Decreed (SED / 탐사) | & Frontier Cartography|
++----------------------+-----------------------+
+| Underworld Cleanup   | Urban Pacification &  |
+| Descend (UCD / 정화) | Anti-Fray Combat Ops  |
++======================+=======================+
+```
 
 Each Corporation maintains its own:
 - **Personnel** — officers, specialists, and operatives bearing unique scars and sorrows
@@ -23,25 +34,33 @@ Each Corporation maintains its own:
 
 ---
 
-## Corporation 1: The Reverie Directorate (리버리 지부 — Riberi Jibu)
+## Corporation 1: The Reverie Directory (리버리 지부 — Riberi Jibu)
 
 ### What It Is
 
-The Reverie Directorate is Somnarak's central containment institution — a massive subterranean complex beneath the Alpha Tree, housing hundreds of Sorrow Entities, extracting M.A.W. armaments, and stewarding the Absolvohan device.
+The **Reverie Directory (R.D.)** is Somnarak's central containment institution — a massive subterranean complex beneath the Alpha Tree, housing hundreds of Sorrow Entities, extracting M.A.W. armaments, and stewarding the Absolvohan device.
 
 **Operational Doctrine:** Subterranean Facility Containment & M.A.W. Management  
 **Location:** Beneath the Alpha Tree — Zone A (Facility 01 / "The Hand of Change")
 
-**Command Cadre:**
-- **Director Majin** — Supreme Facility Commander. Biological human fused with an Ω-Grade entity graft (*Reaper Hungered*). Carries the burden of 1,778 cycles.
-- **Secretary Seiyon** — Central Administrative Core. Humanoid synthetic effigy awakened by lost human memories. Records every cycle.
-- **Containment Lead Dekan** — Head of Floor 2. Biomechanical Cyborg (~50% flesh) bearing a scaled biological graft. Speaks to the Maw.
-- **Extraction Lead Zyrak** — Head of Floor 3. Human soul housed in an industrial Android Cast Effigy (0% flesh). Oversees M.A.W. crystallization.
-- **Research Lead Ayshuk** — Head of Floor 4. Human soul housed in an analytical Android platform (0% flesh). Analyzes resonance patterns.
-- **Border Lead Mellda** — Head of Floor 5. Biomechanical Cyborg (~45% flesh) wielding the manufactured arm-blade *Threshold Vow*.
-- **Archive Lead Marjuk** — Head of Floor 6. Cryogen Stasis Matrix (~20% flesh). Living human brain and eye preserving classified historical codices.
-- **Shadow Corps Lead Ishall** — Head of Floor 7. Human soul housed in a repurposed Android chassis (0% flesh). Wields Before-Time relic hands *Unanswered*.
-- **Boundary Vanguard Xyan** — Head of Floor 8. Frontier Cyborg (~55% flesh). Positioned at the Exile's Gate; transmits Desolate dispatches.
+### Command Cadre Across the Eight Operational Floors
+- **Floor 1: Neutral Command**
+  - **Director Majin (마진)** — Supreme Facility Commander. Biological human fused with an Ω-Grade entity graft (*Reaper Hungered*). Carries the burden of 1,778 cycles at the Decision Core.
+  - **Secretary Seiyon (세이온)** — Central Administrative Core. Humanoid synthetic effigy awakened by lost human memories. Transmits multi-array dispatches and maintains 1,778 cycles of flawless records.
+- **Floor 2: The Maw's Keep**
+  - **Containment Lead Dekan (데칸)** — Biomechanical Cyborg (~50% flesh) bearing a scaled biological graft. Directly oversees Cells 01 through 03, the Whispering Gallery, and monitors acoustic strain along the Maw’s Edge.
+- **Floor 3: The Extraction Hall**
+  - **Extraction Lead Zyrak (지락)** — Human soul housed in an industrial Android Cast Effigy (0% flesh). Operates Extraction Chambers A and B, achieving a 99.2% harvest efficiency and forging M.A.W. weaponry and suits.
+- **Floor 4: Insight Forge**
+  - **Research Lead Ayshuk (아이슈크)** — Human soul housed in an analytical Android platform (0% flesh). Directs the Han Physics Laboratory, Resonance Tuning Array, and Bio-Synthesis Looms.
+- **Floor 5: Border Watch**
+  - **Border Lead Mellda (멜다)** — Biomechanical Cyborg (~45% flesh) wielding the manufactured arm-blade *Threshold Vow*. Commands the 500-Warden garrison and long-range radar arrays against outside grief.
+- **Floor 6: Deep Vault**
+  - **Archive Lead Marjuk (마주크)** — Cryogen Stasis Matrix (~20% flesh). Living human brain and eye preserving classified historical codices, Memory Wells, and guarding the Final Door.
+- **Floor 7: Shadow Corps**
+  - **Shadow Corps Lead Ishall (이샬)** — Human woman soul housed in a repurposed enemy Android chassis (0% flesh). Wields Before-Time relic hands *Unanswered*, commanding black operations and Sovereign suppression strike teams.
+- **Floor 8: Gate Watch**
+  - **Boundary Vanguard Xyan (시안)** — Frontier Cyborg (~55% flesh). Positioned at the Exile's Gate; commands lockdown airlocks and sentry arrays along the Desolate boundary.
 
 ### Operational Methodology
 
@@ -70,18 +89,18 @@ The Reverie Directorate is Somnarak's central containment institution — a mass
 
 ### What It Is
 
-The SED is Somnarak's frontier reconnaissance force — a dedicated legion of cartographers, engineers, and pathfinders dispatched into the unmapped, treacherous abyss of the city's subterranean depths and external frontiers.
+The **Somnarak Exploration Decreed (SED)** is Somnarak's frontier reconnaissance force — a dedicated legion of cartographers, engineers, and pathfinders dispatched into the unmapped, treacherous abyss of the city's subterranean depths and external frontiers.
 
 **Operational Doctrine:** Deep Maw Exploration & Structural Cartography  
 **Location:** The Undercity, Forgotten Districts, Deep Gardens, Border Tunnels, The Scar, The Desolate
 
-**Exploration Vanguard:**
-- **The Cartographer (Yeonhwa)** — Expedition Commander. Reads Han-flow conduits. Carries the Resonant Lens.
-- **The Mason (Doha)** — Heavy Vanguard. Shapes crystallized Han with his maul. Lost his home wall.
-- **The Sentinel (Harin)** — Defensive Bulwark. Protects the vanguard with an acoustic shield.
-- **The Dreamer (Sora)** — Sensory Specialist. Wields Veil silk to perceive the Dream Layer.
-- **The Archivist (Minjae)** — Field Chronicler. Documents uncharted entities with a suture needle.
-- **The Accountant (Jisoo)** — Logistics Officer. Maintains the debt ledger; calculates expedition costs.
+### Exploration Vanguard Roster
+- **The Cartographer (Yeonhwa / 연화)** — Expedition Commander. Reads Han-flow conduits. Carries the Resonant Lens.
+- **The Mason (Doha / 도하)** — Heavy Vanguard. Shapes crystallized Han with his maul. Lost his home wall.
+- **The Sentinel (Harin / 하린)** — Defensive Bulwark. Protects the vanguard with an acoustic shield.
+- **The Dreamer (Sora / 소라)** — Sensory Specialist. Wields Veil silk to perceive the Dream Layer.
+- **The Archivist (Minjae / 민재)** — Field Chronicler. Documents uncharted entities with a suture needle.
+- **The Accountant (Jisoo / 지수)** — Logistics Officer. Maintains the debt ledger; calculates expedition costs.
 - **The Silent One** — Unregistered Specialist. Bears the Burden relic; communicates with wild entities.
 
 ### Operational Methodology
@@ -92,7 +111,7 @@ The SED is Somnarak's frontier reconnaissance force — a dedicated legion of ca
 3. **Contact** — navigate encounters with wild entities and hostile environmental distortions
 4. **Excavation** — recover ancient artifacts, memory crystals, and historical truth
 5. **Extraction** — navigate back to established outposts with survey logs
-6. **Integration** — correlate findings with Directorate archives to plan further descents
+6. **Integration** — correlate findings with Directory archives to plan further descents
 
 **Core Capabilities:**
 - **Subterranean Cartography** — mapping shifting tunnels and non-Euclidean streets
@@ -110,18 +129,18 @@ The SED is Somnarak's frontier reconnaissance force — a dedicated legion of ca
 
 ### What It Is
 
-The UCD is Somnarak's tactical enforcement corps — a specialized urban strike force tasked with purging illicit syndicates, dismantling the rogue Frays, and neutralizing black-market sorrow exploitation.
+The **Underworld Cleanup Descend (UCD)** is Somnarak's tactical enforcement corps — a specialized urban strike force tasked with purging illicit syndicates, dismantling the rogue Frays, and neutralizing black-market sorrow exploitation.
 
 **Operational Doctrine:** Urban Pacification & Anti-Fray Combat Operations  
 **Location:** Zone B (The Raw), Zone C (Collector's Row), Zone D (Echo Gardens), Zone E (Border Districts)
 
-**Strike Force Roster:**
-- **The Commander (Taeho)** — Strike Force Leader. Veteran of the lost 7th District. Carries unresolved remorse.
-- **The Auditor (Yuna)** — Tactical Forensics. Tracks illicit debt networks and financial corruption.
-- **The Investigator (Minho)** — Identity Recovery. Specializes in reversing stolen memories and counterfeit veils.
-- **The Handler (Soojin)** — Breach Specialist. Neutralizes weaponized, unregistered sorrow entities.
-- **The Engineer (Joon)** — Heavy Fortifications. Deploys reinforced barricades and acoustic dampening barriers.
-- **The Infiltrator (Echo)** — Deep Cover Operative. Former Fray lieutenant who turned informant.
+### Strike Force Roster
+- **The Commander (Taeho / 태호)** — Strike Force Leader. Veteran of the lost 7th District. Carries unresolved remorse.
+- **The Auditor (Yuna / 유나)** — Tactical Forensics. Tracks illicit debt networks and financial corruption.
+- **The Investigator (Minho / 민호)** — Identity Recovery. Specializes in reversing stolen memories and counterfeit veils.
+- **The Handler (Soojin / 수진)** — Breach Specialist. Neutralizes weaponized, unregistered sorrow entities.
+- **The Engineer (Joon / 준)** — Heavy Fortifications. Deploys reinforced barricades and acoustic dampening barriers.
+- **The Infiltrator (Echo / 에코)** — Deep Cover Operative. Former Fray lieutenant who turned informant.
 
 ### Operational Methodology
 
@@ -138,7 +157,7 @@ The UCD is Somnarak's tactical enforcement corps — a specialized urban strike 
 - **Infiltration & Espionage** — silent breach, electronic counter-surveillance, disguise
 - **Forensic Investigation** — deciphering falsified transaction ledgers and erased identities
 - **Tactical Judicial Discretion** — balancing swift justice against humanitarian mercy
-- **Inter-Agency Coordination** — securing zones for subsequent Directorate or SED teams
+- **Inter-Agency Coordination** — securing zones for subsequent Directory or SED teams
 - **Ordnance Upgrades** — adapting seized black-market modifications for official issue
 
 **Strategic Mandate:** Six Urban Campaigns — systematically dismantling the underworld, from the Veil Merchants to the Underworld King.
@@ -154,7 +173,7 @@ While the three Corporations maintain distinct external mandates, their operatio
 | **Floor 1 (Sanctuary)** | The Director & Seiyon | **Closed Sovereignty:** Zero SED or UCD operational jurisdiction; diplomatic liaison via Secretary Seiyon only |
 | **Floor 2 (Containment)** | Dekan (The Maw Warden) | **SED Deep Intake:** Wild entities discovered in the deep abyss are transferred via pressurized tubes for initial quarantine |
 | **Floor 3 (Extraction)** | Zyrak (The Forge-Master) | **SED Refining & M.A.W. Outfitting:** SED raw Han quotas are refined into power; SED vanguards receive exploration-grade M.A.W. |
-| **Floor 4 (Research)** | Ayshuk (The Silent Ledger) | **Tripartite Analytical Exchange:** Integrates Directorate containment logs, SED geological surveys, and UCD forensic data |
+| **Floor 4 (Research)** | Ayshuk (The Silent Ledger) | **Tripartite Analytical Exchange:** Integrates Directory containment logs, SED geological surveys, and UCD forensic data |
 | **Floor 5 (Border Watch)** | Mellda (Threshold Vanguard) | **SED Surface Waystation:** Manages heavy airlocks and security clearances for SED exploration convoys entering the Desolate |
 | **Floor 6 (Grand Archive)** | Marjuk (The Stasis Keeper) | **Universal Memory Vault:** Houses recovered pre-Consolihan artifacts (SED) and restored citizen memory fragments (UCD) |
 | **Floor 7 (Shadow Corps)** | Ishall (The Outsider) | **UCD Contraband Custody:** Seized black-market memory-siphons, weaponized cores, and Fray telemetry are processed for intelligence |
@@ -169,8 +188,8 @@ The balance of power on Mugenhan exists as a tense, four-cornered cold war betwe
 ### 1. The Council of Sighs — Civic Sovereignty
 The Council claims legal ownership of all municipal resources, sets civic debt quotas, and deploys the Giltong to enforce the Seven Taboos. However, the Council possesses no physical capability to contain Sorrow Entities, navigate the deep abyss, or fight Fray warlords. They are completely dependent on the three Corporations for the city's continued existence.
 
-### 2. The Reverie Directorate — The Sovereign Facility
-The Directorate operates as an independent subterranean power. Within Facility 01, the Director's authority is absolute—the Council of Sighs is denied executive jurisdiction over containment cells, M.A.W. extraction protocols, and the classified Absolvohan project. The Giltong are restricted to surface perimeter stations and barred from the lower floors.
+### 2. The Reverie Directory — The Sovereign Facility
+The Directory operates as an independent subterranean power. Within Facility 01, the Director's authority is absolute—the Council of Sighs is denied executive jurisdiction over containment cells, M.A.W. extraction protocols, and the classified Absolvohan project. The Giltong are restricted to surface perimeter stations and barred from the lower floors.
 
 ### 3. The SED — Frontier Independence
 Operating in the deep fissures and outer wilderness, the SED routinely bypasses Council red tape. When Council bureaucrats attempt to restrict deep descents to control information about the Before-Time, the SED cites emergency structural necessity to proceed anyway, protected by their irreplaceable cartographic knowledge.
@@ -186,7 +205,7 @@ The UCD bridges the gap between high-level policy and street-level survival. Whi
 
 All three Corporations operate within the shared ecosystem of Somnarak. An incident in one domain directly reverberates across the others:
 
-| City Event | Reverie Directorate Impact | SED Impact | UCD Impact |
+| City Event | Reverie Directory Impact | SED Impact | UCD Impact |
 |---|---|---|---|
 | **Containment Breach** | Facility lockdown initiated | Exploration supply lines cut | Black market flooded with escaped beasts |
 | **Fray Syndicate Uprising** | Equipment supply lines raided | Frontier supply hubs compromised | Full tactical mobilization required |
@@ -197,7 +216,7 @@ All three Corporations operate within the shared ecosystem of Somnarak. An incid
 ### The Culmination — The Absolvohan
 
 The convergence of all three institutions reaches its zenith at the activation of the Absolvohan:
-- **The Reverie Directorate** constructs and aligns the core device, concentrating 1,778 cycles of accumulated grief.
+- **The Reverie Directory** constructs and aligns the core device, concentrating 1,778 cycles of accumulated grief.
 - **Somnarak Exploration Decreed** maps the subterranean channels leading to the true heart of The Weeping.
 - **Underworld Cleanup Descend** establishes the perimeter, preventing sabotage from desperate High Council factions.
 
@@ -207,7 +226,7 @@ When the Absolvohan fires, the golden dawn spreads through the subterranean cond
 
 ## Operational Overview & Institutional Synthesis
 
-| Operational Dimension | The Reverie Directorate (R.D.) | Somnarak Exploration Decreed (SED) | Underworld Cleanup Descend (UCD) |
+| Operational Dimension | The Reverie Directory (R.D.) | Somnarak Exploration Decreed (SED) | Underworld Cleanup Descend (UCD) |
 |---|---|---|---|
 | **Primary Domain** | Facility 01 / Alpha Tree Subterrane | The Maw, Deep Gardens & Frontier | Urban Underworld Sectors & The Raw |
 | **Command Authority** | Director Majin (마진) | Cartographer Yeonhwa (연화) | Commander Taeho (태호) |

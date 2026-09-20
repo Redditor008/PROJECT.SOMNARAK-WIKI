@@ -153,6 +153,6 @@ To ensure complete clarity and maintain absolute authorial boundaries between un
 
 ### D. Institutional Governance
 - **Project Moon:** Governed by **The Head** (A, B, C Corps) and 26 competing Wings driven by predatory capitalism, patent wars, and the brutal exploitation of the Backstreets through Sweepers and corporate slaughter.
-- **Somnarak:** Governed by **The Reverberation Directorate** (*변화의 손 / The Hand of Change*) seated -2,000 meters beneath the Alpha Tree, operating an 8-floor subterranean valve and containment monolith to maintain the **Absolvohan Reserve Tap** and prevent the entire metropolitan crust from collapsing under its own sorrow.
+- **Somnarak:** Governed by **The Reverie Directory** (*변화의 손 / The Hand of Change*) seated -2,000 meters beneath the Alpha Tree, operating an 8-floor subterranean valve and containment monolith to maintain the **Absolvohan Reserve Tap** and prevent the entire metropolitan crust from collapsing under its own sorrow.
 
 This comprehensive research archive stands as the permanent reference foundation for understanding the Project Moon world in its full depth and complexity.
