@@ -65,6 +65,27 @@ Each SED team consists of:
 - Memory Readers (for documentation)
 - Dream Chambers (portable, for emergency Dream-diving)
 
+### Field Exploration Doctrine & Specialized Survey Gear
+
+The SED does not conduct blind excursions. Every descent into Somnarak's subterranean foundations is governed by systematic survival doctrines:
+
+#### 1. The Three Tiers of Subterranean Descent (심도별 탐사 3단계)
+- **Tier 1: Urban Foundations (0 to -200m):** Structural mapping of sewer mains, utility aqueducts, and municipal foundations. Standard respirators and acoustic transceivers required.
+- **Tier 2: Pre-Consolihan Strata (-200m to -1,200m):** Ancient buried architecture, sealed pre-cataclysm bunkers, and feral Sorrow Entity breeding grounds. Requires environmental exo-rigs, pneumatic anchor spikes, and portable Void-barometers.
+- **Tier 3: The Abyssal Trench (-1,200m to the Weeping's Bed):** Extreme Han-pressure zones where liquid sorrow cuts through tectonic plates. Requires pressurized deep-dive suits and continuous cranial silver tethers.
+
+#### 2. Specialized SED Field Equipment
+| Gear System | Technical Specification | Exploration Utility |
+|---|---|---|
+| **The Horizon Lens (지평선 렌즈)** | Multi-spectral optical visor | Calibrated by Cartographer Yeonhwa to reveal invisible Han-currents and tectonic fault lines through solid rock |
+| **Pneumatic Basalt Pitons** | Pressurized carbide drive spikes | Anchors high-tensile silver-threaded ropes into unstable cavern walls, preventing squads from falling into liquid Han sinkholes |
+| **Resonance Flares (공명 조명탄)** | Golden-phosphorus chemical torches | Emits intense 550nm illumination that temporarily disorients light-sensitive Sorrow Entities in deep caves |
+| **Portable Void-Barometers** | Atmospheric Han-density sensor | Detects micro-fluctuations in localized grief pressure, warning scouts of imminent entity crystallization 10 minutes in advance |
+
+#### 3. Jurisdictional Protocols with UCD & R.D.
+- **The -50 Meter Demarcation:** In Zone B and Zone D, civil municipal jurisdiction (UCD) ends at exactly -50 meters. Beyond this depth, civilian law ceases and SED holds absolute operational command.
+- **Joint Pursuit Protocol 09 (관할 충돌 협정 09호):** If UCD tactical teams pursue syndicate fugitives across the -50m boundary into SED survey sectors, UCD firearms must be synchronized with the SED Cartographer's acoustic grid to prevent triggering cavern collapses or subterranean Han geysers.
+
 ### The Exploration Zones
 
 **75% of exploration is inside Somnarak.** The remaining 25% is the Desolate.
