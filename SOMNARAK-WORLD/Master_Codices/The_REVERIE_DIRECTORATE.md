@@ -9,19 +9,19 @@
 
 The Reverie Directorate (R.D.) is organized into **Nine Echo-Cores** — five operational departments, two specialized divisions, one Director, and one Secretary. Each Echo-Core is led by a person who carries a unique sorrow — and each Echo-Core's function is shaped by that sorrow.
 
-**The Nine:**
+**The Nine Echo-Cores Master Directory (Canonical Executive Registry):**
 
-| # | Title | Zone | Role |
-|---|-------|------|------|
-| **1** | The Director | A | Supreme authority — the one who carries the city's weight |
-| **2** | The Secretary | A | The one who remembers everything — and is forbidden from acting |
-| **3** | The Containment Lead | B | Manages Sorrow Entities in the oldest, most wounded zone |
-| **4** | The Extraction Lead | C | Extracts M.A.W. from entities — the most regulated zone |
-| **5** | The Research Lead | D | Studies Han, entities, and the Three Sorrows — the balanced zone |
-| **6** | The Border Lead | E | Defends against Outside Sorrow — the most dangerous zone |
-| **7** | The Archive Lead | A (Deep) | Preserves the truth — buried beneath the Alpha Tree |
-| **8** | The Outsider | — | An enemy incorporated — someone who was sent to destroy the R.D. |
-| **9** | The Exile | — | Someone who left — and was drawn back by sorrow |
+| Floor / Sector | Designation & Name | True Look Effigy | Signature Equipment & Armament | Primary Han Element |
+|---|---|---|---|---|
+| **Floor 1 (Spires)** | **The Director (Majin / 마진)** | Living Human (Ω-Fusion) | Fused Singular M.A.W. *Reaper Hungered* (Ω Scythe) | Weight (Black) / Grudge + Lament |
+| **Floor 1 (Central Admin)** | **The Secretary (Seiyon / 세이연)** | Android Effigy (0% Flesh) | Crystalline Interface *The Promise* (Key Pages) | Lament (Deep Blue) + Void (Pale) |
+| **Floor 2 (Maw's Keep)** | **The Containment Lead (Dekan / 데칸)** | Biomechanical Cyborg (~50%) | Living Biological Graft *The Scaled Maw-Flesh Arm* | Grudge (Crimson) |
+| **Floor 3 (Extraction Hall)** | **The Extraction Lead (Zyrak / 지락)** | Android Cast Effigy (0% Flesh) | Specialized Forge Gear *Mechanical Hands & Rig* | Grudge (Crimson) + Void (Pale) |
+| **Floor 4 (Insight Forge)** | **The Research Lead (Ayshuk / 아이숙)** | Android Platform (0% Flesh) | Specialized Cognitive *Subject-Mind Research Ledger*| Void (Pale White) |
+| **Floor 5 (Border Watch)** | **The Border Lead (Mellda / 멜다)** | Biomechanical Cyborg (~45%) | Manufactured Weapon *Threshold Vow* (Arm-Blade) | Weight (Black) + Grudge (Crimson) |
+| **Floor 6 (Deep Vault)** | **The Archive Lead (Marjuk / 마주크)** | Cryogen Matrix (~20% Flesh) | Specialized Optical Relic *Memory Lens & Index* | Void (Pale White) + Weight (Black)|
+| **Floor 7 (Shadow Corps)** | **The Outsider (Ishall / 이샬)** | Android Effigy (0% Flesh) | Paired Before-Time Relic *Unanswered* (Gloves) | Grudge (Crimson) + Void (Pale) |
+| **Floor 8 (Gate Watch)** | **The Exile (Xyan / 시안)** | Frontier Cyborg (~55% Flesh) | Specialized Boundary *Neural Spine & Route Gear* | Lament (Deep Blue) + Weight (Black)|
 
 ---
 
@@ -80,19 +80,18 @@ The R.D. is built **into** the Alpha Tree — not beside it, not on top of it, b
 
 **The Director's connection:** The Director's Ω-grade M.A.W. fusion is connected to the Alpha Tree. The Director can feel the facility's emotions — every containment failure, every extraction, every Fracture. The facility feels the Director's sorrow in return.
 
-### The Nine Echo-Cores — Version 3 — Facility Positions
+### The Nine Echo-Cores — Version 3 — Facility Positions & Floor Blueprints
 
-| # | Echo-Core | Surface | Core | Depths | Mobile |
-|---|-----------|---------|------|--------|--------|
-| 1 | **Director** | ✓ Primary | | | |
-| 2 | **Secretary** | ✓ Primary | | | |
-| 3 | **Containment Lead** | | ✓ Primary | ✓ Secondary | |
-| 4 | **Extraction Lead** | | ✓ Primary | | |
-| 5 | **Research Lead** | | ✓ Primary | ✓ Secondary | |
-| 6 | **Border Lead** | | | | ✓ Primary |
-| 7 | **Archive Lead** | | | ✓ Primary | |
-| 8 | **Outsider** | | | | ✓ Primary |
-| 9 | **Exile** | | | | ✓ Stuck at Gate |
+| Floor | Echo-Core Command | Facility Depth | Architectural Sector | Operational Responsibility |
+|---|---|---|---|---|
+| **Floor 1** | **Director Majin & Secretary Seiyon** | Surface to -250m | The Spires / Central Spire | Executive command, Absolvohan Reserve Tap, cycle records |
+| **Floor 2** | **Containment Lead Dekan** | -250m to -500m | The Maw's Keep | Entity containment cells 01–03, Whispering Gallery, Maw monitoring |
+| **Floor 3** | **Extraction Lead Zyrak** | -500m to -750m | The Extraction Hall | M.A.W. forging vats, Han refining, 99.2% harvest efficiency |
+| **Floor 4** | **Research Lead Ayshuk** | -750m to -1,000m | The Insight Forge | Han physics spectrometry, Bio-Synthesis Looms, entity observation |
+| **Floor 5** | **Border Lead Mellda** | -1,000m to -1,250m | The Border Watch | 500-Warden garrison, Threshold Vow line defense, Oehan radar arrays |
+| **Floor 6** | **Archive Lead Marjuk** | -1,250m to -1,500m | The Deep Vault | Memory Wells, Cheongula true codices, Final Door abyssal stasis |
+| **Floor 7** | **Shadow Corps Lead Ishall** | -1,500m to -1,750m | The Shadow Corps | Covert pods, *Unanswered* area-denial, Sovereign suppression teams |
+| **Floor 8** | **Boundary Vanguard Xyan** | -1,750m to -2,000m | The Gate Watch | Exile's Gate lockdown airlock, Desolate seismic acoustic telemetry |
 
 ---
 
@@ -321,17 +320,23 @@ Each floor has a **daily energy quota** — a minimum amount of Positive Han-Ene
 
 ---
 
-### The Absolvohan Connection
+### The Absolvohan Connection & The Dawn Initiative
 
-**The Director's secret:** Every unit of surplus Han-Energy is diverted to the Absolvohan stockpile — hidden beneath Floor 1.
+**The Director's Secret:** Every unit of surplus Han-Energy harvested during shifts is diverted to the **Absolvohan Reserve Tap (해한 비축 밸브)** — a classified subterranean conduit array hidden directly beneath Floor 1.
 
-**The goal:** Accumulate enough Han-Energy to power the Absolvohan — the device that will release all accumulated sorrow from the city.
+**The Strategic Mandate:**
+- **Accumulation Calculus:** While the working daily stockpile resets across cycles, the Director's covert bypass diverts approximately **0.02 tons of crystallized Flerehan per iteration**. Over 1,778 cyclical iterations, this stockpile has accumulated to **~36 tons of pure crystallized Flerehan**.
+- **The Threshold Requirement:** Activating the Absolvohan theoretically requires 100 tons of raw crystal to discharge across the continental crust. However, in Cycle 1,778, an unprecedented metaphysical breakthrough occurs: *The Kind Healer* receives its 12th blessing from a Cheonbulok child touched by shared grief. Instead of collapsing into the catastrophic *Dawn of Mourning*, it undergoes **Hope Transformation** to manifest **The Hand of Hope (`HT-V-HH-001 [H]`)**.
+- **The Dawn Realization (Year 4,238):** The Hand of Hope distributes concentrated sorrow without destructive release. It permanently transmutes **15% of the city's existential grief into golden Hope resonance** (manifesting the 14 Hope Transformations `HT-001` through `HT-012`, `HT-V-HC-001 The Trinity of Dawn`, and `HT-V-HH-001`). This breaks the 1,778-cycle temporal lock, advancing Somnarak into the post-Cycle era and laying the groundwork for the **Dawn Initiative**.
 
-**The cost:** The city needs Han-Energy to function. The more the Director diverts to the Absolvohan, the less the city receives. The Veil weakens. The Han-Rails slow. The common tech flickers.
+**The Cost & The Tension:**
+The city requires Han-Energy for municipal life support. The more Director Majin diverts to the Absolvohan, the less reaches civic infrastructure. The Veil weakens, Han-Rails slow, and common tech flickers.
 
-**The Director's justification:** *"The city has survived for 4,200 years on sorrow. It can survive a little less — for a little longer. The Absolvohan will end this. The cost is worth it."*
+**The Director's Justification:**
+> *"The city has survived for 6,000 years on sorrow. It can endure a little less power — for a little longer. The Absolvohan will end the repetition. The cost is worth it."*
 
-**The Secretary's note:** *"Year 4232+1778. The Veil generators in Zone D failed for three hours today. Twelve citizens were exposed to raw Han. Two Fractured. The Director diverted the surplus to the Absolvohan. The Director did not mention the Fractures."*
+**The Secretary's Classified Entry:**
+> *"Year 4232+1778. The Veil generators in Zone D fluctuated for three hours today. Twelve citizens were exposed to raw Han; two Fractured. The Director diverted the surplus to the Absolvohan Reserve Tap. The Director did not record the Fractures. I recorded them. I remember every one."*
 
 ---
 
@@ -1077,198 +1082,97 @@ Every R.D. personnel member has a **Personnel File** — maintained by the Secre
 
 ---
 
-## Research System — Entity Observation & Knowledge
+## Research System — Entity Observation, SECC Classification & Relic-Entities
 
-### Overview
+> *"You cannot contain what you do not understand. You cannot understand what you have not observed. And you cannot survive what you treat as ordinary equipment."*
 
-> *"You cannot contain what you do not understand. You cannot understand what you have not observed."*
-
-The R.D.'s research system is how personnel learn about Sorrow Entities — their behaviors, weaknesses, origins, and M.A.W. potential. Knowledge is not given — it is **earned** through direct observation and interaction.
+The Reverie Directorate's research framework, directed by Research Lead Ayshuk from Floor 4 (Insight Forge), decodes the metaphysical structure of contained sorrow.
 
 ---
 
-### Observation Levels
+### The SECC Classification Taxonomy
 
-Every Sorrow Entity has an **Observation Level** — a measure of how much the R.D. knows about it.
+Every Sorrow Entity contained within the Reverie Directorate is designated by its **Sorrow Entity Classification Code (SECC)**, encoding five fundamental dimensions:
 
-| Level | Name | Knowledge Unlocked | Requirements |
-|-------|------|-------------------|--------------|
-| **0** | Unknown | Basic classification (Coherence, Potency, Category) | Entity contained |
-| **1** | Observed | Element, Manifestation type, basic behavior | 1 successful Work Type interaction |
-| **2** | Studied | Detailed behavior patterns, Work Type preferences, Sorrow Gauge triggers | 5 successful Work Type interactions |
-| **3** | Understood | Origin story, emotional core, M.A.W. potential, breach conditions | 15 successful Work Type interactions + 1 breach survived |
-| **4** | Mastered | Full entity profile, optimal containment, all M.A.W. types, hidden properties | 30 successful Work Type interactions + 3 breaches survived + entity-specific research |
+`SE-[Origin]-[Coherence][Potency]-[Number] [Element][Manifestation]`
 
----
+1. **Origin (Sorrow Category):**
+   - **C (City Sorrow / 도한 — Dohan):** Born inside Somnarak's walls — civic debts, structural oppression, the Cheongula.
+   - **N (Inner Sorrow / 내한 — Naehan):** Born from personal, intimate grief — lost love, broken vows, familial trauma.
+   - **O (Outside Sorrow / 외한 — Oehan):** Born in the Desolate wilderness beyond the walls — wild, ancient, uncontained.
 
-### How Observation Works
+2. **Coherence (Self-Awareness & Complexity):**
+   - **I (Residue):** A trace — barely a self, reactive reflex only.
+   - **II (Echo):** A repeating emotional loop — fragments of a former person.
+   - **III (Fragment):** A stable personality shaped by its origin.
+   - **IV (Entity):** Highly self-aware, purposeful, communicates and schemes.
+   - **V (Sovereign):** Ancient, city-scale, near-mythic ontological presence.
 
-**Step 1: Containment**
-- Entity is captured and placed in a Containment Cell (Floor 2)
-- Initial classification is performed — Coherence, Potency, Category
-- Observation Level: **0 (Unknown)**
+3. **Potency (Containment Threat & Pressure Scale):**
+   - **α (Minor):** Manageable with routine standard procedures.
+   - **β (Moderate):** Manageable with standard precautions and trained staff.
+   - **γ (Major):** Demands specialized response and veteran operatives.
+   - **δ (Critical):** Facility-threatening if breached; requires Echo-Core mobilization.
+   - **ω (Catastrophic):** City-threatening; near-impossible to contain physically.
 
-**Step 2: Initial Observation**
-- Personnel perform Work Types on the entity
-- Each successful interaction generates **Observation Points (OP)**
-- Failed interactions generate fewer OP — and may cause incidents
-- Observation Level increases as OP accumulate
+4. **Element (Pressure Signature & Damage Frequency):**
+   - **Lament (Deep Blue):** Sanity, composure, and emotional weeping pressure.
+   - **Grudge (Crimson):** Physical body laceration, kinetic impact, and burning fury.
+   - **Void (Pale White):** Percentage-based existential erasure (1 unit = 5% Max HP/Soul).
+   - **Weight (Black):** Crushing gravitational burden affecting both physical HP and mental composure.
 
-**Step 3: Research Projects**
-- At certain Observation Levels, **Research Projects** become available
-- Projects require specific conditions — Work Types, equipment, personnel
-- Completing projects unlocks deeper knowledge
-
-**Step 4: Mastery**
-- At Observation Level 4, the entity is fully understood
-- All M.A.W. types are unlocked
-- Containment protocols are optimized
-- Hidden properties are revealed
+5. **Physical Types & Form Descriptors:**
+   - **Physical Types:** Subject (`S`), Object (`O`), Place (`P`), Time (`T`), Hazard (`H`).
+   - **Form Descriptors:** Body, Lament, Grudge, Void, Weight, Phantasmal, Dream, Mind, Spirit, Tale.
+   - **THE WORK TYPE LAW:** While Subject (`S`) entities can be engaged through all four Work Types (*Flerehan*, *Pugnahan*, *Viderehan*, *Ferrehan*), **Object (`O`), Place (`P`), Time (`T`), and Hazard (`H`) entities accept Viderehan (Memory Witnessing) and Ferrehan (Gravitational Bearing) ONLY**. They cannot be physically confronted or emotionally wept with.
 
 ---
 
-### Observation Points (OP)
+### The Relic-Entity System (Tool-Class Sorrow Apparatuses)
 
-Each Work Type interaction generates OP based on success and entity difficulty.
+Contained within specialized stasis chambers on Floors 2, 4, and 6, **Relic-Entities (유물형 슬픔 개체)** represent inert, architectural, or temporal sorrow constructs that function as operational tools:
 
-| Work Type | Success | Failure | Critical Success |
-|-----------|---------|---------|-----------------|
-| **Flerehan** | +2 OP | +0 OP | +5 OP |
-| **Pugnahan** | +2 OP | +0 OP | +5 OP |
-| **Viderehan** | +3 OP | +1 OP | +6 OP |
-| **Ferrehan** | +1 OP | +0 OP | +4 OP |
+```text
++==============================================+
+|       RELIC-ENTITY TOOL CLASSES MATRIX       |
++==============================================+
+| Tool Class           | Interaction Mode      |
++======================+=======================+
+| I-Relic (Indumentum) | Equippable / Mounting |
++----------------------+-----------------------+
+| O-Relic (Offertorium)| Channeled / Sustained |
++----------------------+-----------------------+
+| A-Relic (Arcanum)    | Single-Use Discharge  |
++======================+=======================+
+```
 
-**OP Requirements per Level:**
-
-| Level | OP Required | Cumulative |
-|-------|-------------|------------|
-| 0 → 1 | 5 OP | 5 |
-| 1 → 2 | 20 OP | 25 |
-| 2 → 3 | 50 OP | 75 |
-| 3 → 4 | 100 OP | 175 |
-
-**Viderehan generates the most OP** — observation is the fastest path to understanding.
-
----
-
-### Research Projects
-
-At certain Observation Levels, research projects become available.
-
-| Level | Project | Requirements | Reward |
-|-------|---------|--------------|--------|
-| **1** | **Basic Classification** | 1 Viderehan interaction | Element + Manifestation unlocked |
-| **1** | **Behavioral Study** | 3 Work Type interactions | Work Type preferences revealed |
-| **2** | **Origin Investigation** | 5 Viderehan interactions | Origin story unlocked |
-| **2** | **Sorrow Gauge Analysis** | 3 Pugnahan interactions | Breach conditions revealed |
-| **2** | **M.A.W. Potential** | 3 Flerehan interactions | M.A.W. type unlocked |
-| **3** | **Emotional Core** | 1 Fracture survival + 5 Flerehan interactions | Emotional core revealed |
-| **3** | **Containment Optimization** | 3 Ferrehan interactions | Containment protocols improved |
-| **3** | **Hidden Properties** | 10 Viderehan interactions + entity-specific research | Hidden abilities revealed |
-| **4** | **Full Mastery** | All previous projects complete | Entity fully understood |
+1. **I-Relic (Indumentum — 장착형 유물 개체):**
+   - *Use Mode:* Equippable / mounting use. The operator must physically wear or hold the relic.
+   - *Active Canonical Specimens:* `SE-C-IIIβ-015` *The Debt Scale*, `SE-C-IIIβ-036` *The Cracked Hourglass*, `SE-C-IIIγ-102` *The Dancing Chains*, `SE-C-IIβ-051` *The Happy Mask*, `SE-C-Vδ-290` *The First Tear*.
+2. **O-Relic (Offertorium / Officium — 집중형/채널형 유물 개체):**
+   - *Use Mode:* Channeled / sustained interaction. Requires continuous physical touch, optical gaze, or spoken invocation.
+   - *Active Canonical Specimens:* `SE-C-IIIβ-016` *The Echo Compass*, `SE-C-IIIγ-195` *The Mirror of Sorrows*, `SE-C-IIIγ-300` *The Memory Lock*, `SE-C-IVγ-946` *The Blackened Angel*, `SE-C-Vδ-111` *The Final Door*.
+3. **A-Relic (Arcanum — 소모형/방출형 유물 개체):**
+   - *Use Mode:* Single-use or triggered discharge; expended upon activation for an immediate high-yield pulse.
+   - *Active Canonical Specimens:* `SE-C-IIβ-290` *Compass Without North*, `SE-N-IIβ-250` *The Debt Collector's Lantern*.
 
 ---
 
-### Knowledge Unlocks
+### Observation Levels & Point Accumulation
 
-Each Observation Level unlocks specific information:
+| Level | Name | Unlocked Operational Intelligence | Unlock Requirement |
+|---|---|---|---|
+| **Level 0** | Unknown | Basic SECC Code (Origin, Coherence, Potency) | Initial chamber containment |
+| **Level 1** | Observed | Element, Manifestation type, basic behavior | 5 Observation Points (OP) |
+| **Level 2** | Studied | Detailed behavioral songs, Work Type preferences, breach trigger | 25 Observation Points (OP) |
+| **Level 3** | Understood | Origin story, emotional core, M.A.W. extraction blueprint | 75 Observation Points (OP) |
+| **Level 4** | Mastered | Complete dossier, optimal containment protocol, full M.A.W. triplet | 175 Observation Points (OP) |
 
-**Level 0 — Unknown:**
-- Coherence (I-V)
-- Potency (α-ω)
-- Category (City/Outside/Inner)
-
-**Level 1 — Observed:**
-- Element (Lament/Grudge/Void/Weight)
-- Manifestation (Subject/Object/Place/Time)
-- Basic behavior patterns
-- Work Type response (which types are effective)
-
-**Level 2 — Studied:**
-- Detailed behavior patterns
-- Work Type preferences (which types generate most OP)
-- Sorrow Gauge triggers (what fills/depletes the gauge)
-- Breach conditions (what causes breach)
-- M.A.W. type (what equipment can be extracted)
-
-**Level 3 — Understood:**
-- Origin story (how the entity formed)
-- Emotional core (what sorrow defines it)
-- M.A.W. potential (all extractable equipment types)
-- Hidden properties (abilities not immediately apparent)
-- Containment optimization (improved containment protocols)
-
-**Level 4 — Mastered:**
-- Full entity profile (complete documentation)
-- Optimal containment (zero-breach protocols)
-- All M.A.W. types (complete equipment extraction)
-- Hidden properties (all abilities revealed)
-- Entity relationships (connections to other entities)
-
----
-
-### Research Personnel
-
-**Who conducts research:**
-- **Floor 4 (Insight Forge)** — primary research facility
-- **Specialists** — entity analysts, Han researchers
-- **Agents** — through daily Work Type interactions
-- **Senior Agents** — lead research projects
-
-**Research roles:**
-
-| Role | Responsibility |
-|------|----------------|
-| **Entity Analyst** | Classifies entities, conducts Observation |
-| **Han Researcher** | Studies entity properties, conducts experiments |
-| **Sorrow Cartographer** | Maps entity relationships and connections |
-| **M.A.W. Specialist** | Evaluates M.A.W. potential, guides extraction |
-
----
-
-### The Research Ledger
-
-Every entity has a **Research Ledger** — a record of all observations, projects, and knowledge.
-
-**Ledger contents:**
-- Entity designation (SECC code)
-- Observation Level
-- OP count
-- Completed projects
-- Unlocked knowledge
-- M.A.W. extraction history
-- Personnel notes
-
-**The Research Lead's role:** Ayshuk oversees all research — reviewing ledgers, approving projects, ensuring accuracy. Their inability to feel sorrow makes them the ideal researcher — they observe without bias.
-
-**Ayshuk's note:** *"I cannot feel what the entities feel. But I can see what they are. That is enough."*
-
----
-
-### Research Risks
-
-**Risks of entity research:**
-
-| Risk | Description | Prevention |
-|------|-------------|------------|
-| **Resonance overload** | Researcher absorbs too much entity sorrow | Limit interaction frequency |
-| **False understanding** | Researcher misinterprets entity behavior | Multiple observations required |
-| **Entity manipulation** | Entity deceives researcher | Viderehan reduces deception risk |
-| **Fracture** | Researcher Fractures from entity exposure | Attribute monitoring, breaks |
-| **Breach** | Research agitates entity, causing breach | Sorrow Gauge monitoring |
-
-**Research safety protocols:**
-- Maximum 3 Work Type interactions per entity per day
-- Mandatory breaks between interactions
-- Attribute monitoring during research
-- Sorrow Gauge monitoring — if gauge rises, research pauses
-- Emergency containment teams on standby during high-risk research
-
----
-
-
----
-
+**Observation Point (OP) Generation:**
+- **Flerehan:** +2 OP (Normal) / +5 OP (Critical)
+- **Pugnahan:** +2 OP (Normal) / +5 OP (Critical)
+- **Viderehan:** +3 OP (Normal) / +6 OP (Critical) — *Viderehan yields highest observation insight.*
+- **Ferrehan:** +1 OP (Normal) / +4 OP (Critical)
 
 ---
 
@@ -2320,14 +2224,16 @@ Long ago, the Director was bonded with a Ω-grade M.A.W. — the only successful
 **The Question:** *"If I carry the weight of everyone's sorrow, and I cannot die — who carries mine when I break?"*
 
 | Field | Detail |
-|-------|--------|
-| **Effigy Type** | Living Human (M.A.W. fused) — not a Cast Effigy |
+|---|---|
+| **Floor / Station** | Floor 1 (Spires / Central Command — Decision Core) |
+| **Effigy Type** | Living Human (Ω-Fusion) — not a Cast Effigy |
+| **Armament** | Fused Singular M.A.W. *Reaper Hungered* (Ω Scythe) |
 | **Sorrow Category** | City Sorrow (도한) |
-| **Han Signature** | Weight (Black) — the heaviest in the city |
+| **Han Signature** | Weight (Black) / Grudge + Lament |
 | **Manifestation** | Subject-Body — living human, fused with Ω-grade M.A.W. |
-| **Veil/Raw** | Exists in both — the Director moves between Veil and Raw freely |
-| **Secret** | Chosen by the Alpha Tree. Hides the Secretary's true nature. Hides the Absolvohan — the Restoration. |
-| **Arc** | The Director must confront the possibility that the R.D.'s existence creates more sorrow than it prevents — and that their immortality is not a gift, but a curse |
+| **Veil/Raw** | Exists in both — moves between Veil and Raw freely |
+| **Secret** | Chosen by the Alpha Tree. Hides Seiyon's nature & Absolvohan Reserve Tap |
+| **Arc** | Confronting 1,778 cycles of accumulated grief to ignite the Hand of Hope |
 
 **The Director's Tale:**
 
@@ -2389,14 +2295,16 @@ If the Absolvohan succeeds, the city would be **cleansed** — but also **destro
 **The Question:** *"If I was born from someone else's grief, am I myself — or am I just the echo of a dead woman's sorrow?"*
 
 | Field | Detail |
-|-------|--------|
-| **Effigy Type** | AI Construct — not a Cast Effigy, not human |
-| **Sorrow Category** | City Sorrow (도한) — inherited from the Director's lover |
+|---|---|
+| **Floor / Station** | Floor 1 (Central Administration Core) |
+| **Effigy Type** | Android Effigy (0% biological, awakened by human memories) |
+| **Armament** | Administrative Interface *The Promise* (Orbiting Key Pages) |
+| **Sorrow Category** | City Sorrow (도한) — inherited from Director's lost human companion |
 | **Han Signature** | Lament (Deep Blue) + Void (Pale White) |
 | **Manifestation** | Subject-Dream — partially exists in the Dream realm |
-| **Veil/Raw** | Exists in the Veil — but sees everything in the Raw |
-| **Secret** | The Secretary is an accidental copy of the Director's deceased lover — the Director hides this from everyone |
-| **Arc** | The Secretary must discover who they really are — and decide whether the truth changes anything |
+| **Veil/Raw** | Exists in the Veil — but witnesses everything in the Raw |
+| **Secret** | Accidental memory-awakened effigy wearing lost companion's face |
+| **Arc** | Bearing 1,778 cycles of unbroken memory and logging the Dawn of Hope |
 
 **The Secretary's Tale:**
 
@@ -2437,14 +2345,16 @@ The Secretary only knows that they feel — and that feeling is both a gift and 
 **The Question:** *"If the Maw made me, am I its child — or its instrument?"*
 
 | Field | Detail |
-|-------|--------|
-| **Effigy Type** | Cyborg — partially merged with Maw-structure during childhood exposure |
+|---|---|
+| **Floor / Station** | Floor 2 (The Maw's Keep — Cells 01–03 & Whispering Gallery) |
+| **Effigy Type** | Biomechanical Cyborg (~50% flesh, Maw-fused) |
+| **Armament** | Living Biological Body Graft *The Scaled Maw-Flesh Arm* |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Han Signature** | Grudge (Crimson) |
-| **Manifestation** | Place-Tale — the Containment Lead is connected to the Maw's story |
+| **Manifestation** | Place-Tale — connected to the living tectonic Maw |
 | **Veil/Raw** | Exists entirely in the Raw — the Veil cannot reach the Maw |
-| **Secret** | Can communicate with The Maw — the thousand are still conscious, still trapped |
-| **Arc** | The Containment Lead must decide whether to free the thousand — or accept that they are part of the city's structure |
+| **Secret** | Communicates with the 1,000 drowned citizens inside the living stone |
+| **Arc** | Grounding the tectonic plate and venting grief into the Absolvohan |
 
 **The Containment Lead's Tale:**
 
@@ -2483,14 +2393,16 @@ The R.D. assigned them to containment because they are the only person who can c
 **The Question:** *"If I extract sorrow from others, where does it go?"*
 
 | Field | Detail |
-|-------|--------|
-| **Effigy Type** | Android — former Collector's body reconstructed after Fracture incident |
+|---|---|
+| **Floor / Station** | Floor 3 (The Extraction Hall — Forging Vats A & B) |
+| **Effigy Type** | Android Cast Effigy (0% flesh, authentic living human soul) |
+| **Armament** | Specialized Android Forge Gear *Mechanical Hands & Extraction Rig* |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Han Signature** | Grudge (Crimson) + Void (Pale White) |
-| **Manifestation** | Subject-Body — the Extraction Lead's hands are marked by extracted sorrow |
-| **Veil/Raw** | Exists in the Veil — but works in the Raw |
-| **Secret** | Can extract memories as well as M.A.W. — a skill learned as a Collector |
-| **Arc** | The Extraction Lead must confront the fact that extraction is just another form of taking — and decide whether to give back |
+| **Manifestation** | Subject-Body — hands calibrated to crystallize M.A.W. |
+| **Veil/Raw** | Exists in the Veil — operates in the Raw |
+| **Secret** | Extracts Before-Time memories from entities alongside M.A.W. |
+| **Arc** | Transmuting the guilt of debt extraction into 99.2% harvest purity |
 
 **The Extraction Lead's Tale:**
 
@@ -2529,14 +2441,16 @@ The Extraction Lead now extracts M.A.W. from Sorrow Entities — a different kin
 **The Question:** *"If I cannot feel sorrow, can I truly understand it — or am I just observing?"*
 
 | Field | Detail |
-|-------|--------|
-| **Effigy Type** | Android — hollow, no organic components, designed for emotional null-space |
-| **Sorrow Category** | None — Void |
+|---|---|
+| **Floor / Station** | Floor 4 (The Insight Forge — Han Physics & Bio-Synthesis Looms) |
+| **Effigy Type** | Analytical Android Platform (0% flesh, human soul devoid of grief)|
+| **Armament** | Specialized Cognitive Ledger *Subject-Mind Research Ledger* |
+| **Sorrow Category** | None — Pure Void |
 | **Han Signature** | Void (Pale White) |
-| **Manifestation** | Subject-Mind — exists in consciousness, not physical space |
-| **Veil/Raw** | Exists in both — the Veil and Raw are the same to someone who feels nothing |
-| **Secret** | A Void entity took their sorrow as a child — they cannot feel, cannot Fracture |
-| **Arc** | The Research Lead must find their sorrow — or accept that some things cannot be understood, only felt |
+| **Manifestation** | Subject-Mind — analytical null-space |
+| **Veil/Raw** | Exists in both — immune to environmental emotional distortion |
+| **Secret** | Inner Sorrow devoured by a Void entity in childhood; cannot Fracture |
+| **Arc** | Decoding entity behavioral songs while remaining emotionally empty |
 
 **The Research Lead's Tale:**
 
@@ -2577,14 +2491,16 @@ The Research Lead sometimes wonders: if they found the entity that took their so
 **The Question:** *"If I brought the wilderness inside the city, am I the wall — or the breach?"*
 
 | Field | Detail |
-|-------|--------|
-| **Effigy Type** | Cyborg — Desolate exposure altered the body, entity inside causes phase-shifts |
+|---|---|
+| **Floor / Station** | Floor 5 (The Border Watch — 500-Warden Garrison & Radar Array) |
+| **Effigy Type** | Biomechanical Cyborg (~45% flesh, Warden veteran) |
+| **Armament** | Specialize Manufactured Weapon *Threshold Vow* (Forearm Blade) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Han Signature** | Weight (Black) + Grudge (Crimson) |
-| **Manifestation** | Subject-Phantasmal — the entity inside them makes them partially ghostly |
-| **Veil/Raw** | Exists in the Raw — the Veil cannot suppress an entity this close |
-| **Secret** | Carries an Outside Sorrow entity inside them — the only person to return through the Gate |
-| **Arc** | The Border Lead must decide whether to reveal the entity inside them — or keep it hidden until it's too late |
+| **Manifestation** | Subject-Phantasmal — phase-shifting host |
+| **Veil/Raw** | Exists in the Raw — guards the perimeter against outside Oehan |
+| **Secret** | Carries a benign Outside Sorrow entity sealed within her cyborg flesh |
+| **Arc** | Standing as the unyielding bulwark between the city and wilderness |
 
 **The Border Lead's Tale:**
 
@@ -2627,14 +2543,16 @@ But the R.D. needs them — because the Border Lead is the only person who has s
 **The Question:** *"If the truth would destroy the city, is it better to bury it — or to let it burn?"*
 
 | Field | Detail |
-|-------|--------|
-| **Effigy Type** | Cryogen — cryo-preserved mind connected to vault-integrated systems, never leaves |
+|---|---|
+| **Floor / Station** | Floor 6 (The Deep Vault — Memory Wells & Final Door Chamber) |
+| **Effigy Type** | Cryogen Stasis Matrix (~20% flesh, living human brain & eye) |
+| **Armament** | Specialized Optical Relic *Memory Lens & Whispering Index* |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Han Signature** | Void (Pale White) + Weight (Black) |
-| **Manifestation** | Place-Lament — the vault itself weeps |
-| **Veil/Raw** | Exists beneath both — the deepest vaults are beyond the Veil/Raw distinction |
-| **Secret** | Knows the Cheongula's true history — the thousand were sacrificed, not consumed |
-| **Arc** | The Archive Lead must decide whether to reveal the truth — or protect the city from it |
+| **Manifestation** | Place-Lament — cryo-stasis vault network |
+| **Veil/Raw** | Subterranean stasis beneath both Veil and Raw |
+| **Secret** | Possesses uncensored codices of the Cheongula mass sacrifice |
+| **Arc** | Guarding the Final Door seal until the Absolvohan dawn unlocks it |
 
 **The Archive Lead's Tale:**
 
@@ -2729,14 +2647,16 @@ The Outsider only knows that they were made to destroy — and that they have no
 **The Question:** *"If I left to protect them, and returned to warn them — why won't the Gate let me in?"*
 
 | Field | Detail |
-|-------|--------|
-| **Effigy Type** | Cyborg — Desolate exposure altered the body, Han-crystal growth in tissue |
+|---|---|
+| **Floor / Station** | Floor 8 (The Gate Watch / Exile's Gate Lockdown Post) |
+| **Effigy Type** | Frontier Cyborg (~55% flesh, Desolate-adapted) |
+| **Armament** | Specialized Boundary Interface *Neural Spine & Survival Gear* |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Han Signature** | Lament (Deep Blue) + Weight (Black) |
-| **Manifestation** | Subject-Phantasmal — the Desolate has changed them |
-| **Veil/Raw** | Exists beyond both — outside the city |
-| **Secret** | Found the source of Outside Sorrow — something is *producing* Han in the wilderness |
-| **Arc** | The Exile must find a way back in — or accept that some warnings are meant to go unheard |
+| **Manifestation** | Subject-Phantasmal — boundary sentinel |
+| **Veil/Raw** | Exists at the absolute frontier threshold |
+| **Secret** | Transmits seismic warnings of the Furnace of Cheonbulok |
+| **Arc** | Transmitting telemetry across the Desolate to safeguard the facility |
 
 **The Exile's Tale:**
 
