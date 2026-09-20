@@ -54,6 +54,14 @@ Per the research directive, this compendium is **NOT an abbreviated summary**. I
 | Volume 07            | Master Encyclopedia   |
 +----------------------+-----------------------+
 | Volume 08            | Tactical Math & Rules |
++----------------------+-----------------------+
+| Volume 09            | E.G.O Weapons & Suits |
++----------------------+-----------------------+
+| Volume 10            | Fixer Offices & Gangs |
++----------------------+-----------------------+
+| Volume 11            | Narrative & Tragedies |
++----------------------+-----------------------+
+| Volume 12            | Abnormality Dossiers  |
 +======================+=======================+
 ```
 
@@ -116,3 +124,27 @@ Per the research directive, this compendium is **NOT an abbreviated summary**. I
    - *Lobotomy Corporation* Engine: Damage formulas, Panic types by highest attribute, Qliphoth Meltdowns.
    - *Library of Ruina* Combat Logic: Speed Dice, Clashes (Offensive vs. Defensive), Emotion Levels 0–5, Stagger Thresholds, Key Page Passives.
    - *Limbus Company* Mathematical Formulas: Coin flips, SP-to-Heads probability equation, E.G.O Corrosion (-45 SP), Sin Resonance & Absolute Resonance, Combat Status Archetypes (Burn, Bleed, Tremor, Rupture, Sinking, Poise, Charge).
+
+9. **`09_EGO_EQUIPMENT_WEAPONS_SUITS_AND_GIFTS.md`**
+   - Full Extraction Analysis from Binah's Floor; Stat requirements and cognitive burden.
+   - Complete ALEPH E.G.O Weapons and Suits: *Mimicry* (Nothing There), *Paradise Lost* (WhiteNight), *Twilight* (Apocalypse Bird), *Smile* (Mountain of Smiling Bodies), *Sound of a Star* (Blue Star), *Da Capo* (The Silent Orchestra), *Adoration* (Melting Love).
+   - Prominent WAW & HE Gear: *Magic Bullet* (Der Freischütz), *In the Name of Love and Hate* (Queen of Hatred), *Gold Rush* (King of Greed), *Solemn Lament* (Funeral of the Dead Butterflies).
+   - E.G.O Gift Anatomy: Head, Eye, Mouth, Back, Hand slots; permanent cognitive enhancements.
+
+10. **`10_FIXER_OFFICES_AND_SPECIALIZED_SYNDICATES.md`**
+    - Prominent Independent Offices: Dawn Office (Salvador, Yuna, Philip / Stigmatize blades), Wedge Office (Oscar / piercing lances), Cane Office (Nemo, Bada / energy consulting), Molar Office (Olga / heavy workshop tools), Streetlight Office (San, Mars, Lulu), Charles' Office (The Legendary Twelve Paladins).
+    - Specialized Syndicates: Kurokumo Clan (Thumb subsidiary / bleeding dark clouds), Blade Lineage (Bamboo-Hatted Kim / Claim Their Bones), Carnival (corpse-silk weaving), Smiling Faces (smoke-cannibalism in District 23), Yurodivy (Sonya's proletariat revolution).
+
+11. **`11_LORE_AND_NARRATIVE_DEEP_DIVE.md`**
+    - The Tragedy of Roland & Angelica: Charles' Office, marriage, pregnancy, Pianist massacre in District 9, the Mask of Silence, underworld rampage, reconciliation with Angela in the Library.
+    - The Psychological War of Angela & Ayin: Carmen's AI replica, 100x slower time perception, 1,000,000-year loop of death, cold rejection, theft of Light, and redemption.
+    - The Reverberation Ensemble Dossiers: Argalia, Philip, Greta, Bremen, Oswald, Tanya, Jae-heon, Elena, Pluto.
+    - Limbus Company Sinner Traumas: Detailed analysis of Canto VI (Heathcliff, Catherine, Erlking multi-universal erasure) and Canto VII (Don Quixote, Sancho, La Mancha Land, Sanzon's Bloodfiend family).
+
+12. **`12_ABNORMALITY_ENCYCLOPEDIA.md`**
+    - The Black Forest Birds: Small/Punishing Bird, Long/Judgement Bird, Big Bird, and the Apocalypse Bird fusion.
+    - WhiteNight & The Plague Doctor: Clock of the 12 Apostles, The Heretic, seraphic pale purge, and the One Sin confession cleanse.
+    - Nothing There: Three metamorphosis phases (Egg, Beast, Humanoid shell), vocal mimicry ("I love you", "Goodbye").
+    - Mountain of Smiling Bodies: Three necrotic growth stages, cannibalizing corpses, black bile vomit.
+    - Melting Love, The Silent Orchestra, Der Freischütz, The Four Magical Girls (Queen of Hatred, King of Greed, Knight of Despair, Servant of Wrath) and the Jester of Nihil.
+    - One Sin and Hundreds of Good Deeds: The foundational crown of thorns, confession absorption, and anti-apocalypse redemption.
