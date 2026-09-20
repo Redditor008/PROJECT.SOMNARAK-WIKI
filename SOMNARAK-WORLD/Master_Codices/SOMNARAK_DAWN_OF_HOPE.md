@@ -10,7 +10,7 @@
 **Year:** 4238 (after the trilogy)
 **Setting:** Somnarak — healed, but not cured. 15% Hope Entities. 85% Sorrow remains.
 **Company:** The Dawn Initiative (새벽 이니셔티브 — Saebyeok Inisieotibeu)
-**Game Style:** Limbus Company — Journey / Character Stories
+**Format:** Episodic Continental Odyssey / Character Crucibles across Mugenhan
 
 The three Corporations have completed their missions. The R.D. has activated the Absolvohan. The SED has mapped the unknown. The UCD has dismantled the underworld. The Hand of Hope has opened.
 
@@ -308,6 +308,36 @@ The Dawn Initiative operates from the Lantern — traveling between zones, betwe
 
 ---
 
+### The Anti-Consolidation Doctrine & Kinetic Dissolution Rites
+
+The Dawn Initiative is founded upon a radical philosophical rejection of the Reverie Directorate's 6,000-year dogma:
+
+#### 1. Rejection of Perpetual Consolidation (반-통합 철학)
+- **The Directorate's Fallacy:** The R.D. asserts that human sorrow must be collected, compressed into containment cells, and harvested as municipal energy through 1,778 cyclical resets.
+- **The Dawn's Thesis:** Compressing sorrow does not heal it; containment merely ferments grief into cataclysmic pressure. The perpetual cycle under Director Majin is not salvation, but an eternal cowardice that denies citizens their natural right to mourn and move forward.
+
+#### 2. Kinetic Dissolution Rites (동력학적 해체 의식)
+Instead of capturing entities into containment vats or forging them into M.A.W. weaponry, the Dawn conducts kinetic release ceremonies:
+- **Resonant Tuning:** Dawn teams deploy portable golden acoustic forks tuned to the entity's underlying human trauma frequency.
+- **Harmonic Shock:** By applying precise kinetic and vibrational pulses, the entity's congealed sorrow lattice is shattered. The grief does not drain back into the subterranean Weeping; rather, the trapped human consciousness is released into atmospheric dispersion, dissipating naturally under the dawn sky as golden thermal mist.
+
+---
+
+## IV.B. Directorate Clashes: Rogue Saboteurs vs. Floors 5 & 1
+
+The Dawn's aggressive liberation campaigns inevitably pit their field operatives against the Reverie Directorate's iron enforcers in Facility 01:
+
+### Rogue Acoustic Saboteurs vs. Floor 5 (Ria — Floor of Disciplinary Law)
+- **The Saboteurs' Tactic:** Dawn underground cells carry high-frequency acoustic disruptors into the Alpha Tree's lower conduits, attempting to shatter the harmonic seals holding Floor 2's containment trenches.
+- **Ria's Counter-Execution:** Head Disciplinarian Ria regards the Dawn as suicidal arsonists whose haphazard entity releases risk triggering city-wide Sorrow Tides. Wielding her massive mechanical cleaver, the *Guillotine of Order*, Ria leads shock suppression squads into the subterranean aqueducts. When Dawn disruptors fire acoustic jams, Ria utilizes magnetic ballast dampeners to ground the frequencies, bisecting rogue sabotage rigs with merciless mechanical precision.
+
+### Ideological Deadlock vs. Floor 1 (Ishall — Floor of Oversight)
+- **Archive Infiltration:** Infiltrators from the Dawn repeatedly attempt to breach Floor 1's deep administrative servers to steal Director Majin's unredacted cycle logs and broadcast the 1,778 resets to the civilian populace.
+- **The Android's Judgment:** Head Overseer Ishall intercepts them at the Threshold of Order. As a woman whose human soul was placed within an emotionless Android Effigy, Ishall understands their longing for liberation better than anyone. Yet her cold administrative logic dictates that an abrupt, premature dissolution of the Alpha Tree would collapse Somnarak's atmospheric scrubbers within forty-eight hours, killing 400,000 citizens.
+- **The Silencing of Unanswered:** Rather than slaughtering the infiltrators, Ishall draws her Before-Time Relic, *Unanswered*. A single heavy silence wave discharges from the black barrel, freezing the saboteurs' acoustic gear and temporarily paralyzing their nervous systems, leaving them intact for Directorate memory-scrubbing.
+
+---
+
 ## V. The Story — The Dawn Arcs
 
 ### Arc 1: The Debt Widow's Stand (빚의 과부의 저항)
@@ -533,21 +563,18 @@ The story continues...
 
 ---
 
-## X. PM Elements Not Yet Used
+## X. Uncharted Mechanics & The Great Dissolution (미개척 시스템: 위상적 진화와 대원정 체계)
 
-| PM Game | Element | Status | Potential |
-|---------|---------|--------|-----------|
-| **LoR** | Reception Battles | ❌ Not used | Character-focused combat encounters |
-| **LoR** | Floor Realizations | ❌ Not used | Deep character exploration through combat |
-| **LoR** | Key Pages | ❌ Not used | Character progression through battle |
-| **LoR** | The Library | ❌ Not used | A location that consumes and preserves |
-| **LoR** | Urban Threat Levels | ❌ Not used | District danger ratings |
-| **Limbus** | Identity System | ❌ Not used | What-if character variants |
-| **Limbus** | Mirror Dungeons | ❌ Not used | Roguelike exploration mode |
-| **Limbus** | Skill Coins | ❌ Not used | Coin flip combat mechanic |
-| **Limbus** | Bus Mechanic | ❌ Not used | Travel between locations (partially in Lantern) |
-| **LC** | Memory Repository | ❌ Not used | Reset/save system |
+The Dawn Initiative introduces advanced mechanical frameworks designed to reflect the transformation of sorrow into living dawn:
 
-**These elements can be used for future companies.**
+| Mechanic Framework | Tactical Engine | Metaphysical Function in Mugenhan |
+|---|---|---|
+| **Crucible Resonances** | Character Trauma Trials | High-stakes psychological duels where Hope Bearers confront their unhealed grief to unlock higher dawn frequencies |
+| **Sorrow-Hope Inversion** | Dynamic Phase Shift | Combatants shift between heavy defensive Sorrow stances (Lament/Weight) and explosive offensive Dawn radiance (Hope/Flerehan) |
+| **Caravan Logistics** | Desolate Overland Navigation | Managing life-support fuel, psychic shielding, and route plotting across the toxic Han dunes between sister cities |
+| **The Seven Dissolution Bells** | Planetary Relic Protocol | Ancient Before-Time acoustic bells sought by Yeonhwa to project a worldwide harmonic wave capable of freeing the Weeping |
+| **Memory Effigy Weaving** | Relic Lattice Crafting | Assembling modular combat rigs from shattered Sorrow Entity husks combined with refined golden Hope crystals |
+
+**These uncharted systems form the tactical foundation for expeditions beyond the municipal borders of Somnarak.**
 
 ---
