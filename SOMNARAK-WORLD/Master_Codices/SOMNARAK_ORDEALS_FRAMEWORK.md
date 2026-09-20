@@ -11,6 +11,8 @@
 
 **Ordeals** (시련 — *siryeon*, "trials") are spontaneous, hostile manifestations of concentrated Han that form within the Hand of Change during periods of high sorrow activity. They are **not Sorrow Entities** — they do not crystallize from the Weeping, they carry no SECC designation, they are not immortal, and they cannot be contained. They appear, they wander, they attack, and they must be **suppressed** (destroyed) before they destabilize the facility.
 
+---
+
 ### Key Differences from Sorrow Entities
 
 | Property | Sorrow Entity | Ordeal |
@@ -24,6 +26,24 @@
 | **M.A.W. Equipment** | Yields equipment on extraction | **No extraction** — Ordeals dissolve on suppression, leaving only residual Han |
 | **Tale / Testimony / Record** | Full 이야기 / 증언 / 기록 sections | **None** — Ordeals have no story; they are phenomena, not persons |
 | **Sorrow Gauge** | Gauge-based breach system | **Spawn-based** — they appear when facility Han-density crosses thresholds |
+
+---
+
+### The Tripartite Crisis Taxonomy (삼원 위기 분류 체계)
+
+To maintain absolute clarity across Directorate operations, Facility 01 categorizes all combat emergencies into three mutually exclusive structural crises:
+
+| Diagnostic Metric | Ordeals (시련 — Siryeon) | Sorrow Entity Breaches (격리 탈출) | Echo-Core Suppressions (핵 진압 결전) |
+|---|---|---|---|
+| **Metaphysical Origin** | Spontaneous atmospheric Han accumulation | Sentient crystallization from the Weeping | Saturation of an Echo-Core's human soul |
+| **Identity & Form** | Faceless, non-unique elemental constructs | Catalogued unique beings with personal tales | Department Lead in terminal trauma breakdown |
+| **Containment Cell** | None (spawns freely in corridors/rooms) | Individual designated containment vault | Department floor (Floors 2 through 8) |
+| **Mortality & State** | **Mortal** (permanently dissolved on defeat) | **Immortal** (returns to cell upon suppression) | **Reclaimed** (restored to human consciousness) |
+| **Work Interaction** | None (combat suppression only) | Work Types (Flerehan, Pugnahan, etc.) | None during duel (pure tactical combat) |
+| **M.A.W. Output** | No extraction; residual Han energy only | Full Weapon, Suit, and Gift extraction | No M.A.W.; grants permanent realization buff |
+| **Tactical Objective** | Eliminate wandering swarms before spread | Suppress and re-lock breached entity | Break stance, survive duel, ground soul |
+| **Institutional Reward** | Han-Density gauge reduction; +5–25% energy | Energy harvest; equipment catalog growth | **+10 to All Attributes**; permanent floor buff |
+| **Absolvohan Loop** | Spawns anew under identical density | Resets to containment cell each loop | Cleared Realization persists across cycles |
 
 ---
 
@@ -64,12 +84,12 @@ Formed from raw, unprocessed Han energy — the Weeping's own pressure leaking u
 
 Each Ordeal appears at a specific **Time** (severity tier), which determines its power, numbers, and the threat it poses. One Ordeal per Time per day; Times escalate from First Watch to Tide Watch.
 
-| Time | Severity | Somnarak Context | Trigger Condition | Risk Equivalent |
-|---|---|---|---|---|
-| **First Watch** | Minor | Early Management Phase, low Han accumulation | After 2–3 work cycles | TETH |
-| **Second Watch** | Moderate | Mid-Management Phase, Han building | After 5–6 work cycles | HE |
-| **Third Watch** | Major | Late Management Phase, approaching Sorrow Tide | After 8+ work cycles or near-Tide | WAW |
-| **Tide Watch** | Catastrophic | Sorrow Tide peak; facility-wide crisis | Only during the Sorrow Tide or major breach cascade | ALEPH |
+| Time | Severity Tier | Somnarak Potency Equivalent | Facility Trigger Condition |
+|---|---|---|---|
+| **First Watch** | Minor | **Minor (α — Alpha)** | Early Management Phase (after 2–3 work cycles) |
+| **Second Watch** | Moderate | **Moderate (β — Beta)** | Mid-Management Phase (after 5–6 work cycles) |
+| **Third Watch** | Major | **Major (γ — Gamma)** | Late Management Phase (after 8+ work cycles / near-Tide) |
+| **Tide Watch** | Catastrophic | **Catastrophic (δ — Delta)** | Sorrow Tide peak or major cascading facility crisis |
 
 ### Time Rules
 
@@ -90,13 +110,13 @@ Each Color × Time combination is a unique Ordeal with its own name, appearance,
 | **GREY** | Grey First Watch | Grey Second Watch | Grey Third Watch | Grey Tide Watch |
 | **PURPLE** | Purple First Watch | Purple Second Watch | Purple Third Watch | Purple Tide Watch |
 
-*(Individual Ordeal files to be created for each cell.)*
+*(Individual Ordeal files are maintained in `SOMNARAK-WORLD/Ordeals/`.)*
 
 ---
 
 ## IV. The Ordeal File Template
 
-Each individual Ordeal file follows this structure — simpler than the Sorrow Entity template, focused on formation, behavior, and suppression:
+Each individual Ordeal file follows this structure — focused on formation, behavior, and suppression:
 
 ```markdown
 # [COLOR] [TIME] — [Name]
@@ -109,7 +129,7 @@ Each individual Ordeal file follows this structure — simpler than the Sorrow E
 |---|---|
 | **Color** | [BLUE / BLACK / PALE / GREY / PURPLE] |
 | **Time** | [First Watch / Second Watch / Third Watch / Tide Watch] |
-| **Threat Level** | [Minor / Moderate / Major / Catastrophic] (≈ TETH / HE / WAW / ALEPH) |
+| **Threat Level** | [Minor (α) / Moderate (β) / Major (γ) / Catastrophic (δ)] |
 | **Han Source** | [Lament / Weight / Void / Grudge / Raw Han] |
 | **Spawn Count** | [Number of entities that appear] |
 | **Mortality** | Mortal — permanently suppressible |
@@ -263,7 +283,7 @@ Sorrow Entities return to the Weeping when destroyed and re-crystallize. Ordeals
 
 Individual Ordeal files are stored in:
 ```
-04_Ordeals/
+SOMNARAK-WORLD/Ordeals/
 ```
 Named by Color + Time:
 ```
