@@ -1,26 +1,166 @@
-# SOMNARAK — Known People of Somnarak
-## Names the City Remembers
+# SOMNARAK — Classified Registry of Known Figures
+## Directorate Intelligence Dossier & Municipal Surveillance Record
 
-> *"In a city of 1.29 billion, some names are known by everyone. Not because they sought fame — but because the city remembers them."*
-
----
-
-## Overview
-
-These are not supporting characters. They are **known people** — names that at least 25% of Somnarak's population has heard, whether the person knows it or not. They are not heroes or villains. They are *fixtures* — people who have become part of the city's fabric simply by existing in it.
-
-Each profile includes:
-- **Role** — what they do
-- **Origin** — how they became who they are
-- **The Sorrow** — what they carry
-- **The Question** — what they cannot answer
-- **Tale** — a story the city tells about them
-
-> *"You don't choose to be known in Somnarak. The city chooses for you."*
+> *"In a city of 1.29 billion, names are weapons, burdens, or deliberate omissions. We record what is seen, what is whispered, and what authority has attempted to erase."*  
+> — Giltong Intelligence Dispatch & Directorate Internal Security Audit, File CI-8840-X
 
 ---
 
-## The Known People
+## Document Clearance & Registry Overview
+
+**Classification Level:** Level 4 Directorate Access / Giltong Internal Security Eyes Only  
+**Subject:** Documented Figures, Subterranean Leadership, Field Operatives, Faction Hierarchy, and Street Fixtures  
+**Methodology:** This registry does not present omniscient biography. Every entry reflects **literal in-universe observations**, surveillance reports, forensic debriefs, and street-level testimonies collected across the Five Zones and subterranean sectors.
+
+Where an individual's origin is shielded behind state secrecy, corporate redactions, or cognitive purges, this record preserves the mystery and documents only what is physically verified or consistently reported by frontline witnesses.
+
+---
+
+## I. Facility 01 Executive & Department Leads (Subterranean Command)
+
+The central command of the Reverie Directorate operates from the eight subterranean floors of Facility 01 beneath the Alpha Tree. Due to severe acoustic dampening, cognitive shielding, and Taboo restrictions, the public knows almost nothing of these figures, while lower-tier personnel know them only through rumors, alarms, and emergency orders.
+
+---
+
+### Dossier RD-01: The Director (관리자 / 국장 — Gukjang)
+
+```text
++==============================================+
+| DOSSIER: THE DIRECTOR [TITLE RECORD ONLY]    |
++==============================================+
+| Legal Name           | [REDACTED // CLEAR 5] |
+| Operational Title    | The Director (국장)   |
+| Biological Age       | Classified (~45-50?)  |
+| Operational Station  | Floor 1 Sanctuary     |
+| Armament / Graft     | Reaper Hungered (Ω)   |
+| Communication Mode   | Via Secretary Seiyon  |
++==============================================+
+```
+
+**Legal Name & True Identity:** Strictly **[REDACTED]**. No living citizen, field agent, or Council representative has ever seen his identification papers or heard his birth name pronounced. In all internal Directorate files, he is referenced solely by his title: **The Director**.
+
+**Observed Physical Profile:**
+Witness reports from veteran containment agents admitted to Floor 1 describe him as a tall, broad-shouldered biological human man in his late forties, possessing dark hair streaked with silver and eyes of unreadable, cold sorrow. He wears a heavy, tailored charcoal-black executive mantle lined with deep midnight blue.
+His right arm is permanently fused with a grotesque, living biological-crystalline entity graft that shifts with an independent heartbeat. When facility reality dampeners fail, the graft manifests as **Reaper Hungered**—a monolithic, obsidian-and-crimson scythe capable of cleaving both physical matter and psychic Han lattices.
+
+**Operational Doctrine:**
+The Director never ascends to the upper city. He never attends Council of Sighs assemblies, leaving municipal liaison work to corporate couriers. He governs Facility 01 with absolute, uncompromising discipline, prioritizing the containment of Sorrow Entities above all civic concerns.
+
+**Documented In-Universe Whispers & Informant Theories:**
+- *Theory Alpha (The First Settler):* Whispered among senior Collectors that the Director is one of the original surviving settlers from the Consolihan, bound by an ancient karmic contract to guard the city's foundation until the debt of the Cheongula is paid.
+- *Theory Beta (The Architect of the Loop):* Leaked fragments from Floor 6 imply the Director is caught in a closed repeating temporal loop (the *1,778 Cycles*), resetting facility operations across centuries in pursuit of a singular metaphysical event dubbed **Absolvohan**.
+- *Theory Gamma (The Empty Throne):* Radical underworld pamphlets in Zone B claim the living Director perished centuries ago, and that Facility 01 is operated autonomously by Secretary Seiyon running an automated administrative facsimile.
+
+---
+
+### Dossier RD-02: Secretary Seiyon (비서 — 세이온)
+
+**Recorded Designation:** Seiyon (세이온)  
+**Operational Title:** Executive Secretary / Chief Administrative Interface  
+**Physical Profile:** Humanoid synthetic effigy (0% biological tissue). Flawless crystalline dermis, dark navy styled hair, and calm, unblinking teal-blue ocular sensors lined with subtle Pale White and Lament luminous channels. Voice is modulated to absolute, unflinching acoustic composure.  
+**Operational Station:** Floor 1 Command Hub.
+
+**Observed Role & Surveillance:**
+Seiyon acts as the sole voice and intermediary for the Director. She monitors the facility-wide Han-density gauge, calculates real-time Sorrow Gauge fluctuations across all containment sectors, and broadcasts automated sector lockdown and suppression orders down to Floors 2 through 8.
+
+**Internal Debriefing Notes & Staff Whispers:**
+While officially registered as an advanced administrative intelligence core, engineering logs from Sector 03 note anomalies in her behavioral programming. During the near-meltdown of Cycle 1,742, surviving personnel reported that Seiyon's acoustic channel wavered for three seconds, emitting a quiet human sob that echoed through the sector before resetting to standard protocol. Rumors among high-clearance researchers allege her cognitive core was awakened by absorbing the residual grief and memories of a woman the Director lost before the city was constructed.
+
+---
+
+### Dossier RD-03: Containment Lead Dekan (데칸 — The Maw Warden)
+
+**Recorded Name:** Dekan (데칸)  
+**Operational Title:** Containment Lead / Floor 2 Commander  
+**Embodied Architecture:** High-Output Biomechanical Cyborg (~50% living biological flesh, ~50% heavy mechanical chassis).  
+**Observed Profile:** A thick-set, scarred human man in his mid-forties, perpetually exhausted, with bloodshot eyes and grease-stained work garments. His right arm is entirely consumed by a crimson-scaled biological graft that reacts violently to nearby entity resonance.  
+**Operational Station:** Floor 2 (Containment Floor), adjacent to the subterranean trenches of The Maw.
+
+**Surveillance & Behavioral Notes:**
+Dekan personally supervises the containment vats of Somnarak's most volatile entities. Witnesses observe him speaking to hostile entities in low, rhythmic murmurs—not with fear or hatred, but with the weary patience of an undertaker. When entity containment fields fluctuate, the crimson scales on his arm open like breathing gills, venting hot, metallic mist. He carries the sorrow of the thousand souls consumed in the Cheongula.
+
+---
+
+### Dossier RD-04: Extraction Lead Zyrak (지락 — The Forge-Master)
+
+**Recorded Name:** Zyrak (지락)  
+**Operational Title:** Extraction Lead / Floor 3 Commander  
+**Embodied Architecture:** Human Soul housed in Android Cast Effigy (0% biological flesh).  
+**Observed Profile:** Tall, angular industrial humanoid frame constructed from dark sorrow-forged alloy. Her five-fingered mechanical hands are etched with micro-fracture channels permanently stained with iridescent Han-crystallization residue.  
+**Operational Station:** Floor 3 (Extraction & Forge Floor).
+
+**Surveillance & Behavioral Notes:**
+Zyrak oversees the extraction vats where raw entity sorrow is crystallized into M.A.W. weapons and armor. She never sleeps, consumes no rations, and communicates solely in concise technical metrics regarding resonance tolerances and work affinities. Forge workers whisper that she was once a master human artisan whose biological body was vaporized in an extraction accident, prompting the Directorate to salvage and bind her living human soul into an industrial Android effigy.
+
+---
+
+### Dossier RD-05: Research Lead Ayshuk (아이숙 — The Silent Ledger)
+
+**Recorded Name:** Ayshuk (아이숙)  
+**Operational Title:** Research Lead / Floor 4 Commander  
+**Embodied Architecture:** Human Soul housed in Analytical Android Platform (0% biological flesh).  
+**Observed Profile:** Polished ceramic-white facial casting, stark pale sensor lenses, and a completely flat vocal delivery devoid of emotional inflection.  
+**Operational Station:** Floor 4 (Research & Work Analysis Floor).
+
+**Surveillance & Behavioral Notes:**
+Ayshuk manages the Directorate's research ledger, calculating behavioral probabilities and Work Type effectiveness (Flerehan, Pugnahan, Viderehan, Ferrehan). Field personnel find her chilling: she has been observed calmly taking notes through observation windows while field agents suffer psychological fracture. Informants whisper she willingly underwent neural soul-extraction to purge her own traumatic memories of settler grief following the Consolihan.
+
+---
+
+### Dossier RD-06: Border Lead Mellda (멜다 — The Warden Bulwark)
+
+**Recorded Name:** Mellda (멜다)  
+**Operational Title:** Border Lead / Floor 5 Commander / Threshold Vanguard  
+**Embodied Architecture:** Biomechanical Cyborg (~45% living biological flesh, ~55% reinforced chassis).  
+**Observed Profile:** Towering human woman standing 188 cm with broad shoulders, weather-beaten features, deep green eyes, and thick chestnut hair. A dark mechanical Neural Spine is visible along her cervical vertebrae. Her left forearm houses the terrifying manufactured weapons system **Threshold Vow** (reconfigures into a 1-meter Han-infused Sacred Blade emitting Crimson cutting light and Black smoke).  
+**Operational Station:** Floor 5 (Border Watch & Frontier Defense).
+
+**Surveillance & Behavioral Notes:**
+A veteran who survived ten documented years in the Outside Desolate following an unrecorded municipal exile. Mellda is regarded by field agents as the Directorate's most formidable frontline warrior. Observers document periodic "phase-shifting" phenomena where sections of her body become smoke-like and translucent, suggesting a symbiotic bond with an Outside Sorrow passenger. She fights with unyielding martial discipline, refusing to abandon frontline personnel.
+
+---
+
+### Dossier RD-07: Archive Lead Marjuk (마르죽 — The Stasis Keeper)
+
+**Recorded Name:** Marjuk (마르죽)  
+**Operational Title:** Archive Lead / Floor 6 Commander  
+**Embodied Architecture:** Cryogen Stasis Preservation Matrix (~20% living biological tissue, ~80% synthetic archival chassis).  
+**Observed Profile:** A heavy cylindrical cryo-stasis unit housing a living human brain, left eye, and spinal nerve stem suspended in luminous preservation fluid, mounted onto an armored mobile archival chassis.  
+**Operational Station:** Floor 6 (The Grand Deep Archive).
+
+**Surveillance & Behavioral Notes:**
+Marjuk guards Facility 01's classified historical archives, speaking through a low-frequency acoustic vox unit. Archive technicians report that during low-cycle maintenance, his living eye darts rapidly in REM stasis while the vox speaker whispers forgotten pre-Consolihan dialects, reciting eyewitness accounts of historical events that have been expunged from all public libraries.
+
+---
+
+### Dossier RD-08: Shadow Corps Lead Ishall (이샬 — The Outsider)
+
+**Recorded Name:** Ishall (이샬)  
+**Operational Title:** Shadow Corps Lead / Floor 7 Commander / Head of Mobile Reconnaissance  
+**Embodied Architecture:** Human Soul housed in Repurposed Foreign Android Chassis (0% biological tissue).  
+**Observed Profile:** A 178 cm tall humanoid Android woman modeled at approximately 37 years of age, with deep burgundy synthetic hair, deep teal sensor eyes, and an elegant, tailored black field coat. Hovering behind her shoulders without physical cables or joints is **Unanswered**—a unique pair of oversized, levitating Before-Time Artifact hands made of ancient mineral plates with Pale White palms and Crimson conductor channels.  
+**Operational Station:** Floor 7 (Black Vault & Infiltration Command).
+
+**Surveillance & Behavioral Notes:**
+Dossier records confirm Ishall was formerly an elite covert operative for external adversaries who infiltrated the Directorate to sabotage its infrastructure. Following her defeat, her living human soul was reconstructed into her current chassis. Feared across all municipal zones for her ability to deploy *Closed Ground* acoustic-gravitational denial fields and *Converging Refusal* spatial implosions using her relic hands. She obsessively monitors transmissions originating beyond Somnarak's borders.
+
+---
+
+### Dossier RD-09: Boundary Vanguard Xyan (시안 — The Exile)
+
+**Recorded Name:** Xyan (시안)  
+**Operational Title:** The Exile / Floor 8 Vanguard  
+**Embodied Architecture:** Frontier Cyborg Scout (~55% living biological flesh, ~45% environmental augmentation).  
+**Observed Profile:** Gaunt, weathered human male equipped with heavy atmospheric filtration lungs, pale calcified skin patches, and reinforced leg braces.  
+**Operational Station:** Floor 8 (The Exile's Gate / Desolate Perimeter).
+
+**Surveillance & Behavioral Notes:**
+Stationed permanently at the threshold separating Somnarak from the howling storms of the Desolate. Xyan monitors Outside Sorrow entities and seismic Han channels. He is known for transmitting sporadic, cryptic acoustic warnings through the planetary Han field ("The Furnace is burning") that the Council classifies as hallucination, but which Floor 7 logs and verifies.
+
+---
+
+## II. The 25 Known People of Somnarak (Municipal Registry)
+
 
 ### 1. The Informant (정보원 — Jeongbowon)
 
@@ -1093,7 +1233,25 @@ Because in Somnarak, some fires cannot be put out. Some fires can only be witnes
 
 ---
 
-## Cast Summary
+## III. Master Intelligence & Cast Summary
+
+### Subterranean Executive & Department Leads (Facility 01)
+
+| Designation / Name | Operational Role | Embodied Architecture | Signature Equipment / System | Clearance Level |
+|---|---|---|---|---|
+| **The Director** | Directorate Supreme Commander | Biological Human (Ω-Graft) | *Reaper Hungered* (Scythe) | Level 5 (Absolute) |
+| **Seiyon** (세이온) | Executive Secretary / Core Interface | Humanoid Synthetic Effigy | Administrative Vox Core | Level 5 (Executive) |
+| **Dekan** (데칸) | Floor 2 / Containment Lead | Cyborg (~50% Flesh) | Scaled Maw Living Graft | Level 4 (Subterranean) |
+| **Zyrak** (지락) | Floor 3 / Extraction Lead | Cast Effigy Android (0% Flesh) | Sorrow-Forged Extraction Hands | Level 4 (Subterranean) |
+| **Ayshuk** (아이숙) | Floor 4 / Research Lead | Analytical Android (0% Flesh) | Void Analytical Ledger | Level 4 (Subterranean) |
+| **Mellda** (멜다) | Floor 5 / Border Lead | Cyborg (~45% Flesh) | *Threshold Vow* (Arm-Blade) | Level 4 (Subterranean) |
+| **Marjuk** (마르죽) | Floor 6 / Archive Lead | Cryogen Stasis (~20% Flesh) | Acoustic Memory Lens | Level 4 (Subterranean) |
+| **Ishall** (이샬) | Floor 7 / Shadow Corps Lead | Repurposed Android (0% Flesh) | *Unanswered* (Artifact Hands) | Level 4 (Subterranean) |
+| **Xyan** (시안) | Floor 8 / Boundary Vanguard | Frontier Cyborg (~55% Flesh) | Desolate Survival Chassis | Level 4 (Subterranean) |
+
+---
+
+### Municipal Registry: The 25 Known Figures
 
 | # | Name | Role | Zone | Known For |
 |---|------|------|------|-----------|
@@ -1125,7 +1283,7 @@ Because in Somnarak, some fires cannot be put out. Some fires can only be witnes
 
 ---
 
-## The SED & UCD Operatives (작전 대원 — Jakjeon Daewon)
+## IV. Tactical Field Operatives (SED & UCD Specialized Rosters)
 
 Beyond the city's known fixtures, two operations field dedicated teams of specialists — the **SED** (Somnarak Exploration Decreed) and the **UCD** (Underworld Cleanup Descend). These operatives are not city-wide celebrities like the Known People above. They are known *within their operations* — by their codenames, their scars, and the sorrows that put them on the team. Most citizens will never hear their names. The Archive records them anyway.
 
@@ -1188,7 +1346,7 @@ Six members, drawn together to dismantle the Frays' power structure and restore 
 
 ---
 
-## The Five Heads (오수 — Osu) — Council of Sighs
+## V. The Five Heads (Council of Sighs Executive Intelligence)
 
 The Council of Sighs is governed by **Five Heads** — each one representing a different aspect of the city's power. Some are known by name. Some are known by title. Some are not known at all.
 
@@ -1204,7 +1362,7 @@ The Council of Sighs is governed by **Five Heads** — each one representing a d
 
 ---
 
-## The Sector Heads (구역장 — Guyeokjang)
+## VI. The Sector Heads (Zonal Surveillance & Administration)
 
 Each zone has a **Sector Head** — the person responsible for maintaining order, managing resources, and reporting to the Council. Some are known. Some are hidden. Some have been replaced — and no one noticed.
 
