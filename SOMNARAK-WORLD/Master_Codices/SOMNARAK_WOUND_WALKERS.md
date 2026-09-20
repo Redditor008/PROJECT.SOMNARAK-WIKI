@@ -78,31 +78,31 @@ The journey is eternal. The city will always have wounds. Sooah will always heal
 
 ---
 
-## III. Floor Realizations — The City's Wounds
+## III. The Seven Crucible Stations — The City's Wounds (일곱 개의 시련 정거장: 도시의 상처)
 
 ### What They Are
 
-Floor Realizations are character explorations — moments where the Walker confronts a wound, understands it, and tends it. Each Floor Realization is a battle — but not against an enemy. Against *sorrow itself*.
+The Crucible Stations are deep spiritual trials — moments where the Walker confronts a municipal trauma point, understands its root agony, and tends it. Each Crucible Station is an encounter — not against a physical adversary, but with *sorrow itself*.
 
-**The Mechanic:** Each Floor Realization is a wound — a place in the city where sorrow is concentrated. The Walker enters the wound, confronts the sorrow, and tends it. The wound does not disappear. The wound becomes bearable.
+**The Mechanic:** Each Crucible Station is anchored to a historical fracture point in Somnarak where grief remains unhealed. The Walker enters the wound, absorbs the ambient sorrow through their petrified Han scars, and shares the weight until the agony subsides into bearable peace.
 
-### The Wounds
+### The Seven Stations
 
-| Floor | Wound | Location | Sorrow | Realization |
-|-------|-------|----------|--------|-------------|
-| **Floor 1** | The Maw | Zone B | The First Sorrow — 1,000 consumed | The Maw is not evil. The Maw is lonely. |
-| **Floor 2** | The Scar | The Desolate | The Occlusihan's rage | The Scar is not a wound. The Scar is a memorial. |
-| **Floor 3** | The Old Lament | Zone B | The city's oldest grief | The Old Lament is not dead. The Old Lament is mourning. |
-| **Floor 4** | The Debt System | Zone C | The weight of obligation | The debt is not a chain. The debt is a bond. |
-| **Floor 5** | The Entity Suffering | R.D. Facility | The entities' pain | The entities are not monsters. The entities are mirrors. |
-| **Floor 6** | The Cheongula | The Maw | The thousand's sacrifice | The Cheongula was not murder. The Cheongula was neglect. |
-| **Floor 7** | The Primordial Sorrow | The Weeping | The planet's grief | The sorrow is not a curse. The sorrow is a foundation. |
+| Station | Wound | Location | Sorrow | Realization |
+|---|---|---|---|---|
+| **Station 1** | The Maw | Zone B | The First Sorrow — 1,000 consumed | The Maw is not evil. The Maw is lonely. |
+| **Station 2** | The Scar | The Desolate | The Occlusihan's rage | The Scar is not a wound. The Scar is a memorial. |
+| **Station 3** | The Old Lament | Zone B | The city's oldest grief | The Old Lament is not dead. The Old Lament is mourning. |
+| **Station 4** | The Debt System | Zone C | The weight of obligation | The debt is not a chain. The debt is a bond. |
+| **Station 5** | Entity Suffering | Facility 01 | The captive entities' pain | The entities are not monsters. The entities are mirrors. |
+| **Station 6** | The Cheongula | The Maw Roots | The thousand's sacrifice | The Cheongula was not murder. The Cheongula was neglect. |
+| **Station 7** | Primordial Sorrow | The Weeping | The planet's primordial grief | The sorrow is not a curse. The sorrow is a foundation. |
 
 ---
 
 ## IV. The Wounds — Detailed
 
-### Floor 1: The Maw (Zone B)
+### Station 1: The Maw (Zone B)
 
 **The Wound:** The First Sorrow — 1,000 citizens consumed by Han. The Maw whispers. The Maw hungers. The Maw grows.
 
@@ -116,7 +116,7 @@ The wound is not healed. The wound is *tended*.
 
 ---
 
-### Floor 2: The Scar (The Desolate)
+### Station 2: The Scar (The Desolate)
 
 **The Wound:** The Occlusihan's rage — six factions fighting, the Han erupting, the Scar forming.
 
@@ -132,7 +132,7 @@ The wound is not healed. The wound is *tended*.
 
 ---
 
-### Floor 3: The Old Lament (Zone B)
+### Station 3: The Old Lament (Zone B)
 
 **The Wound:** The city's oldest grief — the sorrow of the first settlers, the weight of 6,000 years.
 
@@ -146,7 +146,7 @@ The wound is not healed. The wound is *tended*.
 
 ---
 
-### Floor 4: The Debt System (Zone C)
+### Station 4: The Debt System (Zone C)
 
 **The Wound:** The weight of obligation — the debt that crushes, the Collectors that pursue, the citizens that suffer.
 
@@ -162,7 +162,7 @@ The wound is not healed. The wound is *tended*.
 
 ---
 
-### Floor 5: The Entity Suffering (R.D. Facility)
+### Station 5: The Entity Suffering (Facility 01)
 
 **The Wound:** The entities' pain — the sorrow of being contained, the grief of being studied, the weight of being used.
 
@@ -176,7 +176,7 @@ The wound is not healed. The wound is *tended*.
 
 ---
 
-### Floor 6: The Cheongula (The Maw)
+### Station 6: The Cheongula (The Maw Roots)
 
 **The Wound:** The thousand's sacrifice — the citizens consumed by Han, the First Sorrow, the city's original sin.
 
@@ -192,7 +192,7 @@ The wound is not healed. The wound is *tended*.
 
 ---
 
-### Floor 7: The Primordial Sorrow (The Weeping)
+### Station 7: The Primordial Sorrow (The Weeping)
 
 **The Wound:** The planet's grief — the sorrow of Mugenhan, the weight of 8.6 billion souls, the pain of existence.
 
