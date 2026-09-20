@@ -111,7 +111,7 @@
 
 **What happens if broken:** The city responds with **fragmentation** — both the original and the copy become unstable. Their sorrow splits, weakens, and eventually *dissolves*. The Echo-Core loses their identity. The copy never truly forms.
 
-**The grey area:** The Secretary is a copy of the Director's dead lover. Is this "Echo-Core duplication"? The city has not punished them. Why? Because the Secretary is not a copy of an *Echo-Core* — they are a copy of a *dead person*. The Taboo prohibits duplicating *Echo-Cores*, not *people*. The distinction is technical — but the city accepts it.
+**The grey area:** The Secretary's administrative core was awakened upon absorbing the residual grief and memories of the Director's deceased human lover. Is this "Echo-Core duplication"? The city has not punished them. Why? Because the Secretary is an awakened synthetic intelligence carrying memory echoes, not a mechanical or metaphysical duplicate of an existing Echo-Core. Each Echo-Core remains a singular, non-reproducible human soul bound to a unique chassis. The distinction is narrow — but the city accepts it.
 
 ---
 
@@ -314,6 +314,27 @@
 - **The Han-Crystal Implant** — a glowing crystal embedded in each Judexhan's forehead; connects them to the command network, amplifies physical abilities, absorbs target sorrow, suppresses emotion. When the crystal reaches capacity, the Judexhan is "retired" — taken deep beneath the Alpha Tree. What happens next is unknown.
 
 **Full details:** `SOMNARAK_FACTION_TECH.md` (§8 — Judexhan technology), `SOMNARAK_FACTION_RELATIONS.md` (Judexhan relationship matrix)
+
+---
+
+### The Facility 01 Jurisdiction Anomaly: The Giltong vs. The Directorate (시설 01과 질동의 사법 충돌)
+
+The most severe institutional standoff in Somnarak exists at the surface threshold of Facility 01 beneath the Alpha Tree — between the **Giltong Taboo Enforcers** and the **Reverie Directorate**:
+
+#### The Jurisdictional Impasse
+Under Council of Sighs decree, the Giltong hold universal authority to deploy Taboo Scanners and execute summary containment across all municipal zones. However, inside Facility 01, Director Majin enforces absolute operational sovereignty:
+- **The Floor 1 Perimeter:** Giltong agents are permitted into surface intake offices and diplomatic receiving rooms, but are strictly barred from descending past Floor 1 into the deep containment corridors (Floors 2 through 8).
+- **Acoustic Dampening Scramble:** Facility 01's massive subterranean Mnemonic Generators and sector dampeners radiate high-density static fields that blind external Taboo Scanners, preventing the Giltong from reading the Han-signatures of lower-floor extraction vats.
+- **Echo-Core Speech Shielding:** Departmental communications across Floors 2–8 are isolated within closed optical channels, preventing the municipal acoustic surveillance network from eavesdropping on Echo-Core speech or crisis alarms.
+
+#### Giltong Confidential File: *AUDIT-01-SUSPICION*
+The Giltong Archive maintains an ongoing, highly classified dossier documenting suspected Taboo circumventions within the Directorate:
+1. **Taboo 2 (No True AI):** Continuous surveillance of Secretary Seiyon. Her computational sentience and recorded instances of acoustic melancholy suggest an awakened conscious intellect.
+2. **Taboo 4 (No Time Reversal):** Intercepted temporal variance logs from Floor 6 (Archive Lead Marjuk) indicating that Facility 01 undergoes localized causal loop resets (the *1,778 Cycles*).
+3. **Taboo 6 (No Cross-Boundary Fusion):** Director Majin's permanent fusion with an Ω-Grade primal core (*Reaper Hungered*) and Warden Lead Mellda's symbiotic Outside Sorrow passenger.
+
+#### Why the Council Restrains Enforcement
+Despite overwhelming grounds for investigation, the Council of Sighs repeatedly denies the Arbiter's requests to raid the subterranean facility. The political reality is absolute: Facility 01 houses hundreds of catastrophic Sorrow Entities that would instantly breach and consume Somnarak if Directorate containment were disrupted. The Council accepts technical Taboo ambiguity as the price of municipal survival, leaving the Giltong to maintain an armed, permanent surveillance perimeter around the Alpha Tree.
 
 ---
 
