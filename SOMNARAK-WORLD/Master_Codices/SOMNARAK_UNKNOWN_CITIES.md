@@ -102,7 +102,7 @@ Cheonbulok has been pumping raw Han into Mugenhan's atmosphere for 4,200 years. 
 
 **Cheonbulok is the source of Outside Sorrow.**
 
-The Exile (Ishall) discovered this. It is why he was exiled. He tried to tell the Council. They did not believe him — or did not want to.
+The Exile (**Xyan**) discovered this while tracking subterranean tectonic currents across the Desolate. When he submitted his telemetry to the Council of Sighs, they suppressed the findings and sealed the Exile's Gate behind him. Meanwhile, the Outsider (**Ishall**), operating within the Council's covert intelligence wing, discovered the classified suppression orders and preserved them in the Shadow Corps archives.
 
 ---
 
@@ -218,7 +218,7 @@ Only Somnarak has survived. The others are failing — each in their own way.
 
 ### The Source of Outside Sorrow
 
-The Exile (Ishall) discovered the truth:
+The Exile (**Xyan**), supported by intelligence leaked by **Ishall**, discovered the planetary truth:
 
 **Cheonbulok's Furnace releases Han into the atmosphere.**
 **Mugeukji's Void leaks suppressed emotion into the ground.**
@@ -242,6 +242,38 @@ This is the Council's deepest shame. This is the secret that the Archive protect
 
 ---
 
+---
+
+## Overland Caravan Corridors across the Desolate
+
+Connecting the four corners of Mugenhan requires crossing the lethal expanse of the Desolate, a wilderness saturated with Outside Sorrow:
+
+### 1. The Red Road (적도로 — Jeokdoro) to Cheonbulok
+- **Terrain & Atmospheric Hazards:** A scorched mineral highway running northwest through caustic basalt ridges. Ash storms dense with unrefined Grudge (Flerehan) particulates corrode mechanical joints and trigger sudden violent aggression in unshielded travelers.
+- **Logistics:** Traversed exclusively by armored crawler convoys equipped with magnetic air scrubbers and cryogenic tire coolers. Travel time: 42 civic standard days.
+- **Hazards:** Roaming packs of feral Rage Entities and volatile thermal geysers erupting from Cheonbulok's subterranean exhaust trenches.
+
+### 2. The White Trail (백색 능선 — Baeksaek Neungseon) to Mugeukji
+- **Terrain & Atmospheric Hazards:** A vast plateau of petrified salt flats and vacuum sinkholes stretching northeast. In this dead zone, acoustic waves cannot propagate; travelers experience total sensory deprivation and psychic hypothermia as the ambient Void (Ferrehan) drains biological warmth.
+- **Logistics:** Caravans must utilize closed-circuit cognitive life-support rigs, communication cables, and resonant heat lanterns. Travel time: 58 civic standard days.
+- **Hazards:** Wandering Silence Wraiths that dissolve memory and identity upon physical contact.
+
+---
+
+## Directorate Classification Directive: Protocol Quad-Perimeter (4방위 봉인 규약)
+
+Knowledge of Cheonbulok and Mugeukji is among the highest-level classified secrets in Facility 01, known only to Director Majin, Archive Lead Marjuk, and Head Overseer Ishall:
+
+### 1. The Monopoly of Consolidation
+The Reverie Directorate's entire civic mandate relies upon the premise that Somnarak's Consolihan is humanity's sole surviving bastion against planetary extinction. If Somnarak's 400,000 citizens knew other cities existed, civil order would fracture:
+- **Refugee Exodus:** Large factions would attempt dangerous migrations across the Desolate to escape the debt and containment apparatus.
+- **Philosophical Collapse:** The revelation that Cheonbulok burns sorrow and Mugeukji suppresses it would challenge the Directorate's core thesis that sorrow must be harvested and endured.
+
+### 2. Prevention of Collective Despair
+Cheonbulok is crumbling under rage-exhaustion after 4,200 years, and Mugeukji is hollowing into a mass grave after 5,800 years. Revealing that both alternative models are failing catastrophically would destroy civilian morale, triggering city-wide panic and precipitating irreversible mass-Fracture across Somnarak's municipal wards.
+
+---
+
 ## Narrative Potential
 
 ### Story Hooks
@@ -250,7 +282,7 @@ This is the Council's deepest shame. This is the secret that the Archive protect
 
 2. **The Storage Vaults are leaking** — Mugeukji's emotions are returning. Citizens are experiencing feelings for the first time. Some are Fracturing. Some are awakening. The city is in chaos.
 
-3. **The Exile's proof** — Ishall has evidence that Cheonbulok's Furnace is the source of Outside Sorrow. If this information becomes public, it could start a war.
+3. **The Exile's Telemetry & Ishall's Dossier** — Xyan holds physical core samples from the Ash Fields, while Ishall retains the Council's classified suppression directives. If this evidence is leaked to Somnarak's civilian districts, it would collapse public faith in the Veil.
 
 4. **The Council's secret** — Someone discovers the Council's decision to abandon the other cities. The political fallout could destroy Somnarak from within.
 
