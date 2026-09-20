@@ -48,184 +48,225 @@ _The Director stands. He walks to the window — the Central Command's window, o
 
 > **Seiyon:** _"Yes, Director."_
 
-### Day Narrative — Operational Shift Log
+---
 
-**[FACILITY STATUS — MORNING REPORT]**
+### Day Narrative — Super-Expanded Operational Shift Log
 
-The Director reviews the morning reports. The facility is stable — 246 entities contained, 1,179 personnel on duty, 9 Echo-Cores operational. The Hand of Change opens its eyes.
+```text
++==============================================+
+|       FACILITY 01 OPERATIONAL LOG: DAY 0     |
++==============================================+
+| Calendar Epoch       | Year 4,232+1,778      |
++----------------------+-----------------------+
+| Active Containment   | 246 Sorrow Entities   |
++----------------------+-----------------------+
+| Active Personnel     | 1,179 Staff & Agents  |
++----------------------+-----------------------+
+| Daily Target Quota   | 0.066 Tons Refined Han|
++======================+=======================+
+```
 
-**Energy Production:**
+The Director reviews the morning dispatches. The facility awakens into its 1,778th cycle: crystalline conduits warm with liquid Han, pneumatic delivery tubes hiss with morning manifests, and the central administrative core initializes. The Hand of Change opens its unblinking eyes.
 
-- Current reserves: 47.3 tons of Han-crystal
-- Daily production: ~0.05 tons (from entity Work Types)
-- Absolvohan target: 100 tons
-- Time to completion (at current rate): ~1,054 days
+---
 
-**Containment Status:**
+#### 1. Multi-Floor Deployment Phase & Resonance Auras
 
-- Entities at Risk (Sorrow Gauge >80%): 3
-- Entities Agitated (Sorrow Gauge 60-80%): 7
-- Entities Stable (Sorrow Gauge <60%): 236
-- Breach attempts this cycle: 0
+```text
++==============================================+
+|       FLOOR DEPLOYMENT & ATTENDANT AURAS     |
++==============================================+
+| Floor & Department   | Staff | Active Aura   |
++======================+=======+===============+
+| F1: Neutral Command  | 24 Ag | +10% Move Spd |
++----------------------+-------+---------------+
+| F2: The Maw's Keep   | 50 Ag | +10 Max HP    |
++----------------------+-------+---------------+
+| F3: Extraction Hall  | 40 Ag | +10% Yield    |
++----------------------+-------+---------------+
+| F4: Insight Forge    | 30 Ag | +8% Work Succ |
++----------------------+-------+---------------+
+| F5: Border Watch     | 40 Ag | +15% Phys Def |
++----------------------+-------+---------------+
+| F6: Deep Vault       | 20 Ag | +15 Max SP    |
++----------------------+-------+---------------+
+| F7: Shadow Corps     | 30 Ag | +15% Evasion  |
++----------------------+-------+---------------+
+| F8: Gate Watch       | 10 Ag | +20s Warning  |
++======================+=======================+
+```
 
-**Personnel Status:**
+- **Roster Deployment:** 244 field agents deployed across eight floors; 390 departmental clerks present at 100% strength, sustaining maximum resonance aura potency throughout the morning shift.
+- **Station Orders:** Containment Lead Dekan stationed at the Maw's Edge observation post; Extraction Lead Zyrak pre-heats Forging Vats A & B on Floor 3; Border Lead Mellda locks Bulkhead Gate E-01.
 
-- Agents on duty: 342
-- Agents in recovery: 17
-- Agents Fractured this cycle: 0
-- Agent morale: 72% (acceptable)
+---
 
-**Ordeals:**
+#### 2. Acoustic Strain Meltdown Monitoring
 
-- Next Ordeal: The Breach (estimated 6 hours)
-- Ordeal cycle position: 2 of 4 (Surge passed, Breach approaching)
+```text
++==============================================+
+|       ACOUSTIC STRAIN MELTDOWN TRACKER       |
++==============================================+
+| Parameter            | Current Shift Reading |
++======================+=======================+
+| Facility Strain Lvl  | Level II (Active)     |
++----------------------+-----------------------+
+| Alarm Chambers       | Cell C-08, Cell B-03  |
++----------------------+-----------------------+
+| Bleed Countdown      | 45s (Resolved in 28s) |
++----------------------+-----------------------+
+| Acoustic Overload    | Cell C-08 (+8% Strain)|
++======================+=======================+
+```
 
-**The Director's Tasks:**
+- **Meltdown Wave:** Following the fifth successful interaction, an amber acoustic alarm flashes in Containment Cell C-08 (*The Guarding Bird*) and Cell B-03 (*The Orphaned Bell*).
+- **Intervention:** Senior Agent Choi reaches Cell C-08 at 00:28; Senior Agent Yoon reaches Cell B-03 at 00:34. Both work protocols initiated prior to timer expiration, preventing a 20% Han-Energy backflow venting.
 
-1. Assign agents to morning Work Types
-2. Review containment protocols for at-risk entities
-3. Approve M.A.W. extraction requests
-4. Monitor the Kind Healer's blessing count
-5. Check the Absolvohan's Han-crystal reserves
+---
 
-**[ENTITY ASSIGNMENT — MORNING SHIFT]**
+#### 3. Granular Work Type Management & Harvest Records
 
-The Director assigns agents to their morning Work Types. The assignments are routine — the same entities, the same Work Types, the same agents. But the Director changes one assignment: Agent Lee is moved from Entity 001 (The Orphaned Bell) to Entity 025 (The Silent Child).
+```text
++==============================================+
+|       SHIFT WORK TYPE MANAGEMENT LOG         |
++==============================================+
+| SECC Designation     | Work Type & Officer   |
++======================+=======================+
+| SE-C-IVδ-001 (Bell)  | Ferrehan (Yoon)       |
+| Gauge Δ: -8%         | Energy: +0.010 Tons   |
++----------------------+-----------------------+
+| SE-C-IIIγ-031 (Bird) | Ferrehan (Shin)       |
+| Gauge Δ: -2%         | Energy: +0.009 Tons   |
++----------------------+-----------------------+
+| SE-C-IIIγ-033 (Guard)| Flerehan (Choi)       |
+| Gauge Δ: +3%         | Energy: +0.024 Tons   |
++----------------------+-----------------------+
+| SE-C-IIIγ-176 (Loom) | Ferrehan (Jang)       |
+| Gauge Δ: -2%         | Energy: +0.018 Tons   |
++----------------------+-----------------------+
+| SE-N-IIIγ-021 (Choir)| Ferrehan (Oh)         |
+| Gauge Δ: Stable      | Energy: +0.022 Tons   |
++----------------------+-----------------------+
+| SE-C-IVδ-008 (Maw)   | Ferrehan (Lee)        |
+| Gauge Δ: -8%         | Energy: +0.008 Tons   |
++======================+=======================+
+```
 
-> **Seiyon:** _"Agent Lee has been assigned to The Orphaned Bell for 47 consecutive days. Why the change?"_
+- **Operational Notes:**
+  - `SE-C-IVδ-001 [LO]` (*The Orphaned Bell*): Ferrehan successfully grounded the bell's acoustic tolling; clean extraction potential identified. +3 OP awarded.
+  - `SE-C-IIIγ-033 [GO]` (*The Guarding Bird*): Flerehan interaction caused minor containment field flickering due to Grudge resistance; Senior Agent Choi absorbed minor kinetic strain. +2 OP awarded.
+  - `SE-C-IVδ-008 [GP]` (*The Maw*): Agent Lee sustained gravitational bearing near trench 02; voices of the thousand drowned laborers subsided to low murmur.
 
-> **Majin:** _"Agent Lee has been hearing the Bell's toll in their sleep. The Bell is getting inside them. They need distance."_
+---
 
-> **Seiyon:** _"Noted. Reassignment logged."_
+#### 4. Directorate Tactical Command Directives Deployed
 
-**[ENERGY COLLECTION]**
+```text
++==============================================+
+|       DECISION CORE TACTICAL DIRECTIVES      |
++==============================================+
+| Directive Fired      | Sector & Outcome      |
++======================+=======================+
+| Veil Mist Dampener   | Cell C-08 (Floor 5)   |
+| Energy Cost: 15u     | Restored 25% Composure|
++----------------------+-----------------------+
+| Han Salve Jet        | Corridor 2B (Floor 2) |
+| Energy Cost: 10u     | Sealed Flesh Abrasion |
++======================+=======================+
+```
 
-The morning Work Types begin. Agents enter containment zones — performing Flerehan (Tears), Pugnahan (Confrontation), Viderehan (Observation), Ferrehan (Endurance). The Sorrow Gauges fluctuate. The Han-crystal accumulates.
+- **Pneumatic Transmissions:** At 11:14 AM, Director Majin fired a *Veil Mist Dampener* into Cell C-08 to calm Agent Choi's racing pulse following *The Guarding Bird's* resonance flare. At 02:40 PM, a *Han Salve Jet* sealed a minor kinetic laceration on Agent Lee's arm on Floor 2.
 
-- Entity 001 (Orphaned Bell): Flerehan — Gauge decreases by 8%. Energy: +0.02 tons.
-- Entity 006 (Smothering Mother): Ferrehan — Gauge decreases by 5%. Energy: +0.01 tons.
-- Entity 014 (Frozen Veil): Viderehan — Gauge stable. Energy: +0.01 tons.
-- Entity 025 (Silent Child): Flerehan — Gauge decreases by 12%. Energy: +0.01 tons.
+---
 
-Total morning energy: +0.05 tons. Running total: 47.35 tons.
+#### 5. Ordeal Suppression Tactical Dossier
 
-**[DUSK ORDEAL PREPARATION]**
+```text
++==============================================+
+|       ORDEAL SUPPRESSION TACTICAL DOSSIER    |
++==============================================+
+| Ordeal Code          | The Voice (PALE, 2nd) |
++----------------------+-----------------------+
+| Threat Element       | Void (Pale White)     |
++----------------------+-----------------------+
+| Incursion Sector     | Floor 4 Corridor D-02 |
++----------------------+-----------------------+
+| Suppression Squad    | Strike Squad Alpha    |
++----------------------+-----------------------+
+| Casualty Status      | 0 Fatalities, 1 Panic |
++======================+=======================+
+```
 
-The Breach Ordeal approaches — Outside Sorrow seeping into the facility. The Director orders:
+- **Incursion Chronicle:** At 03:20 PM, atmospheric Void density triggered *The Voice* (PALE, Second Watch). Three faceless memory-bleeding entities manifested in Corridor D-02, attempting to erase personnel identities.
+- **Combat Engagement:** Strike Squad Alpha engaged across Range Band 3 (Medium) with Weight-element M.A.W. mauls, exploiting Void's vulnerability to crushing physical mass.
+- **Panic & Sanity Restoration:** Junior Agent Shin suffered Composure collapse, entering **Void Catatonia** (whispering the Cheongula death-dirge). Senior Agent Yoon intercepted Shin and struck them with a **Lament (Deep Blue)** training baton, draining the panic meter and restoring Shin's sanity before permanent Fracture.
 
-- Border Watch: Increase surveillance on Zone E perimeter
-- Containment Teams: Stand by for entity agitation
-- Veil Generators: Boost to 100% for Ordeal duration
-- Echo-Cores: All hands on deck
+---
 
-> **Seiyon:** _"Director. The Ordeal will arrive in approximately 6 hours. Shall I alert the teams?"_
+#### 6. End of Day Performance Review & Evaluation Index
 
-> **Majin:** _"Alert them. But don't alarm them. The Ordeal is routine. We've survived 1,778 of them."_
+```text
++==============================================+
+|       SHIFT EVALUATION INDEX: DAY 0          |
++==============================================+
+| Daily Shift Grade    | GRADE S (Exemplary)   |
++----------------------+-----------------------+
+| Han Harvested Total  | +0.091 Tons (Quota Met|
++----------------------+-----------------------+
+| Absolvohan Stockpile | 47.3 Tons (Crypt-Held)|
++----------------------+-----------------------+
+| Agents Fractured     | 0 (Zero Fatalities)   |
++----------------------+-----------------------+
+| RHR Reagents Awarded | +18 RHR Earned        |
++======================+=======================+
+```
 
-> **Seiyon:** _"We've survived 1,778 of everything, Director."_
+- **Performance Review:** Daily municipal quota (0.066 tons) exceeded by +0.025 tons. Absolvohan cryo-sinks hold steady at 47.3 tons.
+- **Attribute Conditioning:** 18 Refined Han Reagents (RHR) invested in Floor 4's conditioning chambers to hone Junior Agent Shin's Clarity (+3) and Agent Ahn's Resilience (+2).
 
-**[DUSK ORDEAL — EXECUTION]**
+---
 
-The Breach Ordeal arrives. Outside Sorrow seeps into the facility — cold, wild, unstructured. Three Desolate entities breach through the Zone E perimeter.
+#### 7. Entity Selection & M.A.W. Extraction Log
 
-**Containment Response:**
+```text
++==============================================+
+|       EXTRACTION & NEW CONTAINMENT LOG       |
++==============================================+
+| Selected Intake      | The Guarding Bird (β) |
++----------------------+-----------------------+
+| Containment Cell     | Cell C-08 (Floor 5)   |
++----------------------+-----------------------+
+| Extracted M.A.W.     | The Debt Ledger (γ)   |
++----------------------+-----------------------+
+| Anatomical Gift Slot | Gauntlet (Right Arm)  |
++----------------------+-----------------------+
+| Corrosion Stage      | Stage 0 (Uncorrupted) |
++======================+=======================+
+```
 
-- Containment Team 3 engages Entity D-001 (Desolate Shade) — Pugnahan successful, entity suppressed
-- Containment Team 7 engages Entity D-002 (Wild Han Wraith) — Flerehan successful, entity calmed
-- Containment Team 1 engages Entity D-003 (Scar Fragment) — Ferrehan successful, entity contained
+- **New Intake:** Director Majin selected *The Guarding Bird* from three overnight candidates. Containment initialized in Cell C-08 at 50% baseline Sorrow Gauge.
+- **Forging Output:** Extraction Lead Zyrak forged *The Debt Ledger* (Weapon, γ-grade) from *The Debt Eater*, assigning it to Agent Bae. Gift assigned to Right Arm Gauntlet slot.
 
-**Ordeal Result:** All 3 entities suppressed. No casualties. Minor structural damage to Zone E corridor. Veil generators restored to normal.
+---
 
-**Energy bonus:** +0.03 tons (Ordeal completion reward)
+#### 8. Night Shift Telemetry & Nocturnal Vigil
 
-**[DAY 0 COMPLETE]**
+```text
++==============================================+
+|       NOCTURNAL TELEMETRY & NIGHT VIGIL      |
++==============================================+
+| Night Watch Officer  | Agent Lim (Floor 2)   |
++----------------------+-----------------------+
+| Subterranean Drainage| Hydraulic Pumps Nom.  |
++----------------------+-----------------------+
+| Sorrow Tide Level    | Calm (-1.2m below Lip)|
++----------------------+-----------------------+
+| Memory Fog Density   | 0.04% (Scrubbers Act.)|
++======================+=======================+
+```
 
-The Director reviews the day's results:
+- **Overnight Telemetry:** Entity *The Kind Healer* hummed softly throughout the night; Floor 2 drainage pumps operated smoothly against the Sorrow Tide.
+- **Director's Vigil:** At 03:40 AM, Director Majin stood before the Central Command panoramic viewport, observing the faint golden shimmer deep within the Absolvohan Reserve Tap beneath his feet.
+- **Closing Log:** The Director did not sleep. The Director does not sleep.
 
-- Energy collected: 0.08 tons (morning + Ordeal)
-- Entities stable: 246
-- Personnel safe: 1,179
-- Ordeal survived: Yes (The Breach — 3 entities suppressed)
-- Kind Healer blessing count: 9 (unchanged)
-- Maw status: Whispering
-- New Han-crystal total: 47.38 tons
-
-The Director closes the report. The Director looks at Seiyon's holographic face. The Director speaks.
-
-> **Majin:** _"Same as yesterday."_
-
-> **Seiyon:** _"Same as every day."_
-
-> **Majin:** _"How many more?"_
-
-> **Seiyon:** _"...As many as it takes."_
-
-**[DEPLOYMENT PHASE — MORNING ASSIGNMENTS]**
-
-- **Floor 1 (Central Command)**: 24 agents deployed. M.A.W. loadout: standard.
-- **Floor 2 (The Maw's Keep)**: 10 agents deployed. M.A.W. loadout: reinforced.
-- **Floor 3 (Extraction Hall)**: 24 agents deployed. M.A.W. loadout: reinforced.
-- **Floor 4 (Research Wing)**: 8 agents deployed. M.A.W. loadout: standard.
-- **Floor 5 (Containment West)**: 18 agents deployed. M.A.W. loadout: standard.
-
-**[MANAGEMENT — WORK TYPE RESULTS]**
-
-Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumulates.
-
-|Entity|Work Type|Agent|Gauge Δ|Energy|Notes|
-|---|---|---|---|---|---|
-|The Sorrow Tide|Viderehan (observation — witnessing)|Agent Lee|-8%|+0.008t|Entity responsive.|
-|The Hollow Choir|Ferrehan (endurance — sustained presence)|Agent Oh|stable|+0.022t|No complications.|
-|The Observing Bird|Ferrehan (endurance — sustained presence)|Agent Shin|-2%|+0.009t|No complications.|
-|The Memory Weaver|Ferrehan (endurance — sustained presence)|Agent Jang|-2%|+0.018t|Gauge within parameters.|
-|The Guarding Bird|Flerehan (tears — emotional engagement)|Agent Choi|+3%|+0.024t|Containment field flickered.|
-|The Orphaned Bell|Ferrehan (endurance — sustained presence)|Agent Yoon|-8%|+0.01t|Clean extraction potential.|
-
-Afternoon shift: M.A.W. extraction prep on Floor 3. Total energy produced: **+0.091 tons**.
-
-**[END OF DAY — PERFORMANCE REVIEW]**
-
-- Han-Energy produced: **+0.091 tons** (daily quota: 0.066t — **MET**)
-- Absolvohan reserves: **47.3 tons** (persistent surplus; unchanged — daily production is reclaimed at reset)
-- Agents levelled up: 12 (stats increased across Resilience, Clarity, Composure, Resolve)
-- Agents Fractured: 0
-- Entities breached: 0
-- Ordeal: **The Voice** — PALE, Second Watch (Void — Pale White) — identity dissolution — personnel forget themselves — suppressed.
-- Sorrow Gauge average: 45% (falling)
-- M.A.W. extracted: δ-grade (Zyrak reports stable extraction)
-- Director's assessment: _"A good day. The city holds."_
-
-**[ENTITY SELECTION & CONTAINMENT]**
-
-New entity detected in the Han-flow scans overnight. The selection pool offered three candidates:
-
-1. The Guarding Bird — Outside Sorrow — β-grade
-2. The Hollow Choir — Inner Sorrow — δ-grade
-3. The Frozen Veil — Outside Sorrow — α-grade
-
-The Director selects **The Guarding Bird**. Containment cell: Cell C-08. Initial Sorrow Gauge: 50%. Classification pending full observation.
-
-**[PERSONNEL & TRAINING REPORT]**
-
-- Agents hired: 1 (replacements for Fractured personnel)
-- Agents in training: 13 — focus areas: Agent Ahn (Viderehan), Agent Lim (Ferrehan)
-- Fracture risk assessment: 3 agent(s) flagged for monitoring — elevated Composure strain detected
-- Medical bay: 2 agent(s) in recovery — stable
-- Morale at 69% — two agents were sent to medical after a Viderehan session with The Memory Weaver left them disoriented.
-
-**[M.A.W. EXTRACTION & FORGING]**
-
-- M.A.W. extracted: **The Debt Ledger** (Weapon, γ-grade) from The Debt Eater
-- Extraction performed by: Zyrak (Floor 3, Extraction Hall)
-- Equipped to: Agent Bae — immediate deployment
-- Cost to wielder: mild memory loss
-- M.A.W. registry total: 1,743 entries logged this Cycle
-
-**[NIGHT SHIFT — OVERNIGHT MONITORING]**
-
-Night watch: Agent Lim, Floor 2. Overnight report:
-
-- Entity activity: the Kind Healer humming a lullaby — the night watch dares not enter to ask it to stop.
-- Sorrow Gauge drift: one entity spiked 5% then settled.
-- Security incidents: one containment field flicker on Cell A-12 — auto-corrected.
-- The Director did not sleep. The Director does not sleep.
+---

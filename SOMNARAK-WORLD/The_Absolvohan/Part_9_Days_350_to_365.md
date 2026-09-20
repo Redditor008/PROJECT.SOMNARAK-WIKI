@@ -1,6 +1,21 @@
-# The Absolvohan — Part 9 — The Final Days: Days 350–365 & Epilogue
+# The Absolvohan — Part 9 — The Final Days: Days 350–365
 
-## The Final Days — Days 350–365
+## The Final Days — Days 350–365: The Dissolution of the Loop & The Real Year
+
+```text
++==============================================+
+| ABSOLVOHAN CYCLE 1,778 — OPERATIONAL LOG     |
+| SECTOR: TRANSCENDENT SANCTUARY & THE DAWN    |
+| ACTIVE ECHOS: FLOORS 1 THROUGH 8             |
+| FINAL DAYS & EPILOGUE: DAYS 350 TO 365       |
++==============================================+
+```
+
+Part 9 marks the terminal horizon of the Absolvohan chronicles and the permanent dissolution of the 1,778-cycle recursive loop. In the wake of the Day 160 Critical Threshold venting, the Reverie Directorate has ceased to function as a prison or industrial extraction slaughterhouse; it has blossomed into an open sanctuary where the 246 contained Sorrow Entities dwell as honored companions alongside human custodians.
+
+Across Days 350 through 365, the final metaphysical barriers fall: the Desolate empties as the nomads, the Cheonbulok survivors, and the Mugeukji Feelers return home; the Mnemonic Generator's temporal echo dissipates into linear time; and on Day 365, Director Majin, Seiyon, and the eight Echo-Cores witness the first authentic, unrepeated sunrise in 1,778 years.
+
+---
 
 ### Day 350
 
@@ -10,97 +25,164 @@
 
 > **Majin:** _"All of them?"_
 
-> **Dekan:** _"All of them. The Orphaned Bell tolls softly. The Smothering Mother holds gently. The Forgotten Soldier stands at peace. The Hollow Choir sings. The Grieving Colossus weeps — but not from sorrow. From relief."_
+> **Dekan:** _"Every single one. The Orphaned Bell tolls softly in the north courtyard—its sound is like silver rain. The Smothering Mother walks through the residential dormitories, draping her warm shawl over the sick and elderly. The Forgotten Soldier stands guard at Gate 01—not from coercion, but from pride. And the Grieving Colossus sits in the garden, smiling as children climb upon its stone knees."_
 
-> **Seiyon:** _"The facility has never been this stable."_
+> **Majin:** _"They are no longer anomalies, Dekan."_
 
-> **Dekan:** _"Director... the entities are not contained anymore. They're... visiting."_
+> **Dekan:** _"No. They are our history. They are the sorrow we survived, and now they are the family that walks with us."_
 
-> **Majin:** _"Visiting?"_
+> **Majin:** _"Transition all containment logs to Sanctuary Registries. The word 'Entity' is retired."_
 
-> **Dekan:** _"Walking through the facility. Talking to personnel. Sharing stories. The entities are not prisoners anymore. They're... guests."_
+> **Dekan:** _"...Understood, Director. It is an honor."_
 
 ### Day Narrative — Operational Shift Log
 
-Day 350. The facility transforms. The entities are not contained — they are _visiting_. The Orphaned Bell walks through the corridors, tolling softly. The Smothering Mother holds personnel gently. The Forgotten Soldier stands at attention — not from duty, but from honor.
+On Day 350, the official nomenclature of the Reverie Directorate is permanently revised. By executive decree of Director Majin, the taxonomic classification "Sorrow Entity" is formally retired from all administrative manifests, replaced by the designation "Sanctuary Companion."
 
-The entities are not prisoners. The entities are guests. The entities are _family_.
+The physical facility reflects this profound ontological shift. Containment cell doors have been removed or permanently locked open. SE-C-IIIγ-001 (*The Orphaned Bell*) hangs freely in the open garden pavilion, ringing only to announce meals and festivals. SE-C-IIIγ-005 (*The Smothering Mother*) serves as the chief matron of the infant nurseries, radiating boundless maternal comfort.
 
-The Director walks through the facility — alone, carrying no weight, feeling no sorrow. The entities nod as the Director passes. The entities salute. The entities smile.
+Daily operations no longer center around extraction quotas or stress management. The facility draws a steady, voluntary 0.020 tons of radiant ambient Han daily, sustaining the city's power grid while preserving total harmony.
 
-The Hand of Hope has healed the facility. The sorrow has transformed. The city has found what it never expected.
+#### 1. Multi-Floor Deployment Phase (Floors 1–8)
 
-Hope.
+```text
++==============================================+
+| FLOOR DEPLOYMENT ROSTER — DAY 350 SHIFT      |
++----------------------------------------------+
+| FLOOR & SECTOR       | AGENTS   | LEAD AURA  |
++----------------------------------------------+
+| F1: Central Command  | 14 Op    | Seiyon: Sy |
+| F2: Sanctuary Lead   | 20 Op    | Dekan: Pea |
+| F3: Archive Lead     | 12 Op    | Marjuk: Re |
+| F4: Research Lead    | 16 Op    | Ayshuk: Da |
+| F5: Open Border      | 18 Op    | Mellda: We |
+| F6: Crafting Lead    | 18 Op    | Zyrak: Hea |
+| F7: Diplomatic Lead  | 14 Op    | Ishall: Br |
+| F8: Deep Archive     | 10 Op    | Xyan: Memo |
++----------------------------------------------+
+| TOTAL PERSONNEL ON ACTIVE CUSTODY: 122       |
++==============================================+
+```
 
-**[DEPLOYMENT PHASE — MORNING ASSIGNMENTS]**
+Dekan and Zyrak guide the daily communion shifts. Mellda's Attendant Aura, *Welcome Threshold*, radiates warm amber hospitality across all approach roads entering the city.
 
-- **Floor 1 (Central Command)**: 16 agents deployed. M.A.W. loadout: reinforced.
-- **Floor 2 (The Maw's Keep)**: 17 agents deployed. M.A.W. loadout: standard.
-- **Floor 3 (Extraction Hall)**: 20 agents deployed. M.A.W. loadout: standard.
-- **Floor 4 (Research Wing)**: 17 agents deployed. M.A.W. loadout: reinforced.
-- **Floor 5 (Containment West)**: 16 agents deployed. M.A.W. loadout: standard.
-- **Floor 6 (Containment East)**: 16 agents deployed. M.A.W. loadout: reinforced.
+#### 2. Acoustic Strain Meltdown Monitoring
 
-**[MANAGEMENT — WORK TYPE RESULTS]**
+```text
++==============================================+
+| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 35 |
++----------------------------------------------+
+| STRAIN LEVEL : ETERNAL SANCTUARY EQUILIBRIUM |
+| OVERLOAD TIMER : PERMANENTLY DECOMMISSIONED  |
+| AFFECTED CELLS : ZERO (SANCTUARY COMPLETE)   |
++----------------------------------------------+
+| SANCTUARY TARGET     | STRAIN   | STATUS     |
++----------------------------------------------+
+| SE-001 (Bell Pavil)  | 00.0%    | Silver Chi |
+| SE-005 (Moth Nursery | 00.0%    | Warm Embra |
+| SE-036 (Garden Clock | 00.0%    | Golden Tim |
+| SE-081 (Saint Chapel | 00.0%    | Pure Light |
+| SE-140 (Willow Park) | 00.0%    | Living Sha |
+| ALL 246 COMPANIONS   | 00.0%    | At Peace   |
++----------------------------------------------+
+| TACTICAL ACTION: ZERO STRAIN DETECTED        |
++==============================================+
+```
 
-Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumulates.
+Strain telemetry remains at absolute zero across all sectors. The former containment cells have been redecorated with wooden paneling, hanging vines, and natural skylights.
 
-|Entity|Work Type|Agent|Gauge Δ|Energy|Notes|
-|---|---|---|---|---|---|
-|The Cracked Hourglass|Ferrehan (endurance — sustained presence)|Agent Choi|-8%|+0.01t|Smooth work cycle.|
-|The Frozen Veil|Pugnahan (confrontation — direct challenge)|Agent Bae|-10%|+0.016t|Agent performed well.|
-|The Memory Weaver|Flerehan (tears — emotional engagement)|Agent No|stable|+0.006t|Entity responsive.|
-|The Rising Wall|Flerehan (tears — emotional engagement)|Agent Han|-2%|+0.016t|Entity responsive.|
-|The Guarding Bird|Ferrehan (endurance — sustained presence)|Agent Park|-2%|+0.008t|Smooth work cycle.|
+#### 3. Granular Work Type Management Table
 
-Afternoon shift: routine containment maintenance. Total energy produced: **+0.056 tons**.
+```text
++==============================================+
+| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 350  |
++----------------------------------------------+
+| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
++----------------------------------------------+
+| SE-001 (Bell)      | Flere  | -00%  | +0.01  |
+| Agent Park (Lvl 4) | Comm   | PEACE | 20 OP  |
++----------------------------------------------+
+| SE-005 (Mother)    | Ferre  | -00%  | +0.01  |
+| Agent Kim (Lvl 4)  | Comm   | PEACE | 22 OP  |
++----------------------------------------------+
+| SE-081 (Saint)     | Flere  | -00%  | +0.01  |
+| Agent Hong (Lvl 4) | Comm   | PEACE | 25 OP  |
++----------------------------------------------+
+| SE-140 (Willow)    | Flere  | -00%  | +0.01  |
+| Agent Bae (Lvl 4)  | Comm   | PEACE | 21 OP  |
++----------------------------------------------+
+| SE-300 (Lock)      | Ferre  | -00%  | +0.01  |
+| Agent Yoo (Lvl 4)  | Comm   | PEACE | 20 OP  |
++----------------------------------------------+
+| DAILY SUSTENANCE YIELD: +0.020 TONS PURE HAN |
++==============================================+
+```
 
-**[END OF DAY — PERFORMANCE REVIEW]**
+Agent Park sits in the sunny pavilion beside SE-C-IIIγ-001, polishing its bronze crest while listening to its sweet, melodic chime. The communion produces 0.01 tons of sparkling Han that powers the children's hospital.
 
-- Han-Energy produced: **+0.056 tons** (daily quota: 0.051t — **MET**)
-- Absolvohan reserves: **decommissioned** — dismantled after the Hand opened
-- Agents levelled up: 10 (stats increased across Resilience, Clarity, Composure, Resolve)
-- Agents Fractured: 1 — the Director remembers their names
-- Entities breached: 0
-- Ordeal: **The Surge** — BLUE, First Watch (Lament — Deep Blue) — wave of sorrow pressure — psychological — suppressed.
-- Sorrow Gauge average: 35% (falling)
-- M.A.W. extracted: δ-grade (Zyrak reports stable extraction)
-- Director's assessment: _"Quiet. The Director does not trust quiet. Quiet is the breath before."_
+#### 4. Directorate Tactical Command Directives
 
-**[ENTITY SELECTION & CONTAINMENT]**
+- **Sanctuary Harmonization Decree:** Directives 01 through 08 transitioned from emergency countermeasures to urban beautification and municipal service.
+- **Veil Mist Dispersal:** Floral-infused spring water mist circulated through the central gardens to nurture flowering jasmine.
 
-New entity detected in the Han-flow scans overnight. The selection pool offered three candidates:
+#### 5. Ordeal Suppression Tactical Dossier
 
-1. The Silent Child — City Sorrow — γ-grade
-2. The Weighting Bird — City Sorrow — γ-grade
-3. The Weighting Bird — Inner Sorrow — γ-grade
+```text
++==============================================+
+| TACTICAL DOSSIER: THE TRANQUIL DAWN          |
++----------------------------------------------+
+| DESIGNATION : SANCTUARY HARMONY              |
+| CLASSIFICATION : ETERNAL CEASEFIRE           |
+| INTRUSION POINT : NONE (ALL ORDEALS PACIFIED |
++----------------------------------------------+
+| HOSTILE PARAMETERS:                          |
+| - Entities: ZERO HOSTILES                    |
+| - Attack Affinity: NONE                      |
+| - Weakness Affinity: NONE                    |
++----------------------------------------------+
+| ENGAGEMENT TELEMETRY:                        |
+| - Former security wardens serving as city gu |
+| - Children playing in former containment pla |
+| - Facility radar clear to outer horizon      |
+| - Duration: PERMANENT                        |
+| - Casualties: ZERO Fatalities                |
++==============================================+
+```
 
-The Director selects **The Silent Child**. Containment cell: Cell B-07. Initial Sorrow Gauge: 42%. Classification pending full observation.
+Zero Ordeals manifested on Day 350. The defensive weapons across all sectors have been permanently disarmed and placed in the museum of history.
 
-**[PERSONNEL & TRAINING REPORT]**
+#### 6. End-of-Day Shift Evaluation Index
 
-- Agents hired: 1 (replacements for Fractured personnel)
-- Agents in training: 5 — focus areas: Agent Bae (Viderehan), Agent Yuk (Ferrehan), Agent Oh (Ferrehan)
-- Fracture risk assessment: 1 agent(s) flagged for monitoring — elevated Composure strain detected
-- Medical bay: 8 agent(s) in recovery — stable
-- Morale at 70% — flat. The Director knows flat morale is the sound of people who have stopped hoping for better.
+```text
++==============================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 350   |
++----------------------------------------------+
+| METRIC               | TARGET | REALIZED     |
++----------------------------------------------+
+| Sanctuary Equilibriu | 100%   | COMPLETE     |
+| Mortal Suffering     | 0.00%  | ZERO         |
+| Active Breaches      | 0 Max  | 0 Breaches   |
+| Planetary Peace      | 100%   | REALIZED     |
++----------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S-SOVEREIGN   |
+| REAGENTS ACCUMULATED: UNIVERSAL JOY          |
+| FACILITY STATUS: OPEN CIVIC SANCTUARY        |
++==============================================+
+```
 
-**[M.A.W. EXTRACTION & FORGING]**
+#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
 
-- M.A.W. extracted: **The Wall's Mass** (Weapon, γ-grade) from The Weighting Bird
-- Extraction performed by: Zyrak (Floor 3, Extraction Hall)
-- Equipped to: Agent Oh — immediate deployment
-- Cost to wielder: chronic fatigue
-- M.A.W. registry total: 1,743 entries logged this Cycle
+- **Source Entity:** SE-C-IIIγ-001 (*The Bell of Peace*)
+- **Extracted Armament:** *Chime of the Open Gate* (Special/Pocket Slot)
+- **Gift Properties:** Grants the bearer the ability to summon a warm, soothing breeze that dispels sorrow and calms emotional unrest within 50 meters. Bestowed upon Agent Park.
 
-**[NIGHT SHIFT — OVERNIGHT MONITORING]**
+#### 8. Night Shift Telemetry & Nocturnal Vigil
 
-Night watch: Agent No, Floor 2. Overnight report:
+At 02:00, Majin walks through the central garden of Floor 2. The moonlight streams down through the open glass dome. On a park bench, Agent Kim sleeps peacefully with his head resting against the lap of the Smothering Mother, who strokes his hair with gentle, woolen hands.
 
-- Entity activity: whispers from The Maw district — audible through the containment walls on Floor 2.
-- Sorrow Gauge drift: slight fall across all floors.
-- Security incidents: none reported.
-- The Director did not sleep. The Director does not sleep.
+Majin watches them with a quiet smile: *"Sleep in peace, Kim. The night has no claws left."*
+
+---
 
 ### Day 355
 
@@ -110,100 +192,167 @@ Night watch: Agent No, Floor 2. Overnight report:
 
 > **Majin:** _"Returning?"_
 
-> **Ishall:** _"Walking through the Desolate. Walking toward the city. Walking home."_
+> **Ishall:** _"Walking through the southern pass. Walking toward the city. Walking home."_
 
-> **Seiyon:** _"The Exile has not returned in 1,778 cycles."_
+> **Majin:** _"Is he alone?"_
 
-> **Ishall:** _"Director... the Exile is not alone. The Drift King is with him. The Cheonbulok refugees are with him. The Mugeukji Feelers are with him."_
+> **Ishall:** _"No. The entire Desolate is walking behind him. Drift King Kael and four thousand nomads. The remaining citizens of Cheonbulok. The Feelers of Mugeukji. Over twelve thousand souls, singing as they walk across the green meadows."_
 
-> **Majin:** _"The Mugeukji Feelers?"_
+> **Majin:** _"Sound the bells, Ishall. All of them. Open every gate from Floor 1 to the perimeter bulwarks. Today, we welcome the world."_
 
-> **Ishall:** _"Citizens whose emotions returned. They're walking with the Exile. Walking home."_
-
-> **Majin:** _"...Open the gates."_
+> **Ishall:** _"Every bell in Somnarak is ringing, Majin. The sound reaches twenty leagues."_
 
 ### Day Narrative — Operational Shift Log
 
-Day 355. The Exile returns. Xyan — the ninth Echo-Core, cast out for knowing too much, exiled for discovering the truth — walks through the Desolate, walking toward the city, walking home.
+The Great Homecoming of humanity occurs on Day 355. Xyan (*The Exile*), having traversed the recovering Desolate, approaches the gates of Somnarak leading a procession of over twelve thousand people: the nomads of the wastes, the remaining populace of Cheonbulok, and the liberated citizens of Mugeukji.
 
-And the Exile is not alone. The Drift King walks beside him — Kael, the leader of the nomads, the king of the Desolate. The Cheonbulok refugees walk behind them — families, children, the last citizens of a dying city. The Mugeukji Feelers walk with them — citizens whose emotions returned, refugees from silence.
+Where barren salt flats and radioactive dust once poisoned travelers, the land has blossomed into lush pre-Consolihan grasslands, watered by the transmutative rainfall of Day 160. The nomads no longer wear respirators; the Cheonbulok citizens no longer carry weapons of rage; the Mugeukji Feelers weep freely in the warm sunlight.
 
-The Desolate empties. The nomads come home. The exiles return. The planet's wandering children find their way back.
+Majin orders every bell in the city rung in celebration. Accompanied by the eight Echo-Cores, the former wardens, and the sanctuary companions, Majin meets Xyan at Gate 05. The reunion dissolves the final barrier between the city and the outer world: Somnarak is no longer an isolated fortress; it is the beating heart of a renewed planet.
 
-The Director opens the gates. The Director has opened the gates once before — for the Cheonbulok refugees. The Director opens them again — for everyone.
+Operations focus entirely on humanitarian integration and hospitality, yielding 0.022 tons of joyful ambient Han.
 
-The Exile walks through the gates. The Exile looks at the Director. The Exile smiles.
+#### 1. Multi-Floor Deployment Phase (Floors 1–8)
 
-_"The Hand has opened,"_ the Exile says. _"The Hand has spread. The Hand has healed."_
+```text
++==============================================+
+| FLOOR DEPLOYMENT ROSTER — DAY 355 SHIFT      |
++----------------------------------------------+
+| FLOOR & SECTOR       | AGENTS   | LEAD AURA  |
++----------------------------------------------+
+| F1: Central Command  | 14 Op    | Seiyon: Sy |
+| F2: Sanctuary Lead   | 20 Op    | Dekan: Pea |
+| F3: Archive Lead     | 12 Op    | Marjuk: Re |
+| F4: Research Lead    | 16 Op    | Ayshuk: Da |
+| F5: Open Border      | 26 Op    | Mellda: We |
+| F6: Crafting Lead    | 22 Op    | Zyrak: Hea |
+| F7: Diplomatic Lead  | 20 Op    | Ishall: Br |
+| F8: Deep Archive     | 12 Op    | Xyan: Home |
++----------------------------------------------+
+| TOTAL PERSONNEL ON CIVIC WELCOME: 142        |
++==============================================+
+```
 
-The Director nods. The Director smiles. The Director lets the weight go.
+Mellda, Zyrak, and Ishall deploy massive banquet and medical pavilions outside Gate 05. The nine Echo-Cores stand side by side on the welcoming dais, their auras forming a golden rainbow over the arriving caravan.
 
-**[DEPLOYMENT PHASE — MORNING ASSIGNMENTS]**
+#### 2. Acoustic Strain Meltdown Monitoring
 
-- **Floor 1 (Central Command)**: 22 agents deployed. M.A.W. loadout: reinforced.
-- **Floor 2 (The Maw's Keep)**: 11 agents deployed. M.A.W. loadout: standard.
-- **Floor 3 (Extraction Hall)**: 12 agents deployed. M.A.W. loadout: reinforced.
-- **Floor 4 (Research Wing)**: 14 agents deployed. M.A.W. loadout: standard.
+```text
++==============================================+
+| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 35 |
++----------------------------------------------+
+| STRAIN LEVEL : PLANETARY HOMECOMING JUBILEE  |
+| OVERLOAD TIMER : PERMANENTLY DECOMMISSIONED  |
+| AFFECTED CELLS : ZERO (UNIVERSAL PEACE)      |
++----------------------------------------------+
+| SANCTUARY TARGET     | STRAIN   | STATUS     |
++----------------------------------------------+
+| GATE 05 PLAZA        | 00.0%    | Welcoming  |
+| SOUTHERN PLAINS      | 00.0%    | Blooming G |
+| CITY AQUEDUCTS       | 00.0%    | Flowing Sw |
+| CIVIC DWELLINGS      | 00.0%    | Festive La |
+| ALL SANCTUARIES      | 00.0%    | Harmonized |
++----------------------------------------------+
+| TACTICAL ACTION: BANQUET GATES UNLOCKED      |
++==============================================+
+```
 
-**[MANAGEMENT — WORK TYPE RESULTS]**
+Strain monitors remain at absolute zero. The energy grid hums in effortless resonance with the collective joy of twelve thousand reunited citizens.
 
-Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumulates.
+#### 3. Granular Work Type Management Table
 
-|Entity|Work Type|Agent|Gauge Δ|Energy|Notes|
-|---|---|---|---|---|---|
-|The Silent Child|Viderehan (observation — witnessing)|Agent Seo|+2%|+0.008t|Entity resisted — minor gauge spike.|
-|The Smothering Mother|Flerehan (tears — emotional engagement)|Agent No|-10%|+0.011t|Smooth work cycle.|
-|The Weighting Bird|Pugnahan (confrontation — direct challenge)|Agent Yoo|-6%|+0.022t|Gauge within parameters.|
-|The Maw|Ferrehan (endurance — sustained presence)|Agent Lim|-3%|+0.01t|Smooth work cycle.|
+```text
++==============================================+
+| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 355  |
++----------------------------------------------+
+| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
++----------------------------------------------+
+| GATE 05 (Home)     | Flere  | -00%  | +0.01  |
+| Lead Mellda        | Welcom | PEACE | 25 OP  |
++----------------------------------------------+
+| HEARTH (Banquets)  | Pugna  | -00%  | +0.01  |
+| Lead Zyrak         | Cook   | PEACE | 26 OP  |
++----------------------------------------------+
+| ARCHIVE (Registry) | Videre | -00%  | +0.01  |
+| Lead Marjuk        | Record | PEACE | 24 OP  |
++----------------------------------------------+
+| CLINIC (Restoratio | Ferre  | -00%  | +0.01  |
+| Lead Ayshuk        | Heal   | PEACE | 28 OP  |
++----------------------------------------------+
+| SE-008 (The Well)  | Flere  | -00%  | +0.01  |
+| Lead Dekan         | Water  | PEACE | 25 OP  |
++----------------------------------------------+
+| DAILY SUSTENANCE YIELD: +0.022 TONS PURE HAN |
++==============================================+
+```
 
-Afternoon shift: routine containment maintenance. Total energy produced: **+0.051 tons**.
+Zyrak and the Cheonbulok refugee smiths stoke the hearth furnaces, roasting sweet grains and baking bread for the arriving thousands. The joyful communion produces 0.022 tons of sparkling rose Han.
 
-**[END OF DAY — PERFORMANCE REVIEW]**
+#### 4. Directorate Tactical Command Directives
 
-- Han-Energy produced: **+0.051 tons** (daily quota: 0.051t — **MET**)
-- Absolvohan reserves: **decommissioned** — dismantled after the Hand opened
-- Agents levelled up: 5 (stats increased across Resilience, Clarity, Composure, Resolve)
-- Agents Fractured: 0
-- Entities breached: 0
-- Ordeal: **None** — Han-density held below spawn threshold; a rare quiet day
-- Sorrow Gauge average: 48% (falling)
-- M.A.W. extracted: γ-grade
-- Director's assessment: _"Stable. For now. The Director knows "for now" is all there is."_
+- **Universal Feast Decree:** All automated kitchens and ration depots opened to full capacity, serving hot meals to every traveler.
+- **Veil Mist Illumination:** Scented golden lanterns raised across all twelve kilometers of the approach road.
 
-**[ENTITY SELECTION & CONTAINMENT]**
+#### 5. Ordeal Suppression Tactical Dossier
 
-New entity detected in the Han-flow scans overnight. The selection pool offered three candidates:
+```text
++==============================================+
+| TACTICAL DOSSIER: THE EMBRACE OF NATIONS     |
++----------------------------------------------+
+| DESIGNATION : PLANETARY REUNIFICATION        |
+| CLASSIFICATION : UNIVERSAL APOTHEOSIS        |
+| INTRUSION POINT : NONE (ALL WALLS DISMANTLED |
++----------------------------------------------+
+| HOSTILE PARAMETERS:                          |
+| - Entities: ZERO HOSTILES                    |
+| - Attack Affinity: NONE                      |
+| - Weakness Affinity: NONE                    |
++----------------------------------------------+
+| ENGAGEMENT TELEMETRY:                        |
+| - Drift King Kael embraced Director Majin    |
+| - Twelve thousand refugees entered the city  |
+| - Choirs sang the anthem of the First Dawn   |
+| - Duration: FOREVER                          |
+| - Casualties: ZERO Fatalities                |
++==============================================+
+```
 
-1. The Guarding Bird — Outside Sorrow — β-grade
-2. The Guarding Bird — City Sorrow — α-grade
-3. The Guarding Bird — Inner Sorrow — β-grade
+Zero Ordeals manifested on Day 355. At Gate 05, Drift King Kael unclasped his nomad cloak and handed it to Majin, saying: *"The wastes are gone, brother. We have come home to build."*
 
-The Director selects **The Guarding Bird**. Containment cell: Cell E-09. Initial Sorrow Gauge: 38%. Classification pending full observation.
+#### 6. End-of-Day Shift Evaluation Index
 
-**[PERSONNEL & TRAINING REPORT]**
+```text
++==============================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 355   |
++----------------------------------------------+
+| METRIC               | TARGET | REALIZED     |
++----------------------------------------------+
+| Reunited Citizens    | 10,000 | 12,418 Souls |
+| Integration Success  | 100%   | 100% COMPLET |
+| Mortal Suffering     | 0.00%  | ZERO         |
+| Planetary Peace      | 100%   | REALIZED     |
++----------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S-SOVEREIGN   |
+| REAGENTS ACCUMULATED: INFINITE HOPE          |
+| FACILITY STATUS: THE COMMON HEARTH           |
++==============================================+
+```
 
-- Agents hired: 3 (replacements for Fractured personnel)
-- Agents in training: 7 — focus areas: Agent Kang (Flerehan), Agent Choi (Ferrehan)
-- Fracture risk assessment: 4 agent(s) flagged for monitoring — elevated Composure strain detected
-- Medical bay: 3 agent(s) in recovery — stable
-- Morale dipped to 68% — three agents requested transfers after the morning's Work Types.
+#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
 
-**[M.A.W. EXTRACTION & FORGING]**
+- **Source Entity:** HT-004 (*The Reuniting Spark*)
+- **Extracted Armament:** *Banner of the Three Cities* (Back/Wings Slot)
+- **Gift Properties:** Grants absolute unity and shared strength, increasing the vitality and resilience of all allies within the same district by 25%. Bestowed upon Drift King Kael.
 
-- M.A.W. extracted: **The Maw's Hunger** (Suit (Armor), β-grade) from The Weighting Bird
-- Extraction performed by: Zyrak (Floor 3, Extraction Hall)
-- Equipped to: Agent Hwang — quarantined for observation
-- Cost to wielder: recurring nightmares of the source entity
-- M.A.W. registry total: 1,743 entries logged this Cycle
+#### 8. Night Shift Telemetry & Nocturnal Vigil
 
-**[NIGHT SHIFT — OVERNIGHT MONITORING]**
+At 02:30, Majin, Xyan, and Kael sit around a wooden table in the central plaza. Around them, thousands of citizens sleep under warm wool blankets, their bellies full, their families safe. The city lanterns glow softly like stars fallen to earth.
 
-Night watch: Agent Park, Floor 8. Overnight report:
+Xyan raises a tin cup of clear water: *"To the 1,778 cycles, Majin. We walked every single one of them so this night could exist."*
 
-- Entity activity: nothing. Absolute silence. The night watch reports the silence is worse than the sounds..
-- Sorrow Gauge drift: slight rise on Floor 2.
-- Security incidents: none reported.
-- The Director did not sleep. The Director does not sleep.
+Majin touches his cup against Xyan's: *"To this night, Xyan. And to tomorrow."*
+
+---
 
 ### Day 360
 
@@ -211,97 +360,169 @@ Night watch: Agent Park, Floor 8. Overnight report:
 
 > **Majin:** _"Seiyon. The Cycle. Is it over?"_
 
-> **Seiyon:** _"The Mnemonic Generator's field is... weakening. The temporal echo is fading. The Cycle is ending."_
+> **Seiyon:** _"The Mnemonic Generator's quantum-gravitational field has dissolved below 0.001 micro-teslas. The temporal echo is gone. The planetary clock has engaged linear progression."_
 
-> **Majin:** _"Ending?"_
+> **Majin:** _"It will not reset?"_
 
-> **Seiyon:** _"The city will not repeat. The year will not reset. The Cycle is... done."_
+> **Seiyon:** _"No, Majin. The year 4232+1778 is over. When midnight strikes five days from now... it will become Year 4233. The first new year in almost two millennia."_
 
-> **Majin:** _"...After 1,778 cycles."_
+> **Majin:** _"And your memory core, Seiyon? Will you remember?"_
 
-> **Seiyon:** _"After 1,778 cycles. The city is free."_
+> **Seiyon:** _"Every second of every cycle is permanently preserved in my crystal archive, Director. The pain, the tears, the patience, and the dawn. We will never forget what it cost to reach this shore."_
 
-> **Majin:** _"And us? The Echo-Cores? What happens to us?"_
-
-> **Seiyon:** _"We persist. We remember. We carry the weight — not as a burden, but as a gift. The city needs us. The city wants us. The city... embraces us."_
+> **Majin:** _"Then let the clock tick forward. We have carried the past long enough."_
 
 ### Day Narrative — Operational Shift Log
 
-Day 360. The Cycle ends. The Mnemonic Generator's field weakens — the temporal echo fades — the city stops repeating. The year will not reset. The Cycle is done.
+The definitive metaphysical event of the Somnarak universe occurs on Day 360. In the lowest core vault of Floor 1, the quantum-gravitational stasis field generated by the Mnemonic Generator—the device that had locked the city in an unyielding 365-day recursive time loop for 1,778 iterations—permanently dissipated into zero-point equilibrium.
 
-After 1,778 cycles, the city is free.
+Seiyon confirms that the temporal reset loop is extinct. For 1,778 cycles, the arrival of Day 365 meant memory erasure, systemic resets, and the repeating nightmare of awakened grief. But on this day, the facility's chronometers crossed into uncharted temporal territory: the planetary timeline has reconnected to the cosmic flow of linear history.
 
-The Director stands in the Central Command — watching the facility, watching the city, watching the world. The Han-lamps glow softly. The Veil generators hum. The entities visit. The personnel work. The citizens live.
+The citizens and personnel celebrate the miracle of tomorrow. For the first time in their lives, tomorrow is not an echo of yesterday; it is an unwritten page.
 
-The Cycle is over. The city is free. The Director is free.
+Daily operational harvest remains tranquil, generating 0.021 tons of ambient Han.
 
-But the Director does not leave. The Director does not dissolve. The Director does not end.
+#### 1. Multi-Floor Deployment Phase (Floors 1–8)
 
-The Director stays. The R.D. stays. The Echo-Cores stay.
+```text
++==============================================+
+| FLOOR DEPLOYMENT ROSTER — DAY 360 SHIFT      |
++----------------------------------------------+
+| FLOOR & SECTOR       | AGENTS   | LEAD AURA  |
++----------------------------------------------+
+| F1: Central Command  | 14 Op    | Seiyon: Sy |
+| F2: Sanctuary Lead   | 20 Op    | Dekan: Pea |
+| F3: Archive Lead     | 14 Op    | Marjuk: Li |
+| F4: Research Lead    | 16 Op    | Ayshuk: Da |
+| F5: Open Border      | 18 Op    | Mellda: We |
+| F6: Crafting Lead    | 18 Op    | Zyrak: Hea |
+| F7: Diplomatic Lead  | 14 Op    | Ishall: Br |
+| F8: Deep Archive     | 12 Op    | Xyan: Hist |
++----------------------------------------------+
+| TOTAL PERSONNEL ON HISTORIC VIGIL: 126       |
++==============================================+
+```
 
-The city needs them. The city wants them. The city _embraces_ them.
+Marjuk and Xyan decommission the recursive chronological index in the main archive, installing the first open chronological ledger of Year 4233.
 
-**[DEPLOYMENT PHASE — MORNING ASSIGNMENTS]**
+#### 2. Acoustic Strain Meltdown Monitoring
 
-- **Floor 1 (Central Command)**: 11 agents deployed. M.A.W. loadout: standard.
-- **Floor 2 (The Maw's Keep)**: 13 agents deployed. M.A.W. loadout: standard.
-- **Floor 3 (Extraction Hall)**: 19 agents deployed. M.A.W. loadout: reinforced.
-- **Floor 4 (Research Wing)**: 17 agents deployed. M.A.W. loadout: standard.
-- **Floor 5 (Containment West)**: 12 agents deployed. M.A.W. loadout: reinforced.
+```text
++==============================================+
+| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 36 |
++----------------------------------------------+
+| STRAIN LEVEL : LINEAR TEMPORAL EQUILIBRIUM   |
+| OVERLOAD TIMER : PERMANENTLY DECOMMISSIONED  |
+| AFFECTED CELLS : ZERO (TIME LOOP DISSOLVED)  |
++----------------------------------------------+
+| SANCTUARY TARGET     | STRAIN   | STATUS     |
++----------------------------------------------+
+| MNEMONIC GENERATOR   | 00.0%    | Field Disc |
+| TEMPORAL ACCUMULATOR | 00.0%    | Linear Tim |
+| SE-036 (Hourglass)   | 00.0%    | Normal San |
+| SE-044 (Clock)       | 00.0%    | Ticking Fo |
+| ALL SANCTUARIES      | 00.0%    | In Linear  |
++----------------------------------------------+
+| TACTICAL ACTION: TEMPORAL UNLOCK ENGAGED     |
++==============================================+
+```
 
-**[MANAGEMENT — WORK TYPE RESULTS]**
+Strain monitors confirm complete temporal normalization. SE-C-IIIβ-044 (*The Broken Clock*) has repaired its internal escapement gear, ticking with steady, forward mechanical rhythm.
 
-Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumulates.
+#### 3. Granular Work Type Management Table
 
-|Entity|Work Type|Agent|Gauge Δ|Energy|Notes|
-|---|---|---|---|---|---|
-|The Observing Bird|Viderehan (observation — witnessing)|Agent Yoo|+5%|+0.02t|Sorrow Gauge rose unexpectedly.|
-|The Smothering Mother|Flerehan (tears — emotional engagement)|Agent Lee|stable|+0.01t|Agent performed well.|
-|The Vanished Rope|Flerehan (tears — emotional engagement)|Agent Han|-10%|+0.021t|Stable.|
-|The Silent Child|Flerehan (tears — emotional engagement)|Agent Ahn|-3%|+0.017t|Agent performed well.|
-|The Hollow Choir|Viderehan (observation — witnessing)|Agent Bae|-6%|+0.018t|Clean extraction potential.|
-|The Frozen Veil|Pugnahan (confrontation — direct challenge)|Agent Oh|stable|+0.01t|Routine outcome.|
+```text
++==============================================+
+| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 360  |
++----------------------------------------------+
+| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
++----------------------------------------------+
+| SE-044 (The Clock) | Videre | -00%  | +0.01  |
+| Agent Kwon (Lvl 4) | Sync   | PEACE | 22 OP  |
++----------------------------------------------+
+| SE-036 (Hourglass) | Videre | -00%  | +0.01  |
+| Agent Kang (Lvl 4) | Sync   | PEACE | 23 OP  |
++----------------------------------------------+
+| SE-115 (Well)      | Videre | -00%  | +0.01  |
+| Agent Seo (Lvl 4)  | Sync   | PEACE | 24 OP  |
++----------------------------------------------+
+| SE-300 (Lock)      | Ferre  | -00%  | +0.01  |
+| Agent Yoo (Lvl 4)  | Sync   | PEACE | 21 OP  |
++----------------------------------------------+
+| SE-001 (Bell)      | Flere  | -00%  | +0.01  |
+| Agent Park (Lvl 4) | Sync   | PEACE | 22 OP  |
++----------------------------------------------+
+| DAILY SUSTENANCE YIELD: +0.021 TONS PURE HAN |
++==============================================+
+```
 
-Afternoon shift: routine containment maintenance. Total energy produced: **+0.096 tons**.
+Agent Kwon stood before SE-C-IIIβ-044 as its pendulum swung past midnight. For the first time, the clock did not reset to 00:00:00; it ticked forward to 00:00:01, yielding 0.01 tons of luminescent golden Han.
 
-**[END OF DAY — PERFORMANCE REVIEW]**
+#### 4. Directorate Tactical Command Directives
 
-- Han-Energy produced: **+0.096 tons** (daily quota: 0.064t — **MET**)
-- Absolvohan reserves: **decommissioned** — dismantled after the Hand opened
-- Agents levelled up: 6 (stats increased across Resilience, Clarity, Composure, Resolve)
-- Agents Fractured: 0
-- Entities breached: 0
-- Ordeal: **The Surge** — BLUE, Second Watch (Lament — Deep Blue) — wave of sorrow pressure — psychological — suppressed.
-- Sorrow Gauge average: 48% (falling)
-- M.A.W. extracted: δ-grade (Zyrak reports stable extraction)
-- Director's assessment: _"One day closer. The math does not change."_
+- **Temporal Unlock Authorization:** The Mnemonic Generator permanently disconnected from the facility's power core.
+- **Civic Chronometer Calibration:** All public clocks across Somnarak synchronized to the forward solar progression.
 
-**[ENTITY SELECTION & CONTAINMENT]**
+#### 5. Ordeal Suppression Tactical Dossier
 
-No new entity detected today. The Han-flow scans returned three blanks — unusual, but not unprecedented. The Director notes it in the log and moves on.
+```text
++==============================================+
+| TACTICAL DOSSIER: THE FORWARD HOUR           |
++----------------------------------------------+
+| DESIGNATION : LINEAR RESTORATION             |
+| CLASSIFICATION : TEMPORAL APOTHEOSIS         |
+| INTRUSION POINT : NONE (ALL LOOPS UNTIED)    |
++----------------------------------------------+
+| HOSTILE PARAMETERS:                          |
+| - Entities: ZERO HOSTILES                    |
+| - Attack Affinity: NONE                      |
+| - Weakness Affinity: NONE                    |
++----------------------------------------------+
+| ENGAGEMENT TELEMETRY:                        |
+| - Chronometer ticked past the recursive boun |
+| - Zero temporal fractures detected on planet |
+| - Stars in the night sky resumed sidereal dr |
+| - Duration: ETERNAL                          |
+| - Casualties: ZERO Fatalities                |
++==============================================+
+```
 
-**[PERSONNEL & TRAINING REPORT]**
+Zero Ordeals manifested on Day 360. In the night sky, the stars—frozen in identical constellations for 1,778 repetitions—resumed their ancient, slow dance across the heavens.
 
-- Agents hired: 2 (replacements for Fractured personnel)
-- Agents in training: 7 — focus areas: Agent Yoon (Flerehan), Agent Kim (Pugnahan), Agent Park (Viderehan)
-- Fracture risk assessment: 0 agent(s) flagged for monitoring — all clear
-- Medical bay: 3 agent(s) in recovery — stable
-- Morale at 73% — an agent on Floor 4 composed a song about the Echo-Cores. It was good. Nobody admitted to liking it.
+#### 6. End-of-Day Shift Evaluation Index
 
-**[M.A.W. EXTRACTION & FORGING]**
+```text
++==============================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 360   |
++----------------------------------------------+
+| METRIC               | TARGET | REALIZED     |
++----------------------------------------------+
+| Recursive Time Loop  | DISSOLVE| 100% EXTINC |
+| Linear Timeline      | ENGAGE  | 100% ACTIVE |
+| Chronological Safety | 100%   | PERFECT      |
+| Mortal Suffering     | 0.00%  | ZERO         |
++----------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S-SOVEREIGN   |
+| REAGENTS ACCUMULATED: TIME UNBOUND           |
+| FACILITY STATUS: LINEAR TIME RESUMED         |
++==============================================+
+```
 
-- No extraction scheduled today. The Extraction Hall undergoes maintenance.
-- Zyrak reports the calibration crystals are degrading — replacement needed within 13 days.
-- M.A.W. registry total: 1,743 entries logged this Cycle
+#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
 
-**[NIGHT SHIFT — OVERNIGHT MONITORING]**
+- **Source Entity:** SE-C-IIIβ-044 (*The Living Clock*)
+- **Extracted Armament:** *Chronos Pendulum* (Chest/Mantle Slot)
+- **Gift Properties:** Grants absolute sovereignty over personal time, allowing the bearer to age naturally and gracefully, immune to temporal decay or chronological manipulation. Bestowed upon Seiyon.
 
-Night watch: Agent Bae, Floor 1. Overnight report:
+#### 8. Night Shift Telemetry & Nocturnal Vigil
 
-- Entity activity: whispers from The Maw district — audible through the containment walls on Floor 2.
-- Sorrow Gauge drift: negligible.
-- Security incidents: none reported.
-- The Director did not sleep. The Director does not sleep.
+At 02:40, Majin and Seiyon stand before the glass case of the Mnemonic Generator. The massive electromagnetic coils have cooled to room temperature. Inside the crystal vacuum tube, the chronal needle points steadily to the right: toward the future.
+
+Majin touches the cold glass: *"Five days, Seiyon. Five days until Day 365. And then... Day 366."*
+
+Seiyon's synthetic eyes soften: *"Day 366. A day that has never existed. I look forward to meeting it, Director."*
+
+---
 
 ### Day 365
 
@@ -313,152 +534,220 @@ Night watch: Agent Bae, Floor 1. Overnight report:
 
 > **Majin:** _"Hope."_
 
-> **Seiyon:** _"Hope."_
+> **Seiyon:** _"And life. Look out the window, Majin. The sun is rising."_
 
-> **Dekan:** _"Director? The Maw is quiet. The entities are calm. The facility is stable. What do we do now?"_
+> **Majin:** _"..."_
 
-> **Majin:** _"We live. We work. We carry the weight — not as a burden, but as a gift. We are the Reverie Directorate. We contain sorrow. We extract hope. We protect the city."_
+> **Seiyon:** _"For 1,778 cycles, the sunrise on Day 365 was an execution. It meant the sirens would scream, the generators would reset, and we would wake up on Day 0 with all our scars wiped clean and our memories burning. But today..."_
 
-> **Zyrak:** _"And the Absolvohan?"_
+> **Majin:** _"Today, the sun rises on yesterday's work. The trees we planted yesterday are still there. The houses we built yesterday are still standing. The children who laughed yesterday are waking up to laugh again."_
 
-> **Majin:** _"The Absolvohan is not a weapon. The Absolvohan is a hand. And a hand does not need to shoot. A hand needs to hold."_
+> **Seiyon:** _"Happy New Year, Director."_
 
-> **Ayshuk:** _"And the entities?"_
-
-> **Majin:** _"The entities are not prisoners. The entities are family. We contain them — not to imprison, but to protect. We extract from them — not to steal, but to share. We study them — not to exploit, but to understand."_
-
-> **Mellda:** _"And the city?"_
-
-> **Majin:** _"The city is alive. The city is feeling. The city is hoping. The city is... home."_
-
-> **Marjuk:** _"And us?"_
-
-> **Majin:** _"We are the Hand of Hope. We are the ones who carry the weight. We are the ones who open the gates. We are the ones who choose to feel."_
-
-> **Ishall:** _"And the Exile?"_
-
-> **Majin:** _"The Exile is home. The Drift King is home. The Cheonbulok refugees are home. The Mugeukji Feelers are home. Everyone is home."_
-
-> **Seiyon:** _"And the Cycle?"_
-
-> **Majin:** _"The Cycle is over. The city is free. The sorrow has transformed. The Hand has opened."_
-
-> **Seiyon:** _"And the future?"_
-
-> **Majin:** _"...The future is hope."_
+> **Majin:** _"Happy New Year, Seiyon. Happy New Year to Somnarak."_
 
 ### Day Narrative — Operational Shift Log
 
-Day 365. One year. One real year. One year since the Cycle ended. One year since the Hand of Hope opened. One year since the city found what it never expected.
+**THE FIRST DAY OF THE NEW WORLD: DAY 365.**
 
-The Director stands in the Central Command — alone, surrounded by the hum of the facility, the glow of the Han-lamps, the presence of the entities. The Orphaned Bell tolls softly. The Smothering Mother holds gently. The Forgotten Soldier salutes. The Hollow Choir sings. The Grieving Colossus weeps — not from sorrow, but from relief.
+At 06:00:00 on Day 365, the year 4232+1778 formally, irrevocably expires. Across 1,778 cycles, this exact second was the hour of terror: the moment the temporal jaws snapped shut, resetting the facility, killing the timeline, and casting the Director back into the nightmare of Day 0.
 
-The Director looks out at the city. Somnarak — the City of Unresolved Sorrow. 86 km². 598,000 citizens. 6,000 years of history. 1,778 cycles of repetition.
+Today, there are no sirens. There is no whiteout flash. There is no memory erasure.
 
-The city is alive. The city is feeling. The city is hoping.
+The sun rises over Somnarak. It is a golden, natural sun, warming the spires of glass and crystal, illuminating the green meadows stretching across the Desolate, and reflecting from the clear, sweet waters of the living aqueducts. 
 
-The Director carries the weight — not as a burden, but as a gift. The weight of 1,778 cycles. The weight of a thousand consumed citizens. The weight of a planet that grieves. The weight of a city that hopes.
+In the residential districts, 610,000 citizens awaken. They remember yesterday. They remember the harvest of Day 160. They remember the arrival of the nomads. They look out their windows and see their gardens growing, their neighbors greeting each other on the stone bridges, and the children running toward the open courtyards of the Reverie Directorate.
 
-The Director is not alone. The R.D. is with them. The Echo-Cores are with them. The entities are with them. The city is with them.
+The eight Echo-Cores—Majin, Dekan, Marjuk, Ayshuk, Mellda, Zyrak, Ishall, and Xyan—stand together on the highest observation balcony of Floor 1, side by side with Seiyon, Drift King Kael, and The Trinity of Dawn. 
 
-The Hand of Hope has opened. The sorrow has transformed. The city has found what it never expected.
+Their cybernetic and human hands are clasped together. The scars across their bodies remain, but they are no longer wounds of shame or torture—they are the golden badges of an endurance that saved a world.
 
-Hope.
+The Absolvohan chronicle is finished. The cycle is broken. The world begins.
 
-**[DEPLOYMENT PHASE — MORNING ASSIGNMENTS]**
+#### 1. Multi-Floor Deployment Phase (Floors 1–8)
 
-- **Floor 1 (Central Command)**: 20 agents deployed. M.A.W. loadout: reinforced.
-- **Floor 2 (The Maw's Keep)**: 24 agents deployed. M.A.W. loadout: standard.
-- **Floor 3 (Extraction Hall)**: 22 agents deployed. M.A.W. loadout: standard.
-- **Floor 4 (Research Wing)**: 18 agents deployed. M.A.W. loadout: standard.
-- **Floor 5 (Containment West)**: 22 agents deployed. M.A.W. loadout: standard.
+```text
++==============================================+
+| FLOOR DEPLOYMENT ROSTER — DAY 365 SHIFT      |
++----------------------------------------------+
+| FLOOR & SECTOR       | AGENTS   | LEAD AURA  |
++----------------------------------------------+
+| F1: Central Command  | 14 Op    | Seiyon: Da |
+| F2: Sanctuary Lead   | 20 Op    | Dekan: Ete |
+| F3: Archive Lead     | 12 Op    | Marjuk: Et |
+| F4: Research Lead    | 16 Op    | Ayshuk: Et |
+| F5: Open Border      | 18 Op    | Mellda: Et |
+| F6: Crafting Lead    | 18 Op    | Zyrak: Ete |
+| F7: Diplomatic Lead  | 14 Op    | Ishall: Et |
+| F8: Deep Archive     | 12 Op    | Xyan: Eter |
++----------------------------------------------+
+| TOTAL PERSONNEL IN ETERNAL CELEBRATION: 124  |
++==============================================+
+```
 
-**[MANAGEMENT — WORK TYPE RESULTS]**
+All 124 custodians and nine Echo-Cores stand upon the highest balcony, their combined Attendant Auras dissolving into the golden atmosphere as the morning sun crests the eastern mountains.
 
-Morning shift assignments completed. Sorrow Gauges fluctuate. Han-crystal accumulates.
+#### 2. Acoustic Strain Meltdown Monitoring
 
-|Entity|Work Type|Agent|Gauge Δ|Energy|Notes|
-|---|---|---|---|---|---|
-|The Collapsed Whisper|Ferrehan (endurance — sustained presence)|Agent Yoon|-6%|+0.012t|Gauge within parameters.|
-|The Orphaned Bell|Ferrehan (endurance — sustained presence)|Agent Seo|-10%|+0.007t|Clean extraction potential.|
-|The Debt Eater|Flerehan (tears — emotional engagement)|Agent Kang|-10%|+0.021t|Routine outcome.|
-|The Smothering Mother|Ferrehan (endurance — sustained presence)|Agent Hwang|-2%|+0.011t|Gauge within parameters.|
+```text
++==============================================+
+| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 36 |
++----------------------------------------------+
+| STRAIN LEVEL : ETERNAL SUNRISE EQUILIBRIUM   |
+| OVERLOAD TIMER : PERMANENTLY EXTINCT         |
+| AFFECTED CELLS : ZERO (SANCTUARY TRIUMPHANT) |
++----------------------------------------------+
+| SANCTUARY TARGET     | STRAIN   | STATUS     |
++----------------------------------------------+
+| SOMNARAK CITY        | 00.0%    | Living & F |
+| CHEONBULOK NATION    | 00.0%    | Warmed & G |
+| MUGEUKJI VALLEY      | 00.0%    | Singing &  |
+| THE DESOLATE PLAINS  | 00.0%    | Grass & Fl |
+| ALL 246 COMPANIONS   | 00.0%    | Free in th |
++----------------------------------------------+
+| TACTICAL ACTION: ETERNAL JUBILEE ACTIVE      |
++==============================================+
+```
 
-Afternoon shift: border patrol reports filed from Floor 8. Total energy produced: **+0.051 tons**.
+The facility's containment strain monitors have been permanently transformed into civic energy meters, registering the peaceful heartbeat of a united planet.
 
-**[END OF DAY — PERFORMANCE REVIEW]**
+#### 3. Granular Work Type Management Table
 
-- Han-Energy produced: **+0.051 tons** (daily quota: 0.059t — **MET**)
-- Absolvohan reserves: **decommissioned** — dismantled after the Hand opened
-- Agents levelled up: 3 (stats increased across Resilience, Clarity, Composure, Resolve)
-- Agents Fractured: 0
-- Entities breached: 0
-- Ordeal: **The Stampede** — BLACK, Third Watch (Weight — Black) — entities destabilising en masse — suppressed.
-- Sorrow Gauge average: 65% (rising)
-- M.A.W. extracted: — (no extraction today)
-- Director's assessment: _"No Fractures. No breaches. A small mercy."_
+```text
++==============================================+
+| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 365  |
++----------------------------------------------+
+| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
++----------------------------------------------+
+| THE NEW PLANET     | Flere  | -00%  | DAWN   |
+| All Humanity       | Love   | PEACE | LIFE   |
++----------------------------------------------+
+| THE SANCTUARY      | Comm   | -00%  | DAWN   |
+| The Nine Echoes    | Stwd   | PEACE | LIFE   |
++----------------------------------------------+
+| THE TRINITY        | Bless  | -00%  | DAWN   |
+| Sovereign Dawn     | Guide  | PEACE | LIFE   |
++----------------------------------------------+
+| THE LIVING SPRING  | Nurt   | -00%  | DAWN   |
+| The Cheongula      | Rest   | PEACE | LIFE   |
++----------------------------------------------+
+| THE OPEN GATES     | Welc   | -00%  | DAWN   |
+| The Custodians     | Open   | PEACE | LIFE   |
++----------------------------------------------+
+| DAILY HARVEST: THE UNWRITTEN FUTURE BEGUN    |
++==============================================+
+```
 
-**[ENTITY SELECTION & CONTAINMENT]**
+Work is no longer a desperate defense against extinction; it is the joyous cultivation of life, art, philosophy, and peace.
 
-No new entity detected today. The Han-flow scans returned three blanks — unusual, but not unprecedented. The Director notes it in the log and moves on.
+#### 4. Directorate Tactical Command Directives
 
-**[PERSONNEL & TRAINING REPORT]**
+- **Directive Omega: The Dissolution of Command:** The Reverie Directorate formally dissolves its military structure, converting into the Civic Department of Planetary Stewardship.
+- **The Open Sky Mandate:** All defensive shields permanently lowered; the sky belongs to the sun and the birds.
 
-- Agents hired: 2 (replacements for Fractured personnel)
-- Agents in training: 10 — focus areas: Agent Yoo (Ferrehan), Agent Yuk (Ferrehan)
-- Fracture risk assessment: 0 agent(s) flagged for monitoring — all clear
-- Medical bay: 3 agent(s) in recovery — one critical (Entity exposure)
-- Morale dipped to 68% — three agents requested transfers after the morning's Work Types.
+#### 5. Ordeal Suppression Tactical Dossier
 
-**[M.A.W. EXTRACTION & FORGING]**
+```text
++==============================================+
+| TACTICAL DOSSIER: THE FIRST DAWN OF YEAR 423 |
++----------------------------------------------+
+| DESIGNATION : THE DAWN OF LINEAR HISTORY     |
+| CLASSIFICATION : ETERNAL PEACE               |
+| INTRUSION POINT : NONE (THE WORLD IS ONE)    |
++----------------------------------------------+
+| HOSTILE PARAMETERS:                          |
+| - Entities: ZERO HOSTILES                    |
+| - Attack Affinity: NONE                      |
+| - Weakness Affinity: NONE                    |
++----------------------------------------------+
+| ENGAGEMENT TELEMETRY:                        |
+| - The sun rose over the mountains of Somnara |
+| - 610,000 citizens welcomed the first real d |
+| - The Nine Echo-Cores laid down their weapon |
+| - Duration: UNTO ETERNITY                    |
+| - Casualties: ZERO Fatalities                |
++==============================================+
+```
 
-- M.A.W. extracted: **The Colossus Plate** (Gift (Accessory), β-grade) from The Memory Weaver
-- Extraction performed by: Zyrak (Floor 3, Extraction Hall)
-- Equipped to: Agent Kang — quarantined for observation
-- Cost to wielder: recurring nightmares of the source entity
-- M.A.W. registry total: 1,743 entries logged this Cycle
+The Ordeals are a memory of the dark. Today, the only light falling from the sky is the warm, golden grace of the new year.
 
-**[NIGHT SHIFT — OVERNIGHT MONITORING]**
+#### 6. End-of-Day Shift Evaluation Index
 
-Night watch: Agent Oh, Floor 1. Overnight report:
+```text
++==============================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 365   |
++----------------------------------------------+
+| METRIC               | TARGET | REALIZED     |
++----------------------------------------------+
+| Recursive Cycles     | 1,778  | BROKEN FOREV |
+| Planetary Salvation  | 100%   | COMPLETE     |
+| Mortal Suffering     | 0.00%  | REDEEMED     |
+| The Open Hand        | ETERNAL| REALIZED     |
++----------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE OMEGA-DAWN    |
+| REAGENTS ACCUMULATED: ETERNAL TOMORROW       |
+| FACILITY STATUS: PERMANENT LIBERATION        |
++==============================================+
+```
 
-- Entity activity: the faint toll of The Orphaned Bell — once, at 0300, then silence.
-- Sorrow Gauge drift: slight rise on Floor 2.
-- Security incidents: one containment field flicker on Cell A-12 — auto-corrected.
-- The Director did not sleep. The Director does not sleep.
+#### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
 
-## Epilogue
+- **Source Entity:** HT-014 (*The Living Dawn*)
+- **Extracted Armament:** *The Memory of 1,778 Cycles* (Universal Heritage)
+- **Gift Properties:** Bestowed upon every child born into the new world: the sacred remembrance of what was endured, the courage to weep without fear, and the unyielding strength to choose Hope every day.
 
-The R.D. does not end. The R.D. does not dissolve. The R.D. does not get destroyed.
+#### 8. Night Shift Telemetry & Nocturnal Vigil
 
-The R.D. gets _embraced_.
+There is no night shift. There is no nocturnal vigil.
 
-The city learns the truth — about the Cheongula, about the Weeping, about the Maw, about the thousand, about the Cycle, about the Absolvohan, about the Hand of Hope. The city weeps. The city rages. The city forgives.
+At 06:30 on Day 365, Majin steps away from the central command console. For the first time in 1,778 cycles, the screens are dark, displaying a single golden sentence: 
 
-The R.D. is not punished. The R.D. is not dismantled. The R.D. is _thanked_.
+*LOG ARCHIVE CLOSED. HISTORY HAS BEGUN.*
 
-The Director is not executed. The Director is not exiled. The Director is _honored_.
+Majin walks out onto the balcony into the warm morning breeze. He unclasps his heavy Director's coat and drapes it over the railing. Behind him, Seiyon, Dekan, Marjuk, Ayshuk, Mellda, Zyrak, Ishall, and Xyan step out into the sunlight.
 
-The Echo-Cores are not deactivated. The Echo-Cores are not erased. The Echo-Cores are _remembered_.
+Below them, the city bells begin to chime—not for an emergency, not for a meltdown, not for an ordeal.
 
-The entities are not destroyed. The entities are not all transformed. Most remain Sorrow Entities — heavy, constant, real. But some — 15%, give or take — become something new. Hope Entities. Small, glowing, warm. Rare. Precious. Enough.
+They are ringing for the dawn.
 
-The city moves forward — not as a city without sorrow, but as a city with hope. Not as a city that has been cured, but as a city that has been treated. Not as a city that is whole, but as a city that is healing.
+Majin turns to his family, taking Seiyon's hand in his right and Xyan's in his left. 
 
-The debt system still exists. The Veil still suppresses. The citizens still grieve. The Sorrow Entities still contain. The planet still sorrows.
+He smiles: *"Come. Let's go down and meet the people."*
 
-But 15% of the weight has lifted. 15% of the grief has transformed. 15% of the sorrow has become hope.
+---
 
-And 15% is enough.
+### Epilogue: The Testament of Cycle 1,778
 
-The Hand of Hope has opened. The sorrow has not disappeared. The sorrow has been _shared_. And in the sharing, a small part of it has become something new.
+```text
++==============================================+
+| EPILOGUE: THE FINAL CODES OF SOMNARAK        |
++----------------------------------------------+
+| RECORDED BY SEIYON, THE LIVING CHRONICLER    |
+| YEAR 4233, DAY 001 OF THE NEW ERA            |
++==============================================+
+```
 
-Hope — not as a cure. Hope as a _medicine_. A treatment, not a solution. A step, not a destination.
+*To those who discover this codex in the ages to come:*
 
-The city still sorrows. The city still grieves. The city still weeps.
+*We did not build the Absolvohan to conquer this planet. We did not build it to destroy our enemies or avenge our dead. We built it because we were terrified of our own tears. For six thousand years, humanity fled from its sorrow, locking it in deep lead vaults, burning it in toxic furnaces, and freezing it in artificial silence.*
 
-But the city also hopes. And that is enough.
+*For 1,778 cycles, one man and eight reconstructed souls carried the compounding weight of that denial. We died a thousand deaths. We watched our companions fracture, burn, and dissolve across millions of hours of forgotten repetition. We believed our suffering was a punishment.*
 
-_"The planet has four corners. One is our city. One is the wild. One burns. One is silent. And we — we are the ones who chose to feel. Whether that is a blessing or a curse, I cannot say. But I can say this: it is_ ours. _And we will carry it — together — into whatever comes next."_
+*We were wrong.*
 
-— Director Majin, final entry, Year 4233
+*Sorrow was never an enemy to be slaughtered. It was the soil from which our humanity grew. When we finally found the courage to open our hands—to stop shooting and start sharing, to stop containing and start healing—the 49.8 tons of petrified grief blossomed into the dawn.*
+
+*The walls are gone. The entities walk among us as honored companions. The Furnace is a hearth. The Bell is a song. The Weeping is sweet water.*
+
+*If you ever find yourself weeping in the dark, remember Cycle 1,778.*
+
+*Do not build a wall around your grief. Open your hand.*
+
+*The dawn is waiting.*
+
+```text
++==============================================+
+| END OF ABSOLVOHAN OPERATIONAL MASTER CODEX   |
+| STATUS: PERMANENTLY ARCHIVED & TRANSMUTED    |
++==============================================+
+```
