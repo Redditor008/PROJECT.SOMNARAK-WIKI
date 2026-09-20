@@ -127,18 +127,19 @@ Sorrow Entities are born from the Weeping — crystallized when the river's sorr
 
 ## IV. The Weeping's Properties
 
-### Physical Properties
+### Physical & Chemical Hydrology of Liquid Han (액체 한의 수문학적 특성)
 
-| Property | Description |
-|----------|-------------|
-| **State** | Liquid Han — raw, unstructured sorrow |
-| **Temperature** | Cold — sorrow is cold, even in liquid form |
-| **Viscosity** | Thick — the Weeping flows slowly, like honey |
-| **Color** | Dark blue — the color of deep sorrow |
-| **Luminosity** | Faint glow — the Weeping emits a soft blue light |
-| **Sound** | Constant weeping — a low murmur of grief |
-| **Smell** | Old tears — the smell of ancient sorrow |
-| **Taste** | Bitter — the taste of unprocessed grief |
+Liquid Han is not mundane subterranean water; it is a dense, non-Newtonian emotional fluid possessing unique thermodynamic and metaphysical properties:
+
+| Hydrological Metric | Physical Characteristic | Directorate Operational Observation |
+|---|---|---|
+| **State of Matter** | Colloidal Liquid Han | Raw sorrow suspended in semi-liquid form; evaporates into mist under high psychic stress |
+| **Viscosity & Rheology** | Non-Newtonian Shear-Thickening | Flows like chilled oil at rest; instantly solidifies into brittle crystal when struck kinetically |
+| **Thermodynamics** | Thermal Inversion Phenomenon | Physically radiates mild warmth (32°C), yet drains spiritual calories, inducing hypothermia |
+| **Luminosity & Spectra** | Cerulean-Indigo Bioluminescence | Ceaseless 450nm deep Lament glow; shifts to crimson-violet during high-agitation tides |
+| **Acoustic Frequency** | Sub-Vocal Murmur (14–18 Hz) | Emits an infrasonic weeping drone that vibrates biological marrow and destabilizes sanity |
+| **Density & Buoyancy** | Hyper-Dense (1.42 g/cm³) | Metallic tools float on the surface; human bodies are slowly pulled under by karmic weight |
+| **Crystallization Threshold** | Critical Resonance Saturation | Rapidly nucleates into solid Han-crystal when exposed to extreme grief or extraction lasers |
 
 ### Emotional Properties
 
@@ -249,6 +250,23 @@ The thousand citizens consumed in the Cheongula are not dead — they are *part 
 - The thousand are aware — they feel the river's flow, they feel the city's grief, they feel the citizens' pain
 - The thousand are trapped — they cannot escape the Weeping, they cannot stop flowing, they cannot stop suffering
 - The thousand are the city's foundation — every citizen's sorrow is built on the thousand's sacrifice
+
+---
+
+### The Subterranean Facility Ingress: Floors 2 & 3 Hydraulic Tethers
+
+The lower levels of Facility 01 were engineered directly over the primary subterranean channel of the Weeping, tapping its liquid volume for industrial containment and extraction:
+
+#### Floor 2 — The Containment Submersion Trenches (Dekan)
+The deepest isolation vats of Floor 2 are physically seated in reinforced basalt trenches bathed in the Weeping's current:
+- **Embryonic Inflow:** The river carries nascent, uncrystallized sorrow-forms through subterranean tributaries. Dekan monitors these currents, intercepting unstable entities before they congeal into rogue surface hazards.
+- **Sympathetic Cardiac Pulse:** The crimson-scaled graft on Dekan's right arm swells in direct hydraulic correlation with the river's tides. When the river undergoes a Sorrow Tide surge, the scales on his arm flare open, bleeding hot red mist as his neural system dampens the flood of grief.
+
+#### Floor 3 — The Lament Well & M.A.W. Extraction Vats (Zyrak)
+The industrial intake of the **Lament Well** draws high-pressure liquid Han directly from the river's deepest trench:
+- **Resonant Siphoning:** High-volume magnetic pumps pull thousands of liters of liquid sorrow upward into Zyrak's forge vats.
+- **M.A.W. Crystallization:** Zyrak uses frequency-locked acoustic spinners and cryogenic needles to shock the liquid Han, forcing its non-Newtonian lattice to permanently solidify into high-density M.A.W. Weapon blades, Suit fibers, and Gift charms.
+- **Energy Refining:** Residual unformed liquid Han is scrubbed of hostile intent and routed into the Alpha Tree's root grid, supplying electrical and heating power to the upper municipal sectors.
 
 ---
 
