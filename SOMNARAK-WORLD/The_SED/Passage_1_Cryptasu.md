@@ -112,13 +112,13 @@ The entities were grotesque fusions of amphibian biology and calcified grief: pa
 
  TURN 1 CLASH:
  - Harin declares [Pneumatic Wall Bash] vs Stalker 1 [Leaping Bite]
-   * Harin: Base 5 + Coin 1 (Heads +4) = 9
-   * Stalker 1: Base 3 + Coin 1 (Tails +0) = 3 -> HARIN WINS CLASH
+   * Harin: Base 5 + Beat 1 (Resonant +4) = 9
+   * Stalker 1: Base 3 + Beat 1 (Dissonant +0) = 3 -> HARIN WINS CLASH
    * Stalker 1 deflected! Harin inflicts 42 Kinetic-Weight damage. Stalker 1 STAGGERED.
 
  - The Silent One declares [Severing Arc] vs Stalker 2 [Bone Claws]
-   * Silent One: Base 6 + Coin 1 (Heads +3) + Coin 2 (Heads +3) = 12
-   * Stalker 2: Base 4 + Coin 1 (Heads +2) = 6 -> SILENT ONE WINS CLASH
+   * Silent One: Base 6 + Beat 1 (Resonant +3) + Beat 2 (Resonant +3) = 12
+   * Stalker 2: Base 4 + Beat 1 (Resonant +2) = 6 -> SILENT ONE WINS CLASH
    * Fatal Grudge Strike! 78 Slash damage dealt. Stalker 2 KILLED instantly.
 
  TURN 2 CLEANUP:
@@ -223,22 +223,22 @@ The entity, catalogued under field code **SECC-E04 "The Sump Matron"**, was a te
 
 ```text
 ================================================================================
- ELITE ANOMALY COMBAT: SECC-E04 "THE SUMP MATRON" (WAW-01 TIER)
+ ELITE ANOMALY COMBAT: SECC-E04 "THE SUMP MATRON" (Grade-β Potency)
 ================================================================================
  BOSS ATTRIBUTES: HP: 950 | Stagger: 380 | Element: Grudge (Crimson)
  RESISTANCES: Grudge (Endured 0.5x), Lament (Fatal 2.0x), Void (Normal 1.0x), Weight (Normal 1.0x)
 
  TURN 1:
- - Boss initiates [Scalding Brine Deluge] (AoE Range 5): Base 8 + 2 Coins (+3 each)
+ - Boss initiates [Scalding Brine Deluge] (AoE Range 5): Base 8 + 2 Harmonic Beats (+3 each)
  - Harin activates [Bastion Overdrive - Thermal Retain] to intercept the wave:
-   * Harin: Base 7 + 3 Coins (+2 each) = 13 vs Boss: Base 8 + Coin 1 (T) + Coin 2 (H) = 11
+   * Harin: Base 7 + 3 Harmonic Beats (+2 each) = 13 vs Boss: Base 8 + Beat 1 (Dissonant) + Beat 2 (Resonant) = 11
    * CLASH WIN! Harin plants the tower shield, anchoring the squad behind her steel mantle.
    * Thermal wave deflected! Harin takes 18 reduced heat damage, shield absorbing the brunt.
 
  TURN 2:
  - Yeonhwa identifies structural thermal conduit: "The right valve pipe is venting pressure!"
  - Sora unleashes [Lament Weave - Cryo-Tuning] from Range Band 3:
-   * Sora: Base 6 + 2 Coins (Heads, Heads +4) = 14
+   * Sora: Base 6 + 2 Harmonic Beats (Resonant, Resonant +4) = 14
    * Striking vulnerable Lament weakness (2.0x Fatal)! 112 Cryo-Lament damage inflicted!
    * The boiling brine in the Matron's chest begins to crystallize into pale blue ice.
 
@@ -300,7 +300,7 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 ================================================================================
  APEX BOSS DOSSIER: SECC-012 "THE DROWNED GUARDIAN OF YEAR ZERO"
 ================================================================================
- CLASSIFICATION: WAW-03 | Sub-Strata Abyssal Gatekeeper | Origin: Year Zero Flood
+ CLASSIFICATION: Major-γ (Grade-γ Potency) | Sub-Strata Abyssal Gatekeeper | Origin: Year Zero Flood
  COMBAT PROFILE:
  - Maximum Health (HP): 2,400
  - Stagger Thresholds: 1,680 HP (70%) | 960 HP (40%) | 240 HP (10%)
@@ -334,7 +334,7 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 
 #### Turn 1: Establishing the Formation
 - **Initiative Roll:** Harin (Speed 5), Yeonhwa (Speed 5), The Silent One (Speed 4), Doha (Speed 3), Sora (Speed 2) vs Boss Slot 1 (Speed 6), Slot 2 (Speed 4), Slot 3 (Speed 2).
-- **Boss Intent:** Slot 1 (Left Siphon) targets Harin with `[Pressurized Brine Torrent]` (Band 3, 2 Coins). Slot 2 (Bronze Cleaver) targets The Silent One with `[Sweeping Cleave]` (Band 1, 1 Coin).
+- **Boss Intent:** Slot 1 (Left Siphon) targets Harin with `[Pressurized Brine Torrent]` (Band 3, 2 Harmonic Beats). Slot 2 (Bronze Cleaver) targets The Silent One with `[Sweeping Cleave]` (Band 1, 1 Harmonic Beat).
 - **Tactical Actions:**
   * Harin rolls speed to intercept Slot 1's torrent with `[Pneumatic Bulwark Stance]`.
   * The Silent One clashes against Slot 2's cleave with `[Severing Parry]`.
@@ -344,13 +344,13 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 --------------------------------------------------------------------------------
  TURN 1 CLASH RESOLUTION:
  - Clash 1: Harin [Pneumatic Bulwark] vs Boss [Brine Torrent]
-   * Harin: Base 6 + 3 Coins (Heads, Heads, Tails = +4) -> Total 10
-   * Boss: Base 5 + 2 Coins (Heads, Tails = +3) -> Total 8
+   * Harin: Base 6 + 3 Harmonic Beats (Resonant, Resonant, Dissonant = +4) -> Total 10
+   * Boss: Base 5 + 2 Harmonic Beats (Resonant, Dissonant = +3) -> Total 8
    * HARIN WINS CLASH! Water jet split across shield rim. Harin takes 0 damage.
    * Harin inflicts 38 Stagger damage on Left Siphon Arm.
  - Clash 2: The Silent One [Severing Parry] vs Boss [Sweeping Cleave]
-   * Silent One: Base 7 + 2 Coins (Heads, Heads = +6) -> Total 13
-   * Boss: Base 8 + 1 Coin (Heads = +4) -> Total 12
+   * Silent One: Base 7 + 2 Harmonic Beats (Resonant, Resonant = +6) -> Total 13
+   * Boss: Base 8 + 1 Harmonic Beat (Resonant = +4) -> Total 12
    * SILENT ONE WINS CLASH! Deflects massive cleaver! Counter-slashes for 86 Grudge damage.
  - Unofficially: Doha lands [Pneumatic Hammer Strike] on Left Siphon (72 Dmg).
  BOSS HP: 2,242 / 2,400 | Siphon HP: 490 / 600 | Squad SP: All Stable
@@ -370,10 +370,10 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
  TURN 2 CLASH RESOLUTION:
  - Harin absorbs Bronze Cleaver strike: Takes 32 reduced damage (HP 168/200, SP +2).
  - Doha strikes Left Siphon Arm:
-   * Base 8 + 2 Coins (Heads, Heads = +8) -> Total 16!
+   * Base 8 + 2 Harmonic Beats (Resonant, Resonant = +8) -> Total 16!
    * Critical Bludgeoning Strike! Inflicts 184 Weight damage!
  - The Silent One strikes Left Siphon Arm:
-   * Base 6 + 3 Coins (Heads, Heads, Heads = +9) -> Total 15!
+   * Base 6 + 3 Harmonic Beats (Resonant, Resonant, Resonant = +9) -> Total 15!
    * 168 Grudge Slash damage!
    * TOTAL DAMAGE ON SIPHON: 352! SIPHON ARM HP REDUCED TO 0!
  [PART DESTROYED: Left Hydraulic Siphon Arm shattered into scrap bronze!]
@@ -383,7 +383,7 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 ```
 
 #### Turn 3: Pushing the First Stagger Threshold
-- **Boss Reaction:** Losing its siphon arm, the titan roars—a horrific blast of compressed acoustic resonance that rings through the squad's visors. It raises its massive Bronze Cleaver in two hands, preparing `[Executioner's Judgment]` (3 Coins, Fatal Grudge damage).
+- **Boss Reaction:** Losing its siphon arm, the titan roars—a horrific blast of compressed acoustic resonance that rings through the squad's visors. It raises its massive Bronze Cleaver in two hands, preparing `[Executioner's Judgment]` (3 Harmonic Beats, Fatal Grudge damage).
 - **Tactical Actions:**
   * Harin and Doha execute a joint clash: Harin braces with `[Unbreakable Ward]`, while Doha props his hammer beneath her shield to support the frame.
   * Sora activates `[Silver Cowl: Empathic Nullification]`, deploying a silver resonance field that grants all allies +3 Clash Power against emotional attacks.
@@ -393,11 +393,11 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 --------------------------------------------------------------------------------
  TURN 3 CLASH RESOLUTION:
  - Joint Defense vs [Executioner's Judgment]:
-   * Harin + Doha: Base 10 + Cowl Bonus (+3) + 3 Coins (Heads, Tails, Heads = +4) = 17!
-   * Boss: Base 9 + 3 Coins (Heads, Tails, Tails = +4) = 13!
+   * Harin + Doha: Base 10 + Cowl Bonus (+3) + 3 Harmonic Beats (Resonant, Dissonant, Resonant = +4) = 17!
+   * Boss: Base 9 + 3 Harmonic Beats (Resonant, Dissonant, Dissonant = +4) = 13!
    * CLASH WIN! Massive bronze cleaver slams harmlessly into reinforced tower shield!
  - The Silent One strikes The Weeping Core from behind:
-   * Relic Cleaver absorbs sorrow residue: Base 9 + 2 Coins (Heads, Heads = +8) = 17!
+   * Relic Cleaver absorbs sorrow residue: Base 9 + 2 Harmonic Beats (Resonant, Resonant = +8) = 17!
    * Deals 218 Fatal Grudge damage directly to the chest core!
  BOSS HP: 1,672 / 2,400 [THRESHOLD BREACHED: Below 1,680 HP!]
  [STATUS: SECC-012 IS STAGGERED! ALL DEFENSES REDUCED TO ZERO! TAKES +100% DAMAGE!]
@@ -431,8 +431,8 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
  - The Silent One steps forward, ignoring the swirling floodwaters.
  - Silent One activates Relic Overdrive: [Primordial Severance: The Unanswered Cut].
    * The dark blade ignites with brilliant pale white luminescence.
-   * Silent One: Base 12 + 3 Coins (Heads, Heads, Heads = +9) -> Total 21!
-   * Boss: Base 8 + 2 Coins (Heads, Tails = +4) -> Total 12!
+   * Silent One: Base 12 + 3 Harmonic Beats (Resonant, Resonant, Resonant = +9) -> Total 21!
+   * Boss: Base 8 + 2 Harmonic Beats (Resonant, Dissonant = +4) -> Total 12!
    * CLASH OVERWHELMING WIN!
    * The dark blade cuts cleanly through the bronze cleaver, severing the titan's right arm!
    * Cleaver shatters into inert bronze shards!
