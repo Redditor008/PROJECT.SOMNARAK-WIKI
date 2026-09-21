@@ -1,9 +1,9 @@
-# THE SOMNARAK EXPLORATION DECREED — Corporate Dossier & Chthonic Manual
+# THE SOMNARAK EXPLORATION DECREE — Corporate Dossier & Chthonic Manual
 ## Frontier Reconnaissance, Subterranean Engineering & Deep Strata Doctrine
 
 ```text
 +==============================================+
-|       SOMNARAK EXPLORATION DECREED (SED)     |
+|       SOMNARAK EXPLORATION DECREE (SED)      |
 +==============================================+
 | Corporate Code       | SED-CORP-M042         |
 +----------------------+-----------------------+
@@ -24,9 +24,11 @@
 
 ---
 
-## Executive Summary & Foundational Purpose
+## Section I: Foundational Charter & Four-Thousand-Year History
 
-The Somnarak Exploration Decreed (SED / 탐사 집행국) is the sovereign municipal expeditionary and subterranean engineering corporation of Somnarak. Established under the High Council of Sighs through Council Mandate 042, the SED possesses absolute jurisdictional, exploratory, and salvage authority over all subterranean territories extending beneath the municipal bedrock, beginning strictly at the negative fifty-meter civil demarcation threshold.
+### Executive Summary & Foundational Purpose
+
+The Somnarak Exploration Decree (SED / 탐사 집행국) is the sovereign municipal expeditionary and subterranean engineering corporation of Somnarak. Established under the High Council of Sighs through Council Mandate 042, the SED possesses absolute jurisdictional, exploratory, and salvage authority over all subterranean territories extending beneath the municipal bedrock, beginning strictly at the negative fifty-meter civil demarcation threshold.
 
 While the surface footprint of Somnarak encompasses eighty-six square kilometers of paved avenues, high-density residential wards, and fortified perimeter walls, the true mass of the city extends vertically downward into thousands of meters of unmapped geological, tectonic, and metaphysical strata. Millions of citizens walk upon roads that sit precariously atop ancient catacombs, drowned pre-cataclysm wards, pressurized aquifers of liquid sorrow, and cyclopean structures predating recorded human civilization.
 
@@ -34,7 +36,7 @@ The SED serves as the vanguard against the darkness beneath. It is not a passive
 
 ---
 
-## Institutional Contrast: The Three Corporate Powers
+### Institutional Contrast: The Three Corporate Powers
 
 To understand the operational doctrine of the SED, one must distinguish its mission from the other two supreme corporate entities operating within Somnarak:
 
@@ -52,18 +54,18 @@ To understand the operational doctrine of the SED, one must distinguish its miss
 +==============================================+
 ```
 
-### 1. The Reverie Directorate (R.D. / 몽환집행국)
-The Reverie Directorate is an internal, static containment and energetic extraction corporation. Anchored inside Subterranean Facility 01 beneath the roots of the Alpha Tree, the Directorate focuses on the safe containment of catalogued Sorrow Entities, the industrial extraction of M.A.W. equipment, and the generation of refined Han-energy required to power municipal infrastructure. The R.D. operates within controlled, reinforced laboratory and containment chambers, treating sorrow as a harvestable energetic resource.
+1. **The Reverie Directorate (R.D. / 몽환집행국):**
+   The Reverie Directorate is an internal, static containment and energetic extraction corporation. Anchored inside Subterranean Facility 01 beneath the roots of the Alpha Tree, the Directorate focuses on the safe containment of catalogued Sorrow Entities, the industrial extraction of M.A.W. equipment, and the generation of refined Han-energy required to power municipal infrastructure. The R.D. operates within controlled, reinforced laboratory and containment chambers, treating sorrow as a harvestable energetic resource.
 
-### 2. The Underworld Cleanup Descend (UCD / 지하정화강하)
-The Underworld Cleanup Descend is an urban counter-insurgency, anti-syndicate, and law-enforcement task force. Operating within the chaotic criminal slums of the Raw across Zones B, C, and D, the UCD hunts illicit cartels, smashes illegal memory-bleaching laboratories, dismantles counterfeit Veil stone foundries, and purges feral entities that infest civilian sewer lines down to negative fifty meters depth. The UCD is an armed shield protecting the civilian populace from underworld predators.
+2. **The Underworld Cleanup Descend (UCD / 지하정화강하):**
+   The Underworld Cleanup Descend is an urban counter-insurgency, anti-syndicate, and law-enforcement task force. Operating within the chaotic criminal slums of the Raw across Zones B, C, and D, the UCD hunts illicit cartels, smashes illegal memory-bleaching laboratories, dismantles counterfeit Veil stone foundries, and purges feral entities that infest civilian sewer lines down to negative fifty meters depth. The UCD is an armed shield protecting the civilian populace from underworld predators.
 
-### 3. The Somnarak Exploration Decreed (SED / 탐사 집행국)
-The SED is an outward-bound, expeditionary vanguard. It does not police street gangs or manage power plants. Instead, the SED plunges directly into the unmapped planetary crust where municipal law ceases to exist. Its mission is topological discovery, tectonic risk mitigation, the excavation of ancient civilizational ruins, and the ultimate investigation of the Exile's grim prophecy: that the city's sorrow is not an accidental byproduct of human suffering, but a deliberate planetary phenomenon originating from a subterranean wellspring.
+3. **The Somnarak Exploration Decree (SED / 탐사 집행국):**
+   The SED is an outward-bound, expeditionary vanguard. It does not police street gangs or manage power plants. Instead, the SED plunges directly into the unmapped planetary crust where municipal law ceases to exist. Its mission is topological discovery, tectonic risk mitigation, the excavation of ancient civilizational ruins, and the ultimate investigation of the Exile's grim prophecy: that the city's sorrow is not an accidental byproduct of human suffering, but a deliberate planetary phenomenon originating from a subterranean wellspring.
 
 ---
 
-## Four-Thousand-Year Subterranean History & Three Epochs
+### Four-Thousand-Year Subterranean History & Three Epochs
 
 The history of subterranean exploration beneath Somnarak is a chronicle written in stone, brine, and blood. Spanning more than four millennia since the Year Zero cataclysm, the SED's organizational identity has evolved across three distinct historical epochs:
 
@@ -81,21 +83,21 @@ The history of subterranean exploration beneath Somnarak is a chronicle written 
 +==============================================+
 ```
 
-### Epoch I: The Era of Blind Shafts (Years 1,210 – 2,100)
+#### Epoch I: The Era of Blind Shafts (Years 1,210 – 2,100)
 In the centuries following the Consolihan, early municipal authorities treated the subterranean expanse purely as a dumping ground and drainage ditch. As the surface population exploded, untreated emotional runoff began condensing in basements and sewer reservoirs, creating pockets of toxic brine that corroded building foundations. 
 
 In Year 1,210, a massive subsidence disaster collapsed three city blocks of the Old Lament into a subterranean void, killing thousands. In response, the Council of Sighs issued Mandate 042, establishing the primitive precursor to the SED: the Bureau of Bedrock Survey. 
 
 During this first brutal era, exploration was carried out by penal work crews and desperate prospectors equipped with nothing more than bronze pickaxes, tallow lamps, hemp ropes, and canary cages. Miners descended blind into vertical sinkholes, guided only by the sound of rushing water. Without acoustic radar or barometers, hundreds perished from spontaneous suffocating gas pockets of raw Han, sudden flash floods of scalding mineral brine, and attacks by blind, feral Sorrow Entities nesting in the dark. Despite these horrific losses, the early miners successfully constructed the first cyclopean drainage culverts that stabilized Zone B's foundation.
 
-### Epoch II: The Mechanized Bore Age (Years 2,100 – 3,600)
+#### Epoch II: The Mechanized Bore Age (Years 2,100 – 3,600)
 The turning point in subterranean exploration arrived in the twenty-second century with the realization that crystallized Han possessed extraordinary thermodynamic and kinetic energy densities. The invention of the rotary steam drill, powered by pressurized Han-crystal combustion boilers, allowed expeditionary teams to cut through dense basalt bedrock at unprecedented speeds.
 
 During this era, the modern institutional structure of the SED was codified. Master architects, including the forebears of Doha, engineered colossal underground retaining walls to quarantine collapsed sectors where feral entity mutations had overtaken ancient wards. Deep exploration divers, outfitted in copper-riveted diving bells and pressurized air hoses, descended past negative six hundred meters, discovering that Somnarak's modern foundations rested upon cyclopean megalithic ruins predating the Cataclysm by millennia.
 
 Subterranean exploration shifted from desperate civil salvage into industrialized resource extraction and archaeology. Permanent subterranean staging outposts were carved directly into the bedrock, and the first horizontal rail tunnels were laid to haul raw mineral wealth and historical artifacts to the surface.
 
-### Epoch III: The Chthonic Vanguard Era (Years 3,600 – Present)
+#### Epoch III: The Chthonic Vanguard Era (Years 3,600 – Present)
 The modern era of the SED began with the development of ground-penetrating acoustic radar, synthetic fiber diving suits, and the deployment of massive, hermetically sealed subterranean exploration crawlers known as Chthonic Dredgers.
 
 Under the visionary leadership of High Commissioner Baek Seung-Hyun and Chief Cartographer Yeonhwa, the SED transformed from an industrial mining bureau into an elite scientific and expeditionary institution. Rather than merely reacting to sinkholes and structural collapses, the SED initiated proactive deep-strike descents to systematically map the planet's internal anatomy. 
@@ -104,46 +106,71 @@ The corporation established permanent deep-staging depots at critical geological
 
 ---
 
-## The Three Great Subterranean Catastrophes
+## Section II: The Six Operational Divisions
 
-The archives of the SED contain detailed records of catastrophic failures that permanently reshaped expeditionary doctrine and safety protocols:
+The organizational machinery of the Somnarak Exploration Decree is structured across six specialized operational divisions, each responsible for a vital component of subterranean survival, cartography, and resource recovery:
 
 ```text
 +==============================================+
-|       THE THREE GREAT HISTORICAL DISASTERS   |
+|       THE SIX OPERATIONAL DIVISIONS          |
 +==============================================+
-| Disaster Code Name  | Depth & Stratum Impact |
+| Division Code       | Departmental Mandate   |
 +=====================+========================+
-| The Drowned Drill   | Depth -420m (Karst)    |
+| Division I          | Cartography & Topology |
 +---------------------+------------------------+
-| Calcified Brigade   | Depth -750m (Arteries) |
+| Division II         | Engineering & Bore Flt |
 +---------------------+------------------------+
-| The Abyssal Silence | Depth -1800m (Rift)    |
+| Division III        | Relic Recovery & Archeo|
++---------------------+------------------------+
+| Division IV         | Vanguard & Suppression |
++---------------------+------------------------+
+| Division V          | Chthonic Physiology    |
++---------------------+------------------------+
+| Division VI         | Logistics & Ballast    |
 +==============================================+
 ```
 
-### 1. The Drowned Drill of Expedition 17 (Year 2,412)
-While attempting to bore a primary drainage aqueduct beneath the Old Lament at a depth of negative four hundred and twenty meters, the steam crawler *Bore-V* punctured a pressurized subterranean aquifer containing supercritical liquid sorrow. Within ninety seconds, millions of liters of freezing, corrosive brine surged through the drill head under eighty atmospheres of pressure. 
+### Division I: Bureau of Cartography & Acoustic Topology (측량도면국)
+The Bureau of Cartography is the intellectual brain of the SED. Its primary mandate is the absolute mapping of the shifting, living labyrinth beneath Somnarak. Because the subterranean bedrock is not static—drifting, warping, and expanding under the thermodynamic pressure of accumulated sorrow—maps drawn five years ago are frequently lethal deathtraps today.
+- **Operational Methods:** Cartographers employ ground-penetrating acoustic resonance theodolites, dropping ultrasonic depth transceivers into boreholes to map subterranean chambers by listening to the return echo.
+- **The Sub-Strata Atlas:** The Bureau compiles and publishes the authoritative *Sub-Strata Atlas*, an exhaustive, constantly updated multi-volume topological directory detailing safe transit routes, structural fault lines, and tectonic shift vectors.
+- **Departmental Culture:** Highly academic, obsessive, and reclusive. Cartographers view the earth not as dead rock, but as a vast, ancient puzzle waiting to be unlocked.
 
-The liquid completely dissolved the crawler's reinforced copper seals and instantly drowned all fourteen crew members. The hyper-saturated emotional resonance of their sudden death bonded with the surrounding limestone caverns, creating a permanent acoustic anomaly known today as the Resonant Echo Sump. Ever since this disaster, SED doctrine mandates the use of ultrasonic pre-drilling sonic probes before any rotary drill bit penetrates unmapped rock faces.
+### Division II: Bureau of Chthonic Engineering & The Bore Fleet (천공 함대 기동부)
+The Bureau of Chthonic Engineering represents the physical muscle and heavy industrial might of the corporation. It is responsible for the design, construction, operation, and field repair of all subterranean exploration vehicles, mechanical boring rigs, and tectonic shoring machinery.
+- **Operational Methods:** Engineers, machinists, and heavy vehicle pilots work inside the cavernous dry docks of Level -200m, maintaining the massive fleet of Chthonic Crawlers. In the field, engineering squads deploy pneumatic bedrock rams to shore up collapsing cavern ceilings and anchor suspension cables across bottomless chasms.
+- **Fleet Command:** Coordinates the tactical deployment of exploratory convoys, ensuring that every sortie maintains sufficient fuel reserves, replacement drill heads, and structural bracing materials.
+- **Departmental Culture:** Pragmatic, grease-stained, and fiercely loyal. Engineers speak in mechanical jargon and measure survival in structural tolerances, hydraulic pressure ratios, and torque outputs.
 
-### 2. The Calcified Brigade of Expedition 44 (Year 3,105)
-During a major stabilization operation in the Severed Artery Network at negative seven hundred and fifty meters, an eighty-man engineering battalion deployed to erect seismic support pillars encountered a sudden tectonic outgassing of high-density petrifying vapor. The vapor, a rare gaseous manifestation of calcified Grudge and Weight, interacted violently with the moisture in the miners' respirators and skin.
+### Division III: Bureau of Deep Relic Recovery & Archaeology (심층 유물 인양부)
+The Bureau of Deep Relic Recovery is tasked with unearthing, cataloguing, and preserving the lost material culture of pre-cataclysm humanity buried beneath the city's foundations.
+- **Operational Methods:** Archaeologists work alongside engineering squads during excavations, using delicate ultrasonic chisels, micro-fiber brushes, and portable stasis envelopes to extract brittle paper diaries, ancient synthetic circuitry, and fossilized cultural relics from calcified mudstone.
+- **The Preservation Pipeline:** Recovered artifacts are sealed inside pressurized inert-gas containers at the dig site, transported up Shaft 00, and delivered to the high-security vaults of Level -500m for chemical stabilization and historical transcription.
+- **Departmental Culture:** Solemn, scholarly, and contemplative. Relic recovery specialists view themselves as mourners giving voice to forgotten generations whose lives were swallowed by the Cataclysm.
 
-Within less than three minutes, the entire battalion underwent instantaneous biological petrification. Their organic tissue was converted into solid basalt while retaining their exact physical forms, postures, and facial expressions of shock. Today, the sector remains preserved as the Hall of the Silent Watchers, where the eighty stone statues of the miners still serve as structural load-bearing pillars supporting the cavern ceiling.
+### Division IV: Bureau of Frontier Vanguard & Wild Suppression (전위 탐사 수색대)
+The Bureau of Frontier Vanguard is the elite armed security and combat suppression branch of the SED. When an exploratory crawler breaches a sealed subterranean chamber, the Vanguard is the first squad through the airlock, weapons primed for hostile engagement.
+- **Operational Methods:** Vanguard wardens specialize in close-quarters combat within narrow, lightless tunnels. Equipped with heavy tower shields, pneumatic shock lances, and high-lumen resonance flares, they form impenetrable defensive phalanxes to protect unarmed cartographers and archaeologists from feral Sorrow Entities nesting in the deep strata.
+- **Wild Entity Interception:** Unlike the Reverie Directorate, which captures entities for extraction, the Vanguard focuses primarily on defensive deterrence, suppression, and area clearance. Hostile entities that cannot be bypassed or driven off are neutralized with extreme kinetic prejudice.
+- **Departmental Culture:** Disciplined, stoic, and hyper-vigilant. Vanguard operators are veteran soldiers who understand that a single hesitation in the dark means the death of the entire survey team.
 
-### 3. The Abyssal Silence of Expedition 89 (Year 3,988)
-Expedition 89 represents the deepest reconnaissance sortie ever attempted by a conventional SED exploration fleet. Operating the experimental heavy chthonic crawler *Endeavor-IV*, an elite twelve-member team commanded by Captain Jin Min-Gyu successfully crossed the negative eighteen hundred-meter barrier into the upper reaches of the Occlusihan Rift. 
+### Division V: Bureau of Chthonic Physiology & Acclimatization (지저 생리 연구부)
+The Bureau of Chthonic Physiology is the medical and psychological guardian of expeditionary personnel, dedicated to mitigating the devastating physical and mental toll of deep-depth operations.
+- **Operational Methods:** Physicians, toxicologists, and Weaver psychologists monitor the biological telemetry of deep crews in real time. They formulate specialized anti-calcification intravenous treatments, design pressurized hyperbaric suits, and manufacture the cranial silver tethers that prevent explorers' minds from fracturing under high-density sorrow pressure.
+- **Decompression Management:** Manages the decompression cycles of returning crews, ensuring that absorbed liquid sorrow and nitrogen do not crystallize within personnel's veins and nervous systems.
+- **Departmental Culture:** Clinical, empathetic, and protective. Acclimatization officers fight a continuous war against the creeping psychological decay that threatens every subterranean explorer.
 
-For twelve days, the expedition transmitted continuous acoustic and barometric telemetry back to headquarters, documenting vast cyclopean megaliths constructed from non-reflective black glass that displayed no architectural resemblance to any human civilization. On the thirteenth day at 03:42 hours, the crawler's audio transceiver broadcast a single, unhurried transmission from Captain Jin: *"The stone is breathing, and it knows our names."* 
-
-Immediately following this sentence, all seismic, thermal, and radio telemetry flatlined simultaneously. A rescue operation launched six days later discovered the borehole intact, but found no trace of the crawler, its crew, or their equipment. To this day, Expedition 89 is classified as an Active Hazard Zone, and entry into the Rift requires Level 5 Executive clearance.
+### Division VI: Bureau of Life-Ballast & Subterranean Logistics (심층 보급 평형국)
+The Bureau of Life-Ballast is responsible for the vital supply lines that keep exploratory teams breathing, nourished, and functional miles beneath the earth's surface.
+- **Operational Methods:** Logisticians calculate the precise thermodynamic, caloric, and chemical ballast required for every expedition. They oversee the production of synthetic oxygen canisters, pressurized nutrient paste rations, water recycling filters, and emergency ascent capsule deployment systems.
+- **Sub-Strata Supply Depots:** Manages the stocking and maintenance of automated survival shelters pre-positioned throughout the upper four strata, providing safe havens where stranded crews can await rescue.
+- **Departmental Culture:** Methodical, precise, and uncompromising. Logistics officers operate under the rule that a single miscalculated decimal point in oxygen consumption equates to murder.
 
 ---
 
-## Corporate Headquarters: The Chthonic Citadel (심층 탐사 사령부)
+## Section III: Headquarters Architecture — The Chthonic Citadel
 
-The headquarters of the Somnarak Exploration Decreed is a monumental architectural and industrial complex known as **The Chthonic Citadel** (심층 탐사 사령부 / The Sub-Bore Spire). Unlike the Reverie Directorate, which is hidden directly beneath the roots of the Alpha Tree, the SED Citadel is anchored into the massive basalt cliffs lining the eastern boundary of the Maw in Zone B. 
+The headquarters of the Somnarak Exploration Decree is a monumental architectural and industrial complex known as **The Chthonic Citadel** (심층 탐사 사령부 / The Sub-Bore Spire). Unlike the Reverie Directorate, which is hidden directly beneath the roots of the Alpha Tree, the SED Citadel is anchored into the massive basalt cliffs lining the eastern boundary of the Maw in Zone B. 
 
 This location provides the SED with direct, uninterrupted vertical access to the deepest geological faults of the city while maintaining heavy freight rail connections to the surface manufacturing wards.
 
@@ -209,71 +236,9 @@ Anchored into the volcanic basalt cliff face overlooking the abyssal chasms of t
 
 ---
 
-## The Six Internal Divisions of the SED
+## Section IV: Employee Hierarchy, Ranks & Workforce Census
 
-The organizational machinery of the Somnarak Exploration Decreed is structured across six specialized operational divisions, each responsible for a vital component of subterranean survival, cartography, and resource recovery:
-
-```text
-+==============================================+
-|       THE SIX OPERATIONAL DIVISIONS          |
-+==============================================+
-| Division Code       | Departmental Mandate   |
-+=====================+========================+
-| Division I          | Cartography & Topology |
-+---------------------+------------------------+
-| Division II         | Engineering & Bore Flt |
-+---------------------+------------------------+
-| Division III        | Relic Recovery & Archeo|
-+---------------------+------------------------+
-| Division IV         | Vanguard & Suppression |
-+---------------------+------------------------+
-| Division V          | Chthonic Physiology    |
-+---------------------+------------------------+
-| Division VI         | Logistics & Ballast    |
-+==============================================+
-```
-
-### Division I: Bureau of Cartography & Acoustic Topology (측량도면국)
-The Bureau of Cartography is the intellectual brain of the SED. Its primary mandate is the absolute mapping of the shifting, living labyrinth beneath Somnarak. Because the subterranean bedrock is not static—drifting, warping, and expanding under the thermodynamic pressure of accumulated sorrow—maps drawn five years ago are frequently lethal deathtraps today.
-- **Operational Methods:** Cartographers employ ground-penetrating acoustic resonance theodolites, dropping ultrasonic depth transceivers into boreholes to map subterranean chambers by listening to the return echo.
-- **The Sub-Strata Atlas:** The Bureau compiles and publishes the authoritative *Sub-Strata Atlas*, an exhaustive, constantly updated multi-volume topological directory detailing safe transit routes, structural fault lines, and tectonic shift vectors.
-- **Departmental Culture:** Highly academic, obsessive, and reclusive. Cartographers view the earth not as dead rock, but as a vast, ancient puzzle waiting to be unlocked.
-
-### Division II: Bureau of Chthonic Engineering & The Bore Fleet (천공 함대 기동부)
-The Bureau of Chthonic Engineering represents the physical muscle and heavy industrial might of the corporation. It is responsible for the design, construction, operation, and field repair of all subterranean exploration vehicles, mechanical boring rigs, and tectonic shoring machinery.
-- **Operational Methods:** Engineers, machinists, and heavy vehicle pilots work inside the cavernous dry docks of Level -200m, maintaining the massive fleet of Chthonic Crawlers. In the field, engineering squads deploy pneumatic bedrock rams to shore up collapsing cavern ceilings and anchor suspension cables across bottomless chasms.
-- **Fleet Command:** Coordinates the tactical deployment of exploratory convoys, ensuring that every sortie maintains sufficient fuel reserves, replacement drill heads, and structural bracing materials.
-- **Departmental Culture:** Pragmatic, grease-stained, and fiercely loyal. Engineers speak in mechanical jargon and measure survival in structural tolerances, hydraulic pressure ratios, and torque outputs.
-
-### Division III: Bureau of Deep Relic Recovery & Archaeology (심층 유물 인양부)
-The Bureau of Deep Relic Recovery is tasked with unearthing, cataloguing, and preserving the lost material culture of pre-cataclysm humanity buried beneath the city's foundations.
-- **Operational Methods:** Archaeologists work alongside engineering squads during excavations, using delicate ultrasonic chisels, micro-fiber brushes, and portable stasis envelopes to extract brittle paper diaries, ancient synthetic circuitry, and fossilized cultural relics from calcified mudstone.
-- **The Preservation Pipeline:** Recovered artifacts are sealed inside pressurized inert-gas containers at the dig site, transported up Shaft 00, and delivered to the high-security vaults of Level -500m for chemical stabilization and historical transcription.
-- **Departmental Culture:** Solemn, scholarly, and contemplative. Relic recovery specialists view themselves as mourners giving voice to forgotten generations whose lives were swallowed by the Cataclysm.
-
-### Division IV: Bureau of Frontier Vanguard & Wild Suppression (전위 탐사 수색대)
-The Bureau of Frontier Vanguard is the elite armed security and combat suppression branch of the SED. When an exploratory crawler breaches a sealed subterranean chamber, the Vanguard is the first squad through the airlock, weapons primed for hostile engagement.
-- **Operational Methods:** Vanguard wardens specialize in close-quarters combat within narrow, lightless tunnels. Equipped with heavy tower shields, pneumatic shock lances, and high-lumen resonance flares, they form impenetrable defensive phalanxes to protect unarmed cartographers and archaeologists from feral Sorrow Entities nesting in the deep strata.
-- **Wild Entity Interception:** Unlike the Reverie Directorate, which captures entities for extraction, the Vanguard focuses primarily on defensive deterrence, suppression, and area clearance. Hostile entities that cannot be bypassed or driven off are neutralized with extreme kinetic prejudice.
-- **Departmental Culture:** Disciplined, stoic, and hyper-vigilant. Vanguard operators are veteran soldiers who understand that a single hesitation in the dark means the death of the entire survey team.
-
-### Division V: Bureau of Chthonic Physiology & Acclimatization (지저 생리 연구부)
-The Bureau of Chthonic Physiology is the medical and psychological guardian of expeditionary personnel, dedicated to mitigating the devastating physical and mental toll of deep-depth operations.
-- **Operational Methods:** Physicians, toxicologists, and Weaver psychologists monitor the biological telemetry of deep crews in real time. They formulate specialized anti-calcification intravenous treatments, design pressurized hyperbaric suits, and manufacture the cranial silver tethers that prevent explorers' minds from fracturing under high-density sorrow pressure.
-- **Decompression Management:** Manages the decompression cycles of returning crews, ensuring that absorbed liquid sorrow and nitrogen do not crystallize within personnel's veins and nervous systems.
-- **Departmental Culture:** Clinical, empathetic, and protective. Acclimatization officers fight a continuous war against the creeping psychological decay that threatens every subterranean explorer.
-
-### Division VI: Bureau of Life-Ballast & Subterranean Logistics (심층 보급 평형국)
-The Bureau of Life-Ballast is responsible for the vital supply lines that keep exploratory teams breathing, nourished, and functional miles beneath the earth's surface.
-- **Operational Methods:** Logisticians calculate the precise thermodynamic, caloric, and chemical ballast required for every expedition. They oversee the production of synthetic oxygen canisters, pressurized nutrient paste rations, water recycling filters, and emergency ascent capsule deployment systems.
-- **Sub-Strata Supply Depots:** Manages the stocking and maintenance of automated survival shelters pre-positioned throughout the upper four strata, providing safe havens where stranded crews can await rescue.
-- **Departmental Culture:** Methodical, precise, and uncompromising. Logistics officers operate under the rule that a single miscalculated decimal point in oxygen consumption equates to murder.
-
----
-
-## Employee Hierarchy, Ranks & Departmental Distribution
-
-The rank structure of the Somnarak Exploration Decreed reflects its dual nature as an industrialized scientific institution and an expeditionary military force:
+The rank structure of the Somnarak Exploration Decree reflects its dual nature as an industrialized scientific institution and an expeditionary military force:
 
 ```text
 +==============================================+
@@ -352,7 +317,7 @@ The rank structure of the Somnarak Exploration Decreed reflects its dual nature 
 
 ---
 
-## The Bore Fleet & Heavy Subterranean Machinery
+## Section V: The Bore Fleet & Field Technology
 
 Survival within the crushing, lightless depths is impossible without specialized, hermetically sealed mechanical transport. The SED operates a formidable armada of subterranean craft and heavy machinery engineered specifically to withstand extreme barometric pressures, tectonic friction, and corrosive sorrow brine:
 
@@ -422,7 +387,7 @@ In addition to heavy vehicles, SED personnel rely upon specialized hand-held app
 
 ---
 
-## Subterranean Geology & Metaphysical Strata
+## Section VI: Sub-Strata Topography (The Seven Geological Layers)
 
 The subterranean expanse beneath Somnarak is not a uniform mass of dirt and rock. It is divided into seven distinct geological and metaphysical strata, each possessing unique physical compositions, environmental pressures, and sorrow concentrations:
 
@@ -485,45 +450,7 @@ The subterranean expanse beneath Somnarak is not a uniform mass of dirt and rock
 
 ---
 
-## Subterranean Survival Physics: Han-Pressure, Ballast & Meltdown
-
-Operating miles beneath the surface subjects the human body and mind to combined physical and metaphysical stresses found nowhere else on the planet:
-
-```text
-+==============================================+
-|       THE THREE STAGES OF CHTHONIC MELTDOWN  |
-+==============================================+
-| Breakdown Stage     | Primary Symptom Profile|
-+=====================+========================+
-| Stage 1: Echo Bleed | Auditory Whispers      |
-+---------------------+------------------------+
-| Stage 2: Desiccation| Emotional Numbness     |
-+---------------------+------------------------+
-| Stage 3: Basalt Calc| Tissue Crystallization |
-+==============================================+
-```
-
-### 1. Barometric Sorrow Pressure (한 기압 — Han Giap)
-In deep strata, atmospheric pressure is not merely a measure of air weight; it is amplified by the mass of accumulated human grief suspended in the bedrock. This dual pressure is measured in **Milibars of Han (mHb)**:
-- **Surface Level (0 to 100 mHb):** Baseline human tolerance; standard respirators sufficient.
-- **Moderate Depth (100 to 500 mHb):** Noticeable physical fatigue, mild acoustic ringing in ears, increased dream activity during sleep.
-- **Abyssal Depth (500 to 1,500 mHb):** Severe compression on chest cavity, spontaneous nosebleeds, psychic bleed from surrounding rock walls. Pressurized suits and cranial tethers mandatory.
-- **Supercritical Depth (1,500+ mHb):** Physical bone pain, rapid cognitive dissolution, and risk of immediate biological crystallization upon suit breach.
-
-### 2. The Three Stages of Subterranean Meltdown
-When an explorer's psychological fortitude fails under prolonged exposure to high-density sorrow, they undergo a distinct three-stage psychological breakdown known as **Chthonic Meltdown**:
-1. **Stage 1: Echo Bleed (공명 누출):** The explorer begins hearing the voices of deceased relatives or past expedition casualties whispering from the stone walls. They display hyper-vigilance, paranoia, and an obsessive reluctance to leave their post.
-2. **Stage 2: Emotional Desiccation (감정 건조):** The explorer ceases to feel fear, pain, or empathy. Their speech becomes flat, monotone, and clinical. They exhibit reckless disregard for physical safety, viewing cave-ins and entity attacks with complete apathy.
-3. **Stage 3: Basalt Calcification (현무암 석화):** The ultimate, terminal stage. The high ambient Han pressure breaches the subject's biological resonance boundary. Sweat and tears turn into calcified mineral crust, joints stiffen into rigid stone, and within hours, the explorer crystallizes into an immobile basalt effigy.
-
-### 3. Life-Ballast Engineering & Emergency Ascent Systems
-To prevent crews from succumbing to the depths, the Bureau of Life-Ballast enforces strict thermodynamic balance formulas:
-- **The Ballast Ratio:** For every hour spent below negative five hundred meters, an explorer must spend twenty minutes connected to the central life-ballast oxygen-scrubber, inhaling synthetic nitrogen-oxygen blends enriched with aerosolized lavender and chamomile oils to anchor cognitive memory.
-- **The Emergency Ascent Capsule:** In the event of a catastrophic hull breach or cavern collapse, the crew retreats into the crawler's reinforced escape capsule. Activating the emergency ballast purge fires solid-fuel kinetic booster rockets that drive the capsule upward along pre-drilled evacuation boreholes, returning survivors to Base Camp Alpha within ninety seconds.
-
----
-
-## The Core Vanguard Specialists (Deep Profiles)
+## Section VII: The Vanguard Specialists (Deep Personnel Files)
 
 While the SED employs over fourteen hundred sworn personnel, the legendary **Core Vanguard Squad** represents the apex of the corporation's exploration capability. Hand-selected for the classified Katabagil descent, these seven individuals embody the multidisciplinary mastery required to survive the deepest abyss:
 
@@ -607,7 +534,82 @@ While the SED employs over fourteen hundred sworn personnel, the legendary **Cor
 
 ---
 
-## Operational Context: The Katabagil Descent
+## Section VIII: Subterranean Survival Physics & Incident Logs
+
+Operating miles beneath the surface subjects the human body and mind to combined physical and metaphysical stresses found nowhere else on the planet:
+
+```text
++==============================================+
+|       THE THREE STAGES OF CHTHONIC MELTDOWN  |
++==============================================+
+| Breakdown Stage     | Primary Symptom Profile|
++=====================+========================+
+| Stage 1: Echo Bleed | Auditory Whispers      |
++---------------------+------------------------+
+| Stage 2: Desiccation| Emotional Numbness     |
++---------------------+------------------------+
+| Stage 3: Basalt Calc| Tissue Crystallization |
++==============================================+
+```
+
+### 1. Barometric Sorrow Pressure (한 기압 — Han Giap)
+In deep strata, atmospheric pressure is not merely a measure of air weight; it is amplified by the mass of accumulated human grief suspended in the bedrock. This dual pressure is measured in **Milibars of Han (mHb)**:
+- **Surface Level (0 to 100 mHb):** Baseline human tolerance; standard respirators sufficient.
+- **Moderate Depth (100 to 500 mHb):** Noticeable physical fatigue, mild acoustic ringing in ears, increased dream activity during sleep.
+- **Abyssal Depth (500 to 1,500 mHb):** Severe compression on chest cavity, spontaneous nosebleeds, psychic bleed from surrounding rock walls. Pressurized suits and cranial tethers mandatory.
+- **Supercritical Depth (1,500+ mHb):** Physical bone pain, rapid cognitive dissolution, and risk of immediate biological crystallization upon suit breach.
+
+### 2. The Three Stages of Subterranean Meltdown
+When an explorer's psychological fortitude fails under prolonged exposure to high-density sorrow, they undergo a distinct three-stage psychological breakdown known as **Chthonic Meltdown**:
+1. **Stage 1: Echo Bleed (공명 누출):** The explorer begins hearing the voices of deceased relatives or past expedition casualties whispering from the stone walls. They display hyper-vigilance, paranoia, and an obsessive reluctance to leave their post.
+2. **Stage 2: Emotional Desiccation (감정 건조):** The explorer ceases to feel fear, pain, or empathy. Their speech becomes flat, monotone, and clinical. They exhibit reckless disregard for physical safety, viewing cave-ins and entity attacks with complete apathy.
+3. **Stage 3: Basalt Calcification (현무암 석화):** The ultimate, terminal stage. The high ambient Han pressure breaches the subject's biological resonance boundary. Sweat and tears turn into calcified mineral crust, joints stiffen into rigid stone, and within hours, the explorer crystallizes into an immobile basalt effigy.
+
+### 3. Life-Ballast Engineering & Emergency Ascent Systems
+To prevent crews from succumbing to the depths, the Bureau of Life-Ballast enforces strict thermodynamic balance formulas:
+- **The Ballast Ratio:** For every hour spent below negative five hundred meters, an explorer must spend twenty minutes connected to the central life-ballast oxygen-scrubber, inhaling synthetic nitrogen-oxygen blends enriched with aerosolized lavender and chamomile oils to anchor cognitive memory.
+- **The Emergency Ascent Capsule:** In the event of a catastrophic hull breach or cavern collapse, the crew retreats into the crawler's reinforced escape capsule. Activating the emergency ballast purge fires solid-fuel kinetic booster rockets that drive the capsule upward along pre-drilled evacuation boreholes, returning survivors to Base Camp Alpha within ninety seconds.
+
+---
+
+### The Three Great Subterranean Catastrophes (Historical Logs)
+
+The archives of the SED contain detailed records of catastrophic failures that permanently reshaped expeditionary doctrine and safety protocols:
+
+```text
++==============================================+
+|       THE THREE GREAT HISTORICAL DISASTERS   |
++==============================================+
+| Disaster Code Name  | Depth & Stratum Impact |
++=====================+========================+
+| The Drowned Drill   | Depth -420m (Karst)    |
++---------------------+------------------------+
+| Calcified Brigade   | Depth -750m (Arteries) |
++---------------------+------------------------+
+| The Abyssal Silence | Depth -1800m (Rift)    |
++==============================================+
+```
+
+#### 1. The Drowned Drill of Expedition 17 (Year 2,412)
+While attempting to bore a primary drainage aqueduct beneath the Old Lament at a depth of negative four hundred and twenty meters, the steam crawler *Bore-V* punctured a pressurized subterranean aquifer containing supercritical liquid sorrow. Within ninety seconds, millions of liters of freezing, corrosive brine surged through the drill head under eighty atmospheres of pressure. 
+
+The liquid completely dissolved the crawler's reinforced copper seals and instantly drowned all fourteen crew members. The hyper-saturated emotional resonance of their sudden death bonded with the surrounding limestone caverns, creating a permanent acoustic anomaly known today as the Resonant Echo Sump. Ever since this disaster, SED doctrine mandates the use of ultrasonic pre-drilling sonic probes before any rotary drill bit penetrates unmapped rock faces.
+
+#### 2. The Calcified Brigade of Expedition 44 (Year 3,105)
+During a major stabilization operation in the Severed Artery Network at negative seven hundred and fifty meters, an eighty-man engineering battalion deployed to erect seismic support pillars encountered a sudden tectonic outgassing of high-density petrifying vapor. The vapor, a rare gaseous manifestation of calcified Grudge and Weight, interacted violently with the moisture in the miners' respirators and skin.
+
+Within less than three minutes, the entire battalion underwent instantaneous biological petrification. Their organic tissue was converted into solid basalt while retaining their exact physical forms, postures, and facial expressions of shock. Today, the sector remains preserved as the Hall of the Silent Watchers, where the eighty stone statues of the miners still serve as structural load-bearing pillars supporting the cavern ceiling.
+
+#### 3. The Abyssal Silence of Expedition 89 (Year 3,988)
+Expedition 89 represents the deepest reconnaissance sortie ever attempted by a conventional SED exploration fleet. Operating the experimental heavy chthonic crawler *Endeavor-IV*, an elite twelve-member team commanded by Captain Jin Min-Gyu successfully crossed the negative eighteen hundred-meter barrier into the upper reaches of the Occlusihan Rift. 
+
+For twelve days, the expedition transmitted continuous acoustic and barometric telemetry back to headquarters, documenting vast cyclopean megaliths constructed from non-reflective black glass that displayed no architectural resemblance to any human civilization. On the thirteenth day at 03:42 hours, the crawler's audio transceiver broadcast a single, unhurried transmission from Captain Jin: *"The stone is breathing, and it knows our names."* 
+
+Immediately following this sentence, all seismic, thermal, and radio telemetry flatlined simultaneously. A rescue operation launched six days later discovered the borehole intact, but found no trace of the crawler, its crew, or their equipment. To this day, Expedition 89 is classified as an Active Hazard Zone, and entry into the Rift requires Level 5 Executive clearance.
+
+---
+
+## Section IX: Operational Context: The Katabagil Descent
 
 While the SED conducts dozens of routine survey sorties every month to maintain municipal foundations, all institutional focus, resource allocation, and technological development are directed toward a single apex undertaking: **The Katabagil Descent** (심층 하강록 / The Seven Subterranean Descents).
 
@@ -642,7 +644,7 @@ The complete, turn-by-turn combat chronicles, narrative chapters, and tactical b
 
 ---
 
-## Inter-Corporate Treaties & Demarcation Protocols
+## Section X: Inter-Corporate Treaties & Demarcation Protocols
 
 The survival of Somnarak depends upon the flawless coordination of its three major corporate powers. To prevent jurisdictional conflict and ensure public safety, the SED operates under three permanent inter-corporate treaties ratified by the High Council of Sighs:
 
@@ -663,7 +665,7 @@ The survival of Somnarak depends upon the flawless coordination of its three maj
 ```
 
 ### 1. The -50 Meter Demarcation Treaty (With UCD)
-The jurisdictional boundary between the Underworld Cleanup Descend and the Somnarak Exploration Decreed is fixed at exactly negative fifty meters depth beneath the municipal street grid:
+The jurisdictional boundary between the Underworld Cleanup Descend and the Somnarak Exploration Decree is fixed at exactly negative fifty meters depth beneath the municipal street grid:
 - **Civil Pursuit Limits:** When UCD tactical squads pursue criminal syndicates into subterranean utility tunnels, their legal jurisdiction terminates at -50m. If suspects flee deeper than this threshold, pursuit commands are transferred immediately to SED Vanguard patrols.
 - **Joint Pursuit Protocol 09:** In cases of severe municipal containment breaches where an entity escapes from the surface into the deep strata, joint task forces comprising four UCD breach officers and four SED vanguard scouts are authorized to operate under joint command down to negative two hundred meters.
 

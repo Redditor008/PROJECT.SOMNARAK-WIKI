@@ -77,6 +77,6 @@ The narrative of the SED is structured across seven continuous volumes:
 
 ## III. Institutional & Master Codices Alignment
 
-- **Company Dossier:** `SOMNARAK-WORLD/Master_Codices/The_SOMNARAK_EXPLORATION_DECREED.md`
+- **Company Dossier:** `SOMNARAK-WORLD/Master_Codices/The_SOMNARAK_EXPLORATION_DECREE.md`
 - **Monolithic Master Story:** `SOMNARAK-WORLD/Master_Codices/SOMNARAK_SED_PASSAGES.md`
 - **Field Guidebook:** `SOMNARAK-WORLD/The_SED/SED_OVERVIEW.md`

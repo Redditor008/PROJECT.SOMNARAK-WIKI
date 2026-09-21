@@ -7,7 +7,7 @@
 
 **Operation Name:** The SED Descents (탐사 통로 원정)  
 **Operational Force:** Somnarak Exploration Decreed (SED Core Expedition Team)  
-**Company Profile & Doctrine:** `The_SOMNARAK_EXPLORATION_DECREED.md`  
+**Company Profile & Doctrine:** `The_SOMNARAK_EXPLORATION_DECREE.md`  
 **Narrative Setting:** The Undercity, Forgotten Districts, Hidden Routes, Deep Gardens, Border Tunnels, The Scar, and The Source  
 
 ---

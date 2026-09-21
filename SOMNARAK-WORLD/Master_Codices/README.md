@@ -63,7 +63,7 @@ The repository root houses the two official primary cartographic and architectur
 - `The_REVERIE_DIRECTORATE.md` (3,073 lines): Subterranean Facility 01 ("The Hand of Change") corporate dossier, 8 operational subterranean floors, 9 Echo-Core roles, and departmental missions.
 - `SOMNARAK_ABSOLOVHAN.md` (4,828 lines): The Absolvohan 366-day facility gameplay and narrative master chronicle (paired with dedicated `SOMNARAK-WORLD/The_Absolvohan/` volume collection).
 - `ABSOLOVHAN_OVERVIEW.md`: The definitive non-story operational guidebook and systemic mechanics codex for the Absolvohan facility.
-- `The_SOMNARAK_EXPLORATION_DECREED.md`: The SED corporate dossier, three-tier subterranean exploration doctrine, specialized survey gear, and expedition specialist profiles.
+- `The_SOMNARAK_EXPLORATION_DECREE.md`: The SED corporate dossier, three-tier subterranean exploration doctrine, specialized survey gear, and expedition specialist profiles.
 - `SOMNARAK_SED_PASSAGES.md`: The SED Seven Subterranean Descents gameplay & story master chronicle (paired with dedicated `SOMNARAK-WORLD/The_SED/` volume collection).
 - `The_UNDERWORLD_CLEANUP_DESCEND.md`: The UCD corporate dossier, three-phase reclamation doctrine, pacification armaments, and joint task force profiles.
 - `SOMNARAK_UCD_PACIFICATION.md`: The UCD Six Underworld Pacification Sweeps gameplay & story master chronicle (paired with dedicated `SOMNARAK-WORLD/The_UCD/` volume collection).

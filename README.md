@@ -93,7 +93,7 @@ The foundational source texts located in `SOMNARAK-WORLD/Master_Codices/` establ
 | `PROJECT_SOMNARAK.md` | Master Worldbuilding Core (5,502 lines) | The Grand Cosmology, 5 Layers, The Maw, The Weeping, Universal Laws |
 | `The_REVERIE_DIRECTORATE.md` | Facility 01 Corporate Dossier (3,073 lines) | Subterranean Facility 01, 8 Floors, 9 Echo-Core attendants, containment systems |
 | `SOMNARAK_ABSOLOVHAN.md` | Absolvohan 366-Day Master Story & Gameplay | Resonant Clash, Day 0 to Day 365, Critical Threshold, the Hand of Hope |
-| `The_SOMNARAK_EXPLORATION_DECREED.md` | SED Corporate Dossier | Three-tier subterranean descent doctrine, specialized survey gear, 7-member explorer cadre |
+| `The_SOMNARAK_EXPLORATION_DECREE.md` | SED Corporate Dossier | Three-tier subterranean descent doctrine, specialized survey gear, 7-member explorer cadre |
 | `SOMNARAK_SED_PASSAGES.md` | SED Seven Descents Master Story & Gameplay | Passages 1–7: The Undercity, Forgotten Districts, Hidden Routes, Deep Gardens, Scar, Source |
 | `The_UNDERWORLD_CLEANUP_DESCEND.md` | UCD Corporate Dossier | Three-phase reclamation doctrine, urban pacification weaponry, 6-officer task force cadre |
 | `SOMNARAK_UCD_PACIFICATION.md` | UCD Six Pacifications Master Story & Gameplay | Operations 1–6: Veil Merchants, Memory Washers, Harvesters, Debt Brokers, Entity Traders, King |
