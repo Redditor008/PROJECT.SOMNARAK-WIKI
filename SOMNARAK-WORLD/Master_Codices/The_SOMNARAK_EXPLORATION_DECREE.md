@@ -1,23 +1,15 @@
 # THE SOMNARAK EXPLORATION DECREE — Corporate Dossier & Chthonic Manual
 ## Frontier Reconnaissance, Subterranean Engineering & Deep Strata Doctrine
 
-```text
-+==============================================+
-|       SOMNARAK EXPLORATION DECREE (SED)      |
-+==============================================+
-| Corporate Code       | SED-CORP-M042         |
-+----------------------+-----------------------+
-| Korean Authority     | Exploration Decree    |
-+----------------------+-----------------------+
-| Executive Mandate    | Council Mandate 042   |
-+----------------------+-----------------------+
-| Operational Domain   | Depth -50m to Nadir   |
-+----------------------+-----------------------+
-| Headquarters Base    | The Chthonic Citadel  |
-+----------------------+-----------------------+
-| Active Personnel     | 1,460 Sworn Members   |
-+======================+=======================+
-```
+| Institutional Attribute | Official Corporate Specification |
+|---|---|
+| **Corporate Code** | SED-CORP-M042 |
+| **Korean Authority** | 탐사 집행국 (Tamsa Jiphaengguk) |
+| **Executive Mandate** | High Council of Sighs Mandate 042 |
+| **Operational Domain** | Negative 50 Meters to Primordial Nadir |
+| **Headquarters Complex** | The Chthonic Citadel (Zone B / Eastern Maw Rim) |
+| **Active Personnel** | 1,460 Sworn Expeditionary & Engineering Members |
+| **Associated Chronicle** | `SOMNARAK_SED_PASSAGES.md` (Katabagil Arcs 1–7) |
 
 > *"The city is forty-two centuries old. We have mapped every street, numbered every building, and taxed every doorway. Yet we walk upon a hollow crust, terrified of the silence beneath our boots. The exploration of the underworld is not an ambition; it is an existential necessity. If we do not chart the sorrow gathering in the deep strata, the ground will swallow us whole."*  
 > — High Commissioner Baek Seung-Hyun, Address to the Council of Sighs, Year 4,180
@@ -40,19 +32,11 @@ The SED serves as the vanguard against the darkness beneath. It is not a passive
 
 To understand the operational doctrine of the SED, one must distinguish its mission from the other two supreme corporate entities operating within Somnarak:
 
-```text
-+==============================================+
-|       THE THREE CORPORATIONS COMPARISON      |
-+==============================================+
-| Institution | Primary Focus     | Domain     |
-+=============+===================+============+
-| R.D.        | Contain & Extract | Facility 01|
-+-------------+-------------------+------------+
-| UCD         | Urban Law Enforce | 0 to -50m  |
-+-------------+-------------------+------------+
-| SED         | Sub-Strata Survey | Below -50m |
-+==============================================+
-```
+| Institution | Primary Focus | Operational Domain | Key Leadership |
+|---|---|---|---|
+| **Reverie Directorate (R.D.)** | Static Containment & Energetic Extraction | Facility 01 (0m to -2,000m beneath Alpha Tree) | Director Majin & Secretary Seiyon |
+| **Underworld Cleanup Descend (UCD)** | Urban Anti-Fray Pacification & Police Interdiction | Zones B, C, D (0m to -50m subterranean slums) | Commander Taeho & Auditor Yuna |
+| **Somnarak Exploration Decree (SED)** | Sub-Strata Cartography & Abyssal Frontier Descents | Planetary Bedrock (-50m to Primordial Nadir) | High Commissioner & Core Vanguard Cadre |
 
 1. **The Reverie Directorate (R.D. / 몽환집행국):**
    The Reverie Directorate is an internal, static containment and energetic extraction corporation. Anchored inside Subterranean Facility 01 beneath the roots of the Alpha Tree, the Directorate focuses on the safe containment of catalogued Sorrow Entities, the industrial extraction of M.A.W. equipment, and the generation of refined Han-energy required to power municipal infrastructure. The R.D. operates within controlled, reinforced laboratory and containment chambers, treating sorrow as a harvestable energetic resource.
@@ -69,19 +53,11 @@ To understand the operational doctrine of the SED, one must distinguish its miss
 
 The history of subterranean exploration beneath Somnarak is a chronicle written in stone, brine, and blood. Spanning more than four millennia since the Year Zero cataclysm, the SED's organizational identity has evolved across three distinct historical epochs:
 
-```text
-+==============================================+
-|       FOUR-MILLENNIA EXPLORATION EPOCHS      |
-+==============================================+
-| Historical Epoch    | Operational Paradigm   |
-+=====================+========================+
-| The Blind Shafts    | Manual Bronze Mining   |
-+---------------------+------------------------+
-| Mechanized Bore Era | Steam Drills & Sump Dam|
-+---------------------+------------------------+
-| Chthonic Vanguard   | Crawler Fleet & Radar  |
-+==============================================+
-```
+| Historical Epoch | Timeframe | Operational Paradigm | Defining Engineering Milestone |
+|---|---|---|---|
+| **The Era of Blind Shafts** | Years 1,210 – 2,100 | Manual Bronze Mining & Sump Drainage | Construction of Zone B Great Sump Culvert |
+| **The Mechanized Bore Age** | Years 2,100 – 3,600 | Steam Drills & Subterranean Sump Dams | Rotary Han-Steam Drill & Doha Retaining Wall |
+| **The Chthonic Vanguard Era**| Years 3,600 – Present | Crawler Fleet & Ground Sonar Radar | Chthonic Dredger Armada & Acoustic Topography |
 
 #### Epoch I: The Era of Blind Shafts (Years 1,210 – 2,100)
 In the centuries following the Consolihan, early municipal authorities treated the subterranean expanse purely as a dumping ground and drainage ditch. As the surface population exploded, untreated emotional runoff began condensing in basements and sewer reservoirs, creating pockets of toxic brine that corroded building foundations. 
@@ -110,25 +86,14 @@ The corporation established permanent deep-staging depots at critical geological
 
 The organizational machinery of the Somnarak Exploration Decree is structured across six specialized operational divisions, each responsible for a vital component of subterranean survival, cartography, and resource recovery:
 
-```text
-+==============================================+
-|       THE SIX OPERATIONAL DIVISIONS          |
-+==============================================+
-| Division Code       | Departmental Mandate   |
-+=====================+========================+
-| Division I          | Cartography & Topology |
-+---------------------+------------------------+
-| Division II         | Engineering & Bore Flt |
-+---------------------+------------------------+
-| Division III        | Relic Recovery & Archeo|
-+---------------------+------------------------+
-| Division IV         | Vanguard & Suppression |
-+---------------------+------------------------+
-| Division V          | Chthonic Physiology    |
-+---------------------+------------------------+
-| Division VI         | Logistics & Ballast    |
-+==============================================+
-```
+| Division Code | Bureau Title | Departmental Mandate | Primary Operational Asset |
+|---|---|---|---|
+| **Division I** | Bureau of Cartography & Acoustic Topology | Subterranean Labyrinth Mapping & Fault Tracking | The Sub-Strata Atlas & Sonar Theodolites |
+| **Division II** | Bureau of Chthonic Engineering & Bore Fleet | Heavy Drilling, Vehicle Maintenance & Shoring | Chthonic Crawlers & Pneumatic Bedrock Rams |
+| **Division III**| Bureau of Deep Relic Recovery & Archaeology | Pre-Cataclysm Excavation & Historic Preservation| Cryogenic Stasis Envelopes & Scribe Tablets |
+| **Division IV** | Bureau of Frontier Vanguard & Wild Suppression | Close-Quarters Tunnel Combat & Entity Clearance | Tungsten-Basalt Tower Shields & Shock Lances |
+| **Division V**  | Bureau of Chthonic Physiology & Acclimatization | Decompression Protocols & Cognitive Anchoring | Hyperbaric Han Flushing & Silver Cranial Tethers |
+| **Division VI** | Bureau of Life-Ballast & Subterranean Logistics | Atmospheric Synthesis & Emergency Evacuation | Pressurized Supply Casks & Ascent Escape Pods |
 
 ### Division I: Bureau of Cartography & Acoustic Topology (측량도면국)
 The Bureau of Cartography is the intellectual brain of the SED. Its primary mandate is the absolute mapping of the shifting, living labyrinth beneath Somnarak. Because the subterranean bedrock is not static—drifting, warping, and expanding under the thermodynamic pressure of accumulated sorrow—maps drawn five years ago are frequently lethal deathtraps today.
@@ -175,23 +140,30 @@ The headquarters of the Somnarak Exploration Decree is a monumental architectura
 This location provides the SED with direct, uninterrupted vertical access to the deepest geological faults of the city while maintaining heavy freight rail connections to the surface manufacturing wards.
 
 ```text
-+==============================================+
-|       CHTHONIC CITADEL VERTICAL PROFILE      |
-+==============================================+
-| LEVEL & SECTOR      | PRIMARY ARCHITECTURE   |
-+=====================+========================+
-| Zenith Needle (0m)  | High Commission & Maps |
-+---------------------+------------------------+
-| Level -50m Hub      | Inter-Agency Air Gate  |
-+---------------------+------------------------+
-| Level -200m Docks   | Bore Fleet Shipyards   |
-+---------------------+------------------------+
-| Level -500m Core    | Seismology & Vaults    |
-+---------------------+------------------------+
-| Level -800m Tanks   | Acclimatization Center |
-+---------------------+------------------------+
-| Level -1200m Fort   | Base Camp Alpha Bastion|
-+==============================================+
++==================+===========================+
+| SECTOR DIVISION  | LEVELS & ARCHITECTURAL USE|
++==================+===========================+
+|                  | Zenith Needle (0 to +180m)|
+| SURFACE NEXUS    | High Commission Suites    |
+|                  +---------------------------+
+| (0m to +180m)    | Cartography Planetarium   |
+|                  | 40m Acoustic 3D Projection|
++------------------+---------------------------+
+|                  | Level -50m: Transit Hub   |
+| SHALLOW STRATA   | UCD Demarcation Gate      |
+|                  +---------------------------+
+| (-50m to -500m)  | Level -200m: Sub-Docks    |
+|                  | Bore Fleet Shipyards      |
+|                  +---------------------------+
+|                  | Level -500m: Seismology   |
+|                  | Deep Pre-Collapse Vaults  |
++------------------+---------------------------+
+|                  | Level -800m: Tanks        |
+| ABYSSAL FRONTIER | Hyperbaric Decompression  |
+|                  +---------------------------+
+| (-800m to -1200m)| Level -1200m: Bastion     |
+|                  | Base Camp Alpha Launch Pad|
++==================+===========================+
 ```
 
 ### 1. Surface Level: The Zenith Needle (천단 첨탑 — 0 to +180m)
@@ -240,25 +212,14 @@ Anchored into the volcanic basalt cliff face overlooking the abyssal chasms of t
 
 The rank structure of the Somnarak Exploration Decree reflects its dual nature as an industrialized scientific institution and an expeditionary military force:
 
-```text
-+==============================================+
-|       SED HIERARCHICAL RANK PROGRESSION      |
-+==============================================+
-| Rank Title          | Minimum Experience     |
-+=====================+========================+
-| Surface Apprentice  | Entry Level Induction  |
-+---------------------+------------------------+
-| Field Scout         | 2 Years Sub-Strata Svc |
-+---------------------+------------------------+
-| Senior Cartographer | 5 Years Deep Operation |
-+---------------------+------------------------+
-| Bore Captain        | 10 Years Fleet Service |
-+---------------------+------------------------+
-| Expedition Marshal  | 15 Years Command Rec   |
-+---------------------+------------------------+
-| High Commissioner   | Supreme Council Appt   |
-+==============================================+
-```
+| Rank Grade | Korean Title | Minimum Tenure | Core Responsibilities | Attribute Minimums |
+|---|---|---|---|---|
+| **Rank 1: Surface Apprentice** | 지상 수습원 | Induction | Surface logistics, tool maintenance, sonar data entry | Resilience 25+, Agility 20+ |
+| **Rank 2: Field Scout** | 현장 수색원 | 2 Years | Strata 1–2 drilling, acoustic markers, basic vehicle repairs | Resilience 40+, Agility 35+ |
+| **Rank 3: Senior Cartographer** | 선임 측량사 | 5 Years | Strata 3–4 sonar interpretation, squad defense, abort authority | Resilience 55+, Instinct 50+ |
+| **Rank 4: Bore Captain** | 천공 함장 | 10 Years | Heavy crawler command, deep multi-week sorties, combat clearance | Resilience 70+, Fortitude 65+ |
+| **Rank 5: Expedition Marshal** | 원정 제독 | 15 Years | Sector fleet command, Base Camp Alpha direction, inter-agency policy| Resilience 85+, Wisdom 75+ |
+| **Executive: High Commissioner**| 탐사 총감 | Council Seat | Corporate supreme leadership, Council Mandate 042 enforcement | Executive Council Mandate |
 
 ### 1. Rank 1: Surface Apprentice (지상 수습원 — Jisang Suseupwon)
 - **Role:** Entry-level trainees assigned to surface logistics, equipment maintenance, and data entry within the Zenith Needle and Level -200m dry docks.
@@ -293,27 +254,15 @@ The rank structure of the Somnarak Exploration Decree reflects its dual nature a
 
 ### Personnel Distribution Across Divisions
 
-```text
-+==============================================+
-|       SED PERSONNEL WORKFORCE CENSUS         |
-+==============================================+
-| Division Name       | Active Sworn Personnel |
-+=====================+========================+
-| I. Cartography      | 240 Topographers       |
-+---------------------+------------------------+
-| II. Chthonic Eng.   | 480 Mechanics & Pilots |
-+---------------------+------------------------+
-| III. Relic Recovery | 160 Archaeologists     |
-+---------------------+------------------------+
-| IV. Vanguard Guard  | 280 Armed Sentries     |
-+---------------------+------------------------+
-| V. Physiology       | 120 Medical Staff      |
-+---------------------+------------------------+
-| VI. Logistics       | 180 Ballast Officers   |
-+=====================+========================+
-| Total Sworn Fleet   | 1,460 Sworn Members    |
-+==============================================+
-```
+| Operational Division | Sworn Personnel | Field Deployment Distribution | Primary Station |
+|---|---|---|---|
+| **Division I: Cartography & Topology** | 240 Topographers | 80 Field Navigators, 160 Cartography Dome Analysts | Zenith Needle Planetarium & Deep Fleets |
+| **Division II: Engineering & Bore Fleet** | 480 Mechanics & Pilots | 320 Crawler Crewmen, 160 Shipyard Technicians | Level -200m Sub-Docks & Field Crawlers |
+| **Division III: Relic Recovery & Archaeology** | 160 Archaeologists | 90 Deep Excavators, 70 Vault Conservators | Level -500m Pre-Consolihan Vaults |
+| **Division IV: Frontier Vanguard Guard** | 280 Armed Sentries | 220 Tunnel Phalanx Operators, 60 Base Alpha Guards | Base Camp Alpha & Frontline Airlocks |
+| **Division V: Chthonic Physiology** | 120 Medical Staff | 50 Deep Field Doctors, 70 Hyperbaric Specialists | Level -800m Acclimatization Center |
+| **Division VI: Life-Ballast Logistics** | 180 Ballast Officers | 70 Convoy Supply Quartermasters, 110 Surface Logisticians | Surface Terminals & Sub-Strata Depots |
+| **Total Active Sworn Workforce** | **1,460 Sworn Members** | **830 Subterranean Deployed, 630 Headquarters Stationed** | **The Chthonic Citadel Complex** |
 
 ---
 
@@ -321,19 +270,11 @@ The rank structure of the Somnarak Exploration Decree reflects its dual nature a
 
 Survival within the crushing, lightless depths is impossible without specialized, hermetically sealed mechanical transport. The SED operates a formidable armada of subterranean craft and heavy machinery engineered specifically to withstand extreme barometric pressures, tectonic friction, and corrosive sorrow brine:
 
-```text
-+==============================================+
-|       THE CHTHONIC BORE FLEET SPECIFICATION  |
-+==============================================+
-| Vessel Class        | Operational Role       |
-+=====================+========================+
-| Class-I Scout Probe | High-Speed Sonar Relay |
-+---------------------+------------------------+
-| Class-II Crawler    | Armored Survey Base    |
-+---------------------+------------------------+
-| Class-III Dreadnght | Abyssal Flagship       |
-+==============================================+
-```
+| Vessel Classification | Codename & Title | Dimensions & Complement | Primary Propulsion & Armor | Operational Stratum Rating |
+|---|---|---|---|---|
+| **Class-I Scout Probe** | *The Chthonic Needle* | 12m × 3m (3 Specialists) | Articulated Micro-Treads, Basalt Composite | Surface to -800m (Strata 1–3) |
+| **Class-II Heavy Crawler**| *The Iron Mole* | 36m × 9m × 7m (12–16 Crew) | 5m Diamond Rotary Bore, Backfill Brick Press | Surface to -1,200m (Strata 1–4)|
+| **Class-III Dreadnought** | *The Sub-Tectonic Ark* | 110m × 28m × 22m (65 Crew) | Triple Leaded Acoustic Gel Hull, Resonance Vats| Down to -2,200m (Strata 1–6)|
 
 ### 1. Class-I Scout Probe: "The Chthonic Needle" (지저 바늘 — Chthonic Needle)
 - **Dimensions & Crew:** Length 12 meters, width 3 meters. Crew: 3 specialists (Pilot, Sonar Tech, Vanguard Scout).
@@ -356,23 +297,13 @@ Survival within the crushing, lightless depths is impossible without specialized
 
 In addition to heavy vehicles, SED personnel rely upon specialized hand-held apparatuses engineered to detect hazards and anchor reality in deep strata:
 
-```text
-+==============================================+
-|       SED SPECIALIZED FIELD INSTRUMENTS      |
-+==============================================+
-| Apparatus Name      | Primary Functional Use |
-+=====================+========================+
-| The Horizon Lens    | Sonar Fault Imaging    |
-+---------------------+------------------------+
-| Pneumatic Bedrock   | Rapid Anchor Winch     |
-+---------------------+------------------------+
-| Resonance Flares    | Blinding Entity Flash  |
-+---------------------+------------------------+
-| Void-Barometer      | Ambient Grief Alarm    |
-+---------------------+------------------------+
-| Silver Cranial Line | Mental Sanity Tether   |
-+==============================================+
-```
+| Field Apparatus Name | Technical Classification | Engineering Principle | Primary Operational Purpose |
+|---|---|---|---|
+| **The Horizon Lens** | Optical Quartz Visor | Han-brine optical filtering | Sonar wireframe acoustic imaging in zero light |
+| **Basalt Pneumatic Anchor**| Shoulder-Fired Piston Winch| Pressurized CO2 expanding barbs| Bedrock vehicle anchoring & cliffline descent |
+| **Resonance Flares** | Chemical-Acoustic Torch | 5,000-lumen flame & 22 kHz pulse| Entity blinding & multi-mile dust signaling |
+| **The Void-Barometer** | Hermetic Grief Sensor | Supercritical pale sorrow droplet | Atmospheric sorrow pressure spike alarm |
+| **Cranial Silver Tether**| Braided Neural Shunt | Silver-fiber brainwave alignment | Prevents psychic hallucination & Meltdown |
 
 1. **The Horizon Lens (지평선 렌즈 — Jipyeongseon Renjeu):**
    - *Technical Specification:* A complex brass and crystallized quartz optical apparatus mounted to the surveyor's visor. By filtering ambient light through an energized solution of refined Han-brine, the lens allows the user to visually perceive acoustic resonance waves bouncing off subterranean walls, transforming absolute darkness into a luminous topographical wireframe map.
@@ -392,26 +323,41 @@ In addition to heavy vehicles, SED personnel rely upon specialized hand-held app
 The subterranean expanse beneath Somnarak is not a uniform mass of dirt and rock. It is divided into seven distinct geological and metaphysical strata, each possessing unique physical compositions, environmental pressures, and sorrow concentrations:
 
 ```text
-+==============================================+
-|       THE SEVEN GEOLOGICAL SUB-STRATA        |
-+==============================================+
-| Stratum Layer       | Depth & Composition    |
-+=====================+========================+
-| 1. Karst Foundations| 0 to -150m (Sewers)    |
-+---------------------+------------------------+
-| 2. Calcified Ruins  | -150 to -450m (Stone)  |
-+---------------------+------------------------+
-| 3. Severed Arteries | -450 to -800m (Faults) |
-+---------------------+------------------------+
-| 4. Dream Root Bed   | -800 to -1200m (Roots) |
-+---------------------+------------------------+
-| 5. Perimeter Footing| -1200 to -1600m (Base) |
-+---------------------+------------------------+
-| 6. Occlusihan Rift  | -1600 to -2200m (Chasm)|
-+---------------------+------------------------+
-| 7. Primordial Nadir | -2200m to Core (Origin)|
-+==============================================+
++==================+===========================+
+| ZONE CATEGORY    | STRATA & KEY FUNCTIONS    |
++==================+===========================+
+|                  | Strata 1: Sub-Karst       |
+| UPPER BEDROCK    | Sewers & Old Foundations  |
+|                  +---------------------------+
+| (0 to -450m)     | Strata 2: Necropolis      |
+|                  | Calcified Wards & Ruins   |
++------------------+---------------------------+
+|                  | Strata 3: Severed Arteries|
+| MIDDLE CHASM     | Fissures & Gravity Faults |
+|                  +---------------------------+
+| (-450 to -1200m) | Strata 4: Dream Root Bed  |
+|                  | Ethereal Flora & Aquifers |
++------------------+---------------------------+
+|                  | Strata 5: Bulwark Footing |
+| LOWER ABYSS      | Deep Granite & Oehan Seep |
+|                  +---------------------------+
+| (-1200 to Nadir) | Strata 6: Occlusihan Rift |
+|                  | Obsidian Chasm & Apex SE  |
+|                  +---------------------------+
+|                  | Strata 7: Primordial Nadir|
+|                  | Subterranean Mugenhan Core|
++==================+===========================+
 ```
+
+| Stratum Layer | Depth Interval | Geological Composition | Primary Environmental Hazards | Key Operational Focus |
+|---|---|---|---|---|
+| **Strata 1: Sub-Municipal Karst** | 0m to -150m | Porous limestone, sewers, ferro-concrete pilings | Cavern sinkholes, methane pockets, feral vermin | Civil foundation shoring & drain maintenance |
+| **Strata 2: Calcified Necropolis**| -150m to -450m | Sedimentary mudstone, petrified pre-collapse wards| Calcified stalactites, glass dust, weeping bleed | Archaeological recovery & diary preservation |
+| **Strata 3: Severed Arteries** | -450m to -800m | Fractured volcanic basalt, smuggler conduits | Gravity fault pockets, sulfurous Han-gas vents | Route reclamation & Fray ambush defense |
+| **Strata 4: Ethereal Root Bed** | -800m to -1,200m| Alpha Tree roots, bioluminescent fungus strata | Psychic bleeding, waking dreams, time distortion | Weaver acoustic tuning & aquifer survey |
+| **Strata 5: Perimeter Footing** | -1,200m to -1,600m| Megalithic granite blocks supporting outer wall | 100+ atmospheres pressure, Outside Grief seeps | Structural bedrock anchor reinforcement |
+| **Strata 6: Occlusihan Rift** | -1,600m to -2,200m| Vitrified black obsidian, dark crystal fractures | Supercritical sorrow tides, seismic earthquakes | Dreadnought fleet reconnaissance & apex study |
+| **Strata 7: Primordial Nadir** | -2,200m to Nadir | Subterranean mantle of raw liquid sorrow | Total physical and psychic consciousness rupture| Katabagil apex descent target domain |
 
 ### Strata 1: Sub-Municipal Karst (0m to -150m)
 - **Geological Composition:** Porous limestone caverns, industrial ferro-concrete pilings, ancient sewer aqueducts, and municipal runoff cisterns.
@@ -454,27 +400,15 @@ The subterranean expanse beneath Somnarak is not a uniform mass of dirt and rock
 
 While the SED employs over fourteen hundred sworn personnel, the legendary **Core Vanguard Squad** represents the apex of the corporation's exploration capability. Hand-selected for the classified Katabagil descent, these seven individuals embody the multidisciplinary mastery required to survive the deepest abyss:
 
-```text
-+==============================================+
-|       THE SEVEN VANGUARD SPECIALISTS         |
-+==============================================+
-| Specialist Name     | Functional Title       |
-+=====================+========================+
-| Yeonhwa             | Expedition Commander   |
-+---------------------+------------------------+
-| Doha                | Master Architect       |
-+---------------------+------------------------+
-| Harin               | Low Vanguard Sentinel  |
-+---------------------+------------------------+
-| Sora                | Dreamer Weaver Lead    |
-+---------------------+------------------------+
-| Minjae              | Year Zero Archivist    |
-+---------------------+------------------------+
-| Jisoo               | Life-Ballast Ledger    |
-+---------------------+------------------------+
-| The Silent One      | Before-Time Relic Bear |
-+==============================================+
-```
+| Specialist Name | Tactical Title | Specialization | Signature Equipment | Defining Trauma |
+|---|---|---|---|---|
+| **Yeonhwa** | The Eyeless Compass | Expedition Commander & Navigator | *The Horizon Theodolite* | Blinded in 31-day dark Maw flood |
+| **Doha** | The Ancient Architect | Bedrock Shoring & Heavy Masonry | *The Calcified Pneumatic Ram* | Guilt over ancestors' sealed retaining walls |
+| **Harin** | Shield of the Low | Perimeter Defense & Vanguard Tank | *The Bastion of the Low* (Shield) | Outcast Warden whose squad died holding line |
+| **Sora** | The Dreamer Weaver | Ethereal Perception & De-escalation | *The Silver Slumber Cowl* | Neurological tether to the Dream Realm |
+| **Minjae** | Scribe of Year Zero | Memory Recovery & Inscriptions | *The Cryo-Resonance Scribe* | Exiled Keeper targeted for history preservation |
+| **Jisoo** | Ratio of Survival | Ballast Logistics & Consumables | *The Hydraulic Ballast Ledger* | Survivor of Zone C bureaucratic supply famine |
+| **The Silent One** | Relic Bearer | Hazardous Relics & Black-Box Scout | *The Severed Relic Cleaver* | Mute drifter with innate Han immunity |
 
 ### 1. Cartographer Yeonhwa (연화 — The Eyeless Compass)
 - **Role:** Expedition Commander & Chief Topographer.
@@ -538,19 +472,11 @@ While the SED employs over fourteen hundred sworn personnel, the legendary **Cor
 
 Operating miles beneath the surface subjects the human body and mind to combined physical and metaphysical stresses found nowhere else on the planet:
 
-```text
-+==============================================+
-|       THE THREE STAGES OF CHTHONIC MELTDOWN  |
-+==============================================+
-| Breakdown Stage     | Primary Symptom Profile|
-+=====================+========================+
-| Stage 1: Echo Bleed | Auditory Whispers      |
-+---------------------+------------------------+
-| Stage 2: Desiccation| Emotional Numbness     |
-+---------------------+------------------------+
-| Stage 3: Basalt Calc| Tissue Crystallization |
-+==============================================+
-```
+| Meltdown Stage | Diagnostic Title | Dominant Symptom Profile | Physiological & Cognitive Damage | Recommended Countermeasure |
+|---|---|---|---|---|
+| **Stage 1** | Echo Bleed (공명 누출) | Auditory whispering from stone | Mild paranoia, insomnia, hyper-vigilance | 20-min lavender oxygen scrub |
+| **Stage 2** | Emotional Desiccation (감정 건조)| Complete affective flattening | Zero fear or pain response, suicidal apathy | Cranial silver tether shunt |
+| **Stage 3** | Basalt Calcification (현무암 석화)| Biological mineral crystallization | Sweat and tears petrify, joints turn to stone | Emergency ascent capsule purge |
 
 ### 1. Barometric Sorrow Pressure (한 기압 — Han Giap)
 In deep strata, atmospheric pressure is not merely a measure of air weight; it is amplified by the mass of accumulated human grief suspended in the bedrock. This dual pressure is measured in **Milibars of Han (mHb)**:
@@ -576,19 +502,11 @@ To prevent crews from succumbing to the depths, the Bureau of Life-Ballast enfor
 
 The archives of the SED contain detailed records of catastrophic failures that permanently reshaped expeditionary doctrine and safety protocols:
 
-```text
-+==============================================+
-|       THE THREE GREAT HISTORICAL DISASTERS   |
-+==============================================+
-| Disaster Code Name  | Depth & Stratum Impact |
-+=====================+========================+
-| The Drowned Drill   | Depth -420m (Karst)    |
-+---------------------+------------------------+
-| Calcified Brigade   | Depth -750m (Arteries) |
-+---------------------+------------------------+
-| The Abyssal Silence | Depth -1800m (Rift)    |
-+==============================================+
-```
+| Historical Disaster | Year Recorded | Depth & Stratum | Primary Catalyst | Casualties & Legacy Impact |
+|---|---|---|---|---|
+| **The Drowned Drill** | Year 2,412 | -420m (Karst Aquifer) | Pressurized sorrow aquifer puncture | 14 crew drowned; ultrasonic pre-drilling mandated |
+| **The Calcified Brigade**| Year 3,105 | -750m (Severed Arteries) | Tectonic petrifying vapor venting | 80 miners petrified; Hall of Silent Watchers |
+| **The Abyssal Silence** | Year 3,988 | -1,800m (Occlusihan Rift)| Cyclopean ruin acoustic trigger | Crawler *Endeavor-IV* lost; Level 5 Rift clearance |
 
 #### 1. The Drowned Drill of Expedition 17 (Year 2,412)
 While attempting to bore a primary drainage aqueduct beneath the Old Lament at a depth of negative four hundred and twenty meters, the steam crawler *Bore-V* punctured a pressurized subterranean aquifer containing supercritical liquid sorrow. Within ninety seconds, millions of liters of freezing, corrosive brine surged through the drill head under eighty atmospheres of pressure. 
@@ -613,27 +531,15 @@ Immediately following this sentence, all seismic, thermal, and radio telemetry f
 
 While the SED conducts dozens of routine survey sorties every month to maintain municipal foundations, all institutional focus, resource allocation, and technological development are directed toward a single apex undertaking: **The Katabagil Descent** (심층 하강록 / The Seven Subterranean Descents).
 
-```text
-+==============================================+
-|       THE SEVEN KATABAGIL DESCENT ARCS       |
-+==============================================+
-| Descent Arc Code    | Target Domain Layer    |
-+=====================+========================+
-| Arc 1: Cryptasu     | Drowned Year Zero City |
-+---------------------+------------------------+
-| Arc 2: Petrobyeok   | Calcified Bastion Wall |
-+---------------------+------------------------+
-| Arc 3: Furtugil     | Smuggler Conduits      |
-+---------------------+------------------------+
-| Arc 4: Radikkum     | Ethereal Dream Roots   |
-+---------------------+------------------------+
-| Arc 5: Limesteum    | Sub-Bulwark Perimeter  |
-+---------------------+------------------------+
-| Arc 6: Traumagol    | Occlusihan Rift Chasm  |
-+---------------------+------------------------+
-| Arc 7: Fontisaem    | Primordial Wellspring  |
-+==============================================+
-```
+| Katabagil Arc | Subterranean Target Domain | Geological Stratum | Strategic Exploration Objective | Companion File Reference |
+|---|---|---|---|---|
+| **Arc 1: Cryptasu** | Drowned Pre-Cataclysm City | Strata 1 (-120m) | Recover Year Zero municipal diaries & breach gate | `Passage_1_The_Undercity.md` |
+| **Arc 2: Petrobyeok** | Calcified Bastion Wall | Strata 2 (-380m) | Breach Doha's ancient wall & evaluate survivors | `Passage_2_The_Forgotten_Districts.md` |
+| **Arc 3: Furtugil** | Smuggler Conduits & Faults | Strata 3 (-650m) | Reclaim severed arteries & clear Fray transit | `Passage_3_The_Hidden_Routes.md` |
+| **Arc 4: Radikkum** | Deep Roots of Echo Gardens | Strata 4 (-950m) | Map Dream Realm seepage & pacify floral entity | `Passage_4_The_Deep_Gardens.md` |
+| **Arc 5: Limesteum** | Sub-Bulwark Perimeter Footing| Strata 5 (-1,400m)| Shore outer perimeter & seal Outside Sorrow seep | `Passage_5_The_Border_Tunnels.md` |
+| **Arc 6: Traumagol** | Occlusihan Rift Open Fracture | Strata 6 (-1,900m)| Traverse obsidian rift & defeat Scar Walker | `Passage_6_The_Scar.md` |
+| **Arc 7: Fontisaem** | Primordial Wellspring of Han | Strata 7 (-2,300m)| Reach planetary nadir & discover Mugenhan truth | `Passage_7_The_Source.md` |
 
 Authorized directly under Executive Mandate 042, the Katabagil descent is the deepest, most dangerous expedition in municipal history. Commanded by the Seven Specialists of the Core Vanguard, the mission plunges sequentially through all seven geological strata to confront the primordial origin of the planet's weeping (*Mugenhan*).
 
@@ -648,21 +554,12 @@ The complete, turn-by-turn combat chronicles, narrative chapters, and tactical b
 
 The survival of Somnarak depends upon the flawless coordination of its three major corporate powers. To prevent jurisdictional conflict and ensure public safety, the SED operates under three permanent inter-corporate treaties ratified by the High Council of Sighs:
 
-```text
-+==============================================+
-|       INTER-CORPORATE TREATY FRAMEWORK       |
-+==============================================+
-| Corporate Partner   | Permanent Treaty Accord|
-+=====================+========================+
-| UCD (Enforcement)   | -50m Demarcation Line  |
-+---------------------+------------------------+
-| R.D. (Directorate)  | Raw Entity Custody     |
-+---------------------+------------------------+
-| Insight Forge (F-4) | Real-Time Sonar Relay  |
-+---------------------+------------------------+
-| High Council        | Annual Mineral Quota   |
-+==============================================+
-```
+| Inter-Corporate Treaty | Signatory Institution | Jurisdictional Boundary | Primary Operational Protocol |
+|---|---|---|---|
+| **The -50 Meter Demarcation Treaty** | Underworld Cleanup Descend (UCD) | Depth -50m Subterranean Line | Hot pursuit handoff & Joint Protocol 09 |
+| **Raw Entity Custody Treaty** | Reverie Directorate (R.D.) | Strata 1–4 Subterranean Catacombs | 24-hr entity transfer to Floor 2 (The Maw's Keep) |
+| **Acoustic Topology Accord** | R.D. Insight Forge (Floor 4) | Direct Optical Sonar Feed | Real-time seismic telemetry sharing with Ayshuk |
+| **Council Sovereign Covenants** | High Council of Sighs | All Extracted Minerals & Relics | 30% operational salvage dividend to SED fleet |
 
 ### 1. The -50 Meter Demarcation Treaty (With UCD)
 The jurisdictional boundary between the Underworld Cleanup Descend and the Somnarak Exploration Decree is fixed at exactly negative fifty meters depth beneath the municipal street grid:
