@@ -58,22 +58,22 @@ Deployment roster for Floor 2 (Containment Lead) and Floor 8 (Deep Vaults):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Shin (Lvl 5)  | HP:94 SP:86 Wk:90      |
+| Agent Shin Grade 5  | HP:94 SP:86 Wk:90      |
 |                     | Sp:62 | Saint Robe &   |
 |                     | Choral Staff           |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:106 SP:86 Wk:90     |
+| Agent Kang Grade 5  | HP:106 SP:86 Wk:90     |
 |                     | Sp:65 | Soldier Coat & |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:88 SP:94 Wk:88      |
+| Agent Park Grade 5  | HP:88 SP:94 Wk:88      |
 |                     | Sp:60 | Mourner Veil & |
 |                     | Sonic Bow              |
 +---------------------+------------------------+
-| Agent Lee (Lvl 5)   | HP:80 SP:84 Wk:80      |
+| Agent Lee Grade 5   | HP:80 SP:84 Wk:80      |
 |                     | Sp:56 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
@@ -310,22 +310,22 @@ Deployment roster for Floor 5 (Border Control) and Floor 7 (Outsider Relations):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Noh (Lvl 5)   | HP:86 SP:92 Wk:88      |
+| Agent Noh Grade 5   | HP:86 SP:92 Wk:88      |
 |                     | Sp:62 | Thorn Mantle & |
 |                     | Clockwork Bayonet      |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:108 SP:86 Wk:90     |
+| Agent Kang Grade 5  | HP:108 SP:86 Wk:90     |
 |                     | Sp:65 | Soldier Coat & |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Hwang (Lvl 5) | HP:90 SP:100 Wk:96     |
+| Agent Hwang Grade 5 | HP:90 SP:100 Wk:96     |
 |                     | Sp:66 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Bae (Lvl 5)   | HP:90 SP:96 Wk:92      |
+| Agent Bae Grade 5   | HP:90 SP:96 Wk:92      |
 |                     | Sp:62 | Hollow Crown & |
 |                     | Apostle Suit           |
 +---------------------+------------------------+
@@ -564,22 +564,22 @@ Deployment roster for Floor 2 (Containment Lead) and Floor 4 (Research Lead):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:92 SP:100 Wk:96     |
+| Agent Hwang Grade 5 | HP:92 SP:100 Wk:96     |
 |                     | Sp:66 | Beak Visor &   |
 |                     | Apostle Suit           |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:108 SP:88 Wk:92     |
+| Agent Kang Grade 5  | HP:108 SP:88 Wk:92     |
 |                     | Sp:65 | Feather Mantle |
 |                     | & Heavy Maul           |
 +---------------------+------------------------+
-| Agent Shin (Lvl 5)  | HP:96 SP:88 Wk:90      |
+| Agent Shin Grade 5  | HP:96 SP:88 Wk:90      |
 |                     | Sp:62 | Saint Robe &   |
 |                     | Choral Staff           |
 +---------------------+------------------------+
-| Agent Jin (Lvl 5)   | HP:82 SP:86 Wk:84      |
+| Agent Jin Grade 5   | HP:82 SP:86 Wk:84      |
 |                     | Sp:58 | Shroud Suit &  |
 |                     | Choral Bell            |
 +---------------------+------------------------+
@@ -818,22 +818,22 @@ Deployment roster for Floor 4 (Research Lead) and Floor 2 (Containment Lead):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hong (Lvl 5)  | HP:90 SP:100 Wk:96     |
+| Agent Hong Grade 5  | HP:90 SP:100 Wk:96     |
 |                     | Sp:65 | Apostolic Halo |
 |                     | & Saint Robe           |
 +---------------------+------------------------+
-| Agent Yoon (Lvl 5)  | HP:86 SP:98 Wk:92      |
+| Agent Yoon Grade 5  | HP:86 SP:98 Wk:92      |
 |                     | Sp:62 | Dawn Robe &    |
 |                     | Sonic Bow              |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:110 SP:88 Wk:92     |
+| Agent Kang Grade 5  | HP:110 SP:88 Wk:92     |
 |                     | Sp:66 | Soldier Coat & |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Bae (Lvl 5)   | HP:90 SP:98 Wk:92      |
+| Agent Bae Grade 5   | HP:90 SP:98 Wk:92      |
 |                     | Sp:62 | Hollow Crown & |
 |                     | Apostle Suit           |
 +---------------------+------------------------+
@@ -1071,22 +1071,22 @@ Deployment roster for Floor 5 (Border Control) and Floor 6 (Forge District):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Cha (Lvl 5)   | HP:96 SP:86 Wk:90      |
+| Agent Cha Grade 5   | HP:96 SP:86 Wk:90      |
 |                     | Sp:62 | Forge Bracer & |
 |                     | Refugee Cowl           |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:110 SP:90 Wk:92     |
+| Agent Kang Grade 5  | HP:110 SP:90 Wk:92     |
 |                     | Sp:66 | Bridge Span &  |
 |                     | Soldier Coat           |
 +---------------------+------------------------+
-| Agent Tak (Lvl 5)   | HP:92 SP:84 Wk:86      |
+| Agent Tak Grade 5   | HP:92 SP:84 Wk:86      |
 |                     | Sp:58 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Hwang (Lvl 5) | HP:92 SP:100 Wk:96     |
+| Agent Hwang Grade 5 | HP:92 SP:100 Wk:96     |
 |                     | Sp:66 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
@@ -1326,22 +1326,22 @@ Deployment roster for Floor 1 (Central Command) and Floor 3 (Archive Lead):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Kang (Lvl 5)  | HP:112 SP:90 Wk:94     |
+| Agent Kang Grade 5  | HP:112 SP:90 Wk:94     |
 |                     | Sp:66 | Absolute       |
 |                     | Verdict & Heavy Maul   |
 +---------------------+------------------------+
-| Agent Seo (Lvl 5)   | HP:90 SP:100 Wk:96     |
+| Agent Seo Grade 5   | HP:90 SP:100 Wk:96     |
 |                     | Sp:66 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Hong (Lvl 5)  | HP:92 SP:100 Wk:96     |
+| Agent Hong Grade 5  | HP:92 SP:100 Wk:96     |
 |                     | Sp:65 | Apostolic Halo |
 |                     | & Saint Robe           |
 +---------------------+------------------------+
-| Agent Kim (Lvl 5)   | HP:100 SP:84 Wk:88     |
+| Agent Kim Grade 5   | HP:100 SP:84 Wk:88     |
 |                     | Sp:60 | Foundation     |
 |                     | Greaves & Heavy Maul   |
 +---------------------+------------------------+

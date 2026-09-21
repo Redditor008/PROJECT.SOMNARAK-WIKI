@@ -781,7 +781,7 @@ Sorrow itself manifests across **four elemental aspects** — each attacking a d
 +==============================================+
 |       THE FOUR ELEMENTS INTERACTION CYCLE    |
 +==============+=======+=======+=======+=======+
-|  Atk \ Def   | Mind  | Body  | Soul  |  Han  |
+| Attack\Guard | Mind  | Body  | Soul  |  Han  |
 +==============+=======+=======+=======+=======+
 |Lament (Blue) |Resist | Part  |Strong | Weak  |
 +--------------+-------+-------+-------+-------+
@@ -3247,7 +3247,7 @@ Fired directly from the Decision Core on Floor 1 through pressurized pneumatic c
 +==============================================+
 | Directive Type       | Operational Effect    |
 +======================+=======================+
-| Han Salve Jet        | Restores 25% Phys HP  |
+| Han Salve Jet        | Restores 25% Health   |
 +----------------------+-----------------------+
 | Veil Mist Dampener   | Restores 25% Composure|
 +----------------------+-----------------------+
@@ -3283,7 +3283,7 @@ Fired directly from the Decision Core on Floor 1 through pressurized pneumatic c
 +----------------------+-----------------------+
 | F4: Insight Forge    | +8% Work Success Rate |
 +----------------------+-----------------------+
-| F5: Border Watch     | +15% Grudge/Phys Def  |
+| F5: Border Watch     | +15% Grudge Defense   |
 +----------------------+-----------------------+
 | F6: Deep Vault       | +15 Max Composure (SP)|
 +----------------------+-----------------------+

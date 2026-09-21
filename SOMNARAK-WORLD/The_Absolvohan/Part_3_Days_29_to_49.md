@@ -35,22 +35,22 @@ Here is the roster distribution across our five operational sectors. Notice that
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Kim (Lvl 4)   | HP:68 SP:50 Wk:52      |
+| Agent Kim Grade 4   | HP:68 SP:50 Wk:52      |
 |                     | Sp:40 | Mother's Shawl |
 |                     | & Baton                |
 +---------------------+------------------------+
-| Agent Hwang (Lvl 4) | HP:55 SP:64 Wk:58      |
+| Agent Hwang Grade 4 | HP:55 SP:64 Wk:58      |
 |                     | Sp:44 | Observing Eye  |
 |                     | & Lens                 |
 +---------------------+------------------------+
-| Agent Lee (Lvl 3)   | HP:45 SP:48 Wk:46      |
+| Agent Lee Grade 3   | HP:45 SP:48 Wk:46      |
 |                     | Sp:38 | Guardian Veil  |
 |                     | & Lens                 |
 +---------------------+------------------------+
-| Agent Park (Lvl 4)  | HP:62 SP:40 Wk:54      |
+| Agent Park Grade 4  | HP:62 SP:40 Wk:54      |
 |                     | Sp:36 | Lament Shroud  |
 |                     | & Requiem              |
 +---------------------+------------------------+
@@ -259,22 +259,22 @@ Tactical Deployment Directive: Senior containment specialists are deployed direc
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:62 SP:70 Wk:65      |
+| Agent Hwang Grade 5 | HP:62 SP:70 Wk:65      |
 |                     | Sp:50 | Observing      |
 |                     | Robes & Scepter        |
 +---------------------+------------------------+
-| Agent Kim (Lvl 4)   | HP:75 SP:52 Wk:58      |
+| Agent Kim Grade 4   | HP:75 SP:52 Wk:58      |
 |                     | Sp:42 | Mother's Shawl |
 |                     | & Baton                |
 +---------------------+------------------------+
-| Agent Park (Lvl 4)  | HP:68 SP:54 Wk:60      |
+| Agent Park Grade 4  | HP:68 SP:54 Wk:60      |
 |                     | Sp:44 | Weighting      |
 |                     | Scales & Maul          |
 +---------------------+------------------------+
-| Agent Song (Lvl 3)  | HP:50 SP:50 Wk:48      |
+| Agent Song Grade 3  | HP:50 SP:50 Wk:48      |
 |                     | Sp:38 | Guardian Veil  |
 |                     | & Bow                  |
 +---------------------+------------------------+
@@ -460,7 +460,7 @@ Only agents who ALREADY carry the baptismal halo are permitted to enter Chamber 
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
 | Agent Kim           | HP:78 SP:65 Wk:64      |
@@ -667,26 +667,26 @@ We now have six floors operational, with a veteran squad positioned across Floor
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:72 SP:84 Wk:76      |
+| Agent Hwang Grade 5 | HP:72 SP:84 Wk:76      |
 |                     | Sp:56 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Kim (Lvl 5)   | HP:84 SP:68 Wk:68      |
+| Agent Kim Grade 5   | HP:84 SP:68 Wk:68      |
 |                     | Sp:48 | Mother's Shawl |
 |                     | & Locket               |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:78 SP:66 Wk:72      |
+| Agent Park Grade 5  | HP:78 SP:66 Wk:72      |
 |                     | Sp:50 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Song (Lvl 4)  | HP:62 SP:58 Wk:56      |
+| Agent Song Grade 4  | HP:62 SP:58 Wk:56      |
 |                     | Sp:44 | Guardian Veil  |
 |                     | & Bow                  |
 +---------------------+------------------------+
-| Agent Bae (Lvl 4)   | HP:60 SP:60 Wk:54      |
+| Agent Bae Grade 4   | HP:60 SP:60 Wk:54      |
 |                     | Sp:42 | Iron Statue    |
 |                     | Plate & Hammer         |
 +---------------------+------------------------+
@@ -872,26 +872,26 @@ Here is our elite deployment roster across all primary containment hubs:
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:75 SP:88 Wk:80      |
+| Agent Hwang Grade 5 | HP:75 SP:88 Wk:80      |
 |                     | Sp:60 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Kim (Lvl 5)   | HP:88 SP:72 Wk:72      |
+| Agent Kim Grade 5   | HP:88 SP:72 Wk:72      |
 |                     | Sp:52 | Mother's Shawl |
 |                     | & Locket               |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:82 SP:70 Wk:76      |
+| Agent Park Grade 5  | HP:82 SP:70 Wk:76      |
 |                     | Sp:54 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Bae (Lvl 5)   | HP:76 SP:65 Wk:68      |
+| Agent Bae Grade 5   | HP:76 SP:65 Wk:68      |
 |                     | Sp:48 | Iron Aegis     |
 |                     | Plate & Maul           |
 +---------------------+------------------------+
-| Agent Song (Lvl 4)  | HP:66 SP:62 Wk:60      |
+| Agent Song Grade 4  | HP:66 SP:62 Wk:60      |
 |                     | Sp:46 | Cherub Mantle  |
 |                     | & Bow                  |
 +---------------------+------------------------+

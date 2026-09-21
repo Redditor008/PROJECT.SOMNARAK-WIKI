@@ -126,19 +126,19 @@ Strain telemetry remains at absolute zero across all sectors. The former contain
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | SE-001 (Bell)      | Flere  | -00%  | +0.01  |
-| Agent Park (Lvl 4) | Comm   | PEACE | 20 OP  |
+| Agent Park Grade 4 | Comm   | PEACE | 20 OP  |
 +--------------------+--------+-------+--------+
 | SE-005 (Mother)    | Ferre  | -00%  | +0.01  |
-| Agent Kim (Lvl 4)  | Comm   | PEACE | 22 OP  |
+| Agent Kim Grade 4  | Comm   | PEACE | 22 OP  |
 +--------------------+--------+-------+--------+
 | SE-081 (Saint)     | Flere  | -00%  | +0.01  |
-| Agent Hong (Lvl 4) | Comm   | PEACE | 25 OP  |
+| Agent Hong Grade 4 | Comm   | PEACE | 25 OP  |
 +--------------------+--------+-------+--------+
 | SE-140 (Willow)    | Flere  | -00%  | +0.01  |
-| Agent Bae (Lvl 4)  | Comm   | PEACE | 21 OP  |
+| Agent Bae Grade 4  | Comm   | PEACE | 21 OP  |
 +--------------------+--------+-------+--------+
 | SE-300 (Lock)      | Ferre  | -00%  | +0.01  |
-| Agent Yoo (Lvl 4)  | Comm   | PEACE | 20 OP  |
+| Agent Yoo Grade 4  | Comm   | PEACE | 20 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.078 TONS PURE HAN |
 +==============================================+
@@ -511,19 +511,19 @@ Strain monitors confirm complete temporal normalization. SE-C-IIIβ-044 (*The Br
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | SE-044 (The Clock) | Videre | -00%  | +0.01  |
-| Agent Kwon (Lvl 4) | Sync   | PEACE | 22 OP  |
+| Agent Kwon Grade 4 | Sync   | PEACE | 22 OP  |
 +--------------------+--------+-------+--------+
 | SE-036 (Hourglass) | Videre | -00%  | +0.01  |
-| Agent Kang (Lvl 4) | Sync   | PEACE | 23 OP  |
+| Agent Kang Grade 4 | Sync   | PEACE | 23 OP  |
 +--------------------+--------+-------+--------+
 | SE-115 (Well)      | Videre | -00%  | +0.01  |
-| Agent Seo (Lvl 4)  | Sync   | PEACE | 24 OP  |
+| Agent Seo Grade 4  | Sync   | PEACE | 24 OP  |
 +--------------------+--------+-------+--------+
 | SE-300 (Lock)      | Ferre  | -00%  | +0.01  |
-| Agent Yoo (Lvl 4)  | Sync   | PEACE | 21 OP  |
+| Agent Yoo Grade 4  | Sync   | PEACE | 21 OP  |
 +--------------------+--------+-------+--------+
 | SE-001 (Bell)      | Flere  | -00%  | +0.01  |
-| Agent Park (Lvl 4) | Sync   | PEACE | 22 OP  |
+| Agent Park Grade 4 | Sync   | PEACE | 22 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.078 TONS PURE HAN |
 +==============================================+

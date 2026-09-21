@@ -65,22 +65,22 @@ Deployment roster for Floor 5 (Border Watch) and Floor 6 (Deep Vault):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Seo (Lvl 5)   | HP:82 SP:95 Wk:88      |
+| Agent Seo Grade 5   | HP:82 SP:95 Wk:88      |
 |                     | Sp:60 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Jin (Lvl 5)   | HP:75 SP:80 Wk:78      |
+| Agent Jin Grade 5   | HP:75 SP:80 Wk:78      |
 |                     | Sp:56 | Shroud Suit &  |
 |                     | Sonic Bow              |
 +---------------------+------------------------+
-| Agent Yoo (Lvl 5)   | HP:94 SP:76 Wk:82      |
+| Agent Yoo Grade 5   | HP:94 SP:76 Wk:82      |
 |                     | Sp:58 | Lock Armor &   |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Lim (Lvl 4)   | HP:68 SP:88 Wk:74      |
+| Agent Lim Grade 4   | HP:68 SP:88 Wk:74      |
 |                     | Sp:52 | Mourner Shroud |
 |                     | & Locket               |
 +---------------------+------------------------+
@@ -318,22 +318,22 @@ Deployment roster for Floor 2 (Containment Alpha) and Floor 5 (Border Watch):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Kang (Lvl 5)  | HP:96 SP:78 Wk:84      |
+| Agent Kang Grade 5  | HP:96 SP:78 Wk:84      |
 |                     | Sp:62 | Threshold Suit |
 |                     | & Greatsword           |
 +---------------------+------------------------+
-| Agent Noh (Lvl 5)   | HP:80 SP:85 Wk:80      |
+| Agent Noh Grade 5   | HP:80 SP:85 Wk:80      |
 |                     | Sp:55 | Thorn Mantle & |
 |                     | Sonic Rifle            |
 +---------------------+------------------------+
-| Agent Hwang (Lvl 5) | HP:84 SP:96 Wk:90      |
+| Agent Hwang Grade 5 | HP:84 SP:96 Wk:90      |
 |                     | Sp:64 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:88 SP:74 Wk:76      |
+| Agent Park Grade 5  | HP:88 SP:74 Wk:76      |
 |                     | Sp:56 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
@@ -568,22 +568,22 @@ Deployment roster for Floor 2 (Containment Alpha) and Floor 3 (Safety & Ballast)
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:84 SP:100 Wk:92     |
+| Agent Hwang Grade 5 | HP:84 SP:100 Wk:92     |
 |                     | Sp:65 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:98 SP:80 Wk:86      |
+| Agent Kang Grade 5  | HP:98 SP:80 Wk:86      |
 |                     | Sp:62 | Soldier Coat & |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Shin (Lvl 5)  | HP:92 SP:82 Wk:84      |
+| Agent Shin Grade 5  | HP:92 SP:82 Wk:84      |
 |                     | Sp:58 | Saint Robe &   |
 |                     | Choral Staff           |
 +---------------------+------------------------+
-| Agent Noh (Lvl 5)   | HP:82 SP:88 Wk:82      |
+| Agent Noh Grade 5   | HP:82 SP:88 Wk:82      |
 |                     | Sp:56 | Thorn Mantle & |
 |                     | Clockwork Bayonet      |
 +---------------------+------------------------+
@@ -762,8 +762,8 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-021 (*The Hollow Ch
 |                      | Speed, Immune to      |
 |                      | Flashes. Alloc: Hwang.|
 +----------------------+-----------------------+
-| Feathered Mantle     | Back Slot: +15% Weight|
-|                      | Res, +5 Movement Spd. |
+| Feathered Mantle     | Back: +15% Weight     |
+|                      | Resistance, +5 Speed. |
 |                      | Alloc: Agent Kang.    |
 +======================+=======================+
 ```
@@ -820,22 +820,22 @@ Deployment roster for Floor 4 (Training & Sanity) and Floor 6 (Forge & Ballast):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Shin (Lvl 5)  | HP:94 SP:84 Wk:86      |
+| Agent Shin Grade 5  | HP:94 SP:84 Wk:86      |
 | [10 Marks Active]   | Sp:58 | Saint Robe &   |
 |                     | Choral Staff           |
 +---------------------+------------------------+
-| Agent Bae (Lvl 5)   | HP:86 SP:92 Wk:88      |
+| Agent Bae Grade 5   | HP:86 SP:92 Wk:88      |
 |                     | Sp:62 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Yoo (Lvl 5)   | HP:98 SP:78 Wk:84      |
+| Agent Yoo Grade 5   | HP:98 SP:78 Wk:84      |
 |                     | Sp:60 | Lock Armor &   |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Jin (Lvl 5)   | HP:78 SP:82 Wk:80      |
+| Agent Jin Grade 5   | HP:78 SP:82 Wk:80      |
 |                     | Sp:55 | Shroud Suit &  |
 |                     | Sonic Bow              |
 +---------------------+------------------------+
@@ -1072,22 +1072,22 @@ Deployment roster for Floor 4 (Training & Sanity) and Floor 6 (Forge & Ballast):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:88 SP:100 Wk:94     |
+| Agent Hwang Grade 5 | HP:88 SP:100 Wk:94     |
 |                     | Sp:66 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:100 SP:82 Wk:88     |
+| Agent Kang Grade 5  | HP:100 SP:82 Wk:88     |
 |                     | Sp:64 | Soldier Coat & |
 |                     | Feathered Mantle       |
 +---------------------+------------------------+
-| Agent Bae (Lvl 5)   | HP:88 SP:96 Wk:90      |
+| Agent Bae Grade 5   | HP:88 SP:96 Wk:90      |
 |                     | Sp:62 | Hollow Crown & |
 |                     | Apostle Suit           |
 +---------------------+------------------------+
-| Agent Jin (Lvl 5)   | HP:80 SP:85 Wk:82      |
+| Agent Jin Grade 5   | HP:80 SP:85 Wk:82      |
 |                     | Sp:56 | Shroud Suit &  |
 |                     | Choral Bell            |
 +---------------------+------------------------+

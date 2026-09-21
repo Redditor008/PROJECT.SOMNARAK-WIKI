@@ -55,18 +55,18 @@ Director Majin inspects the Floor 1 tactical roster. Operative Agent Lee has bee
 | DEPLOYED ROSTER: FLOOR 1 (CENTRAL COMMAND)   |
 +==============================================+
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Park (Lvl 2)  | HP:30 SP:39 Wk:30      |
+| Agent Park Grade 2  | HP:30 SP:39 Wk:30      |
 |                     | Sp:25 | Lament Shroud  |
 |                     | & Requiem              |
 +---------------------+------------------------+
-| Agent Kim (Lvl 2)   | HP:43 SP:25 Wk:30      |
+| Agent Kim Grade 2   | HP:43 SP:25 Wk:30      |
 |                     | Sp:22 | Mother's       |
 |                     | Embrace Baton          |
 +---------------------+------------------------+
-| Agent Lee (Lvl 1)   | HP:28 SP:30 Wk:28      |
+| Agent Lee Grade 1   | HP:28 SP:30 Wk:28      |
 |                     | Sp:20 | Standard Issue |
 |                     | Loadout                |
 +---------------------+------------------------+
@@ -303,26 +303,26 @@ Our roster has grown to five trained agents across Floor 1 and Floor 2:
 | ACTIVE ROSTER: CENTRAL COMMAND & CONTAINMENT |
 +==============================================+
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Park (Lvl 3)  | HP:35 SP:45 Wk:38      |
+| Agent Park Grade 3  | HP:35 SP:45 Wk:38      |
 |                     | Sp:28 | Lament Shroud  |
 |                     | & Requiem              |
 +---------------------+------------------------+
-| Agent Kim (Lvl 3)   | HP:50 SP:30 Wk:35      |
+| Agent Kim Grade 3   | HP:50 SP:30 Wk:35      |
 |                     | Sp:25 | Mother's       |
 |                     | Embrace Set            |
 +---------------------+------------------------+
-| Agent Lee (Lvl 2)   | HP:32 SP:38 Wk:32      |
+| Agent Lee Grade 2   | HP:32 SP:38 Wk:32      |
 |                     | Sp:22 | Guardian Veil  |
 |                     | & Lens                 |
 +---------------------+------------------------+
-| Agent Choi (Lvl 2)  | HP:30 SP:42 Wk:35      |
+| Agent Choi Grade 2  | HP:30 SP:42 Wk:35      |
 |                     | Sp:25 | Silence Shroud |
 |                     | & Baton                |
 +---------------------+------------------------+
-| Agent Kang (Lvl 3)  | HP:48 SP:32 Wk:30      |
+| Agent Kang Grade 3  | HP:48 SP:32 Wk:30      |
 |                     | Sp:28 | Rage Forge     |
 |                     | Armor & Fang           |
 +---------------------+------------------------+
@@ -527,15 +527,15 @@ We deploy our frontline units to Floor 5 to hold the southern perimeter:
 +==============================================+
 | DEPLOYED ROSTER: FLOOR 5 (BORDER CONTROL)    |
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 +=====================+========================+
-| Agent Noh (Level 3) | 46 HP / 35 SP / 32 Wk  |
+| Agent Noh Grade 3   | 46 HP / 35 SP / 32 Wk  |
 |                     | Gear: Pruning Claws    |
 +---------------------+------------------------+
-| Agent Bae (Level 3) | 32 HP / 45 SP / 38 Wk  |
+| Agent Bae Grade 3   | 32 HP / 45 SP / 38 Wk  |
 |                     | Gear: Tear Shroud      |
 +---------------------+------------------------+
-| Agent Moon (Level 3)| 52 HP / 28 SP / 34 Wk  |
+| Agent Moon Grade 3  | 52 HP / 28 SP / 34 Wk  |
 |                     | Gear: Lead Maul        |
 +---------------------+------------------------+
 | LEAD AURA: MELLDA   | Iron Threshold Aura    |
@@ -644,8 +644,9 @@ Agent Noh conducts one final pruning run on Chamber 145, pushing daily harvest t
 | EXTRACTION ARCHIVE: SELECT NEXT COMPANION    |
 +----------------------------------------------+
 | CHOICE ALPHA [SE-C-IIIg-115]:                |
-| "A dark well filled with ancient memories th |
-| surface only when someone drops a tear."     |
+| "A dark well filled with ancient memories    |
+| that surface only when someone drops a       |
+| tear."                                       |
 +----------------------------------------------+
 | CHOICE BETA [SE-C-IIIb-044]:                 |
 | "A clockwork soldier holding a fractured     |
@@ -733,15 +734,15 @@ Floor 3 introduces **Cognitive Corrosion**: entities on this floor emit White/La
 +==============================================+
 | DEPLOYED ROSTER: FLOOR 3 (THE ARCHIVE)       |
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 +=====================+========================+
-| Agent Seo (Level 3) | 35 HP / 50 SP / 38 Wk  |
+| Agent Seo Grade 3   | 35 HP / 50 SP / 38 Wk  |
 |                     | Gear: Memory Locket    |
 +---------------------+------------------------+
-| Agent Kwon (Level 3)| 38 HP / 42 SP / 40 Wk  |
+| Agent Kwon Grade 3  | 38 HP / 42 SP / 40 Wk  |
 |                     | Gear: Lament Shroud    |
 +---------------------+------------------------+
-| Agent Sim (Level 3) | 48 HP / 34 SP / 35 Wk  |
+| Agent Sim Grade 3   | 48 HP / 34 SP / 35 Wk  |
 |                     | Gear: Lead Maul        |
 +---------------------+------------------------+
 | LEAD AURA: MARJUK   | Memorial Preservation  |
@@ -950,18 +951,18 @@ Our roster has expanded to senior grade. We form our elite suppression squad:
 +==============================================+
 | ELITE COMBAT SQUAD: FLOORS 1, 6 & 7          |
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 +=====================+========================+
-| Agent Hong (Level 4)| 40 HP / 55 SP / 45 Wk  |
+| Agent Hong Grade 4  | 40 HP / 55 SP / 45 Wk  |
 |                     | Gear: Hollow Halo      |
 +---------------------+------------------------+
-| Agent Tak (Level 4) | 55 HP / 35 SP / 38 Wk  |
+| Agent Tak Grade 4   | 55 HP / 35 SP / 38 Wk  |
 |                     | Gear: Fury Blade       |
 +---------------------+------------------------+
-| Agent Jo (Level 4)  | 45 HP / 48 SP / 42 Wk  |
+| Agent Jo Grade 4    | 45 HP / 48 SP / 42 Wk  |
 |                     | Gear: Guardian Spear   |
 +---------------------+------------------------+
-| Agent Bang (Level 3)| 48 HP / 36 SP / 40 Wk  |
+| Agent Bang Grade 3  | 48 HP / 36 SP / 40 Wk  |
 |                     | Gear: Embrace Seal     |
 +---------------------+------------------------+
 | LEAD AURA: ISHALL   | Synthetic Void Shield  |

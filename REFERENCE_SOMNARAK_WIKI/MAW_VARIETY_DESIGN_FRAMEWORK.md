@@ -69,10 +69,10 @@ M.A.W. Armaments (`MAW-W`) belong to one of seven distinct categories. Weapons a
 |                | blade reach & heavy parry  | Zweihander, War Sledge, Halberd|
 +----------------+----------------------------+--------------------------------+
 | 2. RANGE       | Standoff discharge, thrown | Heavy Crossbow, Mirror Ray,    |
-|                | relics, sonic projection   | Sonic Bell, Thrown Relic, Harpoon|
+|                | relics, sonic projection   | Sonic Bell, Harpoon, Relics    |
 +----------------+----------------------------+--------------------------------+
-| 3. MIXED       | Hybrid engagement, dual-   | Whip-Sword, Gunblade, Chain-   |
-|                | form & shifting reach      | Sickle, Blade-Pavise           |
+| 3. MIXED       | Hybrid engagement, shifting| Whip-Sword, Gunblade,         |
+|                | reach and dual forms       | Chain-Sickle, Blade-Pavise     |
 +----------------+----------------------------+--------------------------------+
 | 4. UNIQUE      | Conceptual apparatus,      | Hourglass Maul, Balance Scale, |
 |                | architectural implements   | Barred Door Pavise, Suture Awl |
@@ -83,8 +83,8 @@ M.A.W. Armaments (`MAW-W`) belong to one of seven distinct categories. Weapons a
 | 6. MAGIC       | Arcane catalysts, ritual   | Choral Sceptre, Ritual Wand,   |
 |                | foci & chanted tomes       | Ash Grimoire, Resonant Censer  |
 +----------------+----------------------------+--------------------------------+
-| 7. PRIMAL      | Visceral bio-matter, bone, | Snapping Jaw, Bone-Saw, Spine- |
-|                | living chitin & talons     | Whip, Rending Claw, Mandible   |
+| 7. PRIMAL      | Visceral bio-matter, bone, | Snapping Jaw, Bone-Saw,        |
+|                | living chitin and talons   | Spine-Whip, Rending Claw       |
 +----------------+----------------------------+--------------------------------+
 
 ---

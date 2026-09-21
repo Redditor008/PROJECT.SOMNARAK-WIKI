@@ -203,15 +203,15 @@ The 366-day operational continuum of any random cycle is divided into eight dist
 +=======+=============+========================+
 | Fl. 1 | Majin       | The Vow to the Dead    |
 +-------+-------------+------------------------+
-| Fl. 2 | Mellda      | The Bound Threshold    |
+| Fl. 2 | Dekan       | The Beast's Hunger     |
 +-------+-------------+------------------------+
-| Fl. 3 | Seiyon      | The Machine's Weeping  |
+| Fl. 3 | Zyrak       | The Consuming Forge    |
 +-------+-------------+------------------------+
-| Fl. 4 | Kang        | The Unforgiven Guilt   |
+| Fl. 4 | Ayshuk      | The Broken Calculus    |
 +-------+-------------+------------------------+
-| Fl. 5 | Marjuk      | The Erasure of Memory  |
+| Fl. 5 | Mellda      | The Bound Threshold    |
 +-------+-------------+------------------------+
-| Fl. 6 | Zyrak       | The Consuming Forge    |
+| Fl. 6 | Marjuk      | The Erasure of Memory  |
 +-------+-------------+------------------------+
 | Fl. 7 | Ishall      | The Severed Shell      |
 +-------+-------------+------------------------+
@@ -471,12 +471,12 @@ Facility combat operations are structured across five standardized Range Bands:
 +--------+-----------------+-------------------+
 | Band 2 | Close Corridor  | Spears, Shotguns  |
 +--------+-----------------+-------------------+
-| Band 3 | Mid Hallway     | Rifles, Bows, E.S.|
+| Band 3 | Mid Hallway     | Crossbows, Rifles |
 +--------+-----------------+-------------------+
 | Band 4 | Long Plaza      | Railguns, Beams   |
 +--------+-----------------+-------------------+
 | Band 5 | Facility-Wide   | Sovereign Siphons |
-+==========================+===================+
++========+=================+===================+
 ```
 
 ### 4.3 Agent Panic Typologies & Recovery Protocols
@@ -500,73 +500,73 @@ The Absolvohan facility is organized vertically into eight distinct departments,
 +=====+====================+===================+
 | 1   | Central Command    | Director Majin    |
 +-----+--------------------+-------------------+
-| 2   | Containment Alpha  | Mellda            |
+| 2   | The Maw's Keep     | Containment Dekan |
 +-----+--------------------+-------------------+
-| 3   | Safety & Ballast   | Seiyon            |
+| 3   | Extraction Hall    | Extraction Zyrak  |
 +-----+--------------------+-------------------+
-| 4   | Training & Sanity  | Senior Lead Kang  |
+| 4   | Insight Forge      | Research Ayshuk   |
 +-----+--------------------+-------------------+
-| 5   | Memory Archives    | Lead Marjuk       |
+| 5   | Border Watch       | Border Lead Mellda|
 +-----+--------------------+-------------------+
-| 6   | Forge & Ballast    | Engineer Zyrak    |
+| 6   | Deep Vault         | Archive Marjuk    |
 +-----+--------------------+-------------------+
-| 7   | Veil Engineering   | Specialist Ishall |
+| 7   | Shadow Corps       | Specialist Ishall |
 +-----+--------------------+-------------------+
-| 8   | Sovereign Vault    | Xyan & The Well   |
+| 8   | Gate Watch Vault   | Boundary Xyan     |
 +==========================+===================+
 ```
 
 ### Floor 1: Central Command (중앙 지휘부)
-- **Attendant:** Director Majin (*The Director*).
+- **Attendant:** Director Majin (*The Director*) & Secretary Seiyon (*The Secretary Effigy*).
 - **Core Function:** High-level tactical dispatch, daily quota management, facility-wide emergency directives.
 - **Department Passive Aura:** *Director's Oversight* — Increases movement speed of all agents traversing central corridors by +15%.
 - **Awakened Realization Aura:** *Unbroken Resolve* — All agents across all floors gain +10 Resolve and are immune to instant panic from Dawn Ordeals.
 - **Containment Capacity:** 4 Standard Chambers.
 
-### Floor 2: Containment Alpha (제1 격리 구역)
-- **Attendant:** Mellda (*The Border Lead* / *Threshold Vow*).
-- **Core Function:** Induction containment, early entity stabilization, corridor security enforcement.
-- **Department Passive Aura:** *Threshold Aegis* — Reduces physical Grudge damage taken by department agents by 10%.
+### Floor 2: The Maw's Keep (제1 격리 구역 — 연옥의 아가리)
+- **Attendant:** Containment Lead Dekan (*The Containment Lead* / *The Scaled Maw-Flesh Arm*).
+- **Core Function:** Induction containment, early entity stabilization, corridor security enforcement, and Raw Sorrow suppression.
+- **Department Passive Aura:** *Maw-Aegis Bastion* — Reduces physical Grudge damage taken by department agents by 10%.
 - **Awakened Realization Aura:** *Iron Boundary* — Containment cells on Floor 2 never suffer natural Qliphoth deterioration from Ordeal shockwaves.
 - **Containment Capacity:** 5 Standard Chambers. Home to the Avian Triad anchor.
 
-### Floor 3: Safety & Ballast (안전 및 밸러스트부)
-- **Attendant:** Seiyon (*The Secretary Effigy*).
-- **Core Function:** Reality ballast monitoring, structural strain calculations, facility environmental dampening.
-- **Department Passive Aura:** *Mnemonic Calibration* — Meltdown timers across Floor 3 receive a permanent +10 second extension.
-- **Awakened Realization Aura:** *Infinite Equanimity* — Agents stationed on Floor 3 recover 5% Max SP every 15 seconds while outside combat.
-- **Containment Capacity:** 5 Standard Chambers.
-
-### Floor 4: Training & Sanity (훈련 및 정격부)
-- **Attendant:** Senior Containment Lead Kang (*The Exile*).
-- **Core Function:** Agent attribute conditioning, combat sparring, sanity restoration, panic suppression drills.
-- **Department Passive Aura:** *Cadre Discipline* — Post-shift attribute stat growth increased by +25% for assigned agents.
-- **Awakened Realization Aura:** *Veteran's Scars* — Agents recovering from panic states regain 100% SP and receive a temporary +20% damage buff for 30 seconds.
-- **Containment Capacity:** 5 Standard Chambers.
-
-### Floor 5: Memory Archives (기억 보관소)
-- **Attendant:** Archive Lead Marjuk (*The Archive Lead*).
-- **Core Function:** Historical spool storage, pre-Consolihan lore decoding, observation point yield multiplication.
-- **Department Passive Aura:** *Archival Clarity* — Observation point yields from Viderehan work increased by +30%.
-- **Awakened Realization Aura:** *Living Chronicle* — Unlocks full behavioral and M.A.W. data for newly drafted entities after only two work sessions.
-- **Containment Capacity:** 5 Deep Storage Chambers.
-
-### Floor 6: The Forge & Ballast Heat Sink (용광로 및 배열부)
-- **Attendant:** Lead Engineer Zyrak (*The Research Lead*).
-- **Core Function:** Armament forging, ballast thermal regulation, M.A.W. resonance calibration, structural reinforcement.
+### Floor 3: The Extraction Hall (추출 및 정련부)
+- **Attendant:** Lead Engineer Zyrak (*The Extraction Lead* / *Mechanical Hands*).
+- **Core Function:** Armament extraction, crystalline Han refining, M.A.W. resonance calibration, structural reinforcement.
 - **Department Passive Aura:** *Crucible Temper* — Forging costs for M.A.W. weapons and suits reduced by 20%.
 - **Awakened Realization Aura:** *Unquenched Spark* — All M.A.W. armaments deal +15% damage; weapon attack animations accelerate by 10%.
-- **Containment Capacity:** 5 High-Thermal Chambers.
+- **Containment Capacity:** 5 High-Pressure Chambers.
 
-### Floor 7: Veil Engineering & Resonance (결계 공학부)
-- **Attendant:** Specialist Ishall (*The Outsider* / *Android Shell*).
+### Floor 4: The Insight Forge (통찰 및 연구부)
+- **Attendant:** Research Lead Ayshuk (*The Research Lead* / *Subject-Mind Research Ledger*).
+- **Core Function:** Sorrow Entity behavioral analysis, Observation Point yield multiplication, cognition threshold calculation.
+- **Department Passive Aura:** *Analytical Clarity* — Observation point yields from Viderehan work increased by +30%.
+- **Awakened Realization Aura:** *Living Ledger* — Unlocks full behavioral and M.A.W. data for newly drafted entities after only two work sessions.
+- **Containment Capacity:** 5 Insight Chambers.
+
+### Floor 5: Border Watch & Bulwark (경계 및 방벽부)
+- **Attendant:** Containment Lead Mellda (*The Border Lead* / *Threshold Vow*).
+- **Core Function:** Perimeter defense, Desolate storm suppression, tectonic ballast stabilization, quarantine gate defense.
+- **Department Passive Aura:** *Threshold Aegis* — Reduces ambient damage from environmental hazards across Floor 5 by 15%.
+- **Awakened Realization Aura:** *Unbroken Bulwark* — When quarantine blast gates drop, all agents in the sector gain a 25% physical and mental defense barrier.
+- **Containment Capacity:** 5 Heavy Containment Chambers.
+
+### Floor 6: Deep Vault & Memory Archives (심연 서고 및 기억 보관소)
+- **Attendant:** Archive Lead Marjuk (*The Archive Lead* / *Memory Lens & Whispering Index*).
+- **Core Function:** Historical spool storage, pre-Consolihan lore decoding, cognitive dampening, cycle memory retrieval.
+- **Department Passive Aura:** *Archival Preservation* — Meltdown timers across Floor 6 receive a permanent +10 second extension.
+- **Awakened Realization Aura:** *Mnemonic Equanimity* — Agents stationed on Floor 6 recover 5% Max SP every 15 seconds while outside combat.
+- **Containment Capacity:** 5 Deep Storage Chambers.
+
+### Floor 7: Shadow Corps & Veil Engineering (그림자 결사 및 결계 공학부)
+- **Attendant:** Specialist Ishall (*The Outsider* / *Unanswered*).
 - **Core Function:** Harmonic resonance tuning, spatial barrier maintenance, anti-breach quarantine grid regulation.
 - **Department Passive Aura:** *Resonance Dampener* — Reduces ambient Void damage across the facility by 15%.
 - **Awakened Realization Aura:** *Severed Horizon* — When Quarantine Severance is activated, trapped entities take continuous Void damage equal to 2% Max HP per second.
 - **Containment Capacity:** 5 Sealed Chambers.
 
-### Floor 8: The Sovereign Vault & Extraction Wellhead (원천 심연부)
-- **Attendant:** Xyan (*The Extraction Lead*) & The Wellhead Core.
+### Floor 8: Gate Watch & Sovereign Vault (관문 감시 및 원천 심연부)
+- **Attendant:** Boundary Commander Xyan (*The Exile* / *Neural Spine*) & The Wellhead Core.
 - **Core Function:** Primordial Han siphoning, Class IV Sovereign containment, Transmutation Chamber ignition core.
 - **Department Passive Aura:** *Abyssal Conduit* — Refined Han generation from all containment chambers increased by +20%.
 - **Awakened Realization Aura:** *Absolvohan Gateway* — Unlocks the final transmutation ignition circuit; structural ballast threshold for failure lowered from 15% to 5%.
@@ -627,10 +627,10 @@ Agent competence scales across five standardized grades based on total cumulativ
 +-----------+-------------+--------------------+
 | Grade III | 201 - 300   | Class II-III M.A.W.|
 +-----------+-------------+--------------------+
-| Grade IV  | 301 - 420   | Class IIIb/g M.A.W.|
+| Grade IV  | 301 - 420   | Class III M.A.W.   |
 +-----------+-------------+--------------------+
 | Grade V   | 421 - 550+  | Class IV Sovereign |
-+=========================+====================+
++===========+=============+====================+
 ```
 
 ### 6.3 The 4-Way Han Damage & Resistance Matrix

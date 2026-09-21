@@ -676,18 +676,18 @@ Director Majin inspects the Floor 1 tactical roster. Operative Agent Lee has bee
 | DEPLOYED ROSTER: FLOOR 1 (CENTRAL COMMAND)   |
 +==============================================+
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Park (Lvl 2)  | HP:30 SP:39 Wk:30      |
+| Agent Park Grade 2  | HP:30 SP:39 Wk:30      |
 |                     | Sp:25 | Lament Shroud  |
 |                     | & Requiem              |
 +---------------------+------------------------+
-| Agent Kim (Lvl 2)   | HP:43 SP:25 Wk:30      |
+| Agent Kim Grade 2   | HP:43 SP:25 Wk:30      |
 |                     | Sp:22 | Mother's       |
 |                     | Embrace Baton          |
 +---------------------+------------------------+
-| Agent Lee (Lvl 1)   | HP:28 SP:30 Wk:28      |
+| Agent Lee Grade 1   | HP:28 SP:30 Wk:28      |
 |                     | Sp:20 | Standard Issue |
 |                     | Loadout                |
 +---------------------+------------------------+
@@ -924,26 +924,26 @@ Our roster has grown to five trained agents across Floor 1 and Floor 2:
 | ACTIVE ROSTER: CENTRAL COMMAND & CONTAINMENT |
 +==============================================+
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Park (Lvl 3)  | HP:35 SP:45 Wk:38      |
+| Agent Park Grade 3  | HP:35 SP:45 Wk:38      |
 |                     | Sp:28 | Lament Shroud  |
 |                     | & Requiem              |
 +---------------------+------------------------+
-| Agent Kim (Lvl 3)   | HP:50 SP:30 Wk:35      |
+| Agent Kim Grade 3   | HP:50 SP:30 Wk:35      |
 |                     | Sp:25 | Mother's       |
 |                     | Embrace Set            |
 +---------------------+------------------------+
-| Agent Lee (Lvl 2)   | HP:32 SP:38 Wk:32      |
+| Agent Lee Grade 2   | HP:32 SP:38 Wk:32      |
 |                     | Sp:22 | Guardian Veil  |
 |                     | & Lens                 |
 +---------------------+------------------------+
-| Agent Choi (Lvl 2)  | HP:30 SP:42 Wk:35      |
+| Agent Choi Grade 2  | HP:30 SP:42 Wk:35      |
 |                     | Sp:25 | Silence Shroud |
 |                     | & Baton                |
 +---------------------+------------------------+
-| Agent Kang (Lvl 3)  | HP:48 SP:32 Wk:30      |
+| Agent Kang Grade 3  | HP:48 SP:32 Wk:30      |
 |                     | Sp:28 | Rage Forge     |
 |                     | Armor & Fang           |
 +---------------------+------------------------+
@@ -1148,15 +1148,15 @@ We deploy our frontline units to Floor 5 to hold the southern perimeter:
 +==============================================+
 | DEPLOYED ROSTER: FLOOR 5 (BORDER CONTROL)    |
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 +=====================+========================+
-| Agent Noh (Level 3) | 46 HP / 35 SP / 32 Wk  |
+| Agent Noh Grade 3   | 46 HP / 35 SP / 32 Wk  |
 |                     | Gear: Pruning Claws    |
 +---------------------+------------------------+
-| Agent Bae (Level 3) | 32 HP / 45 SP / 38 Wk  |
+| Agent Bae Grade 3   | 32 HP / 45 SP / 38 Wk  |
 |                     | Gear: Tear Shroud      |
 +---------------------+------------------------+
-| Agent Moon (Level 3)| 52 HP / 28 SP / 34 Wk  |
+| Agent Moon Grade 3  | 52 HP / 28 SP / 34 Wk  |
 |                     | Gear: Lead Maul        |
 +---------------------+------------------------+
 | LEAD AURA: MELLDA   | Iron Threshold Aura    |
@@ -1265,8 +1265,9 @@ Agent Noh conducts one final pruning run on Chamber 145, pushing daily harvest t
 | EXTRACTION ARCHIVE: SELECT NEXT COMPANION    |
 +----------------------------------------------+
 | CHOICE ALPHA [SE-C-IIIg-115]:                |
-| "A dark well filled with ancient memories th |
-| surface only when someone drops a tear."     |
+| "A dark well filled with ancient memories    |
+| that surface only when someone drops a       |
+| tear."                                       |
 +----------------------------------------------+
 | CHOICE BETA [SE-C-IIIb-044]:                 |
 | "A clockwork soldier holding a fractured     |
@@ -1354,15 +1355,15 @@ Floor 3 introduces **Cognitive Corrosion**: entities on this floor emit White/La
 +==============================================+
 | DEPLOYED ROSTER: FLOOR 3 (THE ARCHIVE)       |
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 +=====================+========================+
-| Agent Seo (Level 3) | 35 HP / 50 SP / 38 Wk  |
+| Agent Seo Grade 3   | 35 HP / 50 SP / 38 Wk  |
 |                     | Gear: Memory Locket    |
 +---------------------+------------------------+
-| Agent Kwon (Level 3)| 38 HP / 42 SP / 40 Wk  |
+| Agent Kwon Grade 3  | 38 HP / 42 SP / 40 Wk  |
 |                     | Gear: Lament Shroud    |
 +---------------------+------------------------+
-| Agent Sim (Level 3) | 48 HP / 34 SP / 35 Wk  |
+| Agent Sim Grade 3   | 48 HP / 34 SP / 35 Wk  |
 |                     | Gear: Lead Maul        |
 +---------------------+------------------------+
 | LEAD AURA: MARJUK   | Memorial Preservation  |
@@ -1571,18 +1572,18 @@ Our roster has expanded to senior grade. We form our elite suppression squad:
 +==============================================+
 | ELITE COMBAT SQUAD: FLOORS 1, 6 & 7          |
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 +=====================+========================+
-| Agent Hong (Level 4)| 40 HP / 55 SP / 45 Wk  |
+| Agent Hong Grade 4  | 40 HP / 55 SP / 45 Wk  |
 |                     | Gear: Hollow Halo      |
 +---------------------+------------------------+
-| Agent Tak (Level 4) | 55 HP / 35 SP / 38 Wk  |
+| Agent Tak Grade 4   | 55 HP / 35 SP / 38 Wk  |
 |                     | Gear: Fury Blade       |
 +---------------------+------------------------+
-| Agent Jo (Level 4)  | 45 HP / 48 SP / 42 Wk  |
+| Agent Jo Grade 4    | 45 HP / 48 SP / 42 Wk  |
 |                     | Gear: Guardian Spear   |
 +---------------------+------------------------+
-| Agent Bang (Level 3)| 48 HP / 36 SP / 40 Wk  |
+| Agent Bang Grade 3  | 48 HP / 36 SP / 40 Wk  |
 |                     | Gear: Embrace Seal     |
 +---------------------+------------------------+
 | LEAD AURA: ISHALL   | Synthetic Void Shield  |
@@ -1783,22 +1784,22 @@ Here is the roster distribution across our five operational sectors. Notice that
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Kim (Lvl 4)   | HP:68 SP:50 Wk:52      |
+| Agent Kim Grade 4   | HP:68 SP:50 Wk:52      |
 |                     | Sp:40 | Mother's Shawl |
 |                     | & Baton                |
 +---------------------+------------------------+
-| Agent Hwang (Lvl 4) | HP:55 SP:64 Wk:58      |
+| Agent Hwang Grade 4 | HP:55 SP:64 Wk:58      |
 |                     | Sp:44 | Observing Eye  |
 |                     | & Lens                 |
 +---------------------+------------------------+
-| Agent Lee (Lvl 3)   | HP:45 SP:48 Wk:46      |
+| Agent Lee Grade 3   | HP:45 SP:48 Wk:46      |
 |                     | Sp:38 | Guardian Veil  |
 |                     | & Lens                 |
 +---------------------+------------------------+
-| Agent Park (Lvl 4)  | HP:62 SP:40 Wk:54      |
+| Agent Park Grade 4  | HP:62 SP:40 Wk:54      |
 |                     | Sp:36 | Lament Shroud  |
 |                     | & Requiem              |
 +---------------------+------------------------+
@@ -2007,22 +2008,22 @@ Tactical Deployment Directive: Senior containment specialists are deployed direc
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:62 SP:70 Wk:65      |
+| Agent Hwang Grade 5 | HP:62 SP:70 Wk:65      |
 |                     | Sp:50 | Observing      |
 |                     | Robes & Scepter        |
 +---------------------+------------------------+
-| Agent Kim (Lvl 4)   | HP:75 SP:52 Wk:58      |
+| Agent Kim Grade 4   | HP:75 SP:52 Wk:58      |
 |                     | Sp:42 | Mother's Shawl |
 |                     | & Baton                |
 +---------------------+------------------------+
-| Agent Park (Lvl 4)  | HP:68 SP:54 Wk:60      |
+| Agent Park Grade 4  | HP:68 SP:54 Wk:60      |
 |                     | Sp:44 | Weighting      |
 |                     | Scales & Maul          |
 +---------------------+------------------------+
-| Agent Song (Lvl 3)  | HP:50 SP:50 Wk:48      |
+| Agent Song Grade 3  | HP:50 SP:50 Wk:48      |
 |                     | Sp:38 | Guardian Veil  |
 |                     | & Bow                  |
 +---------------------+------------------------+
@@ -2208,7 +2209,7 @@ Only agents who ALREADY carry the baptismal halo are permitted to enter Chamber 
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
 | Agent Kim           | HP:78 SP:65 Wk:64      |
@@ -2415,26 +2416,26 @@ We now have six floors operational, with a veteran squad positioned across Floor
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:72 SP:84 Wk:76      |
+| Agent Hwang Grade 5 | HP:72 SP:84 Wk:76      |
 |                     | Sp:56 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Kim (Lvl 5)   | HP:84 SP:68 Wk:68      |
+| Agent Kim Grade 5   | HP:84 SP:68 Wk:68      |
 |                     | Sp:48 | Mother's Shawl |
 |                     | & Locket               |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:78 SP:66 Wk:72      |
+| Agent Park Grade 5  | HP:78 SP:66 Wk:72      |
 |                     | Sp:50 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Song (Lvl 4)  | HP:62 SP:58 Wk:56      |
+| Agent Song Grade 4  | HP:62 SP:58 Wk:56      |
 |                     | Sp:44 | Guardian Veil  |
 |                     | & Bow                  |
 +---------------------+------------------------+
-| Agent Bae (Lvl 4)   | HP:60 SP:60 Wk:54      |
+| Agent Bae Grade 4   | HP:60 SP:60 Wk:54      |
 |                     | Sp:42 | Iron Statue    |
 |                     | Plate & Hammer         |
 +---------------------+------------------------+
@@ -2620,26 +2621,26 @@ Here is our elite deployment roster across all primary containment hubs:
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:75 SP:88 Wk:80      |
+| Agent Hwang Grade 5 | HP:75 SP:88 Wk:80      |
 |                     | Sp:60 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Kim (Lvl 5)   | HP:88 SP:72 Wk:72      |
+| Agent Kim Grade 5   | HP:88 SP:72 Wk:72      |
 |                     | Sp:52 | Mother's Shawl |
 |                     | & Locket               |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:82 SP:70 Wk:76      |
+| Agent Park Grade 5  | HP:82 SP:70 Wk:76      |
 |                     | Sp:54 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Bae (Lvl 5)   | HP:76 SP:65 Wk:68      |
+| Agent Bae Grade 5   | HP:76 SP:65 Wk:68      |
 |                     | Sp:48 | Iron Aegis     |
 |                     | Plate & Maul           |
 +---------------------+------------------------+
-| Agent Song (Lvl 4)  | HP:66 SP:62 Wk:60      |
+| Agent Song Grade 4  | HP:66 SP:62 Wk:60      |
 |                     | Sp:46 | Cherub Mantle  |
 |                     | & Bow                  |
 +---------------------+------------------------+
@@ -2845,22 +2846,22 @@ Here is our deployed roster for Floor 3 (Archive Lead) and Floor 4 (Research Lea
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:78 SP:92 Wk:84      |
+| Agent Hwang Grade 5 | HP:78 SP:92 Wk:84      |
 |                     | Sp:62 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Song (Lvl 5)  | HP:70 SP:75 Wk:72      |
+| Agent Song Grade 5  | HP:70 SP:75 Wk:72      |
 |                     | Sp:54 | Cherub Robe &  |
 |                     | Bow                    |
 +---------------------+------------------------+
-| Agent Kim (Lvl 5)   | HP:90 SP:75 Wk:76      |
+| Agent Kim Grade 5   | HP:90 SP:75 Wk:76      |
 |                     | Sp:55 | Mother's Shawl |
 |                     | & Locket               |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:85 SP:72 Wk:80      |
+| Agent Park Grade 5  | HP:85 SP:72 Wk:80      |
 |                     | Sp:56 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
@@ -3070,22 +3071,22 @@ We deploy Ishall's vanguard on Floor 7 while keeping our primary harvesting team
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Song (Lvl 5)  | HP:74 SP:80 Wk:76      |
+| Agent Song Grade 5  | HP:74 SP:80 Wk:76      |
 |                     | Sp:58 | Cherub Robe &  |
 |                     | Bow                    |
 +---------------------+------------------------+
-| Agent Bae (Lvl 5)   | HP:82 SP:70 Wk:72      |
+| Agent Bae Grade 5   | HP:82 SP:70 Wk:72      |
 |                     | Sp:52 | Iron Aegis     |
 |                     | Plate & Maul           |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:88 SP:75 Wk:82      |
+| Agent Park Grade 5  | HP:88 SP:75 Wk:82      |
 |                     | Sp:58 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Kim (Lvl 5)   | HP:92 SP:78 Wk:78      |
+| Agent Kim Grade 5   | HP:92 SP:78 Wk:78      |
 |                     | Sp:56 | Mother's Shawl |
 |                     | & Locket               |
 +---------------------+------------------------+
@@ -3294,22 +3295,22 @@ Agent Bae is assigned as our dedicated Thorns Pruner on Floor 5:
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Bae (Lvl 5)   | HP:88 SP:74 Wk:76      |
+| Agent Bae Grade 5   | HP:88 SP:74 Wk:76      |
 |                     | Sp:54 | Iron Aegis     |
 |                     | Plate & Maul           |
 +---------------------+------------------------+
-| Agent Hwang (Lvl 5) | HP:80 SP:96 Wk:88      |
+| Agent Hwang Grade 5 | HP:80 SP:96 Wk:88      |
 |                     | Sp:65 | Apostle Suit & |
 |                     | Lens                   |
 +---------------------+------------------------+
-| Agent Kim (Lvl 5)   | HP:95 SP:80 Wk:80      |
+| Agent Kim Grade 5   | HP:95 SP:80 Wk:80      |
 |                     | Sp:58 | Mother's Shawl |
 |                     | & Locket               |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:90 SP:78 Wk:85      |
+| Agent Park Grade 5  | HP:90 SP:78 Wk:85      |
 |                     | Sp:60 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
@@ -3520,22 +3521,22 @@ Tactical Deployment Directive: High-Clarity specialist Agent Hwang is assigned t
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:82 SP:100 Wk:90     |
+| Agent Hwang Grade 5 | HP:82 SP:100 Wk:90     |
 |                     | Sp:66 | Apostle Suit & |
 |                     | Lens                   |
 +---------------------+------------------------+
-| Agent Song (Lvl 5)  | HP:76 SP:85 Wk:80      |
+| Agent Song Grade 5  | HP:76 SP:85 Wk:80      |
 |                     | Sp:60 | Cherub Robe &  |
 |                     | Bow                    |
 +---------------------+------------------------+
-| Agent Bae (Lvl 5)   | HP:93 SP:76 Wk:78      |
+| Agent Bae Grade 5   | HP:93 SP:76 Wk:78      |
 |                     | Sp:56 | Bramble Aegis  |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:92 SP:80 Wk:88      |
+| Agent Park Grade 5  | HP:92 SP:80 Wk:88      |
 |                     | Sp:62 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
@@ -3733,26 +3734,26 @@ Here is our elite deployment roster for the grand operational push:
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Bae (Lvl 5)   | HP:96 SP:78 Wk:82      |
+| Agent Bae Grade 5   | HP:96 SP:78 Wk:82      |
 |                     | Sp:58 | Bramble Aegis  |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Hwang (Lvl 5) | HP:85 SP:100 Wk:94     |
+| Agent Hwang Grade 5 | HP:85 SP:100 Wk:94     |
 |                     | Sp:68 | Apostle Suit & |
 |                     | Mirror                 |
 +---------------------+------------------------+
-| Agent Kim (Lvl 5)   | HP:100 SP:82 Wk:84     |
+| Agent Kim Grade 5   | HP:100 SP:82 Wk:84     |
 |                     | Sp:60 | Mother's Shawl |
 |                     | & Locket               |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:95 SP:82 Wk:90      |
+| Agent Park Grade 5  | HP:95 SP:82 Wk:90      |
 |                     | Sp:64 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Song (Lvl 5)  | HP:80 SP:88 Wk:84      |
+| Agent Song Grade 5  | HP:80 SP:88 Wk:84      |
 |                     | Sp:62 | Cherub Robe &  |
 |                     | Bow                    |
 +---------------------+------------------------+
@@ -3982,22 +3983,22 @@ Deployment roster for Floor 5 (Border Watch) and Floor 6 (Deep Vault):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Seo (Lvl 5)   | HP:82 SP:95 Wk:88      |
+| Agent Seo Grade 5   | HP:82 SP:95 Wk:88      |
 |                     | Sp:60 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Jin (Lvl 5)   | HP:75 SP:80 Wk:78      |
+| Agent Jin Grade 5   | HP:75 SP:80 Wk:78      |
 |                     | Sp:56 | Shroud Suit &  |
 |                     | Sonic Bow              |
 +---------------------+------------------------+
-| Agent Yoo (Lvl 5)   | HP:94 SP:76 Wk:82      |
+| Agent Yoo Grade 5   | HP:94 SP:76 Wk:82      |
 |                     | Sp:58 | Lock Armor &   |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Lim (Lvl 4)   | HP:68 SP:88 Wk:74      |
+| Agent Lim Grade 4   | HP:68 SP:88 Wk:74      |
 |                     | Sp:52 | Mourner Shroud |
 |                     | & Locket               |
 +---------------------+------------------------+
@@ -4235,22 +4236,22 @@ Deployment roster for Floor 2 (Containment Alpha) and Floor 5 (Border Watch):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Kang (Lvl 5)  | HP:96 SP:78 Wk:84      |
+| Agent Kang Grade 5  | HP:96 SP:78 Wk:84      |
 |                     | Sp:62 | Threshold Suit |
 |                     | & Greatsword           |
 +---------------------+------------------------+
-| Agent Noh (Lvl 5)   | HP:80 SP:85 Wk:80      |
+| Agent Noh Grade 5   | HP:80 SP:85 Wk:80      |
 |                     | Sp:55 | Thorn Mantle & |
 |                     | Sonic Rifle            |
 +---------------------+------------------------+
-| Agent Hwang (Lvl 5) | HP:84 SP:96 Wk:90      |
+| Agent Hwang Grade 5 | HP:84 SP:96 Wk:90      |
 |                     | Sp:64 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:88 SP:74 Wk:76      |
+| Agent Park Grade 5  | HP:88 SP:74 Wk:76      |
 |                     | Sp:56 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
@@ -4485,22 +4486,22 @@ Deployment roster for Floor 2 (Containment Alpha) and Floor 3 (Safety & Ballast)
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:84 SP:100 Wk:92     |
+| Agent Hwang Grade 5 | HP:84 SP:100 Wk:92     |
 |                     | Sp:65 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:98 SP:80 Wk:86      |
+| Agent Kang Grade 5  | HP:98 SP:80 Wk:86      |
 |                     | Sp:62 | Soldier Coat & |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Shin (Lvl 5)  | HP:92 SP:82 Wk:84      |
+| Agent Shin Grade 5  | HP:92 SP:82 Wk:84      |
 |                     | Sp:58 | Saint Robe &   |
 |                     | Choral Staff           |
 +---------------------+------------------------+
-| Agent Noh (Lvl 5)   | HP:82 SP:88 Wk:82      |
+| Agent Noh Grade 5   | HP:82 SP:88 Wk:82      |
 |                     | Sp:56 | Thorn Mantle & |
 |                     | Clockwork Bayonet      |
 +---------------------+------------------------+
@@ -4679,8 +4680,8 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-021 (*The Hollow Ch
 |                      | Speed, Immune to      |
 |                      | Flashes. Alloc: Hwang.|
 +----------------------+-----------------------+
-| Feathered Mantle     | Back Slot: +15% Weight|
-|                      | Res, +5 Movement Spd. |
+| Feathered Mantle     | Back: +15% Weight     |
+|                      | Resistance, +5 Speed. |
 |                      | Alloc: Agent Kang.    |
 +======================+=======================+
 ```
@@ -4737,22 +4738,22 @@ Deployment roster for Floor 4 (Training & Sanity) and Floor 6 (Forge & Ballast):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Shin (Lvl 5)  | HP:94 SP:84 Wk:86      |
+| Agent Shin Grade 5  | HP:94 SP:84 Wk:86      |
 | [10 Marks Active]   | Sp:58 | Saint Robe &   |
 |                     | Choral Staff           |
 +---------------------+------------------------+
-| Agent Bae (Lvl 5)   | HP:86 SP:92 Wk:88      |
+| Agent Bae Grade 5   | HP:86 SP:92 Wk:88      |
 |                     | Sp:62 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Yoo (Lvl 5)   | HP:98 SP:78 Wk:84      |
+| Agent Yoo Grade 5   | HP:98 SP:78 Wk:84      |
 |                     | Sp:60 | Lock Armor &   |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Jin (Lvl 5)   | HP:78 SP:82 Wk:80      |
+| Agent Jin Grade 5   | HP:78 SP:82 Wk:80      |
 |                     | Sp:55 | Shroud Suit &  |
 |                     | Sonic Bow              |
 +---------------------+------------------------+
@@ -4989,22 +4990,22 @@ Deployment roster for Floor 4 (Training & Sanity) and Floor 6 (Forge & Ballast):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:88 SP:100 Wk:94     |
+| Agent Hwang Grade 5 | HP:88 SP:100 Wk:94     |
 |                     | Sp:66 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:100 SP:82 Wk:88     |
+| Agent Kang Grade 5  | HP:100 SP:82 Wk:88     |
 |                     | Sp:64 | Soldier Coat & |
 |                     | Feathered Mantle       |
 +---------------------+------------------------+
-| Agent Bae (Lvl 5)   | HP:88 SP:96 Wk:90      |
+| Agent Bae Grade 5   | HP:88 SP:96 Wk:90      |
 |                     | Sp:62 | Hollow Crown & |
 |                     | Apostle Suit           |
 +---------------------+------------------------+
-| Agent Jin (Lvl 5)   | HP:80 SP:85 Wk:82      |
+| Agent Jin Grade 5   | HP:80 SP:85 Wk:82      |
 |                     | Sp:56 | Shroud Suit &  |
 |                     | Choral Bell            |
 +---------------------+------------------------+
@@ -5271,22 +5272,22 @@ Deployment roster for Floor 2 (Containment Lead) and Floor 8 (Deep Vaults):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Shin (Lvl 5)  | HP:92 SP:84 Wk:88      |
+| Agent Shin Grade 5  | HP:92 SP:84 Wk:88      |
 |                     | Sp:60 | Saint Robe &   |
 |                     | Choral Staff           |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:100 SP:82 Wk:88     |
+| Agent Kang Grade 5  | HP:100 SP:82 Wk:88     |
 |                     | Sp:64 | Soldier Coat & |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:86 SP:92 Wk:85      |
+| Agent Park Grade 5  | HP:86 SP:92 Wk:85      |
 |                     | Sp:58 | Shroud Suit &  |
 |                     | Sonic Bow              |
 +---------------------+------------------------+
-| Agent Lee (Lvl 4)   | HP:74 SP:80 Wk:76      |
+| Agent Lee Grade 4   | HP:74 SP:80 Wk:76      |
 |                     | Sp:54 | Mourner Shroud |
 |                     | & Locket               |
 +---------------------+------------------------+
@@ -5529,22 +5530,22 @@ Deployment roster for Floor 3 (Archive Lead) and Floor 6 (Extraction Lead):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Lim (Lvl 5)   | HP:82 SP:95 Wk:90      |
+| Agent Lim Grade 5   | HP:82 SP:95 Wk:90      |
 |                     | Sp:62 | Mourner Shroud |
 |                     | & Locket               |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:100 SP:84 Wk:88     |
+| Agent Kang Grade 5  | HP:100 SP:84 Wk:88     |
 |                     | Sp:64 | Soldier Coat & |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Seo (Lvl 5)   | HP:86 SP:98 Wk:92      |
+| Agent Seo Grade 5   | HP:86 SP:98 Wk:92      |
 |                     | Sp:65 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Yoo (Lvl 5)   | HP:96 SP:78 Wk:84      |
+| Agent Yoo Grade 5   | HP:96 SP:78 Wk:84      |
 |                     | Sp:58 | Lock Armor &   |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
@@ -5726,9 +5727,9 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-300 (*The Memory Lo
 |                      | Immunity, +20% Armor  |
 |                      | Defense. Alloc: Yoo.  |
 +----------------------+-----------------------+
-| Amber Sap Ring       | Finger: +10% Work Spd,|
-|                      | +15 Max SP, Calm Aura.|
-|                      | Alloc: Agent Lim.     |
+| Amber Sap Ring       | Finger: +10% Work     |
+|                      | Speed, +15 Max SP.    |
+|                      | Calm Aura. Alloc: Lim.|
 +======================+=======================+
 ```
 
@@ -5789,22 +5790,22 @@ Deployment roster for Floor 5 (Border Control) and Floor 7 (Outsider Relations):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Cha (Lvl 5)   | HP:94 SP:82 Wk:86      |
+| Agent Cha Grade 5   | HP:94 SP:82 Wk:86      |
 |                     | Sp:60 | Forge Bracer & |
 |                     | Apostle Suit           |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:102 SP:84 Wk:88     |
+| Agent Kang Grade 5  | HP:102 SP:84 Wk:88     |
 |                     | Sp:64 | Soldier Coat & |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Bae (Lvl 5)   | HP:88 SP:96 Wk:90      |
+| Agent Bae Grade 5   | HP:88 SP:96 Wk:90      |
 |                     | Sp:62 | Hollow Crown & |
 |                     | Apostle Suit           |
 +---------------------+------------------------+
-| Agent Tak (Lvl 5)   | HP:90 SP:80 Wk:84      |
+| Agent Tak Grade 5   | HP:90 SP:80 Wk:84      |
 |                     | Sp:56 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
@@ -6048,22 +6049,22 @@ Deployment roster for Floor 4 (Research Lead) and Floor 2 (Containment Lead):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hong (Lvl 5)  | HP:88 SP:100 Wk:94     |
+| Agent Hong Grade 5  | HP:88 SP:100 Wk:94     |
 |                     | Sp:64 | Saint Robe &   |
 |                     | Choral Staff           |
 +---------------------+------------------------+
-| Agent Yoon (Lvl 5)  | HP:84 SP:96 Wk:90      |
+| Agent Yoon Grade 5  | HP:84 SP:96 Wk:90      |
 |                     | Sp:60 | Tear Veil Suit |
 |                     | & Sonic Bow            |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:104 SP:84 Wk:88     |
+| Agent Kang Grade 5  | HP:104 SP:84 Wk:88     |
 |                     | Sp:65 | Soldier Coat & |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Kwak (Lvl 5)  | HP:90 SP:86 Wk:82      |
+| Agent Kwak Grade 5  | HP:90 SP:86 Wk:82      |
 |                     | Sp:56 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
@@ -6302,22 +6303,22 @@ Deployment roster for Floor 1 (Central Command) and Floor 3 (Archive Lead):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Kang (Lvl 5)  | HP:105 SP:85 Wk:90     |
+| Agent Kang Grade 5  | HP:105 SP:85 Wk:90     |
 |                     | Sp:65 | Soldier Coat & |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Seo (Lvl 5)   | HP:88 SP:100 Wk:94     |
+| Agent Seo Grade 5   | HP:88 SP:100 Wk:94     |
 |                     | Sp:66 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:88 SP:94 Wk:88      |
+| Agent Park Grade 5  | HP:88 SP:94 Wk:88      |
 |                     | Sp:60 | Mourner Veil & |
 |                     | Sonic Bow              |
 +---------------------+------------------------+
-| Agent Kim (Lvl 5)   | HP:98 SP:80 Wk:84      |
+| Agent Kim Grade 5   | HP:98 SP:80 Wk:84      |
 |                     | Sp:58 | Lock Armor &   |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
@@ -6579,22 +6580,22 @@ Deployment roster for Floor 2 (Containment Lead) and Floor 8 (Deep Vaults):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Shin (Lvl 5)  | HP:94 SP:86 Wk:90      |
+| Agent Shin Grade 5  | HP:94 SP:86 Wk:90      |
 |                     | Sp:62 | Saint Robe &   |
 |                     | Choral Staff           |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:106 SP:86 Wk:90     |
+| Agent Kang Grade 5  | HP:106 SP:86 Wk:90     |
 |                     | Sp:65 | Soldier Coat & |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:88 SP:94 Wk:88      |
+| Agent Park Grade 5  | HP:88 SP:94 Wk:88      |
 |                     | Sp:60 | Mourner Veil & |
 |                     | Sonic Bow              |
 +---------------------+------------------------+
-| Agent Lee (Lvl 5)   | HP:80 SP:84 Wk:80      |
+| Agent Lee Grade 5   | HP:80 SP:84 Wk:80      |
 |                     | Sp:56 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
@@ -6831,22 +6832,22 @@ Deployment roster for Floor 5 (Border Control) and Floor 7 (Outsider Relations):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Noh (Lvl 5)   | HP:86 SP:92 Wk:88      |
+| Agent Noh Grade 5   | HP:86 SP:92 Wk:88      |
 |                     | Sp:62 | Thorn Mantle & |
 |                     | Clockwork Bayonet      |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:108 SP:86 Wk:90     |
+| Agent Kang Grade 5  | HP:108 SP:86 Wk:90     |
 |                     | Sp:65 | Soldier Coat & |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Hwang (Lvl 5) | HP:90 SP:100 Wk:96     |
+| Agent Hwang Grade 5 | HP:90 SP:100 Wk:96     |
 |                     | Sp:66 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Bae (Lvl 5)   | HP:90 SP:96 Wk:92      |
+| Agent Bae Grade 5   | HP:90 SP:96 Wk:92      |
 |                     | Sp:62 | Hollow Crown & |
 |                     | Apostle Suit           |
 +---------------------+------------------------+
@@ -7085,22 +7086,22 @@ Deployment roster for Floor 2 (Containment Lead) and Floor 4 (Research Lead):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:92 SP:100 Wk:96     |
+| Agent Hwang Grade 5 | HP:92 SP:100 Wk:96     |
 |                     | Sp:66 | Beak Visor &   |
 |                     | Apostle Suit           |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:108 SP:88 Wk:92     |
+| Agent Kang Grade 5  | HP:108 SP:88 Wk:92     |
 |                     | Sp:65 | Feather Mantle |
 |                     | & Heavy Maul           |
 +---------------------+------------------------+
-| Agent Shin (Lvl 5)  | HP:96 SP:88 Wk:90      |
+| Agent Shin Grade 5  | HP:96 SP:88 Wk:90      |
 |                     | Sp:62 | Saint Robe &   |
 |                     | Choral Staff           |
 +---------------------+------------------------+
-| Agent Jin (Lvl 5)   | HP:82 SP:86 Wk:84      |
+| Agent Jin Grade 5   | HP:82 SP:86 Wk:84      |
 |                     | Sp:58 | Shroud Suit &  |
 |                     | Choral Bell            |
 +---------------------+------------------------+
@@ -7339,22 +7340,22 @@ Deployment roster for Floor 4 (Research Lead) and Floor 2 (Containment Lead):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hong (Lvl 5)  | HP:90 SP:100 Wk:96     |
+| Agent Hong Grade 5  | HP:90 SP:100 Wk:96     |
 |                     | Sp:65 | Apostolic Halo |
 |                     | & Saint Robe           |
 +---------------------+------------------------+
-| Agent Yoon (Lvl 5)  | HP:86 SP:98 Wk:92      |
+| Agent Yoon Grade 5  | HP:86 SP:98 Wk:92      |
 |                     | Sp:62 | Dawn Robe &    |
 |                     | Sonic Bow              |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:110 SP:88 Wk:92     |
+| Agent Kang Grade 5  | HP:110 SP:88 Wk:92     |
 |                     | Sp:66 | Soldier Coat & |
 |                     | Heavy Maul             |
 +---------------------+------------------------+
-| Agent Bae (Lvl 5)   | HP:90 SP:98 Wk:92      |
+| Agent Bae Grade 5   | HP:90 SP:98 Wk:92      |
 |                     | Sp:62 | Hollow Crown & |
 |                     | Apostle Suit           |
 +---------------------+------------------------+
@@ -7592,22 +7593,22 @@ Deployment roster for Floor 5 (Border Control) and Floor 6 (Forge District):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Cha (Lvl 5)   | HP:96 SP:86 Wk:90      |
+| Agent Cha Grade 5   | HP:96 SP:86 Wk:90      |
 |                     | Sp:62 | Forge Bracer & |
 |                     | Refugee Cowl           |
 +---------------------+------------------------+
-| Agent Kang (Lvl 5)  | HP:110 SP:90 Wk:92     |
+| Agent Kang Grade 5  | HP:110 SP:90 Wk:92     |
 |                     | Sp:66 | Bridge Span &  |
 |                     | Soldier Coat           |
 +---------------------+------------------------+
-| Agent Tak (Lvl 5)   | HP:92 SP:84 Wk:86      |
+| Agent Tak Grade 5   | HP:92 SP:84 Wk:86      |
 |                     | Sp:58 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Hwang (Lvl 5) | HP:92 SP:100 Wk:96     |
+| Agent Hwang Grade 5 | HP:92 SP:100 Wk:96     |
 |                     | Sp:66 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
@@ -7847,22 +7848,22 @@ Deployment roster for Floor 1 (Central Command) and Floor 3 (Archive Lead):
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Kang (Lvl 5)  | HP:112 SP:90 Wk:94     |
+| Agent Kang Grade 5  | HP:112 SP:90 Wk:94     |
 |                     | Sp:66 | Absolute       |
 |                     | Verdict & Heavy Maul   |
 +---------------------+------------------------+
-| Agent Seo (Lvl 5)   | HP:90 SP:100 Wk:96     |
+| Agent Seo Grade 5   | HP:90 SP:100 Wk:96     |
 |                     | Sp:66 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Hong (Lvl 5)  | HP:92 SP:100 Wk:96     |
+| Agent Hong Grade 5  | HP:92 SP:100 Wk:96     |
 |                     | Sp:65 | Apostolic Halo |
 |                     | & Saint Robe           |
 +---------------------+------------------------+
-| Agent Kim (Lvl 5)   | HP:100 SP:84 Wk:88     |
+| Agent Kim Grade 5   | HP:100 SP:84 Wk:88     |
 |                     | Sp:60 | Foundation     |
 |                     | Greaves & Heavy Maul   |
 +---------------------+------------------------+
@@ -8197,19 +8198,19 @@ Meltdown Level VI triggered across six core baseline chambers at 13:40. The enti
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | SE-008 (The Maw)   | Flere  | -12%  | +0.02  |
-| Agent Shin (Lvl 4) | Lament | CALM  | 26 OP  |
+| Agent Shin Grade 4 | Lament | CALM  | 26 OP  |
 +--------------------+--------+-------+--------+
 | SE-001 (Bell)      | Flere  | -10%  | +0.02  |
-| Agent Park (Lvl 4) | Lament | CALM  | 25 OP  |
+| Agent Park Grade 4 | Lament | CALM  | 25 OP  |
 +--------------------+--------+-------+--------+
 | SE-014 (Veil)      | Videre | -08%  | +0.02  |
-| Agent Lee (Lvl 4)  | Void   | STBL  | 22 OP  |
+| Agent Lee Grade 4  | Void   | STBL  | 22 OP  |
 +--------------------+--------+-------+--------+
 | SE-025 (Child)     | Flere  | -09%  | +0.02  |
-| Agent Choi (Lvl 4) | Lament | CALM  | 24 OP  |
+| Agent Choi Grade 4 | Lament | CALM  | 24 OP  |
 +--------------------+--------+-------+--------+
 | SE-036 (Hourglass) | Pugna  | -11%  | +0.02  |
-| Agent Kang (Lvl 4) | Grudge | STBL  | 25 OP  |
+| Agent Kang Grade 4 | Grudge | STBL  | 25 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.108 TONS PURE HAN |
 +==============================================+
@@ -8398,19 +8399,19 @@ Meltdown Level VI triggered across six sorrow and weeping chambers at 13:10. All
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | SE-008 (The Maw)   | Flere  | -15%  | +0.02  |
-| Agent Shin (Lvl 4) | Lament | CALM  | 28 OP  |
+| Agent Shin Grade 4 | Lament | CALM  | 28 OP  |
 +--------------------+--------+-------+--------+
 | SE-001 (Bell)      | Flere  | -12%  | +0.02  |
-| Agent Park (Lvl 4) | Lament | CALM  | 26 OP  |
+| Agent Park Grade 4 | Lament | CALM  | 26 OP  |
 +--------------------+--------+-------+--------+
 | SE-025 (Child)     | Flere  | -11%  | +0.02  |
-| Agent Choi (Lvl 4) | Lament | CALM  | 25 OP  |
+| Agent Choi Grade 4 | Lament | CALM  | 25 OP  |
 +--------------------+--------+-------+--------+
 | SE-081 (Saint)     | Flere  | -14%  | +0.02  |
-| Agent Hong (Lvl 4) | Lament | CALM  | 27 OP  |
+| Agent Hong Grade 4 | Lament | CALM  | 27 OP  |
 +--------------------+--------+-------+--------+
 | SE-140 (Willow)    | Flere  | -12%  | +0.02  |
-| Agent Bae (Lvl 4)  | Lament | CALM  | 26 OP  |
+| Agent Bae Grade 4  | Lament | CALM  | 26 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.110 TONS PURE HAN |
 +==============================================+
@@ -8598,20 +8599,20 @@ Meltdown Level VI triggered across the Bird wing at 14:15. The three cells opera
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | SE-031 (Small Bird)| Videre | -15%  | +0.02  |
-| Agent Han (Lvl 4)  | Void   | CALM  | 27 OP  |
+| Agent Han Grade 4  | Void   | CALM  | 27 OP  |
 +--------------------+--------+-------+--------+
 | SE-032 (Tall Bird) | Ferre  | -14%  | +0.02  |
-| Agent Song (Lvl 4) | Weight | CALM  | 28 OP  |
+| Agent Song Grade 4 | Weight | CALM  | 28 OP  |
 +--------------------+--------+-------+--------+
 | SE-033 (Big Bird)  | Videre | -13%  | +0.02  |
 | Agent Hwang        | Void   | CALM  | 26 OP  |
 | (Grade IV)         |        |       |        |
 +--------------------+--------+-------+--------+
 | SE-036 (Hourglass) | Pugna  | -09%  | +0.02  |
-| Agent Kang (Lvl 4) | Grudge | STBL  | 24 OP  |
+| Agent Kang Grade 4 | Grudge | STBL  | 24 OP  |
 +--------------------+--------+-------+--------+
 | SE-061 (Debtor)    | Ferre  | -08%  | +0.02  |
-| Agent Shin (Lvl 4) | Weight | STBL  | 23 OP  |
+| Agent Shin Grade 4 | Weight | STBL  | 23 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.111 TONS PURE HAN |
 +==============================================+
@@ -8806,19 +8807,19 @@ Meltdown Level VI triggered across six healing and devotional chambers at 13:50.
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | HT-V-HH-001 (Hand) | Flere  | -20%  | +0.03  |
-| Agent Yoon (Lvl 4) | Lament | CALM  | 30 OP  |
+| Agent Yoon Grade 4 | Lament | CALM  | 30 OP  |
 +--------------------+--------+-------+--------+
 | SE-041 (Tears)     | Flere  | -14%  | +0.02  |
-| Agent Bae (Lvl 4)  | Lament | CALM  | 27 OP  |
+| Agent Bae Grade 4  | Lament | CALM  | 27 OP  |
 +--------------------+--------+-------+--------+
 | SE-042 (Fury)      | Pugna  | -15%  | +0.02  |
-| Agent Kang (Lvl 4) | Grudge | CALM  | 28 OP  |
+| Agent Kang Grade 4 | Grudge | CALM  | 28 OP  |
 +--------------------+--------+-------+--------+
 | SE-081 (Saint)     | Flere  | -16%  | +0.02  |
-| Agent Hong (Lvl 4) | Lament | CALM  | 29 OP  |
+| Agent Hong Grade 4 | Lament | CALM  | 29 OP  |
 +--------------------+--------+-------+--------+
 | SE-088 (Fountain)  | Flere  | -14%  | +0.02  |
-| Agent Kwak (Lvl 4) | Lament | CALM  | 26 OP  |
+| Agent Kwak Grade 4 | Lament | CALM  | 26 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.112 TONS PURE HAN |
 +==============================================+
@@ -9011,20 +9012,20 @@ Meltdown Level VI triggered across the primary sovereign chambers at 14:00. The 
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | SE-001 (Bell)      | Flere  | -15%  | +0.02  |
-| Agent Park (Lvl 4) | Lament | CALM  | 28 OP  |
+| Agent Park Grade 4 | Lament | CALM  | 28 OP  |
 +--------------------+--------+-------+--------+
 | SE-002 (Colossus)  | Flere  | -14%  | +0.02  |
-| Agent Jang (Lvl 4) | Lament | CALM  | 27 OP  |
+| Agent Jang Grade 4 | Lament | CALM  | 27 OP  |
 +--------------------+--------+-------+--------+
 | SE-005 (Mother)    | Ferre  | -16%  | +0.02  |
-| Agent Kim (Lvl 4)  | Weight | CALM  | 29 OP  |
+| Agent Kim Grade 4  | Weight | CALM  | 29 OP  |
 +--------------------+--------+-------+--------+
 | SE-008 (The Maw)   | Flere  | -18%  | +0.03  |
-| Agent Shin (Lvl 4) | Lament | CALM  | 30 OP  |
+| Agent Shin Grade 4 | Lament | CALM  | 30 OP  |
 +--------------------+--------+-------+--------+
 | SE-010             | Pugna  | -16%  | +0.02  |
 | (Convergenc)       |        |       |        |
-| Agent Kang (Lvl 4) | Grudge | CALM  | 30 OP  |
+| Agent Kang Grade 4 | Grudge | CALM  | 30 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.114 TONS PURE HAN |
 +==============================================+
@@ -9425,19 +9426,19 @@ Meltdown alerts across the facility register zero activity. The entities remain 
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | SE-008 (The Well)  | Flere  | -05%  | +0.01  |
-| Agent Shin (Lvl 4) | Lament | CALM  | 20 OP  |
+| Agent Shin Grade 4 | Lament | CALM  | 20 OP  |
 +--------------------+--------+-------+--------+
 | SE-001 (Bell)      | Flere  | -04%  | +0.01  |
-| Agent Park (Lvl 4) | Lament | CALM  | 18 OP  |
+| Agent Park Grade 4 | Lament | CALM  | 18 OP  |
 +--------------------+--------+-------+--------+
 | SE-014 (Veil)      | Videre | -03%  | +0.01  |
-| Agent Lee (Lvl 4)  | Void   | STBL  | 16 OP  |
+| Agent Lee Grade 4  | Void   | STBL  | 16 OP  |
 +--------------------+--------+-------+--------+
 | SE-025 (Child)     | Flere  | -05%  | +0.01  |
-| Agent Choi (Lvl 4) | Lament | CALM  | 19 OP  |
+| Agent Choi Grade 4 | Lament | CALM  | 19 OP  |
 +--------------------+--------+-------+--------+
 | SE-061 (Debtor)    | Ferre  | -04%  | +0.01  |
-| Agent Kang (Lvl 4) | Weight | STBL  | 18 OP  |
+| Agent Kang Grade 4 | Weight | STBL  | 18 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.052 TONS PURE HAN |
 +==============================================+
@@ -9625,16 +9626,16 @@ Meltdown alerts remain at absolute zero. The Trinity of Dawn's presence radiates
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | HT-V-HC-001 (Trin) | Flere  | -20%  | +0.02  |
-| Agent Han (Lvl 4)  | Lament | CALM  | 30 OP  |
+| Agent Han Grade 4  | Lament | CALM  | 30 OP  |
 +--------------------+--------+-------+--------+
 | SE-036 (Hourglass) | Videre | -06%  | +0.01  |
-| Agent Kang (Lvl 4) | Void   | STBL  | 20 OP  |
+| Agent Kang Grade 4 | Void   | STBL  | 20 OP  |
 +--------------------+--------+-------+--------+
 | SE-044 (Clock)     | Videre | -05%  | +0.01  |
-| Agent Kwon (Lvl 4) | Void   | STBL  | 19 OP  |
+| Agent Kwon Grade 4 | Void   | STBL  | 19 OP  |
 +--------------------+--------+-------+--------+
 | SE-061 (Debtor)    | Ferre  | -06%  | +0.01  |
-| Agent Shin (Lvl 4) | Weight | STBL  | 18 OP  |
+| Agent Shin Grade 4 | Weight | STBL  | 18 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.054 TONS PURE HAN |
 +==============================================+
@@ -10025,19 +10026,19 @@ Strain telemetry remains at absolute zero across all sectors. The former contain
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | SE-001 (Bell)      | Flere  | -00%  | +0.01  |
-| Agent Park (Lvl 4) | Comm   | PEACE | 20 OP  |
+| Agent Park Grade 4 | Comm   | PEACE | 20 OP  |
 +--------------------+--------+-------+--------+
 | SE-005 (Mother)    | Ferre  | -00%  | +0.01  |
-| Agent Kim (Lvl 4)  | Comm   | PEACE | 22 OP  |
+| Agent Kim Grade 4  | Comm   | PEACE | 22 OP  |
 +--------------------+--------+-------+--------+
 | SE-081 (Saint)     | Flere  | -00%  | +0.01  |
-| Agent Hong (Lvl 4) | Comm   | PEACE | 25 OP  |
+| Agent Hong Grade 4 | Comm   | PEACE | 25 OP  |
 +--------------------+--------+-------+--------+
 | SE-140 (Willow)    | Flere  | -00%  | +0.01  |
-| Agent Bae (Lvl 4)  | Comm   | PEACE | 21 OP  |
+| Agent Bae Grade 4  | Comm   | PEACE | 21 OP  |
 +--------------------+--------+-------+--------+
 | SE-300 (Lock)      | Ferre  | -00%  | +0.01  |
-| Agent Yoo (Lvl 4)  | Comm   | PEACE | 20 OP  |
+| Agent Yoo Grade 4  | Comm   | PEACE | 20 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.078 TONS PURE HAN |
 +==============================================+
@@ -10410,19 +10411,19 @@ Strain monitors confirm complete temporal normalization. SE-C-IIIβ-044 (*The Br
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | SE-044 (The Clock) | Videre | -00%  | +0.01  |
-| Agent Kwon (Lvl 4) | Sync   | PEACE | 22 OP  |
+| Agent Kwon Grade 4 | Sync   | PEACE | 22 OP  |
 +--------------------+--------+-------+--------+
 | SE-036 (Hourglass) | Videre | -00%  | +0.01  |
-| Agent Kang (Lvl 4) | Sync   | PEACE | 23 OP  |
+| Agent Kang Grade 4 | Sync   | PEACE | 23 OP  |
 +--------------------+--------+-------+--------+
 | SE-115 (Well)      | Videre | -00%  | +0.01  |
-| Agent Seo (Lvl 4)  | Sync   | PEACE | 24 OP  |
+| Agent Seo Grade 4  | Sync   | PEACE | 24 OP  |
 +--------------------+--------+-------+--------+
 | SE-300 (Lock)      | Ferre  | -00%  | +0.01  |
-| Agent Yoo (Lvl 4)  | Sync   | PEACE | 21 OP  |
+| Agent Yoo Grade 4  | Sync   | PEACE | 21 OP  |
 +--------------------+--------+-------+--------+
 | SE-001 (Bell)      | Flere  | -00%  | +0.01  |
-| Agent Park (Lvl 4) | Sync   | PEACE | 22 OP  |
+| Agent Park Grade 4 | Sync   | PEACE | 22 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.078 TONS PURE HAN |
 +==============================================+

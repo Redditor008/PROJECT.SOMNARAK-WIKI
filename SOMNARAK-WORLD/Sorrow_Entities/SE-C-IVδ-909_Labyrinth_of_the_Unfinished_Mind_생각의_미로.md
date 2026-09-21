@@ -116,7 +116,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An underground complex beneath Zone C that reconfigures its corridors based on the thoughts of whoever enters it. The walls are inscribed with text th |
+| **Form** | An underground complex beneath Zone C that reconfigures its corridors based on the thoughts of whoever enters it. The walls are inscribed with text that changes as you read it — your own thoughts, reflected back. |
 | **Position / movement** | The entity is fixed at its registered position; it does not move but may expand or activate. |
 | **Material / signature** | Void elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
 | **Distinctive markers** | The Place-Mind manifestation is the primary identifying feature. Void pressure is present and measurable. |

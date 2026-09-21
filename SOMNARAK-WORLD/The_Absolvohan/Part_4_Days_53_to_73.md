@@ -48,22 +48,22 @@ Here is our deployed roster for Floor 3 (Archive Lead) and Floor 4 (Research Lea
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:78 SP:92 Wk:84      |
+| Agent Hwang Grade 5 | HP:78 SP:92 Wk:84      |
 |                     | Sp:62 | Apostle Suit & |
 |                     | Scalpel                |
 +---------------------+------------------------+
-| Agent Song (Lvl 5)  | HP:70 SP:75 Wk:72      |
+| Agent Song Grade 5  | HP:70 SP:75 Wk:72      |
 |                     | Sp:54 | Cherub Robe &  |
 |                     | Bow                    |
 +---------------------+------------------------+
-| Agent Kim (Lvl 5)   | HP:90 SP:75 Wk:76      |
+| Agent Kim Grade 5   | HP:90 SP:75 Wk:76      |
 |                     | Sp:55 | Mother's Shawl |
 |                     | & Locket               |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:85 SP:72 Wk:80      |
+| Agent Park Grade 5  | HP:85 SP:72 Wk:80      |
 |                     | Sp:56 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
@@ -273,22 +273,22 @@ We deploy Ishall's vanguard on Floor 7 while keeping our primary harvesting team
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Song (Lvl 5)  | HP:74 SP:80 Wk:76      |
+| Agent Song Grade 5  | HP:74 SP:80 Wk:76      |
 |                     | Sp:58 | Cherub Robe &  |
 |                     | Bow                    |
 +---------------------+------------------------+
-| Agent Bae (Lvl 5)   | HP:82 SP:70 Wk:72      |
+| Agent Bae Grade 5   | HP:82 SP:70 Wk:72      |
 |                     | Sp:52 | Iron Aegis     |
 |                     | Plate & Maul           |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:88 SP:75 Wk:82      |
+| Agent Park Grade 5  | HP:88 SP:75 Wk:82      |
 |                     | Sp:58 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Kim (Lvl 5)   | HP:92 SP:78 Wk:78      |
+| Agent Kim Grade 5   | HP:92 SP:78 Wk:78      |
 |                     | Sp:56 | Mother's Shawl |
 |                     | & Locket               |
 +---------------------+------------------------+
@@ -497,22 +497,22 @@ Agent Bae is assigned as our dedicated Thorns Pruner on Floor 5:
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Bae (Lvl 5)   | HP:88 SP:74 Wk:76      |
+| Agent Bae Grade 5   | HP:88 SP:74 Wk:76      |
 |                     | Sp:54 | Iron Aegis     |
 |                     | Plate & Maul           |
 +---------------------+------------------------+
-| Agent Hwang (Lvl 5) | HP:80 SP:96 Wk:88      |
+| Agent Hwang Grade 5 | HP:80 SP:96 Wk:88      |
 |                     | Sp:65 | Apostle Suit & |
 |                     | Lens                   |
 +---------------------+------------------------+
-| Agent Kim (Lvl 5)   | HP:95 SP:80 Wk:80      |
+| Agent Kim Grade 5   | HP:95 SP:80 Wk:80      |
 |                     | Sp:58 | Mother's Shawl |
 |                     | & Locket               |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:90 SP:78 Wk:85      |
+| Agent Park Grade 5  | HP:90 SP:78 Wk:85      |
 |                     | Sp:60 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
@@ -723,22 +723,22 @@ Tactical Deployment Directive: High-Clarity specialist Agent Hwang is assigned t
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Hwang (Lvl 5) | HP:82 SP:100 Wk:90     |
+| Agent Hwang Grade 5 | HP:82 SP:100 Wk:90     |
 |                     | Sp:66 | Apostle Suit & |
 |                     | Lens                   |
 +---------------------+------------------------+
-| Agent Song (Lvl 5)  | HP:76 SP:85 Wk:80      |
+| Agent Song Grade 5  | HP:76 SP:85 Wk:80      |
 |                     | Sp:60 | Cherub Robe &  |
 |                     | Bow                    |
 +---------------------+------------------------+
-| Agent Bae (Lvl 5)   | HP:93 SP:76 Wk:78      |
+| Agent Bae Grade 5   | HP:93 SP:76 Wk:78      |
 |                     | Sp:56 | Bramble Aegis  |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:92 SP:80 Wk:88      |
+| Agent Park Grade 5  | HP:92 SP:80 Wk:88      |
 |                     | Sp:62 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
@@ -936,26 +936,26 @@ Here is our elite deployment roster for the grand operational push:
 
 ```text
 +---------------------+------------------------+
-| AGENT & LEVEL       | STATS & EQUIPMENT      |
+| AGENT & GRADE       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Bae (Lvl 5)   | HP:96 SP:78 Wk:82      |
+| Agent Bae Grade 5   | HP:96 SP:78 Wk:82      |
 |                     | Sp:58 | Bramble Aegis  |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Hwang (Lvl 5) | HP:85 SP:100 Wk:94     |
+| Agent Hwang Grade 5 | HP:85 SP:100 Wk:94     |
 |                     | Sp:68 | Apostle Suit & |
 |                     | Mirror                 |
 +---------------------+------------------------+
-| Agent Kim (Lvl 5)   | HP:100 SP:82 Wk:84     |
+| Agent Kim Grade 5   | HP:100 SP:82 Wk:84     |
 |                     | Sp:60 | Mother's Shawl |
 |                     | & Locket               |
 +---------------------+------------------------+
-| Agent Park (Lvl 5)  | HP:95 SP:82 Wk:90      |
+| Agent Park Grade 5  | HP:95 SP:82 Wk:90      |
 |                     | Sp:64 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Song (Lvl 5)  | HP:80 SP:88 Wk:84      |
+| Agent Song Grade 5  | HP:80 SP:88 Wk:84      |
 |                     | Sp:62 | Cherub Robe &  |
 |                     | Bow                    |
 +---------------------+------------------------+

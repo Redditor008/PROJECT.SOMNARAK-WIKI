@@ -129,19 +129,19 @@ Meltdown Level VI triggered across six core baseline chambers at 13:40. The enti
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | SE-008 (The Maw)   | Flere  | -12%  | +0.02  |
-| Agent Shin (Lvl 4) | Lament | CALM  | 26 OP  |
+| Agent Shin Grade 4 | Lament | CALM  | 26 OP  |
 +--------------------+--------+-------+--------+
 | SE-001 (Bell)      | Flere  | -10%  | +0.02  |
-| Agent Park (Lvl 4) | Lament | CALM  | 25 OP  |
+| Agent Park Grade 4 | Lament | CALM  | 25 OP  |
 +--------------------+--------+-------+--------+
 | SE-014 (Veil)      | Videre | -08%  | +0.02  |
-| Agent Lee (Lvl 4)  | Void   | STBL  | 22 OP  |
+| Agent Lee Grade 4  | Void   | STBL  | 22 OP  |
 +--------------------+--------+-------+--------+
 | SE-025 (Child)     | Flere  | -09%  | +0.02  |
-| Agent Choi (Lvl 4) | Lament | CALM  | 24 OP  |
+| Agent Choi Grade 4 | Lament | CALM  | 24 OP  |
 +--------------------+--------+-------+--------+
 | SE-036 (Hourglass) | Pugna  | -11%  | +0.02  |
-| Agent Kang (Lvl 4) | Grudge | STBL  | 25 OP  |
+| Agent Kang Grade 4 | Grudge | STBL  | 25 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.108 TONS PURE HAN |
 +==============================================+
@@ -330,19 +330,19 @@ Meltdown Level VI triggered across six sorrow and weeping chambers at 13:10. All
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | SE-008 (The Maw)   | Flere  | -15%  | +0.02  |
-| Agent Shin (Lvl 4) | Lament | CALM  | 28 OP  |
+| Agent Shin Grade 4 | Lament | CALM  | 28 OP  |
 +--------------------+--------+-------+--------+
 | SE-001 (Bell)      | Flere  | -12%  | +0.02  |
-| Agent Park (Lvl 4) | Lament | CALM  | 26 OP  |
+| Agent Park Grade 4 | Lament | CALM  | 26 OP  |
 +--------------------+--------+-------+--------+
 | SE-025 (Child)     | Flere  | -11%  | +0.02  |
-| Agent Choi (Lvl 4) | Lament | CALM  | 25 OP  |
+| Agent Choi Grade 4 | Lament | CALM  | 25 OP  |
 +--------------------+--------+-------+--------+
 | SE-081 (Saint)     | Flere  | -14%  | +0.02  |
-| Agent Hong (Lvl 4) | Lament | CALM  | 27 OP  |
+| Agent Hong Grade 4 | Lament | CALM  | 27 OP  |
 +--------------------+--------+-------+--------+
 | SE-140 (Willow)    | Flere  | -12%  | +0.02  |
-| Agent Bae (Lvl 4)  | Lament | CALM  | 26 OP  |
+| Agent Bae Grade 4  | Lament | CALM  | 26 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.110 TONS PURE HAN |
 +==============================================+
@@ -530,20 +530,20 @@ Meltdown Level VI triggered across the Bird wing at 14:15. The three cells opera
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | SE-031 (Small Bird)| Videre | -15%  | +0.02  |
-| Agent Han (Lvl 4)  | Void   | CALM  | 27 OP  |
+| Agent Han Grade 4  | Void   | CALM  | 27 OP  |
 +--------------------+--------+-------+--------+
 | SE-032 (Tall Bird) | Ferre  | -14%  | +0.02  |
-| Agent Song (Lvl 4) | Weight | CALM  | 28 OP  |
+| Agent Song Grade 4 | Weight | CALM  | 28 OP  |
 +--------------------+--------+-------+--------+
 | SE-033 (Big Bird)  | Videre | -13%  | +0.02  |
 | Agent Hwang        | Void   | CALM  | 26 OP  |
 | (Grade IV)         |        |       |        |
 +--------------------+--------+-------+--------+
 | SE-036 (Hourglass) | Pugna  | -09%  | +0.02  |
-| Agent Kang (Lvl 4) | Grudge | STBL  | 24 OP  |
+| Agent Kang Grade 4 | Grudge | STBL  | 24 OP  |
 +--------------------+--------+-------+--------+
 | SE-061 (Debtor)    | Ferre  | -08%  | +0.02  |
-| Agent Shin (Lvl 4) | Weight | STBL  | 23 OP  |
+| Agent Shin Grade 4 | Weight | STBL  | 23 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.111 TONS PURE HAN |
 +==============================================+
@@ -738,19 +738,19 @@ Meltdown Level VI triggered across six healing and devotional chambers at 13:50.
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | HT-V-HH-001 (Hand) | Flere  | -20%  | +0.03  |
-| Agent Yoon (Lvl 4) | Lament | CALM  | 30 OP  |
+| Agent Yoon Grade 4 | Lament | CALM  | 30 OP  |
 +--------------------+--------+-------+--------+
 | SE-041 (Tears)     | Flere  | -14%  | +0.02  |
-| Agent Bae (Lvl 4)  | Lament | CALM  | 27 OP  |
+| Agent Bae Grade 4  | Lament | CALM  | 27 OP  |
 +--------------------+--------+-------+--------+
 | SE-042 (Fury)      | Pugna  | -15%  | +0.02  |
-| Agent Kang (Lvl 4) | Grudge | CALM  | 28 OP  |
+| Agent Kang Grade 4 | Grudge | CALM  | 28 OP  |
 +--------------------+--------+-------+--------+
 | SE-081 (Saint)     | Flere  | -16%  | +0.02  |
-| Agent Hong (Lvl 4) | Lament | CALM  | 29 OP  |
+| Agent Hong Grade 4 | Lament | CALM  | 29 OP  |
 +--------------------+--------+-------+--------+
 | SE-088 (Fountain)  | Flere  | -14%  | +0.02  |
-| Agent Kwak (Lvl 4) | Lament | CALM  | 26 OP  |
+| Agent Kwak Grade 4 | Lament | CALM  | 26 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.112 TONS PURE HAN |
 +==============================================+
@@ -943,20 +943,20 @@ Meltdown Level VI triggered across the primary sovereign chambers at 14:00. The 
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | SE-001 (Bell)      | Flere  | -15%  | +0.02  |
-| Agent Park (Lvl 4) | Lament | CALM  | 28 OP  |
+| Agent Park Grade 4 | Lament | CALM  | 28 OP  |
 +--------------------+--------+-------+--------+
 | SE-002 (Colossus)  | Flere  | -14%  | +0.02  |
-| Agent Jang (Lvl 4) | Lament | CALM  | 27 OP  |
+| Agent Jang Grade 4 | Lament | CALM  | 27 OP  |
 +--------------------+--------+-------+--------+
 | SE-005 (Mother)    | Ferre  | -16%  | +0.02  |
-| Agent Kim (Lvl 4)  | Weight | CALM  | 29 OP  |
+| Agent Kim Grade 4  | Weight | CALM  | 29 OP  |
 +--------------------+--------+-------+--------+
 | SE-008 (The Maw)   | Flere  | -18%  | +0.03  |
-| Agent Shin (Lvl 4) | Lament | CALM  | 30 OP  |
+| Agent Shin Grade 4 | Lament | CALM  | 30 OP  |
 +--------------------+--------+-------+--------+
 | SE-010             | Pugna  | -16%  | +0.02  |
 | (Convergenc)       |        |       |        |
-| Agent Kang (Lvl 4) | Grudge | CALM  | 30 OP  |
+| Agent Kang Grade 4 | Grudge | CALM  | 30 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.114 TONS PURE HAN |
 +==============================================+
@@ -1357,19 +1357,19 @@ Meltdown alerts across the facility register zero activity. The entities remain 
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | SE-008 (The Well)  | Flere  | -05%  | +0.01  |
-| Agent Shin (Lvl 4) | Lament | CALM  | 20 OP  |
+| Agent Shin Grade 4 | Lament | CALM  | 20 OP  |
 +--------------------+--------+-------+--------+
 | SE-001 (Bell)      | Flere  | -04%  | +0.01  |
-| Agent Park (Lvl 4) | Lament | CALM  | 18 OP  |
+| Agent Park Grade 4 | Lament | CALM  | 18 OP  |
 +--------------------+--------+-------+--------+
 | SE-014 (Veil)      | Videre | -03%  | +0.01  |
-| Agent Lee (Lvl 4)  | Void   | STBL  | 16 OP  |
+| Agent Lee Grade 4  | Void   | STBL  | 16 OP  |
 +--------------------+--------+-------+--------+
 | SE-025 (Child)     | Flere  | -05%  | +0.01  |
-| Agent Choi (Lvl 4) | Lament | CALM  | 19 OP  |
+| Agent Choi Grade 4 | Lament | CALM  | 19 OP  |
 +--------------------+--------+-------+--------+
 | SE-061 (Debtor)    | Ferre  | -04%  | +0.01  |
-| Agent Kang (Lvl 4) | Weight | STBL  | 18 OP  |
+| Agent Kang Grade 4 | Weight | STBL  | 18 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.052 TONS PURE HAN |
 +==============================================+
@@ -1557,16 +1557,16 @@ Meltdown alerts remain at absolute zero. The Trinity of Dawn's presence radiates
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
 | HT-V-HC-001 (Trin) | Flere  | -20%  | +0.02  |
-| Agent Han (Lvl 4)  | Lament | CALM  | 30 OP  |
+| Agent Han Grade 4  | Lament | CALM  | 30 OP  |
 +--------------------+--------+-------+--------+
 | SE-036 (Hourglass) | Videre | -06%  | +0.01  |
-| Agent Kang (Lvl 4) | Void   | STBL  | 20 OP  |
+| Agent Kang Grade 4 | Void   | STBL  | 20 OP  |
 +--------------------+--------+-------+--------+
 | SE-044 (Clock)     | Videre | -05%  | +0.01  |
-| Agent Kwon (Lvl 4) | Void   | STBL  | 19 OP  |
+| Agent Kwon Grade 4 | Void   | STBL  | 19 OP  |
 +--------------------+--------+-------+--------+
 | SE-061 (Debtor)    | Ferre  | -06%  | +0.01  |
-| Agent Shin (Lvl 4) | Weight | STBL  | 18 OP  |
+| Agent Shin Grade 4 | Weight | STBL  | 18 OP  |
 +--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.054 TONS PURE HAN |
 +==============================================+
