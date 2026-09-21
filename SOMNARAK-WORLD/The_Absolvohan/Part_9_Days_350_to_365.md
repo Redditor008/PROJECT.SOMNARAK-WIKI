@@ -570,8 +570,8 @@ Zero Ordeals manifested on Day 360. In the night sky, the stars—frozen in iden
 +----------------------------------------------+
 | METRIC               | TARGET | REALIZED     |
 +----------------------------------------------+
-| Recursive Time Loop  | DISSOLVE| 100% EXTINC |
-| Linear Timeline      | ENGAGE  | 100% ACTIVE |
+| Recursive Time Loop  | PURGE  | 100% EXTINC  |
+| Linear Timeline      | ENGAGE | 100% ACTIVE  |
 | Chronological Safety | 100%   | PERFECT      |
 | Mortal Suffering     | 0.00%  | ZERO         |
 +----------------------------------------------+

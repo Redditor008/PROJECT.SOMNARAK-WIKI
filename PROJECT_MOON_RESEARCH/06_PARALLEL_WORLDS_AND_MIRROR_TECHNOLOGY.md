@@ -13,19 +13,19 @@ The technological and philosophical foundation of parallel dimensional observati
 +==============================================+
 | Scholar              | Philosophical Legacy  |
 +======================+=======================+
-| Yi Sang (이상)       | Architect of Wings    |
+| Yi Sang (Author)     | Architect of Wings    |
 +----------------------+-----------------------+
-| Young-ji (영지)      | Inventor of Mirror    |
+| Young-ji (Founder)   | Inventor of Mirror    |
 +----------------------+-----------------------+
-| Dongrang (동랑)      | Fallen K Corp Director|
+| Dongrang (K Corp)    | Fallen K Corp Director|
 +----------------------+-----------------------+
-| Dongbaek (동백)      | Spicebush Resistance  |
+| Dongbaek (Spicebush) | Resistance Leader     |
 +----------------------+-----------------------+
-| Gubo (구보)          | N Corp Co-Conspirator |
+| Gubo (N Corp)        | N Corp Co-Conspirator |
 +----------------------+-----------------------+
-| Aseah (아세아)       | Ring / Mirror Weaponry|
+| Aseah (Ring Tech)    | Ring / Mirror Weaponry|
 +----------------------+-----------------------+
-| Rim (림)             | League Intellectual   |
+| Rim (The Scholar)    | League Intellectual   |
 +======================+=======================+
 ```
 
@@ -111,7 +111,7 @@ The ultimate objective of all major geopolitical factions in the modern City is 
 +==============================================+
 |          THE GOLDEN BOUGH DYNAMICS           |
 +==============================================+
-| Property             | Phenomenological Nature|
+| Property             | Phenomenon Nature     |
 +======================+=======================+
 | Physical Form        | Crystallized Light    |
 +----------------------+-----------------------+

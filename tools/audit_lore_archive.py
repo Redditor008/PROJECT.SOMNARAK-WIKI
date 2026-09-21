@@ -17,6 +17,8 @@ import sys
 import re
 import json
 import argparse
+sys.path.insert(0, os.path.dirname(__file__))
+from check_box_symmetry import audit_file_symmetry
 
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 REF_DIR = os.path.join(ROOT_DIR, "REFERENCE_SOMNARAK_WIKI")
@@ -199,6 +201,27 @@ def audit_auxiliary_collections():
     }
 
 
+
+def audit_box_symmetry():
+    """Verify that all ASCII text boxes across the archive have 100% letter and display width symmetry."""
+    all_issues = []
+    scanned_count = 0
+    for root, dirs, files in os.walk(ROOT_DIR):
+        if ".git" in root or "node_modules" in root:
+            continue
+        for f in sorted(files):
+            if f.endswith(".md"):
+                p = os.path.join(root, f)
+                scanned_count += 1
+                iss = audit_file_symmetry(p)
+                all_issues.extend(iss)
+    return {
+        "status": "PASS" if not all_issues else "FAIL",
+        "scanned_files": scanned_count,
+        "total_issues": len(all_issues),
+        "issues": all_issues
+    }
+
 def main():
     parser = argparse.ArgumentParser(description="Audit Somnarak Non-Wiki Lore Archive")
     parser.add_argument("--json", action="store_true", help="Print audit results in JSON format")
@@ -210,6 +233,7 @@ def main():
     maw_res = audit_maw_registry()
     se_res = audit_sorrow_entities()
     aux_res = audit_auxiliary_collections()
+    sym_res = audit_box_symmetry()
 
     results = {
         "utf8": utf8_res,
@@ -217,6 +241,7 @@ def main():
         "maw_registry": maw_res,
         "sorrow_entities": se_res,
         "auxiliary": aux_res,
+        "box_symmetry": sym_res,
     }
 
     if args.json:
@@ -249,6 +274,7 @@ def main():
     print(f"   - Hope Transformations : {aux_res['hope_transformations_count']} files (Expected: 14)")
     print(f"   - Unknown Anomalies    : {aux_res['unknown_entities_count']} files (Expected: 8)")
     print(f"   - Facility Echo-Cores  : {aux_res['echo_cores_count']} files (Expected: 9)")
+    print(f"6. Text Box Symmetry     : {sym_res['status']} ({sym_res['scanned_files']} files, {sym_res['total_issues']} crooked rows)")
     print("=" * 68)
     print(" OVERALL LORE HEALTH: PASS")
     print("=" * 68)

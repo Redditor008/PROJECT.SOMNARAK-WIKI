@@ -13,15 +13,15 @@ At the deepest philosophical and metaphysical core of the Project Moon universe 
 +==============================================+
 | Cosmic Component     | Metaphysical Function |
 +======================+=======================+
-| The River (강)       | Collective Unconscious|
+| The River            | Collective Unconscious|
 +----------------------+-----------------------+
-| The Well (우물)      | Subconscious Reservoir|
+| The Well             | Subconscious Reservoir|
 +----------------------+-----------------------+
-| Cogito (코기토)      | Extraction Catalyst   |
+| Cogito Primer        | Extraction Catalyst   |
 +----------------------+-----------------------+
-| Carmen (카르멘)      | Primordial Source/Voice|
+| Carmen (Source)      | Primordial Voice Lead |
 +----------------------+-----------------------+
-| Ayin (아인)          | Architect of the Seed |
+| Ayin (Architect)     | Architect of the Seed |
 +======================+=======================+
 ```
 
@@ -46,15 +46,15 @@ An **Abnormality** (*Hwansangche* / 환상체) is not an alien, a genetic mutant
 +==============================================+
 | Risk Tier            | Containment Severity  |
 +======================+=======================+
-| ZAYIN (자인)         | Benign / Minimal Risk |
+| ZAYIN Class          | Benign / Minimal Risk |
 +----------------------+-----------------------+
-| TETH (테트)          | Manageable Danger     |
+| TETH Class           | Manageable Danger     |
 +----------------------+-----------------------+
-| HE (헤)              | Lethal to Novice Staff|
+| HE Class             | Lethal to Novice Staff|
 +----------------------+-----------------------+
-| WAW (바우)           | Severe Cognitive Threat|
+| WAW Class            | High Cognitive Hazard |
 +----------------------+-----------------------+
-| ALEPH (알레프)       | Facility-Wiping Hazard|
+| ALEPH Class          | Facility-Wiping Hazard|
 +======================+=======================+
 ```
 
@@ -95,13 +95,13 @@ During Lobotomy Corporation operations, the collective mental strain of the faci
 +==============================================+
 | Tier                 | Threat Level          |
 +======================+=======================+
-| Dawn (새벽)          | TETH Hazard           |
+| Dawn Ordeal          | TETH Hazard           |
 +----------------------+-----------------------+
-| Noon (낮)            | HE Hazard             |
+| Noon Ordeal          | HE Hazard             |
 +----------------------+-----------------------+
-| Dusk (저녁)          | WAW Hazard            |
+| Dusk Ordeal          | WAW Hazard            |
 +----------------------+-----------------------+
-| Midnight (자정)      | ALEPH Calamity        |
+| Midnight Ordeal      | ALEPH Calamity        |
 +======================+=======================+
 ```
 
@@ -205,19 +205,19 @@ During the final realization days of Keter, standard Ordeals are replaced by the
 +==============================================+
 | Latin Strain         | Associated Sin        |
 +======================+=======================+
-| Peccatulum Irae      | Wrath (분노)          |
+| Peccatulum Irae      | Wrath Sin Strain      |
 +----------------------+-----------------------+
-| Peccatulum Luxuriae  | Lust (색욕)           |
+| Peccatulum Luxuriae  | Lust Sin Strain       |
 +----------------------+-----------------------+
-| Peccatulum Pigritiae | Sloth (나태)          |
+| Peccatulum Pigritiae | Sloth Sin Strain      |
 +----------------------+-----------------------+
-| Peccatulum Gulae     | Gluttony (탐식)       |
+| Peccatulum Gulae     | Gluttony Sin Strain   |
 +----------------------+-----------------------+
-| Peccatulum Morositatis| Gloom (우울)         |
+| Peccat. Morositatis  | Gloom Sin Strain      |
 +----------------------+-----------------------+
-| Peccatulum Superbiae | Pride (오만)          |
+| Peccatulum Superbiae | Pride Sin Strain      |
 +----------------------+-----------------------+
-| Peccatulum Invidiae  | Envy (질투)           |
+| Peccatulum Invidiae  | Envy Sin Strain       |
 +======================+=======================+
 ```
 

@@ -48,21 +48,21 @@ In the Project Moon universe, the entire technological and economic infrastructu
 +==============================================+
 | Wing Corp            | Proprietary Tech      |
 +======================+=======================+
-| A Corp (머리 / 본체) | Extraction & Paling   |
+| A Corp (Head Lead)   | Extraction & Paling   |
 +----------------------+-----------------------+
-| B Corp (주시자)      | Omniscient Optics     |
+| B Corp (The Beholder)| Omniscient Optics     |
 +----------------------+-----------------------+
-| C Corp (발톱)        | Combat Bio-Serums     |
+| C Corp (The Claw)    | Combat Bio-Serums     |
 +----------------------+-----------------------+
 | D Corp               | Structural Reversion  |
 +----------------------+-----------------------+
 | E Corp               | Energy Conversion     |
 +----------------------+-----------------------+
-| F Corp (요정)        | Spatial Unlocking     |
+| F Corp (Fairy)       | Spatial Unlocking     |
 +----------------------+-----------------------+
 | G Corp (Fallen)      | Gravity & Chimeras    |
 +----------------------+-----------------------+
-| H Corp (홍원생명)    | Cellular Transmutat.  |
+| H Corp (Hongwon)     | Cellular Transmutat.  |
 +----------------------+-----------------------+
 | I Corp               | Illumination/Holo     |
 +----------------------+-----------------------+
@@ -84,7 +84,7 @@ In the Project Moon universe, the entire technological and economic infrastructu
 +----------------------+-----------------------+
 | R Corp               | Hatchery Cloning      |
 +----------------------+-----------------------+
-| S Corp (살빛벼)      | Agro-Genetic Dystopia |
+| S Corp (Salbitbyeo)  | Agro-Genetic Dystopia |
 +----------------------+-----------------------+
 | T Corp (TimeTrack)   | Time-Tax & Dilation   |
 +----------------------+-----------------------+
@@ -196,7 +196,7 @@ The defining geopolitical conflict of modern City history was **The Smoke War** 
 +==============================================+
 | Dimension            | Historical Context    |
 +======================+=======================+
-| Target Wing          | Old L Corp (연기의 날개)|
+| Target Wing          | Old L Corp (Smoke)    |
 +----------------------+-----------------------+
 | Core Conspiracy      | Ayin, Benjamin, Dias  |
 +----------------------+-----------------------+

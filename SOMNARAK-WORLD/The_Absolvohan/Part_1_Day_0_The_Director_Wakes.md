@@ -68,8 +68,8 @@ _A long pause. Seiyon's holographic form shifts, the amber light of her interfac
 | TERMINAL                                     |
 | FACILITY MANAGEMENT INTERFACE: DAY 0 INITIAL |
 | CALIBRATION                                  |
-| DIRECTOR: MAJIN | AI COMPANION: SEIYON       |
-| ENERGY QUOTA: 0.050 TONS | CURRENT: 0.000    |
+| DIRECTOR: MAJIN // AI COMPANION: SEIYON      |
+| ENERGY QUOTA: 0.050 TONS // CURRENT: 0.000   |
 | TONS                                         |
 +==============================================+
 ```

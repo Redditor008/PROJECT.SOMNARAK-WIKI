@@ -50,19 +50,19 @@ ALEPH equipment represents the zenith of combat gear in the City, capable of riv
 +==============================================+
 | Weapon / Suit        | Origin Abnormality    |
 +======================+=======================+
-| Mimicry (의태)       | Nothing There         |
+| Mimicry Weapon       | Nothing There         |
 +----------------------+-----------------------+
-| Paradise Lost (실낙원)| WhiteNight            |
+| Paradise Lost        | WhiteNight (ALEPH)    |
 +----------------------+-----------------------+
-| Twilight (황혼)      | Apocalypse Bird       |
+| Twilight Weapon      | Apocalypse Bird       |
 +----------------------+-----------------------+
-| Smile (웃음)         | Mtn. of Smiling Bodies|
+| Smile Hammer         | Mtn. of Smiling Bodies|
 +----------------------+-----------------------+
-| Sound of a Star (별소리)| Blue Star          |
+| Sound of a Star      | Blue Star (ALEPH)     |
 +----------------------+-----------------------+
-| Da Capo (다카포)     | The Silent Orchestra  |
+| Da Capo Scythe       | The Silent Orchestra  |
 +----------------------+-----------------------+
-| Adoration (경애)     | Melting Love          |
+| Adoration Spear      | Melting Love          |
 +======================+=======================+
 ```
 
@@ -111,13 +111,13 @@ ALEPH equipment represents the zenith of combat gear in the City, capable of riv
 +==============================================+
 | Gear Name            | Origin & Typology     |
 +======================+=======================+
-| Magic Bullet (마탄)  | Der Freischütz (WAW)  |
+| Magic Bullet Gun     | Der Freischutz (WAW)  |
 +----------------------+-----------------------+
-| Gold Rush (골드러시) | King of Greed (WAW)   |
+| Gold Rush Gauntlet   | King of Greed (WAW)   |
 +----------------------+-----------------------+
 | In Name of Love/Hate | Queen of Hatred (WAW) |
 +----------------------+-----------------------+
-| Solemn Lament (비탄) | Dead Butterflies (HE) |
+| Solemn Lament Guns   | Dead Butterflies (HE) |
 +----------------------+-----------------------+
 | Fourth Match Flame   | Scorched Girl (TETH)  |
 +======================+=======================+
@@ -150,15 +150,15 @@ ALEPH equipment represents the zenith of combat gear in the City, capable of riv
 +==============================================+
 | Body Placement       | Anatomical Example    |
 +======================+=======================+
-| Head Slot (모자/머리)| Crown of Thorns (One) |
+| Head Slot Gift       | Crown of Thorns (One) |
 +----------------------+-----------------------+
-| Eye Slot (눈)        | Piercing Gaze         |
+| Eye Slot Gift        | Piercing Gaze         |
 +----------------------+-----------------------+
-| Mouth Slot (입)      | Gas Mask / Smoke Pipe |
+| Mouth Slot Gift      | Gas Mask / Smoke Pipe |
 +----------------------+-----------------------+
-| Back Slot (등/날개)  | Seraph Wings (White)  |
+| Back Slot Gift       | Seraph Wings (White)  |
 +----------------------+-----------------------+
-| Hand Slot (손)       | Claws / Crystal Band  |
+| Hand Slot Gift       | Claws / Crystal Band  |
 +======================+=======================+
 ```
 

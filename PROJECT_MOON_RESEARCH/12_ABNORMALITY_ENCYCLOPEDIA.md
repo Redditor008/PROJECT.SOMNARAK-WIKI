@@ -11,13 +11,13 @@
 +==============================================+
 | Entity Code          | Folktale Identity     |
 +======================+=======================+
-| O-02-56 (TETH)       | Punishing Bird (작은새)|
+| O-02-56 (TETH)       | Punishing Bird (Small)|
 +----------------------+-----------------------+
-| O-02-62 (WAW)        | Judgement Bird (긴새) |
+| O-02-62 (WAW)        | Judgement Bird (Long) |
 +----------------------+-----------------------+
-| O-02-40 (WAW)        | Big Bird (큰새)       |
+| O-02-40 (WAW)        | Big Bird (All-Seeing) |
 +----------------------+-----------------------+
-| O-02-40 (ALEPH)      | Apocalypse Bird (종말새|
+| O-02-40 (ALEPH)      | Apocalypse Bird (Apex)|
 +======================+=======================+
 ```
 
@@ -54,7 +54,7 @@ In their frantic panic, the three birds terrorized the forest until their bodies
 +----------------------+-----------------------+
 | Eleven Apostles      | Beaked Angelic Fiends |
 +----------------------+-----------------------+
-| Confession Purge     | One Sin Annihilation |
+| Confession Purge     | One Sin Annihilation  |
 +======================+=======================+
 ```
 

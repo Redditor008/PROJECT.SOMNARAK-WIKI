@@ -13,17 +13,17 @@ In The City, while the Twelve Associations operate as massive bureaucratic congl
 +==============================================+
 | Office Name          | Specialization        |
 +======================+=======================+
-| Dawn Office (새벽)   | Stigmatize Fire Blades|
+| Dawn Office          | Stigmatize Fire Blades|
 +----------------------+-----------------------+
-| Wedge Office (쐐기)  | Armor-Piercing Lances |
+| Wedge Office         | Armor-Piercing Lances |
 +----------------------+-----------------------+
-| Cane Office (지팡이) | Electronic Energy Spec|
+| Cane Office          | Electronic Energy Spec|
 +----------------------+-----------------------+
-| Molar Office (어금니)| Heavy Industrial Tools|
+| Molar Office         | Heavy Industrial Tools|
 +----------------------+-----------------------+
 | Streetlight Office   | Backstreet Resolution |
 +----------------------+-----------------------+
-| Charles' Office      | Twelve Legendary Fixers|
+| Charles Office       | Twelve Master Fixers  |
 +======================+=======================+
 ```
 
@@ -67,15 +67,15 @@ In The City, while the Twelve Associations operate as massive bureaucratic congl
 +==============================================+
 | Syndicate Clan       | Cultural Doctrine     |
 +======================+=======================+
-| Kurokumo Clan (흑운회)| Bleeding Katana Style |
+| Kurokumo Clan        | Bleeding Katana Style |
 +----------------------+-----------------------+
-| Blade Lineage (검계) | Bamboo Hats / Slashes |
+| Blade Lineage        | Bamboo Hats / Slashes |
 +----------------------+-----------------------+
-| Carnival (카니발)    | Corpse-Silk Weaving   |
+| Carnival Syndicate   | Corpse-Silk Weaving   |
 +----------------------+-----------------------+
-| Smiling Faces (웃는얼굴)| Smoke-Cannibal Cult |
+| Smiling Faces        | Smoke-Cannibal Cult   |
 +----------------------+-----------------------+
-| Yurodivy (유로지비)  | Proletariat Revolution|
+| Yurodivy Movement    | Proletariat Revolution|
 +======================+=======================+
 ```
 

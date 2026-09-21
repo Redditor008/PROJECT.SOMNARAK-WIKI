@@ -3564,7 +3564,7 @@ The ultimate operational endgame of the Reverie Directorate, occurring at the cu
 +----------------------+-----------------------+
 | Phase III: Council   | Repel Giltong Assault |
 +----------------------+-----------------------+
-| Phase IV: Hand of Hope| Transmute Grief-Hope |
+| Phase IV: Hope Hand  | Transmute Grief-Hope  |
 +======================+=======================+
 ```
 

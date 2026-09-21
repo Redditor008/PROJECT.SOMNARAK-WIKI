@@ -323,8 +323,8 @@ _A long pause. Seiyon's holographic form shifts, the amber light of her interfac
 | TERMINAL                                     |
 | FACILITY MANAGEMENT INTERFACE: DAY 0 INITIAL |
 | CALIBRATION                                  |
-| DIRECTOR: MAJIN | AI COMPANION: SEIYON       |
-| ENERGY QUOTA: 0.050 TONS | CURRENT: 0.000    |
+| DIRECTOR: MAJIN // AI COMPANION: SEIYON      |
+| ENERGY QUOTA: 0.050 TONS // CURRENT: 0.000   |
 | TONS                                         |
 +==============================================+
 ```
@@ -10473,8 +10473,8 @@ Zero Ordeals manifested on Day 360. In the night sky, the stars—frozen in iden
 +----------------------------------------------+
 | METRIC               | TARGET | REALIZED     |
 +----------------------------------------------+
-| Recursive Time Loop  | DISSOLVE| 100% EXTINC |
-| Linear Timeline      | ENGAGE  | 100% ACTIVE |
+| Recursive Time Loop  | PURGE  | 100% EXTINC  |
+| Linear Timeline      | ENGAGE | 100% ACTIVE  |
 | Chronological Safety | 100%   | PERFECT      |
 | Mortal Suffering     | 0.00%  | ZERO         |
 +----------------------------------------------+

@@ -13,17 +13,17 @@ In the absence of a unified public police force or military in The City, all con
 +==============================================+
 | Rank Category        | Operational Scope     |
 +======================+=======================+
-| The Colors (특색)    | Calamity / City-Level |
+| The Colors           | Calamity / City-Level |
 +----------------------+-----------------------+
-| Grade 1 (1급)        | Wing-Scale Black Ops  |
+| Grade 1 Fixers       | Wing-Scale Black Ops  |
 +----------------------+-----------------------+
-| Grades 2 - 3 (2-3급) | High Syndicate Raid   |
+| Grades 2 - 3 Fixers  | High Syndicate Raid   |
 +----------------------+-----------------------+
-| Grades 4 - 6 (4-6급) | Mid-Tier Urban Work   |
+| Grades 4 - 6 Fixers  | Mid-Tier Urban Work   |
 +----------------------+-----------------------+
-| Grades 7 - 8 (7-8급) | Basic Bodyguard/Escort|
+| Grades 7 - 8 Fixers  | Basic Bodyguard/Escort|
 +----------------------+-----------------------+
-| Grade 9 (9급)        | Entry / Gutter Chores |
+| Grade 9 Fixers       | Entry / Gutter Chores |
 +======================+=======================+
 ```
 
@@ -49,13 +49,13 @@ The highest tier of recognition within the City's combat hierarchy is the design
 +==============================================+
 | Title & Color        | Canonical Figure      |
 +======================+=======================+
-| The Red Mist (붉은안개)| Kali / Gebura        |
+| The Red Mist         | Kali / Gebura         |
 +----------------------+-----------------------+
 | The Black Silence    | Angelica & Roland     |
 +----------------------+-----------------------+
-| The Purple Tear (보라눈물)| Iori             |
+| The Purple Tear      | Iori / Dimension      |
 +----------------------+-----------------------+
-| The Blue Reverberation| Argalia               |
+| Blue Reverberation   | Argalia / Ensemble    |
 +----------------------+-----------------------+
 | The Vermilion Cross  | Slain by Ensemble     |
 +----------------------+-----------------------+
@@ -105,29 +105,29 @@ The administrative backbone of the City's mercenary economy consists of **twelve
 +==============================================+
 | Association          | Primary Specialization|
 +======================+=======================+
-| Hana (1 / 하나)      | Ranking & Colors      |
+| Hana (Section 1)     | Ranking & Colors      |
 +----------------------+-----------------------+
-| Zwei (2 / 츠바이)    | Security & Defense    |
+| Zwei (Section 2)     | Security & Defense    |
 +----------------------+-----------------------+
-| Tres (3 / 트레스)    | Patents & Tech Law    |
+| Tres (Section 3)     | Patents & Tech Law    |
 +----------------------+-----------------------+
-| Shi (4 / 시)         | Assassination & Hits  |
+| Shi (Section 4)      | Assassination & Hits  |
 +----------------------+-----------------------+
-| Cinq (5 / 섕크)       | Dueling & Fencing     |
+| Cinq (Section 5)     | Dueling & Fencing     |
 +----------------------+-----------------------+
-| Liu (6 / 리우)       | Frontline War & Fire  |
+| Liu (Section 6)      | Frontline War & Fire  |
 +----------------------+-----------------------+
-| Seven (7 / 세븐)     | Investigation & Intel |
+| Seven (Section 7)    | Investigation & Intel |
 +----------------------+-----------------------+
-| Eight (8 / 에이트)   | Maritime & Traversal  |
+| Eight (Section 8)    | Maritime & Traversal  |
 +----------------------+-----------------------+
-| Devyat (9 / 데뱌트)  | Dimensional Couriers  |
+| Devyat (Section 9)   | Dimensional Couriers  |
 +----------------------+-----------------------+
-| Dieci (10 / 디에치)  | Scholastic Combat     |
+| Dieci (Section 10)   | Scholastic Combat     |
 +----------------------+-----------------------+
-| Öufi (11 / 외피)     | Notary Contract Exec. |
+| Oufi (Section 11)    | Notary Contract Exec. |
 +----------------------+-----------------------+
-| Twelve (12 / 트웰브) | Border Management     |
+| Twelve (Section 12)  | Border Management     |
 +======================+=======================+
 ```
 
@@ -179,15 +179,15 @@ While the Associations operate above board under Hana's legal framework, the und
 +==============================================+
 | Finger Syndicate     | Core Ideology         |
 +======================+=======================+
-| The Thumb (엄지)     | Rigid Etiquette & Guns|
+| The Thumb            | Rigid Etiquette & Guns|
 +----------------------+-----------------------+
-| The Index (검지)     | The Prescripts (지령) |
+| The Index            | The Prescripts Law    |
 +----------------------+-----------------------+
-| The Middle (중지)    | Vengeance & Family    |
+| The Middle           | Vengeance & Family    |
 +----------------------+-----------------------+
-| The Ring (반지)      | Flesh-Modification Art|
+| The Ring             | Flesh-Modification Art|
 +----------------------+-----------------------+
-| The Pinky (새끼손가락)| Underground Oaths    |
+| The Pinky            | Underground Oaths     |
 +======================+=======================+
 ```
 

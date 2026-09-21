@@ -9,41 +9,41 @@
 +==============================================+
 |          MASTER CANONICAL LEXICON            |
 +==============================================+
-| Term (English / 한글) | Canonical Definition |
+| Term (Lexicon)       | Canonical Definition  |
 +======================+=======================+
-| Abnormality (환상체) | Well-Extracted Concept|
+| Abnormality          | Well-Extracted Concept|
 +----------------------+-----------------------+
-| Arbiter (조율자)     | Supreme Head Enforcer |
+| Arbiter (A Corp)     | Supreme Head Enforcer |
 +----------------------+-----------------------+
-| Backstreets (뒷골목) | Lawless Slum Sectors  |
+| Backstreets          | Lawless Slum Sectors  |
 +----------------------+-----------------------+
-| Beholder (주시자)    | Omniscient Head Eye   |
+| Beholder (B Corp)    | Omniscient Head Eye   |
 +----------------------+-----------------------+
-| Black Silence (검은침묵)| Spatial Arsenal Color|
+| Black Silence        | Spatial Arsenal Color |
 +----------------------+-----------------------+
-| Bloodfiend (혈귀)    | Ancient Blood Species |
+| Bloodfiend           | Ancient Blood Species |
 +----------------------+-----------------------+
-| Claw (발톱)          | Serum Bio-Executioner |
+| Claw (C Corp)        | Serum Bio-Executioner |
 +----------------------+-----------------------+
-| Cogito (코기토)      | Primordial Extraction |
+| Cogito Primer        | Primordial Extraction |
 +----------------------+-----------------------+
-| Distortion (뒤틀림)  | Carmen-Induced Mutate |
+| Distortion           | Carmen-Induced Mutate |
 +----------------------+-----------------------+
-| E.G.O (장비 / 자생)  | Physicalized Ego-Soul |
+| E.G.O Armament       | Physicalized Ego-Soul |
 +----------------------+-----------------------+
-| Enkephalin (엔케팔린)| Emotional Fuel Energy |
+| Enkephalin           | Emotional Fuel Energy |
 +----------------------+-----------------------+
-| Golden Bough (황금가지)| Crystallized Light  |
+| Golden Bough         | Crystallized Light    |
 +----------------------+-----------------------+
-| Ordeals (시련)       | Facility Stress Trials|
+| Ordeals              | Facility Stress Trials|
 +----------------------+-----------------------+
-| Peccatulum (죄종)    | Feral Sin Manifest    |
+| Peccatulum           | Feral Sin Manifest    |
 +----------------------+-----------------------+
-| Prescript (지령)     | Index Subconscious Slip|
+| Prescript            | Index Prescripts Law  |
 +----------------------+-----------------------+
-| Red Mist (붉은안개)  | Kali / Apex Warrior   |
+| Red Mist (Kali)      | Apex Warrior Color    |
 +----------------------+-----------------------+
-| Sweeper (청소부)     | Night Slurry Collector|
+| Sweeper (Night)      | Night Slurry Collector|
 +======================+=======================+
 ```
 

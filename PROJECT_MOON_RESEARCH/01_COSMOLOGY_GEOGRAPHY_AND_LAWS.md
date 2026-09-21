@@ -13,17 +13,17 @@ The central setting of the Project Moon universe is simply named **The City** (*
 +==============================================+
 | Structural Layer     | Sociological Reality  |
 +======================+=======================+
-| The Head (머리)      | Absolute Sovereign    |
+| The Head             | Absolute Sovereign    |
 +----------------------+-----------------------+
-| 26 Nests (둥지)      | Corporate Citadel     |
+| 26 Nests             | Corporate Citadel     |
 +----------------------+-----------------------+
-| 26 Backstreets (골목)| Lawless Urban Slums   |
+| 26 Backstreets       | Lawless Urban Slums   |
 +----------------------+-----------------------+
-| The Outer Wall (외벽)| Fortified Perimeter   |
+| The Outer Wall       | Fortified Perimeter   |
 +----------------------+-----------------------+
-| The Outskirts (외곽) | Banished Wastelands   |
+| The Outskirts        | Banished Wastelands   |
 +----------------------+-----------------------+
-| The Ruins (유적)     | Ancient Sub-Strata    |
+| The Ruins            | Ancient Sub-Strata    |
 +======================+=======================+
 ```
 
@@ -109,11 +109,11 @@ The ultimate governing regime of the City is known as **The Head** (*Meori* / �
 +==============================================+
 | Wing Authority       | Title & Function      |
 +======================+=======================+
-| A Corp (머리 / 본체) | The Arbiter (조율자)  |
+| A Corp (Head Lead)   | The Arbiter (Zena)    |
 +----------------------+-----------------------+
-| B Corp (주시자)      | The Eye (눈 / 감시망) |
+| B Corp (The Beholder)| The Eye (Surveillance)|
 +----------------------+-----------------------+
-| C Corp (발톱)        | The Claw (손톱 / 집행)|
+| C Corp (The Claw)    | The Claw (Execution)  |
 +======================+=======================+
 ```
 
@@ -180,7 +180,7 @@ The most terrifying civic mechanism within the City’s urban cycle is the pheno
 +----------------------+-----------------------+
 | Duration             | Exactly 81 Minutes    |
 +----------------------+-----------------------+
-| Enforcers            | The Sweepers (청소부) |
+| Enforcers            | The Sweepers (Night)  |
 +----------------------+-----------------------+
 | Curfew Law           | Total Door Lockdown   |
 +----------------------+-----------------------+

@@ -53,7 +53,7 @@
 +----------------------+-----------------------+
 | Duration of Cycle    | 1,000,000 Years       |
 +----------------------+-----------------------+
-| Ayin's Stance        | Total Rejection/Silence|
+| Ayin's Stance        | Total Silence/Denial  |
 +----------------------+-----------------------+
 | The Resolution       | Banishment to Outskirt|
 +======================+=======================+
@@ -83,23 +83,23 @@ The Reverberation Ensemble represents the ultimate union of Distortions who embr
 +==============================================+
 | Distortion Member    | Manifested Trauma     |
 +======================+=======================+
-| Argalia (푸른잔향)   | Conductor / Resonant  |
+| Argalia (Blue)       | Conductor / Resonant  |
 +----------------------+-----------------------+
-| Philip (우는 아이들) | Acoustic Fire / Shame |
+| Philip (Crying)      | Acoustic Fire / Shame |
 +----------------------+-----------------------+
-| Greta (그레타)       | District 23 Cannibal  |
+| Greta (Shark)        | District 23 Cannibal  |
 +----------------------+-----------------------+
-| Bremen (브레멘 음악대)| Chimera Discordance   |
+| Bremen (Musicians)   | Chimera Discordance   |
 +----------------------+-----------------------+
-| Oswald (오스왈드)    | 8 O'Clock Circus      |
+| Oswald (Clown)       | 8 O'Clock Circus      |
 +----------------------+-----------------------+
-| Tanya (타냐)         | Raw Kinetic Violence  |
+| Tanya (Wolf)         | Raw Kinetic Violence  |
 +----------------------+-----------------------+
-| Jae-heon (인형사)    | Necrotic Marionettes  |
+| Jae-heon (Puppeteer) | Necrotic Marionettes  |
 +----------------------+-----------------------+
-| Elena (붉은 밤)      | Bloodfiend Kindred    |
+| Elena (Red Night)    | Bloodfiend Kindred    |
 +----------------------+-----------------------+
-| Pluto (어제의 약속)  | Demonic Contracts     |
+| Pluto (Contractor)   | Demonic Contracts     |
 +======================+=======================+
 ```
 
