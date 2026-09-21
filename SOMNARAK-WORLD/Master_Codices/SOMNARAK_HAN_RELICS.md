@@ -63,7 +63,7 @@ The highest tier of artifacts in Somnarak consists of singular instruments that 
 
 ```text
 +==============================================+
-| ARTIFACT DOSSIER: UNANSWERED (무답)          |
+| ARTIFACT DOSSIER: UNANSWERED (MUDAP)         |
 +==============================================+
 | Classification       | Sovereign Before-Time |
 | Category Rating      | Class IV / Critical-δ |

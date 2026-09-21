@@ -16,13 +16,13 @@ Somnarak operates through **three Corporations** — each an autonomous institut
 | Corporation          | Strategic Domain      |
 +======================+=======================+
 | Reverie Directory    | Subterranean Facility |
-| (R.D. / 리버리 지부) | Containment & M.A.W.  |
+| (R.D. / Main Branch) | Containment & M.A.W.  |
 +----------------------+-----------------------+
 | Somnarak Exploration | Deep Maw Exploration  |
-| Decreed (SED / 탐사) | & Frontier Cartography|
+| Decreed (SED Corps)  | & Frontier Cartography|
 +----------------------+-----------------------+
 | Underworld Cleanup   | Urban Pacification &  |
-| Descend (UCD / 정화) | Anti-Fray Combat Ops  |
+| Descend (UCD Task)   | Anti-Fray Combat Ops  |
 +======================+=======================+
 ```
 

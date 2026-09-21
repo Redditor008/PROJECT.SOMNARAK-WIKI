@@ -1621,11 +1621,11 @@ The Reverie Directorate's containment security relies on real-time tracking of t
 +==============================================+
 | Breach Category      | Affected Manifestation|
 +======================+=======================+
-| Type 1: Escape (탈출)| Subject-Body Beings   |
+| Type 1: Escape       | Subject-Body Beings   |
 +----------------------+-----------------------+
 | Type 2: Transform    | Object / Place / Chain|
 +----------------------+-----------------------+
-| Type 3: Corrupt (부패)| Place / Void / Weight |
+| Type 3: Corrupt      | Place / Void / Weight |
 +======================+=======================+
 ```
 

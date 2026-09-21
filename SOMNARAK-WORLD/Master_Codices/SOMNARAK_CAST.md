@@ -29,7 +29,7 @@ The central command of the Reverie Directorate operates from the eight subterran
 | DOSSIER: THE DIRECTOR [TITLE RECORD ONLY]    |
 +==============================================+
 | Legal Name           | [REDACTED // CLEAR 5] |
-| Operational Title    | The Director (국장)   |
+| Operational Title    | The Director (Lead)   |
 | Biological Age       | Classified (~45-50?)  |
 | Operational Station  | Floor 1 Sanctuary     |
 | Armament / Graft     | Reaper Hungered (Ω)   |
