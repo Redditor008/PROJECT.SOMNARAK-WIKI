@@ -247,6 +247,12 @@ Every day within the chronicle follows an exhaustive operational management blue
 
 ---
 
+## VIII. Auxiliary Facility Documentation
+
+- **Master Operational Guidebook (`ABSOLOVHAN_OVERVIEW.md`):** Non-story systemic mechanics codex and operational manual detailing how the Absolvohan facility functions throughout the entire 366-day cycle for any random cycle.
+
+---
+
 # The Absolvohan — Part 1 — Day 0: The Director Wakes
 
 ## Day 0 — The Director Wakes

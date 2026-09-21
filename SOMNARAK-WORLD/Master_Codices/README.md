@@ -70,6 +70,7 @@ The repository root houses the two official primary cartographic and architectur
 - `SOMNARAK_ORDEALS_FRAMEWORK.md` (301 lines): Tactical framework of the 5-color Ordeals and 4 watches. Integrates the Tripartite Crisis Taxonomy (Ordeals vs Entity Breaches vs Echo-Core Suppressions) and Somnarak Potency Grades (Minor-α, Moderate-β, Major-γ, Catastrophic-δ).
 - `SOMNARAK_TABOO_RESONANCE.md` (345 lines): Acoustic physics of the Seven Taboos and resonant punishment dynamics.
 - `SOMNARAK_ABSOLOVHAN.md` (4,828 lines): The ultimate metaphysical philosophy of sorrow resolution, Resonant Clash, and the sovereign golden dawn.
+- `ABSOLOVHAN_OVERVIEW.md`: The definitive non-story operational guidebook and systemic mechanics codex for the 366-day Absolvohan facility cycle across any random cycle.
 
 ### Group 4: Geography, Outskirts & Factions
 - `SOMNARAK_THE_DESOLATE.md` (398 lines): The Outskirts beyond the city perimeter: the Scar, nomads, toxic Han-dust storms, and Kael's Kingdom.

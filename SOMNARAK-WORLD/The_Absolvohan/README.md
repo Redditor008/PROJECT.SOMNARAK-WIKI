@@ -244,3 +244,9 @@ Every day within the chronicle follows an exhaustive operational management blue
 7. **Shift Evaluation Index & RHR Allocation:** Formal Letter Grades (S, A, B, C, F), Refined Han Reagents awarded, and attribute training logs.
 8. **M.A.W. Extraction, Forging & Gift Slots:** Extracted Weapon, Suit, and Gift triplets, anatomical slot allocations, and Corrosion monitoring.
 9. **Night Shift Telemetry:** Nocturnal drainage, Sorrow Tide monitoring, and Director Majin's reflections.
+
+---
+
+## VIII. Auxiliary Facility Documentation
+
+- **Master Operational Guidebook (`ABSOLOVHAN_OVERVIEW.md`):** Non-story systemic mechanics codex and operational manual detailing how the Absolvohan facility functions throughout the entire 366-day cycle for any random cycle.
