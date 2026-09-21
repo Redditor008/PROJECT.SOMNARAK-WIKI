@@ -64,10 +64,13 @@ _A long pause. Seiyon's holographic form shifts, the amber light of her interfac
 
 ```text
 +==============================================+
-| REVERIE DIRECTORATE — CENTRAL COMMAND TERMIN |
+| REVERIE DIRECTORATE — CENTRAL COMMAND        |
+| TERMINAL                                     |
 | FACILITY MANAGEMENT INTERFACE: DAY 0 INITIAL |
+| CALIBRATION                                  |
 | DIRECTOR: MAJIN | AI COMPANION: SEIYON       |
-| ENERGY QUOTA: 0.050 TONS | CURRENT: 0.000 TO |
+| ENERGY QUOTA: 0.050 TONS | CURRENT: 0.000    |
+| TONS                                         |
 +==============================================+
 ```
 
@@ -80,37 +83,65 @@ Before hitting the **[Begin Shift]** toggle, let's inspect our starting roster. 
 ```text
 +==============================================+
 | STARTING AGENT DOSSIER: AGENT PARK           |
-+----------------------------------------------+
-| PARAM / STAT         | VALUE / RATING        |
-+----------------------------------------------+
-| Level / Title        | Level I (Plucky Recru |
-| Fortitude (HP)       | 30 [Grade I - Red]    |
-| Prudence (SP)        | 35 [Grade II - White] |
-| Temperance (Work)    | 28 [Grade I - Black]  |
-| Justice (Speed)      | 25 [Grade I - Pale]   |
-| Equipped Weapon      | Standard Stun Baton ( |
-| Equipped Suit        | Standard R.D. Tunic ( |
-+----------------------------------------------+
-| STATUS: MENTALLY COMPOSED / READY            |
 +==============================================+
++---------------------+------------------------+
+| PARAM / STAT        | VALUE / RATING         |
++=====================+========================+
+| Level / Title       | Level I (Plucky        |
+|                     | Recruit)               |
++---------------------+------------------------+
+| Fortitude (HP)      | 30 [Grade I - Red]     |
++---------------------+------------------------+
+| Prudence (SP)       | 35 [Grade II - White]  |
++---------------------+------------------------+
+| Temperance (Work)   | 28 [Grade I - Black]   |
++---------------------+------------------------+
+| Justice (Speed)     | 25 [Grade I - Pale]    |
++---------------------+------------------------+
+| Equipped Weapon     | Standard Stun Baton    |
+|                     | (1-3 Grudge)           |
++---------------------+------------------------+
+| Equipped Suit       | Standard R.D. Tunic    |
+|                     | (1.0 / 1.0 / 1.0)      |
++---------------------+------------------------+
+| Attendant Lead      | Seiyon: Synced         |
+|                     | Directive (+5% SP)     |
++---------------------+------------------------+
+| Status              | MENTALLY COMPOSED /    |
+|                     | READY                  |
++---------------------+------------------------+
 ```
 
 ```text
 +==============================================+
 | STARTING AGENT DOSSIER: AGENT KIM            |
-+----------------------------------------------+
-| PARAM / STAT         | VALUE / RATING        |
-+----------------------------------------------+
-| Level / Title        | Level I (Stoic Junior |
-| Fortitude (HP)       | 38 [Grade II - Red]   |
-| Prudence (SP)        | 25 [Grade I - White]  |
-| Temperance (Work)    | 30 [Grade I - Black]  |
-| Justice (Speed)      | 22 [Grade I - Pale]   |
-| Equipped Weapon      | Standard Stun Baton ( |
-| Equipped Suit        | Standard R.D. Tunic ( |
-+----------------------------------------------+
-| STATUS: HIGH PHYSICAL ENDURANCE              |
 +==============================================+
++---------------------+------------------------+
+| PARAM / STAT        | VALUE / RATING         |
++=====================+========================+
+| Level / Title       | Level I (Stoic Junior  |
+|                     | Enforcer)              |
++---------------------+------------------------+
+| Fortitude (HP)      | 38 [Grade II - Red]    |
++---------------------+------------------------+
+| Prudence (SP)       | 25 [Grade I - White]   |
++---------------------+------------------------+
+| Temperance (Work)   | 30 [Grade I - Black]   |
++---------------------+------------------------+
+| Justice (Speed)     | 22 [Grade I - Pale]    |
++---------------------+------------------------+
+| Equipped Weapon     | Standard Stun Baton    |
+|                     | (1-3 Grudge)           |
++---------------------+------------------------+
+| Equipped Suit       | Standard R.D. Tunic    |
+|                     | (1.0 / 1.0 / 1.0)      |
++---------------------+------------------------+
+| Attendant Lead      | Seiyon: Synced         |
+|                     | Directive (+5% SP)     |
++---------------------+------------------------+
+| Status              | HIGH PHYSICAL          |
+|                     | ENDURANCE / READY      |
++---------------------+------------------------+
 ```
 
 Agent Park is balanced with an edge in Prudence (White sanity), which makes him our best candidate for handling Weeping and mental entities. Agent Kim is our meat-shield with 38 Fortitude, well-suited for physical strain and Weight work. 
@@ -292,15 +323,21 @@ We open the M.A.W. Extraction terminal and spend our accumulated observation poi
 ```text
 +==============================================+
 | M.A.W. SYNTHESIS FORGING LOG — DAY 0         |
-+----------------------------------------------+
-| ITEM FORGED          | SLOT / PROPERTIES     |
-+----------------------------------------------+
-| Lament Requiem       | Weapon: 4-7 Lament (W |
-| Lament Shroud        | Suit: 0.8 / 0.7 / 1.2 |
-| Lament Edge Gift     | Eye Slot: +4 SP, +5 W |
-+----------------------------------------------+
-| ALLOCATION: ASSIGNED TO AGENT PARK           |
 +==============================================+
++---------------------+------------------------+
+| ITEM FORGED         | SLOT / PROPERTIES      |
++=====================+========================+
+| Lament Requiem      | Weapon: 4-7 Lament     |
+|                     | (White / Medium)       |
++---------------------+------------------------+
+| Lament Shroud       | Suit: 0.8 / 0.7 / 1.2  |
+|                     | / 2.0 Resist           |
++---------------------+------------------------+
+| Lament Edge Gift    | Eye Slot: +4 SP, +5    |
+|                     | Work Success           |
++---------------------+------------------------+
+| Allocation          | ASSIGNED TO AGENT PARK |
++---------------------+------------------------+
 ```
 
 Agent Park is immediately equipped with the *Lament Shroud* and *Lament Requiem*, transforming him from a vulnerable rookie into a resilient containment specialist.

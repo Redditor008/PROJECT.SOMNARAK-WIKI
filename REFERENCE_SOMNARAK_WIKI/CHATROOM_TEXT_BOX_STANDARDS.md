@@ -52,3 +52,26 @@ NEVER output raw text boxes or tables without ``` code fences!
 +----------------+-----------------------------+
 ```
 *(Width math: 1 + 16 + 1 + 29 + 1 = 48 characters total)*
+
+---
+
+## 4. Multi-Line Cell Wrapping Rule (No Truncation)
+
+```
+NEVER slice, truncate, or cut words with ellipsis or string cuts!
+```
+
+When cell content exceeds the column's inner character limit:
+1. Wrap the text across multiple lines (two or more rows) within that table row.
+2. Ensure every word remains complete and intact.
+3. Pad empty space on shorter sibling cells with spaces so column vertical borders (`|`) remain perfectly aligned.
+
+### Example: Multi-Line Wrapped Row
+```
++======+============+
+| THIS | THIS,      |
+|      | LOOK       |
++======+============+
+```
+In this pattern, the right-hand cell expands into two lines (`THIS,` and `LOOK`) while maintaining exact monospace border alignment across the entire 48-character width.
+

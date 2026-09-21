@@ -154,9 +154,11 @@ When the Absolvohan release sequence is initiated, high-pressure liquid Flerehan
 +----------------------+-----------------------+
 | HT-002 Shield of Dawn| Kinetic Weight Barrier|
 +----------------------+-----------------------+
-| HT-003 Gentle Flame  | Panic Dispelling Warm |
+| HT-003 Gentle Flame  | Panic Dispelling      |
+|                      | Warmth                |
 +----------------------+-----------------------+
-| HT-004 Reuniting Sprk| Relational Healing    |
+| HT-004 Reuniting     | Relational Healing    |
+| Spark                |                       |
 +----------------------+-----------------------+
 | HT-005 Defiant Ember | Permanent Resistance  |
 +----------------------+-----------------------+
@@ -176,7 +178,8 @@ When the Absolvohan release sequence is initiated, high-pressure liquid Flerehan
 +----------------------+-----------------------+
 | HT-V-HC-001 Trinity  | Tripartite Ascension  |
 +----------------------+-----------------------+
-| HT-V-HH-001 Hand Hope| The Master Dawn Focus |
+| HT-V-HH-001          | The Master Dawn Focus |
+| Hand of Hope         |                       |
 +======================+=======================+
 ```
 
@@ -207,9 +210,11 @@ When the Absolvohan fires on Day 365, the Hand of Hope opens:
 +----------------------+-----------------------+
 | Part 6 (Part_6)      | Days 101-121: Maw Song|
 +----------------------+-----------------------+
-| Part 7 (Part_7)      | Days 125-145: Thresh. |
+| Part 7 (Part_7)      | Days 125-145:         |
+|                      | The Threshold         |
 +----------------------+-----------------------+
 | Part 8 (Part_8)      | Days 149-177: Day 160 |
+|                      | Transmutation         |
 +----------------------+-----------------------+
 | Part 9 (Part_9)      | Days 350-365: The Dawn|
 +======================+=======================+

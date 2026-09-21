@@ -35,9 +35,11 @@ Beneath the calm hum of the Mnemonic Generator, the eight floor leads begin to e
 
 ```text
 +==============================================+
-| REVERIE DIRECTORATE — CENTRAL COMMAND TERMIN |
+| REVERIE DIRECTORATE — CENTRAL COMMAND        |
+| TERMINAL                                     |
 | FACILITY MANAGEMENT INTERFACE: DAY 1 SHIFT   |
-| ENERGY QUOTA: 0.050 TONS | CURRENT: 0.000 TO |
+| ENERGY QUOTA: 0.050 TONS | CURRENT: 0.000    |
+| TONS                                         |
 | ACTIVE CONTAINMENT CELLS: SE-001, 005, 033   |
 +==============================================+
 ```
@@ -51,15 +53,26 @@ Let's review our deployed roster on Floor 1. We've hired a third operative, Agen
 ```text
 +==============================================+
 | DEPLOYED ROSTER: FLOOR 1 (CENTRAL COMMAND)   |
-+----------------------------------------------+
-| AGENT NAME           | STATS (F | EQUIPMENT  |
-+----------------------------------------------+
-| Agent Park (Lvl 2)   | 30/39/30 | Lament Set |
-| Agent Kim (Lvl 2)    | 43/25/30 | Embrace Fa |
-| Agent Lee (Lvl 1)    | 28/30/28 | Standard B |
-+----------------------------------------------+
-| LEAD AURA: SEIYON — SYNCHRONICITY LINK       |
 +==============================================+
++---------------------+------------------------+
+| AGENT & LEVEL       | STATS & EQUIPMENT      |
+|                     | LOADOUT                |
++=====================+========================+
+| Agent Park (Lvl 2)  | HP:30 SP:39 Wk:30      |
+|                     | Sp:25 | Lament Shroud  |
+|                     | & Requiem              |
++---------------------+------------------------+
+| Agent Kim (Lvl 2)   | HP:43 SP:25 Wk:30      |
+|                     | Sp:22 | Mother's       |
+|                     | Embrace Baton          |
++---------------------+------------------------+
+| Agent Lee (Lvl 1)   | HP:28 SP:30 Wk:28      |
+|                     | Sp:20 | Standard Issue |
+|                     | Loadout                |
++---------------------+------------------------+
+| Lead Aura           | Seiyon: Synchronicity  |
+|                     | Link (+5% SP Max Pool) |
++---------------------+------------------------+
 ```
 
 Agent Park is equipped with the *Lament Shroud* and *Lament Requiem* crafted at the end of Day 0, giving him 0.7 White resistance and a reliable ranged sonic strike. Agent Kim carries the *Embrace Fang* (piercing Grudge damage). Agent Lee is currently in standard recruit issue.
@@ -108,11 +121,10 @@ At work check 4, the sirens howl:
 ```text
 +==============================================+
 | EMERGENCY: ACOUSTIC STRAIN MELTDOWN LEVEL I  |
-+----------------------------------------------+
 | ALERT: HYDRAULIC PRESSURE OVERLOAD           |
-| AFFECTED CELL: SE-C-IIIg-005 (SMOTHERING MOT |
+| AFFECTED CELL: SE-C-IIIg-005 (THE SMOTHERING |
+| MOTHER)                                      |
 | BLEED TIMER: 45.0 SECONDS UNTIL BREACH       |
-+----------------------------------------------+
 | TACTICAL DISPATCH: AGENT KIM SENT            |
 +==============================================+
 ```
@@ -184,18 +196,16 @@ We enter the extraction archive. Three extraction canisters surface:
 ```text
 +==============================================+
 | EXTRACTION ARCHIVE: SELECT NEXT COMPANION    |
-+----------------------------------------------+
 | CHOICE ALPHA [SE-C-IIIg-025]:                |
 | "A child who swallowed all the voices in the |
 | nursery so no one would hear them cry."      |
-+----------------------------------------------+
 | CHOICE BETA [SE-C-IIIb-036]:                 |
 | "The glass cracked when the hour struck, and |
 | time began to leak into the carpet."         |
-+----------------------------------------------+
 | CHOICE GAMMA [SE-C-IIIg-042]:                |
-| "A maiden weeping crimson embers, begging fo |
-| someone to hit her until the fire stops."    |
+| "A maiden weeping crimson embers, begging    |
+| for someone to hit her until the fire        |
+| stops."                                      |
 +==============================================+
 ```
 
@@ -213,15 +223,21 @@ We spend our observation points from The Guarding Bird to forge gear:
 ```text
 +==============================================+
 | M.A.W. SYNTHESIS FORGING LOG — DAY 1         |
-+----------------------------------------------+
-| ITEM FORGED          | SLOT / PROPERTIES     |
-+----------------------------------------------+
-| Guardian Veil        | Suit: 0.9 / 0.8 / 0.8 |
-| Guardian Lens        | Weapon: 3-5 Void (B)  |
-| Silence Ring Gift    | Finger: +4 SP Recov/m |
-+----------------------------------------------+
-| ALLOCATION: ASSIGNED TO AGENT LEE            |
 +==============================================+
++---------------------+------------------------+
+| ITEM FORGED         | SLOT / PROPERTIES      |
++=====================+========================+
+| Guardian Veil       | Suit: 0.9 / 0.8 / 0.8  |
+|                     | / 1.5 Resist           |
++---------------------+------------------------+
+| Guardian Lens       | Weapon: 3-5 Void       |
+|                     | (Black / Long)         |
++---------------------+------------------------+
+| Silence Ring Gift   | Finger: +4 SP Recovery |
+|                     | / min                  |
++---------------------+------------------------+
+| Allocation          | ASSIGNED TO AGENT LEE  |
++---------------------+------------------------+
 ```
 
 Agent Lee receives the *Guardian Veil* suit and *Guardian Lens*, vastly upgrading his defense against mental and compound damage.
@@ -256,9 +272,11 @@ The acoustic transcript of the midnight whisper displays six precise syllables�
 
 ```text
 +==============================================+
-| REVERIE DIRECTORATE — CENTRAL COMMAND TERMIN |
+| REVERIE DIRECTORATE — CENTRAL COMMAND        |
+| TERMINAL                                     |
 | FACILITY MANAGEMENT INTERFACE: DAY 5 SHIFT   |
-| ENERGY QUOTA: 0.050 TONS | CURRENT: 0.000 TO |
+| ENERGY QUOTA: 0.050 TONS | CURRENT: 0.000    |
+| TONS                                         |
 | CONTAINMENT ALERT: SE-015 AT 9/12 BLESSINGS  |
 +==============================================+
 ```
@@ -274,17 +292,34 @@ Our roster has grown to five trained agents across Floor 1 and Floor 2:
 ```text
 +==============================================+
 | ACTIVE ROSTER: CENTRAL COMMAND & CONTAINMENT |
-+----------------------------------------------+
-| AGENT NAME           | STATS (F | EQUIPMENT  |
-+----------------------------------------------+
-| Agent Park (Lvl 3)   | 35/45/38 | Lament Set |
-| Agent Kim (Lvl 3)    | 50/30/35 | Embrace Se |
-| Agent Lee (Lvl 2)    | 32/38/32 | Guardian S |
-| Agent Choi (Lvl 2)   | 30/42/35 | Silence Se |
-| Agent Kang (Lvl 3)   | 48/32/30 | Fury Blade |
-+----------------------------------------------+
-| LEAD AURAS: SEIYON (SYNC) & DEKAN (WARD)     |
 +==============================================+
++---------------------+------------------------+
+| AGENT & LEVEL       | STATS & EQUIPMENT      |
+|                     | LOADOUT                |
++=====================+========================+
+| Agent Park (Lvl 3)  | HP:35 SP:45 Wk:38      |
+|                     | Sp:28 | Lament Shroud  |
+|                     | & Requiem              |
++---------------------+------------------------+
+| Agent Kim (Lvl 3)   | HP:50 SP:30 Wk:35      |
+|                     | Sp:25 | Mother's       |
+|                     | Embrace Set            |
++---------------------+------------------------+
+| Agent Lee (Lvl 2)   | HP:32 SP:38 Wk:32      |
+|                     | Sp:22 | Guardian Veil  |
+|                     | & Lens                 |
++---------------------+------------------------+
+| Agent Choi (Lvl 2)  | HP:30 SP:42 Wk:35      |
+|                     | Sp:25 | Silence Shroud |
+|                     | & Baton                |
++---------------------+------------------------+
+| Agent Kang (Lvl 3)  | HP:48 SP:32 Wk:30      |
+|                     | Sp:28 | Rage Forge     |
+|                     | Armor & Fang           |
++---------------------+------------------------+
+| Lead Auras          | Seiyon: Sync (+5% SP)  |
+|                     | | Dekan: Ward (+10 HP) |
++---------------------+------------------------+
 ```
 
 Agent Kang is our newly recruited Pugnahan specialist, armed with the *Fury Blade* for heavy physical suppression. We press **[BEGIN SHIFT]**.
@@ -318,10 +353,9 @@ At work check 4, Meltdown Level II sounds!
 ```text
 +==============================================+
 | EMERGENCY: ACOUSTIC STRAIN MELTDOWN LEVEL II |
-+----------------------------------------------+
-| AFFECTED CELLS: SE-015 (HEALER), SE-032 (BIR |
+| AFFECTED CELLS: SE-015 (KIND HEALER), SE-032 |
+| (WEIGHTING BIRD)                             |
 | BLEED TIMER: 45.0 SECONDS UNTIL BREACH       |
-+----------------------------------------------+
 | TACTICAL ORDERS: DRONE TO 015, SONG TO 032   |
 +==============================================+
 ```
@@ -337,16 +371,15 @@ At 14:00, the screen shudders. The Second Watch arrives:
 ```text
 +==============================================+
 | TACTICAL DOSSIER: SECOND WATCH (NOON) ORDEAL |
-+----------------------------------------------+
 | DESIGNATION : THE HEAVY PENDULUM             |
 | CLASSIFICATION : WEIGHT (VIOLET) NOON ORDEAL |
 | INTRUSION POINT : FLOOR 4 RESEARCH CORRIDOR  |
-+----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entity: 1x Colossal Suspended Obelisk      |
-| - Attack Affinity: Weight (Gravitational Sta |
-| - Weakness Affinity: Grudge (Physical Pierce |
-+----------------------------------------------+
+| - Attack Affinity: Weight (Gravitational     |
+| Stagger)                                     |
+| - Weakness Affinity: Grudge (Physical        |
+| Pierce)                                      |
 | TACTICAL DEPLOYMENT: KANG & KIM ENGAGE       |
 +==============================================+
 ```
@@ -388,15 +421,13 @@ One final work session by Agent Park on the Orphaned Bell yields +0.022 tons. Qu
 ```text
 +==============================================+
 | EXTRACTION ARCHIVE: SELECT NEXT COMPANION    |
-+----------------------------------------------+
 | CHOICE ALPHA [SE-O-IIg-007]:                 |
-| "A cold vapor that settles over the perimete |
-| whispering old names to the dead."           |
-+----------------------------------------------+
+| "A cold vapor that settles over the          |
+| perimeter, whispering old names to the       |
+| dead."                                       |
 | CHOICE BETA [SE-C-IIIg-145]:                 |
 | "A garden of razor thorns that drinks anger  |
 | and flowers into burning iron."              |
-+----------------------------------------------+
 | CHOICE GAMMA [SE-C-IIIb-105]:                |
 | "A stone giant weeping tears of dry salt,    |
 | standing alone in the desert."               |
@@ -415,14 +446,19 @@ We lock in **Choice Beta: SE-C-IIIγ-145 (*Garden of Thorns*)**.
 ```text
 +==============================================+
 | M.A.W. SYNTHESIS FORGING LOG — DAY 5         |
-+----------------------------------------------+
-| ITEM FORGED          | SLOT / PROPERTIES     |
-+----------------------------------------------+
-| Hourglass Pendant    | Collar: +6% Haste, Re |
-| Judgment Scale       | Visor: +15% Panic Shi |
-+----------------------------------------------+
-| ALLOCATION: PENDANT -> KANG | SCALE -> SONG  |
 +==============================================+
++---------------------+------------------------+
+| ITEM FORGED         | SLOT / PROPERTIES      |
++=====================+========================+
+| Hourglass Pendant   | Collar: +6% Haste,     |
+|                     | Reduce Stagger Delay   |
++---------------------+------------------------+
+| Judgment Scale      | Visor: +15% Panic      |
+|                     | Shield Threshold       |
++---------------------+------------------------+
+| Allocation          | Pendant -> Kang |      |
+|                     | Scale -> Song          |
++---------------------+------------------------+
 ```
 
 #### 6. Night Shift Telemetry & Nocturnal Vigil
@@ -457,7 +493,8 @@ In stasis ward Gamma, the nine blessed employees sleep in medically induced coma
 
 ```text
 +==============================================+
-| REVERIE DIRECTORATE — CENTRAL COMMAND TERMIN |
+| REVERIE DIRECTORATE — CENTRAL COMMAND        |
+| TERMINAL                                     |
 | FACILITY MANAGEMENT INTERFACE: DAY 7 SHIFT   |
 | EXTERNAL EVENT: SOUTHEAST HAN-STORM          |
 | ACTIVE FLOOR: FLOOR 5 (BORDER CONTROL OPEN)  |
@@ -658,7 +695,8 @@ Beside her, Majin observes the distant torchlight of the Drift King's caravan di
 
 ```text
 +==============================================+
-| REVERIE DIRECTORATE — CENTRAL COMMAND TERMIN |
+| REVERIE DIRECTORATE — CENTRAL COMMAND        |
+| TERMINAL                                     |
 | FACILITY MANAGEMENT INTERFACE: DAY 12 SHIFT  |
 | ACTIVE FLOOR: FLOOR 3 (ARCHIVE LEAD MARJUK)  |
 | MISSION: CLASSIFIED DATA EXTRACTION          |
@@ -865,10 +903,12 @@ He opens the private register of the Absolvohan project. The target is 100 tons.
 
 ```text
 +==============================================+
-| REVERIE DIRECTORATE — CENTRAL COMMAND TERMIN |
+| REVERIE DIRECTORATE — CENTRAL COMMAND        |
+| TERMINAL                                     |
 | FACILITY MANAGEMENT INTERFACE: DAY 17 SHIFT  |
 | ACTIVE FLOOR: FLOOR 7 (OUTSIDER RELATIONS)   |
-| ORDEAL ALERT: FOURTH WATCH (MIDNIGHT) INCOMI |
+| ORDEAL ALERT: FOURTH WATCH (MIDNIGHT)        |
+| INCOMING                                     |
 +==============================================+
 ```
 

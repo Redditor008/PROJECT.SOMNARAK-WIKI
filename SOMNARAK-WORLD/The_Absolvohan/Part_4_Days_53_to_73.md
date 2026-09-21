@@ -52,18 +52,34 @@ Containment work on adjacent sectors is accelerated to compensate for the distur
 ```text
 +==============================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 53 SHIFT       |
-+----------------------------------------------+
-| FLOOR & SECTOR       | AGENTS   | LEAD AURA  |
-+----------------------------------------------+
-| F1: Central Command  | 14 Op    | Seiyon: Sy |
-| F2: Containment Lead | 26 Op    | Dekan: War |
-| F3: Archive Lead     | 12 Op    | Marjuk: Re |
-| F4: Research Lead    | 16 Op    | Ayshuk: Cl |
-| F5: Border Control   | 20 Op    | Mellda: Ir |
-| F6: Extraction Lead  | 18 Op    | Zyrak: For |
-| F7: Outsider Relat.  | 10 Op    | Ishall: Vo |
-| F8: Deep Vaults Lead | 10 Op    | Xyan: Echo |
-+----------------------------------------------+
++---------------------+--------+---------------+
+| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
++=====================+========+===============+
+| F1: Central Command | 14 Op  | Seiyon: Sync  |
+|                     |        | Directive     |
++---------------------+--------+---------------+
+| F2: Containment     | 26 Op  | Dekan: Ward   |
+| Lead                |        | of the Maw    |
++---------------------+--------+---------------+
+| F3: Archive Lead    | 12 Op  | Marjuk:       |
+|                     |        | Recall Stasis |
++---------------------+--------+---------------+
+| F4: Research Lead   | 16 Op  | Ayshuk:       |
+|                     |        | Clarity       |
+|                     |        | Matrix        |
++---------------------+--------+---------------+
+| F5: Border Control  | 20 Op  | Mellda: Iron  |
+|                     |        | Perimeter     |
++---------------------+--------+---------------+
+| F6: Extraction Lead | 18 Op  | Zyrak: Forge  |
+|                     |        | Resonance     |
++---------------------+--------+---------------+
+| F7: Outsider Relat. | 10 Op  | Ishall: Void  |
+|                     |        | Vigil         |
++---------------------+--------+---------------+
+| F8: Deep Vaults     | 10 Op  | Xyan: Echo    |
+| Lead                |        | Watch         |
++---------------------+--------+---------------+
 | TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 126    |
 +==============================================+
 ```
@@ -79,15 +95,24 @@ Dekan assigns an extra four heavy containment specialists to the Maw's upper gal
 | STRAIN LEVEL : LEVEL V MELTDOWN              |
 | OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH   |
 | AFFECTED CELLS : SE-001, 008, 014, 025, 061  |
-+----------------------------------------------+
-| CONTAINMENT TARGET   | STRAIN   | STATUS     |
-+----------------------------------------------+
-| SE-C-Ia-008 (Maw)    | 96.4%    | Baffle Act |
-| SE-C-IIIg-001(Bell)  | 88.2%    | In Working |
-| SE-C-IIIb-014(Veil)  | 84.0%    | In Working |
-| SE-C-IIIg-025(Child) | 81.5%    | In Working |
-| SE-C-IIIb-061(Debt)  | 89.7%    | In Working |
-+----------------------------------------------+
++--------------------+----------+--------------+
+| CONTAINMENT TARGET | STRAIN   | STATUS       |
++====================+==========+==============+
+| SE-C-Ia-008        | 96.4%    | Baffle Act   |
+| (The Maw)          |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIg-001      | 88.2%    | Active       |
+| (The Bell)         |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIb-014      | 84.0%    | Active       |
+| (Debt Veil)        |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIg-025      | 81.5%    | Active       |
+| (Crying Child)     |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIb-061      | 89.7%    | Active       |
+| (The Debtor)       |          |              |
++--------------------+----------+--------------+
 | TACTICAL ACTION: SUB-BEDROCK HYDRAULIC PURGE |
 +==============================================+
 ```
@@ -99,24 +124,24 @@ Level V Meltdown struck the subterranean Maw and four primary containment cells 
 ```text
 +==============================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 53   |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
-+----------------------------------------------+
++====================+========+=======+========+
 | SE-008 (The Maw)   | Videre | -08%  | +0.02  |
 | Agent Shin (Lvl 4) | Void   | STBL  | 24 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-001 (Bell)      | Flere  | -07%  | +0.02  |
 | Agent Park (Lvl 4) | Lament | CALM  | 20 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-014 (Veil)      | Videre | -05%  | +0.01  |
 | Agent Lee (Lvl 3)  | Void   | STBL  | 16 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-025 (Child)     | Flere  | -06%  | +0.01  |
 | Agent Choi (Lvl 3) | Lament | CALM  | 17 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-061 (Debtor)    | Ferre  | -08%  | +0.02  |
 | Agent Kang (Lvl 4) | Weight | STBL  | 21 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.081 TONS PURE HAN |
 +==============================================+
 ```
@@ -225,18 +250,34 @@ Inside the facility, containment operations proceed under heightened biological 
 ```text
 +==============================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 55 SHIFT       |
-+----------------------------------------------+
-| FLOOR & SECTOR       | AGENTS   | LEAD AURA  |
-+----------------------------------------------+
-| F1: Central Command  | 14 Op    | Seiyon: Sy |
-| F2: Containment Lead | 22 Op    | Dekan: War |
-| F3: Archive Lead     | 12 Op    | Marjuk: Re |
-| F4: Research Lead    | 16 Op    | Ayshuk: Cl |
-| F5: Border Control   | 22 Op    | Mellda: Ir |
-| F6: Extraction Lead  | 18 Op    | Zyrak: For |
-| F7: Outsider Relat.  | 14 Op    | Ishall: Vo |
-| F8: Deep Vaults Lead | 10 Op    | Xyan: Echo |
-+----------------------------------------------+
++---------------------+--------+---------------+
+| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
++=====================+========+===============+
+| F1: Central Command | 14 Op  | Seiyon: Sync  |
+|                     |        | Directive     |
++---------------------+--------+---------------+
+| F2: Containment     | 22 Op  | Dekan: Ward   |
+| Lead                |        | of the Maw    |
++---------------------+--------+---------------+
+| F3: Archive Lead    | 12 Op  | Marjuk:       |
+|                     |        | Recall Stasis |
++---------------------+--------+---------------+
+| F4: Research Lead   | 16 Op  | Ayshuk:       |
+|                     |        | Clarity       |
+|                     |        | Matrix        |
++---------------------+--------+---------------+
+| F5: Border Control  | 22 Op  | Mellda: Iron  |
+|                     |        | Perimeter     |
++---------------------+--------+---------------+
+| F6: Extraction Lead | 18 Op  | Zyrak: Forge  |
+|                     |        | Resonance     |
++---------------------+--------+---------------+
+| F7: Outsider Relat. | 14 Op  | Ishall: Void  |
+|                     |        | Vigil         |
++---------------------+--------+---------------+
+| F8: Deep Vaults     | 10 Op  | Xyan: Echo    |
+| Lead                |        | Watch         |
++---------------------+--------+---------------+
 | TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 128    |
 +==============================================+
 ```
@@ -252,15 +293,24 @@ Ishall reinforces Floor 7 with four environmental triage technicians. Her Attend
 | STRAIN LEVEL : LEVEL V MELTDOWN              |
 | OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH   |
 | AFFECTED CELLS : SE-007, 009, 011, 016, 019  |
-+----------------------------------------------+
-| CONTAINMENT TARGET   | STRAIN   | STATUS     |
-+----------------------------------------------+
-| SE-O-IIg-007 (Brume) | 93.2%    | In Working |
-| SE-C-IIIg-009 (Weav) | 88.0%    | In Working |
-| SE-C-IIIb-011 (Wall) | 86.4%    | In Working |
-| SE-C-IIIb-016 (Comp) | 90.1%    | In Working |
-| SE-C-IIIb-019 (Debt) | 94.8%    | In Working |
-+----------------------------------------------+
++--------------------+----------+--------------+
+| CONTAINMENT TARGET | STRAIN   | STATUS       |
++====================+==========+==============+
+| SE-O-IIg-007       | 93.2%    | Active       |
+| (Brume)            |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIg-009      | 88.0%    | Active       |
+| (Weaver)           |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIb-011      | 86.4%    | Active       |
+| (Wall)             |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIb-016      | 90.1%    | Active       |
+| (Compass)          |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIb-019      | 94.8%    | Active       |
+| (Debt Clock)       |          |              |
++--------------------+----------+--------------+
 | TACTICAL ACTION: RAPID VEIL-FILTRATION SURGE |
 +==============================================+
 ```
@@ -272,24 +322,24 @@ Meltdown Level V struck five atmospheric and navigation entities at 14:05, provo
 ```text
 +==============================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 55   |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
-+----------------------------------------------+
++====================+========+=======+========+
 | SE-007 (Brume)     | Flere  | -08%  | +0.01  |
 | Agent Lim (Lvl 3)  | Lament | STBL  | 17 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-009 (Weaver)    | Videre | -07%  | +0.02  |
 | Agent Seo (Lvl 4)  | Void   | CALM  | 22 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-011 (Walls)     | Flere  | -06%  | +0.01  |
 | Agent Yoon (Lvl 4) | Lament | STBL  | 19 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-016 (Compass)   | Videre | -08%  | +0.02  |
 | Agent Jin (Lvl 4)  | Void   | STBL  | 20 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-019 (Debt)      | Ferre  | -09%  | +0.02  |
 | Agent Kim (Lvl 4)  | Weight | STBL  | 23 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.083 TONS PURE HAN |
 +==============================================+
 ```
@@ -400,18 +450,34 @@ Majin reasserts their sacred purpose: they are the archivists of human memory; t
 ```text
 +==============================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 60 SHIFT       |
-+----------------------------------------------+
-| FLOOR & SECTOR       | AGENTS   | LEAD AURA  |
-+----------------------------------------------+
-| F1: Central Command  | 14 Op    | Seiyon: Sy |
-| F2: Containment Lead | 24 Op    | Dekan: War |
-| F3: Archive Lead     | 12 Op    | Marjuk: Re |
-| F4: Research Lead    | 16 Op    | Ayshuk: Cl |
-| F5: Border Control   | 18 Op    | Mellda: Ir |
-| F6: Extraction Lead  | 24 Op    | Zyrak: For |
-| F7: Outsider Relat.  | 10 Op    | Ishall: Vo |
-| F8: Deep Vaults Lead | 08 Op    | Xyan: Echo |
-+----------------------------------------------+
++---------------------+--------+---------------+
+| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
++=====================+========+===============+
+| F1: Central Command | 14 Op  | Seiyon: Sync  |
+|                     |        | Directive     |
++---------------------+--------+---------------+
+| F2: Containment     | 24 Op  | Dekan: Ward   |
+| Lead                |        | of the Maw    |
++---------------------+--------+---------------+
+| F3: Archive Lead    | 12 Op  | Marjuk:       |
+|                     |        | Recall Stasis |
++---------------------+--------+---------------+
+| F4: Research Lead   | 16 Op  | Ayshuk:       |
+|                     |        | Clarity       |
+|                     |        | Matrix        |
++---------------------+--------+---------------+
+| F5: Border Control  | 18 Op  | Mellda: Iron  |
+|                     |        | Perimeter     |
++---------------------+--------+---------------+
+| F6: Extraction Lead | 24 Op  | Zyrak: Forge  |
+|                     |        | Resonance     |
++---------------------+--------+---------------+
+| F7: Outsider Relat. | 10 Op  | Ishall: Void  |
+|                     |        | Vigil         |
++---------------------+--------+---------------+
+| F8: Deep Vaults     | 08 Op  | Xyan: Echo    |
+| Lead                |        | Watch         |
++---------------------+--------+---------------+
 | TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 126    |
 +==============================================+
 ```
@@ -427,16 +493,27 @@ Zyrak reinforces Floor 6 with six furnace operators. His Attendant Aura, *Furnac
 | STRAIN LEVEL : LEVEL VI MELTDOWN             |
 | OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH   |
 | AFFECTED CELLS : SE-045, 048, 051, 054, 055, |
-+----------------------------------------------+
-| CONTAINMENT TARGET   | STRAIN   | STATUS     |
-+----------------------------------------------+
-| SE-C-IIIg-045(Prince | 96.2%    | In Working |
-| SE-C-IIIg-048 (Hums) | 84.1%    | In Working |
-| SE-C-IIIg-051 (Mask) | 87.5%    | In Working |
-| SE-C-IIIg-054 (Void) | 91.0%    | In Working |
-| SE-C-IIIg-055 (Stat) | 88.3%    | In Working |
-| SE-C-IIIb-062 (Inh)  | 93.7%    | In Working |
-+----------------------------------------------+
++--------------------+----------+--------------+
+| CONTAINMENT TARGET | STRAIN   | STATUS       |
++====================+==========+==============+
+| SE-C-IIIg-045      | 96.2%    | Active       |
+| (Prince)           |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIg-048      | 84.1%    | Active       |
+| (Hums)             |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIg-051      | 87.5%    | Active       |
+| (Joy Mask)         |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIg-054      | 91.0%    | Active       |
+| (Void Mask)        |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIg-055      | 88.3%    | Active       |
+| (Statue)           |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIb-062      | 93.7%    | Active       |
+| (Inheritor)        |          |              |
++--------------------+----------+--------------+
 | TACTICAL ACTION: 6-CELL RAPID ENGAGEMENT RUN |
 +==============================================+
 ```
@@ -448,24 +525,24 @@ Meltdown Level VI ignited six chambers across the emotional mask and royal trage
 ```text
 +==============================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 60   |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
-+----------------------------------------------+
++====================+========+=======+========+
 | SE-045 (Prince)    | Flere  | -11%  | +0.02  |
 | Agent Yoon (Lvl 4) | Lament | CALM  | 24 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-048 (Hums)      | Flere  | -06%  | +0.01  |
 | Agent Bae (Lvl 3)  | Lament | STBL  | 16 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-051 (Joy Mask)  | Videre | -07%  | +0.01  |
 | Agent Seo (Lvl 4)  | Void   | STBL  | 18 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-054 (Void Mask) | Ferre  | -08%  | +0.02  |
 | Agent Kang (Lvl 4) | Weight | STBL  | 20 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-062 (Inheritor) | Pugna  | -09%  | +0.02  |
 | Agent Shin (Lvl 4) | Grudge | STBL  | 22 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.085 TONS PURE HAN |
 +==============================================+
 ```
@@ -576,18 +653,34 @@ Containment operations operate at maximum throttle to sustain the aggressive har
 ```text
 +==============================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 65 SHIFT       |
-+----------------------------------------------+
-| FLOOR & SECTOR       | AGENTS   | LEAD AURA  |
-+----------------------------------------------+
-| F1: Central Command  | 14 Op    | Seiyon: Sy |
-| F2: Containment Lead | 22 Op    | Dekan: War |
-| F3: Archive Lead     | 12 Op    | Marjuk: Re |
-| F4: Research Lead    | 22 Op    | Ayshuk: Cl |
-| F5: Border Control   | 18 Op    | Mellda: Ir |
-| F6: Extraction Lead  | 18 Op    | Zyrak: For |
-| F7: Outsider Relat.  | 10 Op    | Ishall: Vo |
-| F8: Deep Vaults Lead | 12 Op    | Xyan: Echo |
-+----------------------------------------------+
++---------------------+--------+---------------+
+| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
++=====================+========+===============+
+| F1: Central Command | 14 Op  | Seiyon: Sync  |
+|                     |        | Directive     |
++---------------------+--------+---------------+
+| F2: Containment     | 22 Op  | Dekan: Ward   |
+| Lead                |        | of the Maw    |
++---------------------+--------+---------------+
+| F3: Archive Lead    | 12 Op  | Marjuk:       |
+|                     |        | Recall Stasis |
++---------------------+--------+---------------+
+| F4: Research Lead   | 22 Op  | Ayshuk:       |
+|                     |        | Clarity       |
+|                     |        | Matrix        |
++---------------------+--------+---------------+
+| F5: Border Control  | 18 Op  | Mellda: Iron  |
+|                     |        | Perimeter     |
++---------------------+--------+---------------+
+| F6: Extraction Lead | 18 Op  | Zyrak: Forge  |
+|                     |        | Resonance     |
++---------------------+--------+---------------+
+| F7: Outsider Relat. | 10 Op  | Ishall: Void  |
+|                     |        | Vigil         |
++---------------------+--------+---------------+
+| F8: Deep Vaults     | 12 Op  | Xyan: Echo    |
+| Lead                |        | Watch         |
++---------------------+--------+---------------+
 | TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 128    |
 +==============================================+
 ```
@@ -603,16 +696,27 @@ Ayshuk mobilizes six hydrological containment engineers to monitor sub-floor dra
 | STRAIN LEVEL : LEVEL VI MELTDOWN             |
 | OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH   |
 | AFFECTED CELLS : SE-088, 140, 373, 448, 693, |
-+----------------------------------------------+
-| CONTAINMENT TARGET   | STRAIN   | STATUS     |
-+----------------------------------------------+
-| SE-C-IIIg-088(Fount) | 94.5%    | In Working |
-| SE-C-IIIg-140(Will)  | 89.0%    | In Working |
-| SE-C-IIIg-373(Well)  | 92.1%    | In Working |
-| SE-C-IIIg-448(Over)  | 96.8%    | In Working |
-| SE-O-IVd-693 (Root)  | 87.4%    | In Working |
-| SE-O-IVd-997 (Drown) | 90.2%    | In Working |
-+----------------------------------------------+
++--------------------+----------+--------------+
+| CONTAINMENT TARGET | STRAIN   | STATUS       |
++====================+==========+==============+
+| SE-C-IIIg-088      | 94.5%    | Active       |
+| (Sorrow Fount)     |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIg-140      | 89.0%    | Active       |
+| (Weeping Willow)   |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIg-373      | 92.1%    | Active       |
+| (Spread Well)      |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIg-448      | 96.8%    | Active       |
+| (Overflow)         |          |              |
++--------------------+----------+--------------+
+| SE-O-IVd-693       | 87.4%    | Active       |
+| (Root Knot)        |          |              |
++--------------------+----------+--------------+
+| SE-O-IVd-997       | 90.2%    | Active       |
+| (Drown Roots)      |          |              |
++--------------------+----------+--------------+
 | TACTICAL ACTION: HIGH-VOLUME DRAINAGE ACTIVA |
 +==============================================+
 ```
@@ -624,24 +728,24 @@ Level VI Meltdown struck six aquatic and weeping sorrow entities at 14:30. SE-C-
 ```text
 +==============================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 65   |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
-+----------------------------------------------+
++====================+========+=======+========+
 | SE-088 (Fountain)  | Flere  | -08%  | +0.02  |
 | Agent Kwak (Lvl 4) | Lament | CALM  | 22 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-140 (Willow)    | Flere  | -09%  | +0.02  |
 | Agent Bae (Lvl 4)  | Lament | CALM  | 24 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-373 (Spreading) | Videre | -06%  | +0.01  |
 | Agent Seo (Lvl 4)  | Void   | STBL  | 19 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-448 (Overflow)  | Ferre  | -12%  | +0.02  |
 | Agent Moon (Lvl 4) | Weight | STBL  | 25 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-997 (Roots)     | Flere  | -07%  | +0.01  |
 | Agent Lim (Lvl 3)  | Lament | STBL  | 18 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.086 TONS PURE HAN |
 +==============================================+
 ```
@@ -752,18 +856,34 @@ Majin orders the envoy placed in medical stasis on Floor 7 under Ishall's person
 ```text
 +==============================================+
 | FLOOR DEPLOYMENT ROSTER — DAY 73 SHIFT       |
-+----------------------------------------------+
-| FLOOR & SECTOR       | AGENTS   | LEAD AURA  |
-+----------------------------------------------+
-| F1: Central Command  | 14 Op    | Seiyon: Sy |
-| F2: Containment Lead | 22 Op    | Dekan: War |
-| F3: Archive Lead     | 14 Op    | Marjuk: Re |
-| F4: Research Lead    | 16 Op    | Ayshuk: Cl |
-| F5: Border Control   | 26 Op    | Mellda: Ir |
-| F6: Extraction Lead  | 18 Op    | Zyrak: For |
-| F7: Outsider Relat.  | 14 Op    | Ishall: Vo |
-| F8: Deep Vaults Lead | 08 Op    | Xyan: Echo |
-+----------------------------------------------+
++---------------------+--------+---------------+
+| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
++=====================+========+===============+
+| F1: Central Command | 14 Op  | Seiyon: Sync  |
+|                     |        | Directive     |
++---------------------+--------+---------------+
+| F2: Containment     | 22 Op  | Dekan: Ward   |
+| Lead                |        | of the Maw    |
++---------------------+--------+---------------+
+| F3: Archive Lead    | 14 Op  | Marjuk:       |
+|                     |        | Recall Stasis |
++---------------------+--------+---------------+
+| F4: Research Lead   | 16 Op  | Ayshuk:       |
+|                     |        | Clarity       |
+|                     |        | Matrix        |
++---------------------+--------+---------------+
+| F5: Border Control  | 26 Op  | Mellda: Iron  |
+|                     |        | Perimeter     |
++---------------------+--------+---------------+
+| F6: Extraction Lead | 18 Op  | Zyrak: Forge  |
+|                     |        | Resonance     |
++---------------------+--------+---------------+
+| F7: Outsider Relat. | 14 Op  | Ishall: Void  |
+|                     |        | Vigil         |
++---------------------+--------+---------------+
+| F8: Deep Vaults     | 08 Op  | Xyan: Echo    |
+| Lead                |        | Watch         |
++---------------------+--------+---------------+
 | TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 132    |
 +==============================================+
 ```
@@ -779,16 +899,27 @@ Mellda places Floor 5 on full combat lockdown. Her Attendant Aura, *Iron Thresho
 | STRAIN LEVEL : LEVEL VI MELTDOWN             |
 | OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH   |
 | AFFECTED CELLS : SE-180, 190, 275, 558, 762, |
-+----------------------------------------------+
-| CONTAINMENT TARGET   | STRAIN   | STATUS     |
-+----------------------------------------------+
-| SE-C-IIIg-180 (Wall) | 89.2%    | In Working |
-| SE-C-IIIg-190 (Stat) | 91.5%    | In Working |
-| SE-C-IIIb-275 (Forg) | 97.4%    | In Working |
-| SE-C-IIIg-558 (Root) | 86.3%    | In Working |
-| SE-O-IVd-762 (Brid)  | 93.0%    | In Working |
-| SE-O-IVd-897 (Wall)  | 88.7%    | In Working |
-+----------------------------------------------+
++--------------------+----------+--------------+
+| CONTAINMENT TARGET | STRAIN   | STATUS       |
++====================+==========+==============+
+| SE-C-IIIb-180      | 89.2%    | Active       |
+| (Debt Wall)        |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIb-190      | 91.5%    | Active       |
+| (Rage Statue)      |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIb-275      | 97.4%    | Active       |
+| (Rage Forge)       |          |              |
++--------------------+----------+--------------+
+| SE-C-IIIg-558      | 86.3%    | Active       |
+| (Ember Root)       |          |              |
++--------------------+----------+--------------+
+| SE-O-IVd-762       | 93.0%    | Active       |
+| (Grasp Bridge)     |          |              |
++--------------------+----------+--------------+
+| SE-O-IVd-897       | 88.7%    | Active       |
+| (Haven Wall)       |          |              |
++--------------------+----------+--------------+
 | TACTICAL ACTION: THERMAL SLAG VENTING CLEARA |
 +==============================================+
 ```
@@ -800,24 +931,25 @@ Meltdown Level VI targeted six metallurgical and thermal chambers at 15:10, agit
 ```text
 +==============================================+
 | WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 73   |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
-+----------------------------------------------+
++====================+========+=======+========+
 | SE-180 (Debt Wall) | Ferre  | -07%  | +0.01  |
 | Agent Bang (Lvl 4) | Weight | STBL  | 19 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-190 (Rage Stat) | Pugna  | -09%  | +0.02  |
 | Agent Tak (Lvl 4)  | Grudge | STBL  | 22 OP  |
-+----------------------------------------------+
-| SE-275 (Rage Forge | Pugna  | -11%  | +0.02  |
++--------------------+--------+-------+--------+
+| SE-275 (Rage       | Pugna  | -11%  | +0.02  |
+| Forge)             |        |       |        |
 | Agent Cha (Lvl 4)  | Grudge | CALM  | 24 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-558 (Root)      | Flere  | -06%  | +0.01  |
 | Agent Lim (Lvl 3)  | Lament | STBL  | 17 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | SE-762 (Bridge)    | Ferre  | -08%  | +0.02  |
 | Agent Kang (Lvl 4) | Weight | STBL  | 21 OP  |
-+----------------------------------------------+
++--------------------+--------+-------+--------+
 | DAILY EXTRACTION YIELD: +0.088 TONS PURE HAN |
 +==============================================+
 ```
