@@ -291,11 +291,14 @@ Mellda, Zyrak, and Ishall deploy massive banquet and medical pavilions outside G
 +====================+==========+==============+
 | GATE 05 PLAZA      | 00.0%    | Welcoming    |
 +--------------------+----------+--------------+
-| SOUTHERN PLAINS    | 00.0%    | Blooming G   |
+| SOUTHERN PLAINS    | 00.0%    | Blooming     |
+|                    |          | Greenery     |
 +--------------------+----------+--------------+
-| CITY AQUEDUCTS     | 00.0%    | Flowing Sw   |
+| CITY AQUEDUCTS     | 00.0%    | Flowing      |
+|                    |          | Sweet Water  |
 +--------------------+----------+--------------+
-| CIVIC DWELLINGS    | 00.0%    | Festive La   |
+| CIVIC DWELLINGS    | 00.0%    | Festive      |
+|                    |          | Laughter     |
 +--------------------+----------+--------------+
 | ALL SANCTUARIES    | 00.0%    | Harmonized   |
 +--------------------+----------+--------------+
@@ -677,7 +680,7 @@ All 124 custodians and nine Echo-Cores stand upon the highest balcony, their com
 
 ```text
 +==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 36 |
+| ACOUSTIC STRAIN MELTDOWN MONITORING: DAY 365 |
 +----------------------------------------------+
 | STRAIN LEVEL : ETERNAL SUNRISE EQUILIBRIUM   |
 | OVERLOAD TIMER : PERMANENTLY EXTINCT         |
@@ -685,16 +688,20 @@ All 124 custodians and nine Echo-Cores stand upon the highest balcony, their com
 +--------------------+----------+--------------+
 | CONTAINMENT TARGET | STRAIN   | STATUS       |
 +====================+==========+==============+
-| SOMNARAK CITY      | 00.0%    | Living & F   |
+| SOMNARAK CITY      | 00.0%    | Living and   |
+|                    |          | Free         |
 +--------------------+----------+--------------+
-| CHEONBULOK NATION  | 00.0%    | Warmed & G   |
+| CHEONBULOK NATION  | 00.0%    | Warmed and   |
+|                    |          | Golden       |
 +--------------------+----------+--------------+
-| MUGEUKJI VALLEY    | 00.0%    | Singing &    |
+| MUGEUKJI VALLEY    | 00.0%    | Singing in   |
+|                    |          | Joy          |
 +--------------------+----------+--------------+
-| THE DESOLATE       | 00.0%    | Grass &      |
+| THE DESOLATE       | 00.0%    | Grass and    |
 | (Plains)           |          | Flowers      |
 +--------------------+----------+--------------+
-| ALL 246 COMPANIONS | 00.0%    | Free in th   |
+| ALL 246 COMPANIONS | 00.0%    | Free in the  |
+|                    |          | Light        |
 +--------------------+----------+--------------+
 | TACTICAL ACTION: ETERNAL JUBILEE ACTIVE      |
 +==============================================+
@@ -752,9 +759,12 @@ Work is no longer a desperate defense against extinction; it is the joyous culti
 | - Weakness Affinity: NONE                    |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
-| - The sun rose over the mountains of Somnara |
-| - 610,000 citizens welcomed the first real d |
-| - The Nine Echo-Cores laid down their weapon |
+| - The sun rose over the ancient mountains of |
+|   Somnarak                                   |
+| - 610,000 citizens welcomed the first real   |
+|   dawn of linear history                     |
+| - The Nine Echo-Cores laid down their        |
+|   weapons and tools forever                  |
 | - Duration: UNTO ETERNITY                    |
 | - Casualties: ZERO Fatalities                |
 +==============================================+

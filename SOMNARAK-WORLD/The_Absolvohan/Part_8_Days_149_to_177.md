@@ -488,22 +488,23 @@ Zyrak and Dekan oversee the acoustic synchronization between the Maw and the Thr
 
 ```text
 +==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 15 |
+| ACOUSTIC STRAIN MELTDOWN MONITORING: DAY 153 |
 +----------------------------------------------+
 | STRAIN LEVEL : LEVEL VI MELTDOWN             |
 | OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH   |
 | AFFECTED CELLS : SE-031, 032, 033, 036, 044, |
+|                  SE-061                      |
 +--------------------+----------+--------------+
 | CONTAINMENT TARGET | STRAIN   | STATUS       |
 +====================+==========+==============+
 | SE-C-IIIg-031      | 71.2%    | Harmonized   |
 | (Observing Bird)   |          |              |
 +--------------------+----------+--------------+
-| SE-C-IIIg-032      | 73.0%    | Rhythmic P   |
-| (Weighting Bird)   |          |              |
+| SE-C-IIIg-032      | 73.0%    | Rhythmic     |
+| (Weighting Bird)   |          | Pulse        |
 +--------------------+----------+--------------+
-| SE-C-IIIg-033      | 70.5%    | Baritone W   |
-| (Guarding Bird)    |          |              |
+| SE-C-IIIg-033      | 70.5%    | Baritone     |
+| (Guarding Bird)    |          | Wave         |
 +--------------------+----------+--------------+
 | SE-C-IIIb-036      | 79.1%    | Active       |
 | (Hourglass)        |          |              |
@@ -528,15 +529,15 @@ Meltdown Level VI triggered across the Bird wing at 14:15. The three cells opera
 +--------------------+--------+-------+--------+
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
-| SE-031 (Obs Bird)  | Videre | -15%  | +0.02  |
+| SE-031 (Small Bird)| Videre | -15%  | +0.02  |
 | Agent Han (Lvl 4)  | Void   | CALM  | 27 OP  |
 +--------------------+--------+-------+--------+
-| SE-032 (Wgt Bird)  | Ferre  | -14%  | +0.02  |
+| SE-032 (Tall Bird) | Ferre  | -14%  | +0.02  |
 | Agent Song (Lvl 4) | Weight | CALM  | 28 OP  |
 +--------------------+--------+-------+--------+
-| SE-033 (Grd Bird)  | Videre | -13%  | +0.02  |
-| Agent Hwang (Lvl   | Void   | CALM  | 26 OP  |
-| 4)                 |        |       |        |
+| SE-033 (Big Bird)  | Videre | -13%  | +0.02  |
+| Agent Hwang        | Void   | CALM  | 26 OP  |
+| (Grade IV)         |        |       |        |
 +--------------------+--------+-------+--------+
 | SE-036 (Hourglass) | Pugna  | -09%  | +0.02  |
 | Agent Kang (Lvl 4) | Grudge | STBL  | 24 OP  |
@@ -1166,7 +1167,7 @@ Every containment strain meter across the entire facility drops to absolute zero
 | Lead Dekan         | Trans  | DAWN  | REST   |
 +--------------------+--------+-------+--------+
 | SE-010             | Pugna  | -100% | UNITY  |
-| (Convergenc)       |        |       |        |
+| (Convergence)      |        |       |        |
 | Lead Zyrak         | Trans  | DAWN  | FORGE  |
 +--------------------+--------+-------+--------+
 | ZONE B WATERTABLE  | Videre | -100% | RAIN   |
@@ -1594,8 +1595,10 @@ Agent Han knelt before **The Trinity of Dawn** in the central rotunda. The celes
 | - Weakness Affinity: NONE                    |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
-| - The Trinity of Dawn radiated 1,000-meter h |
-| - All residual outside sorrow squalls dissol |
+| - The Trinity of Dawn radiated 1,000-meter   |
+|   golden halo over the facility              |
+| - All residual outside sorrow squalls        |
+|   dissolved into calm morning mist           |
 | - Facility radar clear to maximum horizon    |
 | - Clash Duration: 0.0 seconds                |
 | - Personnel Casualties: ZERO Fatalities      |

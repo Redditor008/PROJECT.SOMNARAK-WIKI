@@ -463,20 +463,20 @@ Only agents who ALREADY carry the baptismal halo are permitted to enter Chamber 
 | AGENT & LEVEL       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Kim (Lvl 5 -  | HP:78 SP:65 Wk:64      |
-| B)                  | Sp:48 | Mother's Shawl |
+| Agent Kim           | HP:78 SP:65 Wk:64      |
+| (Grade 5 - Blessed) | Sp:48 | Mother's Shawl |
 |                     | & Locket               |
 +---------------------+------------------------+
-| Agent Park (Lvl 5 - | HP:74 SP:62 Wk:68      |
-| B)                  | Sp:46 | Judgment Scale |
+| Agent Park          | HP:74 SP:62 Wk:68      |
+| (Grade 5 - Blessed) | Sp:46 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Hwang (Lvl 5  | HP:66 SP:78 Wk:70      |
-| - B)                | Sp:52 | Observing Robe |
+| Agent Hwang         | HP:66 SP:78 Wk:70      |
+| (Grade 5 - Blessed) | Sp:52 | Observing Robe |
 |                     | & Scepter              |
 +---------------------+------------------------+
-| Agent Choi (Lvl 4 - | HP:58 SP:50 Wk:52      |
-| Un)                 | Sp:40 | Standard       |
+| Agent Choi          | HP:58 SP:50 Wk:52      |
+| (Grade 4 - Standard)| Sp:40 | Standard       |
 |                     | Defense Loadout        |
 +---------------------+------------------------+
 | Lead Aura           | Ayshuk: Clarity Matrix |

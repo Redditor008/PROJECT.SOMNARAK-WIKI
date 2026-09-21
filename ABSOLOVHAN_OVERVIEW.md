@@ -434,17 +434,22 @@ Each Ordeal color corresponds to a specific emotional pathology and combat aspec
 +==============================================+
 | COLOR  | PATHOLOGY | PRIMARY ASPECT | RANGE  |
 +========+===========+================+========+
-| Grey   | Spite     | Grudge (Phys)  | Band 1 |
+| Grey   | Spite     | Grudge         | Band 1 |
+|        |           | (Physical)     |        |
 +--------+-----------+----------------+--------+
-| Red    | Wrath     | Grudge / Wgt   | Band 2 |
+| Red    | Wrath     | Grudge /       | Band 2 |
+|        |           | Weight Wave    |        |
 +--------+-----------+----------------+--------+
-| Blue   | Despair   | Lament (Psych) | Band 3 |
+| Blue   | Despair   | Lament         | Band 3 |
+|        |           | (Psychic)      |        |
 +--------+-----------+----------------+--------+
 | Violet | Oblivion  | Void (Decay)   | Band 4 |
 +--------+-----------+----------------+--------+
-| Amber  | Hunger    | Weight / Grd   | Band 1 |
+| Amber  | Hunger    | Weight /       | Band 1 |
+|        |           | Grudge Crash   |        |
 +--------+-----------+----------------+--------+
-| Green  | Entropy   | Weight / Lmt   | Band 5 |
+| Green  | Entropy   | Weight /       | Band 5 |
+|        |           | Lament Pulse   |        |
 +====================+================+========+
 ```
 
@@ -665,9 +670,11 @@ Each agent may equip one **M.A.W. Weapon (M.A.W.-W)**, one **M.A.W. Suit (M.A.W.
 +==============================================+
 | SLOT ID   | ANATOMICAL LOC | TYPICAL BONUS   |
 +===========+================+=================+
-| Slot 1    | Crown (Head)   | +SP, Lament Res |
+| Slot 1    | Crown (Head)   | +SP, Lament     |
+|           |                | Resistance      |
 +-----------+----------------+-----------------+
-| Slot 2    | Visor (Eye)    | Extraction Acc  |
+| Slot 2    | Visor (Eye)    | Extraction      |
+|           |                | Accuracy Bonus  |
 +-----------+----------------+-----------------+
 | Slot 3    | Respirator(Jaw)| Toxic / Breath  |
 +-----------+----------------+-----------------+
@@ -679,7 +686,8 @@ Each agent may equip one **M.A.W. Weapon (M.A.W.-W)**, one **M.A.W. Suit (M.A.W.
 +-----------+----------------+-----------------+
 | Slot 7    | Bracer (Left)  | Block / Parry   |
 +-----------+----------------+-----------------+
-| Slot 8    | Wings (Spine)  | Move Speed / Eva|
+| Slot 8    | Wings (Spine)  | Movement Speed  |
+|           |                | & Evasion Bonus |
 +============================+=================+
 ```
 
@@ -699,7 +707,7 @@ When the three avian Sorrow Entities—**SE-C-IIIγ-031** (*The Observing Bird*)
 +==============================================+
 | ENTITY      | OPTIMAL PROTOCOL | PRIMARY RISK|
 +=============+==================+=============+
-| Observing   | Viderehan (Obs)  | SP Drain    |
+| Observing   | Viderehan Watch  | SP Drain    |
 +-------------+------------------+-------------+
 | Weighting   | Ferrehan (Endure)| Weight Maul |
 +-------------+------------------+-------------+
@@ -746,13 +754,13 @@ Each ending represents an ontological divergence point governed by strict facili
 |        | (Core Death)    | (Day 0 Rewind)    |
 +--------+-----------------+-------------------+
 | End B  | Drowned Mind    | Department Loss   |
-|        | (Realize Fail)  | (Emergency Reset) |
+|        | (Ego Inversion) | (Emergency Reset) |
 +--------+-----------------+-------------------+
 | End C  | Stagnant Veil   | Municipal Drain   |
 |        | (Normal End)    | (Standard Reset)  |
 +--------+-----------------+-------------------+
 | End D  | Shattered Floor | Tectonic Rupture  |
-|        | (Apocalypse Br) | (Catastrophic Res)|
+|        | (Floor Rupture) | (Catastrophic End)|
 +--------+-----------------+-------------------+
 | End S  | The Absolvohan  | TRUE GOLDEN DAWN  |
 |        | (Supercritical) | (Loop Shattered)  |
@@ -984,7 +992,7 @@ When an attendant's past human trauma surges to the surface during a Realization
 +----------------------+-----------------------+
 | Sector Status        | Corrupted / Distorted |
 +----------------------+-----------------------+
-| Failsafe Protocol    | Emergency Mnemonic Pur|
+| Failsafe Protocol    | Emergency Memory Purge|
 +======================+=======================+
 ```
 

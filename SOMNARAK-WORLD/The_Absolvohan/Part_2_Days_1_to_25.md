@@ -526,15 +526,21 @@ We deploy our frontline units to Floor 5 to hold the southern perimeter:
 ```text
 +==============================================+
 | DEPLOYED ROSTER: FLOOR 5 (BORDER CONTROL)    |
-+----------------------------------------------+
-| AGENT NAME           | STATS (F | EQUIPMENT  |
-+----------------------------------------------+
-| Agent Noh (Lvl 3)    | 46/35/32 | Pruning Cl |
-| Agent Bae (Lvl 3)    | 32/45/38 | Tear Shrou |
-| Agent Moon (Lvl 3)   | 52/28/34 | Lead Maul  |
-+----------------------------------------------+
-| LEAD AURA: MELLDA — IRON THRESHOLD (+22% DEF |
-+==============================================+
++---------------------+------------------------+
+| AGENT & LEVEL       | STATS & EQUIPMENT      |
++=====================+========================+
+| Agent Noh (Level 3) | 46 HP / 35 SP / 32 Wk  |
+|                     | Gear: Pruning Claws    |
++---------------------+------------------------+
+| Agent Bae (Level 3) | 32 HP / 45 SP / 38 Wk  |
+|                     | Gear: Tear Shroud      |
++---------------------+------------------------+
+| Agent Moon (Level 3)| 52 HP / 28 SP / 34 Wk  |
+|                     | Gear: Lead Maul        |
++---------------------+------------------------+
+| LEAD AURA: MELLDA   | Iron Threshold Aura    |
+|                     | (+22% Armor Defense)   |
++=====================+========================+
 ```
 
 Agent Moon is our primary tank with 52 Resilience, equipped with the *Lead Maul* for heavy gravitational crushing. Agent Noh carries the *Pruning Claws* specifically tuned for trimming thorny vegetative entities.
@@ -726,15 +732,21 @@ Floor 3 introduces **Cognitive Corrosion**: entities on this floor emit White/La
 ```text
 +==============================================+
 | DEPLOYED ROSTER: FLOOR 3 (THE ARCHIVE)       |
-+----------------------------------------------+
-| AGENT NAME           | STATS (F | EQUIPMENT  |
-+----------------------------------------------+
-| Agent Seo (Lvl 3)    | 35/50/38 | Memory Loc |
-| Agent Kwon (Lvl 3)   | 38/42/40 | Lament Shr |
-| Agent Sim (Lvl 3)    | 48/34/35 | Lead Maul  |
-+----------------------------------------------+
-| LEAD AURA: MARJUK — MEMORIAL PRESERVATION    |
-+==============================================+
++---------------------+------------------------+
+| AGENT & LEVEL       | STATS & EQUIPMENT      |
++=====================+========================+
+| Agent Seo (Level 3) | 35 HP / 50 SP / 38 Wk  |
+|                     | Gear: Memory Locket    |
++---------------------+------------------------+
+| Agent Kwon (Level 3)| 38 HP / 42 SP / 40 Wk  |
+|                     | Gear: Lament Shroud    |
++---------------------+------------------------+
+| Agent Sim (Level 3) | 48 HP / 34 SP / 35 Wk  |
+|                     | Gear: Lead Maul        |
++---------------------+------------------------+
+| LEAD AURA: MARJUK   | Memorial Preservation  |
+|                     | (+20% Clarity Defense) |
++=====================+========================+
 ```
 
 Agent Seo is our star mentalist, boasting 50 Clarity and equipped with the *Memory Locket* (0.7 Lament resistance). Agent Sim provides heavy kinetic backup.
@@ -937,16 +949,24 @@ Our roster has expanded to senior grade. We form our elite suppression squad:
 ```text
 +==============================================+
 | ELITE COMBAT SQUAD: FLOORS 1, 6 & 7          |
-+----------------------------------------------+
-| AGENT NAME           | STATS (F | EQUIPMENT  |
-+----------------------------------------------+
-| Agent Hong (Lvl 4)   | 40/55/45 | Hollow Hal |
-| Agent Tak (Lvl 4)    | 55/35/38 | Fury Blade |
-| Agent Jo (Lvl 4)     | 45/48/42 | Guardian S |
-| Agent Bang (Lvl 3)   | 48/36/40 | Embrace Se |
-+----------------------------------------------+
-| LEAD AURA: ISHALL — SYNTHETIC VOID           |
-+==============================================+
++---------------------+------------------------+
+| AGENT & LEVEL       | STATS & EQUIPMENT      |
++=====================+========================+
+| Agent Hong (Level 4)| 40 HP / 55 SP / 45 Wk  |
+|                     | Gear: Hollow Halo      |
++---------------------+------------------------+
+| Agent Tak (Level 4) | 55 HP / 35 SP / 38 Wk  |
+|                     | Gear: Fury Blade       |
++---------------------+------------------------+
+| Agent Jo (Level 4)  | 45 HP / 48 SP / 42 Wk  |
+|                     | Gear: Guardian Spear   |
++---------------------+------------------------+
+| Agent Bang (Level 3)| 48 HP / 36 SP / 40 Wk  |
+|                     | Gear: Embrace Seal     |
++---------------------+------------------------+
+| LEAD AURA: ISHALL   | Synthetic Void Shield  |
+|                     | (+25% Void Resistance) |
++=====================+========================+
 ```
 
 Agent Hong is our premier Lament specialist, equipped with the newly extracted *Hollow Halo* and *Lament Shroud*. Agent Tak is our frontline executioner with 55 Resilience and 42 Resolve.

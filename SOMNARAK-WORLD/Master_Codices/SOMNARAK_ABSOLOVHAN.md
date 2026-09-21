@@ -1147,15 +1147,21 @@ We deploy our frontline units to Floor 5 to hold the southern perimeter:
 ```text
 +==============================================+
 | DEPLOYED ROSTER: FLOOR 5 (BORDER CONTROL)    |
-+----------------------------------------------+
-| AGENT NAME           | STATS (F | EQUIPMENT  |
-+----------------------------------------------+
-| Agent Noh (Lvl 3)    | 46/35/32 | Pruning Cl |
-| Agent Bae (Lvl 3)    | 32/45/38 | Tear Shrou |
-| Agent Moon (Lvl 3)   | 52/28/34 | Lead Maul  |
-+----------------------------------------------+
-| LEAD AURA: MELLDA — IRON THRESHOLD (+22% DEF |
-+==============================================+
++---------------------+------------------------+
+| AGENT & LEVEL       | STATS & EQUIPMENT      |
++=====================+========================+
+| Agent Noh (Level 3) | 46 HP / 35 SP / 32 Wk  |
+|                     | Gear: Pruning Claws    |
++---------------------+------------------------+
+| Agent Bae (Level 3) | 32 HP / 45 SP / 38 Wk  |
+|                     | Gear: Tear Shroud      |
++---------------------+------------------------+
+| Agent Moon (Level 3)| 52 HP / 28 SP / 34 Wk  |
+|                     | Gear: Lead Maul        |
++---------------------+------------------------+
+| LEAD AURA: MELLDA   | Iron Threshold Aura    |
+|                     | (+22% Armor Defense)   |
++=====================+========================+
 ```
 
 Agent Moon is our primary tank with 52 Resilience, equipped with the *Lead Maul* for heavy gravitational crushing. Agent Noh carries the *Pruning Claws* specifically tuned for trimming thorny vegetative entities.
@@ -1347,15 +1353,21 @@ Floor 3 introduces **Cognitive Corrosion**: entities on this floor emit White/La
 ```text
 +==============================================+
 | DEPLOYED ROSTER: FLOOR 3 (THE ARCHIVE)       |
-+----------------------------------------------+
-| AGENT NAME           | STATS (F | EQUIPMENT  |
-+----------------------------------------------+
-| Agent Seo (Lvl 3)    | 35/50/38 | Memory Loc |
-| Agent Kwon (Lvl 3)   | 38/42/40 | Lament Shr |
-| Agent Sim (Lvl 3)    | 48/34/35 | Lead Maul  |
-+----------------------------------------------+
-| LEAD AURA: MARJUK — MEMORIAL PRESERVATION    |
-+==============================================+
++---------------------+------------------------+
+| AGENT & LEVEL       | STATS & EQUIPMENT      |
++=====================+========================+
+| Agent Seo (Level 3) | 35 HP / 50 SP / 38 Wk  |
+|                     | Gear: Memory Locket    |
++---------------------+------------------------+
+| Agent Kwon (Level 3)| 38 HP / 42 SP / 40 Wk  |
+|                     | Gear: Lament Shroud    |
++---------------------+------------------------+
+| Agent Sim (Level 3) | 48 HP / 34 SP / 35 Wk  |
+|                     | Gear: Lead Maul        |
++---------------------+------------------------+
+| LEAD AURA: MARJUK   | Memorial Preservation  |
+|                     | (+20% Clarity Defense) |
++=====================+========================+
 ```
 
 Agent Seo is our star mentalist, boasting 50 Clarity and equipped with the *Memory Locket* (0.7 Lament resistance). Agent Sim provides heavy kinetic backup.
@@ -1558,16 +1570,24 @@ Our roster has expanded to senior grade. We form our elite suppression squad:
 ```text
 +==============================================+
 | ELITE COMBAT SQUAD: FLOORS 1, 6 & 7          |
-+----------------------------------------------+
-| AGENT NAME           | STATS (F | EQUIPMENT  |
-+----------------------------------------------+
-| Agent Hong (Lvl 4)   | 40/55/45 | Hollow Hal |
-| Agent Tak (Lvl 4)    | 55/35/38 | Fury Blade |
-| Agent Jo (Lvl 4)     | 45/48/42 | Guardian S |
-| Agent Bang (Lvl 3)   | 48/36/40 | Embrace Se |
-+----------------------------------------------+
-| LEAD AURA: ISHALL — SYNTHETIC VOID           |
-+==============================================+
++---------------------+------------------------+
+| AGENT & LEVEL       | STATS & EQUIPMENT      |
++=====================+========================+
+| Agent Hong (Level 4)| 40 HP / 55 SP / 45 Wk  |
+|                     | Gear: Hollow Halo      |
++---------------------+------------------------+
+| Agent Tak (Level 4) | 55 HP / 35 SP / 38 Wk  |
+|                     | Gear: Fury Blade       |
++---------------------+------------------------+
+| Agent Jo (Level 4)  | 45 HP / 48 SP / 42 Wk  |
+|                     | Gear: Guardian Spear   |
++---------------------+------------------------+
+| Agent Bang (Level 3)| 48 HP / 36 SP / 40 Wk  |
+|                     | Gear: Embrace Seal     |
++---------------------+------------------------+
+| LEAD AURA: ISHALL   | Synthetic Void Shield  |
+|                     | (+25% Void Resistance) |
++=====================+========================+
 ```
 
 Agent Hong is our premier Lament specialist, equipped with the newly extracted *Hollow Halo* and *Lament Shroud*. Agent Tak is our frontline executioner with 55 Resilience and 42 Resolve.
@@ -2191,20 +2211,20 @@ Only agents who ALREADY carry the baptismal halo are permitted to enter Chamber 
 | AGENT & LEVEL       | STATS & EQUIPMENT      |
 |                     | LOADOUT                |
 +=====================+========================+
-| Agent Kim (Lvl 5 -  | HP:78 SP:65 Wk:64      |
-| B)                  | Sp:48 | Mother's Shawl |
+| Agent Kim           | HP:78 SP:65 Wk:64      |
+| (Grade 5 - Blessed) | Sp:48 | Mother's Shawl |
 |                     | & Locket               |
 +---------------------+------------------------+
-| Agent Park (Lvl 5 - | HP:74 SP:62 Wk:68      |
-| B)                  | Sp:46 | Judgment Scale |
+| Agent Park          | HP:74 SP:62 Wk:68      |
+| (Grade 5 - Blessed) | Sp:46 | Judgment Scale |
 |                     | & Maul                 |
 +---------------------+------------------------+
-| Agent Hwang (Lvl 5  | HP:66 SP:78 Wk:70      |
-| - B)                | Sp:52 | Observing Robe |
+| Agent Hwang         | HP:66 SP:78 Wk:70      |
+| (Grade 5 - Blessed) | Sp:52 | Observing Robe |
 |                     | & Scepter              |
 +---------------------+------------------------+
-| Agent Choi (Lvl 4 - | HP:58 SP:50 Wk:52      |
-| Un)                 | Sp:40 | Standard       |
+| Agent Choi          | HP:58 SP:50 Wk:52      |
+| (Grade 4 - Standard)| Sp:40 | Standard       |
 |                     | Defense Loadout        |
 +---------------------+------------------------+
 | Lead Aura           | Ayshuk: Clarity Matrix |
@@ -8536,22 +8556,23 @@ Zyrak and Dekan oversee the acoustic synchronization between the Maw and the Thr
 
 ```text
 +==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 15 |
+| ACOUSTIC STRAIN MELTDOWN MONITORING: DAY 153 |
 +----------------------------------------------+
 | STRAIN LEVEL : LEVEL VI MELTDOWN             |
 | OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH   |
 | AFFECTED CELLS : SE-031, 032, 033, 036, 044, |
+|                  SE-061                      |
 +--------------------+----------+--------------+
 | CONTAINMENT TARGET | STRAIN   | STATUS       |
 +====================+==========+==============+
 | SE-C-IIIg-031      | 71.2%    | Harmonized   |
 | (Observing Bird)   |          |              |
 +--------------------+----------+--------------+
-| SE-C-IIIg-032      | 73.0%    | Rhythmic P   |
-| (Weighting Bird)   |          |              |
+| SE-C-IIIg-032      | 73.0%    | Rhythmic     |
+| (Weighting Bird)   |          | Pulse        |
 +--------------------+----------+--------------+
-| SE-C-IIIg-033      | 70.5%    | Baritone W   |
-| (Guarding Bird)    |          |              |
+| SE-C-IIIg-033      | 70.5%    | Baritone     |
+| (Guarding Bird)    |          | Wave         |
 +--------------------+----------+--------------+
 | SE-C-IIIb-036      | 79.1%    | Active       |
 | (Hourglass)        |          |              |
@@ -8576,15 +8597,15 @@ Meltdown Level VI triggered across the Bird wing at 14:15. The three cells opera
 +--------------------+--------+-------+--------+
 | ENTITY & AGENT     | WORK   | GAUGE | HAN    |
 +====================+========+=======+========+
-| SE-031 (Obs Bird)  | Videre | -15%  | +0.02  |
+| SE-031 (Small Bird)| Videre | -15%  | +0.02  |
 | Agent Han (Lvl 4)  | Void   | CALM  | 27 OP  |
 +--------------------+--------+-------+--------+
-| SE-032 (Wgt Bird)  | Ferre  | -14%  | +0.02  |
+| SE-032 (Tall Bird) | Ferre  | -14%  | +0.02  |
 | Agent Song (Lvl 4) | Weight | CALM  | 28 OP  |
 +--------------------+--------+-------+--------+
-| SE-033 (Grd Bird)  | Videre | -13%  | +0.02  |
-| Agent Hwang (Lvl   | Void   | CALM  | 26 OP  |
-| 4)                 |        |       |        |
+| SE-033 (Big Bird)  | Videre | -13%  | +0.02  |
+| Agent Hwang        | Void   | CALM  | 26 OP  |
+| (Grade IV)         |        |       |        |
 +--------------------+--------+-------+--------+
 | SE-036 (Hourglass) | Pugna  | -09%  | +0.02  |
 | Agent Kang (Lvl 4) | Grudge | STBL  | 24 OP  |
@@ -9214,7 +9235,7 @@ Every containment strain meter across the entire facility drops to absolute zero
 | Lead Dekan         | Trans  | DAWN  | REST   |
 +--------------------+--------+-------+--------+
 | SE-010             | Pugna  | -100% | UNITY  |
-| (Convergenc)       |        |       |        |
+| (Convergence)      |        |       |        |
 | Lead Zyrak         | Trans  | DAWN  | FORGE  |
 +--------------------+--------+-------+--------+
 | ZONE B WATERTABLE  | Videre | -100% | RAIN   |
@@ -9642,8 +9663,10 @@ Agent Han knelt before **The Trinity of Dawn** in the central rotunda. The celes
 | - Weakness Affinity: NONE                    |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
-| - The Trinity of Dawn radiated 1,000-meter h |
-| - All residual outside sorrow squalls dissol |
+| - The Trinity of Dawn radiated 1,000-meter   |
+|   golden halo over the facility              |
+| - All residual outside sorrow squalls        |
+|   dissolved into calm morning mist           |
 | - Facility radar clear to maximum horizon    |
 | - Clash Duration: 0.0 seconds                |
 | - Personnel Casualties: ZERO Fatalities      |
@@ -10167,11 +10190,14 @@ Mellda, Zyrak, and Ishall deploy massive banquet and medical pavilions outside G
 +====================+==========+==============+
 | GATE 05 PLAZA      | 00.0%    | Welcoming    |
 +--------------------+----------+--------------+
-| SOUTHERN PLAINS    | 00.0%    | Blooming G   |
+| SOUTHERN PLAINS    | 00.0%    | Blooming     |
+|                    |          | Greenery     |
 +--------------------+----------+--------------+
-| CITY AQUEDUCTS     | 00.0%    | Flowing Sw   |
+| CITY AQUEDUCTS     | 00.0%    | Flowing      |
+|                    |          | Sweet Water  |
 +--------------------+----------+--------------+
-| CIVIC DWELLINGS    | 00.0%    | Festive La   |
+| CIVIC DWELLINGS    | 00.0%    | Festive      |
+|                    |          | Laughter     |
 +--------------------+----------+--------------+
 | ALL SANCTUARIES    | 00.0%    | Harmonized   |
 +--------------------+----------+--------------+
@@ -10553,7 +10579,7 @@ All 124 custodians and nine Echo-Cores stand upon the highest balcony, their com
 
 ```text
 +==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 36 |
+| ACOUSTIC STRAIN MELTDOWN MONITORING: DAY 365 |
 +----------------------------------------------+
 | STRAIN LEVEL : ETERNAL SUNRISE EQUILIBRIUM   |
 | OVERLOAD TIMER : PERMANENTLY EXTINCT         |
@@ -10561,16 +10587,20 @@ All 124 custodians and nine Echo-Cores stand upon the highest balcony, their com
 +--------------------+----------+--------------+
 | CONTAINMENT TARGET | STRAIN   | STATUS       |
 +====================+==========+==============+
-| SOMNARAK CITY      | 00.0%    | Living & F   |
+| SOMNARAK CITY      | 00.0%    | Living and   |
+|                    |          | Free         |
 +--------------------+----------+--------------+
-| CHEONBULOK NATION  | 00.0%    | Warmed & G   |
+| CHEONBULOK NATION  | 00.0%    | Warmed and   |
+|                    |          | Golden       |
 +--------------------+----------+--------------+
-| MUGEUKJI VALLEY    | 00.0%    | Singing &    |
+| MUGEUKJI VALLEY    | 00.0%    | Singing in   |
+|                    |          | Joy          |
 +--------------------+----------+--------------+
-| THE DESOLATE       | 00.0%    | Grass &      |
+| THE DESOLATE       | 00.0%    | Grass and    |
 | (Plains)           |          | Flowers      |
 +--------------------+----------+--------------+
-| ALL 246 COMPANIONS | 00.0%    | Free in th   |
+| ALL 246 COMPANIONS | 00.0%    | Free in the  |
+|                    |          | Light        |
 +--------------------+----------+--------------+
 | TACTICAL ACTION: ETERNAL JUBILEE ACTIVE      |
 +==============================================+
@@ -10628,9 +10658,12 @@ Work is no longer a desperate defense against extinction; it is the joyous culti
 | - Weakness Affinity: NONE                    |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
-| - The sun rose over the mountains of Somnara |
-| - 610,000 citizens welcomed the first real d |
-| - The Nine Echo-Cores laid down their weapon |
+| - The sun rose over the ancient mountains of |
+|   Somnarak                                   |
+| - 610,000 citizens welcomed the first real   |
+|   dawn of linear history                     |
+| - The Nine Echo-Cores laid down their        |
+|   weapons and tools forever                  |
 | - Duration: UNTO ETERNITY                    |
 | - Casualties: ZERO Fatalities                |
 +==============================================+
