@@ -213,8 +213,8 @@ Shift concludes with cumulative daily harvest of **0.295 tons** (100% quota achi
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +25 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Lim: +5 Clarity (SP Cap Up)          |
-| - Agent Yoo: +4 Resilience (HP Cap Up)       |
+| - Agent Lim: +5 Clarity (Max SP Up)          |
+| - Agent Yoo: +4 Resilience (Max HP Up)       |
 | - Agent Seo: +4 Composure (Work Rate Up)     |
 +==============================================+
 ```
@@ -256,12 +256,12 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIβ-044 (*The Forgotten
 +----------------------------------------------+
 | ITEM FORGED          | PROPERTIES / ALLOC    |
 +----------------------+-----------------------+
-| Glacial Ring         | Bracer Slot: +50%     |
-|                      | Frost Res, 15% Slow   |
+| Glacial Ring         | Bracer: +50% Frost    |
+|                      | Resistance, 15% Slow  |
 |                      | Strike. Alloc: Lim.   |
 +----------------------+-----------------------+
-| Memory Locket        | Collar Slot: +10 Max  |
-|                      | SP, +15% Lament Res.  |
+| Memory Locket        | Collar: +10 Max SP,   |
+|                      | +15% Lament Resistance|
 |                      | Alloc: Agent Seo.     |
 +======================+=======================+
 ```
@@ -467,9 +467,9 @@ Daily shift concludes with cumulative total of **0.340 tons** (100% quota achiev
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +28 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Kang: +5 Resilience (HP Cap Up)      |
+| - Agent Kang: +5 Resilience (Max HP Up)      |
 | - Agent Noh: +4 Composure (Work Rate Up)     |
-| - Agent Hwang: +4 Clarity (SP Cap Up)        |
+| - Agent Hwang: +4 Clarity (Max SP Up)        |
 +==============================================+
 ```
 
@@ -718,8 +718,8 @@ Shift concludes with cumulative total of **0.395 tons** (100% quota achieved).
 | REAGENTS ACCUMULATED: +30 RHR                |
 | AGENT ADVANCEMENT:                           |
 | - Agent Hwang: +5 Composure (Work Rate Up)   |
-| - Agent Kang: +4 Resilience (HP Cap Up)      |
-| - Agent Shin: +4 Clarity (SP Cap Up)         |
+| - Agent Kang: +4 Resilience (Max HP Up)      |
+| - Agent Shin: +4 Clarity (Max SP Up)         |
 +==============================================+
 ```
 
@@ -970,8 +970,8 @@ Daily shift concludes with cumulative total of **0.450 tons** (100% quota achiev
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +32 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Shin: +5 Clarity (SP Cap Up)         |
-| - Agent Yoo: +5 Resilience (HP Cap Up)       |
+| - Agent Shin: +5 Clarity (Max SP Up)         |
+| - Agent Yoo: +5 Resilience (Max HP Up)       |
 | - Agent Bae: +4 Composure (Work Rate Up)     |
 +==============================================+
 ```
@@ -1222,8 +1222,8 @@ Daily shift concludes with cumulative total of **0.520 tons** (100% quota achiev
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +35 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Kang: +5 Resilience (HP Cap Up)      |
-| - Agent Hwang: +5 Clarity (SP Cap Up)        |
+| - Agent Kang: +5 Resilience (Max HP Up)      |
+| - Agent Hwang: +5 Clarity (Max SP Up)        |
 | - Agent Bae: +4 Composure (Work Rate Up)     |
 +==============================================+
 ```

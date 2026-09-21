@@ -213,9 +213,9 @@ Shift concludes with cumulative daily harvest of **0.580 tons** (100% quota achi
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +27 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Shin: +5 Clarity (SP Cap Up)         |
-| - Agent Park: +4 Clarity (SP Cap Up)         |
-| - Agent Kang: +4 Resilience (HP Cap Up)      |
+| - Agent Shin: +5 Clarity (Max SP Up)         |
+| - Agent Park: +4 Clarity (Max SP Up)         |
+| - Agent Kang: +4 Resilience (Max HP Up)      |
 +==============================================+
 ```
 
@@ -259,8 +259,8 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIβ-061 (*The Debtor*)*
 |                      | Immune to Sleep &     |
 |                      | Fatigue. Alloc: Shin. |
 +----------------------+-----------------------+
-| Mourner Veil         | Head: +10% Lament Res,|
-|                      | +5 Work Speed.        |
+| Mourner Veil         | Head: +10% Lament     |
+|                      | Resistance, +5 Speed. |
 |                      | Alloc: Agent Park.    |
 +======================+=======================+
 ```
@@ -472,9 +472,9 @@ Shift concludes with cumulative daily harvest of **0.640 tons** (100% quota achi
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +27 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Lim: +5 Clarity (SP Cap Up)          |
-| - Agent Seo: +4 Clarity (SP Cap Up)          |
-| - Agent Kang: +4 Resilience (HP Cap Up)      |
+| - Agent Lim: +5 Clarity (Max SP Up)          |
+| - Agent Seo: +4 Clarity (Max SP Up)          |
+| - Agent Kang: +4 Resilience (Max HP Up)      |
 +==============================================+
 ```
 
@@ -731,9 +731,9 @@ Daily shift concludes with cumulative total of **0.710 tons** (100% quota achiev
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +28 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Cha: +5 Resilience (HP Cap Up)       |
-| - Agent Kang: +5 Resilience (HP Cap Up)      |
-| - Agent Bae: +4 Clarity (SP Cap Up)          |
+| - Agent Cha: +5 Resilience (Max HP Up)       |
+| - Agent Kang: +5 Resilience (Max HP Up)      |
+| - Agent Bae: +4 Clarity (Max SP Up)          |
 +==============================================+
 ```
 
@@ -989,9 +989,9 @@ Shift concludes with cumulative daily harvest of **0.780 tons** (100% quota achi
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +28 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Hong: +5 Clarity (SP Cap Up)         |
-| - Agent Yoon: +5 Clarity (SP Cap Up)         |
-| - Agent Kang: +4 Resilience (HP Cap Up)      |
+| - Agent Hong: +5 Clarity (Max SP Up)         |
+| - Agent Yoon: +5 Clarity (Max SP Up)         |
+| - Agent Kang: +4 Resilience (Max HP Up)      |
 +==============================================+
 ```
 
@@ -1243,9 +1243,9 @@ Daily shift concludes with cumulative total of **0.850 tons** (100% quota achiev
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +30 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Kang: +5 Resilience (HP Cap Up)      |
-| - Agent Seo: +5 Clarity (SP Cap Up)          |
-| - Agent Kim: +4 Resilience (HP Cap Up)       |
+| - Agent Kang: +5 Resilience (Max HP Up)      |
+| - Agent Seo: +5 Clarity (Max SP Up)          |
+| - Agent Kim: +4 Resilience (Max HP Up)       |
 +==============================================+
 ```
 
@@ -1289,9 +1289,9 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IVδ-002 (*The Colossus o
 |                      | Clash Power in Crisis.|
 |                      | Alloc: Agent Kang.    |
 +----------------------+-----------------------+
-| Foundation Greaves   | Legs: +25% Weight Res,|
-|                      | Immune to Knockdown & |
-|                      | Quakes. Alloc: Kim.   |
+| Foundation Greaves   | Legs: +25% Weight     |
+|                      | Resistance, Immune to |
+|                      | Knockdown. Alloc: Kim.|
 +======================+=======================+
 ```
 

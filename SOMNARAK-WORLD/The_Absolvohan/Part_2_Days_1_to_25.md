@@ -883,8 +883,11 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-081 (*The Hollow Sa
 +----------------------------------------------+
 | ITEM FORGED          | SLOT / PROPERTIES     |
 +----------------------------------------------+
-| Memory Locket        | Neck: +15% White Resi |
-| Memory Spool         | Weapon: 4-6 Void (B)  |
+| Memory Locket        | Neck: +15% Void       |
+|                      | Resistance.           |
++----------------------+-----------------------+
+| Memory Spool         | Weapon: 4-6 Void      |
+|                      | Piercing Damage.      |
 +----------------------------------------------+
 | ALLOCATION: ASSIGNED TO AGENT SEO            |
 +==============================================+

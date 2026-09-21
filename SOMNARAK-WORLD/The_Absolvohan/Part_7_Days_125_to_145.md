@@ -208,9 +208,9 @@ Shift concludes with cumulative daily harvest of **0.920 tons** (100% quota achi
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +30 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Shin: +5 Clarity (SP Cap Up)         |
-| - Agent Kang: +5 Resilience (HP Cap Up)      |
-| - Agent Park: +4 Clarity (SP Cap Up)         |
+| - Agent Shin: +5 Clarity (Max SP Up)         |
+| - Agent Kang: +5 Resilience (Max HP Up)      |
+| - Agent Park: +4 Clarity (Max SP Up)         |
 +==============================================+
 ```
 
@@ -253,9 +253,9 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IVδ-012 (*The Cobalt Wel
 |                      | +10% Work Speed, Calm |
 |                      | Aura. Alloc: Shin.    |
 +----------------------+-----------------------+
-| Mourner Mantle       | Back: +15% Lament Res,|
-|                      | +10 Max HP, Knockdown |
-|                      | Dampener. Alloc: Kang.|
+| Mourner Mantle       | Back Slot: +15% Lament|
+|                      | Resistance, +10 HP.   |
+|                      | Alloc: Agent Kang.    |
 +======================+=======================+
 ```
 
@@ -460,9 +460,9 @@ Daily shift concludes with cumulative total of **0.980 tons** (100% quota achiev
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +32 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Hwang: +5 Clarity (SP Cap Up)        |
+| - Agent Hwang: +5 Clarity (Max SP Up)        |
 | - Agent Noh: +5 Composure (Work Rate Up)     |
-| - Agent Kang: +4 Resilience (HP Cap Up)      |
+| - Agent Kang: +4 Resilience (Max HP Up)      |
 +==============================================+
 ```
 
@@ -715,8 +715,8 @@ Shift concludes with cumulative daily harvest of **1.050 tons** (100% quota achi
 | REAGENTS ACCUMULATED: +32 RHR                |
 | AGENT ADVANCEMENT:                           |
 | - Agent Hwang: +5 Composure (Work Rate Up)   |
-| - Agent Kang: +5 Resilience (HP Cap Up)      |
-| - Agent Shin: +4 Clarity (SP Cap Up)         |
+| - Agent Kang: +5 Resilience (Max HP Up)      |
+| - Agent Shin: +4 Clarity (Max SP Up)         |
 +==============================================+
 ```
 
@@ -967,9 +967,9 @@ Shift concludes with cumulative daily harvest of **1.120 tons** (100% quota achi
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +32 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Hong: +5 Clarity (SP Cap Up)         |
-| - Agent Yoon: +4 Clarity (SP Cap Up)         |
-| - Agent Kang: +4 Resilience (HP Cap Up)      |
+| - Agent Hong: +5 Clarity (Max SP Up)         |
+| - Agent Yoon: +4 Clarity (Max SP Up)         |
+| - Agent Kang: +4 Resilience (Max HP Up)      |
 +==============================================+
 ```
 
@@ -1222,9 +1222,9 @@ Shift concludes with cumulative daily harvest of **1.180 tons** (100% quota achi
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +35 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Cha: +5 Resilience (HP Cap Up)       |
-| - Agent Kang: +5 Resilience (HP Cap Up)      |
-| - Agent Hwang: +4 Clarity (SP Cap Up)        |
+| - Agent Cha: +5 Resilience (Max HP Up)       |
+| - Agent Kang: +5 Resilience (Max HP Up)      |
+| - Agent Hwang: +4 Clarity (Max SP Up)        |
 +==============================================+
 ```
 
@@ -1479,9 +1479,9 @@ Daily shift concludes with cumulative total of **1.250 tons** (100% quota achiev
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +35 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Kang: +5 Resilience (HP Cap Up)      |
-| - Agent Seo: +5 Clarity (SP Cap Up)          |
-| - Agent Hong: +4 Clarity (SP Cap Up)         |
+| - Agent Kang: +5 Resilience (Max HP Up)      |
+| - Agent Seo: +5 Clarity (Max SP Up)          |
+| - Agent Hong: +4 Clarity (Max SP Up)         |
 +==============================================+
 ```
 
