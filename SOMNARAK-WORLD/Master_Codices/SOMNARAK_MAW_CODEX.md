@@ -1535,7 +1535,7 @@ The sharp metallic thorns prick the forehead upon activation, channeling a stead
 **Acquisition Probability:** 4%
 **Effect:** +2 stat bonus when working the source entity
 
-**Ability:** *Vigilant Pain* — Total immunity to Sleep, Stun, and Trance effects; grants +2 Fortitude during sustained engagements.
+**Ability:** *Vigilant Pain* — Total immunity to Sleep, Stun, and Trance effects; grants +2 Resilience during sustained engagements.
 
 ### The Debt Wall ( 빚의 벽 ) — SE-C-IIIγ-180
 

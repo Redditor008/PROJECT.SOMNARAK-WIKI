@@ -110,7 +110,7 @@ Lee exits the chamber with a sigh of relief, depositing 0.018 tons of Han into t
 Energy counter updates: `0.018 / 0.050 tons`. Meltdown counter advances to `1/4`.
 
 ##### Work Session 2: Flerehan Work on SE-001 (The Orphaned Bell)
-Next, we send our veteran Agent Park into Chamber 001 for **Flerehan** communion. Thanks to the *Lament Shroud*, Park takes only 2 White damage on failed ticks.
+Next, we send our veteran Agent Park into Chamber 001 for **Flerehan** communion. Thanks to the *Lament Shroud*, Park takes only 2 Lament damage on failed ticks.
 - *Chamber Log:* `The bell tolls a soft, distant chime for a forgotten miner...`
 - Park scores an 8/8 PERFECT WORK RESULT!
 - +0.022 tons harvested! Total energy reaches `0.040 / 0.050 tons`. Meltdown counter hits `2/4`.
@@ -185,7 +185,7 @@ We click **[Shift Complete]**.
 | AGENT ADVANCEMENT & PROMOTIONS:              |
 | - Agent Park: +3 Clarity (SP: 42)            |
 | - Agent Kim: +2 Resilience (HP: 45)          |
-| - Agent Lee: +4 Prudence, +2 Temperance      |
+| - Agent Lee: +4 Clarity, +2 Composure        |
 +==============================================+
 ```
 
@@ -212,7 +212,7 @@ We enter the extraction archive. Three extraction canisters surface:
 **Director's Tactical Analysis:**
 - *Choice Beta* is *The Cracked Hourglass* (SE-C-IIIβ-036)—a dangerous temporal manipulator that accelerates agent aging if worked incorrectly.
 - *Choice Gamma* is *The Angry Maiden* (SE-C-IIIγ-042)—demands high-level Pugnahan combat work; our rookie roster lacks the physical armor to trade blows safely.
-- *Choice Alpha* is **The Silent Child** (SE-C-IIIγ-025). This is an exceptionally safe HE/Class III Lament entity. It loves Flerehan communion, trains Prudence and Temperance reliably, and produces the *Silence Ring* gift which provides passive SP regeneration.
+- *Choice Alpha* is **The Silent Child** (SE-C-IIIγ-025). This is an exceptionally safe Class II/Class III Lament entity. It loves Flerehan communion, trains Clarity and Composure reliably, and produces the *Silence Ring* gift which provides passive SP regeneration.
 
 We lock in **Choice Alpha: SE-C-IIIγ-025 (*The Silent Child*)**.
 
@@ -411,7 +411,7 @@ One final work session by Agent Park on the Orphaned Bell yields +0.022 tons. Qu
 | REAGENTS ACCUMULATED: +18 RHR                |
 | AGENT ADVANCEMENT:                           |
 | - Agent Kang: +4 Resilience (HP: 54)         |
-| - Agent Song: +3 Temperance (Work: 38)       |
+| - Agent Song: +3 Composure (Work: 38)        |
 | - Agent Hwang: +3 Clarity (SP: 45)           |
 +==============================================+
 ```
@@ -437,7 +437,7 @@ One final work session by Agent Park on the Orphaned Bell yields +0.022 tons. Qu
 **Director's Tactical Analysis:**
 - *Choice Alpha* is *Brume* (SE-O-IIγ-007)—an atmospheric object entity. Low energy yield, primarily useful for environmental mist control.
 - *Choice Gamma* is *The Lonely Giant* (SE-C-IIIβ-105)—a high-tier emotional sponge, but prone to violent depression meltdowns.
-- *Choice Beta* is **Garden of Thorns** (SE-C-IIIγ-145). This entity is an aggressive Grudge/Pugnahan training powerhouse. It responds well to combat pruning, extracts the *Thorn Bracer* (+5% reflect damage), and will allow us to rapidly level our agents' Fortitude and Resilience.
+- *Choice Beta* is **Garden of Thorns** (SE-C-IIIγ-145). This entity is an aggressive Grudge/Pugnahan training powerhouse. It responds well to combat pruning, extracts the *Thorn Bracer* (+5% reflect damage), and will allow us to rapidly level our agents' Resilience and Resolve.
 
 We lock in **Choice Beta: SE-C-IIIγ-145 (*Garden of Thorns*)**.
 
@@ -525,7 +525,7 @@ We deploy our frontline units to Floor 5 to hold the southern perimeter:
 +==============================================+
 ```
 
-Agent Moon is our primary tank with 52 Fortitude, equipped with the *Lead Maul* for heavy gravitational crushing. Agent Noh carries the *Pruning Claws* specifically tuned for trimming thorny vegetative entities.
+Agent Moon is our primary tank with 52 Resilience, equipped with the *Lead Maul* for heavy gravitational crushing. Agent Noh carries the *Pruning Claws* specifically tuned for trimming thorny vegetative entities.
 
 We press **[BEGIN SHIFT]**.
 
@@ -543,7 +543,7 @@ Agent Noh enters Chamber 145 for **Pugnahan** (Combat Pruning) work:
 - *Chamber Log:* `Barbed tendrils thrash against the glass, hungry for warm blood...`
 - FEAR CHECK: Level III Agent vs Class III Entity -> RESULT: CALM.
 - Tick 1–4: 4 Successes! Noh's pruning shears sever 20 meters of aggressive thorn tendrils.
-- Tick 5: Failure! A barbed vine whips across Noh's shoulder, dealing 5 Red damage. Thanks to Mellda's *Iron Threshold*, damage is reduced to 3!
+- Tick 5: Failure! A barbed vine whips across Noh's shoulder, dealing 5 Grudge damage. Thanks to Mellda's *Iron Threshold*, damage is reduced to 3!
 - Tick 6–10: 5 Successes!
 - **Final Result: 9/10 Positive Han Crystals (PERFECT RESULT).**
 - Noh harvests 0.022 tons of concentrated crimson sap-crystal!
@@ -615,7 +615,7 @@ Agent Noh conducts one final pruning run on Chamber 145, pushing daily harvest t
 | AGENT ADVANCEMENT:                           |
 | - Agent Noh: +4 Resilience (HP: 50)          |
 | - Agent Bae: +3 Clarity (SP: 48)             |
-| - Agent Moon: +4 Fortitude (HP: 56)          |
+| - Agent Moon: +4 Resilience (HP: 56)         |
 +==============================================+
 ```
 
@@ -723,7 +723,7 @@ Floor 3 introduces **Cognitive Corrosion**: entities on this floor emit White/La
 +==============================================+
 ```
 
-Agent Seo is our star mentalist, boasting 50 Prudence and equipped with the *Memory Locket* (0.7 White resistance). Agent Sim provides heavy kinetic backup.
+Agent Seo is our star mentalist, boasting 50 Clarity and equipped with the *Memory Locket* (0.7 Lament resistance). Agent Sim provides heavy kinetic backup.
 
 We press **[BEGIN SHIFT]**.
 
@@ -741,7 +741,7 @@ Agent Seo approaches the dark, reflective waters of Chamber 115 for **Viderehan*
 - *Chamber Log:* `Faces of citizens from two thousand years ago ripple across the dark surface...`
 - FEAR CHECK: Level III Agent vs Class III Entity -> RESULT: CALM.
 - Tick 1–5: 5 Successes! Seo records clean holographic memory packets.
-- Tick 6: Failure! A memory of the Cheonbulok Furnace ignition flares, dealing 6 White damage. Seo's SP dips from 50 to 44.
+- Tick 6: Failure! A memory of the Cheonbulok Furnace ignition flares, dealing 6 Lament damage. Seo's SP dips from 50 to 44.
 - Tick 7–10: 4 Successes!
 - **Final Result: 9/10 Positive Han Crystals (PERFECT RESULT).**
 - Seo extracts 0.024 tons of luminescent memory-crystal!
@@ -816,7 +816,7 @@ One final quick observation session yields +0.017 tons. Daily harvest: **0.065 /
 | REAGENTS ACCUMULATED: +19 RHR                |
 | AGENT ADVANCEMENT:                           |
 | - Agent Seo: +4 Clarity (SP: 54)             |
-| - Agent Kwon: +3 Prudence (SP: 45)           |
+| - Agent Kwon: +3 Clarity (SP: 45)            |
 | - Agent Sim: +3 Resilience (HP: 51)          |
 +==============================================+
 ```
@@ -842,7 +842,7 @@ One final quick observation session yields +0.017 tons. Daily harvest: **0.065 /
 ```
 
 **Director's Tactical Analysis:**
-- *Choice Beta* is *The Debt Wall* (SE-C-IIIγ-180)—a tedious Ferrehan entity that penalizes work if an agent has low Temperance.
+- *Choice Beta* is *The Debt Wall* (SE-C-IIIγ-180)—a tedious Ferrehan entity that penalizes work if an agent has low Composure.
 - *Choice Gamma* is *The Sorrow Fountain* (SE-C-IIIγ-088)—excellent Lament yield, but its breach mechanics flood lower corridors with sorrow-water.
 - *Choice Alpha* is **The Hollow Saint** (SE-C-IIIγ-081). This is one of the most magnificent Lament entities in the entire encyclopedia. It produces diamond-grade Han, responds wonderfully to Flerehan communion, and extracts the *Hollow Halo* (Head slot: +8 SP, passive panic reduction aura)—the premier sanity gear needed for surviving Midnight Ordeals!
 
@@ -935,7 +935,7 @@ Our roster has expanded to senior grade. We form our elite suppression squad:
 +==============================================+
 ```
 
-Agent Hong is our premier Lament specialist, equipped with the newly extracted *Hollow Halo* and *Lament Shroud*. Agent Tak is our frontline executioner with 55 Fortitude and 42 Justice.
+Agent Hong is our premier Lament specialist, equipped with the newly extracted *Hollow Halo* and *Lament Shroud*. Agent Tak is our frontline executioner with 55 Resilience and 42 Resolve.
 
 We press **[BEGIN SHIFT]**.
 
@@ -1029,7 +1029,7 @@ We slam the **[Shift Complete]** toggle!
 | AGENT ADVANCEMENT:                           |
 | - Agent Hong: +5 Clarity (SP: 60 - PROMOTED  |
 | - Agent Tak: +4 Resilience (HP: 59 - PROMOTE |
-| - Agent Jo: +3 Temperance (Work: 45)         |
+| - Agent Jo: +3 Composure (Work: 45)          |
 +==============================================+
 ```
 

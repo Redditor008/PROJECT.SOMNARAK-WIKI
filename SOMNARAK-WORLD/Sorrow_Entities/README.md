@@ -47,10 +47,10 @@ Every entity file documents the entity's response (Positive, Neutral, Negative) 
 
 | Work Type | Korean Name | Focus & Methodology | Primary Stat Tested |
 |---|---|---|---|
-| **Ferrehan** | 인내작업 (Endurance) | Physical containment, barrier maintenance, bearing burden | Resilience / Fortitude |
-| **Flerehan** | 공감작업 (Insight) | Emotional resonance, weeping observation, active listening | Composure / Prudence |
-| **Pugnahan** | 억제작업 (Repression) | Acoustic suppression, physical force, barrier clamping | Potency / Temperance |
-| **Viderehan** | 관찰작업 (Attachment) | Remote surveillance, sensor logging, philosophical contemplation | Coherence / Justice |
+| **Ferrehan** | 인내작업 (Endurance) | Physical containment, barrier maintenance, bearing burden | Resilience (탄력) |
+| **Flerehan** | 공감작업 (Lamentation) | Emotional resonance, weeping observation, active listening | Composure (침착) |
+| **Pugnahan** | 억제작업 (Confrontation) | Acoustic suppression, physical force, barrier clamping | Resolve (결의) |
+| **Viderehan** | 관찰작업 (Observation) | Remote surveillance, sensor logging, philosophical contemplation | Clarity (명료) |
 
 ---
 

@@ -221,7 +221,7 @@ Thin crimson capillaries glow between the stone plates, pulsing in sync with the
 **Acquisition Probability:** 4%
 **Effect:** +2 stat bonus when working the source entity
 
-**Ability:** *Stonefist Resolve* — Unarmed strikes deal +4 Grudge damage; bearer gains +1 Fortitude and cannot have weapons knocked from their grip.
+**Ability:** *Stonefist Resolve* — Unarmed strikes deal +4 Grudge damage; bearer gains +1 Resilience and cannot have weapons knocked from their grip.
 
 **Cost:** The bearer's fingers become stiff and cold during periods of calm.
 

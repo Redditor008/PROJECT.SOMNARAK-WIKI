@@ -197,7 +197,7 @@ The Dawn Ordeal manifested as three bone skulls that chewed through secondary hy
 | AGENT ADVANCEMENT:                           |
 | - Agent Shin: +5 Clarity (Sanity Pool Up)    |
 | - Agent Kang: +4 Resilience (HP Pool Up)     |
-| - Agent Park: +3 Temperance (Work Success Up |
+| - Agent Park: +3 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -395,7 +395,7 @@ A toxic sorrow aerosol infiltrated Floor 7's satellite maintenance dock during a
 | AGENT ADVANCEMENT:                           |
 | - Agent Kim: +5 Resilience (HP Pool Up)      |
 | - Agent Seo: +4 Clarity (Sanity Pool Up)     |
-| - Agent Jin: +3 Prudence (Work Speed Up)     |
+| - Agent Jin: +3 Clarity (Work Speed Up)      |
 +==============================================+
 ```
 
@@ -598,7 +598,7 @@ Two colossal phantoms of pure apathy manifested inside the extraction foundry, a
 | AGENT ADVANCEMENT:                           |
 | - Agent Yoon: +5 Clarity (Sanity Pool Up)    |
 | - Agent Shin: +4 Resilience (HP Pool Up)     |
-| - Agent Kang: +4 Temperance (Work Success Up |
+| - Agent Kang: +4 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -801,7 +801,7 @@ A Midnight Ordeal surged into the primary hydraulic pumping station. Agent Moon,
 | AGENT ADVANCEMENT:                           |
 | - Agent Moon: +5 Resilience (HP Pool Up)     |
 | - Agent Bae: +4 Clarity (Sanity Pool Up)     |
-| - Agent Kwak: +3 Temperance (Work Success Up |
+| - Agent Kwak: +3 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -1005,7 +1005,7 @@ Three fiery ash hounds that pursued the envoy across the Desolate attempted to f
 | AGENT ADVANCEMENT:                           |
 | - Agent Cha: +5 Resilience (HP Pool Up)      |
 | - Agent Tak: +4 Resilience (HP Pool Up)      |
-| - Agent Kang: +4 Temperance (Work Success Up |
+| - Agent Kang: +4 Composure (Work Success Up  |
 +==============================================+
 ```
 

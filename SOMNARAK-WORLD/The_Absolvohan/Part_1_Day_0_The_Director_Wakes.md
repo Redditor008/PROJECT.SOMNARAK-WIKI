@@ -90,13 +90,13 @@ Before hitting the **[Begin Shift]** toggle, let's inspect our starting roster. 
 | Level / Title       | Level I (Plucky        |
 |                     | Recruit)               |
 +---------------------+------------------------+
-| Fortitude (HP)      | 30 [Grade I - Red]     |
+| Resilience (HP)     | 30 [Grade I - Grudge]  |
 +---------------------+------------------------+
-| Prudence (SP)       | 35 [Grade II - White]  |
+| Clarity (SP)        | 35 [Grade II - Lament] |
 +---------------------+------------------------+
-| Temperance (Work)   | 28 [Grade I - Black]   |
+| Composure (Work)    | 28 [Grade I - Void]    |
 +---------------------+------------------------+
-| Justice (Speed)     | 25 [Grade I - Pale]    |
+| Resolve (Speed)     | 25 [Grade I - Weight]  |
 +---------------------+------------------------+
 | Equipped Weapon     | Standard Stun Baton    |
 |                     | (1-3 Grudge)           |
@@ -122,13 +122,13 @@ Before hitting the **[Begin Shift]** toggle, let's inspect our starting roster. 
 | Level / Title       | Level I (Stoic Junior  |
 |                     | Enforcer)              |
 +---------------------+------------------------+
-| Fortitude (HP)      | 38 [Grade II - Red]    |
+| Resilience (HP)     | 38 [Grade II - Grudge] |
 +---------------------+------------------------+
-| Prudence (SP)       | 25 [Grade I - White]   |
+| Clarity (SP)        | 25 [Grade I - Lament]  |
 +---------------------+------------------------+
-| Temperance (Work)   | 30 [Grade I - Black]   |
+| Composure (Work)    | 30 [Grade I - Void]    |
 +---------------------+------------------------+
-| Justice (Speed)     | 22 [Grade I - Pale]    |
+| Resolve (Speed)     | 22 [Grade I - Weight]  |
 +---------------------+------------------------+
 | Equipped Weapon     | Standard Stun Baton    |
 |                     | (1-3 Grudge)           |
@@ -144,9 +144,9 @@ Before hitting the **[Begin Shift]** toggle, let's inspect our starting roster. 
 +---------------------+------------------------+
 ```
 
-Agent Park is balanced with an edge in Prudence (White sanity), which makes him our best candidate for handling Weeping and mental entities. Agent Kim is our meat-shield with 38 Fortitude, well-suited for physical strain and Weight work. 
+Agent Park is balanced with an edge in Clarity (Lament stability), which makes him our best candidate for handling Weeping and mental entities. Agent Kim is our frontline anchor with 38 Resilience, well-suited for physical strain and Weight work. 
 
-Both are armed with standard-issue Directorate stun batons (deals 2–4 Lament/White damage—crucial for knocking sense back into panicked agents) and basic tunics that provide flat 1.0 multiplier across all damage types (meaning zero damage resistance).
+Both are armed with standard-issue Directorate stun batons (deals 2–4 Lament damage—crucial for knocking sense back into panicked agents) and basic tunics that provide flat 1.0 multiplier across all damage types (meaning zero damage resistance).
 
 We assign Park and Kim to Floor 1, verify Seiyon's synchronization link, and press **[BEGIN SHIFT]**.
 
@@ -202,7 +202,7 @@ Our second chamber holds **SE-C-IIIγ-005** (*The Smothering Mother*). We click 
 Kim stands firmly as the Mother's colossal woolen shawl wraps around his chest:
 - Tick 1: Success (+1 Han).
 - Tick 2: Failure! The shawl tightens. Kim takes 4 Red (Grudge) physical damage. HP drops to 34/38.
-- Tick 3–10: 6 Successes, 2 Failures. Kim takes another 8 Red damage. HP at 26/38.
+- Tick 3–10: 6 Successes, 2 Failures. Kim takes another 8 Grudge damage. HP at 26/38.
 - **Final Result: 7/10 Positive Han Crystals (NORMAL WORK RESULT).**
 
 Energy counter rises to `0.032 / 0.050 tons`. But now... the Acoustic Strain counter hits `3/3`!
@@ -253,8 +253,8 @@ Before we can celebrate, the facility lights turn amber. A secondary klaxon blar
 A glowing cyan apparition appears in the western corridor, chanting pre-human syllables. A Level I clerk wandering the hallway immediately loses all SP and enters **Panic State: Void Catatonia**, freezing in terror!
 
 Director Majin intervenes with tactical command:
-1. **Directorate Directive Deployed:** `Veil Mist Dampener` activated in Corridor West, reducing the entity's Pale damage aura by 40%.
-2. **Panic Recovery:** Agent Park dashes in, swinging his standard stun baton (Lament/White damage) directly into the catatonic clerk. The gentle cognitive shock restores the clerk's sanity bar to full!
+1. **Directorate Directive Deployed:** `Veil Mist Dampener` activated in Corridor West, reducing the entity's Weight damage aura by 40%.
+2. **Panic Recovery:** Agent Park dashes in, swinging his standard stun baton (Lament damage) directly into the catatonic clerk. The gentle cognitive shock restores the clerk's sanity bar to full!
 3. **Clash Standoff:** Agent Kim charges with his baton, drawing the entity's attention while Park flanks from Range Band 3. With coordinated strikes, the entity's spectral matrix fractures and dissolves into harmless mineral sparkles!
 
 With the Ordeal suppressed, Agent Kim executes one final brief Viderehan observation on Chamber 001, yielding +0.005 tons. The quota is reached: **0.053 / 0.050 tons!** 
@@ -280,8 +280,8 @@ We click **[Shift Complete]**. The screen dims to cobalt as the daily performanc
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +18 RHR                |
 | AGENT ADVANCEMENT & PROMOTIONS:              |
-| - Agent Park: +4 Clarity, +2 Temperance      |
-| - Agent Kim: +5 Resilience, +2 Fortitude     |
+| - Agent Park: +4 Clarity, +2 Composure       |
+| - Agent Kim: +5 Resilience, +2 Resolve       |
 +==============================================+
 ```
 
@@ -310,7 +310,7 @@ Now we enter the Abnormality/Entity Extraction chamber. The terminal presents th
 ```
 
 **Director's Tactical Analysis:**
-- *Choice Beta* is clearly *The Debtor* (SE-C-IIIβ-061)—a financial weight entity. Good for training Temperance and Fortitude, but its breach mechanics involve heavy debt accumulation that can penalize daily RHR payouts.
+- *Choice Beta* is clearly *The Debtor* (SE-C-IIIβ-061)—a financial weight entity. Good for training Composure and Resilience, but its breach mechanics involve heavy debt accumulation that can penalize daily RHR payouts.
 - *Choice Gamma* is *The Debt Eater* (SE-C-IIIβ-014)—a Void-affinity object entity. It can eat financial penalties, but if mishandled, it consumes agent sanity permanently.
 - *Choice Alpha* is **The Guarding Bird** (SE-C-IIIγ-033). This is one of the foundational Three Birds of the Black Forest triad. It responds favorably to Viderehan observation, produces excellent high-tier M.A.W. defensive gear (*Guardian Veil*), and will be essential for orchestrating our planned Hope Transformation convergence later in the cycle!
 

@@ -255,7 +255,7 @@ The sharp metallic thorns prick the forehead upon activation, channeling a stead
 **Acquisition Probability:** 4%
 **Effect:** +2 stat bonus when working the source entity
 
-**Ability:** *Vigilant Pain* — Total immunity to Sleep, Stun, and Trance effects; grants +2 Fortitude during sustained engagements.
+**Ability:** *Vigilant Pain* — Total immunity to Sleep, Stun, and Trance effects; grants +2 Resilience during sustained engagements.
 
 **Cost:** The coronet leaves small red puncture dots across the hairline when unequipped.
 

@@ -71,7 +71,7 @@ The klaxons sound as the cobalt floor lamps flare up. In the Floor 5 hallway, Me
 ```
 
 ##### Work Session 1: Ferrehan Communion with SE-005 (The Mother)
-We cannot afford to ignore Chamber 005 after last night's event. Her breach counter rests at 2. We dispatch **Agent Kim**, who boasts Level IV Fortitude and wears the *Mother's Shawl* suit, giving him high Lament resistance.
+We cannot afford to ignore Chamber 005 after last night's event. Her breach counter rests at 2. We dispatch **Agent Kim**, who boasts Level IV Resilience and wears the *Mother's Shawl* suit, giving him high Lament resistance.
 
 ```text
 > FEAR CHECK: Level IV Agent vs Class III Entity -> RESULT: RESOLUTE (0 SP lost).
@@ -81,7 +81,7 @@ We cannot afford to ignore Chamber 005 after last night's event. Her breach coun
 
 Work Ticks:
 - Tick 1–4: 4 Successes! Blue positive Han crystals accumulate in the collection hopper.
-- Tick 5: Failure. The rocking chair creaks violently. A cold draft sweeps the room, dealing 6 Lament (White) damage. Thanks to Kim's 0.8 Lament resistance, he suffers only 5 SP loss. SP: 45/50.
+- Tick 5: Failure. The rocking chair creaks violently. A cold draft sweeps the room, dealing 6 Lament damage. Thanks to Kim's 0.8 Lament resistance, he suffers only 5 SP loss. SP: 45/50.
 - Tick 6–10: 5 Successes! Kim gently folds the edge of the shawl back into the crib.
 - **Final Result: 9/10 Positive Han Yield (EXCELLENT WORK RESULT).**
 
@@ -126,11 +126,11 @@ At 0.110 tons collected, the ceiling groans. A colossal slab of weeping green st
 
 ```text
 > ORDEAL DETECTED: NOON ORDEAL — THE GRIEVING MONOLITH (GREEN NOON)
-> THREAT: Deals heavy Grudge (Red) physical shockwaves every 6 seconds.
+> THREAT: Deals heavy Grudge physical shockwaves every 6 seconds.
 > TACTICAL RESPONSE: Mellda leads Floor 5 squad to Floor 2 for pincer clash.
 ```
 
-Mellda anchors Range Band 1 with her tower shield, absorbing 45 physical damage per shockwave while her aura reduces incoming damage to 32. Agent Park steps up with his *Lament Requiem* warhammer, delivering massive White/Mental clashing blows from Range Band 2. In 18 seconds of coordinated fire, the monolith fractures into inert river silt, dropping +12 refined RHR reagents!
+Mellda anchors Range Band 1 with her tower shield, absorbing 45 physical damage per shockwave while her aura reduces incoming damage to 32. Agent Park steps up with his *Lament Requiem* warhammer, delivering massive Lament/Mental clashing blows from Range Band 2. In 18 seconds of coordinated fire, the monolith fractures into inert river silt, dropping +12 refined RHR reagents!
 
 #### 3. End-of-Day Shift Evaluation Index
 ```text
@@ -157,8 +157,8 @@ Mellda anchors Range Band 1 with her tower shield, absorbing 45 physical damage 
 +---------------------+------------------------+
 ```
 Promotions and attribute gains awarded today:
-- **Agent Park**: +4 Fortitude, +3 Prudence (Mental stabilization verified).
-- **Agent Kim**: +3 Temperance, +2 Justice.
+- **Agent Park**: +4 Resilience, +3 Clarity (Mental stabilization verified).
+- **Agent Kim**: +3 Composure, +2 Resolve.
 - **Agent Hwang**: Promoted to Senior Operative (Level V).
 
 #### 4. Entity Extraction & Selection Screen
@@ -200,7 +200,7 @@ We spend harvested observation points to forge new armaments:
 |                     | | High Lament Ward     |
 +---------------------+------------------------+
 | Sorrow Plume        | Weapon: 8-12 Void      |
-|                     | (Black Damage / Long)  |
+|                     | (Void Damage / Long)   |
 +---------------------+------------------------+
 | Mother's Locket     | Necklace: +5 Max SP,   |
 | Gift                | +3 Mental Recovery     |
@@ -295,7 +295,7 @@ We send **Agent Park** to perform Flerehan work on *The Weighting Bird*. Its jud
 ```
 Park maintains steady breath control through 10 work ticks:
 - Tick 1–7: 7 Successes! Blue positive Han crystals drop into the chute.
-- Tick 8: Failure! The scale tilts abruptly to the right. A wave of Grudge (Red) damage strikes Park for 10 physical trauma. With *Mother's Shawl* defense, damage reduced to 7. HP: 61/68.
+- Tick 8: Failure! The scale tilts abruptly to the right. A wave of Grudge damage strikes Park for 10 physical trauma. With *Mother's Shawl* defense, damage reduced to 7. HP: 61/68.
 - Tick 9–10: 2 Successes! Park offers the symbolic brass feather.
 - **Final Result: 9/10 Positive Han Yield (EXCELLENT RESULT).**
 
@@ -359,9 +359,9 @@ At 0.125 tons harvested, the floor vents rupture. Four crimson flesh pods erupt 
 +---------------------+------------------------+
 ```
 Agent attribute upgrades awarded:
-- **Agent Hwang**: +5 Clarity, +3 Prudence (Clarity 73 achieved).
-- **Agent Song**: +4 Fortitude, +3 Justice (Promoted to Level IV).
-- **Agent Kim**: +3 Fortitude, +2 Temperance.
+- **Agent Hwang**: +5 Clarity, +3 Composure (Clarity 73 achieved).
+- **Agent Song**: +4 Resilience, +3 Resolve (Promoted to Level IV).
+- **Agent Kim**: +3 Resilience, +2 Composure.
 
 #### 4. Entity Extraction & Selection Screen
 ```text
@@ -398,9 +398,9 @@ We lock in **Choice Alpha: SE-C-IIIβ-015 (*The Kind Healer*)**.
 | Suit                | | High Balance Ward    |
 +---------------------+------------------------+
 | Judgment Beak Maul  | Weapon: 14-20 Grudge   |
-|                     | (Red Strike / Heavy)   |
+|                     | (Grudge Strike / Heavy)|
 +---------------------+------------------------+
-| Guarding Feather    | Visor: +4 Justice, +5  |
+| Guarding Feather    | Visor: +4 Resolve, +5  |
 | Gift                | Movement Speed         |
 +---------------------+------------------------+
 | Allocation          | ASSIGNED TO AGENT PARK |
@@ -558,8 +558,8 @@ All three monoliths collapse simultaneously into inert slag! +22 RHR reagents co
 +---------------------+------------------------+
 ```
 Promotions and attribute gains awarded:
-- **Agent Kim**: +4 Fortitude, +4 Temperance (Fortitude 82 achieved).
-- **Agent Park**: +3 Prudence, +3 Justice.
+- **Agent Kim**: +4 Resilience, +4 Composure (Resilience 82 achieved).
+- **Agent Park**: +3 Clarity, +3 Resolve.
 - **Agent Hwang**: +4 Clarity (Clarity 82 achieved).
 
 #### 4. Entity Extraction & Selection Screen
@@ -585,7 +585,7 @@ Promotions and attribute gains awarded:
 **Director's Tactical Analysis:**
 - *Choice Alpha* is *The Weeping Prince* (SE-C-IIIγ-045)—inflicts devastating mental corrosion if an agent with high pride enters.
 - *Choice Gamma* is *The Broken Clock* (SE-C-IIIβ-044)—manipulates floor speed and causes temporal lag.
-- *Choice Beta* is **The Iron Statue** (SE-C-IIIγ-055). This is an exceptionally dependable WAW/Class III Pugnahan training entity. It teaches high-level Fortitude and Justice, stays completely docile as long as corridor lighting remains above 50 lux, and yields excellent physical armor for our border watch vanguard.
+- *Choice Beta* is **The Iron Statue** (SE-C-IIIγ-055). This is an exceptionally dependable Class III Pugnahan training entity. It teaches high-level Resilience and Resolve, stays completely docile as long as corridor lighting remains above 50 lux, and yields excellent physical armor for our border watch vanguard.
 
 We lock in **Choice Beta: SE-C-IIIγ-055 (*The Iron Statue*)**.
 
@@ -599,7 +599,7 @@ We lock in **Choice Beta: SE-C-IIIγ-055 (*The Iron Statue*)**.
 | Suit                | | Divine Ward          |
 +---------------------+------------------------+
 | Blessed Scalpel     | Weapon: 18-24 Void     |
-|                     | (Black Piercing /      |
+|                     | (Void Piercing /       |
 |                     | Fast)                  |
 +---------------------+------------------------+
 | Healer's Halo Gift  | Crown: +10 All Stats,  |
@@ -762,9 +762,9 @@ Mellda activates *Iron Perimeter* at maximum aperture, holding the two primary b
 +---------------------+------------------------+
 ```
 Promotions and attribute gains awarded:
-- **Agent Bae**: +5 Fortitude, +3 Justice (Fortitude 72 achieved).
-- **Agent Song**: +4 Prudence, +3 Temperance.
-- **Agent Park**: +3 Fortitude (Fortitude 82 achieved).
+- **Agent Bae**: +5 Resilience, +3 Resolve (Resilience 72 achieved).
+- **Agent Song**: +4 Clarity, +3 Composure.
+- **Agent Park**: +3 Resilience (Resilience 82 achieved).
 
 #### 4. Entity Extraction & Selection Screen
 ```text
@@ -786,7 +786,7 @@ Promotions and attribute gains awarded:
 **Director's Tactical Analysis:**
 - *Choice Alpha* is *The Debtor's Cistern* (SE-C-IIIγ-061)—siphons agent stats permanently on work failures.
 - *Choice Gamma* is *The Rage Cage* (SE-C-IIIβ-120)—deals devastating Grudge damage and ignites hallway fires.
-- *Choice Beta* is **The Sorrow Fountain** (SE-C-IIIγ-088). This is a premier WAW/Class III Lament entity. It yields immense quantities of liquid Han, trains Prudence and Clarity to maximum caps, and synthesizes the exquisite *Cherub's Tear* mantle gift which boosts SP regeneration facility-wide!
+- *Choice Beta* is **The Sorrow Fountain** (SE-C-IIIγ-088). This is a premier Class III Lament entity. It yields immense quantities of liquid Han, trains Composure and Clarity to maximum caps, and synthesizes the exquisite *Cherub's Tear* mantle gift which boosts SP regeneration facility-wide!
 
 We lock in **Choice Beta: SE-C-IIIγ-088 (*The Sorrow Fountain*)**.
 
@@ -797,13 +797,13 @@ We lock in **Choice Beta: SE-C-IIIγ-088 (*The Sorrow Fountain*)**.
 |                     | ALLOC                  |
 +=====================+========================+
 | Iron Aegis Plate    | Suit: 0.6/0.8/0.8/1.2  |
-|                     | | Heavy Fortitude      |
+|                     | | Heavy Resilience     |
 |                     | Plate                  |
 +---------------------+------------------------+
 | Furnace Maul        | Weapon: 16-22 Grudge   |
-|                     | (Red Blunt / Heavy)    |
+|                     | (Grudge Blunt / Heavy) |
 +---------------------+------------------------+
-| Meteoric Bracer     | Bracer: +5 Fortitude,  |
+| Meteoric Bracer     | Bracer: +5 Resilience, |
 | Gift                | +5% Physical Block     |
 +---------------------+------------------------+
 | Allocation          | ASSIGNED TO AGENT BAE  |
@@ -909,7 +909,7 @@ Work ticks:
 Facility energy jumps to `0.038 / 0.220 tons`. Meltdown counter: `1/7`.
 
 ##### Work Session 2: Ferrehan Work on SE-015 (The Kind Healer)
-Next, **Agent Kim** enters Chamber 015 for Ferrehan maintenance. With his Level V Fortitude and existing baptism halo, Kim works with absolute composure, scoring another 12/12 Perfect Work Result! +0.045 tons harvested! Facility total reaches `0.083 / 0.220 tons`.
+Next, **Agent Kim** enters Chamber 015 for Ferrehan maintenance. With his Level V Resilience and existing baptism halo, Kim works with absolute composure, scoring another 12/12 Perfect Work Result! +0.045 tons harvested! Facility total reaches `0.083 / 0.220 tons`.
 
 ##### Crisis Event: Acoustic Strain Meltdown Level VII — The Facility Shudder
 At work check 14, the acoustic monitoring matrix flashes crimson across all seven operational sectors:
@@ -991,7 +991,7 @@ Milestone achieved: **Hydraulic Ballast Reserves have reached 50.038 tons!** Exa
 **Director's Tactical Analysis:**
 - *Choice Alpha* is *The Dancing Chains* (SE-C-IIIγ-102)—causes rhythmic physical damage across entire hallways.
 - *Choice Gamma* is *The Debt Wall* (SE-C-IIIβ-180)—demands constant physical tribute.
-- *Choice Beta* is **The Memory Well** (SE-C-IIIγ-115). This is the key archival entity needed for Marjuk's Floor 3 research. It holds uncorrupted Before-Time historical echoes, trains Clarity and Prudence to maximum theoretical thresholds, and produces the legendary *Reflecting Glass* crown gift!
+- *Choice Beta* is **The Memory Well** (SE-C-IIIγ-115). This is the key archival entity needed for Marjuk's Floor 3 research. It holds uncorrupted Before-Time historical echoes, trains Clarity and Composure to maximum theoretical thresholds, and produces the legendary *Reflecting Glass* crown gift!
 
 We lock in **Choice Beta: SE-C-IIIγ-115 (*The Memory Well*)**.
 
@@ -1005,7 +1005,7 @@ We lock in **Choice Beta: SE-C-IIIγ-115 (*The Memory Well*)**.
 | Robe                | | High Fluid Ward      |
 +---------------------+------------------------+
 | Fountain Siphon Bow | Weapon: 16-24 Lament   |
-|                     | (White Piercing /      |
+|                     | (Lament Piercing /     |
 |                     | Long)                  |
 +---------------------+------------------------+
 | Cherub's Tear Gift  | Necklace: +8 Max SP,   |

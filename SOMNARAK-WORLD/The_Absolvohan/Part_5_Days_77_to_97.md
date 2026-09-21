@@ -200,7 +200,7 @@ The Noon Ordeal manifested as a petrified skeleton of ancient violet stone that 
 | AGENT ADVANCEMENT:                           |
 | - Agent Lim: +5 Clarity (Sanity Pool Up)     |
 | - Agent Yoo: +4 Resilience (HP Pool Up)      |
-| - Agent Bae: +4 Temperance (Work Success Up) |
+| - Agent Bae: +4 Composure (Work Success Up)  |
 +==============================================+
 ```
 
@@ -601,7 +601,7 @@ A Midnight Ordeal manifested as a colossal, floating feather of cyan light that 
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +26 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Song: +5 Temperance (Work Success Up |
+| - Agent Song: +5 Composure (Work Success Up  |
 | - Agent Han: +4 Clarity (Sanity Pool Up)     |
 | - Agent Hwang: +4 Resilience (HP Pool Up)    |
 +==============================================+
@@ -806,7 +806,7 @@ Two levitating halo-rings manifested in the medical corridor, seeking to mark tw
 | AGENT ADVANCEMENT:                           |
 | - Agent Kang: +5 Resilience (HP Pool Up)     |
 | - Agent Yoon: +5 Clarity (Sanity Pool Up)    |
-| - Agent Hong: +4 Temperance (Work Success Up |
+| - Agent Hong: +4 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -1006,7 +1006,7 @@ A Midnight Ordeal in the form of a colossal, cracked bronze bell manifested on F
 | AGENT ADVANCEMENT:                           |
 | - Agent Yoon: +5 Clarity (Sanity Pool Up)    |
 | - Agent Kang: +5 Resilience (HP Pool Up)     |
-| - Agent Choi: +4 Temperance (Work Success Up |
+| - Agent Choi: +4 Composure (Work Success Up  |
 +==============================================+
 ```
 

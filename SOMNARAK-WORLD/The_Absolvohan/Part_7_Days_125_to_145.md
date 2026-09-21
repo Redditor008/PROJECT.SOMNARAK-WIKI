@@ -196,7 +196,7 @@ Three ethereal white ribbons drifted harmlessly through Floor 2's corridor durin
 | AGENT ADVANCEMENT:                           |
 | - Agent Shin: +5 Clarity (Sanity Pool Up)    |
 | - Agent Hong: +5 Clarity (Sanity Pool Up)    |
-| - Agent Park: +4 Temperance (Work Success Up |
+| - Agent Park: +4 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -403,7 +403,7 @@ A Noon Ordeal in the form of a floating black crystal transmitter attempted to j
 | AGENT ADVANCEMENT:                           |
 | - Agent Jin: +5 Clarity (Sanity Pool Up)     |
 | - Agent Seo: +5 Clarity (Sanity Pool Up)     |
-| - Agent Kwak: +4 Temperance (Work Success Up |
+| - Agent Kwak: +4 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -605,7 +605,7 @@ A Midnight Ordeal manifested as a colossal violet balance that demanded confessi
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +30 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Song: +5 Temperance (Work Success Up |
+| - Agent Song: +5 Composure (Work Success Up  |
 | - Agent Han: +5 Clarity (Sanity Pool Up)     |
 | - Agent Hwang: +4 Resilience (HP Pool Up)    |
 +==============================================+
@@ -813,7 +813,7 @@ A Dusk Ordeal manifested as a crown of starlight that pulsed with Pale energy. A
 | AGENT ADVANCEMENT:                           |
 | - Agent Yoon: +5 Clarity (Sanity Pool Up)    |
 | - Agent Hong: +5 Clarity (Sanity Pool Up)    |
-| - Agent Bae: +4 Temperance (Work Success Up) |
+| - Agent Bae: +4 Composure (Work Success Up)  |
 +==============================================+
 ```
 
@@ -1015,7 +1015,7 @@ Three flaming brass automata emerged outside the foundry during the Dawn Ordeal.
 | AGENT ADVANCEMENT:                           |
 | - Agent Cha: +5 Resilience (HP Pool Up)      |
 | - Agent Tak: +5 Resilience (HP Pool Up)      |
-| - Agent Bang: +4 Temperance (Work Success Up |
+| - Agent Bang: +4 Composure (Work Success Up  |
 +==============================================+
 ```
 

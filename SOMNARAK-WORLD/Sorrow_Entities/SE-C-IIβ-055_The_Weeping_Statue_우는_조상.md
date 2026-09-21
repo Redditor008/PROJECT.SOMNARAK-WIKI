@@ -234,7 +234,7 @@ The cold obsidian stone absorbs excess light and psychic vibration, maintaining 
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity
 
-**Ability:** *Clear-Eyed Mourning* — Grants the wearer +1 Prudence and total immunity to blinding visual flashes.
+**Ability:** *Clear-Eyed Mourning* — Grants the wearer +1 Clarity and total immunity to blinding visual flashes.
 
 **Cost:** The wearer becomes easily moved to tears by minor melancholy.
 

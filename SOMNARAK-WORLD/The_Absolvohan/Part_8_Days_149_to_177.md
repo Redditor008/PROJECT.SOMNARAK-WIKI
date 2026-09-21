@@ -198,7 +198,7 @@ Three floating Pale fireflies manifested directly above the open dispersal manif
 | AGENT ADVANCEMENT:                           |
 | - Agent Shin: +5 Clarity (Sanity Pool Up)    |
 | - Agent Kang: +5 Resilience (HP Pool Up)     |
-| - Agent Park: +5 Temperance (Work Success Up |
+| - Agent Park: +5 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -399,7 +399,7 @@ Two sleep-spirits manifested on Floor 2 during the Dusk Ordeal. Instead of clash
 | AGENT ADVANCEMENT:                           |
 | - Agent Shin: +5 Clarity (Sanity Pool Up)    |
 | - Agent Bae: +5 Clarity (Sanity Pool Up)     |
-| - Agent Hong: +5 Temperance (Work Success Up |
+| - Agent Hong: +5 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -598,7 +598,7 @@ A Midnight Ordeal manifested as a celestial avian silhouette in the central rotu
 | REAGENTS ACCUMULATED: +35 RHR                |
 | AGENT ADVANCEMENT:                           |
 | - Agent Han: +5 Clarity (Sanity Pool Up)     |
-| - Agent Song: +5 Temperance (Work Success Up |
+| - Agent Song: +5 Composure (Work Success Up  |
 | - Agent Hwang: +5 Resilience (HP Pool Up)    |
 +==============================================+
 ```
@@ -806,7 +806,7 @@ A Midnight Ordeal manifested as a crown of twelve glowing halos above the resear
 | AGENT ADVANCEMENT:                           |
 | - Agent Yoon: +5 Clarity (Sanity Pool Up)    |
 | - Agent Kang: +5 Resilience (HP Pool Up)     |
-| - Agent Hong: +5 Temperance (Work Success Up |
+| - Agent Hong: +5 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -1455,7 +1455,7 @@ Majin drinks from his own cup: *"It tastes like peace, Dekan. After six thousand
 
 > **Majin:** _"..."_
 
-> **Zyrak:** _"The Observing Bird gave its eyes of wisdom. The Weighting Bird gave its scales of justice. The Guarding Bird gave its wings of protection. They merged into a single celestial being of iridescent white feathers and golden eyes. It does not judge. It does not sentence. It sings."_
+> **Zyrak:** _"The Observing Bird gave its eyes of wisdom. The Weighting Bird gave its scales of judgment. The Guarding Bird gave its wings of protection. They merged into a single celestial being of iridescent white feathers and golden eyes. It does not judge. It does not sentence. It sings."_
 
 > **Majin:** _"Hope Transformation HT-V-HC-001: The Trinity of Dawn."_
 

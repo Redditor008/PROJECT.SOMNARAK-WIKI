@@ -337,13 +337,13 @@ Before hitting the **[Begin Shift]** toggle, let's inspect our starting roster. 
 | Level / Title       | Level I (Plucky        |
 |                     | Recruit)               |
 +---------------------+------------------------+
-| Fortitude (HP)      | 30 [Grade I - Red]     |
+| Resilience (HP)     | 30 [Grade I - Grudge]  |
 +---------------------+------------------------+
-| Prudence (SP)       | 35 [Grade II - White]  |
+| Clarity (SP)        | 35 [Grade II - Lament] |
 +---------------------+------------------------+
-| Temperance (Work)   | 28 [Grade I - Black]   |
+| Composure (Work)    | 28 [Grade I - Void]    |
 +---------------------+------------------------+
-| Justice (Speed)     | 25 [Grade I - Pale]    |
+| Resolve (Speed)     | 25 [Grade I - Weight]  |
 +---------------------+------------------------+
 | Equipped Weapon     | Standard Stun Baton    |
 |                     | (1-3 Grudge)           |
@@ -369,13 +369,13 @@ Before hitting the **[Begin Shift]** toggle, let's inspect our starting roster. 
 | Level / Title       | Level I (Stoic Junior  |
 |                     | Enforcer)              |
 +---------------------+------------------------+
-| Fortitude (HP)      | 38 [Grade II - Red]    |
+| Resilience (HP)     | 38 [Grade II - Grudge] |
 +---------------------+------------------------+
-| Prudence (SP)       | 25 [Grade I - White]   |
+| Clarity (SP)        | 25 [Grade I - Lament]  |
 +---------------------+------------------------+
-| Temperance (Work)   | 30 [Grade I - Black]   |
+| Composure (Work)    | 30 [Grade I - Void]    |
 +---------------------+------------------------+
-| Justice (Speed)     | 22 [Grade I - Pale]    |
+| Resolve (Speed)     | 22 [Grade I - Weight]  |
 +---------------------+------------------------+
 | Equipped Weapon     | Standard Stun Baton    |
 |                     | (1-3 Grudge)           |
@@ -391,9 +391,9 @@ Before hitting the **[Begin Shift]** toggle, let's inspect our starting roster. 
 +---------------------+------------------------+
 ```
 
-Agent Park is balanced with an edge in Prudence (White sanity), which makes him our best candidate for handling Weeping and mental entities. Agent Kim is our meat-shield with 38 Fortitude, well-suited for physical strain and Weight work. 
+Agent Park is balanced with an edge in Clarity (Lament stability), which makes him our best candidate for handling Weeping and mental entities. Agent Kim is our frontline anchor with 38 Resilience, well-suited for physical strain and Weight work. 
 
-Both are armed with standard-issue Directorate stun batons (deals 2–4 Lament/White damage—crucial for knocking sense back into panicked agents) and basic tunics that provide flat 1.0 multiplier across all damage types (meaning zero damage resistance).
+Both are armed with standard-issue Directorate stun batons (deals 2–4 Lament damage—crucial for knocking sense back into panicked agents) and basic tunics that provide flat 1.0 multiplier across all damage types (meaning zero damage resistance).
 
 We assign Park and Kim to Floor 1, verify Seiyon's synchronization link, and press **[BEGIN SHIFT]**.
 
@@ -449,7 +449,7 @@ Our second chamber holds **SE-C-IIIγ-005** (*The Smothering Mother*). We click 
 Kim stands firmly as the Mother's colossal woolen shawl wraps around his chest:
 - Tick 1: Success (+1 Han).
 - Tick 2: Failure! The shawl tightens. Kim takes 4 Red (Grudge) physical damage. HP drops to 34/38.
-- Tick 3–10: 6 Successes, 2 Failures. Kim takes another 8 Red damage. HP at 26/38.
+- Tick 3–10: 6 Successes, 2 Failures. Kim takes another 8 Grudge damage. HP at 26/38.
 - **Final Result: 7/10 Positive Han Crystals (NORMAL WORK RESULT).**
 
 Energy counter rises to `0.032 / 0.050 tons`. But now... the Acoustic Strain counter hits `3/3`!
@@ -500,8 +500,8 @@ Before we can celebrate, the facility lights turn amber. A secondary klaxon blar
 A glowing cyan apparition appears in the western corridor, chanting pre-human syllables. A Level I clerk wandering the hallway immediately loses all SP and enters **Panic State: Void Catatonia**, freezing in terror!
 
 Director Majin intervenes with tactical command:
-1. **Directorate Directive Deployed:** `Veil Mist Dampener` activated in Corridor West, reducing the entity's Pale damage aura by 40%.
-2. **Panic Recovery:** Agent Park dashes in, swinging his standard stun baton (Lament/White damage) directly into the catatonic clerk. The gentle cognitive shock restores the clerk's sanity bar to full!
+1. **Directorate Directive Deployed:** `Veil Mist Dampener` activated in Corridor West, reducing the entity's Weight damage aura by 40%.
+2. **Panic Recovery:** Agent Park dashes in, swinging his standard stun baton (Lament damage) directly into the catatonic clerk. The gentle cognitive shock restores the clerk's sanity bar to full!
 3. **Clash Standoff:** Agent Kim charges with his baton, drawing the entity's attention while Park flanks from Range Band 3. With coordinated strikes, the entity's spectral matrix fractures and dissolves into harmless mineral sparkles!
 
 With the Ordeal suppressed, Agent Kim executes one final brief Viderehan observation on Chamber 001, yielding +0.005 tons. The quota is reached: **0.053 / 0.050 tons!** 
@@ -527,8 +527,8 @@ We click **[Shift Complete]**. The screen dims to cobalt as the daily performanc
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +18 RHR                |
 | AGENT ADVANCEMENT & PROMOTIONS:              |
-| - Agent Park: +4 Clarity, +2 Temperance      |
-| - Agent Kim: +5 Resilience, +2 Fortitude     |
+| - Agent Park: +4 Clarity, +2 Composure       |
+| - Agent Kim: +5 Resilience, +2 Resolve       |
 +==============================================+
 ```
 
@@ -557,7 +557,7 @@ Now we enter the Abnormality/Entity Extraction chamber. The terminal presents th
 ```
 
 **Director's Tactical Analysis:**
-- *Choice Beta* is clearly *The Debtor* (SE-C-IIIβ-061)—a financial weight entity. Good for training Temperance and Fortitude, but its breach mechanics involve heavy debt accumulation that can penalize daily RHR payouts.
+- *Choice Beta* is clearly *The Debtor* (SE-C-IIIβ-061)—a financial weight entity. Good for training Composure and Resilience, but its breach mechanics involve heavy debt accumulation that can penalize daily RHR payouts.
 - *Choice Gamma* is *The Debt Eater* (SE-C-IIIβ-014)—a Void-affinity object entity. It can eat financial penalties, but if mishandled, it consumes agent sanity permanently.
 - *Choice Alpha* is **The Guarding Bird** (SE-C-IIIγ-033). This is one of the foundational Three Birds of the Black Forest triad. It responds favorably to Viderehan observation, produces excellent high-tier M.A.W. defensive gear (*Guardian Veil*), and will be essential for orchestrating our planned Hope Transformation convergence later in the cycle!
 
@@ -716,7 +716,7 @@ Lee exits the chamber with a sigh of relief, depositing 0.018 tons of Han into t
 Energy counter updates: `0.018 / 0.050 tons`. Meltdown counter advances to `1/4`.
 
 ##### Work Session 2: Flerehan Work on SE-001 (The Orphaned Bell)
-Next, we send our veteran Agent Park into Chamber 001 for **Flerehan** communion. Thanks to the *Lament Shroud*, Park takes only 2 White damage on failed ticks.
+Next, we send our veteran Agent Park into Chamber 001 for **Flerehan** communion. Thanks to the *Lament Shroud*, Park takes only 2 Lament damage on failed ticks.
 - *Chamber Log:* `The bell tolls a soft, distant chime for a forgotten miner...`
 - Park scores an 8/8 PERFECT WORK RESULT!
 - +0.022 tons harvested! Total energy reaches `0.040 / 0.050 tons`. Meltdown counter hits `2/4`.
@@ -791,7 +791,7 @@ We click **[Shift Complete]**.
 | AGENT ADVANCEMENT & PROMOTIONS:              |
 | - Agent Park: +3 Clarity (SP: 42)            |
 | - Agent Kim: +2 Resilience (HP: 45)          |
-| - Agent Lee: +4 Prudence, +2 Temperance      |
+| - Agent Lee: +4 Clarity, +2 Composure        |
 +==============================================+
 ```
 
@@ -818,7 +818,7 @@ We enter the extraction archive. Three extraction canisters surface:
 **Director's Tactical Analysis:**
 - *Choice Beta* is *The Cracked Hourglass* (SE-C-IIIβ-036)—a dangerous temporal manipulator that accelerates agent aging if worked incorrectly.
 - *Choice Gamma* is *The Angry Maiden* (SE-C-IIIγ-042)—demands high-level Pugnahan combat work; our rookie roster lacks the physical armor to trade blows safely.
-- *Choice Alpha* is **The Silent Child** (SE-C-IIIγ-025). This is an exceptionally safe HE/Class III Lament entity. It loves Flerehan communion, trains Prudence and Temperance reliably, and produces the *Silence Ring* gift which provides passive SP regeneration.
+- *Choice Alpha* is **The Silent Child** (SE-C-IIIγ-025). This is an exceptionally safe Class II/Class III Lament entity. It loves Flerehan communion, trains Clarity and Composure reliably, and produces the *Silence Ring* gift which provides passive SP regeneration.
 
 We lock in **Choice Alpha: SE-C-IIIγ-025 (*The Silent Child*)**.
 
@@ -1017,7 +1017,7 @@ One final work session by Agent Park on the Orphaned Bell yields +0.022 tons. Qu
 | REAGENTS ACCUMULATED: +18 RHR                |
 | AGENT ADVANCEMENT:                           |
 | - Agent Kang: +4 Resilience (HP: 54)         |
-| - Agent Song: +3 Temperance (Work: 38)       |
+| - Agent Song: +3 Composure (Work: 38)        |
 | - Agent Hwang: +3 Clarity (SP: 45)           |
 +==============================================+
 ```
@@ -1043,7 +1043,7 @@ One final work session by Agent Park on the Orphaned Bell yields +0.022 tons. Qu
 **Director's Tactical Analysis:**
 - *Choice Alpha* is *Brume* (SE-O-IIγ-007)—an atmospheric object entity. Low energy yield, primarily useful for environmental mist control.
 - *Choice Gamma* is *The Lonely Giant* (SE-C-IIIβ-105)—a high-tier emotional sponge, but prone to violent depression meltdowns.
-- *Choice Beta* is **Garden of Thorns** (SE-C-IIIγ-145). This entity is an aggressive Grudge/Pugnahan training powerhouse. It responds well to combat pruning, extracts the *Thorn Bracer* (+5% reflect damage), and will allow us to rapidly level our agents' Fortitude and Resilience.
+- *Choice Beta* is **Garden of Thorns** (SE-C-IIIγ-145). This entity is an aggressive Grudge/Pugnahan training powerhouse. It responds well to combat pruning, extracts the *Thorn Bracer* (+5% reflect damage), and will allow us to rapidly level our agents' Resilience and Resolve.
 
 We lock in **Choice Beta: SE-C-IIIγ-145 (*Garden of Thorns*)**.
 
@@ -1131,7 +1131,7 @@ We deploy our frontline units to Floor 5 to hold the southern perimeter:
 +==============================================+
 ```
 
-Agent Moon is our primary tank with 52 Fortitude, equipped with the *Lead Maul* for heavy gravitational crushing. Agent Noh carries the *Pruning Claws* specifically tuned for trimming thorny vegetative entities.
+Agent Moon is our primary tank with 52 Resilience, equipped with the *Lead Maul* for heavy gravitational crushing. Agent Noh carries the *Pruning Claws* specifically tuned for trimming thorny vegetative entities.
 
 We press **[BEGIN SHIFT]**.
 
@@ -1149,7 +1149,7 @@ Agent Noh enters Chamber 145 for **Pugnahan** (Combat Pruning) work:
 - *Chamber Log:* `Barbed tendrils thrash against the glass, hungry for warm blood...`
 - FEAR CHECK: Level III Agent vs Class III Entity -> RESULT: CALM.
 - Tick 1–4: 4 Successes! Noh's pruning shears sever 20 meters of aggressive thorn tendrils.
-- Tick 5: Failure! A barbed vine whips across Noh's shoulder, dealing 5 Red damage. Thanks to Mellda's *Iron Threshold*, damage is reduced to 3!
+- Tick 5: Failure! A barbed vine whips across Noh's shoulder, dealing 5 Grudge damage. Thanks to Mellda's *Iron Threshold*, damage is reduced to 3!
 - Tick 6–10: 5 Successes!
 - **Final Result: 9/10 Positive Han Crystals (PERFECT RESULT).**
 - Noh harvests 0.022 tons of concentrated crimson sap-crystal!
@@ -1221,7 +1221,7 @@ Agent Noh conducts one final pruning run on Chamber 145, pushing daily harvest t
 | AGENT ADVANCEMENT:                           |
 | - Agent Noh: +4 Resilience (HP: 50)          |
 | - Agent Bae: +3 Clarity (SP: 48)             |
-| - Agent Moon: +4 Fortitude (HP: 56)          |
+| - Agent Moon: +4 Resilience (HP: 56)         |
 +==============================================+
 ```
 
@@ -1329,7 +1329,7 @@ Floor 3 introduces **Cognitive Corrosion**: entities on this floor emit White/La
 +==============================================+
 ```
 
-Agent Seo is our star mentalist, boasting 50 Prudence and equipped with the *Memory Locket* (0.7 White resistance). Agent Sim provides heavy kinetic backup.
+Agent Seo is our star mentalist, boasting 50 Clarity and equipped with the *Memory Locket* (0.7 Lament resistance). Agent Sim provides heavy kinetic backup.
 
 We press **[BEGIN SHIFT]**.
 
@@ -1347,7 +1347,7 @@ Agent Seo approaches the dark, reflective waters of Chamber 115 for **Viderehan*
 - *Chamber Log:* `Faces of citizens from two thousand years ago ripple across the dark surface...`
 - FEAR CHECK: Level III Agent vs Class III Entity -> RESULT: CALM.
 - Tick 1–5: 5 Successes! Seo records clean holographic memory packets.
-- Tick 6: Failure! A memory of the Cheonbulok Furnace ignition flares, dealing 6 White damage. Seo's SP dips from 50 to 44.
+- Tick 6: Failure! A memory of the Cheonbulok Furnace ignition flares, dealing 6 Lament damage. Seo's SP dips from 50 to 44.
 - Tick 7–10: 4 Successes!
 - **Final Result: 9/10 Positive Han Crystals (PERFECT RESULT).**
 - Seo extracts 0.024 tons of luminescent memory-crystal!
@@ -1422,7 +1422,7 @@ One final quick observation session yields +0.017 tons. Daily harvest: **0.065 /
 | REAGENTS ACCUMULATED: +19 RHR                |
 | AGENT ADVANCEMENT:                           |
 | - Agent Seo: +4 Clarity (SP: 54)             |
-| - Agent Kwon: +3 Prudence (SP: 45)           |
+| - Agent Kwon: +3 Clarity (SP: 45)            |
 | - Agent Sim: +3 Resilience (HP: 51)          |
 +==============================================+
 ```
@@ -1448,7 +1448,7 @@ One final quick observation session yields +0.017 tons. Daily harvest: **0.065 /
 ```
 
 **Director's Tactical Analysis:**
-- *Choice Beta* is *The Debt Wall* (SE-C-IIIγ-180)—a tedious Ferrehan entity that penalizes work if an agent has low Temperance.
+- *Choice Beta* is *The Debt Wall* (SE-C-IIIγ-180)—a tedious Ferrehan entity that penalizes work if an agent has low Composure.
 - *Choice Gamma* is *The Sorrow Fountain* (SE-C-IIIγ-088)—excellent Lament yield, but its breach mechanics flood lower corridors with sorrow-water.
 - *Choice Alpha* is **The Hollow Saint** (SE-C-IIIγ-081). This is one of the most magnificent Lament entities in the entire encyclopedia. It produces diamond-grade Han, responds wonderfully to Flerehan communion, and extracts the *Hollow Halo* (Head slot: +8 SP, passive panic reduction aura)—the premier sanity gear needed for surviving Midnight Ordeals!
 
@@ -1541,7 +1541,7 @@ Our roster has expanded to senior grade. We form our elite suppression squad:
 +==============================================+
 ```
 
-Agent Hong is our premier Lament specialist, equipped with the newly extracted *Hollow Halo* and *Lament Shroud*. Agent Tak is our frontline executioner with 55 Fortitude and 42 Justice.
+Agent Hong is our premier Lament specialist, equipped with the newly extracted *Hollow Halo* and *Lament Shroud*. Agent Tak is our frontline executioner with 55 Resilience and 42 Resolve.
 
 We press **[BEGIN SHIFT]**.
 
@@ -1635,7 +1635,7 @@ We slam the **[Shift Complete]** toggle!
 | AGENT ADVANCEMENT:                           |
 | - Agent Hong: +5 Clarity (SP: 60 - PROMOTED  |
 | - Agent Tak: +4 Resilience (HP: 59 - PROMOTE |
-| - Agent Jo: +3 Temperance (Work: 45)         |
+| - Agent Jo: +3 Composure (Work: 45)          |
 +==============================================+
 ```
 
@@ -1768,7 +1768,7 @@ The klaxons sound as the cobalt floor lamps flare up. In the Floor 5 hallway, Me
 ```
 
 ##### Work Session 1: Ferrehan Communion with SE-005 (The Mother)
-We cannot afford to ignore Chamber 005 after last night's event. Her breach counter rests at 2. We dispatch **Agent Kim**, who boasts Level IV Fortitude and wears the *Mother's Shawl* suit, giving him high Lament resistance.
+We cannot afford to ignore Chamber 005 after last night's event. Her breach counter rests at 2. We dispatch **Agent Kim**, who boasts Level IV Resilience and wears the *Mother's Shawl* suit, giving him high Lament resistance.
 
 ```text
 > FEAR CHECK: Level IV Agent vs Class III Entity -> RESULT: RESOLUTE (0 SP lost).
@@ -1778,7 +1778,7 @@ We cannot afford to ignore Chamber 005 after last night's event. Her breach coun
 
 Work Ticks:
 - Tick 1–4: 4 Successes! Blue positive Han crystals accumulate in the collection hopper.
-- Tick 5: Failure. The rocking chair creaks violently. A cold draft sweeps the room, dealing 6 Lament (White) damage. Thanks to Kim's 0.8 Lament resistance, he suffers only 5 SP loss. SP: 45/50.
+- Tick 5: Failure. The rocking chair creaks violently. A cold draft sweeps the room, dealing 6 Lament damage. Thanks to Kim's 0.8 Lament resistance, he suffers only 5 SP loss. SP: 45/50.
 - Tick 6–10: 5 Successes! Kim gently folds the edge of the shawl back into the crib.
 - **Final Result: 9/10 Positive Han Yield (EXCELLENT WORK RESULT).**
 
@@ -1823,11 +1823,11 @@ At 0.110 tons collected, the ceiling groans. A colossal slab of weeping green st
 
 ```text
 > ORDEAL DETECTED: NOON ORDEAL — THE GRIEVING MONOLITH (GREEN NOON)
-> THREAT: Deals heavy Grudge (Red) physical shockwaves every 6 seconds.
+> THREAT: Deals heavy Grudge physical shockwaves every 6 seconds.
 > TACTICAL RESPONSE: Mellda leads Floor 5 squad to Floor 2 for pincer clash.
 ```
 
-Mellda anchors Range Band 1 with her tower shield, absorbing 45 physical damage per shockwave while her aura reduces incoming damage to 32. Agent Park steps up with his *Lament Requiem* warhammer, delivering massive White/Mental clashing blows from Range Band 2. In 18 seconds of coordinated fire, the monolith fractures into inert river silt, dropping +12 refined RHR reagents!
+Mellda anchors Range Band 1 with her tower shield, absorbing 45 physical damage per shockwave while her aura reduces incoming damage to 32. Agent Park steps up with his *Lament Requiem* warhammer, delivering massive Lament/Mental clashing blows from Range Band 2. In 18 seconds of coordinated fire, the monolith fractures into inert river silt, dropping +12 refined RHR reagents!
 
 #### 3. End-of-Day Shift Evaluation Index
 ```text
@@ -1854,8 +1854,8 @@ Mellda anchors Range Band 1 with her tower shield, absorbing 45 physical damage 
 +---------------------+------------------------+
 ```
 Promotions and attribute gains awarded today:
-- **Agent Park**: +4 Fortitude, +3 Prudence (Mental stabilization verified).
-- **Agent Kim**: +3 Temperance, +2 Justice.
+- **Agent Park**: +4 Resilience, +3 Clarity (Mental stabilization verified).
+- **Agent Kim**: +3 Composure, +2 Resolve.
 - **Agent Hwang**: Promoted to Senior Operative (Level V).
 
 #### 4. Entity Extraction & Selection Screen
@@ -1897,7 +1897,7 @@ We spend harvested observation points to forge new armaments:
 |                     | | High Lament Ward     |
 +---------------------+------------------------+
 | Sorrow Plume        | Weapon: 8-12 Void      |
-|                     | (Black Damage / Long)  |
+|                     | (Void Damage / Long)   |
 +---------------------+------------------------+
 | Mother's Locket     | Necklace: +5 Max SP,   |
 | Gift                | +3 Mental Recovery     |
@@ -1992,7 +1992,7 @@ We send **Agent Park** to perform Flerehan work on *The Weighting Bird*. Its jud
 ```
 Park maintains steady breath control through 10 work ticks:
 - Tick 1–7: 7 Successes! Blue positive Han crystals drop into the chute.
-- Tick 8: Failure! The scale tilts abruptly to the right. A wave of Grudge (Red) damage strikes Park for 10 physical trauma. With *Mother's Shawl* defense, damage reduced to 7. HP: 61/68.
+- Tick 8: Failure! The scale tilts abruptly to the right. A wave of Grudge damage strikes Park for 10 physical trauma. With *Mother's Shawl* defense, damage reduced to 7. HP: 61/68.
 - Tick 9–10: 2 Successes! Park offers the symbolic brass feather.
 - **Final Result: 9/10 Positive Han Yield (EXCELLENT RESULT).**
 
@@ -2056,9 +2056,9 @@ At 0.125 tons harvested, the floor vents rupture. Four crimson flesh pods erupt 
 +---------------------+------------------------+
 ```
 Agent attribute upgrades awarded:
-- **Agent Hwang**: +5 Clarity, +3 Prudence (Clarity 73 achieved).
-- **Agent Song**: +4 Fortitude, +3 Justice (Promoted to Level IV).
-- **Agent Kim**: +3 Fortitude, +2 Temperance.
+- **Agent Hwang**: +5 Clarity, +3 Composure (Clarity 73 achieved).
+- **Agent Song**: +4 Resilience, +3 Resolve (Promoted to Level IV).
+- **Agent Kim**: +3 Resilience, +2 Composure.
 
 #### 4. Entity Extraction & Selection Screen
 ```text
@@ -2095,9 +2095,9 @@ We lock in **Choice Alpha: SE-C-IIIβ-015 (*The Kind Healer*)**.
 | Suit                | | High Balance Ward    |
 +---------------------+------------------------+
 | Judgment Beak Maul  | Weapon: 14-20 Grudge   |
-|                     | (Red Strike / Heavy)   |
+|                     | (Grudge Strike / Heavy)|
 +---------------------+------------------------+
-| Guarding Feather    | Visor: +4 Justice, +5  |
+| Guarding Feather    | Visor: +4 Resolve, +5  |
 | Gift                | Movement Speed         |
 +---------------------+------------------------+
 | Allocation          | ASSIGNED TO AGENT PARK |
@@ -2255,8 +2255,8 @@ All three monoliths collapse simultaneously into inert slag! +22 RHR reagents co
 +---------------------+------------------------+
 ```
 Promotions and attribute gains awarded:
-- **Agent Kim**: +4 Fortitude, +4 Temperance (Fortitude 82 achieved).
-- **Agent Park**: +3 Prudence, +3 Justice.
+- **Agent Kim**: +4 Resilience, +4 Composure (Resilience 82 achieved).
+- **Agent Park**: +3 Clarity, +3 Resolve.
 - **Agent Hwang**: +4 Clarity (Clarity 82 achieved).
 
 #### 4. Entity Extraction & Selection Screen
@@ -2282,7 +2282,7 @@ Promotions and attribute gains awarded:
 **Director's Tactical Analysis:**
 - *Choice Alpha* is *The Weeping Prince* (SE-C-IIIγ-045)—inflicts devastating mental corrosion if an agent with high pride enters.
 - *Choice Gamma* is *The Broken Clock* (SE-C-IIIβ-044)—manipulates floor speed and causes temporal lag.
-- *Choice Beta* is **The Iron Statue** (SE-C-IIIγ-055). This is an exceptionally dependable WAW/Class III Pugnahan training entity. It teaches high-level Fortitude and Justice, stays completely docile as long as corridor lighting remains above 50 lux, and yields excellent physical armor for our border watch vanguard.
+- *Choice Beta* is **The Iron Statue** (SE-C-IIIγ-055). This is an exceptionally dependable Class III Pugnahan training entity. It teaches high-level Resilience and Resolve, stays completely docile as long as corridor lighting remains above 50 lux, and yields excellent physical armor for our border watch vanguard.
 
 We lock in **Choice Beta: SE-C-IIIγ-055 (*The Iron Statue*)**.
 
@@ -2296,7 +2296,7 @@ We lock in **Choice Beta: SE-C-IIIγ-055 (*The Iron Statue*)**.
 | Suit                | | Divine Ward          |
 +---------------------+------------------------+
 | Blessed Scalpel     | Weapon: 18-24 Void     |
-|                     | (Black Piercing /      |
+|                     | (Void Piercing /       |
 |                     | Fast)                  |
 +---------------------+------------------------+
 | Healer's Halo Gift  | Crown: +10 All Stats,  |
@@ -2459,9 +2459,9 @@ Mellda activates *Iron Perimeter* at maximum aperture, holding the two primary b
 +---------------------+------------------------+
 ```
 Promotions and attribute gains awarded:
-- **Agent Bae**: +5 Fortitude, +3 Justice (Fortitude 72 achieved).
-- **Agent Song**: +4 Prudence, +3 Temperance.
-- **Agent Park**: +3 Fortitude (Fortitude 82 achieved).
+- **Agent Bae**: +5 Resilience, +3 Resolve (Resilience 72 achieved).
+- **Agent Song**: +4 Clarity, +3 Composure.
+- **Agent Park**: +3 Resilience (Resilience 82 achieved).
 
 #### 4. Entity Extraction & Selection Screen
 ```text
@@ -2483,7 +2483,7 @@ Promotions and attribute gains awarded:
 **Director's Tactical Analysis:**
 - *Choice Alpha* is *The Debtor's Cistern* (SE-C-IIIγ-061)—siphons agent stats permanently on work failures.
 - *Choice Gamma* is *The Rage Cage* (SE-C-IIIβ-120)—deals devastating Grudge damage and ignites hallway fires.
-- *Choice Beta* is **The Sorrow Fountain** (SE-C-IIIγ-088). This is a premier WAW/Class III Lament entity. It yields immense quantities of liquid Han, trains Prudence and Clarity to maximum caps, and synthesizes the exquisite *Cherub's Tear* mantle gift which boosts SP regeneration facility-wide!
+- *Choice Beta* is **The Sorrow Fountain** (SE-C-IIIγ-088). This is a premier Class III Lament entity. It yields immense quantities of liquid Han, trains Composure and Clarity to maximum caps, and synthesizes the exquisite *Cherub's Tear* mantle gift which boosts SP regeneration facility-wide!
 
 We lock in **Choice Beta: SE-C-IIIγ-088 (*The Sorrow Fountain*)**.
 
@@ -2494,13 +2494,13 @@ We lock in **Choice Beta: SE-C-IIIγ-088 (*The Sorrow Fountain*)**.
 |                     | ALLOC                  |
 +=====================+========================+
 | Iron Aegis Plate    | Suit: 0.6/0.8/0.8/1.2  |
-|                     | | Heavy Fortitude      |
+|                     | | Heavy Resilience     |
 |                     | Plate                  |
 +---------------------+------------------------+
 | Furnace Maul        | Weapon: 16-22 Grudge   |
-|                     | (Red Blunt / Heavy)    |
+|                     | (Grudge Blunt / Heavy) |
 +---------------------+------------------------+
-| Meteoric Bracer     | Bracer: +5 Fortitude,  |
+| Meteoric Bracer     | Bracer: +5 Resilience, |
 | Gift                | +5% Physical Block     |
 +---------------------+------------------------+
 | Allocation          | ASSIGNED TO AGENT BAE  |
@@ -2606,7 +2606,7 @@ Work ticks:
 Facility energy jumps to `0.038 / 0.220 tons`. Meltdown counter: `1/7`.
 
 ##### Work Session 2: Ferrehan Work on SE-015 (The Kind Healer)
-Next, **Agent Kim** enters Chamber 015 for Ferrehan maintenance. With his Level V Fortitude and existing baptism halo, Kim works with absolute composure, scoring another 12/12 Perfect Work Result! +0.045 tons harvested! Facility total reaches `0.083 / 0.220 tons`.
+Next, **Agent Kim** enters Chamber 015 for Ferrehan maintenance. With his Level V Resilience and existing baptism halo, Kim works with absolute composure, scoring another 12/12 Perfect Work Result! +0.045 tons harvested! Facility total reaches `0.083 / 0.220 tons`.
 
 ##### Crisis Event: Acoustic Strain Meltdown Level VII — The Facility Shudder
 At work check 14, the acoustic monitoring matrix flashes crimson across all seven operational sectors:
@@ -2688,7 +2688,7 @@ Milestone achieved: **Hydraulic Ballast Reserves have reached 50.038 tons!** Exa
 **Director's Tactical Analysis:**
 - *Choice Alpha* is *The Dancing Chains* (SE-C-IIIγ-102)—causes rhythmic physical damage across entire hallways.
 - *Choice Gamma* is *The Debt Wall* (SE-C-IIIβ-180)—demands constant physical tribute.
-- *Choice Beta* is **The Memory Well** (SE-C-IIIγ-115). This is the key archival entity needed for Marjuk's Floor 3 research. It holds uncorrupted Before-Time historical echoes, trains Clarity and Prudence to maximum theoretical thresholds, and produces the legendary *Reflecting Glass* crown gift!
+- *Choice Beta* is **The Memory Well** (SE-C-IIIγ-115). This is the key archival entity needed for Marjuk's Floor 3 research. It holds uncorrupted Before-Time historical echoes, trains Clarity and Composure to maximum theoretical thresholds, and produces the legendary *Reflecting Glass* crown gift!
 
 We lock in **Choice Beta: SE-C-IIIγ-115 (*The Memory Well*)**.
 
@@ -2702,7 +2702,7 @@ We lock in **Choice Beta: SE-C-IIIγ-115 (*The Memory Well*)**.
 | Robe                | | High Fluid Ward      |
 +---------------------+------------------------+
 | Fountain Siphon Bow | Weapon: 16-24 Lament   |
-|                     | (White Piercing /      |
+|                     | (Lament Piercing /     |
 |                     | Long)                  |
 +---------------------+------------------------+
 | Cherub's Tear Gift  | Necklace: +8 Max SP,   |
@@ -2918,7 +2918,7 @@ The Dawn Ordeal manifested as three bone skulls that chewed through secondary hy
 | AGENT ADVANCEMENT:                           |
 | - Agent Shin: +5 Clarity (Sanity Pool Up)    |
 | - Agent Kang: +4 Resilience (HP Pool Up)     |
-| - Agent Park: +3 Temperance (Work Success Up |
+| - Agent Park: +3 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -3116,7 +3116,7 @@ A toxic sorrow aerosol infiltrated Floor 7's satellite maintenance dock during a
 | AGENT ADVANCEMENT:                           |
 | - Agent Kim: +5 Resilience (HP Pool Up)      |
 | - Agent Seo: +4 Clarity (Sanity Pool Up)     |
-| - Agent Jin: +3 Prudence (Work Speed Up)     |
+| - Agent Jin: +3 Clarity (Work Speed Up)      |
 +==============================================+
 ```
 
@@ -3319,7 +3319,7 @@ Two colossal phantoms of pure apathy manifested inside the extraction foundry, a
 | AGENT ADVANCEMENT:                           |
 | - Agent Yoon: +5 Clarity (Sanity Pool Up)    |
 | - Agent Shin: +4 Resilience (HP Pool Up)     |
-| - Agent Kang: +4 Temperance (Work Success Up |
+| - Agent Kang: +4 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -3522,7 +3522,7 @@ A Midnight Ordeal surged into the primary hydraulic pumping station. Agent Moon,
 | AGENT ADVANCEMENT:                           |
 | - Agent Moon: +5 Resilience (HP Pool Up)     |
 | - Agent Bae: +4 Clarity (Sanity Pool Up)     |
-| - Agent Kwak: +3 Temperance (Work Success Up |
+| - Agent Kwak: +3 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -3726,7 +3726,7 @@ Three fiery ash hounds that pursued the envoy across the Desolate attempted to f
 | AGENT ADVANCEMENT:                           |
 | - Agent Cha: +5 Resilience (HP Pool Up)      |
 | - Agent Tak: +4 Resilience (HP Pool Up)      |
-| - Agent Kang: +4 Temperance (Work Success Up |
+| - Agent Kang: +4 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -3948,7 +3948,7 @@ The Noon Ordeal manifested as a petrified skeleton of ancient violet stone that 
 | AGENT ADVANCEMENT:                           |
 | - Agent Lim: +5 Clarity (Sanity Pool Up)     |
 | - Agent Yoo: +4 Resilience (HP Pool Up)      |
-| - Agent Bae: +4 Temperance (Work Success Up) |
+| - Agent Bae: +4 Composure (Work Success Up)  |
 +==============================================+
 ```
 
@@ -4349,7 +4349,7 @@ A Midnight Ordeal manifested as a colossal, floating feather of cyan light that 
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +26 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Song: +5 Temperance (Work Success Up |
+| - Agent Song: +5 Composure (Work Success Up  |
 | - Agent Han: +4 Clarity (Sanity Pool Up)     |
 | - Agent Hwang: +4 Resilience (HP Pool Up)    |
 +==============================================+
@@ -4554,7 +4554,7 @@ Two levitating halo-rings manifested in the medical corridor, seeking to mark tw
 | AGENT ADVANCEMENT:                           |
 | - Agent Kang: +5 Resilience (HP Pool Up)     |
 | - Agent Yoon: +5 Clarity (Sanity Pool Up)    |
-| - Agent Hong: +4 Temperance (Work Success Up |
+| - Agent Hong: +4 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -4754,7 +4754,7 @@ A Midnight Ordeal in the form of a colossal, cracked bronze bell manifested on F
 | AGENT ADVANCEMENT:                           |
 | - Agent Yoon: +5 Clarity (Sanity Pool Up)    |
 | - Agent Kang: +5 Resilience (HP Pool Up)     |
-| - Agent Choi: +4 Temperance (Work Success Up |
+| - Agent Choi: +4 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -6013,7 +6013,7 @@ Three ethereal white ribbons drifted harmlessly through Floor 2's corridor durin
 | AGENT ADVANCEMENT:                           |
 | - Agent Shin: +5 Clarity (Sanity Pool Up)    |
 | - Agent Hong: +5 Clarity (Sanity Pool Up)    |
-| - Agent Park: +4 Temperance (Work Success Up |
+| - Agent Park: +4 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -6220,7 +6220,7 @@ A Noon Ordeal in the form of a floating black crystal transmitter attempted to j
 | AGENT ADVANCEMENT:                           |
 | - Agent Jin: +5 Clarity (Sanity Pool Up)     |
 | - Agent Seo: +5 Clarity (Sanity Pool Up)     |
-| - Agent Kwak: +4 Temperance (Work Success Up |
+| - Agent Kwak: +4 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -6422,7 +6422,7 @@ A Midnight Ordeal manifested as a colossal violet balance that demanded confessi
 | SHIFT PERFORMANCE GRADE: GRADE S             |
 | REAGENTS ACCUMULATED: +30 RHR                |
 | AGENT ADVANCEMENT:                           |
-| - Agent Song: +5 Temperance (Work Success Up |
+| - Agent Song: +5 Composure (Work Success Up  |
 | - Agent Han: +5 Clarity (Sanity Pool Up)     |
 | - Agent Hwang: +4 Resilience (HP Pool Up)    |
 +==============================================+
@@ -6630,7 +6630,7 @@ A Dusk Ordeal manifested as a crown of starlight that pulsed with Pale energy. A
 | AGENT ADVANCEMENT:                           |
 | - Agent Yoon: +5 Clarity (Sanity Pool Up)    |
 | - Agent Hong: +5 Clarity (Sanity Pool Up)    |
-| - Agent Bae: +4 Temperance (Work Success Up) |
+| - Agent Bae: +4 Composure (Work Success Up)  |
 +==============================================+
 ```
 
@@ -6832,7 +6832,7 @@ Three flaming brass automata emerged outside the foundry during the Dawn Ordeal.
 | AGENT ADVANCEMENT:                           |
 | - Agent Cha: +5 Resilience (HP Pool Up)      |
 | - Agent Tak: +5 Resilience (HP Pool Up)      |
-| - Agent Bang: +4 Temperance (Work Success Up |
+| - Agent Bang: +4 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -7260,7 +7260,7 @@ Three floating Pale fireflies manifested directly above the open dispersal manif
 | AGENT ADVANCEMENT:                           |
 | - Agent Shin: +5 Clarity (Sanity Pool Up)    |
 | - Agent Kang: +5 Resilience (HP Pool Up)     |
-| - Agent Park: +5 Temperance (Work Success Up |
+| - Agent Park: +5 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -7461,7 +7461,7 @@ Two sleep-spirits manifested on Floor 2 during the Dusk Ordeal. Instead of clash
 | AGENT ADVANCEMENT:                           |
 | - Agent Shin: +5 Clarity (Sanity Pool Up)    |
 | - Agent Bae: +5 Clarity (Sanity Pool Up)     |
-| - Agent Hong: +5 Temperance (Work Success Up |
+| - Agent Hong: +5 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -7660,7 +7660,7 @@ A Midnight Ordeal manifested as a celestial avian silhouette in the central rotu
 | REAGENTS ACCUMULATED: +35 RHR                |
 | AGENT ADVANCEMENT:                           |
 | - Agent Han: +5 Clarity (Sanity Pool Up)     |
-| - Agent Song: +5 Temperance (Work Success Up |
+| - Agent Song: +5 Composure (Work Success Up  |
 | - Agent Hwang: +5 Resilience (HP Pool Up)    |
 +==============================================+
 ```
@@ -7868,7 +7868,7 @@ A Midnight Ordeal manifested as a crown of twelve glowing halos above the resear
 | AGENT ADVANCEMENT:                           |
 | - Agent Yoon: +5 Clarity (Sanity Pool Up)    |
 | - Agent Kang: +5 Resilience (HP Pool Up)     |
-| - Agent Hong: +5 Temperance (Work Success Up |
+| - Agent Hong: +5 Composure (Work Success Up  |
 +==============================================+
 ```
 
@@ -8517,7 +8517,7 @@ Majin drinks from his own cup: *"It tastes like peace, Dekan. After six thousand
 
 > **Majin:** _"..."_
 
-> **Zyrak:** _"The Observing Bird gave its eyes of wisdom. The Weighting Bird gave its scales of justice. The Guarding Bird gave its wings of protection. They merged into a single celestial being of iridescent white feathers and golden eyes. It does not judge. It does not sentence. It sings."_
+> **Zyrak:** _"The Observing Bird gave its eyes of wisdom. The Weighting Bird gave its scales of judgment. The Guarding Bird gave its wings of protection. They merged into a single celestial being of iridescent white feathers and golden eyes. It does not judge. It does not sentence. It sings."_
 
 > **Majin:** _"Hope Transformation HT-V-HC-001: The Trinity of Dawn."_
 
