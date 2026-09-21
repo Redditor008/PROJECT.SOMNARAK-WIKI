@@ -59,9 +59,14 @@ The repository root houses the two official primary cartographic and architectur
 - `SOMNARAK_DREAM_REALM.md` (350 lines): The subconscious dream realm, dream-diving physics, and the Weavers Guild.
 - `SOMNARAK_DAWN_OF_HOPE.md` (553 lines): The Year 4,238 Dawn Initiative, timeline of the 1,778 Cycles, and historical epochs.
 
-### Group 2: Facility 01 & The Reverie Directorate
-- `The_REVERIE_DIRECTORATE.md` (3,073 lines): Architectural cutaway of Facility 01 ("The Hand of Change"), 8 operational subterranean floors, 9 Echo-Core roles, and departmental missions.
-- `SOMNARAK_SED.md` (2,159 lines): The Sorrow Extraction Division; refining raw sorrow into usable citywide energy, extraction quotas, and hazard protocols.
+### Group 2: The Three Corporations & Primary Chronicles
+- `The_REVERIE_DIRECTORATE.md` (3,073 lines): Subterranean Facility 01 ("The Hand of Change") corporate dossier, 8 operational subterranean floors, 9 Echo-Core roles, and departmental missions.
+- `SOMNARAK_ABSOLOVHAN.md` (4,828 lines): The Absolvohan 366-day facility gameplay and narrative master chronicle (paired with dedicated `SOMNARAK-WORLD/The_Absolvohan/` volume collection).
+- `ABSOLOVHAN_OVERVIEW.md`: The definitive non-story operational guidebook and systemic mechanics codex for the Absolvohan facility.
+- `The_SOMNARAK_EXPLORATION_DECREED.md`: The SED corporate dossier, three-tier subterranean exploration doctrine, specialized survey gear, and expedition specialist profiles.
+- `SOMNARAK_SED_PASSAGES.md`: The SED Seven Subterranean Descents gameplay & story master chronicle (paired with dedicated `SOMNARAK-WORLD/The_SED/` volume collection).
+- `The_UNDERWORLD_CLEANUP_DESCEND.md`: The UCD corporate dossier, three-phase reclamation doctrine, pacification armaments, and joint task force profiles.
+- `SOMNARAK_UCD_PACIFICATION.md`: The UCD Six Underworld Pacification Sweeps gameplay & story master chronicle (paired with dedicated `SOMNARAK-WORLD/The_UCD/` volume collection).
 
 ### Group 3: Systems, Combat Engine & Metaphysical Physics
 - `SOMNARAK_BATTLE_SYSTEM.md` (374 lines): Tactical combat engine specifications: 4 sorrow elements (Grudge, Lament, Void, Weight), Range Bands 1–5, 100% → 70% → 50% line falloff, 4 armament classes (Extracted M.A.W., Fused Ω-Grade, Manufactured Cyborg Arms, Before-Time Relics), and Echo-Core Suppressions (Floors 2–8 gauntlets, Mellda's martial trial, Ishall's Dual Suppression, and +10 attribute realization rewards).
@@ -69,13 +74,11 @@ The repository root houses the two official primary cartographic and architectur
 - `SOMNARAK_HAN_RELICS.md` (275 lines): Threefold material taxonomy (Before-Time Primordial Artifacts vs Consolihan Crystallized Relics vs Extracted M.A.W.), full dossier for *Unanswered* (Ishall's paired Before-Time floating hands, Closed Ground, Converging Refusal), and subterranean facility vault distribution.
 - `SOMNARAK_ORDEALS_FRAMEWORK.md` (301 lines): Tactical framework of the 5-color Ordeals and 4 watches. Integrates the Tripartite Crisis Taxonomy (Ordeals vs Entity Breaches vs Echo-Core Suppressions) and Somnarak Potency Grades (Minor-α, Moderate-β, Major-γ, Catastrophic-δ).
 - `SOMNARAK_TABOO_RESONANCE.md` (345 lines): Acoustic physics of the Seven Taboos and resonant punishment dynamics.
-- `SOMNARAK_ABSOLOVHAN.md` (4,828 lines): The ultimate metaphysical philosophy of sorrow resolution, Resonant Clash, and the sovereign golden dawn.
-- `ABSOLOVHAN_OVERVIEW.md`: The definitive non-story operational guidebook and systemic mechanics codex for the 366-day Absolvohan facility cycle across any random cycle.
 
 ### Group 4: Geography, Outskirts & Factions
 - `SOMNARAK_THE_DESOLATE.md` (398 lines): The Outskirts beyond the city perimeter: the Scar, nomads, toxic Han-dust storms, and Kael's Kingdom.
 - `SOMNARAK_UNDERWORLD.md` (197 lines): The subterranean slum network ("The Raw"): Menders, Frays, Memory Washers, and Veil Merchants.
-- `SOMNARAK_UCD.md` (3,002 lines): Underworld Containment Division; black-ops purge squads (Taeho, Yuna, Minho, Soojin) operating in the sewer depths.
+- `SOMNARAK_UCD.md` (3,002 lines): Underworld Cleanup Descend master index; cross-referencing company doctrine and pacification sweeps.
 - `SOMNARAK_UNKNOWN_CITIES.md` (560 lines): Sister cities Cheonbulok and Mugeukji, external geopolitical threats, and refugee enclaves.
 - `SOMNARAK_WOUND_WALKERS.md` (248 lines): The monastic order of wandering healers sworn to absorb and transmute human sorrow.
 - `SOMNARAK_CORPORATIONS.md` (197 lines): The three core institutions (R.D., SED, UCD) and their unified operational doctrine.

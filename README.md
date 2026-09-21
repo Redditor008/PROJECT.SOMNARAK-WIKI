@@ -48,8 +48,10 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │
 ├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,860+ files)
 │   ├── README.md                           # In-world archive guide & recommended reading order
-│   ├── Master_Codices/                     # 31 Macro-Canon Master Codices: Cosmology, Factions, Systems
+│   ├── Master_Codices/                     # 35 Macro-Canon Master Codices: Cosmology, Factions, Systems
 │   ├── The_Absolvohan/                     # 9 Chronological Narrative Volumes (Day 0–365 & Epilogue)
+│   ├── The_SED/                            # 7 Subterranean Descent Passages & Field Guide (Exploration Arcs 1–7)
+│   ├── The_UCD/                            # 6 Underworld Pacification Operations & Tactics Guide (Purge Arcs 1–6)
 │   ├── Sorrow_Entities/                    # 529 Entity files: Dossiers, tales, and containment data
 │   ├── Echo_Cores/                         # 9 Echo-Core files: Facility 01 departmental leaders
 │   ├── MAW_Codex_Sets/                     # 1,196 files across 42 registry folders (A/B/C/D quadripartite sets)
@@ -89,8 +91,12 @@ The foundational source texts located in `SOMNARAK-WORLD/Master_Codices/` establ
 | Codex File Name | Focus & Subject Matter | Key Topics Covered |
 |---|---|---|
 | `PROJECT_SOMNARAK.md` | Master Worldbuilding Core (5,502 lines) | The Grand Cosmology, 5 Layers, The Maw, The Weeping, Universal Laws |
-| `The_REVERIE_DIRECTORATE.md` | Facility 01 Architecture (2,934 lines) | 8 Subterranean Floors, 9 Echo-Cores, Ordeal suppression systems |
-| `SOMNARAK_ABSOLOVHAN.md` | Sovereign Golden Dawn & Absolvohan | Resonant Clash, Absolvohan parts 1–9, the Hand of Hope |
+| `The_REVERIE_DIRECTORATE.md` | Facility 01 Corporate Dossier (3,073 lines) | Subterranean Facility 01, 8 Floors, 9 Echo-Core attendants, containment systems |
+| `SOMNARAK_ABSOLOVHAN.md` | Absolvohan 366-Day Master Story & Gameplay | Resonant Clash, Day 0 to Day 365, Critical Threshold, the Hand of Hope |
+| `The_SOMNARAK_EXPLORATION_DECREED.md` | SED Corporate Dossier | Three-tier subterranean descent doctrine, specialized survey gear, 7-member explorer cadre |
+| `SOMNARAK_SED_PASSAGES.md` | SED Seven Descents Master Story & Gameplay | Passages 1–7: The Undercity, Forgotten Districts, Hidden Routes, Deep Gardens, Scar, Source |
+| `The_UNDERWORLD_CLEANUP_DESCEND.md` | UCD Corporate Dossier | Three-phase reclamation doctrine, urban pacification weaponry, 6-officer task force cadre |
+| `SOMNARAK_UCD_PACIFICATION.md` | UCD Six Pacifications Master Story & Gameplay | Operations 1–6: Veil Merchants, Memory Washers, Harvesters, Debt Brokers, Entity Traders, King |
 | `SOMNARAK_BATTLE_SYSTEM.md` | Combat Engine & Damage Types | 4 Damage Elements (Grudge, Lament, Void, Weight), Formations |
 | `SOMNARAK_CHEONGULA.md` | The First Sorrow & The Maw Cataclysm | Historical origin of Cheongula, the Maw, and the First Sorrow |
 | `SOMNARAK_CORPORATIONS.md` | The Three Corporations Doctrine | Reverie Directorate (R.D.), Exploration (SED), Enforcement (UCD) |

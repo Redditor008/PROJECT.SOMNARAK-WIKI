@@ -176,12 +176,16 @@ def audit_auxiliary_collections():
     unk_dir = os.path.join(WORLD_DIR, "Unknown_Entities")
     chars_dir = os.path.join(WORLD_DIR, "Echo_Cores")
     abso_dir = os.path.join(WORLD_DIR, "The_Absolvohan")
+    sed_dir = os.path.join(WORLD_DIR, "The_SED")
+    ucd_dir = os.path.join(WORLD_DIR, "The_UCD")
 
     ordeals = [f for f in os.listdir(ordeals_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(ordeals_dir) else []
     hope = [f for f in os.listdir(hope_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(hope_dir) else []
     unk = [f for f in os.listdir(unk_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(unk_dir) else []
     chars = [f for f in os.listdir(chars_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(chars_dir) else []
     abso = [f for f in os.listdir(abso_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(abso_dir) else []
+    sed_parts = [f for f in os.listdir(sed_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(sed_dir) else []
+    ucd_parts = [f for f in os.listdir(ucd_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(ucd_dir) else []
 
     return {
         "status": "PASS",
@@ -190,6 +194,8 @@ def audit_auxiliary_collections():
         "unknown_entities_count": len(unk),
         "echo_cores_count": len(chars),
         "absolvohan_parts_count": len(abso),
+        "sed_passages_count": len(sed_parts),
+        "ucd_operations_count": len(ucd_parts),
     }
 
 
@@ -237,6 +243,8 @@ def main():
 
     print(f"5. Auxiliary Collections  : {aux_res['status']}")
     print(f"   - The Absolvohan Parts : {aux_res['absolvohan_parts_count']} files (Day 0–365 Chronological Narrative)")
+    print(f"   - The SED Passages     : {aux_res['sed_passages_count']} files (7 Subterranean Descents + Overview)")
+    print(f"   - The UCD Operations   : {aux_res['ucd_operations_count']} files (6 Pacification Sweeps + Overview)")
     print(f"   - Ordeals (5 Colors)   : {aux_res['ordeals_count']} files (Expected: 60)")
     print(f"   - Hope Transformations : {aux_res['hope_transformations_count']} files (Expected: 14)")
     print(f"   - Unknown Anomalies    : {aux_res['unknown_entities_count']} files (Expected: 8)")
