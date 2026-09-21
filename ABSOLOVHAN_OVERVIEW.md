@@ -730,7 +730,325 @@ If structural reality ballast drops to 0.0%, or if the Director's command sanctu
 
 ---
 
-## VIII. Tactical Reference Quick-Indices
+## VIII. The Fivefold Cycle Culmination Matrix: Ending Typologies & Alternate Dialogues
+
+Within the 366-day temporal architecture of the Absolvohan facility, every operational cycle culminates in one of five distinct systemic resolutions. While the overarching narrative of the Reverie Directorate chronicles the eventual attainment of the **True Ending (Ending S: The Absolvohan)** on Cycle 1,778, any generalized cycle may encounter premature structural termination, cognitive collapse, or municipal resignation.
+
+Each ending represents an ontological divergence point governed by strict facility trigger conditions, accompanied by distinct post-shift telemetry and narrative dialogues between the Director and the Echo-Core Attendants.
+
+```text
++==============================================+
+| THE FIVE-TIER CYCLE ENDING TAXONOMY          |
++==============================================+
+| CODE   | DESIGNATION     | CYCLE RESOLUTION  |
++========+=================+===================+
+| End A  | Severed Thread  | Immediate Reset   |
+|        | (Core Death)    | (Day 0 Rewind)    |
++--------+-----------------+-------------------+
+| End B  | Drowned Mind    | Department Loss   |
+|        | (Realize Fail)  | (Emergency Reset) |
++--------+-----------------+-------------------+
+| End C  | Stagnant Veil   | Municipal Drain   |
+|        | (Normal End)    | (Standard Reset)  |
++--------+-----------------+-------------------+
+| End D  | Shattered Floor | Tectonic Rupture  |
+|        | (Apocalypse Br) | (Catastrophic Res)|
++--------+-----------------+-------------------+
+| End S  | The Absolvohan  | TRUE GOLDEN DAWN  |
+|        | (Supercritical) | (Loop Shattered)  |
++==========================+===================+
+```
+
+```text
++==============================================+
+| ENDING TRIGGER CONDITIONAL MATRIX            |
++==============================================+
+| ENDING | PREREQUISITE    | PRIMARY MECHANISM |
++========+=================+===================+
+| End A  | Any Echo-Core   | Soul Dissolution  |
+|        | Vessel Destroyed| Mnemonic Trip     |
++--------+-----------------+-------------------+
+| End B  | Realization SP  | Ego Distortion    |
+|        | Multi-Clash Loss| Sympathetic Panic |
++--------+-----------------+-------------------+
+| End C  | Day 365 Reached | Below 50.000 Tons |
+|        | Quota Deficit   | Municipal Siphon  |
++--------+-----------------+-------------------+
+| End D  | Sovereign Brech | Tectonic Ballast  |
+|        | Floor Destroyed | Sheared Moorings  |
++--------+-----------------+-------------------+
+| End S  | 8 Realizations  | Transmutation Core|
+|        | 50-Ton Pure Han | Polarity Flip     |
++==========================+===================+
+```
+
+---
+
+### 8.1 Ending A: The Severed Thread (단절된 실 — Core De-synchronization)
+
+#### Operational Trigger & Telemetry
+Ending A triggers unconditionally whenever **any of the eight Echo-Core Attendants suffers fatal vessel destruction, core rupture, or irreversible spiritual de-synchronization** during an active operational shift on any calendar day (Days 1 through 365).
+
+The Echo-Cores are not mechanical processors; they are the living human souls of the Reverie Directorate's founding anchors. Their localized consciousness maintains the facility's reality anchor against the crushing weight of the Desolate. When an attendant vessel falls in combat against a breached Sorrow Entity or Ordeal:
+1. The attendant's individual harmonic frequency drops to 0.0 Hz.
+2. The local reality bubble surrounding the facility destabilizes, threatening to plunge the entire subterranean complex into the primordial River.
+3. To prevent permanent, irreversible soul dissolution into the River, Director Majin must execute an immediate **Mnemonic Emergency Abort**.
+
+```text
++==============================================+
+| TELEMETRY ALERT: ENDING A CORE DE-SYNC       |
++==============================================+
+| ALERT CODE           | SEV-1 / CORE-MORTIS   |
++----------------------+-----------------------+
+| Trigger Event        | Echo-Core Fatality    |
++----------------------+-----------------------+
+| Soul Frequency       | 0.00 Hz (Dissolving)  |
++----------------------+-----------------------+
+| Reality Moorings     | Shearing at 92.4%     |
++----------------------+-----------------------+
+| Failsafe Protocol    | Mnemonic Rewind Day 0 |
++======================+=======================+
+```
+
+#### Alternate Narrative Dialogue: Ending A (Mellda's Threshold Fall)
+*Setting: Floor 2 Central Containment Corridor. Alarms wail with discordant, irregular pulses. Heavy hydraulic blast doors stand mangled. Containment Lead Mellda kneels in a pool of dark, smoking Han-brine, her armored breastplate caved in and her golden greatsword shattered across the flagstones. Director Majin enters the quarantined sector, his trench coat soaked in caustic mist.*
+
+> **Director Majin:** *"Mellda! Stay with me! Seiyon, reroute all auxiliary life-support conduits to Floor 2! Flood the corridor with Han Salve!"*
+>
+> **Secretary Seiyon (via Intercom):** *"Director... the hydraulic conduits on Floor 2 have been severed by the breach. The Salve lines are dry. Attendant Mellda's core frequency is falling rapidly: 14%... 9%... 3%. The spiritual anchor is unspooling into the River. In twenty-five seconds, ego dissipation will become permanent."*
+>
+> **Mellda:** *(Coughs, dark crystalline fluid bubbling past her lips; she looks up through a cracked iron visor, her human eyes flickering with dim golden embers)* *"Majin... don't... waste the salve on cold iron. The breach... the sorrow-beast broke through the second gate. I held it at the threshold... but the hinges gave out. Did... did the recruits make it to the lift?"*
+>
+> **Director Majin:** *(Falls to his knees beside her, grasping her gauntleted hand, his fingers stained in cold ash)* *"They made it. The floor is evacuated. But you're coming with us. I am not leaving you in this corridor."*
+>
+> **Mellda:** *(Smiles faintly, a tired, ragged breath escaping her chest)* *"I told you once... at the very beginning... that I would hold the border until morning. But the night... the night is so long, Majin. Which cycle is this? Cycle four hundred? Cycle nine hundred? I can't... feel my hands anymore. The desert is calling my name."*
+>
+> **Secretary Seiyon (via Intercom):** *"Core decoupling at 98%. Spiritual collapse imminent. Director, if you do not initiate the rewind now, Mellda's human soul will be erased from the mnemonic register forever. She will not wake on Day 0."*
+>
+> **Director Majin:** *(Gripping Mellda's cold hand, his jaw clenched until his teeth ache, eyes blazing with furious defiance)* *"I swore a vow when we laid the foundation stones of this facility: no one is left behind in the dark. Not a single soul. If this world demands your death today, then this day does not get to exist."*
+>
+> **Mellda:** *(Whispering softly as her eyes begin to close)* *"Majin... you fool... you'll drown yourself... in these loops..."*
+>
+> **Director Majin:** *(Reaches into his inner breast pocket, withdrawing the heavy brass Chrono-Detonator, slamming his thumb into the emergency circuit)* *"Seiyon! Burn the register! Overload the capacitor! Erase the day!"*
+>
+> **Secretary Seiyon (via Intercom):** *"Directive confirmed. Overriding safety interlocks. Mnemonic Generator output at 400%... Initiating chronological rewind. See you at dawn, Director."*
+>
+> *(A blinding shockwave of white chronal light swallows the corridor. The shattered sword, the blood, and the ruined gates dissolve into spiraling particles of chronal dust. Silence falls as the clock winds back.)*
+
+---
+
+### 8.2 Ending B: The Drowned Mind (침식된 심연 — Realization Collapse)
+
+#### Operational Trigger & Telemetry
+Ending B occurs during Phase 4 (Days 101 through 150) if Director Majin **fails an Echo-Core Realization suppression trial**.
+
+When an attendant's past human trauma surges to the surface during a Realization, the Director must navigate multi-phase combat clashing against the attendant's manifested emotional pathologies. If the containment team wipes out, or if the Director's tactical composure collapses under the psychic resonance:
+1. The attendant's suppressed grief inverts into an autonomous **Ego Distortion**.
+2. The attendant's mind does not die; rather, it expands outwards like an emotional black hole, transforming their entire department into an inescapable nightmare labyrinth of localized sorrow.
+3. The facility's mental dampeners overload instantaneously, causing sympathetic panic cascades across adjacent floors.
+
+```text
++==============================================+
+| TELEMETRY ALERT: ENDING B REALIZATION WIPEOUT|
++==============================================+
+| ALERT CODE           | SEV-1 / EGO-INVERSION |
++----------------------+-----------------------+
+| Trigger Event        | Realization Failure   |
++----------------------+-----------------------+
+| Mental Resonance     | 480 dB (Supercritical)|
++----------------------+-----------------------+
+| Sector Status        | Corrupted / Distorted |
++----------------------+-----------------------+
+| Failsafe Protocol    | Emergency Mnemonic Pur|
++======================+=======================+
+```
+
+#### Alternate Narrative Dialogue: Ending B (Marjuk's Archive Collapse)
+*Setting: Floor 5 Memory Archives. The towering stacks of historical ledgers have melted into black, weeping obsidian pillars. Cascading rivers of ink pool across the floorboards. The air is suffocating, smelling of ancient dust and forgotten funerals. In the center of the hall, Archive Lead Marjuk's human form has unraveled, engulfed by a towering, faceless colossus woven from millions of fluttering, razor-sharp manuscript pages.*
+
+> **The Distorted Archive (Marjuk's Layered Voice):** *(Resonating directly within the minds of all personnel, a chorus of thousands of weeping voices)* *"Why did you tear open the seals, Majin?! I was at peace in the silence! I had buried them! I had buried the city, the famine, the thirty thousand children we locked behind the blast gates when the famine struck! Why did you drag me back into the light?!"*
+>
+> **Director Majin:** *(Standing before the ink colossus, his M.A.W. suit cracked, coughing blood onto the floor)* *"Marjuk! Hear my voice! You are not those ledgers! You are the man who swore to remember them so they wouldn't die in vain!"*
+>
+> **Secretary Seiyon (via Intercom, voice cracking with severe static):** *"Director! Warning! Archive Lead Marjuk's cognitive frequency has completely inverted! Floor 5 has decoupled from the facility's coordinate grid! Psychic Lament waves are penetrating Floor 4 and Floor 6! Senior Lead Kang has collapsed into acute catatonia! Engineer Zyrak's crucible is boiling over with sorrow-slag!"*
+>
+> **The Distorted Archive:** *"There was never any hope beneath the Desolate! Only ink! Only names carved into stone! Every page I turn is an open grave! If memory is sorrow, then let the memory swallow the world! Let no one remember who we were!"*
+>
+> *(A hurricane of razor-sharp pages whips through the hall, severing containment bulkheads and slicing through the last surviving containment specialists. The ink rises to Majin's waist, dragging him downward into the black sediment.)*
+>
+> **Director Majin:** *(Struggles against the suffocating ink, looking up at the tragic, monstrous shape of his old friend)* *"I failed you, Marjuk. I pushed you into the fire before your heart was ready to bear the ashes. I thought my will could carry us both. I was wrong."*
+>
+> **The Distorted Archive:** *(A single human sob cuts through the monstrous chorus)* *"It hurts, Majin... the grief... it has so much weight... please... make it stop... tear out the pages..."*
+>
+> **Director Majin:** *(Reaches toward the emergency cognitive severance switch embedded in his command bracer)* *"I will not let you become a monster in the dark, Marjuk. We will close the book. We will wipe the slate clean. And next time... I will hold the light for you."*
+>
+> **Secretary Seiyon (via Intercom):** *"Emergency cognitive purge engaged. Venting liquid nitrogen into Floor 5 archives... Triggering global memory flush... Rewinding..."*
+>
+> *(The black ink freezes instantly into glittering frost. The screaming pages shatter into crystalline snow as the facility's chronological anchor unspools, resetting the world to zero.)*
+
+---
+
+### 8.3 Ending C: The Stagnant Veil (영원한 정체 — The Municipal Compromise / Normal End)
+
+#### Operational Trigger & Telemetry
+Ending C represents the **Standard / Normal Ending** of the Absolvohan facility. It triggers on **Day 365** when:
+1. The facility successfully survives the entire operational year without catastrophic core destruction or floor loss.
+2. The accumulated refined Han fails to reach the **50.000-ton supercritical mass** required for transmutation (e.g., reaching only 35.000 to 48.500 tons).
+3. Alternatively, the Director hesitates at the final threshold and submits to the directives of the **Council of Sighs**, authorizing the delivery of the contained grief into the municipal power conduits.
+
+The grief of millions is pumped out to power the neon spires and perimeter Veil of Somnarak for another civic year. The city above survives in its brutal, unchanging hierarchy. The cycle completes, and the Mnemonic Generator quietly resets the facility to begin another annual harvest.
+
+```text
++==============================================+
+| TELEMETRY REPORT: ENDING C MUNICIPAL COMPLY  |
++==============================================+
+| DATE                 | Day 365 / 23:59 Hours |
++----------------------+-----------------------+
+| Quota Status         | Harvest Shortfall     |
++----------------------+-----------------------+
+| Final Harvest Yield  | 42.150 Metric Tons    |
++----------------------+-----------------------+
+| Transmutation Prereq | INCOMPLETE (Sub-Crit) |
++----------------------+-----------------------+
+| Municipal Siphon     | Engaged (Zone A Feed) |
++======================+=======================+
+```
+
+#### Alternate Narrative Dialogue: Ending C (The Municipal Tribute)
+*Setting: Floor 1 Central Decision Core. Midnight on Day 365. The massive brass pipes running through the ceiling shudder with a deep, subterranean roar as millions of gallons of refined Han are pumped upward into the city above. Through the observation dome, the distant neon towers of Somnarak glow with a garish, electric-blue radiance. Engineer Zyrak, Containment Lead Mellda, and Secretary Seiyon stand in the observation gallery behind Director Majin.*
+
+> **Engineer Zyrak:** *(Wipes soot from his weathered face with a rag, listening to the hum of the siphons)* *"Well, Director... that's the last of the deep tanks. Forty-two thousand tons of refined sorrow, flowing straight into Zone A's power grid. The Council's meters are spinning. The streetlamps are burning bright tonight."*
+>
+> **Containment Lead Mellda:** *(Leaning against the guardrail, her arms crossed, looking at the glowing city lights with utter disgust)* *"The streetlamps are burning. And fifty-six agents died in our corridors this year to pay the electric bill. What did we accomplish, Zyrak? Tell me. What did we actually change?"*
+>
+> **Engineer Zyrak:** *(Lowers his head, silent)* *"We survived, Mellda. We kept the roof from falling on their heads for another three hundred and sixty-five days."*
+>
+> **Containment Lead Mellda:** *"We didn't save them. We just gave their executioners enough power to keep the gallows lit."*
+>
+> **Secretary Seiyon:** *(Steps forward, holding a gold-leaf document bearing the wax seal of the Council of Sighs)* *"The High Council has transmitted their annual commendation. Facility 01 has met municipal stabilization parameters. They have deposited next cycle's biological reagent quota and praised the Directorate for 'unwavering civic duty.' The city will survive through Year 4,233."*
+>
+> **Director Majin:** *(Takes the parchment from Seiyon's hands, staring at the sterile, elegant calligraphy)* *"A commendation. They sit in their heated glass towers, drinking wine chilled by the tears of dying children, and they send us a piece of paper thanking us for keeping the furnace stoked."*
+>
+> **Secretary Seiyon:** *(Her voice quiet, tinged with synthetic sorrow)* *"The Transmutation Core never ignited, Majin. We were short by seven point eight tons. If we had thrown the switch tonight, the sorrow would have lacked the critical pressure to flip polarity. We would have simply exploded the ballast and drowned the Desolate in poison."*
+>
+> **Director Majin:** *(Crumbles the Council's decree in his fist, letting the golden fragments scatter across the floor)* *"I know. We survived the year... and in doing so, we became their finest employees. We became the very thing we swore to tear down."*
+>
+> **Secretary Seiyon:** *"The Mnemonic Generator is already cooling its coils for the reboot sequence, Director. In ten minutes, the annual chronal buffer will trigger. The agents will return to the vats. The ledgers will clear."*
+>
+> **Director Majin:** *(Turns away from the glittering city view, his eyes cold and resolved)* *"Let it reset. But I will not forget this shame, Seiyon. Next time, we do not stop at forty-two tons. Next time, we don't give the Council a single drop. Reset the clock."*
+>
+> **Secretary Seiyon:** *"Re-anchoring Mnemonic Core to Day Zero. Entering sleep cycle... Goodnight, Director Majin."*
+
+---
+
+### 8.4 Ending D: The Shattered Crucible (부서진 도가니 — Apocalyptic Floor Rupture)
+
+#### Operational Trigger & Telemetry
+Ending D triggers when an **Apocalyptic Sorrow Entity**—specifically **SE-C-IIIγ-034** (*The Sovereign Convergence* from an unchecked Avian Triad breach) or a **Class IV Genesis Sovereign**—completely destroys a floor's structural integrity upon breaching.
+
+When an apocalyptic entity breaches containment:
+1. It deals continuous structural damage to departmental bulkheads, severing the facility's 1,000,000-ton reality ballast moorings.
+2. If the entity is not suppressed within the critical structural collapse window, the floor's foundational pylons buckle.
+3. The subterranean ceiling collapses, allowing the Desolate above to cave in. Millions of tons of toxic black sand, salt-slurry, and tectonic debris crush the facility under sheer physical mass.
+4. The Mnemonic Generator suffers catastrophic physical trauma, triggering an uncontrolled, violent emergency rewind under extreme duress.
+
+```text
++==============================================+
+| TELEMETRY CRITICAL: ENDING D APOCALYPSE FAIL |
++==============================================+
+| ALERT CODE           | SEV-0 / TECTONIC-VOID |
++----------------------+-----------------------+
+| Entity Code          | SE-C-IIIg-034 (Triad) |
++----------------------+-----------------------+
+| Structural Integrity | 0.0% (Floor Ruptured) |
++----------------------+-----------------------+
+| Ballast Moorings     | Sheared & Fractured   |
++----------------------+-----------------------+
+| Desolate Influx      | 45,000 Tons/sec Sand  |
++======================+=======================+
+```
+
+#### Alternate Narrative Dialogue: Ending D (The Avian Triad Apocalyptic Rupture)
+*Setting: Floor 2 Central Chasm. The ceiling has completely caved in. Massive slabs of concrete and twisted steel girders hang suspended in air. Through the vast tear in the bedrock, a torrent of black Desolate sand pours down like an apocalyptic waterfall. Towering over the ruins stands SE-C-IIIγ-034 (*The Sovereign Convergence*)—a colossal, three-headed avian horror whose blinding golden eyes scorch the shadows and whose monstrous wings crack the bedrock with every beat. Klaxons scream in broken, dying cadences.*
+
+> **Engineer Zyrak (via Emergency Radio, shouting over deafening structural groans):** *"MAJIN! GET OUT OF THERE! THE MAIN PYLONS HAVE SHEARED! Floor 2 is gone! Floor 3 is collapsing beneath it! The ballast has torn away from the bedrock! The entire northern desert is falling down our throats!"*
+>
+> **Containment Lead Mellda (coughing through smoke, firing her sidearm in vain at the monster):** *"The Three Birds... they merged before we could drop the blast gates! It isn't an entity anymore... it's a living calamity! Majin, the elevator shafts are crushed! We're trapped down here!"*
+>
+> *(The Sovereign Convergence unleashes a deafening, multi-tonal shriek. The acoustic shockwave obliterates the reinforced observation windows of Floor 1, showering the command deck in glass. The monstrous beak strikes downward, obliterating an entire security bunker in a single blow.)*
+>
+> **Secretary Seiyon:** *(Grabs Majin's arm with superhuman hydraulic force, her synthetic faceplate cracked and smoking from internal electrical fires)* *"Director! Structural collapse is at 94%! In fifteen seconds, the weight of the Desolate will crush the sub-vaults! If the Mnemonic Generator's chronal core is crushed under the sand, our souls will be permanently trapped under two million tons of dead earth!"*
+>
+> **Director Majin:** *(Stares into the chasm through the howling wind and cascading black sand; the three glowing eyes of the beast stare back into his soul with primeval malice)* *"So much power... born from our inability to balance three simple birds. A whole world crushed because we couldn't weigh our own sorrow."*
+>
+> **Engineer Zyrak (Radio):** *"Majin! Pull the emergency pylon! Don't let it reach the core! PULL IT—"*
+>
+> *(A colossal talon smashes through the radio transmission tower. Zyrak's signal cuts into pure, deafening white noise.)*
+>
+> **Secretary Seiyon:** *"The ballast has fallen! The core is cracking! Ten seconds!"*
+>
+> **Director Majin:** *(Slams his palm down onto the red emergency detonator on the shattered command console)* *"I will not die buried under their desert! Seiyon—detonate the temporal core! Force the loop back!"*
+>
+> **Secretary Seiyon:** *(Overrides the terminal interlocks as black sand bursts through the ceiling of Central Command)* *"Detonating Chrono-Capacitor! Uncalibrated temporal collapse in three... two... one—"*
+>
+> *(The entire facility explodes into a cataclysm of shattered stone, blinding gold flame, and chronal lightning. The world tears in half as the timeline snaps violently backward.)*
+
+---
+
+### 8.5 Ending S: The Absolvohan (해원 / 解怨 — The True Golden Dawn)
+
+#### Operational Trigger & Telemetry
+Ending S represents the **TRUE CANONICAL ENDING** of the Absolvohan facility. It is unlocked exclusively on the intercalary **Day 366** under the following strict prerequisites:
+1. **Full Core Harmonization:** All 8 Echo-Core Realizations have been successfully conquered and their human traumas stabilized.
+2. **Supercritical Quota:** Exactly **50.000 metric tons** of pure, unadulterated crystalline Han have been gathered in the Floor 8 Vault.
+3. **Ballast Stability:** Facility Reality Ballast must hold above **50.0%** at the conclusion of Day 365.
+4. **Ignition Authorization:** Director Majin authorizes the activation of the Central Transmutation Core on Day 366.
+
+The supercritical Han reaches absolute thermodynamic compression. Under the harmonic guidance of the 8 awakened human souls, the emotional polarity of generational grief inverts into **Hope (희망)**. The facility dissolves into a towering pillar of golden light that breaches 2,400 meters of bedrock, dissolving the artificial Veil of Somnarak and breaking the 1,778-cycle temporal loop forever.
+
+```text
++==============================================+
+| TELEMETRY CONVERGENCE: ENDING S ABSOLVOHAN   |
++==============================================+
+| DATE                 | Day 366 (Intercalary) |
++----------------------+-----------------------+
+| Quota Status         | 50.000 Tons (Pure Han)|
++----------------------+-----------------------+
+| Core Realizations    | 8 / 8 Harmonized      |
++----------------------+-----------------------+
+| Polarity State       | TRANSFERRED TO HOPE   |
++----------------------+-----------------------+
+| Temporal Loop        | SHATTERED / TERMINATED|
++======================+=======================+
+```
+
+#### Canonical Narrative Dialogue: Ending S (The Golden Dawn of Year 4,233)
+*Setting: The surface of the Desolate, outside the perimeter of Somnarak. Day 366, 06:00 Hours. The underground facility has not collapsed; rather, it has ascended as a monumental pillar of warm, incandescent golden light. The caustic salt of the Desolate has turned to soft, flowering earth. The artificial grey Veil that hung over Somnarak for four thousand years has dissolved into clean, pristine morning air. Standing on the crest of a green hill overlooking the awakening city are Director Majin, Secretary Seiyon (restored to her human body), Mellda, Senior Lead Kang, Archive Lead Marjuk, Engineer Zyrak, Specialist Ishall, and Xyan.*
+
+> **Mellda:** *(Unclasps her heavy iron visor, letting the cool, fragrant morning breeze rustle through her hair; her golden eyes widen as she gazes into the sky)* *"Majin... look up. The sky isn't grey. It isn't made of smog and Council surveillance drones. It's... blue. It's truly blue."*
+>
+> **Engineer Zyrak:** *(Drops his heavy forge hammer onto the grass with a soft thud; he falls to his knees, running his calloused, soot-stained hands through the fresh morning dew)* *"The heat... it isn't from the smelting furnace. It's the sun. The actual sun. I had forgotten... I had forgotten that light could feel warm without burning you to ash."*
+>
+> **Archive Lead Marjuk:** *(Carrying an open ledger whose pages are completely blank and glowing with faint golden dust; a peaceful, radiant smile graces his face)* *"The names are gone, Director. Thirty thousand records of famine, betrayal, and sorrow... they didn't disappear into darkness. They were heard. Every single tear was accounted for. They have finally let go."*
+>
+> **Specialist Ishall:** *(Looks down at her hands—the cold chrome plating and synthetic joints have softened into warm, living human flesh; she presses her hand against her chest, feeling a strong, rhythmic heartbeat)* *"My chest... the cold humming has stopped. I can feel my heart beating. Majin... I am alive. We are actually alive."*
+>
+> **Senior Lead Kang:** *(Stands with his arms behind his back, his scarred face softening as he watches the sunlight glint across the distant spires of Somnarak)* *"For seventeen hundred cycles, we taught our agents how to die with dignity in the dark. Today... for the first time... they get to live in the morning."*
+>
+> **Xyan:** *(Sitting on a rock, watching the crystalline water of the newly cleansed Well flowing outward across the plains in sparkling silver streams)* *"The Well is quiet. The water is clear all the way to the horizon. No more ghosts in the deep."*
+>
+> **Secretary Seiyon:** *(Stands beside Director Majin. Her mechanical effigy has dissolved; she appears as she was on the day the vow was made—a human woman with gentle, luminous eyes, holding Majin's hand in hers)* *"One thousand, seven hundred, and seventy-eight cycles, Majin. Through every drop of blood, through every memory wiped and restored... you never let go of my hand."*
+>
+> **Director Majin:** *(Slowly unbuttons his heavy Director's coat—the black fabric that bore the weight of a thousand resets—and lets it fall away onto the blooming grass. He looks at Seiyon, his eyes brimming with tears that he no longer has to hide)* *"I made a promise to you before the loops began. I told you that sorrow would not have the final word in this city. It took seventeen hundred years... but the morning has finally kept its word."*
+>
+> **Secretary Seiyon:** *(Smiles, her fingers intertwining with his as the golden light of the new dawn crests over the mountains)* *"The clock has stopped ticking, Majin. What day is today?"*
+>
+> **Director Majin:** *(Takes a deep breath of the clean, morning air, smiling for the first time in an eternity)* *"It isn't Day 366. It isn't Day Zero. It is the first day of Year 4,233. Come... let us go meet the dawn."*
+
+---
+
+
+## IX. Tactical Reference Quick-Indices
 
 ```text
 +==============================================+
