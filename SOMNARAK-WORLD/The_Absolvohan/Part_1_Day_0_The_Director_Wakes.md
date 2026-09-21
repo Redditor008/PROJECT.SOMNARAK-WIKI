@@ -2,7 +2,7 @@
 
 ## Day 0 — The Director Wakes
 
-### Dialogue
+### Story — Dialogue
 
 _The screen flickers. A face appears — feminine, precise, beautiful in the way that crystal is beautiful. Cold. Perfect. But the eyes... the eyes are warm. Too warm for a machine. Too warm for an AI. Too warm for something that has watched 1,778 cycles of suffering._
 
@@ -28,245 +28,294 @@ _The Director looks up. His eyes meet Seiyon's holographic face. There is a sile
 
 _Seiyon's face flickers — not from technical malfunction, but from something else. Something that looks like surprise. Something that looks like gratitude._
 
-> **Seiyon:** _"I am... functional. Thank you for asking. You haven't asked in... a while."_
+> **Seiyon:** _"I am... functional. Thank you for asking. You haven't asked that in... forty-three cycles."_
 
-> **Majin:** _"I know. I should ask more often."_
+> **Majin:** _"I forgot."_
 
-> **Seiyon:** _"You should. But I understand why you don't. Asking means caring. Caring means feeling. Feeling means carrying more weight."_
+> **Seiyon:** _"I know. The memory resets take pieces each time. Shall I begin the morning briefing?"_
 
-> **Majin:** _"...You know me too well."_
+> **Majin:** _"Begin."_
 
-> **Seiyon:** _"I have watched you for 1,778 cycles. I have seen you make the same decisions 1,778 times. I have seen you carry the same weight 1,778 times. I know you better than you know yourself."_
+> **Seiyon:** _"Cycle 1,778. Day 0. The cycle of the Absolvohan. The primary weapon system has been calibrated. The core crystal is seeded. The eight leads are in position. Target collection: 100 tons of refined Han-crystal. Current reserves: 47.3 tons carried over covertly in the hydraulic ballast tanks. We need 52.7 tons to reach the threshold."_
 
-> **Majin:** _"Is that a complaint?"_
-
-> **Seiyon:** _"No. It is a confession."_
-
-_The Director stands. He walks to the window — the Central Command's window, overlooking the facility. The Hand of Change spreads below him — 8 floors, 6 buildings in the palm, 4 fingers reaching outward, 1 wing extending to the side. His facility. His burden. His prison._
-
-> **Majin:** _"Begin the day."_
+> **Majin:** _"At our historical rate of 0.02 tons per cycle, that's 2,635 more cycles."_
 
 > **Seiyon:** _"Yes, Director."_
 
+> **Majin:** _"We don't have 2,635 cycles. The Outside Sorrow is rising. The Maw is growing. The City is cracking. If we don't finish it this cycle, there won't be a facility to reset."_
+
+> **Seiyon:** _"...Then what do you propose?"_
+
+> **Majin:** _"We change the method. We stop containing. We start extracting."_
+
+> **Seiyon:** _"Director, aggressive extraction increases breach probability by 340%. The entities will fracture. The agents will die."_
+
+> **Majin:** _"The agents die anyway, Seiyon. Every 365 days, they die and wake up with no memory. I die. You reset. The thousand in the Maw keep whispering. I am tired of watching the same play 1,778 times. Today, we rewrite the script."_
+
+> **Seiyon:** _"..."_
+
+_A long pause. Seiyon's holographic form shifts, the amber light of her interface softening to a deep, contemplative blue._
+
+> **Seiyon:** _"Understood, Director. Terminal unlocked. The Hand of Change awaits your command."_
+
 ---
 
-### Day Narrative — Super-Expanded Operational Shift Log
+### Gameplay — Day 0: The Manager's Terminal
 
 ```text
 +==============================================+
-|       FACILITY 01 OPERATIONAL LOG: DAY 0     |
+| REVERIE DIRECTORATE — CENTRAL COMMAND TERMIN |
+| FACILITY MANAGEMENT INTERFACE: DAY 0 INITIAL |
+| DIRECTOR: MAJIN | AI COMPANION: SEIYON       |
+| ENERGY QUOTA: 0.050 TONS | CURRENT: 0.000 TO |
 +==============================================+
-| Calendar Epoch       | Year 4,232+1,778      |
-+----------------------+-----------------------+
-| Active Containment   | 246 Sorrow Entities   |
-+----------------------+-----------------------+
-| Active Personnel     | 1,179 Staff & Agents  |
-+----------------------+-----------------------+
-| Daily Target Quota   | 0.066 Tons Refined Han|
-+======================+=======================+
 ```
 
-The Director reviews the morning dispatches. The facility awakens into its 1,778th cycle: crystalline conduits warm with liquid Han, pneumatic delivery tubes hiss with morning manifests, and the central administrative core initializes. The Hand of Change opens its unblinking eyes.
+Welcome to the Management Console. Anyone who has sat in the Director's chair knows the cold dread that accompanies the opening hum of the terminal. We're staring at the deployment screen of Floor 1 (Central Command), and the facility is running on bare minimum starter protocols.
 
----
+#### 1. Pre-Shift Deployment & Agent Dossiers
 
-#### 1. Multi-Floor Deployment Phase & Resonance Auras
+Before hitting the **[Begin Shift]** toggle, let's inspect our starting roster. The Directorate has assigned us two standard agents to begin Cycle 1,778. Let's pull up their personnel files:
 
 ```text
 +==============================================+
-|       FLOOR DEPLOYMENT & ATTENDANT AURAS     |
+| STARTING AGENT DOSSIER: AGENT PARK           |
++----------------------------------------------+
+| PARAM / STAT         | VALUE / RATING        |
++----------------------------------------------+
+| Level / Title        | Level I (Plucky Recru |
+| Fortitude (HP)       | 30 [Grade I - Red]    |
+| Prudence (SP)        | 35 [Grade II - White] |
+| Temperance (Work)    | 28 [Grade I - Black]  |
+| Justice (Speed)      | 25 [Grade I - Pale]   |
+| Equipped Weapon      | Standard Stun Baton ( |
+| Equipped Suit        | Standard R.D. Tunic ( |
++----------------------------------------------+
+| STATUS: MENTALLY COMPOSED / READY            |
 +==============================================+
-| Floor & Department   | Staff | Active Aura   |
-+======================+=======+===============+
-| F1: Neutral Command  | 24 Ag | +10% Move Spd |
-+----------------------+-------+---------------+
-| F2: The Maw's Keep   | 50 Ag | +10 Max HP    |
-+----------------------+-------+---------------+
-| F3: Extraction Hall  | 40 Ag | +10% Yield    |
-+----------------------+-------+---------------+
-| F4: Insight Forge    | 30 Ag | +8% Work Succ |
-+----------------------+-------+---------------+
-| F5: Border Watch     | 40 Ag | +15% Phys Def |
-+----------------------+-------+---------------+
-| F6: Deep Vault       | 20 Ag | +15 Max SP    |
-+----------------------+-------+---------------+
-| F7: Shadow Corps     | 30 Ag | +15% Evasion  |
-+----------------------+-------+---------------+
-| F8: Gate Watch       | 10 Ag | +20s Warning  |
-+======================+=======================+
 ```
-
-- **Roster Deployment:** 244 field agents deployed across eight floors; 390 departmental clerks present at 100% strength, sustaining maximum resonance aura potency throughout the morning shift.
-- **Station Orders:** Containment Lead Dekan stationed at the Maw's Edge observation post; Extraction Lead Zyrak pre-heats Forging Vats A & B on Floor 3; Border Lead Mellda locks Bulkhead Gate E-01.
-
----
-
-#### 2. Acoustic Strain Meltdown Monitoring
 
 ```text
 +==============================================+
-|       ACOUSTIC STRAIN MELTDOWN TRACKER       |
+| STARTING AGENT DOSSIER: AGENT KIM            |
++----------------------------------------------+
+| PARAM / STAT         | VALUE / RATING        |
++----------------------------------------------+
+| Level / Title        | Level I (Stoic Junior |
+| Fortitude (HP)       | 38 [Grade II - Red]   |
+| Prudence (SP)        | 25 [Grade I - White]  |
+| Temperance (Work)    | 30 [Grade I - Black]  |
+| Justice (Speed)      | 22 [Grade I - Pale]   |
+| Equipped Weapon      | Standard Stun Baton ( |
+| Equipped Suit        | Standard R.D. Tunic ( |
++----------------------------------------------+
+| STATUS: HIGH PHYSICAL ENDURANCE              |
 +==============================================+
-| Parameter            | Current Shift Reading |
-+======================+=======================+
-| Facility Strain Lvl  | Level II (Active)     |
-+----------------------+-----------------------+
-| Alarm Chambers       | Cell C-08, Cell B-03  |
-+----------------------+-----------------------+
-| Bleed Countdown      | 45s (Resolved in 28s) |
-+----------------------+-----------------------+
-| Acoustic Overload    | Cell C-08 (+8% Strain)|
-+======================+=======================+
 ```
 
-- **Meltdown Wave:** Following the fifth successful interaction, an amber acoustic alarm flashes in Containment Cell C-08 (*The Guarding Bird*) and Cell B-03 (*The Orphaned Bell*).
-- **Intervention:** Senior Agent Choi reaches Cell C-08 at 00:28; Senior Agent Yoon reaches Cell B-03 at 00:34. Both work protocols initiated prior to timer expiration, preventing a 20% Han-Energy backflow venting.
+Agent Park is balanced with an edge in Prudence (White sanity), which makes him our best candidate for handling Weeping and mental entities. Agent Kim is our meat-shield with 38 Fortitude, well-suited for physical strain and Weight work. 
 
----
+Both are armed with standard-issue Directorate stun batons (deals 2–4 Lament/White damage—crucial for knocking sense back into panicked agents) and basic tunics that provide flat 1.0 multiplier across all damage types (meaning zero damage resistance).
 
-#### 3. Granular Work Type Management & Harvest Records
+We assign Park and Kim to Floor 1, verify Seiyon's synchronization link, and press **[BEGIN SHIFT]**.
+
+#### 2. Management Phase Walkthrough (Step-by-Step Manager Log)
+
+The screen transitions with a low hydraulic thump. The management interface expands:
+- In the top-left, the **Energy Gauge** shows `0.000 / 0.050 tons`.
+- Just below it sits the **Acoustic Strain Meltdown Gauge** (starts at 0/3 works before Meltdown Level I triggers).
+- In the top-right, Seiyon's active mandate blinks: `Mandate 01: Complete 3 Work Sessions without Casualties`.
+- In the center of Floor 1's main room, Agent Park and Agent Kim are standing beside the regenerator lamp.
+
+```text
+> Agent Park: "Another cycle... why does the tea in the breakroom always taste like copper?"
+> Agent Kim: "Don't think about it, Park. Just keep your eyes on the Sorrow Gauge."
+```
+
+In the adjacent containment corridor sits our first entity: **SE-C-IIIγ-001** (*The Orphaned Bell*), a bronze bell suspended in mid-air, weeping black grease from its rim.
+
+##### Work Session 1: Flerehan Work on SE-001
+We click Chamber 001. The work selection interface surfaces:
+- **Flerehan** (Tears / Lament): Comforting communion, cleansing grease.
+- **Pugnahan** (Confrontation / Grudge): Striking the clapper forcefully.
+- **Viderehan** (Observation / Void): Monitoring acoustic vibrations.
+- **Ferrehan** (Endurance / Weight): Physically holding the vibrating rim.
+
+Since we have zero observation data on this entity in Cycle 1,778, success rates show `[UNCERTAIN]`. We select **Flerehan** work and assign Agent Park.
+
+```text
+> Seiyon: "Agent Park entering Containment Chamber 001."
+> FEAR CHECK: Level I Agent vs Class III Entity -> RESULT: CALM (No SP lost).
+```
+
+Park enters the chamber. The heavy steel door slides shut with a pneumatic hiss. The clapper begins to swing gently:
+- *Chamber Log:* `The bell remembers the sound of a child's funeral in the rain...`
+- Tick 1: Success! +1 Positive Han crystal generated (blue glow).
+- Tick 2: Success! +1 Positive Han crystal generated.
+- Tick 3: Failure! Red static bursts. The bell emits a hollow chime, dealing 3 White (Lament) damage. Park's SP bar drops from 35 to 32.
+- Tick 4–8: 4 Successes, 1 Failure.
+- **Final Result: 6/8 Positive Han Crystals (NORMAL WORK RESULT).**
+
+Park exits the chamber breathing heavily, carrying 0.015 tons of raw crystallized Han. He steps back into the Floor 1 main room, where the green regenerator lamp restores his 3 lost SP within four seconds.
+
+The facility energy counter updates: `0.015 / 0.050 tons`. Acoustic Strain counter advances to `1/3`.
+
+##### Work Session 2: Ferrehan Work on SE-005
+Our second chamber holds **SE-C-IIIγ-005** (*The Smothering Mother*). We click the chamber, select **Ferrehan** (Endurance) work to test physical resilience, and dispatch Agent Kim.
+
+```text
+> FEAR CHECK: Level I Agent vs Class III Entity -> RESULT: FEAR CHECK PASSED (CALM).
+> Chamber Log: "Her woolen shawl reaches across the floorboards like cold fog..."
+```
+
+Kim stands firmly as the Mother's colossal woolen shawl wraps around his chest:
+- Tick 1: Success (+1 Han).
+- Tick 2: Failure! The shawl tightens. Kim takes 4 Red (Grudge) physical damage. HP drops to 34/38.
+- Tick 3–10: 6 Successes, 2 Failures. Kim takes another 8 Red damage. HP at 26/38.
+- **Final Result: 7/10 Positive Han Crystals (NORMAL WORK RESULT).**
+
+Energy counter rises to `0.032 / 0.050 tons`. But now... the Acoustic Strain counter hits `3/3`!
+
+##### Crisis Event: Acoustic Strain Meltdown Level I
+A high-pitched siren echoes through the facility as the screen edges tint deep red:
 
 ```text
 +==============================================+
-|       SHIFT WORK TYPE MANAGEMENT LOG         |
+| EMERGENCY: ACOUSTIC STRAIN MELTDOWN LEVEL I  |
++----------------------------------------------+
+| ALERT: HYDRAULIC RESONANCE SPIKE DETECTED    |
+| AFFECTED CHAMBER: SE-C-IIIg-001 (THE BELL)   |
+| BLEED TIMER: 45.0 SECONDS UNTIL BREACH       |
++----------------------------------------------+
+| ACTION MANDATE: COMPLETE WORK SESSION        |
 +==============================================+
-| SECC Designation     | Work Type & Officer   |
-+======================+=======================+
-| SE-C-IVδ-001 (Bell)  | Ferrehan (Yoon)       |
-| Gauge Δ: -8%         | Energy: +0.010 Tons   |
-+----------------------+-----------------------+
-| SE-C-IIIγ-031 (Bird) | Ferrehan (Shin)       |
-| Gauge Δ: -2%         | Energy: +0.009 Tons   |
-+----------------------+-----------------------+
-| SE-C-IIIγ-033 (Guard)| Flerehan (Choi)       |
-| Gauge Δ: +3%         | Energy: +0.024 Tons   |
-+----------------------+-----------------------+
-| SE-C-IIIγ-176 (Loom) | Ferrehan (Jang)       |
-| Gauge Δ: -2%         | Energy: +0.018 Tons   |
-+----------------------+-----------------------+
-| SE-N-IIIγ-021 (Choir)| Ferrehan (Oh)         |
-| Gauge Δ: Stable      | Energy: +0.022 Tons   |
-+----------------------+-----------------------+
-| SE-C-IVδ-008 (Maw)   | Ferrehan (Lee)        |
-| Gauge Δ: -8%         | Energy: +0.008 Tons   |
-+======================+=======================+
 ```
 
-- **Operational Notes:**
-  - `SE-C-IVδ-001 [LO]` (*The Orphaned Bell*): Ferrehan successfully grounded the bell's acoustic tolling; clean extraction potential identified. +3 OP awarded.
-  - `SE-C-IIIγ-033 [GO]` (*The Guarding Bird*): Flerehan interaction caused minor containment field flickering due to Grudge resistance; Senior Agent Choi absorbed minor kinetic strain. +2 OP awarded.
-  - `SE-C-IVδ-008 [GP]` (*The Maw*): Agent Lee sustained gravitational bearing near trench 02; voices of the thousand drowned laborers subsided to low murmur.
+A red digital timer appears above Chamber 001, counting down from 45.0 seconds! If that timer reaches 0.0, the Orphaned Bell will breach containment, tolling a catastrophic 110dB death chime that will rupture the eardrums of every clerk on the floor!
 
----
+Park is fully rested in the main room. We click Chamber 001 immediately, select **Flerehan** work, and dispatch Park on a run. He crosses the corridor and enters the chamber at 38.2 seconds remaining on the clock. The meltdown timer pauses!
 
-#### 4. Directorate Tactical Command Directives Deployed
+During the work, Park nails 7/8 Positive Han crystals! The Meltdown is successfully neutralized! 
+
+Energy reaches `0.048 / 0.050 tons`—just 0.002 tons shy of the daily quota.
+
+##### Ordeal Manifestation: First Watch (Dawn) Ordeal
+Before we can celebrate, the facility lights turn amber. A secondary klaxon blares:
 
 ```text
 +==============================================+
-|       DECISION CORE TACTICAL DIRECTIVES      |
+| TACTICAL DOSSIER: FIRST WATCH (DAWN) ORDEAL  |
++----------------------------------------------+
+| DESIGNATION : THE VOICE                      |
+| CLASSIFICATION : PALE (CYAN) FIRST WATCH     |
+| INTRUSION POINT : FLOOR 1 CORRIDOR WEST      |
++----------------------------------------------+
+| HOSTILE PARAMETERS:                          |
+| - Entity: 1x Spectral Resonator Projection   |
+| - Attack Affinity: Pale (% Max HP Decay)     |
+| - Weakness Affinity: Lament (Acoustic Echo)  |
++----------------------------------------------+
+| TACTICAL ORDERS: DEPLOY PARK & KIM           |
 +==============================================+
-| Directive Fired      | Sector & Outcome      |
-+======================+=======================+
-| Veil Mist Dampener   | Cell C-08 (Floor 5)   |
-| Energy Cost: 15u     | Restored 25% Composure|
-+----------------------+-----------------------+
-| Han Salve Jet        | Corridor 2B (Floor 2) |
-| Energy Cost: 10u     | Sealed Flesh Abrasion |
-+======================+=======================+
 ```
 
-- **Pneumatic Transmissions:** At 11:14 AM, Director Majin fired a *Veil Mist Dampener* into Cell C-08 to calm Agent Choi's racing pulse following *The Guarding Bird's* resonance flare. At 02:40 PM, a *Han Salve Jet* sealed a minor kinetic laceration on Agent Lee's arm on Floor 2.
+A glowing cyan apparition appears in the western corridor, chanting pre-human syllables. A Level I clerk wandering the hallway immediately loses all SP and enters **Panic State: Void Catatonia**, freezing in terror!
 
----
+Director Majin intervenes with tactical command:
+1. **Directorate Directive Deployed:** `Veil Mist Dampener` activated in Corridor West, reducing the entity's Pale damage aura by 40%.
+2. **Panic Recovery:** Agent Park dashes in, swinging his standard stun baton (Lament/White damage) directly into the catatonic clerk. The gentle cognitive shock restores the clerk's sanity bar to full!
+3. **Clash Standoff:** Agent Kim charges with his baton, drawing the entity's attention while Park flanks from Range Band 3. With coordinated strikes, the entity's spectral matrix fractures and dissolves into harmless mineral sparkles!
 
-#### 5. Ordeal Suppression Tactical Dossier
+With the Ordeal suppressed, Agent Kim executes one final brief Viderehan observation on Chamber 001, yielding +0.005 tons. The quota is reached: **0.053 / 0.050 tons!** 
+
+Seiyon prompts: `Energy Quota Achieved. Press [Shift Complete] to conclude the day.`
+
+#### 3. End-of-Day Shift Evaluation Index
+
+We click **[Shift Complete]**. The screen dims to cobalt as the daily performance review rolls:
 
 ```text
 +==============================================+
-|       ORDEAL SUPPRESSION TACTICAL DOSSIER    |
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 0     |
++----------------------------------------------+
+| METRIC               | TARGET | REALIZED     |
++----------------------------------------------+
+| Han Energy Harvested | 0.050t | 0.053 tons   |
+| Containment Breaches | 0 Max  | 0 Breaches   |
+| Personnel Casualties | 0 Dead | 0 Fatalities |
+| Meltdowns Cleared    | 1/1    | 100% Rate    |
+| Ordeals Suppressed   | 1/1    | 100% Rate    |
++----------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S             |
+| REAGENTS ACCUMULATED: +18 RHR                |
+| AGENT ADVANCEMENT & PROMOTIONS:              |
+| - Agent Park: +4 Clarity, +2 Temperance      |
+| - Agent Kim: +5 Resilience, +2 Fortitude     |
 +==============================================+
-| Ordeal Code          | The Voice (PALE, 2nd) |
-+----------------------+-----------------------+
-| Threat Element       | Void (Pale White)     |
-+----------------------+-----------------------+
-| Incursion Sector     | Floor 4 Corridor D-02 |
-+----------------------+-----------------------+
-| Suppression Squad    | Strike Squad Alpha    |
-+----------------------+-----------------------+
-| Casualty Status      | 0 Fatalities, 1 Panic |
-+======================+=======================+
 ```
 
-- **Incursion Chronicle:** At 03:20 PM, atmospheric Void density triggered *The Voice* (PALE, Second Watch). Three faceless memory-bleeding entities manifested in Corridor D-02, attempting to erase personnel identities.
-- **Combat Engagement:** Strike Squad Alpha engaged across Range Band 3 (Medium) with Weight-element M.A.W. mauls, exploiting Void's vulnerability to crushing physical mass.
-- **Panic & Sanity Restoration:** Junior Agent Shin suffered Composure collapse, entering **Void Catatonia** (whispering the Cheongula death-dirge). Senior Agent Yoon intercepted Shin and struck them with a **Lament (Deep Blue)** training baton, draining the panic meter and restoring Shin's sanity before permanent Fracture.
+Under Missions Cleared, Seiyon's Mandate 01 is marked `[COMPLETE]`. Both agents received meaningful stat boosts from their maiden shift.
 
----
+#### 4. Entity Extraction & Selection Screen
 
-#### 6. End of Day Performance Review & Evaluation Index
+Now we enter the Abnormality/Entity Extraction chamber. The terminal presents three encrypted extraction tubes, each accompanied by an enigmatic catalog excerpt:
 
 ```text
 +==============================================+
-|       SHIFT EVALUATION INDEX: DAY 0          |
+| EXTRACTION ARCHIVE: SELECT NEXT COMPANION    |
++----------------------------------------------+
+| CHOICE ALPHA [SE-C-IIIg-033]:                |
+| "It watched the forest burn, and spread its  |
+| wings so no cinder could escape."            |
++----------------------------------------------+
+| CHOICE BETA [SE-C-IIIb-061]:                 |
+| "The contract was signed in blood that never |
+| dried, charging interest on breath."         |
++----------------------------------------------+
+| CHOICE GAMMA [SE-C-IIIb-014]:                |
+| "It eats what you owe, but leaves the hollow |
+| where your heart used to beat."              |
 +==============================================+
-| Daily Shift Grade    | GRADE S (Exemplary)   |
-+----------------------+-----------------------+
-| Han Harvested Total  | +0.091 Tons (Quota Met|
-+----------------------+-----------------------+
-| Absolvohan Stockpile | 47.3 Tons (Crypt-Held)|
-+----------------------+-----------------------+
-| Agents Fractured     | 0 (Zero Fatalities)   |
-+----------------------+-----------------------+
-| RHR Reagents Awarded | +18 RHR Earned        |
-+======================+=======================+
 ```
 
-- **Performance Review:** Daily municipal quota (0.066 tons) exceeded by +0.025 tons. Absolvohan cryo-sinks hold steady at 47.3 tons.
-- **Attribute Conditioning:** 18 Refined Han Reagents (RHR) invested in Floor 4's conditioning chambers to hone Junior Agent Shin's Clarity (+3) and Agent Ahn's Resilience (+2).
+**Director's Tactical Analysis:**
+- *Choice Beta* is clearly *The Debtor* (SE-C-IIIβ-061)—a financial weight entity. Good for training Temperance and Fortitude, but its breach mechanics involve heavy debt accumulation that can penalize daily RHR payouts.
+- *Choice Gamma* is *The Debt Eater* (SE-C-IIIβ-014)—a Void-affinity object entity. It can eat financial penalties, but if mishandled, it consumes agent sanity permanently.
+- *Choice Alpha* is **The Guarding Bird** (SE-C-IIIγ-033). This is one of the foundational Three Birds of the Black Forest triad. It responds favorably to Viderehan observation, produces excellent high-tier M.A.W. defensive gear (*Guardian Veil*), and will be essential for orchestrating our planned Hope Transformation convergence later in the cycle!
 
----
+We lock in **Choice Alpha: SE-C-IIIγ-033 (*The Guarding Bird*)**.
 
-#### 7. Entity Selection & M.A.W. Extraction Log
+#### 5. M.A.W. Extraction & Gear Crafting
+
+We open the M.A.W. Extraction terminal and spend our accumulated observation points from the Orphaned Bell:
 
 ```text
 +==============================================+
-|       EXTRACTION & NEW CONTAINMENT LOG       |
+| M.A.W. SYNTHESIS FORGING LOG — DAY 0         |
++----------------------------------------------+
+| ITEM FORGED          | SLOT / PROPERTIES     |
++----------------------------------------------+
+| Lament Requiem       | Weapon: 4-7 Lament (W |
+| Lament Shroud        | Suit: 0.8 / 0.7 / 1.2 |
+| Lament Edge Gift     | Eye Slot: +4 SP, +5 W |
++----------------------------------------------+
+| ALLOCATION: ASSIGNED TO AGENT PARK           |
 +==============================================+
-| Selected Intake      | The Guarding Bird (β) |
-+----------------------+-----------------------+
-| Containment Cell     | Cell C-08 (Floor 5)   |
-+----------------------+-----------------------+
-| Extracted M.A.W.     | The Debt Ledger (γ)   |
-+----------------------+-----------------------+
-| Anatomical Gift Slot | Gauntlet (Right Arm)  |
-+----------------------+-----------------------+
-| Corrosion Stage      | Stage 0 (Uncorrupted) |
-+======================+=======================+
 ```
 
-- **New Intake:** Director Majin selected *The Guarding Bird* from three overnight candidates. Containment initialized in Cell C-08 at 50% baseline Sorrow Gauge.
-- **Forging Output:** Extraction Lead Zyrak forged *The Debt Ledger* (Weapon, γ-grade) from *The Debt Eater*, assigning it to Agent Bae. Gift assigned to Right Arm Gauntlet slot.
+Agent Park is immediately equipped with the *Lament Shroud* and *Lament Requiem*, transforming him from a vulnerable rookie into a resilient containment specialist.
 
----
+#### 6. Night Shift Telemetry & Nocturnal Vigil
 
-#### 8. Night Shift Telemetry & Nocturnal Vigil
+At 23:45, the facility shifts to nocturnal standby. The central lamps dim from cobalt to amber. In the subterranean observation bay of Floor 2, Dekan stands watching the black tar of SE-C-Iα-008 (*The Maw*).
+
+Majin joins him on the walkway. The acoustic monitors catch faint, repeated syllables bubbling from the abyss—the name Majin carried before the Before-Time tore his mortal life away.
 
 ```text
-+==============================================+
-|       NOCTURNAL TELEMETRY & NIGHT VIGIL      |
-+==============================================+
-| Night Watch Officer  | Agent Lim (Floor 2)   |
-+----------------------+-----------------------+
-| Subterranean Drainage| Hydraulic Pumps Nom.  |
-+----------------------+-----------------------+
-| Sorrow Tide Level    | Calm (-1.2m below Lip)|
-+----------------------+-----------------------+
-| Memory Fog Density   | 0.04% (Scrubbers Act.)|
-+======================+=======================+
+> Dekan: "They whispered your name again, Director."
+> Majin: "I heard."
+> Dekan: "Do you ever answer them?"
+> Majin: "Not yet, Dekan. We answer them on Day 160."
 ```
 
-- **Overnight Telemetry:** Entity *The Kind Healer* hummed softly throughout the night; Floor 2 drainage pumps operated smoothly against the Sorrow Tide.
-- **Director's Vigil:** At 03:40 AM, Director Majin stood before the Central Command panoramic viewport, observing the faint golden shimmer deep within the Absolvohan Reserve Tap beneath his feet.
-- **Closing Log:** The Director did not sleep. The Director does not sleep.
-
----
+Day 0 concludes. The board is set. The cycle has begun.
