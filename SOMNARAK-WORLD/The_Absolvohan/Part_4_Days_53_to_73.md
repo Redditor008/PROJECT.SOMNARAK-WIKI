@@ -517,7 +517,7 @@ Agent Bae is assigned as our dedicated Thorns Pruner on Floor 5:
 |                     | & Maul                 |
 +---------------------+------------------------+
 | Lead Aura           | Mellda: Iron Perimeter |
-|                     | (+15% Grudge/Phys Def) |
+|                     | (+15% Physical Shield) |
 +---------------------+------------------------+
 ```
 
@@ -626,9 +626,8 @@ Attribute gains awarded:
 | your                                         |
 | childhood friends while you sleep."          |
 | CHOICE BETA [SE-C-IIIg-190]:                 |
-| "An obsidian effigy burning with the         |
-| inexting-                                    |
-| uishable hatred of executed smelters."       |
+| "An obsidian effigy burning with relentless  |
+| hatred of executed industrial smelters."     |
 | CHOICE GAMMA [SE-C-IIIg-195]:                |
 | "A looking glass that shows how much of your |
 | soul has been replaced by machinery."        |

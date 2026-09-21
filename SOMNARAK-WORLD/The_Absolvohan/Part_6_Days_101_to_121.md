@@ -432,8 +432,10 @@ At 14:40, a grinding mechanical roar echoes through Floor 6's hydraulic transit 
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 1x Colossal Molten Gearwheel     |
-| - Attack Affinity: Weight (Gravitational She |
-| - Weakness Affinity: Grudge (High-Velocity B |
+| - Attack Affinity: Weight (Gravitational     |
+|   Shear and Crushing Torque)                 |
+| - Weakness Affinity: Grudge (High-Velocity   |
+|   Blunt Impact and Puncture)                 |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
 | - Cog rolls down corridor at high velocity   |
@@ -512,8 +514,8 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-300 (*The Memory Lo
 | ITEM FORGED          | PROPERTIES / ALLOC    |
 +----------------------+-----------------------+
 | Torn Root            | Legs: Absolute Rooting|
-|                      | Immunity, +20% Phys   |
-|                      | Def. Alloc: Yoo.      |
+|                      | Immunity, +20% Armor  |
+|                      | Defense. Alloc: Yoo.  |
 +----------------------+-----------------------+
 | Amber Sap Ring       | Finger: +10% Work Spd,|
 |                      | +15 Max SP, Calm Aura.|
@@ -690,7 +692,7 @@ At 15:10, four feral ash stalkers track the refugee crawlers into the outer peri
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 4x Incandescent Ash Stalkers     |
-| - Attack Affinity: Grudge (Thermal Combust)  |
+| - Attack Affinity: Grudge (Thermal Flame)    |
 | - Weakness Affinity: Lament (Cryo-Acoustic)  |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
@@ -770,8 +772,8 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-O-IVδ-897 (*The Haven Wall
 +----------------------------------------------+
 | ITEM FORGED          | PROPERTIES / ALLOC    |
 +----------------------+-----------------------+
-| Bridge Span          | Belt: +15% Env Res,   |
-|                      | Kinetic Stabilizing   |
+| Bridge Span          | Belt: +15% Hazard     |
+|                      | Resistance, Kinetic   |
 |                      | Grip. Alloc: Kang.    |
 +----------------------+-----------------------+
 | Refugee Cowl         | Head: +10 Max HP,     |
@@ -948,7 +950,7 @@ At 16:30, a blinding cyan core manifests in the Floor 4 Sub-Central Hall:
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 1x Blinding Solar Core           |
-| - Attack Affinity: Pale (Max HP Percent Snd) |
+| - Attack Affinity: Pale (Max HP Sunder)      |
 | - Weakness Affinity: Balanced (All 4 Types)  |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
@@ -1202,7 +1204,7 @@ At 17:00, space shatters in Floor 1's Central Command Atrium:
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 1x Floating Monolith of Pre-Time |
-| - Attack Affinity: Weight (Grav. Shear 3.5G) |
+| - Attack Affinity: Weight (Gravitational)    |
 | - Weakness Affinity: Grudge (Blunt Shatter)  |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |

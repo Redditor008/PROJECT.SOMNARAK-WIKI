@@ -1263,8 +1263,9 @@ Agent Noh conducts one final pruning run on Chamber 145, pushing daily harvest t
 | surface only when someone drops a tear."     |
 +----------------------------------------------+
 | CHOICE BETA [SE-C-IIIb-044]:                 |
-| "A clockwork soldier holding a fractured bla |
-| waiting for a war that ended centuries ago." |
+| "A clockwork soldier holding a fractured     |
+| blade, waiting for a war that ended          |
+| centuries ago."                              |
 +----------------------------------------------+
 | CHOICE GAMMA [SE-C-IIIg-120]:                |
 | "An iron cage whose bars contract whenever a |
@@ -1287,7 +1288,8 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-115 (*The Memory We
 +----------------------------------------------+
 | ITEM FORGED          | SLOT / PROPERTIES     |
 +----------------------------------------------+
-| Thorn Bracer         | Wrist: +5% Physical R |
+| Thorn Bracer         | Wrist: +5% Physical   |
+|                      | Damage Resistance.    |
 | Thorn Mantle         | Suit: 0.8 / 0.9 / 1.1 |
 +----------------------------------------------+
 | ALLOCATION: ASSIGNED TO AGENT NOH            |
@@ -1469,8 +1471,8 @@ One final quick observation session yields +0.017 tons. Daily harvest: **0.065 /
 | men, growing taller with every funeral."     |
 +----------------------------------------------+
 | CHOICE GAMMA [SE-C-IIIg-088]:                |
-| "A marble fountain whose water runs black wh |
-| an agent remembers what they lost."          |
+| "A marble fountain whose water runs black    |
+| whenever an agent remembers what was lost."  |
 +==============================================+
 ```
 
@@ -3292,7 +3294,7 @@ Agent Bae is assigned as our dedicated Thorns Pruner on Floor 5:
 |                     | & Maul                 |
 +---------------------+------------------------+
 | Lead Aura           | Mellda: Iron Perimeter |
-|                     | (+15% Grudge/Phys Def) |
+|                     | (+15% Physical Shield) |
 +---------------------+------------------------+
 ```
 
@@ -3401,9 +3403,8 @@ Attribute gains awarded:
 | your                                         |
 | childhood friends while you sleep."          |
 | CHOICE BETA [SE-C-IIIg-190]:                 |
-| "An obsidian effigy burning with the         |
-| inexting-                                    |
-| uishable hatred of executed smelters."       |
+| "An obsidian effigy burning with relentless  |
+| hatred of executed industrial smelters."     |
 | CHOICE GAMMA [SE-C-IIIg-195]:                |
 | "A looking glass that shows how much of your |
 | soul has been replaced by machinery."        |
@@ -4072,7 +4073,7 @@ At 14:30, seismic sensors detect an anomalous mass manifesting in the Floor 6 Ar
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 1x Petrified Gravitic Skeleton   |
-| - Attack Affinity: Weight (Grav. Stasis)     |
+| - Attack Affinity: Weight (Gravitational)    |
 | - Weakness Affinity: Grudge (High Impact)    |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
@@ -4122,8 +4123,9 @@ Shift concludes with cumulative daily harvest of **0.295 tons** (100% quota achi
 | WELL EXTRACTION DRAFTING LOG — DAY 77        |
 +----------------------------------------------+
 | CHOICE ALPHA [SE-C-IIIb-044]:                |
-| "A clockwork soldier holding a fractured bla |
-| waiting for a war that ended centuries ago." |
+| "A clockwork soldier holding a fractured     |
+| blade, waiting for a war that ended          |
+| centuries ago."                              |
 +----------------------------------------------+
 | CHOICE BETA [SE-C-IIIg-120]:                 |
 | "An iron forge whose internal flames burn    |
@@ -4953,8 +4955,7 @@ Beside him, Ayshuk adjusts the bio-capacitor: *"Ten marks, Director. The harmoni
 | FACILITY MANAGEMENT INTERFACE: DAY 97 SHIFT  |
 | ENERGY QUOTA: 0.520 TONS | CURRENT: 0.000    |
 | TONS                                         |
-| HYDRAULIC BALLAST: 49.820 TONS | PRE-        |
-| CENTURY                                      |
+| HYDRAULIC BALLAST: 49.820 TONS | CENTURY EVE |
 | ACTIVE CONTAINMENT: SE-021, 044, 081, 115,   |
 | 190, 275                                     |
 +==============================================+
@@ -5620,8 +5621,10 @@ At 14:40, a grinding mechanical roar echoes through Floor 6's hydraulic transit 
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 1x Colossal Molten Gearwheel     |
-| - Attack Affinity: Weight (Gravitational She |
-| - Weakness Affinity: Grudge (High-Velocity B |
+| - Attack Affinity: Weight (Gravitational     |
+|   Shear and Crushing Torque)                 |
+| - Weakness Affinity: Grudge (High-Velocity   |
+|   Blunt Impact and Puncture)                 |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
 | - Cog rolls down corridor at high velocity   |
@@ -5700,8 +5703,8 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-300 (*The Memory Lo
 | ITEM FORGED          | PROPERTIES / ALLOC    |
 +----------------------+-----------------------+
 | Torn Root            | Legs: Absolute Rooting|
-|                      | Immunity, +20% Phys   |
-|                      | Def. Alloc: Yoo.      |
+|                      | Immunity, +20% Armor  |
+|                      | Defense. Alloc: Yoo.  |
 +----------------------+-----------------------+
 | Amber Sap Ring       | Finger: +10% Work Spd,|
 |                      | +15 Max SP, Calm Aura.|
@@ -5878,7 +5881,7 @@ At 15:10, four feral ash stalkers track the refugee crawlers into the outer peri
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 4x Incandescent Ash Stalkers     |
-| - Attack Affinity: Grudge (Thermal Combust)  |
+| - Attack Affinity: Grudge (Thermal Flame)    |
 | - Weakness Affinity: Lament (Cryo-Acoustic)  |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
@@ -5958,8 +5961,8 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-O-IVδ-897 (*The Haven Wall
 +----------------------------------------------+
 | ITEM FORGED          | PROPERTIES / ALLOC    |
 +----------------------+-----------------------+
-| Bridge Span          | Belt: +15% Env Res,   |
-|                      | Kinetic Stabilizing   |
+| Bridge Span          | Belt: +15% Hazard     |
+|                      | Resistance, Kinetic   |
 |                      | Grip. Alloc: Kang.    |
 +----------------------+-----------------------+
 | Refugee Cowl         | Head: +10 Max HP,     |
@@ -6136,7 +6139,7 @@ At 16:30, a blinding cyan core manifests in the Floor 4 Sub-Central Hall:
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 1x Blinding Solar Core           |
-| - Attack Affinity: Pale (Max HP Percent Snd) |
+| - Attack Affinity: Pale (Max HP Sunder)      |
 | - Weakness Affinity: Balanced (All 4 Types)  |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
@@ -6390,7 +6393,7 @@ At 17:00, space shatters in Floor 1's Central Command Atrium:
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 1x Floating Monolith of Pre-Time |
-| - Attack Affinity: Weight (Grav. Shear 3.5G) |
+| - Attack Affinity: Weight (Gravitational)    |
 | - Weakness Affinity: Grudge (Blunt Shatter)  |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
@@ -6919,7 +6922,7 @@ At 15:40, two colossal bleeding conduits manifest in Floor 7's Main Atrium:
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 2x Colossal Bleeding Siphons     |
-| - Attack Affinity: Grudge (Bleed Exsanguin)  |
+| - Attack Affinity: Grudge (Bleed Laceration) |
 | - Weakness Affinity: Lament (Acoustic Frost) |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
@@ -7173,7 +7176,7 @@ At 14:50, two high-speed mechanical sweepers breach Floor 6's hydraulic plaza:
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 2x Rapid Clockwork Scythes       |
-| - Attack Affinity: Weight (Kinetic Lacerat)  |
+| - Attack Affinity: Weight (Rotary Laceration)|
 | - Weakness Affinity: Grudge (Blunt Smash)    |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
@@ -7254,9 +7257,8 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IVδ-034 (*The Harmony Fe
 | ITEM FORGED          | PROPERTIES / ALLOC    |
 +----------------------+-----------------------+
 | Harmony Feather      | Back Slot: +20% Move  |
-|                      | Speed, +15% All Elem  |
-|                      | Resistances. Alloc:   |
-|                      | Agent Kang.           |
+|                      | Speed, +15% Elemental |
+|                      | Resistance. Kang.     |
 +----------------------+-----------------------+
 | Golden Iris          | Eye Slot: +15 Max SP, |
 |                      | Immune to Blindness & |
@@ -7556,7 +7558,7 @@ Majin gazes into the golden pulse: *"Then we will not betray its trust, Ayshuk. 
 | FACILITY MANAGEMENT INTERFACE: DAY 141 SHIFT |
 | ENERGY QUOTA: 1.180 TONS | CURRENT: 0.000    |
 | TONS                                         |
-| HYDRAULIC BALLAST: 49.875 TONS | REFUGEE FORG|
+| HYDRAULIC BALLAST: 49.875 TONS | REFUGEE JOIN|
 | ACTIVE CONTAINMENT: SE-180, 190, 275, 762,   |
 | 895, 897                                     |
 +==============================================+
@@ -7936,7 +7938,7 @@ At 17:15, a radiant, shimmering gateway manifests in Floor 3's Archive Rotunda:
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 1x Radiant Gateway of Tomorrow   |
-| - Attack Affinity: Pale (Max HP Percent Snd) |
+| - Attack Affinity: Pale (Max HP Sunder)      |
 | - Weakness Affinity: Balanced (All 4 Types)  |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |

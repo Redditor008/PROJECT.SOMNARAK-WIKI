@@ -421,7 +421,7 @@ At 15:40, two colossal bleeding conduits manifest in Floor 7's Main Atrium:
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 2x Colossal Bleeding Siphons     |
-| - Attack Affinity: Grudge (Bleed Exsanguin)  |
+| - Attack Affinity: Grudge (Bleed Laceration) |
 | - Weakness Affinity: Lament (Acoustic Frost) |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
@@ -675,7 +675,7 @@ At 14:50, two high-speed mechanical sweepers breach Floor 6's hydraulic plaza:
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 2x Rapid Clockwork Scythes       |
-| - Attack Affinity: Weight (Kinetic Lacerat)  |
+| - Attack Affinity: Weight (Rotary Laceration)|
 | - Weakness Affinity: Grudge (Blunt Smash)    |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
@@ -756,9 +756,8 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IVδ-034 (*The Harmony Fe
 | ITEM FORGED          | PROPERTIES / ALLOC    |
 +----------------------+-----------------------+
 | Harmony Feather      | Back Slot: +20% Move  |
-|                      | Speed, +15% All Elem  |
-|                      | Resistances. Alloc:   |
-|                      | Agent Kang.           |
+|                      | Speed, +15% Elemental |
+|                      | Resistance. Kang.     |
 +----------------------+-----------------------+
 | Golden Iris          | Eye Slot: +15 Max SP, |
 |                      | Immune to Blindness & |
@@ -1058,7 +1057,7 @@ Majin gazes into the golden pulse: *"Then we will not betray its trust, Ayshuk. 
 | FACILITY MANAGEMENT INTERFACE: DAY 141 SHIFT |
 | ENERGY QUOTA: 1.180 TONS | CURRENT: 0.000    |
 | TONS                                         |
-| HYDRAULIC BALLAST: 49.875 TONS | REFUGEE FORG|
+| HYDRAULIC BALLAST: 49.875 TONS | REFUGEE JOIN|
 | ACTIVE CONTAINMENT: SE-180, 190, 275, 762,   |
 | 895, 897                                     |
 +==============================================+
@@ -1438,7 +1437,7 @@ At 17:15, a radiant, shimmering gateway manifests in Floor 3's Archive Rotunda:
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 1x Radiant Gateway of Tomorrow   |
-| - Attack Affinity: Pale (Max HP Percent Snd) |
+| - Attack Affinity: Pale (Max HP Sunder)      |
 | - Weakness Affinity: Balanced (All 4 Types)  |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |

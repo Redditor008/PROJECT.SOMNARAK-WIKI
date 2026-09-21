@@ -176,7 +176,7 @@ At 14:30, seismic sensors detect an anomalous mass manifesting in the Floor 6 Ar
 +----------------------------------------------+
 | HOSTILE PARAMETERS:                          |
 | - Entities: 1x Petrified Gravitic Skeleton   |
-| - Attack Affinity: Weight (Grav. Stasis)     |
+| - Attack Affinity: Weight (Gravitational)    |
 | - Weakness Affinity: Grudge (High Impact)    |
 +----------------------------------------------+
 | ENGAGEMENT TELEMETRY:                        |
@@ -226,8 +226,9 @@ Shift concludes with cumulative daily harvest of **0.295 tons** (100% quota achi
 | WELL EXTRACTION DRAFTING LOG — DAY 77        |
 +----------------------------------------------+
 | CHOICE ALPHA [SE-C-IIIb-044]:                |
-| "A clockwork soldier holding a fractured bla |
-| waiting for a war that ended centuries ago." |
+| "A clockwork soldier holding a fractured     |
+| blade, waiting for a war that ended          |
+| centuries ago."                              |
 +----------------------------------------------+
 | CHOICE BETA [SE-C-IIIg-120]:                 |
 | "An iron forge whose internal flames burn    |
@@ -1057,8 +1058,7 @@ Beside him, Ayshuk adjusts the bio-capacitor: *"Ten marks, Director. The harmoni
 | FACILITY MANAGEMENT INTERFACE: DAY 97 SHIFT  |
 | ENERGY QUOTA: 0.520 TONS | CURRENT: 0.000    |
 | TONS                                         |
-| HYDRAULIC BALLAST: 49.820 TONS | PRE-        |
-| CENTURY                                      |
+| HYDRAULIC BALLAST: 49.820 TONS | CENTURY EVE |
 | ACTIVE CONTAINMENT: SE-021, 044, 081, 115,   |
 | 190, 275                                     |
 +==============================================+

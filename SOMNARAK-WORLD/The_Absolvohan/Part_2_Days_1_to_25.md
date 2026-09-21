@@ -642,8 +642,9 @@ Agent Noh conducts one final pruning run on Chamber 145, pushing daily harvest t
 | surface only when someone drops a tear."     |
 +----------------------------------------------+
 | CHOICE BETA [SE-C-IIIb-044]:                 |
-| "A clockwork soldier holding a fractured bla |
-| waiting for a war that ended centuries ago." |
+| "A clockwork soldier holding a fractured     |
+| blade, waiting for a war that ended          |
+| centuries ago."                              |
 +----------------------------------------------+
 | CHOICE GAMMA [SE-C-IIIg-120]:                |
 | "An iron cage whose bars contract whenever a |
@@ -666,7 +667,8 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-115 (*The Memory We
 +----------------------------------------------+
 | ITEM FORGED          | SLOT / PROPERTIES     |
 +----------------------------------------------+
-| Thorn Bracer         | Wrist: +5% Physical R |
+| Thorn Bracer         | Wrist: +5% Physical   |
+|                      | Damage Resistance.    |
 | Thorn Mantle         | Suit: 0.8 / 0.9 / 1.1 |
 +----------------------------------------------+
 | ALLOCATION: ASSIGNED TO AGENT NOH            |
@@ -848,8 +850,8 @@ One final quick observation session yields +0.017 tons. Daily harvest: **0.065 /
 | men, growing taller with every funeral."     |
 +----------------------------------------------+
 | CHOICE GAMMA [SE-C-IIIg-088]:                |
-| "A marble fountain whose water runs black wh |
-| an agent remembers what they lost."          |
+| "A marble fountain whose water runs black    |
+| whenever an agent remembers what was lost."  |
 +==============================================+
 ```
 
