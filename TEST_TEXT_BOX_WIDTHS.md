@@ -22,6 +22,83 @@ Following extensive visual and technical analysis across modern displays, GitHub
 
 ---
 
+## Section 0: The Dual-Environment Typography Law (File vs Chatroom)
+
+A fundamental architectural distinction governs typography and ASCII formatting within Project Somnarak:
+
+1. **Repository File Standard (`.md` Files):**
+   - **Target Width:** **127 At Least, Maximum 128 Characters** (`len(line) in [127, 128]`).
+   - **Domain:** Persistent repository codices, operational shift logs, 366-day macro-chronology ledgers, and multi-column tables saved to disk.
+2. **Chatroom Interface Standard (Interactive Agent Chat):**
+   - **Strict Maximum Width:** **71 Letters / Characters** (`len(line) <= 71`).
+   - **Domain:** All live messages, interactive terminal readouts, and preview text boxes rendered directly inside the chatroom bubble.
+   - **Reasoning:** In modern chat interfaces, lines exceeding 71 characters trigger unwanted character wrapping, disjointed borders, and severe table misalignment.
+
+### 0.1 Chatroom Visual Alignment Ruler (Columns 001 to 071)
+```text
+00000000011111111112222222222333333333344444444445555555555666666666677
+12345678901234567890123456789012345678901234567890123456789012345678901
+```
+
+### 0.2 Chatroom Multi-Column Telemetry Table (Width: Strictly 71 Characters)
+```text
++=====================================================================+
+| CHATROOM TELEMETRY: ACTIVE CONTAINMENT (MAX 71 CHARS)               |
++======================+==================+===========================+
+| ENTITY IDENTIFIER    | THREAT STRAIN    | HARMONIC STATUS           |
++======================+==================+===========================+
+| SE-031 (Small Bird)  | 71.2% (Resonant) | Acoustic drain achieved   |
++----------------------+------------------+---------------------------+
+| SE-032 (Tall Bird)   | 73.0% (Pulsing)  | Rhythmic weighing armed   |
++----------------------+------------------+---------------------------+
+| SE-033 (Big Bird)    | 70.5% (Baritone) | Mourning frequency held   |
++----------------------+------------------+---------------------------+
+| SE-120 (Wrath Flame) | 84.6% (Critical) | Thermal baffles armed     |
++=====================================================================+
+```
+
+### 0.3 Chatroom Tactical Engagement Log (Width: Strictly 71 Characters)
+```text
++=====================================================================+
+| TACTICAL INCIDENT: FLOOR 2 MAW ENGAGEMENT (MAX 71 CHARS)            |
+| 14:22:04 - Dekan: Entity 120 molten core breached secondary gate.   |
+| 14:22:08 - Majin: Deploy cryogenic veil mist across Corridor Alpha. |
+| 14:22:12 - Dekan: Junior Agent Kang is pinned under fallen girder!  |
+| 14:22:16 - Dekan: Scaled Maw-Flesh Arm drives deep into the beast!  |
+| 14:22:20 - Warning: Dekan vital frequency decoupling at 0.0 Hz!     |
+| 14:22:24 - Majin: Emergency abort! Trigger Mk. IX Chrono-Anchor!    |
++=====================================================================+
+```
+
+### 0.4 Exact 71-Letter & 71-Character Chatroom Benchmark Verification
+- **Exact Alphabetical Letter Count:** 71 letters (`[a-zA-Z] == 71`)
+- **Prose Content:** `"Reverie Directorate monitors all facility containment sectors to defend citizens."`
+- **Letter Breakdown:** Exactly 71 letters | 81 total characters.
+
+```text
++=====================================================================+
+| 71-LETTER ALPHABETICAL BENCHMARK (EXACT COUNT: 71 LETTERS)          |
++---------------------------------------------------------------------+
+| Reverie Directorate monitors all facility containment sectors to    |
+| defend citizens.                                                    |
++=====================================================================+
+```
+
+- **Exact Total String Length:** 71 characters (`len(str) == 71`)
+- **Prose Content:** `"Reverie Directorate central command monitors facility sectors for harm."`
+- **String Breakdown:** Exactly 71 characters.
+
+- **Single-Line Inner Full-Fill Capacity Test:** Exactly 67 characters filling the inner width of a 71-character chatroom box.
+
+```text
++=====================================================================+
+| 71-CHAR CHATROOM SINGLE-LINE CAPACITY (INNER: 67 CHARACTERS)        |
++---------------------------------------------------------------------+
+| Reverie Directorate terminal monitors all active containment cells. |
++=====================================================================+
+```
+
+---
 ## Section I: The 127-Character Suite (Lower Threshold: 127 At Least)
 
 ### 1.1 Visual Alignment Ruler (Columns 001 to 127)
