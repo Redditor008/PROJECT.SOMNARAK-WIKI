@@ -31,7 +31,7 @@ Beneath the calm hum of the Mnemonic Generator, the eight floor leads begin to e
 
 > **Majin:** _"...Noted."_
 
-### Gameplay — Day 1: The Manager's Terminal
+### Gameplay — Day 1: Central Command Tactical Interface
 
 ```text
 +==============================================+
@@ -44,11 +44,11 @@ Beneath the calm hum of the Mnemonic Generator, the eight floor leads begin to e
 +==============================================+
 ```
 
-Welcome back to Day 1. The daily quota is established at 0.050 tons of refined Han. With our covert hydraulic reserve of 47.30 tons resting safely in the deep ballast tanks, our mission today is to maintain zero casualties, break in our newly acquired companion **SE-C-IIIγ-033** (*The Guarding Bird*), and start stockpiling RHR reagents for agent stat training.
+Shift parameters initialized for Day 1. Daily collection quota is locked at **0.050 tons** of refined Han. Covert hydraulic ballast reserves confirm **47.300 tons** resting within the deep sub-vaults. Tactical priorities: maintain zero casualties, establish baseline observation telemetry on newly integrated companion **SE-C-IIIγ-033** (*The Guarding Bird*), and accumulate Refined Han Reagents (RHR) for operative attribute training.
 
-#### 1. Pre-Shift Deployment & Agent Dossiers
+#### 1. Pre-Shift Tactical Deployment & Operative Profiles
 
-Let's review our deployed roster on Floor 1. We've hired a third operative, Agent Lee, to specialize in Void-affinity observation work:
+Director Majin inspects the Floor 1 tactical roster. Operative Agent Lee has been contracted to specialize in Void-affinity Viderehan work:
 
 ```text
 +==============================================+
@@ -75,11 +75,11 @@ Let's review our deployed roster on Floor 1. We've hired a third operative, Agen
 +---------------------+------------------------+
 ```
 
-Agent Park is equipped with the *Lament Shroud* and *Lament Requiem* crafted at the end of Day 0, giving him 0.7 White resistance and a reliable ranged sonic strike. Agent Kim carries the *Embrace Fang* (piercing Grudge damage). Agent Lee is currently in standard recruit issue.
+Agent Park is equipped with the *Lament Shroud* and *Lament Requiem* crafted at the end of Day 0, giving him 0.7 Lament resistance and a reliable ranged sonic strike. Agent Kim carries the *Embrace Fang* (piercing Grudge damage). Agent Lee is currently in standard recruit issue.
 
 We press **[BEGIN MANAGEMENT]**.
 
-#### 2. Management Phase Walkthrough (Step-by-Step Manager Log)
+#### 2. Shift Management Execution (Live Operational Telemetry)
 
 The lights hum to full cobalt brightness. In Floor 1's main room, Agent Lee is nervously checking the safety catch on his stun baton:
 
@@ -89,7 +89,10 @@ The lights hum to full cobalt brightness. In Floor 1's main room, Agent Lee is n
 ```
 
 ##### Work Session 1: Testing the New Bird (SE-033)
-Our priority is unlocking observation data on **SE-C-IIIγ-033** (*The Guarding Bird*). We click Chamber 033 and select **Viderehan** (Observation) work, dispatching Agent Lee.
+Director Majin issues the initial containment dispatch for **SE-C-IIIγ-033** (*The Guarding Bird*):
+- `[DISPATCH ORDER: Agent Lee -> Sector 1, Chamber 033]`
+- `[ASSIGNED PROTOCOL: Viderehan Observation]`
+- `[OBJECTIVE: Sensor logging and optical resonance mapping]`
 
 ```text
 > FEAR CHECK: Level I Agent vs Class III Entity -> RESULT: FEAR (15% SP lost!).
@@ -110,7 +113,10 @@ Lee exits the chamber with a sigh of relief, depositing 0.018 tons of Han into t
 Energy counter updates: `0.018 / 0.050 tons`. Meltdown counter advances to `1/4`.
 
 ##### Work Session 2: Flerehan Work on SE-001 (The Orphaned Bell)
-Next, we send our veteran Agent Park into Chamber 001 for **Flerehan** communion. Thanks to the *Lament Shroud*, Park takes only 2 Lament damage on failed ticks.
+Majin issues the secondary dispatch order:
+- `[DISPATCH ORDER: Agent Park -> Sector 1, Chamber 001 (The Orphaned Bell)]`
+- `[ASSIGNED PROTOCOL: Flerehan Communion]`
+- `[OBJECTIVE: Acoustic damping; Lament Shroud provides 0.8 mental resistance]`
 - *Chamber Log:* `The bell tolls a soft, distant chime for a forgotten miner...`
 - Park scores an 8/8 PERFECT WORK RESULT!
 - +0.022 tons harvested! Total energy reaches `0.040 / 0.050 tons`. Meltdown counter hits `2/4`.
@@ -131,7 +137,10 @@ At work check 4, the sirens howl:
 
 Chamber 005 begins vibrating as red warning runes flash across its hatch. If the Mother breaches, she will manifest her suffocating wool aura across Corridor Central!
 
-We click Chamber 005, choose **Ferrehan** (Endurance) work, and dispatch Agent Kim. Kim reaches the cell at 33.5s remaining. 
+Majin executes emergency intervention override:
+- `[EMERGENCY DISPATCH: Agent Kim -> Chamber 005 (The Mother)]`
+- `[ASSIGNED PROTOCOL: Ferrehan Containment]`
+- `Kim crosses the threshold at 33.5s remaining on the bleed clock.` 
 - Kim withstands her heavy maternal embrace, scoring 7/10 Positive Han crystals.
 - Meltdown is cleared with zero breach risk!
 - Energy counter reaches `0.054 / 0.050 tons`—quota fulfilled!
@@ -164,9 +173,9 @@ Director Majin issues tactical commands:
 3. **Flank Suppression:** Agent Kim charges in with the *Embrace Fang*, drawing the beasts' physical claws against his armored chest while Agent Lee knocks the panicking clerk unconscious with a stun baton.
 4. **Resolution:** All three carriers burst into inert gray powder in 38.4 seconds! Zero casualties!
 
-We click **[Shift Complete]**.
+Secretary Seiyon prompts: `Quota Realized. Locking sector bulkheads. Concluding Day 1 shift.`
 
-#### 3. End-of-Day Shift Evaluation Index
+#### 3. Shift Evaluation Index & RHR Allocation
 
 ```text
 +==============================================+
@@ -189,9 +198,9 @@ We click **[Shift Complete]**.
 +==============================================+
 ```
 
-#### 4. Entity Extraction & Selection Screen
+#### 4. Well Extraction Protocol (Containment Authorization)
 
-We enter the extraction archive. Three extraction canisters surface:
+Director Majin reviews the tripartite extraction canisters rising from the Well:
 
 ```text
 +==============================================+
@@ -209,16 +218,16 @@ We enter the extraction archive. Three extraction canisters surface:
 +==============================================+
 ```
 
-**Director's Tactical Analysis:**
+Director's Tactical Assessment & Containment Authorization:
 - *Choice Beta* is *The Cracked Hourglass* (SE-C-IIIβ-036)—a dangerous temporal manipulator that accelerates agent aging if worked incorrectly.
 - *Choice Gamma* is *The Angry Maiden* (SE-C-IIIγ-042)—demands high-level Pugnahan combat work; our rookie roster lacks the physical armor to trade blows safely.
 - *Choice Alpha* is **The Silent Child** (SE-C-IIIγ-025). This is an exceptionally safe Class II/Class III Lament entity. It loves Flerehan communion, trains Clarity and Composure reliably, and produces the *Silence Ring* gift which provides passive SP regeneration.
 
-We lock in **Choice Alpha: SE-C-IIIγ-025 (*The Silent Child*)**.
+Director Majin confirms authorization: **Locking Containment Selection: SE-C-IIIγ-025 (*The Silent Child*)**.
 
-#### 5. M.A.W. Extraction & Gear Crafting
+#### 5. M.A.W. Synthesis & Armament Forging
 
-We spend our observation points from The Guarding Bird to forge gear:
+Observation points accumulated from The Guarding Bird are committed to the extraction forge:
 
 ```text
 +==============================================+
@@ -242,7 +251,7 @@ We spend our observation points from The Guarding Bird to forge gear:
 
 Agent Lee receives the *Guardian Veil* suit and *Guardian Lens*, vastly upgrading his defense against mental and compound damage.
 
-#### 6. Night Shift Telemetry & Nocturnal Vigil
+#### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
 At 23:45, the facility transitions to minimal lighting. The hydraulic valves between Floors 1 and 2 hum at 440 Hz. Majin sits at his desk, staring at the telemetry monitor of SE-C-Iα-008 (*The Maw*). 
 
@@ -268,7 +277,7 @@ The acoustic transcript of the midnight whisper displays six precise syllables�
 
 > **Majin:** _"It never does. Good work, Zyrak."_
 
-### Gameplay — Day 5: The Manager's Terminal
+### Gameplay — Day 5: Central Command Tactical Interface
 
 ```text
 +==============================================+
@@ -285,7 +294,7 @@ Day 5 brings high tactical tension. In Floor 4's research labs, **SE-C-IIIβ-015
 
 Our managerial rule for today: **DO NOT ENTER CHAMBER 015 WITH HUMAN PERSONNEL UNDER ANY CIRCUMSTANCES.** All interaction with the Healer will be conducted via remote telemetry drones.
 
-#### 1. Pre-Shift Deployment & Agent Dossiers
+#### 1. Pre-Shift Tactical Deployment & Operative Profiles
 
 Our roster has grown to five trained agents across Floor 1 and Floor 2:
 
@@ -324,7 +333,7 @@ Our roster has grown to five trained agents across Floor 1 and Floor 2:
 
 Agent Kang is our newly recruited Pugnahan specialist, armed with the *Fury Blade* for heavy physical suppression. We press **[BEGIN SHIFT]**.
 
-#### 2. Management Phase Walkthrough (Step-by-Step Manager Log)
+#### 2. Shift Management Execution (Live Operational Telemetry)
 
 The shift opens with Chamber 015 flashing an ominous golden halo in the lower research wing. Ayshuk chimes in over the comms:
 
@@ -334,13 +343,16 @@ The shift opens with Chamber 015 flashing an ominous golden halo in the lower re
 ```
 
 ##### Work Session 1: Automated Work on SE-015
-We click Chamber 015, select **Viderehan** (Observation) work, and assign **Drone Unit Kappa-4**. Drones cannot receive blessings or halos:
+Director Majin issues tactical command: deploy automated drone to bypass baptism mechanics:
+- `[DISPATCH ORDER: Drone Unit Kappa-4 -> Sector 2, Chamber 015 (The Kind Healer)]`
+- `[ASSIGNED PROTOCOL: Viderehan Observation]`
+- `[NOTE: Synthetic units possess zero organic soul signature; immune to baptism halos]`
 - *Chamber Log:* `The porcelain healer tilts its head, gazing at the cold camera lens with sorrowful pity...`
 - Tick 1–6: 4 Successes, 2 Failures. The Healer radiates Pale pulses, but the mechanical chassis suffers zero sanity damage!
 - **Result: 4/6 Positive Han Crystals (NORMAL RESULT).** Quota: `0.010 / 0.050 tons`. Meltdown counter: `1/5`.
 
 ##### Work Session 2: Combat Work on SE-036 (The Cracked Hourglass)
-In Floor 6, Zyrak is attempting to forge a temporal pendant from **SE-C-IIIβ-036** (*The Cracked Hourglass*). To weaken the entity's chrono-dilation field, we assign Agent Kang to perform violent **Pugnahan** (Confrontation) work:
+In Floor 6, Zyrak is attempting to forge a temporal pendant from **SE-C-IIIβ-036** (*The Cracked Hourglass*). To weaken the entity's chrono-dilation field, Director Majin issues an urgent dispatch: Agent Kang is ordered to execute high-intensity **Pugnahan** (Confrontation) containment work:
 - Kang kicks open the chamber door wielding the heavy *Fury Blade*!
 - *Chamber Log:* `The sand flows sideways across the glass, defying the fall of gravity...`
 - Kang strikes the brass armature! The Hourglass retaliates with 6 Void damage ticks! Kang's *Embrace Plate* absorbs 40% of the impact.
@@ -393,7 +405,7 @@ Director Majin directs the clash:
 
 One final work session by Agent Park on the Orphaned Bell yields +0.022 tons. Quota surpassed: **0.071 / 0.050 tons!**
 
-#### 3. End-of-Day Shift Evaluation Index
+#### 3. Shift Evaluation Index & RHR Allocation
 
 ```text
 +==============================================+
@@ -416,7 +428,7 @@ One final work session by Agent Park on the Orphaned Bell yields +0.022 tons. Qu
 +==============================================+
 ```
 
-#### 4. Entity Extraction & Selection Screen
+#### 4. Well Extraction Protocol (Containment Authorization)
 
 ```text
 +==============================================+
@@ -434,14 +446,14 @@ One final work session by Agent Park on the Orphaned Bell yields +0.022 tons. Qu
 +==============================================+
 ```
 
-**Director's Tactical Analysis:**
+Director's Tactical Assessment & Containment Authorization:
 - *Choice Alpha* is *Brume* (SE-O-IIγ-007)—an atmospheric object entity. Low energy yield, primarily useful for environmental mist control.
 - *Choice Gamma* is *The Lonely Giant* (SE-C-IIIβ-105)—a high-tier emotional sponge, but prone to violent depression meltdowns.
 - *Choice Beta* is **Garden of Thorns** (SE-C-IIIγ-145). This entity is an aggressive Grudge/Pugnahan training powerhouse. It responds well to combat pruning, extracts the *Thorn Bracer* (+5% reflect damage), and will allow us to rapidly level our agents' Resilience and Resolve.
 
-We lock in **Choice Beta: SE-C-IIIγ-145 (*Garden of Thorns*)**.
+Director Majin confirms authorization: **Locking Containment Selection: SE-C-IIIγ-145 (*Garden of Thorns*)**.
 
-#### 5. M.A.W. Extraction & Gear Crafting
+#### 5. M.A.W. Synthesis & Armament Forging
 
 ```text
 +==============================================+
@@ -461,7 +473,7 @@ We lock in **Choice Beta: SE-C-IIIγ-145 (*Garden of Thorns*)**.
 +---------------------+------------------------+
 ```
 
-#### 6. Night Shift Telemetry & Nocturnal Vigil
+#### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
 At 01:20, Majin walks the catwalk above Chamber 015. Through three-inch lead glass, the Kind Healer sits motionless in the dark, its nine golden halos softly rotating in the air. 
 
@@ -489,7 +501,7 @@ In stasis ward Gamma, the nine blessed employees sleep in medically induced coma
 
 > **Mellda:** _"...Understood."_
 
-### Gameplay — Day 7: The Manager's Terminal
+### Gameplay — Day 7: Central Command Tactical Interface
 
 ```text
 +==============================================+
@@ -507,7 +519,7 @@ The external storm creates two unique gameplay modifiers:
 1. **Ambient Sorrow Influx:** All entities gain +15% work speed, but take +10% higher acoustic strain per tick.
 2. **Border Intrusion Threat:** Nomad scouts and feral sorrow beasts may test the perimeter gates.
 
-#### 1. Pre-Shift Deployment & Agent Dossiers
+#### 1. Pre-Shift Tactical Deployment & Operative Profiles
 
 We deploy our frontline units to Floor 5 to hold the southern perimeter:
 
@@ -529,7 +541,7 @@ Agent Moon is our primary tank with 52 Resilience, equipped with the *Lead Maul*
 
 We press **[BEGIN SHIFT]**.
 
-#### 2. Management Phase Walkthrough (Step-by-Step Manager Log)
+#### 2. Shift Management Execution (Live Operational Telemetry)
 
 The screens rattle with low-frequency rumble as the external Han-storm batters the facility's outer armor plates. Mellda's voice cuts through the comms:
 
@@ -596,7 +608,7 @@ Manager tactical execution:
 
 Agent Noh conducts one final pruning run on Chamber 145, pushing daily harvest to **0.068 / 0.050 tons!**
 
-#### 3. End-of-Day Shift Evaluation Index
+#### 3. Shift Evaluation Index & RHR Allocation
 
 ```text
 +==============================================+
@@ -619,7 +631,7 @@ Agent Noh conducts one final pruning run on Chamber 145, pushing daily harvest t
 +==============================================+
 ```
 
-#### 4. Entity Extraction & Selection Screen
+#### 4. Well Extraction Protocol (Containment Authorization)
 
 ```text
 +==============================================+
@@ -639,14 +651,14 @@ Agent Noh conducts one final pruning run on Chamber 145, pushing daily harvest t
 +==============================================+
 ```
 
-**Director's Tactical Analysis:**
+Director's Tactical Assessment & Containment Authorization:
 - *Choice Beta* is *The Forgotten Soldier* (SE-C-IIIβ-044)—requires delicate Viderehan timing; if an agent runs, it triggers a lethal rifle counter-attack.
 - *Choice Gamma* is *Rage Cage* (SE-C-IIIγ-120)—dangerous physical constriction hazard during containment meltdowns.
-- *Choice Alpha* is **The Memory Well** (SE-C-IIIγ-115). This is a premier HE-grade research entity. It provides tremendous observation yield, extracts the *Memory Locket* (+15% White resistance), and directly unlocks the pre-Consolihan lore spools required for Archive Lead Marjuk's upcoming story progression!
+- *Choice Alpha* is **The Memory Well** (SE-C-IIIγ-115). Classified as a Class IIIγ Sorrow Entity, it exhibits dense memory-sediment resonance. It yields high refined Han, yields the *Memory Locket* (+15% Lament resistance), and unlocks the pre-Consolihan archival records required for Archive Lead Marjuk's research trajectory.
 
-We lock in **Choice Alpha: SE-C-IIIγ-115 (*The Memory Well*)**.
+CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-115 (*The Memory Well*)**.
 
-#### 5. M.A.W. Extraction & Gear Crafting
+#### 5. M.A.W. Synthesis & Armament Forging
 
 ```text
 +==============================================+
@@ -661,7 +673,7 @@ We lock in **Choice Alpha: SE-C-IIIγ-115 (*The Memory Well*)**.
 +==============================================+
 ```
 
-#### 6. Night Shift Telemetry & Nocturnal Vigil
+#### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
 By 22:00, the storm has passed to the northwest, leaving the Desolate covered in glistening purple frost. Mellda stands on the southern parapet, her eyes glowing faintly with the golden embers of her internal vow. 
 
@@ -691,7 +703,7 @@ Beside her, Majin observes the distant torchlight of the Drift King's caravan di
 
 > **Marjuk:** _"Understood."_
 
-### Gameplay — Day 12: The Manager's Terminal
+### Gameplay — Day 12: Central Command Tactical Interface
 
 ```text
 +==============================================+
@@ -707,7 +719,7 @@ Day 12 activates Floor 3 (The Archive) under Lead Marjuk. Our primary gameplay o
 
 Floor 3 introduces **Cognitive Corrosion**: entities on this floor emit White/Lament static that drains sanity over time simply by being in the corridor! Marjuk's Attendant Aura, *Memorial Preservation*, provides a crucial 30% buffer against this environmental drain.
 
-#### 1. Pre-Shift Deployment & Agent Dossiers
+#### 1. Pre-Shift Tactical Deployment & Operative Profiles
 
 ```text
 +==============================================+
@@ -727,7 +739,7 @@ Agent Seo is our star mentalist, boasting 50 Clarity and equipped with the *Memo
 
 We press **[BEGIN SHIFT]**.
 
-#### 2. Management Phase Walkthrough (Step-by-Step Manager Log)
+#### 2. Shift Management Execution (Live Operational Telemetry)
 
 The archive corridors hum with static. Magnetic data drums spin along the walls as Marjuk monitors the magnetic read-heads:
 
@@ -798,7 +810,7 @@ Managerial tactical execution:
 
 One final quick observation session yields +0.017 tons. Daily harvest: **0.065 / 0.050 tons!**
 
-#### 3. End-of-Day Shift Evaluation Index
+#### 3. Shift Evaluation Index & RHR Allocation
 
 ```text
 +==============================================+
@@ -821,7 +833,7 @@ One final quick observation session yields +0.017 tons. Daily harvest: **0.065 /
 +==============================================+
 ```
 
-#### 4. Entity Extraction & Selection Screen
+#### 4. Well Extraction Protocol (Containment Authorization)
 
 ```text
 +==============================================+
@@ -841,14 +853,14 @@ One final quick observation session yields +0.017 tons. Daily harvest: **0.065 /
 +==============================================+
 ```
 
-**Director's Tactical Analysis:**
+Director's Tactical Assessment & Containment Authorization:
 - *Choice Beta* is *The Debt Wall* (SE-C-IIIγ-180)—a tedious Ferrehan entity that penalizes work if an agent has low Composure.
 - *Choice Gamma* is *The Sorrow Fountain* (SE-C-IIIγ-088)—excellent Lament yield, but its breach mechanics flood lower corridors with sorrow-water.
-- *Choice Alpha* is **The Hollow Saint** (SE-C-IIIγ-081). This is one of the most magnificent Lament entities in the entire encyclopedia. It produces diamond-grade Han, responds wonderfully to Flerehan communion, and extracts the *Hollow Halo* (Head slot: +8 SP, passive panic reduction aura)—the premier sanity gear needed for surviving Midnight Ordeals!
+- *Choice Alpha* is **The Hollow Saint** (SE-C-IIIγ-081). A revered Class IIIγ Sorrow Entity of sublime Lament polarity. It produces high-grade crystalline Han, responds with exceptional stability to Flerehan communion, and yields the *Hollow Halo* (Head slot: +8 SP, passive panic-dampening aura)—essential mental warding against high-tier Ordeal incursions.
 
-We lock in **Choice Alpha: SE-C-IIIγ-081 (*The Hollow Saint*)**.
+CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-081 (*The Hollow Saint*)**.
 
-#### 5. M.A.W. Extraction & Gear Crafting
+#### 5. M.A.W. Synthesis & Armament Forging
 
 ```text
 +==============================================+
@@ -863,7 +875,7 @@ We lock in **Choice Alpha: SE-C-IIIγ-081 (*The Hollow Saint*)**.
 +==============================================+
 ```
 
-#### 6. Night Shift Telemetry & Nocturnal Vigil
+#### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
 At 02:40, the Director sits in his private archive room. On the terminal glows the forbidden fragment Marjuk uncovered. Majin looks at the line: *"The Furnace burns. The Furnace always burns."* 
 
@@ -899,7 +911,7 @@ He opens the private register of the Absolvohan project. The target is 100 tons.
 
 > **Majin:** _"...This one, perhaps. Or the next."_
 
-### Gameplay — Day 17: The Manager's Terminal
+### Gameplay — Day 17: Central Command Tactical Interface
 
 ```text
 +==============================================+
@@ -916,7 +928,7 @@ Day 17 concludes Batch 1 with our first full-scale **Midnight Ordeal**. Floor 7 
 
 Our managerial objective is reaching the 0.050-ton quota while preparing our best combat squads for a multi-floor clash against a Pale-damage monstrosity.
 
-#### 1. Pre-Shift Deployment & Agent Dossiers
+#### 1. Pre-Shift Tactical Deployment & Operative Profiles
 
 Our roster has expanded to senior grade. We form our elite suppression squad:
 
@@ -939,7 +951,7 @@ Agent Hong is our premier Lament specialist, equipped with the newly extracted *
 
 We press **[BEGIN SHIFT]**.
 
-#### 2. Management Phase Walkthrough (Step-by-Step Manager Log)
+#### 2. Shift Management Execution (Live Operational Telemetry)
 
 The shift begins at a blistering pace. Ishall tracks deep-range radio emissions from the Desolate:
 
@@ -1010,7 +1022,7 @@ Managerial combat command:
 
 We slam the **[Shift Complete]** toggle!
 
-#### 3. End-of-Day Shift Evaluation Index
+#### 3. Shift Evaluation Index & RHR Allocation
 
 ```text
 +==============================================+
@@ -1033,7 +1045,7 @@ We slam the **[Shift Complete]** toggle!
 +==============================================+
 ```
 
-#### 4. Entity Extraction & Selection Screen
+#### 4. Well Extraction Protocol (Containment Authorization)
 
 ```text
 +==============================================+
@@ -1053,14 +1065,14 @@ We slam the **[Shift Complete]** toggle!
 +==============================================+
 ```
 
-**Director's Tactical Analysis:**
+Director's Tactical Assessment & Containment Authorization:
 - *Choice Beta* is *The Grieving Colossus* (SE-C-IIIγ-002)—tremendous Weight tank, but heavy movement penalties.
 - *Choice Gamma* is *The Maw* (SE-C-Iα-008)—already anchored in our facility foundation; selecting its secondary containment cell allows direct crystal siphoning.
-- *Choice Alpha* is **The Weighting Bird** (SE-C-IIIγ-032). This is the second member of the Black Forest avian triad! By adding the Weighting Bird alongside our existing Guarding Bird (SE-033), we prepare the foundation for our planned flock realization and the upcoming convergence events in Batch 2!
+- *Choice Alpha* is **The Weighting Bird** (SE-C-IIIγ-032). This is the second member of the avian triad. Containing the Weighting Bird adjacent to Guarding Bird (SE-033) advances our facility's avian containment quadrant toward complete harmonic stabilization.
 
-We lock in **Choice Alpha: SE-C-IIIγ-032 (*The Weighting Bird*)**.
+CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-032 (*The Weighting Bird*)**.
 
-#### 5. M.A.W. Extraction & Gear Crafting
+#### 5. M.A.W. Synthesis & Armament Forging
 
 ```text
 +==============================================+
@@ -1078,7 +1090,7 @@ We lock in **Choice Alpha: SE-C-IIIγ-032 (*The Weighting Bird*)**.
 
 Agent Hong equips the *Hollow Halo*, becoming our first Level V Senior Sentinel.
 
-#### 6. Night Shift Telemetry & Nocturnal Vigil
+#### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
 At 03:30, Seiyon enters the Director's command sanctuary. Majin has not slept. The holographic map shows all eight floors bathed in tranquil blue status lights. 
 

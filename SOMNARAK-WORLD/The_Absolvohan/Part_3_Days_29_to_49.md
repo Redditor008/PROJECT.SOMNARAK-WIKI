@@ -14,7 +14,7 @@ The second operational phase marks the dangerous transition from foundational co
 > **Dekan:** _"The Mother left a message. Carved into the cell door with her fingernails. It says: 'Tell the Director I understand. Tell the Director I forgive.'"_
 > **Majin:** _"..."_
 
-### Gameplay — Day 29: The Manager's Terminal
+### Gameplay — Day 29: Central Command Tactical Interface
 ```text
 +==============================================+
 | REVERIE DIRECTORATE — CENTRAL COMMAND        |
@@ -28,7 +28,7 @@ The second operational phase marks the dangerous transition from foundational co
 | 031, 033                                     |
 +==============================================+
 ```
-Welcome to Day 29. We've officially unlocked Floor 5 (Border Control) under Lead Warden Mellda. The daily quota has stepped up significantly to **0.140 tons** of pure refined Han. Our covert hydraulic ballast sits at **48.65 tons**—less than 1.4 tons away from our mid-cycle milestone. However, containment stability is getting perilous. The nocturnal breach of SE-C-IIIγ-005 (*The Smothering Mother*) proves that mental corrosion is bleeding into the agent barracks. We need to enforce strict rotation, keep Agent Park on border suppression duty, and carefully manage the acoustic strain on the bird cells.
+Shift parameters initialized for Day 29. Floor 5 (Border Control) is officially linked under Lead Warden Mellda. Target quota increases to **0.140 tons** of pure refined Han. Sub-vault ballast reserves confirm **48.650 tons** held in covert storage—1.35 tons from the mid-cycle milestone. Following last night's maternal breach of SE-C-IIIγ-005 (*The Smothering Mother*), operative rotation protocols are strictly enforced: Agent Park is stationed under Mellda's *Iron Perimeter* aura to purge psychic residue, while acoustic strain across the avian chambers is monitored continuously.
 
 #### 1. Pre-Shift Deployment & Agent Dossiers
 Here is the roster distribution across our five operational sectors. Notice that Agent Park has been moved to Floor 5 under Mellda's *Iron Perimeter* aura to scrub off the maternal corrosion:
@@ -61,7 +61,7 @@ Here is the roster distribution across our five operational sectors. Notice that
 ```
 Agent Park's SP is currently sitting at 40/58 due to last night's prolonged contact with the Mother's shawl. Floor 5's defensive aura provides a +15% physical damage reduction, which will cushion him against physical Grudge impacts while he recovers mental composure.
 
-#### 2. Management Phase Walkthrough (Step-by-Step Manager Log)
+#### 2. Shift Management Execution (Live Operational Telemetry)
 The klaxons sound as the cobalt floor lamps flare up. In the Floor 5 hallway, Mellda slams her greatshield into the flagstones with a deafening clang:
 
 ```text
@@ -71,7 +71,10 @@ The klaxons sound as the cobalt floor lamps flare up. In the Floor 5 hallway, Me
 ```
 
 ##### Work Session 1: Ferrehan Communion with SE-005 (The Mother)
-We cannot afford to ignore Chamber 005 after last night's event. Her breach counter rests at 2. We dispatch **Agent Kim**, who boasts Level IV Resilience and wears the *Mother's Shawl* suit, giving him high Lament resistance.
+Majin issues priority containment order for Chamber 005 (Breach counter: 2):
+- `[DISPATCH ORDER: Agent Kim -> Sector 2, Chamber 005 (The Mother)]`
+- `[ASSIGNED PROTOCOL: Ferrehan Containment]`
+- `[TACTICAL PROFILE: Level IV Resilience with Mother's Shawl; high Lament mitigation]`
 
 ```text
 > FEAR CHECK: Level IV Agent vs Class III Entity -> RESULT: RESOLUTE (0 SP lost).
@@ -88,7 +91,10 @@ Work Ticks:
 Containment breach counter increments from 2 to 3! +0.026 tons of pure Han deposited. Facility total: `0.026 / 0.140 tons`. Meltdown gauge: `1/5`.
 
 ##### Work Session 2: Viderehan Observation on SE-031 (The Observing Bird)
-Next, we order **Agent Hwang** into Chamber 031. *The Observing Bird* has grown agitated, its 88 eyes blinking asynchronously across the darkness.
+Majin issues observation order for Chamber 031:
+- `[DISPATCH ORDER: Agent Hwang -> Sector 2, Chamber 031 (The Observing Bird)]`
+- `[ASSIGNED PROTOCOL: Viderehan Observation]`
+- `[OBJECTIVE: Record retinal pulse sequences and calm agitation]`
 
 ```text
 > FEAR CHECK: Level IV Agent vs Class III Entity -> RESULT: RESOLUTE.
@@ -161,7 +167,7 @@ Promotions and attribute gains awarded today:
 - **Agent Kim**: +3 Composure, +2 Resolve.
 - **Agent Hwang**: Promoted to Senior Operative (Level V).
 
-#### 4. Entity Extraction & Selection Screen
+#### 4. Well Extraction Protocol (Containment Authorization)
 The extraction archive surfaces three canisters from the deep Well:
 
 ```text
@@ -181,15 +187,15 @@ The extraction archive surfaces three canisters from the deep Well:
 | table."                                      |
 +==============================================+
 ```
-**Director's Tactical Analysis:**
+Director's Tactical Assessment & Containment Authorization:
 - *Choice Beta* is *The Debt Veil* (SE-C-IIIβ-014)—it drains employee wages and induces catastrophic economic panic if mismanaged.
 - *Choice Gamma* is *The Weeping Maiden* (SE-C-IIIγ-041)—demands heavy Lament work and causes high room moisture.
 - *Choice Alpha* is **The Weighting Bird** (SE-C-IIIγ-032). This is the second bird of the Black Forest trinity! Having *The Guarding Bird* (SE-033) and *The Observing Bird* (SE-031) already in facility custody means adding the Weighting Bird brings us one step away from the legendary Sovereign Convergence. We have the high-level agents to handle its judgment scale.
 
-We lock in **Choice Alpha: SE-C-IIIγ-032 (*The Weighting Bird*)**.
+Director Majin confirms authorization: **Locking Containment Selection: SE-C-IIIγ-032 (*The Weighting Bird*)**.
 
-#### 5. M.A.W. Extraction & Gear Crafting
-We spend harvested observation points to forge new armaments:
+#### 5. M.A.W. Synthesis & Armament Forging
+Observation Yield Allocation & Armament Forging: Directorate observation points are committed to forge field-grade armaments:
 
 ```text
 +---------------------+------------------------+
@@ -211,7 +217,7 @@ We spend harvested observation points to forge new armaments:
 ```
 Agent Kim equips the *Mother's Shawl* suit and *Mother's Locket* gift, transforming him into our premier mental damage tank.
 
-#### 6. Night Shift Nocturnal Telemetry & Director's Vigil
+#### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 At 23:45, the facility transitions to amber night lighting. Drainage pumps cycle 18,000 liters of acoustic dampening brine through Floor 5's perimeter trenches. Director Majin accesses his private console:
 
 > _"Day 29. The Mother called Agent Park by his deceased sister's pet name. There are no records of that name anywhere in the Directorate's public files—only in the sealed pre-convergence census buried in Floor 8. The entities do not just remember their own sorrow; they remember ours. Hydraulic ballast stands at 48.79 tons. The halfway mark is within reach."_
@@ -233,7 +239,7 @@ At 23:45, the facility transitions to amber night lighting. Drainage pumps cycle
 > **Zyrak:** _"Gel won't stop it forever, Director. They want to be whole. Everything in this place wants to be whole."_
 > **Majin:** _"Not yet."_
 
-### Gameplay — Day 31: The Manager's Terminal
+### Gameplay — Day 31: Central Command Tactical Interface
 ```text
 +==============================================+
 | REVERIE DIRECTORATE — CENTRAL COMMAND        |
@@ -246,10 +252,10 @@ At 23:45, the facility transitions to amber night lighting. Drainage pumps cycle
 | 033, 042                                     |
 +==============================================+
 ```
-Welcome to Day 31. This is arguably the tensest management shift of Batch 2. With all Three Birds in custody (**SE-031 Observing**, **SE-032 Weighting**, **SE-033 Guarding**), an invisible mechanic activates: **The Black Forest Resonance**. If the acoustic strain on any bird's chamber reaches 100%, its breach countdown ticks twice as fast, and an escape by any one bird triggers an immediate sympathetic breach in the other two, summoning the terrifying sovereign amalgamation **SE-C-IIIγ-034** (*The Sovereign Convergence* / Apocalypse Bird)!
+Shift parameters initialized for Day 31. Operational tension reaches sovereign-tier levels across Floors 2 and 3. With all Three Birds in custody (**SE-031 Observing**, **SE-032 Weighting**, **SE-033 Guarding**), **The Black Forest Resonance** protocol is actively tracked. If acoustic strain on any bird cell hits 100%, overload timers accelerate at double rate, and an uncontained breach in any single cell risks triggering a sympathetic triad rupture to manifest **SE-C-IIIγ-034** (*The Sovereign Convergence*). Daily quota is locked at **0.155 tons**.
 
 #### 1. Pre-Shift Deployment & Agent Dossiers
-We assign our highest-ranking specialists directly to the Three Birds' containment wing on Floor 2 and 3:
+Tactical Deployment Directive: Senior containment specialists are deployed directly to the Three Birds' containment wing on Floors 2 and 3:
 
 ```text
 +---------------------+------------------------+
@@ -278,7 +284,7 @@ We assign our highest-ranking specialists directly to the Three Birds' containme
 ```
 Agent Park has returned to Floor 2, fully refreshed and equipped with the *Weighting Scales* mantle to neutralize Grudge clashing from the Weighting Bird.
 
-#### 2. Management Phase Walkthrough (Step-by-Step Manager Log)
+#### 2. Shift Management Execution (Live Operational Telemetry)
 The facility lights thrum at high pitch. Down in Floor 2, the corridor between Chambers 031, 032, and 033 is unnervingly quiet:
 
 ```text
@@ -287,7 +293,10 @@ The facility lights thrum at high pitch. Down in Floor 2, the corridor between C
 ```
 
 ##### Work Session 1: Flerehan Work on SE-032 (The Weighting Bird)
-We send **Agent Park** to perform Flerehan work on *The Weighting Bird*. Its judgment scale must be balanced with calm mental posture.
+Majin issues delicate balance dispatch:
+- `[DISPATCH ORDER: Agent Park -> Sector 2, Chamber 032 (The Weighting Bird)]`
+- `[ASSIGNED PROTOCOL: Flerehan Communion]`
+- `[OBJECTIVE: Balance judgment scale with disciplined emotional posture]`
 
 ```text
 > FEAR CHECK: Level IV Agent vs Class III Entity -> RESULT: RESOLUTE.
@@ -363,7 +372,7 @@ Agent attribute upgrades awarded:
 - **Agent Song**: +4 Resilience, +3 Resolve (Promoted to Level IV).
 - **Agent Kim**: +3 Resilience, +2 Composure.
 
-#### 4. Entity Extraction & Selection Screen
+#### 4. Well Extraction Protocol (Containment Authorization)
 ```text
 +==============================================+
 | EXTRACTION ARCHIVE: SELECT NEXT COMPANION    |
@@ -381,14 +390,14 @@ Agent attribute upgrades awarded:
 | employee recalls a forgotten childhood vow." |
 +==============================================+
 ```
-**Director's Tactical Analysis:**
+Director's Tactical Assessment & Containment Authorization:
 - *Choice Beta* is *The Mask of Joy* (SE-C-IIIγ-051)—a dangerous mental parasite that latches onto agents and drives them into manic frenzy.
 - *Choice Gamma* is *The Debt Clock* (SE-C-IIIβ-019)—requires strict timekeeping or it accelerates aging across an entire floor.
 - *Choice Alpha* is **The Kind Healer** (SE-C-IIIβ-015). To anyone familiar with facility containment doctrine, this entity represents the supreme double-edged sword: it offers phenomenal healing and yields unmatched Sovereign-grade M.A.W. equipment, BUT it maintains a permanent blessing clock. If twelve employees receive its baptismal halo, the Twelfth Apostle triggers a facility-wide doomsday breach! We possess the discipline to control its blessing count while extracting its god-tier armaments.
 
-We lock in **Choice Alpha: SE-C-IIIβ-015 (*The Kind Healer*)**.
+Director Majin confirms authorization: **Locking Containment Selection: SE-C-IIIβ-015 (*The Kind Healer*)**.
 
-#### 5. M.A.W. Extraction & Gear Crafting
+#### 5. M.A.W. Synthesis & Armament Forging
 ```text
 +---------------------+------------------------+
 | ITEM FORGED         | SLOT / PROPERTIES /    |
@@ -409,7 +418,7 @@ We lock in **Choice Alpha: SE-C-IIIβ-015 (*The Kind Healer*)**.
 ```
 Agent Park dons the *Judgment Scales Suit* and equips the *Guarding Feather*, giving him ironclad resistance against physical and mental damage.
 
-#### 6. Night Shift Nocturnal Telemetry & Director's Vigil
+#### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 At midnight, the acoustic monitors capture the eerie tripartite harmony between Chambers 031, 032, and 033. Zyrak inspects the hydraulic separator lances, welding fresh molybdenum bracing onto the divider walls:
 
 > _"Day 31. Zyrak held the line today with his own hands. If those three birds had touched, we would have been fighting the Sovereign Convergence before midday. Hydraulic ballast stands at 48.98 tons. Two more days of solid harvesting will take us past the 49-ton threshold. The Kind Healer arrives tomorrow. God help our clerks."_
@@ -430,7 +439,7 @@ At midnight, the acoustic monitors capture the eerie tripartite harmony between 
 > **Majin:** _"If it reaches eleven... you don't use the shock grid. You seal the floor."_
 > **Ayshuk:** _"...Understood."_
 
-### Gameplay — Day 36: The Manager's Terminal
+### Gameplay — Day 36: Central Command Tactical Interface
 ```text
 +==============================================+
 | REVERIE DIRECTORATE — CENTRAL COMMAND        |
@@ -444,7 +453,7 @@ At midnight, the acoustic monitors capture the eerie tripartite harmony between 
 | 032, 033                                     |
 +==============================================+
 ```
-Welcome to Day 36. This is the apex of high-risk operational management. **SE-C-IIIβ-015** (*The Kind Healer*) currently has **9 agents baptized** with its angelic halo. If that counter reaches 12, the 12th Apostle transforms into the White Sovereign, and the remaining 11 Apostles morph into winged executioners that execute everyone on their assigned floors. We must extract 0.170 tons of Han today without allowing a single additional baptism!
+Shift parameters initialized for Day 36. Sovereign hazard alert in effect. **SE-C-IIIβ-015** (*The Kind Healer*) stands at **9/12 baptisms**. Should the counter reach twelve, the final apostle triggers the apocalyptic White Sovereign realization, mutating all prior baptized personnel into winged executioners. Operational directive: extract **0.170 tons** of pure Han using strictly marked operatives to prevent any advancement of the baptismal counter.
 
 #### 1. Pre-Shift Deployment & Agent Dossiers
 Only agents who ALREADY carry the baptismal halo are permitted to enter Chamber 015 today! Sending an unblessed agent guarantees the 10th baptism:
@@ -477,7 +486,7 @@ Only agents who ALREADY carry the baptismal halo are permitted to enter Chamber 
 ```
 Agents Kim, Park, and Hwang are marked with `(B)` denoting active baptism halos. They receive +10% to all stats from the halo, and because they are already marked, working with the Healer will not advance the counter!
 
-#### 2. Management Phase Walkthrough (Step-by-Step Manager Log)
+#### 2. Shift Management Execution (Live Operational Telemetry)
 In Floor 4's research corridor, the air smells of myrrh and ozone. The halo floating above Agent Hwang's brow emits a soft golden radiance:
 
 ```text
@@ -486,7 +495,10 @@ In Floor 4's research corridor, the air smells of myrrh and ozone. The halo floa
 ```
 
 ##### Work Session 1: Flerehan Work on SE-015 (The Kind Healer)
-We send **Agent Kim** (already carrying Halo #2) into Chamber 015 for Flerehan communion. The entity sits upon its alabaster throne, draped in white linen:
+Majin issues vetted operative dispatch:
+- `[DISPATCH ORDER: Agent Kim (Marked Apostle II) -> Sector 4, Chamber 015]`
+- `[ASSIGNED PROTOCOL: Flerehan Communion]`
+- `[DIRECTIVE: Pre-existing baptism token prevents counter advancement]`
 
 ```text
 > FEAR CHECK: Level V Agent vs Sovereign Class Entity -> RESULT: OVERCOMING (0 SP lost).
@@ -562,7 +574,7 @@ Promotions and attribute gains awarded:
 - **Agent Park**: +3 Clarity, +3 Resolve.
 - **Agent Hwang**: +4 Clarity (Clarity 82 achieved).
 
-#### 4. Entity Extraction & Selection Screen
+#### 4. Well Extraction Protocol (Containment Authorization)
 ```text
 +==============================================+
 | EXTRACTION ARCHIVE: SELECT NEXT COMPANION    |
@@ -582,14 +594,14 @@ Promotions and attribute gains awarded:
 | cogs."                                       |
 +==============================================+
 ```
-**Director's Tactical Analysis:**
+Director's Tactical Assessment & Containment Authorization:
 - *Choice Alpha* is *The Weeping Prince* (SE-C-IIIγ-045)—inflicts devastating mental corrosion if an agent with high pride enters.
 - *Choice Gamma* is *The Broken Clock* (SE-C-IIIβ-044)—manipulates floor speed and causes temporal lag.
 - *Choice Beta* is **The Iron Statue** (SE-C-IIIγ-055). This is an exceptionally dependable Class III Pugnahan training entity. It teaches high-level Resilience and Resolve, stays completely docile as long as corridor lighting remains above 50 lux, and yields excellent physical armor for our border watch vanguard.
 
-We lock in **Choice Beta: SE-C-IIIγ-055 (*The Iron Statue*)**.
+Director Majin confirms authorization: **Locking Containment Selection: SE-C-IIIγ-055 (*The Iron Statue*)**.
 
-#### 5. M.A.W. Extraction & Gear Crafting
+#### 5. M.A.W. Synthesis & Armament Forging
 ```text
 +---------------------+------------------------+
 | ITEM FORGED         | SLOT / PROPERTIES /    |
@@ -611,7 +623,7 @@ We lock in **Choice Beta: SE-C-IIIγ-055 (*The Iron Statue*)**.
 ```
 Agent Hwang equips the *Apostle's Linen Suit* and *Blessed Scalpel*, turning him into our most devastating combat operative.
 
-#### 6. Night Shift Nocturnal Telemetry & Director's Vigil
+#### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 At 01:15, Ayshuk transmits the neural scan telemetry of Researcher Bae. The residual resonance from the Healer's touch has subsided, but her optic nerves still register faint golden micro-fractures:
 
 > _"Day 36. We survived the Healer's tenth call. If Ayshuk had hesitated for half a second with that shock grid, we would have had ten Apostles in our corridors and no way to shut them down. Hydraulic ballast stands at 49.34 tons. Only 0.66 tons remain until we hit the halfway mark of the Absolvohan project."_
@@ -635,7 +647,7 @@ At 01:15, Ayshuk transmits the neural scan telemetry of Researcher Bae. The resi
 > **Mellda:** _"...You're gambling with all of us, Majin."_
 > **Majin:** _"I've gambled 1,777 times, Mellda. This time I'm cheating."_
 
-### Gameplay — Day 41: The Manager's Terminal
+### Gameplay — Day 41: Central Command Tactical Interface
 ```text
 +==============================================+
 | REVERIE DIRECTORATE — CENTRAL COMMAND        |
@@ -648,7 +660,7 @@ At 01:15, Ayshuk transmits the neural scan telemetry of Researcher Bae. The resi
 | 032, 055                                     |
 +==============================================+
 ```
-Welcome to Day 41. We've officially unlocked Floor 6 (Extraction Lead) under Master Smith Zyrak! The daily quota is now an immense **0.190 tons** of refined Han. Outside our reinforced concrete perimeter, the seismic pulses of the ancient furnace Cheonbulok are sending micro-tremors through our hydraulic ballast lines. Containment cells are subject to sudden acoustic pressure drops, and our agents must operate with surgical precision.
+Shift parameters initialized for Day 41. Floor 6 (Extraction Lead) is officially synchronized under Master Smith Zyrak. Daily quota advances to **0.190 tons** of refined Han. Outside the perimeter, seismic pulses from the subterranean furnace Cheonbulok induce hydraulic micro-tremors along the ballast lines. Zyrak's *Forge Resonance* aura is online, boosting extraction yield by +10% per successful work check.
 
 #### 1. Pre-Shift Deployment & Agent Dossiers
 We now have six floors operational, with a veteran squad positioned across Floors 4, 5, and 6:
@@ -684,7 +696,7 @@ We now have six floors operational, with a veteran squad positioned across Floor
 ```
 Zyrak's *Forge Resonance* aura increases our Han extraction yield by +10% per successful work check, allowing us to hit our massive 0.190-ton quota much faster before high meltdown levels accumulate.
 
-#### 2. Management Phase Walkthrough (Step-by-Step Manager Log)
+#### 2. Shift Management Execution (Live Operational Telemetry)
 The facility shakes with a low, rumbling seismic vibration. In Floor 6's forge corridor, molten Han gleams in the crucible channels:
 
 ```text
@@ -693,7 +705,10 @@ The facility shakes with a low, rumbling seismic vibration. In Floor 6's forge c
 ```
 
 ##### Work Session 1: Pugnahan Combat Work on SE-055 (The Iron Statue)
-We dispatch **Agent Bae** to perform Pugnahan combat work on our new companion **SE-C-IIIγ-055** (*The Iron Statue*). The entity stands 12 feet tall in the center of Chamber 055, carved from unyielding black meteoric iron.
+Majin issues heavy combat dispatch:
+- `[DISPATCH ORDER: Agent Bae -> Sector 5, Chamber 055 (The Iron Statue)]`
+- `[ASSIGNED PROTOCOL: Pugnahan Confrontation]`
+- `[OBJECTIVE: Engage meteoric entity in direct physical clash testing endurance]`
 
 ```text
 > FEAR CHECK: Level IV Agent vs Class III Entity -> RESULT: RESOLUTE.
@@ -766,7 +781,7 @@ Promotions and attribute gains awarded:
 - **Agent Song**: +4 Clarity, +3 Composure.
 - **Agent Park**: +3 Resilience (Resilience 82 achieved).
 
-#### 4. Entity Extraction & Selection Screen
+#### 4. Well Extraction Protocol (Containment Authorization)
 ```text
 +==============================================+
 | EXTRACTION ARCHIVE: SELECT NEXT COMPANION    |
@@ -783,14 +798,14 @@ Promotions and attribute gains awarded:
 | of a thousand executed Before-Time miners."  |
 +==============================================+
 ```
-**Director's Tactical Analysis:**
+Director's Tactical Assessment & Containment Authorization:
 - *Choice Alpha* is *The Debtor's Cistern* (SE-C-IIIγ-061)—siphons agent stats permanently on work failures.
 - *Choice Gamma* is *The Rage Cage* (SE-C-IIIβ-120)—deals devastating Grudge damage and ignites hallway fires.
 - *Choice Beta* is **The Sorrow Fountain** (SE-C-IIIγ-088). This is a premier Class III Lament entity. It yields immense quantities of liquid Han, trains Composure and Clarity to maximum caps, and synthesizes the exquisite *Cherub's Tear* mantle gift which boosts SP regeneration facility-wide!
 
-We lock in **Choice Beta: SE-C-IIIγ-088 (*The Sorrow Fountain*)**.
+Director Majin confirms authorization: **Locking Containment Selection: SE-C-IIIγ-088 (*The Sorrow Fountain*)**.
 
-#### 5. M.A.W. Extraction & Gear Crafting
+#### 5. M.A.W. Synthesis & Armament Forging
 ```text
 +---------------------+------------------------+
 | ITEM FORGED         | SLOT / PROPERTIES /    |
@@ -812,7 +827,7 @@ We lock in **Choice Beta: SE-C-IIIγ-088 (*The Sorrow Fountain*)**.
 ```
 Agent Bae equips the *Iron Aegis Plate* and *Meteoric Bracer*, turning her into a frontline juggernaut.
 
-#### 6. Night Shift Nocturnal Telemetry & Director's Vigil
+#### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 At 02:00, the seismic sensors record a massive subterranean shockwave traveling along the fault line from Cheonbulok. Mellda stands on the southern parapet, gazing out over the mist-covered plains:
 
 > _"Day 41. The earth is vibrating at 12 Hz. It matches the heartbeat of the colossus entombed in the mountain. Hydraulic ballast stands at 49.62 tons. In eight days, we will cross 50.0 tons—halfway to the 100-ton threshold needed to fire the Absolvohan. For 1,777 cycles, we never broke 48 tons. We are writing new history with every tick."_
@@ -836,7 +851,7 @@ At 02:00, the seismic sensors record a massive subterranean shockwave traveling 
 > **Marjuk:** _"Majin... what happens when the door opens?"_
 > **Majin:** _"We find out who built this cage."_
 
-### Gameplay — Day 49: The Manager's Terminal
+### Gameplay — Day 49: Central Command Tactical Interface
 ```text
 +==============================================+
 | REVERIE DIRECTORATE — CENTRAL COMMAND        |
@@ -850,7 +865,7 @@ At 02:00, the seismic sensors record a massive subterranean shockwave traveling 
 | 055, 088                                     |
 +==============================================+
 ```
-Welcome to Day 49—the grand climax of Batch 2! Our daily energy quota is established at **0.220 tons** of pure crystallized Han. Our hidden hydraulic ballast sits at **49.80 tons**. Harvesting 0.220 tons today will push our reserves to **50.02 tons**, unlocking the 50% milestone of the Absolvohan project! Seven floors are active, seven lead auras are online, and the entire facility operates at maximum operational tension.
+Shift parameters initialized for Day 49. The facility stands on the precipice of the 50-ton milestone. Daily quota is locked at **0.220 tons** of pure crystallized Han. Covert hydraulic ballast meters read **49.800 tons**. Harvesting the daily quota will propel ballast reserves past **50.02 tons**, achieving 50.0% completion of the Absolvohan project. Seven operational floors and seven attendant auras are active simultaneously.
 
 #### 1. Pre-Shift Deployment & Agent Dossiers
 Here is our elite deployment roster across all primary containment hubs:
@@ -887,7 +902,7 @@ Here is our elite deployment roster across all primary containment hubs:
 ```
 Every agent deployed today is a battle-hardened veteran equipped with Class III or Sovereign M.A.W. gear. Zero rookie personnel are allowed on the active floors.
 
-#### 2. Management Phase Walkthrough (Step-by-Step Manager Log)
+#### 2. Shift Management Execution (Live Operational Telemetry)
 The command terminal hums with unprecedented computational power. On Floor 1, Seiyon's holographic interface glows deep cyan:
 
 ```text
@@ -896,7 +911,10 @@ The command terminal hums with unprecedented computational power. On Floor 1, Se
 ```
 
 ##### Work Session 1: Flerehan Work on SE-088 (The Sorrow Fountain)
-We send **Agent Song** to perform Flerehan communion on our newly contained companion **SE-C-IIIγ-088** (*The Sorrow Fountain*). The fountain basin ripples with luminescent cerulean tears:
+Majin issues high-yield extraction dispatch:
+- `[DISPATCH ORDER: Agent Song -> Sector 3, Chamber 088 (The Sorrow Fountain)]`
+- `[ASSIGNED PROTOCOL: Flerehan Communion]`
+- `[OBJECTIVE: Harmonize with cerulean fluid sorrow using silver chalice]`
 
 ```text
 > FEAR CHECK: Level IV Agent vs Class III Entity -> RESULT: RESOLUTE.
@@ -909,7 +927,10 @@ Work ticks:
 Facility energy jumps to `0.038 / 0.220 tons`. Meltdown counter: `1/7`.
 
 ##### Work Session 2: Ferrehan Work on SE-015 (The Kind Healer)
-Next, **Agent Kim** enters Chamber 015 for Ferrehan maintenance. With his Level V Resilience and existing baptism halo, Kim works with absolute composure, scoring another 12/12 Perfect Work Result! +0.045 tons harvested! Facility total reaches `0.083 / 0.220 tons`.
+Majin authorizes secondary high-yield dispatch:
+- `[DISPATCH ORDER: Agent Kim -> Sector 4, Chamber 015 (The Kind Healer)]`
+- `[ASSIGNED PROTOCOL: Ferrehan Containment]`
+- `Operative Kim executes 12/12 flawless containment ticks! +0.045t pure Han harvested.`
 
 ##### Crisis Event: Acoustic Strain Meltdown Level VII — The Facility Shudder
 At work check 14, the acoustic monitoring matrix flashes crimson across all seven operational sectors:
@@ -971,7 +992,7 @@ Marjuk anchors the Archive stasis field while Agent Hwang and Agent Park deploy 
 ```
 Milestone achieved: **Hydraulic Ballast Reserves have reached 50.038 tons!** Exactly 50.038% of the 100-ton Absolvohan project is now stored safely within the facility's secret sub-vaults!
 
-#### 4. Entity Extraction & Selection Screen
+#### 4. Well Extraction Protocol (Containment Authorization)
 ```text
 +==============================================+
 | EXTRACTION ARCHIVE: SELECT NEXT COMPANION    |
@@ -988,14 +1009,14 @@ Milestone achieved: **Hydraulic Ballast Reserves have reached 50.038 tons!** Exa
 | of forgotten debtors glow like phosphorus."  |
 +==============================================+
 ```
-**Director's Tactical Analysis:**
+Director's Tactical Assessment & Containment Authorization:
 - *Choice Alpha* is *The Dancing Chains* (SE-C-IIIγ-102)—causes rhythmic physical damage across entire hallways.
 - *Choice Gamma* is *The Debt Wall* (SE-C-IIIβ-180)—demands constant physical tribute.
 - *Choice Beta* is **The Memory Well** (SE-C-IIIγ-115). This is the key archival entity needed for Marjuk's Floor 3 research. It holds uncorrupted Before-Time historical echoes, trains Clarity and Composure to maximum theoretical thresholds, and produces the legendary *Reflecting Glass* crown gift!
 
-We lock in **Choice Beta: SE-C-IIIγ-115 (*The Memory Well*)**.
+Director Majin confirms authorization: **Locking Containment Selection: SE-C-IIIγ-115 (*The Memory Well*)**.
 
-#### 5. M.A.W. Extraction & Gear Crafting
+#### 5. M.A.W. Synthesis & Armament Forging
 ```text
 +---------------------+------------------------+
 | ITEM FORGED         | SLOT / PROPERTIES /    |
@@ -1017,7 +1038,7 @@ We lock in **Choice Beta: SE-C-IIIγ-115 (*The Memory Well*)**.
 ```
 Agent Song equips the *Cherub's Sorrow Robe* and *Fountain Siphon Bow*, establishing her as our supreme mental restoration and ranged support sniper.
 
-#### 6. Night Shift Nocturnal Telemetry & Director's Vigil
+#### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 At 02:45, Director Majin descends alone to Floor 8. In the subterranean silence, the frost on the Final Door's hinges glistens in the beam of his hand-lamp. Exactly one inch of black iron around the central keyhole has thawed into warm, dripping dew:
 
 > _"Day 49. Fifty tons. In 1,777 previous cycles, this facility never held more than 48.2 tons of Han before the loop collapsed and reset our minds. Today, the ballast holds 50.038 tons. Halfway there. The door whispered 'Racham'—mercy. But we will not ask for mercy from whatever lies beyond that threshold. When the day comes, we will take it."_

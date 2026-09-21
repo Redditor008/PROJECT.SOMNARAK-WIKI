@@ -60,7 +60,7 @@ _A long pause. Seiyon's holographic form shifts, the amber light of her interfac
 
 ---
 
-### Gameplay — Day 0: The Manager's Terminal
+### Gameplay — Day 0: Central Command Tactical Interface
 
 ```text
 +==============================================+
@@ -74,11 +74,13 @@ _A long pause. Seiyon's holographic form shifts, the amber light of her interfac
 +==============================================+
 ```
 
-Welcome to the Management Console. Anyone who has sat in the Director's chair knows the cold dread that accompanies the opening hum of the terminal. We're staring at the deployment screen of Floor 1 (Central Command), and the facility is running on bare minimum starter protocols.
+The central tactical interface initializes with a low hydraulic hum. Across the vertical spine of Floor 1 (Central Command), pneumatic conduits pressurize with refined Han lubricant. Target quota for Day 0 is locked at **0.050 tons** of pure crystallized Han. In the deep sub-vaults, the hydraulic ballast meters verify **47.300 tons** preserved from previous convergence cycles.
 
-#### 1. Pre-Shift Deployment & Agent Dossiers
+Operational parameters: two primary containment chambers active—**SE-C-IIIγ-001** (*The Orphaned Bell*) and **SE-C-IIIγ-005** (*The Smothering Mother*). Tactical directive: maintain zero personnel casualties, complete foundational calibration runs, and benchmark the floor's acoustic bleed valves against Level I strain thresholds.
 
-Before hitting the **[Begin Shift]** toggle, let's inspect our starting roster. The Directorate has assigned us two standard agents to begin Cycle 1,778. Let's pull up their personnel files:
+#### 1. Pre-Shift Tactical Deployment & Operative Profiles
+
+Director Majin reviews the tactical dossiers for the initial Floor 1 deployment:
 
 ```text
 +==============================================+
@@ -148,31 +150,28 @@ Agent Park is balanced with an edge in Clarity (Lament stability), which makes h
 
 Both are armed with standard-issue Directorate stun batons (deals 2–4 Lament damage—crucial for knocking sense back into panicked agents) and basic tunics that provide flat 1.0 multiplier across all damage types (meaning zero damage resistance).
 
-We assign Park and Kim to Floor 1, verify Seiyon's synchronization link, and press **[BEGIN SHIFT]**.
+Director Majin verifies Floor 1's resonance link with Secretary Seiyon and initiates the operational cycle: **[SHIFT EXECUTION COMMENCED]**.
 
-#### 2. Management Phase Walkthrough (Step-by-Step Manager Log)
+#### 2. Shift Management Execution (Live Operational Telemetry)
 
-The screen transitions with a low hydraulic thump. The management interface expands:
-- In the top-left, the **Energy Gauge** shows `0.000 / 0.050 tons`.
-- Just below it sits the **Acoustic Strain Meltdown Gauge** (starts at 0/3 works before Meltdown Level I triggers).
-- In the top-right, Seiyon's active mandate blinks: `Mandate 01: Complete 3 Work Sessions without Casualties`.
-- In the center of Floor 1's main room, Agent Park and Agent Kim are standing beside the regenerator lamp.
+The central command HUD expands across the primary display array:
+- **Primary Energy Gauge:** `0.000 / 0.050 tons` (Target Quota).
+- **Acoustic Strain Meltdown Meter:** `0/3` active cycles before Level I Overload.
+- **Directorate Mandate:** `Mandate 01: Complete 3 Containment Protocols with Zero Fatalities`.
+- **Floor 1 Main Assembly:** Operatives stationed beneath the regenerative cobalt emitters.
 
 ```text
 > Agent Park: "Another cycle... why does the tea in the breakroom always taste like copper?"
 > Agent Kim: "Don't think about it, Park. Just keep your eyes on the Sorrow Gauge."
 ```
 
-In the adjacent containment corridor sits our first entity: **SE-C-IIIγ-001** (*The Orphaned Bell*), a bronze bell suspended in mid-air, weeping black grease from its rim.
+In Sector 1 Containment Corridor East, telemetry flags **SE-C-IIIγ-001** (*The Orphaned Bell*), an unmoored bronze bell weeping dark sorrow residue from its rim.
 
-##### Work Session 1: Flerehan Work on SE-001
-We click Chamber 001. The work selection interface surfaces:
-- **Flerehan** (Tears / Lament): Comforting communion, cleansing grease.
-- **Pugnahan** (Confrontation / Grudge): Striking the clapper forcefully.
-- **Viderehan** (Observation / Void): Monitoring acoustic vibrations.
-- **Ferrehan** (Endurance / Weight): Physically holding the vibrating rim.
-
-Since we have zero observation data on this entity in Cycle 1,778, success rates show `[UNCERTAIN]`. We select **Flerehan** work and assign Agent Park.
+##### Operational Protocol 01: Flerehan Communion — Chamber 001
+Director Majin issues the initial containment dispatch:
+- `[DISPATCH ORDER: Agent Park -> Sector 1, Chamber 001]`
+- `[ASSIGNED PROTOCOL: Flerehan Communion (Lamentation / Empathetic Resonance)]`
+- `[OBJECTIVE: Cleanse weeping grease and establish baseline acoustic resonance]`
 
 ```text
 > Seiyon: "Agent Park entering Containment Chamber 001."
@@ -187,12 +186,15 @@ Park enters the chamber. The heavy steel door slides shut with a pneumatic hiss.
 - Tick 4–8: 4 Successes, 1 Failure.
 - **Final Result: 6/8 Positive Han Crystals (NORMAL WORK RESULT).**
 
-Park exits the chamber breathing heavily, carrying 0.015 tons of raw crystallized Han. He steps back into the Floor 1 main room, where the green regenerator lamp restores his 3 lost SP within four seconds.
+Operative Park exits Chamber 001 under positive atmospheric venting, depositing 0.015 tons of raw crystallized Han into the primary conduit. The assembly room's regenerative emitter restores his 3 expended SP within four seconds.
 
-The facility energy counter updates: `0.015 / 0.050 tons`. Acoustic Strain counter advances to `1/3`.
+HUD telemetry updates: Energy `0.015 / 0.050 tons`. Acoustic Strain counter advances to `1/3`.
 
-##### Work Session 2: Ferrehan Work on SE-005
-Our second chamber holds **SE-C-IIIγ-005** (*The Smothering Mother*). We click the chamber, select **Ferrehan** (Endurance) work to test physical resilience, and dispatch Agent Kim.
+##### Operational Protocol 02: Ferrehan Containment — Chamber 005
+Director Majin flags Chamber 005 housing **SE-C-IIIγ-005** (*The Smothering Mother*):
+- `[DISPATCH ORDER: Agent Kim -> Sector 1, Chamber 005]`
+- `[ASSIGNED PROTOCOL: Ferrehan Containment (Physical Endurance / Burden)]`
+- `[OBJECTIVE: Stabilize maternal shroud and endure physical compression]`
 
 ```text
 > FEAR CHECK: Level I Agent vs Class III Entity -> RESULT: FEAR CHECK PASSED (CALM).
@@ -224,7 +226,11 @@ A high-pitched siren echoes through the facility as the screen edges tint deep r
 
 A red digital timer appears above Chamber 001, counting down from 45.0 seconds! If that timer reaches 0.0, the Orphaned Bell will breach containment, tolling a catastrophic 110dB death chime that will rupture the eardrums of every clerk on the floor!
 
-Park is fully rested in the main room. We click Chamber 001 immediately, select **Flerehan** work, and dispatch Park on a run. He crosses the corridor and enters the chamber at 38.2 seconds remaining on the clock. The meltdown timer pauses!
+Agent Park is fully restored in the central assembly room. Majin issues an emergency tactical dispatch override:
+- `[EMERGENCY DISPATCH: Agent Park -> Chamber 001]`
+- `[ASSIGNED PROTOCOL: Flerehan Communion (Meltdown Intervention)]`
+
+Park sprints across Sector 1, entering the airlock with 38.2 seconds remaining on the countdown. The meltdown timer halts instantly!
 
 During the work, Park nails 7/8 Positive Han crystals! The Meltdown is successfully neutralized! 
 
@@ -257,13 +263,11 @@ Director Majin intervenes with tactical command:
 2. **Panic Recovery:** Agent Park dashes in, swinging his standard stun baton (Lament damage) directly into the catatonic clerk. The gentle cognitive shock restores the clerk's sanity bar to full!
 3. **Clash Standoff:** Agent Kim charges with his baton, drawing the entity's attention while Park flanks from Range Band 3. With coordinated strikes, the entity's spectral matrix fractures and dissolves into harmless mineral sparkles!
 
-With the Ordeal suppressed, Agent Kim executes one final brief Viderehan observation on Chamber 001, yielding +0.005 tons. The quota is reached: **0.053 / 0.050 tons!** 
+With the Ordeal suppressed, Agent Kim completes one final calibration pass on Chamber 001, extracting +0.005 tons. Target quota reached: **0.053 / 0.050 tons!**
 
-Seiyon prompts: `Energy Quota Achieved. Press [Shift Complete] to conclude the day.`
+Secretary Seiyon announces: `Daily Energy Quota Realized. Locking active containment bulkheads. Concluding Day 0 shift.`
 
-#### 3. End-of-Day Shift Evaluation Index
-
-We click **[Shift Complete]**. The screen dims to cobalt as the daily performance review rolls:
+#### 3. Shift Evaluation Index & RHR Allocation
 
 ```text
 +==============================================+
@@ -287,9 +291,9 @@ We click **[Shift Complete]**. The screen dims to cobalt as the daily performanc
 
 Under Missions Cleared, Seiyon's Mandate 01 is marked `[COMPLETE]`. Both agents received meaningful stat boosts from their maiden shift.
 
-#### 4. Entity Extraction & Selection Screen
+#### 4. Well Extraction Protocol (Containment Authorization)
 
-Now we enter the Abnormality/Entity Extraction chamber. The terminal presents three encrypted extraction tubes, each accompanied by an enigmatic catalog excerpt:
+Director Majin reviews the tripartite extraction telemetry rising from the subterranean Well:
 
 ```text
 +==============================================+
@@ -314,11 +318,11 @@ Now we enter the Abnormality/Entity Extraction chamber. The terminal presents th
 - *Choice Gamma* is *The Debt Eater* (SE-C-IIIβ-014)—a Void-affinity object entity. It can eat financial penalties, but if mishandled, it consumes agent sanity permanently.
 - *Choice Alpha* is **The Guarding Bird** (SE-C-IIIγ-033). This is one of the foundational Three Birds of the Black Forest triad. It responds favorably to Viderehan observation, produces excellent high-tier M.A.W. defensive gear (*Guardian Veil*), and will be essential for orchestrating our planned Hope Transformation convergence later in the cycle!
 
-We lock in **Choice Alpha: SE-C-IIIγ-033 (*The Guarding Bird*)**.
+Director Majin confirms authorization: **Locking Containment Selection: SE-C-IIIγ-033 (*The Guarding Bird*)**.
 
-#### 5. M.A.W. Extraction & Gear Crafting
+#### 5. M.A.W. Synthesis & Armament Forging
 
-We open the M.A.W. Extraction terminal and spend our accumulated observation points from the Orphaned Bell:
+Observation points accumulated from Chamber 001's resonance logs are committed to the extraction forge:
 
 ```text
 +==============================================+
@@ -342,7 +346,7 @@ We open the M.A.W. Extraction terminal and spend our accumulated observation poi
 
 Agent Park is immediately equipped with the *Lament Shroud* and *Lament Requiem*, transforming him from a vulnerable rookie into a resilient containment specialist.
 
-#### 6. Night Shift Telemetry & Nocturnal Vigil
+#### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
 At 23:45, the facility shifts to nocturnal standby. The central lamps dim from cobalt to amber. In the subterranean observation bay of Floor 2, Dekan stands watching the black tar of SE-C-Iα-008 (*The Maw*).
 
