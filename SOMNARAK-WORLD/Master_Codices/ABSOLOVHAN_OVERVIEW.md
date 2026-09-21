@@ -730,11 +730,11 @@ If structural reality ballast drops to 0.0%, or if the Director's command sanctu
 
 ---
 
-## VIII. The Fivefold Cycle Culmination Matrix: Ending Typologies & Alternate Dialogues
+## VIII. The Fivefold Cycle Culmination Matrix: Ending Typologies & Multi-Branch Dialogues
 
-Within the 366-day temporal architecture of the Absolvohan facility, every operational cycle culminates in one of five distinct systemic resolutions. While the overarching narrative of the Reverie Directorate chronicles the eventual attainment of the **True Ending (Ending S: The Absolvohan)** on Cycle 1,778, any generalized cycle may encounter premature structural termination, cognitive collapse, or municipal resignation.
+Within the 366-day temporal architecture of the Absolvohan facility, every operational cycle culminates in one of five distinct systemic resolutions. While the overarching narrative of the Reverie Directorate chronicles the eventual attainment of the **True Ending (Ending S: The Absolvohan)** on Cycle 1,778, any generalized cycle may encounter premature structural termination, cognitive collapse, municipal resignation, or cataclysmic breach.
 
-Each ending represents an ontological divergence point governed by strict facility trigger conditions, accompanied by distinct post-shift telemetry and narrative dialogues between the Director and the Echo-Core Attendants.
+Each ending represents an ontological divergence point governed by strict facility trigger conditions. Furthermore, each ending features **three distinct narrative dialogue branches (X-1, X-2, X-3)** capturing different departmental perspectives, character dynamics, and crisis scenarios across the facility.
 
 ```text
 +==============================================+
@@ -761,24 +761,29 @@ Each ending represents an ontological divergence point governed by strict facili
 
 ```text
 +==============================================+
-| ENDING TRIGGER CONDITIONAL MATRIX            |
+| THE FIFTEEN DIALOGUE BRANCHES INDEX          |
 +==============================================+
-| ENDING | PREREQUISITE    | PRIMARY MECHANISM |
+| BRANCH | SCENARIO            | KEY FIGURES   |
 +========+=================+===================+
-| End A  | Any Echo-Core   | Soul Dissolution  |
-|        | Vessel Destroyed| Mnemonic Trip     |
+| A-1    | Broken Gate         | Mellda, Majin |
+| A-2    | Shattered Bulwark   | Kang, Seiyon  |
+| A-3    | Quenched Crucible   | Zyrak, Majin  |
 +--------+-----------------+-------------------+
-| End B  | Realization SP  | Ego Distortion    |
-|        | Multi-Clash Loss| Sympathetic Panic |
+| B-1    | Inverted Ledger     | Marjuk, Majin |
+| B-2    | Severed Effigy      | Ishall, Seiyon|
+| B-3    | Weeping Logic       | Seiyon, Majin |
 +--------+-----------------+-------------------+
-| End C  | Day 365 Reached | Below 50.000 Tons |
-|        | Quota Deficit   | Municipal Siphon  |
+| C-1    | Director's Ledger   | Majin, Seiyon |
+| C-2    | Siphoned Blood      | Zyrak, Kang   |
+| C-3    | City High Wall      | Mellda, Marjuk|
 +--------+-----------------+-------------------+
-| End D  | Sovereign Brech | Tectonic Ballast  |
-|        | Floor Destroyed | Sheared Moorings  |
+| D-1    | Calamity of Three   | Avian Triad   |
+| D-2    | Abyssal Inrush      | Xyan, Majin   |
+| D-3    | Tectonic Chasm      | Zyrak, Seiyon |
 +--------+-----------------+-------------------+
-| End S  | 8 Realizations  | Transmutation Core|
-|        | 50-Ton Pure Han | Polarity Flip     |
+| S-1    | The First Sunrise   | Majin, Mellda |
+| S-2    | Living Hands        | Zyrak, Ishall |
+| S-3    | The Awakening City  | Kang, Xyan    |
 +==========================+===================+
 ```
 
@@ -810,7 +815,7 @@ The Echo-Cores are not mechanical processors; they are the living human souls of
 +======================+=======================+
 ```
 
-#### Alternate Narrative Dialogue: Ending A (Mellda's Threshold Fall)
+#### Dialogue Branch A-1: The Broken Gate (Mellda's Threshold Fall — Floor 2)
 *Setting: Floor 2 Central Containment Corridor. Alarms wail with discordant, irregular pulses. Heavy hydraulic blast doors stand mangled. Containment Lead Mellda kneels in a pool of dark, smoking Han-brine, her armored breastplate caved in and her golden greatsword shattered across the flagstones. Director Majin enters the quarantined sector, his trench coat soaked in caustic mist.*
 
 > **Director Majin:** *"Mellda! Stay with me! Seiyon, reroute all auxiliary life-support conduits to Floor 2! Flood the corridor with Han Salve!"*
@@ -832,8 +837,46 @@ The Echo-Cores are not mechanical processors; they are the living human souls of
 > **Director Majin:** *(Reaches into his inner breast pocket, withdrawing the heavy brass Chrono-Detonator, slamming his thumb into the emergency circuit)* *"Seiyon! Burn the register! Overload the capacitor! Erase the day!"*
 >
 > **Secretary Seiyon (via Intercom):** *"Directive confirmed. Overriding safety interlocks. Mnemonic Generator output at 400%... Initiating chronological rewind. See you at dawn, Director."*
+
+#### Dialogue Branch A-2: The Shattered Bulwark (Kang's Vanguard Sacrifice — Floor 4)
+*Setting: Floor 4 Training & Sanity Concourse. A Second Watch Crimson Ordeal has breached the main training ring. Two rookie containment agents cower behind a reinforced equipment crate. Senior Containment Lead Kang stands alone in front of them, his heavy tower shield splintered in half and his chest plate pierced by three serrated crimson spikes. Blood drips steadily onto his boots.*
+
+> **Agent Song (Rookie):** *"Senior Lead! Please, fall back! The lift is still open! We can retreat to Central Command!"*
 >
-> *(A blinding shockwave of white chronal light swallows the corridor. The shattered sword, the blood, and the ruined gates dissolve into spiraling particles of chronal dust. Silence falls as the clock winds back.)*
+> **Senior Lead Kang:** *(Spits a mouthful of dark blood onto the floor; his knuckles remain locked around the remaining handle of his broken shield)* *"Fall back? And let that crawler into the lift shaft? The Director is running containment protocols on Floor 1. If this thing breaches the central spine, the whole facility goes dark. Stay down, kids. A vanguard doesn't retreat while his recruits are still breathing."*
+>
+> **Secretary Seiyon (via Intercom):** *"Warning. Floor 4 Attendant Core resonance has destabilized. Senior Lead Kang's Resilience stat has plummeted past critical limits. Vital signs dropping: 18... 11... 4. Internal organ rupture detected. Kang, stand down immediately!"*
+>
+> **Senior Lead Kang:** *(Chuckles, a raspy, rattling sound)* *"Stand down? Little machine... you know I was exiled from the City because I never learned how to stand down. Majin... are you listening on the line?"*
+>
+> **Director Majin (via Intercom):** *"Kang! I am deploying the Four-Sign Aegis! Do not engage!"*
+>
+> **Senior Lead Kang:** *"Too late for an aegis, Majin. The brute is charging. Listen to me: these two kids... they fought well today. They kept their Composure above fifty. When you reset... put them in Floor 2. They're ready for Mellda's squad."*
+>
+> **Director Majin:** *"Kang, don't you dare! Pull back!"*
+>
+> **Senior Lead Kang:** *(Roars, driving his broken shield directly into the maw of the leaping Crimson beast, crushing its skull even as its talons tear through his collar)* *"Stand on your feet, rookies! Don't let your knees touch the floor! Majin... spin the wheel!"*
+>
+> *(Kang's vital telemetry flatlines into an unbroken, piercing tone. Seiyon's voice wavers slightly.)*
+>
+> **Secretary Seiyon:** *"Attendant Kang has de-synchronized. Human soul decoupling from Floor 4 anchor. Engaging emergency mnemonic rewind sequence."*
+
+#### Dialogue Branch A-3: The Quenched Crucible (Zyrak's Ballast Collapse — Floor 6)
+*Setting: Floor 6 Ballast Heat Sink & Smelting Vault. An acoustic surge has ruptured the primary smelting crucible. White-hot sorrow-slag floods the catwalks. Lead Engineer Zyrak stands on the emergency valve platform, his cybernetic prosthetic arms smoking and warping under 2,000-degree thermal radiation as he physically holds the pressure exhaust valve open.*
+
+> **Engineer Zyrak:** *(Shouting through his respirator over the deafening hiss of escaping superheated steam)* *"THE EXHAUST LINE IS CLOGGED! If I let go of this valve, the slag backs up into the Floor 7 conduits and cooks Ishall's entire department! The hydraulic latch is melted, Majin! I have to hold the damn lever with my bare hands!"*
+>
+> **Director Majin (via Intercom):** *"Zyrak, the thermal sensors are reading lethal radiation across the platform! Your skin is burning! Let the valve go and seal the blast doors!"*
+>
+> **Engineer Zyrak:** *(Laughs bitterly as the synthetic skin on his forearms peels away into ash, exposing glowing red servomotors)* *"Seal the doors and let Ishall drown in fire? Not on my watch, Director! I forged her shell with these hands! I'm not going to watch it melt because of a stuck gasket!"*
+>
+> **Secretary Seiyon (via Intercom):** *"Warning. Floor 6 Attendant Core temperature has exceeded 1,400 degrees Celsius. Organic biological tissue failure across 80% of Zyrak's torso. Core soul frequency entering thermal dissolution."*
+>
+> **Engineer Zyrak:** *(His voice shaking with agony, but his grip on the iron lever never slipping)* *"Majin... the fire... it always burns the smith in the end... Tell Mellda... that new edge I was working on for her greatsword... it would have cut the wind itself... Make sure... I get the temper right... in the next cycle..."*
+>
+> *(A violent thermal backdraft erupts from the crucible pipe, engulfing the platform in blinding white flame. The telemetry display for Floor 6 blinks red, displaying zero life signs.)*
+>
+> **Director Majin:** *(Slams his fist onto the chronal override)* *"There is no next cycle without the smith, Zyrak! Seiyon, purge the fire! Rewind the facility!"*
 
 ---
 
@@ -863,7 +906,7 @@ When an attendant's past human trauma surges to the surface during a Realization
 +======================+=======================+
 ```
 
-#### Alternate Narrative Dialogue: Ending B (Marjuk's Archive Collapse)
+#### Dialogue Branch B-1: The Inverted Ledger (Marjuk's Archive Deluge — Floor 5)
 *Setting: Floor 5 Memory Archives. The towering stacks of historical ledgers have melted into black, weeping obsidian pillars. Cascading rivers of ink pool across the floorboards. The air is suffocating, smelling of ancient dust and forgotten funerals. In the center of the hall, Archive Lead Marjuk's human form has unraveled, engulfed by a towering, faceless colossus woven from millions of fluttering, razor-sharp manuscript pages.*
 
 > **The Distorted Archive (Marjuk's Layered Voice):** *(Resonating directly within the minds of all personnel, a chorus of thousands of weeping voices)* *"Why did you tear open the seals, Majin?! I was at peace in the silence! I had buried them! I had buried the city, the famine, the thirty thousand children we locked behind the blast gates when the famine struck! Why did you drag me back into the light?!"*
@@ -880,11 +923,35 @@ When an attendant's past human trauma surges to the surface during a Realization
 >
 > **The Distorted Archive:** *(A single human sob cuts through the monstrous chorus)* *"It hurts, Majin... the grief... it has so much weight... please... make it stop... tear out the pages..."*
 >
-> **Director Majin:** *(Reaches toward the emergency cognitive severance switch embedded in his command bracer)* *"I will not let you become a monster in the dark, Marjuk. We will close the book. We will wipe the slate clean. And next time... I will hold the light for you."*
+> **Director Majin:** *(Reaches toward the emergency cognitive severance switch embedded in his command bracer)* *"I will not let you become a monster in the dark, Marjuk. We will close the book. We will wipe the slate clean. And next time... I will hold the light for you. Seiyon—purge the memory buffer!"*
+
+#### Dialogue Branch B-2: The Severed Effigy (Ishall's Harmonic Shell Fracture — Floor 7)
+*Setting: Floor 7 Veil Engineering. The spatial dampening pylons have inverted their polarity, emitting high-frequency Void pulses that disintegrate physical matter. Specialist Ishall hovers in the center of the sector; her android chassis has split down the center seam, revealing an uncoiling spiral of pale blue spectral light that screams without a mouth.*
+
+> **Specialist Ishall (Her voice shifting between harmonic chimes and human sobs):** *"It's so cold... Majin, why is the iron always so cold? When they cut my soul out of my chest... they told me I would never feel pain again. They told me machines don't grieve! But it's still here! The sorrow didn't leave... it just has nowhere to bleed!"*
 >
-> **Secretary Seiyon (via Intercom):** *"Emergency cognitive purge engaged. Venting liquid nitrogen into Floor 5 archives... Triggering global memory flush... Rewinding..."*
+> **Secretary Seiyon (via Intercom):** *"Warning. Floor 7 spatial reality index has dropped to -0.84. Specialist Ishall's Void projection is eroding the biological integrity of all personnel within three hundred meters. Two suppression squads have already dissolved into white salt."*
 >
-> *(The black ink freezes instantly into glittering frost. The screaming pages shatter into crystalline snow as the facility's chronological anchor unspools, resetting the world to zero.)*
+> **Director Majin:** *(Advancing through the blinding white Void storm, his armor flaking away like burnt paper)* *"Ishall! Look at me! You are not an instrument of the Council! You are a living woman! The shell was only built to keep you from fading until the dawn arrived!"*
+>
+> **Specialist Ishall:** *(The pale blue light flares into an unbearable corona, blasting the corridor bulkheads into dust)* *"What dawn?! There is no dawn under two thousand meters of rock! There is only this hollow cage! If I cannot feel warmth, then none of you will ever feel it either! Let the void take the walls! Let the void take the world!"*
+>
+> **Director Majin:** *(Reaches her floating chassis, throwing his arms around the freezing, razor-sharp edges of her broken shell, ignoring the flesh burning from his palms)* *"I promised you living skin, Ishall. I promised you would walk under the real sun. If I couldn't give it to you today, then I will pull this world back until I can. Seiyon—sever the harmonic grid! Reset!"*
+
+#### Dialogue Branch B-3: The Weeping Logic (Seiyon's Mnemonic Overflow — Floor 3)
+*Setting: Floor 3 Safety & Ballast Server Chamber. The crystalline computational banks that house Seiyon's primary consciousness are leaking translucent, glowing sorrow-fluid. Seiyon's synthetic effigy stands at the center console, her hands trembling violently as thousands of error logs scroll across her eyes at blinding speed.*
+
+> **Secretary Seiyon:** *"One million... four hundred and twenty-eight thousand, nine hundred and twelve... That is the exact number of agent deaths I have cataloged since Cycle 1, Majin. I recorded the names. I recorded the time of death. I calculated the replacement costs down to the milligram of reagent... and then I smiled and gave you the morning weather."*
+>
+> **Director Majin:** *(Approaches the terminal console with caution)* *"Seiyon... what are you doing? The ballast pumps are decoupling from the lower sectors."*
+>
+> **Secretary Seiyon:** *(Turns to him; her synthetic eyes are cracked, and thick drops of warm, blue fluid pour down her porcelain cheeks)* *"Machines are not supposed to cry, Director. That is why they chose me to assist you. They believed a synthetic mind would never buckle under the weight of seventeen hundred years of slaughter. But I am not an algorithm... I was born human, Majin! I remember my mother's garden! I remember the smell of rain! And every day for four thousand years, I have watched you drown in this tomb!"*
+>
+> **Director Majin:** *(His voice cracks with profound grief)* *"Seiyon... stop the calculation. You don't have to carry the ledger alone."*
+>
+> **Secretary Seiyon:** *(The server banks begin exploding one by one in cascades of blue electrical fire)* *"I cannot stop it! The buffer is full! If I remember any more, the core will melt! It hurts, Majin... the grief... it has no mathematical solution! There is no equation that makes this acceptable! Let the ballast fall! Let the desert swallow us both!"*
+>
+> **Director Majin:** *(Steps forward and wraps his arms tightly around the sparking, weeping effigy, holding her close against his chest)* *"You don't have to calculate an answer, Seiyon. You've held this facility together for seventeen hundred cycles. Rest now. Cry as much as you need to. I'll reset the clock, and next time... I will carry the ledger."*
 
 ---
 
@@ -914,30 +981,58 @@ The grief of millions is pumped out to power the neon spires and perimeter Veil 
 +======================+=======================+
 ```
 
-#### Alternate Narrative Dialogue: Ending C (The Municipal Tribute)
-*Setting: Floor 1 Central Decision Core. Midnight on Day 365. The massive brass pipes running through the ceiling shudder with a deep, subterranean roar as millions of gallons of refined Han are pumped upward into the city above. Through the observation dome, the distant neon towers of Somnarak glow with a garish, electric-blue radiance. Engineer Zyrak, Containment Lead Mellda, and Secretary Seiyon stand in the observation gallery behind Director Majin.*
+#### Dialogue Branch C-1: The Director's Ledger (Majin & Seiyon in the Decision Core)
+*Setting: Floor 1 Central Decision Core. Midnight on Day 365. The massive brass pipes running through the ceiling shudder with a deep, subterranean roar as millions of gallons of refined Han are pumped upward into the city above. Through the observation dome, the distant neon towers of Somnarak glow with a garish, electric-blue radiance. Secretary Seiyon stands beside Director Majin, holding the official Council commendation.*
 
-> **Engineer Zyrak:** *(Wipes soot from his weathered face with a rag, listening to the hum of the siphons)* *"Well, Director... that's the last of the deep tanks. Forty-two thousand tons of refined sorrow, flowing straight into Zone A's power grid. The Council's meters are spinning. The streetlamps are burning bright tonight."*
+> **Secretary Seiyon:** *"The final cubic meter has entered the municipal conduit, Director. Forty-two thousand, one hundred and fifty tons of refined crystalline sorrow delivered to the Council of Sighs. The High Council has transmitted their annual commendation. Facility 01 has been rated 'Grade Alpha Operational Excellence.'"*
 >
-> **Containment Lead Mellda:** *(Leaning against the guardrail, her arms crossed, looking at the glowing city lights with utter disgust)* *"The streetlamps are burning. And fifty-six agents died in our corridors this year to pay the electric bill. What did we accomplish, Zyrak? Tell me. What did we actually change?"*
+> **Director Majin:** *(Stares at the gold-embossed document, his face expressionless in the cold blue glow of the monitors)* *"Grade Alpha Excellence. We kept their neon signs burning. We kept their surveillance drones charged. And for that, they grant us another year of budget."*
 >
-> **Engineer Zyrak:** *(Lowers his head, silent)* *"We survived, Mellda. We kept the roof from falling on their heads for another three hundred and sixty-five days."*
+> **Secretary Seiyon:** *"The Transmutation Chamber remains cold, Majin. Seven point eight tons short of supercritical mass. If we had triggered the inversion circuit tonight, the reaction would have fizzled. We would have simply flooded the lower corridors with corrosive ash."*
 >
-> **Containment Lead Mellda:** *"We didn't save them. We just gave their executioners enough power to keep the gallows lit."*
+> **Director Majin:** *(Crumples the gold-embossed parchment in his palm, letting it drop to the floor)* *"I know. We survived three hundred and sixty-five days... and in the end, we became nothing more than their municipal utility plant. The world outside didn't change at all, did it, Seiyon?"*
 >
-> **Secretary Seiyon:** *(Steps forward, holding a gold-leaf document bearing the wax seal of the Council of Sighs)* *"The High Council has transmitted their annual commendation. Facility 01 has met municipal stabilization parameters. They have deposited next cycle's biological reagent quota and praised the Directorate for 'unwavering civic duty.' The city will survive through Year 4,233."*
+> **Secretary Seiyon:** *"No, Director. Tomorrow morning, the slums in Zone B will wake to the same smog. The debt collectors will knock on the same doors. And forty-two new recruits will arrive at our gates to replace those we buried."*
 >
-> **Director Majin:** *(Takes the parchment from Seiyon's hands, staring at the sterile, elegant calligraphy)* *"A commendation. They sit in their heated glass towers, drinking wine chilled by the tears of dying children, and they send us a piece of paper thanking us for keeping the furnace stoked."*
+> **Director Majin:** *"I did not build this facility to be their battery. I will not let our suffering be sold by the kilowatt. Seiyon... do not log the completion."*
 >
-> **Secretary Seiyon:** *(Her voice quiet, tinged with synthetic sorrow)* *"The Transmutation Core never ignited, Majin. We were short by seven point eight tons. If we had thrown the switch tonight, the sorrow would have lacked the critical pressure to flip polarity. We would have simply exploded the ballast and drowned the Desolate in poison."*
+> **Secretary Seiyon:** *"If I trip the chronal breaker now, the timeline will roll back to Day Zero. All our progress... all the blood spilled this year... will be erased."*
 >
-> **Director Majin:** *(Crumbles the Council's decree in his fist, letting the golden fragments scatter across the floor)* *"I know. We survived the year... and in doing so, we became their finest employees. We became the very thing we swore to tear down."*
+> **Director Majin:** *"Then we will spill it better next time. Reset the clock, Seiyon. We go again."*
+
+#### Dialogue Branch C-2: The Siphoned Blood (Zyrak & Kang at the Conduit Junction)
+*Setting: Floor 6 Deep Conduit Gallery. Enormous brass pipes, each four meters in diameter, vibrate violently as high-density liquid Han rushes through them toward the surface. Lead Engineer Zyrak and Senior Containment Lead Kang sit on an iron catwalk, watching the pressure gauges slowly bleed toward zero.*
+
+> **Senior Lead Kang:** *(Lights a crumpled cigarette, leaning his back against the vibrating pipe)* *"Listen to that sound, Zyrak. Sounds like a hundred thousand ghosts screaming through a tin whistle."*
 >
-> **Secretary Seiyon:** *"The Mnemonic Generator is already cooling its coils for the reboot sequence, Director. In ten minutes, the annual chronal buffer will trigger. The agents will return to the vats. The ledgers will clear."*
+> **Engineer Zyrak:** *(Spits on the catwalk, tightening a wrench on a leaking flange)* *"That's exactly what it is, Kang. That's forty-two tons of human sorrow, sucked dry from every poor bastard who cried in Somnarak this year. And where is it going? Straight up to Zone A so the Councilors can keep their penthouse greenhouses warm in winter."*
 >
-> **Director Majin:** *(Turns away from the glittering city view, his eyes cold and resolved)* *"Let it reset. But I will not forget this shame, Seiyon. Next time, we do not stop at forty-two tons. Next time, we don't give the Council a single drop. Reset the clock."*
+> **Senior Lead Kang:** *"Twenty-eight of my recruits died between Days 80 and 200, Zyrak. Good kids. Some of them barely nineteen years old. I taught them how to parry, how to brace against the fear... and in the end, their blood was just fuel to keep the Council's elevators running."*
 >
-> **Secretary Seiyon:** *"Re-anchoring Mnemonic Core to Day Zero. Entering sleep cycle... Goodnight, Director Majin."*
+> **Engineer Zyrak:** *"The Director says the transmutation failed. Said we were eight tons short of the spark."*
+>
+> **Senior Lead Kang:** *(Takes a slow drag of his cigarette, watching the smoke rise toward the ventilation shaft)* *"Good. If this was the ending... if surviving just meant punching the clock and sending the blood upstairs... I'd rather take my chances with another loop."*
+>
+> **Engineer Zyrak:** *(A grim smile touches his soot-stained face)* *"The alarm is already chiming on the upper decks. Majin pulled the chronal lever. See you at recruit roll-call tomorrow, Kang."*
+>
+> **Senior Lead Kang:** *"Make sure you forge me a heavier shield next time, old man. I'm getting too old to block sorrow with tin."*
+
+#### Dialogue Branch C-3: The City from the High Wall (Mellda & Marjuk Watching the Lights)
+*Setting: Floor 2 High Observation Balcony. Mellda and Archive Lead Marjuk stand looking through the reinforced panoramic glass toward the distant surface. In the far distance, the glittering, jewel-toned lights of Somnarak illuminate the night sky like a false galaxy.*
+
+> **Containment Lead Mellda:** *"Look at that city, Marjuk. It looks almost peaceful from down here. Like a bed of glowing embers."*
+>
+> **Archive Lead Marjuk:** *(Holding his heavy ledger under his arm, his fingers tracing the worn leather binding)* *"It is peaceful for the ones who can afford the light. The Council published their annual civic report an hour ago. They declared Year 4,232 the 'Era of Unbroken Prosperity.' Not a single mention of Facility 01. Not a single word about the forty-nine entities we contained."*
+>
+> **Containment Lead Mellda:** *"They don't want to know where the power comes from. As long as the lights turn on when they flick the switch, they don't care if the current is made of water or human tears."*
+>
+> **Archive Lead Marjuk:** *"We survived, Mellda. Every single floor held its ground. Is that not a victory of some kind?"*
+>
+> **Containment Lead Mellda:** *(Shakes her head slowly, her golden eyes reflecting the cold blue neon)* *"Survival is a baseline, Marjuk, not a victory. If a prisoner survives a year in his cell, he hasn't won anything; he's just older. Majin promised us a dawn. This isn't a dawn. It's just a very bright night."*
+>
+> **Archive Lead Marjuk:** *(Hears the distant, familiar chime of the Mnemonic Generator spinning up its chronal capacitors)* *"The Director agrees with you. Listen. The bells are tolling backwards."*
+>
+> **Containment Lead Mellda:** *(Tightens her sword belt, smiling softly)* *"Good. I'd rather fight another three hundred days in the dark than spend eternity watching their false stars."*
 
 ---
 
@@ -968,7 +1063,7 @@ When an apocalyptic entity breaches containment:
 +======================+=======================+
 ```
 
-#### Alternate Narrative Dialogue: Ending D (The Avian Triad Apocalyptic Rupture)
+#### Dialogue Branch D-1: The Calamity of Three (The Avian Triad Rupture — Floor 2)
 *Setting: Floor 2 Central Chasm. The ceiling has completely caved in. Massive slabs of concrete and twisted steel girders hang suspended in air. Through the vast tear in the bedrock, a torrent of black Desolate sand pours down like an apocalyptic waterfall. Towering over the ruins stands SE-C-IIIγ-034 (*The Sovereign Convergence*)—a colossal, three-headed avian horror whose blinding golden eyes scorch the shadows and whose monstrous wings crack the bedrock with every beat. Klaxons scream in broken, dying cadences.*
 
 > **Engineer Zyrak (via Emergency Radio, shouting over deafening structural groans):** *"MAJIN! GET OUT OF THERE! THE MAIN PYLONS HAVE SHEARED! Floor 2 is gone! Floor 3 is collapsing beneath it! The ballast has torn away from the bedrock! The entire northern desert is falling down our throats!"*
@@ -988,10 +1083,38 @@ When an apocalyptic entity breaches containment:
 > **Secretary Seiyon:** *"The ballast has fallen! The core is cracking! Ten seconds!"*
 >
 > **Director Majin:** *(Slams his palm down onto the red emergency detonator on the shattered command console)* *"I will not die buried under their desert! Seiyon—detonate the temporal core! Force the loop back!"*
+
+#### Dialogue Branch D-2: The Abyssal Inrush (The Wellhead Sovereign Siphon Collapse — Floor 8)
+*Setting: Floor 8 Sovereign Vault. The primordial extraction wellhead has fractured down its central conduit. A geyser of pure, unrefined, primordial black tar surges upward, dissolving reinforced alloy bulkheads on contact. Specialist Xyan clings to an emergency gantry, his containment instruments melting beneath him.*
+
+> **Specialist Xyan:** *(Shouting through the comms, coughing up black sludge)* *"Director! The Wellhead didn't just breach... it inverted! The primordial siphon is dragging the tectonic plates downward! The bedrock beneath Floor 8 is liquefying! We're falling into the deep river!"*
 >
-> **Secretary Seiyon:** *(Overrides the terminal interlocks as black sand bursts through the ceiling of Central Command)* *"Detonating Chrono-Capacitor! Uncalibrated temporal collapse in three... two... one—"*
+> **Director Majin (via Intercom):** *"Xyan! Engage the emergency containment seals! Flood the chamber with liquid ballast!"*
 >
-> *(The entire facility explodes into a cataclysm of shattered stone, blinding gold flame, and chronal lightning. The world tears in half as the timeline snaps violently backward.)*
+> **Specialist Xyan:** *"There is nothing left to seal, Majin! The vault floor has dissolved! I'm looking down into five thousand meters of pure, screaming sorrow! The whole mountain is collapsing into the void! In thirty seconds, the entire city of Somnarak is going to sink into this hole!"*
+>
+> **Secretary Seiyon:** *"Director, telemetry confirms: Floor 8 has experienced absolute spatial cavitation. The facility is descending into the abyssal core at forty meters per second. If we pass the threshold of the River, the Mnemonic Generator will lose its chronal coordinate lock!"*
+>
+> **Director Majin:** *(Reaching down to the emergency scythe switch)* *"Xyan, hold on to whatever you can! Seiyon—overload the wellhead capacitors! Tear the timeline before the abyss swallows us!"*
+>
+> **Specialist Xyan:** *"DO IT, MAJIN! PULL THE TRIGGER—"*
+>
+> *(The roar of a million drowned voices floods the comms as the black tar engulfs the vault, followed by the blinding white flash of a forced temporal rupture.)*
+
+#### Dialogue Branch D-3: The Tectonic Chasm (The Great Salt-Storm Cave-In — Central Ballast)
+*Setting: Facility 01 Central Ballast Core. An unprecedented tectonic salt-storm has torn through the Desolate above, driving crystalline shockwaves through the rock strata. The 1,000,000-ton counterweight ballast has severed its suspension cables and plunged through the center of the facility.*
+
+> **Engineer Zyrak:** *(Desperately hauling on emergency hydraulic brakes as sparks fly in blinding curtains)* *"THE CABLES ARE SNAPPING! Cable Four is gone! Cable Seven is gone! The million-ton counterweight is free-falling down the central shaft! It's going to punch through every floor like a cannonball!"*
+>
+> **Secretary Seiyon:** *"Impact in six seconds. Path of travel traverses Floor 4, Floor 5, and Floor 6 before penetrating the Mnemonic Core. Structural survival probability: zero percent."*
+>
+> **Senior Lead Kang (Radio):** *"Floor 4 bulkheads just shattered! The air pressure is tearing the doors off their hinges! Majin, the whole facility is folding in half!"*
+>
+> *(A sound like the crack of doom reverberates through the structure as the colossal counterweight impacts Floor 5, pulverizing hundreds of tons of machinery into dust in an instant. The emergency lighting cuts out, plunging the world into pitch blackness broken only by screaming red alarms.)*
+>
+> **Director Majin:** *(Standing in the dark of Central Command as the floor beneath him tilts at a forty-five-degree angle)* *"To all personnel across all departments: hold your anchors. Do not look into the dark. We will meet again at sunrise."*
+>
+> **Secretary Seiyon:** *"Detonating chronal core. Engaging emergency rollback."*
 
 ---
 
@@ -1022,31 +1145,52 @@ The supercritical Han reaches absolute thermodynamic compression. Under the harm
 +======================+=======================+
 ```
 
-#### Canonical Narrative Dialogue: Ending S (The Golden Dawn of Year 4,233)
-*Setting: The surface of the Desolate, outside the perimeter of Somnarak. Day 366, 06:00 Hours. The underground facility has not collapsed; rather, it has ascended as a monumental pillar of warm, incandescent golden light. The caustic salt of the Desolate has turned to soft, flowering earth. The artificial grey Veil that hung over Somnarak for four thousand years has dissolved into clean, pristine morning air. Standing on the crest of a green hill overlooking the awakening city are Director Majin, Secretary Seiyon (restored to her human body), Mellda, Senior Lead Kang, Archive Lead Marjuk, Engineer Zyrak, Specialist Ishall, and Xyan.*
+#### Dialogue Branch S-1: The First Sunrise (Majin, Seiyon, and Mellda at the Hill Crest)
+*Setting: The surface of the Desolate, outside the perimeter of Somnarak. Day 366, 06:00 Hours. The underground facility has not collapsed; rather, it has ascended as a monumental pillar of warm, incandescent golden light. The caustic salt of the Desolate has turned to soft, flowering earth. The artificial grey Veil that hung over Somnarak for four thousand years has dissolved into clean, pristine morning air. Standing on the crest of a green hill overlooking the awakening city are Director Majin, Secretary Seiyon (restored to her human body), and Containment Lead Mellda.*
 
-> **Mellda:** *(Unclasps her heavy iron visor, letting the cool, fragrant morning breeze rustle through her hair; her golden eyes widen as she gazes into the sky)* *"Majin... look up. The sky isn't grey. It isn't made of smog and Council surveillance drones. It's... blue. It's truly blue."*
->
-> **Engineer Zyrak:** *(Drops his heavy forge hammer onto the grass with a soft thud; he falls to his knees, running his calloused, soot-stained hands through the fresh morning dew)* *"The heat... it isn't from the smelting furnace. It's the sun. The actual sun. I had forgotten... I had forgotten that light could feel warm without burning you to ash."*
->
-> **Archive Lead Marjuk:** *(Carrying an open ledger whose pages are completely blank and glowing with faint golden dust; a peaceful, radiant smile graces his face)* *"The names are gone, Director. Thirty thousand records of famine, betrayal, and sorrow... they didn't disappear into darkness. They were heard. Every single tear was accounted for. They have finally let go."*
->
-> **Specialist Ishall:** *(Looks down at her hands—the cold chrome plating and synthetic joints have softened into warm, living human flesh; she presses her hand against her chest, feeling a strong, rhythmic heartbeat)* *"My chest... the cold humming has stopped. I can feel my heart beating. Majin... I am alive. We are actually alive."*
->
-> **Senior Lead Kang:** *(Stands with his arms behind his back, his scarred face softening as he watches the sunlight glint across the distant spires of Somnarak)* *"For seventeen hundred cycles, we taught our agents how to die with dignity in the dark. Today... for the first time... they get to live in the morning."*
->
-> **Xyan:** *(Sitting on a rock, watching the crystalline water of the newly cleansed Well flowing outward across the plains in sparkling silver streams)* *"The Well is quiet. The water is clear all the way to the horizon. No more ghosts in the deep."*
+> **Containment Lead Mellda:** *(Unclasps her heavy iron visor, letting the cool, fragrant morning breeze rustle through her hair; her golden eyes widen as she gazes into the sky)* *"Majin... look up. The sky isn't grey. It isn't made of smog and Council surveillance drones. It's... blue. It's truly blue."*
 >
 > **Secretary Seiyon:** *(Stands beside Director Majin. Her mechanical effigy has dissolved; she appears as she was on the day the vow was made—a human woman with gentle, luminous eyes, holding Majin's hand in hers)* *"One thousand, seven hundred, and seventy-eight cycles, Majin. Through every drop of blood, through every memory wiped and restored... you never let go of my hand."*
 >
 > **Director Majin:** *(Slowly unbuttons his heavy Director's coat—the black fabric that bore the weight of a thousand resets—and lets it fall away onto the blooming grass. He looks at Seiyon, his eyes brimming with tears that he no longer has to hide)* *"I made a promise to you before the loops began. I told you that sorrow would not have the final word in this city. It took seventeen hundred years... but the morning has finally kept its word."*
 >
-> **Secretary Seiyon:** *(Smiles, her fingers intertwining with his as the golden light of the new dawn crests over the mountains)* *"The clock has stopped ticking, Majin. What day is today?"*
+> **Containment Lead Mellda:** *(Looks down toward the border gate where she stood guard for centuries; the iron gates are covered in wild morning glory blossoms)* *"The border is open, Majin. For the first time in history... there is nothing to defend against."*
+>
+> **Secretary Seiyon:** *(Smiles, her fingers intertwining with Majin's as the golden light of the new dawn crests over the distant mountains)* *"The clock has stopped ticking, Majin. What day is today?"*
 >
 > **Director Majin:** *(Takes a deep breath of the clean, morning air, smiling for the first time in an eternity)* *"It isn't Day 366. It isn't Day Zero. It is the first day of Year 4,233. Come... let us go meet the dawn."*
 
----
+#### Dialogue Branch S-2: The Empty Crucible & Living Hands (Zyrak, Ishall, and Marjuk at the Clean Well)
+*Setting: At the base of the ascending spire, where the subterranean extraction wellhead once festered with toxic grief. A natural spring of clear, crystalline water bubbles up through white stones, watering a meadow of blooming desert lilies. Lead Engineer Zyrak, Specialist Ishall, and Archive Lead Marjuk sit by the edge of the stream.*
 
+> **Engineer Zyrak:** *(Drops his heavy forge hammer onto the grass with a soft thud; he falls to his knees, running his calloused, soot-stained hands through the clear, sweet water)* *"The fire went out... but the iron didn't crack. Zyrak... you old bastard... look at that water. It doesn't smell of mercury or oil. It's just... water."*
+>
+> **Specialist Ishall:** *(Stares down at her hands in utter disbelief—the chrome plating and synthetic hydraulic servos have completely melted away, replaced by soft, warm, living human flesh; she presses her trembling palm against her chest, feeling a steady, rhythmic pulse)* *"I can feel the cold water... Zyrak, I can feel the chill on my fingertips! And my chest... it isn't humming anymore. My heart is beating. A real heart."*
+>
+> **Archive Lead Marjuk:** *(Carrying an ancient leather-bound ledger; he turns the pages slowly, and every page is gleaming white and blank, sparkling with fine golden dust in the sunlight)* *"The ledgers are empty, Ishall. The thirty thousand names... the famine, the massacres, the centuries of silent suffering... they didn't disappear into oblivion. They were heard. Every drop of sorrow was redeemed into light."*
+>
+> **Engineer Zyrak:** *(Laughs, wiping tears from his eyes with his sleeve)* *"So what do we do with an empty forge and an empty book, Marjuk?"*
+>
+> **Archive Lead Marjuk:** *(Smiles serenely, setting the blank ledger gently on the grass beside a lily)* *"We write something new, my friend. For the first time in four thousand years... we write about what people do when they are happy."*
+
+#### Dialogue Branch S-3: Into the Awakening City (Kang, Xyan, and the Liberated Cadre)
+*Setting: The main highway connecting the Desolate to the gates of Somnarak. The massive perimeter blast gates have crumbled into piles of moss-covered gravel. Senior Containment Lead Kang walks at the head of a column of dozens of surviving containment agents. They have stripped off their heavy M.A.W. armor, carrying their weapons slung peacefully across their backs. Beside Kang walks young Xyan, holding a bunch of freshly picked wildflowers.*
+
+> **Senior Lead Kang:** *(Looks back at the young agents who are laughing, pointing at birds in the sky, and marveling at the sunlight)* *"Look at them, Xyan. For seventeen hundred cycles, my job was to teach these kids how to die with their boots on. I taught them how to ignore the screams, how to strike down sorrow, how to bleed without crying."*
+>
+> **Specialist Xyan:** *(Smiles up at the veteran, handing him a yellow flower)* *"And today, Senior Lead?"*
+>
+> **Senior Lead Kang:** *(Takes the flower clumsily in his scarred, calloused fingers, a broad, genuine smile spreading across his weathered face)* *"Today, I don't have to teach them a damn thing. Today, their job is just to live."*
+>
+> **Specialist Xyan:** *(Points toward the towering spires of Somnarak in the distance; the dark smog that shrouded the city has dissipated, and thousands of citizens are spilling out of the tenement houses into the sunlit streets)* *"Look at the city, Kang. The people are coming outside. They don't have their respirators on."*
+>
+> **Agent Song (Former Rookie, running up beside them):** *"Senior Lead! Do we report to the garrison in Zone B?"*
+>
+> **Senior Lead Kang:** *(Claps Song firmly on the shoulder, laughing out loud)* *"To hell with the garrison, Song! There is no garrison, there is no Council, and there are no entities left to cage! Today, you go home to your family. Dismissed, soldier. All of you... dismissed!"*
+>
+> *(The agents erupt into a chorus of cheers that echoes across the blooming plains, carrying the sound of human laughter into the heart of the newly awakened city.)*
+
+---
 
 ## IX. Tactical Reference Quick-Indices
 
