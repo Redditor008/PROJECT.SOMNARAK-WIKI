@@ -1,20 +1,13 @@
-# [SED_OVERVIEW] Somnarak Exploration Decreed — Field Operations Manual
+# [SED_OVERVIEW] Somnarak Exploration Decree — Field Operations Manual
 ## Subterranean Cartography, Descent Protocols & Environmental Hazards
 
-```text
-+==============================================+
-|       SED FIELD OPERATIONAL GUIDEBOOK        |
-+==============================================+
-| Department           | Frontier Survey Div.  |
-|                      | Council of Sighs M-42 |
-+----------------------+-----------------------+
-| Operational Mandate  | Subterranean Descent  |
-+----------------------+-----------------------+
-| Depth Rating         | Sea Level to -1,500m  |
-+----------------------+-----------------------+
-| Standard Unit Size   | 7 Core Surveyors      |
-+======================+=======================+
-```
+| Institutional Attribute | Field Specification |
+|---|---|
+| **Department** | Frontier Survey Division (Council Mandate 042) |
+| **Operational Mandate**| Sub-Strata Descent & Geological Stabilization |
+| **Depth Rating** | Sea Level (0m) to Primordial Nadir (-2,500m+) |
+| **Standard Vanguard** | 7 Core Specialists (Vanguard Expeditions) |
+| **Fleet Flagship** | Class-III Abyssal Dreadnought *The Sub-Tectonic Ark* |
 
 ---
 
@@ -22,19 +15,11 @@
 
 Every exploratory sortie beneath the municipal surface of Somnarak is categorized into three rigid operational tiers:
 
-```text
-+==============================================+
-|       SUBTERRANEAN DESCENT STRATIFICATION    |
-+==============================================+
-| DEPTH TIER | STRATA ENCOUNTERED  | GEAR TIER |
-+============+=====================+===========+
-| Tier 1     | Municipal Bedrock   | Level I   |
-+------------+---------------------+-----------+
-| Tier 2     | Pre-Consolihan City | Level II  |
-+------------+---------------------+-----------+
-| Tier 3     | Abyssal Trench Bed  | Level III |
-+============+=====================+===========+
-```
+| Depth Tier | Strata Encountered | Depth Range | Required Gear & Environmental Suit |
+|---|---|---|---|
+| **Tier 1: Urban Foundations** | Sub-Municipal Karst & Aqueducts | 0 to -200m | Optical Filter Respirators, Carbide Pitons, Level I Gear |
+| **Tier 2: Pre-Consolihan Strata**| Calcified Necropolis & Arteries | -200m to -1,200m | Pressurized Exo-Rigs, Void-Barometers, Level II Gear |
+| **Tier 3: The Abyssal Trench** | Footing, Rift & Primordial Nadir| -1,200m to Nadir | Leaded Abyssal Diving Suits, Silver Tethers, Level III Gear |
 
 ### 1. Tier 1: Urban Foundations (0 to -200 meters)
 - **Geological Composition:** Reinforced industrial ferro-concrete, sewer aqueducts, and structural support pillars supporting Zones A through E.
@@ -55,51 +40,27 @@ Every exploratory sortie beneath the municipal surface of Somnarak is categorize
 
 ## II. The Core Survey Team Structure
 
-```text
-+==============================================+
-|       SED EXPEDITION SPECIALIST CADRE        |
-+==============================================+
-| SPECIALIST | CODENAME     | TACTICAL ROLE    |
-+============+==============+==================+
-| Yeonhwa    | Cartographer | Navigation Lead  |
-+------------+--------------+------------------+
-| Doha       | Mason        | Structural Craft |
-+------------+--------------+------------------+
-| Harin      | Sentinel     | Perimeter Guard  |
-+------------+--------------+------------------+
-| Sora       | Dreamer      | Weaver Perception|
-+------------+--------------+------------------+
-| Minjae     | Archivist    | Memory Recovery  |
-+------------+--------------+------------------+
-| Jisoo      | Accountant   | Resource Ledger  |
-+------------+--------------+------------------+
-| Nameless   | Silent One   | Relic Specialist |
-+============+==============+==================+
-```
+| Specialist Name | Vanguard Codename | Parent Discipline | Primary Tactical Role | Signature Relic / Armament |
+|---|---|---|---|---|
+| **Yeonhwa** | The Eyeless Compass | Cartography & Topology | Expedition Lead & Sonar Navigation | *The Horizon Theodolite* |
+| **Doha** | The Ancient Architect | Architecture & Masonry | Bedrock Shoring & Heavy Sapping | *Calcified Pneumatic Ram* |
+| **Harin** | Shield of the Low | Wardens of Zone E | Frontline Defense & Kinetic Tank | *The Bastion of the Low* |
+| **Sora** | The Dreamer Weaver | Weavers Guild | Psychic Perception & De-escalation | *Silver Slumber Cowl* |
+| **Minjae** | Scribe of Year Zero | Keepers Archive | Memory Inscriptions & Lore Deciphering | *Cryo-Resonance Scribe* |
+| **Jisoo** | Ratio of Survival | Collectors Bureau | Life-Ballast Ledger & Consumables | *Hydraulic Ballast Ledger* |
+| **Nameless**| The Silent One | Desolate Frontier | High-Hazard Breacher & Combat Point | *Severed Relic Cleaver* |
 
 ---
 
 ## III. Specialized Subterranean Equipment & Instruments
 
-```text
-+==============================================+
-|       SED FIELD SURVEY ARMAMENT SPEC         |
-+==============================================+
-| APPARATUS            | PRIMARY FIELD FUNCTION|
-+======================+=======================+
-| The Horizon Lens     | Sub-surface resonance |
-|                      | fault-line detection  |
-+----------------------+-----------------------+
-| Basalt Pneumatic Rod | Rapid bedrock anchor  |
-|                      | and lifeline hoist    |
-+----------------------+-----------------------+
-| Resonance Flares     | High-lumen entity     |
-|                      | blinding & pathway tag|
-+----------------------+-----------------------+
-| Void-Barometer       | Ambient grief pressure|
-|                      | surge warning device  |
-+======================+=======================+
-```
+| Apparatus Name | Equipment Category | Primary Field Function | Tactical Operating Principle |
+|---|---|---|---|
+| **The Horizon Lens** | Optical Quartz Visor | Sub-surface resonance fault detection | Han-brine optical filtering of acoustic echoes |
+| **Basalt Pneumatic Anchor**| Piston Winch Launcher | Rapid bedrock anchoring & cliffline hoist | Pressurized CO2 expanding alloy piton barbs |
+| **Resonance Flares** | Chemical-Acoustic Torch | High-lumen entity blinding & path marking | 5,000-lumen azure flame & 22 kHz acoustic pulse |
+| **The Void-Barometer** | Hermetic Grief Sensor | Ambient sorrow pressure surge alarm | Supercritical pale sorrow droplet volume expansion |
+| **Cranial Silver Tether**| Braided Neural Shunt | Prevents psychic hallucination & Meltdown | Silver-fiber brainwave alignment with rig console |
 
 ---
 

@@ -533,19 +533,19 @@ While the SED conducts dozens of routine survey sorties every month to maintain 
 
 | Katabagil Arc | Subterranean Target Domain | Geological Stratum | Strategic Exploration Objective | Companion File Reference |
 |---|---|---|---|---|
-| **Arc 1: Cryptasu** | Drowned Pre-Cataclysm City | Strata 1 (-120m) | Recover Year Zero municipal diaries & breach gate | `Passage_1_The_Undercity.md` |
-| **Arc 2: Petrobyeok** | Calcified Bastion Wall | Strata 2 (-380m) | Breach Doha's ancient wall & evaluate survivors | `Passage_2_The_Forgotten_Districts.md` |
-| **Arc 3: Furtugil** | Smuggler Conduits & Faults | Strata 3 (-650m) | Reclaim severed arteries & clear Fray transit | `Passage_3_The_Hidden_Routes.md` |
-| **Arc 4: Radikkum** | Deep Roots of Echo Gardens | Strata 4 (-950m) | Map Dream Realm seepage & pacify floral entity | `Passage_4_The_Deep_Gardens.md` |
-| **Arc 5: Limesteum** | Sub-Bulwark Perimeter Footing| Strata 5 (-1,400m)| Shore outer perimeter & seal Outside Sorrow seep | `Passage_5_The_Border_Tunnels.md` |
-| **Arc 6: Traumagol** | Occlusihan Rift Open Fracture | Strata 6 (-1,900m)| Traverse obsidian rift & defeat Scar Walker | `Passage_6_The_Scar.md` |
-| **Arc 7: Fontisaem** | Primordial Wellspring of Han | Strata 7 (-2,300m)| Reach planetary nadir & discover Mugenhan truth | `Passage_7_The_Source.md` |
+| **Arc 1: Cryptasu** | Drowned Pre-Cataclysm City | Strata 1 (-120m) | Recover Year Zero municipal diaries & breach gate | `Passage_1_Cryptasu.md` |
+| **Arc 2: Petrobyeok** | Calcified Bastion Wall | Strata 2 (-380m) | Breach Doha's ancient wall & evaluate survivors | `Passage_2_Petrobyeok.md` |
+| **Arc 3: Furtugil** | Smuggler Conduits & Faults | Strata 3 (-650m) | Reclaim severed arteries & clear Fray transit | `Passage_3_Furtugil.md` |
+| **Arc 4: Radikkum** | Deep Roots of Echo Gardens | Strata 4 (-950m) | Map Dream Realm seepage & pacify floral entity | `Passage_4_Radikkum.md` |
+| **Arc 5: Limesteum** | Sub-Bulwark Perimeter Footing| Strata 5 (-1,400m)| Shore outer perimeter & seal Outside Sorrow seep | `Passage_5_Limesteum.md` |
+| **Arc 6: Traumagol** | Occlusihan Rift Open Fracture | Strata 6 (-1,900m)| Traverse obsidian rift & defeat Scar Walker | `Passage_6_Traumagol.md` |
+| **Arc 7: Fontisaem** | Primordial Wellspring of Han | Strata 7 (-2,300m)| Reach planetary nadir & discover Mugenhan truth | `Passage_7_Fontisaem.md` |
 
 Authorized directly under Executive Mandate 042, the Katabagil descent is the deepest, most dangerous expedition in municipal history. Commanded by the Seven Specialists of the Core Vanguard, the mission plunges sequentially through all seven geological strata to confront the primordial origin of the planet's weeping (*Mugenhan*).
 
 The complete, turn-by-turn combat chronicles, narrative chapters, and tactical breach protocols of this historic expedition are codified in the companion master chronicles:
 - **Master Narrative Chronicle:** `SOMNARAK_SED_PASSAGES.md`
-- **Volume Archive Directory:** `SOMNARAK-WORLD/The_SED/` (`Passage_1_The_Undercity.md` through `Passage_7_The_Source.md`)
+- **Volume Archive Directory:** `SOMNARAK-WORLD/The_SED/` (`Passage_1_Cryptasu.md` through `Passage_7_Fontisaem.md`)
 - **Field Guidebook:** `SOMNARAK-WORLD/The_SED/SED_OVERVIEW.md`
 
 ---

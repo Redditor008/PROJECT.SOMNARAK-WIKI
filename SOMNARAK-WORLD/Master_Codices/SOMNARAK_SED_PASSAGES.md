@@ -1,4 +1,4 @@
-# SOMNARAK — The SED Passages (지하도시 탐사 통로)
+# SOMNARAK — Katabagil (심층 하강록 / 深層下降錄)
 ## Master Chronicle: The Seven Subterranean Descents & Ancient Discoveries
 
 > *"Each passage takes us deeper. Each depth reveals a truth. Each truth changes us."*
@@ -14,15 +14,16 @@
 
 ## ARC Structure Overview
 
-- **Arc 1: The Undercity** (Zone B)
-  - Passage 1: Descent — Team enters the Undercity, finds the hidden passage
-  - Passage 2: The First Chamber — Sealed room, the diary, the crystallized person
-  - Passage 3: The Hunger — Walls move, entity appears, team fights
-  - Passage 4: The First Fight — Guardian Entity battle, team is outmatched
-  - Passage 5: The Story — Entity tells its story through feeling
-  - Passage 6: Return — Team surfaces, requests better equipment
+- **Arc 1: Cryptasu** (Strata 1: Sub-Karst, 0m to -150m)
+  - Node 1: Entry Ingress — Old Lament Pavement Breach
+  - Node 2: Aqueduct Fork — Skirmish vs Sump Crawlers
+  - Node 3: Relic Vault — Year Zero Municipal Diary Recovered
+  - Node 4: Ballast Depot — Civil Boundary Rest & Oxygen Scrub
+  - Node 5: Brine Geyser — Elite Sump Matron Breach Battle
+  - Node 6: Culvert Valve — Sora's Acoustic Resonance Attunement
+  - Node 7: Crypta Gate — Apex Boss Gauntlet: SECC-012 Drowned Guardian
 
-- **Arc 2: The Forgotten Districts** (Zone B)
+- **Arc 2: Petrobyeok** (Strata 2: Necropolis, -150m to -450m)
   - Passage 1: The Mason's Wall — Doha confronts the wall he built
   - Passage 2: The Hidden Settlement — People living in Han-consumed areas
   - Passage 3: The Hollow Residents — Who are they? Why did they stay?
@@ -30,7 +31,7 @@
   - Passage 5: The Choice — Tear down the wall, or leave it standing
   - Passage 6: Return — Doha's transformation
 
-- **Arc 3: The Hidden Routes** (Zone C)
+- **Arc 3: Furtugil** (Strata 3: Arteries, -450m to -800m)
   - Passage 1: The Fray Network — Mapping the criminal underground
   - Passage 2: The Ancient Tunnels — Predating the city itself
   - Passage 3: The Sentinel's Failure — Harin confronts her past
@@ -38,7 +39,7 @@
   - Passage 5: The Connection — Where do the tunnels lead?
   - Passage 6: Return — Harin's redemption
 
-- **Arc 4: The Deep Gardens** (Zone D)
+- **Arc 4: Radikkum** (Strata 4: Dream Roots, -800m to -1,200m)
   - Passage 1: Beneath the Flowers — What grows in the dark?
   - Passage 2: The Gateway — The Echo Gardens are more than a memorial
   - Passage 3: The Dream Bleeds — Sora's perception becomes dangerous
@@ -46,7 +47,7 @@
   - Passage 5: The Other Side — What lies beyond the gateway?
   - Passage 6: Return — Sora accepts her gift
 
-- **Arc 5: The Border Tunnels** (Zone E)
+- **Arc 5: Limesteum** (Strata 5: Footing, -1,200m to -1,600m)
   - Passage 1: Beneath the Wall — Tunnels under the Perimeter
   - Passage 2: The Forgotten Memory — Minjae's forbidden truth surfaces
   - Passage 3: Outside Sorrow — The Desolate seeps in
@@ -54,7 +55,7 @@
   - Passage 5: The Passage — Where do the tunnels lead?
   - Passage 6: Return — Minjae's burden grows
 
-- **Arc 6: The Desolate — The Scar**
+- **Arc 6: Traumagol** (Strata 6: Rift, -1,600m to -2,200m)
   - Passage 1: Beyond the City — Entering the Desolate for the first time
   - Passage 2: The Occlusihan Rift — The Scar's history
   - Passage 3: The Scar Walker — Confronting the guardian
@@ -85,563 +86,505 @@
 ---
 
 
-## Arc 1: The Undercity (지하도시 — Jihadoshi)
+## Arc 1: Cryptasu (심층 하강록 제1장: 묘혈수 / 墓穴水)
+### Strata 1: The Drowned Catacombs of Year Zero
 
-### Zone B — Beneath the Streets
+| Operational Attribute | Mission Specification |
+|---|---|
+| **Campaign Title** | Katabagil: The Seven Descents (심층 하강록) |
+| **Passage Designation**| Passage 1: Cryptasu (묘혈수 — The Flooded Catacomb) |
+| **Target Stratum** | Strata 1: Sub-Municipal Karst (0m to -150m) |
+| **Ingress Point** | Old Lament Sub-Sump Conduits (Zone B Bedrock) |
+| **Ambient Sorrow** | 85 to 140 mHb (Low-to-Moderate Karst Saturation) |
+| **Deploying Unit** | The Seven Vanguard Specialists (Full Cadre) |
+| **Transport Rig** | Class-I Scout Probe *The Chthonic Needle* |
+| **Apex Entity Threat** | SECC-012 "The Drowned Guardian of Year Zero" |
 
-> *"We thought we knew Zone B. We thought the Old Lament was the bottom. We were wrong. There is always something lower."*
-
----
-
-### Overview
-
-The SED's first mission takes the team **beneath Zone B** — into the Undercity, a network of tunnels, chambers, and forgotten spaces beneath the city's oldest district.
-
-**Mission objective:** Map the Undercity. Document what exists. Return alive.
-
-**Duration:** 3 weeks
-
-**Threat level:** High — unmapped, Han-dense, unknown Sorrow Entities.
-
-**Standard Equipment (SED-Issue M.A.W.):**
-
-| Member | M.A.W. | Type | Element |
-|--------|--------|------|---------|
-| **Yeonhwa** | The Cartographer's Lens | Accessory (Monocle) | Void |
-| **Doha** | The Builder's Hammer | Weapon (Hammer) | Weight |
-| **Harin** | The Sentinel's Shield | Armor (Shield) | Grudge |
-| **Sora** | The Dreamer's Veil | Accessory (Mask) | Lament |
-| **Minjae** | The Archivist's Lens | Accessory (Monocle) | Void |
-| **Jisoo** | The Accountant's Scale | Tool (Scale) | Weight |
-| **The Silent One** | The Silent One's Burden | Tool (Sealed container) | Lament+Weight |
+> *"The water under our boots does not flow from rain or melting snow. It is the cold, unspent brine of a city that drowned four thousand years ago and forgot how to die."*  
+> — Cartographer Yeonhwa, Sub-Sump Acoustic Log 01
 
 ---
 
-### Chapter 1: Descent
+## The Spire Path: Strata 1 Exploration Route
 
-The wall whispered.
+The descent through the porous limestone karst beneath Zone B is mapped as a branching subterranean expedition node path. The vanguard must balance structural stability, life-ballast oxygen reserves, and entity suppression to reach the descent gate leading into Strata 2:
 
-It had been whispering for as long as anyone in the Old Lament could remember — a faint, ambient murmur, like the memory of a conversation held centuries ago. Most residents learned to ignore it. The Cartographer could not.
-
-Yeonhwa pressed her Lens against the stone. The Han-flow lines flared — blue threads of sorrow-energy that only the Lens could see, converging on a point three meters below their feet. The lines were strong here. Stronger than anywhere else in the Old Lament. They pulsed with a rhythm that reminded her of a heartbeat — slow, steady, ancient.
-
-**"There,"** she said, her voice barely above a whisper. **"The flow lines converge. There's a passage."**
-
-Doha stepped forward, his hammer resting on his shoulder. The Builder's Hammer was heavy — heavier than it looked — and the Han-crystal head glowed faintly in the dim light. He pressed his palm against the wall, feeling the structure. His fingers traced the seams between stones, reading the architecture like a blind man reads braille.
-
-**"The structure is old,"** he said after a long moment. **"Pre-Consolihan. Maybe older."** He paused, his brow furrowing. **"It's holding. Barely. The Han has crystallized in the joints — that's what's keeping it together. But the crystal is... unstable. If we disturb it wrong, the whole section could collapse."**
-
-Harin stepped up beside him, her shield raised. The Sentinel's Shield was a battered thing — scarred from a hundred engagements, cracked from a thousand impacts. But it held. It always held. She had replaced the core three times since the squad wipe. Each time, she told herself it was the last time. Each time, she was lying.
-
-**"How many exits?"** she asked, her voice flat, professional.
-
-**"One,"** Yeonhwa said, not looking up from her Lens. **"The way we came in."**
-
-**"Wonderful."** Harin's jaw tightened. **"No retreat."**
-
-**"There's always retreat,"** Sora said softly. She was standing a few paces back, her eyes unfocused — looking at something the others couldn't see. The Dreamer's Veil hung around her neck, a translucent mask that shimmered with faint light. She hadn't put it on yet. She didn't need to. The Dream was close here — closer than it should be. She could feel it pressing against the edges of reality, like water against a thin membrane.
-
-**"The Dream is thin here,"** she continued, her voice distant. **"I can feel it. The boundary is... soft. If I wanted to, I could step through."**
-
-**"Don't,"** Minjae said sharply. He was adjusting his Lens — the Archivist's Lens was larger than Yeonhwa's, designed for reading memory-imprints rather than Han-flow lines. **"The deeper we go, the stronger the Han. Your perception will blur. You'll start seeing things that aren't there — or worse, things that *are* there but shouldn't be."**
-
-Sora smiled — a sad, distant smile. **"It's already blurred. I've been seeing things since we entered Zone B. Shadows that move. Walls that breathe. Faces in the crystal."** She paused. **"I can't always tell what's real."**
-
-**"That's what we're for,"** Jisoo said, not looking up from her Scale. The Accountant's Scale was a delicate instrument — two small dishes of Han-crystal, balanced on a thin beam. She had been weighing the ambient Han since they entered the Old Lament. The readings were... significant. **"The debt-weight of this area is... heavy. Whatever happened here, it left a mark. A deep one."**
-
-The Silent One said nothing. They never did. They stood at the edge of the group, the Burden — a sealed container of dark Han-crystal — cradled in their arms. The Burden hummed faintly, a low vibration that the others could feel in their bones but not hear.
-
-The Silent One pointed at the wall. Then at the ground. Then nodded.
-
-Doha looked at Yeonhwa. She nodded.
-
-He swung his hammer.
-
-The wall crumbled — not in a cascade of rubble, but in a slow, almost reluctant dissolution. The stones didn't fall; they *melted*, dissolving into dark Han-tar that pooled at their feet before solidifying again. Behind the wall: a tunnel. Narrow. Dark. Descending at a steep angle.
-
-The whispering grew louder.
-
-**"Stay close,"** Yeonhwa said, activating her Lens. The Han-flow lines blazed to life — blue threads converging downward, pulling them into the dark. **"And whatever you do — don't touch the walls."**
+```text
++==================+===========================+
+| EXPLORATION TIER | CHOSEN NODE & ENCOUNTER   |
++==================+===========================+
+|                  | Node 1: Entry Ingress     |
+| SURFACE INGRESS  | Old Lament Breach         |
+|                  +---------------------------+
+| (0m to -30m)     | Node 2: Aqueduct Fork     |
+|                  | Skirmish vs Crawlers      |
++------------------+---------------------------+
+|                  | Node 3: Relic Vault       |
+| MID-KARST RUN    | Year Zero Diary Found     |
+|                  +---------------------------+
+| (-30m to -100m)  | Node 4: Ballast Depot     |
+|                  | Rest & Oxygen Refill      |
+|                  +---------------------------+
+|                  | Node 5: Brine Geyser      |
+|                  | Elite Anomaly Breach      |
++------------------+---------------------------+
+|                  | Node 6: Culvert Valve     |
+| APEX GATE SECTOR | Sora Resonance Tuning     |
+|                  +---------------------------+
+| (-100m to -150m) | Node 7: Crypta Gate       |
+|                  | Apex Boss: SECC-012       |
++==================+===========================+
+```
 
 ---
 
-### Chapter 2: The First Chamber
+## Chapter I: Node 1 — The Pavement That Wept
 
-They descended.
+The surface of Zone B was drowning in cold, sulfurous rain when the vanguard assembled on the cracked cobblestones of the Old Lament. Above them, the iron fire escapes and soot-blackened tenements hung heavy in the gray mist, silent save for the persistent rhythmic drip of water striking tin awnings. For three centuries, residents of the district had reported a dull, subterranean vibration beneath their basements—a sound described by local drapers and cobblers as an ancient waterwheel turning through mud.
 
-The tunnel was narrow — barely wide enough for two people side by side. The walls were rough Han-crystal — warm to the touch, pulsing faintly with the rhythm Yeonhwa had noticed above. The air was heavy — not with heat, but with *weight*. Every breath felt like inhaling sorrow. It settled in the lungs, in the bones, in the mind.
+Yeonhwa knelt upon the wet pavement, adjusting the brass vernier calipers of *The Horizon Theodolite* mounted across her ocular visor. While her physical eyes remained blind—milky globes clouded by the toxic flood that had claimed her first command decade ago—the acoustic crystals embedded in her temples pulsed with azure light. Through the soles of her lead-lined boots, she felt the city breathing.
 
-Yeonhwa's Lens painted the darkness with Han-flow lines — blue threads converging downward, growing stronger with every step. The lines pulsed with that same heartbeat rhythm, and she realized with a start that it wasn't just the walls. The entire tunnel was *alive* — a vein in the city's body, carrying sorrow from the surface to whatever lay below.
+"The resonance lines are fracturing three meters beneath our feet," Yeonhwa said softly, her voice crisp and measured against the steady drumming of the rain. "The municipal storm culvert has buckled. The bedrock below is not solid granite; it is porous pre-cataclysm limestone, hollowed out by centuries of weeping runoff. The convergence point lies directly below this drain grate."
 
-**"The flow is strong,"** she murmured, more to herself than to the others. **"Whatever's down there, it's drawing Han toward it. Like a drain. Like a heart."**
+Doha stepped forward, uncoupling *The Calcified Pneumatic Ram* from the magnetic harness across his broad shoulders. Standing over six feet tall with forearms corded like ancient hawser ropes, the master architect carried the somber dignity of a man whose ancestors had built the very walls that sealed off half the world. He pressed his bare palm against the asphalt, feeling the structural tension within the rock.
 
-**"How deep?"** Harin asked. She was walking point, shield raised, every sense alert. The tunnel was dark — their Han-lamps cast circles of warm light that seemed to be swallowed by the darkness just a few meters ahead.
+"The masonry down there is Pre-Consolihan," Doha murmured, his deep baritone vibrating in his chest. "Ashlar blocks of volcanic basalt bound with calcified Han-brine instead of mortar. It is holding under eighty metric tons of surface overburden, but the joints are weeping. If we trigger a kinetic fracture improperly, the entire street will sink forty feet into the sump."
 
-**"I can't see the bottom."** Yeonhwa adjusted her Lens. **"The flow lines converge at a point beyond my range. It could be fifty meters down. It could be five hundred."**
+Harin slammed the butt of *The Bastion of the Low* against the curb, its twin pneumatic steel ground spikes driving two inches into the paving stone with a sharp hiss of compressed steam. Her scarred face was set in rigid lines, her amber eyes scanning the empty alleys and dark apartment windows for syndicate scouts or municipal informers.
 
-**"Encouraging,"** Doha muttered. He was watching the walls, his hammer ready. The crystal here was different from above — darker, denser, with veins of something that looked like dried blood running through it. **"The structure changes as we go deeper. The crystal is... older. More compressed. Whatever's down there has been drawing Han for a very long time."**
+"We have twelve minutes before the local Giltong patrol sweeps this avenue," Harin stated flatly. "If we are going through the floor, we do it now. Doha, crack the seam. I will hold point on the drop."
 
-They found the first chamber twenty minutes in.
+At the rear of the squad, Dreamer Sora stood motionless, her slender frame enveloped in the gray folds of *The Silver Slumber Cowl*. The fine silver filaments woven into the fabric drifted in the air as if floating in water, catching the ambient psychic hum of the district. Her pale lips parted, tasting the moisture in the air.
 
-The tunnel opened into a space — not large, perhaps ten meters across, with a ceiling that disappeared into darkness above. The floor was smooth Han-crystal, polished by centuries of Han-flow. And against the far wall: a door.
+"It smells of drowned bronze," Sora whispered, her gaze unfocused. "And old paper. Someone drowned down there with a ledger in their arms, praying for the water to stop. The water never stopped."
 
-The door was Han-crystal — sealed, warm, pulsing. It was taller than any of them, wider than Doha's arm span, and covered in markings that Yeonhwa's Lens couldn't read. The Han-flow lines converged on the door like veins on a heart — dozens of threads, all leading to this single point.
+Doha nodded once. He set the diamond-pointed chisel of the pneumatic ram against the center of the drainage slab, grasped the dual throttles, and engaged the compressed carbon-dioxide piston. A sharp, deafening impact cracked through the cobblestones. The stone did not shatter into jagged fragments; instead, the ancient calcified mortar dissolved into thick, black Han-tar that hissed and pooled around their boots.
 
-**"Something's inside,"** Yeonhwa said, her voice barely audible over the whispering.
+The slab dropped into the void, followed by a rushing blast of damp, freezing subterranean air that smelled of mineral salt, copper, and ancient earth. A vertical karst chimney descended into absolute blackness.
 
-**"Something's always inside,"** Doha muttered. He stepped forward, pressing his palm against the door. His eyes closed. He was reading the structure — feeling the crystalline patterns, the stress points, the age. **"The structure is intact. Whatever sealed this, it was deliberate. The crystal was shaped — not grown. Someone built this door."**
+"Descent line secured," Harin barked, clipping her descent carabiner to the steel anchor Doha had driven into the street curb. "Vanguard moving down. Watch your boot placement—the limestone is slick."
 
-**"Open it?"** Harin asked.
-
-Yeonhwa looked at the team. Sora was staring at the door — her eyes wide, unfocused, seeing something beyond the physical surface. The Dreamer's Veil was vibrating against her chest, resonating with something on the other side.
-
-**"There's something in there,"** Sora whispered. Her voice was different — thinner, as if she were speaking from a great distance. **"I can see it through the Dream. A person. Sitting. Waiting. They've been waiting for a very long time."**
-
-Minjae adjusted his Lens. The Archivist's Lens was designed to read memory-imprints — the emotional residue left on objects by their owners. He pressed it against the door and activated it. The Lens hummed. Then it spoke — not in words, but in *feeling*. A wave of sorrow washed over him — old, heavy, patient.
-
-**"The memory-imprint is... old,"** he said, his voice strained. **"Pre-Consolihan. This door hasn't been opened in centuries. Maybe longer."** He paused. **"The person inside — they're not dead. Not exactly. They're... crystallized. Their sorrow solidified around them. They're part of the wall now."**
-
-**"Can they be saved?"** Sora asked.
-
-Minjae looked at her. **"I don't know."**
-
-**"Open it,"** Jisoo said. She had been silent, watching, calculating. **"Every sealed door is a debt owed to the future. Someone sealed this door to hide something — or to protect something. Either way, we need to know what."**
-
-Doha looked at Yeonhwa. She nodded.
-
-He swung his hammer. The door cracked — a spiderweb of fractures spreading across the crystal surface. He swung again. The fractures deepened. On the third swing, the door shattered — not into rubble, but into a cascade of crystalline fragments that tinkled like glass as they hit the floor.
-
-Inside: a room frozen in time.
-
-Furniture — a table, two chairs, a bed — all made of solidified Han. A child's toy — a small figure carved from crystal, lying on the floor as if just set down. The walls were covered in writing — not carved, but *grown* from Han-crystal, the letters emerging from the surface like buds from a branch.
-
-Minjae stepped inside. His Lens activated, the memory-imprints blazing to life. The writing glowed — faintly, softly, as if remembering itself.
-
-**"It's a diary,"** he breathed. **"Someone's diary. Preserved in Han."**
-
-He began to read aloud:
-
-> **"Day 1. We have gathered at the pool. The Han is warm here. We build with what we have — which is sorrow. The walls are solid. The roof holds. We are alive."**
-
-> **"Day 47. The walls whisper at night. We thought they were cold. We didn't know they were listening."**
-
-> **"Day 112. The Han is growing. Not in the walls — in us. We feel each other's grief. We cannot help it. When Maro weeps for her lost son, we all weep. When Taeku rages against the injustice, we all burn."**
-
-> **"Day 159. The walls are changing. They are not just crystal anymore. They have... texture. Like skin. Like flesh. I touched the wall today and it was warm. Not Han-warm. Alive-warm."**
-
-> **"Day 203. The walls are hungry. We thought they were cold. We didn't know they were"**
-
-The entry ended mid-sentence.
-
-Silence.
-
-The whispering grew louder.
-
-Then Sora screamed.
+One by one, the seven specialists slipped through the pavement, leaving the surface city behind.
 
 ---
 
-### Chapter 3: The Hunger
+## Chapter II: Node 2 — The Drowned Aqueduct Fork
 
-The walls moved.
+At negative twenty-five meters, the vertical chimney opened into a monumental vaulted cavern constructed from dark limestone blocks. The ceiling rose twelve meters overhead, supported by massive fluted pillars carved in an architectural style unseen in modern Somnarak. Running down the center of the cavern was a subterranean aqueduct five meters wide, choked with rushing, foam-flecked black brine that surged south toward the Maw.
 
-Not much — a few inches. But they *moved*. The chamber contracted — the walls leaning inward, as if drawn to the team's presence. The furniture cracked. The child's toy slid across the floor. The writing on the walls flickered — the letters rearranging themselves, forming new words.
+Yeonhwa adjusted her theodolite, projecting an acoustic sonar wireframe across the squad's visors. The green geometric lines revealed a major fork fifty meters downstream:
+- **Path 2-A (The Drowned Siphon):** The aqueduct plunged into a submerged pipe system. Acoustic pings indicated biological movement—a nest of subterranean scavenger entities clinging to the masonry.
+- **Path 2-B (The Collapsed Retaining Sump):** A dry bypass choked with fifteen tons of shattered basalt rubble. Traversing it required Doha to expend pneumatic cartridges to clear the blockage, carrying a minor risk of triggering a localized ceiling collapse.
 
-*Stay. Stay with us. We are hungry.*
+"Path 2-A has entities," Harin said, checking the pneumatic pressure gauge on her tower shield. "Class-I Sump Stalkers. Blind, feral, attracted to acoustic vibration. If we take the water, we fight in knee-deep mud."
 
-**"BACK!"** Harin roared, raising her shield. **"BACK TO THE TUNNEL!"**
+"Path 2-B will cost three pneumatic canisters to excavate," Doha noted, inspecting the rubble fall. "And the noise of the hydraulic ram might shake loose the limestone ceiling above us. But we avoid contaminating our diving seals with active entity brine."
 
-They ran. The walls followed — slow, deliberate, hungry. The chamber collapsed behind them — not with a crash, but with a *swallow*. The walls consumed the space, closing over the furniture, the toy, the diary, like a mouth closing over food.
+Jisoo unslung *The Hydraulic Ballast Ledger*, her mechanical brass calculation dials clicking rapidly as her fingers flew across the input levers. Her dark eyes were clinical, devoid of hesitation.
 
-In the tunnel, the Han-crystal walls pulsed. The whispering grew louder — not ambient anymore, but *directed*. At them.
+"We have seventy-two pneumatic cartridges in primary storage," Jisoo declared, her voice precise and unyielding. "Consuming three cartridges here increases our logistical risk margin by exactly four point two percent in Strata 3. Furthermore, our oxygen ballast burn rate increases during heavy manual excavation. Engagement of Path 2-A costs zero cartridges, and Harin's shield phalanx possesses an eighty-eight percent tactical probability of suppressing Class-I vermin without sustaining suit integrity damage. We take the siphon."
 
-**"It's the Han,"** Yeonhwa gasped, her Lens flaring. The flow lines were going haywire — spinning, converging, exploding outward. **"The walls are responding to our presence. We're *feeding* it."**
+"The accountant has spoken," Harin grunted, leveling her shock lance. "Form up behind my shield. Silent One, take the left flank. Doha, watch the rear."
 
-**"Feeding it what?"** Doha demanded, hammer raised.
+### Skirmish Encounter: The Sump Stalkers
 
-**"Our sorrow. Our presence. Our *weight*. The Han in the walls is reacting to the Han in us. It's... it's trying to absorb us."**
+As the squad waded into the freezing aqueduct, the black brine surged around their knees. The water was unnaturally cold, carrying a faint psychic chill that prickled their skin through their insulated suits. From the shadows beneath the vaulted ceiling, four shapes detached themselves from the slick stone walls.
 
-A sound — deep, resonant, like a bell tolling underground. The tunnel shook. Dust fell from the ceiling. The Han-lamps flickered.
+The entities were grotesque fusions of amphibian biology and calcified grief: pale, elongated humanoids with translucent skin through which black crystalline veins pulsed. Their faces were smooth bone lacking eyes or nostrils, dominated only by a vertical maw lined with needle-like basalt teeth.
 
-Then it appeared.
+```text
+================================================================================
+ SKIRMISH RESOLUTION: THE SUMP STALKERS (4x CLASS-I FERAL VERMIN)
+================================================================================
+ INITIATIVE: Harin (Speed 6), The Silent One (Speed 5), Stalkers (Speed 4), Doha (Speed 3)
 
-From the darkness ahead — a shape. Massive. Made of the same Han-crystal as the walls, but *mobile*. It had no face. No eyes. Just a body — humanoid, three meters tall, made of solidified grief. Its limbs were thick, its movements slow, deliberate. It moved toward them with the inevitability of a glacier.
+ TURN 1 CLASH:
+ - Harin declares [Pneumatic Wall Bash] vs Stalker 1 [Leaping Bite]
+   * Harin: Base 5 + Coin 1 (Heads +4) = 9
+   * Stalker 1: Base 3 + Coin 1 (Tails +0) = 3 -> HARIN WINS CLASH
+   * Stalker 1 deflected! Harin inflicts 42 Kinetic-Weight damage. Stalker 1 STAGGERED.
 
-**"Sorrow Entity,"** Minjae said, his Lens scanning. His voice was steady, but his hands were not. **"Classification unknown. Coherence level... high. Potency..."** He trailed off. **"The gauge is red."**
+ - The Silent One declares [Severing Arc] vs Stalker 2 [Bone Claws]
+   * Silent One: Base 6 + Coin 1 (Heads +3) + Coin 2 (Heads +3) = 12
+   * Stalker 2: Base 4 + Coin 1 (Heads +2) = 6 -> SILENT ONE WINS CLASH
+   * Fatal Grudge Strike! 78 Slash damage dealt. Stalker 2 KILLED instantly.
 
-**"Red?"** Harin stepped forward, shield raised. **"How red?"**
+ TURN 2 CLEANUP:
+ - Doha advances with [Bedrock Cleave], crushing the staggered Stalker 1 (65 Dmg - KILLED).
+ - Yeonhwa fires an [Acoustic Dart] from Band 4, disorienting Stalker 3 and 4.
+ - The Silent One executes a silent paired sweep, severing both remaining entities.
+ OUTCOME: Flawless suppression in 2 turns. Zero squad damage. +5 SP to all specialists.
+================================================================================
+```
 
-**"Red."**
-
-The entity stopped. It was five meters away. Close enough that they could see the details — the crystalline texture of its body, the faint pulse of Han-energy running through it like blood through veins, the way the air around it shimmered with contained sorrow.
-
-It raised one hand — a hand made of crystallized sorrow — and pointed at them.
-
-Then it spoke.
-
-Not in words. In *feeling*. A wave of grief so profound it buckled their knees. They felt it in their bones, in their minds, in their hearts — a sorrow that was not their own, but that resonated with every loss they had ever experienced.
-
-*You are trespassing. This is our home. You carry sorrow that is not yours. Leave. Or become part of us.*
-
----
-
-### Chapter 4: The First Fight
-
-**"MOVE!"** Harin lunged forward, shield leading.
-
-The entity's hand came down — a hammer of sorrow. Harin blocked. The impact drove her to her knees. Her shield cracked — a jagged line running from top to bottom. The force of the blow sent shockwaves through her arms, her shoulders, her spine.
-
-**"It's strong!"** she gritted, bracing against the weight. **"I can't hold it!"**
-
-Doha swung his hammer — connecting with the entity's side. The hammer bounced off. The impact jarred his arms so badly he nearly dropped it. The entity didn't flinch. Didn't even turn.
-
-**"Hard exterior!"** Doha shouted, shaking his arms. **"I can't shape it — it's too dense! My hammer just... bounces!"**
-
-Sora raised her hands. The Dreamer's Veil activated — the translucent mask covering her face, showing her the entity's structure in ways the others couldn't see. The physical body was just a shell — a carapace of solidified sorrow. Inside, deeper, was something else. A core. A memory. A *person*.
-
-**"There's a core!"** she shouted. **"Deep inside! It's not the body — it's the *memory*! The memory of the people who built this place! The entity is protecting it!"**
-
-**"Can you reach it?"** Yeonhwa shouted.
-
-**"I can try — but I need time!"**
-
-**"You don't have it!"** Harin screamed.
-
-The entity struck again — a sweeping blow that caught Harin's shield at an angle. The shield shattered. The fragments scattered across the tunnel floor. Harin flew backward, hitting the tunnel wall with a sickening crack. She slid to the ground, dazed, bleeding.
-
-The entity turned to Sora. It reached for her — slow, deliberate, inevitable. Its hand opened — a cradle of crystal, not a fist. It wasn't trying to hurt her. It was trying to *take* her.
-
-Then the Silent One stepped forward.
-
-They placed their hand on the entity's chest. The Burden — the sealed container — hummed. The vibration was deeper now — not just felt in the bones, but in the *mind*. The entity stopped.
-
-The Silent One *sang*.
-
-Not with their voice — with the Burden. A sound that was not a sound — a vibration that resonated with the entity's core. It was not a song of words. It was a song of *feeling* — a shared sorrow, a recognition, a bridge between the Silent One's burden and the entity's grief.
-
-The entity trembled. Its hand lowered. Its body — that massive, impenetrable shell — began to soften. Not melt. *Relax*. Like a fist unclenching.
-
-Then it knelt.
-
-The Silent One turned to the team. They pointed at the entity. Then at Sora. Then at the tunnel ahead.
-
-*It will let us pass. But we must listen. We must hear its story.*
+The black corpses of the entities dissolved into oily silt, carried away by the rushing current. Harin wiped a smear of dark residue from the rim of her shield and signaled the advance.
 
 ---
 
-### Chapter 5: The Story
+## Chapter III: Node 3 — The Reliquary in the Mud
 
-The entity told its story — not in words, but in *feeling*.
+Past the aqueduct siphon at negative sixty-five meters, the cavern opened into a subterranean chamber that caused the entire squad to halt in stunned silence.
 
-They felt it all. Every emotion. Every memory. Every sorrow.
+Embedded directly into the limestone strata was the facade of a two-story municipal building. Its neoclassical columns, carved from dense white marble, were cracked and tilted at violent angles, partially submerged in a petrified flow of calcified mudstone. Bronze plaques, green with centuries of verdigris, clung to the lintels.
 
-The first settlers — gathering around the Han pool, building with solidified grief because there was nothing else. The walls growing — taking on the grief of everyone who lived there, absorbing their sorrow, becoming *alive*.
+"This is not a sewer," Minjae whispered, stepping forward with his lantern raised high. His breath misted in the cold air as his gloved fingers traced the eroded lettering on the central pediment. "This is a municipal civil engineering office from Year Zero. This building stood on the surface before the Great Cataclysm swallowed the Old Lament."
 
-The moment the walls became *hungry* — when the accumulated sorrow reached critical mass, when the structure began to *feed*. The thousand who were consumed — not by accident, but by necessity. The city needed to grow. The Han needed to be fed. The walls needed to eat.
+The archivist approached a heavy bronze vault door set into the building's foundation. The locking mechanism was an intricate clockwork array of counterweights and mercury tumblers, seized by centuries of mineral encrustation.
 
-The guilt of those who survived — knowing the walls were built on sacrifice. Knowing that every building, every street, every structure was made of *people*.
+"Stand back," Doha said, raising his hammer.
 
-The entity was not a monster. It was a *guardian* — protecting the memory of the first settlers. It attacked because the team carried sorrow that was not their own — borrowed, extracted, managed. The entity recognized the difference between *lived* sorrow and *processed* sorrow.
+"No!" Minjae snapped, his voice ringing with sudden authority. "If you strike that door with kinetic force, the internal mercury seals will rupture, and the vacuum chamber behind it will flood with brine. Everything inside will be destroyed."
 
-*You carry sorrow as a tool. We carry sorrow as a life. There is a difference.*
+Minjae unslung *The Cryo-Resonance Scribe* from his chest harness. He inserted three hollow silver probes into the seam of the vault door, releasing a measured vapor of cryogenic coolant that froze the calcified brine in the lock cylinders. With steady, practiced precision, he rotated the brass dial, listening to the microscopic clicks of the tumblers through the acoustic sensors in his earpiece.
 
-The Silent One nodded. They understood.
+With a heavy metallic groan that echoed through the cavern, the vault door swung inward.
 
-The entity stood. It stepped aside. The tunnel ahead was clear.
+Inside, resting upon an iron pedestal, sat a lead-lined dispatch case. Minjae carefully lifted the latches and opened the lid. Within lay a thick, leather-bound volume wrapped in oilskin: the personal field journal of **Chief Engineer Kang Myung-Dae**, the municipal surveyor who oversaw the subterranean flood defenses during the final days before the Consolihan.
 
----
+Minjae opened the brittle parchment under the warm amber glow of his preservation lamp. The ink, faded to a deep rust color, was written in an urgent, hurried script:
 
-### Chapter 6: Return
+> *Day 42 after the Rift Rupture.*  
+> *The Council's orders are absolute, and they are monstrous. They tell the populace that the new walls are being built to protect them from external invaders. It is a lie. The retaining walls are being erected to contain the subterranean flood of weeping that is rising from the planet's mantle. We are not building a foundation for a city; we are building a lid over a tomb. If the sluice gates at negative one hundred and fifty meters fail, the entire continent will be submerged in sorrow before the year is out. May God forgive those of us who held the trowels.*
 
-They returned to the surface.
+Silence settled over the chamber. Doha stared at the text, his large hands trembling slightly against the shaft of his hammer.
 
-The climb back was quiet. No one spoke. The weight of what they had learned pressed down on them — heavier than the Han, heavier than the sorrow, heavier than the entity's grief.
+"My family's crest is stamped on the bottom of this page," Doha said, his voice barely audible. "My great-grandfather was the lead mason who signed off on the containment order."
 
-At the surface, Harin sat against a wall, wrapping her cracked shield with a strip of cloth. Her hands were shaking. Not from fear. From the realization.
+"He did what was necessary to save the surface," Minjae said gently, sealing the journal inside a hermetic stasis envelope. "And now, we carry his ledger into the dark to finish what he started."
 
-**"We need better equipment,"** she said flatly.
-
-Yeonhwa nodded. She was cleaning her Lens, but her hands were unsteady. **"The standard M.A.W. isn't enough. We need specialized gear — something designed for deep exploration. Something that can handle what's down there."**
-
-Doha stared at his hammer. He turned it over in his hands, examining the head — looking for cracks, for damage, for any sign of what had happened. **"I couldn't shape that entity,"** he said quietly. **"My hammer bounced off. I need something... heavier. Something that can work with the density down there."**
-
-Sora was quiet. She was looking at the Dreamer's Veil in her hands — the translucent mask that had shown her the entity's core. **"I saw its core,"** she said softly. **"The memory. It was... beautiful. And terrible. The first settlers. Their faces. Their names. Their sorrow."** She paused. **"I can still feel them."**
-
-Minjae closed his Lens. He was the calmest of them all — but his eyes were distant, haunted. **"The diary is the most significant find. But the entity's story is equally important. The first settlers didn't just build with sorrow — they *became* sorrow. The city is made of people."**
-
-Jisoo calculated. She always calculated. **"The cost of this mission: one shattered shield, one cracked hammer, one shaken team. The value: immeasurable. We found the city's foundation."** She paused. **"And we found that the foundation is alive."**
-
-The Silent One said nothing. They never did. But they held the Burden closer — and for the first time, the others noticed that the Burden was humming. Not with the low, steady vibration they were used to. With something new. Something that sounded almost like... mourning.
+`[EXPEDITION DISCOVERY: Item Acquired — "Year Zero Sluice Ledger"]`  
+`[EFFECT: All squad members gain +15 SP. Unlocks structural bypass cipher for Node 7.]`
 
 ---
 
----
+## Chapter IV: Node 4 — Life-Ballast at the Civil Line (-50m)
 
-### Engagement Protocol: The Undercity Guardian
+Descending another thirty meters through an ancient spiral drainage staircase, the squad arrived at a monumental circular airlock door constructed from six-inch-thick rolled steel plates. Emblazoned across the center in faded yellow enamel was the official seal of the Council of Sighs:
 
-**Location:** Zone B — Undercity, first chamber tunnel
-**Enemies:** 1 Guardian Entity — The Hollow Knight (`IV-γ-073 [D]`), environmental hazards
-**Objective:** Survive the encounter, learn the entity's story, pass through
-**Duration:** 12 turns (Medium battle)
-**Threat level:** High — the entity is powerful, the environment is hostile
+```
+[MUNICIPAL BOUNDARY — NEGATIVE 50 METERS]
+[WARNING: CIVIL JURISDICTION TERMINATES BEYOND THIS AIRLOCK]
+[AUTHORIZED EXPLORATION PERSONNEL ONLY BY DECREE M-042]
+```
 
----
+The airlock led into **Staging Depot 1-A**, an automated survival outpost maintained by the SED Logistics Bureau. The bunker was carved directly into the basalt bedrock, dry, illuminated by steady hum of yellow Han-electric strips, and sealed against the damp, mineral-heavy atmosphere of the karst.
 
-#### Turn 1: Detection
+Jisoo immediately took command of the bunker's central maintenance terminal. She uncoupled the team's life-ballast canisters, sliding them into the wall-mounted recharging racks where synthetic oxygen, pressurized nitrogen, and aerosolized calming oils were pumped into the tanks.
 
-The team moves through the tunnel. Yeonhwa's Lens flares — Han-flow lines converging ahead.
+"Thirty-minute mandatory rest period," Jisoo announced, noting the readings on her clipboard. "Current life-ballast consumption: twelve point four percent. Our burn rate is within optimal parameters, but ambient Han-pressure has risen from eighty-five to one hundred and ten mHb. Everyone drinks sixty milliliters of mineral salt emulsion and sits for twenty minutes of cranial stabilization."
 
-> **Yeonhwa:** *"Something's ahead. The flow lines are converging. It's... big."*
+Harin unfastened the heavy chest plate of her armor, rolling her bruised shoulders with a grimace. She sat on an iron bench beside Doha, who was staring down at his calloused hands.
 
-> **Harin:** *"How big?"*
+"You look like you're carrying the whole mountain on your neck, mason," Harin said quietly, offering him an aluminum canteen.
 
-> **Yeonhwa:** *"I can't see the edges."*
+Doha took the canteen, took a slow swallow, and looked up at the reinforced steel ceiling. "For sixty years, my father told me our family were heroes who saved Somnarak from collapsing into the abyss. He never mentioned that they locked three thousand municipal workers behind the sluice gates to keep the brine from rising."
 
-The tunnel opens into a chamber — ten meters across, ceiling disappearing into darkness. And in the center: a shape.
+"My division commander in the Wardens told me the same thing when we sealed Gate IV during the winter famine," Harin replied, her voice cold and level. "Commanders tell lies so soldiers can sleep at night. But down here, there are no commanders. There's just us, the stone, and the people who died in the dark. We don't owe the Council our lives, Doha. We owe the dead the truth."
 
-Massive. Humanoid. Three meters tall. Made of solidified grief.
+At the edge of the room, Sora sat cross-legged on the floor, her cowl lowered. Her dark hair was damp with sweat, her eyes reflecting the pale yellow light of the terminal.
 
-> **Minjae:** *"Sorrow Entity. Classification unknown. Potency... the gauge is red."*
+"The water is getting warmer," Sora said softly, looking toward the heavy exit airlock. "And louder. The closer we get to the gate, the more the water remembers how it felt to drown. It isn't angry with us. It's just lonely."
 
-> **Harin:** *"Red? How red?"*
+The Silent One walked past, their dark Before-Time cleaver resting against their hip. They paused before Sora, reached into their utility pouch, and dropped a small, smooth pebble of black obsidian into her palm. Sora looked at the stone, then up at the mute warrior, a faint smile touching her lips.
 
-> **Minjae:** *"Red."*
+"Thank you," she whispered. "It keeps the noise away."
 
----
+Jisoo's timer chimed with a sharp mechanical ping.
 
-#### Turn 2: First Contact
-
-The entity raises one hand — a hand of crystallized sorrow. It points at the team.
-
-Then it speaks. Not in words. In *feeling*.
-
-A wave of grief washes over the team — profound, ancient, overwhelming. They feel it in their bones, their minds, their hearts.
-
-*You are trespassing. This is our home. You carry sorrow that is not yours. Leave. Or become part of us.*
-
-> **Doha:** *"It's talking."*
-
-> **Sora:** *"Not talking. Feeling. It's... it's sharing its sorrow."*
-
-> **Harin:** *"I don't want its sorrow. I want to get past it."*
-
-> **Yeonhwa:** *"We can't fight it. It's too powerful. We need to understand it."*
+"Rest cycle complete," the accountant stated, strapping her ledger back to her chest. "Oxygen canisters refilled to one hundred percent. Ambient pressure beyond this airlock is one hundred and thirty-five mHb. Lock your helmets, seal your collars, and prepare for high-pressure descent."
 
 ---
 
-#### Turn 3: Harin Engages
+## Chapter V: Node 5 — The Boiling Geysers
 
-Harin steps forward — shield raised, Aegis glowing.
+Beyond the negative fifty-meter depot, the nature of the karst underwent a violent transformation. The freezing brine of the upper aqueducts gave way to sweltering, humid steam that billowed from deep fissures in the limestone floor.
 
-> **Harin:** *"We're not leaving. We're here to map. To understand. To learn."*
+The squad entered **The Sump Caldron** at negative ninety meters—a cavernous amphitheater three hundred meters wide where natural hydrothermal vents interacted with a concentrated vein of raw liquid Han. Jets of boiling mineral brine shot thirty feet into the air with deafening shrieks, coating the stalactites overhead in thick, crystalline crusts of bright crimson Grudge.
 
-The entity does not respond. It raises its hand — and strikes.
+"Hold the line!" Yeonhwa shouted over the roar of the geysers, her visor flaring as the theodolite fought through the dense steam. "Thermal sensors indicate three hundred degrees Celsius in the center vent! The rock bridge ahead is compromised!"
 
-A hammer of sorrow — descending toward Harin. She blocks with her Aegis.
+Before the squad could adjust their footing, a violent tremor shook the cavern floor. The central brine geyser erupted in a towering column of crimson foam, and from the boiling depths of the subterranean pool, a colossal figure hoisted itself onto the limestone ledge.
 
-The impact drives her to her knees. Her shield cracks — a jagged line from top to bottom.
+### Elite Anomaly Encounter: The Sump Matron
 
-> **Harin:** *"It's strong! I can't hold it!"*
+The entity, catalogued under field code **SECC-E04 "The Sump Matron"**, was a terrifying manifestation of collective drowning trauma. Standing five meters tall, its bloated, translucent torso was formed from centuries of accumulated scalding Han-brine held together by a ribcage of blackened iron drainage pipes. Within its chest cavity, three weeping human effigies could be seen thrashing in the boiling liquid, their mouths open in soundless screams.
 
-> **Doha:** *"My hammer bounced off! I can't shape it!"*
+```text
+================================================================================
+ ELITE ANOMALY COMBAT: SECC-E04 "THE SUMP MATRON" (WAW-01 TIER)
+================================================================================
+ BOSS ATTRIBUTES: HP: 950 | Stagger: 380 | Element: Grudge (Crimson)
+ RESISTANCES: Grudge (Endured 0.5x), Lament (Fatal 2.0x), Void (Normal 1.0x), Weight (Normal 1.0x)
 
----
+ TURN 1:
+ - Boss initiates [Scalding Brine Deluge] (AoE Range 5): Base 8 + 2 Coins (+3 each)
+ - Harin activates [Bastion Overdrive - Thermal Retain] to intercept the wave:
+   * Harin: Base 7 + 3 Coins (+2 each) = 13 vs Boss: Base 8 + Coin 1 (T) + Coin 2 (H) = 11
+   * CLASH WIN! Harin plants the tower shield, anchoring the squad behind her steel mantle.
+   * Thermal wave deflected! Harin takes 18 reduced heat damage, shield absorbing the brunt.
 
-#### Turn 4: Sora Observes
+ TURN 2:
+ - Yeonhwa identifies structural thermal conduit: "The right valve pipe is venting pressure!"
+ - Sora unleashes [Lament Weave - Cryo-Tuning] from Range Band 3:
+   * Sora: Base 6 + 2 Coins (Heads, Heads +4) = 14
+   * Striking vulnerable Lament weakness (2.0x Fatal)! 112 Cryo-Lament damage inflicted!
+   * The boiling brine in the Matron's chest begins to crystallize into pale blue ice.
 
-Sora activates her Veil — the Dream-layer overlays reality. She sees the entity's structure.
+ TURN 3:
+ - Doha deploys [Hydraulic Bedrock Anchor]:
+   * Drives a five-foot tungsten steel pin straight through the Matron's base into the rock.
+   * Boss pinned to the ledge! Movement reduced to zero. Stagger bar filled: STAGGER PROC!
 
-> **Sora:** *"There's a core! Deep inside! It's not the body — it's the memory! The entity is protecting something!"*
+ TURN 4:
+ - The Silent One executes [Relic Cleaver - Void Severance]:
+   * Critical strike against the exposed iron ribcage while staggered!
+   * 240 Void damage dealt. The iron pipes shatter. The boiling brine collapses into inert sludge.
+ OUTCOME: Elite Anomaly neutralized in 4 turns. Area thermal vent sealed by Doha.
+ REWARDS: 1x Crystallized Grudge Core recovered. +10 SP to squad. Zero suit breaches.
+================================================================================
+```
 
-> **Yeonhwa:** *"Can you reach it?"*
+With a final, bubbling sigh, the entity collapsed into the bubbling pools below. Doha immediately deployed two canisters of rapid-hardening basalt foam across the ruptured steam vent, sealing the fissure and dropping the chamber's temperature back to manageable levels.
 
-> **Sora:** *"I can try — but I need time!"*
-
-> **Harin:** *"You don't have it!"*
-
-The entity strikes again — sweeping blow. Harin's shield shatters. She flies backward, hitting the tunnel wall.
-
-> **Harin:** *"I'm down! Shield's gone!"*
-
----
-
-#### Turn 5: The Silent One Steps Forward
-
-The Silent One steps forward — the Burden humming in their arms.
-
-They place their hand on the entity's chest. The Burden resonates — a deep, powerful vibration.
-
-The entity stops.
-
-The Silent One *sings*. Not with their voice — with the Burden. A sound that is not a sound. A song of shared sorrow.
-
-> **Sora:** *"They're... communicating. The Silent One is speaking to it."*
-
-> **Minjae:** *"How?"*
-
-> **Sora:** *"Through sorrow. They're sharing sorrow. The entity recognizes it."*
-
----
-
-#### Turn 6: The Entity Responds
-
-The entity trembles. Its hand lowers. Its body softens — the hard crystal becoming flexible.
-
-Then it kneels.
-
-Not in submission. In *recognition*.
-
-> **Doha:** *"It's... kneeling."*
-
-> **Yeonhwa:** *"The Silent One reached it. Through sorrow."*
-
-The Silent One turns to the team. They point at the entity. Then at Sora. Then at the tunnel ahead.
-
-*It will let us pass. But we must listen. We must hear its story.*
+"Clear," Harin panted, lowering her steaming shield. Her gauntlets were scorched black, but the integrity seals held firm. "That was too close. The entities down here aren't just feral—they're organized around the floodgate."
 
 ---
 
-#### Turn 7: The Story
+## Chapter VI: Node 6 — The Whispering Culvert
 
-The entity tells its story — not in words, but in *feeling*.
+At negative one hundred and thirty meters, the steam cleared, revealing the entrance to the lower abyssal conduit: **The Whispering Culvert**.
 
-The team feels everything:
-- The first settlers — building with sorrow because there was nothing else
-- The walls growing — absorbing grief, becoming alive
-- The moment the walls became *hungry* — when sorrow reached critical mass
-- The thousand consumed — not by accident, but by necessity
-- The guilt of those who survived
+Here, the water flowed silently—a dark, glassy canal two feet deep, moving between smooth, hand-carved stone embankments. Spanning the entire width of the tunnel was a monolithic bronze floodgate twenty meters tall and forty meters wide, covered in thousands of etched names: the names of the three thousand workers sealed within the catacombs during the Consolihan.
 
-> **Minjae:** *"The first settlers. Their sorrow. Their sacrifice."*
+As the squad approached, the air grew unnaturally quiet. The sound of their footsteps on the submerged stone was swallowed by an ambient, multi-tonal whispering that emanated directly from the bronze metal of the gate.
 
-> **Sora:** *"The entity is protecting them. Their memory."*
+Sora stepped to the front of the squad. She unclasped her silver cowl, allowing her long dark hair to fall over her shoulders. In her hands, she held three long acoustic tuning needles made of refined conductive silver.
 
-> **Doha:** *"The walls are made of people."*
+"Do not speak," Sora whispered, her voice gentle and reverent. "If you speak with your vocal cords, the gate interprets the sound as a breach alarm. You must speak to it with grief."
 
----
+She knelt in the shallow water, gently striking the first silver needle against the bronze surface of the gate. A pure, crystalline tone chimed through the chamber at precisely four hundred and thirty-two hertz. The water rippled in concentric geometric rings.
 
-#### Turn 8: Understanding
+Sora closed her eyes. Her consciousness expanded, attuning to the lingering memories trapped in the metal. Across her mental vision flashed images of a flooded city: mothers holding infants above swirling black tides, engineers welding the final rivets on this very door while water rose to their chins, the final, terrifying realization that no rescue was coming from the surface.
 
-The entity stands. It steps aside. The tunnel ahead is clear.
+She struck the second needle. A lower, mournful note answered—a frequency of pure, unresolved Lament.
 
-> **Yeonhwa:** *"It's letting us pass."*
+"We remember you," Sora whispered toward the bronze gate, tears tracking silently down her pale cheeks. "We did not come to rob your graves. We came to open the path you died to protect. Rest your hands... the shift is over."
 
-> **Harin:** *"Why?"*
+She struck the third needle. The three tones harmonized into a glorious, resonant chord that dissolved the centuries of petrified sorrow binding the lock.
 
-> **Sora:** *"Because we listened. Because we understood. Because the Silent One shared its sorrow."*
+With a deep, grinding shudder that rattled the bedrock for miles, the massive bronze counterweights began to rotate. The floodgate parted, opening a six-foot gap into the central crypta vault.
 
-The Silent One nods. They hold the Burden closer — and for the first time, the others notice the Burden is humming differently. Not the low, steady hum they're used to. Something new. Something like... mourning.
+Behind the gate, a massive, crystalline eye opened in the dark.
 
 ---
 
-#### Turn 9: Assessment
+## Chapter VII: Node 7 — The Apex Confrontation: SECC-012
 
-**Yeonhwa:** *"What did we learn?"*
+The chamber beyond was a vast, subterranean reservoir fifty meters wide and thirty meters high. In the center of the flooded floor sat a colossal stone throne carved from petrified basalt.
 
-**Minjae:** *"The Undercity exists. The first settlement is preserved. The walls are alive. The thousand were consumed by necessity — not accident."*
+Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "The Drowned Guardian of Year Zero"**. Standing four meters tall, the entity was an imposing titan composed of waterlogged ancient bronze armor plates, fossilized human bones, and a churning, pressurized core of liquid sorrow glowing with pale cyan light inside its chest cavity. In its right hand, it gripped a three-meter executioner's bronze cleaver; its left arm was an articulated hydraulic siphon pipe capable of drawing thousands of liters of pressurized brine from the floor.
 
-**Sora:** *"The entity is a guardian. It protects the memory. It's not hostile — it's protective."*
+```text
+================================================================================
+ APEX BOSS DOSSIER: SECC-012 "THE DROWNED GUARDIAN OF YEAR ZERO"
+================================================================================
+ CLASSIFICATION: WAW-03 | Sub-Strata Abyssal Gatekeeper | Origin: Year Zero Flood
+ COMBAT PROFILE:
+ - Maximum Health (HP): 2,400
+ - Stagger Thresholds: 1,680 HP (70%) | 960 HP (40%) | 240 HP (10%)
+ - Base Defense: 35 | Speed Dice: 2–6 (3 Attack Slots)
+ - Resistances:
+   * Grudge (Crimson) : 2.0x (Fatal Weakness — Heat & Kinetic Friction)
+   * Lament (Deep Blue): 0.5x (Endured — Saturated in Weeping Brine)
+   * Void (Pale White) : 1.0x (Normal — Susceptible to Direct Soul Severing)
+   * Weight (Black)    : 0.75x (Ineffective — Heavy Basalt Construction)
 
-**Doha:** *"The walls are made of people. The city is built on sacrifice."*
+ TARGETABLE COMPONENT PARTS:
+ 1. Left Hydraulic Siphon Arm (HP: 600 | Stagger: 200) — Siphons water, charges AoE
+ 2. Right Bronze Cleaver      (HP: 800 | Stagger: 300) — Heavy sweeping blade
+ 3. The Weeping Chest Core    (HP: 1,000 | Stagger: 400) — Central reservoir of ancient Han
+================================================================================
+```
 
-**Harin:** *"And our equipment is inadequate. My shield shattered. My hammer bounced. We need better gear."*
+### The Vanguard Squad Combat Loadout
 
----
-
-#### Turn 10: Return
-
-The team returns to the surface. Harin sits against a wall, wrapping her cracked shield.
-
-> **Harin:** *"We need better equipment."*
-
-> **Yeonhwa:** *"The standard M.A.W. isn't enough. We need specialized gear."*
-
-> **Doha:** *"I couldn't shape that entity. I need something heavier."*
-
-> **Sora:** *"I saw its core. The memory. It was beautiful. And terrible."*
-
-> **Minjae:** *"The diary is the most significant find. But the entity's story is equally important."*
-
-> **Jisoo:** *"The cost of this mission: one shattered shield, one cracked hammer, one shaken team. The value: immeasurable."*
-
-The Silent One says nothing. But they hold the Burden closer.
-
----
-
-#### Turn 11: Equipment Request
-
-The team submits their report to the R.D.
-
-**The Director responds:**
-
-> *"You found what we expected. The city is deeper than we thought. Equipment will be provided. Continue."*
-
-**The Cartographer asks:**
-
-> *"You knew? You knew what was down there?"*
-
-**The Director answers:**
-
-> *"We suspected. Now we know. That is the purpose of exploration."*
+| Specialist | Position & Range Band | Primary Armament | Active Tactical Role | Current SP |
+|---|---|---|---|---|
+| **Harin** | Band 1 (Melee Front) | *The Bastion of the Low* | Kinetic Tanking, Aggro Redirection, Shockwave Bash | +25 SP |
+| **The Silent One**| Band 1 (Melee Striker) | *Severed Relic Cleaver* | High-Damage Void/Grudge Slashes, Part Execution | +30 SP |
+| **Doha** | Band 2 (Close Sapper) | *Calcified Pneumatic Ram* | Bedrock Sapping, Armor Shattering, Stagger Acceleration | +20 SP |
+| **Sora** | Band 3 (Mid Support) | *Silver Slumber Cowl* | Resonance Tuning, Team SP Recovery, Lament Nullification | +35 SP |
+| **Yeonhwa** | Band 4 (Ranged Command) | *The Horizon Theodolite* | Sonar Weakpoint Tagging, Clash Redirection, Dart Fire | +28 SP |
 
 ---
 
-#### Turn 12: Aftermath
+### Turn-Based Combat Gauntlet: The Battle for the Gate
 
-**Casualties:** None — but Harin's shield is destroyed, Doha's hammer is cracked.
+#### Turn 1: Establishing the Formation
+- **Initiative Roll:** Harin (Speed 5), Yeonhwa (Speed 5), The Silent One (Speed 4), Doha (Speed 3), Sora (Speed 2) vs Boss Slot 1 (Speed 6), Slot 2 (Speed 4), Slot 3 (Speed 2).
+- **Boss Intent:** Slot 1 (Left Siphon) targets Harin with `[Pressurized Brine Torrent]` (Band 3, 2 Coins). Slot 2 (Bronze Cleaver) targets The Silent One with `[Sweeping Cleave]` (Band 1, 1 Coin).
+- **Tactical Actions:**
+  * Harin rolls speed to intercept Slot 1's torrent with `[Pneumatic Bulwark Stance]`.
+  * The Silent One clashes against Slot 2's cleave with `[Severing Parry]`.
+  * Yeonhwa casts `[Sonar Target Lock]` onto the Left Hydraulic Siphon Arm.
 
-**Discoveries:** Undercity exists, walls are alive, entity is a guardian, thousand consumed by necessity.
+```text
+--------------------------------------------------------------------------------
+ TURN 1 CLASH RESOLUTION:
+ - Clash 1: Harin [Pneumatic Bulwark] vs Boss [Brine Torrent]
+   * Harin: Base 6 + 3 Coins (Heads, Heads, Tails = +4) -> Total 10
+   * Boss: Base 5 + 2 Coins (Heads, Tails = +3) -> Total 8
+   * HARIN WINS CLASH! Water jet split across shield rim. Harin takes 0 damage.
+   * Harin inflicts 38 Stagger damage on Left Siphon Arm.
+ - Clash 2: The Silent One [Severing Parry] vs Boss [Sweeping Cleave]
+   * Silent One: Base 7 + 2 Coins (Heads, Heads = +6) -> Total 13
+   * Boss: Base 8 + 1 Coin (Heads = +4) -> Total 12
+   * SILENT ONE WINS CLASH! Deflects massive cleaver! Counter-slashes for 86 Grudge damage.
+ - Unofficially: Doha lands [Pneumatic Hammer Strike] on Left Siphon (72 Dmg).
+ BOSS HP: 2,242 / 2,400 | Siphon HP: 490 / 600 | Squad SP: All Stable
+--------------------------------------------------------------------------------
+```
 
-**Equipment status:** Standard M.A.W. insufficient — upgraded gear requested.
+#### Turn 2: Breaking the Siphon
+- **Boss Intent:** The Guardian activates `[Subterranean Flood Gate]`, channeling floodwaters through the left siphon arm to build charge for its ultimate attack.
+- **Yeonhwa shouts:** *"Focus the left arm! If that hydraulic piston completes its draw, the entire chamber will submerge under three atmospheres of pressurized brine!"*
+- **Tactical Actions:**
+  * Doha activates `[Pneumatic Overdrive: Bedrock Piston]` targeting Left Arm.
+  * The Silent One uses `[Twin Pale Flurry]` targeting Left Arm.
+  * Harin taunts Slot 2's cleave attack, absorbing the kinetic impact.
 
-**Next steps:** Await upgraded equipment. Continue to Arc 2.
+```text
+--------------------------------------------------------------------------------
+ TURN 2 CLASH RESOLUTION:
+ - Harin absorbs Bronze Cleaver strike: Takes 32 reduced damage (HP 168/200, SP +2).
+ - Doha strikes Left Siphon Arm:
+   * Base 8 + 2 Coins (Heads, Heads = +8) -> Total 16!
+   * Critical Bludgeoning Strike! Inflicts 184 Weight damage!
+ - The Silent One strikes Left Siphon Arm:
+   * Base 6 + 3 Coins (Heads, Heads, Heads = +9) -> Total 15!
+   * 168 Grudge Slash damage!
+   * TOTAL DAMAGE ON SIPHON: 352! SIPHON ARM HP REDUCED TO 0!
+ [PART DESTROYED: Left Hydraulic Siphon Arm shattered into scrap bronze!]
+ [EFFECT: Boss ultimate 'Deluge of the First Day' cancelled! Boss loses 1 Speed Slot!]
+ BOSS HP: 1,890 / 2,400 | Squad SP: Harin +27, Doha +24, Silent One +34
+--------------------------------------------------------------------------------
+```
+
+#### Turn 3: Pushing the First Stagger Threshold
+- **Boss Reaction:** Losing its siphon arm, the titan roars—a horrific blast of compressed acoustic resonance that rings through the squad's visors. It raises its massive Bronze Cleaver in two hands, preparing `[Executioner's Judgment]` (3 Coins, Fatal Grudge damage).
+- **Tactical Actions:**
+  * Harin and Doha execute a joint clash: Harin braces with `[Unbreakable Ward]`, while Doha props his hammer beneath her shield to support the frame.
+  * Sora activates `[Silver Cowl: Empathic Nullification]`, deploying a silver resonance field that grants all allies +3 Clash Power against emotional attacks.
+  * The Silent One maneuvers into Band 1 flank for an unhindered strike on the Weeping Core.
+
+```text
+--------------------------------------------------------------------------------
+ TURN 3 CLASH RESOLUTION:
+ - Joint Defense vs [Executioner's Judgment]:
+   * Harin + Doha: Base 10 + Cowl Bonus (+3) + 3 Coins (Heads, Tails, Heads = +4) = 17!
+   * Boss: Base 9 + 3 Coins (Heads, Tails, Tails = +4) = 13!
+   * CLASH WIN! Massive bronze cleaver slams harmlessly into reinforced tower shield!
+ - The Silent One strikes The Weeping Core from behind:
+   * Relic Cleaver absorbs sorrow residue: Base 9 + 2 Coins (Heads, Heads = +8) = 17!
+   * Deals 218 Fatal Grudge damage directly to the chest core!
+ BOSS HP: 1,672 / 2,400 [THRESHOLD BREACHED: Below 1,680 HP!]
+ [STATUS: SECC-012 IS STAGGERED! ALL DEFENSES REDUCED TO ZERO! TAKES +100% DAMAGE!]
+--------------------------------------------------------------------------------
+```
+
+#### Turn 4: The Stagger Punishment Round
+- With the titan dropped to one knee and its crystalline chest core exposed, the entire vanguard unleashes their maximum offensive rotation:
+  * Doha: `[Hydraulic Bedrock Shatter]` -> 280 Damage!
+  * The Silent One: `[Severing Void Arc]` -> 364 Damage!
+  * Yeonhwa: `[Acoustic Resonance Dart]` -> 126 Damage!
+  * Sora: `[Lament Needle Drive]` -> 148 Damage!
+- Total Burst Damage dealt in Turn 4: **918 Damage!**
+- **Boss HP drops from 1,672 to 754! Second Stagger Threshold (960 HP) skipped!**
+
+#### Turn 5: Phase 2 Escalation — The Ancient Prayer
+- The Guardian recovers from stagger, its eyes blazing with brilliant pale light. The water in the reservoir begins to boil and swirl into a massive whirlpool around the throne.
+- The Guardian speaks—not through vocal cords, but by transmitting three thousand simultaneous memory fragments into the squad's cranial tethers:
+  > *"We were forgotten... The surface smiled while we drowned in darkness... Join us in the deep bed!"*
+- **Sorrow Meltdown Threat:** High-pressure psychic scream hits the team!
+  * Harin SP: 27 -> 12 (Paranoia warning!)
+  * Doha SP: 24 -> 8 (Apathy warning!)
+  * Sora immediately unleashes `[Cranial Silver Chorus]`: channeling her silver tuning needles to ground the squad's nervous systems into the bedrock.
+  * Restores +20 SP to all allies! Meltdown averted!
+
+```text
+--------------------------------------------------------------------------------
+ TURN 5 SUMMARY:
+ - Sora's chorus neutralizes psychic bleed, stabilizing team SP above +25.
+ - Boss raises shattered Bronze Cleaver for desperate strike: [Last Stand of the Drowned].
+ - The Silent One steps forward, ignoring the swirling floodwaters.
+ - Silent One activates Relic Overdrive: [Primordial Severance: The Unanswered Cut].
+   * The dark blade ignites with brilliant pale white luminescence.
+   * Silent One: Base 12 + 3 Coins (Heads, Heads, Heads = +9) -> Total 21!
+   * Boss: Base 8 + 2 Coins (Heads, Tails = +4) -> Total 12!
+   * CLASH OVERWHELMING WIN!
+   * The dark blade cuts cleanly through the bronze cleaver, severing the titan's right arm!
+   * Cleaver shatters into inert bronze shards!
+ BOSS HP: 312 / 2,400 | Boss is disarmed and helpless!
+--------------------------------------------------------------------------------
+```
+
+#### Turn 6: The Final Release
+- The Guardian drops its severed limbs into the water. Its chest core, fractured and leaking glowing cyan sorrow, pulses with a slow, fading rhythm.
+- Sora walks forward through the water, stepping past Harin and Doha. She places her gloved hand against the cracked crystalline chest of the titan.
+- "You have guarded this gate for four thousand years," Sora whispers, her eyes shining with tears. "You held back the deep so the children above could walk in sunlight. Your vigil is done, guardian. Rest now."
+- The Guardian's stone face softens. The rigid basalt features relax into a faint, peaceful expression.
+- The entity does not shatter into violent shrapnel; it quietly dissolves into pure, shimmering crystalline sand that settles softly across the reservoir floor.
+
+```text
+================================================================================
+ COMBAT RESOLUTION: SECC-012 PACIFIED AND RELEASED
+================================================================================
+ - Total Combat Rounds: 6 Turns
+ - Squad Status: Zero Fatalities. Harin (HP 168/200), Doha (HP 185/200). All SP > 30.
+ - Artifact Extracted: [Item: The First Sluice Key] (Pre-Consolihan Master Relic)
+ - Tectonic Outcome: The Great Crypta Gate unlocks permanently.
+ - Descent Access Granted: Pathway to Strata 2 (Petrobyeok) is OPEN.
+================================================================================
+```
 
 ---
 
-### Arc 1 — Key Discoveries
+## Chapter VIII: Epilogue — The Descent Into Strata 2
 
-| Discovery | Implication |
-|-----------|-------------|
-| **The Undercity exists** | The city has a foundation older than anyone knew |
-| **The first settlement is preserved** | The Before-Time is not entirely lost |
-| **The walls are alive** | Han structures are not inert — they respond to presence |
-| **The thousand were consumed by necessity** | The Cheongula was not random — it was structural |
-| **Guardian entities exist** | Not all Sorrow Entities are hostile — some protect |
-| **Standard M.A.W. is insufficient** | The team needs specialized equipment |
-| **The Silent One can communicate with entities** | Their power is unique — and possibly dangerous |
+Silence returned to the great reservoir. The only sound was the gentle, musical trickling of clear water dripping from the vaulted ceiling into the pool.
 
-### Arc 1 — Character Development
+Jisoo knelt by the water's edge, recording the mission log into the life-ballast ledger. Her fingers were steady as she checked the survival indicators:
+- **Oxygen Reserve:** 81.4%
+- **Hydraulic Cartridges Remaining:** 67 / 72
+- **Cranial Silver Integrity:** 94%
+- **Squad Sanity Average:** +34 SP (Optimal)
 
-| Character | Development |
-|-----------|-------------|
-| **Yeonhwa** | Sees the city's foundation is built on sacrifice — her mapping now has moral weight |
-| **Doha** | Realizes his hammer is inadequate — he needs to become stronger |
-| **Harin** | Takes a hit — learns that survival requires more than will. Her shield breaks. |
-| **Sora** | Sees the entity's core — her perception is a gift, not a curse. But the visions haunt her. |
-| **Minjae** | Reads the diary — the truth about the first settlement is now in his hands |
-| **Jisoo** | Calculates the cost — knowledge is expensive, but necessary |
-| **The Silent One** | Reveals they can communicate with entities — the first hint of their connection to the Exile |
+"We expended twenty-six minutes of life support in combat," Jisoo reported, looking up at Yeonhwa. "We have sufficient ballast margin to push directly into Strata 2 without resurfacing."
 
-### Arc 1 — Aftermath
+Doha knelt in the water where the Guardian had dissolved. His fingers scooped up a handful of the glowing crystalline sand, letting it sift slowly through his calloused fingers. Among the sand lay a heavy, ornate key carved from solid Before-Time alloy, impervious to rust or time.
 
-The team requests upgraded equipment from the R.D.
+He handed the key to Minjae, who inspected the etched markings with reverent awe.
 
-**The Director responds:**
-> *"You found what we expected. The city is deeper than we thought. Equipment will be provided. Continue."*
+"It bears the inscription of the First Builders," Minjae said. "This key fits the lock of the great retaining wall at negative three hundred and eighty meters. Doha... your family's wall."
 
-**The Cartographer asks:**
-> *"You knew? You knew what was down there?"*
+Doha looked down the dark, descending stairwell that spiraled beneath the guardian's throne, leading into the suffocating darkness of Strata 2.
 
-**The Director answers:**
-> *"We suspected. Now we know. That is the purpose of exploration."*
+"Then let us go down," Doha said quietly, tightening his grip on his hammer. "It is time to open the door."
 
-**The Cartographer asks:**
-> *"And the entity? The guardian?"*
+Yeonhwa activated *The Horizon Theodolite*. The azure acoustic wireframe pulsed downward, charting the steep, narrow descent through the petrified strata of the Calcified Necropolis.
 
-**The Director answers:**
-> *"It is protecting something. Find out what."*
+"Vanguard moving," Yeonhwa commanded. "Stay close. Don't touch the walls."
+
+The seven specialists stepped past the throne, descending deeper into the earth.
 
 ---
+
+## Institutional Codex Cross-References
+
+- **Company Dossier & Fleet Infrastructure:** `SOMNARAK-WORLD/Master_Codices/The_SOMNARAK_EXPLORATION_DECREE.md`
+- **Monolithic Master Story:** `SOMNARAK-WORLD/Master_Codices/SOMNARAK_SED_PASSAGES.md`
+- **Next Descent Volume:** `SOMNARAK-WORLD/The_SED/Passage_2_Petrobyeok.md`
+- **Field Guidebook & Depth Hazards:** `SOMNARAK-WORLD/The_SED/SED_OVERVIEW.md`
 
 
 ## Arc 2: The Forgotten Districts (잊혀진 구역 — Ithyeojin Guyeok)
