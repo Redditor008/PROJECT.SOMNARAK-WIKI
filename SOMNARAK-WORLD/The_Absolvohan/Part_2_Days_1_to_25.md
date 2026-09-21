@@ -11,7 +11,7 @@
 +==============================================+
 ```
 
-Following the awakening of the Director on Day 0 and the stabilization of the primary hydraulic valve manifolds, Batch 1 represents the initial kinetic ramp of Cycle 1,778. Across Days 1 through 25, the Reverie Directorate shifts from inert stasis calibration to aggressive Sorrow containment, steady Han-crystal extraction, and active perimeter observation. 
+Following the awakening of the Director on Day 0 and the stabilization of the primary hydraulic valve manifolds, Batch 1 represents the initial kinetic ramp of Cycle 1,778. Across Days 1 through 25, the Reverie Directorate shifts from inert stasis calibration to aggressive Sorrow containment, steady Han-crystal extraction, and active perimeter observation.
 
 Beneath the calm hum of the Mnemonic Generator, the eight floor leads begin to encounter the subtle micro-deviations that distinguish Cycle 1,778 from all previous 1,777 failures: an elevated tolling tempo in the Orphaned Bell, abnormal blessing accumulations within the Kind Healer, atmospheric pressure rifts along the Desolate border, and repressed memory leaks concerning the primordial Furnace of Cheonbulok.
 
@@ -140,7 +140,7 @@ Chamber 005 begins vibrating as red warning runes flash across its hatch. If the
 Majin executes emergency intervention override:
 - `[EMERGENCY DISPATCH: Agent Kim -> Chamber 005 (The Mother)]`
 - `[ASSIGNED PROTOCOL: Ferrehan Containment]`
-- `Kim crosses the threshold at 33.5s remaining on the bleed clock.` 
+- `Kim crosses the threshold at 33.5s remaining on the bleed clock.`
 - Kim withstands her heavy maternal embrace, scoring 7/10 Positive Han crystals.
 - Meltdown is cleared with zero breach risk!
 - Energy counter reaches `0.054 / 0.050 tons`—quota fulfilled!
@@ -253,7 +253,7 @@ Agent Lee receives the *Guardian Veil* suit and *Guardian Lens*, vastly upgradin
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
-At 23:45, the facility transitions to minimal lighting. The hydraulic valves between Floors 1 and 2 hum at 440 Hz. Majin sits at his desk, staring at the telemetry monitor of SE-C-Iα-008 (*The Maw*). 
+At 23:45, the facility transitions to minimal lighting. The hydraulic valves between Floors 1 and 2 hum at 440 Hz. Majin sits at his desk, staring at the telemetry monitor of SE-C-Iα-008 (*The Maw*).
 
 The acoustic transcript of the midnight whisper displays six precise syllables—the name Majin carried before the Before-Time tore his mortal life away.
 
@@ -290,7 +290,7 @@ The acoustic transcript of the midnight whisper displays six precise syllables�
 +==============================================+
 ```
 
-Day 5 brings high tactical tension. In Floor 4's research labs, **SE-C-IIIβ-015** (*The Kind Healer*) has reached nine blessings. In Lobotomy Corporation terms, this is our *Plague Doctor*: if twelve personnel receive its baptismal mark, it triggers the Transformation Chain, converting into the apocalyptic sovereign entity *The Dawn of Mourning* (WhiteNight). 
+Day 5 brings high tactical tension. In Floor 4's research labs, **SE-C-IIIβ-015** (*The Kind Healer*) has reached nine blessings. In Directorate tactical terms, this is our apocalyptic catalyst: if twelve personnel receive its baptismal mark, it triggers the Transformation Chain, converting into the apocalyptic sovereign entity *The Dawn of Mourning*.
 
 Our managerial rule for today: **DO NOT ENTER CHAMBER 015 WITH HUMAN PERSONNEL UNDER ANY CIRCUMSTANCES.** All interaction with the Healer will be conducted via remote telemetry drones.
 
@@ -372,7 +372,7 @@ At work check 4, Meltdown Level II sounds!
 +==============================================+
 ```
 
-Chamber 015 has a meltdown timer! If we don't work it, it will breach and bless the first three people it finds! But sending a human is suicide! 
+Chamber 015 has a meltdown timer! If we don't work it, it will breach and bless the first three people it finds! But sending a human is suicide!
 - We immediately dispatch **Drone Rho-9** to Chamber 015 at 38s remaining!
 - Meanwhile, Agent Song rushes into Chamber 032 (*The Weighting Bird*) for Ferrehan balancing at 32s remaining.
 - Both meltdowns cleared cleanly without a single human baptism!
@@ -475,7 +475,7 @@ Director Majin confirms authorization: **Locking Containment Selection: SE-C-III
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
-At 01:20, Majin walks the catwalk above Chamber 015. Through three-inch lead glass, the Kind Healer sits motionless in the dark, its nine golden halos softly rotating in the air. 
+At 01:20, Majin walks the catwalk above Chamber 015. Through three-inch lead glass, the Kind Healer sits motionless in the dark, its nine golden halos softly rotating in the air.
 
 In stasis ward Gamma, the nine blessed employees sleep in medically induced comas, their brainwaves synchronized in a soft, blissful hum. Majin whispers to the glass: *"Nine is where you stay. You do not get your twelve."*
 
@@ -513,7 +513,7 @@ In stasis ward Gamma, the nine blessed employees sleep in medically induced coma
 +==============================================+
 ```
 
-Day 7 introduces environmental hazard mechanics. A severe Han-storm is sweeping across the Desolate, driving atmospheric sorrow pressure through the roof. Floor 5 (Border Control) is brought online under Lead Mellda's command. 
+Day 7 introduces environmental hazard mechanics. A severe Han-storm is sweeping across the Desolate, driving atmospheric sorrow pressure through the roof. Floor 5 (Border Control) is brought online under Lead Mellda's command.
 
 The external storm creates two unique gameplay modifiers:
 1. **Ambient Sorrow Influx:** All entities gain +15% work speed, but take +10% higher acoustic strain per tick.
@@ -574,7 +574,7 @@ At 13:05, as the external storm's shockwave strikes the facility foundation, sir
 +==============================================+
 ```
 
-Both vegetative chambers spike in acoustic strain! 
+Both vegetative chambers spike in acoustic strain!
 - Agent Bae rushes into Chamber 140 (*Weeping Willow*) for Flerehan weeping communion at 31s remaining.
 - Agent Lim breaches Chamber 007 (*Brume*) for vapor condensation at 28s remaining.
 - Both meltdowns cleared cleanly, yielding +0.025 tons! Total energy: `0.047 / 0.050 tons`.
@@ -675,7 +675,7 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-115 (*The Memory We
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
-By 22:00, the storm has passed to the northwest, leaving the Desolate covered in glistening purple frost. Mellda stands on the southern parapet, her eyes glowing faintly with the golden embers of her internal vow. 
+By 22:00, the storm has passed to the northwest, leaving the Desolate covered in glistening purple frost. Mellda stands on the southern parapet, her eyes glowing faintly with the golden embers of her internal vow.
 
 Beside her, Majin observes the distant torchlight of the Drift King's caravan disappearing over the dunes. Both know that every grain of sand outside was once human bone.
 
@@ -805,7 +805,7 @@ Two monolithic stone cenotaphs erupt from the data floor, screeching corrupted l
 Managerial tactical execution:
 1. **Directive Deployed:** `Acoustic Siphon` engaged in Floor 3, damping the cognitive screech by 35%.
 2. **Panic Restoration:** Agent Kwon sprints over, striking both weeping clerks with his stun baton. The precise Lament shockwaves reboot their nervous systems, restoring their sanity bars to full!
-3. **Clash Standoff:** Agent Sim charges the lead cenotaph with the *Lead Maul* (blunt physical damage). Exploiting its Grudge weakness, Sim pulverizes the first tablet in three massive downward swings. 
+3. **Clash Standoff:** Agent Sim charges the lead cenotaph with the *Lead Maul* (blunt physical damage). Exploiting its Grudge weakness, Sim pulverizes the first tablet in three massive downward swings.
 4. **Clean-up:** Kwon and Seo focus-fire the second tablet with sonic beams, shattering it into inert gravel within 58.2 seconds! Zero fatalities!
 
 One final quick observation session yields +0.017 tons. Daily harvest: **0.065 / 0.050 tons!**
@@ -877,7 +877,7 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-081 (*The Hollow Sa
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
-At 02:40, the Director sits in his private archive room. On the terminal glows the forbidden fragment Marjuk uncovered. Majin looks at the line: *"The Furnace burns. The Furnace always burns."* 
+At 02:40, the Director sits in his private archive room. On the terminal glows the forbidden fragment Marjuk uncovered. Majin looks at the line: *"The Furnace burns. The Furnace always burns."*
 
 He opens the private register of the Absolvohan project. The target is 100 tons. Cycle 1,778 has accumulated 47.81 tons. Majin whispers to the silent screen: *"And when we quench it, we release everything."*
 
@@ -924,7 +924,7 @@ He opens the private register of the Absolvohan project. The target is 100 tons.
 +==============================================+
 ```
 
-Day 17 concludes Batch 1 with our first full-scale **Midnight Ordeal**. Floor 7 (Outsider Relations) is active under Lead Ishall. 
+Day 17 concludes Batch 1 with our first full-scale **Midnight Ordeal**. Floor 7 (Outsider Relations) is active under Lead Ishall.
 
 Our managerial objective is reaching the 0.050-ton quota while preparing our best combat squads for a multi-floor clash against a Pale-damage monstrosity.
 
@@ -1092,9 +1092,9 @@ Agent Hong equips the *Hollow Halo*, becoming our first Level V Senior Sentinel.
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
 
-At 03:30, Seiyon enters the Director's command sanctuary. Majin has not slept. The holographic map shows all eight floors bathed in tranquil blue status lights. 
+At 03:30, Seiyon enters the Director's command sanctuary. Majin has not slept. The holographic map shows all eight floors bathed in tranquil blue status lights.
 
-Seiyon speaks softly: *"The Exile's signal has faded beyond the horizon."* 
+Seiyon speaks softly: *"The Exile's signal has faded beyond the horizon."*
 
 Majin looks at his artificial secretary, whose human memories remain permanently sealed behind the Directorate's core protocols: *"It will come back on Day 29. And when it does, we will be 0.8 tons closer to the end."*
 
