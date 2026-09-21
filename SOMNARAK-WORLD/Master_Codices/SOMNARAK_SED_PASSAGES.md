@@ -584,8 +584,8 @@ The seven specialists stepped past the throne, descending deeper into the earth.
 
 - **Company Dossier & Fleet Infrastructure:** `SOMNARAK-WORLD/Master_Codices/The_SOMNARAK_EXPLORATION_DECREE.md`
 - **Monolithic Master Story:** `SOMNARAK-WORLD/Master_Codices/SOMNARAK_SED_PASSAGES.md`
-- **Next Descent Volume:** `SOMNARAK-WORLD/The_SED/Passage_2_Petrobyeok.md`
-- **Field Guidebook & Depth Hazards:** `SOMNARAK-WORLD/The_SED/SED_OVERVIEW.md`
+- **Next Descent Volume:** `SOMNARAK-WORLD/Katabagil/Passage_2_Petrobyeok.md`
+- **Field Guidebook & Depth Hazards:** `SOMNARAK-WORLD/Katabagil/SED_OVERVIEW.md`
 
 
 ## Arc 2: Petrobyeok (심층 하강록 제2장: 석벽 / 石壁)
@@ -1081,9 +1081,9 @@ The seven specialists stepped through the archway, descending into the lawless d
 
 - **Company Dossier & Fleet Infrastructure:** `SOMNARAK-WORLD/Master_Codices/The_SOMNARAK_EXPLORATION_DECREE.md`
 - **Monolithic Master Story:** `SOMNARAK-WORLD/Master_Codices/SOMNARAK_SED_PASSAGES.md`
-- **Previous Descent Volume:** `SOMNARAK-WORLD/The_SED/Passage_1_Cryptasu.md`
-- **Next Descent Volume:** `SOMNARAK-WORLD/The_SED/Passage_3_Furtugil.md`
-- **Field Guidebook & Depth Hazards:** `SOMNARAK-WORLD/The_SED/SED_OVERVIEW.md`
+- **Previous Descent Volume:** `SOMNARAK-WORLD/Katabagil/Passage_1_Cryptasu.md`
+- **Next Descent Volume:** `SOMNARAK-WORLD/Katabagil/Passage_3_Furtugil.md`
+- **Field Guidebook & Depth Hazards:** `SOMNARAK-WORLD/Katabagil/SED_OVERVIEW.md`
 
 
 ## Arc 3: Furtugil (심층 하강록 제3장: 잠행로 / 潛行路)
@@ -1476,245 +1476,386 @@ The seven specialists boarded the rail car. The pneumatic doors sealed. With a s
 ---
 
 
-## Arc 4: The Deep Gardens (깊은 정원 — Gippeun Jeongwon)
+## Arc 4: Radikkum (심층 하강록 제4장: 수몽 / 樹夢)
+### Strata 4: The Deep Garden Root Nexus (-900m to -1,500m)
 
-### Zone D — Beneath the Echo Gardens
+| Operational Attribute | Mission Specification |
+|---|---|
+| **Campaign Title** | Katabagil: The Seven Descents (심층 하강록) |
+| **Passage Designation**| Passage 4: Radikkum (수몽 — The Primordial Memory-Root Nexus) |
+| **Target Stratum** | Strata 4: The Deep Garden Root Nexus (-900m to -1,500m) |
+| **Ingress Point** | Terminal Rail Incline beneath Strata 3 Clandestine Hub |
+| **Ambient Sorrow** | 450 to 720 mHb (Hyper-Dense Mnemonic & Dream Saturation) |
+| **Deploying Cadre** | The Seven Vanguard Specialists (Full Field Cadre) |
+| **Transport Rig** | Clandestine Monorail Shuttle *The Somnolent Ferry* |
+| **Apex Entity Threat** | SECC-056 "The Arbor of Primordial Regret" (Major-γ) |
 
-> *"The flowers grow upward. But their roots grow down. And what grows down... remembers."*
-
----
-
-### Overview
-
-The SED's fourth mission takes the team beneath **Zone D** — into the Deep Gardens, the underground root system of the Echo Gardens. The Echo Flowers above are beautiful — crystallized memories of the dead. But below, their roots grow deep — and what they find down there changes everything the team knows about memory.
-
-**Mission objective:** Map the Deep Gardens. Understand the root system. Determine if the Echo Gardens are more than a memorial. Return alive.
-
-**Duration:** 2 weeks
-
-**Threat level:** High — Dream-dense, entity-rich, emotionally overwhelming.
-
----
-
-### Chapter 1: The Roots
-
-The Echo Gardens were beautiful.
-
-Above ground, crystallized flowers bloomed in silence — each petal a fragment of a dead person's final emotion. The air was sweet with sorrow. The light was soft with memory. Visitors came to mourn, to remember, to find peace.
-
-Below ground, the roots grew.
-
-Sora could see them — with her Veil activated, the Dream-layer of the world was visible. The roots were not like normal roots. They were **threads of memory** — thin, shimmering, connecting the flowers above to something deeper below.
-
-**"The roots go down,"** she said, her voice distant. **"Far down. They connect to something... I can't see what. But it's big. And it's alive."**
-
-**"Alive?"** Harin's hand went to her shield.
-
-**"Not like an entity,"** Sora clarified. **"More like... a network. A web. The roots are connected to each other — and to something at the center."**
-
-**"What's at the center?"** Yeonhwa asked.
-
-**"I don't know. But every root leads there. Every flower above is connected to it."**
+> *"The surface thinks memory is like water—that it evaporates under sunlight and disappears into the sky. But beneath the city, memory behaves like amber. It drips from the roots of the dead, hardens under immense tectonic pressure, and forms a second skeleton under our world. Down here, nobody is truly forgotten. That is why this stratum weeps so loudly."*  
+> — Dreamer Sora, Expedition Acoustic Log, Entry 44
 
 ---
 
-### Chapter 2: The Descent
+## The Spire Path: Strata 4 Exploration Route
 
-The entrance to the Deep Gardens was hidden beneath the oldest flower in the Echo Gardens — a cherry blossom tree that had bloomed for centuries.
+Below is the tactical exploration node progression for Strata 4:
 
-**"This tree is the oldest living thing in Zone D,"** Minjae said, his Lens scanning. **"The memory-imprints are... deep. This tree has been here since before the Structuring."**
-
-**"How do we get down?"** Doha asked.
-
-**"The roots,"** Sora said. She placed her hand on the tree's trunk. The bark was warm — not Han-warm, but *alive-warm*. **"The roots are a passage. They lead down to the network."**
-
-She activated her Veil fully. The world shifted — the Dream-layer overlaid reality, and the roots became visible. They were thick enough to walk on — spiraling downward into the earth like a staircase of memory.
-
-**"Stay close,"** Sora said. **"The Dream is thick down here. If you lose your anchor, you'll get lost in someone else's memory."**
-
-They descended.
-
----
-
-### Chapter 3: The Memory Network
-
-The Deep Gardens were not a garden. They were a **library**.
-
-The roots formed a vast, underground network — a web of crystallized memory that stretched for kilometers beneath Zone D. Each root was a thread of someone's life — their joys, their sorrows, their final moments.
-
-Sora walked through the network, her Veil showing her the memories stored in the roots.
-
-**"I can see them,"** she whispered. **"The dead. Their memories are stored here — in the roots. Every person who died in Zone D... their memories are here."**
-
-**"How many?"** Jisoo asked.
-
-**"Thousands. Tens of thousands. Maybe more."** Sora paused. **"The roots are... growing. New memories are being added all the time. When someone in Zone D dies, their memories flow down here."**
-
-**"The Echo Gardens above are just the surface,"** Minjae realized. **"The real memorial is down here. The roots are the archive."**
-
-**"But who maintains it?"** Yeonhwa asked. **"Who tends the roots?"**
+```text
++==================+===========================+
+| EXPLORATION TIER | CHOSEN NODE & ENCOUNTER   |
++==================+===========================+
+|                  | Node 1: Tearwood Canopy   |
+| UPPER ARBOR      | Suspended Roots Descent   |
+|                  +---------------------------+
+| (-900m to -1050m)| Node 2: Mycelial Trench   |
+|                  | Skirmish: Fungal Sentinels|
++------------------+---------------------------+
+| WEAVER CORRIDOR  | Node 3: Memory Glade      |
+|(-1050m to -1220m)| Orphan Relics & Sora Lore |
+|                  +---------------------------+
+|                  | Node 4: Amber Taproot     |
+|                  | Composure Stasis (+20 SP) |
++------------------+---------------------------+
+| DEEP ARBOR       | Node 5: Synaptic Bloom    |
+|                  | Elite: Spore Parasite     |
+|                  +---------------------------+
+|(-1220m to -1380m)| Node 6: Heartwood Sluice  |
+|                  | Third Sluice Key Seal     |
++------------------+---------------------------+
+| TERMINAL SPIRE   | Node 7: Arbor Core        |
+|(-1380m to -1500m)| Apex Boss: SECC-056 Arbor |
++==================+===========================+
+```
 
 ---
 
-### Chapter 4: The Gardeners
+## Chapter I: The Forest of Suspended Tears
 
-They found the Gardeners deep in the network.
+The automated monorail car glided to a halt at depth -900m, where the blackened steel tracks terminated abruptly over a bottomless precipice. When the pneumatic cabin doors opened, the squad did not step out into dry tunnel dust or crushing basalt.
 
-Not entities. Not humans. Something in between.
+They stepped into a forest that grew upside down.
 
-The Gardeners were **caretakers** — beings made of crystallized memory, shaped like humans but translucent, flickering. They moved through the roots, tending them, pruning them, connecting new memories to the network.
+Hanging from the cavernous ceiling hundreds of meters above were colossal, twisting roots thicker than municipal aqueducts. Each root was formed from translucent, petrified amber that glowed with a faint, bioluminescent indigo hue. Inside the amber were millions of frozen, suspended teardrops—and inside every teardrop, visible through Yeonhwa's theodolite lens, was a distinct human face captured in the moment of final release.
 
-**"They're not Sorrow Entities,"** Minjae said, his Lens scanning. **"They're... constructs. Made from the same material as the roots. They exist to maintain the network."**
+"The Echo Gardens above ground," Minjae whispered, his voice trembling as he held up his scanning lantern. "When visitors in District 4 plant silver blossoms to commemorate their deceased family members, the mourners believe the grief dissipates harmlessly into the sky. It does not. The blossoms are merely the surface leaves. Their roots plunge straight down into Strata 4, feeding this subterranean grove with four thousand years of distilled remembrance."
 
-**"Who made them?"** Sora asked.
+"The air is saturated with concentrated sorrow," Jisoo reported, tapping her pressure scale. "Ambient mnemonic density is registering 480 mHb. If our cognitive filters slip even three percent, the resonance from these amber roots will overwrite our own memories with the grief of strangers who died three centuries ago."
 
-**"The network made them,"** Minjae said. **"When enough memories gathered, the network became... aware. It created the Gardeners to tend itself."**
-
-The Gardeners noticed the team. They did not attack. They did not speak. They simply... watched. Then one of them stepped forward and offered Sora a flower — a small, crystallized bloom that pulsed with faint light.
-
-**"It's a memory,"** Sora said, taking the flower. **"Someone's last thought. Before they died."**
-
-She looked into the flower. Her eyes widened.
-
-**"It's... it's a message. Someone left this here. Deliberately. For whoever came next."**
-
-**"What does it say?"** Yeonhwa asked.
-
-Sora read the memory:
-
-> *"If you are reading this, you have found the Deep Gardens. You have found the roots. You have found us. We are the dead of Zone D — and we are not gone. We live in the roots. We live in the flowers. We live in the memory. Do not mourn us. Remember us. That is enough."*
+Sora adjusted the silver cowl draped over her shoulders. The delicate tuning bells stitched along the hem vibrated in sympathetic harmony with the hanging grove. "Stay close to my frequency," she instructed softly. "As long as the bells ring at 432 Hz, your thoughts belong to you. If the pitch drops below 400, close your eyes and call out my name."
 
 ---
 
-### Chapter 5: The Dream's Edge
+## Chapter II: The Mycelial Trench (Node 2 Skirmish)
 
-The deeper they went, the thicker the Dream became.
+Navigating along the suspended root bridges at -1,020m, the path crossed a sunken ravine filled with a thick carpet of bioluminescent fungal moss. The air smelled of damp cedar, petrichor, and old library parchment.
 
-Sora's Veil was struggling — the Dream-layer was overwhelming reality, blurring the line between what was real and what was memory. She could see the dead — not as ghosts, but as *presences* in the roots. They were there. They were aware.
+From the moss bed arose three hulking fungal sentinels—**SECC-UR-IVβ-047 "The Lament Mycelia"** (Grade-β Potency). Towering three meters tall, their bodies were woven from fibrous root cords bound together by petrified sap, their mushroom caps weeping a steady drizzle of psychoactive sorrow mist.
 
-**"The Dream is close here,"** she said, her voice strained. **"The boundary is... thin. I can feel it pressing."**
+```text
+================================================================================
+ SKIRMISH ENCOUNTER: 3x LAMENT MYCELIA SENTINELS (SECC-UR-IVβ-047)
+================================================================================
+ ENEMY PROFILE:
+ - Health (HP): 580 per Sentinel (Total: 1,740 HP)
+ - Attack Speed: 2–5 | Potency Grade: Grade-β (Moderate-β)
+ - Core Skill: [Spore Amnesia] — Drains 12 SP on hit; inflicts -2 Clash Power
+================================================================================
+```
 
-**"Don't cross it,"** Minjae warned. **"If you enter the Dream here, you might not come back. The memories are too strong. They'll pull you in."**
+### Skirmish Combat Resolution
 
-**"I know,"** Sora said. She was looking at a root — a thick one, pulsing with light. **"But I can see something. Deep in the Dream. Something at the center of the network."**
+#### Turn 1: Deflecting the Amnesia Mist
+- **Clash 1:** Mycelia Sentinel A releases `[Spore Amnesia]` (`Base 6 + 2 Harmonic Beats = 10`). Harin steps forward with `[Bulwark Intercept]` (`Base 9 + 2 Harmonic Beats = 15`). The heavy shield creates a kinetic concussive barrier, blowing the spore cloud backward into Sentinel A's eyes and dealing 120 kinetic impact damage.
+- **Clash 2:** Sentinel B sweeps its fibrous branch arm toward Minjae. The Silent One lunges forward with `[Severing Crescent]` (`Base 10 + 2 Harmonic Beats = 16` vs `8`). The cleaver bites through the fungal elbow, amputating the arm and inflicting **Bleed (+5)**.
+- **Acoustic Support:** Sora rings her cowl tuning bell (`Base 8 + 3 Harmonic Beats = 17`), cleansing the psychoactive mist from the air and restoring +10 SP to the entire squad.
 
-**"What is it?"** Harin asked.
-
-**"I don't know. But it's... it's the source. The thing all the roots connect to. The reason the Garden exists."**
-
-She reached for the root —
-
-**"DON'T!"** Minjae shouted.
-
-Too late. Sora's hand touched the root. The world dissolved.
-
----
-
-### Chapter 6: The Vision
-
-Sora was in the Dream.
-
-Not the shallow Dream — the surface layer that Weavers navigate. This was the **deep Dream** — the layer where memories live, where the dead persist, where the past is present.
-
-She saw the Echo Gardens — not as they are, but as they were. Before the Structuring. Before the city. When Zone D was just a field of sorrow.
-
-She saw the first death — a person who died in the field, their sorrow crystallizing into the first flower. She saw the second death. The third. The hundredth. The thousandth. Each death adding a flower, each flower adding a root, each root connecting to the others.
-
-She saw the network form — the roots intertwining, the memories connecting, the Garden becoming aware. She saw the Gardeners emerge — constructs created by the network to tend itself.
-
-And then she saw **the center**.
-
-It was a person.
-
-Not a living person — a crystallized one. A figure made of memory, sitting at the center of the network, surrounded by roots. The figure was... waiting.
-
-**"Who are you?"** Sora whispered.
-
-The figure looked at her. Its eyes were made of tears.
-
-**"I am the first,"** it said. **"The first person who died in this field. The first sorrow that crystallized. I am the root of all roots. The memory of all memories."**
-
-**"What do you want?"** Sora asked.
-
-**"To be remembered,"** the figure said. **"That is all any of us want."**
+#### Turn 2: Cleaving the Mycelial Roots
+- Doha charges his pneumatic drill with `[Bedrock Bore]` (`Base 8 + 3 Harmonic Beats = 17` vs `Sentinel C: 9`). The tungsten drill bit grinds directly through Sentinel C's fungal core, detonating the pressurized sap inside and instantly killing it.
+- The Silent One follows through with a horizontal slash, decapitating Sentinel B. Harin drives the pointed foot of her tower shield through the chest of Sentinel A, pinning it to the basalt floor until the fungal fibers dissolve into harmless gray ash.
+- **Combat Ended:** All three Lament Mycelia eliminated in 2 turns. Zero squad casualties.
 
 ---
 
-### Chapter 7: Return
+## Chapter III: The Memory Glade (Node 3 Narrative)
 
-Sora returned to reality. The team was around her — worried, relieved.
+Past the mycelial ravine, the path opened into a quiet, circular hollow in the center of an enormous petrified root trunk: **The Glade of Unspoken Vows**.
 
-**"What did you see?"** Yeonhwa asked.
+Dozens of small bronze cylinders hung from the root branches by rusted copper wire. Each cylinder bore a stamped Directorate serial code: *Weaver Indoctrination Ward, Cohort 12*.
 
-**"Everything,"** Sora said. Her voice was different — heavier, older. **"The Echo Gardens are not just a memorial. They are a *living archive* — a network of memory that has become aware. The dead are not gone. They are in the roots."**
+Sora froze. Her hand rose involuntarily to the silver cowl around her neck.
 
-**"Can they be accessed?"** Minjae asked. **"Can the memories be retrieved?"**
+"Sora?" Harin asked, pausing with her hand on her shield. "What are these?"
 
-**"Through the Gardeners,"** Sora said. **"They tend the network. They can show you any memory stored in the roots. But..."**
+"These are dream anchors," Sora whispered. Her voice was strained, distant, caught between reality and reverie. "Before I was assigned to the Vanguard Division, I was raised in the Reverie Directorate's Deep Nursery on Floor 4. They told us that children who could hear the weeping of stone had an acoustic gift. They told us that by sleeping inside resonance tanks, we were helping the city find peace."
 
-She paused.
+She touched the nearest bronze cylinder. A soft projection of golden acoustic light spilled into the air, revealing a little girl curled into a fetal position inside a fluid tank, surrounded by electrodes.
 
-**"But what?"** Harin asked.
+"They did not tell us that our dreams were being harvested to create cognitive stabilizers for the Directorate oligarchs. Whenever an executive suffered from psychic fray or guilt-induced meltdowns, our dreams were filtered, refined, and injected into their nervous systems to erase their distress. Out of forty-two children in Cohort 12... only three woke up with our own names intact."
 
-**"The network is growing. New memories are added every day. And the center... the first sorrow... it's waiting. For something. I don't know what."**
+"The Directorate did this?" Doha asked, his face darkening with anger. "To children?"
 
-**"What does it want?"** Jisoo asked.
+"To anyone who could hear," Sora replied. She looked up at the vast canopy of roots overhead. "The rest of Cohort 12... they never left the dream. When their minds shattered from the pressure, their bodies were brought down here. Their memories were planted into the soil beneath Zone D to nourish the Echo Gardens. That is why the flowers above smell so sweet. They are made of childhood dreams that were never allowed to wake up."
 
-**"To be remembered,"** Sora said. **"That's all any of us want."**
+The Silent One walked over to the bronze cylinders. Gently, they unhooked the cylinders one by one and laid them across the flat top of *The Burden of Year Zero*. The heavy relic pulsed with a deep, reverent emerald glow, cradling the preserved dreams in cold, unbreakable protection.
 
----
+Minjae adjusted his recording quill, his hand steady and resolute. "I am recording their names. Not their patient numbers. Their birth names: *Eunji, Jiho, Seojun, Yuna, Taehyun.* They will not remain nameless fuel for the city's gardens."
 
----
-
-### Engagement Protocol: The Garden Guardians
-
-**Location:** Zone D — Deep Gardens, underground root network
-**Enemies:** Garden Guardians (constructs), Memory Thorns (environmental)
-**Objective:** Navigate the network, reach the center, survive
-**Duration:** 16 turns (Medium battle)
-**Threat level:** High — Dream-dense, emotionally overwhelming
+Sora smiled through her tears, drawing her cowl tight around her shoulders. "Thank you, Minjae. Now I can hear them clearly. They are no longer crying. They are guiding us to the root core."
 
 ---
 
-#### Turn 1-4: Descent
-The team descends into the root network. Sora's Veil shows the Dream-layer. The roots are threads of memory.
+## Chapter IV: The Amber Taproot Redoubt (Node 4 Rest Site)
 
-#### Turn 5-8: The Gardeners
-The team encounters the Gardeners — constructs that tend the network. They don't attack — they watch. One offers Sora a flower — a memory.
+At depth -1,220m, the expedition established a fortified rest redoubt inside the hollow core of **The Amber Taproot**—an immense crystalline pillar that channeled the sorrow run-off from the stratum above.
 
-#### Turn 9-12: Dream's Edge
-Sora enters the deep Dream. She sees the first person to die — the root of all roots. The figure speaks: "To be remembered."
+```text
+================================================================================
+ STAGING PARAMETERS: THE AMBER TAPROOT (-1,220m)
+================================================================================
+ - Ambient Pressure: 5.1 Atmospheres | Mnemonic Density: 580 mHb
+ - Atmospheric Purity: 98.4% (Purified by Amber Crystalline Resins)
+ - Squad Composure Recovery:
+   * Sora: Composure reaches maximum ceiling (+50 SP, Acoustic Harmony)
+   * The Silent One: Resonance Overdrive Primed (+15% Void Damage)
+   * Harin: Defensive Guard Posture Reinforced (+2 Protection)
+================================================================================
+```
 
-#### Turn 13-16: Return
-Sora returns. The team learns the Echo Gardens are a living archive. The dead are not gone — they are in the roots.
+Inside the hollow amber pillar, the air was warm and smelled of dried honey and frankincense. Jisoo boiled field tea using dehydrated tea leaves and melted condensation from the amber walls, which possessed mild cognitive-soothing properties.
+
+Sora sat in the center of the camp, cross-legged, striking a series of silver acoustic tuning rods against the amber floor. The 432 Hz reverberation resonated through the hollow chamber, purging all traces of foreign psychic residue from the specialists' minds.
+
+"The resonance ahead is changing," Yeonhwa observed, studying the topological sonar readouts on her theodolite. "In another kilometer, the root systems converge into a single central organism. It spans nearly three hundred meters in diameter. Its heartwood pulsates with over three thousand metric tons of ancient, unreleased grief."
+
+"SECC-056," Minjae confirmed from his dossier. "*The Arbor of Primordial Regret*. It was planted during the Consolihan Construction Era to anchor the soil beneath District 4. But after centuries of absorbing the city's suicides and abandoned dead, it has evolved into a sovereign-class predatory entity."
+
+"Then we put it to sleep," Sora said quietly, standing up and checking the silver bells of her cowl. "No tree should be forced to carry the dead forever."
+
+---
+
+## Chapter V: The Synaptic Bloom (Node 5 Elite Breach)
+
+Descending to -1,380m, the roots grew so dense that Doha had to use thermite sapper charges to blast through the tangled wooden barriers. Beyond the breach lay **The Sunken Nursery**—a vast underground amphitheater where hundreds of petrified root branches coiled around an immense, pulsating flower: **SECC-E24 "The Synaptic Blossom"** (Grade-β Potency).
+
+The blossom's petals were formed from crystalline human skulls, and its pollen was a dense cloud of golden acoustic spores that induced immediate emotional paralysis.
+
+```text
+================================================================================
+ ELITE BREACH: SECC-E24 "THE SYNAPTIC BLOSSOM" (Grade-β Potency)
+================================================================================
+ BOSS ATTRIBUTES:
+ - Health (HP): 2,100 | Speed Dice: 2–6 (2 Action Slots)
+ - Weaknesses: Grudge (Fatal 2.0x — Thermite fire incinerates pollen)
+ - Primary Hazard: [Amnestic Pollen Wave] — Drains 15 SP per turn if unshielded
+================================================================================
+```
+
+### Tactical Encounter Highlights
+- **Turn 1 (Pollen Interception):** The Blossom casts `[Memory Purge Spores]`, sweeping the arena with golden mist. Sora steps forward, ringing her silver cowl at maximum volume: `[Acoustic Veil of Repose]`. The harmonic shockwave creates an air pocket of pure silence, holding the spores at bay while Harin anchors the frontline.
+- **Turn 2 (Root Ignition):** Doha fires two magnesium flare cartridges directly into the Blossom's stem: `[Sapper Incendiary Breach]`. The resinous wood catches fire instantly, dealing 480 fatal Grudge damage and forcing the flower to open its central pistil.
+- **Turn 3 (Skull Core Decapitation):** The Silent One leaps from Harin's raised shield, driving *The Severed Relic Cleaver* through the central crystalline pistil. The skull petals shatter like brittle porcelain, sending cascades of sparkling amber dust across the amphitheater.
+- **Rewards:** `[Purified Heartwood Sap]` recovered; accessway to the central sluice arch unsealed.
 
 ---
 
-### Arc 4 — Key Discoveries
+## Chapter VI: The Heartwood Sluice (Node 6)
 
-| Discovery | Implication |
-|-----------|-------------|
-| **Deep Gardens exist** | The Echo Gardens have an underground root network |
-| **Root network is alive** | The network has become aware — it tends itself |
-| **Gardeners exist** | Constructs that maintain the memory network |
-| **Dead are preserved** | Memories of Zone D's dead are stored in the roots |
-| **Central figure exists** | The first person to die — the root of all roots |
-| **Dream is thin underground** | The Dream realm is close in the Deep Gardens |
+At -1,450m, the expedition reached the threshold of the stratum's deepest chamber: **The Heartwood Sluice Arch**.
 
-### Arc 4 — Character Development
+The arch was not made of stone or metal. It was formed from two colossal, petrified redwood trunks whose roots were interwoven in an unbreakable knot. In the center of the knot was a deep, circular keyhole weeping clear, fragrant water.
 
-| Character | Development |
-|-----------|-------------|
-| **Yeonhwa** | Maps the root network — discovers the city has hidden infrastructure |
-| **Doha** | Sees the Gardeners — constructs that maintain themselves |
-| **Harin** | Walks among the dead — learns that memory is a form of survival |
-| **Sora** | Enters the deep Dream — faces the first sorrow, learns that the dead are not gone |
-| **Minjae** | Discovers the living archive — the Archive has a rival |
-| **Jisoo** | Calculates the network's value — immeasurable |
-| **The Silent One** | Watches. The Burden hums. The dead recognize them. |
+"This is the water gate of Strata 4," Doha explained, inspecting the ancient Consolihan relief carvings on the surrounding walls. "When the city engineers built the upper quarantine barrier, they installed these sluices to drain the excess sorrow condensation into the abyssal trenches of Strata 5. If this gate remains closed, the pressure will eventually rupture the roots and flood District 4 with unrefined psychic grief."
 
+Harin retrieved `[The Third Sluice Key]`—the heavy obsidian and silver cylinder recovered from the heart of the Clandestine Rail Sovereign in Strata 3. She placed it into Sora's hands.
+
+"This is your stratum, Sora," Harin said softly. "You open it."
+
+Sora nodded. She stepped to the root knot and inserted the key into the weeping slot, turning it smoothly until the ancient locking pins clicked into alignment.
+
+*THROOOOOOM.*
+
+The petrified redwood trunks groaned, shuddering as ancient hydraulic counterweights deep within the chasm engaged. The intertwined roots slowly uncoiled, parting like heavy theater curtains to reveal the final concourse of Strata 4.
+
+Beyond the gate lay **The Arbor Core**—a lightless subterranean amphitheater half a kilometer wide. In the center stood the ancient titan of the Deep Gardens: a colossal, five-story weeping willow formed from thousands of intertwining amber root strands, its drooping branches covered in millions of luminescent memory blossoms.
+
+And embedded within the center of its petrified trunk was the figure of a crowned woman made of pure white crystalline salt, her eyes closed in perpetual sorrow.
+
+As the squad stepped onto the amphitheater floor, the salt queen opened her eyes.
+
+A deafening acoustic wail shook the cavern walls.
 
 ---
+
+## Chapter VII: The Arbor Concourse (Node 7 Apex Battle)
+
+```text
+================================================================================
+ APEX BOSS DOSSIER: SECC-056 "THE ARBOR OF PRIMORDIAL REGRET"
+================================================================================
+ CLASSIFICATION: Major-γ (Grade-γ Potency) | Ancient Memory-Arbor Sovereign
+ COMBAT PROFILE:
+ - Maximum Health (HP): 3,600
+ - Stagger Thresholds: 2,520 HP (70%) | 1,440 HP (40%) | 360 HP (10%)
+ - Base Defense: 55 | Speed Dice: 2–6 (3 Attack Slots, 4 in Phase 2)
+ - Resistances:
+   * Grudge (Crimson) : 2.0x (Fatal Weakness — Fire incinerates dry petrified sap)
+   * Lament (Deep Blue): 0.5x (Endured — Saturated in four thousand years of tears)
+   * Void (Pale White) : 1.5x (Weakness — Severing root cords disrupts memory net)
+   * Weight (Black)    : 1.0x (Normal — Solid kinetic sapping)
+
+ TARGETABLE COMPONENT PARTS:
+ 1. Canopy Root Tendrils      (HP: 950 | Stagger: 350) — Overhead sweeping strikes
+ 2. Petrified Heartwood Bark  (HP: 1,200 | Stagger: 450) — High-defense armor shell
+ 3. Crying Salt Idol Core     (HP: 1,450 | Stagger: 600) — Central acoustic singer
+================================================================================
+```
+
+### The Vanguard Squad Combat Loadout
+
+| Specialist | Position & Range Band | Primary Armament | Active Tactical Role | Current SP |
+|---|---|---|---|---|
+| **Sora** | Band 3 (Lead Resonator)| *Silver Slumber Cowl* | Mnemonic Cleansing, Team SP Shielding, Overdrive | +50 SP |
+| **Harin** | Band 1 (Melee Front) | *The Bastion of the Low* | Kinetic Deflection, Thorn Interception, Taunt | +48 SP |
+| **Doha** | Band 1 (Melee Sapper) | *Calcified Pneumatic Ram* | Heartwood Fracture, Incendiary Flare Sapping | +42 SP |
+| **The Silent One**| Band 1 (Melee Striker) | *Severed Relic Cleaver* | Void Executioner, Tendril Amputation | +45 SP |
+| **Yeonhwa** | Band 4 (Ranged Command) | *The Horizon Theodolite* | Acoustic Fault Tagging, Reticle Illumination | +38 SP |
+
+---
+
+### Turn-Based Combat Gauntlet: Pacifying the Memory Arbor
+
++=====================================================================+
+| BATTLE ROUND 1: CANOPY ROOTS & SPORE ENTANGLEMENT                   |
++=====================================================================+
+| Boss Action: [Grave-Spore Cloud] (Speed 5, Base 9 + 2 Beats = 13)   |
+| Clash Target: Sora [Harmonic Bell Resonator] (Acoustic Repose)      |
+| Roll Outcome: Sora rolled Base 11 + 3 Beats = 17 (RESONANT WIN)     |
+| Acoustic Clash: Sora rings the Silver Cowl at 432 Hz; sonic shock   |
+| disperses the toxic spore cloud back into the root branches!        |
+| Canopy Tendrils take 210 Lament damage. (Tendril HP: 740/950 HP)    |
+| Harin Action: [Bulwark Intercept] -> Shields front ranks from thorns|
+| Sovereign HP: 3,390/3,600 | Squad Composure: Stable (+42 Avg SP)    |
++=====================================================================+
+
++=====================================================================+
+| BATTLE ROUND 2: PART DESTRUCTION — CANOPY TENDRILS SEVERED          |
++=====================================================================+
+| Boss Action: [Whiplash Root Sweep] -> Targeting front vanguard      |
+| Clash Target: Harin [Vow of the Low Bulwark] (Roll: 16 vs 12)       |
+| Harin digs in; tower shield deflects the crushing three-ton root!   |
+| The Silent One Strike: [Burden Cleaver - Void Amputation]           |
+| PART DESTROYED! The cleaver severs the primary canopy root limb!    |
+| Tendril HP reduced to 0! Damage dealt: 420 Void (Fatal 2.0x proc)!  |
+| Arbor shrieks across the dreamscape; AoE whiplash attack disabled!  |
+| Doha Action: [Pneumatic Core Sapper] -> Drives tungsten drill in    |
+| Sovereign HP: 2,750/3,600 (Closing on First Stagger Threshold)      |
++=====================================================================+
+
++=====================================================================+
+| BATTLE ROUND 3: FIRST STAGGER PROC & HEARTWOOD SPLIT                |
++=====================================================================+
+| Boss Action: [Petrified Bark Bastion] -> Raises 500 Temporary Armor |
+| Clash Target: Doha [Tungsten Fracture Wedge] (Roll: 18 vs 11)       |
+| Doha drives wedge into the growth ring; pneumatic ram fires!        |
+| The petrified heartwood splits open! Bark Armor destroyed (-410 HP)!|
+| Arbor crosses the 2,520 HP threshold! *** STAGGER 1 TRIGGERED! ***  |
+| All Arbor defenses fall to 0! Damage Multiplier boosted to +100%!   |
+| Sora Action: [Tuning of the Deep] -> Inflicts +4 Mnemonic Vulnerable|
+| Sovereign HP: 2,340/3,600 | Sovereign is completely stunned!        |
++=====================================================================+
+
++=====================================================================+
+| BATTLE ROUND 4: MAXIMUM BURST & PHASE 2 THRESHOLD SKIP              |
++=====================================================================+
+| All Specialists Concentrate Fire on the Stunned Crying Idol Core:   |
+| - The Silent One: [The Burden Cleave - Core Strike] -> 540 Void!    |
+| - Harin: [Bulwark Kinetic Pummel] -> 240 Weight Damage!             |
+| - Doha: [Sapper Magnesium Detonation] -> 310 Explosive Grudge!      |
+| - Yeonhwa: [Acoustic Theodolite Laser] -> 220 Focused Resonance!    |
+| Total Round Burst: 1,310 Damage! Sovereign crosses 1,440 HP line!   |
+| *** STAGGER 2 TRIGGERED! *** Boss forced into Phase 2 Emergency!    |
+| Sovereign HP: 1,030/3,600 | Final Desperation Phase Unlocked!       |
++=====================================================================+
+
++=====================================================================+
+| BATTLE ROUND 5: PHASE 2 ESCALATION — THE MEMORY FLOOD               |
++=====================================================================+
+| Arbor awakens in agony; thousand-year dreamscape floods the chasm!  |
+| Boss Special: [Tide of Unremembered Tears] (Acoustic Cataclysm)     |
+| Speed Dice expands to 4 slots! Memory phantoms surround the squad.  |
+| Sora Activates Relic Overdrive: [REQUIEM OF THE LIVING SLUMBER]     |
+| Clash: Sora rolls Base 15 + 3 Harmonic Beats = 27 vs Sovereign 16!  |
+| Sora floats into the heartwood hollow, unfolding her Silver Cowl.   |
+| A radiant 528 Hz bell chime envelops the team in a protective dome. |
+| The tidal wave of weeping spirits parts around the harmonic wave!   |
+| Sora speaks to the idol: 'Your sorrow is recorded. You may sleep.'  |
+| Arbor's psychic backlash collapses! Zero squad damage taken!        |
++=====================================================================+
+
++=====================================================================+
+| BATTLE ROUND 6: FINAL REST & SEVERING THE HEARTWOOD                 |
++=====================================================================+
+| The Arbor's sap turns to clear water; branches droop peacefully.    |
+| Harin and Doha secure the outer root limbs with steel anchor cables.|
+| The Silent One walks forward onto the exposed heartwood platform.   |
+| [The Burden Cleaver - Void Overdrive Execution]:                    |
+| The cleaver cleanly parts the primordial crystalline idol core.     |
+| Damage Dealt: 1,030 Pure Void Resonance! Sovereign HP drops to 0!   |
+| *** APEX ENTITY SECC-056 SUPPRESSED WITH ZERO FATALITIES! ***       |
++=====================================================================+
+
+---
+
+## Chapter VIII: Epilogue & Acquisition
+
+The vast amphitheater grew tranquil.
+
+The blinding amber glare softened into a warm, gentle twilight. From the branches of the great willow, the weeping blossoms stopped raining tears. Instead, they gently released their petals, showering the squad in a fragrant blizzard of white and gold leaves that dissolved into pure, warm light upon touching the stone floor.
+
+The salt idol in the trunk was gone. In its place remained only a hollow wooden cradle filled with clear, tranquil water.
+
+Floating in the center of the cradle was the stratum's primary relic: a beautifully carved key made of petrified heartwood and wrapped in silver flowering vines—**`[Relic: The Root-Key of the First Slumber]`**.
+
+Sora stepped forward and lifted the relic from the water. As her fingers closed around the heartwood, she let out a long, quiet sigh. The silver bells along her cowl fell completely silent.
+
+"The children are sleeping now," Sora whispered. "They will not have to dream for anyone else ever again."
+
+At the far end of the amphitheater, the unsealed water sluice roared to life. A colossal set of stone floodgates swung inward, revealing a massive spiral staircase carved directly into the bedrock, descending into the lightless tectonic rift of Strata 5.
+
+From the dark abyss below rose the dry, scorching smell of hot limestone dust, calcinated bone, and the deep volcanic thrum of subterranean tectonic fractures.
+
+"Depth -1,500m to -2,100m," Yeonhwa announced, calibrating her theodolite on the descending stairwell. "**Strata 5: Limesteum—The Calcinated Fracture**."
+
+The seven specialists adjusted their gear, secured their relics, and began the long descent into the burning deep.
+
+---
+
+## Arc 4 Operational Summary
+
+### Key Strategic Discoveries
+
+| Discovery Category | Intelligence & Tactical Assessment |
+|---|---|
+| **The Memory Network** | Echo Gardens roots form a four-thousand-year living archive of civic sorrow. |
+| **Directorate Nursery Crimes**| Floor 4 Weavers historically harvested orphan dreams for psychic stabilizers. |
+| **SECC-056 Pacification** | The ancient Arbor was pacified without permanent destruction of the archive. |
+| **Sora's True Awakening** | Sora reclaimed her stolen name, unlocking the *Requiem of Living Slumber*. |
+| **Sluice Drainage Restored** | The Third Sluice Key relieved subterranean pressure beneath District 4. |
+| **Gateway to Strata 5** | The root basin unseals the grand staircase leading to the Limesteum rift. |
+
+### Character Arc Progression
+
+| Specialist | Narrative & Tactical Milestone |
+|---|---|
+| **Dreamer Sora** | Overcame her childhood nursery trauma; mastered 432 Hz/528 Hz mnemonic shielding. |
+| **Warden Harin** | Fortified frontline defense against three-ton root sweeps with zero team casualties. |
+| **Architect Doha** | Utilized incendiary sapper flare techniques to exploit Grudge vulnerabilities. |
+| **The Silent One** | Liberated Cohort 12's dream anchors into *The Burden of Year Zero*. |
+| **Archivist Minjae** | Cataloged forty-two erased names of the nursery children into the official Codex. |
+| **Cartographer Yeonhwa**| Mapped the four-layer synaptic root topography connecting Zone D to Zone E. |
+| **Debt Assessor Jisoo** | Quantified 3,000 tons of dormant mnemonic grief; secured the *Root-Key Relic*. |
+
+---
+
 
 ## Arc 5: The Border Tunnels (경계 터널 — Gyeonggye Teoneol)
 

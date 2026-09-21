@@ -64,9 +64,9 @@ The repository root houses the two official primary cartographic and architectur
 - `SOMNARAK_ABSOLOVHAN.md` (4,828 lines): The Absolvohan 366-day facility gameplay and narrative master chronicle (paired with dedicated `SOMNARAK-WORLD/The_Absolvohan/` volume collection).
 - `ABSOLOVHAN_OVERVIEW.md`: The definitive non-story operational guidebook and systemic mechanics codex for the Absolvohan facility.
 - `The_SOMNARAK_EXPLORATION_DECREE.md`: The SED corporate dossier, three-tier subterranean exploration doctrine, specialized survey gear, and expedition specialist profiles.
-- `SOMNARAK_SED_PASSAGES.md`: The SED Seven Subterranean Descents gameplay & story master chronicle (paired with dedicated `SOMNARAK-WORLD/The_SED/` volume collection).
+- `SOMNARAK_SED_PASSAGES.md`: The SED Seven Subterranean Descents gameplay & story master chronicle (paired with dedicated `SOMNARAK-WORLD/Katabagil/` volume collection).
 - `The_UNDERWORLD_CLEANUP_DESCEND.md`: The UCD corporate dossier, three-phase reclamation doctrine, pacification armaments, and joint task force profiles.
-- `SOMNARAK_UCD_PACIFICATION.md`: The UCD Six Underworld Pacification Sweeps gameplay & story master chronicle (paired with dedicated `SOMNARAK-WORLD/The_UCD/` volume collection).
+- `SOMNARAK_UCD_PACIFICATION.md`: The UCD Six Underworld Pacification Sweeps gameplay & story master chronicle (paired with dedicated `SOMNARAK-WORLD/Katharcheok/` volume collection).
 
 ### Group 3: Systems, Combat Engine & Metaphysical Physics
 - `SOMNARAK_BATTLE_SYSTEM.md` (374 lines): Tactical combat engine specifications: 4 sorrow elements (Grudge, Lament, Void, Weight), Range Bands 1–5, 100% → 70% → 50% line falloff, 4 armament classes (Extracted M.A.W., Fused Ω-Grade, Manufactured Cyborg Arms, Before-Time Relics), and Echo-Core Suppressions (Floors 2–8 gauntlets, Mellda's martial trial, Ishall's Dual Suppression, and +10 attribute realization rewards).

@@ -75,4 +75,4 @@ The tactical campaign of the UCD unfolds across six high-intensity operational r
 
 - **Company Dossier:** `SOMNARAK-WORLD/Master_Codices/The_UNDERWORLD_CLEANUP_DESCEND.md`
 - **Monolithic Master Story:** `SOMNARAK-WORLD/Master_Codices/SOMNARAK_UCD_PACIFICATION.md`
-- **Tactical Guidebook:** `SOMNARAK-WORLD/The_UCD/UCD_OVERVIEW.md`
+- **Tactical Guidebook:** `SOMNARAK-WORLD/Katharcheok/UCD_OVERVIEW.md`

@@ -50,8 +50,8 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   ├── README.md                           # In-world archive guide & recommended reading order
 │   ├── Master_Codices/                     # 35 Macro-Canon Master Codices: Cosmology, Factions, Systems
 │   ├── The_Absolvohan/                     # 9 Chronological Narrative Volumes (Day 0–365 & Epilogue)
-│   ├── The_SED/                            # 7 Subterranean Descent Passages & Field Guide (Exploration Arcs 1–7)
-│   ├── The_UCD/                            # 6 Underworld Pacification Operations & Tactics Guide (Purge Arcs 1–6)
+│   ├── Katabagil/                            # 7 Subterranean Descent Passages & Field Guide (Exploration Arcs 1–7)
+│   ├── Katharcheok/                            # 6 Underworld Pacification Operations & Tactics Guide (Purge Arcs 1–6)
 │   ├── Sorrow_Entities/                    # 529 Entity files: Dossiers, tales, and containment data
 │   ├── Echo_Cores/                         # 9 Echo-Core files: Facility 01 departmental leaders
 │   ├── MAW_Codex_Sets/                     # 1,196 files across 42 registry folders (A/B/C/D quadripartite sets)
