@@ -51,13 +51,14 @@
   - Node 6: Vault Bulkhead — Kinetic Ram Penetration
   - Node 7: The Usury Dais — Apex Gauntlet: Man-sik Op
 
-- **Arc 5: The Entity Traders** (Zone D + E)
-  - Passage 1: The Containment Cubes — The Handler finds trafficked entities
-  - Passage 2: The Auction — Where entities are sold
-  - Passage 3: The Warehouse — Where entities are stored
-  - Passage 4: The Confrontation — The Traders are desperate
-  - Passage 5: The Entity — A trafficked entity that has learned to hate
-  - Passage 6: Return — The fifth Fray falls
+- **Arc 5: Therionok** (Zones D & E — The Black Cages)
+  - Node 1: Quarry Ingress — Perimeter Shaft Cordon
+  - Node 2: Sentry Interdict — Acoustic Sensor Sapping
+  - Node 3: The Menagerie — Juvenile Entity Salvage
+  - Node 4: Forward Bivouac — Respite & Composure Tuning
+  - Node 5: Auction Loges — High-Roller Subjugation
+  - Node 6: Colosseum Gates — Hydraulic Ram Penetration
+  - Node 7: The Blood Pit — Apex Gauntlet: Jagyeon Op
 
 - **Arc 6: The Underworld King** (Zone B — Deep)
   - Passage 1: The Throne — Finding the Frays' true leader
@@ -2080,466 +2081,479 @@ Taeho walked over to the towering stacks of parchment debt bonds. With a single 
 
 ---
 
-## Arc 5: The Entity Traders (엔티티 거래업자 — Entiti Georaeeopja)
+# UCD — Operation 5: Therionok (흑옥투 — The Black Cages)
+## Part of the Katharcheok Underworld Pacification Operations
+### Zones D & E Abandoned Basalt Quarries & Subterranean Amphitheater (-210m to -280m)
 
-### Zone D + E — The Exile's Gate
-
-> *"They don't just sell entities. They enslave them. They turn living sorrow into currency — and profit from the suffering."*
-
----
-
-### Overview
-
-The UCD's fifth mission targets **The Entity Traders** — a Fray that traffics Sorrow Entities, selling them as weapons, tools, and currency. The Traders operate in Zone D's Exile's Gate and Zone E's border regions, using a device called the Containment Cube.
-
-**Mission objective:** Locate the Containment Cube operation. Shut it down. Free the enslaved entities. Capture the Traders.
-
-**Duration:** 3 weeks
-
-**Threat level:** Critical — the Traders are desperate, and their entities are dangerous.
+> *"To cage an entity of pure grief, torture it with electrical currents until its sorrow curdles into homicidal rage, and force it to tear indentured gladiators apart for the applause of wealthy gamblers is not commerce. It is a crime against the very nature of human existence. Today, we break the cages."*
+> — Containment Handler Soojin, Pre-Breach Briefing at the Quarry Head
 
 ---
 
-### Chapter 1: The Containment Cubes
+### Executive Operational Dossier
 
-The cubes started appearing in Zone D's black market — small, portable, humming with Han-energy.
-
-Inside each cube: a Sorrow Entity — contained, compressed, enslaved. The entities were sold as weapons, tools, currency. The buyers didn't care about the entities' suffering — they cared about the profit.
-
-> **Soojin:** *"The Containment Cubes are R.D. technology. Modified. Corrupted. Whoever built this knew what they were doing."*
-
-> **Minho:** *"They did. The Cubes use the same principles as the R.D.'s containment systems. But instead of containing... they enslave."*
-
-> **Echo:** *"I know this technology. I helped build it."*
-
-The team turned to Echo. Their face was hidden — but their voice was heavy.
-
-> **Echo:** *"When I was with the Entity Traders, I was the technician. I maintained the cubes. I optimized the containment process. I made it more efficient. More... profitable."*
-
-> **Taeho:** *"Can you shut it down?"*
-
-> **Echo:** *"I can. But first, we need to find where the entities are stored. If we just destroy the cubes, the entities are lost forever."*
+| Metric / Parameter | Field Data |
+|---|---|
+| **Codename** | Operation Therionok (UCD-OP-05) |
+| **Transliteration** | 흑옥투 (黑獄賣買 — The Black Cages) |
+| **Etymology** | *Therion* (Greek: Beast / Wild Entity) + *Ok* (Korean: 옥 / 獄, Prison / Arena) |
+| **Ingress Domain** | Zones D & E Abandoned Basalt Quarries & Subterranean Amphitheater |
+| **Sector Depth** | -210m to -280m Sub-Surface Depth |
+| **Primary Syndicate** | The Entity Traders (엔티티 밀매단) |
+| **Primary Antagonist** | Beastmaster Jagyeon ("The Chain Binder" / 사슬잡이 작연) |
+| **Contraband Entity** | SE-C-IIIγ-102 [GO] "Dancing Chains" / "The Chained Frenzy" (사슬의 광란) |
+| **Squad Cadre** | Commander Taeho, Auditor Yuna, Investigator Minho, Handler Soojin, Engineer Joon, Infiltrator Echo |
+| **Primary Objective** | Infiltrate underground gladiatorial arena and seize illicit auction ledgers |
+| **Secondary Objective** | Subdue Beastmaster Jagyeon, liberate captive entities, and seal SE-C-IIIγ-102 |
+| **Rules of Engagement** | Strict non-lethal pacification; protect captive entities from slaughter |
 
 ---
 
-### Chapter 2: The Auction
+### Tactical Infiltration & Breach Routing
 
-The team tracked the Entity Traders to an auction in Zone D — a hidden event where enslaved entities were sold to the highest bidder.
+The assault vector descends through seven subterranean tiers within the abandoned basalt quarries between Zones D and E, beginning at the quarry hoist machinery (-210m) and penetrating the underground holding menagerie into the sunken blood amphitheater (-280m).
 
-The auction was dark — Han-lamps casting long shadows. The air was thick with Han-vapor — the smell of enslaved sorrow. Buyers bid on entities — each one a living being, each one suffering, each one sold as property.
-
-> **Soojin:** *"This is... horrifying. The entities are alive. They're aware. They're suffering."*
-
-> **Minho:** *"The Containment Cubes don't just contain — they suppress. The entities are trapped in a state of perpetual suffering — aware, but unable to act."*
-
-> **Echo:** *"The Traders don't care about the entities. They care about the profit. Each cube is worth more than a citizen earns in a year."*
-
-> **Taeho:** *"We shut it down. We free the entities. And we make sure this never happens again."*
-
----
-
-### Chapter 3: The Warehouse
-
-The team found the warehouse beneath the auction — a hidden chamber filled with Containment Cubes.
-
-Thousands of them. Each one a Sorrow Entity — contained, compressed, enslaved. The cubes glowed faintly — pulsing with the weight of enslaved sorrow.
-
-> **Soojin:** *"This is... thousands. Maybe tens of thousands. The Traders have been operating for years."*
-
-> **Minho:** *"The entities are alive. They're aware. They're suffering. We need to free them."*
-
-> **Echo:** *"The cubes are sealed. The containment is absolute. We need the control codes to open them."*
-
-> **Taeho:** *"Then we get the codes. We free the entities. And we make sure this never happens again."*
-
----
-
-### Chapter 4: The Confrontation
-
-The Traders found them.
-
-A dozen operatives — armed, desperate, cornered. The leader — a man with cold eyes and scarred hands — stepped forward.
-
-> **Trader Leader:** *"You shouldn't have come here. This is our territory. Our business. Our survival."*
-
-> **Taeho:** *"You're enslaving Sorrow Entities. You're selling living beings as property. This is Taboo."*
-
-> **Trader Leader:** *"Taboo? The system contains entities every day. The R.D. imprisons them. The Wardens enforce their containment. We just... do it more efficiently."*
-
-> **Soojin:** *"The system doesn't enslave entities. It doesn't turn them into property."*
-
-> **Trader Leader:** *"No? What do you call the R.D.? Entities are contained, studied, used. The system enslaves — we just make it profitable."*
-
-The Traders attacked — desperate, cornered, fighting for survival.
-
----
-
-### Chapter 5: The Entity
-
-The fight was brutal — the Traders fought with the desperation of people who had nothing to lose.
-
-Harin held the line — her shield absorbing blow after blow. Echo flanked — moving through the shadows, disabling Traders from behind. Soojin contained — her Handler's Cage capturing operatives who tried to flee.
-
-But the leader fought hardest — his eyes blazing with fury, his voice cracking with desperation.
-
-> **Trader Leader:** *"You think you're saving the city? You're just enforcing a different kind of containment! The system contains entities — we just make it profitable!"*
-
-> **Taeho:** *"Profit doesn't require enslaving living beings."*
-
-> **Trader Leader:** *"In this city, it does!"*
-
-The fight ended — the Traders subdued, the leader captured. But his words lingered.
-
-And then — the entity spoke.
-
-Not in words. In *feeling*. A wave of rage — pure, absolute, overwhelming. The entity had learned to hate. Hate the Traders. Hate the system. Hate everything.
-
-> **Soojin:** *"The entity is... angry. It's been enslaved for so long that it's learned to hate."*
-
-> **Minho:** *"Can it be saved?"*
-
-> **Soojin:** *"I don't know. But I can try."*
+```text
++==================+===========================+
+| BREACH SECTOR    | CHOSEN NODE & TACTICAL OP |
++==================+===========================+
+|                  | Node 1: Quarry Ingress    |
+| HOIST SHAFT PASS | Perimeter Shaft Cordon    |
+|                  +---------------------------+
+| (Depth: -210m)   | Squad deploys winch cables|
+|                  | and secures entry shaft.  |
++------------------+---------------------------+
+|                  | Node 2: Sentry Interdict  |
+| BASALT CONCOURSE | Acoustic Sensor Sapping   |
+|                  +---------------------------+
+| (Depth: -225m)   | Echo silences trip buoys; |
+|                  | Taeho suppresses sentries.|
++------------------+---------------------------+
+|                  | Node 3: The Menagerie     |
+| HOLDING CELLS    | Juvenile Entity Salvage   |
+|                  +---------------------------+
+| (Depth: -240m)   | Soojin dispenses sedatives|
+|                  | to calm abused entities.  |
++------------------+---------------------------+
+|                  | Node 4: Forward Bivouac   |
+| DRY AIRLOCK      | Respite & Composure Tuning|
+|                  +---------------------------+
+| (Depth: -255m)   | Minho administers neuro   |
+|                  | salts; Yuna taps terminals|
++------------------+---------------------------+
+|                  | Node 5: Auction Loges     |
+| SPECTATOR TIER   | High-Roller Subjugation   |
+|                  +---------------------------+
+| (Depth: -265m)   | Yuna seizes buyer logs;   |
+|                  | Joon cuts emergency power.|
++------------------+---------------------------+
+|                  | Node 6: Colosseum Gates   |
+| IRON BLAST PORTAL| Hydraulic Ram Penetration |
+|                  +---------------------------+
+| (Depth: -275m)   | Joon breaches arena gates |
+|                  | into central blood pit.   |
++------------------+---------------------------+
+|                  | Node 7: The Blood Pit     |
+| SAND AMPHITHEATER| Apex Gauntlet: Jagyeon Op |
+|                  +---------------------------+
+| (Depth: -280m)   | Subdue Beastmaster Jagyeon|
+|                  | and contain SE-C-IIIγ-102.|
++==================+===========================+
+```
 
 ---
 
-### Chapter 6: The Return
+### Narrative Operation Chronicle
 
-The team returned to the surface — carrying the enslaved entities, the captured Traders, and the weight of what they learned.
+#### Chapter 1: The Caged Horrors
 
-> **Soojin:** *"The entities can be freed. The Containment Cubes have control codes — we can open them."*
+The atmosphere in the subterranean briefing vault of UCD Sub-Precinct 4 was thick with dread. On the central holotank, Containment Handler Soojin and Senior Investigator Minho projected footage seized from an underworld courier intercepted along the Zone D perimeter.
 
-> **Minho:** *"The entity that learned to hate... it's dangerous. But it's also... understandable."*
+The projection showed a circular pit of churned red sand surrounded by high-voltage basalt fences. In the center, a juvenile Sorrow Entity—a small, translucent phantasm of weeping glass—shivered against the bars of a crude lead battery. A towering man in spiked leather armor thrust an electrified pole into the cage. A blue-white discharge of fifty thousand volts surged into the entity, causing it to emit a shrill, heart-wrenching psychic wail that shattered the recording device's audio sensors.
 
-> **Taeho:** *"We free what we can. We protect what we can't. And we make sure this never happens again."*
+"This is the Black Cages," Soojin said, her voice shaking with quiet fury. "Operated by the Entity Traders Fray. They do not just traffic contraband artifacts—they capture living, juvenile Sorrow Entities from the outskirts and the deep drainage vaults. They torment them with harmonic shock prods to maximize their aggressive frenzy, then pit them against indentured debtors in gladiatorial bloodsports."
 
-> **Echo:** *"It will happen again. The demand doesn't disappear. The need doesn't disappear. The system creates the need — and the need creates the crime."*
+Auditor Yuna activated the secondary terminal, displaying a roster of high-stakes auction transactions.
 
----
+"The bloodsport is merely the entertainment," Yuna explained coldly. "The true profit lies in the auctions that follow each match. High-grade entities that survive the arena are fitted with crude neural-slave collars and sold as biological siege engines to rogue private security corporations, criminal cartels, and corrupt colonial magnates. A single combat-trained entity commands up to two hundred thousand Echoes."
 
-### Engagement Protocol: The Containment Cube Raid
+"Who commands the ring?" Commander Taeho asked, his arms folded tightly.
 
-**Location:** Zone D — Exile's Gate warehouse
-**Enemies:** 12 Entity Traders (armed), 1 Trader Leader (critical), 1 hostile entity (learned to hate)
-**Objective:** Shut down the Containment Cube operation, capture the Traders, free the enslaved entities
-**Duration:** 18 turns (Long battle)
-**Threat level:** Critical — the Traders are desperate, the entities are dangerous
+"Beastmaster Jagyeon, known across the underworld as 'The Chain Binder,'" Infiltrator Echo answered, stepping forward. "Jagyeon was once an auxiliary containment specialist expelled from the Reverie Directorate fifteen years ago for torturing specimens. He excavated the ancient basalt quarries at two hundred and eighty meters down. And he possesses an apex prize: SE-C-IIIγ-102, designated 'Dancing Chains.' Jagyeon bound the entity into a monstrous feral chimera he calls 'The Chained Frenzy.' It is powered by pure Crimson Grudge, its vertebrae links glowing white-hot with fury."
 
----
+Taeho adjusted the straps of his riot armor, his expression set like stone.
 
-#### Turn 1: Approach
-
-The team approaches the warehouse — dark, industrial, surrounded by Trader lookouts.
-
-> **Echo:** *"The main facility is inside. The Containment Cubes are on the ground floor. The control codes are in the leader's possession."*
-
-> **Taeho:** *"Entry points?"*
-
-> **Echo:** *"One main door. One loading dock. One emergency exit — but it's sealed from the inside."*
-
-> **Harin:** *"We take the main door. Fast and loud."*
-
-> **Taeho:** *"Agreed. On my mark."*
+"The parameters of Operation 5 are absolute," Taeho commanded. "Primary objective: seal the arena and capture all participating criminal gamblers. Secondary objective: neutralize Beastmaster Jagyeon, liberate all twelve captive juvenile entities into Directorate medical casks, and contain SE-C-IIIγ-102 without civilian collateral damage. Prepare heavy descent gear. We drop into the quarries."
 
 ---
 
-#### Turn 2: Breach
+#### Chapter 2: Infiltration of the Quarry Shafts
 
-The team breaches the main door — Harin leading, shield raised.
+The descent into the abandoned basalt quarries was a descent into an abyss of black stone. At two hundred and ten meters below the surface, the squad stood at the rim of a massive vertical excavation shaft. The air was dry and freezing, carrying the sharp scent of ozone, burnt animal hair, and volatile Crimson Grudge.
 
-Inside: the warehouse — massive, dark, filled with Containment Cubes. The air is thick with Han-vapor — the smell of enslaved sorrow.
+"Anchoring descent lines," Sapper Joon whispered, drilling pneumatic pitons into the volcanic basalt. "Two hundred meters of vertical drop. Watch the side ledges—Jagyeon has lookouts posted in the old crane alcoves."
 
-A dozen Traders stand between the team and the control codes — armed, desperate, powerful.
+Moving in coordinated silence, the six operatives rappelled down the sheer basalt wall. Overhead, the distant rumble of surface machinery faded into the oppressive quiet of the deep earth.
 
-> **Trader:** *"Intruders! Protect the cubes!"*
+"Sensor perimeter at two hundred and twenty-five meters," Echo signaled, hanging suspended from their harness.
 
----
+A web of acoustic trip-wires and infrared beam sensors stretched across the narrow gallery leading to the menagerie. Two cartel sentries in studded leather carapace and thermal visors leaned against a rusted steam hoist, drinking cheap synthetic liquor.
 
-#### Turn 3: Harin vs. Trader Vanguard
+Echo released their harness clamp, dropping soundlessly onto a basalt lintel six feet above the sentries. With a single fluid sweep of their cushioned stun-baton, Echo struck the first sentry's neural nexus. Taeho landed an instant later, his Obsidian shield slamming into the second sentry with muffled concussive force, driving the breath from the guard's lungs and rendering him unconscious before he could reach his alarm horn.
 
-The Trader vanguard charges — three operatives with heavy weapons.
-
-Harin steps forward — shield raised, Aegis glowing. She absorbs the first blow — a heavy strike that jars her arms. Then the second. Then the third.
-
-> **Harin:** *"I can hold them! Push forward!"*
-
-The team pushes through — Harin holding the line, the others moving past her. The Traders throw everything they have — blades, explosives, Han-energy blasts. Harin absorbs it all.
-
-> **Harin:** *"They're strong! Desperate! I can't hold forever!"*
-
-> **Taeho:** *"You don't have to! Just long enough!"*
-> **Soojin:** *"The entities in the cages — they're scared. I can feel it."*
-
-> **Minho:** *"Focus on the fight. We'll free them after."*
-
-> **Soojin:** *"I can do both."*
+"Sensors looped. Sentries bound," Taeho reported, securing the unconscious men. "Moving into the menagerie."
 
 ---
 
-#### Turn 4: Echo Flanks
+#### Chapter 3: The Subterranean Menagerie
 
-Echo moves — silent, a shadow among shadows. Their Shadow Cloak activates — rendering them nearly invisible.
+At two hundred and forty meters depth, the squad breached the iron gates of the holding menagerie.
 
-They circle behind the Traders — moving through the warehouse's corridors, disabling operatives one by one. A quick strike to the back of the neck. A precise application of Han-suppression. A body dropping silently to the floor.
+The sight made Soojin gasp in horror. The cavernous basalt hall was divided into dozens of reinforced iron cages. Inside were twelve juvenile Sorrow Entities—TETH and ZAYIN grade fragments whimpering in the dark. Several had crude copper shock collars clamped around their ethereal forms, while others were chained to heavy lead anchors.
 
-> **Echo:** *"Four down. Eight remaining."*
+"They are terrified," Minho murmured, his silver lancet vibrating with the sympathetic resonance of their weeping. "They are not feral by nature—they have been driven mad by constant electric shock and confinement."
 
-> **Taeho:** *"Keep moving. We need the leader."*
+"We need to stabilize them before the arena alarms trigger," Soojin urged, unclipping high-volume sedative aerosol dispensers from her utility belt.
 
-> **Echo:** *"I know where he is. The control room. Ground floor."*
+Soojin set the dispensers along the central walkway. A gentle, lavender-tinted mist of Han-saline and sedative compound rolled across the cages. Within seconds, the frantic whimpering subsided. The juvenile entities curled into peaceful, shimmering spheres of dormant light.
 
----
+Joon moved swiftly down the line with pneumatic bolt-cutters, snapping the padlocks and replacing them with temporary Directorate vacuum seals.
 
-#### Turn 5: Soojin Contains
-
-A Trader throws a containment grenade — a device that traps entities on impact.
-
-Soojin steps forward — her Handler's Cage extending. The cage catches the grenade — containing it, suppressing it, neutralizing it.
-
-> **Soojin:** *"Contained! But there's more!"*
-
-More grenades fly — Soojin catches them one by one, her Resolve attribute activating, calming the energy, reducing volatility.
-
-> **Soojin:** *"I can't keep this up! They're throwing everything!"*
-
-> **Taeho:** *"Hold them! We're almost there!"*
+"Twelve entities stabilized and prepped for evacuation," Joon reported, wiping sweat from his brow. "Now let's go shut down the circus."
 
 ---
 
-#### Turn 6: The Control Codes
+#### Chapter 4: The Auction of Living Agony
 
-The team reaches the control room — where the Trader Leader holds the control codes.
+At two hundred and sixty-five meters below the city, the squad reached the spectator tiers overlooking the sunken colosseum.
 
-The leader stands before the control panel — his eyes blazing, his hands on the codes.
+Through the reinforced one-way viewing glass of the VIP loges, the squad observed eighty high-profile cartel patrons—crime lords in velvet coats, corrupt municipal contractors, and foreign mercenary brokers—sipping champagne while watching the bloodsport below.
 
-> **Trader Leader:** *"You won't get the codes. You won't free the entities. You won't destroy my work."*
+"Yuna, lock down the terminals," Taeho ordered.
 
-> **Soojin:** *"The entities are alive. They're aware. They're suffering. We need to free them."*
+Auditor Yuna attached her cipher slate to the central communications junction. Her hands danced across the interface, broadcasting an overriding lock protocol that sealed every hydraulic exit hatch leading out of the spectator loges.
 
-> **Trader Leader:** *"They're property. I own them. I control them. You can't have them."*
+"Exits locked," Yuna announced softly. "All commercial bidding ledgers seized. Eighty bank accounts and twenty-four shell company contracts identified. They aren't going anywhere."
 
----
+Echo slipped into the arena control booth overhead. With three rapid strikes, Echo neutralized the arena electricians, throwing the master breaker to disable the high-voltage perimeter fences in the sand pit below.
 
-#### Turn 7: Soojin Fights for the Entities
-
-Soojin steps forward — her Cage extended, her Resolve ready.
-
-> **Soojin:** *"The entities are not property. They're living beings. They deserve freedom."*
-
-The Trader Leader doesn't move. He presses a button — the containment intensifies, the entities screaming in their cubes.
-
-> **Trader Leader:** *"The entities are mine. I contained them. I own them. You can't have them."*
-
-> **Soojin:** *"They're not yours! They're living sorrow! Their suffering is real!"*
-
-Soojin charges — her Cage extended, aiming for the control codes. The Trader Leader blocks — his own weapon drawn, a blade of crystallized entity-sorrow.
-
-The fight is brutal — Soojin fighting for the entities, the Trader Leader fighting for his property.
+"Fences offline," Echo reported over comms. "The pit is open. Go, Commander."
 
 ---
 
-#### Turn 8: The Entity Awakens
+#### Chapter 5: The Arena of Blood & Chains
 
-As the fight rages, one of the Containment Cubes cracks — the entity inside breaking free.
+At two hundred and seventy-five meters depth, Joon set four heavy shaped breaching charges against the iron blast doors of the gladiatorial entrance tunnel.
 
-The entity is massive — made of crystallized rage, learned from years of enslavement. It does not speak. It does not reason. It simply *hates*.
+*BOOM.*
 
-> **Entity:** *RAGE. HATE. FREEDOM.*
+The four-meter gates blew inward, falling with a thunderous crash into the churned red sand of the arena floor. The squad charged into the amphitheater (-280m), forming a tight combat wedge behind Taeho's Obsidian Bastion.
 
-The entity attacks — not at the team, not at the Traders, but at *everything*. The warehouse shakes. The cubes crack. The air fills with the sound of breaking crystal.
+The arena was a colossal circular pit carved from black basalt rock. In the center, chained to four massive hydraulic winches, was **SE-C-IIIγ-102**, "The Dancing Chains."
 
-> **Soojin:** *"The entity is free! It's learned to hate! We need to contain it!"*
+The Sorrow Entity had been forcibly bound into a terrifying, quadrupedal chimera of fused bone, jagged obsidian scales, and hundreds of glowing red vertebrae chain-links. The beast thrashed against the arena floor, its glowing chain-tails whipping through the air with deafening sonic cracks, radiating furious heat and intense Crimson Grudge.
 
-> **Taeho:** *"Can you?"*
+Standing atop a raised basalt outcropping was Beastmaster Jagyeon.
 
-> **Soojin:** *"I can try. But it's strong. And angry."*
+Jagyeon was an imposing, battle-scarred giant clad in heavy spiked beast-hide armor. In his hands, he wielded twin **Harmonic Shock Whips**—ten-foot braided copper cables that crackled with fifty thousand volts of blinding blue sorrow-disruption arcs.
 
----
+"Directorate dogs!" Jagyeon roared, his voice booming across the blood-soaked sand. "You think you can ruin my arena? You think you can steal my prize? Look upon the Chained Frenzy! It has torn forty champions to pieces! It will pick your bones clean!"
 
-#### Turn 9: Minho Studies the Entity
-
-Minho steps forward — his Needle drawn, his Lens scanning.
-
-> **Minho:** *"The entity is... unique. It's not just angry — it's learned to hate. The enslavement changed it. Made it something new."*
-
-> **Soojin:** *"Can it be saved?"*
-
-> **Minho:** *"I don't know. But I can try to understand it."*
-
-Minho approaches the entity — slowly, carefully, his Needle extended. The entity watches him — its eyes blazing with rage.
-
-> **Minho:** *"I know you're angry. I know you've been enslaved. I know you've learned to hate. But I'm here to help."*
-
-The entity does not respond. But it does not attack. It watches — waiting, judging, deciding.
+Jagyeon cracked his shock whips together, sending a massive electrical pulse into the chimera's slave-collar. The beast unleashed a terrifying, ear-splitting psychic shriek, its crimson chains igniting with blazing Han-fire!
 
 ---
 
-#### Turn 10: The Codes
+#### Chapter 6: The Stand in the Sunken Colosseum
 
-While Soojin and Minho deal with the entity, Echo moves for the control codes.
+"Hold the line! Acoustic wards active!" Taeho bellowed, locking his shield into the red sand.
 
-> **Echo:** *"The codes are here. But the leader is still guarding them."*
+The battle for the Black Cages was joined.
 
-> **Taeho:** *"Take him down."*
-
-Echo moves — silent, fast, precise. They strike the Trader Leader from behind — a precise application of Han-suppression. The leader falls — unconscious, defeated.
-
-> **Echo:** *"Codes secured."*
-
-> **Taeho:** *"Free the entities."*
-
----
-
-#### Turn 11: The Entities Speak
-
-Echo enters the control codes — the Containment Cubes open, one by one.
-
-The entities emerge — thousands of them, each one a living being, each one aware, each one suffering. They do not attack. They do not speak. They simply *exist* — free, for the first time in years.
-
-> **Soojin:** *"They're... quiet. They're not attacking. They're just... free."*
-
-> **Minho:** *"They're processing. They've been enslaved for so long that freedom is... overwhelming."*
-
-> **Echo:** *"They need time. Space. Understanding."*
-
-> **Taeho:** *"Then we give them what they need."*
+```text
++==============================================+
+|       TARGET DOSSIER: THE BEAST BINDER       |
++==============================================+
+| Apex Target          | Beastmaster Jagyeon   |
+| Cartel Moniker       | "The Chain Binder"    |
+| Threat Grade         | Major Potency (γ)     |
+| Contraband Entity    | SE-C-IIIγ-102 [GO]    |
++----------------------+-----------------------+
+| Combined Vitality    | 7,600 Total Health    |
+| Targetable Parts     | 3 Distinct Modules    |
+| Part 1: Beast Armor  | 2,400 Health (Blunt)  |
+| Part 2: Shock Whip   | 1,800 Health (Pierce) |
+| Part 3: Frenzy Core  | 3,400 Health (Void)   |
++----------------------+-----------------------+
+| Stagger Threshold 1  | 60% Health (4,560 HP) |
+| Stagger Threshold 2  | 25% Health (1,900 HP) |
+| Overdrive Skill      | Crimson Chain Storm   |
++==============================================+
+```
 
 ---
 
-#### Turn 12: The Hateful Entity
+### Tactical Engagement: 6-Turn Pacification Gauntlet
 
-The hateful entity watches the others being freed — its rage softening, its hate fading.
+```text
++=====================================================================+
+|           TURN 1: KINETIC INGRESS & SHOCK WHIP DEFLECTION           |
++---------------------------------------------------------------------+
+| CLASH 1: Beastmaster Jagyeon vs Commander Taeho                     |
+| > Boss Skill: [Harmonic Shock Lash] (Atk Power 28, Electric/Slash)  |
+|   > Taeho Skill: [Phalanx Bastion: Obsidian Wall] (Def Power 32)    |
+|   > Clash Result: Taeho WINS (Power 32 vs 28).                      |
+|     Kinetic shield grounds the 50,000-volt high-voltage arc.        |
+|   > Taeho reflects 180 kinetic tremor damage back to Beast-Armor.   |
++---------------------------------------------------------------------+
+| CLASH 2: Pit Gladiators (x2) vs Sapper Joon                         |
+|   > Gladiator Skill: [Barbed Harpoon Thrust] (Atk Power 22, Pierce) |
+| > Joon Skill: [Deployable Mantlet Barrier] (Def Power 26, Kinetic)  |
+|   > Clash Result: Joon WINS. Harpoons shatter against mantlet.      |
++---------------------------------------------------------------------+
+| TACTICAL MANEUVERS:                                                 |
+|   * Yuna: Casts [Cipher-Scan: Neural Collar Frequency]              |
+|     Scans slave-collar resonance receiver on SE-C-IIIγ-102.         |
+|   * Minho: Fires [Neural Lancet: Calibrated Dart]                   |
+|     Deals 260 Pierce damage to Jagyeon's reinforced greaves.        |
+|   * Soojin: Deploys [Sedative Aerosol Ward]                         |
+|     Calms agitated sorrow emissions in the sand pit.                |
+|   * Echo: Activates [Shadow Cloak] -> Scales basalt arena pillars.  |
++---------------------------------------------------------------------+
+| ROUND 1 DAMAGE TOTALS:                                              |
+|   * Jagyeon Beast-Hide Armor HP: 2,400 -> 1,960 / 2,400 (-440 HP)   |
+|   * Harmonic Shock Whip HP: 1,800 / 1,800                           |
+|   * SE-C-IIIγ-102 Chained Frenzy Core HP: 3,400 / 3,400             |
+|   * Combined Target HP: 7,160 / 7,600 | UCD Composure: 100%         |
++=====================================================================+
+```
 
-> **Entity:** *FREE. WE ARE FREE.*
+```text
++=====================================================================+
+|          TURN 2: SAPPING THE WHIP GENERATOR & FREQUENCY JAM         |
++---------------------------------------------------------------------+
+| CLASH 1: Beastmaster Jagyeon vs Sapper Joon                         |
+|   > Boss Skill: [Dual Lightning Cleave] (Atk Power 26, Heavy Slash) |
+|   > Joon Skill: [Hydraulic Kinetic Ram] (Atk Power 30, Heavy Blunt) |
+|   > Clash Result: Joon WINS (Power 30 vs 26).                       |
+|     Hydraulic ram smashes the hip battery generator of the whip!    |
+|   > Deals 560 Blunt damage to Harmonic Shock Whip.                  |
++---------------------------------------------------------------------+
+| CLASH 2: SE-C-IIIγ-102 'Chained Frenzy' vs Auditor Yuna             |
+| > Entity Skill: [Crimson Chain Flail] (Atk Power 24, Grudge/Slash)  |
+|   > Yuna Skill: [Cipher-Pulse: Damping Wall] (Def Power 28, EMP)    |
+|   > Clash Result: Yuna WINS. EMP pulse disrupts chain harmonic.     |
++---------------------------------------------------------------------+
+| TACTICAL MANEUVERS:                                                 |
+|   * Taeho: Uses [Shield Bash: Heavy Tremor]                         |
+|     Deals 300 Blunt damage to Jagyeon's breastplate.                |
+|   * Minho: Casts [Memory Anchor: Cognitive Salve]                   |
+|     Reinforces squad mental composure (+15 SP).                     |
+|   * Soojin: Deploys [Resonance Snare: Cold Iron]                    |
+|     Restricts thrashing movement of the beast's limbs.              |
+|   * Echo: Slices overhead winch line, dropping steel cage on flank. |
++---------------------------------------------------------------------+
+| ROUND 2 DAMAGE TOTALS:                                              |
+|   * Jagyeon Beast-Hide Armor HP: 1,960 -> 1,660 / 2,400 (-300 HP)   |
+|   * Harmonic Shock Whip HP: 1,800 -> 1,240 / 1,800 (-560 HP)        |
+| * SE-C-IIIγ-102 Chained Frenzy Core HP: 3,400 -> 3,100 / 3,400      |
+|     (-300 HP)                                                       |
+|   * Combined Target HP: 6,000 / 7,600 | UCD Composure: 98%          |
++=====================================================================+
+```
 
-> **Soojin:** *"Yes. You're free. All of you."*
+```text
++=====================================================================+
+|        TURN 3: PRECISION LANCET PIERCE & STAGGER THRESHOLD 1        |
++---------------------------------------------------------------------+
+| CLASH 1: Beastmaster Jagyeon vs Senior Investigator Minho           |
+|   > Boss Skill: [Overcharged Frenzy Lash] (Atk Power 29, Electric)  |
+|   > Minho Skill: [Neural Lancet: Synaptic Pierce] (Atk Power 33)    |
+|   > Clash Result: Minho WINS (Power 33 vs 29).                      |
+|     Silver lancet severs the insulated grip of the Shock Whip!      |
+|   > Deals 1,240 Pierce damage -> PART DESTROYED: Shock Whip!        |
++---------------------------------------------------------------------+
+| STATUS EVENT: STAGGER THRESHOLD 1 TRIGGERED!                        |
+|   * Combined Target HP drops below 60% (4,560 HP).                  |
+|   * Whip short-circuits, electrocuting Jagyeon's armored gauntlets! |
+| * Jagyeon suffers [Stagger 1] for 1 turn (Def 0, takes 2.0x         |
+|     damage).                                                        |
++---------------------------------------------------------------------+
+| TACTICAL MANEUVERS:                                                 |
+|   * Taeho: Executes [Heavy Piston Strike] -> Deals 520 Blunt.       |
+|   * Joon: Plants [Thermite Disruption Clamp] -> Deals 480 Thermal.  |
+| * Echo: Drives [Eclipse Stiletto] into hip armor -> Deals 440       |
+|     Slash.                                                          |
+|   * Soojin: Readies cryo-dampening mantle for upcoming beast surge. |
++---------------------------------------------------------------------+
+| ROUND 3 DAMAGE TOTALS:                                              |
+|   * Jagyeon Beast-Hide Armor HP: 1,660 -> 220 / 2,400 (-1,440 HP)   |
+|   * Harmonic Shock Whip: [DESTROYED]                                |
+|   * SE-C-IIIγ-102 Chained Frenzy Core HP: 3,100 / 3,400             |
+|   * Combined Target HP: 3,320 / 7,600 (Stagger 1 Active)            |
++=====================================================================+
+```
 
-The entity looks at Soojin — its eyes blazing, but no longer with hate. With something else. Something like... gratitude.
+```text
++=====================================================================+
+|        TURN 4: CRIMSON FRENZY THRASH & LEADED SANCTUARY WARD        |
++---------------------------------------------------------------------+
+| ENCOUNTER EVENT: Neural Slave-Collar Overload!                      |
+|   * Jagyeon recovers from Stagger, triggering slave-collar surge.   |
+|   * SE-C-IIIγ-102 'The Chained Frenzy' snaps collar in blind fury!  |
+| * The beast thrashes wildly, whipping burning red chains across     |
+|     pit.                                                            |
++---------------------------------------------------------------------+
+| CLASH 1: SE-C-IIIγ-102 'Chained Frenzy' vs Handler Soojin           |
+|   > Entity Skill: [Whirling Pyre of Grudge-Chains] (Atk Power 34)   |
+|   > Soojin Skill: [Leaded Sanctuary: Damping Dome] (Def Power 37)   |
+|   > Clash Result: Soojin WINS (Power 37 vs 34)!                     |
+|     Leaded damping dome absorbs the fiery kinetic chain strikes.    |
+|   > Soojin channels kinetic damping -> Deals 540 Void damage.       |
++---------------------------------------------------------------------+
+| TACTICAL MANEUVERS:                                                 |
+| * Taeho: Interposes shield to shield spectator box exits from fire. |
+|   * Yuna: Locks arena blast gates, preventing entity from escaping. |
+| * Minho: Dispenses [Neuro-Calming Aerosol] to soothe beast psyche.  |
+|   * Joon: Fires pneumatic anchor pitons into beast's rear chains.   |
++---------------------------------------------------------------------+
+| ROUND 4 DAMAGE TOTALS:                                              |
+|   * Jagyeon Beast-Hide Armor HP: 220 / 2,400                        |
+|   * Harmonic Shock Whip: [DESTROYED]                                |
+| * SE-C-IIIγ-102 Chained Frenzy Core HP: 3,100 -> 2,560 / 3,400      |
+|     (-540 HP)                                                       |
+|   * Combined Target HP: 2,780 / 7,600 | UCD Composure: 95%          |
++=====================================================================+
+```
 
-> **Entity:** *THANK YOU.*
+```text
++=====================================================================+
+|    TURN 5: PHANTOM STILETTO SEVER & TERMINAL STAGGER THRESHOLD 2    |
++---------------------------------------------------------------------+
+| CLASH 1: SE-C-IIIγ-102 'Chained Frenzy' vs Infiltrator Echo         |
+| > Entity Skill: [Thrashing Vertebrae Cleave] (Atk Power 30, Slash)  |
+|   > Echo Skill: [Eclipse Stiletto: Phantom Sever] (Atk Power 35)    |
+|   > Clash Result: Echo WINS (Power 35 vs 30).                       |
+|     Echo leaps from basalt ledge, shearing central chain link.      |
+|   > Deals 720 Slash damage to Dancing Chains Core.                  |
++---------------------------------------------------------------------+
+| STATUS EVENT: TERMINAL STAGGER THRESHOLD 2 TRIGGERED!               |
+|   * Combined Target HP falls below 25% (1,900 HP).                  |
+|   * The vertebrae chain links fracture; beast collapses into sand!  |
+|   * Both Jagyeon and SE-C-IIIγ-102 enter [Terminal Stagger 2]!      |
++---------------------------------------------------------------------+
+| TACTICAL MANEUVERS:                                                 |
+| * Joon: Shatters remaining shock collar relays on the arena floor.  |
+|   * Minho: Injects [Sedative Soporific Solution] into beast flank.  |
+|   * Yuna: Completes full download of 80 criminal bidder manifests.  |
+|   * Soojin: Slides Class-IV Leaded Vacuum Cask over dormant core.   |
++---------------------------------------------------------------------+
+| ROUND 5 DAMAGE TOTALS:                                              |
+| * Jagyeon Beast-Hide Armor HP: 220 -> 0 / 2,400 (-220 HP, CRUSHED)  |
+|   * Harmonic Shock Whip: [DESTROYED]                                |
+| * SE-C-IIIγ-102 Chained Frenzy Core HP: 2,560 -> 1,220 / 3,400      |
+|     (-1,340 HP)                                                     |
+|   * Combined Target HP: 1,220 / 7,600 (Terminal Stagger 2 Active)   |
++=====================================================================+
+```
 
-> **Soojin:** *"You're welcome."*
+```text
++=====================================================================+
+|        TURN 6: CLIMAX OVERDRIVE: IRON GAVEL & CRYO-CASK SEAL        |
++---------------------------------------------------------------------+
+| FINAL EXECUTIONS & OVERDRIVE RESOLUTION:                            |
+| CLASH 1: Commander Taeho vs Beastmaster Jagyeon                     |
+| > Taeho Overdrive: [Iron Gavel: Decreed Subjugation] (Cost: 35 SP)  |
+|   > Overdrive Power: 45 (Devastating Kinetic Blunt Verdict)         |
+|   > Execution: Heavy Obsidian shield smashes into Jagyeon's helm.   |
+|     The reinforced plate fractures; Jagyeon is slammed into sand.   |
+|   > Non-lethal concussive impact renders Jagyeon unconscious.       |
++---------------------------------------------------------------------+
+| CLASH 2: Containment Handler Soojin vs SE-C-IIIγ-102 'Dancing       |
+|     Chains'                                                         |
+|   > Soojin Overdrive: [Class-IV Leaded Vacuum Seal: Eternal Peace]  |
+|   > Overdrive Power: 43 (Absolute Containment / Cryo-Lock)          |
+|   > Execution: Soojin clamps leaded seal collar onto entity core.   |
+| Cryogenic vacuum suction pulls all flaming chain-links into cask.   |
+|   > SE-C-IIIγ-102 cools into inert dormancy inside lead mantle!     |
++---------------------------------------------------------------------+
+| PACIFICATION SUMMARY:                                               |
+| * Beastmaster Jagyeon: APPREHENDED (Armor broken, target secured).  |
+|   * Harmonic Shock Whip & Slave Collars: 100% DEMOLISHED.           |
+| * SE-C-IIIγ-102 'Dancing Chains': 100% CONTAINED (Zero casualties). |
+| * 12 captive juvenile entities safely secured and transferred to    |
+|     R.D.                                                            |
++=====================================================================+
+```
 
 ---
 
-#### Turn 13: Assessment
+#### Chapter 7: The Aftermath & The Calmed Menagerie
 
-**Taeho:** *"Report."*
+The roar of the crowd had long turned into terrified silence as municipal warden units flooded the spectator loges, placing high-grade magnetic restraint cuffs on all eighty criminal gamblers.
 
-**Yuna:** *"Financial records recovered. The Traders operated a black market for entities — selling enslaved sorrow to buyers across the city."*
+In the center of the arena pit, the blinding red glow of SE-C-IIIγ-102 had faded into absolute stillness. Soojin knelt beside the heavy lead vacuum cask, checking the pressure gauges with practiced precision. Inside, the dancing chains lay dormant, fully quenched and safely stabilized at sub-zero temperatures.
 
-**Minho:** *"Thousands of entities freed. Most are stable. Some are... changed. The enslavement altered them."*
+On the churned red sand, Beastmaster Jagyeon lay unconscious, his spiked armor shattered and his shock whips twisted into useless copper wire. Senior Investigator Minho secured Jagyeon with reinforced carbon-steel restraints.
 
-**Soojin:** *"The hateful entity is contained — but not enslaved. It's... different. It's learned to hate, but it's also learned to be grateful."*
+"Jagyeon is secured," Minho said, looking down at the fallen beastmaster. "Multiple concussive contusions, but autonomic functions are normal. He will face forty consecutive life sentences in the Deep Vaults."
 
-**Joon:** *"Facility secured. Barriers deployed. No one gets in or out."*
+Across the arena, Joon and Echo oversaw the extraction of the twelve captive juvenile entities. Directorate medical transport teams carefully loaded the dormant, glowing spheres into climate-controlled containment cradles for transfer to the Reverie Directorate's rehabilitation sanctuaries.
 
-**Echo:** *"12 Traders captured. Leader subdued. Operation dismantled."*
+"All twelve entities safely evacuated," Soojin reported, her voice filled with deep relief. "None suffered permanent psychic trauma. With gentle care and proper resonance tuning, they will fully recover."
 
-**Harin:** *"No casualties on our side. Five minor injuries. All targets neutralized."*
+Auditor Yuna walked up to Taeho, displaying the completed digital manifests on her cipher slate.
 
-**Taeho:** *"Good work. Secure the evidence. Contain the Traders. Begin entity rehabilitation."*
+"Eighty criminal patrons detained," Yuna said. "We have seized twenty-four million Echoes in frozen gambling assets and uncovered contracts proving that three private security firms were purchasing weaponized entities for illegal border skirmishes. The entire trafficking network has been decapitated."
 
----
+Taeho looked up at the towering basalt walls of the colosseum, his face illuminated by the amber glow of the emergency lamps.
 
-#### Turn 14: The Entities Choose
+"Five operations completed," Taeho said quietly. "The Mask Market. The Bleached Wards. The Low Sinks. The Usury Vaults. And now the Black Cages."
 
-The freed entities gather — thousands of them, each one a living being, each one aware.
+"Only one remains," Echo said, stepping up beside him. "The Underworld King. King Kang-hyuk. In the Sunken Citadel beneath Zone B."
 
-> **Soojin:** *"You're free. You can go wherever you want. The city is open to you."*
-
-The entities do not move. They look at Soojin. They look at the team. They look at the world they have never seen.
-
-> **Soojin:** *"Or you can stay. We'll take care of you. We'll protect you."*
-
-The entities stay. They choose freedom — but they also choose safety. They choose the team.
+"Kang-hyuk built his throne on the backs of all five syndicates," Taeho said, his grip tightening on his shield strap. "With all five syndicates broken, his citadel stands alone. Prepare the squad for Operation 6: Basileugung. We end this war."
 
 ---
 
-#### Turn 15: The Hateful Entity's Choice
+### Post-Action Forensic Inventory
 
-The hateful entity stands apart from the others — its rage still burning, its hate still present.
-
-> **Soojin:** *"You're free too. You can go wherever you want."*
-
-The entity looks at Soojin — its eyes blazing, but no longer with hate. With something else. Something like... understanding.
-
-> **Entity:** *I WILL STAY. I WILL PROTECT. I WILL NOT HATE.*
-
-> **Soojin:** *"You don't have to protect. You don't have to do anything. You're free."*
-
-> **Entity:** *I CHOOSE TO PROTECT. I CHOOSE TO BE FREE. I CHOOSE TO NOT HATE.*
-
-> **Soojin:** *"Then welcome. Welcome to freedom."*
+| Item ID | Description | Quantity | Disposition |
+|---|---|---|---|
+| **EVD-UCD-05-A** | SE-C-IIIγ-102 "Dancing Chains" Vacuum Cask | 1 Unit | Transferred to R.D. Maw's Keep Containment |
+| **EVD-UCD-05-B** | Liberated Juvenile Sorrow Entities | 12 Entities | Transferred to R.D. Sanctuary Facilities |
+| **EVD-UCD-05-C** | Jagyeon Spiked Beast-Armor Chassis | 1 Wreckage | Impounded for Directorate Ballistic Study |
+| **EVD-UCD-05-D** | Shattered Harmonic Shock Whip Coils | 2 Whips | Scuttled & Melted In Situ by Joon |
+| **EVD-UCD-05-E** | Arena Bidding Servers & Manifest Drives | 12 Disks | Delivered to Directorate High Prosecution |
+| **EVD-UCD-05-F** | Detained Criminal Syndicate Patrons | 80 Suspects | In Custody at Central Warden Penitentiary |
 
 ---
 
-#### Turn 16: The Evidence
+### Arc 5 Key Discoveries & Systemic Revelations
 
-The team secures the evidence — Trader communications, financial records, entity sales.
-
-> **Yuna:** *"The evidence is clear. The Traders operated a black market for entities. They enslaved living beings for profit."*
-
-> **Taeho:** *"Then we expose them. We make the city answer for their crimes."*
-
-> **Echo:** *"The system is complicit. The city knows. They profit. They always have."*
-
----
-
-#### Turn 17: The Aftermath
-
-The team returns to the surface — carrying the freed entities, the captured Traders, and the weight of what they learned.
-
-> **Soojin:** *"The entities are free. They're safe. They're... home."*
-
-> **Minho:** *"The hateful entity is... different. It's learned to hate, but it's also learned to be grateful."*
-
-> **Taeho:** *"We free what we can. We protect what we can't. And we make sure this never happens again."*
-
-> **Echo:** *"It will happen again. The demand doesn't disappear. The need doesn't disappear. The system creates the need — and the need creates the crime."*
+| Discovery | Systemic Implication |
+|---|---|
+| **Private Military Trafficking** | Rogue security firms actively purchased weaponized Sorrow Entities for corporate warfare. |
+| **Harmonic Torment Methodology** | Electrical stimulation deliberately forces juvenile entities into rampant Grudge frenzies. |
+| **Gladiatorial Black Markets** | Illegal bloodsports served as fronts for multi-million Echo corporate money laundering. |
+| **Entity Rehabilitation Feasibility** | Abused Sorrow Entities can be returned to peaceful dormancy through sedative Han-saline mist. |
+| **Five-Cartel Decapitation** | With the defeat of the Entity Traders, all subordinate underworld syndicates are dismantled. |
 
 ---
 
-#### Turn 18: Aftermath
+### Strike Officer Performance & Tactical Growth
 
-**Casualties:** None on UCD side — 12 Traders captured, leader subdued.
-
-**Evidence:** Containment Cubes (opened), enslaved entities (freed), financial records, black market contacts.
-
-**Entity status:** Thousands of entities freed — rehabilitation underway. The hateful entity contained — but not enslaved.
-
-**Trader status:** All contained — awaiting transport to Wardens' custody.
-
-**Next steps:** Rehabilitate the freed entities. Dismantle the black market network. Move to Arc 6.
-
----
-
-### Arc 5 — Key Discoveries
-
-| Discovery | Implication |
-|-----------|-------------|
-| **Entity trafficking is profitable** | Living sorrow is the most valuable black market commodity |
-| **R.D. technology was stolen** | The Traders had inside help |
-| **Entities can be freed** | But the process is lengthy and risky |
-| **Entities can learn to hate** | Enslavement changes them fundamentally |
-| **The system creates demand** | Poverty and desperation drive the market |
-| **Echo's past** | Echo helped build what they now destroy |
-
-### Arc 5 — Character Development
-
-| Character | Development |
-|-----------|-------------|
-| **Taeho (Commander)** | Faces the cost of entity trafficking — entities are real beings |
-| **Soojin (Handler)** | Frees the entities — sees their suffering firsthand |
-| **Minho (Investigator)** | Studies the hateful entity — sees the cost of enslavement |
-| **Joon (Engineer)** | Secures the facility — protects the freed entities |
-| **Echo (Infiltrator)** | Confronts their past — helped build what they now destroy |
-| **Yuna (Auditor)** | Traces the financial network — sees the system's failures |
+| Officer | Tactical Specialization | Operational Growth in Operation 5 |
+|---|---|---|
+| **Taeho (Commander)** | Bastion Vanguard / Riot Breacher | Successfully grounded 50,000-volt high-voltage shock whip arcs with zero kinetic penetration. |
+| **Yuna (Auditor)** | Forensic Decryption / Disruption | Decrypted proprietary arena bidding servers, freezing 24 million Echoes in criminal assets. |
+| **Minho (Investigator)** | Psycho-Forensics / Neural Scribe | Executed surgical lancet strike on the shock whip's insulated power conduit, disabling the weapon. |
+| **Soojin (Handler)** | Entity Containment / Sedative Field | Calmed 12 terrified juvenile entities and safely contained the raging SE-C-IIIγ-102 without casualties. |
+| **Joon (Engineer)** | Sapper & Demolitions | Breached four-meter reinforced arena blast gates in seconds and dismantled the gladiatorial grid. |
+| **Echo (Infiltrator)** | Shadow Infiltration / Catwalk Flank | Infiltrated arena control booths, disabling high-voltage electric fences to allow tactical entry. |
 
 ---
 
----
 
-*UCD — Underworld Cleanup Descend. Where the SED explores the city's depths, the UCD cleans its streets. Together, they reveal what Somnarak truly is — one layer at a time.*
 ---
 
 ## Arc 6: The Underworld King (지하의 왕 — Jiha-ui Wang)

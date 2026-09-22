@@ -53,7 +53,7 @@ The tactical campaign of the UCD unfolds across six high-intensity operational r
    - Direct combat confrontation against illegal Echo extraction cartels that forcefully siphon raw emotional fluid from vulnerable refugees. Liberation of victims and weapon destruction.
 4. **[Operation 4: The Debt Brokers](Operation_4_Usurachae.md)** (Usurachae / 사채고 — Zone C: The Usury Vaults)
    - Forensic financial raid led by Auditor Yuna against the predatory syndicates manufacturing phantom debt obligations and laundering illicit credits through Council shell accounts.
-5. **[Operation 5: The Entity Traders](Operation_5_The_Entity_Traders.md)** (Therionok / 흑옥투 — Zones D & E: The Black Cages)
+5. **[Operation 5: The Entity Traders](Operation_5_Therionok.md)** (Therionok / 흑옥투 — Zones D & E: The Black Cages)
    - High-hazard containment breach operation targeting an illegal underground auction house where weaponized, tortured Sorrow Entities are sold to private military cartels.
 6. **[Operation 6: The Underworld King](Operation_6_The_Underworld_King.md)** (Basileugung / 제궁락 — Zone B: The Sunken Citadel)
    - The climactic raid on the sunken palace of the underworld's supreme kingpin. The coordinated assault by all six task force operatives and the restructuring of municipal law.
