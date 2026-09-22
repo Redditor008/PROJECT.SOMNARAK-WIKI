@@ -5293,7 +5293,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 
 ### SED — Somnarak Exploration Decreed
 
-**Full details:** `SOMNARAK_SED.md`
+**Full details:** `The_SOMNARAK_EXPLORATION_DECREE.md` and `SOMNARAK_SED_PASSAGES.md`
 
 **What it is:** An official decree authorizing organized exploration of Somnarak's unmapped, unknown, and dangerous areas.
 
@@ -5315,7 +5315,7 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 
 ### UCD — Underworld Cleanup Descend
 
-**Full details:** `SOMNARAK_UCD.md`
+**Full details:** `The_UNDERWORLD_CLEANUP_DESCEND.md` and `SOMNARAK_UCD_PACIFICATION.md`
 
 **What it is:** A joint operation to dismantle the Frays' power structure and restore order to the Raw.
 
@@ -5465,8 +5465,10 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 | File | Content |
 |------|---------|
 | `The_REVERIE_DIRECTORATE.md` | R.D. — Echo-Cores, Hand of Change, rooms, stats, ordeals, equipment |
-| `SOMNARAK_SED.md` | SED — Team, 7 arcs with battle chapters |
-| `SOMNARAK_UCD.md` | UCD — Task Force, 6 arcs with battle chapters |
+| `The_SOMNARAK_EXPLORATION_DECREE.md` | SED corporate dossier, deep strata doctrine & Bore Fleet |
+| `SOMNARAK_SED_PASSAGES.md` | SED — 7 Katabagil subterranean descent narrative arcs |
+| `The_UNDERWORLD_CLEANUP_DESCEND.md` | UCD corporate dossier, 6 strike divisions & pacification doctrine |
+| `SOMNARAK_UCD_PACIFICATION.md` | UCD — 6 Katharcheok underworld pacification narrative arcs |
 | `SOMNARAK_BATTLE_SYSTEM.md` | Battle system — 15 sections |
 | `SOMNARAK_ENEMY_LIST.md` | Enemy codex by operation |
 | `SOMNARAK_ENTITIES.md` | Entity Groups & Chains |

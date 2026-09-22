@@ -2,7 +2,7 @@
 
 **Archive Authority:** Reverie Directorate Executive Archive  
 **Status:** Supreme Canonical Baseline of Somnarak  
-**Total Tracked Codices:** 37 In-Universe Master Markdown Documents organized into 6 Canonical Subfolders (~52,000 lines / ~420,000 words)
+**Total Tracked Codices:** 35 In-Universe Master Markdown Documents organized into 6 Canonical Subfolders (~50,000 lines / ~400,000 words)
 
 ---
 
@@ -71,9 +71,7 @@ Corporate dossiers, operating doctrines, and master chronicles of the three sove
 - `The_REVERIE_DIRECTORATE.md` (3,073 lines): Subterranean Facility 01 ("The Hand of Change") corporate dossier, 8 operational subterranean floors, 9 Echo-Core roles, and departmental missions.
 - `The_SOMNARAK_EXPLORATION_DECREE.md`: The SED corporate dossier, three-tier subterranean exploration doctrine, specialized survey gear, and expedition specialist profiles.
 - `The_UNDERWORLD_CLEANUP_DESCEND.md`: The UCD corporate dossier, three-phase reclamation doctrine, pacification armaments, and joint task force profiles.
-- `SOMNARAK_SED.md` (2,810 lines): Exploration Decree operational manual and field taxonomy.
 - `SOMNARAK_SED_PASSAGES.md`: Master narrative chronicle of the 7 Katabagil subterranean descents. *(Paired with `SOMNARAK-WORLD/Katabagil/`).*
-- `SOMNARAK_UCD.md` (3,002 lines): Underworld Cleanup Descend master index; cross-referencing company doctrine and pacification sweeps.
 - `SOMNARAK_UCD_PACIFICATION.md`: Master narrative chronicle of the 6 Katharcheok pacification sweeps. *(Paired with `SOMNARAK-WORLD/Katharcheok/`).*
 - `SOMNARAK_ABSOLOVHAN.md` (4,828 lines): The Absolvohan 366-day facility gameplay and narrative master chronicle. *(Paired with `SOMNARAK-WORLD/The_Absolvohan/`).*
 

@@ -115,12 +115,14 @@ The foundational source texts located in `SOMNARAK-WORLD/Master_Codices/` establ
 | `SOMNARAK_MEMORY_ARCHIVE.md` | Pre-Cataclysm Historical Logs | Fragmentary memory transcripts from before the First Cycle |
 | `SOMNARAK_NAMED_FRACTURES.md` | Historical Tragic Figures | Named citizens who underwent catastrophic psychological Fracture |
 | `SOMNARAK_ORDEALS_FRAMEWORK.md` | Five-Color Ordeal Defense | Tactical mechanics for Blue, Black, Pale, Grey, and Purple Ordeals |
-| `SOMNARAK_SED.md` | Somnarak Exploration Decreed | Deep subterranean reconnaissance, Maw descents, expedition teams |
+| `The_SOMNARAK_EXPLORATION_DECREE.md` | Somnarak Exploration Decree | Deep subterranean reconnaissance, Bore Fleet, and expedition teams |
+| `SOMNARAK_SED_PASSAGES.md` | SED Katabagil Chronicle | Seven subterranean descent narrative arcs and combat gauntlets |
 | `SOMNARAK_TABOO_RESONANCE.md` | Seven Taboos & Resonances | Absolute civic laws, acoustic censorship, and the Giltong Enforcers |
 | `SOMNARAK_THE_DESOLATE.md` | The Wasteland Beyond the Walls | The Scar, toxic Han-dust storms, nomad clans, and Kael's Kingdom |
 | `SOMNARAK_THE_DOORSPEECH.md` | Linguistic Censorship & Acoustic Control| Verbal taboos, speech filtration, and the Acoustic Enforcers |
 | `SOMNARAK_THE_WEEPING.md` | Subterranean River of Liquid Han | Hydrology of grief, crystallization points, and entity genesis |
-| `SOMNARAK_UCD.md` | Underworld Cleanup Descend | Tactical purge operations targeting the criminal syndicates and Frays |
+| `The_UNDERWORLD_CLEANUP_DESCEND.md` | Underworld Cleanup Descend | Tactical purge operations targeting the criminal syndicates and Frays |
+| `SOMNARAK_UCD_PACIFICATION.md` | UCD Katharcheok Chronicle | Six underworld pacification sweep narrative arcs and forensic logs |
 | `SOMNARAK_UNDERWORLD.md` | Subterranean Slums & The Raw | Menders, Frays, Memory Washers, Veil Merchants, and Debt Brokers |
 | `SOMNARAK_UNKNOWN_CITIES.md` | Sister Cities (Cheonbulok, Mugeukji) | External geopolitics, refugee enclaves, and forgotten city-states |
 | `SOMNARAK_WOUND_WALKERS.md` | Order of Wandering Healers | The monastic order sworn to absorb and transmute human sorrow |
