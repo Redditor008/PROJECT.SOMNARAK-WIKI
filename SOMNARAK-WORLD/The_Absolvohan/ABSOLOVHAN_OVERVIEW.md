@@ -608,6 +608,66 @@ When an agent's SP reaches 0 due to sustained psychic trauma, they enter a **Pan
 
 ---
 
+### 4.8 Agent Speed & Range Profile and M.A.W.-W Modifiers
+
+Within Facility 01, containment agents operate with an intrinsic **Base Speed Die** and **Natural Range Affinity** on the 10-node facility grid, modified by equipped Materialized Agony Wear weaponry (**M.A.W.-W**):
+
+```text
++=====================================================================+
+|           M.A.W.-W WEAPON SPEED & RANGE MODIFIERS ENGINE            |
++---------------------------------------------------------------------+
+| Weight Class | Spd Mod | AP | Optimal Band | Trait Mechanics        |
++---------------------------------------------------------------------+
+| Feather / UL | +2 Spd  | 1  | Band 1 (N01) | Momentum Surge (+2 Pwr)|
+| Light Class  | +1 Spd  | 1  | Band 1-2     | Rapid Flanking / Bleed |
+| Medium Class | +0 Spd  | 1  | Band 1-3     | Balanced Clash Profile |
+| Heavy Class  | -1 Spd  | 2  | Band 1 / B04 | Heavy Poise (+2 Base)  |
+| Colossal Rel | -2 Spd  | 2  | Band 1 / B05 | Unstoppable (+4 Base)  |
++=====================================================================+
+```
+
+- **Speed Modifiers**: Feather/Ultra-Light weapons grant +2 Speed, allowing rapid movement across nodes; Heavy and Colossal weapons impose -1 to -2 Speed penalties but grant devastating base power and stagger shock.
+- **Range Band Boundaries**: Melee weapons operate at Band 1 (Nodes 1–2). Ranged carbines and sonic bows operate at Bands 3–4 (Nodes 5–8). Ranged weapons firing at Node 1 suffer -2 Clash Power and -20% accuracy.
+
+---
+
+### 4.9 The Four P-Framework (Passives, Panic, Parry, Posture) in Facility Operations
+
+Containment engagements integrate the universal Four P-Framework:
+
+```text
++=====================================================================+
+|      THE FOUR P-FRAMEWORK (PASSIVE / PANIC / PARRY / POSTURE)       |
++---------------------------------------------------------------------+
+| Pillar Code | Tactical Domain     | Core Battle Function            |
++---------------------------------------------------------------------+
+| P1: Passive | Weapon Trait Arts   | Speed triggers & range bonuses  |
+| P2: Panic   | SP Breakdown & Loss | Burden drain, states & recovery |
+| P3: Parry   | Active Defense/Guard| Melee deflects & intercepts     |
+| P4: Posture | Poise & Stagger Bar | Momentum math & dual breaks     |
++=====================================================================+
+```
+
+1. **P1: Passives (M.A.W.-W Weapon Passives & Floor Synergy)**:
+   - *Momentum Surge*: +2 Clash Power when Speed exceeds target by 3+.
+   - *Point-Blank Dissection*: +25% Critical Hit Chance at Node 1.
+   - *Overwatch Anchor*: +3 Clash Power from Node 7–8 when stationary for 1 turn.
+   - *Heavy Ballast Poise*: Heavy weapons ignore the first 5 stagger buildup per turn.
+2. **P2: Panic (SP & Mental Collapse)**:
+   - *Burden Drain*: High-grade M.A.W.-W beyond agent clearance siphons -5 SP per turn.
+   - *Panic Typologies*: Berserk (0 AP sprint to Node 1), Despair (Speed 1, 0 defense), Wandering (random node shifts), Catatonic (Speed 0, instant Stagger).
+   - *Panic Restoration*: Allies at Band 2–3 spend 1 AP on Flerehan communion or non-lethal blunt Lament strike to restore SP to +25.
+3. **P3: Parry & Protection**:
+   - *Parry (1 AP)*: Roll defense die vs incoming melee strike; win completely deflects damage and counter-strikes for 50% weapon power.
+   - *Guard Shield (1 AP)*: Directional barrier absorbing flat damage based on weapon and suit defense.
+   - *Kinetic Interception*: Wardens at Node 3–4 spend 1 AP to intercept ranged lines targeting clerks or mid-field operators.
+4. **P4: Posture & Poise**:
+   - Posture meter = `Base Resilience + M.A.W. Weight Bonus`.
+   - Momentum Multiplier = `(Speed Diff) * (Weapon Weight Multiplier)`.
+   - Depleting Posture triggers Dual-Threshold Stagger: Stagger 1 (60% HP, 2.0x damage) and Terminal Stagger 2 (25% HP, 2.5x damage).
+
+---
+
 ## V. Facility Architecture & The 8 Operational Floors
 
 The Absolvohan facility is organized vertically into eight distinct departments, each overseen by a dedicated Echo-Core Attendant.

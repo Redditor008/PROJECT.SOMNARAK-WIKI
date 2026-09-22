@@ -896,7 +896,7 @@ The interlocking brass gimbal rings revolve at high angular velocity, generating
 **Special Move Set:**
 - *Primary Kinematics — "Chrono-Beam":* Pointing the floating apparatus aligns the three brass gimbal rings into an optical axis; a pressurized golden beam of granular temporal sand fires across Range 4, dealing Weight damage and abrading physical defenses.
 - *Active Special — "Stasis Singularity":* The wielder spreads both arms wide, causing the gimbal rings to spin into a gyroscopic blur. A 4-meter vortex of swirling glass sand erupts at the designated target point at Range 4, pulling nearby enemies into the epicenter. Enemies caught in the vortex suffer continuous Weight crushing and are afflicted with "Temporal Drag" (-50% movement speed, +25% attack cooldowns for 4 seconds).
-- *Cost & Drawback:* Gravitational distortion causes momentary spatial disorientation and inner ear vertigo in the wielder.
+- *Cost & Drawback:* Gravitational disruption causes momentary spatial disorientation and inner ear vertigo in the wielder.
 
 ---
 
@@ -2274,7 +2274,7 @@ Without physical handles or cords, the three twenty-centimeter prisms respond in
 
 Appearance : A flowing ankle-length robe of layered translucent violet gossamer worn over an inner tunic of soft dream-spun linen. It is accented by a trailing hooded veil that partially conceals the face.
 
-The sheer fabric drifts as if floating submerged in liquid, blurring the wearer’s silhouette into soft optical distortions. Incoming ranged attacks and psionic mental waves lose kinetic focus when passing through the dampening folds, reducing incoming Lament erosion.
+The sheer fabric drifts as if floating submerged in liquid, blurring the wearer’s silhouette into soft optical disruptions. Incoming ranged attacks and psionic mental waves lose kinetic focus when passing through the dampening folds, reducing incoming Lament erosion.
 
 **Resistances:**
 - Lament: 0.5 (Endured)
@@ -2284,7 +2284,7 @@ The sheer fabric drifts as if floating submerged in liquid, blurring the wearer�
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** *Oneiric Distortion* — Grants +20% evasion against ranged attacks and line projectiles as incoming projectiles bend through the blurred dream fabric.
+**Ability:** *Oneiric Disruption* — Grants +20% evasion against ranged attacks and line projectiles as incoming projectiles bend through the blurred dream fabric.
 
 ---
 
@@ -2790,7 +2790,7 @@ Tiny luminescent silver dream flecks drift inside the floating orb like falling 
 
 **Type:** Accessory (Gift) | **Grade:** β | **Element:** Grudge
 
-**Ability:** Separates truth from emotional distortion in a spoken account.
+**Ability:** Separates truth from emotional divergence in a spoken account.
 
 **Cost:** The wearer hears contradictions in every conversation.
 
@@ -8878,7 +8878,7 @@ Tiny luminescent silver dream flecks drift inside the floating orb like falling 
 
 **Type:** Accessory (Gift) | **Grade:** α | **Element:** Grudge
 
-**Ability:** Preserves one spoken sentence from decay or distortion.
+**Ability:** Preserves one spoken sentence from decay or alteration.
 
 **Cost:** The wearer hears every incomplete accusation nearby.
 
@@ -8982,3 +8982,52 @@ Tiny luminescent silver dream flecks drift inside the floating orb like falling 
 **Cost:** The wearer feels the pain of both memories simultaneously.
 
 ---
+
+---
+
+## V. M.A.W.-W (Weapon) Combat Stat Profiles: Speed, Range & The Four P's
+
+Every M.A.W. Weapon (**M.A.W.-W**) extracted from a Sorrow Entity functions according to strict physical and metaphysical parameters governing **Speed Modifiers**, **Range Bands**, and **The Four P's (Passives, Panic, Parry, Posture)**:
+
+```text
++=====================================================================+
+|           M.A.W.-W WEAPON SPEED & RANGE MODIFIERS ENGINE            |
++---------------------------------------------------------------------+
+| Weight Class | Spd Mod | AP | Optimal Band | Trait Mechanics        |
++---------------------------------------------------------------------+
+| Feather / UL | +2 Spd  | 1  | Band 1 (N01) | Momentum Surge (+2 Pwr)|
+| Light Class  | +1 Spd  | 1  | Band 1-2     | Rapid Flanking / Bleed |
+| Medium Class | +0 Spd  | 1  | Band 1-3     | Balanced Clash Profile |
+| Heavy Class  | -1 Spd  | 2  | Band 1 / B04 | Heavy Poise (+2 Base)  |
+| Colossal Rel | -2 Spd  | 2  | Band 1 / B05 | Unstoppable (+4 Base)  |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+|      THE FOUR P-FRAMEWORK (PASSIVE / PANIC / PARRY / POSTURE)       |
++---------------------------------------------------------------------+
+| Pillar Code | Tactical Domain     | Core Battle Function            |
++---------------------------------------------------------------------+
+| P1: Passive | Weapon Trait Arts   | Speed triggers & range bonuses  |
+| P2: Panic   | SP Breakdown & Loss | Burden drain, states & recovery |
+| P3: Parry   | Active Defense/Guard| Melee deflects & intercepts     |
+| P4: Posture | Poise & Stagger Bar | Momentum math & dual breaks     |
++=====================================================================+
+```
+
+### 5.1 Weapon Category Specifications & Combat Metrics
+
+| Weapon Category | Weight Class | Speed Modifier | AP Cost | Optimal Range Band | Base Parry Defense | Core Passive Trait |
+|---|---|---|---|---|---|---|
+| **Daggers & Scalpels** | Feather / Ultra-Light | +2 Speed | 1 AP | Band 1 (0–2m) | Low (Parry Base 7) | *Momentum Surge* (+2 Clash Power if Speed > enemy by 3+) |
+| **Short Swords & Rapiers** | Light Class | +1 Speed | 1 AP | Band 1–2 (2–5m) | Medium (Parry Base 9) | *Rapid Flank* (+20% damage when striking from behind) |
+| **Broadswords & Batons** | Medium Class | +0 Speed | 1 AP | Band 1–3 (5–12m) | Standard (Parry Base 10)| *Balanced Stance* (+1 Coin value on defensive clash) |
+| **Greatswords & Warhammers**| Heavy Class | -1 Speed | 2 AP | Band 1 or Band 4 | Heavy (Parry Base 12) | *Heavy Poise* (Ignores first 5 stagger buildup per turn)|
+| **Siege Mauls & Cannons** | Colossal Relic | -2 Speed | 2 AP | Band 1 or Band 5 | Titanic (Parry Base 14)| *Unstoppable* (Clash strikes cannot be deflected) |
+
+### 5.2 The Four P's in M.A.W.-W Equipment Management
+1. **Passives (P1)**: Intrinsic weapon abilities that trigger automatically during combat based on operative positioning and speed superiority.
+2. **Panic (P2)**: High-tier M.A.W.-W gear (Grades γ, δ, ω) imposes a psychic weight on the wielder's soul. If the operative's Composure is lower than the weapon's grade threshold, the weapon siphons -5 SP per turn, accelerating entry into Panic States.
+3. **Parry & Protection (P3)**: Weapons with reinforced crossguards, broad blades, or acoustic resonators can spend 1 AP to execute a direct physical or psychic Parry, canceling hostile strikes and returning 50% counter-damage.
+4. **Posture & Poise (P4)**: Heavy impact weapons deliver massive posture damage magnified by kinetic momentum (`Speed Difference * Weight Class`), rapidly triggering Dual-Threshold Stagger (Stagger 1 at 60% HP, Terminal Stagger at 25% HP).

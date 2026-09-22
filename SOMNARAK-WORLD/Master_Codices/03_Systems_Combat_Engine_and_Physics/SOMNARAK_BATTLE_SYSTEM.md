@@ -102,6 +102,190 @@ Combat in Somnarak operates across five standardized **Range Bands**, governing 
 
 ---
 
+### Operative Base Speed & Range Classification on the 10-Node Grid
+
+Every operative commanding weapons in Somnarak operates with an intrinsic **Base Speed Die** and **Natural Range Affinity** determined by training, augmentation tier, and physiological weight:
+
+| Operative Role | Base Speed Die | Action Points (AP) | Natural Range | Optimal Tactical Role |
+|---|---|---|---|---|
+| **Vanguard Skirmisher** | Speed 5–8 | 3 to 4 AP | Band 1 (0–2m) | Node 1–2 Melee Interception, High Mobility |
+| **Line Warden / Breacher** | Speed 3–6 | 2 to 3 AP | Band 1–2 (2–5m) | Node 2–3 Shield Bracing, CQB Clashing |
+| **Mid-Field Specialist** | Speed 3–5 | 2 to 3 AP | Band 3 (5–12m) | Node 5–6 Console Work, Carbines, Healing |
+| **Suppression Marksman** | Speed 4–7 | 2 to 4 AP | Band 4 (12–25m)| Node 7–8 Precision Sniping, Beam Lasers |
+| **Ballast Heavy / Anchor** | Speed 2–4 | 1 to 2 AP | Band 1 or Band 5| Colossal Hammer Crushes, Artillery Shells |
+
+---
+
+### M.A.W.-W (Weapon) Speed & Range Modifier Engine
+
+When equipping Materialized Agony Wear weaponry (**M.A.W.-W**), the weapon's emotional weight, physical density, and metaphysical reach modify the operative's baseline Speed and Range Band parameters:
+
+```text
++=====================================================================+
+|           M.A.W.-W WEAPON SPEED & RANGE MODIFIERS ENGINE            |
++---------------------------------------------------------------------+
+| Weight Class | Spd Mod | AP | Optimal Band | Trait Mechanics        |
++---------------------------------------------------------------------+
+| Feather / UL | +2 Spd  | 1  | Band 1 (N01) | Momentum Surge (+2 Pwr)|
+| Light Class  | +1 Spd  | 1  | Band 1-2     | Rapid Flanking / Bleed |
+| Medium Class | +0 Spd  | 1  | Band 1-3     | Balanced Clash Profile |
+| Heavy Class  | -1 Spd  | 2  | Band 1 / B04 | Heavy Poise (+2 Base)  |
+| Colossal Rel | -2 Spd  | 2  | Band 1 / B05 | Unstoppable (+4 Base)  |
++=====================================================================+
+```
+
+#### Range Band Penalties & Spatial Falloff Rules
+1. **Point-Blank Penalty for Ranged Arms**: Any ranged weapon (Band 3–5) firing within Point-Blank melee distance (Band 1 / Nodes 1–2) incurs a penalty of **-2 Clash Power** and **-20% Accuracy**, unless fitted with an integrated bayonet or defensive buckler.
+2. **Melee Reach Constraints**: Melee weapons cannot target hostiles beyond Band 2 (Nodes 3–4) without spending 1 AP per node of movement to close the gap. Striking at Band 2 with a strict Band 1 weapon incurs **-3 Clash Power**.
+3. **Out-of-Band Falloff**:
+   - Striking 1 Range Band beyond optimal: **-2 Clash Power**, **-15% Damage**.
+   - Striking 2+ Range Bands beyond optimal: **-4 Clash Power**, **-35% Damage**.
+
+---
+
+### The Universal Four P-Framework (Passives, Panic, Parry, Posture)
+
+All combatants and M.A.W. loadouts interact through four interconnected mechanical pillars known as **The Four P's**:
+
+```text
++=====================================================================+
+|      THE FOUR P-FRAMEWORK (PASSIVE / PANIC / PARRY / POSTURE)       |
++---------------------------------------------------------------------+
+| Pillar Code | Tactical Domain     | Core Battle Function            |
++---------------------------------------------------------------------+
+| P1: Passive | Weapon Trait Arts   | Speed triggers & range bonuses  |
+| P2: Panic   | SP Breakdown & Loss | Burden drain, states & recovery |
+| P3: Parry   | Active Defense/Guard| Melee deflects & intercepts     |
+| P4: Posture | Poise & Stagger Bar | Momentum math & dual breaks     |
++=====================================================================+
+```
+
+#### P1: Passives (M.A.W.-W Weapon Passives & Operative Synergy)
+Every M.A.W.-W weapon carries unique passive traits triggered by spatial positioning and speed differences:
+- **Momentum Surge**: When an operative's Speed exceeds the target's Speed by 3 or more, gain **+2 Final Clash Power** and recover +1 AP on a clash win.
+- **Point-Blank Dissection**: Striking an enemy at exact optimal Range Band 1 grants **+25% Critical Hit Chance** and applies 3 stacks of elemental Bleed or Weeping.
+- **Overwatch Stance**: Remaining stationary on Nodes 7–8 for 1 full turn grants **+3 Clash Power** on subsequent ranged strikes and bypasses hostile cover.
+- **Heavy Ballast Poise**: Heavy and Colossal weapons ignore the first 5 incoming Stagger damage sustained each turn.
+
+#### P2: Panic (SP Mechanics, Mental Burden & Emergency Recovery)
+Sanity (SP) dictates cognitive composure. Wielding high-tier M.A.W.-W equipment places heavy psychic strain on the wielder:
+- **Equipment Burden Drain**: Equipping an α-to-ω M.A.W. weapon that exceeds the operative's clearance tier inflicts a passive drain of **-5 SP per turn**.
+- **Panic State Typologies**: When SP hits 0, the operative collapses into one of four Panic States:
+  * *Berserk Panic*: Operative loses control, gaining free 0 AP sprint to Node 1–2 and attacking the nearest ally or enemy with maximum AP.
+  * *Despair Panic*: Operative freezes in place; Speed drops to 1 (1 AP); defense drops to 0; radiates weeping aura that damages ally SP.
+  * *Wandering Panic*: Operative shifts randomly (+/- 2 nodes per turn), unlocking bulkhead seals and tripping hazard traps.
+  * *Catatonic Panic*: Operative falls unconscious; Speed 0 (0 AP); posture broken; enters immediate Stagger state.
+- **Panic Restoration**: An ally within Range Band 2–3 may spend 1 AP to deliver a soothing *Flerehan* communion or a non-lethal blunt Lament shock, restoring the panicked target's SP to +25.
+
+#### P3: Parry & Protection (Active Defensive Actions)
+Operatives may spend Action Points on reactive defensive techniques rather than attacks:
+- **Parry Action (1 AP)**: Declared against an incoming melee clash. Operative rolls weapon defense die. If Parry Roll > Attack Roll, the operative completely deflects incoming damage and delivers an immediate riposte dealing **50% weapon base damage**.
+- **Guard Shield (1 AP)**: Deploys a stationary directional barrier that absorbs flat damage equal to `(Weapon Defense + Suit Defense) * Tier Multiplier`. Excess damage bleeds through to HP.
+- **Evade Roll (1 AP)**: High-mobility defensive leap. If Evade Roll > Attack Roll, the operative takes 0 damage and shifts 1 node backward. If failed, takes full unmitigated damage.
+- **Kinetic Interception**: Operatives positioned on Nodes 3–4 may spend 1 AP to interpose their shields in front of allies on Nodes 5–6, deflecting linear projectile lines.
+
+#### P4: Posture & Poise (Stagger Buildup & Momentum Multipliers)
+Posture represents physical balance and structural integrity before a Stagger break occurs:
+- **Posture Meter**: Calculated as `Base Resilience + M.A.W. Weight Class Bonus`.
+- **Kinetic Momentum Multiplier**: Striking with higher speed magnifies posture damage. Bonus Posture Damage = `(Attacker Speed - Defender Speed) * Weapon Weight Multiplier`.
+- **Posture Shatter**: Depleting the Posture meter triggers **Dual-Threshold Stagger**:
+  * *Stagger Threshold 1 (60% Max HP)*: Posture broken for 1 turn; 0 defense; takes **2.0× direct damage**; all queued action slots wiped.
+  * *Terminal Stagger 2 (25% Max HP)*: Neural and physical collapse; 1 turn complete paralysis; takes **2.5× direct damage**; unlocks 3 AP Climax Execution Finishers.
+
+---
+
+### Operative Base Speed & Range Classification on the 10-Node Grid
+
+Every operative commanding weapons in Somnarak operates with an intrinsic **Base Speed Die** and **Natural Range Affinity** determined by training, augmentation tier, and physiological weight:
+
+| Operative Role | Base Speed Die | Action Points (AP) | Natural Range | Optimal Tactical Role |
+|---|---|---|---|---|
+| **Vanguard Skirmisher** | Speed 5–8 | 3 to 4 AP | Band 1 (0–2m) | Node 1–2 Melee Interception, High Mobility |
+| **Line Warden / Breacher** | Speed 3–6 | 2 to 3 AP | Band 1–2 (2–5m) | Node 2–3 Shield Bracing, CQB Clashing |
+| **Mid-Field Specialist** | Speed 3–5 | 2 to 3 AP | Band 3 (5–12m) | Node 5–6 Console Work, Carbines, Healing |
+| **Suppression Marksman** | Speed 4–7 | 2 to 4 AP | Band 4 (12–25m)| Node 7–8 Precision Sniping, Beam Lasers |
+| **Ballast Heavy / Anchor** | Speed 2–4 | 1 to 2 AP | Band 1 or Band 5| Colossal Hammer Crushes, Artillery Shells |
+
+---
+
+### M.A.W.-W (Weapon) Speed & Range Modifier Engine
+
+When equipping Materialized Agony Wear weaponry (**M.A.W.-W**), the weapon's emotional weight, physical density, and metaphysical reach modify the operative's baseline Speed and Range Band parameters:
+
+```text
++=====================================================================+
+|           M.A.W.-W WEAPON SPEED & RANGE MODIFIERS ENGINE            |
++---------------------------------------------------------------------+
+| Weight Class | Spd Mod | AP | Optimal Band | Trait Mechanics        |
++---------------------------------------------------------------------+
+| Feather / UL | +2 Spd  | 1  | Band 1 (N01) | Momentum Surge (+2 Pwr)|
+| Light Class  | +1 Spd  | 1  | Band 1-2     | Rapid Flanking / Bleed |
+| Medium Class | +0 Spd  | 1  | Band 1-3     | Balanced Clash Profile |
+| Heavy Class  | -1 Spd  | 2  | Band 1 / B04 | Heavy Poise (+2 Base)  |
+| Colossal Rel | -2 Spd  | 2  | Band 1 / B05 | Unstoppable (+4 Base)  |
++=====================================================================+
+```
+
+#### Range Band Penalties & Spatial Falloff Rules
+1. **Point-Blank Penalty for Ranged Arms**: Any ranged weapon (Band 3–5) firing within Point-Blank melee distance (Band 1 / Nodes 1–2) incurs a penalty of **-2 Clash Power** and **-20% Accuracy**, unless fitted with an integrated bayonet or defensive buckler.
+2. **Melee Reach Constraints**: Melee weapons cannot target hostiles beyond Band 2 (Nodes 3–4) without spending 1 AP per node of movement to close the gap. Striking at Band 2 with a strict Band 1 weapon incurs **-3 Clash Power**.
+3. **Out-of-Band Falloff**:
+   - Striking 1 Range Band beyond optimal: **-2 Clash Power**, **-15% Damage**.
+   - Striking 2+ Range Bands beyond optimal: **-4 Clash Power**, **-35% Damage**.
+
+---
+
+### The Universal Four P-Framework (Passives, Panic, Parry, Posture)
+
+All combatants and M.A.W. loadouts interact through four interconnected mechanical pillars known as **The Four P's**:
+
+```text
++=====================================================================+
+|      THE FOUR P-FRAMEWORK (PASSIVE / PANIC / PARRY / POSTURE)       |
++---------------------------------------------------------------------+
+| Pillar Code | Tactical Domain     | Core Battle Function            |
++---------------------------------------------------------------------+
+| P1: Passive | Weapon Trait Arts   | Speed triggers & range bonuses  |
+| P2: Panic   | SP Breakdown & Loss | Burden drain, states & recovery |
+| P3: Parry   | Active Defense/Guard| Melee deflects & intercepts     |
+| P4: Posture | Poise & Stagger Bar | Momentum math & dual breaks     |
++=====================================================================+
+```
+
+#### P1: Passives (M.A.W.-W Weapon Passives & Operative Synergy)
+Every M.A.W.-W weapon carries unique passive traits triggered by spatial positioning and speed differences:
+- **Momentum Surge**: When an operative's Speed exceeds the target's Speed by 3 or more, gain **+2 Final Clash Power** and recover +1 AP on a clash win.
+- **Point-Blank Dissection**: Striking an enemy at exact optimal Range Band 1 grants **+25% Critical Hit Chance** and applies 3 stacks of elemental Bleed or Weeping.
+- **Overwatch Stance**: Remaining stationary on Nodes 7–8 for 1 full turn grants **+3 Clash Power** on subsequent ranged strikes and bypasses hostile cover.
+- **Heavy Ballast Poise**: Heavy and Colossal weapons ignore the first 5 incoming Stagger damage sustained each turn.
+
+#### P2: Panic (SP Mechanics, Mental Burden & Emergency Recovery)
+Sanity (SP) dictates cognitive composure. Wielding high-tier M.A.W.-W equipment places heavy psychic strain on the wielder:
+- **Equipment Burden Drain**: Equipping an α-to-ω M.A.W. weapon that exceeds the operative's clearance tier inflicts a passive drain of **-5 SP per turn**.
+- **Panic State Typologies**: When SP hits 0, the operative collapses into one of four Panic States:
+  * *Berserk Panic*: Operative loses control, gaining free 0 AP sprint to Node 1–2 and attacking the nearest ally or enemy with maximum AP.
+  * *Despair Panic*: Operative freezes in place; Speed drops to 1 (1 AP); defense drops to 0; radiates weeping aura that damages ally SP.
+  * *Wandering Panic*: Operative shifts randomly (+/- 2 nodes per turn), unlocking bulkhead seals and tripping hazard traps.
+  * *Catatonic Panic*: Operative falls unconscious; Speed 0 (0 AP); posture broken; enters immediate Stagger state.
+- **Panic Restoration**: An ally within Range Band 2–3 may spend 1 AP to deliver a soothing *Flerehan* communion or a non-lethal blunt Lament shock, restoring the panicked target's SP to +25.
+
+#### P3: Parry & Protection (Active Defensive Actions)
+Operatives may spend Action Points on reactive defensive techniques rather than attacks:
+- **Parry Action (1 AP)**: Declared against an incoming melee clash. Operative rolls weapon defense die. If Parry Roll > Attack Roll, the operative completely deflects incoming damage and delivers an immediate riposte dealing **50% weapon base damage**.
+- **Guard Shield (1 AP)**: Deploys a stationary directional barrier that absorbs flat damage equal to `(Weapon Defense + Suit Defense) * Tier Multiplier`. Excess damage bleeds through to HP.
+- **Evade Roll (1 AP)**: High-mobility defensive leap. If Evade Roll > Attack Roll, the operative takes 0 damage and shifts 1 node backward. If failed, takes full unmitigated damage.
+- **Kinetic Interception**: Operatives positioned on Nodes 3–4 may spend 1 AP to interpose their shields in front of allies on Nodes 5–6, deflecting linear projectile lines.
+
+#### P4: Posture & Poise (Stagger Buildup & Momentum Multipliers)
+Posture represents physical balance and structural integrity before a Stagger break occurs:
+- **Posture Meter**: Calculated as `Base Resilience + M.A.W. Weight Class Bonus`.
+- **Kinetic Momentum Multiplier**: Striking with higher speed magnifies posture damage. Bonus Posture Damage = `(Attacker Speed - Defender Speed) * Weapon Weight Multiplier`.
+- **Posture Shatter**: Depleting the Posture meter triggers **Dual-Threshold Stagger**:
+  * *Stagger Threshold 1 (60% Max HP)*: Posture broken for 1 turn; 0 defense; takes **2.0× direct damage**; all queued action slots wiped.
+  * *Terminal Stagger 2 (25% Max HP)*: Neural and physical collapse; 1 turn complete paralysis; takes **2.5× direct damage**; unlocks 3 AP Climax Execution Finishers.
+
+---
+
 ### Multi-Target Line & AoE Falloff Mechanics (다중 대상 감쇄 규칙)
 
 When an attack penetrates multiple targets along a directional line or radiates through concentric area zones, the Directorate enforces the canonical **100% → 70% → 50% Falloff Formula**:

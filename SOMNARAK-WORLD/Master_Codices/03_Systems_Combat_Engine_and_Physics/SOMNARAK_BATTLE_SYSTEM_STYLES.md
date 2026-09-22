@@ -219,6 +219,75 @@ When Battle Turn 6 concludes, the battlefield enters the **Phase-End Resolution 
 
 ---
 
+### 2.3 Operative Base Speed & Range Classification on the 10-Node Grid
+
+Every combat operative commands an intrinsic **Base Speed Die** and **Natural Range Band** on the 10-node spatial grid:
+- **Vanguard Skirmisher**: Speed 5–8 (3–4 AP), Band 1 (Nodes 1–2). Intercepts frontline breaches.
+- **Line Warden / Breacher**: Speed 3–6 (2–3 AP), Band 1–2 (Nodes 2–4). Deploys heavy shields and kinetic parries.
+- **Mid-Field Specialist**: Speed 3–5 (2–3 AP), Band 3 (Nodes 5–6). Operates consoles, acoustic weapons, and field healing.
+- **Suppression Marksman**: Speed 4–7 (2–4 AP), Band 4 (Nodes 7–8). Provides precision overwatch snipes and laser suppression.
+- **Ballast Heavy / Anchor**: Speed 2–4 (1–2 AP), Band 1 or 5 (Nodes 1 or 9–10). Delivers catastrophic maul smashes and mortar artillery.
+
+---
+
+### 2.4 M.A.W.-W (Weapon) Speed & Range Modifier Engine
+
+Equipping Materialized Agony Wear weaponry (**M.A.W.-W**) applies mechanical modifications to the operative's baseline speed, Action Point economy, and engagement range:
+
+```text
++=====================================================================+
+|           M.A.W.-W WEAPON SPEED & RANGE MODIFIERS ENGINE            |
++---------------------------------------------------------------------+
+| Weight Class | Spd Mod | AP | Optimal Band | Trait Mechanics        |
++---------------------------------------------------------------------+
+| Feather / UL | +2 Spd  | 1  | Band 1 (N01) | Momentum Surge (+2 Pwr)|
+| Light Class  | +1 Spd  | 1  | Band 1-2     | Rapid Flanking / Bleed |
+| Medium Class | +0 Spd  | 1  | Band 1-3     | Balanced Clash Profile |
+| Heavy Class  | -1 Spd  | 2  | Band 1 / B04 | Heavy Poise (+2 Base)  |
+| Colossal Rel | -2 Spd  | 2  | Band 1 / B05 | Unstoppable (+4 Base)  |
++=====================================================================+
+```
+
+---
+
+### 2.5 The Universal Four P-Framework Across All Branches
+
+Every institutional combat style executes the universal **Four P-Framework**:
+
+```text
++=====================================================================+
+|      THE FOUR P-FRAMEWORK (PASSIVE / PANIC / PARRY / POSTURE)       |
++---------------------------------------------------------------------+
+| Pillar Code | Tactical Domain     | Core Battle Function            |
++---------------------------------------------------------------------+
+| P1: Passive | Weapon Trait Arts   | Speed triggers & range bonuses  |
+| P2: Panic   | SP Breakdown & Loss | Burden drain, states & recovery |
+| P3: Parry   | Active Defense/Guard| Melee deflects & intercepts     |
+| P4: Posture | Poise & Stagger Bar | Momentum math & dual breaks     |
++=====================================================================+
+```
+
+1. **P1: Passives**:
+   - *Momentum Surge*: Gain +2 Clash Power when Speed > enemy Speed by 3+.
+   - *Point-Blank Dissection*: +25% Critical Hit Chance at optimal Band 1.
+   - *Overwatch Anchor*: +3 Clash Power from Bands 4–5 when remaining stationary for 1 turn.
+   - *Heavy Ballast Poise*: Heavy weapons ignore the first 5 Stagger buildup per turn.
+2. **P2: Panic (SP & Mental Burden)**:
+   - *Burden Drain*: Wielding M.A.W.-W exceeding clearance tier drains -5 SP per turn.
+   - *Panic Typologies*: Berserk (0 AP sprint to Node 1), Despair (Speed 1, 0 defense), Wandering (random node shifts), Catatonic (Speed 0, instant Stagger).
+   - *Panic Recovery*: Allies at Band 2–3 spend 1 AP on Flerehan communion or non-lethal blunt Lament shock to restore SP to +25.
+3. **P3: Parry & Protection**:
+   - *Parry (1 AP)*: Roll defense die vs melee attack; winning deflects 100% damage and counters for 50% weapon power.
+   - *Guard Shield (1 AP)*: Directional barrier absorbing flat damage based on weapon and suit defense.
+   - *Evade Roll (1 AP)*: Full mobility dodge; 0 damage on win, full damage on loss.
+   - *Kinetic Interception*: Wardens at Nodes 3–4 spend 1 AP to deflect linear projectile lines targeting allies at Nodes 5–6.
+4. **P4: Posture & Poise**:
+   - Posture meter = `Base Resilience + M.A.W. Weight Bonus`.
+   - Momentum Multiplier = `(Attacker Speed - Defender Speed) * Weapon Weight Multiplier`.
+   - Depleting Posture triggers Dual-Threshold Stagger: Stagger 1 (60% HP, 2.0x damage) and Terminal Stagger 2 (25% HP, 2.5x damage).
+
+---
+
 ## V. Branch 1: Generic P.S. Combat Core (The Universal Engine)
 
 The Universal Engine governs all basic combat mathematics, clash comparisons, and elemental relationships.
