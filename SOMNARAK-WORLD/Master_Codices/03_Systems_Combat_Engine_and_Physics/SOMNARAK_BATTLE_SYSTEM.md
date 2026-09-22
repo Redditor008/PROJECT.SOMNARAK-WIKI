@@ -559,17 +559,19 @@ When an Echo-Core fractures under accumulated cycle trauma, their sector undergo
 
 ---
 
-## VII. The Four Operational Combat Styles (사대 전투 양식)
+## IX. The Six Operational Combat Styles (육대 전투 양식)
 
-Combat doctrine across Somnarak is codified into four distinct operational branches, formally detailed in `SOMNARAK_BATTLE_SYSTEM_STYLES.md`. All branches utilize the universal spatial and temporal framework:
+Combat doctrine across Somnarak is codified into six distinct operational branches, formally detailed in `SOMNARAK_BATTLE_SYSTEM_STYLES.md`. All branches utilize the universal spatial and temporal framework:
 - **The 10-Node Room Stage Grid (Node 1 to Node 10)**: Real spatial positioning mapping to Range Bands 1 through 5, dictating movement costs, cover mechanics, and interception clashes.
 - **Speed-Driven Action Economy**: Speed Die rolls directly determine each combatant's **Action Points (AP)** per Battle Turn (Speed 1–2 = 1 AP, up to Speed 9–10+ = 5 AP).
 - **Macro Phase Combat Structure**: Exactly **six (6) Battle Turns compose one (1) Combat Phase**, concluding in systemic Phase-End Environmental Hazard and Equilibrium checks.
 
-### The Four Branches:
+### The Six Branches:
 1. **Generic P.S. Combat Core (The Universal Engine)**: Universal mechanics of Speed Dice, Clash resolution, SP Composure (-45 to +45), Sorrow Gauges (0–100%), Dual-Threshold Stagger (60% and 25%), and Quadripartite M.A.W. armaments.
 2. **Reverie Directorate (R.D.) Style**: Facility containment operations governed by the **Nine Echo-Cores** (Floors 1 to 8), mid-combat Work Cycle execution (Ferrehan, Flerehan, Pugnahan, Viderehan), emergency sector lockdown gates, and multi-color Ordeal suppression across the 10-node containment vault.
 3. **Underworld Cleanup Descend (UCD) Style**: Urban CQB across The Raw, featuring **Targeted Part Dismantling** (shattering enemy exoskeletons and weapon manifolds), in-combat forensic auditing by Yuna, and non-lethal hostage/foundation preservation behind Taeho's Obsidian Bastion.
 4. **Somnarak Exploration Decree (SED) Style**: Subterranean abyssal descents governed by **Strata Depth Atmospheric Pressure** (-50m to -3,500m), acoustic sonar decibel stealth to prevent awakening dormant behemoths, oxygen/fuel burn timers, and seismic piton anchoring.
+5. **The Memory Archive (Gieok Jeojangso) Style**: Deep strata sub-Alpha roots (-2,350m to -3,250m) governed by the **Library Reception Protocol**, modular memory anchor dismantling, Mnemonic Projection Arrays, and terminal Floor Realizations transmuting suffering into equipable Key Pages.
+6. **The Horizon Caravan (Jipyeongseondae) Style**: Overland planetary expedition warfare across The Desolate, Sea of Glass, Cheonbulok, and Mugeukji, governed by **The Drift Throne** mobile crawler support, planetary ley-drive geothermic harvesting, high-speed sand-skimmer maneuvers, and heavy spinal siege railgun strikes.
 
 *(For full mathematical formulas, node wireframes, AP spending menus, and complete turn flowcharts, refer to the authoritative master codex: `SOMNARAK_BATTLE_SYSTEM_STYLES.md`).*

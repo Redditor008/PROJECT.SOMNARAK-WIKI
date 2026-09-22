@@ -1,4 +1,84 @@
-# SOMNARAK — The Five Sovereign Institutions
+#!/usr/bin/env python3
+"""
+tools/upgrade_corporations_codex.py
+Upgrades SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_CORPORATIONS.md
+from The Three Corporations to The Five Sovereign Institutions of Somnarak.
+"""
+
+import unicodedata
+
+def get_display_width(text):
+    w = 0
+    for ch in text:
+        if unicodedata.east_asian_width(ch) in ('F', 'W'):
+            w += 2
+        else:
+            w += 1
+    return w
+
+def pad_to_display_width(text, target_width):
+    cur_w = get_display_width(text)
+    if cur_w < target_width:
+        return text + " " * (target_width - cur_w)
+    elif cur_w > target_width:
+        res = ""
+        res_w = 0
+        for ch in text:
+            ch_w = 2 if unicodedata.east_asian_width(ch) in ('F', 'W') else 1
+            if res_w + ch_w > target_width:
+                break
+            res += ch
+            res_w += ch_w
+        return res + " " * (target_width - res_w)
+    return text
+
+def make_box(title, rows, width=48):
+    top = "+" + "=" * (width - 2) + "+"
+    bottom = "+" + "=" * (width - 2) + "+"
+    sep = "+" + "-" * (width - 2) + "+"
+    inner_width = width - 4
+    
+    out = [top]
+    if title:
+        title_str = f" {title} "
+        title_w = get_display_width(title_str)
+        left_pad = (width - 2 - title_w) // 2
+        right_pad = width - 2 - title_w - left_pad
+        out.append("|" + " " * left_pad + title_str + " " * right_pad + "|")
+        out.append(sep)
+    
+    for r in rows:
+        if r == "---":
+            out.append(sep)
+        elif r.startswith("==="):
+            out.append(top)
+        else:
+            padded = pad_to_display_width(r, inner_width)
+            out.append(f"| {padded} |")
+    out.append(bottom)
+    return "\n".join(out)
+
+def build_corporations():
+    matrix_box = make_box("THE FIVE INSTITUTIONS MATRIX", [
+        "Institution          | Strategic Domain      ",
+        "---",
+        "Reverie Directory    | Subterranean Facility ",
+        "(R.D. / Main Branch) | Containment & M.A.W.  ",
+        "---",
+        "Somnarak Exploration | Deep Maw Exploration  ",
+        "Decreed (SED Corps)  | & Frontier Cartography",
+        "---",
+        "Underworld Cleanup   | Urban Pacification &  ",
+        "Descend (UCD Task)   | Anti-Fray Combat Ops  ",
+        "---",
+        "The Memory Archive   | Sub-Alpha Descents &  ",
+        "(Gieok Jeojangso)    | Mnemonic Transmutation",
+        "---",
+        "The Horizon Caravan  | Trans-Desolate Transit",
+        "(Jipyeongseon Dae)   | & Inter-City Corridors"
+    ])
+
+    return f"""# SOMNARAK — The Five Sovereign Institutions
 ## The Pentagonal Operational Doctrine & Inter-Agency Jurisdiction
 
 > *"Somnarak has one city, five operations, and ten thousand sorrows. The Institutions are how humanity endures, explores, reclaims, remembers, and crosses the world."*
@@ -10,26 +90,7 @@
 Somnarak operates through **five sovereign Institutions and Corporations**—each an autonomous institutional wing with its own executive mandate, specialized personnel, and strategic theater. Together, they form humanity's comprehensive defense against the rising tide of unresolved sorrow.
 
 ```text
-+==============================================+
-|         THE FIVE INSTITUTIONS MATRIX         |
-+----------------------------------------------+
-| Institution          | Strategic Domain      |
-+----------------------------------------------+
-| Reverie Directory    | Subterranean Facility |
-| (R.D. / Main Branch) | Containment & M.A.W.  |
-+----------------------------------------------+
-| Somnarak Exploration | Deep Maw Exploration  |
-| Decreed (SED Corps)  | & Frontier Cartograph |
-+----------------------------------------------+
-| Underworld Cleanup   | Urban Pacification &  |
-| Descend (UCD Task)   | Anti-Fray Combat Ops  |
-+----------------------------------------------+
-| The Memory Archive   | Sub-Alpha Descents &  |
-| (Gieok Jeojangso)    | Mnemonic Transmutatio |
-+----------------------------------------------+
-| The Horizon Caravan  | Trans-Desolate Transi |
-| (Jipyeongseon Dae)   | & Inter-City Corridor |
-+==============================================+
+{matrix_box}
 ```
 
 Each Institution maintains its own:
@@ -202,3 +263,13 @@ All five Institutions represent interlocking stages of humanity's awakening acro
 5. **The Horizon Caravan** breaks the walls of isolation, forging an overland bridge of blood and iron between Somnarak and Cheonbulok.
 
 Together, these five wings transform an apocalyptic prison into the cradle of a connected, living civilization.
+"""
+
+def main():
+    path = "SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_CORPORATIONS.md"
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(build_corporations())
+    print("Updated SOMNARAK_CORPORATIONS.md successfully!")
+
+if __name__ == "__main__":
+    main()

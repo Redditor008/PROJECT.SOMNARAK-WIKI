@@ -1,5 +1,5 @@
 # Project Somnarak — Battle System Styles (전투 체계 양식록)
-## The Four Canonical Tactical Branches of Combat & Tactical Physics
+## The Six Canonical Tactical Branches of Combat & Tactical Physics
 ### Authorized by the Reverie Directorate, SED Frontier Command, and UCD High Command
 
 > *"A warden defending a high-security containment cell does not fight like a riot breacher clearing a sunken drug foundry, and an abyssal explorer suspended over a three-kilometer chasm does not fight like either. The sorrow of this world is infinite, but the methods we forge to withstand it are precise, disciplined, and uniquely adapted to where we stand."*  
@@ -13,7 +13,7 @@ The combat physics of Project Somnarak are unified by a single foundational engi
 
 ```text
 +=====================================================================+
-|       PROJECT SOMNARAK: QUAD-STYLE BATTLE SYSTEM ARCHITECTURE       |
+|       PROJECT SOMNARAK: HEXA-STYLE BATTLE SYSTEM ARCHITECTURE       |
 +---------------------------------------------------------------------+
 | 1. GENERIC P.S. CORE FOUNDATION (Universal Combat Engine)           |
 |    - 10-Node Room Stage Grid (Node 1 to Node 10 spatial positions). |
@@ -580,7 +580,104 @@ SED specialists deploy unique expedition tools on the grid:
 
 ---
 
-## IX. Complete Combat Visualization Template & Step-by-Step Scenario
+## IX. Branch 5: The Memory Archive (Gieok Jeojangso) Style
+
+**Operational Focus**: Deep Strata Sub-Alpha Roots (-2,350m to -3,250m), 7-Floor Mnemonic Reception Chambers.  
+**Tactical Philosophy**: The Library Reception Protocol, subjugation through comprehension, modular memory anchor dismantling, and the transmutation of suffering into Key Pages.
+
+```text
++=====================================================================+
+|           MEMORY ARCHIVE (GIEOK JEOJANGSO) RECEPTION GRID           |
++---------------------------------------------------------------------+
+| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+| |--THRESHOLD--| |--MINIONS----| |--APEX CONSTRUCT-| |--DAIS---|     |
++---------------------------------------------------------------------+
+| N01     : Ingress Sluice / Archive Threshold Vestibule              |
+| N02     : Seiyon Vanguard (Prismatic Stilettos & Aegis)             |
+| N03     : Mnemonic Projection Drone (Sapper Systems)                |
+| N04     : Memory Phantoms / Traumatic Minion Echoes                 |
+| N05     : Sovereign Construct Apex (Targetable Anchors)             |
+| N06     : Resonant Mnemonic Lens (Weakpoint Diagnostics)            |
+| N07     : Weaver Projection Array (Silver Thread Buffers)           |
+| N08-N09 : Suppressed Trauma Sump / Subterranean Chasm               |
+| N10     : Floor Core Reliquary / Key Page Transmutation Dais        |
++=====================================================================+
+```
+
+### 9.1 Spatial 10-Node Mnemonic Reception Topology
+
+In Memory Archive receptions, combat takes place within cyclopean subterranean vaults carved into the roots of the Alpha Tree:
+- **Node 01 (Threshold Sluice)**: Ingress archway where Seiyon's synthetic holographic projection enters the floor.
+- **Node 02 (Seiyon Vanguard)**: Point-Blank Band 1. Seiyon engages with dual Prismatic Stilettos and deploys the Prismatic Aegis for kinetic and hydro-deflections.
+- **Node 03 (Mnemonic Projection Drone)**: Support Band 2. Autonomous drone deploying thermal, pneumatic, and resonant sappers to strip enemy armor.
+- **Node 04 (Echo Minions)**: Intermediary lane where memory phantoms, phantom soldiers, and mirror doppelgangers spawn.
+- **Node 05 (Sovereign Boss Anchor)**: The central dais occupied by the floor's guardian construct (e.g., The First Keeper, The Weeping Statue, The Original).
+- **Node 06 (Resonant Mnemonic Lens)**: Band 3. Telemetric scanner highlighting weakpoint seams and broadcasting harmonic solace.
+- **Node 07 (Weaver Projection Array)**: Band 4. Deploys silver threads of light that absorb ambient psychological trauma and stabilize squad composure.
+- **Nodes 08–09 (Suppressed Trauma Sump & Chasm)**: Deep subterranean rifts that vent unexpressed tears or void feedback.
+- **Node 10 (Key Page Dais)**: The master reliquary where crystallized memories condense into equipable Key Pages upon Floor Realization.
+
+### 9.2 Modular Memory Anchor Dismantling
+Adversaries in the Memory Archive possess discrete targetable memory anchors:
+- Each anchor represents a physical manifestation of repressed trauma (e.g., Weeping Siphon Veil, Gilded Frame of Lies, Zero-Chrono Lance).
+- Reducing an anchor to 0 HP permanently disables signature boss attacks, deducts 1 enemy Action Point, and triggers **Stagger 1**.
+
+### 9.3 Floor Realization & Key Page Transmutation
+When the sovereign construct's Posture meter is reduced to 0 (Stagger 2):
+- Hostile intent drops to zero as Seiyon shares the emotional weight of the construct's forgotten trauma.
+- The construct dissolves into crystalline light, condensing into a permanent **Key Page** that unlocks passive combat arts and elemental affinities for subsequent floors.
+
+---
+
+## X. Branch 6: The Horizon Caravan (Jipyeongseondae) Style
+
+**Operational Focus**: The Desolate Overland Corridors, Sea of Glass, Cheonbulok Volcanic Caldera, Mugeukji Polar Tundra.  
+**Tactical Philosophy**: Open-field vehicular combat, high-speed sand maneuvers, planetary ley-frequency tuning, and heavy kinetic artillery.
+
+```text
++=====================================================================+
+|          HORIZON CARAVAN (JIPYEONGSEONDAE) EXPEDITION GRID          |
++---------------------------------------------------------------------+
+| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+| |--RAMPS------| |--OUTRIDERS--| |--DUNE BASIN-----| |--BRIDGE-|     |
++---------------------------------------------------------------------+
+| N01     : Drift Throne Debarkation Ramps (Kael Vanguard)            |
+| N02     : Outrider Sand-Skimmer Lane (Hwaran Support)               |
+| N03     : Fortified Sand Berms (Heavy Dredger Phalanx)              |
+| N04     : Sinking Sand Basin / Primary Skirmish Zone                |
+| N05     : Sovereign Adversary Apex (Behemoths / War-Rigs)           |
+| N06     : Elevated Catwalk Pylon / Sniper Overwatch Mast            |
+| N07     : Rear Sand Dune Ridge (Acoustic Heavy Mortars)             |
+| N08     : Deep Sand Chasm / Sinking Sand Hazard Sump                |
+| N09     : Subterranean Geothermal Han-Flow Ley-Vent                 |
+| N10     : Drift Throne Bridge & Spinal Siege Railgun                |
++=====================================================================+
+```
+
+### 10.1 Spatial 10-Node Overland Expedition Topology
+
+In Horizon Caravan operations, battle unfolds across vast desert plains anchored by the mobile sand fortress **The Drift Throne**:
+- **Node 01 (Crawler Ramps)**: Debarkation gangway of the Drift Throne. Grants $+2$ Protection to allied defenders.
+- **Node 02 (Outrider Skimmer Lane)**: Rapid flanking lane for sand-skimmers and agile skirmishers (Hwaran). Grants $+15\%$ Evasion.
+- **Node 03 (Sand Barricades)**: Fortified dune berms equipped with deployable ballistic mantlets anchored by Heavy Dredgers.
+- **Node 04 (Sinking Sand Basin)**: Forward clash zone where medium melee and close-range firearms collide.
+- **Node 05 (Sovereign Adversary Apex)**: The central node occupied by colossal burrowers, marauder war-rigs, or enemy champions.
+- **Node 06 (Elevated Catwalk Pylon)**: Telescopic sniper mast providing $+1$ Range Band to marksmen.
+- **Node 07 (Rear Sand Dune Ridge)**: High ground utilized by acoustic mortar crews.
+- **Node 08 (Sand Chasm Sump)**: Shifting quicksand hazard that penalizes movement by $-2$ Speed.
+- **Node 09 (Geothermal Ley-Vent)**: Planetary fracture venting boiling Han-brine or volatile steam every 3 turns.
+- **Node 10 (Command Bridge & Siege Railgun)**: The central helm of the Drift Throne housing Kael's command seat and the spinal kinetic railgun.
+
+### 10.2 Planetary Ley-Drive & Seismic Acoustics
+- The Drift Throne siphons acoustic vibrations from deep subterranean Han-flow lines.
+- Kael uses his vitrified Han-glass arm to channel seismic shockwaves, stabilizing shifting sands, flipping enemy war-rigs, and grounding volcanic firestorms.
+
+### 10.3 Vehicular Part Severance & Planetary Relic Overdrives
+- Targetable vehicular components (crawler treads, rotary autocannons, sand mandibles) can be dismantled through targeted kinetic fire.
+- High-intensity climax turns (Turn 05) feature supreme **Relic Overdrives** (3 AP, 30 SP) such as *Song of the Buried Earth* and *Oath of the Unchained Horizon* that parry cataclysmic environmental attacks and lead to peaceful resolution.
+
+
+## XI. Complete Combat Visualization Template & Step-by-Step Scenario
 
 Below is the definitive, canonical combat visualization template designed for direct adaptation into narrative story chapters.
 
@@ -649,7 +746,7 @@ Below is the definitive, canonical combat visualization template designed for di
 
 ---
 
-## X. Story Combat Adaptation Guidelines
+## XII. Story Combat Adaptation Guidelines
 
 When writing or revising battle sequences across canonical chronicles (`Katabagil`, `Katharcheok`, and `The_Absolvohan`):
 
