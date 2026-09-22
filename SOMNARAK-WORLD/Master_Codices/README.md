@@ -61,7 +61,6 @@ Foundational cosmological architecture, metaphysics, origin cataclysms, and the 
 - `SOMNARAK_DREAM_REALM.md` (350 lines): The subconscious dream realm, dream-diving physics, and the Weavers Guild.
 - `SOMNARAK_CHEONGULA.md` (336 lines): The First Sorrow, the Year 0 Cataclysm, and the origin of Cheongula.
 - `SOMNARAK_UNKNOWN_CITIES.md` (560 lines): Sister cities Cheonbulok and Mugeukji, external geopolitical threats, and refugee enclaves.
-- `SOMNARAK_HORIZON_CARAVAN.md` (267 lines): Nomadic desert traders traversing the exterior wastes.
 
 ---
 
@@ -71,6 +70,7 @@ Official corporate dossiers and operational doctrines of the sovereign instituti
 - `The_SOMNARAK_EXPLORATION_DECREE.md`: The SED corporate dossier, three-tier subterranean exploration doctrine, specialized survey gear, and expedition specialist profiles. *(Paired with the 7 subterranean descents in `SOMNARAK-WORLD/Katabagil/`).*
 - `The_UNDERWORLD_CLEANUP_DESCEND.md`: The UCD corporate dossier, three-phase reclamation doctrine, pacification armaments, and joint task force profiles. *(Paired with the 6 pacification operations in `SOMNARAK-WORLD/Katharcheok/`).*
 - `The_MEMORY_ARCHIVE.md`: The Memory Archive corporate dossier, 6,000-year-old sub-Alpha tree root architecture, Mnemonic Combat Framework, 7-floor reception stratigraphy, and Seiyon's synthesis engrams. *(Paired with the 7 mnemonic receptions in `SOMNARAK-WORLD/Gieok_Jeojangso/`).*
+- `The_HORIZON_CARAVAN.md`: The Horizon Caravan master corporate dossier, the Drift Throne 140m mobile crawler specifications, trans-desolate Han-flow navigation, and planetary expeditionary doctrine. *(Paired with the 6 trans-desolate arcs in `SOMNARAK-WORLD/Jipyeongseondae/`).*
 
 ---
 
@@ -122,6 +122,7 @@ In addition to the Master Codices, Project Somnarak maintains standalone operati
 3. **`SOMNARAK-WORLD/Katharcheok/`**: The Six Underworld Pacifications of the Underworld Cleanup Descend (Operations 1 to 6 + Overview).
 4. **`SOMNARAK-WORLD/The_Absolvohan/`**: The Nine Serial Narrative Volumes of the Absolvohan Facility (Parts 1 to 9 + Overview).
 5. **`SOMNARAK-WORLD/Gieok_Jeojangso/`**: The Seven Mnemonic Receptions of the Memory Archive (Receptions 1 to 7 + Overview).
+6. **`SOMNARAK-WORLD/Jipyeongseondae/`**: The Six Trans-Desolate Expeditions of the Horizon Caravan (Arcs 1 to 6 + Overview).
 
 ---
 
