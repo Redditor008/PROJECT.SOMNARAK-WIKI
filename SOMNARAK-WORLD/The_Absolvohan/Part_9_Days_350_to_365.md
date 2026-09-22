@@ -86,7 +86,7 @@ Dekan and Zyrak guide the daily communion shifts. Mellda's Attendant Aura, *Welc
 
 ```text
 +==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 35 |
+| ACOUSTIC STRAIN MONITORING: DAY 350          |
 +----------------------------------------------+
 | STRAIN LEVEL : ETERNAL SANCTUARY EQUILIBRIUM |
 | OVERLOAD TIMER : PERMANENTLY DECOMMISSIONED  |
@@ -97,16 +97,16 @@ Dekan and Zyrak guide the daily communion shifts. Mellda's Attendant Aura, *Welc
 | SE-C-IIIg-001      | 00.0%    | Silver Chime |
 | (The Bell)         |          |              |
 +--------------------+----------+--------------+
-| SE-C-IIIg-005      | 00.0%    | Warm Embra   |
+| SE-C-IIIg-005      | 00.0%    | Warm Embrace |
 | (The Mother)       |          |              |
 +--------------------+----------+--------------+
-| SE-C-IIIb-036      | 00.0%    | Golden Tim   |
+| SE-C-IIIb-036      | 00.0%    | Golden Time  |
 | (Hourglass)        |          |              |
 +--------------------+----------+--------------+
 | SE-C-IIIg-081      | 00.0%    | Pure Light   |
 | (Hollow Saint)     |          |              |
 +--------------------+----------+--------------+
-| SE-C-IIIg-140      | 00.0%    | Living Sha   |
+| SE-C-IIIg-140      | 00.0%    | Living Shade |
 | (Weeping Willow)   |          |              |
 +--------------------+----------+--------------+
 | ALL 246 COMPANIONS | 00.0%    | At Peace     |
@@ -281,7 +281,7 @@ Mellda, Zyrak, and Ishall deploy massive banquet and medical pavilions outside G
 
 ```text
 +==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 35 |
+| ACOUSTIC STRAIN MONITORING: DAY 355          |
 +----------------------------------------------+
 | STRAIN LEVEL : PLANETARY HOMECOMING JUBILEE  |
 | OVERLOAD TIMER : PERMANENTLY DECOMMISSIONED  |
@@ -474,7 +474,7 @@ Marjuk and Xyan decommission the recursive chronological index in the main archi
 
 ```text
 +==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 36 |
+| ACOUSTIC STRAIN MONITORING: DAY 360          |
 +----------------------------------------------+
 | STRAIN LEVEL : LINEAR TEMPORAL EQUILIBRIUM   |
 | OVERLOAD TIMER : PERMANENTLY DECOMMISSIONED  |
@@ -482,18 +482,18 @@ Marjuk and Xyan decommission the recursive chronological index in the main archi
 +--------------------+----------+--------------+
 | CONTAINMENT TARGET | STRAIN   | STATUS       |
 +====================+==========+==============+
-| MNEMONIC GENERATOR | 00.0%    | Field Disc   |
+| MNEMONIC GENERATOR | 00.0%    | Field Closed |
 +--------------------+----------+--------------+
 | TEMPORAL           | 00.0%    | Linear Time  |
 | (Accumulator)      |          |              |
 +--------------------+----------+--------------+
-| SE-C-IIIb-036      | 00.0%    | Normal San   |
+| SE-C-IIIb-036      | 00.0%    | Normal Flow  |
 | (Hourglass)        |          |              |
 +--------------------+----------+--------------+
-| SE-C-IIIb-044      | 00.0%    | Ticking Fo   |
+| SE-C-IIIb-044      | 00.0%    | Ticking Free |
 | (Broken Clock)     |          |              |
 +--------------------+----------+--------------+
-| ALL SANCTUARIES    | 00.0%    | Recell       |
+| ALL SANCTUARIES    | 00.0%    | Open Gates   |
 |                    |          | In Progress  |
 +--------------------+----------+--------------+
 | TACTICAL ACTION: TEMPORAL UNLOCK ENGAGED     |

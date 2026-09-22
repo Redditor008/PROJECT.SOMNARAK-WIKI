@@ -1,15 +1,253 @@
-# The Absolvohan — Part 1 — Day 0: The Director Wakes
+#!/usr/bin/env python3
+"""
+tools/expand_part_1.py
+Expands Part 1 (Day 0: The Director Wakes) into an exhaustive, deep, and complicated
+operational chronicle incorporating the 10-node spatial engine, universal Speed/Range,
+M.A.W.-W modifiers, and Four P-framework across all six turns of combat.
+"""
+
+def make_box(title, rows, width=71):
+    top = "+" + "=" * (width - 2) + "+"
+    bottom = "+" + "=" * (width - 2) + "+"
+    sep = "+" + "-" * (width - 2) + "+"
+    
+    out = [top]
+    if title:
+        title_str = f" {title} "
+        out.append(f"|{title_str.center(width - 2)}|")
+        out.append(sep)
+    
+    for r in rows:
+        if r == "---":
+            out.append(sep)
+        elif r.startswith("==="):
+            out.append(top)
+        else:
+            # truncate or pad
+            text = r[:width - 4]
+            out.append(f"| {text.ljust(width - 4)} |")
+    out.append(bottom)
+    return "\n".join(out)
+
+def build_part_1():
+    header_box = make_box("THE ABSOLVOHAN CHRONICLES — CYCLE 1,778", [
+        "RECORD CLASSIFICATION : LEVEL 5 / EYES ONLY / REVERIE DIRECTORATE",
+        "TEMPORAL EPOCH        : YEAR 4,232 + 1,778 (THE LOOP BREAKING)",
+        "PRIMARY CHRONICLE     : PART 1 — DAY 0: THE DIRECTOR WAKES",
+        "DECISION CORE         : FLOOR 1 CENTRAL SPIRE / DECISION SANCTUARY",
+        "CENTRAL ARCHITECTS    : DIRECTOR MAJIN & SECRETARY SEIYON"
+    ])
+
+    terminal_box = make_box("REVERIE DIRECTORATE — CENTRAL COMMAND TERMINAL", [
+        "FACILITY MANAGEMENT INTERFACE: DAY 0 INITIAL CALIBRATION",
+        "DIRECTOR: MAJIN // AI SECRETARY: SEIYON // STATUS: OPERATIONAL",
+        "ENERGY HARVEST TARGET : 0.050 TONS // CURRENT HARVEST: 0.000 TONS",
+        "SECRET BALLAST RESERVE : 47.300 TONS [HYDRAULIC CRYO-VAULTS]",
+        "ACTIVE CONTAINMENT    : CHAMBER 001 (BELL) & CHAMBER 005 (MOTHER)"
+    ])
+
+    park_dossier = make_box("OPERATIVE DOSSIER: AGENT PARK (VANGUARD SKIRMISHER)", [
+        "Level / Promotion     : Level I (Plucky Recruit / Floor 1 Assigned)",
+        "Resilience (HP)       : 30 / 30 [Grade I - Grudge Affinity Base]",
+        "Clarity (SP)          : 35 / 35 [Grade II - High Lament Stability]",
+        "Composure (Work)      : 28 / 28 [Grade I - Void Work Precision]",
+        "Resolve (Base Speed)  : Speed 5 [Action Point Allocation: 3 AP / Turn]",
+        "Equipped Weapon       : Directorate Stun Baton (Medium / Speed Delta 0)",
+        "                      : Range Band 1-2 (Nodes 1-4) | 1 AP | 2-4 Lament",
+        "Equipped Suit         : Standard R.D. Tunic (Light / Speed Delta +1)",
+        "Final Tactical Speed  : Speed 6 -> 3 AP Base + 1 Free Movement Point",
+        "Posture / Poise Meter : 45 / 45 [Regen: +8 Posture / Turn]",
+        "Parry / Protection    : Baton Deflect (Base Roll: 9 Power | 1.2x Stagger)",
+        "Passive Trait (P1)    : Empathetic Buffer (+10% SP Recovery on Lament)",
+        "Panic Typology (P2)   : Despair (Triggers at SP <= -25; Speed drops to 1)",
+        "Attendant Floor Aura  : Seiyon Synced Directive (+5% SP, +2 Composure)",
+        "Status                : FULLY COMPOSED / READY FOR DEPLOYMENT"
+    ])
+
+    kim_dossier = make_box("OPERATIVE DOSSIER: AGENT KIM (LINE WARDEN / ANCHOR)", [
+        "Level / Promotion     : Level I (Stoic Enforcer / Floor 1 Assigned)",
+        "Resilience (HP)       : 38 / 38 [Grade II - High Grudge Physical Bulk]",
+        "Clarity (SP)          : 25 / 25 [Grade I - Standard Lament Tolerance]",
+        "Composure (Work)      : 30 / 30 [Grade I - Void Work Baseline]",
+        "Resolve (Base Speed)  : Speed 4 [Action Point Allocation: 2 AP Base]",
+        "Equipped Weapon       : Directorate Shock Maul (Heavy / Speed Delta -1)",
+        "                      : Range Band 1 (Nodes 1-2) | 2 AP | 4-7 Grudge",
+        "Equipped Suit         : Heavy Enforcer Mail (Heavy / Speed Delta -1)",
+        "Seiyon Floor Aura Mod : Attendant Tactical Offset (+2 Speed Compensation)",
+        "Final Tactical Speed  : Speed 4 -> Combat Base 5 -> 3 AP / Turn",
+        "Posture / Poise Meter : 60 / 60 [Regen: +12 Posture / Turn]",
+        "Parry / Protection    : Directional Guard Shield (14 Direct Absorption)",
+        "Passive Trait (P1)    : Weight Poise (+2 Clash Power at Nodes 1-2)",
+        "Panic Typology (P2)   : Berserk (Triggers at SP <= -30; Aggressive charge)",
+        "Attendant Floor Aura  : Seiyon Synced Directive (+5% SP, +2 Composure)",
+        "Status                : HIGH PHYSICAL ENDURANCE / READY FOR DEPLOYMENT"
+    ])
+
+    meltdown_box = make_box("EMERGENCY ALERT: ACOUSTIC STRAIN MELTDOWN LEVEL I", [
+        "SECTOR ALERT          : HYDRAULIC RESONANCE SPIKE DETECTED",
+        "AFFECTED CHAMBER      : SE-C-IIIg-001 (THE ORPHANED BELL)",
+        "ACOUSTIC OVERLOAD     : STRAIN METER 3/3 REACHED [LEVEL I THRESHOLD]",
+        "BREACH BLEED TIMER    : 45.0 SECONDS REMAINING UNTIL ENVELOPE RUPTURE",
+        "TACTICAL MANDATE      : COMPLETE IMMEDIATE FLEREHAN WORK SESSION",
+        "CONSEQUENCE OF DELAY  : 110dB DEATH TOLL; RUPTURE OF CLERK EARDRUMS"
+    ])
+
+    ordeal_box = make_box("TACTICAL DOSSIER: FIRST WATCH (DAWN) ORDEAL", [
+        "DESIGNATION           : THE VOICE (FIRST WATCH OF DAWN)",
+        "CLASSIFICATION        : PALE (CYAN) FIRST WATCH SPECTRAL ENTITY",
+        "INTRUSION COORDINATES : FLOOR 1 CORRIDOR WEST (NODE 03 ENTRY)",
+        "HOSTILE PARAMETERS    : HP 140/140 | Posture 80/80 | Speed 4 (2 AP)",
+        "ATTACK AFFINITY       : Pale (% Max HP Decay / Cognitive Vibration)",
+        "VULNERABILITY         : Lament (Acoustic Echo / Empathetic Disruption)",
+        "SPECIAL THREAT        : Emits 15m Catatonia Aura upon manifestation",
+        "CIVILIAN STATUS       : 1x Level I Clerk Panicked at Node 04",
+        "SUPPRESSION ORDERS    : DISPATCH AGENTS KIM & PARK IMMEDIATELY"
+    ])
+
+    hud_t01 = make_box("TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 01", [
+        "[STAGE NODES 01 TO 10 — FLOOR 1 WEST REINFORCED CORRIDOR]",
+        "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
+        "        [KIM]   [VOICE] [CLERK] [PARK]                  [SEIYON] [MAJIN]",
+        "---",
+        "SPATIAL RANGES & POSITIONS:",
+        "- Node 02: Agent Kim (Line Anchor / Range Band 1 Point-Blank)",
+        "- Node 03: The Voice (Spectral Hostile / Intrusion Epicenter)",
+        "- Node 04: Panicked Clerk (Void Catatonia Trance / Range Band 2)",
+        "- Node 05: Agent Park (Vanguard Skirmisher / Range Band 3)",
+        "- Node 09-10: Seiyon Holographic Terminal & Director Majin Console",
+        "---",
+        "OPERATIVE STATUS & RESOURCE POOLS:",
+        "- Agent Kim   : Spd 5 -> 3 AP | HP 38/38 | SP 25/25 | Posture 60/60",
+        "- Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45",
+        "- The Voice   : Spd 4 -> 2 AP | HP 140/140 | Sorrow 50% | Posture 80/80"
+    ])
+
+    hud_t02 = make_box("TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02", [
+        "[STAGE NODES 01 TO 10 — POST-DISPERSION POSITIONS]",
+        "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
+        "        [KIM]   [VOICE] [PARK]                          [CLERK]  [MAJIN]",
+        "---",
+        "- Node 02: Agent Kim (Stationary Anchor / Shield Raised)",
+        "- Node 03: The Voice (Charging Choral Wave / Posture 64/80)",
+        "- Node 04: Agent Park (Range Band 2 Line / Lament Baton Readied)",
+        "- Node 09: Clerk safely evacuated to Central Sanctuary",
+        "---",
+        "- Agent Kim   : Spd 5 -> 3 AP | HP 38/38 | SP 25/25 | Posture 60/60",
+        "- Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45",
+        "- The Voice   : Spd 4 -> 2 AP | HP 112/140 | Posture 64/80 (Stagger 1: 48)"
+    ])
+
+    hud_t03 = make_box("TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03", [
+        "[STAGE NODES 01 TO 10 — POSTURE BREAK STAGGER LEVEL 1]",
+        "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
+        "        [KIM]   [VOICE] [PARK]                                   [MAJIN]",
+        "---",
+        "- Node 02: Agent Kim (Pressing Forward / Two-Handed Gripping)",
+        "- Node 03: The Voice (STAGGER LEVEL 1 ACTIVE / 1.5x DAMAGE TAKEN)",
+        "- Node 04: Agent Park (Momentum Surge Primed / +2 Speed Next Turn)",
+        "---",
+        "- Agent Kim   : Spd 5 -> 3 AP | HP 38/38 | SP 25/25 | Posture 52/60",
+        "- Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45",
+        "- The Voice   : Spd 0 -> 0 AP | HP 74/140  | Posture 32/80 [STAGGERED]"
+    ])
+
+    hud_t04 = make_box("TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04", [
+        "[STAGE NODES 01 TO 10 — DESPERATION SHOCKWAVE COUNTER-SURGE]",
+        "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
+        "        [KIM]   [VOICE] [PARK]                                   [MAJIN]",
+        "---",
+        "- Node 02: Agent Kim (Locking Guard Aegis / Intercepting Pulse)",
+        "- Node 03: The Voice (Recovered / Channeling Soliloquy Scream)",
+        "- Node 04: Agent Park (Sheltered behind Kim's Reinforced Mantlet)",
+        "---",
+        "- Agent Kim   : Spd 5 -> 3 AP | HP 34/38 | SP 23/25 | Posture 38/60",
+        "- Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 30/30 | SP 35/35 | Posture 45/45",
+        "- The Voice   : Spd 4 -> 2 AP | HP 52/140  | Posture 24/80 [UNSTABLE]"
+    ])
+
+    hud_t05 = make_box("TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05", [
+        "[STAGE NODES 01 TO 10 — TERMINAL STAGGER THRESHOLD 2]",
+        "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
+        "        [KIM]   [VOICE]                                          [MAJIN]",
+        "                [PARK]",
+        "---",
+        "- Node 02: Agent Kim (Flanking Left Mandible / Shock Maul Primed)",
+        "- Node 03: The Voice (TERMINAL STAGGER LEVEL 2 / DEFENSE NULLIFIED)",
+        "- Node 03: Agent Park (Point-Blank Band 1 Ingress / Resonance Rod)",
+        "---",
+        "- Agent Kim   : Spd 5 -> 3 AP | HP 34/38 | SP 23/25 | Posture 38/60",
+        "- Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45",
+        "- The Voice   : Spd 0 -> 0 AP | HP 22/140  | Posture 0/80 [COLLAPSED]"
+    ])
+
+    hud_t06 = make_box("TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06", [
+        "[STAGE NODES 01 TO 10 — CLIMAX EXECUTION & PURIFICATION]",
+        "[N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N09]---[N10]",
+        "        [KIM]   [DUST]  [PARK]                                   [MAJIN]",
+        "---",
+        "- Node 02: Agent Kim (Recovering Stance / Grounding Kinetic Energy)",
+        "- Node 03: The Voice (Shattered / Crystallizing into Cyan Mist)",
+        "- Node 04: Agent Park (Venting Heated Capacitor / Siphoning RHR)",
+        "---",
+        "- Agent Kim   : Spd 5 -> 3 AP | HP 34/38 | SP 23/25 | Posture 48/60",
+        "- Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45",
+        "- The Voice   : HP 0/140 [DISSOLVED] | +0.005 TONS REFINED HAN SIPHONED"
+    ])
+
+    phase_end_box = make_box("COMBAT PHASE 01 RESOLUTION (PHASE-END MACRO-TICK)", [
+        "1. ENVIRONMENTAL CHECK : Meltdown Level I cleared across Sector 1.",
+        "2. STATUS EQUILIBRIUM  : Clerk sanity stabilized; Kim & Park uninjured.",
+        "3. CONTAINMENT AUDIT   : First Watch Ordeal suppressed in 6 turns.",
+        "4. HAN REAGENT YIELD   : +0.005 Tons crystallized Han harvested.",
+        "5. OVERALL OUTCOME     : FLAWLESS TACTICAL SUPPRESSION (GRADE S)"
+    ])
+
+    evaluation_box = make_box("END-OF-DAY PERFORMANCE EVALUATION: DAY 0", [
+        "METRIC                 | TARGET QUOTA   | REALIZED PERFORMANCE",
+        "-----------------------+----------------+---------------------",
+        "Han Energy Harvested   | 0.050 Tons     | 0.053 Tons [MET]",
+        "Containment Breaches   | 0 Breaches Max | 0 Breaches [PERFECT]",
+        "Personnel Casualties   | 0 Fatalities   | 0 Fatalities [CLEARED]",
+        "Meltdowns Cleared      | 1/1 Level I    | 100% Rate [RESOLVED]",
+        "Ordeals Suppressed     | 1/1 First Watch| 100% Rate [SUPPRESSED]",
+        "-----------------------+----------------+---------------------",
+        "SHIFT PERFORMANCE GRADE: GRADE S (OPTIMAL CONVERGENCE PACE)",
+        "REAGENTS ACCUMULATED   : +18 RHR (REFINED HAN REAGENTS)",
+        "OPERATIVE ADVANCEMENT  :",
+        "- Agent Park : +4 Clarity, +2 Composure (Promoted to Grade II)",
+        "- Agent Kim  : +5 Resilience, +2 Resolve (Promoted to Grade II)"
+    ])
+
+    extraction_box = make_box("EXTRACTION WELL ARCHIVE: SELECT NEXT COMPANION", [
+        "CHOICE ALPHA [SE-C-IIIg-033]:",
+        "'It watched the forest burn, and spread its wings so no cinder",
+        "could escape.'",
+        "---",
+        "CHOICE BETA  [SE-C-IIIb-061]:",
+        "'The contract was signed in blood that never dried, charging",
+        "interest on breath.'",
+        "---",
+        "CHOICE GAMMA [SE-C-IIIb-014]:",
+        "'It eats what you owe, but leaves the hollow where your heart",
+        "used to beat.'"
+    ])
+
+    forge_box = make_box("M.A.W. SYNTHESIS FORGING LOG — DAY 0", [
+        "FORGE SPECIFICATION    | SLOT / PROPERTIES / PARAMETERS",
+        "-----------------------+----------------------------------------------",
+        "Lament Requiem         | Weapon: 4-7 Lament (White / Medium Weight)",
+        "                       | Speed Delta 0 | 1 AP | Range Band 1-2",
+        "Lament Shroud          | Suit: Light Armor (Speed Delta +1)",
+        "                       | Resist: 0.8 Grudge / 0.7 Lament / 1.2 Void",
+        "Lament Edge Gift       | Eye Slot: +4 SP, +5 Work Success Resonance",
+        "-----------------------+----------------------------------------------",
+        "EQUIPMENT ALLOCATION   | BESTOWED UPON AGENT PARK (VANGUARD SPECIALIST)"
+    ])
+
+    content = f"""# The Absolvohan — Part 1 — Day 0: The Director Wakes
 
 ```text
-+=====================================================================+
-|               THE ABSOLVOHAN CHRONICLES — CYCLE 1,778               |
-+---------------------------------------------------------------------+
-| RECORD CLASSIFICATION : LEVEL 5 / EYES ONLY / REVERIE DIRECTORATE   |
-| TEMPORAL EPOCH        : YEAR 4,232 + 1,778 (THE LOOP BREAKING)      |
-| PRIMARY CHRONICLE     : PART 1 — DAY 0: THE DIRECTOR WAKES          |
-| DECISION CORE         : FLOOR 1 CENTRAL SPIRE / DECISION SANCTUARY  |
-| CENTRAL ARCHITECTS    : DIRECTOR MAJIN & SECRETARY SEIYON           |
-+=====================================================================+
+{header_box}
 ```
 
 ## Day 0 — The Director Wakes
@@ -83,15 +321,7 @@ _Seiyon stares at him through the flickering air. Her projection does not blink.
 ### Gameplay — Day 0: Central Command Tactical Interface
 
 ```text
-+=====================================================================+
-|            REVERIE DIRECTORATE — CENTRAL COMMAND TERMINAL           |
-+---------------------------------------------------------------------+
-| FACILITY MANAGEMENT INTERFACE: DAY 0 INITIAL CALIBRATION            |
-| DIRECTOR: MAJIN // AI SECRETARY: SEIYON // STATUS: OPERATIONAL      |
-| ENERGY HARVEST TARGET : 0.050 TONS // CURRENT HARVEST: 0.000 TONS   |
-| SECRET BALLAST RESERVE : 47.300 TONS [HYDRAULIC CRYO-VAULTS]        |
-| ACTIVE CONTAINMENT    : CHAMBER 001 (BELL) & CHAMBER 005 (MOTHER)   |
-+=====================================================================+
+{terminal_box}
 ```
 
 The master tactical interface boots with an earth-shaking hydraulic hiss. Across the vertical axis of Floor 1 (Central Spire), pressurized Han-coolant surges through the pneumatic lines, circulating through the heat exchangers behind the observation galleries. 
@@ -113,48 +343,11 @@ Director Majin's tactical objectives:
 Director Majin opens the personnel terminal, reviewing the biometric dossiers, combat proficiencies, and equipment loadouts of the two operatives assigned to Floor 1:
 
 ```text
-+=====================================================================+
-|         OPERATIVE DOSSIER: AGENT PARK (VANGUARD SKIRMISHER)         |
-+---------------------------------------------------------------------+
-| Level / Promotion     : Level I (Plucky Recruit / Floor 1 Assigned) |
-| Resilience (HP)       : 30 / 30 [Grade I - Grudge Affinity Base]    |
-| Clarity (SP)          : 35 / 35 [Grade II - High Lament Stability]  |
-| Composure (Work)      : 28 / 28 [Grade I - Void Work Precision]     |
-| Resolve (Base Speed)  : Speed 5 [Action Point Allocation: 3 AP / Tu |
-| Equipped Weapon       : Directorate Stun Baton (Medium / Speed Delt |
-|                       : Range Band 1-2 (Nodes 1-4) | 1 AP | 2-4 Lam |
-| Equipped Suit         : Standard R.D. Tunic (Light / Speed Delta +1 |
-| Final Tactical Speed  : Speed 6 -> 3 AP Base + 1 Free Movement Poin |
-| Posture / Poise Meter : 45 / 45 [Regen: +8 Posture / Turn]          |
-| Parry / Protection    : Baton Deflect (Base Roll: 9 Power | 1.2x St |
-| Passive Trait (P1)    : Empathetic Buffer (+10% SP Recovery on Lame |
-| Panic Typology (P2)   : Despair (Triggers at SP <= -25; Speed drops |
-| Attendant Floor Aura  : Seiyon Synced Directive (+5% SP, +2 Composu |
-| Status                : FULLY COMPOSED / READY FOR DEPLOYMENT       |
-+=====================================================================+
+{park_dossier}
 ```
 
 ```text
-+=====================================================================+
-|         OPERATIVE DOSSIER: AGENT KIM (LINE WARDEN / ANCHOR)         |
-+---------------------------------------------------------------------+
-| Level / Promotion     : Level I (Stoic Enforcer / Floor 1 Assigned) |
-| Resilience (HP)       : 38 / 38 [Grade II - High Grudge Physical Bu |
-| Clarity (SP)          : 25 / 25 [Grade I - Standard Lament Toleranc |
-| Composure (Work)      : 30 / 30 [Grade I - Void Work Baseline]      |
-| Resolve (Base Speed)  : Speed 4 [Action Point Allocation: 2 AP Base |
-| Equipped Weapon       : Directorate Shock Maul (Heavy / Speed Delta |
-|                       : Range Band 1 (Nodes 1-2) | 2 AP | 4-7 Grudg |
-| Equipped Suit         : Heavy Enforcer Mail (Heavy / Speed Delta -1 |
-| Seiyon Floor Aura Mod : Attendant Tactical Offset (+2 Speed Compens |
-| Final Tactical Speed  : Speed 4 -> Combat Base 5 -> 3 AP / Turn     |
-| Posture / Poise Meter : 60 / 60 [Regen: +12 Posture / Turn]         |
-| Parry / Protection    : Directional Guard Shield (14 Direct Absorpt |
-| Passive Trait (P1)    : Weight Poise (+2 Clash Power at Nodes 1-2)  |
-| Panic Typology (P2)   : Berserk (Triggers at SP <= -30; Aggressive  |
-| Attendant Floor Aura  : Seiyon Synced Directive (+5% SP, +2 Composu |
-| Status                : HIGH PHYSICAL ENDURANCE / READY FOR DEPLOYM |
-+=====================================================================+
+{kim_dossier}
 ```
 
 ##### Tactical Roster Analysis & Equipment Synergies
@@ -240,16 +433,7 @@ Suddenly, an ominous hydraulic whine shudders through the bulkheads. The floor's
 Across Sector 1, lighting shifts from tranquil cobalt to flashing crimson. A harsh warning siren blares through the intercoms:
 
 ```text
-+=====================================================================+
-|          EMERGENCY ALERT: ACOUSTIC STRAIN MELTDOWN LEVEL I          |
-+---------------------------------------------------------------------+
-| SECTOR ALERT          : HYDRAULIC RESONANCE SPIKE DETECTED          |
-| AFFECTED CHAMBER      : SE-C-IIIg-001 (THE ORPHANED BELL)           |
-| ACOUSTIC OVERLOAD     : STRAIN METER 3/3 REACHED [LEVEL I THRESHOLD |
-| BREACH BLEED TIMER    : 45.0 SECONDS REMAINING UNTIL ENVELOPE RUPTU |
-| TACTICAL MANDATE      : COMPLETE IMMEDIATE FLEREHAN WORK SESSION    |
-| CONSEQUENCE OF DELAY  : 110dB DEATH TOLL; RUPTURE OF CLERK EARDRUMS |
-+=====================================================================+
+{meltdown_box}
 ```
 
 A glowing red countdown timer appears above Chamber 001: **45.0 SECONDS UNTIL CONTAINMENT ENVELOPE FAILURE**. If that clock strikes zero, the Orphaned Bell will rupture its pneumatic clamps, unleashing an unshielded 110-decibel sonic resonance wave that will deafen every personnel member on Floor 1 and trigger catastrophic chain panics!
@@ -270,19 +454,7 @@ Cumulative energy reaches **0.048 / 0.050 tons**—just 0.002 tons shy of the da
 Before the floor sirens can quiet down, the primary illumination shifts to an eerie, spectral amber. The emergency klaxons sound a secondary, double-pulsed alarm:
 
 ```text
-+=====================================================================+
-|             TACTICAL DOSSIER: FIRST WATCH (DAWN) ORDEAL             |
-+---------------------------------------------------------------------+
-| DESIGNATION           : THE VOICE (FIRST WATCH OF DAWN)             |
-| CLASSIFICATION        : PALE (CYAN) FIRST WATCH SPECTRAL ENTITY     |
-| INTRUSION COORDINATES : FLOOR 1 CORRIDOR WEST (NODE 03 ENTRY)       |
-| HOSTILE PARAMETERS    : HP 140/140 | Posture 80/80 | Speed 4 (2 AP) |
-| ATTACK AFFINITY       : Pale (% Max HP Decay / Cognitive Vibration) |
-| VULNERABILITY         : Lament (Acoustic Echo / Empathetic Disrupti |
-| SPECIAL THREAT        : Emits 15m Catatonia Aura upon manifestation |
-| CIVILIAN STATUS       : 1x Level I Clerk Panicked at Node 04        |
-| SUPPRESSION ORDERS    : DISPATCH AGENTS KIM & PARK IMMEDIATELY      |
-+=====================================================================+
+{ordeal_box}
 ```
 
 A towering, semi-translucent cyan phantom manifests at Node 03 of Floor 1's western transit corridor. It possesses no face—only a circular resonator disc hovering above a floating shroud of crystallized soundwaves. It chants pre-human syllables that vibrate the marrow of anyone who listens.
@@ -300,25 +472,7 @@ Director Majin seizes the tactical command headset: *"Kim! Park! Western corrido
 The tactical interface expands into the full 10-Node Stage Matrix:
 
 ```text
-+=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 01        |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — FLOOR 1 WEST REINFORCED CORRIDOR]           |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [KIM]   [VOICE] [CLERK] [PARK]                  [SEIYON] [M |
-+---------------------------------------------------------------------+
-| SPATIAL RANGES & POSITIONS:                                         |
-| - Node 02: Agent Kim (Line Anchor / Range Band 1 Point-Blank)       |
-| - Node 03: The Voice (Spectral Hostile / Intrusion Epicenter)       |
-| - Node 04: Panicked Clerk (Void Catatonia Trance / Range Band 2)    |
-| - Node 05: Agent Park (Vanguard Skirmisher / Range Band 3)          |
-| - Node 09-10: Seiyon Holographic Terminal & Director Majin Console  |
-+---------------------------------------------------------------------+
-| OPERATIVE STATUS & RESOURCE POOLS:                                  |
-| - Agent Kim   : Spd 5 -> 3 AP | HP 38/38 | SP 25/25 | Posture 60/60 |
-| - Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45 |
-| - The Voice   : Spd 4 -> 2 AP | HP 140/140 | Sorrow 50% | Posture 8 |
-+=====================================================================+
+{hud_t01}
 ```
 
 ##### Turn 01 Action Resolution Log (Spatial Movement & Clash Initiation)
@@ -344,22 +498,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 ---
 
 ```text
-+=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02        |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — POST-DISPERSION POSITIONS]                  |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [KIM]   [VOICE] [PARK]                          [CLERK]  [M |
-+---------------------------------------------------------------------+
-| - Node 02: Agent Kim (Stationary Anchor / Shield Raised)            |
-| - Node 03: The Voice (Charging Choral Wave / Posture 64/80)         |
-| - Node 04: Agent Park (Range Band 2 Line / Lament Baton Readied)    |
-| - Node 09: Clerk safely evacuated to Central Sanctuary              |
-+---------------------------------------------------------------------+
-| - Agent Kim   : Spd 5 -> 3 AP | HP 38/38 | SP 25/25 | Posture 60/60 |
-| - Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45 |
-| - The Voice   : Spd 4 -> 2 AP | HP 112/140 | Posture 64/80 (Stagger |
-+=====================================================================+
+{hud_t02}
 ```
 
 ##### Turn 02 Action Resolution Log (Parry Deflection & Range Advantage)
@@ -386,21 +525,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 ---
 
 ```text
-+=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03        |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — POSTURE BREAK STAGGER LEVEL 1]              |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [KIM]   [VOICE] [PARK]                                   [M |
-+---------------------------------------------------------------------+
-| - Node 02: Agent Kim (Pressing Forward / Two-Handed Gripping)       |
-| - Node 03: The Voice (STAGGER LEVEL 1 ACTIVE / 1.5x DAMAGE TAKEN)   |
-| - Node 04: Agent Park (Momentum Surge Primed / +2 Speed Next Turn)  |
-+---------------------------------------------------------------------+
-| - Agent Kim   : Spd 5 -> 3 AP | HP 38/38 | SP 25/25 | Posture 52/60 |
-| - Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45 |
-| - The Voice   : Spd 0 -> 0 AP | HP 74/140  | Posture 32/80 [STAGGER |
-+=====================================================================+
+{hud_t03}
 ```
 
 ##### Turn 03 Action Resolution Log (Exploiting Posture Break & Momentum Surge)
@@ -424,21 +549,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 ---
 
 ```text
-+=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04        |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — DESPERATION SHOCKWAVE COUNTER-SURGE]        |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [KIM]   [VOICE] [PARK]                                   [M |
-+---------------------------------------------------------------------+
-| - Node 02: Agent Kim (Locking Guard Aegis / Intercepting Pulse)     |
-| - Node 03: The Voice (Recovered / Channeling Soliloquy Scream)      |
-| - Node 04: Agent Park (Sheltered behind Kim's Reinforced Mantlet)   |
-+---------------------------------------------------------------------+
-| - Agent Kim   : Spd 5 -> 3 AP | HP 34/38 | SP 23/25 | Posture 38/60 |
-| - Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 30/30 | SP 35/35 | Postu |
-| - The Voice   : Spd 4 -> 2 AP | HP 52/140  | Posture 24/80 [UNSTABL |
-+=====================================================================+
+{hud_t04}
 ```
 
 ##### Turn 04 Action Resolution Log (Desperation Shockwave & Guard Interception)
@@ -458,22 +569,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 ---
 
 ```text
-+=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05        |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — TERMINAL STAGGER THRESHOLD 2]               |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [KIM]   [VOICE]                                          [M |
-|                 [PARK]                                              |
-+---------------------------------------------------------------------+
-| - Node 02: Agent Kim (Flanking Left Mandible / Shock Maul Primed)   |
-| - Node 03: The Voice (TERMINAL STAGGER LEVEL 2 / DEFENSE NULLIFIED) |
-| - Node 03: Agent Park (Point-Blank Band 1 Ingress / Resonance Rod)  |
-+---------------------------------------------------------------------+
-| - Agent Kim   : Spd 5 -> 3 AP | HP 34/38 | SP 23/25 | Posture 38/60 |
-| - Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45 |
-| - The Voice   : Spd 0 -> 0 AP | HP 22/140  | Posture 0/80 [COLLAPSE |
-+=====================================================================+
+{hud_t05}
 ```
 
 ##### Turn 05 Action Resolution Log (Terminal Stagger Induction)
@@ -487,21 +583,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 ---
 
 ```text
-+=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06        |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — CLIMAX EXECUTION & PURIFICATION]            |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [KIM]   [DUST]  [PARK]                                   [M |
-+---------------------------------------------------------------------+
-| - Node 02: Agent Kim (Recovering Stance / Grounding Kinetic Energy) |
-| - Node 03: The Voice (Shattered / Crystallizing into Cyan Mist)     |
-| - Node 04: Agent Park (Venting Heated Capacitor / Siphoning RHR)    |
-+---------------------------------------------------------------------+
-| - Agent Kim   : Spd 5 -> 3 AP | HP 34/38 | SP 23/25 | Posture 48/60 |
-| - Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45 |
-| - The Voice   : HP 0/140 [DISSOLVED] | +0.005 TONS REFINED HAN SIPH |
-+=====================================================================+
+{hud_t06}
 ```
 
 ##### Turn 06 Action Resolution Log (Climax Execution & Siphon Discharge)
@@ -514,15 +596,7 @@ The tactical interface expands into the full 10-Node Stage Matrix:
   * Floor 1's pneumatic collection flues activate with a roar, siphoning the released energy directly into the primary conduits: **+0.005 tons of pure refined Han harvested**!
 
 ```text
-+=====================================================================+
-|          COMBAT PHASE 01 RESOLUTION (PHASE-END MACRO-TICK)          |
-+---------------------------------------------------------------------+
-| 1. ENVIRONMENTAL CHECK : Meltdown Level I cleared across Sector 1.  |
-| 2. STATUS EQUILIBRIUM  : Clerk sanity stabilized; Kim & Park uninju |
-| 3. CONTAINMENT AUDIT   : First Watch Ordeal suppressed in 6 turns.  |
-| 4. HAN REAGENT YIELD   : +0.005 Tons crystallized Han harvested.    |
-| 5. OVERALL OUTCOME     : FLAWLESS TACTICAL SUPPRESSION (GRADE S)    |
-+=====================================================================+
+{phase_end_box}
 ```
 
 With the First Watch Ordeal cleanly eliminated and the panicked clerk resting safely in the medical ward, the daily energy counter confirms: **0.053 / 0.050 tons**! Target quota achieved!
@@ -536,23 +610,7 @@ Secretary Seiyon's voice echoes across the intercom: `Daily Harvest Quota Fulfil
 Director Majin reviews the automated audit report generated by the Central Command evaluation matrix:
 
 ```text
-+=====================================================================+
-|               END-OF-DAY PERFORMANCE EVALUATION: DAY 0              |
-+---------------------------------------------------------------------+
-| METRIC                 | TARGET QUOTA   | REALIZED PERFORMANCE      |
-| -----------------------+----------------+---------------------      |
-| Han Energy Harvested   | 0.050 Tons     | 0.053 Tons [MET]          |
-| Containment Breaches   | 0 Breaches Max | 0 Breaches [PERFECT]      |
-| Personnel Casualties   | 0 Fatalities   | 0 Fatalities [CLEARED]    |
-| Meltdowns Cleared      | 1/1 Level I    | 100% Rate [RESOLVED]      |
-| Ordeals Suppressed     | 1/1 First Watch| 100% Rate [SUPPRESSED]    |
-| -----------------------+----------------+---------------------      |
-| SHIFT PERFORMANCE GRADE: GRADE S (OPTIMAL CONVERGENCE PACE)         |
-| REAGENTS ACCUMULATED   : +18 RHR (REFINED HAN REAGENTS)             |
-| OPERATIVE ADVANCEMENT  :                                            |
-| - Agent Park : +4 Clarity, +2 Composure (Promoted to Grade II)      |
-| - Agent Kim  : +5 Resilience, +2 Resolve (Promoted to Grade II)     |
-+=====================================================================+
+{evaluation_box}
 ```
 
 Directorate Mandate 01 is officially logged as `[COMPLETED]`. Both operatives have distinguished themselves, earning promotions from Grade I recruits to Grade II Junior Sentinels, alongside meaningful attribute increases that bolster their survivability for upcoming shifts.
@@ -564,21 +622,7 @@ Directorate Mandate 01 is officially logged as `[COMPLETED]`. Both operatives ha
 In the subterranean heart of Floor 3, the ancient hydraulic extraction crane descends into the black waters of the Extraction Well, retrieving three resonant emotional codices:
 
 ```text
-+=====================================================================+
-|            EXTRACTION WELL ARCHIVE: SELECT NEXT COMPANION           |
-+---------------------------------------------------------------------+
-| CHOICE ALPHA [SE-C-IIIg-033]:                                       |
-| 'It watched the forest burn, and spread its wings so no cinder      |
-| could escape.'                                                      |
-+---------------------------------------------------------------------+
-| CHOICE BETA  [SE-C-IIIb-061]:                                       |
-| 'The contract was signed in blood that never dried, charging        |
-| interest on breath.'                                                |
-+---------------------------------------------------------------------+
-| CHOICE GAMMA [SE-C-IIIb-014]:                                       |
-| 'It eats what you owe, but leaves the hollow where your heart       |
-| used to beat.'                                                      |
-+=====================================================================+
+{extraction_box}
 ```
 
 ##### Director Majin's Strategic Assessment & Authorization
@@ -595,19 +639,7 @@ Director Majin inputs his biometric cipher: **CONTAINMENT AUTHORIZATION LOCKED: 
 Observation points accumulated from Chamber 001's resonance sessions are transferred into Floor 3's extraction crucible:
 
 ```text
-+=====================================================================+
-|                 M.A.W. SYNTHESIS FORGING LOG — DAY 0                |
-+---------------------------------------------------------------------+
-| FORGE SPECIFICATION    | SLOT / PROPERTIES / PARAMETERS             |
-| -----------------------+------------------------------------------- |
-| Lament Requiem         | Weapon: 4-7 Lament (White / Medium Weight) |
-|                        | Speed Delta 0 | 1 AP | Range Band 1-2      |
-| Lament Shroud          | Suit: Light Armor (Speed Delta +1)         |
-|                        | Resist: 0.8 Grudge / 0.7 Lament / 1.2 Void |
-| Lament Edge Gift       | Eye Slot: +4 SP, +5 Work Success Resonance |
-| -----------------------+------------------------------------------- |
-| EQUIPMENT ALLOCATION   | BESTOWED UPON AGENT PARK (VANGUARD SPECIAL |
-+=====================================================================+
+{forge_box}
 ```
 
 Agent Park is equipped with the *Lament Shroud* and *Lament Requiem*. His mobility and psychic protection increase significantly, elevating him from a fragile recruit into a hardened containment specialist.
@@ -638,3 +670,12 @@ Forty-seven point three tons of petrified sorrow sleep beneath the ice.
 Majin closes the ledger. The first day of the final cycle has ended.
 
 ---
+"""
+    return content
+
+if __name__ == "__main__":
+    content = build_part_1()
+    target_path = "SOMNARAK-WORLD/The_Absolvohan/Part_1_Day_0_The_Director_Wakes.md"
+    with open(target_path, "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"Successfully wrote expanded Part 1 to {target_path} ({len(content.splitlines())} lines)")
