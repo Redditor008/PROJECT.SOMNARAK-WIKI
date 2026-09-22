@@ -75,7 +75,9 @@ The repository root houses the two official primary cartographic and architectur
 - `SOMNARAK_ORDEALS_FRAMEWORK.md` (301 lines): Tactical framework of the 5-color Ordeals and 4 watches. Integrates the Tripartite Crisis Taxonomy (Ordeals vs Entity Breaches vs Echo-Core Suppressions) and Somnarak Potency Grades (Minor-α, Moderate-β, Major-γ, Catastrophic-δ).
 - `SOMNARAK_TABOO_RESONANCE.md` (345 lines): Acoustic physics of the Seven Taboos and resonant punishment dynamics.
 
-### Group 4: Geography, Outskirts & Factions
+### Group 4: Geography, Outskirts, Ecology & Factions
+- `MUGENHAN_ECOLOGY_OVERVIEW.md`: Executive guide to planetary biology, tripartite taxonomy (Mundane, Sorrow Beasts 80/20, Mortal SEs capped at β), and symmetrical flora counterparts.
+- `MUGENHAN_DEEP_ECOLOGY_COMPENDIUM.md`: Definitive encyclopedic treatise on subterranean biology, biological M.A.W. extractions, anatomical autopsies, and seven-strata biodiversity webs.
 - `SOMNARAK_THE_DESOLATE.md` (398 lines): The Outskirts beyond the city perimeter: the Scar, nomads, toxic Han-dust storms, and Kael's Kingdom.
 - `SOMNARAK_UNDERWORLD.md` (197 lines): The subterranean slum network ("The Raw"): Menders, Frays, Memory Washers, and Veil Merchants.
 - `SOMNARAK_UCD.md` (3,002 lines): Underworld Cleanup Descend master index; cross-referencing company doctrine and pacification sweeps.

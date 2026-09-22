@@ -84,6 +84,11 @@ SOMNARAK-WORLD/
 │   ├── HT-V-HC-001                     # The Trinity of Dawn (새벽의 삼위일체)
 │   └── HT-V-HH-001                     # The Hand of Hope (희망의 손)
 │
+├── Mugenhan_Ecology/                   # Subterranean & Terrestrial Planetary Biosphere
+│   ├── README.md                       # Tripartite taxonomy and strata ecological guide
+│   ├── MUGENHAN_ECOLOGY_OVERVIEW.md    # Executive guide to Mundane, Sorrow Beasts, and SEs
+│   └── MUGENHAN_DEEP_ECOLOGY_COMPENDIUM.md # Encyclopedic compendium of fauna and flora
+│
 └── Unknown_Entities/                   # 8 Unclassified Maw Anomalies & Loop Chronicles
     ├── README.md                       # Deep Maw anomalous file directory
     ├── Book_of_Regressor_Log_Dramaturgy.md # The Loop chronicler's margin logs
