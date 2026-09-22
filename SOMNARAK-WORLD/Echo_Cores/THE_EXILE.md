@@ -629,7 +629,7 @@ The method is vulnerable to:
 
 - distance;
 - storm interference;
-- Gate distortion;
+- Gate disruption;
 - missing context;
 - Cycle-boundary repetition;
 - receiver availability.

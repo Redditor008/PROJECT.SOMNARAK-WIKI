@@ -191,7 +191,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Attack Pattern:** Channeled Ray / Prismatic Needles
 **Target Coverage:** Instantaneous line-of-sight ray striking 1 designated target (can pierce through 1 additional target directly behind)
 **Falloff Rule:** 100% direct target → 60% pierced target; completely ignores physical armor.
-**Damage Application:** Direct Void trauma to Soul (identity, memory, sense of self); dissolves ungrounded ego buffers.
+**Damage Application:** Direct Void trauma to Soul (identity, memory, sense of self); dissolves ungrounded identity buffers.
 
 **Ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Read the Account channels the entity's void signature to strike targets downfield at the speed of light.
 

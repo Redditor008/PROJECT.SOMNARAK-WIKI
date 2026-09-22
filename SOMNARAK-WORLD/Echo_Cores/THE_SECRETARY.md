@@ -97,7 +97,7 @@ She often begins a report with a composed expression and lets concern show as th
 
 Seiyon's physical Effigy is her main presence in the Hand of Change, but she can also appear through remote projections. The projections use the same face, clothing, voice, and natural movement. They do not normally flicker or become transparent. A projection cannot touch anything, while the physical Effigy can; this is usually the simplest way to tell them apart.
 
-The holographic face seen at the beginning of _Absolvohan_ is one of these projections. Its brief flicker after Majin asks how she is comes from an unexpected emotional strain and is not part of her normal appearance. Similar distortions may occur during network failure, Dream interference, or inside the Memory Archive, where her outline may duplicate or overlap with the Original's memories.
+The holographic face seen at the beginning of _Absolvohan_ is one of these projections. Its brief flicker after Majin asks how she is comes from an unexpected emotional strain and is not part of her normal appearance. Similar disruptions may occur during network failure, Dream interference, or inside the Memory Archive, where her outline may duplicate or overlap with the Original's memories.
 
 Seiyon has the same face, voice, and apparent age as the Original. Their appearance is distinguished mainly by clothing and manner. The Original is associated with laboratory whites and the fatigue of a researcher beneath the Alpha Tree. Seiyon is associated with the Deep Blue and Pale White of the Secretary Station and the steady attention of someone monitoring the entire facility.
 
@@ -1240,7 +1240,7 @@ The unstated reason is that a construct who awoke from a human sorrow fragment, 
 
 Seiyon's physical Echo Effigy is fully functional for ordinary movement, touch, object handling, and direct presence. Her artificial origin does not require stiff motion, imperfect facial behavior, exposed mechanisms, or routine projection failure. Stable embodiment remains completely human in appearance while still being non-biological in construction and distributed in consciousness.
 
-Any visible distortion is limited to directly relevant overload, Dream interference, Archive imagery, or system compromise. Nonhuman identity is expressed through embodiment, distribution, and Subject-Dream function rather than permanent malfunction.
+Any visible disruption is limited to directly relevant overload, Dream interference, Archive imagery, or system compromise. Nonhuman identity is expressed through embodiment, distribution, and Subject-Dream function rather than permanent malfunction.
 
 ### Effigy Classification
 

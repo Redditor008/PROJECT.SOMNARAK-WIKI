@@ -2199,7 +2199,7 @@ The Reverie Directorate's facility is built in the shape of a **hand** — the p
 
 **Structure:**
 - **The Palm** (Floors 1-3) — The main facility. Common areas, administration, core operations.
-- **The Fingers** (Floors 4-7) — Four individual department floors extending downward.
+- **The Five Pylons** (Floors 4-8) — Five individual department shafts extending downward into the bedrock.
 - **The Wing** (Floor 8) — Attached to the right side of Floor 3. A separate section for the Gate Watch.
 
 ```
@@ -2222,7 +2222,7 @@ The Reverie Directorate's facility is built in the shape of a **hand** — the p
         ║Insight║Border║Deep ║Shadow║Gate ║
         ║Forge ║Watch ║Vault║Corps ║Watch║
         ╚═════╩═════╩═════╩═════╩═════╝
-              THE FINGERS
+             THE FIVE PYLONS
 ```
 
 ---
@@ -2281,9 +2281,9 @@ The Reverie Directorate's facility is built in the shape of a **hand** — the p
 
 ---
 
-### The Fingers (Floors 4-8)
+### The Five Pylons (Floors 4-8)
 
-Each Finger is a self-contained department — extending downward into the depths.
+Each Pylon is a self-contained department — extending downward into the depths.
 
 ---
 
@@ -3197,7 +3197,7 @@ The Shadow healed citizens until it began dying. The R.D. intervened — pulling
 
 ---
 
-## Advanced Facility Systems & Operational Protocols (Lobotomy-Class Mechanics Expanded)
+## Advanced Facility Systems & Operational Protocols (Enterprise Containment Mechanics Expanded)
 
 > *"Containment is not merely locking a door. It is an active thermodynamic calculus of human grief, mechanical stress, and spiritual resonance."*
 
@@ -3332,7 +3332,7 @@ When multiple Sovereign or Entity breaches threaten total structural containment
 
 > *"An inert object can hold as much grief as a walking beast. It does not cry, it does not bleed, but when taken up, it demands a price in blood, memory, or time."*
 
-In Lobotomy Corporation, non-living containment units are designated as "Tool Abnormalities". In Project Somnarak, these entities are **NOT** designated under a fabricated "Class-T" (in canonical SECC syntax, **T** denotes **Time Manifestation**, while **O** is Object, **P** is Place, and **H** is Hazard). Instead, they are canonically classified as **Relic-Entities (유물형 슬픔 개체)**: manifested sorrow artifacts, architectural relics, and temporal anomalies categorized under three operational **Tool Classes**:
+In advanced sorrow physics, non-living containment apparatuses are designated as **Relic-Entities (유물형 슬픔 개체)**: manifested sorrow artifacts, architectural relics, and temporal anomalies categorized under three operational **Tool Classes** (in canonical SECC syntax, **O** is Object, **P** is Place, **H** is Hazard, and **T** is Time Manifestation):
 
 ```text
 +==============================================+

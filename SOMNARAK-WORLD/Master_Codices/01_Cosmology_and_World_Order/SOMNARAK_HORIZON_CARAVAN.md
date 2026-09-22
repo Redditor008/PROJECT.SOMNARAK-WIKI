@@ -12,7 +12,7 @@
 **Company:** The Horizon Caravan (지평선 대 — Jipyeongseon Dae)
 **Protagonist:** Kael (카엘) — the Drift King
 **Vehicle:** The Drift Throne — a mobile platform that follows Han-flow lines
-**Game Style:** Limbus Company — Bus Travel, Urban Threat Levels, Identity Variants
+**Game Style:** Expedition Tactical RPG — Mobile Throne Transit, Regional Threat Scales, Identity Variant Shifts
 
 The Absolvohan has activated. The Hand of Hope has opened. 15% of sorrow has transformed.
 
@@ -237,14 +237,14 @@ The Caravan has connected two cities. The third remains isolated. The journey co
 
 ---
 
-## VII. PM Elements Used
+## VII. Core Structural Dynamics & Travel Physics
 
-| PM Game | Element | How Used |
-|---------|---------|----------|
-| **Limbus** | Bus Mechanic | The Drift Throne — mobile base |
-| **Limbus** | Urban Threat Levels | Danger increases near cities |
-| **LoR** | District Exploration | Traveling between cities |
-| **LC** | Facility Management | Managing the Caravan's supplies |
+| Engine Domain | Mechanical Element | Institutional Implementation |
+|---|---|---|
+| **Mobile Transit** | Nomadic Base Engine | The Drift Throne — self-sustaining all-terrain command crawler |
+| **Danger Gradient**| Regional Threat Scales | Atmospheric Han concentration increases in proximity to ruined city outskirts |
+| **Inter-Zone Trek**| District Traversal | Navigating subterranean tunnels and fractured overland trade routes |
+| **Resource Economy**| Expedition Supply Matrix | Managing rations, Han battery filters, and caravan structural maintenance |
 
 ---
 

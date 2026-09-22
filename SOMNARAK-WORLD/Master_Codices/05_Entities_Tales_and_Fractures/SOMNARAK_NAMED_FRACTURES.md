@@ -51,7 +51,7 @@ A crucial diagnostic distinction maintained by Directorate psychiatric evaluator
 | Diagnostic Parameter | Citizen / Agent Irreversible Fracture (비가역적 균열) | Echo-Core Cycle Crisis (핵 위기 — Haek Wigi) |
 |---|---|---|
 | **Subject of Collapse** | Civilian, municipal worker, or frontline field agent | Reconstructed Department Head (Echo-Cores 3 through 8) |
-| **Soul & Ego State** | Complete ontological dissolution; human ego erased | Retains core human soul; suffers severe trauma saturation |
+| **Soul & Identity State** | Complete ontological dissolution; human identity erased | Retains core human soul; suffers severe trauma saturation |
 | **Physical Transformation** | Biological tissue turns to brittle mineral Han-crystal | Android/Cyborg chassis overclocks sorrow conduits; flesh intact |
 | **Reversibility** | **Irreversible (비가역적)** — no documented return | **Reversible (가역적)** — suppressible into full Realization |
 | **Resulting Entity** | Spawns a permanent Sorrow Entity (SECC code) | Manifests a departmental combat gauntlet / martial trial |

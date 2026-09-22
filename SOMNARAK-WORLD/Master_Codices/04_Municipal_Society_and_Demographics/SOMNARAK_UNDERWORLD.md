@@ -54,7 +54,7 @@ Above Rank 1 are the **Marks** — Menders so legendary they are known by a sing
 
 **Mender Organizations:**
 
-Unlike the standard Mender Associations, Menders are mostly **independent**. But some loose organizations exist:
+Unlike formal municipal Restoration Guilds, Menders are mostly **independent**. But some loose organizations exist:
 
 | Organization | Character | Notes |
 |--------------|-----------|-------|

@@ -48,7 +48,7 @@ It can:
 - Detect movement, Han surges, and hostile emotional fields.
 - Create a quiet warning felt only by designated allies.
 - Guard a person who is unconscious or unable to defend themselves.
-- Mark a safe perimeter through darkness or Veil distortion.
+- Mark a safe perimeter through darkness or Veil disruption.
 
 It cannot prevent every attack, replace a full guard team, or make Midnight remain awake indefinitely.
 
@@ -58,7 +58,7 @@ It cannot prevent every attack, replace a full guard team, or make Midnight rema
 |---|---|---|
 | **Night Watch** | The Vigil divides into perimeter lights. | Monitors a designated area while the Bearer rests. |
 | **Quiet Alarm** | One light touches a sleeper’s forehead. | Wakes only the person needed to respond. |
-| **Shadow Mark** | The Vigil outlines a threat in dim gold. | Reveals movement hidden by darkness or Veil distortion. |
+| **Shadow Mark** | The Vigil outlines a threat in dim gold. | Reveals movement hidden by darkness or Veil disruption. |
 | **Shared Watch** | It places one light near each Hope Bearer. | Distributes awareness so no single person carries the full watch. |
 | **Last Watch** | All lights gather around one endangered person. | Delays an attack long enough for help to arrive. |
 

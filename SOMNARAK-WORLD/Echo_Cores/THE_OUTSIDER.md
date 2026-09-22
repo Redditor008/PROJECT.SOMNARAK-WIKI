@@ -884,7 +884,7 @@ The disruption is not absolute negation. It interferes with Han-assisted movemen
 
 ### Risk and Failure State
 
-- **Overload:** Repeated use causes false pressure in Ishall's palms, depth distortion, and delayed hand-position feedback.
+- **Overload:** Repeated use causes false pressure in Ishall's palms, depth disruption, and delayed hand-position feedback.
 - **Misuse:** Incorrect placement can trap allies inside the damaging field or cut Floor 7 off from its own Han-wave support.
 - **Corruption / Drift:** No M.A.W. Corrosion is assigned. The artifacts' unknown internal logic remains a monitoring concern rather than evidence of a personality or infection.
 - **Emergency Shutdown:** Breaking Ishall's concentration or severing the signature bond drops both artifacts inert. A forced shutdown ends Closed Ground immediately.
@@ -965,7 +965,7 @@ Under prolonged cycle exhaustion, the Directorate's administrative overrides col
 Neutralizing the enemy chassis shatters her motor controls, severing the delicate neural link holding *Unanswered*. With their bearer incapacitated, the paired Before-Time Artifact Hands detach into an autonomous primordial state, awakening their closed ancient Han lattice.
 
 #### Encounter Mechanics
-- **Element Signature:** Pure **Void (Pale White)** area-denial and spatial distortion.
+- **Element Signature:** Pure **Void (Pale White)** area-denial and spatial disruption.
 - **Omnidirectional Closed Ground:** The two oversized relic hands fly to opposite structural weight-bearing columns of Floor 7, turning their Pale White palms inward. The entire encounter floor becomes an active *Closed Ground* field:
   - All Han-assisted movement and remote Han-wave communications are completely suppressed.
   - Ambient gravity inverts intermittently; agents suffer continuous Void erosion ticks across all zones.

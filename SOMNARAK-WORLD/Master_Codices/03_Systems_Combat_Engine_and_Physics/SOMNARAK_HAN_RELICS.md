@@ -264,7 +264,7 @@ Wielding or storing Han Relics involves severe operational risks:
 
 1. **Psychological Erosion:** Relics radiate an unbroken field of ancient emotional memory. Personnel exposed without high Clarity or Composure experience progressive sensory disorientation, insomnia, and hallucinatory déjà vu.
 2. **Crystallization Descent:** Sustained physical contact with Class III or IV relics can trigger involuntary crystallization, converting biological tissue into brittle Han-crystal.
-3. **Harmonic Cascades:** Multiple relics stored in close proximity can synchronize their resonance frequencies, causing localized reality distortions, gravity inversions, and spontaneous Sorrow Entity manifestations.
+3. **Harmonic Cascades:** Multiple relics stored in close proximity can synchronize their resonance frequencies, causing localized reality disruptions, gravity inversions, and spontaneous Sorrow Entity manifestations.
 
 ---
 

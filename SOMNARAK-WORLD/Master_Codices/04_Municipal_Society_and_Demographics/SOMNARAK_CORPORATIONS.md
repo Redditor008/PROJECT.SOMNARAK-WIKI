@@ -108,7 +108,7 @@ The **Somnarak Exploration Decreed (SED)** is Somnarak's frontier reconnaissance
 **Expedition Protocol:**
 1. **Descent** — ingress into unexplored subterranean tunnels and abyss rifts
 2. **Reconnaissance** — survey geological topology, locate forgotten ruins, map hazards
-3. **Contact** — navigate encounters with wild entities and hostile environmental distortions
+3. **Contact** — navigate encounters with wild entities and hostile environmental disruptions
 4. **Excavation** — recover ancient artifacts, memory crystals, and historical truth
 5. **Extraction** — navigate back to established outposts with survey logs
 6. **Integration** — correlate findings with Directory archives to plan further descents

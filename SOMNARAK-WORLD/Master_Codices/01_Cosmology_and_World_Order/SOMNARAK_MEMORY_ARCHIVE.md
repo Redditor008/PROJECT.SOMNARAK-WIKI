@@ -11,7 +11,7 @@
 **Setting:** The Memory Archive — a physical building that connects to the Dream Realm
 **Company:** The Memory Archive (기억의 저장소 — Gieok-ui Jeojangso)
 **Protagonist:** Seiyon (세이연) — the R.D.'s AI Secretary
-**Game Style:** Library of Ruina — Reception Battles, Floor Realizations, Key Pages
+**Game Style:** Mnemonic Combat Framework — Guest Confrontations, Floor Realizations, Mnemonic Core Transmutation
 
 The Absolvohan has activated. The Hand of Hope has opened. 15% of sorrow has transformed into hope.
 
@@ -237,16 +237,16 @@ The Promise is fulfilled.
 
 ---
 
-## VIII. PM Elements Used
+## VIII. Core Structural Dynamics & Mnemonic Physics
 
-| PM Game | Element | How Used |
-|---------|---------|----------|
-| **LoR** | Reception Battles | Combat encounters with the Archive's preserved |
-| **LoR** | Floor Realizations | Character exploration through combat |
-| **LoR** | Key Pages | Character progression through battle |
-| **LoR** | The Library | The Memory Archive — consumes and preserves |
-| **LoR** | Urban Threat Levels | Archive floor danger ratings |
-| **LC** | Memory Repository | The Archive's preservation system |
+| Engine Domain | Mechanical Element | Institutional Implementation |
+|---|---|---|
+| **Mnemonic Clashes** | Reception Confrontations | Tactical combat gauntlets confronting the Archive's preserved emotional memories |
+| **Psychic Trials** | Floor Realizations | Navigating the suppressed trauma of Floor Leads to transmute despair into Hope |
+| **Soul Formations** | Key Core Transmutation | Operative progression and stat scaling through crystallized mnemonic pages |
+| **Mnemonic Domain** | The Grand Archive | 6,000-year-old subterranean complex consuming identities and preserving history |
+| **Stratum Danger** | Floor Threat Metrics | Increasing metaphysical danger across the vertical floors of the Archive |
+| **Core Preservation**| Memory Repository | The Alpha Tree deep vault safeguarding cognitive records against cyclical rewinds |
 
 ---
 
