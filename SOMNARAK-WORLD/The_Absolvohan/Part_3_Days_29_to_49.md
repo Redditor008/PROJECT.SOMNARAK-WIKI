@@ -188,22 +188,156 @@ Director Majin establishes real-time GBS tactical coordinates:
     * Attack is unopposed! Deals 36 Lament damage directly through the acoustic crack, eroding the monolith's composure.
   * Agent Kim delivers a 3-round burst from Node 6, adding 24 piercing damage.
 
+
 ```text
 +=====================================================================+
-|         TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)          |
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02        |
 +---------------------------------------------------------------------+
-| - Turn 02: Mellda holds N02; Park deals 38 Lament damage; Monolith  |
-| 60% Stagger.                                                        |
-| - Turn 03: Posture broken; all attacks deal 2.0x direct damage; HP  |
-| falls to 125.                                                       |
-| - Turn 04: Monolith recovers; charges massive shockwave [Tectonic   |
-| Toll].                                                              |
-| - Turn 05: Kim at N06 uses 2 AP to fire Stasis Disruption,          |
-| canceling skill.                                                    |
-| - Turn 06: Park unleashes Requiem Climax; Terminal Stagger shatters |
-| monolith.                                                           |
+| [STAGE NODES 01 TO 10 — FLOOR 2 PRIMARY JUNCTION CORRIDOR]          |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [MONOLITH][MELLDA]      [PARK]          [KIM]                   [DE |
++---------------------------------------------------------------------+
+| - Node 01: Grieving Monolith (Compressive Basalt Core / Posture 112 |
+| - Node 02: Border Lead Mellda (Point-Blank Band 1 / Mantlet Locked) |
+| - Node 04: Agent Park (Range Band 2 / Resonant Requiem Firing)      |
+| - Node 06: Agent Kim (Range Band 3 / Concentrated Carbine Aimed)    |
+| - Node 10: Containment Lead Dekan (Observation Catwalk / Band 5)    |
++---------------------------------------------------------------------+
+| - Mellda   : Spd 5 -> 3 AP | HP 180/180 | SP +30 | Posture 85/85    |
+| - Agent Park: Spd 6 -> 3 AP | HP 110/110 | SP +25 | Posture 55/55   |
+| - Agent Kim : Spd 5 -> 3 AP | HP 105/105 | SP +20 | Posture 65/65   |
+| - Monolith : Spd 3 -> 2 AP | HP 258/320  | Posture 112/160 (Stagger |
 +=====================================================================+
 ```
+
+###### Turn 02 Action Resolution Log (Range Advantage & Stagger Build)
+- **Coordinated Tripartite Fire**:
+  * **Border Lead Mellda (Speed 5 -> 3 AP)**: Holds Node 02 in Point-Blank Band 1. Spends 2 AP to execute `[Threshold Vow Kinetic Parry]`, anchoring her shield mantlet against the stone slab.
+  * The Monolith channels `[Basalt Fissure Crash]` directed at Node 02 (Base 8 + 2 Coins = 12 Power). Mellda wins clash (14 vs 12), turning the blow aside!
+  * **Agent Park (Speed 6 -> 3 AP)**: Firing from Node 04 (Range Band 2):
+    * Spends 2 AP to channel `[Lament Requiem Resonant Smash]`. Range Band advantage (+15%) and Lament vulnerability trigger: deals **38 Pure Lament Damage**!
+  * **Agent Kim (Speed 5 -> 3 AP)**: From Node 06 (Range Band 3), delivers a 3-round piercing burst for **24 Void damage**.
+  * Monolith HP drops from 294 to **232/320**!
+  * Combined Posture strain inflicts +38 points. Posture drops from 112 to **74/160**, breaching the **60% Posture Threshold (96 Points)**!
+  * **STAGGER LEVEL 1 TRIGGERED!** The basalt slab cracks down its center axis; all incoming attacks will deal 1.5x direct damage in Turn 03!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — POSTURE BREAK STAGGER LEVEL 1]              |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [MONOLITH]      [PARK]                  [KIM]                   [DE |
+|         [MELLDA]                                                    |
++---------------------------------------------------------------------+
+| - Node 01: Grieving Monolith (STAGGER LEVEL 1 ACTIVE / 1.5x DAMAGE) |
+| - Node 02: Border Lead Mellda (Golden Arm-Blade Driving into Core)  |
+| - Node 03: Agent Park (Advancing with Momentum Surge / +2 Speed)    |
+| - Node 06: Agent Kim (Coordinating Stasis Harpoon Arc)              |
++---------------------------------------------------------------------+
+| - Mellda   : Spd 5 -> 3 AP | HP 180/180 | SP +30 | Posture 85/85    |
+| - Agent Park: Spd 8 -> 4 AP [SURGE] | HP 110/110 | SP +25 | Posture |
+| - Agent Kim : Spd 5 -> 3 AP | HP 105/105 | SP +20 | Posture 65/65   |
+| - Monolith : Spd 0 -> 0 AP | HP 148/320  | Posture 48/160 [STAGGERE |
++=====================================================================+
+```
+
+###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
+- **Vanguard Overload (1.5x Direct Damage)**:
+  * With the monolith staggered, its action dice are canceled for Turn 03.
+  * **Agent Park**: Passive `Momentum Surge` activates upon witnessing the stagger! Gains +2 Speed and +15% Critical Chance. Spends 1 AP to sprint to Node 03 and 2 AP to unleash `[Critical Lament Overload]`:
+    * Deals **54 Direct Lament Damage**!
+  * **Border Lead Mellda**: Spends 2 AP to drive *Threshold Vow* deep into the central fissure, dealing **30 Grudge damage**!
+  * Monolith HP plummets from 232 to **148/320**!
+  * Posture collapses to **28/160**!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — TECTONIC TOLL DESPERATION RESURGENCE]       |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [MONOLITH][MELLDA][PARK]                [KIM]                   [DE |
++---------------------------------------------------------------------+
+| - Node 01: Grieving Monolith (Recovered / Channeling Tectonic Toll) |
+| - Node 02: Border Lead Mellda (Directional Guard Absorption Active) |
+| - Node 03: Agent Park (Sheltered behind Mellda's Mantlet)           |
+| - Node 06: Agent Kim (Locking Stasis Disruption Beam)               |
++---------------------------------------------------------------------+
+| - Mellda   : Spd 5 -> 3 AP | HP 168/180 | SP +28 | Posture 62/85    |
+| - Agent Park: Spd 6 -> 3 AP | HP 110/110 | SP +25 | Posture 55/55   |
+| - Agent Kim : Spd 5 -> 3 AP | HP 105/105 | SP +20 | Posture 65/65   |
+| - Monolith : Spd 3 -> 2 AP | HP 102/320  | Posture 28/160 [FRACTURE |
++=====================================================================+
+```
+
+###### Turn 04 Action Resolution Log (Desperation Tectonic Toll)
+- **Hostile Recovery & Desperation Counter-Surge**:
+  * The Monolith recovers from Stagger Level 1, vibrating with a deep sub-bass roar: `[Tectonic Toll]` (a 3-node compressive seismic wave hitting Nodes 01, 02, and 03).
+  * **Border Lead Mellda**: Deploys `[Directional Guard Absorption]`, locking her golden arm-blade into the floorplates to form an impenetrable kinetic wall. She absorbs 28 points of physical shock, taking only 12 chip damage (HP: 168/180) and completely shielding Park behind her!
+  * **Agent Kim (Speed 5 -> 3 AP)**: From Range Band 3, spends 2 AP to fire `[Stasis Disruption Harpoon]`, piercing the monolith's resonance core and disrupting the vibration!
+  * Monolith HP falls to **102/320**! Posture drops to **14/160**!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — TERMINAL STAGGER LEVEL 2 INDUCTION]         |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [MONOLITH][MELLDA][PARK]                [KIM]                   [DE |
++---------------------------------------------------------------------+
+| - Node 01: Grieving Monolith (TERMINAL STAGGER / POSTURE 0/160 / 2. |
+| - Node 02: Border Lead Mellda (Severing Basalt Anchors)             |
+| - Node 03: Agent Park (Priming Requiem Climax Resonance)            |
+| - Node 06: Agent Kim (Discharging Piercing Void Bolt)               |
++---------------------------------------------------------------------+
+| - Mellda   : Spd 5 -> 3 AP | HP 168/180 | SP +28 | Posture 62/85    |
+| - Agent Park: Spd 6 -> 3 AP | HP 110/110 | SP +25 | Posture 55/55   |
+| - Agent Kim : Spd 5 -> 3 AP | HP 105/105 | SP +20 | Posture 65/65   |
+| - Monolith : Spd 0 -> 0 AP | HP 38/320   | Posture 0/160 [COLLAPSED |
++=====================================================================+
+```
+
+###### Turn 05 Action Resolution Log (Terminal Stagger Level 2 Induction)
+- **Pincer Lockdown**:
+  * Border Lead Mellda executes `[Threshold Severance Strike]`, stripping the final 14 points of Posture!
+  * **TERMINAL STAGGER LEVEL 2 TRIGGERED!** Monolith Posture hits **0/160**. The massive basalt slab splits into two unaligned halves, collapsing helpless onto the deckplates (2.0x direct damage active)!
+  * Agent Kim fires a suppressive void round into the cleft, dealing **32 Void damage** (HP: 38/320).
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — CLIMAX EXECUTION & PURIFICATION]            |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [SILT]  [MELLDA][PARK]                 [KIM]                   [DEK |
++---------------------------------------------------------------------+
+| - Node 01: Grieving Monolith (Pulverized into River Silt / Purified |
+| - Node 02: Border Lead Mellda (Retracting Threshold Vow Blade)      |
+| - Node 03: Agent Park (Channeling Positive Han into Conduits)       |
+| - Node 06: Agent Kim (Lowering Carbine / Confirming Zero Casualties |
++---------------------------------------------------------------------+
+| - Mellda   : Spd 5 -> 3 AP | HP 168/180 | SP +35 | Posture 75/85    |
+| - Agent Park: Spd 6 -> 3 AP | HP 110/110 | SP +30 | Posture 55/55   |
+| - Agent Kim : Spd 5 -> 3 AP | HP 105/105 | SP +25 | Posture 65/65   |
+| - Monolith : HP 0/320 [PURIFIED] | +0.020 TONS REFINED HAN HARVESTE |
++=====================================================================+
+```
+
+###### Turn 06 Action Resolution Log (Climax Execution & Siphon)
+- **Synchronized Subdual Execution**:
+  * Agent Park steps onto the fractured pedestal, raising the Lament Requiem high: `[Requiem Climax: Choral Absolution]`.
+  * The acoustic hammer strikes the exposed core crystal with blinding resonance. The entire stone slab pulverizes into inert river silt and shimmering Han mist!
+  * Floor 2's drainage flues siphon the harvest: **+0.020 tons of refined Han secured**!
+
 
 ```text
 +=====================================================================+
@@ -464,21 +598,148 @@ Director Majin establishes split-team GBS sector commands:
     * Hwang's scepter pierces the pod's central valve, dealing 34 Void damage and inflicting +18 Stagger.
   * Agent Song cleaves incoming larvae at Node 4, dealing 28 kinetic damage and preventing encirclement.
 
+
 ```text
 +=====================================================================+
-|         TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)          |
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02        |
 +---------------------------------------------------------------------+
-| - Turn 02: Hwang pierces Pod 1; triggers 60% Stagger 1; Song flanks |
-| N04.                                                                |
-| - Turn 03: All allied attacks deal 2.0x direct damage; Pod 1        |
-| destroyed.                                                          |
-| - Turn 04: Pod 2 spawns brood cluster; Dekan engages Bastion Ward.  |
-| - Turn 05: Song sweeps Node 2 with kinetic arc; forces Terminal     |
-| Stagger.                                                            |
-| - Turn 06: Hwang executes Climax Siphon; all larvae vaporize into   |
-| red ash.                                                            |
+| [STAGE NODES 01 TO 10 — FLOOR 2 CORRIDOR SECTOR A]                  |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [POD-1] [HWANG] [POD-2] [SONG]                                  [DE |
++---------------------------------------------------------------------+
+| - Node 01: Sanguine Pod 1 (Posture 38/80 / Central Valve Pierced)   |
+| - Node 02: Agent Hwang (Point-Blank Band 1 / Blessed Scalpel Aimed) |
+| - Node 03: Sanguine Pod 2 (Brood Cluster Spawning / Posture 80/80)  |
+| - Node 04: Agent Song (Mid-Field Sweeper / Kinetic Cleaver Readied) |
+| - Node 10: Containment Lead Dekan (Bastion Ward Anchor / Band 5)    |
++---------------------------------------------------------------------+
+| - Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55 |
+| - Agent Song  : Spd 5 -> 3 AP | HP 110/110 | SP +20 | Posture 60/60 |
+| - Pod 1       : Spd 3 -> 1 AP | HP 98/160  | Posture 38/80 [STAGGER |
+| - Pod 2       : Spd 4 -> 2 AP | HP 160/160 | Posture 80/80          |
 +=====================================================================+
 ```
+
+###### Turn 02 Action Resolution Log (Stagger Level 1 on Pod 1)
+- **Coordinated Pincer Strike**:
+  * **Agent Hwang (Speed 6 -> 3 AP)**: Stands at Node 02. Spends 2 AP to execute `[Blessed Scalpel Void Dissection]` targeting Pod 1's ruptured valve.
+    * Base Damage 18 * Void Vulnerability (1.5x) = **27 Direct Void Damage**!
+    * Inflicts +20 Posture Strain. Pod 1 Posture drops to **18/80**, breaching the **60% Posture Threshold (48 Points)**!
+    * **STAGGER LEVEL 1 TRIGGERED!** Pod 1 ceases pulsing, its acid secretion lines freezing.
+  * **Agent Song (Speed 5 -> 3 AP)**: Flanks at Node 04. Spends 2 AP to execute `[Kinetic Cleaver Pincer Sweep]`, cleaving through three emerging larvae broods at Node 03 and dealing **26 kinetic damage** to Pod 2!
+  * Pod 1 HP drops from 126 to **71/160**; Pod 2 HP drops to **134/160**.
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — POSTURE BREAK STAGGER LEVEL 1]              |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [BILE]  [HWANG] [POD-2] [SONG]                                  [DE |
++---------------------------------------------------------------------+
+| - Node 01: Sanguine Pod 1 (RUPTURED & DESTROYED / Siphoned)         |
+| - Node 02: Agent Hwang (Momentum Surge Primed / +2 Speed Next Turn) |
+| - Node 03: Sanguine Pod 2 (Acid Sac Charging / Posture 80/80)       |
+| - Node 04: Agent Song (Cleaving Brood Larvae at Node 03-04)         |
++---------------------------------------------------------------------+
+| - Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +28 | Posture 55/55 |
+| - Agent Song  : Spd 5 -> 3 AP | HP 110/110 | SP +22 | Posture 60/60 |
+| - Pod 1       : HP 0/160 [ELIMINATED]                               |
+| - Pod 2       : Spd 4 -> 2 AP | HP 160/160 | Posture 80/80          |
++=====================================================================+
+```
+
+###### Turn 03 Action Resolution Log (Pod 1 Destruction & Momentum Surge)
+- **Stagger Exploitation & Execution**:
+  * With Pod 1 immobilized in Stagger Level 1, all allied attacks deal 1.5x direct damage!
+  * **Agent Hwang**: Passive `Momentum Surge` activates upon triggering the stagger! Gains +2 Speed for next turn. Hwang spends 2 AP to deliver a surgical thrust into Pod 1's nucleus:
+    * Deals **48 Pure Void Damage**!
+    * Pod 1 HP hits **0/160**! The biological sac ruptures with a muffled hiss, disintegrating into inert crimson bile!
+  * **Agent Song**: Steps forward to Node 03, swinging the heavy cleaver into Pod 2's flank for **24 Grudge damage**.
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — BROOD ERUPTION & BASTION WARD]              |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+|         [HWANG] [POD-2] [SONG]                                  [DE |
++---------------------------------------------------------------------+
+| - Node 02: Agent Hwang (Spd 8 / AP 4 / Rapid Suture Thrust)         |
+| - Node 03: Sanguine Pod 2 (Posture 42/80 / Carapace Fissuring)      |
+| - Node 04: Agent Song (Directional Guard Absorption Active)         |
++---------------------------------------------------------------------+
+| - Agent Hwang : Spd 8 -> 4 AP [SURGE] | HP 115/115 | SP +28 | Postu |
+| - Agent Song  : Spd 5 -> 3 AP | HP 106/110 | SP +22 | Posture 52/60 |
+| - Pod 2       : Spd 3 -> 1 AP | HP 102/160 | Posture 42/80 [CRACKED |
++=====================================================================+
+```
+
+###### Turn 04 Action Resolution Log (Brood Eruption & Bastion Guard)
+- **Hostile Desperation Counter-Surge**:
+  * Pod 2 shakes violently, initiating `[Brood Eruption]`—spraying an acidic bio-blast across Nodes 02, 03, and 04.
+  * Containment Lead Dekan channels *The Maw's Keep Bastion Ward* from the observation balcony, absorbing 50% of the acoustic bile.
+  * **Agent Song**: Deploys `[Directional Guard Absorption]`, taking only 4 chip damage (HP: 106/110) while shielding Hwang behind her broadsword!
+  * **Agent Hwang (Speed 8 under Surge -> 4 AP)**: Strikes twice in rapid succession from Node 02 with the Blessed Scalpel, stripping 38 points of Posture!
+  * Pod 2 Posture drops to **42/80**, crossing the Stagger threshold!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — TERMINAL STAGGER LEVEL 2 INDUCTION]         |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+|         [HWANG] [POD-2]                                         [DE |
+|                 [SONG]                                              |
++---------------------------------------------------------------------+
+| - Node 02: Agent Hwang (Pinning Sanguine Conduit / Void Siphon)     |
+| - Node 03: Sanguine Pod 2 (TERMINAL STAGGER / POSTURE 0/80 / 2.0x D |
+| - Node 03: Agent Song (Driving Cleaver into Ventral Valve)          |
++---------------------------------------------------------------------+
+| - Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +28 | Posture 55/55 |
+| - Agent Song  : Spd 5 -> 3 AP | HP 106/110 | SP +22 | Posture 52/60 |
+| - Pod 2       : Spd 0 -> 0 AP | HP 28/160  | Posture 0/80 [COLLAPSE |
++=====================================================================+
+```
+
+###### Turn 05 Action Resolution Log (Terminal Stagger Level 2 Induction)
+- **Ventral Severance & Terminal Collapse**:
+  * Agent Song steps in close to Node 03, delivering a crushing downward cleave to Pod 2's primary anchor root.
+  * Posture drops to **0/80**! **TERMINAL STAGGER TRIGGERED!** Pod 2 deflates, completely paralyzed on the deckplates (2.0x direct damage active).
+  * Agent Hwang prepares the final siphoning lance.
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — CLIMAX EXECUTION & PURIFICATION]            |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+|         [HWANG] [ASH]   [SONG]                                  [DE |
++---------------------------------------------------------------------+
+| - Node 02: Agent Hwang (Sheathing Scalpel / Sanitizing Core)        |
+| - Node 03: Pod 2 (Vaporized into Red Ash / Han Harvested)           |
+| - Node 04: Agent Song (Clearing Sanguine Sludge from Deck)          |
++---------------------------------------------------------------------+
+| - Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +35 | Posture 55/55 |
+| - Agent Song  : Spd 5 -> 3 AP | HP 106/110 | SP +30 | Posture 60/60 |
+| - Pod 2       : HP 0/160 [DESTROYED] | +0.015 TONS REFINED HAN SIPH |
++=====================================================================+
+```
+
+###### Turn 06 Action Resolution Log (Climax Execution & Purification)
+- **Siphon Discharge**:
+  * Agent Hwang drives the extraction siphon through the core valve while Agent Song severs the feeder conduits.
+  * Pod 2 implodes, all residual larvae dissolving into sparkling red ash and refined Han aerosol!
+  * Sector 2 drainage conduits harvest **+0.015 tons of refined Han**!
+
 
 ```text
 +=====================================================================+
@@ -739,22 +1000,149 @@ Director Majin establishes coordinated GBS tactical commands:
   * Agent Park follows with `[Lament Requiem Resonant Crush]` unopposed:
     * The massive acoustic hammer strikes the monument's pedestal, dealing **44 direct Lament damage** and inflicting +24 Stagger!
 
+
 ```text
 +=====================================================================+
-|         TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)          |
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02        |
 +---------------------------------------------------------------------+
-| - Turn 02: Mellda locks N02; Park delivers 44 Lament; Monument 60%  |
-| Stagger 1.                                                          |
-| - Turn 03: Posture broken; all allied attacks deal 2.0x direct      |
-| damage; HP at 130.                                                  |
-| - Turn 04: Monument charges corridor laser [Oblivion Torrent];      |
-| Mellda shields.                                                     |
-| - Turn 05: Hwang pierces Void focal lens from N06, canceling        |
-| high-yield blast.                                                   |
-| - Turn 06: Park unleashes Climax Smite; Terminal Stagger shatters   |
-| monument.                                                           |
+| [STAGE NODES 01 TO 10 — FLOOR 5 BULWARK GATEWAY]                    |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [MONUMENT][MELLDA][PARK]                [HWANG]                 [MA |
++---------------------------------------------------------------------+
+| - Node 01: Gilded Monument (Posture 120/180 / Pedestal Cracked)     |
+| - Node 02: Border Lead Mellda (Point-Blank Band 1 / Mantlet Locked) |
+| - Node 03: Agent Park (Range Band 2 / Resonant Requiem Firing)      |
+| - Node 06: Agent Hwang (Range Band 3 / Blessed Scalpel Optical Aim) |
++---------------------------------------------------------------------+
+| - Mellda      : Spd 5 -> 3 AP | HP 190/190 | SP +30 | Posture 90/90 |
+| - Agent Park  : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60 |
+| - Agent Hwang : Spd 5 -> 3 AP | HP 110/110 | SP +20 | Posture 55/55 |
+| - Monument    : Spd 4 -> 2 AP | HP 260/340 | Posture 120/180 [CRACK |
 +=====================================================================+
 ```
+
+###### Turn 02 Action Resolution Log (Stagger Level 1 on Monument)
+- **Tripartite Pressure**:
+  * **Border Lead Mellda**: Holds Node 02 in Point-Blank Band 1. Braces *Threshold Vow* against the monument's base, executing `[Threshold Kinetic Anchor]`.
+  * **Agent Park**: Firing from Node 03 (Range Band 2), channels `[Lament Requiem Resonant Crush]`:
+    * Deals **44 Pure Lament Damage** directly through the structural crack opened in Turn 01!
+  * **Agent Hwang**: Targets the optical lens from Node 06 with a focused Void beam for **28 Void damage**.
+  * Gilded Monument HP drops to **188/340**!
+  * Posture drops to **68/180**, breaching the **60% Posture Threshold (108 Points)**!
+  * **STAGGER LEVEL 1 TRIGGERED!** The monument's prismatic crown dims, and its charging dice are wiped out for Turn 03!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — POSTURE BREAK STAGGER LEVEL 1]              |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [MONUMENT]      [PARK]                  [HWANG]                 [MA |
+|         [MELLDA]                                                    |
++---------------------------------------------------------------------+
+| - Node 01: Gilded Monument (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)    |
+| - Node 02: Border Lead Mellda (Golden Arm-Blade Pincer Sunder)      |
+| - Node 03: Agent Park (Momentum Surge Primed / +2 Speed Next Turn)  |
+| - Node 06: Agent Hwang (Discharging High-Density Void Ray)          |
++---------------------------------------------------------------------+
+| - Mellda      : Spd 5 -> 3 AP | HP 190/190 | SP +30 | Posture 90/90 |
+| - Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 120/120 | SP +25 | Postu |
+| - Agent Hwang : Spd 5 -> 3 AP | HP 110/110 | SP +20 | Posture 55/55 |
+| - Monument    : Spd 0 -> 0 AP | HP 130/340 | Posture 45/180 [STAGGE |
++=====================================================================+
+```
+
+###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
+- **Allied Focus Fire (1.5x Direct Damage)**:
+  * Agent Park's `Momentum Surge` triggers! Gains +2 Speed for next turn. Park drives the acoustic hammer deep into the monument's core: **58 Lament Damage**!
+  * Border Lead Mellda delivers a sweeping two-handed cleave: **34 Grudge Damage**!
+  * Monument HP collapses from 188 to **96/340**! Posture drops to **24/180**!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — OBLIVION TORRENT REACTION]                  |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [MONUMENT][MELLDA][PARK]                [HWANG]                 [MA |
++---------------------------------------------------------------------+
+| - Node 01: Gilded Monument (Recovered / Charging Oblivion Torrent)  |
+| - Node 02: Border Lead Mellda (Reflective Bulwark Shield Raised)    |
+| - Node 03: Agent Park (Lament Requiem Resonant Shield)              |
+| - Node 06: Agent Hwang (Focusing Scalpel on Optical Focal Lens)     |
++---------------------------------------------------------------------+
+| - Mellda      : Spd 5 -> 3 AP | HP 176/190 | SP +28 | Posture 72/90 |
+| - Agent Park  : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60 |
+| - Agent Hwang : Spd 5 -> 3 AP | HP 110/110 | SP +20 | Posture 55/55 |
+| - Monument    : Spd 4 -> 2 AP | HP 82/340  | Posture 22/180 [FRACTU |
++=====================================================================+
+```
+
+###### Turn 04 Action Resolution Log (Oblivion Torrent Desperation Blast)
+- **Hostile Recovery & Desperation Counter-Surge**:
+  * The Gilded Monument recovers, unleashing its maximum-aperture area laser: `[Oblivion Torrent]` sweeping down the central corridor.
+  * Mellda deploys `[Directional Guard Absorption]`, taking 14 chip damage (HP: 176/190) and absorbing 75% of the laser energy to protect Park and Hwang behind her!
+  * Agent Hwang targets the glowing lens from Range Band 3, firing `[Blessed Scalpel Void Incision]`: the beam pierces the crystal optic, shattering the lens and canceling the high-yield follow-up!
+  * Monument HP drops to **42/340**! Posture falls to **10/180**!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — TERMINAL STAGGER LEVEL 2 INDUCTION]         |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [MONUMENT][MELLDA][PARK]                [HWANG]                 [MA |
++---------------------------------------------------------------------+
+| - Node 01: Gilded Monument (TERMINAL STAGGER / POSTURE 0/180 / 2.0x |
+| - Node 02: Border Lead Mellda (Pinning Pedestal Joint)              |
+| - Node 03: Agent Park (Priming Climax Smite)                        |
+| - Node 06: Agent Hwang (Shattering Optical Crown)                   |
++---------------------------------------------------------------------+
+| - Mellda      : Spd 5 -> 3 AP | HP 176/190 | SP +28 | Posture 72/90 |
+| - Agent Park  : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60 |
+| - Agent Hwang : Spd 5 -> 3 AP | HP 110/110 | SP +20 | Posture 55/55 |
+| - Monument    : Spd 0 -> 0 AP | HP 24/340  | Posture 0/180 [COLLAPS |
++=====================================================================+
+```
+
+###### Turn 05 Action Resolution Log (Terminal Stagger Level 2 Induction)
+- **Optical Shatter & Terminal Collapse**:
+  * Mellda drives *Threshold Vow* through the foundation pedestal, stripping the remaining 10 Posture points!
+  * **TERMINAL STAGGER TRIGGERED!** Posture hits **0/180**. The monument's golden plating peels away, its stone core crumbling onto the deckplates.
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — CLIMAX EXECUTION & PURIFICATION]            |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [GOLD-DUST][MELLDA][PARK]               [HWANG]                 [MA |
++---------------------------------------------------------------------+
+| - Node 01: Gilded Monument (Pulverized into Gold Dust & Han Vapor)  |
+| - Node 02: Border Lead Mellda (Retracting Shield)                   |
+| - Node 03: Agent Park (Harvesting Refined Reagents)                 |
+| - Node 06: Agent Hwang (Logging Archive Telemetry)                  |
++---------------------------------------------------------------------+
+| - Mellda      : Spd 5 -> 3 AP | HP 176/190 | SP +35 | Posture 85/90 |
+| - Agent Park  : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60 |
+| - Agent Hwang : Spd 5 -> 3 AP | HP 110/110 | SP +25 | Posture 55/55 |
+| - Monument    : HP 0/340 [PURIFIED] | +0.022 TONS REFINED HAN HARVE |
++=====================================================================+
+```
+
+###### Turn 06 Action Resolution Log (Climax Execution & Purification)
+- **Final Subdual**:
+  * Agent Park executes `[Requiem Climax: Smite of Absolution]`. The acoustic hammer shatters the monument into a shower of shimmering golden dust and refined Han vapor!
+  * Floor 5 collection flues siphon the harvest: **+0.022 tons of refined Han secured**!
+
 
 ```text
 +=====================================================================+
@@ -1021,22 +1409,148 @@ Director Majin establishes GBS tactical positioning:
     * Mellda's golden arm-blade locks the centipede's primary mandibles. The counter-force reverberates through the beast's chitinous segments, dealing 36 Grudge damage and inflicting +24 Stagger!
   * Agent Hwang strikes from Node 2 unopposed, driving the *Blessed Scalpel* deep into the exposed ventral joint for **42 Void damage**!
 
+
 ```text
 +=====================================================================+
-|         TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)          |
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02        |
 +---------------------------------------------------------------------+
-| - Turn 02: Mellda locks Gate 5; Hwang flanks N02; Hive hits 60%     |
-| Stagger 1.                                                          |
-| - Turn 03: Carapace cracked; all attacks deal 2.0x direct damage;   |
-| HP at 150.                                                          |
-| - Turn 04: Hive attempts tectonic burrow; Dekan engages Jaw Clamp   |
-| pin.                                                                |
-| - Turn 05: Bae lands heavy maul strike on ventral nerve; forces     |
-| Terminal Stagger.                                                   |
-| - Turn 06: Mellda executes Threshold Execution; Hive dissolves to   |
-| amber dust.                                                         |
+| [STAGE NODES 01 TO 10 — FLOOR 5 GATEWAY SLUICE]                     |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [HIVE]          [MELLDA][HWANG]         [BAE]                   [MA |
++---------------------------------------------------------------------+
+| - Node 01-02: Churning Trench Hive (Posture 130/200 / Mandible Lock |
+| - Node 03: Border Lead Mellda (Bulwark Stance / Threshold Vow Ready |
+| - Node 04: Agent Hwang (Void Scalpel Precision / Range Band 2)      |
+| - Node 06: Agent Bae (Bulwark Great-Maul Primed / Range Band 3)     |
++---------------------------------------------------------------------+
+| - Mellda      : Spd 5 -> 3 AP | HP 190/190 | SP +30 | Posture 95/95 |
+| - Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55 |
+| - Agent Bae   : Spd 5 -> 3 AP | HP 125/125 | SP +20 | Posture 70/70 |
+| - Trench Hive : Spd 4 -> 2 AP | HP 302/380 | Posture 130/200 [CRACK |
 +=====================================================================+
 ```
+
+###### Turn 02 Action Resolution Log (Carapace Crack & Stagger Build)
+- **Trench Lockdown & Flanking Strike**:
+  * Mellda holds Gate 05 closed, locking the centipede's anterior armor plates with *Threshold Vow*.
+  * Agent Hwang maneuvers to Node 02 behind the centipede's flank, driving the Blessed Scalpel into the ventral joint: **38 Void Damage**!
+  * Agent Bae winds up the Bulwark Great-Maul from Node 06, delivering a ground-shaking kinetic slam: **32 Weight Damage**!
+  * Trench Hive HP drops to **232/380**!
+  * Posture drops to **78/200**, breaching the **60% Posture Threshold (120 Points)**!
+  * **STAGGER LEVEL 1 TRIGGERED!** The centipede's hundreds of legs tremble, and its burrowing drill stalls!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — POSTURE BREAK STAGGER LEVEL 1]              |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [HIVE]  [HWANG] [MELLDA]                [BAE]                   [MA |
++---------------------------------------------------------------------+
+| - Node 01-02: Trench Hive (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)     |
+| - Node 02: Agent Hwang (Driving Scalpel into Exposed Ventral Nerve) |
+| - Node 03: Border Lead Mellda (Holding Primary Mandibles)           |
+| - Node 05: Agent Bae (Advancing with Great-Maul / Momentum Surge)   |
++---------------------------------------------------------------------+
+| - Mellda      : Spd 5 -> 3 AP | HP 190/190 | SP +30 | Posture 95/95 |
+| - Agent Hwang : Spd 8 -> 4 AP [SURGE] | HP 115/115 | SP +25 | Postu |
+| - Agent Bae   : Spd 5 -> 3 AP | HP 125/125 | SP +20 | Posture 70/70 |
+| - Trench Hive : Spd 0 -> 0 AP | HP 168/380 | Posture 52/200 [STAGGE |
++=====================================================================+
+```
+
+###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
+- **Allied Focus Fire (1.5x Direct Damage)**:
+  * Agent Hwang's `Momentum Surge` activates! (+2 Speed next turn). Hwang delivers three consecutive scalpel incisions into the central nerve cluster: **64 Void Damage**!
+  * Mellda cleaves through two armored dorsal segments: **38 Grudge Damage**!
+  * Hive HP plummets from 232 to **130/380**! Posture drops to **24/200**!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — TECTONIC BURROW ATTEMPT]                    |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [HIVE]  [HWANG] [MELLDA][BAE]                                   [MA |
++---------------------------------------------------------------------+
+| - Node 01-02: Trench Hive (Recovered / Channeling Tectonic Burrow)  |
+| - Node 02: Agent Hwang (Slicing Chitinous Leg Joints)               |
+| - Node 03: Border Lead Mellda (Jaw Clamp Pin Engaged)               |
+| - Node 04: Agent Bae (Executing Bulwark Maul Ground Breaker)        |
++---------------------------------------------------------------------+
+| - Mellda      : Spd 5 -> 3 AP | HP 182/190 | SP +28 | Posture 80/95 |
+| - Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55 |
+| - Agent Bae   : Spd 5 -> 3 AP | HP 125/125 | SP +20 | Posture 70/70 |
+| - Trench Hive : Spd 3 -> 1 AP | HP 112/380 | Posture 24/200 [TRAPPE |
++=====================================================================+
+```
+
+###### Turn 04 Action Resolution Log (Tectonic Burrow Desperation)
+- **Hostile Recovery & Desperation Burrow**:
+  * The Trench Hive recovers, attempting to drill through the bedrock with `[Tectonic Burrow]` to bypass the blast gates.
+  * Containment Lead Dekan deploys Floor 2's *Jaw Clamp* hydraulic clamps through the grates, pinning the centipede's thorax!
+  * Mellda deploys `[Directional Guard Absorption]`, taking 8 chip damage (HP: 182/190) and preventing the beast from submerging!
+  * Agent Bae smashes the exposed dorsal nerve for **34 Weight damage**!
+  * Hive HP falls to **62/380**! Posture drops to **8/200**!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — TERMINAL STAGGER LEVEL 2 INDUCTION]         |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [HIVE]  [HWANG] [MELLDA][BAE]                                   [MA |
++---------------------------------------------------------------------+
+| - Node 01-02: Trench Hive (TERMINAL STAGGER / POSTURE 0/200 / 2.0x  |
+| - Node 02: Agent Hwang (Severing Central Nerve Cord)                |
+| - Node 03: Border Lead Mellda (Executing Threshold Execution Slice) |
+| - Node 04: Agent Bae (Grounding Kinetic Shockwave)                  |
++---------------------------------------------------------------------+
+| - Mellda      : Spd 5 -> 3 AP | HP 182/190 | SP +28 | Posture 80/95 |
+| - Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +25 | Posture 55/55 |
+| - Agent Bae   : Spd 5 -> 3 AP | HP 125/125 | SP +20 | Posture 70/70 |
+| - Trench Hive : Spd 0 -> 0 AP | HP 34/380  | Posture 0/200 [COLLAPS |
++=====================================================================+
+```
+
+###### Turn 05 Action Resolution Log (Terminal Stagger Level 2 Induction)
+- **Ventral Nerve Severance & Terminal Collapse**:
+  * Mellda and Bae land a synchronized heavy blow, shattering the creature's cephalic plate!
+  * **TERMINAL STAGGER TRIGGERED!** Posture hits **0/200**. The beast collapses motionless across Nodes 01 and 02.
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — CLIMAX EXECUTION & PURIFICATION]            |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [AMBER-DUST]    [MELLDA][HWANG] [BAE]                           [MA |
++---------------------------------------------------------------------+
+| - Node 01-02: Trench Hive (Dissolved into Inert Amber Dust)         |
+| - Node 03: Border Lead Mellda (Locking Gateway Portcullis)          |
+| - Node 04: Agent Hwang (Disinfecting Corridor Conduits)             |
+| - Node 05: Agent Bae (Siphoning Refined Reagents)                   |
++---------------------------------------------------------------------+
+| - Mellda      : Spd 5 -> 3 AP | HP 182/190 | SP +35 | Posture 90/95 |
+| - Agent Hwang : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55 |
+| - Agent Bae   : Spd 5 -> 3 AP | HP 125/125 | SP +25 | Posture 70/70 |
+| - Trench Hive : HP 0/380 [PURIFIED] | +0.025 TONS REFINED HAN HARVE |
++=====================================================================+
+```
+
+###### Turn 06 Action Resolution Log (Climax Execution & Harvest)
+- **Threshold Execution**:
+  * Mellda executes `[Threshold Severance: Edge of Dawn]`. The massive centipede dissolves into glowing amber dust and pure Han vapor.
+  * Gateway drainage flues harvest **+0.025 tons of refined Han**!
+
 
 ```text
 +=====================================================================+
@@ -1135,6 +1649,385 @@ At 02:00, the seismic sensors record a massive subterranean shockwave traveling 
 > _"Day 41. The earth is vibrating at 12 Hz. It matches the heartbeat of the colossus entombed in the mountain. Hydraulic ballast stands at 49.62 tons. In eight days, we will cross 50.0 tons—halfway to the 100-ton threshold needed to fire the Absolvohan. For 1,777 cycles, we never broke 48 tons. We are writing new history with every tick."_
 
 ---
+
+
+### Day 45
+
+### Story — Dialogue
+
+> **Ayshuk:** _"Director. The three birds have begun to breathe together."_
+
+> **Majin:** _"Telemetry?"_
+
+> **Ayshuk:** _"Chambers 031, 032, and 033 are locked in tripartite harmonic resonance. When The Guarding Bird stretches its wings on Floor 2, The Weighting Bird tilts its scale on Floor 4, and The Whispering Bird flutters its small bronze beak on Floor 3. The acoustic bleed is zero. They are balancing each other's sorrow."_
+
+> **Mellda:** _"They may be calm inside their chambers, Director, but the perimeter is trembling. A Violet Noon Ordeal is tearing through Floor 5's border gate. A dimensional hand—five meters across, forged of faceted crystal—is reaching into our transit corridor."_
+
+> **Majin:** _"Deploy Park, Mellda, and Hwang to Gate 05. The birds have shown us how balance works. Show that rift what Directorate discipline means."_
+
+---
+
+### Gameplay — Day 45: Central Command Tactical Interface
+
+```text
++=====================================================================+
+|            REVERIE DIRECTORATE — CENTRAL COMMAND TERMINAL           |
++---------------------------------------------------------------------+
+| FACILITY MANAGEMENT INTERFACE: DAY 45 SHIFT                         |
+| ENERGY HARVEST QUOTA  : 0.160 TONS // CURRENT HARVEST: 0.000 TONS   |
+| COVERT BALLAST RESERVE : 49.100 TONS [HYDRAULIC CRYO-VAULTS]        |
+| ACTIVE CONTAINMENT    : SE-001, 005, 014, 025, 031, 032, 033        |
+| TRIAD INTEGRATION     : THE THREE BIRDS OF THE BLACK FOREST ACTIVE  |
++=====================================================================+
+```
+
+Shift parameters engaged for Day 45. Target energy quota rises to **0.160 tons** of pure refined Han. Covert hydraulic reserves beneath Floor 6 confirm **49.100 tons**—passing the critical ninety-eight percent mark toward our mid-cycle operational threshold.
+
+Operational priorities for Day 45:
+1. Maintain tripartite stabilization across Chambers 031, 032, and 033.
+2. Intercept and suppress the Violet Noon Ordeal along Floor 5's outer gate.
+3. Advance senior operative proficiencies using the Four P-Framework.
+
+#### 1. Pre-Shift Tactical Deployment & Operative Profiles
+
+```text
++=====================================================================+
+|            DEPLOYED ROSTER: DAY 45 TRIAD SYNCHRONIZATION            |
++---------------------------------------------------------------------+
+| AGENT & RATING        | STATS, GEAR & FOUR P-FRAMEWORK SPEC         |
+| ----------------------+-------------------------------------------- |
+| Agent Park (Grade V)  | HP 68 | SP 75 | Work 62 | Speed 6 (3 AP + 1 |
+| Senior Skirmisher     | M.A.W.-W: Lament Requiem (Medium / 1 AP)    |
+| Floor 5 Assigned      | Suit: Lament Shroud (Light / Spd +1) | Halo |
+|                       | Posture: 65/65 | Parry: 16 Power | Pass: Mo |
+|                       | Panic Typology: Despair (SP <= -35)         |
+| ----------------------+-------------------------------------------- |
+| Border Lead Mellda    | HP 190| SP 80 | Work 65 | Speed 6 (3 AP + 1 |
+| Floor 5 Decision Core | M.A.W.-W: Threshold Vow (Sacred Blade / 2 A |
+| Bulwark Commander     | Suit: Threshold Coat (Heavy / Spd 0 under A |
+|                       | Posture: 95/95 | Guard: 22 Absorb | Pass: I |
+|                       | Panic Typology: Berserk (SP <= -40)         |
+| ----------------------+-------------------------------------------- |
+| Agent Hwang (Grade V) | HP 58 | SP 70 | Work 64 | Speed 6 (3 AP)    |
+| Senior Scribe         | M.A.W.-W: Blessed Scalpel (Void / Light / 1 |
+| Floor 4 Assigned      | Suit: White Scribe Robe (Light / Spd +1)    |
+|                       | Posture: 55/55 | Parry: 15 Power | Pass: Sc |
+|                       | Panic Typology: Wandering (SP <= -30)       |
++=====================================================================+
+```
+
+Director Majin engages the Floor 5 border relays: **[DAY 45 OPERATIONAL SHIFT COMMENCED]**.
+
+---
+
+#### 2. Granular Work Type Management: Chamber 031 (The Whispering Bird)
+
+Agent Hwang enters Chamber 031 for Viderehan observation:
+- `[DISPATCH: Agent Hwang -> Floor 3, Chamber 031]`
+- `[PROTOCOL: Viderehan Observation (Acoustic Calibration / Void Affinity)]`
+
+```text
+> Chamber Telemetry: "The small bird hops onto Hwang's shoulder, whispering old secrets..."
+> Fear Check: Level V Senior Agent vs Class III Entity -> RESULT: ABSOLUTE CALM.
+```
+
+- **Work Tick 01–05:** 5 Successes. The small bronze bird pecks gently at Hwang's collar.
+- **Work Tick 06:** Failure! A sudden sharp chirp deals 4 White (Lament) damage (SP: 66/70).
+- **Work Tick 07–10:** 4 Successes.
+- **Work Result:** **9/10 Positive Han Crystals (EXCELLENT WORK RESULT)!**
+- Yield: **+0.028 tons** of refined Han lubricant extracted.
+
+Energy meter climbs to `0.092 / 0.160 tons`.
+
+---
+
+#### 3. Ordeal Manifestation: Second Watch (Violet Noon) Suppression
+
+At 14:40, the space outside Gate 05 shatters like crystalline glass:
+
+```text
++=====================================================================+
+|           TACTICAL DOSSIER: VIOLET NOON ORDEAL SUPPRESSION          |
++---------------------------------------------------------------------+
+| DESIGNATION           : THE PIERCING HAND (VIOLET NOON)             |
+| CLASSIFICATION        : VIOLET (ALL-AFFINITY) SECOND WATCH ENTITY   |
+| INTRUSION POINT       : FLOOR 5 BORDER OBSERVATION GATE (NODE 02)   |
+| HOSTILE PARAMETERS    : HP 240/240 | Posture 120/120 | Speed 5 (3 A |
+| ATTACK AFFINITY       : Violet (Pure Disruption / Prismatic Decay)  |
+| AFFINITY VULNERABILITY: Void (Pierce: 1.5x) & Lament (White: 1.25x) |
+| SPECIAL THREAT        : Dimensional reach allows attacks across 4 n |
+| TACTICAL ORDERS       : ANCHOR AT NODE 02; BREAK FINGERS WITH SCALP |
++=====================================================================+
+```
+
+A colossal, five-fingered arm composed of iridescent violet crystal protrudes from an open spatial fissure at Node 02, sweeping through the air with piercing dimensional decay!
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 01        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — FLOOR 5 BORDER OBSERVATION GATE]            |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+|         [HAND]  [MELLDA][PARK]  [HWANG]                         [MA |
++---------------------------------------------------------------------+
+| SPATIAL RANGES & POSITIONS:                                         |
+| - Node 02: Piercing Hand (Dimensional Rift Ingress Epicenter)       |
+| - Node 03: Border Lead Mellda (Frontline Bulwark / Range Band 1)    |
+| - Node 04: Agent Park (Vanguard Skirmisher / Range Band 2)          |
+| - Node 05: Agent Hwang (Void Scribe / Range Band 3)                 |
+| - Node 10: Director Majin & Seiyon Command Terminal (Band 5)        |
++---------------------------------------------------------------------+
+| OPERATIVE STATUS & RESOURCE POOLS:                                  |
+| - Mellda      : Spd 6 -> 3 AP | HP 190/190 | SP 80/80 | Posture 95/ |
+| - Agent Park  : Spd 6 -> 3 AP | HP 68/68   | SP 75/75 | Posture 65/ |
+| - Agent Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/ |
+| - Piercing Hand: Spd 5 -> 3 AP | HP 240/240 | Posture 120/120       |
++=====================================================================+
+```
+
+##### Turn 01 Action Resolution Log (Spatial Ingress & Bulwark Anchor)
+- **Operative Movement & Clash Standoff**:
+  * **Border Lead Mellda (Speed 6 -> 3 AP)**: Spends 1 AP to advance to Node 03, planting *Threshold Vow* in front of the rift. Declares `[Threshold Vow Kinetic Parry]` (Costs 2 AP).
+  * The Piercing Hand declares `[Prismatic Sweep]` on Node 03 (Base 9 + 2 Coins = 13 Power).
+  * Mellda's Roll:
+    * *Passive Trigger:* `Iron Perimeter` (+2 Base Clash Power).
+    * Mellda Roll: Base 11 + 2 Coins = **15 Power**!
+  * **Clash Result**: **Mellda WINS THE CLASH (15 vs 13)!**
+    * The arm-blade deflects the crystalline fingers, dealing 32 Grudge damage (HP: 208/240) and inflicting +22 Posture Strain (Posture: 98/120).
+  * **Agent Hwang (Speed 6 -> 3 AP)**: From Node 05 (Range Band 3), strikes with `[Blessed Scalpel Void Beam]`, exploiting the entity's Void vulnerability: **36 Direct Void Damage**!
+  * **Agent Park**: Firing from Node 04, adds 18 Lament damage. Hostile HP drops to **154/240**!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — SHATTERING THE CRYSTALLINE DIGITS]          |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+|         [HAND]  [MELLDA][PARK]  [HWANG]                         [MA |
++---------------------------------------------------------------------+
+| - Node 02: Piercing Hand (Posture 78/120 / Thumb Joint Severed)     |
+| - Node 03: Border Lead Mellda (Parrying Prismatic Beam)             |
+| - Node 04: Agent Park (Lament Requiem Resonant Wave Firing)         |
+| - Node 05: Agent Hwang (Blessed Scalpel Precision Incision)         |
++---------------------------------------------------------------------+
+| - Mellda      : Spd 6 -> 3 AP | HP 182/190 | SP 80/80 | Posture 82/ |
+| - Agent Park  : Spd 6 -> 3 AP | HP 68/68   | SP 75/75 | Posture 65/ |
+| - Agent Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/ |
+| - Piercing Hand: Spd 4 -> 2 AP | HP 178/240 | Posture 78/120 [CRACK |
++=====================================================================+
+```
+
+##### Turn 02 Action Resolution Log (Joint Severing & Stagger Build)
+- **Joint Severing Assault**:
+  * Agent Hwang targets the thumb joint with a precision void incision: **28 Void Damage**!
+  * Agent Park discharges `[Lament Requiem Pure Echo]`: **24 Damage**!
+  * Hostile HP drops to **102/240**!
+  * Combined Posture strain strips another 36 points: Posture drops to **42/120**, crossing the **60% Posture Threshold (72 Points)**!
+  * **STAGGER LEVEL 1 TRIGGERED!** The crystalline fingers droop, and the rift wavers!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — POSTURE BREAK STAGGER LEVEL 1]              |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+|         [HAND]          [PARK]                                  [MA |
+|         [MELLDA][HWANG]                                             |
++---------------------------------------------------------------------+
+| - Node 02: Piercing Hand (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)      |
+| - Node 02: Border Lead Mellda (Cleaving Palm Joint)                 |
+| - Node 03: Agent Hwang (Driving Scalpel into Rift Tendon)           |
+| - Node 04: Agent Park (Momentum Surge Primed / +2 Speed Next Turn)  |
++---------------------------------------------------------------------+
+| - Mellda      : Spd 6 -> 3 AP | HP 182/190 | SP 80/80 | Posture 82/ |
+| - Agent Park  : Spd 6 -> 3 AP | HP 68/68   | SP 75/75 | Posture 65/ |
+| - Agent Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/ |
+| - Piercing Hand: Spd 0 -> 0 AP | HP 98/240  | Posture 32/120 [STAGG |
++=====================================================================+
+```
+
+##### Turn 03 Action Resolution Log (Stagger Level 1 Exploitation)
+- **Vanguard Overload (1.5x Direct Damage)**:
+  * Agent Park's `Momentum Surge` activates! (+2 Speed next turn). Park unleashes a point-blank smash for **42 Damage**!
+  * Border Lead Mellda executes `[Threshold Cleave]` at the wrist joint: **38 Damage**!
+  * Hostile HP plummets to **22/240**! Posture collapses to **10/120**!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — PRISMATIC RIFT REACTION]                    |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+|         [HAND]  [MELLDA][PARK]  [HWANG]                         [MA |
++---------------------------------------------------------------------+
+| - Node 02: Piercing Hand (Recovered / Channeling Prismatic Spire)   |
+| - Node 03: Border Lead Mellda (Directional Guard Absorption)        |
+| - Node 04: Agent Park (Spd 8 / AP 4 / Rapid Choral Pulse)           |
+| - Node 05: Agent Hwang (Void Harpoon Readied)                       |
++---------------------------------------------------------------------+
+| - Mellda      : Spd 6 -> 3 AP | HP 174/190 | SP 76/80 | Posture 68/ |
+| - Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 68/68 | SP 75/75 | Postu |
+| - Agent Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/ |
+| - Piercing Hand: Spd 5 -> 3 AP | HP 48/240  | Posture 16/120 [UNSTA |
++=====================================================================+
+```
+
+##### Turn 04 Action Resolution Log (Prismatic Desperation Burst)
+- **Hostile Recovery & Desperation Counter-Surge**:
+  * The Piercing Hand flares with blinding violet radiance: `[Prismatic Spire]`.
+  * Mellda deploys `[Directional Guard Absorption]`, taking 8 chip damage (HP: 174/190) and anchoring the team against the dimensional back-pressure.
+  * Park and Hwang coordinate counter-fire, reducing HP to **10/240**!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — TERMINAL STAGGER LEVEL 2 INDUCTION]         |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+|         [HAND]                                                  [MA |
+|         [MELLDA][PARK]  [HWANG]                                     |
++---------------------------------------------------------------------+
+| - Node 02: Piercing Hand (TERMINAL STAGGER / POSTURE 0/120 / 2.0x D |
+| - Node 02: Border Lead Mellda (Pinning Wrist Plate to Bedrock)      |
+| - Node 03: Agent Park (Driving Lament Hammer into Knuckles)         |
+| - Node 04: Agent Hwang (Executing Void Suture Strike)               |
++---------------------------------------------------------------------+
+| - Mellda      : Spd 6 -> 3 AP | HP 174/190 | SP 76/80 | Posture 68/ |
+| - Agent Park  : Spd 6 -> 3 AP | HP 68/68   | SP 75/75 | Posture 65/ |
+| - Agent Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/ |
+| - Piercing Hand: Spd 0 -> 0 AP | HP 12/240  | Posture 0/120 [COLLAP |
++=====================================================================+
+```
+
+##### Turn 05 Action Resolution Log (Terminal Stagger Level 2 Induction)
+- **Wrist Pin & Terminal Collapse**:
+  * Mellda drives *Threshold Vow* through the main wrist joint, pinning the hand against the floorplates.
+  * Posture hits **0/120**! **TERMINAL STAGGER TRIGGERED!** The construct shatters into non-functional crystal chunks.
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — CLIMAX EXECUTION & PURIFICATION]            |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+|         [MIST]  [MELLDA][PARK]  [HWANG]                         [MA |
++---------------------------------------------------------------------+
+| - Node 02: Piercing Hand (Dissolved into Prismatic Violet Fog)      |
+| - Node 03: Border Lead Mellda (Checking Border Perimeter Seals)     |
+| - Node 04: Agent Park (Collecting Pure Refined Reagents)            |
+| - Node 05: Agent Hwang (Sealing Dimensional Rift Fissure)           |
++---------------------------------------------------------------------+
+| - Mellda      : Spd 6 -> 3 AP | HP 174/190 | SP 80/80 | Posture 80/ |
+| - Agent Park  : Spd 6 -> 3 AP | HP 68/68   | SP 75/75 | Posture 65/ |
+| - Agent Hwang : Spd 6 -> 3 AP | HP 58/58   | SP 70/70 | Posture 55/ |
+| - Piercing Hand: HP 0/240 [PURIFIED] | +0.018 TONS REFINED HAN HARV |
++=====================================================================+
+```
+
+##### Turn 06 Action Resolution Log (Climax Execution & Harvest)
+- **Rift Closure & Purification**:
+  * Agent Hwang executes `[Void Suture]`, sealing the spatial fissure while Mellda and Park pulverize the remaining crystal fingers into harmless violet mist.
+  * Floor 5 collection manifolds harvest **+0.018 tons of pure refined Han**!
+
+Total daily harvest reaches **0.168 / 0.160 tons**! Quota surpassed!
+
+---
+
+#### 4. Shift Evaluation Index & Daily RHR Allocation
+
+```text
++=====================================================================+
+|              END-OF-DAY PERFORMANCE EVALUATION: DAY 45              |
++---------------------------------------------------------------------+
+| METRIC                 | TARGET QUOTA   | REALIZED PERFORMANCE      |
+| -----------------------+----------------+---------------------      |
+| Han Energy Harvested   | 0.160 Tons     | 0.168 Tons [MET]          |
+| Containment Breaches   | 0 Breaches Max | 0 Breaches [CLEARED]      |
+| Personnel Casualties   | 0 Fatalities   | 0 Fatalities [PERFECT]    |
+| Violet Noon Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]      |
+| Triad Resonance Sync   | 100% Stable    | HARMONIC BALANCED         |
+| -----------------------+----------------+---------------------      |
+| SHIFT PERFORMANCE GRADE: GRADE S (TRIAD HARMONIC MASTER)            |
+| REAGENTS ACCUMULATED   : +32 RHR (REFINED HAN REAGENTS)             |
+| OPERATIVE ADVANCEMENT  :                                            |
+| - Agent Park  : +4 Clarity, +3 Resolve (Senior Vanguard)            |
+| - Agent Hwang : +5 Composure, +3 Clarity (Senior Archivist)         |
+| - Border Lead Mellda: +5 Resilience (Bulwark Commander)             |
++=====================================================================+
+```
+
+---
+
+#### 5. Well Extraction Protocol (Containment Authorization)
+
+```text
++=====================================================================+
+|            EXTRACTION WELL ARCHIVE: SELECT NEXT COMPANION           |
++---------------------------------------------------------------------+
+| CHOICE ALPHA [SE-C-IIIg-081]:                                       |
+| 'A hollow saint weeping liquid gold into an iron chalice, praying   |
+| for a congregation that never arrived.'                             |
++---------------------------------------------------------------------+
+| CHOICE BETA  [SE-C-IIIg-140]:                                       |
+| 'A weeping willow whose branches droop beneath the weight of        |
+| unspoken farewells.'                                                |
++---------------------------------------------------------------------+
+| CHOICE GAMMA [SE-C-Ia-008]:                                         |
+| 'The dark abyss where the thousand martyrs speak in unison          |
+| beneath the black tar.'                                             |
++=====================================================================+
+```
+
+##### Director Majin's Assessment & Authorization
+- *Choice Beta* is *The Weeping Willow* (SE-C-IIIγ-140)—a serene entity, but low energy output.
+- *Choice Gamma* is *The Maw* (SE-C-Iα-008)—already anchored in our foundation.
+- *Choice Alpha* is **The Hollow Saint** (SE-C-IIIγ-081)—a high-tier Lament/White entity capable of providing top-tier sanity regeneration gear (*Saint Robes*).
+
+AUTHORIZATION LOCKED: **Choice Alpha: SE-C-IIIγ-081 (*The Hollow Saint*)**.
+
+---
+
+#### 6. M.A.W. Synthesis & Armament Forging
+
+```text
++=====================================================================+
+|                M.A.W. SYNTHESIS FORGING LOG — DAY 45                |
++---------------------------------------------------------------------+
+| FORGE SPECIFICATION    | SLOT / PROPERTIES / PARAMETERS             |
+| -----------------------+------------------------------------------- |
+| Whispering Needle      | Weapon: 5-8 Void (Light / Speed Delta +1)  |
+|                        | Range Band 2-3 | 1 AP | Pierces +25% Armor |
+| Needle Veil Shroud     | Suit: Light Armor (Speed Delta +1)         |
+|                        | Resist: 0.8 Grudge / 0.6 Lament / 0.6 Void |
+| Avian Eye Gift         | Eye Slot: +6 SP, +8% Critical Clash Power  |
+| -----------------------+------------------------------------------- |
+| EQUIPMENT ALLOCATION   | BESTOWED UPON AGENT HWANG (VOID SPECIALIST |
++=====================================================================+
+```
+
+Agent Hwang equips the *Whispering Needle*, granting Floor 4 unmatched armor-piercing void precision.
+
+---
+
+#### 7. Nocturnal Sub-Vault Telemetry & Director's Vigil
+
+At 02:45, Majin inspects Floor 5's reinforced observation gallery. The border rift is completely sealed. Outside, the Desolate winds howl against the outer Veil, but inside, the facility is tranquil.
+
+Deep within Floor 6, the hydraulic ballast meters register **49.100 tons** of stored sorrow.
+
+Seiyon's holographic form materializes beside him: *"Forty-nine point one tons, Majin. We are less than one ton away from Day 160."*
+
+Majin gazes into the dark dunes beyond Gate 05: *"Four days until the Pale Dusk. Alert Marjuk on Floor 6. When the shadow falls, we hold the line."*
 
 ### Day 49
 ### Story — Dialogue
@@ -1316,22 +2209,148 @@ Director Majin establishes Deep Vault GBS tactical parameters:
     * Marjuk's stasis seal encapsulates the acoustic pulse before it can detonate, reflecting 38 Pale damage back into the projection with +26 Stagger!
   * Hwang and Park deliver coordinated Void and Lament strikes from Nodes 4 and 5, destabilizing the shadow's harmonic cohesion.
 
+
 ```text
 +=====================================================================+
-|         TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)          |
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02        |
 +---------------------------------------------------------------------+
-| - Turn 02: Marjuk freezes Node 1; Hwang & Park strike; Echo 60%     |
-| Stagger 1.                                                          |
-| - Turn 03: Posture broken; all 4-affinity strikes deal 2.0x direct  |
-| damage.                                                             |
-| - Turn 04: Echo attempts dimensional toll; Xyan deploys Singularity |
-| Well.                                                               |
-| - Turn 05: Park executes Flerehan resonance, purging the sorrow     |
-| harmonic.                                                           |
-| - Turn 06: Marjuk & Xyan coordinate terminal lockdown; Echo         |
-| dissolves.                                                          |
+| [STAGE NODES 01 TO 10 — LOWER ARCHIVE ELEVATOR SHAFT]               |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [SHADOW][MARJUK]        [HWANG] [PARK]                          [MA |
++---------------------------------------------------------------------+
+| - Node 01: Weeping Shadow (Posture 115/170 / Stasis Fog Frozen)     |
+| - Node 02: Archive Lead Marjuk (Point-Blank Band 1 / Stasis Seal)   |
+| - Node 04: Agent Hwang (Void Scalpel / Range Band 2)                |
+| - Node 05: Agent Park (Lament Requiem Resonant Beam / Range Band 3) |
++---------------------------------------------------------------------+
+| - Marjuk      : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90 |
+| - Agent Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60 |
+| - Agent Park  : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65 |
+| - Weeping Shadow: Spd 4 -> 2 AP | HP 280/360 | Posture 115/170 [CRA |
 +=====================================================================+
 ```
+
+###### Turn 02 Action Resolution Log (Stasis Lock & Stagger Build)
+- **Tripartite Resonance Strike**:
+  * **Archive Lead Marjuk**: Holds Node 02 in Point-Blank Band 1. Spends 2 AP to maintain *The Temporal Stasis Array*, freezing the lower elevator shaft in chronological amber.
+  * The Weeping Shadow attempts `[Chrono-Lament Wail]`, but Marjuk's stasis array turns the pulse back into the projection!
+  * **Agent Hwang**: From Node 04 (Range Band 2), discharges `[Whispering Needle Piercing Void]`: **36 Void Damage**!
+  * **Agent Park**: From Node 05 (Range Band 3), unleashes a resonant Lament beam: **32 Damage**!
+  * Weeping Shadow HP drops to **212/360**!
+  * Posture drops to **68/170**, crossing the **60% Posture Threshold (102 Points)**!
+  * **STAGGER LEVEL 1 TRIGGERED!** The shadow's projection wavers and flickers out of phase!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — POSTURE BREAK STAGGER LEVEL 1]              |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [SHADOW][MARJUK]        [HWANG] [PARK]                          [MA |
++---------------------------------------------------------------------+
+| - Node 01: Weeping Shadow (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)     |
+| - Node 02: Archive Lead Marjuk (Applying Chronological Seal)        |
+| - Node 04: Agent Hwang (Executing Void Disruption)                  |
+| - Node 05: Agent Park (Momentum Surge Primed / +2 Speed Next Turn)  |
++---------------------------------------------------------------------+
+| - Marjuk      : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90 |
+| - Agent Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60 |
+| - Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +30 | Postu |
+| - Shadow      : Spd 0 -> 0 AP | HP 142/360 | Posture 40/170 [STAGGE |
++=====================================================================+
+```
+
+###### Turn 03 Action Resolution Log (Stagger Exploitation & Momentum Surge)
+- **Allied Focus Fire (1.5x Direct Damage)**:
+  * Agent Park's `Momentum Surge` activates! (+2 Speed next turn). Park unleashes a direct point-blank acoustic smash: **54 Lament Damage**!
+  * Agent Hwang targets the projection's harmonic heart: **44 Void Damage**!
+  * Shadow HP collapses from 212 to **114/360**! Posture drops to **22/170**!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — SHATTERED MEMORY SURGE]                     |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [SHADOW][MARJUK][HWANG]         [PARK]                          [MA |
++---------------------------------------------------------------------+
+| - Node 01: Weeping Shadow (Recovered / Chanting Shattered Memory Su |
+| - Node 02: Archive Lead Marjuk (Deploying Chrono-Shield)            |
+| - Node 03: Agent Hwang (Slicing Acoustic Echo Cord)                 |
+| - Node 05: Agent Park (Lament Firing Line)                          |
++---------------------------------------------------------------------+
+| - Marjuk      : Spd 5 -> 3 AP | HP 172/180 | SP +32 | Posture 76/90 |
+| - Agent Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60 |
+| - Agent Park  : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65 |
+| - Shadow      : Spd 4 -> 2 AP | HP 84/360  | Posture 18/170 [UNSTAB |
++=====================================================================+
+```
+
+###### Turn 04 Action Resolution Log (Shattered Memory Surge)
+- **Hostile Desperation Surge**:
+  * The Weeping Shadow recovers, radiating a high-frequency mnemonic scream: `[Shattered Memory Surge]`.
+  * Marjuk deploys `[Directional Guard Absorption]`, taking 8 chip damage (HP: 172/180) and shielding Hwang and Park from psychological feedback!
+  * Hwang and Park coordinate counter-fire, stripping another 14 points of Posture and driving HP down to **52/360**!
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — TERMINAL STAGGER LEVEL 2 INDUCTION]         |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [SHADOW][MARJUK][HWANG] [PARK]                                  [MA |
++---------------------------------------------------------------------+
+| - Node 01: Weeping Shadow (TERMINAL STAGGER / POSTURE 0/170 / 2.0x  |
+| - Node 02: Archive Lead Marjuk (Locking Temporal Stasis Box)        |
+| - Node 03: Agent Hwang (Void Disruption Climax)                     |
+| - Node 04: Agent Park (Acoustic Resonance Climax)                   |
++---------------------------------------------------------------------+
+| - Marjuk      : Spd 5 -> 3 AP | HP 172/180 | SP +32 | Posture 76/90 |
+| - Agent Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60 |
+| - Agent Park  : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65 |
+| - Shadow      : Spd 0 -> 0 AP | HP 20/360  | Posture 0/170 [COLLAPS |
++=====================================================================+
+```
+
+###### Turn 05 Action Resolution Log (Terminal Stagger Level 2 Induction)
+- **Temporal Box Lock & Terminal Collapse**:
+  * Marjuk slams the stasis casing shut around the projection's focal core, stripping the final 8 Posture points!
+  * **TERMINAL STAGGER TRIGGERED!** Posture hits **0/170**. The shadow dissolves into slow-motion crystalline tears.
+
+---
+
+```text
++=====================================================================+
+|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06        |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — CLIMAX EXECUTION & PURIFICATION]            |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [MIST]  [MARJUK][HWANG] [PARK]                                  [MA |
++---------------------------------------------------------------------+
+| - Node 01: Weeping Shadow (Dissolved into Pale Mnemonic Mist)       |
+| - Node 02: Archive Lead Marjuk (Storing Crystallized Memory)        |
+| - Node 03: Agent Hwang (Recording Historical Ledger)                |
+| - Node 04: Agent Park (Harvesting Refined Reagents)                 |
++---------------------------------------------------------------------+
+| - Marjuk      : Spd 5 -> 3 AP | HP 172/180 | SP +40 | Posture 85/90 |
+| - Agent Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60 |
+| - Agent Park  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65 |
+| - Shadow      : HP 0/360 [PURIFIED] | +0.028 TONS REFINED HAN HARVE |
++=====================================================================+
+```
+
+###### Turn 06 Action Resolution Log (Climax Execution & Purification)
+- **Mnemonic Purification**:
+  * Agent Park, Agent Hwang, and Archive Lead Marjuk execute a synchronized three-way purge.
+  * The Weeping Shadow dissolves into pure, sweet-smelling mnemonic mist and glittering Han crystals.
+  * Floor 6 pneumatic flues harvest **+0.028 tons of refined Han**!
+
 
 ```text
 +=====================================================================+
