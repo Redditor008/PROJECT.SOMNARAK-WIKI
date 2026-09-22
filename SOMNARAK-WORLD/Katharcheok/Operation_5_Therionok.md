@@ -213,224 +213,352 @@ The battle for the Black Cages was joined.
 
 ```text
 +=====================================================================+
-|           TURN 1: KINETIC INGRESS & SHOCK WHIP DEFLECTION           |
+|         TARGET DOSSIER: BEASTMASTER JAGYEON & SE-C-IIIγ-102         |
 +---------------------------------------------------------------------+
-| CLASH 1: Beastmaster Jagyeon vs Commander Taeho                     |
-| > Boss Skill: [Harmonic Shock Lash] (Atk Power 28, Electric/Slash)  |
-|   > Taeho Skill: [Phalanx Bastion: Obsidian Wall] (Def Power 32)    |
-|   > Clash Result: Taeho WINS (Power 32 vs 28).                      |
-|     Kinetic shield grounds the 50,000-volt high-voltage arc.        |
-|   > Taeho reflects 180 kinetic tremor damage back to Beast-Armor.   |
+| APEX TARGET        : Beastmaster Jagyeon ('The Arena Patriarch')    |
+| MODULAR WEAPON     : Harmonic Shock Whip (High-Voltage Electric/Sla |
+| CONTRABAND ENTITY  : SE-C-IIIγ-102 'Chained Frenzy' (WAW Threat / D |
+| ESCORT MINIONS     : Pit Gladiators (x2) & Barbed Harpooners        |
+| ENCOUNTER DOMAIN   : Zone D & E Colosseum Arena & Cages (-260m Dept |
 +---------------------------------------------------------------------+
-| CLASH 2: Pit Gladiators (x2) vs Sapper Joon                         |
-|   > Gladiator Skill: [Barbed Harpoon Thrust] (Atk Power 22, Pierce) |
-| > Joon Skill: [Deployable Mantlet Barrier] (Def Power 26, Kinetic)  |
-|   > Clash Result: Joon WINS. Harpoons shatter against mantlet.      |
+| BOSS COMBAT PROFILE (BEASTMASTER JAGYEON):                          |
+| - Beast Armor HP   : 2,400 HP | Core Body HP: 2,400 HP (Total 4,800 |
+| - Shock Whip HP    : 1,800 HP (Modular Destructible Weapon Part)    |
+| - Posture Pool     : 240/240 (Dual Threshold Stagger System)        |
+| - Stagger 1 Proc   : 60% Posture Strain (144 Posture) / Whip Break  |
+| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Stagger / Cask R |
+| - Primary Attack   : Harmonic Shock Lash & Dual Lightning Cleave (S |
 +---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-|   * Yuna: Casts [Cipher-Scan: Neural Collar Frequency]              |
-|     Scans slave-collar resonance receiver on SE-C-IIIγ-102.         |
-|   * Minho: Fires [Neural Lancet: Calibrated Dart]                   |
-|     Deals 260 Pierce damage to Jagyeon's reinforced greaves.        |
-|   * Soojin: Deploys [Sedative Aerosol Ward]                         |
-|     Calms agitated sorrow emissions in the sand pit.                |
-|   * Echo: Activates [Shadow Cloak] -> Scales basalt arena pillars.  |
-+---------------------------------------------------------------------+
-| ROUND 1 DAMAGE TOTALS:                                              |
-|   * Jagyeon Beast-Hide Armor HP: 2,400 -> 1,960 / 2,400 (-440 HP)   |
-|   * Harmonic Shock Whip HP: 1,800 / 1,800                           |
-|   * SE-C-IIIγ-102 Chained Frenzy Core HP: 3,400 / 3,400             |
-|   * Combined Target HP: 7,160 / 7,600 | UCD Composure: 100%         |
-+=====================================================================+
-```
-
-```text
-+=====================================================================+
-|          TURN 2: SAPPING THE WHIP GENERATOR & FREQUENCY JAM         |
-+---------------------------------------------------------------------+
-| CLASH 1: Beastmaster Jagyeon vs Sapper Joon                         |
-|   > Boss Skill: [Dual Lightning Cleave] (Atk Power 26, Heavy Slash) |
-|   > Joon Skill: [Hydraulic Kinetic Ram] (Atk Power 30, Heavy Blunt) |
-|   > Clash Result: Joon WINS (Power 30 vs 26).                       |
-|     Hydraulic ram smashes the hip battery generator of the whip!    |
-|   > Deals 560 Blunt damage to Harmonic Shock Whip.                  |
-+---------------------------------------------------------------------+
-| CLASH 2: SE-C-IIIγ-102 'Chained Frenzy' vs Auditor Yuna             |
-| > Entity Skill: [Crimson Chain Flail] (Atk Power 24, Grudge/Slash)  |
-|   > Yuna Skill: [Cipher-Pulse: Damping Wall] (Def Power 28, EMP)    |
-|   > Clash Result: Yuna WINS. EMP pulse disrupts chain harmonic.     |
-+---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-|   * Taeho: Uses [Shield Bash: Heavy Tremor]                         |
-|     Deals 300 Blunt damage to Jagyeon's breastplate.                |
-|   * Minho: Casts [Memory Anchor: Cognitive Salve]                   |
-|     Reinforces squad mental composure (+15 SP).                     |
-|   * Soojin: Deploys [Resonance Snare: Cold Iron]                    |
-|     Restricts thrashing movement of the beast's limbs.              |
-|   * Echo: Slices overhead winch line, dropping steel cage on flank. |
-+---------------------------------------------------------------------+
-| ROUND 2 DAMAGE TOTALS:                                              |
-|   * Jagyeon Beast-Hide Armor HP: 1,960 -> 1,660 / 2,400 (-300 HP)   |
-|   * Harmonic Shock Whip HP: 1,800 -> 1,240 / 1,800 (-560 HP)        |
-| * SE-C-IIIγ-102 Chained Frenzy Core HP: 3,400 -> 3,100 / 3,400      |
-|     (-300 HP)                                                       |
-|   * Combined Target HP: 6,000 / 7,600 | UCD Composure: 98%          |
-+=====================================================================+
-```
-
-```text
-+=====================================================================+
-|        TURN 3: PRECISION LANCET PIERCE & STAGGER THRESHOLD 1        |
-+---------------------------------------------------------------------+
-| CLASH 1: Beastmaster Jagyeon vs Senior Investigator Minho           |
-|   > Boss Skill: [Overcharged Frenzy Lash] (Atk Power 29, Electric)  |
-|   > Minho Skill: [Neural Lancet: Synaptic Pierce] (Atk Power 33)    |
-|   > Clash Result: Minho WINS (Power 33 vs 29).                      |
-|     Silver lancet severs the insulated grip of the Shock Whip!      |
-|   > Deals 1,240 Pierce damage -> PART DESTROYED: Shock Whip!        |
-+---------------------------------------------------------------------+
-| STATUS EVENT: STAGGER THRESHOLD 1 TRIGGERED!                        |
-|   * Combined Target HP drops below 60% (4,560 HP).                  |
-|   * Whip short-circuits, electrocuting Jagyeon's armored gauntlets! |
-| * Jagyeon suffers [Stagger 1] for 1 turn (Def 0, takes 2.0x         |
-|     damage).                                                        |
-+---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-|   * Taeho: Executes [Heavy Piston Strike] -> Deals 520 Blunt.       |
-|   * Joon: Plants [Thermite Disruption Clamp] -> Deals 480 Thermal.  |
-| * Echo: Drives [Eclipse Stiletto] into hip armor -> Deals 440       |
-|     Slash.                                                          |
-|   * Soojin: Readies cryo-dampening mantle for upcoming beast surge. |
-+---------------------------------------------------------------------+
-| ROUND 3 DAMAGE TOTALS:                                              |
-|   * Jagyeon Beast-Hide Armor HP: 1,660 -> 220 / 2,400 (-1,440 HP)   |
-|   * Harmonic Shock Whip: [DESTROYED]                                |
-|   * SE-C-IIIγ-102 Chained Frenzy Core HP: 3,100 / 3,400             |
-|   * Combined Target HP: 3,320 / 7,600 (Stagger 1 Active)            |
-+=====================================================================+
-```
-
-```text
-+=====================================================================+
-|        TURN 4: CRIMSON FRENZY THRASH & LEADED SANCTUARY WARD        |
-+---------------------------------------------------------------------+
-| ENCOUNTER EVENT: Neural Slave-Collar Overload!                      |
-|   * Jagyeon recovers from Stagger, triggering slave-collar surge.   |
-|   * SE-C-IIIγ-102 'The Chained Frenzy' snaps collar in blind fury!  |
-| * The beast thrashes wildly, whipping burning red chains across     |
-|     pit.                                                            |
-+---------------------------------------------------------------------+
-| CLASH 1: SE-C-IIIγ-102 'Chained Frenzy' vs Handler Soojin           |
-|   > Entity Skill: [Whirling Pyre of Grudge-Chains] (Atk Power 34)   |
-|   > Soojin Skill: [Leaded Sanctuary: Damping Dome] (Def Power 37)   |
-|   > Clash Result: Soojin WINS (Power 37 vs 34)!                     |
-|     Leaded damping dome absorbs the fiery kinetic chain strikes.    |
-|   > Soojin channels kinetic damping -> Deals 540 Void damage.       |
-+---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-| * Taeho: Interposes shield to shield spectator box exits from fire. |
-|   * Yuna: Locks arena blast gates, preventing entity from escaping. |
-| * Minho: Dispenses [Neuro-Calming Aerosol] to soothe beast psyche.  |
-|   * Joon: Fires pneumatic anchor pitons into beast's rear chains.   |
-+---------------------------------------------------------------------+
-| ROUND 4 DAMAGE TOTALS:                                              |
-|   * Jagyeon Beast-Hide Armor HP: 220 / 2,400                        |
-|   * Harmonic Shock Whip: [DESTROYED]                                |
-| * SE-C-IIIγ-102 Chained Frenzy Core HP: 3,100 -> 2,560 / 3,400      |
-|     (-540 HP)                                                       |
-|   * Combined Target HP: 2,780 / 7,600 | UCD Composure: 95%          |
-+=====================================================================+
-```
-
-```text
-+=====================================================================+
-|    TURN 5: PHANTOM STILETTO SEVER & TERMINAL STAGGER THRESHOLD 2    |
-+---------------------------------------------------------------------+
-| CLASH 1: SE-C-IIIγ-102 'Chained Frenzy' vs Infiltrator Echo         |
-| > Entity Skill: [Thrashing Vertebrae Cleave] (Atk Power 30, Slash)  |
-|   > Echo Skill: [Eclipse Stiletto: Phantom Sever] (Atk Power 35)    |
-|   > Clash Result: Echo WINS (Power 35 vs 30).                       |
-|     Echo leaps from basalt ledge, shearing central chain link.      |
-|   > Deals 720 Slash damage to Dancing Chains Core.                  |
-+---------------------------------------------------------------------+
-| STATUS EVENT: TERMINAL STAGGER THRESHOLD 2 TRIGGERED!               |
-|   * Combined Target HP falls below 25% (1,900 HP).                  |
-|   * The vertebrae chain links fracture; beast collapses into sand!  |
-|   * Both Jagyeon and SE-C-IIIγ-102 enter [Terminal Stagger 2]!      |
-+---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-| * Joon: Shatters remaining shock collar relays on the arena floor.  |
-|   * Minho: Injects [Sedative Soporific Solution] into beast flank.  |
-|   * Yuna: Completes full download of 80 criminal bidder manifests.  |
-|   * Soojin: Slides Class-IV Leaded Vacuum Cask over dormant core.   |
-+---------------------------------------------------------------------+
-| ROUND 5 DAMAGE TOTALS:                                              |
-| * Jagyeon Beast-Hide Armor HP: 220 -> 0 / 2,400 (-220 HP, CRUSHED)  |
-|   * Harmonic Shock Whip: [DESTROYED]                                |
-| * SE-C-IIIγ-102 Chained Frenzy Core HP: 2,560 -> 1,220 / 3,400      |
-|     (-1,340 HP)                                                     |
-|   * Combined Target HP: 1,220 / 7,600 (Terminal Stagger 2 Active)   |
-+=====================================================================+
-```
-
-```text
-+=====================================================================+
-|        TURN 6: CLIMAX OVERDRIVE: IRON GAVEL & CRYO-CASK SEAL        |
-+---------------------------------------------------------------------+
-| FINAL EXECUTIONS & OVERDRIVE RESOLUTION:                            |
-| CLASH 1: Commander Taeho vs Beastmaster Jagyeon                     |
-| > Taeho Overdrive: [Iron Gavel: Decreed Subjugation] (Cost: 35 SP)  |
-|   > Overdrive Power: 45 (Devastating Kinetic Blunt Verdict)         |
-|   > Execution: Heavy Obsidian shield smashes into Jagyeon's helm.   |
-|     The reinforced plate fractures; Jagyeon is slammed into sand.   |
-|   > Non-lethal concussive impact renders Jagyeon unconscious.       |
-+---------------------------------------------------------------------+
-| CLASH 2: Containment Handler Soojin vs SE-C-IIIγ-102 'Dancing       |
-|     Chains'                                                         |
-|   > Soojin Overdrive: [Class-IV Leaded Vacuum Seal: Eternal Peace]  |
-|   > Overdrive Power: 43 (Absolute Containment / Cryo-Lock)          |
-|   > Execution: Soojin clamps leaded seal collar onto entity core.   |
-| Cryogenic vacuum suction pulls all flaming chain-links into cask.   |
-|   > SE-C-IIIγ-102 cools into inert dormancy inside lead mantle!     |
-+---------------------------------------------------------------------+
-| PACIFICATION SUMMARY:                                               |
-| * Beastmaster Jagyeon: APPREHENDED (Armor broken, target secured).  |
-|   * Harmonic Shock Whip & Slave Collars: 100% DEMOLISHED.           |
-| * SE-C-IIIγ-102 'Dancing Chains': 100% CONTAINED (Zero casualties). |
-| * 12 captive juvenile entities safely secured and transferred to    |
-|     R.D.                                                            |
+| CONTRABAND ENTITY PROFILE (SE-C-IIIγ-102 'CHAINED FRENZY'):         |
+| - Entity HP Pool   : 3,400 HP | Posture Pool: 240/240               |
+| - Total Combined   : 7,600 Encounter HP                             |
+| - Attack Affinity  : Crimson Chain Flail & Razor Iron Storm (Grudge |
 +=====================================================================+
 ```
 
 ---
 
-#### Chapter 7: The Aftermath & The Calmed Menagerie
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 05 — BATTLE TURN 01          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — ZONE D+E UNDERGROUND ARENA PIT]             |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN][JAGYEON][YUNA]  [MINHO] [CIVS]    |
+|                                  [WHIP]                           [ |
++---------------------------------------------------------------------+
+| - Node 01: Breach Entry / Class-II Armored Cruiser 'The Iron Vangua |
+| - Node 02: Commander Taeho (Vanguard Band 1 / Phalanx Bastion Obsid |
+| - Node 03: Engineer Joon (Point-Blank Band 1 / Deployable Mantlet B |
+| - Node 04: Handler Soojin (Close Skirmish Band 2 / Sedative Aerosol |
+| - Node 05: Beastmaster Jagyeon & Shock Whip (Central Arena Sand Rin |
+| - Node 06: Auditor Yuna (Mid-Field Band 3 / Spectator Wiretap Conso |
+| - Node 07: Investigator Minho (Mid-Field Band 3 / Mnemonic Sniper P |
+| - Node 08: Slave Cages (28 Captive Arena Gladiators)                |
+| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' & Infiltrator Echo (Pilla |
++---------------------------------------------------------------------+
+| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 45/50 | Posture |
+| - Joon        : Spd 5 -> 3 AP | HP 3,800/3,800 | SP 40/40 | Posture |
+| - Yuna        : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 50/50 | Posture |
+| - Minho       : Spd 7 -> 4 AP | HP 2,900/2,900 | SP 45/45 | Posture |
+| - Soojin      : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 50/50 | Posture |
+| - Echo        : Spd 9 -> 5 AP | HP 2,600/2,600 | SP 40/40 | Posture |
+| - Jagyeon Rig : Spd 4 -> 2 AP | HP 2,400/2,400 | Posture 240/240 [B |
+| - Whip Part   : Spd 3 -> 1 AP | HP 1,800/1,800 | Posture 150/150 [E |
+| - Chain Beast : Spd 5 -> 3 AP | HP 3,400/3,400 | Posture 240/240 [C |
++=====================================================================+
+```
 
-The roar of the crowd had long turned into terrified silence as municipal warden units flooded the spectator loges, placing high-grade magnetic restraint cuffs on all eighty criminal gamblers.
-
-In the center of the arena pit, the blinding red glow of SE-C-IIIγ-102 had faded into absolute stillness. Soojin knelt beside the heavy lead vacuum cask, checking the pressure gauges with practiced precision. Inside, the dancing chains lay dormant, fully quenched and safely stabilized at sub-zero temperatures.
-
-On the churned red sand, Beastmaster Jagyeon lay unconscious, his spiked armor shattered and his shock whips twisted into useless copper wire. Senior Investigator Minho secured Jagyeon with reinforced carbon-steel restraints.
-
-"Jagyeon is secured," Minho said, looking down at the fallen beastmaster. "Multiple concussive contusions, but autonomic functions are normal. He will face forty consecutive life sentences in the Deep Vaults."
-
-Across the arena, Joon and Echo oversaw the extraction of the twelve captive juvenile entities. Directorate medical transport teams carefully loaded the dormant, glowing spheres into climate-controlled containment cradles for transfer to the Reverie Directorate's rehabilitation sanctuaries.
-
-"All twelve entities safely evacuated," Soojin reported, her voice filled with deep relief. "None suffered permanent psychic trauma. With gentle care and proper resonance tuning, they will fully recover."
-
-Auditor Yuna walked up to Taeho, displaying the completed digital manifests on her cipher slate.
-
-"Eighty criminal patrons detained," Yuna said. "We have seized twenty-four million Echoes in frozen gambling assets and uncovered contracts proving that three private security firms were purchasing weaponized entities for illegal border skirmishes. The entire trafficking network has been decapitated."
-
-Taeho looked up at the towering basalt walls of the colosseum, his face illuminated by the amber glow of the emergency lamps.
-
-"Five operations completed," Taeho said quietly. "The Mask Market. The Bleached Wards. The Low Sinks. The Usury Vaults. And now the Black Cages."
-
-"Only one remains," Echo said, stepping up beside him. "The Underworld King. King Kang-hyuk. In the Sunken Citadel beneath Zone B."
-
-"Kang-hyuk built his throne on the backs of all five syndicates," Taeho said, his grip tightening on his shield strap. "With all five syndicates broken, his citadel stands alone. Prepare the squad for Operation 6: Basileugung. We end this war."
+###### Turn 01 Action Resolution Log (Kinetic Ingress & Shock Whip Deflection)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Commander Taeho initializes `[Law of the Mantle]`: All allies within 1 node gain $+3$ Protection and physical stagger immunity.
+  * Infiltrator Echo activates `[Shadow Cloak]`: Enters stealth for 2 turns; cannot be targeted by single-target attacks; $+50\%$ Critical Strike Chance.
+  * Handler Soojin initializes `[Sedative Aerosol Ward]`, suppressing agitated sorrow emissions in the sand pit.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Commander Taeho (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta $-1$, Poise $+25$): Holds Node 02. Spends 2 AP on `[Phalanx Bastion: Obsidian Wall]`.
+  * Engineer Joon (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 03. Spends 2 AP on `[Deployable Mantlet Barrier]`. Holds 1 AP in Reserve.
+  * Auditor Yuna (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 06 (Range Band 3). Spends 2 AP on `[Cipher-Scan: Neural Collar Frequency]`, 2 AP on `[Asset Scan]`.
+  * Investigator Minho (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Stands at Node 07. Spends 2 AP on `[Neural Lancet: Calibrated Dart]`. Holds 2 AP in Reserve.
+  * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 04. Spends 2 AP on maintaining the sedative ward. Holds 1 AP in Guard.
+  * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta $+2$): Scales basalt arena pillars toward Node 10 from stealth. Spends 2 AP on positioning.
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 02 to 05)**: Beastmaster Jagyeon lashes out with `[Harmonic Shock Lash]` (Base 16 + 2 Coins = 28 Power, Electric/Slash) against Node 02.
+    * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 18 + 2 Coins = 32 Power, Kinetic Shield).
+    * **Clash Outcome**: Taeho WINS THE CLASH (32 vs 28)!
+    * The kinetic shield grounds the 50,000-volt high-voltage arc directly into the sand deck (`[P3: Parry/Protection]`).
+    * Taeho reflects **180 kinetic tremor damage** back into Jagyeon's beast-hide harness! Inflicts $+28$ Posture Strain.
+  * **Clash 2 (Node 03 to 05)**: Pit Gladiators thrust with `[Barbed Harpoon Thrust]` (Atk Power 22, Pierce).
+    * Engineer Joon's `[Deployable Mantlet Barrier]` (Def Power 26, Kinetic Shield).
+    * **Clash Outcome**: Joon WINS THE CLASH (26 vs 22).
+    * Harpoons shatter against the reinforced titanium mantlet; zero damage taken.
+  * **Unopposed Ranged Fire**:
+    * Auditor Yuna's `[Cipher-Scan]` identifies the high-voltage battery housing at Jagyeon's hip.
+    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into Jagyeon's reinforced greaves, dealing **260 Pierce damage** and $+26$ Posture Strain!
+    * Handler Soojin's sedative ward stabilizes ambient sorrow emissions around the arena floor.
+- **Step 4: Turn End State**:
+  * Jagyeon Beast Armor HP: 2,400 -> **1,960/2,400** (Combined Encounter HP: **7,160/7,600**).
+  * Jagyeon Posture: 240 -> **186/240**.
+  * Squad Composure: **100% (50/50 SP)**. All 6 Officers uninjured.
 
 ---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 05 — BATTLE TURN 02          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — WHIP SAPPING & FREQUENCY JAM]               |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN][JAGYEON][YUNA]  [MINHO] [CIVS]  [ |
+|                                  [WHIP]                             |
++---------------------------------------------------------------------+
+| - Node 02: Commander Taeho (Advancing to Node 03 / Concussive Shiel |
+| - Node 03: Engineer Joon (Hydraulic Kinetic Ram Smashes Whip Genera |
+| - Node 04: Handler Soojin (Leaded Snare Restricting Thrashing Chain |
+| - Node 05: Beastmaster Jagyeon (Armor 1,660/2,400 / Whip 1,240/1,80 |
+| - Node 06: Auditor Yuna (Cipher-Pulse Disrupting Slave-Collar Frequ |
+| - Node 07: Investigator Minho (Memory Anchor Restoring Squad Compos |
+| - Node 09: Infiltrator Echo (High Basalt Pillar Flank behind Ring)  |
+| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' (3,120/3,400 HP / Collar  |
++---------------------------------------------------------------------+
+| - Joon        : Spd 7 -> 4 AP [SURGE] | HP 3,800/3,800 | SP 40/40 | |
+| - Minho       : Spd 9 -> 5 AP [SURGE] | HP 2,900/2,900 | SP 50/50 | |
+| - Jagyeon Rig : Spd 3 -> 1 AP | HP 1,660/2,400 | Posture 170/240 [G |
+| - Whip Part   : Spd 2 -> 1 AP | HP 1,240/1,800 | Posture 86/150 [VO |
+| - Chain Beast : Spd 4 -> 2 AP | HP 3,120/3,400 | Posture 204/240 [S |
++=====================================================================+
+```
+
+###### Turn 02 Action Resolution Log (Sapping the Whip Generator & Frequency Jam)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Engineer Joon and Investigator Minho both trigger `Momentum Surge` (+2 Speed next turn).
+  * Jagyeon overcharges the dual whip coils: `[Dual Lightning Cleave]`.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Engineer Joon (Speed 7 -> 4 AP): Advances from Node 03 to Node 04. Spends 3 AP to unleash `[Hydraulic Kinetic Ram: Structural Sapping]`.
+  * Auditor Yuna (Speed 7 -> 4 AP): Moves to Node 06, deploying `[Cipher-Pulse: Damping Wall]` (2 AP) against SE-C-IIIγ-102's collar receiver.
+  * Commander Taeho (Speed 4 -> 2 AP): Steps to Node 03, executing `[Shield Bash: Heavy Tremor]` (2 AP).
+  * Investigator Minho (Speed 9 -> 5 AP): Casts `[Memory Anchor: Cognitive Salve]` (2 AP), reinforcing squad composure (+15 SP).
+  * Handler Soojin (Speed 5 -> 3 AP): Flings `[Resonance Snare: Cold Iron]` (2 AP) around the chain beast's limbs.
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 04 to 05)**: Jagyeon executes `[Dual Lightning Cleave]` (Base 14 + 2 Coins = 26 Power, Heavy Slash).
+    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 18 + 2 Coins = 30 Power, Heavy Blunt).
+    * **Clash Outcome**: Joon WINS THE CLASH (30 vs 26)!
+    * The hydraulic ram smashes straight into the hip battery generator of the whip!
+    * Deals **560 Blunt damage** directly to the Harmonic Shock Whip and inflicts $+56$ Posture Strain!
+  * **Clash 2 (Node 06 to 10)**: SE-C-IIIγ-102 'Chained Frenzy' thrashes with `[Crimson Chain Flail]` (Power 24, Grudge).
+    * Auditor Yuna unleashes `[Cipher-Pulse: Damping Wall]` (Def Power 28, EMP).
+    * **Clash Outcome**: Yuna WINS THE CLASH (28 vs 24).
+    * The EMP wave scrambles the collar's agony generator, dealing **280 Resonance damage** to SE-C-IIIγ-102 and $+36$ Posture Strain!
+  * **Follow-Up Maneuvers**:
+    * Taeho's `[Shield Bash]` deals **300 Blunt damage** to Jagyeon's breastplate.
+    * Minho's cognitive salve restores $+15$ SP across the strike cadre.
+    * Infiltrator Echo severs an overhead winch cable, dropping a heavy iron cage onto the gladiators' weapon rack!
+- **Step 4: Turn End State**:
+  * Jagyeon Beast Armor HP: 1,960 -> **1,660/2,400** | Posture: **170/240 [GENERATOR BROKEN]**.
+  * Harmonic Shock Whip HP: 1,800 -> **1,240/1,800** | Posture: **86/150**.
+  * SE-C-IIIγ-102 Chain Beast HP: 3,400 -> **3,120/3,400** | Posture: **204/240**.
+  * Combined Encounter HP: **6,020/7,600** | Squad Composure: **98%**.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 05 — BATTLE TURN 03          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — WHIP SHATTER & STAGGER THRESHOLD 1]         |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER]        [TAEHO] [JOON]  [JAGYEON][YUNA]  [MINHO] [CIVS]  [ |
++---------------------------------------------------------------------+
+| - Node 03: Commander Taeho (Heavy Piston Strike Smashes Beast Breas |
+| - Node 04: Engineer Joon (Thermite Disruption Clamp Igniting Batter |
+| - Node 05: Beastmaster Jagyeon (STAGGER LEVEL 1 / WHIP DESTROYED)   |
+| - Node 06: Auditor Yuna (Slave Auction Registry Download In Progres |
+| - Node 07: Investigator Minho (Synaptic Pierce Dismantles Whip Hub) |
+| - Node 09: Infiltrator Echo (Driving Eclipse Stiletto into Servo Jo |
+| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' (Chains Trembling in Rage |
++---------------------------------------------------------------------+
+| - Taeho       : Spd 6 -> 3 AP [SURGE] | HP 4,400/4,400 | SP 48/50 | |
+| - Jagyeon Rig : Spd 0 -> 0 AP | HP 420/2,400   | Posture 84/240 [ST |
+| - Whip Part   : DESTROYED (0/1,800 HP)                              |
+| - Chain Beast : Spd 5 -> 3 AP | HP 3,120/3,400 | Posture 204/240    |
++=====================================================================+
+```
+
+###### Turn 03 Action Resolution Log (Precision Lancet Pierce & Stagger Threshold 1)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Commander Taeho's `Momentum Surge` activates (+2 Speed next turn -> Net Speed 6, 3 AP).
+  * Jagyeon attempts his lethal arena execution sweep: `[Thunderous Execution Lash]`.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Investigator Minho (Speed 9 -> 5 AP): Positions atop a basalt pillar at Node 07. Spends 3 AP on `[Neural Lancet: Synaptic Pierce]`.
+  * Commander Taeho (Speed 6 -> 3 AP): Charges from Node 03 to Node 05, unleashing `[Heavy Piston Strike]` (2 AP).
+  * Engineer Joon (Speed 7 -> 4 AP): Plants `[Thermite Disruption Clamp]` (2 AP) directly on Jagyeon's battery coupling.
+  * Infiltrator Echo (Speed 9 -> 5 AP): Drops from high pillars onto the whip's emitter hub, driving `[Eclipse Stiletto]` (2 AP).
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 07 to 05)**: Jagyeon unleashes `[Thunderous Execution Lash]` (Base 16 + 2 Coins = 28 Power, Heavy Slash).
+    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 20 + 2 Coins = 32 Power, High-Precision Pierce).
+    * **Clash Outcome**: Minho WINS THE CLASH (32 vs 28)!
+    * Minho's silver lancet pierces the primary plasma coil of the whip with surgical precision!
+    * **TARGETED PART DESTROYED**: `[The Harmonic Shock Whip]` explodes into smoking copper braids and shattered porcelain insulation (**1,240 Whip HP destroyed: 0/1,800**)!
+  * **STAGGER THRESHOLD 1 TRIGGERED!**
+    * Combined Target HP drops below 60% (4,560 HP), and Jagyeon's Posture falls past the 60% strain line!
+    * **STAGGER LEVEL 1 ACTIVE!** Jagyeon's beast armor loses all defense, taking 1.5x direct damage. All enemy counter-stances cancelled!
+  * **Punishment Strike Phase**:
+    * Commander Taeho's `[Heavy Piston Strike]` delivers **500 Blunt damage** to the exposed breastplate.
+    * Engineer Joon's thermite clamp burns through the greaves for **440 Thermal damage**.
+    * Infiltrator Echo's `[Eclipse Stiletto]` slices servo tendons for **300 Slash damage**.
+- **Step 4: Turn End State**:
+  * Jagyeon Beast Armor HP: 1,660 -> **420/2,400** (Chassis critically buckled!).
+  * Harmonic Shock Whip: **0/1,800 [DESTROYED]**.
+  * Combined Encounter HP: **3,540/7,600** | Posture: **84/240 [STAGGER LEVEL 1]**.
+  * Squad Composure: **100% (50/50 SP)**.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 05 — BATTLE TURN 04          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — BERSERK CHAINED FRENZY & LEADED WARD]       |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER]        [TAEHO] [JOON]  [JAGYEON][SOOJIN][YUNA]  [CIVS]  [ |
+|                                                   [MINHO]           |
++---------------------------------------------------------------------+
+| - Node 03: Commander Taeho (Shielding Gladiator Pens & Captives)    |
+| - Node 04: Engineer Joon (Pneumatic Pry Bar Unlatching Heavy Cage L |
+| - Node 05: Beastmaster Jagyeon (Recovered / Pulling Remote Shock Co |
+| - Node 06: Handler Soojin (Leaded Sanctuary Ward Enclosing Arena Sq |
+| - Node 07: Auditor Yuna & Minho (Cutting Arena Remote Shock Current |
+| - Node 08: 28 Captive Gladiators (Cognitive Shields Holding Intact) |
+| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' (BERSERK STATE / Razor Ch |
++---------------------------------------------------------------------+
+| - Soojin      : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 50/50 | |
+| - Jagyeon Rig : Spd 2 -> 1 AP | HP 420/2,400   | Posture 58/240     |
+| - Chain Beast : Spd 6 -> 4 AP | HP 2,580/3,400 | Posture 130/240 [B |
++=====================================================================+
+```
+
+###### Turn 04 Action Resolution Log (Crimson Frenzy Thrash & Leaded Sanctuary Ward)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Recovering from Stagger, Jagyeon hits the remote torture override on the beast's collar at Node 10!
+  * **ENCOUNTER EVENT**: SE-C-IIIγ-102 'Chained Frenzy' enters **Berserk State** (+4 Attack Power)!
+  * Massive barbed chains whip in an uncontrollable hurricane of red sparks and whistling steel.
+  * Handler Soojin's `Momentum Surge` activates (+2 Speed -> Net Speed 7, 4 AP).
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Handler Soojin (Speed 7 -> 4 AP): Moves to Node 06, deploying `[Leaded Sanctuary Ward: Vacuum Dome]` (3 AP) enclosing the squad and slave holding pens.
+  * Commander Taeho (Speed 4 -> 2 AP): Steps to Node 03, locking his Obsidian shield in front of the gladiator cages.
+  * Auditor Yuna (Speed 7 -> 4 AP): Hacks the arena electrical grid at Node 06, cutting off all torture voltage feeds (2 AP).
+  * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect captive sanity.
+  * Engineer Joon (Speed 5 -> 3 AP): Uses pneumatic pry bar at Node 04 to pop open the heavy cage padlocks (2 AP).
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-102 unleashes `[Razor Iron Storm: Chained Frenzy]` (Base 23 + 2 Coins = 33 Power, Area Slash/Grudge).
+    * Handler Soojin deploys `[Leaded Sanctuary Ward]` (Base 26 + 2 Coins = 36 Power, Vacuum Barrier).
+    * **Clash Outcome**: Soojin WINS THE CLASH (36 vs 33)!
+    * The lead-lined vacuum sphere fully captures the whirling razor-chain shockwave (`[P3: Parry/Protection]`).
+    * Zero chain shards penetrate the leaded barrier. Soojin redirects the trapped kinetic energy back into the beast's tether, dealing **540 Void damage** and $+74$ Posture Strain!
+- **Step 4: Turn End State**:
+  * Jagyeon Beast Armor HP: **420/2,400** | Posture: **58/240**.
+  * SE-C-IIIγ-102 Chain Beast HP: 3,120 -> **2,580/3,400** | Posture: **130/240**.
+  * Combined Encounter HP: **3,000/7,600** | Squad Composure: **96%**.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 05 — BATTLE TURN 05          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — PHANTOM SEVER & TERMINAL STAGGER]           |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER]        [TAEHO] [JOON]  [JAGYEON][SOOJIN][YUNA]  [CIVS]    |
+|                                                   [MINHO]         [ |
++---------------------------------------------------------------------+
+| - Node 03: Commander Taeho (Priming Iron Gavel for Cockpit Breach)  |
+| - Node 04: Engineer Joon (Tearing Away Buckled Greaves on Jagyeon)  |
+| - Node 05: Jagyeon Armor (TERMINAL STAGGER / POSTURE 0/240 / CRUSHE |
+| - Node 06: Handler Soojin (Aligning Class-IV Leaded Cryo-Cask at Da |
+| - Node 07: Investigator Minho (Silver Lancet Stripping Slave-Collar |
+| - Node 09: Infiltrator Echo (Eclipse Stiletto Phantom Sever on Chai |
+| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' (TERMINAL STAGGER / POSTU |
++---------------------------------------------------------------------+
+| - Echo        : Spd 11 -> 5 AP [MOMENTUM CRIT] | HP 2,600/2,600 | S |
+| - Jagyeon Rig : Spd 0 -> 0 AP | HP 0/2,400     | Posture 0/240 [CHA |
+| - Chain Beast : Spd 0 -> 0 AP | HP 1,360/3,400 | Posture 0/240 [TER |
++=====================================================================+
+```
+
+###### Turn 05 Action Resolution Log (Phantom Stiletto Sever & Terminal Stagger Threshold 2)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Infiltrator Echo readies `[Eclipse Stiletto: Phantom Sever]` from the overhead arena arches (+50% Crit Chance, ignores 100% defense).
+  * Investigator Minho targets the slave-collar's central explosive squib.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Infiltrator Echo (Speed 11 -> 5 AP, Momentum + Stealth Boost): Drops from the high arch onto Node 10. Spends 3 AP on `[Phantom Sever]`.
+  * Investigator Minho (Speed 7 -> 4 AP): Fires `[Silver Lancet: Cognitive Disruptor]` from Node 07 into the exposed collar root (2 AP).
+  * Engineer Joon (Speed 5 -> 3 AP): Smashes away Jagyeon's remaining leg armor at Node 04 (2 AP).
+  * Auditor Yuna (Speed 7 -> 4 AP): Finalizes forensic download of 8,900 slave contracts and illegal wagering ledgers at Node 06 (2 AP).
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 10)**: SE-C-IIIγ-102 thrashes with `[Barbed Spine Cleave]` (Atk Power 29, Slash).
+    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 24 + 2 Coins Heads = 34 Power, Slash).
+    * **Clash Outcome**: Echo WINS THE CLASH (34 vs 29)!
+    * Echo slices cleanly through the thick barbed-iron spine connecting the entity's central shackle!
+    * **CRITICAL HIT!** Deals **680 Slash damage** directly to the core and strips 90 Posture points!
+  * **Targeted Fire**:
+    * Investigator Minho's `[Silver Lancet]` strikes the collar receiver, disarming the explosive squib and dealing **460 Freezing Pierce damage**!
+    * Engineer Joon demolishes Jagyeon's buckled beast-hide armor with the pneumatic ram, dealing **420 Blunt damage** and crushing the harness completely (Armor HP: 0/2,400)!
+- **Step 4: TERMINAL STAGGER THRESHOLD 2 TRIGGERED!**:
+  * Both Jagyeon and SE-C-IIIγ-102 reach **Posture 0/240** and **0/240**!
+  * **TERMINAL STAGGER ACTIVE!** Jagyeon falls unconscious into the arena sand. SE-C-IIIγ-102's chains fall slack, the beast collapsing into exhausted weeping.
+  * Combined Encounter HP drops below 20% (Total HP: **1,360/7,600**).
+- **Step 5: Turn End State**:
+  * Jagyeon Beast Armor HP: **0/2,400 [ARMOR CRUSHED]** | Posture: **0/240**.
+  * SE-C-IIIγ-102 Chain Beast HP: **1,360/3,400** | Posture: **0/240 [TERMINAL STAGGER]**.
+  * Squad Composure: **100% (50/50 SP)**.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 05 — BATTLE TURN 06          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — CLIMAX OVERDRIVE: IRON GAVEL & CRYO-CASK SE |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER]                [JOON]  [TAEHO]  [SOOJIN][YUNA]  [CIVS]    |
+|                                  [JAGYEON]        [MINHO]         [ |
++---------------------------------------------------------------------+
+| - Node 05: Beastmaster Jagyeon (EXTRACTED UNCONSCIOUS & SECURED)    |
+| - Node 06: Auditor Yuna (8,900 Slave & Wagering Records Seized)     |
+| - Node 08: 28 Captive Gladiators (Safely Unlatched / Zero Fatalitie |
+| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' (100% CONTAINED IN CRYOGE |
++---------------------------------------------------------------------+
+| - Strike Cadre: Zero Fatalities | Composure 50/50 SP (Lucidity)     |
+| - Encounter Status: 100% PACIFIED | Handoff to RD Floor 2 Ready     |
++=====================================================================+
+```
+
+###### Turn 06 Action Resolution Log (Climax Overdrive: Iron Gavel & Cryo-Cask Seal)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Commander Taeho charges `[Decree of Unbroken Order — Iron Gavel]` (Cost: 35 SP).
+  * Handler Soojin activates `[Class-IV Leaded Cryo-Seal: Vault of Solitude]` (Cost: 35 SP).
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Commander Taeho (Speed 4 -> 2 AP): Steps up to Node 05, standing over Jagyeon's body. Spends 2 AP on Climax Overdrive.
+  * Handler Soojin (Speed 5 -> 3 AP): Wheels the Class-IV Cryogenic Leaded Cask directly beside the chained entity at Node 10. Spends 3 AP on Climax Containment.
+  * Engineer Joon and Infiltrator Echo: Unlatch the final cage doors on the 28 captive gladiators at Node 08, wrapping them in warm mantlets.
+  * Auditor Yuna: Verifies Level-5 encryption on the 8,900 seized wagering drives at Node 06.
+- **Step 3: Climax Overdrive Executions**:
+  * **Climax 1 (Commander Taeho vs Beastmaster Jagyeon)**:
+    * Taeho channels a 120 dB directed concussive wave through his tungsten truncheon: `[Iron Gavel: Decreed Subjugation]` (Power 42).
+    * Delivers a single calculated strike to Jagyeon's carotid nerve cluster.
+    * Non-lethal kinetic tremor ensures complete, safe neurological sedation.
+    * **BEASTMASTER JAGYEON SUBDUED & INCAPACITATED!** Remanded to Warden custody!
+  * **Climax 2 (Handler Soojin vs SE-C-IIIγ-102 'Chained Frenzy')**:
+    * Soojin unlatches the leaded collar, extending cryogenic containment arms around the sleeping entity: `[Vault of Solitude]` (Power 40).
+    * All residual sorrow vapor and chain residue are drawn into the vacuum cask within 4.3 seconds! Zero atmospheric leakage detected.
+    * The heavy basalt locking collar snaps shut with a resounding metallic boom: **CRYOGENIC VACUUM SEAL COMPLETE**.
+    * **SE-C-IIIγ-102 HP DROPS TO 0!** Fully contained in peaceful dormancy and logged for transfer to Reverie Directorate Floor 2!
+- **Step 4: Pacification & Operational Outcome**:
+  * **Beastmaster Jagyeon**: Armor demolished; arena boss safely secured in Warden custody.
+  * **Harmonic Shock Whip**: 100% destroyed.
+  * **SE-C-IIIγ-102 'Chained Frenzy'**: 100% contained in cryogenic lead cask. Zero leakage.
+  * **Civilian Captives**: 28 gladiators liberated from illegal fighting contracts without casualties.
+  * **Evidence**: 8,900 slave deeds and betting logs recovered, uncovering corrupt municipal wardens.
+
 
 ### Post-Action Forensic Inventory
 
