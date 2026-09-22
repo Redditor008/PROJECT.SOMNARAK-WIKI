@@ -62,15 +62,15 @@ Foundational cosmological architecture, metaphysics, origin cataclysms, and the 
 - `SOMNARAK_CHEONGULA.md` (336 lines): The First Sorrow, the Year 0 Cataclysm, and the origin of Cheongula.
 - `SOMNARAK_UNKNOWN_CITIES.md` (560 lines): Sister cities Cheonbulok and Mugeukji, external geopolitical threats, and refugee enclaves.
 - `SOMNARAK_HORIZON_CARAVAN.md` (267 lines): Nomadic desert traders traversing the exterior wastes.
-- `SOMNARAK_MEMORY_ARCHIVE.md` (270 lines): Fragmentary pre-cataclysm historical logs and cycle-reset memories.
 
 ---
 
 ### Subfolder 2: `02_Institutional_Wings_and_Chronicles/`
-Official corporate dossiers and operational doctrines of the three sovereign institutional wings (with all narrative chronicles housed exclusively in their dedicated suites):
+Official corporate dossiers and operational doctrines of the sovereign institutional wings (with all narrative chronicles housed exclusively in their dedicated suites):
 - `The_REVERIE_DIRECTORATE.md` (3,073 lines): Subterranean Facility 01 ("The Hand of Change") corporate dossier, 8 operational subterranean floors, 9 Echo-Core roles, and departmental missions. *(Paired with the 366-day facility saga in `SOMNARAK-WORLD/The_Absolvohan/`).*
 - `The_SOMNARAK_EXPLORATION_DECREE.md`: The SED corporate dossier, three-tier subterranean exploration doctrine, specialized survey gear, and expedition specialist profiles. *(Paired with the 7 subterranean descents in `SOMNARAK-WORLD/Katabagil/`).*
 - `The_UNDERWORLD_CLEANUP_DESCEND.md`: The UCD corporate dossier, three-phase reclamation doctrine, pacification armaments, and joint task force profiles. *(Paired with the 6 pacification operations in `SOMNARAK-WORLD/Katharcheok/`).*
+- `The_MEMORY_ARCHIVE.md`: The Memory Archive corporate dossier, 6,000-year-old sub-Alpha tree root architecture, Mnemonic Combat Framework, 7-floor reception stratigraphy, and Seiyon's synthesis engrams. *(Paired with the 7 mnemonic receptions in `SOMNARAK-WORLD/Gieok_Jeojangso/`).*
 
 ---
 
@@ -116,11 +116,12 @@ Trans-cosmic integrity audits and strict divergence certifications:
 
 ## Dedicated Specialized Collections (Workspace Links)
 
-In addition to the Master Codices, Project Somnarak maintains four standalone operational and narrative suites:
+In addition to the Master Codices, Project Somnarak maintains standalone operational and narrative suites:
 1. **`SOMNARAK-WORLD/Mugenhan_Ecology/`**: Planetary biology and tripartite taxonomy (Category 1: Mundane Organisms; Category 2: Sorrow Beasts [SB] / Sorrow Flora [SF]; Category 3: Mortal Sorrow Fauna / Flora [MSF]).
 2. **`SOMNARAK-WORLD/Katabagil/`**: The Seven Subterranean Descents of the Somnarak Exploration Decree (Passages 1 to 7 + Overview).
 3. **`SOMNARAK-WORLD/Katharcheok/`**: The Six Underworld Pacifications of the Underworld Cleanup Descend (Operations 1 to 6 + Overview).
 4. **`SOMNARAK-WORLD/The_Absolvohan/`**: The Nine Serial Narrative Volumes of the Absolvohan Facility (Parts 1 to 9 + Overview).
+5. **`SOMNARAK-WORLD/Gieok_Jeojangso/`**: The Seven Mnemonic Receptions of the Memory Archive (Receptions 1 to 7 + Overview).
 
 ---
 
