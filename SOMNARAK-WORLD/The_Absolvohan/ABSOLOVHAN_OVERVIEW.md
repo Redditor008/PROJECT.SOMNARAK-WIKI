@@ -453,33 +453,153 @@ Each Ordeal color corresponds to a specific emotional pathology and combat aspec
 +====================+================+========+
 ```
 
-### 4.2 Combat Mechanics & The 5 Range Bands
-Facility combat operations are structured across five standardized Range Bands:
-- **Band 1 (Point-Blank / Melee):** Direct physical contact; greatswords, mauls, fangs. High clash frequency.
-- **Band 2 (Close / Corridor Clashing):** Spears, short-range whips, shotguns, rapid pistols.
-- **Band 3 (Medium / Hallway Engagements):** Longbows, sonic emitters, rifle volleys, mid-range sorrow waves.
-- **Band 4 (Long / Department Plazas):** Heavy railguns, long-range sniper armaments, wide-area psychic resonance.
-- **Band 5 (Artillery / Facility-Wide):** Sovereign beam strikes, global ballast shockwaves, orbital descent anomalies.
+### 4.2 The 10-Node Facility Combat & Containment Grid (Stage Topology)
+
+All tactical engagements, containment cell breaches, and Ordeal suppressions inside Facility 01 are mapped onto a standardized 10-node spatial grid: **Nodes 1 through 10**:
 
 ```text
-+==============================================+
-| COMBAT RANGE BANDS & TACTICAL ENGAGEMENTS    |
-+==============================================+
-| BAND   | ENGAGEMENT TYPE | WEAPON PROTOTYPES |
-+========+=================+===================+
-| Band 1 | Point-Blank     | Mauls, Fangs, Axes|
-+--------+-----------------+-------------------+
-| Band 2 | Close Corridor  | Spears, Shotguns  |
-+--------+-----------------+-------------------+
-| Band 3 | Mid Hallway     | Crossbows, Rifles |
-+--------+-----------------+-------------------+
-| Band 4 | Long Plaza      | Railguns, Beams   |
-+--------+-----------------+-------------------+
-| Band 5 | Facility-Wide   | Sovereign Siphons |
-+========+=================+===================+
++=====================================================================+
+|         REVERIE DIRECTORATE TACTICAL 10-NODE STAGE TOPOLOGY         |
++---------------------------------------------------------------------+
+| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+| |--CORE--| |--BLAST GATES--| |--WORK BAFFLES--| |--OVERWATCH--|     |
++---------------------------------------------------------------------+
+| Node 01-02 : Entity Core / Breach Epicenter (Point Blank Band 1)    |
+| Node 03-04 : Inner Blast Gates / Kinetic Airlock (CQB Band 2)       |
+| Node 05-06 : Work Console Array & Emotion Baffles (Mid-Field Band   |
+| 3)                                                                  |
+| Node 07-08 : Quarantine Overwatch & Stasis Cannons (Rear Line Band  |
+| 4)                                                                  |
+| Node 09-10 : Echo-Core Terminal & Department Hub (Artillery Band 5) |
++=====================================================================+
 ```
 
-### 4.3 Agent Panic Typologies & Recovery Protocols
+- **Node 01–02 (Entity Core / Vanguard Zone / 0–5m)**:
+  * The containment chamber threshold or Ordeal breach point.
+  * Point-Blank Range Band 1. Melee strikes, blast shields, and direct physical interception occur here. Ranged weapons incur -20% accuracy and -2 Clash Power.
+- **Node 03–04 (Inner Blast Gates / Kinetic Airlock / 6–15m)**:
+  * Close CQB Range Band 2. Heavy steel bulkheads and kinetic dampeners.
+  * Wardens deploy here to prevent breaches from spreading into common corridors.
+- **Node 05–06 (Work Console Array & Baffles / 16–30m)**:
+  * Mid-Field Range Band 3. Wired with pneumatic emotion consoles and acoustic baffles.
+  * Agents spend 2 AP here to execute non-lethal Work Types (Flerehan, Pugnahan, Ferrehan, Viderehan) directly into entity fields.
+- **Node 07–08 (Quarantine Overwatch / 31–50m)**:
+  * Long-Range Range Band 4. Sniper positions, sedative harpoon rigs, and stasis turrets.
+  * 100% precision power; standard rifles suffer 50% falloff.
+- **Node 09–10 (Echo-Core Terminal & Department Hub / 51m+)**:
+  * Extreme Range Band 5. Connects directly to the Department Floor Lead's command matrix.
+  * Heavy artillery, emergency team-wide SP conduits, and facility stasis arrays operate here.
+
+---
+
+### 4.3 Speed-Driven Action Economy & Action Points (AP)
+
+Speed rolls at the start of each Battle Turn determine both turn order and the agent's **Action Points (AP)**:
+
+```text
++=====================================================================+
+|            SPEED-TO-ACTION POINT (AP) CONVERSION ENGINE             |
++---------------------------------------------------------------------+
+| Speed Roll   | Action Points (AP) | Tactical Capabilities Per Turn  |
+| -------------+--------------------+-------------------------------- |
+| Speed 1 - 2  | 1 Action Point     | 1 Basic Strike OR 1 Node Shift  |
+| Speed 3 - 4  | 2 Action Points    | 1 Move + 1 Attack OR 1 Guard    |
+| Speed 5 - 6  | 3 Action Points    | Move + Resonance Skill + Guard  |
+| Speed 7 - 8  | 4 Action Points    | Multi-Combo + Rapid Sprint      |
+| Speed 9 - 10+| 5 Action Points    | Overdrive Blitz + Spatial Flank |
++=====================================================================+
+```
+
+- **Action Point Spending**:
+  * **Movement (1 AP per Node)**: Reposition along the 10-node track.
+  * **Basic Attack (1 AP)**: Standard weapon strike within Range Band.
+  * **Resonance Skill (2 AP)**: High-power M.A.W. combat art with elemental multipliers.
+  * **Defensive Stance (1 AP)**: Deploy Guard shield, Evade roll, or Counter-strike.
+  * **Work Cycle Action (2 AP)**: Perform Flerehan, Pugnahan, Ferrehan, or Viderehan at Nodes 5–6 or Nodes 1–2.
+  * **Climax Finisher (3 AP)**: True lethal damage against Staggered targets.
+
+---
+
+### 4.4 The Macro Phase Combat Structure (6 Battle Turns = 1 Phase)
+
+All containment engagements progress in strict cycles of **six (6) Battle Turns per Phase**:
+
+```text
++=====================================================================+
+|                  MACRO PHASE COMBAT TIME STRUCTURE                  |
++---------------------------------------------------------------------+
+| ONE COMBAT PHASE = SIX (6) SEQUENTIAL BATTLE TURNS                  |
++---------------------------------------------------------------------+
+| Turn 1 : Roll Speed -> Determine AP -> Resolve movement & clashes.  |
+| Turn 2 : Repositioning along nodes, second exchange of fire.        |
+| Turn 3 : Focus fire, part-dismantling strikes, defensive guards.    |
+| Turn 4 : Department specials, forensic decrypts, work cycles.       |
+| Turn 5 : Stagger exploitation, emergency healing, shield bracing.   |
+| Turn 6 : Climax finishers, final clash line of the phase cycle.     |
++---------------------------------------------------------------------+
+| [PHASE-END EQUILIBRIUM & HAZARD TICK]                               |
+| 1. Environmental Check : Meltdown timer / Collateral / Depth        |
+| Strain.                                                             |
+| 2. Status Decay        : Bleed / Weep damage; SP drifts toward 0.   |
+| 3. Stagger Recovery : Stagger 1 resets; Terminal Stagger checked.   |
+| 4. Boss Phase Shift    : Stance change / Ordeal Ingress / Waves.    |
++=====================================================================+
+```
+
+---
+
+### 4.5 Echo-Core Department Floor Resonance on the 10-Node Grid
+
+When agents engage hostiles within an operational department, the Echo-Core lead projects active battlefield resonance across designated nodes:
+
+1. **Floor 1 (Majin & Seiyon — Central Command)**:
+   * *Command Eye*: Spend 1 AP to reroll the Speed Die of any allied agent across Nodes 1 to 10.
+   * *Administrative Clarity*: Restores +15 SP team-wide upon winning a clash at Nodes 5 or 6.
+2. **Floor 2 (Dekan — The Maw's Keep / Containment)**:
+   * *Bastion Ward*: Grants +50% shield armor to all allies on Nodes 1 through 4.
+   * *Jaw Clamp*: Winning a melee clash at Node 1 or 2 pins the hostile, preventing it from advancing past Node 2 for 2 turns.
+3. **Floor 3 (Zyrak — The Extraction Hall)**:
+   * *Energy Siphon*: Executing a Work Cycle on Nodes 5–6 generates double Han-Energy into the facility quota.
+   * *M.A.W. Overcharge*: Consumes 20 Han-Energy to grant an ally's weapon +5 Clash Power and true elemental damage.
+4. **Floor 4 (Ayshuk — Insight Forge / Research)**:
+   * *Predictive HUD*: Reveals hostile target nodes and dice rolls 1 full Battle Turn in advance.
+   * *Weakness Attunement*: Increases elemental weakness damage from 1.5× to 2.2× across all nodes.
+5. **Floor 5 (Mellda — Border Watch / Bulwark)**:
+   * *Blast Gate Lockdown*: Mellda raises emergency bulkheads at Node 4, isolating Nodes 1–3 and blocking all ranged beams.
+   * *Martial Rebuke*: Automatic counter-attack whenever a hostile crosses past Node 4.
+6. **Floor 6 (Marjuk — Deep Vault / Archive)**:
+   * *Stasis Field*: Freezes a target on Node 1 or 2 in temporal amber for 1 Battle Turn, canceling all its queued actions.
+   * *Mnemonic Recovery*: If an agent falls in battle, their cognitive pattern is locked in stasis, guaranteeing post-battle revival.
+7. **Floor 7 (Ishall — Shadow Corps / Covert Relics)**:
+   * *Unanswered Strike*: Remote relic strike with the floating mineral digits. Dispatches Void damage from Node 10 directly to Node 1 with 0% range falloff and armor bypass.
+   * *Shadow Ingress*: Infiltrators teleport from Node 8 directly behind hostiles at Node 1.
+8. **Floor 8 (Xyan — The Final Gate / Wellhead)**:
+   * *Singularity Well*: Anchors a gravitational vortex at Node 1 that pulls all roaming hostiles into melee range and nullifies displacement skills.
+
+---
+
+### 4.6 Dual-Threshold Stagger Engine & Mid-Combat Work Protocols
+
+Every combatant operates with two hard Stagger thresholds within their vitality pool:
+- **Stagger Threshold 1 (60% Max HP)**:
+  * When health drops below 60%, the target's posture shatters.
+  * Duration: 1 complete turn.
+  * Effect: Defense drops to 0; takes **2.0× direct damage**; all queued action slots wiped.
+- **Terminal Stagger Threshold 2 (25% Max HP)**:
+  * When health falls below 25%, the skeletal and neural frame breaks.
+  * Duration: 1 complete turn.
+  * Effect: Complete immobility; takes **2.5× direct damage**; enables execution of Overdrive Climax Finishers (3 AP true lethal damage).
+
+#### Mid-Combat Work Cycle Execution
+Unlike lethal elimination, containment agents can spend 2 AP to execute official **Work Types** mid-battle:
+- **Flerehan (공감작업)**: Harmonic weeping frequencies soothing grief; lowers entity Sorrow Gauge by 25% on Clash Win.
+- **Pugnahan (억제작업)**: Kinetic dampening strikes; reduces entity Speed by -4 and locks its highest-tier attack skill for 2 turns.
+- **Ferrehan (인내작업)**: Fortifies containment barriers and M.A.W. armor, granting +40% physical defense to allies on the same node.
+- **Viderehan (관찰작업)**: Scans cognitive patterns, instantly exposing hidden Stagger thresholds and lowering enemy clash defense.
+
+---
+
+### 4.7 Agent Panic Typologies & Recovery Protocols
 When an agent's SP reaches 0 due to sustained psychic trauma, they enter a **Panic State** determined by their lowest attribute:
 1. **Grudge Berserk (Lowest Resilience):** The agent loses rational control, attacking the nearest ally or entity indiscriminately with maximum attack speed. *Remedy:* Subdue using blunt non-lethal Lament damage.
 2. **Lament Despair (Lowest Clarity):** The agent falls to their knees, weeping uncontrollably. Emits an aura that deals continuous Lament damage to nearby allies. *Remedy:* Target with Veil Mist Dampener or strike with moderate physical damage to break the trance.
@@ -754,7 +874,7 @@ Each ending represents an ontological divergence point governed by strict facili
 |        | (Core Death)    | (Day 0 Rewind)    |
 +--------+-----------------+-------------------+
 | End B  | Drowned Mind    | Department Loss   |
-|        | (Ego Inversion) | (Emergency Reset) |
+|        | (Core Inversion)| (Emergency Reset) |
 +--------+-----------------+-------------------+
 | End C  | Stagnant Veil   | Municipal Drain   |
 |        | (Normal End)    | (Standard Reset)  |
@@ -976,7 +1096,7 @@ The Echo-Cores are not mechanical processors; they are the living human souls of
 Ending B occurs during Phase 4 (Days 101 through 150) if Director Majin **fails an Echo-Core Realization suppression trial**.
 
 When an attendant's past human trauma surges to the surface during a Realization, the Director must navigate multi-phase combat clashing against the attendant's manifested emotional pathologies. If the containment team wipes out, or if the Director's tactical composure collapses under the psychic resonance:
-1. The attendant's suppressed grief inverts into an autonomous **Ego Distortion**.
+1. The attendant's suppressed grief inverts into an autonomous **Resonance Inversion**.
 2. The attendant's mind does not die; rather, it expands outwards like an emotional black hole, transforming their entire department into an inescapable nightmare labyrinth of localized sorrow.
 3. The facility's mental dampeners overload instantaneously, causing sympathetic panic cascades across adjacent floors.
 
@@ -984,7 +1104,7 @@ When an attendant's past human trauma surges to the surface during a Realization
 +==============================================+
 | TELEMETRY ALERT: ENDING B REALIZATION WIPEOUT|
 +==============================================+
-| ALERT CODE           | SEV-1 / EGO-INVERSION |
+| ALERT CODE           | SEV-1 / CORE-INVERSN  |
 +----------------------+-----------------------+
 | Trigger Event        | Realization Failure   |
 +----------------------+-----------------------+

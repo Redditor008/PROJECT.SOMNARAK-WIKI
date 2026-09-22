@@ -256,12 +256,70 @@ Before we can celebrate, the facility lights turn amber. A secondary klaxon blar
 +==============================================+
 ```
 
-A glowing cyan apparition appears in the western corridor, chanting pre-human syllables. A Level I clerk wandering the hallway immediately loses all SP and enters **Panic State: Void Catatonia**, freezing in terror!
+A glowing cyan apparition appears in the western corridor, chanting pre-human syllables. A Level I clerk wandering the hallway immediately loses all SP and enters **Panic State: Void Catatonia**, freezing in terror at Node 4!
 
-Director Majin intervenes with tactical command:
-1. **Directorate Directive Deployed:** `Veil Mist Dampener` activated in Corridor West, reducing the entity's Weight damage aura by 40%.
-2. **Panic Recovery:** Agent Park dashes in, swinging his standard stun baton (Lament damage) directly into the catatonic clerk. The gentle cognitive shock restores the clerk's sanity bar to full!
-3. **Clash Standoff:** Agent Kim charges with his baton, drawing the entity's attention while Park flanks from Range Band 3. With coordinated strikes, the entity's spectral matrix fractures and dissolves into harmless mineral sparkles!
+Director Majin establishes tactical command via the Floor 1 Central Console:
+
+```text
++=====================================================================+
+|      COMBAT HUD: PHASE 01 — BATTLE TURN 01 (DAWN SUPPRESSION)       |
++---------------------------------------------------------------------+
+| [STAGE] :                                                           |
+| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+| POS     :        [VOICE] [KIM]           [PARK]         [MAJIN]     |
+| DIST    : Kim at N03 (Band 1); Park at N05 (Console); Majin at N09. |
++---------------------------------------------------------------------+
+| Agent Kim   : Speed 5 -> 3 AP | HP: 100/100 | SP: +15 | Stun Baton  |
+| Agent Park : Speed 6 -> 3 AP | HP: 95/ 95 | SP: +20 | Lament        |
+| Requiem                                                             |
+| The Voice : Speed 4 -> 2 AP | HP: 140/140 | Sorrow: 50% | Pale Echo |
++=====================================================================+
+```
+
+###### Turn 01 Action Resolution Log
+- **Step 1: Movement & Action Point (AP) Spending**:
+  * Agent Park (Speed 6 -> 3 AP) spends 1 AP to shift from Node 5 to Node 4, standing directly over the catatonic clerk.
+  * Park spends 1 AP to administer an emergency cognitive wake-up strike: swinging his stun baton with gentle Lament resonance. The calibrated shock immediately dispels the clerk's trance, restoring their SP from 0 to +25 and escorting them toward Node 9!
+  * Park holds remaining 1 AP in Defensive Guard (+8 Block Shield).
+  * Agent Kim (Speed 5 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2, entering Point-Blank Range Band 1 with The Voice. Remaining AP: 2.
+- **Step 2: Clash Standoff (Node 2)**:
+  * The Voice declares `[Spectral Chime]` against Agent Kim:
+    * The Voice Roll: Base 7 + (1 Coin Heads: +3) = 10 Power.
+  * Agent Kim declares `[Heavy Kinetic Baton Cleave]` (Costs 2 AP):
+    * Kim Roll: Base 8 + (2 Coins Heads: +4) = 12 Power.
+  * **Resolution**: Kim WINS THE CLASH (12 vs 10).
+    * The Voice's sonic beam is deflected. Kim's baton smashes into the cyan resonator core, dealing 28 Grudge damage and inflicting +16 Stagger buildup.
+    * Kim's Composure rises from +15 to +20.
+
+```text
++=====================================================================+
+|         TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)          |
++---------------------------------------------------------------------+
+| - Turn 02: Kim holds N02; Park fires from N05; Voice hits 60%       |
+| Stagger 1.                                                          |
+| - Turn 03: All allied attacks deal 2.0x damage; Voice HP falls to   |
+| 52.                                                                 |
+| - Turn 04: Voice recovers; charges area pulse [Shattered            |
+| Soliloquy].                                                         |
+| - Turn 05: Park executes Flerehan at N05; Voice Sorrow drops to     |
+| 15%.                                                                |
+| - Turn 06: Kim executes Climax Finisher; Terminal Stagger shatters  |
+| Voice.                                                              |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
++---------------------------------------------------------------------+
+| 1. Environmental Check : Meltdown Level 1 cleared in Sector 1.      |
+| 2. Status Equilibrium : Clerk sanity fully restored; Park SP at     |
+| +30.                                                                |
+| 3. Containment Check : The Voice dissolved into inert crystalline   |
+| dust.                                                               |
+| 4. OUTCOME : FLAWLESS VICTORY — 0 CASUALTIES, +0.005 TONS.          |
++=====================================================================+
+```
 
 With the Ordeal suppressed, Agent Kim completes one final calibration pass on Chamber 001, extracting +0.005 tons. Target quota reached: **0.053 / 0.050 tons!**
 

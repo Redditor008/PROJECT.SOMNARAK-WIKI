@@ -131,12 +131,92 @@ All three chambers cleared with 12 seconds to spare! Zero breaches. Meltdown cou
 At 0.110 tons collected, the ceiling groans. A colossal slab of weeping green stone materializes in Floor 2's primary junction corridor:
 
 ```text
-> ORDEAL DETECTED: NOON ORDEAL — THE GRIEVING MONOLITH (GREEN NOON)
-> THREAT: Deals heavy Grudge physical shockwaves every 6 seconds.
-> TACTICAL RESPONSE: Mellda leads Floor 5 squad to Floor 2 for pincer clash.
++==============================================+
+| TACTICAL DOSSIER: SECOND WATCH (NOON) ORDEAL |
+| DESIGNATION : THE GRIEVING MONOLITH          |
+| CLASSIFICATION : GREEN (WEIGHT/LAMENT) NOON  |
+| INTRUSION POINT : FLOOR 2 PRIMARY JUNCTION   |
+| HOSTILE PARAMETERS:                          |
+| - Entity: 1x Colossal Weeping Stone Slab     |
+| - Attack Affinity: Grudge Physical Shockwave |
+| - Weakness Affinity: Lament (Acoustic Echo)  |
+| TACTICAL DEPLOYMENT: MELLDA, PARK & KIM      |
++==============================================+
 ```
 
-Mellda anchors Range Band 1 with her tower shield, absorbing 45 physical damage per shockwave while her aura reduces incoming damage to 32. Agent Park steps up with his *Lament Requiem* warhammer, delivering massive Lament/Mental clashing blows from Range Band 2. In 18 seconds of coordinated fire, the monolith fractures into inert river silt, dropping +12 refined RHR reagents!
+A massive, weeping slab of ancient green basalt crashes down at Node 1, radiating compressive shockwaves that shake the corridor foundations!
+
+Director Majin establishes real-time GBS tactical coordinates:
+
+```text
++=====================================================================+
+|      COMBAT HUD: PHASE 01 — BATTLE TURN 01 (GREEN NOON ORDEAL)      |
++---------------------------------------------------------------------+
+| [STAGE] :                                                           |
+| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+| POS : [MONOLITH] [MELLDA][PARK] [KIM] [DEKAN]                       |
+| DIST    : Mellda at N03 (Band 1); Park at N04 (Band 2); Kim at N06. |
++---------------------------------------------------------------------+
+| Border Lead Mellda: Speed 5 -> 3 AP | HP: 180/180 | SP: +30 |       |
+| Threshold Vow                                                       |
+| Agent Park : Speed 6 -> 3 AP | HP: 110/110 | SP: +25 | Lament       |
+| Requiem                                                             |
+| Agent Kim : Speed 5 -> 3 AP | HP: 105/105 | SP: +20 | Kinetic       |
+| Carbine                                                             |
+| Grieving Monolith : Speed 3 -> 2 AP | HP: 320/320 | Sorrow: 65% |   |
+| Grudge Wave                                                         |
++=====================================================================+
+```
+
+###### Turn 01 Action Resolution Log
+- **Step 1: Floor 5 Echo-Core Resonance (Border Lead Mellda)**:
+  * Mellda projects *The Bulwark Perimeter*, establishing heavy blast mantlets across Nodes 2 through 4 that absorb +30% physical shock.
+  * Director Majin issues tactical command: *Administrative Clarity* active team-wide.
+- **Step 2: Movement & Action Point (AP) Spending**:
+  * Border Lead Mellda (Speed 5 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2 (Point-Blank Range Band 1 with the Monolith).
+  * Mellda spends 2 AP to brace *Threshold Vow* in a heavy kinetic parry stance.
+  * Agent Park (Speed 6 -> 3 AP) holds Node 4 behind Mellda's mantlet. Spends 2 AP to wind up `[Lament Requiem Resonant Smash]` (Range Band 2). Remaining 1 AP held in Guard (+10 Shield).
+  * Agent Kim (Speed 5 -> 3 AP) positions at Node 6 (Range Band 3). Spends 2 AP to prepare concentrated carbine fire targeting the slab's stress fissure.
+- **Step 3: Clash Standoff (Node 2)**:
+  * The Grieving Monolith declares `[Tectonic Ground Pound]` on Node 2:
+    * Monolith Roll: Base 8 + (2 Coins Heads: +4) = 12 Power.
+  * Mellda's `[Threshold Vow Kinetic Parry]`:
+    * Mellda Roll: Base 10 + (2 Coins Heads: +4) = 14 Power.
+  * **Resolution**: Mellda WINS THE CLASH (14 vs 12).
+    * Mellda's golden arm-blade turns the crashing stone slab aside. The impact shocks the monolith's crystalline base, dealing 26 Grudge damage and inflicting +18 Stagger.
+  * Agent Park follows through with `[Lament Requiem Resonant Smash]` from Node 4:
+    * Attack is unopposed! Deals 36 Lament damage directly through the acoustic crack, eroding the monolith's composure.
+  * Agent Kim delivers a 3-round burst from Node 6, adding 24 piercing damage.
+
+```text
++=====================================================================+
+|         TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)          |
++---------------------------------------------------------------------+
+| - Turn 02: Mellda holds N02; Park deals 38 Lament damage; Monolith  |
+| 60% Stagger.                                                        |
+| - Turn 03: Posture broken; all attacks deal 2.0x direct damage; HP  |
+| falls to 125.                                                       |
+| - Turn 04: Monolith recovers; charges massive shockwave [Tectonic   |
+| Toll].                                                              |
+| - Turn 05: Kim at N06 uses 2 AP to fire Stasis Disruption,          |
+| canceling skill.                                                    |
+| - Turn 06: Park unleashes Requiem Climax; Terminal Stagger shatters |
+| monolith.                                                           |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
++---------------------------------------------------------------------+
+| 1. Environmental Check : Seismic tremors dissipate across Floor 2   |
+| junction.                                                           |
+| 2. Status Equilibrium : Stagger meters reset; team-wide SP rises to |
+| +35.                                                                |
+| 3. Containment Check   : Monolith pulverized into inert river silt. |
+| 4. OUTCOME : FLAWLESS VICTORY — 0 CASUALTIES, +12 REFINED RHR.      |
++=====================================================================+
+```
 
 #### 3. End-of-Day Shift Evaluation Index
 ```text
@@ -335,12 +415,83 @@ Both agents clear the overloads with 9 seconds remaining! The resonance frequenc
 At 0.125 tons harvested, the floor vents rupture. Four crimson flesh pods erupt across Floor 2 and Floor 3, spawning scuttling Sorrow Larvae that seek out containment doors to cause instant breaches!
 
 ```text
-> ORDEAL WARNING: CRIMSON NOON — SANGUINE LARVAE DETECTED (4 TARGETS)
-> TACTICAL DIRECTIVE: SPREAD SUPPRESSION TEAMS TO INTERCEPT BEFORE REACHING CELLS!
++==============================================+
+| TACTICAL DOSSIER: CRIMSON NOON ORDEAL        |
+| DESIGNATION : SANGUINE LARVAE                |
+| CLASSIFICATION : RED (GRUDGE/WEIGHT) NOON    |
+| INTRUSION POINT : FLOOR 2 & 3 CORRIDORS      |
+| HOSTILE PARAMETERS:                          |
+| - Entities: 4x Rapid Flesh Pods & Broods     |
+| - Attack Affinity: Grudge Bleed Hemorrhage   |
+| - Weakness Affinity: Void / Pierce           |
+| TACTICAL DEPLOYMENT: SPLIT TEAMS INTERCEPT   |
++==============================================+
 ```
 
-- Team A (Hwang & Song) intercepts Pod 1 & 2 outside Chamber 033. Hwang's *Observing Scepter* deals rapid Void piercing damage, melting both larvae in 8 seconds.
-- Team B (Kim & Park) intercepts Pod 3 & 4 in the main stairwell. Kim pins them with his *Mother's Baton* while Park executes a crushing downward strike with his warhammer.
+Director Majin establishes split-team GBS sector commands:
+- **Team A (Agent Hwang & Agent Song)** intercepts Pod 1 & 2 outside Chamber 033 on Floor 2.
+- **Team B (Agent Kim & Agent Park)** locks down Pod 3 & 4 at the main vertical stairwell.
+
+```text
++=====================================================================+
+|        COMBAT HUD: PHASE 01 — BATTLE TURN 01 (CRIMSON NOON)         |
++---------------------------------------------------------------------+
+| [STAGE] :                                                           |
+| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+| POS     : [POD-1]   [POD-2] [HWANG]         [SONG]         [MAJIN]  |
+| DIST : Hwang at N03 (Band 1); Song at N05 (Band 3); Majin at N09.   |
++---------------------------------------------------------------------+
+| Agent Hwang : Speed 6 -> 3 AP | HP: 115/115 | SP: +25 | Observing   |
+| Scepter                                                             |
+| Agent Song : Speed 5 -> 3 AP | HP: 110/110 | SP: +20 | Kinetic      |
+| Cleaver                                                             |
+| Sanguine Pod: Speed 4 -> 2 AP | HP: 160/160 | Sorrow: 50% | Acid    |
+| Brood                                                               |
++=====================================================================+
+```
+
+###### Turn 01 Action Resolution Log (Team A — Floor 2 Sector)
+- **Step 1: Floor 2 Echo-Core Resonance (Containment Lead Dekan)**:
+  * Dekan anchors *The Maw's Keep Bastion Ward*, raising physical barrier resistance across Nodes 1 to 4 and nullifying the larvae's acid bleed coating.
+- **Step 2: Movement & Action Point Spending**:
+  * Agent Hwang (Speed 6 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2 (Point-Blank Range Band 1 with Flesh Pod 1).
+  * Hwang spends 2 AP to declare `[Observing Scepter Void Thrust]`.
+  * Agent Song (Speed 5 -> 3 AP) advances to Node 4 (Range Band 2). Spends 2 AP to ready `[Kinetic Cleaver Pincer Sweep]`. Remaining 1 AP held in Guard.
+- **Step 3: Clash Resolution (Node 2)**:
+  * Flesh Pod 1 declares `[Acid Bile Burst]` on Node 2 (Base 7 + 2 Coins = 11 Power).
+  * Hwang's `[Observing Scepter Void Thrust]` (Base 9 + 2 Coins = 13 Power).
+  * **Resolution**: Hwang WINS THE CLASH (13 vs 11).
+    * Hwang's scepter pierces the pod's central valve, dealing 34 Void damage and inflicting +18 Stagger.
+  * Agent Song cleaves incoming larvae at Node 4, dealing 28 kinetic damage and preventing encirclement.
+
+```text
++=====================================================================+
+|         TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)          |
++---------------------------------------------------------------------+
+| - Turn 02: Hwang pierces Pod 1; triggers 60% Stagger 1; Song flanks |
+| N04.                                                                |
+| - Turn 03: All allied attacks deal 2.0x direct damage; Pod 1        |
+| destroyed.                                                          |
+| - Turn 04: Pod 2 spawns brood cluster; Dekan engages Bastion Ward.  |
+| - Turn 05: Song sweeps Node 2 with kinetic arc; forces Terminal     |
+| Stagger.                                                            |
+| - Turn 06: Hwang executes Climax Siphon; all larvae vaporize into   |
+| red ash.                                                            |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
++---------------------------------------------------------------------+
+| 1. Environmental Check : Corridor drainage pumps clear biological   |
+| bile.                                                               |
+| 2. Status Equilibrium : Bleed counters purge; team SP rises to +32. |
+| 3. Containment Check : Zero breaches across Chambers 031, 032, 033. |
+| 4. OUTCOME : 100% SUPPRESSION — ZERO CASUALTIES, +15 RHR.           |
++=====================================================================+
+```
+
 - **Ordeal Suppressed with 0 cell breaches and 0 agent casualties!** +15 RHR reagents secured.
 
 #### 3. End-of-Day Shift Evaluation Index
@@ -533,15 +684,90 @@ Hwang enters with 22 seconds left, completes 6 rapid observation ticks, and clea
 At 0.145 tons harvested, the facility's emergency sirens shift from amber to violet. A Dusk Ordeal has arrived:
 
 ```text
-> ORDEAL WARNING: DUSK ORDEAL — THE GILDED DROWNERS (VIOLET DUSK)
-> THREAT: Three colossal stone monuments emerge on Floors 1, 3, and 5.
-> BEHAVIOR: Periodically fire high-yield Void lasers across entire corridors!
++==============================================+
+| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL  |
+| DESIGNATION : THE GILDED DROWNERS            |
+| CLASSIFICATION : VIOLET (VOID/DECAY) DUSK    |
+| INTRUSION POINT : FLOORS 1, 3, AND 5         |
+| HOSTILE PARAMETERS:                          |
+| - Entities: 3x Colossal Gilded Monoliths     |
+| - Attack Affinity: Piercing Void Lasers      |
+| - Weakness Affinity: Lament / Weight         |
+| TACTICAL DEPLOYMENT: TRI-SECTOR INTERCEPT    |
++==============================================+
 ```
 
-This requires split suppression teams:
-- **Floor 1 Monolith**: Suppressed by Agent Hwang and Agent Lee using Void-resistant loadouts.
-- **Floor 3 Monolith**: Suppressed by Agent Song and Agent Choi from Range Band 3 with bows.
-- **Floor 5 Monolith**: Mellda and Agent Park engage in point-blank melee. Mellda tanks the laser discharge with *Iron Perimeter*, while Park shatters the monument with four heavy maul swings!
+Three colossal gilded monuments materialize across Floors 1, 3, and 5, aiming high-yield Void beams along the main thoroughfares!
+
+Director Majin establishes coordinated GBS tactical commands:
+- **Floor 1 Team**: Hwang & Lee lock down the lower data junction.
+- **Floor 3 Team**: Song & Choi suppress the processing corridor from Range Band 3.
+- **Floor 5 Strike Force**: Lead Mellda and Agent Park advance directly into Point-Blank range.
+
+```text
++=====================================================================+
+|         COMBAT HUD: PHASE 01 — BATTLE TURN 01 (VIOLET DUSK)         |
++---------------------------------------------------------------------+
+| [STAGE] :                                                           |
+| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+| POS : [MONUMENT] [MELLDA][PARK] [HWANG] [MAJIN]                     |
+| DIST : Mellda at N03 (Band 1); Park at N04 (Band 2); Hwang at N06.  |
++---------------------------------------------------------------------+
+| Border Lead Mellda: Speed 5 -> 3 AP | HP: 190/190 | SP: +30 |       |
+| Threshold Vow                                                       |
+| Agent Park : Speed 6 -> 3 AP | HP: 120/120 | SP: +25 | Lament       |
+| Requiem                                                             |
+| Agent Hwang : Speed 5 -> 3 AP | HP: 110/110 | SP: +20 | Observing   |
+| Scepter                                                             |
+| Gilded Monument : Speed 4 -> 2 AP | HP: 340/340 | Sorrow: 60% |     |
+| Void Beam                                                           |
++=====================================================================+
+```
+
+###### Turn 01 Action Resolution Log (Floor 5 Bulwark Gate)
+- **Step 1: Floor 5 Echo-Core Resonance (Border Lead Mellda)**:
+  * Mellda deploys *The Bulwark Perimeter*, erecting golden barriers over Nodes 2 through 4 that nullify Void laser penetration by 40%.
+- **Step 2: Movement & Action Point Spending**:
+  * Border Lead Mellda (Speed 5 -> 3 AP) spends 1 AP to advance from Node 3 to Node 2 (Point-Blank Range Band 1). Spends 2 AP to brace *Threshold Vow* in reflective parry stance.
+  * Agent Park (Speed 6 -> 3 AP) advances to Node 3 behind Mellda. Spends 2 AP to prepare `[Lament Requiem Resonant Crush]`. Remaining 1 AP held in Guard.
+  * Agent Hwang (Speed 5 -> 3 AP) takes Node 6 (Range Band 3). Spends 2 AP to prepare concentrated Void disruption targeting the monument's optical crown.
+- **Step 3: Clash Resolution (Node 2)**:
+  * Gilded Monument declares `[Oblivion Prismatic Lance]` on Node 2 (Base 8 + 2 Coins = 12 Power).
+  * Mellda's `[Threshold Vow Reflective Parry]` (Base 10 + 2 Coins = 14 Power).
+  * **Resolution**: Mellda WINS THE CLASH (14 vs 12).
+    * Mellda's spearhead refracts the purple laser into the ceiling, creating an opening.
+  * Agent Park follows with `[Lament Requiem Resonant Crush]` unopposed:
+    * The massive acoustic hammer strikes the monument's pedestal, dealing **44 direct Lament damage** and inflicting +24 Stagger!
+
+```text
++=====================================================================+
+|         TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)          |
++---------------------------------------------------------------------+
+| - Turn 02: Mellda locks N02; Park delivers 44 Lament; Monument 60%  |
+| Stagger 1.                                                          |
+| - Turn 03: Posture broken; all allied attacks deal 2.0x direct      |
+| damage; HP at 130.                                                  |
+| - Turn 04: Monument charges corridor laser [Oblivion Torrent];      |
+| Mellda shields.                                                     |
+| - Turn 05: Hwang pierces Void focal lens from N06, canceling        |
+| high-yield blast.                                                   |
+| - Turn 06: Park unleashes Climax Smite; Terminal Stagger shatters   |
+| monument.                                                           |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
++---------------------------------------------------------------------+
+| 1. Environmental Check : Tri-sector Void conduits discharge and     |
+| power down.                                                         |
+| 2. Status Equilibrium : Hallway radiation dissipates; team SP rises |
+| to +35.                                                             |
+| 3. Containment Check : All 3 monuments reduced to pulverized slag.  |
+| 4. OUTCOME : ZERO AGENT CASUALTIES, +22 REFINED RHR SECURED.        |
++=====================================================================+
+```
 
 All three monoliths collapse simultaneously into inert slag! +22 RHR reagents collected!
 
@@ -745,12 +971,88 @@ All remaining three cells stabilized with 14 seconds on the timer! Total facilit
 At 0.165 tons collected, the subterranean bedrock shudders. Colossal segmented centipedes burst through the flagstones of Floor 5 and Floor 6:
 
 ```text
-> ORDEAL DETECTED: AMBER DUSK — THE CHURNING HIVE
-> THREAT: Massive burrowers that deal heavy compound damage and consume clerks!
-> TACTICAL INTERVENTION: Mellda anchors the choke point at Sector 5 Gate!
++==============================================+
+| TACTICAL DOSSIER: AMBER DUSK ORDEAL          |
+| DESIGNATION : THE CHURNING HIVE              |
+| CLASSIFICATION : AMBER (WEIGHT/GRUDGE) DUSK  |
+| INTRUSION POINT : FLOOR 5 GATEWAY SLUICE     |
+| HOSTILE PARAMETERS:                          |
+| - Entity: 1x Colossal Segmented Burrower     |
+| - Attack Affinity: Crushing Weight Shock     |
+| - Weakness Affinity: Physical Slash / Void   |
+| TACTICAL DEPLOYMENT: MELLDA, HWANG & BAE     |
++==============================================+
 ```
 
-Mellda activates *Iron Perimeter* at maximum aperture, holding the two primary burrowers in the doorway. Agent Hwang circles around their rear flanks, using the *Blessed Scalpel*'s rapid Void strikes to pierce their chitinous armor plates. In 25 seconds of blistering combat, the queen burrower dissolves into crystallized Han dust! +25 RHR reagents secured!
+A massive, armored subterranean centipede erupts through the reinforced masonry at Node 1, gnashing four pairs of serrated diamond mandibles!
+
+Director Majin establishes GBS tactical positioning:
+
+```text
++=====================================================================+
+|         COMBAT HUD: PHASE 01 — BATTLE TURN 01 (AMBER DUSK)          |
++---------------------------------------------------------------------+
+| [STAGE] :                                                           |
+| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+| POS : [HIVE-QUEEN] [MELLDA][HWANG] [BAE] [MAJIN]                    |
+| DIST : Mellda at N03 (Band 1); Hwang at N04 (Band 2); Bae at N06.   |
++---------------------------------------------------------------------+
+| Border Lead Mellda: Speed 5 -> 3 AP | HP: 195/195 | SP: +30 |       |
+| Threshold Vow                                                       |
+| Agent Hwang : Speed 6 -> 3 AP | HP: 120/120 | SP: +25 | Blessed     |
+| Scalpel                                                             |
+| Agent Bae : Speed 5 -> 3 AP | HP: 130/130 | SP: +25 | Bulwark Maul  |
+| The Churning Hive : Speed 4 -> 2 AP | HP: 380/380 | Sorrow: 65% |   |
+| Earth Maw                                                           |
++=====================================================================+
+```
+
+###### Turn 01 Action Resolution Log (Floor 5 Gateway Sluice)
+- **Step 1: Floor 5 Echo-Core Resonance (Border Lead Mellda)**:
+  * Mellda engages *Blast Gate Lockdown*, dropping heavy steel portcullises at Node 4 to isolate Nodes 1–3 and trap the beast in the gateway vestibule.
+- **Step 2: Movement & Action Point Spending**:
+  * Border Lead Mellda (Speed 5 -> 3 AP) stands firm at Node 3 (Point-Blank Range Band 1). Spends 2 AP to prepare `[Threshold Vow Bulwark Stance]`.
+  * Agent Hwang (Speed 6 -> 3 AP) spends 1 AP to shift from Node 4 to Node 2 behind the beast's rear segment. Spends 2 AP to ready `[Blessed Scalpel Void Dissection]`.
+  * Agent Bae (Speed 5 -> 3 AP) positions at Node 6 (Range Band 3). Spends 2 AP to wind up `[Bulwark Maul Ground Breaker]`. Remaining 1 AP held in Guard.
+- **Step 3: Clash Resolution (Node 2 to 3)**:
+  * The Churning Hive declares `[Tectonic Mandible Crush]` on Node 3 (Base 9 + 2 Coins = 13 Power).
+  * Mellda's `[Threshold Vow Bulwark Stance]` (Base 11 + 2 Coins = 15 Power).
+  * **Resolution**: Mellda WINS THE CLASH (15 vs 13).
+    * Mellda's golden arm-blade locks the centipede's primary mandibles. The counter-force reverberates through the beast's chitinous segments, dealing 36 Grudge damage and inflicting +24 Stagger!
+  * Agent Hwang strikes from Node 2 unopposed, driving the *Blessed Scalpel* deep into the exposed ventral joint for **42 Void damage**!
+
+```text
++=====================================================================+
+|         TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)          |
++---------------------------------------------------------------------+
+| - Turn 02: Mellda locks Gate 5; Hwang flanks N02; Hive hits 60%     |
+| Stagger 1.                                                          |
+| - Turn 03: Carapace cracked; all attacks deal 2.0x direct damage;   |
+| HP at 150.                                                          |
+| - Turn 04: Hive attempts tectonic burrow; Dekan engages Jaw Clamp   |
+| pin.                                                                |
+| - Turn 05: Bae lands heavy maul strike on ventral nerve; forces     |
+| Terminal Stagger.                                                   |
+| - Turn 06: Mellda executes Threshold Execution; Hive dissolves to   |
+| amber dust.                                                         |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
++---------------------------------------------------------------------+
+| 1. Environmental Check : Sector 5 floorplates sealed; subterranean  |
+| grates locked.                                                      |
+| 2. Status Equilibrium : Tremor vibrations cease; team SP stabilizes |
+| at +35.                                                             |
+| 3. Containment Check : Queen burrower fully dissolved into          |
+| crystallized dust.                                                  |
+| 4. OUTCOME : ZERO AGENT CASUALTIES, +25 REFINED RHR SECURED.        |
++=====================================================================+
+```
+
+In 25 seconds of blistering combat, the queen burrower dissolves into crystallized Han dust! +25 RHR reagents secured!
 
 #### 3. End-of-Day Shift Evaluation Index
 ```text
@@ -959,9 +1261,89 @@ In a breathless 30-second coordinated sweep, all six cells are cleared without a
 At 0.205 tons harvested, the lights across the vertical spine cut to complete darkness. A deep, subterranean bell tolls from beneath Floor 8:
 
 ```text
-> ORDEAL WARNING: SOVEREIGN MIDNIGHT ANOMALY — THE FINAL DOOR ECHO
-> A shadow of the Before-Time passes through Floor 7 and Floor 8 corridors...
-> TACTICAL RESPONSE: Marjuk and Xyan activate Deep Vault stasis wards!
++==============================================+
+| TACTICAL DOSSIER: SOVEREIGN MIDNIGHT ANOMALY |
+| DESIGNATION : THE FINAL DOOR ECHO            |
+| CLASSIFICATION : PALE / VOID MIDNIGHT HERALD |
+| INTRUSION POINT : FLOOR 7 & 8 BOUNDARY SHAFT |
+| HOSTILE PARAMETERS:                          |
+| - Entity: 1x Colossal Dimensional Projection |
+| - Attack Affinity: Pale (% Max HP) & Void    |
+| - Weakness Affinity: Balanced (All 4 Types)  |
+| TACTICAL DEPLOYMENT: DEEP VAULT GUARDS       |
++==============================================+
+```
+
+A towering shadow from the Before-Time manifests in the lower boundary shaft at Node 1, ringing with the resonant chime of the Final Door!
+
+Director Majin establishes Deep Vault GBS tactical parameters:
+
+```text
++=====================================================================+
+|     COMBAT HUD: PHASE 01 — BATTLE TURN 01 (SOVEREIGN MIDNIGHT)      |
++---------------------------------------------------------------------+
+| [STAGE] :                                                           |
+| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+| POS : [DOOR-ECHO] [MARJUK][HWANG] [PARK] [XYAN]                     |
+| DIST : Marjuk at N03 (Band 1); Hwang at N04 (Band 2); Park at N05.  |
++---------------------------------------------------------------------+
+| Archive Lead Marjuk: Speed 5 -> 3 AP | HP: 200/200 | SP: +40 |      |
+| Chrono Stasis                                                       |
+| The Exile Xyan : Speed 6 -> 3 AP | HP: 210/210 | SP: +45 |          |
+| Singularity Arc                                                     |
+| Agent Hwang : Speed 6 -> 3 AP | HP: 125/125 | SP: +30 | Blessed     |
+| Scalpel                                                             |
+| Agent Park : Speed 6 -> 3 AP | HP: 125/125 | SP: +30 | Lament       |
+| Requiem                                                             |
+| Final Door Echo : Speed 5 -> 3 AP | HP: 520/520 | Sorrow: 75% |     |
+| Void Pulse                                                          |
++=====================================================================+
+```
+
+###### Turn 01 Action Resolution Log (Deep Vault Boundary Shaft)
+- **Step 1: Floor 6 & 8 Echo-Core Resonances (Marjuk & Xyan)**:
+  * Marjuk deploys *The Temporal Stasis Array*, locking Node 1 in amber suspension and canceling the Echo's initial area-sweep.
+  * Xyan activates *The Singularity Well*, anchoring the hostile at Node 1 and preventing any displacement toward the elevator shaft.
+- **Step 2: Movement & Action Point Spending**:
+  * Archive Lead Marjuk (Speed 5 -> 3 AP) holds Node 3 (Range Band 1). Spends 2 AP to maintain the chronological clamp.
+  * The Exile Xyan (Speed 6 -> 3 AP) stands at Node 10, spending 2 AP to channel gravitational ballast downward.
+  * Agent Hwang (Speed 6 -> 3 AP) advances to Node 4 (Range Band 2). Spends 2 AP to declare `[Blessed Scalpel Precision Void Dissection]`.
+  * Agent Park (Speed 6 -> 3 AP) positions at Node 5 (Range Band 3). Spends 2 AP to ready `[Lament Requiem Resonant Wave]`.
+- **Step 3: Clash Resolution (Node 1 to 3)**:
+  * Final Door Echo attempts `[Chime of the Before-Time]` (Base 10 + 2 Coins = 14 Power).
+  * Marjuk's `[Chrono Stasis Seal]` (Base 11 + 2 Coins = 15 Power).
+  * **Resolution**: Marjuk WINS THE CLASH (15 vs 14).
+    * Marjuk's stasis seal encapsulates the acoustic pulse before it can detonate, reflecting 38 Pale damage back into the projection with +26 Stagger!
+  * Hwang and Park deliver coordinated Void and Lament strikes from Nodes 4 and 5, destabilizing the shadow's harmonic cohesion.
+
+```text
++=====================================================================+
+|         TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)          |
++---------------------------------------------------------------------+
+| - Turn 02: Marjuk freezes Node 1; Hwang & Park strike; Echo 60%     |
+| Stagger 1.                                                          |
+| - Turn 03: Posture broken; all 4-affinity strikes deal 2.0x direct  |
+| damage.                                                             |
+| - Turn 04: Echo attempts dimensional toll; Xyan deploys Singularity |
+| Well.                                                               |
+| - Turn 05: Park executes Flerehan resonance, purging the sorrow     |
+| harmonic.                                                           |
+| - Turn 06: Marjuk & Xyan coordinate terminal lockdown; Echo         |
+| dissolves.                                                          |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
++---------------------------------------------------------------------+
+| 1. Environmental Check : Deep Vault acoustic and temporal seals     |
+| fully restore.                                                      |
+| 2. Status Equilibrium : Pale radiation drains; all agent SP         |
+| restored to max.                                                    |
+| 3. Containment Check : Sovereign Door Echo dissipated into bedrock. |
+| 4. OUTCOME : HISTORIC MIDNIGHT CLEAR — ZERO CASUALTIES, +30 RHR.    |
++=====================================================================+
 ```
 
 Marjuk anchors the Archive stasis field while Agent Hwang and Agent Park deploy to the lower elevator shaft, holding the boundary line until the harmonic pulse dissipates back into the bedrock. +30 RHR reagents collected!
