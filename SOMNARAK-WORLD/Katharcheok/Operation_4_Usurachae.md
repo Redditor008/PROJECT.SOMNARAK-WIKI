@@ -233,228 +233,352 @@ The vault erupted into a tempest of kinetic force and psychic void pressure.
 
 ```text
 +=====================================================================+
-|          TURN 1: KINETIC INGRESS & GOLDEN CUDGEL DEFLECTION         |
+|   TARGET DOSSIER: HIGH USURER MAN-SIK & SE-C-IIIβ-015 'DEBT SCALE'  |
 +---------------------------------------------------------------------+
-| CLASH 1: High Usurer Man-sik vs Commander Taeho                     |
-| > Boss Skill: [Foreclosure Cudgel Slam] (Atk Power 27, Heavy Blunt) |
-|   > Taeho Skill: [Phalanx Bastion: Obsidian Wall] (Def Power 31)    |
-|   > Clash Result: Taeho WINS (Power 31 vs 27).                      |
-|     Kinetic shield absorbs the electrified golden cudgel blow.      |
-|   > Taeho reflects 170 kinetic tremor damage back to Midas Engine.  |
+| APEX TARGET        : High Usurer Man-sik ('The Golden Shylock')     |
+| MODULAR WEAPON     : Electrified Foreclosure Cudgel (Heavy Blunt/Sh |
+| CONTRABAND ENTITY  : SE-C-IIIβ-015 'The Debt Scale' (WAW Threat / D |
+| ESCORT MINIONS     : Gilded Mercenaries (x2) & Pneumatic Coin-Gunne |
+| ENCOUNTER DOMAIN   : Zone C Usury Vaults & Gold Siphon (-180m Depth |
 +---------------------------------------------------------------------+
-| CLASH 2: Gilded Mercenaries (x2) vs Sapper Joon                     |
-|   > Mercenary Skill: [Pneumatic Coin-Shot Volley] (Atk Power 21)    |
-| > Joon Skill: [Deployable Mantlet Barrier] (Def Power 25, Kinetic)  |
-| > Clash Result: Joon WINS. Heavy coin-shot flattens against plate.  |
+| BOSS COMBAT PROFILE (HIGH USURER MAN-SIK):                          |
+| - Midas Chassis HP : 2,400 HP | Core Body HP: 2,200 HP (Total 4,600 |
+| - Cudgel Weapon HP : 1,600 HP (Modular Destructible Weapon Part)    |
+| - Posture Pool     : 240/240 (Dual Threshold Stagger System)        |
+| - Stagger 1 Proc   : 60% Posture Strain (144 Posture) / Cudgel Brea |
+| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Stagger / Cask R |
+| - Primary Attack   : Foreclosure Cudgel Slam & High-Voltage Sweep ( |
 +---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-|   * Yuna: Casts [Cipher-Scan: Debt Frequency]                       |
-|     Scans hydraulic forearm joint of Cudgel.                        |
-|   * Minho: Fires [Neural Lancet: Calibrated Dart]                   |
-|     Deals 250 Pierce damage to Midas Exoskeleton.                   |
-|   * Soojin: Deploys [Resonance Damping Sphere]                      |
-|     Stabilizes room against judicial void pulses from the scale.    |
-|   * Echo: Activates [Shadow Cloak] -> Slips into vault cable trays. |
-+---------------------------------------------------------------------+
-| ROUND 1 DAMAGE TOTALS:                                              |
-|   * Man-sik Midas Exoskeleton HP: 2,400 -> 1,980 / 2,400 (-420 HP)  |
-|   * Foreclosure Cudgel Weapon HP: 1,600 / 1,600                     |
-|   * SE-C-IIIβ-015 Debt Scale Core HP: 3,200 / 3,200                 |
-|   * Combined Target HP: 6,780 / 7,200 | UCD Composure: 100%         |
-+=====================================================================+
-```
-
-```text
-+=====================================================================+
-|         TURN 2: SAPPING HYDRAULIC SERVOS & LEDGER DECRYPTION        |
-+---------------------------------------------------------------------+
-| CLASH 1: High Usurer Man-sik vs Sapper Joon                         |
-|   > Boss Skill: [High-Voltage Usury Sweep] (Atk Power 25, Electric) |
-|   > Joon Skill: [Hydraulic Kinetic Ram] (Atk Power 29, Heavy Blunt) |
-|   > Clash Result: Joon WINS (Power 29 vs 25).                       |
-|     Hydraulic ram shatters the cudgel's power conduit!              |
-|   > Deals 540 Blunt damage to Foreclosure Cudgel.                   |
-+---------------------------------------------------------------------+
-| CLASH 2: SE-C-IIIβ-015 'Debt Scale' vs Auditor Yuna                 |
-| > Entity Skill: [Judicial Obligation Weighing] (Atk Power 23, Void) |
-|   > Yuna Skill: [Cipher-Pulse: Frequency Disruptor] (Def Power 27)  |
-| > Clash Result: Yuna WINS. High-frequency pulse stalls balance      |
-|     dish.                                                           |
-+---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-|   * Taeho: Uses [Shield Bash: Kinetic Drive]                        |
-|     Deals 290 Blunt damage to Midas Exoskeleton.                    |
-|   * Minho: Casts [Memory Anchor: Cognitive Salve]                   |
-|     Reinforces squad psychic composure (+15 SP).                    |
-|   * Soojin: Deploys [Resonance Snare: Leaded Ring]                  |
-|     Restricts bone-frame articulation of SE-C-IIIβ-015.             |
-|   * Echo: Slices primary power line running from vault generator.   |
-+---------------------------------------------------------------------+
-| ROUND 2 DAMAGE TOTALS:                                              |
-|   * Man-sik Midas Exoskeleton HP: 1,980 -> 1,690 / 2,400 (-290 HP)  |
-|   * Foreclosure Cudgel Weapon HP: 1,600 -> 1,060 / 1,600 (-540 HP)  |
-| * SE-C-IIIβ-015 Debt Scale Core HP: 3,200 -> 2,920 / 3,200 (-280    |
-|     HP)                                                             |
-|   * Combined Target HP: 5,670 / 7,200 | UCD Composure: 98%          |
-+=====================================================================+
-```
-
-```text
-+=====================================================================+
-|        TURN 3: PRECISION LANCET PIERCE & STAGGER THRESHOLD 1        |
-+---------------------------------------------------------------------+
-| CLASH 1: High Usurer Man-sik vs Senior Investigator Minho           |
-|   > Boss Skill: [Compounded Usury Barrage] (Atk Power 28, Blunt)    |
-|   > Minho Skill: [Neural Lancet: Synaptic Pierce] (Atk Power 32)    |
-|   > Clash Result: Minho WINS (Power 32 vs 28).                      |
-|     Silver lancet pierces main magnetic coil of the cudgel!         |
-| > Deals 1,060 Pierce damage -> PART DESTROYED: Foreclosure Cudgel!  |
-+---------------------------------------------------------------------+
-| STATUS EVENT: STAGGER THRESHOLD 1 TRIGGERED!                        |
-|   * Combined Target HP drops below 60% (4,320 HP).                  |
-|   * Golden cudgel shatters into useless brass shards!               |
-| * Man-sik suffers [Stagger 1] for 1 turn (Def 0, takes 2.0x         |
-|     damage).                                                        |
-+---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-|   * Taeho: Executes [Heavy Piston Strike] -> Deals 480 Blunt.       |
-|   * Joon: Plants [Thermite Disruption Clamp] -> Deals 450 Thermal.  |
-| * Echo: Drives [Eclipse Stiletto] into knee joint -> Deals 410      |
-|     Slash.                                                          |
-|   * Soojin: Prepares leaded cryo-blanket for the Debt Scale.        |
-+---------------------------------------------------------------------+
-| ROUND 3 DAMAGE TOTALS:                                              |
-|   * Man-sik Midas Exoskeleton HP: 1,690 -> 350 / 2,400 (-1,340 HP)  |
-|   * Foreclosure Cudgel Weapon: [DESTROYED]                          |
-|   * SE-C-IIIβ-015 Debt Scale Core HP: 2,920 / 3,200                 |
-|   * Combined Target HP: 3,270 / 7,200 (Stagger 1 Active)            |
-+=====================================================================+
-```
-
-```text
-+=====================================================================+
-|         TURN 4: VOID JUDGEMENT SURGE & LEADED SANCTUARY WARD        |
-+---------------------------------------------------------------------+
-| ENCOUNTER EVENT: Transfer Pad Emergency Overcharge!                 |
-|   * Man-sik recovers from Stagger, pulling emergency purge breaker. |
-|   * SE-C-IIIβ-015 'The Debt Scale' flares into Berserk Resonance!   |
-| * Yellowed bone-arms tilt wildly, emitting crushing Void pressure.  |
-+---------------------------------------------------------------------+
-| CLASH 1: SE-C-IIIβ-015 'Debt Scale' vs Containment Handler Soojin   |
-| > Entity Skill: [Absolute Foreclosure of Life] (Atk Power 33, Void) |
-|   > Soojin Skill: [Leaded Sanctuary: Damping Field] (Def Power 36)  |
-|   > Clash Result: Soojin WINS (Power 36 vs 33)!                     |
-|     Leaded damping dome absorbs the crushing void gravity wave.     |
-|   > Soojin redirects kinetic damping -> Deals 510 Void damage.      |
-+---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-| * Taeho: Interposes shield between Man-sik and terminal data racks. |
-| * Yuna: Uploads master decryption cipher, cracking Council ledgers. |
-| * Minho: Dispenses [Neuro-Stabilizing Aerosol] to preserve sanity.  |
-| * Joon: Cuts emergency coolant line to freeze Midas engine servos.  |
-+---------------------------------------------------------------------+
-| ROUND 4 DAMAGE TOTALS:                                              |
-|   * Man-sik Midas Exoskeleton HP: 350 / 2,400                       |
-|   * Foreclosure Cudgel: [DESTROYED]                                 |
-| * SE-C-IIIβ-015 Debt Scale Core HP: 2,920 -> 2,410 / 3,200 (-510    |
-|     HP)                                                             |
-|   * Combined Target HP: 2,760 / 7,200 | UCD Composure: 95%          |
-+=====================================================================+
-```
-
-```text
-+=====================================================================+
-|    TURN 5: PHANTOM STILETTO SEVER & TERMINAL STAGGER THRESHOLD 2    |
-+---------------------------------------------------------------------+
-| CLASH 1: SE-C-IIIβ-015 'Debt Scale' vs Infiltrator Echo             |
-|   > Entity Skill: [Articulating Bone Scythe] (Atk Power 29, Slash)  |
-|   > Echo Skill: [Eclipse Stiletto: Phantom Sever] (Atk Power 34)    |
-|   > Clash Result: Echo WINS (Power 34 vs 29).                       |
-| Echo drops from vaulted chandelier, shearing central bone fulcrum.  |
-|   > Deals 680 Slash damage to Debt Scale Core.                      |
-+---------------------------------------------------------------------+
-| STATUS EVENT: TERMINAL STAGGER THRESHOLD 2 TRIGGERED!               |
-|   * Combined Target HP falls below 25% (1,800 HP).                  |
-|   * The bone frame cracks; balance dishes tip and shatter on deck!  |
-|   * Both Man-sik and SE-C-IIIβ-015 enter [Terminal Stagger 2]!      |
-+---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-|   * Joon: Tears away buckled gold breastplate, exposing cockpit.    |
-| * Minho: Injects [Sedative Soporific Solution] into Man-sik's suit. |
-|   * Yuna: Completes full download of 12,000 phantom debt ledgers.   |
-| * Soojin: Clamps Class-IV Leaded Containment Shell over bone scale. |
-+---------------------------------------------------------------------+
-| ROUND 5 DAMAGE TOTALS:                                              |
-| * Man-sik Midas Exoskeleton HP: 350 -> 0 / 2,400 (-350 HP, CRUSHED) |
-|   * Foreclosure Cudgel: [DESTROYED]                                 |
-| * SE-C-IIIβ-015 Debt Scale Core HP: 2,410 -> 1,180 / 3,200 (-1,230  |
-|     HP)                                                             |
-|   * Combined Target HP: 1,180 / 7,200 (Terminal Stagger 2 Active)   |
-+=====================================================================+
-```
-
-```text
-+=====================================================================+
-|           TURN 6: CLIMAX OVERDRIVE: IRON GAVEL & CRYO-SEAL          |
-+---------------------------------------------------------------------+
-| FINAL EXECUTIONS & OVERDRIVE RESOLUTION:                            |
-| CLASH 1: Commander Taeho vs High Usurer Man-sik                     |
-| > Taeho Overdrive: [Iron Gavel: Decreed Subjugation] (Cost: 35 SP)  |
-|   > Overdrive Power: 44 (Devastating Kinetic Blunt Verdict)         |
-| > Execution: Heavy Obsidian shield smashes into Midas cockpit       |
-|     frame.                                                          |
-|     The gilded gold-alloy collapses; Man-sik is forcibly extracted. |
-| > Non-lethal concussive kinetic shock renders Man-sik unconscious.  |
-+---------------------------------------------------------------------+
-| CLASH 2: Containment Handler Soojin vs SE-C-IIIβ-015 'The Debt      |
-|     Scale'                                                          |
-| > Soojin Overdrive: [Class-IV Leaded Containment Vault: Final       |
-|     Audit]                                                          |
-|   > Overdrive Power: 42 (Absolute Containment / Cryo-Seal)          |
-|   > Execution: Soojin locks the four hydraulic lead-mantle latches. |
-| Cryogenic sedative mist quenches the bone scale's void resonance.   |
-| > SE-C-IIIβ-015 falls completely inert inside the reinforced vault! |
-+---------------------------------------------------------------------+
-| PACIFICATION SUMMARY:                                               |
-| * High Usurer Man-sik: APPREHENDED (Armor wrecked, target secured). |
-|   * Midas Engine & Foreclosure Cudgel: 100% DEMOLISHED.             |
-| * SE-C-IIIβ-015 'The Debt Scale': 100% CONTAINED (Zero void         |
-|     leakage).                                                       |
-| * 12,000 phantom debts purged from municipal registry in real time. |
+| CONTRABAND ENTITY PROFILE (SE-C-IIIβ-015 'DEBT SCALE'):             |
+| - Entity HP Pool   : 3,200 HP | Posture Pool: 240/240               |
+| - Total Combined   : 7,200 Encounter HP                             |
+| - Attack Affinity  : Judicial Obligation Weighing & Void Judgement  |
 +=====================================================================+
 ```
 
 ---
 
-#### Chapter 7: The Aftermath & The Cleared Slates
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 04 — BATTLE TURN 01          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — ZONE C USURY VAULT REPOSITORY]              |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN][MANSIK] [YUNA]  [MINHO] [CIVS]    |
+|                                  [CUDGEL]                         [ |
++---------------------------------------------------------------------+
+| - Node 01: Breach Entry / Class-II Armored Cruiser 'The Iron Vangua |
+| - Node 02: Commander Taeho (Vanguard Band 1 / Phalanx Bastion Obsid |
+| - Node 03: Engineer Joon (Point-Blank Band 1 / Deployable Mantlet B |
+| - Node 04: Handler Soojin (Close Skirmish Band 2 / Resonance Dampin |
+| - Node 05: High Usurer Man-sik & Cudgel (Central Golden Dais)       |
+| - Node 06: Auditor Yuna (Mid-Field Band 3 / Financial Terminal Free |
+| - Node 07: Investigator Minho (Mid-Field Band 3 / Mnemonic Sniper R |
+| - Node 08: Debtor Holding Cages (32 Indentured Citizen Debtors)     |
+| - Node 10: SE-C-IIIβ-015 'Debt Scale' & Infiltrator Echo (Tray Stea |
++---------------------------------------------------------------------+
+| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 45/50 | Posture |
+| - Joon        : Spd 5 -> 3 AP | HP 3,800/3,800 | SP 40/40 | Posture |
+| - Yuna        : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 50/50 | Posture |
+| - Minho       : Spd 7 -> 4 AP | HP 2,900/2,900 | SP 45/45 | Posture |
+| - Soojin      : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 50/50 | Posture |
+| - Echo        : Spd 9 -> 5 AP | HP 2,600/2,600 | SP 40/40 | Posture |
+| - Man-sik Rig : Spd 4 -> 2 AP | HP 2,400/2,400 | Posture 240/240 [G |
+| - Cudgel Part : Spd 3 -> 1 AP | HP 1,600/1,600 | Posture 140/140 [C |
+| - Debt Scale  : Spd 5 -> 3 AP | HP 3,200/3,200 | Posture 240/240 [C |
++=====================================================================+
+```
 
-The deafening hum of the Transfer Pad died into absolute silence as Soojin snapped the fourth reinforced hydraulic clamp on the lead containment shell. Inside the leaded vault, SE-C-IIIβ-015 lay dormant, its articulating bone frame cooled and its judicial void radiation completely quenched.
-
-On the shattered marble dais, High Usurer Man-sik lay pinned beneath the buckled wreckage of his golden Midas Engine. His gilded breastplate was crushed, his weapon broken into twisted brass slag.
-
-Minho knelt beside the fallen usurer, applying cognitive restraint collars and securing his arms behind his back.
-
-"The interest has matured, Man-sik," Minho said coldly. "And the principal has just been recalled."
-
-Man-sik coughed weakly, his eyes rolling toward the server racks. "You... you think you've won... the Council... will have you erased... by tomorrow..."
-
-"Not tomorrow, and not ever," Auditor Yuna interrupted, stepping up with her glowing cipher slate. "I have just executed the master revocation protocol across the Central Municipal Banking Network. All twelve thousand phantom debts have been expunged from the civic registry. Every frozen account has been restored to its rightful owner. And the transaction logs implicating your four Council commissioners are already in the hands of Directorate High Prosecution."
-
-Man-sik closed his eyes in defeat, slumping against the marble tiles.
-
-Across the vault, Joon and Echo completed the demolition of the Transfer Pad's copper circuitry, ensuring that no future syndicate could ever exploit the Debt Scale's judicial frequency.
-
-"Transfer Pad demolished," Joon announced, shouldering his demolition hammer with satisfaction. "The machine is scrap."
-
-Taeho walked over to the towering stacks of parchment debt bonds. With a single flick of his tactical lighter, he touched the flame to the edge of the master bond rolls. The false contracts flared into amber fire, burning to ash and floating upward into the vault's air filters.
-
-"Four operations pacified," Taeho said, watching the embers fade. "The Mask Market. The Bleached Wards. The Low Sinks. And now the Usury Vaults."
-
-"Next is Zone D and E," Echo noted, looking up toward the access elevator. "The Entity Traders. Trafficking living Sorrow Entities across the outer quarries."
-
-"Then we will hunt the traffickers," Taeho said firmly. "Strike team, secure the prisoner and evidence slates. Extraction in five minutes."
+###### Turn 01 Action Resolution Log (Kinetic Ingress & Golden Cudgel Deflection)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Commander Taeho initializes `[Law of the Mantle]`: All allies within 1 node gain $+3$ Protection and physical stagger immunity.
+  * Infiltrator Echo activates `[Shadow Cloak]`: Enters stealth for 2 turns; cannot be targeted by single-target attacks; $+50\%$ Critical Strike Chance.
+  * Handler Soojin initializes `[Resonance Damping Sphere]`, stabilizing the chamber against judicial void pulses from the scale.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Commander Taeho (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta $-1$, Poise $+25$): Holds Node 02. Spends 2 AP on `[Phalanx Bastion: Obsidian Wall]`.
+  * Engineer Joon (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 03. Spends 2 AP on `[Deployable Mantlet Barrier]`. Holds 1 AP in Reserve.
+  * Auditor Yuna (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 06 (Range Band 3). Spends 2 AP on `[Cipher-Scan: Debt Frequency]`, 2 AP on `[Asset Scan]`.
+  * Investigator Minho (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Stands at Node 07. Spends 2 AP on `[Neural Lancet: Calibrated Dart]`. Holds 2 AP in Reserve.
+  * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 04. Spends 2 AP on maintaining the damping sphere. Holds 1 AP in Guard.
+  * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta $+2$): Slips into vault cable trays toward Node 10 from stealth. Spends 2 AP on positioning.
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 02 to 05)**: High Usurer Man-sik unleashes `[Foreclosure Cudgel Slam]` (Base 15 + 2 Coins = 27 Power, Heavy Blunt) against Node 02.
+    * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 17 + 2 Coins = 31 Power, Kinetic Shield).
+    * **Clash Outcome**: Taeho WINS THE CLASH (31 vs 27)!
+    * The kinetic shield absorbs the electrified golden cudgel blow without buckling (`[P3: Parry/Protection]`).
+    * Taeho reflects **170 kinetic tremor damage** back into Man-sik's Midas engine! Inflicts $+28$ Posture Strain.
+  * **Clash 2 (Node 03 to 05)**: Gilded Mercenaries fire `[Pneumatic Coin-Shot Volley]` (Atk Power 21, Pierce).
+    * Engineer Joon's `[Deployable Mantlet Barrier]` (Def Power 25, Kinetic Shield).
+    * **Clash Outcome**: Joon WINS THE CLASH (25 vs 21).
+    * Heavy coin-shot flattens harmlessly against the titanium mantlet; zero damage taken.
+  * **Unopposed Ranged Fire**:
+    * Auditor Yuna's `[Cipher-Scan]` identifies the high-voltage capacitor coupling inside the cudgel's wrist joint.
+    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into the Midas exoskeleton shoulder, dealing **250 Pierce damage** and $+24$ Posture Strain!
+    * Handler Soojin's damping sphere suppresses ambient void resonance from the Debt Scale.
+- **Step 4: Turn End State**:
+  * Man-sik Midas Chassis HP: 2,400 -> **1,980/2,400** (Combined Encounter HP: **6,780/7,200**).
+  * Man-sik Posture: 240 -> **188/240**.
+  * Squad Composure: **100% (50/50 SP)**. All 6 Officers uninjured.
 
 ---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 04 — BATTLE TURN 02          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — CUDGEL SAPPING & LEDGER DECRYPTION]         |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN][MANSIK] [YUNA]  [MINHO] [CIVS]  [ |
+|                                  [CUDGEL]                           |
++---------------------------------------------------------------------+
+| - Node 02: Commander Taeho (Advancing to Node 03 / Concussive Shiel |
+| - Node 03: Engineer Joon (Hydraulic Kinetic Ram Smashes Cudgel Cond |
+| - Node 04: Handler Soojin (Leaded Snare Restricting Scale Dish Tilt |
+| - Node 05: High Usurer Man-sik (Rig 1,690/2,400 / Cudgel 1,060/1,60 |
+| - Node 06: Auditor Yuna (Cipher-Pulse Disrupting Void Obligation Fr |
+| - Node 07: Investigator Minho (Memory Anchor Restoring Squad Compos |
+| - Node 09: Infiltrator Echo (High Cable Tray Flank behind Dais)     |
+| - Node 10: SE-C-IIIβ-015 'Debt Scale' (2,910/3,200 HP / Bone Dish H |
++---------------------------------------------------------------------+
+| - Joon        : Spd 7 -> 4 AP [SURGE] | HP 3,800/3,800 | SP 40/40 | |
+| - Minho       : Spd 9 -> 5 AP [SURGE] | HP 2,900/2,900 | SP 50/50 | |
+| - Man-sik Rig : Spd 3 -> 1 AP | HP 1,690/2,400 | Posture 176/240 [C |
+| - Cudgel Part : Spd 2 -> 1 AP | HP 1,060/1,600 | Posture 76/140 [ST |
+| - Debt Scale  : Spd 4 -> 2 AP | HP 2,910/3,200 | Posture 208/240 [S |
++=====================================================================+
+```
+
+###### Turn 02 Action Resolution Log (Sapping Hydraulic Servos & Ledger Decryption)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Engineer Joon and Investigator Minho both trigger `Momentum Surge` (+2 Speed next turn).
+  * Man-sik channels high voltage through his cudgel for an electrified arc sweep: `[High-Voltage Usury Sweep]`.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Engineer Joon (Speed 7 -> 4 AP): Advances from Node 03 to Node 04. Spends 3 AP to unleash `[Hydraulic Kinetic Ram: Structural Sapping]`.
+  * Auditor Yuna (Speed 7 -> 4 AP): Moves to Node 06, deploying `[Cipher-Pulse: Frequency Disruptor]` (2 AP) against SE-C-IIIβ-015's balance dish.
+  * Commander Taeho (Speed 4 -> 2 AP): Steps to Node 03, executing `[Shield Bash: Kinetic Drive]` (2 AP).
+  * Investigator Minho (Speed 9 -> 5 AP): Casts `[Memory Anchor: Cognitive Salve]` (2 AP), reinforcing squad composure (+15 SP).
+  * Handler Soojin (Speed 5 -> 3 AP): Flings `[Resonance Snare: Leaded Ring]` (2 AP) around the bone-scale frame.
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 04 to 05)**: Man-sik executes `[High-Voltage Usury Sweep]` (Base 13 + 2 Coins = 25 Power, Electric).
+    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 17 + 2 Coins = 29 Power, Heavy Blunt).
+    * **Clash Outcome**: Joon WINS THE CLASH (29 vs 25)!
+    * The hydraulic ram smashes straight into the cudgel's power conduit sleeve!
+    * Deals **540 Blunt damage** directly to the Foreclosure Cudgel and inflicts $+54$ Posture Strain!
+  * **Clash 2 (Node 06 to 10)**: SE-C-IIIβ-015 'Debt Scale' pulses `[Judicial Obligation Weighing]` (Power 23, Void).
+    * Auditor Yuna unleashes `[Cipher-Pulse: Frequency Disruptor]` (Def Power 27, EMP).
+    * **Clash Outcome**: Yuna WINS THE CLASH (27 vs 23).
+    * The frequency disruptor stalls the balance dish, dealing **290 Resonance damage** to SE-C-IIIβ-015 and $+28$ Posture Strain!
+  * **Follow-Up Maneuvers**:
+    * Taeho's `[Shield Bash]` deals **290 Blunt damage** to the Midas chassis.
+    * Minho's cognitive salve restores $+15$ SP across the strike cadre.
+    * Infiltrator Echo severs gold-plated power buses along the vault ceiling, cutting high-voltage feeds to the mercenaries!
+- **Step 4: Turn End State**:
+  * Man-sik Midas Chassis HP: 1,980 -> **1,690/2,400** | Posture: **176/240 [CONDUIT CRACKED]**.
+  * Foreclosure Cudgel Weapon HP: 1,600 -> **1,060/1,600** | Posture: **76/140**.
+  * SE-C-IIIβ-015 Debt Scale HP: 3,200 -> **2,910/3,200** | Posture: **208/240**.
+  * Combined Encounter HP: **5,660/7,200** | Squad Composure: **98%**.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 04 — BATTLE TURN 03          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — CUDGEL SHATTER & STAGGER THRESHOLD 1]       |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER]        [TAEHO] [JOON]  [MANSIK] [YUNA]  [MINHO] [CIVS]  [ |
++---------------------------------------------------------------------+
+| - Node 03: Commander Taeho (Heavy Piston Strike Smashes Midas Chest |
+| - Node 04: Engineer Joon (Thermite Disruption Clamp Igniting Batter |
+| - Node 05: High Usurer Man-sik (STAGGER LEVEL 1 / CUDGEL DESTROYED) |
+| - Node 06: Auditor Yuna (Debt Ledger Download In Progress)          |
+| - Node 07: Investigator Minho (Synaptic Pierce Dismantles Cudgel Co |
+| - Node 09: Infiltrator Echo (Driving Eclipse Stiletto into Servo Jo |
+| - Node 10: SE-C-IIIβ-015 'Debt Scale' (Void Mist Churning)          |
++---------------------------------------------------------------------+
+| - Taeho       : Spd 6 -> 3 AP [SURGE] | HP 4,400/4,400 | SP 48/50 | |
+| - Man-sik Rig : Spd 0 -> 0 AP | HP 410/2,400   | Posture 88/240 [ST |
+| - Cudgel Part : DESTROYED (0/1,600 HP)                              |
+| - Debt Scale  : Spd 5 -> 3 AP | HP 2,910/3,200 | Posture 208/240    |
++=====================================================================+
+```
+
+###### Turn 03 Action Resolution Log (Precision Lancet Pierce & Stagger Threshold 1)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Commander Taeho's `Momentum Surge` activates (+2 Speed next turn -> Net Speed 6, 3 AP).
+  * Man-sik attempts his lethal execution sweep: `[Absolute Foreclosure Slam]`.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Investigator Minho (Speed 9 -> 5 AP): Positions on an elevated cable tray at Node 07. Spends 3 AP on `[Neural Lancet: Synaptic Pierce]`.
+  * Commander Taeho (Speed 6 -> 3 AP): Charges from Node 03 to Node 05, unleashing `[Heavy Piston Strike]` (2 AP).
+  * Engineer Joon (Speed 7 -> 4 AP): Plants `[Thermite Disruption Clamp]` (2 AP) directly on the cudgel battery capacitor.
+  * Infiltrator Echo (Speed 9 -> 5 AP): Drops from high cable trays onto the cudgel's wrist joint, driving `[Eclipse Stiletto]` (2 AP).
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 07 to 05)**: Man-sik unleashes `[Absolute Foreclosure Slam]` (Base 16 + 2 Coins = 28 Power, Heavy Blunt).
+    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 20 + 2 Coins = 32 Power, High-Precision Pierce).
+    * **Clash Outcome**: Minho WINS THE CLASH (32 vs 28)!
+    * Minho's silver lancet pierces the main capacitor core of the cudgel with microscopic precision!
+    * **TARGETED PART DESTROYED**: `[The Foreclosure Cudgel Arm]` explodes in a shower of golden sparks and molten copper (**1,060 Cudgel HP destroyed: 0/1,600**)!
+  * **STAGGER THRESHOLD 1 TRIGGERED!**
+    * Combined Target HP drops below 60% (4,320 HP), and Man-sik's Posture falls past the 60% strain line!
+    * **STAGGER LEVEL 1 ACTIVE!** Man-sik's Midas rig loses all defense, taking 1.5x direct damage. All enemy counter-stances cancelled!
+  * **Punishment Strike Phase**:
+    * Commander Taeho's `[Heavy Piston Strike]` delivers **480 Blunt damage** to the exposed chest plate.
+    * Engineer Joon's thermite clamp burns through the auxiliary servos for **420 Thermal damage**.
+    * Infiltrator Echo's `[Eclipse Stiletto]` slices hydraulic tendons for **380 Slash damage**.
+- **Step 4: Turn End State**:
+  * Man-sik Midas Chassis HP: 1,690 -> **410/2,400** (Chassis critically buckled!).
+  * Foreclosure Cudgel Weapon: **0/1,600 [DESTROYED]**.
+  * Combined Encounter HP: **3,320/7,200** | Posture: **88/240 [STAGGER LEVEL 1]**.
+  * Squad Composure: **100% (50/50 SP)**.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 04 — BATTLE TURN 04          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — BERSERK DEBT SCALE & LEADED SANCTUARY WARD] |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER]        [TAEHO] [JOON]  [MANSIK] [SOOJIN][YUNA]  [CIVS]  [ |
+|                                                   [MINHO]           |
++---------------------------------------------------------------------+
+| - Node 03: Commander Taeho (Shielding Debtor Cages & Captives)      |
+| - Node 04: Engineer Joon (Pneumatic Pry Bar Unlatching Debtor Cells |
+| - Node 05: High Usurer Man-sik (Recovered / Pulling Safety Lever on |
+| - Node 06: Handler Soojin (Leaded Sanctuary Ward Enclosing Squad)   |
+| - Node 07: Auditor Yuna & Minho (Freezing 120 Cartel Shell Bank Acc |
+| - Node 08: 32 Indentured Captives (Cognitive Shields Holding Intact |
+| - Node 10: SE-C-IIIβ-015 'Debt Scale' (BERSERK STATE / Void Judgeme |
++---------------------------------------------------------------------+
+| - Soojin      : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 50/50 | |
+| - Man-sik Rig : Spd 2 -> 1 AP | HP 410/2,400   | Posture 62/240     |
+| - Debt Scale  : Spd 6 -> 4 AP | HP 2,390/3,200 | Posture 136/240 [B |
++=====================================================================+
+```
+
+###### Turn 04 Action Resolution Log (Void Judgement Surge & Leaded Sanctuary Ward)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Recovering from Stagger, Man-sik pulls the emergency debt-resonance lever on SE-C-IIIβ-015 at Node 10!
+  * **ENCOUNTER EVENT**: SE-C-IIIβ-015 'The Debt Scale' enters **Berserk State** (+4 Attack Power)!
+  * The bone dishes tilt violently; crushing void gravity waves ripple across the vault floor.
+  * Handler Soojin's `Momentum Surge` activates (+2 Speed -> Net Speed 7, 4 AP).
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Handler Soojin (Speed 7 -> 4 AP): Moves to Node 06, deploying `[Leaded Sanctuary Ward: Vacuum Dome]` (3 AP) enclosing the squad and debtor holding cells.
+  * Commander Taeho (Speed 4 -> 2 AP): Steps to Node 03, locking his Obsidian shield in front of the debtor pens.
+  * Auditor Yuna (Speed 7 -> 4 AP): Hacks the central ledger terminal at Node 06, freezing 120 shadow bank accounts (2 AP).
+  * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect debtor sanity.
+  * Engineer Joon (Speed 5 -> 3 AP): Uses pneumatic pry bar at Node 04 to pop open the reinforced debtor cell doors (2 AP).
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIβ-015 unleashes `[Absolute Foreclosure: Gravitic Void Surge]` (Base 23 + 2 Coins = 33 Power, Area Void).
+    * Handler Soojin deploys `[Leaded Sanctuary Ward]` (Base 26 + 2 Coins = 36 Power, Vacuum Barrier).
+    * **Clash Outcome**: Soojin WINS THE CLASH (36 vs 33)!
+    * The lead-lined vacuum sphere fully captures the crushing void gravity wave (`[P3: Parry/Protection]`).
+    * Zero void distortion breaches the leaded barrier. Soojin redirects the trapped resonance into the scale dishes, dealing **520 Void damage** and $+72$ Posture Strain!
+- **Step 4: Turn End State**:
+  * Man-sik Midas Chassis HP: **410/2,400** | Posture: **62/240**.
+  * SE-C-IIIβ-015 Debt Scale HP: 2,910 -> **2,390/3,200** | Posture: **136/240**.
+  * Combined Encounter HP: **2,800/7,200** | Squad Composure: **96%**.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 04 — BATTLE TURN 05          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — PHANTOM SEVER & TERMINAL STAGGER]           |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER]        [TAEHO] [JOON]  [MANSIK] [SOOJIN][YUNA]  [CIVS]    |
+|                                                   [MINHO]         [ |
++---------------------------------------------------------------------+
+| - Node 03: Commander Taeho (Priming Iron Gavel for Cockpit Breach)  |
+| - Node 04: Engineer Joon (Tearing Away Buckled Midas Exoskeleton St |
+| - Node 05: Man-sik Rig (TERMINAL STAGGER / POSTURE 0/240 / CRUSHED) |
+| - Node 06: Handler Soojin (Aligning Class-IV Leaded Cryo-Cask at Da |
+| - Node 07: Investigator Minho (Silver Lancet Stripping Obligation C |
+| - Node 09: Infiltrator Echo (Eclipse Stiletto Phantom Sever on Sine |
+| - Node 10: SE-C-IIIβ-015 'Debt Scale' (TERMINAL STAGGER / POSTURE 0 |
++---------------------------------------------------------------------+
+| - Echo        : Spd 11 -> 5 AP [MOMENTUM CRIT] | HP 2,600/2,600 | S |
+| - Man-sik Rig : Spd 0 -> 0 AP | HP 0/2,400     | Posture 0/240 [CHA |
+| - Debt Scale  : Spd 0 -> 0 AP | HP 1,280/3,200 | Posture 0/240 [TER |
++=====================================================================+
+```
+
+###### Turn 05 Action Resolution Log (Phantom Stiletto Sever & Terminal Stagger Threshold 2)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Infiltrator Echo readies `[Eclipse Stiletto: Phantom Sever]` from the overhead cable trays (+50% Crit Chance, ignores 100% defense).
+  * Investigator Minho targets the entity's central fulcrum fulcrum bearing.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Infiltrator Echo (Speed 11 -> 5 AP, Momentum + Stealth Boost): Drops from the high trays onto Node 10. Spends 3 AP on `[Phantom Sever]`.
+  * Investigator Minho (Speed 7 -> 4 AP): Fires `[Silver Lancet: Cognitive Disruptor]` from Node 07 into the exposed fulcrum bearing (2 AP).
+  * Engineer Joon (Speed 5 -> 3 AP): Smashes away Man-sik's remaining chassis supports at Node 04 (2 AP).
+  * Auditor Yuna (Speed 7 -> 4 AP): Finalizes forensic download of 12,400 predatory debt contracts at Node 06 (2 AP).
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 10)**: SE-C-IIIβ-015 lashes out with `[Gilded Obligation Guillotine]` (Atk Power 29, Void/Slash).
+    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 24 + 2 Coins Heads = 34 Power, Slash).
+    * **Clash Outcome**: Echo WINS THE CLASH (34 vs 29)!
+    * Echo slices cleanly through the gold-sinew cables connecting the two bone balance pans!
+    * **CRITICAL HIT!** Deals **660 Slash damage** directly to the core and strips 90 Posture points!
+  * **Targeted Fire**:
+    * Investigator Minho's `[Silver Lancet]` strikes the central fulcrum bearing, dealing **450 Freezing Pierce damage** and wiping out the entity's remaining Posture!
+    * Engineer Joon demolishes the buckled Midas chassis with the pneumatic ram, dealing **410 Blunt damage** and crushing the exoskeleton completely (Rig HP: 0/2,400)!
+- **Step 4: TERMINAL STAGGER THRESHOLD 2 TRIGGERED!**:
+  * Both Man-sik and SE-C-IIIβ-015 reach **Posture 0/240** and **0/240**!
+  * **TERMINAL STAGGER ACTIVE!** Man-sik collapses under hydraulic collapse, pinned to the floor plates. SE-C-IIIβ-015's balance pans hit the dais, its void aura extinguishing into cold ash.
+  * Combined Encounter HP drops below 20% (Total HP: **1,280/7,200**).
+- **Step 5: Turn End State**:
+  * Man-sik Midas Chassis HP: **0/2,400 [CHASSIS CRUSHED]** | Posture: **0/240**.
+  * SE-C-IIIβ-015 Debt Scale HP: **1,280/3,200** | Posture: **0/240 [TERMINAL STAGGER]**.
+  * Squad Composure: **100% (50/50 SP)**.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 04 — BATTLE TURN 06          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — CLIMAX OVERDRIVE: IRON GAVEL & CRYO-SEAL]   |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER]                [JOON]  [TAEHO]  [SOOJIN][YUNA]  [CIVS]    |
+|                                  [MANSIK]         [MINHO]         [ |
++---------------------------------------------------------------------+
+| - Node 05: High Usurer Man-sik (EXTRACTED UNCONSCIOUS & SECURED)    |
+| - Node 06: Auditor Yuna (12,400 Promissory Debt Records Seized & Wi |
+| - Node 08: 32 Indentured Debtors (Safely Unlatched / Zero Fatalitie |
+| - Node 10: SE-C-IIIβ-015 'Debt Scale' (100% CONTAINED IN CRYOGENIC  |
++---------------------------------------------------------------------+
+| - Strike Cadre: Zero Fatalities | Composure 50/50 SP (Lucidity)     |
+| - Encounter Status: 100% PACIFIED | Handoff to RD Floor 2 Ready     |
++=====================================================================+
+```
+
+###### Turn 06 Action Resolution Log (Climax Overdrive: Iron Gavel & Cryo-Seal)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Commander Taeho charges `[Decree of Unbroken Order — Iron Gavel]` (Cost: 35 SP).
+  * Handler Soojin activates `[Class-IV Leaded Cryo-Seal: Vault of Solitude]` (Cost: 35 SP).
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Commander Taeho (Speed 4 -> 2 AP): Steps up to Node 05, standing over Man-sik's pinned chassis. Spends 2 AP on Climax Overdrive.
+  * Handler Soojin (Speed 5 -> 3 AP): Wheels the Class-IV Cryogenic Leaded Cask directly beneath the Debt Scale fulcrum at Node 10. Spends 3 AP on Climax Containment.
+  * Engineer Joon and Infiltrator Echo: Unlatch the final cell doors on the 32 indentured debtors at Node 08, wrapping them in thermal mantlets.
+  * Auditor Yuna: Verifies Level-5 encryption on the 12,400 seized debt drives at Node 06, executing immediate debt nullification scripts.
+- **Step 3: Climax Overdrive Executions**:
+  * **Climax 1 (Commander Taeho vs High Usurer Man-sik)**:
+    * Taeho raises his heavy obsidian shield, channeling a 120 dB directed concussive wave: `[Iron Gavel: Decreed Subjugation]` (Power 42).
+    * Smashes the reinforced golden helmet visor cleanly along pre-existing stress fractures.
+    * The golden plate fractures away safely; non-lethal kinetic tremor renders Man-sik unconscious.
+    * **HIGH USURER MAN-SIK EXTRACTED & INCAPACITATED!** Remanded to Warden custody!
+  * **Climax 2 (Handler Soojin vs SE-C-IIIβ-015 'The Debt Scale')**:
+    * Soojin clamps the leaded seal collar onto the Debt Scale fulcrum, triggering absolute sub-zero cryogenic vacuum suction: `[Vault of Solitude]` (Power 40).
+    * All swirling void emotional vapors are sucked into the leaded cask within 4.1 seconds! Zero atmospheric leakage detected.
+    * The hydraulic locking pins engage with a heavy metallic boom: **CRYOGENIC VACUUM SEAL COMPLETE**.
+    * **SE-C-IIIβ-015 HP DROPS TO 0!** Fully contained in inert dormancy and logged for transfer to Reverie Directorate Floor 2!
+- **Step 4: Pacification & Operational Outcome**:
+  * **High Usurer Man-sik**: Midas chassis demolished; usurer safely secured in Warden custody.
+  * **Electrified Foreclosure Cudgel**: 100% destroyed.
+  * **SE-C-IIIβ-015 'The Debt Scale'**: 100% contained in cryogenic lead cask. Zero leakage.
+  * **Civilian Debtors**: 32 citizens liberated and all predatory contracts legally incinerated.
+  * **Evidence**: 12,400 promissory contracts and 840 kg of illicit bullion seized.
+
 
 ### Post-Action Forensic Inventory
 
