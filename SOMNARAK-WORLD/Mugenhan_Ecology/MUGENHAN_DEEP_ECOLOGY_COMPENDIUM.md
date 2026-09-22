@@ -30,7 +30,7 @@ Over millions of years, biological organisms exposed to sub-surface Han develope
 
 A strict scientific boundary separates **Sorrow Beasts (비한수)** and **Sorrow Flora (비한목)** from true Sorrow Entities:
 
-$$\text{Organism Composition} = 80\% \text{ Living Biological Animal/Plant} + 20\% \text{ Sorrow/M.A.W. Phenotype}$$
+Organism Composition = 80%  Living Biological Animal/Plant + 20%  Sorrow/M.A.W. Phenotype
 
 - **Sorrow Beasts are 100% biological organisms in their ancestry and basic life cycle**:
   * They possess true beating hearts, lungs, digestive tracts, and reproductive organs.

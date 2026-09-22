@@ -78,12 +78,12 @@ The massive cannons roared. The siege of the Exile's Gate had begun.
 
 ###### Turn 01 Action Resolution Log (Intercepting the Heavy Kinetic Rail Cannon)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Kael initializes `[Planetary Ley-Stance]`: Grants $+3$ Protection and immune to kinetic knockback.
+  * Kael initializes `[Planetary Ley-Stance]`: Grants +3 Protection and immune to kinetic knockback.
   * Hwaran readies her `[Volcanic Ash Shroud]`, preparing thermal blinding smoke.
-  * Fort Interdiction activates `[Overwatch Targeting Grid]`: Increases kinetic accuracy by $+20\%$.
+  * Fort Interdiction activates `[Overwatch Targeting Grid]`: Increases kinetic accuracy by +20%.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta $-1$, Poise $+20$): Advances to Node 02. Spends 2 AP on `[Obsidian Cleaver: Bulwark Intercept]`. Holds 2 AP in Reserve.
-  * Hwaran (Speed 6 -> 3 AP, Light Skimmer delta $+1$): Holds Node 02. Spends 2 AP on `[Thermal Ash Screen]`. Holds 1 AP in Guard.
+  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta -1, Poise +20): Advances to Node 02. Spends 2 AP on `[Obsidian Cleaver: Bulwark Intercept]`. Holds 2 AP in Reserve.
+  * Hwaran (Speed 6 -> 3 AP, Light Skimmer delta +1): Holds Node 02. Spends 2 AP on `[Thermal Ash Screen]`. Holds 1 AP in Guard.
   * Commander Vane (Speed 6 -> 3 AP): Holds Node 05. Spends 2 AP on `[Dual Kinetic Rail Barrage]`. Spends 1 AP on `[Aegis Forcefield Pulse]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: Fort Interdiction fires `[Dual Kinetic Rail Barrage]` (Base 18 + 2 Coins = 28 Power, Heavy Weight/Kinetic).
@@ -184,10 +184,10 @@ The massive cannons roared. The siege of the Exile's Gate had begun.
     * **Clash Outcome**: Kael WINS THE CLASH (35 vs 26)!
     * Kael slams his crystalline glass fist straight into the focal emitter of the blue forcefield!
     * Hwaran's slag sparks ignite the ozone discharge coils, sending a catastrophic feedback loop through the generator!
-    * Deals **590 Weight/Thermal damage** and $+98$ Posture Strain!
+    * Deals **590 Weight/Thermal damage** and +98 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Fort HP crosses 70% threshold (3,360 HP), dropping to **2,440/4,800 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The blue forcefield shatters into blinding sparks; bunker blast doors crack open; fortress takes $+50\%$ damage!
+  * **STAGGER LEVEL 1 ACTIVE!** The blue forcefield shatters into blinding sparks; bunker blast doors crack open; fortress takes +50% damage!
 - **Step 5: Turn End State**:
   * Total Fort HP: 3,310 -> **2,440/4,800 [THRESHOLD BREACHED: Below 3,360 HP!]**.
   * Aegis Shield: 1,210 -> **620/1,500** | Posture: **102/300 [CRACKED]**.

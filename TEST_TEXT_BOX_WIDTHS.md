@@ -14,10 +14,10 @@
 Following extensive visual and technical analysis across modern displays, GitHub markdown renderers, and code-block viewports, the Reverie Directorate has identified the **127 to 128 character window** as the ultimate architectural standard for wide-format operational interfaces:
 
 1. **The 128-Character Upper Boundary (`Maximum 128`):**
-   - 128 characters corresponds to the classical computing double-octet boundary ($2^7 = 128$), providing an ideal horizontal canvas for 5 to 6 richly detailed table columns without truncating names, stat labels, or attack affinities.
+   - 128 characters corresponds to the classical computing double-octet boundary (2^7 = 128), providing an ideal horizontal canvas for 5 to 6 richly detailed table columns without truncating names, stat labels, or attack affinities.
    - On desktop viewports (1080p, 1440p, 4K), 128 characters fits cleanly without requiring horizontal scrollbars.
 2. **The 127-Character Lower Boundary (`127 At Least`):**
-   - 127 characters represents the maximum safe ASCII block width ($2^7 - 1 = 127$), guaranteeing a 1-character safety margin that prevents right-edge border wrapping or clipping on renderers with custom scrollbars or padding.
+   - 127 characters represents the maximum safe ASCII block width (2^7 - 1 = 127), guaranteeing a 1-character safety margin that prevents right-edge border wrapping or clipping on renderers with custom scrollbars or padding.
    - Ensures full sentence and multi-column integrity with zero word abbreviation.
 
 ---

@@ -186,20 +186,20 @@ Seiyon raised her hands. Her holographic avatar solidified, coating her transluc
 
 ###### Turn 01 Action Resolution Log (Intercepting the Ink Cleave)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Seiyon initializes `[Prismatic Aegis Stance]`: Generates a holographic barrier granting $+3$ Protection; intercepts the Keeper's primary sweeping ink strike.
+  * Seiyon initializes `[Prismatic Aegis Stance]`: Generates a holographic barrier granting +3 Protection; intercepts the Keeper's primary sweeping ink strike.
   * Mnemonic Drone deploys `[Stasis Caliper]`, calibrating acoustic sensors to track the resonance frequencies of the Obsidian Quill.
   * Resonant Lens locks onto the quill's intake reservoir at Node 05.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta $+1$, Evasion $+15\%$): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Kinetic Deflection]`. Holds 2 AP in Reserve.
-  * Mnemonic Drone (Speed 5 -> 3 AP, Medium delta $0$): Holds Node 03. Spends 2 AP on `[Stasis Caliper: Clamp Lock]`. Holds 1 AP in Guard.
+  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15\%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Kinetic Deflection]`. Holds 2 AP in Reserve.
+  * Mnemonic Drone (Speed 5 -> 3 AP, Medium delta 0): Holds Node 03. Spends 2 AP on `[Stasis Caliper: Clamp Lock]`. Holds 1 AP in Guard.
   * Preserved Scribes (Speed 4 -> 2 AP): Stand at Node 04, firing `[Ink Quill Volley]` toward Node 02.
-  * The First Keeper (Speed 6 -> 3 AP, Heavy Construct delta $-1$, Poise $+25$): Holds Node 05. Spends 2 AP on `[Obsidian Quill Cleave]`. Spends 1 AP on `[Archival Guard]`.
+  * The First Keeper (Speed 6 -> 3 AP, Heavy Construct delta -1, Poise +25): Holds Node 05. Spends 2 AP on `[Obsidian Quill Cleave]`. Spends 1 AP on `[Archival Guard]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: The First Keeper sweeps forward with `[Obsidian Quill Cleave]` (Base 16 + 2 Coins = 24 Power, Heavy Lament/Slash).
     * Seiyon intercepts with `[Prismatic Aegis: Kinetic Deflection]` (Base 19 + 2 Coins = 31 Power, Holographic Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (31 vs 24)!
     * Seiyon's holographic shield catches the heavy obsidian nib cleanly; the torrential jet of cyan sorrow ink deflects across the basalt floor (`[P3: Parry/Protection]`).
-    * Seiyon reflects **180 kinetic tremor damage** back into the quill shaft, inflicting $+44$ Posture Strain!
+    * Seiyon reflects **180 kinetic tremor damage** back into the quill shaft, inflicting +44 Posture Strain!
   * **Clash 2 (Node 03 to 04)**: Scribes fire `[Ink Quill Volley]` (Power 20, Pierce).
     * Drone's `[Stasis Caliper]` clamps down, absorbing the needles harmlessly into its energy shield.
   * **Unopposed Tactical Fire**:
@@ -260,10 +260,10 @@ Seiyon raised her hands. Her holographic avatar solidified, coating her transluc
     * **Clash Outcome**: Seiyon WINS THE CLASH (33 vs 24)!
     * Seiyon's needle plunges straight through the central copper spine of the massive book!
     * Drone's `[Shock Piston Drive]` detonates against the binding, ripping the brass hinges apart!
-    * The Great Archival Codex splits in half, spilling thousands of loose pages into the air, dealing **430 Blunt/Void damage** and $+78$ Posture Strain!
+    * The Great Archival Codex splits in half, spilling thousands of loose pages into the air, dealing **430 Blunt/Void damage** and +78 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (2,240 HP), falling to **1,620/3,200 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Keeper falls to its knees upon the lectern; all defenses drop to zero; takes $+50\%$ damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The Keeper falls to its knees upon the lectern; all defenses drop to zero; takes +50\% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 2,240 -> **1,620/3,200 [THRESHOLD BREACHED: Below 2,240 HP!]**.
   * Archival Codex: 840 -> **410/1,000** | Posture: **82/240 [SPLIT OPEN]**.
@@ -345,7 +345,7 @@ Seiyon raised her hands. Her holographic avatar solidified, coating her transluc
   * The First Keeper's stone body softly dissolves into a storm of golden script that condenses into a glowing, crystalline tome: **`[Key Page: The Archivist]`**!
   * Deals **380 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Key Page Acquired**: `[Key Page: The Archivist]` (Grants squad-wide memory erosion immunity and $+25$ Poise).
+  * **Key Page Acquired**: `[Key Page: The Archivist]` (Grants squad-wide memory erosion immunity and +25 Poise).
   * **Descent Access**: At the rear of the Reading Hall, the basalt wall slides aside, revealing a spiral staircase of spun obsidian glass descending to **Floor 02: Floor of Identity & Reflection**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP."""
 

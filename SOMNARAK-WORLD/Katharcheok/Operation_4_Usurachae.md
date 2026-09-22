@@ -291,29 +291,29 @@ The vault erupted into a tempest of kinetic force and psychic void pressure.
 
 ###### Turn 01 Action Resolution Log (Kinetic Ingress & Golden Cudgel Deflection)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Commander Taeho initializes `[Law of the Mantle]`: All allies within 1 node gain $+3$ Protection and physical stagger immunity.
-  * Infiltrator Echo activates `[Shadow Cloak]`: Enters stealth for 2 turns; cannot be targeted by single-target attacks; $+50\%$ Critical Strike Chance.
+  * Commander Taeho initializes `[Law of the Mantle]`: All allies within 1 node gain +3 Protection and physical stagger immunity.
+  * Infiltrator Echo activates `[Shadow Cloak]`: Enters stealth for 2 turns; cannot be targeted by single-target attacks; +50% Critical Strike Chance.
   * Handler Soojin initializes `[Resonance Damping Sphere]`, stabilizing the chamber against judicial void pulses from the scale.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Commander Taeho (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta $-1$, Poise $+25$): Holds Node 02. Spends 2 AP on `[Phalanx Bastion: Obsidian Wall]`.
-  * Engineer Joon (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 03. Spends 2 AP on `[Deployable Mantlet Barrier]`. Holds 1 AP in Reserve.
-  * Auditor Yuna (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 06 (Range Band 3). Spends 2 AP on `[Cipher-Scan: Debt Frequency]`, 2 AP on `[Asset Scan]`.
-  * Investigator Minho (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Stands at Node 07. Spends 2 AP on `[Neural Lancet: Calibrated Dart]`. Holds 2 AP in Reserve.
-  * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 04. Spends 2 AP on maintaining the damping sphere. Holds 1 AP in Guard.
-  * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta $+2$): Slips into vault cable trays toward Node 10 from stealth. Spends 2 AP on positioning.
+  * Commander Taeho (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02. Spends 2 AP on `[Phalanx Bastion: Obsidian Wall]`.
+  * Engineer Joon (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 03. Spends 2 AP on `[Deployable Mantlet Barrier]`. Holds 1 AP in Reserve.
+  * Auditor Yuna (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06 (Range Band 3). Spends 2 AP on `[Cipher-Scan: Debt Frequency]`, 2 AP on `[Asset Scan]`.
+  * Investigator Minho (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Stands at Node 07. Spends 2 AP on `[Neural Lancet: Calibrated Dart]`. Holds 2 AP in Reserve.
+  * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on maintaining the damping sphere. Holds 1 AP in Guard.
+  * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Slips into vault cable trays toward Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: High Usurer Man-sik unleashes `[Foreclosure Cudgel Slam]` (Base 15 + 2 Coins = 27 Power, Heavy Blunt) against Node 02.
     * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 17 + 2 Coins = 31 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (31 vs 27)!
     * The kinetic shield absorbs the electrified golden cudgel blow without buckling (`[P3: Parry/Protection]`).
-    * Taeho reflects **170 kinetic tremor damage** back into Man-sik's Midas engine! Inflicts $+28$ Posture Strain.
+    * Taeho reflects **170 kinetic tremor damage** back into Man-sik's Midas engine! Inflicts +28 Posture Strain.
   * **Clash 2 (Node 03 to 05)**: Gilded Mercenaries fire `[Pneumatic Coin-Shot Volley]` (Atk Power 21, Pierce).
     * Engineer Joon's `[Deployable Mantlet Barrier]` (Def Power 25, Kinetic Shield).
     * **Clash Outcome**: Joon WINS THE CLASH (25 vs 21).
     * Heavy coin-shot flattens harmlessly against the titanium mantlet; zero damage taken.
   * **Unopposed Ranged Fire**:
     * Auditor Yuna's `[Cipher-Scan]` identifies the high-voltage capacitor coupling inside the cudgel's wrist joint.
-    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into the Midas exoskeleton shoulder, dealing **250 Pierce damage** and $+24$ Posture Strain!
+    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into the Midas exoskeleton shoulder, dealing **250 Pierce damage** and +24 Posture Strain!
     * Handler Soojin's damping sphere suppresses ambient void resonance from the Debt Scale.
 - **Step 4: Turn End State**:
   * Man-sik Midas Chassis HP: 2,400 -> **1,980/2,400** (Combined Encounter HP: **6,780/7,200**).
@@ -363,14 +363,14 @@ The vault erupted into a tempest of kinetic force and psychic void pressure.
     * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 17 + 2 Coins = 29 Power, Heavy Blunt).
     * **Clash Outcome**: Joon WINS THE CLASH (29 vs 25)!
     * The hydraulic ram smashes straight into the cudgel's power conduit sleeve!
-    * Deals **540 Blunt damage** directly to the Foreclosure Cudgel and inflicts $+54$ Posture Strain!
+    * Deals **540 Blunt damage** directly to the Foreclosure Cudgel and inflicts +54 Posture Strain!
   * **Clash 2 (Node 06 to 10)**: SE-C-IIIβ-015 'Debt Scale' pulses `[Judicial Obligation Weighing]` (Power 23, Void).
     * Auditor Yuna unleashes `[Cipher-Pulse: Frequency Disruptor]` (Def Power 27, EMP).
     * **Clash Outcome**: Yuna WINS THE CLASH (27 vs 23).
-    * The frequency disruptor stalls the balance dish, dealing **290 Resonance damage** to SE-C-IIIβ-015 and $+28$ Posture Strain!
+    * The frequency disruptor stalls the balance dish, dealing **290 Resonance damage** to SE-C-IIIβ-015 and +28 Posture Strain!
   * **Follow-Up Maneuvers**:
     * Taeho's `[Shield Bash]` deals **290 Blunt damage** to the Midas chassis.
-    * Minho's cognitive salve restores $+15$ SP across the strike cadre.
+    * Minho's cognitive salve restores +15 SP across the strike cadre.
     * Infiltrator Echo severs gold-plated power buses along the vault ceiling, cutting high-voltage feeds to the mercenaries!
 - **Step 4: Turn End State**:
   * Man-sik Midas Chassis HP: 1,980 -> **1,690/2,400** | Posture: **176/240 [CONDUIT CRACKED]**.
@@ -473,7 +473,7 @@ The vault erupted into a tempest of kinetic force and psychic void pressure.
     * Handler Soojin deploys `[Leaded Sanctuary Ward]` (Base 26 + 2 Coins = 36 Power, Vacuum Barrier).
     * **Clash Outcome**: Soojin WINS THE CLASH (36 vs 33)!
     * The lead-lined vacuum sphere fully captures the crushing void gravity wave (`[P3: Parry/Protection]`).
-    * Zero void distortion breaches the leaded barrier. Soojin redirects the trapped resonance into the scale dishes, dealing **520 Void damage** and $+72$ Posture Strain!
+    * Zero void distortion breaches the leaded barrier. Soojin redirects the trapped resonance into the scale dishes, dealing **520 Void damage** and +72 Posture Strain!
 - **Step 4: Turn End State**:
   * Man-sik Midas Chassis HP: **410/2,400** | Posture: **62/240**.
   * SE-C-IIIβ-015 Debt Scale HP: 2,910 -> **2,390/3,200** | Posture: **136/240**.

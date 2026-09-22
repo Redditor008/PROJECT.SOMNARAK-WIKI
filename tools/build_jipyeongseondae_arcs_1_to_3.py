@@ -223,12 +223,12 @@ The massive cannons roared. The siege of the Exile's Gate had begun.
 
 ###### Turn 01 Action Resolution Log (Intercepting the Heavy Kinetic Rail Cannon)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Kael initializes `[Planetary Ley-Stance]`: Grants $+3$ Protection and immune to kinetic knockback.
+  * Kael initializes `[Planetary Ley-Stance]`: Grants +3 Protection and immune to kinetic knockback.
   * Hwaran readies her `[Volcanic Ash Shroud]`, preparing thermal blinding smoke.
-  * Fort Interdiction activates `[Overwatch Targeting Grid]`: Increases kinetic accuracy by $+20\\%$.
+  * Fort Interdiction activates `[Overwatch Targeting Grid]`: Increases kinetic accuracy by +20\\%.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta $-1$, Poise $+20$): Advances to Node 02. Spends 2 AP on `[Obsidian Cleaver: Bulwark Intercept]`. Holds 2 AP in Reserve.
-  * Hwaran (Speed 6 -> 3 AP, Light Skimmer delta $+1$): Holds Node 02. Spends 2 AP on `[Thermal Ash Screen]`. Holds 1 AP in Guard.
+  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta -1, Poise +20): Advances to Node 02. Spends 2 AP on `[Obsidian Cleaver: Bulwark Intercept]`. Holds 2 AP in Reserve.
+  * Hwaran (Speed 6 -> 3 AP, Light Skimmer delta +1): Holds Node 02. Spends 2 AP on `[Thermal Ash Screen]`. Holds 1 AP in Guard.
   * Commander Vane (Speed 6 -> 3 AP): Holds Node 05. Spends 2 AP on `[Dual Kinetic Rail Barrage]`. Spends 1 AP on `[Aegis Forcefield Pulse]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: Fort Interdiction fires `[Dual Kinetic Rail Barrage]` (Base 18 + 2 Coins = 28 Power, Heavy Weight/Kinetic).
@@ -295,10 +295,10 @@ The massive cannons roared. The siege of the Exile's Gate had begun.
     * **Clash Outcome**: Kael WINS THE CLASH (35 vs 26)!
     * Kael slams his crystalline glass fist straight into the focal emitter of the blue forcefield!
     * Hwaran's slag sparks ignite the ozone discharge coils, sending a catastrophic feedback loop through the generator!
-    * Deals **590 Weight/Thermal damage** and $+98$ Posture Strain!
+    * Deals **590 Weight/Thermal damage** and +98 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Fort HP crosses 70% threshold (3,360 HP), dropping to **2,440/4,800 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The blue forcefield shatters into blinding sparks; bunker blast doors crack open; fortress takes $+50\%$ damage!
+  * **STAGGER LEVEL 1 ACTIVE!** The blue forcefield shatters into blinding sparks; bunker blast doors crack open; fortress takes +50\% damage!
 - **Step 5: Turn End State**:
   * Total Fort HP: 3,310 -> **2,440/4,800 [THRESHOLD BREACHED: Below 3,360 HP!]**.
   * Aegis Shield: 1,210 -> **620/1,500** | Posture: **102/300 [CRACKED]**.
@@ -524,7 +524,7 @@ def generate_arc_2():
 
 Two months into the trans-continental expedition, the Horizon Caravan had entered the deepest, most treacherous quadrant of the planetary wasteland: **The Sea of Glass (유리의 바다)**, located 1,120 kilometers southeast of Somnarak.
 
-Here, the dunes rose three hundred meters high, composed entirely of crystalline Han-silica that reflected the pale sky like fractured mirrors. The temperature plummeted to $-35^\\circ\\text{{C}}$ at dusk, and supersonic thermal downdrafts whipped the dunes into violent glass-storms capable of shredding vulcanized steel treads.
+Here, the dunes rose three hundred meters high, composed entirely of crystalline Han-silica that reflected the pale sky like fractured mirrors. The temperature plummeted to -35^\\circ\\text{{C}} at dusk, and supersonic thermal downdrafts whipped the dunes into violent glass-storms capable of shredding vulcanized steel treads.
 
 From the bridge of the Drift Throne, the Ley-Seers screamed a seismic warning:
 *"Massive subterranean displacement detected at bearing 140! Depth minus eighty meters and rising at fifty kilometers per hour! It's not a dune—it's a Colossus!"*
@@ -545,13 +545,13 @@ A category-5 Han-storm boiled around its crown, threatening to flip the 18,000-t
 
 ###### Turn 01 Action Resolution Log (Intercepting the Vitrified Sand Mandibles)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Kael initializes `[Planetary Ley-Stance]`: Grants $+3$ Protection and immunity to quicksand entrapment.
-  * Hwaran prepares `[Thermal Slag Barrier]`, warming squad footing against $-35^\\circ\\text{{C}}$ frostbite.
+  * Kael initializes `[Planetary Ley-Stance]`: Grants +3 Protection and immunity to quicksand entrapment.
+  * Hwaran prepares `[Thermal Slag Barrier]`, warming squad footing against -35^\\circ\\text{{C}} frostbite.
   * The Colossus activates `[Seismic Liquefaction]`: Turns Nodes 03 to 05 into shifting sinkholes.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta $-1$, Poise $+20$): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Mandible Intercept]`. Holds 2 AP in Reserve.
+  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta -1, Poise +20): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Mandible Intercept]`. Holds 2 AP in Reserve.
   * Hwaran (Speed 6 -> 3 AP): Stands at Node 02. Spends 2 AP on `[Thermal Slag Dart]`. Holds 1 AP in Guard.
-  * The Colossus (Speed 6 -> 3 AP, Behemoth Class delta $-2$, Poise $+40$): Charges Node 01 with `[Titan Mandible Chomp]`.
+  * The Colossus (Speed 6 -> 3 AP, Behemoth Class delta -2, Poise +40): Charges Node 01 with `[Titan Mandible Chomp]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 01 to 05)**: The Colossus strikes with `[Titan Mandible Chomp]` (Base 19 + 2 Coins = 29 Power, Heavy Weight/Crush).
     * Kael intercepts with `[Obsidian Cleaver: Mandible Intercept]` (Base 22 + 2 Coins = 34 Power, Obsidian Deflection).
@@ -560,7 +560,7 @@ A category-5 Han-storm boiled around its crown, threatening to flip the 18,000-t
     * His crystalline left arm pulses with harmonic counter-frequencies, freezing the colossal jaw open!
     * Deals **280 kinetic tremor damage** into the mandible socket!
   * **Clash 2 (Node 02 to 05)**: Hwaran fires `[Thermal Slag Dart]`.
-    * The molten projectile strikes the beast's frozen snout, causing vitrified silica to crack with violent thermal shock; inflicts $+45$ Posture Strain!
+    * The molten projectile strikes the beast's frozen snout, causing vitrified silica to crack with violent thermal shock; inflicts +45 Posture Strain!
 - **Step 4: Turn End State**:
   * Sand Mandibles HP: 1,400 -> **1,120/1,400** | Posture: **240/300**.
   * Total Colossus HP: 5,600 -> **5,320/5,600** | Posture: **325/380**.
@@ -617,10 +617,10 @@ A category-5 Han-storm boiled around its crown, threatening to flip the 18,000-t
     * **Clash Outcome**: Kael WINS THE CLASH (34 vs 25)!
     * Kael strikes the main dorsal hinge plate; the brittle obsidian armor scutes pop open like dry scales!
     * Hwaran's `[Slag Geyser]` melts the exposed connective tissues beneath!
-    * Deals **720 Thermal/Weight damage** and $+104$ Posture Strain!
+    * Deals **720 Thermal/Weight damage** and +104 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Colossus HP crosses 70% threshold (3,920 HP), falling to **2,840/5,600 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The titan crashes onto the sand, its snout buried in the dust; defenses drop to zero; takes $+50\%$ damage!
+  * **STAGGER LEVEL 1 ACTIVE!** The titan crashes onto the sand, its snout buried in the dust; defenses drop to zero; takes +50\% damage!
 - **Step 5: Turn End State**:
   * Total Colossus HP: 3,880 -> **2,840/5,600 [THRESHOLD BREACHED: Below 3,920 HP!]**.
   * Dorsal Carapace: 1,480 -> **760/1,800** | Posture: **120/340 [FRACTURED]**.
@@ -864,13 +864,13 @@ Kael stepped past Hwaran, planting his obsidian cleaver into the basalt sand.
 
 ###### Turn 01 Action Resolution Log (Intercepting the Boiling Iron Cleaver)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Kael initializes `[Planetary Ley-Stance]`: Grants $+3$ Protection and physical stagger immunity.
+  * Kael initializes `[Planetary Ley-Stance]`: Grants +3 Protection and physical stagger immunity.
   * Hwaran prepares `[Slag Quench Barrier]`, cooling ambient heat damage.
-  * Barok activates `[Berserk Rage Crucible]`: Increases clash power by $+3$ when above 80% HP.
+  * Barok activates `[Berserk Rage Crucible]`: Increases clash power by +3 when above 80% HP.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta $-1$, Poise $+20$): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Slag Deflection]`. Holds 2 AP in Reserve.
+  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta -1, Poise +20): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Slag Deflection]`. Holds 2 AP in Reserve.
   * Hwaran (Speed 6 -> 3 AP): Holds Node 02. Spends 2 AP on `[Volcanic Smoke Screen]`. Holds 1 AP in Guard.
-  * Barok (Speed 6 -> 3 AP, Heavy Armor delta $-1$, Poise $+25$): Lunges from Node 05 to Node 01 with `[Boiling Slag Cleave]`.
+  * Barok (Speed 6 -> 3 AP, Heavy Armor delta -1, Poise +25): Lunges from Node 05 to Node 01 with `[Boiling Slag Cleave]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 01 to 05)**: Barok sweeps with `[Boiling Slag Cleave]` (Base 19 + 2 Coins = 29 Power, Heavy Heat/Slash).
     * Kael intercepts with `[Obsidian Cleaver: Slag Deflection]` (Base 22 + 2 Coins = 34 Power, Obsidian Guard).
@@ -933,10 +933,10 @@ Kael stepped past Hwaran, planting his obsidian cleaver into the basalt sand.
     * **Clash Outcome**: Kael WINS THE CLASH (34 vs 25)!
     * Kael catches the three-ton basalt shoulder charge directly on his crystalline glass fist!
     * The seismic shockwave ripples backward through the stone armor; the heavy volcanic pauldron explodes outward!
-    * Deals **740 Blunt/Weight damage** and $+102$ Posture Strain!
+    * Deals **740 Blunt/Weight damage** and +102 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Barok's HP crosses 70% threshold (4,060 HP), dropping to **2,860/5,800 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** Barok drops to one knee on the arena sand, gasping for breath; chest combustion furnace exposed; takes $+50\%$ damage!
+  * **STAGGER LEVEL 1 ACTIVE!** Barok drops to one knee on the arena sand, gasping for breath; chest combustion furnace exposed; takes +50\% damage!
 - **Step 5: Turn End State**:
   * Total Barok HP: 3,960 -> **2,860/5,800 [THRESHOLD BREACHED: Below 4,060 HP!]**.
   * Basalt Pauldron: 1,460 -> **720/1,800** | Posture: **116/340 [SHATTERED]**.

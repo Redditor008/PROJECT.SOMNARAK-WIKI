@@ -249,29 +249,29 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
 
 ###### Turn 01 Action Resolution Log (Kinetic Ingress & Phalanx Lockdown)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Commander Taeho initializes `[Law of the Mantle]`: All allies within 1 node gain $+3$ Protection and immune to physical stagger.
-  * Infiltrator Echo activates `[Shadow Cloak]`: Enters stealth for 2 turns; cannot be targeted by single-target attacks; $+50\%$ Critical Strike Chance.
+  * Commander Taeho initializes `[Law of the Mantle]`: All allies within 1 node gain +3 Protection and immune to physical stagger.
+  * Infiltrator Echo activates `[Shadow Cloak]`: Enters stealth for 2 turns; cannot be targeted by single-target attacks; +50% Critical Strike Chance.
   * Engineer Joon plants *Deployable Mantlet Barrier* at Node 03, giving Range Band 1 protection against slag spray.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Commander Taeho (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta $-1$, Poise $+25$): Holds Node 02. Spends 2 AP on `[Phalanx Bastion: Obsidian Wall]`.
-  * Engineer Joon (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 03. Spends 2 AP on `[Magnetic Barricade]`. Holds 1 AP in Reserve.
-  * Auditor Yuna (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 06 (Range Band 3). Spends 2 AP on `[Forensic Monocle Analysis]`, 2 AP on `[Asset Scan]`.
-  * Investigator Minho (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Stands at Node 07. Spends 2 AP on `[Neural Needle: Calibrated Dart]`. Holds 2 AP in Reserve.
-  * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 04. Spends 2 AP on `[Resonance Snare: Leaded Line]`. Holds 1 AP in Guard.
-  * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta $+2$): Advances through high catwalk conduits to Node 10 from stealth. Spends 2 AP on positioning.
+  * Commander Taeho (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02. Spends 2 AP on `[Phalanx Bastion: Obsidian Wall]`.
+  * Engineer Joon (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 03. Spends 2 AP on `[Magnetic Barricade]`. Holds 1 AP in Reserve.
+  * Auditor Yuna (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06 (Range Band 3). Spends 2 AP on `[Forensic Monocle Analysis]`, 2 AP on `[Asset Scan]`.
+  * Investigator Minho (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Stands at Node 07. Spends 2 AP on `[Neural Needle: Calibrated Dart]`. Holds 2 AP in Reserve.
+  * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on `[Resonance Snare: Leaded Line]`. Holds 1 AP in Guard.
+  * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Advances through high catwalk conduits to Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: Boss Gwangseok declares `[Anvil Cleave]` (Base 12 + 2 Coins = 24 Power, Heavy Blunt) against Node 02.
     * Commander Taeho counters with `[Phalanx Bastion]` (Base 14 + 2 Coins = 28 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (28 vs 24)!
     * Taeho's heavy obsidian mantlet completely absorbs the kinetic shock (`[P3: Parry/Protection]`).
-    * Reflects **140 kinetic tremor damage** back into Gwangseok's pneumatic chassis! Inflicts $+24$ Posture Strain.
+    * Reflects **140 kinetic tremor damage** back into Gwangseok's pneumatic chassis! Inflicts +24 Posture Strain.
   * **Clash 2 (Node 03 to 05)**: Foundry Enforcers unleash `[Pressurized Slag Throw]` (Atk Power 18, Thermal Burn).
     * Engineer Joon's `[Magnetic Barricade]` (Def Power 22, Alloy Shield).
     * **Clash Outcome**: Joon WINS THE CLASH (22 vs 18).
     * Slag is deflected into the drainage trough; zero damage taken.
   * **Unopposed Ranged Fire**:
     * Auditor Yuna's `[Forensic Monocle]` identifies structural stress fissures in the Forging Hammer junction.
-    * Investigator Minho fires `[Neural Needle]` from Node 07 into Gwangseok's hydraulic neck ring, dealing **210 Pierce damage** and $+18$ Posture Strain!
+    * Investigator Minho fires `[Neural Needle]` from Node 07 into Gwangseok's hydraulic neck ring, dealing **210 Pierce damage** and +18 Posture Strain!
     * Handler Soojin flings `[Resonance Snare]` from Node 04, latching onto SECC-019's containment cage at Node 10, preventing emotional mist expansion.
 - **Step 4: Turn End State**:
   * Gwangseok Exoskeleton HP: 1,800 -> **1,450/1,800** (Total Boss HP: **5,050/5,400**).
@@ -322,11 +322,11 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
     * Auditor Yuna unleashes `[Veil EMP Disruptor]` (Base 15 + 2 Coins = 27 Power, EMP Overload).
     * **Clash Outcome**: Yuna WINS THE CLASH (27 vs 22)!
     * The EMP wave detonates across Node 05. The false cloaking gems overload, crackling violently before disintegrating into gray mineral ash!
-    * Gwangseok suffers **320 Pale Resonance Shock**! Evasion drops permanently to 0%, and Posture takes $+38$ Strain!
+    * Gwangseok suffers **320 Pale Resonance Shock**! Evasion drops permanently to 0%, and Posture takes +38 Strain!
   * **Clash 2 (Node 04 to 10)**: SECC-019 lashes out with `[Grief Vapor Shroud]` (Power 20, Area Psychic).
     * Handler Soojin counters with `[Leaded Basalt Counter-Pulse]` (Def Power 26).
     * **Clash Outcome**: Soojin WINS THE CLASH (26 vs 20).
-    * Leaded pulse compresses the grief vapor back toward Node 10, dealing **280 Resonance damage** to SECC-019 and inflicting $+28$ Posture Strain!
+    * Leaded pulse compresses the grief vapor back toward Node 10, dealing **280 Resonance damage** to SECC-019 and inflicting +28 Posture Strain!
 - **Step 4: Turn End State**:
   * Gwangseok Exoskeleton HP: 1,450 -> **1,130/1,800** (Total Boss HP: **4,730/5,400**).
   * Gwangseok Posture: 198 -> **160/240**.
@@ -371,7 +371,7 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
     * **Clash Outcome**: Joon WINS THE CLASH (31 vs 26)!
     * The pneumatic ram strikes directly at the hammer's articulated wrist coupling!
     * **TARGETED PART DESTROYED**: `[The Industrial Forging Hammer]` shatters into twisted scrap and hydraulic spray (**1,130 Exoskeleton HP instantly destroyed**)!
-    * Severe kinetic recoil tears through Gwangseok's chest chassis, inflicting $+68$ Posture Strain!
+    * Severe kinetic recoil tears through Gwangseok's chest chassis, inflicting +68 Posture Strain!
   * **STAGGER THRESHOLD 1 TRIGGERED!**
     * Gwangseok's Posture reaches **92/240** (surpassing the 60% Posture Strain threshold of 144 points), and total HP drops below 3,800 HP!
     * **STAGGER LEVEL 1 ACTIVE!** Gwangseok's defense drops to 0, taking 1.5x direct damage. All enemy counter-stances are cancelled!
@@ -424,11 +424,11 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
     * Handler Soojin deploys `[Leaded Damping Bubble]` (Base 22 + 2 Coins = 30 Power, Vacuum Barrier).
     * **Clash Outcome**: Soojin WINS THE CLASH (30 vs 28)!
     * The lead-lined vacuum sphere expands, fully absorbing the psychic shockwave (`[P3: Parry/Protection]`).
-    * Zero psychic damage breaches the barrier. Soojin redirects vacuum back-pressure, dealing **140 Void damage** to SECC-019 and $+58$ Posture Strain!
+    * Zero psychic damage breaches the barrier. Soojin redirects vacuum back-pressure, dealing **140 Void damage** to SECC-019 and +58 Posture Strain!
   * **Clash 2 (Node 05 to 03)**: Recovered Gwangseok lunges with `[Desperate Brawler Punch]` (Atk Power 16, Blunt).
     * Commander Taeho executes `[Baton Parry]` (Def Power 24, Acoustic Counter).
     * **Clash Outcome**: Taeho WINS THE CLASH (24 vs 16).
-    * Taeho deflects the bare fist, smashing Gwangseok back against the cold forge anvil for **180 Blunt damage** and $+34$ Posture Strain!
+    * Taeho deflects the bare fist, smashing Gwangseok back against the cold forge anvil for **180 Blunt damage** and +34 Posture Strain!
   * **Catwalk Maneuver**: Infiltrator Echo positions silently above Node 10 directly behind SECC-019's primary resonance stem.
 - **Step 4: Turn End State**:
   * Boss Gwangseok HP: 3,750 -> **2,980/5,400** | Posture: **58/240**.

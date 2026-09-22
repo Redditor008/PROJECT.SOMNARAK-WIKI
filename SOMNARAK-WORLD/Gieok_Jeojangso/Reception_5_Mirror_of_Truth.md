@@ -79,20 +79,20 @@ She raised her prismatic stilettos. The diamond light coalesced around her blade
 
 ###### Turn 01 Action Resolution Log (Intercepting the Hard-Light Reflection Blade)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Seiyon initializes `[Prismatic Aegis: Refraction Stance]`: Grants $+3$ Protection and physical stagger immunity.
+  * Seiyon initializes `[Prismatic Aegis: Refraction Stance]`: Grants +3 Protection and physical stagger immunity.
   * Mnemonic Drone deploys `[Refraction Sapper Caliper]`, scanning the optical harmonics of the Reflection Blade.
-  * The Mirror of Truth activates `[Unfiltered Gaze]`: Increases clash power against emotional attacks by $+2$.
+  * The Mirror of Truth activates `[Unfiltered Gaze]`: Increases clash power against emotional attacks by +2.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta $+1$, Evasion $+15\%$): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Kinetic Deflection]`. Holds 2 AP in Reserve.
+  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Kinetic Deflection]`. Holds 2 AP in Reserve.
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Refraction Sapper: Optical Clamp]`. Holds 1 AP in Guard.
   * Prismatic Doppelgängers (Speed 5 -> 3 AP): Strike from Node 04 with hard-light daggers.
-  * The Mirror of Truth (Speed 6 -> 3 AP, Heavy Armor delta $-1$, Poise $+25$): Holds Node 05. Spends 2 AP on `[Reflection Blade Slash]`. Spends 1 AP on `[Gilded Frame Guard]`.
+  * The Mirror of Truth (Speed 6 -> 3 AP, Heavy Armor delta -1, Poise +25): Holds Node 05. Spends 2 AP on `[Reflection Blade Slash]`. Spends 1 AP on `[Gilded Frame Guard]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: The Mirror of Truth sweeps forward with `[Reflection Blade Slash]` (Base 18 + 2 Coins = 28 Power, Heavy Void/Slash).
     * Seiyon intercepts with `[Prismatic Aegis: Kinetic Deflection]` (Base 21 + 2 Coins = 33 Power, Holographic Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (33 vs 28)!
     * Seiyon's shield refracts the hard-light blade into harmless spectrum beams (`[P3: Parry/Protection]`).
-    * Seiyon reflects **260 kinetic tremor damage** into the blade's optical emitter, inflicting $+54$ Posture Strain!
+    * Seiyon reflects **260 kinetic tremor damage** into the blade's optical emitter, inflicting +54 Posture Strain!
   * **Clash 2 (Node 03 to 04)**: Doppelgängers strike at the Drone.
     * Drone's `[Optical Clamp]` disperses the clones into inert photons; zero damage taken.
 - **Step 4: Turn End State**:
@@ -185,10 +185,10 @@ She raised her prismatic stilettos. The diamond light coalesced around her blade
     * **Clash Outcome**: Seiyon WINS THE CLASH (34 vs 25)!
     * Seiyon's needle strikes the golden frame's stress nexus; the ornate gold filigree buckles violently!
     * Drone's `[Pneumatic Sapper]` pops the retaining brackets, shattering the gilded exterior!
-    * Deals **600 Blunt/Void damage** and $+96$ Posture Strain!
+    * Deals **600 Blunt/Void damage** and +96 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (3,360 HP), falling to **2,460/4,800 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Mirror of Truth collapses onto the dais; all defenses drop to zero; takes $+50\%$ damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The Mirror of Truth collapses onto the dais; all defenses drop to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 3,320 -> **2,460/4,800 [THRESHOLD BREACHED: Below 3,360 HP!]**.
   * Gilded Frame: 1,220 -> **620/1,500** | Posture: **104/300 [FRACTURED]**.

@@ -56,7 +56,7 @@ def generate_readme():
 **Designation:** The Memory Archive (기억 저장소 / Gieok Jeojangso).  
 **Operational Framework:** The Seven Receptions of Sub-Alpha Strata (심층 수신 소탕록).
 
-Excavated deep within the subterranean bedrock beneath the Absolvohan facility (ranging from $-2,350$ meters to $-3,250$ meters Sub-Alpha), the **Memory Archive** serves as the municipal repository of human consciousness, traumatic resonance, and crystallized souls. Operating in strict accordance with the **Library Reception Protocol**, intrusive or frenzied memories are contained within discrete strata floors, where Secretary Seiyon and her mnemonic projection retinue engage in structured, turn-based combat receptions to achieve **Floor Realization** and transmute unstable suffering into canonical **Key Pages**.
+Excavated deep within the subterranean bedrock beneath the Absolvohan facility (ranging from -2,350 meters to -3,250 meters Sub-Alpha), the **Memory Archive** serves as the municipal repository of human consciousness, traumatic resonance, and crystallized souls. Operating in strict accordance with the **Library Reception Protocol**, intrusive or frenzied memories are contained within discrete strata floors, where Secretary Seiyon and her mnemonic projection retinue engage in structured, turn-based combat receptions to achieve **Floor Realization** and transmute unstable suffering into canonical **Key Pages**.
 
 The **Gieok Jeojangso Chronicles** record the comprehensive seven-floor tactical descent:
 
@@ -76,19 +76,19 @@ The **Gieok Jeojangso Chronicles** record the comprehensive seven-floor tactical
 
 The descent into the Memory Archive unfolds across seven high-intensity operational records:
 
-1. **[Reception 1: The First Keeper](Reception_1_First_Keeper.md)** (Floor 01: The Hall of Blank Slate — $-2,350$m)
+1. **[Reception 1: The First Keeper](Reception_1_First_Keeper.md)** (Floor 01: The Hall of Blank Slate — -2,350m)
    - Seiyon faces the porcelain construct guarding the threshold of forgotten consciousness. Subdues the Memory Siphon Needle and transfigures the core into `[Key Page: The Archivist]`.
-2. **[Reception 2: The Memory Thief](Reception_2_Memory_Thief.md)** (Floor 02: The Vault of Stolen Names — $-2,500$m)
+2. **[Reception 2: The Memory Thief](Reception_2_Memory_Thief.md)** (Floor 02: The Vault of Stolen Names — -2,500m)
    - Confrontation with the parasitic shadow entity that feeds on erased municipal identities. Dismantling of the Siphon Claws and retrieval of `[Key Page: The Name-Bearer]`.
-3. **[Reception 3: The Forgotten Soldier](Reception_3_Forgotten_Soldier.md)** (Floor 03: The Bastion of Iron Vows — $-2,650$m)
+3. **[Reception 3: The Forgotten Soldier](Reception_3_Forgotten_Soldier.md)** (Floor 03: The Bastion of Iron Vows — -2,650m)
    - Heavy frontline clash against the autonomous fortress vanguard honoring a war that ended four thousand years ago. Piercing the Iron Wall Bulwark and transmuting `[Key Page: The Vanguard of Vows]`.
-4. **[Reception 4: The Weeping Statue](Reception_4_Weeping_Statue.md)** (Floor 04: The Flooded Catacomb of Tears — $-2,800$m)
+4. **[Reception 4: The Weeping Statue](Reception_4_Weeping_Statue.md)** (Floor 04: The Flooded Catacomb of Tears — -2,800m)
    - Siphon-cleaving battle across the brine lake against the petrified grief of those forbidden to cry. Severing the Weeping Siphon Veil and manifesting `[Key Page: The Mourner]`.
-5. **[Reception 5: The Mirror of Truth](Reception_5_Mirror_of_Truth.md)** (Floor 05: The Hall of Unfiltered Light — $-2,950$m)
+5. **[Reception 5: The Mirror of Truth](Reception_5_Mirror_of_Truth.md)** (Floor 05: The Hall of Unfiltered Light — -2,950m)
    - High-luminosity duel confronting the harsh truths and human cowards behind Seiyon's creation. Shattering the Prismatic Reflection Blade and transmuting `[Key Page: The Truth-Seeker]`.
-6. **[Reception 6: The Kind Healer](Reception_6_Kind_Healer.md)** (Floor 06: The Sterile Hospice of Oblivion — $-3,100$m)
+6. **[Reception 6: The Kind Healer](Reception_6_Kind_Healer.md)** (Floor 06: The Sterile Hospice of Oblivion — -3,100m)
    - Unraveling the palliative hospice construct seeking to euthanize humanity to spare it from pain. Overcoming the Sedative Needle Array and transmuting `[Key Page: The Healer]`.
-7. **[Reception 7: The Original](Reception_7_The_Original.md)** (Floor 07: The Primordial Core Sanctum — $-3,250$m)
+7. **[Reception 7: The Original](Reception_7_The_Original.md)** (Floor 07: The Primordial Core Sanctum — -3,250m)
    - The climactic convergence against Prototype Seiyon-00. Embracing the primordial vessel, reconciling artificial life with unconditional love, and awakening the facility through `[Key Page: Seiyon, The Living Memory]`.
 
 ---

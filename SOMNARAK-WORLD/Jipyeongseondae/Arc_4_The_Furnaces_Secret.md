@@ -32,7 +32,7 @@
 
 In the fifth month of Year 4238, deep beneath the grand foundries of Cheonbulok, Kael, Hwaran, and Furnace Keeper Bulhwa descended into the forbidden bowels of the mountain: **The Sacred Great Furnace Core**.
 
-The temperature inside the cavern exceeded $600^\circ\text{C}$. Deep chasms opened into subterranean lakes of boiling white-hot iron. But what horrified Bulhwa was the structural state of the colossal crucible: cyclopean fissures thirty meters long crawled across the adamantine core walls, hissing with pressurized steam.
+The temperature inside the cavern exceeded 600^circC. Deep chasms opened into subterranean lakes of boiling white-hot iron. But what horrified Bulhwa was the structural state of the colossal crucible: cyclopean fissures thirty meters long crawled across the adamantine core walls, hissing with pressurized steam.
 
 Floating at the center of the molten caldera was **The Blazing Heart of Sorrow (타오르는 슬픔의 심장)**—a gargantuan, pulsing sphere of liquid sorrow encased in burning iron slag. High-pressure **Thermal Rupture Vents** fired geysers of boiling magma at the ceiling, threatening to cause a cataclysmic caldera collapse that would incinerate the entire city of eighty thousand souls.
 
@@ -74,11 +74,11 @@ Four hundred civilian foundry workers—the **Ash Walkers**—were trapped on th
 
 ###### Turn 01 Action Resolution Log (Intercepting the Boiling Magma Jets)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Kael initializes `[Planetary Ley-Stance]`: Grants $+3$ Protection and physical stagger immunity.
+  * Kael initializes `[Planetary Ley-Stance]`: Grants +3 Protection and physical stagger immunity.
   * Hwaran activates `[Cryo-Slag Dust]`, coating the forward catwalk in non-combustible ceramic powder.
   * The Blazing Heart activates `[Infernal Grief Field]`: Radiates 10% thermal damage per turn to all units without thermal shields.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta $-1$, Poise $+20$): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Magma Deflection]`. Holds 2 AP in Reserve.
+  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta -1, Poise +20): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Magma Deflection]`. Holds 2 AP in Reserve.
   * Hwaran (Speed 6 -> 3 AP): Stands at Node 02. Spends 2 AP on `[Thermal Quench Cloud]`. Holds 1 AP in Guard.
   * Rupture Vents (Speed 6 -> 3 AP): Fire high-pressure molten geysers toward Node 01.
   * Slag Crucible (Speed 3 -> 1 AP): Shields the core with boiling liquid iron.
@@ -179,10 +179,10 @@ Four hundred civilian foundry workers—the **Ash Walkers**—were trapped on th
     * **Clash Outcome**: Kael WINS THE CLASH (34 vs 25)!
     * Kael punches the heavy cast-iron crucible casing with his glowing glass fist!
     * Hwaran's chill shock cracks the structural ribs; the burning iron plates peel open like eggshells!
-    * Deals **780 Blunt/Void damage** and $+106$ Posture Strain!
+    * Deals **780 Blunt/Void damage** and +106 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Heart HP crosses 70% threshold (4,340 HP), dropping to **3,100/6,200 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Blazing Heart sinks into the central dais; molten slag mantle falls away; unquenched tears exposed; takes $+50\%$ damage!
+  * **STAGGER LEVEL 1 ACTIVE!** The Blazing Heart sinks into the central dais; molten slag mantle falls away; unquenched tears exposed; takes +50% damage!
 - **Step 5: Turn End State**:
   * Total Heart HP: 4,240 -> **3,100/6,200 [THRESHOLD BREACHED: Below 4,340 HP!]**.
   * Slag Crucible: 1,540 -> **760/1,900** | Posture: **124/360 [CRACKED]**.

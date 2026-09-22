@@ -94,7 +94,7 @@ To eradicate abstract positioning and give Range, Speed, and Movement concrete t
 ### 2.2 Range Bands & Distance Mechanics
 
 Distance between combatants is calculated by absolute node difference:  
-$$\text{Distance (Nodes)} = |\text{Node}_{\text{Attacker}} - \text{Node}_{\text{Target}}|$$
+Distance (Nodes) = |Node_{Attacker} - Node_{Target}|
 
 | Range Band | Node Distance | Real Distance | Optimal Weaponry | Damage & Accuracy Modifiers |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ In Project Somnarak, **Speed is not merely turn order—it is your operational a
 ### 3.1 Speed Roll & Action Point (AP) Allocation
 
 At the beginning of every Battle Turn, each participant rolls their Speed Die:
-$$\text{Speed} = \text{Base Speed Attribute} + \text{Composure Modifier} + \text{Die Roll (1d6 or 1d10)}$$
+Speed = Base Speed Attribute + Composure Modifier + Die Roll (1d6 or 1d10)
 
 The rolled Speed directly unlocks **Action Points (AP)** for that turn:
 - **Speed 1–2**: 1 AP (Severely crippled or suppressed; single basic action only).
@@ -309,7 +309,7 @@ Every combatant in Somnarak balances two internal psychological gauges:
 ### 5.2 Clash Resolution Mechanics
 
 When two combatants target each other within viable Range Bands, a **Clash** occurs:
-$$\text{Total Clash Power} = \text{Base Skill Power} + \sum (\text{Heads Coins} \times \text{Coin Modifier})$$
+Total Clash Power = Base Skill Power + sum (Heads Coins * Coin Modifier)
 
 - **Winner**: Lands their strike, dealing full damage and inflicting associated status effects.
 - **Loser**: Their attack is completely nullified; they take direct damage and suffer +15 Stagger buildup.
@@ -541,7 +541,7 @@ SED descents take place across vertically staggered cavern shelves and abyssal c
 
 The deeper the expedition descends, the greater the physical and cognitive weight of the earth:
 
-$$\text{Pressure Penalty} = f(\text{Depth Stratum}) \quad \text{evaluated at each Phase-End}$$
+Pressure Penalty = f(Depth Stratum)   evaluated at each Phase-End
 
 | Stratum & Depth Band | Atmospheric Pressure | Phase-End Environmental SP Drain | Combat Penalties & Hazard Level |
 |---|---|---|---|
@@ -657,14 +657,14 @@ When the sovereign construct's Posture meter is reduced to 0 (Stagger 2):
 ### 10.1 Spatial 10-Node Overland Expedition Topology
 
 In Horizon Caravan operations, battle unfolds across vast desert plains anchored by the mobile sand fortress **The Drift Throne**:
-- **Node 01 (Crawler Ramps)**: Debarkation gangway of the Drift Throne. Grants $+2$ Protection to allied defenders.
-- **Node 02 (Outrider Skimmer Lane)**: Rapid flanking lane for sand-skimmers and agile skirmishers (Hwaran). Grants $+15\%$ Evasion.
+- **Node 01 (Crawler Ramps)**: Debarkation gangway of the Drift Throne. Grants +2 Protection to allied defenders.
+- **Node 02 (Outrider Skimmer Lane)**: Rapid flanking lane for sand-skimmers and agile skirmishers (Hwaran). Grants +15% Evasion.
 - **Node 03 (Sand Barricades)**: Fortified dune berms equipped with deployable ballistic mantlets anchored by Heavy Dredgers.
 - **Node 04 (Sinking Sand Basin)**: Forward clash zone where medium melee and close-range firearms collide.
 - **Node 05 (Sovereign Adversary Apex)**: The central node occupied by colossal burrowers, marauder war-rigs, or enemy champions.
-- **Node 06 (Elevated Catwalk Pylon)**: Telescopic sniper mast providing $+1$ Range Band to marksmen.
+- **Node 06 (Elevated Catwalk Pylon)**: Telescopic sniper mast providing +1 Range Band to marksmen.
 - **Node 07 (Rear Sand Dune Ridge)**: High ground utilized by acoustic mortar crews.
-- **Node 08 (Sand Chasm Sump)**: Shifting quicksand hazard that penalizes movement by $-2$ Speed.
+- **Node 08 (Sand Chasm Sump)**: Shifting quicksand hazard that penalizes movement by -2 Speed.
 - **Node 09 (Geothermal Ley-Vent)**: Planetary fracture venting boiling Han-brine or volatile steam every 3 turns.
 - **Node 10 (Command Bridge & Siege Railgun)**: The central helm of the Drift Throne housing Kael's command seat and the spinal kinetic railgun.
 

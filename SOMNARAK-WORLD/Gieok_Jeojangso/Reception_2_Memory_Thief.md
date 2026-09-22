@@ -75,19 +75,19 @@ Seiyon's eyes flared with calm, cerulean luminescence. She summoned twin prismat
 
 ###### Turn 01 Action Resolution Log (Intercepting the Shadow Flurry)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Seiyon initializes `[Prismatic Aegis Stance]`: Grants $+3$ Protection and physical stagger immunity.
+  * Seiyon initializes `[Prismatic Aegis Stance]`: Grants +3 Protection and physical stagger immunity.
   * Mnemonic Drone deploys `[Stasis Caliper]`, scanning the rapid vibrational frequencies of the Glass Daggers.
   * The Memory Thief activates `[Mirage Cloak]`, creating three shifting afterimages at Node 04.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta $+1$, Evasion $+15\%$): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Kinetic Deflection]`. Holds 2 AP in Reserve.
+  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Kinetic Deflection]`. Holds 2 AP in Reserve.
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Stasis Caliper: Clamp Lock]`. Holds 1 AP in Guard.
-  * The Memory Thief (Speed 7 -> 4 AP, Feather Ephemera delta $+2$, Crit $+35\%$): Steps to Node 04. Spends 2 AP on `[Glass Dagger: Identity Siphon]`. Spends 2 AP on `[Mirage Ambush]`.
+  * The Memory Thief (Speed 7 -> 4 AP, Feather Ephemera delta +2, Crit +35%): Steps to Node 04. Spends 2 AP on `[Glass Dagger: Identity Siphon]`. Spends 2 AP on `[Mirage Ambush]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 04)**: The Memory Thief lunges from the mirrors with `[Glass Dagger: Identity Siphon]` (Base 17 + 2 Coins = 27 Power, Pierce/Lament).
     * Seiyon intercepts with `[Prismatic Aegis: Kinetic Deflection]` (Base 20 + 2 Coins = 32 Power, Holographic Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (32 vs 27)!
     * Seiyon parries both glass blades simultaneously; the high-frequency vibration shatters against the holographic barrier (`[P3: Parry/Protection]`).
-    * Seiyon reflects **210 kinetic tremor damage** back into the daggers, inflicting $+48$ Posture Strain!
+    * Seiyon reflects **210 kinetic tremor damage** back into the daggers, inflicting +48 Posture Strain!
   * **Clash 2 (Node 03 to 04)**: Mirage Replicants strike at the Drone with `[Shadow Needle]` (Power 21).
     * Drone's `[Stasis Caliper]` deflects the strike, dissipating two of the three mirage clones.
 - **Step 4: Turn End State**:
@@ -179,10 +179,10 @@ Seiyon's eyes flared with calm, cerulean luminescence. She summoned twin prismat
     * **Clash Outcome**: Seiyon WINS THE CLASH (34 vs 25)!
     * Seiyon's needle strikes the porcelain mask directly between the eyes!
     * The Facemask Veil shatters into chalk-white dust, revealing the hollow, swirling shadow core beneath!
-    * Deals **480 Pierce/Void damage** and $+76$ Posture Strain!
+    * Deals **480 Pierce/Void damage** and +76 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (2,520 HP), falling to **1,820/3,600 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Memory Thief collapses against the mirror wall; all defenses drop to zero; takes $+50\%$ damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The Memory Thief collapses against the mirror wall; all defenses drop to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 2,520 -> **1,820/3,600 [THRESHOLD BREACHED: Below 2,520 HP!]**.
   * Facemask Veil: 920 -> **440/1,100** | Posture: **92/240 [SHATTERED]**.
@@ -308,6 +308,6 @@ Seiyon's eyes flared with calm, cerulean luminescence. She summoned twin prismat
   * The Memory Thief dissolves into a column of cool, dusky silver light, condensing into a dark, polished codex: **`[Key Page: The Shadow]`**!
   * Deals **420 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Key Page Acquired**: `[Key Page: The Shadow]` (Grants $+15\%$ Evasion and strips enemy offensive buffs on clash win).
+  * **Key Page Acquired**: `[Key Page: The Shadow]` (Grants +15% Evasion and strips enemy offensive buffs on clash win).
   * **Descent Access**: The mirror at the end of the hall dissolves, revealing a heavy iron bulkhead opening to **Floor 03: Floor of Duty & Iron**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.

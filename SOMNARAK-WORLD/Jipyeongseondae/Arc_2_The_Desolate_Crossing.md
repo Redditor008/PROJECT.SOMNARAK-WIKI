@@ -32,7 +32,7 @@
 
 Two months into the trans-continental expedition, the Horizon Caravan had entered the deepest, most treacherous quadrant of the planetary wasteland: **The Sea of Glass (유리의 바다)**, located 1,120 kilometers southeast of Somnarak.
 
-Here, the dunes rose three hundred meters high, composed entirely of crystalline Han-silica that reflected the pale sky like fractured mirrors. The temperature plummeted to $-35^\circ\text{C}$ at dusk, and supersonic thermal downdrafts whipped the dunes into violent glass-storms capable of shredding vulcanized steel treads.
+Here, the dunes rose three hundred meters high, composed entirely of crystalline Han-silica that reflected the pale sky like fractured mirrors. The temperature plummeted to -35^circC at dusk, and supersonic thermal downdrafts whipped the dunes into violent glass-storms capable of shredding vulcanized steel treads.
 
 From the bridge of the Drift Throne, the Ley-Seers screamed a seismic warning:
 *"Massive subterranean displacement detected at bearing 140! Depth minus eighty meters and rising at fifty kilometers per hour! It's not a dune—it's a Colossus!"*
@@ -75,13 +75,13 @@ A category-5 Han-storm boiled around its crown, threatening to flip the 18,000-t
 
 ###### Turn 01 Action Resolution Log (Intercepting the Vitrified Sand Mandibles)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Kael initializes `[Planetary Ley-Stance]`: Grants $+3$ Protection and immunity to quicksand entrapment.
-  * Hwaran prepares `[Thermal Slag Barrier]`, warming squad footing against $-35^\circ\text{C}$ frostbite.
+  * Kael initializes `[Planetary Ley-Stance]`: Grants +3 Protection and immunity to quicksand entrapment.
+  * Hwaran prepares `[Thermal Slag Barrier]`, warming squad footing against -35^circC frostbite.
   * The Colossus activates `[Seismic Liquefaction]`: Turns Nodes 03 to 05 into shifting sinkholes.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta $-1$, Poise $+20$): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Mandible Intercept]`. Holds 2 AP in Reserve.
+  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta -1, Poise +20): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Mandible Intercept]`. Holds 2 AP in Reserve.
   * Hwaran (Speed 6 -> 3 AP): Stands at Node 02. Spends 2 AP on `[Thermal Slag Dart]`. Holds 1 AP in Guard.
-  * The Colossus (Speed 6 -> 3 AP, Behemoth Class delta $-2$, Poise $+40$): Charges Node 01 with `[Titan Mandible Chomp]`.
+  * The Colossus (Speed 6 -> 3 AP, Behemoth Class delta -2, Poise +40): Charges Node 01 with `[Titan Mandible Chomp]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 01 to 05)**: The Colossus strikes with `[Titan Mandible Chomp]` (Base 19 + 2 Coins = 29 Power, Heavy Weight/Crush).
     * Kael intercepts with `[Obsidian Cleaver: Mandible Intercept]` (Base 22 + 2 Coins = 34 Power, Obsidian Deflection).
@@ -90,7 +90,7 @@ A category-5 Han-storm boiled around its crown, threatening to flip the 18,000-t
     * His crystalline left arm pulses with harmonic counter-frequencies, freezing the colossal jaw open!
     * Deals **280 kinetic tremor damage** into the mandible socket!
   * **Clash 2 (Node 02 to 05)**: Hwaran fires `[Thermal Slag Dart]`.
-    * The molten projectile strikes the beast's frozen snout, causing vitrified silica to crack with violent thermal shock; inflicts $+45$ Posture Strain!
+    * The molten projectile strikes the beast's frozen snout, causing vitrified silica to crack with violent thermal shock; inflicts +45 Posture Strain!
 - **Step 4: Turn End State**:
   * Sand Mandibles HP: 1,400 -> **1,120/1,400** | Posture: **240/300**.
   * Total Colossus HP: 5,600 -> **5,320/5,600** | Posture: **325/380**.
@@ -181,10 +181,10 @@ A category-5 Han-storm boiled around its crown, threatening to flip the 18,000-t
     * **Clash Outcome**: Kael WINS THE CLASH (34 vs 25)!
     * Kael strikes the main dorsal hinge plate; the brittle obsidian armor scutes pop open like dry scales!
     * Hwaran's `[Slag Geyser]` melts the exposed connective tissues beneath!
-    * Deals **720 Thermal/Weight damage** and $+104$ Posture Strain!
+    * Deals **720 Thermal/Weight damage** and +104 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Colossus HP crosses 70% threshold (3,920 HP), falling to **2,840/5,600 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The titan crashes onto the sand, its snout buried in the dust; defenses drop to zero; takes $+50\%$ damage!
+  * **STAGGER LEVEL 1 ACTIVE!** The titan crashes onto the sand, its snout buried in the dust; defenses drop to zero; takes +50% damage!
 - **Step 5: Turn End State**:
   * Total Colossus HP: 3,880 -> **2,840/5,600 [THRESHOLD BREACHED: Below 3,920 HP!]**.
   * Dorsal Carapace: 1,480 -> **760/1,800** | Posture: **120/340 [FRACTURED]**.

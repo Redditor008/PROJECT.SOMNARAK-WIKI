@@ -301,20 +301,20 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
 ###### Turn 01 Action Resolution Log (Intercepting the Velocity Ram)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Harin activates `[Vow of the Low Bulwark]`: Drives shield ground spikes into the track ties; absorbs kinetic ram impacts and redirects shockwaves.
-  * Yeonhwa initializes `[Sonar Track Lock]`: Intercepts the locomotive's ultrasonic guide frequencies, increasing squad clash power against the mandibles by $+2$.
+  * Yeonhwa initializes `[Sonar Track Lock]`: Intercepts the locomotive's ultrasonic guide frequencies, increasing squad clash power against the mandibles by +2.
   * Sora readies `[Lament Water Resonance]`, aiming at the overheating wheel trucks.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta $-1$, Poise $+25$): Holds Node 02 directly in front of the double rails. Spends 2 AP on `[Vow of the Low Bulwark: Anchor]`.
-  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta $0$, Crit $+30\%$): Perches on high catenary rafters at Node 07. Spends 2 AP on `[Severing Crescent Stance]`.
-  * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$, Poise $+20$): Holds Node 03. Spends 2 AP on `[Tungsten Chisel Bore]`. Holds 1 AP in Guard.
-  * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 04. Spends 2 AP on `[Cascading Torrent]`. Holds 2 AP in Reserve.
-  * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 06. Spends 2 AP on `[Sonar Track Lock]`, 2 AP on `[Acoustic Dart]`.
+  * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02 directly in front of the double rails. Spends 2 AP on `[Vow of the Low Bulwark: Anchor]`.
+  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30%): Perches on high catenary rafters at Node 07. Spends 2 AP on `[Severing Crescent Stance]`.
+  * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0, Poise +20): Holds Node 03. Spends 2 AP on `[Tungsten Chisel Bore]`. Holds 1 AP in Guard.
+  * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 04. Spends 2 AP on `[Cascading Torrent]`. Holds 2 AP in Reserve.
+  * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Sonar Track Lock]`, 2 AP on `[Acoustic Dart]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: SECC-041 unleashes `[Locomotive Charge]` (Base 16 + 2 Coins = 24 Power, Heavy Kinetic Ram) barreling down the tracks.
     * Harin intercepts with `[Vow of the Low Bulwark: Anchor]` (Base 19 + 2 Coins = 31 Power, Kinetic Shield).
     * **Clash Outcome**: Harin WINS THE CLASH OVERWHELMINGLY (31 vs 24)!
     * Harin drives her shield spike deep into the track ties. The kinetic shockwave ripples violently through the concourse; the Sovereign's front trucks derail!
-    * Harin reflects **195 kinetic tremor damage** directly into the Armored Rail Mandibles (`[P3: Parry/Protection]`), inflicting $+42$ Posture Strain!
+    * Harin reflects **195 kinetic tremor damage** directly into the Armored Rail Mandibles (`[P3: Parry/Protection]`), inflicting +42 Posture Strain!
   * **Elemental Weakness Exploitation**:
     * Sora unleashes `[Cascading Torrent]` into the glowing wheel shafts and brake friction calipers:
       * Siphon of pressurized Lament water strikes red-hot steel gears (Weakness 1.5x proc!).
@@ -406,17 +406,17 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Doha (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Sapper Counter-Lever]`.
   * Harin (Speed 6 -> 3 AP): Holds Node 03. Spends 2 AP on `[Piston Shield Block]`.
-  * Sora (Speed 7 -> 4 AP): Casts `[Chime of Discord]` (2 AP), inflicting $+3$ Fragility on the entity's guilt core.
+  * Sora (Speed 7 -> 4 AP): Casts `[Chime of Discord]` (2 AP), inflicting +3 Fragility on the entity's guilt core.
   * Yeonhwa (Speed 7 -> 4 AP): Casts `[Acoustic Resonance Dart]` (2 AP).
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 04 to 05)**: SECC-041 unleashes `[Carapace Thrash]` (Base 16 + 2 Coins = 24 Power, Heavy Weight).
     * Doha clashes with `[Sapper Counter-Lever]` (Base 19 + 2 Coins = 31 Power, Heavy Lever).
     * **Clash Outcome**: Doha WINS THE CLASH (31 vs 24)!
     * Doha levers his pneumatic drill under the plating seams; the massive retaining bracket pops off with a deafening metallic screech!
-    * Carapace takes **310 Blunt damage** and $+64$ Posture Strain!
+    * Carapace takes **310 Blunt damage** and +64 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP drops past 70% (2,240 HP) down to **1,950/3,200 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The locomotive engine derails onto its side. All defenses fall to zero; takes $+50\%$ damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The locomotive engine derails onto its side. All defenses fall to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 2,260 -> **1,950/3,200 [THRESHOLD BREACHED: Below 2,240 HP!]**.
   * Carapace Plating: 790 -> **480/1,100** | Posture: **92/250 [BREACHED]**.

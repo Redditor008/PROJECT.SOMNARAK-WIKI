@@ -78,13 +78,13 @@ Kael stepped past Hwaran, planting his obsidian cleaver into the basalt sand.
 
 ###### Turn 01 Action Resolution Log (Intercepting the Boiling Iron Cleaver)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Kael initializes `[Planetary Ley-Stance]`: Grants $+3$ Protection and physical stagger immunity.
+  * Kael initializes `[Planetary Ley-Stance]`: Grants +3 Protection and physical stagger immunity.
   * Hwaran prepares `[Slag Quench Barrier]`, cooling ambient heat damage.
-  * Barok activates `[Berserk Rage Crucible]`: Increases clash power by $+3$ when above 80% HP.
+  * Barok activates `[Berserk Rage Crucible]`: Increases clash power by +3 when above 80% HP.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta $-1$, Poise $+20$): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Slag Deflection]`. Holds 2 AP in Reserve.
+  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta -1, Poise +20): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Slag Deflection]`. Holds 2 AP in Reserve.
   * Hwaran (Speed 6 -> 3 AP): Holds Node 02. Spends 2 AP on `[Volcanic Smoke Screen]`. Holds 1 AP in Guard.
-  * Barok (Speed 6 -> 3 AP, Heavy Armor delta $-1$, Poise $+25$): Lunges from Node 05 to Node 01 with `[Boiling Slag Cleave]`.
+  * Barok (Speed 6 -> 3 AP, Heavy Armor delta -1, Poise +25): Lunges from Node 05 to Node 01 with `[Boiling Slag Cleave]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 01 to 05)**: Barok sweeps with `[Boiling Slag Cleave]` (Base 19 + 2 Coins = 29 Power, Heavy Heat/Slash).
     * Kael intercepts with `[Obsidian Cleaver: Slag Deflection]` (Base 22 + 2 Coins = 34 Power, Obsidian Guard).
@@ -181,10 +181,10 @@ Kael stepped past Hwaran, planting his obsidian cleaver into the basalt sand.
     * **Clash Outcome**: Kael WINS THE CLASH (34 vs 25)!
     * Kael catches the three-ton basalt shoulder charge directly on his crystalline glass fist!
     * The seismic shockwave ripples backward through the stone armor; the heavy volcanic pauldron explodes outward!
-    * Deals **740 Blunt/Weight damage** and $+102$ Posture Strain!
+    * Deals **740 Blunt/Weight damage** and +102 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Barok's HP crosses 70% threshold (4,060 HP), dropping to **2,860/5,800 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** Barok drops to one knee on the arena sand, gasping for breath; chest combustion furnace exposed; takes $+50\%$ damage!
+  * **STAGGER LEVEL 1 ACTIVE!** Barok drops to one knee on the arena sand, gasping for breath; chest combustion furnace exposed; takes +50% damage!
 - **Step 5: Turn End State**:
   * Total Barok HP: 3,960 -> **2,860/5,800 [THRESHOLD BREACHED: Below 4,060 HP!]**.
   * Basalt Pauldron: 1,460 -> **720/1,800** | Posture: **116/340 [SHATTERED]**.

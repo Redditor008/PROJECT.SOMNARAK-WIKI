@@ -389,21 +389,21 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
 
 ###### Turn 01 Action Resolution Log (Clashing Against the Living Mountain)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Harin activates `[Pneumatic Bulwark Stance]`: Grants herself and adjacent allies $+3$ Protection; intercepts the highest speed hostile clash targeting Band 1–2.
-  * Doha prepares `[Bedrock Fracture Stance]`: Inflicts $+25\%$ bonus Posture Strain on structural stone parts.
+  * Harin activates `[Pneumatic Bulwark Stance]`: Grants herself and adjacent allies +3 Protection; intercepts the highest speed hostile clash targeting Band 1–2.
+  * Doha prepares `[Bedrock Fracture Stance]`: Inflicts +25% bonus Posture Strain on structural stone parts.
   * Yeonhwa shouts: *"Sora, drench the joints! The mortar is calcified Han—if you flood the seams with pure Lament, the stone will soften!"*
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$, Poise $+20$): Holds Node 03. Spends 2 AP on `[Pneumatic Ram: Counter-Strike]`. Holds 1 AP in Guard.
-  * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta $-1$, Poise $+25$): Holds Node 02. Spends 2 AP on `[Pneumatic Bulwark: Kinetic Deflection]`.
-  * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 04. Spends 2 AP on `[Lament Tide: Weeping Deluge]`. Holds 2 AP in Reserve.
-  * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 06. Spends 2 AP on `[Sonar Target Lock: Hammer Joint]`.
-  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta $0$, Crit $+30\%$): Holds high arch at Node 10. Spends 2 AP on positioning.
+  * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0, Poise +20): Holds Node 03. Spends 2 AP on `[Pneumatic Ram: Counter-Strike]`. Holds 1 AP in Guard.
+  * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02. Spends 2 AP on `[Pneumatic Bulwark: Kinetic Deflection]`.
+  * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 04. Spends 2 AP on `[Lament Tide: Weeping Deluge]`. Holds 2 AP in Reserve.
+  * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Sonar Target Lock: Hammer Joint]`.
+  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30%): Holds high arch at Node 10. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 03 to 05)**: SECC-028 Slot 1 (Left Siege Hammer) executes `[Foundational Impact]` (Base 16 + 2 Coins = 24 Power, Heavy Weight).
     * Doha clashes with `[Pneumatic Ram: Counter-Strike]` (Base 18 + 2 Coins = 32 Power, Heavy Blunt).
     * **Clash Outcome**: Doha WINS THE CLASH (32 vs 24)!
     * The hydraulic ram collides violently with the massive three-ton stone hammer!
-    * The kinetic shockwave shatters the hammer's wrist joint, dealing **168 Blunt damage** and $+48$ Posture Strain!
+    * The kinetic shockwave shatters the hammer's wrist joint, dealing **168 Blunt damage** and +48 Posture Strain!
   * **Clash 2 (Node 02 to 05)**: SECC-028 Slot 2 (Retaining Bulwark) slams forward with `[Quarantine Slam]` (Base 16 + 1 Coin = 22 Power, Heavy Weight).
     * Harin intercepts with `[Pneumatic Bulwark: Kinetic Deflection]` (Base 18 + 2 Coins = 30 Power).
     * **Clash Outcome**: Harin WINS THE CLASH (30 vs 22)!
@@ -512,7 +512,7 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
       * Deals **280 Cryo-Lament damage**! White steam billows violently from the entity's chest cavity!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP drops past 70% to **1,946/2,800 HP**; Posture collapses past 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The titan falls onto both knees in the dust. All defenses collapse; takes $+50\%$ damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The titan falls onto both knees in the dust. All defenses collapse; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 2,158 -> **1,946/2,800 [THRESHOLD BREACHED: Below 1,960 HP!]**.
   * Boss Posture: **94/260 [STAGGER LEVEL 1]**.

@@ -78,13 +78,13 @@ Kael drew his obsidian cleaver. For the first time in forty years, his Han-glass
 
 ###### Turn 01 Action Resolution Log (Intercepting the Sound-Erasure Veil)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Kael initializes `[Planetary Ley-Stance]`: Grants $+3$ Protection and psionic anchor against memory drain.
+  * Kael initializes `[Planetary Ley-Stance]`: Grants +3 Protection and psionic anchor against memory drain.
   * Hwaran prepares `[Volcanic Acoustic Bell]`, striking her cinder staff against the iron deck to generate shockwave vibrations.
   * The Archon activates `[Sensory Nullification Field]`: Disables audio cues and inflicts 5 Composure strain per turn.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta $-1$, Poise $+20$): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Void Anchor Deflection]`. Holds 2 AP in Reserve.
+  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta -1, Poise +20): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Void Anchor Deflection]`. Holds 2 AP in Reserve.
   * Hwaran (Speed 6 -> 3 AP): Stands at Node 02. Spends 2 AP on `[Acoustic Flare]`. Holds 1 AP in Guard.
-  * The Archon (Speed 6 -> 3 AP, Sovereign Class delta $-1$, Poise $+30$): Casts `[Total Soundless Vacuum Lunge]` toward Node 01.
+  * The Archon (Speed 6 -> 3 AP, Sovereign Class delta -1, Poise +30): Casts `[Total Soundless Vacuum Lunge]` toward Node 01.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 01 to 05)**: The Archon attacks with `[Total Soundless Vacuum Lunge]` (Base 20 + 2 Coins = 30 Power, Area Void/Null).
     * Kael intercepts with `[Obsidian Cleaver: Void Anchor Deflection]` (Base 23 + 2 Coins = 35 Power, Seismic Anchor).
@@ -184,10 +184,10 @@ Kael drew his obsidian cleaver. For the first time in forty years, his Han-glass
     * **Clash Outcome**: Kael WINS THE CLASH (35 vs 26)!
     * Kael punches the falling marble monolith directly with his crystalline fist!
     * The seismic shockwave shatters the white stone into flying chalk; the remaining floating halo rings fracture violently!
-    * Deals **860 Blunt/Void damage** and $+112$ Posture Strain!
+    * Deals **860 Blunt/Void damage** and +112 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Archon HP crosses 70% threshold (4,900 HP), dropping to **3,600/7,000 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Archon sinks to the white sand; floating spires crash down; takes $+50\%$ damage!
+  * **STAGGER LEVEL 1 ACTIVE!** The Archon sinks to the white sand; floating spires crash down; takes +50% damage!
 - **Step 5: Turn End State**:
   * Total Archon HP: 4,820 -> **3,600/7,000 [THRESHOLD BREACHED: Below 4,900 HP!]**.
   * Monolith Halo: 1,720 -> **860/2,100** | Posture: **136/380 [FRACTURED]**.

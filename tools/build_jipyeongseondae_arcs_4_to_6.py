@@ -199,7 +199,7 @@ def generate_arc_4():
 
 In the fifth month of Year 4238, deep beneath the grand foundries of Cheonbulok, Kael, Hwaran, and Furnace Keeper Bulhwa descended into the forbidden bowels of the mountain: **The Sacred Great Furnace Core**.
 
-The temperature inside the cavern exceeded $600^\\circ\\text{{C}}$. Deep chasms opened into subterranean lakes of boiling white-hot iron. But what horrified Bulhwa was the structural state of the colossal crucible: cyclopean fissures thirty meters long crawled across the adamantine core walls, hissing with pressurized steam.
+The temperature inside the cavern exceeded 600^\\circ\\text{{C}}. Deep chasms opened into subterranean lakes of boiling white-hot iron. But what horrified Bulhwa was the structural state of the colossal crucible: cyclopean fissures thirty meters long crawled across the adamantine core walls, hissing with pressurized steam.
 
 Floating at the center of the molten caldera was **The Blazing Heart of Sorrow (타오르는 슬픔의 심장)**—a gargantuan, pulsing sphere of liquid sorrow encased in burning iron slag. High-pressure **Thermal Rupture Vents** fired geysers of boiling magma at the ceiling, threatening to cause a cataclysmic caldera collapse that would incinerate the entire city of eighty thousand souls.
 
@@ -219,11 +219,11 @@ Four hundred civilian foundry workers—the **Ash Walkers**—were trapped on th
 
 ###### Turn 01 Action Resolution Log (Intercepting the Boiling Magma Jets)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Kael initializes `[Planetary Ley-Stance]`: Grants $+3$ Protection and physical stagger immunity.
+  * Kael initializes `[Planetary Ley-Stance]`: Grants +3 Protection and physical stagger immunity.
   * Hwaran activates `[Cryo-Slag Dust]`, coating the forward catwalk in non-combustible ceramic powder.
   * The Blazing Heart activates `[Infernal Grief Field]`: Radiates 10% thermal damage per turn to all units without thermal shields.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta $-1$, Poise $+20$): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Magma Deflection]`. Holds 2 AP in Reserve.
+  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta -1, Poise +20): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Magma Deflection]`. Holds 2 AP in Reserve.
   * Hwaran (Speed 6 -> 3 AP): Stands at Node 02. Spends 2 AP on `[Thermal Quench Cloud]`. Holds 1 AP in Guard.
   * Rupture Vents (Speed 6 -> 3 AP): Fire high-pressure molten geysers toward Node 01.
   * Slag Crucible (Speed 3 -> 1 AP): Shields the core with boiling liquid iron.
@@ -290,10 +290,10 @@ Four hundred civilian foundry workers—the **Ash Walkers**—were trapped on th
     * **Clash Outcome**: Kael WINS THE CLASH (34 vs 25)!
     * Kael punches the heavy cast-iron crucible casing with his glowing glass fist!
     * Hwaran's chill shock cracks the structural ribs; the burning iron plates peel open like eggshells!
-    * Deals **780 Blunt/Void damage** and $+106$ Posture Strain!
+    * Deals **780 Blunt/Void damage** and +106 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Heart HP crosses 70% threshold (4,340 HP), dropping to **3,100/6,200 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Blazing Heart sinks into the central dais; molten slag mantle falls away; unquenched tears exposed; takes $+50\%$ damage!
+  * **STAGGER LEVEL 1 ACTIVE!** The Blazing Heart sinks into the central dais; molten slag mantle falls away; unquenched tears exposed; takes +50\% damage!
 - **Step 5: Turn End State**:
   * Total Heart HP: 4,240 -> **3,100/6,200 [THRESHOLD BREACHED: Below 4,340 HP!]**.
   * Slag Crucible: 1,540 -> **760/1,900** | Posture: **124/360 [CRACKED]**.
@@ -535,11 +535,11 @@ Aboard the Drift Throne, panic threatened to erupt among the refugee families. B
 
 ###### Turn 01 Action Resolution Log (Intercepting the Rotary Autocannon Barrage)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Kael initializes `[Planetary Ley-Stance]`: Grants $+3$ Protection and physical stagger immunity.
+  * Kael initializes `[Planetary Ley-Stance]`: Grants +3 Protection and physical stagger immunity.
   * Hwaran readies `[Thermal Ash Screen]`, concealing the refugee trailers from sniper fire.
-  * Garek activates `[Corsair Frenzy]`: Increases kinetic fire rate by $+25\\%$.
+  * Garek activates `[Corsair Frenzy]`: Increases kinetic fire rate by +25\\%.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta $-1$, Poise $+20$): Holds Node 03. Spends 2 AP on `[Obsidian Cleaver: Bullet Deflection]`. Holds 2 AP in Reserve.
+  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta -1, Poise +20): Holds Node 03. Spends 2 AP on `[Obsidian Cleaver: Bullet Deflection]`. Holds 2 AP in Reserve.
   * Hwaran (Speed 6 -> 3 AP): Stands at Node 02. Spends 2 AP on `[Thermal Smoke Barrage]`. Holds 1 AP in Guard.
   * Garek War-Rig (Speed 6 -> 3 AP): Advances to Node 05 with `[Twin Rotary Autocannon Suppression]`.
   * Spiked Ram (Speed 3 -> 1 AP): Charges toward Node 03.
@@ -605,10 +605,10 @@ Aboard the Drift Throne, panic threatened to erupt among the refugee families. B
     * **Clash Outcome**: Kael WINS THE CLASH (34 vs 25)!
     * Kael drops his blade, driving his crystalline glass arm directly into the sand beneath the charging ram!
     * A geyser of compacted stone erupts beneath the war-rig's front axle, flipping the six-ton armored truck completely onto its side!
-    * Deals **720 Blunt/Weight damage** and $+102$ Posture Strain!
+    * Deals **720 Blunt/Weight damage** and +102 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Garek's HP crosses 70% threshold (4,130 HP), dropping to **2,980/5,900 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The war-rig lies overturned and smoking in the sand; command cupola exposed; takes $+50\%$ damage!
+  * **STAGGER LEVEL 1 ACTIVE!** The war-rig lies overturned and smoking in the sand; command cupola exposed; takes +50\% damage!
 - **Step 5: Turn End State**:
   * Total Garek HP: 4,060 -> **2,980/5,900 [THRESHOLD BREACHED: Below 4,130 HP!]**.
   * Spiked Ram: 1,460 -> **740/1,800** | Posture: **118/340 [CRUSHED]**.
@@ -855,13 +855,13 @@ Kael drew his obsidian cleaver. For the first time in forty years, his Han-glass
 
 ###### Turn 01 Action Resolution Log (Intercepting the Sound-Erasure Veil)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Kael initializes `[Planetary Ley-Stance]`: Grants $+3$ Protection and psionic anchor against memory drain.
+  * Kael initializes `[Planetary Ley-Stance]`: Grants +3 Protection and psionic anchor against memory drain.
   * Hwaran prepares `[Volcanic Acoustic Bell]`, striking her cinder staff against the iron deck to generate shockwave vibrations.
   * The Archon activates `[Sensory Nullification Field]`: Disables audio cues and inflicts 5 Composure strain per turn.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta $-1$, Poise $+20$): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Void Anchor Deflection]`. Holds 2 AP in Reserve.
+  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta -1, Poise +20): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Void Anchor Deflection]`. Holds 2 AP in Reserve.
   * Hwaran (Speed 6 -> 3 AP): Stands at Node 02. Spends 2 AP on `[Acoustic Flare]`. Holds 1 AP in Guard.
-  * The Archon (Speed 6 -> 3 AP, Sovereign Class delta $-1$, Poise $+30$): Casts `[Total Soundless Vacuum Lunge]` toward Node 01.
+  * The Archon (Speed 6 -> 3 AP, Sovereign Class delta -1, Poise +30): Casts `[Total Soundless Vacuum Lunge]` toward Node 01.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 01 to 05)**: The Archon attacks with `[Total Soundless Vacuum Lunge]` (Base 20 + 2 Coins = 30 Power, Area Void/Null).
     * Kael intercepts with `[Obsidian Cleaver: Void Anchor Deflection]` (Base 23 + 2 Coins = 35 Power, Seismic Anchor).
@@ -927,10 +927,10 @@ Kael drew his obsidian cleaver. For the first time in forty years, his Han-glass
     * **Clash Outcome**: Kael WINS THE CLASH (35 vs 26)!
     * Kael punches the falling marble monolith directly with his crystalline fist!
     * The seismic shockwave shatters the white stone into flying chalk; the remaining floating halo rings fracture violently!
-    * Deals **860 Blunt/Void damage** and $+112$ Posture Strain!
+    * Deals **860 Blunt/Void damage** and +112 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Archon HP crosses 70% threshold (4,900 HP), dropping to **3,600/7,000 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Archon sinks to the white sand; floating spires crash down; takes $+50\%$ damage!
+  * **STAGGER LEVEL 1 ACTIVE!** The Archon sinks to the white sand; floating spires crash down; takes +50\% damage!
 - **Step 5: Turn End State**:
   * Total Archon HP: 4,820 -> **3,600/7,000 [THRESHOLD BREACHED: Below 4,900 HP!]**.
   * Monolith Halo: 1,720 -> **860/2,100** | Posture: **136/380 [FRACTURED]**.

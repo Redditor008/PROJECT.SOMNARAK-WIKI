@@ -18,7 +18,7 @@ Sorrow Entities are metaphysical anomalies crystallized from concentrated human 
 
 Entity files follow the standardized SECC classification format:
 
-$$\text{SE-}[M]\text{-}[T][S]\text{-}[N]$$
+SE-[M]-[T][S]-[N]
 
 Where:
 - **`SE`**: Sorrow Entity prefix.

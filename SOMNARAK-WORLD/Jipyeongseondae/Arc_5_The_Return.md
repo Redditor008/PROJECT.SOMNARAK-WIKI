@@ -74,11 +74,11 @@ Aboard the Drift Throne, panic threatened to erupt among the refugee families. B
 
 ###### Turn 01 Action Resolution Log (Intercepting the Rotary Autocannon Barrage)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Kael initializes `[Planetary Ley-Stance]`: Grants $+3$ Protection and physical stagger immunity.
+  * Kael initializes `[Planetary Ley-Stance]`: Grants +3 Protection and physical stagger immunity.
   * Hwaran readies `[Thermal Ash Screen]`, concealing the refugee trailers from sniper fire.
-  * Garek activates `[Corsair Frenzy]`: Increases kinetic fire rate by $+25\%$.
+  * Garek activates `[Corsair Frenzy]`: Increases kinetic fire rate by +25%.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta $-1$, Poise $+20$): Holds Node 03. Spends 2 AP on `[Obsidian Cleaver: Bullet Deflection]`. Holds 2 AP in Reserve.
+  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta -1, Poise +20): Holds Node 03. Spends 2 AP on `[Obsidian Cleaver: Bullet Deflection]`. Holds 2 AP in Reserve.
   * Hwaran (Speed 6 -> 3 AP): Stands at Node 02. Spends 2 AP on `[Thermal Smoke Barrage]`. Holds 1 AP in Guard.
   * Garek War-Rig (Speed 6 -> 3 AP): Advances to Node 05 with `[Twin Rotary Autocannon Suppression]`.
   * Spiked Ram (Speed 3 -> 1 AP): Charges toward Node 03.
@@ -178,10 +178,10 @@ Aboard the Drift Throne, panic threatened to erupt among the refugee families. B
     * **Clash Outcome**: Kael WINS THE CLASH (34 vs 25)!
     * Kael drops his blade, driving his crystalline glass arm directly into the sand beneath the charging ram!
     * A geyser of compacted stone erupts beneath the war-rig's front axle, flipping the six-ton armored truck completely onto its side!
-    * Deals **720 Blunt/Weight damage** and $+102$ Posture Strain!
+    * Deals **720 Blunt/Weight damage** and +102 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Garek's HP crosses 70% threshold (4,130 HP), dropping to **2,980/5,900 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The war-rig lies overturned and smoking in the sand; command cupola exposed; takes $+50\%$ damage!
+  * **STAGGER LEVEL 1 ACTIVE!** The war-rig lies overturned and smoking in the sand; command cupola exposed; takes +50% damage!
 - **Step 5: Turn End State**:
   * Total Garek HP: 4,060 -> **2,980/5,900 [THRESHOLD BREACHED: Below 4,130 HP!]**.
   * Spiked Ram: 1,460 -> **740/1,800** | Posture: **118/340 [CRUSHED]**.

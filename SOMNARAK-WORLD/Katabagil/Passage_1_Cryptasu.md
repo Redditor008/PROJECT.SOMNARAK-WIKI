@@ -389,21 +389,21 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 
 ###### Turn 01 Action Resolution Log (Establishing the Formation & Brine Torrent Deflection)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Harin activates `[Pneumatic Bulwark Stance]`: Grants herself and adjacent allies $+3$ Protection; intercepts the highest speed enemy clash targeting Band 1–2.
-  * Yeonhwa initializes `[Sonar Target Lock]`: Focuses acoustic theodolite sensors on the Left Hydraulic Siphon Arm, increasing squad stagger damage against it by $+25\%$.
+  * Harin activates `[Pneumatic Bulwark Stance]`: Grants herself and adjacent allies +3 Protection; intercepts the highest speed enemy clash targeting Band 1–2.
+  * Yeonhwa initializes `[Sonar Target Lock]`: Focuses acoustic theodolite sensors on the Left Hydraulic Siphon Arm, increasing squad stagger damage against it by +25%.
   * Sora deploys `[Silver Cowl: Empathic Nullification]`, neutralizing the reservoir's ambient acoustic weeping.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta $-1$, Poise $+25$): Holds Node 02. Spends 2 AP on `[Pneumatic Bulwark: Kinetic Deflection]`.
-  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta $0$, Crit $+30\%$): Holds high arch flank at Node 10. Spends 2 AP on `[Severing Parry]`. Holds 2 AP in Reserve.
-  * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$, Poise $+20$): Advances to Node 03. Spends 2 AP on `[Pneumatic Hammer Strike]`. Holds 1 AP in Guard.
-  * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 06. Spends 2 AP on `[Empathic Nullification Ward]`. Holds 2 AP in Reserve.
-  * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 04. Spends 2 AP on `[Sonar Target Lock: Siphon Frequency]`, 2 AP on `[Acoustic Resonance Dart]`.
+  * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02. Spends 2 AP on `[Pneumatic Bulwark: Kinetic Deflection]`.
+  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30%): Holds high arch flank at Node 10. Spends 2 AP on `[Severing Parry]`. Holds 2 AP in Reserve.
+  * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0, Poise +20): Advances to Node 03. Spends 2 AP on `[Pneumatic Hammer Strike]`. Holds 1 AP in Guard.
+  * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Empathic Nullification Ward]`. Holds 2 AP in Reserve.
+  * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 04. Spends 2 AP on `[Sonar Target Lock: Siphon Frequency]`, 2 AP on `[Acoustic Resonance Dart]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: SECC-012 Slot 1 (Left Siphon) fires `[Pressurized Brine Torrent]` (Base 16 + 2 Coins = 26 Power, Heavy Lament/Brine) toward Node 02.
     * Harin intercepts with `[Pneumatic Bulwark: Kinetic Deflection]` (Base 18 + 2 Coins = 32 Power, Kinetic Shield).
     * **Clash Outcome**: Harin WINS THE CLASH (32 vs 26)!
     * The high-pressure brine torrent splits cleanly across the reinforced tungsten shield rim (`[P3: Parry/Protection]`). Harin takes 0 damage.
-    * Harin reflects **140 kinetic tremor damage** back through the water jet into the Left Siphon Arm, inflicting $+38$ Posture Strain!
+    * Harin reflects **140 kinetic tremor damage** back through the water jet into the Left Siphon Arm, inflicting +38 Posture Strain!
   * **Clash 2 (Node 10 to 05)**: SECC-012 Slot 2 (Bronze Cleaver) unleashes `[Sweeping Cleave]` (Base 17 + 1 Coin = 25 Power, Heavy Slash).
     * The Silent One clashes with `[Severing Parry]` (Base 20 + 2 Coins = 30 Power, Void/Slash).
     * **Clash Outcome**: The Silent One WINS THE CLASH (30 vs 25)!
@@ -459,7 +459,7 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
   * **Piston Demolition Assault on Siphon**:
     * Doha unleashes `[Bedrock Piston]` (Base 21 + 2 Coins Heads = 33 Power, Heavy Blunt):
       * Smashes directly through the siphon's hydraulic valve casing!
-      * Deals **380 Blunt damage** and $+64$ Posture Strain!
+      * Deals **380 Blunt damage** and +64 Posture Strain!
     * The Silent One follows up with `[Twin Pale Flurry]` (Base 19 + 2 Coins Heads = 31 Power, Void Slash):
       * Slices through the brass intake hoses, dealing **220 Void damage**!
     * **TARGETED PART DESTROYED**: The Left Hydraulic Siphon Arm shears clean off the shoulder, exploding into scrap bronze and waterlogged bone (**Siphon HP: 0/600**)!
@@ -500,11 +500,11 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Harin (Speed 6 -> 3 AP): Steps to Node 03. Spends 2 AP on `[Unbreakable Ward]`.
   * Doha (Speed 5 -> 3 AP): Props his calcified ram beneath Harin's shield to lock the frame (2 AP on `[Assisted Bulwark Anchor]`).
-  * Sora (Speed 7 -> 4 AP): Casts `[Silver Cowl: Empathic Ward]` (2 AP), granting $+3$ Clash Power to all frontline allies.
+  * Sora (Speed 7 -> 4 AP): Casts `[Silver Cowl: Empathic Ward]` (2 AP), granting +3 Clash Power to all frontline allies.
   * The Silent One (Speed 7 -> 4 AP): Maneuvers into the Band 1 flank at Node 08. Spends 3 AP on `[Relic Cleaver: Core Thrust]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 03 to 05)**: SECC-012 unleashes `[Executioner's Judgment]` (Base 21 + 3 Coins = 31 Power, Fatal Grudge).
-    * Harin and Doha execute `[Joint Unbreakable Ward]` (Base 22 + Cowl Bonus $+3$ + 2 Coins = 37 Power).
+    * Harin and Doha execute `[Joint Unbreakable Ward]` (Base 22 + Cowl Bonus +3 + 2 Coins = 37 Power).
     * **Clash Outcome**: VANGUARD OVERWHELMING WIN (37 vs 31)!
     * The massive bronze cleaver slams harmlessly into the reinforced tower shield. Shockwaves disperse harmlessly into the reservoir floor (`[P3: Parry/Protection]`).
   * **Flank Strike on Weeping Core**:
@@ -512,7 +512,7 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
     * Deals **218 Fatal Grudge damage** directly to the Weeping Core!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP drops past 70% to **1,672/2,400 HP**; Posture collapses past 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The titan falls to one knee in the flooded basin. All defenses drop to zero; takes $+50\%$ damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The titan falls to one knee in the flooded basin. All defenses drop to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 1,890 -> **1,672/2,400 [THRESHOLD BREACHED: Below 1,680 HP!]**.
   * Boss Posture: **92/260 [STAGGER LEVEL 1]**.
@@ -595,7 +595,7 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
   * The Guardian speaks—not through vocal cords, but by transmitting three thousand simultaneous memory fragments into the squad's cranial tethers:
     > *"We were forgotten... The surface smiled while we drowned in darkness... Join us in the deep bed!"*
   * High-pressure psychic scream hits the team! Harin SP: 48 -> 28; Doha SP: 44 -> 24.
-  * Sora immediately unleashes `[Cranial Silver Chorus]`: Channeling her silver tuning needles into the bedrock, restoring $+20$ SP across the entire squad! Paranoia warning averted!
+  * Sora immediately unleashes `[Cranial Silver Chorus]`: Channeling her silver tuning needles into the bedrock, restoring +20 SP across the entire squad! Paranoia warning averted!
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * The Silent One (Speed 7 -> 4 AP): Steps forward into Node 06, activating `[Relic Overdrive: Primordial Severance]` (Cost: 3 AP, 25 SP).
   * Harin (Speed 4 -> 2 AP): Holds Node 04, bracing against the boiling whirlpool with `[Pneumatic Anchor]`.

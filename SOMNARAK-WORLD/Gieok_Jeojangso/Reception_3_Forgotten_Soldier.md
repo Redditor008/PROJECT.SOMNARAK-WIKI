@@ -77,19 +77,19 @@ Seiyon stepped forward, deploying a reinforced prismatic tower shield from her g
 
 ###### Turn 01 Action Resolution Log (Intercepting the Piston Halberd Cleave)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Seiyon initializes `[Prismatic Aegis: Fortress Stance]`: Grants $+3$ Protection and physical stagger immunity.
+  * Seiyon initializes `[Prismatic Aegis: Fortress Stance]`: Grants +3 Protection and physical stagger immunity.
   * Mnemonic Drone deploys `[Hydraulic Sapper Caliper]`, scanning the pneumatic piston chambers of the Heavy Halberd.
-  * The Forgotten Soldier initializes `[Unyielding Formation]`: Increases defense rating by $+10$.
+  * The Forgotten Soldier initializes `[Unyielding Formation]`: Increases defense rating by +10.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta $+1$, Evasion $+15\%$): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Kinetic Deflection]`. Holds 2 AP in Reserve.
+  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Kinetic Deflection]`. Holds 2 AP in Reserve.
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Hydraulic Sapper: Anchor]`. Holds 1 AP in Guard.
-  * The Forgotten Soldier (Speed 5 -> 3 AP, Heavy Armor delta $-1$, Poise $+25$): Holds Node 05. Spends 2 AP on `[Piston Halberd Cleave]`. Spends 1 AP on `[Tower Aegis Guard]`.
+  * The Forgotten Soldier (Speed 5 -> 3 AP, Heavy Armor delta -1, Poise +25): Holds Node 05. Spends 2 AP on `[Piston Halberd Cleave]`. Spends 1 AP on `[Tower Aegis Guard]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: The Forgotten Soldier sweeps with `[Piston Halberd Cleave]` (Base 18 + 2 Coins = 28 Power, Heavy Kinetic/Slash).
     * Seiyon intercepts with `[Prismatic Aegis: Kinetic Deflection]` (Base 21 + 2 Coins = 33 Power, Tower Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (33 vs 28)!
     * The massive tungsten halberd slams into Seiyon's holographic shield; the concussive shockwave reflects harmlessly into the stone floor (`[P3: Parry/Protection]`).
-    * Seiyon reflects **240 kinetic tremor damage** into the halberd shaft, inflicting $+52$ Posture Strain!
+    * Seiyon reflects **240 kinetic tremor damage** into the halberd shaft, inflicting +52 Posture Strain!
   * **Clash 2 (Node 03 to 04)**: Iron Phalanx Golems thrust spears at the Drone.
     * Drone's `[Hydraulic Sapper]` deflects the spears cleanly; zero damage taken.
 - **Step 4: Turn End State**:
@@ -182,10 +182,10 @@ Seiyon stepped forward, deploying a reinforced prismatic tower shield from her g
     * **Clash Outcome**: Seiyon WINS THE CLASH (34 vs 25)!
     * Seiyon's shield meets the three-ton basalt slab; the kinetic impact shudders through the iron chamber!
     * Drone levers its sapper spike into the retaining bracket; the massive shield pops off its arm mounts, crashing to the floor!
-    * Deals **540 Blunt/Void damage** and $+88$ Posture Strain!
+    * Deals **540 Blunt/Void damage** and +88 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (2,800 HP), falling to **2,030/4,000 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Forgotten Soldier sinks onto both knees; all defenses drop to zero; takes $+50\%$ damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The Forgotten Soldier sinks onto both knees; all defenses drop to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 2,760 -> **2,030/4,000 [THRESHOLD BREACHED: Below 2,800 HP!]**.
   * Tower Aegis: 1,060 -> **520/1,300** | Posture: **94/260 [BREACHED]**.
@@ -309,6 +309,6 @@ Seiyon stepped forward, deploying a reinforced prismatic tower shield from her g
   * The Forgotten Soldier bows its head in deep, solemn respect. Its chassis dissolves into dark, polished iron plating that condenses into a heavy steel-bound tome: **`[Key Page: The Guardian]`**!
   * Deals **480 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Key Page Acquired**: `[Key Page: The Guardian]` (Grants $+25$ Poise and absorbs 100% of damage directed at frontline allies).
+  * **Key Page Acquired**: `[Key Page: The Guardian]` (Grants +25 Poise and absorbs 100% of damage directed at frontline allies).
   * **Descent Access**: The iron fortress portcullis raises, revealing a descending spiral staircase of basalt steps leading to **Floor 04: Floor of Unexpressed Grief**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.

@@ -148,10 +148,10 @@ All combat engagements within the Memory Archive take place across the standardi
   * Operatives generate Action Points based on net Speed (`Speed 4-5 = 2-3 AP`, `Speed 6-7 = 3-4 AP`, `Speed 8-9+ = 4-5 AP`).
   * Shifting across discrete gallery nodes costs 1 AP per node displacement. Range Bands 1 through 5 dictate optimal projection arcs.
 - **Mnemonic Suit Weight Class Delta Modifiers**:
-  * *Heavy Memory Class*: Speed delta $-1$, Poise $+25$. Massive kinetic stability and physical stagger deflection.
-  * *Medium Memory Class*: Speed delta $0$, Poise $+20$. Versatile offensive balance.
-  * *Light Mnemonic Class*: Speed delta $+1$, Evasion $+15\%$. Rapid holographic repositioning.
-  * *Feather Ephemera Class*: Speed delta $+2$, Crit $+35\%$. Unmatched velocity and void severance.
+  * *Heavy Memory Class*: Speed delta -1, Poise +25. Massive kinetic stability and physical stagger deflection.
+  * *Medium Memory Class*: Speed delta 0, Poise +20. Versatile offensive balance.
+  * *Light Mnemonic Class*: Speed delta +1, Evasion +15\%. Rapid holographic repositioning.
+  * *Feather Ephemera Class*: Speed delta +2, Crit +35\%. Unmatched velocity and void severance.
 
 ---
 
@@ -171,7 +171,7 @@ At the conclusion of each Reception Battle, Seiyon achieves a **Floor Realizatio
 1. **The Archivist (Floor 1):** Preserves cognitive integrity; shields the squad from memory erosion and SP drain.
 2. **The Shadow (Floor 2):** Grants high evasion and strips enemy offensive buffs upon clash victory.
 3. **The Guardian (Floor 3):** Kinetic fortress; absorbs 100% of damage directed at frontline allies.
-4. **The Mourner (Floor 4):** Cryo-Lament weeping; inflicts $+30\%$ Posture Strain on molten or frenzied enemies.
+4. **The Mourner (Floor 4):** Cryo-Lament weeping; inflicts +30\% Posture Strain on molten or frenzied enemies.
 5. **The Truth-Seeker (Floor 5):** Prismatic penetration; bypasses all enemy defensive shields and strikes vital structural seams.
 6. **The Healer (Floor 6):** Mnemonic suture; converts absorbed kinetic damage into party-wide sanity and vitality recovery.
 7. **The Promise (Floor 7):** Sovereign synthesis; transmutes all negative emotional statuses into pure, transcendent Hope.

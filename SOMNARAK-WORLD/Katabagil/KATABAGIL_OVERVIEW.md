@@ -188,9 +188,9 @@ When the Vanguard engages apex entities guarding strata gates, all tactical comb
   * Operatives generate Action Points based on their net Speed rating (`Speed 4-5 = 2-3 AP`, `Speed 6-7 = 3-4 AP`, `Speed 8-9+ = 4-5 AP`).
   * Movement between adjacent nodes costs 1 AP per node displacement. Range Bands 1 through 5 establish line-of-sight and weapon reach.
 - **M.A.W.-W Weight Class Delta Modifiers**:
-  * *Heavy Armor Class* (Warden Harin): Speed delta $-1$, Poise $+25$. Kinetic redirection and immovable anchoring.
-  * *Medium Rig Class* (Architect Doha, The Silent One): Speed delta $0$, Poise $+20$, Crit $+30\%$. Structural sapping and relic striking.
-  * *Light Suit Class* (Weaver Sora, Cartographer Yeonhwa, Scribe Minjae, Assessor Jisoo): Speed delta $+1$, Evasion $+15\%$. High-frequency acoustic resonance and forensic recording.
+  * *Heavy Armor Class* (Warden Harin): Speed delta -1, Poise +25. Kinetic redirection and immovable anchoring.
+  * *Medium Rig Class* (Architect Doha, The Silent One): Speed delta 0, Poise +20, Crit +30%. Structural sapping and relic striking.
+  * *Light Suit Class* (Weaver Sora, Cartographer Yeonhwa, Scribe Minjae, Assessor Jisoo): Speed delta +1, Evasion +15%. High-frequency acoustic resonance and forensic recording.
 
 ### 3.3 The Four P-Framework in Abyssal Expeditions
 Every encounter throughout the seven subterranean descents operates under the **Four P-Framework**:

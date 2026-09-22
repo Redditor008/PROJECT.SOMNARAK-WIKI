@@ -306,17 +306,17 @@ A deafening acoustic wail shook the cavern walls.
   * Harin activates `[Bulwark Intercept]`: Positioned at Node 02, intercepts projectile thorn showers targeting rear specialists.
   * Yeonhwa casts `[Sonar Spore Lock]`: Identifies fungal spore nodules along the canopy root joints.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 04. Spends 2 AP on `[Harmonic Bell Resonator: Acoustic Repose]`. Holds 2 AP in Reserve.
-  * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta $-1$, Poise $+25$): Holds Node 02. Spends 2 AP on `[Bulwark Intercept: Shield Wall]`.
-  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta $0$, Crit $+30\%$): Perches on coral branches at Node 07. Spends 2 AP on positioning.
-  * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$, Poise $+20$): Holds Node 03. Spends 2 AP on `[Tungsten Fracture Wedge]`. Holds 1 AP in Guard.
-  * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 06. Spends 2 AP on `[Sonar Spore Lock]`, 2 AP on `[Optical Theodolite Laser]`.
+  * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 04. Spends 2 AP on `[Harmonic Bell Resonator: Acoustic Repose]`. Holds 2 AP in Reserve.
+  * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02. Spends 2 AP on `[Bulwark Intercept: Shield Wall]`.
+  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30%): Perches on coral branches at Node 07. Spends 2 AP on positioning.
+  * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0, Poise +20): Holds Node 03. Spends 2 AP on `[Tungsten Fracture Wedge]`. Holds 1 AP in Guard.
+  * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Sonar Spore Lock]`, 2 AP on `[Optical Theodolite Laser]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 04 to 05)**: SECC-056 unleashes `[Grave-Spore Cloud]` (Base 16 + 2 Coins = 24 Power, Area Amnesia/Lament).
     * Sora counters with `[Harmonic Bell Resonator]` (Base 19 + 2 Coins = 31 Power, Acoustic Repose).
     * **Clash Outcome**: Sora WINS THE CLASH OVERWHELMINGLY (31 vs 24)!
     * The radiant 432 Hz acoustic pulse strikes the expanding spore cloud, dispersing the toxic amnesia mist back into the root branches!
-    * Canopy Tendrils take **210 Lament damage** from the reflected acoustic shockwave, inflicting $+46$ Posture Strain!
+    * Canopy Tendrils take **210 Lament damage** from the reflected acoustic shockwave, inflicting +46 Posture Strain!
   * **Clash 2 (Node 02 to 05)**: Arbor thrashes with `[Thorn Shower Volley]` (Power 22, Pierce).
     * Harin's `[Bulwark Intercept]` absorbs the entire salvo (`[P3: Parry/Protection]`). The two-meter tower shield deflects every petrified quill; zero team damage taken.
 - **Step 4: Turn End State**:
@@ -407,7 +407,7 @@ A deafening acoustic wail shook the cavern walls.
   * Doha gains `Momentum Surge` (+2 Speed -> Net Speed 7, 4 AP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Doha (Speed 7 -> 4 AP): Steps to Node 04. Spends 3 AP on `[Tungsten Fracture Wedge: Growth Split]`.
-  * Sora (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Tuning of the Deep]`, inflicting $+4$ Mnemonic Fragility.
+  * Sora (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Tuning of the Deep]`, inflicting +4 Mnemonic Fragility.
   * Harin (Speed 6 -> 3 AP): Steps to Node 03. Spends 2 AP on `[Aegis Wall]`.
   * Yeonhwa (Speed 7 -> 4 AP): Stands at Node 07. Spends 2 AP on `[Theodolite Weakpoint Laser]`.
 - **Step 3: Clash & Skill Resolution**:
@@ -415,10 +415,10 @@ A deafening acoustic wail shook the cavern walls.
     * Doha strikes with `[Tungsten Fracture Wedge: Growth Split]` (Atk Power 34, Heavy Blunt).
     * **Clash Outcome**: Doha WINS THE CLASH (34 vs 24)!
     * Doha drives the wedge into the primary growth ring; the pneumatic ram detonates with thunderous force!
-    * The petrified heartwood splits open wide! Bark armor completely destroyed, dealing **410 Blunt damage** and $+72$ Posture Strain!
+    * The petrified heartwood splits open wide! Bark armor completely destroyed, dealing **410 Blunt damage** and +72 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (2,520 HP), falling to **2,340/3,600 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Arbor's branches collapse downward; all defenses drop to zero; takes $+50\%$ damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The Arbor's branches collapse downward; all defenses drop to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 2,750 -> **2,340/3,600 [THRESHOLD BREACHED: Below 2,520 HP!]**.
   * Heartwood Bark: 880 -> **470/1,200** | Posture: **86/260 [SPLIT OPEN]**.

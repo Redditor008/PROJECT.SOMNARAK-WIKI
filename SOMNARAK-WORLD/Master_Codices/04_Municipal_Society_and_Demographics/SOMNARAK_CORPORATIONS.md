@@ -119,7 +119,7 @@ The **Underworld Cleanup Descend (UCD)** is Somnarak's tactical enforcement corp
 
 ### What It Is
 
-The **Memory Archive (Gieok Jeojangso)** is Somnarak's deep mnemonic preservation sanctum—an ancient subterranean complex excavated within the sub-Alpha tree roots ($-2,350$m to $-3,250$m) where erased, suppressed, and traumatic memories are codified, confronted, and transmuted.
+The **Memory Archive (Gieok Jeojangso)** is Somnarak's deep mnemonic preservation sanctum—an ancient subterranean complex excavated within the sub-Alpha tree roots (-2,350m to -3,250m) where erased, suppressed, and traumatic memories are codified, confronted, and transmuted.
 
 **Operational Doctrine:** Sub-Alpha Mnemonic Strata Reception & Key Page Transmutation  
 **Location:** Deep Strata Sub-Alpha Roots (-2,350m to -3,250m)

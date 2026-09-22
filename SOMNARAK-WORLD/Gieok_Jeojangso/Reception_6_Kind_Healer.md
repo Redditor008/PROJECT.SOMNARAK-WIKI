@@ -77,20 +77,20 @@ She brought her twin stilettos up in a cross-guard. The white needles flared in 
 
 ###### Turn 01 Action Resolution Log (Intercepting the Sedative Needle Array)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Seiyon initializes `[Prismatic Aegis: Sedation Nullifier]`: Grants $+3$ Protection and immunity to paralysis/sleep status.
+  * Seiyon initializes `[Prismatic Aegis: Sedation Nullifier]`: Grants +3 Protection and immunity to paralysis/sleep status.
   * Mnemonic Drone deploys `[Thermal Sapper Caliper]`, scanning the pneumatic pressure seals of the Needle Array.
   * The Kind Healer initializes `[Sweet Slumber Veil]`: Inflicts passive Composure drain on opponents within Range Band 1.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta $+1$, Evasion $+15\%$): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Deflection]`. Holds 2 AP in Reserve.
+  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Deflection]`. Holds 2 AP in Reserve.
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Thermal Sapper: Heat Lance]`. Holds 1 AP in Guard.
   * Pale Attendants (Speed 5 -> 3 AP): Spray ether gas from Node 04.
-  * The Kind Healer (Speed 6 -> 3 AP, Heavy Armor delta $-1$, Poise $+25$): Holds Node 05. Spends 2 AP on `[Painless Sedation Flurry]`. Spends 1 AP on `[Bandage Swathe]`.
+  * The Kind Healer (Speed 6 -> 3 AP, Heavy Armor delta -1, Poise +25): Holds Node 05. Spends 2 AP on `[Painless Sedation Flurry]`. Spends 1 AP on `[Bandage Swathe]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: The Kind Healer lunges with `[Painless Sedation Flurry]` (Base 18 + 2 Coins = 28 Power, Piercing Pale/Sedation).
     * Seiyon intercepts with `[Prismatic Aegis: Deflection]` (Base 21 + 2 Coins = 33 Power, Holographic Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (33 vs 28)!
     * Seiyon's shield deflects all six silver syringes simultaneously; the sedative liquid sprays harmlessly onto the tile floor (`[P3: Parry/Protection]`).
-    * Seiyon reflects **260 kinetic tremor damage** into the syringe manifold, inflicting $+54$ Posture Strain!
+    * Seiyon reflects **260 kinetic tremor damage** into the syringe manifold, inflicting +54 Posture Strain!
   * **Clash 2 (Node 03 to 04)**: Attendants spray ether at the Drone.
     * Drone's `[Heat Lance]` ignites the ether mist harmlessly; zero damage taken.
 - **Step 4: Turn End State**:
@@ -183,10 +183,10 @@ She brought her twin stilettos up in a cross-guard. The white needles flared in 
     * **Clash Outcome**: Seiyon WINS THE CLASH (34 vs 25)!
     * Seiyon cuts the load-bearing tension cables; the heavy shroud collapses outward!
     * Drone's `[Incendiary Lance]` ignites the frayed edges, unraveling the entire protective mantle!
-    * Deals **660 Heat/Void damage** and $+98$ Posture Strain!
+    * Deals **660 Heat/Void damage** and +98 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (3,640 HP), falling to **2,660/5,200 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Kind Healer collapses against the operating table; all defenses drop to zero; takes $+50\%$ damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The Kind Healer collapses against the operating table; all defenses drop to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 3,610 -> **2,660/5,200 [THRESHOLD BREACHED: Below 3,640 HP!]**.
   * Bandage Mantle: 1,310 -> **650/1,600** | Posture: **112/320 [UNRAVELED]**.

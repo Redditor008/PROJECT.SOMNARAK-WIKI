@@ -136,7 +136,7 @@ For forty-two centuries following the great planetary fracture, humanity's remna
 ### 2. The Desolate: The Sea of Glass and Han-Flows
 The overland wastes separating these civilization hubs are known collectively as **The Desolate (황야)**. Far from being an inert desert, the Desolate is an active, vibrating mantle of crystallized mineral grief:
 - **Han-Flow Lines (한류맥)**: Deep seismic acoustic rivers of sorrow flowing through the planetary crust. Where these lines intersect, the ground stabilizes, allowing heavy vehicles to traverse the sand without sinking into bottomless dust chasms.
-- **Glass-Storms (유리 폭풍)**: Atmospheric disturbances where temperatures plummet to $-40^\\circ\\text{{C}}$ while supersonic winds sweep razor-sharp shards of crystallized sorrow across the dunes.
+- **Glass-Storms (유리 폭풍)**: Atmospheric disturbances where temperatures plummet to -40^\\circ\\text{{C}} while supersonic winds sweep razor-sharp shards of crystallized sorrow across the dunes.
 
 ---
 
@@ -167,32 +167,32 @@ A native of Cheonbulok who escaped the city's sacrificial Battle Pits. She posse
 
 ### 1. The 10-Node Spatial Topology
 Every combat engagement in the Jipyeongseondae chronicles is mapped onto a discrete 10-node horizontal battle stage:
-- **Node 01 (`[N01]`) — Ingress Ramps / Crawler Hull**: Debarkation gangway of the Drift Throne. Provides $+2$ Protection to friendly units holding this node.
-- **Node 02 (`[N02]`) — Skimmer Outrider Lane**: Rapid flanking lane for light vehicles and outriders. Grants $+15\\%$ Evasion.
+- **Node 01 (`[N01]`) — Ingress Ramps / Crawler Hull**: Debarkation gangway of the Drift Throne. Provides +2 Protection to friendly units holding this node.
+- **Node 02 (`[N02]`) — Skimmer Outrider Lane**: Rapid flanking lane for light vehicles and outriders. Grants +15\\% Evasion.
 - **Node 03 (`[N03]`) — Sand Barricade Line**: Fortified dune berms equipped with deployable kinetic barricades.
 - **Node 04 (`[N04]`) — Mid-Sand Basin**: Forward clash zone where medium melee and short-range skirmishes collide.
 - **Node 05 (`[N05]`) — Sovereign Boss Anchor**: The central node occupied by the primary adversary, behemoth construct, or enemy commander.
-- **Node 06 (`[N06]`) — Pylon Catwalk**: Elevated telescopic sniper mast and acoustic sensor array. Grants Range Band $+1$ to marksmen.
+- **Node 06 (`[N06]`) — Pylon Catwalk**: Elevated telescopic sniper mast and acoustic sensor array. Grants Range Band +1 to marksmen.
 - **Node 07 (`[N07]`) — Rear Dune Ridge**: Elevated sandbank utilized by heavy mortar teams and support casters.
-- **Node 08 (`[N08]`) — Sand Chasm Sump**: Dangerous shifting sand hazard. Units entering this node suffer $-2$ Speed and must test Posture to avoid sinking.
+- **Node 08 (`[N08]`) — Sand Chasm Sump**: Dangerous shifting sand hazard. Units entering this node suffer -2 Speed and must test Posture to avoid sinking.
 - **Node 09 (`[N09]`) — Subterranean Ley-Vent**: Geothermal vent erupting with boiling Han-brine or volatile steam every 3 turns.
 - **Node 10 (`[N10]`) — Drift Throne Command Bridge / Siege Battery**: The central command deck housing Kael's throne and the long-range kinetic railgun.
 
 ### 2. Speed, Action Points (AP), and Range Bands
 - **Action Points (AP)**:
-  $$\\text{{AP}} = \\max\\left(2, \\lfloor \\text{{Base Speed}} / 2 \\rfloor + \\text{{Equipment Modifiers}}\\right)$$
+  \\text{{AP}} = \\max\\left(2, \\lfloor \\text{{Base Speed}} / 2 \\rfloor + \\text{{Equipment Modifiers}}\\right)
 - **Range Bands 1 to 5**:
-  * **Band 1 (Melee / Point-Blank)**: Adjacent node attacks (Target distance: $\\Delta N = 1$). Full kinetic cleaves and pile-driver impacts.
-  * **Band 2 (Close Assault)**: Short range (Target distance: $\\Delta N = 2$). Shotgun blasts and thermal flamethrowers.
-  * **Band 3 (Mid-Field Tactical)**: Medium range (Target distance: $\\Delta N = 3$). Kinetic battle rifles and targeted acoustic javelins.
-  * **Band 4 (Long-Range Ballistic)**: Heavy fire (Target distance: $\\Delta N = 4$). Mortar bombardments and anti-materiel sniper fire.
-  * **Band 5 (Extreme Global Siege)**: Massive artillery (Target distance: $\\Delta N \\ge 5$). Drift Throne spinal railgun strikes.
+  * **Band 1 (Melee / Point-Blank)**: Adjacent node attacks (Target distance: \\Delta N = 1). Full kinetic cleaves and pile-driver impacts.
+  * **Band 2 (Close Assault)**: Short range (Target distance: \\Delta N = 2). Shotgun blasts and thermal flamethrowers.
+  * **Band 3 (Mid-Field Tactical)**: Medium range (Target distance: \\Delta N = 3). Kinetic battle rifles and targeted acoustic javelins.
+  * **Band 4 (Long-Range Ballistic)**: Heavy fire (Target distance: \\Delta N = 4). Mortar bombardments and anti-materiel sniper fire.
+  * **Band 5 (Extreme Global Siege)**: Massive artillery (Target distance: \\Delta N \\ge 5). Drift Throne spinal railgun strikes.
 
 ### 3. M.A.W.-W Armor Weight Classes
-- **Light Outrider ($W < 25\\text{{kg}}$)**: Speed $+2$, Evasion $+15\\%$, AP $+1$.
-- **Medium Warden ($25\\text{{kg}} \\le W \\le 60\\text{{kg}}$)**: Standard baseline profile, no speed penalties, balanced posture.
-- **Heavy Dredger ($61\\text{{kg}} \\le W \\le 120\\text{{kg}}$)**: Speed $-1$, Protection $+3$, Poise $+20$. Immune to light stagger.
-- **Fortress Crawler ($W > 120\\text{{kg}}$)**: Speed $-2$, Protection $+6$, Poise $+50$. Unyielding Armor Block.
+- **Light Outrider (W < 25\\text{{kg}})**: Speed +2, Evasion +15\\%, AP +1.
+- **Medium Warden (25\\text{{kg}} \\le W \\le 60\\text{{kg}})**: Standard baseline profile, no speed penalties, balanced posture.
+- **Heavy Dredger (61\\text{{kg}} \\le W \\le 120\\text{{kg}})**: Speed -1, Protection +3, Poise +20. Immune to light stagger.
+- **Fortress Crawler (W > 120\\text{{kg}})**: Speed -2, Protection +6, Poise +50. Unyielding Armor Block.
 
 ### 4. The Four P-Framework
 - **P1: Passives (고유 지속효과)**: Innate environmental adaptations (e.g., Kael's *Glass-Veined Resilience*, Hwaran's *Slag-Walker*).
@@ -201,7 +201,7 @@ Every combat engagement in the Jipyeongseondae chronicles is mapped onto a discr
 - **P4: Posture / Poise (체간 및 치명 집중)**: Posture gauges regulate stagger states; poise stacks guarantee critical structural breaks.
 
 ### 5. Dual-Threshold Stagger Engine
-- **Stagger 1 (60% Posture Strain / Part Dismantling)**: Triggered when an adversary's key structural component (e.g., crawler tread, weapon arm, furnace vent) is reduced to 0 HP or their Posture reaches 60% strain. Cancels channeled special attacks and inflicts $+50\\%$ vulnerability for 1 turn.
+- **Stagger 1 (60% Posture Strain / Part Dismantling)**: Triggered when an adversary's key structural component (e.g., crawler tread, weapon arm, furnace vent) is reduced to 0 HP or their Posture reaches 60% strain. Cancels channeled special attacks and inflicts +50\\% vulnerability for 1 turn.
 - **Stagger 2 (0% Posture Collapse / Terminal Overdrive)**: Triggered when the entity's total Posture drops to 0. The target is completely immobilized, stripped of defensive coins, and exposed to catastrophic Execution Finishers.
 
 ---

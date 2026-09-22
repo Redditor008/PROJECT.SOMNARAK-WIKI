@@ -176,7 +176,7 @@ In the uncharted badlands of the Desolate, combat is characterized by dynamic op
 ```
 
 ### 1. Speed, Action Points & Range Bands
-- **Action Points (AP)**: Calculated every Battle Turn as $	ext{AP} = \lfloor 	ext{Base Speed} / 2 floor + 	ext{Modifiers}$. High-speed outriders (Speed 8+) command up to 5 AP per turn, allowing multi-target suppressing fire.
+- **Action Points (AP)**: Calculated every Battle Turn as AP = floor(Base Speed / 2) + Modifiers. High-speed outriders (Speed 8+) command up to 5 AP per turn, allowing multi-target suppressing fire.
 - **Range Bands 1 to 5**:
   * **Band 1 (Nodes 01–02)**: Point-Blank Melee (Heavy trench-cleavers, hydraulic pile-drivers).
   * **Band 2 (Nodes 03–04)**: Close Assault (Shotguns, thermal flame-throwers).
@@ -185,10 +185,10 @@ In the uncharted badlands of the Desolate, combat is characterized by dynamic op
   * **Band 5 (Nodes 09–10)**: Global Planetary Siege (Crawler main kinetic battery).
 
 ### 2. M.A.W.-W Mobility & Weight Modifiers
-- **Light Outrider ($W < 25\text{kg}$)**: Speed $+2$, Evasion $+15\%$, AP $+1$. Vulnerable to heavy blunt knockbacks.
-- **Medium Warden ($25\text{kg} \le W \le 60\text{kg}$)**: Balanced profile, no speed penalties, standard posture.
-- **Heavy Dredger ($61\text{kg} \le W \le 120\text{kg}$)**: Speed $-1$, Protection $+3$, Poise $+20$. Immune to light stagger.
-- **Fortress Crawler ($W > 120\text{kg}$)**: Speed $-2$, Protection $+6$, Poise $+50$. Replaces dodge with Unyielding Armor Block.
+- **Light Outrider (W < 25kg)**: Speed +2, Evasion +15%, AP +1. Vulnerable to heavy blunt knockbacks.
+- **Medium Warden (25kg <= W <= 60kg)**: Balanced profile, no speed penalties, standard posture.
+- **Heavy Dredger (61kg <= W <= 120kg)**: Speed -1, Protection +3, Poise +20. Immune to light stagger.
+- **Fortress Crawler (W > 120kg)**: Speed -2, Protection +6, Poise +50. Replaces dodge with Unyielding Armor Block.
 
 ### 3. The Four P-Framework
 - **P1: Passives (고유 지속효과)**: Planetary Ley-Resonance, Sand-Drift Camouflage, Furnace Fire-Absorption.
@@ -197,7 +197,7 @@ In the uncharted badlands of the Desolate, combat is characterized by dynamic op
 - **P4: Posture / Poise (체간 및 치명 집중)**: Posture gauges regulate stagger states; poise stacks guarantee critical structural breaks.
 
 ### 4. Dual-Threshold Stagger Engine
-- **Stagger 1 (60% Posture Strain / Part Dismantling)**: Breaches primary kinetic shielding or destroys specific appendages (e.g., crawler treads, weapon arms), cancelling channeled special skills and causing $+50\%$ incoming damage for 1 turn.
+- **Stagger 1 (60% Posture Strain / Part Dismantling)**: Breaches primary kinetic shielding or destroys specific appendages (e.g., crawler treads, weapon arms), cancelling channeled special skills and causing +50% incoming damage for 1 turn.
 - **Stagger 2 (0% Posture Collapse / Terminal Overdrive)**: Complete physical and psionic breakdown, stunning the target for 1 turn, zeroing all defensive coins, and opening the enemy to catastrophic Execution Finishers.
 
 ---

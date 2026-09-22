@@ -32,7 +32,7 @@
 
 Passing through the massive adamantine gates of Floor 06, Seiyon entered the lowest, most sacred stratum of the facility: **Floor 07: The Floor of Origin & Awakening**.
 
-Here, the architecture ceased to resemble corridors or halls. It was a vast, spherical geode carved into the ancient subterranean bedrock at $-3,250$ meters. Thousands of glowing fiber-optic arteries pulsed through the walls, funneling four thousand years of human memory into a blinding pool of liquid silver at the bottom of the cavern.
+Here, the architecture ceased to resemble corridors or halls. It was a vast, spherical geode carved into the ancient subterranean bedrock at -3,250 meters. Thousands of glowing fiber-optic arteries pulsed through the walls, funneling four thousand years of human memory into a blinding pool of liquid silver at the bottom of the cavern.
 
 Hovering above the central silver pool was **The Original (태초의 기록자 — Prototype Seiyon-00)**.
 
@@ -79,20 +79,20 @@ She drew her twin prismatic stilettos. The entire spherical sanctum began to sin
 
 ###### Turn 01 Action Resolution Log (Intercepting the Zero-Chrono Lance)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Seiyon initializes `[Prismatic Aegis: Absolute Chrono-Anchor]`: Grants $+3$ Protection and immunity to temporal acceleration/deceleration.
+  * Seiyon initializes `[Prismatic Aegis: Absolute Chrono-Anchor]`: Grants +3 Protection and immunity to temporal acceleration/deceleration.
   * Mnemonic Drone deploys `[Resonant Sapper Caliper]`, scanning the temporal cycle frequency of the Zero-Chrono Lance.
-  * The Original initializes `[Primordial Sovereign Aura]`: Increases clash power by $+2$ against all non-original entities.
+  * The Original initializes `[Primordial Sovereign Aura]`: Increases clash power by +2 against all non-original entities.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta $+1$, Evasion $+15\%$): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Chrono Deflection]`. Holds 2 AP in Reserve.
+  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Chrono Deflection]`. Holds 2 AP in Reserve.
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Resonant Sapper: Stasis Field]`. Holds 1 AP in Guard.
   * Archetype Echoes (Speed 5 -> 3 AP): Throw temporal darts from Node 04.
-  * The Original (Speed 7 -> 4 AP, Heavy Armor delta $-1$, Poise $+25$): Holds Node 05. Spends 2 AP on `[Zero-Chrono Piercing Lance]`. Spends 2 AP on `[Crown Stasis Ray]`.
+  * The Original (Speed 7 -> 4 AP, Heavy Armor delta -1, Poise +25): Holds Node 05. Spends 2 AP on `[Zero-Chrono Piercing Lance]`. Spends 2 AP on `[Crown Stasis Ray]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: The Original thrusts forward with `[Zero-Chrono Piercing Lance]` (Base 19 + 2 Coins = 29 Power, Piercing Void/Chrono).
     * Seiyon intercepts with `[Prismatic Aegis: Chrono Deflection]` (Base 22 + 2 Coins = 34 Power, Holographic Shield).
     * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (34 vs 29)!
     * Seiyon's shield refracts the temporal lance point, anchoring local time against dilation (`[P3: Parry/Protection]`).
-    * Seiyon reflects **280 kinetic tremor damage** into the lance's emitter collar, inflicting $+56$ Posture Strain!
+    * Seiyon reflects **280 kinetic tremor damage** into the lance's emitter collar, inflicting +56 Posture Strain!
   * **Clash 2 (Node 03 to 04)**: Echoes fire darts at the Drone.
     * Drone's `[Stasis Field]` arrests the darts in mid-air, dissolving them into silver mist; zero damage taken.
 - **Step 4: Turn End State**:
@@ -185,10 +185,10 @@ She drew her twin prismatic stilettos. The entire spherical sanctum began to sin
     * **Clash Outcome**: Seiyon WINS THE CLASH (34 vs 25)!
     * Seiyon's needle strikes the master link of the obsidian coronet; the floating needles scatter across the chamber!
     * Drone's `[Pneumatic Ram]` smashes the crown's magnetic levitation ring!
-    * Deals **720 Blunt/Void damage** and $+102$ Posture Strain!
+    * Deals **720 Blunt/Void damage** and +102 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (4,200 HP), falling to **3,100/6,000 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Original drops to its knees on the silver pool; all defenses drop to zero; takes $+50\%$ damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The Original drops to its knees on the silver pool; all defenses drop to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 4,160 -> **3,100/6,000 [THRESHOLD BREACHED: Below 4,200 HP!]**.
   * Crown of Wills: 1,460 -> **740/1,800** | Posture: **122/340 [FRACTURED]**.
@@ -314,6 +314,6 @@ She drew her twin prismatic stilettos. The entire spherical sanctum began to sin
   * The Genesis Core crystallizes into the ultimate, radiant rainbow-hued codex: **`[Key Page: Seiyon, The Living Memory]`**!
   * Deals **690 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Master Facility Transmutation & Re-Harmonization**:
-  * **Key Page Acquired**: `[Key Page: Seiyon, The Living Memory]` (Grants complete immunity to mental panic, $+40\%$ Clash Power across all spectrums, and enables squad-wide Mnemonic Transmutation).
+  * **Key Page Acquired**: `[Key Page: Seiyon, The Living Memory]` (Grants complete immunity to mental panic, +40% Clash Power across all spectrums, and enables squad-wide Mnemonic Transmutation).
   * **Sanctum Transformation**: The deep subterranean chasm of the Memory Archive ignites with warm, golden starlight. The seven floors harmonize into a living sanctuary where no human memory can ever be erased.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP (Complete Transcendence).
