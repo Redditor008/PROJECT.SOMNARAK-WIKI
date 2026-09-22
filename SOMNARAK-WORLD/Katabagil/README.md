@@ -27,11 +27,11 @@ The **Katabagil Chronicles** document the Seven Great Descents undertaken by the
 |---|---|---|---|
 | **Arc 1: Cryptasu** | Drowned Catacombs | Strata 1 (0m to -150m) | Year Zero Municipal Diary & Drowned Guardian |
 | **Arc 2: Petrobyeok** | Calcified Bastion | Strata 2 (-150m to -450m) | Doha's Ancient Wall & Petrified Survivors |
-| **Arc 3: Furtugil** | Smuggler Arteries | Strata 3 (-450m to -800m) | Gravity Faults & Severed Syndicate Veins |
-| **Arc 4: Radikkum** | Ethereal Dream Roots | Strata 4 (-800m to -1,200m) | Dream Seepage Aquifers & Flora Entity |
-| **Arc 5: Limesteum** | Sub-Bulwark Base | Strata 5 (-1,200m to -1,600m)| Perimeter Footing & Outside Grief Leak |
-| **Arc 6: Traumagol** | Occlusihan Rift | Strata 6 (-1,600m to -2,200m)| Obsidian Chasm & Scar Walker Apex Entity |
-| **Arc 7: Fontisaem** | Primordial Nadir | Strata 7 (-2,200m to Core) | Mugenhan Ocean & Origin of the Weeping |
+| **Arc 3: Furtugil** | Smuggler Arteries | Strata 3 (-450m to -900m) | Gravity Faults & Severed Syndicate Veins |
+| **Arc 4: Radikkum** | Ethereal Dream Roots | Strata 4 (-900m to -1,500m) | Dream Seepage Aquifers & Flora Entity |
+| **Arc 5: Limesteum** | Sub-Bulwark Base | Strata 5 (-1,500m to -2,100m)| Perimeter Footing & Outside Grief Leak |
+| **Arc 6: Traumagol** | Occlusihan Rift | Strata 6 (-2,100m to -2,800m)| Obsidian Chasm & Scar Walker Apex Entity |
+| **Arc 7: Fontisaem** | Primordial Nadir | Strata 7 (-2,800m to Core) | Mugenhan Ocean & Origin of the Weeping |
 
 ---
 
