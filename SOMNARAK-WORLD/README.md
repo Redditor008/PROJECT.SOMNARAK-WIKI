@@ -33,17 +33,14 @@ Somnarak is a towering subterranean and surface metropolis of 1.29 billion souls
 SOMNARAK-WORLD/
 ├── README.md                           # This sovereign dispatch and archival guide
 │
-├── Master_Codices/                     # 31 Foundational Macro-Canon Codices
-│   ├── PROJECT_SOMNARAK.md             # The Grand Worldbuilding Bible & Cosmology
-│   ├── The_REVERIE_DIRECTORATE.md      # Facility 01 Architecture (8 Floors & Echo-Cores)
-│   ├── SOMNARAK_BATTLE_SYSTEM.md       # Combat Mechanics, 4 Damage Types, Formations
-│   ├── SOMNARAK_MAW_CODEX.md           # M.A.W. Extraction Architecture & Armory Theory
-│   ├── SOMNARAK_CORPORATIONS.md        # The Tripartite Institutions (R.D., SED, UCD)
-│   ├── SOMNARAK_DAILY_LIFE.md          # Civilian Culture, Curfews, Food, and Celebrations
-│   ├── SOMNARAK_CHEONGULA.md           # The Year 0 Cataclysm & The First Sorrow
-│   ├── SOMNARAK_THE_WEEPING.md         # Hydrology of the Subterranean Sorrow River
-│   ├── SOMNARAK_ABSOLOVHAN.md          # Metaphysics of Redemption & The Golden Dawn
-│   └── ...                             # (Full suite of 31 macro-canon master codices)
+├── Master_Codices/                     # 37 Macro-Canon Codices across 6 Subfolders
+│   ├── README.md                       # Master classification & reading roadmap
+│   ├── 01_Cosmology_and_World_Order/   # Cosmology, The Weeping, The Doorspeech
+│   ├── 02_Institutional_Wings_and_Chronicles/ # R.D., SED, UCD, Absolvohan
+│   ├── 03_Systems_Combat_Engine_and_Physics/ # Battle Systems, MAW Codex, Relics
+│   ├── 04_Municipal_Society_and_Demographics/ # Daily Life, Cast, Factions, Tech
+│   ├── 05_Entities_Tales_and_Fractures/ # Entity Codex, Tales, Named Fractures
+│   └── 06_Integrity_Audits_and_Comparative_Studies/ # Comparative Integrity Audit
 │
 ├── Sorrow_Entities/                    # 529 Active Containment Dossiers & Origin Tales
 │   ├── README.md                       # SECC classification guide & work affinities

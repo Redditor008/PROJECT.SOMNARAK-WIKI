@@ -69,7 +69,12 @@ def audit_macro_canon():
     if not os.path.exists(folder):
         return {"status": "FAIL", "error": "Master_Codices folder missing"}
 
-    files = [f for f in os.listdir(folder) if f.endswith(".md") and f != "README.md"]
+    files = []
+    for root, _, f_list in os.walk(folder):
+        for f in f_list:
+            if f.endswith(".md") and f != "README.md":
+                files.append(f)
+
     dev_files = ["SOMNARAK_DOCUMENT_RULES.md", "SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md", "SOMNARAK_NAME_REGISTRY.md"]
     found_dev = [f for f in dev_files if os.path.exists(os.path.join(REF_DIR, f))]
 
