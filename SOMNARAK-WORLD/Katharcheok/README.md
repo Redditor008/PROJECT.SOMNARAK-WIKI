@@ -49,7 +49,7 @@ The tactical campaign of the UCD unfolds across six high-intensity operational r
    - Strike team infiltration of the counterfeit Veil stone factories operating beneath the Mantle Commons. Tactical raid, asset seizure, and dismantling of the black-market cloaking network.
 2. **[Operation 2: The Memory Washers](Operation_2_Lethepyo.md)** (Lethepyo / 표백원 — Zones B & C: The Bleached Wards)
    - Investigation into the illegal identity-stripping laboratories where citizens' memories are washed and auctioned. Infiltrator Echo provides inside coordinates to locate the primary wash-rig.
-3. **[Operation 3: The Harvesters](Operation_3_The_Harvesters.md)** (Messischwi / 착취구 — Zone B: The Low Sinks)
+3. **[Operation 3: The Harvesters](Operation_3_Messischwi.md)** (Messischwi / 착취구 — Zone B: The Low Sinks)
    - Direct combat confrontation against illegal Echo extraction cartels that forcefully siphon raw emotional fluid from vulnerable refugees. Liberation of victims and weapon destruction.
 4. **[Operation 4: The Debt Brokers](Operation_4_The_Debt_Brokers.md)** (Usurachae / 사채고 — Zone C: The Usury Vaults)
    - Forensic financial raid led by Auditor Yuna against the predatory syndicates manufacturing phantom debt obligations and laundering illicit credits through Council shell accounts.

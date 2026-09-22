@@ -33,13 +33,14 @@
   - Node 6: Hermetic Seal — Hydraulic Ram Penetration
   - Node 7: The Lethe Core — Apex Gauntlet: Sura & SE-C-IIIγ-928
 
-- **Arc 3: The Harvesters** (Zone B)
-  - Passage 1: The Black Market — Tracing the illegal Echo trade
-  - Passage 2: The Harvest Hook — Understanding the weapon
-  - Passage 3: The Victims — People stripped of their sorrow
-  - Passage 4: The Confrontation — The Harvesters are ruthless
-  - Passage 5: The Source — Where do the Echoes come from?
-  - Passage 6: Return — The third Fray falls
+- **Arc 3: Messischwi** (Zone B — The Low Sinks)
+  - Node 1: Sluice Cordon — Perimeter Flood Cordon
+  - Node 2: Culvert Flank — Acoustic Sentry Bypass
+  - Node 3: Siphon Bulkhead — Hydraulic Control Breach
+  - Node 4: Forward Bivouac — Respite & Composure Tuning
+  - Node 5: Pen Stockades — 50 Captive Rescue Sweep
+  - Node 6: Abattoir Gate — Hydraulic Ram Penetration
+  - Node 7: Siphon Crucible — Apex Gauntlet: Boknam & SE-C-IIIγ-120
 
 - **Arc 4: The Debt Brokers** (Zone C)
   - Passage 1: The Phantom Debts — The Auditor finds debts that don't exist
@@ -1080,408 +1081,502 @@ Echo walked slowly to the edge of the shattered Lethe-Rig. They looked down at t
 
 ---
 
-## Arc 3: The Harvesters (수확자 — Suhwakja)
+# UCD — Operation 3: Messischwi (착취구 — The Siphon Sluices)
+## Part of the Katharcheok Underworld Pacification Operations
+### Zone B Deep Flood Basins & Sub-Tannery Culverts (-75m to -140m)
 
-### Zone B — The Echo Gardens
-
-> *"They don't just take Echoes. They take the sorrow that makes them. They strip people of their grief — and sell it."*
-
----
-
-### Overview
-
-The UCD's third mission targets **The Harvesters** — a Fray that extracts Echoes from citizens by force, using a weapon called the Harvest Hook. The Harvesters operate in Zone B's Echo Gardens, targeting the vulnerable and the desperate.
-
-**Mission objective:** Locate the Harvest Hook operation. Shut it down. Recover stolen Echoes. Capture the Harvesters.
-
-**Duration:** 3 weeks
-
-**Threat level:** Critical — the Harvesters are ruthless, and their weapon is dangerous.
+> *"They do not merely harvest sorrow. They breed it like livestock. They cage living men and women in bone-rimmed pens, torture them until their sorrow turns red with unquenchable grudge, and boil the weeping runoff into industrial combat stimulant. To call them men is an insult to the dirt we walk upon."*
+> — Commander Taeho, Address to the Strike Squad before Descending the Sump Shafts
 
 ---
 
-### Chapter 1: The Black Market
+### Executive Operational Dossier
 
-The Echo black market was thriving.
-
-Stolen Echoes — fragments of crystallized sorrow — sold openly in the Raw. The prices were low. The quality was high. The source was unknown.
-
-> **Yuna:** *"The Echoes are real. Genuine sorrow. But they're not registered. Not tracked. Not taxed. They're stolen."*
-
-> **Soojin:** *"From where?"*
-
-> **Yuna:** *"From citizens. The Harvesters target the vulnerable — the poor, the sick, the grieving. They extract their Echoes — forcibly — and sell them on the black market."*
-
-> **Taeho:** *"How?"*
-
-> **Echo:** *"The Harvest Hook. A weapon that extracts Echoes from a person's body. It's painful. It's permanent. It leaves the victim... empty."*
-
----
-
-### Chapter 2: The Harvest Hook
-
-The team found the Harvest Hook in a warehouse in Zone B — a massive device, made of Han-crystal and stolen R.D. technology.
-
-The weapon was designed to extract Echoes — to pull them from a person's body like pulling teeth. The process was painful. The process was irreversible. The process left the victim without sorrow — without grief, without emotion, without *feeling*.
-
-> **Soojin:** *"This is R.D. technology. Modified. Corrupted. Whoever built this knew what they were doing."*
-
-> **Minho:** *"They did. The Harvest Hook uses the same principles as the R.D.'s Echo extraction systems. But instead of extracting from entities... it extracts from people."*
-
-> **Echo:** *"I know this weapon. I helped build it."*
-
-The team turned to Echo. Their face was hidden — but their voice was heavy.
-
-> **Echo:** *"When I was with the Harvesters, I was the technician. I maintained the hook. I optimized the extraction process. I made it more efficient. More... profitable."*
-
-> **Taeho:** *"Can you shut it down?"*
-
-> **Echo:** *"I can. But first, we need to find where the Echoes are stored. If we just destroy the hook, the Echoes are lost forever."*
+| Metric / Parameter | Field Data |
+|---|---|
+| **Codename** | Operation Messischwi (UCD-OP-03) |
+| **Transliteration** | 착취구 (抽出搾取 — The Low Sinks) |
+| **Etymology** | *Messis* (Latin: Harvest / Reaping) + *Chwi* (Korean: 취 / 搾取, Exploitation) |
+| **Ingress Domain** | Zone B Deep Flood Basins & Sub-Tannery Culverts |
+| **Sector Depth** | -75m to -140m Sub-Surface Depth |
+| **Primary Syndicate** | The Harvesters (수확단 — Suhwakdan) |
+| **Primary Antagonist** | Warlord Boknam ("The Meat Hook" / 갈고리 복남) |
+| **Contraband Entity** | SE-C-IIIγ-120 [GO] "Rage Cage" (분노의 감옥) |
+| **Squad Cadre** | Commander Taeho, Auditor Yuna, Investigator Minho, Handler Soojin, Engineer Joon, Infiltrator Echo |
+| **Primary Objective** | Dismantle illicit sorrow siphons and liberate 50 captive civilians |
+| **Secondary Objective** | Apprehend Warlord Boknam and secure SE-C-IIIγ-120 into Directorate vaults |
+| **Rules of Engagement** | Strict non-lethal pacification of captives; prevent flooding of prison pens |
 
 ---
 
-### Chapter 3: The Victims
+### Tactical Infiltration & Breach Routing
 
-The victims were everywhere.
+The assault vector penetrates seven subterranean strata within the Zone B industrial flood basins, beginning at the contaminated tannery culverts (-75m) and descending through submerged pump conduits and holding stockades into the boiling siphon abattoir (-140m).
 
-Citizens wandering the Raw — empty, hollow, without sorrow. They didn't grieve. They didn't feel. They didn't *live*. They were shells — their Echoes stolen, their emotions stripped, their humanity taken.
-
-> **Soojin:** *"They're... empty. No sorrow. No grief. No feeling. Just... nothing."*
-
-> **Minho:** *"The Harvest Hook doesn't just take Echoes. It takes the capacity to feel. The victims are left without emotion — without the ability to experience sorrow."*
-
-> **Yuna:** *"And the Echoes? What happens to them?"*
-
-> **Echo:** *"They're sold. On the black market. To citizens who want more sorrow — who want to feel more, experience more, *be* more. The Echoes are consumed — and the victims are left with nothing."*
-
-> **Taeho:** *"How many victims?"*
-
-> **Echo:** *"Dozens. Maybe hundreds. The Harvesters have been operating for years."*
-
----
-
-### Chapter 4: The Confrontation
-
-The Harvesters found them.
-
-A dozen operatives — armed, desperate, cornered. The leader — a man with hollow eyes and scarred hands — stepped forward.
-
-> **Harvester Leader:** *"You shouldn't have come here. This is our territory. Our business. Our survival."*
-
-> **Taeho:** *"You're stealing people's Echoes. You're stripping them of their emotions. This is Taboo."*
-
-> **Harvester Leader:** *"Taboo? The system steals from us every day. The Collectors take our Echoes. The Veil suppresses our emotions. The Wardens enforce our compliance. We just... do it more efficiently."*
-
-> **Soojin:** *"The system doesn't strip people of their humanity. It doesn't leave them empty."*
-
-> **Harvester Leader:** *"No? What do you call a citizen in the Veil? They don't feel. They don't think. They don't *live*. They're empty — just like our victims. The difference is, our victims are honest about what they are."*
-
-The Harvesters attacked — desperate, cornered, fighting for survival.
-
----
-
-### Chapter 5: The Source
-
-The fight was brutal — the Harvesters fought with the desperation of people who had nothing to lose.
-
-Harin held the line — her shield absorbing blow after blow. Echo flanked — moving through the shadows, disabling Harvesters from behind. Soojin contained — her Handler's Cage capturing operatives who tried to flee.
-
-But the leader fought hardest — his eyes blazing with fury, his voice cracking with desperation.
-
-> **Harvester Leader:** *"You think you're saving the city? You're just enforcing a different kind of extraction! The system extracts our labor, our Echoes, our lives. You call it order. We call it survival!"*
-
-> **Taeho:** *"Survival doesn't require stealing other people's emotions."*
-
-> **Harvester Leader:** *"In this city, it does!"*
-
-The fight ended — the Harvesters subdued, the leader captured. But his words lingered.
+```text
++==================+===========================+
+| BREACH SECTOR    | CHOSEN NODE & TACTICAL OP |
++==================+===========================+
+|                  | Node 1: Sluice Cordon     |
+| SUMP INGRESS     | Perimeter Flood Cordon    |
+|                  +---------------------------+
+| (Depth: -75m)    | Squad deploys wading suits|
+|                  | and tests toxic runoff.   |
++------------------+---------------------------+
+|                  | Node 2: Culvert Flank     |
+| SEWER TRUSS LINE | Acoustic Sentry Bypass    |
+|                  +---------------------------+
+| (Depth: -90m)    | Echo disables siren buoys |
+|                  | along rusted chain hoists.|
++------------------+---------------------------+
+|                  | Node 3: Siphon Bulkhead   |
+| PUMP STATION     | Hydraulic Control Breach  |
+|                  +---------------------------+
+| (Depth: -105m)   | Joon hacks drainage valves|
+|                  | to prevent pen flooding.  |
++------------------+---------------------------+
+|                  | Node 4: Forward Bivouac   |
+| DRY AIRLOCK      | Respite & Composure Tuning|
+|                  +---------------------------+
+| (Depth: -115m)   | Minho administers neuro   |
+|                  | salts; Yuna tracks logs.  |
++------------------+---------------------------+
+|                  | Node 5: Pen Stockades     |
+| SLAUGHTER CORRAL | 50 Captive Rescue Sweep   |
+|                  +---------------------------+
+| (Depth: -125m)   | Taeho neutralizes guards; |
+|                  | Soojin treats victims.    |
++------------------+---------------------------+
+|                  | Node 6: Abattoir Gate     |
+| BLAST BULKHEAD   | Hydraulic Ram Penetration |
+|                  +---------------------------+
+| (Depth: -135m)   | Joon cracks blast doors   |
+|                  | into central crucible.    |
++------------------+---------------------------+
+|                  | Node 7: Siphon Crucible   |
+| THE RED REFINERY | Apex Gauntlet: Boknam Raid|
+|                  +---------------------------+
+| (Depth: -140m)   | Subdue Warlord Boknam and |
+|                  | contain SE-C-IIIγ-120.    |
++==================+===========================+
+```
 
 ---
 
-### Chapter 6: The Return
+### Narrative Operation Chronicle
 
-The team returned to the surface — carrying the stolen Echoes, the captured Harvesters, and the weight of what they had learned.
+#### Chapter 1: The Cattle of the Deep Basins
 
-> **Soojin:** *"The Echoes can be returned. Most of them. The victims will recover — but it will take time."*
+The air in the secure briefing vault of UCD Sub-Precinct 2 was dense with the low hum of atmospheric purifiers. On the primary holotank, Senior Investigator Minho projected a sequence of forensic post-mortem scans that caused even the hardened veteran Joon to look away in disgust.
 
-> **Yuna:** *"The black market for Echoes is larger than we thought. The Harvesters were just one node in a network."*
+"These corpses were recovered from the river gratings near the Zone B floodway mouth," Minho began, his voice cold and devoid of inflection. "Every single subject died of acute neuro-somatic desiccation. Their muscular tissues are shriveled, their spinal channels drained, and their adrenal glands calcified into brittle glass. Someone attached industrial extraction cannulas directly to their thoracic nerve clusters and forcibly siphoned every drop of concentrated sorrow from their living marrow."
 
-> **Minho:** *"And the victims? What happens to them?"*
+Auditor Yuna activated the secondary data feed. A complex web of shipping manifests, maritime cargo routes, and untraceable shell accounts illuminated the room in dim crimson light.
 
-> **Taeho:** *"We restore what we can. We protect what we can't. And we make sure this doesn't happen again."*
+"The cartel operates under the title of The Harvesters," Yuna stated, tracing a cluster of illicit distribution nodes. "Their leader is Warlord Boknam, known across the underworld as 'The Meat Hook.' For the past eighteen months, Boknam has been abducting unregistered outer-slum refugees, migrant dockworkers, and destitute families from the fringes of Zone B. He holds them in subterranean pens beneath the old leather tanneries."
 
-> **Echo:** *"It will happen again. The demand doesn't disappear. The need doesn't disappear. The system creates the need — and the need creates the crime."*
+"What are they producing?" Taeho asked, his arms folded across the reinforced chest plate of his riot armor.
 
----
+"Crimson Han-Brine," Yuna answered coldly. "When a human subject is subjected to prolonged physical torment while trapped in absolute helplessness, their inner sorrow transforms into pure Crimson Grudge. Boknam boils this extracted sorrow fluid into high-potency combat narcotics and black-market turbine fuel. A single barrel of refined Crimson Brine fetches three thousand Echoes on the illicit munitions market. Our informants confirm Boknam has eighty pressurized tankers ready for export—and fifty living citizens trapped in the slaughter pens right now."
 
-### Engagement Protocol: The Harvest Hook Raid
+Infiltrator Echo stepped forward from the shadows of the vault, resting a gloved hand on the tactical holotank.
 
-**Location:** Zone B — Echo Gardens warehouse
-**Enemies:** 12 Harvesters (armed), 1 Harvester Leader (critical), environmental hazards (Echo destabilization)
-**Objective:** Shut down the Harvest Hook, capture the Harvesters, recover stolen Echoes
-**Duration:** 14 turns (Medium-long battle)
-**Threat level:** Critical — the Harvesters are ruthless, the weapon is unstable
+"I know the abattoir layout," Echo said. "Boknam didn't construct the extraction apparatus out of conventional scrap. He excavated an ancient subterranean containment vault at one hundred and forty meters down. Inside that vault sits a contraband Sorrow Entity: SE-C-IIIγ-120, designated 'Rage Cage.' It is a massive, stationary entity composed of calcified bone-bars that radiate boiling, furious grudge. Boknam hooked pneumatic winches and high-pressure steam siphons directly into the entity's ribs, using it as an emotional amplifier to boil the captives' agony."
 
----
+Commander Taeho took a deep breath, his knuckles tightening around his tactical sidearm grip.
 
-#### Turn 1: Reconnaissance
-
-The team approaches the warehouse — dark, industrial, surrounded by Harvester lookouts.
-
-> **Echo:** *"The main facility is inside. The Harvest Hook is on the ground floor. The Echo storage is below."*
-
-> **Taeho:** *"Entry points?"*
-
-> **Echo:** *"One main door. One loading dock. One emergency exit — but it's sealed from the inside."*
-
-> **Harin:** *"We take the main door. Fast and loud."*
-
-> **Taeho:** *"Agreed. On my mark."*
+"The mission parameters are non-negotiable," Taeho declared. "Primary directive: liberate all fifty civilian captives before Boknam can open the flood sluices and drown the pens. Secondary directive: dismantle the steam winches, shatter the Harvest Hook, contain SE-C-IIIγ-120, and bring Warlord Boknam into custody. Prepare wading armor. We drop into the sumps."
 
 ---
 
-#### Turn 2: Breach
+#### Chapter 2: Infiltration of the Sump Floodways
 
-The team breaches the main door — Harin leading, shield raised.
+The descent into the Low Sinks was a journey into an industrial nightmare. At seventy-five meters below the street level, the strike team stepped into waist-deep chemical runoff. The water was a viscous, bubbling black sludge, coated in an oily crimson sheen that hissed faintly against their lead-lined rubber wading suits.
 
-Inside: the warehouse — massive, dark, filled with Harvest Hook equipment. The air is thick with Han-vapor — the smell of stolen Echoes.
+"Watch your seals," Containment Handler Soojin cautioned over the closed comms loop. "The runoff is laden with tannic acid and concentrated sorrow-salts. A single puncture will eat through your flesh to the bone within minutes."
 
-A dozen Harvesters stand between the team and the Hook — armed, ready, desperate.
+Above them, colossal cast-iron drainage mains groan under municipal sewage pressure. Steam whistled from corroded seams, filling the narrow brick tunnel with blinding, sulfurous fog.
 
-> **Harvester:** *"Intruders! Protect the Hook!"*
+"Acoustic sensor perimeter at ninety meters," Echo signaled, pointing toward a web of rusted steel trusses spanning the ceiling. Suspended from the beams were acoustic siren buoys—pressure-sensitive bells linked by trip-wires to alert Boknam's slaughter crews.
 
----
+"Leave the wires to me," Echo whispered.
 
-#### Turn 3: Harin vs. Harvester Vanguard
+Moving with feline grace along the overhead pipeline supports, Echo bypassed the trip-wires, clipping the trigger cables with ceramic snips and securing the pendulum clappers with expanding acoustic foam. Below them, two heavily armed Harvester sentries in rubberized butcher aprons and reinforced welding masks leaned against an iron bulkhead, smoking crude Han-leaf cigarillos.
 
-The Harvester vanguard charges — three operatives with heavy weapons.
+Before the sentries could register the shift in air currents, Taeho surged forward through the murky sludge. His Obsidian Bastion shield slammed into the first guard with concussive force, pinning the man against the brick abutment and knocking the breath from his lungs in a single swift blow. Joon flanked from the left, planting a kinetic palm-strike against the second sentry's helmet, rattling his skull and rendering him instantly unconscious.
 
-Harin steps forward — shield raised, Aegis glowing. She absorbs the first blow — a heavy strike that jars her arms. Then the second. Then the third.
-
-> **Harin:** *"I can hold them! Push forward!"*
-
-The team pushes through — Harin holding the line, the others moving past her. The Harvesters throw everything they have — blades, explosives, Han-energy blasts. Harin absorbs it all.
-
-> **Harin:** *"They're strong! Desperate! I can't hold forever!"*
-
-> **Taeho:** *"You don't have to! Just long enough!"*
-> **Soojin:** *"Harin, you're bleeding."*
-
-> **Harin:** *"It's fine. Just a scratch."*
-
-> **Minho:** *"That's not a scratch. That's a wound."*
-
-> **Harin:** *"Fine. It's a wound. I'm still holding."*
+"Sensors bypassed. Sentry station neutralized," Taeho muttered, securing the unconscious guards with reinforced polymer zip-cuffs. "Joon, bypass the hydraulic valve station."
 
 ---
 
-#### Turn 4: Echo Flanks
+#### Chapter 3: The Brine Processing Refinery
 
-Echo moves — silent, a shadow among shadows. Their Shadow Cloak activates — rendering them nearly invisible.
+Joon knelt before the hydraulic control manifold of the secondary floodgate at one hundred and five meters depth. His mechanical toolkit whirred as he inserted a diagnostic probe into the corroded brass junction box.
 
-They circle behind the Harvesters — moving through the warehouse's corridors, disabling operatives one by one. A quick strike to the back of the neck. A precise application of Han-suppression. A body dropping silently to the floor.
+"Boknam has this gate wired into an emergency dead-man switch," Joon muttered, beads of sweat dripping from his forehead onto the illuminated diagnostic screen. "If someone forces the blast doors without overriding the primary pump relays, the reservoir above will dump four hundred thousand gallons of tannery effluent straight into the holding pens below."
 
-> **Echo:** *"Four down. Eight remaining."*
+"Can you isolate the lines?" Yuna asked, training her weapon down the echoing access tunnel.
 
-> **Taeho:** *"Keep moving. We need the leader."*
+"Give me forty-five seconds," Joon growled. He severed two high-pressure hydraulic hoses, jamming a pair of pneumatic bypass shunts into the valve core. "Pressure diverted. Sluice locked open. The pens won't drown."
 
-> **Echo:** *"I know where he is. The control room. Ground floor."*
+With a dull mechanical groan, the iron floodgate rose. The squad stepped into the primary refinery gallery.
 
----
+The sight was sickening. A cavernous brick reservoir hall was dominated by four massive, twenty-foot-tall copper vats. Underneath the vats, roaring industrial gas burners boiled the dark red sorrow-brine, sending clouds of choking, copper-scented steam billowing toward the roof. Armed cartel enforcers—butchers armed with motorized rotary bone-saws and long-handled flensing hooks—turned in shock as the UCD tactical unit advanced.
 
-#### Turn 5: Soojin Contains
+"Kill them! Protect the vats!" their squad captain screamed.
 
-A Harvester throws an explosive — a ball of unstable Han-energy that arcs through the air.
+"Phalanx wedge! Deploy non-lethal suppression!" Taeho bellowed.
 
-Soojin steps forward — her Handler's Cage extending. The cage catches the explosive — containing it, suppressing it, neutralizing it.
+Taeho stepped to the front, locking his shield into the stone flags. Behind him, Joon swung his heavy demolition hammer into the main steam distribution pipe. A deafening roar of high-pressure vapor erupted into the corridor, blinding the butchers and throwing their charge into chaotic disarray.
 
-> **Soojin:** *"Contained! But there's more!"*
+Yuna immediately broadcasted an EMP resonance pulse from her cipher slate, disabling the electric igniters of the rotary saws. As the enforcers stumbled through the blinding fog, Echo darted between them like a specter, disarming each butcher with precise joint strikes. Within two minutes, eleven cartel operatives lay immobilized on the wet deck.
 
-More explosives fly — Soojin catches them one by one, her Resolve attribute activating, calming the energy, reducing volatility.
-
-> **Soojin:** *"I can't keep this up! They're throwing everything!"*
-
-> **Taeho:** *"Hold them! We're almost there!"*
+"Vats secured," Minho called out, scanning the boiling tanks with his diagnostic monocle. "The siphons are empty here—the living stock is being processed deeper in the complex. Keep moving!"
 
 ---
 
-#### Turn 6: The Harvest Hook
+#### Chapter 4: The Cries from the Iron Stockades
 
-The team reaches the Harvest Hook — massive, humming, pulsing with stolen Echoes.
+At one hundred and twenty-five meters depth, the team reached the holding stockades.
 
-The weapon is active — extracting Echoes from a victim strapped to the table. The victim is screaming — not in pain, but in loss. The hook is pulling their sorrow from their body.
+The stench of human fear, sweat, and burning sorrow was overwhelming. Suspended over deep, brick-lined drainage trenches were dozens of rusted iron cages. Packed inside them were fifty emaciated citizens—men, women, and teenagers from the outer slums—clothed in rags, their wrists and ankles chained to steel rings.
 
-> **Soojin:** *"We need to shut it down! Now!"*
+Beneath each cage ran a series of flexible copper suction tubes leading downward into the floor.
 
-> **Echo:** *"The control panel is there. But the leader is guarding it."*
+"UCD tactical sweep! You are safe!" Taeho shouted, his voice echoing through the stockade like a brass bell. "Joon, cut the cage locks! Minho, Soojin, triage the wounded!"
 
-The Harvester Leader stands before the control panel — his eyes blazing, his hands on the controls.
+As Joon moved along the catwalk with high-powered pneumatic bolt-cutters, the captives began to weep. It was not the silent, bleached despair of Sura's victims—it was raw, sobbing relief, the sound of human souls realizing they were not going to die in the dark.
 
-> **Harvester Leader:** *"You won't shut it down. You won't destroy my work. You won't erase what I've built."*
+Soojin and Minho moved rapidly between the cages, administering emergency neuro-saline solutions and wrapping the shivering victims in thermal foil blankets.
 
----
+Minho knelt beside an elderly weaver whose arms were covered in deep, jagged lacerations from the extraction needles.
 
-#### Turn 7: Minho Fights for Echoes
+"Hold still, grandfather," Minho said gently, pressing an antiseptic compress to the wound. "The extraction lines are disconnected. You're going home."
 
-Minho steps forward — his Needle drawn, his Lens scanning.
+The old man grasped Minho's armored sleeve with trembling hands.
 
-> **Minho:** *"The Echoes are degrading! The extraction is destabilizing them! We need to stop it — now!"*
+"Boknam... he's in the deep kiln below," the elder whispered, his breath wheezing through damaged lungs. "He took the young ones down there thirty minutes ago... he said if the wardens came, he would burn them all in the bone cage..."
 
-The Harvester Leader doesn't move. He presses a button — the Hook accelerates, the extraction intensifying.
+Taeho stepped up to the cage, his face set like carved granite.
 
-> **Harvester Leader:** *"The Echoes are mine. I took them. I own them. You can't have them."*
-
-> **Minho:** *"They're not yours! They're people's sorrow! Their grief! Their humanity!"*
-
-Minho charges — his Needle extended, aiming for the control panel. The Harvester Leader blocks — his own weapon drawn, a blade of crystallized rage.
-
-The fight is brutal — Minho fighting for the Echoes, the Harvester Leader fighting for his livelihood.
+"No one else burns today," Taeho promised. "Soojin, establish an armed perimeter around the stockade. Joon, bring the heavy charges. It's time to meet the Butcher."
 
 ---
 
-#### Turn 8: The Hook Overloads
+#### Chapter 5: The Red Abattoir & The Calcified Cage
 
-The Hook sparks — the extraction destabilizing, the stolen Echoes threatening to cascade.
+The final descent led through a reinforced titanium blast door at one hundred and forty meters below the city. The ambient air was scorchingly hot, thick with the heavy, iron-rich stench of boiling blood and combusted sorrow.
 
-> **Joon:** *"The Hook is overloading! If it cascades, the Echoes are lost!"*
+Joon placed two shaped breaching charges against the door hinges. A sharp, localized blast blew the five-ton portal off its tracks, sending it crashing into the chamber beyond.
 
-> **Soojin:** *"Can you stabilize it?"*
+The squad entered the Red Abattoir.
 
-> **Joon:** *"Maybe. But I need access to the control panel."*
+The chamber was a cathedral of violence. In the center of the vast subterranean kiln sat **SE-C-IIIγ-120**, the Sorrow Entity known as "Rage Cage." The entity took the form of a gargantuan, pulsing cage whose vertical bars were crafted not from iron, but from calcified bone, fused sinew, and jagged crimson crystal. The bars contracted and expanded like a monstrous, furious rib cage, radiating blinding heat and violent waves of Crimson Grudge.
 
-> **Taeho:** *"Minho! Clear the way!"*
+Chained to the perimeter of the bone cage were four industrial steam winches. Thick steel cables ran from the winches up to the ceiling pulleys, anchoring a monstrous, eight-foot-long barbed steel hook—the **Harvest Hook**.
 
-Minho fights harder — his Needle striking with precision, driving the Harvester Leader back. Joon moves to the control panel — his Trowel extending, stabilizing the Hook's energy flow.
+Standing beneath the hook was Warlord Boknam.
 
-> **Joon:** *"Stabilizing! But it's fighting me!"*
+Boknam was an enormous, muscle-bound brute clad in heavy riveted boiler-plate armor. Bolted to his shoulders was an auxiliary steam engine that vented white-hot exhaust into the air, driving hydraulic servos in his arms that granted him superhuman kinetic power. In his massive hands, he gripped the haft of the Harvest Hook, its barbed tines glowing with molten red sorrow-brine.
 
-> **Soojin:** *"I'll help!"*
+"Taeho," Boknam growled, his voice rumbling like an ore-crusher. "You brought your little dog pack all the way down to my kiln. You think you're heroes because you cut some wire and freed some cattle?"
 
-Soojin joins Joon — her Resolve attribute calming the Hook, reducing its volatility. Together, they stabilize the weapon — the Echoes safe, the extraction stopped.
+"The cattle have names, Boknam," Taeho said, advancing slowly with his shield raised. "And you have an appointment with High Prosecution."
 
----
+"Prosecution?" Boknam laughed, a booming roar that echoed through the kiln. "The High Council drinks the fuel I make! The Spire factories run on the grudge I boil! In this city, the strong harvest and the weak burn! Let's see how much grudge I can squeeze out of you!"
 
-#### Turn 9: The Leader Breaks
-
-The Harvester Leader sees his Hook stabilized — his work saved, but not by him. He breaks.
-
-> **Harvester Leader:** *"No... no... my work... my life..."*
-
-He falls to his knees — his weapon dropping, his eyes empty. The fight leaves him — replaced by despair.
-
-> **Harvester Leader:** *"You don't understand. You can't understand. The Echoes... they're all I have. They're all I am."*
-
-> **Soojin:** *"They're not yours. They belong to the people you stole them from."*
-
-> **Harvester Leader:** *"They belong to no one! They're just... Echoes. Fragments. Echoes of sorrow that don't matter anymore."*
-
-> **Taeho:** *"They matter to the people who feel them."*
+Boknam slammed the butt of his weapon into the floor, engaging the steam winches. The bone-bars of SE-C-IIIγ-120 flared crimson, unleashing a deafening psychic howl!
 
 ---
 
-#### Turn 10: The Victims
+#### Chapter 6: The Stand at the Siphon Crucible
 
-The team frees the victims — citizens strapped to the extraction tables, their Echoes partially harvested.
+"Acoustic damping active! Lock defensive wedge!" Taeho roared.
 
-Some are conscious — empty, hollow, not feeling anything. Some are unconscious — their minds too damaged by the extraction. Some are screaming — the loss of sorrow too much to bear.
+The kiln exploded into combat.
 
-> **Soojin:** *"We need medical teams. Now. The victims need stabilization."*
-
-> **Minho:** *"The Echoes are intact. We can restore them. But it will take time."*
-
-> **Yuna:** *"How many victims?"*
-
-> **Echo:** *"Dozens. Maybe hundreds. The Harvesters have been operating for years."*
-
-> **Taeho:** *"We save who we can. We restore what we can. And we make sure this never happens again."*
-
----
-
-#### Turn 11: Assessment
-
-**Taeho:** *"Report."*
-
-**Yuna:** *"Financial records recovered. The Harvesters operated a black market for Echoes — selling stolen sorrow to buyers across the city."*
-
-**Minho:** *"14 victims freed. Echoes partially intact. Restoration possible — but lengthy."*
-
-**Soojin:** *"Hook stabilized. Echoes stored safely. Ready for transport to the R.D."*
-
-**Joon:** *"Facility secured. Barriers deployed. No one gets in or out."*
-
-**Echo:** *"12 Harvesters captured. Leader subdued. Operation dismantled."*
-
-**Harin:** *"No casualties on our side. Three minor injuries. All targets neutralized."*
-
-**Taeho:** *"Good work. Secure the evidence. Contain the Harvesters. Begin Echo restoration."*
+```text
++==============================================+
+|       TARGET DOSSIER: THE BUTCHER OF THE RAW |
++==============================================+
+| Apex Target          | Warlord Boknam        |
+| Cartel Moniker       | "The Meat Hook"       |
+| Threat Grade         | Major Potency (γ)     |
+| Contraband Entity    | SE-C-IIIγ-120 [GO]    |
++----------------------+-----------------------+
+| Combined Vitality    | 6,800 Total Health    |
+| Targetable Parts     | 3 Distinct Modules    |
+| Part 1: Winch Rig    | 2,200 Health (Blunt)  |
+| Part 2: Harvest Hook | 1,600 Health (Pierce) |
+| Part 3: Rage Cage    | 3,000 Health (Void)   |
++----------------------+-----------------------+
+| Stagger Threshold 1  | 60% Health (4,080 HP) |
+| Stagger Threshold 2  | 25% Health (1,700 HP) |
+| Overdrive Skill      | Crimson Brine Cleave  |
++==============================================+
+```
 
 ---
 
-#### Turn 12: The Echoes Speak
+### Tactical Engagement: 6-Turn Pacification Gauntlet
 
-As the team secures the facility, the stolen Echoes pulse — faintly, but distinctly.
+```text
++=====================================================================+
+|              TURN 1: KINETIC INGRESS & HOOK DEFLECTION              |
++---------------------------------------------------------------------+
+| CLASH 1: Warlord Boknam vs Commander Taeho                          |
+|   > Boss Skill: [Pneumatic Hook Cleave] (Atk Power 26, Heavy Slash) |
+|   > Taeho Skill: [Phalanx Bastion: Granite Wall] (Def Power 30)     |
+|   > Clash Result: Taeho WINS (Power 30 vs 26).                      |
+|     Kinetic shield deflects the massive barbed steel hook.          |
+|   > Taeho reflects 160 kinetic tremor damage back to Winch Rig.     |
++---------------------------------------------------------------------+
+| CLASH 2: Siphon Enforcers (x2) vs Sapper Joon                       |
+|   > Enforcer Skill: [Rotary Bone-Saw Rush] (Atk Power 20, Slash)    |
+| > Joon Skill: [Deployable Mantlet Barrier] (Def Power 24, Kinetic)  |
+|   > Clash Result: Joon WINS. Saws spark harmlessly off mantlet.     |
++---------------------------------------------------------------------+
+| TACTICAL MANEUVERS:                                                 |
+|   * Yuna: Casts [Cipher-Scan: Hydraulic Frequency]                  |
+|     Scans steam winch pressure release valve.                       |
+|   * Minho: Fires [Neural Lancet: Calibrated Dart]                   |
+|     Deals 240 Pierce damage to Boknam's armored shoulder.           |
+|   * Soojin: Deploys [Sedative Aerosol Ward]                         |
+|     Suppresses crimson rage fumes leaking from SE-C-IIIγ-120.       |
+|   * Echo: Activates [Shadow Cloak] -> Scales rusted chain hoists.   |
++---------------------------------------------------------------------+
+| ROUND 1 DAMAGE TOTALS:                                              |
+|   * Boknam Steam Winch Rig HP: 2,200 -> 1,800 / 2,200 (-400 HP)     |
+|   * Harvest Hook Weapon HP: 1,600 / 1,600                           |
+|   * SE-C-IIIγ-120 Rage Cage Core HP: 3,000 / 3,000                  |
+|   * Combined Target HP: 6,400 / 6,800 | UCD Composure: 100%         |
++=====================================================================+
+```
 
-> **Soojin:** *"The Echoes are... speaking. Not words. Feelings. They're sharing their sorrow."*
+```text
++=====================================================================+
+|         TURN 2: SAPPING THE HYDRAULIC WINCH & FREQUENCY JAM         |
++---------------------------------------------------------------------+
+| CLASH 1: Warlord Boknam vs Sapper Joon                              |
+|   > Boss Skill: [High-Tension Cable Snare] (Atk Power 24, Pierce)   |
+|   > Joon Skill: [Hydraulic Kinetic Ram] (Atk Power 28, Heavy Blunt) |
+|   > Clash Result: Joon WINS (Power 28 vs 24).                       |
+|     Hydraulic ram shatters the secondary cable pulley drum!         |
+|   > Deals 520 Blunt damage to Boknam's Steam Winch Rig.             |
++---------------------------------------------------------------------+
+| CLASH 2: SE-C-IIIγ-120 'Rage Cage' vs Auditor Yuna                  |
+|   > Entity Skill: [Crimson Resentment Pulse] (Atk Power 22, Grudge) |
+|   > Yuna Skill: [Cipher-Pulse: Damping Wall] (Def Power 26, EMP)    |
+|   > Clash Result: Yuna WINS. Pulse dampens entity rage cycle.       |
++---------------------------------------------------------------------+
+| TACTICAL MANEUVERS:                                                 |
+|   * Taeho: Uses [Shield Bash: Heavy Tremor]                         |
+|     Deals 280 Blunt damage to Winch Rig.                            |
+|   * Minho: Casts [Memory Anchor: Saline Infusion]                   |
+|     Stabilizes mental composure of squad (+15 SP).                  |
+|   * Soojin: Casts [Resonance Snare: Cold Iron]                      |
+|     Tethers bone-bars of SE-C-IIIγ-120 to deck.                     |
+|   * Echo: Slices winch hydraulic return line from overhead beam.    |
++---------------------------------------------------------------------+
+| ROUND 2 DAMAGE TOTALS:                                              |
+|   * Boknam Steam Winch Rig HP: 1,800 -> 1,000 / 2,200 (-800 HP)     |
+|   * Harvest Hook Weapon HP: 1,600 / 1,600                           |
+| * SE-C-IIIγ-120 Rage Cage Core HP: 3,000 -> 2,750 / 3,000 (-250 HP) |
+|   * Combined Target HP: 5,350 / 6,800 | UCD Composure: 98%          |
++=====================================================================+
+```
 
-> **Minho:** *"The Echoes remember. They remember who they were taken from. They remember the pain."*
+```text
++=====================================================================+
+|        TURN 3: PRECISION LANCET PIERCE & STAGGER THRESHOLD 1        |
++---------------------------------------------------------------------+
+| CLASH 1: Warlord Boknam vs Senior Investigator Minho                |
+| > Boss Skill: [Flaying Abattoir Sweep] (Atk Power 27, Heavy Slash)  |
+|   > Minho Skill: [Neural Lancet: Synaptic Pierce] (Atk Power 31)    |
+|   > Clash Result: Minho WINS (Power 31 vs 27).                      |
+|     Silver lancet strikes the pivot bolt of the Harvest Hook!       |
+|   > Deals 960 Pierce damage -> PART DESTROYED: Harvest Hook!        |
++---------------------------------------------------------------------+
+| STATUS EVENT: STAGGER THRESHOLD 1 TRIGGERED!                        |
+|   * Combined Target HP drops below 60% (4,080 HP).                  |
+|   * Boknam's main weapon snaps; steam vents violently from armor!   |
+| * Boknam suffers [Stagger 1] for 1 turn (Def 0, takes 2.0x damage). |
++---------------------------------------------------------------------+
+| TACTICAL MANEUVERS:                                                 |
+|   * Taeho: Executes [Heavy Piston Strike] -> Deals 460 Blunt.       |
+|   * Joon: Plants [Thermite Demolition Pack] -> Deals 420 Thermal.   |
+| * Echo: Drives [Eclipse Stiletto] into winch motor -> Deals 380     |
+|     Slash.                                                          |
+|   * Soojin: Readies cryo-dampening blanket for enraged entity.      |
++---------------------------------------------------------------------+
+| ROUND 3 DAMAGE TOTALS:                                              |
+| * Boknam Steam Winch Rig HP: 1,000 -> 0 / 2,200 (-1,000 HP, BROKEN) |
+|   * Harvest Hook Weapon: [DESTROYED]                                |
+|   * SE-C-IIIγ-120 Rage Cage Core HP: 2,750 / 3,000                  |
+|   * Combined Target HP: 2,750 / 6,800 (Stagger 1 Active)            |
++=====================================================================+
+```
 
-> **Echo:** *"They want to go home."*
+```text
++=====================================================================+
+|           TURN 4: CRIMSON RAGE SURGE & LEADED BARRIER WARD          |
++---------------------------------------------------------------------+
+| ENCOUNTER EVENT: Entity Siphon Rupture Initiated!                   |
+|   * Boknam recovers from Stagger and kicks emergency siphon valve.  |
+|   * SE-C-IIIγ-120 'Rage Cage' flares into Berserk Resonance!        |
+|   * Crimson bone-bars expand, radiating boiling waves of Han-brine. |
++---------------------------------------------------------------------+
+| CLASH 1: SE-C-IIIγ-120 'Rage Cage' vs Containment Handler Soojin    |
+|   > Entity Skill: [Crimson Anguish Boiling] (Atk Power 32, Grudge)  |
+|   > Soojin Skill: [Leaded Sanctuary: Damping Dome] (Def Power 35)   |
+|   > Clash Result: Soojin WINS (Power 35 vs 32)!                     |
+| Leaded damping dome absorbs the superheated emotional shockwave.    |
+|   > Soojin channels kinetic damping -> Deals 480 Void damage.       |
++---------------------------------------------------------------------+
+| TACTICAL MANEUVERS:                                                 |
+| * Taeho: Interposes shield to shield freed captives from shrapnel.  |
+|   * Yuna: Hacks pump station terminal, shutting off brine conduits. |
+|   * Minho: Dispenses [Neuro-Saline Vapor] to protect captive minds. |
+|   * Joon: Manually cuts holding pen emergency lock chains.          |
++---------------------------------------------------------------------+
+| ROUND 4 DAMAGE TOTALS:                                              |
+|   * Boknam Body HP: Unarmored (Suppressed)                          |
+|   * Boknam Steam Winch Rig: [DESTROYED]                             |
+|   * Harvest Hook: [DESTROYED]                                       |
+| * SE-C-IIIγ-120 Rage Cage Core HP: 2,750 -> 2,270 / 3,000 (-480 HP) |
+|   * Combined Target HP: 2,270 / 6,800 | UCD Composure: 95%          |
++=====================================================================+
+```
 
-> **Taeho:** *"Then we take them home."*
+```text
++=====================================================================+
+|    TURN 5: PHANTOM STILETTO SEVER & TERMINAL STAGGER THRESHOLD 2    |
++---------------------------------------------------------------------+
+| CLASH 1: SE-C-IIIγ-120 'Rage Cage' vs Infiltrator Echo              |
+| > Entity Skill: [Thrashing Rib Barbed Lash] (Atk Power 28, Pierce)  |
+|   > Echo Skill: [Eclipse Stiletto: Phantom Sever] (Atk Power 33)    |
+|   > Clash Result: Echo WINS (Power 33 vs 28).                       |
+|     Echo drops from vaulted truss, shearing central bone pillar.    |
+|   > Deals 650 Slash damage to Rage Cage Core.                       |
++---------------------------------------------------------------------+
+| STATUS EVENT: TERMINAL STAGGER THRESHOLD 2 TRIGGERED!               |
+|   * Combined Target HP falls below 25% (1,700 HP).                  |
+|   * The calcified bone bars crack; entity's crimson aura dims!      |
+|   * SE-C-IIIγ-120 enters [Terminal Stagger 2]! Defenses fall to 0.  |
++---------------------------------------------------------------------+
+| TACTICAL MANEUVERS:                                                 |
+|   * Joon: Drives heavy alloy wedges into remaining bone joints.     |
+|   * Minho: Injects [Sedative Soporific Compound] into entity base.  |
+| * Yuna: Downloads complete smuggling manifest of 80 brine tankers.  |
+|   * Soojin: Slides Class-IV Leaded Containment Mantle over cage.    |
++---------------------------------------------------------------------+
+| ROUND 5 DAMAGE TOTALS:                                              |
+|   * Boknam Steam Winch Rig: [DESTROYED]                             |
+|   * Harvest Hook: [DESTROYED]                                       |
+| * SE-C-IIIγ-120 Rage Cage Core HP: 2,270 -> 1,140 / 3,000 (-1,130   |
+|     HP)                                                             |
+|   * Combined Target HP: 1,140 / 6,800 (Terminal Stagger 2 Active)   |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+|           TURN 6: CLIMAX OVERDRIVE: IRON GAVEL & CRYO-SEAL          |
++---------------------------------------------------------------------+
+| FINAL EXECUTIONS & OVERDRIVE RESOLUTION:                            |
+| CLASH 1: Commander Taeho vs Warlord Boknam                          |
+| > Taeho Overdrive: [Iron Gavel: Decreed Subjugation] (Cost: 35 SP)  |
+|   > Overdrive Power: 43 (Heavy Kinetic Concussive Verdict)          |
+| > Execution: Heavy Obsidian shield smashes into Boknam's            |
+|     breastplate.                                                    |
+|     The reinforced steel buckles; Boknam is slammed into deck.      |
+|   > Non-lethal kinetic impact knocks Boknam out cold instantly.     |
++---------------------------------------------------------------------+
+| CLASH 2: Containment Handler Soojin vs SE-C-IIIγ-120 'Rage Cage'    |
+| > Soojin Overdrive: [Class-IV Leaded Containment Lock: Safe Haven]  |
+|   > Overdrive Power: 41 (Absolute Containment / Cryo-Seal)          |
+|   > Execution: Soojin triggers pneumatic clamps on lead mantle.     |
+|     Cryogenic sedative bath quenches the entity's boiling grudge.   |
+|   > SE-C-IIIγ-120 ceases pulsing, falling into inert containment!   |
++---------------------------------------------------------------------+
+| PACIFICATION SUMMARY:                                               |
+| * Warlord Boknam: APPREHENDED (Chassis destroyed, target subdued).  |
+|   * Harvest Hook & Winch Rig: 100% DEMOLISHED.                      |
+|   * SE-C-IIIγ-120 'Rage Cage': 100% CONTAINED (Zero brine leakage). |
+|   * All 50 captive civilians liberated without a single casualty.   |
++=====================================================================+
+```
 
 ---
 
-#### Turn 13: Return to the Surface
+#### Chapter 7: The Aftermath & The Quenched Furnaces
 
-The team returns to the surface — carrying the stolen Echoes, the captured Harvesters, and the weight of what they learned.
+The boiling heat of the kiln dissipated as the cryogenic sedative bath hissed through the lead mantle, wrapping SE-C-IIIγ-120 in an impermeable shell of frosted lead. The crimson bone-bars ceased their violent pulsation, shrinking into dormant, calcified silence.
 
-> **Yuna:** *"The black market for Echoes is larger than we thought. The Harvesters were just one node in a network."*
+On the iron deck, Warlord Boknam lay incapacitated, his steam engine shattered and his heavy breastplate buckled inward under the concussive force of Taeho's Obsidian Bastion. Senior Investigator Minho knelt beside the fallen warlord, applying heavy magnetic restraint cuffs to his wrists and ankles.
 
-> **Minho:** *"And the victims? What happens to them?"*
+"Target secured," Minho reported, his breathing steady. "Concussion and multiple contusions, but autonomic functions are stable. He will stand trial."
 
-> **Taeho:** *"We restore what we can. We protect what we can't. And we make sure this doesn't happen again."*
+Across the abattoir, Joon stood over the shattered remnants of the Harvest Hook. With three measured swings of his pneumatic demolition hammer, he smashed the barbed tines into twisted, unusable slag.
 
-> **Echo:** *"It will happen again. The demand doesn't disappear. The need doesn't disappear. The system creates the need — and the need creates the crime."*
+"That weapon will never touch another human being," Joon spat, wiping grease and sweat from his face.
+
+Auditor Yuna completed her forensic inspection of Boknam's command terminal, detaching several encrypted data drives.
+
+"Eighty pressurized tankers of refined Crimson Han-Brine located in the dry dock staging bays," Yuna announced. "Every single tanker was labeled for delivery to private industrial foundries in Zone C and municipal power substations in Zone A. We have the complete financial paper trail. The cartel wasn't acting alone—they had supply contracts signed by four Council procurement directors."
+
+"They will face justice alongside Boknam," Taeho replied, surveying the vast underground facility.
+
+From the upper stockades, the sounds of municipal rescue teams echoed down the access shafts. Medical corps personnel in clean white coats were carefully escorting the fifty liberated captives up toward the surface cruisers. Families were being reunited, warm broth was being distributed, and the nightmare of the Low Sinks was finally over.
+
+Echo walked over to the edge of the drainage sump, looking down into the murky water where the toxic runoff was slowly being filtered by emergency Directorate scrubbers.
+
+"Three frays broken," Echo murmured. "The Veil Merchants. The Memory Washers. The Harvesters."
+
+"Three down, three to go," Taeho said, walking up beside Echo and looking up toward the surface light filtering down through the drainage grates. "Next is Zone C: The Debt Brokers. High Usurer Man-sik won't give up his vaults easily."
+
+"Then we will break his vaults," Taeho concluded. "Strike team, prepare for extraction."
+
+---
+
+### Post-Action Forensic Inventory
+
+| Item ID | Description | Quantity | Disposition |
+|---|---|---|---|
+| **EVD-UCD-03-A** | SE-C-IIIγ-120 "Rage Cage" Containment Shell | 1 Unit | Transferred to R.D. Maw's Keep Vaults |
+| **EVD-UCD-03-B** | Pressurized Crimson Han-Brine Tankers | 80 Units | Impounded by Directorate Energy Reserves |
+| **EVD-UCD-03-C** | Warlord Boknam Augmented Steam Rig | 1 Chassis | Sapped & Impounded for Engineering Study |
+| **EVD-UCD-03-D** | Shattered Harvest Hook Weapon Slag | 1 Weapon | Scuttled & Melted In Situ by Joon |
+| **EVD-UCD-03-E** | Cartel Munitions & Supply Ledger Disks | 18 Slates | Delivered to Directorate High Prosecution |
+| **EVD-UCD-03-F** | Liberated Living Captives from Stockades | 50 Citizens | Transferred to Central Medical Recovery |
 
 ---
 
-#### Turn 14: Aftermath
+### Arc 3 Key Discoveries & Systemic Revelations
 
-**Casualties:** None on UCD side — 12 Harvesters captured, leader subdued.
-
-**Evidence:** Harvest Hook (stabilized), stolen Echoes (recovered), financial records, black market contacts.
-
-**Victim status:** 14 victims freed — Echo restoration underway. Dozens more victims identified — search ongoing.
-
-**Harvester status:** All contained — awaiting transport to Wardens' custody.
-
-**Next steps:** Restore stolen Echoes. Dismantle the black market network. Move to Arc 4.
+| Discovery | Systemic Implication |
+|---|---|
+| **Industrial Energy Complicity** | Municipal power plants in Zone A were secretly purchasing unrefined sorrow brine to cut costs. |
+| **Refugee Exploitation** | The Harvesters targeted unregistered outer-slum migrants due to their complete lack of legal protection. |
+| **Grudge Transmutation Mechanics** | Prolonged physical torment deliberately shifts mild sorrow into volatile, combustible Crimson Grudge. |
+| **Entity Resonance Siphoning** | Boknam's winches proved that inanimate Sorrow Entities can be mechanically tapped to power kinetic weapons. |
+| **UCD Tactical Coordination** | Perfect synergy between Joon's sapping and Soojin's containment achieved zero civilian collateral damage. |
 
 ---
 
-### Arc 3 — Key Discoveries
+### Strike Officer Performance & Tactical Growth
 
-| Discovery | Implication |
-|-----------|-------------|
-| **Echo harvesting is profitable** | Sorrow is the most valuable black market commodity |
-| **R.D. technology was stolen** | The Harvesters had inside help |
-| **Victims can be restored** | But the process is lengthy and risky |
-| **The black market is larger than expected** | The Harvesters are one node in a network |
-| **The system creates demand** | Poverty and desperation drive the market |
-| **Echo's past** | Echo helped build what they now destroy |
-
-### Arc 3 — Character Development
-
-| Character | Development |
-|-----------|-------------|
-| **Taeho (Commander)** | Faces the cost of the black market — victims are real people |
-| **Soojin (Handler)** | Stabilizes the Hook — saves the stolen Echoes |
-| **Minho (Investigator)** | Fights for the Echoes — sees sorrow as sacred |
-| **Joon (Engineer)** | Prevents cascade — protects the evidence |
-| **Echo (Infiltrator)** | Confronts their past — helped build what they now destroy |
-| **Yuna (Auditor)** | Traces the financial network — sees the system's failures |
+| Officer | Tactical Specialization | Operational Growth in Operation 3 |
+|---|---|---|
+| **Taeho (Commander)** | Bastion Vanguard / Riot Breacher | Successfully deflected high-tension pneumatic hook cleaves, protecting captives with zero hull failure. |
+| **Yuna (Auditor)** | Forensic Decryption / Disruption | Scrambled Boknam's hydraulic pressure sensors and seized multi-tier municipal energy contracts. |
+| **Minho (Investigator)** | Psycho-Forensics / Neural Scribe | Executed pinpoint lancet strike on the Harvest Hook's pivot bolt, neutralizing the apex threat. |
+| **Soojin (Handler)** | Entity Containment / Sedative Field | Deployed Leaded Sanctuary dome to neutralize a massive boiling Grudge surge, containing SE-C-IIIγ-120. |
+| **Joon (Engineer)** | Sapper & Demolitions | Safely bypassed emergency reservoir flood switches, preventing the drowning of 50 civilian captives. |
+| **Echo (Infiltrator)** | Shadow Infiltration / Catwalk Flank | Navigated rusted overhead trusses, neutralizing acoustic alarm networks without triggering alerts. |
 
 ---
+
 
 ---
 
