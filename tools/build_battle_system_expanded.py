@@ -1,4 +1,238 @@
-# Project Somnarak — Battle System Styles (전투 체계 양식록)
+#!/usr/bin/env python3
+"""
+Comprehensive Expanded Generator Script for:
+- SOMNARAK-WORLD/Master_Codices/SOMNARAK_BATTLE_SYSTEM_STYLES.md
+- SOMNARAK-WORLD/Master_Codices/SOMNARAK_BATTLE_SYSTEM.md
+
+Enforces:
+- 10-Node Room Stage Grid (Node 1 to Node 10)
+- Speed-to-AP Action Economy
+- 6-Turn Phase Combat Macro-Cycle
+- Quad-Style Branches (Generic P.S., Reverie Directorate, UCD, SED)
+- Visual Combat Walkthrough & Story Adaptation Guidelines
+- Exact 71-column ASCII text boxes, zero symmetry errors, zero banned words
+"""
+
+import sys
+import re
+
+banned_patterns = [
+    r"\bego\b", r"\be\.g\.o\b", r"\babnormality\b", r"\babnormalities\b",
+    r"\bdistortion\b", r"\bdistortions\b", r"\bpeccatula\b", r"\bfixer\b",
+    r"\bfixers\b", r"\bassociation\b", r"\bassociations\b", r"\bfingers\b",
+    r"\blobotomy\b", r"\blimbus\b", r"\blibrary\b", r"\byoung-ji\b",
+    r"\bcarmen\b", r"\bayin\b", r"\bsinner\b", r"\bsinners\b",
+    r"\bmephistopheles\b", r"\bgolden bough\b", r"\bmirror dungeon\b",
+    r"\brefraction railway\b", r"\bharin\b", r"\bminjae\b"
+]
+
+def check_banned(text, filename):
+    for b in banned_patterns:
+        matches = re.findall(b, text, re.IGNORECASE)
+        if matches:
+            raise ValueError(f"Banned word {b} found in {filename}: {matches[:3]}")
+
+def make_box(title, raw_rows, width=71):
+    top = "+" + "=" * (width - 2) + "+"
+    div = "+" + "-" * (width - 2) + "+"
+    bot = top
+    out = [top]
+    if title:
+        t_pad = (width - 2 - len(title)) // 2
+        t_line = "|" + " " * t_pad + title + " " * (width - 2 - len(title) - t_pad) + "|"
+        out.append(t_line)
+        out.append(div)
+    max_len = width - 4
+
+    rows = []
+    for r in raw_rows:
+        if r == "---":
+            rows.append("---")
+        elif len(r) <= max_len:
+            rows.append(r)
+        else:
+            words = r.split()
+            cur = []
+            cur_len = 0
+            for w in words:
+                if cur_len + len(w) + (1 if cur else 0) <= max_len:
+                    cur.append(w)
+                    cur_len += len(w) + (1 if len(cur) > 1 else 0)
+                else:
+                    if cur:
+                        rows.append(" ".join(cur))
+                    cur = [w]
+                    cur_len = len(w)
+            if cur:
+                rows.append(" ".join(cur))
+
+    for r in rows:
+        if r == "---":
+            out.append(div)
+        else:
+            pad_len = width - 2 - 1 - len(r)
+            out.append("| " + r + " " * pad_len + "|")
+    out.append(bot)
+    return "\n".join(out)
+
+# 1. Box: Quad-Style Overview
+box_overview = make_box("PROJECT SOMNARAK: QUAD-STYLE BATTLE SYSTEM ARCHITECTURE", [
+    "1. GENERIC P.S. CORE FOUNDATION (Universal Combat Engine)",
+    "   - 10-Node Room Stage Grid (Node 1 to Node 10 spatial positions).",
+    "   - Speed-to-AP Action Economy (Initiative, Movement, Clashes).",
+    "   - Macro Phase Structure (6 Battle Turns = 1 Combat Phase).",
+    "   - Dual-Resource Pool: Sorrow Gauge (0-100%) and Composure (SP).",
+    "   - Dual-Threshold Stagger Engine (Stagger 1 at 60%, Terminal 25%).",
+    "   - M.A.W. Quadripartite Armaments & 4 Sorrow Elements.",
+    "---",
+    "2. REVERIE DIRECTORATE (R.D.) STYLE — Facility Oversight & Contain",
+    "   - Operational Domain : Subterranean Facility 01 (Hand of Change).",
+    "   - Spatial Topology   : 10-Node Containment Vault & Console Grid.",
+    "   - Core Mechanic      : Echo-Core Floor Resonance (Floors 1 to 8).",
+    "   - Tactical Focus     : Mid-combat Work Cycles (Flere/Pugna/etc),",
+    "                          containment meltdowns, and colored Ordeals.",
+    "---",
+    "3. UNDERWORLD CLEANUP DESCEND (UCD) STYLE — Urban CQB & Interdict",
+    "   - Operational Domain : Undercity slums, drainage kilns, vaults.",
+    "   - Spatial Topology   : 10-Node Ingress Grid (Cordon to Sanctum).",
+    "   - Core Mechanic      : Targeted Part Dismantling (Modular Parts).",
+    "   - Tactical Focus     : In-combat forensic hacking, civilian cover,",
+    "                          and municipal collateral threshold defense.",
+    "---",
+    "4. SOMNARAK EXPLORATION DECREE (SED) STYLE — Abyssal Descents",
+    "   - Operational Domain : Unmapped karst caverns (-50m to -3,500m).",
+    "   - Spatial Topology   : 10-Node Vertical Karst & Chasm Grid.",
+    "   - Core Mechanic      : Strata Depth Atmospheric Pressure per Phase.",
+    "   - Tactical Focus     : Acoustic stealth / decibel sonar management,",
+    "                          survival attrition timers, seismic pitons,",
+    "                          and pre-cataclysm relic field excavation."
+])
+
+# 2. Box: Universal 10-Node Grid
+box_node_grid = make_box("THE UNIVERSAL 10-NODE ROOM STAGE TOPOLOGY", [
+    "[N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
+    "|--VANGUARD---| |--SKIRMISH---| |--MID-FIELD--| |--REAR LINE--|",
+    "---",
+    "Node 01-02 : Vanguard / Point Blank (Melee, Shields, Breaches)",
+    "Node 03-04 : Close Skirmish / CQB (Shotguns, SMGs, Daggers)",
+    "Node 05-06 : Mid-Field Convergence (Assault Rifles, Work Terminals)",
+    "Node 07-08 : Rear Line Overwatch (Sniper Rifles, Piton Winches)",
+    "Node 09-10 : Extreme Artillery / Sanctuary (Mortars, Hostage Berths)"
+])
+
+# 3. Box: Speed-to-AP Conversion
+box_speed_economy = make_box("SPEED-TO-ACTION POINT (AP) CONVERSION ENGINE", [
+    "Speed Roll   | Action Points (AP) | Tactical Capabilities Per Turn",
+    "-------------+--------------------+--------------------------------",
+    "Speed 1 - 2  | 1 Action Point     | 1 Basic Strike OR 1 Node Shift",
+    "Speed 3 - 4  | 2 Action Points    | 1 Move + 1 Attack OR 1 Guard",
+    "Speed 5 - 6  | 3 Action Points    | Move + Resonance Skill + Guard",
+    "Speed 7 - 8  | 4 Action Points    | Multi-Combo + Rapid Sprint",
+    "Speed 9 - 10+| 5 Action Points    | Overdrive Blitz + Spatial Flank"
+])
+
+# 4. Box: Macro Phase Cycle
+box_phase_cycle = make_box("MACRO PHASE COMBAT TIME STRUCTURE", [
+    "ONE COMBAT PHASE = SIX (6) SEQUENTIAL BATTLE TURNS",
+    "---",
+    "Turn 1 : Roll Speed -> Determine AP -> Resolve movement & clashes.",
+    "Turn 2 : Repositioning along nodes, second exchange of fire.",
+    "Turn 3 : Focus fire, part-dismantling strikes, defensive guards.",
+    "Turn 4 : Department specials, forensic decrypts, work cycles.",
+    "Turn 5 : Stagger exploitation, emergency healing, shield bracing.",
+    "Turn 6 : Climax finishers, final clash line of the phase cycle.",
+    "---",
+    "[PHASE-END EQUILIBRIUM & HAZARD TICK]",
+    "1. Environmental Check : Meltdown timer / Collateral / Depth Strain.",
+    "2. Status Decay        : Bleed / Weep damage; SP drifts toward 0.",
+    "3. Stagger Recovery    : Stagger 1 resets; Terminal Stagger checked.",
+    "4. Boss Phase Shift    : Stance change / Ordeal Ingress / Waves."
+])
+
+# 5. Box: R.D. Grid
+box_rd_grid = make_box("REVERIE DIRECTORATE (R.D.) CONTAINMENT VAULT GRID", [
+    "[N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
+    "|--ENTITY CORE--| |--BLAST GATE---| |--WORK BAFFLES-| |--TERMINAL--|",
+    "---",
+    "N01-N02 : Entity Core (Sorrow Radiation, Melee Engagement Zone)",
+    "N03-N04 : Heavy Blast Gates (Kinetic Interception, Warden Phalanx)",
+    "N05-N06 : Work Console Array (Flerehan, Pugnahan, Ferrehan, Videre)",
+    "N07-N08 : Quarantine Overwatch (Stasis Cannons, Sedative Conduits)",
+    "N09-N10 : Echo-Core Terminal (Direct Resonance to Floors 1 to 8)"
+])
+
+# 6. Box: UCD Grid
+box_ucd_grid = make_box("UNDERWORLD CLEANUP DESCEND (UCD) URBAN CQB GRID", [
+    "[N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
+    "|--BREACH CORDON| |--SLUICE ALLEY-| |--FOUNDRY FLOOR| |--SANCTUM---|",
+    "---",
+    "N01     : Breach Cordon (Entry Ram, Smoke Mortars, Breacher Shields)",
+    "N02-N03 : Tight Corridors (Shotgun Sweeps, Melee Alley Brawls)",
+    "N04-N05 : Foundry / Usury Floor (Syndicate Enforcers, Boss Parts)",
+    "N06-N07 : Server Vault (Auditor Yuna Forensic Hacking Hub)",
+    "N08-N09 : Hostage Holding Berths (Civilians, Taeho Obsidian Bastion)",
+    "N10     : Syndicate Boss Dais / Contraband Vault / Escape Pod"
+])
+
+# 7. Box: UCD Part Dismantling Interface
+box_ucd_parts = make_box("UCD TARGETED PART BREAKING INTERFACE", [
+    "[MODULE 1: EXOSKELETON CHASSIS]      HP: [100/100] DEF: 45 (ARMD)",
+    "- Function: Grants boss +30% Kinetic Armor across Nodes 3 to 5.",
+    "- Broken  : Armor reduced to 0; pilot exposed to direct Stagger.",
+    "---",
+    "[MODULE 2: CHEMICAL SPRAY CONDUIT]   HP: [ 60/ 60] RANGE: Band 2",
+    "- Function: Blasts Nodes 1-4 with corrosive acid every 2 turns.",
+    "- Broken  : Acid attack permanently disabled; spills on boss.",
+    "---",
+    "[MODULE 3: HYDRAULIC WINCH ARM]      HP: [ 40/ 40] RANGE: Band 3",
+    "- Function: Pulls operatives from Node 6 forward into Node 2 melee.",
+    "- Broken  : Winch snaps; boss loses grab and takes 25 Stagger."
+])
+
+# 8. Box: SED Grid
+box_sed_grid = make_box("SOMNARAK EXPLORATION DECREE (SED) ABYSSAL GRID", [
+    "[N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
+    "|--CHASM BRINK--| |--KARST SCREE--| |--SURVEY BASE--| |--ASCENT RIG-|",
+    "---",
+    "N01     : The Chasm Brink (-1,500m to -3,500m Void, Supercritical)",
+    "N02-N03 : Treacherous Karst Scree (Double Move Cost, Piton Target)",
+    "N04-N05 : Expedition Base Camp (Oxygen Refills, Lantern Fuel)",
+    "N06-N07 : Primordial Ruin Shelf (Before-Time Relic Dig Sites)",
+    "N08-N09 : High Stalactite Shelf (Long-Range Overwatch, Sonar Radar)",
+    "N10     : Surface Ascent Cable & Pressurized Evacuation Cradle"
+])
+
+# 9. Box: Visual Walkthrough Header
+box_walkthrough_header = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01", [
+    "[STAGE] : [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
+    "POS     :        [BELL] [JIN]           [MIN]           [RAY]",
+    "DIST    : Jin at N03 (Band 1); Min at N05 (Console); Ray at N07.",
+    "---",
+    "Jin : Speed 6 -> 3 AP | SP: +20 | Sorrow:  5% | Dekan Cleaver (B1)",
+    "Min : Speed 4 -> 2 AP | SP: +15 | Sorrow: 10% | Insight Lens (Console)",
+    "Ray : Speed 7 -> 4 AP | SP: +25 | Sorrow:  0% | Stasis Carbine (B4)",
+    "Bell: Speed 5 -> 3 AP | Sorrow: 40% | Resonant Clang, Wail (AoE)"
+])
+
+# 10. Box: Walkthrough Turns 2-6 Summary
+box_walkthrough_summary = make_box("TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)", [
+    "- Turn 02: Jin holds N02 behind shield; Bell hits 60% Stagger 1.",
+    "- Turn 03: All allied attacks deal 2.0x damage; Bell HP drops to 45%.",
+    "- Turn 04: Bell recovers; charges lethal area skill [Deafening Toll].",
+    "- Turn 05: Ray at N07 uses 2 AP to fire Stasis Bolt, canceling skill.",
+    "- Turn 06: Min completes second Work Cycle; Bell Sorrow drops to 0%."
+])
+
+# 11. Box: Walkthrough Phase Resolution
+box_walkthrough_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
+    "1. Environmental Check : Meltdown Clock advances to Level 1.",
+    "2. Status Equilibrium : Bleed ticks on Bell (-12 HP); Jin SP at +30.",
+    "3. Containment Check   : Entity Sorrow Gauge reaches 0%.",
+    "4. OUTCOME             : CLEAN CONTAINMENT — ZERO ALLIED CASUALTIES."
+])
+
+# Assembly of master document
+doc_text = f"""# Project Somnarak — Battle System Styles (전투 체계 양식록)
 ## The Four Canonical Tactical Branches of Combat & Tactical Physics
 ### Authorized by the Reverie Directorate, SED Frontier Command, and UCD High Command
 
@@ -12,39 +246,7 @@
 The combat physics of Project Somnarak are unified by a single foundational engine—**The Generic P.S. Combat Core**—while branching into three highly specialized operational styles corresponding to the three major institutions of the city:
 
 ```text
-+=====================================================================+
-|       PROJECT SOMNARAK: QUAD-STYLE BATTLE SYSTEM ARCHITECTURE       |
-+---------------------------------------------------------------------+
-| 1. GENERIC P.S. CORE FOUNDATION (Universal Combat Engine)           |
-|    - 10-Node Room Stage Grid (Node 1 to Node 10 spatial positions). |
-|    - Speed-to-AP Action Economy (Initiative, Movement, Clashes).    |
-|    - Macro Phase Structure (6 Battle Turns = 1 Combat Phase).       |
-|    - Dual-Resource Pool: Sorrow Gauge (0-100%) and Composure (SP).  |
-| - Dual-Threshold Stagger Engine (Stagger 1 at 60%, Terminal 25%).   |
-|    - M.A.W. Quadripartite Armaments & 4 Sorrow Elements.            |
-+---------------------------------------------------------------------+
-| 2. REVERIE DIRECTORATE (R.D.) STYLE — Facility Oversight & Contain  |
-| - Operational Domain : Subterranean Facility 01 (Hand of Change).   |
-|    - Spatial Topology   : 10-Node Containment Vault & Console Grid. |
-| - Core Mechanic : Echo-Core Floor Resonance (Floors 1 to 8).        |
-|    - Tactical Focus     : Mid-combat Work Cycles (Flere/Pugna/etc), |
-| containment meltdowns, and colored Ordeals.                         |
-+---------------------------------------------------------------------+
-| 3. UNDERWORLD CLEANUP DESCEND (UCD) STYLE — Urban CQB & Interdict   |
-|    - Operational Domain : Undercity slums, drainage kilns, vaults.  |
-|    - Spatial Topology   : 10-Node Ingress Grid (Cordon to Sanctum). |
-| - Core Mechanic : Targeted Part Dismantling (Modular Parts).        |
-| - Tactical Focus : In-combat forensic hacking, civilian cover,      |
-| and municipal collateral threshold defense.                         |
-+---------------------------------------------------------------------+
-| 4. SOMNARAK EXPLORATION DECREE (SED) STYLE — Abyssal Descents       |
-|    - Operational Domain : Unmapped karst caverns (-50m to -3,500m). |
-|    - Spatial Topology   : 10-Node Vertical Karst & Chasm Grid.      |
-| - Core Mechanic : Strata Depth Atmospheric Pressure per Phase.      |
-| - Tactical Focus : Acoustic stealth / decibel sonar management,     |
-| survival attrition timers, seismic pitons,                          |
-|                           and pre-cataclysm relic field excavation. |
-+=====================================================================+
+{box_overview}
 ```
 
 Every battle encounter across the narrative passages and operational sweeps adheres to three universal structural pillars:
@@ -59,19 +261,7 @@ Every battle encounter across the narrative passages and operational sweeps adhe
 To eradicate abstract positioning and give Range, Speed, and Movement concrete tactical meaning, all combat chambers in Somnarak are mapped onto a standard linear and depth track: **Nodes 1 through 10**.
 
 ```text
-+=====================================================================+
-|              THE UNIVERSAL 10-NODE ROOM STAGE TOPOLOGY              |
-+---------------------------------------------------------------------+
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
-| |--VANGUARD---| |--SKIRMISH---| |--MID-FIELD--| |--REAR LINE--|     |
-+---------------------------------------------------------------------+
-| Node 01-02 : Vanguard / Point Blank (Melee, Shields, Breaches)      |
-| Node 03-04 : Close Skirmish / CQB (Shotguns, SMGs, Daggers)         |
-| Node 05-06 : Mid-Field Convergence (Assault Rifles, Work Terminals) |
-| Node 07-08 : Rear Line Overwatch (Sniper Rifles, Piton Winches)     |
-| Node 09-10 : Extreme Artillery / Sanctuary (Mortars, Hostage        |
-| Berths)                                                             |
-+=====================================================================+
+{box_node_grid}
 ```
 
 ### 2.1 The Five Tactical Node Sectors
@@ -94,7 +284,7 @@ To eradicate abstract positioning and give Range, Speed, and Movement concrete t
 ### 2.2 Range Bands & Distance Mechanics
 
 Distance between combatants is calculated by absolute node difference:  
-$$\text{Distance (Nodes)} = |\text{Node}_{\text{Attacker}} - \text{Node}_{\text{Target}}|$$
+$$\\text{{Distance (Nodes)}} = |\\text{{Node}}_{{\\text{{Attacker}}}} - \\text{{Node}}_{{\\text{{Target}}}}|$$
 
 | Range Band | Node Distance | Real Distance | Optimal Weaponry | Damage & Accuracy Modifiers |
 |---|---|---|---|---|
@@ -127,23 +317,13 @@ Combatants do not stand stationary. Operatives utilize their Speed-allocated Act
 In Project Somnarak, **Speed is not merely turn order—it is your operational action budget**. High-speed operatives act earlier *and* accomplish substantially more actions per turn than encumbered or panicked combatants.
 
 ```text
-+=====================================================================+
-|            SPEED-TO-ACTION POINT (AP) CONVERSION ENGINE             |
-+---------------------------------------------------------------------+
-| Speed Roll   | Action Points (AP) | Tactical Capabilities Per Turn  |
-| -------------+--------------------+-------------------------------- |
-| Speed 1 - 2  | 1 Action Point     | 1 Basic Strike OR 1 Node Shift  |
-| Speed 3 - 4  | 2 Action Points    | 1 Move + 1 Attack OR 1 Guard    |
-| Speed 5 - 6  | 3 Action Points    | Move + Resonance Skill + Guard  |
-| Speed 7 - 8  | 4 Action Points    | Multi-Combo + Rapid Sprint      |
-| Speed 9 - 10+| 5 Action Points    | Overdrive Blitz + Spatial Flank |
-+=====================================================================+
+{box_speed_economy}
 ```
 
 ### 3.1 Speed Roll & Action Point (AP) Allocation
 
 At the beginning of every Battle Turn, each participant rolls their Speed Die:
-$$\text{Speed} = \text{Base Speed Attribute} + \text{Composure Modifier} + \text{Die Roll (1d6 or 1d10)}$$
+$$\\text{{Speed}} = \\text{{Base Speed Attribute}} + \\text{{Composure Modifier}} + \\text{{Die Roll (1d6 or 1d10)}}$$
 
 The rolled Speed directly unlocks **Action Points (AP)** for that turn:
 - **Speed 1–2**: 1 AP (Severely crippled or suppressed; single basic action only).
@@ -178,25 +358,7 @@ Combat progresses through a strictly regulated temporal hierarchy:
 3. **Combat Phase**: A macro-cycle consisting of **exactly six (6) Battle Turns**.
 
 ```text
-+=====================================================================+
-|                  MACRO PHASE COMBAT TIME STRUCTURE                  |
-+---------------------------------------------------------------------+
-| ONE COMBAT PHASE = SIX (6) SEQUENTIAL BATTLE TURNS                  |
-+---------------------------------------------------------------------+
-| Turn 1 : Roll Speed -> Determine AP -> Resolve movement & clashes.  |
-| Turn 2 : Repositioning along nodes, second exchange of fire.        |
-| Turn 3 : Focus fire, part-dismantling strikes, defensive guards.    |
-| Turn 4 : Department specials, forensic decrypts, work cycles.       |
-| Turn 5 : Stagger exploitation, emergency healing, shield bracing.   |
-| Turn 6 : Climax finishers, final clash line of the phase cycle.     |
-+---------------------------------------------------------------------+
-| [PHASE-END EQUILIBRIUM & HAZARD TICK]                               |
-| 1. Environmental Check : Meltdown timer / Collateral / Depth        |
-| Strain.                                                             |
-| 2. Status Decay        : Bleed / Weep damage; SP drifts toward 0.   |
-| 3. Stagger Recovery : Stagger 1 resets; Terminal Stagger checked.   |
-| 4. Boss Phase Shift    : Stance change / Ordeal Ingress / Waves.    |
-+=====================================================================+
+{box_phase_cycle}
 ```
 
 ### 4.1 The Phase-End Equilibrium & Environmental Hazard Tick
@@ -240,7 +402,7 @@ Every combatant in Somnarak balances two internal psychological gauges:
 ### 5.2 Clash Resolution Mechanics
 
 When two combatants target each other within viable Range Bands, a **Clash** occurs:
-$$\text{Total Clash Power} = \text{Base Skill Power} + \sum (\text{Heads Coins} \times \text{Coin Modifier})$$
+$$\\text{{Total Clash Power}} = \\text{{Base Skill Power}} + \\sum (\\text{{Heads Coins}} \\times \\text{{Coin Modifier}})$$
 
 - **Winner**: Lands their strike, dealing full damage and inflicting associated status effects.
 - **Loser**: Their attack is completely nullified; they take direct damage and suffer +15 Stagger buildup.
@@ -271,19 +433,7 @@ Health bars feature two distinct break thresholds:
 **Tactical Philosophy**: Containment over slaughter; methodical psychological stabilization and continuous Han-Energy harvest.
 
 ```text
-+=====================================================================+
-|          REVERIE DIRECTORATE (R.D.) CONTAINMENT VAULT GRID          |
-+---------------------------------------------------------------------+
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
-| |--ENTITY CORE--| |--BLAST GATE---| |--WORK BAFFLES-|               |
-| |--TERMINAL--|                                                      |
-+---------------------------------------------------------------------+
-| N01-N02 : Entity Core (Sorrow Radiation, Melee Engagement Zone)     |
-| N03-N04 : Heavy Blast Gates (Kinetic Interception, Warden Phalanx)  |
-| N05-N06 : Work Console Array (Flerehan, Pugnahan, Ferrehan, Videre) |
-| N07-N08 : Quarantine Overwatch (Stasis Cannons, Sedative Conduits)  |
-| N09-N10 : Echo-Core Terminal (Direct Resonance to Floors 1 to 8)    |
-+=====================================================================+
+{box_rd_grid}
 ```
 
 ### 6.1 Spatial 10-Node Containment Topology
@@ -354,21 +504,7 @@ Unlike military annihilation, R.D. teams often achieve victory by completing **W
 **Tactical Philosophy**: Urban CQB, room-to-room breach clearance, targeted structural dismantling, and civilian collateral preservation.
 
 ```text
-+=====================================================================+
-|           UNDERWORLD CLEANUP DESCEND (UCD) URBAN CQB GRID           |
-+---------------------------------------------------------------------+
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
-| |--BREACH CORDON| |--SLUICE ALLEY-| |--FOUNDRY FLOOR|               |
-| |--SANCTUM---|                                                      |
-+---------------------------------------------------------------------+
-| N01 : Breach Cordon (Entry Ram, Smoke Mortars, Breacher Shields)    |
-| N02-N03 : Tight Corridors (Shotgun Sweeps, Melee Alley Brawls)      |
-| N04-N05 : Foundry / Usury Floor (Syndicate Enforcers, Boss Parts)   |
-| N06-N07 : Server Vault (Auditor Yuna Forensic Hacking Hub)          |
-| N08-N09 : Hostage Holding Berths (Civilians, Taeho Obsidian         |
-| Bastion)                                                            |
-| N10     : Syndicate Boss Dais / Contraband Vault / Escape Pod       |
-+=====================================================================+
+{box_ucd_grid}
 ```
 
 ### 7.1 Spatial 10-Node Urban CQB Grid
@@ -388,21 +524,7 @@ UCD operations unfold through claustrophobic architectural choke points:
 UCD bosses do not fight as monolithic HP pools. They are assembled from distinct mechanical, chemical, and biological modules spanning multiple nodes:
 
 ```text
-+=====================================================================+
-|                UCD TARGETED PART BREAKING INTERFACE                 |
-+---------------------------------------------------------------------+
-| [MODULE 1: EXOSKELETON CHASSIS]      HP: [100/100] DEF: 45 (ARMD)   |
-| - Function: Grants boss +30% Kinetic Armor across Nodes 3 to 5.     |
-| - Broken  : Armor reduced to 0; pilot exposed to direct Stagger.    |
-+---------------------------------------------------------------------+
-| [MODULE 2: CHEMICAL SPRAY CONDUIT]   HP: [ 60/ 60] RANGE: Band 2    |
-| - Function: Blasts Nodes 1-4 with corrosive acid every 2 turns.     |
-| - Broken  : Acid attack permanently disabled; spills on boss.       |
-+---------------------------------------------------------------------+
-| [MODULE 3: HYDRAULIC WINCH ARM]      HP: [ 40/ 40] RANGE: Band 3    |
-| - Function: Pulls operatives from Node 6 forward into Node 2 melee. |
-| - Broken  : Winch snaps; boss loses grab and takes 25 Stagger.      |
-+=====================================================================+
+{box_ucd_parts}
 ```
 
 - **Targeting a Part**: Operatives at appropriate Range Bands spend AP to direct strikes at specific modules rather than the central boss core.
@@ -440,20 +562,7 @@ In UCD doctrine, achieving a military victory while slaughtering civilians or co
 **Tactical Philosophy**: Extreme environmental survival, acoustic stealth, long-range reconnaissance, and relic excavation.
 
 ```text
-+=====================================================================+
-|           SOMNARAK EXPLORATION DECREE (SED) ABYSSAL GRID            |
-+---------------------------------------------------------------------+
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
-| |--CHASM BRINK--| |--KARST SCREE--| |--SURVEY BASE--| |--ASCENT     |
-| RIG-|                                                               |
-+---------------------------------------------------------------------+
-| N01     : The Chasm Brink (-1,500m to -3,500m Void, Supercritical)  |
-| N02-N03 : Treacherous Karst Scree (Double Move Cost, Piton Target)  |
-| N04-N05 : Expedition Base Camp (Oxygen Refills, Lantern Fuel)       |
-| N06-N07 : Primordial Ruin Shelf (Before-Time Relic Dig Sites)       |
-| N08-N09 : High Stalactite Shelf (Long-Range Overwatch, Sonar Radar) |
-| N10     : Surface Ascent Cable & Pressurized Evacuation Cradle      |
-+=====================================================================+
+{box_sed_grid}
 ```
 
 ### 8.1 Spatial 10-Node Abyssal Cavern Topology
@@ -472,7 +581,7 @@ SED descents take place across vertically staggered cavern shelves and abyssal c
 
 The deeper the expedition descends, the greater the physical and cognitive weight of the earth:
 
-$$\text{Pressure Penalty} = f(\text{Depth Stratum}) \quad \text{evaluated at each Phase-End}$$
+$$\\text{{Pressure Penalty}} = f(\\text{{Depth Stratum}}) \\quad \\text{{evaluated at each Phase-End}}$$
 
 | Stratum & Depth Band | Atmospheric Pressure | Phase-End Environmental SP Drain | Combat Penalties & Hazard Level |
 |---|---|---|---|
@@ -521,20 +630,7 @@ Below is the definitive, canonical combat visualization template designed for di
 - **Enemy**: The Weeping Bell (Occupies Node 2).
 
 ```text
-+=====================================================================+
-|                COMBAT HUD: PHASE 01 — BATTLE TURN 01                |
-+---------------------------------------------------------------------+
-| [STAGE] :                                                           |
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
-| POS     :        [BELL] [JIN]           [MIN]           [RAY]       |
-| DIST    : Jin at N03 (Band 1); Min at N05 (Console); Ray at N07.    |
-+---------------------------------------------------------------------+
-| Jin : Speed 6 -> 3 AP | SP: +20 | Sorrow:  5% | Dekan Cleaver (B1)  |
-| Min : Speed 4 -> 2 AP | SP: +15 | Sorrow: 10% | Insight Lens        |
-| (Console)                                                           |
-| Ray : Speed 7 -> 4 AP | SP: +25 | Sorrow:  0% | Stasis Carbine (B4) |
-| Bell: Speed 5 -> 3 AP | Sorrow: 40% | Resonant Clang, Wail (AoE)    |
-+=====================================================================+
+{box_walkthrough_header}
 ```
 
 #### Turn 01 Action Resolution Log
@@ -551,31 +647,11 @@ Below is the definitive, canonical combat visualization template designed for di
   * Agent Min completes `[Flerehan Console Transmission]` from Node 5. Emotional harmonics reduce Entity Sorrow Gauge from 40% to 20%.
 
 ```text
-+=====================================================================+
-|         TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)          |
-+---------------------------------------------------------------------+
-| - Turn 02: Jin holds N02 behind shield; Bell hits 60% Stagger 1.    |
-| - Turn 03: All allied attacks deal 2.0x damage; Bell HP drops to    |
-| 45%.                                                                |
-| - Turn 04: Bell recovers; charges lethal area skill [Deafening      |
-| Toll].                                                              |
-| - Turn 05: Ray at N07 uses 2 AP to fire Stasis Bolt, canceling      |
-| skill.                                                              |
-| - Turn 06: Min completes second Work Cycle; Bell Sorrow drops to    |
-| 0%.                                                                 |
-+=====================================================================+
+{box_walkthrough_summary}
 ```
 
 ```text
-+=====================================================================+
-|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
-+---------------------------------------------------------------------+
-| 1. Environmental Check : Meltdown Clock advances to Level 1.        |
-| 2. Status Equilibrium : Bleed ticks on Bell (-12 HP); Jin SP at     |
-| +30.                                                                |
-| 3. Containment Check   : Entity Sorrow Gauge reaches 0%.            |
-| 4. OUTCOME : CLEAN CONTAINMENT — ZERO ALLIED CASUALTIES.            |
-+=====================================================================+
+{box_walkthrough_phase}
 ```
 
 ---
@@ -601,3 +677,51 @@ When writing or revising battle sequences across canonical chronicles (`SOMNARAK
 - **Compiler**: General Staff Coalition (R.D. / UCD / SED)
 - **Authority**: High Council Supreme Tactical Directive
 - **Baseline Standard**: 100% Authoritative V.1.0 Standard (Zero file-embedded confessions)
+"""
+
+check_banned(doc_text, "SOMNARAK_BATTLE_SYSTEM_STYLES.md")
+
+out_path = "SOMNARAK-WORLD/Master_Codices/SOMNARAK_BATTLE_SYSTEM_STYLES.md"
+with open(out_path, "w", encoding="utf-8") as f:
+    f.write(doc_text)
+print(f"Generated {out_path} ({len(doc_text)} characters)")
+
+# Update SOMNARAK_BATTLE_SYSTEM.md with reference to 10-node grid and 6-turn phases
+with open("SOMNARAK-WORLD/Master_Codices/SOMNARAK_BATTLE_SYSTEM.md", "r", encoding="utf-8") as f:
+    bat_text = f.read()
+
+section_vii_expanded = """
+---
+
+## VII. The Four Operational Combat Styles (사대 전투 양식)
+
+Combat doctrine across Somnarak is codified into four distinct operational branches, formally detailed in `SOMNARAK_BATTLE_SYSTEM_STYLES.md`. All branches utilize the universal spatial and temporal framework:
+- **The 10-Node Room Stage Grid (Node 1 to Node 10)**: Real spatial positioning mapping to Range Bands 1 through 5, dictating movement costs, cover mechanics, and interception clashes.
+- **Speed-Driven Action Economy**: Speed Die rolls directly determine each combatant's **Action Points (AP)** per Battle Turn (Speed 1–2 = 1 AP, up to Speed 9–10+ = 5 AP).
+- **Macro Phase Combat Structure**: Exactly **six (6) Battle Turns compose one (1) Combat Phase**, concluding in systemic Phase-End Environmental Hazard and Equilibrium checks.
+
+### The Four Branches:
+1. **Generic P.S. Combat Core (The Universal Engine)**: Universal mechanics of Speed Dice, Clash resolution, SP Composure (-45 to +45), Sorrow Gauges (0–100%), Dual-Threshold Stagger (60% and 25%), and Quadripartite M.A.W. armaments.
+2. **Reverie Directorate (R.D.) Style**: Facility containment operations governed by the **Nine Echo-Cores** (Floors 1 to 8), mid-combat Work Cycle execution (Ferrehan, Flerehan, Pugnahan, Viderehan), emergency sector lockdown gates, and multi-color Ordeal suppression across the 10-node containment vault.
+3. **Underworld Cleanup Descend (UCD) Style**: Urban CQB across The Raw, featuring **Targeted Part Dismantling** (shattering enemy exoskeletons and weapon manifolds), in-combat forensic auditing by Yuna, and non-lethal hostage/foundation preservation behind Taeho's Obsidian Bastion.
+4. **Somnarak Exploration Decree (SED) Style**: Subterranean abyssal descents governed by **Strata Depth Atmospheric Pressure** (-50m to -3,500m), acoustic sonar decibel stealth to prevent awakening dormant behemoths, oxygen/fuel burn timers, and seismic piton anchoring.
+
+*(For full mathematical formulas, node wireframes, AP spending menus, and complete turn flowcharts, refer to the authoritative master codex: `SOMNARAK_BATTLE_SYSTEM_STYLES.md`).*
+"""
+
+# Replace Section VII if present or append
+if "## VII. The Four Operational Combat Styles" in bat_text:
+    idx = bat_text.index("## VII. The Four Operational Combat Styles")
+    sep_idx = bat_text.rfind("---", 0, idx)
+    if sep_idx != -1:
+        bat_text = bat_text[:sep_idx].rstrip() + "\n" + section_vii_expanded
+    else:
+        bat_text = bat_text[:idx].rstrip() + "\n" + section_vii_expanded
+else:
+    bat_text = bat_text.rstrip() + "\n" + section_vii_expanded
+
+check_banned(bat_text, "SOMNARAK_BATTLE_SYSTEM.md")
+
+with open("SOMNARAK-WORLD/Master_Codices/SOMNARAK_BATTLE_SYSTEM.md", "w", encoding="utf-8") as f:
+    f.write(bat_text)
+print("Updated SOMNARAK-WORLD/Master_Codices/SOMNARAK_BATTLE_SYSTEM.md successfully!")
