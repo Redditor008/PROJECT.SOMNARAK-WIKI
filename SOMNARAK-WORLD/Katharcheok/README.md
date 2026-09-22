@@ -45,7 +45,7 @@ The **Katharcheok Chronicles** record the comprehensive six-phase urban warfare 
 
 The tactical campaign of the UCD unfolds across six high-intensity operational records:
 
-1. **[Operation 1: The Veil Merchants](Operation_1_The_Veil_Merchants.md)** (Velumtal / 가면포 — Zone D: The Mask Market)
+1. **[Operation 1: The Veil Merchants](Operation_1_Velumtal.md)** (Velumtal / 가면포 — Zone D: The Mask Market)
    - Strike team infiltration of the counterfeit Veil stone factories operating beneath the Mantle Commons. Tactical raid, asset seizure, and dismantling of the black-market cloaking network.
 2. **[Operation 2: The Memory Washers](Operation_2_The_Memory_Washers.md)** (Lethepyo / 표백원 — Zones B & C: The Bleached Wards)
    - Investigation into the illegal identity-stripping laboratories where citizens' memories are washed and auctioned. Infiltrator Echo provides inside coordinates to locate the primary wash-rig.

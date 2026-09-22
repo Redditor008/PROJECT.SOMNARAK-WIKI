@@ -1,4 +1,186 @@
-# KATHARCHEOK — Operation 1: Velumtal (지하 정화 소탕록 제1장: 가면포 / 假面市場)
+#!/usr/bin/env python3
+import sys
+
+def make_box_71(title, lines):
+    border = "+=====================================================================+"
+    sub_border = "+---------------------------------------------------------------------+"
+    res = [border]
+    title_str = f"| {title.center(67)} |"
+    res.append(title_str)
+    res.append(sub_border)
+    for l in lines:
+        if l == "---":
+            res.append(sub_border)
+        else:
+            if len(l) > 67:
+                raise ValueError(f"Line too long ({len(l)} > 67): {repr(l)}")
+            padded = l.ljust(67)
+            res.append(f"| {padded} |")
+    res.append(border)
+    return "\n".join(res)
+
+all_rounds = [
+    ("TURN 1: KINETIC INGRESS & PHALANX LOCKDOWN", [
+        "CLASH 1: Boss Gwangseok vs Commander Taeho",
+        "  > Boss Skill: [Anvil Cleave] (Atk Power 24, Blunt/Crush)",
+        "  > Taeho Skill: [Phalanx Bastion] (Def Power 28, Kinetic Shield)",
+        "  > Clash Result: Taeho WINS (Power 28 vs 24).",
+        "    Kinetic shock absorbed.",
+        "  > Taeho reflects 140 kinetic tremor damage back to Exoskeleton.",
+        "---",
+        "CLASH 2: Foundry Enforcers (x2) vs Engineer Joon",
+        "  > Enforcer Skill: [Pressurized Slag Throw]",
+        "    (Atk Power 18, Thermal Burn)",
+        "  > Joon Skill: [Magnetic Barricade] (Def Power 22, Alloy Shield)",
+        "  > Clash Result: Joon WINS. Slag deflected into concrete floor.",
+        "---",
+        "TACTICAL MANEUVERS:",
+        "  * Yuna: Casts [Forensic Monocle]",
+        "    Analyzes Forging Hammer weakness.",
+        "  * Minho: Fires [Neural Needle] -> Deals 210 Pierce to Gwangseok.",
+        "  * Soojin: Deploys [Resonance Snare]",
+        "    Bounds SECC-019 containment.",
+        "  * Echo: Activates [Shadow Cloak] -> Slips into rear blind spot.",
+        "---",
+        "ROUND 1 DAMAGE TOTALS:",
+        "  * Boss Gwangseok HP: 5,050 / 5,400 (Exoskeleton: 1,450 / 1,800)",
+        "  * Squad Status: All 6 Officers uninjured. Composure: 45 / 50 SP."
+    ]),
+    ("TURN 2: EMP DISRUPTION & CLOAKING SHATTER", [
+        "CLASH 1: Boss Gwangseok vs Auditor Yuna",
+        "  > Boss Skill: [Counterfeit Cloak Burst]",
+        "    (Atk Power 22, Evasion Up)",
+        "  > Yuna Skill: [Veil EMP Disruptor] (Atk Power 27, EMP Overload)",
+        "  > Clash Result: Yuna WINS (Power 27 vs 22). EMP wave detonates.",
+        "  > Gwangseok false cloaking gems overload and shatter into dust.",
+        "  > Gwangseok suffers 320 Pale resonance shock.",
+        "    Evasion dropped to 0.",
+        "---",
+        "CLASH 2: SECC-019 vs Handler Soojin",
+        "  > Entity Skill: [Grief Vapor Shroud]",
+        "    (Atk Power 20, Hallucination)",
+        "  > Soojin Skill: [Lead Seal Gauntlets]",
+        "    (Def Power 25, Damping Field)",
+        "  > Clash Result: Soojin WINS.",
+        "    Sorrow vapor siphoned into lead filter.",
+        "---",
+        "TACTICAL MANEUVERS:",
+        "  * Echo: Strikes from stealth with [Stiletto Flank]",
+        "    Deals 340 Slash damage.",
+        "  * Taeho: Hits Exoskeleton with [Heavy Baton]",
+        "    Inflicts 3 Tremor.",
+        "  * Joon: Prepares [Hydraulic Ram] for subsequent round breach.",
+        "---",
+        "ROUND 2 DAMAGE TOTALS:",
+        "  * Boss Gwangseok HP: 4,390 / 5,400 (Exoskeleton: 790 / 1,800)",
+        "  * Squad Status: Composure stable at 46 / 50 SP. No casualties."
+    ]),
+    ("TURN 3: SAPPING THE FORGE & STAGGER THRESHOLD 1", [
+        "CLASH 1: Boss Gwangseok vs Engineer Joon",
+        "  > Boss Skill: [Sledgehammer Execution]",
+        "    (Atk Power 26, Heavy Blunt)",
+        "  > Joon Skill: [Hydraulic Impact Ram]",
+        "    (Atk Power 31, Structural Sapping)",
+        "  > Clash Result: Joon WINS (Power 31 vs 26).",
+        "    Ram hits Hammer joint.",
+        "  > PART BROKEN: [The Forging Hammer] destroyed!",
+        "    (1,200 / 1,200 HP lost).",
+        "  > Severe recoil shatters pneumatic conduits on torso.",
+        "---",
+        "STAGGER 1 TRIGGERED: Total Boss HP drops below 3,800 HP!",
+        "  * Boss Gwangseok enters STAGGER!",
+        "    Physical defenses reduced by 50%.",
+        "  * All enemy counter-stances canceled for remainder of the turn.",
+        "---",
+        "PUNISHMENT STRIKES:",
+        "  * Taeho: [Acoustic Crackdown] deals 360 Blunt",
+        "    damage (Critical Hit!).",
+        "  * Minho: [Cryo-Needle] deals 280 Pierce, freezing fuel lines.",
+        "---",
+        "ROUND 3 DAMAGE TOTALS:",
+        "  * Boss Gwangseok HP: 3,750 / 5,400",
+        "    (Exoskeleton destroyed: 0 / 1,800)",
+        "  * Gwangseok Staggered! Squad Composure rises to 48 / 50 SP."
+    ]),
+    ("TURN 4: THE ENTITY FRENZY & RESONANCE RECOVERY", [
+        "ENCOUNTER EVENT: Gwangseok breaks emergency seal on cage!",
+        "  * SECC-019 enters Berserk State (+4 Attack Power).",
+        "---",
+        "CLASH 1: SECC-019 vs Handler Soojin",
+        "  > Entity Skill: [Delusion of the False Sky]",
+        "    (Atk Power 28, Area Shock)",
+        "  > Soojin Skill: [Lead Damping Bubble]",
+        "    (Def Power 30, Vacuum Barrier)",
+        "  > Clash Result: Soojin WINS (Power 30 vs 28).",
+        "    Vacuum bubble absorbs psychic pulse.",
+        "---",
+        "CLASH 2: Recovered Gwangseok vs Commander Taeho",
+        "  > Gwangseok Skill: [Desperate Brawler Punch]",
+        "    (Atk Power 16, Blunt)",
+        "  > Taeho Skill: [Baton Parry] (Def Power 24, Acoustic Counter)",
+        "  > Clash Result: Taeho WINS.",
+        "    Gwangseok knocked back against furnace.",
+        "---",
+        "TACTICAL MANEUVERS:",
+        "  * Yuna: Casts [Asset Foreclosure]",
+        "    Locks SECC-019 secondary core.",
+        "  * Minho: Restores +15 SP to Soojin using [Mnemonic Recall].",
+        "  * Echo: Repositions behind the entity primary resonance valve.",
+        "---",
+        "ROUND 4 DAMAGE TOTALS:",
+        "  * SECC-019 HP: 1,980 / 2,400 | Total Encounter HP: 2,980 / 5,400",
+        "  * Squad Composure: 50 / 50 SP (Synchronized Lucidity achieved!)."
+    ]),
+    ("TURN 5: NEURAL INCLINATION & STAGGER THRESHOLD 2", [
+        "CLASH 1: SECC-019 vs Infiltrator Echo",
+        "  > Entity Skill: [Suffocating False Embrace]",
+        "    (Atk Power 23, Pierce)",
+        "  > Echo Skill: [Stiletto Sever from Stealth] (Atk Power 32, Slash)",
+        "  > Clash Result: Echo WINS (Power 32 vs 23).",
+        "    Critical strike on core!",
+        "  > Echo slices synthetic sorrow conduits feeding the shroud.",
+        "---",
+        "TACTICAL TARGETING: Investigator Minho",
+        "  > Minho Skill: [Neural Inscription Lance]",
+        "    (Atk Power 29, Piercing Cryo)",
+        "  > Hits exposed resonance valve -> Deals 480 freezing damage.",
+        "---",
+        "STAGGER 2 TRIGGERED: Total Encounter HP drops below 1,800 HP!",
+        "  * Both Boss Gwangseok and SECC-019 enter Terminal Stagger!",
+        "  * Gwangseok drops to both knees; SECC-019 shroud collapses.",
+        "---",
+        "ROUND 5 DAMAGE TOTALS:",
+        "  * Boss Gwangseok HP: 600 / 3,000 | SECC-019 HP: 850 / 2,400",
+        "  * Total Encounter HP: 1,450 / 5,400 (Terminal Stagger Procs!)."
+    ]),
+    ("TURN 6: OVERDRIVE PACIFICATION & LEADING CASK SEAL", [
+        "FINAL EXECUTIONS & OVERDRIVE RESOLUTION:",
+        "CLASH 1: Commander Taeho vs Boss Gwangseok",
+        "  > Taeho Overdrive: [Iron Verdict] (Cost: 35 SP)",
+        "    Decree of Unbroken Order unleashed.",
+        "  > Taeho strikes with tungsten truncheon discharging 120 dB wave.",
+        "  > Deals 600 heavy Blunt concussion damage to Gwangseok.",
+        "  > Boss Gwangseok HP: 0 / 3,000. INCAPACITATED & ARRESTED!",
+        "---",
+        "CLASH 2: Handler Soojin vs SECC-019",
+        "  > Soojin Overdrive: [Quarantine Mandate] (Cost: 35 SP)",
+        "    Zero Leakage protocol activated.",
+        "  > Soojin deploys Class-IV leaded vacuum cask with basalt seal.",
+        "  > SECC-019 remaining emotional fluid siphoned into lead vault.",
+        "  > Entity HP: 0 / 2,400. SAFELY CONTAINED WITHOUT CASUALTIES!",
+        "---",
+        "PACIFICATION RESOLUTION: COMPLETE VICTORY!",
+        "  * Boss Gwangseok: Subdued and handcuffed.",
+        "    Remanded to Warden custody.",
+        "  * SECC-019: Sealed in lead cask.",
+        "    Logged for RD Maw Keep transfer.",
+        "  * Civilian Workers: 12 liberated and shielded. Zero casualties."
+    ])
+]
+
+round_boxes = [make_box_71(title, lines) for title, lines in all_rounds]
+
+full_content = f"""# KATHARCHEOK — Operation 1: Velumtal (지하 정화 소탕록 제1장: 가면포 / 假面市場)
 ## Underworld Sweep 1: Counterfeit Veil Foundries & The Mask Market Raid
 
 | Operational Attribute | Mission Specification |
@@ -213,189 +395,27 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
 ```
 
 ```text
-+=====================================================================+
-|              TURN 1: KINETIC INGRESS & PHALANX LOCKDOWN             |
-+---------------------------------------------------------------------+
-| CLASH 1: Boss Gwangseok vs Commander Taeho                          |
-|   > Boss Skill: [Anvil Cleave] (Atk Power 24, Blunt/Crush)          |
-|   > Taeho Skill: [Phalanx Bastion] (Def Power 28, Kinetic Shield)   |
-|   > Clash Result: Taeho WINS (Power 28 vs 24).                      |
-|     Kinetic shock absorbed.                                         |
-|   > Taeho reflects 140 kinetic tremor damage back to Exoskeleton.   |
-+---------------------------------------------------------------------+
-| CLASH 2: Foundry Enforcers (x2) vs Engineer Joon                    |
-|   > Enforcer Skill: [Pressurized Slag Throw]                        |
-|     (Atk Power 18, Thermal Burn)                                    |
-|   > Joon Skill: [Magnetic Barricade] (Def Power 22, Alloy Shield)   |
-|   > Clash Result: Joon WINS. Slag deflected into concrete floor.    |
-+---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-|   * Yuna: Casts [Forensic Monocle]                                  |
-|     Analyzes Forging Hammer weakness.                               |
-|   * Minho: Fires [Neural Needle] -> Deals 210 Pierce to Gwangseok.  |
-|   * Soojin: Deploys [Resonance Snare]                               |
-|     Bounds SECC-019 containment.                                    |
-|   * Echo: Activates [Shadow Cloak] -> Slips into rear blind spot.   |
-+---------------------------------------------------------------------+
-| ROUND 1 DAMAGE TOTALS:                                              |
-|   * Boss Gwangseok HP: 5,050 / 5,400 (Exoskeleton: 1,450 / 1,800)   |
-|   * Squad Status: All 6 Officers uninjured. Composure: 45 / 50 SP.  |
-+=====================================================================+
+{round_boxes[0]}
 ```
 
 ```text
-+=====================================================================+
-|              TURN 2: EMP DISRUPTION & CLOAKING SHATTER              |
-+---------------------------------------------------------------------+
-| CLASH 1: Boss Gwangseok vs Auditor Yuna                             |
-|   > Boss Skill: [Counterfeit Cloak Burst]                           |
-|     (Atk Power 22, Evasion Up)                                      |
-|   > Yuna Skill: [Veil EMP Disruptor] (Atk Power 27, EMP Overload)   |
-|   > Clash Result: Yuna WINS (Power 27 vs 22). EMP wave detonates.   |
-|   > Gwangseok false cloaking gems overload and shatter into dust.   |
-|   > Gwangseok suffers 320 Pale resonance shock.                     |
-|     Evasion dropped to 0.                                           |
-+---------------------------------------------------------------------+
-| CLASH 2: SECC-019 vs Handler Soojin                                 |
-|   > Entity Skill: [Grief Vapor Shroud]                              |
-|     (Atk Power 20, Hallucination)                                   |
-|   > Soojin Skill: [Lead Seal Gauntlets]                             |
-|     (Def Power 25, Damping Field)                                   |
-|   > Clash Result: Soojin WINS.                                      |
-|     Sorrow vapor siphoned into lead filter.                         |
-+---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-|   * Echo: Strikes from stealth with [Stiletto Flank]                |
-|     Deals 340 Slash damage.                                         |
-|   * Taeho: Hits Exoskeleton with [Heavy Baton]                      |
-|     Inflicts 3 Tremor.                                              |
-|   * Joon: Prepares [Hydraulic Ram] for subsequent round breach.     |
-+---------------------------------------------------------------------+
-| ROUND 2 DAMAGE TOTALS:                                              |
-|   * Boss Gwangseok HP: 4,390 / 5,400 (Exoskeleton: 790 / 1,800)     |
-|   * Squad Status: Composure stable at 46 / 50 SP. No casualties.    |
-+=====================================================================+
+{round_boxes[1]}
 ```
 
 ```text
-+=====================================================================+
-|           TURN 3: SAPPING THE FORGE & STAGGER THRESHOLD 1           |
-+---------------------------------------------------------------------+
-| CLASH 1: Boss Gwangseok vs Engineer Joon                            |
-|   > Boss Skill: [Sledgehammer Execution]                            |
-|     (Atk Power 26, Heavy Blunt)                                     |
-|   > Joon Skill: [Hydraulic Impact Ram]                              |
-|     (Atk Power 31, Structural Sapping)                              |
-|   > Clash Result: Joon WINS (Power 31 vs 26).                       |
-|     Ram hits Hammer joint.                                          |
-|   > PART BROKEN: [The Forging Hammer] destroyed!                    |
-|     (1,200 / 1,200 HP lost).                                        |
-|   > Severe recoil shatters pneumatic conduits on torso.             |
-+---------------------------------------------------------------------+
-| STAGGER 1 TRIGGERED: Total Boss HP drops below 3,800 HP!            |
-|   * Boss Gwangseok enters STAGGER!                                  |
-|     Physical defenses reduced by 50%.                               |
-|   * All enemy counter-stances canceled for remainder of the turn.   |
-+---------------------------------------------------------------------+
-| PUNISHMENT STRIKES:                                                 |
-|   * Taeho: [Acoustic Crackdown] deals 360 Blunt                     |
-|     damage (Critical Hit!).                                         |
-|   * Minho: [Cryo-Needle] deals 280 Pierce, freezing fuel lines.     |
-+---------------------------------------------------------------------+
-| ROUND 3 DAMAGE TOTALS:                                              |
-|   * Boss Gwangseok HP: 3,750 / 5,400                                |
-|     (Exoskeleton destroyed: 0 / 1,800)                              |
-|   * Gwangseok Staggered! Squad Composure rises to 48 / 50 SP.       |
-+=====================================================================+
+{round_boxes[2]}
 ```
 
 ```text
-+=====================================================================+
-|            TURN 4: THE ENTITY FRENZY & RESONANCE RECOVERY           |
-+---------------------------------------------------------------------+
-| ENCOUNTER EVENT: Gwangseok breaks emergency seal on cage!           |
-|   * SECC-019 enters Berserk State (+4 Attack Power).                |
-+---------------------------------------------------------------------+
-| CLASH 1: SECC-019 vs Handler Soojin                                 |
-|   > Entity Skill: [Delusion of the False Sky]                       |
-|     (Atk Power 28, Area Shock)                                      |
-|   > Soojin Skill: [Lead Damping Bubble]                             |
-|     (Def Power 30, Vacuum Barrier)                                  |
-|   > Clash Result: Soojin WINS (Power 30 vs 28).                     |
-|     Vacuum bubble absorbs psychic pulse.                            |
-+---------------------------------------------------------------------+
-| CLASH 2: Recovered Gwangseok vs Commander Taeho                     |
-|   > Gwangseok Skill: [Desperate Brawler Punch]                      |
-|     (Atk Power 16, Blunt)                                           |
-|   > Taeho Skill: [Baton Parry] (Def Power 24, Acoustic Counter)     |
-|   > Clash Result: Taeho WINS.                                       |
-|     Gwangseok knocked back against furnace.                         |
-+---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-|   * Yuna: Casts [Asset Foreclosure]                                 |
-|     Locks SECC-019 secondary core.                                  |
-|   * Minho: Restores +15 SP to Soojin using [Mnemonic Recall].       |
-|   * Echo: Repositions behind the entity primary resonance valve.    |
-+---------------------------------------------------------------------+
-| ROUND 4 DAMAGE TOTALS:                                              |
-|   * SECC-019 HP: 1,980 / 2,400 | Total Encounter HP: 2,980 / 5,400  |
-|   * Squad Composure: 50 / 50 SP (Synchronized Lucidity achieved!).  |
-+=====================================================================+
+{round_boxes[3]}
 ```
 
 ```text
-+=====================================================================+
-|           TURN 5: NEURAL INCLINATION & STAGGER THRESHOLD 2          |
-+---------------------------------------------------------------------+
-| CLASH 1: SECC-019 vs Infiltrator Echo                               |
-|   > Entity Skill: [Suffocating False Embrace]                       |
-|     (Atk Power 23, Pierce)                                          |
-|   > Echo Skill: [Stiletto Sever from Stealth] (Atk Power 32, Slash) |
-|   > Clash Result: Echo WINS (Power 32 vs 23).                       |
-|     Critical strike on core!                                        |
-|   > Echo slices synthetic sorrow conduits feeding the shroud.       |
-+---------------------------------------------------------------------+
-| TACTICAL TARGETING: Investigator Minho                              |
-|   > Minho Skill: [Neural Inscription Lance]                         |
-|     (Atk Power 29, Piercing Cryo)                                   |
-|   > Hits exposed resonance valve -> Deals 480 freezing damage.      |
-+---------------------------------------------------------------------+
-| STAGGER 2 TRIGGERED: Total Encounter HP drops below 1,800 HP!       |
-|   * Both Boss Gwangseok and SECC-019 enter Terminal Stagger!        |
-|   * Gwangseok drops to both knees; SECC-019 shroud collapses.       |
-+---------------------------------------------------------------------+
-| ROUND 5 DAMAGE TOTALS:                                              |
-|   * Boss Gwangseok HP: 600 / 3,000 | SECC-019 HP: 850 / 2,400       |
-|   * Total Encounter HP: 1,450 / 5,400 (Terminal Stagger Procs!).    |
-+=====================================================================+
+{round_boxes[4]}
 ```
 
 ```text
-+=====================================================================+
-|          TURN 6: OVERDRIVE PACIFICATION & LEADING CASK SEAL         |
-+---------------------------------------------------------------------+
-| FINAL EXECUTIONS & OVERDRIVE RESOLUTION:                            |
-| CLASH 1: Commander Taeho vs Boss Gwangseok                          |
-|   > Taeho Overdrive: [Iron Verdict] (Cost: 35 SP)                   |
-|     Decree of Unbroken Order unleashed.                             |
-|   > Taeho strikes with tungsten truncheon discharging 120 dB wave.  |
-|   > Deals 600 heavy Blunt concussion damage to Gwangseok.           |
-|   > Boss Gwangseok HP: 0 / 3,000. INCAPACITATED & ARRESTED!         |
-+---------------------------------------------------------------------+
-| CLASH 2: Handler Soojin vs SECC-019                                 |
-|   > Soojin Overdrive: [Quarantine Mandate] (Cost: 35 SP)            |
-|     Zero Leakage protocol activated.                                |
-|   > Soojin deploys Class-IV leaded vacuum cask with basalt seal.    |
-|   > SECC-019 remaining emotional fluid siphoned into lead vault.    |
-|   > Entity HP: 0 / 2,400. SAFELY CONTAINED WITHOUT CASUALTIES!      |
-+---------------------------------------------------------------------+
-| PACIFICATION RESOLUTION: COMPLETE VICTORY!                          |
-|   * Boss Gwangseok: Subdued and handcuffed.                         |
-|     Remanded to Warden custody.                                     |
-|   * SECC-019: Sealed in lead cask.                                  |
-|     Logged for RD Maw Keep transfer.                                |
-|   * Civilian Workers: 12 liberated and shielded. Zero casualties.   |
-+=====================================================================+
+{round_boxes[5]}
 ```
 
 ---
@@ -483,3 +503,9 @@ With the Veil Merchants' primary manufacturing foundries dismantled, intelligenc
 
 - **Next Chapter:** `Operation_2_The_Memory_Washers.md` (Lethepyo / 표백원)
 - **Sector Target:** Zones B & C — The Bleached Wards
+"""
+
+with open("SOMNARAK-WORLD/Katharcheok/Operation_1_Velumtal.md", "w", encoding="utf-8") as f:
+    f.write(full_content)
+
+print(f"Successfully generated Operation_1_Velumtal.md ({len(full_content)} chars)")

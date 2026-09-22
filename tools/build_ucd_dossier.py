@@ -450,7 +450,7 @@ The primary combat operations of the UCD are documented in the **Katharcheok Chr
   * Master Story Compilation: `SOMNARAK-WORLD/Master_Codices/SOMNARAK_UCD_PACIFICATION.md`
   * Monolithic Operational Codex: `SOMNARAK-WORLD/Master_Codices/SOMNARAK_UCD.md`
   * Tactical Field Guidebook: `SOMNARAK-WORLD/Katharcheok/KATHARCHEOK_OVERVIEW.md`
-  * Operational Volumes: `SOMNARAK-WORLD/Katharcheok/` (`Operation_1_The_Veil_Merchants.md` to `Operation_6_The_Underworld_King.md`)
+  * Operational Volumes: `SOMNARAK-WORLD/Katharcheok/` (`Operation_1_Velumtal.md` to `Operation_6_The_Underworld_King.md`)
 
 ---
 
