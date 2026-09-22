@@ -246,235 +246,352 @@ The forty thousand Echoes ignited in a blinding blaze of Crimson Grudge! The Hol
 
 ```text
 +=====================================================================+
-|          TURN 1: KINETIC INGRESS & ROYAL CLEAVE DEFLECTION          |
+|        TARGET DOSSIER: GRAND PATRIARCH CHEON & SE-C-IIIγ-490        |
 +---------------------------------------------------------------------+
-| CLASH 1: King Kang-hyuk vs Commander Taeho                          |
-|   > Boss Skill: [Decree of the Sunken King] (Atk Power 29, Slash)   |
-|   > Taeho Skill: [Phalanx Bastion: Obsidian Wall] (Def Power 33)    |
-|   > Clash Result: Taeho WINS (Power 33 vs 29).                      |
-|     Kinetic shield absorbs the eight-foot Royal Cleaver blow.       |
-|   > Taeho reflects 190 kinetic tremor damage back to Royal Armor.   |
+| APEX TARGET        : Grand Patriarch Cheon ('The Sunken King')      |
+| MODULAR WEAPON     : Crown Scepter Weapon Arm (Heavy Blunt/Pale Sho |
+| CONTRABAND ENTITY  : SE-C-IIIγ-490 'The Hollow Knight' (ALEPH Threa |
+| ESCORT MINIONS     : Royal Guard Enforcers (x2) & Heavy Spearmen    |
+| ENCOUNTER DOMAIN   : Zone B Sunken Citadel Royal Throne Room (-350m |
 +---------------------------------------------------------------------+
-| CLASH 2: Praetorian Guards (x2) vs Sapper Joon                      |
-|   > Guard Skill: [Ceremonial Halberd Thrust] (Atk Power 23, Pierce) |
-| > Joon Skill: [Deployable Mantlet Barrier] (Def Power 27, Kinetic)  |
-|   > Clash Result: Joon WINS. Halberds deflect off titanium plate.   |
+| BOSS COMBAT PROFILE (GRAND PATRIARCH CHEON):                        |
+| - Sovereign Rig HP : 2,600 HP | Core Body HP: 2,400 HP (Total 5,000 |
+| - Crown Scepter HP : 1,800 HP (Modular Destructible Weapon Part)    |
+| - Posture Pool     : 260/260 (Dual Threshold Stagger System)        |
+| - Stagger 1 Proc   : 60% Posture Strain (156 Posture) / Scepter Bre |
+| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Stagger / Cask R |
+| - Primary Attack   : Sovereign Cleave Slam & Royal Lightning Cleave |
 +---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-|   * Yuna: Casts [Cipher-Scan: Royal Frequency]                      |
-|     Scans throne energy conduits and Cleaver balance fulcrum.       |
-|   * Minho: Fires [Neural Lancet: Calibrated Dart]                   |
-|     Deals 280 Pierce damage to Kang-hyuk's chestplate.              |
-|   * Soojin: Deploys [Sedative Resonance Ward]                       |
-|     Calms ancient sorrow pressure radiating from throne dais.       |
-|   * Echo: Activates [Shadow Cloak] -> Slips into vaulted rafters.   |
-+---------------------------------------------------------------------+
-| ROUND 1 DAMAGE TOTALS:                                              |
-| * Kang-hyuk Royal Plate Armor HP: 2,600 -> 2,130 / 2,600 (-470 HP)  |
-|   * Royal Foundation Cleaver HP: 2,000 / 2,000                      |
-|   * SE-C-IVγ-073 Sorrow Throne Core HP: 3,800 / 3,800               |
-|   * Combined Target HP: 7,930 / 8,400 | UCD Composure: 100%         |
-+=====================================================================+
-```
-
-```text
-+=====================================================================+
-|            TURN 2: SAPPING POWER CONDUITS & FREQUENCY JAM           |
-+---------------------------------------------------------------------+
-| CLASH 1: King Kang-hyuk vs Sapper Joon                              |
-| > Boss Skill: [Sovereign Ground Cleave] (Atk Power 27, Heavy Blunt) |
-|   > Joon Skill: [Hydraulic Kinetic Ram] (Atk Power 31, Heavy Blunt) |
-|   > Clash Result: Joon WINS (Power 31 vs 27).                       |
-|     Hydraulic ram shatters the primary throne conduit line!         |
-|   > Deals 620 Blunt damage to Royal Foundation Cleaver.             |
-+---------------------------------------------------------------------+
-| CLASH 2: SE-C-IVγ-073 'Hollow Knight' vs Auditor Yuna               |
-| > Entity Skill: [Crimson Royal Vigil] (Atk Power 25, Grudge/Slash)  |
-|   > Yuna Skill: [Cipher-Pulse: Damping Wall] (Def Power 29, EMP)    |
-|   > Clash Result: Yuna WINS. EMP pulse disrupts knight's aura.      |
-+---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-|   * Taeho: Uses [Shield Bash: Heavy Tremor]                         |
-|     Deals 320 Blunt damage to Royal Plate Armor.                    |
-|   * Minho: Casts [Memory Anchor: Cognitive Salve]                   |
-|     Reinforces squad mental composure (+15 SP).                     |
-|   * Soojin: Deploys [Resonance Snare: Cold Iron]                    |
-|     Restricts movements of the Hollow Knight armor joints.          |
-|   * Echo: Slices secondary power line from overhead chandelier.     |
-+---------------------------------------------------------------------+
-| ROUND 2 DAMAGE TOTALS:                                              |
-| * Kang-hyuk Royal Plate Armor HP: 2,130 -> 1,810 / 2,600 (-320 HP)  |
-|   * Royal Foundation Cleaver HP: 2,000 -> 1,380 / 2,000 (-620 HP)   |
-| * SE-C-IVγ-073 Sorrow Throne Core HP: 3,800 -> 3,460 / 3,800 (-340  |
-|     HP)                                                             |
-|   * Combined Target HP: 6,650 / 8,400 | UCD Composure: 98%          |
-+=====================================================================+
-```
-
-```text
-+=====================================================================+
-|        TURN 3: PRECISION LANCET PIERCE & STAGGER THRESHOLD 1        |
-+---------------------------------------------------------------------+
-| CLASH 1: King Kang-hyuk vs Senior Investigator Minho                |
-|   > Boss Skill: [Tyrant's Executioner Arc] (Atk Power 30, Slash)    |
-|   > Minho Skill: [Neural Lancet: Synaptic Pierce] (Atk Power 34)    |
-|   > Clash Result: Minho WINS (Power 34 vs 30).                      |
-| Silver lancet strikes the hilt crystal of the Foundation Cleaver!   |
-| > Deals 1,380 Pierce damage -> PART DESTROYED: Foundation Cleaver!  |
-+---------------------------------------------------------------------+
-| STATUS EVENT: STAGGER THRESHOLD 1 TRIGGERED!                        |
-|   * Combined Target HP drops below 60% (5,040 HP).                  |
-|   * The ancient ceremonial cleaver snaps into two jagged halves!    |
-| * Kang-hyuk suffers [Stagger 1] for 1 turn (Def 0, takes 2.0x       |
-|     damage).                                                        |
-+---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-|   * Taeho: Executes [Heavy Piston Strike] -> Deals 580 Blunt.       |
-|   * Joon: Plants [Thermite Disruption Clamp] -> Deals 540 Thermal.  |
-| * Echo: Drives [Eclipse Stiletto] into armor spine -> Deals 510     |
-|     Slash.                                                          |
-|   * Soojin: Prepares leaded cryo-cradle for the royal throne core.  |
-+---------------------------------------------------------------------+
-| ROUND 3 DAMAGE TOTALS:                                              |
-| * Kang-hyuk Royal Plate Armor HP: 1,810 -> 180 / 2,600 (-1,630 HP)  |
-|   * Royal Foundation Cleaver: [DESTROYED]                           |
-|   * SE-C-IVγ-073 Sorrow Throne Core HP: 3,460 / 3,800               |
-|   * Combined Target HP: 3,640 / 8,400 (Stagger 1 Active)            |
-+=====================================================================+
-```
-
-```text
-+=====================================================================+
-|         TURN 4: HOLLOW KNIGHT SURGE & LEADED SANCTUARY WARD         |
-+---------------------------------------------------------------------+
-| ENCOUNTER EVENT: Royal Throne Core Overdrive!                       |
-|   * Kang-hyuk recovers from Stagger, channeling the Sorrow Throne.  |
-|   * SE-C-IVγ-073 'The Hollow Knight' steps to front in blind fury!  |
-|   * Ancient crimson plate armor flares white-hot with royal grudge. |
-+---------------------------------------------------------------------+
-| CLASH 1: SE-C-IVγ-073 'Hollow Knight' vs Handler Soojin             |
-|   > Entity Skill: [Forgotten Vigil of the Crown] (Atk Power 35)     |
-|   > Soojin Skill: [Leaded Sanctuary: Damping Dome] (Def Power 38)   |
-|   > Clash Result: Soojin WINS (Power 38 vs 35)!                     |
-|     Leaded damping dome absorbs the blinding crimson wave.          |
-|   > Soojin channels kinetic damping -> Deals 580 Void damage.       |
-+---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-| * Taeho: Interposes shield to protect foundation pillars from       |
-|     collapse.                                                       |
-|   * Yuna: Locks royal vault exits, preventing syndicate escape.     |
-| * Minho: Dispenses [Neuro-Calming Aerosol] to soothe ancient souls. |
-|   * Joon: Cuts emergency detonator wires beneath the throne dais.   |
-+---------------------------------------------------------------------+
-| ROUND 4 DAMAGE TOTALS:                                              |
-|   * Kang-hyuk Royal Plate Armor HP: 180 / 2,600                     |
-|   * Royal Foundation Cleaver: [DESTROYED]                           |
-| * SE-C-IVγ-073 Sorrow Throne Core HP: 3,460 -> 2,880 / 3,800 (-580  |
-|     HP)                                                             |
-|   * Combined Target HP: 3,060 / 8,400 | UCD Composure: 95%          |
-+=====================================================================+
-```
-
-```text
-+=====================================================================+
-|    TURN 5: PHANTOM STILETTO SEVER & TERMINAL STAGGER THRESHOLD 2    |
-+---------------------------------------------------------------------+
-| CLASH 1: SE-C-IVγ-073 'Hollow Knight' vs Infiltrator Echo           |
-| > Entity Skill: [Unrelenting Sovereign Thrust] (Atk Power 31,       |
-|     Pierce)                                                         |
-|   > Echo Skill: [Eclipse Stiletto: Phantom Sever] (Atk Power 36)    |
-|   > Clash Result: Echo WINS (Power 36 vs 31).                       |
-|     Echo drops from the vaulted throne canopy, severing the gorget. |
-|   > Deals 810 Slash damage to Hollow Knight Core.                   |
-+---------------------------------------------------------------------+
-| STATUS EVENT: TERMINAL STAGGER THRESHOLD 2 TRIGGERED!               |
-|   * Combined Target HP falls below 25% (2,100 HP).                  |
-|   * The plate armor collapses into empty metal plates on the dais!  |
-|   * Both Kang-hyuk and SE-C-IVγ-073 enter [Terminal Stagger 2]!     |
-+---------------------------------------------------------------------+
-| TACTICAL MANEUVERS:                                                 |
-|   * Joon: Tears away the buckled breastplate, disarming Kang-hyuk.  |
-|   * Minho: Injects [Sedative Soporific Solution] into Kang-hyuk.    |
-| * Yuna: Completes download of entire underworld treasury registry.  |
-| * Soojin: Slides Class-IV Leaded Royal Containment Vault over core. |
-+---------------------------------------------------------------------+
-| ROUND 5 DAMAGE TOTALS:                                              |
-| * Kang-hyuk Royal Plate Armor HP: 180 -> 0 / 2,600 (-180 HP,        |
-|     CRUSHED)                                                        |
-|   * Royal Foundation Cleaver: [DESTROYED]                           |
-| * SE-C-IVγ-073 Sorrow Throne Core HP: 2,880 -> 1,320 / 3,800        |
-|     (-1,560 HP)                                                     |
-|   * Combined Target HP: 1,320 / 8,400 (Terminal Stagger 2 Active)   |
-+=====================================================================+
-```
-
-```text
-+=====================================================================+
-|        TURN 6: CLIMAX OVERDRIVE: IRON GAVEL & ROYAL CRYO-SEAL       |
-+---------------------------------------------------------------------+
-| FINAL EXECUTIONS & OVERDRIVE RESOLUTION:                            |
-| CLASH 1: Commander Taeho vs King Kang-hyuk                          |
-| > Taeho Overdrive: [Decree of Unbroken Order — Iron Gavel] (40 SP)  |
-|   > Overdrive Power: 46 (Supreme Kinetic Concussive Verdict)        |
-|   > Execution: Heavy Obsidian shield strikes the throne armrests.   |
-|     Kinetic shockwave shatters the dais; Kang-hyuk is disarmed.     |
-|   > Non-lethal concussive kinetic shock renders Kang-hyuk subdued.  |
-+---------------------------------------------------------------------+
-| CLASH 2: Containment Handler Soojin vs SE-C-IVγ-073 'Sorrow Throne' |
-| > Soojin Overdrive: [Class-IV Royal Containment Lock: Sovereign     |
-|     Peace]                                                          |
-|   > Overdrive Power: 44 (Absolute Containment / Cryo-Seal)          |
-| > Execution: Soojin clamps leaded vault seals onto the throne core. |
-| Cryogenic vacuum suction pulls all flaming grudge into the cask.    |
-|   > SE-C-IVγ-073 cools into dormant rest; throne ceases pulsing!    |
-+---------------------------------------------------------------------+
-| PACIFICATION SUMMARY:                                               |
-| * King Kang-hyuk: APPREHENDED (Armor wrecked, disarmed, in          |
-|     custody).                                                       |
-|   * Royal Foundation Cleaver & Throne Core: 100% NEUTRALIZED.       |
-|   * SE-C-IVγ-073 'Hollow Knight': 100% CONTAINED (Zero casualties). |
-| * Canonical True Ending Achieved: Sovereign Pacification (Branch    |
-|     V).                                                             |
+| CONTRABAND ENTITY PROFILE (SE-C-IIIγ-490 'THE HOLLOW KNIGHT'):      |
+| - Entity HP Pool   : 3,600 HP | Posture Pool: 260/260               |
+| - Total Combined   : 8,000 Encounter HP                             |
+| - Attack Affinity  : Pale Sunder Storm & Mournful Greatsword (Pale) |
 +=====================================================================+
 ```
 
 ---
 
-#### Chapter 7: The Fall of the Crown & The Dawn of The Raw
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 06 — BATTLE TURN 01          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — ZONE B SUNKEN CITADEL THRONE ROOM]          |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN][CHEON]  [YUNA]  [MINHO] [CIVS]    |
+|                                  [SCEPTER]                        [ |
++---------------------------------------------------------------------+
+| - Node 01: Breach Entry / Class-II Armored Cruiser 'The Iron Vangua |
+| - Node 02: Commander Taeho (Vanguard Band 1 / Phalanx Bastion Obsid |
+| - Node 03: Engineer Joon (Point-Blank Band 1 / Deployable Mantlet B |
+| - Node 04: Handler Soojin (Close Skirmish Band 2 / Sedative Aerosol |
+| - Node 05: Grand Patriarch Cheon & Crown Scepter (Central Royal Thr |
+| - Node 06: Auditor Yuna (Mid-Field Band 3 / Financial Terminal Free |
+| - Node 07: Investigator Minho (Mid-Field Band 3 / Mnemonic Sniper A |
+| - Node 08: Hostage Berths (16 Municipal Council Delegates & Aides)  |
+| - Node 10: SE-C-IIIγ-490 Hollow Knight & Infiltrator Echo (Arch Ste |
++---------------------------------------------------------------------+
+| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 45/50 | Posture |
+| - Joon        : Spd 5 -> 3 AP | HP 3,800/3,800 | SP 40/40 | Posture |
+| - Yuna        : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 50/50 | Posture |
+| - Minho       : Spd 7 -> 4 AP | HP 2,900/2,900 | SP 45/45 | Posture |
+| - Soojin      : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 50/50 | Posture |
+| - Echo        : Spd 9 -> 5 AP | HP 2,600/2,600 | SP 40/40 | Posture |
+| - Cheon Rig   : Spd 4 -> 2 AP | HP 2,600/2,600 | Posture 260/260 [G |
+| - Scepter Part: Spd 3 -> 1 AP | HP 1,800/1,800 | Posture 160/160 [C |
+| - Knight Core : Spd 5 -> 3 AP | HP 3,600/3,600 | Posture 260/260 [C |
++=====================================================================+
+```
 
-The blinding crimson blaze of the Crystallized Sorrow Throne died into a serene, shimmering azure glow as Soojin snapped the fourth hydraulic vault seal shut. Inside the reinforced lead containment mantle, SE-C-IVγ-073 and the throne core were safely dormant, their volatile grudge completely quenched by the sub-zero cryogenic sedative bath.
-
-On the shattered marble steps of the dais, King Kang-hyuk lay disarmed and subdued. His ornate breastplate was cracked, his ancient Foundation Cleaver broken into two inert halves of rusted steel.
-
-Commander Taeho stood over him, his Obsidian Bastion lowered to his side. He knelt down, extending a heavy, armored hand to help the fallen king sit upright.
-
-"It is over, Kang-hyuk," Taeho said, his voice calm, steady, and devoid of malice. "The war in The Raw ends today."
-
-Kang-hyuk looked up at Taeho, his breathing labored, his hollow eyes searching the commander's face.
-
-"What... will you do with them...?" Kang-hyuk whispered hoarsely. "The hundreds of thousands living down here... who have nowhere else to go...?"
-
-"They will not be starved, and they will not be erased," Taeho replied firmly. "The seized syndicate war chests—over one hundred and twenty million Echoes—have already been placed into an autonomous civic reconstruction trust. The debt ledgers are burned. The false veils are being replaced with genuine municipal filters. The Raw will not be a colony of the Spire. It will be a recognized district of Somnarak, with its own wardens, its own hospitals, and its own voice."
-
-From the broken cleaver's hilt, Senior Investigator Minho retrieved a heavy, circular emblem of solid pre-cataclysm platinum: the lost **Royal Foundation Seal of Somnarak**.
-
-"The foundation seal is intact," Minho reported, holding the emblem up to the light. "With this, the Council of Sighs cannot legally dispute the administrative legitimacy of The Raw."
-
-Auditor Yuna closed her cipher slate, smiling for the first time in six months.
-
-"All garrison detachments across Zones B, C, D, and E have formally signed the unconditional instrument of surrender," Yuna announced. "The underworld armies have laid down their arms. Municipal medical corps and food supply transports are already rolling through the upper gates into the market plazas. There are no riots. There is only peace."
-
-Infiltrator Echo stepped forward, looking down at the empty dais where the throne of stolen grief once stood. They removed their dark ceramic mask, letting the warm air of the chamber brush against their face.
-
-"For three years, I lived in the shadow of this throne," Echo murmured softly. "I thought this city was doomed to eat its own sorrow forever."
-
-"A city is only what its people choose to endure," Taeho said, turning to look at his five strike officers. "We chose to stop the cycle. We chose unbroken order. We chose dignity."
-
-Taeho turned toward the grand exit of the Sunken Citadel. Beyond the basalt pillars, the distant sound of church bells from the upper spire resonated through the drainage vaults, chiming together with the joyous shouts of the liberated citizens below.
-
-"Operation 6 is pacified," Taeho decreed. "The Katharcheok campaign is complete. Strike team... let us return to the surface."
+###### Turn 01 Action Resolution Log (Kinetic Ingress & Royal Cleave Deflection)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Commander Taeho initializes `[Law of the Mantle]`: All allies within 1 node gain $+3$ Protection and physical stagger immunity.
+  * Infiltrator Echo activates `[Shadow Cloak]`: Enters stealth for 2 turns; cannot be targeted by single-target attacks; $+50\%$ Critical Strike Chance.
+  * Handler Soojin initializes `[Sedative Aerosol Ward]`, suppressing ambient pale resonance weeping in the throne hall.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Commander Taeho (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta $-1$, Poise $+25$): Holds Node 02. Spends 2 AP on `[Phalanx Bastion: Obsidian Wall]`.
+  * Engineer Joon (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 03. Spends 2 AP on `[Deployable Mantlet Barrier]`. Holds 1 AP in Reserve.
+  * Auditor Yuna (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 06 (Range Band 3). Spends 2 AP on `[Cipher-Scan: Sovereign Frequency]`, 2 AP on `[Asset Scan]`.
+  * Investigator Minho (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Stands at Node 07. Spends 2 AP on `[Neural Lancet: Calibrated Dart]`. Holds 2 AP in Reserve.
+  * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 04. Spends 2 AP on maintaining the sedative ward. Holds 1 AP in Guard.
+  * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta $+2$): Advances through high throne arches toward Node 10 from stealth. Spends 2 AP on positioning.
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 02 to 05)**: Grand Patriarch Cheon unleashes `[Sovereign Cleave Slam]` (Base 17 + 2 Coins = 29 Power, Heavy Blunt/Pale) against Node 02.
+    * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 19 + 2 Coins = 33 Power, Kinetic Shield).
+    * **Clash Outcome**: Taeho WINS THE CLASH (33 vs 29)!
+    * The kinetic shield absorbs the devastating pale shockwave without buckling (`[P3: Parry/Protection]`).
+    * Taeho reflects **190 kinetic tremor damage** back into Cheon's sovereign chassis! Inflicts $+30$ Posture Strain.
+  * **Clash 2 (Node 03 to 05)**: Royal Guard Enforcers thrust with `[Gilded Halberd Rush]` (Atk Power 23, Pierce).
+    * Engineer Joon's `[Deployable Mantlet Barrier]` (Def Power 27, Kinetic Shield).
+    * **Clash Outcome**: Joon WINS THE CLASH (27 vs 23).
+    * Halberds shatter against the reinforced titanium mantlet; zero damage taken.
+  * **Unopposed Ranged Fire**:
+    * Auditor Yuna's `[Cipher-Scan]` identifies the high-voltage power capacitor housing inside the Crown Scepter wrist joint.
+    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into Cheon's armored gorget, dealing **270 Pierce damage** and $+28$ Posture Strain!
+    * Handler Soojin's sedative ward dampens ambient pale weeping from the Hollow Knight.
+- **Step 4: Turn End State**:
+  * Cheon Sovereign Chassis HP: 2,600 -> **2,140/2,600** (Combined Encounter HP: **7,540/8,000**).
+  * Cheon Posture: 260 -> **202/260**.
+  * Squad Composure: **100% (50/50 SP)**. All 6 Officers uninjured.
 
 ---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 06 — BATTLE TURN 02          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — SCEPTER SAPPING & POWER JAM]                |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN][CHEON]  [YUNA]  [MINHO] [CIVS]  [ |
+|                                  [SCEPTER]                          |
++---------------------------------------------------------------------+
+| - Node 02: Commander Taeho (Advancing to Node 03 / Concussive Shiel |
+| - Node 03: Engineer Joon (Hydraulic Kinetic Ram Smashes Scepter Con |
+| - Node 04: Handler Soojin (Leaded Snare Restricting Hollow Knight G |
+| - Node 05: Grand Patriarch Cheon (Rig 1,820/2,600 / Scepter 1,220/1 |
+| - Node 06: Auditor Yuna (Cipher-Pulse Disrupting Sovereign Power Ma |
+| - Node 07: Investigator Minho (Memory Anchor Restoring Squad Compos |
+| - Node 09: Infiltrator Echo (High Throne Arch Flank behind Dais)    |
+| - Node 10: SE-C-IIIγ-490 'Hollow Knight' (3,280/3,600 HP / Pale Glo |
++---------------------------------------------------------------------+
+| - Joon        : Spd 7 -> 4 AP [SURGE] | HP 3,800/3,800 | SP 40/40 | |
+| - Minho       : Spd 9 -> 5 AP [SURGE] | HP 2,900/2,900 | SP 50/50 | |
+| - Cheon Rig   : Spd 3 -> 1 AP | HP 1,820/2,600 | Posture 188/260 [C |
+| - Scepter Part: Spd 2 -> 1 AP | HP 1,220/1,800 | Posture 92/160 [ST |
+| - Knight Core : Spd 4 -> 2 AP | HP 3,280/3,600 | Posture 222/260 [S |
++=====================================================================+
+```
+
+###### Turn 02 Action Resolution Log (Scepter Sapping & Power Jam)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Engineer Joon and Investigator Minho both trigger `Momentum Surge` (+2 Speed next turn).
+  * Cheon channels royal lightning through the Crown Scepter: `[Royal Lightning Cleave]`.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Engineer Joon (Speed 7 -> 4 AP): Advances from Node 03 to Node 04. Spends 3 AP to unleash `[Hydraulic Kinetic Ram: Structural Sapping]`.
+  * Auditor Yuna (Speed 7 -> 4 AP): Moves to Node 06, deploying `[Cipher-Pulse: Damping Wall]` (2 AP) against the Citadel's master power matrix.
+  * Commander Taeho (Speed 4 -> 2 AP): Steps to Node 03, executing `[Shield Bash: Kinetic Drive]` (2 AP).
+  * Investigator Minho (Speed 9 -> 5 AP): Casts `[Memory Anchor: Cognitive Salve]` (2 AP), reinforcing squad composure (+15 SP).
+  * Handler Soojin (Speed 5 -> 3 AP): Flings `[Resonance Snare: Cold Iron]` (2 AP) around the Hollow Knight's greatsword arm.
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 04 to 05)**: Cheon executes `[Royal Lightning Cleave]` (Base 15 + 2 Coins = 27 Power, Heavy Slash).
+    * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 19 + 2 Coins = 31 Power, Heavy Blunt).
+    * **Clash Outcome**: Joon WINS THE CLASH (31 vs 27)!
+    * The hydraulic ram smashes straight into the scepter's high-pressure power capacitor sleeve!
+    * Deals **580 Blunt damage** directly to the Crown Scepter and inflicts $+58$ Posture Strain!
+  * **Clash 2 (Node 06 to 10)**: SE-C-IIIγ-490 'The Hollow Knight' pulses `[Mournful Pale Shockwave]` (Power 25, Pale).
+    * Auditor Yuna unleashes `[Cipher-Pulse: Damping Wall]` (Def Power 29, EMP).
+    * **Clash Outcome**: Yuna WINS THE CLASH (29 vs 25).
+    * The EMP wave scrambles the throne's containment field, dealing **320 Resonance damage** to SE-C-IIIγ-490 and $+38$ Posture Strain!
+  * **Follow-Up Maneuvers**:
+    * Taeho's `[Shield Bash]` deals **320 Blunt damage** to Cheon's breastplate.
+    * Minho's cognitive salve restores $+15$ SP across the strike cadre.
+    * Infiltrator Echo severs high-voltage hydraulic cables beneath the throne dais, cutting emergency generator feeds!
+- **Step 4: Turn End State**:
+  * Cheon Sovereign Chassis HP: 2,140 -> **1,820/2,600** | Posture: **188/260 [CONDUIT CRACKED]**.
+  * Crown Scepter Weapon HP: 1,800 -> **1,220/1,800** | Posture: **92/160**.
+  * SE-C-IIIγ-490 Hollow Knight HP: 3,600 -> **3,280/3,600** | Posture: **222/260**.
+  * Combined Encounter HP: **6,320/8,000** | Squad Composure: **98%**.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 06 — BATTLE TURN 03          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — SCEPTER SHATTER & STAGGER THRESHOLD 1]      |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER]        [TAEHO] [JOON]  [CHEON]  [YUNA]  [MINHO] [CIVS]  [ |
++---------------------------------------------------------------------+
+| - Node 03: Commander Taeho (Heavy Piston Strike Smashes Sovereign B |
+| - Node 04: Engineer Joon (Thermite Disruption Clamp Igniting Batter |
+| - Node 05: Grand Patriarch Cheon (STAGGER LEVEL 1 / SCEPTER DESTROY |
+| - Node 06: Auditor Yuna (Conspiracy Ledger Download In Progress)    |
+| - Node 07: Investigator Minho (Synaptic Pierce Dismantles Scepter H |
+| - Node 09: Infiltrator Echo (Driving Eclipse Stiletto into Servo Jo |
+| - Node 10: SE-C-IIIγ-490 'Hollow Knight' (Pale Steam Churning)      |
++---------------------------------------------------------------------+
+| - Taeho       : Spd 6 -> 3 AP [SURGE] | HP 4,400/4,400 | SP 48/50 | |
+| - Cheon Rig   : Spd 0 -> 0 AP | HP 460/2,600   | Posture 96/260 [ST |
+| - Scepter Part: DESTROYED (0/1,800 HP)                              |
+| - Knight Core : Spd 5 -> 3 AP | HP 3,280/3,600 | Posture 222/260    |
++=====================================================================+
+```
+
+###### Turn 03 Action Resolution Log (Precision Lancet Pierce & Stagger Threshold 1)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Commander Taeho's `Momentum Surge` activates (+2 Speed next turn -> Net Speed 6, 3 AP).
+  * Cheon attempts his royal execution slam: `[Verdict of the Sunken King]`.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Investigator Minho (Speed 9 -> 5 AP): Positions on an elevated arch at Node 07. Spends 3 AP on `[Neural Lancet: Synaptic Pierce]`.
+  * Commander Taeho (Speed 6 -> 3 AP): Charges from Node 03 to Node 05, unleashing `[Heavy Piston Strike]` (2 AP).
+  * Engineer Joon (Speed 7 -> 4 AP): Plants `[Thermite Disruption Clamp]` (2 AP) directly on the scepter battery.
+  * Infiltrator Echo (Speed 9 -> 5 AP): Drops from high arches onto the scepter's wrist joint, driving `[Eclipse Stiletto]` (2 AP).
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 07 to 05)**: Cheon unleashes `[Verdict of the Sunken King]` (Base 17 + 2 Coins = 29 Power, Heavy Blunt).
+    * Investigator Minho fires `[Neural Lancet: Synaptic Pierce]` (Base 21 + 2 Coins = 33 Power, High-Precision Pierce).
+    * **Clash Outcome**: Minho WINS THE CLASH (33 vs 29)!
+    * Minho's silver lancet pierces the scepter's central gyro-stabilizer with surgical precision!
+    * **TARGETED PART DESTROYED**: `[The Crown Scepter Weapon Arm]` shears in half, crashing onto the marble dais (**1,220 Scepter HP destroyed: 0/1,800**)!
+  * **STAGGER THRESHOLD 1 TRIGGERED!**
+    * Combined Target HP drops below 60% (4,800 HP), and Cheon's Posture falls past the 60% strain line!
+    * **STAGGER LEVEL 1 ACTIVE!** Cheon's rig loses all defense, taking 1.5x direct damage. All enemy counter-stances cancelled!
+  * **Punishment Strike Phase**:
+    * Commander Taeho's `[Heavy Piston Strike]` delivers **520 Blunt damage** to the exposed breastplate.
+    * Engineer Joon's thermite clamp burns through the shoulder servos for **460 Thermal damage**.
+    * Infiltrator Echo's `[Eclipse Stiletto]` slices hydraulic tendons for **380 Slash damage**.
+- **Step 4: Turn End State**:
+  * Cheon Sovereign Chassis HP: 1,820 -> **460/2,600** (Chassis critically buckled!).
+  * Crown Scepter Weapon: **0/1,800 [DESTROYED]**.
+  * Combined Encounter HP: **3,740/8,000** | Posture: **96/260 [STAGGER LEVEL 1]**.
+  * Squad Composure: **100% (50/50 SP)**.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 06 — BATTLE TURN 04          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — BERSERK HOLLOW KNIGHT & LEADED WARD]        |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER]        [TAEHO] [JOON]  [CHEON]  [SOOJIN][YUNA]  [CIVS]  [ |
+|                                                   [MINHO]           |
++---------------------------------------------------------------------+
+| - Node 03: Commander Taeho (Shielding Delegate Berths & Captives)   |
+| - Node 04: Engineer Joon (Pneumatic Pry Bar Unlatching Delegate Cel |
+| - Node 05: Grand Patriarch Cheon (Recovered / Pulling Safety Valve  |
+| - Node 06: Handler Soojin (Leaded Sanctuary Ward Enclosing Squad)   |
+| - Node 07: Auditor Yuna & Minho (Cutting Citadel Master Power Matri |
+| - Node 08: 16 Municipal Delegates (Cognitive Shields Holding Intact |
+| - Node 10: SE-C-IIIγ-490 'Hollow Knight' (BERSERK STATE / Pale Sund |
++---------------------------------------------------------------------+
+| - Soojin      : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 50/50 | |
+| - Cheon Rig   : Spd 2 -> 1 AP | HP 460/2,600   | Posture 68/260     |
+| - Knight Core : Spd 6 -> 4 AP | HP 2,720/3,600 | Posture 144/260 [B |
++=====================================================================+
+```
+
+###### Turn 04 Action Resolution Log (Berserk Hollow Knight & Leaded Sanctuary Ward)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Recovering from Stagger, Cheon desperately breaks the master stasis seals on SE-C-IIIγ-490 at Node 10!
+  * **ENCOUNTER EVENT**: SE-C-IIIγ-490 'The Hollow Knight' enters **Berserk State** (+4 Attack Power)!
+  * Pale spiritual frost blankets the hall; a colossal crystalline greatsword ignites with blinding pale fire.
+  * Handler Soojin's `Momentum Surge` activates (+2 Speed -> Net Speed 7, 4 AP).
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Handler Soojin (Speed 7 -> 4 AP): Moves to Node 06, deploying `[Leaded Sanctuary Ward: Vacuum Dome]` (3 AP) enclosing the squad and delegate berths.
+  * Commander Taeho (Speed 4 -> 2 AP): Steps to Node 03, locking his Obsidian shield in front of the hostage cages.
+  * Auditor Yuna (Speed 7 -> 4 AP): Hacks the Citadel's electrical control hub at Node 06, shutting down high-voltage grids (2 AP).
+  * Investigator Minho (Speed 7 -> 4 AP): Dispenses `[Neuro-Stabilizing Aerosol]` (2 AP) to protect delegate minds.
+  * Engineer Joon (Speed 5 -> 3 AP): Uses pneumatic pry bar at Node 04 to pop open the delegate cell padlocks (2 AP).
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 10 to 06)**: Berserk SE-C-IIIγ-490 unleashes `[Pale Sunder Storm: Mournful Cleave]` (Base 24 + 2 Coins = 34 Power, Area Pale).
+    * Handler Soojin deploys `[Leaded Sanctuary Ward]` (Base 27 + 2 Coins = 37 Power, Vacuum Barrier).
+    * **Clash Outcome**: Soojin WINS THE CLASH (37 vs 34)!
+    * The lead-lined vacuum sphere fully captures the pale sunder shockwave (`[P3: Parry/Protection]`).
+    * Zero pale particles penetrate the leaded ward. Soojin redirects the trapped kinetic energy back into the knight's armor, dealing **560 Void damage** and $+78$ Posture Strain!
+- **Step 4: Turn End State**:
+  * Cheon Sovereign Chassis HP: **460/2,600** | Posture: **68/260**.
+  * SE-C-IIIγ-490 Hollow Knight HP: 3,280 -> **2,720/3,600** | Posture: **144/260**.
+  * Combined Encounter HP: **3,180/8,000** | Squad Composure: **96%**.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 06 — BATTLE TURN 05          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — PHANTOM SEVER & TERMINAL STAGGER]           |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER]        [TAEHO] [JOON]  [CHEON]  [SOOJIN][YUNA]  [CIVS]    |
+|                                                   [MINHO]         [ |
++---------------------------------------------------------------------+
+| - Node 03: Commander Taeho (Priming Iron Gavel for Cockpit Breach)  |
+| - Node 04: Engineer Joon (Tearing Away Buckled Sovereign Chassis St |
+| - Node 05: Cheon Rig (TERMINAL STAGGER / POSTURE 0/260 / CRUSHED)   |
+| - Node 06: Handler Soojin (Aligning Class-IV Leaded Cryo-Cask at Da |
+| - Node 07: Investigator Minho (Silver Lancet Stripping Mournful Cor |
+| - Node 09: Infiltrator Echo (Eclipse Stiletto Phantom Sever on Armo |
+| - Node 10: SE-C-IIIγ-490 'Hollow Knight' (TERMINAL STAGGER / POSTUR |
++---------------------------------------------------------------------+
+| - Echo        : Spd 11 -> 5 AP [MOMENTUM CRIT] | HP 2,600/2,600 | S |
+| - Cheon Rig   : Spd 0 -> 0 AP | HP 0/2,600     | Posture 0/260 [CHA |
+| - Knight Core : Spd 0 -> 0 AP | HP 1,440/3,600 | Posture 0/260 [TER |
++=====================================================================+
+```
+
+###### Turn 05 Action Resolution Log (Phantom Stiletto Sever & Terminal Stagger Threshold 2)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Infiltrator Echo readies `[Eclipse Stiletto: Phantom Sever]` from the overhead gilded throne canopy (+50% Crit Chance, ignores 100% defense).
+  * Investigator Minho targets the knight's central pale breastplate rune.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Infiltrator Echo (Speed 11 -> 5 AP, Momentum + Stealth Boost): Drops from the high canopy onto Node 10. Spends 3 AP on `[Phantom Sever]`.
+  * Investigator Minho (Speed 7 -> 4 AP): Fires `[Silver Lancet: Cognitive Disruptor]` from Node 07 into the exposed rune (2 AP).
+  * Engineer Joon (Speed 5 -> 3 AP): Smashes away Cheon's remaining chassis supports at Node 04 (2 AP).
+  * Auditor Yuna (Speed 7 -> 4 AP): Finalizes forensic download of 14,800 high-level conspiracy documents at Node 06 (2 AP).
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 10)**: SE-C-IIIγ-490 sweeps with `[Crystalline Greatsword Cleave]` (Atk Power 30, Pale/Slash).
+    * Infiltrator Echo executes `[Eclipse Stiletto: Phantom Sever]` (Base 25 + 2 Coins Heads = 35 Power, Slash).
+    * **Clash Outcome**: Echo WINS THE CLASH (35 vs 30)!
+    * Echo slices cleanly through the spiritual tendons linking the knight's hollow armor!
+    * **CRITICAL HIT!** Deals **720 Slash damage** directly to the core and strips 100 Posture points!
+  * **Targeted Fire**:
+    * Investigator Minho's `[Silver Lancet]` strikes the pale rune, dealing **560 Freezing Pierce damage** and wiping out the entity's remaining Posture!
+    * Engineer Joon demolishes Cheon's buckled sovereign chassis with the pneumatic ram, dealing **460 Blunt damage** and crushing the exoskeleton completely (Chassis HP: 0/2,600)!
+- **Step 4: TERMINAL STAGGER THRESHOLD 2 TRIGGERED!**:
+  * Both Cheon and SE-C-IIIγ-490 reach **Posture 0/260** and **0/260**!
+  * **TERMINAL STAGGER ACTIVE!** Cheon collapses under pneumatic feedback, pinned to the marble floor. SE-C-IIIγ-490's hollow armor shatters into inert plate pieces, its pale core floating helplessly.
+  * Combined Encounter HP drops below 20% (Total HP: **1,440/8,000**).
+- **Step 5: Turn End State**:
+  * Cheon Sovereign Chassis HP: **0/2,600 [CHASSIS CRUSHED]** | Posture: **0/260**.
+  * SE-C-IIIγ-490 Hollow Knight HP: **1,440/3,600** | Posture: **0/260 [TERMINAL STAGGER]**.
+  * Squad Composure: **100% (50/50 SP)**.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: OPERATION 06 — BATTLE TURN 06          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — CLIMAX OVERDRIVE: IRON GAVEL & CRYO-SEAL]   |
+| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
+| [CRUISER]                [JOON]  [TAEHO]  [SOOJIN][YUNA]  [CIVS]    |
+|                                  [CHEON]          [MINHO]         [ |
++---------------------------------------------------------------------+
+| - Node 05: Grand Patriarch Cheon (EXTRACTED UNCONSCIOUS & SECURED)  |
+| - Node 06: Auditor Yuna (14,800 Conspiracy & Treason Files Secured) |
+| - Node 08: 16 Municipal Delegates (Safely Unlatched / Zero Fataliti |
+| - Node 10: SE-C-IIIγ-490 'Hollow Knight' (100% CONTAINED IN CRYOGEN |
++---------------------------------------------------------------------+
+| - Strike Cadre: Zero Fatalities | Composure 50/50 SP (Lucidity)     |
+| - Encounter Status: 100% PACIFIED | Handoff to RD Floor 2 Ready     |
++=====================================================================+
+```
+
+###### Turn 06 Action Resolution Log (Climax Overdrive: Iron Gavel & Royal Cryo-Seal)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Commander Taeho charges `[Decree of Unbroken Order — Iron Gavel]` (Cost: 35 SP).
+  * Handler Soojin activates `[Class-IV Leaded Cryo-Seal: Vault of Solitude]` (Cost: 35 SP).
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Commander Taeho (Speed 4 -> 2 AP): Steps up to Node 05, standing over Cheon's body. Spends 2 AP on Climax Overdrive.
+  * Handler Soojin (Speed 5 -> 3 AP): Wheels the Class-IV Cryogenic Leaded Cask directly beneath the pale core at Node 10. Spends 3 AP on Climax Containment.
+  * Engineer Joon and Infiltrator Echo: Unlatch the final cell doors on the 16 municipal delegates at Node 08, wrapping them in warm mantlets.
+  * Auditor Yuna: Verifies Level-5 encryption on the 14,800 seized conspiracy drives at Node 06.
+- **Step 3: Climax Overdrive Executions**:
+  * **Climax 1 (Commander Taeho vs Grand Patriarch Cheon)**:
+    * Taeho channels a 120 dB directed concussive wave through his tungsten truncheon: `[Iron Gavel: Decreed Subjugation]` (Power 42).
+    * Delivers a single calculated strike to Cheon's carotid nerve cluster.
+    * Non-lethal kinetic tremor ensures complete, safe neurological sedation.
+    * **GRAND PATRIARCH CHEON SUBDUED & INCAPACITATED!** Remanded to Warden custody!
+  * **Climax 2 (Handler Soojin vs SE-C-IIIγ-490 'The Hollow Knight')**:
+    * Soojin unlatches the leaded collar, extending cryogenic containment arms around the pale core: `[Vault of Solitude]` (Power 40).
+    * All swirling pale emotional vapors are drawn into the vacuum cask within 4.4 seconds! Zero atmospheric leakage detected.
+    * The heavy basalt locking collar snaps shut with a resounding metallic boom: **CRYOGENIC VACUUM SEAL COMPLETE**.
+    * **SE-C-IIIγ-490 HP DROPS TO 0!** Fully contained in peaceful dormancy and logged for transfer to Reverie Directorate Floor 2!
+- **Step 4: Pacification & Operational Outcome**:
+  * **Grand Patriarch Cheon**: Sovereign chassis demolished; syndicate patriarch safely secured in Warden custody.
+  * **Crown Scepter Weapon Arm**: 100% destroyed.
+  * **SE-C-IIIγ-490 'The Hollow Knight'**: 100% contained in cryogenic lead cask. Zero leakage.
+  * **Municipal Delegates**: 16 high-ranking council aides liberated without casualties.
+  * **Evidence**: 14,800 classified documents seized, exposing corrupt council commissioners and completing the absolute pacification of The Raw!
+
 
 ### Post-Action Forensic Inventory
 
