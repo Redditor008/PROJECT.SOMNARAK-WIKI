@@ -42,13 +42,14 @@
   - Node 6: Abattoir Gate — Hydraulic Ram Penetration
   - Node 7: Siphon Crucible — Apex Gauntlet: Boknam & SE-C-IIIγ-120
 
-- **Arc 4: The Debt Brokers** (Zone C)
-  - Passage 1: The Phantom Debts — The Auditor finds debts that don't exist
-  - Passage 2: The Transfer Pad — Understanding the technology
-  - Passage 3: The Conspiracy — The Brokers are connected to the Council
-  - Passage 4: The Confrontation — The Brokers are powerful
-  - Passage 5: The Truth — The system itself is complicit
-  - Passage 6: Return — The fourth Fray falls
+- **Arc 4: Usurachae** (Zone C — The Usury Vaults)
+  - Node 1: Financial Cordon — Perimeter Conduit Cordon
+  - Node 2: Gatling Corridor — Biometric Turret Bypass
+  - Node 3: Escrow Chamber — Gilded Warden Pacification
+  - Node 4: Forward Bivouac — Respite & Composure Tuning
+  - Node 5: Ledger Sanctum — Server Decryption Sweep
+  - Node 6: Vault Bulkhead — Kinetic Ram Penetration
+  - Node 7: The Usury Dais — Apex Gauntlet: Man-sik Op
 
 - **Arc 5: The Entity Traders** (Zone D + E)
   - Passage 1: The Containment Cubes — The Handler finds trafficked entities
@@ -1580,434 +1581,502 @@ Echo walked over to the edge of the drainage sump, looking down into the murky w
 
 ---
 
-## Arc 4: The Debt Brokers (빚 중개인 — Bit Junggaein)
+# UCD — Operation 4: Usurachae (사채고 — The Usury Vaults)
+## Part of the Katharcheok Underworld Pacification Operations
+### Zone C Banking Sub-Vaults & Collector's Row Catacombs (-140m to -210m)
 
-### Zone C — The Collector's Row
-
-> *"They don't just collect debts. They create them. They turn obligation into weapon — and profit from the suffering."*
-
----
-
-### Overview
-
-The UCD's fourth mission targets **The Debt Brokers** — a Fray that creates phantom debts and sells them to Collectors. The Brokers operate in Zone C's Collector's Row, using a device called the Transfer Pad.
-
-**Mission objective:** Locate the Transfer Pad operation. Shut it down. Expose the phantom debts. Capture the Brokers.
-
-**Duration:** 3 weeks
-
-**Threat level:** Critical — the Brokers are connected to the Council, and their technology is dangerous.
+> *"A weapon of steel can only take a person's life once. A weapon of false debt takes their life every sunrise, their labor every afternoon, their children's bread every evening, and leaves behind an empty vessel that works until its bones snap in the dark. High Usurer Man-sik did not build a bank—he built a slaughterhouse made of paper and gold."*
+> — Auditor Yuna, Forensic Briefing on the Collector's Row Usury Ring
 
 ---
 
-### Chapter 1: The Phantom Debts
+### Executive Operational Dossier
 
-The debts started appearing two months ago.
-
-Citizens receiving collection notices for debts they never incurred. Echoes being drained from accounts that should have been full. Families being torn apart by obligations that didn't exist.
-
-> **Yuna:** *"The debts are phantom — they don't exist in the Collector's registry. But they're being enforced. Citizens are paying for debts they never incurred."*
-
-> **Taeho:** *"How?"*
-
-> **Yuna:** *"The Transfer Pad. A device that creates phantom debts — injecting false obligations into the Collector's system. The debts look real. They feel real. But they're not."*
-
-> **Echo:** *"I know this device. I helped build it."*
-
-The team turned to Echo. Their face was hidden — but their voice was heavy.
-
-> **Echo:** *"When I was with the Debt Brokers, I was the technician. I maintained the pad. I optimized the debt creation process. I made it more efficient. More... profitable."*
-
-> **Taeho:** *"Can you shut it down?"*
-
-> **Echo:** *"I can. But first, we need to find where the phantom debts are stored. If we just destroy the pad, the debts are permanent."*
+| Metric / Parameter | Field Data |
+|---|---|
+| **Codename** | Operation Usurachae (UCD-OP-04) |
+| **Transliteration** | 사채고 (高利貸帳 — The Usury Vaults) |
+| **Etymology** | *Usura* (Latin: Usury / Exploitative Interest) + *Chae* (Korean: 채 / 債, Debt Bond) |
+| **Ingress Domain** | Zone C Banking Sub-Vaults & Collector's Row Catacombs |
+| **Sector Depth** | -140m to -210m Sub-Surface Depth |
+| **Primary Syndicate** | The Debt Brokers (사채단 / 빚 중개단) |
+| **Primary Antagonist** | High Usurer Man-sik ("The Gold Weigher" / 만식) |
+| **Contraband Entity** | SE-C-IIIβ-015 [VO] "The Debt Scale" (빚의 저울) |
+| **Squad Cadre** | Commander Taeho, Auditor Yuna, Investigator Minho, Handler Soojin, Engineer Joon, Infiltrator Echo |
+| **Primary Objective** | Dismantle the Transfer Pad matrix and purge 12,000 phantom debts |
+| **Secondary Objective** | Apprehend High Usurer Man-sik and secure SE-C-IIIβ-015 into Directorate vaults |
+| **Rules of Engagement** | Absolute non-lethal pacification; seize financial ledgers intact |
 
 ---
 
-### Chapter 2: The Transfer Pad
+### Tactical Infiltration & Breach Routing
 
-The team tracked the Transfer Pad to a hidden chamber beneath Zone C — a Collector facility that had been repurposed.
+The assault vector descends through seven reinforced vertical security tiers within the subterranean vaults beneath the Zone C Banking Concourse, beginning at the municipal treasury service sumps (-140m) and penetrating automated defense corridors into the apex Usury Dais (-210m).
 
-The chamber was dark — Han-lamps casting long shadows. The air smelled of old crystal and new sorrow. Inside, the team found the Transfer Pad — a massive device, made of Han-crystal and stolen Collector technology.
-
-The device was designed to create phantom debts — to inject false obligations into the Collector's system. The process was seamless. The process was irreversible. The process left the victim indebted for life.
-
-> **Yuna:** *"This is Collector technology. Modified. Corrupted. Whoever built this knew what they were doing."*
-
-> **Minho:** *"They did. The Transfer Pad uses the same principles as the Collector's debt registry systems. But instead of recording debts... it creates them."*
-
-> **Echo:** *"I know this pad. I helped build it."*
-
----
-
-### Chapter 3: The Conspiracy
-
-The team discovered the truth — the Debt Brokers were connected to the Council.
-
-Not directly. Not officially. But through intermediaries, through favors, through the quiet corruption that seeps through the city's power structure.
-
-> **Yuna:** *"The Brokers have Council protection. Their operations are shielded. Their profits are laundered through legitimate channels."*
-
-> **Taeho:** *"Who on the Council?"*
-
-> **Yuna:** *"Unknown. But the financial trails lead to the Five Heads — the Council's highest authority."*
-
-> **Echo:** *"The system is complicit. The Council knows about the phantom debts. They profit from them."*
-
-> **Taeho:** *"Then we expose them. We shut down the Brokers. And we make the Council answer for their crimes."*
-
----
-
-### Chapter 4: The Confrontation
-
-The Brokers found them.
-
-A dozen operatives — armed, connected, powerful. The leader — a woman with cold eyes and expensive clothes — stepped forward.
-
-> **Broker Leader:** *"You shouldn't have come here. This is our territory. Our business. Our protection."*
-
-> **Taeho:** *"You're creating phantom debts. You're enslaving citizens with false obligations. This is Taboo."*
-
-> **Broker Leader:** *"Taboo? The system creates debts every day. The Collectors enforce them. The Council profits from them. We just... do it more efficiently."*
-
-> **Yuna:** *"The system doesn't create false debts. It doesn't enslave people with lies."*
-
-> **Broker Leader:** *"No? What do you call the debt cycle? Citizens working their entire lives to pay obligations they never agreed to. Families torn apart by inherited debts. The system enslaves — we just make it profitable."*
-
-The Brokers attacked — connected, powerful, fighting for their protection.
-
----
-
-### Chapter 5: The Truth
-
-The fight was brutal — the Brokers fought with the resources of the Council behind them.
-
-Harin held the line — her shield absorbing blow after blow. Echo flanked — moving through the shadows, disabling Brokers from behind. Soojin contained — her Handler's Cage capturing operatives who tried to flee.
-
-But the leader fought hardest — her eyes blazing with power, her voice cracking with certainty.
-
-> **Broker Leader:** *"You think you're saving the city? You're just enforcing a different kind of debt! The system owes us — our labor, our Echoes, our lives. You call it order. We call it profit!"*
-
-> **Taeho:** *"Profit doesn't require enslaving people with false debts."*
-
-> **Broker Leader:** *"In this city, it does!"*
-
-The fight ended — the Brokers subdued, the leader captured. But her words lingered.
+```text
++==================+===========================+
+| BREACH SECTOR    | CHOSEN NODE & TACTICAL OP |
++==================+===========================+
+|                  | Node 1: Financial Cordon  |
+| BANK SERVICE SUMP| Perimeter Conduit Cordon  |
+|                  +---------------------------+
+| (Depth: -140m)   | Squad cuts service lines  |
+|                  | and jams municipal alarms.|
++------------------+---------------------------+
+|                  | Node 2: Gatling Corridor  |
+| DEFENSE CONCOURSE| Biometric Turret Bypass   |
+|                  +---------------------------+
+| (Depth: -155m)   | Joon deploys EMP shunts;  |
+|                  | Echo splices video feeds. |
++------------------+---------------------------+
+|                  | Node 3: Escrow Chamber    |
+| ESCROW ANTE-ROOM | Gilded Warden Pacification|
+|                  +---------------------------+
+| (Depth: -170m)   | Taeho leads phalanx charge|
+|                  | against shock mercenaries.|
++------------------+---------------------------+
+|                  | Node 4: Forward Bivouac   |
+| DRY AIRLOCK      | Respite & Composure Tuning|
+|                  +---------------------------+
+| (Depth: -185m)   | Minho administers neuro   |
+|                  | salts; Yuna taps servers. |
++------------------+---------------------------+
+|                  | Node 5: Ledger Sanctum    |
+| LEDGER SANCTUM   | Server Decryption Sweep   |
+|                  +---------------------------+
+| (Depth: -195m)   | Yuna seizes 12,000 debtor |
+|                  | files and Council records.|
++------------------+---------------------------+
+|                  | Node 6: Vault Bulkhead    |
+| TITANIUM BLAST GATE| Kinetic Ram Penetration |
+|                  +---------------------------+
+| (Depth: -205m)   | Joon breaches 4m titanium |
+|                  | blast doors in 15 seconds.|
++------------------+---------------------------+
+|                  | Node 7: The Usury Dais    |
+| THE TRANSFER PAD | Apex Gauntlet: Man-sik Op |
+|                  +---------------------------+
+| (Depth: -210m)   | Subdue High Usurer Man-sik|
+|                  | and contain SE-C-IIIβ-015.|
++==================+===========================+
+```
 
 ---
 
-### Chapter 6: The Return
+### Narrative Operation Chronicle
 
-The team returned to the surface — carrying the phantom debts, the captured Brokers, and the weight of what they learned.
+#### Chapter 1: The Phantom Obligations
 
-> **Yuna:** *"The phantom debts can be erased. The Transfer Pad stored the original data — we can restore the citizens' true obligations."*
+The tactical briefing room in UCD Sub-Precinct 1 (Zone C) was cast in the stark blue glow of financial data terminals. Auditor Yuna stood before the squad, her face grim as she projected thousands of synchronized debt notices hovering above the holotank.
 
-> **Minho:** *"The Council connection is real. The Brokers had protection from the highest levels."*
+"Twelve thousand citizens in Collector's Row received emergency foreclosure writs over the past forty-eight hours," Yuna announced, her voice clipped and razor-sharp. "Shopkeepers, artisans, sewer maintenance crews, hospital orderlies. Every single one was billed for debts ranging between eight thousand and fifty thousand Echoes—sums none of them ever borrowed. The collection enforcement notices were stamped with official municipal seals and backed by automated bank liens that froze their accounts instantaneously."
 
-> **Taeho:** *"Then we expose them. We make the Council answer for their crimes."*
+"What happens when they can't pay?" Commander Taeho asked, his arms crossed over the heavy obsidian plates of his armor.
 
-> **Echo:** *"The system is complicit. The Council knows. They profit. They always have."*
+"They are given an ultimatum," Senior Investigator Minho answered, bringing up neurological scans of evicted debtors. "Sign over their property and enter twenty-year bonded indenture contracts in the deep industrial kilns, or face immediate neuro-somatic garnishment. Three hundred citizens have already suffered psychological collapses from the sheer dread of generational ruin. This is not ordinary loan-sharking—it is economic terrorism orchestrated with terrifying algorithmic precision."
 
----
+Yuna touched a key, isolating the origin of the network.
 
-### Engagement Protocol: The Transfer Pad Raid
+"The syndicate calls themselves The Debt Brokers," Yuna continued. "Their headquarters is not an underworld alley. It is a fortified four-tier subterranean vault constructed directly beneath the First Municipal Bank of Zone C, at depths between one hundred and forty and two hundred and ten meters. Their leader is High Usurer Man-sik, known in the Raw as 'The Gold Weigher.' Man-sik operates a classified piece of modified Collector hardware called the Transfer Pad."
 
-**Location:** Zone C — Hidden chamber beneath Collector's Row
-**Enemies:** 12 Debt Brokers (armed, connected), 1 Broker Leader (critical), environmental hazards (debt destabilization)
-**Objective:** Shut down the Transfer Pad, capture the Brokers, expose phantom debts
-**Duration:** 16 turns (Medium-long battle)
-**Threat level:** Critical — the Brokers are connected to the Council
+Infiltrator Echo stepped forward, pointing at the schematics of the vault's central rotunda.
 
----
+"The Transfer Pad isn't just a supercomputer," Echo revealed, their voice quiet but firm. "Man-sik excavated a classified Sorrow Entity: SE-C-IIIβ-015, 'The Debt Scale.' It is an ancient, autonomous balance-scale crafted from articulating yellowed bone and crystal dishes. The entity naturally weighs the soul's perceived guilt and moral obligation. Man-sik hooked neural transmission cables directly from the bone-scale into the city's banking mainframe. When Man-sik places a false debt contract on one dish, the entity's psychic weight forces the debtor's mind into absolute compliance, making them genuinely believe they owe their lives to the syndicate."
 
-#### Turn 1: Approach
+Taeho adjusted the straps of his riot shield, his eyes hard as flint.
 
-The team approaches the hidden chamber — concealed beneath Collector's Row, protected by Council security.
-
-> **Echo:** *"The main facility is below. The Transfer Pad is on the lowest level. Council security guards the entrance."*
-
-> **Taeho:** *"Entry points?"*
-
-> **Echo:** *"One main entrance. One emergency exit — but it's sealed from the inside."*
-
-> **Harin:** *"We take the main entrance. Fast and loud."*
-
-> **Taeho:** *"Agreed. On my mark."*
+"The operational directive is total foreclosure of the Brokers," Taeho decreed. "Objective one: breach the automated defense corridors. Objective two: seize the cryptographic servers and purge all twelve thousand phantom debts. Objective three: dismantle the Transfer Pad, contain SE-C-IIIβ-015, and place High Usurer Man-sik under arrest. Deploy immediately."
 
 ---
 
-#### Turn 2: Breach
+#### Chapter 2: Infiltration of the Gilded Vaults
 
-The team breaches the main entrance — Harin leading, shield raised.
+The entry vector into the banking sub-vaults was a maze of cold granite and polished brass conduits. At one hundred and forty meters below the surface, the municipal sewers gave way to immaculate, climate-controlled inspection corridors shielded by lead-lined concrete.
 
-Inside: the chamber — massive, dark, filled with Broker equipment. The air is thick with Han-vapor — the smell of phantom debts.
+"Automated security grid active," Joon whispered, kneeling beside an armored junction box with his diagnostic toolkit. "Man-sik spared no expense. Biometric gatling turrets every thirty meters, coupled to high-frequency motion sensors and thermal floor grids."
 
-A dozen Brokers stand between the team and the Pad — armed, connected, powerful.
+"Echo, can you loop their feeds?" Taeho asked.
 
-> **Broker:** *"Intruders! Protect the Pad!"*
+"Already on it," Echo replied. Moving like a phantom across the overhead cable racks, Echo reached the fiber-optic hub above the primary concourse at one hundred and fifty-five meters depth. Splicing an encrypted military bypass transceiver into the primary optic bundle, Echo transmitted a pre-recorded loop of empty, pristine corridors directly into the security command center.
 
----
+Down below, Joon clamped an EMP directional disruptor onto the power conduit of the automated gatling turrets. With a muted mechanical hum, the twin rotary barrels drooped lifelessly, their target-lock lasers flickering into darkness.
 
-#### Turn 3: Harin vs. Broker Vanguard
-
-The Broker vanguard charges — three operatives with Council-grade weapons.
-
-Harin steps forward — shield raised, Aegis glowing. She absorbs the first blow — a heavy strike that jars her arms. Then the second. Then the third.
-
-> **Harin:** *"I can hold them! Push forward!"*
-
-The team pushes through — Harin holding the line, the others moving past her. The Brokers throw everything they have — Council weapons, Han-energy blasts, debt-based attacks. Harin absorbs it all.
-
-> **Harin:** *"They're strong! Connected! I can't hold forever!"*
-
-> **Taeho:** *"You don't have to! Just long enough!"*
-> **Yuna:** *"They're using Council weapons. This goes higher than we thought."*
-
-> **Taeho:** *"Noted. Deal with it later. Survive now."*
-
-> **Joon:** *"I hate Council weapons. They're expensive and they hurt more."*
+"Corridor secured," Joon muttered. "Moving to the escrow ante-chamber."
 
 ---
 
-#### Turn 4: Echo Flanks
+#### Chapter 3: The Breach of the Escrow Chamber
 
-Echo moves — silent, a shadow among shadows. Their Shadow Cloak activates — rendering them nearly invisible.
+At one hundred and seventy meters depth, the team encountered the first line of living resistance.
 
-They circle behind the Brokers — moving through the chamber's corridors, disabling operatives one by one. A quick strike to the back of the neck. A precise application of Han-suppression. A body dropping silently to the floor.
+The escrow ante-chamber was an opulent circular hall paved with white marble and lined with gilded pillars. Stationed within were twenty elite mercenaries of the Gilded Wardens—private security contractors outfitted in custom gold-inlaid carapace armor, wielding high-voltage shock lances and heavy kinetic tower shields.
 
-> **Echo:** *"Four down. Eight remaining."*
+"Warden interdiction squad! Drop your shields and submit to municipal authority!" Taeho's voice boomed across the marble floor.
 
-> **Taeho:** *"Keep moving. We need the leader."*
+"Kill the intruders! Ten thousand Echo bounty per head!" the mercenary commander barked.
 
-> **Echo:** *"I know where she is. The control room. Lowest level."*
+The Gilded Wardens formed a shield wall, unleashing a volley of pneumatic coin-shot—clusters of razor-sharp brass discs propelled at supersonic speed.
 
----
+"Phalanx lock!" Taeho commanded, slamming his Obsidian Bastion into the marble floor.
 
-#### Turn 5: Soojin Contains
+The supersonic coin-shot ricocheted furiously off Taeho's kinetic barrier, showering the hall in sparks and shattered stone. Behind the shield, Joon primed two concussion grenades, rolling them beneath the mercenaries' boots.
 
-A Broker throws a debt-grenade — a device that creates phantom obligations on impact.
+*CRACK-THUMP.*
 
-Soojin steps forward — her Handler's Cage extending. The cage catches the grenade — containing it, suppressing it, neutralizing it.
+The dual concussive shockwaves rattled the mercenaries' visors, breaking their interlocking shield formation. In that split second of vulnerability, Echo dropped from a gilded chandelier, executing three rapid spinning disarms that sent shock lances clattering across the floor.
 
-> **Soojin:** *"Contained! But there's more!"*
+Minho and Yuna swept forward, firing targeted neuro-stuns that incapacitated the remaining guards with zero lethal trauma. Within sixty seconds, the ante-chamber was neutralized.
 
-More grenades fly — Soojin catches them one by one, her Resolve attribute activating, calming the energy, reducing volatility.
-
-> **Soojin:** *"I can't keep this up! They're throwing everything!"*
-
-> **Taeho:** *"Hold them! We're almost there!"*
+"Check their comms," Taeho instructed. "Joon, blow the ledger vault door."
 
 ---
 
-#### Turn 6: The Transfer Pad
+#### Chapter 4: The Truth of the Gilded Ledger
 
-The team reaches the Transfer Pad — massive, humming, pulsing with phantom debts.
+At one hundred and ninety-five meters below the banking district, the squad entered the Cryptographic Core—a circular amphitheater surrounded by towers of glowing glass server blades, cooling racks, and copper pneumatic conduits.
 
-The device is active — creating phantom debts, injecting them into the Collector's system. The debts spread like a virus — infecting citizens, destroying lives.
+Yuna immediately plugged her cipher slate into the central terminal. Her hands flew across the keyboard as decryption protocols stripped away layers of military-grade encryption.
 
-> **Yuna:** *"We need to shut it down! Now!"*
+"I have the master database," Yuna said, her eyes widening as lines of financial records cascaded down her terminal screen. "Good gods... it's worse than we imagined."
 
-> **Echo:** *"The control panel is there. But the leader is guarding it."*
+Minho leaned over her shoulder. "What did you find?"
 
-The Broker Leader stands before the control panel — her eyes blazing, her hands on the controls.
+"Man-sik isn't just a rogue loan shark," Yuna answered, her voice trembling with cold rage. "Look at the profit distribution registers. Forty percent of all revenue extracted through phantom debts was funnelled into blind trusts owned by four sitting members of the High Council and two directors within the Reverie Directorate's municipal liaison committee."
 
-> **Broker Leader:** *"You won't shut it down. You won't destroy my work. You won't erase what I've built."*
+Taeho stepped beside her, reading the names on the illuminated ledger.
 
----
+"They were manufacturing defaults on purpose," Taeho said, his jaw tightening. "Using Man-sik's bone-scale to fabricate debts, bankrupt legitimate property owners, and seize low-district tenements for corporate redevelopment."
 
-#### Turn 7: Yuna Fights for Truth
+"Every single contract is backed by the original digital signatures of the commissioners," Yuna confirmed, copying the entire database to encrypted Directorate data slates. "We have the names, the bank account numbers, the transaction hashes, and the property titles. They cannot deny this."
 
-Yuna steps forward — her Lens drawn, her records ready.
-
-> **Yuna:** *"The phantom debts are spreading! The Pad is injecting them into the Collector's system! We need to stop it — now!"*
-
-The Broker Leader doesn't move. She presses a button — the Pad accelerates, the debt creation intensifying.
-
-> **Broker Leader:** *"The debts are mine. I created them. I own them. You can't have them."*
-
-> **Yuna:** *"They're not yours! They're people's lives! Their obligations! Their futures!"*
-
-Yuna charges — her Lens extended, aiming for the control panel. The Broker Leader blocks — her own weapon drawn, a blade of crystallized debt.
-
-The fight is brutal — Yuna fighting for the truth, the Broker Leader fighting for her power.
+"Lock the files under Level-5 Forensic Secrecy," Taeho commanded. "Now, let's go collect the debt from Man-sik himself."
 
 ---
 
-#### Turn 8: The Pad Overloads
+#### Chapter 5: The Usury Dais & The Articulating Scale
 
-The Pad sparks — the debt creation destabilizing, the phantom obligations threatening to cascade.
+At two hundred and ten meters depth, the squad reached the final blast bulkhead—a four-meter-thick slab of solid titanium stamped with the golden emblem of the Scales of Commerce.
 
-> **Joon:** *"The Pad is overloading! If it cascades, the debts are permanent!"*
+Joon set four high-density kinetic demolition charges along the hydraulic locking pins.
 
-> **Soojin:** *"Can you stabilize it?"*
+"Stand clear! Breaching in three... two... one!"
 
-> **Joon:** *"Maybe. But I need access to the control panel."*
+A deafening mechanical thunderclap shook the subterranean foundations. The titanium pins sheared clean, and the massive doors swung inward with a low, hydraulic groan.
 
-> **Taeho:** *"Yuna! Clear the way!"*
+The Usury Dais was a breathtaking, grotesque spectacle of subterranean wealth. The vast octagonal vault was piled with bars of gold-refined Han, illuminated cases of antique gems, and towering stacks of parchment debt bonds.
 
-Yuna fights harder — her Lens striking with precision, driving the Broker Leader back. Joon moves to the control panel — his Trowel extending, stabilizing the Pad's energy flow.
+In the center of the dais stood the **Transfer Pad**: a massive raised platform of polished black marble embedded with superconducting copper circuits. Suspended in the center of the platform was **SE-C-IIIβ-015**, "The Debt Scale."
 
-> **Joon:** *"Stabilizing! But it's fighting me!"*
+The Sorrow Entity was an intricate, terrifying balance-scale crafted from yellowed, articulating human bone—smoothly jointed, creaking softly as it balanced two shallow dishes of cloudy crystal. The bone frame pulsed with a faint, dry warmth, radiating waves of judicial void energy that weighed heavily on the mind.
 
-> **Soojin:** *"I'll help!"*
+Standing atop the dais was High Usurer Man-sik.
 
-Soojin joins Joon — her Resolve attribute calming the Pad, reducing its volatility. Together, they stabilize the device — the debts safe, the creation stopped.
+Man-sik was encased in the **Midas Engine**—a colossal, custom-built hydraulic exoskeleton plated in mirror-polished gold alloy, equipped with twin pneumatic coin-shot cannons and an eight-foot electrified **Foreclosure Cudgel**.
 
----
+"Commander Taeho," Man-sik smiled, his voice amplified by gold-plated vocal grilles. "You arrive too late. The municipal liens have cleared. As of midnight, the entire district of Collector's Row belongs to me—and to the esteemed patrons I serve."
 
-#### Turn 9: The Leader Breaks
+"Your contracts are fraudulent, Man-sik," Taeho said, advancing with his shield raised. "Your ledgers are seized. Your patrons are being named in High Court. Stand down and disengage the exoskeleton."
 
-The Broker Leader sees her Pad stabilized — her work saved, but not by her. She breaks.
+"Fraudulent?" Man-sik laughed, slamming his golden cudgel into the marble dais. "In this city, debt is the only true law! It weighs beggar and Director alike! Let us see if your little shield can pay the interest on your insolence!"
 
-> **Broker Leader:** *"No... no... my work... my life..."*
-
-She falls to her knees — her weapon dropping, her eyes empty. The fight leaves her — replaced by despair.
-
-> **Broker Leader:** *"You don't understand. You can't understand. The debts... they're all I have. They're all I am."*
-
-> **Yuna:** *"They're not yours. They belong to the people you enslaved with them."*
-
-> **Broker Leader:** *"They belong to no one! They're just... debts. Obligations. Echoes of promises that don't matter anymore."*
-
-> **Taeho:** *"They matter to the people who pay them."*
+Man-sik pulled the primary lever of the Transfer Pad. The Debt Scale tilted violently, its bone arms snapping taut as a blinding wave of judicial void pressure flooded the chamber!
 
 ---
 
-#### Turn 10: The Council Connection
+#### Chapter 6: The Stand at the Transfer Matrix
 
-The team discovers the Council connection — records, communications, evidence of protection.
+"Composure wards active! Form tactical perimeter!" Taeho shouted.
 
-> **Yuna:** *"The Brokers had Council protection. Their operations were shielded. Their profits were laundered through legitimate channels."*
+The vault erupted into a tempest of kinetic force and psychic void pressure.
 
-> **Taeho:** *"Who on the Council?"*
-
-> **Yuna:** *"The records are encrypted. But the financial trails lead to the Five Heads — the Council's highest authority."*
-
-> **Echo:** *"The system is complicit. The Council knows. They profit. They always have."*
-
-> **Taeho:** *"Then we expose them. We make the Council answer for their crimes."*
-
----
-
-#### Turn 11: The Victims
-
-The team frees the victims — citizens enslaved by phantom debts, their Echoes drained, their lives destroyed.
-
-Some are conscious — confused, disoriented, not knowing why they owe so much. Some are unconscious — their minds too damaged by the debt pressure. Some are screaming — the weight of false obligation too much to bear.
-
-> **Soojin:** *"We need financial teams. Now. The victims need their debts erased."*
-
-> **Yuna:** *"The phantom debts can be erased. The Pad stored the original data — we can restore the citizens' true obligations."*
-
-> **Minho:** *"How many victims?"*
-
-> **Echo:** *"Hundreds. Maybe thousands. The Brokers have been operating for years."*
-
-> **Taeho:** *"We save who we can. We restore what we can. And we make sure this never happens again."*
+```text
++==============================================+
+|       TARGET DOSSIER: THE HIGH USURER        |
++==============================================+
+| Apex Target          | High Usurer Man-sik   |
+| Cartel Moniker       | "The Gold Weigher"    |
+| Threat Grade         | Major Potency (γ)     |
+| Contraband Entity    | SE-C-IIIβ-015 [VO]    |
++----------------------+-----------------------+
+| Combined Vitality    | 7,200 Total Health    |
+| Targetable Parts     | 3 Distinct Modules    |
+| Part 1: Midas Engine | 2,400 Health (Blunt)  |
+| Part 2: Golden Cudgel| 1,600 Health (Pierce) |
+| Part 3: Debt Scale   | 3,200 Health (Void)   |
++----------------------+-----------------------+
+| Stagger Threshold 1  | 60% Health (4,320 HP) |
+| Stagger Threshold 2  | 25% Health (1,800 HP) |
+| Overdrive Skill      | Absolute Foreclosure  |
++==============================================+
+```
 
 ---
 
-#### Turn 12: Assessment
+### Tactical Engagement: 6-Turn Pacification Gauntlet
 
-**Taeho:** *"Report."*
+```text
++=====================================================================+
+|          TURN 1: KINETIC INGRESS & GOLDEN CUDGEL DEFLECTION         |
++---------------------------------------------------------------------+
+| CLASH 1: High Usurer Man-sik vs Commander Taeho                     |
+| > Boss Skill: [Foreclosure Cudgel Slam] (Atk Power 27, Heavy Blunt) |
+|   > Taeho Skill: [Phalanx Bastion: Obsidian Wall] (Def Power 31)    |
+|   > Clash Result: Taeho WINS (Power 31 vs 27).                      |
+|     Kinetic shield absorbs the electrified golden cudgel blow.      |
+|   > Taeho reflects 170 kinetic tremor damage back to Midas Engine.  |
++---------------------------------------------------------------------+
+| CLASH 2: Gilded Mercenaries (x2) vs Sapper Joon                     |
+|   > Mercenary Skill: [Pneumatic Coin-Shot Volley] (Atk Power 21)    |
+| > Joon Skill: [Deployable Mantlet Barrier] (Def Power 25, Kinetic)  |
+| > Clash Result: Joon WINS. Heavy coin-shot flattens against plate.  |
++---------------------------------------------------------------------+
+| TACTICAL MANEUVERS:                                                 |
+|   * Yuna: Casts [Cipher-Scan: Debt Frequency]                       |
+|     Scans hydraulic forearm joint of Cudgel.                        |
+|   * Minho: Fires [Neural Lancet: Calibrated Dart]                   |
+|     Deals 250 Pierce damage to Midas Exoskeleton.                   |
+|   * Soojin: Deploys [Resonance Damping Sphere]                      |
+|     Stabilizes room against judicial void pulses from the scale.    |
+|   * Echo: Activates [Shadow Cloak] -> Slips into vault cable trays. |
++---------------------------------------------------------------------+
+| ROUND 1 DAMAGE TOTALS:                                              |
+|   * Man-sik Midas Exoskeleton HP: 2,400 -> 1,980 / 2,400 (-420 HP)  |
+|   * Foreclosure Cudgel Weapon HP: 1,600 / 1,600                     |
+|   * SE-C-IIIβ-015 Debt Scale Core HP: 3,200 / 3,200                 |
+|   * Combined Target HP: 6,780 / 7,200 | UCD Composure: 100%         |
++=====================================================================+
+```
 
-**Yuna:** *"Financial records recovered. The Brokers operated a phantom debt system — creating false obligations and selling them to Collectors."*
+```text
++=====================================================================+
+|         TURN 2: SAPPING HYDRAULIC SERVOS & LEDGER DECRYPTION        |
++---------------------------------------------------------------------+
+| CLASH 1: High Usurer Man-sik vs Sapper Joon                         |
+|   > Boss Skill: [High-Voltage Usury Sweep] (Atk Power 25, Electric) |
+|   > Joon Skill: [Hydraulic Kinetic Ram] (Atk Power 29, Heavy Blunt) |
+|   > Clash Result: Joon WINS (Power 29 vs 25).                       |
+|     Hydraulic ram shatters the cudgel's power conduit!              |
+|   > Deals 540 Blunt damage to Foreclosure Cudgel.                   |
++---------------------------------------------------------------------+
+| CLASH 2: SE-C-IIIβ-015 'Debt Scale' vs Auditor Yuna                 |
+| > Entity Skill: [Judicial Obligation Weighing] (Atk Power 23, Void) |
+|   > Yuna Skill: [Cipher-Pulse: Frequency Disruptor] (Def Power 27)  |
+| > Clash Result: Yuna WINS. High-frequency pulse stalls balance      |
+|     dish.                                                           |
++---------------------------------------------------------------------+
+| TACTICAL MANEUVERS:                                                 |
+|   * Taeho: Uses [Shield Bash: Kinetic Drive]                        |
+|     Deals 290 Blunt damage to Midas Exoskeleton.                    |
+|   * Minho: Casts [Memory Anchor: Cognitive Salve]                   |
+|     Reinforces squad psychic composure (+15 SP).                    |
+|   * Soojin: Deploys [Resonance Snare: Leaded Ring]                  |
+|     Restricts bone-frame articulation of SE-C-IIIβ-015.             |
+|   * Echo: Slices primary power line running from vault generator.   |
++---------------------------------------------------------------------+
+| ROUND 2 DAMAGE TOTALS:                                              |
+|   * Man-sik Midas Exoskeleton HP: 1,980 -> 1,690 / 2,400 (-290 HP)  |
+|   * Foreclosure Cudgel Weapon HP: 1,600 -> 1,060 / 1,600 (-540 HP)  |
+| * SE-C-IIIβ-015 Debt Scale Core HP: 3,200 -> 2,920 / 3,200 (-280    |
+|     HP)                                                             |
+|   * Combined Target HP: 5,670 / 7,200 | UCD Composure: 98%          |
++=====================================================================+
+```
 
-**Minho:** *"16 victims freed. Phantom debts erased. True obligations restored."*
+```text
++=====================================================================+
+|        TURN 3: PRECISION LANCET PIERCE & STAGGER THRESHOLD 1        |
++---------------------------------------------------------------------+
+| CLASH 1: High Usurer Man-sik vs Senior Investigator Minho           |
+|   > Boss Skill: [Compounded Usury Barrage] (Atk Power 28, Blunt)    |
+|   > Minho Skill: [Neural Lancet: Synaptic Pierce] (Atk Power 32)    |
+|   > Clash Result: Minho WINS (Power 32 vs 28).                      |
+|     Silver lancet pierces main magnetic coil of the cudgel!         |
+| > Deals 1,060 Pierce damage -> PART DESTROYED: Foreclosure Cudgel!  |
++---------------------------------------------------------------------+
+| STATUS EVENT: STAGGER THRESHOLD 1 TRIGGERED!                        |
+|   * Combined Target HP drops below 60% (4,320 HP).                  |
+|   * Golden cudgel shatters into useless brass shards!               |
+| * Man-sik suffers [Stagger 1] for 1 turn (Def 0, takes 2.0x         |
+|     damage).                                                        |
++---------------------------------------------------------------------+
+| TACTICAL MANEUVERS:                                                 |
+|   * Taeho: Executes [Heavy Piston Strike] -> Deals 480 Blunt.       |
+|   * Joon: Plants [Thermite Disruption Clamp] -> Deals 450 Thermal.  |
+| * Echo: Drives [Eclipse Stiletto] into knee joint -> Deals 410      |
+|     Slash.                                                          |
+|   * Soojin: Prepares leaded cryo-blanket for the Debt Scale.        |
++---------------------------------------------------------------------+
+| ROUND 3 DAMAGE TOTALS:                                              |
+|   * Man-sik Midas Exoskeleton HP: 1,690 -> 350 / 2,400 (-1,340 HP)  |
+|   * Foreclosure Cudgel Weapon: [DESTROYED]                          |
+|   * SE-C-IIIβ-015 Debt Scale Core HP: 2,920 / 3,200                 |
+|   * Combined Target HP: 3,270 / 7,200 (Stagger 1 Active)            |
++=====================================================================+
+```
 
-**Soojin:** *"Pad stabilized. Phantom debts stored safely. Ready for evidence processing."*
+```text
++=====================================================================+
+|         TURN 4: VOID JUDGEMENT SURGE & LEADED SANCTUARY WARD        |
++---------------------------------------------------------------------+
+| ENCOUNTER EVENT: Transfer Pad Emergency Overcharge!                 |
+|   * Man-sik recovers from Stagger, pulling emergency purge breaker. |
+|   * SE-C-IIIβ-015 'The Debt Scale' flares into Berserk Resonance!   |
+| * Yellowed bone-arms tilt wildly, emitting crushing Void pressure.  |
++---------------------------------------------------------------------+
+| CLASH 1: SE-C-IIIβ-015 'Debt Scale' vs Containment Handler Soojin   |
+| > Entity Skill: [Absolute Foreclosure of Life] (Atk Power 33, Void) |
+|   > Soojin Skill: [Leaded Sanctuary: Damping Field] (Def Power 36)  |
+|   > Clash Result: Soojin WINS (Power 36 vs 33)!                     |
+|     Leaded damping dome absorbs the crushing void gravity wave.     |
+|   > Soojin redirects kinetic damping -> Deals 510 Void damage.      |
++---------------------------------------------------------------------+
+| TACTICAL MANEUVERS:                                                 |
+| * Taeho: Interposes shield between Man-sik and terminal data racks. |
+| * Yuna: Uploads master decryption cipher, cracking Council ledgers. |
+| * Minho: Dispenses [Neuro-Stabilizing Aerosol] to preserve sanity.  |
+| * Joon: Cuts emergency coolant line to freeze Midas engine servos.  |
++---------------------------------------------------------------------+
+| ROUND 4 DAMAGE TOTALS:                                              |
+|   * Man-sik Midas Exoskeleton HP: 350 / 2,400                       |
+|   * Foreclosure Cudgel: [DESTROYED]                                 |
+| * SE-C-IIIβ-015 Debt Scale Core HP: 2,920 -> 2,410 / 3,200 (-510    |
+|     HP)                                                             |
+|   * Combined Target HP: 2,760 / 7,200 | UCD Composure: 95%          |
++=====================================================================+
+```
 
-**Joon:** *"Facility secured. Barriers deployed. No one gets in or out."*
+```text
++=====================================================================+
+|    TURN 5: PHANTOM STILETTO SEVER & TERMINAL STAGGER THRESHOLD 2    |
++---------------------------------------------------------------------+
+| CLASH 1: SE-C-IIIβ-015 'Debt Scale' vs Infiltrator Echo             |
+|   > Entity Skill: [Articulating Bone Scythe] (Atk Power 29, Slash)  |
+|   > Echo Skill: [Eclipse Stiletto: Phantom Sever] (Atk Power 34)    |
+|   > Clash Result: Echo WINS (Power 34 vs 29).                       |
+| Echo drops from vaulted chandelier, shearing central bone fulcrum.  |
+|   > Deals 680 Slash damage to Debt Scale Core.                      |
++---------------------------------------------------------------------+
+| STATUS EVENT: TERMINAL STAGGER THRESHOLD 2 TRIGGERED!               |
+|   * Combined Target HP falls below 25% (1,800 HP).                  |
+|   * The bone frame cracks; balance dishes tip and shatter on deck!  |
+|   * Both Man-sik and SE-C-IIIβ-015 enter [Terminal Stagger 2]!      |
++---------------------------------------------------------------------+
+| TACTICAL MANEUVERS:                                                 |
+|   * Joon: Tears away buckled gold breastplate, exposing cockpit.    |
+| * Minho: Injects [Sedative Soporific Solution] into Man-sik's suit. |
+|   * Yuna: Completes full download of 12,000 phantom debt ledgers.   |
+| * Soojin: Clamps Class-IV Leaded Containment Shell over bone scale. |
++---------------------------------------------------------------------+
+| ROUND 5 DAMAGE TOTALS:                                              |
+| * Man-sik Midas Exoskeleton HP: 350 -> 0 / 2,400 (-350 HP, CRUSHED) |
+|   * Foreclosure Cudgel: [DESTROYED]                                 |
+| * SE-C-IIIβ-015 Debt Scale Core HP: 2,410 -> 1,180 / 3,200 (-1,230  |
+|     HP)                                                             |
+|   * Combined Target HP: 1,180 / 7,200 (Terminal Stagger 2 Active)   |
++=====================================================================+
+```
 
-**Echo:** *"12 Brokers captured. Leader subdued. Operation dismantled."*
-
-**Harin:** *"No casualties on our side. Four minor injuries. All targets neutralized."*
-
-**Taeho:** *"Good work. Secure the evidence. Contain the Brokers. Prepare for Council exposure."*
+```text
++=====================================================================+
+|           TURN 6: CLIMAX OVERDRIVE: IRON GAVEL & CRYO-SEAL          |
++---------------------------------------------------------------------+
+| FINAL EXECUTIONS & OVERDRIVE RESOLUTION:                            |
+| CLASH 1: Commander Taeho vs High Usurer Man-sik                     |
+| > Taeho Overdrive: [Iron Gavel: Decreed Subjugation] (Cost: 35 SP)  |
+|   > Overdrive Power: 44 (Devastating Kinetic Blunt Verdict)         |
+| > Execution: Heavy Obsidian shield smashes into Midas cockpit       |
+|     frame.                                                          |
+|     The gilded gold-alloy collapses; Man-sik is forcibly extracted. |
+| > Non-lethal concussive kinetic shock renders Man-sik unconscious.  |
++---------------------------------------------------------------------+
+| CLASH 2: Containment Handler Soojin vs SE-C-IIIβ-015 'The Debt      |
+|     Scale'                                                          |
+| > Soojin Overdrive: [Class-IV Leaded Containment Vault: Final       |
+|     Audit]                                                          |
+|   > Overdrive Power: 42 (Absolute Containment / Cryo-Seal)          |
+|   > Execution: Soojin locks the four hydraulic lead-mantle latches. |
+| Cryogenic sedative mist quenches the bone scale's void resonance.   |
+| > SE-C-IIIβ-015 falls completely inert inside the reinforced vault! |
++---------------------------------------------------------------------+
+| PACIFICATION SUMMARY:                                               |
+| * High Usurer Man-sik: APPREHENDED (Armor wrecked, target secured). |
+|   * Midas Engine & Foreclosure Cudgel: 100% DEMOLISHED.             |
+| * SE-C-IIIβ-015 'The Debt Scale': 100% CONTAINED (Zero void         |
+|     leakage).                                                       |
+| * 12,000 phantom debts purged from municipal registry in real time. |
++=====================================================================+
+```
 
 ---
 
-#### Turn 13: The Evidence
+#### Chapter 7: The Aftermath & The Cleared Slates
 
-The team secures the evidence — Council communications, financial records, protection agreements.
+The deafening hum of the Transfer Pad died into absolute silence as Soojin snapped the fourth reinforced hydraulic clamp on the lead containment shell. Inside the leaded vault, SE-C-IIIβ-015 lay dormant, its articulating bone frame cooled and its judicial void radiation completely quenched.
 
-> **Yuna:** *"The evidence is clear. The Council protected the Brokers. The Five Heads profited from phantom debts."*
+On the shattered marble dais, High Usurer Man-sik lay pinned beneath the buckled wreckage of his golden Midas Engine. His gilded breastplate was crushed, his weapon broken into twisted brass slag.
 
-> **Taeho:** *"Then we expose them. We make the Council answer for their crimes."*
+Minho knelt beside the fallen usurer, applying cognitive restraint collars and securing his arms behind his back.
 
-> **Echo:** *"The system is complicit. The Council knows. They profit. They always have."*
+"The interest has matured, Man-sik," Minho said coldly. "And the principal has just been recalled."
 
----
+Man-sik coughed weakly, his eyes rolling toward the server racks. "You... you think you've won... the Council... will have you erased... by tomorrow..."
 
-#### Turn 14: The Council Responds
+"Not tomorrow, and not ever," Auditor Yuna interrupted, stepping up with her glowing cipher slate. "I have just executed the master revocation protocol across the Central Municipal Banking Network. All twelve thousand phantom debts have been expunged from the civic registry. Every frozen account has been restored to its rightful owner. And the transaction logs implicating your four Council commissioners are already in the hands of Directorate High Prosecution."
 
-The Council responds — not with justice, but with denial.
+Man-sik closed his eyes in defeat, slumping against the marble tiles.
 
-> **Council Representative:** *"These allegations are baseless. The Debt Brokers were a rogue operation. The Council had no knowledge of their activities."*
+Across the vault, Joon and Echo completed the demolition of the Transfer Pad's copper circuitry, ensuring that no future syndicate could ever exploit the Debt Scale's judicial frequency.
 
-> **Taeho:** *"The evidence says otherwise. The Council protected the Brokers. The Five Heads profited from phantom debts."*
+"Transfer Pad demolished," Joon announced, shouldering his demolition hammer with satisfaction. "The machine is scrap."
 
-> **Council Representative:** *"The evidence is fabricated. The UCD has overstepped its authority. The operation is terminated."*
+Taeho walked over to the towering stacks of parchment debt bonds. With a single flick of his tactical lighter, he touched the flame to the edge of the master bond rolls. The false contracts flared into amber fire, burning to ash and floating upward into the vault's air filters.
 
-> **Taeho:** *"The operation continues. The evidence is real. The Council will answer for their crimes."*
+"Four operations pacified," Taeho said, watching the embers fade. "The Mask Market. The Bleached Wards. The Low Sinks. And now the Usury Vaults."
 
----
+"Next is Zone D and E," Echo noted, looking up toward the access elevator. "The Entity Traders. Trafficking living Sorrow Entities across the outer quarries."
 
-#### Turn 15: The Aftermath
-
-The team returns to the surface — carrying the evidence, the captured Brokers, and the weight of what they learned.
-
-> **Yuna:** *"The Council is denying everything. They're calling the evidence fabricated."*
-
-> **Taeho:** *"Then we make it public. We let the city decide."*
-
-> **Echo:** *"The system is complicit. The Council knows. They profit. They always have."*
-
-> **Soojin:** *"And the victims? What happens to them?"*
-
-> **Taeho:** *"We restore what we can. We protect what we can't. And we make sure this never happens again."*
+"Then we will hunt the traffickers," Taeho said firmly. "Strike team, secure the prisoner and evidence slates. Extraction in five minutes."
 
 ---
 
-#### Turn 16: Aftermath
+### Post-Action Forensic Inventory
 
-**Casualties:** None on UCD side — 12 Brokers captured, leader subdued.
-
-**Evidence:** Transfer Pad (stabilized), phantom debts (erased), Council communications, financial records.
-
-**Victim status:** 16 victims freed — phantom debts erased. Hundreds more victims identified — search ongoing.
-
-**Broker status:** All contained — awaiting transport to Wardens' custody.
-
-**Council status:** Evidence exposed — public outcry growing. The Five Heads under scrutiny.
-
-**Next steps:** Expose the Council connection. Dismantle the protection network. Move to Arc 5.
+| Item ID | Description | Quantity | Disposition |
+|---|---|---|---|
+| **EVD-UCD-04-A** | SE-C-IIIβ-015 "Debt Scale" Containment Vault | 1 Unit | Transferred to R.D. Memory Archives |
+| **EVD-UCD-04-B** | Seized Cryptographic Server Core Drives | 24 Disks | Delivered to Directorate High Prosecution |
+| **EVD-UCD-04-C** | Man-sik Midas Exoskeleton Chassis Wreckage | 1 Rig | Sapped & Impounded for Engineering Study |
+| **EVD-UCD-04-D** | Shattered Foreclosure Cudgel Weapon Slag | 1 Weapon | Scuttled & Impounded In Situ by Joon |
+| **EVD-UCD-04-E** | High Council Kickback & Usury Ledger Slates | 16 Disks | Evidence in Impending Council Indictment |
+| **EVD-UCD-04-F** | Purged Municipal Phantom Debt Accounts | 12,000 Files | 100% Expunged from Banking Registry |
 
 ---
 
-### Arc 4 — Key Discoveries
+### Arc 4 Key Discoveries & Systemic Revelations
 
-| Discovery | Implication |
-|-----------|-------------|
-| **Phantom debts are profitable** | Obligation is the most valuable black market commodity |
-| **Collector technology was stolen** | The Brokers had inside help |
-| **Victims can be restored** | But the process is lengthy and risky |
-| **The Council is complicit** | The Five Heads profited from phantom debts |
-| **The system creates demand** | Poverty and desperation drive the market |
-| **Echo's past** | Echo helped build what they now destroy |
-
-### Arc 4 — Character Development
-
-| Character | Development |
-|-----------|-------------|
-| **Taeho (Commander)** | Faces the Council's corruption — the system itself is the problem |
-| **Yuna (Auditor)** | Exposes the Council — sees the system's failures |
-| **Minho (Investigator)** | Fights for the victims — sees obligation as sacred |
-| **Soojin (Handler)** | Stabilizes the Pad — saves the phantom debts as evidence |
-| **Joon (Engineer)** | Prevents cascade — protects the evidence |
-| **Echo (Infiltrator)** | Confronts their past — helped build what they now destroy |
+| Discovery | Systemic Implication |
+|---|---|
+| **High Council Financial Corruption** | Four sitting High Council commissioners actively profited from fabricated debt foreclosures. |
+| **Judicial Resonance Weaponization** | Contraband Sorrow Entities can be exploited to force psychological compliance with false obligations. |
+| **Municipal Registry Vulnerability** | The civic banking network possesses backdoors that allowed syndicates to freeze citizen assets. |
+| **Real Estate Disenfranchisement** | Phantom usury was deliberately engineered to displace low-district residents for corporate Spire expansion. |
+| **Complete Evidence Chain** | The seized server cores provide irrefutable documentary proof for High Court prosecution. |
 
 ---
+
+### Strike Officer Performance & Tactical Growth
+
+| Officer | Tactical Specialization | Operational Growth in Operation 4 |
+|---|---|---|
+| **Taeho (Commander)** | Bastion Vanguard / Riot Breacher | Deflected high-velocity golden coin-shot volleys, preserving squad composure under heavy fire. |
+| **Yuna (Auditor)** | Forensic Decryption / Disruption | Cracked military-grade cryptographic servers mid-combat and executed the city-wide debt purge script. |
+| **Minho (Investigator)** | Psycho-Forensics / Neural Scribe | Executed pinpoint lancet strike on the cudgel's power conduit, shattering Man-sik's primary weapon. |
+| **Soojin (Handler)** | Entity Containment / Sedative Field | Neutralized a catastrophic judicial void pulse using the Leaded Sanctuary dome, containing SE-C-IIIβ-015. |
+| **Joon (Engineer)** | Sapper & Demolitions | Breached four-meter titanium blast bulkheads in 15 seconds and disabled automated gatling turrets. |
+| **Echo (Infiltrator)** | Shadow Infiltration / Catwalk Flank | Spliced fiber-optic feeds to blind security concourses and severed the vault's auxiliary generator. |
+
+---
+
 
 ---
 

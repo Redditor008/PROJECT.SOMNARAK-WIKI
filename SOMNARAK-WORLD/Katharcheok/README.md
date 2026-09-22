@@ -51,7 +51,7 @@ The tactical campaign of the UCD unfolds across six high-intensity operational r
    - Investigation into the illegal identity-stripping laboratories where citizens' memories are washed and auctioned. Infiltrator Echo provides inside coordinates to locate the primary wash-rig.
 3. **[Operation 3: The Harvesters](Operation_3_Messischwi.md)** (Messischwi / 착취구 — Zone B: The Low Sinks)
    - Direct combat confrontation against illegal Echo extraction cartels that forcefully siphon raw emotional fluid from vulnerable refugees. Liberation of victims and weapon destruction.
-4. **[Operation 4: The Debt Brokers](Operation_4_The_Debt_Brokers.md)** (Usurachae / 사채고 — Zone C: The Usury Vaults)
+4. **[Operation 4: The Debt Brokers](Operation_4_Usurachae.md)** (Usurachae / 사채고 — Zone C: The Usury Vaults)
    - Forensic financial raid led by Auditor Yuna against the predatory syndicates manufacturing phantom debt obligations and laundering illicit credits through Council shell accounts.
 5. **[Operation 5: The Entity Traders](Operation_5_The_Entity_Traders.md)** (Therionok / 흑옥투 — Zones D & E: The Black Cages)
    - High-hazard containment breach operation targeting an illegal underground auction house where weaponized, tortured Sorrow Entities are sold to private military cartels.
