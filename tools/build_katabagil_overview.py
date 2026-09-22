@@ -1,4 +1,7 @@
-# [KATABAGIL_OVERVIEW] Katabagil Subterranean Expeditionary Guidebook (심층 하강 원정 총람 / 深層下降遠征總覽)
+#!/usr/bin/env python3
+import sys
+
+content = """# [KATABAGIL_OVERVIEW] Katabagil Subterranean Expeditionary Guidebook (심층 하강 원정 총람 / 深層下降遠征總覽)
 ## The Definitive Operational Guidebook, Cartographic Strata Codex & Subterranean Expeditionary Mechanics for the Seven Descents
 
 ```text
@@ -643,3 +646,15 @@ On the eastern rim, looking out over the city as the sun rises over the Desolate
 | Intake & Containment | Floor 2 (Maw's Keep)  |
 +======================+=======================+
 ```
+"""
+
+destinations = [
+    "SOMNARAK-WORLD/Katabagil/KATABAGIL_OVERVIEW.md",
+    "SOMNARAK-WORLD/Master_Codices/KATABAGIL_OVERVIEW.md",
+    "KATABAGIL_OVERVIEW.md"
+]
+
+for dest in destinations:
+    with open(dest, "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"Successfully wrote {dest} ({len(content)} chars)")

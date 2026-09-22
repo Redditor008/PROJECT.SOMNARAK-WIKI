@@ -585,7 +585,7 @@ The seven specialists stepped past the throne, descending deeper into the earth.
 - **Company Dossier & Fleet Infrastructure:** `SOMNARAK-WORLD/Master_Codices/The_SOMNARAK_EXPLORATION_DECREE.md`
 - **Monolithic Master Story:** `SOMNARAK-WORLD/Master_Codices/SOMNARAK_SED_PASSAGES.md`
 - **Next Descent Volume:** `SOMNARAK-WORLD/Katabagil/Passage_2_Petrobyeok.md`
-- **Field Guidebook & Depth Hazards:** `SOMNARAK-WORLD/Katabagil/SED_OVERVIEW.md`
+- **Field Guidebook & Depth Hazards:** `SOMNARAK-WORLD/Katabagil/KATABAGIL_OVERVIEW.md`
 
 
 ## Arc 2: Petrobyeok (심층 하강록 제2장: 석벽 / 石壁)
@@ -1083,7 +1083,7 @@ The seven specialists stepped through the archway, descending into the lawless d
 - **Monolithic Master Story:** `SOMNARAK-WORLD/Master_Codices/SOMNARAK_SED_PASSAGES.md`
 - **Previous Descent Volume:** `SOMNARAK-WORLD/Katabagil/Passage_1_Cryptasu.md`
 - **Next Descent Volume:** `SOMNARAK-WORLD/Katabagil/Passage_3_Furtugil.md`
-- **Field Guidebook & Depth Hazards:** `SOMNARAK-WORLD/Katabagil/SED_OVERVIEW.md`
+- **Field Guidebook & Depth Hazards:** `SOMNARAK-WORLD/Katabagil/KATABAGIL_OVERVIEW.md`
 
 
 ## Arc 3: Furtugil (심층 하강록 제3장: 잠행로 / 潛行路)

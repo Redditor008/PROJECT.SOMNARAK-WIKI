@@ -546,7 +546,7 @@ Authorized directly under Executive Mandate 042, the Katabagil descent is the de
 The complete, turn-by-turn combat chronicles, narrative chapters, and tactical breach protocols of this historic expedition are codified in the companion master chronicles:
 - **Master Narrative Chronicle:** `SOMNARAK_SED_PASSAGES.md`
 - **Volume Archive Directory:** `SOMNARAK-WORLD/Katabagil/` (`Passage_1_Cryptasu.md` through `Passage_7_Fontisaem.md`)
-- **Field Guidebook:** `SOMNARAK-WORLD/Katabagil/SED_OVERVIEW.md`
+- **Field Guidebook:** `SOMNARAK-WORLD/Katabagil/KATABAGIL_OVERVIEW.md`
 
 ---
 

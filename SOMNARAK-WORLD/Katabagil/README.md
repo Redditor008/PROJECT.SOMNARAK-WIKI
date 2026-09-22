@@ -60,4 +60,4 @@ The narrative and tactical expedition of the SED is structured across seven cont
 
 - **Company Dossier:** `SOMNARAK-WORLD/Master_Codices/The_SOMNARAK_EXPLORATION_DECREE.md`
 - **Monolithic Master Story:** `SOMNARAK-WORLD/Master_Codices/SOMNARAK_SED_PASSAGES.md`
-- **Field Guidebook:** `SOMNARAK-WORLD/Katabagil/SED_OVERVIEW.md`
+- **Field Guidebook:** `SOMNARAK-WORLD/Katabagil/KATABAGIL_OVERVIEW.md`

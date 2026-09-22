@@ -493,4 +493,4 @@ The seven specialists stepped through the archway, descending into the lawless d
 - **Monolithic Master Story:** `SOMNARAK-WORLD/Master_Codices/SOMNARAK_SED_PASSAGES.md`
 - **Previous Descent Volume:** `SOMNARAK-WORLD/Katabagil/Passage_1_Cryptasu.md`
 - **Next Descent Volume:** `SOMNARAK-WORLD/Katabagil/Passage_3_Furtugil.md`
-- **Field Guidebook & Depth Hazards:** `SOMNARAK-WORLD/Katabagil/SED_OVERVIEW.md`
+- **Field Guidebook & Depth Hazards:** `SOMNARAK-WORLD/Katabagil/KATABAGIL_OVERVIEW.md`
