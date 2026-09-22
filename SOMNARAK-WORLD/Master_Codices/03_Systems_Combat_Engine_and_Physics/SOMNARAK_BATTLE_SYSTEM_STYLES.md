@@ -582,7 +582,7 @@ Below is the definitive, canonical combat visualization template designed for di
 
 ## X. Story Combat Adaptation Guidelines
 
-When writing or revising battle sequences across canonical chronicles (`SOMNARAK_SED_PASSAGES.md`, `SOMNARAK_UCD_PACIFICATION.md`, and `The_Absolvohan`):
+When writing or revising battle sequences across canonical chronicles (`Katabagil`, `Katharcheok`, and `The_Absolvohan`):
 
 1. **Always Establish Spatial Nodes**: Explicitly state where combatants begin and how they maneuver across Nodes 1 through 10.
 2. **Translate Speed into Tangible Actions**: Describe high-speed combatants executing multiple actions (striking, dashing, parrying) within a single turn, reflecting their higher AP budget.

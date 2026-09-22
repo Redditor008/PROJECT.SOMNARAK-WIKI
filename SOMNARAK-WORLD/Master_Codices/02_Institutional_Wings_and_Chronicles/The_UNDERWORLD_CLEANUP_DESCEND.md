@@ -442,7 +442,6 @@ The primary combat operations of the UCD are documented in the **Katharcheok Chr
    - The climactic full-force siege of the Underworld King's subterranean fortress. Breaching the Three Gates, disarming the experimental weaponized Sorrow Core, deposing King Kang-hyuk, and establishing permanent civil sovereignty across The Raw.
 
 - **Chronicle Alignment:**
-  * Master Story Compilation: `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/SOMNARAK_UCD_PACIFICATION.md`
   * Tactical Field Guidebook: `SOMNARAK-WORLD/Katharcheok/KATHARCHEOK_OVERVIEW.md`
   * Operational Volumes: `SOMNARAK-WORLD/Katharcheok/` (`Operation_1_Velumtal.md` to `Operation_6_The_Underworld_King.md`)
 

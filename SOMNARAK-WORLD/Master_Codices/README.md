@@ -2,7 +2,7 @@
 
 **Archive Authority:** Reverie Directorate Executive Archive  
 **Status:** Supreme Canonical Baseline of Somnarak  
-**Total Tracked Codices:** 35 In-Universe Master Markdown Documents organized into 6 Canonical Subfolders (~50,000 lines / ~400,000 words)
+**Total Tracked Codices:** 32 In-Universe Master Markdown Documents organized into 6 Canonical Subfolders (~42,000 lines / ~340,000 words)
 
 ---
 
@@ -67,13 +67,10 @@ Foundational cosmological architecture, metaphysics, origin cataclysms, and the 
 ---
 
 ### Subfolder 2: `02_Institutional_Wings_and_Chronicles/`
-Corporate dossiers, operating doctrines, and master chronicles of the three sovereign institutions:
-- `The_REVERIE_DIRECTORATE.md` (3,073 lines): Subterranean Facility 01 ("The Hand of Change") corporate dossier, 8 operational subterranean floors, 9 Echo-Core roles, and departmental missions.
-- `The_SOMNARAK_EXPLORATION_DECREE.md`: The SED corporate dossier, three-tier subterranean exploration doctrine, specialized survey gear, and expedition specialist profiles.
-- `The_UNDERWORLD_CLEANUP_DESCEND.md`: The UCD corporate dossier, three-phase reclamation doctrine, pacification armaments, and joint task force profiles.
-- `SOMNARAK_SED_PASSAGES.md`: Master narrative chronicle of the 7 Katabagil subterranean descents. *(Paired with `SOMNARAK-WORLD/Katabagil/`).*
-- `SOMNARAK_UCD_PACIFICATION.md`: Master narrative chronicle of the 6 Katharcheok pacification sweeps. *(Paired with `SOMNARAK-WORLD/Katharcheok/`).*
-- `SOMNARAK_ABSOLOVHAN.md` (4,828 lines): The Absolvohan 366-day facility gameplay and narrative master chronicle. *(Paired with `SOMNARAK-WORLD/The_Absolvohan/`).*
+Official corporate dossiers and operational doctrines of the three sovereign institutional wings (with all narrative chronicles housed exclusively in their dedicated suites):
+- `The_REVERIE_DIRECTORATE.md` (3,073 lines): Subterranean Facility 01 ("The Hand of Change") corporate dossier, 8 operational subterranean floors, 9 Echo-Core roles, and departmental missions. *(Paired with the 366-day facility saga in `SOMNARAK-WORLD/The_Absolvohan/`).*
+- `The_SOMNARAK_EXPLORATION_DECREE.md`: The SED corporate dossier, three-tier subterranean exploration doctrine, specialized survey gear, and expedition specialist profiles. *(Paired with the 7 subterranean descents in `SOMNARAK-WORLD/Katabagil/`).*
+- `The_UNDERWORLD_CLEANUP_DESCEND.md`: The UCD corporate dossier, three-phase reclamation doctrine, pacification armaments, and joint task force profiles. *(Paired with the 6 pacification operations in `SOMNARAK-WORLD/Katharcheok/`).*
 
 ---
 
@@ -139,5 +136,5 @@ In addition to the Master Codices, Project Somnarak maintains four standalone op
 7. 03_Systems_Combat_Engine_and_Physics/SOMNARAK_ORDEALS_FRAMEWORK.md
 8. 04_Municipal_Society_and_Demographics/SOMNARAK_DAILY_LIFE.md
 9. 05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md
-10. 02_Institutional_Wings_and_Chronicles/SOMNARAK_ABSOLOVHAN.md
+10. The_Absolvohan/ABSOLOVHAN_OVERVIEW.md    → Comprehend the facility gameplay and narrative saga
 ```

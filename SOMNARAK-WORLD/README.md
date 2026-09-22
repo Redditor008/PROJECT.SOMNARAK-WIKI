@@ -33,7 +33,7 @@ Somnarak is a towering subterranean and surface metropolis of 1.29 billion souls
 SOMNARAK-WORLD/
 ├── README.md                           # This sovereign dispatch and archival guide
 │
-├── Master_Codices/                     # 35 Macro-Canon Codices across 6 Subfolders
+├── Master_Codices/                     # 32 Macro-Canon Codices across 6 Subfolders
 │   ├── README.md                       # Master classification & reading roadmap
 │   ├── 01_Cosmology_and_World_Order/   # Cosmology, The Weeping, The Doorspeech
 │   ├── 02_Institutional_Wings_and_Chronicles/ # R.D., SED, UCD, Absolvohan

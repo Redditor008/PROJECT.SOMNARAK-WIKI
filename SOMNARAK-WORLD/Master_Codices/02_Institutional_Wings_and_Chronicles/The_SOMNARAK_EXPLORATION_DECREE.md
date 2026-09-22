@@ -9,7 +9,7 @@
 | **Operational Domain** | Negative 50 Meters to Primordial Nadir |
 | **Headquarters Complex** | The Chthonic Citadel (Zone B / Eastern Maw Rim) |
 | **Active Personnel** | 1,460 Sworn Expeditionary & Engineering Members |
-| **Associated Chronicle** | `SOMNARAK_SED_PASSAGES.md` (Katabagil Arcs 1–7) |
+| **Associated Chronicle** | `SOMNARAK-WORLD/Katabagil/` (Katabagil Arcs 1–7) |
 
 > *"The city is forty-two centuries old. We have mapped every street, numbered every building, and taxed every doorway. Yet we walk upon a hollow crust, terrified of the silence beneath our boots. The exploration of the underworld is not an ambition; it is an existential necessity. If we do not chart the sorrow gathering in the deep strata, the ground will swallow us whole."*  
 > — High Commissioner Baek Seung-Hyun, Address to the Council of Sighs, Year 4,180
@@ -543,8 +543,7 @@ While the SED conducts dozens of routine survey sorties every month to maintain 
 
 Authorized directly under Executive Mandate 042, the Katabagil descent is the deepest, most dangerous expedition in municipal history. Commanded by the Seven Specialists of the Core Vanguard, the mission plunges sequentially through all seven geological strata to confront the primordial origin of the planet's weeping (*Mugenhan*).
 
-The complete, turn-by-turn combat chronicles, narrative chapters, and tactical breach protocols of this historic expedition are codified in the companion master chronicles:
-- **Master Narrative Chronicle:** `SOMNARAK_SED_PASSAGES.md`
+The complete, turn-by-turn combat chronicles, narrative chapters, and tactical breach protocols of this historic expedition are codified in the companion volume collection:
 - **Volume Archive Directory:** `SOMNARAK-WORLD/Katabagil/` (`Passage_1_Cryptasu.md` through `Passage_7_Fontisaem.md`)
 - **Field Guidebook:** `SOMNARAK-WORLD/Katabagil/KATABAGIL_OVERVIEW.md`
 

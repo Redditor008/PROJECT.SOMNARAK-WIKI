@@ -1287,7 +1287,7 @@ Because in Somnarak, some fires cannot be put out. Some fires can only be witnes
 
 Beyond the city's known fixtures, two operations field dedicated teams of specialists — the **SED** (Somnarak Exploration Decreed) and the **UCD** (Underworld Cleanup Descend). These operatives are not city-wide celebrities like the Known People above. They are known *within their operations* — by their codenames, their scars, and the sorrows that put them on the team. Most citizens will never hear their names. The Archive records them anyway.
 
-> *Full rosters and arc-by-arc detail: `The_SOMNARAK_EXPLORATION_DECREE.md` / `SOMNARAK_SED_PASSAGES.md` and `The_UNDERWORLD_CLEANUP_DESCEND.md` / `SOMNARAK_UCD_PACIFICATION.md`*
+> *Full rosters and arc-by-arc detail: `The_SOMNARAK_EXPLORATION_DECREE.md` / `SOMNARAK-WORLD/Katabagil/` and `The_UNDERWORLD_CLEANUP_DESCEND.md` / `SOMNARAK-WORLD/Katharcheok/`*
 
 ---
 
