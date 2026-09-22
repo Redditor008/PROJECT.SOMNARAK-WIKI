@@ -36,13 +36,13 @@ The biosphere of Mugenhan is organized into three distinct, universally recogniz
 |   * Fauna Rep   : Sorrow Beasts - Bone cleavers, armor carapaces.   |
 |   * Flora Rep   : Sorrow Flora - Kinetic thorns, combustible resin. |
 +---------------------------------------------------------------------+
-| TIER 3: MORTAL SORROW ENTITIES (Mortal Fauna and Plant Born)        |
+| TIER 3: MORTAL SORROW FAUNA & FLORA (MSF - Capped at Tier Two Beta) |
 |   * Composition : 100% Sorrow Manifestation - Animal/Plant Born.    |
 |   * Principle   : Conceptual entities acting like biological fauna. |
 |   * Mortality   : Finite mortal lifespans - Permanently slayable.   |
 |   * Threat Cap  : Strictly capped at Tier Two / Moderate Beta.      |
-|   * Fauna Rep   : Beast-Born Entities - Screaming chitin, pack dogs.|
-|   * Flora Rep   : Plant-Born Entities - Spore choirs, root mirages. |
+|   * Fauna Rep   : Mortal Sorrow Fauna (MSF) - Screaming chitin, pack|
+|   * Flora Rep   : Mortal Sorrow Flora (MSF) - Spore choirs, mirages |
 +=====================================================================+
 ```
 
@@ -83,19 +83,19 @@ They are classified as **80% Living Biological Organism and 20% Sorrow / M.A.W. 
 
 ---
 
-### 3. Tier 3: Mortal Sorrow Entities (생멸한령 — Mortal Fauna-Born & Plant-Born Entities)
+### 3. Tier 3: Mortal Sorrow Fauna & Flora (MSF — 생멸한령)
 
-Unlike human Sorrow Entities (SE / SECC) born from complex, immortal human subconscious trauma, **Mortal Sorrow Entities** are born from the collective dying agony, terror, or extinction trauma of subterranean animals, beasts, and forests.
+Unlike human Sorrow Entities (SE / SECC) born from complex, immortal human subconscious trauma, **Mortal Sorrow Fauna and Flora (MSF)** are born from the collective dying agony, terror, or extinction trauma of subterranean animals, beasts, and forests.
 
 - **Mortal Behavioral Paradigm**:
   * They act as if they are natural wild creatures: hunting along territorial tracks, defending dens, stalking prey, or remaining rooted like carnivorous vegetation.
   * They possess **finite, mortal lifespans** (typically weeks to several years) before their sorrow coherence naturally disperses.
   * They **do not possess immortal regeneration**: destroying their physical vessel permanently extinguishes the entity, dropping rich Han-dust rather than entering an eternal containment meltdown cycle.
-  * **Strict Threat Cap**: Because animals and plants lack human existential despair, their grief cannot sustain high-tier conceptual reality-warping. Mortal Sorrow Entities are **strictly capped at Tier Two / Moderate Potency (Grade β)**.
-- **Beast-Born Mortal Entities (수성 생멸한령 / 獸性 生滅恨靈)**:
+  * **Strict Threat Cap**: Because animals and plants lack human existential despair, their grief cannot sustain high-tier conceptual reality-warping. Mortal Sorrow Fauna and Flora are **strictly capped at Tier Two / Moderate Potency (Grade β)**.
+- **Mortal Sorrow Fauna (MSF) (수성 생멸한령 / 獸性 生滅恨靈 — Beast-Born Entities)**:
   * Entities born from the violent death, starvation, or slaughter of animal packs and sorrow beasts.
   * Manifest as spectral predator forms: screaming chitin-crawlers, weeping hound packs, or shadow-antlered stalkers.
-- **Plant-Born Mortal Entities (목성 생멸한령 / 木性 生滅恨靈)**:
+- **Mortal Sorrow Flora (MSF) (목성 생멸한령 / 木性 生滅恨靈 — Plant-Born Entities)**:
   * Entities born from burned fungal colonies, ancient clear-cut fossil groves, or weeping root cataclysms.
   * Manifest as animated root-strangler phantoms, weeping spore clouds, or deceptive blossom mirages that trap living prey with acoustic lamentations.
 
@@ -103,7 +103,7 @@ Unlike human Sorrow Entities (SE / SECC) born from complex, immortal human subco
 
 ## IV. Comparative Taxonomic Matrix
 
-| Metric / Parameter | Tier 1: Mundane Wildlife | Tier 2: Sorrow-Infused Organisms | Tier 3: Mortal Sorrow Entities |
+| Metric / Parameter | Tier 1: Mundane Wildlife | Tier 2: Sorrow-Infused Organisms (SB/SF) | Tier 3: Mortal Sorrow Fauna/Flora (MSF) |
 |---|---|---|---|
 | **Biological Ratio** | 100% Biological Organism | 80% Biological / 20% SE-M.A.W. | 0% Biological (Sorrow Manifestation) |
 | **Living State** | True mortal animal / plant | True mortal animal / plant | Mortal conceptual entity |

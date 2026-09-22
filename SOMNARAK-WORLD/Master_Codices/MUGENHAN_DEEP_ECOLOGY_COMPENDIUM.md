@@ -12,7 +12,7 @@
 - **Section I: Foundational Ontology of Mugenhan Biology**
 - **Section II: Complete Taxonomic Profiles of Tier 1 (Mundane Subterranean Organisms)**
 - **Section III: Complete Taxonomic Profiles of Tier 2 (Sorrow Beasts & Sorrow Flora)**
-- **Section IV: Complete Taxonomic Profiles of Tier 3 (Mortal Sorrow Entities)**
+- **Section IV: Complete Taxonomic Profiles of Tier 3 (Mortal Sorrow Fauna & Flora — MSF)**
 - **Section V: Physiological Ecology & Harvesting Protocols**
 - **Section VI: Strata Ecological Distribution Map & Biodiversity Gradients**
 
@@ -229,12 +229,12 @@ These organisms represent true living beings whose anatomy has naturally integra
 
 ---
 
-## Section IV: Complete Taxonomic Profiles of Tier 3 (Mortal Sorrow Entities)
+## Section IV: Complete Taxonomic Profiles of Tier 3 (Mortal Sorrow Fauna & Flora — MSF)
 
 **100% Sorrow Manifestations Born from Animal & Plant Trauma**  
 *Finite Lifespans • Permanently Slayable • Strictly Capped at Tier Two / Moderate (β) Threat*
 
-### 4.1 Beast-Born Mortal Entities (수성 생멸한령 / 獸性 生滅恨靈)
+### 4.1 Mortal Sorrow Fauna (MSF — 수성 생멸한령 / 獸性 生滅恨靈)
 
 #### 1. The Screaming Chitin (절규하는 갑각 / 絶叫之甲殼)
 - **SECC Code**: `SE-N-IIβ-088 [GS]`
@@ -263,7 +263,7 @@ These organisms represent true living beings whose anatomy has naturally integra
 
 ---
 
-### 4.2 Plant-Born Mortal Entities (목성 생멸한령 / 木性 生滅恨靈)
+### 4.2 Mortal Sorrow Flora (MSF — 목성 생멸한령 / 木性 生滅恨靈)
 
 #### 1. The Strangler Root Mirage (교살의 환영 뿌리 / 絞殺之幻根)
 - **SECC Code**: `SE-N-IIβ-412 [VO]`

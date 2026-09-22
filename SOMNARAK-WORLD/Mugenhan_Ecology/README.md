@@ -34,7 +34,7 @@ Unlike surface municipal territories where sorrow is viewed strictly through the
 +=====================================================================+
 | TIER 1 : MUNDANE ORGANISMS      | 100% Biological Nature - Mortal   |
 | TIER 2 : SORROW-INFUSED LIFE    | 80% Biological / 20% SE-M.A.W.    |
-| TIER 3 : MORTAL SORROW ENTITIES | Capped at Moderate Beta - Slayable|
+| TIER 3 : MORTAL SORROW FAUNA/FLORA (MSF) | Capped at Beta - Slayable|
 +=====================================================================+
 ```
 
