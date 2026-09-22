@@ -1,4 +1,9 @@
-# THE UNDERWORLD CLEANUP DESCEND — Corporate Dossier & Tactical Field Manual
+#!/usr/bin/env python3
+import sys
+
+# Builder for the comprehensive canonical The_UNDERWORLD_CLEANUP_DESCEND.md
+
+content = """# THE UNDERWORLD CLEANUP DESCEND — Corporate Dossier & Tactical Field Manual
 ## Urban Counter-Insurgency, Anti-Fray Pacification & Sub-Municipal Law Enforcement
 
 ```text
@@ -486,3 +491,14 @@ Under Council statute, the UCD is strictly forbidden from retaining, weaponizing
 The UCD maintains total operational independence from local district governors. To prevent bribery and extortion:
 - All seized currency, gold, and financial assets are audited by Auditor Yuna and transferred directly to the Public Relief Fund to finance free water and medical care for slum residents.
 - All recovered identity vials and census records are placed under the sole custodianship of Investigator Minho and the Keepers Archive, completely insulated from political manipulation.
+"""
+
+destinations = [
+    "SOMNARAK-WORLD/Master_Codices/The_UNDERWORLD_CLEANUP_DESCEND.md",
+    "The_UNDERWORLD_CLEANUP_DESCEND.md"
+]
+
+for dest in destinations:
+    with open(dest, "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"Successfully wrote {dest} ({len(content)} chars)")
