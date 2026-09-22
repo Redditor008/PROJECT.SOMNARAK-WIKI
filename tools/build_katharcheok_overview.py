@@ -1,4 +1,9 @@
-# [KATHARCHEOK_OVERVIEW] Katharcheok Underworld Pacification Guidebook (지하 정화 소탕 총람 / 地下淨化掃蕩總覽)
+#!/usr/bin/env python3
+import sys
+
+# Generator for the comprehensive canonical KATHARCHEOK_OVERVIEW.md
+
+content = """# [KATHARCHEOK_OVERVIEW] Katharcheok Underworld Pacification Guidebook (지하 정화 소탕 총람 / 地下淨化掃蕩總覽)
 ## The Definitive Operational Guidebook, Urban Combat Grid Codex & Tactical Mechanics for the Six Underworld Sweeps
 
 ```text
@@ -643,3 +648,15 @@ Taeho smiles—a genuine, warm expression that eases the ancient lines of sorrow
 | (Maw's Keep Floor 2) | Floor 2 (Dekan)       |
 +======================+=======================+
 ```
+"""
+
+destinations = [
+    "SOMNARAK-WORLD/Katharcheok/KATHARCHEOK_OVERVIEW.md",
+    "SOMNARAK-WORLD/Master_Codices/KATHARCHEOK_OVERVIEW.md",
+    "KATHARCHEOK_OVERVIEW.md"
+]
+
+for dest in destinations:
+    with open(dest, "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"Successfully wrote {dest} ({len(content)} chars)")

@@ -10,7 +10,8 @@
 **Founding Decree:** Council of Sighs Executive Order 108  
 **Strategic Mission:** Urban Pacification, Anti-Fray Combat Operations & Black-Market Interdiction  
 **Primary Garrison:** Central Warden Citadel (Zone D) & Tactical Staging Vaults -30m  
-**Story & Gameplay Chronicle:** `SOMNARAK_UCD_PACIFICATION.md` (and `SOMNARAK-WORLD/Katharcheok/`)
+**Story & Gameplay Chronicle:** `SOMNARAK_UCD_PACIFICATION.md` (and `SOMNARAK-WORLD/Katharcheok/`)  
+**Tactical Field Guidebook:** `SOMNARAK-WORLD/Katharcheok/KATHARCHEOK_OVERVIEW.md`
 
 ---
 

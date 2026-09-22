@@ -8,6 +8,7 @@
 **Operation Name:** The UCD Pacification Sweep (도시 정화 기동 작전)  
 **Operational Force:** Underworld Cleanup Descend (UCD Joint Task Force)  
 **Company Profile & Doctrine:** `The_UNDERWORLD_CLEANUP_DESCEND.md`  
+**Tactical Field Guidebook:** `SOMNARAK-WORLD/Katharcheok/KATHARCHEOK_OVERVIEW.md`  
 **Narrative Setting:** Zone B, Zone C, Zone D, Zone E, and The Deep Underworld  
 
 ---
