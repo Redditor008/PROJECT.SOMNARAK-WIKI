@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Codify Echo-Core Resonant Realization Wars Framework (`GAME_BATTLE/ECHO_CORE_REALIZATION_SYSTEM.md`)** —
+  - Codified the definitive departmental floor realization and boss confrontation system in `GAME_BATTLE/ECHO_CORE_REALIZATION_SYSTEM.md` (SOP-GB-REALIZATION-001).
+  - Enshrined the four universal psychological realization phases: Phase 1 (Denial / Repressed Echo), Phase 2 (Anger / Resonant Agony), Phase 3 (Bargaining / Desolation Fracture), and Phase 4 (Catharsis / Resonant Realization).
+  - Detailed the full four-phase boss mechanics for Floor 2: Dekan, The Containment Lead (Echo-Core 3 / Neokvox), including part breakdown, intent decks, dynamic hazard terrain, clone targeting, and the climactic 'The Final Gate Closes No More' clash.
+  - Documented thematic realization profiles across all nine departmental floors (Zyrak, Ayshuk, Mellda, Marjuk, Ishall, Xyan, Seiyon, and Director Majin's ultimate Facility Ascension).
+  - Formalized permanent departmental squad passives and active Lead Sovereign Transformation awakening skills.
+  - Updated `GAME_BATTLE/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Codify The Ten Specialist Cadres & Contractor Bureaus (`Master_Codices/SOMNARAK_SPECIALIST_CADRES.md`)** —
   - Codified the definitive chartered contractor bureaus and municipal association codex in `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_SPECIALIST_CADRES.md`.
   - Detailed the operational doctrine, municipal monopolies, uniforms, and leadership across all ten chartered cadres: Giltong (Linguistic Enforcers), Su-Ho (Vanguard Aegis), Tam-Sa (Abyssal Cartography), Sim-Pan (Judicial Inquest), Il-Gwang (High Noon Shock), Hwa-Yong (Vitrified Flame), Jeong-Bo (Signals Intelligence), Un-Song (Overland Logistics), Ui-Ryo (Mnemonic Bio-Suture), and Gyeo-Tu (Unarmed Han-Martial CQC).

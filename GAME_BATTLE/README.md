@@ -83,6 +83,7 @@ The `GAME_BATTLE/` directory contains the following foundational operational doc
 | [`BATTLE_SCENARIO_TEMPLATE.md`](BATTLE_SCENARIO_TEMPLATE.md) | Standardized Production Template | Ready-to-use markdown template with pre-aligned ASCII HUDs, rosters, turn tables, and phase-end blocks. |
 | [`CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md`](CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md) | Canonical Combat Scenario | Full 6-turn combat engagement demonstrating Strike Team Alpha vs `SE-C-Vδ-002 The Grieving Colossus`. |
 | [`CYCLE_ENGRAM_SYSTEM.md`](CYCLE_ENGRAM_SYSTEM.md) | Identity Attunement Framework | Canonical 1,778-cycle historical engrams modifying Speed Bands, Action Slots, and P1 Passives across operatives. |
+| [`ECHO_CORE_REALIZATION_SYSTEM.md`](ECHO_CORE_REALIZATION_SYSTEM.md) | Departmental Realization Wars | Four-phase psychological catharsis engine, Sorrow Inversion meltdowns, dialogue scripts, and sovereign engrams. |
 
 ---
 

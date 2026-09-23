@@ -44,7 +44,8 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 │   ├── INTRODUCTION_AND_GUIDE.md           # Authoring guide & SOP for all future battle .md files
 │   ├── BATTLE_SCENARIO_TEMPLATE.md         # Production-ready markdown template for combat encounters
 │   ├── CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md # Full 6-turn canonical combat scenario demonstration
-│   └── CYCLE_ENGRAM_SYSTEM.md              # 1,778-cycle historical engram attunement & stat shifting framework
+│   ├── CYCLE_ENGRAM_SYSTEM.md              # 1,778-cycle historical engram attunement & stat shifting framework
+│   └── ECHO_CORE_REALIZATION_SYSTEM.md      # 4-phase departmental trauma battles & resonant catharsis engine
 │
 ├── tools/                                  # Non-wiki developer verification tools & formatters
 │   ├── audit_lore_archive.py               # Standalone Python auditor (UTF-8, codices, M.A.W., entities)
