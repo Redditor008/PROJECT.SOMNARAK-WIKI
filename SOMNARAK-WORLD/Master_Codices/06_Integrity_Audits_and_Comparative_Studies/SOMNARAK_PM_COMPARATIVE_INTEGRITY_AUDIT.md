@@ -574,6 +574,165 @@ All operative and boss mechanics resolve through the unified **Four P-Framework*
   * **Fortress Class:** Massive walking blast shields; absolute protection against weight damage; stationary defensive anchors.
 - **Four Damage Signatures:** Crimson Grudge (kinetic bleed), Blue Lament (cryogenic composure drain), Black Weight (tectonic crush), and Pale Void (conceptual memory erasure).
 
+### 8.7 Complete 6-Turn Combat Phase Demonstration (Turn 01 to Turn 06)
+
+The following tactical transcript illustrates a complete 6-turn Combat Phase between **Warden Mellda (Frontline Bulwark)**, **Specialist Kang (Acoustic Vanguard)**, and **The Weeping Colossus (Sovereign Sorrow Entity -- SECC: C-V-omega-042)** across the 10-Node Spatial Grid:
+
+```text
++=====================================================================+
+|       BATTLE ENGAGEMENT TRANSCRIPT: COMBAT PHASE 01 -- TURN 01      |
++---------------------------------------------------------------------+
+| SPATIAL GRID HUD : [M1:N02] [K1:N01] <---> [C_HEAD:N07] [C_MAW:N06] |
+| WARDEN MELLDA   : HP 240/240 | COMP 85/100 | POST 120/120           |
+|   | AP 3 (Spd 5)                                                    |
+| SPECIALIST KANG : HP 160/160 | COMP 90/100 | POST  80/80            |
+|   | AP 4 (Spd 7)                                                    |
+| COLOSSUS (CORE) : HP 850/850 | COMP --/--  | POST 300/300           |
+|   | AP 5 (Spd 6)                                                    |
++---------------------------------------------------------------------+
+| TACTICAL ACTIONS & RESOLUTION:                                      |
+| - ALLY MOVEMENT: Mellda spends 1 AP to advance from [N02] to [N03]. |
+| - MELLDA SKILL : [Iron Silt Barrier] (2 AP) at [N03]. Sets Parry    |
+|   +45.                                                              |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+|                  Hit Colossus Head! Posture Damage: -42. Post: 258. |
+| - BOSS SKILL   : [Tide Slam] targeting [N03]. Mellda Parries!       |
+| Damage: 60 - 45 (Parry) = 15 HP taken. Mellda HP: 225.              |
+| - COMPOSURE CHK: Mellda takes -5 Comp from acoustic chill (Comp:    |
+|   80).                                                              |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+|       BATTLE ENGAGEMENT TRANSCRIPT: COMBAT PHASE 01 -- TURN 02      |
++---------------------------------------------------------------------+
+| SPATIAL GRID HUD : [K1:N01] <-> [M1:N03] <---> [C_MAW:N05]          |
+| [C_HEAD:N06]                                                        |
+| WARDEN MELLDA   : HP 225/240 | COMP 80/100 | POST 120/120           |
+|   | AP 3 (Spd 5)                                                    |
+| SPECIALIST KANG : HP 160/160 | COMP 90/100 | POST  80/80            |
+|   | AP 4 (Spd 8)                                                    |
+| COLOSSUS (MAW)  : HP 620/850 | COMP --/--  | POST 216/300           |
+|   | AP 5 (Spd 5)                                                    |
++---------------------------------------------------------------------+
+| TACTICAL ACTIONS & RESOLUTION:                                      |
+| - BOSS ADVANCE : Colossus Maw shifts forward to [N05]. Range Band   |
+|   2!                                                                |
+| - MELLDA SKILL : [Grudge Cleaver] (3 AP) targeting Maw at [N05].    |
+|                  Critical Kinetic Hit! Deals 58 Damage + 3 Bleed.   |
+| - KANG MOVEMENT: Kang spends 1 AP to shift to [N02]. Range Band 4.  |
+| - KANG SKILL   : [Armor-Bore Slug] (3 AP) targeting Colossus Maw.   |
+| Heavy Impact! Posture Damage: -55. Maw Posture: 161.                |
+| - BOSS ATTACK  : [Brine Vomit] across [N03]-[N04]. Mellda soaked!   |
+|                  Damage: 32 HP. Mellda Composure drops: 80 -> 65.   |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+|       BATTLE ENGAGEMENT TRANSCRIPT: COMBAT PHASE 01 -- TURN 03      |
++---------------------------------------------------------------------+
+| SPATIAL GRID HUD : [K1:N02] <-> [M1:N03] <--> [C_MAW:N05]           |
+| [C_HEAD:N06]                                                        |
+| WARDEN MELLDA   : HP 193/240 | COMP 65/100 | POST 105/120           |
+|   | AP 3 (Spd 4)                                                    |
+| SPECIALIST KANG : HP 160/160 | COMP 90/100 | POST  80/80            |
+|   | AP 4 (Spd 7)                                                    |
+| COLOSSUS (MAW)  : HP 530/850 | COMP --/--  | POST 106/300           |
+|   | AP 5 (Spd 5)                                                    |
++---------------------------------------------------------------------+
+| TACTICAL ACTIONS & RESOLUTION:                                      |
+| - DUAL-THRESHOLD TRIGGER: Maw Posture drops below 120 (40%          |
+|   threshold).                                                       |
+| - STATUS PROC  : *** PART RUPTURE: COLOSSUS MAW CRACKED! ***        |
+| Maw skills disabled. Incoming damage to [N05] +30%.                 |
+| - MELLDA SKILL : [Sovereign Stagger Strike] (3 AP) at ruptured Maw. |
+|                  Deals 88 Damage! Colossus Posture drained to 18!   |
+| - KANG SKILL   : [Resonance Snipe] (3 AP). Colossus Posture hits 0! |
+| - STATUS PROC  : *** TERMINAL STAGGER: COLOSSUS IMMOBILIZED! ***    |
+|                  Colossus loses all Turn 04 action slots.           |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+|       BATTLE ENGAGEMENT TRANSCRIPT: COMBAT PHASE 01 -- TURN 04      |
++---------------------------------------------------------------------+
+| SPATIAL GRID HUD : [K1:N02] <-> [M1:N04] <-> [C_MAW:N05]            |
+| [C_HEAD:N06]                                                        |
+| WARDEN MELLDA   : HP 193/240 | COMP 65/100 | POST 120/120           |
+|   | AP 3 (Spd 5)                                                    |
+| SPECIALIST KANG : HP 160/160 | COMP 90/100 | POST  80/80            |
+|   | AP 4 (Spd 8)                                                    |
+| COLOSSUS (STUN) : HP 442/850 | COMP --/--  | POST   0/300           |
+|   | AP 0 (STUN)                                                     |
++---------------------------------------------------------------------+
+| TACTICAL ACTIONS & RESOLUTION:                                      |
+| - ALLY ADVANCE : Mellda advances 1 node to [N04] (Point-Blank Band  |
+|   1).                                                               |
+| - MELLDA SKILL : [Execution Guillotine] (2 AP) on ruptured Maw.     |
+| 100% Critical Damage! Deals 135 Damage! Maw HP: 307.                |
+| - KANG SKILL : [Overcharge Core Shot] (4 AP) aimed at Colossus      |
+|   Head.                                                             |
+| Direct Headshot! Deals 110 Damage. Colossus HP: 197.                |
+| - BOSS STATUS  : Entity stunned. Generates zero actions this turn.  |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+|       BATTLE ENGAGEMENT TRANSCRIPT: COMBAT PHASE 01 -- TURN 05      |
++---------------------------------------------------------------------+
+| SPATIAL GRID HUD : [K1:N02] <-> [M1:N04] <-> [C_MAW:N05]            |
+| [C_HEAD:N06]                                                        |
+| WARDEN MELLDA   : HP 193/240 | COMP 65/100 | POST 120/120           |
+|   | AP 3 (Spd 6)                                                    |
+| SPECIALIST KANG : HP 160/160 | COMP 90/100 | POST  80/80            |
+|   | AP 4 (Spd 7)                                                    |
+| COLOSSUS (ENRAGE): HP 197/850 | COMP --/-- | POST 150/300           |
+|   | AP 6 (Spd 9)                                                    |
++---------------------------------------------------------------------+
+| TACTICAL ACTIONS & RESOLUTION:                                      |
+| - BOSS RECOVERY: Posture resets to 150. Colossus enters 432 Hz      |
+|   Enrage!                                                           |
+| - BOSS SKILL : [Screaming Deluge] (Global Band 5 AoE across all     |
+|   nodes).                                                           |
+| - MELLDA SKILL : [Aegis of the Mantle] (3 AP). Shields Node 02 &    |
+|   04.                                                               |
+| - RESOLUTION : Deluge hits! Mellda absorbs 70 Damage (HP: 123/240). |
+| Kang takes Composure drain: 90 -> 55. Mellda: 40/100.               |
+| - CRISIS CHECK : Mellda Composure reaches critical 40% threshold!   |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+|       BATTLE ENGAGEMENT TRANSCRIPT: COMBAT PHASE 01 -- TURN 06      |
++---------------------------------------------------------------------+
+| SPATIAL GRID HUD : [K1:N02] <---> [M1:N04] [C_MAW:N05] [C_HEAD:N06] |
+| WARDEN MELLDA   : HP 123/240 | COMP 40/100 | POST  90/120           |
+|   | AP 3 (Spd 5)                                                    |
+| SPECIALIST KANG : HP 160/160 | COMP 55/100 | POST  80/80            |
+|   | AP 4 (Spd 8)                                                    |
+| COLOSSUS (DYING) : HP 197/850 | COMP --/-- | POST  90/300           |
+|   | AP 6 (Spd 9)                                                    |
++---------------------------------------------------------------------+
+| TACTICAL ACTIONS & RESOLUTION:                                      |
+| - KANG SKILL   : [HT-003 Hope Transmutation Flare] (4 AP).          |
+| Fires golden 528 Hz harmonic beam across [N02]-[N06]!               |
+|                  Mellda Composure restored (+35 -> 75/100).         |
+| - MELLDA SKILL : [Final Dawn Cleave] (3 AP) directly into core.     |
+| Colossus suffers 210 Damage! Colossus HP reaches 0!                 |
++---------------------------------------------------------------------+
+| PHASE-END TICKS (END OF TURN 06 / PHASE 01 COMPLETE):               |
+| * Environmental Han drainage: -15 ambient salinity.                 |
+| * Sovereign Entity disintegrated into inert Han-Iron sediment.      |
+| * VICTORY: Warden Cadre secures Sector [N04]-[N06] without          |
+| casualties.                                                         |
++=====================================================================+
+```
+
 ---
 
 ## Section IX: Foundational Historical Cataclysms
