@@ -265,19 +265,23 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 |               APEX ENCOUNTER DOSSIER: SECC-UR-VIIω-001              |
 +---------------------------------------------------------------------+
 | APEX TARGET        : SECC-UR-VIIω-001 'The First Mourner'           |
-| CLASSIFICATION     : Sovereign-ω (Grade-ω Potency) | Primordial Ori |
-| ENCOUNTER DOMAIN   : Strata 7 Primordial Wellspring (-2,800m to Cor |
+| CLASSIFICATION     : Sovereign-ω (Grade-ω Potency)                  |
+|   | Primordial Origin                                               |
+| ENCOUNTER DOMAIN : Strata 7 Primordial Wellspring (-2,800m to Core) |
 +---------------------------------------------------------------------+
 | BOSS COMBAT PROFILE (SECC-UR-VIIω-001):                             |
 | - Total Health (HP): 6,000 HP | Posture Pool: 360/360               |
 | - Stagger 1 Proc   : 60% Posture Strain (216 Posture) / Halo Break  |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Solace)          |
-| - Resistances      : Void 2.0x (Fatal), Grudge 1.0x, Lament/Weight  |
+| - Resistances : Void 2.0x (Fatal), Grudge 1.0x, Lament/Weight 0.5x  |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
-| 1. Aura of Grief   : 1,200 HP | Posture 300/300 (Surging tidal barr |
-| 2. Tear Halo       : 1,500 HP | Posture 320/320 (Crystalline tear h |
-| 3. Wellspring Heart: 3,300 HP | Posture 360/360 (Central mourning s |
+| 1. Aura of Grief   : 1,200 HP                                       |
+|   | Posture 300/300 (Surging tidal barrier)                         |
+| 2. Tear Halo       : 1,500 HP                                       |
+|   | Posture 320/320 (Crystalline tear halo)                         |
+| 3. Wellspring Heart: 3,300 HP                                       |
+|   | Posture 360/360 (Central mourning soul)                         |
 +=====================================================================+
 ```
 
@@ -288,30 +292,47 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 |           TACTICAL STAGE HUD: PASSAGE 07 — BATTLE TURN 01           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — STRATA 7 PRIMORDIAL WELLSPRING (-2,800M)]   |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]   [HARIN]  [DOHA]  [SORA]  [MOURN]  [YEON]  [MINJAE][JISOO]   |
-|                                  [AURA]                             |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]   [HARIN]  [DOHA]  [SORA]                                     |
+| [MOURN]  [YEON]  [MINJAE][JISOO]         [SILENT]                   |
+| [AURA]                                                              |
 +---------------------------------------------------------------------+
 | - Node 01: Cyclopean Stair Landing / Armored Rig 'The Iron Mole'    |
-| - Node 02: Harin (Vanguard Band 1 / Bastion of the Low Tower Shield |
-| - Node 03: Doha (Point-Blank Band 1 / Calcified Pneumatic Anchor Ra |
-| - Node 04: Sora (Lead Resonator Band 2 / Silver Cowl 528 Hz Harmoni |
-| - Node 05: SECC-UR-VIIω-001 First Mourner (Aura of Grief & Tear Hal |
+| - Node 02: Harin (Vanguard Band 1 / Bastion of the Low Tower        |
+|   Shield)                                                           |
+| - Node 03: Doha (Point-Blank Band 1 / Calcified Pneumatic Anchor    |
+|   Ram)                                                              |
+| - Node 04: Sora (Lead Resonator Band 2 / Silver Cowl 528 Hz         |
+|   Harmonics)                                                        |
+| - Node 05: SECC-UR-VIIω-001 First Mourner (Aura of Grief & Tear     |
+|   Halo)                                                             |
 | - Node 06: Yeonhwa (Mid-Field Band 3 / Sonar Acoustic Theodolite)   |
 | - Node 07: Minjae (Archaeological Record Band 4 / Year Zero Tablet) |
-| - Node 08: Jisoo (Forensic Record Band 4 / Hydraulic Ballast Ledger |
-| - Node 10: The Silent One (Center of Wellspring / The Burden Cleave |
+| - Node 08: Jisoo (Forensic Record Band 4 / Hydraulic Ballast        |
+|   Ledger)                                                           |
+| - Node 10: The Silent One (Center of Wellspring / The Burden        |
+|   Cleaver)                                                          |
 +---------------------------------------------------------------------+
-| - Harin       : Spd 4 -> 2 AP | HP 4,200/4,200 | SP 48/50 | Posture |
-| - Silent One  : Spd 7 -> 4 AP | HP 3,100/3,100 | SP 44/40 | Posture |
-| - Doha        : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 40/40 | Posture |
-| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50 | Posture |
-| - Yeonhwa     : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 45/45 | Posture |
-| - Minjae      : Spd 7 -> 4 AP | HP 2,800/2,800 | SP 50/50 | Posture |
-| - Jisoo       : Spd 7 -> 4 AP | HP 2,750/2,750 | SP 50/50 | Posture |
-| - Boss Heart  : Spd 4 -> 2 AP | HP 3,300/3,300 | Posture 360/360 [W |
-| - Grief Aura  : Spd 6 -> 3 AP | HP 1,200/1,200 | Posture 300/300 [T |
-| - Tear Halo   : Spd 4 -> 2 AP | HP 1,500/1,500 | Posture 320/320 [S |
+| - Harin       : Spd 4 -> 2 AP | HP 4,200/4,200 | SP 48/50           |
+|   | Posture 180/180                                                 |
+| - Silent One  : Spd 7 -> 4 AP | HP 3,100/3,100 | SP 44/40           |
+|   | Posture 120/120                                                 |
+| - Doha        : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 40/40           |
+|   | Posture 150/150                                                 |
+| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50           |
+|   | Posture 100/100                                                 |
+| - Yeonhwa     : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 45/45           |
+|   | Posture 100/100                                                 |
+| - Minjae      : Spd 7 -> 4 AP | HP 2,800/2,800 | SP 50/50           |
+|   | Posture 110/110                                                 |
+| - Jisoo       : Spd 7 -> 4 AP | HP 2,750/2,750 | SP 50/50           |
+|   | Posture 110/110                                                 |
+| - Boss Heart  : Spd 4 -> 2 AP | HP 3,300/3,300                      |
+|   | Posture 360/360 [WEEPING]                                       |
+| - Grief Aura  : Spd 6 -> 3 AP | HP 1,200/1,200                      |
+|   | Posture 300/300 [TIDAL]                                         |
+| - Tear Halo   : Spd 4 -> 2 AP | HP 1,500/1,500                      |
+|   | Posture 320/320 [SAPPHIRE]                                      |
 +=====================================================================+
 ```
 
@@ -346,9 +367,10 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 |           TACTICAL STAGE HUD: PASSAGE 07 — BATTLE TURN 02           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — AURA OF GRIEF SHATTERED & 528 HZ CHIME]     |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]            [HARIN] [DOHA]  [MOURN]  [SORA]  [YEON]  [MINJAE][ |
-|                                  [EXPOSE]                           |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]            [HARIN] [DOHA]  [MOURN]                            |
+| [SORA]  [YEON]  [MINJAE][JISOO] [SILENT]                            |
+| [EXPOSE]                                                            |
 +---------------------------------------------------------------------+
 | - Node 03: Harin (Anchored / Deflecting Ocean Spray)                |
 | - Node 04: Doha (Pneumatic Anchor Sapper Pinning Shoreline Fault)   |
@@ -358,8 +380,10 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 | - Node 08: Minjae (Year Zero Inscription Weakening Halo Cohesion)   |
 | - Node 10: The Silent One (Severing Crescent Ready for Halo Cleave) |
 +---------------------------------------------------------------------+
-| - Sora        : Spd 9 -> 5 AP [SURGE] | HP 2,600/2,600 | SP 50/50 | |
-| - Silent One  : Spd 9 -> 5 AP [SURGE] | HP 3,100/3,100 | SP 48/50 | |
+| - Sora        : Spd 9 -> 5 AP [SURGE] | HP 2,600/2,600 | SP 50/50   |
+|   | Posture 100/100                                                 |
+| - Silent One  : Spd 9 -> 5 AP [SURGE] | HP 3,100/3,100 | SP 48/50   |
+|   | Posture 120/120                                                 |
 | - Boss Heart  : Spd 4 -> 2 AP | HP 3,300/3,300 | Posture 282/360    |
 | - Grief Aura  : DESTROYED (0/1,200 HP) | TIDAL BARRIER COLLAPSED    |
 | - Tear Halo   : Spd 4 -> 2 AP | HP 1,450/1,500 | Posture 246/320    |
@@ -396,20 +420,26 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 |           TACTICAL STAGE HUD: PASSAGE 07 — BATTLE TURN 03           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & TEAR HALO SEVERANCE]  |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]            [HARIN] [DOHA]  [MOURN]  [SORA]  [YEON]  [SILENT]  |
-|                                                   [MINJAE]          |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]            [HARIN] [DOHA]  [MOURN]                            |
+| [SORA]  [YEON]  [SILENT]        [JISOO]                             |
+| [MINJAE]                                                            |
 +---------------------------------------------------------------------+
 | - Node 03: Harin & Doha (Bracing Shoreline Against Millennial Echo) |
 | - Node 05: SECC-UR-VIIω-001 (STAGGER LEVEL 1 / DEFENSES COLLAPSED)  |
 | - Node 06: Sora & Minjae (Harmonic Requiem Preparing Sync Fire)     |
 | - Node 07: Yeonhwa (Optical Focus Beam Locking Wellspring Heart)    |
-| - Node 08: The Silent One (Severing Crescent Shearing Halo to Shard |
+| - Node 08: The Silent One (Severing Crescent Shearing Halo to       |
+|   Shards)                                                           |
 +---------------------------------------------------------------------+
 | - Silent One  : Spd 10 -> 5 AP [SURGE] | HP 3,100/3,100 | SP 50/50  |
-| - Boss Heart  : Spd 0 -> 0 AP | HP 2,960/3,300 | Posture 144/360 [S |
-| - Tear Halo   : Spd 0 -> 0 AP | HP 960/1,500   | Posture 112/320 [S |
-| - Total Boss  : HP 3,920/6,000 [THRESHOLD BREACHED / TAKES 1.5X DAM |
+|   | Posture 120/120                                                 |
+| - Boss Heart  : Spd 0 -> 0 AP | HP 2,960/3,300                      |
+|   | Posture 144/360 [STAGGER LEVEL 1]                               |
+| - Tear Halo   : Spd 0 -> 0 AP | HP 960/1,500                        |
+|   | Posture 112/320 [SHEARED]                                       |
+| - Total Boss : HP 3,920/6,000 [THRESHOLD BREACHED / TAKES 1.5X      |
+|   DAMAGE]                                                           |
 +=====================================================================+
 ```
 
@@ -445,9 +475,10 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 |           TACTICAL STAGE HUD: PASSAGE 07 — BATTLE TURN 04           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]     |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                    [HARIN] [MOURN]  [DOHA]  [SILENT][YEON]  [ |
-|                                                   [MINJAE]          |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                    [HARIN] [MOURN]  [DOHA]                    |
+| [SILENT][YEON]  [SORA]  [JISOO]                                     |
+| [MINJAE]                                                            |
 +---------------------------------------------------------------------+
 | - Node 04: Harin & Doha (Sapper Bulwark Compression Strike 440 Dmg) |
 | - Node 05: SECC-UR-VIIω-001 (Staggered / Wellspring Heart Exposed)  |
@@ -456,10 +487,12 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 | - Node 08: The Silent One (The Burden Cleave Core Strike 780 Void)  |
 | - Node 10: Jisoo (Cryo Harpoon Anchoring Liquid Starlight Rim)      |
 +---------------------------------------------------------------------+
-| - Silent One  : Spd 11 -> 5 AP [BURST CRIT] | HP 3,100/3,100 | SP 5 |
+| - Silent One  : Spd 11 -> 5 AP [BURST CRIT] | HP 3,100/3,100        |
+|   | SP 50/50                                                        |
 | - Boss Heart  : Spd 0 -> 0 AP | HP 1,620/3,300 | Posture 64/360     |
 | - Tear Halo   : DESTROYED (0/1,500 HP)                              |
-| - Total Boss  : HP 1,620/6,000 [BURST DAMAGE 2,300! SECOND THRESHOL |
+| - Total Boss : HP 1,620/6,000 [BURST DAMAGE 2,300! SECOND THRESHOLD |
+|   SKIPPED]                                                          |
 +=====================================================================+
 ```
 
@@ -492,19 +525,27 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 |           TACTICAL STAGE HUD: PASSAGE 07 — BATTLE TURN 05           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — INFINITE DELUGE & REQUIEM OF ABSOLUTION]    |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                    [HARIN] [MOURN]  [SILENT][DOHA]  [YEON]  [ |
-|                                                           [JISOO]   |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                    [HARIN] [MOURN]  [SILENT]                  |
+| [DOHA]  [YEON]  [SORA]  [MINJAE]                                    |
+| [JISOO]                                                             |
 +---------------------------------------------------------------------+
-| - Node 04: Harin & Doha (Vanguard Phalanx Holding Oceanic Shoreline |
-| - Node 05: SECC-UR-VIIω-001 (Infinite Mugenhan Deluge / Boiling Sea |
-| - Node 06: The Silent One (Relic Overdrive: REQUIEM OF THE FIRST MO |
+| - Node 04: Harin & Doha (Vanguard Phalanx Holding Oceanic           |
+|   Shoreline)                                                        |
+| - Node 05: SECC-UR-VIIω-001 (Infinite Mugenhan Deluge / Boiling     |
+|   Sea)                                                              |
+| - Node 06: The Silent One (Relic Overdrive: REQUIEM OF THE FIRST    |
+|   MOURNER)                                                          |
 | - Node 07: Yeonhwa, Sora, Minjae, Jisoo (Harmonic Chimes in Unison) |
-| - Node 10: Center of Wellspring (The Burden Cleaver Bathing in Star |
+| - Node 10: Center of Wellspring (The Burden Cleaver Bathing in      |
+|   Starlight)                                                        |
 +---------------------------------------------------------------------+
-| - Silent One  : Spd 12 -> 5 AP [OVERDRIVE] | HP 3,100/3,100 | SP 50 |
-| - Boss Heart  : Spd 5 -> 3 AP | HP 1,620/3,300 | Posture 30/360 [AB |
-| - Total Boss  : HP 1,620/6,000 [BOILING OCEAN SETTLES INTO TRANQUIL |
+| - Silent One  : Spd 12 -> 5 AP [OVERDRIVE] | HP 3,100/3,100         |
+|   | SP 50/50 [VOICE]                                                |
+| - Boss Heart  : Spd 5 -> 3 AP | HP 1,620/3,300                      |
+|   | Posture 30/360 [ABSORBED]                                       |
+| - Total Boss : HP 1,620/6,000 [BOILING OCEAN SETTLES INTO TRANQUIL  |
+|   GLASS]                                                            |
 +=====================================================================+
 ```
 
@@ -539,17 +580,23 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 |           TACTICAL STAGE HUD: PASSAGE 07 — BATTLE TURN 06           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — COMMUNION & PRIMORDIAL TEAR OF YEAR ZERO]   |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                            [SILENT] [HARIN] [DOHA]  [SORA]  [ |
-|                                  [REST]                           [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                            [SILENT] [HARIN]                   |
+| [DOHA]  [SORA]  [YEON]  [SURFACE]                                   |
+| [REST]                           [MINJAE][JISOO]                    |
 +---------------------------------------------------------------------+
 | - Node 05: SECC-UR-VIIω-001 First Mourner (PACIFIED & DISSOLVED TO  |
-| - Node 06: The Silent One (Receives 'The Primordial Tear of Year Ze |
-| - Node 07: Harin, Doha, Sora (Kneeling in Reverent Vigil Around Alt |
+|   LIGHT)                                                            |
+| - Node 06: The Silent One (Receives 'The Primordial Tear of Year    |
+|   Zero')                                                            |
+| - Node 07: Harin, Doha, Sora (Kneeling in Reverent Vigil Around     |
+|   Altar)                                                            |
 | - Node 08: Yeonhwa, Minjae, Jisoo (Finalizing Master 7-Strata Map)  |
 | - Node 10: Cyclopean Floodgates Stabilized (Ascent Route to Surface |
+|   OPEN)                                                             |
 +---------------------------------------------------------------------+
-| - Vanguard Squad: Zero Fatalities | Composure 50/50 SP (Transcenden |
+| - Vanguard Squad: Zero Fatalities                                   |
+|   | Composure 50/50 SP (Transcendent)                               |
 | - Encounter Status: 100% PACIFIED | Katabagil Descent COMPLETE      |
 +=====================================================================+
 ```

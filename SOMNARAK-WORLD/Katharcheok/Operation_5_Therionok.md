@@ -216,23 +216,27 @@ The battle for the Black Cages was joined.
 |         TARGET DOSSIER: BEASTMASTER JAGYEON & SE-C-IIIγ-102         |
 +---------------------------------------------------------------------+
 | APEX TARGET        : Beastmaster Jagyeon ('The Arena Patriarch')    |
-| MODULAR WEAPON     : Harmonic Shock Whip (High-Voltage Electric/Sla |
-| CONTRABAND ENTITY  : SE-C-IIIγ-102 'Chained Frenzy' (WAW Threat / D |
+| MODULAR WEAPON : Harmonic Shock Whip (High-Voltage Electric/Slash)  |
+| CONTRABAND ENTITY : SE-C-IIIγ-102 'Chained Frenzy' (WAW Threat /    |
+| Dancing Chains)                                                     |
 | ESCORT MINIONS     : Pit Gladiators (x2) & Barbed Harpooners        |
-| ENCOUNTER DOMAIN   : Zone D & E Colosseum Arena & Cages (-260m Dept |
+| ENCOUNTER DOMAIN : Zone D & E Colosseum Arena & Cages (-260m Depth) |
 +---------------------------------------------------------------------+
 | BOSS COMBAT PROFILE (BEASTMASTER JAGYEON):                          |
-| - Beast Armor HP   : 2,400 HP | Core Body HP: 2,400 HP (Total 4,800 |
+| - Beast Armor HP   : 2,400 HP                                       |
+|   | Core Body HP: 2,400 HP (Total 4,800 HP)                         |
 | - Shock Whip HP    : 1,800 HP (Modular Destructible Weapon Part)    |
 | - Posture Pool     : 240/240 (Dual Threshold Stagger System)        |
 | - Stagger 1 Proc   : 60% Posture Strain (144 Posture) / Whip Break  |
-| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Stagger / Cask R |
-| - Primary Attack   : Harmonic Shock Lash & Dual Lightning Cleave (S |
+| - Stagger 2 Proc : 0% Posture Collapse (Terminal Stagger / Cask     |
+|   Ready)                                                            |
+| - Primary Attack : Harmonic Shock Lash & Dual Lightning Cleave      |
+|   (Slash)                                                           |
 +---------------------------------------------------------------------+
 | CONTRABAND ENTITY PROFILE (SE-C-IIIγ-102 'CHAINED FRENZY'):         |
 | - Entity HP Pool   : 3,400 HP | Posture Pool: 240/240               |
 | - Total Combined   : 7,600 Encounter HP                             |
-| - Attack Affinity  : Crimson Chain Flail & Razor Iron Storm (Grudge |
+| - Attack Affinity : Crimson Chain Flail & Razor Iron Storm (Grudge) |
 +=====================================================================+
 ```
 
@@ -243,29 +247,47 @@ The battle for the Black Cages was joined.
 |          TACTICAL STAGE HUD: OPERATION 05 — BATTLE TURN 01          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — ZONE D+E UNDERGROUND ARENA PIT]             |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER][TAEHO] [JOON]  [SOOJIN][JAGYEON][YUNA]  [MINHO] [CIVS]    |
-|                                  [WHIP]                           [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN]                                   |
+| [JAGYEON][YUNA]  [MINHO] [CIVS]          [CHAINS]                   |
+| [WHIP]                           [ECHO]                             |
 +---------------------------------------------------------------------+
-| - Node 01: Breach Entry / Class-II Armored Cruiser 'The Iron Vangua |
-| - Node 02: Commander Taeho (Vanguard Band 1 / Phalanx Bastion Obsid |
-| - Node 03: Engineer Joon (Point-Blank Band 1 / Deployable Mantlet B |
+| - Node 01: Breach Entry / Class-II Armored Cruiser 'The Iron        |
+|   Vanguard'                                                         |
+| - Node 02: Commander Taeho (Vanguard Band 1 / Phalanx Bastion       |
+|   Obsidian)                                                         |
+| - Node 03: Engineer Joon (Point-Blank Band 1 / Deployable Mantlet   |
+|   Barrier)                                                          |
 | - Node 04: Handler Soojin (Close Skirmish Band 2 / Sedative Aerosol |
-| - Node 05: Beastmaster Jagyeon & Shock Whip (Central Arena Sand Rin |
-| - Node 06: Auditor Yuna (Mid-Field Band 3 / Spectator Wiretap Conso |
-| - Node 07: Investigator Minho (Mid-Field Band 3 / Mnemonic Sniper P |
+|   Ward)                                                             |
+| - Node 05: Beastmaster Jagyeon & Shock Whip (Central Arena Sand     |
+|   Ring)                                                             |
+| - Node 06: Auditor Yuna (Mid-Field Band 3 / Spectator Wiretap       |
+|   Console)                                                          |
+| - Node 07: Investigator Minho (Mid-Field Band 3 / Mnemonic Sniper   |
+|   Pillar)                                                           |
 | - Node 08: Slave Cages (28 Captive Arena Gladiators)                |
-| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' & Infiltrator Echo (Pilla |
+| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' & Infiltrator Echo        |
+|   (Pillar Stealth)                                                  |
 +---------------------------------------------------------------------+
-| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 45/50 | Posture |
-| - Joon        : Spd 5 -> 3 AP | HP 3,800/3,800 | SP 40/40 | Posture |
-| - Yuna        : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 50/50 | Posture |
-| - Minho       : Spd 7 -> 4 AP | HP 2,900/2,900 | SP 45/45 | Posture |
-| - Soojin      : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 50/50 | Posture |
-| - Echo        : Spd 9 -> 5 AP | HP 2,600/2,600 | SP 40/40 | Posture |
-| - Jagyeon Rig : Spd 4 -> 2 AP | HP 2,400/2,400 | Posture 240/240 [B |
-| - Whip Part   : Spd 3 -> 1 AP | HP 1,800/1,800 | Posture 150/150 [E |
-| - Chain Beast : Spd 5 -> 3 AP | HP 3,400/3,400 | Posture 240/240 [C |
+| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 45/50           |
+|   | Posture 180/180                                                 |
+| - Joon        : Spd 5 -> 3 AP | HP 3,800/3,800 | SP 40/40           |
+|   | Posture 150/150                                                 |
+| - Yuna        : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 50/50           |
+|   | Posture 100/100                                                 |
+| - Minho       : Spd 7 -> 4 AP | HP 2,900/2,900 | SP 45/45           |
+|   | Posture 110/110                                                 |
+| - Soojin      : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 50/50           |
+|   | Posture 140/140                                                 |
+| - Echo        : Spd 9 -> 5 AP | HP 2,600/2,600 | SP 40/40           |
+|   | Posture 90/90 [STEALTH]                                         |
+| - Jagyeon Rig : Spd 4 -> 2 AP | HP 2,400/2,400                      |
+|   | Posture 240/240 [BEAST-HIDE]                                    |
+| - Whip Part   : Spd 3 -> 1 AP | HP 1,800/1,800                      |
+|   | Posture 150/150 [ELECTRIFIED]                                   |
+| - Chain Beast : Spd 5 -> 3 AP | HP 3,400/3,400                      |
+|   | Posture 240/240 [COLLARED]                                      |
 +=====================================================================+
 ```
 
@@ -307,24 +329,37 @@ The battle for the Black Cages was joined.
 |          TACTICAL STAGE HUD: OPERATION 05 — BATTLE TURN 02          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — WHIP SAPPING & FREQUENCY JAM]               |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER][TAEHO] [JOON]  [SOOJIN][JAGYEON][YUNA]  [MINHO] [CIVS]  [ |
-|                                  [WHIP]                             |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN][JAGYEON]                          |
+| [YUNA]  [MINHO] [CIVS]  [ECHO]  [CHAINS]                            |
+| [WHIP]                                                              |
 +---------------------------------------------------------------------+
-| - Node 02: Commander Taeho (Advancing to Node 03 / Concussive Shiel |
-| - Node 03: Engineer Joon (Hydraulic Kinetic Ram Smashes Whip Genera |
-| - Node 04: Handler Soojin (Leaded Snare Restricting Thrashing Chain |
-| - Node 05: Beastmaster Jagyeon (Armor 1,660/2,400 / Whip 1,240/1,80 |
-| - Node 06: Auditor Yuna (Cipher-Pulse Disrupting Slave-Collar Frequ |
-| - Node 07: Investigator Minho (Memory Anchor Restoring Squad Compos |
+| - Node 02: Commander Taeho (Advancing to Node 03 / Concussive       |
+|   Shield Bash)                                                      |
+| - Node 03: Engineer Joon (Hydraulic Kinetic Ram Smashes Whip        |
+|   Generator)                                                        |
+| - Node 04: Handler Soojin (Leaded Snare Restricting Thrashing       |
+|   Chains)                                                           |
+| - Node 05: Beastmaster Jagyeon (Armor 1,660/2,400 / Whip            |
+|   1,240/1,800)                                                      |
+| - Node 06: Auditor Yuna (Cipher-Pulse Disrupting Slave-Collar       |
+|   Frequency)                                                        |
+| - Node 07: Investigator Minho (Memory Anchor Restoring Squad        |
+|   Composure)                                                        |
 | - Node 09: Infiltrator Echo (High Basalt Pillar Flank behind Ring)  |
 | - Node 10: SE-C-IIIγ-102 'Chained Frenzy' (3,120/3,400 HP / Collar  |
+|   Sparks)                                                           |
 +---------------------------------------------------------------------+
-| - Joon        : Spd 7 -> 4 AP [SURGE] | HP 3,800/3,800 | SP 40/40 | |
-| - Minho       : Spd 9 -> 5 AP [SURGE] | HP 2,900/2,900 | SP 50/50 | |
-| - Jagyeon Rig : Spd 3 -> 1 AP | HP 1,660/2,400 | Posture 170/240 [G |
-| - Whip Part   : Spd 2 -> 1 AP | HP 1,240/1,800 | Posture 86/150 [VO |
-| - Chain Beast : Spd 4 -> 2 AP | HP 3,120/3,400 | Posture 204/240 [S |
+| - Joon        : Spd 7 -> 4 AP [SURGE] | HP 3,800/3,800 | SP 40/40   |
+|   | Posture 150/150                                                 |
+| - Minho       : Spd 9 -> 5 AP [SURGE] | HP 2,900/2,900 | SP 50/50   |
+|   | Posture 110/110                                                 |
+| - Jagyeon Rig : Spd 3 -> 1 AP | HP 1,660/2,400                      |
+|   | Posture 170/240 [GENERATOR BROKEN]                              |
+| - Whip Part   : Spd 2 -> 1 AP | HP 1,240/1,800                      |
+|   | Posture 86/150 [VOLTAGE LOSS]                                   |
+| - Chain Beast : Spd 4 -> 2 AP | HP 3,120/3,400                      |
+|   | Posture 204/240 [SNARED]                                        |
 +=====================================================================+
 ```
 
@@ -365,19 +400,27 @@ The battle for the Black Cages was joined.
 |          TACTICAL STAGE HUD: OPERATION 05 — BATTLE TURN 03          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — WHIP SHATTER & STAGGER THRESHOLD 1]         |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]        [TAEHO] [JOON]  [JAGYEON][YUNA]  [MINHO] [CIVS]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]        [TAEHO] [JOON]  [JAGYEON]                          |
+| [YUNA]  [MINHO] [CIVS]  [ECHO]  [CHAINS]                            |
 +---------------------------------------------------------------------+
-| - Node 03: Commander Taeho (Heavy Piston Strike Smashes Beast Breas |
-| - Node 04: Engineer Joon (Thermite Disruption Clamp Igniting Batter |
+| - Node 03: Commander Taeho (Heavy Piston Strike Smashes Beast       |
+|   Breastplate)                                                      |
+| - Node 04: Engineer Joon (Thermite Disruption Clamp Igniting        |
+|   Battery)                                                          |
 | - Node 05: Beastmaster Jagyeon (STAGGER LEVEL 1 / WHIP DESTROYED)   |
-| - Node 06: Auditor Yuna (Slave Auction Registry Download In Progres |
+| - Node 06: Auditor Yuna (Slave Auction Registry Download In         |
+|   Progress)                                                         |
 | - Node 07: Investigator Minho (Synaptic Pierce Dismantles Whip Hub) |
-| - Node 09: Infiltrator Echo (Driving Eclipse Stiletto into Servo Jo |
-| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' (Chains Trembling in Rage |
+| - Node 09: Infiltrator Echo (Driving Eclipse Stiletto into Servo    |
+|   Joints)                                                           |
+| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' (Chains Trembling in      |
+|   Rage)                                                             |
 +---------------------------------------------------------------------+
-| - Taeho       : Spd 6 -> 3 AP [SURGE] | HP 4,400/4,400 | SP 48/50 | |
-| - Jagyeon Rig : Spd 0 -> 0 AP | HP 420/2,400   | Posture 84/240 [ST |
+| - Taeho       : Spd 6 -> 3 AP [SURGE] | HP 4,400/4,400 | SP 48/50   |
+|   | Posture 180/180                                                 |
+| - Jagyeon Rig : Spd 0 -> 0 AP | HP 420/2,400                        |
+|   | Posture 84/240 [STAGGER LEVEL 1]                                |
 | - Whip Part   : DESTROYED (0/1,800 HP)                              |
 | - Chain Beast : Spd 5 -> 3 AP | HP 3,120/3,400 | Posture 204/240    |
 +=====================================================================+
@@ -418,21 +461,29 @@ The battle for the Black Cages was joined.
 |          TACTICAL STAGE HUD: OPERATION 05 — BATTLE TURN 04          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — BERSERK CHAINED FRENZY & LEADED WARD]       |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]        [TAEHO] [JOON]  [JAGYEON][SOOJIN][YUNA]  [CIVS]  [ |
-|                                                   [MINHO]           |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]        [TAEHO] [JOON]  [JAGYEON]                          |
+| [SOOJIN][YUNA]  [CIVS]  [ECHO]  [CHAINS]                            |
+| [MINHO]                                                             |
 +---------------------------------------------------------------------+
 | - Node 03: Commander Taeho (Shielding Gladiator Pens & Captives)    |
-| - Node 04: Engineer Joon (Pneumatic Pry Bar Unlatching Heavy Cage L |
-| - Node 05: Beastmaster Jagyeon (Recovered / Pulling Remote Shock Co |
-| - Node 06: Handler Soojin (Leaded Sanctuary Ward Enclosing Arena Sq |
-| - Node 07: Auditor Yuna & Minho (Cutting Arena Remote Shock Current |
+| - Node 04: Engineer Joon (Pneumatic Pry Bar Unlatching Heavy Cage   |
+|   Latches)                                                          |
+| - Node 05: Beastmaster Jagyeon (Recovered / Pulling Remote Shock    |
+|   Collar Trigger)                                                   |
+| - Node 06: Handler Soojin (Leaded Sanctuary Ward Enclosing Arena    |
+|   Squad)                                                            |
+| - Node 07: Auditor Yuna & Minho (Cutting Arena Remote Shock         |
+|   Currents)                                                         |
 | - Node 08: 28 Captive Gladiators (Cognitive Shields Holding Intact) |
-| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' (BERSERK STATE / Razor Ch |
+| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' (BERSERK STATE / Razor    |
+|   Chain Storm)                                                      |
 +---------------------------------------------------------------------+
-| - Soojin      : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 50/50 | |
+| - Soojin      : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 50/50   |
+|   | Posture 140/140                                                 |
 | - Jagyeon Rig : Spd 2 -> 1 AP | HP 420/2,400   | Posture 58/240     |
-| - Chain Beast : Spd 6 -> 4 AP | HP 2,580/3,400 | Posture 130/240 [B |
+| - Chain Beast : Spd 6 -> 4 AP | HP 2,580/3,400                      |
+|   | Posture 130/240 [BERSERK]                                       |
 +=====================================================================+
 ```
 
@@ -466,21 +517,30 @@ The battle for the Black Cages was joined.
 |          TACTICAL STAGE HUD: OPERATION 05 — BATTLE TURN 05          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — PHANTOM SEVER & TERMINAL STAGGER]           |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]        [TAEHO] [JOON]  [JAGYEON][SOOJIN][YUNA]  [CIVS]    |
-|                                                   [MINHO]         [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]        [TAEHO] [JOON]  [JAGYEON]                          |
+| [SOOJIN][YUNA]  [CIVS]          [CHAINS]                            |
+| [MINHO]         [ECHO]                                              |
 +---------------------------------------------------------------------+
 | - Node 03: Commander Taeho (Priming Iron Gavel for Cockpit Breach)  |
 | - Node 04: Engineer Joon (Tearing Away Buckled Greaves on Jagyeon)  |
-| - Node 05: Jagyeon Armor (TERMINAL STAGGER / POSTURE 0/240 / CRUSHE |
-| - Node 06: Handler Soojin (Aligning Class-IV Leaded Cryo-Cask at Da |
+| - Node 05: Jagyeon Armor (TERMINAL STAGGER / POSTURE 0/240 /        |
+|   CRUSHED)                                                          |
+| - Node 06: Handler Soojin (Aligning Class-IV Leaded Cryo-Cask at    |
+|   Dais)                                                             |
 | - Node 07: Investigator Minho (Silver Lancet Stripping Slave-Collar |
-| - Node 09: Infiltrator Echo (Eclipse Stiletto Phantom Sever on Chai |
-| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' (TERMINAL STAGGER / POSTU |
+|   Root)                                                             |
+| - Node 09: Infiltrator Echo (Eclipse Stiletto Phantom Sever on      |
+|   Chains)                                                           |
+| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' (TERMINAL STAGGER /       |
+|   POSTURE 0/240)                                                    |
 +---------------------------------------------------------------------+
-| - Echo        : Spd 11 -> 5 AP [MOMENTUM CRIT] | HP 2,600/2,600 | S |
-| - Jagyeon Rig : Spd 0 -> 0 AP | HP 0/2,400     | Posture 0/240 [CHA |
-| - Chain Beast : Spd 0 -> 0 AP | HP 1,360/3,400 | Posture 0/240 [TER |
+| - Echo        : Spd 11 -> 5 AP [MOMENTUM CRIT] | HP 2,600/2,600     |
+|   | SP 40/40                                                        |
+| - Jagyeon Rig : Spd 0 -> 0 AP | HP 0/2,400                          |
+|   | Posture 0/240 [CHASSIS CRUSHED]                                 |
+| - Chain Beast : Spd 0 -> 0 AP | HP 1,360/3,400                      |
+|   | Posture 0/240 [TERMINAL STAGGER]                                |
 +=====================================================================+
 ```
 
@@ -517,15 +577,19 @@ The battle for the Black Cages was joined.
 +=====================================================================+
 |          TACTICAL STAGE HUD: OPERATION 05 — BATTLE TURN 06          |
 +---------------------------------------------------------------------+
+|                                                                     |
 | [STAGE NODES 01 TO 10 — CLIMAX OVERDRIVE: IRON GAVEL & CRYO-CASK SE |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]                [JOON]  [TAEHO]  [SOOJIN][YUNA]  [CIVS]    |
-|                                  [JAGYEON]        [MINHO]         [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]                [JOON]  [TAEHO]                            |
+| [SOOJIN][YUNA]  [CIVS]          [CASK]                              |
+| [JAGYEON]        [MINHO]         [ECHO]                             |
 +---------------------------------------------------------------------+
 | - Node 05: Beastmaster Jagyeon (EXTRACTED UNCONSCIOUS & SECURED)    |
 | - Node 06: Auditor Yuna (8,900 Slave & Wagering Records Seized)     |
-| - Node 08: 28 Captive Gladiators (Safely Unlatched / Zero Fatalitie |
-| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' (100% CONTAINED IN CRYOGE |
+| - Node 08: 28 Captive Gladiators (Safely Unlatched / Zero           |
+|   Fatalities)                                                       |
+| - Node 10: SE-C-IIIγ-102 'Chained Frenzy' (100% CONTAINED IN        |
+|   CRYOGENIC CASK)                                                   |
 +---------------------------------------------------------------------+
 | - Strike Cadre: Zero Fatalities | Composure 50/50 SP (Lucidity)     |
 | - Encounter Status: 100% PACIFIED | Handoff to RD Floor 2 Ready     |

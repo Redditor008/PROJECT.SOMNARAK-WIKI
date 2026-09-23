@@ -6,27 +6,9 @@ Replaces the older combat gauntlet with full 10-node spatial tactical HUDs, Spee
 M.A.W.-W weight deltas, and Four P-framework action resolution logs across all 6 turns.
 """
 
-def make_box(title, rows, width=71):
-    top = "+" + "=" * (width - 2) + "+"
-    bottom = "+" + "=" * (width - 2) + "+"
-    sep = "+" + "-" * (width - 2) + "+"
-    
-    out = [top]
-    if title:
-        title_str = f" {title} "
-        out.append(f"|{title_str.center(width - 2)}|")
-        out.append(sep)
-    
-    for r in rows:
-        if r == "---":
-            out.append(sep)
-        elif r.startswith("==="):
-            out.append(top)
-        else:
-            text = r[:width - 4]
-            out.append(f"| {text.ljust(width - 4)} |")
-    out.append(bottom)
-    return "\n".join(out)
+import sys, os
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
 
 def get_p6_engagement():
     dossier_box = make_box("APEX BOSS DOSSIER: SECC-1004 'THE SCAR WALKER'", [
@@ -190,22 +172,22 @@ def get_p6_engagement():
 
 ###### Turn 01 Action Resolution Log (Intercepting the Fury Glaive)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Harin activates `[Bastion Kinetic Lock]`: Drives the tower shield into the obsidian ridge; gains $+3$ Protection and intercepts the Walker's sweeping glaive arc.
+  * Harin activates `[Bastion Kinetic Lock]`: Drives the tower shield into the obsidian ridge; gains +3 Protection and intercepts the Walker's sweeping glaive arc.
   * Sora initializes `[Silver Requiem Chime]`: Emits 528 Hz harmonics to calm the howling wails of the ancient war dead.
   * Yeonhwa casts `[Acoustic Fault Lock]`: Focuses sensor arrays on the Solidified Fury Glaive's central balance fulcrum.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta $-1$, Poise $+25$): Holds Node 02. Spends 2 AP on `[Bastion Kinetic Lock: Obsidian Ground]`.
-  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta $0$, Crit $+30\%$): Perches on overhead ribcage catwalks at Node 07. Spends 2 AP on positioning.
-  * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$, Poise $+20$): Holds Node 03. Spends 2 AP on `[Pneumatic Wedge Drive]`. Holds 1 AP in Guard.
-  * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 04. Spends 2 AP on `[Silver Requiem Chime]`. Holds 2 AP in Reserve.
-  * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 06. Spends 2 AP on `[Acoustic Fault Lock]`, 2 AP on `[Acoustic Dart]`.
-  * Jisoo (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Stands at Node 08, verifying casualty ledgers.
+  * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02. Spends 2 AP on `[Bastion Kinetic Lock: Obsidian Ground]`.
+  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30\%): Perches on overhead ribcage catwalks at Node 07. Spends 2 AP on positioning.
+  * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0, Poise +20): Holds Node 03. Spends 2 AP on `[Pneumatic Wedge Drive]`. Holds 1 AP in Guard.
+  * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 04. Spends 2 AP on `[Silver Requiem Chime]`. Holds 2 AP in Reserve.
+  * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Acoustic Fault Lock]`, 2 AP on `[Acoustic Dart]`.
+  * Jisoo (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Stands at Node 08, verifying casualty ledgers.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: SECC-1004 unleashes `[Fury Glaive Cleave]` (Base 18 + 2 Coins = 28 Power, Heavy Grudge/Slash).
     * Harin intercepts with `[Bastion Kinetic Lock]` (Base 21 + 2 Coins = 33 Power, Tower Shield).
     * **Clash Outcome**: Harin WINS THE CLASH OVERWHELMINGLY (33 vs 28)!
     * Harin plants the tower shield firmly into the obsidian ridge; the crimson fury glaive shudders violently and rebounds off the reinforced steel face (`[P3: Parry/Protection]`).
-    * Harin reflects **260 kinetic tremor damage** into the glaive shaft, inflicting $+52$ Posture Strain!
+    * Harin reflects **260 kinetic tremor damage** into the glaive shaft, inflicting +52 Posture Strain!
   * **Unopposed Sapper Strike**:
     * Doha's `[Pneumatic Wedge Drive]` cracks the obsidian bedrock beneath the Walker's lead foot, dealing **180 Blunt damage**!
 - **Step 4: Turn End State**:
@@ -264,10 +246,10 @@ def get_p6_engagement():
     * Doha clashes with `[Sapper Counter-Lever]` (Base 21 + 2 Coins = 33 Power, Heavy Lever).
     * **Clash Outcome**: Doha WINS THE CLASH (33 vs 25)!
     * Doha levers his tungsten sapper spike into the Occlusihan Cuirass seam; the pneumatic ram detonations echo like artillery!
-    * The ancient war plate fractures from collar to waist, dealing **460 Blunt damage** and $+82$ Posture Strain!
+    * The ancient war plate fractures from collar to waist, dealing **460 Blunt damage** and +82 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (3,360 HP), falling to **3,100/4,800 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The titan falls to its knees upon the obsidian ridge; all defenses drop to zero; takes $+50\%$ damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The titan falls to its knees upon the obsidian ridge; all defenses drop to zero; takes +50\% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 3,760 -> **3,100/4,800 [THRESHOLD BREACHED: Below 3,360 HP!]**.
   * Occlusihan Cuirass: 1,110 -> **650/1,450** | Posture: **102/300 [FRACTURED]**.

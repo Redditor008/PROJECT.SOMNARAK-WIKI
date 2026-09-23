@@ -249,17 +249,20 @@ The forty thousand Echoes ignited in a blinding blaze of Crimson Grudge! The Hol
 |        TARGET DOSSIER: GRAND PATRIARCH CHEON & SE-C-IIIγ-490        |
 +---------------------------------------------------------------------+
 | APEX TARGET        : Grand Patriarch Cheon ('The Sunken King')      |
-| MODULAR WEAPON     : Crown Scepter Weapon Arm (Heavy Blunt/Pale Sho |
-| CONTRABAND ENTITY  : SE-C-IIIγ-490 'The Hollow Knight' (ALEPH Threa |
+| MODULAR WEAPON : Crown Scepter Weapon Arm (Heavy Blunt/Pale Shock)  |
+| CONTRABAND ENTITY : SE-C-IIIγ-490 'The Hollow Knight' (ALEPH        |
+| Threat)                                                             |
 | ESCORT MINIONS     : Royal Guard Enforcers (x2) & Heavy Spearmen    |
-| ENCOUNTER DOMAIN   : Zone B Sunken Citadel Royal Throne Room (-350m |
+| ENCOUNTER DOMAIN : Zone B Sunken Citadel Royal Throne Room (-350m)  |
 +---------------------------------------------------------------------+
 | BOSS COMBAT PROFILE (GRAND PATRIARCH CHEON):                        |
-| - Sovereign Rig HP : 2,600 HP | Core Body HP: 2,400 HP (Total 5,000 |
+| - Sovereign Rig HP : 2,600 HP                                       |
+|   | Core Body HP: 2,400 HP (Total 5,000 HP)                         |
 | - Crown Scepter HP : 1,800 HP (Modular Destructible Weapon Part)    |
 | - Posture Pool     : 260/260 (Dual Threshold Stagger System)        |
-| - Stagger 1 Proc   : 60% Posture Strain (156 Posture) / Scepter Bre |
-| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Stagger / Cask R |
+| - Stagger 1 Proc : 60% Posture Strain (156 Posture) / Scepter Break |
+| - Stagger 2 Proc : 0% Posture Collapse (Terminal Stagger / Cask     |
+|   Ready)                                                            |
 | - Primary Attack   : Sovereign Cleave Slam & Royal Lightning Cleave |
 +---------------------------------------------------------------------+
 | CONTRABAND ENTITY PROFILE (SE-C-IIIγ-490 'THE HOLLOW KNIGHT'):      |
@@ -276,29 +279,47 @@ The forty thousand Echoes ignited in a blinding blaze of Crimson Grudge! The Hol
 |          TACTICAL STAGE HUD: OPERATION 06 — BATTLE TURN 01          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — ZONE B SUNKEN CITADEL THRONE ROOM]          |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER][TAEHO] [JOON]  [SOOJIN][CHEON]  [YUNA]  [MINHO] [CIVS]    |
-|                                  [SCEPTER]                        [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN]                                   |
+| [CHEON]  [YUNA]  [MINHO] [CIVS]          [KNIGHT]                   |
+| [SCEPTER]                        [ECHO]                             |
 +---------------------------------------------------------------------+
-| - Node 01: Breach Entry / Class-II Armored Cruiser 'The Iron Vangua |
-| - Node 02: Commander Taeho (Vanguard Band 1 / Phalanx Bastion Obsid |
-| - Node 03: Engineer Joon (Point-Blank Band 1 / Deployable Mantlet B |
+| - Node 01: Breach Entry / Class-II Armored Cruiser 'The Iron        |
+|   Vanguard'                                                         |
+| - Node 02: Commander Taeho (Vanguard Band 1 / Phalanx Bastion       |
+|   Obsidian)                                                         |
+| - Node 03: Engineer Joon (Point-Blank Band 1 / Deployable Mantlet   |
+|   Barrier)                                                          |
 | - Node 04: Handler Soojin (Close Skirmish Band 2 / Sedative Aerosol |
-| - Node 05: Grand Patriarch Cheon & Crown Scepter (Central Royal Thr |
-| - Node 06: Auditor Yuna (Mid-Field Band 3 / Financial Terminal Free |
-| - Node 07: Investigator Minho (Mid-Field Band 3 / Mnemonic Sniper A |
+|   Ward)                                                             |
+| - Node 05: Grand Patriarch Cheon & Crown Scepter (Central Royal     |
+|   Throne)                                                           |
+| - Node 06: Auditor Yuna (Mid-Field Band 3 / Financial Terminal      |
+|   Freeze)                                                           |
+| - Node 07: Investigator Minho (Mid-Field Band 3 / Mnemonic Sniper   |
+|   Arch)                                                             |
 | - Node 08: Hostage Berths (16 Municipal Council Delegates & Aides)  |
-| - Node 10: SE-C-IIIγ-490 Hollow Knight & Infiltrator Echo (Arch Ste |
+| - Node 10: SE-C-IIIγ-490 Hollow Knight & Infiltrator Echo (Arch     |
+|   Stealth)                                                          |
 +---------------------------------------------------------------------+
-| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 45/50 | Posture |
-| - Joon        : Spd 5 -> 3 AP | HP 3,800/3,800 | SP 40/40 | Posture |
-| - Yuna        : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 50/50 | Posture |
-| - Minho       : Spd 7 -> 4 AP | HP 2,900/2,900 | SP 45/45 | Posture |
-| - Soojin      : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 50/50 | Posture |
-| - Echo        : Spd 9 -> 5 AP | HP 2,600/2,600 | SP 40/40 | Posture |
-| - Cheon Rig   : Spd 4 -> 2 AP | HP 2,600/2,600 | Posture 260/260 [G |
-| - Scepter Part: Spd 3 -> 1 AP | HP 1,800/1,800 | Posture 160/160 [C |
-| - Knight Core : Spd 5 -> 3 AP | HP 3,600/3,600 | Posture 260/260 [C |
+| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 45/50           |
+|   | Posture 180/180                                                 |
+| - Joon        : Spd 5 -> 3 AP | HP 3,800/3,800 | SP 40/40           |
+|   | Posture 150/150                                                 |
+| - Yuna        : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 50/50           |
+|   | Posture 100/100                                                 |
+| - Minho       : Spd 7 -> 4 AP | HP 2,900/2,900 | SP 45/45           |
+|   | Posture 110/110                                                 |
+| - Soojin      : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 50/50           |
+|   | Posture 140/140                                                 |
+| - Echo        : Spd 9 -> 5 AP | HP 2,600/2,600 | SP 40/40           |
+|   | Posture 90/90 [STEALTH]                                         |
+| - Cheon Rig   : Spd 4 -> 2 AP | HP 2,600/2,600                      |
+|   | Posture 260/260 [GILDED]                                        |
+| - Scepter Part: Spd 3 -> 1 AP | HP 1,800/1,800                      |
+|   | Posture 160/160 [CHARGED]                                       |
+| - Knight Core : Spd 5 -> 3 AP | HP 3,600/3,600                      |
+|   | Posture 260/260 [CAGED]                                         |
 +=====================================================================+
 ```
 
@@ -340,24 +361,37 @@ The forty thousand Echoes ignited in a blinding blaze of Crimson Grudge! The Hol
 |          TACTICAL STAGE HUD: OPERATION 06 — BATTLE TURN 02          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — SCEPTER SAPPING & POWER JAM]                |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER][TAEHO] [JOON]  [SOOJIN][CHEON]  [YUNA]  [MINHO] [CIVS]  [ |
-|                                  [SCEPTER]                          |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN][CHEON]                            |
+| [YUNA]  [MINHO] [CIVS]  [ECHO]  [KNIGHT]                            |
+| [SCEPTER]                                                           |
 +---------------------------------------------------------------------+
-| - Node 02: Commander Taeho (Advancing to Node 03 / Concussive Shiel |
-| - Node 03: Engineer Joon (Hydraulic Kinetic Ram Smashes Scepter Con |
-| - Node 04: Handler Soojin (Leaded Snare Restricting Hollow Knight G |
-| - Node 05: Grand Patriarch Cheon (Rig 1,820/2,600 / Scepter 1,220/1 |
-| - Node 06: Auditor Yuna (Cipher-Pulse Disrupting Sovereign Power Ma |
-| - Node 07: Investigator Minho (Memory Anchor Restoring Squad Compos |
+| - Node 02: Commander Taeho (Advancing to Node 03 / Concussive       |
+|   Shield Bash)                                                      |
+| - Node 03: Engineer Joon (Hydraulic Kinetic Ram Smashes Scepter     |
+|   Conduit)                                                          |
+| - Node 04: Handler Soojin (Leaded Snare Restricting Hollow Knight   |
+|   Greatsword)                                                       |
+| - Node 05: Grand Patriarch Cheon (Rig 1,820/2,600 / Scepter         |
+|   1,220/1,800)                                                      |
+| - Node 06: Auditor Yuna (Cipher-Pulse Disrupting Sovereign Power    |
+|   Matrix)                                                           |
+| - Node 07: Investigator Minho (Memory Anchor Restoring Squad        |
+|   Composure)                                                        |
 | - Node 09: Infiltrator Echo (High Throne Arch Flank behind Dais)    |
-| - Node 10: SE-C-IIIγ-490 'Hollow Knight' (3,280/3,600 HP / Pale Glo |
+| - Node 10: SE-C-IIIγ-490 'Hollow Knight' (3,280/3,600 HP / Pale     |
+|   Glow)                                                             |
 +---------------------------------------------------------------------+
-| - Joon        : Spd 7 -> 4 AP [SURGE] | HP 3,800/3,800 | SP 40/40 | |
-| - Minho       : Spd 9 -> 5 AP [SURGE] | HP 2,900/2,900 | SP 50/50 | |
-| - Cheon Rig   : Spd 3 -> 1 AP | HP 1,820/2,600 | Posture 188/260 [C |
-| - Scepter Part: Spd 2 -> 1 AP | HP 1,220/1,800 | Posture 92/160 [ST |
-| - Knight Core : Spd 4 -> 2 AP | HP 3,280/3,600 | Posture 222/260 [S |
+| - Joon        : Spd 7 -> 4 AP [SURGE] | HP 3,800/3,800 | SP 40/40   |
+|   | Posture 150/150                                                 |
+| - Minho       : Spd 9 -> 5 AP [SURGE] | HP 2,900/2,900 | SP 50/50   |
+|   | Posture 110/110                                                 |
+| - Cheon Rig   : Spd 3 -> 1 AP | HP 1,820/2,600                      |
+|   | Posture 188/260 [CONDUIT CRACKED]                               |
+| - Scepter Part: Spd 2 -> 1 AP | HP 1,220/1,800                      |
+|   | Posture 92/160 [STRAINED]                                       |
+| - Knight Core : Spd 4 -> 2 AP | HP 3,280/3,600                      |
+|   | Posture 222/260 [SNARED]                                        |
 +=====================================================================+
 ```
 
@@ -398,19 +432,27 @@ The forty thousand Echoes ignited in a blinding blaze of Crimson Grudge! The Hol
 |          TACTICAL STAGE HUD: OPERATION 06 — BATTLE TURN 03          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — SCEPTER SHATTER & STAGGER THRESHOLD 1]      |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]        [TAEHO] [JOON]  [CHEON]  [YUNA]  [MINHO] [CIVS]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]        [TAEHO] [JOON]  [CHEON]                            |
+| [YUNA]  [MINHO] [CIVS]  [ECHO]  [KNIGHT]                            |
 +---------------------------------------------------------------------+
-| - Node 03: Commander Taeho (Heavy Piston Strike Smashes Sovereign B |
-| - Node 04: Engineer Joon (Thermite Disruption Clamp Igniting Batter |
-| - Node 05: Grand Patriarch Cheon (STAGGER LEVEL 1 / SCEPTER DESTROY |
+| - Node 03: Commander Taeho (Heavy Piston Strike Smashes Sovereign   |
+|   Breastplate)                                                      |
+| - Node 04: Engineer Joon (Thermite Disruption Clamp Igniting        |
+|   Battery)                                                          |
+| - Node 05: Grand Patriarch Cheon (STAGGER LEVEL 1 / SCEPTER         |
+|   DESTROYED)                                                        |
 | - Node 06: Auditor Yuna (Conspiracy Ledger Download In Progress)    |
-| - Node 07: Investigator Minho (Synaptic Pierce Dismantles Scepter H |
-| - Node 09: Infiltrator Echo (Driving Eclipse Stiletto into Servo Jo |
+| - Node 07: Investigator Minho (Synaptic Pierce Dismantles Scepter   |
+|   Hub)                                                              |
+| - Node 09: Infiltrator Echo (Driving Eclipse Stiletto into Servo    |
+|   Joints)                                                           |
 | - Node 10: SE-C-IIIγ-490 'Hollow Knight' (Pale Steam Churning)      |
 +---------------------------------------------------------------------+
-| - Taeho       : Spd 6 -> 3 AP [SURGE] | HP 4,400/4,400 | SP 48/50 | |
-| - Cheon Rig   : Spd 0 -> 0 AP | HP 460/2,600   | Posture 96/260 [ST |
+| - Taeho       : Spd 6 -> 3 AP [SURGE] | HP 4,400/4,400 | SP 48/50   |
+|   | Posture 180/180                                                 |
+| - Cheon Rig   : Spd 0 -> 0 AP | HP 460/2,600                        |
+|   | Posture 96/260 [STAGGER LEVEL 1]                                |
 | - Scepter Part: DESTROYED (0/1,800 HP)                              |
 | - Knight Core : Spd 5 -> 3 AP | HP 3,280/3,600 | Posture 222/260    |
 +=====================================================================+
@@ -451,21 +493,29 @@ The forty thousand Echoes ignited in a blinding blaze of Crimson Grudge! The Hol
 |          TACTICAL STAGE HUD: OPERATION 06 — BATTLE TURN 04          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — BERSERK HOLLOW KNIGHT & LEADED WARD]        |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]        [TAEHO] [JOON]  [CHEON]  [SOOJIN][YUNA]  [CIVS]  [ |
-|                                                   [MINHO]           |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]        [TAEHO] [JOON]  [CHEON]                            |
+| [SOOJIN][YUNA]  [CIVS]  [ECHO]  [KNIGHT]                            |
+| [MINHO]                                                             |
 +---------------------------------------------------------------------+
 | - Node 03: Commander Taeho (Shielding Delegate Berths & Captives)   |
-| - Node 04: Engineer Joon (Pneumatic Pry Bar Unlatching Delegate Cel |
+| - Node 04: Engineer Joon (Pneumatic Pry Bar Unlatching Delegate     |
+|   Cells)                                                            |
 | - Node 05: Grand Patriarch Cheon (Recovered / Pulling Safety Valve  |
+|   on Knight)                                                        |
 | - Node 06: Handler Soojin (Leaded Sanctuary Ward Enclosing Squad)   |
-| - Node 07: Auditor Yuna & Minho (Cutting Citadel Master Power Matri |
-| - Node 08: 16 Municipal Delegates (Cognitive Shields Holding Intact |
-| - Node 10: SE-C-IIIγ-490 'Hollow Knight' (BERSERK STATE / Pale Sund |
+| - Node 07: Auditor Yuna & Minho (Cutting Citadel Master Power       |
+|   Matrix)                                                           |
+| - Node 08: 16 Municipal Delegates (Cognitive Shields Holding        |
+|   Intact)                                                           |
+| - Node 10: SE-C-IIIγ-490 'Hollow Knight' (BERSERK STATE / Pale      |
+|   Sunder Storm)                                                     |
 +---------------------------------------------------------------------+
-| - Soojin      : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 50/50 | |
+| - Soojin      : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 50/50   |
+|   | Posture 140/140                                                 |
 | - Cheon Rig   : Spd 2 -> 1 AP | HP 460/2,600   | Posture 68/260     |
-| - Knight Core : Spd 6 -> 4 AP | HP 2,720/3,600 | Posture 144/260 [B |
+| - Knight Core : Spd 6 -> 4 AP | HP 2,720/3,600                      |
+|   | Posture 144/260 [BERSERK]                                       |
 +=====================================================================+
 ```
 
@@ -499,21 +549,30 @@ The forty thousand Echoes ignited in a blinding blaze of Crimson Grudge! The Hol
 |          TACTICAL STAGE HUD: OPERATION 06 — BATTLE TURN 05          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — PHANTOM SEVER & TERMINAL STAGGER]           |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]        [TAEHO] [JOON]  [CHEON]  [SOOJIN][YUNA]  [CIVS]    |
-|                                                   [MINHO]         [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]        [TAEHO] [JOON]  [CHEON]                            |
+| [SOOJIN][YUNA]  [CIVS]          [KNIGHT]                            |
+| [MINHO]         [ECHO]                                              |
 +---------------------------------------------------------------------+
 | - Node 03: Commander Taeho (Priming Iron Gavel for Cockpit Breach)  |
-| - Node 04: Engineer Joon (Tearing Away Buckled Sovereign Chassis St |
+| - Node 04: Engineer Joon (Tearing Away Buckled Sovereign Chassis    |
+|   Struts)                                                           |
 | - Node 05: Cheon Rig (TERMINAL STAGGER / POSTURE 0/260 / CRUSHED)   |
-| - Node 06: Handler Soojin (Aligning Class-IV Leaded Cryo-Cask at Da |
-| - Node 07: Investigator Minho (Silver Lancet Stripping Mournful Cor |
-| - Node 09: Infiltrator Echo (Eclipse Stiletto Phantom Sever on Armo |
-| - Node 10: SE-C-IIIγ-490 'Hollow Knight' (TERMINAL STAGGER / POSTUR |
+| - Node 06: Handler Soojin (Aligning Class-IV Leaded Cryo-Cask at    |
+|   Dais)                                                             |
+| - Node 07: Investigator Minho (Silver Lancet Stripping Mournful     |
+|   Core)                                                             |
+| - Node 09: Infiltrator Echo (Eclipse Stiletto Phantom Sever on      |
+|   Armor)                                                            |
+| - Node 10: SE-C-IIIγ-490 'Hollow Knight' (TERMINAL STAGGER /        |
+|   POSTURE 0/260)                                                    |
 +---------------------------------------------------------------------+
-| - Echo        : Spd 11 -> 5 AP [MOMENTUM CRIT] | HP 2,600/2,600 | S |
-| - Cheon Rig   : Spd 0 -> 0 AP | HP 0/2,600     | Posture 0/260 [CHA |
-| - Knight Core : Spd 0 -> 0 AP | HP 1,440/3,600 | Posture 0/260 [TER |
+| - Echo        : Spd 11 -> 5 AP [MOMENTUM CRIT] | HP 2,600/2,600     |
+|   | SP 40/40                                                        |
+| - Cheon Rig   : Spd 0 -> 0 AP | HP 0/2,600                          |
+|   | Posture 0/260 [CHASSIS CRUSHED]                                 |
+| - Knight Core : Spd 0 -> 0 AP | HP 1,440/3,600                      |
+|   | Posture 0/260 [TERMINAL STAGGER]                                |
 +=====================================================================+
 ```
 
@@ -551,14 +610,17 @@ The forty thousand Echoes ignited in a blinding blaze of Crimson Grudge! The Hol
 |          TACTICAL STAGE HUD: OPERATION 06 — BATTLE TURN 06          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — CLIMAX OVERDRIVE: IRON GAVEL & CRYO-SEAL]   |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]                [JOON]  [TAEHO]  [SOOJIN][YUNA]  [CIVS]    |
-|                                  [CHEON]          [MINHO]         [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]                [JOON]  [TAEHO]                            |
+| [SOOJIN][YUNA]  [CIVS]          [CASK]                              |
+| [CHEON]          [MINHO]         [ECHO]                             |
 +---------------------------------------------------------------------+
 | - Node 05: Grand Patriarch Cheon (EXTRACTED UNCONSCIOUS & SECURED)  |
 | - Node 06: Auditor Yuna (14,800 Conspiracy & Treason Files Secured) |
-| - Node 08: 16 Municipal Delegates (Safely Unlatched / Zero Fataliti |
-| - Node 10: SE-C-IIIγ-490 'Hollow Knight' (100% CONTAINED IN CRYOGEN |
+| - Node 08: 16 Municipal Delegates (Safely Unlatched / Zero          |
+|   Fatalities)                                                       |
+| - Node 10: SE-C-IIIγ-490 'Hollow Knight' (100% CONTAINED IN         |
+|   CRYOGENIC CASK)                                                   |
 +---------------------------------------------------------------------+
 | - Strike Cadre: Zero Fatalities | Composure 50/50 SP (Lucidity)     |
 | - Encounter Status: 100% PACIFIED | Handoff to RD Floor 2 Ready     |

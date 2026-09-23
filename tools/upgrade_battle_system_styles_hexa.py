@@ -37,31 +37,9 @@ def pad_to_display_width(text, target_width):
         return res + " " * (target_width - res_w)
     return text
 
-def make_box(title, rows, width=71):
-    top = "+" + "=" * (width - 2) + "+"
-    bottom = "+" + "=" * (width - 2) + "+"
-    sep = "+" + "-" * (width - 2) + "+"
-    inner_width = width - 4
-    
-    out = [top]
-    if title:
-        title_str = f" {title} "
-        title_w = get_display_width(title_str)
-        left_pad = (width - 2 - title_w) // 2
-        right_pad = width - 2 - title_w - left_pad
-        out.append("|" + " " * left_pad + title_str + " " * right_pad + "|")
-        out.append(sep)
-    
-    for r in rows:
-        if r == "---":
-            out.append(sep)
-        elif r.startswith("==="):
-            out.append(top)
-        else:
-            padded = pad_to_display_width(r, inner_width)
-            out.append(f"| {padded} |")
-    out.append(bottom)
-    return "\n".join(out)
+import sys, os
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
 
 def build_section_9_and_10():
     archive_box = make_box("MEMORY ARCHIVE (GIEOK JEOJANGSO) RECEPTION GRID", [
@@ -141,14 +119,14 @@ When the sovereign construct's Posture meter is reduced to 0 (Stagger 2):
 ### 10.1 Spatial 10-Node Overland Expedition Topology
 
 In Horizon Caravan operations, battle unfolds across vast desert plains anchored by the mobile sand fortress **The Drift Throne**:
-- **Node 01 (Crawler Ramps)**: Debarkation gangway of the Drift Throne. Grants $+2$ Protection to allied defenders.
-- **Node 02 (Outrider Skimmer Lane)**: Rapid flanking lane for sand-skimmers and agile skirmishers (Hwaran). Grants $+15\\%$ Evasion.
+- **Node 01 (Crawler Ramps)**: Debarkation gangway of the Drift Throne. Grants +2 Protection to allied defenders.
+- **Node 02 (Outrider Skimmer Lane)**: Rapid flanking lane for sand-skimmers and agile skirmishers (Hwaran). Grants +15\\% Evasion.
 - **Node 03 (Sand Barricades)**: Fortified dune berms equipped with deployable ballistic mantlets anchored by Heavy Dredgers.
 - **Node 04 (Sinking Sand Basin)**: Forward clash zone where medium melee and close-range firearms collide.
 - **Node 05 (Sovereign Adversary Apex)**: The central node occupied by colossal burrowers, marauder war-rigs, or enemy champions.
-- **Node 06 (Elevated Catwalk Pylon)**: Telescopic sniper mast providing $+1$ Range Band to marksmen.
+- **Node 06 (Elevated Catwalk Pylon)**: Telescopic sniper mast providing +1 Range Band to marksmen.
 - **Node 07 (Rear Sand Dune Ridge)**: High ground utilized by acoustic mortar crews.
-- **Node 08 (Sand Chasm Sump)**: Shifting quicksand hazard that penalizes movement by $-2$ Speed.
+- **Node 08 (Sand Chasm Sump)**: Shifting quicksand hazard that penalizes movement by -2 Speed.
 - **Node 09 (Geothermal Ley-Vent)**: Planetary fracture venting boiling Han-brine or volatile steam every 3 turns.
 - **Node 10 (Command Bridge & Siege Railgun)**: The central helm of the Drift Throne housing Kael's command seat and the spinal kinetic railgun.
 

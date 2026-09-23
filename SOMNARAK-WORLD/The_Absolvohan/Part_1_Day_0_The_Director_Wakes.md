@@ -120,16 +120,21 @@ Director Majin opens the personnel terminal, reviewing the biometric dossiers, c
 | Resilience (HP)       : 30 / 30 [Grade I - Grudge Affinity Base]    |
 | Clarity (SP)          : 35 / 35 [Grade II - High Lament Stability]  |
 | Composure (Work)      : 28 / 28 [Grade I - Void Work Precision]     |
-| Resolve (Base Speed)  : Speed 5 [Action Point Allocation: 3 AP / Tu |
-| Equipped Weapon       : Directorate Stun Baton (Medium / Speed Delt |
-|                       : Range Band 1-2 (Nodes 1-4) | 1 AP | 2-4 Lam |
-| Equipped Suit         : Standard R.D. Tunic (Light / Speed Delta +1 |
-| Final Tactical Speed  : Speed 6 -> 3 AP Base + 1 Free Movement Poin |
+| Resolve (Base Speed) : Speed 5 [Action Point Allocation: 3 AP /     |
+| Turn]                                                               |
+| Equipped Weapon : Directorate Stun Baton (Medium / Speed Delta 0)   |
+|                       : Range Band 1-2 (Nodes 1-4) | 1 AP           |
+|   | 2-4 Lament                                                      |
+| Equipped Suit : Standard R.D. Tunic (Light / Speed Delta +1)        |
+| Final Tactical Speed : Speed 6 -> 3 AP Base + 1 Free Movement Point |
 | Posture / Poise Meter : 45 / 45 [Regen: +8 Posture / Turn]          |
-| Parry / Protection    : Baton Deflect (Base Roll: 9 Power | 1.2x St |
-| Passive Trait (P1)    : Empathetic Buffer (+10% SP Recovery on Lame |
-| Panic Typology (P2)   : Despair (Triggers at SP <= -25; Speed drops |
-| Attendant Floor Aura  : Seiyon Synced Directive (+5% SP, +2 Composu |
+| Parry / Protection    : Baton Deflect (Base Roll: 9 Power           |
+|   | 1.2x Stagger)                                                   |
+| Passive Trait (P1) : Empathetic Buffer (+10% SP Recovery on Lament) |
+| Panic Typology (P2) : Despair (Triggers at SP <= -25; Speed drops   |
+| to 1)                                                               |
+| Attendant Floor Aura : Seiyon Synced Directive (+5% SP, +2          |
+| Composure)                                                          |
 | Status                : FULLY COMPOSED / READY FOR DEPLOYMENT       |
 +=====================================================================+
 ```
@@ -139,21 +144,26 @@ Director Majin opens the personnel terminal, reviewing the biometric dossiers, c
 |         OPERATIVE DOSSIER: AGENT KIM (LINE WARDEN / ANCHOR)         |
 +---------------------------------------------------------------------+
 | Level / Promotion     : Level I (Stoic Enforcer / Floor 1 Assigned) |
-| Resilience (HP)       : 38 / 38 [Grade II - High Grudge Physical Bu |
-| Clarity (SP)          : 25 / 25 [Grade I - Standard Lament Toleranc |
+| Resilience (HP) : 38 / 38 [Grade II - High Grudge Physical Bulk]    |
+| Clarity (SP) : 25 / 25 [Grade I - Standard Lament Tolerance]        |
 | Composure (Work)      : 30 / 30 [Grade I - Void Work Baseline]      |
-| Resolve (Base Speed)  : Speed 4 [Action Point Allocation: 2 AP Base |
-| Equipped Weapon       : Directorate Shock Maul (Heavy / Speed Delta |
-|                       : Range Band 1 (Nodes 1-2) | 2 AP | 4-7 Grudg |
-| Equipped Suit         : Heavy Enforcer Mail (Heavy / Speed Delta -1 |
-| Seiyon Floor Aura Mod : Attendant Tactical Offset (+2 Speed Compens |
+| Resolve (Base Speed) : Speed 4 [Action Point Allocation: 2 AP Base] |
+| Equipped Weapon : Directorate Shock Maul (Heavy / Speed Delta -1)   |
+|                       : Range Band 1 (Nodes 1-2) | 2 AP             |
+|   | 4-7 Grudge                                                      |
+| Equipped Suit : Heavy Enforcer Mail (Heavy / Speed Delta -1)        |
+| Seiyon Floor Aura Mod : Attendant Tactical Offset (+2 Speed         |
+| Compensation)                                                       |
 | Final Tactical Speed  : Speed 4 -> Combat Base 5 -> 3 AP / Turn     |
 | Posture / Poise Meter : 60 / 60 [Regen: +12 Posture / Turn]         |
-| Parry / Protection    : Directional Guard Shield (14 Direct Absorpt |
+| Parry / Protection : Directional Guard Shield (14 Direct            |
+| Absorption)                                                         |
 | Passive Trait (P1)    : Weight Poise (+2 Clash Power at Nodes 1-2)  |
-| Panic Typology (P2)   : Berserk (Triggers at SP <= -30; Aggressive  |
-| Attendant Floor Aura  : Seiyon Synced Directive (+5% SP, +2 Composu |
-| Status                : HIGH PHYSICAL ENDURANCE / READY FOR DEPLOYM |
+| Panic Typology (P2) : Berserk (Triggers at SP <= -30; Aggressive    |
+| charge)                                                             |
+| Attendant Floor Aura : Seiyon Synced Directive (+5% SP, +2          |
+| Composure)                                                          |
+| Status : HIGH PHYSICAL ENDURANCE / READY FOR DEPLOYMENT             |
 +=====================================================================+
 ```
 
@@ -245,8 +255,8 @@ Across Sector 1, lighting shifts from tranquil cobalt to flashing crimson. A har
 +---------------------------------------------------------------------+
 | SECTOR ALERT          : HYDRAULIC RESONANCE SPIKE DETECTED          |
 | AFFECTED CHAMBER      : SE-C-IIIg-001 (THE ORPHANED BELL)           |
-| ACOUSTIC OVERLOAD     : STRAIN METER 3/3 REACHED [LEVEL I THRESHOLD |
-| BREACH BLEED TIMER    : 45.0 SECONDS REMAINING UNTIL ENVELOPE RUPTU |
+| ACOUSTIC OVERLOAD : STRAIN METER 3/3 REACHED [LEVEL I THRESHOLD]    |
+| BREACH BLEED TIMER : 45.0 SECONDS REMAINING UNTIL ENVELOPE RUPTURE  |
 | TACTICAL MANDATE      : COMPLETE IMMEDIATE FLEREHAN WORK SESSION    |
 | CONSEQUENCE OF DELAY  : 110dB DEATH TOLL; RUPTURE OF CLERK EARDRUMS |
 +=====================================================================+
@@ -278,7 +288,7 @@ Before the floor sirens can quiet down, the primary illumination shifts to an ee
 | INTRUSION COORDINATES : FLOOR 1 CORRIDOR WEST (NODE 03 ENTRY)       |
 | HOSTILE PARAMETERS    : HP 140/140 | Posture 80/80 | Speed 4 (2 AP) |
 | ATTACK AFFINITY       : Pale (% Max HP Decay / Cognitive Vibration) |
-| VULNERABILITY         : Lament (Acoustic Echo / Empathetic Disrupti |
+| VULNERABILITY : Lament (Acoustic Echo / Empathetic Disruption)      |
 | SPECIAL THREAT        : Emits 15m Catatonia Aura upon manifestation |
 | CIVILIAN STATUS       : 1x Level I Clerk Panicked at Node 04        |
 | SUPPRESSION ORDERS    : DISPATCH AGENTS KIM & PARK IMMEDIATELY      |
@@ -304,8 +314,8 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 |         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 01        |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — FLOOR 1 WEST REINFORCED CORRIDOR]           |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [KIM]   [VOICE] [CLERK] [PARK]                  [SEIYON] [M |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [KIM]   [VOICE] [CLERK] [PARK]                  [SEIYON] [MAJIN]    |
 +---------------------------------------------------------------------+
 | SPATIAL RANGES & POSITIONS:                                         |
 | - Node 02: Agent Kim (Line Anchor / Range Band 1 Point-Blank)       |
@@ -317,7 +327,8 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 | OPERATIVE STATUS & RESOURCE POOLS:                                  |
 | - Agent Kim   : Spd 5 -> 3 AP | HP 38/38 | SP 25/25 | Posture 60/60 |
 | - Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45 |
-| - The Voice   : Spd 4 -> 2 AP | HP 140/140 | Sorrow 50% | Posture 8 |
+| - The Voice   : Spd 4 -> 2 AP | HP 140/140 | Sorrow 50%             |
+|   | Posture 80/80                                                   |
 +=====================================================================+
 ```
 
@@ -348,8 +359,8 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 |         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02        |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — POST-DISPERSION POSITIONS]                  |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [KIM]   [VOICE] [PARK]                          [CLERK]  [M |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [KIM]   [VOICE] [PARK]                          [CLERK]  [MAJIN]    |
 +---------------------------------------------------------------------+
 | - Node 02: Agent Kim (Stationary Anchor / Shield Raised)            |
 | - Node 03: The Voice (Charging Choral Wave / Posture 64/80)         |
@@ -358,7 +369,8 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 +---------------------------------------------------------------------+
 | - Agent Kim   : Spd 5 -> 3 AP | HP 38/38 | SP 25/25 | Posture 60/60 |
 | - Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45 |
-| - The Voice   : Spd 4 -> 2 AP | HP 112/140 | Posture 64/80 (Stagger |
+| - The Voice   : Spd 4 -> 2 AP | HP 112/140                          |
+|   | Posture 64/80 (Stagger 1: 48)                                   |
 +=====================================================================+
 ```
 
@@ -390,8 +402,8 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 |         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03        |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — POSTURE BREAK STAGGER LEVEL 1]              |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [KIM]   [VOICE] [PARK]                                   [M |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [KIM]   [VOICE] [PARK]                                   [MAJIN]    |
 +---------------------------------------------------------------------+
 | - Node 02: Agent Kim (Pressing Forward / Two-Handed Gripping)       |
 | - Node 03: The Voice (STAGGER LEVEL 1 ACTIVE / 1.5x DAMAGE TAKEN)   |
@@ -399,7 +411,8 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 +---------------------------------------------------------------------+
 | - Agent Kim   : Spd 5 -> 3 AP | HP 38/38 | SP 25/25 | Posture 52/60 |
 | - Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45 |
-| - The Voice   : Spd 0 -> 0 AP | HP 74/140  | Posture 32/80 [STAGGER |
+| - The Voice   : Spd 0 -> 0 AP | HP 74/140                           |
+|   | Posture 32/80 [STAGGERED]                                       |
 +=====================================================================+
 ```
 
@@ -428,16 +441,18 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 |         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04        |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — DESPERATION SHOCKWAVE COUNTER-SURGE]        |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [KIM]   [VOICE] [PARK]                                   [M |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [KIM]   [VOICE] [PARK]                                   [MAJIN]    |
 +---------------------------------------------------------------------+
 | - Node 02: Agent Kim (Locking Guard Aegis / Intercepting Pulse)     |
 | - Node 03: The Voice (Recovered / Channeling Soliloquy Scream)      |
 | - Node 04: Agent Park (Sheltered behind Kim's Reinforced Mantlet)   |
 +---------------------------------------------------------------------+
 | - Agent Kim   : Spd 5 -> 3 AP | HP 34/38 | SP 23/25 | Posture 38/60 |
-| - Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 30/30 | SP 35/35 | Postu |
-| - The Voice   : Spd 4 -> 2 AP | HP 52/140  | Posture 24/80 [UNSTABL |
+| - Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 30/30 | SP 35/35         |
+|   | Posture 45/45                                                   |
+| - The Voice   : Spd 4 -> 2 AP | HP 52/140                           |
+|   | Posture 24/80 [UNSTABLE]                                        |
 +=====================================================================+
 ```
 
@@ -462,8 +477,8 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 |         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05        |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — TERMINAL STAGGER THRESHOLD 2]               |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [KIM]   [VOICE]                                          [M |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [KIM]   [VOICE]                                          [MAJIN]    |
 |                 [PARK]                                              |
 +---------------------------------------------------------------------+
 | - Node 02: Agent Kim (Flanking Left Mandible / Shock Maul Primed)   |
@@ -472,7 +487,8 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 +---------------------------------------------------------------------+
 | - Agent Kim   : Spd 5 -> 3 AP | HP 34/38 | SP 23/25 | Posture 38/60 |
 | - Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45 |
-| - The Voice   : Spd 0 -> 0 AP | HP 22/140  | Posture 0/80 [COLLAPSE |
+| - The Voice   : Spd 0 -> 0 AP | HP 22/140                           |
+|   | Posture 0/80 [COLLAPSED]                                        |
 +=====================================================================+
 ```
 
@@ -491,8 +507,8 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 |         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06        |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — CLIMAX EXECUTION & PURIFICATION]            |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [KIM]   [DUST]  [PARK]                                   [M |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [KIM]   [DUST]  [PARK]                                   [MAJIN]    |
 +---------------------------------------------------------------------+
 | - Node 02: Agent Kim (Recovering Stance / Grounding Kinetic Energy) |
 | - Node 03: The Voice (Shattered / Crystallizing into Cyan Mist)     |
@@ -500,7 +516,8 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 +---------------------------------------------------------------------+
 | - Agent Kim   : Spd 5 -> 3 AP | HP 34/38 | SP 23/25 | Posture 48/60 |
 | - Agent Park  : Spd 6 -> 3 AP | HP 30/30 | SP 35/35 | Posture 45/45 |
-| - The Voice   : HP 0/140 [DISSOLVED] | +0.005 TONS REFINED HAN SIPH |
+| - The Voice   : HP 0/140 [DISSOLVED]                                |
+|   | +0.005 TONS REFINED HAN SIPHONED                                |
 +=====================================================================+
 ```
 
@@ -518,7 +535,8 @@ The tactical interface expands into the full 10-Node Stage Matrix:
 |          COMBAT PHASE 01 RESOLUTION (PHASE-END MACRO-TICK)          |
 +---------------------------------------------------------------------+
 | 1. ENVIRONMENTAL CHECK : Meltdown Level I cleared across Sector 1.  |
-| 2. STATUS EQUILIBRIUM  : Clerk sanity stabilized; Kim & Park uninju |
+| 2. STATUS EQUILIBRIUM : Clerk sanity stabilized; Kim & Park         |
+| uninjured.                                                          |
 | 3. CONTAINMENT AUDIT   : First Watch Ordeal suppressed in 6 turns.  |
 | 4. HAN REAGENT YIELD   : +0.005 Tons crystallized Han harvested.    |
 | 5. OVERALL OUTCOME     : FLAWLESS TACTICAL SUPPRESSION (GRADE S)    |
@@ -606,7 +624,8 @@ Observation points accumulated from Chamber 001's resonance sessions are transfe
 |                        | Resist: 0.8 Grudge / 0.7 Lament / 1.2 Void |
 | Lament Edge Gift       | Eye Slot: +4 SP, +5 Work Success Resonance |
 | -----------------------+------------------------------------------- |
-| EQUIPMENT ALLOCATION   | BESTOWED UPON AGENT PARK (VANGUARD SPECIAL |
+| EQUIPMENT ALLOCATION                                                |
+|   | BESTOWED UPON AGENT PARK (VANGUARD SPECIALIST)                  |
 +=====================================================================+
 ```
 

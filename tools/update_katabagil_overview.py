@@ -6,27 +6,9 @@ with the universal 10-node vertical abyss grid, Speed/AP economy, M.A.W.-W modif
 decibel sonar mechanics, tectonic pressure, and Four P-framework.
 """
 
-def make_box(title, rows, width=71):
-    top = "+" + "=" * (width - 2) + "+"
-    bottom = "+" + "=" * (width - 2) + "+"
-    sep = "+" + "-" * (width - 2) + "+"
-    
-    out = [top]
-    if title:
-        title_str = f" {title} "
-        out.append(f"|{title_str.center(width - 2)}|")
-        out.append(sep)
-    
-    for r in rows:
-        if r == "---":
-            out.append(sep)
-        elif r.startswith("==="):
-            out.append(top)
-        else:
-            text = r[:width - 4]
-            out.append(f"| {text.ljust(width - 4)} |")
-    out.append(bottom)
-    return "\n".join(out)
+import sys, os
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
 
 def get_section_iii():
     grid_box = make_box("SED UNIVERSAL 10-NODE VERTICAL ABYSS COMBAT GRID", [
@@ -123,9 +105,9 @@ When the Vanguard engages apex entities guarding strata gates, all tactical comb
   * Operatives generate Action Points based on their net Speed rating (`Speed 4-5 = 2-3 AP`, `Speed 6-7 = 3-4 AP`, `Speed 8-9+ = 4-5 AP`).
   * Movement between adjacent nodes costs 1 AP per node displacement. Range Bands 1 through 5 establish line-of-sight and weapon reach.
 - **M.A.W.-W Weight Class Delta Modifiers**:
-  * *Heavy Armor Class* (Warden Harin): Speed delta $-1$, Poise $+25$. Kinetic redirection and immovable anchoring.
-  * *Medium Rig Class* (Architect Doha, The Silent One): Speed delta $0$, Poise $+20$, Crit $+30\%$. Structural sapping and relic striking.
-  * *Light Suit Class* (Weaver Sora, Cartographer Yeonhwa, Scribe Minjae, Assessor Jisoo): Speed delta $+1$, Evasion $+15\%$. High-frequency acoustic resonance and forensic recording.
+  * *Heavy Armor Class* (Warden Harin): Speed delta -1, Poise +25. Kinetic redirection and immovable anchoring.
+  * *Medium Rig Class* (Architect Doha, The Silent One): Speed delta 0, Poise +20, Crit +30\%. Structural sapping and relic striking.
+  * *Light Suit Class* (Weaver Sora, Cartographer Yeonhwa, Scribe Minjae, Assessor Jisoo): Speed delta +1, Evasion +15\%. High-frequency acoustic resonance and forensic recording.
 
 ### 3.3 The Four P-Framework in Abyssal Expeditions
 Every encounter throughout the seven subterranean descents operates under the **Four P-Framework**:

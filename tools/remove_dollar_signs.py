@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 """
 tools/remove_dollar_signs.py
-Systematically removes all LaTeX dollar sign math delimiters ($...$ and $$...$$)
-across markdown files in SOMNARAK-WORLD/ and TEST_TEXT_BOX_WIDTHS.md,
-replacing them with clean plain-text representations.
+Systematically removes all LaTeX dollar sign math delimiters across markdown files in SOMNARAK-WORLD/.
 """
 
 import os
@@ -11,7 +9,6 @@ import re
 
 def clean_math(match):
     s = match.group(1).strip()
-    # Replacements within math
     s = re.sub(r'\\text\{([^}]+)\}', r'\1', s)
     s = re.sub(r'\\left\(', '(', s)
     s = re.sub(r'\\right\)', ')', s)
@@ -41,7 +38,7 @@ def clean_file(path):
     # 2. Inline math: $ ... $
     content = re.sub(r'\$(.*?)\$', clean_math, content)
 
-    # Specific cleanups if any stray backslashes or artifacts remain
+    # Specific cleanups
     content = content.replace('\\%', '%')
 
     if content != orig:
@@ -68,9 +65,7 @@ def main():
             if clean_file(ef):
                 modified.append(ef)
 
-    print(f"Cleaned dollar signs in {len(modified)} files:")
-    for m in modified:
-        print(f"  - {m}")
+    print(f"Cleaned dollar signs in {len(modified)} files.")
 
 if __name__ == "__main__":
     main()

@@ -243,22 +243,28 @@ The kiln exploded into combat.
 +---------------------------------------------------------------------+
 | APEX TARGET        : Warlord Boknam ('The Meat Hook Baron')         |
 | MODULAR WEAPON     : Pneumatic Harvest Hook Arm (Heavy Slash/Snare) |
-| CONTRABAND ENTITY  : SE-C-IIIγ-120 'Rage Cage' (WAW Threat / Redcag |
+| CONTRABAND ENTITY : SE-C-IIIγ-120 'Rage Cage' (WAW Threat /         |
+| Redcage)                                                            |
 | ESCORT MINIONS     : Siphon Enforcers (x2) & Slag Bone-Sawyers      |
 | ENCOUNTER DOMAIN   : Zone B Low Sinks Sub-Abattoir (-120m Depth)    |
 +---------------------------------------------------------------------+
 | BOSS COMBAT PROFILE (WARLORD BOKNAM):                               |
-| - Winch Rig HP     : 2,200 HP | Core Body HP: 2,000 HP (Total 4,200 |
+| - Winch Rig HP     : 2,200 HP                                       |
+|   | Core Body HP: 2,000 HP (Total 4,200 HP)                         |
 | - Harvest Hook HP  : 1,600 HP (Modular Destructible Weapon Part)    |
 | - Posture Pool     : 240/240 (Dual Threshold Stagger System)        |
-| - Stagger 1 Proc   : 60% Posture Strain (144 Posture) / Hook Destru |
-| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Stagger / Cask R |
-| - Primary Attack   : Pneumatic Hook Cleave & High-Tension Snare (Sl |
+| - Stagger 1 Proc : 60% Posture Strain (144 Posture) / Hook          |
+|   Destruction                                                       |
+| - Stagger 2 Proc : 0% Posture Collapse (Terminal Stagger / Cask     |
+|   Ready)                                                            |
+| - Primary Attack : Pneumatic Hook Cleave & High-Tension Snare       |
+|   (Slash)                                                           |
 +---------------------------------------------------------------------+
 | CONTRABAND ENTITY PROFILE (SE-C-IIIγ-120 'RAGE CAGE'):              |
 | - Entity HP Pool   : 3,000 HP | Posture Pool: 220/220               |
 | - Total Combined   : 6,800 Encounter HP                             |
-| - Attack Affinity  : Crimson Rage Surge & Grudge Resonance (Fire/Bl |
+| - Attack Affinity : Crimson Rage Surge & Grudge Resonance           |
+|   (Fire/Blood)                                                      |
 +=====================================================================+
 ```
 
@@ -269,29 +275,46 @@ The kiln exploded into combat.
 |          TACTICAL STAGE HUD: OPERATION 03 — BATTLE TURN 01          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — ZONE B LOW SINKS ABATTOIR VAULT]            |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER][TAEHO] [JOON]  [SOOJIN][BOKNAM] [YUNA]  [MINHO] [CIVS]    |
-|                                  [HOOK]                           [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN]                                   |
+| [BOKNAM] [YUNA]  [MINHO] [CIVS]          [CAGE]                     |
+| [HOOK]                           [ECHO]                             |
 +---------------------------------------------------------------------+
-| - Node 01: Breach Entry / Class-II Armored Cruiser 'The Iron Vangua |
-| - Node 02: Commander Taeho (Vanguard Band 1 / Phalanx Bastion Grani |
-| - Node 03: Engineer Joon (Point-Blank Band 1 / Deployable Mantlet B |
+| - Node 01: Breach Entry / Class-II Armored Cruiser 'The Iron        |
+|   Vanguard'                                                         |
+| - Node 02: Commander Taeho (Vanguard Band 1 / Phalanx Bastion       |
+|   Granite)                                                          |
+| - Node 03: Engineer Joon (Point-Blank Band 1 / Deployable Mantlet   |
+|   Barrier)                                                          |
 | - Node 04: Handler Soojin (Close Skirmish Band 2 / Sedative Aerosol |
+|   Ward)                                                             |
 | - Node 05: Warlord Boknam & Harvest Hook (Central Processing Dais)  |
-| - Node 06: Auditor Yuna (Mid-Field Band 3 / Forensic Wiretap Consol |
-| - Node 07: Investigator Minho (Mid-Field Band 3 / Mnemonic Sniper R |
+| - Node 06: Auditor Yuna (Mid-Field Band 3 / Forensic Wiretap        |
+|   Console)                                                          |
+| - Node 07: Investigator Minho (Mid-Field Band 3 / Mnemonic Sniper   |
+|   Rafter)                                                           |
 | - Node 08: Extraction Berths (24 Captive Abattoir Workers)          |
-| - Node 10: SE-C-IIIγ-120 'Rage Cage' & Infiltrator Echo (Chain Stea |
+| - Node 10: SE-C-IIIγ-120 'Rage Cage' & Infiltrator Echo (Chain      |
+|   Stealth)                                                          |
 +---------------------------------------------------------------------+
-| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 45/50 | Posture |
-| - Joon        : Spd 5 -> 3 AP | HP 3,800/3,800 | SP 40/40 | Posture |
-| - Yuna        : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 50/50 | Posture |
-| - Minho       : Spd 7 -> 4 AP | HP 2,900/2,900 | SP 45/45 | Posture |
-| - Soojin      : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 50/50 | Posture |
-| - Echo        : Spd 9 -> 5 AP | HP 2,600/2,600 | SP 40/40 | Posture |
-| - Boknam Rig  : Spd 4 -> 2 AP | HP 2,200/2,200 | Posture 240/240 [A |
-| - Hook Weapon : Spd 3 -> 1 AP | HP 1,600/1,600 | Posture 140/140 [P |
-| - Rage Cage   : Spd 5 -> 3 AP | HP 3,000/3,000 | Posture 220/220 [C |
+| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 45/50           |
+|   | Posture 180/180                                                 |
+| - Joon        : Spd 5 -> 3 AP | HP 3,800/3,800 | SP 40/40           |
+|   | Posture 150/150                                                 |
+| - Yuna        : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 50/50           |
+|   | Posture 100/100                                                 |
+| - Minho       : Spd 7 -> 4 AP | HP 2,900/2,900 | SP 45/45           |
+|   | Posture 110/110                                                 |
+| - Soojin      : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 50/50           |
+|   | Posture 140/140                                                 |
+| - Echo        : Spd 9 -> 5 AP | HP 2,600/2,600 | SP 40/40           |
+|   | Posture 90/90 [STEALTH]                                         |
+| - Boknam Rig  : Spd 4 -> 2 AP | HP 2,200/2,200                      |
+|   | Posture 240/240 [ARMORED]                                       |
+| - Hook Weapon : Spd 3 -> 1 AP | HP 1,600/1,600                      |
+|   | Posture 140/140 [PRIMED]                                        |
+| - Rage Cage   : Spd 5 -> 3 AP | HP 3,000/3,000                      |
+|   | Posture 220/220 [CAGED]                                         |
 +=====================================================================+
 ```
 
@@ -333,24 +356,35 @@ The kiln exploded into combat.
 |          TACTICAL STAGE HUD: OPERATION 03 — BATTLE TURN 02          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — WINCH SAPPING & FREQUENCY JAM]              |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER][TAEHO] [JOON]  [SOOJIN][BOKNAM] [YUNA]  [MINHO] [CIVS]  [ |
-|                                  [HOOK]                             |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN][BOKNAM]                           |
+| [YUNA]  [MINHO] [CIVS]  [ECHO]  [CAGE]                              |
+| [HOOK]                                                              |
 +---------------------------------------------------------------------+
-| - Node 02: Commander Taeho (Advancing to Node 03 / Concussive Shiel |
-| - Node 03: Engineer Joon (Hydraulic Kinetic Ram Smashes Winch Pulle |
+| - Node 02: Commander Taeho (Advancing to Node 03 / Concussive       |
+|   Shield Bash)                                                      |
+| - Node 03: Engineer Joon (Hydraulic Kinetic Ram Smashes Winch       |
+|   Pulley)                                                           |
 | - Node 04: Handler Soojin (Leaded Snare Restricting Rage Expansion) |
-| - Node 05: Warlord Boknam (Rig 1,480/2,200 / Harvest Hook 1,180/1,6 |
+| - Node 05: Warlord Boknam (Rig 1,480/2,200 / Harvest Hook           |
+|   1,180/1,600)                                                      |
 | - Node 06: Auditor Yuna (Cipher-Pulse Dampening Redcage Resentment) |
-| - Node 07: Investigator Minho (Memory Anchor Restoring Squad Compos |
+| - Node 07: Investigator Minho (Memory Anchor Restoring Squad        |
+|   Composure)                                                        |
 | - Node 09: Infiltrator Echo (Chain Hoist Catwalk Flank behind Dais) |
-| - Node 10: SE-C-IIIγ-120 'Rage Cage' (2,750/3,000 HP / Bars Heating |
+| - Node 10: SE-C-IIIγ-120 'Rage Cage' (2,750/3,000 HP / Bars         |
+|   Heating)                                                          |
 +---------------------------------------------------------------------+
-| - Joon        : Spd 7 -> 4 AP [SURGE] | HP 3,800/3,800 | SP 40/40 | |
-| - Minho       : Spd 9 -> 5 AP [SURGE] | HP 2,900/2,900 | SP 50/50 | |
-| - Boknam Rig  : Spd 3 -> 1 AP | HP 1,480/2,200 | Posture 172/240 [P |
-| - Hook Weapon : Spd 2 -> 1 AP | HP 1,180/1,600 | Posture 82/140 [ST |
-| - Rage Cage   : Spd 4 -> 2 AP | HP 2,750/3,000 | Posture 194/220 [S |
+| - Joon        : Spd 7 -> 4 AP [SURGE] | HP 3,800/3,800 | SP 40/40   |
+|   | Posture 150/150                                                 |
+| - Minho       : Spd 9 -> 5 AP [SURGE] | HP 2,900/2,900 | SP 50/50   |
+|   | Posture 110/110                                                 |
+| - Boknam Rig  : Spd 3 -> 1 AP | HP 1,480/2,200                      |
+|   | Posture 172/240 [PULLEY BROKEN]                                 |
+| - Hook Weapon : Spd 2 -> 1 AP | HP 1,180/1,600                      |
+|   | Posture 82/140 [STRAINED]                                       |
+| - Rage Cage   : Spd 4 -> 2 AP | HP 2,750/3,000                      |
+|   | Posture 194/220 [SNARED]                                        |
 +=====================================================================+
 ```
 
@@ -391,19 +425,25 @@ The kiln exploded into combat.
 |          TACTICAL STAGE HUD: OPERATION 03 — BATTLE TURN 03          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — HOOK SHATTER & STAGGER THRESHOLD 1]         |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]        [TAEHO] [JOON]  [BOKNAM] [YUNA]  [MINHO] [CIVS]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]        [TAEHO] [JOON]  [BOKNAM]                           |
+| [YUNA]  [MINHO] [CIVS]  [ECHO]  [CAGE]                              |
 +---------------------------------------------------------------------+
-| - Node 03: Commander Taeho (Heavy Piston Strike Smashes Winch Armor |
+| - Node 03: Commander Taeho (Heavy Piston Strike Smashes Winch       |
+|   Armor)                                                            |
 | - Node 04: Engineer Joon (Thermite Disruption Clamp Igniting Motor) |
 | - Node 05: Warlord Boknam (STAGGER LEVEL 1 / HOOK DESTROYED)        |
 | - Node 06: Auditor Yuna (Debt Ledger Download In Progress)          |
-| - Node 07: Investigator Minho (Synaptic Pierce Dismantles Hook Join |
-| - Node 09: Infiltrator Echo (Driving Eclipse Stiletto into Winch Se |
+| - Node 07: Investigator Minho (Synaptic Pierce Dismantles Hook      |
+|   Joint)                                                            |
+| - Node 09: Infiltrator Echo (Driving Eclipse Stiletto into Winch    |
+|   Servos)                                                           |
 | - Node 10: SE-C-IIIγ-120 'Rage Cage' (Red Steam Churning)           |
 +---------------------------------------------------------------------+
-| - Taeho       : Spd 6 -> 3 AP [SURGE] | HP 4,400/4,400 | SP 48/50 | |
-| - Boknam Rig  : Spd 0 -> 0 AP | HP 380/2,200   | Posture 86/240 [ST |
+| - Taeho       : Spd 6 -> 3 AP [SURGE] | HP 4,400/4,400 | SP 48/50   |
+|   | Posture 180/180                                                 |
+| - Boknam Rig  : Spd 0 -> 0 AP | HP 380/2,200                        |
+|   | Posture 86/240 [STAGGER LEVEL 1]                                |
 | - Hook Weapon : DESTROYED (0/1,600 HP)                              |
 | - Rage Cage   : Spd 5 -> 3 AP | HP 2,750/3,000 | Posture 194/220    |
 +=====================================================================+
@@ -444,21 +484,28 @@ The kiln exploded into combat.
 |          TACTICAL STAGE HUD: OPERATION 03 — BATTLE TURN 04          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — BERSERK RAGE CAGE & LEADED BARRIER WARD]    |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]        [TAEHO] [JOON]  [BOKNAM] [SOOJIN][YUNA]  [CIVS]  [ |
-|                                                   [MINHO]           |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]        [TAEHO] [JOON]  [BOKNAM]                           |
+| [SOOJIN][YUNA]  [CIVS]  [ECHO]  [CAGE]                              |
+| [MINHO]                                                             |
 +---------------------------------------------------------------------+
 | - Node 03: Commander Taeho (Shielding Processing Berths & Captives) |
-| - Node 04: Engineer Joon (Pneumatic Pry Bar Unlatching Siphon Berth |
-| - Node 05: Warlord Boknam (Recovered / Pulling Safety Valve on Cage |
+| - Node 04: Engineer Joon (Pneumatic Pry Bar Unlatching Siphon       |
+|   Berths)                                                           |
+| - Node 05: Warlord Boknam (Recovered / Pulling Safety Valve on      |
+|   Cage)                                                             |
 | - Node 06: Handler Soojin (Leaded Barrier Ward Enclosing Squad)     |
-| - Node 07: Auditor Yuna & Minho (Purging High-Pressure Steam Condui |
+| - Node 07: Auditor Yuna & Minho (Purging High-Pressure Steam        |
+|   Conduits)                                                         |
 | - Node 08: 24 Civilian Captives (Cognitive Shields Holding Intact)  |
 | - Node 10: SE-C-IIIγ-120 'Rage Cage' (BERSERK STATE / Crimson Fury  |
+|   Surge)                                                            |
 +---------------------------------------------------------------------+
-| - Soojin      : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 50/50 | |
+| - Soojin      : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 50/50   |
+|   | Posture 140/140                                                 |
 | - Boknam Rig  : Spd 2 -> 1 AP | HP 380/2,200   | Posture 60/240     |
-| - Rage Cage   : Spd 6 -> 4 AP | HP 2,270/3,000 | Posture 124/220 [B |
+| - Rage Cage   : Spd 6 -> 4 AP | HP 2,270/3,000                      |
+|   | Posture 124/220 [BERSERK]                                       |
 +=====================================================================+
 ```
 
@@ -492,21 +539,30 @@ The kiln exploded into combat.
 |          TACTICAL STAGE HUD: OPERATION 03 — BATTLE TURN 05          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — PHANTOM SEVER & TERMINAL STAGGER]           |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]        [TAEHO] [JOON]  [BOKNAM] [SOOJIN][YUNA]  [CIVS]    |
-|                                                   [MINHO]         [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]        [TAEHO] [JOON]  [BOKNAM]                           |
+| [SOOJIN][YUNA]  [CIVS]          [CAGE]                              |
+| [MINHO]         [ECHO]                                              |
 +---------------------------------------------------------------------+
 | - Node 03: Commander Taeho (Priming Iron Gavel for Cockpit Breach)  |
 | - Node 04: Engineer Joon (Tearing Away Buckled Winch Struts)        |
-| - Node 05: Boknam Winch Rig (TERMINAL STAGGER / POSTURE 0/240 / CRU |
-| - Node 06: Handler Soojin (Aligning Class-IV Leaded Cryo-Cask at Da |
-| - Node 07: Investigator Minho (Silver Lancet Stripping Core Resentm |
-| - Node 09: Infiltrator Echo (Eclipse Stiletto Phantom Sever on Bars |
-| - Node 10: SE-C-IIIγ-120 'Rage Cage' (TERMINAL STAGGER / POSTURE 0/ |
+| - Node 05: Boknam Winch Rig (TERMINAL STAGGER / POSTURE 0/240 /     |
+|   CRUSHED)                                                          |
+| - Node 06: Handler Soojin (Aligning Class-IV Leaded Cryo-Cask at    |
+|   Dais)                                                             |
+| - Node 07: Investigator Minho (Silver Lancet Stripping Core         |
+|   Resentment)                                                       |
+| - Node 09: Infiltrator Echo (Eclipse Stiletto Phantom Sever on      |
+|   Bars)                                                             |
+| - Node 10: SE-C-IIIγ-120 'Rage Cage' (TERMINAL STAGGER / POSTURE    |
+|   0/220)                                                            |
 +---------------------------------------------------------------------+
-| - Echo        : Spd 11 -> 5 AP [MOMENTUM CRIT] | HP 2,600/2,600 | S |
-| - Boknam Rig  : Spd 0 -> 0 AP | HP 0/2,200     | Posture 0/240 [CHA |
-| - Rage Cage   : Spd 0 -> 0 AP | HP 1,190/3,000 | Posture 0/220 [TER |
+| - Echo        : Spd 11 -> 5 AP [MOMENTUM CRIT] | HP 2,600/2,600     |
+|   | SP 40/40                                                        |
+| - Boknam Rig  : Spd 0 -> 0 AP | HP 0/2,200                          |
+|   | Posture 0/240 [CHASSIS CRUSHED]                                 |
+| - Rage Cage   : Spd 0 -> 0 AP | HP 1,190/3,000                      |
+|   | Posture 0/220 [TERMINAL STAGGER]                                |
 +=====================================================================+
 ```
 
@@ -544,14 +600,17 @@ The kiln exploded into combat.
 |          TACTICAL STAGE HUD: OPERATION 03 — BATTLE TURN 06          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — CLIMAX OVERDRIVE: IRON GAVEL & CRYO-SEAL]   |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]                [JOON]  [TAEHO]  [SOOJIN][YUNA]  [CIVS]    |
-|                                  [BOKNAM]         [MINHO]         [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]                [JOON]  [TAEHO]                            |
+| [SOOJIN][YUNA]  [CIVS]          [CASK]                              |
+| [BOKNAM]         [MINHO]         [ECHO]                             |
 +---------------------------------------------------------------------+
 | - Node 05: Warlord Boknam (EXTRACTED UNCONSCIOUS & SECURED)         |
 | - Node 06: Auditor Yuna (6,400 Black-Market Debt Records Secured)   |
-| - Node 08: 24 Civilian Captives (Safely Unlatched / Zero Fatalities |
-| - Node 10: SE-C-IIIγ-120 'Rage Cage' (100% CONTAINED IN CRYOGENIC C |
+| - Node 08: 24 Civilian Captives (Safely Unlatched / Zero            |
+|   Fatalities)                                                       |
+| - Node 10: SE-C-IIIγ-120 'Rage Cage' (100% CONTAINED IN CRYOGENIC   |
+|   CASK)                                                             |
 +---------------------------------------------------------------------+
 | - Strike Cadre: Zero Fatalities | Composure 50/50 SP (Lucidity)     |
 | - Encounter Status: 100% PACIFIED | Handoff to RD Floor 2 Ready     |

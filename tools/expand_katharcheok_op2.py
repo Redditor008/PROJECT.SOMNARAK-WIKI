@@ -7,27 +7,9 @@ with full 10-node spatial tactical HUDs, Speed/AP breakdowns, M.A.W.-W weight de
 and Four P-framework action resolution logs across all 6 turns.
 """
 
-def make_box(title, rows, width=71):
-    top = "+" + "=" * (width - 2) + "+"
-    bottom = "+" + "=" * (width - 2) + "+"
-    sep = "+" + "-" * (width - 2) + "+"
-    
-    out = [top]
-    if title:
-        title_str = f" {title} "
-        out.append(f"|{title_str.center(width - 2)}|")
-        out.append(sep)
-    
-    for r in rows:
-        if r == "---":
-            out.append(sep)
-        elif r.startswith("==="):
-            out.append(top)
-        else:
-            text = r[:width - 4]
-            out.append(f"| {text.ljust(width - 4)} |")
-    out.append(bottom)
-    return "\n".join(out)
+import sys, os
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
 
 def get_op2_engagement():
     dossier_box = make_box("TARGET DOSSIER: CHIEF CHEMIST SURA & LETHE MIASMA CORE", [
@@ -186,29 +168,29 @@ def get_op2_engagement():
 
 ###### Turn 01 Action Resolution Log (Kinetic Ingress & Aerosol Neutralization)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Commander Taeho initializes `[Law of the Mantle]`: All allies within 1 node gain $+3$ Protection and physical stagger immunity.
-  * Infiltrator Echo activates `[Shadow Cloak]`: Enters stealth for 2 turns; cannot be targeted by single-target attacks; $+50\%$ Critical Strike Chance.
+  * Commander Taeho initializes `[Law of the Mantle]`: All allies within 1 node gain +3 Protection and physical stagger immunity.
+  * Infiltrator Echo activates `[Shadow Cloak]`: Enters stealth for 2 turns; cannot be targeted by single-target attacks; +50\% Critical Strike Chance.
   * Handler Soojin initializes `[Aerosol Neutralization Ward]`, deploying an active chemical filter around Nodes 02–04.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Commander Taeho (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta $-1$, Poise $+25$): Holds Node 02. Spends 2 AP on `[Phalanx Bastion: Obsidian Wall]`.
-  * Engineer Joon (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 03. Spends 2 AP on `[Deployable Mantlet Barrier]`. Holds 1 AP in Reserve.
-  * Auditor Yuna (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 06 (Range Band 3). Spends 2 AP on `[Cipher-Scan: Chemical Frequencies]`, 2 AP on `[Asset Scan]`.
-  * Investigator Minho (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Stands at Node 07. Spends 2 AP on `[Neural Lancet: Calibrated Dart]`. Holds 2 AP in Reserve.
-  * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 04. Spends 2 AP on maintaining the neutralization ward. Holds 1 AP in Guard.
-  * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta $+2$): Advances through overhead drainage catwalks to Node 10 from stealth. Spends 2 AP on positioning.
+  * Commander Taeho (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02. Spends 2 AP on `[Phalanx Bastion: Obsidian Wall]`.
+  * Engineer Joon (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 03. Spends 2 AP on `[Deployable Mantlet Barrier]`. Holds 1 AP in Reserve.
+  * Auditor Yuna (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06 (Range Band 3). Spends 2 AP on `[Cipher-Scan: Chemical Frequencies]`, 2 AP on `[Asset Scan]`.
+  * Investigator Minho (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Stands at Node 07. Spends 2 AP on `[Neural Lancet: Calibrated Dart]`. Holds 2 AP in Reserve.
+  * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on maintaining the neutralization ward. Holds 1 AP in Guard.
+  * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Advances through overhead drainage catwalks to Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: Chief Chemist Sura unleashes `[Pressurized Pale Spray]` (Base 13 + 2 Coins = 25 Power, Corrosive) against Node 02.
     * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 15 + 2 Coins = 29 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (29 vs 25)!
     * The kinetic force field disperses the toxic chemical stream without a drop breaching the shield (`[P3: Parry/Protection]`).
-    * Taeho reflects **150 kinetic tremor damage** back into Sura's heavy hazmat exoskeleton! Inflicts $+26$ Posture Strain.
+    * Taeho reflects **150 kinetic tremor damage** back into Sura's heavy hazmat exoskeleton! Inflicts +26 Posture Strain.
   * **Clash 2 (Node 03 to 05)**: Chemical Enforcers attempt `[Solvent Syringe Thrust]` (Atk Power 19, Pierce).
     * Engineer Joon's `[Deployable Mantlet Barrier]` (Def Power 23, Kinetic Shield).
     * **Clash Outcome**: Joon WINS THE CLASH (23 vs 19).
     * Syringes shatter against the reinforced titanium mantlet; zero damage taken.
   * **Unopposed Ranged Fire**:
     * Auditor Yuna's `[Cipher-Scan]` identifies the high-pressure feeder joints of the Distillation Sprayer arm.
-    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into Sura's hydraulic actuator, dealing **220 Pierce damage** and $+22$ Posture Strain!
+    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into Sura's hydraulic actuator, dealing **220 Pierce damage** and +22 Posture Strain!
     * Handler Soojin's aerosol ward completely nullifies ambient amnesiac fumes around the squad.
 - **Step 4: Turn End State**:
   * Sura Hazmat Exoskeleton HP: 2,000 -> **1,630/2,000** (Combined Encounter HP: **5,830/6,200**).
@@ -236,14 +218,14 @@ def get_op2_engagement():
     * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 15 + 2 Coins = 27 Power, Heavy Blunt).
     * **Clash Outcome**: Joon WINS THE CLASH (27 vs 23)!
     * The hydraulic ram smashes straight into the outer vapor manifold of the sprayer!
-    * Deals **480 Blunt damage** directly to the Distillation Sprayer arm and inflicts $+48$ Posture Strain!
+    * Deals **480 Blunt damage** directly to the Distillation Sprayer arm and inflicts +48 Posture Strain!
   * **Clash 2 (Node 06 to 05)**: Chief Chemist Sura brandishes `[High-Frequency Solvent Scalpel]` (Power 21).
     * Auditor Yuna unleashes `[Cipher-Pulse: Resonance Intercept]` (Def Power 25).
     * **Clash Outcome**: Yuna WINS THE CLASH (25 vs 21).
     * The electromagnetic pulse destabilizes Sura's balance servos, reducing her speed to 1 and exposing her thoracic plate.
   * **Follow-Up Maneuvers**:
     * Taeho's `[Shield Bash]` deals **260 Blunt damage** to the exoskeleton chassis.
-    * Minho's cognitive salve restores $+15$ SP across the strike cadre.
+    * Minho's cognitive salve restores +15 SP across the strike cadre.
     * Infiltrator Echo slices an overhead solvent feeder, venting 300 liters of concentrated acid harmlessly into the floor drainage sump!
 - **Step 4: Turn End State**:
   * Sura Exoskeleton HP: 1,630 -> **1,370/2,000** | Posture: **162/220**.
@@ -308,7 +290,7 @@ def get_op2_engagement():
     * Handler Soojin deploys `[Leaded Sanctuary: Damping Field]` (Base 24 + 2 Coins = 34 Power, Vacuum Barrier).
     * **Clash Outcome**: Soojin WINS THE CLASH (34 vs 31)!
     * The lead-lined resonance sphere captures the psychic blast perfectly (`[P3: Parry/Protection]`).
-    * Zero amnesiac particles penetrate the leaded ward. Soojin redirects the captured resonance back into the entity's core, dealing **450 Void damage** and $+66$ Posture Strain!
+    * Zero amnesiac particles penetrate the leaded ward. Soojin redirects the captured resonance back into the entity's core, dealing **450 Void damage** and +66 Posture Strain!
 - **Step 4: Turn End State**:
   * Sura Exoskeleton HP: **290/2,000**.
   * SE-C-IIIγ-928 Lethe Core HP: 2,550 -> **2,100/2,800** | Posture: **112/200**.

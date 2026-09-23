@@ -6,27 +6,9 @@ Replaces the older combat gauntlet with full 10-node spatial tactical HUDs, Spee
 M.A.W.-W weight deltas, and Four P-framework action resolution logs across all 6 turns.
 """
 
-def make_box(title, rows, width=71):
-    top = "+" + "=" * (width - 2) + "+"
-    bottom = "+" + "=" * (width - 2) + "+"
-    sep = "+" + "-" * (width - 2) + "+"
-    
-    out = [top]
-    if title:
-        title_str = f" {title} "
-        out.append(f"|{title_str.center(width - 2)}|")
-        out.append(sep)
-    
-    for r in rows:
-        if r == "---":
-            out.append(sep)
-        elif r.startswith("==="):
-            out.append(top)
-        else:
-            text = r[:width - 4]
-            out.append(f"| {text.ljust(width - 4)} |")
-    out.append(bottom)
-    return "\n".join(out)
+import sys, os
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
 
 def get_p5_engagement():
     dossier_box = make_box("APEX BOSS DOSSIER: SECC-068 'ASHEN BOUNDARY SOVEREIGN'", [
@@ -190,22 +172,22 @@ def get_p5_engagement():
 
 ###### Turn 01 Action Resolution Log (Intercepting the Molten Cleaver)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Harin activates `[Vow of the Low Bulwark]`: Drives shield spikes into the basalt floor; gains $+3$ Protection and intercepts the Sovereign's primary molten sweep.
+  * Harin activates `[Vow of the Low Bulwark]`: Drives shield spikes into the basalt floor; gains +3 Protection and intercepts the Sovereign's primary molten sweep.
   * Sora initializes `[Glacial Cascade]`: Prepares cryo-lament water reservoirs to quench molten basalt armor.
   * Yeonhwa casts `[Thermal Sonar Lock]`: Tags the overheated wrist joint of the Calcinated Magma Cleaver.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta $-1$, Poise $+25$): Holds Node 02. Spends 2 AP on `[Vow of the Low Bulwark: Kinetic Wall]`.
-  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta $0$, Crit $+30\%$): Perches on high basalt arches at Node 07. Spends 2 AP on positioning.
-  * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$, Poise $+20$): Holds Node 03. Spends 2 AP on `[Pneumatic Fracture Ram]`. Holds 1 AP in Guard.
-  * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 04. Spends 2 AP on `[Glacial Cascade]`. Holds 2 AP in Reserve.
-  * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 06. Spends 2 AP on `[Thermal Sonar Lock]`, 2 AP on `[Acoustic Dart]`.
-  * Minjae (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Stands at Node 08, recording structural fault vectors.
+  * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02. Spends 2 AP on `[Vow of the Low Bulwark: Kinetic Wall]`.
+  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30\%): Perches on high basalt arches at Node 07. Spends 2 AP on positioning.
+  * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0, Poise +20): Holds Node 03. Spends 2 AP on `[Pneumatic Fracture Ram]`. Holds 1 AP in Guard.
+  * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 04. Spends 2 AP on `[Glacial Cascade]`. Holds 2 AP in Reserve.
+  * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Thermal Sonar Lock]`, 2 AP on `[Acoustic Dart]`.
+  * Minjae (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Stands at Node 08, recording structural fault vectors.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: SECC-068 unleashes `[Molten Slag Cleave]` (Base 17 + 2 Coins = 27 Power, Heavy Grudge/Heat).
     * Harin intercepts with `[Vow of the Low Bulwark: Kinetic Wall]` (Base 20 + 2 Coins = 32 Power, Kinetic Shield).
     * **Clash Outcome**: Harin WINS THE CLASH OVERWHELMINGLY (32 vs 27)!
     * Harin plants her shield into the basalt floor; impact sparks cascade across the rift as the molten magma cleaver is deflected cleanly (`[P3: Parry/Protection]`).
-    * Harin reflects **230 kinetic tremor damage** back into the cleaver arm, inflicting $+48$ Posture Strain!
+    * Harin reflects **230 kinetic tremor damage** back into the cleaver arm, inflicting +48 Posture Strain!
   * **Elemental Weakness Exploitation**:
     * Sora unleashes `[Glacial Cascade]` directly into the glowing magma wrist joint:
       * Siphon of glacial Lament brine strikes boiling volcanic rock (Fatal 2.0x proc!).
@@ -266,10 +248,10 @@ def get_p5_engagement():
     * Doha clashes with `[Sapper Counter-Lever]` (Base 20 + 2 Coins = 32 Power, Heavy Lever).
     * **Clash Outcome**: Doha WINS THE CLASH (32 vs 24)!
     * Doha levers his tungsten sapper spike into the vitrified shield core; the pneumatic piston fires with concussive force!
-    * The Slag Bastion shatters into burning gravel, dealing **420 Blunt damage** and $+76$ Posture Strain!
+    * The Slag Bastion shatters into burning gravel, dealing **420 Blunt damage** and +76 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (2,800 HP), falling to **2,520/4,000 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The titan falls to its knees in the cooling ash; all defenses drop to zero; takes $+50\%$ damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The titan falls to its knees in the cooling ash; all defenses drop to zero; takes +50\% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 3,080 -> **2,520/4,000 [THRESHOLD BREACHED: Below 2,800 HP!]**.
   * Slag Bastion: 980 -> **480/1,300** | Posture: **94/280 [BREACHED]**.

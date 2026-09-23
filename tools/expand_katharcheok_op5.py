@@ -7,27 +7,9 @@ with full 10-node spatial tactical HUDs, Speed/AP breakdowns, M.A.W.-W weight de
 and Four P-framework action resolution logs across all 6 turns.
 """
 
-def make_box(title, rows, width=71):
-    top = "+" + "=" * (width - 2) + "+"
-    bottom = "+" + "=" * (width - 2) + "+"
-    sep = "+" + "-" * (width - 2) + "+"
-    
-    out = [top]
-    if title:
-        title_str = f" {title} "
-        out.append(f"|{title_str.center(width - 2)}|")
-        out.append(sep)
-    
-    for r in rows:
-        if r == "---":
-            out.append(sep)
-        elif r.startswith("==="):
-            out.append(top)
-        else:
-            text = r[:width - 4]
-            out.append(f"| {text.ljust(width - 4)} |")
-    out.append(bottom)
-    return "\n".join(out)
+import sys, os
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
 
 def get_op5_engagement():
     dossier_box = make_box("TARGET DOSSIER: BEASTMASTER JAGYEON & SE-C-IIIγ-102", [
@@ -186,29 +168,29 @@ def get_op5_engagement():
 
 ###### Turn 01 Action Resolution Log (Kinetic Ingress & Shock Whip Deflection)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Commander Taeho initializes `[Law of the Mantle]`: All allies within 1 node gain $+3$ Protection and physical stagger immunity.
-  * Infiltrator Echo activates `[Shadow Cloak]`: Enters stealth for 2 turns; cannot be targeted by single-target attacks; $+50\%$ Critical Strike Chance.
+  * Commander Taeho initializes `[Law of the Mantle]`: All allies within 1 node gain +3 Protection and physical stagger immunity.
+  * Infiltrator Echo activates `[Shadow Cloak]`: Enters stealth for 2 turns; cannot be targeted by single-target attacks; +50\% Critical Strike Chance.
   * Handler Soojin initializes `[Sedative Aerosol Ward]`, suppressing agitated sorrow emissions in the sand pit.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Commander Taeho (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta $-1$, Poise $+25$): Holds Node 02. Spends 2 AP on `[Phalanx Bastion: Obsidian Wall]`.
-  * Engineer Joon (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 03. Spends 2 AP on `[Deployable Mantlet Barrier]`. Holds 1 AP in Reserve.
-  * Auditor Yuna (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 06 (Range Band 3). Spends 2 AP on `[Cipher-Scan: Neural Collar Frequency]`, 2 AP on `[Asset Scan]`.
-  * Investigator Minho (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Stands at Node 07. Spends 2 AP on `[Neural Lancet: Calibrated Dart]`. Holds 2 AP in Reserve.
-  * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 04. Spends 2 AP on maintaining the sedative ward. Holds 1 AP in Guard.
-  * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta $+2$): Scales basalt arena pillars toward Node 10 from stealth. Spends 2 AP on positioning.
+  * Commander Taeho (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02. Spends 2 AP on `[Phalanx Bastion: Obsidian Wall]`.
+  * Engineer Joon (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 03. Spends 2 AP on `[Deployable Mantlet Barrier]`. Holds 1 AP in Reserve.
+  * Auditor Yuna (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06 (Range Band 3). Spends 2 AP on `[Cipher-Scan: Neural Collar Frequency]`, 2 AP on `[Asset Scan]`.
+  * Investigator Minho (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Stands at Node 07. Spends 2 AP on `[Neural Lancet: Calibrated Dart]`. Holds 2 AP in Reserve.
+  * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on maintaining the sedative ward. Holds 1 AP in Guard.
+  * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Scales basalt arena pillars toward Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: Beastmaster Jagyeon lashes out with `[Harmonic Shock Lash]` (Base 16 + 2 Coins = 28 Power, Electric/Slash) against Node 02.
     * Commander Taeho counters with `[Phalanx Bastion: Obsidian Wall]` (Base 18 + 2 Coins = 32 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (32 vs 28)!
     * The kinetic shield grounds the 50,000-volt high-voltage arc directly into the sand deck (`[P3: Parry/Protection]`).
-    * Taeho reflects **180 kinetic tremor damage** back into Jagyeon's beast-hide harness! Inflicts $+28$ Posture Strain.
+    * Taeho reflects **180 kinetic tremor damage** back into Jagyeon's beast-hide harness! Inflicts +28 Posture Strain.
   * **Clash 2 (Node 03 to 05)**: Pit Gladiators thrust with `[Barbed Harpoon Thrust]` (Atk Power 22, Pierce).
     * Engineer Joon's `[Deployable Mantlet Barrier]` (Def Power 26, Kinetic Shield).
     * **Clash Outcome**: Joon WINS THE CLASH (26 vs 22).
     * Harpoons shatter against the reinforced titanium mantlet; zero damage taken.
   * **Unopposed Ranged Fire**:
     * Auditor Yuna's `[Cipher-Scan]` identifies the high-voltage battery housing at Jagyeon's hip.
-    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into Jagyeon's reinforced greaves, dealing **260 Pierce damage** and $+26$ Posture Strain!
+    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into Jagyeon's reinforced greaves, dealing **260 Pierce damage** and +26 Posture Strain!
     * Handler Soojin's sedative ward stabilizes ambient sorrow emissions around the arena floor.
 - **Step 4: Turn End State**:
   * Jagyeon Beast Armor HP: 2,400 -> **1,960/2,400** (Combined Encounter HP: **7,160/7,600**).
@@ -236,14 +218,14 @@ def get_op5_engagement():
     * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 18 + 2 Coins = 30 Power, Heavy Blunt).
     * **Clash Outcome**: Joon WINS THE CLASH (30 vs 26)!
     * The hydraulic ram smashes straight into the hip battery generator of the whip!
-    * Deals **560 Blunt damage** directly to the Harmonic Shock Whip and inflicts $+56$ Posture Strain!
+    * Deals **560 Blunt damage** directly to the Harmonic Shock Whip and inflicts +56 Posture Strain!
   * **Clash 2 (Node 06 to 10)**: SE-C-IIIγ-102 'Chained Frenzy' thrashes with `[Crimson Chain Flail]` (Power 24, Grudge).
     * Auditor Yuna unleashes `[Cipher-Pulse: Damping Wall]` (Def Power 28, EMP).
     * **Clash Outcome**: Yuna WINS THE CLASH (28 vs 24).
-    * The EMP wave scrambles the collar's agony generator, dealing **280 Resonance damage** to SE-C-IIIγ-102 and $+36$ Posture Strain!
+    * The EMP wave scrambles the collar's agony generator, dealing **280 Resonance damage** to SE-C-IIIγ-102 and +36 Posture Strain!
   * **Follow-Up Maneuvers**:
     * Taeho's `[Shield Bash]` deals **300 Blunt damage** to Jagyeon's breastplate.
-    * Minho's cognitive salve restores $+15$ SP across the strike cadre.
+    * Minho's cognitive salve restores +15 SP across the strike cadre.
     * Infiltrator Echo severs an overhead winch cable, dropping a heavy iron cage onto the gladiators' weapon rack!
 - **Step 4: Turn End State**:
   * Jagyeon Beast Armor HP: 1,960 -> **1,660/2,400** | Posture: **170/240 [GENERATOR BROKEN]**.
@@ -308,7 +290,7 @@ def get_op5_engagement():
     * Handler Soojin deploys `[Leaded Sanctuary Ward]` (Base 26 + 2 Coins = 36 Power, Vacuum Barrier).
     * **Clash Outcome**: Soojin WINS THE CLASH (36 vs 33)!
     * The lead-lined vacuum sphere fully captures the whirling razor-chain shockwave (`[P3: Parry/Protection]`).
-    * Zero chain shards penetrate the leaded barrier. Soojin redirects the trapped kinetic energy back into the beast's tether, dealing **540 Void damage** and $+74$ Posture Strain!
+    * Zero chain shards penetrate the leaded barrier. Soojin redirects the trapped kinetic energy back into the beast's tether, dealing **540 Void damage** and +74 Posture Strain!
 - **Step 4: Turn End State**:
   * Jagyeon Beast Armor HP: **420/2,400** | Posture: **58/240**.
   * SE-C-IIIγ-102 Chain Beast HP: 3,120 -> **2,580/3,400** | Posture: **130/240**.

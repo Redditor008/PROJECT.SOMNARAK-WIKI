@@ -5,27 +5,9 @@ Updates Section III and strike officer attributes in SOMNARAK-WORLD/Katharcheok/
 with the universal 10-node spatial grid, Speed/AP economy, M.A.W.-W modifiers, and Four P-framework.
 """
 
-def make_box(title, rows, width=71):
-    top = "+" + "=" * (width - 2) + "+"
-    bottom = "+" + "=" * (width - 2) + "+"
-    sep = "+" + "-" * (width - 2) + "+"
-    
-    out = [top]
-    if title:
-        title_str = f" {title} "
-        out.append(f"|{title_str.center(width - 2)}|")
-        out.append(sep)
-    
-    for r in rows:
-        if r == "---":
-            out.append(sep)
-        elif r.startswith("==="):
-            out.append(top)
-        else:
-            text = r[:width - 4]
-            out.append(f"| {text.ljust(width - 4)} |")
-    out.append(bottom)
-    return "\n".join(out)
+import sys, os
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
 
 def get_section_iii():
     grid_box = make_box("UCD UNIVERSAL 10-NODE URBAN CQB COMBAT GRID", [
@@ -83,10 +65,10 @@ Urban counter-insurgency inside dense, multi-story tenements, illegal foundries,
 - **Range Bands 1 through 5**: Combatants occupy discrete nodes from `[N01]` to `[N10]`. Melee breachers (Commander Taeho and Engineer Joon) control Nodes 01–03 to anchor the breach and absorb hostile kinetic energy. Mid-field analysts (Auditor Yuna and Handler Soojin) operate from Nodes 04–06 to deploy electromagnetic wiretaps and resonance damping fields. High-precision snipers (Investigator Minho) and shadow assassins (Infiltrator Echo) utilize elevated rafters and catenary catwalks at Nodes 07–10 to dismantle critical boss components from extreme range.
 - **Action Point (AP) Economy & Speed Ratings**: Base Speed directly determines Action Point generation per Battle Turn (`Speed 4-5 = 2-3 AP`, `Speed 6-7 = 3-4 AP`, `Speed 8-9+ = 4-5 AP`). Operatives spend AP to advance across nodes (1 AP per node displacement), execute standard tactical skills (2 AP), or channel specialized Climax Overdrives (3 AP).
 - **M.A.W.-W Weight Class Delta Modifiers**:
-  * **Heavy Armor Class** (Commander Taeho): Speed delta $-1$, Poise $+25$. Unyielding kinetic inertia.
-  * **Medium Rig Class** (Engineer Joon, Handler Soojin): Speed delta $0$, Poise $+15$ to $+20$. Balanced industrial loadout.
-  * **Light Suit Class** (Auditor Yuna, Investigator Minho): Speed delta $+1$, Poise $+5$, Evasion $+15\%$. High-frequency maneuverability.
-  * **Feather Shroud Class** (Infiltrator Echo): Speed delta $+2$, Poise $0$, Stealth $+35\%$. Unmatched velocity and critical ambush potential.
+  * **Heavy Armor Class** (Commander Taeho): Speed delta -1, Poise +25. Unyielding kinetic inertia.
+  * **Medium Rig Class** (Engineer Joon, Handler Soojin): Speed delta 0, Poise +15 to +20. Balanced industrial loadout.
+  * **Light Suit Class** (Auditor Yuna, Investigator Minho): Speed delta +1, Poise +5, Evasion +15\%. High-frequency maneuverability.
+  * **Feather Shroud Class** (Infiltrator Echo): Speed delta +2, Poise 0, Stealth +35\%. Unmatched velocity and critical ambush potential.
 
 ### 3.2 The Four P-Framework in Sub-Municipal Counter-Insurgency
 Every clash, maneuver, and containment protocol executed by the UCD operates under the **Four P-Framework**:

@@ -4,27 +4,9 @@ tools/build_reception_1.py
 Generates Reception 1 (Floor 1: The First Keeper) in SOMNARAK-WORLD/Gieok_Jeojangso/Reception_1_First_Keeper.md
 """
 
-def make_box(title, rows, width=71):
-    top = "+" + "=" * (width - 2) + "+"
-    bottom = "+" + "=" * (width - 2) + "+"
-    sep = "+" + "-" * (width - 2) + "+"
-    
-    out = [top]
-    if title:
-        title_str = f" {title} "
-        out.append(f"|{title_str.center(width - 2)}|")
-        out.append(sep)
-    
-    for r in rows:
-        if r == "---":
-            out.append(sep)
-        elif r.startswith("==="):
-            out.append(top)
-        else:
-            text = r[:width - 4]
-            out.append(f"| {text.ljust(width - 4)} |")
-    out.append(bottom)
-    return "\n".join(out)
+import sys, os
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
 
 def generate_reception_1():
     dossier_box = make_box("RECEPTION DOSSIER: THE FIRST KEEPER (FLOOR 01)", [

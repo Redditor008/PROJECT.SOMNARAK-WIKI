@@ -344,14 +344,16 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 +---------------------------------------------------------------------+
 | BOSS COMBAT PROFILE (SECC-012):                                     |
 | - Total Health (HP): 2,400 HP | Posture Pool: 260/260               |
-| - Stagger 1 Proc   : 60% Posture Strain (156 Posture) / Siphon Brea |
+| - Stagger 1 Proc : 60% Posture Strain (156 Posture) / Siphon Break  |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Pacification)    |
 | - Resistances      : Grudge 2.0x (Fatal), Lament 0.5x, Void 1.0x    |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
 | 1. Left Siphon Arm : 600 HP | Posture 180/180 (Siphons brine / AoE) |
-| 2. Bronze Cleaver  : 800 HP | Posture 200/200 (Sweeping blade cleav |
-| 3. Weeping Core    : 1,000 HP | Posture 260/260 (Liquid Han reservo |
+| 2. Bronze Cleaver  : 800 HP                                         |
+|   | Posture 200/200 (Sweeping blade cleave)                         |
+| 3. Weeping Core    : 1,000 HP                                       |
+|   | Posture 260/260 (Liquid Han reservoir)                          |
 +=====================================================================+
 ```
 
@@ -362,39 +364,50 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 |           TACTICAL STAGE HUD: PASSAGE 01 — BATTLE TURN 01           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — STRATA 1 FLOODED RESERVOIR (-150M)]         |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]   [HARIN]  [DOHA]  [YEON]  [BOSS]   [SORA]  [MINJAE][JISOO]   |
-|                                  [SIPHON]                           |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]   [HARIN]  [DOHA]  [YEON]                                     |
+| [BOSS]   [SORA]  [MINJAE][JISOO]         [SILENT]                   |
+| [SIPHON]                                                            |
 +---------------------------------------------------------------------+
 | - Node 01: Borehole Drillhead / Armored Rig 'The Iron Mole' Staging |
 | - Node 02: Harin (Vanguard Band 1 / Pneumatic Bulwark Bastion)      |
 | - Node 03: Doha (Point-Blank Band 1 / Calcified Pneumatic Ram)      |
-| - Node 04: Yeonhwa (Mid-Field Band 3 / Sonar Target Lock Theodolite |
+| - Node 04: Yeonhwa (Mid-Field Band 3 / Sonar Target Lock            |
+|   Theodolite)                                                       |
 | - Node 05: SECC-012 Drowned Guardian (Left Siphon & Right Cleaver)  |
 | - Node 06: Sora (Mid-Field Band 3 / Silver Cowl Mnemonic Threads)   |
 | - Node 07: Minjae (Rear Band 4 / Archival Telemetry Slate)          |
 | - Node 08: Jisoo (Rear Band 5 / Cryo Harpoon Logistics Berth)       |
-| - Node 10: The Silent One (High Basalt Arch / Severed Relic Cleaver |
+| - Node 10: The Silent One (High Basalt Arch / Severed Relic         |
+|   Cleaver)                                                          |
 +---------------------------------------------------------------------+
-| - Harin       : Spd 4 -> 2 AP | HP 4,200/4,200 | SP 45/50 | Posture |
-| - Silent One  : Spd 7 -> 4 AP | HP 3,100/3,100 | SP 40/40 | Posture |
-| - Doha        : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 40/40 | Posture |
-| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50 | Posture |
-| - Yeonhwa     : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 45/45 | Posture |
-| - Boss Core   : Spd 4 -> 2 AP | HP 1,000/1,000 | Posture 260/260 [S |
-| - Siphon Arm  : Spd 6 -> 3 AP | HP 600/600     | Posture 180/180 [S |
-| - Bronze Blade: Spd 4 -> 2 AP | HP 800/800     | Posture 200/200 [A |
+| - Harin       : Spd 4 -> 2 AP | HP 4,200/4,200 | SP 45/50           |
+|   | Posture 180/180                                                 |
+| - Silent One  : Spd 7 -> 4 AP | HP 3,100/3,100 | SP 40/40           |
+|   | Posture 120/120                                                 |
+| - Doha        : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 40/40           |
+|   | Posture 150/150                                                 |
+| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50           |
+|   | Posture 100/100                                                 |
+| - Yeonhwa     : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 45/45           |
+|   | Posture 100/100                                                 |
+| - Boss Core   : Spd 4 -> 2 AP | HP 1,000/1,000                      |
+|   | Posture 260/260 [SUBMERGED]                                     |
+| - Siphon Arm  : Spd 6 -> 3 AP | HP 600/600                          |
+|   | Posture 180/180 [SIPHONING]                                     |
+| - Bronze Blade: Spd 4 -> 2 AP | HP 800/800                          |
+|   | Posture 200/200 [ARMED]                                         |
 +=====================================================================+
 ```
 
 ###### Turn 01 Action Resolution Log (Establishing the Formation & Brine Torrent Deflection)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Harin activates `[Pneumatic Bulwark Stance]`: Grants herself and adjacent allies +3 Protection; intercepts the highest speed enemy clash targeting Band 1–2.
-  * Yeonhwa initializes `[Sonar Target Lock]`: Focuses acoustic theodolite sensors on the Left Hydraulic Siphon Arm, increasing squad stagger damage against it by +25%.
+  * Yeonhwa initializes `[Sonar Target Lock]`: Focuses acoustic theodolite sensors on the Left Hydraulic Siphon Arm, increasing squad stagger damage against it by +25\%.
   * Sora deploys `[Silver Cowl: Empathic Nullification]`, neutralizing the reservoir's ambient acoustic weeping.
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02. Spends 2 AP on `[Pneumatic Bulwark: Kinetic Deflection]`.
-  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30%): Holds high arch flank at Node 10. Spends 2 AP on `[Severing Parry]`. Holds 2 AP in Reserve.
+  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30\%): Holds high arch flank at Node 10. Spends 2 AP on `[Severing Parry]`. Holds 2 AP in Reserve.
   * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0, Poise +20): Advances to Node 03. Spends 2 AP on `[Pneumatic Hammer Strike]`. Holds 1 AP in Guard.
   * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Empathic Nullification Ward]`. Holds 2 AP in Reserve.
   * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 04. Spends 2 AP on `[Sonar Target Lock: Siphon Frequency]`, 2 AP on `[Acoustic Resonance Dart]`.
@@ -423,19 +436,26 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 |           TACTICAL STAGE HUD: PASSAGE 01 — BATTLE TURN 02           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — SIPHON BREAK & OVERDRIVE PISTON]            |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]            [HARIN] [DOHA]  [BOSS]   [YEON]  [SORA]  [MINJAE][ |
-|                                  [SIPHON]                           |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]            [HARIN] [DOHA]  [BOSS]                             |
+| [YEON]  [SORA]  [MINJAE][JISOO] [SILENT]                            |
+| [SIPHON]                                                            |
 +---------------------------------------------------------------------+
-| - Node 03: Harin (Advancing / Absorbing Cleave with Pneumatic Bulwa |
-| - Node 04: Doha (Pneumatic Overdrive: Bedrock Piston Smashes Siphon |
-| - Node 05: SECC-012 Drowned Guardian (Siphon Arm Destroyed 0/600 HP |
+| - Node 03: Harin (Advancing / Absorbing Cleave with Pneumatic       |
+|   Bulwark)                                                          |
+| - Node 04: Doha (Pneumatic Overdrive: Bedrock Piston Smashes        |
+|   Siphon)                                                           |
+| - Node 05: SECC-012 Drowned Guardian (Siphon Arm Destroyed 0/600    |
+|   HP)                                                               |
 | - Node 06: Yeonhwa (Sonar Target Lock Synchronizing Flank Slashes)  |
 | - Node 07: Sora (Silver Cowl Nullifying Ambient Weeping Brine)      |
-| - Node 10: The Silent One (Twin Pale Flurry Severing Hydraulic Hose |
+| - Node 10: The Silent One (Twin Pale Flurry Severing Hydraulic      |
+|   Hoses)                                                            |
 +---------------------------------------------------------------------+
-| - Doha        : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 44/50 | |
-| - Silent One  : Spd 9 -> 5 AP [SURGE] | HP 3,100/3,100 | SP 46/50 | |
+| - Doha        : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 44/50   |
+|   | Posture 150/150                                                 |
+| - Silent One  : Spd 9 -> 5 AP [SURGE] | HP 3,100/3,100 | SP 46/50   |
+|   | Posture 120/120                                                 |
 | - Boss Core   : Spd 3 -> 1 AP | HP 1,000/1,000 | Posture 204/260    |
 | - Siphon Arm  : DESTROYED (0/600 HP) | DELUGE ULTIMATE CANCELLED    |
 | - Bronze Blade: Spd 3 -> 1 AP | HP 800/800     | Posture 146/200    |
@@ -476,19 +496,25 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 |           TACTICAL STAGE HUD: PASSAGE 01 — BATTLE TURN 03           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & DUAL DEFENSE]         |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]            [HARIN] [DOHA]  [BOSS]   [YEON]  [SORA]  [SILENT]  |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]            [HARIN] [DOHA]  [BOSS]                             |
+| [YEON]  [SORA]  [SILENT]        [JISOO]                             |
 +---------------------------------------------------------------------+
-| - Node 03: Harin & Doha (Joint Bulwark Stance vs Executioner's Clea |
+| - Node 03: Harin & Doha (Joint Bulwark Stance vs Executioner's      |
+|   Cleave)                                                           |
 | - Node 05: SECC-012 Drowned Guardian (STAGGER LEVEL 1 / DEFENSES 0) |
 | - Node 06: Yeonhwa (Acoustic Dart Stripping Exposed Bronze Rivets)  |
 | - Node 07: Sora (Silver Cowl Empathic Ward Granting +3 Clash Power) |
 | - Node 08: The Silent One (Relic Cleaver Driving into Weeping Core) |
 +---------------------------------------------------------------------+
-| - Harin       : Spd 6 -> 3 AP [SURGE] | HP 4,120/4,200 | SP 48/50 | |
-| - Boss Core   : Spd 0 -> 0 AP | HP 714/1,000   | Posture 92/260 [ST |
-| - Bronze Blade: Spd 0 -> 0 AP | HP 440/800     | Posture 88/200 [CR |
-| - Total Boss  : HP 1,672/2,400 [THRESHOLD BREACHED / TAKES 1.5X DAM |
+| - Harin       : Spd 6 -> 3 AP [SURGE] | HP 4,120/4,200 | SP 48/50   |
+|   | Posture 180/180                                                 |
+| - Boss Core   : Spd 0 -> 0 AP | HP 714/1,000                        |
+|   | Posture 92/260 [STAGGER LEVEL 1]                                |
+| - Bronze Blade: Spd 0 -> 0 AP | HP 440/800                          |
+|   | Posture 88/200 [CRACKED]                                        |
+| - Total Boss : HP 1,672/2,400 [THRESHOLD BREACHED / TAKES 1.5X      |
+|   DAMAGE]                                                           |
 +=====================================================================+
 ```
 
@@ -512,7 +538,7 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
     * Deals **218 Fatal Grudge damage** directly to the Weeping Core!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP drops past 70% to **1,672/2,400 HP**; Posture collapses past 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The titan falls to one knee in the flooded basin. All defenses drop to zero; takes +50% damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The titan falls to one knee in the flooded basin. All defenses drop to zero; takes +50\% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 1,890 -> **1,672/2,400 [THRESHOLD BREACHED: Below 1,680 HP!]**.
   * Boss Posture: **92/260 [STAGGER LEVEL 1]**.
@@ -525,20 +551,24 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 |           TACTICAL STAGE HUD: PASSAGE 01 — BATTLE TURN 04           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — MAXIMUM BURST & THRESHOLD SKIP]             |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                    [HARIN] [BOSS]   [DOHA]  [SILENT][YEON]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                    [HARIN] [BOSS]   [DOHA]                    |
+| [SILENT][YEON]  [SORA]  [JISOO]                                     |
 +---------------------------------------------------------------------+
 | - Node 04: Harin (Piston Pummel Securing Dais Perimeter)            |
-| - Node 05: SECC-012 Drowned Guardian (Unconscious from Stagger Stra |
+| - Node 05: SECC-012 Drowned Guardian (Unconscious from Stagger      |
+|   Strain)                                                           |
 | - Node 06: Doha (Hydraulic Bedrock Shatter Crushing Bronze Thorax)  |
 | - Node 07: The Silent One (Severing Void Arc Slicing Weeping Core)  |
 | - Node 08: Yeonhwa & Sora (Acoustic Needle Volley Suppressing Core) |
 | - Node 10: Jisoo (Cryo Harpoon Anchoring Base of Petrified Throne)  |
 +---------------------------------------------------------------------+
-| - Silent One  : Spd 10 -> 5 AP [BURST CRIT] | HP 3,100/3,100 | SP 5 |
+| - Silent One  : Spd 10 -> 5 AP [BURST CRIT] | HP 3,100/3,100        |
+|   | SP 50/50                                                        |
 | - Boss Core   : Spd 0 -> 0 AP | HP 314/1,000   | Posture 40/260     |
 | - Bronze Blade: Spd 0 -> 0 AP | HP 220/800     | Posture 32/200     |
-| - Total Boss  : HP 754/2,400 [BURST DAMAGE 918! SECOND THRESHOLD SK |
+| - Total Boss : HP 754/2,400 [BURST DAMAGE 918! SECOND THRESHOLD     |
+|   SKIPPED]                                                          |
 +=====================================================================+
 ```
 
@@ -573,18 +603,24 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 |           TACTICAL STAGE HUD: PASSAGE 01 — BATTLE TURN 05           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — THE ANCIENT PRAYER & CLEAVER AMPUTATION]    |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                    [HARIN] [BOSS]   [SILENT][DOHA]  [YEON]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                    [HARIN] [BOSS]   [SILENT]                  |
+| [DOHA]  [YEON]  [SORA]  [JISOO]                                     |
 +---------------------------------------------------------------------+
 | - Node 04: Harin (Absorbing Boiling Psychic Shockwave)              |
 | - Node 05: SECC-012 (Recovering / Blazing Cyan Whirlpool / Psychic  |
-| - Node 06: The Silent One (Relic Overdrive: Primordial Severance Cl |
+|   Han)                                                              |
+| - Node 06: The Silent One (Relic Overdrive: Primordial Severance    |
+|   Cleave)                                                           |
 | - Node 07: Doha (Anchoring Bedrock Jacks Against Fluvial Vortex)    |
-| - Node 09: Sora (Cranial Silver Chorus Restores +20 SP Across Squad |
+| - Node 09: Sora (Cranial Silver Chorus Restores +20 SP Across       |
+|   Squad)                                                            |
 +---------------------------------------------------------------------+
-| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50 | CHORUS  |
+| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50           |
+|   | CHORUS ACTIVE                                                   |
 | - Boss Core   : Spd 3 -> 1 AP | HP 312/1,000   | Posture 20/260     |
-| - Bronze Blade: DESTROYED (0/800 HP) | CLEAVER SHATTERED INTO SHARD |
+| - Bronze Blade: DESTROYED (0/800 HP)                                |
+|   | CLEAVER SHATTERED INTO SHARDS                                   |
 | - Total Boss  : HP 312/2,400 [DISARMED & WEEPING / POSTURE FAILING] |
 +=====================================================================+
 ```
@@ -619,11 +655,13 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 |           TACTICAL STAGE HUD: PASSAGE 01 — BATTLE TURN 06           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — THE FINAL RELEASE & FIRST SLUICE KEY]       |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                            [SORA]   [HARIN] [DOHA]  [YEON]  [ |
-|                                  [REST]                           [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                            [SORA]   [HARIN]                   |
+| [DOHA]  [YEON]  [SILENT][GATE]                                      |
+| [REST]                           [MINJAE][JISOO]                    |
 +---------------------------------------------------------------------+
-| - Node 05: SECC-012 Drowned Guardian (PACIFIED & DISSOLVING PEACEFU |
+| - Node 05: SECC-012 Drowned Guardian (PACIFIED & DISSOLVING         |
+|   PEACEFULLY)                                                       |
 | - Node 06: Sora (Empathic Solace Communion on Cracked Core)         |
 | - Node 07: Harin & Doha (Securing the Great Crypta Gate Sluice)     |
 | - Node 08: Yeonhwa (Scanning Strata 2 Stairwell Wireframe)          |

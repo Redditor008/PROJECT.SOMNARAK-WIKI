@@ -7,27 +7,9 @@ with full 10-node spatial tactical HUDs, Speed/AP breakdowns, M.A.W.-W weight de
 and Four P-framework action resolution logs across all 6 turns.
 """
 
-def make_box(title, rows, width=71):
-    top = "+" + "=" * (width - 2) + "+"
-    bottom = "+" + "=" * (width - 2) + "+"
-    sep = "+" + "-" * (width - 2) + "+"
-    
-    out = [top]
-    if title:
-        title_str = f" {title} "
-        out.append(f"|{title_str.center(width - 2)}|")
-        out.append(sep)
-    
-    for r in rows:
-        if r == "---":
-            out.append(sep)
-        elif r.startswith("==="):
-            out.append(top)
-        else:
-            text = r[:width - 4]
-            out.append(f"| {text.ljust(width - 4)} |")
-    out.append(bottom)
-    return "\n".join(out)
+import sys, os
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
 
 def get_op3_engagement():
     dossier_box = make_box("TARGET DOSSIER: WARLORD BOKNAM & SE-C-IIIγ-120 'RAGE CAGE'", [
@@ -186,29 +168,29 @@ def get_op3_engagement():
 
 ###### Turn 01 Action Resolution Log (Kinetic Ingress & Hook Deflection)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Commander Taeho initializes `[Law of the Mantle]`: All allies within 1 node gain $+3$ Protection and physical stagger immunity.
-  * Infiltrator Echo activates `[Shadow Cloak]`: Enters stealth for 2 turns; cannot be targeted by single-target attacks; $+50\%$ Critical Strike Chance.
+  * Commander Taeho initializes `[Law of the Mantle]`: All allies within 1 node gain +3 Protection and physical stagger immunity.
+  * Infiltrator Echo activates `[Shadow Cloak]`: Enters stealth for 2 turns; cannot be targeted by single-target attacks; +50\% Critical Strike Chance.
   * Handler Soojin initializes `[Sedative Aerosol Ward]`, suppressing crimson rage fumes leaking from SE-C-IIIγ-120.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Commander Taeho (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta $-1$, Poise $+25$): Holds Node 02. Spends 2 AP on `[Phalanx Bastion: Granite Wall]`.
-  * Engineer Joon (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 03. Spends 2 AP on `[Deployable Mantlet Barrier]`. Holds 1 AP in Reserve.
-  * Auditor Yuna (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 06 (Range Band 3). Spends 2 AP on `[Cipher-Scan: Hydraulic Frequency]`, 2 AP on `[Asset Scan]`.
-  * Investigator Minho (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Stands at Node 07. Spends 2 AP on `[Neural Lancet: Calibrated Dart]`. Holds 2 AP in Reserve.
-  * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$): Holds Node 04. Spends 2 AP on maintaining the sedative ward. Holds 1 AP in Guard.
-  * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta $+2$): Scales rusted chain hoists toward Node 10 from stealth. Spends 2 AP on positioning.
+  * Commander Taeho (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02. Spends 2 AP on `[Phalanx Bastion: Granite Wall]`.
+  * Engineer Joon (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 03. Spends 2 AP on `[Deployable Mantlet Barrier]`. Holds 1 AP in Reserve.
+  * Auditor Yuna (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06 (Range Band 3). Spends 2 AP on `[Cipher-Scan: Hydraulic Frequency]`, 2 AP on `[Asset Scan]`.
+  * Investigator Minho (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Stands at Node 07. Spends 2 AP on `[Neural Lancet: Calibrated Dart]`. Holds 2 AP in Reserve.
+  * Handler Soojin (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0): Holds Node 04. Spends 2 AP on maintaining the sedative ward. Holds 1 AP in Guard.
+  * Infiltrator Echo (Speed 9 -> 5 AP, M.A.W.-W Feather delta +2): Scales rusted chain hoists toward Node 10 from stealth. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: Warlord Boknam unleashes `[Pneumatic Hook Cleave]` (Base 14 + 2 Coins = 26 Power, Heavy Slash) against Node 02.
     * Commander Taeho counters with `[Phalanx Bastion: Granite Wall]` (Base 16 + 2 Coins = 30 Power, Kinetic Shield).
     * **Clash Outcome**: Taeho WINS THE CLASH (30 vs 26)!
     * The kinetic shield completely deflects the massive barbed steel hook (`[P3: Parry/Protection]`).
-    * Taeho reflects **160 kinetic tremor damage** back into Boknam's steam winch rig! Inflicts $+28$ Posture Strain.
+    * Taeho reflects **160 kinetic tremor damage** back into Boknam's steam winch rig! Inflicts +28 Posture Strain.
   * **Clash 2 (Node 03 to 05)**: Siphon Enforcers charge with `[Rotary Bone-Saw Rush]` (Atk Power 20, Slash).
     * Engineer Joon's `[Deployable Mantlet Barrier]` (Def Power 24, Kinetic Shield).
     * **Clash Outcome**: Joon WINS THE CLASH (24 vs 20).
     * Saws spark harmlessly off the titanium plate; zero damage taken.
   * **Unopposed Ranged Fire**:
     * Auditor Yuna's `[Cipher-Scan]` identifies the high-pressure steam winch pressure release valve.
-    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into Boknam's armored shoulder, dealing **240 Pierce damage** and $+24$ Posture Strain!
+    * Investigator Minho fires `[Neural Lancet: Calibrated Dart]` from Node 07 into Boknam's armored shoulder, dealing **240 Pierce damage** and +24 Posture Strain!
     * Handler Soojin's sedative ward neutralizes ambient rage fumes around the squad.
 - **Step 4: Turn End State**:
   * Boknam Winch Rig HP: 2,200 -> **1,800/2,200** (Combined Encounter HP: **6,400/6,800**).
@@ -236,14 +218,14 @@ def get_op3_engagement():
     * Engineer Joon executes `[Hydraulic Kinetic Ram]` (Base 16 + 2 Coins = 28 Power, Heavy Blunt).
     * **Clash Outcome**: Joon WINS THE CLASH (28 vs 24)!
     * The hydraulic ram smashes straight into the secondary cable pulley drum!
-    * Deals **520 Blunt damage** directly to Boknam's Steam Winch Rig and inflicts $+52$ Posture Strain!
+    * Deals **520 Blunt damage** directly to Boknam's Steam Winch Rig and inflicts +52 Posture Strain!
   * **Clash 2 (Node 06 to 10)**: SE-C-IIIγ-120 'Rage Cage' pulses `[Crimson Resentment Pulse]` (Power 22, Grudge).
     * Auditor Yuna unleashes `[Cipher-Pulse: Damping Wall]` (Def Power 26, EMP).
     * **Clash Outcome**: Yuna WINS THE CLASH (26 vs 22).
-    * The EMP pulse dampens the entity's rage cycle, dealing **250 Resonance damage** to SE-C-IIIγ-120 and $+26$ Posture Strain!
+    * The EMP pulse dampens the entity's rage cycle, dealing **250 Resonance damage** to SE-C-IIIγ-120 and +26 Posture Strain!
   * **Follow-Up Maneuvers**:
     * Taeho's `[Shield Bash]` deals **280 Blunt damage** to the winch chassis.
-    * Minho's cognitive salve restores $+15$ SP across the strike cadre.
+    * Minho's cognitive salve restores +15 SP across the strike cadre.
     * Infiltrator Echo severs overhead steam bypass conduits, releasing 200 PSI of blinding scalding steam away from the hostages!
 - **Step 4: Turn End State**:
   * Boknam Winch Rig HP: 1,800 -> **1,480/2,200** | Posture: **172/240 [PULLEY BROKEN]**.
@@ -308,7 +290,7 @@ def get_op3_engagement():
     * Handler Soojin deploys `[Leaded Barrier Ward]` (Base 25 + 2 Coins = 35 Power, Vacuum Barrier).
     * **Clash Outcome**: Soojin WINS THE CLASH (35 vs 32)!
     * The lead-lined vacuum sphere fully absorbs the scalding blood-steam (`[P3: Parry/Protection]`).
-    * Zero thermal particles penetrate the leaded ward. Soojin redirects the trapped resonance back into the cage, dealing **480 Void damage** and $+70$ Posture Strain!
+    * Zero thermal particles penetrate the leaded ward. Soojin redirects the trapped resonance back into the cage, dealing **480 Void damage** and +70 Posture Strain!
 - **Step 4: Turn End State**:
   * Boknam Winch Rig HP: **380/2,200** | Posture: **60/240**.
   * SE-C-IIIγ-120 Rage Cage HP: 2,750 -> **2,270/3,000** | Posture: **124/220**.

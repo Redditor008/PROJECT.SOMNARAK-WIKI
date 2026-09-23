@@ -252,19 +252,24 @@ A deafening acoustic wail shook the cavern walls.
 |       APEX BOSS DOSSIER: SECC-056 'ARBOR OF PRIMORDIAL REGRET'      |
 +---------------------------------------------------------------------+
 | APEX TARGET        : SECC-056 'The Arbor of Primordial Regret'      |
-| CLASSIFICATION     : Major-γ (Grade-γ Potency) | Ancient Memory-Arb |
-| ENCOUNTER DOMAIN   : Strata 4 Sunken Arbor Cathedral (-1,500m Depth |
+| CLASSIFICATION     : Major-γ (Grade-γ Potency)                      |
+|   | Ancient Memory-Arbor Apex                                       |
+| ENCOUNTER DOMAIN : Strata 4 Sunken Arbor Cathedral (-1,500m Depth)  |
 +---------------------------------------------------------------------+
 | BOSS COMBAT PROFILE (SECC-056):                                     |
 | - Total Health (HP): 3,600 HP | Posture Pool: 300/300               |
-| - Stagger 1 Proc   : 60% Posture Strain (180 Posture) / Tendril Bre |
+| - Stagger 1 Proc : 60% Posture Strain (180 Posture) / Tendril Break |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Slumber)         |
-| - Resistances      : Grudge 2.0x (Fatal), Void 1.5x, Weight 1.0x, L |
+| - Resistances : Grudge 2.0x (Fatal), Void 1.5x, Weight 1.0x, Lament |
+|   0.5x                                                              |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
-| 1. Canopy Tendrils : 950 HP | Posture 240/240 (Sweeping strikes & a |
-| 2. Heartwood Bark  : 1,200 HP | Posture 260/260 (Petrified high-def |
-| 3. Salt Idol Core  : 1,450 HP | Posture 300/300 (Central acoustic s |
+| 1. Canopy Tendrils : 950 HP                                         |
+|   | Posture 240/240 (Sweeping strikes & amnesia)                    |
+| 2. Heartwood Bark  : 1,200 HP                                       |
+|   | Posture 260/260 (Petrified high-defense shell)                  |
+| 3. Salt Idol Core  : 1,450 HP                                       |
+|   | Posture 300/300 (Central acoustic singer)                       |
 +=====================================================================+
 ```
 
@@ -275,28 +280,42 @@ A deafening acoustic wail shook the cavern walls.
 |           TACTICAL STAGE HUD: PASSAGE 04 — BATTLE TURN 01           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — STRATA 4 ARBOR CATHEDRAL (-1,500M)]         |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]   [HARIN]  [DOHA]  [SORA]  [BOSS]   [YEON]  [SILENT][MINJAE]  |
-|                                  [ROOTS]                            |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]   [HARIN]  [DOHA]  [SORA]                                     |
+| [BOSS]   [YEON]  [SILENT][MINJAE]        [JISOO]                    |
+| [ROOTS]                                                             |
 +---------------------------------------------------------------------+
 | - Node 01: Monorail Terminus Staging / Armored Rig 'The Iron Mole'  |
-| - Node 02: Harin (Vanguard Band 1 / Bastion of the Low Tower Shield |
+| - Node 02: Harin (Vanguard Band 1 / Bastion of the Low Tower        |
+|   Shield)                                                           |
 | - Node 03: Doha (Point-Blank Band 1 / Calcified Pneumatic Fracture  |
-| - Node 04: Sora (Lead Resonator Band 2 / Silver Cowl Mnemonic Repos |
+|   Ram)                                                              |
+| - Node 04: Sora (Lead Resonator Band 2 / Silver Cowl Mnemonic       |
+|   Repose)                                                           |
 | - Node 05: SECC-056 Memory Arbor (Canopy Root Tendrils & Heartwood  |
+|   Bark)                                                             |
 | - Node 06: Yeonhwa (Mid-Field Band 3 / Sonar Spore Lock Theodolite) |
-| - Node 07: The Silent One (High Coral Branches / Severed Relic Clea |
+| - Node 07: The Silent One (High Coral Branches / Severed Relic      |
+|   Cleaver)                                                          |
 | - Node 08: Minjae (Rear Band 4 / Memory Archive Slate)              |
 | - Node 10: Jisoo (Rear Band 5 / Cryo Harpoon Logistics Berth)       |
 +---------------------------------------------------------------------+
-| - Harin       : Spd 4 -> 2 AP | HP 4,200/4,200 | SP 46/50 | Posture |
-| - Silent One  : Spd 7 -> 4 AP | HP 3,100/3,100 | SP 42/40 | Posture |
-| - Doha        : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 40/40 | Posture |
-| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50 | Posture |
-| - Yeonhwa     : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 45/45 | Posture |
-| - Boss Core   : Spd 4 -> 2 AP | HP 1,450/1,450 | Posture 300/300 [S |
-| - Canopy Roots: Spd 5 -> 3 AP | HP 950/950     | Posture 240/240 [S |
-| - Heartwood   : Spd 3 -> 1 AP | HP 1,200/1,200 | Posture 260/260 [P |
+| - Harin       : Spd 4 -> 2 AP | HP 4,200/4,200 | SP 46/50           |
+|   | Posture 180/180                                                 |
+| - Silent One  : Spd 7 -> 4 AP | HP 3,100/3,100 | SP 42/40           |
+|   | Posture 120/120                                                 |
+| - Doha        : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 40/40           |
+|   | Posture 150/150                                                 |
+| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50           |
+|   | Posture 100/100                                                 |
+| - Yeonhwa     : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 45/45           |
+|   | Posture 100/100                                                 |
+| - Boss Core   : Spd 4 -> 2 AP | HP 1,450/1,450                      |
+|   | Posture 300/300 [SINGING]                                       |
+| - Canopy Roots: Spd 5 -> 3 AP | HP 950/950                          |
+|   | Posture 240/240 [SPORES]                                        |
+| - Heartwood   : Spd 3 -> 1 AP | HP 1,200/1,200                      |
+|   | Posture 260/260 [PETRIFIED]                                     |
 +=====================================================================+
 ```
 
@@ -331,21 +350,27 @@ A deafening acoustic wail shook the cavern walls.
 |           TACTICAL STAGE HUD: PASSAGE 04 — BATTLE TURN 02           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — CANOPY TENDRILS SEVERED & VOID CUT]         |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]            [HARIN] [DOHA]  [BOSS]   [SORA]  [YEON]  [MINJAE][ |
-|                                  [SEVER]                            |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]            [HARIN] [DOHA]  [BOSS]                             |
+| [SORA]  [YEON]  [MINJAE][JISOO] [SILENT]                            |
+| [SEVER]                                                             |
 +---------------------------------------------------------------------+
 | - Node 03: Harin (Vow of the Low Bulwark Deflecting Whiplash Root)  |
 | - Node 04: Doha (Pneumatic Core Sapper Driving Tungsten Drill)      |
 | - Node 05: SECC-056 Memory Arbor (Canopy Tendrils Severed 0/950 HP) |
-| - Node 06: Sora (Silver Cowl Dissipating Residual Mnemonic Hallucin |
+| - Node 06: Sora (Silver Cowl Dissipating Residual Mnemonic          |
+|   Hallucinations)                                                   |
 | - Node 07: Yeonhwa (Sonar Fault Lock on Heartwood Growth Rings)     |
 | - Node 10: The Silent One (Burden Cleaver Void Amputation Cleaving  |
+|   Limb)                                                             |
 +---------------------------------------------------------------------+
-| - Silent One  : Spd 9 -> 5 AP [SURGE] | HP 3,100/3,100 | SP 46/50 | |
-| - Doha        : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 44/40 | |
+| - Silent One  : Spd 9 -> 5 AP [SURGE] | HP 3,100/3,100 | SP 46/50   |
+|   | Posture 120/120                                                 |
+| - Doha        : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 44/40   |
+|   | Posture 150/150                                                 |
 | - Boss Core   : Spd 4 -> 2 AP | HP 1,450/1,450 | Posture 228/300    |
-| - Canopy Roots: DESTROYED (0/950 HP) | WHIPLASH ROOT ATTACK PERMANE |
+| - Canopy Roots: DESTROYED (0/950 HP)                                |
+|   | WHIPLASH ROOT ATTACK PERMANENTLY LOST                           |
 | - Heartwood   : Spd 3 -> 1 AP | HP 880/1,200   | Posture 194/260    |
 +=====================================================================+
 ```
@@ -384,20 +409,27 @@ A deafening acoustic wail shook the cavern walls.
 |           TACTICAL STAGE HUD: PASSAGE 04 — BATTLE TURN 03           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & HEARTWOOD SPLIT]      |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]            [HARIN] [DOHA]  [BOSS]   [SORA]  [YEON]  [SILENT]  |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]            [HARIN] [DOHA]  [BOSS]                             |
+| [SORA]  [YEON]  [SILENT]        [JISOO]                             |
 +---------------------------------------------------------------------+
 | - Node 03: Harin (Bracing Front Ranks Against Bark Splinters)       |
 | - Node 04: Doha (Tungsten Fracture Wedge Splitting Growth Rings)    |
-| - Node 05: SECC-056 (STAGGER LEVEL 1 / DEFENSES COLLAPSED / IMMOBIL |
-| - Node 06: Sora (Tuning of the Deep Inflicting +4 Mnemonic Vulnerab |
+| - Node 05: SECC-056 (STAGGER LEVEL 1 / DEFENSES COLLAPSED /         |
+|   IMMOBILIZED)                                                      |
+| - Node 06: Sora (Tuning of the Deep Inflicting +4 Mnemonic          |
+|   Vulnerable)                                                       |
 | - Node 07: Yeonhwa (Directing Optical Theodolite Beam on Core)      |
 | - Node 08: The Silent One (Preparing Core Severance Stance)         |
 +---------------------------------------------------------------------+
-| - Harin       : Spd 6 -> 3 AP [SURGE] | HP 4,200/4,200 | SP 48/50 | |
-| - Boss Core   : Spd 0 -> 0 AP | HP 1,350/1,450 | Posture 110/300 [S |
-| - Heartwood   : Spd 0 -> 0 AP | HP 470/1,200   | Posture 86/260 [SP |
-| - Total Boss  : HP 2,340/3,600 [THRESHOLD BREACHED / TAKES 1.5X DAM |
+| - Harin       : Spd 6 -> 3 AP [SURGE] | HP 4,200/4,200 | SP 48/50   |
+|   | Posture 180/180                                                 |
+| - Boss Core   : Spd 0 -> 0 AP | HP 1,350/1,450                      |
+|   | Posture 110/300 [STAGGER LEVEL 1]                               |
+| - Heartwood   : Spd 0 -> 0 AP | HP 470/1,200                        |
+|   | Posture 86/260 [SPLIT OPEN]                                     |
+| - Total Boss : HP 2,340/3,600 [THRESHOLD BREACHED / TAKES 1.5X      |
+|   DAMAGE]                                                           |
 +=====================================================================+
 ```
 
@@ -432,8 +464,9 @@ A deafening acoustic wail shook the cavern walls.
 |           TACTICAL STAGE HUD: PASSAGE 04 — BATTLE TURN 04           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]     |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                    [HARIN] [BOSS]   [DOHA]  [SILENT][YEON]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                    [HARIN] [BOSS]   [DOHA]                    |
+| [SILENT][YEON]  [SORA]  [JISOO]                                     |
 +---------------------------------------------------------------------+
 | - Node 04: Harin (Bulwark Kinetic Pummel Crushing Root Knees)       |
 | - Node 05: SECC-056 Memory Arbor (Salt Idol Exposed & Trembling)    |
@@ -442,10 +475,12 @@ A deafening acoustic wail shook the cavern walls.
 | - Node 08: Yeonhwa & Sora (Theodolite Laser & Mnemonic Resonance)   |
 | - Node 10: Jisoo (Cryo Harpoon Securing Collapsing Canopy Boughs)   |
 +---------------------------------------------------------------------+
-| - Silent One  : Spd 10 -> 5 AP [BURST CRIT] | HP 3,100/3,100 | SP 5 |
+| - Silent One  : Spd 10 -> 5 AP [BURST CRIT] | HP 3,100/3,100        |
+|   | SP 50/50                                                        |
 | - Boss Core   : Spd 0 -> 0 AP | HP 420/1,450   | Posture 46/300     |
 | - Heartwood   : DESTROYED (0/1,200 HP)                              |
-| - Total Boss  : HP 1,030/3,600 [BURST DAMAGE 1,310! SECOND THRESHOL |
+| - Total Boss : HP 1,030/3,600 [BURST DAMAGE 1,310! SECOND THRESHOLD |
+|   SKIPPED]                                                          |
 +=====================================================================+
 ```
 
@@ -479,8 +514,9 @@ A deafening acoustic wail shook the cavern walls.
 |           TACTICAL STAGE HUD: PASSAGE 04 — BATTLE TURN 05           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — THE MEMORY FLOOD & REQUIEM OF SLUMBER]      |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                    [HARIN] [BOSS]   [DOHA]  [SILENT][YEON]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                    [HARIN] [BOSS]   [DOHA]                    |
+| [SILENT][YEON]  [SORA]  [JISOO]                                     |
 +---------------------------------------------------------------------+
 | - Node 04: Harin (Locking Ground Anchors Against Psychic Deluge)    |
 | - Node 05: SECC-056 (Tide of Unremembered Tears / Memory Phantoms)  |
@@ -488,9 +524,11 @@ A deafening acoustic wail shook the cavern walls.
 | - Node 07: The Silent One (Charging Burden Cleaver Void Overdrive)  |
 | - Node 09: Sora (Relic Overdrive: REQUIEM OF THE LIVING SLUMBER)    |
 +---------------------------------------------------------------------+
-| - Sora        : Spd 8 -> 4 AP [OVERDRIVE] | HP 2,600/2,600 | SP 50/ |
-| - Boss Core   : Spd 4 -> 2 AP | HP 420/1,450   | Posture 24/300 [TE |
-| - Total Boss  : HP 420/3,600 [PSYCHIC BACKLASH COLLAPSED / WEAKENED |
+| - Sora        : Spd 8 -> 4 AP [OVERDRIVE] | HP 2,600/2,600          |
+|   | SP 50/50 [BELL CHIME]                                           |
+| - Boss Core   : Spd 4 -> 2 AP | HP 420/1,450                        |
+|   | Posture 24/300 [TEARS PARTED]                                   |
+| - Total Boss : HP 420/3,600 [PSYCHIC BACKLASH COLLAPSED / WEAKENED] |
 +=====================================================================+
 ```
 
@@ -524,15 +562,19 @@ A deafening acoustic wail shook the cavern walls.
 |           TACTICAL STAGE HUD: PASSAGE 04 — BATTLE TURN 06           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — FINAL REST & ROOT-KEY OF FIRST SLUMBER]     |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                            [SORA]   [SILENT][HARIN] [DOHA]  [ |
-|                                  [REST]                           [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                            [SORA]   [SILENT]                  |
+| [HARIN] [DOHA]  [YEON]  [SLUICE]                                    |
+| [REST]                           [MINJAE][JISOO]                    |
 +---------------------------------------------------------------------+
-| - Node 05: SECC-056 Memory Arbor (PACIFIED & PETALS DISSOLVING TO L |
-| - Node 06: The Silent One (Parts Primordial Salt Idol with Relic Cl |
+| - Node 05: SECC-056 Memory Arbor (PACIFIED & PETALS DISSOLVING TO   |
+|   LIGHT)                                                            |
+| - Node 06: The Silent One (Parts Primordial Salt Idol with Relic    |
+|   Cleaver)                                                          |
 | - Node 07: Sora (Extracts 'The Root-Key of the First Slumber')      |
 | - Node 08: Harin & Doha (Securing Unsealed Water Sluice Floodgates) |
 | - Node 10: Spiral Bedrock Staircase (Pathway to Strata 5 Limesteum  |
+|   OPEN)                                                             |
 +---------------------------------------------------------------------+
 | - Vanguard Squad: Zero Fatalities | Composure 50/50 SP (Tranquil)   |
 | - Encounter Status: 100% PACIFIED | Pathway to Limesteum OPEN       |

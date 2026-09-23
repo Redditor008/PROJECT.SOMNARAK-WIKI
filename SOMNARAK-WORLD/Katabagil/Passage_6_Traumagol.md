@@ -269,19 +269,24 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 |            APEX BOSS DOSSIER: SECC-1004 'THE SCAR WALKER'           |
 +---------------------------------------------------------------------+
 | APEX TARGET        : SECC-1004 'The Scar Walker'                    |
-| CLASSIFICATION     : Critical-δ (Grade-δ Potency) | Sovereign of Oc |
+| CLASSIFICATION     : Critical-δ (Grade-δ Potency)                   |
+|   | Sovereign of Occlusihan                                         |
 | ENCOUNTER DOMAIN   : Strata 6 Occlusihan Wound (-2,800m Depth)      |
 +---------------------------------------------------------------------+
 | BOSS COMBAT PROFILE (SECC-1004):                                    |
 | - Total Health (HP): 4,800 HP | Posture Pool: 340/340               |
-| - Stagger 1 Proc   : 60% Posture Strain (204 Posture) / Glaive Brea |
+| - Stagger 1 Proc : 60% Posture Strain (204 Posture) / Glaive Break  |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Pacification)    |
-| - Resistances      : Void 2.0x (Fatal), Lament 1.0x, Grudge 0.5x, W |
+| - Resistances : Void 2.0x (Fatal), Lament 1.0x, Grudge 0.5x, Weight |
+|   0.5x                                                              |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
-| 1. Fury Glaive     : 1,150 HP | Posture 280/280 (Sweeping crimson p |
-| 2. Occlusihan Plate: 1,450 HP | Posture 300/300 (Heavy grave-marker |
-| 3. Wound Heart Core: 2,200 HP | Posture 340/340 (Central soul-latti |
+| 1. Fury Glaive     : 1,150 HP                                       |
+|   | Posture 280/280 (Sweeping crimson polearm)                      |
+| 2. Occlusihan Plate: 1,450 HP                                       |
+|   | Posture 300/300 (Heavy grave-marker armor)                      |
+| 3. Wound Heart Core: 2,200 HP                                       |
+|   | Posture 340/340 (Central soul-lattice heart)                    |
 +=====================================================================+
 ```
 
@@ -292,29 +297,43 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 |           TACTICAL STAGE HUD: PASSAGE 06 — BATTLE TURN 01           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — STRATA 6 OCCLUSIHAN WOUND (-2,800M)]        |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]   [HARIN]  [DOHA]  [SORA]  [BOSS]   [YEON]  [SILENT][JISOO]   |
-|                                  [GLAIVE]                           |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]   [HARIN]  [DOHA]  [SORA]                                     |
+| [BOSS]   [YEON]  [SILENT][JISOO]         [MINJAE]                   |
+| [GLAIVE]                                                            |
 +---------------------------------------------------------------------+
 | - Node 01: Vertical Shaft Platform / Armored Rig 'The Iron Mole'    |
-| - Node 02: Harin (Vanguard Band 1 / Bastion of the Low Tower Shield |
+| - Node 02: Harin (Vanguard Band 1 / Bastion of the Low Tower        |
+|   Shield)                                                           |
 | - Node 03: Doha (Point-Blank Band 1 / Calcified Pneumatic Fracture  |
+|   Ram)                                                              |
 | - Node 04: Sora (Mid-Field Band 2 / Silver Cowl Mnemonic Repose)    |
 | - Node 05: SECC-1004 Scar Walker (Solidified Fury Glaive & Cuirass) |
 | - Node 06: Yeonhwa (Mid-Field Band 3 / Sonar Acoustic Theodolite)   |
-| - Node 07: The Silent One (Overhead Ribcage Catwalks / Relic Cleave |
-| - Node 08: Jisoo (Forensic Record Band 4 / Hydraulic Ballast Ledger |
+| - Node 07: The Silent One (Overhead Ribcage Catwalks / Relic        |
+|   Cleaver)                                                          |
+| - Node 08: Jisoo (Forensic Record Band 4 / Hydraulic Ballast        |
+|   Ledger)                                                           |
 | - Node 10: Minjae (Rear Band 5 / Historical Archival Slate)         |
 +---------------------------------------------------------------------+
-| - Harin       : Spd 4 -> 2 AP | HP 4,200/4,200 | SP 46/50 | Posture |
-| - Silent One  : Spd 7 -> 4 AP | HP 3,100/3,100 | SP 42/40 | Posture |
-| - Doha        : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 40/40 | Posture |
-| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50 | Posture |
-| - Yeonhwa     : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 45/45 | Posture |
-| - Jisoo       : Spd 7 -> 4 AP | HP 2,750/2,750 | SP 50/50 | Posture |
-| - Boss Core   : Spd 4 -> 2 AP | HP 2,200/2,200 | Posture 340/340 [H |
-| - Fury Glaive : Spd 5 -> 3 AP | HP 1,150/1,150 | Posture 280/280 [C |
-| - Cuirass Plate: Spd 3 -> 1 AP | HP 1,450/1,450 | Posture 300/300 [ |
+| - Harin       : Spd 4 -> 2 AP | HP 4,200/4,200 | SP 46/50           |
+|   | Posture 180/180                                                 |
+| - Silent One  : Spd 7 -> 4 AP | HP 3,100/3,100 | SP 42/40           |
+|   | Posture 120/120                                                 |
+| - Doha        : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 40/40           |
+|   | Posture 150/150                                                 |
+| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50           |
+|   | Posture 100/100                                                 |
+| - Yeonhwa     : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 45/45           |
+|   | Posture 100/100                                                 |
+| - Jisoo       : Spd 7 -> 4 AP | HP 2,750/2,750 | SP 50/50           |
+|   | Posture 110/110                                                 |
+| - Boss Core   : Spd 4 -> 2 AP | HP 2,200/2,200                      |
+|   | Posture 340/340 [HOWLING]                                       |
+| - Fury Glaive : Spd 5 -> 3 AP | HP 1,150/1,150                      |
+|   | Posture 280/280 [CRIMSON]                                       |
+| - Cuirass Plate: Spd 3 -> 1 AP | HP 1,450/1,450                     |
+|   | Posture 300/300 [OBSIDIAN]                                      |
 +=====================================================================+
 ```
 
@@ -350,9 +369,10 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 |           TACTICAL STAGE HUD: PASSAGE 06 — BATTLE TURN 02           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — FURY GLAIVE SHATTERED & VOID CUT]           |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]            [HARIN] [DOHA]  [BOSS]   [SORA]  [YEON]  [JISOO] [ |
-|                                  [SHARDS]                           |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]            [HARIN] [DOHA]  [BOSS]                             |
+| [SORA]  [YEON]  [JISOO] [MINJAE][SILENT]                            |
+| [SHARDS]                                                            |
 +---------------------------------------------------------------------+
 | - Node 03: Harin (Anchored / Deflecting Phantom Shrapnel Storm)     |
 | - Node 04: Doha (Pneumatic Fracture Ram Cracking Obsidian Seams)    |
@@ -361,10 +381,13 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 | - Node 07: Yeonhwa (Sonar Fault Lock on Grave-Marker Cuirass)       |
 | - Node 10: The Silent One (Severing Crescent Cleaving Glaive Shaft) |
 +---------------------------------------------------------------------+
-| - Silent One  : Spd 9 -> 5 AP [SURGE] | HP 3,100/3,100 | SP 46/50 | |
-| - Doha        : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 44/40 | |
+| - Silent One  : Spd 9 -> 5 AP [SURGE] | HP 3,100/3,100 | SP 46/50   |
+|   | Posture 120/120                                                 |
+| - Doha        : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 44/40   |
+|   | Posture 150/150                                                 |
 | - Boss Core   : Spd 4 -> 2 AP | HP 2,200/2,200 | Posture 264/340    |
-| - Fury Glaive : DESTROYED (0/1,150 HP) | SWEEPING CLEAVE PERMANENTL |
+| - Fury Glaive : DESTROYED (0/1,150 HP)                              |
+|   | SWEEPING CLEAVE PERMANENTLY LOST                                |
 | - Cuirass Plate: Spd 3 -> 1 AP | HP 1,110/1,450 | Posture 232/300   |
 +=====================================================================+
 ```
@@ -401,20 +424,26 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 |           TACTICAL STAGE HUD: PASSAGE 06 — BATTLE TURN 03           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & CUIRASS FRACTURE]     |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]            [HARIN] [DOHA]  [BOSS]   [SORA]  [YEON]  [SILENT]  |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]            [HARIN] [DOHA]  [BOSS]                             |
+| [SORA]  [YEON]  [SILENT]        [JISOO]                             |
 +---------------------------------------------------------------------+
 | - Node 03: Harin (Piston Shield Wall Bracing Against Shrapnel)      |
 | - Node 04: Doha (Sapper Counter-Lever Popping Heavy Cuirass Plate)  |
-| - Node 05: SECC-1004 (STAGGER LEVEL 1 / DEFENSES COLLAPSED / IMMOBI |
+| - Node 05: SECC-1004 (STAGGER LEVEL 1 / DEFENSES COLLAPSED /        |
+|   IMMOBILIZED)                                                      |
 | - Node 06: Sora (Chime of Quelled Grief Weakening Phantoms)         |
 | - Node 07: Minjae (Keeper Inscription Weakening Soul Lattice)       |
 | - Node 08: The Silent One (Preparing Void Core Thrust)              |
 +---------------------------------------------------------------------+
-| - Harin       : Spd 6 -> 3 AP [SURGE] | HP 4,200/4,200 | SP 48/50 | |
-| - Boss Core   : Spd 0 -> 0 AP | HP 2,050/2,200 | Posture 130/340 [S |
-| - Cuirass Plate: Spd 0 -> 0 AP | HP 650/1,450   | Posture 102/300 [ |
-| - Total Boss  : HP 3,100/4,800 [THRESHOLD BREACHED / TAKES 1.5X DAM |
+| - Harin       : Spd 6 -> 3 AP [SURGE] | HP 4,200/4,200 | SP 48/50   |
+|   | Posture 180/180                                                 |
+| - Boss Core   : Spd 0 -> 0 AP | HP 2,050/2,200                      |
+|   | Posture 130/340 [STAGGER LEVEL 1]                               |
+| - Cuirass Plate: Spd 0 -> 0 AP | HP 650/1,450                       |
+|   | Posture 102/300 [FRACTURED]                                     |
+| - Total Boss : HP 3,100/4,800 [THRESHOLD BREACHED / TAKES 1.5X      |
+|   DAMAGE]                                                           |
 +=====================================================================+
 ```
 
@@ -449,8 +478,9 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 |           TACTICAL STAGE HUD: PASSAGE 06 — BATTLE TURN 04           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]     |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                    [HARIN] [BOSS]   [DOHA]  [SILENT][YEON]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                    [HARIN] [BOSS]   [DOHA]                    |
+| [SILENT][YEON]  [SORA]  [JISOO]                                     |
 +---------------------------------------------------------------------+
 | - Node 04: Harin (Bulwark Kinetic Pummel Crushing Leg Joints)       |
 | - Node 05: SECC-1004 Scar Walker (Staggered / Living Wound Exposed) |
@@ -459,10 +489,12 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 | - Node 08: Yeonhwa & Sora (Theodolite Laser & Harmonic Repose)      |
 | - Node 10: Jisoo (Cryo Harpoon Anchoring Cooling Obsidian Ribs)     |
 +---------------------------------------------------------------------+
-| - Silent One  : Spd 10 -> 5 AP [BURST CRIT] | HP 3,100/3,100 | SP 5 |
+| - Silent One  : Spd 10 -> 5 AP [BURST CRIT] | HP 3,100/3,100        |
+|   | SP 50/50                                                        |
 | - Boss Core   : Spd 0 -> 0 AP | HP 870/2,200   | Posture 58/340     |
 | - Cuirass Plate: DESTROYED (0/1,450 HP)                             |
-| - Total Boss  : HP 1,520/4,800 [BURST DAMAGE 1,580! SECOND THRESHOL |
+| - Total Boss : HP 1,520/4,800 [BURST DAMAGE 1,580! SECOND THRESHOLD |
+|   SKIPPED]                                                          |
 +=====================================================================+
 ```
 
@@ -496,19 +528,25 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 |           TACTICAL STAGE HUD: PASSAGE 06 — BATTLE TURN 05           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — OCCLUSIHAN RESENTMENT & ABSOLUTE AUDIT]     |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                    [HARIN] [BOSS]   [JISOO] [SILENT][YEON]  [ |
-|                                                   [DOHA]            |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                    [HARIN] [BOSS]   [JISOO]                   |
+| [SILENT][YEON]  [SORA]  [MINJAE]                                    |
+| [DOHA]                                                              |
 +---------------------------------------------------------------------+
 | - Node 04: Harin (Shielding Squad From 400-Year War Agony Wave)     |
-| - Node 05: SECC-1004 (Cataclysmic Occlusihan Resentment / Six Armie |
+| - Node 05: SECC-1004 (Cataclysmic Occlusihan Resentment / Six       |
+|   Armies)                                                           |
 | - Node 06: Jisoo (Relic Overdrive: ABSOLUTE ACKNOWLEDGMENT OF DEBT) |
-| - Node 07: The Silent One & Doha (Readying Void Cleave on Wound Cre |
+| - Node 07: The Silent One & Doha (Readying Void Cleave on Wound     |
+|   Crest)                                                            |
 | - Node 09: Sora (Chime of Quelled Grief Calming Phantoms)           |
 +---------------------------------------------------------------------+
-| - Jisoo       : Spd 8 -> 4 AP [OVERDRIVE] | HP 2,750/2,750 | SP 50/ |
-| - Boss Core   : Spd 4 -> 2 AP | HP 870/2,200   | Posture 28/340 [AC |
-| - Total Boss  : HP 870/4,800 [WAR CATACLYSM DISSIPATING INTO SILENC |
+| - Jisoo       : Spd 8 -> 4 AP [OVERDRIVE] | HP 2,750/2,750          |
+|   | SP 50/50 [LEDGER]                                               |
+| - Boss Core   : Spd 4 -> 2 AP | HP 870/2,200                        |
+|   | Posture 28/340 [ACKNOWLEDGED]                                   |
+| - Total Boss : HP 870/4,800 [WAR CATACLYSM DISSIPATING INTO         |
+|   SILENCE]                                                          |
 +=====================================================================+
 ```
 
@@ -541,16 +579,22 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 +=====================================================================+
 |           TACTICAL STAGE HUD: PASSAGE 06 — BATTLE TURN 06           |
 +---------------------------------------------------------------------+
+|                                                                     |
 | [STAGE NODES 01 TO 10 — PACIFYING THE RIFT & OCCLUSIHAN WOUND-CREST |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                            [JISOO]  [SILENT][HARIN] [DOHA]  [ |
-|                                  [REST]                           [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                            [JISOO]  [SILENT]                  |
+| [HARIN] [DOHA]  [SORA]  [OCEAN]                                     |
+| [REST]                           [YEON]  [MINJAE]                   |
 +---------------------------------------------------------------------+
-| - Node 05: SECC-1004 Scar Walker (PACIFIED & KNEELING IN TWILIGHT C |
-| - Node 06: Jisoo (Receives 'The Occlusihan Wound-Crest' in Reverenc |
-| - Node 07: The Silent One (Delivers Final Peaceful Touch of The Bur |
+| - Node 05: SECC-1004 Scar Walker (PACIFIED & KNEELING IN TWILIGHT   |
+|   CALM)                                                             |
+| - Node 06: Jisoo (Receives 'The Occlusihan Wound-Crest' in          |
+|   Reverence)                                                        |
+| - Node 07: The Silent One (Delivers Final Peaceful Touch of The     |
+|   Burden)                                                           |
 | - Node 08: Harin & Doha (Securing Cyclopean Spiral Staircase Edge)  |
-| - Node 10: Subterranean Ocean Descent (Pathway to Strata 7 Fontisae |
+| - Node 10: Subterranean Ocean Descent (Pathway to Strata 7          |
+|   Fontisaem OPEN)                                                   |
 +---------------------------------------------------------------------+
 | - Vanguard Squad: Zero Fatalities | Composure 50/50 SP (Serene)     |
 | - Encounter Status: 100% PACIFIED | Pathway to Fontisaem OPEN       |

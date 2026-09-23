@@ -3,12 +3,12 @@
 ## Batch 7 — Days 149–177: The Critical Threshold & The Day 160 Transmutation
 
 ```text
-+==============================================+
-| ABSOLVOHAN CYCLE 1,778 — OPERATIONAL LOG     |
-| SECTOR: PRIMARY ACCUMULATORS TO ZONE B       |
-| ACTIVE ECHOS: FLOORS 1 THROUGH 8             |
-| TRANSMUTATION CLIMAX: DAYS 149 TO 177        |
-+==============================================+
++=====================================================================+
+| ABSOLVOHAN CYCLE 1,778 — OPERATIONAL LOG                            |
+| SECTOR: PRIMARY ACCUMULATORS TO ZONE B                              |
+| ACTIVE ECHOS: FLOORS 1 THROUGH 8                                    |
+| TRANSMUTATION CLIMAX: DAYS 149 TO 177                               |
++=====================================================================+
 ```
 
 Batch 7 represents the supreme operational and metaphysical climax of Cycle 1,778. Spanning Days 149 through 177, this volume chronicles the breaking of the 1,778-cycle recursive loop. Day 149 marks the fundamental engineering reconfiguration of AY-001 from a focused destruction cannon into a planetary aerosol dispersal array slaved to the subterranean Weeping. 
@@ -48,38 +48,38 @@ Zyrak, Mellda, and Dekan lead around-the-clock engineering shifts to dismantle t
 #### 1. Multi-Floor Deployment Phase (Floors 1–8)
 
 ```text
-+==============================================+
-| FLOOR DEPLOYMENT ROSTER — DAY 149 SHIFT      |
-+---------------------+--------+---------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
-+=====================+========+===============+
-| F1: Central Command | 14 Op  | Seiyon: Sync  |
-|                     |        | Directive     |
-+---------------------+--------+---------------+
-| F2: Containment     | 22 Op  | Dekan: Ward   |
-| Lead                |        | of the Maw    |
-+---------------------+--------+---------------+
-| F3: Archive Lead    | 12 Op  | Marjuk:       |
-|                     |        | Recall Stasis |
-+---------------------+--------+---------------+
-| F4: Research Lead   | 16 Op  | Ayshuk:       |
-|                     |        | Clarity       |
-|                     |        | Matrix        |
-+---------------------+--------+---------------+
-| F5: Border Control  | 22 Op  | Mellda: Iron  |
-|                     |        | Perimeter     |
-+---------------------+--------+---------------+
-| F6: Extraction Lead | 26 Op  | Zyrak: Forge  |
-|                     |        | Resonance     |
-+---------------------+--------+---------------+
-| F7: Outsider Relat. | 12 Op  | Ishall: Void  |
-|                     |        | Vigil         |
-+---------------------+--------+---------------+
-| F8: Deep Vaults     | 10 Op  | Xyan: Echo    |
-| Lead                |        | Watch         |
-+---------------------+--------+---------------+
-| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 134    |
-+==============================================+
++=====================================================================+
+| FLOOR DEPLOYMENT ROSTER — DAY 149 SHIFT                             |
++---------------------------------------------------------------------+
+| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
++=====================================================================+
+| F1: Central Command | 14 Op  | Seiyon: Sync                         |
+| |        | Directive                                                |
++---------------------------------------------------------------------+
+| F2: Containment     | 22 Op  | Dekan: Ward                          |
+| Lead                |        | of the Maw                           |
++---------------------------------------------------------------------+
+| F3: Archive Lead    | 12 Op  | Marjuk:                              |
+| |        | Recall Stasis                                            |
++---------------------------------------------------------------------+
+| F4: Research Lead   | 16 Op  | Ayshuk:                              |
+| |        | Clarity                                                  |
+| |        | Matrix                                                   |
++---------------------------------------------------------------------+
+| F5: Border Control  | 22 Op  | Mellda: Iron                         |
+| |        | Perimeter                                                |
++---------------------------------------------------------------------+
+| F6: Extraction Lead | 26 Op  | Zyrak: Forge                         |
+| |        | Resonance                                                |
++---------------------------------------------------------------------+
+| F7: Outsider Relat. | 12 Op  | Ishall: Void                         |
+| |        | Vigil                                                    |
++---------------------------------------------------------------------+
+| F8: Deep Vaults     | 10 Op  | Xyan: Echo                           |
+| Lead                |        | Watch                                |
++---------------------------------------------------------------------+
+| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 134                           |
++=====================================================================+
 ```
 
 Zyrak deploys ten heavy extraction engineers to Floor 1's accumulator vault to assist Seiyon in re-routing the high-pressure hydraulic lines. Mellda anchors the secondary pressure valves against kinetic water-hammer shock.
@@ -87,35 +87,35 @@ Zyrak deploys ten heavy extraction engineers to Floor 1's accumulator vault to a
 #### 2. Acoustic Strain Meltdown Monitoring
 
 ```text
-+==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 14 |
-+----------------------------------------------+
-| STRAIN LEVEL : LEVEL VI MELTDOWN             |
-| OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH   |
-| AFFECTED CELLS : SE-001, 008, 014, 025, 036, |
-+--------------------+----------+--------------+
-| CONTAINMENT TARGET | STRAIN   | STATUS       |
-+====================+==========+==============+
-| SE-C-Ia-008        | 82.0%    | Harmonized   |
-| (The Maw)          |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-001      | 80.4%    | Active       |
-| (The Bell)         |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIb-014      | 79.1%    | Active       |
-| (Debt Veil)        |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-025      | 77.5%    | Active       |
-| (Crying Child)     |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIb-036      | 84.2%    | Active       |
-| (Hourglass)        |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIb-044      | 81.0%    | Active       |
-| (Broken Clock)     |          |              |
-+--------------------+----------+--------------+
-| TACTICAL ACTION: HYDRAULIC RETROFIT SYNC     |
-+==============================================+
++=====================================================================+
+| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 14                        |
++---------------------------------------------------------------------+
+| STRAIN LEVEL : LEVEL VI MELTDOWN                                    |
+| OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH                          |
+| AFFECTED CELLS : SE-001, 008, 014, 025, 036,                        |
++---------------------------------------------------------------------+
+| CONTAINMENT TARGET | STRAIN   | STATUS                              |
++=====================================================================+
+| SE-C-Ia-008        | 82.0%    | Harmonized                          |
+| (The Maw)          |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-001      | 80.4%    | Active                              |
+| (The Bell)         |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIb-014      | 79.1%    | Active                              |
+| (Debt Veil)        |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-025      | 77.5%    | Active                              |
+| (Crying Child)     |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIb-036      | 84.2%    | Active                              |
+| (Hourglass)        |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIb-044      | 81.0%    | Active                              |
+| (Broken Clock)     |                                                |
++---------------------------------------------------------------------+
+| TACTICAL ACTION: HYDRAULIC RETROFIT SYNC                            |
++=====================================================================+
 ```
 
 Meltdown Level VI triggered across six core baseline chambers at 13:40. The entities exhibited gentle harmonic pulses as the facility's pipes began vibrating with the new water-routing architecture. Containment cleared within 16.8 seconds.
@@ -123,28 +123,28 @@ Meltdown Level VI triggered across six core baseline chambers at 13:40. The enti
 #### 3. Granular Work Type Management Table
 
 ```text
-+==============================================+
-| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 149  |
-+--------------------+--------+-------+--------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
-+====================+========+=======+========+
-| SE-008 (The Maw)   | Flere  | -12%  | +0.02  |
-| Agent Shin Grade 4 | Lament | CALM  | 26 OP  |
-+--------------------+--------+-------+--------+
-| SE-001 (Bell)      | Flere  | -10%  | +0.02  |
-| Agent Park Grade 4 | Lament | CALM  | 25 OP  |
-+--------------------+--------+-------+--------+
-| SE-014 (Veil)      | Videre | -08%  | +0.02  |
-| Agent Lee Grade 4  | Void   | STBL  | 22 OP  |
-+--------------------+--------+-------+--------+
-| SE-025 (Child)     | Flere  | -09%  | +0.02  |
-| Agent Choi Grade 4 | Lament | CALM  | 24 OP  |
-+--------------------+--------+-------+--------+
-| SE-036 (Hourglass) | Pugna  | -11%  | +0.02  |
-| Agent Kang Grade 4 | Grudge | STBL  | 25 OP  |
-+--------------------+--------+-------+--------+
-| DAILY EXTRACTION YIELD: +0.108 TONS PURE HAN |
-+==============================================+
++=====================================================================+
+| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 149                         |
++---------------------------------------------------------------------+
+| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
++=====================================================================+
+| SE-008 (The Maw)   | Flere  | -12%  | +0.02                         |
+| Agent Shin Grade 4 | Lament | CALM  | 26 OP                         |
++---------------------------------------------------------------------+
+| SE-001 (Bell)      | Flere  | -10%  | +0.02                         |
+| Agent Park Grade 4 | Lament | CALM  | 25 OP                         |
++---------------------------------------------------------------------+
+| SE-014 (Veil)      | Videre | -08%  | +0.02                         |
+| Agent Lee Grade 4  | Void   | STBL  | 22 OP                         |
++---------------------------------------------------------------------+
+| SE-025 (Child)     | Flere  | -09%  | +0.02                         |
+| Agent Choi Grade 4 | Lament | CALM  | 24 OP                         |
++---------------------------------------------------------------------+
+| SE-036 (Hourglass) | Pugna  | -11%  | +0.02                         |
+| Agent Kang Grade 4 | Grudge | STBL  | 25 OP                         |
++---------------------------------------------------------------------+
+| DAILY EXTRACTION YIELD: +0.108 TONS PURE HAN                        |
++=====================================================================+
 ```
 
 Agent Shin performed peaceful *Flerehan* communion at the edge of the Maw. Wearing the *Tranquil Shroud*, Shin hummed in resonance with the cool cobalt pool, draining 12% of the Sorrow Gauge and harvesting 0.02 tons of radiant azure Han.
@@ -157,25 +157,25 @@ Agent Shin performed peaceful *Flerehan* communion at the edge of the Maw. Weari
 #### 5. Ordeal Suppression Tactical Dossier
 
 ```text
-+==============================================+
-| TACTICAL DOSSIER: FIRST WATCH (DAWN) ORDEAL  |
-+----------------------------------------------+
-| DESIGNATION : THE SPARK OF TRANSFORMATION    |
-| CLASSIFICATION : PALE (CYAN) DAWN            |
-| INTRUSION POINT : FLOOR 1 RETROFIT VAULT     |
-+----------------------------------------------+
-| HOSTILE PARAMETERS:                          |
-| - Entities: 3x Floating Cyan Fireflies       |
-| - Attack Affinity: Pale (Gentle Life Shock)  |
-| - Weakness Affinity: Balanced (All 4 Types)  |
-+----------------------------------------------+
-| ENGAGEMENT TELEMETRY:                        |
-| - Fireflies circled the open dispersal nozzl |
-| - Seiyon harmonized core telemetry with enti |
-| - Fireflies absorbed directly into manifold  |
-| - Clash Duration: 28.4 seconds               |
-| - Personnel Casualties: 0 Fatalities         |
-+==============================================+
++=====================================================================+
+| TACTICAL DOSSIER: FIRST WATCH (DAWN) ORDEAL                         |
++---------------------------------------------------------------------+
+| DESIGNATION : THE SPARK OF TRANSFORMATION                           |
+| CLASSIFICATION : PALE (CYAN) DAWN                                   |
+| INTRUSION POINT : FLOOR 1 RETROFIT VAULT                            |
++---------------------------------------------------------------------+
+| HOSTILE PARAMETERS:                                                 |
+| - Entities: 3x Floating Cyan Fireflies                              |
+| - Attack Affinity: Pale (Gentle Life Shock)                         |
+| - Weakness Affinity: Balanced (All 4 Types)                         |
++---------------------------------------------------------------------+
+| ENGAGEMENT TELEMETRY:                                               |
+| - Fireflies circled the open dispersal nozzl                        |
+| - Seiyon harmonized core telemetry with enti                        |
+| - Fireflies absorbed directly into manifold                         |
+| - Clash Duration: 28.4 seconds                                      |
+| - Personnel Casualties: 0 Fatalities                                |
++=====================================================================+
 ```
 
 Three floating Pale fireflies manifest directly above the open dispersal manifold during welding, pulsing with concentrated primordial life shock!
@@ -184,19 +184,19 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 
 ```text
 +=====================================================================+
-|     COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (SPARK OF DAWN)      |
+| COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (SPARK OF DAWN)          |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | POS : [FIREFLIES] [PARK] [SEIYON] [MAJIN]                           |
 | DIST : Fireflies at N02; Park at N03 (Band 1); Seiyon at N05        |
 | (Console).                                                          |
 +---------------------------------------------------------------------+
 | Agent Park : Speed 6 -> 3 AP | HP: 140/140 | SP: +45 | Lament       |
 | Requiem                                                             |
-| Secretary Seiyon : Speed 5 -> 3 AP | HP: 200/200 | SP: +50 |        |
+| Secretary Seiyon : Speed 5 -> 3 AP | HP: 200/200 | SP: +50          |
 | Acoustic Matrix                                                     |
-| Floating Fireflies : Speed 5 -> 3 AP | HP: 300/300 | Sorrow: 30% |  |
+| Floating Fireflies : Speed 5 -> 3 AP | HP: 300/300 | Sorrow: 30%    |
 | Life Shock                                                          |
 +=====================================================================+
 ```
@@ -217,20 +217,21 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 
 ```text
 +=====================================================================+
-|       TACTICAL STAGE HUD: HARMONIC COMMUNION — BATTLE TURN 02       |
+| TACTICAL STAGE HUD: HARMONIC COMMUNION — BATTLE TURN 02             |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — FLOOR 1 RETROFIT VAULT CONDUITS]            |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [FIREFLIES]     [PARK]          [SEIYON]                [MAJIN]     |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [FIREFLIES] [PARK] [SEIYON] [MAJIN]                                 |
 +---------------------------------------------------------------------+
 | - Node 01: Swarm of Twilight Fireflies (Agitation 52/120 / 432Hz)   |
 | - Node 03: Agent Park (Range Band 2 / Flerehan Acoustic Staff)      |
 | - Node 05: Secretary Seiyon (Range Band 3 / Tuning Conduit Valves)  |
 | - Node 08: Director Majin (Command Console / Manifold Monitoring)   |
 +---------------------------------------------------------------------+
-| - Seiyon      : Spd 5 -> 3 AP | HP 120/120 | SP +40 | Posture 70/70 |
+| - Seiyon : Spd 5 -> 3 AP | HP 120/120 | SP +40 | Posture 70/70      |
 | - Agent Park  : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 65/65 |
-| - Fireflies   : Spd 4 -> 2 AP | Agitation 52/120 [60% STAGGER TRIGG |
+| - Fireflies : Spd 4 -> 2 AP                                         |
+|   | Agitation 52/120 [60% STAGGER TRIGGER]                          |
 +=====================================================================+
 ```
 
@@ -246,19 +247,19 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 
 ```text
 +=====================================================================+
-|       TACTICAL STAGE HUD: HARMONIC COMMUNION — BATTLE TURN 03       |
+| TACTICAL STAGE HUD: HARMONIC COMMUNION — BATTLE TURN 03             |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — HARMONIC STAGGER & HOPE CONVERSION]         |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [SWARM] [PARK]          [SEIYON]                [MAJIN]     |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [SWARM] [PARK]          [SEIYON]                [MAJIN]             |
 +---------------------------------------------------------------------+
 | - Node 02: Swarm (Advancing Calmly / Agitation 28/120 / Hope 75%)   |
 | - Node 03: Agent Park (Momentum Surge / Choral Resonance Amplified) |
 | - Node 05: Secretary Seiyon (Priming Manifold Intake Flanges)       |
 +---------------------------------------------------------------------+
-| - Seiyon      : Spd 5 -> 3 AP | HP 120/120 | SP +40 | Posture 70/70 |
+| - Seiyon : Spd 5 -> 3 AP | HP 120/120 | SP +40 | Posture 70/70      |
 | - Agent Park  : Spd 8 -> 4 AP [SURGE] | HP 120/120 | SP +35 | Postu |
-| - Fireflies   : Spd 3 -> 1 AP | Agitation 28/120 | Hope Index +75%  |
+| - Fireflies : Spd 3 -> 1 AP | Agitation 28/120 | Hope Index +75%    |
 +=====================================================================+
 ```
 
@@ -272,19 +273,19 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 
 ```text
 +=====================================================================+
-|       TACTICAL STAGE HUD: HARMONIC COMMUNION — BATTLE TURN 04       |
+| TACTICAL STAGE HUD: HARMONIC COMMUNION — BATTLE TURN 04             |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — MANIFOLD CIRCULATION & INTAKE ALIGNMENT]    |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                 [SWARM] [PARK]  [SEIYON]                [MAJIN]     |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [SWARM] [PARK]  [SEIYON]                [MAJIN]                     |
 +---------------------------------------------------------------------+
 | - Node 03: Fireflies Swarm (Encircled Around Open Acoustic Valve)   |
 | - Node 04: Agent Park (Directional Guard Absorption / Guided Flow)  |
 | - Node 05: Secretary Seiyon (Opening Primary Intake Manifold)       |
 +---------------------------------------------------------------------+
-| - Seiyon      : Spd 5 -> 3 AP | HP 120/120 | SP +40 | Posture 70/70 |
+| - Seiyon : Spd 5 -> 3 AP | HP 120/120 | SP +40 | Posture 70/70      |
 | - Agent Park  : Spd 8 -> 4 AP | HP 120/120 | SP +35 | Posture 65/65 |
-| - Fireflies   : Spd 2 -> 1 AP | Agitation 12/120 | Hope Index +90%  |
+| - Fireflies : Spd 2 -> 1 AP | Agitation 12/120 | Hope Index +90%    |
 +=====================================================================+
 ```
 
@@ -298,18 +299,19 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 
 ```text
 +=====================================================================+
-|       TACTICAL STAGE HUD: HARMONIC COMMUNION — BATTLE TURN 05       |
+| TACTICAL STAGE HUD: HARMONIC COMMUNION — BATTLE TURN 05             |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — TERMINAL STAGGER & VIDEREHAN LOCK]          |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                         [INTAKE][SEIYON]                [MAJIN]     |
-|                         [PARK]                                      |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [INTAKE][SEIYON]                [MAJIN]                             |
+| [PARK]                                                              |
 +---------------------------------------------------------------------+
-| - Node 04: Fireflies (TERMINAL STAGGER / AGITATION 0/120 / PURE HOP |
+| - Node 04: Fireflies (TERMINAL STAGGER / AGITATION 0/120 / PURE     |
+|   HOPE)                                                             |
 | - Node 04: Agent Park (Executing Viderehan Harmonic Phase Lock)     |
 | - Node 05: Secretary Seiyon (Aligning Pressure Gradients)           |
 +---------------------------------------------------------------------+
-| - Fireflies   : Spd 0 -> 0 AP | Agitation 0/120 | Transmutation: 10 |
+| - Fireflies : Spd 0 -> 0 AP | Agitation 0/120 | Transmutation: 10   |
 +=====================================================================+
 ```
 
@@ -322,18 +324,18 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 
 ```text
 +=====================================================================+
-|       TACTICAL STAGE HUD: HARMONIC COMMUNION — BATTLE TURN 06       |
+| TACTICAL STAGE HUD: HARMONIC COMMUNION — BATTLE TURN 06             |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — INTEGRATION & RESERVOIR CHARGE]             |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                         [CLEAR] [SEIYON]                [MAJIN]     |
-|                                 [PARK]                              |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CLEAR] [SEIYON]                [MAJIN]                             |
+| [PARK]                                                              |
 +---------------------------------------------------------------------+
 | - Node 04: Conduits (Seamless Fluid Integration / Zero Loss)        |
 | - Node 05: Secretary Seiyon (Logging +0.025 Tons Refined Han)       |
 | - Node 08: Director Majin (Confirming Absolute Reservoir Stability) |
 +---------------------------------------------------------------------+
-| - Fireflies   : INTEGRATED | +0.025 TONS REFINED HAN HARVESTED      |
+| - Fireflies : INTEGRATED | +0.025 TONS REFINED HAN HARVESTED        |
 +=====================================================================+
 ```
 
@@ -345,7 +347,73 @@ Director Majin establishes GBS tactical engagement parameters for mid-combat com
 
 ```text
 +=====================================================================+
-|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
+| PHASE 01 RESOLUTION (PHASE-END TICK)                                |
++---------------------------------------------------------------------+
+| 1. Environmental Check : Retrofit Vault dispersal lines pre-charged |
+| (+0.05t).                                                           |
+| 2. Status Equilibrium : Atmospheric resonance tranquil; team SP at  |
+| max.                                                                |
+| 3. Containment Check : Gentle Life Shock integrated into plumbing   |
+| safely.                                                             |
+| 4. OUTCOME : ZERO WEAPON DISCHARGES — PERFECT HARMONIC CLEAR.       |
++=====================================================================+
+```
+
+Three floating Pale fireflies manifest directly above the open dispersal manifold during welding, pulsing with concentrated primordial life shock!
+
+Director Majin establishes GBS tactical engagement parameters for mid-combat communion:
+
+```text
++=====================================================================+
+| COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (SPARK OF DAWN)          |
++---------------------------------------------------------------------+
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| POS : [FIREFLIES] [PARK] [SEIYON] [MAJIN]                           |
+| DIST : Fireflies at N02; Park at N03 (Band 1); Seiyon at N05        |
+| (Console).                                                          |
++---------------------------------------------------------------------+
+| Agent Park : Speed 6 -> 3 AP | HP: 140/140 | SP: +45                |
+| | Lament Requiem                                                    |
+| Secretary Seiyon : Speed 5 -> 3 AP | HP: 200/200 | SP: +50          |
+| | Acoustic Matrix                                                   |
+| Floating Fireflies : Speed 5 -> 3 AP | HP: 300/300 | Sorrow: 30%    |
+| | Life Shock                                                        |
++=====================================================================+
+```
+
+###### Turn 01 Action Resolution Log (Floor 1 Retrofit Vault)
+- **Step 1: Floor 1 Echo-Core Resonance (Director Majin & Secretary Seiyon)**:
+  * Seiyon deploys *The Acoustic Matrix*, tuning Floor 1's resonance dampers to match the fireflies' gentle 432Hz frequency.
+- **Step 2: Movement & Action Point Spending**:
+  * Secretary Seiyon (Speed 5 -> 3 AP) operates from Node 5 (Mid-Field Range Band 3). Spends 2 AP to execute `[Flerehan Acoustic Synchronization]`. Remaining 1 AP in Guard.
+  * Agent Park (Speed 6 -> 3 AP) steps up to Node 3 (Close Range Band 2). Spends 2 AP to channel non-lethal `[Lament Requiem Pure Harmonic Weeping]`.
+- **Step 3: Clash Resolution (Harmonic Communion)**:
+  * Floating Fireflies declare `[Gentle Life Shockwave]` (Base 9 + 2 Coins = 13 Power).
+  * Seiyon's `[Flerehan Acoustic Synchronization]` (Base 11 + 2 Coins = 15 Power).
+  * **Resolution**: Seiyon WINS THE CLASH (15 vs 13).
+    * The acoustic wave wraps the fireflies in gentle, soothing counter-frequencies. Their agitation drops instantly, lowering their Sorrow Gauge by 25% and inflicting +24 Stagger without dealing vessel damage!
+  * Park channels pure harmonic weeping from Node 3, aligning the fireflies' energy vectors toward the manifold intake.
+
+```text
++=====================================================================+
+| TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)                  |
++---------------------------------------------------------------------+
+| - Turn 02: Seiyon tunes acoustic conduit; Park channels gentle      |
+| Flerehan wave.                                                      |
+| - Turn 03: Fireflies hit 60% Stagger 1; sorrow frequency converts   |
+| to Hope.                                                            |
+| - Turn 04: Fireflies encircle open manifold; Seiyon opens intake    |
+| valve.                                                              |
+| - Turn 05: Park executes Viderehan harmonic lock, aligning energy   |
+| phases.                                                             |
+| - Turn 06: Harmonic communion complete; entities merge smoothly     |
+| into pipes.                                                         |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+| PHASE 01 RESOLUTION (PHASE-END TICK)                                |
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Retrofit Vault dispersal lines pre-charged |
 | (+0.05t).                                                           |
@@ -362,23 +430,23 @@ Three floating Pale fireflies manifested directly above the open dispersal manif
 #### 6. End-of-Day Shift Evaluation Index
 
 ```text
-+==============================================+
-| END-OF-DAY PERFORMANCE EVALUATION: DAY 149   |
-+----------------------------------------------+
-| METRIC               | TARGET | REALIZED     |
-+----------------------------------------------+
-| Han Energy Harvested | 0.050t | 0.108 tons   |
-| Containment Breaches | 0 Max  | 0 Breaches   |
-| Personnel Casualties | 0 Dead | 0 Fatalities |
-| Meltdowns Cleared    | 6/6    | 100% Rate    |
-+----------------------------------------------+
-| SHIFT PERFORMANCE GRADE: GRADE S             |
-| REAGENTS ACCUMULATED: +35 RHR                |
-| AGENT ADVANCEMENT:                           |
-| - Agent Shin: +5 Clarity (Sanity Pool Up)    |
-| - Agent Kang: +5 Resilience (HP Pool Up)     |
-| - Agent Park: +5 Composure (Work Success Up  |
-+==============================================+
++=====================================================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 149                          |
++---------------------------------------------------------------------+
+| METRIC               | TARGET | REALIZED                            |
++---------------------------------------------------------------------+
+| Han Energy Harvested | 0.050t | 0.108 tons                          |
+| Containment Breaches | 0 Max  | 0 Breaches                          |
+| Personnel Casualties | 0 Dead | 0 Fatalities                        |
+| Meltdowns Cleared    | 6/6    | 100% Rate                           |
++---------------------------------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S                                    |
+| REAGENTS ACCUMULATED: +35 RHR                                       |
+| AGENT ADVANCEMENT:                                                  |
+| - Agent Shin: +5 Clarity (Sanity Pool Up)                           |
+| - Agent Kang: +5 Resilience (HP Pool Up)                            |
+| - Agent Park: +5 Composure (Work Success Up)                        |
++=====================================================================+
 ```
 
 #### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
@@ -428,38 +496,38 @@ Containment harvesting achieves pristine quality, yielding 0.110 tons of pure Ha
 #### 1. Multi-Floor Deployment Phase (Floors 1–8)
 
 ```text
-+==============================================+
-| FLOOR DEPLOYMENT ROSTER — DAY 151 SHIFT      |
-+---------------------+--------+---------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
-+=====================+========+===============+
-| F1: Central Command | 14 Op  | Seiyon: Sync  |
-|                     |        | Directive     |
-+---------------------+--------+---------------+
-| F2: Containment     | 24 Op  | Dekan: Ward   |
-| Lead                |        | of the Maw    |
-+---------------------+--------+---------------+
-| F3: Archive Lead    | 12 Op  | Marjuk:       |
-|                     |        | Recall Stasis |
-+---------------------+--------+---------------+
-| F4: Research Lead   | 16 Op  | Ayshuk:       |
-|                     |        | Clarity       |
-|                     |        | Matrix        |
-+---------------------+--------+---------------+
-| F5: Border Control  | 18 Op  | Mellda: Iron  |
-|                     |        | Perimeter     |
-+---------------------+--------+---------------+
-| F6: Extraction Lead | 22 Op  | Zyrak: Forge  |
-|                     |        | Resonance     |
-+---------------------+--------+---------------+
-| F7: Outsider Relat. | 14 Op  | Ishall: Void  |
-|                     |        | Vigil         |
-+---------------------+--------+---------------+
-| F8: Deep Vaults     | 10 Op  | Xyan: Echo    |
-| Lead                |        | Watch         |
-+---------------------+--------+---------------+
-| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 130    |
-+==============================================+
++=====================================================================+
+| FLOOR DEPLOYMENT ROSTER — DAY 151 SHIFT                             |
++---------------------------------------------------------------------+
+| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
++=====================================================================+
+| F1: Central Command | 14 Op  | Seiyon: Sync                         |
+| |        | Directive                                                |
++---------------------------------------------------------------------+
+| F2: Containment     | 24 Op  | Dekan: Ward                          |
+| Lead                |        | of the Maw                           |
++---------------------------------------------------------------------+
+| F3: Archive Lead    | 12 Op  | Marjuk:                              |
+| |        | Recall Stasis                                            |
++---------------------------------------------------------------------+
+| F4: Research Lead   | 16 Op  | Ayshuk:                              |
+| |        | Clarity                                                  |
+| |        | Matrix                                                   |
++---------------------------------------------------------------------+
+| F5: Border Control  | 18 Op  | Mellda: Iron                         |
+| |        | Perimeter                                                |
++---------------------------------------------------------------------+
+| F6: Extraction Lead | 22 Op  | Zyrak: Forge                         |
+| |        | Resonance                                                |
++---------------------------------------------------------------------+
+| F7: Outsider Relat. | 14 Op  | Ishall: Void                         |
+| |        | Vigil                                                    |
++---------------------------------------------------------------------+
+| F8: Deep Vaults     | 10 Op  | Xyan: Echo                           |
+| Lead                |        | Watch                                |
++---------------------------------------------------------------------+
+| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 130                           |
++=====================================================================+
 ```
 
 Dekan establishes an acoustic bridge between Floor 2 and all eight floors. His Attendant Aura, *Bulwark Ward*, transforms into a gentle acoustic conduit, transmitting the lullaby throughout the facility's living quarters.
@@ -467,35 +535,35 @@ Dekan establishes an acoustic bridge between Floor 2 and all eight floors. His A
 #### 2. Acoustic Strain Meltdown Monitoring
 
 ```text
-+==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 15 |
-+----------------------------------------------+
-| STRAIN LEVEL : LEVEL VI MELTDOWN             |
-| OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH   |
-| AFFECTED CELLS : SE-001, 008, 014, 025, 081, |
-+--------------------+----------+--------------+
-| CONTAINMENT TARGET | STRAIN   | STATUS       |
-+====================+==========+==============+
-| SE-C-Ia-008        | 72.0%    | Clear Wate   |
-| (The Maw)          |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-001      | 75.4%    | Harmonized   |
-| (The Bell)         |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIb-014      | 78.0%    | Active       |
-| (Debt Veil)        |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-025      | 74.1%    | Listening    |
-| (Crying Child)     |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-081      | 79.2%    | Harmonized   |
-| (Hollow Saint)     |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-140      | 76.5%    | Active       |
-| (Weeping Willow)   |          |              |
-+--------------------+----------+--------------+
-| TACTICAL ACTION: FULL-SECTOR LULLABY SYNC    |
-+==============================================+
++=====================================================================+
+| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 15                        |
++---------------------------------------------------------------------+
+| STRAIN LEVEL : LEVEL VI MELTDOWN                                    |
+| OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH                          |
+| AFFECTED CELLS : SE-001, 008, 014, 025, 081,                        |
++---------------------------------------------------------------------+
+| CONTAINMENT TARGET | STRAIN   | STATUS                              |
++=====================================================================+
+| SE-C-Ia-008        | 72.0%    | Clear Wate                          |
+| (The Maw)          |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-001      | 75.4%    | Harmonized                          |
+| (The Bell)         |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIb-014      | 78.0%    | Active                              |
+| (Debt Veil)        |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-025      | 74.1%    | Listening                           |
+| (Crying Child)     |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-081      | 79.2%    | Harmonized                          |
+| (Hollow Saint)     |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-140      | 76.5%    | Active                              |
+| (Weeping Willow)   |                                                |
++---------------------------------------------------------------------+
+| TACTICAL ACTION: FULL-SECTOR LULLABY SYNC                           |
++=====================================================================+
 ```
 
 Meltdown Level VI triggered across six sorrow and weeping chambers at 13:10. All six entities resonated peacefully with the Maw's lullaby, dropping their acoustic strain gauges without requiring forceful intervention. Overload timers cleared within 12.1 seconds.
@@ -503,28 +571,28 @@ Meltdown Level VI triggered across six sorrow and weeping chambers at 13:10. All
 #### 3. Granular Work Type Management Table
 
 ```text
-+==============================================+
-| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 151  |
-+--------------------+--------+-------+--------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
-+====================+========+=======+========+
-| SE-008 (The Maw)   | Flere  | -15%  | +0.02  |
-| Agent Shin Grade 4 | Lament | CALM  | 28 OP  |
-+--------------------+--------+-------+--------+
-| SE-001 (Bell)      | Flere  | -12%  | +0.02  |
-| Agent Park Grade 4 | Lament | CALM  | 26 OP  |
-+--------------------+--------+-------+--------+
-| SE-025 (Child)     | Flere  | -11%  | +0.02  |
-| Agent Choi Grade 4 | Lament | CALM  | 25 OP  |
-+--------------------+--------+-------+--------+
-| SE-081 (Saint)     | Flere  | -14%  | +0.02  |
-| Agent Hong Grade 4 | Lament | CALM  | 27 OP  |
-+--------------------+--------+-------+--------+
-| SE-140 (Willow)    | Flere  | -12%  | +0.02  |
-| Agent Bae Grade 4  | Lament | CALM  | 26 OP  |
-+--------------------+--------+-------+--------+
-| DAILY EXTRACTION YIELD: +0.110 TONS PURE HAN |
-+==============================================+
++=====================================================================+
+| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 151                         |
++---------------------------------------------------------------------+
+| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
++=====================================================================+
+| SE-008 (The Maw)   | Flere  | -15%  | +0.02                         |
+| Agent Shin Grade 4 | Lament | CALM  | 28 OP                         |
++---------------------------------------------------------------------+
+| SE-001 (Bell)      | Flere  | -12%  | +0.02                         |
+| Agent Park Grade 4 | Lament | CALM  | 26 OP                         |
++---------------------------------------------------------------------+
+| SE-025 (Child)     | Flere  | -11%  | +0.02                         |
+| Agent Choi Grade 4 | Lament | CALM  | 25 OP                         |
++---------------------------------------------------------------------+
+| SE-081 (Saint)     | Flere  | -14%  | +0.02                         |
+| Agent Hong Grade 4 | Lament | CALM  | 27 OP                         |
++---------------------------------------------------------------------+
+| SE-140 (Willow)    | Flere  | -12%  | +0.02                         |
+| Agent Bae Grade 4  | Lament | CALM  | 26 OP                         |
++---------------------------------------------------------------------+
+| DAILY EXTRACTION YIELD: +0.110 TONS PURE HAN                        |
++=====================================================================+
 ```
 
 Agent Bae sat beneath the branches of SE-C-IIIγ-140 (*The Weeping Willow*), humming the lullaby in harmony with the Maw. The tree lowered its shimmering green boughs to shelter her, draining 12% of its Sorrow Gauge and yielding 0.02 tons of radiant emerald Han.
@@ -537,25 +605,25 @@ Agent Bae sat beneath the branches of SE-C-IIIγ-140 (*The Weeping Willow*), hum
 #### 5. Ordeal Suppression Tactical Dossier
 
 ```text
-+==============================================+
-| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL  |
-+----------------------------------------------+
-| DESIGNATION : THE SLEEPING CHOIR             |
-| CLASSIFICATION : LAMENT (WHITE) DUSK         |
-| INTRUSION POINT : FLOOR 2 GALLERY            |
-+----------------------------------------------+
-| HOSTILE PARAMETERS:                          |
-| - Entities: 2x Luminous Sleep-Spirits        |
-| - Attack Affinity: Lament (Gentle Trance Pul |
-| - Weakness Affinity: Grudge (Vigorous Harmon |
-+----------------------------------------------+
-| ENGAGEMENT TELEMETRY:                        |
-| - Spirits harmonized with the Maw's lullaby  |
-| - Agent Shin sang the final verse            |
-| - Spirits bowed and dissolved into clear wat |
-| - Clash Duration: 31.5 seconds               |
-| - Personnel Casualties: 0 Fatalities         |
-+==============================================+
++=====================================================================+
+| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL                         |
++---------------------------------------------------------------------+
+| DESIGNATION : THE SLEEPING CHOIR                                    |
+| CLASSIFICATION : LAMENT (WHITE) DUSK                                |
+| INTRUSION POINT : FLOOR 2 GALLERY                                   |
++---------------------------------------------------------------------+
+| HOSTILE PARAMETERS:                                                 |
+| - Entities: 2x Luminous Sleep-Spirits                               |
+| - Attack Affinity: Lament (Gentle Trance Pulse)                     |
+| - Weakness Affinity: Grudge (Vigorous Harmony)                      |
++---------------------------------------------------------------------+
+| ENGAGEMENT TELEMETRY:                                               |
+| - Spirits harmonized with the Maw's lullaby                         |
+| - Agent Shin sang the final verse                                   |
+| - Spirits bowed and dissolved into clear wat                        |
+| - Clash Duration: 31.5 seconds                                      |
+| - Personnel Casualties: 0 Fatalities                                |
++=====================================================================+
 ```
 
 Two sleep-spirits manifest on Floor 2 during the Dusk Ordeal, radiating a heavy 95dB trance frequency down the gallery!
@@ -564,17 +632,17 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 
 ```text
 +=====================================================================+
-|     COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (SLEEPING CHOIR)     |
+| COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (SLEEPING CHOIR)         |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | POS : [SPIRIT-A][SPIRIT-B] [SHIN] [DEKAN] [MAJIN]                   |
 | DIST : Spirits at N02; Shin at N04 (Band 2); Dekan at N05 (Aegis).  |
 +---------------------------------------------------------------------+
 | Agent Shin : Speed 6 -> 3 AP | HP: 135/135 | SP: +45 | Choral Staff |
 | Attendant Dekan : Speed 5 -> 3 AP | HP: 215/215 | SP: +50 | Maw's   |
 | Aegis                                                               |
-| Sleep-Spirits(x2)   : Speed 5 -> 3 AP | HP: 360 each | Trance Pulse |
+| Sleep-Spirits(x2) : Speed 5 -> 3 AP | HP: 360 each | Trance Pulse   |
 +=====================================================================+
 ```
 
@@ -593,20 +661,23 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 
 ```text
 +=====================================================================+
-|     TACTICAL STAGE HUD: SPIRITUAL PACIFICATION — BATTLE TURN 02     |
+| TACTICAL STAGE HUD: SPIRITUAL PACIFICATION — BATTLE TURN 02         |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — FLOOR 2 DORMITORY VAULT GALLERY]            |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [SPIRITS]       [SHIN]  [DEKAN]                         [MAJIN]     |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [SPIRITS] [SHIN] [DEKAN] [MAJIN]                                    |
 +---------------------------------------------------------------------+
-| - Node 01: Sleep-Spirits (Sorrow 46/130 / Sinking into Deep Reverie |
-| - Node 03: Agent Shin (Range Band 2 / Singing First Verse of Lullab |
-| - Node 04: Attendant Dekan (Range Band 2 / Maw Bastion Acoustic War |
+| - Node 01: Sleep-Spirits (Sorrow 46/130 / Sinking into Deep         |
+|   Reverie)                                                          |
+| - Node 03: Agent Shin (Range Band 2 / Singing First Verse of        |
+|   Lullaby)                                                          |
+| - Node 04: Attendant Dekan (Range Band 2 / Maw Bastion Acoustic     |
+|   Ward)                                                             |
 | - Node 08: Director Majin & Attendants (Gallery Acoustic Overlook)  |
 +---------------------------------------------------------------------+
 | - Agent Shin  : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65 |
-| - Dekan       : Spd 5 -> 3 AP | HP 210/210 | SP +40 | Posture 105/1 |
-| - Spirits     : Spd 3 -> 1 AP | Sorrow 46/130 [60% STAGGER TRIGGERE |
+| - Dekan : Spd 5 -> 3 AP | HP 210/210 | SP +40 | Posture 105/1       |
+| - Spirits : Spd 3 -> 1 AP | Sorrow 46/130 [60% STAGGER TRIGGERED]   |
 +=====================================================================+
 ```
 
@@ -622,19 +693,20 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 
 ```text
 +=====================================================================+
-|     TACTICAL STAGE HUD: SPIRITUAL PACIFICATION — BATTLE TURN 03     |
+| TACTICAL STAGE HUD: SPIRITUAL PACIFICATION — BATTLE TURN 03         |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — POSTURE BREAK & REVERIE DESCENT]            |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [SPIRITS][SHIN] [DEKAN]                         [MAJIN]     |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [SPIRITS][SHIN] [DEKAN]                         [MAJIN]             |
 +---------------------------------------------------------------------+
 | - Node 02: Spirits (Arms Lowered in Peace / Sorrow 24/130)          |
 | - Node 03: Agent Shin (Momentum Surge / Second Verse Chanted)       |
-| - Node 04: Attendant Dekan (Shielding Acoustic Bounce off Vault Wal |
+| - Node 04: Attendant Dekan (Shielding Acoustic Bounce off Vault     |
+|   Walls)                                                            |
 +---------------------------------------------------------------------+
 | - Agent Shin  : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +35 | Postu |
-| - Dekan       : Spd 5 -> 3 AP | HP 210/210 | SP +40 | Posture 105/1 |
-| - Spirits     : Spd 2 -> 1 AP | Sorrow 24/130 | Agitation Transmute |
+| - Dekan : Spd 5 -> 3 AP | HP 210/210 | SP +40 | Posture 105/1       |
+| - Spirits : Spd 2 -> 1 AP | Sorrow 24/130 | Agitation Transmute     |
 +=====================================================================+
 ```
 
@@ -648,19 +720,19 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 
 ```text
 +=====================================================================+
-|     TACTICAL STAGE HUD: SPIRITUAL PACIFICATION — BATTLE TURN 04     |
+| TACTICAL STAGE HUD: SPIRITUAL PACIFICATION — BATTLE TURN 04         |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — MAW'S LULLABY & HARMONIC MIRROR]            |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                 [SPIRITS][SHIN][DEKAN]                  [MAJIN]     |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [SPIRITS][SHIN][DEKAN]                  [MAJIN]                     |
 +---------------------------------------------------------------------+
 | - Node 03: Sleep-Spirits (Humming in Synchrony with Choral Staff)   |
 | - Node 04: Agent Shin (Matching Pitch with Ancient Floor Canticle)  |
 | - Node 05: Attendant Dekan (Directional Guard / Nullifying Discord) |
 +---------------------------------------------------------------------+
 | - Agent Shin  : Spd 8 -> 4 AP | HP 125/125 | SP +35 | Posture 65/65 |
-| - Dekan       : Spd 5 -> 3 AP | HP 210/210 | SP +40 | Posture 105/1 |
-| - Spirits     : Spd 2 -> 1 AP | Sorrow 10/130 | Trance Pacified     |
+| - Dekan : Spd 5 -> 3 AP | HP 210/210 | SP +40 | Posture 105/1       |
+| - Spirits : Spd 2 -> 1 AP | Sorrow 10/130 | Trance Pacified         |
 +=====================================================================+
 ```
 
@@ -674,18 +746,19 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 
 ```text
 +=====================================================================+
-|     TACTICAL STAGE HUD: SPIRITUAL PACIFICATION — BATTLE TURN 05     |
+| TACTICAL STAGE HUD: SPIRITUAL PACIFICATION — BATTLE TURN 05         |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — TERMINAL STAGGER & SOOTHING BARRIER]        |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                         [SPIRITS]                       [MAJIN]     |
-|                         [SHIN]  [DEKAN]                             |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [SPIRITS]                       [MAJIN]                             |
+| [SHIN]  [DEKAN]                                                     |
 +---------------------------------------------------------------------+
-| - Node 04: Sleep-Spirits (TERMINAL STAGGER / SORROW 0/130 / PEACEFU |
+| - Node 04: Sleep-Spirits (TERMINAL STAGGER / SORROW 0/130 /         |
+|   PEACEFUL)                                                         |
 | - Node 04: Agent Shin (Final Verse Resonance Complete)              |
 | - Node 05: Attendant Dekan (Opening Bedrock Drain Wells)            |
 +---------------------------------------------------------------------+
-| - Spirits     : Spd 0 -> 0 AP | Sorrow 0/130 | Transmutation: 100%  |
+| - Spirits : Spd 0 -> 0 AP | Sorrow 0/130 | Transmutation: 100%      |
 +=====================================================================+
 ```
 
@@ -698,16 +771,17 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 
 ```text
 +=====================================================================+
-|     TACTICAL STAGE HUD: SPIRITUAL PACIFICATION — BATTLE TURN 06     |
+| TACTICAL STAGE HUD: SPIRITUAL PACIFICATION — BATTLE TURN 06         |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — DISSOLUTION & CLEAR WATER RECEPTION]        |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                         [WATER] [SHIN]  [DEKAN]         [MAJIN]     |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [WATER] [SHIN]  [DEKAN]         [MAJIN]                             |
 +---------------------------------------------------------------------+
-| - Node 04: Sleep-Spirits (Dissolved into Pure Living Crystalline Wa |
+| - Node 04: Sleep-Spirits (Dissolved into Pure Living Crystalline    |
+|   Water)                                                            |
 | - Node 05: Floor 2 Ballast Well (Absorbing Clean Hydrological Han)  |
 +---------------------------------------------------------------------+
-| - Spirits     : PACIFIED | +0.024 TONS REFINED HAN HARVESTED        |
+| - Spirits : PACIFIED | +0.024 TONS REFINED HAN HARVESTED            |
 +=====================================================================+
 ```
 
@@ -719,7 +793,69 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 
 ```text
 +=====================================================================+
-|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
+| PHASE 01 RESOLUTION (PHASE-END TICK)                                |
++---------------------------------------------------------------------+
+| 1. Environmental Check : Floor 2 Gallery acoustics clear and pure.  |
+| 2. Status Equilibrium : Trance fog dissolves; team SP at full       |
+| capacity.                                                           |
+| 3. Containment Check : Sleep-Spirits transformed into holy mineral  |
+| water.                                                              |
+| 4. OUTCOME : ZERO CONFLICT — HISTORIC LULLABY RESOLUTION.           |
++=====================================================================+
+```
+
+Two sleep-spirits manifest on Floor 2 during the Dusk Ordeal, radiating a heavy 95dB trance frequency down the gallery!
+
+Director Majin establishes GBS tactical parameters for melodic pacification:
+
+```text
++=====================================================================+
+| COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (SLEEPING CHOIR)         |
++---------------------------------------------------------------------+
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| POS : [SPIRIT-A][SPIRIT-B] [SHIN] [DEKAN] [MAJIN]                   |
+| DIST : Spirits at N02; Shin at N04 (Band 2); Dekan at N05 (Aegis).  |
++---------------------------------------------------------------------+
+| Agent Shin : Speed 6 -> 3 AP | HP: 135/135 | SP: +45                |
+| | Choral Staff                                                      |
+| Attendant Dekan : Speed 5 -> 3 AP | HP: 215/215 | SP: +50           |
+| | Maw's Aegis                                                       |
+| Sleep-Spirits(x2) : Speed 5 -> 3 AP | HP: 360 each | Trance Pulse   |
++=====================================================================+
+```
+
+###### Turn 01 Action Resolution Log (Floor 2 Gallery)
+- **Step 1: Floor 2 Echo-Core Resonance (Attendant Dekan)**:
+  * Dekan deploys *The Maw's Keep Bastion Ward*, projecting a soft acoustic dampening dome that prevents the trance pulses from escaping into clerk dormitories.
+- **Step 2: Movement & Action Point Spending**:
+  * Agent Shin (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to channel `[Choral Staff Melodic Communion: Sleep Under the Willow]`. Remaining 1 AP in Guard.
+  * Attendant Dekan (Speed 5 -> 3 AP) stands at Node 5, spending 2 AP to maintain *Maw's Aegis*.
+- **Step 3: Clash Resolution (Melodic Harmony)**:
+  * Sleep-Spirits emit `[Gentle Trance Pulse]` (Base 10 + 2 Coins = 14 Power).
+  * Agent Shin's `[Melodic Communion]` (Base 12 + 2 Coins = 16 Power).
+  * **Resolution**: Shin WINS THE CLASH (16 vs 14).
+    * Shin's vocal resonance matches the spirits' ancient cadence perfectly. The discordant trance melts into gentle sorrow, lowering their Sorrow Gauge by 35% and inflicting +28 Stagger!
+
+```text
++=====================================================================+
+| TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)                  |
++---------------------------------------------------------------------+
+| - Turn 02: Shin sings the first verse; Dekan shields acoustic       |
+| bounce; 60% Stagger 1.                                              |
+| - Turn 03: Posture broken; spirits lower arms in peaceful reverie;  |
+| Sorrow at 10%.                                                      |
+| - Turn 04: Spirits hum the Maw's lullaby; Shin matches pitch with   |
+| Choral Staff.                                                       |
+| - Turn 05: Dekan projects soothing barrier, nullifying trance       |
+| pressure.                                                           |
+| - Turn 06: Shin sings final verse; spirits bow and dissolve into    |
+| clear water.                                                        |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+| PHASE 01 RESOLUTION (PHASE-END TICK)                                |
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Floor 2 Gallery acoustics clear and pure.  |
 | 2. Status Equilibrium : Trance fog dissolves; team SP at full       |
@@ -735,23 +871,23 @@ Two sleep-spirits manifested on Floor 2 during the Dusk Ordeal. Instead of clash
 #### 6. End-of-Day Shift Evaluation Index
 
 ```text
-+==============================================+
-| END-OF-DAY PERFORMANCE EVALUATION: DAY 151   |
-+----------------------------------------------+
-| METRIC               | TARGET | REALIZED     |
-+----------------------------------------------+
-| Han Energy Harvested | 0.050t | 0.110 tons   |
-| Containment Breaches | 0 Max  | 0 Breaches   |
-| Personnel Casualties | 0 Dead | 0 Fatalities |
-| Meltdowns Cleared    | 6/6    | 100% Rate    |
-+----------------------------------------------+
-| SHIFT PERFORMANCE GRADE: GRADE S             |
-| REAGENTS ACCUMULATED: +35 RHR                |
-| AGENT ADVANCEMENT:                           |
-| - Agent Shin: +5 Clarity (Sanity Pool Up)    |
-| - Agent Bae: +5 Clarity (Sanity Pool Up)     |
-| - Agent Hong: +5 Composure (Work Success Up  |
-+==============================================+
++=====================================================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 151                          |
++---------------------------------------------------------------------+
+| METRIC               | TARGET | REALIZED                            |
++---------------------------------------------------------------------+
+| Han Energy Harvested | 0.050t | 0.110 tons                          |
+| Containment Breaches | 0 Max  | 0 Breaches                          |
+| Personnel Casualties | 0 Dead | 0 Fatalities                        |
+| Meltdowns Cleared    | 6/6    | 100% Rate                           |
++---------------------------------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S                                    |
+| REAGENTS ACCUMULATED: +35 RHR                                       |
+| AGENT ADVANCEMENT:                                                  |
+| - Agent Shin: +5 Clarity (Sanity Pool Up)                           |
+| - Agent Bae: +5 Clarity (Sanity Pool Up)                            |
+| - Agent Hong: +5 Composure (Work Success Up)                        |
++=====================================================================+
 ```
 
 #### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
@@ -799,38 +935,38 @@ Daily harvesting yields 0.111 tons of pure Han, pushing total cumulative reserve
 #### 1. Multi-Floor Deployment Phase (Floors 1–8)
 
 ```text
-+==============================================+
-| FLOOR DEPLOYMENT ROSTER — DAY 153 SHIFT      |
-+---------------------+--------+---------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
-+=====================+========+===============+
-| F1: Central Command | 14 Op  | Seiyon: Sync  |
-|                     |        | Directive     |
-+---------------------+--------+---------------+
-| F2: Containment     | 24 Op  | Dekan: Ward   |
-| Lead                |        | of the Maw    |
-+---------------------+--------+---------------+
-| F3: Archive Lead    | 12 Op  | Marjuk:       |
-|                     |        | Recall Stasis |
-+---------------------+--------+---------------+
-| F4: Research Lead   | 16 Op  | Ayshuk:       |
-|                     |        | Clarity       |
-|                     |        | Matrix        |
-+---------------------+--------+---------------+
-| F5: Border Control  | 18 Op  | Mellda: Iron  |
-|                     |        | Perimeter     |
-+---------------------+--------+---------------+
-| F6: Extraction Lead | 22 Op  | Zyrak: Forge  |
-|                     |        | Resonance     |
-+---------------------+--------+---------------+
-| F7: Outsider Relat. | 14 Op  | Ishall: Void  |
-|                     |        | Vigil         |
-+---------------------+--------+---------------+
-| F8: Deep Vaults     | 10 Op  | Xyan: Echo    |
-| Lead                |        | Watch         |
-+---------------------+--------+---------------+
-| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 130    |
-+==============================================+
++=====================================================================+
+| FLOOR DEPLOYMENT ROSTER — DAY 153 SHIFT                             |
++---------------------------------------------------------------------+
+| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
++=====================================================================+
+| F1: Central Command | 14 Op  | Seiyon: Sync                         |
+| |        | Directive                                                |
++---------------------------------------------------------------------+
+| F2: Containment     | 24 Op  | Dekan: Ward                          |
+| Lead                |        | of the Maw                           |
++---------------------------------------------------------------------+
+| F3: Archive Lead    | 12 Op  | Marjuk:                              |
+| |        | Recall Stasis                                            |
++---------------------------------------------------------------------+
+| F4: Research Lead   | 16 Op  | Ayshuk:                              |
+| |        | Clarity                                                  |
+| |        | Matrix                                                   |
++---------------------------------------------------------------------+
+| F5: Border Control  | 18 Op  | Mellda: Iron                         |
+| |        | Perimeter                                                |
++---------------------------------------------------------------------+
+| F6: Extraction Lead | 22 Op  | Zyrak: Forge                         |
+| |        | Resonance                                                |
++---------------------------------------------------------------------+
+| F7: Outsider Relat. | 14 Op  | Ishall: Void                         |
+| |        | Vigil                                                    |
++---------------------------------------------------------------------+
+| F8: Deep Vaults     | 10 Op  | Xyan: Echo                           |
+| Lead                |        | Watch                                |
++---------------------------------------------------------------------+
+| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 130                           |
++=====================================================================+
 ```
 
 Zyrak and Dekan oversee the acoustic synchronization between the Maw and the Three Birds. Frontline agents report feelings of immense lightness and clarity, with work success rates climbing to an unprecedented 99.8%.
@@ -838,36 +974,36 @@ Zyrak and Dekan oversee the acoustic synchronization between the Maw and the Thr
 #### 2. Acoustic Strain Meltdown Monitoring
 
 ```text
-+==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING: DAY 153 |
-+----------------------------------------------+
-| STRAIN LEVEL : LEVEL VI MELTDOWN             |
-| OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH   |
-| AFFECTED CELLS : SE-031, 032, 033, 036, 044, |
-|                  SE-061                      |
-+--------------------+----------+--------------+
-| CONTAINMENT TARGET | STRAIN   | STATUS       |
-+====================+==========+==============+
-| SE-C-IIIg-031      | 71.2%    | Harmonized   |
-| (Observing Bird)   |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-032      | 73.0%    | Rhythmic     |
-| (Weighting Bird)   |          | Pulse        |
-+--------------------+----------+--------------+
-| SE-C-IIIg-033      | 70.5%    | Baritone     |
-| (Guarding Bird)    |          | Wave         |
-+--------------------+----------+--------------+
-| SE-C-IIIb-036      | 79.1%    | Active       |
-| (Hourglass)        |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIb-044      | 81.4%    | Active       |
-| (Broken Clock)     |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIb-061      | 83.0%    | Active       |
-| (The Debtor)       |          |              |
-+--------------------+----------+--------------+
-| TACTICAL ACTION: TRIPLE-AVIAN CHORAL DRAIN   |
-+==============================================+
++=====================================================================+
+| ACOUSTIC STRAIN MELTDOWN MONITORING: DAY 153                        |
++---------------------------------------------------------------------+
+| STRAIN LEVEL : LEVEL VI MELTDOWN                                    |
+| OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH                          |
+| AFFECTED CELLS : SE-031, 032, 033, 036, 044,                        |
+| SE-061                                                              |
++---------------------------------------------------------------------+
+| CONTAINMENT TARGET | STRAIN   | STATUS                              |
++=====================================================================+
+| SE-C-IIIg-031      | 71.2%    | Harmonized                          |
+| (Observing Bird)   |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-032      | 73.0%    | Rhythmic                            |
+| (Weighting Bird)   |          | Pulse                               |
++---------------------------------------------------------------------+
+| SE-C-IIIg-033      | 70.5%    | Baritone                            |
+| (Guarding Bird)    |          | Wave                                |
++---------------------------------------------------------------------+
+| SE-C-IIIb-036      | 79.1%    | Active                              |
+| (Hourglass)        |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIb-044      | 81.4%    | Active                              |
+| (Broken Clock)     |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIb-061      | 83.0%    | Active                              |
+| (The Debtor)       |                                                |
++---------------------------------------------------------------------+
+| TACTICAL ACTION: TRIPLE-AVIAN CHORAL DRAIN                          |
++=====================================================================+
 ```
 
 Meltdown Level VI triggered across the Bird wing at 14:15. The three cells operated as a single musical instrument, bleeding off excess acoustic tension through song. The timers normalized within 11.5 seconds without alarm.
@@ -875,29 +1011,29 @@ Meltdown Level VI triggered across the Bird wing at 14:15. The three cells opera
 #### 3. Granular Work Type Management Table
 
 ```text
-+==============================================+
-| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 153  |
-+--------------------+--------+-------+--------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
-+====================+========+=======+========+
-| SE-031 (Small Bird)| Videre | -15%  | +0.02  |
-| Agent Han Grade 4  | Void   | CALM  | 27 OP  |
-+--------------------+--------+-------+--------+
-| SE-032 (Tall Bird) | Ferre  | -14%  | +0.02  |
-| Agent Song Grade 4 | Weight | CALM  | 28 OP  |
-+--------------------+--------+-------+--------+
-| SE-033 (Big Bird)  | Videre | -13%  | +0.02  |
-| Agent Hwang        | Void   | CALM  | 26 OP  |
-| (Grade IV)         |        |       |        |
-+--------------------+--------+-------+--------+
-| SE-036 (Hourglass) | Pugna  | -09%  | +0.02  |
-| Agent Kang Grade 4 | Grudge | STBL  | 24 OP  |
-+--------------------+--------+-------+--------+
-| SE-061 (Debtor)    | Ferre  | -08%  | +0.02  |
-| Agent Shin Grade 4 | Weight | STBL  | 23 OP  |
-+--------------------+--------+-------+--------+
-| DAILY EXTRACTION YIELD: +0.111 TONS PURE HAN |
-+==============================================+
++=====================================================================+
+| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 153                         |
++---------------------------------------------------------------------+
+| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
++=====================================================================+
+| SE-031 (Small Bird)| Videre | -15%  | +0.02                         |
+| Agent Han Grade 4  | Void   | CALM  | 27 OP                         |
++---------------------------------------------------------------------+
+| SE-032 (Tall Bird) | Ferre  | -14%  | +0.02                         |
+| Agent Song Grade 4 | Weight | CALM  | 28 OP                         |
++---------------------------------------------------------------------+
+| SE-033 (Big Bird)  | Videre | -13%  | +0.02                         |
+| Agent Hwang        | Void   | CALM  | 26 OP                         |
+| (Grade IV)         |        |                                       |
++---------------------------------------------------------------------+
+| SE-036 (Hourglass) | Pugna  | -09%  | +0.02                         |
+| Agent Kang Grade 4 | Grudge | STBL  | 24 OP                         |
++---------------------------------------------------------------------+
+| SE-061 (Debtor)    | Ferre  | -08%  | +0.02                         |
+| Agent Shin Grade 4 | Weight | STBL  | 23 OP                         |
++---------------------------------------------------------------------+
+| DAILY EXTRACTION YIELD: +0.111 TONS PURE HAN                        |
++=====================================================================+
 ```
 
 Agent Han performed *Viderehan* observation inside Chamber 031 (*The Observing Bird*). The bird opened all 144 eyes—not in menacing judgment, but in loving witness, bathing Han in warm golden light that drained 15% of the Sorrow Gauge and harvested 0.02 tons of radiant solar Han.
@@ -910,25 +1046,25 @@ Agent Han performed *Viderehan* observation inside Chamber 031 (*The Observing B
 #### 5. Ordeal Suppression Tactical Dossier
 
 ```text
-+==============================================+
-| TACTICAL DOSSIER: FOURTH WATCH ORDEAL        |
-+----------------------------------------------+
-| DESIGNATION : THE CHORAL HARMONY             |
-| CLASSIFICATION : PALE (CYAN) MIDNIGHT        |
-| INTRUSION POINT : FLOOR 2 BIRD ROTUNDA       |
-+----------------------------------------------+
-| HOSTILE PARAMETERS:                          |
-| - Entities: 1x Celestial Avian Silhouette    |
-| - Attack Affinity: Pale (Transmutative Light |
-| - Weakness Affinity: Balanced (All 4 Types)  |
-+----------------------------------------------+
-| ENGAGEMENT TELEMETRY:                        |
-| - Silhouette matched the Birds' singing      |
-| - Agent Han & Song stepped forward in harmon |
-| - Celestial light merged into facility condu |
-| - Clash Duration: 29.8 seconds               |
-| - Personnel Casualties: 0 Fatalities         |
-+==============================================+
++=====================================================================+
+| TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
++---------------------------------------------------------------------+
+| DESIGNATION : THE CHORAL HARMONY                                    |
+| CLASSIFICATION : PALE (CYAN) MIDNIGHT                               |
+| INTRUSION POINT : FLOOR 2 BIRD ROTUNDA                              |
++---------------------------------------------------------------------+
+| HOSTILE PARAMETERS:                                                 |
+| - Entities: 1x Celestial Avian Silhouette                           |
+| - Attack Affinity: Pale (Transmutative Light)                       |
+| - Weakness Affinity: Balanced (All 4 Types)                         |
++---------------------------------------------------------------------+
+| ENGAGEMENT TELEMETRY:                                               |
+| - Silhouette matched the Birds' singing                             |
+| - Agent Han & Song stepped forward in harmon                        |
+| - Celestial light merged into facility condu                        |
+| - Clash Duration: 29.8 seconds                                      |
+| - Personnel Casualties: 0 Fatalities                                |
++=====================================================================+
 ```
 
 A Midnight Ordeal manifests as a celestial avian silhouette in the central rotunda of Floor 2, shimmering with pure, transmutative Pale light!
@@ -937,10 +1073,10 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 
 ```text
 +=====================================================================+
-|     COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (CHORAL HARMONY)     |
+| COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (CHORAL HARMONY)         |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | POS : [AVIAN-SHADOW] [HAN] [SONG] [THREE-BIRDS] [DEKAN]             |
 | DIST : Shadow at N02; Han at N03 (Band 1); Song at N04 (Band 2);    |
 | Birds at N06.                                                       |
@@ -949,7 +1085,7 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 | Mantle                                                              |
 | Agent Song : Speed 6 -> 3 AP | HP: 140/140 | SP: +45 | Cherub's     |
 | Lyre                                                                |
-| Avian Silhouette : Speed 5 -> 3 AP | HP: 480/480 | Pale Light |     |
+| Avian Silhouette : Speed 5 -> 3 AP | HP: 480/480 | Pale Light       |
 | Midnight Core                                                       |
 +=====================================================================+
 ```
@@ -969,18 +1105,21 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 
 ```text
 +=====================================================================+
-|      TACTICAL STAGE HUD: CELESTIAL EQUILIBRIUM — BATTLE TURN 02     |
+| TACTICAL STAGE HUD: CELESTIAL EQUILIBRIUM — BATTLE TURN 02          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — FLOOR 2 BIRD ROTUNDA]                       |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [AVIAN]         [HAN]   [SONG]  [DEKAN]                         [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [AVIAN] [HAN] [SONG] [DEKAN] [MAJIN]                                |
 +---------------------------------------------------------------------+
-| - Node 01: Celestial Silhouette (Pale Resonance 54/140 / 60% Stagge |
-| - Node 03: Agent Han (Range Band 2 / Feather Mantle Vocal Resonance |
-| - Node 04: Agent Song (Range Band 2 / Cherub's Lyre Harmonic Chords |
+| - Node 01: Celestial Silhouette (Pale Resonance 54/140 / 60%        |
+|   Stagger)                                                          |
+| - Node 03: Agent Han (Range Band 2 / Feather Mantle Vocal           |
+|   Resonance)                                                        |
+| - Node 04: Agent Song (Range Band 2 / Cherub's Lyre Harmonic        |
+|   Chords)                                                           |
 | - Node 05: Attendant Dekan (Range Band 3 / Maw Grounding Pylons)    |
 +---------------------------------------------------------------------+
-| - Agent Han   : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65 |
+| - Agent Han : Spd 6 -> 3 AP | HP 125/125 | SP +35 | Posture 65/65   |
 | - Agent Song  : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60 |
 | - Silhouette  : Spd 4 -> 2 AP | Pale 54/140 [60% STAGGER TRIGGERED] |
 +=====================================================================+
@@ -998,19 +1137,20 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 
 ```text
 +=====================================================================+
-|      TACTICAL STAGE HUD: CELESTIAL EQUILIBRIUM — BATTLE TURN 03     |
+| TACTICAL STAGE HUD: CELESTIAL EQUILIBRIUM — BATTLE TURN 03          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — THREE BIRDS CHIME & LIGHT SOFTENING]        |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [AVIAN] [HAN]   [SONG]  [DEKAN]                         [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [AVIAN] [HAN]   [SONG]  [DEKAN]                         [MAJIN]     |
 +---------------------------------------------------------------------+
-| - Node 02: Celestial Silhouette (Wings Folded / Pale Light Warm Gol |
+| - Node 02: Celestial Silhouette (Wings Folded / Pale Light Warm     |
+|   Gold)                                                             |
 | - Node 03: Agent Han (Momentum Surge / High-Octave Flerehan Duet)   |
 | - Node 04: Agent Song (Lyre Strings Chiming in Perfect Fifths)      |
 +---------------------------------------------------------------------+
-| - Agent Han   : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +35 | Postu |
+| - Agent Han : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +35 | Postu   |
 | - Agent Song  : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60 |
-| - Silhouette  : Spd 3 -> 1 AP | Pale 26/140 | Sorrow Converting     |
+| - Silhouette : Spd 3 -> 1 AP | Pale 26/140 | Sorrow Converting      |
 +=====================================================================+
 ```
 
@@ -1024,18 +1164,19 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 
 ```text
 +=====================================================================+
-|      TACTICAL STAGE HUD: CELESTIAL EQUILIBRIUM — BATTLE TURN 04     |
+| TACTICAL STAGE HUD: CELESTIAL EQUILIBRIUM — BATTLE TURN 04          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — WING EXTENSION & GROUNDING FIELD]           |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                 [AVIAN] [HAN]   [SONG]  [DEKAN]                 [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [AVIAN] [HAN]   [SONG]  [DEKAN]                 [MAJIN]             |
 +---------------------------------------------------------------------+
 | - Node 03: Avian Silhouette (Extending Wings in Graceful Display)   |
-| - Node 04: Agent Han & Song (Singing Before-Time Forgiveness Refrai |
+| - Node 04: Agent Han & Song (Singing Before-Time Forgiveness        |
+|   Refrain)                                                          |
 | - Node 06: Attendant Dekan (Directional Guard Absorption Active)    |
 +---------------------------------------------------------------------+
-| - Agent Han   : Spd 8 -> 4 AP | HP 125/125 | SP +35 | Posture 65/65 |
-| - Silhouette  : Spd 2 -> 1 AP | Pale 10/140 | Resonance Stabilized  |
+| - Agent Han : Spd 8 -> 4 AP | HP 125/125 | SP +35 | Posture 65/65   |
+| - Silhouette : Spd 2 -> 1 AP | Pale 10/140 | Resonance Stabilized   |
 +=====================================================================+
 ```
 
@@ -1049,17 +1190,19 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 
 ```text
 +=====================================================================+
-|      TACTICAL STAGE HUD: CELESTIAL EQUILIBRIUM — BATTLE TURN 05     |
+| TACTICAL STAGE HUD: CELESTIAL EQUILIBRIUM — BATTLE TURN 05          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — TERMINAL STAGGER & FLEREHAN DUET]           |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                         [AVIAN]                                 [MA |
-|                         [HAN]   [SONG]  [DEKAN]                     |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [AVIAN]                                 [MAJIN]                     |
+| [HAN]   [SONG]  [DEKAN]                                             |
 +---------------------------------------------------------------------+
-| - Node 04: Silhouette (TERMINAL STAGGER / PALE 0/140 / PURE DAWN LI |
-| - Node 04: Agent Han & Song (Flerehan Duet Climaxes in Absolute Acc |
+| - Node 04: Silhouette (TERMINAL STAGGER / PALE 0/140 / PURE DAWN    |
+|   LIGHT)                                                            |
+| - Node 04: Agent Han & Song (Flerehan Duet Climaxes in Absolute     |
+|   Accord)                                                           |
 +---------------------------------------------------------------------+
-| - Silhouette  : Spd 0 -> 0 AP | Pale 0/140 | Transmutation: 100%    |
+| - Silhouette : Spd 0 -> 0 AP | Pale 0/140 | Transmutation: 100%     |
 +=====================================================================+
 ```
 
@@ -1072,16 +1215,16 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 
 ```text
 +=====================================================================+
-|      TACTICAL STAGE HUD: CELESTIAL EQUILIBRIUM — BATTLE TURN 06     |
+| TACTICAL STAGE HUD: CELESTIAL EQUILIBRIUM — BATTLE TURN 06          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — CELESTIAL MERGER & CONDUIT CHARGE]          |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                         [LIGHT] [HAN]   [SONG]  [DEKAN]         [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [LIGHT] [HAN]   [SONG]  [DEKAN]         [MAJIN]                     |
 +---------------------------------------------------------------------+
 | - Node 04: Celestial Light (Merging Gracefully into Accumulators)   |
 | - Node 05: Attendant Dekan (Logging Full Conduit Charging)          |
 +---------------------------------------------------------------------+
-| - Silhouette  : PACIFIED | +0.026 TONS REFINED HAN HARVESTED        |
+| - Silhouette : PACIFIED | +0.026 TONS REFINED HAN HARVESTED         |
 +=====================================================================+
 ```
 
@@ -1093,7 +1236,72 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 
 ```text
 +=====================================================================+
-|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
+| PHASE 01 RESOLUTION (PHASE-END TICK)                                |
++---------------------------------------------------------------------+
+| 1. Environmental Check : Bird Rotunda accumulators charged with     |
+| Pale energy.                                                        |
+| 2. Status Equilibrium : All agents healed; SP overflowing at        |
+| maximum +50.                                                        |
+| 3. Containment Check : Celestial Avian Silhouette peacefully        |
+| absorbed.                                                           |
+| 4. OUTCOME : HISTORIC MIDNIGHT HARMONY — ZERO CASUALTIES.           |
++=====================================================================+
+```
+
+A Midnight Ordeal manifests as a celestial avian silhouette in the central rotunda of Floor 2, shimmering with pure, transmutative Pale light!
+
+Director Majin establishes GBS tactical parameters in the Bird Rotunda:
+
+```text
++=====================================================================+
+| COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (CHORAL HARMONY)         |
++---------------------------------------------------------------------+
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| POS : [AVIAN-SHADOW] [HAN] [SONG] [THREE-BIRDS] [DEKAN]             |
+| DIST : Shadow at N02; Han at N03 (Band 1); Song at N04 (Band 2);    |
+| Birds at N06.                                                       |
++---------------------------------------------------------------------+
+| Agent Han : Speed 6 -> 3 AP | HP: 145/145 | SP: +50                 |
+| | Feather Mantle                                                    |
+| Agent Song : Speed 6 -> 3 AP | HP: 140/140 | SP: +45                |
+| | Cherub's Lyre                                                     |
+| Avian Silhouette : Speed 5 -> 3 AP | HP: 480/480 | Pale Light       |
+| | Midnight Core                                                     |
++=====================================================================+
+```
+
+###### Turn 01 Action Resolution Log (Floor 2 Bird Rotunda)
+- **Step 1: Floor 2 Echo-Core Resonance (Attendant Dekan)**:
+  * Dekan opens the rotunda acoustic channels, allowing the harmonic chime of the Three Birds to reverberate across Nodes 1 to 6.
+- **Step 2: Movement & Action Point Spending**:
+  * Agent Han (Speed 6 -> 3 AP) stands at Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Feather Mantle Avian Choral Calling]`. Remaining 1 AP held in Guard.
+  * Agent Song (Speed 6 -> 3 AP) advances to Node 4 (Close Range Band 2). Spends 2 AP to ready `[Cherub's Lyre Resonant Accord]`.
+- **Step 3: Clash Resolution (Avian Harmonic Equilibrium)**:
+  * Celestial Avian Silhouette radiates `[Transmutative Pale Dawn Aura]` (Base 11 + 2 Coins = 15 Power).
+  * Agent Han & Agent Song's `[Resonant Choral Accord]` (Base 13 + 2 Coins = 17 Power).
+  * **Resolution**: The Agents WIN THE CLASH (17 vs 15).
+    * Their synchronized vocal octave matches the silhouette's vibration, converting the lethal Pale sunder into golden life energy and inflicting +32 Stagger!
+
+```text
++=====================================================================+
+| TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)                  |
++---------------------------------------------------------------------+
+| - Turn 02: Han matches vocal octave; Song plays lyre; Shadow hits   |
+| 60% Stagger 1.                                                      |
+| - Turn 03: Posture broken; Three Birds chime in unison; Pale light  |
+| softens.                                                            |
+| - Turn 04: Silhouette spreads wings; Dekan channels Maw's grounding |
+| field.                                                              |
+| - Turn 05: Han & Song execute Flerehan duet, dissolving lingering   |
+| Before-Time grief.                                                  |
+| - Turn 06: Celestial light merges into conduits; accumulators       |
+| charge to max.                                                      |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+| PHASE 01 RESOLUTION (PHASE-END TICK)                                |
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Bird Rotunda accumulators charged with     |
 | Pale energy.                                                        |
@@ -1110,23 +1318,23 @@ A Midnight Ordeal manifested as a celestial avian silhouette in the central rotu
 #### 6. End-of-Day Shift Evaluation Index
 
 ```text
-+==============================================+
-| END-OF-DAY PERFORMANCE EVALUATION: DAY 153   |
-+----------------------------------------------+
-| METRIC               | TARGET | REALIZED     |
-+----------------------------------------------+
-| Han Energy Harvested | 0.050t | 0.111 tons   |
-| Containment Breaches | 0 Max  | 0 Breaches   |
-| Personnel Casualties | 0 Dead | 0 Fatalities |
-| Meltdowns Cleared    | 6/6    | 100% Rate    |
-+----------------------------------------------+
-| SHIFT PERFORMANCE GRADE: GRADE S             |
-| REAGENTS ACCUMULATED: +35 RHR                |
-| AGENT ADVANCEMENT:                           |
-| - Agent Han: +5 Clarity (Sanity Pool Up)     |
-| - Agent Song: +5 Composure (Work Success Up  |
-| - Agent Hwang: +5 Resilience (HP Pool Up)    |
-+==============================================+
++=====================================================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 153                          |
++---------------------------------------------------------------------+
+| METRIC               | TARGET | REALIZED                            |
++---------------------------------------------------------------------+
+| Han Energy Harvested | 0.050t | 0.111 tons                          |
+| Containment Breaches | 0 Max  | 0 Breaches                          |
+| Personnel Casualties | 0 Dead | 0 Fatalities                        |
+| Meltdowns Cleared    | 6/6    | 100% Rate                           |
++---------------------------------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S                                    |
+| REAGENTS ACCUMULATED: +35 RHR                                       |
+| AGENT ADVANCEMENT:                                                  |
+| - Agent Han: +5 Clarity (Sanity Pool Up)                            |
+| - Agent Song: +5 Composure (Work Success Up)                        |
+| - Agent Hwang: +5 Resilience (HP Pool Up)                           |
++=====================================================================+
 ```
 
 #### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
@@ -1182,38 +1390,38 @@ Daily extraction reaches an unprecedented peak of 0.112 tons of pure Han, elevat
 #### 1. Multi-Floor Deployment Phase (Floors 1–8)
 
 ```text
-+==============================================+
-| FLOOR DEPLOYMENT ROSTER — DAY 155 SHIFT      |
-+---------------------+--------+---------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
-+=====================+========+===============+
-| F1: Central Command | 14 Op  | Seiyon: Sync  |
-|                     |        | Directive     |
-+---------------------+--------+---------------+
-| F2: Containment     | 22 Op  | Dekan: Ward   |
-| Lead                |        | of the Maw    |
-+---------------------+--------+---------------+
-| F3: Archive Lead    | 12 Op  | Marjuk:       |
-|                     |        | Recall Stasis |
-+---------------------+--------+---------------+
-| F4: Research Lead   | 26 Op  | Ayshuk:       |
-|                     |        | Clarity       |
-|                     |        | Matrix        |
-+---------------------+--------+---------------+
-| F5: Border Control  | 18 Op  | Mellda: Iron  |
-|                     |        | Perimeter     |
-+---------------------+--------+---------------+
-| F6: Extraction Lead | 20 Op  | Zyrak: Forge  |
-|                     |        | Resonance     |
-+---------------------+--------+---------------+
-| F7: Outsider Relat. | 14 Op  | Ishall: Void  |
-|                     |        | Vigil         |
-+---------------------+--------+---------------+
-| F8: Deep Vaults     | 10 Op  | Xyan: Echo    |
-| Lead                |        | Watch         |
-+---------------------+--------+---------------+
-| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 136    |
-+==============================================+
++=====================================================================+
+| FLOOR DEPLOYMENT ROSTER — DAY 155 SHIFT                             |
++---------------------------------------------------------------------+
+| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
++=====================================================================+
+| F1: Central Command | 14 Op  | Seiyon: Sync                         |
+| |        | Directive                                                |
++---------------------------------------------------------------------+
+| F2: Containment     | 22 Op  | Dekan: Ward                          |
+| Lead                |        | of the Maw                           |
++---------------------------------------------------------------------+
+| F3: Archive Lead    | 12 Op  | Marjuk:                              |
+| |        | Recall Stasis                                            |
++---------------------------------------------------------------------+
+| F4: Research Lead   | 26 Op  | Ayshuk:                              |
+| |        | Clarity                                                  |
+| |        | Matrix                                                   |
++---------------------------------------------------------------------+
+| F5: Border Control  | 18 Op  | Mellda: Iron                         |
+| |        | Perimeter                                                |
++---------------------------------------------------------------------+
+| F6: Extraction Lead | 20 Op  | Zyrak: Forge                         |
+| |        | Resonance                                                |
++---------------------------------------------------------------------+
+| F7: Outsider Relat. | 14 Op  | Ishall: Void                         |
+| |        | Vigil                                                    |
++---------------------------------------------------------------------+
+| F8: Deep Vaults     | 10 Op  | Xyan: Echo                           |
+| Lead                |        | Watch                                |
++---------------------------------------------------------------------+
+| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 136                           |
++=====================================================================+
 ```
 
 Ayshuk's Attendant Aura permanently evolves into *Dawn of Hope*, radiating an omnidirectional 30% sanity restoration pulse that completely eliminates panic states across all eight floors.
@@ -1221,35 +1429,35 @@ Ayshuk's Attendant Aura permanently evolves into *Dawn of Hope*, radiating an om
 #### 2. Acoustic Strain Meltdown Monitoring
 
 ```text
-+==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 15 |
-+----------------------------------------------+
-| STRAIN LEVEL : LEVEL VI MELTDOWN             |
-| OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH   |
-| AFFECTED CELLS : SE-015, 041, 042, 055, 081, |
-+--------------------+----------+--------------+
-| CONTAINMENT TARGET | STRAIN   | STATUS       |
-+====================+==========+==============+
-| SE-C-IIIg-001      | 65.0%    | Dawn Sover   |
-| (The Bell)         |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-041      | 72.1%    | Harmonized   |
-| (Tear Droplet)     |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-042      | 74.5%    | Harmonized   |
-| (Fury Maiden)      |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-055      | 70.0%    | Harmonized   |
-| (Statue)           |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-081      | 71.4%    | Harmonized   |
-| (Hollow Saint)     |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-088      | 73.2%    | Harmonized   |
-| (Sorrow Fount)     |          |              |
-+--------------------+----------+--------------+
-| TACTICAL ACTION: SOVEREIGN DAWN HARMONIZATIO |
-+==============================================+
++=====================================================================+
+| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 15                        |
++---------------------------------------------------------------------+
+| STRAIN LEVEL : LEVEL VI MELTDOWN                                    |
+| OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH                          |
+| AFFECTED CELLS : SE-015, 041, 042, 055, 081,                        |
++---------------------------------------------------------------------+
+| CONTAINMENT TARGET | STRAIN   | STATUS                              |
++=====================================================================+
+| SE-C-IIIg-001      | 65.0%    | Dawn Sover                          |
+| (The Bell)         |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-041      | 72.1%    | Harmonized                          |
+| (Tear Droplet)     |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-042      | 74.5%    | Harmonized                          |
+| (Fury Maiden)      |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-055      | 70.0%    | Harmonized                          |
+| (Statue)           |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-081      | 71.4%    | Harmonized                          |
+| (Hollow Saint)     |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-088      | 73.2%    | Harmonized                          |
+| (Sorrow Fount)     |                                                |
++---------------------------------------------------------------------+
+| TACTICAL ACTION: SOVEREIGN DAWN HARMONIZATIO                        |
++=====================================================================+
 ```
 
 Meltdown Level VI triggered across six healing and devotional chambers at 13:50. The newly awakened Hand of Hope extended its glowing fingers, washing all six chambers in golden light and clearing all strain meters within 8.4 seconds.
@@ -1257,28 +1465,28 @@ Meltdown Level VI triggered across six healing and devotional chambers at 13:50.
 #### 3. Granular Work Type Management Table
 
 ```text
-+==============================================+
-| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 155  |
-+--------------------+--------+-------+--------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
-+====================+========+=======+========+
-| HT-V-HH-001 (Hand) | Flere  | -20%  | +0.03  |
-| Agent Yoon Grade 4 | Lament | CALM  | 30 OP  |
-+--------------------+--------+-------+--------+
-| SE-041 (Tears)     | Flere  | -14%  | +0.02  |
-| Agent Bae Grade 4  | Lament | CALM  | 27 OP  |
-+--------------------+--------+-------+--------+
-| SE-042 (Fury)      | Pugna  | -15%  | +0.02  |
-| Agent Kang Grade 4 | Grudge | CALM  | 28 OP  |
-+--------------------+--------+-------+--------+
-| SE-081 (Saint)     | Flere  | -16%  | +0.02  |
-| Agent Hong Grade 4 | Lament | CALM  | 29 OP  |
-+--------------------+--------+-------+--------+
-| SE-088 (Fountain)  | Flere  | -14%  | +0.02  |
-| Agent Kwak Grade 4 | Lament | CALM  | 26 OP  |
-+--------------------+--------+-------+--------+
-| DAILY EXTRACTION YIELD: +0.112 TONS PURE HAN |
-+==============================================+
++=====================================================================+
+| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 155                         |
++---------------------------------------------------------------------+
+| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
++=====================================================================+
+| HT-V-HH-001 (Hand) | Flere  | -20%  | +0.03                         |
+| Agent Yoon Grade 4 | Lament | CALM  | 30 OP                         |
++---------------------------------------------------------------------+
+| SE-041 (Tears)     | Flere  | -14%  | +0.02                         |
+| Agent Bae Grade 4  | Lament | CALM  | 27 OP                         |
++---------------------------------------------------------------------+
+| SE-042 (Fury)      | Pugna  | -15%  | +0.02                         |
+| Agent Kang Grade 4 | Grudge | CALM  | 28 OP                         |
++---------------------------------------------------------------------+
+| SE-081 (Saint)     | Flere  | -16%  | +0.02                         |
+| Agent Hong Grade 4 | Lament | CALM  | 29 OP                         |
++---------------------------------------------------------------------+
+| SE-088 (Fountain)  | Flere  | -14%  | +0.02                         |
+| Agent Kwak Grade 4 | Lament | CALM  | 26 OP                         |
++---------------------------------------------------------------------+
+| DAILY EXTRACTION YIELD: +0.112 TONS PURE HAN                        |
++=====================================================================+
 ```
 
 Agent Yoon entered Chamber 15, kneeling before the towering, glowing form of **The Hand of Hope**. The Hand gently touched Yoon's forehead, granting profound emotional enlightenment, draining 20% of the Sorrow Gauge and harvesting 0.03 tons of pure diamond-white Han.
@@ -1291,25 +1499,25 @@ Agent Yoon entered Chamber 15, kneeling before the towering, glowing form of **T
 #### 5. Ordeal Suppression Tactical Dossier
 
 ```text
-+==============================================+
-| TACTICAL DOSSIER: FOURTH WATCH ORDEAL        |
-+----------------------------------------------+
-| DESIGNATION : THE DAWN CORONA                |
-| CLASSIFICATION : PALE (CYAN) MIDNIGHT        |
-| INTRUSION POINT : FLOOR 4 RESEARCH HUB       |
-+----------------------------------------------+
-| HOSTILE PARAMETERS:                          |
-| - Entities: 1x Colossal Crown of Twelve Halo |
-| - Attack Affinity: Pale (Max HP Cleansing Pu |
-| - Weakness Affinity: Balanced (All 4 Types)  |
-+----------------------------------------------+
-| ENGAGEMENT TELEMETRY:                        |
-| - Crown hovered above the twelve apostles    |
-| - Ayshuk raised her hand, embracing the ligh |
-| - The twelve halos settled upon their heads  |
-| - Clash Duration: 24.2 seconds               |
-| - Personnel Casualties: 0 Fatalities         |
-+==============================================+
++=====================================================================+
+| TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
++---------------------------------------------------------------------+
+| DESIGNATION : THE DAWN CORONA                                       |
+| CLASSIFICATION : PALE (CYAN) MIDNIGHT                               |
+| INTRUSION POINT : FLOOR 4 RESEARCH HUB                              |
++---------------------------------------------------------------------+
+| HOSTILE PARAMETERS:                                                 |
+| - Entities: 1x Colossal Crown of Twelve Halo                        |
+| - Attack Affinity: Pale (Max HP Cleansing Pulse)                    |
+| - Weakness Affinity: Balanced (All 4 Types)                         |
++---------------------------------------------------------------------+
+| ENGAGEMENT TELEMETRY:                                               |
+| - Crown hovered above the twelve apostles                           |
+| - Ayshuk raised her hand, embracing the ligh                        |
+| - The twelve halos settled upon their heads                         |
+| - Clash Duration: 24.2 seconds                                      |
+| - Personnel Casualties: 0 Fatalities                                |
++=====================================================================+
 ```
 
 A Midnight Ordeal manifests as a crown of twelve glowing halos above the research hub, radiating high-order Pale cleansing pulses!
@@ -1318,18 +1526,18 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 
 ```text
 +=====================================================================+
-|      COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (DAWN CORONA)       |
+| COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (DAWN CORONA)            |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | POS : [TWELVE-HALOS] [AYSHUK][APOSTLES] [MAJIN]                     |
 | DIST : Halos at N02; Ayshuk at N03 (Band 1); Apostles at N04-N05.   |
 +---------------------------------------------------------------------+
-| Research Lead Ayshuk: Speed 6 -> 3 AP | HP: 200/200 | SP: +50 |     |
+| Research Lead Ayshuk: Speed 6 -> 3 AP | HP: 200/200 | SP: +50       |
 | Insight Forge                                                       |
-| Twelve Apostles : Speed 5 -> 3 AP | HP: 150/150 | SP: +45 |         |
+| Twelve Apostles : Speed 5 -> 3 AP | HP: 150/150 | SP: +45           |
 | Consecrated Vow                                                     |
-| Dawn Corona : Speed 5 -> 3 AP | HP: 500/500 | Sorrow: 20% |         |
+| Dawn Corona : Speed 5 -> 3 AP | HP: 500/500 | Sorrow: 20%           |
 | Cleansing                                                           |
 +=====================================================================+
 ```
@@ -1349,20 +1557,21 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 
 ```text
 +=====================================================================+
-|      TACTICAL STAGE HUD: CORONA STABILIZATION — BATTLE TURN 02      |
+| TACTICAL STAGE HUD: CORONA STABILIZATION — BATTLE TURN 02           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — FLOOR 4 RESEARCH HUB PLAZA]                 |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CORONA]        [AYSHUK][APOSTLES]                      [MAJIN]     |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CORONA] [AYSHUK][APOSTLES] [MAJIN]                                 |
 +---------------------------------------------------------------------+
 | - Node 01: Dawn Corona (Cleansing Radiation 56/150 / 60% Stagger)   |
-| - Node 03: Research Lead Ayshuk (Predictive HUD Projecting Trajecto |
+| - Node 03: Research Lead Ayshuk (Predictive HUD Projecting          |
+|   Trajectory)                                                       |
 | - Node 04: Twelve Apostles (Range Band 2 / Consecrated Vows Intact) |
 | - Node 08: Director Majin & Attendants (Observation Rail)           |
 +---------------------------------------------------------------------+
-| - Ayshuk      : Spd 6 -> 3 AP | HP 135/135 | SP +40 | Posture 75/75 |
-| - Apostles    : Spd 5 -> 3 AP | HP 150/150 | SP +40 | Posture 80/80 |
-| - Corona      : Spd 4 -> 2 AP | Pale 56/150 [60% STAGGER TRIGGERED] |
+| - Ayshuk : Spd 6 -> 3 AP | HP 135/135 | SP +40 | Posture 75/75      |
+| - Apostles : Spd 5 -> 3 AP | HP 150/150 | SP +40 | Posture 80/80    |
+| - Corona : Spd 4 -> 2 AP | Pale 56/150 [60% STAGGER TRIGGERED]      |
 +=====================================================================+
 ```
 
@@ -1378,19 +1587,19 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 
 ```text
 +=====================================================================+
-|      TACTICAL STAGE HUD: CORONA STABILIZATION — BATTLE TURN 03      |
+| TACTICAL STAGE HUD: CORONA STABILIZATION — BATTLE TURN 03           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — HALO DESCENT & SANITY TRANSFERENCE]         |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [CORONA][AYSHUK][APOSTLES]                      [MAJIN]     |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CORONA][AYSHUK][APOSTLES]                      [MAJIN]             |
 +---------------------------------------------------------------------+
 | - Node 02: Dawn Corona (Twelve Halos Hovering Above Operatives)     |
-| - Node 03: Research Lead Ayshuk (Momentum Surge / Alignment Vector  |
+| - Node 03: Research Lead Ayshuk (Momentum Surge / Alignment Vector) |
 | - Node 04: Apostles (Receiving Descending Halos Without Burn)       |
 +---------------------------------------------------------------------+
-| - Ayshuk      : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +40 | Postu |
-| - Apostles    : Spd 5 -> 3 AP | HP 150/150 | SP +40 | Posture 80/80 |
-| - Corona      : Spd 3 -> 1 AP | Pale 28/150 | Transmuting to Hope   |
+| - Ayshuk : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +40 | Postu      |
+| - Apostles : Spd 5 -> 3 AP | HP 150/150 | SP +40 | Posture 80/80    |
+| - Corona : Spd 3 -> 1 AP | Pale 28/150 | Transmuting to Hope        |
 +=====================================================================+
 ```
 
@@ -1404,18 +1613,19 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 
 ```text
 +=====================================================================+
-|      TACTICAL STAGE HUD: CORONA STABILIZATION — BATTLE TURN 04      |
+| TACTICAL STAGE HUD: CORONA STABILIZATION — BATTLE TURN 04           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — WARM CLEANSING PULSE & FIELD LOCK]          |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                 [CORONA][AYSHUK][APOSTLES]              [MAJIN]     |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CORONA][AYSHUK][APOSTLES]              [MAJIN]                     |
 +---------------------------------------------------------------------+
 | - Node 03: Corona (Pulsing Warm Pale Light / Purging Latent Stress) |
-| - Node 04: Research Lead Ayshuk (Directional Guard Absorption Activ |
+| - Node 04: Research Lead Ayshuk (Directional Guard Absorption       |
+|   Active)                                                           |
 | - Node 05: Apostles (Forming Circular Communion Ring)               |
 +---------------------------------------------------------------------+
-| - Ayshuk      : Spd 8 -> 4 AP | HP 135/135 | SP +40 | Posture 75/75 |
-| - Corona      : Spd 2 -> 1 AP | Pale 12/150 | Field Equilibrium     |
+| - Ayshuk : Spd 8 -> 4 AP | HP 135/135 | SP +40 | Posture 75/75      |
+| - Corona : Spd 2 -> 1 AP | Pale 12/150 | Field Equilibrium          |
 +=====================================================================+
 ```
 
@@ -1429,17 +1639,18 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 
 ```text
 +=====================================================================+
-|      TACTICAL STAGE HUD: CORONA STABILIZATION — BATTLE TURN 05      |
+| TACTICAL STAGE HUD: CORONA STABILIZATION — BATTLE TURN 05           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — TERMINAL STAGGER & VIDEREHAN COMMUNION]     |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                         [CORONA]                                [MA |
-|                         [AYSHUK][APOSTLES]                          |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CORONA]                                [MAJIN]                     |
+| [AYSHUK][APOSTLES]                                                  |
 +---------------------------------------------------------------------+
-| - Node 04: Dawn Corona (TERMINAL STAGGER / PALE 0/150 / 12 CROWNS R |
+| - Node 04: Dawn Corona (TERMINAL STAGGER / PALE 0/150 / 12 CROWNS   |
+|   RELEASED)                                                         |
 | - Node 04: Research Lead Ayshuk & Apostles (Communion Complete)     |
 +---------------------------------------------------------------------+
-| - Corona      : Spd 0 -> 0 AP | Pale 0/150 | Transmutation: 100%    |
+| - Corona : Spd 0 -> 0 AP | Pale 0/150 | Transmutation: 100%         |
 +=====================================================================+
 ```
 
@@ -1452,16 +1663,17 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 
 ```text
 +=====================================================================+
-|      TACTICAL STAGE HUD: CORONA STABILIZATION — BATTLE TURN 06      |
+| TACTICAL STAGE HUD: CORONA STABILIZATION — BATTLE TURN 06           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — RESEARCH HUB SANCTIFICATION]                |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                         [PEACE] [AYSHUK][APOSTLES]              [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [PEACE] [AYSHUK][APOSTLES]              [MAJIN]                     |
 +---------------------------------------------------------------------+
-| - Node 04: Plaza (Bathed in Radiant Warm Gold / Full Sanctification |
+| - Node 04: Plaza (Bathed in Radiant Warm Gold / Full                |
+|   Sanctification)                                                   |
 | - Node 05: Apostles (Crowned with Twelve Halos of Stable Hope)      |
 +---------------------------------------------------------------------+
-| - Corona      : INTEGRATED | +0.026 TONS REFINED HAN HARVESTED      |
+| - Corona : INTEGRATED | +0.026 TONS REFINED HAN HARVESTED           |
 +=====================================================================+
 ```
 
@@ -1473,14 +1685,77 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 
 ```text
 +=====================================================================+
-|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
+| PHASE 01 RESOLUTION (PHASE-END TICK)                                |
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Research Hub bathed in perpetual warm dawn |
 | light.                                                              |
 | 2. Status Equilibrium : All twelve apostles crowned; team SP at     |
 | absolute max.                                                       |
 | 3. Containment Check : Dawn Corona fully transmuted into blessing.  |
-| 4. OUTCOME             : HISTORIC TRANSCENDENCE — ZERO CASUALTIES.  |
+| 4. OUTCOME : HISTORIC TRANSCENDENCE — ZERO CASUALTIES.              |
++=====================================================================+
+```
+
+A Midnight Ordeal manifests as a crown of twelve glowing halos above the research hub, radiating high-order Pale cleansing pulses!
+
+Director Majin establishes GBS tactical parameters in the Insight Forge:
+
+```text
++=====================================================================+
+| COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (DAWN CORONA)            |
++---------------------------------------------------------------------+
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| POS : [TWELVE-HALOS] [AYSHUK][APOSTLES] [MAJIN]                     |
+| DIST : Halos at N02; Ayshuk at N03 (Band 1); Apostles at N04-N05.   |
++---------------------------------------------------------------------+
+| Research Lead Ayshuk: Speed 6 -> 3 AP | HP: 200/200 | SP: +50       |
+| | Insight Forge                                                     |
+| Twelve Apostles : Speed 5 -> 3 AP | HP: 150/150 | SP: +45           |
+| | Consecrated Vow                                                   |
+| Dawn Corona : Speed 5 -> 3 AP | HP: 500/500 | Sorrow: 20%           |
+| | Cleansing                                                         |
++=====================================================================+
+```
+
+###### Turn 01 Action Resolution Log (Floor 4 Research Hub)
+- **Step 1: Floor 4 Echo-Core Resonance (Research Lead Ayshuk)**:
+  * Ayshuk activates *The Predictive HUD*, analyzing the twelve halos' geometric trajectory and projecting golden descent angles for each apostle.
+- **Step 2: Movement & Action Point Spending**:
+  * Research Lead Ayshuk (Speed 6 -> 3 AP) steps into the center of Node 3 (Point-Blank Range Band 1). Spends 2 AP to declare `[Insight Forge Communion: Open Arms of Dawn]`. Remaining 1 AP in Guard.
+  * Twelve Apostles (Speed 5 -> 3 AP) kneel across Nodes 4 and 5 in open communion, spending 2 AP to channel `[Consecrated Vow Harmonic Alignment]`.
+- **Step 3: Clash Resolution (Cleansing Light Accord)**:
+  * Dawn Corona unleashes `[Cleansing Pale Descent]` (Base 12 + 2 Coins = 16 Power).
+  * Ayshuk's `[Open Arms of Dawn]` (Base 14 + 2 Coins = 18 Power).
+  * **Resolution**: Ayshuk WINS THE CLASH (18 vs 16).
+    * Ayshuk embraces the blinding light directly. Her calm analytical composure transmutes the scouring wave into gentle starlight, lowering its Sorrow Gauge to 0% and triggering peaceful Stagger!
+
+```text
++=====================================================================+
+| TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)                  |
++---------------------------------------------------------------------+
+| - Turn 02: Ayshuk raises arms; predictive HUD aligns angles; 60%    |
+| Stagger 1.                                                          |
+| - Turn 03: Posture broken; halos descend gently toward apostle      |
+| ranks.                                                              |
+| - Turn 04: Corona pulses warm Pale cleansing light; Ayshuk          |
+| stabilizes field.                                                   |
+| - Turn 05: Viderehan communion complete; twelve halos crown the     |
+| apostles.                                                           |
+| - Turn 06: Anomaly dissolves into radiant peace; research hub fully |
+| sanctified.                                                         |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+| PHASE 01 RESOLUTION (PHASE-END TICK)                                |
++---------------------------------------------------------------------+
+| 1. Environmental Check : Research Hub bathed in perpetual warm dawn |
+| light.                                                              |
+| 2. Status Equilibrium : All twelve apostles crowned; team SP at     |
+| absolute max.                                                       |
+| 3. Containment Check : Dawn Corona fully transmuted into blessing.  |
+| 4. OUTCOME : HISTORIC TRANSCENDENCE — ZERO CASUALTIES.              |
 +=====================================================================+
 ```
 
@@ -1489,23 +1764,23 @@ A Midnight Ordeal manifested as a crown of twelve glowing halos above the resear
 #### 6. End-of-Day Shift Evaluation Index
 
 ```text
-+==============================================+
-| END-OF-DAY PERFORMANCE EVALUATION: DAY 155   |
-+----------------------------------------------+
-| METRIC               | TARGET | REALIZED     |
-+----------------------------------------------+
-| Han Energy Harvested | 0.050t | 0.112 tons   |
-| Containment Breaches | 0 Max  | 0 Breaches   |
-| Personnel Casualties | 0 Dead | 0 Fatalities |
-| Meltdowns Cleared    | 6/6    | 100% Rate    |
-+----------------------------------------------+
-| SHIFT PERFORMANCE GRADE: GRADE S             |
-| REAGENTS ACCUMULATED: +40 RHR                |
-| AGENT ADVANCEMENT:                           |
-| - Agent Yoon: +5 Clarity (Sanity Pool Up)    |
-| - Agent Kang: +5 Resilience (HP Pool Up)     |
-| - Agent Hong: +5 Composure (Work Success Up  |
-+==============================================+
++=====================================================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 155                          |
++---------------------------------------------------------------------+
+| METRIC               | TARGET | REALIZED                            |
++---------------------------------------------------------------------+
+| Han Energy Harvested | 0.050t | 0.112 tons                          |
+| Containment Breaches | 0 Max  | 0 Breaches                          |
+| Personnel Casualties | 0 Dead | 0 Fatalities                        |
+| Meltdowns Cleared    | 6/6    | 100% Rate                           |
++---------------------------------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S                                    |
+| REAGENTS ACCUMULATED: +40 RHR                                       |
+| AGENT ADVANCEMENT:                                                  |
+| - Agent Yoon: +5 Clarity (Sanity Pool Up)                           |
+| - Agent Kang: +5 Resilience (HP Pool Up)                            |
+| - Agent Hong: +5 Composure (Work Success Up)                        |
++=====================================================================+
 ```
 
 #### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
@@ -1559,38 +1834,38 @@ Containment operations proceed with immaculate precision, harvesting 0.114 tons 
 #### 1. Multi-Floor Deployment Phase (Floors 1–8)
 
 ```text
-+==============================================+
-| FLOOR DEPLOYMENT ROSTER — DAY 157 SHIFT      |
-+---------------------+--------+---------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
-+=====================+========+===============+
-| F1: Central Command | 14 Op  | Seiyon: Sync  |
-|                     |        | Directive     |
-+---------------------+--------+---------------+
-| F2: Containment     | 24 Op  | Dekan: Ward   |
-| Lead                |        | of the Maw    |
-+---------------------+--------+---------------+
-| F3: Archive Lead    | 14 Op  | Marjuk:       |
-|                     |        | Recall Stasis |
-+---------------------+--------+---------------+
-| F4: Research Lead   | 22 Op  | Ayshuk:       |
-|                     |        | Clarity       |
-|                     |        | Matrix        |
-+---------------------+--------+---------------+
-| F5: Border Control  | 20 Op  | Mellda: Iron  |
-|                     |        | Perimeter     |
-+---------------------+--------+---------------+
-| F6: Extraction Lead | 22 Op  | Zyrak: Forge  |
-|                     |        | Resonance     |
-+---------------------+--------+---------------+
-| F7: Outsider Relat. | 14 Op  | Ishall: Void  |
-|                     |        | Vigil         |
-+---------------------+--------+---------------+
-| F8: Deep Vaults     | 10 Op  | Xyan: Echo    |
-| Lead                |        | Watch         |
-+---------------------+--------+---------------+
-| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 140    |
-+==============================================+
++=====================================================================+
+| FLOOR DEPLOYMENT ROSTER — DAY 157 SHIFT                             |
++---------------------------------------------------------------------+
+| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
++=====================================================================+
+| F1: Central Command | 14 Op  | Seiyon: Sync                         |
+| |        | Directive                                                |
++---------------------------------------------------------------------+
+| F2: Containment     | 24 Op  | Dekan: Ward                          |
+| Lead                |        | of the Maw                           |
++---------------------------------------------------------------------+
+| F3: Archive Lead    | 14 Op  | Marjuk:                              |
+| |        | Recall Stasis                                            |
++---------------------------------------------------------------------+
+| F4: Research Lead   | 22 Op  | Ayshuk:                              |
+| |        | Clarity                                                  |
+| |        | Matrix                                                   |
++---------------------------------------------------------------------+
+| F5: Border Control  | 20 Op  | Mellda: Iron                         |
+| |        | Perimeter                                                |
++---------------------------------------------------------------------+
+| F6: Extraction Lead | 22 Op  | Zyrak: Forge                         |
+| |        | Resonance                                                |
++---------------------------------------------------------------------+
+| F7: Outsider Relat. | 14 Op  | Ishall: Void                         |
+| |        | Vigil                                                    |
++---------------------------------------------------------------------+
+| F8: Deep Vaults     | 10 Op  | Xyan: Echo                           |
+| Lead                |        | Watch                                |
++---------------------------------------------------------------------+
+| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 140                           |
++=====================================================================+
 ```
 
 All 140 active containment personnel are placed on standby. The eight floor leads rehearse the primary valve-release sequence, ensuring that the 49.8-ton venting will execute without hydraulic back-surge.
@@ -1598,35 +1873,35 @@ All 140 active containment personnel are placed on standby. The eight floor lead
 #### 2. Acoustic Strain Meltdown Monitoring
 
 ```text
-+==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 15 |
-+----------------------------------------------+
-| STRAIN LEVEL : LEVEL VI MELTDOWN             |
-| OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH   |
-| AFFECTED CELLS : SE-001, 002, 005, 008, 010, |
-+--------------------+----------+--------------+
-| CONTAINMENT TARGET | STRAIN   | STATUS       |
-+====================+==========+==============+
-| SE-C-IIIg-001      | 68.0%    | Harmonized   |
-| (The Bell)         |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-002      | 71.2%    | Harmonized   |
-| (Colossus)         |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-005      | 64.5%    | Harmonized   |
-| (The Mother)       |          |              |
-+--------------------+----------+--------------+
-| SE-C-Ia-008        | 60.0%    | Clear Wate   |
-| (The Maw)          |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-010      | 72.1%    | Harmonized   |
-| (Convergence)      |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-081      | 69.4%    | Harmonized   |
-| (Hollow Saint)     |          |              |
-+--------------------+----------+--------------+
-| TACTICAL ACTION: PRE-DAWN RESONANCE CLEAR    |
-+==============================================+
++=====================================================================+
+| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 15                        |
++---------------------------------------------------------------------+
+| STRAIN LEVEL : LEVEL VI MELTDOWN                                    |
+| OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH                          |
+| AFFECTED CELLS : SE-001, 002, 005, 008, 010,                        |
++---------------------------------------------------------------------+
+| CONTAINMENT TARGET | STRAIN   | STATUS                              |
++=====================================================================+
+| SE-C-IIIg-001      | 68.0%    | Harmonized                          |
+| (The Bell)         |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-002      | 71.2%    | Harmonized                          |
+| (Colossus)         |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-005      | 64.5%    | Harmonized                          |
+| (The Mother)       |                                                |
++---------------------------------------------------------------------+
+| SE-C-Ia-008        | 60.0%    | Clear Wate                          |
+| (The Maw)          |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-010      | 72.1%    | Harmonized                          |
+| (Convergence)      |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-081      | 69.4%    | Harmonized                          |
+| (Hollow Saint)     |                                                |
++---------------------------------------------------------------------+
+| TACTICAL ACTION: PRE-DAWN RESONANCE CLEAR                           |
++=====================================================================+
 ```
 
 Meltdown Level VI triggered across the primary sovereign chambers at 14:00. The strain across all cells remained remarkably low, as the entities rested in serene, synchronized anticipation. Overload timers cleared within 9.2 seconds.
@@ -1634,29 +1909,29 @@ Meltdown Level VI triggered across the primary sovereign chambers at 14:00. The 
 #### 3. Granular Work Type Management Table
 
 ```text
-+==============================================+
-| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 157  |
-+--------------------+--------+-------+--------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
-+====================+========+=======+========+
-| SE-001 (Bell)      | Flere  | -15%  | +0.02  |
-| Agent Park Grade 4 | Lament | CALM  | 28 OP  |
-+--------------------+--------+-------+--------+
-| SE-002 (Colossus)  | Flere  | -14%  | +0.02  |
-| Agent Jang Grade 4 | Lament | CALM  | 27 OP  |
-+--------------------+--------+-------+--------+
-| SE-005 (Mother)    | Ferre  | -16%  | +0.02  |
-| Agent Kim Grade 4  | Weight | CALM  | 29 OP  |
-+--------------------+--------+-------+--------+
-| SE-008 (The Maw)   | Flere  | -18%  | +0.03  |
-| Agent Shin Grade 4 | Lament | CALM  | 30 OP  |
-+--------------------+--------+-------+--------+
-| SE-010             | Pugna  | -16%  | +0.02  |
-| (Convergenc)       |        |       |        |
-| Agent Kang Grade 4 | Grudge | CALM  | 30 OP  |
-+--------------------+--------+-------+--------+
-| DAILY EXTRACTION YIELD: +0.114 TONS PURE HAN |
-+==============================================+
++=====================================================================+
+| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 157                         |
++---------------------------------------------------------------------+
+| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
++=====================================================================+
+| SE-001 (Bell)      | Flere  | -15%  | +0.02                         |
+| Agent Park Grade 4 | Lament | CALM  | 28 OP                         |
++---------------------------------------------------------------------+
+| SE-002 (Colossus)  | Flere  | -14%  | +0.02                         |
+| Agent Jang Grade 4 | Lament | CALM  | 27 OP                         |
++---------------------------------------------------------------------+
+| SE-005 (Mother)    | Ferre  | -16%  | +0.02                         |
+| Agent Kim Grade 4  | Weight | CALM  | 29 OP                         |
++---------------------------------------------------------------------+
+| SE-008 (The Maw)   | Flere  | -18%  | +0.03                         |
+| Agent Shin Grade 4 | Lament | CALM  | 30 OP                         |
++---------------------------------------------------------------------+
+| SE-010             | Pugna  | -16%  | +0.02                         |
+| (Convergenc)       |        |                                       |
+| Agent Kang Grade 4 | Grudge | CALM  | 30 OP                         |
++---------------------------------------------------------------------+
+| DAILY EXTRACTION YIELD: +0.114 TONS PURE HAN                        |
++=====================================================================+
 ```
 
 Agent Shin performed the final scheduled *Flerehan* harvest from the Maw. The clear water pulsed with gentle indigo light, yielding 0.03 tons of diamond-facetted Han that radiated soft warmth.
@@ -1669,25 +1944,25 @@ Agent Shin performed the final scheduled *Flerehan* harvest from the Maw. The cl
 #### 5. Ordeal Suppression Tactical Dossier
 
 ```text
-+==============================================+
-| TACTICAL DOSSIER: FOURTH WATCH ORDEAL        |
-+----------------------------------------------+
-| DESIGNATION : THE GATHERING DAWN             |
-| CLASSIFICATION : PALE (CYAN) MIDNIGHT        |
-| INTRUSION POINT : FLOOR 1 RETROFIT VAULT     |
-+----------------------------------------------+
-| HOSTILE PARAMETERS:                          |
-| - Entities: 1x Luminous Shimmering Cloud     |
-| - Attack Affinity: Pale (Gentle Awakening Pu |
-| - Weakness Affinity: Balanced (All 4 Types)  |
-+----------------------------------------------+
-| ENGAGEMENT TELEMETRY:                        |
-| - Cloud settled over the twelve release valv |
-| - All 8 Leads channeled their Attendant Aura |
-| - Cloud condensed into liquid golden lubrica |
-| - Clash Duration: 22.4 seconds               |
-| - Personnel Casualties: 0 Fatalities         |
-+==============================================+
++=====================================================================+
+| TACTICAL DOSSIER: FOURTH WATCH ORDEAL                               |
++---------------------------------------------------------------------+
+| DESIGNATION : THE GATHERING DAWN                                    |
+| CLASSIFICATION : PALE (CYAN) MIDNIGHT                               |
+| INTRUSION POINT : FLOOR 1 RETROFIT VAULT                            |
++---------------------------------------------------------------------+
+| HOSTILE PARAMETERS:                                                 |
+| - Entities: 1x Luminous Shimmering Cloud                            |
+| - Attack Affinity: Pale (Gentle Awakening Pulse)                    |
+| - Weakness Affinity: Balanced (All 4 Types)                         |
++---------------------------------------------------------------------+
+| ENGAGEMENT TELEMETRY:                                               |
+| - Cloud settled over the twelve release valv                        |
+| - All 8 Leads channeled their Attendant Aura                        |
+| - Cloud condensed into liquid golden lubrica                        |
+| - Clash Duration: 22.4 seconds                                      |
+| - Personnel Casualties: 0 Fatalities                                |
++=====================================================================+
 ```
 
 A Midnight Ordeal manifests as a luminous cloud of Pale energy settling over the twelve release valves at the facility wellhead!
@@ -1696,10 +1971,10 @@ Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node g
 
 ```text
 +=====================================================================+
-|     COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (GATHERING DAWN)     |
+| COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (GATHERING DAWN)         |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | POS : [PALE-CLOUD] [LEADS-1-4] [LEADS-5-8] [VALVES]                 |
 | DIST : Cloud at N02; Leads 1-4 at N03; Leads 5-8 at N05; Valves at  |
 | N09.                                                                |
@@ -1726,15 +2001,17 @@ Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node g
 
 ```text
 +=====================================================================+
-|     TACTICAL STAGE HUD: PLANETARY CONDENSATION — BATTLE TURN 02     |
+| TACTICAL STAGE HUD: PLANETARY CONDENSATION — BATTLE TURN 02         |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — FLOOR 1 RETROFIT VAULT WELLHEAD]            |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CLOUD]         [LOWER-LEADS]   [UPPER-LEADS]                   [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CLOUD] [LOWER-LEADS] [UPPER-LEADS] [MAJIN]                         |
 +---------------------------------------------------------------------+
-| - Node 01: Gathering Dawn Cloud (Atmospheric Pale 62/160 / 60% Stag |
-| - Node 03: Lower Leads (Majin, Seiyon, Dekan, Zyrak / Kinetic Cruci |
-| - Node 05: Upper Leads (Ayshuk, Mellda, Marjuk, Ishall / Condenser  |
+| - Node 01: Gathering Dawn Cloud (Atmospheric Pale 62/160 / 60%      |
+|   Stagger)                                                          |
+| - Node 03: Lower Leads (Majin, Seiyon, Dekan, Zyrak / Kinetic       |
+|   Crucible)                                                         |
+| - Node 05: Upper Leads (Ayshuk, Mellda, Marjuk, Ishall / Condenser) |
 | - Node 08: Twelve Main Release Valves (Primed for Hydraulic Stroke) |
 +---------------------------------------------------------------------+
 | - Lower Leads : Spd 6 -> 3 AP | HP 200/200 | SP +40 | Posture 100/1 |
@@ -1755,19 +2032,22 @@ Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node g
 
 ```text
 +=====================================================================+
-|     TACTICAL STAGE HUD: PLANETARY CONDENSATION — BATTLE TURN 03     |
+| TACTICAL STAGE HUD: PLANETARY CONDENSATION — BATTLE TURN 03         |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — LIQUEFACTION & GOLDEN FLUID GENESIS]        |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [LIQUID][LOWER-LEADS]   [UPPER-LEADS]                   [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [LIQUID][LOWER-LEADS]   [UPPER-LEADS]                   [MAJIN]     |
 +---------------------------------------------------------------------+
-| - Node 02: Dawn Vapor (Liquefying into Dense Golden Fluid / Pale 32 |
-| - Node 03: Lower Leads (Momentum Surge / Channelling Pneumatic Flow |
-| - Node 05: Upper Leads (Stabilizing Viscosity Gradient Across Valve |
+| - Node 02: Dawn Vapor (Liquefying into Dense Golden Fluid / Pale    |
+|   32/160)                                                           |
+| - Node 03: Lower Leads (Momentum Surge / Channelling Pneumatic      |
+|   Flow)                                                             |
+| - Node 05: Upper Leads (Stabilizing Viscosity Gradient Across       |
+|   Valves)                                                           |
 +---------------------------------------------------------------------+
 | - Lower Leads : Spd 8 -> 4 AP [SURGE] | HP 200/200 | SP +40 | Postu |
 | - Upper Leads : Spd 6 -> 3 AP | HP 180/180 | SP +40 | Posture 90/90 |
-| - Dawn Cloud  : Spd 3 -> 1 AP | Pale 32/160 | Liquefaction: 70%     |
+| - Dawn Cloud : Spd 3 -> 1 AP | Pale 32/160 | Liquefaction: 70%      |
 +=====================================================================+
 ```
 
@@ -1781,18 +2061,21 @@ Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node g
 
 ```text
 +=====================================================================+
-|     TACTICAL STAGE HUD: PLANETARY CONDENSATION — BATTLE TURN 04     |
+| TACTICAL STAGE HUD: PLANETARY CONDENSATION — BATTLE TURN 04         |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — VALVE BLANKETING & ZERO FRICTION]           |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                 [LUBRICANT]     [LEADS]                 [VALVES][MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [LUBRICANT]     [LEADS]                 [VALVES][MAJIN]             |
 +---------------------------------------------------------------------+
-| - Node 03: Golden Fluid (Blanketing the 12 Hydraulic Piston Sleeves |
-| - Node 05: The Eight Attendants (Unified Directional Guard Absorpti |
-| - Node 08: Twelve Release Valves (Friction Coefficient Dropped to 0 |
+| - Node 03: Golden Fluid (Blanketing the 12 Hydraulic Piston         |
+|   Sleeves)                                                          |
+| - Node 05: The Eight Attendants (Unified Directional Guard          |
+|   Absorption)                                                       |
+| - Node 08: Twelve Release Valves (Friction Coefficient Dropped to   |
+|   0.0)                                                              |
 +---------------------------------------------------------------------+
 | - The 8 Leads : Spd 8 -> 4 AP | HP 200/200 | SP +40 | Posture 100/1 |
-| - Dawn Cloud  : Spd 2 -> 1 AP | Pale 14/160 | Liquefaction: 90%     |
+| - Dawn Cloud : Spd 2 -> 1 AP | Pale 14/160 | Liquefaction: 90%      |
 +=====================================================================+
 ```
 
@@ -1806,17 +2089,19 @@ Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node g
 
 ```text
 +=====================================================================+
-|     TACTICAL STAGE HUD: PLANETARY CONDENSATION — BATTLE TURN 05     |
+| TACTICAL STAGE HUD: PLANETARY CONDENSATION — BATTLE TURN 05         |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — TERMINAL STAGGER & PNEUMATIC LOCK]          |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                                 [LEADS]                 [VALVES][MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [LEADS]                 [VALVES][MAJIN]                             |
 +---------------------------------------------------------------------+
-| - Node 05: Dawn Cloud (TERMINAL STAGGER / PALE 0/160 / FULL CONDENS |
+| - Node 05: Dawn Cloud (TERMINAL STAGGER / PALE 0/160 / FULL         |
+|   CONDENSED)                                                        |
 | - Node 05: Zyrak & Dekan (Aligning High-Pressure Hydraulic Lines)   |
-| - Node 08: Twelve Valves (Completely Primed for Day 160 Dawn Releas |
+| - Node 08: Twelve Valves (Completely Primed for Day 160 Dawn        |
+|   Release)                                                          |
 +---------------------------------------------------------------------+
-| - Dawn Cloud  : Spd 0 -> 0 AP | Pale 0/160 | Condensation: 100%     |
+| - Dawn Cloud : Spd 0 -> 0 AP | Pale 0/160 | Condensation: 100%      |
 +=====================================================================+
 ```
 
@@ -1829,14 +2114,16 @@ Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node g
 
 ```text
 +=====================================================================+
-|     TACTICAL STAGE HUD: PLANETARY CONDENSATION — BATTLE TURN 06     |
+| TACTICAL STAGE HUD: PLANETARY CONDENSATION — BATTLE TURN 06         |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — FINAL CONDENSATION & PRIMING COMPLETE]      |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                                 [THE EIGHT ATTENDANTS]  [READY] [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [THE EIGHT ATTENDANTS]  [READY] [MAJIN]                             |
 +---------------------------------------------------------------------+
-| - Node 06: The Eight Attendants (All Systems Locked and In Golden P |
-| - Node 08: Twelve Release Valves (Zero Resistance / Primed for Cycl |
+| - Node 06: The Eight Attendants (All Systems Locked and In Golden   |
+|   Posture)                                                          |
+| - Node 08: Twelve Release Valves (Zero Resistance / Primed for      |
+|   Cycle 1)                                                          |
 +---------------------------------------------------------------------+
 | - Condensation: COMPLETE | +0.028 TONS REFINED HAN HARVESTED        |
 +=====================================================================+
@@ -1850,7 +2137,68 @@ Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node g
 
 ```text
 +=====================================================================+
-|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
+| PHASE 01 RESOLUTION (PHASE-END TICK)                                |
++---------------------------------------------------------------------+
+| 1. Environmental Check : All 12 release valves coated in            |
+| friction-free gold.                                                 |
+| 2. Status Equilibrium : Atmospheric pressure at absolute optimum.   |
+| 3. Containment Check : Sovereign Pale energy converted to valve     |
+| lubricant.                                                          |
+| 4. OUTCOME : HISTORIC TRANSCENDENCE — READY FOR DAY 160 RELEASE.    |
++=====================================================================+
+```
+
+A Midnight Ordeal manifests as a luminous cloud of Pale energy settling over the twelve release valves at the facility wellhead!
+
+Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node grid:
+
+```text
++=====================================================================+
+| COMBAT WORK HUD: PHASE 01 — BATTLE TURN 01 (GATHERING DAWN)         |
++---------------------------------------------------------------------+
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| POS : [PALE-CLOUD] [LEADS-1-4] [LEADS-5-8] [VALVES]                 |
+| DIST : Cloud at N02; Leads 1-4 at N03; Leads 5-8 at N05; Valves at  |
+| N09.                                                                |
++---------------------------------------------------------------------+
+| Eight Attendants : Speed 6 -> 3 AP | Team Synergy                   |
+| | Resonance Overdrive                                               |
+| Gathering Dawn Cloud: Speed 5 -> 3 AP | HP: 600/600                 |
+| | Sovereign Pale Pulse                                              |
++=====================================================================+
+```
+
+###### Turn 01 Action Resolution Log (Floor 1 Retrofit Vault Wellhead)
+- **Step 1: Universal Echo-Core Resonance (The Eight Attendants)**:
+  * Majin, Seiyon, Dekan, Zyrak, Ayshuk, Mellda, Marjuk, and Ishall join their department auras across Nodes 3 to 6, creating an absolute unified field.
+- **Step 2: Movement & Action Point Spending**:
+  * Lower Floor Leads (Nodes 3–4) spend 2 AP to maintain *The Kinetic and Acoustic Crucible*.
+  * Upper Floor Leads (Nodes 5–6) spend 2 AP to channel *The Temporal and Archive Condensation Array*.
+- **Step 3: Clash Resolution (The Eightfold Resonance)**:
+  * Gathering Dawn Cloud pulses `[Primordial Awakening Wave]` (Base 13 + 2 Coins = 17 Power).
+  * The Eight Leads' `[Unified Attendant Aura]` (Base 15 + 2 Coins = 19 Power).
+  * **Resolution**: The Attendants WIN THE CLASH (19 vs 17).
+    * The combined force of the eight department auras condenses the gaseous Pale anomaly into a thick, glowing golden fluid, coating the pistons of the twelve release valves!
+
+```text
++=====================================================================+
+| TURNS 02 THROUGH 06 PROGRESSION (PHASE 01 SUMMARY)                  |
++---------------------------------------------------------------------+
+| - Turn 02: All 8 Leads unify auras; cloud condenses; 60% Stagger 1. |
+| - Turn 03: Posture broken; Pale vapor liquefies into radiant golden |
+| fluid.                                                              |
+| - Turn 04: Cloud blankets the twelve release valves without         |
+| friction.                                                           |
+| - Turn 05: Zyrak & Dekan channel pneumatic conduits; pistons        |
+| lubricated.                                                         |
+| - Turn 06: Final condensation complete; valves primed for Day 160   |
+| release.                                                            |
++=====================================================================+
+```
+
+```text
++=====================================================================+
+| PHASE 01 RESOLUTION (PHASE-END TICK)                                |
 +---------------------------------------------------------------------+
 | 1. Environmental Check : All 12 release valves coated in            |
 | friction-free gold.                                                 |
@@ -1866,23 +2214,23 @@ A Midnight Ordeal manifested as a luminous cloud of Pale energy that settled ove
 #### 6. End-of-Day Shift Evaluation Index
 
 ```text
-+==============================================+
-| END-OF-DAY PERFORMANCE EVALUATION: DAY 157   |
-+----------------------------------------------+
-| METRIC               | TARGET | REALIZED     |
-+----------------------------------------------+
-| Han Energy Harvested | 0.050t | 0.114 tons   |
-| Containment Breaches | 0 Max  | 0 Breaches   |
-| Personnel Casualties | 0 Dead | 0 Fatalities |
-| Meltdowns Cleared    | 6/6    | 100% Rate    |
-+----------------------------------------------+
-| SHIFT PERFORMANCE GRADE: GRADE S             |
-| REAGENTS ACCUMULATED: +40 RHR                |
-| AGENT ADVANCEMENT:                           |
-| - Agent Shin: +5 Clarity (Sanity Pool Up)    |
-| - Agent Kang: +5 Resilience (HP Pool Up)     |
-| - Agent Kim: +5 Resilience (HP Pool Up)      |
-+==============================================+
++=====================================================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 157                          |
++---------------------------------------------------------------------+
+| METRIC               | TARGET | REALIZED                            |
++---------------------------------------------------------------------+
+| Han Energy Harvested | 0.050t | 0.114 tons                          |
+| Containment Breaches | 0 Max  | 0 Breaches                          |
+| Personnel Casualties | 0 Dead | 0 Fatalities                        |
+| Meltdowns Cleared    | 6/6    | 100% Rate                           |
++---------------------------------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S                                    |
+| REAGENTS ACCUMULATED: +40 RHR                                       |
+| AGENT ADVANCEMENT:                                                  |
+| - Agent Shin: +5 Clarity (Sanity Pool Up)                           |
+| - Agent Kang: +5 Resilience (HP Pool Up)                            |
+| - Agent Kim: +5 Resilience (HP Pool Up)                             |
++=====================================================================+
 ```
 
 #### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
@@ -1945,38 +2293,38 @@ Across twelve square kilometers of Somnarak's deepest wound, three hundred thous
 #### 1. Multi-Floor Deployment Phase (Floors 1–8)
 
 ```text
-+==============================================+
-| FLOOR DEPLOYMENT ROSTER — DAY 160 SHIFT      |
-+---------------------+--------+---------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
-+=====================+========+===============+
-| F1: Central Command | 14 Op  | Seiyon: Sync  |
-|                     |        | Directive     |
-+---------------------+--------+---------------+
-| F2: Containment     | 24 Op  | Dekan: Ward   |
-| Lead                |        | of the Maw    |
-+---------------------+--------+---------------+
-| F3: Archive Lead    | 14 Op  | Marjuk:       |
-|                     |        | Recall Stasis |
-+---------------------+--------+---------------+
-| F4: Research Lead   | 26 Op  | Ayshuk:       |
-|                     |        | Clarity       |
-|                     |        | Matrix        |
-+---------------------+--------+---------------+
-| F5: Border Control  | 22 Op  | Mellda: Iron  |
-|                     |        | Perimeter     |
-+---------------------+--------+---------------+
-| F6: Extraction Lead | 24 Op  | Zyrak: Forge  |
-|                     |        | Resonance     |
-+---------------------+--------+---------------+
-| F7: Outsider Relat. | 14 Op  | Ishall: Void  |
-|                     |        | Vigil         |
-+---------------------+--------+---------------+
-| F8: Deep Vaults     | 12 Op  | Xyan: Echo    |
-| Lead                |        | Watch         |
-+---------------------+--------+---------------+
-| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 150    |
-+==============================================+
++=====================================================================+
+| FLOOR DEPLOYMENT ROSTER — DAY 160 SHIFT                             |
++---------------------------------------------------------------------+
+| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
++=====================================================================+
+| F1: Central Command | 14 Op  | Seiyon: Sync                         |
+| |        | Directive                                                |
++---------------------------------------------------------------------+
+| F2: Containment     | 24 Op  | Dekan: Ward                          |
+| Lead                |        | of the Maw                           |
++---------------------------------------------------------------------+
+| F3: Archive Lead    | 14 Op  | Marjuk:                              |
+| |        | Recall Stasis                                            |
++---------------------------------------------------------------------+
+| F4: Research Lead   | 26 Op  | Ayshuk:                              |
+| |        | Clarity                                                  |
+| |        | Matrix                                                   |
++---------------------------------------------------------------------+
+| F5: Border Control  | 22 Op  | Mellda: Iron                         |
+| |        | Perimeter                                                |
++---------------------------------------------------------------------+
+| F6: Extraction Lead | 24 Op  | Zyrak: Forge                         |
+| |        | Resonance                                                |
++---------------------------------------------------------------------+
+| F7: Outsider Relat. | 14 Op  | Ishall: Void                         |
+| |        | Vigil                                                    |
++---------------------------------------------------------------------+
+| F8: Deep Vaults     | 12 Op  | Xyan: Echo                           |
+| Lead                |        | Watch                                |
++---------------------------------------------------------------------+
+| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 150                           |
++=====================================================================+
 ```
 
 All 150 facility operatives stand in synchronized formation along the central spire galleries. The eight floor leads project a unified, golden Attendant Aura that spans the entire vertical height of the facility.
@@ -1984,35 +2332,35 @@ All 150 facility operatives stand in synchronized formation along the central sp
 #### 2. Acoustic Strain Meltdown Monitoring
 
 ```text
-+==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 16 |
-+----------------------------------------------+
-| STRAIN LEVEL : DAY 160 CRITICAL VENTING      |
-| OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH   |
-| AFFECTED CELLS : SE-005, 014, 025, 031, 044  |
-+--------------------+----------+--------------+
-| CONTAINMENT TARGET | STRAIN   | STATUS       |
-+====================+==========+==============+
-| SE-C-IIIg-001      | 00.0%    | Vented 49.8t |
-| (The Bell)         |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-001      | 00.0%    | Active       |
-| (The Bell)         |          |              |
-+--------------------+----------+--------------+
-| SE-C-Ia-008        | 00.0%    | Ascending    |
-| (The Maw)          |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-001      | 00.0%    | Harmonious   |
-| (The Bell)         |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-010      | 00.0%    | Harmonious   |
-| (Convergence)      |          |              |
-+--------------------+----------+--------------+
-| ZONE B             | 100%     | Saturated    |
-| (Water Table)      |          |              |
-+--------------------+----------+--------------+
-| TACTICAL ACTION: FULL PLANETARY VENTING      |
-+==============================================+
++=====================================================================+
+| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 16                        |
++---------------------------------------------------------------------+
+| STRAIN LEVEL : DAY 160 CRITICAL VENTING                             |
+| OVERLOAD TIMER : 45.0 SECONDS UNTIL BREACH                          |
+| AFFECTED CELLS : SE-005, 014, 025, 031, 044                         |
++---------------------------------------------------------------------+
+| CONTAINMENT TARGET | STRAIN   | STATUS                              |
++=====================================================================+
+| SE-C-IIIg-001      | 00.0%    | Vented 49.8t                        |
+| (The Bell)         |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-001      | 00.0%    | Active                              |
+| (The Bell)         |                                                |
++---------------------------------------------------------------------+
+| SE-C-Ia-008        | 00.0%    | Ascending                           |
+| (The Maw)          |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-001      | 00.0%    | Harmonious                          |
+| (The Bell)         |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-010      | 00.0%    | Harmonious                          |
+| (Convergence)      |                                                |
++---------------------------------------------------------------------+
+| ZONE B             | 100%     | Saturated                           |
+| (Water Table)      |                                                |
++---------------------------------------------------------------------+
+| TACTICAL ACTION: FULL PLANETARY VENTING                             |
++=====================================================================+
 ```
 
 Every containment strain meter across the entire facility drops to absolute zero. The release of the 49.8 tons eliminates all acoustic tension within the bedrock, creating a localized field of perfect emotional equilibrium.
@@ -2020,29 +2368,29 @@ Every containment strain meter across the entire facility drops to absolute zero
 #### 3. Granular Work Type Management Table
 
 ```text
-+==============================================+
-| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 160  |
-+--------------------+--------+-------+--------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
-+====================+========+=======+========+
-| AY-001 (Venting)   | Flere  | -100% | VENT   |
-| Director Majin     | Trans  | DAWN  | 49.8t  |
-+--------------------+--------+-------+--------+
-| HT-V-HH-001 (Hand) | Flere  | -100% | HOPE   |
-| Lead Ayshuk        | Trans  | DAWN  | SOVRN  |
-+--------------------+--------+-------+--------+
-| SE-008 (The Maw)   | Flere  | -100% | PEACE  |
-| Lead Dekan         | Trans  | DAWN  | REST   |
-+--------------------+--------+-------+--------+
-| SE-010             | Pugna  | -100% | UNITY  |
-| (Convergence)      |        |       |        |
-| Lead Zyrak         | Trans  | DAWN  | FORGE  |
-+--------------------+--------+-------+--------+
-| ZONE B WATERTABLE  | Videre | -100% | RAIN   |
-| Lead Mellda        | Trans  | DAWN  | BLOOM  |
-+--------------------+--------+-------+--------+
-| DAILY EXTRACTION YIELD: +0.078 TONS PURE HAN |
-+==============================================+
++=====================================================================+
+| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 160                         |
++---------------------------------------------------------------------+
+| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
++=====================================================================+
+| AY-001 (Venting)   | Flere  | -100% | VENT                          |
+| Director Majin     | Trans  | DAWN  | 49.8t                         |
++---------------------------------------------------------------------+
+| HT-V-HH-001 (Hand) | Flere  | -100% | HOPE                          |
+| Lead Ayshuk        | Trans  | DAWN  | SOVRN                         |
++---------------------------------------------------------------------+
+| SE-008 (The Maw)   | Flere  | -100% | PEACE                         |
+| Lead Dekan         | Trans  | DAWN  | REST                          |
++---------------------------------------------------------------------+
+| SE-010             | Pugna  | -100% | UNITY                         |
+| (Convergence)      |        |                                       |
+| Lead Zyrak         | Trans  | DAWN  | FORGE                         |
++---------------------------------------------------------------------+
+| ZONE B WATERTABLE  | Videre | -100% | RAIN                          |
+| Lead Mellda        | Trans  | DAWN  | BLOOM                         |
++---------------------------------------------------------------------+
+| DAILY EXTRACTION YIELD: +0.078 TONS PURE HAN                        |
++=====================================================================+
 ```
 
 The eight floor leads execute the grand alchemical transmutation. Majin channels the primary valve controls, venting the 49.8 tons through the Weeping River, while Ayshuk, Dekan, Zyrak, and Mellda guide the emotional frequencies across the city's foundations.
@@ -2055,25 +2403,25 @@ The eight floor leads execute the grand alchemical transmutation. Majin channels
 #### 5. Ordeal Suppression Tactical Dossier
 
 ```text
-+==============================================+
-| TACTICAL DOSSIER: THE APOTHEOSIS OF DAWN     |
-+----------------------------------------------+
-| DESIGNATION : THE DAWN OF CYCLE 1,778        |
-| CLASSIFICATION : SOVEREIGN TRANSMUTATION     |
-| INTRUSION POINT : PLANETARY STRATOSPHERE     |
-+----------------------------------------------+
-| HOSTILE PARAMETERS:                          |
-| - Entities: ZERO HOSTILES (All Ordeals Cease |
-| - Attack Affinity: NONE                      |
-| - Weakness Affinity: NONE                    |
-+----------------------------------------------+
-| ENGAGEMENT TELEMETRY:                        |
-| - All 4 Ordeal watches neutralized permanent |
-| - Ambient planetary sorrow converted to Hope |
-| - Facility bathed in golden celestial starli |
-| - Duration: ETERNAL                          |
-| - Personnel Casualties: ZERO (All Healed)    |
-+==============================================+
++=====================================================================+
+| TACTICAL DOSSIER: THE APOTHEOSIS OF DAWN                            |
++---------------------------------------------------------------------+
+| DESIGNATION : THE DAWN OF CYCLE 1,778                               |
+| CLASSIFICATION : SOVEREIGN TRANSMUTATION                            |
+| INTRUSION POINT : PLANETARY STRATOSPHERE                            |
++---------------------------------------------------------------------+
+| HOSTILE PARAMETERS:                                                 |
+| - Entities: ZERO HOSTILES (All Ordeals Ceased)                      |
+| - Attack Affinity: NONE                                             |
+| - Weakness Affinity: NONE                                           |
++---------------------------------------------------------------------+
+| ENGAGEMENT TELEMETRY:                                               |
+| - All 4 Ordeal watches neutralized permanent                        |
+| - Ambient planetary sorrow converted to Hope                        |
+| - Facility bathed in golden celestial starli                        |
+| - Duration: ETERNAL                                                 |
+| - Personnel Casualties: ZERO (All Healed)                           |
++=====================================================================+
 ```
 
 For the first time in 1,778 cycles, zero Ordeals manifested. The release of the 49.8 tons permanently shattered the Ordeal cycle, dissolving all hostile entities into the golden dawn light.
@@ -2081,20 +2429,20 @@ For the first time in 1,778 cycles, zero Ordeals manifested. The release of the 
 #### 6. End-of-Day Shift Evaluation Index
 
 ```text
-+==============================================+
-| END-OF-DAY PERFORMANCE EVALUATION: DAY 160   |
-+----------------------------------------------+
-| METRIC               | TARGET | REALIZED     |
-+----------------------------------------------+
-| Han Energy Vented    | 49.80t | 49.800 tons  |
-| Containment Breaches | 0 Max  | 0 Breaches   |
-| Personnel Casualties | 0 Dead | 0 Fatalities |
-| Planetary Transmutat | 100%   | COMPLETE     |
-+----------------------------------------------+
-| SHIFT PERFORMANCE GRADE: GRADE EX (PERFECT)  |
-| REAGENTS ACCUMULATED: +100 RHR (MAXIMUM)     |
-| FACILITY STATUS: PERMANENT DAWN LOCK         |
-+==============================================+
++=====================================================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 160                          |
++---------------------------------------------------------------------+
+| METRIC               | TARGET | REALIZED                            |
++---------------------------------------------------------------------+
+| Han Energy Vented    | 49.80t | 49.800 tons                         |
+| Containment Breaches | 0 Max  | 0 Breaches                          |
+| Personnel Casualties | 0 Dead | 0 Fatalities                        |
+| Planetary Transmutat | 100%   | COMPLETE                            |
++---------------------------------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE EX (PERFECT)                         |
+| REAGENTS ACCUMULATED: +100 RHR (MAXIMUM)                            |
+| FACILITY STATUS: PERMANENT DAWN LOCK                                |
++=====================================================================+
 ```
 
 #### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
@@ -2144,38 +2492,38 @@ Containment operations transition from high-stress suppression to gentle steward
 #### 1. Multi-Floor Deployment Phase (Floors 1–8)
 
 ```text
-+==============================================+
-| FLOOR DEPLOYMENT ROSTER — DAY 165 SHIFT      |
-+---------------------+--------+---------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
-+=====================+========+===============+
-| F1: Central Command | 14 Op  | Seiyon: Sync  |
-|                     |        | Directive     |
-+---------------------+--------+---------------+
-| F2: Containment     | 20 Op  | Dekan: Ward   |
-| Lead                |        | of the Maw    |
-+---------------------+--------+---------------+
-| F3: Archive Lead    | 12 Op  | Marjuk:       |
-|                     |        | Recall Stasis |
-+---------------------+--------+---------------+
-| F4: Research Lead   | 16 Op  | Ayshuk:       |
-|                     |        | Clarity       |
-|                     |        | Matrix        |
-+---------------------+--------+---------------+
-| F5: Border Control  | 18 Op  | Mellda: Iron  |
-|                     |        | Perimeter     |
-+---------------------+--------+---------------+
-| F6: Extraction Lead | 18 Op  | Zyrak: Forge  |
-|                     |        | Resonance     |
-+---------------------+--------+---------------+
-| F7: Outsider Relat. | 14 Op  | Ishall: Void  |
-|                     |        | Vigil         |
-+---------------------+--------+---------------+
-| F8: Deep Vaults     | 10 Op  | Xyan: Echo    |
-| Lead                |        | Watch         |
-+---------------------+--------+---------------+
-| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 122    |
-+==============================================+
++=====================================================================+
+| FLOOR DEPLOYMENT ROSTER — DAY 165 SHIFT                             |
++---------------------------------------------------------------------+
+| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
++=====================================================================+
+| F1: Central Command | 14 Op  | Seiyon: Sync                         |
+| |        | Directive                                                |
++---------------------------------------------------------------------+
+| F2: Containment     | 20 Op  | Dekan: Ward                          |
+| Lead                |        | of the Maw                           |
++---------------------------------------------------------------------+
+| F3: Archive Lead    | 12 Op  | Marjuk:                              |
+| |        | Recall Stasis                                            |
++---------------------------------------------------------------------+
+| F4: Research Lead   | 16 Op  | Ayshuk:                              |
+| |        | Clarity                                                  |
+| |        | Matrix                                                   |
++---------------------------------------------------------------------+
+| F5: Border Control  | 18 Op  | Mellda: Iron                         |
+| |        | Perimeter                                                |
++---------------------------------------------------------------------+
+| F6: Extraction Lead | 18 Op  | Zyrak: Forge                         |
+| |        | Resonance                                                |
++---------------------------------------------------------------------+
+| F7: Outsider Relat. | 14 Op  | Ishall: Void                         |
+| |        | Vigil                                                    |
++---------------------------------------------------------------------+
+| F8: Deep Vaults     | 10 Op  | Xyan: Echo                           |
+| Lead                |        | Watch                                |
++---------------------------------------------------------------------+
+| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 122                           |
++=====================================================================+
 ```
 
 Dekan's Attendant Aura permanently transforms into *Living Peace*, radiating a gentle 15% physical regeneration field across all lower containment corridors.
@@ -2183,35 +2531,35 @@ Dekan's Attendant Aura permanently transforms into *Living Peace*, radiating a g
 #### 2. Acoustic Strain Meltdown Monitoring
 
 ```text
-+==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 16 |
-+----------------------------------------------+
-| STRAIN LEVEL : POST-VENTING EQUILIBRIUM      |
-| OVERLOAD TIMER : PERMANENTLY DAMPENED        |
-| AFFECTED CELLS : NONE (ZERO STRAIN DETECTED) |
-+--------------------+----------+--------------+
-| CONTAINMENT TARGET | STRAIN   | STATUS       |
-+====================+==========+==============+
-| SE-C-Ia-008        | 00.0%    | Clear Spri   |
-| (The Maw)          |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-001      | 00.0%    | Peaceful     |
-| (The Bell)         |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIb-014      | 00.0%    | Peaceful     |
-| (Debt Veil)        |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-025      | 00.0%    | Sleeping     |
-| (Crying Child)     |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIb-061      | 00.0%    | Forgiven     |
-| (The Debtor)       |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-001      | 00.0%    | Harmonized   |
-| (The Bell)         |          |              |
-+--------------------+----------+--------------+
-| TACTICAL ACTION: ZERO OVERLOADS RECORDED     |
-+==============================================+
++=====================================================================+
+| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 16                        |
++---------------------------------------------------------------------+
+| STRAIN LEVEL : POST-VENTING EQUILIBRIUM                             |
+| OVERLOAD TIMER : PERMANENTLY DAMPENED                               |
+| AFFECTED CELLS : NONE (ZERO STRAIN DETECTED)                        |
++---------------------------------------------------------------------+
+| CONTAINMENT TARGET | STRAIN   | STATUS                              |
++=====================================================================+
+| SE-C-Ia-008        | 00.0%    | Clear Spri                          |
+| (The Maw)          |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-001      | 00.0%    | Peaceful                            |
+| (The Bell)         |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIb-014      | 00.0%    | Peaceful                            |
+| (Debt Veil)        |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-025      | 00.0%    | Sleeping                            |
+| (Crying Child)     |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIb-061      | 00.0%    | Forgiven                            |
+| (The Debtor)       |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-001      | 00.0%    | Harmonized                          |
+| (The Bell)         |                                                |
++---------------------------------------------------------------------+
+| TACTICAL ACTION: ZERO OVERLOADS RECORDED                            |
++=====================================================================+
 ```
 
 Meltdown alerts across the facility register zero activity. The entities remain in deep harmonic repose following the transmutative release of Day 160.
@@ -2219,28 +2567,28 @@ Meltdown alerts across the facility register zero activity. The entities remain 
 #### 3. Granular Work Type Management Table
 
 ```text
-+==============================================+
-| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 165  |
-+--------------------+--------+-------+--------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
-+====================+========+=======+========+
-| SE-008 (The Well)  | Flere  | -05%  | +0.01  |
-| Agent Shin Grade 4 | Lament | CALM  | 20 OP  |
-+--------------------+--------+-------+--------+
-| SE-001 (Bell)      | Flere  | -04%  | +0.01  |
-| Agent Park Grade 4 | Lament | CALM  | 18 OP  |
-+--------------------+--------+-------+--------+
-| SE-014 (Veil)      | Videre | -03%  | +0.01  |
-| Agent Lee Grade 4  | Void   | STBL  | 16 OP  |
-+--------------------+--------+-------+--------+
-| SE-025 (Child)     | Flere  | -05%  | +0.01  |
-| Agent Choi Grade 4 | Lament | CALM  | 19 OP  |
-+--------------------+--------+-------+--------+
-| SE-061 (Debtor)    | Ferre  | -04%  | +0.01  |
-| Agent Kang Grade 4 | Weight | STBL  | 18 OP  |
-+--------------------+--------+-------+--------+
-| DAILY EXTRACTION YIELD: +0.052 TONS PURE HAN |
-+==============================================+
++=====================================================================+
+| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 165                         |
++---------------------------------------------------------------------+
+| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
++=====================================================================+
+| SE-008 (The Well)  | Flere  | -05%  | +0.01                         |
+| Agent Shin Grade 4 | Lament | CALM  | 20 OP                         |
++---------------------------------------------------------------------+
+| SE-001 (Bell)      | Flere  | -04%  | +0.01                         |
+| Agent Park Grade 4 | Lament | CALM  | 18 OP                         |
++---------------------------------------------------------------------+
+| SE-014 (Veil)      | Videre | -03%  | +0.01                         |
+| Agent Lee Grade 4  | Void   | STBL  | 16 OP                         |
++---------------------------------------------------------------------+
+| SE-025 (Child)     | Flere  | -05%  | +0.01                         |
+| Agent Choi Grade 4 | Lament | CALM  | 19 OP                         |
++---------------------------------------------------------------------+
+| SE-061 (Debtor)    | Ferre  | -04%  | +0.01                         |
+| Agent Kang Grade 4 | Weight | STBL  | 18 OP                         |
++---------------------------------------------------------------------+
+| DAILY EXTRACTION YIELD: +0.052 TONS PURE HAN                        |
++=====================================================================+
 ```
 
 Agent Shin performed gentle *Flerehan* communion at the edge of the clear spring, filling crystal decanters with mineral water for the medical ward. The communion yielded 0.01 tons of luminous Han that glowed with gentle blue warmth.
@@ -2253,24 +2601,24 @@ Agent Shin performed gentle *Flerehan* communion at the edge of the clear spring
 #### 5. Ordeal Suppression Tactical Dossier
 
 ```text
-+==============================================+
-| TACTICAL DOSSIER: THE TRANQUIL HORIZON       |
-+----------------------------------------------+
-| DESIGNATION : POST-DAWN EQUILIBRIUM          |
-| CLASSIFICATION : COMPLETE PACIFICATION       |
-| INTRUSION POINT : NONE (ALL ORDEALS DISSOLVE |
-+----------------------------------------------+
-| HOSTILE PARAMETERS:                          |
-| - Entities: ZERO HOSTILES                    |
-| - Attack Affinity: NONE                      |
-| - Weakness Affinity: NONE                    |
-+----------------------------------------------+
-| ENGAGEMENT TELEMETRY:                        |
-| - Facility radar confirms zero anomalies     |
-| - Frontline units engaged in municipal assis |
-| - Clash Duration: 0.0 seconds                |
-| - Personnel Casualties: ZERO Fatalities      |
-+==============================================+
++=====================================================================+
+| TACTICAL DOSSIER: THE TRANQUIL HORIZON                              |
++---------------------------------------------------------------------+
+| DESIGNATION : POST-DAWN EQUILIBRIUM                                 |
+| CLASSIFICATION : COMPLETE PACIFICATION                              |
+| INTRUSION POINT : NONE (ALL ORDEALS DISSOLVED)                      |
++---------------------------------------------------------------------+
+| HOSTILE PARAMETERS:                                                 |
+| - Entities: ZERO HOSTILES                                           |
+| - Attack Affinity: NONE                                             |
+| - Weakness Affinity: NONE                                           |
++---------------------------------------------------------------------+
+| ENGAGEMENT TELEMETRY:                                               |
+| - Facility radar confirms zero anomalies                            |
+| - Frontline units engaged in municipal assis                        |
+| - Clash Duration: 0.0 seconds                                       |
+| - Personnel Casualties: ZERO Fatalities                             |
++=====================================================================+
 ```
 
 Zero Ordeals manifested on Day 165. The planetary emotional field remains completely pacified under the lingering resonance of the Day 160 release.
@@ -2278,22 +2626,22 @@ Zero Ordeals manifested on Day 165. The planetary emotional field remains comple
 #### 6. End-of-Day Shift Evaluation Index
 
 ```text
-+==============================================+
-| END-OF-DAY PERFORMANCE EVALUATION: DAY 165   |
-+----------------------------------------------+
-| METRIC               | TARGET | REALIZED     |
-+----------------------------------------------+
-| Han Energy Harvested | 0.050t | 0.052 tons   |
-| Containment Breaches | 0 Max  | 0 Breaches   |
-| Personnel Casualties | 0 Dead | 0 Fatalities |
-| Meltdowns Cleared    | 0/0    | 100% Rate    |
-+----------------------------------------------+
-| SHIFT PERFORMANCE GRADE: GRADE S             |
-| REAGENTS ACCUMULATED: +20 RHR                |
-| AGENT ADVANCEMENT:                           |
-| - Agent Shin: Reassigned to Municipal Water  |
-| - Agent Park: Reassigned to Bell Tower       |
-+==============================================+
++=====================================================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 165                          |
++---------------------------------------------------------------------+
+| METRIC               | TARGET | REALIZED                            |
++---------------------------------------------------------------------+
+| Han Energy Harvested | 0.050t | 0.052 tons                          |
+| Containment Breaches | 0 Max  | 0 Breaches                          |
+| Personnel Casualties | 0 Dead | 0 Fatalities                        |
+| Meltdowns Cleared    | 0/0    | 100% Rate                           |
++---------------------------------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S                                    |
+| REAGENTS ACCUMULATED: +20 RHR                                       |
+| AGENT ADVANCEMENT:                                                  |
+| - Agent Shin: Reassigned to Municipal Water                         |
+| - Agent Park: Reassigned to Bell Tower                              |
++=====================================================================+
 ```
 
 #### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
@@ -2347,38 +2695,38 @@ Containment harvesting yields 0.054 tons of pure Han, elevating cumulative facil
 #### 1. Multi-Floor Deployment Phase (Floors 1–8)
 
 ```text
-+==============================================+
-| FLOOR DEPLOYMENT ROSTER — DAY 170 SHIFT      |
-+---------------------+--------+---------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
-+=====================+========+===============+
-| F1: Central Command | 14 Op  | Seiyon: Sync  |
-|                     |        | Directive     |
-+---------------------+--------+---------------+
-| F2: Containment     | 20 Op  | Dekan: Ward   |
-| Lead                |        | of the Maw    |
-+---------------------+--------+---------------+
-| F3: Archive Lead    | 12 Op  | Marjuk:       |
-|                     |        | Recall Stasis |
-+---------------------+--------+---------------+
-| F4: Research Lead   | 16 Op  | Ayshuk:       |
-|                     |        | Clarity       |
-|                     |        | Matrix        |
-+---------------------+--------+---------------+
-| F5: Border Control  | 18 Op  | Mellda: Iron  |
-|                     |        | Perimeter     |
-+---------------------+--------+---------------+
-| F6: Extraction Lead | 18 Op  | Zyrak: Forge  |
-|                     |        | Resonance     |
-+---------------------+--------+---------------+
-| F7: Outsider Relat. | 14 Op  | Ishall: Void  |
-|                     |        | Vigil         |
-+---------------------+--------+---------------+
-| F8: Deep Vaults     | 10 Op  | Xyan: Echo    |
-| Lead                |        | Watch         |
-+---------------------+--------+---------------+
-| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 122    |
-+==============================================+
++=====================================================================+
+| FLOOR DEPLOYMENT ROSTER — DAY 170 SHIFT                             |
++---------------------------------------------------------------------+
+| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
++=====================================================================+
+| F1: Central Command | 14 Op  | Seiyon: Sync                         |
+| |        | Directive                                                |
++---------------------------------------------------------------------+
+| F2: Containment     | 20 Op  | Dekan: Ward                          |
+| Lead                |        | of the Maw                           |
++---------------------------------------------------------------------+
+| F3: Archive Lead    | 12 Op  | Marjuk:                              |
+| |        | Recall Stasis                                            |
++---------------------------------------------------------------------+
+| F4: Research Lead   | 16 Op  | Ayshuk:                              |
+| |        | Clarity                                                  |
+| |        | Matrix                                                   |
++---------------------------------------------------------------------+
+| F5: Border Control  | 18 Op  | Mellda: Iron                         |
+| |        | Perimeter                                                |
++---------------------------------------------------------------------+
+| F6: Extraction Lead | 18 Op  | Zyrak: Forge                         |
+| |        | Resonance                                                |
++---------------------------------------------------------------------+
+| F7: Outsider Relat. | 14 Op  | Ishall: Void                         |
+| |        | Vigil                                                    |
++---------------------------------------------------------------------+
+| F8: Deep Vaults     | 10 Op  | Xyan: Echo                           |
+| Lead                |        | Watch                                |
++---------------------------------------------------------------------+
+| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 122                           |
++=====================================================================+
 ```
 
 Zyrak and Dekan accompany the Trinity of Dawn as it visits each floor in turn. Frontline agents welcome the sovereign entity with open arms, feeling decades of accumulated cognitive fatigue melt away beneath its gaze.
@@ -2386,32 +2734,32 @@ Zyrak and Dekan accompany the Trinity of Dawn as it visits each floor in turn. F
 #### 2. Acoustic Strain Meltdown Monitoring
 
 ```text
-+==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 17 |
-+----------------------------------------------+
-| STRAIN LEVEL : SOVEREIGN TRINITY HARMONY     |
-| OVERLOAD TIMER : PERMANENTLY NEUTRALIZED     |
-| AFFECTED CELLS : NONE (ALL CELLS HARMONIC)   |
-+--------------------+----------+--------------+
-| CONTAINMENT TARGET | STRAIN   | STATUS       |
-+====================+==========+==============+
-| SE-C-IIIg-001      | 00.0%    | Free Roami   |
-| (The Bell)         |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIb-036      | 00.0%    | Peaceful     |
-| (Hourglass)        |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIb-044      | 00.0%    | Peaceful     |
-| (Broken Clock)     |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIb-061      | 00.0%    | Peaceful     |
-| (The Debtor)       |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-001      | 00.0%    | Harmonized   |
-| (The Bell)         |          |              |
-+--------------------+----------+--------------+
-| TACTICAL ACTION: SOVEREIGN BLESSING WALK     |
-+==============================================+
++=====================================================================+
+| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 17                        |
++---------------------------------------------------------------------+
+| STRAIN LEVEL : SOVEREIGN TRINITY HARMONY                            |
+| OVERLOAD TIMER : PERMANENTLY NEUTRALIZED                            |
+| AFFECTED CELLS : NONE (ALL CELLS HARMONIC)                          |
++---------------------------------------------------------------------+
+| CONTAINMENT TARGET | STRAIN   | STATUS                              |
++=====================================================================+
+| SE-C-IIIg-001      | 00.0%    | Free Roami                          |
+| (The Bell)         |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIb-036      | 00.0%    | Peaceful                            |
+| (Hourglass)        |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIb-044      | 00.0%    | Peaceful                            |
+| (Broken Clock)     |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIb-061      | 00.0%    | Peaceful                            |
+| (The Debtor)       |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-001      | 00.0%    | Harmonized                          |
+| (The Bell)         |                                                |
++---------------------------------------------------------------------+
+| TACTICAL ACTION: SOVEREIGN BLESSING WALK                            |
++=====================================================================+
 ```
 
 Meltdown alerts remain at absolute zero. The Trinity of Dawn's presence radiates a continuous field of harmonic nullification, permanently dissolving the acoustic overload timers.
@@ -2419,25 +2767,25 @@ Meltdown alerts remain at absolute zero. The Trinity of Dawn's presence radiates
 #### 3. Granular Work Type Management Table
 
 ```text
-+==============================================+
-| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 170  |
-+--------------------+--------+-------+--------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
-+====================+========+=======+========+
-| HT-V-HC-001 (Trin) | Flere  | -20%  | +0.02  |
-| Agent Han Grade 4  | Lament | CALM  | 30 OP  |
-+--------------------+--------+-------+--------+
-| SE-036 (Hourglass) | Videre | -06%  | +0.01  |
-| Agent Kang Grade 4 | Void   | STBL  | 20 OP  |
-+--------------------+--------+-------+--------+
-| SE-044 (Clock)     | Videre | -05%  | +0.01  |
-| Agent Kwon Grade 4 | Void   | STBL  | 19 OP  |
-+--------------------+--------+-------+--------+
-| SE-061 (Debtor)    | Ferre  | -06%  | +0.01  |
-| Agent Shin Grade 4 | Weight | STBL  | 18 OP  |
-+--------------------+--------+-------+--------+
-| DAILY EXTRACTION YIELD: +0.054 TONS PURE HAN |
-+==============================================+
++=====================================================================+
+| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 170                         |
++---------------------------------------------------------------------+
+| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
++=====================================================================+
+| HT-V-HC-001 (Trin) | Flere  | -20%  | +0.02                         |
+| Agent Han Grade 4  | Lament | CALM  | 30 OP                         |
++---------------------------------------------------------------------+
+| SE-036 (Hourglass) | Videre | -06%  | +0.01                         |
+| Agent Kang Grade 4 | Void   | STBL  | 20 OP                         |
++---------------------------------------------------------------------+
+| SE-044 (Clock)     | Videre | -05%  | +0.01                         |
+| Agent Kwon Grade 4 | Void   | STBL  | 19 OP                         |
++---------------------------------------------------------------------+
+| SE-061 (Debtor)    | Ferre  | -06%  | +0.01                         |
+| Agent Shin Grade 4 | Weight | STBL  | 18 OP                         |
++---------------------------------------------------------------------+
+| DAILY EXTRACTION YIELD: +0.054 TONS PURE HAN                        |
++=====================================================================+
 ```
 
 Agent Han knelt before **The Trinity of Dawn** in the central rotunda. The celestial entity lowered its radiant head, touching its bronze beak to Han's chest. The communion drained 20% of its residual sorrow and yielded 0.02 tons of magnificent diamond-gold Han.
@@ -2450,27 +2798,27 @@ Agent Han knelt before **The Trinity of Dawn** in the central rotunda. The celes
 #### 5. Ordeal Suppression Tactical Dossier
 
 ```text
-+==============================================+
-| TACTICAL DOSSIER: CELESTIAL EQUILIBRIUM      |
-+----------------------------------------------+
-| DESIGNATION : THE GUIDING STAR               |
-| CLASSIFICATION : COMPLETE SOVEREIGN HARMONY  |
-| INTRUSION POINT : NONE (ALL ORDEALS PACIFIED |
-+----------------------------------------------+
-| HOSTILE PARAMETERS:                          |
-| - Entities: ZERO HOSTILES                    |
-| - Attack Affinity: NONE                      |
-| - Weakness Affinity: NONE                    |
-+----------------------------------------------+
-| ENGAGEMENT TELEMETRY:                        |
-| - The Trinity of Dawn radiated 1,000-meter   |
-|   golden halo over the facility              |
-| - All residual outside sorrow squalls        |
-|   dissolved into calm morning mist           |
-| - Facility radar clear to maximum horizon    |
-| - Clash Duration: 0.0 seconds                |
-| - Personnel Casualties: ZERO Fatalities      |
-+==============================================+
++=====================================================================+
+| TACTICAL DOSSIER: CELESTIAL EQUILIBRIUM                             |
++---------------------------------------------------------------------+
+| DESIGNATION : THE GUIDING STAR                                      |
+| CLASSIFICATION : COMPLETE SOVEREIGN HARMONY                         |
+| INTRUSION POINT : NONE (ALL ORDEALS PACIFIED)                       |
++---------------------------------------------------------------------+
+| HOSTILE PARAMETERS:                                                 |
+| - Entities: ZERO HOSTILES                                           |
+| - Attack Affinity: NONE                                             |
+| - Weakness Affinity: NONE                                           |
++---------------------------------------------------------------------+
+| ENGAGEMENT TELEMETRY:                                               |
+| - The Trinity of Dawn radiated 1,000-meter                          |
+| golden halo over the facility                                       |
+| - All residual outside sorrow squalls                               |
+| dissolved into calm morning mist                                    |
+| - Facility radar clear to maximum horizon                           |
+| - Clash Duration: 0.0 seconds                                       |
+| - Personnel Casualties: ZERO Fatalities                             |
++=====================================================================+
 ```
 
 Zero Ordeals manifested on Day 170. The Trinity of Dawn's celestial radiance established an absolute 1,000-meter safety zone around the entire facility perimeter.
@@ -2478,22 +2826,22 @@ Zero Ordeals manifested on Day 170. The Trinity of Dawn's celestial radiance est
 #### 6. End-of-Day Shift Evaluation Index
 
 ```text
-+==============================================+
-| END-OF-DAY PERFORMANCE EVALUATION: DAY 170   |
-+----------------------------------------------+
-| METRIC               | TARGET | REALIZED     |
-+----------------------------------------------+
-| Han Energy Harvested | 0.050t | 0.054 tons   |
-| Containment Breaches | 0 Max  | 0 Breaches   |
-| Personnel Casualties | 0 Dead | 0 Fatalities |
-| Meltdowns Cleared    | 0/0    | 100% Rate    |
-+----------------------------------------------+
-| SHIFT PERFORMANCE GRADE: GRADE S             |
-| REAGENTS ACCUMULATED: +25 RHR                |
-| AGENT ADVANCEMENT:                           |
-| - Agent Han: Promoted to Sovereign Guardian  |
-| - Agent Song: Promoted to Sovereign Guardian |
-+==============================================+
++=====================================================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 170                          |
++---------------------------------------------------------------------+
+| METRIC               | TARGET | REALIZED                            |
++---------------------------------------------------------------------+
+| Han Energy Harvested | 0.050t | 0.054 tons                          |
+| Containment Breaches | 0 Max  | 0 Breaches                          |
+| Personnel Casualties | 0 Dead | 0 Fatalities                        |
+| Meltdowns Cleared    | 0/0    | 100% Rate                           |
++---------------------------------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S                                    |
+| REAGENTS ACCUMULATED: +25 RHR                                       |
+| AGENT ADVANCEMENT:                                                  |
+| - Agent Han: Promoted to Sovereign Guardian                         |
+| - Agent Song: Promoted to Sovereign Guardian                        |
++=====================================================================+
 ```
 
 #### 7. M.A.W. Extraction, Forging & Gift Slot Allocation
@@ -2545,38 +2893,38 @@ The 1,778-cycle recursive loop is broken. The Absolvohan was never an engine of 
 #### 1. Multi-Floor Deployment Phase (Floors 1–8)
 
 ```text
-+==============================================+
-| FLOOR DEPLOYMENT ROSTER — DAY 177 SHIFT      |
-+---------------------+--------+---------------+
-| FLOOR & SECTOR      | AGENTS | LEAD AURA     |
-+=====================+========+===============+
-| F1: Central Command | 14 Op  | Seiyon: Sync  |
-|                     |        | Directive     |
-+---------------------+--------+---------------+
-| F2: Containment     | 20 Op  | Dekan: Ward   |
-| Lead                |        | of the Maw    |
-+---------------------+--------+---------------+
-| F3: Archive Lead    | 12 Op  | Marjuk:       |
-|                     |        | Recall Stasis |
-+---------------------+--------+---------------+
-| F4: Research Lead   | 16 Op  | Ayshuk:       |
-|                     |        | Clarity       |
-|                     |        | Matrix        |
-+---------------------+--------+---------------+
-| F5: Border Control  | 20 Op  | Mellda: Iron  |
-|                     |        | Perimeter     |
-+---------------------+--------+---------------+
-| F6: Extraction Lead | 18 Op  | Zyrak: Forge  |
-|                     |        | Resonance     |
-+---------------------+--------+---------------+
-| F7: Outsider Relat. | 16 Op  | Ishall: Void  |
-|                     |        | Vigil         |
-+---------------------+--------+---------------+
-| F8: Deep Vaults     | 14 Op  | Xyan: Echo    |
-| Lead                |        | Watch         |
-+---------------------+--------+---------------+
-| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 130    |
-+==============================================+
++=====================================================================+
+| FLOOR DEPLOYMENT ROSTER — DAY 177 SHIFT                             |
++---------------------------------------------------------------------+
+| FLOOR & SECTOR      | AGENTS | LEAD AURA                            |
++=====================================================================+
+| F1: Central Command | 14 Op  | Seiyon: Sync                         |
+| |        | Directive                                                |
++---------------------------------------------------------------------+
+| F2: Containment     | 20 Op  | Dekan: Ward                          |
+| Lead                |        | of the Maw                           |
++---------------------------------------------------------------------+
+| F3: Archive Lead    | 12 Op  | Marjuk:                              |
+| |        | Recall Stasis                                            |
++---------------------------------------------------------------------+
+| F4: Research Lead   | 16 Op  | Ayshuk:                              |
+| |        | Clarity                                                  |
+| |        | Matrix                                                   |
++---------------------------------------------------------------------+
+| F5: Border Control  | 20 Op  | Mellda: Iron                         |
+| |        | Perimeter                                                |
++---------------------------------------------------------------------+
+| F6: Extraction Lead | 18 Op  | Zyrak: Forge                         |
+| |        | Resonance                                                |
++---------------------------------------------------------------------+
+| F7: Outsider Relat. | 16 Op  | Ishall: Void                         |
+| |        | Vigil                                                    |
++---------------------------------------------------------------------+
+| F8: Deep Vaults     | 14 Op  | Xyan: Echo                           |
+| Lead                |        | Watch                                |
++---------------------------------------------------------------------+
+| TOTAL PERSONNEL ON ACTIVE DEPLOYMENT: 130                           |
++=====================================================================+
 ```
 
 All nine Echo-Cores are reunited in physical presence on Floor 1. Their nine Attendant Auras fuse into a permanent planetary lattice: **The Ninefold Crown of Dawn**, bathing the entire continent in tranquil, life-giving light.
@@ -2584,26 +2932,26 @@ All nine Echo-Cores are reunited in physical presence on Floor 1. Their nine Att
 #### 2. Acoustic Strain Meltdown Monitoring
 
 ```text
-+==============================================+
-| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 17 |
-+----------------------------------------------+
-| STRAIN LEVEL : ETERNAL HARMONIC EQUILIBRIUM  |
-| OVERLOAD TIMER : PERMANENTLY EXTINCTION-FREE |
-| AFFECTED CELLS : ZERO (CONTAINMENT TRANSCEND |
-+--------------------+----------+--------------+
-| CONTAINMENT TARGET | STRAIN   | STATUS       |
-+====================+==========+==============+
-| SE-C-IIIg-001      | 00.0%    | Sanctuary    |
-| (The Bell)         |          |              |
-+--------------------+----------+--------------+
-| SE-C-IIIg-001      | 00.0%    | Open Hand    |
-| (The Bell)         |          |              |
-+--------------------+----------+--------------+
-| PLANETARY          | 00.0%    | Dawn         |
-| (Continent)        |          | Ascension    |
-+--------------------+----------+--------------+
-| TACTICAL ACTION: PERMANENT PACIFICATION      |
-+==============================================+
++=====================================================================+
+| ACOUSTIC STRAIN MELTDOWN MONITORING — DAY 17                        |
++---------------------------------------------------------------------+
+| STRAIN LEVEL : ETERNAL HARMONIC EQUILIBRIUM                         |
+| OVERLOAD TIMER : PERMANENTLY EXTINCTION-FREE                        |
+| AFFECTED CELLS : ZERO (CONTAINMENT TRANSCENDED)                     |
++---------------------------------------------------------------------+
+| CONTAINMENT TARGET | STRAIN   | STATUS                              |
++=====================================================================+
+| SE-C-IIIg-001      | 00.0%    | Sanctuary                           |
+| (The Bell)         |                                                |
++---------------------------------------------------------------------+
+| SE-C-IIIg-001      | 00.0%    | Open Hand                           |
+| (The Bell)         |                                                |
++---------------------------------------------------------------------+
+| PLANETARY          | 00.0%    | Dawn                                |
+| (Continent)        |          | Ascension                           |
++---------------------------------------------------------------------+
+| TACTICAL ACTION: PERMANENT PACIFICATION                             |
++=====================================================================+
 ```
 
 Acoustic strain is permanently extinguished across the facility. The containment cells are transformed into open sanctuaries where entities and humans commune in mutual peace.
@@ -2611,16 +2959,16 @@ Acoustic strain is permanently extinguished across the facility. The containment
 #### 3. Granular Work Type Management Table
 
 ```text
-+==============================================+
-| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 177  |
-+--------------------+--------+-------+--------+
-| ENTITY & AGENT     | WORK   | GAUGE | HAN    |
-+====================+========+=======+========+
-| ALL SANCTUARIES    | Flere  | -00%  | DAWN   |
-| All 130 Operatives | Trans  | PEACE | 50.9t  |
-+--------------------+--------+-------+--------+
-| DAILY EXTRACTION YIELD: PLANETARY DAWN COMPL |
-+==============================================+
++=====================================================================+
+| WORK TYPE ASSIGNMENTS & TELEMETRY — DAY 177                         |
++---------------------------------------------------------------------+
+| ENTITY & AGENT     | WORK   | GAUGE | HAN                           |
++=====================================================================+
+| ALL SANCTUARIES    | Flere  | -00%  | DAWN                          |
+| All 130 Operatives | Trans  | PEACE | 50.9t                         |
++---------------------------------------------------------------------+
+| DAILY EXTRACTION YIELD: PLANETARY DAWN COMPL                        |
++=====================================================================+
 ```
 
 All standard containment protocols are retired. The operatives of the Reverie Directorate transition from wardens of sorrow into custodians of planetary hope.
@@ -2633,25 +2981,25 @@ All standard containment protocols are retired. The operatives of the Reverie Di
 #### 5. Ordeal Suppression Tactical Dossier
 
 ```text
-+==============================================+
-| TACTICAL DOSSIER: THE FINAL DAWN             |
-+----------------------------------------------+
-| DESIGNATION : THE DAWN OF THE WORLD          |
-| CLASSIFICATION : ETERNAL PEACE               |
-| INTRUSION POINT : NONE (ALL ORDEALS DISSOLVE |
-+----------------------------------------------+
-| HOSTILE PARAMETERS:                          |
-| - Entities: ZERO HOSTILES                    |
-| - Attack Affinity: NONE                      |
-| - Weakness Affinity: NONE                    |
-+----------------------------------------------+
-| ENGAGEMENT TELEMETRY:                        |
-| - The nine Echo-Cores embrace at Gate 05     |
-| - All 1,778 cycles of suffering forgiven     |
-| - A new sun rises over the Desolate          |
-| - Duration: FOREVER                          |
-| - Personnel Casualties: ZERO Fatalities      |
-+==============================================+
++=====================================================================+
+| TACTICAL DOSSIER: THE FINAL DAWN                                    |
++---------------------------------------------------------------------+
+| DESIGNATION : THE DAWN OF THE WORLD                                 |
+| CLASSIFICATION : ETERNAL PEACE                                      |
+| INTRUSION POINT : NONE (ALL ORDEALS DISSOLVED)                      |
++---------------------------------------------------------------------+
+| HOSTILE PARAMETERS:                                                 |
+| - Entities: ZERO HOSTILES                                           |
+| - Attack Affinity: NONE                                             |
+| - Weakness Affinity: NONE                                           |
++---------------------------------------------------------------------+
+| ENGAGEMENT TELEMETRY:                                               |
+| - The nine Echo-Cores embrace at Gate 05                            |
+| - All 1,778 cycles of suffering forgiven                            |
+| - A new sun rises over the Desolate                                 |
+| - Duration: FOREVER                                                 |
+| - Personnel Casualties: ZERO Fatalities                             |
++=====================================================================+
 ```
 
 The Ordeals are gone forever. At Gate 05, the nine Echo-Cores embrace as the amber sun rises over the Desolate, casting long, golden shadows across the sand.
@@ -2659,19 +3007,19 @@ The Ordeals are gone forever. At Gate 05, the nine Echo-Cores embrace as the amb
 #### 6. End-of-Day Shift Evaluation Index
 
 ```text
-+==============================================+
-| END-OF-DAY PERFORMANCE EVALUATION: DAY 177   |
-+----------------------------------------------+
-| METRIC               | TARGET | REALIZED     |
-+----------------------------------------------+
-| Cycles Endured       | 1,778  | 1,778 CYCLES |
-| Planetary Transmutat | 100%   | COMPLETE     |
-| Mortal Suffering     | ZERO   | CLEARED      |
-+----------------------------------------------+
-| SHIFT PERFORMANCE GRADE: GRADE EXCELLENT     |
-| REAGENTS ACCUMULATED: ETERNAL HOPE           |
-| FACILITY STATUS: THE OPEN HAND OF DAWN       |
-+==============================================+
++=====================================================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 177                          |
++---------------------------------------------------------------------+
+| METRIC               | TARGET | REALIZED                            |
++---------------------------------------------------------------------+
+| Cycles Endured       | 1,778  | 1,778 CYCLES                        |
+| Planetary Transmutat | 100%   | COMPLETE                            |
+| Mortal Suffering     | ZERO   | CLEARED                             |
++---------------------------------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE EXCELLENT                            |
+| REAGENTS ACCUMULATED: ETERNAL HOPE                                  |
+| FACILITY STATUS: THE OPEN HAND OF DAWN                              |
++=====================================================================+
 ```
 
 #### 7. M.A.W. Extraction, Forging & Gift Slot Allocation

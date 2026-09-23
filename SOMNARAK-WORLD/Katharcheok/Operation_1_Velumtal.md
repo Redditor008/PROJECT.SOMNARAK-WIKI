@@ -196,17 +196,22 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
 |         TARGET DOSSIER: THE FALSE WEAVER & CONTRABAND SHROUD        |
 +---------------------------------------------------------------------+
 | APEX TARGET        : Boss Gwangseok ('The Mask Weaver')             |
-| ACCOMPANIMENT      : SECC-019 Contraband Sorrow Entity ('The False  |
+| ACCOMPANIMENT : SECC-019 Contraband Sorrow Entity ('The False       |
+| Shroud')                                                            |
 | ESCORT MINIONS     : Foundry Enforcers (x2) & Slag Pourers          |
 | ENCOUNTER DOMAIN   : Zone D Mantle Commons Sub-Vault 4 (-25m Depth) |
 +---------------------------------------------------------------------+
 | BOSS COMBAT PROFILE:                                                |
-| - Total HP Pool    : 5,400 HP (Exoskeleton: 1,800 | Core Body: 3,60 |
+| - Total HP Pool    : 5,400 HP (Exoskeleton: 1,800                   |
+|   | Core Body: 3,600)                                               |
 | - Posture Pool     : 240/240 (Dual Threshold Stagger System)        |
 | - Stagger 1 Proc   : 60% Posture Strain (144 Posture) / 3,800 HP    |
-| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Stagger / Cask R |
-| - Primary Armament : Industrial Pneumatic Sledgehammer (Heavy Blunt |
-| - Defense Matrix   : Counterfeit Veil Cloak & Vapor Shroud (Evasion |
+| - Stagger 2 Proc : 0% Posture Collapse (Terminal Stagger / Cask     |
+|   Ready)                                                            |
+| - Primary Armament : Industrial Pneumatic Sledgehammer (Heavy       |
+|   Blunt)                                                            |
+| - Defense Matrix : Counterfeit Veil Cloak & Vapor Shroud            |
+|   (Evasion/Pale)                                                    |
 +---------------------------------------------------------------------+
 | CONTRABAND ENTITY PROFILE (SECC-019):                               |
 | - Entity HP Pool   : 2,400 HP | Posture Pool: 180/180               |
@@ -222,28 +227,43 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
 |          TACTICAL STAGE HUD: OPERATION 01 — BATTLE TURN 01          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — ZONE D SUB-VAULT 4 FOUNDRY BREACH]          |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER][TAEHO] [JOON]  [SOOJIN][BOSS]   [YUNA]  [MINHO] [CIVS]    |
-|                                  [ENF-1]                          [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN]                                   |
+| [BOSS]   [YUNA]  [MINHO] [CIVS]          [SECC]                     |
+| [ENF-1]                          [ECHO]                             |
 +---------------------------------------------------------------------+
-| - Node 01: Breach Entry / Class-II Armored Cruiser 'The Iron Vangua |
-| - Node 02: Commander Taeho (Vanguard Band 1 / Phalanx Bastion Raise |
-| - Node 03: Engineer Joon (Point-Blank Band 1 / Deployable Alloy Man |
+| - Node 01: Breach Entry / Class-II Armored Cruiser 'The Iron        |
+|   Vanguard'                                                         |
+| - Node 02: Commander Taeho (Vanguard Band 1 / Phalanx Bastion       |
+|   Raised)                                                           |
+| - Node 03: Engineer Joon (Point-Blank Band 1 / Deployable Alloy     |
+|   Mantlet)                                                          |
 | - Node 04: Handler Soojin (Close Skirmish Band 2 / Resonance Snare) |
 | - Node 05: Boss Gwangseok & Enforcer 1 (Central Foundry Anvil Core) |
-| - Node 06: Auditor Yuna (Mid-Field Band 3 / Forensic Wiretap Consol |
-| - Node 07: Investigator Minho (Mid-Field Band 3 / Mnemonic Sniper B |
+| - Node 06: Auditor Yuna (Mid-Field Band 3 / Forensic Wiretap        |
+|   Console)                                                          |
+| - Node 07: Investigator Minho (Mid-Field Band 3 / Mnemonic Sniper   |
+|   Berth)                                                            |
 | - Node 08: Hostage Pens (12 Captive Civilian Mask-Carvers)          |
-| - Node 10: SECC-019 'False Shroud' & Infiltrator Echo (Shadow Steal |
+| - Node 10: SECC-019 'False Shroud' & Infiltrator Echo (Shadow       |
+|   Stealth)                                                          |
 +---------------------------------------------------------------------+
-| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 45/50 | Posture |
-| - Joon        : Spd 5 -> 3 AP | HP 3,800/3,800 | SP 40/40 | Posture |
-| - Yuna        : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 50/50 | Posture |
-| - Minho       : Spd 7 -> 4 AP | HP 2,900/2,900 | SP 45/45 | Posture |
-| - Soojin      : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 50/50 | Posture |
-| - Echo        : Spd 9 -> 5 AP | HP 2,600/2,600 | SP 40/40 | Posture |
-| - Gwangseok   : Spd 4 -> 2 AP | HP 5,400/5,400 | Posture 240/240 [A |
-| - SECC-019    : Spd 5 -> 3 AP | HP 2,400/2,400 | Posture 180/180 [C |
+| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 45/50           |
+|   | Posture 180/180                                                 |
+| - Joon        : Spd 5 -> 3 AP | HP 3,800/3,800 | SP 40/40           |
+|   | Posture 150/150                                                 |
+| - Yuna        : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 50/50           |
+|   | Posture 100/100                                                 |
+| - Minho       : Spd 7 -> 4 AP | HP 2,900/2,900 | SP 45/45           |
+|   | Posture 110/110                                                 |
+| - Soojin      : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 50/50           |
+|   | Posture 140/140                                                 |
+| - Echo        : Spd 9 -> 5 AP | HP 2,600/2,600 | SP 40/40           |
+|   | Posture 90/90 [STEALTH]                                         |
+| - Gwangseok   : Spd 4 -> 2 AP | HP 5,400/5,400                      |
+|   | Posture 240/240 [ARMORED]                                       |
+| - SECC-019    : Spd 5 -> 3 AP | HP 2,400/2,400                      |
+|   | Posture 180/180 [CAGED]                                         |
 +=====================================================================+
 ```
 
@@ -285,26 +305,37 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
 |          TACTICAL STAGE HUD: OPERATION 01 — BATTLE TURN 02          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — CLOAKING SHATTER & EMP OVERLOAD]            |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER][TAEHO] [JOON]  [SOOJIN][BOSS]   [YUNA]  [MINHO] [CIVS]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN][BOSS]                             |
+| [YUNA]  [MINHO] [CIVS]  [ECHO]  [SECC]                              |
 +---------------------------------------------------------------------+
 | - Node 02: Commander Taeho (Maintaining Kinetic Phalanx Wall)       |
 | - Node 03: Engineer Joon (Hydraulic Piston Sapping Jack Primed)     |
 | - Node 04: Handler Soojin (Leaded Snare Binding SECC-019 Tendrils)  |
 | - Node 05: Boss Gwangseok (Exoskeleton 1,130/1,800 / Evasion 0%)    |
 | - Node 06: Auditor Yuna (Veil EMP Disruptor Discharged / Overload)  |
-| - Node 07: Investigator Minho (Targeting Pneumatic Sledgehammer Hub |
+| - Node 07: Investigator Minho (Targeting Pneumatic Sledgehammer     |
+|   Hub)                                                              |
 | - Node 09: Infiltrator Echo (Shadow Catwalk Flank behind Dais)      |
-| - Node 10: SECC-019 (Grief Shroud Agitated / Siphon Conduits Expose |
+| - Node 10: SECC-019 (Grief Shroud Agitated / Siphon Conduits        |
+|   Exposed)                                                          |
 +---------------------------------------------------------------------+
-| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 45/50 | Posture |
-| - Joon        : Spd 5 -> 3 AP | HP 3,800/3,800 | SP 40/40 | Posture |
-| - Yuna        : Spd 9 -> 5 AP [SURGE] | HP 2,700/2,700 | SP 50/50 | |
-| - Minho       : Spd 7 -> 4 AP | HP 2,900/2,900 | SP 45/45 | Posture |
-| - Soojin      : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 50/50 | Posture |
-| - Echo        : Spd 9 -> 5 AP | HP 2,600/2,600 | SP 40/40 | Posture |
-| - Gwangseok   : Spd 3 -> 1 AP | HP 4,730/5,400 | Posture 186/240 [E |
-| - SECC-019    : Spd 4 -> 2 AP | HP 2,120/2,400 | Posture 152/180 [S |
+| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 45/50           |
+|   | Posture 180/180                                                 |
+| - Joon        : Spd 5 -> 3 AP | HP 3,800/3,800 | SP 40/40           |
+|   | Posture 150/150                                                 |
+| - Yuna        : Spd 9 -> 5 AP [SURGE] | HP 2,700/2,700 | SP 50/50   |
+|   | Posture 100/100                                                 |
+| - Minho       : Spd 7 -> 4 AP | HP 2,900/2,900 | SP 45/45           |
+|   | Posture 110/110                                                 |
+| - Soojin      : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 50/50           |
+|   | Posture 140/140                                                 |
+| - Echo        : Spd 9 -> 5 AP | HP 2,600/2,600 | SP 40/40           |
+|   | Posture 90/90 [STEALTH]                                         |
+| - Gwangseok   : Spd 3 -> 1 AP | HP 4,730/5,400                      |
+|   | Posture 186/240 [EMP OVERLOAD]                                  |
+| - SECC-019    : Spd 4 -> 2 AP | HP 2,120/2,400                      |
+|   | Posture 152/180 [SNARED]                                        |
 +=====================================================================+
 ```
 
@@ -340,20 +371,27 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
 |          TACTICAL STAGE HUD: OPERATION 01 — BATTLE TURN 03          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — HAMMER SHATTER & STAGGER THRESHOLD 1]       |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]        [TAEHO] [JOON]  [BOSS]   [YUNA]  [MINHO] [CIVS]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]        [TAEHO] [JOON]  [BOSS]                             |
+| [YUNA]  [MINHO] [CIVS]  [ECHO]  [SECC]                              |
 +---------------------------------------------------------------------+
 | - Node 03: Commander Taeho & Engineer Joon (Advancing to Node 04)   |
 | - Node 05: Boss Gwangseok (STAGGER LEVEL 1 / HAMMER DESTROYED)      |
-| - Node 06: Auditor Yuna (Debt Foreclosure Beam Locked on Exoskeleto |
+| - Node 06: Auditor Yuna (Debt Foreclosure Beam Locked on            |
+|   Exoskeleton)                                                      |
 | - Node 07: Investigator Minho (Cryo-Needle Piercing Hydraulic Core) |
-| - Node 09: Infiltrator Echo (Stiletto Primed at Entity Siphon Tubes |
+| - Node 09: Infiltrator Echo (Stiletto Primed at Entity Siphon       |
+|   Tubes)                                                            |
 | - Node 10: SECC-019 (Sorrow Valve Fluttering / Agitation Rising)    |
 +---------------------------------------------------------------------+
-| - Taeho       : Spd 6 -> 3 AP [SURGE] | HP 4,400/4,400 | SP 48/50 | |
-| - Joon        : Spd 7 -> 4 AP [SURGE] | HP 3,800/3,800 | SP 40/40 | |
-| - Gwangseok   : Spd 0 -> 0 AP | HP 3,750/5,400 | Posture 92/240 [ST |
-| - SECC-019    : Spd 4 -> 2 AP | HP 2,120/2,400 | Posture 152/180 [R |
+| - Taeho       : Spd 6 -> 3 AP [SURGE] | HP 4,400/4,400 | SP 48/50   |
+|   | Posture 180/180                                                 |
+| - Joon        : Spd 7 -> 4 AP [SURGE] | HP 3,800/3,800 | SP 40/40   |
+|   | Posture 150/150                                                 |
+| - Gwangseok   : Spd 0 -> 0 AP | HP 3,750/5,400                      |
+|   | Posture 92/240 [STAGGER LEVEL 1]                                |
+| - SECC-019    : Spd 4 -> 2 AP | HP 2,120/2,400                      |
+|   | Posture 152/180 [RESTRICTED]                                    |
 +=====================================================================+
 ```
 
@@ -390,22 +428,31 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
 |          TACTICAL STAGE HUD: OPERATION 01 — BATTLE TURN 04          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — ENTITY BERSERK & LEADED DAMPING BUBBLE]     |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]        [TAEHO] [JOON]  [BOSS]   [SOOJIN][YUNA]  [CIVS]  [ |
-|                                                   [MINHO]           |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]        [TAEHO] [JOON]  [BOSS]                             |
+| [SOOJIN][YUNA]  [CIVS]  [ECHO]  [SECC]                              |
+| [MINHO]                                                             |
 +---------------------------------------------------------------------+
-| - Node 03: Commander Taeho (Baton Counter vs Recovered Brawler Punc |
+| - Node 03: Commander Taeho (Baton Counter vs Recovered Brawler      |
+|   Punch)                                                            |
 | - Node 04: Engineer Joon (Shoring Up Structural Catwalk Supports)   |
-| - Node 05: Boss Gwangseok (Exoskeleton Shattered / Desperate Brawle |
+| - Node 05: Boss Gwangseok (Exoskeleton Shattered / Desperate        |
+|   Brawler)                                                          |
 | - Node 06: Handler Soojin (Leaded Damping Bubble Covering Squad)    |
-| - Node 07: Auditor Yuna & Minho (Restoring Composure / Mnemonic Anc |
-| - Node 08: Civilian Hostage Berths (Fully Shielded by Leaded Barrie |
+| - Node 07: Auditor Yuna & Minho (Restoring Composure / Mnemonic     |
+|   Anchor)                                                           |
+| - Node 08: Civilian Hostage Berths (Fully Shielded by Leaded        |
+|   Barrier)                                                          |
 | - Node 10: SECC-019 (BERSERK RAGE / Delusion of the False Sky)      |
 +---------------------------------------------------------------------+
-| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 50/50 | Posture |
-| - Soojin      : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 50/50 | |
-| - Gwangseok   : Spd 3 -> 1 AP | HP 2,980/5,400 | Posture 58/240 [UN |
-| - SECC-019    : Spd 6 -> 3 AP | HP 1,980/2,400 | Posture 94/180 [BE |
+| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 50/50           |
+|   | Posture 180/180                                                 |
+| - Soojin      : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 50/50   |
+|   | Posture 140/140                                                 |
+| - Gwangseok   : Spd 3 -> 1 AP | HP 2,980/5,400                      |
+|   | Posture 58/240 [UNARMORED]                                      |
+| - SECC-019    : Spd 6 -> 3 AP | HP 1,980/2,400                      |
+|   | Posture 94/180 [BERSERK]                                        |
 +=====================================================================+
 ```
 
@@ -442,21 +489,28 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
 |          TACTICAL STAGE HUD: OPERATION 01 — BATTLE TURN 05          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — PHANTOM SEVER & TERMINAL STAGGER]           |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]        [TAEHO] [JOON]  [BOSS]   [SOOJIN][YUNA]  [CIVS]    |
-|                                                   [MINHO]         [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]        [TAEHO] [JOON]  [BOSS]                             |
+| [SOOJIN][YUNA]  [CIVS]          [SECC]                              |
+| [MINHO]         [ECHO]                                              |
 +---------------------------------------------------------------------+
 | - Node 03: Commander Taeho (Priming Iron Verdict on Boss)           |
 | - Node 05: Boss Gwangseok (TERMINAL STAGGER / POSTURE 0/240)        |
-| - Node 06: Handler Soojin (Rolling Class-IV Vacuum Cask into Positi |
+| - Node 06: Handler Soojin (Rolling Class-IV Vacuum Cask into        |
+|   Position)                                                         |
 | - Node 07: Investigator Minho (Neural Inscription Lance Firing)     |
 | - Node 09: Infiltrator Echo (Stiletto Sever from Stealth on Core)   |
-| - Node 10: SECC-019 (TERMINAL STAGGER / POSTURE 0/180 / SHROUD COLL |
+| - Node 10: SECC-019 (TERMINAL STAGGER / POSTURE 0/180 / SHROUD      |
+|   COLLAPSED)                                                        |
 +---------------------------------------------------------------------+
-| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 50/50 | Posture |
-| - Echo        : Spd 11 -> 5 AP [MOMENTUM CRIT] | HP 2,600/2,600 | S |
-| - Gwangseok   : Spd 0 -> 0 AP | HP 600/5,400   | Posture 0/240 [COL |
-| - SECC-019    : Spd 0 -> 0 AP | HP 850/2,400   | Posture 0/180 [COL |
+| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 50/50           |
+|   | Posture 180/180                                                 |
+| - Echo        : Spd 11 -> 5 AP [MOMENTUM CRIT] | HP 2,600/2,600     |
+|   | SP 40/40                                                        |
+| - Gwangseok   : Spd 0 -> 0 AP | HP 600/5,400                        |
+|   | Posture 0/240 [COLLAPSED]                                       |
+| - SECC-019    : Spd 0 -> 0 AP | HP 850/2,400                        |
+|   | Posture 0/180 [COLLAPSED]                                       |
 +=====================================================================+
 ```
 
@@ -492,14 +546,16 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
 |          TACTICAL STAGE HUD: OPERATION 01 — BATTLE TURN 06          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — OVERDRIVE PACIFICATION & CASK SEAL]         |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]                [JOON]  [TAEHO]  [SOOJIN][YUNA]  [CIVS]    |
-|                                  [BOSS]           [MINHO]         [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]                [JOON]  [TAEHO]                            |
+| [SOOJIN][YUNA]  [CIVS]          [CASK]                              |
+| [BOSS]           [MINHO]         [ECHO]                             |
 +---------------------------------------------------------------------+
 | - Node 05: Boss Gwangseok (SUBDUED & ARRESTED / Concussive Lock)    |
 | - Node 06: Auditor Yuna (Ledgers Downloaded / 100% Asset Seizure)   |
 | - Node 08: 12 Civilian Mask-Carvers (Liberated / Zero Casualties)   |
-| - Node 10: SECC-019 (SEALED IN LEAD CASK / Handoff to RD Floor 2 Re |
+| - Node 10: SECC-019 (SEALED IN LEAD CASK / Handoff to RD Floor 2    |
+|   Ready)                                                            |
 +---------------------------------------------------------------------+
 | - Strike Cadre: Zero Fatalities | Composure 50/50 SP (Lucidity)     |
 | - Boss & Entity: HP 0 / 5,400 & 0 / 2,400 [100% PACIFIED & SECURED] |

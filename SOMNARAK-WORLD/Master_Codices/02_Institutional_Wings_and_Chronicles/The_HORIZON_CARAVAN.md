@@ -82,13 +82,15 @@ Facing down the Council of Sighs with sovereign authority, Kael formalized **The
 |         DRIFT THRONE TECHNICAL BLUEPRINT (CLASS IV CRAWLER)         |
 +---------------------------------------------------------------------+
 | VESSEL SPECIFICATION : 'The Drift Throne' Heavy Land Cruiser        |
-| CHASSIS LENGTH       : 142.5 Meters | Beam: 64.0 Meters | Height: 3 |
-| PROPULSION SYSTEM    : Quadruple Heavy Adamantine Caterpillar Track |
+| CHASSIS LENGTH       : 142.5 Meters | Beam: 64.0 Meters             |
+|   | Height: 38.0m                                                   |
+| PROPULSION SYSTEM : Quadruple Heavy Adamantine Caterpillar Tracks   |
 | POWER PLANT          : Han-Resonant Geothermal Ley-Siphon Turbine   |
 +---------------------------------------------------------------------+
 | FUNCTIONAL DECK CONFIGURATION:                                      |
 | - Tier 01 (Trackdeck) : Hydraulic Shock Dampers & Dune Anchors      |
-| - Tier 02 (Hold Deck) : 4,000 Metric Ton Sealed Cargo & Battery Pod |
+| - Tier 02 (Hold Deck) : 4,000 Metric Ton Sealed Cargo & Battery     |
+|   Pods                                                              |
 | - Tier 03 (Living)    : Passenger Quarters, Infirmary, Refectory    |
 | - Tier 04 (Bridge)    : Drift King Throne, Han-Sonar Helm, Turrets  |
 +=====================================================================+
@@ -124,9 +126,9 @@ To survive the apocalyptic weather of the Desolate, the Drift Throne is equipped
 |          URBAN & EXPEDITION THREAT SCALES (UTS-1 TO UTS-4)          |
 +---------------------------------------------------------------------+
 | UTS-1 (OUTSKIRTS) : Low Hazard — Residual Han-Drift, Dust Entities  |
-| UTS-2 (DESOLATE)  : Moderate — Glass Storms, Dune Burrowers, Bandit |
-| UTS-3 (FRONTIER)  : High — City Border Forts, Warden Kinetic Cannon |
-| UTS-4 (INTERIOR)  : Critical — City Cores, Furnace Rages, Void Sink |
+| UTS-2 (DESOLATE) : Moderate — Glass Storms, Dune Burrowers, Bandits |
+| UTS-3 (FRONTIER) : High — City Border Forts, Warden Kinetic Cannons |
+| UTS-4 (INTERIOR) : Critical — City Cores, Furnace Rages, Void Sinks |
 +=====================================================================+
 ```
 
@@ -176,7 +178,8 @@ In the uncharted badlands of the Desolate, combat is characterized by dynamic op
 ```
 
 ### 1. Speed, Action Points & Range Bands
-- **Action Points (AP)**: Calculated every Battle Turn as AP = floor(Base Speed / 2) + Modifiers. High-speed outriders (Speed 8+) command up to 5 AP per turn, allowing multi-target suppressing fire.
+- **Action Points (AP)**: Calculated every Battle Turn as 	ext{AP} = \lfloor 	ext{Base Speed} / 2 
+floor + 	ext{Modifiers}. High-speed outriders (Speed 8+) command up to 5 AP per turn, allowing multi-target suppressing fire.
 - **Range Bands 1 to 5**:
   * **Band 1 (Nodes 01–02)**: Point-Blank Melee (Heavy trench-cleavers, hydraulic pile-drivers).
   * **Band 2 (Nodes 03–04)**: Close Assault (Shotguns, thermal flame-throwers).
@@ -185,10 +188,10 @@ In the uncharted badlands of the Desolate, combat is characterized by dynamic op
   * **Band 5 (Nodes 09–10)**: Global Planetary Siege (Crawler main kinetic battery).
 
 ### 2. M.A.W.-W Mobility & Weight Modifiers
-- **Light Outrider (W < 25kg)**: Speed +2, Evasion +15%, AP +1. Vulnerable to heavy blunt knockbacks.
-- **Medium Warden (25kg <= W <= 60kg)**: Balanced profile, no speed penalties, standard posture.
-- **Heavy Dredger (61kg <= W <= 120kg)**: Speed -1, Protection +3, Poise +20. Immune to light stagger.
-- **Fortress Crawler (W > 120kg)**: Speed -2, Protection +6, Poise +50. Replaces dodge with Unyielding Armor Block.
+- **Light Outrider (W < 25\text{kg})**: Speed +2, Evasion +15%, AP +1. Vulnerable to heavy blunt knockbacks.
+- **Medium Warden (25\text{kg} \le W \le 60\text{kg})**: Balanced profile, no speed penalties, standard posture.
+- **Heavy Dredger (61\text{kg} \le W \le 120\text{kg})**: Speed -1, Protection +3, Poise +20. Immune to light stagger.
+- **Fortress Crawler (W > 120\text{kg})**: Speed -2, Protection +6, Poise +50. Replaces dodge with Unyielding Armor Block.
 
 ### 3. The Four P-Framework
 - **P1: Passives (고유 지속효과)**: Planetary Ley-Resonance, Sand-Drift Camouflage, Furnace Fire-Absorption.

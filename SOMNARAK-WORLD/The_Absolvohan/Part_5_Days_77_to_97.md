@@ -3,12 +3,12 @@
 ## Batch 4 — Days 77–97: The Founder's Journal & The Breaking Silence
 
 ```text
-+==============================================+
-| ABSOLVOHAN CYCLE 1,778 — OPERATIONAL LOG     |
-| SECTOR: ARCHIVAL CRYPTS TO SOUTHERN BORDER   |
-| ACTIVE ECHOS: FLOORS 1 THROUGH 8             |
-| CRITICAL MID-POINT: DAYS 77 TO 97            |
-+==============================================+
++=====================================================================+
+| ABSOLVOHAN CYCLE 1,778 — OPERATIONAL LOG                            |
+| SECTOR: ARCHIVAL CRYPTS TO SOUTHERN BORDER                          |
+| ACTIVE ECHOS: FLOORS 1 THROUGH 8                                    |
+| CRITICAL MID-POINT: DAYS 77 TO 97                                   |
++=====================================================================+
 ```
 
 Batch 4 marks the psychological and operational crucible of Cycle 1,778. Across Days 77 through 97, the foundational mythology of Somnarak is dismantled and reconstructed in real-time. The unearthing of the Founder's original unredacted journal exposes the fundamental truth of the city's existence: human civilization did not conquer sorrow on this world—it built its towers atop a living, planetary wound.
@@ -44,17 +44,17 @@ Through rigorous multi-floor coordination, the Reverie Directorate sustains unpr
 ### Gameplay — Day 77: Central Command Tactical Interface
 
 ```text
-+==============================================+
-| REVERIE DIRECTORATE — CENTRAL COMMAND        |
-| TERMINAL                                     |
-| FACILITY MANAGEMENT INTERFACE: DAY 77 SHIFT  |
-| ENERGY QUOTA: 0.295 TONS | CURRENT: 0.000    |
-| TONS                                         |
-| HYDRAULIC BALLAST: 48.890 TONS | CRYPT       |
-| FOCUS                                        |
-| ACTIVE CONTAINMENT: SE-115, 126, 169, 189,   |
-| 340, 709                                     |
-+==============================================+
++=====================================================================+
+| REVERIE DIRECTORATE — CENTRAL COMMAND                               |
+| TERMINAL                                                            |
+| FACILITY MANAGEMENT INTERFACE: DAY 77 SHIFT                         |
+| ENERGY QUOTA: 0.295 TONS | CURRENT: 0.000                           |
+| TONS                                                                |
+| HYDRAULIC BALLAST: 48.890 TONS | CRYPT                              |
+| FOCUS                                                               |
+| ACTIVE CONTAINMENT: SE-115, 126, 169, 189,                          |
+| 340, 709                                                            |
++=====================================================================+
 ```
 
 Shift parameters initialized for Day 77. Daily collection target escalates to **0.295 tons** of refined Han. The excavation of the Pre-Consolihan crypts on Floor 6 elevates facility-wide acoustic strain: ambient resonance accelerates meltdown buildup by +10% across all antique containment units. Operational priority: balance memory-extraction rates from **SE-C-IIIγ-115** (*The Memory Well*) while managing thermal drops caused by **SE-O-Iα-340** (*The Frozen Relic*).
@@ -64,29 +64,29 @@ Shift parameters initialized for Day 77. Daily collection target escalates to **
 Deployment roster for Floor 5 (Border Watch) and Floor 6 (Deep Vault):
 
 ```text
-+---------------------+------------------------+
-| AGENT & GRADE       | STATS & EQUIPMENT      |
-|                     | LOADOUT                |
-+=====================+========================+
-| Agent Seo Grade 5   | HP:82 SP:95 Wk:88      |
-|                     | Sp:60 | Apostle Suit & |
-|                     | Scalpel                |
-+---------------------+------------------------+
-| Agent Jin Grade 5   | HP:75 SP:80 Wk:78      |
-|                     | Sp:56 | Shroud Suit &  |
-|                     | Sonic Bow              |
-+---------------------+------------------------+
-| Agent Yoo Grade 5   | HP:94 SP:76 Wk:82      |
-|                     | Sp:58 | Lock Armor &   |
-|                     | Heavy Maul             |
-+---------------------+------------------------+
-| Agent Lim Grade 4   | HP:68 SP:88 Wk:74      |
-|                     | Sp:52 | Mourner Shroud |
-|                     | & Locket               |
-+---------------------+------------------------+
-| Lead Aura           | Marjuk: Recall Stasis  |
-|                     | (+10 Max Clarity / SP) |
-+---------------------+------------------------+
++---------------------------------------------------------------------+
+| AGENT & GRADE       | STATS & EQUIPMENT                             |
+| | LOADOUT                                                           |
++=====================================================================+
+| Agent Seo Grade 5   | HP:82 SP:95 Wk:88                             |
+| | Sp:60 | Apostle Suit &                                            |
+| | Scalpel                                                           |
++---------------------------------------------------------------------+
+| Agent Jin Grade 5   | HP:75 SP:80 Wk:78                             |
+| | Sp:56 | Shroud Suit &                                             |
+| | Sonic Bow                                                         |
++---------------------------------------------------------------------+
+| Agent Yoo Grade 5   | HP:94 SP:76 Wk:82                             |
+| | Sp:58 | Lock Armor &                                              |
+| | Heavy Maul                                                        |
++---------------------------------------------------------------------+
+| Agent Lim Grade 4   | HP:68 SP:88 Wk:74                             |
+| | Sp:52 | Mourner Shroud                                            |
+| | & Locket                                                          |
++---------------------------------------------------------------------+
+| Lead Aura           | Marjuk: Recall Stasis                         |
+| | (+10 Max Clarity / SP)                                            |
++---------------------------------------------------------------------+
 ```
 
 Archive Lead Marjuk's *Recall Stasis* aura reinforces mental equilibrium across all operatives deployed in the Deep Vaults, granting +10 maximum Clarity (SP) to buffer personnel against cognitive vertigo from ancient memory spools.
@@ -145,14 +145,14 @@ Energy counter advances to `0.058 / 0.295 tons`. Meltdown gauge: `2/7`.
 At work tick 18, ancient crypt conduits experience sudden harmonic compression:
 
 ```text
-+==============================================+
-| EMERGENCY: ACOUSTIC STRAIN MELTDOWN LEVEL VI |
-| CRITICAL OVERLOAD IN 6 PRE-CONSOLIHAN CELLS! |
-| AFFECTED CELLS: SE-115, 126, 169, 189, 340,  |
-| 709                                          |
-| OVERLOAD TIMER: 45.0 SECONDS UNTIL BREACH    |
-| TACTICAL DIRECTIVE: VEIL MIST DAMPENER       |
-+==============================================+
++=====================================================================+
+| EMERGENCY: ACOUSTIC STRAIN MELTDOWN LEVEL VI                        |
+| CRITICAL OVERLOAD IN 6 PRE-CONSOLIHAN CELLS!                        |
+| AFFECTED CELLS: SE-115, 126, 169, 189, 340,                         |
+| 709                                                                 |
+| OVERLOAD TIMER: 45.0 SECONDS UNTIL BREACH                           |
+| TACTICAL DIRECTIVE: VEIL MIST DAMPENER                              |
++=====================================================================+
 ```
 
 Tactical response execution:
@@ -167,36 +167,36 @@ Tactical response execution:
 At 14:30, seismic sensors detect an anomalous mass manifesting in the Floor 6 Archive Rotunda:
 
 ```text
-+==============================================+
-| TACTICAL DOSSIER: SECOND WATCH (NOON) ORDEAL |
-+----------------------------------------------+
-| DESIGNATION : THE FOSSIL OF MEMORY           |
-| CLASSIFICATION : WEIGHT (VIOLET) NOON        |
-| INTRUSION POINT : FLOOR 6 ARCHIVE ROTUNDA    |
-+----------------------------------------------+
-| HOSTILE PARAMETERS:                          |
-| - Entities: 1x Petrified Gravitic Skeleton   |
-| - Attack Affinity: Weight (Gravitational)    |
-| - Weakness Affinity: Grudge (High Impact)    |
-+----------------------------------------------+
-| ENGAGEMENT TELEMETRY:                        |
-| - Fossil pins 3 archivists under 2.5G stasis |
-| - Range Band: Intercept at Range Band 1      |
-| - Agent Yoo deploys SE-300 Lock Maul         |
-| - Heavy kinetic shockwave shatters spine     |
-| - Clash Duration: 38.6 Seconds               |
-| - Personnel Casualties: 0 Fatalities         |
-+==============================================+
++=====================================================================+
+| TACTICAL DOSSIER: SECOND WATCH (NOON) ORDEAL                        |
++---------------------------------------------------------------------+
+| DESIGNATION : THE FOSSIL OF MEMORY                                  |
+| CLASSIFICATION : WEIGHT (VIOLET) NOON                               |
+| INTRUSION POINT : FLOOR 6 ARCHIVE ROTUNDA                           |
++---------------------------------------------------------------------+
+| HOSTILE PARAMETERS:                                                 |
+| - Entities: 1x Petrified Gravitic Skeleton                          |
+| - Attack Affinity: Weight (Gravitational)                           |
+| - Weakness Affinity: Grudge (High Impact)                           |
++---------------------------------------------------------------------+
+| ENGAGEMENT TELEMETRY:                                               |
+| - Fossil pins 3 archivists under 2.5G stasis                        |
+| - Range Band: Intercept at Range Band 1                             |
+| - Agent Yoo deploys SE-300 Lock Maul                                |
+| - Heavy kinetic shockwave shatters spine                            |
+| - Clash Duration: 38.6 Seconds                                      |
+| - Personnel Casualties: 0 Fatalities                                |
++=====================================================================+
 ```
 
 Director Majin establishes GBS tactical engagement in the Archive Rotunda:
 
 ```text
 +=====================================================================+
-|        COMBAT HUD: PHASE 01 — BATTLE TURN 01 (VIOLET FOSSIL)        |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (VIOLET FOSSIL)               |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | POS : [FOSSIL] [YOO] [ARCHIVISTS] [MARJUK]                          |
 | DIST : Yoo at N03 (Band 1); Archivists at N05 (Pinned); Marjuk at   |
 | N10.                                                                |
@@ -204,7 +204,7 @@ Director Majin establishes GBS tactical engagement in the Archive Rotunda:
 | Agent Yoo : Speed 6 -> 3 AP | HP: 140/140 | SP: +30 | Lock Maul     |
 | Archive Marjuk : Speed 5 -> 3 AP | HP: 200/200 | SP: +40 | Chrono   |
 | Stasis                                                              |
-| Memory Fossil : Speed 4 -> 2 AP | HP: 380/380 | Sorrow: 60% |       |
+| Memory Fossil : Speed 4 -> 2 AP | HP: 380/380 | Sorrow: 60%         |
 | Gravitic Stasis                                                     |
 +=====================================================================+
 ```
@@ -225,20 +225,21 @@ Director Majin establishes GBS tactical engagement in the Archive Rotunda:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — FLOOR 6 ARCHIVE DEEP SUB-VAULT]             |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [FOSSIL][YOO]           [MARJUK]                [MAJIN]             |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [FOSSIL][YOO] [MARJUK] [MAJIN]                                      |
 +---------------------------------------------------------------------+
 | - Node 01: Fossilized Titan (Posture 72/150 / Rib Cage Fractured)   |
 | - Node 02: Agent Yoo (Point-Blank Band 1 / Heavy Maul Cleaving)     |
 | - Node 05: Archive Lead Marjuk (Range Band 3 / Easing Stasis Field) |
 | - Node 08: Director Majin & Seiyon Command Console (Band 4)         |
 +---------------------------------------------------------------------+
-| - Agent Yoo    : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 70/7 |
-| - Marjuk       : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/9 |
-| - Fossil Titan : Spd 3 -> 1 AP | HP 198/320 | Posture 72/150 [CRACK |
+| - Agent Yoo : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 70/7    |
+| - Marjuk : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/9       |
+| - Fossil Titan : Spd 3 -> 1 AP | HP 198/320                         |
+|   | Posture 72/150 [CRACKED]                                        |
 +=====================================================================+
 ```
 
@@ -255,19 +256,20 @@ Director Majin establishes GBS tactical engagement in the Archive Rotunda:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — POSTURE BREAK STAGGER LEVEL 1]              |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [FOSSIL]        [YOO]   [MARJUK]                [MAJIN]             |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [FOSSIL] [YOO] [MARJUK] [MAJIN]                                     |
 +---------------------------------------------------------------------+
 | - Node 01: Fossil Titan (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)       |
 | - Node 03: Agent Yoo (Advancing with Momentum Surge / +2 Speed)     |
 | - Node 04: Archive Lead Marjuk (Applying Chronological Seal)        |
 +---------------------------------------------------------------------+
-| - Agent Yoo    : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +30 | Post |
-| - Marjuk       : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/9 |
-| - Fossil Titan : Spd 0 -> 0 AP | HP 102/320 | Posture 24/150 [STAGG |
+| - Agent Yoo : Spd 8 -> 4 AP [SURGE] | HP 125/125 | SP +30 | Post    |
+| - Marjuk : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/9       |
+| - Fossil Titan : Spd 0 -> 0 AP | HP 102/320                         |
+|   | Posture 24/150 [STAGGERED]                                      |
 +=====================================================================+
 ```
 
@@ -281,19 +283,21 @@ Director Majin establishes GBS tactical engagement in the Archive Rotunda:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — GRAVITATIONAL SINGULARITY COUNTER-SURGE]    |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [FOSSIL][YOO]           [MARJUK]                [MAJIN]             |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [FOSSIL][YOO] [MARJUK] [MAJIN]                                      |
 +---------------------------------------------------------------------+
 | - Node 01: Fossil Titan (Recovered / Channeling Singularity Pulse)  |
 | - Node 02: Agent Yoo (Directional Guard Absorption Active)          |
-| - Node 05: Archive Lead Marjuk (Freezing Vertebrae with Stasis Fiel |
+| - Node 05: Archive Lead Marjuk (Freezing Vertebrae with Stasis      |
+|   Field)                                                            |
 +---------------------------------------------------------------------+
-| - Agent Yoo    : Spd 8 -> 4 AP | HP 118/125 | SP +30 | Posture 62/7 |
-| - Marjuk       : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/9 |
-| - Fossil Titan : Spd 3 -> 1 AP | HP 54/320  | Posture 10/150 [UNSTA |
+| - Agent Yoo : Spd 8 -> 4 AP | HP 118/125 | SP +30 | Posture 62/7    |
+| - Marjuk : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/9       |
+| - Fossil Titan : Spd 3 -> 1 AP | HP 54/320                          |
+|   | Posture 10/150 [UNSTABLE]                                       |
 +=====================================================================+
 ```
 
@@ -308,20 +312,22 @@ Director Majin establishes GBS tactical engagement in the Archive Rotunda:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — TERMINAL STAGGER LEVEL 2 INDUCTION]         |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [FOSSIL]                                        [MAJIN]             |
-|         [YOO]   [MARJUK]                                            |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [FOSSIL] [MAJIN]                                                    |
+| [YOO]   [MARJUK]                                                    |
 +---------------------------------------------------------------------+
-| - Node 01: Fossil Titan (TERMINAL STAGGER / POSTURE 0/150 / 2.0x DM |
+| - Node 01: Fossil Titan (TERMINAL STAGGER / POSTURE 0/150 / 2.0x    |
+|   DA)                                                               |
 | - Node 02: Agent Yoo (Crushing Pelvic Pivot)                        |
 | - Node 03: Archive Lead Marjuk (Locking Stasis Field over Skull)    |
 +---------------------------------------------------------------------+
-| - Agent Yoo    : Spd 6 -> 3 AP | HP 118/125 | SP +30 | Posture 62/7 |
-| - Marjuk       : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/9 |
-| - Fossil Titan : Spd 0 -> 0 AP | HP 16/320  | Posture 0/150 [COLLAP |
+| - Agent Yoo : Spd 6 -> 3 AP | HP 118/125 | SP +30 | Posture 62/7    |
+| - Marjuk : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/9       |
+| - Fossil Titan : Spd 0 -> 0 AP | HP 16/320                          |
+|   | Posture 0/150 [COLLAPSED]                                       |
 +=====================================================================+
 ```
 
@@ -334,18 +340,18 @@ Director Majin establishes GBS tactical engagement in the Archive Rotunda:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — CLIMAX EXECUTION & PURIFICATION]            |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [GRAVEL][YOO]           [MARJUK]                [MAJIN]             |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [GRAVEL][YOO] [MARJUK] [MAJIN]                                      |
 +---------------------------------------------------------------------+
 | - Node 01: Fossil Titan (Disintegrated to Gravel / Han Siphoned)    |
 | - Node 02: Agent Yoo (Resting Maul / Wiping Bone Dust)              |
 | - Node 05: Archive Lead Marjuk (Deactivating Stasis Cannons)        |
 +---------------------------------------------------------------------+
-| - Agent Yoo    : Spd 6 -> 3 AP | HP 118/125 | SP +35 | Posture 70/7 |
-| - Marjuk       : Spd 5 -> 3 AP | HP 180/180 | SP +40 | Posture 90/9 |
+| - Agent Yoo : Spd 6 -> 3 AP | HP 118/125 | SP +35 | Posture 70/7    |
+| - Marjuk : Spd 5 -> 3 AP | HP 180/180 | SP +40 | Posture 90/9       |
 | - Fossil Titan : HP 0/320 [PURIFIED] | +0.022 TONS REFINED HAN HARV |
 +=====================================================================+
 ```
@@ -358,7 +364,7 @@ Director Majin establishes GBS tactical engagement in the Archive Rotunda:
 
 ```text
 +=====================================================================+
-|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
+| PHASE 01 RESOLUTION (PHASE-END TICK)                                |
 +---------------------------------------------------------------------+
 | 1. Environmental Check : 2.5G gravitational compression field       |
 | normalizes.                                                         |
@@ -374,45 +380,45 @@ Shift concludes with cumulative daily harvest of **0.295 tons** (100% quota achi
 #### 3. Post-Shift Evaluation & Facility Indices
 
 ```text
-+==============================================+
-| END-OF-DAY PERFORMANCE EVALUATION: DAY 77    |
-+----------------------------------------------+
-| METRIC               | TARGET | REALIZED     |
-+----------------------+--------+--------------+
-| Han Energy Harvested | 0.295t | 0.295 tons   |
-| Containment Breaches | 0 Max  | 0 Breaches   |
-| Personnel Casualties | 0 Dead | 0 Fatalities |
-| Meltdowns Cleared    | 6/6    | 100% Rate    |
-+----------------------+--------+--------------+
-| SHIFT PERFORMANCE GRADE: GRADE S             |
-| REAGENTS ACCUMULATED: +25 RHR                |
-| AGENT ADVANCEMENT:                           |
-| - Agent Lim: +5 Clarity (Max SP Up)          |
-| - Agent Yoo: +4 Resilience (Max HP Up)       |
-| - Agent Seo: +4 Composure (Work Rate Up)     |
-+==============================================+
++=====================================================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 77                           |
++---------------------------------------------------------------------+
+| METRIC               | TARGET | REALIZED                            |
++---------------------------------------------------------------------+
+| Han Energy Harvested | 0.295t | 0.295 tons                          |
+| Containment Breaches | 0 Max  | 0 Breaches                          |
+| Personnel Casualties | 0 Dead | 0 Fatalities                        |
+| Meltdowns Cleared    | 6/6    | 100% Rate                           |
++---------------------------------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S                                    |
+| REAGENTS ACCUMULATED: +25 RHR                                       |
+| AGENT ADVANCEMENT:                                                  |
+| - Agent Lim: +5 Clarity (Max SP Up)                                 |
+| - Agent Yoo: +4 Resilience (Max HP Up)                              |
+| - Agent Seo: +4 Composure (Work Rate Up)                            |
++=====================================================================+
 ```
 
 #### 4. Well Extraction Protocol & Containment Selection
 
 ```text
-+==============================================+
-| WELL EXTRACTION DRAFTING LOG — DAY 77        |
-+----------------------------------------------+
-| CHOICE ALPHA [SE-C-IIIb-044]:                |
-| "A clockwork soldier holding a fractured     |
-| blade, waiting for a war that ended          |
-| centuries ago."                              |
-+----------------------------------------------+
-| CHOICE BETA [SE-C-IIIg-120]:                 |
-| "An iron forge whose internal flames burn    |
-| with the unexpressed rage of discarded tools |
-| and shattered crucibles."                    |
-+----------------------------------------------+
-| CHOICE GAMMA [SE-O-IIIg-369]:                |
-| "A hollow wind that whispers the final words |
-| spoken by people who died alone in the snow."|
-+==============================================+
++=====================================================================+
+| WELL EXTRACTION DRAFTING LOG — DAY 77                               |
++---------------------------------------------------------------------+
+| CHOICE ALPHA [SE-C-IIIb-044]:                                       |
+| "A clockwork soldier holding a fractured                            |
+| blade, waiting for a war that ended                                 |
+| centuries ago."                                                     |
++---------------------------------------------------------------------+
+| CHOICE BETA [SE-C-IIIg-120]:                                        |
+| "An iron forge whose internal flames burn                           |
+| with the unexpressed rage of discarded tools                        |
+| and shattered crucibles."                                           |
++---------------------------------------------------------------------+
+| CHOICE GAMMA [SE-O-IIIg-369]:                                       |
+| "A hollow wind that whispers the final words                        |
+| spoken by people who died alone in the snow."                       |
++=====================================================================+
 ```
 
 Director's Tactical Assessment & Authorization:
@@ -425,19 +431,19 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIβ-044 (*The Forgotten
 #### 5. M.A.W. Synthesis & Armament Forging
 
 ```text
-+==============================================+
-| M.A.W. SYNTHESIS FORGING LOG — DAY 77        |
-+----------------------------------------------+
-| ITEM FORGED          | PROPERTIES / ALLOC    |
-+----------------------+-----------------------+
-| Glacial Ring         | Bracer: +50% Frost    |
-|                      | Resistance, 15% Slow  |
-|                      | Strike. Alloc: Lim.   |
-+----------------------+-----------------------+
-| Memory Locket        | Collar: +10 Max SP,   |
-|                      | +15% Lament Resistance|
-|                      | Alloc: Agent Seo.     |
-+======================+=======================+
++=====================================================================+
+| M.A.W. SYNTHESIS FORGING LOG — DAY 77                               |
++---------------------------------------------------------------------+
+| ITEM FORGED          | PROPERTIES / ALLOC                           |
++---------------------------------------------------------------------+
+| Glacial Ring         | Bracer: +50% Frost                           |
+| | Resistance, 15% Slow                                              |
+| | Strike. Alloc: Lim.                                               |
++---------------------------------------------------------------------+
+| Memory Locket        | Collar: +10 Max SP,                          |
+| | +15% Lament Resistance                                            |
+| | Alloc: Agent Seo.                                                 |
++=====================================================================+
 ```
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
@@ -471,17 +477,17 @@ Majin places his hand over the ink. *"I will extinguish it,"* he whispers. *"I p
 ### Gameplay — Day 82: Central Command Tactical Interface
 
 ```text
-+==============================================+
-| REVERIE DIRECTORATE — CENTRAL COMMAND        |
-| TERMINAL                                     |
-| FACILITY MANAGEMENT INTERFACE: DAY 82 SHIFT  |
-| ENERGY QUOTA: 0.340 TONS | CURRENT: 0.000    |
-| TONS                                         |
-| HYDRAULIC BALLAST: 49.020 TONS | SEISMIC     |
-| STRAIN                                       |
-| ACTIVE CONTAINMENT: SE-031, 032, 044, 115,   |
-| 169, 340                                     |
-+==============================================+
++=====================================================================+
+| REVERIE DIRECTORATE — CENTRAL COMMAND                               |
+| TERMINAL                                                            |
+| FACILITY MANAGEMENT INTERFACE: DAY 82 SHIFT                         |
+| ENERGY QUOTA: 0.340 TONS | CURRENT: 0.000                           |
+| TONS                                                                |
+| HYDRAULIC BALLAST: 49.020 TONS | SEISMIC                            |
+| STRAIN                                                              |
+| ACTIVE CONTAINMENT: SE-031, 032, 044, 115,                          |
+| 169, 340                                                            |
++=====================================================================+
 ```
 
 Shift parameters initialized for Day 82. Daily energy quota advances to **0.340 tons** of refined Han. Southern seismic pressure elevates tectonic ballast friction: Floor 5 (Border Watch) and Floor 2 (Containment Alpha) experience accelerated acoustic strain accumulation. Operational directive: initiate primary conditioning on **SE-C-IIIβ-044** (*The Forgotten Soldier*) and sustain harmonic stabilization on **SE-C-IIIγ-031** (*The Observing Bird*).
@@ -491,30 +497,30 @@ Shift parameters initialized for Day 82. Daily energy quota advances to **0.340 
 Deployment roster for Floor 2 (Containment Alpha) and Floor 5 (Border Watch):
 
 ```text
-+---------------------+------------------------+
-| AGENT & GRADE       | STATS & EQUIPMENT      |
-|                     | LOADOUT                |
-+=====================+========================+
-| Agent Kang Grade 5  | HP:96 SP:78 Wk:84      |
-|                     | Sp:62 | Threshold Suit |
-|                     | & Greatsword           |
-+---------------------+------------------------+
-| Agent Noh Grade 5   | HP:80 SP:85 Wk:80      |
-|                     | Sp:55 | Thorn Mantle & |
-|                     | Sonic Rifle            |
-+---------------------+------------------------+
-| Agent Hwang Grade 5 | HP:84 SP:96 Wk:90      |
-|                     | Sp:64 | Apostle Suit & |
-|                     | Scalpel                |
-+---------------------+------------------------+
-| Agent Park Grade 5  | HP:88 SP:74 Wk:76      |
-|                     | Sp:56 | Judgment Scale |
-|                     | & Maul                 |
-+---------------------+------------------------+
-| Lead Aura           | Mellda: Iron Perimeter |
-|                     | (+15% Physical Grudge  |
-|                     | Damage Resistance)     |
-+---------------------+------------------------+
++---------------------------------------------------------------------+
+| AGENT & GRADE       | STATS & EQUIPMENT                             |
+| | LOADOUT                                                           |
++=====================================================================+
+| Agent Kang Grade 5  | HP:96 SP:78 Wk:84                             |
+| | Sp:62 | Threshold Suit                                            |
+| | & Greatsword                                                      |
++---------------------------------------------------------------------+
+| Agent Noh Grade 5   | HP:80 SP:85 Wk:80                             |
+| | Sp:55 | Thorn Mantle &                                            |
+| | Sonic Rifle                                                       |
++---------------------------------------------------------------------+
+| Agent Hwang Grade 5 | HP:84 SP:96 Wk:90                             |
+| | Sp:64 | Apostle Suit &                                            |
+| | Scalpel                                                           |
++---------------------------------------------------------------------+
+| Agent Park Grade 5  | HP:88 SP:74 Wk:76                             |
+| | Sp:56 | Judgment Scale                                            |
+| | & Maul                                                            |
++---------------------------------------------------------------------+
+| Lead Aura           | Mellda: Iron Perimeter                        |
+| | (+15% Physical Grudge)                                            |
+| | Damage Resistance)                                                |
++---------------------------------------------------------------------+
 ```
 
 Border Lead Mellda's *Iron Perimeter* aura provides a facility-wide +15% damage mitigation against physical Grudge impacts, reinforcing containment operatives during violent clashing.
@@ -573,14 +579,14 @@ Energy counter advances to `0.077 / 0.340 tons`. Meltdown gauge: `2/7`.
 At work check 14, southern sand vibrations trigger a cascading multi-floor meltdown:
 
 ```text
-+==============================================+
-| EMERGENCY: ACOUSTIC STRAIN MELTDOWN LEVEL    |
-| VII                                          |
-| CRITICAL OVERLOAD IN 4 HIGH-HAZARD CELLS!    |
-| AFFECTED CELLS: SE-031, 032, 044, 115        |
-| OVERLOAD TIMER: 40.0 SECONDS UNTIL BREACH    |
-| TACTICAL DIRECTIVE: ACOUSTIC SIPHON          |
-+==============================================+
++=====================================================================+
+| EMERGENCY: ACOUSTIC STRAIN MELTDOWN LEVEL                           |
+| VII                                                                 |
+| CRITICAL OVERLOAD IN 4 HIGH-HAZARD CELLS!                           |
+| AFFECTED CELLS: SE-031, 032, 044, 115                               |
+| OVERLOAD TIMER: 40.0 SECONDS UNTIL BREACH                           |
+| TACTICAL DIRECTIVE: ACOUSTIC SIPHON                                 |
++=====================================================================+
 ```
 
 Tactical response execution:
@@ -594,39 +600,39 @@ Tactical response execution:
 At 16:15, tectonic sensors register subterranean burrowing beneath Floor 5:
 
 ```text
-+==============================================+
-| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL  |
-+----------------------------------------------+
-| DESIGNATION : THE GLUTTONOUS TRENCH WORM     |
-| CLASSIFICATION : WEIGHT / GRUDGE (AMBER) DUSK|
-| INTRUSION POINT : FLOOR 5 DRAINAGE SUB-LEVEL |
-+----------------------------------------------+
-| HOSTILE PARAMETERS:                          |
-| - Entities: 2x Armored Subterranean Worms    |
-| - Attack Affinity: Crushing Weight & Bite    |
-| - Weakness Affinity: High-Velocity Pierce    |
-+----------------------------------------------+
-| ENGAGEMENT TELEMETRY:                        |
-| - Worm breaches Floor 5 sub-floor plating    |
-| - Range Band: Intercept at Range Band 1-2    |
-| - Agent Kang & Agent Noh form vanguard line  |
-| - Noh deploys Sonic Rifle at Range Band 3    |
-| - Dual kinetic decapitation achieved         |
-| - Clash Duration: 52.4 Seconds               |
-| - Personnel Casualties: 0 Fatalities         |
-+==============================================+
++=====================================================================+
+| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL                         |
++---------------------------------------------------------------------+
+| DESIGNATION : THE GLUTTONOUS TRENCH WORM                            |
+| CLASSIFICATION : WEIGHT / GRUDGE (AMBER) DUSK                       |
+| INTRUSION POINT : FLOOR 5 DRAINAGE SUB-LEVEL                        |
++---------------------------------------------------------------------+
+| HOSTILE PARAMETERS:                                                 |
+| - Entities: 2x Armored Subterranean Worms                           |
+| - Attack Affinity: Crushing Weight & Bite                           |
+| - Weakness Affinity: High-Velocity Pierce                           |
++---------------------------------------------------------------------+
+| ENGAGEMENT TELEMETRY:                                               |
+| - Worm breaches Floor 5 sub-floor plating                           |
+| - Range Band: Intercept at Range Band 1-2                           |
+| - Agent Kang & Agent Noh form vanguard line                         |
+| - Noh deploys Sonic Rifle at Range Band 3                           |
+| - Dual kinetic decapitation achieved                                |
+| - Clash Duration: 52.4 Seconds                                      |
+| - Personnel Casualties: 0 Fatalities                                |
++=====================================================================+
 ```
 
 Director Majin establishes GBS tactical parameters in the drainage sub-level:
 
 ```text
 +=====================================================================+
-|         COMBAT HUD: PHASE 01 — BATTLE TURN 01 (AMBER WORM)          |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (AMBER WORM)                  |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | POS : [WORM-A] [WORM-B][KANG] [NOH] [MELLDA]                        |
-| DIST    : Kang at N03 (Band 1); Noh at N05 (Band 3); Mellda at N10. |
+| DIST : Kang at N03 (Band 1); Noh at N05 (Band 3); Mellda at N10.    |
 +---------------------------------------------------------------------+
 | Agent Kang : Speed 6 -> 3 AP | HP: 135/135 | SP: +30 | Threshold    |
 | Greatsword                                                          |
@@ -652,23 +658,25 @@ Director Majin establishes GBS tactical parameters in the drainage sub-level:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — FLOOR 5 OUTER DRAINAGE SLUICE]              |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [WORM-A][WORM-B][KANG]  [NOH]                   [MELLDA]        [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [WORM-A][WORM-B][KANG] [NOH] [MELLDA] [MAJIN]                       |
 +---------------------------------------------------------------------+
 | - Node 01: Chitinous Worm A (Posture 48/120 / Mandible Severed)     |
 | - Node 02: Chitinous Worm B (Charging Subterranean Sunder / Posture |
-| - Node 03: Agent Kang (Point-Blank Band 1 / Cleaving Segment Joints |
+|   160/160)                                                          |
+| - Node 03: Agent Kang (Point-Blank Band 1 / Cleaving Segment        |
+|   Joints)                                                           |
 | - Node 04: Agent Noh (Range Band 2 / Clockwork Bayonet Piercing)    |
 | - Node 07: Border Lead Mellda (Bulwark Shield / Sluice Gate Locked) |
 +---------------------------------------------------------------------+
 | - Agent Kang  : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70 |
-| - Agent Noh   : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60 |
-| - Mellda      : Spd 6 -> 3 AP | HP 195/195 | SP +35 | Posture 95/95 |
-| - Worm A      : Spd 3 -> 1 AP | HP 142/260 | Posture 48/120 [CRACKE |
-| - Worm B      : Spd 4 -> 2 AP | HP 260/260 | Posture 120/120        |
+| - Agent Noh : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60   |
+| - Mellda : Spd 6 -> 3 AP | HP 195/195 | SP +35 | Posture 95/95      |
+| - Worm A : Spd 3 -> 1 AP | HP 142/260 | Posture 48/120 [CRACKED]    |
+| - Worm B : Spd 4 -> 2 AP | HP 260/260 | Posture 120/120             |
 +=====================================================================+
 ```
 
@@ -685,11 +693,11 @@ Director Majin establishes GBS tactical parameters in the drainage sub-level:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — POSTURE BREAK STAGGER LEVEL 1 ON WORM A]    |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [SEDIMENT][WORM-B][KANG][NOH]                   [MELLDA]        [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [SEDIMENT][WORM-B][KANG][NOH] [MELLDA] [MAJIN]                      |
 +---------------------------------------------------------------------+
 | - Node 01: Worm A (SHATTERED & PULVERIZED / Sediment Siphoned)      |
 | - Node 02: Worm B (Posture 72/120 / Segment Joints Exposed)         |
@@ -698,9 +706,9 @@ Director Majin establishes GBS tactical parameters in the drainage sub-level:
 | - Node 07: Border Lead Mellda (Holding Sluice)                      |
 +---------------------------------------------------------------------+
 | - Agent Kang  : Spd 8 -> 4 AP [SURGE] | HP 130/130 | SP +30 | Postu |
-| - Agent Noh   : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60 |
-| - Worm A      : HP 0/260 [DESTROYED]                                |
-| - Worm B      : Spd 3 -> 1 AP | HP 168/260 | Posture 72/120 [ENGAGE |
+| - Agent Noh : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60   |
+| - Worm A : HP 0/260 [DESTROYED]                                     |
+| - Worm B : Spd 3 -> 1 AP | HP 168/260 | Posture 72/120 [ENGAGED]    |
 +=====================================================================+
 ```
 
@@ -715,11 +723,11 @@ Director Majin establishes GBS tactical parameters in the drainage sub-level:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — TRENCH COLLAPSER COUNTER-SURGE]             |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [WORM-B][KANG]  [NOH]                   [MELLDA]        [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [WORM-B][KANG]  [NOH]                   [MELLDA]        [MAJIN]     |
 +---------------------------------------------------------------------+
 | - Node 02: Worm B (Recovered / Channeling Trench Collapser)         |
 | - Node 03: Agent Kang (Spd 8 / AP 4 / Heavy Maul Cross-Slash)       |
@@ -727,9 +735,9 @@ Director Majin establishes GBS tactical parameters in the drainage sub-level:
 | - Node 07: Border Lead Mellda (Locking Drainage Sluice Gates)       |
 +---------------------------------------------------------------------+
 | - Agent Kang  : Spd 8 -> 4 AP | HP 130/130 | SP +30 | Posture 70/70 |
-| - Agent Noh   : Spd 6 -> 3 AP | HP 114/120 | SP +25 | Posture 52/60 |
-| - Mellda      : Spd 6 -> 3 AP | HP 195/195 | SP +35 | Posture 95/95 |
-| - Worm B      : Spd 3 -> 1 AP | HP 82/260  | Posture 24/120 [CRITIC |
+| - Agent Noh : Spd 6 -> 3 AP | HP 114/120 | SP +25 | Posture 52/60   |
+| - Mellda : Spd 6 -> 3 AP | HP 195/195 | SP +35 | Posture 95/95      |
+| - Worm B : Spd 3 -> 1 AP | HP 82/260 | Posture 24/120 [CRITICAL]    |
 +=====================================================================+
 ```
 
@@ -745,20 +753,20 @@ Director Majin establishes GBS tactical parameters in the drainage sub-level:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — TERMINAL STAGGER ON WORM B]                 |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [WORM-B]                                [MELLDA]        [MA |
-|                 [KANG]  [NOH]                                       |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [WORM-B]                                [MELLDA]        [MAJIN]     |
+| [KANG]  [NOH]                                                       |
 +---------------------------------------------------------------------+
 | - Node 02: Worm B (TERMINAL STAGGER / POSTURE 0/120 / 2.0x DMG)     |
 | - Node 03: Agent Kang (Severing Cephalic Nerve)                     |
 | - Node 04: Agent Noh (Driving Bayonet into Heart Segment)           |
 +---------------------------------------------------------------------+
 | - Agent Kang  : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70 |
-| - Agent Noh   : Spd 6 -> 3 AP | HP 114/120 | SP +25 | Posture 52/60 |
-| - Worm B      : Spd 0 -> 0 AP | HP 18/260  | Posture 0/120 [COLLAPS |
+| - Agent Noh : Spd 6 -> 3 AP | HP 114/120 | SP +25 | Posture 52/60   |
+| - Worm B : Spd 0 -> 0 AP | HP 18/260 | Posture 0/120 [COLLAPSED]    |
 +=====================================================================+
 ```
 
@@ -771,11 +779,11 @@ Director Majin establishes GBS tactical parameters in the drainage sub-level:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — DUAL DECAPITATION & PURIFICATION]           |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [ASH]   [KANG]  [NOH]                   [MELLDA]        [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [ASH]   [KANG]  [NOH]                   [MELLDA]        [MAJIN]     |
 +---------------------------------------------------------------------+
 | - Node 02: Worm B (Decapitated / Dissolved into Amber Sediment)     |
 | - Node 03: Agent Kang (Sheathing Blade / Securing RHR)              |
@@ -783,9 +791,9 @@ Director Majin establishes GBS tactical parameters in the drainage sub-level:
 | - Node 07: Border Lead Mellda (Opening Transit Gates)               |
 +---------------------------------------------------------------------+
 | - Agent Kang  : Spd 6 -> 3 AP | HP 130/130 | SP +35 | Posture 70/70 |
-| - Agent Noh   : Spd 6 -> 3 AP | HP 114/120 | SP +30 | Posture 60/60 |
-| - Mellda      : Spd 6 -> 3 AP | HP 195/195 | SP +40 | Posture 95/95 |
-| - Worms       : HP 0/260 [PURIFIED] | +0.024 TONS REFINED HAN HARVE |
+| - Agent Noh : Spd 6 -> 3 AP | HP 114/120 | SP +30 | Posture 60/60   |
+| - Mellda : Spd 6 -> 3 AP | HP 195/195 | SP +40 | Posture 95/95      |
+| - Worms : HP 0/260 [PURIFIED] | +0.024 TONS REFINED HAN HARVE       |
 +=====================================================================+
 ```
 
@@ -797,13 +805,13 @@ Director Majin establishes GBS tactical parameters in the drainage sub-level:
 
 ```text
 +=====================================================================+
-|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
+| PHASE 01 RESOLUTION (PHASE-END TICK)                                |
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Subterranean drainage sub-level plating    |
 | reinforced.                                                         |
 | 2. Status Equilibrium : Shuddering bedrock calms; team SP rises to  |
 | +35.                                                                |
-| 3. Containment Check   : Both Trench Worms completely eliminated.   |
+| 3. Containment Check : Both Trench Worms completely eliminated.     |
 | 4. OUTCOME : ZERO CASUALTIES — +0.060 TONS BONUS HAN EXTRACTED.     |
 +=====================================================================+
 ```
@@ -813,43 +821,43 @@ Daily shift concludes with cumulative total of **0.340 tons** (100% quota achiev
 #### 3. Post-Shift Evaluation & Facility Indices
 
 ```text
-+==============================================+
-| END-OF-DAY PERFORMANCE EVALUATION: DAY 82    |
-+----------------------------------------------+
-| METRIC               | TARGET | REALIZED     |
-+----------------------+--------+--------------+
-| Han Energy Harvested | 0.340t | 0.340 tons   |
-| Containment Breaches | 0 Max  | 0 Breaches   |
-| Personnel Casualties | 0 Dead | 0 Fatalities |
-| Meltdowns Cleared    | 4/4    | 100% Rate    |
-+----------------------+--------+--------------+
-| SHIFT PERFORMANCE GRADE: GRADE S             |
-| REAGENTS ACCUMULATED: +28 RHR                |
-| AGENT ADVANCEMENT:                           |
-| - Agent Kang: +5 Resilience (Max HP Up)      |
-| - Agent Noh: +4 Composure (Work Rate Up)     |
-| - Agent Hwang: +4 Clarity (Max SP Up)        |
-+==============================================+
++=====================================================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 82                           |
++---------------------------------------------------------------------+
+| METRIC               | TARGET | REALIZED                            |
++---------------------------------------------------------------------+
+| Han Energy Harvested | 0.340t | 0.340 tons                          |
+| Containment Breaches | 0 Max  | 0 Breaches                          |
+| Personnel Casualties | 0 Dead | 0 Fatalities                        |
+| Meltdowns Cleared    | 4/4    | 100% Rate                           |
++---------------------------------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S                                    |
+| REAGENTS ACCUMULATED: +28 RHR                                       |
+| AGENT ADVANCEMENT:                                                  |
+| - Agent Kang: +5 Resilience (Max HP Up)                             |
+| - Agent Noh: +4 Composure (Work Rate Up)                            |
+| - Agent Hwang: +4 Clarity (Max SP Up)                               |
++=====================================================================+
 ```
 
 #### 4. Well Extraction Protocol & Containment Selection
 
 ```text
-+==============================================+
-| WELL EXTRACTION DRAFTING LOG — DAY 82        |
-+----------------------------------------------+
-| CHOICE ALPHA [SE-C-IIIg-033]:                |
-| "A blind bird with a colossal beak that taps |
-| against the walls, seeking peace in silence."|
-+----------------------------------------------+
-| CHOICE BETA [SE-O-IIb-301]:                  |
-| "A melting lantern whose wax burns with the  |
-| heat of unconfessed lies."                   |
-+----------------------------------------------+
-| CHOICE GAMMA [SE-O-IIb-467]:                 |
-| "A rusted iron chain submerged in salt water |
-| that tightens whenever an operative dreams." |
-+==============================================+
++=====================================================================+
+| WELL EXTRACTION DRAFTING LOG — DAY 82                               |
++---------------------------------------------------------------------+
+| CHOICE ALPHA [SE-C-IIIg-033]:                                       |
+| "A blind bird with a colossal beak that taps                        |
+| against the walls, seeking peace in silence."                       |
++---------------------------------------------------------------------+
+| CHOICE BETA [SE-O-IIb-301]:                                         |
+| "A melting lantern whose wax burns with the                         |
+| heat of unconfessed lies."                                          |
++---------------------------------------------------------------------+
+| CHOICE GAMMA [SE-O-IIb-467]:                                        |
+| "A rusted iron chain submerged in salt water                        |
+| that tightens whenever an operative dreams."                        |
++=====================================================================+
 ```
 
 Director's Tactical Assessment & Authorization:
@@ -862,19 +870,19 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-033 (*The Guarding 
 #### 5. M.A.W. Synthesis & Armament Forging
 
 ```text
-+==============================================+
-| M.A.W. SYNTHESIS FORGING LOG — DAY 82        |
-+----------------------------------------------+
-| ITEM FORGED          | PROPERTIES / ALLOC    |
-+----------------------+-----------------------+
-| Soldier Greatcoat    | Suit: 0.7 Grudge, 0.8 |
-|                      | Lament, 1.2 Void, 0.6 |
-|                      | Weight. Alloc: Kang.  |
-+----------------------+-----------------------+
-| Clockwork Bayonet    | Weapon: Range Band 3, |
-|                      | Piercing Grudge.      |
-|                      | Alloc: Agent Noh.     |
-+======================+=======================+
++=====================================================================+
+| M.A.W. SYNTHESIS FORGING LOG — DAY 82                               |
++---------------------------------------------------------------------+
+| ITEM FORGED          | PROPERTIES / ALLOC                           |
++---------------------------------------------------------------------+
+| Soldier Greatcoat    | Suit: 0.7 Grudge, 0.8                        |
+| | Lament, 1.2 Void, 0.6                                             |
+| | Weight. Alloc: Kang.                                              |
++---------------------------------------------------------------------+
+| Clockwork Bayonet    | Weapon: Range Band 3,                        |
+| | Piercing Grudge.                                                  |
+| | Alloc: Agent Noh.                                                 |
++=====================================================================+
 ```
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
@@ -906,17 +914,17 @@ Beside her, Majin inspects the outer telemetry monitors: *"The nomads are moving
 ### Gameplay — Day 87: Central Command Tactical Interface
 
 ```text
-+==============================================+
-| REVERIE DIRECTORATE — CENTRAL COMMAND        |
-| TERMINAL                                     |
-| FACILITY MANAGEMENT INTERFACE: DAY 87 SHIFT  |
-| ENERGY QUOTA: 0.395 TONS | CURRENT: 0.000    |
-| TONS                                         |
-| HYDRAULIC BALLAST: 49.210 TONS | AVIAN       |
-| TRIAD                                        |
-| ACTIVE CONTAINMENT: SE-031, 032, 033, 044,   |
-| 081, 115                                     |
-+==============================================+
++=====================================================================+
+| REVERIE DIRECTORATE — CENTRAL COMMAND                               |
+| TERMINAL                                                            |
+| FACILITY MANAGEMENT INTERFACE: DAY 87 SHIFT                         |
+| ENERGY QUOTA: 0.395 TONS | CURRENT: 0.000                           |
+| TONS                                                                |
+| HYDRAULIC BALLAST: 49.210 TONS | AVIAN                              |
+| TRIAD                                                               |
+| ACTIVE CONTAINMENT: SE-031, 032, 033, 044,                          |
+| 081, 115                                                            |
++=====================================================================+
 ```
 
 Shift parameters initialized for Day 87. Daily quota target increases to **0.395 tons** of refined Han. **The Avian Triad Resonance** protocol is actively tracked: if harmonic tension between Chambers 031, 032, and 033 reaches 100%, an uncontained triad rupture risks triggering **SE-C-IIIγ-034** (*The Sovereign Convergence*). Operational directive: execute staggered, high-precision containment rotations across all three avian cells while harvesting diamond-grade crystalline Han from **SE-C-IIIγ-081** (*The Hollow Saint*).
@@ -926,30 +934,30 @@ Shift parameters initialized for Day 87. Daily quota target increases to **0.395
 Deployment roster for Floor 2 (Containment Alpha) and Floor 3 (Safety & Ballast):
 
 ```text
-+---------------------+------------------------+
-| AGENT & GRADE       | STATS & EQUIPMENT      |
-|                     | LOADOUT                |
-+=====================+========================+
-| Agent Hwang Grade 5 | HP:84 SP:100 Wk:92     |
-|                     | Sp:65 | Apostle Suit & |
-|                     | Scalpel                |
-+---------------------+------------------------+
-| Agent Kang Grade 5  | HP:98 SP:80 Wk:86      |
-|                     | Sp:62 | Soldier Coat & |
-|                     | Heavy Maul             |
-+---------------------+------------------------+
-| Agent Shin Grade 5  | HP:92 SP:82 Wk:84      |
-|                     | Sp:58 | Saint Robe &   |
-|                     | Choral Staff           |
-+---------------------+------------------------+
-| Agent Noh Grade 5   | HP:82 SP:88 Wk:82      |
-|                     | Sp:56 | Thorn Mantle & |
-|                     | Clockwork Bayonet      |
-+---------------------+------------------------+
-| Lead Aura           | Dekan: Ward of the Maw |
-|                     | (+10% Physical Defense |
-|                     | & Panic Dampening)     |
-+---------------------+------------------------+
++---------------------------------------------------------------------+
+| AGENT & GRADE       | STATS & EQUIPMENT                             |
+| | LOADOUT                                                           |
++=====================================================================+
+| Agent Hwang Grade 5 | HP:84 SP:100 Wk:92                            |
+| | Sp:65 | Apostle Suit &                                            |
+| | Scalpel                                                           |
++---------------------------------------------------------------------+
+| Agent Kang Grade 5  | HP:98 SP:80 Wk:86                             |
+| | Sp:62 | Soldier Coat &                                            |
+| | Heavy Maul                                                        |
++---------------------------------------------------------------------+
+| Agent Shin Grade 5  | HP:92 SP:82 Wk:84                             |
+| | Sp:58 | Saint Robe &                                              |
+| | Choral Staff                                                      |
++---------------------------------------------------------------------+
+| Agent Noh Grade 5   | HP:82 SP:88 Wk:82                             |
+| | Sp:56 | Thorn Mantle &                                            |
+| | Clockwork Bayonet                                                 |
++---------------------------------------------------------------------+
+| Lead Aura           | Dekan: Ward of the Maw                        |
+| | (+10% Physical Defense)                                           |
+| | & Panic Dampening)                                                |
++---------------------------------------------------------------------+
 ```
 
 Containment Lead Dekan's *Ward of the Maw* aura dampens acoustic anxiety across Floor 2, reducing incoming physical trauma by 10% and buffering personnel against sympathetic panic spikes during multi-cell meltdowns.
@@ -1008,13 +1016,13 @@ Energy counter advances to `0.082 / 0.395 tons`. Meltdown gauge: `2/7`.
 At work check 16, sympathetic vibration across the Three Birds triggers a simultaneous multi-cell crisis:
 
 ```text
-+==============================================+
-| CRITICAL EMERGENCY: TRIAD ACOUSTIC MELTDOWN  |
-| LEVEL VII OVERLOAD IN THREE AVIAN CELLS!     |
-| AFFECTED CELLS: SE-031, 032, 033, 081        |
-| OVERLOAD TIMER: 40.0 SECONDS UNTIL BREACH    |
-| TACTICAL DIRECTIVE: FOUR-SIGN AEGIS DEPLOYED |
-+==============================================+
++=====================================================================+
+| CRITICAL EMERGENCY: TRIAD ACOUSTIC MELTDOWN                         |
+| LEVEL VII OVERLOAD IN THREE AVIAN CELLS!                            |
+| AFFECTED CELLS: SE-031, 032, 033, 081                               |
+| OVERLOAD TIMER: 40.0 SECONDS UNTIL BREACH                           |
+| TACTICAL DIRECTIVE: FOUR-SIGN AEGIS DEPLOYED                        |
++=====================================================================+
 ```
 
 Tactical response execution:
@@ -1029,39 +1037,40 @@ Tactical response execution:
 At 15:40, an Ordeal vanguard breaches the central ventilation junction of Floor 2:
 
 ```text
-+==============================================+
-| TACTICAL DOSSIER: SECOND WATCH (NOON) ORDEAL |
-+----------------------------------------------+
-| DESIGNATION : THE CARMINE CLAW               |
-| CLASSIFICATION : GRUDGE / WEIGHT (CRIMSON)   |
-| INTRUSION POINT : FLOOR 2 CENTRAL JUNCTION   |
-+----------------------------------------------+
-| HOSTILE PARAMETERS:                          |
-| - Entities: 3x Sanguinary Skittering Husks   |
-| - Attack Affinity: Rapid Bleed Lacerations   |
-| - Weakness Affinity: Concentrated Sonic Wave |
-+----------------------------------------------+
-| ENGAGEMENT TELEMETRY:                        |
-| - Husks sprint down hallway at high velocity |
-| - Range Band: Intercept at Range Band 2      |
-| - Agent Noh fires Clockwork Bayonet volley   |
-| - Agent Shin unleashes Choral Staff wave     |
-| - Triple termination confirmed               |
-| - Clash Duration: 34.2 Seconds               |
-| - Personnel Casualties: 0 Fatalities         |
-+==============================================+
++=====================================================================+
+| TACTICAL DOSSIER: SECOND WATCH (NOON) ORDEAL                        |
++---------------------------------------------------------------------+
+| DESIGNATION : THE CARMINE CLAW                                      |
+| CLASSIFICATION : GRUDGE / WEIGHT (CRIMSON)                          |
+| INTRUSION POINT : FLOOR 2 CENTRAL JUNCTION                          |
++---------------------------------------------------------------------+
+| HOSTILE PARAMETERS:                                                 |
+| - Entities: 3x Sanguinary Skittering Husks                          |
+| - Attack Affinity: Rapid Bleed Lacerations                          |
+| - Weakness Affinity: Concentrated Sonic Wave                        |
++---------------------------------------------------------------------+
+| ENGAGEMENT TELEMETRY:                                               |
+| - Husks sprint down hallway at high velocity                        |
+| - Range Band: Intercept at Range Band 2                             |
+| - Agent Noh fires Clockwork Bayonet volley                          |
+| - Agent Shin unleashes Choral Staff wave                            |
+| - Triple termination confirmed                                      |
+| - Clash Duration: 34.2 Seconds                                      |
+| - Personnel Casualties: 0 Fatalities                                |
++=====================================================================+
 ```
 
 Director Majin establishes GBS tactical deployment at Floor 2's central junction:
 
 ```text
 +=====================================================================+
-|        COMBAT HUD: PHASE 01 — BATTLE TURN 01 (CARMINE CLAW)         |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (CARMINE CLAW)                |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | POS : [HUSK-1] [HUSK-2] [KANG] [NOH] [SHIN] [DEKAN]                 |
 | DIST : Kang at N03 (Band 1); Noh at N05 (Band 2); Shin at N06 (Band |
+| 3)                                                                  |
 | 3).                                                                 |
 +---------------------------------------------------------------------+
 | Agent Kang : Speed 6 -> 3 AP | HP: 140/140 | SP: +30 | Heavy Maul   |
@@ -1090,24 +1099,26 @@ Director Majin establishes GBS tactical deployment at Floor 2's central junction
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — FLOOR 2 CORRIDOR EAST]                      |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [HUSK-1][NOH]   [HUSK-2][SHIN]  [KANG]                  [DEKAN]     |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [HUSK-1][NOH] [HUSK-2][SHIN] [KANG] [DEKAN]                         |
 +---------------------------------------------------------------------+
 | - Node 01: Sanguine Husk 1 (Posture 36/90 / Pinned by Noh)          |
 | - Node 02: Agent Noh (Point-Blank Band 1 / Bayonet Locked)          |
-| - Node 03: Sanguine Husk 2 (Preparing Pincer Charge / Posture 90/90 |
+| - Node 03: Sanguine Husk 2 (Preparing Pincer Charge / Posture       |
+|   90/90)                                                            |
 | - Node 04: Agent Shin (Range Band 2 / Choral Staff Lament Firing)   |
-| - Node 05: Agent Kang (Range Band 3 / Heavy Maul Ready to Intercept |
+| - Node 05: Agent Kang (Range Band 3 / Heavy Maul Ready to           |
+|   Intercept)                                                        |
 | - Node 08: Containment Lead Dekan (Observation Post / Band 4)       |
 +---------------------------------------------------------------------+
-| - Agent Noh   : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60 |
+| - Agent Noh : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60   |
 | - Agent Shin  : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55 |
 | - Agent Kang  : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70 |
-| - Husk 1      : Spd 3 -> 1 AP | HP 82/180  | Posture 36/90 [CRACKED |
-| - Husk 2      : Spd 4 -> 2 AP | HP 180/180 | Posture 90/90          |
+| - Husk 1 : Spd 3 -> 1 AP | HP 82/180 | Posture 36/90 [CRACKED]      |
+| - Husk 2 : Spd 4 -> 2 AP | HP 180/180 | Posture 90/90               |
 +=====================================================================+
 ```
 
@@ -1124,12 +1135,12 @@ Director Majin establishes GBS tactical deployment at Floor 2's central junction
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — POSTURE BREAK STAGGER ON HUSK 1]            |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [SLUDGE]        [HUSK-2][SHIN]  [KANG]                  [DEKAN]     |
-|         [NOH]                                                       |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [SLUDGE] [HUSK-2][SHIN] [KANG] [DEKAN]                              |
+| [NOH]                                                               |
 +---------------------------------------------------------------------+
 | - Node 01: Husk 1 (CRUSHED & PULVERIZED / Sludge Siphoned)          |
 | - Node 02: Agent Noh (Momentum Surge Primed / +2 Speed Next Turn)   |
@@ -1137,11 +1148,11 @@ Director Majin establishes GBS tactical deployment at Floor 2's central junction
 | - Node 04: Agent Shin (Choral Lament Pulse Continuing)              |
 | - Node 05: Agent Kang (Advancing with Heavy Maul)                   |
 +---------------------------------------------------------------------+
-| - Agent Noh   : Spd 8 -> 4 AP [SURGE] | HP 120/120 | SP +25 | Postu |
+| - Agent Noh : Spd 8 -> 4 AP [SURGE] | HP 120/120 | SP +25 | Postu   |
 | - Agent Shin  : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55 |
 | - Agent Kang  : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70 |
-| - Husk 1      : HP 0/180 [ELIMINATED]                               |
-| - Husk 2      : Spd 4 -> 2 AP | HP 128/180 | Posture 54/90 [ENGAGED |
+| - Husk 1 : HP 0/180 [ELIMINATED]                                    |
+| - Husk 2 : Spd 4 -> 2 AP | HP 128/180 | Posture 54/90 [ENGAGED]     |
 +=====================================================================+
 ```
 
@@ -1157,21 +1168,21 @@ Director Majin establishes GBS tactical deployment at Floor 2's central junction
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — PINCER CHARGE & JAW CLAMP PIN]              |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [NOH]   [HUSK-2][SHIN]  [KANG]                  [DEKAN]     |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [NOH]   [HUSK-2][SHIN]  [KANG]                  [DEKAN]             |
 +---------------------------------------------------------------------+
 | - Node 02: Agent Noh (Spd 8 / AP 4 / Rapid Bayonet Incisions)       |
 | - Node 03: Husk 2 (Pinned by Dekan's Jaw Clamp / Posture 24/90)     |
 | - Node 04: Agent Shin (Wide-Angle Acoustic Wave Firing)             |
 | - Node 05: Agent Kang (Directional Guard Absorption Active)         |
 +---------------------------------------------------------------------+
-| - Agent Noh   : Spd 8 -> 4 AP | HP 120/120 | SP +25 | Posture 60/60 |
+| - Agent Noh : Spd 8 -> 4 AP | HP 120/120 | SP +25 | Posture 60/60   |
 | - Agent Shin  : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55 |
 | - Agent Kang  : Spd 6 -> 3 AP | HP 124/130 | SP +30 | Posture 62/70 |
-| - Husk 2      : Spd 2 -> 1 AP | HP 64/180  | Posture 24/90 [PINNED] |
+| - Husk 2 : Spd 2 -> 1 AP | HP 64/180 | Posture 24/90 [PINNED]       |
 +=====================================================================+
 ```
 
@@ -1187,22 +1198,22 @@ Director Majin establishes GBS tactical deployment at Floor 2's central junction
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — TERMINAL STAGGER ON HUSK 2]                 |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|                 [HUSK-2]                                [DEKAN]     |
-|         [NOH]   [SHIN]  [KANG]                                      |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [HUSK-2]                                [DEKAN]                     |
+| [NOH]   [SHIN]  [KANG]                                              |
 +---------------------------------------------------------------------+
 | - Node 03: Husk 2 (TERMINAL STAGGER / POSTURE 0/90 / 2.0x DMG)      |
 | - Node 02: Agent Noh (Pinning Right Arm)                            |
 | - Node 03: Agent Shin (Choral Pulse Shattered Psychic Cohesion)     |
 | - Node 04: Agent Kang (Priming Climax Sweep)                        |
 +---------------------------------------------------------------------+
-| - Agent Noh   : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60 |
+| - Agent Noh : Spd 6 -> 3 AP | HP 120/120 | SP +25 | Posture 60/60   |
 | - Agent Shin  : Spd 6 -> 3 AP | HP 115/115 | SP +30 | Posture 55/55 |
 | - Agent Kang  : Spd 6 -> 3 AP | HP 124/130 | SP +30 | Posture 62/70 |
-| - Husk 2      : Spd 0 -> 0 AP | HP 16/180  | Posture 0/90 [COLLAPSE |
+| - Husk 2 : Spd 0 -> 0 AP | HP 16/180 | Posture 0/90 [COLLAPSED]     |
 +=====================================================================+
 ```
 
@@ -1215,21 +1226,21 @@ Director Majin establishes GBS tactical deployment at Floor 2's central junction
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — CLIMAX EXECUTION & PURIFICATION]            |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-|         [SLUDGE][NOH]   [SHIN]  [KANG]                  [DEKAN]     |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [SLUDGE][NOH]   [SHIN]  [KANG]                  [DEKAN]             |
 +---------------------------------------------------------------------+
 | - Node 01-03: All Husks (Pulverized to Sludge / Siphoned)           |
 | - Node 02: Agent Noh (Retracting Bayonet)                           |
 | - Node 03: Agent Shin (Lowering Choral Staff)                       |
 | - Node 04: Agent Kang (Reporting Sector 2 Clear)                    |
 +---------------------------------------------------------------------+
-| - Agent Noh   : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60 |
+| - Agent Noh : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60   |
 | - Agent Shin  : Spd 6 -> 3 AP | HP 115/115 | SP +35 | Posture 55/55 |
 | - Agent Kang  : Spd 6 -> 3 AP | HP 124/130 | SP +35 | Posture 70/70 |
-| - Husks       : HP 0/180 [DESTROYED] | +0.022 TONS REFINED HAN HARV |
+| - Husks : HP 0/180 [DESTROYED] | +0.022 TONS REFINED HAN HARV       |
 +=====================================================================+
 ```
 
@@ -1241,7 +1252,7 @@ Director Majin establishes GBS tactical deployment at Floor 2's central junction
 
 ```text
 +=====================================================================+
-|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
+| PHASE 01 RESOLUTION (PHASE-END TICK)                                |
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Ventilation junction sanitized and sealed. |
 | 2. Status Equilibrium : Bleed hemorrhage cleared; team SP at +35.   |
@@ -1255,43 +1266,43 @@ Shift concludes with cumulative total of **0.395 tons** (100% quota achieved).
 #### 3. Post-Shift Evaluation & Facility Indices
 
 ```text
-+==============================================+
-| END-OF-DAY PERFORMANCE EVALUATION: DAY 87    |
-+----------------------------------------------+
-| METRIC               | TARGET | REALIZED     |
-+----------------------+--------+--------------+
-| Han Energy Harvested | 0.395t | 0.395 tons   |
-| Containment Breaches | 0 Max  | 0 Breaches   |
-| Personnel Casualties | 0 Dead | 0 Fatalities |
-| Meltdowns Cleared    | 4/4    | 100% Rate    |
-+----------------------+--------+--------------+
-| SHIFT PERFORMANCE GRADE: GRADE S             |
-| REAGENTS ACCUMULATED: +30 RHR                |
-| AGENT ADVANCEMENT:                           |
-| - Agent Hwang: +5 Composure (Work Rate Up)   |
-| - Agent Kang: +4 Resilience (Max HP Up)      |
-| - Agent Shin: +4 Clarity (Max SP Up)         |
-+==============================================+
++=====================================================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 87                           |
++---------------------------------------------------------------------+
+| METRIC               | TARGET | REALIZED                            |
++---------------------------------------------------------------------+
+| Han Energy Harvested | 0.395t | 0.395 tons                          |
+| Containment Breaches | 0 Max  | 0 Breaches                          |
+| Personnel Casualties | 0 Dead | 0 Fatalities                        |
+| Meltdowns Cleared    | 4/4    | 100% Rate                           |
++---------------------------------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S                                    |
+| REAGENTS ACCUMULATED: +30 RHR                                       |
+| AGENT ADVANCEMENT:                                                  |
+| - Agent Hwang: +5 Composure (Work Rate Up)                          |
+| - Agent Kang: +4 Resilience (Max HP Up)                             |
+| - Agent Shin: +4 Clarity (Max SP Up)                                |
++=====================================================================+
 ```
 
 #### 4. Well Extraction Protocol & Containment Selection
 
 ```text
-+==============================================+
-| WELL EXTRACTION DRAFTING LOG — DAY 87        |
-+----------------------------------------------+
-| CHOICE ALPHA [SE-C-IIIg-021]:                |
-| "A chorus of empty robes that harmonize with |
-| the unspoken regrets of everyone in earshot."|
-+----------------------------------------------+
-| CHOICE BETA [SE-O-IIb-378]:                  |
-| "A glass jar containing twenty-four fathoms  |
-| of water from a drowned coastal city."       |
-+----------------------------------------------+
-| CHOICE GAMMA [SE-O-IIb-757]:                 |
-| "A wooden door standing upright without      |
-| walls; opening it reveals only winter."      |
-+==============================================+
++=====================================================================+
+| WELL EXTRACTION DRAFTING LOG — DAY 87                               |
++---------------------------------------------------------------------+
+| CHOICE ALPHA [SE-C-IIIg-021]:                                       |
+| "A chorus of empty robes that harmonize with                        |
+| the unspoken regrets of everyone in earshot."                       |
++---------------------------------------------------------------------+
+| CHOICE BETA [SE-O-IIb-378]:                                         |
+| "A glass jar containing twenty-four fathoms                         |
+| of water from a drowned coastal city."                              |
++---------------------------------------------------------------------+
+| CHOICE GAMMA [SE-O-IIb-757]:                                        |
+| "A wooden door standing upright without                             |
+| walls; opening it reveals only winter."                             |
++=====================================================================+
 ```
 
 Director's Tactical Assessment & Authorization:
@@ -1304,19 +1315,19 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-C-IIIγ-021 (*The Hollow Ch
 #### 5. M.A.W. Synthesis & Armament Forging
 
 ```text
-+==============================================+
-| M.A.W. SYNTHESIS FORGING LOG — DAY 87        |
-+----------------------------------------------+
-| ITEM FORGED          | PROPERTIES / ALLOC    |
-+----------------------+-----------------------+
-| Beak Visor           | Eye Slot: +10% Work   |
-|                      | Speed, Immune to      |
-|                      | Flashes. Alloc: Hwang.|
-+----------------------+-----------------------+
-| Feathered Mantle     | Back: +15% Weight     |
-|                      | Resistance, +5 Speed. |
-|                      | Alloc: Agent Kang.    |
-+======================+=======================+
++=====================================================================+
+| M.A.W. SYNTHESIS FORGING LOG — DAY 87                               |
++---------------------------------------------------------------------+
+| ITEM FORGED          | PROPERTIES / ALLOC                           |
++---------------------------------------------------------------------+
+| Beak Visor           | Eye Slot: +10% Work                          |
+| | Speed, Immune to                                                  |
+| | Flashes. Alloc: Hwang.                                            |
++---------------------------------------------------------------------+
+| Feathered Mantle     | Back: +15% Weight                            |
+| | Resistance, +5 Speed.                                             |
+| | Alloc: Agent Kang.                                                |
++=====================================================================+
 ```
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
@@ -1350,17 +1361,17 @@ Beside him, Majin inspects the vibration monitors: *"The frequencies didn't lock
 ### Gameplay — Day 92: Central Command Tactical Interface
 
 ```text
-+==============================================+
-| REVERIE DIRECTORATE — CENTRAL COMMAND        |
-| TERMINAL                                     |
-| FACILITY MANAGEMENT INTERFACE: DAY 92 SHIFT  |
-| ENERGY QUOTA: 0.450 TONS | CURRENT: 0.000    |
-| TONS                                         |
-| HYDRAULIC BALLAST: 49.540 TONS | MARTYR      |
-| ALERT                                        |
-| ACTIVE CONTAINMENT: SE-021, 044, 081, 115,   |
-| 190, 275                                     |
-+==============================================+
++=====================================================================+
+| REVERIE DIRECTORATE — CENTRAL COMMAND                               |
+| TERMINAL                                                            |
+| FACILITY MANAGEMENT INTERFACE: DAY 92 SHIFT                         |
+| ENERGY QUOTA: 0.450 TONS | CURRENT: 0.000                           |
+| TONS                                                                |
+| HYDRAULIC BALLAST: 49.540 TONS | MARTYR                             |
+| ALERT                                                               |
+| ACTIVE CONTAINMENT: SE-021, 044, 081, 115,                          |
+| 190, 275                                                            |
++=====================================================================+
 ```
 
 Shift parameters initialized for Day 92. Daily quota advances to **0.450 tons** of refined Han. **Martyr Protocol Alpha** is active: Senior Agent Shin's biological frequency is monitored in real-time. Any unmonitored communion with **SE-C-IIIγ-081** (*The Hollow Saint*) risks triggering the catastrophic Twelfth Blessing. Operational priority: execute high-yield Flerehan extraction on newly contained **SE-C-IIIγ-021** (*The Hollow Choir*) while maintaining physical suppression on **SE-C-IIIβ-275** (*The Rage Forge*).
@@ -1370,30 +1381,30 @@ Shift parameters initialized for Day 92. Daily quota advances to **0.450 tons** 
 Deployment roster for Floor 4 (Training & Sanity) and Floor 6 (Forge & Ballast):
 
 ```text
-+---------------------+------------------------+
-| AGENT & GRADE       | STATS & EQUIPMENT      |
-|                     | LOADOUT                |
-+=====================+========================+
-| Agent Shin Grade 5  | HP:94 SP:84 Wk:86      |
-| [10 Marks Active]   | Sp:58 | Saint Robe &   |
-|                     | Choral Staff           |
-+---------------------+------------------------+
-| Agent Bae Grade 5   | HP:86 SP:92 Wk:88      |
-|                     | Sp:62 | Apostle Suit & |
-|                     | Scalpel                |
-+---------------------+------------------------+
-| Agent Yoo Grade 5   | HP:98 SP:78 Wk:84      |
-|                     | Sp:60 | Lock Armor &   |
-|                     | Heavy Maul             |
-+---------------------+------------------------+
-| Agent Jin Grade 5   | HP:78 SP:82 Wk:80      |
-|                     | Sp:55 | Shroud Suit &  |
-|                     | Sonic Bow              |
-+---------------------+------------------------+
-| Lead Aura           | Ayshuk: Clarity Matrix |
-|                     | (+15% SP Damage        |
-|                     | Absorption & Sanity)   |
-+---------------------+------------------------+
++---------------------------------------------------------------------+
+| AGENT & GRADE       | STATS & EQUIPMENT                             |
+| | LOADOUT                                                           |
++=====================================================================+
+| Agent Shin Grade 5  | HP:94 SP:84 Wk:86                             |
+| [10 Marks Active]   | Sp:58 | Saint Robe &                          |
+| | Choral Staff                                                      |
++---------------------------------------------------------------------+
+| Agent Bae Grade 5   | HP:86 SP:92 Wk:88                             |
+| | Sp:62 | Apostle Suit &                                            |
+| | Scalpel                                                           |
++---------------------------------------------------------------------+
+| Agent Yoo Grade 5   | HP:98 SP:78 Wk:84                             |
+| | Sp:60 | Lock Armor &                                              |
+| | Heavy Maul                                                        |
++---------------------------------------------------------------------+
+| Agent Jin Grade 5   | HP:78 SP:82 Wk:80                             |
+| | Sp:55 | Shroud Suit &                                             |
+| | Sonic Bow                                                         |
++---------------------------------------------------------------------+
+| Lead Aura           | Ayshuk: Clarity Matrix                        |
+| | (+15% SP Damage)                                                  |
+| | Absorption & Sanity)                                              |
++---------------------------------------------------------------------+
 ```
 
 Research Lead Ayshuk's *Clarity Matrix* aura projects concentrated mental buffering throughout Floor 4, mitigating incoming Lament trauma by +15% and providing passive SP regeneration while outside combat.
@@ -1452,13 +1463,13 @@ Energy counter advances to `0.086 / 0.450 tons`. Meltdown gauge: `2/7`.
 At work check 18, high thermal load from Chamber 275 triggers an explosive multi-department meltdown:
 
 ```text
-+==============================================+
-| CRITICAL EMERGENCY: MELTDOWN LEVEL VIII      |
-| CRITICAL OVERLOAD IN 5 CONTAINMENT SECTORS!  |
-| AFFECTED CELLS: SE-021, 044, 081, 115, 275   |
-| OVERLOAD TIMER: 35.0 SECONDS UNTIL BREACH    |
-| TACTICAL DIRECTIVE: QUARANTINE SEVERANCE     |
-+==============================================+
++=====================================================================+
+| CRITICAL EMERGENCY: MELTDOWN LEVEL VIII                             |
+| CRITICAL OVERLOAD IN 5 CONTAINMENT SECTORS!                         |
+| AFFECTED CELLS: SE-021, 044, 081, 115, 275                          |
+| OVERLOAD TIMER: 35.0 SECONDS UNTIL BREACH                           |
+| TACTICAL DIRECTIVE: QUARANTINE SEVERANCE                            |
++=====================================================================+
 ```
 
 Tactical response execution:
@@ -1473,43 +1484,43 @@ Tactical response execution:
 At 16:45, industrial sirens announce the breach of a massive mechanical Third Watch Ordeal:
 
 ```text
-+==============================================+
-| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL  |
-+----------------------------------------------+
-| DESIGNATION : THE CLOCKWORK TITAN            |
-| CLASSIFICATION : WEIGHT / LAMENT (GREEN) DUSK|
-| INTRUSION POINT : FLOOR 6 MAIN CATWALK       |
-+----------------------------------------------+
-| HOSTILE PARAMETERS:                          |
-| - Entities: 1x Colossal Steam Automaton      |
-| - Attack Affinity: Long-Range Shell Volley   |
-| - Hazard: Terminal Self-Destruct Explosion   |
-+----------------------------------------------+
-| ENGAGEMENT TELEMETRY:                        |
-| - Titan deploys artillery shells across hall |
-| - Range Band: Mobile suppression Band 3-4    |
-| - Agent Jin fires Sonic Bow at joint gears   |
-| - Agent Yoo executes crushing blow at Band 1 |
-| - Full squad tactical retreat before blast   |
-| - Clash Duration: 58.2 Seconds               |
-| - Personnel Casualties: 0 Fatalities         |
-+==============================================+
++=====================================================================+
+| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL                         |
++---------------------------------------------------------------------+
+| DESIGNATION : THE CLOCKWORK TITAN                                   |
+| CLASSIFICATION : WEIGHT / LAMENT (GREEN) DUSK                       |
+| INTRUSION POINT : FLOOR 6 MAIN CATWALK                              |
++---------------------------------------------------------------------+
+| HOSTILE PARAMETERS:                                                 |
+| - Entities: 1x Colossal Steam Automaton                             |
+| - Attack Affinity: Long-Range Shell Volley                          |
+| - Hazard: Terminal Self-Destruct Explosion                          |
++---------------------------------------------------------------------+
+| ENGAGEMENT TELEMETRY:                                               |
+| - Titan deploys artillery shells across hall                        |
+| - Range Band: Mobile suppression Band 3-4                           |
+| - Agent Jin fires Sonic Bow at joint gears                          |
+| - Agent Yoo executes crushing blow at Band 1                        |
+| - Full squad tactical retreat before blast                          |
+| - Clash Duration: 58.2 Seconds                                      |
+| - Personnel Casualties: 0 Fatalities                                |
++=====================================================================+
 ```
 
 Director Majin establishes GBS tactical coordination on the Floor 6 Catwalk:
 
 ```text
 +=====================================================================+
-|       COMBAT HUD: PHASE 01 — BATTLE TURN 01 (CLOCKWORK TITAN)       |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (CLOCKWORK TITAN)             |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | POS : [TITAN] [YOO] [JIN] [MARJUK]                                  |
-| DIST    : Yoo at N03 (Band 1); Jin at N06 (Band 3); Marjuk at N10.  |
+| DIST : Yoo at N03 (Band 1); Jin at N06 (Band 3); Marjuk at N10.     |
 +---------------------------------------------------------------------+
 | Agent Yoo : Speed 6 -> 3 AP | HP: 145/145 | SP: +30 | Lock Maul     |
 | Agent Jin : Speed 6 -> 3 AP | HP: 125/125 | SP: +30 | Sonic Bow     |
-| Clockwork Titan : Speed 4 -> 2 AP | HP: 480/480 | Steam: High |     |
+| Clockwork Titan : Speed 4 -> 2 AP | HP: 480/480 | Steam: High       |
 | Boiler Artillery                                                    |
 +=====================================================================+
 ```
@@ -1530,11 +1541,11 @@ Director Majin establishes GBS tactical coordination on the Floor 6 Catwalk:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — FLOOR 3 EXTRACTION FORGE PLAZA]             |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [TITAN] [JIN]   [YOO]                   [MARJUK]                [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [TITAN] [JIN] [YOO] [MARJUK] [MAJIN]                                |
 +---------------------------------------------------------------------+
 | - Node 01: Clockwork Titan (Posture 76/160 / Boiler Exhaust Jammed) |
 | - Node 02: Agent Jin (Point-Blank Band 1 / Jamming Exhaust Pipe)    |
@@ -1542,10 +1553,11 @@ Director Majin establishes GBS tactical coordination on the Floor 6 Catwalk:
 | - Node 06: Archive Lead Marjuk (Range Band 3 / Pre-Charging Stasis) |
 | - Node 09: Director Majin & Seiyon Command Console (Band 5)         |
 +---------------------------------------------------------------------+
-| - Agent Jin   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65 |
-| - Agent Yoo   : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70 |
-| - Marjuk      : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90 |
-| - Clock Titan : Spd 4 -> 2 AP | HP 245/360 | Posture 76/160 [CRACKE |
+| - Agent Jin : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65   |
+| - Agent Yoo : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70   |
+| - Marjuk : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90      |
+| - Clock Titan : Spd 4 -> 2 AP | HP 245/360                          |
+|   | Posture 76/160 [CRACKED]                                        |
 +=====================================================================+
 ```
 
@@ -1562,21 +1574,22 @@ Director Majin establishes GBS tactical coordination on the Floor 6 Catwalk:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — POSTURE BREAK STAGGER LEVEL 1]              |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [TITAN] [JIN]           [YOO]           [MARJUK]                [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [TITAN] [JIN] [YOO] [MARJUK] [MAJIN]                                |
 +---------------------------------------------------------------------+
 | - Node 01: Clockwork Titan (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)    |
 | - Node 02: Agent Jin (Executing Steam Release Pin)                  |
 | - Node 04: Agent Yoo (Advancing with Momentum Surge / +2 Speed)     |
 | - Node 06: Archive Lead Marjuk (Applying Stasis Field)              |
 +---------------------------------------------------------------------+
-| - Agent Jin   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65 |
-| - Agent Yoo   : Spd 8 -> 4 AP [SURGE] | HP 130/130 | SP +30 | Postu |
-| - Marjuk      : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90 |
-| - Clock Titan : Spd 0 -> 0 AP | HP 122/360 | Posture 28/160 [STAGGE |
+| - Agent Jin : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65   |
+| - Agent Yoo : Spd 8 -> 4 AP [SURGE] | HP 130/130 | SP +30 | Postu   |
+| - Marjuk : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90      |
+| - Clock Titan : Spd 0 -> 0 AP | HP 122/360                          |
+|   | Posture 28/160 [STAGGERED]                                      |
 +=====================================================================+
 ```
 
@@ -1590,21 +1603,22 @@ Director Majin establishes GBS tactical coordination on the Floor 6 Catwalk:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — SELF-DESTRUCT SEQUENCE INITIATION]          |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [TITAN] [JIN]   [YOO]                   [MARJUK]                [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [TITAN] [JIN] [YOO] [MARJUK] [MAJIN]                                |
 +---------------------------------------------------------------------+
 | - Node 01: Clockwork Titan (Initiating Overheat Self-Destruct)      |
 | - Node 02: Agent Jin (Severing Emergency Release Lever)             |
 | - Node 03: Agent Yoo (Slamming Maul onto Main Relief Valve)         |
 | - Node 06: Archive Lead Marjuk (Locking Stasis Barrier)             |
 +---------------------------------------------------------------------+
-| - Agent Jin   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65 |
-| - Agent Yoo   : Spd 8 -> 4 AP | HP 130/130 | SP +30 | Posture 70/70 |
-| - Marjuk      : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90 |
-| - Clock Titan : Spd 3 -> 1 AP | HP 58/360  | Posture 8/160 [OVERHEA |
+| - Agent Jin : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65   |
+| - Agent Yoo : Spd 8 -> 4 AP | HP 130/130 | SP +30 | Posture 70/70   |
+| - Marjuk : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90      |
+| - Clock Titan : Spd 3 -> 1 AP | HP 58/360                           |
+|   | Posture 8/160 [OVERHEAT]                                        |
 +=====================================================================+
 ```
 
@@ -1619,20 +1633,21 @@ Director Majin establishes GBS tactical coordination on the Floor 6 Catwalk:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — CRITICAL VALVE SHUTDOWN & RETREAT]          |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [TITAN]                                                 [ALL-AGENTS |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [TITAN] [ALL-AGENTS]                                                |
 +---------------------------------------------------------------------+
 | - Node 01: Clockwork Titan (TERMINAL STAGGER / POSTURE 0/160 / 2.0x |
+|   DAMAGE)                                                           |
 | - Node 08: All Operatives (Safely Evacuated behind Blast Bulkhead)  |
 | - Node 08: Archive Lead Marjuk (Engaging Stasis Quarantine)         |
 +---------------------------------------------------------------------+
-| - Agent Jin   : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65 |
-| - Agent Yoo   : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70 |
-| - Marjuk      : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90 |
-| - Clock Titan : Spd 0 -> 0 AP | HP 12/360  | Posture 0/160 [MELTING |
+| - Agent Jin : Spd 6 -> 3 AP | HP 125/125 | SP +30 | Posture 65/65   |
+| - Agent Yoo : Spd 6 -> 3 AP | HP 130/130 | SP +30 | Posture 70/70   |
+| - Marjuk : Spd 5 -> 3 AP | HP 180/180 | SP +35 | Posture 90/90      |
+| - Clock Titan : Spd 0 -> 0 AP | HP 12/360 | Posture 0/160 [MELTING] |
 +=====================================================================+
 ```
 
@@ -1646,13 +1661,14 @@ Director Majin establishes GBS tactical coordination on the Floor 6 Catwalk:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — CONTAINED DETONATION & PURIFICATION]        |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [SLAG]                                                  [ALL-AGENTS |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [SLAG] [ALL-AGENTS]                                                 |
 +---------------------------------------------------------------------+
-| - Node 01: Clockwork Titan (Detonated inside Stasis Vault / 0 Casua |
+| - Node 01: Clockwork Titan (Detonated inside Stasis Vault / 0       |
+|   Casualties)                                                       |
 | - Node 08: Floor 3 Team (Venting Pressurized Steam / Siphoning RHR) |
 | - Node 08: Archive Lead Marjuk (Confirming Zero Structural Damage)  |
 +---------------------------------------------------------------------+
@@ -1668,7 +1684,7 @@ Director Majin establishes GBS tactical coordination on the Floor 6 Catwalk:
 
 ```text
 +=====================================================================+
-|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
+| PHASE 01 RESOLUTION (PHASE-END TICK)                                |
 +---------------------------------------------------------------------+
 | 1. Environmental Check : Floor 6 blast bulkheads withstand boiler   |
 | shrapnel.                                                           |
@@ -1685,43 +1701,43 @@ Daily shift concludes with cumulative total of **0.450 tons** (100% quota achiev
 #### 3. Post-Shift Evaluation & Facility Indices
 
 ```text
-+==============================================+
-| END-OF-DAY PERFORMANCE EVALUATION: DAY 92    |
-+----------------------------------------------+
-| METRIC               | TARGET | REALIZED     |
-+----------------------+--------+--------------+
-| Han Energy Harvested | 0.450t | 0.450 tons   |
-| Containment Breaches | 0 Max  | 0 Breaches   |
-| Personnel Casualties | 0 Dead | 0 Fatalities |
-| Meltdowns Cleared    | 5/5    | 100% Rate    |
-+----------------------+--------+--------------+
-| SHIFT PERFORMANCE GRADE: GRADE S             |
-| REAGENTS ACCUMULATED: +32 RHR                |
-| AGENT ADVANCEMENT:                           |
-| - Agent Shin: +5 Clarity (Max SP Up)         |
-| - Agent Yoo: +5 Resilience (Max HP Up)       |
-| - Agent Bae: +4 Composure (Work Rate Up)     |
-+==============================================+
++=====================================================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 92                           |
++---------------------------------------------------------------------+
+| METRIC               | TARGET | REALIZED                            |
++---------------------------------------------------------------------+
+| Han Energy Harvested | 0.450t | 0.450 tons                          |
+| Containment Breaches | 0 Max  | 0 Breaches                          |
+| Personnel Casualties | 0 Dead | 0 Fatalities                        |
+| Meltdowns Cleared    | 5/5    | 100% Rate                           |
++---------------------------------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S                                    |
+| REAGENTS ACCUMULATED: +32 RHR                                       |
+| AGENT ADVANCEMENT:                                                  |
+| - Agent Shin: +5 Clarity (Max SP Up)                                |
+| - Agent Yoo: +5 Resilience (Max HP Up)                              |
+| - Agent Bae: +4 Composure (Work Rate Up)                            |
++=====================================================================+
 ```
 
 #### 4. Well Extraction Protocol & Containment Selection
 
 ```text
-+==============================================+
-| WELL EXTRACTION DRAFTING LOG — DAY 92        |
-+----------------------------------------------+
-| CHOICE ALPHA [SE-O-IVd-190]:                 |
-| "A bird of living white embers that rises    |
-| from its own ashes whenever a soul weeps."   |
-+----------------------------------------------+
-| CHOICE BETA [SE-C-IIIg-061]:                 |
-| "A hollow debtor whose ledger extracts flesh |
-| in repayment for forgotten promises."        |
-+----------------------------------------------+
-| CHOICE GAMMA [SE-O-IIIg-374]:                |
-| "A petrified tree that slept because its     |
-| planter died four thousand years ago."       |
-+==============================================+
++=====================================================================+
+| WELL EXTRACTION DRAFTING LOG — DAY 92                               |
++---------------------------------------------------------------------+
+| CHOICE ALPHA [SE-O-IVd-190]:                                        |
+| "A bird of living white embers that rises                           |
+| from its own ashes whenever a soul weeps."                          |
++---------------------------------------------------------------------+
+| CHOICE BETA [SE-C-IIIg-061]:                                        |
+| "A hollow debtor whose ledger extracts flesh                        |
+| in repayment for forgotten promises."                               |
++---------------------------------------------------------------------+
+| CHOICE GAMMA [SE-O-IIIg-374]:                                       |
+| "A petrified tree that slept because its                            |
+| planter died four thousand years ago."                              |
++=====================================================================+
 ```
 
 Director's Tactical Assessment & Authorization:
@@ -1734,19 +1750,19 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-O-IVδ-190 (*The Ember Phoe
 #### 5. M.A.W. Synthesis & Armament Forging
 
 ```text
-+==============================================+
-| M.A.W. SYNTHESIS FORGING LOG — DAY 92        |
-+----------------------------------------------+
-| ITEM FORGED          | PROPERTIES / ALLOC    |
-+----------------------+-----------------------+
-| Hollow Crown         | Head Slot: +12 Max SP,|
-|                      | Passive Panic Dampen  |
-|                      | Aura. Alloc: Bae.     |
-+----------------------+-----------------------+
-| Choral Bell          | Weapon: Range Band 4, |
-|                      | Piercing Lament Sonic.|
-|                      | Alloc: Agent Jin.     |
-+======================+=======================+
++=====================================================================+
+| M.A.W. SYNTHESIS FORGING LOG — DAY 92                               |
++---------------------------------------------------------------------+
+| ITEM FORGED          | PROPERTIES / ALLOC                           |
++---------------------------------------------------------------------+
+| Hollow Crown         | Head Slot: +12 Max SP,                       |
+| | Passive Panic Dampen                                              |
+| | Aura. Alloc: Bae.                                                 |
++---------------------------------------------------------------------+
+| Choral Bell          | Weapon: Range Band 4,                        |
+| | Piercing Lament Sonic.                                            |
+| | Alloc: Agent Jin.                                                 |
++=====================================================================+
 ```
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil
@@ -1780,16 +1796,16 @@ Beside him, Ayshuk adjusts the bio-capacitor: *"Ten marks, Director. The harmoni
 ### Gameplay — Day 97: Central Command Tactical Interface
 
 ```text
-+==============================================+
-| REVERIE DIRECTORATE — CENTRAL COMMAND        |
-| TERMINAL                                     |
-| FACILITY MANAGEMENT INTERFACE: DAY 97 SHIFT  |
-| ENERGY QUOTA: 0.520 TONS | CURRENT: 0.000    |
-| TONS                                         |
-| HYDRAULIC BALLAST: 49.820 TONS | CENTURY EVE |
-| ACTIVE CONTAINMENT: SE-021, 044, 081, 115,   |
-| 190, 275                                     |
-+==============================================+
++=====================================================================+
+| REVERIE DIRECTORATE — CENTRAL COMMAND                               |
+| TERMINAL                                                            |
+| FACILITY MANAGEMENT INTERFACE: DAY 97 SHIFT                         |
+| ENERGY QUOTA: 0.520 TONS | CURRENT: 0.000                           |
+| TONS                                                                |
+| HYDRAULIC BALLAST: 49.820 TONS | CENTURY EVE                        |
+| ACTIVE CONTAINMENT: SE-021, 044, 081, 115,                          |
+| 190, 275                                                            |
++=====================================================================+
 ```
 
 Shift parameters initialized for Day 97. Daily collection target peaks at **0.520 tons** of pure crystalline Han. Cumulative facility ballast reaches **49.820 tons**—less than 0.2 tons from the historic 50-ton supercritical threshold! Tectonic resonance from Floor 8 reaches unprecedented intensity: all containment chambers across all eight floors exhibit a +15% baseline acoustic strain buildup. Operational priority: conduct primary containment protocol on **SE-O-IVδ-190** (*The Ember Phoenix*) and secure final energy reserves before the Day 100 crisis.
@@ -1799,30 +1815,30 @@ Shift parameters initialized for Day 97. Daily collection target peaks at **0.52
 Deployment roster for Floor 4 (Training & Sanity) and Floor 6 (Forge & Ballast):
 
 ```text
-+---------------------+------------------------+
-| AGENT & GRADE       | STATS & EQUIPMENT      |
-|                     | LOADOUT                |
-+=====================+========================+
-| Agent Hwang Grade 5 | HP:88 SP:100 Wk:94     |
-|                     | Sp:66 | Apostle Suit & |
-|                     | Scalpel                |
-+---------------------+------------------------+
-| Agent Kang Grade 5  | HP:100 SP:82 Wk:88     |
-|                     | Sp:64 | Soldier Coat & |
-|                     | Feathered Mantle       |
-+---------------------+------------------------+
-| Agent Bae Grade 5   | HP:88 SP:96 Wk:90      |
-|                     | Sp:62 | Hollow Crown & |
-|                     | Apostle Suit           |
-+---------------------+------------------------+
-| Agent Jin Grade 5   | HP:80 SP:85 Wk:82      |
-|                     | Sp:56 | Shroud Suit &  |
-|                     | Choral Bell            |
-+---------------------+------------------------+
-| Lead Aura           | Zyrak: Forge Resonance |
-|                     | (+20% M.A.W. Attack    |
-|                     | Speed & Heat Buffer)   |
-+---------------------+------------------------+
++---------------------------------------------------------------------+
+| AGENT & GRADE       | STATS & EQUIPMENT                             |
+| | LOADOUT                                                           |
++=====================================================================+
+| Agent Hwang Grade 5 | HP:88 SP:100 Wk:94                            |
+| | Sp:66 | Apostle Suit &                                            |
+| | Scalpel                                                           |
++---------------------------------------------------------------------+
+| Agent Kang Grade 5  | HP:100 SP:82 Wk:88                            |
+| | Sp:64 | Soldier Coat &                                            |
+| | Feathered Mantle                                                  |
++---------------------------------------------------------------------+
+| Agent Bae Grade 5   | HP:88 SP:96 Wk:90                             |
+| | Sp:62 | Hollow Crown &                                            |
+| | Apostle Suit                                                      |
++---------------------------------------------------------------------+
+| Agent Jin Grade 5   | HP:80 SP:85 Wk:82                             |
+| | Sp:56 | Shroud Suit &                                             |
+| | Choral Bell                                                       |
++---------------------------------------------------------------------+
+| Lead Aura           | Zyrak: Forge Resonance                        |
+| | (+20% M.A.W. Attack)                                              |
+| | Speed & Heat Buffer)                                              |
++---------------------------------------------------------------------+
 ```
 
 Extraction Lead Zyrak's *Forge Resonance* aura accelerates physical attack intervals by +20% for all operatives and provides an ambient heat buffer against the incandescent radiation of the Ember Phoenix.
@@ -1880,13 +1896,13 @@ Energy counter advances to `0.115 / 0.520 tons`. Meltdown gauge: `2/7`.
 At work check 18, tectonic pressure from the ascending Maw triggers a facility-wide meltdown:
 
 ```text
-+==============================================+
-| CRITICAL EMERGENCY: MELTDOWN LEVEL VIII      |
-| CRITICAL OVERLOAD IN 5 KEY EXTRACTION CELLS! |
-| AFFECTED CELLS: SE-021, 044, 115, 190, 275   |
-| OVERLOAD TIMER: 35.0 SECONDS UNTIL BREACH    |
-| TACTICAL DIRECTIVE: FOUR-SIGN AEGIS & JET    |
-+==============================================+
++=====================================================================+
+| CRITICAL EMERGENCY: MELTDOWN LEVEL VIII                             |
+| CRITICAL OVERLOAD IN 5 KEY EXTRACTION CELLS!                        |
+| AFFECTED CELLS: SE-021, 044, 115, 190, 275                          |
+| OVERLOAD TIMER: 35.0 SECONDS UNTIL BREACH                           |
+| TACTICAL DIRECTIVE: FOUR-SIGN AEGIS & JET                           |
++=====================================================================+
 ```
 
 Tactical response execution:
@@ -1901,38 +1917,38 @@ Tactical response execution:
 At 17:10, space fractures in the Floor 4 Main Training Plaza:
 
 ```text
-+==============================================+
-| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL  |
-+----------------------------------------------+
-| DESIGNATION : THE MONOLITH OF THE VOID       |
-| CLASSIFICATION : VOID (VIOLET) DUSK          |
-| INTRUSION POINT : FLOOR 4 MAIN PLAZA         |
-+----------------------------------------------+
-| HOSTILE PARAMETERS:                          |
-| - Entities: 1x Floating Monolith + Void Eyes |
-| - Attack Affinity: Piercing % Max HP Void    |
-| - Weakness Affinity: High-Impact Melee Grudge|
-+----------------------------------------------+
-| ENGAGEMENT TELEMETRY:                        |
-| - Monolith charges 360-degree Void beam      |
-| - Range Band: Close distance to Band 1       |
-| - Agent Kang & Agent Hwang execute pincer    |
-| - Kang shatters base with Lock Maul          |
-| - Hwang strikes core with Apostle Scalpel    |
-| - Monolith shatters; beam interrupted        |
-| - Clash Duration: 41.5 Seconds               |
-| - Personnel Casualties: 0 Fatalities         |
-+==============================================+
++=====================================================================+
+| TACTICAL DOSSIER: THIRD WATCH (DUSK) ORDEAL                         |
++---------------------------------------------------------------------+
+| DESIGNATION : THE MONOLITH OF THE VOID                              |
+| CLASSIFICATION : VOID (VIOLET) DUSK                                 |
+| INTRUSION POINT : FLOOR 4 MAIN PLAZA                                |
++---------------------------------------------------------------------+
+| HOSTILE PARAMETERS:                                                 |
+| - Entities: 1x Floating Monolith + Void Eyes                        |
+| - Attack Affinity: Piercing % Max HP Void                           |
+| - Weakness Affinity: High-Impact Melee Grudge                       |
++---------------------------------------------------------------------+
+| ENGAGEMENT TELEMETRY:                                               |
+| - Monolith charges 360-degree Void beam                             |
+| - Range Band: Close distance to Band 1                              |
+| - Agent Kang & Agent Hwang execute pincer                           |
+| - Kang shatters base with Lock Maul                                 |
+| - Hwang strikes core with Apostle Scalpel                           |
+| - Monolith shatters; beam interrupted                               |
+| - Clash Duration: 41.5 Seconds                                      |
+| - Personnel Casualties: 0 Fatalities                                |
++=====================================================================+
 ```
 
 Director Majin establishes GBS tactical engagement in the Training Plaza:
 
 ```text
 +=====================================================================+
-|        COMBAT HUD: PHASE 01 — BATTLE TURN 01 (VOID MONOLITH)        |
+| COMBAT HUD: PHASE 01 — BATTLE TURN 01 (VOID MONOLITH)               |
 +---------------------------------------------------------------------+
 | [STAGE] :                                                           |
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | POS : [MONOLITH] [KANG] [HWANG] [AYSHUK]                            |
 | DIST : Kang at N02 (Band 1); Hwang at N03 (Band 2); Ayshuk at N10.  |
 +---------------------------------------------------------------------+
@@ -1960,22 +1976,25 @@ Director Majin establishes GBS tactical engagement in the Training Plaza:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 02                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — FLOOR 4 VOID OBSERVATION DOME]              |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [MONOLITH][KANG] [HWANG]                 [AYSHUK]                [M |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [MONOLITH][KANG] [HWANG] [AYSHUK] [MAJIN]                           |
 +---------------------------------------------------------------------+
 | - Node 01: Void Monolith (Posture 78/170 / Pedestal Cracked)        |
-| - Node 02: Agent Kang (Point-Blank Band 1 / Smashing Crystalline Ba |
-| - Node 03: Agent Hwang (Range Band 2 / Blessed Scalpel Optical Stri |
+| - Node 02: Agent Kang (Point-Blank Band 1 / Smashing Crystalline    |
+|   Base)                                                             |
+| - Node 03: Agent Hwang (Range Band 2 / Blessed Scalpel Optical      |
+|   Strike)                                                           |
 | - Node 06: Research Lead Ayshuk (Predicting Death-Ray Trajectory)   |
 | - Node 09: Director Majin & Seiyon Command Console (Band 5)         |
 +---------------------------------------------------------------------+
 | - Agent Kang  : Spd 6 -> 3 AP | HP 135/135 | SP +30 | Posture 75/75 |
 | - Agent Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60 |
-| - Ayshuk      : Spd 6 -> 3 AP | HP 165/165 | SP +40 | Posture 85/85 |
-| - Void Monolith: Spd 4 -> 2 AP | HP 260/380 | Posture 78/170 [CRACK |
+| - Ayshuk : Spd 6 -> 3 AP | HP 165/165 | SP +40 | Posture 85/85      |
+| - Void Monolith: Spd 4 -> 2 AP | HP 260/380                         |
+|   | Posture 78/170 [CRACKED]                                        |
 +=====================================================================+
 ```
 
@@ -1992,11 +2011,11 @@ Director Majin establishes GBS tactical engagement in the Training Plaza:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 03                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — POSTURE BREAK STAGGER LEVEL 1]              |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [MONOLITH]      [KANG]  [HWANG]         [AYSHUK]                [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [MONOLITH] [KANG] [HWANG] [AYSHUK] [MAJIN]                          |
 +---------------------------------------------------------------------+
 | - Node 01: Void Monolith (STAGGER LEVEL 1 / 1.5x DAMAGE TAKEN)      |
 | - Node 03: Agent Kang (Advancing with Momentum Surge / +2 Speed)    |
@@ -2005,8 +2024,9 @@ Director Majin establishes GBS tactical engagement in the Training Plaza:
 +---------------------------------------------------------------------+
 | - Agent Kang  : Spd 8 -> 4 AP [SURGE] | HP 135/135 | SP +30 | Postu |
 | - Agent Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60 |
-| - Ayshuk      : Spd 6 -> 3 AP | HP 165/165 | SP +40 | Posture 85/85 |
-| - Monolith    : Spd 0 -> 0 AP | HP 130/380 | Posture 32/170 [STAGGE |
+| - Ayshuk : Spd 6 -> 3 AP | HP 165/165 | SP +40 | Posture 85/85      |
+| - Monolith : Spd 0 -> 0 AP | HP 130/380                             |
+|   | Posture 32/170 [STAGGERED]                                      |
 +=====================================================================+
 ```
 
@@ -2020,21 +2040,22 @@ Director Majin establishes GBS tactical engagement in the Training Plaza:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 04                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — GLOBAL VOID DEATH-RAY REACTION]             |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [MONOLITH][KANG] [HWANG]                 [AYSHUK]                [M |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [MONOLITH][KANG] [HWANG] [AYSHUK] [MAJIN]                           |
 +---------------------------------------------------------------------+
-| - Node 01: Void Monolith (Recovered / Charging Global Void Death-Ra |
+| - Node 01: Void Monolith (Recovered / Charging Global Void          |
+|   Death-Ray)                                                        |
 | - Node 02: Agent Kang (Directional Guard Absorption Active)         |
 | - Node 03: Agent Hwang (Focusing Scalpel on Central Optic Nerve)    |
 | - Node 06: Research Lead Ayshuk (Clarity Field Deflecting Beam)     |
 +---------------------------------------------------------------------+
 | - Agent Kang  : Spd 8 -> 4 AP | HP 126/135 | SP +30 | Posture 65/75 |
 | - Agent Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60 |
-| - Ayshuk      : Spd 6 -> 3 AP | HP 165/165 | SP +40 | Posture 85/85 |
-| - Monolith    : Spd 4 -> 2 AP | HP 62/380  | Posture 12/170 [FRACTU |
+| - Ayshuk : Spd 6 -> 3 AP | HP 165/165 | SP +40 | Posture 85/85      |
+| - Monolith : Spd 4 -> 2 AP | HP 62/380 | Posture 12/170 [FRACTURED] |
 +=====================================================================+
 ```
 
@@ -2050,22 +2071,23 @@ Director Majin establishes GBS tactical engagement in the Training Plaza:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 05                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — TERMINAL STAGGER LEVEL 2 INDUCTION]         |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [MONOLITH]                                              [MAJIN]     |
-|         [KANG]  [HWANG]                 [AYSHUK]                    |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [MONOLITH] [MAJIN]                                                  |
+| [KANG]  [HWANG]                 [AYSHUK]                            |
 +---------------------------------------------------------------------+
-| - Node 01: Void Monolith (TERMINAL STAGGER / POSTURE 0/170 / 2.0x D |
+| - Node 01: Void Monolith (TERMINAL STAGGER / POSTURE 0/170 / 2.0x   |
+|   DAMAGE)                                                           |
 | - Node 02: Agent Kang (Shattering Foundation Support)               |
 | - Node 03: Agent Hwang (Severing Central Optic Nerve)               |
 | - Node 06: Research Lead Ayshuk (Siphoning Radiance)                |
 +---------------------------------------------------------------------+
 | - Agent Kang  : Spd 6 -> 3 AP | HP 126/135 | SP +30 | Posture 65/75 |
 | - Agent Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +30 | Posture 60/60 |
-| - Ayshuk      : Spd 6 -> 3 AP | HP 165/165 | SP +40 | Posture 85/85 |
-| - Monolith    : Spd 0 -> 0 AP | HP 14/380  | Posture 0/170 [COLLAPS |
+| - Ayshuk : Spd 6 -> 3 AP | HP 165/165 | SP +40 | Posture 85/85      |
+| - Monolith : Spd 0 -> 0 AP | HP 14/380 | Posture 0/170 [COLLAPSED]  |
 +=====================================================================+
 ```
 
@@ -2078,21 +2100,22 @@ Director Majin establishes GBS tactical engagement in the Training Plaza:
 
 ```text
 +=====================================================================+
-|         TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06        |
+| TACTICAL STAGE HUD: COMBAT PHASE 01 — BATTLE TURN 06                |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — CLIMAX EXECUTION & PURIFICATION]            |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [GLASS] [KANG]  [HWANG]                 [AYSHUK]                [MA |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [GLASS] [KANG] [HWANG] [AYSHUK] [MAJIN]                             |
 +---------------------------------------------------------------------+
-| - Node 01: Void Monolith (Shattered into Prismatic Glass & Han Mist |
+| - Node 01: Void Monolith (Shattered into Prismatic Glass & Han      |
+|   Mist)                                                             |
 | - Node 02: Agent Kang (Resting Maul / Logging Victory)              |
 | - Node 03: Agent Hwang (Sheathing Blessed Scalpel)                  |
 | - Node 06: Research Lead Ayshuk (Archiving Spectral Wavelengths)    |
 +---------------------------------------------------------------------+
 | - Agent Kang  : Spd 6 -> 3 AP | HP 126/135 | SP +35 | Posture 75/75 |
 | - Agent Hwang : Spd 6 -> 3 AP | HP 120/120 | SP +35 | Posture 60/60 |
-| - Ayshuk      : Spd 6 -> 3 AP | HP 165/165 | SP +45 | Posture 85/85 |
-| - Monolith    : HP 0/380 [PURIFIED] | +0.028 TONS REFINED HAN HARVE |
+| - Ayshuk : Spd 6 -> 3 AP | HP 165/165 | SP +45 | Posture 85/85      |
+| - Monolith : HP 0/380 [PURIFIED] | +0.028 TONS REFINED HAN HARVE    |
 +=====================================================================+
 ```
 
@@ -2104,7 +2127,7 @@ Director Majin establishes GBS tactical engagement in the Training Plaza:
 
 ```text
 +=====================================================================+
-|                PHASE 01 RESOLUTION (PHASE-END TICK)                 |
+| PHASE 01 RESOLUTION (PHASE-END TICK)                                |
 +---------------------------------------------------------------------+
 | 1. Environmental Check : 360-degree Void charging aura dissipates.  |
 | 2. Status Equilibrium : Plaza atmospheric pressure stabilizes; team |
@@ -2120,43 +2143,43 @@ Daily shift concludes with cumulative total of **0.520 tons** (100% quota achiev
 #### 3. Post-Shift Evaluation & Facility Indices
 
 ```text
-+==============================================+
-| END-OF-DAY PERFORMANCE EVALUATION: DAY 97    |
-+----------------------------------------------+
-| METRIC               | TARGET | REALIZED     |
-+----------------------+--------+--------------+
-| Han Energy Harvested | 0.520t | 0.520 tons   |
-| Containment Breaches | 0 Max  | 0 Breaches   |
-| Personnel Casualties | 0 Dead | 0 Fatalities |
-| Meltdowns Cleared    | 5/5    | 100% Rate    |
-+----------------------+--------+--------------+
-| SHIFT PERFORMANCE GRADE: GRADE S             |
-| REAGENTS ACCUMULATED: +35 RHR                |
-| AGENT ADVANCEMENT:                           |
-| - Agent Kang: +5 Resilience (Max HP Up)      |
-| - Agent Hwang: +5 Clarity (Max SP Up)        |
-| - Agent Bae: +4 Composure (Work Rate Up)     |
-+==============================================+
++=====================================================================+
+| END-OF-DAY PERFORMANCE EVALUATION: DAY 97                           |
++---------------------------------------------------------------------+
+| METRIC               | TARGET | REALIZED                            |
++---------------------------------------------------------------------+
+| Han Energy Harvested | 0.520t | 0.520 tons                          |
+| Containment Breaches | 0 Max  | 0 Breaches                          |
+| Personnel Casualties | 0 Dead | 0 Fatalities                        |
+| Meltdowns Cleared    | 5/5    | 100% Rate                           |
++---------------------------------------------------------------------+
+| SHIFT PERFORMANCE GRADE: GRADE S                                    |
+| REAGENTS ACCUMULATED: +35 RHR                                       |
+| AGENT ADVANCEMENT:                                                  |
+| - Agent Kang: +5 Resilience (Max HP Up)                             |
+| - Agent Hwang: +5 Clarity (Max SP Up)                               |
+| - Agent Bae: +4 Composure (Work Rate Up)                            |
++=====================================================================+
 ```
 
 #### 4. Well Extraction Protocol & Containment Selection
 
 ```text
-+==============================================+
-| WELL EXTRACTION DRAFTING LOG — DAY 97        |
-+----------------------------------------------+
-| CHOICE ALPHA [SE-O-IVd-115]:                 |
-| "A shattered mirror shard that bears the     |
-| weight of every debt unpaid in the city."    |
-+----------------------------------------------+
-| CHOICE BETA [SE-C-IIIg-062]:                 |
-| "A crowned skeleton who inherited a throne   |
-| built entirely out of hollow promises."      |
-+----------------------------------------------+
-| CHOICE GAMMA [SE-O-IIIg-476]:                |
-| "A sunken tear from the First Era that draws |
-| water toward itself from three floors away." |
-+==============================================+
++=====================================================================+
+| WELL EXTRACTION DRAFTING LOG — DAY 97                               |
++---------------------------------------------------------------------+
+| CHOICE ALPHA [SE-O-IVd-115]:                                        |
+| "A shattered mirror shard that bears the                            |
+| weight of every debt unpaid in the city."                           |
++---------------------------------------------------------------------+
+| CHOICE BETA [SE-C-IIIg-062]:                                        |
+| "A crowned skeleton who inherited a throne                          |
+| built entirely out of hollow promises."                             |
++---------------------------------------------------------------------+
+| CHOICE GAMMA [SE-O-IIIg-476]:                                       |
+| "A sunken tear from the First Era that draws                        |
+| water toward itself from three floors away."                        |
++=====================================================================+
 ```
 
 Director's Tactical Assessment & Authorization:
@@ -2169,20 +2192,20 @@ CONTAINMENT SELECTION AUTHORIZED: **Choice Alpha: SE-O-IVδ-115 (*Weight of All 
 #### 5. M.A.W. Synthesis & Armament Forging
 
 ```text
-+==============================================+
-| M.A.W. SYNTHESIS FORGING LOG — DAY 97        |
-+----------------------------------------------+
-| ITEM FORGED          | PROPERTIES / ALLOC    |
-+----------------------+-----------------------+
-| Phoenix Wing         | Wings Slot: +20% Move |
-|                      | Speed, +10% Evasion,  |
-|                      | Lethal Blow Failsafe. |
-|                      | Alloc: Agent Kang.    |
-+----------------------+-----------------------+
-| Flame Brand          | Weapon: Range Band 1, |
-|                      | Fast Grudge Fire.     |
-|                      | Alloc: Agent Hwang.   |
-+======================+=======================+
++=====================================================================+
+| M.A.W. SYNTHESIS FORGING LOG — DAY 97                               |
++---------------------------------------------------------------------+
+| ITEM FORGED          | PROPERTIES / ALLOC                           |
++---------------------------------------------------------------------+
+| Phoenix Wing         | Wings Slot: +20% Move                        |
+| | Speed, +10% Evasion,                                              |
+| | Lethal Blow Failsafe.                                             |
+| | Alloc: Agent Kang.                                                |
++---------------------------------------------------------------------+
+| Flame Brand          | Weapon: Range Band 1,                        |
+| | Fast Grudge Fire.                                                 |
+| | Alloc: Agent Hwang.                                               |
++=====================================================================+
 ```
 
 #### 6. Nocturnal Sub-Vault Telemetry & Director's Vigil

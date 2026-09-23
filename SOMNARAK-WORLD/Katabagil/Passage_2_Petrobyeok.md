@@ -339,19 +339,23 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
 |           APEX BOSS DOSSIER: SECC-028 'BASTION SOVEREIGN'           |
 +---------------------------------------------------------------------+
 | APEX TARGET        : SECC-028 'The Monolithic Bastion Sovereign'    |
-| CLASSIFICATION     : Major-γ (Grade-γ Potency) | Bastion Core Gatek |
-| ENCOUNTER DOMAIN   : Strata 2 Great Bastion Sluice Arch (-450m Dept |
+| CLASSIFICATION     : Major-γ (Grade-γ Potency)                      |
+|   | Bastion Core Gatekeeper                                         |
+| ENCOUNTER DOMAIN : Strata 2 Great Bastion Sluice Arch (-450m Depth) |
 +---------------------------------------------------------------------+
 | BOSS COMBAT PROFILE (SECC-028):                                     |
 | - Total Health (HP): 2,800 HP | Posture Pool: 260/260               |
-| - Stagger 1 Proc   : 60% Posture Strain (156 Posture) / Hammer Brea |
+| - Stagger 1 Proc : 60% Posture Strain (156 Posture) / Hammer Break  |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Dismantling)     |
-| - Resistances      : Lament 2.0x (Fatal), Grudge/Void 1.0x, Weight  |
+| - Resistances : Lament 2.0x (Fatal), Grudge/Void 1.0x, Weight 0.5x  |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
-| 1. Left Siege Hammer: 700 HP | Posture 200/200 (Overhead crushing s |
-| 2. Retaining Bulwark: 900 HP | Posture 220/220 (High-defense kineti |
-| 3. Ancestral Furnace: 1,200 HP | Posture 260/260 (Central glowing c |
+| 1. Left Siege Hammer: 700 HP                                        |
+|   | Posture 200/200 (Overhead crushing smashes)                     |
+| 2. Retaining Bulwark: 900 HP                                        |
+|   | Posture 220/220 (High-defense kinetic shield)                   |
+| 3. Ancestral Furnace: 1,200 HP                                      |
+|   | Posture 260/260 (Central glowing core)                          |
 +=====================================================================+
 ```
 
@@ -362,42 +366,54 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
 |           TACTICAL STAGE HUD: PASSAGE 02 — BATTLE TURN 01           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — STRATA 2 CALCIFIED BASTION (-450M)]         |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]   [HARIN]  [DOHA]  [SORA]  [BOSS]   [YEON]  [MINJAE][JISOO]   |
-|                                  [HAMMER]                           |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]   [HARIN]  [DOHA]  [SORA]                                     |
+| [BOSS]   [YEON]  [MINJAE][JISOO]         [SILENT]                   |
+| [HAMMER]                                                            |
 +---------------------------------------------------------------------+
 | - Node 01: Sluice Borehole Staging / Armored Rig 'The Iron Mole'    |
-| - Node 02: Harin (Vanguard Band 1 / Bastion of the Low Tower Shield |
+| - Node 02: Harin (Vanguard Band 1 / Bastion of the Low Tower        |
+|   Shield)                                                           |
 | - Node 03: Doha (Point-Blank Band 1 / Calcified Pneumatic Ram)      |
 | - Node 04: Sora (Mid-Field Band 2 / Silver Cowl Lament Siphon)      |
 | - Node 05: SECC-028 Bastion Sovereign (Left Hammer & Right Bulwark) |
-| - Node 06: Yeonhwa (Mid-Field Band 3 / Sonar Fault Beacon Theodolit |
+| - Node 06: Yeonhwa (Mid-Field Band 3 / Sonar Fault Beacon           |
+|   Theodolite)                                                       |
 | - Node 07: Minjae (Rear Band 4 / Structural Stress Analysis Slate)  |
 | - Node 08: Jisoo (Rear Band 5 / Cryo Harpoon Logistics Berth)       |
-| - Node 10: The Silent One (High Ashlar Arch / Severed Relic Cleaver |
+| - Node 10: The Silent One (High Ashlar Arch / Severed Relic         |
+|   Cleaver)                                                          |
 +---------------------------------------------------------------------+
-| - Harin       : Spd 4 -> 2 AP | HP 4,200/4,200 | SP 45/50 | Posture |
-| - Silent One  : Spd 7 -> 4 AP | HP 3,100/3,100 | SP 40/40 | Posture |
-| - Doha        : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 40/40 | Posture |
-| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50 | Posture |
-| - Yeonhwa     : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 45/45 | Posture |
-| - Boss Core   : Spd 4 -> 2 AP | HP 1,200/1,200 | Posture 260/260 [A |
-| - Left Hammer : Spd 5 -> 3 AP | HP 700/700     | Posture 200/200 [C |
-| - Right Shield: Spd 3 -> 1 AP | HP 900/900     | Posture 220/220 [D |
+| - Harin       : Spd 4 -> 2 AP | HP 4,200/4,200 | SP 45/50           |
+|   | Posture 180/180                                                 |
+| - Silent One  : Spd 7 -> 4 AP | HP 3,100/3,100 | SP 40/40           |
+|   | Posture 120/120                                                 |
+| - Doha        : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 40/40           |
+|   | Posture 150/150                                                 |
+| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50           |
+|   | Posture 100/100                                                 |
+| - Yeonhwa     : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 45/45           |
+|   | Posture 100/100                                                 |
+| - Boss Core   : Spd 4 -> 2 AP | HP 1,200/1,200                      |
+|   | Posture 260/260 [ANCHORED]                                      |
+| - Left Hammer : Spd 5 -> 3 AP | HP 700/700                          |
+|   | Posture 200/200 [CRUSHING]                                      |
+| - Right Shield: Spd 3 -> 1 AP | HP 900/900                          |
+|   | Posture 220/220 [DEFENDING]                                     |
 +=====================================================================+
 ```
 
 ###### Turn 01 Action Resolution Log (Clashing Against the Living Mountain)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Harin activates `[Pneumatic Bulwark Stance]`: Grants herself and adjacent allies +3 Protection; intercepts the highest speed hostile clash targeting Band 1–2.
-  * Doha prepares `[Bedrock Fracture Stance]`: Inflicts +25% bonus Posture Strain on structural stone parts.
+  * Doha prepares `[Bedrock Fracture Stance]`: Inflicts +25\% bonus Posture Strain on structural stone parts.
   * Yeonhwa shouts: *"Sora, drench the joints! The mortar is calcified Han—if you flood the seams with pure Lament, the stone will soften!"*
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0, Poise +20): Holds Node 03. Spends 2 AP on `[Pneumatic Ram: Counter-Strike]`. Holds 1 AP in Guard.
   * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02. Spends 2 AP on `[Pneumatic Bulwark: Kinetic Deflection]`.
   * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 04. Spends 2 AP on `[Lament Tide: Weeping Deluge]`. Holds 2 AP in Reserve.
   * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Sonar Target Lock: Hammer Joint]`.
-  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30%): Holds high arch at Node 10. Spends 2 AP on positioning.
+  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30\%): Holds high arch at Node 10. Spends 2 AP on positioning.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 03 to 05)**: SECC-028 Slot 1 (Left Siege Hammer) executes `[Foundational Impact]` (Base 16 + 2 Coins = 24 Power, Heavy Weight).
     * Doha clashes with `[Pneumatic Ram: Counter-Strike]` (Base 18 + 2 Coins = 32 Power, Heavy Blunt).
@@ -424,21 +440,27 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
 |           TACTICAL STAGE HUD: PASSAGE 02 — BATTLE TURN 02           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — HAMMER AMPUTATION & BEDROCK PISTON]         |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]            [HARIN] [DOHA]  [BOSS]   [SORA]  [YEON]  [MINJAE][ |
-|                                  [RUBBLE]                           |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]            [HARIN] [DOHA]  [BOSS]                             |
+| [SORA]  [YEON]  [MINJAE][JISOO] [SILENT]                            |
+| [RUBBLE]                                                            |
 +---------------------------------------------------------------------+
 | - Node 03: Harin (Aegis Intercept Shielding Mid-Field Specialists)  |
 | - Node 04: Doha (Pneumatic Overdrive: Bedrock Piston Smashes Elbow) |
 | - Node 05: SECC-028 Bastion Sovereign (Left Hammer Destroyed 0/700  |
+|   HP)                                                               |
 | - Node 06: Sora (Lament Siphon Dissolving Mortar Seams)             |
 | - Node 07: Yeonhwa (Sonar Fault Lock on Retaining Bulwark)          |
-| - Node 10: The Silent One (Twin Pale Flurry Slicing Tendons from Fl |
+| - Node 10: The Silent One (Twin Pale Flurry Slicing Tendons from    |
+|   Flank)                                                            |
 +---------------------------------------------------------------------+
-| - Doha        : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 44/50 | |
-| - Silent One  : Spd 9 -> 5 AP [SURGE] | HP 3,100/3,100 | SP 46/50 | |
+| - Doha        : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 44/50   |
+|   | Posture 150/150                                                 |
+| - Silent One  : Spd 9 -> 5 AP [SURGE] | HP 3,100/3,100 | SP 46/50   |
+|   | Posture 120/120                                                 |
 | - Boss Core   : Spd 3 -> 1 AP | HP 1,200/1,200 | Posture 198/260    |
-| - Left Hammer : DESTROYED (0/700 HP) | TECTONIC PULVERIZATION CANCE |
+| - Left Hammer : DESTROYED (0/700 HP)                                |
+|   | TECTONIC PULVERIZATION CANCELLED                                |
 | - Right Shield: Spd 2 -> 1 AP | HP 900/900     | Posture 172/220    |
 +=====================================================================+
 ```
@@ -475,20 +497,27 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
 |           TACTICAL STAGE HUD: PASSAGE 02 — BATTLE TURN 03           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & UNYIELDING LINE]      |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]            [HARIN] [DOHA]  [BOSS]   [SORA]  [YEON]  [SILENT]  |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]            [HARIN] [DOHA]  [BOSS]                             |
+| [SORA]  [YEON]  [SILENT]        [JISOO]                             |
 +---------------------------------------------------------------------+
-| - Node 03: Harin (Bastion of the Low: Unyielding Line Meets Bulwark |
+| - Node 03: Harin (Bastion of the Low: Unyielding Line Meets         |
+|   Bulwark)                                                          |
 | - Node 04: Doha (Pneumatic Counter-Lever Prying Shield Bracket)     |
-| - Node 05: SECC-028 (STAGGER LEVEL 1 / DEFENSES COLLAPSED / STEAM S |
+| - Node 05: SECC-028 (STAGGER LEVEL 1 / DEFENSES COLLAPSED / STEAM   |
+|   SURGE)                                                            |
 | - Node 06: Sora (Lament Needle Drive Searing Glowing Furnace Core)  |
 | - Node 07: Yeonhwa (Sonar Beacon Directing Squad Penetration)       |
 | - Node 08: The Silent One (Severing Crescent Slashing Core Housing) |
 +---------------------------------------------------------------------+
-| - Harin       : Spd 6 -> 3 AP [SURGE] | HP 4,140/4,200 | SP 48/50 | |
-| - Boss Core   : Spd 0 -> 0 AP | HP 988/1,200   | Posture 94/260 [ST |
-| - Right Shield: Spd 0 -> 0 AP | HP 658/900     | Posture 84/220 [CR |
-| - Total Boss  : HP 1,946/2,800 [THRESHOLD BREACHED / TAKES 1.5X DAM |
+| - Harin       : Spd 6 -> 3 AP [SURGE] | HP 4,140/4,200 | SP 48/50   |
+|   | Posture 180/180                                                 |
+| - Boss Core   : Spd 0 -> 0 AP | HP 988/1,200                        |
+|   | Posture 94/260 [STAGGER LEVEL 1]                                |
+| - Right Shield: Spd 0 -> 0 AP | HP 658/900                          |
+|   | Posture 84/220 [CRACKED]                                        |
+| - Total Boss : HP 1,946/2,800 [THRESHOLD BREACHED / TAKES 1.5X      |
+|   DAMAGE]                                                           |
 +=====================================================================+
 ```
 
@@ -512,7 +541,7 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
       * Deals **280 Cryo-Lament damage**! White steam billows violently from the entity's chest cavity!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP drops past 70% to **1,946/2,800 HP**; Posture collapses past 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The titan falls onto both knees in the dust. All defenses collapse; takes +50% damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The titan falls onto both knees in the dust. All defenses collapse; takes +50\% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 2,158 -> **1,946/2,800 [THRESHOLD BREACHED: Below 1,960 HP!]**.
   * Boss Posture: **94/260 [STAGGER LEVEL 1]**.
@@ -525,8 +554,9 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
 |           TACTICAL STAGE HUD: PASSAGE 02 — BATTLE TURN 04           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — MAXIMUM BURST & THRESHOLD SKIP]             |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                    [HARIN] [BOSS]   [DOHA]  [SILENT][YEON]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                    [HARIN] [BOSS]   [DOHA]                    |
+| [SILENT][YEON]  [SORA]  [JISOO]                                     |
 +---------------------------------------------------------------------+
 | - Node 04: Harin (Pneumatic Shield Bash Rattling Core Chassis)      |
 | - Node 05: SECC-028 Bastion Sovereign (Immobilized on Both Knees)   |
@@ -535,10 +565,12 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
 | - Node 08: Yeonhwa & Sora (Acoustic Dart & Lament Flood Barrage)    |
 | - Node 10: Jisoo (Cryo Harpoon Anchoring Loose Ashlar Blocks)       |
 +---------------------------------------------------------------------+
-| - Silent One  : Spd 10 -> 5 AP [BURST CRIT] | HP 3,100/3,100 | SP 5 |
+| - Silent One  : Spd 10 -> 5 AP [BURST CRIT] | HP 3,100/3,100        |
+|   | SP 50/50                                                        |
 | - Boss Core   : Spd 0 -> 0 AP | HP 446/1,200   | Posture 42/260     |
 | - Right Shield: Spd 0 -> 0 AP | HP 458/900     | Posture 36/220     |
-| - Total Boss  : HP 904/2,800 [BURST DAMAGE 1,042! SECOND THRESHOLD  |
+| - Total Boss : HP 904/2,800 [BURST DAMAGE 1,042! SECOND THRESHOLD   |
+|   SKIPPED]                                                          |
 +=====================================================================+
 ```
 
@@ -572,16 +604,19 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
 |           TACTICAL STAGE HUD: PASSAGE 02 — BATTLE TURN 05           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — ANCESTRAL RECKONING & THE UNMAKING STRIKE]  |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                    [HARIN] [BOSS]   [DOHA]  [SILENT][YEON]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                    [HARIN] [BOSS]   [DOHA]                    |
+| [SILENT][YEON]  [SORA]  [JISOO]                                     |
 +---------------------------------------------------------------------+
 | - Node 04: Harin (Ground Spikes Bracing Against Tectonic Quake)     |
-| - Node 05: SECC-028 (Catastrophic Collapse / Petrified Hands Twitch |
+| - Node 05: SECC-028 (Catastrophic Collapse / Petrified Hands        |
+|   Twitching)                                                        |
 | - Node 06: Doha (Architect's Final Decree: The Unmaking Strike)     |
 | - Node 07: The Silent One (Severing Residual Kinetic Arcs)          |
 | - Node 09: Sora (Cranial Silver Cowl Stabilizing Doha's Mind)       |
 +---------------------------------------------------------------------+
-| - Doha        : Spd 8 -> 4 AP [OVERDRIVE] | HP 3,600/3,600 | SP 50/ |
+| - Doha        : Spd 8 -> 4 AP [OVERDRIVE] | HP 3,600/3,600          |
+|   | SP 50/50 [RESOLVE]                                              |
 | - Boss Core   : Spd 2 -> 1 AP | HP 224/1,200   | Posture 18/260     |
 | - Right Shield: DESTROYED (0/900 HP) | BULWARK SHATTERED INTO DUST  |
 | - Total Boss  : HP 224/2,800 [DEFENSES DESTROYED / SLUMPED FORWARD] |
@@ -621,16 +656,23 @@ Standing five meters tall, its colossal chassis was formed from interlocking blo
 |           TACTICAL STAGE HUD: PASSAGE 02 — BATTLE TURN 06           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — THE DISMANTLING OF GUILT & MASON'S COMPASS] |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                            [DOHA]   [HARIN] [YEON]  [SORA]  [ |
-|                                  [REST]                           [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                            [DOHA]   [HARIN]                   |
+| [YEON]  [SORA]  [SILENT][GATE]                                      |
+| [REST]                           [MINJAE][JISOO]                    |
 +---------------------------------------------------------------------+
-| - Node 05: SECC-028 Bastion Sovereign (PACIFIED & DISSOLVED TO GRAV |
-| - Node 06: Doha (Extracts Ancestral Keystroke Crystal with Bare Han |
-| - Node 07: Harin & Yeonhwa (Surveying Stable Gravel Ramp Through Sl |
-| - Node 08: Sora (Confirming Complete Spiritual Tranquility of Stone |
-| - Node 09: Minjae & Jisoo (Securing 'The Mason's Compass of Year Ze |
+| - Node 05: SECC-028 Bastion Sovereign (PACIFIED & DISSOLVED TO      |
+|   GRAVEL)                                                           |
+| - Node 06: Doha (Extracts Ancestral Keystroke Crystal with Bare     |
+|   Hands)                                                            |
+| - Node 07: Harin & Yeonhwa (Surveying Stable Gravel Ramp Through    |
+|   Sluice)                                                           |
+| - Node 08: Sora (Confirming Complete Spiritual Tranquility of       |
+|   Stone)                                                            |
+| - Node 09: Minjae & Jisoo (Securing 'The Mason's Compass of Year    |
+|   Zero')                                                            |
 | - Node 10: Great Bastion Breach Arch (Pathway to Strata 3 Furtugil  |
+|   OPEN)                                                             |
 +---------------------------------------------------------------------+
 | - Vanguard Squad: Zero Fatalities | Composure 50/50 SP (Tranquil)   |
 | - Encounter Status: 100% PACIFIED | Pathway to Furtugil OPEN        |

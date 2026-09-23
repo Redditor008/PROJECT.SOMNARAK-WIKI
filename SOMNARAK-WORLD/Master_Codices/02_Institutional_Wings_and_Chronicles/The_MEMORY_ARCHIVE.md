@@ -6,13 +6,14 @@
 |          THE MEMORY ARCHIVE — INSTITUTIONAL MASTER DOSSIER          |
 +---------------------------------------------------------------------+
 | INSTITUTION NAME   : The Memory Archive (Gieok-ui Jeojangso)        |
-| ARCHIVAL CLASS     : Sovereign Wing / Mnemonic Preservation Monolit |
-| ESTABLISHED        : Year -1,762 Before Consolihan (6,000-Year Mono |
-| GEOGRAPHIC LOCUS   : Deep Strata Sub-Alpha Roots (-2,400m to -3,200 |
+| ARCHIVAL CLASS : Sovereign Wing / Mnemonic Preservation Monolith    |
+| ESTABLISHED : Year -1,762 Before Consolihan (6,000-Year Monolith)   |
+| GEOGRAPHIC LOCUS : Deep Strata Sub-Alpha Roots (-2,400m to -3,200m) |
 | LEAD PROTAGONIST   : Secretary Seiyon (The Awakened AI Sovereign)   |
 | DIRECTOR EMERITUS  : Director Majin (Facility 01 Central Command)   |
 | OPERATIONAL GOAL   : Unification of Stored Grief into The Promise   |
-| PRIMARY NARRATIVE  : SOMNARAK-WORLD/Gieok_Jeojangso/ (Receptions 1  |
+| PRIMARY NARRATIVE : SOMNARAK-WORLD/Gieok_Jeojangso/ (Receptions 1   |
+| to 7)                                                               |
 +=====================================================================+
 ```
 
@@ -61,10 +62,13 @@ The Memory Archive is organized across seven vertical floors, each representing 
 +---------------------------------------------------------------------+
 | FLOOR LEVEL | DOMAIN TITLE        | PRESERVED SOVEREIGN | THEME     |
 +=====================================================================+
-| Floor 01    | History & Record   | The First Keeper    | Preservati |
+| Floor 01    | History & Record   | The First Keeper                 |
+|   | Preservation                                                    |
 | Floor 02    | Identity & Shadow  | The Memory Thief    | Self-Theft |
-| Floor 03    | Duty & Iron Vow    | The Forgotten Sentry| Duty & Rus |
-| Floor 04    | Unexpressed Grief  | The Weeping Statue  | Silent Tea |
+| Floor 03    | Duty & Iron Vow                                       |
+|   | The Forgotten Sentry| Duty & Rust                               |
+| Floor 04    | Unexpressed Grief  | The Weeping Statue               |
+|   | Silent Tears                                                    |
 | Floor 05    | Severed Truth      | The Mirror of Truth | Self-Doubt |
 | Floor 06    | Compassion & Scars | The Kind Healer     | Martyrdom  |
 | Floor 07    | Origin & Promise   | The Original        | The Merge  |
@@ -99,23 +103,27 @@ All Reception Battles in the Memory Archive execute across the standardized **10
 |            UNIVERSAL 10-NODE MNEMONIC GALLERY COMBAT GRID           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — READING HALL INGRESS TO KEY RELIQUARY]      |
-| [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | |--READING HALL--| |--MEMORY AISLE-| |--CENTRAL LECTERN|            |
 | |--KEY RELIQUARY-|                                                  |
 +---------------------------------------------------------------------+
 | - Node 01: Ingress Stasis Portal / Memory Reading Hall Vestibule    |
-| - Node 02-03: Crystallized Memory Aisles (Seiyon Vanguard Frontline |
+| - Node 02-03: Crystallized Memory Aisles (Seiyon Vanguard           |
+|   Frontline)                                                        |
 | - Node 04: Living Book Concourse (Mid-Field Analytical Range)       |
 | - Node 05: Central Lectern / Floor Sovereign Dais (Guest / Boss)    |
 | - Node 06-07: High Rafters of Spun Glass (Mnemonic Lens Snipers)    |
-| - Node 08: Memory Well / Dissolution Trench (Suppressed Trauma Buff |
+| - Node 08: Memory Well / Dissolution Trench (Suppressed Trauma      |
+|   Buffer)                                                           |
 | - Node 09: Catenary Bookbinders & Resonant Weaving Cranes           |
 | - Node 10: Floor Core Reliquary / Key Page Dais (Climax Union)      |
 +---------------------------------------------------------------------+
 | RANGE BANDS (1 TO 5):                                               |
-| - Band 1 (Nodes 1-2): Heavy Memory Greatswords, Kinetic Towershield |
+| - Band 1 (Nodes 1-2): Heavy Memory Greatswords, Kinetic             |
+|   Towershields                                                      |
 | - Band 2 (Nodes 3-4): Mnemonic Pikes, Stasis Clamps, Shock Halberds |
-| - Band 3 (Nodes 5-6): Resonant Needles, Prismatic Calipers, Carbine |
+| - Band 3 (Nodes 5-6): Resonant Needles, Prismatic Calipers,         |
+|   Carbines                                                          |
 | - Band 4 (Nodes 7-8): Forensic Memory Slates, Optical Theodolites   |
 | - Band 5 (Nodes 9-10): Transmutation Arrays, Catenary Book Spindles |
 +=====================================================================+
@@ -141,24 +149,32 @@ Every engagement within the Memory Archive strictly integrates the **Four P-Fram
 |             THE FOUR P-FRAMEWORK IN MNEMONIC RECEPTIONS             |
 +---------------------------------------------------------------------+
 | P1: PASSIVES (MNEMONIC SURGE & ARCHIVE RESONANCE)                   |
-| - Mnemonic Surge: Winning clashes awards +2 Speed on subsequent tur |
-| - Archive Resonance: Hitting tagged memory seams gives +25% Stagger |
-| - Emotional Clarity: Unbroken composure grants +20% bonus Void dama |
+| - Mnemonic Surge: Winning clashes awards +2 Speed on subsequent     |
+|   turns.                                                            |
+| - Archive Resonance: Hitting tagged memory seams gives +25%         |
+|   Stagger.                                                          |
+| - Emotional Clarity: Unbroken composure grants +20% bonus Void      |
+|   damage.                                                           |
 +---------------------------------------------------------------------+
 | P2: PANIC / COMPOSURE (COGNITIVE DRIFT & RECALL PROTOCOLS)          |
-| - Composure (SP): Operative sanity against identity dissolution (0- |
-| - Cognitive Drift: Falling below 10 SP triggers existential fractur |
+| - Composure (SP): Operative sanity against identity dissolution     |
+|   (0-50).                                                           |
+| - Cognitive Drift: Falling below 10 SP triggers existential         |
+|   fracture.                                                         |
 | - Recall Protocols: Seiyon needles restore +15 to +20 SP instantly. |
 +---------------------------------------------------------------------+
 | P3: PARRY / PROTECTION (PRISMATIC DEFLECTION & CRYSTALLINE ECHO)    |
 | - Prismatic Barrier: Holographic wards reflecting tremor damage.    |
-| - Memory Absorption: Absorbing incoming grief to charge Key Overdri |
+| - Memory Absorption: Absorbing incoming grief to charge Key         |
+|   Overdrive.                                                        |
 | - Null-Acoustic Veil: Neutralizes ambient weeping from floor books. |
 +---------------------------------------------------------------------+
 | P4: POSTURE / POISE (MODULAR ANCHORS & KEY CORE TRANSMUTATION)      |
-| - Anchor Posture Pools: Boss weapons/cores possess discrete posture |
+| - Anchor Posture Pools: Boss weapons/cores possess discrete         |
+|   posture.                                                          |
 | - Stagger 1 Proc (60% Strain): Destroys modular weapon components.  |
-| - Stagger 2 Proc (0% Collapse): Terminal Stagger; Key Page extracti |
+| - Stagger 2 Proc (0% Collapse): Terminal Stagger; Key Page          |
+|   extraction.                                                       |
 +=====================================================================+
 ```
 

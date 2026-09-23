@@ -250,19 +250,25 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
 |             APEX BOSS DOSSIER: SECC-041 'RAIL SOVEREIGN'            |
 +---------------------------------------------------------------------+
 | APEX TARGET        : SECC-041 'The Clandestine Rail Sovereign'      |
-| CLASSIFICATION     : Major-γ (Grade-γ Potency) | Pre-Structuring Tr |
-| ENCOUNTER DOMAIN   : Strata 3 Grand Concourse Junction (-900m Depth |
+| CLASSIFICATION     : Major-γ (Grade-γ Potency)                      |
+|   | Pre-Structuring Transit Apex                                    |
+| ENCOUNTER DOMAIN : Strata 3 Grand Concourse Junction (-900m Depth)  |
 +---------------------------------------------------------------------+
 | BOSS COMBAT PROFILE (SECC-041):                                     |
 | - Total Health (HP): 3,200 HP | Posture Pool: 280/280               |
-| - Stagger 1 Proc   : 60% Posture Strain (168 Posture) / Mandible Br |
+| - Stagger 1 Proc : 60% Posture Strain (168 Posture) / Mandible      |
+|   Break                                                             |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Derailment)      |
-| - Resistances      : Void 2.0x (Fatal), Lament 1.5x, Weight 1.0x, G |
+| - Resistances : Void 2.0x (Fatal), Lament 1.5x, Weight 1.0x, Grudge |
+|   0.5x                                                              |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
-| 1. Rail Mandibles  : 850 HP | Posture 220/220 (High-velocity crushi |
-| 2. Carapace Plating: 1,100 HP | Posture 250/250 (Kinetic deflection |
-| 3. Lantern Core    : 1,250 HP | Posture 280/280 (Central pale searc |
+| 1. Rail Mandibles  : 850 HP                                         |
+|   | Posture 220/220 (High-velocity crushing bites)                  |
+| 2. Carapace Plating: 1,100 HP                                       |
+|   | Posture 250/250 (Kinetic deflection shield)                     |
+| 3. Lantern Core    : 1,250 HP                                       |
+|   | Posture 280/280 (Central pale searchlight)                      |
 +=====================================================================+
 ```
 
@@ -273,28 +279,42 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
 |           TACTICAL STAGE HUD: PASSAGE 03 — BATTLE TURN 01           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — STRATA 3 CONCOURSE JUNCTION (-900M)]        |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]   [HARIN]  [DOHA]  [SORA]  [BOSS]   [YEON]  [SILENT][MINJAE]  |
-|                                  [MANDIB]                           |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]   [HARIN]  [DOHA]  [SORA]                                     |
+| [BOSS]   [YEON]  [SILENT][MINJAE]        [JISOO]                    |
+| [MANDIB]                                                            |
 +---------------------------------------------------------------------+
-| - Node 01: Concourse Turnstile Ingress / Armored Rig 'The Iron Mole |
-| - Node 02: Harin (Vanguard Band 1 / Bastion of the Low Tower Shield |
-| - Node 03: Doha (Point-Blank Band 1 / Calcified Pneumatic Drill Ram |
-| - Node 04: Sora (Mid-Field Band 2 / Silver Cowl Lament Water Resona |
-| - Node 05: SECC-041 Rail Sovereign (Armored Mandibles & Carapace Pl |
+| - Node 01: Concourse Turnstile Ingress / Armored Rig 'The Iron      |
+|   Mole'                                                             |
+| - Node 02: Harin (Vanguard Band 1 / Bastion of the Low Tower        |
+|   Shield)                                                           |
+| - Node 03: Doha (Point-Blank Band 1 / Calcified Pneumatic Drill     |
+|   Ram)                                                              |
+| - Node 04: Sora (Mid-Field Band 2 / Silver Cowl Lament Water        |
+|   Resonance)                                                        |
+| - Node 05: SECC-041 Rail Sovereign (Armored Mandibles & Carapace    |
+|   Plating)                                                          |
 | - Node 06: Yeonhwa (Mid-Field Band 3 / Sonar Track Lock Theodolite) |
 | - Node 07: The Silent One (High Catenary Rafters / Relic Cleaver)   |
 | - Node 08: Minjae (Rear Band 4 / Transit Telemetry Slate)           |
 | - Node 10: Jisoo (Rear Band 5 / Cryo Harpoon Logistics Berth)       |
 +---------------------------------------------------------------------+
-| - Harin       : Spd 4 -> 2 AP | HP 4,200/4,200 | SP 46/50 | Posture |
-| - Silent One  : Spd 7 -> 4 AP | HP 3,100/3,100 | SP 40/40 | Posture |
-| - Doha        : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 38/40 | Posture |
-| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50 | Posture |
-| - Yeonhwa     : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 45/45 | Posture |
-| - Boss Core   : Spd 4 -> 2 AP | HP 1,250/1,250 | Posture 280/280 [S |
-| - Mandibles   : Spd 6 -> 3 AP | HP 850/850     | Posture 220/220 [R |
-| - Carapace    : Spd 3 -> 1 AP | HP 1,100/1,100 | Posture 250/250 [A |
+| - Harin       : Spd 4 -> 2 AP | HP 4,200/4,200 | SP 46/50           |
+|   | Posture 180/180                                                 |
+| - Silent One  : Spd 7 -> 4 AP | HP 3,100/3,100 | SP 40/40           |
+|   | Posture 120/120                                                 |
+| - Doha        : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 38/40           |
+|   | Posture 150/150                                                 |
+| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50           |
+|   | Posture 100/100                                                 |
+| - Yeonhwa     : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 45/45           |
+|   | Posture 100/100                                                 |
+| - Boss Core   : Spd 4 -> 2 AP | HP 1,250/1,250                      |
+|   | Posture 280/280 [STEAMING]                                      |
+| - Mandibles   : Spd 6 -> 3 AP | HP 850/850                          |
+|   | Posture 220/220 [RAM READY]                                     |
+| - Carapace    : Spd 3 -> 1 AP | HP 1,100/1,100                      |
+|   | Posture 250/250 [ARMORED]                                       |
 +=====================================================================+
 ```
 
@@ -305,7 +325,7 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
   * Sora readies `[Lament Water Resonance]`, aiming at the overheating wheel trucks.
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02 directly in front of the double rails. Spends 2 AP on `[Vow of the Low Bulwark: Anchor]`.
-  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30%): Perches on high catenary rafters at Node 07. Spends 2 AP on `[Severing Crescent Stance]`.
+  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30\%): Perches on high catenary rafters at Node 07. Spends 2 AP on `[Severing Crescent Stance]`.
   * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0, Poise +20): Holds Node 03. Spends 2 AP on `[Tungsten Chisel Bore]`. Holds 1 AP in Guard.
   * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 04. Spends 2 AP on `[Cascading Torrent]`. Holds 2 AP in Reserve.
   * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Sonar Track Lock]`, 2 AP on `[Acoustic Dart]`.
@@ -331,19 +351,24 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
 |           TACTICAL STAGE HUD: PASSAGE 03 — BATTLE TURN 02           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — MANDIBLES SHATTERED & VOID CUT]             |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]            [HARIN] [DOHA]  [BOSS]   [SORA]  [YEON]  [MINJAE][ |
-|                                  [SCRAP]                            |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]            [HARIN] [DOHA]  [BOSS]                             |
+| [SORA]  [YEON]  [MINJAE][JISOO] [SILENT]                            |
+| [SCRAP]                                                             |
 +---------------------------------------------------------------------+
-| - Node 03: Harin (Anchored / Deflecting Compressed Locomotive Exhau |
+| - Node 03: Harin (Anchored / Deflecting Compressed Locomotive       |
+|   Exhaust)                                                          |
 | - Node 04: Doha (Tungsten Chisel Bore Cracking Carapace Segment 3)  |
 | - Node 05: SECC-041 Rail Sovereign (Mandibles Destroyed 0/850 HP)   |
 | - Node 06: Sora (Cascading Torrent Rusting Drive Gears)             |
 | - Node 07: Yeonhwa (Sonar Fault Lock on Exposed Hydraulic Hoses)    |
 | - Node 10: The Silent One (Severing Crescent Slicing Left Hydraulic |
+|   Piston)                                                           |
 +---------------------------------------------------------------------+
-| - Silent One  : Spd 9 -> 5 AP [SURGE] | HP 3,100/3,100 | SP 46/50 | |
-| - Doha        : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 42/40 | |
+| - Silent One  : Spd 9 -> 5 AP [SURGE] | HP 3,100/3,100 | SP 46/50   |
+|   | Posture 120/120                                                 |
+| - Doha        : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 42/40   |
+|   | Posture 150/150                                                 |
 | - Boss Core   : Spd 4 -> 2 AP | HP 1,250/1,250 | Posture 212/280    |
 | - Mandibles   : DESTROYED (0/850 HP) | HYDRAULIC PINCERS DISABLED   |
 | - Carapace    : Spd 3 -> 1 AP | HP 790/1,100   | Posture 182/250    |
@@ -382,20 +407,28 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
 |           TACTICAL STAGE HUD: PASSAGE 03 — BATTLE TURN 03           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & CARAPACE BREACH]      |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]            [HARIN] [DOHA]  [BOSS]   [SORA]  [YEON]  [SILENT]  |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]            [HARIN] [DOHA]  [BOSS]                             |
+| [SORA]  [YEON]  [SILENT]        [JISOO]                             |
 +---------------------------------------------------------------------+
 | - Node 03: Harin (Piston Shield Blocking Carapace Flail)            |
-| - Node 04: Doha (Sapper Counter-Lever Popping Heavy Carapace Segmen |
-| - Node 05: SECC-041 (STAGGER LEVEL 1 / DEFENSES REDUCED TO 0 / IMMO |
+| - Node 04: Doha (Sapper Counter-Lever Popping Heavy Carapace        |
+|   Segment)                                                          |
+| - Node 05: SECC-041 (STAGGER LEVEL 1 / DEFENSES REDUCED TO 0 /      |
+|   IMMOBILIZED)                                                      |
 | - Node 06: Sora (Chime of Discord Inflicting +3 Fragility on Guilt) |
-| - Node 07: Yeonhwa (Tracking Weakened Guilt Seams with Acoustic Dar |
+| - Node 07: Yeonhwa (Tracking Weakened Guilt Seams with Acoustic     |
+|   Dart)                                                             |
 | - Node 08: The Silent One (Preparing Execution Cleave on Core)      |
 +---------------------------------------------------------------------+
-| - Harin       : Spd 6 -> 3 AP [SURGE] | HP 4,200/4,200 | SP 48/50 | |
-| - Boss Core   : Spd 0 -> 0 AP | HP 1,160/1,250 | Posture 104/280 [S |
-| - Carapace    : Spd 0 -> 0 AP | HP 480/1,100   | Posture 92/250 [BR |
-| - Total Boss  : HP 1,950/3,200 [THRESHOLD BREACHED / TAKES 1.5X DAM |
+| - Harin       : Spd 6 -> 3 AP [SURGE] | HP 4,200/4,200 | SP 48/50   |
+|   | Posture 180/180                                                 |
+| - Boss Core   : Spd 0 -> 0 AP | HP 1,160/1,250                      |
+|   | Posture 104/280 [STAGGER LEVEL 1]                               |
+| - Carapace    : Spd 0 -> 0 AP | HP 480/1,100                        |
+|   | Posture 92/250 [BREACHED]                                       |
+| - Total Boss : HP 1,950/3,200 [THRESHOLD BREACHED / TAKES 1.5X      |
+|   DAMAGE]                                                           |
 +=====================================================================+
 ```
 
@@ -416,7 +449,7 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
     * Carapace takes **310 Blunt damage** and +64 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP drops past 70% (2,240 HP) down to **1,950/3,200 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The locomotive engine derails onto its side. All defenses fall to zero; takes +50% damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The locomotive engine derails onto its side. All defenses fall to zero; takes +50\% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 2,260 -> **1,950/3,200 [THRESHOLD BREACHED: Below 2,240 HP!]**.
   * Carapace Plating: 790 -> **480/1,100** | Posture: **92/250 [BREACHED]**.
@@ -430,20 +463,25 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
 |           TACTICAL STAGE HUD: PASSAGE 03 — BATTLE TURN 04           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]     |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                    [HARIN] [BOSS]   [DOHA]  [SILENT][YEON]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                    [HARIN] [BOSS]   [DOHA]                    |
+| [SILENT][YEON]  [SORA]  [JISOO]                                     |
 +---------------------------------------------------------------------+
 | - Node 04: Harin (Bulwark Piston Pummel Smashing Boiler Ring)       |
-| - Node 05: SECC-041 Rail Sovereign (Staggered / Pale Searchlight Ex |
+| - Node 05: SECC-041 Rail Sovereign (Staggered / Pale Searchlight    |
+|   Exposed)                                                          |
 | - Node 06: Doha (High-Velocity Sapper Charge Blasting Track Flange) |
-| - Node 07: The Silent One (Relic Cleaver Execution Driving into Hea |
+| - Node 07: The Silent One (Relic Cleaver Execution Driving into     |
+|   Heart)                                                            |
 | - Node 08: Yeonhwa & Sora (Acoustic Void Dart & Discord Shockwave)  |
 | - Node 10: Jisoo (Cryo Harpoon Securing Derailed Wheel Truck)       |
 +---------------------------------------------------------------------+
-| - Silent One  : Spd 10 -> 5 AP [BURST CRIT] | HP 3,100/3,100 | SP 5 |
+| - Silent One  : Spd 10 -> 5 AP [BURST CRIT] | HP 3,100/3,100        |
+|   | SP 50/50                                                        |
 | - Boss Core   : Spd 0 -> 0 AP | HP 310/1,250   | Posture 44/280     |
 | - Carapace    : DESTROYED (0/1,100 HP)                              |
-| - Total Boss  : HP 790/3,200 [BURST DAMAGE 1,160! SECOND THRESHOLD  |
+| - Total Boss : HP 790/3,200 [BURST DAMAGE 1,160! SECOND THRESHOLD   |
+|   SKIPPED]                                                          |
 +=====================================================================+
 ```
 
@@ -476,19 +514,25 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
 +=====================================================================+
 |           TACTICAL STAGE HUD: PASSAGE 03 — BATTLE TURN 05           |
 +---------------------------------------------------------------------+
+|                                                                     |
 | [STAGE NODES 01 TO 10 — PHASE 2 ESCALATION & VOW OF THE LOW BULWARK |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                    [HARIN] [BOSS]   [DOHA]  [SILENT][YEON]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                    [HARIN] [BOSS]   [DOHA]                    |
+| [SILENT][YEON]  [SORA]  [JISOO]                                     |
 +---------------------------------------------------------------------+
 | - Node 04: Harin (Relic Overdrive: VOW OF THE LOW BULWARK MAXIMUM)  |
-| - Node 05: SECC-041 (All-Stations Overdrive Screech / 40 Steam Boil |
+| - Node 05: SECC-041 (All-Stations Overdrive Screech / 40 Steam      |
+|   Boilers)                                                          |
 | - Node 06: Doha (Planting Hydraulic Track Jacks Under Switch)       |
 | - Node 07: The Silent One (Charging Burden Cleaver Void Overdrive)  |
 | - Node 09: Sora (Harmonizing 528 Hz Acoustic Repose Across Squad)   |
 +---------------------------------------------------------------------+
-| - Harin       : Spd 8 -> 4 AP [OVERDRIVE] | HP 4,200/4,200 | SP 50/ |
-| - Boss Core   : Spd 5 -> 3 AP | HP 310/1,250   | Posture 22/280 [BO |
-| - Total Boss  : HP 310/3,200 [STEAM EXHAUSTED / WHEELS SPINNING USE |
+| - Harin       : Spd 8 -> 4 AP [OVERDRIVE] | HP 4,200/4,200          |
+|   | SP 50/50 [VOW ACTIVE]                                           |
+| - Boss Core   : Spd 5 -> 3 AP | HP 310/1,250                        |
+|   | Posture 22/280 [BOILERS DRAINED]                                |
+| - Total Boss : HP 310/3,200 [STEAM EXHAUSTED / WHEELS SPINNING      |
+|   USELESSLY]                                                        |
 +=====================================================================+
 ```
 
@@ -522,18 +566,22 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
 |           TACTICAL STAGE HUD: PASSAGE 03 — BATTLE TURN 06           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — THE FINAL DERAILMENT & STRATA 4 MONORAIL]   |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                            [HARIN]  [SILENT][DOHA]  [YEON]  [ |
-|                                  [REST]                           [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                            [HARIN]  [SILENT]                  |
+| [DOHA]  [YEON]  [SORA]  [MONORAIL]                                  |
+| [REST]                           [MINJAE][JISOO]                    |
 +---------------------------------------------------------------------+
 | - Node 05: SECC-041 Rail Sovereign (DERAILED & 100% PACIFIED)       |
-| - Node 06: The Silent One (Plunges Cleaver Through Pale Searchlight |
+| - Node 06: The Silent One (Plunges Cleaver Through Pale             |
+|   Searchlight)                                                      |
 | - Node 07: Harin (Pins Broken Dagger of Recon Unit Seven to Chest)  |
 | - Node 08: Minjae & Jisoo (Extracting 'Clandestine Transit Seal')   |
-| - Node 10: Pristine Vacuum Stasis Monorail Car (Activated & Boarded |
+| - Node 10: Pristine Vacuum Stasis Monorail Car (Activated &         |
+|   Boarded)                                                          |
 +---------------------------------------------------------------------+
 | - Vanguard Squad: Zero Fatalities | Composure 50/50 SP (Lucid)      |
-| - Encounter Status: 100% PACIFIED | Pathway to Strata 4 Aqueochon O |
+| - Encounter Status: 100% PACIFIED                                   |
+|   | Pathway to Strata 4 Aqueochon OPEN                              |
 +=====================================================================+
 ```
 

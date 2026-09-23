@@ -262,7 +262,7 @@ The battle for the memory of the city had begun.
 |        TARGET DOSSIER: CHIEF CHEMIST SURA & LETHE MIASMA CORE       |
 +---------------------------------------------------------------------+
 | APEX TARGET        : Chief Chemist Sura ('The Memory Bleacher')     |
-| MODULAR WEAPON     : Chemical Distillation Sprayer (Pressurized Aci |
+| MODULAR WEAPON : Chemical Distillation Sprayer (Pressurized Acid)   |
 | CONTRABAND ENTITY  : SE-C-IIIγ-928 'Lethe Miasma Core' (WAW Threat) |
 | ESCORT MINIONS     : Chemical Enforcers (x2) & Solvent Technicians  |
 | ENCOUNTER DOMAIN   : Zone B+C Sub-Drainage Conduits (-75m Depth)    |
@@ -271,14 +271,17 @@ The battle for the memory of the city had begun.
 | - Exoskeleton HP   : 2,000 HP | Body HP: 2,000 HP (Total 4,000 HP)  |
 | - Sprayer Arm HP   : 1,400 HP (Modular Destructible Weapon Part)    |
 | - Posture Pool     : 220/220 (Dual Threshold Stagger System)        |
-| - Stagger 1 Proc   : 60% Posture Strain (132 Posture) / Sprayer Bre |
-| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Stagger / Cryo-S |
-| - Primary Attack   : Pressurized Pale Spray & Solvent Scalpel (Pale |
+| - Stagger 1 Proc : 60% Posture Strain (132 Posture) / Sprayer Break |
+| - Stagger 2 Proc : 0% Posture Collapse (Terminal Stagger /          |
+|   Cryo-Seal)                                                        |
+| - Primary Attack : Pressurized Pale Spray & Solvent Scalpel         |
+|   (Pale/Acid)                                                       |
 +---------------------------------------------------------------------+
 | CONTRABAND ENTITY PROFILE (SE-C-IIIγ-928 'LETHE'):                  |
 | - Entity HP Pool   : 2,800 HP | Posture Pool: 200/200               |
 | - Total Combined   : 6,200 Encounter HP                             |
-| - Attack Affinity  : Tidal Amnesia & Pale Oblivion Surge (Mind Drai |
+| - Attack Affinity : Tidal Amnesia & Pale Oblivion Surge (Mind       |
+|   Drain)                                                            |
 +=====================================================================+
 ```
 
@@ -289,29 +292,47 @@ The battle for the memory of the city had begun.
 |          TACTICAL STAGE HUD: OPERATION 02 — BATTLE TURN 01          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — ZONE B+C SUB-DRAINAGE LETHE VAULT]          |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER][TAEHO] [JOON]  [SOOJIN][SURA]   [YUNA]  [MINHO] [CIVS]    |
-|                                  [SPRAY]                          [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN]                                   |
+| [SURA]   [YUNA]  [MINHO] [CIVS]          [LETHE]                    |
+| [SPRAY]                          [ECHO]                             |
 +---------------------------------------------------------------------+
-| - Node 01: Breach Entry / Class-II Armored Cruiser 'The Iron Vangua |
-| - Node 02: Commander Taeho (Vanguard Band 1 / Phalanx Bastion Obsid |
-| - Node 03: Engineer Joon (Point-Blank Band 1 / Deployable Mantlet B |
-| - Node 04: Handler Soojin (Close Skirmish Band 2 / Aerosol Neutrali |
-| - Node 05: Chief Chemist Sura & Distillation Sprayer (Central Platf |
-| - Node 06: Auditor Yuna (Mid-Field Band 3 / Cipher-Scan Frequency R |
-| - Node 07: Investigator Minho (Mid-Field Band 3 / Neural Lancet Sni |
+| - Node 01: Breach Entry / Class-II Armored Cruiser 'The Iron        |
+|   Vanguard'                                                         |
+| - Node 02: Commander Taeho (Vanguard Band 1 / Phalanx Bastion       |
+|   Obsidian)                                                         |
+| - Node 03: Engineer Joon (Point-Blank Band 1 / Deployable Mantlet   |
+|   Barrier)                                                          |
+| - Node 04: Handler Soojin (Close Skirmish Band 2 / Aerosol          |
+|   Neutralizer)                                                      |
+| - Node 05: Chief Chemist Sura & Distillation Sprayer (Central       |
+|   Platform)                                                         |
+| - Node 06: Auditor Yuna (Mid-Field Band 3 / Cipher-Scan Frequency   |
+|   Rig)                                                              |
+| - Node 07: Investigator Minho (Mid-Field Band 3 / Neural Lancet     |
+|   Sniper)                                                           |
 | - Node 08: Extraction Berths (18 Amnesiac Captive Citizens)         |
-| - Node 10: SE-C-IIIγ-928 Lethe Miasma & Infiltrator Echo (Catwalk S |
+| - Node 10: SE-C-IIIγ-928 Lethe Miasma & Infiltrator Echo (Catwalk   |
+|   Stealth)                                                          |
 +---------------------------------------------------------------------+
-| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 45/50 | Posture |
-| - Joon        : Spd 5 -> 3 AP | HP 3,800/3,800 | SP 40/40 | Posture |
-| - Yuna        : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 50/50 | Posture |
-| - Minho       : Spd 7 -> 4 AP | HP 2,900/2,900 | SP 45/45 | Posture |
-| - Soojin      : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 50/50 | Posture |
-| - Echo        : Spd 9 -> 5 AP | HP 2,600/2,600 | SP 40/40 | Posture |
-| - Sura Chassis: Spd 4 -> 2 AP | HP 2,000/2,000 | Posture 220/220 [S |
-| - Sprayer Arm : Spd 3 -> 1 AP | HP 1,400/1,400 | Posture 120/120 [P |
-| - Lethe Core  : Spd 5 -> 3 AP | HP 2,800/2,800 | Posture 200/200 [C |
+| - Taeho       : Spd 4 -> 2 AP | HP 4,400/4,400 | SP 45/50           |
+|   | Posture 180/180                                                 |
+| - Joon        : Spd 5 -> 3 AP | HP 3,800/3,800 | SP 40/40           |
+|   | Posture 150/150                                                 |
+| - Yuna        : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 50/50           |
+|   | Posture 100/100                                                 |
+| - Minho       : Spd 7 -> 4 AP | HP 2,900/2,900 | SP 45/45           |
+|   | Posture 110/110                                                 |
+| - Soojin      : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 50/50           |
+|   | Posture 140/140                                                 |
+| - Echo        : Spd 9 -> 5 AP | HP 2,600/2,600 | SP 40/40           |
+|   | Posture 90/90 [STEALTH]                                         |
+| - Sura Chassis: Spd 4 -> 2 AP | HP 2,000/2,000                      |
+|   | Posture 220/220 [SEALED]                                        |
+| - Sprayer Arm : Spd 3 -> 1 AP | HP 1,400/1,400                      |
+|   | Posture 120/120 [PRIMED]                                        |
+| - Lethe Core  : Spd 5 -> 3 AP | HP 2,800/2,800                      |
+|   | Posture 200/200 [CAGED]                                         |
 +=====================================================================+
 ```
 
@@ -353,24 +374,37 @@ The battle for the memory of the city had begun.
 |          TACTICAL STAGE HUD: OPERATION 02 — BATTLE TURN 02          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — SPRAYER SAPPING & FREQUENCY SCRAMBLE]       |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER][TAEHO] [JOON]  [SOOJIN][SURA]   [YUNA]  [MINHO] [CIVS]  [ |
-|                                  [SPRAY]                            |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER][TAEHO] [JOON]  [SOOJIN][SURA]                             |
+| [YUNA]  [MINHO] [CIVS]  [ECHO]  [LETHE]                             |
+| [SPRAY]                                                             |
 +---------------------------------------------------------------------+
-| - Node 02: Commander Taeho (Advancing to Node 03 / Concussive Shiel |
-| - Node 03: Engineer Joon (Hydraulic Kinetic Ram Smashes Vapor Manif |
-| - Node 04: Handler Soojin (Resonance Snare Restricting Amnesiac Vap |
-| - Node 05: Chief Chemist Sura (Exoskeleton 1,370/2,000 / Sprayer 92 |
+| - Node 02: Commander Taeho (Advancing to Node 03 / Concussive       |
+|   Shield Bash)                                                      |
+| - Node 03: Engineer Joon (Hydraulic Kinetic Ram Smashes Vapor       |
+|   Manifold)                                                         |
+| - Node 04: Handler Soojin (Resonance Snare Restricting Amnesiac     |
+|   Vapors)                                                           |
+| - Node 05: Chief Chemist Sura (Exoskeleton 1,370/2,000 / Sprayer    |
+|   920/1,400)                                                        |
 | - Node 06: Auditor Yuna (Cipher-Pulse Destabilizing Sura's Servos)  |
-| - Node 07: Investigator Minho (Memory Anchor Restoring Squad Compos |
-| - Node 09: Infiltrator Echo (Overhead Feeder Severed / 300L Acid Ve |
+| - Node 07: Investigator Minho (Memory Anchor Restoring Squad        |
+|   Composure)                                                        |
+| - Node 09: Infiltrator Echo (Overhead Feeder Severed / 300L Acid    |
+|   Vented)                                                           |
 | - Node 10: Lethe Miasma Core (Vapor Agitation Rising / 2,550/2,800  |
+|   HP)                                                               |
 +---------------------------------------------------------------------+
-| - Joon        : Spd 7 -> 4 AP [SURGE] | HP 3,800/3,800 | SP 40/40 | |
-| - Minho       : Spd 9 -> 5 AP [SURGE] | HP 2,900/2,900 | SP 50/50 | |
-| - Sura Chassis: Spd 3 -> 1 AP | HP 1,370/2,000 | Posture 162/220 [D |
-| - Sprayer Arm : Spd 2 -> 1 AP | HP 920/1,400   | Posture 64/120 [CR |
-| - Lethe Core  : Spd 4 -> 2 AP | HP 2,550/2,800 | Posture 178/200 [R |
+| - Joon        : Spd 7 -> 4 AP [SURGE] | HP 3,800/3,800 | SP 40/40   |
+|   | Posture 150/150                                                 |
+| - Minho       : Spd 9 -> 5 AP [SURGE] | HP 2,900/2,900 | SP 50/50   |
+|   | Posture 110/110                                                 |
+| - Sura Chassis: Spd 3 -> 1 AP | HP 1,370/2,000                      |
+|   | Posture 162/220 [DESTABILIZED]                                  |
+| - Sprayer Arm : Spd 2 -> 1 AP | HP 920/1,400                        |
+|   | Posture 64/120 [CRACKED]                                        |
+| - Lethe Core  : Spd 4 -> 2 AP | HP 2,550/2,800                      |
+|   | Posture 178/200 [RESTRICTED]                                    |
 +=====================================================================+
 ```
 
@@ -411,19 +445,26 @@ The battle for the memory of the city had begun.
 |          TACTICAL STAGE HUD: OPERATION 02 — BATTLE TURN 03          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — SPRAYER DESTROYED & STAGGER THRESHOLD 1]    |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]        [TAEHO] [JOON]  [SURA]   [YUNA]  [MINHO] [CIVS]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]        [TAEHO] [JOON]  [SURA]                             |
+| [YUNA]  [MINHO] [CIVS]  [ECHO]  [LETHE]                             |
 +---------------------------------------------------------------------+
-| - Node 03: Commander Taeho (Heavy Piston Strike Smashes Chest Plate |
-| - Node 04: Engineer Joon (Thermite Disruption Clamp Igniting Batter |
+| - Node 03: Commander Taeho (Heavy Piston Strike Smashes Chest       |
+|   Plate)                                                            |
+| - Node 04: Engineer Joon (Thermite Disruption Clamp Igniting        |
+|   Battery)                                                          |
 | - Node 05: Chief Chemist Sura (STAGGER LEVEL 1 / SPRAYER DESTROYED) |
 | - Node 06: Auditor Yuna (Downloading Memory Ledger Coordinates)     |
-| - Node 07: Investigator Minho (Synaptic Pierce Dismantles Sprayer V |
-| - Node 09: Infiltrator Echo (Driving Eclipse Stiletto into Servo Jo |
+| - Node 07: Investigator Minho (Synaptic Pierce Dismantles Sprayer   |
+|   Valve)                                                            |
+| - Node 09: Infiltrator Echo (Driving Eclipse Stiletto into Servo    |
+|   Joints)                                                           |
 | - Node 10: Lethe Miasma Core (Pressurized Containment Trembling)    |
 +---------------------------------------------------------------------+
-| - Taeho       : Spd 6 -> 3 AP [SURGE] | HP 4,400/4,400 | SP 48/50 | |
-| - Sura Chassis: Spd 0 -> 0 AP | HP 290/2,000   | Posture 74/220 [ST |
+| - Taeho       : Spd 6 -> 3 AP [SURGE] | HP 4,400/4,400 | SP 48/50   |
+|   | Posture 180/180                                                 |
+| - Sura Chassis: Spd 0 -> 0 AP | HP 290/2,000                        |
+|   | Posture 74/220 [STAGGER LEVEL 1]                                |
 | - Sprayer Arm : DESTROYED (0/1,400 HP)                              |
 | - Lethe Core  : Spd 5 -> 3 AP | HP 2,550/2,800 | Posture 178/200    |
 +=====================================================================+
@@ -464,21 +505,28 @@ The battle for the memory of the city had begun.
 |          TACTICAL STAGE HUD: OPERATION 02 — BATTLE TURN 04          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — BERSERK LETHE & LEADED SANCTUARY WARD]      |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]        [TAEHO] [JOON]  [SURA]   [SOOJIN][YUNA]  [CIVS]  [ |
-|                                                   [MINHO]           |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]        [TAEHO] [JOON]  [SURA]                             |
+| [SOOJIN][YUNA]  [CIVS]  [ECHO]  [LETHE]                             |
+| [MINHO]                                                             |
 +---------------------------------------------------------------------+
 | - Node 03: Commander Taeho (Shielding Civilian Extraction Berths)   |
-| - Node 04: Engineer Joon (Pneumatic Pry Bar Unjamming Hostage Restr |
+| - Node 04: Engineer Joon (Pneumatic Pry Bar Unjamming Hostage       |
+|   Restraints)                                                       |
 | - Node 05: Chief Chemist Sura (Recovered / Pulling Emergency Purge  |
+|   Lever)                                                            |
 | - Node 06: Handler Soojin (Leaded Sanctuary Damping Field Active)   |
-| - Node 07: Auditor Yuna & Minho (Hacking Sluice Ventilation / Vapor |
+| - Node 07: Auditor Yuna & Minho (Hacking Sluice Ventilation /       |
+|   Vapors Purged)                                                    |
 | - Node 08: 18 Civilian Captives (Cognitive Shields Holding Intact)  |
-| - Node 10: SE-C-IIIγ-928 Lethe (BERSERK STATE / Tidal Amnesia Surge |
+| - Node 10: SE-C-IIIγ-928 Lethe (BERSERK STATE / Tidal Amnesia       |
+|   Surge)                                                            |
 +---------------------------------------------------------------------+
-| - Soojin      : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 50/50 | |
+| - Soojin      : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 50/50   |
+|   | Posture 140/140                                                 |
 | - Sura Chassis: Spd 2 -> 1 AP | HP 290/2,000   | Posture 52/220     |
-| - Lethe Core  : Spd 6 -> 4 AP | HP 2,100/2,800 | Posture 112/200 [B |
+| - Lethe Core  : Spd 6 -> 4 AP | HP 2,100/2,800                      |
+|   | Posture 112/200 [BERSERK]                                       |
 +=====================================================================+
 ```
 
@@ -512,21 +560,31 @@ The battle for the memory of the city had begun.
 |          TACTICAL STAGE HUD: OPERATION 02 — BATTLE TURN 05          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — PHANTOM SEVER & TERMINAL STAGGER]           |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]        [TAEHO] [JOON]  [SURA]   [SOOJIN][YUNA]  [CIVS]    |
-|                                                   [MINHO]         [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]        [TAEHO] [JOON]  [SURA]                             |
+| [SOOJIN][YUNA]  [CIVS]          [LETHE]                             |
+| [MINHO]         [ECHO]                                              |
 +---------------------------------------------------------------------+
 | - Node 03: Commander Taeho (Priming Iron Gavel for Cockpit Breach)  |
-| - Node 04: Engineer Joon (Tearing Away Buckled Leg Supports on Sura |
-| - Node 05: Sura Exoskeleton (TERMINAL STAGGER / POSTURE 0/220 / CRU |
-| - Node 06: Handler Soojin (Aligning Class-IV Leaded Cryo-Cask at Fu |
-| - Node 07: Investigator Minho (Silver Lancet Stripping Cognitive An |
-| - Node 09: Infiltrator Echo (Eclipse Stiletto Phantom Sever on Core |
+| - Node 04: Engineer Joon (Tearing Away Buckled Leg Supports on      |
+|   Sura)                                                             |
+| - Node 05: Sura Exoskeleton (TERMINAL STAGGER / POSTURE 0/220 /     |
+|   CRUSHED)                                                          |
+| - Node 06: Handler Soojin (Aligning Class-IV Leaded Cryo-Cask at    |
+|   Funnel)                                                           |
+| - Node 07: Investigator Minho (Silver Lancet Stripping Cognitive    |
+|   Anchor)                                                           |
+| - Node 09: Infiltrator Echo (Eclipse Stiletto Phantom Sever on      |
+|   Core)                                                             |
 | - Node 10: SE-C-IIIγ-928 Lethe (TERMINAL STAGGER / POSTURE 0/200 /  |
+|   COLLAPSED)                                                        |
 +---------------------------------------------------------------------+
-| - Echo        : Spd 11 -> 5 AP [MOMENTUM CRIT] | HP 2,600/2,600 | S |
-| - Sura Chassis: Spd 0 -> 0 AP | HP 0/2,000     | Posture 0/220 [CHA |
-| - Lethe Core  : Spd 0 -> 0 AP | HP 1,110/2,800 | Posture 0/200 [TER |
+| - Echo        : Spd 11 -> 5 AP [MOMENTUM CRIT] | HP 2,600/2,600     |
+|   | SP 40/40                                                        |
+| - Sura Chassis: Spd 0 -> 0 AP | HP 0/2,000                          |
+|   | Posture 0/220 [CHASSIS CRUSHED]                                 |
+| - Lethe Core  : Spd 0 -> 0 AP | HP 1,110/2,800                      |
+|   | Posture 0/200 [TERMINAL STAGGER]                                |
 +=====================================================================+
 ```
 
@@ -564,14 +622,16 @@ The battle for the memory of the city had begun.
 |          TACTICAL STAGE HUD: OPERATION 02 — BATTLE TURN 06          |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — CLIMAX OVERDRIVE: IRON GAVEL & CRYO-SEAL]   |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [CRUISER]                [JOON]  [TAEHO]  [SOOJIN][YUNA]  [CIVS]    |
-|                                  [SURA]           [MINHO]         [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [CRUISER]                [JOON]  [TAEHO]                            |
+| [SOOJIN][YUNA]  [CIVS]          [CASK]                              |
+| [SURA]           [MINHO]         [ECHO]                             |
 +---------------------------------------------------------------------+
 | - Node 05: Chief Chemist Sura (EXTRACTED UNCONSCIOUS & SECURED)     |
 | - Node 06: Auditor Yuna (4,216 Memory Crystals Secured & Encrypted) |
 | - Node 08: 18 Civilian Captives (Safely Unlatched / Zero Loss)      |
 | - Node 10: SE-C-IIIγ-928 Lethe (100% CONTAINED IN CRYOGENIC VACUUM  |
+|   CASK)                                                             |
 +---------------------------------------------------------------------+
 | - Strike Cadre: Zero Fatalities | Composure 50/50 SP (Lucidity)     |
 | - Encounter Status: 100% PACIFIED | Handoff to RD Floor 2 Ready     |

@@ -265,19 +265,25 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
 |        APEX BOSS DOSSIER: SECC-068 'ASHEN BOUNDARY SOVEREIGN'       |
 +---------------------------------------------------------------------+
 | APEX TARGET        : SECC-068 'The Ashen Boundary Sovereign'        |
-| CLASSIFICATION     : Major-γ (Grade-γ Potency) | Tectonic Boundary  |
-| ENCOUNTER DOMAIN   : Strata 5 Calcinated Boundary Core (-2,100m Dep |
+| CLASSIFICATION     : Major-γ (Grade-γ Potency)                      |
+|   | Tectonic Boundary Apex                                          |
+| ENCOUNTER DOMAIN : Strata 5 Calcinated Boundary Core (-2,100m       |
+| Depth)                                                              |
 +---------------------------------------------------------------------+
 | BOSS COMBAT PROFILE (SECC-068):                                     |
 | - Total Health (HP): 4,000 HP | Posture Pool: 320/320               |
-| - Stagger 1 Proc   : 60% Posture Strain (192 Posture) / Cleaver Bre |
+| - Stagger 1 Proc : 60% Posture Strain (192 Posture) / Cleaver Break |
 | - Stagger 2 Proc   : 0% Posture Collapse (Terminal Solidification)  |
-| - Resistances      : Lament 2.0x (Fatal), Void 1.5x, Grudge 0.5x, W |
+| - Resistances : Lament 2.0x (Fatal), Void 1.5x, Grudge 0.5x, Weight |
+|   0.5x                                                              |
 +---------------------------------------------------------------------+
 | TARGETABLE COMPONENT PARTS:                                         |
-| 1. Magma Cleaver   : 1,050 HP | Posture 260/260 (Sweeping molten bl |
-| 2. Slag Bastion    : 1,300 HP | Posture 280/280 (High-defense stone |
-| 3. Furnace Core    : 1,650 HP | Posture 320/320 (Central volcanic f |
+| 1. Magma Cleaver   : 1,050 HP                                       |
+|   | Posture 260/260 (Sweeping molten blade)                         |
+| 2. Slag Bastion    : 1,300 HP                                       |
+|   | Posture 280/280 (High-defense stone shield)                     |
+| 3. Furnace Core    : 1,650 HP                                       |
+|   | Posture 320/320 (Central volcanic furnace)                      |
 +=====================================================================+
 ```
 
@@ -288,29 +294,42 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
 |           TACTICAL STAGE HUD: PASSAGE 05 — BATTLE TURN 01           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — STRATA 5 BOUNDARY CORE (-2,100M)]           |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]   [HARIN]  [DOHA]  [SORA]  [BOSS]   [YEON]  [SILENT][MINJAE]  |
-|                                  [CLEAVER]                          |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]   [HARIN]  [DOHA]  [SORA]                                     |
+| [BOSS]   [YEON]  [SILENT][MINJAE]        [JISOO]                    |
+| [CLEAVER]                                                           |
 +---------------------------------------------------------------------+
 | - Node 01: Bedrock Staircase Base / Armored Rig 'The Iron Mole'     |
-| - Node 02: Harin (Vanguard Band 1 / Bastion of the Low Tower Shield |
+| - Node 02: Harin (Vanguard Band 1 / Bastion of the Low Tower        |
+|   Shield)                                                           |
 | - Node 03: Doha (Point-Blank Band 1 / Cryo Pneumatic Fracture Ram)  |
 | - Node 04: Sora (Mid-Field Band 2 / Silver Cowl Glacial Siphon)     |
-| - Node 05: SECC-068 Boundary Sovereign (Magma Cleaver & Slag Bastio |
+| - Node 05: SECC-068 Boundary Sovereign (Magma Cleaver & Slag        |
+|   Bastion)                                                          |
 | - Node 06: Yeonhwa (Mid-Field Band 3 / Thermal Sonar Theodolite)    |
-| - Node 07: The Silent One (High Basalt Arch / Severed Relic Cleaver |
+| - Node 07: The Silent One (High Basalt Arch / Severed Relic         |
+|   Cleaver)                                                          |
 | - Node 08: Minjae (Tactical Record Band 4 / Keeper's Lens & Stylus) |
 | - Node 10: Jisoo (Rear Band 5 / Cryo Harpoon Logistics Berth)       |
 +---------------------------------------------------------------------+
-| - Harin       : Spd 4 -> 2 AP | HP 4,200/4,200 | SP 46/50 | Posture |
-| - Silent One  : Spd 7 -> 4 AP | HP 3,100/3,100 | SP 42/40 | Posture |
-| - Doha        : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 40/40 | Posture |
-| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50 | Posture |
-| - Yeonhwa     : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 45/45 | Posture |
-| - Minjae      : Spd 7 -> 4 AP | HP 2,800/2,800 | SP 50/50 | Posture |
-| - Boss Core   : Spd 4 -> 2 AP | HP 1,650/1,650 | Posture 320/320 [B |
-| - Cleaver Arm : Spd 5 -> 3 AP | HP 1,050/1,050 | Posture 260/260 [M |
-| - Slag Shield : Spd 3 -> 1 AP | HP 1,300/1,300 | Posture 280/280 [V |
+| - Harin       : Spd 4 -> 2 AP | HP 4,200/4,200 | SP 46/50           |
+|   | Posture 180/180                                                 |
+| - Silent One  : Spd 7 -> 4 AP | HP 3,100/3,100 | SP 42/40           |
+|   | Posture 120/120                                                 |
+| - Doha        : Spd 5 -> 3 AP | HP 3,600/3,600 | SP 40/40           |
+|   | Posture 150/150                                                 |
+| - Sora        : Spd 7 -> 4 AP | HP 2,600/2,600 | SP 50/50           |
+|   | Posture 100/100                                                 |
+| - Yeonhwa     : Spd 7 -> 4 AP | HP 2,700/2,700 | SP 45/45           |
+|   | Posture 100/100                                                 |
+| - Minjae      : Spd 7 -> 4 AP | HP 2,800/2,800 | SP 50/50           |
+|   | Posture 110/110                                                 |
+| - Boss Core   : Spd 4 -> 2 AP | HP 1,650/1,650                      |
+|   | Posture 320/320 [BURNING]                                       |
+| - Cleaver Arm : Spd 5 -> 3 AP | HP 1,050/1,050                      |
+|   | Posture 260/260 [MOLTEN]                                        |
+| - Slag Shield : Spd 3 -> 1 AP | HP 1,300/1,300                      |
+|   | Posture 280/280 [VITRIFIED]                                     |
 +=====================================================================+
 ```
 
@@ -348,21 +367,27 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
 |           TACTICAL STAGE HUD: PASSAGE 05 — BATTLE TURN 02           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — MAGMA CLEAVER SHATTERED & VOID CUT]         |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]            [HARIN] [DOHA]  [BOSS]   [SORA]  [YEON]  [MINJAE][ |
-|                                  [QUENCH]                           |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]            [HARIN] [DOHA]  [BOSS]                             |
+| [SORA]  [YEON]  [MINJAE][JISOO] [SILENT]                            |
+| [QUENCH]                                                            |
 +---------------------------------------------------------------------+
 | - Node 03: Harin (Anchored / Deflecting Blistering Ash Convection)  |
 | - Node 04: Doha (Pneumatic Fracture Ram Cracking Slag Bastion)      |
-| - Node 05: SECC-068 Boundary Sovereign (Magma Cleaver Destroyed 0/1 |
+| - Node 05: SECC-068 Boundary Sovereign (Magma Cleaver Destroyed     |
+|   0/1,050)                                                          |
 | - Node 06: Sora (Glacial Cascade Quenching Volcanic Joints)         |
 | - Node 07: Yeonhwa (Thermal Sonar Fault Lock on Slag Shield Core)   |
-| - Node 10: The Silent One (Severing Crescent Severing Tungsten Wris |
+| - Node 10: The Silent One (Severing Crescent Severing Tungsten      |
+|   Wrist)                                                            |
 +---------------------------------------------------------------------+
-| - Silent One  : Spd 9 -> 5 AP [SURGE] | HP 3,100/3,100 | SP 46/50 | |
-| - Doha        : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 44/40 | |
+| - Silent One  : Spd 9 -> 5 AP [SURGE] | HP 3,100/3,100 | SP 46/50   |
+|   | Posture 120/120                                                 |
+| - Doha        : Spd 7 -> 4 AP [SURGE] | HP 3,600/3,600 | SP 44/40   |
+|   | Posture 150/150                                                 |
 | - Boss Core   : Spd 4 -> 2 AP | HP 1,650/1,650 | Posture 248/320    |
-| - Cleaver Arm : DESTROYED (0/1,050 HP) | AOE MAGMA WAVE PERMANENTLY |
+| - Cleaver Arm : DESTROYED (0/1,050 HP)                              |
+|   | AOE MAGMA WAVE PERMANENTLY SEALED                               |
 | - Slag Shield : Spd 3 -> 1 AP | HP 980/1,300   | Posture 210/280    |
 +=====================================================================+
 ```
@@ -399,20 +424,26 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
 |           TACTICAL STAGE HUD: PASSAGE 05 — BATTLE TURN 03           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & SHIELD BREACH]        |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]            [HARIN] [DOHA]  [BOSS]   [SORA]  [YEON]  [SILENT]  |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]            [HARIN] [DOHA]  [BOSS]                             |
+| [SORA]  [YEON]  [SILENT]        [JISOO]                             |
 +---------------------------------------------------------------------+
 | - Node 03: Harin (Piston Shield Wall Bracing Against Shrapnel)      |
 | - Node 04: Doha (Sapper Counter-Lever Shattering Vitrified Shield)  |
-| - Node 05: SECC-068 (STAGGER LEVEL 1 / DEFENSES COLLAPSED / IMMOBIL |
+| - Node 05: SECC-068 (STAGGER LEVEL 1 / DEFENSES COLLAPSED /         |
+|   IMMOBILIZED)                                                      |
 | - Node 06: Sora (Chime of Quenched Slag Weakening Furnace Grates)   |
 | - Node 07: Yeonhwa (Directing Optical Theodolite Beam on Core)      |
 | - Node 08: The Silent One (Preparing Void Core Penetration)         |
 +---------------------------------------------------------------------+
-| - Harin       : Spd 6 -> 3 AP [SURGE] | HP 4,200/4,200 | SP 48/50 | |
-| - Boss Core   : Spd 0 -> 0 AP | HP 1,540/1,650 | Posture 122/320 [S |
-| - Slag Shield : Spd 0 -> 0 AP | HP 480/1,300   | Posture 94/280 [BR |
-| - Total Boss  : HP 2,520/4,000 [THRESHOLD BREACHED / TAKES 1.5X DAM |
+| - Harin       : Spd 6 -> 3 AP [SURGE] | HP 4,200/4,200 | SP 48/50   |
+|   | Posture 180/180                                                 |
+| - Boss Core   : Spd 0 -> 0 AP | HP 1,540/1,650                      |
+|   | Posture 122/320 [STAGGER LEVEL 1]                               |
+| - Slag Shield : Spd 0 -> 0 AP | HP 480/1,300                        |
+|   | Posture 94/280 [BREACHED]                                       |
+| - Total Boss : HP 2,520/4,000 [THRESHOLD BREACHED / TAKES 1.5X      |
+|   DAMAGE]                                                           |
 +=====================================================================+
 ```
 
@@ -447,20 +478,24 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
 |           TACTICAL STAGE HUD: PASSAGE 05 — BATTLE TURN 04           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]     |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                    [HARIN] [BOSS]   [DOHA]  [SILENT][YEON]  [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                    [HARIN] [BOSS]   [DOHA]                    |
+| [SILENT][YEON]  [SORA]  [JISOO]                                     |
 +---------------------------------------------------------------------+
 | - Node 04: Harin (Bulwark Kinetic Pummel Crushing Knee Hinges)      |
-| - Node 05: SECC-068 Boundary Sovereign (Staggered / Furnace Flaring |
+| - Node 05: SECC-068 Boundary Sovereign (Staggered / Furnace         |
+|   Flaring)                                                          |
 | - Node 06: Doha (Sapper Thermite Detonation Searing Magma Pipes)    |
 | - Node 07: The Silent One (The Burden Cleave Driving into Heart)    |
 | - Node 08: Yeonhwa & Sora (Theodolite Laser & Glacial Repose)       |
 | - Node 10: Jisoo (Cryo Harpoon Anchoring Cooling Leg Joints)        |
 +---------------------------------------------------------------------+
-| - Silent One  : Spd 10 -> 5 AP [BURST CRIT] | HP 3,100/3,100 | SP 5 |
+| - Silent One  : Spd 10 -> 5 AP [BURST CRIT] | HP 3,100/3,100        |
+|   | SP 50/50                                                        |
 | - Boss Core   : Spd 0 -> 0 AP | HP 440/1,650   | Posture 52/320     |
 | - Slag Shield : DESTROYED (0/1,300 HP)                              |
-| - Total Boss  : HP 1,100/4,000 [BURST DAMAGE 1,420! SECOND THRESHOL |
+| - Total Boss : HP 1,100/4,000 [BURST DAMAGE 1,420! SECOND THRESHOLD |
+|   SKIPPED]                                                          |
 +=====================================================================+
 ```
 
@@ -494,9 +529,10 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
 |           TACTICAL STAGE HUD: PASSAGE 05 — BATTLE TURN 05           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — TECTONIC FISSURE & CHRONICLE OF TRUTH]      |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                    [HARIN] [BOSS]   [MINJAE][SILENT][YEON]  [ |
-|                                                   [DOHA]            |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                    [HARIN] [BOSS]   [MINJAE]                  |
+| [SILENT][YEON]  [SORA]  [JISOO]                                     |
+| [DOHA]                                                              |
 +---------------------------------------------------------------------+
 | - Node 04: Harin (Shielding Squad From 600°C Tectonic Ash Wave)     |
 | - Node 05: SECC-068 (Cataclysmic Tectonic Fissure / Volcanic Rift)  |
@@ -504,8 +540,10 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
 | - Node 07: The Silent One & Doha (Readying Void Cleave on Keystone) |
 | - Node 09: Sora (Chime of Quenched Slag Calming Tectonic Spores)    |
 +---------------------------------------------------------------------+
-| - Minjae      : Spd 8 -> 4 AP [OVERDRIVE] | HP 2,800/2,800 | SP 50/ |
-| - Boss Core   : Spd 4 -> 2 AP | HP 440/1,650   | Posture 26/320 [FR |
+| - Minjae      : Spd 8 -> 4 AP [OVERDRIVE] | HP 2,800/2,800          |
+|   | SP 50/50 [TABLETS]                                              |
+| - Boss Core   : Spd 4 -> 2 AP | HP 440/1,650                        |
+|   | Posture 26/320 [FREEZING]                                       |
 | - Total Boss  : HP 440/4,000 [TECTONIC CATACLYSM BOUND & AVERTED]   |
 +=====================================================================+
 ```
@@ -540,15 +578,20 @@ And rising from the center of the molten lake was the ancient tectonic titan of 
 |           TACTICAL STAGE HUD: PASSAGE 05 — BATTLE TURN 06           |
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — OBSIDIAN SOLIDIFICATION & BORDER KEYSTONE]  |
-| [N01]---[N02]---[N03]---[N04]---[N05]---[N06]---[N07]---[N08]---[N0 |
-| [RIG]                            [MINJAE] [SILENT][HARIN] [DOHA]  [ |
-|                                  [REST]                           [ |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [RIG]                            [MINJAE] [SILENT]                  |
+| [HARIN] [DOHA]  [SORA]  [SHAFT]                                     |
+| [REST]                           [YEON]  [JISOO]                    |
 +---------------------------------------------------------------------+
-| - Node 05: SECC-068 Boundary Sovereign (PACIFIED & SOLIDIFIED TO OB |
+| - Node 05: SECC-068 Boundary Sovereign (PACIFIED & SOLIDIFIED TO    |
+|   OBSIDIAN)                                                         |
 | - Node 06: Minjae (Extracts 'Keystone of the Fractured Border')     |
-| - Node 07: The Silent One (Parts Keystone Furnace Core with Void Cl |
-| - Node 08: Harin & Doha (Securing Unsealed Tectonic Vents & Shaft E |
-| - Node 10: Vertical Bedrock Shaft (Pathway to Strata 6 Traumagol OP |
+| - Node 07: The Silent One (Parts Keystone Furnace Core with Void    |
+|   Cleave)                                                           |
+| - Node 08: Harin & Doha (Securing Unsealed Tectonic Vents & Shaft   |
+|   Edge)                                                             |
+| - Node 10: Vertical Bedrock Shaft (Pathway to Strata 6 Traumagol    |
+|   OPEN)                                                             |
 +---------------------------------------------------------------------+
 | - Vanguard Squad: Zero Fatalities | Composure 50/50 SP (Dignified)  |
 | - Encounter Status: 100% PACIFIED | Pathway to Traumagol OPEN       |

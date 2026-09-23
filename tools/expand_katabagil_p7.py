@@ -6,27 +6,9 @@ Replaces the older combat gauntlet with full 10-node spatial tactical HUDs, Spee
 M.A.W.-W weight deltas, and Four P-framework action resolution logs across all 6 turns.
 """
 
-def make_box(title, rows, width=71):
-    top = "+" + "=" * (width - 2) + "+"
-    bottom = "+" + "=" * (width - 2) + "+"
-    sep = "+" + "-" * (width - 2) + "+"
-    
-    out = [top]
-    if title:
-        title_str = f" {title} "
-        out.append(f"|{title_str.center(width - 2)}|")
-        out.append(sep)
-    
-    for r in rows:
-        if r == "---":
-            out.append(sep)
-        elif r.startswith("==="):
-            out.append(top)
-        else:
-            text = r[:width - 4]
-            out.append(f"| {text.ljust(width - 4)} |")
-    out.append(bottom)
-    return "\n".join(out)
+import sys, os
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
 
 def get_p7_engagement():
     dossier_box = make_box("APEX ENCOUNTER DOSSIER: SECC-UR-VIIω-001", [
@@ -193,21 +175,21 @@ def get_p7_engagement():
 
 ###### Turn 01 Action Resolution Log (Intercepting the Primordial Tide)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Harin activates `[Vow of the Low Bulwark]`: Plants her tower shield deep into the crystalline starlight sand; gains $+3$ Protection and physical stagger immunity.
+  * Harin activates `[Vow of the Low Bulwark]`: Plants her tower shield deep into the crystalline starlight sand; gains +3 Protection and physical stagger immunity.
   * Doha prepares `[Pneumatic Anchor Sapper]`: Drives hydraulic anchors into the shoreline fault line to stabilize squad footing.
   * Yeonhwa initializes `[Sonar Acoustic Theodolite]`: Maps the frequency oscillations of the surrounding liquid Han ocean.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta $-1$, Poise $+25$): Holds Node 02. Spends 2 AP on `[Vow of the Low Bulwark: Kinetic Fortress]`.
-  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta $0$, Crit $+30\%$): Holds the shoreline rim at Node 10. Spends 2 AP on positioning.
-  * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta $0$, Poise $+20$): Holds Node 03. Spends 2 AP on `[Pneumatic Anchor Sapper]`. Holds 1 AP in Guard.
-  * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 04. Spends 2 AP on `[Silver Cowl: Harmonic Damping]`. Holds 2 AP in Reserve.
-  * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta $+1$): Holds Node 06. Spends 2 AP on `[Sonar Scan]`, 2 AP on `[Theodolite Beam]`.
+  * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02. Spends 2 AP on `[Vow of the Low Bulwark: Kinetic Fortress]`.
+  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30\%): Holds the shoreline rim at Node 10. Spends 2 AP on positioning.
+  * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0, Poise +20): Holds Node 03. Spends 2 AP on `[Pneumatic Anchor Sapper]`. Holds 1 AP in Guard.
+  * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 04. Spends 2 AP on `[Silver Cowl: Harmonic Damping]`. Holds 2 AP in Reserve.
+  * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Sonar Scan]`, 2 AP on `[Theodolite Beam]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 05)**: SECC-UR-VIIω-001 unleashes `[Primordial Weeping Tide]` (Base 18 + 2 Coins = 28 Power, Heavy Oceanic Lament).
     * Harin intercepts with `[Vow of the Low Bulwark: Kinetic Fortress]` (Base 22 + 2 Coins = 34 Power, Supreme Kinetic Shield).
     * **Clash Outcome**: Harin WINS THE CLASH OVERWHELMINGLY (34 vs 28)!
     * Harin plants the tower shield firmly into the starlight sand; the blinding turquoise sorrow wave breaks into harmless, warm spray (`[P3: Parry/Protection]`).
-    * Harin reflects **310 kinetic tremor damage** into the Aura of Primordial Grief, inflicting $+58$ Posture Strain!
+    * Harin reflects **310 kinetic tremor damage** into the Aura of Primordial Grief, inflicting +58 Posture Strain!
   * **Unopposed Bedrock Sapping**:
     * Doha's `[Pneumatic Anchor Sapper]` locks down the shoreline fault line, preventing tidal displacement and securing squad positioning!
 - **Step 4: Turn End State**:
@@ -268,7 +250,7 @@ def get_p7_engagement():
     * **TARGETED PART DESTROYED**: The Halo of Petrified Tears shatters into shimmering sapphire dust (**Halo HP: 0/1,500**)!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (4,200 HP), falling to **3,920/6,000 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The First Mourner bows its head upon the altar; all defenses drop to zero; takes $+50\%$ damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The First Mourner bows its head upon the altar; all defenses drop to zero; takes +50\% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 4,750 -> **3,920/6,000 [THRESHOLD BREACHED: Below 4,200 HP!]**.
   * Halo of Petrified Tears: **DESTROYED (0/1,500 HP)**.

@@ -64,7 +64,7 @@ def audit_utf8_files():
 
 
 def audit_macro_canon():
-    """Audit the 34 foundational reference codices (31 in-universe Master_Codices + 3 developer standards)."""
+    """Audit the 35 foundational reference codices (32 in-universe Master_Codices + 3 developer standards)."""
     folder = os.path.join(WORLD_DIR, "Master_Codices")
     if not os.path.exists(folder):
         return {"status": "FAIL", "error": "Master_Codices folder missing"}
@@ -80,11 +80,11 @@ def audit_macro_canon():
 
     total_canon = len(files) + len(found_dev)
     return {
-        "status": "PASS" if total_canon >= 34 else "WARNING",
+        "status": "PASS" if total_canon >= 35 else "WARNING",
         "found_in_world": len(files),
         "found_editorial": len(found_dev),
         "found_codices": total_canon,
-        "expected_codices": 34,
+        "expected_codices": 35,
         "codices": sorted(files),
     }
 

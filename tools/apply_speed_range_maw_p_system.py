@@ -36,26 +36,9 @@ def check_banned(text, filename):
         if matches:
             raise ValueError(f"Banned word {b} found in {filename}: {matches[:3]}")
 
-def make_box(title, raw_rows, width=71):
-    top = "+" + "=" * (width - 2) + "+"
-    div = "+" + "-" * (width - 2) + "+"
-    bot = top
-    out = [top]
-    if title:
-        t_pad = (width - 2 - len(title)) // 2
-        t_line = "|" + " " * t_pad + title + " " * (width - 2 - len(title) - t_pad) + "|"
-        out.append(t_line)
-        out.append(div)
-    max_len = width - 4
-
-    for r in raw_rows:
-        if r == "---":
-            out.append(div)
-        else:
-            pad_len = width - 2 - 1 - len(r)
-            out.append("| " + r + " " * pad_len + "|")
-    out.append(bot)
-    return "\n".join(out)
+import sys, os
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
 
 # -------------------------------------------------------------
 # 1. Update SOMNARAK_BATTLE_SYSTEM.md

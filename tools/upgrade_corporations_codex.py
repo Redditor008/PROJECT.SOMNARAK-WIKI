@@ -32,31 +32,9 @@ def pad_to_display_width(text, target_width):
         return res + " " * (target_width - res_w)
     return text
 
-def make_box(title, rows, width=48):
-    top = "+" + "=" * (width - 2) + "+"
-    bottom = "+" + "=" * (width - 2) + "+"
-    sep = "+" + "-" * (width - 2) + "+"
-    inner_width = width - 4
-    
-    out = [top]
-    if title:
-        title_str = f" {title} "
-        title_w = get_display_width(title_str)
-        left_pad = (width - 2 - title_w) // 2
-        right_pad = width - 2 - title_w - left_pad
-        out.append("|" + " " * left_pad + title_str + " " * right_pad + "|")
-        out.append(sep)
-    
-    for r in rows:
-        if r == "---":
-            out.append(sep)
-        elif r.startswith("==="):
-            out.append(top)
-        else:
-            padded = pad_to_display_width(r, inner_width)
-            out.append(f"| {padded} |")
-    out.append(bottom)
-    return "\n".join(out)
+import sys, os
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
 
 def build_corporations():
     matrix_box = make_box("THE FIVE INSTITUTIONS MATRIX", [
@@ -180,7 +158,7 @@ The **Underworld Cleanup Descend (UCD)** is Somnarak's tactical enforcement corp
 
 ### What It Is
 
-The **Memory Archive (Gieok Jeojangso)** is Somnarak's deep mnemonic preservation sanctum—an ancient subterranean complex excavated within the sub-Alpha tree roots ($-2,350$m to $-3,250$m) where erased, suppressed, and traumatic memories are codified, confronted, and transmuted.
+The **Memory Archive (Gieok Jeojangso)** is Somnarak's deep mnemonic preservation sanctum—an ancient subterranean complex excavated within the sub-Alpha tree roots (-2,350m to -3,250m) where erased, suppressed, and traumatic memories are codified, confronted, and transmuted.
 
 **Operational Doctrine:** Sub-Alpha Mnemonic Strata Reception & Key Page Transmutation  
 **Location:** Deep Strata Sub-Alpha Roots (-2,350m to -3,250m)

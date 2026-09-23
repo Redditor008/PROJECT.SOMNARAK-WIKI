@@ -11,23 +11,9 @@ conforming to Arena.ai Chatroom constraints:
 
 import textwrap
 
-def make_box(lines, width=48):
-    """
-    Wraps text lines into a single-cell reStructuredText box
-    with max row length of 48 characters.
-    """
-    inner_w = width - 4  # account for left border '| ', right border ' |'
-    top_bot = "+" + "=" * (width - 2) + "+"
-    
-    out = [top_bot]
-    for line in lines:
-        wrapped = textwrap.wrap(str(line), width=inner_w)
-        if not wrapped:
-            wrapped = [""]
-        for w in wrapped:
-            out.append("| " + w.ljust(inner_w) + " |")
-    out.append(top_bot)
-    return "\n".join(out)
+import sys, os
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
 
 
 def make_rst_table(headers, rows, col_widths=None, max_width=48):

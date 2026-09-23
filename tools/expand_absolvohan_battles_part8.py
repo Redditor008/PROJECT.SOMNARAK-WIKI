@@ -29,48 +29,9 @@ def check_banned(text, filename):
         if matches:
             raise ValueError(f"Banned word {b} found in {filename}: {matches[:3]}")
 
-def make_box(title, raw_rows, width=71):
-    top = "+" + "=" * (width - 2) + "+"
-    div = "+" + "-" * (width - 2) + "+"
-    bot = top
-    out = [top]
-    if title:
-        t_pad = (width - 2 - len(title)) // 2
-        t_line = "|" + " " * t_pad + title + " " * (width - 2 - len(title) - t_pad) + "|"
-        out.append(t_line)
-        out.append(div)
-    max_len = width - 4
-
-    rows = []
-    for r in raw_rows:
-        if r == "---":
-            rows.append("---")
-        elif len(r) <= max_len:
-            rows.append(r)
-        else:
-            words = r.split()
-            cur = []
-            cur_len = 0
-            for w in words:
-                if cur_len + len(w) + (1 if cur else 0) <= max_len:
-                    cur.append(w)
-                    cur_len += len(w) + (1 if len(cur) > 1 else 0)
-                else:
-                    if cur:
-                        rows.append(" ".join(cur))
-                    cur = [w]
-                    cur_len = len(w)
-            if cur:
-                rows.append(" ".join(cur))
-
-    for r in rows:
-        if r == "---":
-            out.append(div)
-        else:
-            pad_len = width - 2 - 1 - len(r)
-            out.append("| " + r + " " * pad_len + "|")
-    out.append(bot)
-    return "\n".join(out)
+import sys, os
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
 
 filepath = "SOMNARAK-WORLD/The_Absolvohan/Part_8_Days_149_to_177.md"
 with open(filepath, "r", encoding="utf-8") as f:

@@ -5,27 +5,9 @@ Appends fully-realized Day 21 and Day 25 operational chronicles to Part 2 (Days 
 integrating the 10-Node spatial grid, Speed/Range profiles, M.A.W.-W modifiers, and Four P-framework.
 """
 
-def make_box(title, rows, width=71):
-    top = "+" + "=" * (width - 2) + "+"
-    bottom = "+" + "=" * (width - 2) + "+"
-    sep = "+" + "-" * (width - 2) + "+"
-    
-    out = [top]
-    if title:
-        title_str = f" {title} "
-        out.append(f"|{title_str.center(width - 2)}|")
-        out.append(sep)
-    
-    for r in rows:
-        if r == "---":
-            out.append(sep)
-        elif r.startswith("==="):
-            out.append(top)
-        else:
-            text = r[:width - 4]
-            out.append(f"| {text.ljust(width - 4)} |")
-    out.append(bottom)
-    return "\n".join(out)
+import sys, os
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
 
 def generate_day_21():
     t_box = make_box("REVERIE DIRECTORATE — CENTRAL COMMAND TERMINAL", [
