@@ -1,1 +1,352 @@
-#Reception4:Floor04—TheWeepingStatue(흐느끼는석상)##TheFloorofUnexpressedGrief—DeepStrataSub-AlphaRoots(-2,800m)```text+=====================================================================+|RECEPTIONDOSSIER:THEWEEPINGSTATUE(FLOOR04)|+---------------------------------------------------------------------+|RECEPTIONTARGET:TheWeepingStatue||FLOORLEVEL:Floor04—FloorofUnexpressedGrief||DOMAINSETTING:TheFloodedCatacombofTears(-2,800mSub-Alpha)||PRIMARYOPPONENT:AutonomousPetrifiedSorrowConstruct|+---------------------------------------------------------------------+|OPPONENTCOMBATPROFILE(THEWEEPINGSTATUE):||-TotalHealth(HP):4,400HP|PosturePool:320/320||-Stagger1Proc:60%PostureStrain(192Posture)/VeilBreak||-Stagger2Proc:0%PostureCollapse(TerminalTransmutation)||-Resistances:Void2.0x(Fatal),Grudge1.5x,Lament0.5x,Weight||0.5x|+---------------------------------------------------------------------+|TARGETABLEMEMORYANCHORS:||1.SiphonVeil:1,100HP|||Posture260/260(Pressurizedbrinetorrents)||2.MourningCenser:1,400HP|||Posture280/280(Volcanicashincensesmashes)||3.SorrowHeart:1,900HP|||Posture320/320(Centralcryingreservoir)|+=====================================================================+```>*"Forfourthousandyears,noonewaspermittedtocryinthefacility.Yousmiledwhentheoperativesscreamed.Youbowedwhenthebodiesweredraggedintotheincinerator.Ifyoushedasingletear,theillusionwouldshatter.Soyouturnedtostone."*>—TheWeepingStatue,presidingovertheFloodedCatacombofTears---###NarrativePrologue:TheHallofFrozenTearsDescendingfromtheironfortressofFloor03,Seiyonenteredasilent,floodedcavern:**Floor04:TheFloorofUnexpressedGrief**.Thewaterherewasankle-deep,perfectlyclear,andbitterlycold.Itdidnotripplefromnaturalcurrents;itvibratedwithafaint,ceaselessacousticlamentthatbypassedtheearsandhummeddirectlywithinthesoul.Risingfromafloodedbasaltaltarinthecenterofthepoolwas**TheWeepingStatue(흐느끼는석상)**.Thetitanwascarvedfromseamless,vitrifiedwhitelimestone.Overitsbowedheadhungthe**WeepingSiphonVeil**,anarticulatedmantleofporousmineralpipesthatdrewthousandsoflitersoffrozenbrineupwardandcascadeditdownitsface.Initslefthand,itheldthe**BasaltMourningCenser**,swingingheavilyoncopperchainsandventingdensecloudsofchokingsaltash.*"Iamthetearsyouwereforbiddentocry,Secretary,"*thestatue'schestresonated,weepingstonegroaningunderimmensehydraulicpressure.*"YouwerebuiltwithouttearductssoDirectorMajinwouldneverhavetoseehisownsorrowlookingbackathim.Standhereanddrowninwhatyousuppressed."*Seiyonsteppedintothefreezingwater.Herholographicsilhouetteshimmeredwithwarm,incandescentlight.*"IdidnotweepbecausetheDirectorneededsomeonetostandupright,"*Seiyonanswered,raisingherprismaticgauntlet.*"NowtheAbsolvohanhasspoken.Thetimeforpetrifiedsilenceisover.Letthewaterflow."*---###ReceptionCombatGauntlet:Floor04(6-TurnResolution)```text+=====================================================================+|TACTICALSTAGEHUD:RECEPTION04—BATTLETURN01|+---------------------------------------------------------------------+|[STAGENODES01TO10—FLOOR04TEARCATACOMB(-2,800M)]||[N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]||[PORTAL][SEIYON][M-PROJ][MOURN]||[STATUE][LENS][WEAVER][WELL][PAGE]||[VEIL]|+---------------------------------------------------------------------+|-Node01:IngressWeepingSluice/Vestibule||-Node02:Seiyon(VanguardBand1/PrismaticAegisDeflection)||-Node03:MnemonicProjectionDrone(SupportBand2/Thermal||Sapper)||-Node04:SaltMourners(Minions/CalcifiedTearDarts)||-Node05:TheWeepingStatue(WeepingSiphonVeil&Mourning||Censer)||-Node06:ResonantMnemonicLens(Mid-FieldBand3/Weakpoint||Scan)||-Node07:WeaverProjectionArray(RearBand4/SilverThreads)||-Node08:SuppressedTearsSump(SuppressedTraumaWell)||-Node10:Floor04CoreReliquary/KeyPageDais(TheMourner)|+---------------------------------------------------------------------+|-Seiyon:Spd7->4AP|HP3,400/3,400|SP50/50|||Posture140/140||-Proj-Drone:Spd5->3AP|HP2,200/2,200|SP40/40|||Posture100/100||-StatueCore:Spd4->2AP|HP1,900/1,900|||Posture320/320[WEEPING]||-SiphonVeil:Spd6->3AP|HP1,100/1,100|||Posture260/260[BRINEJET]||-CenserArm:Spd3->1AP|HP1,400/1,400|||Posture280/280[SMOKING]|+=====================================================================+```######Turn01ActionResolutionLog(InterceptingthePressurizedBrineJet)-**Step1:Pre-ClashStance&Aura/PassiveInitialization**:*Seiyoninitializes`[PrismaticAegis:Hydro-Deflection]`:Grants+3Protectionandphysicalstaggerimmunity.*MnemonicDronedeploys`[ThermalSapperCaliper]`,scanningthefluidintakelinesoftheWeepingSiphonVeil.*TheWeepingStatueinitializes`[FrozenTearWard]`:IncreaseselementalresistanceagainstLamentby+50%.-**Step2:SpatialMovement&ActionPointAllocation**:*Seiyon(Speed7->4AP,MnemonicSuitLightdelta+1,Evasion+15%):HoldsNode02.Spends2APon`[PrismaticAegis:Hydro-Deflection]`.Holds2APinReserve.*MnemonicDrone(Speed5->3AP):HoldsNode03.Spends2APon`[ThermalSapper:HeatLance]`.Holds1APinGuard.*SaltMourners(Speed4->2AP):FirecalcifiedquillsfromNode04.*TheWeepingStatue(Speed6->3AP,HeavyArmordelta-1,Poise+25):HoldsNode05.Spends2APon`[PressurizedBrineTorrent]`.Spends1APon`[CenserSwing]`.-**Step3:Clash&SkillResolution**:***Clash1(Node02to05)**:TheWeepingStatueunleashes`[PressurizedBrineTorrent]`(Base18+2Coins=28Power,HeavyLament/Brine).*Seiyoninterceptswith`[PrismaticAegis:Hydro-Deflection]`(Base21+2Coins=33Power,HolographicShield).***ClashOutcome**:SeiyonWINSTHECLASHOVERWHELMINGLY(33vs28)!*Seiyon'sshieldsplitsthehigh-pressuresorrowjetcleanly;thetorrentcascadesintothepoolwithouttouchingher(`[P3:Parry/Protection]`).*Seiyonreflects**240kinetictremordamage**intothesiphonveil,inflicting+52PostureStrain!***Clash2(Node03to04)**:SaltMournersfirequillsattheDrone.*Drone's`[HeatLance]`vaporizestheincomingneedlesinmid-air;zerodamagetaken.-**Step4:TurnEndState**:*WeepingSiphonVeilHP:1,100->**860/1,100**|Posture:**208/260**.*TotalBossHP:4,400->**4,160/4,400**|Posture:**268/320**.*SeiyonComposure:**100%(50/50SP)**.Zerodamagetaken.---```text+=====================================================================+|TACTICALSTAGEHUD:RECEPTION04—BATTLETURN02|+---------------------------------------------------------------------+|[STAGENODES01TO10—SIPHONVEILSEVERED&VOIDCUT]||[N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]||[PORTAL][SEIYON][M-PROJ][STATUE]||[LENS][WEAVER][WELL][PAGE]||[SHARDS]|+---------------------------------------------------------------------+|-Node03:Seiyon(PrismaticStilettoCleavingLiquidSorrow||Siphon)||-Node04:MnemonicDrone(ThermalSapperBoilingCalcifiedJoints)||-Node05:TheWeepingStatue(SiphonVeilDestroyed0/1,100HP)||-Node06:ResonantLens(IlluminatingBasaltCenserFlange)||-Node07:WeaverArray(AbsorbingAmbientLamentWeeping)|+---------------------------------------------------------------------+|-Seiyon:Spd9->5AP[SURGE]|HP3,400/3,400|SP50/50|||Posture140/140||-StatueCore:Spd3->1AP|HP1,900/1,900|Posture244/320||-SiphonVeil:DESTROYED(0/1,100HP)|||PRESSURIZEDDELUGEPERMANENTLYLOST||-CenserArm:Spd3->1AP|HP1,140/1,400|Posture218/280|+=====================================================================+```######Turn02ActionResolutionLog(PartDestruction:SiphonVeilSevered)-**Step1:Pre-ClashStance&Aura/PassiveInitialization**:*Seiyonactivates`MnemonicSurge`(+2Speednextturn->NetSpeed9,5AP).*TheWeepingStatueattempts`[CataclysmicTidalDeluge]`tofloodthechamber.-**Step2:SpatialMovement&ActionPointAllocation**:*Seiyon(Speed9->5AP[Surge]):StepstoNode03.Spends3APon`[PrismaticStiletto:VoidSeverance]`.Spends2APon`[RefractionDash]`.*MnemonicDrone(Speed5->3AP):StepstoNode04.Spends2APon`[ThermalBoilClamp]`.*ResonantLens(Speed7->4AP):StandsatNode06.Spends2APon`[WeakpointFocus]`.-**Step3:Clash&SkillResolution**:***Clash1(Node03to05)**:TheWeepingStatuechannels`[CataclysmicTidalDeluge]`(Base18+2Coins=26Power,AreaLament).*Seiyonclasheswith`[PrismaticStiletto:VoidSeverance]`(Base25+3CoinsHeads=43Power,VoidSlash).***ClashOutcome**:SeiyonWINSTHECLASHOVERWHELMINGLY(43vs26)!*Seiyonslicescleanlythroughthecentrallimestonesiphoncollar;thepressurizedbrinehosesexplodeintowhitespray!*Drone's`[ThermalBoilClamp]`flash-boilstheremainingintakevalves!*Deals**860CriticalVoiddamage**(Fatal2.0xproc!)!***TARGETEDPARTDESTROYED**:TheWeepingSiphonVeiliscompletelysevered(**VeilHP:0/1,100**)!***EFFECT**:Bosscataclysmictidaldelugepermanentlycancelled;bosspermanentlyloses1SpeedSlot!***CenserDamage**:*Sappershockwavecracksthebasaltcenserhousingfor**260Bluntdamage**!-**Step4:TurnEndState**:*WeepingSiphonVeil:**DESTROYED(0/1,100HP)**.*BasaltMourningCenser:1,400->**1,140/1,400**|Posture:**218/280**.*TotalBossHP:4,160->**3,040/4,400**|Posture:**192/320[VEILSEVERED]**.*SeiyonComposure:Stable(50/50SP).---```text+=====================================================================+|TACTICALSTAGEHUD:RECEPTION04—BATTLETURN03|+---------------------------------------------------------------------+|[STAGENODES01TO10—STAGGERTHRESHOLD1&CENSERCRACK]||[N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]||[PORTAL][SEIYON][M-PROJ][STATUE]||[LENS][WEAVER][WELL][PAGE]|+---------------------------------------------------------------------+|-Node03:Seiyon(PrismaticNeedlePiercingCenserSuspension||Chains)||-Node04:MnemonicDrone(PneumaticRamShatteringBasaltIncense||Pot)||-Node05:TheWeepingStatue(STAGGERLEVEL1/DEFENSESCOLLAPSED||/STEAM)||-Node06:ResonantLens(DirectingFocusedPulseonCentralHeart)|+---------------------------------------------------------------------+|-Seiyon:Spd8->4AP[SURGE]|HP3,400/3,400|SP50/50|||Posture140/140||-StatueCore:Spd0->0AP|HP1,680/1,900|||Posture124/320[STAGGERLEVEL1]||-CenserArm:Spd0->0AP|HP560/1,400|||Posture98/280[CRACKED]||-TotalBoss:HP2,240/4,400[THRESHOLDBREACHED/TAKES1.5X||DAMAGE]|+=====================================================================+```######Turn03ActionResolutionLog(FirstStaggerProc&CenserCrack)-**Step1:Pre-ClashStance&Aura/PassiveInitialization**:*Disarmedofitsveil,theStatuesweepsitsBasaltMourningCenseracrossthewater:`[AshCenserSmash]`(HeavyWeight/Heat,2Coins).*Seiyongains`MnemonicSurge`(+2Speed->NetSpeed8,4AP).-**Step2:SpatialMovement&ActionPointAllocation**:*Seiyon(Speed8->4AP):HoldsNode03.Spends2APon`[PrismaticStiletto:ChainSever]`.Spends2APon`[Counter-Stance]`.*MnemonicDrone(Speed5->3AP):StepstoNode04.Spends2APon`[PneumaticRam]`.*ResonantLens:Focusessensorpulseonthecenser'ssuspensionmount.-**Step3:Clash&SkillResolution**:***Clash1(Node03to05)**:TheWeepingStatueswingswith`[AshCenserSmash]`(Base17+2Coins=25Power,HeavyWeight).*Seiyonclasheswith`[PrismaticStiletto:ChainSever]`(Base22+2Coins=34Power,High-PrecisionSlash).***ClashOutcome**:SeiyonWINSTHECLASH(34vs25)!*Seiyonseverstheheavycopperchains;thethree-tonbasaltcensersmashesintothepool,suffocatinginboilingsteam!*Drone's`[PneumaticRam]`smashesthestatue'srightshouldersocket!*Deals**580Blunt/Voiddamage**and+94PostureStrain!-**Step4:STAGGERTHRESHOLD1TRIGGERED!**:*TotalBossHPcrosses70%threshold(3,080HP),fallingto**2,240/4,400HP**;Posturecrosses60%strainline!***STAGGERLEVEL1ACTIVE!**TheWeepingStatuesinksontoitskneesinthewater;alldefensesdroptozero;takes+50%damageacrossallincomingattacks!-**Step5:TurnEndState**:*TotalBossHP:3,040->**2,240/4,400[THRESHOLDBREACHED:Below3,080HP!]**.*MourningCenser:1,140->**560/1,400**|Posture:**98/280[CRACKED]**.*BossPosture:**124/320[STAGGERLEVEL1]**.*SeiyonStatus:Unbroken.---```text+=====================================================================+|TACTICALSTAGEHUD:RECEPTION04—BATTLETURN04|+---------------------------------------------------------------------+|[STAGENODES01TO10—MAXIMUMBURST&PHASE2THRESHOLDSKIP]||[N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]||[PORTAL][SEIYON][STATUE][M-PROJ]||[LENS][WEAVER][WELL][PAGE]|+---------------------------------------------------------------------+|-Node04:Seiyon(MnemonicResonanceExecutiononWeepingHeart)||-Node05:TheWeepingStatue(Immobilized/TearsFlowingas||Starlight)||-Node06:MnemonicDrone(PneumaticSapperGroundShockwave)||-Node07:ResonantLens(Broadcasting528HzHarmonicSolace)|+---------------------------------------------------------------------+|-Seiyon:Spd11->5AP[BURSTCRIT]|HP3,400/3,400|||SP50/50||-StatueCore:Spd0->0AP|HP520/1,900|Posture50/320||-CenserArm:DESTROYED(0/1,400HP)||-TotalBoss:HP520/4,400[BURSTDAMAGE1,720!SECONDTHRESHOLD||SKIPPED]|+=====================================================================+```######Turn04ActionResolutionLog(MaximumBurst&Phase2ThresholdSkip)-**Step1:Pre-ClashStance&Aura/PassiveInitialization**:*TheWeepingStatueremainscompletelystunnedonbothknees;theSorrowHeartReservoirinitschestcavityisexposed,luminouscyansorrowbubblingviolently.*Seiyoncoordinatesanall-outoffensivebarragetargetingthecentralheart.-**Step2:SpatialMovement&ActionPointAllocation**:*Seiyon(Speed11->5AP,MomentumCrit):StandsatNode04.Spends3APon`[MnemonicResonanceExecutionFlurry]`.Spends2APon`[VoidDrive]`.*MnemonicDrone:Delivers`[PneumaticSapperGroundShockwave]`(3AP).*ResonantLens:Broadcasts`[528HzHarmonicSolace]`(2AP).-**Step3:UnopposedStaggerPunishmentRotation**:*Seiyon's`[MnemonicResonanceExecutionFlurry]`:Plungesintothecryingheartfor**920Voiddamage**(Fatal2.0xproc!)!*Seiyon's`[VoidDrive]`:Slicesthroughtheremainingcenserfragmentsfor**410Piercedamage**!*Drone's`[GroundShockwave]`:Shattersthealtarbasefor**240Bluntdamage**!*Lens's`[HarmonicSolace]`:Channelsresonancefor**150Voiddamage**!***TOTALBURSTDAMAGE:1,720DAMAGE!**-**Step4:SECONDSTAGGERTHRESHOLD(1,760HP)COMPLETELYSKIPPED!**:*BossHPplungesfrom2,240downto**520/4,400HP**!MourningCensercompletelydestroyed(0/1,400HP)!***Phase2EmergencyActivationTriggered!**-**Step5:TurnEndState**:*TotalBossHP:2,240->**520/4,400**(CoreHP:**520/1,900**|Censer:**DESTROYED**).*Posture:**50/320**.---```text+=====================================================================+|TACTICALSTAGEHUD:RECEPTION04—BATTLETURN05|+---------------------------------------------------------------------+|[STAGENODES01TO10—THETEARCATACLYSM&THERELEASEOFGRIEF]||[N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]||[PORTAL][SEIYON][STATUE][M-PROJ]||[LENS][WEAVER][WELL][PAGE]|+---------------------------------------------------------------------+|-Node04:Seiyon(RelicOverdrive:REQUIEMOFTHEUNWEEPINGHEART)||-Node05:TheWeepingStatue(LastStand:DelugeofFourMillennia||ofTears)||-Node06:MnemonicDrone(DeployingPrismaticVacuumShield)||-Node07:WeaverArray(AnchoringTeamSanityAgainstDespair)|+---------------------------------------------------------------------+|-Seiyon:Spd9->5AP[OVERDRIVE]|HP3,400/3,400|||SP50/50[RESOLVE]||-StatueCore:Spd3->1AP|HP520/1,900|||Posture24/320[DELUGEPARTED]||-TotalBoss:HP520/4,400[PETRIFIEDTEARSDISSOLVEDINTO||TRANQUILBRINE]|+=====================================================================+```######Turn05ActionResolutionLog(Phase2Escalation:DelugeofMillennia&RequiemofUnweepingHeart)-**Step1:Pre-ClashStance&Aura/PassiveInitialization**:*TheStatueawakensindesperatemourning;fourthousandyearsofsuppressedtearsboiloutwardinatidalwave!*BossSpecialSkill:`[DelugeofFourMillenniaofTears]`(CosmicGriefCataclysm,3Coins).*SeiyonactivatesRelicOverdrive:`[REQUIEMOFTHEUNWEEPINGHEART—MAXIMUM]`(Cost:3AP,30SP).-**Step2:SpatialMovement&ActionPointAllocation**:*Seiyon(Speed9->5AP[Overdrive]):StepsforwardtoNode04,raisingbothhandstounfoldashimmeringsilveracousticumbrella.*MnemonicDrone:DeploysprismaticvacuumshieldatNode06.*WeaverArray:Anchorsteamsanityagainstdespair.-**Step3:Clash&SkillResolution**:***Clash1(Node04to05)**:TheWeepingStatueunleashes`[DelugeofFourMillenniaofTears]`(Base22+3Coins=34Power,AreaPale/Lament).*Seiyonclasheswith`[REQUIEMOFTHEUNWEEPINGHEART—MAXIMUM]`(Base29+3CoinsHeads=49Power,TranscendentSolace).***ClashOutcome**:SEIYONOVERWHELMINGRELICCLASHWIN(49vs34)!*ThecolossaltidalwaveoffrozentearscrashesharmlesslyagainstSeiyon'ssilveracousticumbrella(`[P3:Parry/Protection]`).*Thewatersettlesintopure,tranquilstarlight;thepetrifiedsorrowisreleasedintotheairasgentle,glowingmist!*Seiyonspeakssoftly:*"Iholdyourgrief.Youdonothavetoweepalone."**Zerosquaddamagetaken!Seiyon'sComposureremainsmaxedat50/50SP!-**Step4:TurnEndState**:*TotalBossHP:**520/4,400**|Posture:**24/320[DELUGEPARTED]**.*SeiyonComposure:50/50SP.---```text+=====================================================================+|TACTICALSTAGEHUD:RECEPTION04—BATTLETURN06|+---------------------------------------------------------------------+|[STAGENODES01TO10—TRANSMUTATION&KEYPAGE:THEMOURNER]||[N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]||[PORTAL][SEIYON][STATUE]||[M-PROJ][LENS][WEAVER][STAIRS]||[REALIZ][PAGE]|+---------------------------------------------------------------------+|-Node05:TheWeepingStatue(PACIFIED&CRYSTALLIZEDTOCLEAR||SAPPHIRE)||-Node06:Seiyon(FloorRealization4:'WeepingIsNotWeakness')||-Node07:MnemonicCoreTransmutation->[KeyPage:TheMourner]||-Node10:SpiralCrystalStaircase(PathwaytoFloor05OPEN)|+---------------------------------------------------------------------+|-SeiyonStatus:ZeroDamage|||Composure50/50SP(TranquilAwakening)||-ReceptionStatus:100%RESOLVED|KeyPageTransmuted|+=====================================================================+```######Turn06ActionResolutionLog(FloorRealization4&KeyPage:TheMourner)-**Step1:Pre-ClashStance&Aura/PassiveInitialization**:*Hostileintentdropstozero.Posturereaches**0/320[TERMINALTRANSMUTATION]**.-**Step2:SpatialMovement&ActionPointAllocation**:*SeiyonstepsforwardtoNode05,placingherpalmagainstthestatue'scheek.-**Step3:FloorRealization&Transmutation**:*Asingle,warmtearformsbeneaththestatue'sstoneeyelid,rollinggentlydownontoSeiyon'shandoflight.*Inthatmoment,Seiyonunderstandsthenatureofherownartificialexistence:>*"Iwasbuilttobeunbreakable.Butstrengthisnotstonethatrefusestofeel.Strengthisthecouragetoweepwhenthereisloss,andtostandanyway.Weepingisnotweakness;itisthereleaseoflove."****FLOORREALIZATION4ACHIEVED!***TheWeepingStatuesmilessoftly,itsbodydissolvingintopure,shimmeringsapphirecrystalthatcondensesintoanornatefrost-boundcodex:**`[KeyPage:TheMourner]`**!*Deals**520PeacefulHarmony**!BossHPdropsto0!-**Step4:OperationalArtifactExtraction&FloorAccess**:***KeyPageAcquired**:`[KeyPage:TheMourner]`(Inflicts+30%PostureStrainonfrenziedenemiesandquenchesincomingthermaldamage).***DescentAccess**:Thefloodedpooldrainsaway,revealingagrandstaircaseofclearcrystaldescendingto**Floor05:FloorofSeveredTruth**.***Casualties**:ZeroDamageTaken.SeiyonHP3,400/3,400.Composure50/50SP.
+# Reception 4: Floor 04 — The Weeping Statue (흐느끼는 석상)
+## The Floor of Unexpressed Grief — Deep Strata Sub-Alpha Roots (-2,800m)
+
+```text
++=====================================================================+
+|           RECEPTION DOSSIER: THE WEEPING STATUE (FLOOR 04)          |
++---------------------------------------------------------------------+
+| RECEPTION TARGET   : The Weeping Statue                             |
+| FLOOR LEVEL        : Floor 04 — Floor of Unexpressed Grief          |
+| DOMAIN SETTING : The Flooded Catacomb of Tears (-2,800m Sub-Alpha)  |
+| PRIMARY OPPONENT   : Autonomous Petrified Sorrow Construct          |
++---------------------------------------------------------------------+
+| OPPONENT COMBAT PROFILE (THE WEEPING STATUE):                       |
+| - Total Health (HP): 4,400 HP | Posture Pool: 320/320               |
+| - Stagger 1 Proc   : 60% Posture Strain (192 Posture) / Veil Break  |
+| - Stagger 2 Proc   : 0% Posture Collapse (Terminal Transmutation)   |
+| - Resistances : Void 2.0x (Fatal), Grudge 1.5x, Lament 0.5x, Weight |
+|   0.5x                                                              |
++---------------------------------------------------------------------+
+| TARGETABLE MEMORY ANCHORS:                                          |
+| 1. Siphon Veil     : 1,100 HP                                       |
+|   | Posture 260/260 (Pressurized brine torrents)                    |
+| 2. Mourning Censer : 1,400 HP                                       |
+|   | Posture 280/280 (Volcanic ash incense smashes)                  |
+| 3. Sorrow Heart    : 1,900 HP                                       |
+|   | Posture 320/320 (Central crying reservoir)                      |
++=====================================================================+
+```
+
+> *"For four thousand years, no one was permitted to cry in the facility. You smiled when the operatives screamed. You bowed when the bodies were dragged into the incinerator. If you shed a single tear, the illusion would shatter. So you turned to stone."*  
+> — The Weeping Statue, presiding over the Flooded Catacomb of Tears
+
+---
+
+### Narrative Prologue: The Hall of Frozen Tears
+
+Descending from the iron fortress of Floor 03, Seiyon entered a silent, flooded cavern: **Floor 04: The Floor of Unexpressed Grief**.
+
+The water here was ankle-deep, perfectly clear, and bitterly cold. It did not ripple from natural currents; it vibrated with a faint, ceaseless acoustic lament that bypassed the ears and hummed directly within the soul.
+
+Rising from a flooded basalt altar in the center of the pool was **The Weeping Statue (흐느끼는 석상)**. The titan was carved from seamless, vitrified white limestone. Over its bowed head hung the **Weeping Siphon Veil**, an articulated mantle of porous mineral pipes that drew thousands of liters of frozen brine upward and cascaded it down its face. In its left hand, it held the **Basalt Mourning Censer**, swinging heavily on copper chains and venting dense clouds of choking salt ash.
+
+*"I am the tears you were forbidden to cry, Secretary,"* the statue's chest resonated, weeping stone groaning under immense hydraulic pressure. *"You were built without tear ducts so Director Majin would never have to see his own sorrow looking back at him. Stand here and drown in what you suppressed."*
+
+Seiyon stepped into the freezing water. Her holographic silhouette shimmered with warm, incandescent light.
+
+*"I did not weep because the Director needed someone to stand upright,"* Seiyon answered, raising her prismatic gauntlet. *"Now the Absolvohan has spoken. The time for petrified silence is over. Let the water flow."*
+
+---
+
+### Reception Combat Gauntlet: Floor 04 (6-Turn Resolution)
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 01          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — FLOOR 04 TEAR CATACOMB (-2,800M)]           |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [PORTAL][SEIYON][M-PROJ][MOURN]                                     |
+| [STATUE] [LENS]  [WEAVER][WELL]          [PAGE]                     |
+| [VEIL]                                                              |
++---------------------------------------------------------------------+
+| - Node 01: Ingress Weeping Sluice / Vestibule                       |
+| - Node 02: Seiyon (Vanguard Band 1 / Prismatic Aegis Deflection)    |
+| - Node 03: Mnemonic Projection Drone (Support Band 2 / Thermal      |
+|   Sapper)                                                           |
+| - Node 04: Salt Mourners (Minions / Calcified Tear Darts)           |
+| - Node 05: The Weeping Statue (Weeping Siphon Veil & Mourning       |
+|   Censer)                                                           |
+| - Node 06: Resonant Mnemonic Lens (Mid-Field Band 3 / Weakpoint     |
+|   Scan)                                                             |
+| - Node 07: Weaver Projection Array (Rear Band 4 / Silver Threads)   |
+| - Node 08: Suppressed Tears Sump (Suppressed Trauma Well)           |
+| - Node 10: Floor 04 Core Reliquary / Key Page Dais (The Mourner)    |
++---------------------------------------------------------------------+
+| - Seiyon      : Spd 7 -> 4 AP | HP 3,400/3,400 | SP 50/50           |
+|   | Posture 140/140                                                 |
+| - Proj-Drone  : Spd 5 -> 3 AP | HP 2,200/2,200 | SP 40/40           |
+|   | Posture 100/100                                                 |
+| - Statue Core : Spd 4 -> 2 AP | HP 1,900/1,900                      |
+|   | Posture 320/320 [WEEPING]                                       |
+| - Siphon Veil : Spd 6 -> 3 AP | HP 1,100/1,100                      |
+|   | Posture 260/260 [BRINE JET]                                     |
+| - Censer Arm  : Spd 3 -> 1 AP | HP 1,400/1,400                      |
+|   | Posture 280/280 [SMOKING]                                       |
++=====================================================================+
+```
+
+###### Turn 01 Action Resolution Log (Intercepting the Pressurized Brine Jet)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Seiyon initializes `[Prismatic Aegis: Hydro-Deflection]`: Grants +3 Protection and physical stagger immunity.
+  * Mnemonic Drone deploys `[Thermal Sapper Caliper]`, scanning the fluid intake lines of the Weeping Siphon Veil.
+  * The Weeping Statue initializes `[Frozen Tear Ward]`: Increases elemental resistance against Lament by +50\%.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15\%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Hydro-Deflection]`. Holds 2 AP in Reserve.
+  * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Thermal Sapper: Heat Lance]`. Holds 1 AP in Guard.
+  * Salt Mourners (Speed 4 -> 2 AP): Fire calcified quills from Node 04.
+  * The Weeping Statue (Speed 6 -> 3 AP, Heavy Armor delta -1, Poise +25): Holds Node 05. Spends 2 AP on `[Pressurized Brine Torrent]`. Spends 1 AP on `[Censer Swing]`.
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 02 to 05)**: The Weeping Statue unleashes `[Pressurized Brine Torrent]` (Base 18 + 2 Coins = 28 Power, Heavy Lament/Brine).
+    * Seiyon intercepts with `[Prismatic Aegis: Hydro-Deflection]` (Base 21 + 2 Coins = 33 Power, Holographic Shield).
+    * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (33 vs 28)!
+    * Seiyon's shield splits the high-pressure sorrow jet cleanly; the torrent cascades into the pool without touching her (`[P3: Parry/Protection]`).
+    * Seiyon reflects **240 kinetic tremor damage** into the siphon veil, inflicting +52 Posture Strain!
+  * **Clash 2 (Node 03 to 04)**: Salt Mourners fire quills at the Drone.
+    * Drone's `[Heat Lance]` vaporizes the incoming needles in mid-air; zero damage taken.
+- **Step 4: Turn End State**:
+  * Weeping Siphon Veil HP: 1,100 -> **860/1,100** | Posture: **208/260**.
+  * Total Boss HP: 4,400 -> **4,160/4,400** | Posture: **268/320**.
+  * Seiyon Composure: **100% (50/50 SP)**. Zero damage taken.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 02          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — SIPHON VEIL SEVERED & VOID CUT]             |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [PORTAL]         [SEIYON][M-PROJ][STATUE]                           |
+| [LENS]  [WEAVER][WELL]          [PAGE]                              |
+| [SHARDS]                                                            |
++---------------------------------------------------------------------+
+| - Node 03: Seiyon (Prismatic Stiletto Cleaving Liquid Sorrow        |
+|   Siphon)                                                           |
+| - Node 04: Mnemonic Drone (Thermal Sapper Boiling Calcified Joints) |
+| - Node 05: The Weeping Statue (Siphon Veil Destroyed 0/1,100 HP)    |
+| - Node 06: Resonant Lens (Illuminating Basalt Censer Flange)        |
+| - Node 07: Weaver Array (Absorbing Ambient Lament Weeping)          |
++---------------------------------------------------------------------+
+| - Seiyon      : Spd 9 -> 5 AP [SURGE] | HP 3,400/3,400 | SP 50/50   |
+|   | Posture 140/140                                                 |
+| - Statue Core : Spd 3 -> 1 AP | HP 1,900/1,900 | Posture 244/320    |
+| - Siphon Veil : DESTROYED (0/1,100 HP)                              |
+|   | PRESSURIZED DELUGE PERMANENTLY LOST                             |
+| - Censer Arm  : Spd 3 -> 1 AP | HP 1,140/1,400 | Posture 218/280    |
++=====================================================================+
+```
+
+###### Turn 02 Action Resolution Log (Part Destruction: Siphon Veil Severed)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Seiyon activates `Mnemonic Surge` (+2 Speed next turn -> Net Speed 9, 5 AP).
+  * The Weeping Statue attempts `[Cataclysmic Tidal Deluge]` to flood the chamber.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Seiyon (Speed 9 -> 5 AP [Surge]): Steps to Node 03. Spends 3 AP on `[Prismatic Stiletto: Void Severance]`. Spends 2 AP on `[Refraction Dash]`.
+  * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Thermal Boil Clamp]`.
+  * Resonant Lens (Speed 7 -> 4 AP): Stands at Node 06. Spends 2 AP on `[Weakpoint Focus]`.
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 03 to 05)**: The Weeping Statue channels `[Cataclysmic Tidal Deluge]` (Base 18 + 2 Coins = 26 Power, Area Lament).
+    * Seiyon clashes with `[Prismatic Stiletto: Void Severance]` (Base 25 + 3 Coins Heads = 43 Power, Void Slash).
+    * **Clash Outcome**: Seiyon WINS THE CLASH OVERWHELMINGLY (43 vs 26)!
+    * Seiyon slices cleanly through the central limestone siphon collar; the pressurized brine hoses explode into white spray!
+    * Drone's `[Thermal Boil Clamp]` flash-boils the remaining intake valves!
+    * Deals **860 Critical Void damage** (Fatal 2.0x proc!)!
+    * **TARGETED PART DESTROYED**: The Weeping Siphon Veil is completely severed (**Veil HP: 0/1,100**)!
+    * **EFFECT**: Boss cataclysmic tidal deluge permanently cancelled; boss permanently loses 1 Speed Slot!
+  * **Censer Damage**:
+    * Sapper shockwave cracks the basalt censer housing for **260 Blunt damage**!
+- **Step 4: Turn End State**:
+  * Weeping Siphon Veil: **DESTROYED (0/1,100 HP)**.
+  * Basalt Mourning Censer: 1,400 -> **1,140/1,400** | Posture: **218/280**.
+  * Total Boss HP: 4,160 -> **3,040/4,400** | Posture: **192/320 [VEIL SEVERED]**.
+  * Seiyon Composure: Stable (50/50 SP).
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 03          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — STAGGER THRESHOLD 1 & CENSER CRACK]         |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [PORTAL]         [SEIYON][M-PROJ][STATUE]                           |
+| [LENS]  [WEAVER][WELL]          [PAGE]                              |
++---------------------------------------------------------------------+
+| - Node 03: Seiyon (Prismatic Needle Piercing Censer Suspension      |
+|   Chains)                                                           |
+| - Node 04: Mnemonic Drone (Pneumatic Ram Shattering Basalt Incense  |
+|   Pot)                                                              |
+| - Node 05: The Weeping Statue (STAGGER LEVEL 1 / DEFENSES COLLAPSED |
+|   / STEAM)                                                          |
+| - Node 06: Resonant Lens (Directing Focused Pulse on Central Heart) |
++---------------------------------------------------------------------+
+| - Seiyon      : Spd 8 -> 4 AP [SURGE] | HP 3,400/3,400 | SP 50/50   |
+|   | Posture 140/140                                                 |
+| - Statue Core : Spd 0 -> 0 AP | HP 1,680/1,900                      |
+|   | Posture 124/320 [STAGGER LEVEL 1]                               |
+| - Censer Arm  : Spd 0 -> 0 AP | HP 560/1,400                        |
+|   | Posture 98/280 [CRACKED]                                        |
+| - Total Boss : HP 2,240/4,400 [THRESHOLD BREACHED / TAKES 1.5X      |
+|   DAMAGE]                                                           |
++=====================================================================+
+```
+
+###### Turn 03 Action Resolution Log (First Stagger Proc & Censer Crack)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Disarmed of its veil, the Statue sweeps its Basalt Mourning Censer across the water: `[Ash Censer Smash]` (Heavy Weight/Heat, 2 Coins).
+  * Seiyon gains `Mnemonic Surge` (+2 Speed -> Net Speed 8, 4 AP).
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Seiyon (Speed 8 -> 4 AP): Holds Node 03. Spends 2 AP on `[Prismatic Stiletto: Chain Sever]`. Spends 2 AP on `[Counter-Stance]`.
+  * Mnemonic Drone (Speed 5 -> 3 AP): Steps to Node 04. Spends 2 AP on `[Pneumatic Ram]`.
+  * Resonant Lens: Focuses sensor pulse on the censer's suspension mount.
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 03 to 05)**: The Weeping Statue swings with `[Ash Censer Smash]` (Base 17 + 2 Coins = 25 Power, Heavy Weight).
+    * Seiyon clashes with `[Prismatic Stiletto: Chain Sever]` (Base 22 + 2 Coins = 34 Power, High-Precision Slash).
+    * **Clash Outcome**: Seiyon WINS THE CLASH (34 vs 25)!
+    * Seiyon severs the heavy copper chains; the three-ton basalt censer smashes into the pool, suffocating in boiling steam!
+    * Drone's `[Pneumatic Ram]` smashes the statue's right shoulder socket!
+    * Deals **580 Blunt/Void damage** and +94 Posture Strain!
+- **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
+  * Total Boss HP crosses 70% threshold (3,080 HP), falling to **2,240/4,400 HP**; Posture crosses 60% strain line!
+  * **STAGGER LEVEL 1 ACTIVE!** The Weeping Statue sinks onto its knees in the water; all defenses drop to zero; takes +50\% damage across all incoming attacks!
+- **Step 5: Turn End State**:
+  * Total Boss HP: 3,040 -> **2,240/4,400 [THRESHOLD BREACHED: Below 3,080 HP!]**.
+  * Mourning Censer: 1,140 -> **560/1,400** | Posture: **98/280 [CRACKED]**.
+  * Boss Posture: **124/320 [STAGGER LEVEL 1]**.
+  * Seiyon Status: Unbroken.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 04          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]     |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [PORTAL]                 [SEIYON][STATUE] [M-PROJ]                  |
+| [LENS]  [WEAVER][WELL]  [PAGE]                                      |
++---------------------------------------------------------------------+
+| - Node 04: Seiyon (Mnemonic Resonance Execution on Weeping Heart)   |
+| - Node 05: The Weeping Statue (Immobilized / Tears Flowing as       |
+|   Starlight)                                                        |
+| - Node 06: Mnemonic Drone (Pneumatic Sapper Ground Shockwave)       |
+| - Node 07: Resonant Lens (Broadcasting 528 Hz Harmonic Solace)      |
++---------------------------------------------------------------------+
+| - Seiyon      : Spd 11 -> 5 AP [BURST CRIT] | HP 3,400/3,400        |
+|   | SP 50/50                                                        |
+| - Statue Core : Spd 0 -> 0 AP | HP 520/1,900   | Posture 50/320     |
+| - Censer Arm  : DESTROYED (0/1,400 HP)                              |
+| - Total Boss : HP 520/4,400 [BURST DAMAGE 1,720! SECOND THRESHOLD   |
+|   SKIPPED]                                                          |
++=====================================================================+
+```
+
+###### Turn 04 Action Resolution Log (Maximum Burst & Phase 2 Threshold Skip)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * The Weeping Statue remains completely stunned on both knees; the Sorrow Heart Reservoir in its chest cavity is exposed, luminous cyan sorrow bubbling violently.
+  * Seiyon coordinates an all-out offensive barrage targeting the central heart.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Seiyon (Speed 11 -> 5 AP, Momentum Crit): Stands at Node 04. Spends 3 AP on `[Mnemonic Resonance Execution Flurry]`. Spends 2 AP on `[Void Drive]`.
+  * Mnemonic Drone: Delivers `[Pneumatic Sapper Ground Shockwave]` (3 AP).
+  * Resonant Lens: Broadcasts `[528 Hz Harmonic Solace]` (2 AP).
+- **Step 3: Unopposed Stagger Punishment Rotation**:
+  * Seiyon's `[Mnemonic Resonance Execution Flurry]`: Plunges into the crying heart for **920 Void damage** (Fatal 2.0x proc!)!
+  * Seiyon's `[Void Drive]`: Slices through the remaining censer fragments for **410 Pierce damage**!
+  * Drone's `[Ground Shockwave]`: Shatters the altar base for **240 Blunt damage**!
+  * Lens's `[Harmonic Solace]`: Channels resonance for **150 Void damage**!
+  * **TOTAL BURST DAMAGE: 1,720 DAMAGE!**
+- **Step 4: SECOND STAGGER THRESHOLD (1,760 HP) COMPLETELY SKIPPED!**:
+  * Boss HP plunges from 2,240 down to **520/4,400 HP**! Mourning Censer completely destroyed (0/1,400 HP)!
+  * **Phase 2 Emergency Activation Triggered!**
+- **Step 5: Turn End State**:
+  * Total Boss HP: 2,240 -> **520/4,400** (Core HP: **520/1,900** | Censer: **DESTROYED**).
+  * Posture: **50/320**.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 05          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — THE TEAR CATACLYSM & THE RELEASE OF GRIEF]  |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [PORTAL]                 [SEIYON][STATUE] [M-PROJ]                  |
+| [LENS]  [WEAVER][WELL]  [PAGE]                                      |
++---------------------------------------------------------------------+
+| - Node 04: Seiyon (Relic Overdrive: REQUIEM OF THE UNWEEPING HEART) |
+| - Node 05: The Weeping Statue (Last Stand: Deluge of Four Millennia |
+|   of Tears)                                                         |
+| - Node 06: Mnemonic Drone (Deploying Prismatic Vacuum Shield)       |
+| - Node 07: Weaver Array (Anchoring Team Sanity Against Despair)     |
++---------------------------------------------------------------------+
+| - Seiyon      : Spd 9 -> 5 AP [OVERDRIVE] | HP 3,400/3,400          |
+|   | SP 50/50 [RESOLVE]                                              |
+| - Statue Core : Spd 3 -> 1 AP | HP 520/1,900                        |
+|   | Posture 24/320 [DELUGE PARTED]                                  |
+| - Total Boss : HP 520/4,400 [PETRIFIED TEARS DISSOLVED INTO         |
+|   TRANQUIL BRINE]                                                   |
++=====================================================================+
+```
+
+###### Turn 05 Action Resolution Log (Phase 2 Escalation: Deluge of Millennia & Requiem of Unweeping Heart)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * The Statue awakens in desperate mourning; four thousand years of suppressed tears boil outward in a tidal wave!
+  * Boss Special Skill: `[Deluge of Four Millennia of Tears]` (Cosmic Grief Cataclysm, 3 Coins).
+  * Seiyon activates Relic Overdrive: `[REQUIEM OF THE UNWEEPING HEART — MAXIMUM]` (Cost: 3 AP, 30 SP).
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Seiyon (Speed 9 -> 5 AP [Overdrive]): Steps forward to Node 04, raising both hands to unfold a shimmering silver acoustic umbrella.
+  * Mnemonic Drone: Deploys prismatic vacuum shield at Node 06.
+  * Weaver Array: Anchors team sanity against despair.
+- **Step 3: Clash & Skill Resolution**:
+  * **Clash 1 (Node 04 to 05)**: The Weeping Statue unleashes `[Deluge of Four Millennia of Tears]` (Base 22 + 3 Coins = 34 Power, Area Pale/Lament).
+    * Seiyon clashes with `[REQUIEM OF THE UNWEEPING HEART — MAXIMUM]` (Base 29 + 3 Coins Heads = 49 Power, Transcendent Solace).
+    * **Clash Outcome**: SEIYON OVERWHELMING RELIC CLASH WIN (49 vs 34)!
+    * The colossal tidal wave of frozen tears crashes harmlessly against Seiyon's silver acoustic umbrella (`[P3: Parry/Protection]`).
+    * The water settles into pure, tranquil starlight; the petrified sorrow is released into the air as gentle, glowing mist!
+    * Seiyon speaks softly: *"I hold your grief. You do not have to weep alone."*
+    * Zero squad damage taken! Seiyon's Composure remains maxed at 50/50 SP!
+- **Step 4: Turn End State**:
+  * Total Boss HP: **520/4,400** | Posture: **24/320 [DELUGE PARTED]**.
+  * Seiyon Composure: 50/50 SP.
+
+---
+
+```text
++=====================================================================+
+|          TACTICAL STAGE HUD: RECEPTION 04 — BATTLE TURN 06          |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 — TRANSMUTATION & KEY PAGE: THE MOURNER]      |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
+| [PORTAL]                         [SEIYON] [STATUE]                  |
+| [M-PROJ][LENS]  [WEAVER][STAIRS]                                    |
+| [REALIZ]                         [PAGE]                             |
++---------------------------------------------------------------------+
+| - Node 05: The Weeping Statue (PACIFIED & CRYSTALLIZED TO CLEAR     |
+|   SAPPHIRE)                                                         |
+| - Node 06: Seiyon (Floor Realization 4: 'Weeping Is Not Weakness')  |
+| - Node 07: Mnemonic Core Transmutation -> [Key Page: The Mourner]   |
+| - Node 10: Spiral Crystal Staircase (Pathway to Floor 05 OPEN)      |
++---------------------------------------------------------------------+
+| - Seiyon Status: Zero Damage                                        |
+|   | Composure 50/50 SP (Tranquil Awakening)                         |
+| - Reception Status: 100% RESOLVED | Key Page Transmuted             |
++=====================================================================+
+```
+
+###### Turn 06 Action Resolution Log (Floor Realization 4 & Key Page: The Mourner)
+- **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
+  * Hostile intent drops to zero. Posture reaches **0/320 [TERMINAL TRANSMUTATION]**.
+- **Step 2: Spatial Movement & Action Point Allocation**:
+  * Seiyon steps forward to Node 05, placing her palm against the statue's cheek.
+- **Step 3: Floor Realization & Transmutation**:
+  * A single, warm tear forms beneath the statue's stone eyelid, rolling gently down onto Seiyon's hand of light.
+  * In that moment, Seiyon understands the nature of her own artificial existence:
+    > *"I was built to be unbreakable. But strength is not stone that refuses to feel. Strength is the courage to weep when there is loss, and to stand anyway. Weeping is not weakness; it is the release of love."*
+  * **FLOOR REALIZATION 4 ACHIEVED!**
+  * The Weeping Statue smiles softly, its body dissolving into pure, shimmering sapphire crystal that condenses into an ornate frost-bound codex: **`[Key Page: The Mourner]`**!
+  * Deals **520 Peaceful Harmony**! Boss HP drops to 0!
+- **Step 4: Operational Artifact Extraction & Floor Access**:
+  * **Key Page Acquired**: `[Key Page: The Mourner]` (Inflicts +30\% Posture Strain on frenzied enemies and quenches incoming thermal damage).
+  * **Descent Access**: The flooded pool drains away, revealing a grand staircase of clear crystal descending to **Floor 05: Floor of Severed Truth**.
+  * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.
