@@ -301,4 +301,46 @@ When a new AI or agent begins a new turn or session in this repository, execute 
    ```
 
 ---
+
+## 10. ACTIVE EXPANSION ROADMAP & BINDING OWNER RULINGS (2026-09-24)
+
+### 10.1 Five Approved Systems for Native Somnarak Adaptation
+On 2026-09-24, the project owner reviewed and approved five major worldbuilding and tactical combat systems adapted from Project Moon comparative research into 100% native Somnarak equivalents:
+
+1. **System 1: Mnemonic Cycle Engrams (주기 각인 / Cycle Engrams):**
+   - *Equivalence:* Somnarak's native equivalent to Mirror World Identities.
+   - *Mechanic:* Operatives attune to the 1,778 previous historical reset cycles stored in the Memory Wells of Floor 06 (`The_REVERIE_DIRECTORATE.md`) and the Memory Archive (`The_MEMORY_ARCHIVE.md`). Engrams alter an operative's Speed Band, Action Slot distribution, and P1 Passives.
+   - *Destination:* `GAME_BATTLE/CYCLE_ENGRAM_SYSTEM.md`.
+
+2. **System 2: The Six Great Basalt & Resonance Workshops (육대 공방):**
+   - *Equivalence:* Somnarak's native artisan weapon and armor ateliers forging non-M.A.W. military equipment from Tier 2 Beast carapaces, vitrified glass, and acoustic alloys.
+   - *Existing Canonical Precedents:* Master Wright Gwan's workshop (`SOMNARAK_CAST.md`), Doll Maker's Workshop (`SOMNARAK_DAWN_OF_HOPE.md`), and Zone C/D workshop smiths processing Dune-Crusher carapaces (`MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md`).
+   - *Binding Owner Rulings on Equipment Grades & Workplace Acquisition:*
+     * **Grading Scale:** Scales strictly from **Grade 1 up to Grade 5**.
+     * **Grade 5 Pinnacle Stat:** Attains **Legendary Stat** (최고 전설 등급 능력치).
+     * **Workplace Requirement:** To even qualify to obtain or craft these armaments, an operative or citizen **must be actively employed or affiliated with a certified industrial workplace, guild, or sovereign workshop**.
+     * **Exact Acquisition Percentage Curve:**
+       - **Grade 5 (Legendary Stat):** Exactly **0.5%** acquisition / crafting rate.
+       - **Grade 4 (Masterwork):** Exactly **1.0%** acquisition / crafting rate.
+       - **Grade 3 (Superior):** Exactly **5.0%** acquisition / crafting rate.
+       - (Grades 1 and 2: Standard industrial guild issue for working personnel).
+   - *The Six Workshops:* Yeoul (Rapid Flow / Harpoons), Cheol-Gyeong (Iron Mirror / Basalt Shields), Chim-Mok (Absolute Silence / Dampeners), Hwa-Seok (Vitrified Ember / Thermal Lances), Baek-Gwang (White Luster / Void Optics), Sim-Yeon (Deep Marrow / Abyss Winches).
+   - *Destination:* `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md`.
+
+3. **System 3: The Five Syndicates of The Raw (오대 지하 조직):**
+   - *Equivalence:* Somnarak's native equivalent to the Five Fingers, ruling the subterranean slums of Zone B/C/D ("The Raw").
+   - *The Five Syndicates:* The Menders Guild (Flesh-to-stone stitchers), The Rust Frays (Acoustic discord scrap-plate), The Veil Merchants (Illicit liquid Han & tears), The Memory Washers (Illicit cognitive erasure), The Debt Concourse (Karma & soul usury).
+   - *Destination:* `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_RAW_SYNDICATES.md`.
+
+4. **System 4: The Ten Specialist Cadres & Contractor Bureaus (십대 전문 기단):**
+   - *Equivalence:* Somnarak's native equivalent to the 12 Fixer Associations and specialized offices, licensed by the Council of Sighs.
+   - *The Ten Cadres:* Cadre 01 Giltong (Taboo/Acoustics), Cadre 02 Su-Ho (Defense/Convoy), Cadre 03 Tam-Sa (Survey), Cadre 04 Sim-Pan (Arbitration/Debt), Cadre 05 Il-Gwang (Second Watch Ordeals), Cadre 06 Hwa-Yong (Decontamination), Cadre 07 Jeong-Bo (Intel/Surveillance), Cadre 08 Un-Song (Pneumatic Rail Transit), Cadre 09 Ui-Ryo (Emergency Triage / Wound Walkers secular wing), Cadre 10 Gyeo-Tu (Judicial Dueling).
+   - *Destination:* `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_SPECIALIST_CADRES.md`.
+
+5. **System 5: Echo-Core Resonant Realization Wars (반향핵 공명 각성전):**
+   - *Equivalence:* Somnarak's native equivalent to Floor Realizations.
+   - *Mechanic:* 4-Phase Boss Engagements where Facility 01 Echo-Core leads undergo emotional crisis, temporarily manifesting the full resonant power of all entities on their floor across 4 distinct phases, ending in emotional catharsis and resonant awakening.
+   - *Destination:* `GAME_BATTLE/SCENARIO_REALIZATION_*.md`.
+
+---
 *END OF MASTER HANDOFF PROTOCOL — REVERIE DIRECTORATE YEAR 4,238 DAWN INITIATIVE*

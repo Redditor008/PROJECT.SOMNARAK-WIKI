@@ -97,10 +97,141 @@ Execute in order. Do not skip steps.
 - **NON-WIKI branch documentation setup (2026-09-19):** Owner isolated the pure-markdown canonical reference repository (`NON-WIKI` branch) from the static web wiki (`main` branch). Root `README.md`, `DEVELOPMENT.md`, and `REFERENCE_SOMNARAK_WIKI/README.md` updated to establish full documentation, directory index, and workflow guidelines for the 1,863-file markdown archive. Removed obsolete deadweight files (`01_Somnarak_Wiki.zip`, `.nojekyll`, `07_Reference.zip.txt`) and cleaned `.gitignore`.
 - **Absolvohan narrative integration & editing (2026-09-19):** Owner uploaded 9-part Absolvohan narrative. Organized into `SOMNARAK-WORLD/The_Absolvohan/` (`Part_1_Day_0_The_Director_Wakes.md` through `Part_9_Days_350_to_365.md` plus `README.md`). Cleaned all HTML anchor links, non-breaking spaces, and game session titles into operational shift logs. Preserved `ABSOLOVHAN_REPAIR_NOTES.md` in `REFERENCE_SOMNARAK_WIKI/` and synchronized monolithic `SOMNARAK_ABSOLOVHAN.md` in `Master_Codices/`. All 1,891 markdown files PASS.
 - **SOMNARAK-WORLD directory migration & subfolder cleanup (2026-09-19):** Created root `SOMNARAK-WORLD/` directory and migrated all in-universe lore files/subfolders into it. Per owner direction, vetted each subfolder, relocated all non-in-world developer/authoring tools (`SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md`, `SOMNARAK_DOCUMENT_RULES.md`, `SOMNARAK_NAME_REGISTRY.md`, `REGISTRY_MASTER_STATUS.md`, `SOMNARAK_CORPORATIONS_GAME_DESIGN_FRAMEWORK.md`) into `REFERENCE_SOMNARAK_WIKI/`, and renamed all subfolders to clean in-world designations (`Master_Codices/`, `Sorrow_Entities/`, `Echo_Cores/`, `MAW_Codex_Sets/`, `Ordeals/`, `Hope_Transformations/`, `Unknown_Entities/`). Sanitized out-of-world wiki headers and comparison notes across character and codex files. Updated `tools/audit_lore_archive.py`, `README.md`, `DEVELOPMENT.md`, and references. All 1,880 markdown files PASS.
-- **Mugenhan Planetary Biosphere & Tripartite Ecological Taxonomy (2026-09-24):** Codified the complete planetary biosphere across three evolutionary tiers requested by owner: (1) 15 Known Planetary Flora & Fauna (Tier 1 Mundane species across [ConHeAn], [NuRoZen], [UnWiHan], Sea of Glass, Crystal Peaks, Basin), (2) 6 Known Beast Animals & Plants (Tier 2 Sorrow-Infused wildlife and dangerous flora under the 80/20 Law), and (3) 6 Known Mortal Sorrow Creatures (Tier 3 MSF: 4 Fauna, 2 Flora capped at Grade β). Created dedicated files `MUGENHAN_PLANETARY_FLORA_AND_FAUNA.md`, `MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md`, and `MUGENHAN_SORROW_CREATURES.md` in `SOMNARAK-WORLD/Mugenhan_Ecology/`. Synchronized `SOMNARAK_GEOLOGY.md`, `Master_Codices/README.md`, `SOMNARAK-WORLD/README.md`, root `README.md`, and `CHANGELOG.md`. Fully validated across word count floors (>=200 words standard, >=300 words complex), 100% 71-col text box symmetry, 0 `<br>` tags, 0 dollar signs, and clean in-universe perspective. Committed and pushed to `arena/01a0b699-project-somnarak-wiki`.
+- **Mugenhan Planetary Biosphere & Tripartite Ecological Taxonomy (2026-09-24):** Codified the complete planetary biosphere across three evolutionary tiers requested by owner: (1) 15 Known Planetary Flora & Fauna (Tier 1 Mundane species across [ConHeAn], [NuRoZen], [UnWiHan], Sea of Glass, Crystal Peaks, Basin), (2) 6 Known Beast Animals & Plants (Tier 2 Sorrow-Infused wildlife and dangerous flora under the 80/20 Law), and (3) 6 Known Mortal Sorrow Creatures (Tier 3 MSF: 4 Fauna, 2 Flora capped at Grade β). Created dedicated files `MUGENHAN_PLANETARY_FLORA_AND_FAUNA.md`, `MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md`, and `MUGENHAN_SORROW_CREATURES.md` in `SOMNARAK-WORLD/Mugenhan_Ecology/`. Synchronized `SOMNARAK_GEOLOGY.md`, `Master_Codices/README.md`, `SOMNARAK-WORLD/README.md`, root `README.md`, and `CHANGELOG.md`. Fully validated across word count floors (>=200 words standard, >=300 words complex), 100% 71-col text box symmetry, 0 raw HTML line-break tags, 0 dollar signs, and clean in-universe perspective. Committed and pushed to `arena/01a0b699-project-somnarak-wiki`.
 - **Repository Root Documentation & Canon Architecture Synchronization (2026-09-24):** Synchronized repository root documentation (root `README.md` and `DEVELOPMENT.md`). Overhauled the 35 Macro-Canon Master Codices catalog into its 6 canonical subfolders, de-duplicating corporate entries and purging obsolete draft references. Added comprehensive dedicated sections for the Root Master Architectural & Cartographic Blueprints (`SOMNARAK_CITY_LAYOUT.svg`, `THE_HAND_DR_LAYOUT.svg`), Mugenhan Planetary Biosphere & Ecology Suite (`SOMNARAK-WORLD/Mugenhan_Ecology/`), the 6 specialized operational & narrative suites (`The_Absolvohan/`, `Katabagil/`, `Katharcheok/`, `Gieok_Jeojangso/`, `Jipyeongseondae/`, `Tactical_Combat_Engine/`), and the 12-volume Project Moon research compendium (`PROJECT_MOON_RESEARCH/`). Fully sanitized formatting to 100% 127-128 wide-format benchmark, 0 crooked text boxes, 0 raw HTML line-break tags, 0 LaTeX math symbols, and authentic in-universe perspective. All 1,731 markdown files PASS.
 - **Game Battle Operations & Tactical Simulation Suite (`GAME_BATTLE/`) (2026-09-24):** Established the root-level `GAME_BATTLE/` directory for turn-based combat encounters, boss battle mechanics, tactical battle templates, and authoring guidelines. Authored `README.md`, `INTRODUCTION_AND_GUIDE.md` (authoring guide and SOP), `BATTLE_SCENARIO_TEMPLATE.md` (canonical encounter template), and `CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md` (6-turn scenario demonstrating 10-node movement, speed AP allocation, Left Knee part rupture, Composure Meltdown, and synchronized execution). Updated root `README.md`, `DEVELOPMENT.md`, and `CHANGELOG.md`. All 1,735 markdown files PASS across all validation tools with 0 crooked text boxes, 0 raw HTML line-break tags, 0 LaTeX math symbols, and authentic in-universe perspective.
+- **PENDING EXPANSION QUEUE (APPROVED BY OWNER 2026-09-24):** The owner has formally reviewed and approved 5 major systems derived from Project Moon comparative research to be natively adapted into the Project Somnarak canon and game battle engine: (1) Mnemonic Cycle Engrams, (2) The Six Great Workshops (Grades 1 to 5, Legendary Stat at Grade 5, Workplace Requirement, 0.5% to 5% acquisition curve), (3) The Five Syndicates of The Raw, (4) The Ten Specialist Cadres, and (5) Echo-Core Resonant Realization Wars. See Section 7 below for the full binding specifications.
 
 ---
+
+---
+
+## 7. HANDOVER CAUTION: APPROVED P.M.-BASED EXPANSION ROADMAP & OWNER SPECIFICATIONS
+
+```text
++---------------------------------------------------------------------+
+|        HANDOVER CAUTION — APPROVED P.M.-BASED EXPANSION ROADMAP     |
++---------------------------------------------------------------------+
+| Ratification Date : 2026-09-24 (Approved by Project Owner)          |
+| Purpose           : Inviolable Handover Caution for Session Breaks  |
+| Sovereign Canon   : 100% In-Universe Divergence (Zero PM Crossover) |
+| Core Deliverables : 5 Approved Systems across Codices & GAME_BATTLE |
++---------------------------------------------------------------------+
+```
+
+### 7.1 Executive Summary of Owner Rulings (2026-09-24)
+On 2026-09-24, the repository owner reviewed five major high-impact systems adapted from Project Moon comparative research into native Somnarak equivalents. The owner explicitly approved all five options and laid down binding design parameters:
+
+1. **Option 1 (Mnemonic Cycle Engrams):** APPROVED ("Option 1 OK").
+2. **Option 2 (The Six Great Workshops):** APPROVED WITH BINDING RULINGS ("Option 2 OK And There Already An Example And For Grade It Can Come Up To Grade 5 But Its Attain Legendary Stat And To Even obtain It You Need To Work Some Where So 0.5% to 1% to 5% Is How It Percentage").
+3. **Option 3 (The Five Syndicates of The Raw):** APPROVED ("Option 3 OK").
+4. **Option 4 (The Ten Specialist Cadres):** APPROVED ("Option 4 OK").
+5. **Option 5 (Echo-Core Resonant Realization Wars):** APPROVED ("Option 5 OK").
+
+If a session breaks down, encounters context limits, or transfers to a successor AI instance, **this section is the binding contract**. The incoming session must resume work from these exact parameters.
+
+---
+
+### 7.2 System 1: Mnemonic Cycle Engrams (주기 각인 / Cycle Engrams)
+* **Concept:** Somnarak's native equivalent to Mirror World Identities.
+* **In-Universe Foundation:** Somnarak has endured **1,778 consecutive historical reset loops** before the current Year 4,238 resolution. Named operatives (Taeho, Seol-A, Min-Jae, Ha-Eun, Kang, Seiyon) lived radically different lives across those 1,800 years (e.g. Underworld Fray-Hunter, Abyssal Chasm Surveyor, Council Inquisitor, Mender Suture-Apprentice).
+* **Storage & Mechanics:** Historical memory crystallizations are housed in the Subterranean Memory Wells of Facility 01 Floor 06 (`The_REVERIE_DIRECTORATE.md`) and the deep root archives of the Memory Archive (`The_MEMORY_ARCHIVE.md`). Operatives attune these engrams to modify their **Speed Band, Action Slot economy, and innate P1 Passives**.
+* **Target Files:**
+  - `GAME_BATTLE/CYCLE_ENGRAM_SYSTEM.md`: Master mechanical codex defining attunement thresholds, memory resonance costs, and stat modifiers.
+  - Integration into operative roster sheets across future `GAME_BATTLE/SCENARIO_*.md` files.
+
+---
+
+### 7.3 System 2: The Six Great Basalt & Resonance Workshops (육대 공방)
+* **Concept:** Specialized artisan armories manufacturing non-M.A.W. military equipment, kinetic weaponry, and environmental gear for standard wardens, militia, and contractors who lack the psychological fortitude to bear M.A.W. wear.
+* **Canonical Precedents & Existing Examples:**
+  - *Master Wright Gwan's family workshop* (`SOMNARAK_CAST.md`, `SOMNARAK_CORPORATIONS.md`): manufactures pneumatic pile-drivers, crawler chassis, and heavy harpoon winches.
+  - *The Doll Maker's Workshop* (`SOMNARAK_DAWN_OF_HOPE.md`): Zone D crystal artisan atelier.
+  - *Zone C & D workshop smiths* (`MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md`): process Tier 2 Beast carapaces (Dune-Crusher, Ram-Gorgon) into reinforced kinetic trench-shields and breastplates.
+
+```text
++---------------------------------------------------------------------+
+|       WORKSHOP EQUIPMENT GRADING & WORKPLACE ACQUISITION LAW        |
++---------------------------------------------------------------------+
+| Grade Scale       : Grade 1 through Grade 5                         |
+| Grade 5 Pinnacle  : Attains LEGENDARY STAT (Pinnacle Tier Rarity)   |
+| Workplace Law     : Operative MUST WORK SOMEWHERE to obtain/craft   |
+| Acquisition Rates : Grade 3 = 5.0% | Grade 4 = 1.0% | Grade 5 = 0.5%|
++---------------------------------------------------------------------+
+```
+
+* **CRITICAL OWNER DESIGN PARAMETERS:**
+  1. **Grading Tier System:** Workshop gear scales strictly from **Grade 1 up to Grade 5** (Grade 1 Standard, Grade 2 Reinforced, Grade 3 Superior, Grade 4 Masterwork, Grade 5 Legendary).
+  2. **Grade 5 Legendary Stat:** Grade 5 equipment achieves **Legendary Stat**, featuring unique non-M.A.W. resonance arts and extreme mechanical power rivaling Grade-γ M.A.W. suits without psychological corruption risks.
+  3. **The Workplace Law (Employment Requirement):** Grade 3, 4, and 5 equipment **cannot be bought or found casually**. To even qualify to obtain, commission, or craft these armaments, an operative or citizen **must be actively employed or affiliated with a certified industrial workplace, guild, or sovereign workshop** (e.g., apprentice service, foundry tenure, or guild standing).
+  4. **The Rarity & Acquisition Percentage Curve:**
+     - **Grade 5 (Legendary Stat):** Exactly **0.5%** acquisition / crafting success rate.
+     - **Grade 4 (Masterwork):** Exactly **1.0%** acquisition / crafting success rate.
+     - **Grade 3 (Superior):** Exactly **5.0%** acquisition / crafting success rate.
+     - (Grades 1 and 2: Standard industrial guild issue for working personnel).
+* **The Six Sovereign Workshops:**
+  1. *Yeoul Workshop (여울 공방 / Rapid Flow):* High-velocity pneumatic harpoons, acoustic needle repeaters (Vanguard / Agility).
+  2. *Cheol-Gyeong Workshop (철경 공방 / Iron Mirror):* Vitrified basalt slab-shields, kinetic mauls, blast armor (Fortress Anchor).
+  3. *Chim-Mok Workshop (침묵 공방 / Absolute Silence):* Acoustic dampening blades, foam-suppressed carbines (Taboo Enforcers).
+  4. *Hwa-Seok Workshop (화석 공방 / Vitrified Ember):* Sulfur-furnace thermal lances, superheated glass blades (UCD Pacification).
+  5. *Baek-Gwang Workshop (백광 공방 / White Luster):* Precision quartz lenses, pale void rifles (Band 4–5 Snipers).
+  6. *Sim-Yeon Workshop (심연 공방 / Deep Marrow):* Pressurized diving harnesses, depth-gauge tether rigs (SED Abyss Explorers).
+* **Target Files:**
+  - `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md`: Definitive 6-workshop codex documenting history, forge techniques, the 0.5%/1%/5% acquisition curve, and Grade 1–5 item catalogs.
+  - Integration into `GAME_BATTLE/` loadout options.
+
+---
+
+### 7.4 System 3: The Five Syndicates of The Raw (오대 지하 조직)
+* **Concept:** Somnarak's native equivalent to the Five Fingers, commanding the subterranean underworld slums ("The Raw") beneath the Mantle Commons of Zones B, C, and D.
+* **The Five Syndicates:**
+  1. *The Menders Guild (봉합회):* Surgical flesh-to-stone stitchers led by the King of Menders. Fights with barbed suture hooks, tendon wire, and bone-clamps.
+  2. *The Rust Frays (녹슨 올):* Acoustic anarchists clad in discordant vibrating scrap-armor that emits continuous shrill resonance, actively shredding enemy composure.
+  3. *The Veil Merchants (장막 상인회):* Black-market cartel trading raw Liquid Han and weeping tears. Masters of pale vapor screens and evasive silk cowls.
+  4. *The Memory Washers (기억 세탁소):* Illicit cognitive extractors utilizing mnemonic pneumatic drills to erase enemy Action Points and memories.
+  5. *The Debt Concourse (부채 결탁):* Predatory usury enforcers who apply Karma Debt promissory notes in combat; detonates accrued interest upon Stagger.
+* **Target Files:**
+  - `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_RAW_SYNDICATES.md`: Full municipal dossier detailing territory, criminal codes, internal hierarchies, and combat doctrines.
+  - Enemy rosters for UCD urban pacification scenarios in `GAME_BATTLE/`.
+
+---
+
+### 7.5 System 4: The Ten Specialist Cadres & Contractor Bureaus (십대 전문 기단)
+* **Concept:** Somnarak's native equivalent to the 12 Fixer Associations and specialized offices, licensed by the Council of Sighs to handle municipal defense, civil investigations, and district security.
+* **The Ten Standardized Cadres:**
+  1. *Cadre 01 (Giltong / 길통):* Acoustic curfew enforcement and verbal Door-Speech taboo filtration.
+  2. *Cadre 02 (Su-Ho / 수호):* Civic infrastructure defense, convoy escort, and outer bulwark sentries.
+  3. *Cadre 03 (Tam-Sa / 탐사):* Structural surveyors, collapsed tenement recovery, and shallow aquifer mapping.
+  4. *Cadre 04 (Sim-Pan / 심판):* Commercial arbitration, debt notary, and asset foreclosure repossession.
+  5. *Cadre 05 (Il-Gwang / 일광):* High-noon patrol squads specialized in repressing Second Watch Ordeals.
+  6. *Cadre 06 (Hwa-Yong / 화용):* Hazardous materials decontamination neutralizing Han-dust spills and acid leaks.
+  7. *Cadre 07 (Jeong-Bo / 정보):* Intelligence brokers, anonymous district surveillance, and rumor containment.
+  8. *Cadre 08 (Un-Song / 운송):* Armored pneumatic transit operators navigating subterranean rail tubes.
+  9. *Cadre 09 (Ui-Ryo / 의료):* Secular emergency trauma triage and acute composure restoration (Wound Walker allies).
+  10. *Cadre 10 (Gyeo-Tu / 결투):* Judicial dueling champions licensed to resolve high-tier inter-faction disputes.
+* **Target Files:**
+  - `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_SPECIALIST_CADRES.md`: Definitive codex establishing licensing, ranks, uniform styles, and sector offices.
+  - Operative background rosters for `GAME_BATTLE/` squad creation.
+
+---
+
+### 7.6 System 5: Echo-Core Resonant Realization Wars (반향핵 공명 각성전)
+* **Concept:** Somnarak's native equivalent to Floor Realizations.
+* **In-Universe Crisis:** The Nine Echo-Core Leads of Facility 01 carry the unresolved emotional grief of their operational sectors. When an Echo-Core reaches an emotional inflection point, their floor undergoes an **Acoustic Realization Crisis**.
+* **4-Phase Engagement Structure:**
+  - *Phase 1:* The Echo-Core manifests the traits and skills of Floor Cell 01 (Rank I–II).
+  - *Phase 2:* Environmental distortion; floor topography mutates; Cell 02 entity merges with the Echo-Core.
+  - *Phase 3:* The Echo-Core manifests full Sovereign form, wielding both departmental M.A.W. and personal grief auras.
+  - *Phase 4 (Climax):* The directorate squad executes a synchronized parry-clash to shatter the trauma vessel without killing the Echo-Core, achieving **Emotional Catharsis and Resonant Awakening**.
+* **Target Files:**
+  - `GAME_BATTLE/SCENARIO_REALIZATION_FLOOR_02_DEKAN.md`: Floor 2 Containment Realization Boss Encounter.
+
+---
+
+### 7.7 Invariant Architectural & Formatting Laws for Successors
+1. **Push Always (Rule A0):** Every change must be committed and pushed in the same turn (`git rev-parse HEAD == FETCH_HEAD`).
+2. **Text Box Symmetry:** All ASCII HUDs must be enclosed in non-markdown code fences (````text ... ````), measuring exactly 71 columns compact or 127/128 columns wide. Zero crooked rows.
+3. **Zero Formatting Leaks:** Zero raw HTML line-break tags, zero LaTeX math dollar signs.
+4. **Zero PM Terminology Leaks:** Strictly Somnarak-native terminology (Sorrow Entities, M.A.W., Composure, Meltdown, Wardens, Enforcers).
 
 **If any instruction in this file conflicts with `RULE-TO-FOLLOW.md` v2, `RULE-TO-FOLLOW.md` wins.**
