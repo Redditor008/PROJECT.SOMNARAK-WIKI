@@ -90,7 +90,7 @@ Tactical combat specifications, mechanical mathematics, and metaphysical physics
 Societal structures, urban civilian life, economic frameworks, and faction demographics:
 - `SOMNARAK_DAILY_LIFE.md` (510 lines): The lived reality of city dwellers: synthetic food, fashion, acoustic curfews, and civic rituals.
 - `SOMNARAK_UNDERWORLD.md` (197 lines): The subterranean slum network ("The Raw"): Menders, Frays, Memory Washers, and Veil Merchants.
-- `SOMNARAK_CORPORATIONS.md` (197 lines): The three core institutions (R.D., SED, UCD) and their unified operational doctrine.
+- `SOMNARAK_CORPORATIONS.md`: The Five Sovereign Institutions (Reverie Directorate, Somnarak Exploration Decree, Underworld Cleanup Descend, The Memory Archive, and The Horizon Caravan) and their unified pentagonal operational doctrine.
 - `SOMNARAK_FACTION_RELATIONS.md` (324 lines): Diplomatic power balance matrix, covert treaties, and historical wars between factions.
 - `SOMNARAK_CAST.md` (1,238 lines): Canonical registry of Somnarak figures (Council of Sighs, Leads, Operatives, Sector Heads, and Outlaws).
 - `SOMNARAK_DAWN_OF_HOPE.md` (553 lines): The Year 4,238 Dawn Initiative, timeline of the 1,778 Cycles, and historical epochs.
