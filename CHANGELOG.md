@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Establish Game Battle Operations & Tactical Simulation Suite (`GAME_BATTLE/`)** —
+  - Created the dedicated root-level operational directory `GAME_BATTLE/` bridging theoretical combat mechanics and narrative story battles.
+  - Authored `GAME_BATTLE/README.md` containing the executive mission statement, 10-node engagement line topography, Speed-to-AP economy, Four P-Framework integration, dual-threshold stagger rules, directory inventory, and high-priority encounter roadmap.
+  - Authored `GAME_BATTLE/INTRODUCTION_AND_GUIDE.md` establishing the authoritative Standard Operating Procedure (SOP) for all future `.md` battle files, detailing the four document classes (Tactical Scenarios, Boss Mechanics, Squad Archetypes, Faction Directives), seven mandatory section anatomies, deterministic formulas, and pre-commit checklists.
+  - Authored `GAME_BATTLE/BATTLE_SCENARIO_TEMPLATE.md` providing a production-ready, pre-aligned markdown template with ASCII HUDs, operative/boss roster tables, 10-node grid maps, turn-by-turn combat logs, phase-end resolution blocks, and after-action manifests.
+  - Authored `GAME_BATTLE/CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md` delivering a fully realized 6-turn combat scenario demonstrating Strike Team Alpha vs `SE-C-Vδ-002 The Grieving Colossus`, showcasing node movement, skill clashes, Left Knee part rupture (60% HP threshold), Composure Meltdown (0% threshold), and Turn 06 synchronized execution.
+  - Updated root `README.md`, `DEVELOPMENT.md`, and `SESSION_BREAK_PRECAUTION.md` to catalog `GAME_BATTLE/`. All 1,735 markdown files pass across all validation tools with 100% ASCII text box symmetry (0 crooked rows), 0 raw HTML line-break tags, 0 LaTeX math symbols, and authentic in-universe perspective.
+
 - **Repository Root Documentation & Canon Architecture Synchronization (`README.md`, `DEVELOPMENT.md`)** —
   - Fully overhauled the repository root `README.md` and `DEVELOPMENT.md` to establish 100% structural alignment with the canonical file system and audited inventory across all 1,731 markdown files (~3.8 million words).
   - Overhauled the `Macro-Canon Master Codices` catalog into its definitive 6 canonical subfolders (`01_Cosmology_and_World_Order` [8 files], `02_Institutional_Wings_and_Chronicles` [5 files], `03_Systems_Combat_Engine_and_Physics` [7 files], `04_Municipal_Society_and_Demographics` [8 files], `05_Entities_Tales_and_Fractures` [6 files], and `06_Integrity_Audits_and_Comparative_Studies` [1 file]), totaling all 35 tracked codices with exact file links, line counts, and thematic scopes. Purged obsolete and redundant legacy draft names (`SOMNARAK_ABSOLOVHAN.md`, `SOMNARAK_SED_PASSAGES.md`, `SOMNARAK_UCD_PACIFICATION.md`).

@@ -13,6 +13,7 @@ The repository is structured into distinct, authoritative functional environment
 | Directory / Artifact | Role | Contents |
 |---|---|---|
 | **`SOMNARAK-WORLD/`** | **100% In-Universe Narrative & Operational Source** | Official containment dossiers, master codices, equipment sets, specialized operational chronicles, and Echo-Core records written entirely from within the Somnarak universe. |
+| **`GAME_BATTLE/`** | **Tactical Combat Operations & Scenario Vault** | Turn-based combat encounters, boss battle mechanics, tactical battle templates, and authoring guides based on the 10-node spatial engine. |
 | **`PROJECT_MOON_RESEARCH/`** | **Encyclopedic Comparative Research Archive** | Comprehensive 12-volume research library and comparative study corpus detailing cosmology, factions, metaphysics, and mechanics. |
 | **`REFERENCE_SOMNARAK_WIKI/`** | **Out-of-Universe Editorial Standards & Technical Audits** | Structural taxonomy, entity catalogs, paired-dossier audits, transfer manifests, weapon personalization ledgers, and multi-agent handoff protocols. |
 | **Root Blueprints (`.svg`)** | **Canonical Master Architectural & Cartographic Blueprints** | Official vector blueprints of the Somnarak Metropolitan Grid (`SOMNARAK_CITY_LAYOUT.svg`) and Facility 01 Cross-Section (`THE_HAND_DR_LAYOUT.svg`). |
@@ -32,6 +33,7 @@ The repository is structured into distinct, authoritative functional environment
 - **7 Mnemonic Reception Chronicles** (`SOMNARAK-WORLD/Gieok_Jeojangso/`), detailing the Memory Archive's floor receptions
 - **6 Trans-Desolate Overland Arcs** (`SOMNARAK-WORLD/Jipyeongseondae/`), documenting the Horizon Caravan's planetary crossings
 - **10-Node Spatial Grid Combat Mechanics** (`SOMNARAK-WORLD/Tactical_Combat_Engine/`), defining turn-based spatial combat resolution
+- **Game Battle Operations & Tactical Simulation Suite** (`GAME_BATTLE/`), housing turn-by-turn combat encounters, boss battle mechanics, and standard authoring templates
 - **287 Unique Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), cataloging entities across Coherence Ranks I to V and Potency Grades α to ω
 - **198 Complete M.A.W. Equipment Sets** (`SOMNARAK-WORLD/MAW_Codex_Sets/`, quadripartite Side-Codex, Weapon, Suit, Gift across 1,196 files)
 - **60 Five-Color Ordeal Files** (`SOMNARAK-WORLD/Ordeals/`), documenting Blue, Black, Pale, Grey, and Purple Ordeals across 4 watches
@@ -57,6 +59,12 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 ├── SOMNARAK_CITY_LAYOUT.svg                # Master cartographic blueprint: Somnarak Metropolitan Grid
 ├── THE_HAND_DR_LAYOUT.svg                  # Master architectural blueprint: Facility 01 Cross-Section
 ├── TEST_TEXT_BOX_WIDTHS.md                 # Ergonomic text box width & visual calibration standard (127-128 chars)
+│
+├── GAME_BATTLE/                            # Tactical Combat Operations & Scenario Simulation Vault
+│   ├── README.md                           # Master index, GBS mechanics primer & document roadmap
+│   ├── INTRODUCTION_AND_GUIDE.md           # Authoring guide & SOP for all future battle .md files
+│   ├── BATTLE_SCENARIO_TEMPLATE.md         # Production-ready markdown template for combat encounters
+│   └── CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md # Full 6-turn canonical combat scenario demonstration
 │
 ├── tools/                                  # Non-wiki developer verification tools & formatters
 │   ├── audit_lore_archive.py               # Standalone Python audit tool (UTF-8, codices, M.A.W., entities)
@@ -288,6 +296,26 @@ Beyond the master codices, Project Somnarak maintains complete standalone operat
 6. **`SOMNARAK-WORLD/Tactical_Combat_Engine/` — 10-Node Spatial Grid Combat Engine:**
    - [`README.md`](SOMNARAK-WORLD/Tactical_Combat_Engine/README.md): Master architectural guide to the 10-node spatial engine, speed-action point scaling, and 6-turn combat phase loops.
    - [`WHAT_CAN_BE_DONE.md`](SOMNARAK-WORLD/Tactical_Combat_Engine/WHAT_CAN_BE_DONE.md): Comprehensive implementation manual for narrative combat logs and turn-based clash visualization.
+
+---
+
+## Game Battle Operations & Tactical Simulation Suite (`GAME_BATTLE/`)
+
+The repository root houses the dedicated `GAME_BATTLE/` operational suite, serving as the canonical bridge between the theoretical combat systems in `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/` and narrative story battles. It contains standardized combat scenarios, boss fight mechanics, squad archetypes, and authoring guidelines for future battle files:
+
+| Document File Name | Category & Scope | Description |
+|---|---|---|
+| [`GAME_BATTLE/README.md`](GAME_BATTLE/README.md) | Master Index & Overview | Executive summary, core GBS mechanics primer, directory inventory, and architectural roadmap. |
+| [`GAME_BATTLE/INTRODUCTION_AND_GUIDE.md`](GAME_BATTLE/INTRODUCTION_AND_GUIDE.md) | Authoring Guide & Standards | Comprehensive guide and SOP for authoring all future battle `.md` files, encounter scripts, and boss mechanics. |
+| [`GAME_BATTLE/BATTLE_SCENARIO_TEMPLATE.md`](GAME_BATTLE/BATTLE_SCENARIO_TEMPLATE.md) | Standardized Production Template | Ready-to-use markdown template with pre-aligned ASCII HUDs, rosters, turn tables, and phase-end blocks. |
+| [`GAME_BATTLE/CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md`](GAME_BATTLE/CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md) | Canonical Combat Scenario | Full 6-turn combat engagement demonstrating Strike Team Alpha vs `SE-C-Vδ-002 The Grieving Colossus`. |
+
+### Core Mechanics Standardized in `GAME_BATTLE/`:
+- **10-Node Linear Engagement Grid (`[N01]` to `[N10]`):** Discrete spatial line governing Range Bands 1 to 5, movement costs (1 AP per node), and flanking pincer bonuses (+25% kinetic damage).
+- **Speed-to-AP Economy:** Operative initiative directly dictates combat bandwidth (Speed 1–2 = 2 AP, Speed 3–4 = 3 AP, Speed 5–6 = 4 AP, Speed 7+ = 5 AP).
+- **The Four P-Framework:** P1 Passives (innate perks), P2 Panic (Composure 0–100), P3 Parry (opposed skill clash rolls), and P4 Posture (Poise 0–100).
+- **Dual-Threshold Stagger Engine:** Part Rupture at 60% modular part HP (1.5x vulnerability), Composure Meltdown at 0 Composure (2.0x vulnerability across all parts).
+- **6-Turn Macro Combat Phase:** 6 Battle Turns form 1 Combat Phase, culminating in ambient Sorrow Tide ticks (+10% Han saturation) and boss stance transitions.
 
 ---
 

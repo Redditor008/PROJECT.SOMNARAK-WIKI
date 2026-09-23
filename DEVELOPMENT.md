@@ -39,6 +39,12 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 ├── THE_HAND_DR_LAYOUT.svg                  # Master architectural blueprint: Facility 01 Cross-Section
 ├── TEST_TEXT_BOX_WIDTHS.md                 # Ergonomic text box width & visual calibration standard (127-128 chars)
 │
+├── GAME_BATTLE/                            # Tactical Combat Operations & Scenario Simulation Vault
+│   ├── README.md                           # Master index, GBS mechanics primer & document roadmap
+│   ├── INTRODUCTION_AND_GUIDE.md           # Authoring guide & SOP for all future battle .md files
+│   ├── BATTLE_SCENARIO_TEMPLATE.md         # Production-ready markdown template for combat encounters
+│   └── CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md # Full 6-turn canonical combat scenario demonstration
+│
 ├── tools/                                  # Non-wiki developer verification tools & formatters
 │   ├── audit_lore_archive.py               # Standalone Python auditor (UTF-8, codices, M.A.W., entities)
 │   ├── check_box_symmetry.py               # Strict text box symmetry & border alignment auditor
