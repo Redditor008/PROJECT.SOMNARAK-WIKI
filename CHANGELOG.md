@@ -8,6 +8,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Expanded Mugenhan Tripartite Biosphere Codification (`SOMNARAK-WORLD/Mugenhan_Ecology/`)** —
+  - Codified the definitive planetary wildlife compendium `MUGENHAN_PLANETARY_FLORA_AND_FAUNA.md` containing 15 distinct Mundane species across Mugenhan's macro-biomes (`[ConHeAn]`, `[NuRoZen]`, `[UnWiHan]`, Sea of Glass, Crystal Peaks, and Municipal Basin). Every entry exceeds 200 words, with designated complex entries (Azure Kelp, Ribbon-Whale, Titan Ironwood, Great Antlered Elk) exceeding 300 words.
+  - Codified `MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md` detailing 6 canonical Tier 2 Sorrow-Infused organisms under the 80/20 Law (80% mortal biology, 20% SE-M.A.W. phenotype), including The Desolate Dune-Crusher (322 words), Tectonic Ram-Gorgon (205 words), Glacial White-Fang Stalker (207 words), Silt-Chasm River Leviathan (203 words), Vitrified Razor-Thorn Vine (316 words), and Sulfur-Furnace Pitcher Trap (203 words).
+  - Codified `MUGENHAN_SORROW_CREATURES.md` documenting 6 canonical Tier 3 Mortal Sorrow Creatures (MSF: 4 animal-born fauna and 2 flora anomalies strictly capped at Grade-β Potency), including The Screaming Chitin Vanguard (309 words), The Starving Pack Spectre (203 words), The Drowned Steed of the Sorrow Lake (207 words), The Chained Talon Harrier (201 words), The Mourning Weeping Brier (301 words), and The Strangler Spore Bell (211 words).
+  - Synchronized `SOMNARAK_GEOLOGY.md` Section 7 with direct ecological cross-references, updated master index tables in `SOMNARAK-WORLD/Mugenhan_Ecology/README.md`, `SOMNARAK-WORLD/Master_Codices/README.md`, `SOMNARAK-WORLD/README.md`, and root `README.md`.
+  - Registered `Mugenhan_Ecology` auxiliary collection in `tools/audit_lore_archive.py`. All 1,731 markdown files pass with 100% ASCII text box symmetry (0 crooked rows), 0 raw `<br>` tags, 0 math dollar signs, and clean in-universe terminology.
+
 - **Canonical Echo-Core Roster Harmonization & Comprehensive Facility Editorial Clean** —
   - Harmonized Section II (Phase 4 Realizations) and Section V (Floors 1-8 Architecture) of `ABSOLOVHAN_OVERVIEW.md` (and both mirrors in `Master_Codices/` and `The_Absolvohan/`) with the canonical Nine Echo-Core directory from `SOMNARAK-WORLD/Echo_Cores/README.md` (Floor 1: Majin & Seiyon, Floor 2: Dekan, Floor 3: Zyrak, Floor 4: Ayshuk, Floor 5: Mellda, Floor 6: Marjuk, Floor 7: Ishall, Floor 8: Xyan).
   - Clarified Agent Kang as Junior Agent Kang under Dekan, strictly removing any draft attendant assignments.

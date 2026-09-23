@@ -129,4 +129,11 @@ Unlike human Sorrow Entities (SE / SECC) born from complex, immortal human subco
 
 ---
 
-*(For exhaustive physiological dossiers, anatomical autopsies, strata food webs, and comprehensive species catalogs, consult `MUGENHAN_DEEP_ECOLOGY_COMPENDIUM.md`).*
+---
+
+## VI. Canonical Compendium Directory
+
+1. **[MUGENHAN_PLANETARY_FLORA_AND_FAUNA.md](MUGENHAN_PLANETARY_FLORA_AND_FAUNA.md)**: Exhaustive dossiers on the **15 Known Planetary Species** of Tier 1 Mundane Fauna and Flora across all Mugenhan macro-biomes (`[ConHeAn]`, `[NuRoZen]`, `[UnWiHan]`, Sea of Glass, Crystal Peaks, Agricultural Basin).
+2. **[MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md](MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md)**: Complete biological profiles of the **6 Known Beast Animals and Plants** (Tier 2 Sorrow-Infused wildlife and dangerous flora under the 80/20 Law).
+3. **[MUGENHAN_SORROW_CREATURES.md](MUGENHAN_SORROW_CREATURES.md)**: Full containment and combat manifests for the **6 Known Mortal Sorrow Creatures** (Tier 3 MSF: 4 animal-born fauna and 2 flora anomalies capped at Grade β).
+4. **[MUGENHAN_DEEP_ECOLOGY_COMPENDIUM.md](MUGENHAN_DEEP_ECOLOGY_COMPENDIUM.md)**: Deep subterranean ecological compendium, physiological autopsies, strata biodiversity maps, and food webs.
