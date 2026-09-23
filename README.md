@@ -19,16 +19,21 @@ The repository is cleanly divided into two master trees:
 
 ## Archive Metrics at a Glance
 
-- **1,891 total markdown files** across `SOMNARAK-WORLD` and `REFERENCE_SOMNARAK_WIKI`
-- **Over 3.7 million words** of structured, canonical lore
-- **31 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) establishing the entire cosmology, geopolitical landscape, and physical laws of Somnarak
-- **9 Absolvohan Narrative Volumes** (`SOMNARAK-WORLD/The_Absolvohan/`), chronicling the full Day 0 through Day 365+ journey of Director Majin and Secretary Seiyon across the 1,778th and final Cycle
-- **529 Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), representing 285 unique canonical entities across Coherence Ranks I through V (Whisper to Sovereign) and Potency Grades α to ω
-- **291 M.A.W. Equipment Sets** (`SOMNARAK-WORLD/MAW_Codex_Sets/`, 1,196 files across 42 registry groups), cataloging Weapons, Suits, and Gifts
-- **60 Five-Color Ordeal Files** (`SOMNARAK-WORLD/Ordeals/`), documenting First, Second, Third, and Tide watches
+- **Over 1,730 curated canonical markdown files** across `SOMNARAK-WORLD` and technical standard archives
+- **Over 3.8 million words** of structured, authentic canonical lore
+- **35 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) establishing the macro-cosmology, planetary geology, institutional doctrines, and combat physics
+- **5 Planetary Biosphere & Ecological Codices** (`SOMNARAK-WORLD/Mugenhan_Ecology/`), documenting 15 Mundane species, 6 Sorrow Beasts/Plants, and 6 Mortal Sorrow Creatures across all planetary biomes
+- **9 Absolvohan Narrative Volumes** (`SOMNARAK-WORLD/The_Absolvohan/`), chronicling the full Day 0 through Day 365+ journey across the 1,778th Cycle
+- **7 Subterranean Descent Chronicles** (`SOMNARAK-WORLD/Katabagil/`), detailing the SED Katabagil deep expeditionary passages
+- **6 Underworld Pacification Chronicles** (`SOMNARAK-WORLD/Katharcheok/`), documenting the UCD Katharcheok syndicate purge operations
+- **7 Mnemonic Reception Chronicles** (`SOMNARAK-WORLD/Gieok_Jeojangso/`), detailing the Memory Archive's floor receptions
+- **6 Trans-Desolate Overland Arcs** (`SOMNARAK-WORLD/Jipyeongseondae/`), documenting the Horizon Caravan's planetary crossings
+- **287 Unique Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), cataloging entities across Coherence Ranks I to V and Potency Grades α to ω
+- **198 Complete M.A.W. Equipment Sets** (`SOMNARAK-WORLD/MAW_Codex_Sets/`, quadripartite Side-Codex, Weapon, Suit, Gift)
+- **60 Five-Color Ordeal Files** (`SOMNARAK-WORLD/Ordeals/`), documenting Blue, Black, Pale, Grey, and Purple Ordeals
 - **14 Hope Transformation Records** (`SOMNARAK-WORLD/Hope_Transformations/`), detailing resonant ascensions
-- **9 Echo-Core Dossiers** (`SOMNARAK-WORLD/Echo_Cores/`), covering the departmental leadership of Facility 01 ("The Hand of Change")
-- **8 Unknown Anomaly Records** (`SOMNARAK-WORLD/Unknown_Entities/`), containing unclassified deep-abyss occurrences
+- **9 Echo-Core Dossiers** (`SOMNARAK-WORLD/Echo_Cores/`), covering Facility 01 departmental leadership
+- **15 Unknown Anomaly Records** (`SOMNARAK-WORLD/Unknown_Entities/`), containing deep-abyss occurrences and Regressor chronicles
 
 ---
 
@@ -50,14 +55,17 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   ├── README.md                           # In-world archive guide & recommended reading order
 │   ├── Master_Codices/                     # 35 Macro-Canon Master Codices: Cosmology, Factions, Systems
 │   ├── The_Absolvohan/                     # 9 Chronological Narrative Volumes (Day 0–365 & Epilogue)
-│   ├── Katabagil/                            # 7 Subterranean Descent Passages & Field Guide (Exploration Arcs 1–7)
-│   ├── Katharcheok/                            # 6 Underworld Pacification Operations & Tactics Guide (Purge Arcs 1–6)
+│   ├── Katabagil/                          # 7 Subterranean Descent Passages & Field Guide (Exploration Arcs 1–7)
+│   ├── Katharcheok/                        # 6 Underworld Pacification Operations & Tactics Guide (Purge Arcs 1–6)
+│   ├── Gieok_Jeojangso/                    # 7 Mnemonic Receptions & Mnemonic Combat Suite (Memory Archive)
+│   ├── Jipyeongseondae/                    # 6 Trans-Desolate Overland Arcs & Bastion Suite (Horizon Caravan)
+│   ├── Mugenhan_Ecology/                   # 5 Planetary Biosphere & Ecological Codices (Mundane, Beasts, MSF)
 │   ├── Sorrow_Entities/                    # 529 Entity files: Dossiers, tales, and containment data
 │   ├── Echo_Cores/                         # 9 Echo-Core files: Facility 01 departmental leaders
 │   ├── MAW_Codex_Sets/                     # 1,196 files across 42 registry folders (A/B/C/D quadripartite sets)
 │   ├── Ordeals/                            # 60 Ordeal files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
 │   ├── Hope_Transformations/               # 14 Hope Transformation files: HT-001 through HT-012, Trinity & Hand
-│   └── Unknown_Entities/                   # 8 Unknown Entity files: UNK-248 through UNK-903 & Dramaturgy
+│   └── Unknown_Entities/                   # 15 Unknown Entity files: Deep Maw anomalies & Regressor chronicles
 │
 └── REFERENCE_SOMNARAK_WIKI/                # Out-of-World Editorial Standards, Audits & Catalogs
     ├── README.md                           # Overview of the reference standards folder

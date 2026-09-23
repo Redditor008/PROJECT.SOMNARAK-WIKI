@@ -174,7 +174,18 @@ The fertile alluvial river valleys surrounding Somnarak's agricultural basin:
 
 ---
 
-## 7. Archival Preservation Decree
+## 7. Integrated Ecological Cross-References
+
+The diverse macro-geology of Planet Mugenhan directly sustains its tripartite biological ecosystem. For complete taxonomic descriptions, biological autopsies, and field harvesting parameters, refer to the dedicated ecological compendiums:
+
+- **Mundane Planetary Organisms (Tier 1):** Detailed in [`SOMNARAK-WORLD/Mugenhan_Ecology/MUGENHAN_PLANETARY_FLORA_AND_FAUNA.md`](../../Mugenhan_Ecology/MUGENHAN_PLANETARY_FLORA_AND_FAUNA.md), cataloging 15 canonical species including the Azure Kelp and Ribbon-Whale (`[ConHeAn]`), White-Dust Hare and Marble-Stasis Willow (`[NuRoZen]`), Titan Ironwood and Great Antlered Elk (`[UnWiHan]`), Glass-Skater Beetle and Slag Lichen (Sea of Glass), Alpine Falcon and Needle-Moss (Crystal Peaks), and Alluvial Silt Rice (Somnarak Basin).
+- **Sorrow-Infused Organisms (Tier 2):** Detailed in [`SOMNARAK-WORLD/Mugenhan_Ecology/MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md`](../../Mugenhan_Ecology/MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md), cataloging 6 apex predators and dangerous vegetative phenotypes governed by the 80/20 biological ratio.
+- **Mortal Sorrow Creatures (Tier 3 MSF):** Detailed in [`SOMNARAK-WORLD/Mugenhan_Ecology/MUGENHAN_SORROW_CREATURES.md`](../../Mugenhan_Ecology/MUGENHAN_SORROW_CREATURES.md), cataloging 6 non-human mortal grief anomalies (4 Fauna, 2 Flora) strictly capped at Grade-β Potency.
+- **Master Ecological Overview:** Detailed in [`SOMNARAK-WORLD/Mugenhan_Ecology/MUGENHAN_ECOLOGY_OVERVIEW.md`](../../Mugenhan_Ecology/MUGENHAN_ECOLOGY_OVERVIEW.md) and [`SOMNARAK-WORLD/Mugenhan_Ecology/MUGENHAN_DEEP_ECOLOGY_COMPENDIUM.md`](../../Mugenhan_Ecology/MUGENHAN_DEEP_ECOLOGY_COMPENDIUM.md).
+
+---
+
+## 8. Archival Preservation Decree
 
 This document stands as the definitive geological codex of Planet Mugenhan. Any proposed municipal expansion, canal construction, or subterranean drilling exceeding Stratum 03 must submit environmental impact telemetry to the Directorate of Territorial Survey and the Horizon Caravan Geological Corps for acoustic resonance evaluation.
 
