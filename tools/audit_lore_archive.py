@@ -121,7 +121,7 @@ def audit_maw_registry():
             if not missing:
                 complete_sets += 1
             else:
-                is_stub = any("Wilderness" in sf or "SE-003" in sf for sf in set_files)
+                is_stub = any(any(k in sf for k in ("Wilderness", "SE-003", "1003_The_Maw", "SE-1003", "111_Final_Door", "SE-111", "UNK_247")) for sf in set_files)
                 incomplete_sets.append({
                     "registry": reg_dir,
                     "set": set_dir,
