@@ -92,9 +92,9 @@ Seiyon's eyes flared with calm, cerulean luminescence. She summoned twin prismat
   * Mnemonic Drone deploys `[Stasis Caliper]`, scanning the rapid vibrational frequencies of the Glass Daggers.
   * The Memory Thief activates `[Mirage Cloak]`, creating three shifting afterimages at Node 04.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15\%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Kinetic Deflection]`. Holds 2 AP in Reserve.
+  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Kinetic Deflection]`. Holds 2 AP in Reserve.
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Stasis Caliper: Clamp Lock]`. Holds 1 AP in Guard.
-  * The Memory Thief (Speed 7 -> 4 AP, Feather Ephemera delta +2, Crit +35\%): Steps to Node 04. Spends 2 AP on `[Glass Dagger: Identity Siphon]`. Spends 2 AP on `[Mirage Ambush]`.
+  * The Memory Thief (Speed 7 -> 4 AP, Feather Ephemera delta +2, Crit +35%): Steps to Node 04. Spends 2 AP on `[Glass Dagger: Identity Siphon]`. Spends 2 AP on `[Mirage Ambush]`.
 - **Step 3: Clash & Skill Resolution**:
   * **Clash 1 (Node 02 to 04)**: The Memory Thief lunges from the mirrors with `[Glass Dagger: Identity Siphon]` (Base 17 + 2 Coins = 27 Power, Pierce/Lament).
     * Seiyon intercepts with `[Prismatic Aegis: Kinetic Deflection]` (Base 20 + 2 Coins = 32 Power, Holographic Shield).
@@ -205,7 +205,7 @@ Seiyon's eyes flared with calm, cerulean luminescence. She summoned twin prismat
     * Deals **480 Pierce/Void damage** and +76 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (2,520 HP), falling to **1,820/3,600 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Memory Thief collapses against the mirror wall; all defenses drop to zero; takes +50\% damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The Memory Thief collapses against the mirror wall; all defenses drop to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 2,520 -> **1,820/3,600 [THRESHOLD BREACHED: Below 2,520 HP!]**.
   * Facemask Veil: 920 -> **440/1,100** | Posture: **92/240 [SHATTERED]**.
@@ -345,6 +345,6 @@ Seiyon's eyes flared with calm, cerulean luminescence. She summoned twin prismat
   * The Memory Thief dissolves into a column of cool, dusky silver light, condensing into a dark, polished codex: **`[Key Page: The Shadow]`**!
   * Deals **420 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Key Page Acquired**: `[Key Page: The Shadow]` (Grants +15\% Evasion and strips enemy offensive buffs on clash win).
+  * **Key Page Acquired**: `[Key Page: The Shadow]` (Grants +15% Evasion and strips enemy offensive buffs on clash win).
   * **Descent Access**: The mirror at the end of the hall dissolves, revealing a heavy iron bulkhead opening to **Floor 03: Floor of Duty & Iron**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.

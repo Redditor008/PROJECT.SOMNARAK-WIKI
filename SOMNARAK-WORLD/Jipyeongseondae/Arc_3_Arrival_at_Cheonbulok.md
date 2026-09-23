@@ -207,7 +207,7 @@ Kael stepped past Hwaran, planting his obsidian cleaver into the basalt sand.
     * Deals **740 Blunt/Weight damage** and +102 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Barok's HP crosses 70% threshold (4,060 HP), dropping to **2,860/5,800 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** Barok drops to one knee on the arena sand, gasping for breath; chest combustion furnace exposed; takes +50\% damage!
+  * **STAGGER LEVEL 1 ACTIVE!** Barok drops to one knee on the arena sand, gasping for breath; chest combustion furnace exposed; takes +50% damage!
 - **Step 5: Turn End State**:
   * Total Barok HP: 3,960 -> **2,860/5,800 [THRESHOLD BREACHED: Below 4,060 HP!]**.
   * Basalt Pauldron: 1,460 -> **720/1,800** | Posture: **116/340 [SHATTERED]**.

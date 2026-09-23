@@ -325,7 +325,7 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
   * Sora readies `[Lament Water Resonance]`, aiming at the overheating wheel trucks.
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02 directly in front of the double rails. Spends 2 AP on `[Vow of the Low Bulwark: Anchor]`.
-  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30\%): Perches on high catenary rafters at Node 07. Spends 2 AP on `[Severing Crescent Stance]`.
+  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30%): Perches on high catenary rafters at Node 07. Spends 2 AP on `[Severing Crescent Stance]`.
   * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0, Poise +20): Holds Node 03. Spends 2 AP on `[Tungsten Chisel Bore]`. Holds 1 AP in Guard.
   * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 04. Spends 2 AP on `[Cascading Torrent]`. Holds 2 AP in Reserve.
   * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Sonar Track Lock]`, 2 AP on `[Acoustic Dart]`.
@@ -449,7 +449,7 @@ A sound like screeching metal wheels tore through the air. A blinding beam of pa
     * Carapace takes **310 Blunt damage** and +64 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP drops past 70% (2,240 HP) down to **1,950/3,200 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The locomotive engine derails onto its side. All defenses fall to zero; takes +50\% damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The locomotive engine derails onto its side. All defenses fall to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 2,260 -> **1,950/3,200 [THRESHOLD BREACHED: Below 2,240 HP!]**.
   * Carapace Plating: 790 -> **480/1,100** | Posture: **92/250 [BREACHED]**.

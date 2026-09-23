@@ -207,7 +207,7 @@ Four hundred civilian foundry workers—the **Ash Walkers**—were trapped on th
     * Deals **780 Blunt/Void damage** and +106 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Heart HP crosses 70% threshold (4,340 HP), dropping to **3,100/6,200 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Blazing Heart sinks into the central dais; molten slag mantle falls away; unquenched tears exposed; takes +50\% damage!
+  * **STAGGER LEVEL 1 ACTIVE!** The Blazing Heart sinks into the central dais; molten slag mantle falls away; unquenched tears exposed; takes +50% damage!
 - **Step 5: Turn End State**:
   * Total Heart HP: 4,240 -> **3,100/6,200 [THRESHOLD BREACHED: Below 4,340 HP!]**.
   * Slag Crucible: 1,540 -> **760/1,900** | Posture: **124/360 [CRACKED]**.

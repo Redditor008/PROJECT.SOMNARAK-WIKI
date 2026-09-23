@@ -90,9 +90,9 @@ Seiyon stepped into the freezing water. Her holographic silhouette shimmered wit
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Seiyon initializes `[Prismatic Aegis: Hydro-Deflection]`: Grants +3 Protection and physical stagger immunity.
   * Mnemonic Drone deploys `[Thermal Sapper Caliper]`, scanning the fluid intake lines of the Weeping Siphon Veil.
-  * The Weeping Statue initializes `[Frozen Tear Ward]`: Increases elemental resistance against Lament by +50\%.
+  * The Weeping Statue initializes `[Frozen Tear Ward]`: Increases elemental resistance against Lament by +50%.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15\%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Hydro-Deflection]`. Holds 2 AP in Reserve.
+  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Hydro-Deflection]`. Holds 2 AP in Reserve.
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Thermal Sapper: Heat Lance]`. Holds 1 AP in Guard.
   * Salt Mourners (Speed 4 -> 2 AP): Fire calcified quills from Node 04.
   * The Weeping Statue (Speed 6 -> 3 AP, Heavy Armor delta -1, Poise +25): Holds Node 05. Spends 2 AP on `[Pressurized Brine Torrent]`. Spends 1 AP on `[Censer Swing]`.
@@ -209,7 +209,7 @@ Seiyon stepped into the freezing water. Her holographic silhouette shimmered wit
     * Deals **580 Blunt/Void damage** and +94 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (3,080 HP), falling to **2,240/4,400 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Weeping Statue sinks onto its knees in the water; all defenses drop to zero; takes +50\% damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The Weeping Statue sinks onto its knees in the water; all defenses drop to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 3,040 -> **2,240/4,400 [THRESHOLD BREACHED: Below 3,080 HP!]**.
   * Mourning Censer: 1,140 -> **560/1,400** | Posture: **98/280 [CRACKED]**.
@@ -347,6 +347,6 @@ Seiyon stepped into the freezing water. Her holographic silhouette shimmered wit
   * The Weeping Statue smiles softly, its body dissolving into pure, shimmering sapphire crystal that condenses into an ornate frost-bound codex: **`[Key Page: The Mourner]`**!
   * Deals **520 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Operational Artifact Extraction & Floor Access**:
-  * **Key Page Acquired**: `[Key Page: The Mourner]` (Inflicts +30\% Posture Strain on frenzied enemies and quenches incoming thermal damage).
+  * **Key Page Acquired**: `[Key Page: The Mourner]` (Inflicts +30% Posture Strain on frenzied enemies and quenches incoming thermal damage).
   * **Descent Access**: The flooded pool drains away, revealing a grand staircase of clear crystal descending to **Floor 05: Floor of Severed Truth**.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP.

@@ -216,7 +216,7 @@ Kael drew his obsidian cleaver. For the first time in forty years, his Han-glass
     * Deals **860 Blunt/Void damage** and +112 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Archon HP crosses 70% threshold (4,900 HP), dropping to **3,600/7,000 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Archon sinks to the white sand; floating spires crash down; takes +50\% damage!
+  * **STAGGER LEVEL 1 ACTIVE!** The Archon sinks to the white sand; floating spires crash down; takes +50% damage!
 - **Step 5: Turn End State**:
   * Total Archon HP: 4,820 -> **3,600/7,000 [THRESHOLD BREACHED: Below 4,900 HP!]**.
   * Monolith Halo: 1,720 -> **860/2,100** | Posture: **136/380 [FRACTURED]**.

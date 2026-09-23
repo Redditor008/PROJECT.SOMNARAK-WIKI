@@ -209,7 +209,7 @@ A category-5 Han-storm boiled around its crown, threatening to flip the 18,000-t
     * Deals **720 Thermal/Weight damage** and +104 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Colossus HP crosses 70% threshold (3,920 HP), falling to **2,840/5,600 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The titan crashes onto the sand, its snout buried in the dust; defenses drop to zero; takes +50\% damage!
+  * **STAGGER LEVEL 1 ACTIVE!** The titan crashes onto the sand, its snout buried in the dust; defenses drop to zero; takes +50% damage!
 - **Step 5: Turn End State**:
   * Total Colossus HP: 3,880 -> **2,840/5,600 [THRESHOLD BREACHED: Below 3,920 HP!]**.
   * Dorsal Carapace: 1,480 -> **760/1,800** | Posture: **120/340 [FRACTURED]**.

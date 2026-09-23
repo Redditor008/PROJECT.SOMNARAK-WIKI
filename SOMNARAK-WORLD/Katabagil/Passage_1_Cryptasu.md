@@ -403,11 +403,11 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
 ###### Turn 01 Action Resolution Log (Establishing the Formation & Brine Torrent Deflection)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
   * Harin activates `[Pneumatic Bulwark Stance]`: Grants herself and adjacent allies +3 Protection; intercepts the highest speed enemy clash targeting Band 1–2.
-  * Yeonhwa initializes `[Sonar Target Lock]`: Focuses acoustic theodolite sensors on the Left Hydraulic Siphon Arm, increasing squad stagger damage against it by +25\%.
+  * Yeonhwa initializes `[Sonar Target Lock]`: Focuses acoustic theodolite sensors on the Left Hydraulic Siphon Arm, increasing squad stagger damage against it by +25%.
   * Sora deploys `[Silver Cowl: Empathic Nullification]`, neutralizing the reservoir's ambient acoustic weeping.
 - **Step 2: Spatial Movement & Action Point Allocation**:
   * Harin (Speed 4 -> 2 AP, M.A.W.-W Heavy Armor delta -1, Poise +25): Holds Node 02. Spends 2 AP on `[Pneumatic Bulwark: Kinetic Deflection]`.
-  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30\%): Holds high arch flank at Node 10. Spends 2 AP on `[Severing Parry]`. Holds 2 AP in Reserve.
+  * The Silent One (Speed 7 -> 4 AP, M.A.W.-W Medium delta 0, Crit +30%): Holds high arch flank at Node 10. Spends 2 AP on `[Severing Parry]`. Holds 2 AP in Reserve.
   * Doha (Speed 5 -> 3 AP, M.A.W.-W Medium delta 0, Poise +20): Advances to Node 03. Spends 2 AP on `[Pneumatic Hammer Strike]`. Holds 1 AP in Guard.
   * Sora (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 06. Spends 2 AP on `[Empathic Nullification Ward]`. Holds 2 AP in Reserve.
   * Yeonhwa (Speed 7 -> 4 AP, M.A.W.-W Light delta +1): Holds Node 04. Spends 2 AP on `[Sonar Target Lock: Siphon Frequency]`, 2 AP on `[Acoustic Resonance Dart]`.
@@ -538,7 +538,7 @@ Rising from the throne was the ancient guardian of the floodgate: **SECC-012 "Th
     * Deals **218 Fatal Grudge damage** directly to the Weeping Core!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP drops past 70% to **1,672/2,400 HP**; Posture collapses past 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The titan falls to one knee in the flooded basin. All defenses drop to zero; takes +50\% damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The titan falls to one knee in the flooded basin. All defenses drop to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 1,890 -> **1,672/2,400 [THRESHOLD BREACHED: Below 1,680 HP!]**.
   * Boss Posture: **92/260 [STAGGER LEVEL 1]**.

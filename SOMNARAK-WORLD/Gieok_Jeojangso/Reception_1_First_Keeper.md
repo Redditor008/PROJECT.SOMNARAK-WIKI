@@ -96,7 +96,7 @@ Seiyon raised her hands. Her holographic avatar solidified, coating her transluc
   * Mnemonic Drone deploys `[Stasis Caliper]`, calibrating acoustic sensors to track the resonance frequencies of the Obsidian Quill.
   * Resonant Lens locks onto the quill's intake reservoir at Node 05.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15\%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Kinetic Deflection]`. Holds 2 AP in Reserve.
+  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Kinetic Deflection]`. Holds 2 AP in Reserve.
   * Mnemonic Drone (Speed 5 -> 3 AP, Medium delta 0): Holds Node 03. Spends 2 AP on `[Stasis Caliper: Clamp Lock]`. Holds 1 AP in Guard.
   * Preserved Scribes (Speed 4 -> 2 AP): Stand at Node 04, firing `[Ink Quill Volley]` toward Node 02.
   * The First Keeper (Speed 6 -> 3 AP, Heavy Construct delta -1, Poise +25): Holds Node 05. Spends 2 AP on `[Obsidian Quill Cleave]`. Spends 1 AP on `[Archival Guard]`.
@@ -218,7 +218,7 @@ Seiyon raised her hands. Her holographic avatar solidified, coating her transluc
     * The Great Archival Codex splits in half, spilling thousands of loose pages into the air, dealing **430 Blunt/Void damage** and +78 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (2,240 HP), falling to **1,620/3,200 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Keeper falls to its knees upon the lectern; all defenses drop to zero; takes +50\% damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The Keeper falls to its knees upon the lectern; all defenses drop to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 2,240 -> **1,620/3,200 [THRESHOLD BREACHED: Below 2,240 HP!]**.
   * Archival Codex: 840 -> **410/1,000** | Posture: **82/240 [SPLIT OPEN]**.

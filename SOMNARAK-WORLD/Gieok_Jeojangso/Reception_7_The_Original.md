@@ -99,7 +99,7 @@ She drew her twin prismatic stilettos. The entire spherical sanctum began to sin
   * Mnemonic Drone deploys `[Resonant Sapper Caliper]`, scanning the temporal cycle frequency of the Zero-Chrono Lance.
   * The Original initializes `[Primordial Sovereign Aura]`: Increases clash power by +2 against all non-original entities.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15\%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Chrono Deflection]`. Holds 2 AP in Reserve.
+  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Chrono Deflection]`. Holds 2 AP in Reserve.
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Resonant Sapper: Stasis Field]`. Holds 1 AP in Guard.
   * Archetype Echoes (Speed 5 -> 3 AP): Throw temporal darts from Node 04.
   * The Original (Speed 7 -> 4 AP, Heavy Armor delta -1, Poise +25): Holds Node 05. Spends 2 AP on `[Zero-Chrono Piercing Lance]`. Spends 2 AP on `[Crown Stasis Ray]`.
@@ -216,7 +216,7 @@ She drew her twin prismatic stilettos. The entire spherical sanctum began to sin
     * Deals **720 Blunt/Void damage** and +102 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (4,200 HP), falling to **3,100/6,000 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Original drops to its knees on the silver pool; all defenses drop to zero; takes +50\% damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The Original drops to its knees on the silver pool; all defenses drop to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 4,160 -> **3,100/6,000 [THRESHOLD BREACHED: Below 4,200 HP!]**.
   * Crown of Wills: 1,460 -> **740/1,800** | Posture: **122/340 [FRACTURED]**.
@@ -357,6 +357,6 @@ She drew her twin prismatic stilettos. The entire spherical sanctum began to sin
   * The Genesis Core crystallizes into the ultimate, radiant rainbow-hued codex: **`[Key Page: Seiyon, The Living Memory]`**!
   * Deals **690 Peaceful Harmony**! Boss HP drops to 0!
 - **Step 4: Master Facility Transmutation & Re-Harmonization**:
-  * **Key Page Acquired**: `[Key Page: Seiyon, The Living Memory]` (Grants complete immunity to mental panic, +40\% Clash Power across all spectrums, and enables squad-wide Mnemonic Transmutation).
+  * **Key Page Acquired**: `[Key Page: Seiyon, The Living Memory]` (Grants complete immunity to mental panic, +40% Clash Power across all spectrums, and enables squad-wide Mnemonic Transmutation).
   * **Sanctum Transformation**: The deep subterranean chasm of the Memory Archive ignites with warm, golden starlight. The seven floors harmonize into a living sanctuary where no human memory can ever be erased.
   * **Casualties**: Zero Damage Taken. Seiyon HP 3,400/3,400. Composure 50/50 SP (Complete Transcendence).

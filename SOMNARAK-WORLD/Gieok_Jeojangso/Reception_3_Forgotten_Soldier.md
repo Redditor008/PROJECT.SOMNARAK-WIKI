@@ -94,7 +94,7 @@ Seiyon stepped forward, deploying a reinforced prismatic tower shield from her g
   * Mnemonic Drone deploys `[Hydraulic Sapper Caliper]`, scanning the pneumatic piston chambers of the Heavy Halberd.
   * The Forgotten Soldier initializes `[Unyielding Formation]`: Increases defense rating by +10.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15\%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Kinetic Deflection]`. Holds 2 AP in Reserve.
+  * Seiyon (Speed 7 -> 4 AP, Mnemonic Suit Light delta +1, Evasion +15%): Holds Node 02. Spends 2 AP on `[Prismatic Aegis: Kinetic Deflection]`. Holds 2 AP in Reserve.
   * Mnemonic Drone (Speed 5 -> 3 AP): Holds Node 03. Spends 2 AP on `[Hydraulic Sapper: Anchor]`. Holds 1 AP in Guard.
   * The Forgotten Soldier (Speed 5 -> 3 AP, Heavy Armor delta -1, Poise +25): Holds Node 05. Spends 2 AP on `[Piston Halberd Cleave]`. Spends 1 AP on `[Tower Aegis Guard]`.
 - **Step 3: Clash & Skill Resolution**:
@@ -212,7 +212,7 @@ Seiyon stepped forward, deploying a reinforced prismatic tower shield from her g
     * Deals **540 Blunt/Void damage** and +88 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
   * Total Boss HP crosses 70% threshold (2,800 HP), falling to **2,030/4,000 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The Forgotten Soldier sinks onto both knees; all defenses drop to zero; takes +50\% damage across all incoming attacks!
+  * **STAGGER LEVEL 1 ACTIVE!** The Forgotten Soldier sinks onto both knees; all defenses drop to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
   * Total Boss HP: 2,760 -> **2,030/4,000 [THRESHOLD BREACHED: Below 2,800 HP!]**.
   * Tower Aegis: 1,060 -> **520/1,300** | Posture: **94/260 [BREACHED]**.
