@@ -3,10 +3,10 @@
 tools/expand_absolvohan_battles_part4.py
 Expands all 5 Ordeal encounters in SOMNARAK-WORLD/The_Absolvohan/Part_4_Days_53_to_73.md
 with full Gameplay Battle System (GBS) Reverie Directorate Style mechanics:
-1. Green Dusk Ordeal — The Siphon Spires
-2. Crimson Dusk Ordeal — The Blood-Tide Shrouds
-3. Amber Dusk Ordeal — The Tremor Spiders
-4. Violet Dusk Ordeal — The Floating Spires
+1. Green Third Watch Ordeal — The Siphon Spires
+2. Crimson Third Watch Ordeal — The Blood-Tide Shrouds
+3. Amber Third Watch Ordeal — The Tremor Spiders
+4. Violet Third Watch Ordeal — The Floating Spires
 5. The Midnight Herald — Sovereign Echo of the Deep Vaults
 """
 
@@ -38,7 +38,7 @@ with open(filepath, "r", encoding="utf-8") as f:
     text = f.read()
 
 # -------------------------------------------------------------
-# 1. Green Dusk Ordeal — The Siphon Spires
+# 1. Green Third Watch Ordeal — The Siphon Spires
 # -------------------------------------------------------------
 box_spires_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (GREEN DUSK)", [
     "[STAGE] : [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
@@ -107,7 +107,7 @@ else:
     print("Could not find Siphon Spires section!")
 
 # -------------------------------------------------------------
-# 2. Crimson Dusk Ordeal — The Blood-Tide Shrouds
+# 2. Crimson Third Watch Ordeal — The Blood-Tide Shrouds
 # -------------------------------------------------------------
 box_shrouds_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (CRIMSON DUSK)", [
     "[STAGE] : [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
@@ -176,7 +176,7 @@ else:
     print("Could not find Blood-Tide Shrouds section!")
 
 # -------------------------------------------------------------
-# 3. Amber Dusk Ordeal — The Tremor Spiders
+# 3. Amber Third Watch Ordeal — The Tremor Spiders
 # -------------------------------------------------------------
 box_spiders_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (AMBER SPIDERS)", [
     "[STAGE] : [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
@@ -243,7 +243,7 @@ else:
     print("Could not find Tremor Spiders section!")
 
 # -------------------------------------------------------------
-# 4. Violet Dusk Ordeal — The Floating Spires
+# 4. Violet Third Watch Ordeal — The Floating Spires
 # -------------------------------------------------------------
 box_floating_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (FLOATING SPIRES)", [
     "[STAGE] : [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",

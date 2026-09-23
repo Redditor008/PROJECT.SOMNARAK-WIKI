@@ -71,11 +71,11 @@ The six major operations of the Katharcheok campaign target six critical nodes o
 
 | Operation Designation | Campaign Arc Title | Urban Sector Domain | Dominant Criminal Syndicate | Core Tactical Objective | Threat Classification | Collateral Hazard |
 |---|---|---|---|---|---|---|
-| **Operation 1** | **Velumtal** (가면포) | Zone D — Mask Market | The Veil Merchants | Seize counterfeit stone factories & capture Boss Gwangseok | High (Grade WAW Matrix) | Dense Civilian Bazaar |
+| **Operation 1** | **Velumtal** (가면포) | Zone D — Mask Market | The Veil Merchants | Seize counterfeit stone factories & capture Boss Gwangseok | High (Rank IV Entity Matrix) | Dense Civilian Bazaar |
 | **Operation 2** | **Lethepyo** (표백원) | Zones B & C — Bleached Wards | The Memory Washers | Raid identity-stripping labs & recover stolen memories | Extreme (Mind Wipe Risk) | Cognitive Contagion |
 | **Operation 3** | **Messischwi** (착취구)| Zone B — The Low Sinks | The Harvesters | Dismantle illegal Echo siphons & liberate 50 captives | High (Chemical Han Fire)| Industrial Slums |
 | **Operation 4** | **Usurachae** (사채고) | Zone C — Usury Vaults | The Debt Brokers | Infiltrate banking vaults & incinerate phantom ledgers | Extreme (Economic Crash)| Corporate Retaliation |
-| **Operation 5** | **Therionok** (흑옥투) | Zones D & E — Black Cages | The Entity Traders | Contain weaponized feral entities & breach auction ring | Critical (ALEPH Outbreak)| Structural Rupture |
+| **Operation 5** | **Therionok** (흑옥투) | Zones D & E — Black Cages | The Entity Traders | Contain weaponized feral entities & breach auction ring | Critical (Rank V Sovereign Outbreak)| Structural Rupture |
 | **Operation 6** | **Basileugung** (제궁락)| Zone B — Sunken Citadel | The Underworld King | Storm the subterranean palace & depose King Kang-hyuk | Catastrophic (Civil War) | City-Wide Meltdown |
 
 ---
@@ -332,7 +332,7 @@ To navigate the narrow, hazardous boulevards of The Raw, the UCD maintains an ar
 ```
 
 - **The Iron Vanguard (Class-II Armored Riot Cruiser)**: The mobile field command vehicle of the task force. Equipped with heavy run-flat solid rubber tires, V-shaped blast-deflecting hull armor, and roof-mounted pneumatic riot cannons. It houses a satellite forensic link for Auditor Yuna and medical triage berths for recovered civilian hostages.
-- **The Leaded Paddywagon (Heavy Entity Transport Carrier)**: A reinforced six-wheel hauler fitted with eight Class-IV vacuum berths. The cargo hold is surrounded by 10mm lead plating and continuous acoustic null-field generators, allowing safe transport of captured WAW and ALEPH entities through crowded city streets.
+- **The Leaded Paddywagon (Heavy Entity Transport Carrier)**: A reinforced six-wheel hauler fitted with eight Class-IV vacuum berths. The cargo hold is surrounded by 10mm lead plating and continuous acoustic null-field generators, allowing safe transport of captured Rank IV Entity and Rank V Sovereign entities through crowded city streets.
 - **The Sound-Breaker (Acoustic Siege Array Vehicle)**: An armored utility truck carrying a cyclopean acoustic transducer array. Capable of projecting directed sonic null-waves that shatter syndicate barricades, disperse violent mobs, and neutralize sniper fire without firing a single bullet.
 
 ---

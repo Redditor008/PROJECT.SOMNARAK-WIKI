@@ -237,7 +237,7 @@ The vault erupted into a tempest of kinetic force and psychic void pressure.
 +---------------------------------------------------------------------+
 | APEX TARGET        : High Usurer Man-sik ('The Golden Shylock')     |
 | MODULAR WEAPON : Electrified Foreclosure Cudgel (Heavy Blunt/Shock) |
-| CONTRABAND ENTITY : SE-C-IIIβ-015 'The Debt Scale' (WAW Threat /    |
+| CONTRABAND ENTITY : SE-C-IIIβ-015 'The Debt Scale' (Rank III /      |
 | Debt Scale)                                                         |
 | ESCORT MINIONS : Gilded Mercenaries (x2) & Pneumatic Coin-Gunners   |
 | ENCOUNTER DOMAIN : Zone C Usury Vaults & Gold Siphon (-180m Depth)  |

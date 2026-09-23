@@ -114,9 +114,9 @@ The mother who lost them is still alive — it lives in the Echo Gardens, visiti
 
 | Stage | Entity | Designation | Trigger | Result |
 |-------|--------|-------------|---------|--------|
-| **1** | The Kind Healer | `I-α-071` | Entity appears docile, healing minor wounds | Appears safe — ZAYIN level |
-| **2** | The Blessing Giver | `II-β-071` | Entity begins "blessing" personnel — marks them with Han-crystal | Risk increases — TETH level |
-| **3** | The Apostle Maker | `III-γ-071` | 12 personnel receive blessings — they become "Apostles" | Danger rises — HE level |
+| **1** | The Kind Healer | `I-α-071` | Entity appears docile, healing minor wounds | Appears safe — Rank I Whisper level |
+| **2** | The Blessing Giver | `II-β-071` | Entity begins "blessing" personnel — marks them with Han-crystal | Risk increases — Rank II Murmur level |
+| **3** | The Apostle Maker | `III-γ-071` | 12 personnel receive blessings — they become "Apostles" | Danger rises — Rank III Fragment level |
 | **4** | **The Dawn of Mourning** | `V-Ω-001` | 12th blessing completes — entity transforms | **CATASTROPHIC** — Ω level |
 
 **The The Dawn of Mourning** is the most dangerous entity in Somnarak's history. It appears as a divine figure — wings of sorrow, crown of Han-crystal, voice of a thousand weeping. It does not attack directly. It **judges** — and its judgment is always **crucifixion**.

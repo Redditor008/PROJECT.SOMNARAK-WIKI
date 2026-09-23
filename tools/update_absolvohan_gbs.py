@@ -3,7 +3,7 @@
 tools/update_absolvohan_gbs.py
 Expands and enriches the Gameplay Battle System (GBS) across:
 1. SOMNARAK-WORLD/The_Absolvohan/ABSOLOVHAN_OVERVIEW.md (Section IV)
-2. SOMNARAK-WORLD/The_Absolvohan/Part_1_Day_0_The_Director_Wakes.md (Dawn Ordeal)
+2. SOMNARAK-WORLD/The_Absolvohan/Part_1_Day_0_The_Director_Wakes.md (First Watch Ordeal)
 3. SOMNARAK-WORLD/The_Absolvohan/Part_2_Days_1_to_25.md (Noon & Dusk Ordeals)
 
 Enforces:

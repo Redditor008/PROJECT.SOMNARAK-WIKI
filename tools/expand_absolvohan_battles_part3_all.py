@@ -65,10 +65,10 @@ box_larvae_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
     "4. OUTCOME             : 100% SUPPRESSION — ZERO CASUALTIES, +15 RHR."
 ])
 
-target_larvae_start = "##### Ordeal Manifestation: Crimson Noon Ordeal — The Sanguine Larvae"
+target_larvae_start = "##### Ordeal Manifestation: Crimson Second Watch Ordeal — The Sanguine Larvae"
 target_larvae_end = "- **Ordeal Suppressed with 0 cell breaches and 0 agent casualties!** +15 RHR reagents secured."
 
-new_larvae_full = f"""##### Ordeal Manifestation: Crimson Noon Ordeal — The Sanguine Larvae
+new_larvae_full = f"""##### Ordeal Manifestation: Crimson Second Watch Ordeal — The Sanguine Larvae
 At 0.125 tons harvested, the floor vents rupture. Four crimson flesh pods erupt across Floor 2 and Floor 3, spawning scuttling Sorrow Larvae that seek out containment doors to cause instant breaches!
 
 ```text
@@ -158,7 +158,7 @@ target_drowners_start = "##### Ordeal Manifestation: Third Watch (Dusk) Ordeal �
 target_drowners_end = "- **All 3 monuments shatter within 38 seconds of arrival! Zero agent casualties!** +22 RHR harvested."
 
 new_drowners_full = f"""##### Ordeal Manifestation: Third Watch (Dusk) Ordeal — The Gilded Drowners
-At 0.145 tons harvested, the facility's emergency sirens shift from amber to violet. A Dusk Ordeal has arrived:
+At 0.145 tons harvested, the facility's emergency sirens shift from amber to violet. A Third Watch Ordeal has arrived:
 
 ```text
 +==============================================+
@@ -339,10 +339,10 @@ box_hive_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
     "4. OUTCOME             : ZERO CASUALTIES — +28 REFINED RHR SECURED."
 ])
 
-target_hive_start = "##### Ordeal Manifestation: Amber Dusk Ordeal — The Churning Hive"
+target_hive_start = "##### Ordeal Manifestation: Amber Third Watch Ordeal — The Churning Hive"
 target_hive_end = "- Hive collapses into dry amber dust! **Zero agent casualties!** +28 RHR secured."
 
-new_hive_full = f"""##### Ordeal Manifestation: Amber Dusk Ordeal — The Churning Hive
+new_hive_full = f"""##### Ordeal Manifestation: Amber Third Watch Ordeal — The Churning Hive
 At 0.165 tons collected, the subterranean bedrock shudders. Colossal segmented centipedes burst through the flagstones of Floor 5 and Floor 6:
 
 ```text

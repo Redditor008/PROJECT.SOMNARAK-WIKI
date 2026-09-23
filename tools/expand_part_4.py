@@ -965,7 +965,7 @@ Shift parameters engaged for Day 69. Daily collection quota increases to **0.200
 
 Operational priorities for Day 69:
 1. Conduct safe containment on **SE-C-IIIγ-102** (*The Dancing Chains*).
-2. Suppress the Amber Dusk Ordeal along Floor 7's subterranean vent core.
+2. Suppress the Amber Third Watch Ordeal along Floor 7's subterranean vent core.
 3. Lock the bedrock foundation to prevent Maw seepage.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles

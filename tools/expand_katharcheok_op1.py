@@ -28,7 +28,7 @@ def get_op1_engagement():
         "---",
         "CONTRABAND ENTITY PROFILE (SECC-019):",
         "- Entity HP Pool   : 2,400 HP | Posture Pool: 180/180",
-        "- Entity Threat    : TETH/HE Sub-Municipal Contraband",
+        "- Entity Threat    : Rank II/III Sub-Municipal Contraband",
         "- Attack Affinity  : Grief Vapor Shroud (Psychic / Pale Delusion)"
     ])
 

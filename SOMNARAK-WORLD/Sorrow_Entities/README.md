@@ -27,11 +27,11 @@ Where:
   - `N`: Non-physical / Ethereal / Acoustic Entity
   - `A`: Abstract / Phenomenological Entity
 - **`[T]` Threat Tier (Roman Numerals)**:
-  - `I` (**ZAYIN**): Negligible or passive threat; minimal containment breach risk.
-  - `II` (**TETH**): Low-to-moderate threat; standard suppression squads sufficient.
-  - `III` (**HE**): Significant threat; lethal capabilities requiring disciplined work.
-  - `IV` (**WAW**): Critical threat; massive psychological degradation or structural breach hazard.
-  - `V` (**ALEPH**): Catastrophic existential threat; potential facility-wide or district-wide collapse.
+  - `I` (**Rank I: Whisper / 속삭임**): Negligible or passive threat; minimal containment breach risk.
+  - `II` (**Rank II: Murmur / 웅얼거림**): Low-to-moderate threat; standard suppression squads sufficient.
+  - `III` (**Rank III: Fragment / 파편**): Significant threat; lethal capabilities requiring disciplined work.
+  - `IV` (**Rank IV: Entity / 존재**): Critical threat; massive psychological degradation or structural breach hazard.
+  - `V` (**Rank V: Sovereign / 군주**): Catastrophic existential threat; potential facility-wide or district-wide collapse.
 - **`[S]` Subtype Suffix (Greek Letters)**:
   - `α` (Alpha): Stable / predictable resonance
   - `β` (Beta): Fluctuating / condition-sensitive resonance

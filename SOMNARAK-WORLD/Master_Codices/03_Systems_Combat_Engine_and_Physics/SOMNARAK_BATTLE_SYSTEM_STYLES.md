@@ -411,9 +411,9 @@ Unlike military annihilation, R.D. teams often achieve victory by completing **W
 
 - At the end of every Phase (every 6 Battle Turns), the **Meltdown Clock** ticks:
   * **Phase 1 End**: Level 1 Meltdown. 2 peripheral containment cells enter warning state.
-  * **Phase 2 End**: Level 2 Meltdown. Green or Amber Dawn Ordeal units spawn at Node 10, flanking the squad.
-  * **Phase 3 End**: Level 3 Meltdown. Violet Noon fissures open on Nodes 3 and 7, dealing passive Void damage each turn.
-  * **Phase 4+ End**: Level 4+ Meltdown. Dusk or Midnight catastrophic entities mobilize unless the primary target is contained.
+  * **Phase 2 End**: Level 2 Meltdown. Pale or Black First Watch Ordeal units spawn at Node 10, flanking the squad.
+  * **Phase 3 End**: Level 3 Meltdown. Purple Second Watch fissures open on Nodes 3 and 7, dealing passive Void damage each turn.
+  * **Phase 4+ End**: Level 4+ Meltdown. Third Watch or Tide Watch catastrophic entities mobilize unless the primary target is contained.
 
 ---
 

@@ -3,7 +3,7 @@
 tools/expand_part_3.py
 Expands Part 3 (Days 29 to 49) into an exhaustive operational chronicle:
 - Replaces Turns 02-06 summaries on Day 29, Day 31, Day 36, Day 41, and Day 49 with full turn-by-turn combat logs.
-- Inserts Day 45 (Avian Triad Calibration & Violet Noon Ordeal).
+- Inserts Day 45 (Avian Triad Calibration & Violet Second Watch Ordeal).
 - Enforces 100% box symmetry and dual-environment typography.
 """
 
@@ -362,7 +362,7 @@ def generate_day_45():
 
 > **Ayshuk:** _"Chambers 031, 032, and 033 are locked in tripartite harmonic resonance. When The Guarding Bird stretches its wings on Floor 2, The Weighting Bird tilts its scale on Floor 4, and The Whispering Bird flutters its small bronze beak on Floor 3. The acoustic bleed is zero. They are balancing each other's sorrow."_
 
-> **Mellda:** _"They may be calm inside their chambers, Director, but the perimeter is trembling. A Violet Noon Ordeal is tearing through Floor 5's border gate. A dimensional hand—five meters across, forged of faceted crystal—is reaching into our transit corridor."_
+> **Mellda:** _"They may be calm inside their chambers, Director, but the perimeter is trembling. A Violet Second Watch Ordeal is tearing through Floor 5's border gate. A dimensional hand—five meters across, forged of faceted crystal—is reaching into our transit corridor."_
 
 > **Majin:** _"Deploy Park, Mellda, and Hwang to Gate 05. The birds have shown us how balance works. Show that rift what Directorate discipline means."_
 
@@ -378,7 +378,7 @@ Shift parameters engaged for Day 45. Target energy quota rises to **0.160 tons**
 
 Operational priorities for Day 45:
 1. Maintain tripartite stabilization across Chambers 031, 032, and 033.
-2. Intercept and suppress the Violet Noon Ordeal along Floor 5's outer gate.
+2. Intercept and suppress the Violet Second Watch Ordeal along Floor 5's outer gate.
 3. Advance senior operative proficiencies using the Four P-Framework.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles

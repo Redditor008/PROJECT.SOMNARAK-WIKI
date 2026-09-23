@@ -552,7 +552,7 @@ This is an existential emergency! If both bird chambers overload simultaneously,
 
 Both agents clear the overloads with 9 seconds remaining! The resonance frequency collapses back into safe baseline ranges. The three birds cease their unison chirp.
 
-##### Ordeal Manifestation: Crimson Noon Ordeal — The Sanguine Larvae
+##### Ordeal Manifestation: Crimson Second Watch Ordeal — The Sanguine Larvae
 At 0.125 tons harvested, the floor vents rupture. Four crimson flesh pods erupt across Floor 2 and Floor 3, spawning scuttling Sorrow Larvae that seek out containment doors to cause instant breaches!
 
 ```text
@@ -950,7 +950,7 @@ A meltdown on *The Kind Healer* is a nightmare. If its timer expires, it forcibl
 Hwang enters with 22 seconds left, completes 6 rapid observation ticks, and clears the meltdown! Meltdown gauge clears.
 
 ##### Ordeal Manifestation: Third Watch (Dusk) Ordeal — The Gilded Drowners
-At 0.145 tons harvested, the facility's emergency sirens shift from amber to violet. A Dusk Ordeal has arrived:
+At 0.145 tons harvested, the facility's emergency sirens shift from amber to violet. A Third Watch Ordeal has arrived:
 
 ```text
 +=====================================================================+
@@ -1365,7 +1365,7 @@ Five chambers flashing simultaneously! Director Majin immediately coordinates a 
 
 All remaining three cells stabilized with 14 seconds on the timer! Total facility breach prevented!
 
-##### Ordeal Manifestation: Amber Dusk Ordeal — The Churning Hive
+##### Ordeal Manifestation: Amber Third Watch Ordeal — The Churning Hive
 At 0.165 tons collected, the subterranean bedrock shudders. Colossal segmented centipedes burst through the flagstones of Floor 5 and Floor 6:
 
 ```text
@@ -1678,7 +1678,7 @@ At 02:00, the seismic sensors record a massive subterranean shockwave traveling 
 
 > **Ayshuk:** _"Chambers 031, 032, and 033 are locked in tripartite harmonic resonance. When The Guarding Bird stretches its wings on Floor 2, The Weighting Bird tilts its scale on Floor 4, and The Whispering Bird flutters its small bronze beak on Floor 3. The acoustic bleed is zero. They are balancing each other's sorrow."_
 
-> **Mellda:** _"They may be calm inside their chambers, Director, but the perimeter is trembling. A Violet Noon Ordeal is tearing through Floor 5's border gate. A dimensional hand—five meters across, forged of faceted crystal—is reaching into our transit corridor."_
+> **Mellda:** _"They may be calm inside their chambers, Director, but the perimeter is trembling. A Violet Second Watch Ordeal is tearing through Floor 5's border gate. A dimensional hand—five meters across, forged of faceted crystal—is reaching into our transit corridor."_
 
 > **Majin:** _"Deploy Park, Mellda, and Hwang to Gate 05. The birds have shown us how balance works. Show that rift what Directorate discipline means."_
 
@@ -1702,7 +1702,7 @@ Shift parameters engaged for Day 45. Target energy quota rises to **0.160 tons**
 
 Operational priorities for Day 45:
 1. Maintain tripartite stabilization across Chambers 031, 032, and 033.
-2. Intercept and suppress the Violet Noon Ordeal along Floor 5's outer gate.
+2. Intercept and suppress the Violet Second Watch Ordeal along Floor 5's outer gate.
 3. Advance senior operative proficiencies using the Four P-Framework.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles

@@ -265,7 +265,7 @@ Urban warfare across the broken avenues and narrow alleys of The Raw requires hi
 ### 2. The Leaded Paddywagon (Heavy Entity Transport Carrier)
 - **Dimensions & Mass:** Length: 12.2 meters | Width: 3.6 meters | Height: 3.8 meters | Combat Weight: 28 metric tons.
 - **Containment Engineering:** The rear cargo hold is a hermetically isolated vault lined with 10mm flexible lead sheeting, 80mm basalt stone slabs, and continuous acoustic damping generators. Houses six hydraulic docking berths designed specifically for Class-IV leaded vacuum casks.
-- **Operational Utility:** Dedicated to transporting high-hazard Sorrow Entities (WAW and ALEPH tiers) from urban crime scenes through civilian districts to the Reverie Directorate without risking emotional radiation leakage or civilian panic.
+- **Operational Utility:** Dedicated to transporting high-hazard Sorrow Entities (Rank IV Entity and Rank V Sovereign tiers) from urban crime scenes through civilian districts to the Reverie Directorate without risking emotional radiation leakage or civilian panic.
 
 ### 3. The Sound-Breaker (Acoustic Siege Array Vehicle)
 - **Dimensions & Mass:** Length: 8.5 meters | Width: 3.0 meters | Height: 3.5 meters | Combat Weight: 18 metric tons.

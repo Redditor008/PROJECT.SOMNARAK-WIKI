@@ -15,7 +15,7 @@ def get_op2_engagement():
     dossier_box = make_box("TARGET DOSSIER: CHIEF CHEMIST SURA & LETHE MIASMA CORE", [
         "APEX TARGET        : Chief Chemist Sura ('The Memory Bleacher')",
         "MODULAR WEAPON     : Chemical Distillation Sprayer (Pressurized Acid)",
-        "CONTRABAND ENTITY  : SE-C-IIIγ-928 'Lethe Miasma Core' (WAW Threat)",
+        "CONTRABAND ENTITY  : SE-C-IIIγ-928 'Lethe Miasma Core' (Rank III)",
         "ESCORT MINIONS     : Chemical Enforcers (x2) & Solvent Technicians",
         "ENCOUNTER DOMAIN   : Zone B+C Sub-Drainage Conduits (-75m Depth)",
         "---",

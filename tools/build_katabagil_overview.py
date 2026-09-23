@@ -407,7 +407,7 @@ The SED enforces a rigorous three-phase pacification protocol:
 
 ### 7.2 Inter-Corporate Handoff & Boundary Demarcation
 - **The -50 Meter Civil Demarcation Line**: Under Municipal Decree 042, the jurisdiction of the Underworld Cleanup Descend (UCD) terminates at exactly -50 meters depth. If an urban syndicate retreats below -50m, UCD tactical squads must halt their pursuit and notify SED Frontier Command. The SED holds exclusive authority over all salvage, mining claims, and tactical engagements below this line.
-- **The Maw's Keep Transfer Protocol**: Under inter-corporate treaty with the Reverie Directorate, the SED does not maintain permanent laboratory containment facilities on the surface. All captured high-hazard Sorrow Entities (WAW and ALEPH grades) must be transported via secure freight elevators directly to Floor 2 of the Reverie Directorate (**The Maw's Keep**, supervised by Containment Lead Dekan) within twenty-four hours of recovery.
+- **The Maw's Keep Transfer Protocol**: Under inter-corporate treaty with the Reverie Directorate, the SED does not maintain permanent laboratory containment facilities on the surface. All captured high-hazard Sorrow Entities (Rank IV Entity and Rank V Sovereign grades) must be transported via secure freight elevators directly to Floor 2 of the Reverie Directorate (**The Maw's Keep**, supervised by Containment Lead Dekan) within twenty-four hours of recovery.
 
 ---
 

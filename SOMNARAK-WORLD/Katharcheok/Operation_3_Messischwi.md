@@ -243,7 +243,7 @@ The kiln exploded into combat.
 +---------------------------------------------------------------------+
 | APEX TARGET        : Warlord Boknam ('The Meat Hook Baron')         |
 | MODULAR WEAPON     : Pneumatic Harvest Hook Arm (Heavy Slash/Snare) |
-| CONTRABAND ENTITY : SE-C-IIIγ-120 'Rage Cage' (WAW Threat /         |
+| CONTRABAND ENTITY : SE-C-IIIγ-120 'Rage Cage' (Rank III Threat /    |
 | Redcage)                                                            |
 | ESCORT MINIONS     : Siphon Enforcers (x2) & Slag Bone-Sawyers      |
 | ENCOUNTER DOMAIN   : Zone B Low Sinks Sub-Abattoir (-120m Depth)    |

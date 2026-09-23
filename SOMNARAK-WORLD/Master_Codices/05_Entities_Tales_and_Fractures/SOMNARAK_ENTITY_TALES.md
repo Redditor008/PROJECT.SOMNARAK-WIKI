@@ -13820,6 +13820,6 @@ It can wait.
 | **Vessel-Destructible** | No — Sovereign / Place |
 | **Han Dust Drop** | — (never vessel-destroyed) |
 | **M.A.W. Extraction** | Impossible — no sorrow-core |
-| **Threat Score** | γ + V = 10 (ALEPH-equivalent) |
+| **Threat Score** | γ + V = 10 (Rank V Sovereign equivalent) |
 
 ---

@@ -1679,7 +1679,7 @@ He opens the private register of the Absolvohan project. The target is 100 tons.
 +=====================================================================+
 ```
 
-Day 17 concludes Batch 1 with our first full-scale **Midnight Ordeal**. Floor 7 (Outsider Relations) is active under Lead Ishall.
+Day 17 concludes Batch 1 with our first full-scale **Tide Watch Ordeal**. Floor 7 (Outsider Relations) is active under Lead Ishall.
 
 Our managerial objective is reaching the 0.050-ton quota while preparing our best combat squads for a multi-floor clash against a Pale-damage monstrosity.
 
@@ -2370,7 +2370,7 @@ Shift energy hits **0.086 / 0.080 tons**! Quota surpassed!
 | Han Energy Harvested | 0.080 Tons | 0.086 Tons [MET]                |
 | Containment Breaches | 0 Breaches Max | 0 Breaches [CLEARED]        |
 | Personnel Casualties | 0 Fatalities | 0 Fatalities [PERFECT]        |
-| Noon Ordeal Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]      |
+| Watch 2 Ordeal Clear | 1/1 Suppressed | 100% Rate [RESOLVED]        |
 | Meltdowns Cleared | 4/4 Cleared | 100% Rate [NEUTRALIZED]           |
 +---------------------------------------------------------------------+
 | SHIFT PERFORMANCE GRADE: GRADE S (SUPREME DISPATCH)                 |
@@ -2486,7 +2486,7 @@ The Day 25 shift commences under heightened industrial pressure. Daily collectio
 
 Operational priorities for Day 25:
 1. Conduct high-pressure containment on **SE-C-IIIγ-145** (*Garden of Thorns*) and **SE-C-IIIγ-033** (*The Guarding Bird*).
-2. Suppress the anticipated Amber Noon Ordeal along Floor 2's lower trench.
+2. Suppress the anticipated Amber Second Watch Ordeal along Floor 2's lower trench.
 3. Finalize Batch 1 promotions and armaments for the frontline vanguard.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles

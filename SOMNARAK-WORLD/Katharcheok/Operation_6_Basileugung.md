@@ -250,7 +250,7 @@ The forty thousand Echoes ignited in a blinding blaze of Crimson Grudge! The Hol
 +---------------------------------------------------------------------+
 | APEX TARGET        : Grand Patriarch Cheon ('The Sunken King')      |
 | MODULAR WEAPON : Crown Scepter Weapon Arm (Heavy Blunt/Pale Shock)  |
-| CONTRABAND ENTITY : SE-C-IIIγ-490 'The Hollow Knight' (ALEPH        |
+| CONTRABAND ENTITY : SE-C-IIIγ-490 'The Hollow Knight' (Rank III     |
 | Threat)                                                             |
 | ESCORT MINIONS     : Royal Guard Enforcers (x2) & Heavy Spearmen    |
 | ENCOUNTER DOMAIN : Zone B Sunken Citadel Royal Throne Room (-350m)  |

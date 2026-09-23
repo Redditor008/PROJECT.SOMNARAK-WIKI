@@ -898,7 +898,7 @@ Shift parameters engaged for Day 117. Daily harvest quota climbs to **0.280 tons
 
 Operational priorities for Day 117:
 1. Maintain safe siphoning on **SE-C-Iα-008** (*The Maw*).
-2. Suppress the Amber Dusk Ordeal along Floor 2's basalt siphon vault.
+2. Suppress the Amber Third Watch Ordeal along Floor 2's basalt siphon vault.
 3. Advance veteran operative proficiencies using the Four P-Framework.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles

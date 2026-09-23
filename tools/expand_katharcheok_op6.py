@@ -15,7 +15,7 @@ def get_op6_engagement():
     dossier_box = make_box("TARGET DOSSIER: GRAND PATRIARCH CHEON & SE-C-IIIγ-490", [
         "APEX TARGET        : Grand Patriarch Cheon ('The Sunken King')",
         "MODULAR WEAPON     : Crown Scepter Weapon Arm (Heavy Blunt/Pale Shock)",
-        "CONTRABAND ENTITY  : SE-C-IIIγ-490 'The Hollow Knight' (ALEPH Threat)",
+        "CONTRABAND ENTITY  : SE-C-IIIγ-490 'The Hollow Knight' (Rank III Threat)",
         "ESCORT MINIONS     : Royal Guard Enforcers (x2) & Heavy Spearmen",
         "ENCOUNTER DOMAIN   : Zone B Sunken Citadel Royal Throne Room (-350m)",
         "---",

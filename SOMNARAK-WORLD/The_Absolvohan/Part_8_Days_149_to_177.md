@@ -626,7 +626,7 @@ Agent Bae sat beneath the branches of SE-C-IIIγ-140 (*The Weeping Willow*), hum
 +=====================================================================+
 ```
 
-Two sleep-spirits manifest on Floor 2 during the Dusk Ordeal, radiating a heavy 95dB trance frequency down the gallery!
+Two sleep-spirits manifest on Floor 2 during the Third Watch Ordeal, radiating a heavy 95dB trance frequency down the gallery!
 
 Director Majin establishes GBS tactical parameters for melodic pacification:
 
@@ -804,7 +804,7 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 +=====================================================================+
 ```
 
-Two sleep-spirits manifest on Floor 2 during the Dusk Ordeal, radiating a heavy 95dB trance frequency down the gallery!
+Two sleep-spirits manifest on Floor 2 during the Third Watch Ordeal, radiating a heavy 95dB trance frequency down the gallery!
 
 Director Majin establishes GBS tactical parameters for melodic pacification:
 
@@ -866,7 +866,7 @@ Director Majin establishes GBS tactical parameters for melodic pacification:
 +=====================================================================+
 ```
 
-Two sleep-spirits manifested on Floor 2 during the Dusk Ordeal. Instead of clashing, Agent Shin sang the final verse of *Sleep Under the Willow*. The spirits bowed respectfully toward the Maw, dissolving into clear, blessed mineral water without conflict.
+Two sleep-spirits manifested on Floor 2 during the Third Watch Ordeal. Instead of clashing, Agent Shin sang the final verse of *Sleep Under the Willow*. The spirits bowed respectfully toward the Maw, dissolving into clear, blessed mineral water without conflict.
 
 #### 6. End-of-Day Shift Evaluation Index
 
@@ -1067,7 +1067,7 @@ Agent Han performed *Viderehan* observation inside Chamber 031 (*The Observing B
 +=====================================================================+
 ```
 
-A Midnight Ordeal manifests as a celestial avian silhouette in the central rotunda of Floor 2, shimmering with pure, transmutative Pale light!
+A Tide Watch Ordeal manifests as a celestial avian silhouette in the central rotunda of Floor 2, shimmering with pure, transmutative Pale light!
 
 Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 
@@ -1248,7 +1248,7 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 +=====================================================================+
 ```
 
-A Midnight Ordeal manifests as a celestial avian silhouette in the central rotunda of Floor 2, shimmering with pure, transmutative Pale light!
+A Tide Watch Ordeal manifests as a celestial avian silhouette in the central rotunda of Floor 2, shimmering with pure, transmutative Pale light!
 
 Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 
@@ -1313,7 +1313,7 @@ Director Majin establishes GBS tactical parameters in the Bird Rotunda:
 +=====================================================================+
 ```
 
-A Midnight Ordeal manifested as a celestial avian silhouette in the central rotunda of Floor 2. Agents Han and Song harmonized their voices with the construct, which bowed gracefully and dissolved into the ceiling conduits, charging the facility's accumulators with pure Pale energy.
+A Tide Watch Ordeal manifested as a celestial avian silhouette in the central rotunda of Floor 2. Agents Han and Song harmonized their voices with the construct, which bowed gracefully and dissolved into the ceiling conduits, charging the facility's accumulators with pure Pale energy.
 
 #### 6. End-of-Day Shift Evaluation Index
 
@@ -1520,7 +1520,7 @@ Agent Yoon entered Chamber 15, kneeling before the towering, glowing form of **T
 +=====================================================================+
 ```
 
-A Midnight Ordeal manifests as a crown of twelve glowing halos above the research hub, radiating high-order Pale cleansing pulses!
+A Tide Watch Ordeal manifests as a crown of twelve glowing halos above the research hub, radiating high-order Pale cleansing pulses!
 
 Director Majin establishes GBS tactical parameters in the Insight Forge:
 
@@ -1696,7 +1696,7 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 +=====================================================================+
 ```
 
-A Midnight Ordeal manifests as a crown of twelve glowing halos above the research hub, radiating high-order Pale cleansing pulses!
+A Tide Watch Ordeal manifests as a crown of twelve glowing halos above the research hub, radiating high-order Pale cleansing pulses!
 
 Director Majin establishes GBS tactical parameters in the Insight Forge:
 
@@ -1759,7 +1759,7 @@ Director Majin establishes GBS tactical parameters in the Insight Forge:
 +=====================================================================+
 ```
 
-A Midnight Ordeal manifested as a crown of twelve glowing halos above the research hub. Ayshuk stepped into the center of the light, raising her arms. The halos gently descended, settling onto the heads of the twelve apostles and dissolving the anomaly into radiant peace.
+A Tide Watch Ordeal manifested as a crown of twelve glowing halos above the research hub. Ayshuk stepped into the center of the light, raising her arms. The halos gently descended, settling onto the heads of the twelve apostles and dissolving the anomaly into radiant peace.
 
 #### 6. End-of-Day Shift Evaluation Index
 
@@ -1965,7 +1965,7 @@ Agent Shin performed the final scheduled *Flerehan* harvest from the Maw. The cl
 +=====================================================================+
 ```
 
-A Midnight Ordeal manifests as a luminous cloud of Pale energy settling over the twelve release valves at the facility wellhead!
+A Tide Watch Ordeal manifests as a luminous cloud of Pale energy settling over the twelve release valves at the facility wellhead!
 
 Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node grid:
 
@@ -2148,7 +2148,7 @@ Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node g
 +=====================================================================+
 ```
 
-A Midnight Ordeal manifests as a luminous cloud of Pale energy settling over the twelve release valves at the facility wellhead!
+A Tide Watch Ordeal manifests as a luminous cloud of Pale energy settling over the twelve release valves at the facility wellhead!
 
 Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node grid:
 
@@ -2209,7 +2209,7 @@ Director Majin coordinates the Eight-Lead Echo-Core convergence on the 10-node g
 +=====================================================================+
 ```
 
-A Midnight Ordeal manifested as a luminous cloud of Pale energy that settled over the twelve release valves. All eight leads joined their auras, condensing the cloud into liquid golden lubricant that coated the valve pistons, ensuring friction-free release.
+A Tide Watch Ordeal manifested as a luminous cloud of Pale energy that settled over the twelve release valves. All eight leads joined their auras, condensing the cloud into liquid golden lubricant that coated the valve pistons, ensuring friction-free release.
 
 #### 6. End-of-Day Shift Evaluation Index
 

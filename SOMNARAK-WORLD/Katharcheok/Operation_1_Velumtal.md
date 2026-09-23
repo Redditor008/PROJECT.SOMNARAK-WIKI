@@ -11,7 +11,7 @@
 | **Primary Target** | Boss Gwangseok ("The Mask Weaver") & Master Artisan Yeon-woo |
 | **Deploying Unit** | The Six Strike Officers of the Joint Task Force (Full Cadre) |
 | **Transport Rig** | Class-II Armored Riot Cruiser *The Iron Vanguard* |
-| **Contraband Entity Threat**| SECC-019 "The False Shroud" (TETH/HE Contraband Sorrow Entity) |
+| **Contraband Entity Threat**| SECC-019 "The False Shroud" (Rank II/III Contraband Sorrow Entity) |
 
 > *"The Veil is supposed to protect humanity from the weeping outside. But when the Council taxes safety until only the wealthy can breathe, men like Gwangseok turn grief into a counterfeit trade. A false veil does not stop the sorrow; it merely hides the face of the one who is suffocating."*  
 > — Commander Taeho, Pre-Breach Tactical Address, Mantle Commons Ingress
@@ -131,7 +131,7 @@ Minho approached the huddled laborers, speaking with calm, practiced reassurance
 
 Auditor Yuna walked along the primary workbench, picking up a half-carved stone from an iron vice. She tapped the stone with her caliper staff, analyzing the crystal structure on her forensic monocle.
 
-"Disgraceful," Yuna muttered, her brow furrowing. "Porous mudstone from the Zone B drainage quarries. They soak it in chemical dye to match the violet hue of Grade WAW stones, then inject liquid sorrow into the micro-fissures using hydraulic needles. The moment the dye reacts with ambient body heat, the stone begins to degrade."
+"Disgraceful," Yuna muttered, her brow furrowing. "Porous mudstone from the Zone B drainage quarries. They soak it in chemical dye to match the violet hue of Grade-γ stones, then inject liquid sorrow into the micro-fissures using hydraulic needles. The moment the dye reacts with ambient body heat, the stone begins to degrade."
 
 A door at the back of the workshop creaked open. An elderly woman with silver-streaked hair, wearing a jeweler's apron covered in ink and acid burns, stepped out into the hall, her hands raised.
 
@@ -215,7 +215,7 @@ Gwangseok leveled his massive forging hammer, the pneumatic pistons hissing with
 +---------------------------------------------------------------------+
 | CONTRABAND ENTITY PROFILE (SECC-019):                               |
 | - Entity HP Pool   : 2,400 HP | Posture Pool: 180/180               |
-| - Entity Threat    : TETH/HE Sub-Municipal Contraband               |
+| - Entity Threat    : Rank II/III Sub-Municipal Contraband           |
 | - Attack Affinity  : Grief Vapor Shroud (Psychic / Pale Delusion)   |
 +=====================================================================+
 ```
@@ -633,7 +633,7 @@ Twenty minutes later, the squad climbed the stone stairs to the street level. As
 | **Counterfeit Veil Stones** | 450 finished units (Mudstone/Resin) | Confiscated; slated for high-heat incinerator destruction |
 | **Lapidary Forging Presses** | 12 pneumatic hydraulic stamping rigs | Demolished on-site by Division 05 sapping charges |
 | **Unrefined Sorrow Brine** | 1,400 liters of diluted Crimson Han | Secured into leaded tankers; transferred to R.D. Facility 01 |
-| **Contraband Sorrow Entity** | SECC-019 "The False Shroud" (TETH-grade)| Sealed in Class-IV Cask; routed to R.D. Floor 2 (Maw's Keep)|
+| **Contraband Sorrow Entity** | SECC-019 "The False Shroud" (Rank II Murmur)| Sealed in Class-IV Cask; routed to R.D. Floor 2 (Maw's Keep)|
 | **Syndicate Master Ledger** | 3 bound volumes + encrypted hard drive | Transferred to Auditor Yuna & Keepers Archive custody |
 | **Illicit Currency Seizure** | 840,000 Municipal Scrips (Cash/Notes) | Deposited into Zone D Citizen Emergency Relief Fund |
 

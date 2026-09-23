@@ -46,7 +46,7 @@ Tier 3 organisms—**Mortal Sorrow Entities (생멸한령)**—are conceptual so
 1. **Animal/Plant Origin**: They are formed from the instinctive, non-philosophical trauma of dying animals (slaughter, panic, predation) or defoliated plant ecosystems.
 2. **Biological Instinct Emulation**: They behave strictly like wild beasts or reactive flora. They do not formulate philosophical doctrines or demand symbolic work types; they hunt, nest, or strangle.
 3. **Permanent Mortality**: When their physical vessel is destroyed by kinetic, thermal, or M.A.W. weaponry, they die permanently. They do not enter an immortal containment recovery loop.
-4. **Strict Grade-β Potency Cap**: Because animal grief is immediate and instinctive rather than existential, their energy yield cannot sustain high-tier (HE, WAW, ALEPH) manifestations. They are strictly capped at Moderate Potency (Grade β).
+4. **Strict Grade-β Potency Cap**: Because animal grief is immediate and instinctive rather than existential, their energy yield cannot sustain high-tier (Rank III Fragment, Rank IV Entity, Rank V Sovereign) manifestations. They are strictly capped at Moderate Potency (Grade β).
 
 ---
 

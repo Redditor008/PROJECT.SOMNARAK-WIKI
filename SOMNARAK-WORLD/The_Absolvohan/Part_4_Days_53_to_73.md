@@ -127,7 +127,7 @@ Four high-threat chambers flashing! Director Majin immediately coordinates the r
 
 All cells stabilized with 15 seconds remaining! Meltdown cleared with zero leaks.
 
-##### Ordeal Manifestation: Green Dusk Ordeal — The Siphon Spires
+##### Ordeal Manifestation: Green Third Watch Ordeal — The Siphon Spires
 
 At 0.180 tons harvested, the floor vents shudder. Two colossal clockwork spires burst through Floor 2 and Floor 4:
 
@@ -557,7 +557,7 @@ Director Majin triggers the central command console:
 
 All five sectors stabilized with 11 seconds remaining! Zero breaches.
 
-##### Ordeal Manifestation: Crimson Dusk Ordeal — The Blood-Tide Shrouds
+##### Ordeal Manifestation: Crimson Third Watch Ordeal — The Blood-Tide Shrouds
 
 At 0.210 tons collected, crimson fluid seeps through Floor 7's outer walls. Three colossal shroud apparitions materialize:
 
@@ -981,7 +981,7 @@ A double meltdown on *The Lost Prince* and *Garden of Thorns*! If Thorns breache
 
 Both sectors cleared with 14 seconds to spare! Crisis averted.
 
-##### Ordeal Manifestation: Amber Dusk Ordeal — The Tremor Spiders
+##### Ordeal Manifestation: Amber Third Watch Ordeal — The Tremor Spiders
 
 At 0.225 tons collected, subterranean arachnids burst through Floor 5's ventilation shafts:
 
@@ -1408,7 +1408,7 @@ At work check 16, six chambers overload simultaneously:
 
 Director Majin engages **ACOUSTIC SIPHON** from Central Command: Channels 40% of the acoustic load into Floor 8's ballast tanks, instantly clearing Chambers 008 and 115! The remaining four chambers are swept by Agents Hwang, Song, Bae, and Park in under 20 seconds. Zero breaches!
 
-##### Ordeal Manifestation: Violet Dusk Ordeal — The Floating Spires
+##### Ordeal Manifestation: Violet Third Watch Ordeal — The Floating Spires
 
 At 0.240 tons collected, three levitating monoliths materialize across Floors 1, 4, and 7, firing cross-floor Void death-rays!
 
@@ -1739,7 +1739,7 @@ Shift parameters engaged for Day 69. Daily collection quota increases to **0.200
 
 Operational priorities for Day 69:
 1. Conduct safe containment on **SE-C-IIIγ-102** (*The Dancing Chains*).
-2. Suppress the Amber Dusk Ordeal along Floor 7's subterranean vent core.
+2. Suppress the Amber Third Watch Ordeal along Floor 7's subterranean vent core.
 3. Lock the bedrock foundation to prevent Maw seepage.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles

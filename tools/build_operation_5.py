@@ -371,7 +371,7 @@ Echo released their harness clamp, dropping soundlessly onto a basalt lintel six
 
 At two hundred and forty meters depth, the squad breached the iron gates of the holding menagerie.
 
-The sight made Soojin gasp in horror. The cavernous basalt hall was divided into dozens of reinforced iron cages. Inside were twelve juvenile Sorrow Entities—TETH and ZAYIN grade fragments whimpering in the dark. Several had crude copper shock collars clamped around their ethereal forms, while others were chained to heavy lead anchors.
+The sight made Soojin gasp in horror. The cavernous basalt hall was divided into dozens of reinforced iron cages. Inside were twelve juvenile Sorrow Entities—Rank II (Murmur) and Rank I (Whisper) grade fragments whimpering in the dark. Several had crude copper shock collars clamped around their ethereal forms, while others were chained to heavy lead anchors.
 
 "They are terrified," Minho murmured, his silver lancet vibrating with the sympathetic resonance of their weeping. "They are not feral by nature—they have been driven mad by constant electric shock and confinement."
 

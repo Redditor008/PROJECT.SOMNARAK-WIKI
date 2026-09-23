@@ -157,7 +157,7 @@ def generate_day_21():
         "Han Energy Harvested   | 0.080 Tons     | 0.086 Tons [MET]",
         "Containment Breaches   | 0 Breaches Max | 0 Breaches [CLEARED]",
         "Personnel Casualties   | 0 Fatalities   | 0 Fatalities [PERFECT]",
-        "Noon Ordeal Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]",
+        "Second Watch Ordeal Suppressed | 1/1 Suppressed | 100% Rate [RESOLVED]",
         "Meltdowns Cleared      | 4/4 Cleared    | 100% Rate [NEUTRALIZED]",
         "-----------------------+----------------+---------------------",
         "SHIFT PERFORMANCE GRADE: GRADE S (SUPREME DISPATCH)",
@@ -611,7 +611,7 @@ The Day 25 shift commences under heightened industrial pressure. Daily collectio
 
 Operational priorities for Day 25:
 1. Conduct high-pressure containment on **SE-C-IIIγ-145** (*Garden of Thorns*) and **SE-C-IIIγ-033** (*The Guarding Bird*).
-2. Suppress the anticipated Amber Noon Ordeal along Floor 2's lower trench.
+2. Suppress the anticipated Amber Second Watch Ordeal along Floor 2's lower trench.
 3. Finalize Batch 1 promotions and armaments for the frontline vanguard.
 
 #### 1. Pre-Shift Tactical Deployment & Operative Profiles

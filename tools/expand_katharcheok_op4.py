@@ -15,7 +15,7 @@ def get_op4_engagement():
     dossier_box = make_box("TARGET DOSSIER: HIGH USURER MAN-SIK & SE-C-IIIβ-015 'DEBT SCALE'", [
         "APEX TARGET        : High Usurer Man-sik ('The Golden Shylock')",
         "MODULAR WEAPON     : Electrified Foreclosure Cudgel (Heavy Blunt/Shock)",
-        "CONTRABAND ENTITY  : SE-C-IIIβ-015 'The Debt Scale' (WAW Threat / Debt Scale)",
+        "CONTRABAND ENTITY  : SE-C-IIIβ-015 'The Debt Scale' (Rank III / Debt Scale)",
         "ESCORT MINIONS     : Gilded Mercenaries (x2) & Pneumatic Coin-Gunners",
         "ENCOUNTER DOMAIN   : Zone C Usury Vaults & Gold Siphon (-180m Depth)",
         "---",

@@ -162,7 +162,7 @@ box_larvae_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
     "4. OUTCOME             : ZERO AGENT CASUALTIES, +14 RHR HARVESTED."
 ])
 
-old_larvae = """Ordeal Manifestation: Crimson Noon Ordeal — The Sanguine Larvae
+old_larvae = """Ordeal Manifestation: Crimson Second Watch Ordeal — The Sanguine Larvae
 At 0.125 tons harvested, the floor vents rupture. Four chitinous red insectoids crawl from the drainage grates of Floor 3:
 
 ```text
@@ -173,7 +173,7 @@ At 0.125 tons harvested, the floor vents rupture. Four chitinous red insectoids 
 
 Kang charges into the corridor, swinging his wide-arc greatsword to cleave three larvae in a single sweep! Song follows up with kinetic cleavers, crushing the fourth before it can latch onto the extraction conduits. Zero breach leaks. Energy quota safe!"""
 
-new_larvae = f"""Ordeal Manifestation: Crimson Noon Ordeal — The Sanguine Larvae
+new_larvae = f"""Ordeal Manifestation: Crimson Second Watch Ordeal — The Sanguine Larvae
 At 0.125 tons harvested, the floor vents rupture. Four chitinous red insectoids crawl from the drainage grates of Floor 3:
 
 ```text

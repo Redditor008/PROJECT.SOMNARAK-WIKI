@@ -145,7 +145,14 @@ def audit_sorrow_entities():
 
     files = [f for f in os.listdir(folder) if f.endswith(".md") and f != "README.md"]
     by_code = {}
-    tier_counts = {"ZAYIN": 0, "TETH": 0, "HE": 0, "WAW": 0, "ALEPH": 0, "Other": 0}
+    rank_counts = {
+        "Rank I (Whisper)": 0,
+        "Rank II (Murmur)": 0,
+        "Rank III (Fragment)": 0,
+        "Rank IV (Entity)": 0,
+        "Rank V (Sovereign)": 0,
+        "Other": 0
+    }
 
     for f in files:
         m = re.match(r"(SE-[A-Z]-[I|V|X]+[α-ω]?-\d+|SE-\d+|[A-Z0-9-]+)_", f)
@@ -153,17 +160,17 @@ def audit_sorrow_entities():
         by_code.setdefault(code, []).append(f)
 
         if "-Iα" in f or "-Iβ" in f or "-Iγ" in f or "-Iδ" in f or "-I-" in f:
-            tier_counts["ZAYIN"] += 1
+            rank_counts["Rank I (Whisper)"] += 1
         elif "-IIα" in f or "-IIβ" in f or "-IIγ" in f or "-IIδ" in f or "-II-" in f:
-            tier_counts["TETH"] += 1
+            rank_counts["Rank II (Murmur)"] += 1
         elif "-IIIα" in f or "-IIIβ" in f or "-IIIγ" in f or "-IIIδ" in f or "-III-" in f:
-            tier_counts["HE"] += 1
+            rank_counts["Rank III (Fragment)"] += 1
         elif "-IVα" in f or "-IVβ" in f or "-IVγ" in f or "-IVδ" in f or "-IV-" in f:
-            tier_counts["WAW"] += 1
+            rank_counts["Rank IV (Entity)"] += 1
         elif "-Vα" in f or "-Vβ" in f or "-Vγ" in f or "-Vδ" in f or "-V-" in f:
-            tier_counts["ALEPH"] += 1
+            rank_counts["Rank V (Sovereign)"] += 1
         else:
-            tier_counts["Other"] += 1
+            rank_counts["Other"] += 1
 
     paired_codes = {k: v for k, v in by_code.items() if len(v) > 1}
 
@@ -172,7 +179,7 @@ def audit_sorrow_entities():
         "total_files": len(files),
         "unique_entity_codes": len(by_code),
         "paired_codes_count": len(paired_codes),
-        "tier_distribution": tier_counts,
+        "tier_distribution": rank_counts,
     }
 
 
@@ -269,7 +276,7 @@ def main():
 
     print(f"2. Macro-Canon Codices    : {macro_res['status']} ({macro_res['found_codices']} / {macro_res['expected_codices']} master codices: {macro_res['found_in_world']} in-world, {macro_res['found_editorial']} editorial standards)")
     print(f"3. Sorrow Entities        : {se_res['status']} ({se_res['total_files']} files, {se_res['unique_entity_codes']} unique codes, {se_res['paired_codes_count']} paired)")
-    print(f"   Tier breakdown         : {se_res['tier_distribution']}")
+    print(f"   Rank breakdown         : {se_res['tier_distribution']}")
     print(f"4. M.A.W. Equipment Sets   : {maw_res['status']} ({maw_res['complete_sets']} / {maw_res['total_sets']} complete quadripartite sets)")
     if args.verbose and maw_res["incomplete_sets"]:
         print("   Incomplete sets:")

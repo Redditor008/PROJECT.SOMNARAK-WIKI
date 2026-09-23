@@ -15,7 +15,7 @@ def get_op3_engagement():
     dossier_box = make_box("TARGET DOSSIER: WARLORD BOKNAM & SE-C-IIIγ-120 'RAGE CAGE'", [
         "APEX TARGET        : Warlord Boknam ('The Meat Hook Baron')",
         "MODULAR WEAPON     : Pneumatic Harvest Hook Arm (Heavy Slash/Snare)",
-        "CONTRABAND ENTITY  : SE-C-IIIγ-120 'Rage Cage' (WAW Threat / Redcage)",
+        "CONTRABAND ENTITY  : SE-C-IIIγ-120 'Rage Cage' (Rank III Threat / Redcage)",
         "ESCORT MINIONS     : Siphon Enforcers (x2) & Slag Bone-Sawyers",
         "ENCOUNTER DOMAIN   : Zone B Low Sinks Sub-Abattoir (-120m Depth)",
         "---",

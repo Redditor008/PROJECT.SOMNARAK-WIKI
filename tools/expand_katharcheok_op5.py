@@ -15,7 +15,7 @@ def get_op5_engagement():
     dossier_box = make_box("TARGET DOSSIER: BEASTMASTER JAGYEON & SE-C-IIIγ-102", [
         "APEX TARGET        : Beastmaster Jagyeon ('The Arena Patriarch')",
         "MODULAR WEAPON     : Harmonic Shock Whip (High-Voltage Electric/Slash)",
-        "CONTRABAND ENTITY  : SE-C-IIIγ-102 'Chained Frenzy' (WAW Threat / Dancing Chains)",
+        "CONTRABAND ENTITY  : SE-C-IIIγ-102 'Chained Frenzy' (Rank III / Dancing Chains)",
         "ESCORT MINIONS     : Pit Gladiators (x2) & Barbed Harpooners",
         "ENCOUNTER DOMAIN   : Zone D & E Colosseum Arena & Cages (-260m Depth)",
         "---",

@@ -3,7 +3,7 @@
 tools/expand_absolvohan_battles_part3_remaining.py
 Expands remaining Ordeals in SOMNARAK-WORLD/The_Absolvohan/Part_3_Days_29_to_49.md:
 1. Third Watch (Dusk) Ordeal — The Gilded Drowners
-2. Amber Dusk Ordeal — The Churning Hive
+2. Amber Third Watch Ordeal — The Churning Hive
 3. The Midnight Herald — First Glimpse of the Sovereign Watch
 """
 
@@ -64,7 +64,7 @@ box_drowners_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
 ])
 
 old_drowners = """##### Ordeal Manifestation: Third Watch (Dusk) Ordeal — The Gilded Drowners
-At 0.145 tons harvested, the facility's emergency sirens shift from amber to violet. A Dusk Ordeal has arrived:
+At 0.145 tons harvested, the facility's emergency sirens shift from amber to violet. A Third Watch Ordeal has arrived:
 
 ```text
 > ORDEAL WARNING: DUSK ORDEAL — THE GILDED DROWNERS (VIOLET DUSK)
@@ -80,7 +80,7 @@ This requires split suppression teams:
 All three monoliths collapse simultaneously into inert slag! +22 RHR reagents collected!"""
 
 new_drowners = f"""##### Ordeal Manifestation: Third Watch (Dusk) Ordeal — The Gilded Drowners
-At 0.145 tons harvested, the facility's emergency sirens shift from amber to violet. A Dusk Ordeal has arrived:
+At 0.145 tons harvested, the facility's emergency sirens shift from amber to violet. A Third Watch Ordeal has arrived:
 
 ```text
 +==============================================+
@@ -139,7 +139,7 @@ else:
     print("Could not find Gilded Drowners section!")
 
 # -------------------------------------------------------------
-# 2. Amber Dusk Ordeal — The Churning Hive
+# 2. Amber Third Watch Ordeal — The Churning Hive
 # -------------------------------------------------------------
 box_hive_hud = make_box("COMBAT HUD: PHASE 01 — BATTLE TURN 01 (AMBER DUSK)", [
     "[STAGE] : [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]",
@@ -167,7 +167,7 @@ box_hive_phase = make_box("PHASE 01 RESOLUTION (PHASE-END TICK)", [
     "4. OUTCOME             : ZERO AGENT CASUALTIES, +25 REFINED RHR SECURED."
 ])
 
-old_hive = """##### Ordeal Manifestation: Amber Dusk Ordeal — The Churning Hive
+old_hive = """##### Ordeal Manifestation: Amber Third Watch Ordeal — The Churning Hive
 At 0.165 tons collected, the subterranean bedrock shudders. Colossal segmented centipedes burst through the flagstones of Floor 5 and Floor 6:
 
 ```text
@@ -178,7 +178,7 @@ At 0.165 tons collected, the subterranean bedrock shudders. Colossal segmented c
 
 Mellda activates *Iron Perimeter* at maximum aperture, holding the two primary burrowers in the doorway. Agent Hwang circles around their rear flanks, using the *Blessed Scalpel*'s rapid Void strikes to pierce their chitinous armor plates. In 25 seconds of blistering combat, the queen burrower dissolves into crystallized Han dust! +25 RHR reagents secured!"""
 
-new_hive = f"""##### Ordeal Manifestation: Amber Dusk Ordeal — The Churning Hive
+new_hive = f"""##### Ordeal Manifestation: Amber Third Watch Ordeal — The Churning Hive
 At 0.165 tons collected, the subterranean bedrock shudders. Colossal segmented centipedes burst through the flagstones of Floor 5 and Floor 6:
 
 ```text
