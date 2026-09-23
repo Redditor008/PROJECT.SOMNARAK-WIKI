@@ -1,6 +1,6 @@
 # SOMNARAK-WORLD — Canonical In-Universe Lore Archive
 
-**Repository:** `SOMNARAK-WORLD/`
+**Archive Sector:** `SOMNARAK-WORLD/`
 **Temporal Setting:** Year 4,238 · Dawn Initiative Epoch
 **Issuing Authority:** The Reverie Directorate (몽환국) & Facility 01 Central Command
 **Archive Classification:** LEVEL 5 / REVERIE DIRECTORATE CENTRAL ARCHIVE
@@ -27,7 +27,7 @@ Somnarak is a towering subterranean and surface metropolis of 1.29 billion souls
 
 ---
 
-## In-World Repository Directory Structure
+## Master Archive Directory Structure
 
 ```
 SOMNARAK-WORLD/
@@ -118,8 +118,6 @@ SOMNARAK-WORLD/
 
 ---
 
-## Archival Boundary Notice
+## Archival Classification Notice
 
-This directory (`SOMNARAK-WORLD/`) is strictly reserved for canonical documents written as in-world artifacts.
-
-Out-of-universe development manuals, authoring name registries, audit manifests, transfer percentage reports, and cross-session handoff protocols are located in **`REFERENCE_SOMNARAK_WIKI/`** at the repository root.
+This archive (`SOMNARAK-WORLD/`) is strictly reserved for canonical documents authorized by the Sovereign Council of Sighs and the Five Sovereign Wings. All materials contained herein are authenticated records of municipal, expeditionary, and containment reality. Classified under Sovereign Archival Protocol 01.

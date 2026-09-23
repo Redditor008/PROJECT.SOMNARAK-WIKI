@@ -8,7 +8,7 @@
 
 ## Overview
 
-The `Master_Codices/` repository contains the foundational canonical source texts of Project Somnarak. These texts define the entire macro-cosmology, metaphysics, geopolitical structures, combat physics, facility operations, and societal laws of Somnarak — the City of Unresolved Sorrow.
+The `Master_Codices/` archive contains the foundational canonical source texts of Project Somnarak. These texts define the entire macro-cosmology, metaphysics, geopolitical structures, combat physics, facility operations, and societal laws of Somnarak — the City of Unresolved Sorrow.
 
 Every Sorrow Entity dossier, M.A.W. equipment entry, dialogue script, and district narrative derives directly from the rules established in these foundational files.
 
@@ -18,7 +18,7 @@ Following the universal canonical organization, all master codices are structure
 
 ## Canonical Master Blueprints (Repository Root)
 
-The repository root houses the two official primary cartographic and architectural vector blueprints of the Somnarak universe:
+The archive root houses the two official primary cartographic and architectural vector blueprints of the Somnarak universe:
 
 ### 1. `SOMNARAK_CITY_LAYOUT.svg` — Somnarak Metropolitan Cartography (솜나락 전역 구역도)
 - **Topological Coordinate:** 37°28'N • Active Grid • Omega-Level Authority • Year 4,238.

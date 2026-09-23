@@ -8,7 +8,7 @@
 
 ## Overview
 
-The `Ordeals/` repository contains suppression protocols, wave threat analyses, and behavioral profiles for **Ordeals (시련)**—cyclical anomalous incursions that manifest throughout Facility 01 at scheduled operational intervals.
+The `Ordeals/` archive contains suppression protocols, wave threat analyses, and behavioral profiles for **Ordeals (시련)**—cyclical anomalous incursions that manifest throughout Facility 01 at scheduled operational intervals.
 
 Ordeals are divided into **Five Color Spectrums** (matching metaphysical sorrow elements) and **Four Watches** (chronological threat phases).
 

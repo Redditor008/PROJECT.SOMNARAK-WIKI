@@ -8,7 +8,7 @@
 
 ## Overview
 
-The `Echo_Cores/` repository contains deep psychological, historical, and combat dossiers for the **Nine Echo-Cores (메아리 핵)**—the departmental directors who govern the subterranean sectors of Facility 01 ("The Hand of Change").
+The `Echo_Cores/` archive contains deep psychological, historical, and combat dossiers for the **Nine Echo-Cores (메아리 핵)**—the departmental directors who govern the subterranean sectors of Facility 01 ("The Hand of Change").
 
 Each Echo-Core represents a fundamental aspect of human will, endurance, and sorrow-management, bound to the facility's central extraction architecture to preserve civic stability across the 1,778 Cycles.
 
@@ -57,7 +57,7 @@ The Directorate enforces a strict distinction across the personal arsenals and s
 
 ## Dossier Structure Standards
 
-Each file in this repository adheres to standardized archival guidelines:
+Each file in this archive adheres to standardized archival guidelines:
 1. **Executive Identity & Visual Profile:** Formal designation, attire, posture, and resonance artifacts.
 2. **True Look Effigy Classification:** Strict categorization (Android 0% biology, Cyborg 40–55% biology, Cryogen ~80% chassis with stasis core, Human deathless fusion).
 3. **Dual-Paragraph Appearance Standard:** Dedicated appearance subsections structured with Paragraph 1 (20–48 simple words) and Paragraph 2 (20–66 detailed words, SVG-ready anchors), separated by a blank line.

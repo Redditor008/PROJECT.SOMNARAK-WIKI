@@ -8,7 +8,7 @@
 
 ## Overview
 
-The `Sorrow_Entities/` repository houses the official containment files, work-affinity responses, breach behavior protocols, and origin tales for all registered **Sorrow Entities (슬픔의 실체)** cataloged by the Reverie Directorate.
+The `Sorrow_Entities/` archive houses the official containment files, work-affinity responses, breach behavior protocols, and origin tales for all registered **Sorrow Entities (슬픔의 실체)** cataloged by the Reverie Directorate.
 
 Sorrow Entities are metaphysical anomalies crystallized from concentrated human regret, generational trauma, and the liquid Han flowing beneath Somnarak. Each entity is assigned a permanent SECC designation, containment sector, risk classification, and elemental affinity.
 
