@@ -1,11 +1,16 @@
 #!/usr/bin/env python3
 """
-Generate SOMNARAK_GEOLOGY.md with perfect text-box symmetry,
+Generate SOMNARAK_GEOLOGY.md with perfect text-box symmetry (71 cols),
 zero HTML tags, zero dollar signs, and exhaustive in-universe lore.
+Categorizes the Three Primary Sovereign Geological Domains:
+1. The Consoling Untouched Ocean [ConHeAn]
+2. Numbing Frozen Tundra [NuRoZen]
+3. Untouched Wild Land [UnWiHan]
+Followed by the Natural Planetary Geography Landmarks:
+The Sorrow Lake, The Crystal Peaks, The Sea of Glass, and Mantle Terraces.
 """
 
 def make_box(width, title, lines):
-    # width is total line length including borders
     inner_width = width - 4
     out = []
     top_border = "+" + "-" * (width - 2) + "+"
@@ -33,25 +38,24 @@ def build_geology_md():
         "Security Tier     : Sovereign Council Archive - Class I"
     ])
 
-    box2 = make_box(71, "TERRITORIAL QUADRANT DISTRIBUTION - THE FOUR CORNERS", [
-        "Corner 1 (Cheonji)   : Somnarak Sovereign Urban Basin (127.5M km2)",
-        "Corner 2 (Cheonbulok): Forge Bastion & Foundries (127.5M km2)",
-        "Corner 3 (Mugeukji)  : Numbing Frozen Tundra & Polar Cap (127.5M)",
-        "Corner 4 (UnWiHan)   : Consoling Untouched Ocean & Wilds (127.5M)",
-        "Central Transit      : Sea of Glass Vitrified Transport Route",
-        "Endorheic Sink       : The Sorrow Lake (Sub-Surface Concentrated)"
+    box2 = make_box(71, "THE THREE PRIMARY SOVEREIGN GEOLOGICAL MACRO-DOMAINS", [
+        "Domain 01 [ConHeAn]: Consoling Untouched Ocean (Primordial Basin)",
+        "Domain 02 [NuRoZen]: Numbing Frozen Tundra (Polar Cryo-Cap)",
+        "Domain 03 [UnWiHan]: Untouched Wild Land (Primordial Wilderness)",
+        "Tectonic Equilibrium: Global 432 Hz to 528 Hz Acoustic Veins",
+        "Sovereign Status   : Planetary Sanctuaries & Non-Interference Zones"
     ])
 
-    box3 = make_box(71, "SPECIAL ENVIRONMENTAL ZONES - CANONICAL FIELD ANCHORS", [
-        "Zone [ConHeAn]    : Consoling Untouched Ocean (Primordial Basin)",
-        "Zone [NuRoZen]    : Numbing Frozen Tundra (Polar Stasis Cap)",
-        "Feature Alpha     : The Sorrow Lake (Rising Lament Sink)",
-        "Feature Beta      : The Crystal Peaks (Acoustic Wind Barrier)",
-        "Feature Gamma     : The Sea of Glass (Vitrified Obsidian Corridor)",
-        "Feature Delta     : Mantle Terraces & Deep Agricultural Aquifers"
+    box3 = make_box(71, "NATURAL PLANETARY GEOGRAPHY LANDMARKS - REGIONAL ANCHORS", [
+        "Feature Alpha : The Sorrow Lake (Endorheic Concentrated Basin)",
+        "Feature Beta  : The Crystal Peaks (Alpine Acoustic Shield)",
+        "Feature Gamma : The Sea of Glass (Vitrified Obsidian Plain)",
+        "Feature Delta : Mantle Terraces & Deep Agricultural Aquifers",
+        "Corridor Zone : 2,400 km Trans-Desolate Caravan Trade Route"
     ])
 
     content = f"""# Planetary Geology & Macro-Terrain of Mugenhan
+## Macro-Tectonics, Sovereign Geological Domains, and Natural Landmarks
 
 ---
 
@@ -69,29 +73,18 @@ The planet's internal structure consists of:
 
 ## 2. Macro-Territorial Distribution: The Four Corners (Sabang)
 
-{box2}
 The planetary landmass is traditionally categorized across Four Sovereign Quadrants (사방 — Sabang), each spanning roughly 127,500,000 square kilometers:
-
-### 2.1 Corner 1: Cheonji — Somnarak Sovereign Basin
-The northwestern quadrant, anchored by the sovereign city of Somnarak and the massive biological-tectonic root network of the Alpha Tree. This quadrant features:
-- Extensive agrarian river valleys and terraced hills supporting over 70% traditional agriculture.
-- The 10 km Desolate buffer zone encircling the outer bastions of Zone E.
-- The deepest excavated subterranean strata (Fac-01 through Fac-05), penetrating into the ancient Cheongula fault lines.
-
-### 2.2 Corner 2: Cheonbulok — The Forge-Tectonic Bastion
-The eastern quadrant, defined by intense geothermal activity, volcanic basalt rifts, and heavy industrial foundries. It serves as the primary extraction center for raw kinetic metals and furnace coal, continually feeding industrial munitions to Corner 1 across the Sea of Glass.
-
-### 2.3 Corner 3: Mugeukji — The Northern Stasis Waste
-The polar quadrant, home to hyper-cryogenic permafrost plains, towering ice spires, and the vast expanse of the Numbing Frozen Tundra. Ambient kinetic activity drops to near-absolute zero, functioning as the planetary cryogenic sink where active sorrow is rendered inert through sheer cold.
-
-### 2.4 Corner 4: UnWiHan — The Virgin Wilderness & Untouched Ocean
-The southern and southeastern quadrant, characterized by wild, unpaved primordial ecosystems. Ancient old-growth forests, monumental river basins, and the endless expanse of The Consoling Untouched Ocean dominate this territory, entirely untouched by urban paving or corporate extraction.
+1. **Corner 1: Cheonji (Somnarak Sovereign Basin):** Urban fortress basin, agricultural river terraces (70% traditional agriculture), the 10 km Desolate buffer, and deep facility strata.
+2. **Corner 2: Cheonbulok (The Forge Bastion):** Geothermal tectonic rift valley, volcanic basalt plains, and heavy metallurgical foundries.
+3. **Corner 3: Mugeukji (The Northern Stasis Waste):** Polar hyper-cryogenic cap, white dust permafrost, and glacial shelves.
+4. **Corner 4: UnWiHan (The Virgin Wilderness):** Primeval forests, unmapped river networks, and the Consoling Untouched Ocean.
 
 ---
 
-## 3. Major Planetary Landmarks & Special Environmental Zones
+## 3. The Three Primary Sovereign Geological Domains
 
-{box3}
+{box2}
+In sovereign planetary science, three monumental geological domains define the natural equilibrium of Mugenhan. These regions predate human settlement and represent the raw physical manifestation of planetary sorrow untouched by municipal manipulation:
 
 ### 3.1 The Consoling Untouched Ocean [ConHeAn] (위안의 미답해)
 
@@ -125,43 +118,54 @@ The Numbing Frozen Tundra, cataloged as `[NuRoZen]`, covers the northern third o
 
 ---
 
-### 3.3 The Sorrow Lake (한의 호수 — Han-ui Hosu)
+### 3.3 The Untouched Wild Land [UnWiHan] (미답의 야생지 / 들한)
 
-Located in the southwestern tectonic depression between Somnarak's outer perimeter and the frontier of UnWiHan, The Sorrow Lake is an endorheic basin of concentrated dark liquid Han.
+The Untouched Wild Land, formally designated across sovereign cartography as `[UnWiHan]` (Corner 4 / Deulhan), encompasses 127.5 million square kilometers of primeval, unpaved terrestrial wilderness.
 
-#### Geological Profile
-- **Basin Scale:** Spanning approximately 340 kilometers across and reaching depths exceeding 1,800 meters.
-- **Fluid Properties:** The lake contains pitch-black, highly dense fluid Han with zero organic plant or animal life. Its surface is mirror-smooth, completely undisturbed by surface winds.
-- **The Rising Watermark:** Telemetry recorded over four centuries reveals that the lake's water level rises by approximately 2.3 centimeters per municipal decade. Geologists confirm that this rise corresponds directly to the cumulative unresolved sorrow generated by the urban population of Somnarak.
-- **Hydraulic Pressurization:** Subterranean fissures beneath the lake feed the deep municipal pumps of Floor 4 and the Flerehan distillation plants.
+#### Physical Characteristics
+- **Primeval Canopies:** Ancient old-growth ironwood forests with canopies reaching heights of three to four hundred meters, towering over monumental river basins and untouched alluvial plains.
+- **Unstructured Geological Han:** While Somnarak forces Han into municipal conduits and concrete blast walls, `[UnWiHan]` allows fluid Han to flow freely through natural springs, mineral veins, and soil strata.
+- **Elemental Coexistence:** Native Sorrow Entities in `[UnWiHan]` do not manifest as tortured phantoms of debt or grief. They exist as elemental fauna—magnificent antlered beasts, mountain colossi, and river spirits that live in symbiotic equilibrium with the land.
 
----
-
-### 3.4 The Crystal Peaks (크리스탈 봉우리 — Keuriseutal Bongwuri)
-
-The northern alpine boundary separating Corner 1 from Corner 3 is dominated by the Crystal Peaks — a jagged, colossal mountain range whose summits exceed 7,200 meters above sea level.
-
-#### Geological Profile
-- **Tectonic Genesis:** Formed during ancient tectonic uplifts when high-pressure Han veins breached the crust at supersonic speeds, freezing into crystalline monoliths harder than industrial diamond.
-- **Acoustic Needles:** The peaks are capped with thousands of slender, faceted crystal spires. As northern polar gales sweep across the ridges, these spires vibrate, shearing the wind into high-pitched harmonic soprano whistles (the Singing Needles).
-- **Natural Alpine Shield:** The mountain wall prevents the hyper-cryogenic winds of `[NuRoZen]` from sweeping south into Somnarak's agricultural valleys, creating a natural thermal barrier.
+#### Metaphysical & Sovereign Protocols
+- **Reclamation Surges (The Wilderness Tide):** The land actively rejects artificial structures. Paved roads, steel towers, and concrete barracks are crushed and overgrown within weeks by tectonic root surges.
+- **Non-Encroachment Taboo:** By decree of the Council of Sighs and the Horizon Caravan treaty, all permanent municipal expansion into `[UnWiHan]` is strictly prohibited under sovereign Taboo. Only nomadic Caravan crawlers observing strict Leave-No-Trace protocols may traverse its borders.
 
 ---
 
-### 3.5 The Sea of Glass (유리의 바다 — Yuri-ui Bada)
+## 4. Natural Planetary Geography Landmarks
 
-The Sea of Glass is a 2,400-kilometer transit corridor connecting Corner 1 (Somnarak) to Corner 2 (Cheonbulok).
+{box3}
 
-#### Geological Profile
-- **Vitrified Slag Plain:** The corridor was created during the ancient cataclysms of the Occlusihan War, where sustained orbital heat and high-potency Grudge strikes melted hundreds of square kilometers of silica bedrock into solid sheets of black obsidian and green glass.
-- **Logistical Importance:** The surface is completely flat and devoid of soil or vegetation, serving as the primary overland trade route. Standard wheeled vehicles cannot operate due to razor-sharp obsidian shards; transit is maintained exclusively by the heavy, multi-wheeled sand-crawler rigs of the Horizon Caravan.
-- **Thermal Heat Shimmer:** By day, solar reflection turns the glass surface into an incandescent mirror with temperatures exceeding 55°C; by night, rapid radiative heat loss plunges the surface to below freezing.
+Beyond the three sovereign macro-domains, Planet Mugenhan features four definitive natural geographical landmarks that shape regional ecology, climate, and transit:
+
+### 4.1 The Sorrow Lake (한의 호수 — Han-ui Hosu)
+Located in the southwestern tectonic depression between Somnarak's outer perimeter and the frontier of `[UnWiHan]`:
+- **Geological Profile:** A 340-kilometer endorheic basin reaching depths of 1,800 meters.
+- **Pitch-Black Concentrated Han:** Contains dense, dead liquid Han with zero organic plant or animal life. Its mirror-like surface remains totally undisturbed by surface gales.
+- **The Decadal Watermark:** Telemetry over four centuries confirms the water level rises by 2.3 centimeters per municipal decade, tracking the cumulative grief generated by Somnarak.
+- **Hydraulic Pressurization:** Fissures beneath the lake feed the subterranean municipal pumps of Floor 4 and the Flerehan energy refineries.
+
+### 4.2 The Crystal Peaks (크리스탈 봉우리 — Keuriseutal Bongwuri)
+The northern alpine boundary separating Corner 1 from Corner 3:
+- **Tectonic Genesis:** Formed during ancient tectonic uplifts when supersonic Han veins broke the crust, freezing into diamond-hard crystalline monoliths with summits exceeding 7,200 meters.
+- **The Singing Needles:** Thousands of faceted acoustic spires shear northern winds into high-pitched harmonic soprano whistles between 8,000 Hz and 14,000 Hz.
+- **Alpine Thermal Shield:** Prevents the hyper-cryogenic winds of `[NuRoZen]` from freezing Somnarak's agricultural river valleys.
+
+### 4.3 The Sea of Glass (유리의 바다 — Yuri-ui Bada)
+The 2,400-kilometer overland transit corridor connecting Corner 1 (Somnarak) to Corner 2 (Cheonbulok):
+- **Vitrified Slag Corridor:** Created during ancient cataclysms when orbital bombardments and high-potency Grudge strikes melted the silica bedrock into continuous sheets of black obsidian and green glass.
+- **Transit Logistics:** Razor-sharp silica shards shred standard pneumatic tires; overland transport is maintained exclusively by the heavy multi-wheeled crawlers of the Horizon Caravan.
+- **Diurnal Extremes:** Solar reflection pushes surface temperatures to 55°C by day, while rapid radiative cooling plunges the glass plain below freezing at night.
+
+### 4.4 The Mantle Terraces & River Systems
+The fertile alluvial river valleys surrounding Somnarak's agricultural basin:
+- **Sustaining Topsoil:** Deep loam enriched by mineralized river sediment, supporting the 70% agrarian economy that feeds the metropolitan population.
+- **Subterranean Aquifers:** Pure groundwater aquifers insulated from toxic Han-dust runoff, tapped by municipal wells across Zone D.
 
 ---
 
-## 4. Subterranean Strata & Hydraulic Mechanics
-
-The geological subsurface of Mugenhan is organized into distinct strata, meticulously cataloged by the Directorate of Territorial Survey:
+## 5. Subterranean Strata & Hydraulic Mechanics
 
 | Stratum Layer | Depth Range | Lithological Composition | Metaphysical & Han Characteristics |
 |---|---|---|---|
@@ -174,23 +178,23 @@ The geological subsurface of Mugenhan is organized into distinct strata, meticul
 
 ---
 
-## 5. Planetary Cartographic Reference Matrix
+## 6. Planetary Cartographic Reference Matrix
 
-| Geographic Zone | Quadrant / Corner | Primary Terrain | Dominant Han Element | Key Hazards & Features |
-|---|---|---|---|---|
-| **Somnarak Sovereign Basin** | Corner 1 (Cheonji) | Terraced valleys, urban foundation | Lament / Weight | Urban runoff, Desolate 10 km buffer, Alpha Tree root network. |
-| **The Sorrow Lake** | Corner 1 / Corner 4 Border | Endorheic deep basin | Concentrated Lament | Dead black fluid, decade-scale rising water level, 0 organic life. |
-| **The Sea of Glass** | Central Corridor | Vitrified obsidian sheets | Grudge / Weight | 2,400 km trade route, razor silica shards, extreme diurnal shifts. |
-| **The Crystal Peaks** | Corner 1 / Corner 3 Border | Diamond-hard crystal spires | Void / Lament | 7,200 m summits, acoustic wind shear, Singing Needle hazards. |
-| **Numbing Frozen Tundra [NuRoZen]** | Corner 3 (Mugeukji) | White dust permafrost | Weight / Void | -75°C polar freeze, Marble Stasis risk, emotional anaesthesia. |
-| **The Consoling Untouched Ocean [ConHeAn]** | Corner 4 (UnWiHan) | Pristine fluid Han ocean | Lament | 528 Hz harmonic swell, glass kelp forests, peaceful surrender drift. |
-| **Cheonbulok Foundry Basin** | Corner 2 (Cheonbulok) | Volcanic rifts, slag plains | Grudge | High-temperature foundries, heavy kinetic ordnance workshops. |
+| Geographic Zone | Category | Dominant Han Element | Key Hazards & Geological Features |
+|---|---|---|---|
+| **The Consoling Untouched Ocean [ConHeAn]** | Sovereign Domain 01 | Lament (Blue) | 528 Hz harmonic swell, glass kelp, peaceful surrender drift. |
+| **Numbing Frozen Tundra [NuRoZen]** | Sovereign Domain 02 | Weight / Void | -75°C polar freeze, Marble Stasis risk, emotional anaesthesia. |
+| **The Untouched Wild Land [UnWiHan]** | Sovereign Domain 03 | Weight / Grudge | 127.5M km² primeval forest, elemental megafauna, wilderness surge. |
+| **The Sorrow Lake** | Natural Landmark | Concentrated Lament | 340 km endorheic basin, decade-rising watermark, 0 organic life. |
+| **The Crystal Peaks** | Natural Landmark | Void / Lament | 7,200 m summits, acoustic wind shear, Singing Needle spires. |
+| **The Sea of Glass** | Natural Landmark | Grudge / Weight | 2,400 km vitrified corridor, razor silica shards, crawler transit. |
+| **Somnarak Agricultural Basin** | Municipal Territory | Neutral / Silt | Alluvial loam, river terraces, 70% agrarian civic supply. |
 
 ---
 
-## 6. Archival Preservation Decree
+## 7. Archival Preservation Decree
 
-This document stands as the definitive geographical codex of Planet Mugenhan. Any proposed municipal expansion, canal construction, or subterranean drilling exceeding Stratum 03 must submit environmental impact telemetry to the Directorate of Territorial Survey and the Horizon Caravan Geological Corps for acoustic resonance evaluation.
+This document stands as the definitive geological codex of Planet Mugenhan. Any proposed municipal expansion, canal construction, or subterranean drilling exceeding Stratum 03 must submit environmental impact telemetry to the Directorate of Territorial Survey and the Horizon Caravan Geological Corps for acoustic resonance evaluation.
 
 ---
 
@@ -204,4 +208,4 @@ if __name__ == "__main__":
     c = build_geology_md()
     with open("SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/SOMNARAK_GEOLOGY.md", "w", encoding="utf-8") as f:
         f.write(c)
-    print("Successfully wrote SOMNARAK_GEOLOGY.md")
+    print("Successfully generated updated SOMNARAK_GEOLOGY.md")

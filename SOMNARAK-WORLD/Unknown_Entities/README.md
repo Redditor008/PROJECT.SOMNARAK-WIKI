@@ -3,7 +3,7 @@
 **Archive Authority:** Facility 01 Deep Vault (Floor 6) & Shadow Corps  
 **Classification:** Black-Level Redacted / Unclassified SECC Anomaly  
 **Balancing Status:** Balanced Distribution across Outside Sorrow (`O`), Inner Sorrow (`N`), and City Sorrow (`C`)  
-**Total Records:** 14 Markdown Dossiers
+**Total Records:** 15 Markdown Dossiers
 
 ---
 
@@ -33,6 +33,7 @@ These entities are maintained under strict quarantine protocols supervised by **
 |---|---|---|---|
 | `SE-O-Vω-1050` | The Consoling Untouched Ocean | 위안의 미답해 `[ConHeAn]` | Sovereign oceanic expanse dissolving grief into eternal 528 Hz peace |
 | `SE-O-IVδ-1051` | Numbing Frozen Tundra | 마비의 동토 `[NuRoZen]` | Cryo-stasis polar waste inducing absolute emotional and sensory anaesthesia |
+| `SE-O-Vω-1054` | The Untouched Wild Land | 미답의 야생지 `[UnWiHan]` | Boundless primeval continental ecosystem rejecting all municipal structures |
 | `SE-O-IIIγ-1052` | The Glass Silt Drifter | 유리모래 방랑자 | Vitrified biped wandering the 2,400 km Sea of Glass transit corridor |
 | `SE-O-IVγ-1053` | The Singing Needle | 노래하는 바늘 | High-altitude acoustic spires shearing northern wind into fatal harmonics |
 
