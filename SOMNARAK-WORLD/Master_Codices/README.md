@@ -2,7 +2,7 @@
 
 **Archive Authority:** Reverie Directorate Executive Archive  
 **Status:** Supreme Canonical Baseline of Somnarak  
-**Total Tracked Codices:** 37 In-Universe Master Markdown Documents organized into 6 Canonical Subfolders (~46,500 lines / ~380,000 words)
+**Total Tracked Codices:** 38 In-Universe Master Markdown Documents organized into 6 Canonical Subfolders (~47,500 lines / ~390,000 words)
 
 ---
 
@@ -93,6 +93,7 @@ Societal structures, urban civilian life, economic frameworks, and faction demog
 - `SOMNARAK_DAILY_LIFE.md` (510 lines): The lived reality of city dwellers: synthetic food, fashion, acoustic curfews, and civic rituals.
 - `SOMNARAK_UNDERWORLD.md` (197 lines): The subterranean slum network ("The Raw"): Menders, Frays, Memory Washers, and Veil Merchants.
 - `SOMNARAK_UNDERWORLD_SYNDICATES.md`: The Five Extralegal Syndicates of The Raw (The Menders Guild, The Rust Frays, The Veil Merchants, The Memory Washers, and The Debt Concourse), the Treaty of Broken Needles, underworld taboos, and tactical 10-node combat grid integration.
+- `SOMNARAK_SPECIALIST_CADRES.md`: The Ten Sovereign Specialist Cadres (Giltong, Su-Ho, Tam-Sa, Sim-Pan, Il-Gwang, Hwa-Yong, Jeong-Bo, Un-Song, Ui-Ryo, Gyeo-Tu), Section 1–6 hierarchies, 10-node spatial grid deployments, and workshop procurement.
 - `SOMNARAK_CORPORATIONS.md`: The Five Sovereign Institutions (Reverie Directorate, Somnarak Exploration Decree, Underworld Cleanup Descend, The Memory Archive, and The Horizon Caravan) and their unified pentagonal operational doctrine.
 - `SOMNARAK_FACTION_RELATIONS.md` (324 lines): Diplomatic power balance matrix, covert treaties, and historical wars between factions.
 - `SOMNARAK_CAST.md` (1,238 lines): Canonical registry of Somnarak figures (Council of Sighs, Leads, Operatives, Sector Heads, and Outlaws).

@@ -8,6 +8,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Codify The Ten Specialist Cadres & Contractor Bureaus (`Master_Codices/SOMNARAK_SPECIALIST_CADRES.md`)** —
+  - Codified the definitive chartered contractor bureaus and municipal association codex in `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_SPECIALIST_CADRES.md`.
+  - Detailed the operational doctrine, municipal monopolies, uniforms, and leadership across all ten chartered cadres: Giltong (Linguistic Enforcers), Su-Ho (Vanguard Aegis), Tam-Sa (Abyssal Cartography), Sim-Pan (Judicial Inquest), Il-Gwang (High Noon Shock), Hwa-Yong (Vitrified Flame), Jeong-Bo (Signals Intelligence), Un-Song (Overland Logistics), Ui-Ryo (Mnemonic Bio-Suture), and Gyeo-Tu (Unarmed Han-Martial CQC).
+  - Codified the Universal Section 1 to Section 6 operational ladder across all cadres, establishing rank equivalence, contract intake, and strategic sovereign command.
+  - Defined 10-node spatial combat grid deployment profiles, dynamic range bands, signature status effects (Verbal Suppression, Impenetrable Bastion, Acoustic Sonar Pin, Blinding Luster, Vitrified Ember, etc.), and official equipment supply contracts with the Six Great Workshops.
+  - Updated `Master_Codices/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Codify The Five Syndicates of The Raw (`Master_Codices/SOMNARAK_UNDERWORLD_SYNDICATES.md`)** —
   - Codified the definitive underworld governance, extralegal syndicates, and subterranean crime cartels codex in `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_UNDERWORLD_SYNDICATES.md`.
   - Detailed the origin, ideology, hierarchy, and monopolies of the Five Syndicates: The Menders Guild (repair and civilian containment), The Rust Frays (heavy basalt scavenging and demolition), The Veil Merchants (contraband resonance baffles and counterfeit filters), The Memory Washers (illicit mnemonic scrubbing and grief crystallization), and The Debt Concourse (predatory usury and generational liens).
