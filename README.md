@@ -64,7 +64,8 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   ├── README.md                           # Master index, GBS mechanics primer & document roadmap
 │   ├── INTRODUCTION_AND_GUIDE.md           # Authoring guide & SOP for all future battle .md files
 │   ├── BATTLE_SCENARIO_TEMPLATE.md         # Production-ready markdown template for combat encounters
-│   └── CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md # Full 6-turn canonical combat scenario demonstration
+│   ├── CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md # Full 6-turn canonical combat scenario demonstration
+│   └── CYCLE_ENGRAM_SYSTEM.md              # 1,778-cycle historical engram attunement & stat shifting framework
 │
 ├── tools/                                  # Non-wiki developer verification tools & formatters
 │   ├── audit_lore_archive.py               # Standalone Python audit tool (UTF-8, codices, M.A.W., entities)
@@ -309,6 +310,7 @@ The repository root houses the dedicated `GAME_BATTLE/` operational suite, servi
 | [`GAME_BATTLE/INTRODUCTION_AND_GUIDE.md`](GAME_BATTLE/INTRODUCTION_AND_GUIDE.md) | Authoring Guide & Standards | Comprehensive guide and SOP for authoring all future battle `.md` files, encounter scripts, and boss mechanics. |
 | [`GAME_BATTLE/BATTLE_SCENARIO_TEMPLATE.md`](GAME_BATTLE/BATTLE_SCENARIO_TEMPLATE.md) | Standardized Production Template | Ready-to-use markdown template with pre-aligned ASCII HUDs, rosters, turn tables, and phase-end blocks. |
 | [`GAME_BATTLE/CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md`](GAME_BATTLE/CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md) | Canonical Combat Scenario | Full 6-turn combat engagement demonstrating Strike Team Alpha vs `SE-C-Vδ-002 The Grieving Colossus`. |
+| [`GAME_BATTLE/CYCLE_ENGRAM_SYSTEM.md`](GAME_BATTLE/CYCLE_ENGRAM_SYSTEM.md) | Identity Attunement Framework | Canonical 1,778-cycle historical engrams modifying Speed Bands, Action Slots, and P1 Passives across operatives. |
 
 ### Core Mechanics Standardized in `GAME_BATTLE/`:
 - **10-Node Linear Engagement Grid (`[N01]` to `[N10]`):** Discrete spatial line governing Range Bands 1 to 5, movement costs (1 AP per node), and flanking pincer bonuses (+25% kinetic damage).

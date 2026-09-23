@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Codify Mnemonic Cycle Engram Framework (`GAME_BATTLE/CYCLE_ENGRAM_SYSTEM.md`)** —
+  - Codified the definitive 1,778-cycle identity attunement system in `GAME_BATTLE/CYCLE_ENGRAM_SYSTEM.md`, establishing how historical memory crystallizations from Floor 06 Memory Wells and the Memory Archive modify an operative's Speed Bands, Action Slot allotment, and innate P1 Passives under the Composure Load Law.
+  - Documented complete canonical engram folios for core operatives: Taeho (Cycle 1,412 Fray-Hunter, Cycle 0,845 Inquisitor), Seol-A (Cycle 0,980 Sonar Cartographer, Cycle 1,604 Veil Smuggler), Min-Jae (Cycle 1,120 Bulwark Commander, Cycle 0,550 Mender Apprentice), and Ha-Eun (Cycle 1,305 Bastion Gunner, Cycle 1,690 Memory Bleacher).
+  - Updated `GAME_BATTLE/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Codify Handover Caution & Owner Rulings for 5 P.M.-Based Systems (`SESSION_BREAK_PRECAUTION.md`, `MASTER_HANDOFF_PROTOCOL.md`)** —
   - Added Section 7 to `SESSION_BREAK_PRECAUTION.md` and Section 10 to `REFERENCE_SOMNARAK_WIKI/MASTER_HANDOFF_PROTOCOL.md` enshrining the project owner's explicit approval and binding design rulings across 5 high-impact systems adapted from Project Moon comparative research into 100% native Somnarak equivalents:
     1. *System 1 (Mnemonic Cycle Engrams / 주기 각인):* Approved 1,778-cycle alternate timeline engrams altering Speed Bands, Action Slots, and P1 Passives (`GAME_BATTLE/CYCLE_ENGRAM_SYSTEM.md`).

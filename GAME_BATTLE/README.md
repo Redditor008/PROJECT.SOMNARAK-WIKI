@@ -82,6 +82,7 @@ The `GAME_BATTLE/` directory contains the following foundational operational doc
 | [`INTRODUCTION_AND_GUIDE.md`](INTRODUCTION_AND_GUIDE.md) | Authoring Guide & Standards | Comprehensive guide for authoring all future `.md` battle files, encounter scripts, and boss mechanics. |
 | [`BATTLE_SCENARIO_TEMPLATE.md`](BATTLE_SCENARIO_TEMPLATE.md) | Standardized Production Template | Ready-to-use markdown template with pre-aligned ASCII HUDs, rosters, turn tables, and phase-end blocks. |
 | [`CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md`](CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md) | Canonical Combat Scenario | Full 6-turn combat engagement demonstrating Strike Team Alpha vs `SE-C-Vδ-002 The Grieving Colossus`. |
+| [`CYCLE_ENGRAM_SYSTEM.md`](CYCLE_ENGRAM_SYSTEM.md) | Identity Attunement Framework | Canonical 1,778-cycle historical engrams modifying Speed Bands, Action Slots, and P1 Passives across operatives. |
 
 ---
 
