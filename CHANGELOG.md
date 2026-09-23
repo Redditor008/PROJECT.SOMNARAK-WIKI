@@ -8,6 +8,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Codify The Five Syndicates of The Raw (`Master_Codices/SOMNARAK_UNDERWORLD_SYNDICATES.md`)** —
+  - Codified the definitive underworld governance, extralegal syndicates, and subterranean crime cartels codex in `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_UNDERWORLD_SYNDICATES.md`.
+  - Detailed the origin, ideology, hierarchy, and monopolies of the Five Syndicates: The Menders Guild (repair and civilian containment), The Rust Frays (heavy basalt scavenging and demolition), The Veil Merchants (contraband resonance baffles and counterfeit filters), The Memory Washers (illicit mnemonic scrubbing and grief crystallization), and The Debt Concourse (predatory usury and generational liens).
+  - Codified The Treaty of Broken Needles (underworld pax and territorial borders from -800m to -2,800m), the Three Underworld Taboos, and syndicate procurement ties with the Six Great Workshops.
+  - Formalized combat stat profiles, speed bands (ranging from [1-4] for Rust Frays to [4-8] for Veil Merchants), action slots, unique status afflictions (Oxidized Rust, Acoustic Blindfold, Amnesiac Void, Foreclosure Lien), and 10-node spatial combat grid integration.
+  - Updated `Master_Codices/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Codify The Six Great Basalt & Resonance Workshops (`Master_Codices/SOMNARAK_WORKSHOPS.md`)** —
   - Codified the definitive non-M.A.W. artisan equipment and forge systems codex in `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md`.
   - Enshrined the binding Workplace Law (employment and guild tenure requirement) and the 0.5% / 1.0% / 5.0% acquisition curve across Grades 1 to 5, establishing that Grade 5 armaments achieve Legendary Stat rivaling Grade-γ M.A.W. without mental corruption risks.

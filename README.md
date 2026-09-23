@@ -25,7 +25,7 @@ The repository is structured into distinct, authoritative functional environment
 
 - **Over 1,730 curated canonical markdown files** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
 - **Over 3.8 million words** of structured, authentic canonical lore
-- **36 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) across 6 canonical subfolders establishing macro-cosmology, planetary geology, institutional doctrines, and combat physics
+- **37 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) across 6 canonical subfolders establishing macro-cosmology, planetary geology, institutional doctrines, and combat physics
 - **5 Planetary Biosphere & Ecological Codices** (`SOMNARAK-WORLD/Mugenhan_Ecology/`), documenting 15 Mundane species, 6 Sorrow Beasts/Plants, and 6 Mortal Sorrow Creatures across all planetary biomes
 - **9 Absolvohan Narrative Volumes** (`SOMNARAK-WORLD/The_Absolvohan/`), chronicling the full Day 0 through Day 365+ journey across the 1,778th Cycle
 - **7 Subterranean Descent Chronicles** (`SOMNARAK-WORLD/Katabagil/`), detailing the SED Katabagil deep expeditionary passages
@@ -91,11 +91,11 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │
 ├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,730+ files)
 │   ├── README.md                           # In-world archive guide & recommended reading order
-│   ├── Master_Codices/                     # 36 Macro-Canon Master Codices across 6 canonical subfolders
+│   ├── Master_Codices/                     # 37 Macro-Canon Master Codices across 6 canonical subfolders
 │   │   ├── 01_Cosmology_and_World_Order/   # 8 Codices: Metaphysics, layers, geology, the Maw, Weeping
 │   │   ├── 02_Institutional_Wings_and_Chronicles/ # 5 Codices: Reverie Directorate, SED, UCD, Archive, Caravan
 │   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 8 Codices: Battle engines, M.A.W., relics, Ordeals, workshops
-│   │   ├── 04_Municipal_Society_and_Demographics/ # 8 Codices: Daily life, Council, Collectors, corporations
+│   │   ├── 04_Municipal_Society_and_Demographics/ # 9 Codices: Daily life, Council, Collectors, corporations, syndicates
 │   │   ├── 05_Entities_Tales_and_Fractures/# 6 Codices: Entity taxonomy, tales, fractures, adversaries
 │   │   ├── 06_Integrity_Audits_and_Comparative_Studies/ # 1 Codex: PM comparative integrity audit
 │   │   └── README.md                       # Master codices catalog & thematic index
@@ -230,6 +230,7 @@ Societal structures, municipal governance, debt economics, and faction demograph
 | [`SOMNARAK_DAWN_OF_HOPE.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_DAWN_OF_HOPE.md) | Year 4,238 & Dawn Initiative (580 lines) | The 1,778-cycle loop resolution, 45% healing threshold, historical eras, and final ascendance |
 | [`SOMNARAK_FACTION_RELATIONS.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_FACTION_RELATIONS.md) | Faction Geopolitical Matrix (324 lines) | Power balances, covert treaties, debt relations, and municipal hostilities |
 | [`SOMNARAK_UNDERWORLD.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_UNDERWORLD.md) | Subterranean Slums & The Raw (197 lines) | Menders, Frays, Memory Washers, Veil Merchants, Debt Brokers, and undercity survival |
+| [`SOMNARAK_UNDERWORLD_SYNDICATES.md`](SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_UNDERWORLD_SYNDICATES.md) | The Five Syndicates of The Raw (450 lines) | The Menders Guild, Rust Frays, Veil Merchants, Memory Washers, Debt Concourse, and 10-node grid |
 
 ---
 
