@@ -84,6 +84,9 @@ SOMNARAK-WORLD/
 ├── Mugenhan_Ecology/                   # Subterranean & Terrestrial Planetary Biosphere
 │   ├── README.md                       # Tripartite taxonomy and strata ecological guide
 │   ├── MUGENHAN_ECOLOGY_OVERVIEW.md    # Executive guide to Mundane, Sorrow Beasts, and SEs
+│   ├── MUGENHAN_PLANETARY_FLORA_AND_FAUNA.md # 15 Canonical Mundane Species (Tier 1)
+│   ├── MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md  # 6 Known Sorrow-Infused Organisms (Tier 2)
+│   ├── MUGENHAN_SORROW_CREATURES.md    # 6 Known Mortal Sorrow Creatures (Tier 3 MSF)
 │   └── MUGENHAN_DEEP_ECOLOGY_COMPENDIUM.md # Encyclopedic compendium of fauna and flora
 │
 └── Unknown_Entities/                   # 8 Unclassified Maw Anomalies & Loop Chronicles

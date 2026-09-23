@@ -194,6 +194,7 @@ def audit_auxiliary_collections():
     ucd_dir = os.path.join(WORLD_DIR, "Katharcheok")
     gieok_dir = os.path.join(WORLD_DIR, "Gieok_Jeojangso")
     jipyeong_dir = os.path.join(WORLD_DIR, "Jipyeongseondae")
+    eco_dir = os.path.join(WORLD_DIR, "Mugenhan_Ecology")
 
     ordeals = [f for f in os.listdir(ordeals_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(ordeals_dir) else []
     hope = [f for f in os.listdir(hope_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(hope_dir) else []
@@ -204,6 +205,7 @@ def audit_auxiliary_collections():
     ucd_parts = [f for f in os.listdir(ucd_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(ucd_dir) else []
     gieok_parts = [f for f in os.listdir(gieok_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(gieok_dir) else []
     jipyeong_parts = [f for f in os.listdir(jipyeong_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(jipyeong_dir) else []
+    eco_files = [f for f in os.listdir(eco_dir) if f.endswith(".md") and f != "README.md"] if os.path.exists(eco_dir) else []
 
     return {
         "status": "PASS",
@@ -216,6 +218,7 @@ def audit_auxiliary_collections():
         "ucd_operations_count": len(ucd_parts),
         "gieok_receptions_count": len(gieok_parts),
         "jipyeong_arcs_count": len(jipyeong_parts),
+        "mugenhan_ecology_count": len(eco_files),
     }
 
 
@@ -290,6 +293,7 @@ def main():
     print(f"   - Katharcheok Ops      : {aux_res['ucd_operations_count']} files (6 Pacification Sweeps + Overview)")
     print(f"   - Gieok Jeojangso Recs : {aux_res['gieok_receptions_count']} files (7 Strata Receptions + Overview)")
     print(f"   - Jipyeongseondae Arcs : {aux_res['jipyeong_arcs_count']} files (6 Overland Arcs + Overview)")
+    print(f"   - Mugenhan Ecology     : {aux_res['mugenhan_ecology_count']} files (Planetary Biological Compendiums)")
     print(f"   - Ordeals (5 Colors)   : {aux_res['ordeals_count']} files (Expected: 60)")
     print(f"   - Hope Transformations : {aux_res['hope_transformations_count']} files (Expected: 14)")
     print(f"   - Unknown Anomalies    : {aux_res['unknown_entities_count']} files (Expected: 15)")
