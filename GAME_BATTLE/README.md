@@ -82,6 +82,7 @@ The `GAME_BATTLE/` directory contains the following foundational operational doc
 | [`INTRODUCTION_AND_GUIDE.md`](INTRODUCTION_AND_GUIDE.md) | Authoring Guide & Standards | Comprehensive guide for authoring all future `.md` battle files, encounter scripts, and boss mechanics. |
 | [`BATTLE_SCENARIO_TEMPLATE.md`](BATTLE_SCENARIO_TEMPLATE.md) | Standardized Production Template | Ready-to-use markdown template with pre-aligned ASCII HUDs, rosters, turn tables, and phase-end blocks. |
 | [`CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md`](CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md) | Canonical Combat Scenario | Full 6-turn combat engagement demonstrating Strike Team Alpha vs `SE-C-Vδ-002 The Grieving Colossus`. |
+| [`SCENARIO_02_CONTAINMENT_BREACH_FLOOR_02.md`](SCENARIO_02_CONTAINMENT_BREACH_FLOOR_02.md) | Canonical Combat Scenario | Full 6-turn containment breach suppression: Dekan's squad vs `SE-N-IVδ-005 The Smothering Mother`. |
 | [`CYCLE_ENGRAM_SYSTEM.md`](CYCLE_ENGRAM_SYSTEM.md) | Identity Attunement Framework | Canonical 1,778-cycle historical engrams modifying Speed Bands, Action Slots, and P1 Passives across operatives. |
 | [`ECHO_CORE_REALIZATION_SYSTEM.md`](ECHO_CORE_REALIZATION_SYSTEM.md) | Departmental Realization Wars | Four-phase psychological catharsis engine, Sorrow Inversion meltdowns, dialogue scripts, and sovereign engrams. |
 
@@ -92,7 +93,7 @@ The `GAME_BATTLE/` directory contains the following foundational operational doc
 The following battle scenarios, boss mechanics folios, and squad guides are slated for addition to `GAME_BATTLE/`:
 
 ### 4.1 High-Priority Scenario Documents (`SCENARIO_*.md`)
-1. `SCENARIO_02_CONTAINMENT_BREACH_FLOOR_02.md`: Facility 01 Floor 2 containment breach suppression featuring Dekan's suppression squad clashing with `SE-C-IVδ-008 The Smothering Mother`.
+1. `SCENARIO_02_CONTAINMENT_BREACH_FLOOR_02.md`: [COMPLETED] Facility 01 Floor 2 containment breach suppression featuring Dekan's suppression squad clashing with `SE-N-IVδ-005 The Smothering Mother`.
 2. `SCENARIO_03_UNDERWORLD_RUST_VEIL_PURGE.md`: UCD Operation 1 tactical sweep in the undercity slums, deploying Breacher units against syndicate Fray constructs.
 3. `SCENARIO_04_SED_SUNKEN_AQUEDUCT_DESCENT.md`: Katabagil Passage 1 deep-abyss subterranean encounter against pressure-adapted feral Sorrow Beasts.
 4. `SCENARIO_05_HORIZON_CARAVAN_LEVIATHAN_SIEGE.md`: Trans-Desolate overland defense of the Drift Throne crawler against a migrating River Leviathan at the Glass Sands.

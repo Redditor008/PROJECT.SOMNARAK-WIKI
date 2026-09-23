@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Add Canonical Scenario 02: Floor 2 Containment Breach Suppression (`GAME_BATTLE/SCENARIO_02_CONTAINMENT_BREACH_FLOOR_02.md`)** —
+  - Codified the full 6-turn canonical tactical scenario depicting Facility 01 Floor 2 containment suppression against `SE-N-IVδ-005 The Smothering Mother` in `GAME_BATTLE/SCENARIO_02_CONTAINMENT_BREACH_FLOOR_02.md` (SOP-GB-SCENARIO-002).
+  - Implemented the 10-node spatial engagement corridor (Corridor 12, Depth -2,200m), modular body part rupture mechanics (Elastic Embrace Arms, Weeping Damp Torso, Hollow Lightless Eyes), tactical grapple disruption, and terminal Composure meltdown lock.
+  - Detailed the Floor 2 Maw Keepers squad roster: Lead Dekan, Warden Choi, Specialist Han, and Scribe Bae, showcasing Yeoul and Chim-Mok workshop armaments and Cheol-Gyeong basalt shields.
+  - Updated `GAME_BATTLE/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Codify Echo-Core Resonant Realization Wars Framework (`GAME_BATTLE/ECHO_CORE_REALIZATION_SYSTEM.md`)** —
   - Codified the definitive departmental floor realization and boss confrontation system in `GAME_BATTLE/ECHO_CORE_REALIZATION_SYSTEM.md` (SOP-GB-REALIZATION-001).
   - Enshrined the four universal psychological realization phases: Phase 1 (Denial / Repressed Echo), Phase 2 (Anger / Resonant Agony), Phase 3 (Bargaining / Desolation Fracture), and Phase 4 (Catharsis / Resonant Realization).
