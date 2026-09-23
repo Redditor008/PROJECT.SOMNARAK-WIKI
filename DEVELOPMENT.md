@@ -35,19 +35,55 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 ├── UNIVERSAL_FOLLOW_RULE.md                # Portable AI baseline operating rules
 ├── SESSION_BREAK_PRECAUTION.md             # Session break, recovery protocol & work ledger
 ├── CHANGELOG.md                            # Release notes & batch modification history
-├── tools/                                  # Non-wiki developer tools
-│   └── audit_lore_archive.py               # Standalone Python auditor (UTF-8, codices, M.A.W., entities)
+├── SOMNARAK_CITY_LAYOUT.svg                # Master cartographic blueprint: Somnarak Metropolitan Grid
+├── THE_HAND_DR_LAYOUT.svg                  # Master architectural blueprint: Facility 01 Cross-Section
+├── TEST_TEXT_BOX_WIDTHS.md                 # Ergonomic text box width & visual calibration standard (127-128 chars)
 │
-├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,860+ files)
+├── tools/                                  # Non-wiki developer verification tools & formatters
+│   ├── audit_lore_archive.py               # Standalone Python auditor (UTF-8, codices, M.A.W., entities)
+│   ├── check_box_symmetry.py               # Strict text box symmetry & border alignment auditor
+│   ├── text_box_double_checker.py          # Dual-engine independent text box & wide-format validator
+│   ├── box_formatter.py                    # Ergonomic ASCII text box generation utility
+│   └── format_rst_box.py                   # ReStructuredText and markdown box alignment formatter
+│
+├── PROJECT_MOON_RESEARCH/                  # Encyclopedic Project Moon Research Compendium (12 Volumes)
+│   ├── 01_COSMOLOGY_GEOGRAPHY_AND_LAWS.md  # The City, Head, Arbiters, Outskirts, Taboos
+│   ├── 02_THE_TWENTY_SIX_WINGS_AND_SINGULARITIES.md # Wings A–Z, Singularities, Smoke War
+│   ├── 03_SOCIETAL_POWERS_AND_FACTIONS.md  # Fingers, Associations, Syndicates, Workshops
+│   ├── 04_METAPHYSICS_COGNITION_AND_PHENOMENOLOGY.md # The Light, Distortions, E.G.O, Peccatula
+│   ├── 05_CHRONICLED_NARRATIVES_AND_CANON_WORKS.md # LC, LoR, Limbus, Distortion Detective, Leviathan
+│   ├── 06_PARALLEL_WORLDS_AND_MIRROR_TECHNOLOGY.md # Mirror Worlds, Identities, Glass Windows
+│   ├── 07_COMPREHENSIVE_ENCYCLOPEDIC_LEXICON.md # Master terminology & technical concepts
+│   ├── 08_TACTICAL_MECHANICS_AND_ORDEALS.md # Combat systems, clashes, affinities, Ordeals
+│   ├── 09_EGO_EQUIPMENT_WEAPONS_SUITS_AND_GIFTS.md # E.G.O equipment, extraction, risk tiers
+│   ├── 10_FIXER_OFFICES_AND_SPECIALIZED_SYNDICATES.md # Section breakdowns, Colors, Hana, Liu, Shi
+│   ├── 11_LORE_AND_NARRATIVE_DEEP_DIVE.md  # Deep character studies, Carmen, Ayin, Angela, Roland
+│   ├── 12_ABNORMALITY_ENCYCLOPEDIA.md      # Comprehensive abnormality entries (ZAYIN to ALEPH)
+│   └── README.md                           # Research master index & comparative overview
+│
+├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,730+ files)
 │   ├── README.md                           # In-world archive guide & recommended reading order
-│   ├── Master_Codices/                     # 31 Macro-Canon Master Codices (Cosmology, Directorate, Systems)
-│   ├── The_Absolvohan/                     # 9 Chronological Narrative Volumes (Day 0–365 & Epilogue)
-│   ├── Sorrow_Entities/                    # 529 files: SE-001 through SE-997 dossiers & tales
-│   ├── Echo_Cores/                         # 9 files: The Nine Echo-Cores of Facility 01
-│   ├── MAW_Codex_Sets/                     # 1,196 files: 42 registry folders with A/B/C/D item sets
-│   ├── Ordeals/                            # 60 files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
-│   ├── Hope_Transformations/               # 14 files: HT-001 to HT-012, Trinity, and Hand of Hope
-│   └── Unknown_Entities/                   # 8 files: UNK-248 to UNK-903 & Regressor Log
+│   ├── Master_Codices/                     # 35 Macro-Canon Master Codices across 6 canonical subfolders
+│   │   ├── 01_Cosmology_and_World_Order/   # 8 Codices: Metaphysics, layers, geology, the Maw, Weeping
+│   │   ├── 02_Institutional_Wings_and_Chronicles/ # 5 Codices: Reverie Directorate, SED, UCD, Archive, Caravan
+│   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 7 Codices: Battle engines, M.A.W., relics, Ordeals, tech
+│   │   ├── 04_Municipal_Society_and_Demographics/ # 8 Codices: Daily life, Council, Collectors, corporations
+│   │   ├── 05_Entities_Tales_and_Fractures/# 6 Codices: Entity taxonomy, tales, fractures, adversaries
+│   │   ├── 06_Integrity_Audits_and_Comparative_Studies/ # 1 Codex: PM comparative integrity audit
+│   │   └── README.md                       # Master codices catalog & thematic index
+│   ├── The_Absolvohan/                     # 9 Chronological Narrative Volumes (Day 0–365 & Epilogue + Overview)
+│   ├── Katabagil/                          # 7 Subterranean Descent Passages & Field Guide (Exploration Arcs 1–7)
+│   ├── Katharcheok/                        # 6 Underworld Pacification Operations & Tactics Guide (Purge Arcs 1–6)
+│   ├── Gieok_Jeojangso/                    # 7 Mnemonic Receptions & Mnemonic Combat Suite (Memory Archive)
+│   ├── Jipyeongseondae/                    # 6 Trans-Desolate Overland Arcs & Bastion Suite (Horizon Caravan)
+│   ├── Mugenhan_Ecology/                   # 5 Planetary Biosphere & Ecological Codices (Mundane, Beasts, MSF)
+│   ├── Tactical_Combat_Engine/             # 10-Node Spatial Grid Combat Mechanics & Battle Integration Suite
+│   ├── Sorrow_Entities/                    # 287 Unique Entity dossiers across Ranks I to V and Grades α to ω
+│   ├── Echo_Cores/                         # 9 Echo-Core files: Facility 01 departmental leaders
+│   ├── MAW_Codex_Sets/                     # 1,196 files: 198 complete quadripartite sets across 42 folders
+│   ├── Ordeals/                            # 60 Ordeal files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
+│   ├── Hope_Transformations/               # 14 Hope Transformation files: HT-001 through HT-012, Trinity & Hand
+│   └── Unknown_Entities/                   # 15 Unknown Entity files: UNK-248 to UNK-903 & Regressor chronicles
 │
 └── REFERENCE_SOMNARAK_WIKI/                # Out-of-World Editorial Standards, Audits & Catalogs
     ├── README.md                           # Overview of the reference standards folder
@@ -56,17 +92,17 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
     ├── SORROW_ENTITIES_PAIRS_AUDIT.md      # Detailed audit and resolution guide for the 241 paired entity files
     ├── ALL_34_REFERENCE_FILES_AUDIT.md     # Line-by-line audit of the foundational codices
     ├── ALL_FILES_AUDIT_MANIFEST.md         # Comprehensive manifest of all reference files
-    ├── CATEGORY_AND_PAGE_PLAN.md           # Information architecture & classification plan
-    ├── CONTENT_AND_VISUAL_STANDARDS.md     # Narrative, terminological, and visual standards
-    ├── LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md# Branch policy and deployment acceptance standards
-    ├── MASTER_HANDOFF_PROTOCOL.md          # Multi-session continuity protocol
-    ├── MAW_PERSONALIZE_PROGRESS.md         # Weapon personalization ledger
-    ├── MAW_WEAPON_ARCHETYPES.md            # Weapon archetype taxonomy and research
+    ├── CATEGORY_AND_PAGE_PLAN.md           # Information architecture & structural classification
+    ├── CONTENT_AND_VISUAL_STANDARDS.md     # Editorial standards & authentic Somnarak terminology
+    ├── LIVE_DEPLOYMENT_AND_BRANCH_POLICY.md# Branch continuity and deployment policies
+    ├── MASTER_HANDOFF_PROTOCOL.md          # AI session continuity & handoff guidelines
+    ├── MAW_PERSONALIZE_PROGRESS.md         # Detailed M.A.W. equipment visual progress ledger
+    ├── MAW_WEAPON_ARCHETYPES.md            # Comprehensive weapon taxonomy & silhouette archetypes
     ├── OPERATING_RULES.md                  # Canon integrity & directory rules
     ├── PROJECT_MOON_WIKI_NESTED_PLACEMENT_RESEARCH.md # Structural comparative research
-    ├── PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md     # Public page compliance audit
-    ├── REGISTRY_MASTER_STATUS.md           # M.A.W. Registry completion tracking
-    ├── SOMNARAK_CORPORATIONS_GAME_DESIGN_FRAMEWORK.md # Original comparative design document
+    ├── PUBLIC_PAGE_COMPLIANCE_AUDIT_2026-08-31.md     # Historical compliance audit
+    ├── REGISTRY_MASTER_STATUS.md           # M.A.W. Registry completion and archive tracking
+    ├── SOMNARAK_CORPORATIONS_GAME_DESIGN_FRAMEWORK.md # Original design document for the sovereign corporations
     ├── SOMNARAK_DOCUMENT_RULES.md          # Archival classification & authoring rules for entity files
     ├── SOMNARAK_MAIN_ENTITY_PROTECTED_LIST.md # Authoritative list of 55 immutable core entities
     └── SOMNARAK_NAME_REGISTRY.md           # Authoritative nomenclature & character naming lexicon
@@ -92,8 +128,8 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 ## 4. Working with the In-World Canon Repositories (`SOMNARAK-WORLD/`)
 
 ### A. The Master Codices (`SOMNARAK-WORLD/Master_Codices/`)
-- These 31 master files establish the cosmological, physical, and political framework of Somnarak.
-- When referencing world rules, always cite the corresponding codex (e.g., `PROJECT_SOMNARAK.md` for cosmology, `SOMNARAK_BATTLE_SYSTEM.md` for combat mechanics, `The_REVERIE_DIRECTORATE.md` for Facility 01 floors).
+- These 35 master files organized across 6 canonical subfolders establish the cosmological, physical, municipal, and political framework of Somnarak.
+- When referencing world rules, always cite the corresponding codex (e.g., `PROJECT_SOMNARAK.md` for cosmology, `SOMNARAK_BATTLE_SYSTEM_STYLES.md` for combat mechanics, `The_REVERIE_DIRECTORATE.md` for Facility 01 floors, `SOMNARAK_GEOLOGY.md` for planetary geology).
 
 ### B. Sorrow Entity Files (`SOMNARAK-WORLD/Sorrow_Entities/`)
 - Filename convention: `SE-<SECC Code>_<English Name>_<Korean Name>.md` (e.g. `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`).
