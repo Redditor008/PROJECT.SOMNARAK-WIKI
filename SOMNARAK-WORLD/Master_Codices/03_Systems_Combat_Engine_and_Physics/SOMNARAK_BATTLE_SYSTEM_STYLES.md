@@ -681,7 +681,7 @@ In Horizon Caravan operations, battle unfolds across vast desert plains anchored
 
 Below is the definitive, canonical combat visualization template designed for direct adaptation into narrative story chapters.
 
-### Scenario: Warden Strike Team vs Breached Entity "The Weeping Bell" (Tier HE)
+### Scenario: Warden Strike Team vs Breached Entity "The Weeping Bell" (Rank III Fragment / Grade γ)
 - **Location**: Facility 01, Floor 4 (Insight Forge Sector).
 - **Roster**: Warden Captain Jin (Vanguard / Melee), Agent Min (Mid-Field / Console Specialist), Agent Ray (Rear Sniper).
 - **Enemy**: The Weeping Bell (Occupies Node 2).

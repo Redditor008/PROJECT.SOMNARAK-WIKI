@@ -23,7 +23,7 @@ The repository is cleanly divided into two master trees:
 - **Over 3.7 million words** of structured, canonical lore
 - **31 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) establishing the entire cosmology, geopolitical landscape, and physical laws of Somnarak
 - **9 Absolvohan Narrative Volumes** (`SOMNARAK-WORLD/The_Absolvohan/`), chronicling the full Day 0 through Day 365+ journey of Director Majin and Secretary Seiyon across the 1,778th and final Cycle
-- **529 Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), representing 285 unique canonical entities across threat levels ZAYIN through ALEPH
+- **529 Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), representing 285 unique canonical entities across Coherence Ranks I through V (Whisper to Sovereign) and Potency Grades α to ω
 - **291 M.A.W. Equipment Sets** (`SOMNARAK-WORLD/MAW_Codex_Sets/`, 1,196 files across 42 registry groups), cataloging Weapons, Suits, and Gifts
 - **60 Five-Color Ordeal Files** (`SOMNARAK-WORLD/Ordeals/`), documenting First, Second, Third, and Tide watches
 - **14 Hope Transformation Records** (`SOMNARAK-WORLD/Hope_Transformations/`), detailing resonant ascensions
@@ -144,12 +144,12 @@ All source lore across this archive adheres to four absolute pillars:
    - **Pugnahan (억제작업):** Repression, acoustic clamping, and physical force.
    - **Viderehan (관찰작업):** Remote optical surveillance and detached analysis.
 
-3. **Threat Classifications (위협 등급):**
-   - **`ZAYIN` (I):** Negligible threat; passive resonance; minimal containment risk.
-   - **`TETH` (II):** Low-to-moderate threat; standard suppression squads sufficient.
-   - **`HE` (III):** Significant threat; lethal capabilities; disciplined work required.
-   - **`WAW` (IV):** Critical threat; severe psychological degradation; catastrophic breach hazard.
-   - **`ALEPH` (V):** Existential threat; facility-wide or district-wide collapse potential.
+3. **Threat Classifications & Coherence Ranks (위협 등급 및 응집도):**
+   - **Rank I: Whisper (속삭임 / Soksagim · Grade α):** Negligible threat; passive resonance; minimal containment risk.
+   - **Rank II: Murmur (웅얼거림 / Ungeolgeorim · Grade β):** Low-to-moderate threat; standard suppression squads sufficient.
+   - **Rank III: Fragment (파편 / Papyeon · Grade γ):** Significant threat; lethal capabilities; disciplined work required.
+   - **Rank IV: Entity (존재 / Jonjae · Grade δ):** Critical threat; severe psychological degradation; catastrophic breach hazard.
+   - **Rank V: Sovereign (군주 / Gunju · Grade ω):** Existential threat; facility-wide or district-wide collapse potential.
 
 4. **M.A.W. Equipment Triad (비탄의 무장):**
    - **MAW-W (Weapon):** Offense crystallized from the entity's core sorrow.

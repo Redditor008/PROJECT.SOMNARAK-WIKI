@@ -119,7 +119,7 @@ The six major operations of the Katharcheok campaign target six critical nodes o
 - **Tactical Breaching Objectives:**
   1. Establish an acoustic isolation barrier around the arena perimeter to prevent civilian panics in Zone D.
   2. Storm the spectator galleries, incapacitate armed syndicate patrons with non-lethal acoustic pikes, and corner Beastmaster Jagyeon.
-  3. Enter the central sand pit to subdue and contain the cartel's apex attraction: **SECC-074 "The Chained Frenzy"** (a Rampant HE-grade Sorrow Entity), securing it into a Class-IV leaded vacuum cask.
+  3. Enter the central sand pit to subdue and contain the cartel's apex attraction: **SE-C-IIIγ-102 "The Chained Frenzy"** (a Rampant Rank III / Grade γ Fragment Sorrow Entity), securing it into a Class-IV leaded vacuum cask.
 - **Key Recovery:** 12 secured Sorrow Entities, 40 combat shock collars, and the arrest of 80 high-profile criminal gamblers.
 
 ### 2.6 Operation 6: Basileugung (제궁락 / 地下王宮, Zone B — The Sunken Citadel)

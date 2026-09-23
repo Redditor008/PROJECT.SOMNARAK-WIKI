@@ -79,7 +79,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 1. **A0 — Push Always:** Every single file creation, edit, rename, or deletion must be committed **and pushed** to the assigned session branch in the same turn. Never end a turn with uncommitted changes or unpushed local commits.
 2. **A5 — File Safety:** Never delete or overwrite owner files or canonical reference documents without an explicit, file-named instruction from the owner.
 3. **Canon Terminology is Immutable:** Retain authentic Somnarak-native terminology across all documentation:
-   - Sorrow Entities (SE), SECC designations, and threat tiers (`ZAYIN`, `TETH`, `HE`, `WAW`, `ALEPH`).
+   - Sorrow Entities (SE), SECC designations, Coherence Ranks (I: Whisper, II: Murmur, III: Fragment, IV: Entity, V: Sovereign), and Potency Grades (α to ω).
    - M.A.W. (Materialized Armament of Woe), Weapons (W), Suits (S), Gifts (G).
    - Han energy, Liquid Han, Absolvohan, Resonant Clash.
    - Facility 01 ("The Hand of Change"), Reverie Directorate, High Council.
