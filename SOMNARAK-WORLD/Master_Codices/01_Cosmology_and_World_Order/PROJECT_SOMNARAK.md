@@ -5497,5 +5497,11 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 | `SOMNARAK_NAME_REGISTRY.md` | Name Registry — 195+ names, mixed naming rules, 15 documentation authors |
 | `SOMNARAK_DOCUMENT_RULES.md` | Document Classification Rules — ID format, dates, authors, classifications |
 | `SOMNARAK_ORDEALS_FRAMEWORK.md` | Ordeal system framework — 5 Colors × 4 Watches, threat tiers, suppression |
+| `SOMNARAK_GEOLOGY.md` | Planetary Geology — Four Corners, macro-terrains, and natural landmarks |
+| `Mugenhan_Ecology/` | Planetary Biosphere — 15 Mundane species, 6 Sorrow Beasts/Plants, and 6 MSF |
+| `Katabagil/` | SED Seven Descents — Subterranean expeditionary passages 1–7 |
+| `Katharcheok/` | UCD Six Pacifications — Underworld syndicate purges 1–6 |
+| `Gieok_Jeojangso/` | Memory Archive — Seven floor receptions and mnemonic combat |
+| `Jipyeongseondae/` | Horizon Caravan — Six trans-desolate overland expedition arcs |
 | `somnarak_city_layout.svg` | City layout diagram |
 
