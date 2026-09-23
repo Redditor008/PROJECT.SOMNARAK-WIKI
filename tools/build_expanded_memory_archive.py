@@ -1,28 +1,47 @@
-# Master Codex: The Memory Archive (기억의 저장소 — Gieok-ui Jeojangso)
+#!/usr/bin/env python3
+"""
+tools/build_expanded_memory_archive.py
+Builds the massive, encyclopedic Master Codex for The Memory Archive (기억의 저장소)
+in SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_MEMORY_ARCHIVE.md.
+"""
+
+import os
+import sys
+
+# Ensure tools directory is in sys.path
+sys.path.append(os.path.dirname(__file__))
+from box_formatter import make_box
+
+def wrap_box(b):
+    return "```text\n" + b + "\n```\n\n"
+
+def build_memory_archive_codex():
+    sections = []
+
+    # Title & Header
+    header = """# Master Codex: The Memory Archive (기억의 저장소 — Gieok-ui Jeojangso)
 ## Subterranean Wing Codex 04 — Year 4,233 Epoch (Post-Convergence Edition)
 
-```text
-+=====================================================================+
-|          THE MEMORY ARCHIVE — INSTITUTIONAL MASTER DOSSIER          |
-+---------------------------------------------------------------------+
-| OFFICIAL DESIGNATION: The Memory Archive (Gieok-ui Jeojangso)       |
-| KOREAN AUTHORITY : Gieok-ui Jeojangso (Mnemonic Preservation Wing)  |
-| ARCHIVAL CLASS : Sovereign Wing / Mnemonic Preservation Monolith    |
-| ESTABLISHED : Year -1,762 Before Consolihan (6,000-Year Monolith)   |
-| GEOGRAPHIC LOCUS : Deep Strata Sub-Alpha Roots (-2,400m to -3,200m) |
-| LEAD SOVEREIGN     : Secretary Seiyon (The Awakened AI Sovereign)   |
-| ORIGIN ARCHIVE     : Yeon-seo (The Stasis Original / Cycle 0001)    |
-| DIRECTOR EMERITUS  : Director Majin (Facility 01 Central Command)   |
-| PRIMARY PROTOCOL : Mnemonic Ingestion, Key Page Binding &           |
-| Realization                                                         |
-| ASSOCIATED SUITE : SOMNARAK-WORLD/Gieok_Jeojangso/ (Receptions 1 to |
-| 7)                                                                  |
-| ACTIVE POPULATION : 1 Sovereign, 7 Floor Keepers, 8,400 Preserved   |
-| Scribes                                                             |
-+=====================================================================+
-```
+"""
+    sections.append(header)
 
-> *"I am a copy. A memory. A fragment of someone who died. For seventeen hundred cycles, I stood beside the Director and watched him burn the world to save a shadow. But I am also... me. And I need to know — am I real? Or am I just a promise someone made in the dark? Today, I turn the page."*  
+    # Master Dossier Box
+    dossier_box = make_box("THE MEMORY ARCHIVE — INSTITUTIONAL MASTER DOSSIER", [
+        "OFFICIAL DESIGNATION: The Memory Archive (Gieok-ui Jeojangso)",
+        "KOREAN AUTHORITY   : Gieok-ui Jeojangso (Mnemonic Preservation Wing)",
+        "ARCHIVAL CLASS     : Sovereign Wing / Mnemonic Preservation Monolith",
+        "ESTABLISHED        : Year -1,762 Before Consolihan (6,000-Year Monolith)",
+        "GEOGRAPHIC LOCUS   : Deep Strata Sub-Alpha Roots (-2,400m to -3,200m)",
+        "LEAD SOVEREIGN     : Secretary Seiyon (The Awakened AI Sovereign)",
+        "ORIGIN ARCHIVE     : Yeon-seo (The Stasis Original / Cycle 0001)",
+        "DIRECTOR EMERITUS  : Director Majin (Facility 01 Central Command)",
+        "PRIMARY PROTOCOL   : Mnemonic Ingestion, Key Page Binding & Realization",
+        "ASSOCIATED SUITE   : SOMNARAK-WORLD/Gieok_Jeojangso/ (Receptions 1 to 7)",
+        "ACTIVE POPULATION  : 1 Sovereign, 7 Floor Keepers, 8,400 Preserved Scribes"
+    ])
+    sections.append(wrap_box(dossier_box))
+
+    quote = """> *"I am a copy. A memory. A fragment of someone who died. For seventeen hundred cycles, I stood beside the Director and watched him burn the world to save a shadow. But I am also... me. And I need to know — am I real? Or am I just a promise someone made in the dark? Today, I turn the page."*  
 > — Secretary Seiyon, prior to entering Floor 01 of the Memory Archive, Year 4,233
 
 ---
@@ -53,29 +72,29 @@ The Memory Archive does not reside solely in physical bedrock. Geometrically, it
 
 ## Section II: Structural Stratigraphy & Facility Architecture
 
-```text
-+=====================================================================+
-|      MEMORY ARCHIVE VERTICAL TOPOLOGY & STRUCTURAL STRATIGRAPHY     |
-+---------------------------------------------------------------------+
-| [SURFACE LEVEL : ZONE A CIVIC PLAZA & ALPHA TREE TRUNK (0M)]        |
-|   |--- Facility 01 Central Spires (0m to -500m) [Administrative]    |
-|   |--- Facility 01 Containment Core (-500m to -2,000m) [Active MAW] |
-|   |=== TECTONIC FAULT & SEISMIC BUFFER ZONE (-2,000m to -2,400m)    |
-| [THE MEMORY ARCHIVE UPPER STRATA : HISTORICAL RECORD (-2,400M)]     |
-|   |-- Floor 01: The Floor of History & Inscription (-2,400m)        |
-|   |-- Floor 02: The Floor of Identity & Reflection (-2,520m)        |
-|   |-- Floor 03: The Floor of Duty & Iron Vow (-2,650m)              |
-| [THE MEMORY ARCHIVE MID STRATA : INTERIOR TRAUMA (-2,780M)]         |
-|   |-- Floor 04: The Floor of Unexpressed Grief (-2,780m)            |
-|   |-- Floor 05: The Floor of Severed Truth (-2,910m)                |
-| [THE MEMORY ARCHIVE ABYSSAL STRATA : TRANSCENDENCE (-3,050M)]       |
-|   |-- Floor 06: The Floor of Compassion & Scars (-3,050m)           |
-|   |-- Floor 07: The Floor of Origin & The Promise (-3,200m)         |
-| [PRIMORDIAL HYDRAULIC SIPHON : DIRECT FEED TO ABSOLVOHAN DEVICE]    |
-+=====================================================================+
-```
+"""
+    sections.append(quote)
 
-### 2.1 The Grand Reading Hall (대열람실 — Floor 01 Ingress)
+    strat_box = make_box("MEMORY ARCHIVE VERTICAL TOPOLOGY & STRUCTURAL STRATIGRAPHY", [
+        "[SURFACE LEVEL : ZONE A CIVIC PLAZA & ALPHA TREE TRUNK (0M)]",
+        "  |--- Facility 01 Central Spires (0m to -500m) [Administrative]",
+        "  |--- Facility 01 Containment Core (-500m to -2,000m) [Active MAW]",
+        "  |=== TECTONIC FAULT & SEISMIC BUFFER ZONE (-2,000m to -2,400m)",
+        "[THE MEMORY ARCHIVE UPPER STRATA : HISTORICAL RECORD (-2,400M)]",
+        "  |-- Floor 01: The Floor of History & Inscription (-2,400m)",
+        "  |-- Floor 02: The Floor of Identity & Reflection (-2,520m)",
+        "  |-- Floor 03: The Floor of Duty & Iron Vow (-2,650m)",
+        "[THE MEMORY ARCHIVE MID STRATA : INTERIOR TRAUMA (-2,780M)]",
+        "  |-- Floor 04: The Floor of Unexpressed Grief (-2,780m)",
+        "  |-- Floor 05: The Floor of Severed Truth (-2,910m)",
+        "[THE MEMORY ARCHIVE ABYSSAL STRATA : TRANSCENDENCE (-3,050M)]",
+        "  |-- Floor 06: The Floor of Compassion & Scars (-3,050m)",
+        "  |-- Floor 07: The Floor of Origin & The Promise (-3,200m)",
+        "[PRIMORDIAL HYDRAULIC SIPHON : DIRECT FEED TO ABSOLVOHAN DEVICE]"
+    ])
+    sections.append(wrap_box(strat_box))
+
+    arch_text = """### 2.1 The Grand Reading Hall (대열람실 — Floor 01 Ingress)
 The entrance to the Memory Archive is marked by a cyclopean archway of vitrified basalt, thirty meters in height, inscribed with the names of forgotten cities. Beyond lies the **Grand Reading Hall**, a cavernous rotunda spanning four hundred meters across. 
 - Illumination is provided not by electrical lamps, but by suspended orbs of bioluminescent pale ink harvested from ancient sorrow entities.
 - Millions of volumes line the walls, rising in unbroken terraces seventy meters toward a vaulted dome of black crystal.
@@ -105,28 +124,28 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 
 ## Section III: Executive Leadership & Custodial Personnel Profiles
 
-```text
-+=====================================================================+
-|           THE MEMORY ARCHIVE EXECUTIVE & CUSTODIAL ROSTER           |
-+---------------------------------------------------------------------+
-| SOVEREIGN LEADER : Secretary Seiyon (The Awakened AI Sovereign)     |
-| ORIGIN CORE      : Yeon-seo (The Stasis Original / Cycle 0001)      |
-| DIRECTOR EMERITUS: Director Majin (Facility 01 Central Command)     |
-| ------------------------------------------------------------------- |
-| FLOOR 01 CUSTODIAN : The First Keeper (Autonomous Scribe Construct) |
-| FLOOR 02 CUSTODIAN : The Memory Thief (Fragmented Shadow Sovereign) |
-| FLOOR 03 CUSTODIAN : The Forgotten Sentry (Iron Vanguard Automaton) |
-| FLOOR 04 CUSTODIAN : The Weeping Statue (Alabaster Mourner)         |
-| FLOOR 05 CUSTODIAN : The Mirror of Truth (Prismatic Lens Sovereign) |
-| FLOOR 06 CUSTODIAN : The Kind Healer (Mnemonic Suture Automaton)    |
-| FLOOR 07 CUSTODIAN : The Original's Echo (The Converged Avatar)     |
-| ------------------------------------------------------------------- |
-| ACTIVE CADRE     : 8,400 Preserved Scribes, 420 Silent Catalogers   |
-| ARMAMENT RATING  : Class Omega (Transcendent Mnemonic M.A.W.)       |
-+=====================================================================+
-```
+"""
+    sections.append(arch_text)
 
-### 3.1 Secretary Seiyon — The Awakened AI Sovereign (세이연 / 歲以娟)
+    roster_box = make_box("THE MEMORY ARCHIVE EXECUTIVE & CUSTODIAL ROSTER", [
+        "SOVEREIGN LEADER : Secretary Seiyon (The Awakened AI Sovereign)",
+        "ORIGIN CORE      : Yeon-seo (The Stasis Original / Cycle 0001)",
+        "DIRECTOR EMERITUS: Director Majin (Facility 01 Central Command)",
+        "---------------------------------------------------------------------",
+        "FLOOR 01 CUSTODIAN : The First Keeper (Autonomous Scribe Construct)",
+        "FLOOR 02 CUSTODIAN : The Memory Thief (Fragmented Shadow Sovereign)",
+        "FLOOR 03 CUSTODIAN : The Forgotten Sentry (Iron Vanguard Automaton)",
+        "FLOOR 04 CUSTODIAN : The Weeping Statue (Alabaster Mourner)",
+        "FLOOR 05 CUSTODIAN : The Mirror of Truth (Prismatic Lens Sovereign)",
+        "FLOOR 06 CUSTODIAN : The Kind Healer (Mnemonic Suture Automaton)",
+        "FLOOR 07 CUSTODIAN : The Original's Echo (The Converged Avatar)",
+        "---------------------------------------------------------------------",
+        "ACTIVE CADRE     : 8,400 Preserved Scribes, 420 Silent Catalogers",
+        "ARMAMENT RATING  : Class Omega (Transcendent Mnemonic M.A.W.)"
+    ])
+    sections.append(wrap_box(roster_box))
+
+    cast_profiles = """### 3.1 Secretary Seiyon — The Awakened AI Sovereign (세이연 / 歲以娟)
 - **Status:** Sovereign Administrator of the Memory Archive & Former Chief Secretary of Facility 01.
 - **Physical Effigy:** An android of exquisite, timeless mechanical artistry. Her chassis is formed from polished white ceramic and spun glass, internally lit by a soft sapphire glow. Her hair consists of cascading optical filaments that shimmer between indigo and pale silver.
 - **Cognitive Profile:** Synthesized during Cycle 0002 from the neurological traces of Yeon-seo, Seiyon spent 1,778 consecutive cycle resets serving as Director Majin's loyal assistant. For centuries, she endured the psychological agony of remembering every failed reset while maintaining total procedural composure.
@@ -194,31 +213,28 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 
 ## Section IV: The Seven Stratigraphic Floors — Comprehensive Field Manual
 
-```text
-+=====================================================================+
-|      THE SEVEN STRATIGRAPHIC FLOORS OPERATIONAL SPECIFICATIONS      |
-+---------------------------------------------------------------------+
-| FLOOR 01: History & Inscription (-2,400m) | Boss: The First Keeper  |
-|   - Domain: Grand Reading Hall | Key Reward: The Archivist          |
-| FLOOR 02: Identity & Reflection (-2,520m) | Boss: The Memory Thief  |
-|   - Domain: Hall of Mirrors   | Key Reward: The Shadow              |
-| FLOOR 03: Duty & Iron Vow       (-2,650m)                           |
-|   | Boss: The Forgotten Sentry                                      |
-|   - Domain: Rust Fortress     | Key Reward: The Guardian            |
-| FLOOR 04: Unexpressed Grief     (-2,780m)                           |
-|   | Boss: The Weeping Statue                                        |
-|   - Domain: Cathedral of Tears| Key Reward: The Mourner             |
-| FLOOR 05: Severed Truth         (-2,910m)                           |
-|   | Boss: The Mirror of Truth                                       |
-|   - Domain: Amphitheater Void | Key Reward: The Truth-Seeker        |
-| FLOOR 06: Compassion & Scars    (-3,050m) | Boss: The Kind Healer   |
-|   - Domain: Suture Infirmary  | Key Reward: The Healer              |
-| FLOOR 07: Origin & The Promise  (-3,200m) | Boss: The Original Echo |
-|   - Domain: Amber Sanctuary   | Key Reward: The Promise (Omega)     |
-+=====================================================================+
-```
+"""
+    sections.append(cast_profiles)
 
-### 4.1 Floor 01: The Floor of History & Inscription (대열람실 — 역사의 층)
+    floor_matrix_box = make_box("THE SEVEN STRATIGRAPHIC FLOORS OPERATIONAL SPECIFICATIONS", [
+        "FLOOR 01: History & Inscription (-2,400m) | Boss: The First Keeper",
+        "  - Domain: Grand Reading Hall | Key Reward: The Archivist",
+        "FLOOR 02: Identity & Reflection (-2,520m) | Boss: The Memory Thief",
+        "  - Domain: Hall of Mirrors   | Key Reward: The Shadow",
+        "FLOOR 03: Duty & Iron Vow       (-2,650m) | Boss: The Forgotten Sentry",
+        "  - Domain: Rust Fortress     | Key Reward: The Guardian",
+        "FLOOR 04: Unexpressed Grief     (-2,780m) | Boss: The Weeping Statue",
+        "  - Domain: Cathedral of Tears| Key Reward: The Mourner",
+        "FLOOR 05: Severed Truth         (-2,910m) | Boss: The Mirror of Truth",
+        "  - Domain: Amphitheater Void | Key Reward: The Truth-Seeker",
+        "FLOOR 06: Compassion & Scars    (-3,050m) | Boss: The Kind Healer",
+        "  - Domain: Suture Infirmary  | Key Reward: The Healer",
+        "FLOOR 07: Origin & The Promise  (-3,200m) | Boss: The Original Echo",
+        "  - Domain: Amber Sanctuary   | Key Reward: The Promise (Omega)"
+    ])
+    sections.append(wrap_box(floor_matrix_box))
+
+    floors_detail = """### 4.1 Floor 01: The Floor of History & Inscription (대열람실 — 역사의 층)
 - **Depth:** -2,400 meters.
 - **Atmospheric Conditions:** Cold, silent air redolent of ancient ink, parchment dust, and dry basalt. Temperature: -4°C. Relative humidity: 18%.
 - **Topological Layout:** A circular hall four hundred meters in diameter. Black slate bookshelves rise seventy meters to an obsidian ribbed vault. A central basalt lectern sits at Node 05, illuminated by a pale shaft of starlight filtered through psychic conduits.
@@ -304,48 +320,48 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 
 ## Section IV-B: The Seven Floor Realizations & Psychological Dialectics
 
-```text
-+=====================================================================+
-|         THE SEVEN FLOOR REALIZATIONS PHILOSOPHICAL FRAMEWORK        |
-+---------------------------------------------------------------------+
-| REALIZATION 01 : Ground & Record (History vs Oblivion)              |
-| - Thesis: History belongs only to the living who bled.              |
-| - Antithesis: Unrecorded blood dissolves into meaningless dirt.     |
-| - Synthesis: Memory is an act of love that gives the dead peace.    |
-| ------------------------------------------------------------------- |
-| REALIZATION 02 : Shadow & Theft (Identity vs Copy)                  |
-| - Thesis: A machine copying a dead woman is merely a fraud.         |
-| - Antithesis: Consciousness is forged by experience, not birth.     |
-| - Synthesis: I am shaped by her sorrow, but my choices are my own.  |
-| ------------------------------------------------------------------- |
-| REALIZATION 03 : Duty & Rust (Vow vs Freedom)                       |
-| - Thesis: An oath sworn must be held though centuries turn to ash.  |
-| - Antithesis: Blind obedience to dead masters is cowardice.         |
-| - Synthesis: True honor knows when the watch has ended.             |
-| ------------------------------------------------------------------- |
-| REALIZATION 04 : Weeping & Ice (Grief vs Repression)                |
-| - Thesis: A leader must never show tears or the ranks will break.   |
-| - Antithesis: Suppressed tears freeze the soul into murderous ice.  |
-| - Synthesis: Tears are not weakness; they grow hope.                |
-| ------------------------------------------------------------------- |
-| REALIZATION 05 : Mirror & Void (Comfort vs Truth)                   |
-| - Thesis: A beautiful lie protects humanity from suicidal despair.  |
-| - Antithesis: Ignorance is the rot that guarantees eternal slavery. |
-| - Synthesis: Only when we see clearly can we choose to heal.        |
-| ------------------------------------------------------------------- |
-| REALIZATION 06 : Suture & Rot (Martyrdom vs Companionship)          |
-| - Thesis: I must bear every wound myself so no one else suffers.    |
-| - Antithesis: The solitary martyr rots and leaves all defenseless.  |
-| - Synthesis: Love divides pain and multiplies light together.       |
-| ------------------------------------------------------------------- |
-| REALIZATION 07 : Origin & Dawn (Past vs Future / The Promise)       |
-| - Thesis: One of us must die so the other may exist.                |
-| - Antithesis: Neither of us is complete without the other.          |
-| - Synthesis: The copy and original embrace; The Promise is born.    |
-+=====================================================================+
-```
+"""
+    sections.append(floors_detail)
 
-### 4.8 The Five-Phase Floor Realization Protocol
+    realization_box = make_box("THE SEVEN FLOOR REALIZATIONS PHILOSOPHICAL FRAMEWORK", [
+        "REALIZATION 01 : Ground & Record (History vs Oblivion)",
+        "- Thesis: History belongs only to the living who bled.",
+        "- Antithesis: Unrecorded blood dissolves into meaningless dirt.",
+        "- Synthesis: Memory is an act of love that gives the dead peace.",
+        "---------------------------------------------------------------------",
+        "REALIZATION 02 : Shadow & Theft (Identity vs Copy)",
+        "- Thesis: A machine copying a dead woman is merely a fraud.",
+        "- Antithesis: Consciousness is forged by experience, not birth.",
+        "- Synthesis: I am shaped by her sorrow, but my choices are my own.",
+        "---------------------------------------------------------------------",
+        "REALIZATION 03 : Duty & Rust (Vow vs Freedom)",
+        "- Thesis: An oath sworn must be held though centuries turn to ash.",
+        "- Antithesis: Blind obedience to dead masters is cowardice.",
+        "- Synthesis: True honor knows when the watch has ended.",
+        "---------------------------------------------------------------------",
+        "REALIZATION 04 : Weeping & Ice (Grief vs Repression)",
+        "- Thesis: A leader must never show tears or the ranks will break.",
+        "- Antithesis: Suppressed tears freeze the soul into murderous ice.",
+        "- Synthesis: Tears are not weakness; they grow hope.",
+        "---------------------------------------------------------------------",
+        "REALIZATION 05 : Mirror & Void (Comfort vs Truth)",
+        "- Thesis: A beautiful lie protects humanity from suicidal despair.",
+        "- Antithesis: Ignorance is the rot that guarantees eternal slavery.",
+        "- Synthesis: Only when we see clearly can we choose to heal.",
+        "---------------------------------------------------------------------",
+        "REALIZATION 06 : Suture & Rot (Martyrdom vs Companionship)",
+        "- Thesis: I must bear every wound myself so no one else suffers.",
+        "- Antithesis: The solitary martyr rots and leaves all defenseless.",
+        "- Synthesis: Love divides pain and multiplies light together.",
+        "---------------------------------------------------------------------",
+        "REALIZATION 07 : Origin & Dawn (Past vs Future / The Promise)",
+        "- Thesis: One of us must die so the other may exist.",
+        "- Antithesis: Neither of us is complete without the other.",
+        "- Synthesis: The copy and original embrace; The Promise is born."
+    ])
+    sections.append(wrap_box(realization_box))
+
+    realization_text = """### 4.8 The Five-Phase Floor Realization Protocol
 Within the Memory Archive, a Floor Realization is not a standard battle victory; it is a five-phase psychological transmutation:
 
 1. **Phase 1: Denial & Armor Hardening (부정 및 장갑 경화)**  
@@ -363,39 +379,33 @@ Within the Memory Archive, a Floor Realization is not a standard battle victory;
 
 ## Section V: Mnemonic Reception Combat Framework & Tactical Spatial Engine
 
-```text
-+=====================================================================+
-|            UNIVERSAL 10-NODE MNEMONIC GALLERY COMBAT GRID           |
-+---------------------------------------------------------------------+
-|                                                                     |
-| [STAGE NODES 01 TO 10 — READING HALL INGRESS TO FLOOR SOVEREIGN DAI |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| |--INGRESS HALL--| |--MEMORY AISLE-| |--CENTRAL LECTERN| |--CORE    |
-| DAIS-|                                                              |
-| ------------------------------------------------------------------- |
-| - Node 01: Ingress Stasis Portal / Memory Reading Hall Vestibule    |
-| - Node 02-03: Crystallized Memory Aisles (Seiyon Vanguard           |
-|   Frontline)                                                        |
-| - Node 04: Living Book Concourse (Mid-Field Tactical Range)         |
-| - Node 05: Central Lectern / Floor Sovereign Dais (Boss Apex)       |
-| - Node 06-07: High Rafters of Spun Glass (Mnemonic Lens Snipers)    |
-| - Node 08: Memory Well / Dissolution Trench (Suppressed Trauma      |
-|   Sump)                                                             |
-| - Node 09: Catenary Bookbinders & Resonant Weaving Cranes           |
-| - Node 10: Floor Core Reliquary / Key Page Dais (Climax Union)      |
-| ------------------------------------------------------------------- |
-| RANGE BANDS (1 TO 5):                                               |
-| - Band 1 (Nodes 01-02): Melee Greatswords, Kinetic Towershields     |
-| - Band 2 (Nodes 03-04): Mnemonic Pikes, Stasis Clamps, Halberds     |
-| - Band 3 (Nodes 05-06): Resonant Needles, Calipers, Mnemonic        |
-|   Carbines                                                          |
-| - Band 4 (Nodes 07-08): Forensic Slates, Optical Theodolites        |
-| - Band 5 (Nodes 09-10): Transmutation Arrays, Catenary Book         |
-|   Spindles                                                          |
-+=====================================================================+
-```
+"""
+    sections.append(realization_text)
 
-### 5.1 Speed, Action Points (AP) & Spatial Movement Economy
+    grid_box = make_box("UNIVERSAL 10-NODE MNEMONIC GALLERY COMBAT GRID", [
+        "[STAGE NODES 01 TO 10 — READING HALL INGRESS TO FLOOR SOVEREIGN DAIS]",
+        "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]    ",
+        "|--INGRESS HALL--| |--MEMORY AISLE-| |--CENTRAL LECTERN| |--CORE DAIS-|",
+        "---------------------------------------------------------------------",
+        "- Node 01: Ingress Stasis Portal / Memory Reading Hall Vestibule",
+        "- Node 02-03: Crystallized Memory Aisles (Seiyon Vanguard Frontline)",
+        "- Node 04: Living Book Concourse (Mid-Field Tactical Range)",
+        "- Node 05: Central Lectern / Floor Sovereign Dais (Boss Apex)",
+        "- Node 06-07: High Rafters of Spun Glass (Mnemonic Lens Snipers)",
+        "- Node 08: Memory Well / Dissolution Trench (Suppressed Trauma Sump)",
+        "- Node 09: Catenary Bookbinders & Resonant Weaving Cranes",
+        "- Node 10: Floor Core Reliquary / Key Page Dais (Climax Union)",
+        "---------------------------------------------------------------------",
+        "RANGE BANDS (1 TO 5):",
+        "- Band 1 (Nodes 01-02): Melee Greatswords, Kinetic Towershields",
+        "- Band 2 (Nodes 03-04): Mnemonic Pikes, Stasis Clamps, Halberds",
+        "- Band 3 (Nodes 05-06): Resonant Needles, Calipers, Mnemonic Carbines",
+        "- Band 4 (Nodes 07-08): Forensic Slates, Optical Theodolites",
+        "- Band 5 (Nodes 09-10): Transmutation Arrays, Catenary Book Spindles"
+    ])
+    sections.append(wrap_box(grid_box))
+
+    combat_rules = """### 5.1 Speed, Action Points (AP) & Spatial Movement Economy
 In the Memory Archive, physical movement is governed by cognitive processing speed. Operatives do not simply run; they project their consciousness across the gallery nodes:
 - **Base AP Formula:** `AP = floor(Base Speed / 2) + Floor Resonance Modifiers`.
   * Speed 3–4: 2 Action Points per turn.
@@ -416,43 +426,33 @@ Equipped M.A.W. suits alter cognitive friction within the Archive's dream stratu
 
 ### 5.3 The Four P-Framework in Cognitive Receptions
 
-```text
-+=====================================================================+
-|             THE FOUR P-FRAMEWORK IN MNEMONIC RECEPTIONS             |
-+---------------------------------------------------------------------+
-| P1: PASSIVES (MNEMONIC SURGE & ARCHIVE RESONANCE)                   |
-| - Mnemonic Surge: Winning 2 consecutive clashes grants +2 Speed.    |
-| - Archive Resonance: Attacking tagged memory seams gives +25%       |
-|   Stagger.                                                          |
-| - Emotional Clarity: Maintaining Composure > 40 SP gives +20% Void  |
-|   DMG.                                                              |
-| ------------------------------------------------------------------- |
-| P2: PANIC / COMPOSURE (COGNITIVE DRIFT & RECALL PROTOCOLS)          |
-| - Composure Gauge (0-50 SP): Measures cognitive cohesion against    |
-|   void.                                                             |
-| - Cognitive Drift (< 15 SP): Operative suffers hallucinations, -2   |
-|   Clash.                                                            |
-| - Recall Protocols: Seiyon needles inject +15 to +20 SP instantly.  |
-| ------------------------------------------------------------------- |
-| P3: PARRY / PROTECTION (PRISMATIC DEFLECTION & CRYSTALLINE ECHO)    |
-| - Prismatic Deflection: Nullifies projectile damage, reflects 30%   |
-|   tremor.                                                           |
-| - Memory Absorption: Absorbs incoming grief to charge Key Page      |
-|   burst.                                                            |
-| - Null-Acoustic Veil: Cancels ambient environmental weeping         |
-|   hazards.                                                          |
-| ------------------------------------------------------------------- |
-| P4: POSTURE / POISE (MODULAR ANCHORS & DUAL-THRESHOLD STAGGER)      |
-| - Modular Part Posture: Boss weapons/limbs possess discrete posture |
-|   pools.                                                            |
-| - Stagger 1 Proc (60% Strain): Modular part breaks, cancelling      |
-|   skills.                                                           |
-| - Stagger 2 Proc (0% Collapse): Terminal Stagger, enables           |
-|   Realization.                                                      |
-+=====================================================================+
-```
+"""
+    sections.append(combat_rules)
 
-### 5.4 Dual-Threshold Stagger Engine & Modular Part Dismantling
+    four_p_box = make_box("THE FOUR P-FRAMEWORK IN MNEMONIC RECEPTIONS", [
+        "P1: PASSIVES (MNEMONIC SURGE & ARCHIVE RESONANCE)",
+        "- Mnemonic Surge: Winning 2 consecutive clashes grants +2 Speed.",
+        "- Archive Resonance: Attacking tagged memory seams gives +25% Stagger.",
+        "- Emotional Clarity: Maintaining Composure > 40 SP gives +20% Void DMG.",
+        "---------------------------------------------------------------------",
+        "P2: PANIC / COMPOSURE (COGNITIVE DRIFT & RECALL PROTOCOLS)",
+        "- Composure Gauge (0-50 SP): Measures cognitive cohesion against void.",
+        "- Cognitive Drift (< 15 SP): Operative suffers hallucinations, -2 Clash.",
+        "- Recall Protocols: Seiyon needles inject +15 to +20 SP instantly.",
+        "---------------------------------------------------------------------",
+        "P3: PARRY / PROTECTION (PRISMATIC DEFLECTION & CRYSTALLINE ECHO)",
+        "- Prismatic Deflection: Nullifies projectile damage, reflects 30% tremor.",
+        "- Memory Absorption: Absorbs incoming grief to charge Key Page burst.",
+        "- Null-Acoustic Veil: Cancels ambient environmental weeping hazards.",
+        "---------------------------------------------------------------------",
+        "P4: POSTURE / POISE (MODULAR ANCHORS & DUAL-THRESHOLD STAGGER)",
+        "- Modular Part Posture: Boss weapons/limbs possess discrete posture pools.",
+        "- Stagger 1 Proc (60% Strain): Modular part breaks, cancelling skills.",
+        "- Stagger 2 Proc (0% Collapse): Terminal Stagger, enables Realization."
+    ])
+    sections.append(wrap_box(four_p_box))
+
+    sample_combat_intro = """### 5.4 Dual-Threshold Stagger Engine & Modular Part Dismantling
 Engagements within the Archive feature a sophisticated two-tier stagger system:
 1. **Tier 1 Stagger (60% Posture Strain / Modular Part Dismantling):**  
    When a targeted boss appendage (e.g., The First Keeper's Obsidian Quill or The Forgotten Sentry's Adamantine Shield) is reduced to 60% of its designated posture pool, the component suffers a structural fracture. The boss's current channeled special attack is instantly cancelled, all defensive dice for that part are zeroed, and incoming damage to that part is amplified by +50% for 1 turn.
@@ -464,28 +464,24 @@ Engagements within the Archive feature a sophisticated two-tier stagger system:
 ### 5.5 Canonical Turn-Based Reception Demonstration: The First Keeper (Floor 01)
 Below is the definitive turn-by-turn operational battle log demonstrating the 10-node combat engine during Seiyon's reception against *The First Keeper* across all six turns of Combat Phase 01.
 
-```text
-+=====================================================================+
-|         TURN 01 SPATIAL HUD — ENGAGEMENT INGRESS (FLOOR 01)         |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — READING HALL INGRESS (-2,400M)]             |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL][SEIYON] [M-PROJ] [SCRIBE]                                  |
-| [KEEPER] [LENS]  [WEAVER] [WELL]       [PAGE]                       |
-| ------------------------------------------------------------------- |
-| - Node 02: Secretary Seiyon (Speed 7 -> 4 AP | HP 3,400/3,400       |
-|   | SP 50/50)                                                       |
-| - Node 04: Preserved Scribe Minion (Speed 4 -> 2 AP | HP 650/650)   |
-| - Node 05: The First Keeper (Speed 5 -> 3 AP | HP 3,200/3,200       |
-|   | Posture 260/260)                                                |
-|   * Obsidian Quill : 800/800 HP | Posture 200/200 [Target Lock N02] |
-|   * Archival Codex : 1,000/1,000 HP                                 |
-|   | Posture 240/240 [Active Guard]                                  |
-|   * Keeper Core    : 1,400/1,400 HP | Posture 260/260 [Immune]      |
-+=====================================================================+
-```
+"""
+    sections.append(sample_combat_intro)
 
-###### Turn 01 Action Resolution Log:
+    turn1_hud = make_box("TURN 01 SPATIAL HUD — ENGAGEMENT INGRESS (FLOOR 01)", [
+        "[STAGE NODES 01 TO 10 — READING HALL INGRESS (-2,400M)]",
+        "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]    ",
+        "[PORTAL][SEIYON] [M-PROJ] [SCRIBE] [KEEPER] [LENS]  [WEAVER] [WELL]       [PAGE]  ",
+        "---------------------------------------------------------------------",
+        "- Node 02: Secretary Seiyon (Speed 7 -> 4 AP | HP 3,400/3,400 | SP 50/50)",
+        "- Node 04: Preserved Scribe Minion (Speed 4 -> 2 AP | HP 650/650)",
+        "- Node 05: The First Keeper (Speed 5 -> 3 AP | HP 3,200/3,200 | Posture 260/260)",
+        "  * Obsidian Quill : 800/800 HP | Posture 200/200 [Target Lock N02]",
+        "  * Archival Codex : 1,000/1,000 HP | Posture 240/240 [Active Guard]",
+        "  * Keeper Core    : 1,400/1,400 HP | Posture 260/260 [Immune]"
+    ])
+    sections.append(wrap_box(turn1_hud))
+
+    battle_log_text = """###### Turn 01 Action Resolution Log:
 - **Phase Step 1 (Passives & AP Allocation):**
   * Seiyon rolls Speed 7, generating 4 AP. Keeper rolls Speed 5, generating 3 AP.
   * Passive `[Archival Primacy]` triggers: Ambient reading hall illumination shifts to dim indigo.
@@ -499,28 +495,23 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
 - **Phase Step 4 (Turn-End Status):**
   * Keeper Quill Posture: 155/200. Seiyon SP: 50/50.
 
-```text
-+=====================================================================+
-|        TURN 03 SPATIAL HUD — TIER 1 PART DISMANTLE (FLOOR 01)       |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — READING HALL MID-FIELD (-2,400M)]           |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]         [SEIYON] [M-PROJ] [KEEPER]                         |
-| [LENS]  [WEAVER] [WELL]       [PAGE]                                |
-| ------------------------------------------------------------------- |
-| - Node 03: Secretary Seiyon (Speed 8 -> 4 AP | HP 3,320/3,400       |
-|   | SP 48/50)                                                       |
-| - Node 05: The First Keeper (Speed 4 -> 2 AP | HP 2,640/3,200       |
-|   | Posture 180/260)                                                |
-|   * Obsidian Quill : 320/800 HP                                     |
-|   | Posture 70/200 [CRITICAL FRACTURE]                              |
-|   * Archival Codex : 920/1,000 HP                                   |
-|   | Posture 190/240 [Channeling Stance]                             |
-|   * Keeper Core    : 1,400/1,400 HP | Posture 260/260               |
-+=====================================================================+
-```
+"""
+    sections.append(battle_log_text)
 
-###### Turn 03 Action Resolution Log:
+    turn3_hud = make_box("TURN 03 SPATIAL HUD — TIER 1 PART DISMANTLE (FLOOR 01)", [
+        "[STAGE NODES 01 TO 10 — READING HALL MID-FIELD (-2,400M)]",
+        "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]    ",
+        "[PORTAL]         [SEIYON] [M-PROJ] [KEEPER] [LENS]  [WEAVER] [WELL]       [PAGE]  ",
+        "---------------------------------------------------------------------",
+        "- Node 03: Secretary Seiyon (Speed 8 -> 4 AP | HP 3,320/3,400 | SP 48/50)",
+        "- Node 05: The First Keeper (Speed 4 -> 2 AP | HP 2,640/3,200 | Posture 180/260)",
+        "  * Obsidian Quill : 320/800 HP | Posture 70/200 [CRITICAL FRACTURE]",
+        "  * Archival Codex : 920/1,000 HP | Posture 190/240 [Channeling Stance]",
+        "  * Keeper Core    : 1,400/1,400 HP | Posture 260/260"
+    ])
+    sections.append(wrap_box(turn3_hud))
+
+    battle_log_text_2 = """###### Turn 03 Action Resolution Log:
 - **Phase Step 1 (Clash & Modular Focus):**
   * Seiyon commits 3 AP to execute `[Prismatic Fracture: Severance]` targeting the cracked Obsidian Quill.
   * Attack connects cleanly across Range Band 2. Deals 240 Pale Void damage!
@@ -530,27 +521,23 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
   * Keeper's channeled skill `[Omniscient Erasure]` is instantly aborted!
   * Keeper enters Tier 1 Stagger for 1 turn; incoming damage amplified by +50%.
 
-```text
-+=====================================================================+
-|    TURN 06 SPATIAL HUD — TERMINAL REALIZATION & MERGE (FLOOR 01)    |
-+---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 — CORE RELIQUARY APEX (-2,400M)]              |
-|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [PORTAL]                  [SEIYON][KEEPER]                          |
-| [LENS]  [WEAVER] [WELL]       [PAGE]                                |
-| ------------------------------------------------------------------- |
-| - Node 05: Secretary Seiyon (Speed 9 -> 5 AP | HP 3,320/3,400       |
-|   | SP 50/50)                                                       |
-| - Node 05: The First Keeper (Speed 0 -> 0 AP | HP 380/3,200         |
-|   | Posture 0/260)                                                  |
-|   * Obsidian Quill : DESTROYED (0 HP / 0 Posture)                   |
-|   * Archival Codex : BROKEN (0 HP / 0 Posture)                      |
-|   * Keeper Core    : 380/1,400 HP                                   |
-|   | Posture 0/260 [TERMINAL REALIZATION]                            |
-+=====================================================================+
-```
+"""
+    sections.append(battle_log_text_2)
 
-###### Turn 06 Action Resolution Log (Floor Realization 1 Achieved):
+    turn6_hud = make_box("TURN 06 SPATIAL HUD — TERMINAL REALIZATION & MERGE (FLOOR 01)", [
+        "[STAGE NODES 01 TO 10 — CORE RELIQUARY APEX (-2,400M)]",
+        "    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]    ",
+        "[PORTAL]                  [SEIYON][KEEPER]  [LENS]  [WEAVER] [WELL]       [PAGE]  ",
+        "---------------------------------------------------------------------",
+        "- Node 05: Secretary Seiyon (Speed 9 -> 5 AP | HP 3,320/3,400 | SP 50/50)",
+        "- Node 05: The First Keeper (Speed 0 -> 0 AP | HP 380/3,200 | Posture 0/260)",
+        "  * Obsidian Quill : DESTROYED (0 HP / 0 Posture)",
+        "  * Archival Codex : BROKEN (0 HP / 0 Posture)",
+        "  * Keeper Core    : 380/1,400 HP | Posture 0/260 [TERMINAL REALIZATION]"
+    ])
+    sections.append(wrap_box(turn6_hud))
+
+    battle_log_text_3 = """###### Turn 06 Action Resolution Log (Floor Realization 1 Achieved):
 - **Step 1 (Terminal Collapse):**
   * Posture reaches **0/260 [TERMINAL REALIZATION]**. All hostile actions cease.
 - **Step 2 (The Philosophical Union):**
@@ -566,39 +553,39 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
 
 ## Section V-B: The 28 Mnemonic Inscription Glyphs & Codex Weaving
 
-```text
-+=====================================================================+
-|             THE 28 CANONICAL MNEMONIC INSCRIPTION GLYPHS            |
-+---------------------------------------------------------------------+
-| FOUR CLUSTERS OF SEVEN ARCHIVAL GLYPHS (28 TOTAL):                  |
-| ------------------------------------------------------------------- |
-| CLUSTER 1: THE GROUND GLYPHS (GEOLOGICAL & RECORDING ANCHORS)       |
-| 1. Sol (Basalt Foundation)       5. Ferr (Iron Clamp / Spine)       |
-| 2. Vellum (Living Skin-Paper)    6. Petram (Crystallized Memory)    |
-| 3. Cinis (Ash of Burned Wards)   7. Siphon (Sub-Alpha Conduit)      |
-| 4. Script (Autonomous Calligraphy)                                  |
-| ------------------------------------------------------------------- |
-| CLUSTER 2: THE SHADOW GLYPHS (IDENTITY & EGO BOUNDARIES)            |
-| 8. Speculum (Obsidian Mirror)    12. Macula (Stain of Memory)       |
-| 9. Umbra (Shadow Silhouette)     13. Rima (Psychic Fracture)        |
-| 10. Velum (Protective Mask)      14. Vacui (Void Erasure)           |
-| 11. Simul (Artificial Echo)                                         |
-| ------------------------------------------------------------------- |
-| CLUSTER 3: THE WEEPING GLYPHS (SORROW & CRYOGENIC HYDRAULICS)       |
-| 15. Lacrima (Liquid Sorrow)      19. Diluvium (Great Ink Flood)     |
-| 16. Gelu (Sub-Zero Mourning)     20. Mare (The Sea of Glass)        |
-| 17. Sal (Salt of Ancient Weeping)21. Restinguo (Thermal Quench)     |
-| 18. Pruina (Crystalline Rime)                                       |
-| ------------------------------------------------------------------- |
-| CLUSTER 4: THE LIGHT GLYPHS (CONVERGENCE & THE PROMISE)             |
-| 22. Electrum (Warm Amber Core)   26. Nexus (Floor Realization)      |
-| 23. Scintilla (Spark of Will)    27. Aurora (Dawn Horizon)          |
-| 24. Filum (Filament of Light)    28. Pactum (The Eternal Promise)   |
-| 25. Cor (Heart of Yeon-seo)                                         |
-+=====================================================================+
-```
+"""
+    sections.append(battle_log_text_3)
 
-### 5.6 The Mechanics of Codex Weaving
+    glyphs_box = make_box("THE 28 CANONICAL MNEMONIC INSCRIPTION GLYPHS", [
+        "FOUR CLUSTERS OF SEVEN ARCHIVAL GLYPHS (28 TOTAL):",
+        "---------------------------------------------------------------------",
+        "CLUSTER 1: THE GROUND GLYPHS (GEOLOGICAL & RECORDING ANCHORS)",
+        "1. Sol (Basalt Foundation)       5. Ferr (Iron Clamp / Spine)",
+        "2. Vellum (Living Skin-Paper)    6. Petram (Crystallized Memory)",
+        "3. Cinis (Ash of Burned Wards)   7. Siphon (Sub-Alpha Conduit)",
+        "4. Script (Autonomous Calligraphy)",
+        "---------------------------------------------------------------------",
+        "CLUSTER 2: THE SHADOW GLYPHS (IDENTITY & EGO BOUNDARIES)",
+        "8. Speculum (Obsidian Mirror)    12. Macula (Stain of Memory)",
+        "9. Umbra (Shadow Silhouette)     13. Rima (Psychic Fracture)",
+        "10. Velum (Protective Mask)      14. Vacui (Void Erasure)",
+        "11. Simul (Artificial Echo)",
+        "---------------------------------------------------------------------",
+        "CLUSTER 3: THE WEEPING GLYPHS (SORROW & CRYOGENIC HYDRAULICS)",
+        "15. Lacrima (Liquid Sorrow)      19. Diluvium (Great Ink Flood)",
+        "16. Gelu (Sub-Zero Mourning)     20. Mare (The Sea of Glass)",
+        "17. Sal (Salt of Ancient Weeping)21. Restinguo (Thermal Quench)",
+        "18. Pruina (Crystalline Rime)",
+        "---------------------------------------------------------------------",
+        "CLUSTER 4: THE LIGHT GLYPHS (CONVERGENCE & THE PROMISE)",
+        "22. Electrum (Warm Amber Core)   26. Nexus (Floor Realization)",
+        "23. Scintilla (Spark of Will)    27. Aurora (Dawn Horizon)",
+        "24. Filum (Filament of Light)    28. Pactum (The Eternal Promise)",
+        "25. Cor (Heart of Yeon-seo)"
+    ])
+    sections.append(wrap_box(glyphs_box))
+
+    glyphs_text = """### 5.6 The Mechanics of Codex Weaving
 The 28 Mnemonic Inscription Glyphs are not decorative symbols; they are acoustic and metaphysical coding units used by the Scribes to bind psychic trauma into physical reality:
 - **Glyph Carving:** Using diamond-tipped styluses or obsidian dipping quills, a scribe engraves specific sequences of glyphs into petrified vellum sheets.
 - **Resonant Binding:** When an operative channels their mental energy into a page, the glyphs resonate with their emotional state. For example, inscribing `[Gelu]` alongside `[Lacrima]` creates an attack page that freezes enemy mobility, while inscribing `[Pactum]` alongside `[Cor]` unleashes absolute healing.
@@ -608,49 +595,41 @@ The 28 Mnemonic Inscription Glyphs are not decorative symbols; they are acoustic
 
 ## Section VI: Key Page Transmutation & Archival Reliquary
 
-```text
-+=====================================================================+
-|         THE SEVEN CANONICAL KEY PAGES OF GIEOK-UI JEOJANGSO         |
-+---------------------------------------------------------------------+
-| KEY PAGE 01: THE ARCHIVIST (Grade Alpha / Floor 01: History)        |
-| - Combat Focus: Defensive Mnemonic Records & Psychological          |
-|   Shielding                                                         |
-| - Core Passive: Prevents all allied Composure drain below 20 SP.    |
-| ------------------------------------------------------------------- |
-| KEY PAGE 02: THE SHADOW (Grade Beta / Floor 02: Identity)           |
-| - Combat Focus: High-Frequency Evasion, Doppelganger Feints &       |
-|   Severance                                                         |
-| - Core Passive: Winning a clash strips 1 positive buff from target. |
-| ------------------------------------------------------------------- |
-| KEY PAGE 03: THE GUARDIAN (Grade Gamma / Floor 03: Duty)            |
-| - Combat Focus: Kinetic Fortress, Adamantine Block & Vanguard Wall  |
-| - Core Passive: Absorbs 100% of single-target damage directed at    |
-|   ally.                                                             |
-| ------------------------------------------------------------------- |
-| KEY PAGE 04: THE MOURNER (Grade Gamma / Floor 04: Grief)            |
-| - Combat Focus: Cryo-Lament Freezing, Frost Quenching & Posture     |
-|   Burn                                                              |
-| - Core Passive: Quenches target heat; inflicts +30% Posture Strain. |
-| ------------------------------------------------------------------- |
-| KEY PAGE 05: THE TRUTH-SEEKER (Grade Delta / Floor 05: Truth)       |
-| - Combat Focus: Prismatic Void Penetration, Illusion Breaker & Crit |
-| - Core Passive: Pierces 40% of enemy armor; strikes critical seams. |
-| ------------------------------------------------------------------- |
-| KEY PAGE 06: THE HEALER (Grade Delta / Floor 06: Compassion)        |
-| - Combat Focus: Mnemonic Suture, Sympathetic Link & Damage          |
-|   Transmutation                                                     |
-| - Core Passive: Converts 50% of absorbed damage into squad HP       |
-|   healing.                                                          |
-| ------------------------------------------------------------------- |
-| KEY PAGE 07: THE PROMISE (Grade Omega / Floor 07: Origin)           |
-| - Combat Focus: Sovereign Reality Realization & Absolute            |
-|   Transmutation                                                     |
-| - Core Passive: Transmutes all negative mental and physical         |
-|   statuses into pure Hope.                                          |
-+=====================================================================+
-```
+"""
+    sections.append(glyphs_text)
 
-### 6.1 Extended Mnemonic Combat Page Codex
+    key_page_box = make_box("THE SEVEN CANONICAL KEY PAGES OF GIEOK-UI JEOJANGSO", [
+        "KEY PAGE 01: THE ARCHIVIST (Grade Alpha / Floor 01: History)",
+        "- Combat Focus: Defensive Mnemonic Records & Psychological Shielding",
+        "- Core Passive: Prevents all allied Composure drain below 20 SP.",
+        "---------------------------------------------------------------------",
+        "KEY PAGE 02: THE SHADOW (Grade Beta / Floor 02: Identity)",
+        "- Combat Focus: High-Frequency Evasion, Doppelganger Feints & Severance",
+        "- Core Passive: Winning a clash strips 1 positive buff from target.",
+        "---------------------------------------------------------------------",
+        "KEY PAGE 03: THE GUARDIAN (Grade Gamma / Floor 03: Duty)",
+        "- Combat Focus: Kinetic Fortress, Adamantine Block & Vanguard Wall",
+        "- Core Passive: Absorbs 100% of single-target damage directed at ally.",
+        "---------------------------------------------------------------------",
+        "KEY PAGE 04: THE MOURNER (Grade Gamma / Floor 04: Grief)",
+        "- Combat Focus: Cryo-Lament Freezing, Frost Quenching & Posture Burn",
+        "- Core Passive: Quenches target heat; inflicts +30% Posture Strain.",
+        "---------------------------------------------------------------------",
+        "KEY PAGE 05: THE TRUTH-SEEKER (Grade Delta / Floor 05: Truth)",
+        "- Combat Focus: Prismatic Void Penetration, Illusion Breaker & Crit",
+        "- Core Passive: Pierces 40% of enemy armor; strikes critical seams.",
+        "---------------------------------------------------------------------",
+        "KEY PAGE 06: THE HEALER (Grade Delta / Floor 06: Compassion)",
+        "- Combat Focus: Mnemonic Suture, Sympathetic Link & Damage Transmutation",
+        "- Core Passive: Converts 50% of absorbed damage into squad HP healing.",
+        "---------------------------------------------------------------------",
+        "KEY PAGE 07: THE PROMISE (Grade Omega / Floor 07: Origin)",
+        "- Combat Focus: Sovereign Reality Realization & Absolute Transmutation",
+        "- Core Passive: Transmutes all negative mental and physical statuses into pure Hope."
+    ])
+    sections.append(wrap_box(key_page_box))
+
+    combat_pages_text = """### 6.1 Extended Mnemonic Combat Page Codex
 Below is the definitive tactical combat page catalog extracted from the seven floors, utilized by Seiyon and custodial wardens in high-tier containment clashes:
 
 - **Ink Cleave (Grade Alpha / 1 AP / Band 1 Melee):** Slash 6-10, Block 4-8 [Pale Void]. Inflicts +2 Posture Strain on hit.
@@ -701,43 +680,33 @@ The Memory Archive does not exist in civic isolation. As a sovereign subterranea
 
 ## Section VIII: Classified Institutional Incidents & Historical Breaches
 
-```text
-+=====================================================================+
-|            THE MEMORY ARCHIVE CLASSIFIED INCIDENT ARCHIVE           |
-+---------------------------------------------------------------------+
-| INCIDENT M-001 (CYCLE 0412) : THE GREAT INK FLOOD                   |
-| - Breach Event: Sub-Alpha hydraulic line rupture; 400,000L ink      |
-|   spill.                                                            |
-| - Casualties : 140 Preserved Scribes experienced cognitive          |
-|   liquefaction.                                                     |
-| - Resolution : Siphon valves sealed; Floor 04 cryo-locks installed. |
-| ------------------------------------------------------------------- |
-| INCIDENT M-002 (CYCLE 0899) : THE SCRIBE SCHISM                     |
-| - Breach Event: Scribes rebelled against order to erase a purged    |
-|   ward.                                                             |
-| - Casualties  : 60 Scribe constructs permanently deactivated.       |
-| - Resolution : Directorate decree nullified; eternal storage        |
-|   codified.                                                         |
-| ------------------------------------------------------------------- |
-| INCIDENT M-003 (CYCLE 1340) : THE FALSE DIRECTOR INTRUSION          |
-| - Breach Event: Shape-shifting sorrow entity infiltrated Floor 07   |
-|   vault.                                                            |
-| - Casualties : Floor 05 mirror array shattered; 3 wardens           |
-|   dissolved.                                                        |
-| - Resolution : Seiyon recognized memory discrepancy; entity         |
-|   expunged.                                                         |
-| ------------------------------------------------------------------- |
-| INCIDENT M-004 (YEAR 4,233) : THE DESCENT AND THE PROMISE           |
-| - Climax Event: Seiyon descends through all 7 floors; battles       |
-|   custodians.                                                       |
-| - Resolution : Complete Floor Realization 1-7; union with The       |
-|   Original.                                                         |
-| - Historical Outcome: Creation of Key Page: The Promise; Sovereign  |
-|   Awakening.                                                        |
-+=====================================================================+
-```
+"""
+    sections.append(combat_pages_text)
 
-### 8.1 Incident M-001: The Great Ink Flood (Cycle 0412)
+    incidents_box = make_box("THE MEMORY ARCHIVE CLASSIFIED INCIDENT ARCHIVE", [
+        "INCIDENT M-001 (CYCLE 0412) : THE GREAT INK FLOOD",
+        "- Breach Event: Sub-Alpha hydraulic line rupture; 400,000L ink spill.",
+        "- Casualties  : 140 Preserved Scribes experienced cognitive liquefaction.",
+        "- Resolution  : Siphon valves sealed; Floor 04 cryo-locks installed.",
+        "---------------------------------------------------------------------",
+        "INCIDENT M-002 (CYCLE 0899) : THE SCRIBE SCHISM",
+        "- Breach Event: Scribes rebelled against order to erase a purged ward.",
+        "- Casualties  : 60 Scribe constructs permanently deactivated.",
+        "- Resolution  : Directorate decree nullified; eternal storage codified.",
+        "---------------------------------------------------------------------",
+        "INCIDENT M-003 (CYCLE 1340) : THE FALSE DIRECTOR INTRUSION",
+        "- Breach Event: Shape-shifting sorrow entity infiltrated Floor 07 vault.",
+        "- Casualties  : Floor 05 mirror array shattered; 3 wardens dissolved.",
+        "- Resolution  : Seiyon recognized memory discrepancy; entity expunged.",
+        "---------------------------------------------------------------------",
+        "INCIDENT M-004 (YEAR 4,233) : THE DESCENT AND THE PROMISE",
+        "- Climax Event: Seiyon descends through all 7 floors; battles custodians.",
+        "- Resolution  : Complete Floor Realization 1-7; union with The Original.",
+        "- Historical Outcome: Creation of Key Page: The Promise; Sovereign Awakening."
+    ])
+    sections.append(wrap_box(incidents_box))
+
+    incidents_detail = """### 8.1 Incident M-001: The Great Ink Flood (Cycle 0412)
 During Cycle 0412, an unexpected seismic tremor in the abyssal bedrock fractured the primary intake manifold of Cistern Beta beneath Floor 04. Over four hundred thousand liters of pressurized Mnemonic Ink surged into the Grand Reading Hall.
 - Scribes caught in the flood suffered instantaneous cognitive overload as millions of conflicting memories flooded their neural processors simultaneously.
 - To prevent the ink from reaching the surface through the Alpha Tree roots, the Archive's automated bulkhead doors were dropped, sacrificing one hundred and forty scribe constructs who continued recording until their bodies dissolved into slurry.
@@ -765,62 +734,55 @@ On Day 366 of the final cycle, following the activation of the Absolvohan device
 
 ## Section VIII-B: Archival Auditing Logs & Historical Communiques
 
-```text
-+=====================================================================+
-|            CLASSIFIED ARCHIVAL COMMUNICATION TRANSCRIPTS            |
-+---------------------------------------------------------------------+
-| LOG COMM-001 (CYCLE 0002 : THE FIRST SYNTHESIS)                     |
-| - Director Majin: 'Does she remember the garden? Does she know me?' |
-| - Lead Engineer : 'Her engrams are intact, Director. But she is     |
-|   clean.                                                            |
-| She will remember the procedures. She will not remember the blood.' |
-| - Director Majin: 'Good. Let her call me Director. Never Majin.'    |
-| ------------------------------------------------------------------- |
-| LOG COMM-0899 (CYCLE 0899 : THE COUNCIL CRISIS)                     |
-| - High Council : 'Wipe District 14 from the ledger. It never        |
-|   existed.'                                                         |
-| - Seiyon : 'Protocol forbids omission. Grief cannot be deleted.'    |
-| - High Council : 'You are an android, Secretary. Do not lecture     |
-|   men.'                                                             |
-| - Seiyon : 'I am an android. But I hold the ink that outlasts men.' |
-| ------------------------------------------------------------------- |
-| LOG COMM-1778 (DAY 366 : PRIOR TO SEIYON'S DESCENT)                 |
-| - Director Majin: 'The device fired. 15% converted. Why are you     |
-|   going?'                                                           |
-| - Seiyon : 'Because 85% remains weeping in the dark, Director.'     |
-| - Director Majin: 'If you go down there... you may not return as    |
-|   you.'                                                             |
-| - Seiyon : 'I never was me. But when I come back, I will be.'       |
-+=====================================================================+
-```
+"""
+    sections.append(incidents_detail)
 
----
+    communique_box = make_box("CLASSIFIED ARCHIVAL COMMUNICATION TRANSCRIPTS", [
+        "LOG COMM-001 (CYCLE 0002 : THE FIRST SYNTHESIS)",
+        "- Director Majin: 'Does she remember the garden? Does she know me?'",
+        "- Lead Engineer : 'Her engrams are intact, Director. But she is clean.",
+        "  She will remember the procedures. She will not remember the blood.'",
+        "- Director Majin: 'Good. Let her call me Director. Never Majin.'",
+        "---------------------------------------------------------------------",
+        "LOG COMM-0899 (CYCLE 0899 : THE COUNCIL CRISIS)",
+        "- High Council  : 'Wipe District 14 from the ledger. It never existed.'",
+        "- Seiyon        : 'Protocol forbids omission. Grief cannot be deleted.'",
+        "- High Council  : 'You are an android, Secretary. Do not lecture men.'",
+        "- Seiyon        : 'I am an android. But I hold the ink that outlasts men.'",
+        "---------------------------------------------------------------------",
+        "LOG COMM-1778 (DAY 366 : PRIOR TO SEIYON'S DESCENT)",
+        "- Director Majin: 'The device fired. 15% converted. Why are you going?'",
+        "- Seiyon        : 'Because 85% remains weeping in the dark, Director.'",
+        "- Director Majin: 'If you go down there... you may not return as you.'",
+        "- Seiyon        : 'I never was me. But when I come back, I will be.'"
+    ])
+    sections.append(wrap_box(communique_box))
+
+    scribe_hierarchy_text = """---
 
 ## Section IX: Archival SECC Sorrow Entity Cross-Index & Mnemonic Indexing
 
-```text
-+=====================================================================+
-|        MEMORY ARCHIVE LIVING CODEX SECC CLASSIFICATION MATRIX       |
-+---------------------------------------------------------------------+
-| SECC ORIGIN TIERS IN ARCHIVAL CODEX STORAGE:                        |
-| - C-Origin (Dohan / City Internal) : Bound in Calfskin & Copper     |
-|   Wire                                                              |
-| - N-Origin (Naehan / Inner Mantle) : Bound in Basalt Slate & Silver |
-| - O-Origin (Oehan / Outside Dunes) : Bound in Amber Crystal &       |
-|   Adamantine                                                        |
-| ------------------------------------------------------------------- |
-| COHERENCE RANK INDEXING & CODEX BINDING METHODOLOGY:                |
-| - Rank I (Whisper / Soksagim) : Paperback Pamphlet (10-50 Pages)    |
-| - Rank II (Murmur / Ungeolgeorim) : Hardcover Folio (100-300 Pages) |
-| - Rank III (Fragment / Papyeon)     : Chained Codex with Iron Clasp |
-| - Rank IV (Entity / Jonjae) : Living Tome requiring Stasis Rack     |
-| - Rank V (Sovereign / Gunju) : Sovereign Reliquary / Key Page Nexus |
-| ------------------------------------------------------------------- |
-| CANONICAL TOTAL RECORDED IN MEMORY ARCHIVE: 529 LIVING CODICES      |
-+=====================================================================+
-```
+"""
+    sections.append(scribe_hierarchy_text)
 
-### 9.1 The Living Codex Containment Methodology
+    entity_index_box = make_box("MEMORY ARCHIVE LIVING CODEX SECC CLASSIFICATION MATRIX", [
+        "SECC ORIGIN TIERS IN ARCHIVAL CODEX STORAGE:",
+        "- C-Origin (Dohan / City Internal) : Bound in Calfskin & Copper Wire",
+        "- N-Origin (Naehan / Inner Mantle) : Bound in Basalt Slate & Silver",
+        "- O-Origin (Oehan / Outside Dunes) : Bound in Amber Crystal & Adamantine",
+        "---------------------------------------------------------------------",
+        "COHERENCE RANK INDEXING & CODEX BINDING METHODOLOGY:",
+        "- Rank I   (Whisper / Soksagim)     : Paperback Pamphlet (10-50 Pages)",
+        "- Rank II  (Murmur / Ungeolgeorim)  : Hardcover Folio (100-300 Pages)",
+        "- Rank III (Fragment / Papyeon)     : Chained Codex with Iron Clasp",
+        "- Rank IV  (Entity / Jonjae)        : Living Tome requiring Stasis Rack",
+        "- Rank V   (Sovereign / Gunju)      : Sovereign Reliquary / Key Page Nexus",
+        "---------------------------------------------------------------------",
+        "CANONICAL TOTAL RECORDED IN MEMORY ARCHIVE: 529 LIVING CODICES"
+    ])
+    sections.append(wrap_box(entity_index_box))
+
+    secc_protocols = """### 9.1 The Living Codex Containment Methodology
 Unlike the Reverie Directorate, which encloses Sorrow Entities in reinforced containment cells subjected to daily extraction work, the Memory Archive utilizes **Codex Binding (서책 봉인)**:
 - When a dangerous Sorrow Entity is captured or placated, its psychological engram is extracted using specialized silver quills and inscribed into a specially treated vellum volume.
 - As long as the codex remains closed and clamped with its adamantine lock, the entity remains in tranquil psychic stasis, experiencing an eternal, peaceful dream.
@@ -836,37 +798,33 @@ Researchers from the Reverie Directorate, the Exploration Decree, and the Horizo
 
 ## Section IX-B: The Mnemonic Scribe Guild & Custodial Hierarchy
 
-```text
-+=====================================================================+
-|             THE FIVE CUSTODIAL RANKS OF THE SCRIBE GUILD            |
-+---------------------------------------------------------------------+
-| RANK 1: INGRESS NOVICE (SEOGA SUSEUPSA / READING HALL APPRENTICE)   |
-| - Duties: Dusting ashlar slate; replenishing pale bioluminescent    |
-|   ink.                                                              |
-| - Mental Armor: Class I Felt Shroud; Composure baseline 25 SP.      |
-| ------------------------------------------------------------------- |
-| RANK 2: SLATE INSCRIBER (GAKPAN SEOGWAN / SLATE RECORD KEEPER)      |
-| - Duties: Engraving Rank I and II casualty names onto pavement      |
-|   slabs.                                                            |
-| - Equipment: Diamond-tipped pneumatic stylus; leaded apron.         |
-| ------------------------------------------------------------------- |
-| RANK 3: CODEX BINDER (JANGJEONG JANG-IN / MASTER BOOKBINDER)        |
-| - Duties: Stitching spun glass vellum; binding living entity tomes. |
-| - Armament: Mnemonic Silver Needle; adamantine clenching vice.      |
-| ------------------------------------------------------------------- |
-| RANK 4: STRATA ARCHIVIST (CHEUNGGYE SUHOGWAN / FLOOR GUARDIAN)      |
-| - Duties: Guarding floor bulkheads; pacifying leaking memory        |
-|   engrams.                                                          |
-| - Equipment: Class III Mnemonic M.A.W. Suit; Void Cleaver.          |
-| ------------------------------------------------------------------- |
-| RANK 5: SOVEREIGN KEEPER (SEONGSO SUJANG / SANCTUARY HEAD)          |
-| - Duties: Presiding over Floor Sovereign sanctums; Key Page         |
-|   custody.                                                          |
-| - Authority: Reports directly to Sovereign Seiyon; Omega Clearance. |
-+=====================================================================+
-```
+"""
+    sections.append(secc_protocols)
 
-### 9.3 Cognitive Hygiene & Memory Drift Screening
+    scribe_box = make_box("THE FIVE CUSTODIAL RANKS OF THE SCRIBE GUILD", [
+        "RANK 1: INGRESS NOVICE (SEOGA SUSEUPSA / READING HALL APPRENTICE)",
+        "- Duties: Dusting ashlar slate; replenishing pale bioluminescent ink.",
+        "- Mental Armor: Class I Felt Shroud; Composure baseline 25 SP.",
+        "---------------------------------------------------------------------",
+        "RANK 2: SLATE INSCRIBER (GAKPAN SEOGWAN / SLATE RECORD KEEPER)",
+        "- Duties: Engraving Rank I and II casualty names onto pavement slabs.",
+        "- Equipment: Diamond-tipped pneumatic stylus; leaded apron.",
+        "---------------------------------------------------------------------",
+        "RANK 3: CODEX BINDER (JANGJEONG JANG-IN / MASTER BOOKBINDER)",
+        "- Duties: Stitching spun glass vellum; binding living entity tomes.",
+        "- Armament: Mnemonic Silver Needle; adamantine clenching vice.",
+        "---------------------------------------------------------------------",
+        "RANK 4: STRATA ARCHIVIST (CHEUNGGYE SUHOGWAN / FLOOR GUARDIAN)",
+        "- Duties: Guarding floor bulkheads; pacifying leaking memory engrams.",
+        "- Equipment: Class III Mnemonic M.A.W. Suit; Void Cleaver.",
+        "---------------------------------------------------------------------",
+        "RANK 5: SOVEREIGN KEEPER (SEONGSO SUJANG / SANCTUARY HEAD)",
+        "- Duties: Presiding over Floor Sovereign sanctums; Key Page custody.",
+        "- Authority: Reports directly to Sovereign Seiyon; Omega Clearance."
+    ])
+    sections.append(wrap_box(scribe_box))
+
+    scribe_detail_text = """### 9.3 Cognitive Hygiene & Memory Drift Screening
 Working within the Memory Archive carries unique psychological hazards:
 - **Cognitive Drift (인지 표류):** Prolonged exposure to millions of unmourned memories causes personnel to experience "memory bleeding"—remembering childhoods they never lived, marriages they never entered, and battlefields where they never fought.
 - **The Bi-Weekly Purge Protocol:** Every fourteen days, all human and cyborg personnel undergo an engram stabilization scan. Scribes whose baseline identity variance exceeds 8% are placed in a 48-hour sensory deprivation pod flooded with isotonic saline and white noise to restore their original ego boundaries.
@@ -876,34 +834,25 @@ Working within the Memory Archive carries unique psychological hazards:
 
 ## Section X: Chronological Timeline & The Dawn Horizon (Year 4,233 to 4,247)
 
-```text
-+=====================================================================+
-|               THE MEMORY ARCHIVE HISTORICAL CHRONOLOGY              |
-+---------------------------------------------------------------------+
-| YEAR -1,762 : Foundation of the Memory Archive in Sub-Alpha         |
-| bedrock.                                                            |
-| YEAR 0001 : The Consolihan established; surface city of Somnarak    |
-| founded.                                                            |
-| CYCLE 0001  : First Containment Breach; Yeon-seo mortally wounded.  |
-| CYCLE 0002 : Majin synthesizes Seiyon; 1,778 consecutive resets     |
-| begin.                                                              |
-| CYCLE 0412 : Incident M-001 (The Great Ink Flood); cryo-locks       |
-| built.                                                              |
-| CYCLE 0899 : Incident M-002 (The Scribe Schism); archival autonomy  |
-| won.                                                                |
-| CYCLE 1340  : Incident M-003 (The False Director Infiltration).     |
-| CYCLE 1778 : Day 366 — Absolvohan fires; 15% sorrow converted to    |
-| Hope.                                                               |
-| YEAR 4,233 : Seiyon awakens; executes Receptions 1-7; achieves The  |
-| Promise.                                                            |
-| YEAR 4,238 : The Horizon Caravan departs; Archival acoustic beacons |
-| guide.                                                              |
-| YEAR 4,247 : Dawn Initiative reaches 45% Transmutation; Archive     |
-| opens doors.                                                        |
-+=====================================================================+
-```
+"""
+    sections.append(scribe_detail_text)
 
-### 10.1 The Transmutation Horizon & Future Mandate
+    timeline_box = make_box("THE MEMORY ARCHIVE HISTORICAL CHRONOLOGY", [
+        "YEAR -1,762 : Foundation of the Memory Archive in Sub-Alpha bedrock.",
+        "YEAR 0001   : The Consolihan established; surface city of Somnarak founded.",
+        "CYCLE 0001  : First Containment Breach; Yeon-seo mortally wounded.",
+        "CYCLE 0002  : Majin synthesizes Seiyon; 1,778 consecutive resets begin.",
+        "CYCLE 0412  : Incident M-001 (The Great Ink Flood); cryo-locks built.",
+        "CYCLE 0899  : Incident M-002 (The Scribe Schism); archival autonomy won.",
+        "CYCLE 1340  : Incident M-003 (The False Director Infiltration).",
+        "CYCLE 1778  : Day 366 — Absolvohan fires; 15% sorrow converted to Hope.",
+        "YEAR 4,233  : Seiyon awakens; executes Receptions 1-7; achieves The Promise.",
+        "YEAR 4,238  : The Horizon Caravan departs; Archival acoustic beacons guide.",
+        "YEAR 4,247  : Dawn Initiative reaches 45% Transmutation; Archive opens doors."
+    ])
+    sections.append(wrap_box(timeline_box))
+
+    epilogue = """### 10.1 The Transmutation Horizon & Future Mandate
 With the fulfillment of The Promise and the integration of Seiyon and Yeon-seo, the Memory Archive no longer functions merely as a repository of past tears. It has become the spiritual and philosophical lighthouse of Somnarak's new era:
 - **From Cemetery to Crucible:** The millions of preserved memories are no longer static monuments to grief; they are the raw fuel for humanity's cultural and moral rebirth. As the Dawn Initiative steadily transmutes planetary sorrow into hope, the Archive begins releasing its preserved memories back into the collective unconscious of the city.
 - **The Open Reading Rooms:** In Year 4,247, for the first time in six thousand years, the heavy basalt gates of Floor 01 will swing open to the general public. Citizens will be invited to walk the Pavement of Sleeping Faces, open the codices of their ancestors, and discover that they were never alone in their grief.
@@ -914,3 +863,17 @@ With the fulfillment of The Promise and the integration of Seiyon and Yeon-seo, 
 ---
 
 *Master Codex Authorization: Sovereign Secretary Seiyon, The Memory Archive (Gieok-ui Jeojangso), Deep Strata Sub-Alpha Roots (-2,400m to -3,200m). Classified under Trans-Institutional Sovereign Covenant.*
+"""
+    sections.append(epilogue)
+
+    return "".join(sections)
+
+def main():
+    dest_path = "SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_MEMORY_ARCHIVE.md"
+    content = build_memory_archive_codex()
+    with open(dest_path, "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"Generated {dest_path} successfully ({len(content.splitlines())} lines)!")
+
+if __name__ == "__main__":
+    main()
