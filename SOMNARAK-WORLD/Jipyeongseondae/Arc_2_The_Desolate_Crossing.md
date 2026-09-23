@@ -1,115 +1,170 @@
-# Arc 2: The Desolate Crossing — The Sea of Glass (황야 횡단 — 유리의 바다)
-## The Horizon Caravan Chronicles — Planetary Overland Expedition (Year 4238, Months 2-3)
+# Arc 2: The Desolate Crossing — Sea of Glass & Dune Whales (황야 횡단 — 유리의 바다)
+## The Horizon Caravan Chronicles — Planetary Overland Expedition (Year 4238, Month 2)
+
+| Operational Attribute | Specification Dossier |
+|---|---|
+| **Campaign Theater** | The Horizon Caravan (지평선대 — Jipyeongseondae) |
+| **Arc Designation** | Arc 2: The Desolate Crossing — Sea of Glass (유리의 바다) |
+| **Overland Sector** | Waystations 04 to 07 — Sea of Vitrified Glass (500 to 950 km) |
+| **Threat Rating** | UTS-3 (Titanic Subterranean Megafauna Encounter) |
+| **Deploying Flagship**| The Drift Throne (142.5m Mobile Heavy Sand Cruiser) |
+| **Caravan Command** | Supreme Commander Kael (The Drift King) & Wright Gwan |
+| **Primary Opponent** | The Titanic Glass Burrower (유리 바다의 포식자 — SECC-088) |
+| **Operational Yield** | Vitrified Chitin Plating & Sonic Harpoon Calibration |
 
 ```text
 +=====================================================================+
-|          EXPEDITION DOSSIER: ARC 2 - THE DESOLATE CROSSING          |
+|             EXPEDITION DOSSIER: ARC 2 - THE SEA OF GLASS            |
 +---------------------------------------------------------------------+
 | OPERATION NAME     : Arc 2 - Crossing the Sea of Glass              |
-| PRIMARY THEATER    : The Desolate - Mid-Basin Salt Dunes (Km 1,120) |
-| DATE & EPOCH       : Year 4238, Months 2-3 (Deep Wasteland Transit) |
-| PRIMARY ADVERSARY : The Glass-Dune Colossus (SE-IV Titanic Sand     |
-| Burrower)                                                           |
+| PRIMARY THEATER    : Waystations 04 to 07 - The Vitrified Expanse   |
+| DISTANCE TRAVERSED : 500 km to 950 km from Somnarak                 |
+| PRIMARY ADVERSARY : The Titanic Glass Burrower (SECC-088 Leviathan) |
 +---------------------------------------------------------------------+
-| ADVERSARY PROFILE (THE GLASS-DUNE COLOSSUS):                        |
-| - Total Health (HP): 5,600 HP | Posture Pool: 380/380               |
-| - Stagger 1 Proc : 60% Posture Strain (228 Posture) / Mandible      |
+| ADVERSARY PROFILE (TITANIC GLASS BURROWER):                         |
+| - Total Health (HP): 5,400 HP | Posture Pool: 360/360               |
+| - Stagger 1 Proc : 60% Posture Strain (216 Posture) / Mandible      |
 |   Break                                                             |
-| - Stagger 2 Proc   : 0% Posture Collapse (Titanic Submersion)       |
-| - Resistances : Heat 2.0x (Fatal), Lament 1.5x, Weight 0.5x, Void   |
+| - Stagger 2 Proc   : 0% Posture Collapse (Leviathan Pacification)   |
+| - Resistances : Weight 2.0x (Fatal), Grudge 1.5x, Void 0.5x, Lament |
 |   0.5x                                                              |
 +---------------------------------------------------------------------+
 | TARGETABLE COMBAT ANCHORS:                                          |
-| 1. Sand Mandibles  : 1,400 HP                                       |
-|   | Posture 300/300 (Crushing vitrified jaws)                       |
-| 2. Dorsal Carapace : 1,800 HP                                       |
-|   | Posture 340/340 (Razor obsidian spine plates)                   |
-| 3. Resonance Heart : 2,400 HP                                       |
-|   | Posture 380/380 (Pulsing subterranean core)                     |
+| 1. Burrow Mandibles: 1,400 HP                                       |
+|   | Posture 280/280 (Crushing vitreous shears)                      |
+| 2. Chitin Carapace : 1,800 HP                                       |
+|   | Posture 320/320 (Vitrified glass armor plates)                  |
+| 3. Siphon Heart    : 2,200 HP                                       |
+|   | Posture 360/360 (Acoustic resonance bladder)                    |
 +=====================================================================+
 ```
 
-> *"The sand here is not rock ground down by wind. It is tears frozen by a sun that died before our ancestors learned to speak. If you panic, the earth swallows you. If you sing to it, it lets you pass."*  
-> — Kael, navigating the Mid-Basin Glass Dunes
+> *"Out here, the sand is not stone powdered by water. It is glass shattered by thunder and baked by five thousand years of sun. And beneath that glass swims something that regards our cruiser not as a machine, but as an intruder in its feeding trench."*
+> — Master Wright Gwan, adjusting the starboard harpoon rig
 
 ---
 
-### Narrative Prologue: The Shifting Sands
+## Chapter I: The Vitrified Expanse & The Singing Dunes
 
-Two months into the trans-continental expedition, the Horizon Caravan had entered the deepest, most treacherous quadrant of the planetary wasteland: **The Sea of Glass (유리의 바다)**, located 1,120 kilometers southeast of Somnarak.
+By the second month of Year 4238, the red alkali clay of the borderlands had surrendered completely to an endless, shimmering wilderness: **The Sea of Vitrified Glass (유리의 바다)**. Spanning from Waystation 04 to Waystation 07 (Kilometer 500 to 950), the terrain consisted of vast dunes composed not of soft quartz sand, but of microscopic shards of greenish volcanic glass that ground together with a piercing, musical chime whenever the desert gales swept across the ridges.
 
-Here, the dunes rose three hundred meters high, composed entirely of crystalline Han-silica that reflected the pale sky like fractured mirrors. The temperature plummeted to -35^\circ\text{C} at dusk, and supersonic thermal downdrafts whipped the dunes into violent glass-storms capable of shredding vulcanized steel treads.
+Under the midday sun, the vitrified plain mirrored the pale sky with blinding, merciless intensity. Surface temperatures exceeded fifty-five degrees Celsius. The Drift Throne's massive caterpillar tracks kicked up glittering rooster-tails of pulverized glass that hissed against the hull's armored skirting like supersonic buckshot. To prevent catastrophic wear on the track pins, Wright Gwan's crews worked in rotating four-hour shifts, spraying pressurized graphite lubricant directly into the bogie assemblies.
 
-From the bridge of the Drift Throne, the Ley-Seers screamed a seismic warning:
-*"Massive subterranean displacement detected at bearing 140! Depth minus eighty meters and rising at fifty kilometers per hour! It's not a dune—it's a Colossus!"*
+"Seismic transducers are picking up abnormal acoustic harmonics from the starboard trench," Chief Ley-Seer Sora called out from the observation cupola, her hand resting on the vibrating brass housing of the theodolite. "Frequency matches a UTS-3 apex burrower. It is tracking our engine pulse. Speed: sixty knots. Depth: thirty meters beneath the glass."
 
-With a sound like the shattering of a thousand glaciers, the desert floor ruptured. Rising two hundred meters into the howling storm was **The Glass-Dune Colossus (유리사구 거수)**—a titanic SE-IV burrower whose segmented carapace was made of vitrified obsidian plates, and whose gaping maw was ringed with six rows of crushing mineral mandibles.
-
-A category-5 Han-storm boiled around its crown, threatening to flip the 18,000-ton crawler onto its side.
-
-*"All hands, lock magnetic dune anchors!"* Kael roared, leaping from the bow ramps onto the shifting sand. *"Hwaran, prime your slag darts! We don't turn back!"*
+Kael leaned over the helm console, squinting through the heat-shimmer on the forward dunes. "Gwan, spool up the acoustic harm-quenchers. Hwaran, ready the harpoon batteries. We have company."
 
 ---
 
-### Expedition Combat Gauntlet: Arc 2 (6-Turn Resolution)
+## Chapter II: The Leviathan of the Deep Sand
+
+Three hundred meters off the starboard bow, the glass dunes erupted in a monumental geyser of green crystal sand. Rising eighty meters into the blinding sky was **The Titanic Glass Burrower (SECC-088)**.
+
+The leviathan was over ninety meters in length, its serpentine body armored in overlapping plates of vitrified silicate chitin that deflected direct sunlight like polished obsidian mirrors. In place of a face, it possessed three concentric rings of **Burrowing Mandibles**—serrated shearing blades composed of crystallized diamond-glass capable of grinding solid basalt boulders into silt. At its throat hummed the **Resonant Siphon Heart**, a bioluminescent organ that drank subterranean acoustic vibrations and expelled supersonic pressure waves through gill-like vents along its flanks.
+
+"It's an acoustic feeder!" Hwaran yelled, strapping herself into the mount of the dorsal harpoon deck. "Our ley-drive is broadcasting a five-hundred-hertz pulse into the bedrock. It thinks the Drift Throne is a rival sovereign invading its spawning trough!"
+
+The titan gave a deafening, sub-bass roar that shattered the panoramic observation windows of the outer deckhouses. It banked sharply across the dune ridge, descending into a supersonic breach dive aimed directly amidships at the crawler's exposed caterpillar drives.
+
+---
+
+## Chapter III: The Harpooner's Vow
+
+Kael vaulted onto the starboard catwalk, his duster whipping violently in the slipstream. He pulled the manual release pin on the **Acoustic Trench Harpoon**, an eight-hundred-pound tungsten spear connected to the cruiser's main winch drum by a two-inch braided steel cable.
+
+"We do not run from the desert!" Kael roared, his voice ringing over the scream of the tracks and the grinding glass. "In the city, they taught us to hide behind walls when monsters came! Out here, the monster learns that the caravan carries teeth! Wright Gwan—hard to starboard! Catch its dive on our armored prow!"
+
+"Starboard thrusters full forward!" Gwan roared back through the speaking tube, slamming the dual diesel pneumatic regulators. "Brace for impact!"
+
+The 142.5-meter mobile cruiser heaved violently onto its side bogies, pivoting forty-five degrees to meet the charging leviathan head-on. The battle for the Sea of Glass had begun.
+
+---
+
+## Chapter IV: Overland Arena Topology & Combat Engagement Parameters
+
+Sora projected the overland tactical land grid across the bridge holographic table:
+
+```text
++=====================================================================+
+|     TACTICAL ARENA TOPOLOGY: SEA OF GLASS DUNE CREST (-800M EXT)    |
++---------------------------------------------------------------------+
+| [STAGE NODES 01 TO 10 - STARBOARD CATWALK TO LEVIATHAN BREACH]      |
+|     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
++---------------------------------------------------------------------+
+| - Node 01: Drift Throne Starboard Catwalk (Kael Vanguard Harpoon    |
+|   Station)                                                          |
+| - Node 02: Dorsal Gun Deck (Hwaran Rapid Harpoon Battery)           |
+| - Node 03: Armored Sand-Skimmer Prow (Heavy Deflection Ram)         |
+| - Node 04: The Vitrified Breach Slope (Glass Silt Avalanche Zone)   |
+| - Node 05: The Glass Burrower Snout (Crushing Mandibles & Intake)   |
+| - Node 06: Resonant Acoustic Flank (Vitrified Chitin Carapace       |
+|   Plates)                                                           |
+| - Node 07: Sub-Surface Trench (Burrower Siphon Heart Resonance      |
+|   Pool)                                                             |
+| - Node 08: Deep Dune Abyss (Subterranean Acoustic Wake)             |
+| - Node 09: Vitrified Ridge Apex (High-Ground Ballistic Vantage)     |
+| - Node 10: Drift Throne Spinal Heavy Winch (Tungsten Cable Anchor)  |
++=====================================================================+
+```
+
+The Glass Burrower utilized terrifying speed and mass to breach from beneath the sand, crushing targets between its **Burrowing Mandibles**. Kael's strategy required intercepting the beast's breach lunges with the heavy harpoon, shattering its mandibles to prevent it from submerging, cracking the **Chitin Carapace** with pneumatic rams, and driving a seismic lance into the **Siphon Heart**.
+
+---
+
+## Chapter V: The Expedition Combat Gauntlet (Turns 01 to 06)
 
 ```text
 +=====================================================================+
 |             TACTICAL STAGE HUD: ARC 02 - BATTLE TURN 01             |
 +---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 - SEA OF GLASS HAN-STORM (KM 1,120)]          |
+| [STAGE NODES 01 TO 10 - SEA OF GLASS DUNE CREST]                    |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [RAMPS] [SKIM]  [BERM]  [SINK]  [MAW]                               |
-| [SPINE] [CREST] [CHASM] [VENT]  [THRONE]                            |
-| [KAEL]  [HWARAN]                                                    |
-| [COLOSS]                                [HELM]                      |
+| [CATWALK][GUN-DK][PROW]  [SLOPE] [SNOUT]                            |
+| [FLANK] [TRENCH][ABYSS][RIDGE][WINCH]                               |
+| [KAEL]   [HWARAN]                                                   |
+| [BURROW]                               [GWAN]                       |
 +---------------------------------------------------------------------+
-| - Node 01: Drift Throne Bow Ramps (Kael Vanguard Band 1)            |
-| - Node 02: Sand-Skimmers & Hwaran (Short Band 2 / Harpoon           |
-|   Launchers)                                                        |
-| - Node 03: Hydraulic Dune Berms (Heavy Dredgers Anchoring Treads)   |
-| - Node 04: Liquefied Sand Basin (Subterranean Vibration Vortex)     |
-| - Node 05: The Glass-Dune Colossus Maw (Vitrified Sand Mandibles)   |
-| - Node 06: Colossus Dorsal Spines (Razor Obsidian Armor Plates)     |
-| - Node 07: Shifting Dune Crest (Acoustic Pylon Beacon Line)         |
-| - Node 10: Drift Throne Bridge & Sonar Array (Ley-Drive Full        |
-|   Throttle)                                                         |
+| - Node 01: Drift Throne Starboard Catwalk (Kael Vanguard Band 1)    |
+| - Node 02: Dorsal Gun Deck (Hwaran Rapid Harpoon Support)           |
+| - Node 03: Armored Prow (Heavy Kinetic Deflection Shield)           |
+| - Node 04: Vitrified Sand Slope (Silt Avalanche Hazard)             |
+| - Node 05: The Glass Burrower (Crushing Mandibles & Siphon Heart)   |
+| - Node 06: Resonant Flank (Heavy Vitrified Chitin Armor)            |
+| - Node 10: Drift Throne Heavy Winch (Master Wright Gwan)            |
 +---------------------------------------------------------------------+
-| - Kael        : Spd 7 -> 4 AP | HP 3,800/3,800 | SP 50/50           |
+| - Kael (Drift King): Spd 6 -> 3 AP | HP 4,200/4,200 | SP 50/50      |
 |   | Posture 160/160                                                 |
-| - Hwaran      : Spd 6 -> 3 AP | HP 2,600/2,600 | SP 45/45           |
-|   | Posture 110/110                                                 |
-| - Coloss Core : Spd 5 -> 3 AP | HP 2,400/2,400                      |
-|   | Posture 380/380 [SUBMERGED]                                     |
-| - Sand Mandib : Spd 6 -> 3 AP | HP 1,400/1,400                      |
-|   | Posture 300/300 [CRUSHING]                                      |
-| - Dorsal Carap: Spd 3 -> 1 AP | HP 1,800/1,800                      |
-|   | Posture 340/340 [ARMORED]                                       |
+| - Hwaran (Guide)   : Spd 7 -> 4 AP | HP 2,800/2,800 | SP 45/45      |
+|   | Posture 120/120                                                 |
+| - Burrower Core    : Spd 5 -> 3 AP | HP 2,200/2,200                 |
+|   | Posture 360/360 [BREACHING]                                     |
+| - Mandibles        : Spd 7 -> 4 AP | HP 1,400/1,400                 |
+|   | Posture 280/280 [CRUSHING]                                      |
+| - Chitin Carapace  : Spd 3 -> 1 AP | HP 1,800/1,800                 |
+|   | Posture 320/320 [VITRIFIED]                                     |
 +=====================================================================+
 ```
 
-###### Turn 01 Action Resolution Log (Intercepting the Vitrified Sand Mandibles)
+### Turn 01 Action Resolution Log (Intercepting the Breach Lunge)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Kael initializes `[Planetary Ley-Stance]`: Grants +3 Protection and immunity to quicksand entrapment.
-  * Hwaran prepares `[Thermal Slag Barrier]`, warming squad footing against -35^\circ\text{C} frostbite.
-  * The Colossus activates `[Seismic Liquefaction]`: Turns Nodes 03 to 05 into shifting sinkholes.
+  * Kael initializes `[Seismic Harpoon Stance]`: Grants +4 Protection and massive stagger resistance against colossal impacts.
+  * Hwaran prepares `[Acoustic Cable Tether]`: Links the dorsal winch drum to the heavy harpoon.
+  * The Glass Burrower emerges with `[Subterranean Supersonic Breach]`: Increases clash power by +6 during breach turns.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 7 -> 4 AP, Warden Heavy Rig delta -1, Poise +20): Holds Node 01. Spends 2 AP on `[Obsidian Cleaver: Mandible Intercept]`. Holds 2 AP in Reserve.
-  * Hwaran (Speed 6 -> 3 AP): Stands at Node 02. Spends 2 AP on `[Thermal Slag Dart]`. Holds 1 AP in Guard.
-  * The Colossus (Speed 6 -> 3 AP, Behemoth Class delta -2, Poise +40): Charges Node 01 with `[Titan Mandible Chomp]`.
+  * Kael (Speed 6 -> 3 AP): Holds Node 01. Spends 2 AP on `[Trench-Cleaver: Kinetic Intercept]`. Holds 1 AP in Guard.
+  * Hwaran (Speed 7 -> 4 AP): Holds Node 02. Spends 2 AP on `[Harpoon Volley]`. Spends 2 AP on `[Acoustic Tracking Flare]`.
+  * The Glass Burrower (Speed 7 -> 4 AP): Surges from Node 05 to Node 01. Spends 2 AP on `[Vitreous Mandible Shear]`. Spends 2 AP on `[Glass Silt Geyser]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 01 to 05)**: The Colossus strikes with `[Titan Mandible Chomp]` (Base 19 + 2 Coins = 29 Power, Heavy Weight/Crush).
-    * Kael intercepts with `[Obsidian Cleaver: Mandible Intercept]` (Base 22 + 2 Coins = 34 Power, Obsidian Deflection).
+  * **Clash 1 (Node 01 to 05)**: The Glass Burrower lunges with `[Vitreous Mandible Shear]` (Base 19 + 2 Coins = 29 Power, Piercing Weight).
+    * Kael intercepts with `[Trench-Cleaver: Kinetic Intercept]` (Base 22 + 2 Coins = 34 Power, Obsidian Heavy Blade).
     * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (34 vs 29)!
-    * Kael wedges his massive obsidian cleaver crosswise inside the beast's upper mandible hinges (`[P3: Parry/Protection]`).
-    * His crystalline left arm pulses with harmonic counter-frequencies, freezing the colossal jaw open!
-    * Deals **280 kinetic tremor damage** into the mandible socket!
-  * **Clash 2 (Node 02 to 05)**: Hwaran fires `[Thermal Slag Dart]`.
-    * The molten projectile strikes the beast's frozen snout, causing vitrified silica to crack with violent thermal shock; inflicts +45 Posture Strain!
+    * Kael drives the broad flat of the cleaver between the beast's outer mandibles, levering the crushing jaws apart with his glass arm (`[P3: Parry/Protection]`).
+    * Seismic tremor reflects **280 kinetic tremor damage** into the jaw hinges, inflicting +58 Posture Strain!
+  * **Clash 2 (Node 02 to 05)**: Hwaran's `[Harpoon Volley]` drives two steel tethers directly into the creature's neck joint, anchoring it to the cruiser!
 - **Step 4: Turn End State**:
-  * Sand Mandibles HP: 1,400 -> **1,120/1,400** | Posture: **240/300**.
-  * Total Colossus HP: 5,600 -> **5,320/5,600** | Posture: **325/380**.
-  * Kael Composure: **100% (50/50 SP)**. Zero damage taken.
+  * Mandibles HP: 1,400 -> **1,120/1,400** | Posture: **222/280**.
+  * Total Leviathan HP: 5,400 -> **5,120/5,400** | Posture: **302/360**.
+  * Kael Composure: **100% (50/50 SP)**. Zero caravan damage taken.
 
 ---
 
@@ -117,50 +172,55 @@ A category-5 Han-storm boiled around its crown, threatening to flip the 18,000-t
 +=====================================================================+
 |             TACTICAL STAGE HUD: ARC 02 - BATTLE TURN 02             |
 +---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 - MANDIBLES SHATTERED & SLAG INJECTION]       |
+| [STAGE NODES 01 TO 10 - MANDIBLES SHATTERED & TETHER LOCKED]        |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [RAMPS]         [SKIM]  [KAEL]  [COLOSS]                            |
-| [SPINE] [CREST] [CHASM] [VENT]  [THRONE]                            |
-| [HWARAN][SHARDS]                                                    |
+| [CATWALK][GUN-DK][PROW]  [SLOPE] [SNOUT]                            |
+| [FLANK] [TRENCH][ABYSS][RIDGE][WINCH]                               |
+| [KAEL]  [HWARAN]                                                    |
+| [BURROW]                               [GWAN]                       |
 +---------------------------------------------------------------------+
-| - Node 03: Hwaran (Volcanic Magma Dart Melting Vitrified Armor)     |
-| - Node 04: Kael (Obsidian Cleaver Shearing Left Mandible Pin)       |
-| - Node 05: Glass-Dune Colossus (Sand Mandibles Destroyed 0/1,400    |
-|   HP)                                                               |
-| - Node 06: Dorsal Spines (Exposed to Concentrated Crawler Fire)     |
+| - Node 02: Kael (Advancing on Catwalk / Slicing Mandible Flexor)    |
+| - Node 03: Hwaran (Dorsal Winch Engaging Hydraulic Cable Tension)   |
+| - Node 05: The Glass Burrower (Mandibles Destroyed 0/1,400 HP)      |
+| - Node 06: Drift Throne Prow Ram (Slamming into Flank Carapace)     |
+| - Node 10: Heavy Winch (Master Wright Gwan Locking Cable Drum)      |
 +---------------------------------------------------------------------+
-| - Kael        : Spd 9 -> 5 AP [SURGE] | HP 3,800/3,800 | SP 50/50   |
-|   | Posture 160/160                                                 |
-| - Coloss Core : Spd 4 -> 2 AP | HP 2,400/2,400 | Posture 290/380    |
-| - Sand Mandib : DESTROYED (0/1,400 HP)                              |
-|   | CRUSHING BITE PERMANENTLY LOST                                  |
-| - Dorsal Carap: Spd 3 -> 1 AP | HP 1,480/1,800 | Posture 272/340    |
+| - Kael (Drift King): Spd 8 -> 4 AP [SURGE] | HP 4,200/4,200         |
+|   | SP 50/50 | Posture 160/160                                      |
+| - Hwaran (Guide)   : Spd 9 -> 5 AP         | HP 2,800/2,800         |
+|   | SP 45/45 | Posture 120/120                                      |
+| - Burrower Core    : Spd 3 -> 1 AP         | HP 2,200/2,200         |
+|   | Posture 254/360                                                 |
+| - Mandibles : DESTROYED (0/1,400 HP)| CRUSHING SHEAR PERMANENTLY    |
+|   LOST                                                              |
+| - Chitin Carapace  : Spd 3 -> 1 AP         | HP 1,460/1,800         |
+|   | Posture 248/320                                                 |
 +=====================================================================+
 ```
 
-###### Turn 02 Action Resolution Log (Part Destruction: Sand Mandibles Shattered)
+### Turn 02 Action Resolution Log (Part Destruction: Mandibles Shattered)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Kael activates `Ley-Surge` (+2 Speed next turn -> Net Speed 9, 5 AP).
-  * The Colossus attempts `[Subterranean Thrap Deluge]` to drag the crawler under.
+  * Kael activates `Tectonic Surge` (+2 Speed next turn -> Net Speed 8, 4 AP).
+  * The Burrower attempts `[Vitreous Sand Drill]` to dive beneath the dune and drag the cruiser with it.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 9 -> 5 AP [Surge]): Steps onto the beast's lower jaw at Node 04. Spends 3 AP on `[Obsidian Cleaver: Mandible Cleave]`. Spends 2 AP on `[Dune Vault]`.
-  * Hwaran (Speed 6 -> 3 AP): Moves to Node 03. Spends 2 AP on `[Boiling Slag Jet]`.
-  * Heavy Dredgers: Fire pneumatic tension cables to secure the beast's head.
+  * Kael (Speed 8 -> 4 AP [Surge]): Steps to Node 02. Spends 3 AP on `[Obsidian Cleaver: Jaw Shatter]`. Holds 1 AP in Guard.
+  * Hwaran (Speed 9 -> 5 AP): Spends 3 AP on `[Hydraulic Winch Lock]`. Spends 2 AP on `[Explosive Harpoon Strike]`.
+  * Wright Gwan: Engages caterpillar reverse thrusters to create maximum cable tension.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: The Colossus thrashes with `[Subterranean Thrap Deluge]` (Base 18 + 2 Coins = 26 Power).
-    * Kael clashes with `[Obsidian Cleaver: Mandible Cleave]` (Base 25 + 3 Coins Heads = 43 Power, Heavy Slash).
-    * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (43 vs 26)!
-    * Kael brings his cleaver down in an arc of concentrated kinetic weight, slicing through the left mandible hinge!
-    * Hwaran's `[Boiling Slag Jet]` pours superheated iron directly into the exposed wound, thermal-shattering the entire jaw array!
-    * Deals **1,120 Critical Thermal/Weight damage** (Fatal 2.0x proc!)!
-    * **TARGETED PART DESTROYED**: The Vitrified Sand Mandibles are completely destroyed (**Mandibles HP: 0/1,400**)!
-    * **EFFECT**: Colossus crushing attack permanently disabled; boss permanently loses 1 Speed Slot!
-  * **Dorsal Carapace Damage**:
-    * Sapper shockwave cracks the dorsal plates for **320 Blunt damage**!
+  * **Clash 1 (Node 02 to 05)**: The Burrower channels `[Vitreous Sand Drill]` (Base 20 + 2 Coins = 28 Power, Area Weight).
+    * Kael clashes with `[Obsidian Cleaver: Jaw Shatter]` (Base 26 + 3 Coins Heads = 45 Power, Weight/Shatter).
+    * **Clash Outcome**: Kael WINS THE CLASH OVERWHELMINGLY (45 vs 28)!
+    * Kael leaps onto the creature's snout, driving the obsidian blade directly through the central diamond mandible joint!
+    * The high-frequency vibration shatters all three rings of diamond teeth into green glass shards!
+    * Deals **1,120 Critical Shatter damage** (Fatal 2.0x proc!)!
+    * **TARGETED PART DESTROYED**: The Crushing Mandibles are completely destroyed (**Mandibles HP: 0/1,400** credit)!
+    * **EFFECT**: Beast cannot submerge back into the sand; permanently loses 1 Speed Slot!
+  * **Chitin Carapace Damage**:
+    * Cable tension whips the beast against the armored prow for **340 Blunt damage**!
 - **Step 4: Turn End State**:
-  * Sand Mandibles: **DESTROYED (0/1,400 HP)**.
-  * Dorsal Carapace: 1,800 -> **1,480/1,800** | Posture: **272/340**.
-  * Total Colossus HP: 5,320 -> **3,880/5,600** | Posture: **234/380 [MANDIBLES SHATTERED]**.
+  * Mandibles: **DESTROYED (0/1,400 HP)**.
+  * Chitin Carapace: 1,800 -> **1,460/1,800** | Posture: **248/320**.
+  * Total Leviathan HP: 5,120 -> **3,660/5,400** | Posture: **196/360 [MANDIBLES SHATTERED]**.
   * Kael Composure: Stable (50/50 SP).
 
 ---
@@ -169,51 +229,53 @@ A category-5 Han-storm boiled around its crown, threatening to flip the 18,000-t
 +=====================================================================+
 |             TACTICAL STAGE HUD: ARC 02 - BATTLE TURN 03             |
 +---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 - STAGGER THRESHOLD 1 & CARAPACE FRACTURE]    |
+| [STAGE NODES 01 TO 10 - STAGGER THRESHOLD 1 & CARAPACE CRACK]       |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [RAMPS]                 [SKIM]  [KAEL]  [SPINE]                     |
-| [CREST] [CHASM] [VENT]  [THRONE]                                    |
-| [HWARAN][COLOSS]                                                    |
+| [CATWALK][GUN-DK][PROW]  [SLOPE] [SNOUT]                            |
+| [FLANK] [TRENCH][ABYSS][RIDGE][WINCH]                               |
+| [KAEL]  [HWARAN][BURROW]                               [GWAN]       |
 +---------------------------------------------------------------------+
-| - Node 04: Hwaran (Boiling Slag Geyser Cracking Dorsal Scutes)      |
-| - Node 05: Kael (Seismic Glass-Arm Punch Popping Spine Hinges)      |
-| - Node 05: Glass-Dune Colossus (STAGGER LEVEL 1 / HEAD PINNED IN    |
-|   DUST)                                                             |
-| - Node 10: Drift Throne (Launching Pneumatic Harpoon Anchors)       |
+| - Node 03: Kael (Seismic Glass Arm Driving Spike into Carapace      |
+|   Seam)                                                             |
+| - Node 04: Hwaran (Pneumatic Ram Shattering Silicate Ribs)          |
+| - Node 05: The Glass Burrower (STAGGER LEVEL 1 / DEFENSES           |
+|   COLLAPSED)                                                        |
+| - Node 10: Drift Throne Winch (Hauling Titan Onto Dune Surface)     |
 +---------------------------------------------------------------------+
-| - Kael        : Spd 8 -> 4 AP [SURGE] | HP 3,800/3,800 | SP 50/50   |
-|   | Posture 160/160                                                 |
-| - Coloss Core : Spd 0 -> 0 AP | HP 2,080/2,400                      |
-|   | Posture 146/380 [STAGGER LEVEL 1]                               |
-| - Dorsal Carap: Spd 0 -> 0 AP | HP 760/1,800                        |
-|   | Posture 120/340 [FRACTURED]                                     |
-| - Total Coloss: HP 2,840/5,600 [THRESHOLD BREACHED / TAKES 1.5X     |
+| - Kael (Drift King): Spd 8 -> 4 AP [SURGE] | HP 4,200/4,200         |
+|   | SP 50/50 | Posture 160/160                                      |
+| - Hwaran (Guide)   : Spd 8 -> 4 AP         | HP 2,800/2,800         |
+|   | SP 45/45 | Posture 120/120                                      |
+| - Burrower Core    : Spd 0 -> 0 AP         | HP 1,940/2,200         |
+|   | Posture 134/360 [STAGGER LEVEL 1]                               |
+| - Chitin Carapace  : Spd 0 -> 0 AP         | HP 680/1,800           |
+|   | Posture 94/320 [CRACKED]                                        |
+| - Total Leviathan : HP 2,620/5,400 [THRESHOLD BREACHED / TAKES 1.5X |
 |   DAMAGE]                                                           |
 +=====================================================================+
 ```
 
-###### Turn 03 Action Resolution Log (First Stagger Proc & Carapace Fracture)
+### Turn 03 Action Resolution Log (First Stagger Proc & Chitin Carapace Cracked)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Disarmed of its jaws, the Colossus attempts to roll its razor dorsal armor over the crawler: `[Obsidian Fin Roll]` (Heavy Weight/Slash, 2 Coins).
-  * Kael gains `Ley-Surge` (+2 Speed -> Net Speed 8, 4 AP).
+  * Thrashing on the surface, the Burrower whips its massive body in `[Tail Flail of Vitrified Rock]`.
+  * Kael gains `Tectonic Surge` (+2 Speed -> Net Speed 8, 4 AP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 8 -> 4 AP): Holds Node 04. Spends 2 AP on `[Glass-Veined Tremor Cleave]`. Spends 2 AP on `[Counter-Brace]`.
-  * Hwaran (Speed 6 -> 3 AP): Stands at Node 04. Spends 2 AP on `[Slag Geyser]`.
-  * Resonant Lens: Spotters on the crawler bridge paint the carapace stress joints.
+  * Kael (Speed 8 -> 4 AP): Moves to Node 03. Spends 2 AP on `[Glass Fist: Bedrock Ram]`. Spends 2 AP on `[Cleaver Cleave]`.
+  * Hwaran (Speed 8 -> 4 AP): Advances to Node 04. Spends 2 AP on `[Pneumatic Spike]`.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 04 to 05)**: Colossus rolls with `[Obsidian Fin Roll]` (Base 17 + 2 Coins = 25 Power).
-    * Kael clashes with `[Glass-Veined Tremor Cleave]` (Base 22 + 2 Coins = 34 Power, Seismic Pierce).
-    * **Clash Outcome**: Kael WINS THE CLASH (34 vs 25)!
-    * Kael strikes the main dorsal hinge plate; the brittle obsidian armor scutes pop open like dry scales!
-    * Hwaran's `[Slag Geyser]` melts the exposed connective tissues beneath!
-    * Deals **720 Thermal/Weight damage** and +104 Posture Strain!
+  * **Clash 1 (Node 03 to 05)**: The Burrower sweeps with `[Tail Flail of Vitrified Rock]` (Base 18 + 2 Coins = 26 Power, Heavy Kinetic).
+    * Kael clashes with `[Glass Fist: Bedrock Ram]` (Base 23 + 2 Coins = 35 Power, Seismic Weight).
+    * **Clash Outcome**: Kael WINS THE CLASH (35 vs 26)!
+    * Kael's glass arm punches into the silicate carapace plate; the acoustic shockwave radiates through the titan's skeletal frame!
+    * Drone-assisted pneumatic spikes shatter the armor plating across its neck, exposing the pulsating azure Siphon Heart!
+    * Deals **780 Void/Shatter damage** and +114 Posture Strain!
 - **Step 4: STAGGER THRESHOLD 1 TRIGGERED!**:
-  * Colossus HP crosses 70% threshold (3,920 HP), falling to **2,840/5,600 HP**; Posture crosses 60% strain line!
-  * **STAGGER LEVEL 1 ACTIVE!** The titan crashes onto the sand, its snout buried in the dust; defenses drop to zero; takes +50% damage!
+  * Total Leviathan HP crosses 70% threshold (3,780 HP), falling to **2,620/5,400 HP**; Posture crosses 60% strain line!
+  * **STAGGER LEVEL 1 ACTIVE!** The titan crashes onto the sand, its snout buried in the dust; defenses drop to zero; takes +50% damage across all incoming attacks!
 - **Step 5: Turn End State**:
-  * Total Colossus HP: 3,880 -> **2,840/5,600 [THRESHOLD BREACHED: Below 3,920 HP!]**.
-  * Dorsal Carapace: 1,480 -> **760/1,800** | Posture: **120/340 [FRACTURED]**.
-  * Colossus Posture: **146/380 [STAGGER LEVEL 1]**.
+  * Total Leviathan HP: 3,660 -> **2,620/5,400 [THRESHOLD BREACHED: Below 3,780 HP!]**.
+  * Chitin Carapace: 1,460 -> **680/1,800** | Posture: **94/320 [CRACKED]**.
+  * Boss Posture: **134/360 [STAGGER LEVEL 1]**.
   * Kael Status: Unbroken.
 
 ---
@@ -224,48 +286,45 @@ A category-5 Han-storm boiled around its crown, threatening to flip the 18,000-t
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 - MAXIMUM BURST & PHASE 2 THRESHOLD SKIP]     |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [RAMPS]                         [KAEL]  [COLOSS]                    |
-| [CREST] [CHASM] [VENT]  [THRONE]                                    |
-| [BURST]                                                             |
+| [CATWALK][GUN-DK][PROW]  [SLOPE] [SNOUT]                            |
+| [FLANK] [TRENCH][ABYSS][RIDGE][WINCH]                               |
+| [KAEL]  [BURROW][HWARAN]                       [GWAN]               |
 +---------------------------------------------------------------------+
-| - Node 05: Kael (Obsidian Cleaver Seismic Execution on Resonance    |
-|   Heart)                                                            |
-| - Node 05: Glass-Dune Colossus (Immobilized / Liquid Han-Brine      |
-|   Venting)                                                          |
-| - Node 05: Hwaran (Thermal Firestorm Incinerating Sub-Carapace      |
-|   Glands)                                                           |
-| - Node 10: Drift Throne Siege Gun (Direct High-Yield Acoustic       |
-|   Torpedo)                                                          |
+| - Node 04: Kael (Four-Fold Cleaver Void Execution on Siphon Heart)  |
+| - Node 05: The Glass Burrower (Immobilized / Acoustic Bladder       |
+|   Leaking Azure Fluid)                                              |
+| - Node 06: Hwaran (Spinal Battery Focused Slag Barrage)             |
+| - Node 10: Drift Throne Winch (Tensioning Steel Cables to Maximum   |
+|   Load)                                                             |
 +---------------------------------------------------------------------+
-| - Kael        : Spd 11 -> 5 AP [BURST CRIT] | HP 3,800/3,800        |
+| - Kael (Drift King): Spd 11 -> 5 AP [BURST CRIT] | HP 4,200/4,200   |
 |   | SP 50/50                                                        |
-| - Coloss Core : Spd 0 -> 0 AP  | HP 680/2,400  | Posture 58/380     |
-| - Dorsal Carap: DESTROYED (0/1,800 HP)                              |
-| - Total Coloss: HP 680/5,600 [BURST DAMAGE 2,160! SECOND THRESHOLD  |
-|   SKIPPED]                                                          |
+| - Burrower Core    : Spd 0 -> 0 AP               | HP 640/2,200     |
+|   | Posture 52/360                                                  |
+| - Chitin Carapace  : DESTROYED (0/1,800 HP)                         |
+| - Total Leviathan : HP 640/5,400 [BURST DAMAGE 1,980! SECOND        |
+|   THRESHOLD SKIPPED]                                                |
 +=====================================================================+
 ```
 
-###### Turn 04 Action Resolution Log (Maximum Burst & Phase 2 Threshold Skip)
+### Turn 04 Action Resolution Log (Maximum Burst & Phase 2 Threshold Skip)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * The Colossus is pinned in the sand; its Seismic Resonance Heart is exposed between fractured dorsal plates.
-  * Kael coordinates an all-out offensive barrage to crush the core before the storm worsens.
+  * The Glass Burrower lies helpless on the dune; the Siphon Heart in its throat pulses with frantic, bioluminescent flashes.
+  * Kael coordinates an all-out offensive barrage targeting the exposed resonance bladder.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 11 -> 5 AP, Momentum Crit): Stands atop Node 05. Spends 3 AP on `[Obsidian Cleaver Seismic Execution]`. Spends 2 AP on `[Ley-Drive Ground Thrust]`.
-  * Hwaran: Casts `[Thermal Firestorm]` (3 AP).
-  * Drift Throne: Fires `[Direct Acoustic Torpedo]` from Node 10 (2 AP).
+  * Kael (Speed 11 -> 5 AP, Momentum Crit): Stands at Node 04. Spends 3 AP on `[Four-Fold Cleaver Execution]`. Spends 2 AP on `[Seismic Impact]`.
+  * Hwaran: Calls in `[Spinal Battery Focused Slag Barrage]` (3 AP).
 - **Step 3: Unopposed Stagger Punishment Rotation**:
-  * Kael's `[Seismic Execution]`: Plunges into the resonance organ for **1,180 Weight/Thermal damage** (Fatal 2.0x proc!)!
-  * Kael's `[Ground Thrust]`: Slices through the remaining dorsal fin for **480 Pierce damage**!
-  * Hwaran's `[Firestorm]`: Incinerates sub-carapace glands for **320 Heat damage**!
-  * Drift Throne's `[Acoustic Torpedo]`: Pulverizes seismic conduits for **180 Void damage**!
-  * **TOTAL BURST DAMAGE: 2,160 DAMAGE!**
-- **Step 4: SECOND STAGGER THRESHOLD (2,240 HP) COMPLETELY SKIPPED!**:
-  * Boss HP plunges from 2,840 down to **680/5,600 HP**! Dorsal Carapace completely destroyed (0/1,800 HP)!
+  * Kael's `[Four-Fold Cleaver Execution]`: Drives into the siphon bladder for **1,060 Heavy Weight damage** (Fatal 2.0x proc!)!
+  * Kael's `[Seismic Impact]`: Slices through the remaining armor plates for **460 Shatter damage**!
+  * Spinal Slag Barrage: Superheated iron rounds obliterate the carapace collar for **460 Fire/Blunt damage**!
+  * **TOTAL BURST DAMAGE: 1,980 DAMAGE!**
+- **Step 4: SECOND STAGGER THRESHOLD (2,160 HP) COMPLETELY SKIPPED!**:
+  * Leviathan HP plunges from 2,620 down to **640/5,400 HP**! Chitin Carapace completely destroyed (0/1,800 HP)!
   * **Phase 2 Emergency Activation Triggered!**
 - **Step 5: Turn End State**:
-  * Total Colossus HP: 2,840 -> **680/5,600** (Core HP: **680/2,400** | Carapace: **DESTROYED**).
-  * Posture: **58/380**.
+  * Total Leviathan HP: 2,620 -> **640/5,400** (Heart HP: **640/2,200** | Armor: **DESTROYED**).
+  * Posture: **52/360**.
 
 ---
 
@@ -273,47 +332,47 @@ A category-5 Han-storm boiled around its crown, threatening to flip the 18,000-t
 +=====================================================================+
 |             TACTICAL STAGE HUD: ARC 02 - BATTLE TURN 05             |
 +---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 - HAN-STORM DELUGE & LEY-SONG HARMONIZATION]  |
+|                                                                     |
+| [STAGE NODES 01 TO 10 - ACOUSTIC TSUNAMI & THE OVERDRIVE PACIFICATI |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [RAMPS]                         [KAEL]  [COLOSS]                    |
-| [CREST] [CHASM] [VENT]  [THRONE]                                    |
-| [SONG]                                                              |
+| [CATWALK][GUN-DK][PROW]  [SLOPE] [SNOUT]                            |
+| [FLANK] [TRENCH][ABYSS][RIDGE][WINCH]                               |
+| [KAEL]  [BURROW][HWARAN]               [GWAN]                       |
 +---------------------------------------------------------------------+
-| - Node 05: Kael (Relic Overdrive: SONG OF THE BURIED EARTH)         |
-| - Node 05: Colossus (Last Stand: Category-5 Supercell Han-Glass     |
-|   Vortex)                                                           |
-| - Node 04: Hwaran (Expanding Slag Thermal Dome Over Refugee         |
-|   Trailers)                                                         |
-| - Node 10: Drift Throne Helm (Synchronizing Ley-Siphon Sonar at 528 |
-|   Hz)                                                               |
+| - Node 05: Kael (Relic Overdrive: HARMONIC CLEAVER OF THE HORIZON)  |
+| - Node 06: The Glass Burrower (Last Stand: Supersonic Acoustic      |
+|   Shockwave)                                                        |
+| - Node 07: Hwaran (Deploying Acoustic Quenching Pylons)             |
+| - Node 10: Drift Throne Harm-Quenchers (Absorbing Residual Sonic    |
+|   Feedback)                                                         |
 +---------------------------------------------------------------------+
-| - Kael        : Spd 9 -> 5 AP [OVERDRIVE] | HP 3,800/3,800          |
+| - Kael (Drift King): Spd 9 -> 5 AP [OVERDRIVE] | HP 4,200/4,200     |
 |   | SP 50/50 [RESOLVE]                                              |
-| - Coloss Core : Spd 3 -> 1 AP | HP 680/2,400                        |
-|   | Posture 28/380 [VORTEX CALMED]                                  |
-| - Total Coloss: HP 680/5,600 [GLASS SHARDS COALESCED INTO HARMLESS  |
-|   SILT]                                                             |
+| - Burrower Core    : Spd 3 -> 1 AP             | HP 640/2,200       |
+|   | Posture 26/360 [EXHAUSTED]                                      |
+| - Total Leviathan : HP 640/5,400 [ACOUSTIC SHOCKWAVE QUENCHED /     |
+|   TITAN SUBDUED]                                                    |
 +=====================================================================+
 ```
 
-###### Turn 05 Action Resolution Log (Phase 2 Escalation: Supercell Han-Vortex & Song of the Buried Earth)
+### Turn 05 Action Resolution Log (Phase 2 Escalation: Acoustic Shockwave & Horizon Pacification)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Dying and agitated, the Colossus channels the entire planetary storm into a vortex: `[Category-5 Supercell Han-Glass Vortex]` (Planetary Sand Cataclysm, 3 Coins).
-  * Kael activates Relic Overdrive: `[SONG OF THE BURIED EARTH — MAXIMUM]` (Cost: 3 AP, 30 SP).
+  * The titan thrashes in blind panic; its Siphon Heart swells to double its volume, preparing a supersonic shockwave to pulverize the crawler!
+  * Boss Special Skill: `[Supersonic Acoustic Shockwave]` (Seismic Siphon Cataclysm, 3 Coins).
+  * Kael activates Relic Overdrive: `[HARMONIC CLEAVER OF THE HORIZON — MAXIMUM]` (Cost: 3 AP, 30 SP).
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael (Speed 9 -> 5 AP [Overdrive]): Steps to the crest of the colossus's skull at Node 05, driving his crystalline arm into its cerebral neural nexus.
-  * Hwaran: Expands thermal slag dome over the refugee trailers.
-  * Drift Throne: Synchronizes ley-siphon sonar to 528 Hz harmonic solfeggio.
+  * Kael (Speed 9 -> 5 AP [Overdrive]): Steps straight onto the creature's exposed collar at Node 05, raising his glass arm high.
+  * Hwaran: Deploys mobile acoustic quenching pylons at Node 07.
 - **Step 3: Clash & Skill Resolution**:
-  * **Clash 1 (Node 05 to 05)**: Colossus unleashes `[Category-5 Supercell Han-Glass Vortex]` (Base 22 + 3 Coins = 34 Power, Area Pale/Weight).
-    * Kael clashes with `[SONG OF THE BURIED EARTH — MAXIMUM]` (Base 29 + 3 Coins Heads = 50 Power, Planetary Song).
-    * **Clash Outcome**: KAEL SUPREME OVERDRIVE CLASH WIN (50 vs 34)!
-    * Instead of cutting the beast down, Kael pours the soothing harmonic frequencies of the Absolvohan into its petrified brain (`[P3: Parry/Protection]`).
-    * The howling 180 km/h razor winds slow; the razor glass particles melt in mid-air, falling to the sand as warm, gentle rain!
-    * Kael whispers: *"Rest, great beast. We are not here to steal your desert. We are only walking through."*
-    * The behemoth's agonized thrashing ceases entirely! Zero squad damage taken!
+  * **Clash 1 (Node 05 to 06)**: The Burrower discharges `[Supersonic Acoustic Shockwave]` (Base 23 + 3 Coins = 34 Power, Area Acoustic/Weight).
+    * Kael clashes with `[HARMONIC CLEAVER OF THE HORIZON — MAXIMUM]` (Base 30 + 3 Coins Heads = 51 Power, Seismic Harmony).
+    * **Clash Outcome**: KAEL OVERWHELMING RELIC CLASH WIN (51 vs 34)!
+    * Kael's glass arm resonates at the exact inverse harmonic frequency of the titan's siphon bladder (`[P3: Parry/Protection]`).
+    * The supersonic wave collapses into a low, gentle acoustic hum; Kael drives the hilt of the cleaver into the bladder's nerve center!
+    * Kael speaks into the sand: *"Sleep, beast of the glass. The caravan does not claim your grave; we only claim our road."*
+    * The creature's thrashing ceases, its massive head resting calmly upon the dune! Zero caravan casualties!
 - **Step 4: Turn End State**:
-  * Total Colossus HP: **680/5,600** | Posture: **28/380 [VORTEX CALMED]**.
+  * Total Leviathan HP: **640/5,400** | Posture: **26/360 [EXHAUSTED]**.
   * Kael Composure: 50/50 SP.
 
 ---
@@ -322,38 +381,81 @@ A category-5 Han-storm boiled around its crown, threatening to flip the 18,000-t
 +=====================================================================+
 |             TACTICAL STAGE HUD: ARC 02 - BATTLE TURN 06             |
 +---------------------------------------------------------------------+
-| [STAGE NODES 01 TO 10 - COLOSSUS PACIFICATION & SAFE PASSAGE]       |
+| [STAGE NODES 01 TO 10 - PACIFICATION & SEA OF GLASS HARVEST]        |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| [RAMPS]                 [CARAVAN]                                   |
-| [BEHEM]         [OPEN HORIZON HIGHWAY]                              |
-| [TRANSIT]       [PEACE]                                             |
+| [CATWALK][GUN-DK][PROW]  [SLOPE] [SNOUT]                            |
+| [TITAN] [WAYST] [DUNES] [CRUISE][THRONE]                            |
+| [KAEL]  [PACIF] [WAY-07][ROLL]  [CRUISE]                            |
 +---------------------------------------------------------------------+
-| - Node 05: Glass-Dune Colossus (PACIFIED / SUBMERGING GENTLY INTO   |
-|   DEEP LEY)                                                         |
-| - Node 05: Kael (Standing Atop Sand Crest / Acoustic Resonance      |
-|   Complete)                                                         |
-| - Node 07: The Sea of Glass (Storm Dissipated / Golden Sand         |
-|   Corridor Clear)                                                   |
-| - Node 10: Drift Throne (Full Ahead Flank / Cheonbulok Heading      |
-|   Locked)                                                           |
+| - Node 06: The Titanic Glass Burrower (PACIFIED & SUBMERGING        |
+|   PEACEFULLY)                                                       |
+| - Node 07: Waystation 07: Glass Caldera (Overland Ingress SECURED)  |
+| - Node 10: The Drift Throne (Cruising West at 52 km/h across Sea of |
+|   Glass)                                                            |
 +---------------------------------------------------------------------+
-| - Squad Status: Zero Casualties                                     |
-|   | Morale 50/50 SP (Triumphant Conviction)                         |
-| - Reception Status: 100% RESOLVED | Sea of Glass Traversed          |
+| - Kael Status: Zero Damage Taken                                    |
+|   | Composure 50/50 SP (Tranquil Authority)                         |
+| - Expedition Status: SEA OF GLASS TRAVERSED                         |
+|   | Waystations 04-07 Secured                                       |
 +=====================================================================+
 ```
 
-###### Turn 06 Action Resolution Log (Pacification & The Highway of Clear Sand)
+### Turn 06 Action Resolution Log (Leviathan Pacification & Harvest)
 - **Step 1: Pre-Clash Stance & Aura / Passive Initialization**:
-  * Hostilities cease. Posture reaches **0/380 [PACIFICATION]**.
+  * Hostile intent drops to zero. Posture reaches **0/360 [LEVIATHAN PACIFICATION]**.
 - **Step 2: Spatial Movement & Action Point Allocation**:
-  * Kael steps back down onto the crawler's boarding ramp.
-- **Step 3: Resolution & Safe Passage**:
-  * The Glass-Dune Colossus emits a long, low acoustic rumble of gratitude that vibrates peacefully through the crawler's hull.
-  * It slowly sinks into the liquefied sand, leaving behind a wide, hardened highway of compacted obsidian where the storm once raged.
-  * Deals **680 Peaceful Harmony**! Colossus HP reaches 0!
-  * Beyond the settled dust, the distant jagged silhouette of the volcanic calderas of **Cheonbulok** appears against the horizon, glowing with orange forge-light.
-- **Step 4: Operational Artifact Extraction & Milestones**:
-  * **Relic Harvested**: `[Heart of the Glass Colossus]` (Enables automatic terrain stabilization for the Drift Throne).
-  * **Route Cleared**: Sea of Glass successfully charted and traversed.
-  * **Casualties**: Zero Casualties. Kael HP 3,800/3,800. Composure 50/50 SP.
+  * Kael uncouples the heavy harpoon cables, releasing the giant back into the desert depths.
+- **Step 3: Pacification & Desert Harmony**:
+  * The Glass Burrower exhales a deep plume of fine white glass dust, turns slowly, and slides back beneath the dunes with majestic, fluid grace.
+  * Wright Gwan wipes cold sweat from his goggles: *"By the old gods... I thought the tracks were gone for good."*
+  * Kael looks down at a shed plate of vitrified silicate chitin left on the catwalk—half a ton of indestructible diamond-glass armor:
+    > *"The desert does not yield to force, Gwan. It yields to those who know how to listen to its song."*
+  * Deals **640 Decisive Pacification**! Leviathan HP drops to 0!
+- **Step 4: Operational Artifact Extraction & Caravan Ingress**:
+  * **Tactical Requisition Acquired**: `[Overland Module: Vitrified Chitin Plating]` (Grants +35% Resistance against sandstorms and thermal friction; upgrades crawler skirting).
+  * **Overland Passage**: The Drift Throne clears the dune crest, rolling into the sheltered basin of **Waystation 07: Glass Caldera (Kilometer 950)**, the gateway to the volcanic mountain ranges of Cheonbulok.
+  * **Casualties**: Zero Caravan Damage Taken. Kael HP 4,200/4,200. Composure 50/50 SP.
+
+---
+
+## Chapter VI: The Overland Breakthrough & Caravan Reorganization
+
+Within the volcanic caldera of Waystation 07, the mobile fortress dropped anchor for twenty-four hours of maintenance and replenishment. The crew gathered around the central maintenance bay as Wright Gwan and the Ash Iron smiths hoisted the shed leviathan chitin plates into the crawler's hydraulic presses. The green glass armor was cut into reinforced panels and welded along the crawler's forward bogies, replacing the dented steel plates with material that could withstand volcanic heat.
+
+In the observation cupola, Chief Ley-Seer Sora poured boiling chicory tea into metal cups for Kael and Hwaran. Outside, the night sky over the Sea of Glass was a tapestry of cold, unblinking stars, untouched by the smoke of Somnarak.
+
+"Five hundred kilometers behind us," Hwaran murmured, holding the warm tin between her soot-stained palms. "Another four hundred and fifty to the Ash Citadel of Cheonbulok. My former masters will have received word of our approach by now."
+
+"Let them prepare their arena," Kael answered, his eyes fixed on the distant red glow of the caldera ridge to the west. "The Caravan does not come to conquer Cheonbulok. We come to light a furnace that does not consume its children."
+
+---
+
+## Chapter VII: Operational Requisition Harvest & Waystation Ingress
+
+With the crawler's skirting reinforced and the acoustic probes recalibrated to volcanic basalt frequencies, the caravan prepared for the ascent into the Ash Ridge:
+
+```text
++=====================================================================+
+|                 OVERLAND REQUISITION HARVEST: ARC 02                |
++---------------------------------------------------------------------+
+| ACQUIRED SALVAGE     : 4.5 Metric Tons of Vitrified Silicate Chitin |
+| UPGRADE DESIGNATION  : [Overland Module: Vitrified Chitin Plating]  |
+| CARAVAN SPEED STATUS : Cruising at 52 km/h across Caldera Slopes    |
++---------------------------------------------------------------------+
+| FLAGSHIP SYSTEM ENHANCEMENTS:                                       |
+| 1. Vitrified Skirting: Track assemblies gain 100% immunity to       |
+| abrasive                                                            |
+|                      glass wear and +35% thermal resistance.        |
+| 2. Resonant Harpoon : Starboard harpoon battery gains acoustic      |
+| tracking,                                                           |
+| increasing critical hit chance against burrowers by +30%.           |
+| 3. Siphon Tuning : Subterranean acoustic fuel recovery increased by |
+| +15%.                                                               |
++---------------------------------------------------------------------+
+| NEXT TARGET WAYSTATION:                                             |
+| - Waystation 08: Caldera Causeway (1,100 km) — Ingress to           |
+|   Cheonbulok                                                        |
++=====================================================================+
+```
+
+The caterpillar engines roared to life, their exhaust plumes glowing faint blue against the desert dusk. The Drift Throne crested the caldera rim, steering toward the towering volcanic chimneys of Cheonbulok.
