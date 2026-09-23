@@ -272,8 +272,7 @@ Each of the seventeen waystations along the Trans-Desolate Highway is an automat
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — CRAWLER VANGUARD RAMPS TO REAR HORIZON]     |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| |--CRAWLER RAMP--| |--FORWARD DUNE-| |--MID BASIN--| |--REAR        |
-| HORIZON-|                                                           |
+|    [CRAWLER-RAMP]   [FORWARD-DUNE]   [MID-BASIN]   [REAR-HORIZON]   |
 | ------------------------------------------------------------------- |
 | - Node 01: Vanguard Intercept / Crawler Ramps (Point-Blank Band 1)  |
 | - Node 02: Sand-Skimmer Flank / Rapid Outriders (Short Band 2)      |

@@ -370,8 +370,7 @@ Within the Memory Archive, a Floor Realization is not a standard battle victory;
 |                                                                     |
 | [STAGE NODES 01 TO 10 — READING HALL INGRESS TO FLOOR SOVEREIGN DAI |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| |--INGRESS HALL--| |--MEMORY AISLE-| |--CENTRAL LECTERN| |--CORE    |
-| DAIS-|                                                              |
+|  [INGRESS-HALL]   [MEMORY-AISLE]   [CENTRAL-LECTERN]   [CORE-DAIS]  |
 | ------------------------------------------------------------------- |
 | - Node 01: Ingress Stasis Portal / Memory Reading Hall Vestibule    |
 | - Node 02-03: Crystallized Memory Aisles (Seiyon Vanguard           |

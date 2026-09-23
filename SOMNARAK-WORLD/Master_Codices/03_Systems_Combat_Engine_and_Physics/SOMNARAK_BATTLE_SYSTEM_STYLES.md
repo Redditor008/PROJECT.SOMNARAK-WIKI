@@ -344,8 +344,7 @@ Health bars feature two distinct break thresholds:
 |          REVERIE DIRECTORATE (R.D.) CONTAINMENT VAULT GRID          |
 +---------------------------------------------------------------------+
 | [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
-| |--ENTITY CORE--| |--BLAST GATE---| |--WORK BAFFLES-|               |
-| |--TERMINAL--|                                                      |
+|     [ENTITY-CORE]   [BLAST-GATES]   [WORK-BAFFLES]   [TERMINAL]     |
 +---------------------------------------------------------------------+
 | N01-N02 : Entity Core (Sorrow Radiation, Melee Engagement Zone)     |
 | N03-N04 : Heavy Blast Gates (Kinetic Interception, Warden Phalanx)  |
@@ -513,8 +512,7 @@ In UCD doctrine, achieving a military victory while slaughtering civilians or co
 |           SOMNARAK EXPLORATION DECREE (SED) ABYSSAL GRID            |
 +---------------------------------------------------------------------+
 | [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
-| |--CHASM BRINK--| |--KARST SCREE--| |--SURVEY BASE--| |--ASCENT     |
-| RIG-|                                                               |
+|   [CHASM-BRINK]    [KARST-SCREE]    [SURVEY-BASE]    [ASCENT-RIG]   |
 +---------------------------------------------------------------------+
 | N01     : The Chasm Brink (-1,500m to -3,500m Void, Supercritical)  |
 | N02-N03 : Treacherous Karst Scree (Double Move Cost, Piton Target)  |
@@ -639,7 +637,7 @@ When the sovereign construct's Posture meter is reduced to 0 (Stagger 2):
 |          HORIZON CARAVAN (JIPYEONGSEONDAE) EXPEDITION GRID          |
 +---------------------------------------------------------------------+
 | [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
-| |--RAMPS------| |--OUTRIDERS--| |--DUNE BASIN-----| |--BRIDGE-|     |
+|     [RAMPS-INGRESS]   [OUTRIDERS]   [DUNE-BASIN]   [BRIDGE-DAIS]    |
 +---------------------------------------------------------------------+
 | N01     : Drift Throne Debarkation Ramps (Kael Vanguard)            |
 | N02     : Outrider Sand-Skimmer Lane (Hwaran Support)               |

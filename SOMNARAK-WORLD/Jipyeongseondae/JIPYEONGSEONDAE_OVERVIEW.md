@@ -179,8 +179,7 @@ All overland tactical combat encounters execute across the standardized 10-node 
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 - OVERLAND EXPEDITION THEATER]                |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| |--RAMPS-| |--OUTRIDERS-| |--BARRIER-| |--SAND BASIN-| |--APEX      |
-| BOSS-|                                                              |
+|  [RAMPS]    [OUTRIDERS]    [BARRIER]    [SAND-BASIN]    [APEX-BOSS] |
 | ------------------------------------------------------------------- |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | - [N02] Skimmer Flank : Rapid sand-skimmer outrider deployment lane |

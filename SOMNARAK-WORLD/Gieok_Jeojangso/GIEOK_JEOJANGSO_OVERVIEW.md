@@ -88,8 +88,7 @@ All combat engagements within the Memory Archive take place across the standardi
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — READING HALL INGRESS TO KEY RELIQUARY]      |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| |--READING HALL--| |--MEMORY AISLE-| |--CENTRAL LECTERN| |--CORE    |
-| DAIS-|                                                              |
+|  [READING-HALL]   [MEMORY-AISLE]   [CENTRAL-LECTERN]   [CORE-DAIS]  |
 | ------------------------------------------------------------------- |
 | - Node 01: Ingress Stasis Portal / Memory Reading Hall Vestibule    |
 | - Node 02-03: Crystallized Memory Aisles (Seiyon Vanguard           |

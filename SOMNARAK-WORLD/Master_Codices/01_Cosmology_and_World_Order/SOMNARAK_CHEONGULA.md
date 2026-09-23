@@ -5,6 +5,30 @@
 
 ---
 
+```text
++=====================================================================+
+|      ARCHIVAL DOSSIER: THE CHEONGULA EVENT (YEAR 202 CALAMITY)      |
++---------------------------------------------------------------------+
+| ARCHIVE CODE    : COSMO-CHEONGULA-ZERO-POINT-4238                   |
+| DATE & EPOCH : Year 202, 2nd Month, Day 14 (The 44th Day of Frost)  |
+| PRIMARY THEATER : Zone B (Western Industrial Basin / Sunken Quarry) |
+| CASUALTY TOLL   : Exactly 1,000 Registered Citizens Consumed        |
++---------------------------------------------------------------------+
+| ONTOLOGICAL PHENOMENON & CIVIC AFTERMATH:                           |
+| - Tectonic Fissure Collapse into Primordial Liquid Han Mantle       |
+| - Genesis of The Maw (Ravenous Maw) & The Subterranean Weeping      |
+| - Creation of the Municipal Debt Ledger to Monetize Guilt           |
+| - Universal Mandate of the Acoustic Veil & Censorship Ordinances    |
+| - Establishment of Subterranean Facility 01 & Reverie Directorate   |
++---------------------------------------------------------------------+
+| PRIMARY ARCHIVAL EYEWITNESS TESTIMONY:                              |
+| - Archive Lead Marjuk (Cryogen Stasis Eye / Sole Biological Scribe) |
+| - Containment Lead Dekan (Carries Living Maw Graft from Fissure     |
+|   Bed)                                                              |
+| - Council of Sighs Historical Expungement Order (Decree Alpha-01)   |
++=====================================================================+
+```
+
 ## Overview
 
 The Cheongula (청굴라) is the foundational event of Somnarak — the moment when 1,000 citizens were consumed by Han because the Council did not care enough to stop it. It is the First Sorrow. The city's original sin. The wound that has never healed.
@@ -47,6 +71,29 @@ The Council knew this. The Council did not care.
 
 ---
 
+```text
++=====================================================================+
+|        CHRONOLOGY: FROM SETTLEMENT TO THE YEAR 202 CATACLYSM        |
++---------------------------------------------------------------------+
+| EPOCH / YEAR         | INCIDENT & DEVELOPMENTAL PHASE               |
+| ---------------------+--------------------------------------------- |
+| Year 0                                                              |
+|   | Settlers arrive on Mugenhan; discover Han well                  |
+| Year 0 - 50          | Alpha Tree roots tapped for thermal heating  |
+| Year 100             | Zone A fortified; laborers pushed to Zone B  |
+| Year 150 - 180                                                      |
+|   | Liquid Han rises; foundations crack in Zone B                   |
+| Year 195                                                            |
+|   | Architect Jun warns Council of imminent breach                  |
+| Year 201 (Winter)                                                   |
+|   | Bedrock liquefies; blue steam vents in streets                  |
+| Year 202 (Month 2)                                                  |
+|   | THE CHEONGULA: Subterranean collapse consumes 1,000             |
+| Year 203                                                            |
+|   | High Council enacts Historical Expungement Law                  |
++=====================================================================+
+```
+
 ## II. The Warning Signs — The Han's Growth
 
 ### The First Signs (Year 150-180)
@@ -80,6 +127,26 @@ The Council received the report. The Council filed the report. The Council ignor
 The Council had bigger concerns.
 
 ---
+
+```text
++=====================================================================+
+|            THE 44-DAY RECORD OF UNHEEDED MUNICIPAL ALARMS           |
++---------------------------------------------------------------------+
+| DAY & LOG NUMBER     | SEISMIC / ACOUSTIC OBSERVATION REPORT        |
+| ---------------------+--------------------------------------------- |
+| Day 03 (Log 1,102)   | Basalt pilings in Sub-Level 4 sink by 18 cm  |
+| Day 12 (Log 1,145)                                                  |
+|   | Blue steam vents erupt inside tenement floors                   |
+| Day 21 (Log 1,189)                                                  |
+|   | Water wells turn bitter; liquid glows at 432 Hz                 |
+| Day 30 (Log 1,215)                                                  |
+|   | 400 miners refuse entry; Wardens enforce quotas                 |
+| Day 39 (Log 1,260)                                                  |
+|   | Architect Jun presents Council with breach model                |
+| Day 44 (Hour 03:12)                                                 |
+|   | Structural collapse: 1,000 citizens swallowed                   |
++=====================================================================+
+```
 
 ## III. The Cheongula — The Day of Consuming
 
@@ -191,6 +258,33 @@ The Cheongula did not just create the Maw. The Cheongula created the city's *emo
 
 ---
 
+The physical scar left by the Cheongula is divided into seven distinct geological and metaphysical trauma zones:
+
+```text
++=====================================================================+
+|              THE SEVEN FISSURE POINTS OF THE CHEONGULA              |
++---------------------------------------------------------------------+
+| FISSURE LOCUS        | GEOLOGICAL FEATURE                           |
+|   | RESIDUAL PHENOMENON                                             |
+| ---------------------+-------------------------+------------------- |
+| Point 1: The Lip     | Gaping 300m Rim Crater  | Acoustic Resonance |
+| Point 2: Sluice Bed  | Calcified Stone Steps                        |
+|   | Weeping River Source                                            |
+| Point 3: Iron Basin  | Crushed Tenement Slag                        |
+|   | Magnetic Static Field                                           |
+| Point 4: Bone Grove  | Needle-Glass Pillars    | Entity Nursery     |
+| Point 5: The Throat  | Vertical 800m Chasm                          |
+|   | Gravitational Weight                                            |
+| Point 6: Deep Sump   | Boiling Liquid Han Well                      |
+|   | High-Pressure Grief                                             |
+| Point 7: The Heart   | Central Maw Nucleus     | The Thousand's Cry |
++=====================================================================+
+```
+
+These seven fissure points remain permanently classified. Under municipal law, entering within five hundred paces of Fissure Point 7 without a Level-5 Directorate clearance carries the immediate penalty of cognitive erasure.
+
+---
+
 ## VI. The Maw — The Living Monument
 
 ### What The Maw Is
@@ -244,6 +338,27 @@ The Council's members change every generation. But the secret remains. The Archi
 ---
 
 ## VIII. The Connections — How The Cheongula Shaped Everything
+
+The modern institutional framework of Somnarak exists as a direct psychological and mechanical defense against the horror of Year 202:
+
+```text
++=====================================================================+
+|           THE FIVE INSTITUTIONS & THEIR CHEONGULA TETHERS           |
++---------------------------------------------------------------------+
+| INSTITUTION          | HISTORICAL TETHER       | OPERATIONAL BURDEN |
+| ---------------------+-------------------------+------------------- |
+| Reverie Directorate  | Floor 2 Dekan & Floor 6                      |
+|   | Contains Maw Entities                                           |
+| SED Abyssal Corps    | Katabagil Passage 6                          |
+|   | Charts Sunken Quarry                                            |
+| UCD Strike Force     | Katharcheok Operation 6                      |
+|   | Polices Zone B Fissure                                          |
+| The Memory Archive   | Reception 6 (Lament)                         |
+|   | Preserves Lost Census                                           |
+| The Horizon Caravan  | Gate of Sighs Memorial                       |
+|   | Escorts Fissure Exiles                                          |
++=====================================================================+
+```
 
 ### The Debt System
 
@@ -353,3 +468,61 @@ The Cheongula asks: What happens when the powerful stop caring? And is the city 
 — Archive Lead Marjuk, Fragment 1 (classified)
 
 ---
+## XI. The Dawn Accord & The Historical Exhumation (Year 4,238 Restoration)
+
+In the year 4,238, following the completion of the 1,778th Absolvohan cycle and the establishment of the overland highway to Cheonbulok, the leaders of the Five Institutions signed the **Dawn Accord (여명의 협약 / 黎明의 協約)**.
+
+For four thousand years, the Council's response to the Cheongula was censorship, suppression, and debt. They taught the citizens to wear the Veil so they would not look down. They established the debt system so that sorrow could be bought and sold like grain.
+
+Under the Dawn Accord, the truth of Year 202 was officially exhumed:
+
+```text
++=====================================================================+
+|        SOVEREIGN CONVERGENCE: REDEMPTION OF THE FIRST SORROW        |
++---------------------------------------------------------------------+
+| 1. Truth Over Erasure : The Census of Year 202 restored to public   |
+| light.                                                              |
+| 2. Transmutation of Pain: Absolvohan releases the thousand from the |
+| Maw.                                                                |
+| 3. Dismantlement of Debt : Civic debt forgiven; usury frays         |
+| eradicated.                                                         |
+| 4. The Horizon Accord   : The city looks outward to a living world. |
++=====================================================================+
+```
+
+1. **The Restoration of the Census of Year 202:** The Memory Archive opened the sealed vaults of the 6th Stratum (Floor of Lamentation). For the first time in history, the names of the one thousand laborers were broadcast across the public radios of Zones A, B, C, D, and E.
+2. **The De-Sanctification of the Council Vaults:** The classified decree *Alpha-01*—ordering Wardens to hold the perimeter and prevent rescue—was published on the outer walls of the High Council building.
+3. **The Absolvohan Release:** As Director Majin unsealed the central resonance valves of Facility 01, the 45% planetary transmutation began. The howling from Fissure Point 7 shifted from a chord of unbearable agony into a quiet, warm resonance of rest.
+
+---
+
+## XII. Classified Scribe Logs: The Living Eye of Year 202
+
+Preserved within Archive Lead Marjuk's stasis effigy is the only surviving unedited recording from Hour 03:12 of that fateful winter morning:
+
+```text
++=====================================================================+
+|           VOX RECORDING TRANSCRIPT: MARJUK STASIS LOG 001           |
++---------------------------------------------------------------------+
+| TIMESTAMP        : Year 202, 2nd Month, Day 14 — Hour 03:12:44      |
+| RECORDING RELIC  : Leaded Wire Wax Cylinder #04 (Unredacted)        |
+| SCRIBE IDENTIFIER: Apprentice Scribe Marjuk (Age 19 at Event)       |
++---------------------------------------------------------------------+
+| "The ground didn't crack. It turned into black water.               |
+|  I saw the tenement of Master Mason Kang sink into the floor        |
+|  like a stone dropped in an oil drum. Kang was screaming out        |
+|  his daughter's name. The Wardens were locking the iron gates       |
+|  from the outside. I shouted at Warden Captain Vane to open         |
+|  the latch, but he held up the Council parchment. 'No entry.        |
+|  The tree needs the weight.' God forgive us. We watched them        |
+|  go down and we went home and ate our dinner."                      |
++---------------------------------------------------------------------+
+| CURRENT STATUS: AUTHENTICATED & PERMANENTLY UNSEALED                |
++=====================================================================+
+```
+
+The Cheongula was the moment humanity fell into the dark. The Dawn of Hope is the long, agonizing, magnificent climb back into the morning light.
+
+---
+
+*Codex Authorization: High Director Majin & Archive Lead Marjuk. Verified by the Joint Council of the Five Institutions. Sealed under Sovereign Cosmological Record CORP-ZERO-POINT-4238.*

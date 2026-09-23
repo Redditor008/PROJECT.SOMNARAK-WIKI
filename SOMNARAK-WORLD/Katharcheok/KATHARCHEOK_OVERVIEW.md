@@ -144,8 +144,7 @@ Urban counter-insurgency inside dense, multi-story tenements, illegal foundries,
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — CORDON INGRESS TO SANCTUM DAIS]             |
 | [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]         |
-| |--BREACH CORDON-| |--SLUICE ALLEY--| |--FOUNDRY FLOOR-|            |
-| |--SANCTUM DAIS--|                                                  |
+|    [BREACH-CORDON]   [SLUICE-ALLEY]   [FOUNDRY-FLOOR]   [SANCTUM]   |
 +---------------------------------------------------------------------+
 | - Node 01: Breach Cordon (Entry Ram / Cruiser 'The Iron Vanguard')  |
 | - Node 02-03: Tight Corridors & Sluice Alleys (Taeho & Joon Vanguar |

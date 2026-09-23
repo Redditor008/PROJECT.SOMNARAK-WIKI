@@ -275,8 +275,7 @@ The vanguard of the SED consists of seven sworn specialists who spearhead the hi
 +---------------------------------------------------------------------+
 | [STAGE NODES 01 TO 10 — UPPER RIG INGRESS TO PRIMORDIAL CORE]       |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
-| |--BOREHOLE RIG-| |--FLOODED LEDGE-| |--CENTRAL DAIS---| |--CORE    |
-| RELIC-|                                                             |
+|   [BOREHOLE-RIG]   [FLOODED-LEDGE]   [CENTRAL-DAIS]   [CORE-RELIC]  |
 | ------------------------------------------------------------------- |
 | - Node 01: Borehole Rig Staging ('The Iron Mole' Anchor / Heavy     |
 |   Lift)                                                             |
