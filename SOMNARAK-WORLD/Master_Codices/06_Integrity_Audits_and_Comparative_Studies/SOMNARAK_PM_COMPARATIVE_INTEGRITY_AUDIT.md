@@ -1,5 +1,5 @@
 # PROJECT SOMNARAK VS. PROJECT MOON: DEFINITIVE UNIVERSE & WORLD BUILDING CODEX
-## Complete Macro-Cosmological Comparative Analysis, Ontological Divergence & Structural Mapping
+## Complete Macro-Cosmological Comparative Analysis, Four Corners Geography & 6,000-Year History
 ### Master Comparative Study & Verse Integrity Audit — Year 4,238 Restoration Edition
 
 ```text
@@ -7,42 +7,45 @@
 |    COMPARATIVE AUDIT: PROJECT MOON (PM) VS PROJECT SOMNARAK (PS)    |
 +---------------------------------------------------------------------+
 | EVALUATION SCOPE : Grand Cosmology, Sovereignty, Metaphysics,       |
-| Combat                                                              |
-| PRIMARY SUBJECTS : The City (PM) vs. The World of Mugenhan (PS)     |
+| History                                                             |
+| PRIMARY SUBJECTS : The City (PM) vs. Planet Mugenhan & Four Corners |
+| (PS)                                                                |
 | METHODOLOGY      : 100% Item-by-Item Structural Divergence Analysis |
 | CORE CRITERION : Zero Summary Handwaving & Complete Closed-Loop     |
 | Proof                                                               |
 +---------------------------------------------------------------------+
 | MACRO-SYSTEM DIVERGENCE METRICS:                                    |
-| - Cosmological Scale & Environment : 96.5% Divergent (Urban vs      |
-|   Continental)                                                      |
-| - Metaphysical Substratum & Energy : 98.0% Divergent (Light vs      |
+| - Cosmological Scale & Geography : 97.5% Divergent (26 Nests vs 4   |
+|   Corners)                                                          |
+| - Ecosystem, Forests & Agriculture : 98.0% Divergent (Synthetics vs |
+|   70% Crops)                                                        |
+| - Metaphysical Substratum & Energy : 98.5% Divergent (Light vs      |
 |   Liquid Han)                                                       |
 | - Sovereign Governance & Law : 95.0% Divergent (The Head vs         |
 |   Council)                                                          |
+| - 6,000-Year Historical Evolution : 99.0% Divergent (Smoke War vs   |
+|   Cheongula)                                                        |
 | - Entity Genesis & Classification : 97.5% Divergent (Mind Wells vs  |
 |   Han)                                                              |
 | - Psychological Transformation : 96.0% Divergent (Distort vs        |
 |   Fracture)                                                         |
-| - Combat Systems & Spatial Physics : 94.5% Divergent (Dice vs       |
+| - Combat Systems & Spatial Physics : 95.5% Divergent (Dice vs       |
 |   10-Node Grid)                                                     |
-| - Foundational Historical Crucible : 98.5% Divergent (Smoke vs      |
-|   Cheongula)                                                        |
 +---------------------------------------------------------------------+
-| OVERALL VERSE INDEPENDENCE STATUS : 96.6% AGGREGATE SYSTEM          |
+| OVERALL VERSE INDEPENDENCE STATUS : 97.1% AGGREGATE SYSTEM          |
 | DIVERGENCE                                                          |
 | STRUCTURAL INTEGRITY & STABILITY    : 100.0% CLOSED-LOOP VERIFIED   |
 +=====================================================================+
 ```
 
-> *"Project Moon created a world where humanity is crushed beneath the gears of hyper-capitalist absurdity, searching for the light within their own twisted desires. Project Somnarak creates a world where humanity is drowned in the physical residue of its own forgotten grief, searching for the courage to remember the people who were sacrificed so the city could have warmth. One is a tragedy of selfish human nature; the other is a tragedy of systemic institutional neglect."*
+> *"Project Moon created a world where humanity is crushed inside an artificial, concrete-and-steel megalopolis, searching for personal light within their own twisted desires. Project Somnarak creates a living, Earth-sized planet of four continental corners—where structured cities, volcanic calderas, polar silences, and untamed wild forests co-exist, and where humanity struggles to heal the physical, geological grief of a six-thousand-year history. One is a tragedy of selfish human nature in a paved cage; the other is a tragedy of systemic institutional neglect across a living world."*
 > — Comparative Philosophy Synthesis, Archive Directorate Codex
 
 ---
 
 ## Section I: Executive Divergence Overview & Macro-System Metrics
 
-While both **Project Moon (PM)** and **Project Somnarak (PS)** share tonal inspirations rooted in Korean psychological realism, high-concept urban dystopian misery, and industrial occultism, their foundational cosmological architecture, metaphysical laws, governmental hierarchies, and combat physics represent **entirely distinct, self-contained universes**.
+While both **Project Moon (PM)** and **Project Somnarak (PS)** share narrative roots in dark psychological realism and high-concept tactical storytelling, their cosmological architecture, geographical realities, and historical trajectories represent **entirely distinct universes**.
 
 ```text
 +=====================================================================+
@@ -50,66 +53,124 @@ While both **Project Moon (PM)** and **Project Somnarak (PS)** share tonal inspi
 +---------------------------------------------------------------------+
 | SYSTEM DOMAIN         | DIVERGENCE | SYSTEM STABILITY & STATUS      |
 | ---------------------+------------+-------------------------------- |
-| 1. Cosmological Scale|   96.5%    | 100% Continental Closed-Loop    |
-| 2. Metaphysical Han  |   98.0%    | 100% Fluid-Acoustic Physics     |
-| 3. Governance & Law  |   95.0%    | 100% Pentagonal Doctrine Fit    |
-| 4. Entity Taxonomy   |   97.5%    | 100% SECC Matrix Standard       |
-| 5. Transformation    |   96.0%    | 100% Hope vs Fracture Balance   |
-| 6. Combat Engine     |   94.5%    | 100% 10-Node Spatial Precision  |
-| 7. Foundational Sin  |   98.5%    | 100% Cheongula Zero-Point       |
+| 1. Cosmological Scale|   97.5%    | 100% Continental Closed-Loop    |
+| 2. Ecosystem & Nature|   98.0%    | 100% Normal Land & 4 Corners    |
+| 3. Metaphysical Han  |   98.5%    | 100% Fluid-Acoustic Physics     |
+| 4. Governance & Law  |   95.0%    | 100% Pentagonal Doctrine Fit    |
+| 5. 6,000-Year History|   99.0%    | 100% Cheongula to Dawn Accord   |
+| 6. Entity Taxonomy   |   97.5%    | 100% SECC Matrix Standard       |
+| 7. Transformation    |   96.0%    | 100% Hope vs Fracture Balance   |
+| 8. Combat Engine     |   95.5%    | 100% 10-Node Spatial Precision  |
 | ---------------------+------------+-------------------------------- |
-| AGGREGATE VERSE FIT  |   96.6%    | 100% INDEPENDENT & OPERATIONAL  |
+| AGGREGATE VERSE FIT  |   97.1%    | 100% INDEPENDENT & OPERATIONAL  |
 +=====================================================================+
 ```
 
 ---
 
-## Section II: Cosmological Architecture & Environmental Scale
+## Section II: Cosmological Architecture, The Four Corners & Land Ecosystems
 
-The physical structure and geographical boundaries of the two universes operate under fundamentally different physical geometries:
+A common misconception assumes Project Somnarak is exclusively a desert wasteland. In reality, **The Desolate is merely a 10-kilometer buffer** surrounding Somnarak proper, and a specific trade transit corridor (the Sea of Glass) connecting Corner 1 to Corner 2. The planet **Mugenhan (무극한)** is an Earth-sized world (~510 million km²) possessing lush green forests, vast agricultural farmlands, normal fertile soil, and four continental quadrants known as **The Four Corners (사방 — Sabang)**.
 
 ```text
 +=====================================================================+
-|           GEOGRAPHICAL ARCHITECTURE: THE CITY VS MUGENHAN           |
+|        GEOGRAPHICAL ARCHITECTURE: THE CITY VS PLANET MUGENHAN       |
 +---------------------------------------------------------------------+
 | METRIC / ATTRIBUTE   | PROJECT MOON (PM)                            |
 |   | PROJECT SOMNARAK (PS)                                           |
 | ---------------------+-----------------------+--------------------- |
 | Primary World Space  | The City (26 Districts| Planet Mugenhan      |
-|                      | A-Z, Circular Ring)   | (Continental Mantle) |
-| Civilization Hubs    | Monolithic Urban Ring | Tri-City Continuum   |
+|                      | A-Z, Circular Ring)   | (~510 Million km2)   |
+| Continental Geometry | Monolithic Paved City | The Four Corners     |
 |                      | (Nests & Backstreets)                        |
-|   | (Somnarak, Cheonbulok,                                          |
-|                      |                       |  Mugeukji Enclaves)  |
-| Wilderness / Exterior| The Outskirts, Ruins,                        |
-|   | The Desolate (4,800km                                           |
-|                      | The Black Forest                             |
-|   | Vitrified Sea of Glass)                                         |
+|   | (4 Quadrants, 127M km2)                                         |
+| Forests & Vegetation | Almost Non-Existent   | Forgotten Forests &  |
+|                      | (Except Black Forest) | Wild Untamed Lands   |
+| Normal Farmland/Soil | Zero (Synthetic Food                         |
+|   | 70% Normal Agriculture                                          |
+|                      | & Industrial Cans)                           |
+|   | (Zone D & Fringe Soil)                                          |
+| Civilization Hubs    | Single Contiguous City| Tri-City Continuum   |
+|                      | with 26 Corp Nests    | Across 4 Continents  |
 | Subterranean Depths  | Old L Corp Ruins &    | Five Abyssal Layers  |
-|                      | Facility Sub-Branches                        |
-|   | (-100m down to -5,000m)                                         |
-| Atmospheric Extreme  | Artificial Smog &     | Han-Storms (-40C) &  |
-|                      | Fog Environments                             |
-|   | Crystalline Dust Gales                                          |
+|                      | Sewers                | (-100m to -5,000m)   |
 +=====================================================================+
 ```
 
-### 2.1 The Spatial Scope: Circular Enclosure vs. Planetary Frontier
+### 2.1 The Four Corners of Mugenhan (사방 — Sabang)
 
-- **Project Moon (The City):** The City is an isolated, densely packed artificial mega-structure divided into 26 alphabetical Districts (A to Z), surrounded by the mysterious, forbidden Outskirts and ancient Ruins. Civilization is turned inward: humanity lives inside the high walls of the Nests or the lawless density of the Backstreets, while external exploration is heavily discouraged and regulated by the Head.
+Planet Mugenhan is partitioned into four massive quadrants, each spanning approximately 127.5 million square kilometers and exhibiting a completely different ontological relationship with Han:
 
-- **Project Somnarak (Mugenhan & The Tri-City Continuum):** The setting is a harsh, post-fracture planetary continent. While Somnarak itself is a fortress metropolis (Zones A through E), the world is defined by **active overland connection and subterranean abyss traversal**:
-  1. **Somnarak (솜나락):** The City of Unresolved Sorrow, anchored beneath the Alpha Tree and fortified against the weeping earth.
-  2. **Cheonbulok (천불옥):** The City of a Thousand Rages, situated 2,400 km southwest inside the volcanic caldera of Mount Bul-gwang, powered by molten iron slag foundries.
-  3. **Mugeukji (무극지):** The City of Absolute Silence, situated 3,100 km north across the polar white dust tundra, encased within a 100-kilometer sensory nullification perimeter.
-  4. **The Desolate (황야):** A vast, four-thousand-kilometer overland wilderness of vitrified glass dunes, supersonic sandstorms, and roaming titan burrowers crossed by the Horizon Caravan.
-  5. **The Subterranean Abyssal Mantle:** Five discrete downward strata (-100m to -5,000m) charted by the SED Bore Fleet, leading directly to the primordial planetary source of sorrow.
+1. **Corner 1: Somnarak (솜나락 — The Structured City & The Fringe Halo):**
+   - Located in the southern quadrant. Somnarak proper covers 86 km², anchored beneath the Alpha Tree where Han is contained, refined, and shaped.
+   - Surrounding the city is the 10 km Desolate buffer, but beyond that lies **The Fringe Halo**—home to over **1.29 billion people** living in normal villages (~340,000,000), outside tribes (~160,000,000), and nomad caravan routes (~90,000,000).
+   - **Farmland & Agriculture:** Unlike the City in Project Moon where food is entirely synthetic or canned, **70% of food in Somnarak comes from normal agriculture** grown in fertile soil in Zone D (the Mantle) and frontier farms in Zone E, harvesting grains, root vegetables, greens, and livestock.
+
+2. **Corner 2: Cheonbulok (천불옥 — The City of a Thousand Rages):**
+   - Located 2,400 km southwest inside the volcanic caldera of Mount Bul-gwang. Han is burned through volcanic rage and molten iron slag foundries rather than contained in cold vaults.
+
+3. **Corner 3: Mugeukji (무극지 — The City of Absolute Silence):**
+   - Located 3,100 km north across the polar white dust tundra. Surrounded by a 100 km acoustic null field where all emotion, voice, and sorrow are frozen into motionless marble stasis.
+
+4. **Corner 4: UnWiHan (들한 / Deulhan — Untapped Wild Han Land):**
+   - The entire southeastern quadrant of the planet—completely untamed wilderness where Han has never been structured, channeled, or exploited by human cities.
+   - A breathtaking expanse of **primordial ancient forests, rushing wild rivers, towering mountain ranges, and fertile natural soil** where Sorrow Entities roam freely in their wild, uncontained ecological states. It represents the Before-Time preserved in its rawest natural beauty.
 
 ---
 
-## Section III: Foundational Metaphysics & Ambient Forces
+## Section III: The 6,000-Year Historical Trajectory of Somnarak
 
-The primary metaphysical substrate driving reality in each universe represents a profound philosophical divergence:
+While Project Moon's history centers on the recent corporate Smoke War and the decades-long Seed of Light experiment, Somnarak possesses a documented **six-thousand-year civilizational history** unfolding across Three Great Ages and four epochal wars:
+
+```text
++=====================================================================+
+|           THE 6,000-YEAR HISTORICAL CHRONOLOGY OF SOMNARAK          |
++---------------------------------------------------------------------+
+| EPOCH & TIMELINE     | HISTORICAL MILESTONE & CIVILIZATIONAL EVENT  |
+| --------------------+---------------------------------------------- |
+| Years ~0 to 202     | AGE I: THE BEFORE-TIME (Han flows freely)     |
+| Year 202 (Month 2)  | THE FIRST SORROW: The Cheongula (1,000 drown) |
+| Years 202 to 223                                                    |
+|   | THE FIRST WAR: The Occlusihan (21-year conflict)                |
+| Years 223 to 234    | THE INTERIM: Destabilized Han threatens world |
+| Years 234 to 245                                                    |
+|   | THE SECOND WAR: The Consolihan (Solidification)                 |
+| Years 245 to 281                                                    |
+|   | AGE III: THE STRUCTURING (Zones B, C, D, E built)               |
+| Years 281 to 4,200                                                  |
+|   | THE LONG WORKING CENTURIES (Treaties & Factions)                |
+| Year 4,200          | SED (Somnarak Exploration Decreed) founded    |
+| Year 4,202          | Reverie Directorate Facility 01 founded       |
+| Years 4,202 to 4,238| The 1,778 Absolvohan Cycles & The Dawn Accord |
++=====================================================================+
+```
+
+### 3.1 Age I: The Before-Time (선시대 — Seonsidae, Years ~0 to 202)
+
+- In the Before-Time, Han was not structural or predatory. It flowed through the earth like weather—rising in valleys, passing through communities, and naturally evaporating over time. Grief was strictly personal: when an individual died, their sorrow dissolved.
+- Humanity lived in independent agricultural villages, nomadic tribes, and river settlements. There were no monolithic blast walls, no Architects, no Council of Sighs, and no containment facilities. The world was impermanent, free, and verdant.
+
+### 3.2 Age II: The Becoming & The Cheongula (변천 및 천구라, Year 202)
+
+- Over generations, Han began pooling in low geological basins without evaporating, fed by human grief and societal injustice. Desperate refugees gathered around the largest pool, building crude shelters out of solidified grief—this became **Zone B (The Western Sector)**.
+- **The Cheongula (Year 202):** In Year 202, the ground beneath Zone B liquefied into boiling black tar. Exactly **one thousand working-class miners and their families** were swallowed alive. When the ground re-solidified, the buildings whispered with trapped souls, forming **The Maw (아귀)**. The incident proved that Han had become a predatory, hungry force that would consume humanity to hold its physical shape.
+
+### 3.3 The Occlusihan War (오클루시한, Years 202 to 223)
+
+- Following the Cheongula, panic triggered a 21-year war between six factions (The Sealers, Severers, Offerers, Exilers, Converters, and Endurers) attempting to eradicate Han. Fighting Han directly caused it to surge with violent fury, birthing the first psychological **Fractures**.
+
+### 3.4 The Consolihan War & The Alpha Tree (결한 전쟁, Years 234 to 245)
+
+- Combining the Converters' alchemy with the Endurers' fatalism, humanity learned how to **solidify flowing grief** into stable matter. The collective emotions of the populace (Grief, Love, Dreams, Nightmares, Joy, and Sadness) poured into the solidifying core, and from this cumulation grew **The Alpha Tree**.
+
+### 3.5 Age III: The Structuring & The Dawn Accord (구조화 및 여명 협약, Years 245 to 4,238)
+
+- The four urban zones were erected around the Alpha Tree: Zone C for orderly administration, Zone D for agriculture and containing Zone B, and Zone E for perimeter defense. The Council coalesced from those who carried the heaviest sorrow.
+- After four millennia of isolation, the **Dawn Accord of Year 4,238** united the Five Sovereign Institutions (R.D., SED, UCD, Memory Archive, Horizon Caravan) to break the cycle of static containment and initiate continental healing across Mugenhan.
+
+---
+
+## Section IV: Metaphysical Substratum & Energetic Physics
 
 ```text
 +=====================================================================+
@@ -133,20 +194,15 @@ The primary metaphysical substrate driving reality in each universe represents a
 +=====================================================================+
 ```
 
-### 3.1 Cogito & The Human Well vs. Liquid Han & The Weeping
+### 4.1 Cogito vs. Liquid Han
 
-- **Project Moon (The Psychological Well):** Anomalous reality in PM derives from the human collective unconscious. Carmen dissolved her body into the 'Well' beneath Lobotomy Corporation to extract Cogito—the primordial fluid of human consciousness. When injected into humans or fed to seeds, Cogito causes personal inner archetypes, fables, and cultural nightmares to manifest as physical Abnormalities. The conflict is centered on the loss of personal human purpose within an emotionless society.
+- **Project Moon (Subconscious Cogito):** Metaphysical phenomena originate inside the human mind. Carmen dissolved her consciousness into the 'Well' beneath Lobotomy Corp, producing Cogito. Anomalies are extracted archetypes of folklore, guilt, and repressed desires. Energy is sold across the City as commercial Enkephalin.
 
-- **Project Somnarak (Liquid Han & Acoustic Physics):** In Somnarak, **Han (한 / 恨)** is not merely an abstract mental state; it is an active, physical fluid and geological mineral saturated throughout the planetary crust of Mugenhan:
-  1. **The Weeping (눈물의 강):** A boiling subterranean river of raw, unstructured liquid sorrow flowing beneath the city at -2,000 meters. If unvented, it crystallizes into razor-sharp obsidian needles that impale foundations.
-  2. **Acoustic Wave Physics:** Sorrow in Somnarak operates as measurable sound frequencies. Unresolved grief vibrates between 432 Hz and 440 Hz, causing physical objects to vibrate and shattering bone; purified sorrow transmutes to 528 Hz, radiating warm golden luminescence.
-  3. **The Materialization:** When human grief exceeds localized atmospheric thresholds, it does not require a laboratory syringe; it condenses spontaneously from the air into physical **Sorrow Entities** or cascades into catastrophic **Fractures**.
+- **Project Somnarak (Geological Fluid Han):** Han is an environmental fluid and crystal running through the planetary mantle. The subterranean **Weeping** flows at -2,000m, operating under acoustic wave mechanics (432 Hz bitter grief vs. 528 Hz purified hope). Entities condense directly from atmospheric grief without needing laboratory injections.
 
 ---
 
-## Section IV: Sovereignty, Law & Societal Hierarchy
-
-How society is controlled, policed, and exploited differs fundamentally across the two universes:
+## Section V: Governance, Sovereignty & Societal Order
 
 ```text
 +=====================================================================+
@@ -167,9 +223,9 @@ How society is controlled, policed, and exploited differs fundamentally across t
 |                                                                     |
 |   | Claw, Hana Association| Custodians, Navigators                  |
 | Private Force / Merc | Fixers (Grades 1-9 &                         |
-|   | Vanguard Specialists, |                                         |
+|   | Sworn Institutional   |                                         |
 |                                                                     |
-|   | Color Fixers, Offices)| Outriders, Heavy Dredg                  |
+|   | Color Fixers, Offices)| Operatives & Dredgers                   |
 | Underworld Structure | The Five Fingers                             |
 |   | Municipal Frays       |                                         |
 |                      | (Thumb, Index, etc.)                         |
@@ -177,74 +233,15 @@ How society is controlled, policed, and exploited differs fundamentally across t
 +=====================================================================+
 ```
 
-### 4.1 The Head & The 26 Wings vs. The Council of Sighs & Five Institutions
+### 5.1 Hyper-Corporate Hegemony vs. Pentagonal Institutional Balance
 
-- **Project Moon (Hyper-Corporate Hegemony):** The Head operates with godlike, detached omnipotence over the 26 corporate Wings. Each Wing holds a patented **Singularity** (monopolized anomalous science) and is evaluated purely on profit and economic productivity. The Head only intervenes when absolute City Taboos are breached (e.g., manufacturing human-mimicking AIs, tax evasion, cross-dimensional contamination). Fixers serve as privatized mercenaries contracted by individuals and corporations to solve disputes through violence.
+- **Project Moon:** The Head maintains absolute rule over 26 competing corporate Wings, each owning a patented Singularity. The City is driven by hyper-capitalism, where Fixers are privatized mercenaries competing for contracts.
 
-- **Project Somnarak (Pentagonal Operational Doctrine & The Debt Ledger):** Somnarak is not divided into competing commercial tech corporations, but governed through **five specialized institutional wings** co-existing alongside the civilian Council of Sighs:
-  1. **The Council of Sighs:** A fragile, guilt-ridden civilian bureaucracy that levies civic debt, enforces acoustic curfews, and regulates city zoning.
-  2. **The Pentagonal Wings:** Reverie Directorate (Containment), SED Corps (Borehole Exploration), UCD Task Force (Urban Pacification), Memory Archive (Mnemonic Transmutation), and Horizon Caravan (Overland Transit).
-  3. **The Municipal Debt Ledger:** Society is not segregated by corporate stock, but by quantified civic grief. Citizens are assigned Debt Tiers (Tiers 1 to 4); debt is paid in labor or memory extraction, and joining an institutional wing erases one's debt immediately in exchange for sworn life-service.
-  4. **The Operatives:** Somnarak does not have privatized 'Fixers.' Field agents are official institutional **Wardens, Enforcers, Custodians, and Navigators** operating under military command chains and sovereign charters.
-
----
-
-## Section V: Anomaly Taxonomy & Threat Classifications
-
-The nature, classification, and containment of anomalous beings represents one of the sharpest structural divergences:
-
-```text
-+=====================================================================+
-|               ENTITY CLASSIFICATION & ORIGIN TAXONOMY               |
-+---------------------------------------------------------------------+
-| METRIC / SYSTEM      | PROJECT MOON (PM)                            |
-|   | PROJECT SOMNARAK (PS)                                           |
-| ---------------------+-----------------------+--------------------- |
-| Designation          | Abnormalities                                |
-|   | Sorrow Entities       |                                         |
-| Origin Mechanism     | Subconscious Cogito                          |
-|   | Crystallized Ambient  |                                         |
-|                      | Injections & Dreams                          |
-|   | Planetary Han (Grief) |                                         |
-| Classification Tiers | ZAYIN, TETH, HE,                             |
-|   | Coherence Ranks (I-V) |                                         |
-|                      | WAW, ALEPH (5 Ranks)                         |
-|   | & Potency Grades (a-w)|                                         |
-| System Code Matrix                                                  |
-|   | F-01-02, O-03-89, etc.| SECC Code Matrix      |                 |
-|                                                                     |
-|   | (Fairy, Original, etc)| (SE-C-IIIg-032 [GS])  |                 |
-| Feral Sin Constructs | Peccatula (7 Sins,                           |
-|   | Fractured Beings &    |                                         |
-|                      | Irae, Luxuriae, etc.)                        |
-|   | Hollow Echoes         |                                         |
-| Ordeal Phenotype                                                    |
-|   | Amber, Crimson, Green,| Blue, Black, Pale,    |                 |
-|                      | Indigo, Violet, White                        |
-|   | Purple, Grey (5 Color)|                                         |
-| Work Containment     | Instinct, Insight,                           |
-|   | Ferrehan, Flerehan,   |                                         |
-|                                                                     |
-|   | Attachment, Repression| Pugnahan, Viderehan   |                 |
-+=====================================================================+
-```
-
-### 5.1 SECC Matrix vs. PM Abnormality Codes
-
-- **PM Codes:** Structured around classification letters (`O` for Original, `F` for Fairy Tale, `T` for Trauma) and arbitrary registration numbers assigned by Lobotomy Corporation.
-
-- **PS SECC Code Matrix:** A rigorous, five-tier coordinate system reflecting physical origin and risk:
-  * **Origin Prefix:** `C` (Dohan / City Center), `N` (Naehan / Inner Districts), `O` (Oehan / Outside Wilderness).
-  * **Coherence Rank:** Rank I: Whisper (속삭임), Rank II: Murmur (웅얼거림), Rank III: Fragment (파편), Rank IV: Entity (존재), Rank V: Sovereign (군주).
-  * **Potency Grade:** Grade α (Alpha / Minor), Grade β (Beta / Moderate), Grade γ (Gamma / Major), Grade δ (Delta / Catastrophic), Grade ω (Omega / Sovereign).
-  * **Registry Number & Element:** Numeric ID (001 to 999) + Element (`G` Grudge, `L` Lament, `V` Void, `W` Weight).
-  * **Manifestation Suffix:** `S` (Subject / Sentient Creature), `O` (Object / Artifact), `P` (Phenomenon / Zone), `E` (Effigy / Construct).
+- **Project Somnarak:** Governed by the civilian Council of Sighs and the **Pentagonal Institutional Doctrine**. Operatives are not mercenaries for hire, but sworn institutional Wardens, Custodians, and Navigators serving under sovereign blood-charters. Society is stratified through the Municipal Debt Ledger, where joining an institutional wing erases civic debt in exchange for life-service.
 
 ---
 
 ## Section VI: Metaphysics of Psychological Transformation
-
-How human minds break and how they achieve salvation forms the philosophical heart of both settings:
 
 ```text
 +=====================================================================+
@@ -273,26 +270,15 @@ How human minds break and how they achieve salvation forms the philosophical hea
 +=====================================================================+
 ```
 
-### 6.1 Distortion vs. Fracture
+### 6.1 Distortion vs. Fracture & E.G.O vs. Hope
 
-- **Project Moon (Distortion):** When an individual's emotional stress peaks, Carmen whispers into their mind, encouraging them to abandon societal morality and fully embrace their selfish truth. The person mutates into a **Distortion**—a surreal biological/mechanical monster embodying their individual psychological neurosis (e.g., The Pianist slaughtering 300,000 citizens to compose a perfect symphony).
+- **Distortion vs. Fracture:** Distortion is an act of extreme individual indulgence, where a person embraces their inner neurosis to become a monster. Fracture is an act of tragic exhaustion, where an operative's Composure breaks under the unendurable weight of societal sorrow, turning their bones into obsidian needles and weeping blue brine.
 
-- **Project Somnarak (Fracture):** In Somnarak, people do not break because they want to become selfish monsters; they break because the **collective burden of unvented sorrow collapses their physical and mental posture**. When an operative's Composure falls to zero under ambient Han radiation, they undergo a **Fracture**:
-  1. Their bones calcify into obsidian needles.
-  2. Their tears crystallize into sharp blue brine that cuts through nearby allies.
-  3. They lose individual ego and become an unthinking, weeping conductor of the earth's sorrow.
-
-### 6.2 Personal E.G.O vs. Hope Transformation
-
-- **Project Moon (E.G.O):** An individual who rejects Carmen's voice and reaffirms their own stubborn human resolve clothes themselves in **E.G.O**—armor and weaponry forged from their own ego. It is an act of violent individual self-assertion against the world.
-
-- **Project Somnarak (Hope Transformation):** Salvation in Somnarak is not achieved through aggressive individualism, but through **empathic resolution and communal reconciliation**. When an operative or Sorrow Entity completely processes, confesses, and transmutes their grief, they achieve a **Hope Transformation (HT-001 through HT-012, The Hand of Hope)**. Rather than manifesting weapons of war, they radiate 528 Hz golden resonance, neutralizing corruption and healing the earth around them.
+- **Personal E.G.O vs. Hope Transformation:** E.G.O is personal armor forged from individual self-assertion against an uncaring City. Hope Transformation (HT-001 through HT-012) is communal healing achieved through empathic reconciliation, transmuting pain into golden 528 Hz resonance that heals the earth.
 
 ---
 
-## Section VII: Combat Systems, Tactical Engine & Physics
-
-The mechanics of engagement and tactical visualization reflect fundamentally distinct game-design architectures:
+## Section VII: Combat Systems, Tactical Engine & Spatial Physics
 
 ```text
 +=====================================================================+
@@ -327,18 +313,15 @@ The mechanics of engagement and tactical visualization reflect fundamentally dis
 +=====================================================================+
 ```
 
-### 7.1 The Four Damage Signatures vs. The Four PM Damage Types
+### 7.1 The 10-Node Spatial Grid & The Four P-Framework
 
-- **Grudge (원한 / Crimson):** Piercing, slashing kinetic fury born of active hatred. Inflicts physical armor shredding and deep bleed trauma (diverges from PM RED by incorporating kinetic deflection and recoil shock).
-- **Lament (비탄 / Blue):** Cryogenic, hydraulic weeping sorrow. Drains mental Composure and induces freezing tremors (diverges from PM WHITE by chilling weapon hydraulics and lowering movement speed).
-- **Weight (중압 / Black):** Crushing gravitational mass and tectonic stress. Inflicts massive Posture Strain and breaks mechanical exoskeleton joints (diverges from PM BLACK by directly crushing armor rating and pinning targets to spatial nodes).
-- **Void (공허 / Pale White):** Soul-dissolution and acoustic nullification. Erases identity, drains Action Points, and silences skill channels (diverges from PM PALE by directly eating memory engrams and creating sensory vacuums).
+- **10-Node Spatial Grid:** Characters occupy discrete positions between Node 1 and Node 10, giving literal tactical value to movement, interception, and Range Bands 1 to 5.
+- **Four P-Framework:** Passives (P1), Panic/Composure (P2), Parry/Protection (P3), and Posture/Poise (P4), featuring dual-threshold staggers (60% part destruction, 0% terminal realization).
+- **Four Damage Signatures:** Crimson Grudge (kinetic fury / bleed), Blue Lament (cryogenic composure drain), Black Weight (tectonic gravitational crush), and Pale Void (conceptual memory erasure).
 
 ---
 
 ## Section VIII: Foundational Historical Tragedies
-
-The foundational cataclysm that created the modern world order represents the moral divergence of the two universes:
 
 ```text
 +=====================================================================+
@@ -372,15 +355,13 @@ The foundational cataclysm that created the modern world order represents the mo
 
 ### 8.1 Calculated Ambition vs. Criminal Indifference
 
-- **Project Moon (The Smoke War):** The Smoke War was an act of ruthless, calculated ambition. Dias, Ayin, and Benjamin orchestrated a military coup against Old L Corp to overthrow its oppressive smoke patent and clear the physical terrain to build Lobotomy Corporation. While horrific, it was an active conspiracy driven by a vision to save humanity's soul from apathy.
+- **The Smoke War (PM):** A war of calculated ambition. Ayin and Dias overthrew Old L Corp to clear land for Lobotomy Corp and acquire the resources needed to cure the City's apathy.
 
-- **Project Somnarak (The Cheongula):** The Cheongula was an act of **pure, institutional callousness**. The High Council knew for forty-four days that the bedrock beneath Zone B was turning to liquid sorrow. They refused to spend forty thousand marks to shore up the foundations because Zone B produced only three percent of municipal tax revenue. Exactly one thousand laborers were swallowed alive in the dark, and the Council locked the gates from the outside to ensure their drowning bodies would anchor the roots of the Alpha Tree. Somnarak is not built on a grand conspiracy; it is built on a mass grave of people who were deemed too poor to rescue.
+- **The Cheongula (PS):** An act of pure, bureaucratic callousness. The Council refused 40,000 marks to reinforce Zone B because the working-class laborers generated only 3% of tax revenue. Exactly 1,000 miners were swallowed alive, and the Council locked the gates from the outside to ensure their bodies anchored the Alpha Tree. Somnarak is built on an unhealed mass grave of people deemed too poor to save.
 
 ---
 
 ## Section IX: Closed-Loop Verse Integrity Proofs (12 Inviolable Axioms)
-
-To ensure that Project Somnarak remains 100% self-consistent, plot-hole-free, and legally/conceptually independent from Project Moon, the archive ratifies twelve closed-loop axioms:
 
 ```text
 +=====================================================================+
@@ -409,20 +390,20 @@ To ensure that Project Somnarak remains 100% self-consistent, plot-hole-free, an
 +=====================================================================+
 ```
 
-### The Inviolable Axioms Explained:
+### 9.1 Summary of the 12 Axioms
 
-1. **Urban Energy Independence:** Somnarak does not import energy from foreign Wings. The city's electrical and thermal grid is powered entirely by liquid Flerehan pressurized through the Absolvohan Hydraulic Valve Matrix beneath Facility 01.
-2. **The Maw Containment Equilibrium:** The Maw cannot breach because Containment Lead Dekan (Floor 2) monitors acoustic strain while Archive Lead Marjuk (Floor 6) guards the Final Door, anchoring the tectonic grief plate.
-3. **Perimeter Defense Reliability:** The 360-degree perimeter walls of Somnarak are fortified by Border Lead Mellda's 500-Warden garrison (Floor 5) and Boundary Vanguard Xyan's Gate Watch (Floor 8), preventing outside *Oehan* storms from penetrating the living quarters.
-4. **The Artificial Intelligence Loophole:** Taboo 2 prohibits sentient synthetic intelligences. Secretary Seiyon is legally permitted because she was never programmed with artificial feelings; she was a blank administrative effigy that awakened when she absorbed the residual memory engrams of Director Majin's deceased human companion.
-5. **The Total Immunity Loophole:** Taboo 3 prohibits making oneself immune to sorrow. Research Lead Ayshuk is legally permitted because Ayshuk does not possess a barrier or stone that repels sorrow; their inner grief was hollowed out by a Void entity, leaving them empty.
-6. **The Outside Boundary Loophole:** Taboo 6 prohibits fusing outside sorrow into municipal masonry. Border Lead Mellda is permitted because she bonded the outside entity within her own living cyborg flesh, bearing the agony personally rather than tainting civic architecture.
-7. **Authentic Soul Personhood:** Unlike mechanical robots, every single Echo-Core supervisor in Facility 01 (with the sole exception of the awakened Seiyon) was born a living human being who retains their original human soul and memories inside a stasis chassis.
-8. **The Underworld Reclamation Loop:** The UCD Strike Force executes the Three-Phase Reclamation Doctrine (financial freeze, kinetic breach, leaded cask extraction) to dismantle criminal syndicates, transferring contraband entities directly to Directorate holding vaults.
-9. **Frontier Cartography Continuity:** The SED Bore Fleet maps the subterranean abyss in seven structural Passages, transmitting geological telemetry to Floor 4 to ensure Somnarak's foundations never sink unannounced.
-10. **The Equipment Extraction Cycle:** Extraction Lead Zyrak maintains a 99.2% harvest efficiency, forging M.A.W. weapons and composite suits that directly equip Directorate Wardens and municipal strike squads.
-11. **Karmic Debt Equilibrium:** The Collectors of Zone B weigh emotional obligations as physical Echoes, ensuring that civic sorrow is quantified and recycled rather than left to rot in the streets.
-12. **The Absolvohan Salvation Horizon:** The 1,778 cycles are not a permanent trap. Upon reaching the critical threshold, the Absolvohan releases its accumulated reservoir into the **Hand of Hope**, transmuting 45% of the planet's sorrow into living soil and waking the silent cities of the north.
+1. **Urban Energy Independence:** Powered by liquid Flerehan pressurized through the Absolvohan Hydraulic Matrix.
+2. **Maw Containment Equilibrium:** Floor 2 (Dekan) and Floor 6 (Marjuk) anchor the tectonic grief plate.
+3. **Perimeter Defense:** Floor 5 Wardens (Mellda) and Floor 8 Gate Watch (Xyan) hold the city walls.
+4. **AI Law Compliance:** Secretary Seiyon is an accidental memory awakening, not a manufactured AI.
+5. **Han Immunity Compliance:** Research Lead Ayshuk has no sorrow to block; their sorrow was devoured by a Void entity.
+6. **Outside Boundary Compliance:** Mellda sealed the outside entity in her own cyborg flesh, not the city's masonry.
+7. **Authentic Soul Personhood:** All Echo-Cores were born living humans with authentic souls.
+8. **Underworld Reclamation:** UCD executes the Three-Phase Reclamation Doctrine to dismantle criminal Frays.
+9. **Frontier Cartography:** SED Bore Fleet maps the subterranean abyss in seven structural Passages.
+10. **Equipment Extraction:** Zyrak achieves 99.2% extraction efficiency into M.A.W. armaments.
+11. **Karmic Debt Equilibrium:** The Collectors weigh emotional obligations as physical Echoes.
+12. **Absolvohan Salvation Horizon:** The 1,778 loops culminate in the Hand of Hope, transmuting 45% of planetary sorrow.
 
 ---
 
@@ -438,11 +419,11 @@ To ensure that Project Somnarak remains 100% self-consistent, plot-hole-free, an
 |  again when our very survival was bought with the blood of          |
 |  people we chose to forget."                                        |
 +---------------------------------------------------------------------+
-| STATUS: DIVERGENCE FULLY AND CANONICALLY RATIFIED (96.6%)           |
+| STATUS: DIVERGENCE FULLY AND CANONICALLY RATIFIED (97.1%)           |
 +=====================================================================+
 ```
 
-Project Somnarak stands as a fully realized, structurally independent, and emotionally profound universe—honoring its narrative inspirations while forging its own indelible identity upon the endless sands of Mugenhan.
+Project Somnarak stands as a fully realized, structurally independent, and emotionally profound universe—honoring its narrative inspirations while forging its own indelible identity upon the continental expanse of Mugenhan.
 
 ---
 
