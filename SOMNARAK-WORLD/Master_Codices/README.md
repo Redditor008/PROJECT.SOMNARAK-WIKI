@@ -2,7 +2,7 @@
 
 **Archive Authority:** Reverie Directorate Executive Archive  
 **Status:** Supreme Canonical Baseline of Somnarak  
-**Total Tracked Codices:** 35 In-Universe Master Markdown Documents organized into 6 Canonical Subfolders (~45,000 lines / ~365,000 words)
+**Total Tracked Codices:** 36 In-Universe Master Markdown Documents organized into 6 Canonical Subfolders (~45,500 lines / ~370,000 words)
 
 ---
 
@@ -84,6 +84,7 @@ Tactical combat specifications, mechanical mathematics, and metaphysical physics
 - `SOMNARAK_ORDEALS_FRAMEWORK.md` (301 lines): Tactical framework of the 5-color Ordeals and 4 watches. Integrates the Tripartite Crisis Taxonomy (Ordeals vs Entity Breaches vs Echo-Core Suppressions) and Somnarak Potency Grades (Minor-α, Moderate-β, Major-γ, Catastrophic-δ).
 - `SOMNARAK_TABOO_RESONANCE.md` (345 lines): Acoustic physics of the Seven Taboos and resonant punishment dynamics.
 - `SOMNARAK_FACTION_TECH.md` (654 lines): Documentation of faction armaments, Warden Arm-Blade *Threshold Vow*, and Directorate Human Soul & Embodied Architecture Taxonomy.
+- `SOMNARAK_WORKSHOPS.md`: The Six Sovereign Workshops (Yeoul, Cheol-Gyeong, Chim-Mok, Hwa-Seok, Baek-Gwang, Sim-Yeon), non-M.A.W. artisan equipment, Workplace Law, and the 0.5% / 1.0% / 5.0% acquisition percentage curve across Grades 1 to 5 (Legendary Stat).
 
 ---
 

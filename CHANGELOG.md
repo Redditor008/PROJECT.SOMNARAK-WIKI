@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Codify The Six Great Basalt & Resonance Workshops (`Master_Codices/SOMNARAK_WORKSHOPS.md`)** —
+  - Codified the definitive non-M.A.W. artisan equipment and forge systems codex in `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md`.
+  - Enshrined the binding Workplace Law (employment and guild tenure requirement) and the 0.5% / 1.0% / 5.0% acquisition curve across Grades 1 to 5, establishing that Grade 5 armaments achieve Legendary Stat rivaling Grade-γ M.A.W. without mental corruption risks.
+  - Detailed the history, master wrights, raw material supplies (Tier 2 Beast carapaces), and complete weapon manifests of the Six Sovereign Workshops: Yeoul (Pneumatic Harpoons), Cheol-Gyeong (Vitrified Basalt Shields), Chim-Mok (Acoustic Dampeners), Hwa-Seok (Sulfur Thermal Lances), Baek-Gwang (Quartz Void Optics), and Sim-Yeon (Abyss Diving Rigs).
+  - Updated `Master_Codices/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Codify Mnemonic Cycle Engram Framework (`GAME_BATTLE/CYCLE_ENGRAM_SYSTEM.md`)** —
   - Codified the definitive 1,778-cycle identity attunement system in `GAME_BATTLE/CYCLE_ENGRAM_SYSTEM.md`, establishing how historical memory crystallizations from Floor 06 Memory Wells and the Memory Archive modify an operative's Speed Bands, Action Slot allotment, and innate P1 Passives under the Composure Load Law.
   - Documented complete canonical engram folios for core operatives: Taeho (Cycle 1,412 Fray-Hunter, Cycle 0,845 Inquisitor), Seol-A (Cycle 0,980 Sonar Cartographer, Cycle 1,604 Veil Smuggler), Min-Jae (Cycle 1,120 Bulwark Commander, Cycle 0,550 Mender Apprentice), and Ha-Eun (Cycle 1,305 Bastion Gunner, Cycle 1,690 Memory Bleacher).

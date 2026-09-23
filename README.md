@@ -25,7 +25,7 @@ The repository is structured into distinct, authoritative functional environment
 
 - **Over 1,730 curated canonical markdown files** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
 - **Over 3.8 million words** of structured, authentic canonical lore
-- **35 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) across 6 canonical subfolders establishing macro-cosmology, planetary geology, institutional doctrines, and combat physics
+- **36 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) across 6 canonical subfolders establishing macro-cosmology, planetary geology, institutional doctrines, and combat physics
 - **5 Planetary Biosphere & Ecological Codices** (`SOMNARAK-WORLD/Mugenhan_Ecology/`), documenting 15 Mundane species, 6 Sorrow Beasts/Plants, and 6 Mortal Sorrow Creatures across all planetary biomes
 - **9 Absolvohan Narrative Volumes** (`SOMNARAK-WORLD/The_Absolvohan/`), chronicling the full Day 0 through Day 365+ journey across the 1,778th Cycle
 - **7 Subterranean Descent Chronicles** (`SOMNARAK-WORLD/Katabagil/`), detailing the SED Katabagil deep expeditionary passages
@@ -91,10 +91,10 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │
 ├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,730+ files)
 │   ├── README.md                           # In-world archive guide & recommended reading order
-│   ├── Master_Codices/                     # 35 Macro-Canon Master Codices across 6 canonical subfolders
+│   ├── Master_Codices/                     # 36 Macro-Canon Master Codices across 6 canonical subfolders
 │   │   ├── 01_Cosmology_and_World_Order/   # 8 Codices: Metaphysics, layers, geology, the Maw, Weeping
 │   │   ├── 02_Institutional_Wings_and_Chronicles/ # 5 Codices: Reverie Directorate, SED, UCD, Archive, Caravan
-│   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 7 Codices: Battle engines, M.A.W., relics, Ordeals, tech
+│   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 8 Codices: Battle engines, M.A.W., relics, Ordeals, workshops
 │   │   ├── 04_Municipal_Society_and_Demographics/ # 8 Codices: Daily life, Council, Collectors, corporations
 │   │   ├── 05_Entities_Tales_and_Fractures/# 6 Codices: Entity taxonomy, tales, fractures, adversaries
 │   │   ├── 06_Integrity_Audits_and_Comparative_Studies/ # 1 Codex: PM comparative integrity audit
@@ -213,6 +213,7 @@ Tactical combat specifications, mechanical mathematics, and metaphysical physics
 | [`SOMNARAK_MAW_CODEX.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md) | Master Armory & Extraction Engine (9,033 lines) | M.A.W. weapon archetypes, suit weave defenses, gift slots, and extraction across 245 sets |
 | [`SOMNARAK_ORDEALS_FRAMEWORK.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_ORDEALS_FRAMEWORK.md) | Five-Color Ordeal Defense (301 lines) | Mechanics for Blue, Black, Pale, Grey, and Purple Ordeals across 4 watches and crisis taxonomy |
 | [`SOMNARAK_TABOO_RESONANCE.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_TABOO_RESONANCE.md) | Seven Taboos & Resonances (366 lines) | Absolute civic laws, acoustic censorship dynamics, resonant punishments, and Giltong enforcement |
+| [`SOMNARAK_WORKSHOPS.md`](SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_WORKSHOPS.md) | Six Great Workshops Codex (215 lines) | Non-M.A.W. artisan equipment, Workplace Law, and 0.5% / 1.0% / 5.0% acquisition curve across Grades 1 to 5 (Legendary Stat) |
 
 ---
 
