@@ -292,7 +292,7 @@ def main():
     print(f"   - Jipyeongseondae Arcs : {aux_res['jipyeong_arcs_count']} files (6 Overland Arcs + Overview)")
     print(f"   - Ordeals (5 Colors)   : {aux_res['ordeals_count']} files (Expected: 60)")
     print(f"   - Hope Transformations : {aux_res['hope_transformations_count']} files (Expected: 14)")
-    print(f"   - Unknown Anomalies    : {aux_res['unknown_entities_count']} files (Expected: 8)")
+    print(f"   - Unknown Anomalies    : {aux_res['unknown_entities_count']} files (Expected: 14)")
     print(f"   - Facility Echo-Cores  : {aux_res['echo_cores_count']} files (Expected: 9)")
     print(f"6. Text Box Symmetry     : {sym_res['status']} ({sym_res['scanned_files']} files, {sym_res['total_issues']} crooked rows)")
     print("=" * 68)

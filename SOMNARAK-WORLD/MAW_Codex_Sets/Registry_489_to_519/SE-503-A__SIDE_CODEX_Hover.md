@@ -42,7 +42,7 @@ The source is δ, but its canonical M.A.W. profiles are α and remain so. Echoes
 
 Lantern reveals one injury, Shroud keeps the witness functional, and Requiem clears one feasible obstruction. The set requires honest limits and one real action. Promising total rescue or using limits to dismiss pain makes the shards converge on the witness.
 
-**Source:** `SE-C-IVδ-503_Hover_떠다니는_조각.md`
+**Source:** `SE-C-IVδ-503_Floating_Shard_떠다니는_조각.md`
 
 ---
 

@@ -97,7 +97,7 @@ An echo forms after two dreamers report matching fragments without agreeing on a
 ## PAGE 08–09 — LINKS
 
 **Relations:** The Broken Whisper; The Drift Fog; The Observing Bird.  
-**Primary source:** `SE-C-IVδ-249_The_Collapsed_Whisper_무너진_속삭임.md`
+**Primary source:** `SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md`
 
 **Restricted note:** No warning fragment is to be published as a complete recovered sentence.
 

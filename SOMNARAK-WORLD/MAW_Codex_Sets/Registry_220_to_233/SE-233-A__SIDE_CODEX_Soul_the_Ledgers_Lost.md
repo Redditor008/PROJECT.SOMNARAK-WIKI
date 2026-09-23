@@ -100,7 +100,7 @@ A stable echo forms only after a complete Ferrehan route during which two worker
 
 **Progression:** changing face → calm through admitted uncertainty → fragments without a stable biography → presence accepted without false recovery.  
 **Relations:** The Forgotten Name; The Whispering Gallery; The Orphaned Bell.  
-**Primary source:** `SE-O-IIIγ-233_Soul_the_Ledgers_Lost_잊혀진_영혼.md`
+**Primary source:** `SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md`
 
 **Restricted note:** “Soul the Ledgers Lost” is a registry designation, not the citizen’s recovered name.
 

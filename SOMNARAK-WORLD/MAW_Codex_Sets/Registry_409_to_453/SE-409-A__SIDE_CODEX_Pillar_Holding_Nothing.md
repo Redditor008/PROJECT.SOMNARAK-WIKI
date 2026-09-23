@@ -42,7 +42,7 @@ An echo forms after a false support is acknowledged and one current, consented s
 
 Gift identifies the false support, Veil protects the person during collapse, and Lens cuts active instability. A real support plan must name provider, limits, consent, and failure conditions. Pretending the replacement is absolute simply creates a second floating pillar.
 
-**Source:** `SE-N-IIIγ-409_Pillar_Holding_Nothing_떠다니는_기둥.md`
+**Source:** `SE-N-IIIγ-409_Floating_Pillar_떠다니는_기둥.md`
 
 ---
 

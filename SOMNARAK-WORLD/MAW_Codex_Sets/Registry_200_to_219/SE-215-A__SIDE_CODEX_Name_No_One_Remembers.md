@@ -159,7 +159,7 @@ The Thread holds exactly one name. It cannot be used as a net for the entire Old
 
 ## PAGE 09 — CROSS-REFERENCE PAGE
 
-**Primary source:** `SE-N-IIα-215_Name_No_One_Remembers_잊혀진_이름.md`  
+**Primary source:** `SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md`  
 **Entity relations:** The Forgotten Soldier; The Whispering Walls; The Memory Thief  
 **Operational links:** Zone B; Old Lament; identity-card pairing; lost-record recovery protocol  
 **Individual files:** `SE-215-B`, `SE-215-C`, `SE-215-D`

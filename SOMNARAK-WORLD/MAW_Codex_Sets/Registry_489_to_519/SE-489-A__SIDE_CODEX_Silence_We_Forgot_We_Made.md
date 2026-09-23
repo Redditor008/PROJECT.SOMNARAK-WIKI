@@ -42,7 +42,7 @@ An echo forms after one worker names their own withholding while every other per
 
 Lens identifies the emotional boundary, Shroud preserves the silent person, and Requiem cuts only coercive suppression. A worker may name their own truth without conscripting anyone else. Treating all silence as confession forces the set into endless noise.
 
-**Source:** `SE-N-IVδ-489_Silence_We_Forgot_We_Made_잊혀진_침묵.md`
+**Source:** `SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵.md`
 
 ---
 

@@ -97,7 +97,7 @@ A stable echo forms after a structure’s intended occupants and use are documen
 ## PAGE 08–09 — LINKS
 
 **Relations:** Folly; The Grieving Colossus; The Broken Promise; Holdout; Architects’ Order.  
-**Primary source:** `SE-C-IVγ-255_The_Hollow_Architect_빈_건축가.md`
+**Primary source:** `SE-C-IVγ-255_Hollow_Architect_빈_건축가.md`
 
 **Formal-ID note:** `SE-255` is assigned to The Hollow Architect. The Rising Wall remains a deferred source-suffix sibling requiring a unique formal ID.
 

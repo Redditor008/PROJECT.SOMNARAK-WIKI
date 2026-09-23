@@ -42,7 +42,7 @@ An echo forms after the dreamer verifies whether connection remains reciprocal a
 
 Knot verifies reciprocal contact, Shroud anchors the dreamer, and Requiem cuts only the drag of obsolete route-memory. A living shared bond remains; a one-sided tether releases. Claiming reciprocity without evidence causes the rope to melt through present anchors and pull the bearer toward absence.
 
-**Source:** `SE-N-IIIγ-447_Rope_Held_Too_Long_녹아내린_밧줄.md`
+**Source:** `SE-N-IIIγ-447_Melting_Rope_녹아내린_밧줄.md`
 
 ---
 

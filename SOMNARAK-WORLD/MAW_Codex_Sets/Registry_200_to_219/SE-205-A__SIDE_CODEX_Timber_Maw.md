@@ -155,7 +155,7 @@ The Charm hangs or roots at the crown with a weight greater than its size. It ti
 
 ## PAGE 09 — CROSS-REFERENCE PAGE
 
-**Primary source:** `SE-C-IVγ-205_Timber_Maw_빈_나무.md`
+**Primary source:** `SE-C-IVγ-205_Hollow_Tree_빈_나무.md`
 **Entity relations:** The Hollow Saint; The Sorrow Flower; The Grieving Colossus; The Sunken Pillar; The Vanished Seed
 **Operational links:** SECTOR-D-02; Echo Gardens patrol; Sorrow Tide garden protocol
 **Individual files:** `SE-205-B`, `SE-205-C`, `SE-205-D`

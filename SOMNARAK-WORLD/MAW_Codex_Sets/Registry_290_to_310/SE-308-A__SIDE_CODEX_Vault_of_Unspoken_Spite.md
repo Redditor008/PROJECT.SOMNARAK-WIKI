@@ -96,7 +96,7 @@ An echo forms only after one stored grievance is acknowledged, released without 
 ## PAGE 08–09 — LINKS
 
 **Relations:** Heirloom; The Angry Maiden; The Frozen Veil; The Memory Lock.  
-**Primary source:** `SE-N-IIIγ-308_Vault_of_Unspoken_Spite_솟구친_그림자.md`
+**Primary source:** `SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md`
 
 **Restricted note:** The Vault is not an emotional waste service. Every accepted grievance requires provenance and release responsibility.
 

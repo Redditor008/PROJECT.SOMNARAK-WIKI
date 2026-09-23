@@ -96,7 +96,7 @@ A source use leaves an emptied A-Relic husk. Only residue from a deliberately te
 ## PAGE 08–09 — LINKS
 
 **Relations:** The Echo Compass; Doorway to Nowhere; The Drift Fog.  
-**Primary source:** `SE-C-IIβ-290_Compass_Without_North_부서진_나침반.md`
+**Primary source:** `SE-C-IIβ-290_Broken_Compass_부서진_나침반.md`
 
 **Formal-ID note:** `SE-290` is assigned to Compass Without North. The First Tear (`C-Vδ-290`) remains deferred for a unique formal ID.
 

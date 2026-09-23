@@ -161,7 +161,7 @@ The Facade can prevent visible distress from feeding a crowd, but it also hides 
 
 ## PAGE 09 — CROSS-REFERENCE PAGE
 
-**Primary source:** `SE-C-IIβ-210_Levity_웃는_가면.md`  
+**Primary source:** `SE-C-IIβ-210_Laughing_Mask_웃는_가면.md`  
 **Entity relations:** The Happy Mask; Risus; The Masked Dancer; The Empty Mask  
 **Operational links:** SECTOR-C-01; Mask Market; Masked Troupe; Indumentum removal protocol  
 **Individual files:** `SE-210-B`, `SE-210-C`, `SE-210-D`

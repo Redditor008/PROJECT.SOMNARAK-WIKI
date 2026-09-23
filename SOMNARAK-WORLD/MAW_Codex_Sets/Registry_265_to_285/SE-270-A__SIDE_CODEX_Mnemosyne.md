@@ -96,7 +96,7 @@ A memory may be shaped only after it surfaces voluntarily, is witnessed, and rec
 ## PAGE 08–09 — LINKS
 
 **Relations:** The Memory Well; The Memory Weaver; Echo Gardens; Memory Rain.  
-**Primary source:** `SE-C-IVγ-270_Mnemosyne_기억의_호수.md`
+**Primary source:** `SE-C-IVγ-270_Memory_Lake_기억의_호수.md`
 
 **Formal-ID note:** `SE-270` is assigned to Mnemosyne. Neglect Learned to Listen (`N-IIβ-270`) is deferred for a unique formal ID.
 

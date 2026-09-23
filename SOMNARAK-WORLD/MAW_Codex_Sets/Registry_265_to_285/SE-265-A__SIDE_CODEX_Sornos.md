@@ -94,7 +94,7 @@ Mastery here means recognizing the limit and preserving it.
 ## PAGE 06 — CROSS-REFERENCES
 
 **Relations:** The Burning Library; The Final Door; The Maw; The First Tear; Sorrow Gate; the Alpha Tree.  
-**Primary source:** `SE-C-Vδ-265_Sornos_잊혀진_신.md`
+**Primary source:** `SE-C-Vδ-265_Forgotten_God_잊혀진_신.md`
 
 **Restricted note:** Any future request for an individual Sornos M.A.W. codex must first resolve the direct source prohibition through explicit user-approved canon revision. Template architecture cannot overrule it.
 

@@ -96,7 +96,7 @@ A M.A.W. echo may be shaped only after a whisper ends and the listener chooses n
 ## PAGE 08–09 — LINKS
 
 **Relations:** The Burning Library; The Memory Weaver; The Final Door; Sorrow Gate.  
-**Primary source:** `SE-C-IIIγ-300_The_Memory_Lock_기억의_자물쇠.md`
+**Primary source:** `SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md`
 
 **Formal-ID note:** `SE-300` is assigned to The Memory Lock. The Sorrow Seed (`C-Iα-300`) remains deferred for a unique formal ID.
 

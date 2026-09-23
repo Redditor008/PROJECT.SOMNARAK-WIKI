@@ -39,7 +39,7 @@ Extraction occurs after a channel reaches a site, is acknowledged by people at b
 
 Vial links consenting witnesses, Shroud preserves the carrier, and Requiem clears one obstruction. Grief reaches acknowledgment without becoming the witness’s identity. Damming, extracting energy, or appointing one person to absorb both sites causes the channels to flood the set.
 
-**Source:** `SE-C-IIIγ-373_Till_Someone_Understands_스며든_우물.md`
+**Source:** `SE-C-IIIγ-373_Spreading_Well_스며든_우물.md`
 
 ---
 

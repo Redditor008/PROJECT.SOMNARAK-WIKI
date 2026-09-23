@@ -96,7 +96,7 @@ An echo forms after Flerehan loosens the rope and the affected person consciousl
 ## PAGE 08–09 — LINKS
 
 **Relations:** The Vanished Rope; The Wandering Chain; The Lost Prince.  
-**Primary source:** `SE-N-Iα-316_Tether_솟구친_밧줄.md`
+**Primary source:** `SE-N-Iα-316_Soaking_Rope_솟구친_밧줄.md`
 
 **Restricted note:** Release ends active waiting; it does not erase love, injury, or the original sincerity of the promise.
 

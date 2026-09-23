@@ -96,7 +96,7 @@ A stable echo forms only from tears that leave the shell and are collected after
 ## PAGE 08–09 — LINKS
 
 **Relations:** The Sorrow Seed; The Kind Healer; Echo Gardens growth network.  
-**Primary source:** `SE-N-IVδ-315_Unsprouted_Life_무너진_씨앗.md`
+**Primary source:** `SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md`
 
 **Restricted note:** No full manifestation has been identified. All images remain hypothetical and may not guide cultivation.
 

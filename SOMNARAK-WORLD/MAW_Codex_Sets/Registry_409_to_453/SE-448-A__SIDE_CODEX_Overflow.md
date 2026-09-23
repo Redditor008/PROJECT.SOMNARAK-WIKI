@@ -42,7 +42,7 @@ An echo forms after one stored grief receives a voluntary physical mourning plac
 
 Ring tends the living, Plate holds the rising pressure, and Fang separates overflow from the chosen mourning ground. Grief settles without being buried. Forcing descent, treating the place as disposal, or erasing anger memories makes the Well rise higher and reverse the healing touch.
 
-**Source:** `SE-C-IIIγ-448_Overflow_떠다니는_우물.md`
+**Source:** `SE-C-IIIγ-448_Floating_Well_떠다니는_우물.md`
 
 ---
 

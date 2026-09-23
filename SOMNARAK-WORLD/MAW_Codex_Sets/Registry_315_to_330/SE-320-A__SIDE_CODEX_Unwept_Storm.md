@@ -98,7 +98,7 @@ Extraction occurs only from crystallized hail after the Storm has passed and cas
 ## PAGE 08–09 — LINKS
 
 **Relations:** The Sorrow Tide; The Maw; The Grieving Colossus; the Weeping; the Veil.  
-**Primary source:** `SE-C-Vγ-320_Unwept_Storm_슬픔의_폭풍.md`
+**Primary source:** `SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md`
 
 **Restricted note:** Post-Storm Han yield is not a reward pool. Recovery and new-entity monitoring take precedence over extraction.
 

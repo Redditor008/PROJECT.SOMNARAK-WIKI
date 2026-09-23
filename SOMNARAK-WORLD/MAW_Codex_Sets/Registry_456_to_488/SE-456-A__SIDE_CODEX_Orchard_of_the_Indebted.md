@@ -40,7 +40,7 @@ An echo forms after one desire is documented separately from debt, entitlement, 
 
 Charm names the desire, Plate protects the person from systemic Grudge, and Dagger reveals where debt hides the grief. The desire may remain legitimate even if fulfillment is unavailable. Promising harvest, monetizing the fruit, or calling desire itself debt makes every fruit vanish and transfers hunger to the operators.
 
-**Source:** `SE-N-IIβ-456_Orchard_of_the_Indebted_번져가는_열매.md`
+**Source:** `SE-N-IIβ-456_Fading_Fruit_번져가는_열매.md`
 
 ---
 

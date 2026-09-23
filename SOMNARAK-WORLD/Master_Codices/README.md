@@ -2,7 +2,7 @@
 
 **Archive Authority:** Reverie Directorate Executive Archive  
 **Status:** Supreme Canonical Baseline of Somnarak  
-**Total Tracked Codices:** 32 In-Universe Master Markdown Documents organized into 6 Canonical Subfolders (~42,000 lines / ~340,000 words)
+**Total Tracked Codices:** 35 In-Universe Master Markdown Documents organized into 6 Canonical Subfolders (~45,000 lines / ~365,000 words)
 
 ---
 
@@ -61,6 +61,7 @@ Foundational cosmological architecture, metaphysics, origin cataclysms, and the 
 - `SOMNARAK_DREAM_REALM.md` (350 lines): The subconscious dream realm, dream-diving physics, and the Weavers Guild.
 - `SOMNARAK_CHEONGULA.md` (336 lines): The First Sorrow, the Year 0 Cataclysm, and the origin of Cheongula.
 - `SOMNARAK_UNKNOWN_CITIES.md` (560 lines): Sister cities Cheonbulok and Mugeukji, external geopolitical threats, and refugee enclaves.
+- `SOMNARAK_GEOLOGY.md`: Planetary geology and macro-terrain of Mugenhan, The Consoling Untouched Ocean `[ConHeAn]`, Numbing Frozen Tundra `[NuRoZen]`, The Sorrow Lake, Crystal Peaks, Sea of Glass, and subterranean strata.
 
 ---
 
@@ -93,6 +94,8 @@ Societal structures, urban civilian life, economic frameworks, and faction demog
 - `SOMNARAK_CORPORATIONS.md`: The Five Sovereign Institutions (Reverie Directorate, Somnarak Exploration Decree, Underworld Cleanup Descend, The Memory Archive, and The Horizon Caravan) and their unified pentagonal operational doctrine.
 - `SOMNARAK_FACTION_RELATIONS.md` (324 lines): Diplomatic power balance matrix, covert treaties, and historical wars between factions.
 - `SOMNARAK_CAST.md` (1,238 lines): Canonical registry of Somnarak figures (Council of Sighs, Leads, Operatives, Sector Heads, and Outlaws).
+- `SOMNARAK_COUNCIL_OF_SIGHS.md`: Sovereign municipal governance, in-depth profiles of the known leadership (Chief of Staff Yeong, First Head Dohee, Third Head Gwanhee, Sector Heads), and the ~45 cloaked anonymous councilors.
+- `SOMNARAK_COLLECTOR_BUREAU.md`: Comprehensive municipal debt enforcement, the four metaphysical currencies (Material Han, Karma Debt, Soul Debt, Emotional/Memory Debt), the Collector Scales, and four-tier foreclosure protocols.
 - `SOMNARAK_DAWN_OF_HOPE.md` (553 lines): The Year 4,238 Dawn Initiative, timeline of the 1,778 Cycles, and historical epochs.
 
 ---

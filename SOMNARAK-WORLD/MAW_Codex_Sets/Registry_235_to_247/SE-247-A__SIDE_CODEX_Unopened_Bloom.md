@@ -97,7 +97,7 @@ An echo forms only after the source closes its petals during Flerehan or Ferreha
 ## PAGE 08–09 — LINKS
 
 **Relations:** The Sorrow Flower; The Garden of Thorns; The Orphaned Bell.  
-**Primary source:** `SE-C-Iα-247_Unopened_Bloom_찢어진_꽃.md`
+**Primary source:** `SE-C-Iα-247_Torn_Flower_찢어진_꽃.md`
 
 **Restricted note:** Stabilization may protect the memorial surroundings. It may not restore, replace, or conceal the torn bloom.
 

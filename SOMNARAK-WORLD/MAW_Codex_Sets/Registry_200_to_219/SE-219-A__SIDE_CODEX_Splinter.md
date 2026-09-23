@@ -100,7 +100,7 @@ Extraction occurs only after a released memory is witnessed to completion withou
 **Observed:** the shard absorbs tears, grows more active during Sorrow Tides, and leaks more when physically damaged.  
 **Understood:** sealing delayed the flow; it never healed the loss.  
 **Links:** Sealed Rage; The First Tear; The Memory Rain; Alpha Tree vault; Sorrow Tide records.  
-**Primary source:** `SE-C-IVδ-219_Splinter_솟구친_조각.md`
+**Primary source:** `SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md`
 
 **Restricted note:** No maintenance team is authorized to fill, fuse, cap, or polish over the source crack.
 
