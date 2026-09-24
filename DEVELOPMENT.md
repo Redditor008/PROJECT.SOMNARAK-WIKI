@@ -81,7 +81,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 │
 ├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,730+ files)
 │   ├── README.md                           # In-world archive guide & recommended reading order
-│   ├── Master_Codices/                     # 38 Macro-Canon Master Codices across 6 canonical subfolders
+│   ├── Master_Codices/                     # 39 Macro-Canon Master Codices across 6 canonical subfolders
 │   │   ├── 01_Cosmology_and_World_Order/   # 8 Codices: Metaphysics, layers, geology, the Maw, Weeping
 │   │   ├── 02_Institutional_Wings_and_Chronicles/ # 5 Codices: Reverie Directorate, SED, UCD, Archive, Caravan
 │   │   ├── 03_Systems_Combat_Engine_and_Physics/ # 8 Codices: Battle engines, M.A.W., relics, Ordeals, workshops
@@ -146,8 +146,8 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 ## 4. Working with the In-World Canon Repositories (`SOMNARAK-WORLD/`)
 
 ### A. The Master Codices (`SOMNARAK-WORLD/Master_Codices/`)
-- These 38 master files organized across 6 canonical subfolders establish the cosmological, physical, municipal, and political framework of Somnarak.
-- When referencing world rules, always cite the corresponding codex (e.g., `PROJECT_SOMNARAK.md` for cosmology, `SOMNARAK_BATTLE_SYSTEM_STYLES.md` for combat mechanics, `The_REVERIE_DIRECTORATE.md` for Facility 01 floors, `SOMNARAK_GEOLOGY.md` for planetary geology, `SOMNARAK_WORKSHOPS.md` for non-M.A.W. equipment and artisan forge systems, `SOMNARAK_UNDERWORLD_SYNDICATES.md` for underworld factions and extralegal governance, `SOMNARAK_SPECIALIST_CADRES.md` for chartered contractor bureaus and section hierarchies).
+- These 39 master files organized across 6 canonical subfolders establish the cosmological, physical, municipal, and political framework of Somnarak.
+- When referencing world rules, always cite the corresponding codex (e.g., `PROJECT_SOMNARAK.md` for cosmology, `SOMNARAK_BATTLE_SYSTEM_STYLES.md` for combat mechanics, `The_REVERIE_DIRECTORATE.md` for Facility 01 floors, `SOMNARAK_GEOLOGY.md` for planetary geology, `SOMNARAK_WORKSHOPS.md` for non-M.A.W. equipment and artisan forge systems, `SOMNARAK_UNDERWORLD_SYNDICATES.md` for underworld factions and extralegal governance, `SOMNARAK_SPECIALIST_CADRES.md` for chartered contractor bureaus, `SOMNARAK_ZONE_CORPORATIONS.md` for the 25 municipal zone corporations, Haz-scorchers, Cleansers, and Giltong arbiter authority).
 
 ### B. Sorrow Entity Files (`SOMNARAK-WORLD/Sorrow_Entities/`)
 - Filename convention: `SE-<SECC Code>_<English Name>_<Korean Name>.md` (e.g. `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`).

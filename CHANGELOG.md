@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Add Master Codex: Municipal Zone Corporations & Curfew Sanitation Corps (`SOMNARAK_ZONE_CORPORATIONS.md`)** —
+  - Codified the definitive master codex for the Twenty-Five Zone Corporations in `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_ZONE_CORPORATIONS.md` (CORP-ZONE-001 to 025).
+  - Enshrined the Quinquennial Zone Corporate Law: exactly 5 chartered corporations per municipal Zone across Zone A (The Veil), Zone B (The Raw), Zone C (Collector's Row), Zone D (The Echo Forge), and Zone E (The Bastion Ring).
+  - Documented the Fourth Watch Curfew Sanitation Corps (02:00 to 06:00), detailing the specialized human/augmented Haz-scorchers (thermal slag-burners, pressurized asbestos hazard suits, thermal lances) and Cleansers (caustic neutralizer foam, acoustic scrubbers).
+  - Enshrined Giltong's sovereign Arbiter-tier extraterritorial jurisdiction and the absence of subordinate executioner tiers.
+  - Reaffirmed Mugenhan outer cities (Cheonbulok, Myeongwolseong) as living, populated urban metropolises with distinct civil infrastructure and municipal laws, prohibiting reduction to mere geology.
+  - Updated `SOMNARAK-WORLD/Master_Codices/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Codify Owner Rulings on World-Building & Narrative Expansion Roadmap** —
   - Enshrined Giltong (길통) as Project Somnarak's Arbiter-tier sovereign authority, with subordinate executioner tiers held as unmanifested.
   - Standardized municipal corporate wing architecture to 5 Corporations per Zone (Zone A, B, C, D, etc.), replacing global wing scaling with compact municipal sector clusters.

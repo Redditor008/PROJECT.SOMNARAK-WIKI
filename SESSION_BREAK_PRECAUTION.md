@@ -125,6 +125,7 @@ Execute in order. Do not skip steps.
   * Extra Note (Cities vs Geology): All Unknown/Outer Cities are full living CITIES with urban society, infrastructure, and municipal laws—NOT merely geological biomes or terrain features. Do not reduce them to geology.
   * Vector 5 (Character Cantos): Approved for natural narrative story development, but requires structured refinement into grounded, dialogue-driven prose fiction.
   * Vector 6 (Realization Encounters): Departmental Realization Boss Battles for Floors 01, 03-09 are placed ON HOLD until actively required for gameplay/narrative progression.
+- **The Twenty-Five Municipal Zone Corporations Codex (`Master_Codices/SOMNARAK_ZONE_CORPORATIONS.md`) (2026-09-24):** Codified master codex for the 25 Zone Corporations (exactly 5 corporations per Zone across Zones A, B, C, D, E), Fourth Watch Curfew Sanitation Corps (Haz-scorchers and Cleansers), Giltong's sovereign Arbiter authority, and living outer metropolises of Mugenhan. All checks PASS.
 
 ---
 
