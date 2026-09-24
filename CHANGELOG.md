@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Add Sovereign Boss Mechanics Folio: The Weeping Mirror (`GAME_BATTLE/BOSS_MECHANICS_WEEPING_MIRROR.md`)** —
+  - Codified the comprehensive technical boss mechanics folio for Rank IV Sovereign `SE-C-IVδ-195 The Weeping Mirror` (The Mirror of Sorrows / Learned Your Face) in `GAME_BATTLE/BOSS_MECHANICS_WEEPING_MIRROR.md` (SOP-GB-BOSS-002).
+  - Specified the complete quadripartite modular anatomy: Silvered Glass Core (900 HP, 1.8x Fatal Weight vulnerability), Gilded Iron Frame (800 HP), Liquid Silver Siphon Spout (500 HP, halts 20 Composure regeneration on rupture), and autonomous Mirrored Twin Simulacra (600 HP, inverts copied operative defense profiles).
+  - Formulated the 3-phase shatter evolution engine: Phase 1 (Silvered Surface Gaze Anchor, 3 AP), Phase 2 (Fractured Reflections & Twin Simulacra, 4 AP), and Phase 3 (Shattered Shards & Sovereign Dissociation, 5 AP).
+  - Documented the exhaustive AI intention deck (*Gaze of the Unwept*, *Specular Retaliation*, *Mercury Siphon Jet*, *Fracture Duplication*, and *Catastrophic Prism Burst*) along with decision trees and proximity-based target prioritization.
+  - Codified recommended 4-operative strike squad counter-doctrines and the full Grade 5 M.A.W. synthesis registry (`MAW-W-195 The Sorrow Lens`, `MAW-S-195 The Sorrow Veil`, `MAW-G-195 The Sorrow Monocle`, and `The Mirror Glass Mask`).
+  - Updated `GAME_BATTLE/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Add Sovereign Boss Mechanics Folio: The Grieving Colossus (`GAME_BATTLE/BOSS_MECHANICS_GRIEVING_COLOSSUS.md`)** —
   - Codified the comprehensive technical boss mechanics folio for Rank V Sovereign `SE-C-Vδ-002 The Grieving Colossus` in `GAME_BATTLE/BOSS_MECHANICS_GRIEVING_COLOSSUS.md` (SOP-GB-BOSS-001).
   - Specified the complete quadripartite modular anatomy: Basalt Crown (600 HP), Left Knee Pillar (500 HP), Right Knee Pillar (500 HP), and Weeping Basalt Core (1,000 HP), detailing part rupture thresholds (60%), independent defense affinities, structural passives, and dual-knee Catastrophic Posture Collapse rules.

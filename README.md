@@ -71,6 +71,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   ├── SCENARIO_05_HORIZON_CARAVAN_LEVIATHAN_SIEGE.md # Full 6-turn Drift Throne defense vs Glass Burrower
 │   ├── SCENARIO_06_MEMORY_ARCHIVE_STRATUM_REALIZATION.md # Full 6-turn Floor 04 Realization vs Weeping Statue
 │   ├── BOSS_MECHANICS_GRIEVING_COLOSSUS.md # Sovereign Boss Mechanics Folio for SE-C-Vδ-002
+│   ├── BOSS_MECHANICS_WEEPING_MIRROR.md    # Sovereign Boss Mechanics Folio for SE-C-IVδ-195
 │   ├── CYCLE_ENGRAM_SYSTEM.md              # 1,778-cycle historical engram attunement & stat shifting framework
 │   └── ECHO_CORE_REALIZATION_SYSTEM.md      # 4-phase departmental trauma battles & resonant catharsis engine
 │
