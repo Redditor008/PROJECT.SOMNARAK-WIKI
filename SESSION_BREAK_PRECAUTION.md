@@ -246,8 +246,9 @@ If a session breaks down, encounters context limits, or transfers to a successor
 
 ### 7.7 Invariant Architectural & Formatting Laws for Successors
 1. **Push Always (Rule A0):** Every change must be committed and pushed in the same turn (`git rev-parse HEAD == FETCH_HEAD`).
-2. **Text Box Symmetry:** All ASCII HUDs must be enclosed in non-markdown code fences (````text ... ````), measuring exactly 71 columns compact or 127/128 columns wide. Zero crooked rows.
-3. **Zero Formatting Leaks:** Zero raw HTML line-break tags, zero LaTeX math dollar signs.
-4. **Zero PM Terminology Leaks:** Strictly Somnarak-native terminology (Sorrow Entities, M.A.W., Composure, Meltdown, Wardens, Enforcers).
+2. **Text Box Symmetry & Auto-Extension:** All ASCII HUDs must be enclosed in non-markdown code fences (````text ... ````), measuring exactly 71 columns compact or 127/128 columns wide. Symmetrical border closure (+ and |) with zero crooked rows. Verification tools count all rows and extend shorter rows up to the longest row.
+3. **Arena.ai Chatroom 74-Character Auto-Wrap Law:** In the Arena.ai chatroom interface, the viewport auto-wraps lines exceeding 74 characters. When authoring text boxes in chatroom responses, count all rows to guarantee width <= 74 characters (wrap content into visual sub-rows so no line auto-wraps down). If a box or banner does NOT have left and right borders (e.g. borderless header/separator bars using `=` or `-`), make those top and bottom border bars EXACTLY 74 characters long (`"=" * 74` or `"-" * 74`).
+4. **Zero Formatting Leaks:** Zero raw HTML line-break tags, zero LaTeX math dollar signs.
+5. **Zero PM Terminology Leaks:** Strictly Somnarak-native terminology (Sorrow Entities, M.A.W., Composure, Meltdown, Wardens, Enforcers).
 
 **If any instruction in this file conflicts with `RULE-TO-FOLLOW.md` v2, `RULE-TO-FOLLOW.md` wins.**
