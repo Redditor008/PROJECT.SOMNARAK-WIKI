@@ -122,7 +122,7 @@ Like the standard Five Fingers, Somnarak has five major frays that control the c
 **Fray Hierarchy:**
 
 ```
-The Boss (보스)
+The Boss (Boseu)
     │
     ├── The Lieutenants (2-4 per fray)
     │   └── The Operators (field agents)

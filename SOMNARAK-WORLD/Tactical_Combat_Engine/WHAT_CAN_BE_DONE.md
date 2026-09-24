@@ -151,7 +151,7 @@ A skill can only be queued if `Distance` falls within the weapon's calibrated Ra
 {
   "secc_code": "SE-C-Vδ-002",
   "name_en": "The Grieving Colossus",
-  "name_ko": "슬픔의 거인",
+  "name_ko": "Seulpeum-ui Geoin",
   "coherence_rank": "V",
   "potency_grade": "δ",
   "occupying_nodes": [7, 8],

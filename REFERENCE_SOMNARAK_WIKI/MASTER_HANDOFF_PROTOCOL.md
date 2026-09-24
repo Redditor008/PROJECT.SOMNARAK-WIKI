@@ -63,10 +63,10 @@ All R.D. personnel and Echo-Cores are measured on the **Four Canonical Attribute
 ┌─────────────────────────┬──────────┬──────────────┬────────────────────────────────────────────────────────┐
 │ ATTRIBUTE               │ SYMBOL   │ COLOR        │ IN-UNIVERSE MEASURE & MECHANICAL EFFECT                │
 ├─────────────────────────┼──────────┼──────────────┼────────────────────────────────────────────────────────┤
-│ 1. Resilience (탄력)    │ ♦        │ Deep Blue    │ Physical endurance, Max HP, M.A.W. load-bearing limit  │
-│ 2. Clarity (명료)       │ ♠        │ Pale White   │ Mental stability, Max SP, Void & Dream resistance      │
-│ 3. Composure (침착)     │ ♣        │ Crimson      │ Emotional control, Work efficiency, extraction accuracy│
-│ 4. Resolve (결의)       │ ★        │ Black / Gold │ Willpower, Attack interval speed, panic suppression    │
+│ 1. Resilience (Tanryeok) │ ♦        │ Deep Blue    │ Physical endurance, Max HP, M.A.W. load-bearing limit  │
+│ 2. Clarity (Myeongryo)  │ ♠        │ Pale White   │ Mental stability, Max SP, Void & Dream resistance      │
+│ 3. Composure (Chimchak) │ ♣        │ Crimson      │ Emotional control, Work efficiency, extraction accuracy│
+│ 4. Resolve (Gyeorui)    │ ★        │ Black / Gold │ Willpower, Attack interval speed, panic suppression    │
 └─────────────────────────┴──────────┴──────────────┴────────────────────────────────────────────────────────┘
 ```
 
@@ -79,12 +79,12 @@ Every attack, weapon, armor resistance, and entity hazard operates under the 4 p
 ┌─────────────────────┬──────────────┬──────────────┬────────────────────────────────────────────────────────┐
 │ DAMAGE TYPE         │ KR NAME      │ COLOR CODE   │ DAMAGE MECHANIC & SYSTEMIC EFFECT                      │
 ├─────────────────────┼──────────────┼──────────────┼────────────────────────────────────────────────────────┤
-│ Grudge              │ 원한         │ #ef5b55      │ Direct Physical Trauma (Reduces HP directly).          │
-│ Lament              │ 비탄         │ #38bdf8      │ Psychic / Mental Erosion (Reduces SP; causes Panic).   │
-│ Void                │ 공허         │ #e2e8f0      │ Existential Decay (% Max HP soul corrosion).           │
-│ Weight              │ 중압         │ #64748b      │ Crushing Gravity Trauma (Inflicts both HP + SP damage).│
-│ Mixed               │ 혼합         │ Multi/Rainbow│ Multi-spectral sorrow wave (Calculated against all).   │
-│ Hope (Absolvohan)   │ 희망         │ #f1df76      │ Restoration flux (Purifies corruption and heals HP/SP).│
+│ Grudge              │ Wonhan       │ #ef5b55      │ Direct Physical Trauma (Reduces HP directly).          │
+│ Lament              │ Bitan        │ #38bdf8      │ Psychic / Mental Erosion (Reduces SP; causes Panic).   │
+│ Void                │ Gongheo      │ #e2e8f0      │ Existential Decay (% Max HP soul corrosion).           │
+│ Weight              │ Jung-ap      │ #64748b      │ Crushing Gravity Trauma (Inflicts both HP + SP damage).│
+│ Mixed               │ Honhap       │ Multi/Rainbow│ Multi-spectral sorrow wave (Calculated against all).   │
+│ Hope (Absolvohan)   │ Huimang      │ #f1df76      │ Restoration flux (Purifies corruption and heals HP/SP).│
 └─────────────────────┴──────────────┴──────────────┴────────────────────────────────────────────────────────┘
 ```
 
@@ -132,19 +132,19 @@ All entity designations, risk classifications, M.A.W. equipment serials, and tal
 ┌────────┬────────────────────────────────┬──────┬────────────┬─────────────────────────────┬─────────────────────────────┬─────────────────────────────┐
 │ CODE   │ ENTITY NAME (KR / EN)          │ RISK │ SIGNATURE  │ M.A.W. WEAPON (MAW-W)       │ M.A.W. SUIT (MAW-S)         │ M.A.W. GIFT (MAW-G)         │
 ├────────┼────────────────────────────────┼──────┼────────────┼─────────────────────────────┼─────────────────────────────┼─────────────────────────────┤
-│ SE-001 │ 고아의 종 / The Orphaned Bell  │ III  │ Lament     │ MAW-W-001-01 Bell Striker   │ MAW-S-001-01 Resonance Vest │ MAW-G-001-01 Clapper Charm  │
-│ SE-002 │ 슬퍼하는 거상 / Grieving Colossus│ IV │ Grudge     │ MAW-W-002-01 Colossus Cleaver│ MAW-S-002-01 Colossal Plate│ MAW-G-002-01 Colossus Shard │
-│ SE-003 │ 기억의 실 / Thread of Memory   │ II   │ Void       │ MAW-W-003-01 Memory Blade   │ MAW-S-003-01 Tide Cloak     │ MAW-G-003-01 Needle Brooch  │
-│ SE-004 │ 녹을 흘리는 보초 / Rust Sentry │ III  │ Grudge     │ MAW-W-004-01 Rust Halberd   │ MAW-S-004-01 Iron Plate     │ MAW-G-004-01 Corrosion Visor│
-│ SE-005 │ 숨 막히는 어머니 / Smother Mother│ IV │ Weight     │ MAW-W-005-01 Cradle Lance   │ MAW-S-005-01 Cradle Harness │ MAW-G-005-01 Maternal Clasp │
-│ SE-006 │ 착취하는 거머리 / Siphon Leech │ III  │ Grudge     │ MAW-W-006-01 Siphon Cannula │ MAW-S-006-01 Membrane Suit  │ MAW-G-006-01 Effluent Gland │
-│ SE-007 │ 박무 · 필경사 / Brume Scribe   │ II   │ Void       │ MAW-W-007-01 Ashen Slate    │ MAW-S-007-01 Ashen Shroud   │ MAW-G-007-01 Brume Incense  │
-│ SE-008 │ 후회의 철처녀 / Iron Maiden    │ IV   │ Grudge     │ MAW-W-008-01 Thorn Impaler  │ MAW-S-008-01 Sarcophagus    │ MAW-G-008-01 Spike Crown    │
-│ SE-009 │ 기억의 방직자 / Memory Weaver  │ III  │ Lament     │ MAW-W-009-01 Drowned Trident│ MAW-S-009-01 Drowned Mail   │ MAW-G-009-01 Pendulum Charm │
-│ SE-010 │ 수렴 · 절대 판결 / Convergence│ V    │ Mixed      │ MAW-W-010-01 Convergence    │ MAW-S-010-01 Aegis Armor    │ MAW-G-010-01 Singularity Eye│
-│ SE-011 │ 속삭이는 벽 / Whispering Walls │ II   │ Lament     │ MAW-W-011-01 Whisper Flail  │ MAW-S-011-01 Barrier Mail   │ MAW-G-011-01 Earring Charm  │
-│ SE-014 │ 부채를 먹는 자 / Debt Eater    │ III  │ Weight     │ MAW-W-014-01 Debt Blade     │ MAW-S-014-01 Null Greatcoat │ MAW-G-014-01 Ledger Coin    │
-│ SE-015 │ 부채의 저울 / Debt Scale       │ IV   │ Weight     │ MAW-W-015-01 Balance Blade  │ MAW-S-015-01 Sovereign Scale│ MAW-G-015-01 Fulcrum Pin    │
+│ SE-001 │ Goa-ui Jong / The Orphaned Bell│ III  │ Lament     │ MAW-W-001-01 Bell Striker   │ MAW-S-001-01 Resonance Vest │ MAW-G-001-01 Clapper Charm  │
+│ SE-002 │ Seulpeohaneun Geosang / Colossus│ IV │ Grudge     │ MAW-W-002-01 Colossus Cleaver│ MAW-S-002-01 Colossal Plate│ MAW-G-002-01 Colossus Shard │
+│ SE-003 │ Gieok-ui Sil / Memory Thread   │ II   │ Void       │ MAW-W-003-01 Memory Blade   │ MAW-S-003-01 Tide Cloak     │ MAW-G-003-01 Needle Brooch  │
+│ SE-004 │ Nogeul Heullineun Bocho / Sentry│ III  │ Grudge     │ MAW-W-004-01 Rust Halberd   │ MAW-S-004-01 Iron Plate     │ MAW-G-004-01 Corrosion Visor│
+│ SE-005 │ Sum Makhineun Eomeoni / Mother │ IV │ Weight     │ MAW-W-005-01 Cradle Lance   │ MAW-S-005-01 Cradle Harness │ MAW-G-005-01 Maternal Clasp │
+│ SE-006 │ Chakchwi Geomeori / Siphon Leech│ III  │ Grudge     │ MAW-W-006-01 Siphon Cannula │ MAW-S-006-01 Membrane Suit  │ MAW-G-006-01 Effluent Gland │
+│ SE-007 │ Bakmu Pilgyeongsa / Brume Scribe│ II   │ Void       │ MAW-W-007-01 Ashen Slate    │ MAW-S-007-01 Ashen Shroud   │ MAW-G-007-01 Brume Incense  │
+│ SE-008 │ Huhoe Cheolcheonyeo / Iron Maiden│ IV   │ Grudge     │ MAW-W-008-01 Thorn Impaler  │ MAW-S-008-01 Sarcophagus    │ MAW-G-008-01 Spike Crown    │
+│ SE-009 │ Gieok-ui Bangjikja / Weaver    │ III  │ Lament     │ MAW-W-009-01 Drowned Trident│ MAW-S-009-01 Drowned Mail   │ MAW-G-009-01 Pendulum Charm │
+│ SE-010 │ Suryeom Pan-gyeol / Convergence│ V    │ Mixed      │ MAW-W-010-01 Convergence    │ MAW-S-010-01 Aegis Armor    │ MAW-G-010-01 Singularity Eye│
+│ SE-011 │ Soksagineun Byeok / Walls      │ II   │ Lament     │ MAW-W-011-01 Whisper Flail  │ MAW-S-011-01 Barrier Mail   │ MAW-G-011-01 Earring Charm  │
+│ SE-014 │ Buchae Meongneun Ja / Debt Eater│ III  │ Weight     │ MAW-W-014-01 Debt Blade     │ MAW-S-014-01 Null Greatcoat │ MAW-G-014-01 Ledger Coin    │
+│ SE-015 │ Buchae-ui Jeoul / Debt Scale   │ IV   │ Weight     │ MAW-W-015-01 Balance Blade  │ MAW-S-015-01 Sovereign Scale│ MAW-G-015-01 Fulcrum Pin    │
 └────────┴────────────────────────────────┴──────┴────────────┴─────────────────────────────┴─────────────────────────────┴─────────────────────────────┘
 ```
 
@@ -204,10 +204,10 @@ All character and entity dossier pages utilize a strict 2-column CSS Grid layout
     </dl>
     <h3>R.D. Core Attributes</h3>
     <table class="infobox-stat-table">
-      <tr><th style="color:#38bdf8;">RESILIENCE (탄력)</th><td>95</td></tr>
-      <tr><th style="color:#f8fafc;">CLARITY (명료)</th><td>80</td></tr>
-      <tr><th style="color:#ef5b55;">COMPOSURE (침착)</th><td>70</td></tr>
-      <tr><th style="color:#f1df76;">RESOLVE (결의)</th><td>99</td></tr>
+      <tr><th style="color:#38bdf8;">RESILIENCE (Tanryeok)</th><td>95</td></tr>
+      <tr><th style="color:#f8fafc;">CLARITY (Myeongryo)</th><td>80</td></tr>
+      <tr><th style="color:#ef5b55;">COMPOSURE (Chimchak)</th><td>70</td></tr>
+      <tr><th style="color:#f1df76;">RESOLVE (Gyeorui)</th><td>99</td></tr>
     </table>
   </aside>
 </div>

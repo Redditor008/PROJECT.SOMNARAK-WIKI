@@ -577,7 +577,7 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
 | 3. Cinis (Ash of Burned Wards)   7. Siphon (Sub-Alpha Conduit)      |
 | 4. Script (Autonomous Calligraphy)                                  |
 | ------------------------------------------------------------------- |
-| CLUSTER 2: THE SHADOW GLYPHS (IDENTITY & EGO BOUNDARIES)            |
+| CLUSTER 2: THE SHADOW GLYPHS (IDENTITY & SELF BOUNDARIES)           |
 | 8. Speculum (Obsidian Mirror)    12. Macula (Stain of Memory)       |
 | 9. Umbra (Shadow Silhouette)     13. Rima (Psychic Fracture)        |
 | 10. Velum (Protective Mask)      14. Vacui (Void Erasure)           |

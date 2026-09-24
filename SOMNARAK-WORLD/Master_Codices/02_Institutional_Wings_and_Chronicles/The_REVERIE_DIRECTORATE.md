@@ -986,7 +986,7 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 - Successful M.A.W. bonding
 - Field Commander recommendation
 
-**Title:** Senior Agent [Name]
+**Title:** Senior Agent (e.g., Senior Agent Min-Jae)
 
 ---
 
@@ -1005,7 +1005,7 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 - Attribute specialty: 70+ in one attribute
 - Echo-Core or Field Commander approval
 
-**Title:** Specialist [Name] or [Skill] Specialist — e.g., "Dream Specialist Sora"
+**Title:** Specialist (e.g., Specialist Seol-A or "Dream Specialist Sora")
 
 ---
 
@@ -1025,7 +1025,7 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 - Successful equipment bonding
 - No major infractions
 
-**Title:** Agent [Name]
+**Title:** Agent (e.g., Agent Taeho)
 
 ---
 
@@ -1044,7 +1044,7 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 - Attribute average: 30+ across all four
 - Mentor assignment
 
-**Title:** Junior Agent [Name]
+**Title:** Junior Agent (e.g., Junior Agent Jinho)
 
 ---
 
@@ -1063,7 +1063,7 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 - No attribute minimums
 - Reliability and attention to detail
 
-**Title:** Clerk [Name] or [Department] Clerk — e.g., "Containment Clerk"
+**Title:** Clerk (e.g., Containment Clerk Juhun)
 
 ---
 
@@ -1082,7 +1082,7 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 - Equipment certification
 - Attribute specialty: 40+ in Resilience or Clarity
 
-**Title:** Technician [Name] or [Specialty] Technician — e.g., "Extraction Technician"
+**Title:** Technician (e.g., Extraction Technician Doyun)
 
 ---
 
@@ -1101,7 +1101,7 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 - Basic training
 - Attribute minimum: 30+ Resilience
 
-**Title:** Maintenance [Name]
+**Title:** Maintenance Operative (e.g., Maintenance Lead Jin-Woo)
 
 ---
 
@@ -1119,7 +1119,7 @@ The leadership. Each Echo-Core commands one floor of The Hand of Change.
 - Background check
 - Attribute assessment
 
-**Title:** Contractor [Name] or [Specialty] — e.g., "Mender Contractor Doha"
+**Title:** Contractor (e.g., Mender Contractor Doha)
 
 ---
 

@@ -224,7 +224,7 @@ And seated in the center of the pool upon a bed of blooming white sorrow flowers
 
 ```text
 ================================================================================
- APEX ENCOUNTER DOSSIER: SECC-UR-VIIω-001 "THE FIRST MOURNER" (최초의 애도자)
+ APEX ENCOUNTER DOSSIER: SECC-UR-VIIω-001 "THE FIRST MOURNER" (Choecho-ui Aedoja)
 ================================================================================
  CLASSIFICATION: Sovereign-ω (Grade-ω Potency) | Primordial Origin of All Han
  COMBAT & COMMUNION PROFILE:

@@ -228,7 +228,7 @@ And waiting in the center of the amphitheater was the eternal guardian of the un
 
 ```text
 ================================================================================
- APEX BOSS DOSSIER: SECC-1004 "THE SCAR WALKER" (흉터의 행자)
+ APEX BOSS DOSSIER: SECC-1004 "THE SCAR WALKER" (Hyungteo-ui Haengja)
 ================================================================================
  CLASSIFICATION: Critical-δ (Grade-δ Potency) | Sovereign of the Occlusihan Wound
  COMBAT PROFILE:

@@ -44,9 +44,9 @@ SOMNARAK-WORLD/
 │
 ├── Sorrow_Entities/                    # 529 Active Containment Dossiers & Origin Tales
 │   ├── README.md                       # SECC classification guide & work affinities
-│   ├── SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md
-│   ├── SE-C-Vδ-002_The_Grieving_Colossus_비탄하는_거상.md
-│   ├── SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md
+│   ├── SE-C-IVδ-001_The_Orphaned_Bell_Goa-ui_Jong.md
+│   ├── SE-C-Vδ-002_The_Grieving_Colossus_Bitanhaneun_Geosang.md
+│   ├── SE-C-IIIβ-014_The_Debt_Eater_Bijeul_Meongneun_Ja.md
 │   └── ...                             # (Dossiers representing 285 unique entities)
 │
 ├── Echo_Cores/                         # The Nine Departmental Directors of Facility 01
@@ -78,8 +78,8 @@ SOMNARAK-WORLD/
 ├── Hope_Transformations/               # 14 Golden Dawn Ascension Records
 │   ├── README.md                       # Metaphysical guide to sorrow transcendence
 │   ├── HT-001 to HT-012               # Ascended entities (Guiding Light, Shield of Dawn, etc.)
-│   ├── HT-V-HC-001                     # The Trinity of Dawn (새벽의 삼위일체)
-│   └── HT-V-HH-001                     # The Hand of Hope (희망의 손)
+│   ├── HT-V-HC-001                     # The Trinity of Dawn (Saebyeok-ui Samwiilche)
+│   └── HT-V-HH-001                     # The Hand of Hope (Huimang-ui Son)
 │
 ├── Mugenhan_Ecology/                   # Subterranean & Terrestrial Planetary Biosphere
 │   ├── README.md                       # Tripartite taxonomy and strata ecological guide

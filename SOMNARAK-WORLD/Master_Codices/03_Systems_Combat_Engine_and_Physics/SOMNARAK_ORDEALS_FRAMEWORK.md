@@ -114,57 +114,57 @@ Each Color × Time combination is a unique Ordeal with its own name, appearance,
 
 ---
 
-## IV. The Ordeal File Template
+## IV. The Ordeal Specification Structure
 
-Each individual Ordeal file follows this structure — focused on formation, behavior, and suppression:
+Every Ordeal dossier in the facility archive adheres to the standardized operational framework exemplified below:
 
 ```markdown
-# [COLOR] [TIME] — [Name]
+# BLUE First Watch — The Weeping Cluster
 
-> *"[Thematic opening quote.]"*
+> *"A sound like every funeral at once, leaking from the walls."*
 
 ## Ordeal Classification
 
 | Field | Value |
 |---|---|
-| **Color** | [BLUE / BLACK / PALE / GREY / PURPLE] |
-| **Time** | [First Watch / Second Watch / Third Watch / Tide Watch] |
-| **Threat Level** | [Minor (α) / Moderate (β) / Major (γ) / Catastrophic (δ)] |
-| **Han Source** | [Lament / Weight / Void / Grudge / Raw Han] |
-| **Spawn Count** | [Number of entities that appear] |
+| **Color** | BLUE |
+| **Time** | First Watch |
+| **Threat Level** | Minor (α) |
+| **Han Source** | Lament |
+| **Spawn Count** | 8–12 entities |
 | **Mortality** | Mortal — permanently suppressible |
-| **Facility Zone** | [Which floors/zones of the Hand of Change are affected] |
-| **First Recorded** | [Year] |
+| **Facility Zone** | All floors of the Hand of Change |
+| **First Recorded** | Year 4210 |
 
 ## Formation
-[How and why this Ordeal forms during high-sorrow periods. What conditions trigger it.]
+Coalesces when accumulated Lament Han in facility corridors reaches the First Watch threshold.
 
 ## Appearance
-[Physical description — size, shape, material, behavior. What personnel see when it spawns.]
+Knee-high, child-sized translucent figures, blue-tinged, with faces hidden in folded hands.
 
 ## Behavior
-[Movement patterns, attack types, special abilities, coordination with other Ordeal entities.]
+Drifts toward active personnel, projecting acoustic wails that inflict cumulative Composure strain.
 
 | Phase | Action | Effect | Trigger |
 |---|---|---|---|
-| [Phase 1] | [Action] | [Effect] | [Trigger] |
-| [Phase 2] | [Action] | [Effect] | [Trigger] |
+| Drift | Converges on personnel | Composure drain: 2–4 per turn | Line-of-sight contact |
+| Resonance | Multi-figure swarm | Stacking psychic disorientation | 3+ figures converging |
 
 ## Suppression Protocol
-- **Effective Damage:** [What element/damage type destroys it]
-- **Resistance:** [What it resists]
-- **Weakness:** [Specific vulnerability]
-- **Recommended Team:** [Composition, levels, M.A.W. loadout]
-- **Tactics:** [How to suppress — formation, timing, special procedures]
+- **Effective Damage:** Kinetic and physical force (any damage aspect)
+- **Resistance:** Void (0.8x)
+- **Weakness:** Acoustic disruption and heavy kinetic impacts (1.5x)
+- **Recommended Team:** Rapid-response pacification fireteam
+- **Tactics:** Disperse clusters before acoustic wailing stacks across the corridor
 
 ## Facility Impact
-[What happens if not suppressed — escalation, secondary effects, damage to the Hand of Change]
+Unsuppressed clusters destabilize floor Composure levels and burrow into ventilation manifolds.
 
 ## R.D. Response Protocol
-[Standard Reverie Directorate procedures for this Ordeal type — alert level, team deployment, Containment Lead authority]
+Deployment of Sector Haz-scorchers and standard Floor Wardens for perimeter clearance.
 
-## Trivia
-[Notes, observations, lore connections]
+## Technical Archival Notes
+Forms without a central Sorrow Core; dissipates into raw Han residue upon physical destruction.
 ```
 
 ---
@@ -286,10 +286,10 @@ Individual Ordeal files are stored in:
 SOMNARAK-WORLD/Ordeals/
 ```
 Named by Color + Time:
-```
+```text
 Ordeal_BLUE_First_Watch_The_Weeping_Cluster.md
-Ordeal_BLACK_Tide_Watch_[Name].md
-Ordeal_PURPLE_Third_Watch_[Name].md
+Ordeal_BLACK_Tide_Watch_The_Drowned_Choir.md
+Ordeal_PURPLE_Third_Watch_The_Violent_Surge.md
 ```
 
 Each Ordeal file follows the **Ordeal File Template** (Section IV).

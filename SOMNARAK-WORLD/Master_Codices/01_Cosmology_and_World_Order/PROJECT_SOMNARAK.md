@@ -2894,13 +2894,13 @@ Facility Director (reports to Council)
 All extracted M.A.W. is catalogued in the **M.A.W. Registry** — a database maintained by the facility.
 
 **Registry format:**
-```
-M.A.W.-[Grade]-[Type]-[Number]
-Source Entity: [Designation]
-Bonded User: [Name/ID]
-Extraction Date: [Date]
-Resonance Compatibility: [Percentage]
-Status: [Active/Dormant/Destroyed/Returned]
+```text
+M.A.W.-Grade-Type-Number
+Source Entity: SECC Reference Code
+Bonded User: Operative Callsign / ID
+Extraction Date: Cycle Chronology
+Resonance Compatibility: Harmonization Ratio
+Status: Active / Dormant / Destroyed / Returned
 ```
 
 **Examples:**

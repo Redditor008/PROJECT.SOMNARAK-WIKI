@@ -104,7 +104,7 @@ Documents are written by R.D. personnel. Use these names:
 ## Example Document Header — Before the Loop
 
 ```
-## Entity 001 — The Orphaned Bell (고아의 종 — Goa-ui Jong)
+## Entity 001 — The Orphaned Bell (Goa-ui Jong)
 
 > *"It weeps because someone must. The city has forgotten how."*
 
@@ -119,7 +119,7 @@ Documents are written by R.D. personnel. Use these names:
 ## Example Document Header — During the Loop
 
 ```
-## Entity 044 — The Dawn of Mourning (애도의 새벽 — Aedo-ui Saebyeok)
+## Entity 044 — The Dawn of Mourning (Aedo-ui Saebyeok)
 
 > *"It does not want to escape. It wants to be found."*
 
