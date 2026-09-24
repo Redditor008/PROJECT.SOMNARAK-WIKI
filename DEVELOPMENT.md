@@ -141,6 +141,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
    - Four damage elements: Grudge (원한), Lament (비탄), Void (공허), Weight (비중).
 4. **Source-Led Integrity:** Content in markdown files derives strictly from the canonical texts in `SOMNARAK-WORLD/` or established Somnarak lore. Never inject generic placeholder filler.
 5. **Folder Distinction:** All in-world lore files belong in `SOMNARAK-WORLD/`. Out-of-world meta documents, audits, and handoffs belong in `REFERENCE_SOMNARAK_WIKI/`.
+6. **Master Macro-Chronological Partition:** All Three SED (Katabagil), UCD (Katharcheok), and R.D. (The Absolvohan Facility 01) occur strictly **BEFORE** the Dawn of Hope. **ANYTHING ELSE** (The Dawn Initiative & The Lantern, The Horizon Caravan, The Memory Archive realizations, The Wound Walkers, continental expansion) occurs strictly **AFTER** the Dawn of Hope.
 
 ---
 

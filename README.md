@@ -293,6 +293,11 @@ The planetary biosphere of Mugenhan is cataloged across a rigorous **Tripartite 
 
 ## Dedicated Specialized Operational & Macro-Narrative Suites
 
+> **Master Macro-Chronological Canon Law:** All Three SED, UCD, and R.D. happen **BEFORE** the Dawn of Hope, and **ANYTHING ELSE** happens **AFTER** the Dawn of Hope.
+> - **Ante-Dawn Operations (Before Dawn of Hope):** `The_Absolvohan/` (R.D. Facility 01), `Katabagil/` (SED Subterranean Descents), and `Katharcheok/` (UCD Underworld Pacifications).
+> - **Watershed Climax:** The Dawn of Hope (Cycle 1,778 / Year 4,238) — The Hand of Hope opens and transmutes 15% of sorrow into hope.
+> - **Post-Dawn Operations (After Dawn of Hope):** `SOMNARAK_DAWN_OF_HOPE.md` (The Dawn Initiative & The Lantern), `Gieok_Jeojangso/` (Memory Archive), `Jipyeongseondae/` (Horizon Caravan), and `SOMNARAK_WOUND_WALKERS.md` (Company 4 Epilogue).
+
 Beyond the master codices, Project Somnarak maintains complete standalone operational suites that house the full chronological sagas, tactical field manuals, and combat engines:
 
 1. **`SOMNARAK-WORLD/The_Absolvohan/` — The Absolvohan 366-Day Facility Chronicle:**

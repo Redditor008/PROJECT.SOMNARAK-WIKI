@@ -262,6 +262,23 @@ In the underworld of The Raw, five criminal organizations control illicit trades
 4. **The Memory Washers (  기억 세탁관   / *Gieok Setakkwan*):** Illicit psycho-surgeons who scrub traumatizing containment memories from deserters and traumatized citizens for exorbitant fees.
 5. **The Debt Concourse (  부채 회랑   / *Buchae Hoirang*):** Ruthless usurers who trade in ancestral grievances, blood contracts, and karmic debts, enforcing repayment through ritualistic salt-branding.
 
+### 13.3 Macro-Chronological Triad vs. The Dawn of Hope
+In overarching campaign lore and narrative fiction, Project Somnarak adheres strictly to the **Epochal Partition Rule**:
+- **The Ante-Dawn Era (Before Dawn of Hope):**
+  - **The Reverie Directorate (R.D. / Facility 01):** The internal 1,778-cycle containment facility under Director Majin.
+  - **Subterranean Expedition Division (SED / Katabagil):** The 7 descent passages beneath Somnarak into the deep bedrock.
+  - **Underworld Cleanup Descend (UCD / Katharcheok):** The 6 pacification operations across The Raw against syndicate cartels.
+  *Canonical Law: All primary operations of SED, UCD, and R.D. conclude prior to the Dawn of Hope.*
+- **The Watershed Turning Point:**
+  - **The Dawn of Hope (Cycle 1,778 / Year 4,238):** The Hand of Hope opens, achieving the initial 15% sorrow-to-hope transmutation.
+- **The Post-Dawn Era (After Dawn of Hope):**
+  - **ANYTHING ELSE** occurs strictly **AFTER** the Dawn of Hope:
+    - The Dawn Initiative and The Lantern's continental journey (`SOMNARAK_DAWN_OF_HOPE.md`).
+    - The Horizon Caravan overland expedition to Mugeukji and Cheonbulok (`Jipyeongseondae`).
+    - The Memory Archive floor realizations and retrieval of The Promise (`Gieok_Jeojangso`).
+    - The Wound Walkers pilgrimage across the seven crucible stations in Year 4,250+ (`SOMNARAK_WOUND_WALKERS.md`).
+    - Continental reconstruction, external diplomatic expeditions, and global recovery.
+
 ---
 
 ## 14. Story Expansion: Specialist Cadres & Contractor Bureaus

@@ -5291,6 +5291,12 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 
 ## Operations — Story Arcs
 
+> **Master Macro-Chronological Canon Law:**
+> *All Three SED, UCD, and R.D. happen BEFORE the Dawn of Hope. ANYTHING ELSE happens AFTER the Dawn of Hope.*
+> - **Ante-Dawn Era (Before Dawn of Hope):** SED (Katabagil Descents 1–7), UCD (Katharcheok Purges 1–6), and R.D. (The Absolvohan Facility 01 Containment Cycles 0001–1,778).
+> - **The Watershed Turning Point:** The Dawn of Hope (Cycle 1,778 / Year 4,238) — Hand of Hope opens (15% hope transmutation).
+> - **Post-Dawn Era (After Dawn of Hope):** The Dawn Initiative & The Lantern, The Horizon Caravan overland crossing, The Memory Archive floor realizations, The Wound Walkers pilgrimage, and continental reconstruction.
+
 ### SED — Somnarak Exploration Decreed
 
 **Full details:** `The_SOMNARAK_EXPLORATION_DECREE.md` and dedicated collection in `SOMNARAK-WORLD/Katabagil/`

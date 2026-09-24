@@ -284,3 +284,24 @@ Checks: <passed checks and any failures>
 ```
 
 Never collapse these states into the single word "done."
+
+---
+
+## 9. Master Macro-Chronological Rule (The Three Wings & Post-Dawn Law)
+
+**Owner's binding ruling: "All This Three SED, UCD, AND R.D. Happen Before DAWN OF HOPE And ANYTHING ELSE HAPPEN AFTER DAWN OF HOPE"**
+
+1. **The Ante-Dawn Era (Before Dawn of Hope):**
+   - All operations, descent logs, and purge chronicles of the founding tripartite wings occur strictly **BEFORE** the Dawn of Hope:
+     - **R.D. (The Reverie Directorate / The Absolvohan):** Containment of Sorrow Entities, harvesting of Liquid Han, and the 1,778-Cycle loops within Facility 01.
+     - **SED (Subterranean Expedition Division / Katabagil):** The seven descent passages exploring the ancient subterranean bedrock.
+     - **UCD (Underworld Cleanup Descend / Katharcheok):** The six pacification purges in The Raw against the underworld syndicates.
+2. **The Watershed Climax (The Dawn of Hope):**
+   - The Hand of Hope opens at the culmination of Cycle 1,778 in Year 4,238, transmuting the first 15% of ambient sorrow into resonant Hope Entities.
+3. **The Post-Dawn Era (After Dawn of Hope):**
+   - **ANYTHING ELSE** in the narrative chronology takes place strictly **AFTER** the Dawn of Hope:
+     - The Dawn Initiative and The Lantern's continental journey (`SOMNARAK_DAWN_OF_HOPE.md`).
+     - The Horizon Caravan trans-desolate overland expedition (`SOMNARAK-WORLD/Jipyeongseondae/`).
+     - The Memory Archive floor realizations and retrieval of the Promise (`SOMNARAK-WORLD/Gieok_Jeojangso/`).
+     - The Wound Walkers pilgrimage in Year 4,250+ (`SOMNARAK_WOUND_WALKERS.md`).
+     - All subsequent continental expeditions, diplomatic reconnections, and post-Dawn institutions.
