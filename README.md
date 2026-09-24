@@ -315,7 +315,7 @@ Beyond the master codices, Project Somnarak maintains complete standalone operat
    - [`WHAT_CAN_BE_DONE.md`](SOMNARAK-WORLD/Tactical_Combat_Engine/WHAT_CAN_BE_DONE.md): Comprehensive implementation manual for narrative combat logs and turn-based clash visualization.
 7. **`SOMNARAK-WORLD/Story_Cantos/` — The Character Story Cantos (  비탄의 장  ):**
    - [`README.md`](SOMNARAK-WORLD/Story_Cantos/README.md): Master catalog, 3-Act narrative framework, and reading roadmap for the six core protagonist cantos.
-   - Dialogue-driven natural narrative prose novellas ([`CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md`](SOMNARAK-WORLD/Story_Cantos/CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md), [`CANTO_02_THE_ACOUSTIC_VOID_SEOL_A.md`](SOMNARAK-WORLD/Story_Cantos/CANTO_02_THE_ACOUSTIC_VOID_SEOL_A.md)) exploring personal trauma, daily life, and emotional catharsis.
+   - Dialogue-driven natural narrative prose novellas ([`CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md`](SOMNARAK-WORLD/Story_Cantos/CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md), [`CANTO_02_THE_ACOUSTIC_VOID_SEOL_A.md`](SOMNARAK-WORLD/Story_Cantos/CANTO_02_THE_ACOUSTIC_VOID_SEOL_A.md), [`CANTO_03_THE_SHATTERED_STRIKER_TAEHO.md`](SOMNARAK-WORLD/Story_Cantos/CANTO_03_THE_SHATTERED_STRIKER_TAEHO.md)) exploring personal trauma, daily life, and emotional catharsis.
 
 ---
 

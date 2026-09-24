@@ -46,7 +46,7 @@ Each Canto is authored as an expansive, multi-act literary chapter structured ar
 |---|---|---|---|---|
 | Canto I | [`CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md`](CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md) | Warden Min-Jae | Facility 01 Floor 01 Frontline Gates | Survivor's guilt and unyielding defense |
 | Canto II | [`CANTO_02_THE_ACOUSTIC_VOID_SEOL_A.md`](CANTO_02_THE_ACOUSTIC_VOID_SEOL_A.md) | Specialist Seol-A | Facility 01 Floor 04 Resonance Labs | Auditory trauma and the lost frequency choir |
-| Canto III | `CANTO_03_THE_SHATTERED_STRIKER_TAEHO.md` | Vanguard Taeho | Zone D Forge District & Zone B Slums | Destructive rage and debt foreclosure |
+| Canto III | [`CANTO_03_THE_SHATTERED_STRIKER_TAEHO.md`](CANTO_03_THE_SHATTERED_STRIKER_TAEHO.md) | Vanguard Taeho | Zone D Forge District & Zone B Slums | Destructive rage and debt foreclosure |
 | Canto IV | `CANTO_04_THE_SUB_ZERO_RIDGE_HA_EUN.md` | Marksman Ha-Eun | Zone E Bastion & Desolate Frontier | Emotional isolation and solitary sniper vigils |
 | Canto V | `CANTO_05_SUTURE_OF_LOST_PAGES_SEIYON.md` | Secretary Seiyon | Memory Archive Sub-Alpha Spire | Machine memory and the grief of 1,778 cycles |
 | Canto VI | `CANTO_06_THE_SLUM_BREACHER_KANG.md` | Breacher Kang | Zone B Drainage District & Mask Market | Undercity brotherhood vs municipal duty |
