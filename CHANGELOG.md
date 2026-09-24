@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Add Character Story Canto II: The Acoustic Void (`CANTO_02_THE_ACOUSTIC_VOID_SEOL_A.md`)** —
+  - Authored the full literary novella chapter for Canto II (29.2 KB), centering on Specialist Seol-A (The Point / Siphon Lancer) and her auditory trauma from the lost resonance cadre of Cycle 1,512.
+  - Explored the Floor 04 Anechoic Sump, her 14,200 Hz phantom tinnitus, the M.A.W. weapon `The Silenced Requiem` (`MAW-W-021-01`), and its thematic curse of the [Missing Note].
+  - Featured the Sector C-01 subterranean amphitheater breach of `SE-C-IIIγ-021 The Hollow Choir` with its 144 harmonic vocal nodes.
+  - Implemented the full 10-node tactical spatial engagement resolving the clash across Turns 1 through 6, culminating in Seol-A speaking the closure words that liberate the ghost of Senior Operative Yoon and shatter the choral loop.
+  - Enforced the strict two-space buffer rule around all Korean characters (`  [korean]  `) across all Story Cantos documentation.
+  - Updated `SOMNARAK-WORLD/Story_Cantos/README.md`, `SOMNARAK-WORLD/README.md`, and root `README.md`.
+
 - **Add Character Story Cantos Suite & Canto I: The Bastion Anchor (`SOMNARAK-WORLD/Story_Cantos/`)** —
   - Established the dedicated literary story suite `SOMNARAK-WORLD/Story_Cantos/` for dialogue-driven, natural narrative prose fiction exploring the personal lived trauma, daily life, and emotional catharsis of Somnarak's core personnel.
   - Authored `SOMNARAK-WORLD/Story_Cantos/README.md` documenting the 3-Act narrative framework (Act I: The Heavy Morning, Act II: The Fracture Point, Act III: The Resonant Catharsis) and reading roadmap for the six core protagonist cantos.

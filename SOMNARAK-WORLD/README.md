@@ -91,7 +91,8 @@ SOMNARAK-WORLD/
 │
 ├── Story_Cantos/                       # The Character Story Cantos (Dialogue-Driven Prose Fiction)
 │   ├── README.md                       # Master index and 3-Act narrative framework
-│   └── CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md # Canto I: Warden Min-Jae (The Unbroken Wall)
+│   ├── CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md # Canto I: Warden Min-Jae (The Unbroken Wall)
+│   └── CANTO_02_THE_ACOUSTIC_VOID_SEOL_A.md   # Canto II: Specialist Seol-A (The Silenced Requiem)
 │
 └── Unknown_Entities/                   # 8 Unclassified Maw Anomalies & Loop Chronicles
     ├── README.md                       # Deep Maw anomalous file directory

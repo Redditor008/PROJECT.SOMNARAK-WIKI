@@ -17,7 +17,7 @@ def wrap_box(b):
 
 def build_cantos_readme():
     content = []
-    content.append("# SOMNARAK — The Character Story Cantos (비탄의 장)\n")
+    content.append("# SOMNARAK — The Character Story Cantos (  비탄의 장  )\n")
     content.append("## Canonical Literary Suite & Personal Narrative Chronicles\n")
     content.append("### Reverie Directorate Cultural & Psychological Archive — Year 4,238\n\n")
 
@@ -43,11 +43,11 @@ def build_cantos_readme():
     content.append("---\n\n")
 
     content.append("## 1. Overview & Narrative Purpose\n\n")
-    content.append("The **Character Story Cantos (비탄의 장 / 悲歎의 章)** represent the definitive literary and narrative heart of Project Somnarak. While the Master Codices document the macroscopic laws of cosmology, geology, and corporate governance, the Cantos chronicle the lived human experience of the men and women who hold the perimeter of human existence upon Mugenhan.\n\n")
+    content.append("The **Character Story Cantos (  비탄의 장  )** represent the definitive literary and narrative heart of Project Somnarak. While the Master Codices document the macroscopic laws of cosmology, geology, and corporate governance, the Cantos chronicle the lived human experience of the men and women who hold the perimeter of human existence upon Mugenhan.\n\n")
     content.append("Each Canto is authored as an expansive, multi-act literary chapter structured around three core narrative beats:\n\n")
-    content.append("1. **Act I: The Heavy Morning (일상의 멍에):** The routine burdens, sensory atmosphere, interpersonal friction, and personal psychological fractures of everyday life in Somnarak.\n")
-    content.append("2. **Act II: The Fracture Point (균열의 순간):** The sudden onset of operational crisis, moral conflict, rising Composure stress, and the confrontation with mortality.\n")
-    content.append("3. **Act III: The Resonant Catharsis (공명의 해탈):** The climactic combat engagement mirroring the 10-node tactical spatial engine, culminating in emotional catharsis and the forging of unbreakable resolve.\n\n")
+    content.append("1. **Act I: The Heavy Morning (  일상의 멍에  ):** The routine burdens, sensory atmosphere, interpersonal friction, and personal psychological fractures of everyday life in Somnarak.\n")
+    content.append("2. **Act II: The Fracture Point (  균열의 순간  ):** The sudden onset of operational crisis, moral conflict, rising Composure stress, and the confrontation with mortality.\n")
+    content.append("3. **Act III: The Resonant Catharsis (  공명의 해탈  ):** The climactic combat engagement mirroring the 10-node tactical spatial engine, culminating in emotional catharsis and the forging of unbreakable resolve.\n\n")
 
     content.append("---\n\n")
 
@@ -55,7 +55,7 @@ def build_cantos_readme():
     content.append("| Canto | Document Title | Protagonist | Setting & Theater | Core Emotional Theme |\n")
     content.append("|---|---|---|---|---|\n")
     content.append("| Canto I | [`CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md`](CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md) | Warden Min-Jae | Facility 01 Floor 01 Frontline Gates | Survivor's guilt and unyielding defense |\n")
-    content.append("| Canto II | `CANTO_02_THE_ACOUSTIC_VOID_SEOL_A.md` | Specialist Seol-A | Facility 01 Floor 04 Resonance Labs | Auditory trauma and the lost frequency choir |\n")
+    content.append("| Canto II | [`CANTO_02_THE_ACOUSTIC_VOID_SEOL_A.md`](CANTO_02_THE_ACOUSTIC_VOID_SEOL_A.md) | Specialist Seol-A | Facility 01 Floor 04 Resonance Labs | Auditory trauma and the lost frequency choir |\n")
     content.append("| Canto III | `CANTO_03_THE_SHATTERED_STRIKER_TAEHO.md` | Vanguard Taeho | Zone D Forge District & Zone B Slums | Destructive rage and debt foreclosure |\n")
     content.append("| Canto IV | `CANTO_04_THE_SUB_ZERO_RIDGE_HA_EUN.md` | Marksman Ha-Eun | Zone E Bastion & Desolate Frontier | Emotional isolation and solitary sniper vigils |\n")
     content.append("| Canto V | `CANTO_05_SUTURE_OF_LOST_PAGES_SEIYON.md` | Secretary Seiyon | Memory Archive Sub-Alpha Spire | Machine memory and the grief of 1,778 cycles |\n")
@@ -74,7 +74,7 @@ def build_cantos_readme():
 
 def build_canto_01():
     content = []
-    content.append("# CANTO I: THE BASTION ANCHOR (바스티온의 닻)\n")
+    content.append("# CANTO I: THE BASTION ANCHOR (  바스티온의 닻  )\n")
     content.append("## Warden Min-Jae and the Unbroken Wall of Floor 01\n")
     content.append("### The Reverie Directorate — Containment Chronicles of Cycle 1,778\n\n")
 
@@ -97,7 +97,7 @@ def build_canto_01():
     content.append("---\n\n")
 
     # ACT I
-    content.append("## Act I: The Heavy Morning (일상의 멍에)\n\n")
+    content.append("## Act I: The Heavy Morning (  일상의 멍에  )\n\n")
 
     box_act1 = make_box("ACT I: THE HEAVY MORNING", [
         "LOCATION  : Sub-Level 2 Warden Armory & Sector 4 Mess Hall",
@@ -131,7 +131,7 @@ def build_canto_01():
     content.append("---\n\n")
 
     # ACT II
-    content.append("## Act II: The Fracture Point (균열의 순간)\n\n")
+    content.append("## Act II: The Fracture Point (  균열의 순간  )\n\n")
 
     box_act2 = make_box("ACT II: THE FRACTURE POINT", [
         "LOCATION  : Sector 4 Primary Quarantine Conduit (-180m)",
@@ -171,7 +171,7 @@ def build_canto_01():
     content.append("---\n\n")
 
     # ACT III
-    content.append("## Act III: The Resonant Catharsis (공명의 해탈)\n\n")
+    content.append("## Act III: The Resonant Catharsis (  공명의 해탈  )\n\n")
 
     box_act3 = make_box("ACT III: THE RESONANT CATHARSIS", [
         "COMBAT ENGAGEMENT : Tactical Grid Clash — Node 04 to 06",
@@ -222,7 +222,7 @@ def build_canto_01():
     content.append("---\n\n")
 
     # EPILOGUE
-    content.append("## Epilogue: The Bread of Survival (생존의 빵)\n\n")
+    content.append("## Epilogue: The Bread of Survival (  생존의 빵  )\n\n")
     content.append("The corridor was quiet now.\n\n")
     content.append("The only sound was the steady hiss of water spraying from the ruptured cooling pipe and the ragged, shallow breathing of three wardens sitting on the debris-littered floorplates.\n\n")
     content.append("Taeho sat with his back against the wall, his cleavers lying across his lap, his hands trembling violently as the combat adrenaline drained from his veins. He looked at his shaking fingers, then looked up at Min-Jae with a mixture of shock and reluctant awe. \"You... you actually parried five tons of rock. My arms felt like they were going to tear off just jumping off your shield.\"\n\n")

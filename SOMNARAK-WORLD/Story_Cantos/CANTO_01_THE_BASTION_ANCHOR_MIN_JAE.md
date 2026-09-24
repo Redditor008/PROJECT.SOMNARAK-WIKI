@@ -1,4 +1,4 @@
-# CANTO I: THE BASTION ANCHOR (바스티온의 닻)
+# CANTO I: THE BASTION ANCHOR (  바스티온의 닻  )
 ## Warden Min-Jae and the Unbroken Wall of Floor 01
 ### The Reverie Directorate — Containment Chronicles of Cycle 1,778
 
@@ -24,7 +24,7 @@
 
 ---
 
-## Act I: The Heavy Morning (일상의 멍에)
+## Act I: The Heavy Morning (  일상의 멍에  )
 
 ```text
 +=====================================================================+
@@ -79,7 +79,7 @@ Every cycle, the facility reset. Every cycle, the bodies disappeared and the led
 
 ---
 
-## Act II: The Fracture Point (균열의 순간)
+## Act II: The Fracture Point (  균열의 순간  )
 
 ```text
 +=====================================================================+
@@ -145,7 +145,7 @@ He lowered his head behind the viewing slit of the basalt plate, drawing the hea
 
 ---
 
-## Act III: The Resonant Catharsis (공명의 해탈)
+## Act III: The Resonant Catharsis (  공명의 해탈  )
 
 ```text
 +=====================================================================+
@@ -229,7 +229,7 @@ Min-Jae shoved the jammed wedge of rock free with his boot. The eighty-ton steel
 
 ---
 
-## Epilogue: The Bread of Survival (생존의 빵)
+## Epilogue: The Bread of Survival (  생존의 빵  )
 
 The corridor was quiet now.
 
