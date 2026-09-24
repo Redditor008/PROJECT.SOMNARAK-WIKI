@@ -39,7 +39,7 @@ The repository is structured into distinct, authoritative functional environment
 - **60 Five-Color Ordeal Files** (`SOMNARAK-WORLD/Ordeals/`), documenting Blue, Black, Pale, Grey, and Purple Ordeals across 4 watches
 - **14 Hope Transformation Records** (`SOMNARAK-WORLD/Hope_Transformations/`), detailing resonant ascensions
 - **9 Echo-Core Dossiers** (`SOMNARAK-WORLD/Echo_Cores/`), covering Facility 01 departmental leadership
-- **14 Unknown Anomaly Records** (`SOMNARAK-WORLD/Unknown_Entities/`), containing deep-abyss occurrences and Regressor chronicles
+- **13 Unknown Anomaly Records** (`SOMNARAK-WORLD/Unknown_Entities/`), containing deep-abyss occurrences and Regressor chronicles
 - **16 Encyclopedic Research Volumes** (`PROJECT_MOON_RESEARCH/`), comparative structural analysis and reference library
 - **2 Master Architectural & Cartographic Vector Blueprints** located at the repository root
 
@@ -123,7 +123,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   ├── MAW_Codex_Sets/                     # 1,165 files: 42 complete quadripartite sets across 42 folders
 │   ├── Ordeals/                            # 60 Ordeal files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
 │   ├── Hope_Transformations/               # 14 Hope Transformation files: HT-001 through HT-012, Trinity & Hand
-│   └── Unknown_Entities/                   # 14 Unknown Entity files: UNK-248 to UNK-903 & Regressor chronicles
+│   └── Unknown_Entities/                   # 13 Unknown Entity files: UNK-248 to UNK-903 & Regressor chronicles
 │
 └── REFERENCE_SOMNARAK_WIKI/                # Out-of-World Editorial Standards, Audits & Catalogs
     ├── README.md                           # Overview of the reference standards folder

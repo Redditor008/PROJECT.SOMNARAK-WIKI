@@ -14,7 +14,7 @@
 | **Relic-Entities (Tool Abnormalities)** | **88** | 30.14% (Quota >= 25.0% PASS) |
 | **Two-Work-Type Rule Compliance (Non-Subject Entities)** | **283 / 283** | **100.0% Compliant** |
 | **Core Stat Line Compliance (Speed, Gauges, Resistances)** | **292 / 292** | **100.0% Compliant** |
-| **Unknown Entities (`SOMNARAK-WORLD/Unknown_Entities/`)** | **14** | Standardized |
+| **Unknown Entities (`SOMNARAK-WORLD/Unknown_Entities/`)** | **13** | Standardized |
 | **Hope Transformations (`SOMNARAK-WORLD/Hope_Transformations/`)** | **14** | Standardized |
 | **Ordeals (`SOMNARAK-WORLD/Ordeals/`)** | **60** | Dawn to Midnight |
 
@@ -39,9 +39,9 @@
 
 | Repository Scope | Programmatic File Count |
 | :--- | :--- |
-| **`SOMNARAK-WORLD/` Subtree** | **1708 files** |
+| **`SOMNARAK-WORLD/` Subtree** | **1707 files** |
 | **`docs/` Publishing Subtree** | **4 files** |
-| **Total Non-Git Repository Files** | **1980 files** |
+| **Total Non-Git Repository Files** | **1976 files** |
 
 ---
 

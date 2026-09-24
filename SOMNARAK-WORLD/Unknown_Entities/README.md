@@ -4,13 +4,13 @@
 **Classification:** Black-Level Redacted / Unclassified SECC Anomaly  
 **Chronological Position:** Post-R.D. / Post-Dawn Epoch (**Canon Law: UNK SE Is After R.D.**)  
 **Balancing Status:** Balanced Distribution across Outside Sorrow (`O`), Inner Sorrow (`N`), and City Sorrow (`C`)  
-**Total Records:** 15 Markdown Dossiers
+**Total Records:** 14 Markdown Dossiers
 
 ---
 
 ## Overview
 
-> **Macro-Chronological Canon Law:** By binding Project Owner decree, **UNK SE Is After R.D.** While the 292 standard Sorrow Entities are contained during R.D. Facility 01's 1,778-cycle loop era, the Unknown Sorrow Entities defy standard cyclical taxonomy and manifest strictly **AFTER R.D.**, bridging into the Post-Dawn era alongside the Dawn Initiative and continental expeditions.
+> **Macro-Chronological Canon Law:** By binding Project Owner decree, **UNK SE Is After R.D.** While the 292 standard Sorrow Entities are contained during R.D. Facility 01's 1,778-cycle loop era, the Unknown Sorrow Entities defy standard cyclical taxonomy and manifest strictly **AFTER R.D.**, bridging into the Post-Dawn era alongside the Dawn Initiative and continental expeditions. Continental geography features are sovereign landmasses and not Sorrow Entities.
 
 The `Unknown_Entities/` archive holds dossiers on anomalous entities and narrative artifacts that defy standard SECC taxonomy, originate beyond the explored sectors of The Maw, or demonstrate non-cyclical behavior patterns.
 
@@ -35,7 +35,6 @@ These entities are maintained under strict quarantine protocols supervised by **
 | Identifier | English Name | Korean Name | Category & Characteristics |
 |---|---|---|---|
 | `SE-O-IVδ-1051` | Numbing Frozen Tundra | 마비의 동토 `[NuRoZen]` | Cryo-stasis polar waste inducing absolute emotional and sensory anaesthesia |
-| `SE-O-Vω-1054` | The Untouched Wild Land | 미답의 야생지 `[UnWiHan]` | Boundless primeval continental ecosystem rejecting all municipal structures |
 | `SE-O-IIIγ-1052` | The Glass Silt Drifter | 유리모래 방랑자 | Vitrified biped wandering the 2,400 km Sea of Glass transit corridor |
 | `SE-O-IVγ-1053` | The Singing Needle | 노래하는 바늘 | High-altitude acoustic spires shearing northern wind into fatal harmonics |
 

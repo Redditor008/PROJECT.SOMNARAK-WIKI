@@ -133,11 +133,11 @@ The central turning point in planetary history:
 **ANYTHING ELSE** in the narrative chronology takes place strictly **AFTER** the Dawn of Hope, and **UNK SE is positioned strictly AFTER R.D.**:
 1. **Unknown Sorrow Entities (UNK SE /   미분류 슬픔 개체  ):**
    - Canonical Mandate: **UNK SE Is After R.D.**
-   - While the 292 standard Sorrow Entities are contained during R.D. Facility 01's 1,778-cycle loops, the 14 Unknown Sorrow Entities (`SOMNARAK-WORLD/Unknown_Entities/`) manifest and are recorded strictly **AFTER R.D.**:
+   - While the 292 standard Sorrow Entities are contained during R.D. Facility 01's 1,778-cycle loops, the 13 Unknown Sorrow Entities (`SOMNARAK-WORLD/Unknown_Entities/`) manifest and are recorded strictly **AFTER R.D.**:
      - `SE-N-IVγ-250 The Extinguished` specifically tracks and hunts Hope Bearers (who emerge only after the Dawn of Hope).
      - `SE-N-IIIβ-247 The Undelivered Thanks` carries gratitude stones honoring fallen Hope Bearers.
      - `SE-N-IVδ-902 The Repeated Survivor` and `Book of Regressor Log Dramaturgy` record the meta-conscious aftermath of the broken loop cycles.
-     - `SE-O-1051` through `SE-O-1054` Outside Sorrow entities (Numbing Frozen Tundra, Untouched Wild Land, Glass Silt Drifter, Singing Needle) are discovered beyond Somnarak in the unmapped frontier during post-R.D. overland expeditions.
+     - Outside Sorrow frontier anomalies (such as The Glass Silt Drifter and The Singing Needle) are discovered beyond Somnarak in the unmapped frontier during post-R.D. overland expeditions. Continental landmasses and regional geology are permanent geography, not Sorrow Entities.
 2. **The Dawn Initiative (  새벽 이니셔티브  , *Saebyeok Inisieotibeu*):**
    - The 12 Hope Bearers operating from the mobile fortress *The Lantern* (  등불  , *Deungbul*), expanding hope from 15% to 45% across the continent (`SOMNARAK_DAWN_OF_HOPE.md`).
 3. **The Horizon Caravan (Jipyeongseondae /   지평선대  ):**

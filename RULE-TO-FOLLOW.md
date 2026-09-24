@@ -302,7 +302,7 @@ Never collapse these states into the single word "done."
    - The Hand of Hope opens at the culmination of Cycle 1,778 in Year 4,238, transmuting the first 15% of ambient sorrow into resonant Hope Entities.
 3. **The Post-Dawn & Post-R.D. Era (After Dawn of Hope & After R.D.):**
    - **ANYTHING ELSE** in the narrative chronology takes place strictly **AFTER** the Dawn of Hope, and **UNK SE is strictly positioned AFTER R.D.**:
-     - **UNK SE (Unknown Sorrow Entities):** The 14 anomalous dossiers in `SOMNARAK-WORLD/Unknown_Entities/` manifest strictly **AFTER R.D.**, encountering Hope Bearers (`The Extinguished`, `The Undelivered Thanks`), surviving broken loop mechanics (`The Repeated Survivor`, `Book of Regressor Log Dramaturgy`), or discovered across uncharted frontier biomes (`SE-O-1051` through `1054`).
+     - **UNK SE (Unknown Sorrow Entities):** The anomalous dossiers in `SOMNARAK-WORLD/Unknown_Entities/` manifest strictly **AFTER R.D.**, encountering Hope Bearers (`The Extinguished`, `The Undelivered Thanks`), surviving broken loop mechanics (`The Repeated Survivor`, `Book of Regressor Log Dramaturgy`), or discovered across uncharted frontiers (`The Glass Silt Drifter`, `The Singing Needle`). Continental geography is strictly sovereign landmass and not an SE.
      - **The Dawn Initiative:** The mobile fortress *The Lantern* continental journey (`SOMNARAK_DAWN_OF_HOPE.md`).
      - **The Horizon Caravan:** The trans-desolate overland wasteland expedition (`SOMNARAK-WORLD/Jipyeongseondae/`).
      - **The Memory Archive:** Floor realizations and Key Page extractions (`SOMNARAK-WORLD/Gieok_Jeojangso/`).
