@@ -8,6 +8,7 @@
 |---|---|
 | **Designation** | `C-IIIγ-902 [GO]` |
 | **Entity Type** | **Object** — Can breach via Transform |
+| **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -31,7 +32,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Observation Level 3 — Advanced |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · γ |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
 | **Recommended response** | Reduce Gauge through the listed valid Work Types. |
@@ -138,6 +139,30 @@ Beating Relic was forged in the aftermath of the Battle Pits riots. A Warden nam
 ### Operational Work Notes
 
 The Grudge pressure is real and measurable, but the gauge decrease from Viderehan and Ferrehan is equally real. Cross-reference the Work Type responses with the entity's classification — the Object-Body manifestation means the body register is the primary channel of contact.
+
+## Activation Behavior
+
+**Activation Trigger:** The relic is gripped in an operator's bare hand.
+
+**Effect:** Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition.
+
+**Duration:** While held in hand, until released onto its containment plinth.
+
+**Risk:** Gripping the relic beyond 60 seconds induces acute tachycardia, hyper-aggression, and emotional hemorrhaging as the bearer's pulse locks into the relic's violent rhythm.
+
+### Tool Use Profile — I-Relic
+
+| Field | Record |
+|---|---|
+| **Tool Class** | **I-Relic** |
+| **Use Mode** | **Equippable / mounting use** (Held in hand) |
+| **Activation** | The operator takes the stone into their hand; it must be held before it will beat. |
+| **Primary Effect** | Grants +20% melee kinetic force and Grudge defense; beats faster with rage. |
+| **Duration** | While held, until released onto the plinth. |
+| **Termination / Return** | Operator must master their composure, slow their pulse, and open their hand. |
+| **Risk** | Prolonged use (>60s) causes severe cardiovascular strain and memory rage. |
+
+**Operational Rule:** The relic remains active only while physically held by the operator. It does not replace standard containment shifts; Object entities utilize Viderehan and Ferrehan for ongoing observation.
 
 ## Breach Behavior
 

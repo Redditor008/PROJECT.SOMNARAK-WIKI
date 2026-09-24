@@ -8,6 +8,7 @@
 |---|---|
 | **Designation** | `N-Iα-905 [VO]` |
 | **Entity Type** | **Object** — Can breach via Transform |
+| **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -31,7 +32,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Minor · R.D. Observation Level 1 — Trace |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · α |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (α) |
 | **Recommended response** | Reduce Gauge through the listed valid Work Types. |

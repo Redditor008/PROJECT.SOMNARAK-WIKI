@@ -8,6 +8,7 @@
 |---|---|
 | **Designation** | `C-IIIγ-904 [LO]` |
 | **Entity Type** | **Object** — Can breach via Transform |
+| **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -31,7 +32,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Observation Level 3 — Advanced |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · γ |
+| **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
 | **Recommended response** | Reduce Gauge through the listed valid Work Types. |

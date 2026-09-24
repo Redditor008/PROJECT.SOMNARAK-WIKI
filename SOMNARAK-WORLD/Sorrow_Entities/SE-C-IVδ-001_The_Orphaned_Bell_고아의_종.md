@@ -8,7 +8,7 @@
 |---|---|
 | **Designation** | `C-IVδ-001 [LO]` |
 | **Entity Type** | **Object/Place** — Can breach via Transform; activation/expansion possible |
-| **Tool Type** | **I-Relic (Indumentum)** |
+| **Tool Type** | **O-Relic (Officium)** — Channeled Use (spoken invocation of the unrecorded dead) |
 | **Coherence** | Entity (IV) — Self-aware, communicates through tolling |
 | **Potency** | Critical (δ) — Facility-threatening if breached |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Observation Level 4 — Mastered |
 | **Activation threshold** | Activation / expansion trigger — no breach counter |
-| **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
+| **Tool / M.A.W. grade** | O-Relic (Officium) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
 | **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |
@@ -165,38 +165,38 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 
 **Containment:** The bell must remain anchored in its tower. Pugnahan is ineffective and intensifies the tolling. Flerehan—especially singing to it—remains the most reliable calming method.
 
-### I-Relic (Indumentum)
+### O-Relic (Officium) — Channeled Invocation
 
 | Field | Detail |
 |---|---|
-| **How to Equip** | Wear the bell's extracted resonance as a relic of duty. |
-| **Beneficial Effect** | Creates a protective aura of purpose and duty around the wearer and nearby personnel. |
-| **Risk** | Constant tolling causes memory gaps after 72 hours; names of lost children intrude into thought. |
-| **How to Remove** | The wearer must be acknowledged by someone who remembers the lost children. |
+| **How to Channel** | Stand or kneel within the acoustic circle beneath the tower and recite documented lost names. |
+| **Beneficial Effect** | Releases a soothing 40-Hertz silver harmonic wave that stabilizes psychological Composure for all squads deployed across the sector. |
+| **Risk** | Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia. |
+| **Termination Method** | Complete the documented roster recitation, bow in remembrance, and step outside the acoustic circle. |
 
-### Tool Use Profile — I-Relic
+### Tool Use Profile — O-Relic
 
 | Field | Record |
 |---|---|
-| **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
-| **Primary Effect** | The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. |
-| **Duration** | While equipped, until the removal condition is met. |
-| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
-| **Risk** | Constant tolling causes memory gaps after 72 hours; names of lost children intrude into thought. |
+| **Tool Class** | **O-Relic** |
+| **Use Mode** | **Channeled / sustained interaction** (Spoken invocation of lost names) |
+| **Activation** | The operator kneels beneath the bell; it answers only when genuine documented names are spoken aloud. |
+| **Primary Effect** | Emits a silver acoustic wave that purges Composure strain from personnel; restores +10 SP / Composure on harmonious resonance. |
+| **Duration** | While actively channeled, up to 3 full toll cycles (180 seconds maximum). |
+| **Termination / Return** | Operator completes the memorial recitation and withdraws beyond the acoustic perimeter. |
+| **Risk** | Channeling beyond 180s causes memory blurring and auditory intrusion of unrecorded names. |
 
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic activates only while sustained spoken invocation is maintained. It does not replace standard containment shifts; Object/Place entities remain limited to Viderehan and Ferrehan during non-channeling hours.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The Orphaned Bell lies still until it is taken up — a thing of blue grief, whole and waiting. | When the relic is equipped, it activates: the bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. |
-| 1 Minute | It was forged from a grief the city itself could never bring itself to name. | The effect lasts while equipped, until the removal condition is met, for as long as the relic remains worn. |
-| 2 Minutes | Worn against the skin, it does what it was shaped to do: the bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. The Lament of it seeps into the bearer. | Constant tolling causes memory gaps after 72 hours; names of lost children intrude into thought. |
-| 3 Minutes | Every grief it touches, it remembers; and it has a long memory. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |
+| 10 Seconds | The Orphaned Bell hangs motionless in its tower — a three-meter monument of blue grief, cold and waiting. | When the operator enters the circle and speaks a lost name, the rim begins an imperceptible 40-Hertz oscillation. |
+| 1 Minute | Blue condensation pools upward along the bronze crystal; the chime vibrates in the operator's ribs. | The effect calms attending personnel, emitting silver resonance that soothes Composure strain. |
+| 2 Minutes | The acoustic resonance deepens; faces of lost expansion children glow faint blue across the tower masonry. | Prolonged channeling risks cognitive bleed; personal childhood memories begin to blend with the tower's ledger. |
+| 3 Minutes | Every grief the bell holds resonates at once; unrecorded voices clamor to be named. | Reaching 3 minutes requires immediate withdrawal before the acoustic pressure triggers amnesia. |
+| 3 Minutes | The toll softens as the final name is recorded; a silver calm settles across the sector. | Operator exits the acoustic circle, leaving the bell pacified until the next midnight vigil. |
 
 ### Escalation Notes
 

@@ -8,6 +8,7 @@
 |---|---|
 | **Designation** | `C-IIβ-906 [GO]` |
 | **Entity Type** | **Object** — Can breach via Transform |
+| **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -31,7 +32,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Observation Level 2 — Basic |
 | **Activation threshold** | 3 |
-| **Tool / M.A.W. grade** | — · β |
+| **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Reduce Gauge through the listed valid Work Types. |
