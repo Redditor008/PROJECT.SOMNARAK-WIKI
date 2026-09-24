@@ -22,7 +22,7 @@ The Echo formed from anger repeated until it no longer belonged to anyone. The e
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Void |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Grudge (Crimson) / Zone A, Alpha Tree vault |
-| Gauge / Pressure | 910/910 out of 1000; starts 60–80% / 29–64 per hit · Grudge |
+| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A grievance was repeated through generations until the words became an empty fire. |
 

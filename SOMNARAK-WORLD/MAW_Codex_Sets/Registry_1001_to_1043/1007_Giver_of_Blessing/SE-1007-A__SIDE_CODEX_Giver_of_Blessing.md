@@ -22,7 +22,7 @@ Giver of Blessing is the second stage of the Kind Healer transformation chain. W
 | Type / Manifestation | Subject — Mid-transformation entity / Subject-Lament |
 | Coherence / Potency | I — Residue (the healer's original self is fading) / β — Moderate (escalating from α) |
 | Element / Location | Lament (Deep Blue) with emerging Hope / SECTOR-D-01, The Forge District — Training Containment Unit |
-| Gauge / Pressure | 450/450 out of 1000; starts 40–60% / 8–18 per hit · Lament |
+| Gauge / Pressure | 450/450; starts 40–60% / 8–18 per hit · Lament |
 | Observation | 2 — Escalating |
 | Formation event | Not recorded |
 

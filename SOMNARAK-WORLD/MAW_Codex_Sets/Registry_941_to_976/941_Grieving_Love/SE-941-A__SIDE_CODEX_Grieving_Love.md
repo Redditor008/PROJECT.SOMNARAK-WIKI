@@ -22,7 +22,7 @@ Grieving Love formed when a living woman fell into a vat of concentrated Han she
 | Type / Manifestation | Subject — Can breach / Subject-Body |
 | Coherence / Potency | Fragment (III) — Reaches for the comfort she could never give / Moderate (β) |
 | Element / Location | Lament (Deep Blue) / SECTOR-D-03, Zone D — the Drowned Apothecary |
-| Gauge / Pressure | 540/540 out of 1000; starts 50–70% / 9–20 per hit · Lament |
+| Gauge / Pressure | 540/540; starts 50–70% / 9–20 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | Sooah, an apothecary of Zone D, laboured night and day to draw the Weeping-wasting out of her beloved Haneul. On the final night, exhausted, she reached for the last reagent, slipped, and fell into the vat. The cure that should have separated sorrow from flesh instead fused them — her sorrow became her flesh. |
 

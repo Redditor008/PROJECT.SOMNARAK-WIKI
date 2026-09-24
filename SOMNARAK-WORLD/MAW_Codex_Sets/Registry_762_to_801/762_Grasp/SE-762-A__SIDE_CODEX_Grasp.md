@@ -22,7 +22,7 @@ The Bridge formed from a crossing destroyed while people were still on it. The g
 | Type / Manifestation | Subject — Can breach / Subject-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament (Deep Blue) / The Desolate, near The Scar |
-| Gauge / Pressure | 910/910 out of 1000; starts 60–80% / 29–64 per hit · Lament |
+| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A Han-storm consumed a bridge; a rescuer continued calling across the gap until the calls became a burning figure. |
 

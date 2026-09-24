@@ -35,9 +35,9 @@ A moderate-severity GREY encounter: localized damage. Contain before the grudge 
 
 Level 3+ with M.A.W.
 
-## Spawn Roster (Monster / Non-Crystal / Non-Humanoid)
+## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary GREY Second Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Non-Crystal, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary GREY Second Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Fury Hound (Monster, Greater-grade)
 
@@ -45,11 +45,11 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 220/220 out of 1000 |
+| **HP** | 220/220 |
 | **Han Pressure [ATK]** | 15–30 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered.. **[15-30 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[15–30 Crimson DMG [Crimson / Grudge]]**
 
 ### The Sinew-Bruiser (Non-Crystal, Greater-grade)
 
@@ -57,7 +57,7 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 250/250 out of 1000 |
+| **HP** | 250/250 |
 | **Han Pressure [ATK]** | 20–35 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
@@ -65,15 +65,15 @@ Level 3+ with M.A.W.
 
 ### The Blade Storm (Non-Humanoid, Greater-grade)
 
-**Physical Form:** Non-Humanoid — A swirling vortex of spinning blades — hundreds of forged-iron and resentment-steel shards orbiting a core of compressed fury, three meters across. The blades are not uniform: some are sword-fragments, some are nail-like spikes, some are twisted rebar, some are the ragged edges of broken tools, all spinning in a deafening ring. There is no body at the centre — only the anger that holds the metal in orbit, and the metal does the cutting..
+**Physical Form:** Non-Humanoid — A swirling vortex of spinning blades — hundreds of forged-iron and resentment-steel shards orbiting a core of compressed fury, three meters across. The blades are not uniform: some are sword-fragments, some are nail-like spikes, some are twisted rebar, some are the ragged edges of broken tools, all spinning in a deafening ring. There is no body at the centre — only the anger that holds the metal in orbit, and the metal does the cutting.
 
 | Stat | Value |
 |---|---|
-| **HP** | 280/280 out of 1000 |
+| **HP** | 280/280 |
 | **Han Pressure [ATK]** | 25–40 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Deals damage themed to its form and element. **[25-40 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[25–40 Crimson DMG [Crimson / Grudge]]**
 
 
 ### The Piked (Humanoid, Greater-grade)
@@ -82,11 +82,11 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 240/240 out of 1000 |
-| **Han Pressure [ATK]** | 18-30 per hit · Grudge |
+| **HP** | 240/240 |
+| **Han Pressure [ATK]** | 18–30 per hit · Grudge |
 | **Spawn Count** | 3 |
 
-**Ability:** It thrusts, and the bone-pike drives through with practiced fury.. **[[18-30 Crimson DMG [Crimson / Grudge]]]**
+**Ability:** It thrusts, and the bone-pike drives through with practiced fury. **[18–30 Crimson DMG [Crimson / Grudge]]**
 
 ### The Blade-Haze (Amorphous, Greater-grade)
 
@@ -94,11 +94,11 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 220/220 out of 1000 |
-| **Han Pressure [ATK]** | 16-26 per hit · Grudge |
+| **HP** | 220/220 |
+| **Han Pressure [ATK]** | 16–26 per hit · Grudge |
 | **Spawn Count** | 1 |
 
-**Ability:** It swirls over a group, and a thousand tiny cuts open at once.. **[[16-26 Crimson DMG [Crimson / Grudge]]]**
+**Ability:** It swirls over a group, and a thousand tiny cuts open at once. **[16–26 Crimson DMG [Crimson / Grudge]]**
 
 ### The Iron-Rats (Swarm, Greater-grade)
 
@@ -106,11 +106,11 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 45/45 out of 1000 |
-| **Han Pressure [ATK]** | 8-12 per hit · Grudge |
+| **HP** | 45/45 |
+| **Han Pressure [ATK]** | 8–12 per hit · Grudge |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They overwhelm, and coordinated gnawing brings down even armored targets.. **[[8-12 Crimson DMG [Crimson / Grudge]]]**
+**Ability:** They overwhelm, and coordinated gnawing brings down even armored targets. **[8–12 Crimson DMG [Crimson / Grudge]]**
 
 
 ## Trivia
@@ -121,5 +121,5 @@ Level 3+ with M.A.W.
 
 - **Document ID:** ORDEAL-GREY-Second-II
 - **Author:** R.D. Field Records
-- **Date:** Year 4247
+- **Date:** Year 4238
 - **Classification:** Restricted

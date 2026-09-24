@@ -22,7 +22,7 @@ Maker of Apostle is the third stage of the Kind Healer transformation chain. Whe
 | Type / Manifestation | Subject — Advanced transformation entity / Subject-Body — the form has changed significantly from the Kind Healer |
 | Coherence / Potency | II — Echo (the original healer is nearly gone; something else is driving) / γ — Major (the chain is accelerating toward completion) |
 | Element / Location | Mixed — Lament base with strong Hope emergence / SECTOR-D-01 — but roams freely, drawn to the remaining unconverted |
-| Gauge / Pressure | 680/680 out of 1000; starts 50–70% / 18–35 per hit · Mixed |
+| Gauge / Pressure | 680/680; starts 50–70% / 18–35 per hit · Mixed |
 | Observation | 3 — Critical |
 | Formation event | Not recorded |
 

@@ -22,7 +22,7 @@ The Shadow formed from compassion left behind by healers who died. The grief of 
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Echo (II) — Repeats healing / Moderate (β) |
 | Element / Location | Lament (Deep Blue) / Zone D, Mantle Commons — ambient |
-| Gauge / Pressure | 415/415 out of 1000; starts 35–50% / 10–23 per hit · Lament |
+| Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded. |
 

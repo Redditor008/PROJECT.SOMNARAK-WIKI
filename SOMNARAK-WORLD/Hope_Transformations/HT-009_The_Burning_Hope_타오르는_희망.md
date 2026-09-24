@@ -178,7 +178,7 @@ That night, by the beacon's low glow, Hwaran stopped calling survival an escape.
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system.. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The flame leads toward the living, not back toward the dead; it does not erase guilt but gives it a direction. The record is a living document. When the entity does something this file does not describe, document the gap., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The flame leads toward the living, not back toward the dead; it does not erase guilt but gives it a direction. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck bond status, Bearer self-sacrifice indicators, beacon-deployment frequency, and Furnace-proximity exposure after every large rescue. A Hope Bearer record describes a living bond, not a permanently stable condition.
 

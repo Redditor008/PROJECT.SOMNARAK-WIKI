@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Object — Can breach via Transform / Object-Tale |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Grudge (Crimson) / SECTOR-C-906, contained |
-| Gauge / Pressure | 479/479 out of 1000; starts 35–50% / 14–20 per hit · Grudge |
+| Gauge / Pressure | 479/479; starts 35–50% / 14–20 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 

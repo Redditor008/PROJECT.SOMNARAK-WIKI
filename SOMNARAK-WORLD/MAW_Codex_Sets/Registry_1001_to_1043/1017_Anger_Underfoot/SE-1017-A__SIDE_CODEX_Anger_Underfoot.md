@@ -22,7 +22,7 @@ The Trace formed from a grievance carried through places rather than people. The
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Grudge |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Grudge (Crimson) / Zone D, Mantle Commons |
-| Gauge / Pressure | 225/225 out of 1000; starts 25–40% / 2–8 per hit · Grudge |
+| Gauge / Pressure | 225/225; starts 25–40% / 2–8 per hit · Grudge |
 | Observation | 1 — Initial |
 | Formation event | A route through Mantle Commons held years of conflict; the repeated anger marked the ground. |
 

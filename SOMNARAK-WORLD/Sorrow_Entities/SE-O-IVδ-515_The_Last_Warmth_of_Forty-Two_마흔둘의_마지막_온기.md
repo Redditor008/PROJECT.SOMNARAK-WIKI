@@ -54,7 +54,7 @@
 | **Speed** | N/A — stationary artifact |
 | **Resistance** | 45% against Lament pressure; 30% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [HP]** | 820/820 out of 1000 |
+| **Sorrow Gauge [HP]** | 820/820 |
 | **Han Pressure [ATK]** | 28–55 per hit · Lament |
 | **Coherence modifier** | IV — unified choral soul lattice |
 | **Potency modifier** | δ — critical stasis shockwave |
@@ -166,7 +166,7 @@ Operatives assigned to Ferrehan must possess high Composure ratings. Hearing for
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 1 Use | The Last Warmth of Forty-Two sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Throwing or shatter-striking the quartz vial against a solid surface or target core.) initiates an instantaneous, irreversible discharge across the battlefield. |
-| 3 Uses | Crystallized from the absolute terror of dying alone in freezing darkness, transformed into solidarity by refusing to die in silence. during the great freeze of year 4,188 in sector 09, where an avalanche sealed a crawler beneath forty meters of ice., the relic answers only to complete commitment. | The full discharge completes: Releases an expanding 360-degree acoustic blizzard across Range Band 4, inflicting Cryogenic Stasis on all hostile targets for 2 Combat Turns (cancels active boss attacks, delays AP to max, reduces defenses by 30%). Vial is permanently destroyed. All hostile entities in range suffer devastating disruption and elemental debuffs. |
+| 3 Uses | Crystallized from the absolute terror of dying alone in freezing darkness, transformed into solidarity by refusing to die in silence. during the great freeze of year 4,188 in sector 09, where an avalanche sealed a crawler beneath forty meters of ice; the relic answers only to complete commitment. | The full discharge completes: Releases an expanding 360-degree acoustic blizzard across Range Band 4, inflicting Cryogenic Stasis on all hostile targets for 2 Combat Turns (cancels active boss attacks, delays AP to max, reduces defenses by 30%). Vial is permanently destroyed. All hostile entities in range suffer devastating disruption and elemental debuffs. |
 | 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
 | 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The vial is consumed permanently; the user suffers 15 Composure loss and uncontrollable weeping for 72 hours. |
 

@@ -22,7 +22,7 @@ The object formed from a promise that was used as a weapon. Betrayal—the grief
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Grudge |
 | Coherence / Potency | Fragment (III) — Bitter and betrayed / Major (γ) |
 | Element / Location | Grudge (Crimson) / SECTOR-C-01, Collector's Row |
-| Gauge / Pressure | 693/693 out of 1000; starts 45–65% / 14–32 per hit · Grudge |
+| Gauge / Pressure | 693/693; starts 45–65% / 14–32 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A Collector promised debt relief, then used the promise to secure another obligation. |
 

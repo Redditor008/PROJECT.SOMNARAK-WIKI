@@ -22,7 +22,7 @@ The Bridge formed from the dream of a connection that could not be repaired. The
 | Type / Manifestation | Subject — Can breach / Subject-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void (Pale White) / Zone D, Forge District |
-| Gauge / Pressure | 653/653 out of 1000; starts 45–65% / 18–41 per hit · Void |
+| Gauge / Pressure | 653/653; starts 45–65% / 18–41 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | A bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion. |
 

@@ -66,7 +66,7 @@ Marjuk is patient, formal, and difficult to rush. He serves as the Directorate's
 | **Primary Function** | Archive command, record authentication, Echo preservation, restricted-access review, historical reconstruction, language analysis, Cycle documentation, and Final Door monitoring |
 | **Operational Presence** | Physical humanoid Cryogen on Floor 6 with direct voice communication, written records, and archive-system interfaces |
 | **M.A.W.** | **None recorded** — Directorate records place him outside ordinary M.A.W. contact; Keeper equipment and his Cryogen chassis are not M.A.W. |
-| **Archive Progression** | **None recorded** — no direct participation, Reception, Key Page, or Floor Realization in _The Memory Archive_ operation |
+| **Archive Progression** | **None recorded** — no direct participation, Archival Encounter, Engram Record Page, or Stratum Realization in _The Memory Archive_ operation |
 | **Current Status** | Active; post-Cycle Archive Lead preserving both classified originals and the public record of truths revealed by the R.D. |
 | **First Major Appearance** | _Absolvohan_, Day 12 — recovery of a Before-Time fragment concerning Cheonbulok's Furnace |
 | **Protagonist Role** | _Absolvohan_ — major supporting Echo-Core whose archival discoveries help change the purpose of the Absolvohan |
@@ -560,15 +560,15 @@ Despite his title and physical proximity, Marjuk has **no direct recorded role**
 
 ### Structural Connection
 
-The Memory Archive is an ancient living structure beneath the Alpha Tree and is accessible through the Grand Archive. It consumes and preserves visitors as stories. Its setting overlaps Marjuk's professional domain, and its first Reception involves the First Keeper.
+The Memory Archive is an ancient living structure beneath the Alpha Tree and is accessible through the Grand Archive. It consumes and preserves visitors as stories. Its setting overlaps Marjuk's professional domain, and its first Archival Encounter involves the First Keeper.
 
 Those facts make him relevant to the environment. They do not make him the Archive's creator, controller, guardian, narrator, or participant.
 
 ### Seiyon's Operation
 
-The narrative identifies Seiyon as the protagonist. She enters to confront the Original, completes Reception Battles and Floor Realizations, and emerges after the Merge.
+The narrative identifies Seiyon as the protagonist. She enters to confront the Original, completes Archival Encounters and Stratum Realizations, and emerges after the Merge.
 
-Marjuk is not named as an escort, Reception opponent, Key Page, floor patron, or participant in the ending. No source places him into Seiyon's journey merely because he commands the R.D. Deep Vault.
+Marjuk is not named as an escort, Encounter adversary, Engram Page, stratum custodian, or participant in the ending. No source places him into Seiyon's journey merely because he commands the R.D. Deep Vault.
 
 ### Distinct Archives
 
@@ -582,7 +582,7 @@ Marjuk's Place-Lament affects the Deep Vault. It does not establish control over
 
 ### Archive Progression Status
 
-No Reception, realization, Key Page, reward, combat, Merge effect, or post-operation transformation is assigned to Marjuk. His Profile therefore records **None**.
+No Archival Encounter, realization battle, Engram Page, reward, combat, Merge effect, or post-operation transformation is assigned to Marjuk. His Profile therefore records **None**.
 
 ---
 

@@ -40,7 +40,7 @@ A four-way Mantle Commons junction became a Void line after hope-touched and unt
 | R.D. Observation Level | 3 — Elevated |
 | Starting Sorrow Gauge | 55–70% |
 | Activation threshold | 2 |
-| Sorrow Gauge [HP] | 910/910 out of 1000 |
+| Sorrow Gauge [HP] | 910/910 |
 | Han Pressure [ATK] | 29–64 per hit · Void |
 | Speed | 0.0 m/s (fixed) |
 | Resistance | 40% against Void pressure; 30% against other pressure types |

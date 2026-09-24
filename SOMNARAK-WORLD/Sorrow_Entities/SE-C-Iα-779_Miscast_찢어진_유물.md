@@ -54,7 +54,7 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 15% against Grudge pressure; 5% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [HP]** | 181/181 out of 1000 |
+| **Sorrow Gauge [HP]** | 181/181 |
 | **Han Pressure [ATK]** | 3–10 per hit · Grudge |
 | **Coherence modifier** | I — affects behavior complexity and response speed |
 | **Potency modifier** | α — affects pressure, durability, and escalation severity |
@@ -95,7 +95,7 @@
 - Resistance failure channels the entity's sorrow directly into the worker, damaging stability and feeding the gauge. **Resilience** and may increase the Sorrow Gauge.
 - The longer the exposure, the deeper the effect: the entity's sorrow seeps past protocol and into the worker's own psychology. the entity’s documented emotional, physical, identity, or environmental effect.
 - The M.A.W. is not free. Its cost — physical, psychological, or temporal — is documented but unavoidable. recorded in the equipment section.
-- Failure to resolve means the entity follows its breach protocol: the gauge climbs, the protocols engage, and the sorrow acts., the entity follows its breach, activation, or expansion behavior.
+- Failure to resolve means the entity follows its breach protocol: the gauge climbs, the protocols engage, and the sorrow acts; the entity follows its breach, activation, or expansion behavior.
 
 ## Appearance
 **Physical Form:** A broken relic split into several floating metal pieces. The fragments pull toward one another but never reconnect.
@@ -121,7 +121,7 @@
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Cross-check physical markers with the designation before contact — a Fragment and a Sovereign can look similar in poor lighting. before Work or contact. |
 
-**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving., and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
+**Appearance protocol:** Log size, position, stance, and any visible transformation — the moment the entity's surface changes is the moment the gauge starts moving; and the first visible change during activation. Specific language only. The entity is not 'weird' or 'unsettling' — it has measurable, nameable, recordable features. Use them. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Relic formed from an object destroyed before its work was complete.
@@ -180,9 +180,9 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Miscast rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Miscast activates its primary resonance: Recreates the Relic's incomplete function for a short time. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of being made for a purpose and broken before fulfilling it.; the bearer begins perceiving echoes of a forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the grief of being made for a purpose and broken before fulfilling it.; the bearer begins perceiving echoes of a forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Miscast begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Miscast too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user inherits the frustration of the failed purpose.. |
+| 2 Minutes | To wear Miscast too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user inherits the frustration of the failed purpose. |
 
 ### Escalation Notes
 
@@ -271,12 +271,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal., equipment condition, mission objective. |
+| **Before use** | Pre-use log: operator name, M.A.W. grade, current gauge, psychological assessment, equipment status, mission goal; equipment condition, mission objective. |
 | **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous.. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The rating measures what the M.A.W. does to entities, not what it does to you. The wielder's cost is listed separately and is frequently more dangerous. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Observation Level:** 1 — Initial
@@ -345,7 +345,7 @@ Metal scrapes against metal in the air. A relic tries to become whole and fails 
 
 Miscast does not exist in isolation. Its recorded relationships with Pandora's Jar, The Burning Library, The Broken Promise should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence.. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation., the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Record the initial shared response: trigger distance, duration, gauge movement, behavioral change, and residual effect post-separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Repeated interactions are not guaranteed safe. The entities' relationship evolves — what was resonance last time may be cascade this time. to repeat; the bond between entities is not fixed. Environmental pressure, Han-storms, and transformation events can turn allies into cascades. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -358,7 +358,7 @@ Miscast must be assessed as part of an entity network, not as an isolated profil
 | **The Burning Library** | May contain its original purpose. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Broken Promise** | Resonates with unfinished functions. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence.. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Establish individual behavioral baselines before attempting joint observation. You cannot measure resonance without first measuring silence. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -404,9 +404,9 @@ Some sorrows mourn destruction. Miscast mourns incompletion — the artifact for
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part.. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle., personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Review protocol: following any breach, Sorrow Tide, Ordeal, or interaction event, confirm gauge reading, Fracture risk, and containment integrity before the next work cycle; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - It moves toward broken objects but ignores intact replacements.

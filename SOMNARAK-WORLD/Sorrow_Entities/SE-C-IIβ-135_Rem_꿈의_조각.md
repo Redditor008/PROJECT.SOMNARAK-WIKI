@@ -54,7 +54,7 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 25% against Lament pressure; 15% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 357/357 out of 1000 |
+| **Sorrow Gauge [HP]** | 357/357 |
 | **Han Pressure [ATK]** | 9–21 per hit · Lament |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
@@ -95,7 +95,7 @@
 - Personnel who fail to resist the entity's pressure take damage to their composure and identity — and the gauge rises in response. **Clarity** and may increase the Sorrow Gauge.
 - Extended contact risks the entity's full documented effect — emotional erosion, physical damage, identity dissolution, or environmental corruption. the entity’s documented emotional, physical, identity, or environmental effect.
 - Every M.A.W. activation extracts a price from the wielder — memories, sensation, years — listed in the equipment section but felt in the field. recorded in the equipment section.
-- Without resolution, the entity defaults to its documented breach, activation, or expansion behavior — the sorrow finds its own outlet., the entity follows its breach, activation, or expansion behavior.
+- Without resolution, the entity defaults to its documented breach, activation, or expansion behavior — the sorrow finds its own outlet; the entity follows its breach, activation, or expansion behavior.
 
 ## Appearance
 **Physical Form:** A flickering shard of the Dream realm, changing between a room, a face, and a warm tear suspended in air.
@@ -121,7 +121,7 @@
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
-**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates., and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
+**Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Fragment formed from a dream that was abandoned before waking.
@@ -180,9 +180,9 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Rem rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Rem activates its primary resonance: Induces a restorative lucid reverie, purging cognitive confusion and restoring +20 Composure. Grants +10% resistance to Lament damage while equipped. |
-| 30 Seconds | The artifact was born from the loss of an imagined life that felt more real than the waking one.; the bearer begins perceiving echoes of a dreamer died before completing a cherished dream; its emotional residue broke loose near the dream gates.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the loss of an imagined life that felt more real than the waking one.; the bearer begins perceiving echoes of a dreamer died before completing a cherished dream; its emotional residue broke loose near the dream gates. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Rem begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Rem too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The dream is difficult to abandon; removing the shard induces drowsiness and -2 Movement Speed.. |
+| 2 Minutes | To wear Rem too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The dream is difficult to abandon; removing the shard induces drowsiness and -2 Movement Speed. |
 
 ### Escalation Notes
 
@@ -277,12 +277,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective., equipment condition, mission objective. |
+| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; equipment condition, mission objective. |
 | **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow.. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Observation Level:** 2 — Basic
@@ -301,8 +301,8 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Rem as an Object/Place with Dream manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-A-01, near Dream Gates. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Sleep, direct touch, or Dream-layer proximity. Effect: Manifests a fragment of a desired or lost dream. Duration: Until the dreamer wakes or the fragment fades. Risk: The user may prefer the dream to reality and refuse to wake.. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important., what remained stable, and which detail was most difficult to describe. In Rem's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Sleep, direct touch, or Dream-layer proximity. Effect: Manifests a fragment of a desired or lost dream. Duration: Until the dreamer wakes or the fragment fades. Risk: The user may prefer the dream to reality and refuse to wake. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In Rem's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -343,7 +343,7 @@ A shard floats beside the Dream Gates. A room forms around it, then a face, then
 
 **With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Lament presses hardest, where it recedes, where the Subject-Dream lets you breathe.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Sleep, direct touch, or Dream-layer proximity. Effect: Manifests a fragment of a desired or lost dream. Duration: Until the dreamer wakes or the fragment fades. Risk: The user may prefer the dream to reality and refuse to wake.. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Sleep, direct touch, or Dream-layer proximity. Effect: Manifests a fragment of a desired or lost dream. Duration: Until the dreamer wakes or the fragment fades. Risk: The user may prefer the dream to reality and refuse to wake. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
 
 **After departure:** After contact, the body holds what the mind files away. The Lament is gone, but the shape of it — where it pressed, where it hollowed — remains.
 
@@ -351,7 +351,7 @@ A shard floats beside the Dream Gates. A room forms around it, then a face, then
 
 Rem does not exist in isolation. Its recorded relationships with The Memory Weaver, Silence We Forgot We Made, The Lost Prince should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it.. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation., the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. When proximity begins, log: the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, the operational effect, and whether it persists after separation; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. An interaction that calmed the entities last cycle may provoke them this cycle. Sorrow Tides, Ordeals, and transformations change the variables. to repeat; entity dynamics shift under stress — Sorrow Tides, breaches, Ordeals, and transformations can invert a stable interaction overnight. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -364,7 +364,7 @@ Rem must be assessed as part of an entity network, not as an isolated profile. T
 | **Silence We Forgot We Made** | Fills the dream with unsaid words. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Lost Prince** | Shows him possible returns that never occurred. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it.. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Study each entity alone before bringing them into proximity. Baseline behavior must be established before interaction complicates it. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -411,9 +411,9 @@ Some sorrows mourn what was. Rem mourns what was imagined — the unlived life, 
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry.. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations., personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** After any breach, expansion, transformation, or anomaly: re-verify the gauge, containment field, personnel exposure log, and entity location before resuming operations; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The Fragment is never identical twice.

@@ -330,7 +330,7 @@ This is the healer who could not save herself. And this — all of this — is w
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry.. The Dawn's behavior, Confession Protocol, Mourner interactions, and transformation chain must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The Dawn's behavior, Confession Protocol, Mourner interactions, and transformation chain must be read together. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck the Kind Healer's blessing count, the Apostle Maker's conversion progress, and the city's overall sorrow index after every chain event, unusual interaction, or Hope Bearer activation.
 

@@ -22,7 +22,7 @@ The Flower formed from a place that was repeatedly abandoned. The burden of retu
 | Type / Manifestation | Subject — Can breach; mobile growth / Place-Void |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight (Black) / The Desolate — mobile |
-| Gauge / Pressure | 361/361 out of 1000; starts 35–50% / 8–20 per hit · Weight |
+| Gauge / Pressure | 361/361; starts 35–50% / 8–20 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground. |
 

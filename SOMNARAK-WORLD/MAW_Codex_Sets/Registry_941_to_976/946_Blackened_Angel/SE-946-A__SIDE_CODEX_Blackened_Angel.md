@@ -22,7 +22,7 @@ Blackened Angel was once a pure golden wishing-angel in a city alcove — a smal
 | Type / Manifestation | Object — Can breach via Transform/activation / Object-Tale |
 | Coherence / Potency | Entity (IV) — Grants every wish asked of it, and cannot refuse — but remembers each one, and has learned to doubt / Major (γ) |
 | Element / Location | Weight (Black) / The Tarnished Shrine, SECTOR-A-04, Zone A (Contained on-site) |
-| Gauge / Pressure | 640/640 out of 1000; starts 55–75% (it begins each cycle already heavy with old wishes) / 12–26 per hit · Weight |
+| Gauge / Pressure | 640/640; starts 55–75% (it begins each cycle already heavy with old wishes) / 12–26 per hit · Weight |
 | Observation | 3 — Monitored |
 | Formation event | A Collector named Kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. The angel could not refuse. With the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear. |
 

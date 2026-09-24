@@ -22,7 +22,7 @@ A featureless white Han-crystal fish of unknown origin, recorded in the same Zon
 | Type / Manifestation | Subject — Can breach / Subject-Body |
 | Coherence / Potency | Echo (II) — Hunts the way it always has, remembering nothing of why / Moderate (β) |
 | Element / Location | Weight (Black) / The Pale Puddle, SECTOR-B-09, Zone B |
-| Gauge / Pressure | 460/460 out of 1000; starts 40–60% / 8–18 per hit · Weight |
+| Gauge / Pressure | 460/460; starts 40–60% / 8–18 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | The puddle was flagged after the third fisherman vanished at its bank in a single season — each reaching for the small, easy silhouette, each seized and pulled under by a body far larger than the water should hold. The R.D. sealed the sector and began the record. |
 

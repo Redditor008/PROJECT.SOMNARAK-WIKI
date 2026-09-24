@@ -35,21 +35,21 @@ A minor-severity BLUE encounter: localized damage. Contain before the lament pre
 
 Standard response team, Level 2+ personnel.
 
-## Spawn Roster (Monster / Non-Crystal / Non-Humanoid)
+## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary BLUE First Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Non-Crystal, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary BLUE First Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Weeping Leviathan (Monster, Fragment-grade)
 
-**Physical Form:** Monster — A long serpentine creature fully twenty meters from snout to tail, its body composed of translucent blue-grey skin stretched over visible ribs and a pulsing spine. Through the skin, organs are faintly visible — dark, wet, slowly churning. It has no eyes; its head is a wide, soft mouth that opens to release a keening wail, and from the corners of that mouth, actual tears stream — not water, but condensed sorrow, viscous and faintly luminescent, evaporating into fog as they fall..
+**Physical Form:** Monster — A long serpentine creature fully twenty meters from snout to tail, its body composed of translucent blue-grey skin stretched over visible ribs and a pulsing spine. Through the skin, organs are faintly visible — dark, wet, slowly churning. It has no eyes; its head is a wide, soft mouth that opens to release a keening wail, and from the corners of that mouth, actual tears stream — not water, but condensed sorrow, viscous and faintly luminescent, evaporating into fog as they fall.
 
 | Stat | Value |
 |---|---|
-| **HP** | 120/120 out of 1000 |
+| **HP** | 120/120 |
 | **Han Pressure [ATK]** | 8–18 per hit · Lament |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Deals damage themed to its form and element. **[8-18 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It crashes its colossal waterlogged bulk across the chamber, unleashing a tidal surge of concentrated brine that sweeps away defensive formations. **[8–18 Deep Blue DMG [Deep Blue / Lament]]**
 
 ### The Weeping Sac (Non-Crystal, Fragment-grade)
 
@@ -57,7 +57,7 @@ Standard response team, Level 2+ personnel.
 
 | Stat | Value |
 |---|---|
-| **HP** | 150/150 out of 1000 |
+| **HP** | 150/150 |
 | **Han Pressure [ATK]** | 13–23 per hit · Lament |
 | **Spawn Count** | 2–2 |
 
@@ -65,15 +65,15 @@ Standard response team, Level 2+ personnel.
 
 ### The Sorrow Fog (Non-Humanoid, Fragment-grade)
 
-**Physical Form:** Non-Humanoid — A drifting bank of luminous blue mist that fills corridors and rooms — not a creature but a presence, the condensed grief of the Sorrow Tide made airborne. Within the fog, shapes move: half-formed, dissolving — faces, hands, the silhouettes of people who are not there. The mist is cold, damp, and clings to the skin like grief itself, and breathing it fills the lungs with an ache that has no physical source..
+**Physical Form:** Non-Humanoid — A drifting bank of luminous blue mist that fills corridors and rooms — not a creature but a presence, the condensed grief of the Sorrow Tide made airborne. Within the fog, shapes move: half-formed, dissolving — faces, hands, the silhouettes of people who are not there. The mist is cold, damp, and clings to the skin like grief itself, and breathing it fills the lungs with an ache that has no physical source.
 
 | Stat | Value |
 |---|---|
-| **HP** | 180/180 out of 1000 |
+| **HP** | 180/180 |
 | **Han Pressure [ATK]** | 18–28 per hit · Lament |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Deals damage themed to its form and element. **[18-28 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It billows outward in a dense, freezing mist of aerosolized brine, choking respiratory passages and inducing profound sorrow paralysis. **[18–28 Deep Blue DMG [Deep Blue / Lament]]**
 
 
 ### The Sobbing (Humanoid, Fragment-grade)
@@ -82,11 +82,11 @@ Standard response team, Level 2+ personnel.
 
 | Stat | Value |
 |---|---|
-| **HP** | 170/170 out of 1000 |
-| **Han Pressure [ATK]** | 12-20 per hit · Lament |
+| **HP** | 170/170 |
+| **Han Pressure [ATK]** | 12–20 per hit · Lament |
 | **Spawn Count** | 2 |
 
-**Ability:** Its weeping reaches a target, and the grief frays at the edges of the mind.. **[[12-20 Deep Blue DMG [Deep Blue / Lament]]]**
+**Ability:** Its weeping reaches a target, and the grief frays at the edges of the mind. **[12–20 Deep Blue DMG [Deep Blue / Lament]]**
 
 ### The Puddle (Amorphous, Fragment-grade)
 
@@ -94,11 +94,11 @@ Standard response team, Level 2+ personnel.
 
 | Stat | Value |
 |---|---|
-| **HP** | 150/150 out of 1000 |
-| **Han Pressure [ATK]** | 10-16 per hit · Lament |
+| **HP** | 150/150 |
+| **Han Pressure [ATK]** | 10–16 per hit · Lament |
 | **Spawn Count** | 1 |
 
-**Ability:** It swallows a foot, and the cold grief seeps up through the body.. **[[10-16 Deep Blue DMG [Deep Blue / Lament]]]**
+**Ability:** It swallows a foot, and the cold grief seeps up through the body. **[10–16 Deep Blue DMG [Deep Blue / Lament]]**
 
 ### Tear-Mites (Swarm, Fragment-grade)
 
@@ -106,11 +106,11 @@ Standard response team, Level 2+ personnel.
 
 | Stat | Value |
 |---|---|
-| **HP** | 30/30 out of 1000 |
-| **Han Pressure [ATK]** | 5-8 per hit · Lament |
+| **HP** | 30/30 |
+| **Han Pressure [ATK]** | 5–8 per hit · Lament |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They swarm, and the collective tiny grief of thousands eats at composure.. **[[5-8 Deep Blue DMG [Deep Blue / Lament]]]**
+**Ability:** They swarm, and the collective tiny grief of thousands eats at composure. **[5–8 Deep Blue DMG [Deep Blue / Lament]]**
 
 
 ## Trivia
@@ -121,5 +121,5 @@ Standard response team, Level 2+ personnel.
 
 - **Document ID:** ORDEAL-BLUE-First-II
 - **Author:** R.D. Field Records
-- **Date:** Year 4247
+- **Date:** Year 4238
 - **Classification:** Restricted

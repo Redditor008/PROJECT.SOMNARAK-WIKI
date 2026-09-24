@@ -22,7 +22,7 @@ The Relic formed from an object lost before its owner could say farewell. The em
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Void |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Void (Pale White) / The Desolate — mobile |
-| Gauge / Pressure | 198/198 out of 1000; starts 25–40% / 3–10 per hit · Void |
+| Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Void |
 | Observation | 1 — Initial |
 | Formation event | A traveler froze in the Desolate while carrying a relic no one else could identify. |
 

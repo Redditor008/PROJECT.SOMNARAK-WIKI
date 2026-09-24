@@ -22,7 +22,7 @@ The Lantern formed from the sorrow of collecting from others. The weight of taki
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
 | Coherence / Potency | Echo (II) — Repeats glowing / Moderate (β) |
 | Element / Location | Weight (Black) / Zone C, Collector's Row — ambient |
-| Gauge / Pressure | 386/386 out of 1000; starts 35–50% / 10–23 per hit · Weight |
+| Gauge / Pressure | 386/386; starts 35–50% / 10–23 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A Collector carried a lantern through debtors' homes and began seeing their burdens as light. |
 

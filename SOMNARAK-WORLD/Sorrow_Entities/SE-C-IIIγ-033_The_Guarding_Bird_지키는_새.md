@@ -53,7 +53,7 @@
 | **Speed** | 1.95 m/s |
 | **Resistance** | 35% against Void pressure; 25% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 693/693 out of 1000 |
+| **Sorrow Gauge [HP]** | 693/693 |
 | **Han Pressure [ATK]** | 14–33 per hit · Void |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
@@ -94,7 +94,7 @@
 - Failed resistance is a double loss: the worker takes the sorrow's full weight, and the entity absorbs their destabilisation. **Composure** and may increase the Sorrow Gauge.
 - Time is the entity's ally. Prolonged exposure allows the sorrow to accumulate in the worker, producing the effects the classification was written to prevent. the entity’s documented emotional, physical, identity, or environmental effect.
 - M.A.W. activation is an exchange: power for price. The cost is recorded; the payment is personal. recorded in the equipment section.
-- An unresolved encounter does not end; it transforms. The entity follows its breach pattern, and the sorrow finds the exit the work could not provide., the entity follows its breach, activation, or expansion behavior.
+- An unresolved encounter does not end; it transforms. The entity follows its breach pattern, and the sorrow finds the exit the work could not provide; the entity follows its breach, activation, or expansion behavior.
 
 ## Appearance
 **Primary Form:** A large bird with hard, angular wings shaped like shields. It guards objects, places, and memories that are already lost.
@@ -123,7 +123,7 @@
 | **Distinctive markers** | Spreads its wings to shelter personnel. Fights when its post is threatened. Treats protection as a duty that cannot end. |
 | **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
 
-**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action., and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
+**Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Bird formed from the sorrow of protecting what could not be saved.
@@ -234,12 +234,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective., equipment condition, mission objective. |
+| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; equipment condition, mission objective. |
 | **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for.. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Observation Level:** 3 — Advanced
@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Initial exposure** | The observer identifies The Guarding Bird as a Subject with Subject-Body manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-B-01, contained with the Three Birds. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate., what remained stable, and which detail was most difficult to describe. In The Guarding Bird's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | Document the delta: what was different after the encounter, what was unchanged, and what you still cannot articulate; what remained stable, and which detail was most difficult to describe. In The Guarding Bird's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity looks the way it does because of what happened to it, not because of what it intends to do to you. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -311,7 +311,7 @@ A wing passes over you like a roof. The air beneath it is still, quiet, and safe
 
 The Guarding Bird does not exist in isolation. Its recorded relationships with The Smothering Mother, The Orphaned Bell, The Hollow Choir, The Observing Bird, The Weighting Bird should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together.. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers., the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Document the interaction onset: what draws them together or pushes them apart, at what range, for how long, with what gauge and environmental effect, and what lingers; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Never assume yesterday's interaction predicts today's. The entities are sorrow given form, and sorrow does not hold still. to repeat; the interaction may destabilise under systemic stress — a breach, a Sorrow Tide, a transformation, an Ordeal — any of which can alter the resonance pattern. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -326,7 +326,7 @@ The Guarding Bird must be assessed as part of an entity network, not as an isola
 | **The Observing Bird** | Watches what it protects. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Weighting Bird** | Measures the cost of its protection. | Creates or reinforces a defensive boundary; record movement restriction and who receives protection. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together.. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Individual observation precedes interaction study. Know what each entity does alone before you observe what they do together. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -374,9 +374,9 @@ Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would n
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation.. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today., personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Containment is not a state; it is a process. After every incident, recheck the gauge, the field, the personnel, and the location. What was true yesterday may not be true today; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The Bird may guard an absence rather than a physical object.

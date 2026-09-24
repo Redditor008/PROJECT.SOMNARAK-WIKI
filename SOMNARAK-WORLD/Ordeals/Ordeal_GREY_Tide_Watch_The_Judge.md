@@ -16,7 +16,7 @@
 | **Spawn Count** | 1–3 entities per event |
 | **Mortality** | Mortal — permanently suppressible |
 | **Han Pressure [ATK]** | 40–113 per hit · Grudge (Crimson) |
-| **HP** | 670/670 out of 1000 per entity |
+| **HP** | 670/670 per entity |
 | **Instant Fracture** | Yes — on critical hits / special abilities |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
@@ -79,10 +79,10 @@ What makes The Judge terrifying is not its power. It is its *certainty.* The Jud
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Verdict* [**Debuff**] } | "The Judge stops. The blank face turns. One grey-crystal finger rises — and points." | [The Judge identifies a target and delivers a silent verdict. The pointed-at feels every wrong they have committed surface at once.] | *Target takes heavy Grudge pressure and is marked 'Guilty' — taking double damage from all sources for 3 turns.* **[35-50 Crimson DMG [Crimson / Grudge]]** | When The Judge selects a target. |
-| { *The Scale* [**Field**] } | "It raises the balance scale, and the pans tip — one dark, one light — as the sins of everyone in the room are weighed at once." | [The scale pulses; every person on the floor feels the weight of their accumulated guilt settle onto their shoulders like a physical burden.] | *All personnel lose Resolve; limbs grow heavy, movement slows, the air thickens with shared shame.* **[15-20 Crimson DMG [Crimson / Grudge]]** | When the Sorrow Gauge passes 60%. |
-| { *Court* [**Expansion**] } | "The Judge gestures, and from the grey crystal at its feet, three smaller figures rise — bailiffs, faceless, armed, silent." | [The Judge summons 3 Grey First Watch fragments as bailiffs to engage personnel while it continues to advance and deliver verdicts.] | *Bailiffs engage separately, splitting the team's attention; each is a Fragment-grade Grudge entity.* **[18-28 Crimson DMG [Crimson / Grudge]]** | When The Judge reaches 50% HP. |
-| { *Execution* [**Ultimate**] } | "The blade rises — slowly, inevitably, the way a sentence is carried out — and falls on the Guilty." | [The Judge brings its blade down on a marked target. The blade does not cut flesh. It cuts the will to continue.] | *A Somnarak instant-kill-grade strike. Deals catastrophic Grudge damage; only Echo-Core-level personnel with maximum-grade M.A.W. can survive. Survivors are permanently marked (a faint grey handprint on the chest).* **[60-100 Crimson DMG [Crimson / Grudge] (Instant Fracture on hit)]** | When a 'Guilty'-marked target is within range. |
+| { *The Verdict* [**Debuff**] } | "The Judge stops. The blank face turns. One grey-crystal finger rises — and points." | [The Judge identifies a target and delivers a silent verdict. The pointed-at feels every wrong they have committed surface at once.] | *Target takes heavy Grudge pressure and is marked 'Guilty' — taking double damage from all sources for 3 turns.* **[35–50 Crimson DMG [Crimson / Grudge]]** | When The Judge selects a target. |
+| { *The Scale* [**Field**] } | "It raises the balance scale, and the pans tip — one dark, one light — as the sins of everyone in the room are weighed at once." | [The scale pulses; every person on the floor feels the weight of their accumulated guilt settle onto their shoulders like a physical burden.] | *All personnel lose Resolve; limbs grow heavy, movement slows, the air thickens with shared shame.* **[15–20 Crimson DMG [Crimson / Grudge]]** | When the Sorrow Gauge passes 60%. |
+| { *Court* [**Expansion**] } | "The Judge gestures, and from the grey crystal at its feet, three smaller figures rise — bailiffs, faceless, armed, silent." | [The Judge summons 3 Grey First Watch fragments as bailiffs to engage personnel while it continues to advance and deliver verdicts.] | *Bailiffs engage separately, splitting the team's attention; each is a Fragment-grade Grudge entity.* **[18–28 Crimson DMG [Crimson / Grudge]]** | When The Judge reaches 50% HP. |
+| { *Execution* [**Ultimate**] } | "The blade rises — slowly, inevitably, the way a sentence is carried out — and falls on the Guilty." | [The Judge brings its blade down on a marked target. The blade does not cut flesh. It cuts the will to continue.] | *A Somnarak instant-kill-grade strike. Deals catastrophic Grudge damage; only Echo-Core-level personnel with maximum-grade M.A.W. can survive. Survivors are permanently marked (a faint grey handprint on the chest).* **[60–100 Crimson DMG [Crimson / Grudge] (Instant Fracture on hit)]** | When a 'Guilty'-marked target is within range. |
 
 ### Battle Phases
 
@@ -99,7 +99,7 @@ What makes The Judge terrifying is not its power. It is its *certainty.* The Jud
 
 ## Suppression Protocol
 
-The Judge has extremely high HP (670/670 out of 1000) and heavy natural armour. Standard suppression requires a coordinated three-team approach:
+The Judge has extremely high HP (670/670) and heavy natural armour. Standard suppression requires a coordinated three-team approach:
 
 - **Team 1 (Interrupt):** Dedicated to watching for The Verdict. The moment The Judge raises its hand to point, this team staggers or stuns it — interrupting the verdict before it lands. This is the single most important role; without interrupts, the marked-target cycle begins and Execution follows.
 - **Team 2 (Bailiffs):** Dispatches summoned bailiffs quickly. Bailiffs are Fragment-grade (low HP, moderate pressure) but their numbers split focus and create openings for Verdicts.
@@ -179,7 +179,7 @@ The Judge is the most directly lethal Tide Watch Ordeal in the system. It does n
 **Classification:** GREY Tide Watch — Catastrophic-grade Ordeal
 **Spawn Condition:** Sorrow Tide only; Tide Watch phase
 **Spawn Count:** 1–3 entities per event
-**HP:** 670/670 out of 1000 per entity
+**HP:** 670/670 per entity
 **Han Pressure [ATK]:** 40–113 per hit · Grudge (Crimson)
 **Threat Assessment:** Catastrophic. The most directly lethal Tide Watch Ordeal. Does not corrupt or erase — simply kills with absolute moral certainty. Instant Fracture on Execution. Requires Echo-Core command, three-team coordinated suppression, and mandatory evacuation of all non-combat personnel in its path.
 **Suppression Requirements:**
@@ -196,9 +196,9 @@ The Judge is the most directly lethal Tide Watch Ordeal in the system. It does n
 
 
 
-## Spawn Roster (Monster / Machine / Non-Humanoid)
+## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary GREY Tide Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Machine, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary GREY Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Fury Hound (Monster, Tide-Spawn-grade)
 
@@ -206,11 +206,11 @@ The Judge is the most directly lethal Tide Watch Ordeal in the system. It does n
 
 | Stat | Value |
 |---|---|
-| **HP** | 500/500 out of 1000 |
+| **HP** | 500/500 |
 | **Han Pressure [ATK]** | 35–60 per hit · Grudge |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered.. **[35-60 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[35–60 Crimson DMG [Crimson / Grudge]]**
 
 ### The Iron Sentinel (Machine, Tide-Spawn-grade)
 
@@ -218,23 +218,23 @@ The Judge is the most directly lethal Tide Watch Ordeal in the system. It does n
 
 | Stat | Value |
 |---|---|
-| **HP** | 530/530 out of 1000 |
+| **HP** | 530/530 |
 | **Han Pressure [ATK]** | 40–65 per hit · Grudge |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It advances with the grinding patience of a machine that has been told to judge, and does not know how to stop.. **[40-65 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It advances with the grinding patience of a machine that has been told to judge, and does not know how to stop. **[40–65 Crimson DMG [Crimson / Grudge]]**
 
 ### The Blade Storm (Non-Humanoid, Tide-Spawn-grade)
 
-**Physical Form:** Non-Humanoid — A swirling vortex of spinning blades — hundreds of forged-iron and resentment-steel shards orbiting a core of compressed fury, three meters across. The blades are not uniform: some are sword-fragments, some are nail-like spikes, some are twisted rebar, some are the ragged edges of broken tools, all spinning in a deafening ring. There is no body at the centre — only the anger that holds the metal in orbit, and the metal does the cutting..
+**Physical Form:** Non-Humanoid — A swirling vortex of spinning blades — hundreds of forged-iron and resentment-steel shards orbiting a core of compressed fury, three meters across. The blades are not uniform: some are sword-fragments, some are nail-like spikes, some are twisted rebar, some are the ragged edges of broken tools, all spinning in a deafening ring. There is no body at the centre — only the anger that holds the metal in orbit, and the metal does the cutting.
 
 | Stat | Value |
 |---|---|
-| **HP** | 560/560 out of 1000 |
+| **HP** | 560/560 |
 | **Han Pressure [ATK]** | 45–70 per hit · Grudge |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Deals damage themed to its form and element. **[45-70 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[45–70 Crimson DMG [Crimson / Grudge]]**
 
 
 ## Trivia
@@ -251,6 +251,6 @@ The Judge is the most directly lethal Tide Watch Ordeal in the system. It does n
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 
-**Date:** Year 4220
+**Date:** Year 4238 — Archive Retrieval Epoch
 
 **Classification:** Restricted

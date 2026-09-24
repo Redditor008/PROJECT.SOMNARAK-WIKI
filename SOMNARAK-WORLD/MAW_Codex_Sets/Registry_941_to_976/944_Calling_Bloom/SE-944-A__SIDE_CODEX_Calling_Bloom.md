@@ -22,7 +22,7 @@ Calling Bloom formed when a curious child touched a watching flower at the heart
 | Type / Manifestation | Subject — Can breach / Subject-Tale |
 | Coherence / Potency | Fragment (III) — Wanders the wood, calling a name that was used to lure her there / Moderate (β) |
 | Element / Location | Lament (Deep Blue) / The Muttering Wood, beyond SECTOR-E-02 (Uncontained / Managed) |
-| Gauge / Pressure | 480/480 out of 1000; starts 45–65% / 8–19 per hit · Lament |
+| Gauge / Pressure | 480/480; starts 45–65% / 8–19 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | Nari, a wilderness scavenger child, heard what she believed was her brother Seojun crying for help deep in the wood. She ran past the safe outskirts, past the mushroom-beds she knew, all the way to the clearing at the wood's centre — and found no brother, only a single small flower with an eye. Curious, she touched it. She was gone before her hand came away. |
 

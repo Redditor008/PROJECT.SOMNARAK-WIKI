@@ -1,0 +1,27 @@
+# PROJECT SOMNARAK // BANNED STRINGS & DEFECT PATTERN REGISTRY
+# Lines starting with # are comments. Patterns are evaluated case-insensitively.
+
+# 1. Structural Boilerplate & Generator Stubs
+themed to its form and element
+out of 1000
+HP 120/120 out of 1000
+
+# 2. Semantic Seams & Revision Splices
+cured.,
+.,
+,.
+different tiers. the entity’s classification
+different tiers. the entity's classification
+. or fed the entity
+. before the next assignment
+
+# 3. Double Punctuation
+(?<!\.)\.\.(?!\.)
+hungry..
+
+# 4. Outdated / Anachronistic Dates
+Year 4247
+
+# 5. Verbatim PM / LoR Vocabulary in Canonical Wings (enforced via seam_lint.py)
+# Note: Allowed only in whitelisted comparative documents per PM_VOCAB_POLICY.md
+Reception, Key Page, or Floor Realization

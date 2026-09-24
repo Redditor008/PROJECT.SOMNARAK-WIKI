@@ -35,21 +35,21 @@ A minor-severity PALE encounter: localized damage. Contain before the void press
 
 Standard response team, Level 2+ personnel.
 
-## Spawn Roster (Monster / Non-Crystal / Non-Humanoid)
+## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary PALE First Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Non-Crystal, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary PALE First Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Eyeless Hound (Monster, Fragment-grade)
 
-**Physical Form:** Monster — A pale beast, lean and silent, its skin like wet parchment stretched too tight over visible bone — every rib, every joint, every ridge of the skull visible through the translucent white membrane. It has no eyes, no mouth, no ears — just the smooth tight skin where features should be, and yet it tracks its prey with perfect precision, drawn not by sight or scent but by the presence of identity, which it seeks to erase. Its paws leave no prints. Where it passes, the floor is faintly faded..
+**Physical Form:** Monster — A pale beast, lean and silent, its skin like wet parchment stretched too tight over visible bone — every rib, every joint, every ridge of the skull visible through the translucent white membrane. It has no eyes, no mouth, no ears — just the smooth tight skin where features should be, and yet it tracks its prey with perfect precision, drawn not by sight or scent but by the presence of identity, which it seeks to erase. Its paws leave no prints. Where it passes, the floor is faintly faded.
 
 | Stat | Value |
 |---|---|
-| **HP** | 120/120 out of 1000 |
+| **HP** | 120/120 |
 | **Han Pressure [ATK]** | 8–18 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Deals damage themed to its form and element. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 ### The Ash-Walker (Non-Crystal, Fragment-grade)
 
@@ -57,7 +57,7 @@ Standard response team, Level 2+ personnel.
 
 | Stat | Value |
 |---|---|
-| **HP** | 150/150 out of 1000 |
+| **HP** | 150/150 |
 | **Han Pressure [ATK]** | 13–23 per hit · Void |
 | **Spawn Count** | 2–2 |
 
@@ -69,11 +69,11 @@ Standard response team, Level 2+ personnel.
 
 | Stat | Value |
 |---|---|
-| **HP** | 180/180 out of 1000 |
+| **HP** | 180/180 |
 | **Han Pressure [ATK]** | 18–28 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It simply is, and what it touches, isn't.. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It simply is, and what it touches, isn't. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 
 ### The Faded (Humanoid, Fragment-grade)
@@ -82,11 +82,11 @@ Standard response team, Level 2+ personnel.
 
 | Stat | Value |
 |---|---|
-| **HP** | 160/160 out of 1000 |
+| **HP** | 160/160 |
 | **Han Pressure [ATK]** | 1 unit per hit · Void |
 | **Spawn Count** | 2 |
 
-**Ability:** It touches, and a little of who you are smudges away.. **[[1 Pale White DMG [Pale White / Void] (5% Max HP)]]**
+**Ability:** It touches, and a little of who you are smudges away. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 ### The Dust-Drift (Amorphous, Fragment-grade)
 
@@ -94,11 +94,11 @@ Standard response team, Level 2+ personnel.
 
 | Stat | Value |
 |---|---|
-| **HP** | 150/150 out of 1000 |
+| **HP** | 150/150 |
 | **Han Pressure [ATK]** | 1 unit per hit · Void |
 | **Spawn Count** | 1 |
 
-**Ability:** It passes through, and a layer of what was there simply ceases to be.. **[[1 Pale White DMG [Pale White / Void] (5% Max HP)]]**
+**Ability:** It passes through, and a layer of what was there simply ceases to be. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 ### Ash-Moths (Swarm, Fragment-grade)
 
@@ -106,11 +106,11 @@ Standard response team, Level 2+ personnel.
 
 | Stat | Value |
 |---|---|
-| **HP** | 25/25 out of 1000 |
+| **HP** | 25/25 |
 | **Han Pressure [ATK]** | 1 unit per hit · Void |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They land, and where each one crumbles a small piece of the self goes with it.. **[[1 Pale White DMG [Pale White / Void] (5% Max HP)]]**
+**Ability:** They land, and where each one crumbles a small piece of the self goes with it. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 
 ## Trivia
@@ -121,5 +121,5 @@ Standard response team, Level 2+ personnel.
 
 - **Document ID:** ORDEAL-PALE-First-II
 - **Author:** R.D. Field Records
-- **Date:** Year 4247
+- **Date:** Year 4238
 - **Classification:** Restricted

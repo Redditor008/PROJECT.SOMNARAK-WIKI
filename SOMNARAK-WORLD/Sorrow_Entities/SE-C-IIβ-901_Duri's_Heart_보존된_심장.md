@@ -54,7 +54,7 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 30% against Weight pressure; 21% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 448/448 out of 1000 |
+| **Sorrow Gauge [HP]** | 448/448 |
 | **Han Pressure [ATK]** | 14–26 per hit · Weight |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
@@ -190,9 +190,9 @@ The Weight pressure is real and measurable, but the gauge decrease from Videreha
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Duri's Heart rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Duri's Heart activates its primary resonance: Projects concentrated Weight sorrow resonance across the immediate perimeter. Grants +10% resistance to Weight damage while equipped. |
-| 30 Seconds | The artifact was born from the accumulated grief of unacknowledged weight.; the bearer begins perceiving echoes of a crisis in the city where weight went unaddressed.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the accumulated grief of unacknowledged weight.; the bearer begins perceiving echoes of a crisis in the city where weight went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Duri's Heart begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Duri's Heart too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Prolonged contact causes cognitive and emotional fatigue.. |
+| 2 Minutes | To wear Duri's Heart too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Prolonged contact causes cognitive and emotional fatigue. |
 
 ### Escalation Notes
 

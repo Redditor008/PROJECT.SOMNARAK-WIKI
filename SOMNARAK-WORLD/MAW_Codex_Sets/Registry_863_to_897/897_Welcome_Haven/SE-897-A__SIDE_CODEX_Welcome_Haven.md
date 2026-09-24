@@ -22,7 +22,7 @@ The entity formed from a wall that failed to protect the people behind it. The f
 | Type / Manifestation | Subject — Can breach / Subject-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Grudge (Crimson) / Zone E, Border region |
-| Gauge / Pressure | 910/910 out of 1000; starts 60–80% / 29–64 per hit · Grudge |
+| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A border wall collapsed during an Outside Sorrow surge, leaving residents exposed. |
 

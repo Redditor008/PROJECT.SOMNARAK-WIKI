@@ -22,7 +22,7 @@ The entity formed from a bridge collapse remembered by one survivor. The burden 
 | Type / Manifestation | Subject — Can breach / Subject-Lament |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight (Black) / Zone B, deep tunnels |
-| Gauge / Pressure | 415/415 out of 1000; starts 35–50% / 10–23 per hit · Weight |
+| Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear. |
 

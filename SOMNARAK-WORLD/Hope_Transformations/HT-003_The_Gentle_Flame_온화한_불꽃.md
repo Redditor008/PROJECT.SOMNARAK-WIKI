@@ -219,7 +219,7 @@ Later, when the child's fever finally broke, Sooah wept—not for the child she 
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation.. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Flame heals the living; it does not restore the dead, and it will not be used as a reason to exhaust the one who carries it. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Flame heals the living; it does not restore the dead, and it will not be used as a reason to exhaust the one who carries it. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck bond status, Bearer pain-transfer accumulation, mass-casualty exposure, and expansion events after every sustained deployment. A Hope Bearer record describes a living bond, not a permanently stable condition.
 

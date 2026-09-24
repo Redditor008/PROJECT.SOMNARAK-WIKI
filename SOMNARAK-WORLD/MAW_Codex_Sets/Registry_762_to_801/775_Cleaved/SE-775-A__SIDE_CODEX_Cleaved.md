@@ -22,7 +22,7 @@ The Tower formed from a structure that was never completed. The grief of a futur
 | Type / Manifestation | Subject — Can breach / Subject-Grudge |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Void (Pale White) / Zone B, Old Lament |
-| Gauge / Pressure | 373/373 out of 1000; starts 35–50% / 8–18 per hit · Void |
+| Gauge / Pressure | 373/373; starts 35–50% / 8–18 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | A tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan. |
 

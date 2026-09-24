@@ -54,7 +54,7 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 30% against Weight pressure; 20% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 435/435 out of 1000 |
+| **Sorrow Gauge [HP]** | 435/435 |
 | **Han Pressure [ATK]** | 10–23 per hit · Weight |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
@@ -95,7 +95,7 @@
 - A worker who cannot hold against the entity's sorrow becomes a conduit — pressure flows through them and back into the gauge. **Resolve** and may increase the Sorrow Gauge.
 - The entity's documented effects intensify with duration. What is manageable in a five-minute cycle becomes dangerous in fifteen. the entity’s documented emotional, physical, identity, or environmental effect.
 - Each M.A.W. use debits the wielder — in composure, in memory, in something the grade does not measure. recorded in the equipment section.
-- Without resolution the sorrow does not dissipate; it breaches. The entity follows the escalation recorded in its file., the entity follows its breach, activation, or expansion behavior.
+- Without resolution the sorrow does not dissipate; it breaches. The entity follows the escalation recorded in its file; the entity follows its breach, activation, or expansion behavior.
 
 ## Appearance
 **Physical Form:** A massive chain made from crystallized debts. Every link carries a distinct obligation.
@@ -121,7 +121,7 @@
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle., and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Chain formed from the weight of obligation.
@@ -180,9 +180,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Debt Chain rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping The Debt Chain activates its primary resonance: Reveals the obligation's history and connections. Grants +10% resistance to Weight damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of owing something that cannot be paid.; the bearer begins perceiving echoes of collector ledgers became too numerous to store; every obligation crystallized into a connected link.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the grief of owing something that cannot be paid.; the bearer begins perceiving echoes of collector ledgers became too numerous to store; every obligation crystallized into a connected link. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within The Debt Chain begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear The Debt Chain too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may inherit the emotional weight of the debt.. |
+| 2 Minutes | To wear The Debt Chain too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may inherit the emotional weight of the debt. |
 
 ### Escalation Notes
 
@@ -269,12 +269,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal., equipment condition, mission objective. |
+| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
 | **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound.. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Observation Level:** 2 — Basic
@@ -294,7 +294,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Initial exposure** | The observer identifies The Debt Chain as an Object/Place with Object-Weight manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at SECTOR-C-01, Collector's Row. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touching a link while naming its debtor. Effect: Reveals the obligation's history and connections. Duration: Until the link is released. Risk: The worker may inherit the emotional weight of the debt. Tool Use Profile — I-Relic Operational Rule: The relic. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data., what remained stable, and which detail was most difficult to describe. In The Debt Chain's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In The Debt Chain's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -343,7 +343,7 @@ The Chain hangs beyond the Collector's Row, link after link disappearing into sh
 
 The Debt Chain does not exist in isolation. Its recorded relationships with The Inherited Debt, The Debt Wall, The Debt Scale should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study.. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect., the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -356,7 +356,7 @@ The Debt Chain must be assessed as part of an entity network, not as an isolated
 | **The Debt Wall** | The Wall is built from Chain links. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Debt Scale** | Measures individual links. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study.. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -402,9 +402,9 @@ Some sorrows are about what is owed. The Debt Chain is about what cannot be paid
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening.. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture., personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The Chain has no visible end.

@@ -22,7 +22,7 @@ The Soldier formed from a border soldier — real name erased from the Archive �
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Echo (II) — Repeats a single pattern: seeking acknowledgment / Moderate (β) — Manageable |
 | Element / Location | Grudge (Crimson) / SECTOR-B-02, Zone B — contained corridor 7-C |
-| Gauge / Pressure | 441/441 out of 1000; starts 35–50% / 8–19 per hit · Grudge |
+| Gauge / Pressure | 441/441; starts 35–50% / 8–19 per hit · Grudge |
 | Observation | 4 — Mastered |
 | Formation event | He was brave, loyal, and devoted — twenty years guarding the border. Then the city erased him: his name removed from the rolls, his service struck from the records, his sacrifice unacknowledged. He was a hero no one honored. The Crack began as a cold spot in his heart and spread over five years — from heart to mind, from mind to memory, from memory to identity — until he crystallized into a phantom warrior who stands at attention, waiting for someone to say: *"I remember you."* |
 

@@ -22,7 +22,7 @@ The Scream formed from pleas for help that no one heard. The despair of screamin
 | Type / Manifestation | Subject — Can breach / Subject-Void |
 | Coherence / Potency | Echo (II) — Repeats screaming in silence / Moderate (β) |
 | Element / Location | Void (Pale White) / Zone B, Old Lament — ambient |
-| Gauge / Pressure | 415/415 out of 1000; starts 35–50% / 10–23 per hit · Void |
+| Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | Citizens called from collapsed structures and Fracture zones; their cries crystallized after rescue failed. |
 

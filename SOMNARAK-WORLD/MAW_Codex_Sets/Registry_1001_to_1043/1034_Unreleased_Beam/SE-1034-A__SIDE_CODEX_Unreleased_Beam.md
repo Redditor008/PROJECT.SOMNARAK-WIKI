@@ -22,7 +22,7 @@ The Weight formed from responsibility carried unconsciously. The grief of doing 
 | Type / Manifestation | Subject — Can breach / Subject-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Weight (Black) / Zone B, deep tunnels |
-| Gauge / Pressure | 809/809 out of 1000; starts 60–80% / 29–63 per hit · Weight |
+| Gauge / Pressure | 809/809; starts 60–80% / 29–63 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A tunnel worker died beneath an unfinished structure while still believing the collapse was their responsibility. |
 

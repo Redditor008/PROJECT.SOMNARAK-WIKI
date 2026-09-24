@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Object — Can breach via Transform / Object-Mind |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament (Deep Blue) / SECTOR-C-904, contained |
-| Gauge / Pressure | 404/404 out of 1000; starts 35–50% / 17–23 per hit · Lament |
+| Gauge / Pressure | 404/404; starts 35–50% / 17–23 per hit · Lament |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

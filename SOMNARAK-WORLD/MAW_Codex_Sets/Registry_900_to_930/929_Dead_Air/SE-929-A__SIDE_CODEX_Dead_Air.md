@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Spirit |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Weight (Black) / SECTOR-N-929, contained |
-| Gauge / Pressure | 458/458 out of 1000; starts 35–50% / 17–29 per hit · Weight |
+| Gauge / Pressure | 458/458; starts 35–50% / 17–29 per hit · Weight |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

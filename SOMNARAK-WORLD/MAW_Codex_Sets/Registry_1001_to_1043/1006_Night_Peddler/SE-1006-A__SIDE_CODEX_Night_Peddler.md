@@ -22,7 +22,7 @@ The Stall formed from the grief of merchants whose livelihoods vanished as the c
 | Type / Manifestation | Object/Place — Can breach via Transform; appears and disappears / Object-Void |
 | Coherence / Potency | Echo (II) — Repeats appearing overnight / Minor (α) — Low danger |
 | Element / Location | Void (Pale White) / Zone B, Forgotten Market — mobile manifestation |
-| Gauge / Pressure | 184/184 out of 1000; starts 25–40% / 2–8 per hit · Void |
+| Gauge / Pressure | 184/184; starts 25–40% / 2–8 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | The Forgotten Market emptied as districts shifted. The merchants' abandoned hopes crystallized into a stall that sells what was lost. |
 

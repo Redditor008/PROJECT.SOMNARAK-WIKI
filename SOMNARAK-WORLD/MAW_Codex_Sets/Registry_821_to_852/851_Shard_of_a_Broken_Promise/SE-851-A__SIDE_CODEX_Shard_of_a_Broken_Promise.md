@@ -22,7 +22,7 @@ The Shard formed from a promise broken while the promised object remained intact
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Void |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament (Deep Blue) / Zone A, Alpha Tree vault |
-| Gauge / Pressure | 910/910 out of 1000; starts 60–80% / 29–64 per hit · Lament |
+| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived. |
 

@@ -54,7 +54,7 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 35% against Lament pressure; 25% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 653/653 out of 1000 |
+| **Sorrow Gauge [HP]** | 653/653 |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
@@ -95,7 +95,7 @@
 - When a worker breaks under the entity's pressure, the gauge climbs and the worker Fractures — two failures for the price of one. **Clarity** and may increase the Sorrow Gauge.
 - Sustained proximity activates the entity's secondary effects — the ones the short-cycle file warns about but the field rarely sees until too late. the entity’s documented emotional, physical, identity, or environmental effect.
 - Wielding a M.A.W. means accepting the toll: the entity's sorrow flows backward through the equipment into the user. recorded in the equipment section.
-- When resolution fails, the entity's containment story continues on its own terms — through breach, expansion, or the documented escalation., the entity follows its breach, activation, or expansion behavior.
+- When resolution fails, the entity's containment story continues on its own terms — through breach, expansion, or the documented escalation; the entity follows its breach, activation, or expansion behavior.
 
 ## Appearance
 **Physical Form:** A crystallized sorrow that drifts like a translucent soul through the Alpha Tree vaults.
@@ -121,7 +121,7 @@
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
-**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates., and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
+**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Soul formed from an Outside Sorrow traveler who never found a place to rest.
@@ -233,9 +233,9 @@ The escalation pattern is specific to Driftglass: it is not a generic breach eve
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Driftglass rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Driftglass activates its primary resonance: Personnel feel loss of direction and belonging. Grants +10% resistance to Lament damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of wandering after every destination has become unfamiliar.; the bearer begins perceiving echoes of a desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the grief of wandering after every destination has become unfamiliar.; the bearer begins perceiving echoes of a desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Driftglass begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Driftglass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Misuse increases emotional strain and may destabilize the operator.. |
+| 2 Minutes | To wear Driftglass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Misuse increases emotional strain and may destabilize the operator. |
 
 ### Escalation Notes
 
@@ -319,12 +319,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target., equipment condition, mission objective. |
+| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
 | **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis.. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 
 ## 관찰 기록 (Observation Log)
 
@@ -345,7 +345,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Initial exposure** | The observer identifies Driftglass as an Object/Place with Object-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone A, Alpha Tree. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The recorded trigger and response begin with: Tool Use Profile — I-Relic Operational Rule: The relic remains active while attached to the operator. The tool is not a general-purpose replacement for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan. Log and Method. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description., what remained stable, and which detail was most difficult to describe. In Driftglass's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In Driftglass's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -394,7 +394,7 @@ A translucent soul passes through the vault. It leaves no footsteps, only a fain
 
 Driftglass does not exist in isolation. Its recorded relationships with The Exile, The Forgotten Shadow, The Sorrow River should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space.. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart., the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -407,7 +407,7 @@ Driftglass must be assessed as part of an entity network, not as an isolated pro
 | **The Forgotten Shadow** | Both wander without a stable identity. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Sorrow River** | Its memories drift toward the underground current. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space.. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -454,9 +454,9 @@ Some sorrows mourn a home. Driftglass mourns the having-none — the traveler's 
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system.. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file., personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - It has no physical body despite its object classification.

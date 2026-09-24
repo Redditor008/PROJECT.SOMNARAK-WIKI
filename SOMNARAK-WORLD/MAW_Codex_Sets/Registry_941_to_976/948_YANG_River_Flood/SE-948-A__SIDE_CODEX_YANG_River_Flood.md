@@ -22,7 +22,7 @@ A metre-tall carving of a coiling dragon in an unknown white stone, found at the
 | Type / Manifestation | Object — Can breach via Transform/activation / Object-Spirit |
 | Coherence / Potency | Fragment (III) — Feels everything, and cannot lift from the earth / Major (γ) |
 | Element / Location | Lament (Deep Blue) / The Dry Riverbed Vault, SECTOR-C-07, Zone C |
-| Gauge / Pressure | 600/600 out of 1000; starts 50–70% / 12–24 per hit · Lament |
+| Gauge / Pressure | 600/600; starts 50–70% / 12–24 per hit · Lament |
 | Observation | 3 — Monitored |
 | Formation event | Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record. |
 

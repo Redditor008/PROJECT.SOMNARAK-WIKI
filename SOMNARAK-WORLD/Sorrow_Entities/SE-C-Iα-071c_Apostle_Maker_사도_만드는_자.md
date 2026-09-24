@@ -56,7 +56,7 @@
 | **Speed** | 2.50 m/s |
 | **Resistance** | 40% against Mixed pressure; 25% against single-element types |
 | **Activation threshold** | Twelfth conversion sequence initiated |
-| **Sorrow Gauge [HP]** | 680/680 out of 1000 |
+| **Sorrow Gauge [HP]** | 680/680 |
 | **Han Pressure [ATK]** | 18–35 per hit · Mixed |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
@@ -253,7 +253,7 @@ The healer learned to command. And the command is almost finished. One more word
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room.. The entity's conversion count, wing color, and chain direction must be monitored continuously. If the wing color shifts fully to violet, initiate emergency protocols for the Dawn of Mourning.
+**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity's conversion count, wing color, and chain direction must be monitored continuously. If the wing color shifts fully to violet, initiate emergency protocols for the Dawn of Mourning.
 
 ## Trivia
 

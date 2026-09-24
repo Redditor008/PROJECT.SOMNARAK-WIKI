@@ -15,7 +15,7 @@
 | **Spawn Count** | 8–12 entities |
 | **Mortality** | Mortal — permanently suppressible |
 | **Han Pressure [ATK]** | 3–9 per hit · Grudge (Crimson) |
-| **HP** | 50/50 out of 1000 per entity |
+| **HP** | 50/50 per entity |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
 
@@ -48,9 +48,9 @@ Alert Level 1. Standard combat team with M.A.W. weapons.
 
 
 
-## Spawn Roster (Monster / Machine / Non-Humanoid)
+## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary GREY First Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Machine, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary GREY First Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Fury Hound (Monster, Fragment-grade)
 
@@ -58,11 +58,11 @@ Alert Level 1. Standard combat team with M.A.W. weapons.
 
 | Stat | Value |
 |---|---|
-| **HP** | 120/120 out of 1000 |
+| **HP** | 120/120 |
 | **Han Pressure [ATK]** | 8–18 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered.. **[8-18 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[8–18 Crimson DMG [Crimson / Grudge]]**
 
 ### The Iron Sentinel (Machine, Fragment-grade)
 
@@ -70,23 +70,23 @@ Alert Level 1. Standard combat team with M.A.W. weapons.
 
 | Stat | Value |
 |---|---|
-| **HP** | 150/150 out of 1000 |
+| **HP** | 150/150 |
 | **Han Pressure [ATK]** | 13–23 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It advances with the grinding patience of a machine that has been told to judge, and does not know how to stop.. **[13-23 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It advances with the grinding patience of a machine that has been told to judge, and does not know how to stop. **[13–23 Crimson DMG [Crimson / Grudge]]**
 
 ### The Blade Storm (Non-Humanoid, Fragment-grade)
 
-**Physical Form:** Non-Humanoid — A swirling vortex of spinning blades — hundreds of forged-iron and resentment-steel shards orbiting a core of compressed fury, three meters across. The blades are not uniform: some are sword-fragments, some are nail-like spikes, some are twisted rebar, some are the ragged edges of broken tools, all spinning in a deafening ring. There is no body at the centre — only the anger that holds the metal in orbit, and the metal does the cutting..
+**Physical Form:** Non-Humanoid — A swirling vortex of spinning blades — hundreds of forged-iron and resentment-steel shards orbiting a core of compressed fury, three meters across. The blades are not uniform: some are sword-fragments, some are nail-like spikes, some are twisted rebar, some are the ragged edges of broken tools, all spinning in a deafening ring. There is no body at the centre — only the anger that holds the metal in orbit, and the metal does the cutting.
 
 | Stat | Value |
 |---|---|
-| **HP** | 180/180 out of 1000 |
+| **HP** | 180/180 |
 | **Han Pressure [ATK]** | 18–28 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Deals damage themed to its form and element. **[18-28 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[18–28 Crimson DMG [Crimson / Grudge]]**
 
 
 ## Trivia
@@ -102,6 +102,6 @@ Alert Level 1. Standard combat team with M.A.W. weapons.
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 
-**Date:** Year 4220
+**Date:** Year 4238 — Archive Retrieval Epoch
 
 **Classification:** Restricted

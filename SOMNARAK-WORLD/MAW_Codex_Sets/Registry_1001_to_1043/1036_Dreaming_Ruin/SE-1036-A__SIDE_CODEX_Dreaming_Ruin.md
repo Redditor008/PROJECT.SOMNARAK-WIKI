@@ -22,7 +22,7 @@ The Ruin formed from a home remembered after it was destroyed. The pain of retur
 | Type / Manifestation | Subject — Can breach / Subject-Dream |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void (Pale White) / Zone C, Mask Market |
-| Gauge / Pressure | 653/653 out of 1000; starts 45–65% / 18–41 per hit · Void |
+| Gauge / Pressure | 653/653; starts 45–65% / 18–41 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | A household was lost, but its former residents continued dreaming of the rooms. |
 

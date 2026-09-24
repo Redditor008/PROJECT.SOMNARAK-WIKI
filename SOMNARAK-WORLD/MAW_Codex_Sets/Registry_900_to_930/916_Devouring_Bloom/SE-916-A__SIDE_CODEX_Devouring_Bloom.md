@@ -22,7 +22,7 @@ The Flower formed from sorrow preserved as weight. The burden of carrying grief 
 | Type / Manifestation | Subject — Can breach / Object-Weight |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Weight (Black) / Zone B, deep tunnels |
-| Gauge / Pressure | 607/607 out of 1000; starts 45–65% / 18–41 per hit · Weight |
+| Gauge / Pressure | 607/607; starts 45–65% / 18–41 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading. |
 

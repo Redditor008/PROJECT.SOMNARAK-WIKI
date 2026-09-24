@@ -186,7 +186,7 @@ The last round became the first shared one. And Bong, for the first time since t
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation.. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Glass makes the next hand available; it does not make sorrow smaller by pretending it is small. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Glass makes the next hand available; it does not make sorrow smaller by pretending it is small. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck bond status, mediation outcomes, and Bearer participation rate after every large sharing ritual or reflected-vessel network. A Hope Bearer record describes a living bond, not a permanently stable condition.
 

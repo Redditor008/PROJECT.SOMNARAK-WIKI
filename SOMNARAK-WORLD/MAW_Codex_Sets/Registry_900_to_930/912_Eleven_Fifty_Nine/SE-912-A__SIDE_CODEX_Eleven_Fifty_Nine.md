@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Time — Can breach via Transform / Time-Lament |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament (Deep Blue) / SECTOR-C-912, contained |
-| Gauge / Pressure | 465/465 out of 1000; starts 35–50% / 17–29 per hit · Lament |
+| Gauge / Pressure | 465/465; starts 35–50% / 17–29 per hit · Lament |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

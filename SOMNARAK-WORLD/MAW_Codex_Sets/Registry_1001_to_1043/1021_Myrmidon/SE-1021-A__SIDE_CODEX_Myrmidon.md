@@ -22,7 +22,7 @@ The Soul formed from a person divided by betrayal. The grief of loving someone o
 | Type / Manifestation | Subject — Can breach / Subject-Lament |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Grudge (Crimson) / Zone A, Alpha Tree |
-| Gauge / Pressure | 415/415 out of 1000; starts 35–50% / 10–23 per hit · Grudge |
+| Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A citizen discovered that the institution they served had caused their family's ruin. Their loyalty tore apart. |
 

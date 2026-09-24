@@ -41,7 +41,7 @@ Flerehan synchronizes grief and lowers pressure; Pugnahan forces the Founder’s
 | R.D. Observation Level | 3 — Elevated |
 | Starting Sorrow Gauge | 60–75% |
 | Activation threshold | 2 |
-| Sorrow Gauge [HP] | 653/653 out of 1000 |
+| Sorrow Gauge [HP] | 653/653 |
 | Han Pressure [ATK] | 18–41 per hit · Lament |
 | Speed | 0.6 m/s |
 | Resistance | 45% against Lament pressure; 35% against other pressure types |

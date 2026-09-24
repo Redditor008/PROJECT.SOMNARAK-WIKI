@@ -22,7 +22,7 @@ The Echo formed from kindness that became rare enough to crystallize. The grief 
 | Type / Manifestation | Object/Place — Can spread / Subject-Lament |
 | Coherence / Potency | Residue (I) — Barely formed, ambient / Minor (α) |
 | Element / Location | Lament (Deep Blue) / Zone D, Mantle Commons — ambient |
-| Gauge / Pressure | 198/198 out of 1000; starts 25–40% / 3–10 per hit · Lament |
+| Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Lament |
 | Observation | 1 — Initial |
 | Formation event | Countless small acts—food shared, doors held, wounds tended—gathered into a voice. |
 

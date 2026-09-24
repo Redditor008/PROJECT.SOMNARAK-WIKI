@@ -53,7 +53,7 @@
 | **Speed** | 1.95 m/s |
 | **Resistance** | 35% against Lament pressure; 25% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 726/726 out of 1000 |
+| **Sorrow Gauge [HP]** | 726/726 |
 | **Han Pressure [ATK]** | 15–33 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
@@ -94,7 +94,7 @@
 - When a worker breaks under the entity's pressure, the gauge climbs and the worker Fractures — two failures for the price of one. **Clarity** and may increase the Sorrow Gauge.
 - Sustained proximity activates the entity's secondary effects — the ones the short-cycle file warns about but the field rarely sees until too late. the entity’s documented emotional, physical, identity, or environmental effect.
 - Wielding a M.A.W. means accepting the toll: the entity's sorrow flows backward through the equipment into the user. recorded in the equipment section.
-- When resolution fails, the entity's containment story continues on its own terms — through breach, expansion, or the documented escalation., the entity follows its breach, activation, or expansion behavior.
+- When resolution fails, the entity's containment story continues on its own terms — through breach, expansion, or the documented escalation; the entity follows its breach, activation, or expansion behavior.
 
 ## Appearance
 **Primary Form:** The Choir has no physical body. It manifests as 144 ethereal voices filling a specially constructed amphitheater. The empty stage, walls, ceiling, and floor become the apparent source of the sound.
@@ -123,7 +123,7 @@
 | **Distinctive markers** | Voices sing unfinished lullabies, work songs, love songs, and funeral songs. The voices harmonize in groups of twelve, each group tied to an era of city history. After prolonged listening, the Choir may sing the listener's name. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
-**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates., and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
+**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Hollow Choir formed from citizens silenced by oppression in early Zone C.
@@ -239,12 +239,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target., equipment condition, mission objective. |
+| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
 | **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis.. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Observation Level:** 3 — Advanced
@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Initial exposure** | The observer identifies The Hollow Choir as a Subject with Subject-Spirit manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-C-01, amphitheater in Zone C; contained. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - The Choir cannot be silenced; suppression makes it louder. - Its songs contain fragments of pre-Consolihan history. - It sings lullabies when near The Smothering Mother and harmonizes with. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description., what remained stable, and which detail was most difficult to describe. In The Hollow Choir's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In The Hollow Choir's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -317,7 +317,7 @@ You hear the Choir before you see the empty amphitheater. It is not music but gr
 
 The Hollow Choir does not exist in isolation. Its recorded relationships with The Orphaned Bell, The Smothering Mother, The Forgotten Soldier, The Kind Healer, The Singing Stone should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space.. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart., the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -332,7 +332,7 @@ The Hollow Choir must be assessed as part of an entity network, not as an isolat
 | **The Kind Healer** | The Choir cannot be healed; it can only be heard. | Reduces immediate pressure or redirects the entity toward a calmer state; confirm whether the Gauge actually decreases. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Singing Stone** | The Stone sings with it, forming a chorus within a chorus. | Creates shared resonance; record amplification, synchronization, and whether the effect spreads beyond the two entities. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space.. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -382,9 +382,9 @@ Some sorrows mourn the dead. The Hollow Choir mourns the unsaid — the one hund
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system.. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file., personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The Choir's exact count—144—is unchanged despite new silences elsewhere in the city.

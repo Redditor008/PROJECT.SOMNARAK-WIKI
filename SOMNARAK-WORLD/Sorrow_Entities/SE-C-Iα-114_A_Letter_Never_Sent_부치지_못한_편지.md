@@ -54,7 +54,7 @@
 | **Speed** | N/A — stationary artifact |
 | **Resistance** | 25% against Lament pressure; 15% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [HP]** | 310/310 out of 1000 |
+| **Sorrow Gauge [HP]** | 310/310 |
 | **Han Pressure [ATK]** | 6–14 per hit · Lament |
 | **Coherence modifier** | I — minimal complexity |
 | **Potency modifier** | α — low pressure baseline |
@@ -166,7 +166,7 @@ Personnel assigned to Viderehan must avoid reading the faded brush script on the
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 1 Use | A Letter Never Sent sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Breaking the indigo crystal wax seal and opening the envelope flap.) initiates an instantaneous, irreversible discharge across the battlefield. |
-| 3 Uses | Crystallized from the unendurable weight of realizing the person you wronged will die believing you never cared. during the great subsidence of year 4,112 in sector-a-04, where lower foundational struts sheared during sub-rail evacuation., the relic answers only to complete commitment. | The full discharge completes: The letter burns in a heatless deep blue flash, discharging a restorative acoustic chime that instantly cures Panic, clears mental terror, and grants +15 Composure to all allies within Range Band 3. All hostile entities in range suffer devastating disruption and elemental debuffs. |
+| 3 Uses | Crystallized from the unendurable weight of realizing the person you wronged will die believing you never cared. during the great subsidence of year 4,112 in sector-a-04, where lower foundational struts sheared during sub-rail evacuation; the relic answers only to complete commitment. | The full discharge completes: The letter burns in a heatless deep blue flash, discharging a restorative acoustic chime that instantly cures Panic, clears mental terror, and grants +15 Composure to all allies within Range Band 3. All hostile entities in range suffer devastating disruption and elemental debuffs. |
 | 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
 | 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The letter is permanently consumed into grey ash; the user experiences a poignant ache of bereavement. |
 

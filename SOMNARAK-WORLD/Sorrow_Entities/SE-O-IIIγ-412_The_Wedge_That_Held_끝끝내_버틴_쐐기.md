@@ -54,7 +54,7 @@
 | **Speed** | N/A — stationary artifact |
 | **Resistance** | 40% against Grudge pressure; 25% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [HP]** | 680/680 out of 1000 |
+| **Sorrow Gauge [HP]** | 680/680 |
 | **Han Pressure [ATK]** | 22–45 per hit · Grudge |
 | **Coherence modifier** | III — complex tactical resonance |
 | **Potency modifier** | γ — major armor fracture capability |
@@ -166,7 +166,7 @@ Operatives assigned to Ferrehan must wear heat-resistant leather gloves. If the 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 1 Use | The Wedge That Held sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram).) initiates an instantaneous, irreversible discharge across the battlefield. |
-| 3 Uses | Crystallized from the fury of being abandoned by superiors and choosing self-immolation over surrender. during the great basalt rupture of year 4,185 in old cheonbulok, where supervisors welded shut the blast flues., the relic answers only to complete commitment. | The full discharge completes: Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Crimson Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. All hostile entities in range suffer devastating disruption and elemental debuffs. |
+| 3 Uses | Crystallized from the fury of being abandoned by superiors and choosing self-immolation over surrender. during the great basalt rupture of year 4,185 in old cheonbulok, where supervisors welded shut the blast flues; the relic answers only to complete commitment. | The full discharge completes: Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Crimson Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. All hostile entities in range suffer devastating disruption and elemental debuffs. |
 | 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
 | 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
 

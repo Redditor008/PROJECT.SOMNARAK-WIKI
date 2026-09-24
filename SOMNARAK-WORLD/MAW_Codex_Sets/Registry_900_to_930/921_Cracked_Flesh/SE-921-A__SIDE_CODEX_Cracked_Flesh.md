@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Body |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Grudge (Crimson) / SECTOR-C-921, contained |
-| Gauge / Pressure | 423/423 out of 1000; starts 35–50% / 17–23 per hit · Grudge |
+| Gauge / Pressure | 423/423; starts 35–50% / 17–23 per hit · Grudge |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

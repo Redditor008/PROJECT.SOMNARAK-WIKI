@@ -22,7 +22,7 @@ The Well formed from mourning that had no witness. The need to tell a loss and f
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Lament |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Lament (Deep Blue) / Zone E, Border region |
-| Gauge / Pressure | 436/436 out of 1000; starts 35–50% / 8–19 per hit · Lament |
+| Gauge / Pressure | 436/436; starts 35–50% / 8–19 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | Border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. Their words sank into the ground. |
 

@@ -54,7 +54,7 @@
 | **Speed** | 0.3 m/s (moves slowly, gently; does not chase) |
 | **Resistance** | 5% against all pressure types (fragile) |
 | **Activation threshold** | Sorrow Gauge ≥ 80% |
-| **Sorrow Gauge [HP]** | 50/50 out of 1000 |
+| **Sorrow Gauge [HP]** | 50/50 |
 | **Han Pressure [ATK]** | 2–5 per hit · Lament |
 | **Coherence modifier** | I — minimal behavior complexity |
 | **Potency modifier** | α — minimal pressure, durability, and escalation |
@@ -94,7 +94,7 @@
 - Failed work has no negative consequence (training mode — the entity forgives errors).
 - Prolonged exposure produces a mild, pleasant melancholy — no Fracture risk.
 - M.A.W. use carries no meaningful cost at this grade.
-- Without resolution, the entity defaults to its documented breach, activation, or expansion behavior — the sorrow finds its own outlet., the entity simply waits longer.
+- Without resolution, the entity defaults to its documented breach, activation, or expansion behavior — the sorrow finds its own outlet; the entity simply waits longer.
 
 ## Appearance
 
@@ -386,7 +386,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry.. Kind Echo is the R.D.'s training standard and baseline entity. It is fully mastered (Observation Level 4) and has been for millennia. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record. — if the entity ever shows hostility, coldness, or escalation — personnel must preserve the contradiction as evidence and alert the Director immediately, because it would mean the sorrow of the first kindness has changed, and that would be the most alarming observation in the history of the R.D.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. Kind Echo is the R.D.'s training standard and baseline entity. It is fully mastered (Observation Level 4) and has been for millennia. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record. — if the entity ever shows hostility, coldness, or escalation — personnel must preserve the contradiction as evidence and alert the Director immediately, because it would mean the sorrow of the first kindness has changed, and that would be the most alarming observation in the history of the R.D.
 
 **Review requirement:** Recheck the entity's warmth, hum frequency, and Work Type response annually. The review is a formality — the entity has not changed in 6,000 years — but the R.D. performs it anyway, because the day the Kind Echo stops being kind is the day the city has truly lost something it cannot replace.
 

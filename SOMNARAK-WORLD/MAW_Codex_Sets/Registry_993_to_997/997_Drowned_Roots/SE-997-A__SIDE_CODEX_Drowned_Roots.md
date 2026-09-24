@@ -22,7 +22,7 @@ The Tree formed from the rage of a soldier never honored. The grief of sacrifice
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Lament (Deep Blue) / Zone C, Mask Market |
-| Gauge / Pressure | 390/390 out of 1000; starts 35–50% / 7–16 per hit · Lament |
+| Gauge / Pressure | 390/390; starts 35–50% / 7–16 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter. |
 

@@ -165,12 +165,12 @@ Each M.A.W. piece carries the lullaby's central cost: the vanishing of the self.
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose., Clarity baseline, any memory the operator is willing to risk. |
+| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; Clarity baseline, any memory the operator is willing to risk. |
 | **During use** | Activation time, lullaby audibility, Clarity drift, name-retention checks each turn. |
 | **At limit** | Duration, faded-memory markers, involuntary humming, sleep-weeping. |
 | **After use** | Removal, memory recovery, lingering sorrow, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound.. Every piece of this set costs a piece of the self it protects.
+**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. Every piece of this set costs a piece of the self it protects.
 
 ## 관찰 기록 (Observation Log)
 
@@ -370,7 +370,7 @@ If I opened up my eyes there'd be no more going back
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening.. The entity's endless play, the unchanged lyrics, the fade-mechanism, and the M.A.W. cost must be read together. The Music Box of Agony is a true sentence about suffering set to a tune; it does not end because the suffering it describes does not end. A stable gauge does not mean the song has stopped — only that no one is currently circling. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity's endless play, the unchanged lyrics, the fade-mechanism, and the M.A.W. cost must be read together. The Music Box of Agony is a true sentence about suffering set to a tune; it does not end because the suffering it describes does not end. A stable gauge does not mean the song has stopped — only that no one is currently circling. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck the recitation count, the lyric transcription (against prior files), listener Clarity baselines, and the fade-state of the original occupant after every observation and any acoustic-resonance event. The Unknown Sorrow Entity registry describes a living sorrow pattern — not a permanently complete classification.
 

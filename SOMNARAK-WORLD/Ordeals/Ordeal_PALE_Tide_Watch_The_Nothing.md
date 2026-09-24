@@ -15,7 +15,7 @@
 | **Spawn Count** | 1–3 entities |
 | **Mortality** | Mortal — permanently suppressible |
 | **Han Pressure [ATK]** | 37–104 per hit · Void (Pale White) |
-| **HP** | 650/650 out of 1000 per entity |
+| **HP** | 650/650 per entity |
 | **Instant Fracture** | Yes — on critical hits / special abilities |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
@@ -50,33 +50,33 @@ Alert Level 5. All available combat personnel with Void-aligned M.A.W. Echo-Core
 
 
 
-## Spawn Roster (Monster / Machine / Non-Humanoid)
+## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary PALE Tide Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Machine, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary PALE Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Eyeless Hound (Monster, Tide-Spawn-grade)
 
-**Physical Form:** Monster — A pale beast, lean and silent, its skin like wet parchment stretched too tight over visible bone — every rib, every joint, every ridge of the skull visible through the translucent white membrane. It has no eyes, no mouth, no ears — just the smooth tight skin where features should be, and yet it tracks its prey with perfect precision, drawn not by sight or scent but by the presence of identity, which it seeks to erase. Its paws leave no prints. Where it passes, the floor is faintly faded..
+**Physical Form:** Monster — A pale beast, lean and silent, its skin like wet parchment stretched too tight over visible bone — every rib, every joint, every ridge of the skull visible through the translucent white membrane. It has no eyes, no mouth, no ears — just the smooth tight skin where features should be, and yet it tracks its prey with perfect precision, drawn not by sight or scent but by the presence of identity, which it seeks to erase. Its paws leave no prints. Where it passes, the floor is faintly faded.
 
 | Stat | Value |
 |---|---|
-| **HP** | 500/500 out of 1000 |
+| **HP** | 500/500 |
 | **Han Pressure [ATK]** | 35–60 per hit · Void |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Deals damage themed to its form and element. **[2 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[2 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 ### The Erasure Projector (Machine, Tide-Spawn-grade)
 
-**Physical Form:** Machine — A device mounted on a corroded white-metal tripod, its body a cylinder of pale bone-like material and frosted glass lenses. At its core, a sphere of condensed Void-energy pulses behind the lenses, and the lenses focus it into a beam of white light that does not illuminate — it removes. The beam passes through flesh and leaves it less: less dense, less present, less real. The machine hums with a frequency that loosens the teeth and blurs the vision..
+**Physical Form:** Machine — A device mounted on a corroded white-metal tripod, its body a cylinder of pale bone-like material and frosted glass lenses. At its core, a sphere of condensed Void-energy pulses behind the lenses, and the lenses focus it into a beam of white light that does not illuminate — it removes. The beam passes through flesh and leaves it less: less dense, less present, less real. The machine hums with a frequency that loosens the teeth and blurs the vision.
 
 | Stat | Value |
 |---|---|
-| **HP** | 530/530 out of 1000 |
+| **HP** | 530/530 |
 | **Han Pressure [ATK]** | 40–65 per hit · Void |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Deals damage themed to its form and element. **[2 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It projects a beam of intense, bleaching monochrome light that scrubs pigment and memory from whatever it touches, unmaking physical coherence. **[2 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 ### The Geometric Void (Non-Humanoid, Tide-Spawn-grade)
 
@@ -84,11 +84,11 @@ Alert Level 5. All available combat personnel with Void-aligned M.A.W. Echo-Core
 
 | Stat | Value |
 |---|---|
-| **HP** | 560/560 out of 1000 |
+| **HP** | 560/560 |
 | **Han Pressure [ATK]** | 45–70 per hit · Void |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It simply is, and what it touches, isn't.. **[3 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It simply is, and what it touches, isn't. **[3 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 
 ## Trivia
@@ -104,6 +104,6 @@ Alert Level 5. All available combat personnel with Void-aligned M.A.W. Echo-Core
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 
-**Date:** Year 4220
+**Date:** Year 4238 — Archive Retrieval Epoch
 
 **Classification:** Restricted

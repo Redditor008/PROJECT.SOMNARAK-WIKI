@@ -56,7 +56,7 @@
 | **Speed** | 1.80 m/s |
 | **Resistance** | 30% against Lament pressure; 15% against other pressure types |
 | **Activation threshold** | Blessing count ≥ 6 |
-| **Sorrow Gauge [HP]** | 450/450 out of 1000 |
+| **Sorrow Gauge [HP]** | 450/450 |
 | **Han Pressure [ATK]** | 8–18 per hit · Lament |
 | **Coherence modifier** | I — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
@@ -245,7 +245,7 @@ She reaches. She blesses. The clock ticks. And the city holds its breath.
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening.. The entity's behavior, blessing count, appearance changes, and chain progression must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy., personnel must preserve the contradiction as evidence.
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity's behavior, blessing count, appearance changes, and chain progression must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence.
 
 ## Trivia
 

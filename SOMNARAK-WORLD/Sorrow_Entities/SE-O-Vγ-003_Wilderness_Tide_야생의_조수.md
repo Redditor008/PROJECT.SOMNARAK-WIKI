@@ -55,7 +55,7 @@
 | **Primary pressure** | Resolve |
 | **Speed** | 1–3 (Ponderous environmental surge) |
 | **Activation threshold** | Wilderness Han surge detected at outer watchtowers |
-| **Sorrow Gauge [HP]** | 900/900 out of 1000 |
+| **Sorrow Gauge [HP]** | 900/900 |
 | **Han Pressure [ATK]** | 25–60 per hit · Weight (Black) |
 | **Starting Sorrow Gauge** | 30–50% |
 | **Han-Energy Yield** | 24–32 per successful containment cycle |

@@ -174,7 +174,7 @@ The Warmth settled into the wood like a low hearth. It has never gone cold since
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room.. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Warmth holds memory warm; it does not hold the dead in place. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Warmth holds memory warm; it does not hold the dead in place. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck bond status, Bearer rest cycles, and group-deployment outcomes after every mass-loss event or expansion. A Hope Bearer record describes a living bond, not a permanently stable condition.
 

@@ -22,7 +22,7 @@ The Dawn is the catastrophic historical form of the Kind Healer. In the current 
 | Type / Manifestation | Subject — Catastrophic transformation / Subject-Body |
 | Coherence / Potency | Sovereign (V) — Absolute and divine / Catastrophic (ω) — City-threatening |
 | Element / Location | All four — Lament, Grudge, Void, Weight / Never contained; forms through the Kind Healer transformation chain |
-| Gauge / Pressure | 999/999 out of 1000; starts 75–95% / 44–111 per hit · Lament · Instant Fracture on critical |
+| Gauge / Pressure | 999/999; starts 75–95% / 44–111 per hit · Lament · Instant Fracture on critical |
 | Observation | 2 — Limited historical record |
 | Formation event | In historical branches, the twelfth blessing completed the chain and turned healing into sentencing. The current cycle diverged: compassion transformed into The Hand of Hope. |
 

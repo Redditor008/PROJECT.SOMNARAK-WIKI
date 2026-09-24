@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Place — Can breach via Transform / Place-Body |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Weight (Black) / SECTOR-C-907, contained |
-| Gauge / Pressure | 429/429 out of 1000; starts 35–50% / 14–25 per hit · Weight |
+| Gauge / Pressure | 429/429; starts 35–50% / 14–25 per hit · Weight |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 

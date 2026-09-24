@@ -22,7 +22,7 @@ The Mirror formed from self-knowledge that people were too exhausted to face. Th
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void (Pale White) / Zone A, Alpha Tree |
-| Gauge / Pressure | 739/739 out of 1000; starts 45–65% / 17–39 per hit · Void |
+| Gauge / Pressure | 739/739; starts 45–65% / 17–39 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | Citizens repeatedly avoided their own reflection after loss; the denied self became a sleeping presence. |
 

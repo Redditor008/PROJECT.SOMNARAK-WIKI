@@ -22,7 +22,7 @@ The Flame formed from a fire extinguished before its owner could grieve. The pai
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Void |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament (Deep Blue) / Zone A, Alpha Tree vault |
-| Gauge / Pressure | 993/993 out of 1000; starts 60–80% / 27–60 per hit · Lament |
+| Gauge / Pressure | 993/993; starts 60–80% / 27–60 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A memorial flame was extinguished during an Alpha Tree evacuation. The mourners were scattered and never completed the ceremony. |
 

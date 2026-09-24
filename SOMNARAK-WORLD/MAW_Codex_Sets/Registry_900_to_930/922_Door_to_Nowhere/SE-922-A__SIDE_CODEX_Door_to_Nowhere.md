@@ -22,7 +22,7 @@ The Door formed from the anger of being denied an exit. The weight of a threshol
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Grudge (Crimson) / Zone B, Old Lament — ambient |
-| Gauge / Pressure | 415/415 out of 1000; starts 35–50% / 10–23 per hit · Grudge |
+| Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A resident was trapped during a district lockdown, watching a door rise beyond reach. |
 

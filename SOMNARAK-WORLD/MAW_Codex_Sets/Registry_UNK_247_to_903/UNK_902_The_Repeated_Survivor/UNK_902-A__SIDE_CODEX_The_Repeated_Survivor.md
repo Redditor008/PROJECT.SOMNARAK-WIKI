@@ -42,7 +42,7 @@ Viderehan retrieves loop fragments. Ferrehan outlasts the scene without taking a
 | R.D. Observation Level | 5 — Sovereign-grade monitoring (loop-anomaly) |
 | Starting Sorrow Gauge | 70–90% |
 | Activation threshold | Sorrow Gauge ≥ 80% or a personnel member recognizing the loop |
-| Sorrow Gauge [HP] | 993/993 out of 1000 |
+| Sorrow Gauge [HP] | 993/993 |
 | Han Pressure [ATK] | 24–52 per hit · Grudge |
 | Speed | 2.80 m/s (moves as if it has walked this route a thousand times — it has) |
 | Resistance | 50% against Void pressure; 30% against other pressure types |

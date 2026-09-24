@@ -35,21 +35,21 @@ A moderate-severity PALE encounter: localized damage. Contain before the void pr
 
 Level 3+ with M.A.W.
 
-## Spawn Roster (Monster / Non-Crystal / Non-Humanoid)
+## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary PALE Second Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Non-Crystal, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary PALE Second Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Eyeless Hound (Monster, Greater-grade)
 
-**Physical Form:** Monster — A pale beast, lean and silent, its skin like wet parchment stretched too tight over visible bone — every rib, every joint, every ridge of the skull visible through the translucent white membrane. It has no eyes, no mouth, no ears — just the smooth tight skin where features should be, and yet it tracks its prey with perfect precision, drawn not by sight or scent but by the presence of identity, which it seeks to erase. Its paws leave no prints. Where it passes, the floor is faintly faded..
+**Physical Form:** Monster — A pale beast, lean and silent, its skin like wet parchment stretched too tight over visible bone — every rib, every joint, every ridge of the skull visible through the translucent white membrane. It has no eyes, no mouth, no ears — just the smooth tight skin where features should be, and yet it tracks its prey with perfect precision, drawn not by sight or scent but by the presence of identity, which it seeks to erase. Its paws leave no prints. Where it passes, the floor is faintly faded.
 
 | Stat | Value |
 |---|---|
-| **HP** | 220/220 out of 1000 |
+| **HP** | 220/220 |
 | **Han Pressure [ATK]** | 15–30 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Deals damage themed to its form and element. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 ### The Smoothed (Non-Crystal, Greater-grade)
 
@@ -57,7 +57,7 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 250/250 out of 1000 |
+| **HP** | 250/250 |
 | **Han Pressure [ATK]** | 20–35 per hit · Void |
 | **Spawn Count** | 2–2 |
 
@@ -69,11 +69,11 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 280/280 out of 1000 |
+| **HP** | 280/280 |
 | **Han Pressure [ATK]** | 25–40 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It simply is, and what it touches, isn't.. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It simply is, and what it touches, isn't. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 
 ### The Nameless Soldier (Humanoid, Greater-grade)
@@ -82,11 +82,11 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 220/220 out of 1000 |
+| **HP** | 220/220 |
 | **Han Pressure [ATK]** | 1 unit per hit · Void |
 | **Spawn Count** | 3 |
 
-**Ability:** Its blank gaze falls, and the touched feel their own identity beginning to smooth.. **[[1 Pale White DMG [Pale White / Void] (5% Max HP)]]**
+**Ability:** Its blank gaze falls, and the touched feel their own identity beginning to smooth. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 ### The Bleach (Amorphous, Greater-grade)
 
@@ -94,11 +94,11 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 200/200 out of 1000 |
+| **HP** | 200/200 |
 | **Han Pressure [ATK]** | 1 unit per hit · Void |
 | **Spawn Count** | 1 |
 
-**Ability:** It spreads over a target, and detail bleeds out of them one layer at a time.. **[[1 Pale White DMG [Pale White / Void] (5% Max HP)]]**
+**Ability:** It spreads over a target, and detail bleeds out of them one layer at a time. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 ### Chalk-Worms (Swarm, Greater-grade)
 
@@ -106,11 +106,11 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 40/40 out of 1000 |
+| **HP** | 40/40 |
 | **Han Pressure [ATK]** | 1 unit per hit · Void |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They burrow, and each one carries away a thread of who the host was.. **[[1 Pale White DMG [Pale White / Void] (5% Max HP)]]**
+**Ability:** They burrow, and each one carries away a thread of who the host was. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 
 ## Trivia
@@ -121,5 +121,5 @@ Level 3+ with M.A.W.
 
 - **Document ID:** ORDEAL-PALE-Second-II
 - **Author:** R.D. Field Records
-- **Date:** Year 4247
+- **Date:** Year 4238
 - **Classification:** Restricted

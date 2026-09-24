@@ -54,7 +54,7 @@
 | **Speed / Expansion** | 0 m/s (fixed); the longing-field expands ~1.2 m per turn while active |
 | **Resistance** | 45% against Lament pressure; 25% against other pressure types |
 | **Activation threshold** | A hand laid upon the carving (or bare skin within the field) |
-| **Sorrow Gauge [HP]** | 600/600 out of 1000 |
+| **Sorrow Gauge [HP]** | 600/600 |
 | **Han Pressure [ATK]** | 12–24 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
@@ -185,7 +185,7 @@ The gauge response is only meaningful in context. YANG River Flood is recorded a
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | YANG River Flood begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates YANG River Flood: The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the grief of a shape carved for flight that has never flown. the dragon is stone, the stone is grounded, and the dragon has always, always wanted to rise. forged during flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. the r.d. sealed the riverbed, moved the carving to the vault, and began the record.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 30 Seconds | The conduit widens, revealing the memory of the grief of a shape carved for flight that has never flown. the dragon is stone, the stone is grounded, and the dragon has always, always wanted to rise. forged during flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. the r.d. sealed the riverbed, moved the carving to the vault, and began the record. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
 | 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of YANG River Flood's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
 | 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: Every channeling deepens the carving's grief; channel too long, and the petitioner will attempt to fly from whatever height is available. all personnel in the sector take heavy damage. |
 

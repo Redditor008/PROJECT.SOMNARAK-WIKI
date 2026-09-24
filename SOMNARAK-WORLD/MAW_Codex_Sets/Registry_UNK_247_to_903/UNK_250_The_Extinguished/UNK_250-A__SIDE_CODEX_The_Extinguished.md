@@ -41,7 +41,7 @@ Honest Flerehan may remain stable; false comfort escalates. Pugnahan feeds its f
 | R.D. Observation Level | 3 — Elevated |
 | Starting Sorrow Gauge | 65–80% |
 | Activation threshold | 2 |
-| Sorrow Gauge [HP] | 683/683 out of 1000 |
+| Sorrow Gauge [HP] | 683/683 |
 | Han Pressure [ATK] | 18–41 per hit · Grudge |
 | Speed | 1.8 m/s |
 | Resistance | 40% against Grudge pressure; 25% against other pressure types |

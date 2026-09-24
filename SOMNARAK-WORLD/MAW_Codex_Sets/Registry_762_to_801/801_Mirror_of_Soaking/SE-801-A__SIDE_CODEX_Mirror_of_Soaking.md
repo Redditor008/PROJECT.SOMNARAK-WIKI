@@ -22,7 +22,7 @@ The Mirror formed from rage that could not be spoken safely. The grief of injust
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Void |
 | Coherence / Potency | Echo (II) — Repeats reflecting anger / Moderate (β) |
 | Element / Location | Grudge (Crimson) / Zone C, Collector's Row |
-| Gauge / Pressure | 403/403 out of 1000; starts 35–50% / 9–21 per hit · Grudge |
+| Gauge / Pressure | 403/403; starts 35–50% / 9–21 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | Citizens swallowed rage under debt and order until suppressed anger became a reflective object. |
 

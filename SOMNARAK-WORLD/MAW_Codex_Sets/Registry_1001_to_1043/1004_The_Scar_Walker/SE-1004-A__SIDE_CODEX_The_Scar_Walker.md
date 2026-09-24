@@ -22,7 +22,7 @@ The Walker formed from the collective rage of the six factions that fought in th
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Fragment (III) — Territorial and responsive / Critical (δ) — Dangerous |
 | Element / Location | Grudge (Crimson) / The Desolate — patrols The Scar |
-| Gauge / Pressure | 871/871 out of 1000; starts 60–80% / 29–64 per hit · Grudge |
+| Gauge / Pressure | 871/871; starts 60–80% / 29–64 per hit · Grudge |
 | Observation | 1 — Initial |
 | Formation event | Han erupted at The Scar during the first war. The factions fought, died, and left the site to become a wound in the Desolate. |
 

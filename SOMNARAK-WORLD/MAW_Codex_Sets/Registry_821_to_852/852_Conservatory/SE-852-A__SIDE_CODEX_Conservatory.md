@@ -22,7 +22,7 @@ The Ruin formed from a place destroyed by someone trying to preserve it. The gri
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Grudge (Crimson) / Zone C, Mask Market |
-| Gauge / Pressure | 873/873 out of 1000; starts 60–80% / 30–65 per hit · Grudge |
+| Gauge / Pressure | 873/873; starts 60–80% / 30–65 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized. |
 

@@ -54,7 +54,7 @@
 | **Speed** | N/A — stationary artifact |
 | **Resistance** | 35% against Weight pressure; 20% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [HP]** | 520/520 out of 1000 |
+| **Sorrow Gauge [HP]** | 520/520 |
 | **Han Pressure [ATK]** | 12–24 per hit · Weight |
 | **Coherence modifier** | III — dense economic burden |
 | **Potency modifier** | β — massive burden release |
@@ -166,7 +166,7 @@ Operatives assigned to Ferrehan must possess clean financial records. If an oper
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 1 Use | Father's Broken Bond sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Snapping the octagonal brass tablet in two along its scored center line with both hands.) initiates an instantaneous, irreversible discharge across the battlefield. |
-| 3 Uses | Crystallized from the crushing, suffocating realization that in somnarak, poverty is a crime that outlives the father to consume the children. during the archive vault break-in of year 4,166 in the third sump concourse registry., the relic answers only to complete commitment. | The full discharge completes: Releases an immense gravitational implosion of Weight that immediately reduces the squad's Sorrow Gauge by -30% and purges all debt marks, bind debuffs, and speed penalties. The tablet shatters into blackened brass shards. All hostile entities in range suffer devastating disruption and elemental debuffs. |
+| 3 Uses | Crystallized from the crushing, suffocating realization that in somnarak, poverty is a crime that outlives the father to consume the children. during the archive vault break-in of year 4,166 in the third sump concourse registry; the relic answers only to complete commitment. | The full discharge completes: Releases an immense gravitational implosion of Weight that immediately reduces the squad's Sorrow Gauge by -30% and purges all debt marks, bind debuffs, and speed penalties. The tablet shatters into blackened brass shards. All hostile entities in range suffer devastating disruption and elemental debuffs. |
 | 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
 | 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The token is irrevocably destroyed; the user suffers 10 Black damage and wrist strain (-1 AP for 1 turn). |
 

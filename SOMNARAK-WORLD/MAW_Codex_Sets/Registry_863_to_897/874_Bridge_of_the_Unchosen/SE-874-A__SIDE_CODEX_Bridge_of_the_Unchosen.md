@@ -22,7 +22,7 @@ The Bridge formed from a crossing that was never taken. The grief of what could 
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Void (Pale White) / Zone D, Echo Gardens |
-| Gauge / Pressure | 699/699 out of 1000; starts 45–65% / 17–39 per hit · Void |
+| Gauge / Pressure | 699/699; starts 45–65% / 17–39 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | A person abandoned a crossing at the last moment; the path froze around the decision. |
 

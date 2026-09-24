@@ -22,7 +22,7 @@ The Relic formed from an object destroyed before its work was complete. The grie
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Grudge (Crimson) / Zone D, Forge District |
-| Gauge / Pressure | 181/181 out of 1000; starts 25–40% / 3–10 per hit · Grudge |
+| Gauge / Pressure | 181/181; starts 25–40% / 3–10 per hit · Grudge |
 | Observation | 1 — Initial |
 | Formation event | A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task. |
 

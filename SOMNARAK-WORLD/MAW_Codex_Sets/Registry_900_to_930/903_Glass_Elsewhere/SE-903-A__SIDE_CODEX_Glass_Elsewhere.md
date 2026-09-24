@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Object — Can breach via Transform / Object-Phantasmal |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Void (Pale White) / SECTOR-N-903, contained |
-| Gauge / Pressure | 426/426 out of 1000; starts 35–50% / 14–23 per hit · Void |
+| Gauge / Pressure | 426/426; starts 35–50% / 14–23 per hit · Void |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 

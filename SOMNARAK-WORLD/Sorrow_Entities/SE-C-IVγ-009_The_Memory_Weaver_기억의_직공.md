@@ -53,7 +53,7 @@
 | **Speed** | 2.30 m/s |
 | **Resistance** | 40% against Void pressure; 30% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [HP]** | 621/621 out of 1000 |
+| **Sorrow Gauge [HP]** | 621/621 |
 | **Han Pressure [ATK]** | 18–41 per hit · Void |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
@@ -94,7 +94,7 @@
 - When a worker breaks under the entity's pressure, the gauge climbs and the worker Fractures — two failures for the price of one. **Composure** and may increase the Sorrow Gauge.
 - Sustained proximity activates the entity's secondary effects — the ones the short-cycle file warns about but the field rarely sees until too late. the entity’s documented emotional, physical, identity, or environmental effect.
 - Wielding a M.A.W. means accepting the toll: the entity's sorrow flows backward through the equipment into the user. recorded in the equipment section.
-- When resolution fails, the entity's containment story continues on its own terms — through breach, expansion, or the documented escalation., the entity follows its breach, activation, or expansion behavior.
+- When resolution fails, the entity's containment story continues on its own terms — through breach, expansion, or the documented escalation; the entity follows its breach, activation, or expansion behavior.
 
 ## Appearance
 **Primary Form:** A massive spider-like being whose body is made from crystallized memories. Its webs are spun from stolen pasts, and its eyes resemble thousands of memories turning in Han-crystal sockets.
@@ -123,7 +123,7 @@
 | **Distinctive markers** | Webs are visible only in the Dream layer. It offers memories as if conducting a trade. Its lair contains more than ten thousand catalogued stolen memories. |
 | **Identification** | Match what you see to what the file says before you act. Misidentification in containment is how Fractures begin. before Work or contact. |
 
-**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates., and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
+**Appearance protocol:** Document the entity's scale, its distance from personnel, posture shifts, and the first visual cue of activation before it escalates; and the first visible change during activation. If you cannot describe what you see in concrete terms, look again. Vagueness in observation leads to vagueness in containment. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Weaver was born from histories erased from the city's record—the sorrow of people removed from collective memory.
@@ -239,12 +239,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target., equipment condition, mission objective. |
+| **Before use** | Before activation: log the wielder, the piece's grade, the gauge, the operator's composure, the M.A.W.'s integrity, and the intended target; equipment condition, mission objective. |
 | **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis.. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Do not confuse grade with risk. The damage rating describes the effect on entities; the effect on the wielder is a different, often heavier, axis. A low-rated M.A.W. piece can carry a severe psychological cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Observation Level:** 3 — Advanced
@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Initial exposure** | The observer identifies The Memory Weaver as a Subject with Subject-Dream manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-B-02, Zone B — library of stolen pasts; contained. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Special Behaviors - Victims relive happy memories in loops while the Weaver feeds on identity. - It has never attacked without provocation or refusal of its offers. - It possesses memories of. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description., what remained stable, and which detail was most difficult to describe. In The Memory Weaver's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | The post-observation record captures transformation and stasis: what moved, what didn't, and what eluded description; what remained stable, and which detail was most difficult to describe. In The Memory Weaver's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Do not read the entity's body as a face. Its form encodes grief, not intention. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -316,7 +316,7 @@ You feel the webs before you see them: a tug at the edge of the mind, a name alm
 
 The Memory Weaver does not exist in isolation. Its recorded relationships with The Orphaned Bell, The Kind Healer, The Broken Clock, The Forgotten Soldier, The Final Door should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space.. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart., the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. At first contact between the two: note the trigger, the distance, how long it lasts, whether the gauge moves, what happens to the room, and what remains when they're pulled apart; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Familiarity is not safety in containment. Entity relationships shift under Sorrow Tides, breaches, and transformation events. to repeat; what was calm can become volatile. Sorrow Tides, Ordeals, and transformation events rewrite the rules of entity interaction. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -331,7 +331,7 @@ The Memory Weaver must be assessed as part of an entity network, not as an isola
 | **The Forgotten Soldier** | Possesses the Soldier's missing memories but refuses to return them. | Indicates incompatibility or rejection; do not force contact, and record the condition that causes withdrawal. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Final Door** | Holds memories of what lies behind the Door but will not share them. | Creates a transfer or connection between entities; record consent, burden movement, and bond duration. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space.. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Document each entity's solo behavior first. Only then can you identify what changes when they share a space. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -378,9 +378,9 @@ Some sorrows mourn the dead. The Memory Weaver mourns the unpersoned — the cit
 
 ### Registry Addendum
 
-**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system.. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Operational interpretation: this entry does not stand alone. The entity's full designation, Work Type responses, M.A.W. cost, and breach behavior must be read as one interconnected system. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The record is a living document. When the entity does something this file does not describe, document the gap; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file., personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Post-incident checklist: Sorrow Gauge, containment seal, personnel medical status, entity position, and M.A.W. resonance changes. If any parameter has shifted, update the file; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The Weaver's catalogue is written in a language no Keeper has identified.

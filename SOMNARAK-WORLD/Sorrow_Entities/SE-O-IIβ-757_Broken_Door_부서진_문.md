@@ -54,7 +54,7 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 25% against Grudge pressure; 15% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 415/415 out of 1000 |
+| **Sorrow Gauge [HP]** | 415/415 |
 | **Han Pressure [ATK]** | 10–23 per hit · Grudge |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |
@@ -95,7 +95,7 @@
 - If resistance fails, the entity's pressure transfers to the worker's composure and the gauge reflects the exchange. **Resilience** and may increase the Sorrow Gauge.
 - Extended exposure carries cumulative risk: each minute past the recommended cycle increases the probability of Fracture, identity drift, or environmental destabilisation. the entity’s documented emotional, physical, identity, or environmental effect.
 - The equipment section lists what the M.A.W. takes. The field confirms it. There is no free extraction. recorded in the equipment section.
-- If the condition is not met, the entity reverts to its activation behavior — the sorrow, denied its resolution, seeks its own., the entity follows its breach, activation, or expansion behavior.
+- If the condition is not met, the entity reverts to its activation behavior — the sorrow, denied its resolution, seeks its own; the entity follows its breach, activation, or expansion behavior.
 
 ## Appearance
 **Physical Form:** A broken door standing alone in the Echo Gardens, its frame burning with a small persistent fire.
@@ -121,7 +121,7 @@
 | **Distinctive markers** | Confirm the primary form and elemental signature before contact. |
 | **Identification** | Check the entity against its file: designation, element, manifestation. If any detail contradicts, do not proceed. before Work or contact. |
 
-**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does., and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
+**Appearance protocol:** Track proportions, proximity, bearing, and surface alteration. The entity announces activation through its body before its gauge does; and the first visible change during activation. Resist the impulse to summarise. The entity is not 'disturbing'; it has a shape, a color, a sound, a smell. Record those. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Door formed from a home broken apart by separation.
@@ -180,7 +180,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Broken Door begins thrumming as the channel opens; a palpable wave of grudge sorrow sweeps across the containment chamber. | Opening the channel activates Broken Door: Opens an anomalous egress threshold, allowing squad members to bypass spatial obstacles and relocate 3 nodes. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the anger of being forced to leave before goodbye or explanation. forged during a family home was divided during an echo incident; the door survived while the family did not remain together.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 30 Seconds | The conduit widens, revealing the memory of the anger of being forced to leave before goodbye or explanation. forged during a family home was divided during an echo incident; the door survived while the family did not remain together. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
 | 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Broken Door's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
 | 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Grudge shockwave: Looking back through the threshold causes profound vertigo and 10 Pale White Void damage. all personnel in the sector take heavy damage. |
 
@@ -266,12 +266,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose., equipment condition, mission objective. |
+| **Before use** | Required fields before M.A.W. use: wielder identity, piece grade, entity gauge, operator state, M.A.W. condition, and purpose; equipment condition, mission objective. |
 | **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade.. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** The grade tells you how hard it hits. It does not tell you what it takes. The cost is often inversely proportional to the grade. A low-rated M.A.W. piece can carry a severe psychological cost.
 
 ## 관찰 기록 (Observation Log)
 
@@ -291,8 +291,8 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Broken Door as an Object/Place with Place-Grudge manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone D, Echo Gardens. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touching the handle while naming someone who left. Effect: Opens onto a memory of the broken home. Duration: Until the memory ends or the door is closed. Risk: The user may mistake the memory for a physical return.. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most., what remained stable, and which detail was most difficult to describe. In Broken Door's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touching the handle while naming someone who left. Effect: Opens onto a memory of the broken home. Duration: Until the memory ends or the door is closed. Risk: The user may mistake the memory for a physical return. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Post-contact review** | Record changes, constants, and gaps — the things you saw but cannot describe are usually the ones that matter most; what remained stable, and which detail was most difficult to describe. In Broken Door's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Form follows sorrow, not purpose. Do not mistake the entity's appearance for a statement of its will. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -333,7 +333,7 @@ The door stands in the garden with no wall around it. Fire licks the frame, and 
 
 **With continued exposure:** Time in the containment zone moves differently. The Grudge pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Grudge is teaching you its sorrow.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touching the handle while naming someone who left. Effect: Opens onto a memory of the broken home. Duration: Until the memory ends or the door is closed. Risk: The user may mistake the memory for a physical return.. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touching the handle while naming someone who left. Effect: Opens onto a memory of the broken home. Duration: Until the memory ends or the door is closed. Risk: The user may mistake the memory for a physical return. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
 
 **After departure:** The door seals and the pressure drops, but residue clings — Grudge in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
 
@@ -341,7 +341,7 @@ The door stands in the garden with no wall around it. Fire licks the frame, and 
 
 Broken Door does not exist in isolation. Its recorded relationships with The Collapsed Door, The Wandering Door, The Echo of Laughter should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against.. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue., the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. When the entities react to each other, capture: range, duration, trigger, gauge delta, field effect, and post-separation residue; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. A stable interaction pattern is a hypothesis, not a law. Re-verify every cycle; the entities may have changed overnight. to repeat; relationships between entities are conditional. A Sorrow Tide, an Ordeal, or a transformation event can reverse a previously stable dynamic. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -354,7 +354,7 @@ Broken Door must be assessed as part of an entity network, not as an isolated pr
 | **The Wandering Door** | Carries its memory through other thresholds. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Echo of Laughter** | Laughter from the former home echoes behind it. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against.. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** Record each entity independently. The interaction data is meaningless without the solo baseline to compare it against. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -401,9 +401,9 @@ Some sorrows mourn a home. Broken Door mourns the separation — the door betwee
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room.. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding., personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** The review requirement: every breach, every Sorrow Tide, every transformation attempt invalidates the current baseline. Re-verify before proceeding; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - It has no wall but casts a rectangular shadow.

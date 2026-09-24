@@ -35,21 +35,21 @@ A moderate-severity BLUE encounter: localized damage. Contain before the lament 
 
 Level 3+ with M.A.W.
 
-## Spawn Roster (Monster / Non-Crystal / Non-Humanoid)
+## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary BLUE Second Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Non-Crystal, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary BLUE Second Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Weeping Leviathan (Monster, Greater-grade)
 
-**Physical Form:** Monster — A long serpentine creature fully twenty meters from snout to tail, its body composed of translucent blue-grey skin stretched over visible ribs and a pulsing spine. Through the skin, organs are faintly visible — dark, wet, slowly churning. It has no eyes; its head is a wide, soft mouth that opens to release a keening wail, and from the corners of that mouth, actual tears stream — not water, but condensed sorrow, viscous and faintly luminescent, evaporating into fog as they fall..
+**Physical Form:** Monster — A long serpentine creature fully twenty meters from snout to tail, its body composed of translucent blue-grey skin stretched over visible ribs and a pulsing spine. Through the skin, organs are faintly visible — dark, wet, slowly churning. It has no eyes; its head is a wide, soft mouth that opens to release a keening wail, and from the corners of that mouth, actual tears stream — not water, but condensed sorrow, viscous and faintly luminescent, evaporating into fog as they fall.
 
 | Stat | Value |
 |---|---|
-| **HP** | 220/220 out of 1000 |
+| **HP** | 220/220 |
 | **Han Pressure [ATK]** | 15–30 per hit · Lament |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Deals damage themed to its form and element. **[15-30 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It crashes its colossal waterlogged bulk across the chamber, unleashing a tidal surge of concentrated brine that sweeps away defensive formations. **[15–30 Deep Blue DMG [Deep Blue / Lament]]**
 
 ### The Throat-Knot (Non-Crystal, Greater-grade)
 
@@ -57,7 +57,7 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 250/250 out of 1000 |
+| **HP** | 250/250 |
 | **Han Pressure [ATK]** | 20–35 per hit · Lament |
 | **Spawn Count** | 2–2 |
 
@@ -65,15 +65,15 @@ Level 3+ with M.A.W.
 
 ### The Sorrow Fog (Non-Humanoid, Greater-grade)
 
-**Physical Form:** Non-Humanoid — A drifting bank of luminous blue mist that fills corridors and rooms — not a creature but a presence, the condensed grief of the Sorrow Tide made airborne. Within the fog, shapes move: half-formed, dissolving — faces, hands, the silhouettes of people who are not there. The mist is cold, damp, and clings to the skin like grief itself, and breathing it fills the lungs with an ache that has no physical source..
+**Physical Form:** Non-Humanoid — A drifting bank of luminous blue mist that fills corridors and rooms — not a creature but a presence, the condensed grief of the Sorrow Tide made airborne. Within the fog, shapes move: half-formed, dissolving — faces, hands, the silhouettes of people who are not there. The mist is cold, damp, and clings to the skin like grief itself, and breathing it fills the lungs with an ache that has no physical source.
 
 | Stat | Value |
 |---|---|
-| **HP** | 280/280 out of 1000 |
+| **HP** | 280/280 |
 | **Han Pressure [ATK]** | 25–40 per hit · Lament |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Deals damage themed to its form and element. **[25-40 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It billows outward in a dense, freezing mist of aerosolized brine, choking respiratory passages and inducing profound sorrow paralysis. **[25–40 Deep Blue DMG [Deep Blue / Lament]]**
 
 
 ### The Mourner (Humanoid, Greater-grade)
@@ -82,11 +82,11 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 230/230 out of 1000 |
-| **Han Pressure [ATK]** | 16-26 per hit · Lament |
+| **HP** | 230/230 |
+| **Han Pressure [ATK]** | 16–26 per hit · Lament |
 | **Spawn Count** | 2 |
 
-**Ability:** The dirge deepens, and unfinished mourning grinds the listener down.. **[[16-26 Deep Blue DMG [Deep Blue / Lament]]]**
+**Ability:** The dirge deepens, and unfinished mourning grinds the listener down. **[16–26 Deep Blue DMG [Deep Blue / Lament]]**
 
 ### The Salt-Bloom (Amorphous, Greater-grade)
 
@@ -94,11 +94,11 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 210/210 out of 1000 |
-| **Han Pressure [ATK]** | 14-22 per hit · Lament |
+| **HP** | 210/210 |
+| **Han Pressure [ATK]** | 14–22 per hit · Lament |
 | **Spawn Count** | 1 |
 
-**Ability:** Its brine-spray stings the eyes, and the sorrow-burn settles into the mind.. **[[14-22 Deep Blue DMG [Deep Blue / Lament]]]**
+**Ability:** Its brine-spray stings the eyes, and the sorrow-burn settles into the mind. **[14–22 Deep Blue DMG [Deep Blue / Lament]]**
 
 ### Grief-Leeches (Swarm, Greater-grade)
 
@@ -106,11 +106,11 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 45/45 out of 1000 |
-| **Han Pressure [ATK]** | 7-10 per hit · Lament |
+| **HP** | 45/45 |
+| **Han Pressure [ATK]** | 7–10 per hit · Lament |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They latch, and each one drains a little more of the will to keep going.. **[[7-10 Deep Blue DMG [Deep Blue / Lament]]]**
+**Ability:** They latch, and each one drains a little more of the will to keep going. **[7–10 Deep Blue DMG [Deep Blue / Lament]]**
 
 
 ## Trivia
@@ -121,5 +121,5 @@ Level 3+ with M.A.W.
 
 - **Document ID:** ORDEAL-BLUE-Second-II
 - **Author:** R.D. Field Records
-- **Date:** Year 4247
+- **Date:** Year 4238
 - **Classification:** Restricted

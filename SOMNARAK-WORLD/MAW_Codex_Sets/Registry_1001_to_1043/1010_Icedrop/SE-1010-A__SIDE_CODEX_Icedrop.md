@@ -22,7 +22,7 @@ The Tear formed from sorrow too deep to flow. The grief of someone unable to cry
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Lament |
 | Coherence / Potency | Echo (II) — Repeats melting, never melting / Moderate (β) |
 | Element / Location | Lament (Deep Blue) / SECTOR-D-02, Echo Gardens |
-| Gauge / Pressure | 415/415 out of 1000; starts 35–50% / 10–23 per hit · Lament |
+| Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A mourner's first and only tear froze before it could fall. |
 

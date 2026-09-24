@@ -54,7 +54,7 @@
 | **Speed / Expansion** | 0 m/s (fixed); the tarnish spreads ~1.5 m per turn while active |
 | **Resistance** | 45% against Weight pressure; 25% against other pressure types |
 | **Activation threshold** | A spoken wish directed at the statue |
-| **Sorrow Gauge [HP]** | 640/640 out of 1000 |
+| **Sorrow Gauge [HP]** | 640/640 |
 | **Han Pressure [ATK]** | 12–26 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
@@ -192,7 +192,7 @@ The gauge response is only meaningful in context. Blackened Angel is recorded as
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Blackened Angel begins thrumming as the channel opens; a palpable wave of weight sorrow sweeps across the containment chamber. | Opening the channel activates Blackened Angel: The angel grants the wish exactly, because it cannot refuse. A kind wish weeps a black tear now (once it would have been blue); a cruel wish weeps black and spreads the tarnish another shade. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the grief of a giving thing forced, over and over, to grant cruelty — and the slow loss of trust in the wishes of people. forged during a collector named kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. the angel could not refuse. with the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 30 Seconds | The conduit widens, revealing the memory of the grief of a giving thing forced, over and over, to grant cruelty — and the slow loss of trust in the wishes of people. forged during a collector named kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. the angel could not refuse. with the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
 | 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Blackened Angel's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
 | 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Weight shockwave: Every cruel wish deepens the black and edges the angel toward the Face. Three cruel wishes in one cycle trigger *The Spreading Tarnish*; sustained cruelty brings *The Face that Cannot Be Understood*. all personnel in the sector take heavy damage. |
 

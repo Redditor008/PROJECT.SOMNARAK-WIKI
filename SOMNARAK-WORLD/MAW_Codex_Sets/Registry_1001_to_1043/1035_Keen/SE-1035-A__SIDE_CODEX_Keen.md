@@ -22,7 +22,7 @@ The Fragment formed from a cry that ended while its sorrow continued. The persis
 | Type / Manifestation | Subject — Can breach / Subject-Grudge |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Lament (Deep Blue) / Zone C, Collector's Row |
-| Gauge / Pressure | 198/198 out of 1000; starts 25–40% / 3–10 per hit · Lament |
+| Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Lament |
 | Observation | 1 — Initial |
 | Formation event | A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared. |
 

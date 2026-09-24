@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Place — Can breach via Transform / Place-Spirit |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight (Black) / SECTOR-N-910, contained |
-| Gauge / Pressure | 410/410 out of 1000; starts 35–50% / 14–21 per hit · Weight |
+| Gauge / Pressure | 410/410; starts 35–50% / 14–21 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 

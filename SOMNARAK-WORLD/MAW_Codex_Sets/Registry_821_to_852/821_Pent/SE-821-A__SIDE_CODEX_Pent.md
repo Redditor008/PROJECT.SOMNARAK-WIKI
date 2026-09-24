@@ -22,7 +22,7 @@ The Sigh formed from a breath erased before it could be released. The grief of e
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Grudge (Crimson) / Zone B, Old Lament — ambient |
-| Gauge / Pressure | 818/818 out of 1000; starts 60–80% / 22–48 per hit · Grudge |
+| Gauge / Pressure | 818/818; starts 60–80% / 22–48 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness. |
 

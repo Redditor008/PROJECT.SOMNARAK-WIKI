@@ -22,7 +22,7 @@ The Judge formed from the sorrow of people subjected to impartial systems that w
 | Type / Manifestation | Subject — Can breach / Subject-Body |
 | Coherence / Potency | Entity (IV) — Rigid and absolute / Critical (δ) |
 | Element / Location | Grudge (Crimson) / SECTOR-C-01, Collector's Row |
-| Gauge / Pressure | 999/999 out of 1000; starts 60–80% / 23–51 per hit · Grudge |
+| Gauge / Pressure | 999/999; starts 60–80% / 23–51 per hit · Grudge |
 | Observation | 3 — Advanced |
 | Formation event | Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person. |
 

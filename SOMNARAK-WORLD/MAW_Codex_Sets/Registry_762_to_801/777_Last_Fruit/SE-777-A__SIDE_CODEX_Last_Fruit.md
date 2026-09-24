@@ -22,7 +22,7 @@ The entity formed from desire denied until it became anger. The grief of wanting
 | Type / Manifestation | Subject — Can breach / Subject-Body |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Grudge (Crimson) / Zone C, Mask Market |
-| Gauge / Pressure | 382/382 out of 1000; starts 35–50% / 10–23 per hit · Grudge |
+| Gauge / Pressure | 382/382; starts 35–50% / 10–23 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A child was forbidden the last fruit from a dying tree; the denied longing ignited into a figure. |
 

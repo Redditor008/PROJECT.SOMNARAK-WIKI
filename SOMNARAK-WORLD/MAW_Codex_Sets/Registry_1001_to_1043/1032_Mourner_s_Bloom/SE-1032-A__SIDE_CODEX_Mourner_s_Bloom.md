@@ -22,7 +22,7 @@ The Flower formed from one honest moment of mourning. The need for grief to be v
 | Type / Manifestation | Subject — Can breach / Object-Lament |
 | Coherence / Potency | Residue (I) — Barely formed, passive / Minor (α) |
 | Element / Location | Lament (Deep Blue) / Zone D, Echo Gardens |
-| Gauge / Pressure | 176/176 out of 1000; starts 25–40% / 2–8 per hit · Lament |
+| Gauge / Pressure | 176/176; starts 25–40% / 2–8 per hit · Lament |
 | Observation | 1 — Initial |
 | Formation event | A gardener cried over a lost parent, and a flower grew from the tears. |
 

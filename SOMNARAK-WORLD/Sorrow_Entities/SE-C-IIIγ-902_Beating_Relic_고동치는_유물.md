@@ -54,7 +54,7 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Grudge pressure; 24% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 427/427 out of 1000 |
+| **Sorrow Gauge [HP]** | 427/427 |
 | **Han Pressure [ATK]** | 17–26 per hit · Grudge |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
@@ -173,9 +173,9 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Beating Relic rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Beating Relic activates its primary resonance: Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the accumulated grief of unacknowledged grudge.; the bearer begins perceiving echoes of a crisis in the city where grudge went unaddressed.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the accumulated grief of unacknowledged grudge.; the bearer begins perceiving echoes of a crisis in the city where grudge went unaddressed. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Beating Relic begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
-| 2 Minutes | To wear Beating Relic too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Gripping the relic beyond 60 seconds induces acute tachycardia, hyper-aggression, and emotional hemorrhaging as the bearer's pulse locks into the relic's violent rhythm.. |
+| 2 Minutes | To wear Beating Relic too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Gripping the relic beyond 60 seconds induces acute tachycardia, hyper-aggression, and emotional hemorrhaging as the bearer's pulse locks into the relic's violent rhythm. |
 
 ### Escalation Notes
 

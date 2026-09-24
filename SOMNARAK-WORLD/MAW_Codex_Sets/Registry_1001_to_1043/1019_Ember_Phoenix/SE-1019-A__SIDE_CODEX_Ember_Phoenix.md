@@ -22,7 +22,7 @@ The Phoenix formed from survival that became another kind of death. The burden o
 | Type / Manifestation | Subject — Can breach / Subject-Body |
 | Coherence / Potency | Entity (IV) — Self-aware, cyclical, eternal / Critical (δ) |
 | Element / Location | Grudge (Crimson) / The Desolate — mobile |
-| Gauge / Pressure | 910/910 out of 1000; starts 60–80% / 29–64 per hit · Grudge |
+| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire. |
 

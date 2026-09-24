@@ -53,7 +53,7 @@
 | **Speed** | 0.4 m/s (drift) / 6 m/s lunge when prey enters the water |
 | **Resistance** | 40% against Weight pressure; 20% against other pressure types |
 | **Activation threshold** | A hand, line, or limb breaking the puddle's surface |
-| **Sorrow Gauge [HP]** | 460/460 out of 1000 |
+| **Sorrow Gauge [HP]** | 460/460 |
 | **Han Pressure [ATK]** | 8–18 per hit · Weight |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |

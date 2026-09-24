@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Object — Can breach via Transform / Object-Spirit |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Void (Pale White) / SECTOR-N-905, contained |
-| Gauge / Pressure | 502/502 out of 1000; starts 35–50% / 11–20 per hit · Void |
+| Gauge / Pressure | 502/502; starts 35–50% / 11–20 per hit · Void |
 | Observation | 1 — Trace |
 | Formation event | Not recorded |
 

@@ -22,7 +22,7 @@ The Shadow formed from grief that outlived the person who first carried it. The 
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Grudge |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament (Deep Blue) / Zone A, Alpha Tree |
-| Gauge / Pressure | 910/910 out of 1000; starts 60–80% / 29–64 per hit · Lament |
+| Gauge / Pressure | 910/910; starts 60–80% / 29–64 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence. |
 

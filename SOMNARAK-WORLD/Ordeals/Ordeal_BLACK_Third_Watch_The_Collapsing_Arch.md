@@ -15,7 +15,7 @@
 | **Spawn Count** | 3–5 entities |
 | **Mortality** | Mortal — permanently suppressible |
 | **Han Pressure [ATK]** | 18–34 per hit · Weight (Black) |
-| **HP** | 354/354 out of 1000 per entity |
+| **HP** | 354/354 per entity |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
 
@@ -49,45 +49,45 @@ Alert Level 3. Level 4+ team with δ-grade M.A.W. Structural repair teams deploy
 
 
 
-## Spawn Roster (Monster / Machine / Non-Humanoid)
+## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary BLACK Third Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Machine, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary BLACK Third Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Grinding Maw (Monster, Elite-grade)
 
-**Physical Form:** Monster — A massive low-slung beast the width of a cart, its body formed of interlocking slabs of dense black basalt fused over taut grey muscle and exposed ribs of dark iron. It has no head — only a wide, flat mouth of grinding stone teeth set in raw flesh, the gums wet and black, that rolls over whatever is beneath it. When it moves, the stone plates grind against each other and the muscle beneath ripples visibly, as though the rock is a shell and the thing inside is still alive and hungry..
+**Physical Form:** Monster — A massive low-slung beast the width of a cart, its body formed of interlocking slabs of dense black basalt fused over taut grey muscle and exposed ribs of dark iron. It has no head — only a wide, flat mouth of grinding stone teeth set in raw flesh, the gums wet and black, that rolls over whatever is beneath it. When it moves, the stone plates grind against each other and the muscle beneath ripples visibly, as though the rock is a shell and the thing inside is still alive and hungry.
 
 | Stat | Value |
 |---|---|
-| **HP** | 350/350 out of 1000 |
+| **HP** | 350/350 |
 | **Han Pressure [ATK]** | 25–45 per hit · Weight |
 | **Spawn Count** | 2–3 |
 
-**Ability:** Deals damage themed to its form and element. **[25-45 Black DMG [Black / Weight]]**
+**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[25–45 Black DMG [Black / Weight]]**
 
 ### The Clockwork Press (Machine, Elite-grade)
 
-**Physical Form:** Machine — A mechanical piston-press built of riveted black iron and dark steel, roughly humanoid in frame but unmistakably a machine — jointed arms of bolted metal, a torso of interlocking gears and drive-chains, and a central stamping plate of solid lead that rises and falls with metronomic precision. Steam vents along its spine hiss with each cycle. There is nothing organic about it; it is pure industry, built to flatten..
+**Physical Form:** Machine — A mechanical piston-press built of riveted black iron and dark steel, roughly humanoid in frame but unmistakably a machine — jointed arms of bolted metal, a torso of interlocking gears and drive-chains, and a central stamping plate of solid lead that rises and falls with metronomic precision. Steam vents along its spine hiss with each cycle. There is nothing organic about it; it is pure industry, built to flatten.
 
 | Stat | Value |
 |---|---|
-| **HP** | 380/380 out of 1000 |
+| **HP** | 380/380 |
 | **Han Pressure [ATK]** | 30–50 per hit · Weight |
 | **Spawn Count** | 2–3 |
 
-**Ability:** Deals damage themed to its form and element. **[30-50 Black DMG [Black / Weight]]**
+**Ability:** Its heavy pneumatic press-plate slams down in a rhythmic industrial cycle, compressing anything beneath it into flattened scrap. **[30–50 Black DMG [Black / Weight]]**
 
 ### The Living Avalanche (Non-Humanoid, Elite-grade)
 
-**Physical Form:** Non-Humanoid — Not a single body but a flowing mass — a cascade of sharp-edged black stone fragments and twisted iron rebar that moves like a landslide, burying and crushing. Scattered through the debris are clumps of compressed organic matter: dark flesh, hair, bone fragments from whatever it has already consumed, ground into the aggregate. It has no shape; it IS the shape of the ground it covers, and the ground is hungry..
+**Physical Form:** Non-Humanoid — Not a single body but a flowing mass — a cascade of sharp-edged black stone fragments and twisted iron rebar that moves like a landslide, burying and crushing. Scattered through the debris are clumps of compressed organic matter: dark flesh, hair, bone fragments from whatever it has already consumed, ground into the aggregate. It has no shape; it IS the shape of the ground it covers, and the ground is hungry.
 
 | Stat | Value |
 |---|---|
-| **HP** | 410/410 out of 1000 |
+| **HP** | 410/410 |
 | **Han Pressure [ATK]** | 35–55 per hit · Weight |
 | **Spawn Count** | 2–3 |
 
-**Ability:** Deals damage themed to its form and element. **[35-55 Black DMG [Black / Weight]]**
+**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[35–55 Black DMG [Black / Weight]]**
 
 
 ## Trivia
@@ -103,6 +103,6 @@ Alert Level 3. Level 4+ team with δ-grade M.A.W. Structural repair teams deploy
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 
-**Date:** Year 4220
+**Date:** Year 4238 — Archive Retrieval Epoch
 
 **Classification:** Restricted

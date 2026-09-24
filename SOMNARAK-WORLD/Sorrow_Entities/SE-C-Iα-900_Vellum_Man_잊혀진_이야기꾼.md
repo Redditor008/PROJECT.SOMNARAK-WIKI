@@ -53,7 +53,7 @@
 | **Speed** | 2.0 m/s |
 | **Resistance** | 25% against Lament pressure; 18% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 406/406 out of 1000 |
+| **Sorrow Gauge [HP]** | 406/406 |
 | **Han Pressure [ATK]** | 11–23 per hit · Lament |
 | **Coherence modifier** | I — affects behavior complexity and response speed |
 | **Potency modifier** | α — affects pressure, durability, and escalation severity |

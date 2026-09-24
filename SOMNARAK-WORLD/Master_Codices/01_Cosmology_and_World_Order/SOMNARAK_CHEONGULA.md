@@ -45,7 +45,7 @@ This is the full story.
 
 ### The Founding (Year 0)
 
-Somnarak was founded 6,000 years ago — not as a city, but as a settlement. A group of settlers arrived on Mugenhan, drawn by the planet's unique relationship with Han — the raw, unstructured sorrow that permeated the world.
+Somnarak was founded 4,238 years ago — not as a city, but as a settlement. A group of settlers arrived on Mugenhan, drawn by the planet's unique relationship with Han — the raw, unstructured sorrow that permeated the world.
 
 The settlers were not conquerors. They were refugees — fleeing a catastrophe on another continent, seeking a place where they could survive. They found the site of Somnarak — a valley where the Han was concentrated, where the Weeping flowed close to the surface, where the planet's sorrow was most accessible.
 
@@ -112,9 +112,7 @@ Zone B was a problem — but it was a *small* problem. A problem for the laborer
 
 The Council's attitude was simple: *Zone B is Zone B. It has always been rough. It will always be rough. The citizens there are used to it.*
 
-The Council did not study the Han's growth. The Council did not investigate the Weeping's rise. The Council did not warn the citizens of Zone B.
-
-The Council did not care.
+The Council did not study the Han's growth, investigate the Weeping's rise, or warn the vulnerable populace of Zone B. Their administrative inaction spoke with total finality.
 
 ### The Menders' Warning (Year 195)
 
@@ -224,9 +222,7 @@ The Consolihan continues to this day. Every year. The city mourns. The city weep
 
 The Cheongula was not a sacrifice. It was not a decision. It was *neglect* — the Council's indifference to the growth of Han, its movement toward Zone B, its threat to the citizens who lived there.
 
-The Council knew the Han was growing. The Council knew Zone B was in danger. The Council knew the citizens were at risk.
-
-The Council did not care.
+The Council knew the Han was mounting, that Zone B stood directly in the flood-path, and that its citizens were defenseless. They simply looked away.
 
 The thousand were not chosen. They were *ignored*. They were the citizens who lived in the wrong place — Zone B, the Western Sector, the cheap housing that the city's laborers and builders inhabited. They were the people who built the city but could not afford to live in it.
 
@@ -405,7 +401,7 @@ The R.D. is not a research facility. The R.D. is a *containment system*. The R.D
 
 The Absolvohan is Director Majin's hidden plan — a way to release all the city's accumulated sorrow at once, freeing the citizens from the debt system, the Veil, and the R.D.
 
-But the Absolvohan has a cost. If the plan succeeds, the Maw will be released — the thousand will be freed. And the thousand have been suffering for 6,000 years.
+But the Absolvohan has a cost. If the plan succeeds, the Maw will be released — the thousand will be freed. And the thousand have been suffering for over four thousand years.
 
 The Absolvohan is not a solution. The Absolvohan is a *confession*. The city's final acknowledgment of what it did — and what it has become.
 

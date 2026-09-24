@@ -35,9 +35,9 @@ A major-severity GREY encounter: widespread structural and personnel threat. Con
 
 Level 4+, Containment Lead oversight.
 
-## Spawn Roster (Monster / Non-Crystal / Non-Humanoid)
+## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary GREY Third Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Non-Crystal, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary GREY Third Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Fury Hound (Monster, Elite-grade)
 
@@ -45,11 +45,11 @@ Level 4+, Containment Lead oversight.
 
 | Stat | Value |
 |---|---|
-| **HP** | 350/350 out of 1000 |
+| **HP** | 350/350 |
 | **Han Pressure [ATK]** | 25–45 per hit · Grudge |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered.. **[25-45 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[25–45 Crimson DMG [Crimson / Grudge]]**
 
 ### The Bone-Legion (Non-Crystal, Elite-grade)
 
@@ -57,7 +57,7 @@ Level 4+, Containment Lead oversight.
 
 | Stat | Value |
 |---|---|
-| **HP** | 380/380 out of 1000 |
+| **HP** | 380/380 |
 | **Han Pressure [ATK]** | 30–50 per hit · Grudge |
 | **Spawn Count** | 2–3 |
 
@@ -65,15 +65,15 @@ Level 4+, Containment Lead oversight.
 
 ### The Blade Storm (Non-Humanoid, Elite-grade)
 
-**Physical Form:** Non-Humanoid — A swirling vortex of spinning blades — hundreds of forged-iron and resentment-steel shards orbiting a core of compressed fury, three meters across. The blades are not uniform: some are sword-fragments, some are nail-like spikes, some are twisted rebar, some are the ragged edges of broken tools, all spinning in a deafening ring. There is no body at the centre — only the anger that holds the metal in orbit, and the metal does the cutting..
+**Physical Form:** Non-Humanoid — A swirling vortex of spinning blades — hundreds of forged-iron and resentment-steel shards orbiting a core of compressed fury, three meters across. The blades are not uniform: some are sword-fragments, some are nail-like spikes, some are twisted rebar, some are the ragged edges of broken tools, all spinning in a deafening ring. There is no body at the centre — only the anger that holds the metal in orbit, and the metal does the cutting.
 
 | Stat | Value |
 |---|---|
-| **HP** | 410/410 out of 1000 |
+| **HP** | 410/410 |
 | **Han Pressure [ATK]** | 35–55 per hit · Grudge |
 | **Spawn Count** | 2–3 |
 
-**Ability:** Deals damage themed to its form and element. **[35-55 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[35–55 Crimson DMG [Crimson / Grudge]]**
 
 
 ### The Veteran (Humanoid, Elite-grade)
@@ -82,11 +82,11 @@ Level 4+, Containment Lead oversight.
 
 | Stat | Value |
 |---|---|
-| **HP** | 300/300 out of 1000 |
-| **Han Pressure [ATK]** | 24-36 per hit · Grudge |
+| **HP** | 300/300 |
+| **Han Pressure [ATK]** | 24–36 per hit · Grudge |
 | **Spawn Count** | 2 |
 
-**Ability:** It wades in, and every fused weapon strikes at once in one sweeping assault.. **[[24-36 Crimson DMG [Crimson / Grudge]]]**
+**Ability:** It wades in, and every fused weapon strikes at once in one sweeping assault. **[24–36 Crimson DMG [Crimson / Grudge]]**
 
 ### The War-Smog (Amorphous, Elite-grade)
 
@@ -94,11 +94,11 @@ Level 4+, Containment Lead oversight.
 
 | Stat | Value |
 |---|---|
-| **HP** | 320/320 out of 1000 |
-| **Han Pressure [ATK]** | 22-34 per hit · Grudge |
+| **HP** | 320/320 |
+| **Han Pressure [ATK]** | 22–34 per hit · Grudge |
 | **Spawn Count** | 1 |
 
-**Ability:** It blankets a hall, and the grit of a thousand old battles scourges everyone within.. **[[22-34 Crimson DMG [Crimson / Grudge]]]**
+**Ability:** It blankets a hall, and the grit of a thousand old battles scourges everyone within. **[22–34 Crimson DMG [Crimson / Grudge]]**
 
 ### The Saw-Larvae (Swarm, Elite-grade)
 
@@ -106,11 +106,11 @@ Level 4+, Containment Lead oversight.
 
 | Stat | Value |
 |---|---|
-| **HP** | 60/60 out of 1000 |
-| **Han Pressure [ATK]** | 10-16 per hit · Grudge |
+| **HP** | 60/60 |
+| **Han Pressure [ATK]** | 10–16 per hit · Grudge |
 | **Spawn Count** | 10–14 |
 
-**Ability:** They bore, and the spinning teeth grind through whatever they reach.. **[[10-16 Crimson DMG [Crimson / Grudge]]]**
+**Ability:** They bore, and the spinning teeth grind through whatever they reach. **[10–16 Crimson DMG [Crimson / Grudge]]**
 
 
 ## Trivia
@@ -121,5 +121,5 @@ Level 4+, Containment Lead oversight.
 
 - **Document ID:** ORDEAL-GREY-Third-II
 - **Author:** R.D. Field Records
-- **Date:** Year 4247
+- **Date:** Year 4238
 - **Classification:** Restricted

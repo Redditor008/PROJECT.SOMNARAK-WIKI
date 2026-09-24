@@ -22,7 +22,7 @@ The Mirror formed from memories that citizens asked the Keepers to seal away. De
 | Type / Manifestation | Object/Place — Can breach via Transform; activation possible / Object-Void |
 | Coherence / Potency | Echo (II) — Repeats showing reflections / Minor (α) — Low danger |
 | Element / Location | Void (Pale White) / SECTOR-A-01, Alpha Tree Archive — contained |
-| Gauge / Pressure | 226/226 out of 1000; starts 25–40% / 3–10 per hit · Void |
+| Gauge / Pressure | 226/226; starts 25–40% / 3–10 per hit · Void |
 | Observation | 4 — Mastered |
 | Formation event | Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror. |
 

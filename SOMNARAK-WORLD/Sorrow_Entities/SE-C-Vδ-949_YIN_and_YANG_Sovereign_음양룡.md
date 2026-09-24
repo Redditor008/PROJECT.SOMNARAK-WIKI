@@ -53,7 +53,7 @@
 | **Speed** | 14 m/s flight; 8 m/s in water |
 | **Resistance** | 50% against Mixed pressure; 30% against any single element |
 | **Activation threshold** | Reunion of the Fish and the Stone (FORBIDDEN) |
-| **Sorrow Gauge [HP]** | 900/900 out of 1000 |
+| **Sorrow Gauge [HP]** | 900/900 |
 | **Han Pressure [ATK]** | 16–34 per cycle · Mixed |
 | **Coherence modifier** | V — reality-bending; weather- and water-commanding |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |

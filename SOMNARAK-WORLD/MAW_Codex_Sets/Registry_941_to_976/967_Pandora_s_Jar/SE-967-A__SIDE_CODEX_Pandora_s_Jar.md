@@ -22,7 +22,7 @@ The entity formed from the grief of a relic erased from history. The pain of los
 | Type / Manifestation | Subject — Can breach / Subject-Grudge |
 | Coherence / Potency | Entity (IV) — Self-aware / Critical (δ) |
 | Element / Location | Weight (Black) / The Desolate — mobile |
-| Gauge / Pressure | 999/999 out of 1000; starts 60–80% / 27–58 per hit · Weight |
+| Gauge / Pressure | 999/999; starts 60–80% / 27–58 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | A treasured artifact disappeared during a Desolate expedition; records of it were later removed. |
 

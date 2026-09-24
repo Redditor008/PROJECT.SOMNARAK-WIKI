@@ -53,7 +53,7 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Void pressure; 24% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 464/464 out of 1000 |
+| **Sorrow Gauge [HP]** | 464/464 |
 | **Han Pressure [ATK]** | 17–29 per hit · Void |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Dream |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Void (Pale White) / SECTOR-N-927, contained |
-| Gauge / Pressure | 502/502 out of 1000; starts 35–50% / 14–24 per hit · Void |
+| Gauge / Pressure | 502/502; starts 35–50% / 14–24 per hit · Void |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 

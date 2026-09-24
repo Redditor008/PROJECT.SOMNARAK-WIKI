@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Phantasmal |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament (Deep Blue) / SECTOR-O-926, contained |
-| Gauge / Pressure | 498/498 out of 1000; starts 35–50% / 17–28 per hit · Lament |
+| Gauge / Pressure | 498/498; starts 35–50% / 17–28 per hit · Lament |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

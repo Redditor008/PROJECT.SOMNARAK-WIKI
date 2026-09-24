@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Time — Can breach via Transform / Time-Phantasmal |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament (Deep Blue) / SECTOR-O-916, contained |
-| Gauge / Pressure | 449/449 out of 1000; starts 35–50% / 17–27 per hit · Lament |
+| Gauge / Pressure | 449/449; starts 35–50% / 17–27 per hit · Lament |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

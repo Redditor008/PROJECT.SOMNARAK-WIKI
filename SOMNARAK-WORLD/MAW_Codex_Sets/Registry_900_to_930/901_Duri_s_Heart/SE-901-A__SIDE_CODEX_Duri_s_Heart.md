@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Object — Can breach via Transform / Object-Body |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight (Black) / SECTOR-C-901, contained |
-| Gauge / Pressure | 448/448 out of 1000; starts 35–50% / 14–26 per hit · Weight |
+| Gauge / Pressure | 448/448; starts 35–50% / 14–26 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 

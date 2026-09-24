@@ -35,9 +35,9 @@ A minor-severity GREY encounter: localized damage. Contain before the grudge pre
 
 Standard response team, Level 2+ personnel.
 
-## Spawn Roster (Monster / Non-Crystal / Non-Humanoid)
+## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary GREY First Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Non-Crystal, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary GREY First Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Fury Hound (Monster, Fragment-grade)
 
@@ -45,11 +45,11 @@ Standard response team, Level 2+ personnel.
 
 | Stat | Value |
 |---|---|
-| **HP** | 120/120 out of 1000 |
+| **HP** | 120/120 |
 | **Han Pressure [ATK]** | 8–18 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered.. **[8-18 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[8–18 Crimson DMG [Crimson / Grudge]]**
 
 ### The Scar-Golem (Non-Crystal, Fragment-grade)
 
@@ -57,7 +57,7 @@ Standard response team, Level 2+ personnel.
 
 | Stat | Value |
 |---|---|
-| **HP** | 150/150 out of 1000 |
+| **HP** | 150/150 |
 | **Han Pressure [ATK]** | 13–23 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
@@ -65,15 +65,15 @@ Standard response team, Level 2+ personnel.
 
 ### The Blade Storm (Non-Humanoid, Fragment-grade)
 
-**Physical Form:** Non-Humanoid — A swirling vortex of spinning blades — hundreds of forged-iron and resentment-steel shards orbiting a core of compressed fury, three meters across. The blades are not uniform: some are sword-fragments, some are nail-like spikes, some are twisted rebar, some are the ragged edges of broken tools, all spinning in a deafening ring. There is no body at the centre — only the anger that holds the metal in orbit, and the metal does the cutting..
+**Physical Form:** Non-Humanoid — A swirling vortex of spinning blades — hundreds of forged-iron and resentment-steel shards orbiting a core of compressed fury, three meters across. The blades are not uniform: some are sword-fragments, some are nail-like spikes, some are twisted rebar, some are the ragged edges of broken tools, all spinning in a deafening ring. There is no body at the centre — only the anger that holds the metal in orbit, and the metal does the cutting.
 
 | Stat | Value |
 |---|---|
-| **HP** | 180/180 out of 1000 |
+| **HP** | 180/180 |
 | **Han Pressure [ATK]** | 18–28 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Deals damage themed to its form and element. **[18-28 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[18–28 Crimson DMG [Crimson / Grudge]]**
 
 
 ### The Knuckle-Boxer (Humanoid, Fragment-grade)
@@ -82,11 +82,11 @@ Standard response team, Level 2+ personnel.
 
 | Stat | Value |
 |---|---|
-| **HP** | 180/180 out of 1000 |
-| **Han Pressure [ATK]** | 14-22 per hit · Grudge |
+| **HP** | 180/180 |
+| **Han Pressure [ATK]** | 14–22 per hit · Grudge |
 | **Spawn Count** | 3 |
 
-**Ability:** It swings, and scar-hardened knuckles land with old grudge behind them.. **[[14-22 Crimson DMG [Crimson / Grudge]]]**
+**Ability:** It swings, and scar-hardened knuckles land with old grudge behind them. **[14–22 Crimson DMG [Crimson / Grudge]]**
 
 ### The Blood-Pool (Amorphous, Fragment-grade)
 
@@ -94,11 +94,11 @@ Standard response team, Level 2+ personnel.
 
 | Stat | Value |
 |---|---|
-| **HP** | 160/160 out of 1000 |
-| **Han Pressure [ATK]** | 12-18 per hit · Grudge |
+| **HP** | 160/160 |
+| **Han Pressure [ATK]** | 12–18 per hit · Grudge |
 | **Spawn Count** | 1 |
 
-**Ability:** It whips a tendril, and the old dried rage lands a wet, heavy blow.. **[[12-18 Crimson DMG [Crimson / Grudge]]]**
+**Ability:** It whips a tendril, and the old dried rage lands a wet, heavy blow. **[12–18 Crimson DMG [Crimson / Grudge]]**
 
 ### Razor-Vermin (Swarm, Fragment-grade)
 
@@ -106,11 +106,11 @@ Standard response team, Level 2+ personnel.
 
 | Stat | Value |
 |---|---|
-| **HP** | 35/35 out of 1000 |
-| **Han Pressure [ATK]** | 6-10 per hit · Grudge |
+| **HP** | 35/35 |
+| **Han Pressure [ATK]** | 6–10 per hit · Grudge |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They swarm, and dozens of small barbed bodies rake a single target.. **[[6-10 Crimson DMG [Crimson / Grudge]]]**
+**Ability:** They swarm, and dozens of small barbed bodies rake a single target. **[6–10 Crimson DMG [Crimson / Grudge]]**
 
 
 ## Trivia
@@ -121,5 +121,5 @@ Standard response team, Level 2+ personnel.
 
 - **Document ID:** ORDEAL-GREY-First-II
 - **Author:** R.D. Field Records
-- **Date:** Year 4247
+- **Date:** Year 4238
 - **Classification:** Restricted

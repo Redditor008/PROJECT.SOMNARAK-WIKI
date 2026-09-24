@@ -22,7 +22,7 @@ The Root formed from a life forced to grow in hostile ground. The grief of belon
 | Type / Manifestation | Subject — Can breach / Subject-Grudge |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament (Deep Blue) / The Desolate — mobile |
-| Gauge / Pressure | 653/653 out of 1000; starts 45–65% / 18–41 per hit · Lament |
+| Gauge / Pressure | 653/653; starts 45–65% / 18–41 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A Desolate settlement moved repeatedly, leaving its roots and structures behind each time. |
 

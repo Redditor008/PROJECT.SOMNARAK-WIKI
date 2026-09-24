@@ -221,7 +221,7 @@ A wall had become a procession. And Taeho, for the first time since the district
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room.. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Shield does not make its Bearer invulnerable; it makes protection cooperative. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This file is a map, not the territory. The SECC code, gauge thresholds, and M.A.W. notes are tools for understanding, not substitutes for being in the room. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Shield does not make its Bearer invulnerable; it makes protection cooperative. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck bond status, Bearer echo-accumulation, barrier endurance data, and group-cooperation metrics after every expansion, sustained formation, or contact with a Sovereign Sorrow Entity. A Hope Bearer record describes a living bond, not a permanently stable condition.
 

@@ -22,7 +22,7 @@ The Seed formed from concentrated grief waiting for a form. Potential sorrow—t
 | Type / Manifestation | Subject — Can breach / Object-Weight |
 | Coherence / Potency | Residue (I) — Barely formed, dormant / Minor (α) |
 | Element / Location | Weight (Black) / Zone D, Echo Gardens |
-| Gauge / Pressure | 174/174 out of 1000; starts 25–40% / 2–7 per hit · Weight |
+| Gauge / Pressure | 174/174; starts 25–40% / 2–7 per hit · Weight |
 | Observation | 1 — Initial |
 | Formation event | A grief fragment crystallized in the Echo Gardens and entered dormancy. |
 

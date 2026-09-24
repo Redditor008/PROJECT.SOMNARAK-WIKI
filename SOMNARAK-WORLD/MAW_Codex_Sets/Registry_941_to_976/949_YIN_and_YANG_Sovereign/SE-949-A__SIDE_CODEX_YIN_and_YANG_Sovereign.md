@@ -22,7 +22,7 @@ YIN and YANG Sovereign is the form the YIN Fish became when it consumed the YANG
 | Type / Manifestation | Subject — Can breach; transformation-apex / Subject-Spirit |
 | Coherence / Potency | Sovereign (V) — Held the sky and the river in one breath, and could not hold itself / Critical (δ) |
 | Element / Location | Mixed / Latent — manifests only upon the reunion of the YIN Fish (C-IIβ-947) and the YANG River Flood (C-IIIγ-948); currently Unmanifested / Forbidden |
-| Gauge / Pressure | 900/900 out of 1000; starts 60–80% / 16–34 per cycle · Mixed |
+| Gauge / Pressure | 900/900; starts 60–80% / 16–34 per cycle · Mixed |
 | Observation | 4 — Mastered (from a single historical transformation; never re-triggered) |
 | Formation event | The little fish, having eaten the dragon-stone, caused a rain that would not stop for a hundred years. Drowning in the guilt of it, the fish wished — not to fly, not to soar, but for the rain to end, for the sake of everyone drowning. A beam of light answered. The fish became the Sovereign — black and white, sky and river, vast and majestic — rose into the raining sky, and called the hundred-year rain back into the clouds. And then, because it was imperfect, it fell back into a small fish, and the memory sealed, and the hunger remained. |
 

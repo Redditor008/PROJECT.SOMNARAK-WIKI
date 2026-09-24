@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Time — Can breach via Transform / Time-Mind |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Void (Pale White) / SECTOR-C-918, contained |
-| Gauge / Pressure | 513/513 out of 1000; starts 35–50% / 14–20 per hit · Void |
+| Gauge / Pressure | 513/513; starts 35–50% / 14–20 per hit · Void |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 

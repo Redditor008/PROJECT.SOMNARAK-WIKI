@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Place — Can breach via Transform / Place-Mind |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Void (Pale White) / SECTOR-C-909, contained |
-| Gauge / Pressure | 481/481 out of 1000; starts 35–50% / 14–20 per hit · Void |
+| Gauge / Pressure | 481/481; starts 35–50% / 14–20 per hit · Void |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 

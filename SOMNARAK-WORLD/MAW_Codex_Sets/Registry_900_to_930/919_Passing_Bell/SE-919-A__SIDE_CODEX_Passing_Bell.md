@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Time — Can breach via Transform / Time-Spirit |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight (Black) / SECTOR-N-919, contained |
-| Gauge / Pressure | 495/495 out of 1000; starts 35–50% / 14–20 per hit · Weight |
+| Gauge / Pressure | 495/495; starts 35–50% / 14–20 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 

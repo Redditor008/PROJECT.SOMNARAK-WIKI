@@ -15,7 +15,7 @@
 | **Spawn Count** | 3–5 entities |
 | **Mortality** | Mortal — permanently suppressible |
 | **Han Pressure [ATK]** | 18–38 per hit · Raw Han (Purple) |
-| **HP** | 350/350 out of 1000 per entity |
+| **HP** | 350/350 per entity |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
 
@@ -49,45 +49,45 @@ Alert Level 3. Level 4+ team. Ranged M.A.W. essential — never let a Parasite c
 
 
 
-## Spawn Roster (Monster / Machine / Non-Humanoid)
+## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary PURPLE Third Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Machine, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary PURPLE Third Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Parasite Bloom (Monster, Elite-grade)
 
-**Physical Form:** Monster — A bloated, pulsing mass of wet purple flesh shaped like an enormous flower-head, two meters across. Its petals are thick, veined, and glistening with a viscous fluid that smells of rot and fermentation. At its centre is a gaping maw lined with rows of soft, translucent tendrils that drip spore-laden gas. The whole thing shudders and contracts rhythmically, like a heart, and where it sits, the floor darkens and softens, as though the biomass is slowly digesting the surface beneath it..
+**Physical Form:** Monster — A bloated, pulsing mass of wet purple flesh shaped like an enormous flower-head, two meters across. Its petals are thick, veined, and glistening with a viscous fluid that smells of rot and fermentation. At its centre is a gaping maw lined with rows of soft, translucent tendrils that drip spore-laden gas. The whole thing shudders and contracts rhythmically, like a heart, and where it sits, the floor darkens and softens, as though the biomass is slowly digesting the surface beneath it.
 
 | Stat | Value |
 |---|---|
-| **HP** | 350/350 out of 1000 |
+| **HP** | 350/350 |
 | **Han Pressure [ATK]** | 25–45 per hit · Mixed |
 | **Spawn Count** | 2–3 |
 
-**Ability:** Deals damage themed to its form and element. **[25-45 Crimson (HP) -> 25 Deep Blue (Sanity) -> 25 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[25–45 Crimson (HP) -> 25 Deep Blue (Sanity) -> 25 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 ### The Spore Loom (Machine, Elite-grade)
 
-**Physical Form:** Machine — A mechanical frame built of dark chitin plates and hardened sinew — not forged metal but grown, an organic machine. Its body resembles a loom or a centrifuge, and its many arms, jointed like insect legs, spin threads of concentrated Han from orifices along its flanks, casting the threads as nets and webs across corridors. The threads are sticky, living, and contract around anything they touch, drawing it toward the Loom's central maw. It ticks and clicks with the precision of clockwork, but the sound is wet..
+**Physical Form:** Machine — A mechanical frame built of dark chitin plates and hardened sinew — not forged metal but grown, an organic machine. Its body resembles a loom or a centrifuge, and its many arms, jointed like insect legs, spin threads of concentrated Han from orifices along its flanks, casting the threads as nets and webs across corridors. The threads are sticky, living, and contract around anything they touch, drawing it toward the Loom's central maw. It ticks and clicks with the precision of clockwork, but the sound is wet.
 
 | Stat | Value |
 |---|---|
-| **HP** | 380/380 out of 1000 |
+| **HP** | 380/380 |
 | **Han Pressure [ATK]** | 30–50 per hit · Mixed |
 | **Spawn Count** | 2–3 |
 
-**Ability:** Deals damage themed to its form and element. **[30-50 Crimson (HP) -> 30 Deep Blue (Sanity) -> 30 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** It weaves a dense aerial web of infectious mycelial filaments that entangles movement and infects armor seals with encroaching decay. **[30–50 Crimson (HP) -> 30 Deep Blue (Sanity) -> 30 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 ### The Root Network (Non-Humanoid, Elite-grade)
 
-**Physical Form:** Non-Humanoid — A spreading system of thick, fibrous roots that erupt from the floor, walls, and ceiling — not a single entity but a connected organism, a living infrastructure. The roots are purple, wet, and ridged, covered in fine translucent hairs that wave and seek. Where they meet, they fuse into thick knots that pulse with shared Han-fluid. The network grows visibly — a new root erupts every few seconds, reaching for warmth, for movement, for anything alive that it can wrap around and feed from..
+**Physical Form:** Non-Humanoid — A spreading system of thick, fibrous roots that erupt from the floor, walls, and ceiling — not a single entity but a connected organism, a living infrastructure. The roots are purple, wet, and ridged, covered in fine translucent hairs that wave and seek. Where they meet, they fuse into thick knots that pulse with shared Han-fluid. The network grows visibly — a new root erupts every few seconds, reaching for warmth, for movement, for anything alive that it can wrap around and feed from.
 
 | Stat | Value |
 |---|---|
-| **HP** | 410/410 out of 1000 |
+| **HP** | 410/410 |
 | **Han Pressure [ATK]** | 35–55 per hit · Mixed |
 | **Spawn Count** | 2–3 |
 
-**Ability:** Deals damage themed to its form and element. **[35-55 Crimson (HP) -> 35 Deep Blue (Sanity) -> 35 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[35–55 Crimson (HP) -> 35 Deep Blue (Sanity) -> 35 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 
 ## Trivia
@@ -103,6 +103,6 @@ Alert Level 3. Level 4+ team. Ranged M.A.W. essential — never let a Parasite c
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 
-**Date:** Year 4220
+**Date:** Year 4238 — Archive Retrieval Epoch
 
 **Classification:** Restricted

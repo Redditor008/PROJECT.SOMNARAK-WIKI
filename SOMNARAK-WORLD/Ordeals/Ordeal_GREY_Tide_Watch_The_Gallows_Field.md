@@ -35,9 +35,9 @@ A catastrophic-severity GREY encounter: widespread structural and personnel thre
 
 Echo-Core teams only.
 
-## Spawn Roster (Monster / Non-Crystal / Non-Humanoid)
+## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary GREY Tide Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Non-Crystal, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary GREY Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Fury Hound (Monster, Tide-Spawn-grade)
 
@@ -45,11 +45,11 @@ Echo-Core teams only.
 
 | Stat | Value |
 |---|---|
-| **HP** | 500/500 out of 1000 |
+| **HP** | 500/500 |
 | **Han Pressure [ATK]** | 35–60 per hit · Grudge |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered.. **[35-60 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[35–60 Crimson DMG [Crimson / Grudge]]**
 
 ### The Flesh-Tribunal (Non-Crystal, Tide-Spawn-grade)
 
@@ -57,7 +57,7 @@ Echo-Core teams only.
 
 | Stat | Value |
 |---|---|
-| **HP** | 530/530 out of 1000 |
+| **HP** | 530/530 |
 | **Han Pressure [ATK]** | 40–65 per hit · Grudge |
 | **Spawn Count** | 1–3 |
 
@@ -65,15 +65,15 @@ Echo-Core teams only.
 
 ### The Blade Storm (Non-Humanoid, Tide-Spawn-grade)
 
-**Physical Form:** Non-Humanoid — A swirling vortex of spinning blades — hundreds of forged-iron and resentment-steel shards orbiting a core of compressed fury, three meters across. The blades are not uniform: some are sword-fragments, some are nail-like spikes, some are twisted rebar, some are the ragged edges of broken tools, all spinning in a deafening ring. There is no body at the centre — only the anger that holds the metal in orbit, and the metal does the cutting..
+**Physical Form:** Non-Humanoid — A swirling vortex of spinning blades — hundreds of forged-iron and resentment-steel shards orbiting a core of compressed fury, three meters across. The blades are not uniform: some are sword-fragments, some are nail-like spikes, some are twisted rebar, some are the ragged edges of broken tools, all spinning in a deafening ring. There is no body at the centre — only the anger that holds the metal in orbit, and the metal does the cutting.
 
 | Stat | Value |
 |---|---|
-| **HP** | 560/560 out of 1000 |
+| **HP** | 560/560 |
 | **Han Pressure [ATK]** | 45–70 per hit · Grudge |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Deals damage themed to its form and element. **[45-70 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[45–70 Crimson DMG [Crimson / Grudge]]**
 
 
 ### The Executioner (Humanoid, Tide-Spawn-grade)
@@ -82,11 +82,11 @@ Echo-Core teams only.
 
 | Stat | Value |
 |---|---|
-| **HP** | 420/420 out of 1000 |
-| **Han Pressure [ATK]** | 32-46 per hit · Grudge |
+| **HP** | 420/420 |
+| **Han Pressure [ATK]** | 32–46 per hit · Grudge |
 | **Spawn Count** | 1 |
 
-**Ability:** It brings the blade down, and the sentence lands as a single annihilating stroke.. **[[32-46 Crimson DMG [Crimson / Grudge]]]**
+**Ability:** It brings the blade down, and the sentence lands as a single annihilating stroke. **[32–46 Crimson DMG [Crimson / Grudge]]**
 
 ### The Sentence (Amorphous, Tide-Spawn-grade)
 
@@ -94,11 +94,11 @@ Echo-Core teams only.
 
 | Stat | Value |
 |---|---|
-| **HP** | 400/400 out of 1000 |
-| **Han Pressure [ATK]** | 30-44 per hit · Grudge |
+| **HP** | 400/400 |
+| **Han Pressure [ATK]** | 30–44 per hit · Grudge |
 | **Spawn Count** | 1 |
 
-**Ability:** It wraps a group, and the barbed wire tightens with the weight of every condemnation.. **[[30-44 Crimson DMG [Crimson / Grudge]]]**
+**Ability:** It wraps a group, and the barbed wire tightens with the weight of every condemnation. **[30–44 Crimson DMG [Crimson / Grudge]]**
 
 ### The Gallows-Flies (Swarm, Tide-Spawn-grade)
 
@@ -106,11 +106,11 @@ Echo-Core teams only.
 
 | Stat | Value |
 |---|---|
-| **HP** | 40/40 out of 1000 |
-| **Han Pressure [ATK]** | 7-11 per hit · Grudge |
+| **HP** | 40/40 |
+| **Han Pressure [ATK]** | 7–11 per hit · Grudge |
 | **Spawn Count** | facility-wide |
 
-**Ability:** They cloud a target, and a thousand small cuts bleed them dry.. **[[7-11 Crimson DMG [Crimson / Grudge]]]**
+**Ability:** They cloud a target, and a thousand small cuts bleed them dry. **[7–11 Crimson DMG [Crimson / Grudge]]**
 
 
 ## Trivia
@@ -121,5 +121,5 @@ Echo-Core teams only.
 
 - **Document ID:** ORDEAL-GREY-Tide-II
 - **Author:** R.D. Field Records
-- **Date:** Year 4247
+- **Date:** Year 4238
 - **Classification:** Restricted

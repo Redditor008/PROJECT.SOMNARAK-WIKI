@@ -22,7 +22,7 @@ The Well formed from rage buried so deeply that it became an inner landscape. An
 | Type / Manifestation | Subject — Can breach / Subject-Mind |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Grudge (Crimson) / The Desolate — mobile |
-| Gauge / Pressure | 800/800 out of 1000; starts 60–80% / 27–59 per hit · Grudge |
+| Gauge / Pressure | 800/800; starts 60–80% / 27–59 per hit · Grudge |
 | Observation | 2 — Basic |
 | Formation event | A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants. |
 

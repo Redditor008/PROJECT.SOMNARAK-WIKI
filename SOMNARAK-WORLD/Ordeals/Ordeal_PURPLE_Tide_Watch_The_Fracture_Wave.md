@@ -15,7 +15,7 @@
 | **Spawn Count** | 1–3 entities |
 | **Mortality** | Mortal — permanently suppressible |
 | **Han Pressure [ATK]** | 35–96 per hit · Raw Han (Purple) |
-| **HP** | 676/676 out of 1000 per entity |
+| **HP** | 676/676 per entity |
 | **Instant Fracture** | Yes — on critical hits / special abilities |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
@@ -51,45 +51,45 @@ Alert Level 5. ALL personnel. Echo-Core direct command. Director Majin on standb
 
 
 
-## Spawn Roster (Monster / Machine / Non-Humanoid)
+## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary PURPLE Tide Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Machine, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary PURPLE Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Parasite Bloom (Monster, Tide-Spawn-grade)
 
-**Physical Form:** Monster — A bloated, pulsing mass of wet purple flesh shaped like an enormous flower-head, two meters across. Its petals are thick, veined, and glistening with a viscous fluid that smells of rot and fermentation. At its centre is a gaping maw lined with rows of soft, translucent tendrils that drip spore-laden gas. The whole thing shudders and contracts rhythmically, like a heart, and where it sits, the floor darkens and softens, as though the biomass is slowly digesting the surface beneath it..
+**Physical Form:** Monster — A bloated, pulsing mass of wet purple flesh shaped like an enormous flower-head, two meters across. Its petals are thick, veined, and glistening with a viscous fluid that smells of rot and fermentation. At its centre is a gaping maw lined with rows of soft, translucent tendrils that drip spore-laden gas. The whole thing shudders and contracts rhythmically, like a heart, and where it sits, the floor darkens and softens, as though the biomass is slowly digesting the surface beneath it.
 
 | Stat | Value |
 |---|---|
-| **HP** | 500/500 out of 1000 |
+| **HP** | 500/500 |
 | **Han Pressure [ATK]** | 35–60 per hit · Mixed |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Deals damage themed to its form and element. **[35-60 Crimson (HP) -> 35 Deep Blue (Sanity) -> 35 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[35–60 Crimson (HP) -> 35 Deep Blue (Sanity) -> 35 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 ### The Spore Loom (Machine, Tide-Spawn-grade)
 
-**Physical Form:** Machine — A mechanical frame built of dark chitin plates and hardened sinew — not forged metal but grown, an organic machine. Its body resembles a loom or a centrifuge, and its many arms, jointed like insect legs, spin threads of concentrated Han from orifices along its flanks, casting the threads as nets and webs across corridors. The threads are sticky, living, and contract around anything they touch, drawing it toward the Loom's central maw. It ticks and clicks with the precision of clockwork, but the sound is wet..
+**Physical Form:** Machine — A mechanical frame built of dark chitin plates and hardened sinew — not forged metal but grown, an organic machine. Its body resembles a loom or a centrifuge, and its many arms, jointed like insect legs, spin threads of concentrated Han from orifices along its flanks, casting the threads as nets and webs across corridors. The threads are sticky, living, and contract around anything they touch, drawing it toward the Loom's central maw. It ticks and clicks with the precision of clockwork, but the sound is wet.
 
 | Stat | Value |
 |---|---|
-| **HP** | 530/530 out of 1000 |
+| **HP** | 530/530 |
 | **Han Pressure [ATK]** | 40–65 per hit · Mixed |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Deals damage themed to its form and element. **[40-65 Crimson (HP) -> 40 Deep Blue (Sanity) -> 40 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** It weaves a dense aerial web of infectious mycelial filaments that entangles movement and infects armor seals with encroaching decay. **[40–65 Crimson (HP) -> 40 Deep Blue (Sanity) -> 40 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 ### The Root Network (Non-Humanoid, Tide-Spawn-grade)
 
-**Physical Form:** Non-Humanoid — A spreading system of thick, fibrous roots that erupt from the floor, walls, and ceiling — not a single entity but a connected organism, a living infrastructure. The roots are purple, wet, and ridged, covered in fine translucent hairs that wave and seek. Where they meet, they fuse into thick knots that pulse with shared Han-fluid. The network grows visibly — a new root erupts every few seconds, reaching for warmth, for movement, for anything alive that it can wrap around and feed from..
+**Physical Form:** Non-Humanoid — A spreading system of thick, fibrous roots that erupt from the floor, walls, and ceiling — not a single entity but a connected organism, a living infrastructure. The roots are purple, wet, and ridged, covered in fine translucent hairs that wave and seek. Where they meet, they fuse into thick knots that pulse with shared Han-fluid. The network grows visibly — a new root erupts every few seconds, reaching for warmth, for movement, for anything alive that it can wrap around and feed from.
 
 | Stat | Value |
 |---|---|
-| **HP** | 560/560 out of 1000 |
+| **HP** | 560/560 |
 | **Han Pressure [ATK]** | 45–70 per hit · Mixed |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Deals damage themed to its form and element. **[45-70 Crimson (HP) -> 45 Deep Blue (Sanity) -> 45 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[45–70 Crimson (HP) -> 45 Deep Blue (Sanity) -> 45 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 
 ## Trivia
@@ -105,6 +105,6 @@ Alert Level 5. ALL personnel. Echo-Core direct command. Director Majin on standb
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 
-**Date:** Year 4220
+**Date:** Year 4238 — Archive Retrieval Epoch
 
 **Classification:** Restricted

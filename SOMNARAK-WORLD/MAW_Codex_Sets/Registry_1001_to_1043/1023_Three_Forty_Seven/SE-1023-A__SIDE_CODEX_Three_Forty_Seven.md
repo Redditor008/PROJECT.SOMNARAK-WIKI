@@ -22,7 +22,7 @@ The Clocktower formed from a moment that could not end. The weight of waiting in
 | Type / Manifestation | Object/Place — Can breach via Transform / Place-Weight |
 | Coherence / Potency | Entity (IV) — Self-aware, time-obsessed / Major (γ) |
 | Element / Location | Weight (Black) / Zone C, near Collector's Row |
-| Gauge / Pressure | 772/772 out of 1000; starts 45–65% / 14–31 per hit · Weight |
+| Gauge / Pressure | 772/772; starts 45–65% / 14–31 per hit · Weight |
 | Observation | 3 — Advanced |
 | Formation event | An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant. |
 

@@ -22,7 +22,7 @@ The Echo formed from calls for help that went unanswered. The despair of asking 
 | Type / Manifestation | Subject — Can breach / Subject-Phantasmal |
 | Coherence / Potency | Echo (II) — Repeats calling out / Minor (α) — Low danger |
 | Element / Location | Void (Pale White) / Zone D, Echo Gardens — ambient |
-| Gauge / Pressure | 201/201 out of 1000; starts 25–40% / 3–10 per hit · Void |
+| Gauge / Pressure | 201/201; starts 25–40% / 3–10 per hit · Void |
 | Observation | 1 — Initial |
 | Formation event | People called from rubble, Han overflows, and Fracture zones. Their voices crystallized after the calls were ignored. |
 

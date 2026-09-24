@@ -52,7 +52,7 @@ A translucent commoner remains perpetually mid-bow along the old Dawn routes, ca
 | R.D. Observation Level | 2 — Basic |
 | Starting Sorrow Gauge | 40–55% |
 | Activation threshold | 1 |
-| Sorrow Gauge [HP] | 435/435 out of 1000 |
+| Sorrow Gauge [HP] | 435/435 |
 | Han Pressure [ATK] | 10–23 per hit · Weight |
 | Speed | 0.9 m/s |
 | Resistance | 30% against Weight pressure; 10% against other pressure types |

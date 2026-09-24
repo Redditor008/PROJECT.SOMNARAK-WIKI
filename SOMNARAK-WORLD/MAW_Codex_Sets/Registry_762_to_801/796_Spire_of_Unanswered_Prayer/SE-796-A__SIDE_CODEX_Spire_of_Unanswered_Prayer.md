@@ -22,7 +22,7 @@ The Tower formed from an Outside Sorrow settlement that never stopped mourning i
 | Type / Manifestation | Subject — Can breach / Subject-Spirit |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Lament (Deep Blue) / Zone A, Alpha Tree vault |
-| Gauge / Pressure | 415/415 out of 1000; starts 35–50% / 10–23 per hit · Lament |
+| Gauge / Pressure | 415/415; starts 35–50% / 10–23 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A Desolate community vanished beneath a Han surge; survivors carried its tower-song into the city. |
 

@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Tale |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament (Deep Blue) / SECTOR-O-930, contained |
-| Gauge / Pressure | 500/500 out of 1000; starts 35–50% / 14–22 per hit · Lament |
+| Gauge / Pressure | 500/500; starts 35–50% / 14–22 per hit · Lament |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 

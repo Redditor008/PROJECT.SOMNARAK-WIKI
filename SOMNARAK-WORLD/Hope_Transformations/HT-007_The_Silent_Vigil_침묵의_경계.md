@@ -183,7 +183,7 @@ The Vigil said nothing. It simply returned to the door, where it has stood every
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part.. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Vigil keeps watch over the watcher so the watcher may rest; it is not a substitute for human presence but a guarantee that rest need not equal abandonment. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Vigil keeps watch over the watcher so the watcher may rest; it is not a substitute for human presence but a guarantee that rest need not equal abandonment. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck bond status, Bearer sleep cycles, and shared-watch deployment after every extended operation or expansion event. A Hope Bearer record describes a living bond, not a permanently stable condition.
 

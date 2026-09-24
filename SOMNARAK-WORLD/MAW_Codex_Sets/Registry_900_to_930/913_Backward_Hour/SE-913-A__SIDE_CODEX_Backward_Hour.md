@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Time — Can breach via Transform / Time-Grudge |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Grudge (Crimson) / SECTOR-C-913, contained |
-| Gauge / Pressure | 478/478 out of 1000; starts 35–50% / 17–25 per hit · Grudge |
+| Gauge / Pressure | 478/478; starts 35–50% / 17–25 per hit · Grudge |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

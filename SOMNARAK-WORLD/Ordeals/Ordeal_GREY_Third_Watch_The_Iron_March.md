@@ -15,7 +15,7 @@
 | **Spawn Count** | 3–5 entities |
 | **Mortality** | Mortal — permanently suppressible |
 | **Han Pressure [ATK]** | 18–36 per hit · Grudge (Crimson) |
-| **HP** | 389/389 out of 1000 per entity |
+| **HP** | 389/389 per entity |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
 
@@ -49,9 +49,9 @@ Alert Level 3. Level 4+ team with area-effect M.A.W. Structural teams on standby
 
 
 
-## Spawn Roster (Monster / Machine / Non-Humanoid)
+## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary GREY Third Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Machine, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary GREY Third Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Fury Hound (Monster, Elite-grade)
 
@@ -59,11 +59,11 @@ Alert Level 3. Level 4+ team with area-effect M.A.W. Structural teams on standby
 
 | Stat | Value |
 |---|---|
-| **HP** | 350/350 out of 1000 |
+| **HP** | 350/350 |
 | **Han Pressure [ATK]** | 25–45 per hit · Grudge |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered.. **[25-45 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It snarls, and the sound of the snarl is the voice of every person who was ever wronged and never answered. **[25–45 Crimson DMG [Crimson / Grudge]]**
 
 ### The Iron Sentinel (Machine, Elite-grade)
 
@@ -71,23 +71,23 @@ Alert Level 3. Level 4+ team with area-effect M.A.W. Structural teams on standby
 
 | Stat | Value |
 |---|---|
-| **HP** | 380/380 out of 1000 |
+| **HP** | 380/380 |
 | **Han Pressure [ATK]** | 30–50 per hit · Grudge |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It advances with the grinding patience of a machine that has been told to judge, and does not know how to stop.. **[30-50 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It advances with the grinding patience of a machine that has been told to judge, and does not know how to stop. **[30–50 Crimson DMG [Crimson / Grudge]]**
 
 ### The Blade Storm (Non-Humanoid, Elite-grade)
 
-**Physical Form:** Non-Humanoid — A swirling vortex of spinning blades — hundreds of forged-iron and resentment-steel shards orbiting a core of compressed fury, three meters across. The blades are not uniform: some are sword-fragments, some are nail-like spikes, some are twisted rebar, some are the ragged edges of broken tools, all spinning in a deafening ring. There is no body at the centre — only the anger that holds the metal in orbit, and the metal does the cutting..
+**Physical Form:** Non-Humanoid — A swirling vortex of spinning blades — hundreds of forged-iron and resentment-steel shards orbiting a core of compressed fury, three meters across. The blades are not uniform: some are sword-fragments, some are nail-like spikes, some are twisted rebar, some are the ragged edges of broken tools, all spinning in a deafening ring. There is no body at the centre — only the anger that holds the metal in orbit, and the metal does the cutting.
 
 | Stat | Value |
 |---|---|
-| **HP** | 410/410 out of 1000 |
+| **HP** | 410/410 |
 | **Han Pressure [ATK]** | 35–55 per hit · Grudge |
 | **Spawn Count** | 2–3 |
 
-**Ability:** Deals damage themed to its form and element. **[35-55 Crimson DMG [Crimson / Grudge]]**
+**Ability:** It spins into a violent vortex of spinning scrap-iron and rusted sickle blades, lacerating all targets within reach with relentless grudge pressure. **[35–55 Crimson DMG [Crimson / Grudge]]**
 
 
 ## Trivia
@@ -103,6 +103,6 @@ Alert Level 3. Level 4+ team with area-effect M.A.W. Structural teams on standby
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 
-**Date:** Year 4220
+**Date:** Year 4238 — Archive Retrieval Epoch
 
 **Classification:** Restricted

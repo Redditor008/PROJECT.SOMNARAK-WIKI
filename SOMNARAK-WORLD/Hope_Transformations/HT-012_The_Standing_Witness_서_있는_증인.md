@@ -189,7 +189,7 @@ And her husband's name, written last on the first tablet, became the proof that 
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening.. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Witness keeps truth from vanishing quietly; it does not promise that truth will win, only that it will not be replaced by a cleaner story. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Witness keeps truth from vanishing quietly; it does not promise that truth will win, only that it will not be replaced by a cleaner story. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck bond status, tablet-load (number and weight of stored testimonies), and Bearer self-testimony status after every public-record release or large public incident. A Hope Bearer record describes a living bond, not a permanently stable condition.
 

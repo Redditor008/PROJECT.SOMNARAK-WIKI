@@ -35,21 +35,21 @@ A major-severity BLACK encounter: widespread structural and personnel threat. Co
 
 Level 4+, Containment Lead oversight.
 
-## Spawn Roster (Monster / Non-Crystal / Non-Humanoid)
+## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary BLACK Third Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Non-Crystal, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary BLACK Third Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Grinding Maw (Monster, Elite-grade)
 
-**Physical Form:** Monster — A massive low-slung beast the width of a cart, its body formed of interlocking slabs of dense black basalt fused over taut grey muscle and exposed ribs of dark iron. It has no head — only a wide, flat mouth of grinding stone teeth set in raw flesh, the gums wet and black, that rolls over whatever is beneath it. When it moves, the stone plates grind against each other and the muscle beneath ripples visibly, as though the rock is a shell and the thing inside is still alive and hungry..
+**Physical Form:** Monster — A massive low-slung beast the width of a cart, its body formed of interlocking slabs of dense black basalt fused over taut grey muscle and exposed ribs of dark iron. It has no head — only a wide, flat mouth of grinding stone teeth set in raw flesh, the gums wet and black, that rolls over whatever is beneath it. When it moves, the stone plates grind against each other and the muscle beneath ripples visibly, as though the rock is a shell and the thing inside is still alive and hungry.
 
 | Stat | Value |
 |---|---|
-| **HP** | 350/350 out of 1000 |
+| **HP** | 350/350 |
 | **Han Pressure [ATK]** | 25–45 per hit · Weight |
 | **Spawn Count** | 2–3 |
 
-**Ability:** Deals damage themed to its form and element. **[25-45 Black DMG [Black / Weight]]**
+**Ability:** It unhinges its wide flat jaw and surges forward, grinding basalt teeth against stone and flesh to crush targets beneath sheer geological tonnage. **[25–45 Black DMG [Black / Weight]]**
 
 ### The Ribcage Arch (Non-Crystal, Elite-grade)
 
@@ -57,7 +57,7 @@ Level 4+, Containment Lead oversight.
 
 | Stat | Value |
 |---|---|
-| **HP** | 380/380 out of 1000 |
+| **HP** | 380/380 |
 | **Han Pressure [ATK]** | 30–50 per hit · Weight |
 | **Spawn Count** | 2–3 |
 
@@ -65,15 +65,15 @@ Level 4+, Containment Lead oversight.
 
 ### The Living Avalanche (Non-Humanoid, Elite-grade)
 
-**Physical Form:** Non-Humanoid — Not a single body but a flowing mass — a cascade of sharp-edged black stone fragments and twisted iron rebar that moves like a landslide, burying and crushing. Scattered through the debris are clumps of compressed organic matter: dark flesh, hair, bone fragments from whatever it has already consumed, ground into the aggregate. It has no shape; it IS the shape of the ground it covers, and the ground is hungry..
+**Physical Form:** Non-Humanoid — Not a single body but a flowing mass — a cascade of sharp-edged black stone fragments and twisted iron rebar that moves like a landslide, burying and crushing. Scattered through the debris are clumps of compressed organic matter: dark flesh, hair, bone fragments from whatever it has already consumed, ground into the aggregate. It has no shape; it IS the shape of the ground it covers, and the ground is hungry.
 
 | Stat | Value |
 |---|---|
-| **HP** | 410/410 out of 1000 |
+| **HP** | 410/410 |
 | **Han Pressure [ATK]** | 35–55 per hit · Weight |
 | **Spawn Count** | 2–3 |
 
-**Ability:** Deals damage themed to its form and element. **[35-55 Black DMG [Black / Weight]]**
+**Ability:** It surges forward as an unyielding landslide of stone debris and jagged rebar, burying targets under suffocating weight and fracturing defenses. **[35–55 Black DMG [Black / Weight]]**
 
 
 ### The Anvil-Bearer (Humanoid, Elite-grade)
@@ -82,11 +82,11 @@ Level 4+, Containment Lead oversight.
 
 | Stat | Value |
 |---|---|
-| **HP** | 300/300 out of 1000 |
-| **Han Pressure [ATK]** | 24-36 per hit · Weight |
+| **HP** | 300/300 |
+| **Han Pressure [ATK]** | 24–36 per hit · Weight |
 | **Spawn Count** | 2 |
 
-**Ability:** It brings the anvil down, and the carried weight of years lands at once.. **[[24-36 Black DMG [Black / Weight]]]**
+**Ability:** It brings the anvil down, and the carried weight of years lands at once. **[24–36 Black DMG [Black / Weight]]**
 
 ### The Gravid Mass (Amorphous, Elite-grade)
 
@@ -94,11 +94,11 @@ Level 4+, Containment Lead oversight.
 
 | Stat | Value |
 |---|---|
-| **HP** | 320/320 out of 1000 |
-| **Han Pressure [ATK]** | 22-34 per hit · Weight |
+| **HP** | 320/320 |
+| **Han Pressure [ATK]** | 22–34 per hit · Weight |
 | **Spawn Count** | 1 |
 
-**Ability:** It rolls over a line, and the sheer tonnage flattens everything in its path.. **[[22-34 Black DMG [Black / Weight]]]**
+**Ability:** It rolls over a line, and the sheer tonnage flattens everything in its path. **[22–34 Black DMG [Black / Weight]]**
 
 ### Maul-Grubs (Swarm, Elite-grade)
 
@@ -106,11 +106,11 @@ Level 4+, Containment Lead oversight.
 
 | Stat | Value |
 |---|---|
-| **HP** | 60/60 out of 1000 |
-| **Han Pressure [ATK]** | 10-16 per hit · Weight |
+| **HP** | 60/60 |
+| **Han Pressure [ATK]** | 10–16 per hit · Weight |
 | **Spawn Count** | 10–14 |
 
-**Ability:** They bore in from below, dozens of heavy jaws grinding in unison.. **[[10-16 Black DMG [Black / Weight]]]**
+**Ability:** They bore in from below, dozens of heavy jaws grinding in unison. **[10–16 Black DMG [Black / Weight]]**
 
 
 ## Trivia
@@ -121,5 +121,5 @@ Level 4+, Containment Lead oversight.
 
 - **Document ID:** ORDEAL-BLACK-Third-II
 - **Author:** R.D. Field Records
-- **Date:** Year 4247
+- **Date:** Year 4238
 - **Classification:** Restricted

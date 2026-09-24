@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Hazard — Can breach via Transform / Hazard-Weight |
 | Coherence / Potency | Sovereign (V) / Catastrophic (ω) |
 | Element / Location | Weight (Black) / SECTOR-C-925, UNCONTAINED |
-| Gauge / Pressure | 521/521 out of 1000; starts 35–50% / 11–20 per hit · Weight |
+| Gauge / Pressure | 521/521; starts 35–50% / 11–20 per hit · Weight |
 | Observation | 5 — Sovereign |
 | Formation event | Not recorded |
 

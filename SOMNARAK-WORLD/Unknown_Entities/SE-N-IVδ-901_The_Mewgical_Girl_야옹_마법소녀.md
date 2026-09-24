@@ -55,7 +55,7 @@
 | **Speed** | 2.35 m/s; 3.10 m/s during synchronized movement |
 | **Resistance** | 35% against Mixed pressure; 20% against single-element pressure |
 | **Activation threshold** | Sorrow Gauge ≥ 75% or three control conflicts |
-| **Sorrow Gauge [HP]** | 837/837 out of 1000 |
+| **Sorrow Gauge [HP]** | 837/837 |
 | **Han Pressure [ATK]** | 27–59 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
@@ -78,7 +78,7 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Rapid Bombaa..* [**Shu Shu · Multi-Bomb Volley**] } | ""Ahuhuhu... have an appetizer, dearies!" — and five to eight cheap pirated fuse bombs come rattling out of the Star-Staff." | [Shu Shu looses a volley of small cartoon fuse-bombs that fly, bounce, roll, and scatter across the field.] | *Repeated small explosions pressure the whole area; if the personas fight mid-volley, some bombs bounce back toward the Mewgical Girl.* **[8 Crimson (HP) -> 8 Deep Blue (Sanity) -> 8 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]** | At battle open, or whenever Shu Shu seizes control. |
+| { *Rapid Bombaa.* [**Shu Shu · Multi-Bomb Volley**] } | ""Ahuhuhu... have an appetizer, dearies!" — and five to eight cheap pirated fuse bombs come rattling out of the Star-Staff." | [Shu Shu looses a volley of small cartoon fuse-bombs that fly, bounce, roll, and scatter across the field.] | *Repeated small explosions pressure the whole area; if the personas fight mid-volley, some bombs bounce back toward the Mewgical Girl.* **[8 Crimson (HP) -> 8 Deep Blue (Sanity) -> 8 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]** | At battle open, or whenever Shu Shu seizes control. |
 | { *Heart Burst* [**Mimi · Healing Heart**] } | "Mimi fires a three-meter pink 2D heart — doki-doki, warm, the kind of light that makes everything feel like it might be okay." | [Mimi projects a flat pink heart of magical energy that washes over allies and foes together.] | *Mends one ally (+12), calms panic, and soothes distress; deals only light Mixed pressure to enemies caught in the glow.* **[+12 Heal (allies) / 8 Mixed cycle (foes) | 8s, 2s per type]** | When Mimi leads, or an ally is wounded. |
 | { *BURST SHAAAAW* [**Both · Spiral Beam**] } | "Both voices align for a single scream — and a pink-and-gray spiral beam tears forward from the Star-Staff." | [Mimi and Shu Shu combine healing light and destructive spirit force into a spiraling beam that pierces in a straight line.] | *A combined beam carrying both harm and restoration; whose influence is stronger decides whether it mends or ruins.* **[12-18 Crimson (HP) -> 12-18 Deep Blue (Sanity) -> 12-18 Black (Both) -> 2 Pale White (10% Max HP) | 8s, 2s per type]** | When the two personas briefly synchronize. |
 | { *Catty Bomb* [**Shu Shu · Cat-Face Bomb**] } | "A one-meter bomb shaped like a crude bootleg cat face — ears, fangs, bent fuse — grins an instant before it pops." | [A cat-head fuse-bomb detonates, then fires lasers in four directions across the field.] | *Explosion plus a four-direction cross of lasers; bad placement can catch the Mewgical Girl in her own pattern.* **[12-18 Crimson (HP) -> 12-18 Deep Blue (Sanity) -> 12-18 Black (Both) -> 2 Pale White (10% Max HP) | 8s, 2s per type]** | When the entity funnels a target into a corner. |
@@ -96,7 +96,7 @@ These require the Mewgical Girl to charge (5-10s), during which Mimi and Shu Shu
 
 ### Cartoon Soot State
 
-When the Mewgical Girl is caught in her own bombs, she takes no normal damage — instead the body-soul anomaly converts the hit into slapstick: she is covered in black cartoon ash with only her eyes visible (bright blue = Mimi, red = Shu Shu, one of each = both). She may cough smoke, freeze in embarrassment, wobble, or yell. Most often triggered by **SHU SHU BOMB**, **Catty Bomb**, and **Rapid Bombaa..**.
+When the Mewgical Girl is caught in her own bombs, she takes no normal damage — instead the body-soul anomaly converts the hit into slapstick: she is covered in black cartoon ash with only her eyes visible (bright blue = Mimi, red = Shu Shu, one of each = both). She may cough smoke, freeze in embarrassment, wobble, or yell. Most often triggered by **SHU SHU BOMB**, **Catty Bomb**, and **Rapid Bombaa.**.
 
 ### Battle Audio
 
@@ -237,12 +237,12 @@ Each M.A.W. piece carries both voices and must be treated as a conditional exten
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective., Mimi/Shu Shu control state, equipment color. |
+| **Before use** | Deployment checklist: operator, grade, gauge baseline, emotional readiness, equipment wear, operational objective; Mimi/Shu Shu control state, equipment color. |
 | **During use** | Activation time, voice overlap, charge time, beam color, bomb count, healing output. |
 | **At limit** | Duration, persona conflict, self-hit, Cartoon Soot, staff instability. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for.. The Star-Staff's support rating is high, but its instability makes it the most psychologically demanding δ-grade focus on record.
+**Stat interpretation:** M.A.W. grades describe extraction stability, not human safety. A well-graded piece can still demand a toll that no rating system accounts for. The Star-Staff's support rating is high, but its instability makes it the most psychologically demanding δ-grade focus on record.
 
 ## 관찰 기록 (Observation Log)
 
@@ -394,7 +394,7 @@ They still argue. They still interrupt each other's songs. Mimi calls Shu Shu pa
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation.. The entity's behavior, dual-persona Work Type response, breach condition, M.A.W. instability, and interaction pattern must be read together. The Mewgical Girl is two identities sharing one vessel; a stable gauge does not prove a stable bond. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** The classification above is the frame; this record is the picture. Neither is complete without the other, and neither replaces direct observation. The entity's behavior, dual-persona Work Type response, breach condition, M.A.W. instability, and interaction pattern must be read together. The Mewgical Girl is two identities sharing one vessel; a stable gauge does not prove a stable bond. Do not normalize anomalies. If behavior deviates from this file, the deviation is the most important data in the room; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck the body-soul bond, persona-control balance, and Sorrow Gauge after every failed synchronization, charge interruption, self-hit, or forced control shift. The Unknown Sorrow Entity registry describes a living, wish-born phenomenon — not a permanently complete classification.
 

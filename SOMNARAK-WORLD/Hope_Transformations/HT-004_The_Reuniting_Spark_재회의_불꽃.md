@@ -219,7 +219,7 @@ The Spark, satisfied at last, settled against Duri's fingertips and went quiet. 
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part.. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Spark makes the other side of separation visible; it does not make separation painless or promise a return. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** No single section of this file is sufficient. The SECC Classification, the Work Type responses, and the breach protocols form one operational picture; act on the whole, not the part. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Spark makes the other side of separation visible; it does not make separation painless or promise a return. If observation contradicts the file, the file is wrong. Preserve the discrepancy, report it, and let the record grow rather than shrink; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck bond status, false-identity exposure, recovered-fragment authentication rate, and Bearer longing-accumulation after every large-scale reunification or contact with predatory Echoes. A Hope Bearer record describes a living bond, not a permanently stable condition.
 

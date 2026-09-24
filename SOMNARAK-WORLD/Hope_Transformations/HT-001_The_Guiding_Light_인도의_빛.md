@@ -219,7 +219,7 @@ That was the day Yeonhwa understood what the Light was for. It was not a compass
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening.. The entity's bonded behavior, Hope-intensity response, activation and expansion conditions, Bearer cost, and interaction pattern must be read together. The Light identifies a possible path; it does not guarantee that following it will be harmless. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity's bonded behavior, Hope-intensity response, activation and expansion conditions, Bearer cost, and interaction pattern must be read together. The Light identifies a possible path; it does not guarantee that following it will be harmless. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck bond status, Bearer exposure, route outcomes, and Hope-intensity trend after every expansion event, separation, or unusual interaction with a Sorrow Entity or Sovereign-class Hope presence. A Hope Bearer record describes a living bond, not a permanently stable condition.
 

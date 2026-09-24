@@ -15,7 +15,7 @@
 | **Spawn Count** | 1–3 entities |
 | **Mortality** | Mortal — permanently suppressible |
 | **Han Pressure [ATK]** | 38–108 per hit · Lament (Deep Blue) |
-| **HP** | 676/676 out of 1000 per entity |
+| **HP** | 676/676 per entity |
 | **Instant Fracture** | Yes — on critical hits / special abilities |
 | **Facility Zone** | All floors of the Hand of Change |
 | **First Recorded** | Year 4210 |
@@ -50,45 +50,45 @@ Alert Level 5. All available personnel. Echo-Core direct command. Facility-wide 
 
 
 
-## Spawn Roster (Monster / Machine / Non-Humanoid)
+## Spawn Roster (Machine / Monster / Non-Humanoid)
 
-> In addition to the primary BLUE Tide Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Machine, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary BLUE Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Machine / Monster / Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Weeping Leviathan (Monster, Tide-Spawn-grade)
 
-**Physical Form:** Monster — A long serpentine creature fully twenty meters from snout to tail, its body composed of translucent blue-grey skin stretched over visible ribs and a pulsing spine. Through the skin, organs are faintly visible — dark, wet, slowly churning. It has no eyes; its head is a wide, soft mouth that opens to release a keening wail, and from the corners of that mouth, actual tears stream — not water, but condensed sorrow, viscous and faintly luminescent, evaporating into fog as they fall..
+**Physical Form:** Monster — A long serpentine creature fully twenty meters from snout to tail, its body composed of translucent blue-grey skin stretched over visible ribs and a pulsing spine. Through the skin, organs are faintly visible — dark, wet, slowly churning. It has no eyes; its head is a wide, soft mouth that opens to release a keening wail, and from the corners of that mouth, actual tears stream — not water, but condensed sorrow, viscous and faintly luminescent, evaporating into fog as they fall.
 
 | Stat | Value |
 |---|---|
-| **HP** | 500/500 out of 1000 |
+| **HP** | 500/500 |
 | **Han Pressure [ATK]** | 35–60 per hit · Lament |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Deals damage themed to its form and element. **[35-60 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It crashes its colossal waterlogged bulk across the chamber, unleashing a tidal surge of concentrated brine that sweeps away defensive formations. **[35–60 Deep Blue DMG [Deep Blue / Lament]]**
 
 ### The Dirge Engine (Machine, Tide-Spawn-grade)
 
-**Physical Form:** Machine — A tarnished brass and corroded silver apparatus shaped like a vast music box mounted on eight spider-like legs of darkened steel. Its central cylinder, pitted with age and green with verdigris, rotates on a rusted axle, plucking tines of bent silver wire that emit waves of concentrated grief. The whole machine drips with condensation — cold, blue-tinged moisture that pools beneath it. It smells of wet copper and old rain..
+**Physical Form:** Machine — A tarnished brass and corroded silver apparatus shaped like a vast music box mounted on eight spider-like legs of darkened steel. Its central cylinder, pitted with age and green with verdigris, rotates on a rusted axle, plucking tines of bent silver wire that emit waves of concentrated grief. The whole machine drips with condensation — cold, blue-tinged moisture that pools beneath it. It smells of wet copper and old rain.
 
 | Stat | Value |
 |---|---|
-| **HP** | 530/530 out of 1000 |
+| **HP** | 530/530 |
 | **Han Pressure [ATK]** | 40–65 per hit · Lament |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Deals damage themed to its form and element. **[40-65 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It emits a rhythmic acoustic thrum from exposed iron bellows, rattling chest cavities and forcing brine to seep from ocular ducts. **[40–65 Deep Blue DMG [Deep Blue / Lament]]**
 
 ### The Sorrow Fog (Non-Humanoid, Tide-Spawn-grade)
 
-**Physical Form:** Non-Humanoid — A drifting bank of luminous blue mist that fills corridors and rooms — not a creature but a presence, the condensed grief of the Sorrow Tide made airborne. Within the fog, shapes move: half-formed, dissolving — faces, hands, the silhouettes of people who are not there. The mist is cold, damp, and clings to the skin like grief itself, and breathing it fills the lungs with an ache that has no physical source..
+**Physical Form:** Non-Humanoid — A drifting bank of luminous blue mist that fills corridors and rooms — not a creature but a presence, the condensed grief of the Sorrow Tide made airborne. Within the fog, shapes move: half-formed, dissolving — faces, hands, the silhouettes of people who are not there. The mist is cold, damp, and clings to the skin like grief itself, and breathing it fills the lungs with an ache that has no physical source.
 
 | Stat | Value |
 |---|---|
-| **HP** | 560/560 out of 1000 |
+| **HP** | 560/560 |
 | **Han Pressure [ATK]** | 45–70 per hit · Lament |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Deals damage themed to its form and element. **[45-70 Deep Blue DMG [Deep Blue / Lament]]**
+**Ability:** It billows outward in a dense, freezing mist of aerosolized brine, choking respiratory passages and inducing profound sorrow paralysis. **[45–70 Deep Blue DMG [Deep Blue / Lament]]**
 
 
 ## Trivia
@@ -104,6 +104,6 @@ Alert Level 5. All available personnel. Echo-Core direct command. Facility-wide 
 
 **Author:** Commander Taeho (태호), R.D. Ordeal Response Manual
 
-**Date:** Year 4220
+**Date:** Year 4238 — Archive Retrieval Epoch
 
 **Classification:** Restricted

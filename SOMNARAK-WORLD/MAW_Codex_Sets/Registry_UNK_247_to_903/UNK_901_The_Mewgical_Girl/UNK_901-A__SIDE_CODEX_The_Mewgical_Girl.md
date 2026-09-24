@@ -41,7 +41,7 @@ Flerehan succeeds only when both are addressed. Pugnahan provokes Shu Shu’s bo
 | R.D. Observation Level | 1 — Initial |
 | Starting Sorrow Gauge | 60–80% |
 | Activation threshold | Sorrow Gauge ≥ 75% or forced persona conflict |
-| Sorrow Gauge [HP] | 837/837 out of 1000 |
+| Sorrow Gauge [HP] | 837/837 |
 | Han Pressure [ATK] | 27–59 per hit · Grudge |
 | Speed | 2.35 m/s; 3.10 m/s during synchronized movement |
 | Resistance | 35% against Mixed pressure; 20% against single-element pressure |

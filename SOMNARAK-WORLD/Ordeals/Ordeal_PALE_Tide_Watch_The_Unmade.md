@@ -35,21 +35,21 @@ A catastrophic-severity PALE encounter: widespread structural and personnel thre
 
 Echo-Core teams only.
 
-## Spawn Roster (Monster / Non-Crystal / Non-Humanoid)
+## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary PALE Tide Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Non-Crystal, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary PALE Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Eyeless Hound (Monster, Tide-Spawn-grade)
 
-**Physical Form:** Monster — A pale beast, lean and silent, its skin like wet parchment stretched too tight over visible bone — every rib, every joint, every ridge of the skull visible through the translucent white membrane. It has no eyes, no mouth, no ears — just the smooth tight skin where features should be, and yet it tracks its prey with perfect precision, drawn not by sight or scent but by the presence of identity, which it seeks to erase. Its paws leave no prints. Where it passes, the floor is faintly faded..
+**Physical Form:** Monster — A pale beast, lean and silent, its skin like wet parchment stretched too tight over visible bone — every rib, every joint, every ridge of the skull visible through the translucent white membrane. It has no eyes, no mouth, no ears — just the smooth tight skin where features should be, and yet it tracks its prey with perfect precision, drawn not by sight or scent but by the presence of identity, which it seeks to erase. Its paws leave no prints. Where it passes, the floor is faintly faded.
 
 | Stat | Value |
 |---|---|
-| **HP** | 500/500 out of 1000 |
+| **HP** | 500/500 |
 | **Han Pressure [ATK]** | 35–60 per hit · Void |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Deals damage themed to its form and element. **[2 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It lunges forward with blind predatory frenzy, tearing at exposed flanks with jaws formed of calcified sorrow-bone. **[2 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 ### The Hollow (Non-Crystal, Tide-Spawn-grade)
 
@@ -57,7 +57,7 @@ Echo-Core teams only.
 
 | Stat | Value |
 |---|---|
-| **HP** | 530/530 out of 1000 |
+| **HP** | 530/530 |
 | **Han Pressure [ATK]** | 40–65 per hit · Void |
 | **Spawn Count** | 1–3 |
 
@@ -69,11 +69,11 @@ Echo-Core teams only.
 
 | Stat | Value |
 |---|---|
-| **HP** | 560/560 out of 1000 |
+| **HP** | 560/560 |
 | **Han Pressure [ATK]** | 45–70 per hit · Void |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It simply is, and what it touches, isn't.. **[3 Pale White DMG [Pale White / Void] (5% Max HP)]**
+**Ability:** It simply is, and what it touches, isn't. **[3 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 
 ### The Erased King (Humanoid, Tide-Spawn-grade)
@@ -82,11 +82,11 @@ Echo-Core teams only.
 
 | Stat | Value |
 |---|---|
-| **HP** | 400/400 out of 1000 |
+| **HP** | 400/400 |
 | **Han Pressure [ATK]** | 3 unit per hit · Void |
 | **Spawn Count** | 1 |
 
-**Ability:** Its shadow falls, and a portion of whoever it crosses simply stops existing.. **[[3 Pale White DMG [Pale White / Void] (5% Max HP)]]**
+**Ability:** Its shadow falls, and a portion of whoever it crosses simply stops existing. **[3 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 ### The Null (Amorphous, Tide-Spawn-grade)
 
@@ -94,11 +94,11 @@ Echo-Core teams only.
 
 | Stat | Value |
 |---|---|
-| **HP** | 380/380 out of 1000 |
+| **HP** | 380/380 |
 | **Han Pressure [ATK]** | 3 unit per hit · Void |
 | **Spawn Count** | 1 |
 
-**Ability:** It drifts through a crowd, and those it touches are gone, wholly, quietly.. **[[3 Pale White DMG [Pale White / Void] (5% Max HP)]]**
+**Ability:** It drifts through a crowd, and those it touches are gone, wholly, quietly. **[3 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 ### The Undoing (Swarm, Tide-Spawn-grade)
 
@@ -106,11 +106,11 @@ Echo-Core teams only.
 
 | Stat | Value |
 |---|---|
-| **HP** | 35/35 out of 1000 |
+| **HP** | 35/35 |
 | **Han Pressure [ATK]** | 1 unit per hit · Void |
 | **Spawn Count** | facility-wide |
 
-**Ability:** They settle, and whatever they cover is steadily, silently unmade.. **[[1 Pale White DMG [Pale White / Void] (5% Max HP)]]**
+**Ability:** They settle, and whatever they cover is steadily, silently unmade. **[1 Pale White DMG [Pale White / Void] (5% Max HP)]**
 
 
 ## Trivia
@@ -121,5 +121,5 @@ Echo-Core teams only.
 
 - **Document ID:** ORDEAL-PALE-Tide-II
 - **Author:** R.D. Field Records
-- **Date:** Year 4247
+- **Date:** Year 4238
 - **Classification:** Restricted

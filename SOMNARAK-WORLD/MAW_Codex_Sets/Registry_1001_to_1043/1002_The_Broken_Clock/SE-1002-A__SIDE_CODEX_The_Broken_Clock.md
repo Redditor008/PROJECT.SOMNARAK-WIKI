@@ -22,7 +22,7 @@ The Clock formed from the city's frustration with the repeating time loop of Yea
 | Type / Manifestation | Object/Place — Can breach via Transform; temporal activation / Object-Weight |
 | Coherence / Potency | Fragment (III) — Personality obsessed with time / Major (γ) — High danger |
 | Element / Location | Weight (Black) / SECTOR-A-01, Alpha Tree deep storage — contained |
-| Gauge / Pressure | 739/739 out of 1000; starts 45–65% / 13–31 per hit · Weight |
+| Gauge / Pressure | 739/739; starts 45–65% / 13–31 per hit · Weight |
 | Observation | 3 — Advanced |
 | Formation event | The loop made citizens experience events again and again without resolution. Their temporal exhaustion crystallized into the clock. |
 

@@ -22,7 +22,7 @@ The Bridge formed from crossings interrupted by catastrophe. The grief of journe
 | Type / Manifestation | Subject — Can breach / Subject-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament (Deep Blue) / Zone B, deep tunnels |
-| Gauge / Pressure | 809/809 out of 1000; starts 60–80% / 25–53 per hit · Lament |
+| Gauge / Pressure | 809/809; starts 60–80% / 25–53 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return. |
 

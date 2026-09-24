@@ -57,7 +57,7 @@
 | **Speed** | 2.80 m/s (moves as if it has walked this route a thousand times — it has) |
 | **Resistance** | 50% against Void pressure; 30% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 80% or loop-recognition by personnel |
-| **Sorrow Gauge [HP]** | 993/993 out of 1000 |
+| **Sorrow Gauge [HP]** | 993/993 |
 | **Han Pressure [ATK]** | 24–52 per hit · Grudge |
 | **Coherence modifier** | IV — retention across iterations (paradoxical) |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
@@ -212,12 +212,12 @@ Each M.A.W. piece carries the loop's central cost: detachment from the self. The
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective., any pre-existing loop-memories. |
+| **Before use** | Record: who wielded it, what grade, the gauge reading, the operator's emotional state, the equipment's condition, and the objective; any pre-existing loop-memories. |
 | **During use** | Activation time, staging cues perceived, assigned roles, identity-stability of the operator. |
 | **At limit** | Duration, loss-of-self markers, involuntary speech, loop-memory intrusions. |
 | **After use** | Removal, lingering emptiness, recovery of identity, repair need, reuse authorization. |
 
-**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow.. Every piece of this set trades a piece of the self for function.
+**Stat interpretation:** Grade is not safety. A β-grade M.A.W. that performs flawlessly may still hollow the wielder's memory or bind them to the source entity's sorrow. Every piece of this set trades a piece of the self for function.
 
 ## 관찰 기록 (Observation Log)
 
@@ -368,7 +368,7 @@ None ever did. The survivor walks the Hand of Change still, an ordinary agent wi
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. and only at Echo-Core clearance. The entity's loop-aware behavior, staging, restaging, M.A.W. cost, and interaction pattern must be read together. The Repeated Survivor is a paradox the Cycle cannot rewrite — a person who remembered, and was therefore emptied. A stable gauge does not mean the entity has ended; it means the scene has paused. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. and only at Echo-Core clearance. The entity's loop-aware behavior, staging, restaging, M.A.W. cost, and interaction pattern must be read together. The Repeated Survivor is a paradox the Cycle cannot rewrite — a person who remembered, and was therefore emptied. A stable gauge does not mean the entity has ended; it means the scene has paused. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck the entity's iteration count, staging patterns, restaged variations, and any personnel loop-memory retention after every cycle reset and every "Twist the Plot" event. The Unknown Sorrow Entity registry describes a living, cycle-born phenomenon — not a permanently complete classification.
 

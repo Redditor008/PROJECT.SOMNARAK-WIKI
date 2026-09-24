@@ -53,7 +53,7 @@
 | **Speed** | 1.4 m/s (she moves quicker than her small frame suggests, the way the wood quickens toward whoever is listening) |
 | **Resistance** | 35% against Lament pressure; 20% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [HP]** | 480/480 out of 1000 |
+| **Sorrow Gauge [HP]** | 480/480 |
 | **Han Pressure [ATK]** | 8–19 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | β — affects pressure, durability, and escalation severity |

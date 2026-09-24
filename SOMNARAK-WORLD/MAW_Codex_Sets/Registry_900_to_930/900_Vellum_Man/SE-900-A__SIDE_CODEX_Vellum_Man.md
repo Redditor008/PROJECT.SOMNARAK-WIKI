@@ -22,7 +22,7 @@ Not recorded Not recorded
 | Type / Manifestation | Subject — Can breach via Transform / Subject-Tale |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Lament (Deep Blue) / SECTOR-C-900, contained |
-| Gauge / Pressure | 406/406 out of 1000; starts 35–50% / 11–23 per hit · Lament |
+| Gauge / Pressure | 406/406; starts 35–50% / 11–23 per hit · Lament |
 | Observation | 1 — Trace |
 | Formation event | Not recorded |
 

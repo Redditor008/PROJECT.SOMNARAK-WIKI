@@ -54,7 +54,7 @@
 | **Speed** | N/A — stationary artifact |
 | **Resistance** | 35% against Void pressure; 20% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [HP]** | 480/480 out of 1000 |
+| **Sorrow Gauge [HP]** | 480/480 |
 | **Han Pressure [ATK]** | 10–22 per hit · Void |
 | **Coherence modifier** | II — focused protective boundary |
 | **Potency modifier** | β — absolute sanctuary warding |
@@ -166,7 +166,7 @@ Operatives assigned to Ferrehan must wear silk-lined gloves. If bare skin contac
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 1 Use | The Magistrate's Strike-Through sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Grinding the chalk along the floor to complete a closed unbroken circle around allies.) initiates an instantaneous, irreversible discharge across the battlefield. |
-| 3 Uses | Crystallized from the horror of holding the power to sentence the innocent and choosing self-annihilation over compliance. during the great directorate purge of year 4,119 on floor 6, where executioners demanded eighty-two signed death warrants before dawn., the relic answers only to complete commitment. | The full discharge completes: The chalk grinds completely into powder, creating a 30-second sanctuary. Allies inside are immune to Void damage, panic, and mind erosion. Hostiles crossing the line take 15 Void damage and are repelled 2 nodes. All hostile entities in range suffer devastating disruption and elemental debuffs. |
+| 3 Uses | Crystallized from the horror of holding the power to sentence the innocent and choosing self-annihilation over compliance. during the great directorate purge of year 4,119 on floor 6, where executioners demanded eighty-two signed death warrants before dawn; the relic answers only to complete commitment. | The full discharge completes: The chalk grinds completely into powder, creating a 30-second sanctuary. Allies inside are immune to Void damage, panic, and mind erosion. Hostiles crossing the line take 15 Void damage and are repelled 2 nodes. All hostile entities in range suffer devastating disruption and elemental debuffs. |
 | 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
 | 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The chalk is completely expended; all sheltered operatives forget their own family name for the shift. |
 

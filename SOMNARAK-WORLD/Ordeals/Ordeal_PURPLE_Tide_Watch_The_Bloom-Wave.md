@@ -35,21 +35,21 @@ A catastrophic-severity PURPLE encounter: widespread structural and personnel th
 
 Echo-Core teams only.
 
-## Spawn Roster (Monster / Non-Crystal / Non-Humanoid)
+## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary PURPLE Tide Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Non-Crystal, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary PURPLE Tide Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Parasite Bloom (Monster, Tide-Spawn-grade)
 
-**Physical Form:** Monster — A bloated, pulsing mass of wet purple flesh shaped like an enormous flower-head, two meters across. Its petals are thick, veined, and glistening with a viscous fluid that smells of rot and fermentation. At its centre is a gaping maw lined with rows of soft, translucent tendrils that drip spore-laden gas. The whole thing shudders and contracts rhythmically, like a heart, and where it sits, the floor darkens and softens, as though the biomass is slowly digesting the surface beneath it..
+**Physical Form:** Monster — A bloated, pulsing mass of wet purple flesh shaped like an enormous flower-head, two meters across. Its petals are thick, veined, and glistening with a viscous fluid that smells of rot and fermentation. At its centre is a gaping maw lined with rows of soft, translucent tendrils that drip spore-laden gas. The whole thing shudders and contracts rhythmically, like a heart, and where it sits, the floor darkens and softens, as though the biomass is slowly digesting the surface beneath it.
 
 | Stat | Value |
 |---|---|
-| **HP** | 500/500 out of 1000 |
+| **HP** | 500/500 |
 | **Han Pressure [ATK]** | 35–60 per hit · Mixed |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Deals damage themed to its form and element. **[35-60 Crimson (HP) -> 35 Deep Blue (Sanity) -> 35 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[35–60 Crimson (HP) -> 35 Deep Blue (Sanity) -> 35 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 ### The Rot-Tide (Non-Crystal, Tide-Spawn-grade)
 
@@ -57,23 +57,23 @@ Echo-Core teams only.
 
 | Stat | Value |
 |---|---|
-| **HP** | 530/530 out of 1000 |
+| **HP** | 530/530 |
 | **Han Pressure [ATK]** | 40–65 per hit · Mixed |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It washes over, and the corrupt matter seeps into and begins to transform whatever it covers. **[40-65 Crimson (HP) -> 40 Deep Blue (Sanity) -> 40 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** It washes over, and the corrupt matter seeps into and begins to transform whatever it covers. **[40–65 Crimson (HP) -> 40 Deep Blue (Sanity) -> 40 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 ### The Root Network (Non-Humanoid, Tide-Spawn-grade)
 
-**Physical Form:** Non-Humanoid — A spreading system of thick, fibrous roots that erupt from the floor, walls, and ceiling — not a single entity but a connected organism, a living infrastructure. The roots are purple, wet, and ridged, covered in fine translucent hairs that wave and seek. Where they meet, they fuse into thick knots that pulse with shared Han-fluid. The network grows visibly — a new root erupts every few seconds, reaching for warmth, for movement, for anything alive that it can wrap around and feed from..
+**Physical Form:** Non-Humanoid — A spreading system of thick, fibrous roots that erupt from the floor, walls, and ceiling — not a single entity but a connected organism, a living infrastructure. The roots are purple, wet, and ridged, covered in fine translucent hairs that wave and seek. Where they meet, they fuse into thick knots that pulse with shared Han-fluid. The network grows visibly — a new root erupts every few seconds, reaching for warmth, for movement, for anything alive that it can wrap around and feed from.
 
 | Stat | Value |
 |---|---|
-| **HP** | 560/560 out of 1000 |
+| **HP** | 560/560 |
 | **Han Pressure [ATK]** | 45–70 per hit · Mixed |
 | **Spawn Count** | 1–3 |
 
-**Ability:** Deals damage themed to its form and element. **[45-70 Crimson (HP) -> 45 Deep Blue (Sanity) -> 45 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[45–70 Crimson (HP) -> 45 Deep Blue (Sanity) -> 45 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 
 ### The Corrupted (Humanoid, Tide-Spawn-grade)
@@ -82,11 +82,11 @@ Echo-Core teams only.
 
 | Stat | Value |
 |---|---|
-| **HP** | 410/410 out of 1000 |
-| **Han Pressure [ATK]** | 30-44 per hit · Mixed |
+| **HP** | 410/410 |
+| **Han Pressure [ATK]** | 30–44 per hit · Mixed |
 | **Spawn Count** | 1 |
 
-**Ability:** It spreads its arms, and a cloud of transformative spore washes the hall.. **[[30-44 Crimson (HP) -> 30-44 Deep Blue (Sanity) -> 30-44 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]]**
+**Ability:** It spreads its arms, and a cloud of transformative spore washes the hall. **[30–44 Crimson (HP) -> 30–44 Deep Blue (Sanity) -> 30–44 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 ### The Spore-Storm (Amorphous, Tide-Spawn-grade)
 
@@ -94,11 +94,11 @@ Echo-Core teams only.
 
 | Stat | Value |
 |---|---|
-| **HP** | 400/400 out of 1000 |
-| **Han Pressure [ATK]** | 28-42 per hit · Mixed |
+| **HP** | 400/400 |
+| **Han Pressure [ATK]** | 28–42 per hit · Mixed |
 | **Spawn Count** | 1 |
 
-**Ability:** It rains, and everything beneath begins to bloom and change against its will.. **[[28-42 Crimson (HP) -> 28-42 Deep Blue (Sanity) -> 28-42 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]]**
+**Ability:** It rains, and everything beneath begins to bloom and change against its will. **[28–42 Crimson (HP) -> 28–42 Deep Blue (Sanity) -> 28–42 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 ### The Plague-Vermin (Swarm, Tide-Spawn-grade)
 
@@ -106,11 +106,11 @@ Echo-Core teams only.
 
 | Stat | Value |
 |---|---|
-| **HP** | 40/40 out of 1000 |
-| **Han Pressure [ATK]** | 7-11 per hit · Mixed |
+| **HP** | 40/40 |
+| **Han Pressure [ATK]** | 7–11 per hit · Mixed |
 | **Spawn Count** | facility-wide |
 
-**Ability:** They scatter through the facility, seeding corruption wherever they run.. **[[7-11 Crimson (HP) -> 7-11 Deep Blue (Sanity) -> 7-11 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]]**
+**Ability:** They scatter through the facility, seeding corruption wherever they run. **[7–11 Crimson (HP) -> 7–11 Deep Blue (Sanity) -> 7–11 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 
 ## Trivia
@@ -121,5 +121,5 @@ Echo-Core teams only.
 
 - **Document ID:** ORDEAL-PURPLE-Tide-II
 - **Author:** R.D. Field Records
-- **Date:** Year 4247
+- **Date:** Year 4238
 - **Classification:** Restricted

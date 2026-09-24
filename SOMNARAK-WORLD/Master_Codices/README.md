@@ -125,11 +125,11 @@ Trans-cosmic integrity audits and strict divergence certifications:
 
 In addition to the Master Codices, Project Somnarak maintains standalone operational and narrative suites:
 1. **`SOMNARAK-WORLD/Mugenhan_Ecology/`**: Planetary biology and tripartite taxonomy (Category 1: Mundane Organisms; Category 2: Sorrow Beasts [SB] / Sorrow Flora [SF]; Category 3: Mortal Sorrow Fauna / Flora [MSF]).
-   - [`MUGENHAN_ECOLOGY_OVERVIEW.md`](../Mugenhan_Ecology/MUGENHAN_ECOLOGY_OVERVIEW.md): Executive guide to the Tripartite Biological Taxonomy.
-   - [`MUGENHAN_PLANETARY_FLORA_AND_FAUNA.md`](../Mugenhan_Ecology/MUGENHAN_PLANETARY_FLORA_AND_FAUNA.md): Definitive catalog of 15 canonical mundane species across all macro-biomes.
-   - [`MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md`](../Mugenhan_Ecology/MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md): 6 Sorrow-Infused apex predators and dangerous plants (80% Bio / 20% SE-M.A.W.).
-   - [`MUGENHAN_SORROW_CREATURES.md`](../Mugenhan_Ecology/MUGENHAN_SORROW_CREATURES.md): 6 Mortal Sorrow Creatures (MSF: 4 Fauna, 2 Flora capped at Grade β).
-   - [`MUGENHAN_DEEP_ECOLOGY_COMPENDIUM.md`](../Mugenhan_Ecology/MUGENHAN_DEEP_ECOLOGY_COMPENDIUM.md): Secondary encyclopedic compendium of planetary ecology.
+   - [`MUGENHAN_ECOLOGY_OVERVIEW.md`](./Mugenhan_Ecology/MUGENHAN_ECOLOGY_OVERVIEW.md): Executive guide to the Tripartite Biological Taxonomy.
+   - [`MUGENHAN_PLANETARY_FLORA_AND_FAUNA.md`](./Mugenhan_Ecology/MUGENHAN_PLANETARY_FLORA_AND_FAUNA.md): Definitive catalog of 15 canonical mundane species across all macro-biomes.
+   - [`MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md`](./Mugenhan_Ecology/MUGENHAN_BEAST_ANIMALS_AND_PLANTS.md): 6 Sorrow-Infused apex predators and dangerous plants (80% Bio / 20% SE-M.A.W.).
+   - [`MUGENHAN_SORROW_CREATURES.md`](./Mugenhan_Ecology/MUGENHAN_SORROW_CREATURES.md): 6 Mortal Sorrow Creatures (MSF: 4 Fauna, 2 Flora capped at Grade β).
+   - [`MUGENHAN_DEEP_ECOLOGY_COMPENDIUM.md`](./Mugenhan_Ecology/MUGENHAN_DEEP_ECOLOGY_COMPENDIUM.md): Secondary encyclopedic compendium of planetary ecology.
 2. **`SOMNARAK-WORLD/Katabagil/`**: The Seven Subterranean Descents of the Somnarak Exploration Decree (Passages 1 to 7 + Overview).
 3. **`SOMNARAK-WORLD/Katharcheok/`**: The Six Underworld Pacifications of the Underworld Cleanup Descend (Operations 1 to 6 + Overview).
 4. **`SOMNARAK-WORLD/The_Absolvohan/`**: The Nine Serial Narrative Volumes of the Absolvohan Facility (Parts 1 to 9 + Overview).

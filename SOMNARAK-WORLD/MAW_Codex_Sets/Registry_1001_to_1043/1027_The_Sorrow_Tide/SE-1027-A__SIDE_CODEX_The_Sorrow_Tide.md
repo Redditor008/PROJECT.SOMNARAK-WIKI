@@ -22,7 +22,7 @@ The Tide is the natural rhythm of a city built on sorrow. The city's collective 
 | Type / Manifestation | Object/Place — Can breach via Transform; cyclical phenomenon / Place-Weight |
 | Coherence / Potency | Sovereign (V) — Autonomous and cyclical / Major (γ) |
 | Element / Location | Weight (Black) / All zones — periodic phenomenon |
-| Gauge / Pressure | 709/709 out of 1000; starts 45–65% / 14–31 per hit · Weight |
+| Gauge / Pressure | 709/709; starts 45–65% / 14–31 per hit · Weight |
 | Observation | 4 — Mastered |
 | Formation event | Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak. |
 

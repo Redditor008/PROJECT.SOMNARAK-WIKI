@@ -175,7 +175,7 @@ And Mori understood, at last, why the perfect memorial had always failed: becaus
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening.. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Memory keeps the dead present without pretending they have returned; it makes memorials honest rather than complete. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Memory keeps the dead present without pretending they have returned; it makes memorials honest rather than complete. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck bond status, memory-contamination markers, and archive-integration outcomes after every large memorial network or expansion. A Hope Bearer record describes a living bond, not a permanently stable condition.
 

@@ -35,21 +35,21 @@ A moderate-severity PURPLE encounter: localized damage. Contain before the mixed
 
 Level 3+ with M.A.W.
 
-## Spawn Roster (Monster / Non-Crystal / Non-Humanoid)
+## Spawn Roster (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm)
 
-> In addition to the primary PURPLE Second Watch entity, the following variants may spawn during the encounter, covering physical form types (Monster, Non-Crystal, Non-Humanoid) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
+> In addition to the primary PURPLE Second Watch entity, the following variants may spawn during the encounter, covering documented physical form types (Amorphous / Humanoid / Monster / Non-Crystal / Non-Humanoid / Swarm) with varied material composition — flesh, metal, bone, stone, and organic matter, not just crystal.
 
 ### The Parasite Bloom (Monster, Greater-grade)
 
-**Physical Form:** Monster — A bloated, pulsing mass of wet purple flesh shaped like an enormous flower-head, two meters across. Its petals are thick, veined, and glistening with a viscous fluid that smells of rot and fermentation. At its centre is a gaping maw lined with rows of soft, translucent tendrils that drip spore-laden gas. The whole thing shudders and contracts rhythmically, like a heart, and where it sits, the floor darkens and softens, as though the biomass is slowly digesting the surface beneath it..
+**Physical Form:** Monster — A bloated, pulsing mass of wet purple flesh shaped like an enormous flower-head, two meters across. Its petals are thick, veined, and glistening with a viscous fluid that smells of rot and fermentation. At its centre is a gaping maw lined with rows of soft, translucent tendrils that drip spore-laden gas. The whole thing shudders and contracts rhythmically, like a heart, and where it sits, the floor darkens and softens, as though the biomass is slowly digesting the surface beneath it.
 
 | Stat | Value |
 |---|---|
-| **HP** | 220/220 out of 1000 |
+| **HP** | 220/220 |
 | **Han Pressure [ATK]** | 15–30 per hit · Mixed |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Deals damage themed to its form and element. **[15-30 Crimson (HP) -> 15 Deep Blue (Sanity) -> 15 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** It bursts into a shower of virulent fungal spores, taking root in exposed wounds and leeching physical vitality to sprout rot-tendrils. **[15–30 Crimson (HP) -> 15 Deep Blue (Sanity) -> 15 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 ### The Gut-Blossom (Non-Crystal, Greater-grade)
 
@@ -57,23 +57,23 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 250/250 out of 1000 |
+| **HP** | 250/250 |
 | **Han Pressure [ATK]** | 20–35 per hit · Mixed |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It exhales, and a mist of digestive pollen begins to break down whatever it settles on. **[20-35 Crimson (HP) -> 20 Deep Blue (Sanity) -> 20 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** It exhales, and a mist of digestive pollen begins to break down whatever it settles on. **[20–35 Crimson (HP) -> 20 Deep Blue (Sanity) -> 20 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 ### The Root Network (Non-Humanoid, Greater-grade)
 
-**Physical Form:** Non-Humanoid — A spreading system of thick, fibrous roots that erupt from the floor, walls, and ceiling — not a single entity but a connected organism, a living infrastructure. The roots are purple, wet, and ridged, covered in fine translucent hairs that wave and seek. Where they meet, they fuse into thick knots that pulse with shared Han-fluid. The network grows visibly — a new root erupts every few seconds, reaching for warmth, for movement, for anything alive that it can wrap around and feed from..
+**Physical Form:** Non-Humanoid — A spreading system of thick, fibrous roots that erupt from the floor, walls, and ceiling — not a single entity but a connected organism, a living infrastructure. The roots are purple, wet, and ridged, covered in fine translucent hairs that wave and seek. Where they meet, they fuse into thick knots that pulse with shared Han-fluid. The network grows visibly — a new root erupts every few seconds, reaching for warmth, for movement, for anything alive that it can wrap around and feed from.
 
 | Stat | Value |
 |---|---|
-| **HP** | 280/280 out of 1000 |
+| **HP** | 280/280 |
 | **Han Pressure [ATK]** | 25–40 per hit · Mixed |
 | **Spawn Count** | 2–2 |
 
-**Ability:** Deals damage themed to its form and element. **[25-40 Crimson (HP) -> 25 Deep Blue (Sanity) -> 25 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
+**Ability:** Thick black roots erupt from the flagstones to seize ankles and limbs, dragging targets down into the damp soil of the lower stratum. **[25–40 Crimson (HP) -> 25 Deep Blue (Sanity) -> 25 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 
 ### The Host (Humanoid, Greater-grade)
@@ -82,11 +82,11 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 230/230 out of 1000 |
-| **Han Pressure [ATK]** | 16-26 per hit · Mixed |
+| **HP** | 230/230 |
+| **Han Pressure [ATK]** | 16–26 per hit · Mixed |
 | **Spawn Count** | 2 |
 
-**Ability:** It exhales pollen, and the parasitic spores begin to root in the breathers.. **[[16-26 Crimson (HP) -> 16-26 Deep Blue (Sanity) -> 16-26 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]]**
+**Ability:** It exhales pollen, and the parasitic spores begin to root in the breathers. **[16–26 Crimson (HP) -> 16–26 Deep Blue (Sanity) -> 16–26 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 ### The Rot-Bloom (Amorphous, Greater-grade)
 
@@ -94,11 +94,11 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 210/210 out of 1000 |
-| **Han Pressure [ATK]** | 14-22 per hit · Mixed |
+| **HP** | 210/210 |
+| **Han Pressure [ATK]** | 14–22 per hit · Mixed |
 | **Spawn Count** | 1 |
 
-**Ability:** Its pollen settles, and organic matter beneath it begins to soften and transform.. **[[14-22 Crimson (HP) -> 14-22 Deep Blue (Sanity) -> 14-22 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]]**
+**Ability:** Its pollen settles, and organic matter beneath it begins to soften and transform. **[14–22 Crimson (HP) -> 14–22 Deep Blue (Sanity) -> 14–22 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 ### The Cord-Larvae (Swarm, Greater-grade)
 
@@ -106,11 +106,11 @@ Level 3+ with M.A.W.
 
 | Stat | Value |
 |---|---|
-| **HP** | 45/45 out of 1000 |
-| **Han Pressure [ATK]** | 7-10 per hit · Mixed |
+| **HP** | 45/45 |
+| **Han Pressure [ATK]** | 7–10 per hit · Mixed |
 | **Spawn Count** | 8–12 |
 
-**Ability:** They burrow, and once inside they turn the host own reflexes against them.. **[[7-10 Crimson (HP) -> 7-10 Deep Blue (Sanity) -> 7-10 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]]**
+**Ability:** They burrow, and once inside they turn the host own reflexes against them. **[7–10 Crimson (HP) -> 7–10 Deep Blue (Sanity) -> 7–10 Black (Both) -> 1 Pale White (5% Max HP) | 8s, 2s per type]**
 
 
 ## Trivia
@@ -121,5 +121,5 @@ Level 3+ with M.A.W.
 
 - **Document ID:** ORDEAL-PURPLE-Second-II
 - **Author:** R.D. Field Records
-- **Date:** Year 4247
+- **Date:** Year 4238
 - **Classification:** Restricted

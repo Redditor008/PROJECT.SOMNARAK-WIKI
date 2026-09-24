@@ -22,7 +22,7 @@ The Wall formed from love that was never returned. The burden of remembering som
 | Type / Manifestation | Subject — Can breach / Subject-Weight |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament (Deep Blue) / Zone D, Mantle Commons |
-| Gauge / Pressure | 919/919 out of 1000; starts 60–80% / 23–50 per hit · Lament |
+| Gauge / Pressure | 919/919; starts 60–80% / 23–50 per hit · Lament |
 | Observation | 2 — Basic |
 | Formation event | A citizen waited for a love that never answered; the waiting became a rising wall. |
 

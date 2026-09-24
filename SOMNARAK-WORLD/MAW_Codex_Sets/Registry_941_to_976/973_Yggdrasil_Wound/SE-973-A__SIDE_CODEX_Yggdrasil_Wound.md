@@ -22,7 +22,7 @@ The Tree formed from a mind divided by loss. The grief of a person whose identit
 | Type / Manifestation | Subject — Can breach / Subject-Mind |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Void (Pale White) / Zone B, deep tunnels |
-| Gauge / Pressure | 198/198 out of 1000; starts 25–40% / 3–10 per hit · Void |
+| Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Void |
 | Observation | 1 — Initial |
 | Formation event | A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence. |
 

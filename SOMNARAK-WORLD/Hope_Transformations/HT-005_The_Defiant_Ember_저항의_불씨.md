@@ -223,7 +223,7 @@ A door could be opened by force. Leaving it open, without deciding who walked th
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry.. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Ember frees; it does not authorize the freed to be ruled. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is one layer of a larger document; read it alongside the SECC Classification, the Combat Record, and the M.A.W. profile before acting on any single entry. The entity's bonded behavior, expansion conditions, Bearer cost, and interaction pattern must be read together. The Ember frees; it does not authorize the freed to be ruled. Contradictions are data, not errors. If the entity behaves unpredictably, log the deviation; do not reconcile it by editing the record; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck bond status, escalation incidents, consent-protocol compliance, and Bearer anger-accumulation after every resistance network or liberation operation. A Hope Bearer record describes a living bond, not a permanently stable condition.
 

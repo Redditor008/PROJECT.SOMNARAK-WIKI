@@ -83,7 +83,7 @@ The second shockwave had severed the sentence mid-syllable. The sound wave hit Y
 
 Because of the harmonic back-pulse and her subsequent attunement to `MAW-W-021-01`, Seol-A had carried that severed sentence ever since. The M.A.W. weapon's curse was absolute: every time its blade was drawn, the bearer lost the capacity to finish an ordinary sentence unless an honest truth of equal weight was spoken aloud. To speak lightly in Facility 01 was dangerous; to speak with a severed tongue was fatal.
 
-"Yoon's sister died five hundred years ago, Min-Jae," Seol-A murmured, her voice flat, devoid of cadence. "She died during the Great Collapse of Cycle 1,580. Even if I knew what the end of his sentence was, there is no one left alive on this planet to hear it."
+"Yoon's sister died two hundred years ago, Min-Jae," Seol-A murmured, her voice flat, devoid of cadence. "She died during the Great Collapse of Cycle 1,580. Even if I knew what the end of his sentence was, there is no one left alive on this planet to hear it."
 
 "Then you don't speak it for her," a boisterous voice cut in.
 
@@ -96,6 +96,8 @@ Seol-A stared at the blunt vanguard, a faint, wry smirk pulling at the corner of
 "Damn right it is," Taeho grinned, flexing his broad shoulders. "Simplicity preserves life. Just ask Min-Jae. How many times have I kept your flank clean, anchor?"
 
 "Fourteen hundred and twelve times," Min-Jae replied without missing a beat. "And three hundred and eight times I had to drag you out of an acid puddle by your collar."
+
+It was an impossible number for mortal men, but none of them were strictly mortal anymore. In the subterranean depths of The Absolvohan, ordinary cellular mortality had long ceased to function under the laws of the surface. Through the phenomenon known as **Mnemonic Cycle Dilation** (  기억 주기 지연  , *Gieok Jugi Jiyeon*) and **Han-Saturation Cellular Stasis** (  한 포화 세포 정체  , *Han Pohwa Sepo Jeongche*), operatives bound to high-grade M.A.W. weaponry ceased to age along ordinary calendar years. Between the violent municipal resets of the 1,778 Cycles, their biological tissues were suspended within the cryo-engrammatic salt-strata of the lower vaults—frozen at the exact somatic hour of their binding oath, re-awakened only when containment ruptured or an atmospheric watch sounded. They had endured through two hundred and sixty-six cycles not by outliving time, but by having time torn away from them, leaving only their weapons, their grudges, and the stubborn weight of living.
 
 Before Taeho could protest, the floor beneath their boots did not shake—it hummed.
 

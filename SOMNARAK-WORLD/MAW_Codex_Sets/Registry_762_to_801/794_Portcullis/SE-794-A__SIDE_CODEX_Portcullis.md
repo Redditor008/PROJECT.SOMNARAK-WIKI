@@ -22,7 +22,7 @@ The Door formed from a passage closed before someone could leave. The burden of 
 | Type / Manifestation | Object/Place — Can breach via Transform / Object-Weight |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Lament (Deep Blue) / Zone B, deep tunnels |
-| Gauge / Pressure | 198/198 out of 1000; starts 25–40% / 3–10 per hit · Lament |
+| Gauge / Pressure | 198/198; starts 25–40% / 3–10 per hit · Lament |
 | Observation | 1 — Initial |
 | Formation event | A tunnel collapse sealed a door while people were still on both sides of it. |
 

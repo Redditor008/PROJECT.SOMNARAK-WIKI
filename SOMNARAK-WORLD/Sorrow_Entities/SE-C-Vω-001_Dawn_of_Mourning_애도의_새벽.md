@@ -53,7 +53,7 @@
 | **Speed** | 2.95 m/s |
 | **Resistance** | 55% against All four — Lament, Grudge, Void, Weight pressure; 45% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 95% |
-| **Sorrow Gauge [HP]** | 999/999 out of 1000 |
+| **Sorrow Gauge [HP]** | 999/999 |
 | **Han Pressure [ATK]** | 44–111 per hit · Lament · **Instant Fracture on critical** |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | ω — affects pressure, durability, and escalation severity |
@@ -94,7 +94,7 @@
 - A worker who cannot hold against the entity's sorrow becomes a conduit — pressure flows through them and back into the gauge. **Resolve** and may increase the Sorrow Gauge.
 - The entity's documented effects intensify with duration. What is manageable in a five-minute cycle becomes dangerous in fifteen. the entity’s documented emotional, physical, identity, or environmental effect.
 - Each M.A.W. use debits the wielder — in composure, in memory, in something the grade does not measure. recorded in the equipment section.
-- Without resolution the sorrow does not dissipate; it breaches. The entity follows the escalation recorded in its file., the entity follows its breach, activation, or expansion behavior.
+- Without resolution the sorrow does not dissipate; it breaches. The entity follows the escalation recorded in its file; the entity follows its breach, activation, or expansion behavior.
 
 ## Appearance
 **Primary Form:** A divine figure with wings made of sorrow, a crown of Han-crystal, and a voice composed of a thousand weeping tones.
@@ -123,7 +123,7 @@
 | **Distinctive markers** | Judges all who enter its sight. Sentences the judged through sorrow-crucifixion. Each feather represents the grief of a blessed person. |
 | **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
 
-**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle., and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
+**Appearance protocol:** Scale, distance, posture, surface — the four visual markers that precede every activation. Log them every cycle; and the first visible change during activation. Precision is protocol. Every observation should be concrete enough that another agent could identify the entity from your words alone. such as “strange” or “anomalous.”
 
 ## Origin
 - **Formation:** The Dawn is the catastrophic historical form of the Kind Healer. In the current cycle, the twelfth blessing produced The Hand of Hope instead.
@@ -238,12 +238,12 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal., equipment condition, mission objective. |
+| **Before use** | Log the human variables: who, what grade, what gauge, what state of mind, what condition of equipment, what goal; equipment condition, mission objective. |
 | **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |
 | **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |
 | **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |
 
-**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound.. A low-rated M.A.W. piece can carry a severe psychological cost.
+**Stat interpretation:** Field performance and human cost are different axes. An efficient M.A.W. can still leave the wielder Fractured, hollowed, or sorrow-bound. A low-rated M.A.W. piece can carry a severe psychological cost.
 
 ## 관찰 기록 (Observation Log)
 
@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Initial exposure** | The observer identifies Dawn of Mourning as a Subject with Subject-Body manifestation. The first reliable markers are its All four — Lament, Grudge, Void, Weight signature, the primary visual marker, and its presence at Never contained; forms through the Kind Healer transformation chain. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: The Dawn is a catastrophic event and cannot be safely worked with. Special Behavior - The word “Guilty” is inflicted rather than spoken. - False or partial confession fails. - The only. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data., what remained stable, and which detail was most difficult to describe. In Dawn of Mourning's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Dawn of Mourning's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -317,7 +317,7 @@ The Kind Healer rises into light that is not light. Twelve colors merge, and win
 
 Dawn of Mourning does not exist in isolation. Its recorded relationships with The Kind Healer, The Hand of Hope, The Maw, The Grieving Colossus, The Orphaned Bell, The Convergence should be treated as resonance patterns rather than simple alliances or hostilities. When another entity is nearby, the team must record whether the response changes in sound, movement, temperature, memory pressure, Sorrow Gauge, or containment stability.
 
-**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study.. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect., the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
+**Interaction method:** First alone, then together. Solo baselines are the control group for every interaction study. Log the first cross-entity response: the distance that activates it, the duration, the gauge change, the operational impact, and whether separation ends the effect; the distance at which it appears, and whether the interaction calms, amplifies, imitates, or redirects the originating sorrow. Each interaction is a new experiment. Even identical entities in identical conditions may respond differently across cycles. to repeat; no interaction is permanent. Sorrow Tides, breaches, and transformations can flip a calming resonance into a cascading escalation. a Sorrow Tide, breach, Ordeal, or transformation event.
 
 
 ### Entity Interaction Record
@@ -333,7 +333,7 @@ Dawn of Mourning must be assessed as part of an entity network, not as an isolat
 | **The Orphaned Bell** | Tolls when the Dawn manifests. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Convergence** | Simultaneous formation threatens reality collapse. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study.. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
+**Interaction procedure:** First alone, then together. Solo baselines are the control group for every interaction study. Then record the first shared change, the distance, duration, trigger, Sorrow Gauge movement, effect on the battlefield, and whether the effect remains after separation.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -383,9 +383,9 @@ Some sorrows are about loss. Dawn of Mourning is about compassion inverted — t
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening.. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy., personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity’s behavior, Work Type response, activation or breach condition, M.A.W. risk, and interaction pattern must be read together. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture., personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
+**Review requirement:** Standard post-incident procedure: verify the four pillars — gauge, seal, personnel, position. Any event resets the operational picture; personnel exposure, and location after every breach, expansion, transformation attempt, or unusual interaction. The R.D. record describes a living sorrow pattern, not a permanently complete explanation.
 ## Trivia
 
 - The Dawn's wings contain twelve voices, one for each blessing.

@@ -54,7 +54,7 @@
 | **Speed** | N/A — fixed |
 | **Resistance** | 35% against Lament pressure; 24% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [HP]** | 404/404 out of 1000 |
+| **Sorrow Gauge [HP]** | 404/404 |
 | **Han Pressure [ATK]** | 17–23 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
@@ -190,7 +190,7 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Thinking Engine begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates Thinking Engine: Projects concentrated Lament sorrow resonance across the immediate perimeter. Adjacent containment units experience stabilized Sorrow Gauges. |
-| 30 Seconds | The conduit widens, revealing the memory of the accumulated grief of unacknowledged lament. forged during a crisis in the city where lament went unaddressed.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 30 Seconds | The conduit widens, revealing the memory of the accumulated grief of unacknowledged lament. forged during a crisis in the city where lament went unaddressed. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
 | 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Thinking Engine's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
 | 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: Prolonged contact causes cognitive and emotional fatigue. all personnel in the sector take heavy damage. |
 
