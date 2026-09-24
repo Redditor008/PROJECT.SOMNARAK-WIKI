@@ -139,6 +139,32 @@ The full Manifestation is written as **[Physical Type]-[Descriptor]**, combining
 
 Whether the entity is made of living matter or not: **Organic**, **Non-Organic**, or **Mixed**.
 
+### Special Transform Type Entities (Breach Metamorphosis & Designation Shift)
+
+Certain extraordinary Sorrow Entities possess unstable or dual physical classifications that shift during catastrophic containment breaches. When their Sorrow Gauge escalates beyond containment thresholds or structural barriers collapse, these entities undergo an official SECC designation and manifestation shift:
+
+1. **Place → Subject Metamorphosis (The Maw Archetype):**
+   - **Baseline Contained Designation:** `C-IVω-001 [GP]` (Place-Tale / Stationary District in Zone B).
+   - **Breaching Subject Designation:** `C-IVω-001-B [GS]` (Breaching Subject-Tale / The Walking District).
+   - **Operational Parameters Shift:** In its contained state (`[GP]`), only **Viderehan** and **Ferrehan** are valid (Two-Work-Type Rule). Upon containment failure, the architectural boundaries, whispering masonry, and tar detach from the bedrock, coalescing into an active, mobile colossal titan. In this breaching state (`[GS]`), all four Work Types become active combat vectors.
+
+2. **Sequential Phase Metamorphosis (Stage Progression):**
+   - Entities whose escalation permanently rewires their identity across successive containment failures.
+   - Example: *The Kind Healer* (`C-Iα-071 [LS]`) progressing into *The Patient Martyr* (`C-IIIγ-071b [LS]`), culminating in *The Apostle Maker* (`C-Vω-071c [LS]`).
+   - The SECC designation code updates dynamically as the entity's Coherence Rank and Potency Grade escalate.
+
+3. **Convergence Metamorphosis (Binary Fusion):**
+   - Entities existing as dual paired entities that fuse upon mutual breach.
+   - Example: *The Black Tear* (`SE-C-IVγ-948 [WS]`) and *The White Spark* (`SE-N-IVγ-947 [VS]`) merging into the dual-polarity Sovereign *Yin and Yang Sovereign* (`SE-C-Vδ-949 [Mixed Sovereign]`).
+
+### The Two-Work-Type Canonical Rule (Object, Place, Time, and Hazard Entities)
+
+All Object (`O`), Place (`P`), Time (`T`), and Hazard (`H`) entities are subject to strict canonical operational law:
+
+- **Valid Work Types:** **Viderehan** (Observation) and **Ferrehan** (Endurance) **ONLY**.
+- **Prohibited Work Types (`N/A`):** **Flerehan** (Tears / Emotional Engagement) and **Pugnahan** (Wrath / Physical Confrontation) are strictly invalid.
+- **Canonical Rationale:** Non-subject entities lack an individualized psyche or nervous system capable of emotional reciprocal resonance (invalidating Flerehan), nor do they possess a discrete biological or duel-capable anatomy to confront with wrath (invalidating Pugnahan). Attempting Flerehan or Pugnahan against an Object, Place, or Time entity results in automatic work failure, severe backfire pressure, and immediate Sorrow Gauge escalation.
+
 ---
 
 ## Operational Parameters

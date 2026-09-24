@@ -6,8 +6,9 @@
 
 | Field | Value |
 |---|---|
-| **Designation** | `C-IVω-001 [GP]` |
-| **Entity Type** | **Place** — Can Transform into Breach Subject entity (Place→Subject breach) when expansion exceeds Zone B containment |
+| **Designation** | `C-IVω-001 [GP]` (Contained Place) / `C-IVω-001-B [GS]` (Breaching Subject) |
+| **Entity Type** | **Place (Special Transform Type)** — District entity undergoing catastrophic Place→Subject breach metamorphosis |
+| **Breach Designation Shift** | `C-IVω-001 [GP]` (Place-Tale) → `C-IVω-001-B [GS]` (Breaching Subject-Tale) |
 | **Coherence** | Entity (IV) — Self-aware, ancient, hungry |
 | **Potency** | Catastrophic (ω) — City-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -25,7 +26,8 @@
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Catastrophic (ω) |
-| **Entity role** | Object/Place |
+| **Entity role** | Object/Place (Transforms to Breaching Subject `C-IVω-001-B [GS]` upon Breach) |
+| **Valid Work Types** | Viderehan and Ferrehan only (Object/Place/Time canonical restriction; Flerehan and Pugnahan strictly N/A) |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 75–95% |
 | **Han-Energy yield** | 28–40 Han-Energy per successful work cycle |
@@ -162,6 +164,9 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 | Field | Detail |
 |---|---|
+| **Contained Designation** | `C-IVω-001 [GP]` (Place-Tale District) |
+| **Breach Designation** | `C-IVω-001-B [GS]` (Breaching Subject-Tale: The Walking District) |
+| **Metamorphosis Type** | Special Transform Breach: Place-Tale → Breaching Subject-Tale |
 | **Expansion Trigger** | Increase in the city's collective sorrow. |
 | **Expansion Rate** | 2.3 centimeters per year, measured by Taeho. |
 | **Expansion Effect** | Adjacent buildings merge into the district; walls darken, curve, and begin whispering. Residents may be absorbed. |
