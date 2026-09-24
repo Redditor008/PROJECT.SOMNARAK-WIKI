@@ -79,8 +79,8 @@ def _process_row(r, max_len):
     if get_display_width(r) <= max_len:
         return [r]
     
-    # Unit diagram token line
-    if r_strip.startswith("[") and not r_strip.startswith("- "):
+    # Unit diagram token line (entire line composed of bracketed tokens e.g. [N1] [N2])
+    if r_strip.startswith("[") and not r_strip.startswith("- ") and re.match(r"^(\s*\[[^\]]+\])+\s*$", r_strip):
         parts = re.findall(r"\s*\[[^\]]+\]", r)
         if parts:
             lines = []
