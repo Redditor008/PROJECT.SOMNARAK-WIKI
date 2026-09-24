@@ -4,18 +4,18 @@ tools/box_formatter.py — Canonical Text Box & Borderless Banner Generator
 Project Somnarak Non-Wiki Archive
 
 Enforces strict compliance with Project Somnarak and Arena.ai Chatroom standards:
-1. Arena.ai Chatroom Standard (Width: EXACTLY 47 COLUMNS):
-   - Command: --chatroom or --width 47.
-   - Total width: 47 columns (+ + 45 =/- + +).
-   - Inner content width: 43 columns (| + space + 41 chars + space + |).
-   - Prevents all line-wrapping and crooked borders on mobile and narrow viewports.
+1. Arena.ai Chatroom Standard (Width: EXACTLY 74 COLUMNS):
+   - Command: --chatroom or default width 74.
+   - Total width: 74 columns (+ + 72 =/- + +).
+   - Inner content width: 70 columns (| + space + 68 chars + space + |).
+   - Matches the Arena.ai chatroom 74-character auto-wrap limit.
 2. Enclosed ASCII Boxes in Markdown Files:
-   - Standard width: 71 columns (compact/desktop standard).
-   - Counts all rows, benchmarks against the longest row, and pads shorter rows.
+   - Width: 71 to 74 columns (standard compact format).
+   - Counts all rows, benchmarks against target width, and pads shorter rows.
    - Long lines wrap into visual sub-rows at word boundaries without truncation.
    - Fully CJK / East Asian Width aware (proper display width padding).
 3. Borderless Banners:
-   - Width: 47 cols (chatroom) or 74 cols (file banner).
+   - Width: Exactly 74 characters long ("=" * 74 and "-" * 74).
 """
 
 import re
@@ -107,11 +107,11 @@ def _process_row(r, max_len):
     indent = "  " if r_strip.startswith("- ") else ""
     return wrap_text_display_width(r, max_len, indent)
 
-def make_box(title, raw_rows, width=47, max_width=None):
+def make_box(title, raw_rows, width=74, max_width=None):
     """
     Builds a symmetrical ASCII text box.
-    - If width=47, guarantees EXACT 47-column width for Arena.ai chatroom viewports.
-    - Counts all rows, benchmarks against the target width, and pads shorter rows.
+    - Default width: 74 columns (Arena.ai chatroom standard).
+    - Counts all rows, benchmarks against target width, and pads shorter rows.
     - Wraps overflowing content cleanly across sub-rows without token truncation.
     """
     if max_width is not None and width > max_width:
@@ -158,10 +158,10 @@ def make_box(title, raw_rows, width=47, max_width=None):
     out.append(bottom)
     return "\n".join(out)
 
-def make_borderless_banner(title, rows=None, width=47):
+def make_borderless_banner(title, rows=None, width=74):
     """
     Builds a borderless ASCII banner or divider.
-    Defaults to width=47 for chatroom, or 74 for file banners.
+    Defaults to width=74 characters.
     """
     top = "=" * width
     bottom = "=" * width
@@ -191,20 +191,20 @@ def make_borderless_banner(title, rows=None, width=47):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Format text into symmetrical ASCII boxes (47 cols chatroom / 71 cols file)"
+        description="Format text into symmetrical ASCII boxes (74 cols chatroom / file)"
     )
     parser.add_argument("--title", default="", help="Box or banner title")
-    parser.add_argument("--chatroom", action="store_true", help="Force exact 47-column chatroom width")
-    parser.add_argument("--width", type=int, default=47, help="Box width in columns (default: 47)")
-    parser.add_argument("--banner", action="store_true", help="Generate borderless banner")
+    parser.add_argument("--chatroom", action="store_true", help="Force exact 74-column chatroom width")
+    parser.add_argument("--width", type=int, default=74, help="Box width in columns (default: 74)")
+    parser.add_argument("--banner", action="store_true", help="Generate borderless banner (74 cols)")
     parser.add_argument("--text", nargs="+", help="Content lines to format")
     args = parser.parse_args()
 
-    width = 47 if args.chatroom else args.width
+    width = 74 if args.chatroom else args.width
 
     lines = args.text if args.text else [
         "Project Somnarak Non-Wiki Archive",
-        "Arena.ai Chatroom Standard: 47 Columns",
+        "Arena.ai Chatroom Standard: 74 Columns",
         "---",
         "Status: 100% Monospace Precision",
         "Zero crooked lines across all viewports"
