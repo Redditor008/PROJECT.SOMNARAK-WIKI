@@ -117,6 +117,14 @@ Execute in order. Do not skip steps.
 - **The Five Syndicates of The Raw Codex (`Master_Codices/SOMNARAK_UNDERWORLD_SYNDICATES.md`) (2026-09-24):** Codified System 3 of the approved 5-system expansion roadmap. Enshrined the Treaty of Broken Needles, the Three Underworld Taboos, and the five syndicates (Menders Guild, Rust Frays, Veil Merchants, Memory Washers, Debt Concourse) with 10-node spatial combat grid profiles and workshop supply ties. All checks PASS.
 - **The Six Great Workshops Codex (`Master_Codices/SOMNARAK_WORKSHOPS.md`) (2026-09-24):** Codified System 2 of the approved 5-system expansion roadmap. Enshrined the Workplace Law (employment requirement), the 0.5% / 1.0% / 5.0% acquisition curve, and Grade 1 to 5 scaling (Legendary Stat at Grade 5). Documented Yeoul, Cheol-Gyeong, Chim-Mok, Hwa-Seok, Baek-Gwang, and Sim-Yeon. All checks PASS.
 - **PENDING EXPANSION QUEUE (APPROVED BY OWNER 2026-09-24):** All 5 major systems derived from Project Moon comparative research have been completely and natively codified into the Project Somnarak canon and game battle engine: (1) Mnemonic Cycle Engrams [COMPLETED], (2) The Six Great Workshops [COMPLETED], (3) The Five Syndicates of The Raw [COMPLETED], (4) The Ten Specialist Cadres & Contractor Bureaus [COMPLETED], and (5) Echo-Core Resonant Realization Wars [COMPLETED]. All 5 systems are fully integrated with the 10-node spatial grid combat engine, verified across all audit tools, and safely preserved in git.
+- **OWNER RULINGS ON WORLD-BUILDING & NARRATIVE EXPANSION (2026-09-24):**
+  * Vector 1 (Arbiters): Giltong (길통) is Project Somnarak's Arbiter-tier sovereign authority. The other subordinate executioners are not established yet.
+  * Vector 2 (Corporate Scale): Corporate Wings in Somnarak are structured on a tighter zone scale: exactly 5 Corporations per Zone (Zone A, B, C, D, etc.), rather than 26 global wings.
+  * Vector 3 (Curfew Sanitation): Curfew sweeps are NOT mindless machines; they are human/augmented "Haz-scorchers" and "Cleansers" equipped with heavy thermal/chemical hazard gear and slag-burners.
+  * Vector 4 (Identities): Parallel Mirror Identity Extraction is NOT needed for Somnarak; instead, a different native mechanic is used (Mnemonic Cycle Engram attunement under Composure Load).
+  * Extra Note (Cities vs Geology): All Unknown/Outer Cities are full living CITIES with urban society, infrastructure, and municipal laws—NOT merely geological biomes or terrain features. Do not reduce them to geology.
+  * Vector 5 (Character Cantos): Approved for natural narrative story development, but requires structured refinement into grounded, dialogue-driven prose fiction.
+  * Vector 6 (Realization Encounters): Departmental Realization Boss Battles for Floors 01, 03-09 are placed ON HOLD until actively required for gameplay/narrative progression.
 
 ---
 

@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Codify Owner Rulings on World-Building & Narrative Expansion Roadmap** —
+  - Enshrined Giltong (길통) as Project Somnarak's Arbiter-tier sovereign authority, with subordinate executioner tiers held as unmanifested.
+  - Standardized municipal corporate wing architecture to 5 Corporations per Zone (Zone A, B, C, D, etc.), replacing global wing scaling with compact municipal sector clusters.
+  - Defined curfew sanitation forces as human/augmented "Haz-scorchers" and "Cleansers" equipped with thermal slag-burners and chemical neutralizers rather than mindless automation.
+  - Affirmed Mnemonic Cycle Engrams under Composure Load as the native alternative to parallel mirror identity extraction.
+  - Enforced sovereign urban canon: all Unknown/Outer Cities are living urban metropolises with distinct civil infrastructure and municipal laws, not merely geological formations.
+  - Approved development of Character Story Cantos with structured narrative refinement, and placed Departmental Realization Boss Battles (Floors 01, 03–09) on hold until actively scheduled.
+
 - **Enhance Text Box Symmetry Checkers & Formatters (Extend-to-Longest-Row Architecture)** —
   - Overhauled `tools/check_box_symmetry.py` and `tools/text_box_double_checker.py` to count all rows across each text box, benchmark against the longest row in that box, and detect misalignments in terms of missing characters needed to extend up to the longest row.
   - Implemented automated `--fix` / `-f` engine in both verification tools: rather than truncating or shortening long content, the tools calculate missing column widths and pad shorter rows (with spaces for content rows, `-` / `=` for borders) up to the longest row's length.
