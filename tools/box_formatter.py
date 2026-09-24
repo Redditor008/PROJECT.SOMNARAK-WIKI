@@ -9,9 +9,9 @@ Enforces strict compliance with Project Somnarak and Arena.ai Chatroom standards
    - Total width: 74 columns (+ + 72 =/- + +).
    - Inner content width: 70 columns (| + space + 68 chars + space + |).
    - Matches the Arena.ai chatroom 74-character auto-wrap limit.
+   - Strict assertion on every line: guaranteed 100% geometric symmetry.
 2. Enclosed ASCII Boxes in Markdown Files:
    - Width: 71 to 74 columns (standard compact format).
-   - Counts all rows, benchmarks against target width, and pads shorter rows.
    - Long lines wrap into visual sub-rows at word boundaries without truncation.
    - Fully CJK / East Asian Width aware (proper display width padding).
 3. Borderless Banners:
@@ -34,13 +34,22 @@ def get_display_width(s):
     """Calculate the total monospace display width of a string."""
     return sum(get_char_width(c) for c in s)
 
-def pad_to_display_width(s, target_dw):
-    """Pad string s with ASCII spaces until its monospace display width equals target_dw."""
+def pad_to_exact_width(s, target_dw):
+    """Pad or cleanly trim string s so its monospace display width equals target_dw exactly."""
     cur_dw = get_display_width(s)
-    diff = target_dw - cur_dw
-    if diff > 0:
-        return s + (" " * diff)
-    return s
+    if cur_dw == target_dw:
+        return s
+    elif cur_dw < target_dw:
+        return s + (" " * (target_dw - cur_dw))
+    else:
+        # String is longer than target_dw, trim characters safely
+        trimmed = ""
+        for c in s:
+            if get_display_width(trimmed) + get_char_width(c) <= target_dw:
+                trimmed += c
+            else:
+                break
+        return trimmed + (" " * (target_dw - get_display_width(trimmed)))
 
 def wrap_text_display_width(text, max_dw, indent=""):
     """Wrap a long string into sub-rows such that no row exceeds max_dw in display width."""
@@ -112,7 +121,7 @@ def make_box(title, raw_rows, width=74, max_width=None):
     Builds a symmetrical ASCII text box.
     - Default width: 74 columns (Arena.ai chatroom standard).
     - Counts all rows, benchmarks against target width, and pads shorter rows.
-    - Wraps overflowing content cleanly across sub-rows without token truncation.
+    - Strict validation: every line is verified to match width exactly.
     """
     if max_width is not None and width > max_width:
         width = max_width
@@ -153,9 +162,15 @@ def make_box(title, raw_rows, width=74, max_width=None):
         elif fr == "===":
             out.append(top)
         else:
-            padded_content = pad_to_display_width(fr.rstrip(), target_inner_dw)
+            padded_content = pad_to_exact_width(fr.rstrip(), target_inner_dw)
             out.append(f"| {padded_content} |")
     out.append(bottom)
+
+    # Bulletproof check: every single row must equal width
+    for idx, l in enumerate(out, 1):
+        assert len(l) == width, f"Row {idx} length {len(l)} != {width}: {l}"
+        assert get_display_width(l) == width, f"Row {idx} display width {get_display_width(l)} != {width}: {l}"
+
     return "\n".join(out)
 
 def make_borderless_banner(title, rows=None, width=74):
