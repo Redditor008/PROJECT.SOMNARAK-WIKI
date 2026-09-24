@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Add Sovereign Boss Mechanics Folio: The Grieving Colossus (`GAME_BATTLE/BOSS_MECHANICS_GRIEVING_COLOSSUS.md`)** —
+  - Codified the comprehensive technical boss mechanics folio for Rank V Sovereign `SE-C-Vδ-002 The Grieving Colossus` in `GAME_BATTLE/BOSS_MECHANICS_GRIEVING_COLOSSUS.md` (SOP-GB-BOSS-001).
+  - Specified the complete quadripartite modular anatomy: Basalt Crown (600 HP), Left Knee Pillar (500 HP), Right Knee Pillar (500 HP), and Weeping Basalt Core (1,000 HP), detailing part rupture thresholds (60%), independent defense affinities, structural passives, and dual-knee Catastrophic Posture Collapse rules.
+  - Formulated the 3-phase stance evolution engine: Phase 1 (Immovable Monolith Anchor, 3 AP), Phase 2 (Tectonic Quake & Ground Liquefaction, 4 AP), and Phase 3 (Sovereign Cataclysm & Terminal Desolation Meltdown, 5 AP).
+  - Documented the exhaustive AI intention deck (*Tectonic Ground-Slam*, *Basalt Cleave*, *Acoustic Lament Wave*, *Tectonic Rupture*, and *The Weeping Sovereign's Eulogy*) along with decision trees and proximity-based target prioritization.
+  - Codified recommended 4-operative strike squad counter-doctrines and the full Grade 5 M.A.W. synthesis registry (`MAW-W-002 The Mourning Maul`, `MAW-S-002 The Mourning Mantle`, `MAW-G-002 The Mourning Shell`, and `The Mourning Band`).
+  - Updated `GAME_BATTLE/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Add Canonical Scenario 06: Memory Archive Stratum Realization (`GAME_BATTLE/SCENARIO_06_MEMORY_ARCHIVE_STRATUM_REALIZATION.md`)** —
   - Codified the full 6-turn canonical tactical scenario depicting Floor 04 Realization (Floor of Unexpressed Grief, -2,800m Sub-Alpha Roots) in `GAME_BATTLE/SCENARIO_06_MEMORY_ARCHIVE_STRATUM_REALIZATION.md` (SOP-GB-SCENARIO-006).
   - Implemented the 10-node spatial engagement corridor (Ingress Platform to Sovereign Cathedra and Reliquary Stairway), flooded catacomb Han-brine hydro-drag, and freezing grief environmental hazards.

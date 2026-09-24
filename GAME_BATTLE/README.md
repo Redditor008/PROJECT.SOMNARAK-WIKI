@@ -87,6 +87,7 @@ The `GAME_BATTLE/` directory contains the following foundational operational doc
 | [`SCENARIO_04_SED_SUNKEN_AQUEDUCT_DESCENT.md`](SCENARIO_04_SED_SUNKEN_AQUEDUCT_DESCENT.md) | Canonical Combat Scenario | Full 6-turn SED deep-karst descent: Vanguard Cadre vs `SECC-012 The Drowned Guardian`. |
 | [`SCENARIO_05_HORIZON_CARAVAN_LEVIATHAN_SIEGE.md`](SCENARIO_05_HORIZON_CARAVAN_LEVIATHAN_SIEGE.md) | Canonical Combat Scenario | Full 6-turn Horizon Caravan defense: Drift Throne vs `SECC-088 The Titanic Glass Burrower`. |
 | [`SCENARIO_06_MEMORY_ARCHIVE_STRATUM_REALIZATION.md`](SCENARIO_06_MEMORY_ARCHIVE_STRATUM_REALIZATION.md) | Canonical Combat Scenario | Full 6-turn Floor 04 Realization: Seiyon & Suture Cadre vs `The Weeping Statue` (Lament Core). |
+| [`BOSS_MECHANICS_GRIEVING_COLOSSUS.md`](BOSS_MECHANICS_GRIEVING_COLOSSUS.md) | Sovereign Boss Mechanics Folio | Quadripartite modular anatomy, 3-phase tectonic shifts, AI intention deck, and M.A.W. synthesis for `SE-C-Vδ-002`. |
 | [`CYCLE_ENGRAM_SYSTEM.md`](CYCLE_ENGRAM_SYSTEM.md) | Identity Attunement Framework | Canonical 1,778-cycle historical engrams modifying Speed Bands, Action Slots, and P1 Passives across operatives. |
 | [`ECHO_CORE_REALIZATION_SYSTEM.md`](ECHO_CORE_REALIZATION_SYSTEM.md) | Departmental Realization Wars | Four-phase psychological catharsis engine, Sorrow Inversion meltdowns, dialogue scripts, and sovereign engrams. |
 
@@ -104,7 +105,7 @@ The following battle scenarios, boss mechanics folios, and squad guides are slat
 5. `SCENARIO_06_MEMORY_ARCHIVE_STRATUM_REALIZATION.md`: [COMPLETED] Floor 4 Mnemonic Reception clash utilizing Mnemonic Suture mechanics and Floor Realization phases.
 
 ### 4.2 Boss Mechanics Folios (`BOSS_MECHANICS_*.md`)
-1. `BOSS_MECHANICS_GRIEVING_COLOSSUS.md`: Modular part profiles (Stone Head, Left Knee, Right Knee, Basalt Core), intention deck behaviors, and Phase 2 tectonic shifts.
+1. `BOSS_MECHANICS_GRIEVING_COLOSSUS.md`: [COMPLETED] Modular part profiles (Stone Head, Left Knee, Right Knee, Basalt Core), intention deck behaviors, and Phase 2 tectonic shifts.
 2. `BOSS_MECHANICS_WEEPING_MIRROR.md`: Reflection duplication mechanics, Lament aura drain, and mirror-shatter execution phases.
 3. `BOSS_MECHANICS_KING_OF_MENDERS.md`: Syndicate flesh-welding mechanics, debt-mark stacking, and multi-node tether traps.
 
