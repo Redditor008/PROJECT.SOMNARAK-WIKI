@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Add Character Story Cantos Suite & Canto I: The Bastion Anchor (`SOMNARAK-WORLD/Story_Cantos/`)** —
+  - Established the dedicated literary story suite `SOMNARAK-WORLD/Story_Cantos/` for dialogue-driven, natural narrative prose fiction exploring the personal lived trauma, daily life, and emotional catharsis of Somnarak's core personnel.
+  - Authored `SOMNARAK-WORLD/Story_Cantos/README.md` documenting the 3-Act narrative framework (Act I: The Heavy Morning, Act II: The Fracture Point, Act III: The Resonant Catharsis) and reading roadmap for the six core protagonist cantos.
+  - Authored `SOMNARAK-WORLD/Story_Cantos/CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md` (21.2 KB full literary novella chapter), chronicling Warden Min-Jae's survivor's guilt, the daily armory routine, the Sector 4 tectonic containment breach of `SE-C-IVδ-008 The Quaking Monolith`, his immovable shield parry clash, and the unyielding brotherhood of the Iron Quad.
+  - Updated `SOMNARAK-WORLD/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Add Master Codex: Municipal Zone Corporations & Curfew Sanitation Corps (`SOMNARAK_ZONE_CORPORATIONS.md`)** —
   - Codified the definitive master codex for the Twenty-Five Zone Corporations in `SOMNARAK-WORLD/Master_Codices/04_Municipal_Society_and_Demographics/SOMNARAK_ZONE_CORPORATIONS.md` (CORP-ZONE-001 to 025).
   - Enshrined the Quinquennial Zone Corporate Law: exactly 5 chartered corporations per municipal Zone across Zone A (The Veil), Zone B (The Raw), Zone C (Collector's Row), Zone D (The Echo Forge), and Zone E (The Bastion Ring).

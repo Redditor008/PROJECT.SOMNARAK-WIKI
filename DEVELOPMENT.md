@@ -96,6 +96,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 │   ├── Jipyeongseondae/                    # 6 Trans-Desolate Overland Arcs & Bastion Suite (Horizon Caravan)
 │   ├── Mugenhan_Ecology/                   # 5 Planetary Biosphere & Ecological Codices (Mundane, Beasts, MSF)
 │   ├── Tactical_Combat_Engine/             # 10-Node Spatial Grid Combat Mechanics & Battle Integration Suite
+│   ├── Story_Cantos/                       # The Character Story Cantos (Dialogue-Driven Prose Novellas)
 │   ├── Sorrow_Entities/                    # 287 Unique Entity dossiers across Ranks I to V and Grades α to ω
 │   ├── Echo_Cores/                         # 9 Echo-Core files: Facility 01 departmental leaders
 │   ├── MAW_Codex_Sets/                     # 1,196 files: 198 complete quadripartite sets across 42 folders

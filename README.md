@@ -117,6 +117,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   ├── Jipyeongseondae/                    # 6 Trans-Desolate Overland Arcs & Bastion Suite (Horizon Caravan)
 │   ├── Mugenhan_Ecology/                   # 5 Planetary Biosphere & Ecological Codices (Mundane, Beasts, MSF)
 │   ├── Tactical_Combat_Engine/             # 10-Node Spatial Grid Combat Mechanics & Battle Integration Suite
+│   ├── Story_Cantos/                       # The Character Story Cantos (Dialogue-Driven Prose Novellas)
 │   ├── Sorrow_Entities/                    # 287 Unique Entity dossiers across Ranks I to V and Grades α to ω
 │   ├── Echo_Cores/                         # 9 Echo-Core files: Facility 01 departmental leaders
 │   ├── MAW_Codex_Sets/                     # 1,196 files: 198 complete quadripartite sets across 42 folders
@@ -312,6 +313,9 @@ Beyond the master codices, Project Somnarak maintains complete standalone operat
 6. **`SOMNARAK-WORLD/Tactical_Combat_Engine/` — 10-Node Spatial Grid Combat Engine:**
    - [`README.md`](SOMNARAK-WORLD/Tactical_Combat_Engine/README.md): Master architectural guide to the 10-node spatial engine, speed-action point scaling, and 6-turn combat phase loops.
    - [`WHAT_CAN_BE_DONE.md`](SOMNARAK-WORLD/Tactical_Combat_Engine/WHAT_CAN_BE_DONE.md): Comprehensive implementation manual for narrative combat logs and turn-based clash visualization.
+7. **`SOMNARAK-WORLD/Story_Cantos/` — The Character Story Cantos (비탄의 장):**
+   - [`README.md`](SOMNARAK-WORLD/Story_Cantos/README.md): Master catalog, 3-Act narrative framework, and reading roadmap for the six core protagonist cantos.
+   - Dialogue-driven natural narrative prose novellas ([`CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md`](SOMNARAK-WORLD/Story_Cantos/CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md)) exploring personal trauma, daily life, and emotional catharsis.
 
 ---
 

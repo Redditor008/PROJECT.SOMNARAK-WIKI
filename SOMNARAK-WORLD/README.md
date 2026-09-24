@@ -89,6 +89,10 @@ SOMNARAK-WORLD/
 │   ├── MUGENHAN_SORROW_CREATURES.md    # 6 Known Mortal Sorrow Creatures (Tier 3 MSF)
 │   └── MUGENHAN_DEEP_ECOLOGY_COMPENDIUM.md # Encyclopedic compendium of fauna and flora
 │
+├── Story_Cantos/                       # The Character Story Cantos (Dialogue-Driven Prose Fiction)
+│   ├── README.md                       # Master index and 3-Act narrative framework
+│   └── CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md # Canto I: Warden Min-Jae (The Unbroken Wall)
+│
 └── Unknown_Entities/                   # 8 Unclassified Maw Anomalies & Loop Chronicles
     ├── README.md                       # Deep Maw anomalous file directory
     ├── Book_of_Regressor_Log_Dramaturgy.md # The Loop chronicler's margin logs
