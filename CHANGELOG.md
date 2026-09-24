@@ -8,6 +8,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Add Canonical Scenario 04: SED Sunken Aqueduct Descent (`GAME_BATTLE/SCENARIO_04_SED_SUNKEN_AQUEDUCT_DESCENT.md`)** —
+  - Codified the full 6-turn canonical tactical scenario depicting Somnarak Exploration Decree (SED) Katabagil Passage 1 (Cryptasu / The Flooded Catacomb) in `GAME_BATTLE/SCENARIO_04_SED_SUNKEN_AQUEDUCT_DESCENT.md` (SOP-GB-SCENARIO-004).
+  - Implemented the 10-node spatial engagement corridor (Strata 1 Sub-Municipal Karst, Culvert Gate 04 Threshold, Depth -150m), submerged basin movement penalties, and geyser vent hazards.
+  - Featured modular part rupture dynamics against `SECC-012 The Drowned Guardian of Year Zero` (Hydrostatic Siphon Tendrils, Barnacled Basalt Shell, Brine-Weeping Maw), acoustic water resonance buffs, and terminal Composure meltdown.
+  - Detailed the SED Vanguard Cadre: Lead Cartographer Yeonhwa, Specialist Sora, Rig Operator Kang, and Depth Scribe Jin, showcasing pneumatic rock-drills and sonar harpoons.
+  - Updated `GAME_BATTLE/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Add Canonical Scenario 03: UCD Rust & Veil Purge (`GAME_BATTLE/SCENARIO_03_UNDERWORLD_RUST_VEIL_PURGE.md`)** —
   - Codified the full 6-turn canonical tactical scenario depicting Underworld Cleanup Descend (UCD) Operation 1 (Velumtal / The Mask Market) in `GAME_BATTLE/SCENARIO_03_UNDERWORLD_RUST_VEIL_PURGE.md` (SOP-GB-SCENARIO-003).
   - Implemented the 10-node spatial engagement corridor (Sub-Sluice 4, Depth -25m), modular body part rupture mechanics (Pneumatic Slag-Hammer Arm, Smelted Basalt Plating, Contraband Shroud Core), pincer kinetic bonuses, and terminal Composure meltdown lock.
