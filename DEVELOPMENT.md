@@ -45,6 +45,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 │   ├── BATTLE_SCENARIO_TEMPLATE.md         # Production-ready markdown template for combat encounters
 │   ├── CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md # Full 6-turn canonical combat scenario demonstration
 │   ├── SCENARIO_02_CONTAINMENT_BREACH_FLOOR_02.md # Full 6-turn containment breach suppression on Floor 2
+│   ├── SCENARIO_03_UNDERWORLD_RUST_VEIL_PURGE.md # Full 6-turn UCD undercity sweep vs Fray construct
 │   ├── CYCLE_ENGRAM_SYSTEM.md              # 1,778-cycle historical engram attunement & stat shifting framework
 │   └── ECHO_CORE_REALIZATION_SYSTEM.md      # 4-phase departmental trauma battles & resonant catharsis engine
 │

@@ -8,6 +8,12 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Add Canonical Scenario 03: UCD Rust & Veil Purge (`GAME_BATTLE/SCENARIO_03_UNDERWORLD_RUST_VEIL_PURGE.md`)** —
+  - Codified the full 6-turn canonical tactical scenario depicting Underworld Cleanup Descend (UCD) Operation 1 (Velumtal / The Mask Market) in `GAME_BATTLE/SCENARIO_03_UNDERWORLD_RUST_VEIL_PURGE.md` (SOP-GB-SCENARIO-003).
+  - Implemented the 10-node spatial engagement corridor (Sub-Sluice 4, Depth -25m), modular body part rupture mechanics (Pneumatic Slag-Hammer Arm, Smelted Basalt Plating, Contraband Shroud Core), pincer kinetic bonuses, and terminal Composure meltdown lock.
+  - Detailed the UCD Tactical Strike Cadre: Commander Taeho, Officer Joon, Officer Seol-A, and Enforcer Min-Jae, showcasing Cheol-Gyeong basalt pavises, heavy hydraulic piston rams, and MAW-W-014 cleavers.
+  - Updated `GAME_BATTLE/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Add Canonical Scenario 02: Floor 2 Containment Breach Suppression (`GAME_BATTLE/SCENARIO_02_CONTAINMENT_BREACH_FLOOR_02.md`)** —
   - Codified the full 6-turn canonical tactical scenario depicting Facility 01 Floor 2 containment suppression against `SE-N-IVδ-005 The Smothering Mother` in `GAME_BATTLE/SCENARIO_02_CONTAINMENT_BREACH_FLOOR_02.md` (SOP-GB-SCENARIO-002).
   - Implemented the 10-node spatial engagement corridor (Corridor 12, Depth -2,200m), modular body part rupture mechanics (Elastic Embrace Arms, Weeping Damp Torso, Hollow Lightless Eyes), tactical grapple disruption, and terminal Composure meltdown lock.
