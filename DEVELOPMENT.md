@@ -48,6 +48,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 │   ├── SCENARIO_03_UNDERWORLD_RUST_VEIL_PURGE.md # Full 6-turn UCD undercity sweep vs Fray construct
 │   ├── SCENARIO_04_SED_SUNKEN_AQUEDUCT_DESCENT.md # Full 6-turn SED deep-karst descent vs Drowned Guardian
 │   ├── SCENARIO_05_HORIZON_CARAVAN_LEVIATHAN_SIEGE.md # Full 6-turn Drift Throne defense vs Glass Burrower
+│   ├── SCENARIO_06_MEMORY_ARCHIVE_STRATUM_REALIZATION.md # Full 6-turn Floor 04 Realization vs Weeping Statue
 │   ├── CYCLE_ENGRAM_SYSTEM.md              # 1,778-cycle historical engram attunement & stat shifting framework
 │   └── ECHO_CORE_REALIZATION_SYSTEM.md      # 4-phase departmental trauma battles & resonant catharsis engine
 │

@@ -86,6 +86,7 @@ The `GAME_BATTLE/` directory contains the following foundational operational doc
 | [`SCENARIO_03_UNDERWORLD_RUST_VEIL_PURGE.md`](SCENARIO_03_UNDERWORLD_RUST_VEIL_PURGE.md) | Canonical Combat Scenario | Full 6-turn UCD undercity sweep: Task Force Alpha vs `RIG-FRAY-019 The Slag-Forged Breaker`. |
 | [`SCENARIO_04_SED_SUNKEN_AQUEDUCT_DESCENT.md`](SCENARIO_04_SED_SUNKEN_AQUEDUCT_DESCENT.md) | Canonical Combat Scenario | Full 6-turn SED deep-karst descent: Vanguard Cadre vs `SECC-012 The Drowned Guardian`. |
 | [`SCENARIO_05_HORIZON_CARAVAN_LEVIATHAN_SIEGE.md`](SCENARIO_05_HORIZON_CARAVAN_LEVIATHAN_SIEGE.md) | Canonical Combat Scenario | Full 6-turn Horizon Caravan defense: Drift Throne vs `SECC-088 The Titanic Glass Burrower`. |
+| [`SCENARIO_06_MEMORY_ARCHIVE_STRATUM_REALIZATION.md`](SCENARIO_06_MEMORY_ARCHIVE_STRATUM_REALIZATION.md) | Canonical Combat Scenario | Full 6-turn Floor 04 Realization: Seiyon & Suture Cadre vs `The Weeping Statue` (Lament Core). |
 | [`CYCLE_ENGRAM_SYSTEM.md`](CYCLE_ENGRAM_SYSTEM.md) | Identity Attunement Framework | Canonical 1,778-cycle historical engrams modifying Speed Bands, Action Slots, and P1 Passives across operatives. |
 | [`ECHO_CORE_REALIZATION_SYSTEM.md`](ECHO_CORE_REALIZATION_SYSTEM.md) | Departmental Realization Wars | Four-phase psychological catharsis engine, Sorrow Inversion meltdowns, dialogue scripts, and sovereign engrams. |
 
@@ -100,7 +101,7 @@ The following battle scenarios, boss mechanics folios, and squad guides are slat
 2. `SCENARIO_03_UNDERWORLD_RUST_VEIL_PURGE.md`: [COMPLETED] UCD Operation 1 tactical sweep in the undercity slums, deploying Breacher units against syndicate Fray constructs.
 3. `SCENARIO_04_SED_SUNKEN_AQUEDUCT_DESCENT.md`: [COMPLETED] Katabagil Passage 1 deep-abyss subterranean encounter against pressure-adapted feral Sorrow Beasts.
 4. `SCENARIO_05_HORIZON_CARAVAN_LEVIATHAN_SIEGE.md`: [COMPLETED] Trans-Desolate overland defense of the Drift Throne crawler against a migrating River Leviathan at the Glass Sands.
-5. `SCENARIO_06_MEMORY_ARCHIVE_STRATUM_REALIZATION.md`: Floor 4 Mnemonic Reception clash utilizing Mnemonic Suture mechanics and Floor Realization phases.
+5. `SCENARIO_06_MEMORY_ARCHIVE_STRATUM_REALIZATION.md`: [COMPLETED] Floor 4 Mnemonic Reception clash utilizing Mnemonic Suture mechanics and Floor Realization phases.
 
 ### 4.2 Boss Mechanics Folios (`BOSS_MECHANICS_*.md`)
 1. `BOSS_MECHANICS_GRIEVING_COLOSSUS.md`: Modular part profiles (Stone Head, Left Knee, Right Knee, Basalt Core), intention deck behaviors, and Phase 2 tectonic shifts.

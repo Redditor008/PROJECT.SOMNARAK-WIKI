@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Add Canonical Scenario 06: Memory Archive Stratum Realization (`GAME_BATTLE/SCENARIO_06_MEMORY_ARCHIVE_STRATUM_REALIZATION.md`)** —
+  - Codified the full 6-turn canonical tactical scenario depicting Floor 04 Realization (Floor of Unexpressed Grief, -2,800m Sub-Alpha Roots) in `GAME_BATTLE/SCENARIO_06_MEMORY_ARCHIVE_STRATUM_REALIZATION.md` (SOP-GB-SCENARIO-006).
+  - Implemented the 10-node spatial engagement corridor (Ingress Platform to Sovereign Cathedra and Reliquary Stairway), flooded catacomb Han-brine hydro-drag, and freezing grief environmental hazards.
+  - Featured Mnemonic Suture mechanics and modular part rupture dynamics against `SE-C-IVδ-014 The Weeping Statue` (Weeping Siphon Veil, Basalt Mourning Censer, Central Sorrow Heart), culminating in Stagger Procs, True Grit Stance, and terminal Meltdown.
+  - Detailed Secretary Seiyon's realization dialogue, transcending four thousand years of stoic grief suppression, and unlocking `[Key Page: The Mourner]` alongside the Sovereign Engram *Catharsis of Unexpressed Grief*.
+  - Completed all 5 High-Priority Scenarios (5/5, 100.0%) in Section 4.1 of the tactical roadmap.
+  - Updated `GAME_BATTLE/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Add Canonical Scenario 05: Horizon Caravan Leviathan Siege (`GAME_BATTLE/SCENARIO_05_HORIZON_CARAVAN_LEVIATHAN_SIEGE.md`)** —
   - Codified the full 6-turn canonical tactical scenario depicting Horizon Caravan Arc 2 (The Desolate Crossing / Sea of Vitrified Glass) in `GAME_BATTLE/SCENARIO_05_HORIZON_CARAVAN_LEVIATHAN_SIEGE.md` (SOP-GB-SCENARIO-005).
   - Implemented the 10-node spatial engagement corridor (Drift Throne Starboard Apron to Glass Dunes, Km 720), singing glass sandstorm abrasive hazards, and crawler forward speed bonuses.
