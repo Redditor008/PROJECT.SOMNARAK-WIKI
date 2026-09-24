@@ -2,26 +2,23 @@
 """
 tools/box_formatter.py
 Robust ASCII text box formatter that guarantees:
-1. Exactly 71 columns total box width (or specified width).
-2. Symmetrical top/bottom and side borders with '+' and '|'.
-3. Zero character truncation: wraps long lines cleanly at word/separator boundaries.
-4. Clean 10-node spatial grid rendering ([N01] to [N10]) without truncation.
+1. Symmetrical top/bottom and side borders with '+' and '|'.
+2. Symmetrical row alignment: counts all rows and if there is a misalignment,
+   extends shorter rows up to the longest row instead of shortening or truncating.
+3. Clean 10-node spatial grid rendering ([N01] to [N10]) without truncation.
+4. Preserves full text integrity: never slices or chops words.
 """
 
 import re
 import textwrap
 
 def make_box(title, raw_rows, width=71):
+    """
+    Builds a symmetrical ASCII text box.
+    Counts all rows and expands the box width to accommodate the longest row
+    whenever any content exceeds the requested width, ensuring zero truncation.
+    """
     max_len = width - 4
-    top = "+" + "=" * (width - 2) + "+"
-    bottom = "+" + "=" * (width - 2) + "+"
-    sep = "+" + "-" * (width - 2) + "+"
-    
-    out = [top]
-    if title:
-        title_str = f" {title.strip()} "
-        out.append(f"|{title_str.center(width - 2)}|")
-        out.append(sep)
     
     formatted_rows = []
     for r in raw_rows:
@@ -31,16 +28,34 @@ def make_box(title, raw_rows, width=71):
         else:
             formatted_rows.extend(_process_row(str(r), max_len))
 
+    # COUNT ALL ROWS: Find the longest row among all processed content rows and title
+    longest_content = max((len(fr.rstrip()) for fr in formatted_rows if fr not in ("---", "===")), default=0)
+    title_len = len(f" {title.strip()} ") if title else 0
+    longest_needed = max(longest_content, title_len)
+
+    # If any row is longer than max_len, EXTEND it instead of shortening!
+    if longest_needed > max_len:
+        max_len = longest_needed
+        width = max_len + 4
+
+    top = "+" + "=" * (width - 2) + "+"
+    bottom = "+" + "=" * (width - 2) + "+"
+    sep = "+" + "-" * (width - 2) + "+"
+    
+    out = [top]
+    if title:
+        title_str = f" {title.strip()} "
+        out.append(f"|{title_str.center(width - 2)}|")
+        out.append(sep)
+
     for fr in formatted_rows:
         if fr == "---":
             out.append(sep)
         elif fr == "===":
             out.append(top)
         else:
-            # Guarantee row is padded to exact max_len
             line_content = fr.rstrip()
-            if len(line_content) > max_len:
-                line_content = line_content[:max_len]
+            # Never shorten — always pad to the longest row width (max_len)
             out.append(f"| {line_content.ljust(max_len)} |")
     out.append(bottom)
     return "\n".join(out)

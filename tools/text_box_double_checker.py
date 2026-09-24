@@ -7,11 +7,15 @@ Performs an exhaustive, independent secondary verification ("Double Checker") of
 ASCII text boxes across the entire repository corpus:
 
 1. Geometric & Border Closure Engine:
+   - Counts ALL rows in each text box to establish the longest row as the benchmark.
+   - If there is a misalignment across rows, calculates the difference to extend shorter
+     rows up to the longest row (never shortening or truncating text).
    - Mandatory Top Border: Must start and terminate with '+' (e.g. +======+).
    - Mandatory Bottom Border: Must start and terminate with '+' (e.g. +======+).
    - Mandatory Side Borders: Every row must begin with '|' or '+' and terminate with '|' or '+'.
-   - Character Count Symmetry: Every row must match the exact length of the boundary borders.
-   - Monospace Display Width Symmetry: CJK/East Asian Width compliance (get_display_width).
+   - Character Count Symmetry: Every row must match the exact length of the longest row.
+   - Monospace Display Width Symmetry: CJK/East Asian Width compliance against longest row.
+   - Support for `--fix` / `-f`: Automatically extends shorter rows to match the longest row.
 
 2. Typography & Wide-Format Architecture Engine:
    - Evaluates box width against the Dual-Environment Typography Law:
@@ -29,6 +33,9 @@ import argparse
 import unicodedata
 from collections import Counter, defaultdict
 
+sys.path.insert(0, os.path.dirname(__file__))
+from check_box_symmetry import fix_file_boxes
+
 def get_char_width(c):
     """Return monospace terminal column display width for a character."""
     ea = unicodedata.east_asian_width(c)
@@ -41,9 +48,10 @@ def get_display_width(s):
     return sum(get_char_width(c) for c in s)
 
 class TextBoxDoubleChecker:
-    def __init__(self, root_dir=".", wide_threshold=100):
+    def __init__(self, root_dir=".", wide_threshold=100, fix=False):
         self.root_dir = root_dir
         self.wide_threshold = wide_threshold
+        self.fix = fix
         self.total_files = 0
         self.total_boxes = 0
         self.width_counter = Counter()
@@ -66,6 +74,9 @@ class TextBoxDoubleChecker:
 
     def check_file(self, filepath):
         self.total_files += 1
+        if self.fix:
+            fix_file_boxes(filepath)
+
         with open(filepath, "r", encoding="utf-8", errors="ignore") as f:
             lines = f.readlines()
 
@@ -110,7 +121,13 @@ class TextBoxDoubleChecker:
         first_line_num, first_line = box_borders[0]
         last_line_num, last_line = box_borders[-1]
 
-        box_width = len(first_line)
+        # COUNT ALL ROWS: Find the longest row in the box as the benchmark
+        row_lens = [len(l) for _, l in box_borders]
+        row_dws = [get_display_width(l) for _, l in box_borders]
+        longest_len = max(row_lens)
+        longest_dw = max(row_dws)
+
+        box_width = longest_len
         self.width_counter[box_width] += 1
         category = self.classify_width(box_width)
         self.box_categories[category] += 1
@@ -142,8 +159,8 @@ class TextBoxDoubleChecker:
                 "text": last_line
             })
 
-        expected_len = len(first_line)
-        expected_dw = get_display_width(first_line)
+        expected_len = longest_len
+        expected_dw = longest_dw
 
         for line_num, line in box_borders:
             curr_len = len(line)
@@ -165,33 +182,30 @@ class TextBoxDoubleChecker:
                     "text": line
                 })
 
-            # 4. Length Symmetry
+            # 4. Length Symmetry against the longest row
             if curr_len != expected_len:
-                diff = curr_len - expected_len
-                sign = f"+{diff}" if diff > 0 else f"{diff}"
+                diff = expected_len - curr_len
                 self.symmetry_issues.append({
                     "file": filepath,
                     "line": line_num,
-                    "type": f"Character count mismatch ({sign} chars: {curr_len} vs {expected_len})",
+                    "type": f"Character count mismatch: misaligned with longest row ({curr_len} vs longest {expected_len}; needs +{diff} chars extension to align)",
                     "text": line
                 })
                 continue
 
-            # 5. Display Width Symmetry
+            # 5. Display Width Symmetry against the longest row
             if curr_dw != expected_dw:
-                diff = curr_dw - expected_dw
-                sign = f"+{diff}" if diff > 0 else f"{diff}"
+                diff = expected_dw - curr_dw
                 self.symmetry_issues.append({
                     "file": filepath,
                     "line": line_num,
-                    "type": f"Display width mismatch ({sign} cols: {curr_dw} vs {expected_dw})",
+                    "type": f"Display width mismatch: misaligned with longest row ({curr_dw} cols vs longest {expected_dw} cols; needs +{diff} cols extension to align)",
                     "text": line
                 })
 
             # 6. Sliced Word Check (Trailing hyphen before closing |)
             content = line.strip("|+ ")
             if content.endswith("-") and not content.endswith("--"):
-                # Potential sliced word
                 self.truncation_issues.append({
                     "file": filepath,
                     "line": line_num,
@@ -208,16 +222,21 @@ class TextBoxDoubleChecker:
                     self.check_file(os.path.join(root, f))
 
 def main():
-    parser = argparse.ArgumentParser(description="Double-check text box symmetry and analyze wide-format text box compliance")
+    parser = argparse.ArgumentParser(
+        description="Double-check text box symmetry and analyze wide-format text box compliance. "
+                    "Counts all rows and extends misaligned rows up to the longest row instead of shortening."
+    )
     parser.add_argument("--path", default=".", help="Root path to audit (default: .)")
+    parser.add_argument("--fix", "-f", action="store_true", help="Automatically extend misaligned rows up to the longest row")
     parser.add_argument("--wide-only", action="store_true", help="Report details on wide-format text boxes only (>= 100 cols)")
     args = parser.parse_args()
 
-    checker = TextBoxDoubleChecker(root_dir=args.path)
+    checker = TextBoxDoubleChecker(root_dir=args.path, fix=args.fix)
     checker.run()
 
     print("=" * 72)
     print(" PROJECT SOMNARAK — TEXT BOX DOUBLE CHECKER & WIDE FORMAT REPORT")
+    print(" (Count All Rows -> If Misaligned, Extend Up To Longest Row Engine)")
     print("=" * 72)
     print(f"Total Markdown Files Scanned : {checker.total_files:,}")
     print(f"Total Text Boxes Discovered  : {checker.total_boxes:,}")
@@ -252,13 +271,14 @@ def main():
             print(f"  ... and {len(checker.symmetry_issues) - 20} more issues.")
         print("=" * 72)
         print(" RESULT: FAILED (Geometric or border closure flaws detected)")
+        print(" Tip: Run with --fix to automatically extend misaligned rows up to the longest row.")
         print("=" * 72)
         return 1
     else:
         print("[OK] Zero geometric symmetry flaws detected across all text boxes.")
         print("[OK] All top and bottom borders are properly terminated with '+'.")
         print("[OK] All left and right borders are properly closed with '|' or '+'.")
-        print("[OK] All rows possess identical character lengths and display widths.")
+        print("[OK] All rows count and match the longest row with 100% letter and display width symmetry.")
         print("=" * 72)
         print(" RESULT: PASSED (Double Checker 100% Geometric & Typographical Integrity)")
         print("=" * 72)

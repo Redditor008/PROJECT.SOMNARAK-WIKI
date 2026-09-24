@@ -8,6 +8,11 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Enhance Text Box Symmetry Checkers & Formatters (Extend-to-Longest-Row Architecture)** —
+  - Overhauled `tools/check_box_symmetry.py` and `tools/text_box_double_checker.py` to count all rows across each text box, benchmark against the longest row in that box, and detect misalignments in terms of missing characters needed to extend up to the longest row.
+  - Implemented automated `--fix` / `-f` engine in both verification tools: rather than truncating or shortening long content, the tools calculate missing column widths and pad shorter rows (with spaces for content rows, `-` / `=` for borders) up to the longest row's length.
+  - Updated `tools/box_formatter.py` (`make_box`) to dynamically expand box width whenever any content or title exceeds the requested column limit, eliminating text slicing and preserving full word integrity.
+
 - **Add Squad Archetype Manual: UCD Close-Quarters Pacification Cadre (`GAME_BATTLE/SQUAD_ARCHETYPE_UCD_PACIFICATION.md`)** —
   - Codified the definitive tactical squad manual for the Underworld Cleanup Descend close-quarters combat squad ("The Breacher Quad" / "The Slum Sweepers") in `GAME_BATTLE/SQUAD_ARCHETYPE_UCD_PACIFICATION.md` (SOP-GB-SQUAD-002).
   - Detailed the quadripartite specialist operative roster: Heavy Breacher (Kang / Hydraulic Wall-Breaker), Debt Cauterizer (Yuna / Needle Warren Cauterizer), CQB Enforcer (Jin / Slum Alleyway Sweeper), and Harpoon Wincher (Doyun / Heavy Cable Drag Line).
