@@ -52,6 +52,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 │   ├── BOSS_MECHANICS_GRIEVING_COLOSSUS.md # Sovereign Boss Mechanics Folio for SE-C-Vδ-002
 │   ├── BOSS_MECHANICS_WEEPING_MIRROR.md    # Sovereign Boss Mechanics Folio for SE-C-IVδ-195
 │   ├── BOSS_MECHANICS_KING_OF_MENDERS.md   # Syndicate Boss Mechanics Folio for King of Menders
+│   ├── SQUAD_ARCHETYPE_REVERIE_CONTAINMENT.md # 4-Warden Facility 01 Containment Cadre Manual
 │   ├── CYCLE_ENGRAM_SYSTEM.md              # 1,778-cycle historical engram attunement & stat shifting framework
 │   └── ECHO_CORE_REALIZATION_SYSTEM.md      # 4-phase departmental trauma battles & resonant catharsis engine
 │
