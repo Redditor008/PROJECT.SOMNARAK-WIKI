@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Midnight Choir (C-IIβ-245 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Walls formed from songs interrupted before their final verse. Held at Zone B, Old Lament — ambient. Singing begins most reliably at midnight.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Songs contain history absent from the Archive.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -398,5 +398,5 @@ Some sorrows are about endings. Midnight Choir are about the endings that never 
 
 **Document ID:** SE-C-IIβ-245
 **Author:** Chronicler Minseo
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Open

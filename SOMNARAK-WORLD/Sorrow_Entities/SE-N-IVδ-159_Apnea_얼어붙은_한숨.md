@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Apnea (N-IVδ-159 [O]) is logged as a Subject-Dream manifestation expressing Grudge (Crimson). The Sigh formed from exhaustion that was never allowed to escape. Held at Zone E, Border region. It is strongest at the border during long watches.
 
-**Entry 2 — <Excerpt from Field Log, Year 4250>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears in dreams of border personnel. Personnel feel frozen rage and cannot complete a breath. It manifests through dreams rather than physical cold.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -386,5 +386,5 @@ Some sorrows are about death. Apnea is about the denial of death — the duty th
 
 **Document ID:** SE-N-IVδ-159
 **Author:** Sentinel Harin
-**Date:** Year 4250
+**Date:** Year 4238
 **Classification:** Classified

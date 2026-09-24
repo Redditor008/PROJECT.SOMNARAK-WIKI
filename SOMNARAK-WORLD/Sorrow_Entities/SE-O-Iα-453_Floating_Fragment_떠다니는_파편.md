@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Floating Fragment (O-Iα-453 [LS]) is logged as a Subject-Grudge manifestation expressing Lament (Deep Blue). The Fragment formed from a cry that ended while its sorrow continued. Held at Zone C, Collector's Row. The sound is older than the current Collector's Row.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Floats through Collector's Row and connected corridors. Personnel hear old crying and feel grief with no identifiable source. It produces wonder before the emotional impact arrives.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -380,5 +380,5 @@ Some sorrows mourn a loss. Floating Fragment mourns the interruption — the cry
 
 **Document ID:** SE-O-Iα-453
 **Author:** Auditor Yuna
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

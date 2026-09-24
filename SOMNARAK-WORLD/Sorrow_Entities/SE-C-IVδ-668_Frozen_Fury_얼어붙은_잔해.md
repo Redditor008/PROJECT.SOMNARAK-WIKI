@@ -180,7 +180,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Frozen Fury rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Frozen Fury activates its primary resonance: Displays the lives and injustice attached to the structure. Grants +10% resistance to Void damage while equipped. |
-| 30 Seconds | The artifact was born from the rage of a home destroyed while its residents were still being blamed for its loss.; the bearer begins perceiving echoes of a collector-controlled district was cleared and frozen in memory after its residents disappeared. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the rage of a home destroyed while its residents were still being blamed for its loss; the bearer begins perceiving echoes of a collector-controlled district was cleared and frozen in memory after its residents disappeared. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Frozen Fury begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Frozen Fury too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may become emotionally fixed in the ruin's final moment. |
 
@@ -293,8 +293,8 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Frozen Fury as an Object/Place with Object-Grudge manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone C, Collector's Row. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or attempts to move the ruin. Effect: Displays the lives and injustice attached to the structure. Duration: Until contact ends. Risk: The worker may become emotionally fixed in the ruin's final moment. Tool Use Profile — I-Relic Operational Rule:. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name?, what remained stable, and which detail was most difficult to describe. In Frozen Fury's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or attempts to move the ruin. Effect: Displays the lives and injustice attached to the structure. Duration: Until contact ends. Risk: The worker may become emotionally fixed in the ruin's final moment. Tool Use Profile — I-Relic Operational Rule: At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Frozen Fury's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Frozen Fury (C-IVδ-668 [O]) is logged as a Object-Grudge manifestation expressing Void (Pale White). The Ruin formed from a place emptied by institutional violence. Held at Zone C, Collector's Row. It is not physically movable.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It responds strongly to Collector activity.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -335,7 +335,7 @@ The ruin sits in the Collector's Row like a piece of winter. Its walls are broke
 
 **With continued exposure:** With time the Object-Grudge becomes less a presence and more a climate — the Void is no longer an event but an environment, something you exist inside rather than encounter.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch or attempts to move the ruin. Effect: Displays the lives and injustice attached to the structure. Duration: Until contact ends. Risk: The worker may become emotionally fixed in the ruin's final moment. Tool Use Profile — I-Relic Operational Rule:. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch or attempts to move the ruin. Effect: Displays the lives and injustice attached to the structure. Duration: Until contact ends. Risk: The worker may become emotionally fixed in the ruin's final moment. Tool Use Profile — I-Relic Operational Rule: The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
 
 **After departure:** The containment boundary holds the Object-Grudge, but not the memory. Void residue settles into the bones like Han into the city's foundations.
 
@@ -423,5 +423,5 @@ Some sorrows mourn destruction. Frozen Fury mourns the injustice heaped on the d
 
 **Document ID:** SE-C-IVδ-668
 **Author:** Auditor Yuna
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Classified

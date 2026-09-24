@@ -314,7 +314,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Devouring Bloom (C-IIIγ-916 [N]) is logged as a Object-Weight manifestation expressing Weight (Black). The Flower formed from sorrow preserved as weight. Held at Zone B, deep tunnels. Its petals grow toward memorial objects.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It becomes heavier after tunnel deaths.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -435,5 +435,5 @@ Some sorrows are meant to pass. Devouring Bloom is a sorrow that, crystallized b
 
 **Document ID:** SE-C-IIIγ-916
 **Author:** Agent Kkotlom Lee
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

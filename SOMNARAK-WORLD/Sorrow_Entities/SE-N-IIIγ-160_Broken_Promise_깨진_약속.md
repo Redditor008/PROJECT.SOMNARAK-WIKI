@@ -180,7 +180,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Broken Promise rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Broken Promise activates its primary resonance: Binds the speaker to the promise emotionally and physically. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from betrayal—the grief of believing words and discovering that they were never intended to hold.; the bearer begins perceiving echoes of a collector promised debt relief, then used the promise to secure another obligation. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from betrayal—the grief of believing words and discovering that they were never intended to hold; the bearer begins perceiving echoes of a collector promised debt relief, then used the promise to secure another obligation. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Broken Promise begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Broken Promise too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers A broken promise causes the object's shards to appear around the speaker. |
 
@@ -290,7 +290,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Initial exposure** | The observer identifies Broken Promise as an Object/Place with Object-Grudge manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at SECTOR-C-01, Collector's Row. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Speaking a promise while touching a shard. Effect: Binds the speaker to the promise emotionally and physically. Duration: Until fulfilled, honestly withdrawn, or broken. Risk: A broken promise causes the object's shards to appear around the speaker. Tool Use Profile. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name?, what remained stable, and which detail was most difficult to describe. In Broken Promise's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Broken Promise's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Promise (N-IIIγ-160 [GO]) is logged as a Object-Grudge manifestation expressing Grudge (Crimson). The object formed from a promise that was used as a weapon. Held at SECTOR-C-01, Collector's Row. It moves when promises are spoken near it.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It distinguishes inability from deliberate betrayal.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -417,5 +417,5 @@ Some sorrows are about debt. Broken Promise is about the betrayal — the promis
 
 **Document ID:** SE-N-IIIγ-160
 **Author:** Auditor Yuna
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

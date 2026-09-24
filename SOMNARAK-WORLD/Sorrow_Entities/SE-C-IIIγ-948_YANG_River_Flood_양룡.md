@@ -283,7 +283,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It grows sadder, not less, each time its longing is shared — channeling eases others and deepens it.
 
 **Personnel Note:**
-> *"I touched it. Gloves on, ninety seconds, by the book. And for ninety seconds I flew. I have never felt anything so good, or so sad. I saw the bright blue sky from above, and I rose, and I rose — and then the time was up, and I was on the floor of a vault, and I cried, and I could not say why, except that I had been in the sky and now I was not. I understand the carving now. I understand why it glows. It glows because it is always in the sky, in its head, and it is always, also, on the ground."* — Cartographer Yeonhwa, Zone C, Year 4249
+> *"I touched it. Gloves on, ninety seconds, by the book. And for ninety seconds I flew. I have never felt anything so good, or so sad. I saw the bright blue sky from above, and I rose, and I rose — and then the time was up, and I was on the floor of a vault, and I cried, and I could not say why, except that I had been in the sky and now I was not. I understand the carving now. I understand why it glows. It glows because it is always in the sky, in its head, and it is always, also, on the ground."* — Cartographer Yeonhwa, Zone C, Year 4238
 
 ### Observation Progression
 
@@ -303,7 +303,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 YANG River Flood (C-IIIγ-948 [LO]) is logged as an Object-Spirit manifestation expressing Lament (Deep Blue). The entity is a metre-tall carving of a black dragon in unknown white stone, with glowing white eyes, fixed in the Dry Riverbed Vault, SECTOR-C-07, Zone C. A hand laid upon it shares its long longing to fly; channeling past 90 seconds is forbidden. It grows sadder each time it is shared.
 
-**Entry 2 — <Excerpt from Field Log, Year 4249>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Worked via Viderehan and Ferrehan only; one sanctioned 90-second gloved channel by Cartographer Yeonhwa for terrain mapping. The petitioner reported a complete, euphoric vision of flight, followed by acute sky-grief on return to the ground; composure readings dipped but stabilised within the hour. The carving's eyes brightened during the channel and have not fully dimmed since. Note: the relic cannot refuse the sharing of its longing — the core hazard — and the Vault remains sealed against unsanctioned contact.
 
 **Entry 3 — <Counseling Log>**
@@ -432,6 +432,6 @@ Do not touch it. Do not, whatever the longing in your chest tells you, look up t
 
 **Author:** Archive Lead Marjuk
 
-**Date:** Year 4249
+**Date:** Year 4238
 
 **Classification:** Restricted

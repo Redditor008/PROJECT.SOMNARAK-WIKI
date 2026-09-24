@@ -180,7 +180,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Forgotten Tear rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Forgotten Tear activates its primary resonance: Transfers the forgotten grievance into the holder's awareness. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the anger of a person whose loss was dismissed by everyone around them.; the bearer begins perceiving echoes of a death was treated as insignificant; the unacknowledged tear became a red crystal. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the anger of a person whose loss was dismissed by everyone around them; the bearer begins perceiving echoes of a death was treated as insignificant; the unacknowledged tear became a red crystal. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Forgotten Tear begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Forgotten Tear too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The holder may mistake the old anger for a current injustice. |
 
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Forgotten Tear (O-Iα-709 [GO]) is logged as a Object-Grudge manifestation expressing Grudge (Crimson). The Tear formed from grief that was forgotten before it could be expressed. Held at Zone A, Alpha Tree vault. It becomes heavier when ignored.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It warms when grief is acknowledged.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -424,5 +424,5 @@ Some sorrows are about death. Forgotten Tear is about the dismissal of death —
 
 **Document ID:** SE-O-Iα-709
 **Author:** Researcher Euncris Park
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

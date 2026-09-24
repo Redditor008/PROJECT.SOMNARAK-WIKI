@@ -291,7 +291,7 @@ Stone gathers around a crying figure. A doorway appears, then collapses. Dust fi
 
 
 
-**At first contact:** The Subject-Lament does not announce itself with sound or movement. It arrives as a sensation — Lament settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A weeping figure made from pieces of a ruined Desolate structure. Its body shifts between stone,....
+**At first contact:** The Subject-Lament does not announce itself with sound or movement. It arrives as a sensation — Lament settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A weeping figure made from pieces of a ruined Desolate structure. Its body shifts between stone...
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Lament becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

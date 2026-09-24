@@ -380,5 +380,5 @@ Operational Rule: When deploying this A-Relic in combat, the squad leader must d
 
 **Document ID:** SE-N-IIβ-319
 **Author:** Inquisitorial Archivist Seol-A
-**Date:** Year 4248
+**Date:** Year 4238
 **Classification:** Confidential — High Tribunal Record

@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Crucible (C-IIIβ-275 [GP]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Forge formed from anger used to create rather than destroy. Held at Zone D, Forge District. The Forge creates objects without a visible worker.
 
-**Entry 2 — <Excerpt from Field Log, Year 4249>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its heat responds to emotional intent.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -427,5 +427,5 @@ Crucible is that awareness. It still burns. It still shapes metal. But those who
 
 **Document ID:** SE-C-IIIβ-275
 **Author:** Agent Durivel Cho
-**Date:** Year 4249
+**Date:** Year 4238
 **Classification:** Restricted

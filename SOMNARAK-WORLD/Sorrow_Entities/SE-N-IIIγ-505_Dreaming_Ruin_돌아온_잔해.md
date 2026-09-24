@@ -258,7 +258,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Initial exposure** | The observer identifies Dreaming Ruin as a Subject with Subject-Dream manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at Zone C, Mask Market. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity’s recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name?, what remained stable, and which detail was most difficult to describe. In Dreaming Ruin's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Dreaming Ruin's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Dreaming Ruin (N-IIIγ-505 [VS]) is logged as a Subject-Dream manifestation expressing Void (Pale White). The Ruin formed from a home remembered after it was destroyed. Held at Zone C, Mask Market. It is more stable when a memory is shared by multiple people.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through dreams and Mask Market reflections. Personnel become trapped reconstructing lost places. Its architecture changes with each observer.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -387,5 +387,5 @@ Some sorrows mourn a place. Dreaming Ruin mourns the persistence of the place �
 
 **Document ID:** SE-N-IIIγ-505
 **Author:** Dreamer Sora
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

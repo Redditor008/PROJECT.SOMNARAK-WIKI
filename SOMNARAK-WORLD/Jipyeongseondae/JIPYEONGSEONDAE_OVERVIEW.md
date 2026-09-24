@@ -315,7 +315,7 @@ All overland tactical combat encounters execute across the standardized 10-node 
 ### 10.1 The Historical Bridge Across the Dust
 The Horizon Caravan transformed the Desolate from an impassable void of death into a thriving artery of planetary civilization:
 - **Bi-Weekly Convoys:** Guarded by seventeen fortified waystations, regular trade convoys transport adamantine ingots, volcanic geothermal cells, and grain across the 2,400-kilometer highway between Somnarak and Cheonbulok.
-- **The Northern Expedition:** As the Dawn Initiative reaches forty-five percent planetary transmutation, the Caravan prepares for its return to Mugeukji, equipped with the Key Pages of the Memory Archive to speak the words that will finally wake the Silent City.
+- **The Northern Expedition:** As the Dawn Initiative reaches forty-five percent planetary transmutation, the Caravan prepares for its return to Mugeukji, equipped with the Engram Pages of the Memory Archive to speak the words that will finally wake the Silent City.
 
 ---
 

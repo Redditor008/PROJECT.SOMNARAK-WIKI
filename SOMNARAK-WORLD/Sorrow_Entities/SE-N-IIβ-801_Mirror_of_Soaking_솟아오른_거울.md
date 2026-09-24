@@ -180,7 +180,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Mirror of Soaking rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Mirror of Soaking activates its primary resonance: Displays hidden anger and its original injustice. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of injustice left unnamed and anger treated as unacceptable.; the bearer begins perceiving echoes of citizens swallowed rage under debt and order until suppressed anger became a reflective object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the grief of injustice left unnamed and anger treated as unacceptable; the bearer begins perceiving echoes of citizens swallowed rage under debt and order until suppressed anger became a reflective object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Mirror of Soaking begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Mirror of Soaking too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Emotional escalation and projection of rage onto nearby people. |
 
@@ -306,7 +306,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Mirror of Soaking (N-IIβ-801 [GO]) is logged as a Object-Void manifestation expressing Grudge (Crimson). The Mirror formed from rage that could not be spoken safely. Held at Zone C, Collector's Row. Appears in Collector's Row where suppressed debt anger is concentrated.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The surface shows no physical reflection.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -424,5 +424,5 @@ Some sorrows are about grief. Mirror of Soaking is about rage — the anger swal
 
 **Document ID:** SE-N-IIβ-801
 **Author:** Auditor Yuna
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

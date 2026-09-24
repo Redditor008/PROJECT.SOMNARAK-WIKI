@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Echo of Kindness (C-Iα-240 [LO]) is logged as a Lament manifestation expressing Lament (Deep Blue). The Echo formed from kindness that became rare enough to crystallize. Held at Zone D, Mantle Commons — ambient. It appears after kindness rather than grief alone.
 
-**Entry 2 — <Excerpt from Field Log, Year 4245>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its words are short and direct.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -399,5 +399,5 @@ On the Consolihan, when the city permits itself one day of shared grief, the Ech
 
 **Document ID:** SE-C-Iα-240
 **Author:** Chronicler Minseo
-**Date:** Year 4245
+**Date:** Year 4238
 **Classification:** Open

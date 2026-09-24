@@ -1856,7 +1856,7 @@ Somnarak's factions exist in a complex web of competition, collusion, trade, and
 | **Keepers** | Tension | Architects destroy old structures; Keepers preserve them |
 | **Wardens** | Tension | Architect construction zones create security gaps |
 | **Weavers** | Ignored | Architects focus on the physical; Weavers focus on the Dream |
-| **R.D.** | Cooperation | Architects build for the R.D.; R.D. provides research |
+| **R.D.** | Cooperation | Architects build for the R.D; R.D. provides research |
 | **Menders** | Alliance | Menders are the Architects' field agents |
 | **Frays** | Conflict | Frays sabotage construction for profit |
 
@@ -1932,7 +1932,7 @@ Somnarak's factions exist in a complex web of competition, collusion, trade, and
 | **Wardens** | Supportive | Wardens provide security for R.D. |
 | **Weavers** | Cooperation | Weavers provide Dream support |
 | **Menders** | Alliance | Menders are R.D. field contractors |
-| **Frays** | Complex | Some Frays work with R.D.; others oppose it |
+| **Frays** | Complex | Some Frays work with R.D; others oppose it |
 
 ---
 
@@ -3847,7 +3847,7 @@ When a breach occurs, the R.D. follows a **four-stage response**:
 | **Transform** | 35% | Medium | 1-3 days |
 | **Corrupt** | 25% | Extreme | 1-2 weeks |
 
-**Notable Breaches:**
+**Projected Deep-Cycle Breach Scenarios (Forward-Projection Simulation — Years 4300+):**
 
 | Date | Entity | Type | Severity | Outcome |
 |------|--------|------|----------|---------|

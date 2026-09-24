@@ -311,7 +311,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Initial exposure** | The observer identifies Mourner's Bloom as an Object/Place with Object-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone D, Echo Gardens. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Grief expressed near the flower. Effect: Crystallizes one moment of mourning into a petal. Duration: Until the grief is acknowledged and released. Risk: The flower may preserve sorrow that should be allowed to change. Tool Use Profile — O-Relic Operational. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name?, what remained stable, and which detail was most difficult to describe. In Mourner's Bloom's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Mourner's Bloom's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -321,7 +321,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Mourner's Bloom (C-Iα-330 [D]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The Flower formed from one honest moment of mourning. Held at Zone D, Echo Gardens. Flowers bloom in response to nearby sorrow.
 
-**Entry 2 — <Excerpt from Field Log, Year 4248>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 They wilt when joy is forced rather than felt.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -348,7 +348,7 @@ The flower sits in the Garden without moving. Its petals hold the color of a bru
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A delicate flower made from crystallized sorrow. Its petals are dark blue and warm at the center. Notable Features: It blooms near grief, wilts near forced happiness, and responds to the presence of mourners. Identification Profile:. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Object-Lament form.
+**At first contact:** The first identifiable detail is Physical Form: A delicate flower made from crystallized sorrow. Its petals are dark blue and warm at the center. Notable Features: It blooms near grief, wilts near forced happiness, and responds to the presence of mourners. Identification Profile: The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Object-Lament form.
 
 **With continued exposure:** With time the Object-Lament becomes less a presence and more a climate — the Lament is no longer an event but an environment, something you exist inside rather than encounter.
 
@@ -440,5 +440,5 @@ Some sorrows mourn a loss. Mourner's Bloom mourns the hiding — the grief the c
 
 **Document ID:** SE-C-Iα-330
 **Author:** Agent Kkotlom Lee
-**Date:** Year 4248
+**Date:** Year 4238
 **Classification:** Open

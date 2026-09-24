@@ -180,7 +180,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Frozen Tear rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Frozen Tear activates its primary resonance: Creates a quiet field where emotional distress can be acknowledged. Grants +10% resistance to Lament damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of someone unable to cry despite having lost everything.; the bearer begins perceiving echoes of a mourner's first and only tear froze before it could fall. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the grief of someone unable to cry despite having lost everything; the bearer begins perceiving echoes of a mourner's first and only tear froze before it could fall. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Frozen Tear begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Frozen Tear too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Direct touch may overwhelm the visitor with the original grief. |
 
@@ -303,7 +303,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Frozen Tear (C-IIβ-102 [LO]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The Tear formed from sorrow too deep to flow. Held at SECTOR-D-02, Echo Gardens. It is one of the most visited minor entities in the Gardens.
 
-**Entry 2 — <Excerpt from Field Log, Year 4248>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 No authorized worker has touched it.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -428,5 +428,5 @@ Some sorrows are too deep for tears. Frozen Tear is what they become instead.
 
 **Document ID:** SE-C-IIβ-102
 **Author:** Agent Kkotlom Lee
-**Date:** Year 4248
+**Date:** Year 4238
 **Classification:** Open

@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Inheritor (C-IIIγ-062 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Inheritor formed from a father's resentment at being forced to pay his parent's debt. Held at SECTOR-C-01, contained with the Debt Triplets. The Inheritor cannot be separated from the Debt Triplets permanently.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Rages quickly through the facility with fists clenched. Personnel feel resentment over debts forced upon them. Flerehan calms him; Pugnahan reinforces his inherited anger.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -397,5 +397,5 @@ Some sorrows are suffered in silence. The Inheritor's sorrow is suffered out lou
 
 **Document ID:** SE-C-IIIγ-062
 **Author:** Auditor Yuna
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

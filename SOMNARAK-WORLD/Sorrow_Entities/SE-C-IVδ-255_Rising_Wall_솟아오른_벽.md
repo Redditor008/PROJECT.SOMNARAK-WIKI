@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Rising Wall (C-IVδ-255 [N]) is logged as a Subject-Weight manifestation expressing Lament (Deep Blue). The Wall formed from love that was never returned. Held at Zone D, Mantle Commons. Its pressure rises during collective mourning.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Grows through Mantle Commons and adjacent streets. Personnel feel overwhelming sorrow and unreturned attachment. It responds to patience rather than force.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -379,5 +379,5 @@ Some sorrows mourn a loss. Rising Wall mourns an asymmetry — the love that one
 
 **Document ID:** SE-C-IVδ-255
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

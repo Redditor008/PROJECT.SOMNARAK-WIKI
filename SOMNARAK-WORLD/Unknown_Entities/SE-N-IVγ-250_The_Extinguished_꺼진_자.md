@@ -219,7 +219,7 @@ The extracted equipment reflects the same unresolved pressure as The Extinguishe
 - It withdrew from a test of the Gentle Flame when the Flame did not flinch — the first recorded retreat.
 - It escalates only against Bearers who show fear of burning out; confident, honest presence disperses it.
 
-**Personnel Note:** *"It came at my light. I felt the pull — the old terror that I would give too much and go dark. I almost flinched. Then I thought: if I flinch, it wins. So I stood. I did not promise to stay. I just stayed. It tested me for an hour. Then it bowed — a small, bitter bow — and walked back into the frost."* — Sooah (수아), The Healer, Year 4245
+**Personnel Note:** *"It came at my light. I felt the pull — the old terror that I would give too much and go dark. I almost flinched. Then I thought: if I flinch, it wins. So I stood. I did not promise to stay. I just stayed. It tested me for an hour. Then it bowed — a small, bitter bow — and walked back into the frost."* — Sooah (수아), The Healer, Year 4238
 
 ### Observation Progression
 
@@ -238,7 +238,7 @@ The extracted equipment reflects the same unresolved pressure as The Extinguishe
 **Entry 1 — Containment Description**
 The subject is a humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, edges faintly gold, core gone cold and crimson. It shifts color: gold at the extremities (what it was), crimson-black at the heart (what losing it made it). Frost follows where it walks, and the frost spells, in Old Somnarak, the same word at every pause: *again?* The figure ignores the hopeless and walks past them. It engages only Hope-signatures.
 
-**Entry 2 — <Excerpt from Counseling Log, Year 4245>**
+**Entry 2 — <Excerpt from Counseling Log, Year 4238>**
 "We had a light for three years. She held the whole district's sorrow so we could sleep. And we let her, because it was easier than holding it ourselves. The light doesn't dim by halves — it burns full until the moment it doesn't. By morning she was dark. The grief came back wrong. Not the old grief. The grief of having known something better and lost it." — Saetris Nunvia (새트리스 누비아), shelter-matron
 
 **Entry 3 — <Emergency Call Transcript, Night of Burnout>**
@@ -316,7 +316,7 @@ The Dawn Initiative learned, from the Extinguished, the rule it now carries ever
 > *"It ignores the hopeless. Walks right past them. It only comes for those of us who still carry a light. It wants to know if we will leave too. It can always tell when we are afraid we will."* — Sooah (수아), The Healer
 > *"Containment is not suppression. It is honesty. You cannot tell it 'it will be alright.' You can only tell it 'I am here now, and I am not flinching,' and mean it."* — Commander Taeho (태호), Dawn Initiative
 > *"The frost writes 'again?' wherever it stops. I used to read it as a threat. Now I read it as a question it genuinely wants answered: is there a hope that does not burn out? We have not yet given it a good answer."* — Researcher Euncris Park (은크리스 박)
-> *"We sealed the Bearer's name. Not to protect her. To protect the entity. If it heard her name, it might remember being her — and we do not know what a sorrow does when it remembers it was once a person who hoped."* — Director Majin (마진), Year 4245
+> *"We sealed the Bearer's name. Not to protect her. To protect the entity. If it heard her name, it might remember being her — and we do not know what a sorrow does when it remembers it was once a person who hoped."* — Director Majin (마진), Year 4238
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `N-IVγ-250 [GS]` · Inner origin · Entity (IV) coherence · Major (γ) potency · Grudge (Crimson) · Subject-Body manifestation
@@ -337,7 +337,7 @@ The Dawn Initiative learned, from the Extinguished, the rule it now carries ever
 - Escalates only against Bearers displaying burnout-fear.
 **Cross-References:** The Dawn Initiative · The Gentle Flame (Sooah) · The Burning Hope (Hwaran) · The Hand of Hope · The Dawn of Mourning · The Unconsoled · the Hope Bearer cost
 **Faction Involvement:** SED (D-territory exploration) · Wound Walkers (Fracture-relevant)
-**Originator:** The district that relied on a stationed Bearer who burned out (Year 4245); the Bearer's name sealed. Records kept by shelter-matron Saetris Nunvia (새트리스 누비아).
+**Originator:** The district that relied on a stationed Bearer who burned out (Year 4238); the Bearer's name sealed. Records kept by shelter-matron Saetris Nunvia (새트리스 누비아).
 
 ### Registry Addendum
 
@@ -367,7 +367,7 @@ The Dawn Initiative learned, from the Extinguished, the rule it now carries ever
 
 **Author:** Commander Taeho (태호), Dawn Initiative, with research by Researcher Euncris Park (은크리스 박)
 
-**Date:** Year 4245
+**Date:** Year 4238
 
 **Classification:** Classified
 

@@ -180,7 +180,7 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Torn Window rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Torn Window activates its primary resonance: Shows one former occupant's memory of the window. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of seeing the same place through too many losses.; the bearer begins perceiving echoes of a tunnel window was touched by generations of workers until each person's departure remained in the glass. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the grief of seeing the same place through too many losses; the bearer begins perceiving echoes of a tunnel window was touched by generations of workers until each person's departure remained in the glass. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Torn Window begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Torn Window too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The viewer may mistake a borrowed room for personal history. |
 
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Torn Window (N-Iα-686 [N]) is logged as a Object-Lament manifestation expressing Grudge (Crimson). The Window formed from a view destroyed by repeated hands and memories. Held at Zone B, deep tunnels. It reflects hands rather than faces.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The cracks never close.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -422,5 +422,5 @@ Some sorrows are about a view. Torn Window is about the departures layered on th
 
 **Document ID:** SE-N-Iα-686
 **Author:** Archive Lead Marjuk
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

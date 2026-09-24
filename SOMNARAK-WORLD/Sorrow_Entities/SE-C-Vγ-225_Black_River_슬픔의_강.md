@@ -280,7 +280,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Black River (C-Vγ-225 [WP]) is logged as a Place-Weight manifestation expressing Weight (Black). The River is considered the source of Han and the origin of all Sorrow Entities. Held at SECTOR-A-01, beneath the Alpha Tree — The Weeping. The River is the suspected source of all Han.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its sound is felt through bone rather than heard.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -307,7 +307,7 @@ You descend beneath the Alpha Tree and hear the River with your bones. The liqui
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A vast underground river of black liquid sorrow. It flows beneath the city like blood through veins. Notable Features: It carries the grief of Somnarak, produces no ordinary reflection, and feeds many Sorrow Entities. Identification Profile:. The surrounding space does not become generic or abstract; it changes in the specific way associated with Weight and the entity's Place-Weight form.
+**At first contact:** The first identifiable detail is Physical Form: A vast underground river of black liquid sorrow. It flows beneath the city like blood through veins. Notable Features: It carries the grief of Somnarak, produces no ordinary reflection, and feeds many Sorrow Entities. Identification Profile: The surrounding space does not become generic or abstract; it changes in the specific way associated with Weight and the entity's Place-Weight form.
 
 **With continued exposure:** Sustained contact reveals the entity's rhythm — the Weight pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
 
@@ -402,5 +402,5 @@ Some sorrows are about human loss. Black River is about loss itself — the grie
 
 **Document ID:** SE-C-Vγ-225
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Echo-Core Eyes Only

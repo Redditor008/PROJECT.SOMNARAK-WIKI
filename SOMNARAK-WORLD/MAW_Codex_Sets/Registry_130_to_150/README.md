@@ -58,7 +58,7 @@ The decision preserves the Echo Gardens continuity from the Sorrow Fountain, Uns
 - Side Codices use the `-A` suffix. Individual Weapon, Suit, and Gift histories use `-B`, `-C`, and `-D` plus independent `MAW-W`, `MAW-S`, and `MAW-G` item registry codes.
 - Individual records include source-consistent stat lines, extraction or bestowal conditions, binding and rejection rules, named witnesses or bearers, incidents, corrosion signs, maintenance, emergency shutdown, and full-set resonance.
 - Dream material in the Rem set uses a waking anchor and current-world return route; it does not treat dreams as current permanent residence.
-- Garden source material remains protected from harvesting: Weeping Willow leaves and Briar vines are never cut to make M.A.W.; only naturally released entity echoes are used.
+- Garden source material remains protected from harvesting: Weeping Willow leaves and Briar vines are never cut to make M.A.W; only naturally released entity echoes are used.
 - Risus records preserve the vanished community’s laughter as a memory relationship, not a morale asset or collectible audio resource.
 
 **Batch count:** 20 codex records; 21 Markdown files including this README.

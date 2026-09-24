@@ -260,7 +260,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Dormant Monolith (N-IVδ-909 [N]) is logged as a Subject-Mind manifestation expressing Void (Pale White). The Pillar formed from responsibility that became a permanent mental structure. Held at Zone E, Border region. It has never fully awakened.
 
-**Entry 2 — <Excerpt from Field Log, Year 4250>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through the minds of personnel near the Border. Personnel feel emptiness and the inability to leave duty. Its shadow grows when the worker refuses rest.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -382,5 +382,5 @@ Some sorrows are about duty. Dormant Monolith is about duty that consumed the du
 
 **Document ID:** SE-N-IVδ-909
 **Author:** Sentinel Harin
-**Date:** Year 4250
+**Date:** Year 4238
 **Classification:** Classified

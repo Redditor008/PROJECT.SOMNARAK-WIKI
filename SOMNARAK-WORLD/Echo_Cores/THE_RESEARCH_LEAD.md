@@ -471,7 +471,7 @@ The story does not return his missing sorrow. It makes his observation more resp
 
 ## Role in _The Memory Archive_
 
-Ayshuk has **no direct recorded role** in _The Memory Archive_. He does not appear as a Reception opponent, Key Page holder, Patron, or identified participant in that operation.
+Ayshuk has **no direct recorded role** in _The Memory Archive_. He does not appear as a Archival Encounter opponent, Engram Page holder, Patron, or identified participant in that operation.
 
 The Memory Archive has its own floor and reception numbering. A reference to “Floor 4” in that operation is not sufficient evidence that the Directorate's Insight Forge or Ayshuk is involved. The two systems must not be merged by matching numbers alone.
 

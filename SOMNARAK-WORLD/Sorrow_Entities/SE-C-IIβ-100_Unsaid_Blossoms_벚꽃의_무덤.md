@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Unsaid Blossoms (C-IIβ-100 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Grave formed from words never spoken to the dead. Held at SECTOR-D-02, Echo Gardens. Blossoms bloom more heavily during the Sorrow Tide.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 No physical body has been recovered beneath the grave.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -305,7 +305,7 @@ The petals fall before you hear them. Each one touches the ground with the sound
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A grave beneath a cherry tree made of pale crystal. Blossoms bloom out of season and fall without wind. Notable Features: Each blossom contains an unsaid sentence; the air grows thick around the grave. Identification Profile:. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Place-Lament form.
+**At first contact:** The first identifiable detail is Physical Form: A grave beneath a cherry tree made of pale crystal. Blossoms bloom out of season and fall without wind. Notable Features: Each blossom contains an unsaid sentence; the air grows thick around the grave. Identification Profile: The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Place-Lament form.
 
 **With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Lament is teaching you its sorrow.
 
@@ -398,5 +398,5 @@ Some sorrows mourn what was lost. The Grave mourns what was never said — and f
 
 **Document ID:** SE-C-IIβ-100
 **Author:** Agent Kkotlom Lee
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

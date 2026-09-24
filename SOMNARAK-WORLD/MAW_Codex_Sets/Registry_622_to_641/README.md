@@ -20,7 +20,7 @@
 
 - Vestige retains primary Residue I / Minor α data over the contradictory late Registrum IV/γ line.
 - Harvest Beyond the Gate follows its Object/Place Viderehan/Ferrehan-only behavior table rather than the late Pugnahan instruction.
-- Patrimoine retains primary Fragment III / Major γ classification and canonical Grade α M.A.W.; its Subject label and Place-Void work protocol are both preserved.
+- Patrimoine retains primary Fragment III / Major γ classification and canonical Grade α M.A.W; its Subject label and Place-Void work protocol are both preserved.
 - Home to No One Who Knew Me retains primary Object-Void manifestation over the contradictory detailed-activation Object-Grudge label.
 
 ## Canonical Coverage

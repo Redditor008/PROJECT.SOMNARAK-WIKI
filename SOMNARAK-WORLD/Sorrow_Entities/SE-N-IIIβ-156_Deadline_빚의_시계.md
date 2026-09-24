@@ -293,7 +293,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Deadline as an Object/Place with Object-Weight manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at SECTOR-C-01, Collector's Row. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch by someone with debt. Effect: Displays the next debt deadline. Duration: Until the debt changes or the clock is set down. Risk: The user may become unable to think beyond the deadline. Tool Use Profile — O-Relic Operational Rule:. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch by someone with debt. Effect: Displays the next debt deadline. Duration: Until the debt changes or the clock is set down. Risk: The user may become unable to think beyond the deadline. Tool Use Profile — O-Relic Operational Rule: At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Deadline's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Deadline (N-IIIβ-156 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Clock formed from anxiety over debt deadlines. Held at SECTOR-C-01, Collector's Row. It never displays ordinary time.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its hands stop briefly when a debt is acknowledged.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -335,7 +335,7 @@ The clock ticks only when you look at it. Its hands move toward a midnight that 
 
 **With continued exposure:** Sustained contact reveals the entity's rhythm — the Weight pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch by someone with debt. Effect: Displays the next debt deadline. Duration: Until the debt changes or the clock is set down. Risk: The user may become unable to think beyond the deadline. Tool Use Profile — O-Relic Operational Rule:. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touch by someone with debt. Effect: Displays the next debt deadline. Duration: Until the debt changes or the clock is set down. Risk: The user may become unable to think beyond the deadline. Tool Use Profile — O-Relic Operational Rule: The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
 
 **After departure:** Departure is not relief. The Object-Weight is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
 
@@ -423,5 +423,5 @@ Some sorrows are about the debt. Deadline is about the waiting — the countdown
 
 **Document ID:** SE-N-IIIβ-156
 **Author:** Auditor Yuna
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

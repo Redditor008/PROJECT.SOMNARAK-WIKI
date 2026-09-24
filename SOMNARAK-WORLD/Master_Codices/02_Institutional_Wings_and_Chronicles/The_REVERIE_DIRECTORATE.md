@@ -2500,7 +2500,7 @@ If the Absolvohan succeeds, the city would be **cleansed** — but also **destro
 |---|---|
 | **Floor / Station** | Floor 1 (Central Administration Core) |
 | **Effigy Type** | Android Effigy (0% biological, awakened by human memories) |
-| **Armament** | Administrative Interface *The Promise* (Orbiting Key Pages) |
+| **Armament** | Administrative Interface *The Promise* (Orbiting Engram Pages) |
 | **Sorrow Category** | City Sorrow (도한) — inherited from Director's lost human companion |
 | **Han Signature** | Lament (Deep Blue) + Void (Pale White) |
 | **Manifestation** | Subject-Dream — partially exists in the Dream realm |

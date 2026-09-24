@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Grieving Maiden (C-IVβ-041 [LS]) is logged as a Subject-Body manifestation expressing Lament (Deep Blue). The Maiden formed from a parent whose child died of illness. Held at SECTOR-D-02, contained with the Three Sisters. Separation from the Three Sisters causes rapid distress.
 
-**Entry 2 — <Excerpt from Field Log, Year 4245>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks slowly through the facility while weeping. Personnel experience the overwhelming grief of losing a child. Activity increases during the Sorrow Tide.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -399,5 +399,5 @@ Some sorrows are about injustice. The Grieving Maiden's sorrow is about helpless
 
 **Document ID:** SE-C-IVβ-041
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4245
+**Date:** Year 4238
 **Classification:** Restricted

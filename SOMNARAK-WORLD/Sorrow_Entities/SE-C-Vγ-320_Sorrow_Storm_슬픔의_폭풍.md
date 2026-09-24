@@ -281,7 +281,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Sorrow Storm (C-Vγ-320 [D]) is logged as a Place-Weight manifestation expressing Weight (Black). The Storm formed from sorrow accumulating beyond the city's ability to release it. Held at All zones — periodic phenomenon. The Storm follows major city-wide grief events.
 
-**Entry 2 — <Excerpt from Field Log, Year 4250>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It can cross the Veil temporarily.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -402,5 +402,5 @@ Some sorrows are gradual. Sorrow Storm is sudden — the accumulated suppressed 
 
 **Document ID:** SE-C-Vγ-320
 **Author:** Researcher Euncris Park
-**Date:** Year 4250
+**Date:** Year 4238
 **Classification:** Restricted

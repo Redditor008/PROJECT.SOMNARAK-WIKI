@@ -325,7 +325,7 @@ The floor becomes dark with water that is not water. Roots press upward beneath 
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A tree submerged beneath the floor of the Mask Market, visible through translucent crystal and reflections. Its branches rise into rooms that do not contain it. Notable Features: It grows downward, its roots carry old grief,. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Place-Grudge form.
+**At first contact:** The first identifiable detail is Physical Form: A tree submerged beneath the floor of the Mask Market, visible through translucent crystal and reflections. Its branches rise into rooms that do not contain it. Notable Features: It grows downward, its roots carry old grief. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Place-Grudge form.
 
 **With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Lament; it is this entity's Lament — shaped by its origin, its wound, its particular grief.
 

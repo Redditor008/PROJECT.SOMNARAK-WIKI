@@ -243,7 +243,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The historical resolution was the Sovereign's own act: it wished, selflessly, for the rain it caused to stop. There is no guarantee a second manifestation would wish the same.
 
 **Personnel Note:**
-> *"I have read the single full account of the transformation a hundred times. It is the most hopeful and the most hopeless document in the Archive. A small fish, selfish for a thousand years, ate a stone, drowned a region, and then — for one instant — wished for something other than itself, and became, for that instant, the most beautiful and powerful thing the city has ever recorded. And then it fell, because one selfless wish could not outweigh a thousand selfish ones. I keep the file because it proves two things at once: that transformation is real, and that it is not free. The Sovereign is what we could be. The fish is what we are, the moment we stop wishing for each other."* — Chronicler Minseo, Archive, Year 4249
+> *"I have read the single full account of the transformation a hundred times. It is the most hopeful and the most hopeless document in the Archive. A small fish, selfish for a thousand years, ate a stone, drowned a region, and then — for one instant — wished for something other than itself, and became, for that instant, the most beautiful and powerful thing the city has ever recorded. And then it fell, because one selfless wish could not outweigh a thousand selfish ones. I keep the file because it proves two things at once: that transformation is real, and that it is not free. The Sovereign is what we could be. The fish is what we are, the moment we stop wishing for each other."* — Chronicler Minseo, Archive, Year 4238
 
 ### Observation Progression
 
@@ -391,6 +391,6 @@ And that is the whole of it — the fish, the stone, the dragon — three files,
 
 **Author:** Chronicler Minseo
 
-**Date:** Year 4249
+**Date:** Year 4238
 
 **Classification:** Echo-Core Eyes Only

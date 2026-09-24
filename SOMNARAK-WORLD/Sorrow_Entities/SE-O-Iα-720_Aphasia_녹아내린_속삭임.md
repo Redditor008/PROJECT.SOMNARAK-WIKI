@@ -272,7 +272,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Aphasia (O-Iα-720 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Whisper formed from anger that could no longer hold a complete sentence. Held at Zone B, Old Lament — ambient. Its form changes according to the words being spoken.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Drifts through Old Lament corridors as a melting shadow. Personnel hear fragments of accusations and supply their own causes. It reforms when its final fragment is repeated.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -392,5 +392,5 @@ Some sorrows are about silence. Aphasia is about the interrupted — the report 
 
 **Document ID:** SE-O-Iα-720
 **Author:** Archive Lead Marjuk
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

@@ -180,7 +180,7 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Debt Scale rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping The Debt Scale activates its primary resonance: Displays the user's karmic debt as weight and feeling. Grants +10% resistance to Void damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of people judged by corrupt systems and the fear of an impartial measure that might reveal too much.; the bearer begins perceiving echoes of citizens demanded that debt be measured fairly rather than assigned by collector preference. the demand became a scale. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the grief of people judged by corrupt systems and the fear of an impartial measure that might reveal too much; the bearer begins perceiving echoes of citizens demanded that debt be measured fairly rather than assigned by collector preference. the demand became a scale. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within The Debt Scale begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear The Debt Scale too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The measured burden may remain emotionally after the Scale resets. |
 
@@ -293,7 +293,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies The Debt Scale as an Object/Place with Object-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at SECTOR-C-01, used by Collectors. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: A hand placed on one dish. Effect: Displays the user's karmic debt as weight and feeling. Duration: Until the hand is removed. Risk: The measured burden may remain emotionally after the Scale resets. Tool Use Profile — I-Relic Operational Rule:. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: A hand placed on one dish. Effect: Displays the user's karmic debt as weight and feeling. Duration: Until the hand is removed. Risk: The measured burden may remain emotionally after the Scale resets. Tool Use Profile — I-Relic Operational Rule: At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what shifted, what held, and what you could not put into words — the indescribable detail is often the most important; what remained stable, and which detail was most difficult to describe. In The Debt Scale's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's form is its sorrow, not its strategy. What it looks like tells you what it feels, not what it plans. alone.
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Debt Scale (C-IIIβ-015 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Scale formed from the demand for fairness. Held at SECTOR-C-01, used by Collectors. The Scale is always correct by its own definition.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It does not distinguish inherited debt from personal debt unless asked.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -335,7 +335,7 @@ The Scale appears simple: two dishes, a thin beam, no decoration. You touch one 
 
 **With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Void presses hardest, where it recedes, where the Object-Void lets you breathe.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: A hand placed on one dish. Effect: Displays the user's karmic debt as weight and feeling. Duration: Until the hand is removed. Risk: The measured burden may remain emotionally after the Scale resets. Tool Use Profile — I-Relic Operational Rule:. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: A hand placed on one dish. Effect: Displays the user's karmic debt as weight and feeling. Duration: Until the hand is removed. Risk: The measured burden may remain emotionally after the Scale resets. Tool Use Profile — I-Relic Operational Rule: The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
 
 **After departure:** After contact, the body holds what the mind files away. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.
 
@@ -427,5 +427,5 @@ Some sorrows are born from cruelty. The Debt Scale is born from justice — and 
 
 **Document ID:** SE-C-IIIβ-015
 **Author:** Auditor Yuna
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

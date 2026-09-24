@@ -280,7 +280,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Atlas (O-Iα-169 [WP]) is logged as a Place-Weight manifestation expressing Weight (Black). The Pillar formed from support that became an identity. Held at Zone D, Forge District. It supports no visible structure yet never falls.
 
-**Entry 2 — <Excerpt from Field Log, Year 4242>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Rust appears after unshared labor.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -307,7 +307,7 @@ The Pillar stands beneath the Forge, holding nothing. You lean against it and fe
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A rusted pillar embedded in the Forge District, supporting nothing visible. Its surface is warm and rough. Notable Features: It carries the weight of a failed foundation and watches the workers who pass it. Identification Profile:. The surrounding space does not become generic or abstract; it changes in the specific way associated with Weight and the entity's Place-Weight form.
+**At first contact:** The first identifiable detail is Physical Form: A rusted pillar embedded in the Forge District, supporting nothing visible. Its surface is warm and rough. Notable Features: It carries the weight of a failed foundation and watches the workers who pass it. Identification Profile: The surrounding space does not become generic or abstract; it changes in the specific way associated with Weight and the entity's Place-Weight form.
 
 **With continued exposure:** Time in the containment zone moves differently. The Weight pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Weight is teaching you its sorrow.
 
@@ -402,5 +402,5 @@ Some sorrows are about sacrifice. Atlas is about the sacrifice that became the s
 
 **Document ID:** SE-O-Iα-169
 **Author:** Agent Durivel Cho
-**Date:** Year 4242
+**Date:** Year 4238
 **Classification:** Restricted

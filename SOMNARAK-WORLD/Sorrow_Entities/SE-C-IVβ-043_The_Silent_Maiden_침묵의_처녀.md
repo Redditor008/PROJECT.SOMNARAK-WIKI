@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Silent Maiden (C-IVβ-043 [VS]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Maiden formed from a child who died of neglect. Held at SECTOR-D-02, contained with the Three Sisters. No physical attack has ever affected the Maiden.
 
-**Entry 2 — <Excerpt from Field Log, Year 4245>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves silently through the facility, often unseen. Personnel feel the weight of absence and may lose their voice. She becomes more present when someone sits beside her.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -401,5 +401,5 @@ Some sorrows mourn death. The Silent Maiden mourns invisibility — the child wh
 
 **Document ID:** SE-C-IVβ-043
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4245
+**Date:** Year 4238
 **Classification:** Restricted

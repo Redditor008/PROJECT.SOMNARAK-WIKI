@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Survivors' Breath (O-IVδ-895 [VS]) is logged as a Subject-Spirit manifestation expressing Void (Pale White). The Sigh formed from exhaustion that could not become rest. Held at Zone B, Old Lament. It is strongest after breaches and long patrols.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Flows through Old Lament walls and personnel breath. Personnel feel exhaustion, relief, and sudden emptiness. It moves through breath but is not contagious physically.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -388,5 +388,5 @@ Some sorrows are about specific losses. Survivors' Breath is about the condition
 
 **Document ID:** SE-O-IVδ-895
 **Author:** Commander Taeho
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

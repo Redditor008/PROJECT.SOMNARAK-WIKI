@@ -67,7 +67,7 @@ Ishall is controlled, perceptive, and difficult to intimidate. Her humanoid Andr
 | **Primary Function** | Reconnaissance, infiltration, intelligence analysis, counter-intelligence, informant management, mobile command, hostile-field observation, and dangerous external missions |
 | **Operational Presence** | Physical humanoid Android moving through the Raw and between zones; the Veil rejects the repurposed body rather than providing a second appearance |
 | **M.A.W.** | **No named personal M.A.W.** — Android compatibility and earlier whisper exposure are recorded, but **Unanswered** is Before-Time Artifact equipment, not M.A.W. or specialized arms |
-| **Archive Progression** | **None recorded** — no direct participation, Reception, Key Page, or Floor Realization in _The Memory Archive_ operation |
+| **Archive Progression** | **None recorded** — no direct participation, Archival Encounter, Engram Page, or Stratum Realization in _The Memory Archive_ operation |
 | **Current Status** | Active; post-Cycle commander of a Shadow Corps now responsible for finding threats without repeating the Council's practice of erasing inconvenient people |
 | **First Major Appearance** | _Absolvohan_, Day 17 — receipt of Xyan's warning, “The Furnace is burning” |
 | **Protagonist Role** | _Absolvohan_ — major supporting Echo-Core, receiver of the Exile's messages, and witness to the first unprecedented change in their pattern |
@@ -236,7 +236,7 @@ Ishall's command includes:
 - intelligence analysis and source comparison;
 - safe-house maintenance;
 - informant recruitment, protection, and review;
-- counter-intelligence against threats to the R.D.;
+- counter-intelligence against threats to the R.D;
 - response to infiltration of the facility;
 - identity preparation and cover maintenance;
 - mobile communication and debriefing;
@@ -534,7 +534,7 @@ She does not personally open the gates or redesign the Absolvohan. Her contribut
 
 ### No Direct Participation
 
-Ishall is not named as a participant in _The Memory Archive_. She is not a Reception opponent, Floor patron, Key Page, guardian, escort, or figure in Seiyon's final Merge.
+Ishall is not named as a participant in _The Memory Archive_. She is not a Archival Encounter opponent, Floor patron, Engram Page, guardian, escort, or figure in Seiyon's final Merge.
 
 The operation belongs to Seiyon. Her intelligence role does not place her in it.
 
@@ -546,7 +546,7 @@ Ishall's profile therefore records **None** for Archive Progression.
 
 ### Distinction From the Memory Thief
 
-The Memory Archive includes figures and rewards associated with identity theft, memory preservation, and shadow imagery. These thematic similarities do not make Ishall the Memory Thief, the Shadow Key Page, or a concealed Archive resident.
+The Memory Archive includes figures and rewards associated with identity theft, memory preservation, and shadow imagery. These thematic similarities do not make Ishall the Memory Thief, the Shadow Engram Page, or a concealed Archive resident.
 
 Her erased Council identity and current Android embodiment remain part of the R.D. storyline.
 
@@ -1502,7 +1502,7 @@ Her olive coloring and apparent age of approximately thirty-seven are establishe
 - a Critical (δ) combat and area-denial system;
 - Grudge and Void aligned;
 - removable and physically damageable;
-- not M.A.W.;
+- not M.A.W;
 - not M.A.W. Gift;
 - not specialized arms;
 - not artificial limbs;
@@ -1537,7 +1537,7 @@ Unanswered never inherits M.A.W. extraction, Gift, corrosion, or entity-origin r
 
 ### The Memory Archive
 
-No direct participation, Reception, Key Page, Floor Realization, or Merge effect is assigned to Ishall.
+No direct participation, Archival Encounter, Engram Page, Stratum Realization, or Merge effect is assigned to Ishall.
 
 ### Floor and Hand Position
 

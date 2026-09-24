@@ -120,7 +120,7 @@
 | **Form** | A gentle humanoid figure made of soft, glowing Han-crystal. Its hands are warm and faintly luminous. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Heals minor wounds and soothes physical and emotional pain. Absorbs the pain it removes. . |
+| **Distinctive markers** | Heals minor wounds and soothes physical and emotional pain. Absorbs the pain it removes. |
 | **Identification** | The designation is the first filter; your eyes are the second. Confirm both agree before approaching. before Work or contact. |
 
 **Appearance protocol:** Record what changes: size, distance, posture, surface. The first visible shift is the entity crossing from presence to action; and the first visible change during activation. The entity's features are specific. Describe them specifically. 'Unusual' is not a field-report word. such as “strange” or “anomalous.”

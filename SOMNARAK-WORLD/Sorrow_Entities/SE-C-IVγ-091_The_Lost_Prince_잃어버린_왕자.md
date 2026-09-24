@@ -120,7 +120,7 @@
 | **Form** | A translucent child-like figure wearing a small crown made from crystallized tears. He flickers while wandering and asks where the person who left him has gone. |
 | **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |
 | **Material / signature** | Lament elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | Repeats the questions: “Where did they go?. Does not attack unless frightened. Remains hopeful despite centuries of waiting. |
+| **Distinctive markers** | Repeats the questions: “Where did they go?” Does not attack unless frightened. Remains hopeful despite centuries of waiting. |
 | **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
 **Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”
@@ -277,7 +277,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Lost Prince (C-IVγ-091 [LS]) is logged as a Subject-Body manifestation expressing Lament (Deep Blue). The Prince formed from abandonment. Held at SECTOR-D-02, Echo Gardens — contained. The Prince asks the same questions to every visitor.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Influence radiates through nearby personnel as the Prince searches. Personnel feel intense attachment, abandonment, and longing. It has never attacked without first being frightened.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -399,5 +399,5 @@ Some sorrows mourn a loss. The Lost Prince mourns an absence of explanation — 
 
 **Document ID:** SE-C-IVγ-091
 **Author:** Auditor Yuna
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Memorial Flame Mid-Ceremony (C-IVδ-763 [LP]) is logged as a Place-Void manifestation expressing Lament (Deep Blue). The Flame formed from a fire extinguished before its owner could grieve. Held at Zone A, Alpha Tree vault. The vault's temperature changes despite no measurable flame.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Personnel experience emptiness before grief.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -398,5 +398,5 @@ Some sorrows mourn the dead. Memorial Flame Mid-Ceremony mourns the unfinished �
 
 **Document ID:** SE-C-IVδ-763
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Classified

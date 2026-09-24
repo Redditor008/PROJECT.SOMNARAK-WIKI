@@ -180,7 +180,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Door to Nowhere rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Door to Nowhere activates its primary resonance: Displays the path that choice might have opened. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the weight of a threshold that existed but could not be crossed.; the bearer begins perceiving echoes of a resident was trapped during a district lockdown, watching a door rise beyond reach. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the weight of a threshold that existed but could not be crossed; the bearer begins perceiving echoes of a resident was trapped during a district lockdown, watching a door rise beyond reach. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Door to Nowhere begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Door to Nowhere too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may abandon the present for an imagined escape. |
 
@@ -292,7 +292,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 | **Initial exposure** | The observer identifies Door to Nowhere as an Object/Place with Object-Weight manifestation. The first reliable markers are its Grudge signature, the primary visual marker, and its presence at Zone B, Old Lament — ambient. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touching the handle while naming a choice. Effect: Displays the path that choice might have opened. Duration: Until the memory closes. Risk: The worker may abandon the present for an imagined escape. Tool Use Profile — I-Relic Operational Rule: The. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name?, what remained stable, and which detail was most difficult to describe. In Door to Nowhere's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In Door to Nowhere's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Door to Nowhere (O-IIβ-922 [O]) is logged as a Object-Weight manifestation expressing Grudge (Crimson). The Door formed from the anger of being denied an exit. Held at Zone B, Old Lament — ambient. It rises from floors without damaging them.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It appears near old lockdown sites.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -422,5 +422,5 @@ Some sorrows are about being trapped. Door to Nowhere is about the trapping of h
 
 **Document ID:** SE-O-IIβ-922
 **Author:** Commander Taeho
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

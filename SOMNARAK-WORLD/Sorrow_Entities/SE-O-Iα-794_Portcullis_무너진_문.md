@@ -180,7 +180,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Portcullis rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Portcullis activates its primary resonance: Opens a brief emotional passage to the destination's memory. Grants +10% resistance to Lament damage while equipped. |
-| 30 Seconds | The artifact was born from the burden of being trapped at the moment of departure.; the bearer begins perceiving echoes of a tunnel collapse sealed a door while people were still on both sides of it. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the burden of being trapped at the moment of departure; the bearer begins perceiving echoes of a tunnel collapse sealed a door while people were still on both sides of it. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Portcullis begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Portcullis too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user may remain psychologically trapped at the threshold. |
 
@@ -295,7 +295,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 |---|---|
 | **Initial exposure** | The observer identifies Portcullis as an Object/Place with Object-Weight manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone B, deep tunnels. |
 | **Sustained observation** | Continued observation confirms the pattern recorded in containment: Object/Place Work Rule: Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
-| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touching the fallen door while naming a destination. Effect: Opens a brief emotional passage to the destination's memory. Duration: Until the memory fades. Risk: The user may remain psychologically trapped at the threshold. Tool Use Profile — I-Relic Operational Rule:. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
+| **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touching the fallen door while naming a destination. Effect: Opens a brief emotional passage to the destination's memory. Duration: Until the memory fades. Risk: The user may remain psychologically trapped at the threshold. Tool Use Profile — I-Relic Operational Rule: At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | After the encounter: note what altered, what persisted, and what defied your vocabulary. All three are data; what remained stable, and which detail was most difficult to describe. In Portcullis's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. The entity's appearance is its history made visible — not a roadmap of its behavior. alone.
@@ -306,7 +306,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Portcullis (O-Iα-794 [LO]) is logged as a Object-Weight manifestation expressing Lament (Deep Blue). The Door formed from a passage closed before someone could leave. Held at Zone B, deep tunnels. It has never opened physically.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its light appears when someone names a destination.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -337,7 +337,7 @@ Stone covers the door, but the frame remains. You place your hand on the fallen 
 
 **With continued exposure:** Sustained contact reveals the entity's rhythm — the Lament pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
 
-**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touching the fallen door while naming a destination. Effect: Opens a brief emotional passage to the destination's memory. Duration: Until the memory fades. Risk: The user may remain psychologically trapped at the threshold. Tool Use Profile — I-Relic Operational Rule:. The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
+**When the entity activates:** The encounter follows the operational pattern recorded above: Activation Trigger: Touching the fallen door while naming a destination. Effect: Opens a brief emotional passage to the destination's memory. Duration: Until the memory fades. Risk: The user may remain psychologically trapped at the threshold. Tool Use Profile — I-Relic Operational Rule: The sensation is therefore a warning as well as atmosphere; a trained observer should be able to connect the feeling to a visible or environmental sign.
 
 **After departure:** Departure is not relief. The Object-Weight is contained, but the encounter travels out with you — a sound, a temperature, an absence that lingers past the threshold.
 
@@ -426,5 +426,5 @@ Some sorrows mourn a collapse. Portcullis mourns the threshold — the passage s
 
 **Document ID:** SE-O-Iα-794
 **Author:** Commander Taeho
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

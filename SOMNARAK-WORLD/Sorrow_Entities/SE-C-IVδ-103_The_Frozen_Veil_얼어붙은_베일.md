@@ -304,7 +304,7 @@ The cold forms in your chest first. Joy fades, then sorrow, anger, and love. The
 
 
 
-**At first contact:** The Subject-Void does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A humanoid figure made of frozen emotion rather than frozen water. It is beautiful, translucent,....
+**At first contact:** The Subject-Void does not announce itself with sound or movement. It arrives as a sensation — Void settling over the skin like weather, like memory, like the particular weight of a grief you cannot source. A humanoid figure made of frozen emotion rather than frozen water. It is beautiful, translucent...
 
 **With continued exposure:** Time stretches in the containment zone. The Subject-Void becomes more distinct, more itself — the boundaries between its presence and your own reaction start to blur, then sharpen, then blur again. What you feel and what it is become harder to tell apart.
 

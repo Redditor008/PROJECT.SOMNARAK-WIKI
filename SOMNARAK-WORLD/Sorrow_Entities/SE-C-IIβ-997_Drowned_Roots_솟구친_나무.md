@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Drowned Roots (C-IIβ-997 [D]) is logged as a Subject-Phantasmal manifestation expressing Lament (Deep Blue). The Tree formed from the rage of a soldier never honored. Held at Zone C, Mask Market. It appears most clearly near military masks.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears through the Mask Market's structures. Personnel feel pressure to honor duties they did not choose. Its branches do not cast ordinary shadows.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -382,5 +382,5 @@ Some sorrows are about dying. Drowned Roots is about being denied the dignity of
 
 **Document ID:** SE-C-IIβ-997
 **Author:** Archive Lead Marjuk
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

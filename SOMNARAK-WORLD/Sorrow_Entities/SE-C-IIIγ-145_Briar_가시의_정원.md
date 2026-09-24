@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Briar (C-IIIγ-145 [GP]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Garden formed from grief that learned to defend itself as anger. Held at SECTOR-D-02, near Echo Gardens. The Garden watches visitors through flowers that turn toward them.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Thorns respond to anger more than movement.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -331,7 +331,7 @@ The flowers are beautiful until you step between them. Then the thorns find ever
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A garden of crimson crystal flowers whose stems are covered in thorns. Its paths rearrange around visitors. Notable Features: Every flower grows from a grievance; the garden is beautiful only from a safe distance. Identification Profile:. The surrounding space does not become generic or abstract; it changes in the specific way associated with Grudge and the entity's Place-Grudge form.
+**At first contact:** The first identifiable detail is Physical Form: A garden of crimson crystal flowers whose stems are covered in thorns. Its paths rearrange around visitors. Notable Features: Every flower grows from a grievance; the garden is beautiful only from a safe distance. Identification Profile: The surrounding space does not become generic or abstract; it changes in the specific way associated with Grudge and the entity's Place-Grudge form.
 
 **With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Grudge presses hardest, where it recedes, where the Place-Grudge lets you breathe.
 
@@ -427,5 +427,5 @@ Some sorrows stay soft. Briar is what sorrow becomes when softness becomes too c
 
 **Document ID:** SE-C-IIIγ-145
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

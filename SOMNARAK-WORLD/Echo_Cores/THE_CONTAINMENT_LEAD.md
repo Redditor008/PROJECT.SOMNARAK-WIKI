@@ -634,7 +634,7 @@ Dekan does not receive a simple restoration narrative. The place that made him c
 
 ## Role in _The Memory Archive_
 
-Dekan has **no direct recorded appearance** in _The Memory Archive_ operation. He receives no Reception, Key Page, or Floor Realization in the preserved Archive account.
+Dekan has **no direct recorded appearance** in _The Memory Archive_ operation. He receives no Archival Encounter, Engram Page, or Stratum Realization in the preserved Archive account.
 
 ### Chronological Status
 
@@ -644,7 +644,7 @@ No source records an off-page Archive assignment for him.
 
 ### The Forgotten Soldier Connection
 
-**The Forgotten Soldier**, an entity within Dekan's broader containment domain, appears as Reception 3 in Seiyon's Archive journey and yields **The Guardian** Key Page. The thematic connection is clear—duty without purpose closely resembles Dekan's danger after the Maw's release—but the source does not state that Dekan escorts the Soldier, enters the Archive, or participates in the battle.
+**The Forgotten Soldier**, an entity within Dekan's broader containment domain, appears as Reception 3 in Seiyon's Archive journey and yields **The Guardian** Engram Page. The thematic connection is clear—duty without purpose closely resembles Dekan's danger after the Maw's release—but the source does not state that Dekan escorts the Soldier, enters the Archive, or participates in the battle.
 
 Accordingly:
 
@@ -1389,7 +1389,7 @@ Days 350–365 function as late-cycle and anniversary records, with the final en
 - He was seven when the Maw claimed her.
 - His name is described as all he has left of his mother.
 - Dekan is the only known person able to speak directly with the Maw without being consumed.
-- The living scaled left arm is part of his body and Place-Tale manifestation, not a confirmed personal M.A.W.; the separate right arm is android engineering.
+- The living scaled left arm is part of his body and Place-Tale manifestation, not a confirmed personal M.A.W; the separate right arm is android engineering.
 - His first major report contains two separate anomalies: the Orphaned Bell tolls, and the Maw says Majin's name.
 - Dekan is the person who asks what the city should tell the thousand if memorial ritual is not enough.
 - He recognizes the Maw's lullaby before anyone explains its meaning.

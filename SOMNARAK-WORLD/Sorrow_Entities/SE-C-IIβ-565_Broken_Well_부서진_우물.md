@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Well (C-IIβ-565 [D]) is logged as a Subject-Phantasmal manifestation expressing Grudge (Crimson). The Well formed from a mother's grief after failing to protect her child. Held at Zone B, Old Lament. It appears around broken wells and collapsed foundations.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Appears beside wells and waterless openings in Old Lament. Personnel feel the grief of searching without an answer. It communicates through reflected emotion.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -382,5 +382,5 @@ Some sorrows mourn the lost. Broken Well mourns the searching — the endless, u
 
 **Document ID:** SE-C-IIβ-565
 **Author:** Researcher Euncris Park
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

@@ -180,7 +180,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Soaking Shadow rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Soaking Shadow activates its primary resonance: Absorbs and stores hostile emotion. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the exhaustion of becoming a container for other people's anger.; the bearer begins perceiving echoes of an alpha tree vault was used to hide grievances until the accumulated resentment took the shape of a shadow. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the exhaustion of becoming a container for other people's anger; the bearer begins perceiving echoes of an alpha tree vault was used to hide grievances until the accumulated resentment took the shape of a shadow. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Soaking Shadow begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Soaking Shadow too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The shadow may return stored resentment to the user all at once. |
 
@@ -300,7 +300,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Soaking Shadow (N-IIIγ-308 [GO]) is logged as a Object-Grudge manifestation expressing Grudge (Crimson). The Shadow formed from rage repeatedly absorbed by a place. Held at Zone A, Alpha Tree vault. It grows darker near repeated arguments.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It has no identifiable original owner.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -416,5 +416,5 @@ Some sorrows are about feeling anger. Soaking Shadow is about absorbing it — t
 
 **Document ID:** SE-N-IIIγ-308
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Classified

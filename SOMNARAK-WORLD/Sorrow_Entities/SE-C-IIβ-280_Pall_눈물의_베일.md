@@ -180,7 +180,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Pall rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Pall activates its primary resonance: Conceals identity and allows the wearer to feel nearby grief. Grants +10% resistance to Lament damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of mourning privately while appearing composed in public.; the bearer begins perceiving echoes of visitors to the echo gardens collected tears to make a veil of shared mourning; the veil became aware of every wearer. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the grief of mourning privately while appearing composed in public; the bearer begins perceiving echoes of visitors to the echo gardens collected tears to make a veil of shared mourning; the veil became aware of every wearer. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Pall begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Pall too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The wearer cannot stop crying while the Veil is active. |
 
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Pall (C-IIβ-280 [LO]) is logged as a Object-Lament manifestation expressing Lament (Deep Blue). The Veil formed from sorrow people used to hide their tears. Held at Zone D, Echo Gardens. It becomes heavier near unexpressed grief.
 
-**Entry 2 — <Excerpt from Field Log, Year 4248>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its tears contain no individual memories unless directly observed.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -429,5 +429,5 @@ The city built a Veil to keep feeling down. The citizens built a veil to let it 
 
 **Document ID:** SE-C-IIβ-280
 **Author:** Agent Kkotlom Lee
-**Date:** Year 4248
+**Date:** Year 4238
 **Classification:** Restricted

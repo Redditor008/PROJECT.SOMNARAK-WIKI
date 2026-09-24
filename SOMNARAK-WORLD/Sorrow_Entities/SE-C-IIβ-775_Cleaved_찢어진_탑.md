@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Cleaved (C-IIβ-775 [VS]) is logged as a Subject-Grudge manifestation expressing Void (Pale White). The Tower formed from a structure that was never completed. Held at Zone B, Old Lament. It moves along the footprint of the abandoned tower.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through the Old Lament as a walking vertical shadow. Personnel see futures that were never built and feel their loss. Its flames are emotional rather than physical.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -386,5 +386,5 @@ Some sorrows mourn what was destroyed. Cleaved mourns what was never finished �
 
 **Document ID:** SE-C-IIβ-775
 **Author:** Auditor Yuna
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

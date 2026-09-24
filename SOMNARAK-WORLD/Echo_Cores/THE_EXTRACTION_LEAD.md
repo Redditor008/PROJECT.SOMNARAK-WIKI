@@ -373,7 +373,7 @@ The change does not erase the act she remembers. It turns the desire to escape t
 Zyrak joins an institution that also pulls sorrow out of living subjects. The terminology changes:
 
 - debtor becomes source entity;
-- Echo payment becomes M.A.W.;
+- Echo payment becomes M.A.W;
 - Collector's Row becomes the Extraction Hall;
 - legal debt becomes resonance compatibility;
 - collection becomes research, defense, and distribution.
@@ -582,7 +582,7 @@ Her resolution is not absolution. The story does not undo the child, restore eve
 
 ## Role in _The Memory Archive_
 
-Zyrak has **no direct recorded appearance** in _The Memory Archive_ operation. She receives no Reception, Key Page, Floor Realization, or named Archive progression in the account.
+Zyrak has **no direct recorded appearance** in _The Memory Archive_ operation. She receives no Archival Encounter, Engram Page, Stratum Realization, or named Archive progression in the account.
 
 ### Chronological Status
 
@@ -1530,7 +1530,7 @@ Zyrak identifies the Three Birds' Day 170 merger as a Hope Entity. The entity is
 
 ### Memory Archive Nonappearance
 
-No occurrence of Zyrak appears in the Memory Archive record. No Reception, Key Page, Floor Realization, or Archive assignment follows by inference.
+No occurrence of Zyrak appears in the Memory Archive record. No Archival Encounter, Engram Page, Stratum Realization, or Archive assignment follows by inference.
 
 ### Post-Cycle Secret Status
 

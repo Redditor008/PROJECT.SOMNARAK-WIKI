@@ -6,7 +6,7 @@
 |             PROJECT SOMNARAK // CANONICAL TIMELINE ANCHOR              |
 +========================================================================+
 | Document ID          | TIMELINE-CANON-4238                             |
-| Master Era Anchor    | Year 4,238 — The Dawn Initiative Era            |
+| Master Era Anchor    | Year 4,238 - The Dawn Initiative Era            |
 | Current Cycle Anchor | Cycle 1,778 of The Absolvohan                   |
 | Calendar Standard    | Mugenhan Municipal Solar Standard (MMSS)        |
 | Dilation Law         | 1 Operational Cycle = ~1 Calendar Year          |
@@ -20,9 +20,9 @@
 ### The Primary Anchor: Year 4,238
 The canonical baseline of the current era across all contemporary field records, operative dossiers, and administrative dispatches is **Year 4,238** (The Dawn Initiative Era). All relative historical time spans ("N years ago", "N centuries ago") are computed strictly relative to this date.
 
-```
-[ Year 0 ] ─────────────────── [ Year 200 ] ─────────────────── [ Year 4,238 ]
-Settlers Arrive              The Cheongula                   Current Era Anchor
+```text
+[ Year 0 ] ----------------- [ Year 200 ] ----------------- [ Year 4,238 ]
+Settlers Arrive              The Cheongula              Current Era Anchor
 (4,238 Years Ago)            (4,038 Years Ago)               (Cycle 1,778)
 ```
 
@@ -65,3 +65,22 @@ All automated scripts (e.g., `tools/timeline_lint.py`) must enforce the followin
 - For Cycle 1,580: `1,778 - 1,580 = 198` -> Must be described as **"two hundred years ago"** (never "five hundred years ago").
 - For Cycle 1,512: `1,778 - 1,512 = 266` -> Must be described as **"two hundred and sixty-six cycles ago"**.
 - For Founding: Must be described as **"4,238 years ago"** (Settlement Year 0).
+
+---
+
+## 5. FORWARD-PROJECTION & CONTEMPORARY RECORD POLICY (F1 RULE)
+
+To maintain absolute chronological integrity across all 1,778+ files in the repository, the following policies govern document dates, operative field logs, and future projections:
+
+1. **Contemporary Operational Baseline (Year 4,238 Anchor):**
+   - All active containment dossiers (`SOMNARAK-WORLD/Sorrow_Entities/`, `SOMNARAK-WORLD/Unknown_Entities/`), tactical field logs, Ordeal incident reports, and administrative memoranda represent active operations anchored strictly in **Year 4,238** (Cycle 1,778).
+   - Document metadata dates (`**Date:** Year XXXX`) and field observation logs (`**Entry 2 — <Excerpt from Field Log, Year XXXX>**`) for active contemporary containment files must not exceed **Year 4,238**.
+   - Any historical draft artifacts bearing dates from Years 4,239 through 4,255 in operational dossiers are classified as uncalibrated forward drift and must be re-anchored to **Year 4,238** (or contemporary retrospective range).
+
+2. **Authorized Forward-Projections & Macro-Chronological Roadmaps:**
+   The following explicit forward projections are recognized and canonically whitelisted:
+   - **The Dawn Initiative Transmutation Milestone (Year 4,247):** The projected future milestone in `SOMNARAK_DAWN_OF_HOPE.md` where planetary transmutation shifts from 15% to 45%.
+   - **Company 4 — The Wound Walkers Epilogue (Year 4,250+):** The post-Dawn spiritual pilgrimage chronicled in `SOMNARAK_WOUND_WALKERS.md` and referenced in master epilogue indices.
+   - **Deep-Future Theoretical Simulations (Year 4,300+):** Mathematical models, simulated future breach projections, and cycle decay forecasts in `PROJECT_SOMNARAK.md` simulating far-future planetary entropy (e.g., Years 4,301, 4,567, 4,892, 5,234, 5,789).
+   - **Short-Range Operational Forecasts (Year 4,239):** Explicit prospective statements predicting imminent cyclic phenomena within one year (e.g., "The next Han-storm season is predicted for Year 4239" in `SE-O-Vγ-003`).
+

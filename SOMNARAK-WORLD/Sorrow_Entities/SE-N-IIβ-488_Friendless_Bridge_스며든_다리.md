@@ -180,7 +180,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Friendless Bridge rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Friendless Bridge activates its primary resonance: Creates a temporary emotional connection. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of waiting for a relationship to become mutual.; the bearer begins perceiving echoes of a family promised to meet across collector's row but debt and duty kept separating them. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the grief of waiting for a relationship to become mutual; the bearer begins perceiving echoes of a family promised to meet across collector's row but debt and duty kept separating them. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Friendless Bridge begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Friendless Bridge too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers One person may carry the entire relationship. |
 
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Friendless Bridge (N-IIβ-488 [O]) is logged as a Object-Void manifestation expressing Grudge (Crimson). The Bridge formed from a connection that was promised but never built. Held at Zone C, Collector's Row. It has no stable endpoints.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It spreads through ledgers and family records.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -422,5 +422,5 @@ Some sorrows are about separation. Friendless Bridge is about the promised reuni
 
 **Document ID:** SE-N-IIβ-488
 **Author:** Auditor Yuna
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

@@ -290,7 +290,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - The face rests serene with eyes closed, but begins to "strain" before the Gauge peaks; once it warps, no observer has held the sight and stayed wholly themselves.
 
 **Personnel Note:**
-> *"I stood watch for an hour without speaking. It wept the whole time — slow black tears, one after another, into the dish. Not because I asked anything. Just because, I think, it remembers being asked. The awful part isn't that it grants cruelty. The awful part is that it can't stop giving, and giving, for so long, the wrong things, has turned it this colour. It is still, underneath the black, a thing that wanted only to be kind."* — Agent Haneulash Yoon, Zone A, Year 4249
+> *"I stood watch for an hour without speaking. It wept the whole time — slow black tears, one after another, into the dish. Not because I asked anything. Just because, I think, it remembers being asked. The awful part isn't that it grants cruelty. The awful part is that it can't stop giving, and giving, for so long, the wrong things, has turned it this colour. It is still, underneath the black, a thing that wanted only to be kind."* — Agent Haneulash Yoon, Zone A, Year 4238
 
 ### Observation Progression
 
@@ -310,7 +310,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Blackened Angel (C-IVγ-946 [WO]) is logged as an Object-Tale manifestation expressing Weight (Black). The entity is a small female-angel statue, barely 80 cm tall, once golden, now largely black, that grants any wish spoken before it — it cannot refuse — and weeps black tears (once blue) into a stone dish. Contained on-site at the Tarnished Shrine, SECTOR-A-04, Zone A. The Shrine is sealed against petitioners.
 
-**Entry 2 — <Excerpt from Field Log, Year 4249>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Subject worked via Viderehan and Ferrehan only; no wish spoken. The gold-to-black ratio was logged at roughly 1:7 — far past the 1:1 mid-point recorded at intake. The angel wept continuously throughout observation, slow black tears, though nothing was asked of it. When Agent Haneulash Yoon named its grief aloud ("you did not want to grant the cruel ones"), the weeping slowed. Note: the compulsion to grant is absolute and is the hazard — the angel is not malicious, only unable to refuse.
 
 **Entry 3 — <Counseling Log>**
@@ -440,6 +440,6 @@ So if you ever find the little stone alcove where three alleys meet, and the sma
 
 **Author:** Auditor Yuna
 
-**Date:** Year 4249
+**Date:** Year 4238
 
 **Classification:** Restricted

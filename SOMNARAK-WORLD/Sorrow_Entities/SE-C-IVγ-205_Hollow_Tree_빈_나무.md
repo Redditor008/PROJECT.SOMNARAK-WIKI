@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Hollow Tree (C-IVγ-205 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The Tree formed from a life lived without being filled by purpose or love. Held at SECTOR-D-02, Echo Gardens. The Tree is passive but emotionally hazardous.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Roots spread through the Echo Gardens. Personnel feel emotional emptiness and loss of purpose. Its hollow interior produces no echo.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -390,5 +390,5 @@ Some sorrows mourn what was lost. Hollow Tree mourns what never filled it — th
 
 **Document ID:** SE-C-IVγ-205
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

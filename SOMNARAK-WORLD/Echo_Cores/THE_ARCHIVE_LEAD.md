@@ -1454,7 +1454,7 @@ No personal M.A.W. or Corrosion stage is assigned. Memory equipment, Cryogen con
 
 ### The Memory Archive
 
-The Grand Archive, Deep Vault, and Memory Archive are related but distinct. Marjuk is not the First Keeper, the Archivist Key Page, or a hidden participant in Seiyon's operation.
+The Grand Archive, Deep Vault, and Memory Archive are related but distinct. Marjuk is not the First Keeper, the Archivist Engram Page, or a hidden participant in Seiyon's operation.
 
 ### Apparent Age
 

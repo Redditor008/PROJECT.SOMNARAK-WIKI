@@ -267,7 +267,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Rejector (C-IIIγ-063 [VS]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Rejector formed from the son's refusal to accept a debt he did not create. Held at SECTOR-C-01, contained with the Debt Triplets. The Rejector's refusal is not anger; it is emotional vacancy.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks slowly through the facility, empty-eyed and defiant. Personnel feel the weight of denial and refusal. Exposure produces empathy in observers even when the entity resists connection.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -392,5 +392,5 @@ Some sorrows are about what was taken. The Rejector's sorrow is about what was r
 
 **Document ID:** SE-C-IIIγ-063
 **Author:** Auditor Yuna
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

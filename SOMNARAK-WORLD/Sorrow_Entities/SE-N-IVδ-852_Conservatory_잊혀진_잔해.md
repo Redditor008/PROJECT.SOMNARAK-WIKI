@@ -180,7 +180,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Conservatory rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Conservatory activates its primary resonance: Rebuilds one room for a short time. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of loving a place so fiercely that preservation became destruction.; the bearer begins perceiving echoes of a caretaker overloaded a han structure to save a home; the structure collapsed and crystallized. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the grief of loving a place so fiercely that preservation became destruction; the bearer begins perceiving echoes of a caretaker overloaded a han structure to save a home; the structure collapsed and crystallized. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Conservatory begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Conservatory too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The reconstructed room may consume the observer's present identity. |
 
@@ -306,7 +306,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Conservatory (N-IVδ-852 [N]) is logged as a Object-Grudge manifestation expressing Grudge (Crimson). The Ruin formed from a place destroyed by someone trying to preserve it. Held at Zone C, Mask Market. It responds to love more than anger.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 False reconstruction causes violent collapse.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -428,5 +428,5 @@ Some sorrows are about neglect. Conservatory is about devotion — the love so f
 
 **Document ID:** SE-N-IVδ-852
 **Author:** Archive Lead Marjuk
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Classified

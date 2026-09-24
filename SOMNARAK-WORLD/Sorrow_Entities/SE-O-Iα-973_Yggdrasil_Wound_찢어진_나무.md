@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Yggdrasil Wound (O-Iα-973 [VS]) is logged as a Subject-Mind manifestation expressing Void (Pale White). The Tree formed from a mind divided by loss. Held at Zone B, deep tunnels. The Tree is perceived mentally rather than physically.
 
-**Entry 2 — <Excerpt from Field Log, Year 4245>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through consciousness and tunnel memories. Personnel experience divided identity and warmth inside emptiness. Its warmth increases when a memory is denied.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -384,5 +384,5 @@ Some sorrows mourn a loss. Yggdrasil Wound mourns the tearing — the mind split
 
 **Document ID:** SE-O-Iα-973
 **Author:** Researcher Euncris Park
-**Date:** Year 4245
+**Date:** Year 4238
 **Classification:** Restricted

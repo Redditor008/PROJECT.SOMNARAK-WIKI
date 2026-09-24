@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Sorrow Tide (C-Vγ-260 [WP]) is logged as a Place-Weight manifestation expressing Weight (Black). The Tide is the natural rhythm of a city built on sorrow. Held at All zones — periodic phenomenon. The Tide rises at night and falls at dawn.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It affects every known Sorrow Entity.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -396,5 +396,5 @@ Some sorrows are events. Sorrow Tide is a rhythm — the city's grief, suppresse
 
 **Document ID:** SE-C-Vγ-260
 **Author:** Researcher Euncris Park
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

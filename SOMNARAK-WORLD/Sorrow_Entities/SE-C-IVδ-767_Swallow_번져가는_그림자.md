@@ -278,7 +278,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Swallow (C-IVδ-767 [LP]) is logged as a Place-Grudge manifestation expressing Lament (Deep Blue). The Shadow formed from grief that outlived the person who first carried it. Held at Zone A, Alpha Tree. It is strongest near memorials and old records.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It fades when grief is named by its original source.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -396,5 +396,5 @@ Some sorrows are personal. Swallow is a sorrow that lost its owner — or rather
 
 **Document ID:** SE-C-IVδ-767
 **Author:** Researcher Euncris Park
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Classified

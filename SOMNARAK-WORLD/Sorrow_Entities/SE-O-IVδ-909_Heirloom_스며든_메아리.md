@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Heirloom (O-IVδ-909 [GP]) is logged as a Place-Void manifestation expressing Grudge (Crimson). The Echo formed from anger repeated until it no longer belonged to anyone. Held at Zone A, Alpha Tree vault. The chamber expands when the Echo is repeated.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It burns itself as it spreads.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -396,5 +396,5 @@ Some sorrows mourn a wrong. Heirloom mourns the forgetting of the wrong — the 
 
 **Document ID:** SE-O-IVδ-909
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Classified

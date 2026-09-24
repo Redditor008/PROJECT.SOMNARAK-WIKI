@@ -255,7 +255,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - It responds to the word "fly" with a long, still pause, then resumes drifting, as if the word stirred something sealed that could not surface.
 
 **Personnel Note:**
-> *"I watched the little shadow for an hour. It is maybe the saddest thing I have logged. It eats, and eats, and is never full, and it does not know why it is hungry — only that it is. I said 'fly' to it, once, as a joke. It stopped. The whole puddle stopped. For three seconds it was perfectly still, and the eye — the black eye — was not watching the water. It was watching the sky. Then it went back to drifting, and I wrote it up, and I did not say 'fly' to it again. Whatever this fish is, it is not all of what it is. Something in it is sealed, and the seal is holding, and I think we should be very glad that it is."* — Sentinel Harin, Zone B, Year 4249
+> *"I watched the little shadow for an hour. It is maybe the saddest thing I have logged. It eats, and eats, and is never full, and it does not know why it is hungry — only that it is. I said 'fly' to it, once, as a joke. It stopped. The whole puddle stopped. For three seconds it was perfectly still, and the eye — the black eye — was not watching the water. It was watching the sky. Then it went back to drifting, and I wrote it up, and I did not say 'fly' to it again. Whatever this fish is, it is not all of what it is. Something in it is sealed, and the seal is holding, and I think we should be very glad that it is."* — Sentinel Harin, Zone B, Year 4238
 
 ### Observation Progression
 
@@ -275,7 +275,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 YIN Fish (C-IIβ-947 [WS]) is logged as a Subject-Body manifestation expressing Weight (Black). The entity is a 2.2 m featureless white Han-crystal fish that rests as a 20 cm black silhouette in a metre-wide Han puddle; it lunges to full size when prey enters the water and drags it under. Contained on-site at the Pale Puddle, SECTOR-B-09, Zone B. It is always hungry, and feeding deepens the hunger.
 
-**Entry 2 — <Excerpt from Field Log, Year 4249>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Worked via Viderehan and Ferrehan from the bank; no entry. The silhouette was logged at 20 cm; a probe-line triggered a full lunge — the body measured 2.2 m, the puddle's measured depth during the lunge returned null on sonar (no floor). When Sentinel Harin spoke the word "fly" near the bank, the fish went motionless for three seconds and the eye oriented upward. Note: the word appears to resonate with a sealed memory. Do not repeat it casually.
 
 **Entry 3 — <Counseling Log>**
@@ -407,6 +407,6 @@ So the puddle sits in its hollow in the eastern alleys, behind its seal, a metre
 
 **Author:** Agent Iseulfros Kim
 
-**Date:** Year 4249
+**Date:** Year 4238
 
 **Classification:** Restricted

@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Face Beneath Masks (N-IIβ-689 [VS]) is logged as a Subject-Mind manifestation expressing Void (Pale White). The Wall formed from a person's need to hide from everyone, including the self. Held at Zone C, Mask Market. It spreads through shared identity anxiety.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through the consciousness of nearby personnel. Workers lose access to memories behind the mental wall. Direct confrontation makes it thicker.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -387,5 +387,5 @@ Some sorrows are about hiding. Face Beneath Masks is about the hiding that becom
 
 **Document ID:** SE-N-IIβ-689
 **Author:** Researcher Euncris Park
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

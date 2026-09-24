@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Candela (C-IVδ-165 [LS]) is logged as a Subject-Lament manifestation expressing Lament (Deep Blue). The Saint formed from compassion overwhelmed by anticipation. Held at SECTOR-B-02, Zone B. The Saint loses material continuously but never disappears.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through the facility while leaving melting residue. Personnel experience grief for future events as if they already occurred. Its visions are possible futures, not fixed predictions.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -386,5 +386,5 @@ Some sorrows grieve the present. Candela grieves the future — every loss that 
 
 **Document ID:** SE-C-IVδ-165
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Classified

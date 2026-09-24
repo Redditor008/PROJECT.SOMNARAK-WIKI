@@ -133,7 +133,7 @@ The Judge is the most directly lethal Tide Watch Ordeal in the system. It does n
 - The blade does not cut physical matter. It cuts resolve, certainty, and will — which is why it causes Instant Fracture rather than physical death.
 
 **Personnel Note:**
-> *"I stood in front of it. I had to — I was the interrupt team. And when that blank face turned toward me, I felt... everything. Every wrong thing I have ever done. Every time I looked away. Every debt I let stand. Every fist I didn't throw when I should have. It all came up, all at once, and the scale in its hand tipped, and I knew — I KNEW — that I was guilty. And the worst part, the part I still can't shake: it was right. I am guilty. We all are. That's why it's here."* — Sentinel Harin, Echo-Core interrupt team, Year 4245
+> *"I stood in front of it. I had to — I was the interrupt team. And when that blank face turned toward me, I felt... everything. Every wrong thing I have ever done. Every time I looked away. Every debt I let stand. Every fist I didn't throw when I should have. It all came up, all at once, and the scale in its hand tipped, and I knew — I KNEW — that I was guilty. And the worst part, the part I still can't shake: it was right. I am guilty. We all are. That's why it's here."* — Sentinel Harin, Echo-Core interrupt team, Year 4238
 
 ### Observation Progression
 

@@ -8,14 +8,14 @@
 +---------------------------------------------------------------------+
 | PROTAGONIST  : Warden Min-Jae (The Bastion Anchor / Iron Quad)      |
 | AFFILIATION  : The Reverie Directorate — Facility 01 Floor 01       |
-| THEATER : Frontline Quarantine Sector 4 (-150m Below Alpha Tree)    |
+| THEATER      : Frontline Quarantine Sector 4 (-150m Alpha Tree Base)|
 | FRACTURE     : Survivor Guilt & The Nightmare of the Broken Shield  |
 | EQUIPMENT    : The Mourning Maul & Heavy Basalt Bastion Aegis       |
 | COMPOSURE    : Baseline 115 / Crisis Threshold 45 / Max Posture 210 |
 +---------------------------------------------------------------------+
-| ACT I   : The Heavy Morning — Mess Hall & Shield Rigging            |
-| ACT II  : The Fracture Point — Tectonic Breach & Jammed Gate        |
-| ACT III : The Resonant Catharsis — The Unbroken Wall                |
+| ACT I        : The Heavy Morning — Mess Hall & Shield Rigging       |
+| ACT II       : The Fracture Point — Tectonic Breach & Jammed Gate   |
+| ACT III      : The Resonant Catharsis — The Unbroken Wall           |
 +=====================================================================+
 ```
 

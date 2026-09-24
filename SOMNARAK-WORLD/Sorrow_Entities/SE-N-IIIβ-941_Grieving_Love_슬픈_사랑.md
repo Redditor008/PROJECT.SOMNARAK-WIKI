@@ -256,7 +256,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Her gauge falls measurably when a worker simply sits with her in silence; it rises the instant they stand to leave.
 
 **Personnel Note:**
-> *"I sat with her for eleven minutes. I didn't say anything. I just let her lean on me. When I got up, she reached for my hand — and for a second I almost couldn't remember why I was leaving. I think that's the whole danger of her. She doesn't want to hurt you. She just doesn't want to be alone, and she'll keep you any way she can."* — Handler Soojin, Zone D, Year 4249
+> *"I sat with her for eleven minutes. I didn't say anything. I just let her lean on me. When I got up, she reached for my hand — and for a second I almost couldn't remember why I was leaving. I think that's the whole danger of her. She doesn't want to hurt you. She just doesn't want to be alone, and she'll keep you any way she can."* — Handler Soojin, Zone D, Year 4238
 
 ### Observation Progression
 
@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Grieving Love (N-IIIβ-941 [LS]) is logged as a Subject-Body manifestation expressing Lament (Deep Blue). The entity formed when an apothecary, Sooah, fell into a vat of concentrated Han she was distilling as a cure for her dying beloved. Held at the Drowned Apothecary, SECTOR-D-03, Zone D. She drifts, weeps without wetting the floor, and reaches for any offered warmth.
 
-**Entry 2 — <Excerpt from Field Log, Year 4249>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Subject responsive to Flerehan. On entry, Handler Soojin reports the room dropped several degrees and the lamps dimmed. The entity did not approach until Soojin knelt and stayed still; she then pressed her forehead to Soojin's chest and was silent for eleven minutes. The Handler's composure readings dipped but stabilised. No envelopment occurred. Note: the danger is not that she attacks. The danger is that it feels like kindness.
 
 **Entry 3 — <Counseling Log>**
@@ -400,6 +400,6 @@ She did not reach it. She reached, instead, for the next warm thing, and the nex
 
 **Author:** Agent Kkotlom Lee
 
-**Date:** Year 4249
+**Date:** Year 4238
 
 **Classification:** Restricted

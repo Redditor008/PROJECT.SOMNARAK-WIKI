@@ -333,7 +333,7 @@ The walls lean inward before the Well appears. Liquid climbs from a hole in the 
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A well rising from border ground, filled with liquid sorrow that climbs rather than falls. Nearby walls lean toward it. Notable Features: It listens to spoken grief, overflows when ignored, and produces no reflection. Identification Profile:. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Place-Lament form.
+**At first contact:** The first identifiable detail is Physical Form: A well rising from border ground, filled with liquid sorrow that climbs rather than falls. Nearby walls lean toward it. Notable Features: It listens to spoken grief, overflows when ignored, and produces no reflection. Identification Profile: The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Place-Lament form.
 
 **With continued exposure:** Minutes pass and the initial shock metabolises into something more precise: a map of where the Lament presses hardest, where it recedes, where the Place-Lament lets you breathe.
 

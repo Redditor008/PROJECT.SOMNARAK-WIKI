@@ -66,7 +66,7 @@ Xyan is patient, weathered, and difficult to frighten. He reads Han-flows, follo
 | **Primary Function** | Gate observation, external reconnaissance, Han-flow interpretation, Sorrow Entity migration warning, route stabilization, field survival, refugee approach coordination, and Floor 8 command |
 | **Operational Presence** | Physical Cyborg body outside Somnarak during the Cycle and physically returned inside the city after Day 355; no routine remote body or duplicate |
 | **M.A.W.** | **None recorded** — his Cyborg systems, Desolate changes, field equipment, and Subject-Phantasmal state are not personal M.A.W. |
-| **Archive Progression** | **None recorded** — no direct participation, Reception, Key Page, or Floor Realization in _The Memory Archive_ operation |
+| **Archive Progression** | **None recorded** — no direct participation, Archival Encounter, Engram Page, or Stratum Realization in _The Memory Archive_ operation |
 | **Current Status** | Active and home; post-Cycle Echo-Core 9 associated with Floor 8 and the reopening of contact beyond Somnarak |
 | **First Major Appearance** | _Absolvohan_, Day 17 — his repeated warning, “The Furnace is burning,” reaches Central Command through Ishall |
 | **Protagonist Role** | _Absolvohan_ — major supporting Echo-Core whose warnings chart planetary change and whose return turns the Exile's Gate from finality into reception |
@@ -564,7 +564,7 @@ Xyan's _Absolvohan_ arc follows six stages:
 
 ### No Direct Participation
 
-Xyan is not named as a participant in _The Memory Archive_. He is not a Reception opponent, Floor patron, Key Page, guardian, escort, or figure in Seiyon's Merge.
+Xyan is not named as a participant in _The Memory Archive_. He is not a Archival Encounter opponent, Floor patron, Engram Page, guardian, escort, or figure in Seiyon's Merge.
 
 No progression follows from his Echo-Core number, exile history, or memory across Gate recurrence.
 
@@ -1511,7 +1511,7 @@ The Unknown Cities material controls broader city systems while its Ishall attri
 
 ### The Memory Archive
 
-No Reception, Key Page, Floor Realization, Merge effect, or hidden participation is assigned.
+No Archival Encounter, Engram Page, Stratum Realization, Merge effect, or hidden participation is assigned.
 
 ### Floor and Hand Position
 

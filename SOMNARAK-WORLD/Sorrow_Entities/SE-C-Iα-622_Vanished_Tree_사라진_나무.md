@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Vanished Tree (C-Iα-622 [D]) is logged as a Subject-Lament manifestation expressing Grudge (Crimson). The Tree formed from a place erased by the city's expansion. Held at Zone E, Border region. It fades when no one is looking.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Wanders along the Border and old settlement paths. Personnel feel rage at deliberate forgetting. It becomes clearer near old maps.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -379,5 +379,5 @@ Some sorrows mourn what was destroyed. Vanished Tree mourns what was denied — 
 
 **Document ID:** SE-C-Iα-622
 **Author:** Archive Lead Marjuk
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

@@ -180,7 +180,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Unrung rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Unrung activates its primary resonance: Opens one sealed door or reveals one suppressed warning. Grants +10% resistance to Void damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of knowing a warning existed but no one heard it in time.; the bearer begins perceiving echoes of a bell was meant to signal catastrophe, but the signal never sounded. the unspoken warning became a silent object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the grief of knowing a warning existed but no one heard it in time; the bearer begins perceiving echoes of a bell was meant to signal catastrophe, but the signal never sounded. the unspoken warning became a silent object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Unrung begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Unrung too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user carries the weight of every warning they can no longer ignore. |
 
@@ -308,7 +308,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Unrung (C-IIβ-170 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Bell formed from warnings that were ignored. Held at SECTOR-A-01, near the Orphaned Bell. It vibrates near honest listeners but never produces ordinary sound.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It resonates with the Orphaned Bell without becoming audible.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -430,5 +430,5 @@ Some sorrows mourn cruelty. Unrung mourns a failure — the warning that stayed 
 
 **Document ID:** SE-C-IIβ-170
 **Author:** Archive Lead Marjuk
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Classified

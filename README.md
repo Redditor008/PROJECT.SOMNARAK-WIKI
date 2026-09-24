@@ -2,7 +2,7 @@
 
 Welcome to the **Canonical Lore & Reference Source Archive** for **Project Somnarak** (소마나락), maintained on the `NON-WIKI` branch.
 
-This repository serves as the authoritative, durable database and narrative foundation for the Somnarak universe (~3.8 million words). It houses the pure markdown source corpus for all cosmological frameworks, entity dossiers, equipment registries, specialized operational suites, planetary ecological archives, and departmental records.
+This repository serves as the authoritative, durable database and narrative foundation for the Somnarak universe (~3.42 million words). It houses the pure markdown source corpus for all cosmological frameworks, entity dossiers, equipment registries, specialized operational suites, planetary ecological archives, and departmental records.
 
 ---
 
@@ -23,8 +23,8 @@ The repository is structured into distinct, authoritative functional environment
 
 ## Archive Metrics at a Glance
 
-- **Over 1,706 curated canonical markdown files in SOMNARAK-WORLD (1,940+ total files)** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
-- **Over 3.8 million words** of structured, authentic canonical lore
+- **Over 1,708 curated canonical markdown files in SOMNARAK-WORLD (1,967+ total files)** across `SOMNARAK-WORLD`, `PROJECT_MOON_RESEARCH`, and technical standard archives
+- **Over 3.42 million words (3,420,000+ words)** of structured, authentic canonical lore
 - **38 In-Universe Master Codices** (`SOMNARAK-WORLD/Master_Codices/`) across 6 canonical subfolders establishing macro-cosmology, planetary geology, institutional doctrines, and combat physics
 - **5 Planetary Biosphere & Ecological Codices** (`SOMNARAK-WORLD/Mugenhan_Ecology/`), documenting 15 Mundane species, 6 Sorrow Beasts/Plants, and 6 Mortal Sorrow Creatures across all planetary biomes
 - **9 Absolvohan Narrative Volumes** (`SOMNARAK-WORLD/The_Absolvohan/`), chronicling the full Day 0 through Day 365+ journey across the 1,778th Cycle
@@ -34,13 +34,13 @@ The repository is structured into distinct, authoritative functional environment
 - **6 Trans-Desolate Overland Arcs** (`SOMNARAK-WORLD/Jipyeongseondae/`), documenting the Horizon Caravan's planetary crossings
 - **10-Node Spatial Grid Combat Mechanics** (`SOMNARAK-WORLD/Tactical_Combat_Engine/`), defining turn-based spatial combat resolution
 - **Game Battle Operations & Tactical Simulation Suite** (`GAME_BATTLE/`), housing turn-by-turn combat encounters, boss battle mechanics, and standard authoring templates
-- **287 Unique Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), cataloging entities across Coherence Ranks I to V and Potency Grades α to ω
-- **198 Complete M.A.W. Equipment Sets** (`SOMNARAK-WORLD/MAW_Codex_Sets/`, quadripartite Side-Codex, Weapon, Suit, Gift across 1,196 files)
+- **292 Unique Sorrow Entity Dossiers** (`SOMNARAK-WORLD/Sorrow_Entities/`), cataloging entities across Coherence Ranks I to V and Potency Grades α to ω
+- **42 Complete M.A.W. Equipment Sets** (`SOMNARAK-WORLD/MAW_Codex_Sets/`, quadripartite Side-Codex, Weapon, Suit, Gift across 1,165 files)
 - **60 Five-Color Ordeal Files** (`SOMNARAK-WORLD/Ordeals/`), documenting Blue, Black, Pale, Grey, and Purple Ordeals across 4 watches
 - **14 Hope Transformation Records** (`SOMNARAK-WORLD/Hope_Transformations/`), detailing resonant ascensions
 - **9 Echo-Core Dossiers** (`SOMNARAK-WORLD/Echo_Cores/`), covering Facility 01 departmental leadership
-- **15 Unknown Anomaly Records** (`SOMNARAK-WORLD/Unknown_Entities/`), containing deep-abyss occurrences and Regressor chronicles
-- **12 Encyclopedic Research Volumes** (`PROJECT_MOON_RESEARCH/`), comparative structural analysis and reference library
+- **14 Unknown Anomaly Records** (`SOMNARAK-WORLD/Unknown_Entities/`), containing deep-abyss occurrences and Regressor chronicles
+- **16 Encyclopedic Research Volumes** (`PROJECT_MOON_RESEARCH/`), comparative structural analysis and reference library
 - **2 Master Architectural & Cartographic Vector Blueprints** located at the repository root
 
 ---
@@ -118,12 +118,12 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   ├── Mugenhan_Ecology/                   # 5 Planetary Biosphere & Ecological Codices (Mundane, Beasts, MSF)
 │   ├── Tactical_Combat_Engine/             # 10-Node Spatial Grid Combat Mechanics & Battle Integration Suite
 │   ├── Story_Cantos/                       # The Character Story Cantos (Dialogue-Driven Prose Novellas)
-│   ├── Sorrow_Entities/                    # 287 Unique Entity dossiers across Ranks I to V and Grades α to ω
+│   ├── Sorrow_Entities/                    # 292 Unique Entity dossiers across Ranks I to V and Grades α to ω
 │   ├── Echo_Cores/                         # 9 Echo-Core files: Facility 01 departmental leaders
-│   ├── MAW_Codex_Sets/                     # 1,196 files: 198 complete quadripartite sets across 42 folders
+│   ├── MAW_Codex_Sets/                     # 1,165 files: 42 complete quadripartite sets across 42 folders
 │   ├── Ordeals/                            # 60 Ordeal files: Black, Blue, Grey, Pale, Purple (1st–Tide Watches)
 │   ├── Hope_Transformations/               # 14 Hope Transformation files: HT-001 through HT-012, Trinity & Hand
-│   └── Unknown_Entities/                   # 15 Unknown Entity files: UNK-248 to UNK-903 & Regressor chronicles
+│   └── Unknown_Entities/                   # 14 Unknown Entity files: UNK-248 to UNK-903 & Regressor chronicles
 │
 └── REFERENCE_SOMNARAK_WIKI/                # Out-of-World Editorial Standards, Audits & Catalogs
     ├── README.md                           # Overview of the reference standards folder

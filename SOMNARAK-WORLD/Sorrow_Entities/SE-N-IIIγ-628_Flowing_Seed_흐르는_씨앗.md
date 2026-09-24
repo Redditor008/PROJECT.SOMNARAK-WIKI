@@ -294,7 +294,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Flowing Seed (N-IIIγ-628 [D]) is logged as a Place-Void manifestation expressing Weight (Black). The Seed formed from sorrow that could not remain still. Held at Zone A, Alpha Tree vault. It flows through roots rather than water channels.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It responds to the Sorrow Tide.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -411,5 +411,5 @@ Some sorrows settle. Flowing Seed does not — the unacknowledged rage, the dorm
 
 **Document ID:** SE-N-IIIγ-628
 **Author:** Researcher Euncris Park
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

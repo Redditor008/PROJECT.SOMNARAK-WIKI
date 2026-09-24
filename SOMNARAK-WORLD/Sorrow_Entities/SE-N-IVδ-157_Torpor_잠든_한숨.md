@@ -280,7 +280,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Torpor (N-IVδ-157 [WP]) is logged as a Place-Grudge manifestation expressing Weight (Black). The Sigh formed from exhaustion that had no safe place to rest. Held at Zone E, Border region. It is most dangerous when personnel refuse to rest.
 
-**Entry 2 — <Excerpt from Field Log, Year 4250>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The place watches through the silence of sleeping camps.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -307,7 +307,7 @@ The Border becomes silent. Your breath slows, and the ground seems to hold you g
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: A quiet border place where every sound becomes a sleeping breath. The ground is soft and the air presses downward. Notable Features: It stores exhaustion, suppresses movement, and appears peaceful while carrying immense pressure. Identification Profile:. The surrounding space does not become generic or abstract; it changes in the specific way associated with Weight and the entity's Place-Grudge form.
+**At first contact:** The first identifiable detail is Physical Form: A quiet border place where every sound becomes a sleeping breath. The ground is soft and the air presses downward. Notable Features: It stores exhaustion, suppresses movement, and appears peaceful while carrying immense pressure. Identification Profile: The surrounding space does not become generic or abstract; it changes in the specific way associated with Weight and the entity's Place-Grudge form.
 
 **With continued exposure:** Time in the containment zone moves differently. The Weight pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Grudge is teaching you its sorrow.
 
@@ -398,5 +398,5 @@ Some sorrows are about danger. Torpor is about the weariness of watching for dan
 
 **Document ID:** SE-N-IVδ-157
 **Author:** Sentinel Harin
-**Date:** Year 4250
+**Date:** Year 4238
 **Classification:** Classified

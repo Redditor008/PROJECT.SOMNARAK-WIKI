@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Déjà Vu (C-IVδ-125 [VS]) is logged as a Subject-Mind manifestation expressing Void (Pale White). The entity formed from something lost and recovered too late. Held at Zone A, Alpha Tree. The entity sings in consciousness rather than through air.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through consciousness and shared memory. Personnel feel an absent person or place returning inside them. It is most active near old memories and the Alpha Tree.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -388,5 +388,5 @@ Some sorrows mourn what was lost. Déjà Vu mourns the return — the recovered 
 
 **Document ID:** SE-C-IVδ-125
 **Author:** Researcher Euncris Park
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Classified

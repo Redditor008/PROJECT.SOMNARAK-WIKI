@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Spreading Root (O-IVδ-693 [WS]) is logged as a Subject-Phantasmal manifestation expressing Weight (Black). The Root formed from sorrow that was buried rather than resolved. Held at Zone B, Old Lament. The entity's roots spread through existing cracks rather than solid material.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Moves through walls and floors by extending roots. Personnel feel buried sorrow and physical pressure. It grows during the Sorrow Tide.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -384,5 +384,5 @@ Some sorrows are about grief. Spreading Root is about buried grief — the sorro
 
 **Document ID:** SE-O-IVδ-693
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

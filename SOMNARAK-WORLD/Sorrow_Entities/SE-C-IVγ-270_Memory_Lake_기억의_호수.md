@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Memory Lake (C-IVγ-270 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Lake formed from memories released by the city's dead. Held at SECTOR-D-02, beneath the Echo Gardens. The Lake contains memories without known owners.
 
-**Entry 2 — <Excerpt from Field Log, Year 4248>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Its surface reflects emotional history, not physical form.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -396,5 +396,5 @@ Some sorrows mourn the forgotten. Memory Lake mourns the remembered too well —
 
 **Document ID:** SE-C-IVγ-270
 **Author:** Archive Lead Marjuk
-**Date:** Year 4248
+**Date:** Year 4238
 **Classification:** Classified

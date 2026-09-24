@@ -180,7 +180,7 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Screaming Masonry rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Screaming Masonry activates its primary resonance: +3 stat bonus when working the source entity Grants +10% resistance to Weight damage while equipped. |
-| 30 Seconds | The artifact was born from the pressure of promises and duties accumulating until the body could no longer carry them.; the bearer begins perceiving echoes of residents of old lament failed one another through generations, leaving their unfulfilled duties in the walls. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the pressure of promises and duties accumulating until the body could no longer carry them; the bearer begins perceiving echoes of residents of old lament failed one another through generations, leaving their unfulfilled duties in the walls. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Screaming Masonry begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Screaming Masonry too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Misuse increases emotional strain and may destabilize the operator. |
 
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Screaming Masonry (C-IIIγ-891 [D]) is logged as a Object-Lament manifestation expressing Weight (Black). The Scream formed from obligations that were never fulfilled. Held at Zone B, Old Lament — ambient. The Scream is felt more than heard.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It spreads through walls and old contracts.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -425,5 +425,5 @@ Some sorrows are about what was done to you. Screaming Masonry is about what you
 
 **Document ID:** SE-C-IIIγ-891
 **Author:** Researcher Euncris Park
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

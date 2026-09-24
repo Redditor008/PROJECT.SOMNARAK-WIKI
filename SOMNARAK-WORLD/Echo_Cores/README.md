@@ -19,7 +19,7 @@ Each Echo-Core represents a fundamental aspect of human will, endurance, and sor
 | File Name | Name & Designation | Floor / Sector | True Look Effigy | Armament Classification | Signature Equipment / Weapon | Element Signature |
 |---|---|---|---|---|---|---|
 | `THE_DIRECTOR.md` | **Majin (마진)** | Floor 1 (Spires) | Human (Ω-Fusion) | Fused Singular M.A.W. | **Reaper Hungered** (Ω Scythe) | Weight (Black) / Grudge + Lament |
-| `THE_SECRETARY.md` | **Seiyon (세이연)** | Floor 1 (Central Admin) | Android Effigy | Administrative Interface | **The Promise** (Archive Key Pages) | Lament (Deep Blue) + Void (Pale White) |
+| `THE_SECRETARY.md` | **Seiyon (세이연)** | Floor 1 (Central Admin) | Android Effigy | Administrative Interface | **The Promise** (Archive Engram Pages) | Lament (Deep Blue) + Void (Pale White) |
 | `THE_CONTAINMENT_LEAD.md` | **Dekan (데칸)** | Floor 2 (Maw's Keep) | Cyborg (Maw-Merged) | Living Biological Body Graft | **The Scaled Maw-Flesh Arm** | Grudge (Crimson) |
 | `THE_EXTRACTION_LEAD.md` | **Zyrak (지락)** | Floor 3 (Extraction Hall) | Android | Specialized Android Forge Gear | **Mechanical Hands & Extraction Rig** | Grudge (Crimson) + Void (Pale White) |
 | `THE_RESEARCH_LEAD.md` | **Ayshuk (아이숙)** | Floor 4 (Insight Forge) | Android | Specialized Cognitive Ledger | **Subject-Mind Research Ledger** | Void (Pale White) |
@@ -51,7 +51,7 @@ The Directorate enforces a strict distinction across the personal arsenals and s
 - **Mechanical Hands & Forge Rigs (Zyrak — Floor 3):** Integrated sorrow-forged Android hands with micro-calibration servos and resonant palm channels coupled directly to facility M.A.W. extraction vats.
 - **Subject-Mind Research Ledger (Ayshuk — Floor 4):** Slate-grey analytical volume with Han-crystal indexing matrices cataloging entity behavioral thresholds and Observation Points.
 - **Memory Lens & Whispering Index (Marjuk — Floor 6):** Multifaceted crystallized memory monocle coupled to a subterranean network of Han-crystal acoustic threads throughout the Grand Archive.
-- **Memory Archive Interface & The Promise (Seiyon — Floor 1):** Concentric orbiting halo of crystalline Key Pages governing facility logistics and cycle-memory retrieval.
+- **Memory Archive Interface & The Promise (Seiyon — Floor 1):** Concentric orbiting halo of crystalline Engram Pages governing facility logistics and cycle-memory retrieval.
 
 ---
 

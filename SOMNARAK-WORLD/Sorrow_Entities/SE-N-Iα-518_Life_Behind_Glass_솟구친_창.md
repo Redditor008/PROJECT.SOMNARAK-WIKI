@@ -180,7 +180,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Life Behind Glass rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Life Behind Glass activates its primary resonance: Shows a memory of a life beyond the tunnel. Grants +10% resistance to Lament damage while equipped. |
-| 30 Seconds | The artifact was born from the weight of observing life from a distance and never entering it.; the bearer begins perceiving echoes of a tunnel worker watched the city through a small window but never left the depths; the view became an object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the weight of observing life from a distance and never entering it; the bearer begins perceiving echoes of a tunnel worker watched the city through a small window but never left the depths; the view became an object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Life Behind Glass begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Life Behind Glass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The viewer may become unable to return to present work. |
 
@@ -306,7 +306,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Life Behind Glass (N-Iα-518 [D]) is logged as a Object-Weight manifestation expressing Lament (Deep Blue). The Window formed from a view that was never taken. Held at Zone B, deep tunnels. It has no view of physical surroundings.
 
-**Entry 2 — <Excerpt from Field Log, Year 4245>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The rain on its surface is emotional rather than liquid.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -428,5 +428,5 @@ Some sorrows are about being trapped. Life Behind Glass is about the trap of obs
 
 **Document ID:** SE-N-Iα-518
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4245
+**Date:** Year 4238
 **Classification:** Restricted

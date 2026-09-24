@@ -313,7 +313,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Sorrow Fountain (C-IIIγ-088 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Fountain formed from grief that needed a place to flow. Held at SECTOR-D-02, Echo Gardens. The Fountain grows during memorial seasons.
 
-**Entry 2 — <Excerpt from Field Log, Year 4248>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It contains no ordinary water.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -434,5 +434,5 @@ Some grief evaporates. Some grief sinks. The Sorrow Fountain is what happens whe
 
 **Document ID:** SE-C-IIIγ-088
 **Author:** Agent Kkotlom Lee
-**Date:** Year 4248
+**Date:** Year 4238
 **Classification:** Restricted

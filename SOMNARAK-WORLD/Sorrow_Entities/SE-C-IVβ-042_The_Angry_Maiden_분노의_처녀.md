@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Angry Maiden (C-IVβ-042 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Maiden formed from the grief of a child killed by violence. Held at SECTOR-D-02, contained with the Three Sisters. The Maiden has never breached, but containment depends on sister-group stability.
 
-**Entry 2 — <Excerpt from Field Log, Year 4245>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Burns rapidly through facility corridors. Personnel experience overwhelming rage and the fury of injustice. Flerehan dims her flames; Pugnahan causes rapid escalation.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -401,5 +401,5 @@ Some sorrows weep. The Angry Maiden burns — for the child killed not by sickne
 
 **Document ID:** SE-C-IVβ-042
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4245
+**Date:** Year 4238
 **Classification:** Restricted

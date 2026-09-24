@@ -264,7 +264,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Survivor's Span (N-IIβ-993 [WS]) is logged as a Subject-Lament manifestation expressing Weight (Black). The entity formed from a bridge collapse remembered by one survivor. Held at Zone B, deep tunnels. It waits beneath the same tunnel network.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through deep tunnels carrying its collapsed span. Personnel feel responsible for losses they could not prevent. Its tears gather but never flood the tracks.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -383,5 +383,5 @@ Some sorrows mourn the dead. Survivor's Span mourns the living — the survivor 
 
 **Document ID:** SE-N-IIβ-993
 **Author:** Researcher Euncris Park
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

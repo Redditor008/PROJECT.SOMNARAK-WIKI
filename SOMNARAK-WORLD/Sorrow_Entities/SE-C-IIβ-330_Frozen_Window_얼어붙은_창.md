@@ -271,7 +271,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Frozen Window (C-IIβ-330 [WS]) is logged as a Subject-Grudge manifestation expressing Weight (Black). The entity formed from the refusal to accept a final view. Held at Zone D, Mantle Commons. The entity moves continuously; forced stillness causes escalation.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Travels through Mantle Commons and adjacent halls. Personnel feel the weight of an ending they refuse to accept. It glows during the Sorrow Tide.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -391,5 +391,5 @@ Some sorrows accept. Frozen Window does not — it waits, and waits, and will no
 
 **Document ID:** SE-C-IIβ-330
 **Author:** Auditor Yuna
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

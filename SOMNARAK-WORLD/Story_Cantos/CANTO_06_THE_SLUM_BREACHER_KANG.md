@@ -6,16 +6,16 @@
 +=====================================================================+
 |                  MASTER CODEX: NARRATIVE CANTO VI                   |
 +---------------------------------------------------------------------+
-| CANTO VI: THE SLUM BREACHER (THE VOID MAUL)                         |
+| CANTO VI     : The Slum Breacher (The Void Maul Engagement)         |
 | PROTAGONIST  : Chief Breacher Kang (The Ram / Urban Demolition)     |
-| AFFILIATION  : Underworld Cleanup Descend (UCD) — Strike Team 04    |
-| THEATER : Zone B Sub-Sump Canal 08 & Mask Forge (-120m Cistern)     |
+| AFFILIATION  : Underworld Cleanup Descend (UCD) - Strike Team 04    |
+| THEATER      : Zone B Sub-Sump Canal 08 & Mask Forge (-120m Cistern)|
 | FRACTURE     : Undercity Brotherhood vs Municipal Pacification Duty |
 | EQUIPMENT    : MAW-W-054-01 The Void Maul & Hazard Breacher Plate   |
 | COMPOSURE    : Baseline 110 / Crisis Threshold 32 / Max Posture 190 |
-| ACT I : The Sump and the Shield-Plate — Canal 08 Staging Post       |
-| ACT II : The Faceless Foundry — Mask Forge Meltdown & Rust Frays    |
-| ACT III : The Resonant Catharsis — Hollow Impact Brotherhood Clash  |
+| ACT I        : The Sump and the Shield-Plate - Canal 08 Staging Post|
+| ACT II       : The Faceless Foundry - Mask Forge Meltdown & Frays   |
+| ACT III      : The Resonant Catharsis - Hollow Impact Clash         |
 +=====================================================================+
 ```
 
@@ -130,12 +130,11 @@ The mask had no features—only a deep, sucking void of pure black stone that se
 +=====================================================================+
 |                 CONTAINMENT BREACH: HOLLOW PROFILE                  |
 +---------------------------------------------------------------------+
-| ENTITY       : SE-C-IIb-054 (The Empty Mask / Indumentum Relic)     |
-| HOST         : Underboss Jin-Woo / Affiliation: The Rust Frays      |
+| ENTITY       : SE-C-IIβ-054 (The Empty Mask / Indumentum Relic)     |
+| HOST         : Underboss Jin-Woo (Affiliation: The Rust Frays)      |
 | ELEMENT      : Weight (Black) / Category: City Sorrow               |
-| VOID THREAT : Identity Erasure Radius 40m / Progressive Composure   |
-| Drain                                                               |
-| LETHAL THRESH: Complete Identity Dissolution into Indumentum Shell  |
+| VOID THREAT  : Identity Erasure 40m / Progressive Composure Drain   |
+| LETHAL LIMIT : Complete Identity Dissolution into Indumentum Shell  |
 +=====================================================================+
 ```
 

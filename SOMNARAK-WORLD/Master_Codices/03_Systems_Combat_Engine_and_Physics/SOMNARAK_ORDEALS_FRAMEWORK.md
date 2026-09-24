@@ -40,7 +40,7 @@ To maintain absolute clarity across Directorate operations, Facility 01 categori
 | **Containment Cell** | None (spawns freely in corridors/rooms) | Individual designated containment vault | Department floor (Floors 2 through 8) |
 | **Mortality & State** | **Mortal** (permanently dissolved on defeat) | **Immortal** (returns to cell upon suppression) | **Reclaimed** (restored to human consciousness) |
 | **Work Interaction** | None (combat suppression only) | Work Types (Flerehan, Pugnahan, etc.) | None during duel (pure tactical combat) |
-| **M.A.W. Output** | No extraction; residual Han energy only | Full Weapon, Suit, and Gift extraction | No M.A.W.; grants permanent realization buff |
+| **M.A.W. Output** | No extraction; residual Han energy only | Full Weapon, Suit, and Gift extraction | No M.A.W; grants permanent realization buff |
 | **Tactical Objective** | Eliminate wandering swarms before spread | Suppress and re-lock breached entity | Break stance, survive duel, ground soul |
 | **Institutional Reward** | Han-Density gauge reduction; +5–25% energy | Energy harvest; equipment catalog growth | **+10 to All Attributes**; permanent floor buff |
 | **Absolvohan Loop** | Spawns anew under identical density | Resets to containment cell each loop | Cleared Realization persists across cycles |

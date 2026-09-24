@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Gavel (C-IVδ-140 [GS]) is logged as a Subject-Body manifestation expressing Grudge (Crimson). The Judge formed from the sorrow of people subjected to impartial systems that were never truly fair. Held at SECTOR-C-01, Collector's Row. It watches without visible eyes.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through Collector's Row issuing silent judgments. Personnel feel guilty for actions they have not yet taken. Collector records become legible when it is near.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -386,5 +386,5 @@ Some sorrows are about cruelty. Gavel is about indifference — the impartial sy
 
 **Document ID:** SE-C-IVδ-140
 **Author:** Auditor Yuna
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Classified

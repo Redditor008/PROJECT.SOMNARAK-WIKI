@@ -276,7 +276,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Memory Rain (C-IIβ-250 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Rain formed from memories too numerous for the city to hold. Held at Zone D, Echo Gardens — periodic. Rain intensity increases during the Sorrow Tide.
 
-**Entry 2 — <Excerpt from Field Log, Year 4248>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Drops become crystals after landing.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -303,7 +303,7 @@ A drop lands on your hand and becomes a child's laughter. Another becomes a sold
 
 
 
-**At first contact:** The first identifiable detail is Physical Form: Rain made from crystallized memory fragments. Each drop contains a face, voice, place, or feeling. Notable Features: It falls from clear skies, dissolves into vision on contact, and covers the Gardens in tiny memories. Identification Profile:. The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Place-Lament form.
+**At first contact:** The first identifiable detail is Physical Form: Rain made from crystallized memory fragments. Each drop contains a face, voice, place, or feeling. Notable Features: It falls from clear skies, dissolves into vision on contact, and covers the Gardens in tiny memories. Identification Profile: The surrounding space does not become generic or abstract; it changes in the specific way associated with Lament and the entity's Place-Lament form.
 
 **With continued exposure:** The longer you stay, the more specific the sorrow becomes. This is not generic Lament; it is this entity's Lament — shaped by its origin, its wound, its particular grief.
 
@@ -401,5 +401,5 @@ Some sorrows are held inside. Memory Rain is what the city looks like when it ca
 
 **Document ID:** SE-C-IIβ-250
 **Author:** Agent Kkotlom Lee
-**Date:** Year 4248
+**Date:** Year 4238
 **Classification:** Open

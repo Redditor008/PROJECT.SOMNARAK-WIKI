@@ -6,13 +6,12 @@
 +=====================================================================+
 |       TACTICAL ENGAGEMENT RECORD: BATTLE-002-SMOTHERING-MOTHER      |
 +---------------------------------------------------------------------+
-| OPERATIONAL AREA : Facility 01 Floor 2 (The Maw's Keep, Vault B-03) |
+| OPERATIONAL AREA  : Facility 01 Floor 2 (The Maw's Keep, Vault B-03) |
 | SUBTERRANEAN DEPTH: -2,200 Meters (Direct Maw Perimeter Ingress)    |
-| THREAT RATING    : Rank IV Entity (Grade Delta Potency)             |
-| SUPPRESSION SQUAD: Floor 2 Maw Keepers Cadre (Reverie Directorate)  |
-| SQUAD ROSTER : Lead Dekan, Warden Choi, Specialist Han, Scribe Bae  |
-| PRIMARY OBJECTIVE: Modular Part Rupture, Meltdown, & Vault          |
-| Re-Sealing                                                          |
+| THREAT RATING     : Rank IV Entity (Grade Delta Potency)             |
+| SUPPRESSION SQUAD : Floor 2 Maw Keepers Cadre (Reverie Directorate)  |
+| SQUAD ROSTER      : Lead Dekan, Warden Choi, Specialist Han, Bae     |
+| PRIMARY OBJECTIVE : Modular Part Rupture, Meltdown & Vault Re-Seal  |
 +=====================================================================+
 ```
 
@@ -268,13 +267,12 @@
 +=====================================================================+
 |          AFTER-ACTION TACTICAL REPORT & EXTRACTION MANIFEST         |
 +---------------------------------------------------------------------+
-| ENGAGEMENT RESULT: Decisive Containment Victory (No Perimeter       |
-| Breach)                                                             |
-| FACILITY DAMAGE  : 1 Cryo-Bulkhead Fractured (Vault B-03 Corridor)  |
-| HARVEST RECOVERED: 380 Liters Liquid Han • 45 kg High-Purity Dust   |
-| M.A.W. EXTRACTION: 1x 'The Embrace' Gift Core • 1x Fang Material    |
-| QUARANTINE ORDER : Squad cleared for 24-hr Composure Pod recovery   |
-| COMMENDATION     : Lead Dekan cited for zero-casualty lockdown      |
+| ENGAGEMENT RESULT  : Decisive Victory (Zero Perimeter Breach)       |
+| FACILITY DAMAGE    : 1 Cryo-Bulkhead Fractured (Vault B-03 Corridor)|
+| HARVEST RECOVERED  : 380 Liters Liquid Han • 45 kg High-Purity Dust |
+| M.A.W. EXTRACTION  : 1x 'The Embrace' Gift Core • 1x Fang Material  |
+| QUARANTINE ORDER   : Squad cleared for 24-hr Composure Pod recovery |
+| COMMENDATION       : Lead Dekan cited for zero-casualty lockdown    |
 +=====================================================================+
 ```
 

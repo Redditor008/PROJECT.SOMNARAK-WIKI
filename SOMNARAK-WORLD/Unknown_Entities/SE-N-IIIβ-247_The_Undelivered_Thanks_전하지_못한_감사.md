@@ -214,7 +214,7 @@ The extracted equipment reflects the same unresolved pressure as The Undelivered
 
 **R.D. Observation Level:** 2 — Basic
 
-- First observed Year 4241 on the Lantern's dock, bowing to a ship that had already departed.
+- First observed Year 4238 on the Lantern's dock, bowing to a ship that had already departed.
 - The number of stones correlates with recent Hope Bearer casualties in the region.
 - It cannot enter the Echo Gardens' memorial rows — it waits at the gate.
 - A worker who delivered a carried thanks reported the stone dissolving like warm sugar in tea.
@@ -228,7 +228,7 @@ The extracted equipment reflects the same unresolved pressure as The Undelivered
 | **Initial exposure** | The observer identifies The Undelivered Thanks as a Subject with Subject-Phantasmal manifestation. The first reliable markers are its Weight signature, the primary visual marker, and its presence at Old Dawn Initiative routes; most seen near the Lantern's dock and the Echo Gardens, Zone D. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity's recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name?, what remained stable, and which detail was most difficult to describe. In The Undelivered Thanks's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In The Undelivered Thanks's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -238,7 +238,7 @@ The extracted equipment reflects the same unresolved pressure as The Undelivered
 **Entry 1 — Containment Description**
 The subject is a translucent humanoid, slight, perpetually mid-bow, garbed in the faded coat of a Zone D commoner. At the hip it carries a satchel of warm-gold stones — each stone, on inspection, a single crystallized expression of gratitude. The figure itself is cold; only the stones are warm. It does not speak. It bows, and waits, and moves on.
 
-**Entry 2 — <Excerpt from Field Log, Year 4241>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 First contact occurred on the Lantern's dock at dawn. The subject stood at the mooring where the Initiative vessel had departed the previous night, bowing at intervals to an empty berth. It did not respond to address. When Agent Grey approached, one stone transferred from the satchel to his sternum without contact. The agent reported a sudden, specific recollection of a person he had failed to thank. The stone remained for nine days.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -305,12 +305,12 @@ It had been carried too long. Refined, by nine years of having no recipient, int
 The Undelivered Thanks walks the old Dawn routes now, a translucent figure bowed under a satchel of glowing thank-you stones that grows heavier with every citizen who cannot find the one who saved them. It is not hostile. It is not even sad, exactly. It is grateful — and the gratitude, having no door left to knock on, has become the heaviest thing in Somnarak that no one can set down.
 ## 증언 (Testimonium) — The Testimony
 
-> *"I tried to thank her for nine years. When I finally found her, she smiled at me like a stranger. The thanks I had carried became a stone in my hand."* — Iseulia (이슬리아), flower-seller, Zone D, Year 4247
-> *"It is the first entity I have studied that is made of something good. Gratitude is good. That is what makes the entity so heavy."* — Researcher Euncris Park (은크리스 박), R.D., Year 4247
-> *"Do not fight it. Sit with it. Let it hand you a stone. Then go find the person you owe and say the words while they can still hear you."* — Commander Taeho (태호), Dawn Initiative, Year 4247
-> *"The Collectors came to measure it once. They left confused. There is a debt here, but no creditor, no contract, no ledger."* — Auditor Yuna (유나), Year 4247
-> *"Where it passes, people remember who helped them. For a week the district is full of citizens hunting down old benefactors. Is that containment? Or is that the point?"* — Chronicler Minseo (민서), Year 4247
-> *"We considered whether the Hand of Hope could dissolve it. It cannot. This entity is the proof that even hope leaves something behind."* — Director Majin (마진), Year 4247
+> *"I tried to thank her for nine years. When I finally found her, she smiled at me like a stranger. The thanks I had carried became a stone in my hand."* — Iseulia (이슬리아), flower-seller, Zone D, Year 4238
+> *"It is the first entity I have studied that is made of something good. Gratitude is good. That is what makes the entity so heavy."* — Researcher Euncris Park (은크리스 박), R.D., Year 4238
+> *"Do not fight it. Sit with it. Let it hand you a stone. Then go find the person you owe and say the words while they can still hear you."* — Commander Taeho (태호), Dawn Initiative, Year 4238
+> *"The Collectors came to measure it once. They left confused. There is a debt here, but no creditor, no contract, no ledger."* — Auditor Yuna (유나), Year 4238
+> *"Where it passes, people remember who helped them. For a week the district is full of citizens hunting down old benefactors. Is that containment? Or is that the point?"* — Chronicler Minseo (민서), Year 4238
+> *"We considered whether the Hand of Hope could dissolve it. It cannot. This entity is the proof that even hope leaves something behind."* — Director Majin (마진), Year 4238
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `N-IIIβ-247 [WS]` · Inner origin · Fragment (III) coherence · Moderate (β) potency · Weight (Black) · Subject-Phantasmal manifestation
@@ -325,7 +325,7 @@ The Undelivered Thanks walks the old Dawn routes now, a translucent figure bowed
 - After a Dawn mission with Bearer casualties, deploy Ferrehan teams along the entity's route to distribute the weight.
 - Extraction forbidden by Director's standing order.
 **Observation Notes:**
-- First observed Year 4241, bowing on the Lantern's dock to a departed ship.
+- First observed Year 4238, bowing on the Lantern's dock to a departed ship.
 - Stone count correlates with regional Hope Bearer casualties.
 - Cannot enter the Echo Gardens memorial rows; waits at the gate.
 - A delivered thank-you dissolves its stone like warm sugar in tea.
@@ -361,7 +361,7 @@ The Undelivered Thanks walks the old Dawn routes now, a translucent figure bowed
 
 **Author:** Researcher Euncris Park (은크리스 박), with field testimony compiled by Agent Haneulash Yoon (하늘애쉬 윤)
 
-**Date:** Year 4247
+**Date:** Year 4238
 
 **Classification:** Classified
 

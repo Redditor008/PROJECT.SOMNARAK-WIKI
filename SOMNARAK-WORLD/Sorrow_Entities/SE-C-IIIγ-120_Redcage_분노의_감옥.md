@@ -180,7 +180,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Redcage rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Redcage activates its primary resonance: Releases a wave of anger and memories of unjust imprisonment. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the fury of being trapped by a system that refuses to admit error.; the bearer begins perceiving echoes of citizens were jailed for debts and crimes they did not commit; their rage became the bars of an empty cage. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the fury of being trapped by a system that refuses to admit error; the bearer begins perceiving echoes of citizens were jailed for debts and crimes they did not commit; their rage became the bars of an empty cage. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Redcage begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Redcage too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user may become convinced they are imprisoned even in open space. |
 
@@ -306,7 +306,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Redcage (C-IIIγ-120 [GO]) is logged as a Object-Grudge manifestation expressing Grudge (Crimson). The Cage formed from people imprisoned without cause. Held at SECTOR-B-01, Zone B. The Cage is empty but never silent.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 New injustice adds a bar.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -427,5 +427,5 @@ Some sorrows mourn freedom lost. Redcage mourns the particular freedom of being 
 
 **Document ID:** SE-C-IIIγ-120
 **Author:** Auditor Yuna
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Classified

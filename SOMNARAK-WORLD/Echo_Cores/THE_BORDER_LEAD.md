@@ -65,7 +65,7 @@ Mellda leads through direct reports and measured responses. She tracks Han-storm
 | **Subjective Age** | Unquantified; she has only partial knowledge of the Cycle, while the entity senses differences in the Desolate from one iteration to another |
 | **Primary Function** | Border defense, Desolate reconnaissance, entity tracking, threat assessment, Han-storm warning, refugee contact, and Floor 5 command |
 | **Operational Presence** | Physical frontline presence in the Raw; the Veil cannot suppress an Outside Sorrow Entity bonded this closely |
-| **M.A.W.** | **No personal M.A.W. recorded** — **Threshold Vow** is a manufactured left-arm Cyborg weapons system rated equivalent in output to a Critical (δ) M.A.W.; it is not extracted or self-manifested M.A.W. |
+| **M.A.W.** | **No personal M.A.W. recorded** — **Threshold Vow** is a manufactured left-arm Cyborg weapons system rated equivalent in output to a Critical (δ) M.A.W; it is not extracted or self-manifested M.A.W. |
 | **Archive Progression** | **None recorded** — no direct role in _The Memory Archive_ operation |
 | **Current Status** | Active; post-Cycle Border Lead responsible for a border that now protects, receives, and communicates as well as repels |
 | **First Major Appearance** | _Absolvohan_, Day 7 — report on the approaching Han-storm and the passenger's unrest |
@@ -559,7 +559,7 @@ _Absolvohan_ does not show:
 - the Council clearing her name;
 - the Wardens trusting her;
 - a final answer to whether she is wall or breach;
-- a named self-manifested M.A.W.;
+- a named self-manifested M.A.W;
 - complete knowledge of the Cycle.
 
 The story changes the border doctrine without completing her private arc.
@@ -583,7 +583,7 @@ She begins as a defender reporting what approaches. She ends as an interpreter o
 
 ## Role in _The Memory Archive_
 
-Mellda has **no direct recorded role** in _The Memory Archive_. She does not appear as a Reception opponent, Key Page holder, Patron, or identified participant in that operation.
+Mellda has **no direct recorded role** in _The Memory Archive_. She does not appear as a Archival Encounter opponent, Engram Page holder, Patron, or identified participant in that operation.
 
 ### Relevant but Non-Participatory Connections
 
@@ -671,7 +671,7 @@ Established limits are equally important:
 
 - only the designated left arm transforms;
 - the right arm does not produce a second blade;
-- the system remains Cyborg equipment rather than personal M.A.W.;
+- the system remains Cyborg equipment rather than personal M.A.W;
 - the visual smoke does not establish poison, intangibility, teleportation, or autonomous movement;
 - the 15-second recharge prevents repeated wave release without delay;
 - no undocumented victory is assigned.
@@ -881,11 +881,11 @@ Mellda's trust is informed by twenty years of survival, but it is still trust.
 
 Threshold Vow establishes one named personal weapons system, a one-meter Sacred Blade configuration, a piercing line attack, and a 15-second-recharge Weight wave with Critical (δ)-equivalent output. It does not establish:
 
-- a defined self-manifested M.A.W.;
+- a defined self-manifested M.A.W;
 - unrestricted phase intangibility;
 - teleportation or portal creation;
 - immunity to overwhelming force;
-- every property carried by an extracted Critical M.A.W.;
+- every property carried by an extracted Critical M.A.W;
 - unlimited wave use without recharge;
 - victories not described in the record.
 

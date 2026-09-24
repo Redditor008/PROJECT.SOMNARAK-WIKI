@@ -62,7 +62,7 @@ This document maps every significant relationship between factions — the allia
 | **Keepers** | Tension | Architects destroy old structures; Keepers preserve them | The Architects have accidentally destroyed Archive records during construction |
 | **Wardens** | Tension | Architect construction zones create security gaps | The Wardens have blamed Architects for security breaches that were actually Fray operations |
 | **Weavers** | Ignored | Architects focus on the physical; Weavers focus on the Dream | The Architects do not understand the Weavers — and fear what they don't understand |
-| **R.D.** | Cooperation | Architects build for the R.D.; R.D. provides research | The Architects have built secret passages in the R.D. facility — for emergencies |
+| **R.D.** | Cooperation | Architects build for the R.D; R.D. provides research | The Architects have built secret passages in the R.D. facility — for emergencies |
 | **Menders** | Alliance | Menders are the Architects' field agents | The Menders report to both the Architects and the R.D. — a conflict of loyalty |
 | **Frays** | Conflict | Frays sabotage construction for profit | The Architects have paid Frays to protect their construction sites — a secret arrangement |
 | **Citizens** | Respected | Citizens rely on Architects for shelter and infrastructure | The Architects are the only faction that citizens trust without reservation |
@@ -150,7 +150,7 @@ This document maps every significant relationship between factions — the allia
 | **Wardens** | Supportive | Wardens provide security for R.D. | The R.D. has saved Wardens during entity breaches — more times than the Wardens admit |
 | **Weavers** | Cooperation | Weavers provide Dream support | The R.D. has Dream data that could change the city — if released |
 | **Menders** | Alliance | Menders are R.D. field contractors | The Menders report to both the R.D. and the Architects — a conflict of loyalty |
-| **Frays** | Complex | Some Frays work with R.D.; others oppose it | The R.D. has used Fray informants to track entity trafficking |
+| **Frays** | Complex | Some Frays work with R.D; others oppose it | The R.D. has used Fray informants to track entity trafficking |
 | **Citizens** | Distant | Citizens don't understand the R.D. | The R.D. has saved citizens during breaches — anonymously, without credit |
 
 ---
@@ -205,7 +205,7 @@ This document maps every significant relationship between factions — the allia
 | **Collectors** | Hostile | Debt Brokers undercut Collector authority | The Debt Brokers have more financial data than the Collectors |
 | **Wardens** | Hostile | Wardens are the primary threat to Frays | Some Wardens have Fray sympathies |
 | **Giltong** | Hostile | Frays frequently violate Taboos | The Frays have evaded the Giltong for decades |
-| **R.D.** | Complex | Some Frays work with R.D.; others oppose it | The R.D. has used Fray informants |
+| **R.D.** | Complex | Some Frays work with R.D; others oppose it | The R.D. has used Fray informants |
 | **Citizens** | Complex | Citizens sometimes work with Frays when the system fails them | The Frays provide services that the system cannot — for a price |
 
 ---

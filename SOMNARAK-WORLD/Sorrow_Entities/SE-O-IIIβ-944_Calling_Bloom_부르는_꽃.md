@@ -253,7 +253,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 - Her gauge falls when she is called "Nari"; it rises sharply when anyone answers the bloom's voice or reaches for the flower.
 
 **Personnel Note:**
-> *"The wood obeys its own old rules. The voice lures. The path leads always deeper. The flower waits at the heart of it, and it has an eye. We know these rules — every cautionary rhyme teaches them. The awful part isn't that they're strange. The awful part is that here, beyond the watchtower, they are simply how the wood works, and the girl at the heart of it is as real as the voice that took her."* — Agent Hanul Grey, Zone D, Year 4249
+> *"The wood obeys its own old rules. The voice lures. The path leads always deeper. The flower waits at the heart of it, and it has an eye. We know these rules — every cautionary rhyme teaches them. The awful part isn't that they're strange. The awful part is that here, beyond the watchtower, they are simply how the wood works, and the girl at the heart of it is as real as the voice that took her."* — Agent Hanul Grey, Zone D, Year 4238
 
 ### Observation Progression
 
@@ -273,7 +273,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Calling Bloom (O-IIIβ-944 [LS]) is logged as a Subject-Tale manifestation expressing Lament (Deep Blue). The entity formed when a wilderness child, Nari, touched a watching flower at the heart of the Muttering Wood while searching for her brother. Held/managed in the Muttering Wood, beyond SECTOR-E-02. She wanders, calls stolen names, and bears a single watching bloom upon her crown.
 
-**Entry 2 — <Excerpt from Field Log, Year 4249>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Subject responsive to Flerehan. On entry, the patrol reports total wood-silence followed by a perfect imitation of Agent Hanul Grey's late mother. Agent Hanul Grey was restrained before reaching the source. The child was located at the clearing's edge — wheat-sheaf height, grey dress, a blue bloom with one eye. When addressed as "Nari," the bloom's eye half-closed and the voice stopped. Note: the danger is not the child. The danger is that the voice is always exactly right.
 
 **Entry 3 — <Counseling Log>**
@@ -414,6 +414,6 @@ So mind the mushrooms, child. Mind the edge. And if you hear your brother callin
 
 **Author:** Chronicler Minseo
 
-**Date:** Year 4249
+**Date:** Year 4238
 
 **Classification:** Restricted

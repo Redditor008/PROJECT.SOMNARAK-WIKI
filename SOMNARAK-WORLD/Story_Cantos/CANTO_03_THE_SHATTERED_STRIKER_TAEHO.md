@@ -14,7 +14,7 @@
 | EQUIPMENT    : MAW-W-019-01 The Ancestral Gravitational Signet      |
 | COMPOSURE    : Baseline 110 / Crisis Threshold 35 / Max Posture 195 |
 | ACT I        : The Slag and the Sledge — Armory & Cold Chisel       |
-| ACT II : The Foreclosure Strike — Deep Culvert Gravitational Surge  |
+| ACT II       : The Foreclosure Strike — Gravitational Surge         |
 | ACT III      : The Resonant Catharsis — Generational Sunder Clash   |
 +=====================================================================+
 ```

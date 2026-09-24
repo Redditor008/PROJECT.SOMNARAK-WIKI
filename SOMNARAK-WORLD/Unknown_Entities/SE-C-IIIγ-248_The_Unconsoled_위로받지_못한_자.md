@@ -237,7 +237,7 @@ The extracted equipment reflects the same unresolved pressure as The Unconsoled.
 **Entry 1 — Containment Description**
 The subject is a translucent elder, sexless with age, face permanently wet, clad in the rough Han-woven robes of the earliest settlers. Its weeping produces no sound; witnesses report hearing their own oldest grief spoken in a voice they cannot place. Tears evaporate before reaching the ground. The figure is slow, seated more often than standing, and drifts toward the Alpha Tree's roots.
 
-**Entry 2 — <Observation Note, Year 4240>**
+**Entry 2 — <Observation Note, Year 4238>**
 Anomalous refractive property confirmed: hope-light — from any Hope entity, Bearer, or M.A.W. — passes through the subject visibly and unchanged. It is the only recorded substance in Somnarak that the Hand of Hope's field cannot warm. The subject appears distressed by this contrast, weeping more intensely in the presence of Hope-signatures. The light does not harm it. It simply does not reach it.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -246,7 +246,7 @@ Anomalous refractive property confirmed: hope-light — from any Hope entity, Be
 **Entry 4 — <Foundation Stability Warning, Engineering Division>**
 Under no circumstances is the subject to be dispersed, extracted, or otherwise lightened. Readings confirm the grief is structurally load-bearing — it is contiguous with the city's foundation. Simulated dispersal produces a 12% localized foundation-stability drop within the Old Lament. The entity does not weep because it is weak. It weeps because it is the wall.
 
-**Entry 5 — <Archive Note, Year 4240>**
+**Entry 5 — <Archive Note, Year 4238>**
 Reclassification proposed and denied: the grief cannot be filed under any existing Sorrow category, as it predates the categorization system. Diagnosis, provisionally accepted: load-bearing Lament. The Hand did not fail here. It reached the bedrock. Some sorrow is not meant to be lifted — only stood upon, and, at last, witnessed. — Marjuk
 
 ## 최종 관찰 (Final Observation)
@@ -308,11 +308,11 @@ For the first time in six thousand years, the grief was alone. Every other sorro
 Changwook understood, watching the translucent figure rise from the foundation and begin to weep, that the Hand had not failed. It had simply reached the bedrock. Some grief is not meant to be lifted. It is meant to be stood upon. The city weeps through the Unconsoled so that the city does not have to weep alone — and so that, when everything else has been lightened, there is still one place where the oldest sorrow is allowed to simply exist, unmoved, untransformed, and finally, at last, witnessed.
 ## 증언 (Testimonium) — The Testimony
 
-> *"Six thousand years of grief, and the Hand could not move it. I used to think that was a failure. Now I think it was a diagnosis."* — Archive Lead Marjuk (마주크), Year 4240
+> *"Six thousand years of grief, and the Hand could not move it. I used to think that was a failure. Now I think it was a diagnosis."* — Archive Lead Marjuk (마주크), Year 4238
 > *"The gold light went right through her. Through her like she wasn't there. She wept harder after — because for the first time she could see how alone she was."* — Changwook Hanaris (창욱 하나리스), founding family elder
 > *"We logged a 40% Composure drop in anyone within ten meters who did not share their own grief. The procedure is not suppression. It is a grief-circle."* — Researcher Euncris Park (은크리스 박), R.D.
 > *"The Consolihan is the worst day. The whole city grieves together, and she grieves loudest. We assign four extra Keepers. We weep with her until dawn."* — Chronicler Minseo (민서)
-> *"It is not that hope was not strong enough. It is that this grief is holding the building up. Lighten it and we all fall."* — Director Majin (마진), Year 4240
+> *"It is not that hope was not strong enough. It is that this grief is holding the building up. Lighten it and we all fall."* — Director Majin (마진), Year 4238
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `C-IIIγ-248 [LS]` · City origin · Fragment (III) coherence · Major (γ) potency · Lament (Deep Blue) · Subject-Phantasmal manifestation
@@ -361,7 +361,7 @@ Changwook understood, watching the translucent figure rise from the foundation a
 
 **Author:** Archive Lead Marjuk (마주크)
 
-**Date:** Year 4240
+**Date:** Year 4238
 
 **Classification:** Classified
 

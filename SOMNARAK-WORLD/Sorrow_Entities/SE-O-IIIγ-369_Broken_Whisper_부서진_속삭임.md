@@ -180,7 +180,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Broken Whisper rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Broken Whisper activates its primary resonance: Returns one broken whisper as a complete emotional message. Grants +10% resistance to Lament damage while equipped. |
-| 30 Seconds | The artifact was born from the burden of unfinished pleas and voices broken by fear.; the bearer begins perceiving echoes of messages from the deep tunnels were silenced by collapse and han pressure. their fragments crystallized into the object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the burden of unfinished pleas and voices broken by fear; the bearer begins perceiving echoes of messages from the deep tunnels were silenced by collapse and han pressure. their fragments crystallized into the object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Broken Whisper begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Broken Whisper too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The listener may mistake another person's final words for their own memory. |
 
@@ -302,7 +302,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Broken Whisper (O-IIIγ-369 [LO]) is logged as a Object-Weight manifestation expressing Lament (Deep Blue). The object formed from words interrupted before they could be heard. Held at Zone B, deep tunnels. The object floats along underground sorrow currents.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 No complete message has been recovered without human interpretation.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -422,5 +422,5 @@ Some sorrows mourn the dead. Broken Whisper mourns their last words — the mess
 
 **Document ID:** SE-O-IIIγ-369
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

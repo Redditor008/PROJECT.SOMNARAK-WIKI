@@ -262,7 +262,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Floating Shard (C-IVδ-503 [N]) is logged as a Subject-Phantasmal manifestation expressing Lament (Deep Blue). The Shard formed from compassion for people broken by the city. Held at Zone D, Forge District. It becomes brighter near injured personnel.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Floats through Forge District and adjacent facilities. Personnel feel consuming pity and rage at suffering. Its fragments dissolve after an entity or person is acknowledged.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -383,5 +383,5 @@ Some sorrows are about suffering. Floating Shard is about witnessing — the hel
 
 **Document ID:** SE-C-IVδ-503
 **Author:** Researcher Euncris Park
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

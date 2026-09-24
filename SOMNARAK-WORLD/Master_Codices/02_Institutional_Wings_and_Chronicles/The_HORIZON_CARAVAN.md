@@ -674,7 +674,7 @@ The sorrow that saturates the Desolate is fundamentally distinct from the emotio
 ### 10.1 The Trans-Planetary Legacy & Future Horizon
 The Horizon Caravan shattered four thousand years of paralyzing fear. By demonstrating that the Desolate could be navigated, mapped, and crossed, Commander Kael and his crew transformed Somnarak from a doomed, suffocating tomb into a thriving participant in an emerging planetary commonwealth:
 - **The Trans-Desolate Highway:** By Year 4,242, the route between Somnarak and Cheonbulok is guarded by a chain of seventeen fortified acoustic relay waystations. Convoys of civilian cargo crawlers cross the desert bi-weekly, carrying iron, grain, medicine, and books.
-- **The Mugeukji Bridge:** In Year 4,247, as the planetary transmutation rate reaches forty-five percent, the Caravan prepares for its seventh and greatest expedition: returning to the boundary of Mugeukji, not with weapons, but with the Key Pages of the Memory Archive to speak the words that will finally wake the Silent City.
+- **The Mugeukji Bridge:** In Year 4,247, as the planetary transmutation rate reaches forty-five percent, the Caravan prepares for its seventh and greatest expedition: returning to the boundary of Mugeukji, not with weapons, but with the Engram Pages of the Memory Archive to speak the words that will finally wake the Silent City.
 
 > *"We were told the world ended at the city walls. We went to look for its corpse. Instead, we found its open road. And as long as the Drift Throne has fuel in its turbines, we will keep driving until we meet the dawn."*  
 > — Supreme Commander Kael, Addressing the Joint Assembly of the Three Cities, Year 4,242

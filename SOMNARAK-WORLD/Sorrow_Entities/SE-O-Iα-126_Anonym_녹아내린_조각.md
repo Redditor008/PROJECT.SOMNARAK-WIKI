@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Anonym (O-Iα-126 [VS]) is logged as a Subject-Mind manifestation expressing Void (Pale White). The Shard formed from self-image eroded by repeated rejection. Held at Zone E, Border region. It is perceived mentally rather than physically.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through the consciousness of border personnel. Subjects lose confidence in their own identity. It melts under direct certainty and reforms under patient observation.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -388,5 +388,5 @@ Some sorrows are about losing a home. Anonym is about losing a self — the iden
 
 **Document ID:** SE-O-Iα-126
 **Author:** Researcher Euncris Park
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

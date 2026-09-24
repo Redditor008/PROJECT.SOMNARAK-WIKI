@@ -280,7 +280,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Pent (N-IVδ-821 [D]) is logged as a Place-Grudge manifestation expressing Grudge (Crimson). The Sigh formed from a breath erased before it could be released. Held at Zone B, Old Lament — ambient. It is strongest after long shifts.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It has no ordinary sound source.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -400,5 +400,5 @@ Some sorrows are about exhaustion. Pent is about the denial of exhaustion — th
 
 **Document ID:** SE-N-IVδ-821
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

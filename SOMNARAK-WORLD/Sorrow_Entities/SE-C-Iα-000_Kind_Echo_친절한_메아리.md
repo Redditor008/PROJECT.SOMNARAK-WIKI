@@ -225,7 +225,7 @@ The weapon fires non-lethal compressed sorrow-pellets through an eight-groove ri
 
 ### M.A.W. Use Notes
 
-The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. arsenal. It is issued to every new agent during onboarding and is designed to teach the fundamentals of M.A.W. use — how a weapon feels, how a suit protects, how a Gift is granted — without risk. The Warm Stone Gift is the most commonly carried item in the R.D.; many veteran agents still have theirs, long after upgrading to higher-grade equipment.
+The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. arsenal. It is issued to every new agent during onboarding and is designed to teach the fundamentals of M.A.W. use — how a weapon feels, how a suit protects, how a Gift is granted — without risk. The Warm Stone Gift is the most commonly carried item in the R.D; many veteran agents still have theirs, long after upgrading to higher-grade equipment.
 
 ### Field Use Record
 
@@ -394,7 +394,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 
 - Kind Echo is the only Sorrow Entity that is warm to the touch.
 - Designation 000 — the first entity ever contained by the R.D., before the numbering system existed.
-- The Warm Stone Gift is the most commonly carried item in the R.D.; many veteran agents still have theirs.
+- The Warm Stone Gift is the most commonly carried item in the R.D; many veteran agents still have theirs.
 - The entity's hum has been recorded and is used as a sleep aid in the R.D. infirmary.
 - It has trained every agent the R.D. has ever hired — estimated at over 100,000 personnel across 6,000 years.
 - The entity is the baseline for all entity comparisons: "more aggressive than 000" is the standard R.D. phrase for any hostile entity.

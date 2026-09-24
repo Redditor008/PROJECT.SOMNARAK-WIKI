@@ -227,7 +227,7 @@ The extracted equipment reflects the same unresolved pressure as The Unspoken Li
 - The line appeared five years post-Absolvohan; no single incident caused it.
 - Gold-side residents report guilt for feeling better; grey-side residents report feeling left behind.
 - The two faded signs belonged to Gaeul Uri and Ongius Park, friends for forty years.
-- The line has contracted ~3 m since Year 4243, correlated with documented cross-line conversations.
+- The line has contracted ~3 m since Year 4238, correlated with documented cross-line conversations.
 
 **Personnel Note:** *"I stood on the line for six hours. By the third hour Gaeul came out; by the fifth Ongius came to his door. They did not speak about hope. They spoke about the fountain. The line shrank. It is still there. But it is thinner than it was this morning."* — Handler Soojin (수진), Zone D
 
@@ -238,7 +238,7 @@ The extracted equipment reflects the same unresolved pressure as The Unspoken Li
 | **Initial exposure** | The observer identifies The Unspoken Line as a Object / Place with Place-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at A four-way junction in the Mantle Commons, Zone D. |
 | **Sustained observation** | Continued observation confirms the documented Work Type response and the entity's recorded physical behavior. Personnel must distinguish the entity's emotional effect from its physical behavior; the two may not escalate at the same rate. |
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
-| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name?, what remained stable, and which detail was most difficult to describe. In The Unspoken Line's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
+| **Post-contact review** | After contact: what changed in the entity, in the room, in yourself? What stayed the same? What was hardest to name? What remained stable, and which detail was most difficult to describe. In The Unspoken Line's case, the report is incomplete if it records only danger and omits the sorrow the entity preserves. |
 
 **Observation method:** Record the first visible sign, the first emotional sensation, the first measurable environmental change, and the condition that ends the encounter. Appearance is diagnosis, not prediction. The entity's shape reveals its wound, not its next move. alone.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -248,7 +248,7 @@ The extracted equipment reflects the same unresolved pressure as The Unspoken Li
 **Entry 1 — Containment Description**
 The subject is a four-way junction in the Mantle Commons — cobblestones, a dry fountain, shuttered shopfronts. Nothing marks it as anomalous to the eye. The anomaly is behavioral: residents do not cross the central seam. At dusk a line of pale Void-light becomes visible down the center, and the two nearest shop signs are blank where names once were.
 
-**Entry 2 — <Field Log, Year 4243>**
+**Entry 2 — <Field Log, Year 4238>**
 The junction divides cleanly into two "weathers": the hope-touched side carries a faint gold cast and its residents report sleeping well; the untouched side carries a faint grey cast and its residents report feeling left behind. Neither side is hostile. Neither side crosses. Birds fly around the junction rather than over it. The dry fountain weeps a single drop when someone nearly crosses, then stops.
 
 **Entry 3 — <Interview Transcript>**
@@ -257,7 +257,7 @@ The junction divides cleanly into two "weathers": the hope-touched side carries 
 **Entry 4 — <Containment Notice, Zone D>**
 Flerehan and Pugnahan are invalid; Viderehan and Ferrehan only. A Ferrehan anchor maintains presence at the seam until a resident emerges. The line contracts only when a cross-line conversation occurs — about anything. The Shared Glass, placed at the seam, enables a shared cup and is the fastest documented contractor. Forcing contact widens the line. Patience is the procedure.
 
-**Entry 5 — <Director's Memo, Year 4243>**
+**Entry 5 — <Director's Memo, Year 4238>**
 We did not divide the city. Hope did not divide the city. The city divided itself, because uneven mercy is harder to bear than shared suffering. The Unspoken Line is what that looks like when it learns to stand up. Healing is measured in meters per conversation. At the current rate, full closure will take roughly a century. Gaeul and Ongius will not live to see it. Their grandchildren might. — Majin
 
 ## 최종 관찰 (Final Observation)
@@ -312,7 +312,7 @@ At first nothing changed. They still shared tea. But the tea began to taste diff
 
 They stopped crossing. Not all at once. The tea came less often. The sign went unlit one night, then a week, then a season. Their children, grown, stopped visiting the fountain. The fountain went dry. Within five years, the junction belonged to two streets that did not speak, and the silence between them — dense, structural, fed by forty years of love that no longer had a bridge — stood up on its own and became the line.
 
-The R.D. catalogued it in Year 4243: a Place entity made of severed community, a Void where shared life used to be. The containment procedure is not suppression. It is patience. A Ferrehan worker stands on the seam until one of them comes out. They do not speak about hope — hope is what divided them. They speak about the fountain. About the tea. About the forty years before the light came and taught them that they had been carrying different sorrows all along, and that knowing it was its own kind of grief.
+The R.D. catalogued it in Year 4238: a Place entity made of severed community, a Void where shared life used to be. The containment procedure is not suppression. It is patience. A Ferrehan worker stands on the seam until one of them comes out. They do not speak about hope — hope is what divided them. They speak about the fountain. About the tea. About the forty years before the light came and taught them that they had been carrying different sorrows all along, and that knowing it was its own kind of grief.
 
 The line shrinks, a hand's-width at a time, every time someone crosses it to say something ordinary. It will take a century to close. Gaeul and Ongius will not live to see it. But their grandchildren, who have started meeting in the middle again — slowly, awkwardly, over the dry fountain — might.
 ## 증언 (Testimonium) — The Testimony
@@ -321,7 +321,7 @@ The line shrinks, a hand's-width at a time, every time someone crosses it to say
 > *"I lit her sign for forty years. I stopped because I did not know if my light would hurt her now. That is the cruelest thing hope ever did to me — it made me afraid to be bright near the people I love."* — Ongius Park (온기우스 박), lantern-maker, gold side
 > *"It is the first entity I have logged that is healed by small talk. Place a Shared Glass at the seam. Make them share a cup. The line shrinks. Repeat for a hundred years."* — Researcher Euncris Park (은크리스 박), R.D.
 > *"Both sides feel guilty. The bright feel guilty for being bright. The grey feel guilty for not being bright enough. The guilt is the bridge, if anyone would admit it."* — Handler Soojin (수진), Zone D
-> *"We did not divide the city. Hope did not divide the city. The city divided itself, slowly, because uneven mercy is harder to bear than shared suffering."* — Director Majin (마진), Year 4243
+> *"We did not divide the city. Hope did not divide the city. The city divided itself, slowly, because uneven mercy is harder to bear than shared suffering."* — Director Majin (마진), Year 4238
 ## 기록 (Registrum) — The Record
 
 **Classification:** Sorrow Entity — `C-IVδ-251 [VP]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void (Pale White) · Place-Void manifestation
@@ -335,7 +335,7 @@ The line shrinks, a hand's-width at a time, every time someone crosses it to say
 - Deploy the Shared Glass to enable shared-cup contact — the fastest documented contractor of the line.
 - Track contraction; protect the dry fountain (the shared-memory anchor both sides still recognize).
 **Observation Notes:**
-- Appeared Year 4243, five years post-Absolvohan; no single triggering incident.
+- Appeared Year 4238, five years post-Absolvohan; no single triggering incident.
 - Gold side (hope-touched) / grey side (untouched) contrast visible at dusk.
 - Two faded shop signs mark the original friendship (Uri / Park).
 - Contracted ~3 m since first logging; healing rate implies ~century to full closure.
@@ -371,7 +371,7 @@ The line shrinks, a hand's-width at a time, every time someone crosses it to say
 
 **Author:** Handler Soojin (수진), Zone D, with research by Researcher Euncris Park (은크리스 박)
 
-**Date:** Year 4243
+**Date:** Year 4238
 
 **Classification:** Restricted
 

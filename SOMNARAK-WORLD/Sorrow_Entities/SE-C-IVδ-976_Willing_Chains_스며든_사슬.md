@@ -266,7 +266,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Willing Chains (C-IVδ-976 [O]) is logged as a Subject-Grudge manifestation expressing Void (Pale White). The Chain formed from bonds that became imprisonment. Held at Zone B, Old Lament — ambient. It spreads through contracts and emotional commitments.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Spreads through Old Lament structures and contracts. Personnel feel trapped by obligations they cannot identify. Chains become warm near people who call imprisonment protection.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -384,5 +384,5 @@ Some sorrows are about freedom lost. Willing Chains is about protection perverte
 
 **Document ID:** SE-C-IVδ-976
 **Author:** Commander Taeho
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Classified

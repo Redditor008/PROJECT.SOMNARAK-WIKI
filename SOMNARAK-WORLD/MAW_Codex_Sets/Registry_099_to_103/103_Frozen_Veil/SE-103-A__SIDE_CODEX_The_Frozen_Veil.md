@@ -81,7 +81,7 @@ Thermometers remain ordinary while people report an impossible cold. The Veil’
 
 The set offers powerful resistance to manipulation and Void pressure. Its price is the very emotional capacity that makes a person care how the protection is used.
 
-**Extraction rule:** an authentic, witnessed tear must produce a self-initiated crack in the Veil. A second person then verifies a living attachment the worker still chooses to protect. Only a shard released by the entity’s own retreat may become M.A.W.; chips taken from forced contact are containment debris, not equipment.
+**Extraction rule:** an authentic, witnessed tear must produce a self-initiated crack in the Veil. A second person then verifies a living attachment the worker still chooses to protect. Only a shard released by the entity’s own retreat may become M.A.W; chips taken from forced contact are containment debris, not equipment.
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|

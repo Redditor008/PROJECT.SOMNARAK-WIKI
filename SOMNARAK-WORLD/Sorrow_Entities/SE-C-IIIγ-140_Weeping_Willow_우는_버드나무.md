@@ -279,7 +279,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Weeping Willow (C-IIIγ-140 [LP]) is logged as a Place-Lament manifestation expressing Lament (Deep Blue). The Willow formed from the sorrow of endings. Held at SECTOR-D-02, Echo Gardens. Its leaves fall even without wind.
 
-**Entry 2 — <Excerpt from Field Log, Year 4248>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 It is most active around funerals and departures.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -400,5 +400,5 @@ Not every sorrow is a wound. Some are just the shape a full life leaves behind, 
 
 **Document ID:** SE-C-IIIγ-140
 **Author:** Agent Kkotlom Lee
-**Date:** Year 4248
+**Date:** Year 4238
 **Classification:** Open

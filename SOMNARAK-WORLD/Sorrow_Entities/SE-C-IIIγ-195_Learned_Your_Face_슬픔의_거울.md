@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Learned Your Face (C-IIIγ-195 [VO]) is logged as a Object-Void manifestation expressing Void (Pale White). The Mirror formed from sorrow that people concealed from one another. Held at SECTOR-A-01, Alpha Tree. It reflects sorrow, not appearance.
 
-**Entry 2 — <Excerpt from Field Log, Year 4240>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The Mirror is warmer near genuine tears.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -425,5 +425,5 @@ Some sorrows are about loss. Learned Your Face is about the loneliness of believ
 
 **Document ID:** SE-C-IIIγ-195
 **Author:** Agent Haneulash Yoon
-**Date:** Year 4240
+**Date:** Year 4238
 **Classification:** Restricted

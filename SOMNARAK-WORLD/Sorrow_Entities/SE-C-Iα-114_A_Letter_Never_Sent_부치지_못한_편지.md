@@ -382,5 +382,5 @@ Operational Rule: A-Relics are spent, not stored. Once unsealed in battle, log t
 
 **Document ID:** SE-C-Iα-114
 **Author:** Researcher Tae-Hoon Kim
-**Date:** Year 4248
+**Date:** Year 4238
 **Classification:** Confidential — Directorate Archive

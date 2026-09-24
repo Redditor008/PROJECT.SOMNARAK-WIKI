@@ -268,7 +268,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Redacted (N-IIIγ-184 [N]) is logged as a Subject-Body manifestation expressing Void (Pale White). The Tree formed from a life erased while still being lived. Held at Zone E, Border region. It grows around incomplete records and forgotten names.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Walks through Border region while leaving roots behind. Personnel feel the absence of an unknown person or event. It never shows a complete face.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -385,5 +385,5 @@ Some sorrows mourn the forgotten. Redacted is the forgetting itself — the eras
 
 **Document ID:** SE-N-IIIγ-184
 **Author:** Archive Lead Marjuk
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

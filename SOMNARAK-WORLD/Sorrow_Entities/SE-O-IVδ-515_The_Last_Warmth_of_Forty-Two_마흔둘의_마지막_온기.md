@@ -380,5 +380,5 @@ Operational Rule: Once shattered, the A-Relic is permanently expended. Collect t
 
 **Document ID:** SE-O-IVδ-515
 **Author:** Outrider Senior Historian Min-Gyu Park
-**Date:** Year 4248
+**Date:** Year 4238
 **Classification:** Top Secret — Strategic Directorate Reserve

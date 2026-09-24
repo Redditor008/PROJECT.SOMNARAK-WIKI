@@ -138,7 +138,7 @@ The intake hub of the Cadre, staffed by contract triage scribes, forensic evalua
 | - Combat Role : Evasion Saboteur, Verbal Silencer, Anti-Chanter     |
 | - Status Effect: 'Verbal Suppression' (Target cannot utter command  |
 |   phrases; -3 Clash Power for 2 turns)                              |
-| - Node Pref.  : Nodes 03 to 06 (Midline Interception)               |
+| - Node Pref: Nodes 03 to 06 (Midline Interception)               |
 +=====================================================================+
 ```
 
@@ -165,7 +165,7 @@ The **Giltong Cadre** serves as the linguistic secret police and speech auditors
 |   Wall                                                              |
 | - Status Effect: 'Impenetrable Bastion' (Absorbs 40% incoming       |
 |   damage for adjacent allies on Nodes +/-1)                         |
-| - Node Pref.  : Nodes 01 to 03 (Vanguard Frontline)                 |
+| - Node Pref: Nodes 01 to 03 (Vanguard Frontline)                 |
 +=====================================================================+
 ```
 
@@ -191,7 +191,7 @@ The **Su-Ho Cadre** is the unbreakable wall of Somnarak. When Sorrow Entities br
 | - Combat Role : Scout, Weakpoint Revealer, Stage Hazard Dispeller   |
 | - Status Effect: 'Acoustic Sonar Pin' (Exposes enemy weakpoints;    |
 |   all allies gain +2 Clash Power and +15% Critical)                 |
-| - Node Pref.  : Nodes 04 to 08 (Flexible Flanker)                   |
+| - Node Pref: Nodes 04 to 08 (Flexible Flanker)                   |
 +=====================================================================+
 ```
 
@@ -217,7 +217,7 @@ Operating in close consultation with the Somnarak Exploration Decree (SED), the 
 | - Combat Role : Precision Duelist, Counter-Attacker, Stat Balancer  |
 | - Status Effect: 'Arbitration Lien' (If opponent attacks an ally,   |
 |   Sim-Pan gains an immediate free counter-clash)                    |
-| - Node Pref.  : Nodes 03 to 06 (Midline Interceptor)                |
+| - Node Pref: Nodes 03 to 06 (Midline Interceptor)                |
 +=====================================================================+
 ```
 
@@ -243,7 +243,7 @@ The **Sim-Pan Cadre** serves as the judicial arbiters of corporate disputes, con
 | - Combat Role : Primary Burst Damage Dealer, Posture Destroyer      |
 | - Status Effect: 'Blinding Luster' (Inflicts massive Stagger        |
 |   damage; target suffers -20% defense posture)                      |
-| - Node Pref.  : Nodes 01 to 04 (Vanguard Strike Zone)               |
+| - Node Pref: Nodes 01 to 04 (Vanguard Strike Zone)               |
 +=====================================================================+
 ```
 
@@ -269,7 +269,7 @@ Named after the radiant fury of the midday sun, the **Il-Gwang Cadre** is Somnar
 | - Combat Role : Area Denial, Stacking Burn DoT, Armor Corroder      |
 | - Status Effect: 'Vitrified Ember' (Deals 12 true burn damage each  |
 |   turn; at 5 stacks, melts 20% Slash Res)                           |
-| - Node Pref.  : Nodes 04 to 07 (Midline Area Suppression)           |
+| - Node Pref: Nodes 04 to 07 (Midline Area Suppression)           |
 +=====================================================================+
 ```
 
@@ -295,7 +295,7 @@ The **Hwa-Yong Cadre** handles the city's dirtiest and most hazardous cleansing 
 | - Combat Role : Priority Target Executioner, Intent Scrambler       |
 | - Status Effect: 'Resonance Bleed' (Reveals all enemy clash         |
 |   intents; target suffers +30% critical damage)                     |
-| - Node Pref.  : Nodes 06 to 10 (Rearline Infiltrator)               |
+| - Node Pref: Nodes 06 to 10 (Rearline Infiltrator)               |
 +=====================================================================+
 ```
 
@@ -322,7 +322,7 @@ While Giltong polices public speech, the **Jeong-Bo Cadre** steals private secre
 | - Combat Role : Momentum Bruiser, Node Displacer, Cargo Defender    |
 | - Status Effect: 'Convoy Impact' (Knocks target back 2 Nodes on     |
 |   clash win; deals 25 kinetic collision damage)                     |
-| - Node Pref.  : Nodes 03 to 06 (Midline Momentum Prowler)           |
+| - Node Pref: Nodes 03 to 06 (Midline Momentum Prowler)           |
 +=====================================================================+
 ```
 
@@ -348,7 +348,7 @@ The **Un-Song Cadre** is the commercial artery that connects Somnarak to the out
 | - Combat Role : Combat Field Medic, Clarity Restorer, Suture Buffer |
 | - Status Effect: 'Mnemonic Restoration' (Restores 45 HP and 20      |
 |   Clarity; cleanses Bleed, Burn, and Rust)                          |
-| - Node Pref.  : Nodes 07 to 10 (Protected Rearline)                 |
+| - Node Pref: Nodes 07 to 10 (Protected Rearline)                 |
 +=====================================================================+
 ```
 
@@ -375,7 +375,7 @@ When operatives suffer catastrophic psychological trauma from fighting Sorrow En
 | - Combat Role : Combo Striker, Posture Smasher, Lock-on Grappler    |
 | - Status Effect: 'Concussive Stagger' (Hits directly target         |
 |   Posture; triggering Stagger grants bonus strike)                  |
-| - Node Pref.  : Nodes 01 to 03 (Vanguard Grappling Zone)            |
+| - Node Pref: Nodes 01 to 03 (Vanguard Grappling Zone)            |
 +=====================================================================+
 ```
 

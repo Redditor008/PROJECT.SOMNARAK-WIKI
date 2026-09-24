@@ -121,7 +121,7 @@
 | **Form** | Forgotten God is a massive humanoid figure sleeping in the sealed vault beneath the Alpha Tree. Its body is built from layered Han-crystal rather than flesh. |
 | **Position / movement** | The figure remains motionless with its hands folded against its body and its head lowered as if listening to a prayer spoken thousands of years ago. |
 | **Material / signature** | All four — Lament, Grudge, Void, Weight elemental presentation; record visible color, texture, light, sound, pressure, or absence. |
-| **Distinctive markers** | The face is human in outline but too still to read as living. . The air around the God trembles without sound. |
+| **Distinctive markers** | The face is human in outline but too still to read as living. The air around the God trembles without sound. |
 | **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow. before Work or contact. |
 
 **Appearance protocol:** Note the entity's proportions, its distance from the containment boundary, any shift in posture, and the first surface change when it activates; and the first visible change during activation. Avoid generic descriptors. 'Strange' and 'anomalous' are not observations; they are admissions of not having looked closely enough. such as “strange” or “anomalous.”

@@ -380,5 +380,5 @@ Tactical Instruction: Reserve this A-Relic exclusively for sovereign-class or he
 
 **Document ID:** SE-O-IIIγ-412
 **Author:** Lead Metallurgist Jin-Woo Kang
-**Date:** Year 4248
+**Date:** Year 4238
 **Classification:** Restricted — Armory Priority

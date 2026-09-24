@@ -11,10 +11,10 @@
 | AFFILIATION  : The Reverie Directorate — Sub-Alpha Archive Spire    |
 | THEATER      : Memory Spire Vault 09 (-520m Subterranean Archive)   |
 | FRACTURE     : Cumulative Agony of 1,778 Cycles & Memory Corruption |
-| EQUIPMENT : MAW-W-009-01 The Forgotten Lens & Suture Thread Needles |
+| EQUIPMENT    : MAW-W-009-01 The Forgotten Lens & Suture Needles     |
 | COMPOSURE    : Baseline 110 / Crisis Threshold 30 / Max Posture 160 |
-| ACT I : The Endless Ledger — Suture Core & Computational Fever      |
-| ACT II : The Unraveling Thread — Spire Webbing & Amnesiac Surge     |
+| ACT I        : The Endless Ledger — Suture Core & Fever             |
+| ACT II       : The Unraveling Thread — Spire Webbing & Surge        |
 | ACT III      : The Resonant Catharsis — Final Suture Harmonic Clash |
 +=====================================================================+
 ```

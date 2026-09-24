@@ -180,7 +180,7 @@ Work Type data is one input among many. The SECC code and coherence level determ
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Bridge of the Unchosen rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Bridge of the Unchosen activates its primary resonance: Projects concentrated Void sorrow resonance across the immediate perimeter. Grants +10% resistance to Void damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of what could have been if someone had chosen differently.; the bearer begins perceiving echoes of a person abandoned a crossing at the last moment; the path froze around the decision. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the grief of what could have been if someone had chosen differently; the bearer begins perceiving echoes of a person abandoned a crossing at the last moment; the path froze around the decision. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within Bridge of the Unchosen begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear Bridge of the Unchosen too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Misuse increases emotional strain and may destabilize the operator. |
 
@@ -306,7 +306,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 Bridge of the Unchosen (N-IIIγ-874 [D]) is logged as a Object-Weight manifestation expressing Void (Pale White). The Bridge formed from a crossing that was never taken. Held at Zone D, Echo Gardens. Frost never melts through temperature.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 The destination changes according to the observer's regret.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -423,5 +423,5 @@ Some sorrows are about what was lost. Bridge of the Unchosen is about what was n
 
 **Document ID:** SE-N-IIIγ-874
 **Author:** Dreamer Sora
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted

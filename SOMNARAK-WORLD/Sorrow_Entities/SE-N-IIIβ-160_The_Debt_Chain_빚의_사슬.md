@@ -180,7 +180,7 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The Debt Chain rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping The Debt Chain activates its primary resonance: Reveals the obligation's history and connections. Grants +10% resistance to Weight damage while equipped. |
-| 30 Seconds | The artifact was born from the grief of owing something that cannot be paid.; the bearer begins perceiving echoes of collector ledgers became too numerous to store; every obligation crystallized into a connected link. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 30 Seconds | The artifact was born from the grief of owing something that cannot be paid; the bearer begins perceiving echoes of collector ledgers became too numerous to store; every obligation crystallized into a connected link. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The sorrow within The Debt Chain begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
 | 2 Minutes | To wear The Debt Chain too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may inherit the emotional weight of the debt. |
 
@@ -304,7 +304,7 @@ Each M.A.W. piece is a conditional extension of the entity, not ordinary equipme
 **Entry 1 — Containment Description**
 The Debt Chain (N-IIIβ-160 [WO]) is logged as a Object-Weight manifestation expressing Weight (Black). The Chain formed from the weight of obligation. Held at SECTOR-C-01, Collector's Row. The Chain grows continuously.
 
-**Entry 2 — <Excerpt from Field Log, Year 4247>**
+**Entry 2 — <Excerpt from Field Log, Year 4238>**
 Old links are heavier than new ones.
 
 **Entry 3 — <Excerpt from Counseling Log>**
@@ -423,5 +423,5 @@ Some sorrows are about what is owed. The Debt Chain is about what cannot be paid
 
 **Document ID:** SE-N-IIIβ-160
 **Author:** Auditor Yuna
-**Date:** Year 4247
+**Date:** Year 4238
 **Classification:** Restricted
