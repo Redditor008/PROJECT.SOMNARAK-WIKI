@@ -5,11 +5,15 @@
 +========================================================================+
 |             PROJECT SOMNARAK // CANONICAL TIMELINE ANCHOR              |
 +========================================================================+
-| Document ID          | TIMELINE-CANON-4238                             |
-| Master Era Anchor    | Year 4,238 - The Dawn Initiative Era            |
-| Current Cycle Anchor | Cycle 1,778 of The Absolvohan                   |
-| Calendar Standard    | Mugenhan Municipal Solar Standard (MMSS)        |
-| Dilation Law         | 1 Operational Cycle = ~1 Calendar Year          |
+| Document ID           | TIMELINE-CANON-4238                            |
+| Master Era Anchor     | Year 4,238 - The Dawn Initiative Era           |
+| Current Cycle Anchor  | Cycle 1,778 of The Absolvohan                  |
+| Calendar Standard     | Mugenhan Municipal Solar Standard (MMSS)       |
+| Dilation Law          | 1 Operational Cycle = ~1 Calendar Year         |
++------------------------------------------------------------------------+
+| Sequential Triad      | SED -> UCD -> R.D. (Strictly Pre-Dawn)         |
+| Watershed Turning     | The Dawn of Hope (Cycle 1,778 / Year 4,238)    |
+| Post-R.D. / Post-Dawn | UNK SE (After R.D.) + All Subsequent Lore      |
 +========================================================================+
 ```
 
@@ -21,24 +25,33 @@
 The canonical baseline of the current era across all contemporary field records, operative dossiers, and administrative dispatches is **Year 4,238** (The Dawn Initiative Era). All relative historical time spans ("N years ago", "N centuries ago") are computed strictly relative to this date.
 
 ```text
-[ Year 0 ] ----------------- [ Year 200 ] ----------------- [ Year 4,238 ]
-Settlers Arrive              The Cheongula              Current Era Anchor
-(4,238 Years Ago)            (4,038 Years Ago)               (Cycle 1,778)
+[ Year 0 ] ------ [ Year 200 ] ------ [ Year 2,460 ] ------ [ Year 4,238 ]
+Settler Landing   The Cheongula       Cycle 0001 (R.D.)     Dawn of Hope  
+(4,238 Yrs Ago)   (4,038 Yrs Ago)     (1,778 Cycles Ago)    (Watershed)   
 ```
 
 ---
 
 ## 2. CHRONOLOGICAL MILESTONES
 
-| Calendar Year | Cycle Equivalent | Historical Milestone | Canon Reference |
+| Calendar Year | Cycle Equivalent | Historical Milestone & Canonical Operation | Canon Reference |
 | :--- | :--- | :--- | :--- |
 | **Year 0** | Pre-Cycle Era | **The Settlement Arrival:** Refugee pioneers land on Mugenhan and establish the Somnarak valley settlement. | `SOMNARAK_CHEONGULA` |
 | **Year 195** | Pre-Cycle Era | **The Menders' Warning:** Early syndicates identify volatile subterranean Han accumulation beneath Zone B. | `SOMNARAK_CHEONGULA` |
 | **Year 200** | Pre-Cycle Era | **The Cheongula (The First Sorrow):** 1,000 citizens in Zone B consumed by raw Han; the First Sorrow and the Maw's inception. | `SOMNARAK_CHEONGULA` |
 | **Year 2,460** | **Cycle 0001** | **The Absolvohan Inception:** Director Majin establishes the 1,778-Cycle containment loop to harvest and refine Han. | `The_ABSOLVOHAN` |
+| **Years 2,460–3,970** | **Cycles 0001–1,510** | **Ante-Dawn Phase 1 — SED (Katabagil):** Subterranean expeditions 1–7 explore bedrock (-2,000m to -3,500m), mapping aquifers and Cheongula origins. | `SOMNARAK-WORLD/Katabagil/` |
 | **Year 3,972** | **Cycle 1,512** | **The Great Rust Severance (266 Cycles Ago):** Major syndicate rebellion in The Raw; massive extraction failure. | `CANTO_02`, `SED_03` |
+| **Years 3,973–4,039** | **Cycles 1,513–1,579** | **Ante-Dawn Phase 2 — UCD (Katharcheok):** Six underworld pacification purges through The Raw, dismantling the Five Syndicates. | `SOMNARAK-WORLD/Katharcheok/` |
 | **Year 4,040** | **Cycle 1,580** | **The Great Collapse (198 Cycles / ~200 Years Ago):** Severe acoustic containment breach; death of Yoon's sister. | `CANTO_02` (B1 Fix) |
-| **Year 4,238** | **Cycle 1,778** | **The Current Era:** The Absolvohan approaches the 1,778th realization; Dawn Initiative operational. | Contemporary Canon |
+| **Years 4,041–4,238** | **Cycles 1,581–1,778** | **Ante-Dawn Phase 3 — R.D. (The Absolvohan):** Containment of 292 standard Sorrow Entities across Floors 1–8; Echo-Core Realizations. | `SOMNARAK-WORLD/The_Absolvohan/` |
+| **Year 4,238** | **Cycle 1,778 (Climax)** | **THE WATERSHED EVENT — THE DAWN OF HOPE:** Hand of Hope opens; 15% sorrow-to-hope transmutation; SED, UCD, and R.D. conclude. | `SOMNARAK_DAWN_OF_HOPE.md` |
+| **Year 4,238+** | **Post-Cycle Era** | **UNK SE Manifestation (Strictly After R.D.):** 12 authentic anomaly dossiers emerge in the deep vault and post-loop aftermath. | `SOMNARAK-WORLD/Unknown_Entities/` |
+| **Years 4,238–4,247** | **Post-Dawn Phase 1** | **The Dawn Initiative:** The 12 Hope Bearers operate mobile fortress *The Lantern*, expanding hope from 15% toward 45%. | `SOMNARAK_DAWN_OF_HOPE.md` |
+| **Year 4,239+** | **Post-Dawn Phase 2** | **The Horizon Caravan (Jipyeongseondae):** Six overland expeditions cross the wasteland to Cheonbulok and Mugeukji. | `SOMNARAK-WORLD/Jipyeongseondae/` |
+| **Year 4,240+** | **Post-Dawn Phase 3** | **The Memory Archive (Gieok Jeojangso):** Reception protocol across seven strata floors extracting Key Pages for the Silent City. | `SOMNARAK-WORLD/Gieok_Jeojangso/` |
+| **Year 4,250+** | **Post-Dawn Phase 4** | **Company 4 — The Wound Walkers:** Sooah's post-Dawn spiritual pilgrimage across the Seven Crucible Stations. | `SOMNARAK_WOUND_WALKERS.md` |
+| **Year 4,255+** | **Global Era** | **Continental Reconstruction:** Trans-continental rail relays, tectonic stabilization, and external civil reconnection. | Master Narrative SSOT |
 
 ---
 
@@ -92,6 +105,7 @@ To maintain absolute chronological integrity across all 1,778+ files in the repo
 By direct executive decree of the Project Owner:
 **"All This Three SED, UCD, AND R.D. Happen Before DAWN OF HOPE And ANYTHING ELSE HAPPEN AFTER DAWN OF HOPE."**
 **"UNK SE Is After R.D. Even"**
+**"CONTINENTAL GEOGRAPHY IS NOT AN SE"**
 
 ```text
 +========================================================================+
@@ -133,11 +147,11 @@ The central turning point in planetary history:
 **ANYTHING ELSE** in the narrative chronology takes place strictly **AFTER** the Dawn of Hope, and **UNK SE is positioned strictly AFTER R.D.**:
 1. **Unknown Sorrow Entities (UNK SE /   미분류 슬픔 개체  ):**
    - Canonical Mandate: **UNK SE Is After R.D.**
-   - While the 292 standard Sorrow Entities are contained during R.D. Facility 01's 1,778-cycle loops, the 13 Unknown Sorrow Entities (`SOMNARAK-WORLD/Unknown_Entities/`) manifest and are recorded strictly **AFTER R.D.**:
+   - While the 292 standard Sorrow Entities are contained during R.D. Facility 01's 1,778-cycle loops, the 12 authentic Unknown Sorrow Entities (`SOMNARAK-WORLD/Unknown_Entities/`) manifest and are recorded strictly **AFTER R.D.**:
      - `SE-N-IVγ-250 The Extinguished` specifically tracks and hunts Hope Bearers (who emerge only after the Dawn of Hope).
      - `SE-N-IIIβ-247 The Undelivered Thanks` carries gratitude stones honoring fallen Hope Bearers.
      - `SE-N-IVδ-902 The Repeated Survivor` and `Book of Regressor Log Dramaturgy` record the meta-conscious aftermath of the broken loop cycles.
-     - Outside Sorrow frontier anomalies (such as The Glass Silt Drifter and The Singing Needle) are discovered beyond Somnarak in the unmapped frontier during post-R.D. overland expeditions. Continental landmasses and regional geology are permanent geography, not Sorrow Entities.
+     - Outside Sorrow frontier anomalies (such as The Glass Silt Drifter and The Singing Needle) are discovered beyond Somnarak in the unmapped frontier during post-R.D. overland expeditions. Continental landmasses and regional geology are permanent terrain, not Sorrow Entities.
 2. **The Dawn Initiative (  새벽 이니셔티브  , *Saebyeok Inisieotibeu*):**
    - The 12 Hope Bearers operating from the mobile fortress *The Lantern* (  등불  , *Deungbul*), expanding hope from 15% to 45% across the continent (`SOMNARAK_DAWN_OF_HOPE.md`).
 3. **The Horizon Caravan (Jipyeongseondae /   지평선대  ):**
@@ -148,5 +162,3 @@ The central turning point in planetary history:
    - The post-Dawn spiritual pilgrimage of Sooah across the Seven Crucible Stations in Year 4,250+ to heal the lingering municipal scars that remain after all other companies have finished (`SOMNARAK_WOUND_WALKERS.md`).
 6. **Continental Reconstruction & Global Reconnection:**
    - All subsequent expeditions beyond Mugenhan's perimeter, planetary tectonic stabilization, and the establishment of post-Dawn civil institutions.
-
-
