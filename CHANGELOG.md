@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Add Character Story Canto IV: The Sub-Zero Ridge (`CANTO_04_THE_SUB_ZERO_RIDGE_HA_EUN.md`)** —
+  - Authored the full literary novella chapter for Canto IV (26.3 KB), focusing on Marksman Ha-Eun (The Needle / Cryo-Sniper), her solitary vigils at Outpost E-09 (-40°C to -68°C), and her voluntary emotional hypothermia.
+  - Explored the M.A.W. weapon `The Cold Lens` (`MAW-W-103-01`), the sacrifice of warm memories to fuel Void piercing rounds, and the mandatory relationship anchor rule.
+  - Featured the perimeter cryogenic breach of `SE-C-IVδ-103 The Frozen Veil` (Void element, Critical Potency δ) and its memory-erasure whiteout.
+  - Implemented the 10-node spatial combat engagement across Turns 1 through 6, culminating in Min-Jae's anchor verification call and Ha-Eun's execution of [Break the Pull] to pierce the glacial core.
+  - Strictly audited and verified zero P.M. crossover vocabulary and maintained the two-space buffer rule for all Korean characters (`  [korean]  `).
+  - Updated `SOMNARAK-WORLD/Story_Cantos/README.md`, `SOMNARAK-WORLD/README.md`, and root `README.md`.
+
 - **Add Character Story Canto III: The Shattered Striker (`CANTO_03_THE_SHATTERED_STRIKER_TAEHO.md`)** —
   - Authored the full literary novella chapter for Canto III (29.3 KB), focusing on Vanguard Taeho (The Striker / Sunder Maul), his industrial origins in the Zone D foundries, and the crippling usury debt inherited from four generations of foundry laborers.
   - Explored his physical trauma (welded kinetic ankle shackle, crooked collarbone, burn scars), weapon maintenance, and the emotional burden of the Debt Concourse.

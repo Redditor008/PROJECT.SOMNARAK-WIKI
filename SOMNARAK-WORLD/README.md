@@ -93,7 +93,8 @@ SOMNARAK-WORLD/
 │   ├── README.md                       # Master index and 3-Act narrative framework
 │   ├── CANTO_01_THE_BASTION_ANCHOR_MIN_JAE.md # Canto I: Warden Min-Jae (The Unbroken Wall)
 │   ├── CANTO_02_THE_ACOUSTIC_VOID_SEOL_A.md   # Canto II: Specialist Seol-A (The Silenced Requiem)
-│   └── CANTO_03_THE_SHATTERED_STRIKER_TAEHO.md # Canto III: Vanguard Taeho (The Debt Maul)
+│   ├── CANTO_03_THE_SHATTERED_STRIKER_TAEHO.md # Canto III: Vanguard Taeho (The Debt Maul)
+│   └── CANTO_04_THE_SUB_ZERO_RIDGE_HA_EUN.md  # Canto IV: Marksman Ha-Eun (The Cold Lens)
 │
 └── Unknown_Entities/                   # 8 Unclassified Maw Anomalies & Loop Chronicles
     ├── README.md                       # Deep Maw anomalous file directory
