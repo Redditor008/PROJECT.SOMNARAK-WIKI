@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Complete Character Story Cantos Suite: Add Canto VI — The Slum Breacher (`CANTO_06_THE_SLUM_BREACHER_KANG.md`)** —
+  - Authored the final literary novella chapter for Canto VI (26.0 KB), completing all six protagonist story cantos (100.0% completion).
+  - Centered on Chief Breacher Kang (The Ram / Urban Demolition), his origin in the Zone B Mask Market, and the conflict between underworld brotherhood and municipal duty.
+  - Featured the Sub-Sump Canal 08 breach of `SE-C-IIβ-054 The Empty Mask` (Weight element, City Sorrow), weaponized by Underboss Jin-Woo of the Rust Frays to manufacture identity-erasing thrall masks.
+  - Implemented the 10-node spatial engagement across Turns 1 through 6, culminating in Kang absorbing the identity void into `The Void Maul` (`MAW-W-054-01`), hearing his name spoken aloud by his squad, and shattering the mask with [Hollow Shatter] to save his brother.
+  - Enforced the dual typography system pairing buffered Korean Hangul (`  [korean]  `) with Romanized Alphabet and English translations, strictly maintaining zero P.M. crossover vocabulary.
+  - Updated `SOMNARAK-WORLD/Story_Cantos/README.md`, `SOMNARAK-WORLD/README.md`, and root `README.md`.
+
 - **Add Character Story Canto V: Suture of Lost Pages (`CANTO_05_SUTURE_OF_LOST_PAGES_SEIYON.md`)** —
   - Authored the full literary novella chapter for Canto V (26.4 KB), centering on Echo-Core 2 Secretary Seiyon (The Scribe / Central Recorder) and the crushing cumulative memory load of 1,778 historical cycles (34,216 personnel records).
   - Explored the Sub-Alpha Memory Spire (-520m), the M.A.W. weapon `The Forgotten Lens` (`MAW-W-009-01`), and the moral agony of machine memory versus human amnesia.
