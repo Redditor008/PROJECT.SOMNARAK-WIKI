@@ -91,6 +91,7 @@ The `GAME_BATTLE/` directory contains the following foundational operational doc
 | [`BOSS_MECHANICS_WEEPING_MIRROR.md`](BOSS_MECHANICS_WEEPING_MIRROR.md) | Sovereign Boss Mechanics Folio | Cognitive reflector anatomy, twin simulacra duplication, 3-phase shatter cycles, and M.A.W. synthesis for `SE-C-IVδ-195`. |
 | [`BOSS_MECHANICS_KING_OF_MENDERS.md`](BOSS_MECHANICS_KING_OF_MENDERS.md) | Syndicate Boss Mechanics Folio | Flesh-welding mechanics, debt-mark stacking, multi-node tether traps, and M.A.W. synthesis for The King of Menders. |
 | [`SQUAD_ARCHETYPE_REVERIE_CONTAINMENT.md`](SQUAD_ARCHETYPE_REVERIE_CONTAINMENT.md) | Strike Team Archetype Manual | Standard 4-warden Facility 01 loadout (Vanguard Shield, Acoustic Siphon, Core Striker, Cryo-Anchor). |
+| [`SQUAD_ARCHETYPE_UCD_PACIFICATION.md`](SQUAD_ARCHETYPE_UCD_PACIFICATION.md) | Strike Team Archetype Manual | Underworld Cleanup Descend 4-breacher urban CQB pacification cadre (Heavy Breacher, Debt Cauterizer, CQB Enforcer, Harpoon Wincher). |
 | [`CYCLE_ENGRAM_SYSTEM.md`](CYCLE_ENGRAM_SYSTEM.md) | Identity Attunement Framework | Canonical 1,778-cycle historical engrams modifying Speed Bands, Action Slots, and P1 Passives across operatives. |
 | [`ECHO_CORE_REALIZATION_SYSTEM.md`](ECHO_CORE_REALIZATION_SYSTEM.md) | Departmental Realization Wars | Four-phase psychological catharsis engine, Sorrow Inversion meltdowns, dialogue scripts, and sovereign engrams. |
 
@@ -114,7 +115,7 @@ The following battle scenarios, boss mechanics folios, and squad guides are slat
 
 ### 4.3 Squad Archetype & Doctrine Manuals (`SQUAD_*.md`)
 1. `SQUAD_ARCHETYPE_REVERIE_CONTAINMENT.md`: [COMPLETED] Standard 4-warden Facility 01 loadout (Vanguard Shield, Acoustic Siphon, Core Striker, Cryo-Anchor).
-2. `SQUAD_ARCHETYPE_UCD_PACIFICATION.md`: Heavy kinetic and breach-loadout configurations for close-quarters undercity pacifications.
+2. `SQUAD_ARCHETYPE_UCD_PACIFICATION.md`: [COMPLETED] Heavy kinetic and breach-loadout configurations for close-quarters undercity pacifications (Heavy Breacher, Debt Cauterizer, CQB Enforcer, Harpoon Wincher).
 
 ---
 

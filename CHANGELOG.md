@@ -8,6 +8,15 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Add Squad Archetype Manual: UCD Close-Quarters Pacification Cadre (`GAME_BATTLE/SQUAD_ARCHETYPE_UCD_PACIFICATION.md`)** —
+  - Codified the definitive tactical squad manual for the Underworld Cleanup Descend close-quarters combat squad ("The Breacher Quad" / "The Slum Sweepers") in `GAME_BATTLE/SQUAD_ARCHETYPE_UCD_PACIFICATION.md` (SOP-GB-SQUAD-002).
+  - Detailed the quadripartite specialist operative roster: Heavy Breacher (Kang / Hydraulic Wall-Breaker), Debt Cauterizer (Yuna / Needle Warren Cauterizer), CQB Enforcer (Jin / Slum Alleyway Sweeper), and Harpoon Wincher (Doyun / Heavy Cable Drag Line).
+  - Formulated the 10-node spatial grid deployment formations (Corridor Sweeper Formation and Breach-and-Clear Penetration Wedge), 6-turn macro-phase combo rotations, and Mnemonic Cycle Engram attunements (Cycle Engrams 712, 1,304, 988, and 1,510).
+  - Specified standard Grade 4 and Grade 5 M.A.W. equipment loadouts (`MAW-W-FRAY The Hydraulic Slag-Breaker`, `MAW-S-FRAY Heavy Kinetic Breacher Plating`, `MAW-W-015 The Cauterizing Torch`, `MAW-S-015 The Asbestos Veil`, `MAW-W-021 Dual Trench Shotguns`, `MAW-S-021 Reinforced Trench Coat`, and `MAW-W-016 Pneumatic Harpoon Rig`).
+  - Documented undercity pacification standard operating protocols across syndicate barricades, contraband forge cleanses, and deep-slum hazard extractions.
+  - Completes Section 4.3 Squad Archetype Manuals (2/2, 100.0%) and brings the entire Master Roadmap to 100.0% completion (10/10 deliverables finished).
+  - Updated `GAME_BATTLE/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Add Squad Archetype Manual: Reverie Directorate Containment Cadre (`GAME_BATTLE/SQUAD_ARCHETYPE_REVERIE_CONTAINMENT.md`)** —
   - Codified the definitive tactical squad manual for the standard 4-warden Facility 01 containment cadre ("The Iron Quad") in `GAME_BATTLE/SQUAD_ARCHETYPE_REVERIE_CONTAINMENT.md` (SOP-GB-SQUAD-001).
   - Detailed the complementary quadripartite operative roster: Vanguard Shield (Warden Min-Jae / Bastion Anchor), Acoustic Siphon (Specialist Seol-A / Frequency Controller), Core Striker (Vanguard Taeho / Precision Part Breaker), and Cryo-Anchor (Marksman Ha-Eun / Sub-Zero Artillery).
