@@ -4,15 +4,18 @@ tools/box_formatter.py — Canonical Text Box & Borderless Banner Generator
 Project Somnarak Non-Wiki Archive
 
 Enforces strict compliance with Project Somnarak and Arena.ai Chatroom standards:
-1. Enclosed ASCII Boxes (+ and | borders):
-   - Standard width: 71 columns (compact/mobile safe).
-   - Hard upper ceiling: 74 columns (prevents Arena.ai chatroom viewport auto-wrap down).
-   - Counts all rows in the box, benchmarks against the longest row, and pads shorter rows.
-   - Long lines wrap into visual sub-rows at word boundaries rather than truncating tokens.
+1. Arena.ai Chatroom Standard (Width: EXACTLY 47 COLUMNS):
+   - Command: --chatroom or --width 47.
+   - Total width: 47 columns (+ + 45 =/- + +).
+   - Inner content width: 43 columns (| + space + 41 chars + space + |).
+   - Prevents all line-wrapping and crooked borders on mobile and narrow viewports.
+2. Enclosed ASCII Boxes in Markdown Files:
+   - Standard width: 71 columns (compact/desktop standard).
+   - Counts all rows, benchmarks against the longest row, and pads shorter rows.
+   - Long lines wrap into visual sub-rows at word boundaries without truncation.
    - Fully CJK / East Asian Width aware (proper display width padding).
-2. Borderless Banners (no side borders):
-   - Top and bottom horizontal borders are made EXACTLY 74 characters long ("=" * 74).
-   - Horizontal dividers are made EXACTLY 74 characters long ("-" * 74).
+3. Borderless Banners:
+   - Width: 47 cols (chatroom) or 74 cols (file banner).
 """
 
 import re
@@ -63,10 +66,6 @@ def _process_row(r, max_len):
     if r_strip.startswith("==="):
         return ["==="]
     
-    # Stage node diagram line
-    if "[N01]" in r and ("---" in r or "[N10]" in r or "[N0" in r):
-        return ["    [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]    "]
-    
     # Fits on one line
     if get_display_width(r) <= max_len:
         return [r]
@@ -75,14 +74,20 @@ def _process_row(r, max_len):
     if r_strip.startswith("[") and not r_strip.startswith("- "):
         parts = re.findall(r"\s*\[[^\]]+\]", r)
         if parts:
-            compact = "".join(parts).strip()
-            if get_display_width(compact) <= max_len:
-                return [compact]
-            else:
-                mid = len(parts) // 2
-                p1 = "".join(parts[:mid]).strip()
-                p2 = "".join(parts[mid:]).strip()
-                return [p1, p2]
+            lines = []
+            cur = ""
+            for p in parts:
+                p_clean = p.strip()
+                if not cur:
+                    cur = p_clean
+                elif get_display_width(cur) + 1 + get_display_width(p_clean) <= max_len:
+                    cur += " " + p_clean
+                else:
+                    lines.append(cur)
+                    cur = p_clean
+            if cur:
+                lines.append(cur)
+            return lines if lines else [r[:max_len]]
     
     # Pipe-separated table/status row
     if " | " in r:
@@ -102,16 +107,18 @@ def _process_row(r, max_len):
     indent = "  " if r_strip.startswith("- ") else ""
     return wrap_text_display_width(r, max_len, indent)
 
-def make_box(title, raw_rows, width=71, max_width=74):
+def make_box(title, raw_rows, width=47, max_width=None):
     """
     Builds a symmetrical ASCII text box.
-    - Clamped to max_width (default 74 cols max for Arena.ai chatroom compliance).
-    - Counts all rows, benchmarks against the longest row, and pads shorter rows.
+    - If width=47, guarantees EXACT 47-column width for Arena.ai chatroom viewports.
+    - Counts all rows, benchmarks against the target width, and pads shorter rows.
     - Wraps overflowing content cleanly across sub-rows without token truncation.
     """
-    if width > max_width:
+    if max_width is not None and width > max_width:
         width = max_width
-    max_len = width - 4
+
+    target_inner_dw = width - 4
+    max_len = target_inner_dw
 
     formatted_rows = []
     for r in raw_rows:
@@ -121,18 +128,7 @@ def make_box(title, raw_rows, width=71, max_width=74):
         else:
             formatted_rows.extend(_process_row(str(r), max_len))
 
-    # COUNT ALL ROWS: Compute display width of all content rows and title
-    row_dws = [get_display_width(fr) for fr in formatted_rows if fr not in ("---", "===")]
-    title_dw = get_display_width(f" {title.strip()} ") if title else 0
-    max_content_dw = max(row_dws, default=0)
-    longest_needed_dw = max(max_content_dw, title_dw)
-
-    # Determine inner target display width (benchmark against longest row, bounded by max_width - 4)
-    target_inner_dw = max(max_len, longest_needed_dw)
-    if target_inner_dw + 4 > max_width:
-        target_inner_dw = max_width - 4
-    
-    actual_box_width = target_inner_dw + 4
+    actual_box_width = width
 
     top = "+" + "=" * (actual_box_width - 2) + "+"
     bottom = "+" + "=" * (actual_box_width - 2) + "+"
@@ -142,6 +138,9 @@ def make_box(title, raw_rows, width=71, max_width=74):
     if title:
         t_clean = f" {title.strip()} "
         cur_t_dw = get_display_width(t_clean)
+        if cur_t_dw > (actual_box_width - 2):
+            t_clean = t_clean[:(actual_box_width - 2)]
+            cur_t_dw = get_display_width(t_clean)
         diff = (actual_box_width - 2) - cur_t_dw
         left_pad = max(diff // 2, 0)
         right_pad = max(diff - left_pad, 0)
@@ -159,11 +158,10 @@ def make_box(title, raw_rows, width=71, max_width=74):
     out.append(bottom)
     return "\n".join(out)
 
-def make_borderless_banner(title, rows=None, width=74):
+def make_borderless_banner(title, rows=None, width=47):
     """
     Builds a borderless ASCII banner or divider.
-    Per Arena.ai Chatroom Law: If a banner does not have left and right borders,
-    its top and bottom horizontal borders are made EXACTLY 74 characters long.
+    Defaults to width=47 for chatroom, or 74 for file banners.
     """
     top = "=" * width
     bottom = "=" * width
@@ -172,6 +170,9 @@ def make_borderless_banner(title, rows=None, width=74):
     if title:
         t_clean = f" {title.strip()} "
         cur_dw = get_display_width(t_clean)
+        if cur_dw > width:
+            t_clean = t_clean[:width]
+            cur_dw = get_display_width(t_clean)
         diff = max(width - cur_dw, 0)
         left = diff // 2
         right = diff - left
@@ -190,26 +191,29 @@ def make_borderless_banner(title, rows=None, width=74):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Format text into symmetrical ASCII boxes (<= 74 cols) or borderless banners (74 cols)"
+        description="Format text into symmetrical ASCII boxes (47 cols chatroom / 71 cols file)"
     )
     parser.add_argument("--title", default="", help="Box or banner title")
-    parser.add_argument("--width", type=int, default=71, help="Box width in columns (default: 71, max: 74)")
-    parser.add_argument("--banner", action="store_true", help="Generate borderless banner (exactly 74 columns)")
+    parser.add_argument("--chatroom", action="store_true", help="Force exact 47-column chatroom width")
+    parser.add_argument("--width", type=int, default=47, help="Box width in columns (default: 47)")
+    parser.add_argument("--banner", action="store_true", help="Generate borderless banner")
     parser.add_argument("--text", nargs="+", help="Content lines to format")
     args = parser.parse_args()
 
+    width = 47 if args.chatroom else args.width
+
     lines = args.text if args.text else [
         "Project Somnarak Non-Wiki Archive",
-        "Dual-Environment Typography & Viewport Standard",
+        "Arena.ai Chatroom Standard: 47 Columns",
         "---",
-        "Compact Box Width : <= 74 characters max (safe for Arena.ai chatroom auto-wrap)",
-        "Borderless Banner : exactly 74 characters long for top and bottom borders"
+        "Status: 100% Monospace Precision",
+        "Zero crooked lines across all viewports"
     ]
 
     if args.banner:
-        result = make_borderless_banner(args.title or "PROJECT SOMNARAK DISPATCH", lines, width=74)
+        result = make_borderless_banner(args.title or "PROJECT SOMNARAK DISPATCH", lines, width=width)
     else:
-        result = make_box(args.title or "PROJECT SOMNARAK HUD", lines, width=args.width, max_width=74)
+        result = make_box(args.title or "PROJECT SOMNARAK HUD", lines, width=width)
 
     print("```text")
     print(result)

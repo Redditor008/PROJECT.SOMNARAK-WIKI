@@ -268,4 +268,12 @@ If a session breaks down, encounters context limits, or transfers to a successor
 4. **Zero Formatting Leaks:** Zero raw HTML line-break tags, zero LaTeX math dollar signs.
 5. **Zero PM Terminology Leaks:** Strictly Somnarak-native terminology (Sorrow Entities, M.A.W., Composure, Meltdown, Wardens, Enforcers).
 
+### 7.8 Universal Chatroom Text Box Rule (47 Columns Exact)
+- **User Directive:** "Also Just Always Do 47 Box For The Chatroom Because You Always Fail To Deliver I Still See Many Crooked Line And Border"
+- **Mandatory Specification:** In all assistant chatroom responses, all ASCII text boxes must be formatted to **EXACTLY 47 columns wide** (`width=47`, e.g. `+` + 45 `=` + `+`).
+- **No Line-Wrapping:** Standard 71-column or 74-column boxes soft-wrap on narrow mobile or split chat screens in Arena.ai, causing crooked borders and broken rows. Setting width to exactly 47 ensures zero line-wrapping and 100% geometric symmetry on all viewports.
+- **Strict Character Rule:** Never use Korean Hangul inside ASCII boxes (only Korean Alphabet Romanization / Romaja), ensuring 1-to-1 character-to-column monospace alignment.
+
+---
+
 **If any instruction in this file conflicts with `RULE-TO-FOLLOW.md` v2, `RULE-TO-FOLLOW.md` wins.**

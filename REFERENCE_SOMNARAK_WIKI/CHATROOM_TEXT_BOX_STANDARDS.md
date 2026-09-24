@@ -25,33 +25,33 @@ NEVER output raw text boxes or tables without ``` code fences!
 | **Enclosure** | **Fenced Code Block (``` ... ```)** | Mandatory. Prevents whitespace stripping and proportional font misalignment. |
 | **Use Unicode symbols for borders** | **[No]** | Pure standard ASCII only (`+`, `-`, `|`, `=`). Eliminates font rendering glitches. |
 | **Syntax Standard** | **reStructuredText [Yes]** | Clean grid table structure with `+===+===+` headers and `+---+---+` row dividers. |
-| **Max Row Character Limit** | **48 Characters Max** | Universal ceiling ensuring zero line-wrapping or horizontal scroll on mobile and Arena.ai split chat screens. |
+| **Max Row Character Limit** | **47 Characters Exact** | Hard universal standard (47 columns) ensuring zero line-wrapping or horizontal scroll on mobile and Arena.ai split chat viewports. |
 
 ---
 
-## 3. Reference Blueprints (48 Characters Exact Width)
+## 3. Reference Blueprints (47 Characters Exact Width)
 
-### A. Single Text Box (Width: Exactly 48 Chars)
+### A. Single Text Box (Width: Exactly 47 Chars)
 ```
-+----------------------------------------------+
-| HEADER TITLE (PADDED TO 46 INNER CHARS)      |
-+==============================================+
-| Line content goes here                       |
-| Another row of text                          |
-+----------------------------------------------+
++=============================================+
+| HEADER TITLE (PADDED TO 43 INNER CHARS)     |
++---------------------------------------------+
+| Line content goes here                      |
+| Another row of text                         |
++=============================================+
 ```
 
-### B. Multi-Column Grid Table (Width: Exactly 48 Chars)
+### B. Multi-Column Grid Table (Width: Exactly 47 Chars)
 ```
-+----------------+-----------------------------+
-| Header A       | Header B                    |
-+================+=============================+
-| Item 01        | Description text goes here  |
-+----------------+-----------------------------+
-| Item 02        | Another entry               |
-+----------------+-----------------------------+
++---------------+-----------------------------+
+| Header A      | Header B                    |
++===============+=============================+
+| Item 01       | Description text goes here  |
++---------------+-----------------------------+
+| Item 02       | Another entry               |
++---------------+-----------------------------+
 ```
-*(Width math: 1 + 16 + 1 + 29 + 1 = 48 characters total)*
+*(Width math: 1 + 15 + 1 + 29 + 1 = 47 characters total)*
 
 ---
 
