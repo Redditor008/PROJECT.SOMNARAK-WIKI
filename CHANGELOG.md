@@ -8,6 +8,13 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Add Canonical Scenario 05: Horizon Caravan Leviathan Siege (`GAME_BATTLE/SCENARIO_05_HORIZON_CARAVAN_LEVIATHAN_SIEGE.md`)** —
+  - Codified the full 6-turn canonical tactical scenario depicting Horizon Caravan Arc 2 (The Desolate Crossing / Sea of Vitrified Glass) in `GAME_BATTLE/SCENARIO_05_HORIZON_CARAVAN_LEVIATHAN_SIEGE.md` (SOP-GB-SCENARIO-005).
+  - Implemented the 10-node spatial engagement corridor (Drift Throne Starboard Apron to Glass Dunes, Km 720), singing glass sandstorm abrasive hazards, and crawler forward speed bonuses.
+  - Featured modular part rupture dynamics against `SECC-088 The Titanic Glass Burrower` (Vitreous Mandibles, Vitrified Carapace, Siphon Resonance Heart), heavy pneumatic ballista cable locks, and terminal Composure meltdown.
+  - Detailed the Caravan Starboard Defense Crew: Commander Kael, Master Wright Gwan, Gunner Hwaran, and Ley-Seer Sora, showcasing heavy hydraulic pile-bunkers and pneumatic harpoons.
+  - Updated `GAME_BATTLE/README.md`, root `README.md`, and `DEVELOPMENT.md`.
+
 - **Add Canonical Scenario 04: SED Sunken Aqueduct Descent (`GAME_BATTLE/SCENARIO_04_SED_SUNKEN_AQUEDUCT_DESCENT.md`)** —
   - Codified the full 6-turn canonical tactical scenario depicting Somnarak Exploration Decree (SED) Katabagil Passage 1 (Cryptasu / The Flooded Catacomb) in `GAME_BATTLE/SCENARIO_04_SED_SUNKEN_AQUEDUCT_DESCENT.md` (SOP-GB-SCENARIO-004).
   - Implemented the 10-node spatial engagement corridor (Strata 1 Sub-Municipal Karst, Culvert Gate 04 Threshold, Depth -150m), submerged basin movement penalties, and geyser vent hazards.

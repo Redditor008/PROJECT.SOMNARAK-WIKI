@@ -68,6 +68,7 @@ PROJECT.SOMNARAK-WIKI/ (Branch: NON-WIKI)
 │   ├── SCENARIO_02_CONTAINMENT_BREACH_FLOOR_02.md # Full 6-turn containment breach suppression on Floor 2
 │   ├── SCENARIO_03_UNDERWORLD_RUST_VEIL_PURGE.md # Full 6-turn UCD undercity sweep vs Fray construct
 │   ├── SCENARIO_04_SED_SUNKEN_AQUEDUCT_DESCENT.md # Full 6-turn SED deep-karst descent vs Drowned Guardian
+│   ├── SCENARIO_05_HORIZON_CARAVAN_LEVIATHAN_SIEGE.md # Full 6-turn Drift Throne defense vs Glass Burrower
 │   ├── CYCLE_ENGRAM_SYSTEM.md              # 1,778-cycle historical engram attunement & stat shifting framework
 │   └── ECHO_CORE_REALIZATION_SYSTEM.md      # 4-phase departmental trauma battles & resonant catharsis engine
 │
