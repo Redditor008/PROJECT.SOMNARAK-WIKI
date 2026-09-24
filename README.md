@@ -330,6 +330,7 @@ The repository root houses the dedicated `GAME_BATTLE/` operational suite, servi
 | [`GAME_BATTLE/BATTLE_SCENARIO_TEMPLATE.md`](GAME_BATTLE/BATTLE_SCENARIO_TEMPLATE.md) | Standardized Production Template | Ready-to-use markdown template with pre-aligned ASCII HUDs, rosters, turn tables, and phase-end blocks. |
 | [`GAME_BATTLE/CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md`](GAME_BATTLE/CANONICAL_ENCOUNTER_01_GRIEVING_COLOSSUS.md) | Canonical Combat Scenario | Full 6-turn combat engagement demonstrating Strike Team Alpha vs `SE-C-Vδ-002 The Grieving Colossus`. |
 | [`GAME_BATTLE/CYCLE_ENGRAM_SYSTEM.md`](GAME_BATTLE/CYCLE_ENGRAM_SYSTEM.md) | Identity Attunement Framework | Canonical 1,778-cycle historical engrams modifying Speed Bands, Action Slots, and P1 Passives across operatives. |
+| [`GAME_BATTLE/SCENARIO_REALIZATION_FLOOR_02_DEKAN.md`](GAME_BATTLE/SCENARIO_REALIZATION_FLOOR_02_DEKAN.md) | Sovereign Realization Scenario | Full 4-phase Floor 02 Realization: The Iron Quad vs Echo-Core 3 Lead Dekan (The Maw's Keep). |
 
 ### Core Mechanics Standardized in `GAME_BATTLE/`:
 - **10-Node Linear Engagement Grid (`[N01]` to `[N10]`):** Discrete spatial line governing Range Bands 1 to 5, movement costs (1 AP per node), and flanking pincer bonuses (+25% kinetic damage).

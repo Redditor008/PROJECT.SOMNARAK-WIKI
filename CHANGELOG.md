@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Add Departmental Realization Boss Scenario: Floor 02 — Dekan (`GAME_BATTLE/SCENARIO_REALIZATION_FLOOR_02_DEKAN.md`)** —
+  - Codified the canonical four-phase Resonant Realization War (Phase 1: Denial, Phase 2: Anger, Phase 3: Bargaining, Phase 4: Catharsis) for Echo-Core 3 Lead Dekan (Floor 02: The Maw's Keep).
+  - Documented the full 10-node spatial combat grid in the subterranean containment amphitheater (-1,200m), featuring Strike Team Alpha (The Iron Quad) confronting Dekan's Sorrow Inversion Meltdown.
+  - Implemented the complete 6-turn combat log for Phase 4, detailing Speed-to-AP allocation, [Citadel Redoubt], [Ancestral Sunder], and the climactic [Citadel Sunder Parry] (Clash Power 46 vs 34) that shatters the trauma vessel without lethal damage.
+  - Formatted all text boxes to enforce the rule: strictly zero Korean Hangul characters inside ASCII boxes (only Korean Alphabet Romanization/Romaja), with all outside Korean Hangul buffered by two spaces (`  [korean]  `).
+  - Audited and verified zero P.M. crossover vocabulary and awarded `Key Page: The Containment Sovereign (Dekan)`.
+  - Updated `GAME_BATTLE/README.md`, root `README.md`, and `SESSION_BREAK_PRECAUTION.md`.
+
 - **Complete Character Story Cantos Suite: Add Canto VI — The Slum Breacher (`CANTO_06_THE_SLUM_BREACHER_KANG.md`)** —
   - Authored the final literary novella chapter for Canto VI (26.0 KB), completing all six protagonist story cantos (100.0% completion).
   - Centered on Chief Breacher Kang (The Ram / Urban Demolition), his origin in the Zone B Mask Market, and the conflict between underworld brotherhood and municipal duty.
