@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### Added
 
+- **Add Character Story Canto V: Suture of Lost Pages (`CANTO_05_SUTURE_OF_LOST_PAGES_SEIYON.md`)** —
+  - Authored the full literary novella chapter for Canto V (26.4 KB), centering on Echo-Core 2 Secretary Seiyon (The Scribe / Central Recorder) and the crushing cumulative memory load of 1,778 historical cycles (34,216 personnel records).
+  - Explored the Sub-Alpha Memory Spire (-520m), the M.A.W. weapon `The Forgotten Lens` (`MAW-W-009-01`), and the moral agony of machine memory versus human amnesia.
+  - Featured the Vault 09 catastrophic breach of `SE-C-IVγ-009 The Memory Weaver` (Void element, Major Potency γ) and its cognitive thread unraveling.
+  - Implemented the 10-node spatial engagement across Turns 1 through 6, culminating in Seiyon speaking the first casualty roll call via [The Suture of Truth] and executing [The Final Suture] to restore the archive.
+  - Addressed the Korean vocabulary notation by seamlessly pairing Korean Hangul with root Hanja/Kanji brackets `[Kanji]` (e.g. `  세이연  [世研]`, `  기억 저장소  [記憶貯藏所]`), strictly maintaining the two-space buffer and zero P.M. vocabulary.
+  - Updated `SOMNARAK-WORLD/Story_Cantos/README.md`, `SOMNARAK-WORLD/README.md`, and root `README.md`.
+
 - **Add Character Story Canto IV: The Sub-Zero Ridge (`CANTO_04_THE_SUB_ZERO_RIDGE_HA_EUN.md`)** —
   - Authored the full literary novella chapter for Canto IV (26.3 KB), focusing on Marksman Ha-Eun (The Needle / Cryo-Sniper), her solitary vigils at Outpost E-09 (-40°C to -68°C), and her voluntary emotional hypothermia.
   - Explored the M.A.W. weapon `The Cold Lens` (`MAW-W-103-01`), the sacrifice of warm memories to fuel Void piercing rounds, and the mandatory relationship anchor rule.
