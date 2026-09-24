@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PROJECT SOMNARAK // THE ABSOLVOHAN FRONT PORTAL</title>
+  <style>
+    :root {
+      --bg-dark: #0a0c10;
+      --bg-panel: #11151c;
+      --bg-card: #161b22;
+      --border-color: #30363d;
+      --border-glow: #1f6feb;
+      --text-main: #e6edf3;
+      --text-muted: #8b949e;
+      --accent-cyan: #38bdf8;
+      --accent-crimson: #f43f5e;
+      --accent-amber: #fbbf24;
+      --accent-purple: #a855f7;
+      --accent-green: #22c55e;
+      --font-mono: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+      --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-dark);
+      color: var(--text-main);
+      font-family: var(--font-sans);
+      line-height: 1.6;
+      padding: 0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Top Ticker Bar */
+    .top-bar {
+      background: #0d1117;
+      border-bottom: 1px solid var(--border-color);
+      padding: 8px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-family: var(--font-mono);
+      font-size: 0.82rem;
+      letter-spacing: 0.05em;
+    }
+
+    .top-bar .cycle-tag {
+      color: var(--accent-cyan);
+      font-weight: bold;
+    }
+
+    .top-bar .status-ticker {
+      color: var(--accent-green);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .pulse-dot {
+      width: 8px;
+      height: 8px;
+      background: var(--accent-green);
+      border-radius: 50%;
+      box-shadow: 0 0 8px var(--accent-green);
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0% { opacity: 1; }
+      50% { opacity: 0.3; }
+      100% { opacity: 1; }
+    }
+
+    /* Header Nav */
+    header {
+      background: rgba(17, 21, 28, 0.95);
+      backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--border-color);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 16px 32px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo-area {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .logo-area h1 {
+      font-family: var(--font-mono);
+      font-size: 1.4rem;
+      letter-spacing: 0.15em;
+      color: #ffffff;
+      text-transform: uppercase;
+    }
+
+    .logo-area .sub {
+      font-size: 0.75rem;
+      color: var(--accent-crimson);
+      font-family: var(--font-mono);
+      letter-spacing: 0.2em;
+    }
+
+    nav {
+      display: flex;
+      gap: 16px;
+    }
+
+    nav a {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-family: var(--font-mono);
+      font-size: 0.85rem;
+      padding: 6px 12px;
+      border-radius: 4px;
+      border: 1px solid transparent;
+      transition: all 0.2s ease;
+    }
+
+    nav a:hover, nav a.active {
+      color: var(--accent-cyan);
+      border-color: var(--border-glow);
+      background: rgba(56, 189, 248, 0.08);
+    }
+
+    nav a.highlight-wiki {
+      color: var(--accent-amber);
+      border-color: rgba(251, 191, 36, 0.4);
+      background: rgba(251, 191, 36, 0.05);
+    }
+
+    nav a.highlight-wiki:hover {
+      background: rgba(251, 191, 36, 0.15);
+      border-color: var(--accent-amber);
+    }
+
+    /* Hero Section */
+    .hero {
+      padding: 64px 32px 48px;
+      text-align: center;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .hero-badge {
+      display: inline-block;
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      color: var(--accent-cyan);
+      background: rgba(56, 189, 248, 0.1);
+      border: 1px solid rgba(56, 189, 248, 0.3);
+      padding: 4px 14px;
+      border-radius: 12px;
+      margin-bottom: 20px;
+      letter-spacing: 0.1em;
+    }
+
+    .hero h2 {
+      font-size: 2.8rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      margin-bottom: 16px;
+      background: linear-gradient(135deg, #ffffff 40%, #94a3b8 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .hero p {
+      font-size: 1.15rem;
+      color: var(--text-muted);
+      max-width: 820px;
+      margin: 0 auto 32px;
+    }
+
+    .metrics-strip {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 16px;
+      margin-top: 32px;
+      text-align: left;
+    }
+
+    .metric-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      padding: 16px 20px;
+      border-radius: 6px;
+    }
+
+    .metric-card .num {
+      font-family: var(--font-mono);
+      font-size: 1.6rem;
+      font-weight: bold;
+      color: var(--text-main);
+    }
+
+    .metric-card .label {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    /* Pillars Grid */
+    .pillars-section {
+      max-width: 1280px;
+      margin: 0 auto 64px;
+      padding: 0 32px;
+      width: 100%;
+    }
+
+    .section-title {
+      font-family: var(--font-mono);
+      font-size: 1.1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      color: var(--accent-cyan);
+      margin-bottom: 24px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .section-title::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--border-color);
+    }
+
+    .grid-pillars {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+      gap: 24px;
+    }
+
+    .pillar-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      padding: 28px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      position: relative;
+      transition: all 0.25s ease;
+    }
+
+    .pillar-card:hover {
+      border-color: var(--accent-cyan);
+      transform: translateY(-4px);
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4);
+    }
+
+    .pillar-card.featured-wiki {
+      border-color: rgba(251, 191, 36, 0.5);
+      background: linear-gradient(180deg, rgba(251, 191, 36, 0.04) 0%, var(--bg-card) 100%);
+    }
+
+    .pillar-card.featured-wiki:hover {
+      border-color: var(--accent-amber);
+      box-shadow: 0 12px 30px rgba(251, 191, 36, 0.15);
+    }
+
+    .card-top {
+      margin-bottom: 20px;
+    }
+
+    .pillar-num {
+      font-family: var(--font-mono);
+      font-size: 0.8rem;
+      color: var(--accent-cyan);
+      letter-spacing: 0.1em;
+      margin-bottom: 8px;
+    }
+
+    .pillar-card.featured-wiki .pillar-num {
+      color: var(--accent-amber);
+    }
+
+    .pillar-card h3 {
+      font-size: 1.45rem;
+      font-weight: 700;
+      color: #ffffff;
+      margin-bottom: 6px;
+    }
+
+    .pillar-card .korean-sub {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+    }
+
+    .pillar-card p {
+      font-size: 0.95rem;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+
+    .quick-tags {
+      margin: 18px 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .quick-tag {
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      padding: 3px 8px;
+      background: #0d1117;
+      border: 1px solid var(--border-color);
+      border-radius: 4px;
+      color: var(--text-muted);
+    }
+
+    .card-bottom a {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-family: var(--font-mono);
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: var(--accent-cyan);
+      text-decoration: none;
+      padding: 10px 16px;
+      background: rgba(56, 189, 248, 0.08);
+      border: 1px solid rgba(56, 189, 248, 0.3);
+      border-radius: 4px;
+      transition: all 0.2s ease;
+      width: 100%;
+      justify-content: center;
+    }
+
+    .pillar-card.featured-wiki .card-bottom a {
+      color: var(--accent-amber);
+      background: rgba(251, 191, 36, 0.08);
+      border-color: rgba(251, 191, 36, 0.4);
+    }
+
+    .card-bottom a:hover {
+      background: rgba(56, 189, 248, 0.2);
+      border-color: var(--accent-cyan);
+    }
+
+    .pillar-card.featured-wiki .card-bottom a:hover {
+      background: rgba(251, 191, 36, 0.2);
+      border-color: var(--accent-amber);
+    }
+
+    /* Footer */
+    footer {
+      background: #0d1117;
+      border-top: 1px solid var(--border-color);
+      padding: 32px;
+      margin-top: auto;
+      text-align: center;
+      font-family: var(--font-mono);
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+
+    footer p {
+      margin-bottom: 8px;
+    }
+
+    footer .version-tag {
+      color: var(--accent-cyan);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Operational Ticker -->
+  <div class="top-bar">
+    <div class="cycle-tag">CYCLE 1,778 // THE ABSOLVOHAN OPERATIONAL CONTROL</div>
+    <div class="status-ticker">
+      <div class="pulse-dot"></div>
+      <span>ATMOSPHERIC WATCH: LEVEL 1 — STABLE (292 ENTITIES SECURED)</span>
+    </div>
+  </div>
+
+  <!-- Header Navigation -->
+  <header>
+    <div class="logo-area">
+      <h1>Project Somnarak</h1>
+      <span class="sub">THE ABSOLVOHAN // MASTER ARCHIVES</span>
+    </div>
+    <nav>
+      <a href="#wiki">Wiki</a>
+      <a href="#story">Story</a>
+      <a href="#game">Game</a>
+      <a href="game-wiki/index.html" class="highlight-wiki">Game Wiki</a>
+      <a href="#collection">Collection</a>
+    </nav>
+  </header>
+
+  <!-- Hero Banner -->
+  <section class="hero">
+    <div class="hero-badge">THE ABSOLVOHAN MASTER PORTAL // GITHUB PAGES ROOT</div>
+    <h2>Contain Sorrow. Refine Han. Endure the Cycles.</h2>
+    <p>
+      Deep beneath Somnarak City lies The Absolvohan — a colossal subterranean containment monolith where human sorrow manifests as volatile entities. Navigate through encyclopedic archives, dramaturgical chronicles, tactical combat simulators, Project Moon style game wikis, and the complete 292 Sorrow Entity vault.
+    </p>
+
+    <!-- Audited Status Strip -->
+    <div class="metrics-strip">
+      <div class="metric-card">
+        <div class="num" style="color: var(--accent-cyan);">292 / 292</div>
+        <div class="label">Sorrow Entities Audited (100%)</div>
+      </div>
+      <div class="metric-card">
+        <div class="num" style="color: var(--accent-green);">131 / 131</div>
+        <div class="label">Two-Work-Type Rules (100%)</div>
+      </div>
+      <div class="metric-card">
+        <div class="num" style="color: var(--accent-amber);">287+ SVG</div>
+        <div class="label">M.A.W. Armory Weapons</div>
+      </div>
+      <div class="metric-card">
+        <div class="num" style="color: var(--accent-purple);">1,778</div>
+        <div class="label">Mnemonic Cycles Logged</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Five Pillars Section -->
+  <section class="pillars-section">
+    <div class="section-title">The Five Master Gateway Pillars (5대 기둥 체제)</div>
+
+    <div class="grid-pillars">
+      
+      <!-- Pillar 1: WIKI -->
+      <div class="pillar-card" id="wiki">
+        <div class="card-top">
+          <div class="pillar-num">PILLAR 01 // ENCYCLOPEDIA</div>
+          <h3>WIKI HUB</h3>
+          <div class="korean-sub">백과사전 포털 · Baekgwasajeon Poteol</div>
+          <p>
+            The comprehensive municipal knowledge base. Contains setting cosmology, SECC classification codices (Forms, Ranks I–V, Potency α–ω), the 5 Syndicates of The Raw, 10 Specialist Cadres, and the 19-section Somnarak vs. Lobotomy Corporation Comparative Guide.
+          </p>
+          <div class="quick-tags">
+            <span class="quick-tag">SECC Codex</span>
+            <span class="quick-tag">10 Cadres</span>
+            <span class="quick-tag">5 Syndicates</span>
+            <span class="quick-tag">System Comparison</span>
+          </div>
+        </div>
+        <div class="card-bottom">
+          <a href="../SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md">Enter Wiki Hub &rarr;</a>
+        </div>
+      </div>
+
+      <!-- Pillar 2: STORY -->
+      <div class="pillar-card" id="story">
+        <div class="card-top">
+          <div class="pillar-num">PILLAR 02 // NARRATIVE</div>
+          <h3>STORY HUB</h3>
+          <div class="korean-sub">서사 및 연대기 · Seosa mit Yeondaegi</div>
+          <p>
+            The dramaturgical narrative vault. Explore historical logs across the 1,778 Mnemonic Cycles of The Absolvohan, SED and UCD field operational campaigns, 4-phase Echo-Core Realization Wars, and the 8-scene synchronized Animatic MAD script ("Nee, Dorodoro-san").
+          </p>
+          <div class="quick-tags">
+            <span class="quick-tag">1,778 Cycles</span>
+            <span class="quick-tag">SED Arcs 1-7</span>
+            <span class="quick-tag">Realization Wars</span>
+            <span class="quick-tag">Animatic Script</span>
+          </div>
+        </div>
+        <div class="card-bottom">
+          <a href="../TRYOUT,SANDBOX/PROJECT.SOMNARAK-Animatic-Text.txt">Enter Story Hub &rarr;</a>
+        </div>
+      </div>
+
+      <!-- Pillar 3: GAME -->
+      <div class="pillar-card" id="game">
+        <div class="card-top">
+          <div class="pillar-num">PILLAR 03 // SIMULATOR</div>
+          <h3>GAME HUB</h3>
+          <div class="korean-sub">전술 시뮬레이터 · Jeonsul Simyulleisyeon</div>
+          <p>
+            Interactive tactical combat and containment engine. Engage with the 10-Node spatial grid battlefield, dynamic Speed-based action slots, clash calculation algorithms, containment protocols with strict Two-Work enforcement, and Grade 1–5 Workshop forging.
+          </p>
+          <div class="quick-tags">
+            <span class="quick-tag">10-Node Grid</span>
+            <span class="quick-tag">Action Slots</span>
+            <span class="quick-tag">Clash Engine</span>
+            <span class="quick-tag">Workshop Forging</span>
+          </div>
+        </div>
+        <div class="card-bottom">
+          <a href="#game">Launch Tactical Simulator &rarr;</a>
+        </div>
+      </div>
+
+      <!-- Pillar 4: GAME WIKI (Featured Moon-Style Wiki Hub) -->
+      <div class="pillar-card featured-wiki" id="game-wiki">
+        <div class="card-top">
+          <div class="pillar-num">PILLAR 04 // MECHANICS COMPENDIUM</div>
+          <h3>GAME WIKI HUB</h3>
+          <div class="korean-sub">게임 위키 포털 · P.M. Wiki.gg / Fandom Style</div>
+          <p>
+            Full-scale gaming mechanics database modeled directly after Project Moon wikis across <strong>wiki.gg</strong> and <strong>Fandom</strong>. Detailed game guides for <strong>Lobotomy Corporation</strong>, <strong>Library of Ruina</strong>, <strong>Limbus Company</strong>, and <strong>Project Somnarak</strong> native game systems.
+          </p>
+          <div class="quick-tags">
+            <span class="quick-tag" style="border-color: var(--accent-amber); color: var(--accent-amber);">Lobotomy Corp</span>
+            <span class="quick-tag" style="border-color: var(--accent-amber); color: var(--accent-amber);">Library of Ruina</span>
+            <span class="quick-tag" style="border-color: var(--accent-amber); color: var(--accent-amber);">Limbus Company</span>
+            <span class="quick-tag" style="border-color: var(--accent-amber); color: var(--accent-amber);">Somnarak Systems</span>
+          </div>
+        </div>
+        <div class="card-bottom">
+          <a href="game-wiki/index.html">Access Game Wiki &rarr;</a>
+        </div>
+      </div>
+
+      <!-- Pillar 5: COLLECTION -->
+      <div class="pillar-card" id="collection">
+        <div class="card-top">
+          <div class="pillar-num">PILLAR 05 // SPECIMENS & WEAPONS</div>
+          <h3>COLLECTION HUB</h3>
+          <div class="korean-sub">아카이브 및 무기고 · Akaibeu mit Mugigo</div>
+          <p>
+            The master specimen and equipment archive. Access all 292 individualized Sorrow Entity dossiers, 287+ SVG M.A.W. vector weapon schematics, the 131-relic Tool Abnormality catalog (Cogitopedia format), and full architectural blueprints of Somnarak City.
+          </p>
+          <div class="quick-tags">
+            <span class="quick-tag">292 SE Vault</span>
+            <span class="quick-tag">287+ SVG Weapons</span>
+            <span class="quick-tag">Tool Relics</span>
+            <span class="quick-tag">City Blueprints</span>
+          </div>
+        </div>
+        <div class="card-bottom">
+          <a href="../SOMNARAK-WORLD/Sorrow_Entities/">Explore Collection &rarr;</a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- Global Footer -->
+  <footer>
+    <p>PROJECT SOMNARAK // THE ABSOLVOHAN MONOLITHIC ARCHIVES</p>
+    <p>Branch: <span class="version-tag">arena/01a0b699-project-somnarak-wiki</span> · Canonical Cycle: 1,778 · Verified SE Total: 292</p>
+    <p style="margin-top: 8px; font-size: 0.72rem; color: #484f58;">
+      Compliant with SECC Standards, Two-Work-Type Containment Law & Unified Project Moon System Translation.
+    </p>
+  </footer>
+
+</body>
+</html>

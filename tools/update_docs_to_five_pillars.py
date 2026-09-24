@@ -1,4 +1,9 @@
-# /docs ARCHITECTURE & FRONT HOME PAGE PORTAL SPECIFICATION
+import re
+
+readme_path = "docs/README.md"
+spec_path = "docs/FRONT_HOME_PAGE_SPECIFICATION.md"
+
+content = """# /docs ARCHITECTURE & FRONT HOME PAGE PORTAL SPECIFICATION
 ## MASTER ENTRYWAY BLUEPRINT: WIKI · STORY · GAME · GAME WIKI · COLLECTION
 ### GITHUB PAGES PUBLISHING ROOT: `docs/index.html`
 
@@ -192,3 +197,12 @@ It establishes the immediate atmosphere of The Absolvohan (  비탄의 장  , *B
 - [x] Integration with 292 Sorrow Entities, 287+ SVG M.A.W. weapons, and 16 Project Moon research volumes verified.
 - [x] Full PM Wiki.gg & Fandom coverage specified for Lobotomy Corporation, Library of Ruina, and Limbus Company.
 - [x] Zero template leaks or code vocabulary violations in public documentation.
+"""
+
+with open(readme_path, "w", encoding="utf-8") as f:
+    f.write(content)
+
+with open(spec_path, "w", encoding="utf-8") as f:
+    f.write(content)
+
+print("Updated docs/README.md and docs/FRONT_HOME_PAGE_SPECIFICATION.md successfully.")
