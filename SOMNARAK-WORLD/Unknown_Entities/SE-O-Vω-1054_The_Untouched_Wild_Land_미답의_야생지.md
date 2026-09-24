@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Vω-1054 [WP]` |
-| **Entity Type** | **Place** — The boundless primeval continental wilderness of Corner 4 |
+| **Entity Type** | **Place (Continental Geography)** — The boundless primeval continental wilderness of Corner 4; permanent planetary landmass, cannot be fought or caged |
 | **Coherence** | Sovereign (V) |
 | **Potency** | Sovereign (ω) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -25,9 +25,10 @@
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Sovereign (ω) |
-| **Entity role** | Continental Ecological Sovereign / Primal Cradle |
+| **Entity role** | Continental Geography / Macro-Landmass (Invulnerable / Unfightable) |
 | **Primary pressure** | Ecological Reclamation / Kinetic Wilderness Surge |
-| **Starting Sorrow Gauge** | 10,000 / 10,000 |
+| **Starting Sorrow Gauge** | 100% (Natural Ecological Equilibrium) |
+| **Valid Work Types** | Viderehan and Ferrehan only (Continental Geography; Flerehan and Pugnahan strictly N/A) |
 | **Han-Energy yield** | Boundless / Non-extractable via standard facility frames |
 | **Work difficulty** | Sovereign · R.D. Observation Level 4 |
 | **Activation threshold** | Permanent Macro-Resonance |
@@ -43,18 +44,18 @@
 - Any attempt to construct permanent concrete blast walls, pave roads, or establish industrial debt facilities within `[UnWiHan]` causes the earth to convulse, unleashing the *Wilderness Tide* to crush the encroaching structure back into natural loam.
 - Operatives traversing the wild land report feeling small, humbled, and untethered from civil identity, as the land refuses to acknowledge municipal names or family debts.
 
-## Combat Record
-### Core Stat Line
+## Planetary Hazard Telemetry & Expeditionary Parameters
+### Field Parameters
 
-> **R.D. Field Parameters:** Normalized environmental combat values for trans-wilderness expeditionary forces.
+> **R.D. Field Parameters:** Normalized environmental telemetry values for trans-wilderness expeditionary forces. Combat is impossible against a continental landmass.
 
 | Stat | Value |
 |---|---|
-| **Speed** | 0.0 m/s (Continental Landmass) |
-| **Resistance** | 90% against Weight; 80% against Grudge; 50% against Lament; 40% against Void |
+| **Speed** | N/A — Static Planetary Landmass |
+| **Resistance** | 100% Invulnerable to physical combat strikes; 90% Weight absorption; immune to kinetic damage |
 | **Activation threshold** | Industrial Encroachment or Seismic Dredging |
-| **Sorrow Gauge [HP]** | 100,000 / 100,000 (Continental Bedrock) |
-| **Han Pressure [ATK]** | 50–120 per surge · Weight + Primal Kinetic Crushing |
+| **Sorrow Gauge [HP]** | N/A — Continental Bedrock (Invulnerable / Unfightable Landmass) |
+| **Han Pressure [ATK]** | 50–120 per surge · Environmental Weight & Primal Tectonic Surge |
 | **Coherence modifier** | V — Unfathomable planetary scale |
 | **Potency modifier** | ω — Total physical reclamation of artificial structures |
 

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Vω-1050 [LP]` |
-| **Entity Type** | **Place** — The vast unmapped primordial southern ocean; cannot be moved or caged |
+| **Entity Type** | **Place (Continental Geography)** — The vast unmapped primordial southern ocean; permanent planetary body, cannot be fought or caged |
 | **Coherence** | Sovereign (V) |
 | **Potency** | Sovereign (ω) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament (Blue) |
-| **Manifestation** | Place-Vast / Oceanic Swell `[ConHeAn]` |
+| **Manifestation** | Place-Continental / Oceanic Swell `[ConHeAn]` |
 | **Physical Form** | Primordial Ocean — A sapphire-and-indigo expanse of pristine fluid Han extending past the southeastern planetary horizon. Its surface reflects no clouds, only an internal bioluminescent glow. The water vibrates at an infrasonic 528 Hz harmonic frequency, dissolving grief into absolute stillness. |
-| **Movement** | Immobile Geographic Entity — Tidal swell radiates outward across Corner 4 borders. |
+| **Movement** | Immobile Geographic Entity — Planetary ocean spanning continental margins across Corner 4 borders. |
 | **Location** | Continental Quadrant 4 (UnWiHan) / Southeastern Ocean Boundary |
 | **R.D. Observation Level** | 4 — Complete Environmental Telemetry |
 
@@ -25,36 +25,37 @@
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Sovereign (ω) |
-| **Entity role** | Environmental Sovereign / Continental Place |
+| **Entity role** | Continental Geography / Macro-Ecosystem (Invulnerable / Unfightable) |
 | **Primary pressure** | Existential Consolation / Composure Dissolution |
-| **Starting Sorrow Gauge** | 1000/1000 |
+| **Starting Sorrow Gauge** | 100% (Permanent Environmental Equilibrium) |
+| **Valid Work Types** | Viderehan and Ferrehan only (Continental Geography; Flerehan and Pugnahan strictly N/A) |
 | **Han-Energy yield** | Infinite / Non-extractable via standard containment rings |
 | **Work difficulty** | Sovereign · R.D. Observation Level 4 |
 | **Activation threshold** | Permanent Environmental Resonance |
 | **Tool / M.A.W. grade** | Sovereign (ω) |
-| **Vessel-Destructible** | No (Continental Body) |
+| **Vessel-Destructible** | No — Continental Planetary Ocean |
 | **Han Dust Drop** | Not applicable |
 | **Recommended response** | Viderehan (long-range optical mapping) and Ferrehan (psychic anchors); Flerehan and Pugnahan strictly forbidden. |
 
 ### Operational Notes
 
-- The Consoling Untouched Ocean is an Outside Sorrow entity born from planetary weeping prior to human settlement.
+- The Consoling Untouched Ocean is a planetary Outside Sorrow geography born from primal weeping prior to human settlement.
 - Touching the water without specialized dampening mantles causes instant emotional dissolution: the operative ceases to feel urgency, fear, or attachment, peacefully surrendering to the tide.
 - Unlike the dead and stagnant Sorrow Lake, the Untouched Ocean supports living megastructures: towering blue glass kelp, translucent leviathan currents, and acoustic resonance geysers.
 - Any attempt to harvest or dredge the water triggers catastrophic regional tidal swells that inundate coastal buffer sectors.
 
-## Combat Record
-### Core Stat Line
+## Environmental Telemetry & Planetary Hazard Record
+### Field Parameters
 
-> **R.D. Field Parameters:** Normalized environmental combat values for expeditionary reference.
+> **R.D. Field Parameters:** Normalized environmental telemetry values for expeditionary reference. Combat is impossible against a planetary ocean.
 
 | Stat | Value |
 |---|---|
-| **Speed** | 0.0 m/s (Static Geographic Zone) |
-| **Resistance** | 90% against Lament; 50% against Void; 20% against Grudge; 40% against Weight |
-| **Activation threshold** | Ambient Contact |
-| **Sorrow Gauge [HP]** | 10,000 / 10,000 (Invulnerable Macro-Ecosystem) |
-| **Han Pressure [ATK]** | 45–90 per tick · Lament (Drains Composure directly) |
+| **Speed** | N/A — Static Planetary Ocean |
+| **Resistance** | 100% Invulnerable to physical harm; 90% Lament absorption; immune to kinetic damage |
+| **Activation threshold** | Proximity / Ambient Contact (< 20 km) |
+| **Sorrow Gauge [HP]** | N/A — Continental Geography (Invulnerable / Unfightable Macro-Ocean) |
+| **Han Pressure [ATK]** | 45–90 per tick · Environmental Infrasonic Lament (Ambient Field Pressure) |
 | **Coherence modifier** | V — Unfathomable planetary scale |
 | **Potency modifier** | ω — Irreversible environmental transformation |
 

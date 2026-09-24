@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-1051 [WP]` |
-| **Entity Type** | **Place** — The boundless hyper-cryogenic waste of the northern polar frontier |
+| **Entity Type** | **Place (Regional Geography)** — The boundless hyper-cryogenic waste of the northern polar frontier; permanent regional geography, cannot be fought or caged |
 | **Coherence** | Entity (IV) |
 | **Potency** | Catastrophic (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -25,9 +25,10 @@
 | Statistic | Value |
 |---|---|
 | **Risk tier** | Catastrophic (δ) |
-| **Entity role** | Environmental Hazard / Regional Place |
+| **Entity role** | Regional Geography / Polar Permafrost (Invulnerable / Unfightable) |
 | **Primary pressure** | Emotional Anaesthesia / Kinetic Paralysis |
-| **Starting Sorrow Gauge** | 850/850 |
+| **Starting Sorrow Gauge** | 100% (Glacial Equilibrium) |
+| **Valid Work Types** | Viderehan and Ferrehan only (Regional Geography; Flerehan and Pugnahan strictly N/A) |
 | **Han-Energy yield** | 18–25 Han-Energy per thermal suppression cycle |
 | **Work difficulty** | High · R.D. Observation Level 3 |
 | **Activation threshold** | Winter Inversion Cycle |
@@ -43,18 +44,18 @@
 - Prolonged exposure results in "Marble Stasis" — the operative's blood freezes into translucent white crystalline Han, preserving them forever in a peaceful, statuesque sleep.
 - Standard thermal heaters fail within `[NuRoZen]`; only Han-resonant furnace coils burning compressed Grudge dust can maintain operational body heat.
 
-## Combat Record
-### Core Stat Line
+## Environmental Telemetry & Polar Hazard Record
+### Field Parameters
 
-> **R.D. Field Parameters:** Normalized environmental combat values for polar transit reference.
+> **R.D. Field Parameters:** Normalized environmental telemetry values for polar transit reference. Combat is impossible against a regional tundra.
 
 | Stat | Value |
 |---|---|
-| **Speed** | 0.0 m/s (Environmental Waste) |
-| **Resistance** | 80% against Weight; 60% against Void; 40% against Lament; Weak to Grudge (0% resistance) |
+| **Speed** | N/A — Static Polar Geography |
+| **Resistance** | 100% Invulnerable to physical combat strikes; 80% Weight absorption; immune to kinetic damage |
 | **Activation threshold** | Ambient Exposure > 3 minutes |
-| **Sorrow Gauge [HP]** | 4,500 / 4,500 (Glacial Core) |
-| **Han Pressure [ATK]** | 25–40 per tick · Weight + Numbing Chill |
+| **Sorrow Gauge [HP]** | N/A — Regional Permafrost (Invulnerable / Unfightable Glacial Zone) |
+| **Han Pressure [ATK]** | 25–40 per tick · Environmental Numbing Chill & Weight |
 | **Coherence modifier** | IV — Persistent regional consciousness |
 | **Potency modifier** | δ — Incapacitating geographic range |
 
