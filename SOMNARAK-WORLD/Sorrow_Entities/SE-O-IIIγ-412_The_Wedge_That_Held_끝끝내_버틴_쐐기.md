@@ -1,6 +1,6 @@
-# The Sunder-Nail — 파쇄의 대못
+# The Wedge That Held — 끝끝내 버틴 쐐기
 
-> *“He hammered his own marrow into the crack to buy the young five minutes.”*
+> *“Run when the first hammer blow falls, and don't any of you turn your heads back to look at me.”*
 
 ## SECC Classification
 
@@ -14,7 +14,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge (Crimson) |
 | **Manifestation** | Object-Grudge |
-| **Physical Form** | Non-Organic — A fifteen-inch hand-forged railway spike of porous volcanic black iron recovered from the abyssal fault lines of Cheonbulok. Wrapped in singed hemp prayer-cloth, the iron radiates fever-hot dry warmth and smells of sulfur and old blood. Crimson Han-veins pulse along its tapered four-sided shaft like boiling arteries. |
+| **Physical Form** | Non-Organic — A seventeen-inch four-sided railway wedge hand-beaten from porous volcanic black iron, reclaimed from the lower basalt drainage culvert of Old Cheonbulok. Wrapped tightly in fraying hemp work-rags soaked in machine grease and sweat, the wedge radiates fever-dry heat and smells of molten sulfur and scorched bone. Along its beaten flats, eighteen distinct apprentice serial numbers are carved directly into the metal with a chisel. Crimson Han-veins throb within the porous iron like boiling arteries. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-O-04, Outer Bastion Arsenal |
 | **R.D. Observation Level** | 3 — Advanced |
@@ -90,7 +90,7 @@
 3. **Resolution:** The team completes standard containment quotas, or deliberately triggers the A-Relic discharge to resolve an existential facility breach.
 
 ## Appearance
-**Physical Form:** Non-Organic — A fifteen-inch hand-forged railway spike of porous volcanic black iron recovered from the abyssal fault lines of Cheonbulok. Wrapped in singed hemp prayer-cloth, the iron radiates fever-hot dry warmth and smells of sulfur and old blood. Crimson Han-veins pulse along its tapered four-sided shaft like boiling arteries.
+**Physical Form:** Non-Organic — A seventeen-inch four-sided railway wedge hand-beaten from porous volcanic black iron, reclaimed from the lower basalt drainage culvert of Old Cheonbulok. Wrapped tightly in fraying hemp work-rags soaked in machine grease and sweat, the wedge radiates fever-dry heat and smells of molten sulfur and scorched bone. Along its beaten flats, eighteen distinct apprentice serial numbers are carved directly into the metal with a chisel. Crimson Han-veins throb within the porous iron like boiling arteries.
 
 **Notable Features:**
 - Preserved historical tragedy frozen into an irreversible physical construct.
@@ -99,13 +99,13 @@
 
 ## Activation Behavior
 
-**Activation Trigger:** Driving the spike into stone, earth, or a hostile carapace with a heavy kinetic strike.
+**Activation Trigger:** Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram).
 
-**Effect:** Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25-40 Crimson Grudge damage, and knocking down all targets for 1 turn. The spike shatters into inert slag.
+**Effect:** Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25-40 Crimson Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag.
 
 **Duration:** Instantaneous tectonic burst; armor fracture debuff persists for combat encounter.
 
-**Risk:** The nail is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering.
+**Risk:** The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering.
 
 ### Tool Use Profile — A-Relic
 
@@ -113,11 +113,11 @@
 |---|---|
 | **Tool Class** | **A-Relic** |
 | **Use Mode** | **Single-use / consumable use** |
-| **Activation** | Driving the spike into stone, earth, or a hostile carapace with a heavy kinetic strike. |
-| **Primary Effect** | Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25-40 Crimson Grudge damage, and knocking down all targets for 1 turn. The spike shatters into inert slag. |
+| **Activation** | Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram). |
+| **Primary Effect** | Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25-40 Crimson Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. |
 | **Duration** | Instantaneous tectonic burst; armor fracture debuff persists for combat encounter. |
 | **Termination / Return** | The relic is consumed by its use. What remains is emptied of sorrow and cannot be rekindled. |
-| **Risk** | The nail is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
+| **Risk** | The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
 
 **Operational Rule:** A single-use relic is spent, not stored. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan during routine shifts.
 
@@ -125,7 +125,7 @@
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 1 Use | The artifact holds a singular historical promise — kept unbroken until it is spent. | A single deliberate act activates it: Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25-40 Crimson Grudge damage, and knocking down all targets for 1 turn. The spike shatters into inert slag. |
+| 1 Use | The artifact holds a singular historical promise — kept unbroken until it is spent. | A single deliberate act activates it: Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25-40 Crimson Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. |
 | 1 Use | Once activated, it pours out its entire sorrow reserve at once. | The effect completes fully and irreversibly. |
 | 1 Use | Afterwards it is only a cold husk — emptied of sorrow, and unable to be asked anything again. | The spent artifact dissolves or shatters, leaving inert mineral dust. |
 
@@ -134,19 +134,19 @@
 > Progressive declassified records. Each entry unlocks at a higher Observation Level.
 
 **Entry 1 — Containment Description**
-Logged as an Object manifestation expressing elemental sorrow. Maintained in secure stasis under strict Directorate protocol.
+Reclaimed from the subterranean magma works of Old Cheonbulok. The artifact exhibits extreme metallurgical hardness that defies conventional smelting temperatures, remaining rigid even when exposed to direct oxy-acetylene torching.
 
 **Entry 2 — <Excerpt from Field Log>**
-"The artifact does not sleep like an entity. It waits like an unexploded shell. You can feel the exact second someone gave up their tomorrow inside it."
+'During transport to Sector-O-04, the transport sled began vibrating in cadence with heavy rhythmic thuds. The technician recorded eighteen distinct impact pulses every sixty seconds—identical to the strike rhythm of an eight-kilogram blacksmith's sledgehammer.'
 
 **Entry 3 — <Excerpt from Lead Analyst Notes>**
-"Single-use relics represent moments where human will reached absolute concentration. They cannot be coaxed into gradual cooperation; they answer once, completely, or not at all."
+'The names chiseled into the iron are not decorative. Forensic analysis confirms the letters were gouged using a hardened masonry cold chisel during an active geological collapse; the strokes are jagged, frantic, and filled with basalt dust and skin tissue.'
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Permits study of its inscribed grief (Stable); Ferrehan: Tests whether the worker can endure its proximity without touching the trigger (Decrease).
+Viderehan work monitors the thermal emission rate of the hemp wrap. Ferrehan work requires an operative to physically hold the hot iron collar without dropping it, demonstrating the physical fortitude required to withstand the foundry master's dying resolve.
 
 **Entry 5 — <Deep Archive Synthesis>**
-When the city refuses to mourn, the grief crystallizes into instruments that demand to be spent. Every A-Relic is an unpaid debt that can only be settled in a single fire.
+Directorate Synthesis: The wedge does not break bedrock because it is sharp; it breaks bedrock because Kang Il-Joo refused to let the ceiling take his boys. When driven home in battle, it delivers forty years of foundry rage in a single fraction of a second, leaving nothing behind but cold dust and broken stone.
 
 ## 이야기 (Narratio) — The Tale
 

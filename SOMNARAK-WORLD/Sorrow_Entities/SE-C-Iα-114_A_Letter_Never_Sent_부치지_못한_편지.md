@@ -1,6 +1,6 @@
-# The Ash-Sealed Letter — 재로 봉인된 편지
+# A Letter Never Sent — 부치지 못한 편지
 
-> *“The apology arrived eighty years after the house had burned.”*
+> *“Min-Seo waited at Platform 4 until the sirens cut out. I was still running through the archives with ink on my thumbs.”*
 
 ## SECC Classification
 
@@ -14,7 +14,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament (Deep Blue) |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — An aged square parchment envelope blackened with soot and preserved within a thin casing of unyielding deep blue Han-crystal. The seal is pressed with dark indigo wax bearing the crest of the old Municipal Transit Ministry. The envelope remains bloodless-cold, faintly trembling whenever an operator carries news of an unfulfilled duty. |
+| **Physical Form** | Non-Organic — A standard municipal transit dispatch envelope folded from coarse grey pulp paper, blackened along the creased edges by flash-fire soot and sealed with brittle indigo sealing wax bearing the embossed stamp of the Sector-A-04 Line Archive Bureau. A faint rime of deep blue Han-frost coats the surface, dropping the surrounding air temperature by three degrees. The paper does not decay, tear, or unfold under manual inspection; it remains bloodless-cold, trembling faintly whenever an operator in the chamber carries an unspoken apology. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-A-04, Vault 12 — contained |
 | **R.D. Observation Level** | 1 — Initial |
@@ -90,7 +90,7 @@
 3. **Resolution:** The team completes standard containment quotas, or deliberately triggers the A-Relic discharge to resolve an existential facility breach.
 
 ## Appearance
-**Physical Form:** Non-Organic — An aged square parchment envelope blackened with soot and preserved within a thin casing of unyielding deep blue Han-crystal. The seal is pressed with dark indigo wax bearing the crest of the old Municipal Transit Ministry. The envelope remains bloodless-cold, faintly trembling whenever an operator carries news of an unfulfilled duty.
+**Physical Form:** Non-Organic — A standard municipal transit dispatch envelope folded from coarse grey pulp paper, blackened along the creased edges by flash-fire soot and sealed with brittle indigo sealing wax bearing the embossed stamp of the Sector-A-04 Line Archive Bureau. A faint rime of deep blue Han-frost coats the surface, dropping the surrounding air temperature by three degrees. The paper does not decay, tear, or unfold under manual inspection; it remains bloodless-cold, trembling faintly whenever an operator in the chamber carries an unspoken apology.
 
 **Notable Features:**
 - Preserved historical tragedy frozen into an irreversible physical construct.
@@ -134,24 +134,26 @@
 > Progressive declassified records. Each entry unlocks at a higher Observation Level.
 
 **Entry 1 — Containment Description**
-Logged as an Object manifestation expressing elemental sorrow. Maintained in secure stasis under strict Directorate protocol.
+Catalogued as a discrete Object manifestation expressing acute municipal Lament. Recovered from the deep substructure of Sector-A-04, preserved within an airtight lead canister behind the collapsed passenger terminal blast gates.
 
 **Entry 2 — <Excerpt from Field Log>**
-"The artifact does not sleep like an entity. It waits like an unexploded shell. You can feel the exact second someone gave up their tomorrow inside it."
+'When handling the envelope, handlers consistently report a phantom acoustic sensation: the metallic clatter of train bogies on cold steel rails, followed by the distant sounding of a departure horn. The paper does not accept graphite or ink markings; any attempt to write an address over the wax results in instantaneous frostbite to the fingers.'
 
 **Entry 3 — <Excerpt from Lead Analyst Notes>**
-"Single-use relics represent moments where human will reached absolute concentration. They cannot be coaxed into gradual cooperation; they answer once, completely, or not at all."
+'Senior Operator Han broke protocol during the containment audit of Month 11, holding the envelope against his breast pocket for forty seconds. When questioned, he stated he could hear his late mother asking if he had remembered to pack warm wool socks for the night shift. He was relieved of active duty for psychological decompression.'
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Permits study of its inscribed grief (Stable); Ferrehan: Tests whether the worker can endure its proximity without touching the trigger (Decrease).
+Routine containment is restricted to Viderehan and Ferrehan. Viderehan allows personnel to log the temperature fluctuations of the wax seal without applying pressure. Ferrehan tests whether the assigned operator possesses sufficient emotional composure to endure proximity to an unread farewell without succumbing to suicidal nostalgia.
 
 **Entry 5 — <Deep Archive Synthesis>**
-When the city refuses to mourn, the grief crystallizes into instruments that demand to be spent. Every A-Relic is an unpaid debt that can only be settled in a single fire.
+Directorate Deep Synthesis: A-Relic artifacts are not perpetual engines. They are historical debts that can only be settled in a single disbursement. To open this envelope is to deliver Yoon Seok-Won's apology at last—not to Min-Seo, who turned to ash eighty years ago, but to whatever terrified soul is standing in the dark when the seal snaps.
 
 ## 이야기 (Narratio) — The Tale
 
-The evacuee was an archivist named Yoon Seok-Won, stationed in Sector-A-04 during the Great Subsidence of Year 4,112. When the lower foundational struts cracked, the evacuation sirens wailed, giving personnel eleven minutes to board the sub-rail transit cars. Seok-Won had spent three weeks drafting a letter to his estranged daughter, Min-Seo, who lived on the upper terrace—a letter apologizing for fourteen years of bureaucratic absence and begging her to meet him at the northern junction.
+The evacuee was an archivist named Yoon Seok-Won, stationed in Sector-A-04 during the Great Subsidence of Year 4,112. When the lower foundational struts cracked, the municipal evacuation sirens wailed across the sector, giving personnel eleven minutes to board the sub-rail transit cars bound for the upper terrace. Seok-Won had spent the preceding three weeks drafting an eight-page letter to his estranged daughter, Min-Seo—a letter apologizing for fourteen years of bureaucratic silence, explaining the debt that kept him chained to the lower ledger desks, and begging her to meet him at Platform 4.
 
-As the crowd surged toward the boarding tunnel, Seok-Won realized he had left the envelope on his desk. He turned against the panicked stream of citizens, running back into the trembling archive vaults to retrieve it. By the time he reached the boarding gate with the letter pressed to his chest, the heavy steel pneumatic blast doors had already descended and sealed. Through the reinforced observation viewport, the conductor saw Seok-Won press the blue-waxed envelope against the glass, mouthing words that soundproofing made impossible to hear. The railway departed.
+As the crowd surged toward the boarding tunnel, Seok-Won reached into his coat pocket and found only his identity brass. The letter was still lying on his desk in the archive basement. He turned against the panicked stream of citizens, running back down the vibrating iron stairwells into the dark vaults to retrieve it. By the time he reached the boarding gate with the blue-waxed envelope pressed against his ribs, the heavy pneumatic blast doors had already descended and sealed with hydraulic finality.
 
-Decades later, when dredge teams broke through the petrified silt of the collapsed station, they found Seok-Won's skeleton still seated against the cold blast door, his hands clasped tightly over the unburned envelope. The sorrow of an apology that arrived centuries too late had crystallized the wax into an A-Relic: a message that burns itself out to comfort the living, because it was denied the chance to comfort the one it was written for.
+Through the eight-inch reinforced observation viewport, the conductor saw Seok-Won standing on the deserted platform, pressing the envelope against the cold glass and mouthing words that the soundproofing rendered silent. The sub-rail train departed.
+
+Decades later, when dredge teams broke through the petrified silt of the collapsed station, they found Seok-Won's skeleton still seated against the cold blast door, his calcified fingers locked tightly over the unburned envelope. The sorrow of an apology that arrived centuries too late had crystallized the wax into an A-Relic: an envelope that incinerates itself to bring peace to the living, because it was denied the chance to reach the one who stopped waiting.

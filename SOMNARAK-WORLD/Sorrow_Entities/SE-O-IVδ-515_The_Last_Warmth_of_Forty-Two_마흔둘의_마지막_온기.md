@@ -1,6 +1,6 @@
-# The Last Breath Vial — 마지막 숨의 유리병
+# The Last Warmth of Forty-Two — 마흔둘의 마지막 온기
 
-> *“Forty-two souls whispered their names into the glass so the dark wouldn't swallow them whole.”*
+> *“Forty-two breaths against the rim of a medicine bottle, so the cold wouldn't have the last word.”*
 
 ## SECC Classification
 
@@ -14,7 +14,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament (Deep Blue) |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — A slender hand-blown cylindrical vial of leaded quartz glass, sealed at the neck with silver solder and wrapped in faded orange survival webbing. Inside, a swirling vapor of pale blue condensation hovers in continuous suspension, never settling into liquid and never freezing into frost. The glass is warm to the touch, vibrating with a faint, multi-voiced whisper that sounds like dozens of people speaking softly into the dark. |
+| **Physical Form** | Non-Organic — A slender cylindrical vial of hand-blown leaded quartz glass, sealed at the collar with melted lead solder and wrapped in fraying orange surveyor's emergency webbing. Inside, a swirling vapor of pale blue condensation moves in perpetual circular suspension without settling into frost or liquid. Despite ambient sub-zero temperatures, the quartz remains warm to human touch, pulsing with a quiet, multi-voiced whisper that sounds like dozens of people talking softly around a campfire. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-O-09, Frozen Depths Cache |
 | **R.D. Observation Level** | 4 — Mastered |
@@ -90,7 +90,7 @@
 3. **Resolution:** The team completes standard containment quotas, or deliberately triggers the A-Relic discharge to resolve an existential facility breach.
 
 ## Appearance
-**Physical Form:** Non-Organic — A slender hand-blown cylindrical vial of leaded quartz glass, sealed at the neck with silver solder and wrapped in faded orange survival webbing. Inside, a swirling vapor of pale blue condensation hovers in continuous suspension, never settling into liquid and never freezing into frost. The glass is warm to the touch, vibrating with a faint, multi-voiced whisper that sounds like dozens of people speaking softly into the dark.
+**Physical Form:** Non-Organic — A slender cylindrical vial of hand-blown leaded quartz glass, sealed at the collar with melted lead solder and wrapped in fraying orange surveyor's emergency webbing. Inside, a swirling vapor of pale blue condensation moves in perpetual circular suspension without settling into frost or liquid. Despite ambient sub-zero temperatures, the quartz remains warm to human touch, pulsing with a quiet, multi-voiced whisper that sounds like dozens of people talking softly around a campfire.
 
 **Notable Features:**
 - Preserved historical tragedy frozen into an irreversible physical construct.
@@ -134,19 +134,19 @@
 > Progressive declassified records. Each entry unlocks at a higher Observation Level.
 
 **Entry 1 — Containment Description**
-Logged as an Object manifestation expressing elemental sorrow. Maintained in secure stasis under strict Directorate protocol.
+Discovered in the wreckage of an Outrider Crawler in the Sector 09 Glacial Rift, held within the calcified gauntlets of Captain Yeon-Woo. Thermal cameras revealed the vial remained at a steady 36.5 degrees Celsius despite being surrounded by minus sixty-degree ice.
 
 **Entry 2 — <Excerpt from Field Log>**
-"The artifact does not sleep like an entity. It waits like an unexploded shell. You can feel the exact second someone gave up their tomorrow inside it."
+'Acoustic isolation sensors placed against the quartz capture forty-two distinct vocal layers speaking simultaneously. Each scout recites their personal serial code, the name of a loved one residing in the Inner Ring, and a quiet affirmation that they did not die in fear.'
 
 **Entry 3 — <Excerpt from Lead Analyst Notes>**
-"Single-use relics represent moments where human will reached absolute concentration. They cannot be coaxed into gradual cooperation; they answer once, completely, or not at all."
+'Junior Analyst Park collapsed while transcribing audio frequencies from the vial. He reported feeling forty-two cold hands gently patting his back and shoulders, urging him to breathe slowly and survive his shift.'
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Permits study of its inscribed grief (Stable); Ferrehan: Tests whether the worker can endure its proximity without touching the trigger (Decrease).
+Viderehan requires monitoring the swirl velocity of the trapped vapor. Ferrehan demands that the assigned operative hold the warm bottle in an unheated environmental chamber, feeling the contrast between planetary frost and human solidarity.
 
 **Entry 5 — <Deep Archive Synthesis>**
-When the city refuses to mourn, the grief crystallizes into instruments that demand to be spent. Every A-Relic is an unpaid debt that can only be settled in a single fire.
+Directorate Synthesis: The cold took their flesh, but it could not extinguish the final words spoken into the dark. Shattering the vial releases forty-two people's final refusal to be frozen—a storm of pure collective grief that halts even the most catastrophic Maw entities in their tracks.
 
 ## 이야기 (Narratio) — The Tale
 

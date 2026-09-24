@@ -1,6 +1,6 @@
-# The Ledger-Burner's Token — 부채 소각의 패
+# Father's Broken Bond — 아버지의 부러진 차용패
 
-> *“A man's life is not a loan to be collected with compound interest.”*
+> *“My father gave you forty years of lungs. You will not have his children's teeth.”*
 
 ## SECC Classification
 
@@ -14,7 +14,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight (Black) |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A heavy octagonal tally-tablet cast from tarnished yellow brass, stamped with the canceled indenture seal of the Debt Concourse. Deeply scarred by acid burns, the metal is unnervingly heavy—weighing nearly twenty kilograms despite measuring only ten centimeters across. It smells of copper oxide and cold tallow. |
+| **Physical Form** | Non-Organic — A scored octagonal tally-tablet cast from tarnished yellow brass, bearing the stamped indenture seal of the Debt Concourse and severely discolored by industrial sulfuric acid burns. Deeply notched across its center seam, the tablet possesses an unnatural gravitational density—measuring barely nine centimeters across yet weighing over twenty-one kilograms. It smells of tarnished copper, battery acid, and stagnant sump water. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-C-03, Collector's Vault |
 | **R.D. Observation Level** | 2 — Basic |
@@ -90,7 +90,7 @@
 3. **Resolution:** The team completes standard containment quotas, or deliberately triggers the A-Relic discharge to resolve an existential facility breach.
 
 ## Appearance
-**Physical Form:** Non-Organic — A heavy octagonal tally-tablet cast from tarnished yellow brass, stamped with the canceled indenture seal of the Debt Concourse. Deeply scarred by acid burns, the metal is unnervingly heavy—weighing nearly twenty kilograms despite measuring only ten centimeters across. It smells of copper oxide and cold tallow.
+**Physical Form:** Non-Organic — A scored octagonal tally-tablet cast from tarnished yellow brass, bearing the stamped indenture seal of the Debt Concourse and severely discolored by industrial sulfuric acid burns. Deeply notched across its center seam, the tablet possesses an unnatural gravitational density—measuring barely nine centimeters across yet weighing over twenty-one kilograms. It smells of tarnished copper, battery acid, and stagnant sump water.
 
 **Notable Features:**
 - Preserved historical tragedy frozen into an irreversible physical construct.
@@ -134,19 +134,19 @@
 > Progressive declassified records. Each entry unlocks at a higher Observation Level.
 
 **Entry 1 — Containment Description**
-Logged as an Object manifestation expressing elemental sorrow. Maintained in secure stasis under strict Directorate protocol.
+Reclaimed from the burned archives of the Concourse Indenture Ministry. The brass shows severe pitting consistent with high-molarity industrial solvent immersion.
 
 **Entry 2 — <Excerpt from Field Log>**
-"The artifact does not sleep like an entity. It waits like an unexploded shell. You can feel the exact second someone gave up their tomorrow inside it."
+'When resting on a calibrated load cell, the tablet displays inexplicable mass fluctuations. At 09:00 hours, it weighed 21.4 kilograms; at 17:00 hours, coinciding with the end of the municipal shift, its mass registered at 38.7 kilograms without any volumetric expansion.'
 
 **Entry 3 — <Excerpt from Lead Analyst Notes>**
-"Single-use relics represent moments where human will reached absolute concentration. They cannot be coaxed into gradual cooperation; they answer once, completely, or not at all."
+'Interviews with Third Sump veterans confirm that Han-Sol's father spent thirty-eight years diving in raw caustic runoff to clear blocked sediment sluices. The Debt Concourse charged him five silver talers a month for oxygen canister refills, ensuring the debt outlived the diver.'
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Permits study of its inscribed grief (Stable); Ferrehan: Tests whether the worker can endure its proximity without touching the trigger (Decrease).
+Viderehan requires recording the micro-fractures along the scored centerline. Ferrehan tests an operative's ability to lift the tablet from the stasis pedestal using manual labor, enduring the accumulated weight of hereditary labor without dropping the metal.
 
 **Entry 5 — <Deep Archive Synthesis>**
-When the city refuses to mourn, the grief crystallizes into instruments that demand to be spent. Every A-Relic is an unpaid debt that can only be settled in a single fire.
+Directorate Synthesis: The Concourse designed these tallies to be indestructible chains binding generations. Han-Sol proved that if a man is willing to accept a bullet in his ribs, even hereditary iron can be snapped like dry wood. Its discharge is the sudden collapse of artificial obligation.
 
 ## 이야기 (Narratio) — The Tale
 

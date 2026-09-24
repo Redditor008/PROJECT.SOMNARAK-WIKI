@@ -1,6 +1,6 @@
-# The Absolver's Chalk — 사면관의 백필
+# The Magistrate's Strike-Through — 판관의 취소선
 
-> *“If the law cannot find your name, the blade cannot find your throat.”*
+> *“If the law cannot find your name on the stone, the blade cannot find your throat in the yard.”*
 
 ## SECC Classification
 
@@ -14,7 +14,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void (Pale White) |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A four-inch cylinder of brittle, chalk-like pale mineral excavated from the sealed tribunal vaults beneath Floor 6. Cold and powdery, it leaves a faint ghost-white residue that does not wash off with water. The chalk smells of dry lime, old parchment, and vinegar. |
+| **Physical Form** | Non-Organic — A four-inch octagonal stick of dense, chalky white mineral excavated from the sealed archive tribunal vaults beneath Floor 6. Powdery and bone-cold, it leaves an indelible lime-white streak that cannot be removed by solvents, flame, or scraping. Smelling faintly of dry lime, vinegar, and damp judicial calfskin, the mineral remains strangely heavy in the hand, as though each millimeter of chalk holds the gravity of eighty-two severed sentences. |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-N-06, Deep Tribunal Archive |
 | **R.D. Observation Level** | 2 — Basic |
@@ -90,7 +90,7 @@
 3. **Resolution:** The team completes standard containment quotas, or deliberately triggers the A-Relic discharge to resolve an existential facility breach.
 
 ## Appearance
-**Physical Form:** Non-Organic — A four-inch cylinder of brittle, chalk-like pale mineral excavated from the sealed tribunal vaults beneath Floor 6. Cold and powdery, it leaves a faint ghost-white residue that does not wash off with water. The chalk smells of dry lime, old parchment, and vinegar.
+**Physical Form:** Non-Organic — A four-inch octagonal stick of dense, chalky white mineral excavated from the sealed archive tribunal vaults beneath Floor 6. Powdery and bone-cold, it leaves an indelible lime-white streak that cannot be removed by solvents, flame, or scraping. Smelling faintly of dry lime, vinegar, and damp judicial calfskin, the mineral remains strangely heavy in the hand, as though each millimeter of chalk holds the gravity of eighty-two severed sentences.
 
 **Notable Features:**
 - Preserved historical tragedy frozen into an irreversible physical construct.
@@ -134,19 +134,19 @@
 > Progressive declassified records. Each entry unlocks at a higher Observation Level.
 
 **Entry 1 — Containment Description**
-Logged as an Object manifestation expressing elemental sorrow. Maintained in secure stasis under strict Directorate protocol.
+Recovered from the High Magistrate's private chambers on Floor 6, sealed within a cedar box marked with the wax crest of the Cancelled Registry. The mineral exhibits zero radiometric decay and actively absorbs ambient acoustic waves.
 
 **Entry 2 — <Excerpt from Field Log>**
-"The artifact does not sleep like an entity. It waits like an unexploded shell. You can feel the exact second someone gave up their tomorrow inside it."
+'When the chalk is held between the thumb and forefinger, the handler's vocal cords contract involuntarily. Audio recordings in the observation booth capture faint, raspy whispers at 14 Hz: 'Cancelled... struck through... absent from this court...''
 
 **Entry 3 — <Excerpt from Lead Analyst Notes>**
-"Single-use relics represent moments where human will reached absolute concentration. They cannot be coaxed into gradual cooperation; they answer once, completely, or not at all."
+'Operative Seol-A inspected the registry ledger preserved beside the plinth. Every single entry across forty folio pages has been obliterated by an aggressive horizontal lime stroke. The ink underneath cannot be recovered even with multispectral imaging; the paper itself has forgotten who was written there.'
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Permits study of its inscribed grief (Stable); Ferrehan: Tests whether the worker can endure its proximity without touching the trigger (Decrease).
+Viderehan work permits visual logging of the chalk's surface erosion. Ferrehan work demands that the operative hold the chalk without drawing a line, suppressing the overwhelming instinct to strike through their own identity card.
 
 **Entry 5 — <Deep Archive Synthesis>**
-When the city refuses to mourn, the grief crystallizes into instruments that demand to be spent. Every A-Relic is an unpaid debt that can only be settled in a single fire.
+Directorate Synthesis: The chalk is an instrument of legal nullification made flesh. It grants absolute immunity not by building a shield, but by convincing the universe that the people inside the circle do not exist to be judged.
 
 ## 이야기 (Narratio) — The Tale
 
