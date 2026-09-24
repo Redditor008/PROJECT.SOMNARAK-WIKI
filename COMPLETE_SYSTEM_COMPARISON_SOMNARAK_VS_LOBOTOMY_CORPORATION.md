@@ -264,15 +264,16 @@ In the underworld of The Raw, five criminal organizations control illicit trades
 
 ### 13.3 Macro-Chronological Triad vs. The Dawn of Hope
 In overarching campaign lore and narrative fiction, Project Somnarak adheres strictly to the **Epochal Partition Rule**:
-- **The Ante-Dawn Era (Before Dawn of Hope):**
-  - **The Reverie Directorate (R.D. / Facility 01):** The internal 1,778-cycle containment facility under Director Majin.
-  - **Subterranean Expedition Division (SED / Katabagil):** The 7 descent passages beneath Somnarak into the deep bedrock.
-  - **Underworld Cleanup Descend (UCD / Katharcheok):** The 6 pacification operations across The Raw against syndicate cartels.
+- **The Ante-Dawn Era (Before Dawn of Hope — Sequential Triad):**
+  - **1. Subterranean Expedition Division (SED / Katabagil):** The 7 descent passages beneath Somnarak into the deep bedrock.
+  - **2. Underworld Cleanup Descend (UCD / Katharcheok):** The 6 pacification operations across The Raw against syndicate cartels.
+  - **3. The Reverie Directorate (R.D. / Facility 01):** The internal 1,778-cycle containment facility under Director Majin.
   *Canonical Law: All primary operations of SED, UCD, and R.D. conclude prior to the Dawn of Hope.*
 - **The Watershed Turning Point:**
   - **The Dawn of Hope (Cycle 1,778 / Year 4,238):** The Hand of Hope opens, achieving the initial 15% sorrow-to-hope transmutation.
-- **The Post-Dawn Era (After Dawn of Hope):**
-  - **ANYTHING ELSE** occurs strictly **AFTER** the Dawn of Hope:
+- **The Post-Dawn & Post-R.D. Era (After Dawn of Hope & After R.D.):**
+  - **ANYTHING ELSE** occurs strictly **AFTER** the Dawn of Hope, and **UNK SE occurs strictly AFTER R.D.**:
+    - **Unknown Sorrow Entities (UNK SE):** Manifest and operate strictly **AFTER R.D.** (`Unknown_Entities/`), encountering Hope Bearers and uncharted frontier biomes.
     - The Dawn Initiative and The Lantern's continental journey (`SOMNARAK_DAWN_OF_HOPE.md`).
     - The Horizon Caravan overland expedition to Mugeukji and Cheonbulok (`Jipyeongseondae`).
     - The Memory Archive floor realizations and retrieval of The Promise (`Gieok_Jeojangso`).

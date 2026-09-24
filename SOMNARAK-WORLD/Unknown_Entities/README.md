@@ -2,12 +2,15 @@
 
 **Archive Authority:** Facility 01 Deep Vault (Floor 6) & Shadow Corps  
 **Classification:** Black-Level Redacted / Unclassified SECC Anomaly  
+**Chronological Position:** Post-R.D. / Post-Dawn Epoch (**Canon Law: UNK SE Is After R.D.**)  
 **Balancing Status:** Balanced Distribution across Outside Sorrow (`O`), Inner Sorrow (`N`), and City Sorrow (`C`)  
 **Total Records:** 15 Markdown Dossiers
 
 ---
 
 ## Overview
+
+> **Macro-Chronological Canon Law:** By binding Project Owner decree, **UNK SE Is After R.D.** While the 292 standard Sorrow Entities are contained during R.D. Facility 01's 1,778-cycle loop era, the Unknown Sorrow Entities defy standard cyclical taxonomy and manifest strictly **AFTER R.D.**, bridging into the Post-Dawn era alongside the Dawn Initiative and continental expeditions.
 
 The `Unknown_Entities/` archive holds dossiers on anomalous entities and narrative artifacts that defy standard SECC taxonomy, originate beyond the explored sectors of The Maw, or demonstrate non-cyclical behavior patterns.
 

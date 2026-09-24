@@ -91,34 +91,37 @@ To maintain absolute chronological integrity across all 1,778+ files in the repo
 ### Binding Canon Law
 By direct executive decree of the Project Owner:
 **"All This Three SED, UCD, AND R.D. Happen Before DAWN OF HOPE And ANYTHING ELSE HAPPEN AFTER DAWN OF HOPE."**
+**"UNK SE Is After R.D. Even"**
 
 ```text
 +========================================================================+
-|         PROJECT SOMNARAK // MACRO-CHRONOLOGICAL EPOCH PARTITION        |
+|        PROJECT SOMNARAK // MACRO-CHRONOLOGICAL EPOCH PARTITION         |
 +========================================================================+
-| Ante-Dawn Era        | SED, UCD, and R.D. Operations (Before Dawn)     |
-| Watershed Event      | The Dawn of Hope (Cycle 1,778 / Year 4,238)     |
-| Post-Dawn Era        | Anything Else (Dawn Initiative, Caravan, etc.)  |
-| Sovereign Rule       | SED + UCD + R.D. -> DAWN OF HOPE -> ALL ELSE    |
+| Ante-Dawn Epoch       | SED -> UCD -> R.D. (Strictly Pre-Dawn)         |
+| Watershed Event       | The Dawn of Hope (Cycle 1,778 / Year 4,238)    |
+| Post-R.D. / Post-Dawn | UNK SE (After R.D.) + All Subsequent Lore      |
++------------------------------------------------------------------------+
+| Sovereign Canon Law   | SED -> UCD -> R.D. -> DAWN OF HOPE -> ALL ELSE |
+| UNK SE Canon Rule     | UNK SE occurs strictly AFTER R.D. operations   |
 +========================================================================+
 ```
 
 ```text
 [ EPOCH I: ANTE-DAWN ]     [ WATERSHED EVENT ]     [ EPOCH II: POST-DAWN ]
-SED, UCD, & R.D. Wings  ->     DAWN OF HOPE     ->  All Other Operations  
-(Pre-Dawn Operations)        (Year 4,238 / 1,778)   (Continental Journey) 
+SED -> UCD -> R.D. Wings ->    DAWN OF HOPE    ->  UNK SE & Post-Dawn Lore
+(Pre-Dawn Tripartite)       (Cycle 1,778)          (After R.D. & All Else)
 ```
 
 ### 6.1 Epoch I: The Ante-Dawn Era (Before Dawn of Hope — Pre-Cycle to Cycle 1,778)
-All primary operations, exploration logs, and tactical chronicles of the founding tripartite wings occur strictly **BEFORE** the Dawn of Hope:
-1. **The Reverie Directorate (R.D. / The Absolvohan):**
+All primary operations, exploration logs, and tactical chronicles of the founding tripartite wings occur strictly **BEFORE** the Dawn of Hope in sequential progression:
+1. **Subterranean Expedition Division (SED / Katabagil):**
+   - The seven expeditionary descent passages (`SOMNARAK-WORLD/Katabagil/`, Passages 1–7) exploring the ancient bedrock (-2,000m to -3,500m), mapping the subterranean aquifers, and uncovering the deep origins of the Maw and the Cheongula.
+2. **Underworld Cleanup Descend (UCD / Katharcheok):**
+   - The six pacification purge arcs (`SOMNARAK-WORLD/Katharcheok/`, Purges 1–6) across The Raw, dismantling the Five Syndicates (Veil Merchants, Memory Washers, Harvesters, Debt Brokers, Entity Traders) and neutralizing rogue constructs.
+3. **The Reverie Directorate (R.D. / The Absolvohan):**
    - Facility 01 containment operations, Han-Energy harvesting, and the continuous 1,778-Cycle loop under Director Majin and the Echo-Core Leads.
    - The containment, research, and pacification of the 292 canonical Sorrow Entities across Floors 1 through 8.
    - The Floor Realizations of the departmental Leads (Dekan, Zyrak, Marjuk, Sooah, Mellda, Ayshuk, Xyan, Ishall, Seiyon).
-2. **Subterranean Expedition Division (SED / Katabagil):**
-   - The seven expeditionary descent passages (`SOMNARAK-WORLD/Katabagil/`, Passages 1–7) exploring the ancient bedrock (-2,000m to -3,500m), mapping the subterranean aquifers, and uncovering the deep origins of the Maw and the Cheongula.
-3. **Underworld Cleanup Descend (UCD / Katharcheok):**
-   - The six pacification purge arcs (`SOMNARAK-WORLD/Katharcheok/`, Purges 1–6) across The Raw, dismantling the Five Syndicates (Veil Merchants, Memory Washers, Harvesters, Debt Brokers, Entity Traders) and neutralizing rogue constructs.
 
 ### 6.2 The Watershed Turning Point: The Dawn of Hope (Cycle 1,778 / Year 4,238)
 The central turning point in planetary history:
@@ -126,16 +129,24 @@ The central turning point in planetary history:
 - 15% of Somnarak's ambient sorrow is transmuted into resonant Hope Entities (HT-001 through HT-012, The Trinity, and Hand of Hope).
 - The three foundational operations (SED, UCD, R.D.) conclude their primary ante-Dawn mandates, providing the stabilized foundation for the new era.
 
-### 6.3 Epoch II: The Post-Dawn Era (After Dawn of Hope — Year 4,238 to Year 4,250+)
-**ANYTHING ELSE** in the narrative chronology takes place strictly **AFTER** the Dawn of Hope:
-1. **The Dawn Initiative (  새벽 이니셔티브  , *Saebyeok Inisieotibeu*):**
+### 6.3 Epoch II: The Post-Dawn & Post-R.D. Era (After Dawn of Hope & After R.D. — Year 4,238 to Year 4,250+)
+**ANYTHING ELSE** in the narrative chronology takes place strictly **AFTER** the Dawn of Hope, and **UNK SE is positioned strictly AFTER R.D.**:
+1. **Unknown Sorrow Entities (UNK SE /   미분류 슬픔 개체  ):**
+   - Canonical Mandate: **UNK SE Is After R.D.**
+   - While the 292 standard Sorrow Entities are contained during R.D. Facility 01's 1,778-cycle loops, the 14 Unknown Sorrow Entities (`SOMNARAK-WORLD/Unknown_Entities/`) manifest and are recorded strictly **AFTER R.D.**:
+     - `SE-N-IVγ-250 The Extinguished` specifically tracks and hunts Hope Bearers (who emerge only after the Dawn of Hope).
+     - `SE-N-IIIβ-247 The Undelivered Thanks` carries gratitude stones honoring fallen Hope Bearers.
+     - `SE-N-IVδ-902 The Repeated Survivor` and `Book of Regressor Log Dramaturgy` record the meta-conscious aftermath of the broken loop cycles.
+     - `SE-O-1051` through `SE-O-1054` Outside Sorrow entities (Numbing Frozen Tundra, Untouched Wild Land, Glass Silt Drifter, Singing Needle) are discovered beyond Somnarak in the unmapped frontier during post-R.D. overland expeditions.
+2. **The Dawn Initiative (  새벽 이니셔티브  , *Saebyeok Inisieotibeu*):**
    - The 12 Hope Bearers operating from the mobile fortress *The Lantern* (  등불  , *Deungbul*), expanding hope from 15% to 45% across the continent (`SOMNARAK_DAWN_OF_HOPE.md`).
-2. **The Horizon Caravan (Jipyeongseondae /   지평선대  ):**
+3. **The Horizon Caravan (Jipyeongseondae /   지평선대  ):**
    - The six trans-desolate overland expedition arcs crossing the wasteland to reconnect Somnarak with the forgotten cities of Cheonbulok and Mugeukji (`SOMNARAK-WORLD/Jipyeongseondae/`).
-3. **The Memory Archive (Gieok Jeojangso /   기억저장소  ):**
+4. **The Memory Archive (Gieok Jeojangso /   기억저장소  ):**
    - Secretary Seiyon's Library Reception Protocol across the seven subterranean strata floors, transmuting historical trauma into sovereign Key Pages to awaken the Silent City (`SOMNARAK-WORLD/Gieok_Jeojangso/`).
-4. **The Wound Walkers (Company 4 /   상처 걷는 자  ):**
+5. **The Wound Walkers (Company 4 /   상처 걷는 자  ):**
    - The post-Dawn spiritual pilgrimage of Sooah across the Seven Crucible Stations in Year 4,250+ to heal the lingering municipal scars that remain after all other companies have finished (`SOMNARAK_WOUND_WALKERS.md`).
-5. **Continental Reconstruction & Global Reconnection:**
+6. **Continental Reconstruction & Global Reconnection:**
    - All subsequent expeditions beyond Mugenhan's perimeter, planetary tectonic stabilization, and the establishment of post-Dawn civil institutions.
+
 

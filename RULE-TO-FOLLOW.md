@@ -289,19 +289,22 @@ Never collapse these states into the single word "done."
 
 ## 9. Master Macro-Chronological Rule (The Three Wings & Post-Dawn Law)
 
-**Owner's binding ruling: "All This Three SED, UCD, AND R.D. Happen Before DAWN OF HOPE And ANYTHING ELSE HAPPEN AFTER DAWN OF HOPE"**
+**Owner's binding rulings:**
+- **"All This Three SED, UCD, AND R.D. Happen Before DAWN OF HOPE And ANYTHING ELSE HAPPEN AFTER DAWN OF HOPE"**
+- **"UNK SE Is After R.D. Even"**
 
-1. **The Ante-Dawn Era (Before Dawn of Hope):**
-   - All operations, descent logs, and purge chronicles of the founding tripartite wings occur strictly **BEFORE** the Dawn of Hope:
-     - **R.D. (The Reverie Directorate / The Absolvohan):** Containment of Sorrow Entities, harvesting of Liquid Han, and the 1,778-Cycle loops within Facility 01.
-     - **SED (Subterranean Expedition Division / Katabagil):** The seven descent passages exploring the ancient subterranean bedrock.
-     - **UCD (Underworld Cleanup Descend / Katharcheok):** The six pacification purges in The Raw against the underworld syndicates.
+1. **The Ante-Dawn Era (Before Dawn of Hope — Sequential Tripartite Progression):**
+   - All operations, descent logs, and purge chronicles of the founding tripartite wings occur strictly **BEFORE** the Dawn of Hope in sequential progression:
+     1. **SED (Subterranean Expedition Division / Katabagil):** The seven descent passages exploring the ancient subterranean bedrock.
+     2. **UCD (Underworld Cleanup Descend / Katharcheok):** The six pacification purges in The Raw against the underworld syndicates.
+     3. **R.D. (The Reverie Directorate / The Absolvohan):** Containment of the 292 standard Sorrow Entities, harvesting of Liquid Han, and the 1,778-Cycle loops within Facility 01.
 2. **The Watershed Climax (The Dawn of Hope):**
    - The Hand of Hope opens at the culmination of Cycle 1,778 in Year 4,238, transmuting the first 15% of ambient sorrow into resonant Hope Entities.
-3. **The Post-Dawn Era (After Dawn of Hope):**
-   - **ANYTHING ELSE** in the narrative chronology takes place strictly **AFTER** the Dawn of Hope:
-     - The Dawn Initiative and The Lantern's continental journey (`SOMNARAK_DAWN_OF_HOPE.md`).
-     - The Horizon Caravan trans-desolate overland expedition (`SOMNARAK-WORLD/Jipyeongseondae/`).
-     - The Memory Archive floor realizations and retrieval of the Promise (`SOMNARAK-WORLD/Gieok_Jeojangso/`).
-     - The Wound Walkers pilgrimage in Year 4,250+ (`SOMNARAK_WOUND_WALKERS.md`).
+3. **The Post-Dawn & Post-R.D. Era (After Dawn of Hope & After R.D.):**
+   - **ANYTHING ELSE** in the narrative chronology takes place strictly **AFTER** the Dawn of Hope, and **UNK SE is strictly positioned AFTER R.D.**:
+     - **UNK SE (Unknown Sorrow Entities):** The 14 anomalous dossiers in `SOMNARAK-WORLD/Unknown_Entities/` manifest strictly **AFTER R.D.**, encountering Hope Bearers (`The Extinguished`, `The Undelivered Thanks`), surviving broken loop mechanics (`The Repeated Survivor`, `Book of Regressor Log Dramaturgy`), or discovered across uncharted frontier biomes (`SE-O-1051` through `1054`).
+     - **The Dawn Initiative:** The mobile fortress *The Lantern* continental journey (`SOMNARAK_DAWN_OF_HOPE.md`).
+     - **The Horizon Caravan:** The trans-desolate overland wasteland expedition (`SOMNARAK-WORLD/Jipyeongseondae/`).
+     - **The Memory Archive:** Floor realizations and Key Page extractions (`SOMNARAK-WORLD/Gieok_Jeojangso/`).
+     - **The Wound Walkers:** Post-Dawn spiritual pilgrimage across seven crucibles in Year 4,250+ (`SOMNARAK_WOUND_WALKERS.md`).
      - All subsequent continental expeditions, diplomatic reconnections, and post-Dawn institutions.
