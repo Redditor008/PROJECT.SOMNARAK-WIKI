@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-1051 [WP]` |
-| **Entity Type** | **Place (Regional Geography)** — The boundless hyper-cryogenic waste of the northern polar frontier; permanent regional geography, cannot be fought or caged |
+| **Entity Type** | **Place (Regional Geography)** — The boundless hyper-cryogenic waste of the northern polar frontier; permanent regional geography |
 | **Coherence** | Entity (IV) |
 | **Potency** | Catastrophic (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -47,7 +47,7 @@
 ## Environmental Telemetry & Polar Hazard Record
 ### Field Parameters
 
-> **R.D. Field Parameters:** Normalized environmental telemetry values for polar transit reference. Combat is impossible against a regional tundra.
+> **R.D. Field Parameters:** Normalized environmental telemetry values for polar transit reference.
 
 | Stat | Value |
 |---|---|

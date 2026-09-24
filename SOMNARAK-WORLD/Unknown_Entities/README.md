@@ -31,7 +31,6 @@ These entities are maintained under strict quarantine protocols supervised by **
 ### 3. Outside Sorrow (`O` / Oehan) Frontier Anomalies
 | Identifier | English Name | Korean Name | Category & Characteristics |
 |---|---|---|---|
-| `SE-O-Vω-1050` | The Consoling Untouched Ocean | 위안의 미답해 `[ConHeAn]` | Sovereign oceanic expanse dissolving grief into eternal 528 Hz peace |
 | `SE-O-IVδ-1051` | Numbing Frozen Tundra | 마비의 동토 `[NuRoZen]` | Cryo-stasis polar waste inducing absolute emotional and sensory anaesthesia |
 | `SE-O-Vω-1054` | The Untouched Wild Land | 미답의 야생지 `[UnWiHan]` | Boundless primeval continental ecosystem rejecting all municipal structures |
 | `SE-O-IIIγ-1052` | The Glass Silt Drifter | 유리모래 방랑자 | Vitrified biped wandering the 2,400 km Sea of Glass transit corridor |

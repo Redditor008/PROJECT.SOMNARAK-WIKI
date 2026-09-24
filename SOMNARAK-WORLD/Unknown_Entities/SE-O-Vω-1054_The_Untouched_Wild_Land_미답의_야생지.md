@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Vω-1054 [WP]` |
-| **Entity Type** | **Place (Continental Geography)** — The boundless primeval continental wilderness of Corner 4; permanent planetary landmass, cannot be fought or caged |
+| **Entity Type** | **Place (Continental Geography)** — The boundless primeval continental wilderness of Corner 4; permanent planetary landmass |
 | **Coherence** | Sovereign (V) |
 | **Potency** | Sovereign (ω) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -47,7 +47,7 @@
 ## Planetary Hazard Telemetry & Expeditionary Parameters
 ### Field Parameters
 
-> **R.D. Field Parameters:** Normalized environmental telemetry values for trans-wilderness expeditionary forces. Combat is impossible against a continental landmass.
+> **R.D. Field Parameters:** Normalized environmental telemetry values for trans-wilderness expeditionary forces.
 
 | Stat | Value |
 |---|---|

@@ -30,11 +30,11 @@ The modern Project Somnarak architecture resolves this through a **dual-tier dur
 1. **Standard Encounter Ceiling (150 to 1,000 HP):**  
    All standard tactical encounters across Ranks I through IV (Residue to Entity) are strictly clamped between 150 and 1,000 HP. Operatives with Speed-scaled Action Points (2–5 AP) engage entities across a 10-Node linear spatial grid, ensuring every strike, range band adjustment, and defensive reaction (*Pass, Pan, Par, Po*) carries immediate mechanical weight.
 
-2. **The 10,000 HP Sovereign Calamity Standard (Rank V / Grade ω) vs. Planetary Geography (HP: N/A):**  
+2. **The 10,000 HP Sovereign Calamity Standard (Rank V / Grade ω):**  
    The 10,000+ HP pool is **retained but strictly elevated** to represent macro-scale geological, district-wide, or multi-wing sovereign horrors. Sovereign combat entities possessing 10,000 to 12,000 HP are titanic boss encounters—such as *Dawn of Mourning* (  애도의 여명   / *Aedo-ui Yeomyeong*) at 12,000 HP or multi-phase departmental Realizations.
    
-   **Critical Distinction — Planetary Geography Features:**  
-   Entities that represent continental landmasses and planetary biomes—such as *The Consoling Untouched Ocean* (`SE-O-Vω-1050`   [위안의 미답해]  / *Wian-ui Midaphae*), *The Untouched Wild Land* (`SE-O-Vω-1054`   [미답의 야생지]  / *Midap-ui Yasaengji*), and *Numbing Frozen Tundra* (`SE-O-IVδ-1051`   [마비의 동토]  / *Mabi-ui Dongto*)—are **Planetary Geography**, not combatants. Their Sorrow Gauge [HP] is strictly **`N/A — Continental Geography (Invulnerable / Unfightable)`**. An operative cannot duel an ocean with a blade; interactions with planetary geography are strictly limited to long-range environmental telemetry (**Viderehan**) and high-pressure survival anchoring (**Ferrehan**).
+   **Planetary Geography Distinction:**  
+   Planetary landmasses, oceans, and natural biomes are documented in `SOMNARAK_GEOLOGY` and `MUGENHAN_PLANETARY_FLORA_AND_FAUNA`. Planetary geography features are not Sorrow Entities and are excluded from containment rosters.
 
 ---
 
@@ -51,14 +51,13 @@ When translating an Abnormality from Project Moon into a Somnarak Sorrow Entity,
 | **HE** | **Rank III (Fragment)** | **Grade γ (Major)** | 500 – 750 HP | 18 – 35 DMG | 20 – 30 Han | 3 – 5 (Swift) |
 | **WAW** | **Rank IV (Entity)** | **Grade δ (Critical)** | 750 – 1,000 HP | 30 – 55 DMG | 28 – 40 Han | 4 – 6 (Rapid) |
 | **ALEPH** | **Rank V (Sovereign)** | **Grade ω (Catastrophic)** | 1,000 – 12,000 HP | 50 – 80+ DMG | Sovereign / Macro | Teleport / Warp |
-| **GEOGRAPHY** | **Rank V (Sovereign)** | **Grade ω (Catastrophic)** | **N/A (Invulnerable)** | Ambient Radiation | Infinite / Unharvestable | Static Geography |
 
 ### 2.2 Re-Calibrating Legacy 10,000 HP Entities
 
 If an entity in legacy notes had 10,000 HP:
 - If it is a **single-target creature or contained subject**: Scale its HP down to the Rank IV / WAW bracket (**750–1,000 HP**). Adjust its difficulty through high Resistance (40–60%), multi-target attacks, and Dual-Threshold Stagger mechanics (Partial Stagger at 60%, Meltdown at 0%).
 - If it is a **sovereign boss or realization adversary**: Maintain the **10,000 to 12,000 HP** pool, classifying it as **Rank V Sovereign (Grade ω)** with multi-segment limb destruction and phase realizations.
-- If it is a **planetary ocean, primeval wilderness, or polar permafrost**: Reclassify its HP to **`N/A (Invulnerable Continental Geography)`**. Replace the combat section with Environmental Hazard Telemetry. Operatives do not "defeat" geography—they endure its ambient pressure field.
+- If it represents **planetary geography or an environmental biome**: Remove it from the Sorrow Entity combat roster. Such features belong to planetary cartography and geology records.
 
 ---
 
