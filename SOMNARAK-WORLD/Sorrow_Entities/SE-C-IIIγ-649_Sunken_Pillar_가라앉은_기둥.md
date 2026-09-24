@@ -172,7 +172,7 @@ The escalation pattern is specific to Sunken Pillar: it is not a generic breach 
 | **Manifestation** | Place-Void|
 | **Primary effect** | Nearby travelers see empty foundations and absent communities. |
 | **Duration / rate** | Slow beneath the Desolate. |
-| **Risk** | This Major (γ) | Object/Place produces Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Major (γ) Object/Place producing Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Distinguish possibility from memory; do not excavate. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

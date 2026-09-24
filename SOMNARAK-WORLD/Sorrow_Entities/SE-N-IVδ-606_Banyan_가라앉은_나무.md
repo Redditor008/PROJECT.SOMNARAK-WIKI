@@ -171,7 +171,7 @@ The escalation pattern is specific to Banyan: it is not a generic breach event. 
 | **Manifestation** | Place-Lament|
 | **Primary effect** | Hidden sorrow appears in masks and public performances. |
 | **Duration / rate** | Slow, through floors and reflective surfaces. |
-| **Risk** | This Critical (δ) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Critical (δ) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Allow honest expression; do not seal the roots again. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

@@ -149,33 +149,57 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured., not permanent healing. A rising gauge means the Work Type has triggered the entity's originating sorrow — the wound is responding, not healing. or fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, a visual change not predicted. before the next assignment.
 ## Activation Behavior
 
-**Activation Trigger:** Sleep, direct touch, or Dream-layer proximity.
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
 
-**Effect:** Manifests a fragment of a desired or lost dream.
+**Activation Trigger:** Holding the crystalline dream shard against the forehead.
 
-**Duration:** Until the dreamer wakes or the fragment fades.
+**Effect:** Induces a restorative lucid reverie, purging cognitive confusion and restoring +20 Composure.
 
-**Risk:** The user may prefer the dream to reality and refuse to wake.
+**Duration:** Continuous while the shard is pressed against skin.
 
+**Risk:** The dream is difficult to abandon; removing the shard induces drowsiness and -2 Movement Speed.
 
+### Tool Use Profile — I-Relic
+
+| Field | Record |
+|---|---|
+| **Tool Class** | **I-Relic** |
+| **Use Mode** | **Equippable / mounting use** |
+| **Activation** | Holding the crystalline dream shard against the forehead. |
+| **Primary Effect** | Induces a restorative lucid reverie, purging cognitive confusion and restoring +20 Composure. |
+| **Duration** | Continuous while the shard is pressed against skin. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
+| **Risk** | The dream is difficult to abandon; removing the shard induces drowsiness and -2 Movement Speed. |
+
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | Rem rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Rem activates its primary resonance: Induces a restorative lucid reverie, purging cognitive confusion and restoring +20 Composure. Grants +10% resistance to Lament damage while equipped. |
+| 30 Seconds | The artifact was born from the loss of an imagined life that felt more real than the waking one.; the bearer begins perceiving echoes of a dreamer died before completing a cherished dream; its emotional residue broke loose near the dream gates.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Rem begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Rem too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The dream is difficult to abandon; removing the shard induces drowsiness and -2 Movement Speed.. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Rem: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Dream form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at SECTOR-A-01, near Dream Gates, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Rem: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Subject-Dream form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-A-01, near Dream Gates, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Sleep, direct touch, or Dream-layer proximity. |
-| **Manifestation** | Object-Lament|
-| **Primary effect** | Manifests a fragment of a desired or lost dream. |
-| **Duration / rate** | Until the dreamer wakes or the fragment fades. |
-| **Risk** | The user may prefer the dream to reality and refuse to wake. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Trigger** | Holding the crystalline dream shard against the forehead. |
+| **Manifestation** | Subject-Dream |
+| **Primary effect** | Induces a restorative lucid reverie, purging cognitive confusion and restoring +20 Composure. |
+| **Duration / rate** | Continuous while the shard is pressed against skin. |
+| **Risk** | Moderate (β) Subject-Dream producing Lament pressure; The dream is difficult to abandon; removing the shard induces drowsiness and -2 Movement Speed. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

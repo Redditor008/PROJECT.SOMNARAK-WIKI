@@ -149,6 +149,10 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter., not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing. or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust the next assignment accordingly. before the next assignment.
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
+
 **Activation Trigger:** Touching a link while naming its owner.
 
 **Effect:** Connects the user's memory to the memory contained in the link.
@@ -163,41 +167,39 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
+| **Activation** | Touching a link while naming its owner. |
 | **Primary Effect** | Connects the user's memory to the memory contained in the link. |
 | **Duration** | Until the link is released. |
-| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Weight trauma. |
 | **Risk** | The user's identity may become tangled with another person's past. |
 
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Chain of Memories lies still until it is taken up — a thing of stone and unbearable gravity, whole and waiting. | When the relic is equipped, it activates: connects the user's memory to the memory contained in the link. |
-| 1 Minute | It was drawn from the quiet sorrows carried inside — the kind never spoken aloud. | The effect lasts until the link is released, for as long as the relic remains worn. |
-| 2 Minutes | Worn against the skin, it does what it was shaped to do: connects the user's memory to the memory contained in the link. The Weight of it seeps into the bearer. | The user's identity may become tangled with another person's past. |
-| 3 Minutes | The longer it is held, the heavier the world grows around it. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |
+| 10 Seconds | Chain of Memories rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Chain of Memories activates its primary resonance: Connects the user's memory to the memory contained in the link. Grants +10% resistance to Weight damage while equipped. |
+| 30 Seconds | The artifact was born from the weight of remembering for people who cannot or will not remember themselves.; the bearer begins perceiving echoes of families traded memories to preserve history after records were destroyed; the memories crystallized into links.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Chain of Memories begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Chain of Memories too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user's identity may become tangled with another person's past.. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Chain of Memories: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at SECTOR-C-01, Collector's Row, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Chain of Memories: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at SECTOR-C-01, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Touching a link while naming its owner. |
-| **Manifestation** | Object-Weight|
+| **Manifestation** | Object-Weight |
 | **Primary effect** | Connects the user's memory to the memory contained in the link. |
 | **Duration / rate** | Until the link is released. |
-| **Risk** | The user's identity may become tangled with another person's past. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Risk** | Moderate (β) Object-Weight producing Weight pressure; The user's identity may become tangled with another person's past. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

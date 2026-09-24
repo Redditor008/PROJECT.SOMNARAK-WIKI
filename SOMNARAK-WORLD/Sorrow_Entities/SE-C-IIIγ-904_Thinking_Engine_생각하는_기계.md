@@ -157,6 +157,61 @@ The Lament pressure is real and measurable, but the gauge decrease from Videreha
 - **Containment priority:** Physical suppression required.
 - **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
+## Activation Behavior
+
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
+**Activation Trigger:** Physical contact and intentional interaction.
+
+**Effect:** Projects concentrated Lament sorrow resonance across the immediate perimeter.
+
+**Duration:** Continuous while channeled
+
+**Risk:** Prolonged contact causes cognitive and emotional fatigue.
+
+### Tool Use Profile — O-Relic
+
+| Field | Record |
+|---|---|
+| **Tool Class** | **O-Relic** |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | Physical contact and intentional interaction. |
+| **Primary Effect** | Projects concentrated Lament sorrow resonance across the immediate perimeter. |
+| **Duration** | Continuous while channeled |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
+| **Risk** | Prolonged contact causes cognitive and emotional fatigue. |
+
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | Thinking Engine begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates Thinking Engine: Projects concentrated Lament sorrow resonance across the immediate perimeter. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the accumulated grief of unacknowledged lament. forged during a crisis in the city where lament went unaddressed.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Thinking Engine's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: Prolonged contact causes cognitive and emotional fatigue. all personnel in the sector take heavy damage. |
+
+### Escalation Notes
+
+The escalation pattern is specific to Thinking Engine: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Mind form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-C-904, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+
+### Detailed Activation Record
+
+| Activation field | R.D. operational detail |
+|---|---|
+| **Trigger** | Physical contact and intentional interaction. |
+| **Manifestation** | Object-Mind |
+| **Primary effect** | Projects concentrated Lament sorrow resonance across the immediate perimeter. |
+| **Duration / rate** | Continuous while channeled |
+| **Risk** | Major (γ) Object-Mind producing Lament pressure; Prolonged contact causes cognitive and emotional fatigue. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.

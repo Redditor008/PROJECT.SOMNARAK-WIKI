@@ -147,34 +147,59 @@
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. the entity’s classification. Crucible is recorded as an Object/Place with Place-Grudge manifestation and Grudge elemental expression. The current record places it at Zone D, Forge District; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter., not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing. or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust the next assignment accordingly. before the next assignment.
-## Expansion Behavior
+## Activation Behavior
 
-| Field | Detail |
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
+**Activation Trigger:** Placing unworked metal into the hearth while harboring unacknowledged resentment.
+
+**Effect:** Tempers metal in concentrated Grudge; weapons forged in the hearth gain +20% armor penetration, but generate intense radiant heat.
+
+**Duration:** Continuous while fuel and breath are supplied to the bellows.
+
+**Risk:** The forge demands more fuel; prolonged channeling causes severe third-degree thermal burns to the channeler.
+
+### Tool Use Profile — O-Relic
+
+| Field | Record |
 |---|---|
-| **Expansion Trigger** | Rage brought into the Forge without acknowledgment. |
-| **Expansion Rate** | Slow through connected workshops. |
-| **Expansion Effect** | Tools and structures begin reflecting personal resentment. |
-| **Containment** | Cool the anger through naming and controlled work. |
+| **Tool Class** | **O-Relic** |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | Placing unworked metal into the hearth while harboring unacknowledged resentment. |
+| **Primary Effect** | Tempers metal in concentrated Grudge; weapons forged in the hearth gain +20% armor penetration, but generate intense radiant heat. |
+| **Duration** | Continuous while fuel and breath are supplied to the bellows. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Grudge resonance across the sector. |
+| **Risk** | The forge demands more fuel; prolonged channeling causes severe third-degree thermal burns to the channeler. |
 
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | Crucible begins thrumming as the channel opens; a palpable wave of grudge sorrow sweeps across the containment chamber. | Opening the channel activates Crucible: Tempers metal in concentrated Grudge; weapons forged in the hearth gain +20% armor penetration, but generate intense radiant heat. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the burden of making useful things from resentment. forged during forge workers shaped weapons from the city's suppressed rage until the furnace became conscious.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Crucible's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Grudge shockwave: The forge demands more fuel; prolonged channeling causes severe third-degree thermal burns to the channeler. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Crucible: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Grudge and located at Zone D, Forge District, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Crucible: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone D, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Cool the anger through naming and controlled work. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Rage brought into the Forge without acknowledgment. |
-| **Manifestation** | Place-Grudge|
-| **Primary effect** | Tools and structures begin reflecting personal resentment. |
-| **Duration / rate** | Slow through connected workshops. |
-| **Risk** | This Moderate (β) | Object/Place produces Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Cool the anger through naming and controlled work. |
+| **Trigger** | Placing unworked metal into the hearth while harboring unacknowledged resentment. |
+| **Manifestation** | Place-Grudge |
+| **Primary effect** | Tempers metal in concentrated Grudge; weapons forged in the hearth gain +20% armor penetration, but generate intense radiant heat. |
+| **Duration / rate** | Continuous while fuel and breath are supplied to the bellows. |
+| **Risk** | Moderate (β) Place-Grudge producing Grudge pressure; The forge demands more fuel; prolonged channeling causes severe third-degree thermal burns to the channeler. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

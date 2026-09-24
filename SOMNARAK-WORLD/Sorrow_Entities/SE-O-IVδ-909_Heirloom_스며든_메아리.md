@@ -172,7 +172,7 @@ The escalation pattern is specific to Heirloom: it is not a generic breach event
 | **Manifestation** | Place-Grudge|
 | **Primary effect** | Personnel hear their own anger repeated until it feels alien. |
 | **Duration / rate** | Rapid through connected memory spaces. |
-| **Risk** | This Critical (δ) | Object/Place produces Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Critical (δ) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Stop repetition and identify the original voice. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

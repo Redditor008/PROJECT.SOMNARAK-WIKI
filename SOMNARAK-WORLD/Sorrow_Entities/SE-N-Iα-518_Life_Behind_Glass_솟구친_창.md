@@ -149,6 +149,10 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained., not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused. or fed the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling. before the next assignment.
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
+
 **Activation Trigger:** Looking through the glass.
 
 **Effect:** Shows a memory of a life beyond the tunnel.
@@ -163,41 +167,39 @@ Work Type data is one input among many. The SECC code and coherence level determ
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
+| **Activation** | Looking through the glass. |
 | **Primary Effect** | Shows a memory of a life beyond the tunnel. |
 | **Duration** | Until the viewer looks away. |
-| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
 | **Risk** | The viewer may become unable to return to present work. |
 
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Life Behind Glass lies still until it is taken up — a thing of blue grief, whole and waiting. | When the relic is equipped, it activates: shows a memory of a life beyond the tunnel. |
-| 1 Minute | It was drawn from the quiet sorrows carried inside — the kind never spoken aloud. | The effect lasts until the viewer looks away, for as long as the relic remains worn. |
-| 2 Minutes | Worn against the skin, it does what it was shaped to do: shows a memory of a life beyond the tunnel. The Lament of it seeps into the bearer. | The viewer may become unable to return to present work. |
-| 3 Minutes | Every grief it touches, it remembers; and it has a long memory. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |
+| 10 Seconds | Life Behind Glass rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Life Behind Glass activates its primary resonance: Shows a memory of a life beyond the tunnel. Grants +10% resistance to Lament damage while equipped. |
+| 30 Seconds | The artifact was born from the weight of observing life from a distance and never entering it.; the bearer begins perceiving echoes of a tunnel worker watched the city through a small window but never left the depths; the view became an object.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Life Behind Glass begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Life Behind Glass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The viewer may become unable to return to present work.. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Life Behind Glass: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at Zone B, deep tunnels, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Life Behind Glass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at Zone B, deep tunnels, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Looking through the glass. |
-| **Manifestation** | Subject-Lament|
+| **Manifestation** | Object-Weight |
 | **Primary effect** | Shows a memory of a life beyond the tunnel. |
 | **Duration / rate** | Until the viewer looks away. |
-| **Risk** | The viewer may become unable to return to present work. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Risk** | Minor (α) Object-Weight producing Lament pressure; The viewer may become unable to return to present work. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

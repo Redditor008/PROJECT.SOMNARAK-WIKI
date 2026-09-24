@@ -161,6 +161,61 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 - **Containment priority:** Physical suppression required.
 - **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
+## Activation Behavior
+
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
+**Activation Trigger:** Physical contact and intentional interaction.
+
+**Effect:** Projects concentrated Void sorrow resonance across the immediate perimeter.
+
+**Duration:** Continuous while channeled
+
+**Risk:** Prolonged contact causes cognitive and emotional fatigue.
+
+### Tool Use Profile — O-Relic
+
+| Field | Record |
+|---|---|
+| **Tool Class** | **O-Relic** |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | Physical contact and intentional interaction. |
+| **Primary Effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
+| **Duration** | Continuous while channeled |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Void resonance across the sector. |
+| **Risk** | Prolonged contact causes cognitive and emotional fatigue. |
+
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | Glass Elsewhere begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Glass Elsewhere: Projects concentrated Void sorrow resonance across the immediate perimeter. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the accumulated grief of unacknowledged void. forged during a crisis in the city where void went unaddressed.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Glass Elsewhere's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Void shockwave: Prolonged contact causes cognitive and emotional fatigue. all personnel in the sector take heavy damage. |
+
+### Escalation Notes
+
+The escalation pattern is specific to Glass Elsewhere: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Phantasmal form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-N-903, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+
+### Detailed Activation Record
+
+| Activation field | R.D. operational detail |
+|---|---|
+| **Trigger** | Physical contact and intentional interaction. |
+| **Manifestation** | Object-Phantasmal |
+| **Primary effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
+| **Duration / rate** | Continuous while channeled |
+| **Risk** | Moderate (β) Object-Phantasmal producing Void pressure; Prolonged contact causes cognitive and emotional fatigue. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.

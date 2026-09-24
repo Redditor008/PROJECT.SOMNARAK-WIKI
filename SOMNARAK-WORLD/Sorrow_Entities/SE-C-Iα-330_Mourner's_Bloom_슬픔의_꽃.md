@@ -174,7 +174,7 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 seconds | Mourner's Bloom waits in silence — a thing of blue grief — until a current is opened through it. | When the relic is channeled, it activates: crystallizes one moment of mourning into a petal. |
-| 1 minute | It was forged from a grief the city itself could never bring itself to name. | The effect persists (until the grief is acknowledged and released), strengthening the longer the channel is held. |
+| 1 minute | It crystallized from an unvoiced grief buried beneath the municipal foundations. | The effect persists (until the grief is acknowledged and released), strengthening the longer the channel is held. |
 | 2 minutes | Once channeled, the Lament flows both ways: the bearer feeds the relic as it feeds them, and crystallizes one moment of mourning into a petal. | The flower may preserve sorrow that should be allowed to change. |
 | 3 minutes | Every grief it touches, it remembers; and it has a long memory. | A channel abandoned mid-use does not close on its own; the residue compounds until it is ended deliberately. |
 | 3:20 seconds | What passes through does not all return; the relic is fuller afterwards, and the bearer is less. |  |

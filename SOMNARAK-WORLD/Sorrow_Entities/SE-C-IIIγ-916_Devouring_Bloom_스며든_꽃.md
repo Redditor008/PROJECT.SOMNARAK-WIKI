@@ -172,8 +172,8 @@ Work Type data is one input among many. The SECC code and coherence level determ
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 seconds | Devouring Bloom waits in silence — a thing of stone and unbearable gravity — until a current is opened through it. | When the relic is channeled, it activates: floors become heavy and passages narrow. |
-| 1 minute | It was forged from a grief the city itself could never bring itself to name. | The effect persists (while the channel is maintained; interruption ends the effect), strengthening the longer the channel is held. |
+| 10 seconds | Devouring Bloom waits in silence — an unyielding manifestation of accumulated sorrow — until a current is opened through it. | When the relic is channeled, it activates: floors become heavy and passages narrow. |
+| 1 minute | It crystallized from an unvoiced grief buried beneath the municipal foundations. | The effect persists (while the channel is maintained; interruption ends the effect), strengthening the longer the channel is held. |
 | 2 minutes | Once channeled, the Weight flows both ways: the bearer feeds the relic as it feeds them, and floors become heavy and passages narrow. | Misuse increases emotional strain and may destabilize the operator. |
 | 3 minutes | The longer it is held, the heavier the world grows around it. | A channel abandoned mid-use does not close on its own; the residue compounds until it is ended deliberately. |
 | 3:20 seconds | What passes through does not all return; the relic is fuller afterwards, and the bearer is less. |  |

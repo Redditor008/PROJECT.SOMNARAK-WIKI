@@ -172,7 +172,7 @@ The escalation pattern is specific to Risus: it is not a generic breach event. P
 | **Manifestation** | Object-Lament|
 | **Primary effect** | Personnel hear laughter that does not belong to the present. |
 | **Duration / rate** | Slowly spreads through the Commons. |
-| **Risk** | This Minor (α) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Minor (α) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Let the laughter and grief coexist; do not suppress the sound. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

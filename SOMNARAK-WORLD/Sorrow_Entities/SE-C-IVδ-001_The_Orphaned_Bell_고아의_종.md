@@ -217,6 +217,61 @@ The escalation pattern is specific to The Orphaned Bell: it is not a generic bre
 | **Management** | The bell must remain anchored in its tower. Pugnahan is ineffective and intensifies the tolling. Flerehan—especially singing to it—remains the most reliable calming method. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+## Activation Behavior
+
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
+**Activation Trigger:** Midnight, the Consolihan anniversary, or concentrated grief concerning missing children.
+
+**Effect:** The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress.
+
+**Duration:** While equipped, until the removal condition is met.
+
+**Risk:** Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia.
+
+### Tool Use Profile — O-Relic
+
+| Field | Record |
+|---|---|
+| **Tool Class** | **O-Relic** |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | Midnight, the Consolihan anniversary, or concentrated grief concerning missing children. |
+| **Primary Effect** | The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. |
+| **Duration** | While equipped, until the removal condition is met. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
+| **Risk** | Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia. |
+
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | The Orphaned Bell begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates The Orphaned Bell: The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the grief of parents searching for children who would never return. forged during zone b expanded over streets and homes, swallowing children into the han and leaving families without answers.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of The Orphaned Bell's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia. all personnel in the sector take heavy damage. |
+
+### Escalation Notes
+
+The escalation pattern is specific to The Orphaned Bell: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-B-01 — special tower in Zone B; contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+
+### Detailed Activation Record
+
+| Activation field | R.D. operational detail |
+|---|---|
+| **Trigger** | Midnight, the Consolihan anniversary, or concentrated grief concerning missing children. |
+| **Manifestation** | Object-Lament |
+| **Primary effect** | The bell's toll propagates through walls, floors, and bodies. Those within hearing range experience profound loss; sustained exposure can cause memory loss and emotional distress. |
+| **Duration / rate** | While equipped, until the removal condition is met. |
+| **Risk** | Critical (δ) — Facility-threatening if breached Object-Lament producing Lament pressure; Channeling beyond 3 continuous minutes or pausing mid-recitation allows unvoiced grief to flood the operator's mind, risking amnesia. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.

@@ -171,7 +171,7 @@ The escalation pattern is specific to Floating Tree: it is not a generic breach 
 | **Manifestation** | Subject-Lament|
 | **Primary effect** | Nearby travelers feel rootless and directionless. |
 | **Duration / rate** | Slow along Desolate Han currents. |
-| **Risk** | This Major (γ) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Major (γ) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Mark its route; do not attempt to anchor it physically. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

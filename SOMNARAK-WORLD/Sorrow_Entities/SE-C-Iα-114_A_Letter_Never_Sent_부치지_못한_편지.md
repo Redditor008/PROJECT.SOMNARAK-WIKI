@@ -135,6 +135,10 @@ Personnel assigned to Viderehan must avoid reading the faded brush script on the
 
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Catastrophic Battlefield Alteration**
+> **This Relic is Irrevocably Consumed upon Activation**
+
 **Activation Trigger:** Breaking the indigo crystal wax seal and opening the envelope flap.
 
 **Effect:** The letter burns in a heatless deep blue flash, discharging a restorative acoustic chime that instantly cures Panic, clears mental terror, and grants +15 Composure to all allies within Range Band 3.
@@ -148,27 +152,29 @@ Personnel assigned to Viderehan must avoid reading the faded brush script on the
 | Field | Record |
 |---|---|
 | **Tool Class** | **A-Relic** |
-| **Use Mode** | **Single-use / consumable use** |
+| **Use Mode** | **Single-use / consumable discharge** |
 | **Activation** | Breaking the indigo crystal wax seal and opening the envelope flap. |
 | **Primary Effect** | The letter burns in a heatless deep blue flash, discharging a restorative acoustic chime that instantly cures Panic, clears mental terror, and grants +15 Composure to all allies within Range Band 3. |
 | **Duration** | Instantaneous discharge; effect lasts for 1 full combat phase (6 turns). |
-| **Termination / Return** | The relic is consumed by its use. What remains is emptied of sorrow and cannot be rekindled. |
+| **Termination / Return** | The relic is completely consumed by its discharge; what remains is an inert mineral or metal husk emptied of sorrow. |
 | **Risk** | The letter is permanently consumed into grey ash; the user experiences a poignant ache of bereavement. |
 
-**Operational Rule:** A single-use relic is spent, not stored. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan during routine shifts.
+**Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 1 Use | An unread dispatch envelope preserved in blue stasis. The wax bears the crest of an evacuation train that left eighty years ago. | Breaking the seal triggers a heatless blue conflagration that purges panic across the room. |
-| 3 Uses | "I told her I would take the promotion to the third tier. I told her the archives were more important than her wedding. I wrote eight pages trying to take it back." | The restorative chime grants +15 Composure to all squad members within Range Band 3 for 1 Combat Phase. |
-| 5 Uses | The sirens gave eleven minutes. He made it to the platform with ink still wet on his fingers, but the pneumatic steel was already down. | Once consumed, the envelope dissolves into cold ash. It cannot be repaired, rekindled, or extracted again. |
-| 7 Uses | An apology that arrives after the house has burned cannot save the dead. It can only comfort the living who are still waiting in the dark. | The operative who breaks the seal suffers acute empathetic grief (-5 Composure permanent for the shift). |
+| 1 Use | A Letter Never Sent sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Breaking the indigo crystal wax seal and opening the envelope flap.) initiates an instantaneous, irreversible discharge across the battlefield. |
+| 3 Uses | Crystallized from the unendurable weight of realizing the person you wronged will die believing you never cared. during the great subsidence of year 4,112 in sector-a-04, where lower foundational struts sheared during sub-rail evacuation., the relic answers only to complete commitment. | The full discharge completes: The letter burns in a heatless deep blue flash, discharging a restorative acoustic chime that instantly cures Panic, clears mental terror, and grants +15 Composure to all allies within Range Band 3. All hostile entities in range suffer devastating disruption and elemental debuffs. |
+| 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
+| 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The letter is permanently consumed into grey ash; the user experiences a poignant ache of bereavement. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to A Letter Never Sent: it does not wander or breach physically. If the Sorrow Gauge exceeds 70%, the wax begins weeping boiling indigo Han-sap. At 100%, the letter discharges prematurely without restoring composure, inflicting 25 Deep Blue damage to all personnel in the sector.
+The escalation pattern is specific to A Letter Never Sent: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-A-04, Archive Vault 12 — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
@@ -176,11 +182,12 @@ The escalation pattern is specific to A Letter Never Sent: it does not wander or
 |---|---|
 | **Trigger** | Breaking the indigo crystal wax seal and opening the envelope flap. |
 | **Manifestation** | Object-Lament |
-| **Primary effect** | Immediate purge of all psychological Panic and +15 Composure across Range Band 3. |
-| **Duration / rate** | Instantaneous discharge; lasting composure buff for 6 combat turns. |
-| **Risk** | Permanent destruction of the artifact; post-use bereavement ache in user. |
-| **Management** | Use Viderehan to monitor seal integrity and Ferrehan to stabilize gauge. |
+| **Primary effect** | The letter burns in a heatless deep blue flash, discharging a restorative acoustic chime that instantly cures Panic, clears mental terror, and grants +15 Composure to all allies within Range Band 3. |
+| **Duration / rate** | Instantaneous discharge; effect lasts for 1 full combat phase (6 turns). |
+| **Risk** | Minor (α) Object-Lament producing Lament pressure; The letter is permanently consumed into grey ash; the user experiences a poignant ache of bereavement. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.

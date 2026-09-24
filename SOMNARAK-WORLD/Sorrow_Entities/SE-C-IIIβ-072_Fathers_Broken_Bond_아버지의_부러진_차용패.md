@@ -135,6 +135,10 @@ Operatives assigned to Ferrehan must possess clean financial records. If an oper
 
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Catastrophic Battlefield Alteration**
+> **This Relic is Irrevocably Consumed upon Activation**
+
 **Activation Trigger:** Snapping the octagonal brass tablet in two along its scored center line with both hands.
 
 **Effect:** Releases an immense gravitational implosion of Weight that immediately reduces the squad's Sorrow Gauge by -30% and purges all debt marks, bind debuffs, and speed penalties. The tablet shatters into blackened brass shards.
@@ -148,39 +152,42 @@ Operatives assigned to Ferrehan must possess clean financial records. If an oper
 | Field | Record |
 |---|---|
 | **Tool Class** | **A-Relic** |
-| **Use Mode** | **Single-use / consumable use** |
+| **Use Mode** | **Single-use / consumable discharge** |
 | **Activation** | Snapping the octagonal brass tablet in two along its scored center line with both hands. |
-| **Primary Effect** | Immediate squad Sorrow Gauge reduction of -30%, complete purge of all debt marks, bind debuffs, and movement penalties. |
-| **Duration** | Instantaneous gravitational purge; debuff clearance lasts for the entire battle encounter. |
-| **Termination / Return** | The tablet shatters into blackened brass fragments with zero remaining sorrow energy. |
-| **Risk** | Permanent destruction of the relic; the operative suffers 10 Black damage and wrist sprain (-1 AP for 1 turn). |
+| **Primary Effect** | Releases an immense gravitational implosion of Weight that immediately reduces the squad's Sorrow Gauge by -30% and purges all debt marks, bind debuffs, and speed penalties. The tablet shatters into blackened brass shards. |
+| **Duration** | Instantaneous purge; debuff clearance is permanent for current battle. |
+| **Termination / Return** | The relic is completely consumed by its discharge; what remains is an inert mineral or metal husk emptied of sorrow. |
+| **Risk** | The token is irrevocably destroyed; the user suffers 10 Black damage and wrist strain (-1 AP for 1 turn). |
 
-**Operational Rule:** A single-use relic is spent, not stored. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan during routine shifts.
+**Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 1 Use | A scored octagonal tally from the Third Sump. It weighs twenty kilograms because it holds forty years of compounded interest. | Snap the brass along its scored seam to discharge an immediate gravitational purge. |
-| 3 Uses | "Twelve silver talers for an oxygen filtration mask. They charged my father five talers a month to refill the tank. By the time his lungs turned to stone, he owed three hundred." | The discharge reduces the entire squad's Sorrow Gauge by -30% and purges all active bind debuffs. |
-| 5 Uses | He poured three gallons of battery acid over the central ledger shelves, dropped the family tally on the stones, and brought his work boot down with everything he had. | The brass fractures irrevocably into cold slag. It cannot be repaired, reforged, or re-extracted. |
-| 7 Uses | A man's life is not a loan to be collected with compound interest. When the brass snaps, the debt is settled in lead and silence. | The operative snapping the tablet suffers 10 Black kinetic damage and wrist strain (-1 AP for 1 turn). |
+| 1 Use | Father's Broken Bond sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Snapping the octagonal brass tablet in two along its scored center line with both hands.) initiates an instantaneous, irreversible discharge across the battlefield. |
+| 3 Uses | Crystallized from the crushing, suffocating realization that in somnarak, poverty is a crime that outlives the father to consume the children. during the archive vault break-in of year 4,166 in the third sump concourse registry., the relic answers only to complete commitment. | The full discharge completes: Releases an immense gravitational implosion of Weight that immediately reduces the squad's Sorrow Gauge by -30% and purges all debt marks, bind debuffs, and speed penalties. The tablet shatters into blackened brass shards. All hostile entities in range suffer devastating disruption and elemental debuffs. |
+| 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
+| 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The token is irrevocably destroyed; the user suffers 10 Black damage and wrist strain (-1 AP for 1 turn). |
 
 ### Escalation Notes
 
-If the tablet's Sorrow Gauge reaches 70%, the gravitational pull begins dragging nearby metal tools across the room. At 100%, it collapses through the floor, crushing the level below. Apply magnetic anchors immediately.
+The escalation pattern is specific to Father's Broken Bond: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at SECTOR-C-03, Collector's Vault — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Manual shearing snap along the scored center seam. |
+| **Trigger** | Snapping the octagonal brass tablet in two along its scored center line with both hands. |
 | **Manifestation** | Object-Weight |
-| **Primary effect** | Squad Sorrow Gauge purge (-30%), clearance of all debt and bind debuffs. |
-| **Duration / rate** | Instantaneous purge event; permanent clearance for battle. |
-| **Risk** | Irrevocable relic destruction; user suffers wrist strain and kinetic recoil. |
-| **Management** | Use Viderehan to track mass variations and Ferrehan to bleed burden pressure. |
+| **Primary effect** | Releases an immense gravitational implosion of Weight that immediately reduces the squad's Sorrow Gauge by -30% and purges all debt marks, bind debuffs, and speed penalties. The tablet shatters into blackened brass shards. |
+| **Duration / rate** | Instantaneous purge; debuff clearance is permanent for current battle. |
+| **Risk** | Moderate (β) Object-Weight producing Weight pressure; The token is irrevocably destroyed; the user suffers 10 Black damage and wrist strain (-1 AP for 1 turn). |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.

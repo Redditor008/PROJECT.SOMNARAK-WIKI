@@ -192,12 +192,67 @@ The escalation pattern is specific to Driftglass: it is not a generic breach eve
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | This Major (γ) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Trigger** | Major (γ) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Manifestation** | Subject-Lament|
 | **Primary effect** | Personnel feel loss of direction and belonging. |
 | **Duration / rate** | Until a resting place is acknowledged. |
 | **Risk** | Misuse increases emotional strain and may destabilize the operator. |
 | **Management** | Provide a memory anchor; do not force a destination. |
+
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
+## Activation Behavior
+
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
+
+**Activation Trigger:** This Major (γ)
+
+**Effect:** Personnel feel loss of direction and belonging.
+
+**Duration:** Until a resting place is acknowledged.
+
+**Risk:** Misuse increases emotional strain and may destabilize the operator.
+
+### Tool Use Profile — I-Relic
+
+| Field | Record |
+|---|---|
+| **Tool Class** | **I-Relic** |
+| **Use Mode** | **Equippable / mounting use** |
+| **Activation** | This Major (γ) |
+| **Primary Effect** | Personnel feel loss of direction and belonging. |
+| **Duration** | Until a resting place is acknowledged. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
+| **Risk** | Misuse increases emotional strain and may destabilize the operator. |
+
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | Driftglass rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Driftglass activates its primary resonance: Personnel feel loss of direction and belonging. Grants +10% resistance to Lament damage while equipped. |
+| 30 Seconds | The artifact was born from the grief of wandering after every destination has become unfamiliar.; the bearer begins perceiving echoes of a desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Driftglass begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Driftglass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Misuse increases emotional strain and may destabilize the operator.. |
+
+### Escalation Notes
+
+The escalation pattern is specific to Driftglass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at Zone A, Alpha Tree, emotional and behavioral indicators must be logged alongside physical telemetry.
+
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+
+### Detailed Activation Record
+
+| Activation field | R.D. operational detail |
+|---|---|
+| **Trigger** | This Major (γ) |
+| **Manifestation** | Object-Lament |
+| **Primary effect** | Personnel feel loss of direction and belonging. |
+| **Duration / rate** | Until a resting place is acknowledged. |
+| **Risk** | Major (γ) Object-Lament producing Lament pressure; Misuse increases emotional strain and may destabilize the operator. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

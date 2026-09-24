@@ -147,14 +147,19 @@
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. the entity’s classification. Bridge of the Unchosen is recorded as an Object/Place with Object-Weight manifestation and Void elemental expression. The current record places it at Zone D, Echo Gardens; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained., not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused. or fed the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling. before the next assignment.
-## Expansion Behavior
+## Activation Behavior
 
-| Field | Detail |
-|---|---|
-| **Expansion Trigger** | Regret focused on an unchosen path. |
-| **Expansion Rate** | Slow through the Echo Gardens. |
-| **Expansion Effect** | Visitors experience lives they might have lived. |
-| **Containment** | Acknowledge possibility without treating it as history. |
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
+
+**Activation Trigger:** Regret focused on an unchosen path.
+
+**Effect:** Projects concentrated Void sorrow resonance across the immediate perimeter.
+
+**Duration:** While equipped, until the removal condition is met.
+
+**Risk:** Misuse increases emotional strain and may destabilize the operator.
 
 ### Tool Use Profile — I-Relic
 
@@ -162,41 +167,39 @@ Work Type data is one input among many. The SECC code and coherence level determ
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
-| **Primary Effect** | Visitors experience lives they might have lived. |
+| **Activation** | Regret focused on an unchosen path. |
+| **Primary Effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
 | **Duration** | While equipped, until the removal condition is met. |
-| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
 | **Risk** | Misuse increases emotional strain and may destabilize the operator. |
 
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Bridge of the Unchosen lies still until it is taken up — a thing of hollow, patient absence, whole and waiting. | When the relic is equipped, it activates: visitors experience lives they might have lived. |
-| 1 Minute | It was drawn from the quiet sorrows carried inside — the kind never spoken aloud. | The effect lasts while equipped, until the removal condition is met, for as long as the relic remains worn. |
-| 2 Minutes | Worn against the skin, it does what it was shaped to do: visitors experience lives they might have lived. The Void of it seeps into the bearer. | Misuse increases emotional strain and may destabilize the operator. |
-| 3 Minutes | It takes something, always, even when it seems only to give. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |
+| 10 Seconds | Bridge of the Unchosen rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Bridge of the Unchosen activates its primary resonance: Projects concentrated Void sorrow resonance across the immediate perimeter. Grants +10% resistance to Void damage while equipped. |
+| 30 Seconds | The artifact was born from the grief of what could have been if someone had chosen differently.; the bearer begins perceiving echoes of a person abandoned a crossing at the last moment; the path froze around the decision.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Bridge of the Unchosen begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Bridge of the Unchosen too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Misuse increases emotional strain and may destabilize the operator.. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Bridge of the Unchosen: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Void and located at Zone D, Echo Gardens, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Bridge of the Unchosen: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Acknowledge possibility without treating it as history. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Regret focused on an unchosen path. |
-| **Manifestation** | Subject-Void|
-| **Primary effect** | Visitors experience lives they might have lived. |
+| **Manifestation** | Object-Weight |
+| **Primary effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
 | **Duration / rate** | While equipped, until the removal condition is met. |
-| **Risk** | Misuse increases emotional strain and may destabilize the operator. |
-| **Management** | Acknowledge possibility without treating it as history. |
+| **Risk** | Major (γ) Object-Weight producing Void pressure; Misuse increases emotional strain and may destabilize the operator. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

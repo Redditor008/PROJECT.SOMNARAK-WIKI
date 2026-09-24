@@ -172,7 +172,7 @@ The escalation pattern is specific to Labyrinth of Stolen Faces: it is not a gen
 | **Manifestation** | Place-Void|
 | **Primary effect** | Visitors lose identity and confuse borrowed lives with their own. |
 | **Duration / rate** | Constant internal rearrangement. |
-| **Risk** | This Major (γ) | Object/Place produces Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Major (γ) Object/Place producing Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Maintain a memory anchor and limit exploration time. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

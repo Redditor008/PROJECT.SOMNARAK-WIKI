@@ -149,6 +149,10 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution., not permanent healing. Gauge increase: the work has fed rather than calmed. The entity's grief is louder now, not quieter. or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down. before the next assignment.
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
+
 **Activation Trigger:** Touch or attempts to move the ruin.
 
 **Effect:** Displays the lives and injustice attached to the structure.
@@ -163,41 +167,39 @@ The behavior table is a snapshot, not a system. The classification and origin co
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
+| **Activation** | Touch or attempts to move the ruin. |
 | **Primary Effect** | Displays the lives and injustice attached to the structure. |
 | **Duration** | Until contact ends. |
-| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
 | **Risk** | The worker may become emotionally fixed in the ruin's final moment. |
 
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Frozen Fury lies still until it is taken up — a thing of hollow, patient absence, whole and waiting. | When the relic is equipped, it activates: displays the lives and injustice attached to the structure. |
-| 1 Minute | It was forged from a grief the city itself could never bring itself to name. | The effect lasts until contact ends, for as long as the relic remains worn. |
-| 2 Minutes | Worn against the skin, it does what it was shaped to do: displays the lives and injustice attached to the structure. The Void of it seeps into the bearer. | The worker may become emotionally fixed in the ruin's final moment. |
-| 3 Minutes | It takes something, always, even when it seems only to give. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |
+| 10 Seconds | Frozen Fury rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Frozen Fury activates its primary resonance: Displays the lives and injustice attached to the structure. Grants +10% resistance to Void damage while equipped. |
+| 30 Seconds | The artifact was born from the rage of a home destroyed while its residents were still being blamed for its loss.; the bearer begins perceiving echoes of a collector-controlled district was cleared and frozen in memory after its residents disappeared.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Frozen Fury begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Frozen Fury too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may become emotionally fixed in the ruin's final moment.. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Frozen Fury: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Void and located at Zone C, Collector's Row, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Frozen Fury: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at Zone C, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Touch or attempts to move the ruin. |
-| **Manifestation** | Subject-Void|
+| **Manifestation** | Object-Grudge |
 | **Primary effect** | Displays the lives and injustice attached to the structure. |
 | **Duration / rate** | Until contact ends. |
-| **Risk** | The worker may become emotionally fixed in the ruin's final moment. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Risk** | Critical (δ) Object-Grudge producing Void pressure; The worker may become emotionally fixed in the ruin's final moment. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

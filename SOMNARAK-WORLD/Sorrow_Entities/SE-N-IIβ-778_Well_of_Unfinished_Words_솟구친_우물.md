@@ -147,34 +147,59 @@
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. the entity’s classification. Well of Unfinished Words is recorded as an Object/Place with Place-Lament manifestation and Lament elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured., not permanent healing. A rising gauge means the Work Type has triggered the entity's originating sorrow — the wound is responding, not healing. or fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, a visual change not predicted. before the next assignment.
-## Expansion Behavior
+## Activation Behavior
 
-| Field | Detail |
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
+**Activation Trigger:** Leaning over the stone coping and whispering an unsaid confession.
+
+**Effect:** Acoustic reverberation silences hostile psychic chants across Range Band 2, preventing mental panic cascades.
+
+**Duration:** Continuous while the whisper echoes within the shaft.
+
+**Risk:** The well swallows the speaker's voice; the operative is afflicted with muteness for the remainder of the shift.
+
+### Tool Use Profile — O-Relic
+
+| Field | Record |
 |---|---|
-| **Expansion Trigger** | Unheard mourning and interrupted testimony. |
-| **Expansion Rate** | Slow, through border ground and walls. |
-| **Expansion Effect** | Nearby structures lean toward private grief. |
-| **Containment** | Allow testimony to finish; do not drain the Well. |
+| **Tool Class** | **O-Relic** |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | Leaning over the stone coping and whispering an unsaid confession. |
+| **Primary Effect** | Acoustic reverberation silences hostile psychic chants across Range Band 2, preventing mental panic cascades. |
+| **Duration** | Continuous while the whisper echoes within the shaft. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
+| **Risk** | The well swallows the speaker's voice; the operative is afflicted with muteness for the remainder of the shift. |
 
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | Well of Unfinished Words begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates Well of Unfinished Words: Acoustic reverberation silences hostile psychic chants across Range Band 2, preventing mental panic cascades. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the need to tell a loss and find no one willing to hear it. forged during border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. their words sank into the ground.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Well of Unfinished Words's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: The well swallows the speaker's voice; the operative is afflicted with muteness for the remainder of the shift. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Well of Unfinished Words: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Lament form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at Zone E, Border region, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Well of Unfinished Words: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at Zone E, Border region, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Allow testimony to finish; do not drain the Well. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Unheard mourning and interrupted testimony. |
-| **Manifestation** | Place-Lament|
-| **Primary effect** | Nearby structures lean toward private grief. |
-| **Duration / rate** | Slow, through border ground and walls. |
-| **Risk** | This Moderate (β) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Allow testimony to finish; do not drain the Well. |
+| **Trigger** | Leaning over the stone coping and whispering an unsaid confession. |
+| **Manifestation** | Place-Lament |
+| **Primary effect** | Acoustic reverberation silences hostile psychic chants across Range Band 2, preventing mental panic cascades. |
+| **Duration / rate** | Continuous while the whisper echoes within the shaft. |
+| **Risk** | Moderate (β) Place-Lament producing Lament pressure; The well swallows the speaker's voice; the operative is afflicted with muteness for the remainder of the shift. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

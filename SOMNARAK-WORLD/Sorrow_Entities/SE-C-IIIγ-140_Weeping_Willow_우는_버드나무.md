@@ -172,7 +172,7 @@ The escalation pattern is specific to Weeping Willow: it is not a generic breach
 | **Manifestation** | Place-Lament|
 | **Primary effect** | Falling leaves cause visitors to relive farewells. |
 | **Duration / rate** | Slow through the Echo Gardens. |
-| **Risk** | This Major (γ) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Major (γ) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Sit beneath it and allow endings to be acknowledged. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

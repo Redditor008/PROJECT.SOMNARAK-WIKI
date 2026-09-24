@@ -174,7 +174,7 @@ The escalation pattern is specific to Black River: it is not a generic breach ev
 | **Manifestation** | Place-Weight|
 | **Primary effect** | Feeds new structures and entities above. |
 | **Duration / rate** | Continuous but immeasurable; channels change underground. |
-| **Risk** | This Major (γ) | Object/Place produces Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Major (γ) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Impossible. Access is sealed and the River is monitored. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

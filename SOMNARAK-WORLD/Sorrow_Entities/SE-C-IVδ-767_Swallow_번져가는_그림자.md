@@ -172,7 +172,7 @@ The escalation pattern is specific to Swallow: it is not a generic breach event.
 | **Manifestation** | Place-Lament|
 | **Primary effect** | Personnel feel grief that does not belong to their memories. |
 | **Duration / rate** | Slow through Alpha Tree corridors. |
-| **Risk** | This Critical (δ) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Critical (δ) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Name the source of the grief and return emotional ownership. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

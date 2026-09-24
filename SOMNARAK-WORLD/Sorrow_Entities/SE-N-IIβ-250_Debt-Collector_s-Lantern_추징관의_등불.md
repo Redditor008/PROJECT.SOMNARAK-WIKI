@@ -149,6 +149,10 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution., not permanent healing. Gauge increase: the work has fed rather than calmed. The entity's grief is louder now, not quieter. or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down. before the next assignment.
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Catastrophic Battlefield Alteration**
+> **This Relic is Irrevocably Consumed upon Activation**
+
 **Activation Trigger:** Carrying the Lantern into a debt-bearing area.
 
 **Effect:** Illuminates hidden karmic obligations.
@@ -162,42 +166,40 @@ The behavior table is a snapshot, not a system. The classification and origin co
 | Field | Record |
 |---|---|
 | **Tool Class** | **A-Relic** |
-| **Use Mode** | **Single-use / consumable use** |
-| **Activation** | The relic is spent in a single deliberate act; there is no partial use, and no second attempt. |
+| **Use Mode** | **Single-use / consumable discharge** |
+| **Activation** | Carrying the Lantern into a debt-bearing area. |
 | **Primary Effect** | Illuminates hidden karmic obligations. |
 | **Duration** | Until the Lantern is set down. |
-| **Termination / Return** | The relic is consumed by its use. What remains is emptied of sorrow and cannot be rekindled. |
+| **Termination / Return** | The relic is completely consumed by its discharge; what remains is an inert mineral or metal husk emptied of sorrow. |
 | **Risk** | The carrier feels every debt revealed. |
 
-**Operational Rule:** A single-use relic is spent, not stored. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 1 Use | Debt-Collector's-Lantern holds a single promise — a thing of stone and unbearable gravity — kept only until it is spent. | A single use activates it: illuminates hidden karmic obligations. |
-| 3 Uses | It was drawn from the quiet sorrows carried inside — the kind never spoken aloud. | The effect completes fully and at once (until the Lantern is set down). |
-| 3 Uses | Used even once, it pours out everything at once: illuminates hidden karmic obligations. | The carrier feels every debt revealed. |
-| 5 Uses | The longer it is held, the heavier the world grows around it. | The relic is consumed by its use and cannot be activated again. |
-| 7 Uses | Afterwards it is only a husk — emptied of sorrow, and unable to be asked anything again. |  |
+| 1 Use | Debt-Collector's-Lantern sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Carrying the Lantern into a debt-bearing area.) initiates an instantaneous, irreversible discharge across the battlefield. |
+| 3 Uses | Crystallized from the weight of taking payment while knowing the system is unfair. during a collector carried a lantern through debtors' homes and began seeing their burdens as light., the relic answers only to complete commitment. | The full discharge completes: Illuminates hidden karmic obligations. All hostile entities in range suffer devastating disruption and elemental debuffs. |
+| 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
+| 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The carrier feels every debt revealed. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Debt-Collector's-Lantern: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at Zone C, Collector's Row — ambient, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Debt-Collector's-Lantern: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at Zone C, Collector's Row — ambient, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Carrying the Lantern into a debt-bearing area. |
-| **Manifestation** | Object-Weight|
+| **Manifestation** | Object-Weight |
 | **Primary effect** | Illuminates hidden karmic obligations. |
 | **Duration / rate** | Until the Lantern is set down. |
-| **Risk** | The carrier feels every debt revealed. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Risk** | Moderate (β) Object-Weight producing Weight pressure; The carrier feels every debt revealed. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

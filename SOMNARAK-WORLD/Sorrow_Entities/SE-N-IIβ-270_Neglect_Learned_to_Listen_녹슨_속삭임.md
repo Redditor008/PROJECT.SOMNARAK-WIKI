@@ -172,7 +172,7 @@ The escalation pattern is specific to Neglect Learned to Listen: it is not a gen
 | **Manifestation** | Place-Weight|
 | **Primary effect** | Personnel hear the burdens of discarded people and objects. |
 | **Duration / rate** | Slow, following connected metal and old masonry. |
-| **Risk** | This Moderate (β) | Object/Place produces Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Moderate (β) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Preserve and acknowledge what was discarded; do not simply remove the rust. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

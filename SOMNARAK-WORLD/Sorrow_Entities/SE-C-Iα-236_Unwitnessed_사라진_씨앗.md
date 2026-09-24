@@ -147,56 +147,59 @@
 The behavior table is a snapshot, not a system. The classification and origin contextualise why Flerehan calms here and agitates elsewhere. the entity’s classification. Unwitnessed is recorded as an Object/Place with Object-Weight manifestation and Lament elemental expression. The current record places it at The Desolate, near The Scar; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution., not permanent healing. Gauge increase: the work has fed rather than calmed. The entity's grief is louder now, not quieter. or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down. before the next assignment.
-## Expansion Behavior
+## Activation Behavior
 
-| Field | Detail |
-|---|---|
-| **Expansion Trigger** | New unrealized beginnings in the surrounding land. |
-| **Expansion Rate** | Slow along Han-rich soil. |
-| **Expansion Effect** | Nearby seeds fail to sprout while displaying imagined forms. |
-| **Containment** | Mark the absence; do not excavate or plant into it. |
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
+**Activation Trigger:** New unrealized beginnings in the surrounding land.
+
+**Effect:** Projects concentrated Lament sorrow resonance across the immediate perimeter.
+
+**Duration:** While the channel is maintained; interruption ends the effect.
+
+**Risk:** Misuse increases emotional strain and may destabilize the operator.
 
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
-| **Use Mode** | **Channeled / sustained use** |
-| **Activation** | The operator opens a sustained channel to the relic and must hold that contact for the effect to persist. |
-| **Primary Effect** | Nearby seeds fail to sprout while displaying imagined forms. |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | New unrealized beginnings in the surrounding land. |
+| **Primary Effect** | Projects concentrated Lament sorrow resonance across the immediate perimeter. |
 | **Duration** | While the channel is maintained; interruption ends the effect. |
-| **Termination / Return** | The operator closes the channel by intent; a channel abandoned does not end cleanly, and the residue compounds. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
 | **Risk** | Misuse increases emotional strain and may destabilize the operator. |
 
-**Operational Rule:** The relic answers only to a held channel. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 seconds | Unwitnessed waits in silence — a thing of blue grief — until a current is opened through it. | When the relic is channeled, it activates: nearby seeds fail to sprout while displaying imagined forms. |
-| 1 minute | It was born beyond the wall, where sorrow had no one left to witness it. | The effect persists (while the channel is maintained; interruption ends the effect), strengthening the longer the channel is held. |
-| 2 minutes | Once channeled, the Lament flows both ways: the bearer feeds the relic as it feeds them, and nearby seeds fail to sprout while displaying imagined forms. | Misuse increases emotional strain and may destabilize the operator. |
-| 3 minutes | Every grief it touches, it remembers; and it has a long memory. | A channel abandoned mid-use does not close on its own; the residue compounds until it is ended deliberately. |
-| 3:20 seconds | What passes through does not all return; the relic is fuller afterwards, and the bearer is less. |  |
+| 10 Seconds | Unwitnessed begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates Unwitnessed: Projects concentrated Lament sorrow resonance across the immediate perimeter. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the grief of a beginning that disappeared before anyone could witness it. forged during a traveler lost a seed during a han-storm and later forgot what they had intended to grow.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Unwitnessed's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: Misuse increases emotional strain and may destabilize the operator. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Unwitnessed: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at The Desolate, near The Scar, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Unwitnessed: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Mark the absence; do not excavate or plant into it. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | New unrealized beginnings in the surrounding land. |
-| **Manifestation** | Object-Lament|
-| **Primary effect** | Nearby seeds fail to sprout while displaying imagined forms. |
+| **Manifestation** | Object-Weight |
+| **Primary effect** | Projects concentrated Lament sorrow resonance across the immediate perimeter. |
 | **Duration / rate** | While the channel is maintained; interruption ends the effect. |
-| **Risk** | Misuse increases emotional strain and may destabilize the operator. |
-| **Management** | Mark the absence; do not excavate or plant into it. |
+| **Risk** | Minor (α) Object-Weight producing Lament pressure; Misuse increases emotional strain and may destabilize the operator. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

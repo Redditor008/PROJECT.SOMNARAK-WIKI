@@ -147,14 +147,19 @@
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. the entity’s classification. Quagmire is recorded as an Object/Place with Object-Weight manifestation and Lament elemental expression. The current record places it at The Desolate, near The Scar; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter., not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing. or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust the next assignment accordingly. before the next assignment.
-## Expansion Behavior
+## Activation Behavior
 
-| Field | Detail |
-|---|---|
-| **Expansion Trigger** | New routes destroyed without witness. |
-| **Expansion Rate** | Slow along Desolate Han currents. |
-| **Expansion Effect** | Travelers lose direction and feel unfinished arrival. |
-| **Containment** | Map the Trace and preserve the names it carries. |
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
+
+**Activation Trigger:** New routes destroyed without witness.
+
+**Effect:** Projects concentrated Lament sorrow resonance across the immediate perimeter.
+
+**Duration:** While equipped, until the removal condition is met.
+
+**Risk:** Misuse increases emotional strain and may destabilize the operator.
 
 ### Tool Use Profile — I-Relic
 
@@ -162,41 +167,39 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
-| **Primary Effect** | Travelers lose direction and feel unfinished arrival. |
+| **Activation** | New routes destroyed without witness. |
+| **Primary Effect** | Projects concentrated Lament sorrow resonance across the immediate perimeter. |
 | **Duration** | While equipped, until the removal condition is met. |
-| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
 | **Risk** | Misuse increases emotional strain and may destabilize the operator. |
 
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Quagmire lies still until it is taken up — a thing of blue grief, whole and waiting. | When the relic is equipped, it activates: travelers lose direction and feel unfinished arrival. |
-| 1 Minute | It was born beyond the wall, where sorrow had no one left to witness it. | The effect lasts while equipped, until the removal condition is met, for as long as the relic remains worn. |
-| 2 Minutes | Worn against the skin, it does what it was shaped to do: travelers lose direction and feel unfinished arrival. The Lament of it seeps into the bearer. | Misuse increases emotional strain and may destabilize the operator. |
-| 3 Minutes | Every grief it touches, it remembers; and it has a long memory. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |
+| 10 Seconds | Quagmire rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Quagmire activates its primary resonance: Projects concentrated Lament sorrow resonance across the immediate perimeter. Grants +10% resistance to Lament damage while equipped. |
+| 30 Seconds | The artifact was born from the burden of a journey ending without arrival.; the bearer begins perceiving echoes of a desolate path collapsed under han, carrying the tracks and names of everyone who had used it.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Quagmire begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Quagmire too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Misuse increases emotional strain and may destabilize the operator.. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Quagmire: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at The Desolate, near The Scar, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Quagmire: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Map the Trace and preserve the names it carries. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | New routes destroyed without witness. |
-| **Manifestation** | Subject-Lament|
-| **Primary effect** | Travelers lose direction and feel unfinished arrival. |
+| **Manifestation** | Object-Weight |
+| **Primary effect** | Projects concentrated Lament sorrow resonance across the immediate perimeter. |
 | **Duration / rate** | While equipped, until the removal condition is met. |
-| **Risk** | Misuse increases emotional strain and may destabilize the operator. |
-| **Management** | Map the Trace and preserve the names it carries. |
+| **Risk** | Critical (δ) Object-Weight producing Lament pressure; Misuse increases emotional strain and may destabilize the operator. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

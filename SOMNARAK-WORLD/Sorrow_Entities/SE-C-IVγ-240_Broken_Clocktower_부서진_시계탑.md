@@ -147,34 +147,59 @@
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. the entity’s classification. Broken Clocktower is recorded as an Object/Place with Place-Weight manifestation and Weight elemental expression. The current record places it at Zone C, near Collector's Row; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured., not permanent healing. A rising gauge means the Work Type has triggered the entity's originating sorrow — the wound is responding, not healing. or fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, a visual change not predicted. before the next assignment.
-## Expansion Behavior
+## Activation Behavior
 
-| Field | Detail |
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
+**Activation Trigger:** Manual rotation of the escapement wheel or sudden temporal agitation.
+
+**Effect:** Projects a six-meter temporal dilation field, locking hostile action slots and delaying attacks by 2 turns.
+
+**Duration:** Continuous while the pendulum oscillates.
+
+**Risk:** Allies within the field are also slowed; exiting the perimeter causes severe temporal nausea.
+
+### Tool Use Profile — O-Relic
+
+| Field | Record |
 |---|---|
-| **Expansion Trigger** | Attempts to force the frozen moment to end. |
-| **Expansion Rate** | Slow, through nearby clocks and schedules. |
-| **Expansion Effect** | Minutes feel like hours and hours like seconds. |
-| **Containment** | Accept that the moment cannot be changed; limit exposure. |
+| **Tool Class** | **O-Relic** |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | Manual rotation of the escapement wheel or sudden temporal agitation. |
+| **Primary Effect** | Projects a six-meter temporal dilation field, locking hostile action slots and delaying attacks by 2 turns. |
+| **Duration** | Continuous while the pendulum oscillates. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Weight resonance across the sector. |
+| **Risk** | Allies within the field are also slowed; exiting the perimeter causes severe temporal nausea. |
 
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | Broken Clocktower begins thrumming as the channel opens; a palpable wave of weight sorrow sweeps across the containment chamber. | Opening the channel activates Broken Clocktower: Projects a six-meter temporal dilation field, locking hostile action slots and delaying attacks by 2 turns. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the weight of waiting inside an event with no conclusion. forged during an accident at 3:47 left the tower and its witnesses trapped in an unresolved instant.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Broken Clocktower's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Weight shockwave: Allies within the field are also slowed; exiting the perimeter causes severe temporal nausea. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Clocktower: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at Zone C, near Collector's Row, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Broken Clocktower: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at Zone C, near Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Accept that the moment cannot be changed; limit exposure. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Attempts to force the frozen moment to end. |
-| **Manifestation** | Place-Weight|
-| **Primary effect** | Minutes feel like hours and hours like seconds. |
-| **Duration / rate** | Slow, through nearby clocks and schedules. |
-| **Risk** | This Major (γ) | Object/Place produces Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Accept that the moment cannot be changed; limit exposure. |
+| **Trigger** | Manual rotation of the escapement wheel or sudden temporal agitation. |
+| **Manifestation** | Place-Weight |
+| **Primary effect** | Projects a six-meter temporal dilation field, locking hostile action slots and delaying attacks by 2 turns. |
+| **Duration / rate** | Continuous while the pendulum oscillates. |
+| **Risk** | Major (γ) Place-Weight producing Weight pressure; Allies within the field are also slowed; exiting the perimeter causes severe temporal nausea. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

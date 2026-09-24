@@ -157,6 +157,10 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists., not permanent healing. The gauge rising signals that the Work Type is resonating with the entity's wound rather than soothing it. or fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve it before the next work cycle begins. before the next assignment.
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
 **Activation Trigger:** Still air, sufficient sorrow, or deliberate listening.
 
 **Effect:** Plays a song of the dead and establishes an emotional connection to its source.
@@ -165,56 +169,45 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 
 **Risk:** The Stone may sing at inconvenient moments and provoke unexpected grief.
 
-### O-Relic (Offertorium)
-
-| Field | Detail |
-|---|---|
-| **How to Use** | Place the Stone in an open palm and listen without interruption. |
-| **Effect** | Plays a song personally connected to the listener. |
-| **Cost** | The listener must remain present for the song's duration. |
-| **Duration** | Until the song ends. |
-
 ### Tool Use Profile — O-Relic
 
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
-| **Use Mode** | **Channeled / sustained use** |
-| **Activation** | The operator opens a sustained channel to the relic and must hold that contact for the effect to persist. |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | Still air, sufficient sorrow, or deliberate listening. |
 | **Primary Effect** | Plays a song of the dead and establishes an emotional connection to its source. |
 | **Duration** | Until the listener stops listening or the song ends. |
-| **Termination / Return** | The operator closes the channel by intent; a channel abandoned does not end cleanly, and the residue compounds. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
 | **Risk** | The Stone may sing at inconvenient moments and provoke unexpected grief. |
 
-**Operational Rule:** The relic answers only to a held channel. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 seconds | Hums waits in silence — a thing of blue grief — until a current is opened through it. | When the relic is channeled, it activates: plays a song of the dead and establishes an emotional connection to its source. |
-| 1 minute | It was forged from a grief the city itself could never bring itself to name. | The effect persists (until the listener stops listening or the song ends), strengthening the longer the channel is held. |
-| 2 minutes | Once channeled, the Lament flows both ways: the bearer feeds the relic as it feeds them, and plays a song of the dead and establishes an emotional connection to its source. | The Stone may sing at inconvenient moments and provoke unexpected grief. |
-| 3 minutes | Every grief it touches, it remembers; and it has a long memory. | A channel abandoned mid-use does not close on its own; the residue compounds until it is ended deliberately. |
-| 3:20 seconds | What passes through does not all return; the relic is fuller afterwards, and the bearer is less. |  |
+| 10 Seconds | Hums begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates Hums: Plays a song of the dead and establishes an emotional connection to its source. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the grief of unfinished melodies and lives remembered only through music. forged during songs disappeared when their singers died. the melodies crystallized in the echo gardens so someone could still hear them.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Hums's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: The Stone may sing at inconvenient moments and provoke unexpected grief. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Hums: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Lament form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at SECTOR-D-02, Echo Gardens — contained/open display, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Hums: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-D-02, Echo Gardens — contained/open display, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Still air, sufficient sorrow, or deliberate listening. |
-| **Manifestation** | Object-Lament|
+| **Manifestation** | Object-Lament |
 | **Primary effect** | Plays a song of the dead and establishes an emotional connection to its source. |
 | **Duration / rate** | Until the listener stops listening or the song ends. |
-| **Risk** | The Stone may sing at inconvenient moments and provoke unexpected grief. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Risk** | Moderate (β) — Manageable Object-Lament producing Lament pressure; The Stone may sing at inconvenient moments and provoke unexpected grief. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

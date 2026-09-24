@@ -172,7 +172,7 @@ The escalation pattern is specific to Bridge to Nowhere: it is not a generic bre
 | **Manifestation** | Place-Lament|
 | **Primary effect** | Visitors experience another person's journey as their own. |
 | **Duration / rate** | Appears suddenly, then grows slowly. |
-| **Risk** | This Critical (δ) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Critical (δ) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Mark the crossing as memory and allow the Bridge to settle. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

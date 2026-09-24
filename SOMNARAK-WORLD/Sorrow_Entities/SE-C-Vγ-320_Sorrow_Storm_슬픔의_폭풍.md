@@ -173,7 +173,7 @@ The escalation pattern is specific to Sorrow Storm: it is not a generic breach e
 | **Manifestation** | Subject-Weight|
 | **Primary effect** | Structural damage, Fracture risk, and emotional overload. |
 | **Duration / rate** | Rapid across connected Han flows. |
-| **Risk** | This Major (γ) | Object/Place produces Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Major (γ) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Acknowledge sorrow and shelter until the Storm passes. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

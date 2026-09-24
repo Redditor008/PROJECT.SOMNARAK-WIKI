@@ -147,34 +147,59 @@
 A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. the entity’s classification. Spreading Well is recorded as an Object/Place with Place-Lament manifestation and Lament elemental expression. The current record places it at The Desolate, near The Scar; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched., not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess. or fed the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete. before the next assignment.
-## Expansion Behavior
+## Activation Behavior
 
-| Field | Detail |
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
+**Activation Trigger:** Opening the drainage sluices connected to the subterranean weeping channels.
+
+**Effect:** Redistributes localized Sorrow Gauge spikes across a wide bedrock buffer, preventing immediate containment meltdowns.
+
+**Duration:** Continuous while the sluice gate remains unsealed.
+
+**Risk:** Excessive drainage saturates the foundation; floor tiles begin leaking caustic blue Han-liquid.
+
+### Tool Use Profile — O-Relic
+
+| Field | Record |
 |---|---|
-| **Expansion Trigger** | Mourning carried away without acknowledgment. |
-| **Expansion Rate** | Slow along emotional and Han-flow lines. |
-| **Expansion Effect** | Distant places begin sharing the same grief. |
-| **Containment** | Acknowledge each linked site; do not dam the channels. |
+| **Tool Class** | **O-Relic** |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | Opening the drainage sluices connected to the subterranean weeping channels. |
+| **Primary Effect** | Redistributes localized Sorrow Gauge spikes across a wide bedrock buffer, preventing immediate containment meltdowns. |
+| **Duration** | Continuous while the sluice gate remains unsealed. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
+| **Risk** | Excessive drainage saturates the foundation; floor tiles begin leaking caustic blue Han-liquid. |
 
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | Spreading Well begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates Spreading Well: Redistributes localized Sorrow Gauge spikes across a wide bedrock buffer, preventing immediate containment meltdowns. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the need for grief to travel until it finds another person able to understand it. forged during desolate mourners poured their tears into the ground, creating channels that merged into a spreading well.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Spreading Well's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: Excessive drainage saturates the foundation; floor tiles begin leaking caustic blue Han-liquid. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Spreading Well: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Lament form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at The Desolate, near The Scar, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Spreading Well: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at The Desolate, near The Scar, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Acknowledge each linked site; do not dam the channels. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Mourning carried away without acknowledgment. |
-| **Manifestation** | Place-Lament|
-| **Primary effect** | Distant places begin sharing the same grief. |
-| **Duration / rate** | Slow along emotional and Han-flow lines. |
-| **Risk** | This Major (γ) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Acknowledge each linked site; do not dam the channels. |
+| **Trigger** | Opening the drainage sluices connected to the subterranean weeping channels. |
+| **Manifestation** | Place-Lament |
+| **Primary effect** | Redistributes localized Sorrow Gauge spikes across a wide bedrock buffer, preventing immediate containment meltdowns. |
+| **Duration / rate** | Continuous while the sluice gate remains unsealed. |
+| **Risk** | Major (γ) Place-Lament producing Lament pressure; Excessive drainage saturates the foundation; floor tiles begin leaking caustic blue Han-liquid. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

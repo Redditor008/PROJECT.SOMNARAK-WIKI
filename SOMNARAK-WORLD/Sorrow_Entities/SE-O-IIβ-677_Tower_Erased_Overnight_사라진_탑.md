@@ -172,7 +172,7 @@ The escalation pattern is specific to Tower Erased Overnight: it is not a generi
 | **Manifestation** | Place-Grudge|
 | **Primary effect** | Nearby buildings feel incomplete and conversations become difficult. |
 | **Duration / rate** | Slow, through architectural memory. |
-| **Risk** | This Moderate (β) | Object/Place produces Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Moderate (β) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Memorialize what vanished; do not rebuild over the absence. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

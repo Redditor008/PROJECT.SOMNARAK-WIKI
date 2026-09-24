@@ -172,7 +172,7 @@ The escalation pattern is specific to Harvest Beyond the Gate: it is not a gener
 | **Manifestation** | Place-Grudge|
 | **Primary effect** | The area smells of home and makes departure painful. |
 | **Duration / rate** | Slow along the Gate's paths. |
-| **Risk** | This Moderate (β) | Object/Place produces Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Moderate (β) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Let the fruit decay naturally; do not promise return. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

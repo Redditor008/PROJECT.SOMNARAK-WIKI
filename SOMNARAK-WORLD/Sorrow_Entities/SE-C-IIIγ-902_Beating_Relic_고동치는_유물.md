@@ -142,6 +142,10 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
+
 **Activation Trigger:** The relic is gripped in an operator's bare hand.
 
 **Effect:** Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition.
@@ -155,32 +159,42 @@ The Grudge pressure is real and measurable, but the gauge decrease from Videreha
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **Equippable / mounting use** (Held in hand) |
-| **Activation** | The operator takes the stone into their hand; it must be held before it will beat. |
-| **Primary Effect** | Grants +20% melee kinetic force and Grudge defense; beats faster with rage. |
-| **Duration** | While held, until released onto the plinth. |
-| **Termination / Return** | Operator must master their composure, slow their pulse, and open their hand. |
-| **Risk** | Prolonged use (>60s) causes severe cardiovascular strain and memory rage. |
+| **Use Mode** | **Equippable / mounting use** |
+| **Activation** | The relic is gripped in an operator's bare hand. |
+| **Primary Effect** | Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition. |
+| **Duration** | While held in hand, until released onto its containment plinth. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
+| **Risk** | Gripping the relic beyond 60 seconds induces acute tachycardia, hyper-aggression, and emotional hemorrhaging as the bearer's pulse locks into the relic's violent rhythm. |
 
-**Operational Rule:** The relic remains active only while physically held by the operator. It does not replace standard containment shifts; Object entities utilize Viderehan and Ferrehan for ongoing observation.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
-## Breach Behavior
+### Log and Method
 
-> *"Beating Relic has broken free. The grudge body spreads."*
-
-| Field | Detail |
-|---|---|
-| **Breach Type** | Expansion |
-| **Movement** | The entity's body influence expands beyond its registered area, corrupting everything it touches. |
-| **Effect** | Grudge pressure radiates — the body register makes it personal, targeted, unavoidable. |
-| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |
-| **Escalation** | Each turn the entity is free, its pressure grows; Grudge drain increases by 5 per turn until suppressed. |
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | Beating Relic rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Beating Relic activates its primary resonance: Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition. Grants +10% resistance to Grudge damage while equipped. |
+| 30 Seconds | The artifact was born from the accumulated grief of unacknowledged grudge.; the bearer begins perceiving echoes of a crisis in the city where grudge went unaddressed.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Beating Relic begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Beating Relic too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Gripping the relic beyond 60 seconds induces acute tachycardia, hyper-aggression, and emotional hemorrhaging as the bearer's pulse locks into the relic's violent rhythm.. |
 
 ### Escalation Notes
 
-- **Containment priority:** Physical suppression required.
-- **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
+The escalation pattern is specific to Beating Relic: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Body form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at SECTOR-C-902, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
 
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+
+### Detailed Activation Record
+
+| Activation field | R.D. operational detail |
+|---|---|
+| **Trigger** | The relic is gripped in an operator's bare hand. |
+| **Manifestation** | Object-Body |
+| **Primary effect** | Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition. |
+| **Duration / rate** | While held in hand, until released onto its containment plinth. |
+| **Risk** | Major (γ) Object-Body producing Grudge pressure; Gripping the relic beyond 60 seconds induces acute tachycardia, hyper-aggression, and emotional hemorrhaging as the bearer's pulse locks into the relic's violent rhythm. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.

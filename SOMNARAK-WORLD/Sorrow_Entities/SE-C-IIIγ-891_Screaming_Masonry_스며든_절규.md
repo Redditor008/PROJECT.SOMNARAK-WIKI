@@ -147,14 +147,19 @@
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. the entity’s classification. Screaming Masonry is recorded as an Object/Place with Object-Lament manifestation and Weight elemental expression. The current record places it at Zone B, Old Lament — ambient; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter., not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing. or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust the next assignment accordingly. before the next assignment.
-## Expansion Behavior
+## Activation Behavior
 
-| Field | Detail |
-|---|---|
-| **Expansion Trigger** | New unfulfilled obligations. |
-| **Expansion Rate** | Slow through Old Lament structures. |
-| **Expansion Effect** | Personnel feel pressure and unheard demands. |
-| **Containment** | Acknowledge duties without accepting impossible blame. |
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
+
+**Activation Trigger:** New unfulfilled obligations.
+
+**Effect:** +3 stat bonus when working the source entity
+
+**Duration:** While equipped, until the removal condition is met.
+
+**Risk:** Misuse increases emotional strain and may destabilize the operator.
 
 ### Tool Use Profile — I-Relic
 
@@ -162,41 +167,39 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
-| **Primary Effect** | Personnel feel pressure and unheard demands. |
+| **Activation** | New unfulfilled obligations. |
+| **Primary Effect** | +3 stat bonus when working the source entity |
 | **Duration** | While equipped, until the removal condition is met. |
-| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Weight trauma. |
 | **Risk** | Misuse increases emotional strain and may destabilize the operator. |
 
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Screaming Masonry lies still until it is taken up — a thing of stone and unbearable gravity, whole and waiting. | When the relic is equipped, it activates: personnel feel pressure and unheard demands. |
-| 1 Minute | It was forged from a grief the city itself could never bring itself to name. | The effect lasts while equipped, until the removal condition is met, for as long as the relic remains worn. |
-| 2 Minutes | Worn against the skin, it does what it was shaped to do: personnel feel pressure and unheard demands. The Weight of it seeps into the bearer. | Misuse increases emotional strain and may destabilize the operator. |
-| 3 Minutes | The longer it is held, the heavier the world grows around it. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |
+| 10 Seconds | Screaming Masonry rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Screaming Masonry activates its primary resonance: +3 stat bonus when working the source entity Grants +10% resistance to Weight damage while equipped. |
+| 30 Seconds | The artifact was born from the pressure of promises and duties accumulating until the body could no longer carry them.; the bearer begins perceiving echoes of residents of old lament failed one another through generations, leaving their unfulfilled duties in the walls.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Screaming Masonry begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Screaming Masonry too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Misuse increases emotional strain and may destabilize the operator.. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Screaming Masonry: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Lament form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at Zone B, Old Lament — ambient, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Screaming Masonry: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at Zone B, Old Lament — ambient, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Acknowledge duties without accepting impossible blame. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | New unfulfilled obligations. |
-| **Manifestation** | Subject-Weight|
-| **Primary effect** | Personnel feel pressure and unheard demands. |
+| **Manifestation** | Object-Lament |
+| **Primary effect** | +3 stat bonus when working the source entity |
 | **Duration / rate** | While equipped, until the removal condition is met. |
-| **Risk** | Misuse increases emotional strain and may destabilize the operator. |
-| **Management** | Acknowledge duties without accepting impossible blame. |
+| **Risk** | Major (γ) Object-Lament producing Weight pressure; Misuse increases emotional strain and may destabilize the operator. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

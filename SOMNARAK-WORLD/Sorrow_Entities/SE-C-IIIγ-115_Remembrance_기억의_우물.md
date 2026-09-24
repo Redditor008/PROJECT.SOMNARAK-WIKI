@@ -147,34 +147,59 @@
 Work Type data is one input among many. The SECC code and coherence level determine what a 'stable' gauge actually means in the field. the entity’s classification. Remembrance is recorded as an Object/Place with Place-Void manifestation and Void elemental expression. The current record places it at SECTOR-A-01, beneath the Grand Archive; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained., not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused. or fed the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling. before the next assignment.
-## Expansion Behavior
+## Activation Behavior
 
-| Field | Detail |
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
+**Activation Trigger:** Lowering a bronze bucket or sensor probe into the memory shaft.
+
+**Effect:** Dredges submerged recollections from the city's past, granting +15 Clarity and revealing enemy elemental weaknesses.
+
+**Duration:** Continuous while the winch is held.
+
+**Risk:** The well extracts living memories in exchange; the channeler temporarily forgets recent operational briefings.
+
+### Tool Use Profile — O-Relic
+
+| Field | Record |
 |---|---|
-| **Expansion Trigger** | Accumulation of unrecorded memories. |
-| **Expansion Rate** | Slow, through underground memory channels. |
-| **Expansion Effect** | The Well's reflections reach into nearby vaults. |
-| **Containment** | Seal access and permit only supervised viewing. |
+| **Tool Class** | **O-Relic** |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | Lowering a bronze bucket or sensor probe into the memory shaft. |
+| **Primary Effect** | Dredges submerged recollections from the city's past, granting +15 Clarity and revealing enemy elemental weaknesses. |
+| **Duration** | Continuous while the winch is held. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Void resonance across the sector. |
+| **Risk** | The well extracts living memories in exchange; the channeler temporarily forgets recent operational briefings. |
 
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | Remembrance begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Remembrance: Dredges submerged recollections from the city's past, granting +15 Clarity and revealing enemy elemental weaknesses. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the weight of every life being remembered by no one person. forged during accumulated memories passed beneath the archive until they collected into a well.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Remembrance's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Void shockwave: The well extracts living memories in exchange; the channeler temporarily forgets recent operational briefings. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Remembrance: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Void form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Void and located at SECTOR-A-01, beneath the Grand Archive, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Remembrance: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-A-01, beneath the Grand Archive, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Seal access and permit only supervised viewing. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Accumulation of unrecorded memories. |
-| **Manifestation** | Place-Void|
-| **Primary effect** | The Well's reflections reach into nearby vaults. |
-| **Duration / rate** | Slow, through underground memory channels. |
-| **Risk** | This Major (γ) | Object/Place produces Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Seal access and permit only supervised viewing. |
+| **Trigger** | Lowering a bronze bucket or sensor probe into the memory shaft. |
+| **Manifestation** | Place-Void |
+| **Primary effect** | Dredges submerged recollections from the city's past, granting +15 Clarity and revealing enemy elemental weaknesses. |
+| **Duration / rate** | Continuous while the winch is held. |
+| **Risk** | Major (γ) Place-Void producing Void pressure; The well extracts living memories in exchange; the channeler temporarily forgets recent operational briefings. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

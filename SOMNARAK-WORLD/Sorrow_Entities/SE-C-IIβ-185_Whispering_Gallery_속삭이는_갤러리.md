@@ -172,7 +172,7 @@ The escalation pattern is specific to Whispering Gallery: it is not a generic br
 | **Manifestation** | Place-Lament|
 | **Primary effect** | Nearby rooms begin whispering histories of their occupants. |
 | **Duration / rate** | Slowly through connected halls. |
-| **Risk** | This Moderate (β) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Moderate (β) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Restore names and listen without replacing missing details. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

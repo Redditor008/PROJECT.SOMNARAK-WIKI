@@ -147,34 +147,59 @@
 A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. the entity’s classification. Apocrypha is recorded as an Object/Place with Place-Void manifestation and Void elemental expression. The current record places it at The Desolate — mobile; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched., not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess. or fed the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete. before the next assignment.
-## Expansion Behavior
+## Activation Behavior
 
-| Field | Detail |
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
+**Activation Trigger:** Reading from the frost-covered liturgical vellum.
+
+**Effect:** Projects an aura of absolute stillness, suppressing all active elemental damage over time across Range Band 2.
+
+**Duration:** Continuous while the vellum is held open.
+
+**Risk:** Body temperature drops rapidly; continuing past 60 seconds causes immediate hypothermia.
+
+### Tool Use Profile — O-Relic
+
+| Field | Record |
 |---|---|
-| **Expansion Trigger** | Abandoned objects and unfinished farewells. |
-| **Expansion Rate** | Slow, following old Desolate routes. |
-| **Expansion Effect** | Nearby camps feel frozen in a moment of departure. |
-| **Containment** | Mark the site and speak the farewell that was missed. |
+| **Tool Class** | **O-Relic** |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | Reading from the frost-covered liturgical vellum. |
+| **Primary Effect** | Projects an aura of absolute stillness, suppressing all active elemental damage over time across Range Band 2. |
+| **Duration** | Continuous while the vellum is held open. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Void resonance across the sector. |
+| **Risk** | Body temperature drops rapidly; continuing past 60 seconds causes immediate hypothermia. |
 
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | Apocrypha begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Apocrypha: Projects an aura of absolute stillness, suppressing all active elemental damage over time across Range Band 2. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the emptiness of an object whose meaning was never explained. forged during a traveler froze in the desolate while carrying a relic no one else could identify.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Apocrypha's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Void shockwave: Body temperature drops rapidly; continuing past 60 seconds causes immediate hypothermia. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Apocrypha: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Void form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Void and located at The Desolate — mobile, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Apocrypha: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at The Desolate — mobile, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Mark the site and speak the farewell that was missed. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Abandoned objects and unfinished farewells. |
-| **Manifestation** | Place-Void|
-| **Primary effect** | Nearby camps feel frozen in a moment of departure. |
-| **Duration / rate** | Slow, following old Desolate routes. |
-| **Risk** | This Minor (α) | Object/Place produces Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Mark the site and speak the farewell that was missed. |
+| **Trigger** | Reading from the frost-covered liturgical vellum. |
+| **Manifestation** | Place-Void |
+| **Primary effect** | Projects an aura of absolute stillness, suppressing all active elemental damage over time across Range Band 2. |
+| **Duration / rate** | Continuous while the vellum is held open. |
+| **Risk** | Minor (α) Place-Void producing Void pressure; Body temperature drops rapidly; continuing past 60 seconds causes immediate hypothermia. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

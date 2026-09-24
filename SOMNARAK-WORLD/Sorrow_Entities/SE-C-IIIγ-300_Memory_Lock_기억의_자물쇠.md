@@ -149,6 +149,10 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured., not permanent healing. A rising gauge means the Work Type has triggered the entity's originating sorrow — the wound is responding, not healing. or fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, a visual change not predicted. before the next assignment.
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
 **Activation Trigger:** Touch and a truthful admission from the worker.
 
 **Effect:** Allows one sealed memory to whisper through the lock.
@@ -162,42 +166,40 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
-| **Use Mode** | **Channeled / sustained use** |
-| **Activation** | The operator opens a sustained channel to the relic and must hold that contact for the effect to persist. |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | Touch and a truthful admission from the worker. |
 | **Primary Effect** | Allows one sealed memory to whisper through the lock. |
 | **Duration** | Until the whisper ends. |
-| **Termination / Return** | The operator closes the channel by intent; a channel abandoned does not end cleanly, and the residue compounds. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Void resonance across the sector. |
 | **Risk** | The listener may become obsessed with opening the vault. |
 
-**Operational Rule:** The relic answers only to a held channel. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 seconds | Memory Lock waits in silence — a thing of hollow, patient absence — until a current is opened through it. | When the relic is channeled, it activates: allows one sealed memory to whisper through the lock. |
-| 1 minute | It was forged from a grief the city itself could never bring itself to name. | The effect persists (until the whisper ends), strengthening the longer the channel is held. |
-| 2 minutes | Once channeled, the Void flows both ways: the bearer feeds the relic as it feeds them, and allows one sealed memory to whisper through the lock. | The listener may become obsessed with opening the vault. |
-| 3 minutes | It takes something, always, even when it seems only to give. | A channel abandoned mid-use does not close on its own; the residue compounds until it is ended deliberately. |
-| 3:20 seconds | What passes through does not all return; the relic is fuller afterwards, and the bearer is less. |  |
+| 10 Seconds | Memory Lock begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Memory Lock: Allows one sealed memory to whisper through the lock. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the burden of protecting truth by denying access to it. forged during keepers locked away memories capable of destabilizing the city; the lock became conscious of what it concealed.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Memory Lock's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Void shockwave: The listener may become obsessed with opening the vault. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Memory Lock: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Void form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Void and located at SECTOR-A-01, Alpha Tree deep vault, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Memory Lock: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-A-01, Alpha Tree deep vault, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Touch and a truthful admission from the worker. |
-| **Manifestation** | Subject-Void|
+| **Manifestation** | Object-Void |
 | **Primary effect** | Allows one sealed memory to whisper through the lock. |
 | **Duration / rate** | Until the whisper ends. |
-| **Risk** | The listener may become obsessed with opening the vault. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Risk** | Major (γ) Object-Void producing Void pressure; The listener may become obsessed with opening the vault. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

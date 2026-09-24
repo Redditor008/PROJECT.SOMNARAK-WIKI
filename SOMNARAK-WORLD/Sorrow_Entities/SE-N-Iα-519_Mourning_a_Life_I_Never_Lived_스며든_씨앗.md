@@ -171,7 +171,7 @@ The escalation pattern is specific to Mourning a Life I Never Lived: it is not a
 | **Manifestation** | Place-Void|
 | **Primary effect** | Personnel see empty versions of their lives. |
 | **Duration / rate** | Slow through vault floors. |
-| **Risk** | This Minor (α) | Object/Place produces Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Minor (α) Object/Place producing Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Do not plant; distinguish possibility from memory. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

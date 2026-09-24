@@ -172,7 +172,7 @@ The escalation pattern is specific to Midnight Choir: it is not a generic breach
 | **Manifestation** | Place-Lament|
 | **Primary effect** | Nearby rooms fill with ancient music and emotional resonance. |
 | **Duration / rate** | Spreads through connected buildings. |
-| **Risk** | This Moderate (β) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Moderate (β) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Listen and catalogue; do not silence the walls. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

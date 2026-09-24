@@ -172,7 +172,7 @@ The escalation pattern is specific to Anger Underfoot: it is not a generic breac
 | **Manifestation** | Place-Grudge|
 | **Primary effect** | Personnel feel ancient fury beneath ordinary movement. |
 | **Duration / rate** | Slow unless confronted aggressively. |
-| **Risk** | This Minor (α) | Object/Place produces Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Minor (α) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Map the trace and stop repeating the grievance. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

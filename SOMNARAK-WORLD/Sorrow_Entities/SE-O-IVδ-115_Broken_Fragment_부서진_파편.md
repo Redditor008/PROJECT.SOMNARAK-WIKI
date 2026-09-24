@@ -149,6 +149,10 @@ Work Type data is one input among many. The SECC code and coherence level determ
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A lower gauge is a window, not a door. The pressure will return unless the work cycle is sustained., not permanent healing. A rising gauge is a warning: the entity's sorrow is escalating. The wrong Work Type has been applied, or the right one has been overused. or fed the entity’s originating sorrow. Document anything off-pattern: a new sound, an unexpected gauge spike, a behavioral shift. The file is a baseline, not a ceiling. before the next assignment.
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
+
 **Activation Trigger:** Touch or attempt to lift the Fragment.
 
 **Effect:** Displays the burden carried by the monument's former community.
@@ -163,41 +167,39 @@ Work Type data is one input among many. The SECC code and coherence level determ
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
+| **Activation** | Touch or attempt to lift the Fragment. |
 | **Primary Effect** | Displays the burden carried by the monument's former community. |
 | **Duration** | Until contact ends. |
-| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Weight trauma. |
 | **Risk** | The worker may become unable to move under inherited weight. |
 
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Broken Fragment lies still until it is taken up — a thing of stone and unbearable gravity, whole and waiting. | When the relic is equipped, it activates: displays the burden carried by the monument's former community. |
-| 1 Minute | It was drawn from the quiet sorrows carried inside — the kind never spoken aloud. | The effect lasts until contact ends, for as long as the relic remains worn. |
-| 2 Minutes | Worn against the skin, it does what it was shaped to do: displays the burden carried by the monument's former community. The Weight of it seeps into the bearer. | The worker may become unable to move under inherited weight. |
-| 3 Minutes | The longer it is held, the heavier the world grows around it. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |
+| 10 Seconds | Broken Fragment rests in stasis until an operative takes it up; upon contact, the artifact's weight field synchronizes with the bearer's pulse. | Equipping Broken Fragment activates its primary resonance: Displays the burden carried by the monument's former community. Grants +10% resistance to Weight damage while equipped. |
+| 30 Seconds | The artifact was born from the burden of history condensed into one piece too heavy to move.; the bearer begins perceiving echoes of a border monument commemorating generations of debt was shattered during an uprising; one fragment remained.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Broken Fragment begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Weight (Black) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Broken Fragment too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may become unable to move under inherited weight.. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Fragment: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at Zone E, Border region, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Broken Fragment: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at Zone E, Border region, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Touch or attempt to lift the Fragment. |
-| **Manifestation** | Object-Weight|
+| **Manifestation** | Object-Weight |
 | **Primary effect** | Displays the burden carried by the monument's former community. |
 | **Duration / rate** | Until contact ends. |
-| **Risk** | The worker may become unable to move under inherited weight. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Risk** | Critical (δ) Object-Weight producing Weight pressure; The worker may become unable to move under inherited weight. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

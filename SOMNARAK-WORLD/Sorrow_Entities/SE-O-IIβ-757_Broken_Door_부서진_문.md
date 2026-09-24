@@ -149,33 +149,57 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter., not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing. or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust the next assignment accordingly. before the next assignment.
 ## Activation Behavior
 
-**Activation Trigger:** Touching the handle while naming someone who left.
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
 
-**Effect:** Opens onto a memory of the broken home.
+**Activation Trigger:** Turning the rusted bronze door handle with deliberate intent.
 
-**Duration:** Until the memory ends or the door is closed.
+**Effect:** Opens an anomalous egress threshold, allowing squad members to bypass spatial obstacles and relocate 3 nodes.
 
-**Risk:** The user may mistake the memory for a physical return.
+**Duration:** Continuous while the door leaf is held ajar.
 
+**Risk:** Looking back through the threshold causes profound vertigo and 10 Pale White Void damage.
 
+### Tool Use Profile — O-Relic
+
+| Field | Record |
+|---|---|
+| **Tool Class** | **O-Relic** |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | Turning the rusted bronze door handle with deliberate intent. |
+| **Primary Effect** | Opens an anomalous egress threshold, allowing squad members to bypass spatial obstacles and relocate 3 nodes. |
+| **Duration** | Continuous while the door leaf is held ajar. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Grudge resonance across the sector. |
+| **Risk** | Looking back through the threshold causes profound vertigo and 10 Pale White Void damage. |
+
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
+
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | Broken Door begins thrumming as the channel opens; a palpable wave of grudge sorrow sweeps across the containment chamber. | Opening the channel activates Broken Door: Opens an anomalous egress threshold, allowing squad members to bypass spatial obstacles and relocate 3 nodes. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the anger of being forced to leave before goodbye or explanation. forged during a family home was divided during an echo incident; the door survived while the family did not remain together.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Broken Door's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Grudge shockwave: Looking back through the threshold causes profound vertigo and 10 Pale White Void damage. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Door: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Grudge and located at Zone D, Echo Gardens, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Broken Door: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Touching the handle while naming someone who left. |
-| **Manifestation** | Place-Grudge|
-| **Primary effect** | Opens onto a memory of the broken home. |
-| **Duration / rate** | Until the memory ends or the door is closed. |
-| **Risk** | The user may mistake the memory for a physical return. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Trigger** | Turning the rusted bronze door handle with deliberate intent. |
+| **Manifestation** | Place-Grudge |
+| **Primary effect** | Opens an anomalous egress threshold, allowing squad members to bypass spatial obstacles and relocate 3 nodes. |
+| **Duration / rate** | Continuous while the door leaf is held ajar. |
+| **Risk** | Moderate (β) Place-Grudge producing Grudge pressure; Looking back through the threshold causes profound vertigo and 10 Pale White Void damage. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

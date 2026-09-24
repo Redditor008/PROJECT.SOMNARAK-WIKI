@@ -149,6 +149,10 @@ The behavior table is a snapshot, not a system. The classification and origin co
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease: the immediate crisis is easing. The underlying sorrow is unchanged. Do not mistake management for resolution., not permanent healing. Gauge increase: the work has fed rather than calmed. The entity's grief is louder now, not quieter. or fed the entity’s originating sorrow. If the entity does something the file does not describe, that is the most important data of the cycle. Write it down. before the next assignment.
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
+
 **Activation Trigger:** Arranging the fragments in their former order.
 
 **Effect:** Recreates the Relic's incomplete function for a short time.
@@ -163,41 +167,39 @@ The behavior table is a snapshot, not a system. The classification and origin co
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
+| **Activation** | Arranging the fragments in their former order. |
 | **Primary Effect** | Recreates the Relic's incomplete function for a short time. |
 | **Duration** | Until the pieces separate again. |
-| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
 | **Risk** | The user inherits the frustration of the failed purpose. |
 
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Miscast lies still until it is taken up — a thing of old, banked embers, whole and waiting. | When the relic is equipped, it activates: recreates the Relic's incomplete function for a short time. |
-| 1 Minute | It was born beyond the wall, where sorrow had no one left to witness it. | The effect lasts until the pieces separate again, for as long as the relic remains worn. |
-| 2 Minutes | Worn against the skin, it does what it was shaped to do: recreates the Relic's incomplete function for a short time. The Grudge of it seeps into the bearer. | The user inherits the frustration of the failed purpose. |
-| 3 Minutes | It does not forgive — and it teaches the bearer not to, either. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |
+| 10 Seconds | Miscast rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Miscast activates its primary resonance: Recreates the Relic's incomplete function for a short time. Grants +10% resistance to Grudge damage while equipped. |
+| 30 Seconds | The artifact was born from the grief of being made for a purpose and broken before fulfilling it.; the bearer begins perceiving echoes of a forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Miscast begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Miscast too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user inherits the frustration of the failed purpose.. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Miscast: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Grudge and located at Zone D, Forge District, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Miscast: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone D, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Arranging the fragments in their former order. |
-| **Manifestation** | Object-Grudge|
+| **Manifestation** | Object-Weight |
 | **Primary effect** | Recreates the Relic's incomplete function for a short time. |
 | **Duration / rate** | Until the pieces separate again. |
-| **Risk** | The user inherits the frustration of the failed purpose. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Risk** | Minor (α) Object-Weight producing Grudge pressure; The user inherits the frustration of the failed purpose. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

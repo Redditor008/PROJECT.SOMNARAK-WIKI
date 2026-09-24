@@ -171,7 +171,7 @@ The escalation pattern is specific to Flowing Seed: it is not a generic breach e
 | **Manifestation** | Subject-Weight|
 | **Primary effect** | Nearby places feel empty and heavy. |
 | **Duration / rate** | Slow along Alpha Tree roots. |
-| **Risk** | This Major (γ) | Object/Place produces Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Major (γ) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Do not block the flow; acknowledge its source. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

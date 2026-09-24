@@ -172,7 +172,7 @@ The escalation pattern is specific to Unsaid Blossoms: it is not a generic breac
 | **Manifestation** | Place-Lament|
 | **Primary effect** | Personnel hear words they never said to the dead. |
 | **Duration / rate** | Slow; roots extend through the Echo Gardens. |
-| **Risk** | This Moderate (β) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Moderate (β) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Speak honestly at the grave; do not remove blossoms. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

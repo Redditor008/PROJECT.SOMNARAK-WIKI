@@ -172,7 +172,7 @@ The escalation pattern is specific to Bulwark: it is not a generic breach event.
 | **Manifestation** | Place-Void|
 | **Primary effect** | Nearby spaces become quiet and emotionally inaccessible. |
 | **Duration / rate** | Slow through the Forge District. |
-| **Risk** | This Minor (α) | Object/Place produces Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Minor (α) Object/Place producing Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Offer presence without forcing entry. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

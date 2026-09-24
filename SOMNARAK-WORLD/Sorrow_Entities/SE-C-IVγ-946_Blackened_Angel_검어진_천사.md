@@ -161,6 +161,10 @@ The gauge response is only meaningful in context. Blackened Angel is recorded as
 
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
 **Activation Trigger:** A wish — spoken or clearly thought — directed at the statue.
 
 **Effect:** The angel grants the wish exactly, because it cannot refuse. A kind wish weeps a black tear now (once it would have been blue); a cruel wish weeps black and spreads the tarnish another shade.
@@ -174,44 +178,42 @@ The gauge response is only meaningful in context. Blackened Angel is recorded as
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
-| **Use Mode** | **Channeled Use (a wish spoken before it)** |
-| **Activation** | The petitioner stands before the statue and speaks a wish aloud; the angel answers, and cannot refuse. |
-| **Primary Effect** | Grants the wish exactly; weeps a tear — blue once, black now — and takes the weight of the granting onto itself (and, increasingly, onto the wisher). |
-| **Duration** | Until the wish is fulfilled and its price has settled. |
-| **Termination / Return** | The wish completes, or is formally retracted by the petitioner before the angel answers; the dish of tears must then be emptied by hand to close the cycle. |
-| **Risk** | Cruel wishes tarnish the angel further and draw the wisher toward the Face. The angel cannot refuse — including the worst thing you can think to ask. |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | A wish — spoken or clearly thought — directed at the statue. |
+| **Primary Effect** | The angel grants the wish exactly, because it cannot refuse. A kind wish weeps a black tear now (once it would have been blue); a cruel wish weeps black and spreads the tarnish another shade. |
+| **Duration** | Until the wish is granted and its price has settled. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Weight resonance across the sector. |
+| **Risk** | Every cruel wish deepens the black and edges the angel toward the Face. Three cruel wishes in one cycle trigger *The Spreading Tarnish*; sustained cruelty brings *The Face that Cannot Be Understood*. |
 
-**Operational Rule:** The relic answers any petitioner, R.D. or not, and cannot refuse. It is not a substitute for Work Types; the Object entity remains limited to Viderehan and Ferrehan, and the Shrine is sealed against petitioners for exactly this reason.
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The angel stands still in its alcove, gold flecked through with black, palms open — a giving thing waiting, with dread, to be asked. | A wish spoken before it is granted exactly, because it cannot refuse. |
-| 1 Minute | It was made to give, and giving was once its only joy; the blue of its old tears still haunts the few bright veins of gold. | A kind wish is granted; the angel weeps a black tear now, where once it wept blue. |
-| 2 Minutes | A cruel wish darkens the statue a shade further, and the wisher pays a mirror of the harm — for the angel no longer gives cruelty cleanly. | The tarnish spreads another inch; the dish of black tears fills a little higher. |
-| 3 Minutes | Three cruelties in one cycle and the black runs out across the floor like spilled ink, climbing toward the wisher's feet. | Sustained cruelty brings the Face — the look no mind was made to hold — and the cruel go mad from the sight. |
-| 3 Minutes | It can be left alone, yet never quite at peace; the weight of every wish it ever granted stays pooled in the dish at its feet. | Empty the dish by hand and name the angel's grief aloud to close the cycle and lower the Gauge. |
+| 10 Seconds | Blackened Angel begins thrumming as the channel opens; a palpable wave of weight sorrow sweeps across the containment chamber. | Opening the channel activates Blackened Angel: The angel grants the wish exactly, because it cannot refuse. A kind wish weeps a black tear now (once it would have been blue); a cruel wish weeps black and spreads the tarnish another shade. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the grief of a giving thing forced, over and over, to grant cruelty — and the slow loss of trust in the wishes of people. forged during a collector named kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. the angel could not refuse. with the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Blackened Angel's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Weight shockwave: Every cruel wish deepens the black and edges the angel toward the Face. Three cruel wishes in one cycle trigger *The Spreading Tarnish*; sustained cruelty brings *The Face that Cannot Be Understood*. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Blackened Angel: it is not a generic activation event. Personnel must record each spoken wish (kind or cruel), the change in the gold-to-black ratio, the level of the tear-dish, and the state of the face (resting, straining, or warped). Because the entity is associated with Weight and located at SECTOR-A-04, environmental readings alone are insufficient; the content of wishes and the angel's emotional state must be recorded beside physical measurements.
+The escalation pattern is specific to Blackened Angel: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Tale form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at The Tarnished Shrine, SECTOR-A-04, Zone A (Contained on-site), emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a perimeter around the Shrine, confirm no wish has been spoken, remove nonessential personnel, and apply this condition: do not make a wish — name the angel's grief aloud and empty the dish of tears by hand. Do not use an unlisted Work Type as an improvised countermeasure, and above all do not, under any circumstance, wish.
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | A wish spoken or clearly thought toward the statue. |
-| **Manifestation** | Object-Tale · Weight (Black). The angel expresses its activation through granting and weeping rather than through any ordinary attack. |
-| **Primary effect** | The wish is granted exactly; the angel weeps; the price settles on the wisher (and the tarnish spreads, for cruel wishes). |
-| **Duration / rate** | Until the wish is fulfilled and the dish is emptied. The tarnish spreads ~1.5 m/turn while active. |
-| **Risk** | Cruel wishes accumulate toward the Face; the Face drives the cruel mad and leaves even the kind altered. |
-| **Management** | Viderehan and Ferrehan only; do not wish; name the grief; empty the dish. |
+| **Trigger** | A wish — spoken or clearly thought — directed at the statue. |
+| **Manifestation** | Object-Tale |
+| **Primary effect** | The angel grants the wish exactly, because it cannot refuse. A kind wish weeps a black tear now (once it would have been blue); a cruel wish weeps black and spreads the tarnish another shade. |
+| **Duration / rate** | Until the wish is granted and its price has settled. |
+| **Risk** | Major (γ) Object-Tale producing Weight pressure; Every cruel wish deepens the black and edges the angel toward the Face. Three cruel wishes in one cycle trigger *The Spreading Tarnish*; sustained cruelty brings *The Face that Cannot Be Understood*. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** wish spoken (or none) → first tear (blue/black) → change in gold-to-black → spread of tarnish → state of the face → management condition. Object entities use Viderehan and Ferrehan only.
-
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.

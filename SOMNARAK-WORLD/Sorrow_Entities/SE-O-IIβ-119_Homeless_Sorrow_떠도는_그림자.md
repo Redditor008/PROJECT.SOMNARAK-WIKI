@@ -171,7 +171,7 @@ The escalation pattern is specific to Homeless Sorrow: it is not a generic breac
 | **Manifestation** | Place-Void|
 | **Primary effect** | Rooms feel abandoned even when occupied. |
 | **Duration / rate** | Slow, drifting between connected Old Lament spaces. |
-| **Risk** | This Moderate (β) | Object/Place produces Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Moderate (β) Object/Place producing Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Give the sorrow a witnessed location; do not flood the area with light. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

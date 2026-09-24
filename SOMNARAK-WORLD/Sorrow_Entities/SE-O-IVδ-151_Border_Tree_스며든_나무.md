@@ -171,7 +171,7 @@ The escalation pattern is specific to Border Tree: it is not a generic breach ev
 | **Manifestation** | Place-Grudge|
 | **Primary effect** | Roads and doors become difficult to cross; personnel feel divided belonging. |
 | **Duration / rate** | Slow, through foundations and boundary markers. |
-| **Risk** | This Critical (δ) | Object/Place produces Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Critical (δ) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Negotiate boundaries and acknowledge both sides of the loss. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

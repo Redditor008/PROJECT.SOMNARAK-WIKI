@@ -172,7 +172,7 @@ The escalation pattern is specific to Rift: it is not a generic breach event. Pe
 | **Manifestation** | Place-Weight|
 | **Primary effect** | Open rooms feel divided and movement becomes emotionally difficult. |
 | **Duration / rate** | Slow through neighboring buildings. |
-| **Risk** | This Critical (δ) | Object/Place produces Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Critical (δ) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Name the history of the boundary before crossing. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

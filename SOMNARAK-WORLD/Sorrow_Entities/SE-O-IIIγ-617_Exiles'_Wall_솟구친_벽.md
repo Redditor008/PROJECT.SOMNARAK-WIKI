@@ -172,7 +172,7 @@ The escalation pattern is specific to Exiles' Wall: it is not a generic breach e
 | **Manifestation** | Subject-Grudge|
 | **Primary effect** | The boundary becomes harder to cross emotionally and physically. |
 | **Duration / rate** | Slow along the Gate vicinity. |
-| **Risk** | This Major (γ) | Object/Place produces Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Major (γ) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Acknowledge both departure and destination; do not complete its buildings. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

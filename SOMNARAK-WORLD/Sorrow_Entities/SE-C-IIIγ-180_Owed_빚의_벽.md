@@ -172,7 +172,7 @@ The escalation pattern is specific to Owed: it is not a generic breach event. Pe
 | **Manifestation** | Place-Weight|
 | **Primary effect** | Roads close, air grows heavy, and citizens feel the city's conscience. |
 | **Duration / rate** | Continuous; growth measured over years. |
-| **Risk** | This Major (γ) | Object/Place produces Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Major (γ) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Measure and acknowledge the debt; the Wall cannot be demolished. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

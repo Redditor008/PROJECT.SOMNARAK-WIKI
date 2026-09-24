@@ -163,6 +163,61 @@ The Void pressure is real and measurable, but the gauge decrease from Viderehan 
 - **Containment priority:** Physical suppression required.
 - **Sorrow Gauge on breach:** Starts at 40% and rises 10% per turn if unaddressed.
 
+## Activation Behavior
+
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
+
+**Activation Trigger:** Physical contact and intentional interaction.
+
+**Effect:** Projects concentrated Void sorrow resonance across the immediate perimeter.
+
+**Duration:** Continuous while equipped
+
+**Risk:** Prolonged contact causes cognitive and emotional fatigue.
+
+### Tool Use Profile — I-Relic
+
+| Field | Record |
+|---|---|
+| **Tool Class** | **I-Relic** |
+| **Use Mode** | **Equippable / mounting use** |
+| **Activation** | Physical contact and intentional interaction. |
+| **Primary Effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
+| **Duration** | Continuous while equipped |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
+| **Risk** | Prolonged contact causes cognitive and emotional fatigue. |
+
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
+
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | Lacrima rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Lacrima activates its primary resonance: Projects concentrated Void sorrow resonance across the immediate perimeter. Grants +10% resistance to Void damage while equipped. |
+| 30 Seconds | The artifact was born from the accumulated grief of unacknowledged void.; the bearer begins perceiving echoes of a crisis in the city where void went unaddressed.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Lacrima begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Lacrima too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Prolonged contact causes cognitive and emotional fatigue.. |
+
+### Escalation Notes
+
+The escalation pattern is specific to Lacrima: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Spirit form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-N-905, contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
+
+### Detailed Activation Record
+
+| Activation field | R.D. operational detail |
+|---|---|
+| **Trigger** | Physical contact and intentional interaction. |
+| **Manifestation** | Object-Spirit |
+| **Primary effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
+| **Duration / rate** | Continuous while equipped |
+| **Risk** | Minor (α) Object-Spirit producing Void pressure; Prolonged contact causes cognitive and emotional fatigue. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
+
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form.

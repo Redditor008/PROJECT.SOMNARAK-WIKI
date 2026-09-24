@@ -172,7 +172,7 @@ The escalation pattern is specific to Memorial Flame Mid-Ceremony: it is not a g
 | **Manifestation** | Place-Lament|
 | **Primary effect** | Personnel feel grief that does not originate in their memories. |
 | **Duration / rate** | Slow through adjacent vaults. |
-| **Risk** | This Critical (δ) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Critical (δ) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Complete the memorial without attempting to recreate the original flame. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

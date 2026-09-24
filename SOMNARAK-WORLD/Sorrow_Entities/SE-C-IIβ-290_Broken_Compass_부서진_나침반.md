@@ -149,6 +149,10 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter., not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing. or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust the next assignment accordingly. before the next assignment.
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Catastrophic Battlefield Alteration**
+> **This Relic is Irrevocably Consumed upon Activation**
+
 **Activation Trigger:** Touch and naming a destination.
 
 **Effect:** Points toward the nearest concentrated sorrow.
@@ -162,42 +166,40 @@ Read the behavior table as a diagnostic, not a prescription. The classification 
 | Field | Record |
 |---|---|
 | **Tool Class** | **A-Relic** |
-| **Use Mode** | **Single-use / consumable use** |
-| **Activation** | The relic is spent in a single deliberate act; there is no partial use, and no second attempt. |
+| **Use Mode** | **Single-use / consumable discharge** |
+| **Activation** | Touch and naming a destination. |
 | **Primary Effect** | Points toward the nearest concentrated sorrow. |
 | **Duration** | Until the destination is acknowledged or the Compass is put down. |
-| **Termination / Return** | The relic is consumed by its use. What remains is emptied of sorrow and cannot be rekindled. |
+| **Termination / Return** | The relic is completely consumed by its discharge; what remains is an inert mineral or metal husk emptied of sorrow. |
 | **Risk** | The user may follow it indefinitely. |
 
-**Operational Rule:** A single-use relic is spent, not stored. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 1 Use | Broken Compass holds a single promise — a thing of hollow, patient absence — kept only until it is spent. | A single use activates it: points toward the nearest concentrated sorrow. |
-| 3 Uses | It was forged from a grief the city itself could never bring itself to name. | The effect completes fully and at once (until the destination is acknowledged or the Compass is put down). |
-| 3 Uses | Used even once, it pours out everything at once: points toward the nearest concentrated sorrow. | The user may follow it indefinitely. |
-| 5 Uses | It takes something, always, even when it seems only to give. | The relic is consumed by its use and cannot be activated again. |
-| 7 Uses | Afterwards it is only a husk — emptied of sorrow, and unable to be asked anything again. |  |
+| 1 Use | Broken Compass sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Touch and naming a destination.) initiates an instantaneous, irreversible discharge across the battlefield. |
+| 3 Uses | Crystallized from the fear of having no direction and no trusted path back. during a survey corps member lost a route in the forge district and never found the correct direction again., the relic answers only to complete commitment. | The full discharge completes: Points toward the nearest concentrated sorrow. All hostile entities in range suffer devastating disruption and elemental debuffs. |
+| 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
+| 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The user may follow it indefinitely. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Broken Compass: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Void form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Void and located at SECTOR-D-01, Forge District, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Broken Compass: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-D-01, Forge District, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Touch and naming a destination. |
-| **Manifestation** | Subject-Void|
+| **Manifestation** | Object-Void |
 | **Primary effect** | Points toward the nearest concentrated sorrow. |
 | **Duration / rate** | Until the destination is acknowledged or the Compass is put down. |
-| **Risk** | The user may follow it indefinitely. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Risk** | Moderate (β) Object-Void producing Void pressure; The user may follow it indefinitely. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

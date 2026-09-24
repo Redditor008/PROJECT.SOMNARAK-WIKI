@@ -149,6 +149,10 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists., not permanent healing. The gauge rising signals that the Work Type is resonating with the entity's wound rather than soothing it. or fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve it before the next work cycle begins. before the next assignment.
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
 **Activation Trigger:** Touch by someone with debt.
 
 **Effect:** Displays the next debt deadline.
@@ -162,42 +166,40 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
-| **Use Mode** | **Channeled / sustained use** |
-| **Activation** | The operator opens a sustained channel to the relic and must hold that contact for the effect to persist. |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | Touch by someone with debt. |
 | **Primary Effect** | Displays the next debt deadline. |
 | **Duration** | Until the debt changes or the clock is set down. |
-| **Termination / Return** | The operator closes the channel by intent; a channel abandoned does not end cleanly, and the residue compounds. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Weight resonance across the sector. |
 | **Risk** | The user may become unable to think beyond the deadline. |
 
-**Operational Rule:** The relic answers only to a held channel. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 seconds | Deadline waits in silence — a thing of stone and unbearable gravity — until a current is opened through it. | When the relic is channeled, it activates: displays the next debt deadline. |
-| 1 minute | It was drawn from the quiet sorrows carried inside — the kind never spoken aloud. | The effect persists (until the debt changes or the clock is set down), strengthening the longer the channel is held. |
-| 2 minutes | Once channeled, the Weight flows both ways: the bearer feeds the relic as it feeds them, and displays the next debt deadline. | The user may become unable to think beyond the deadline. |
-| 3 minutes | The longer it is held, the heavier the world grows around it. | A channel abandoned mid-use does not close on its own; the residue compounds until it is ended deliberately. |
-| 3:20 seconds | What passes through does not all return; the relic is fuller afterwards, and the bearer is less. |  |
+| 10 Seconds | Deadline begins thrumming as the channel opens; a palpable wave of weight sorrow sweeps across the containment chamber. | Opening the channel activates Deadline: Displays the next debt deadline. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the dread of waiting for collection and knowing the deadline cannot be escaped. forged during debtors watched clocks while waiting for collectors to arrive; their anxiety crystallized into a timepiece.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Deadline's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Weight shockwave: The user may become unable to think beyond the deadline. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Deadline: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Weight and located at SECTOR-C-01, Collector's Row, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Deadline: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Weight (Black) and held at SECTOR-C-01, Collector's Row, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Touch by someone with debt. |
-| **Manifestation** | Object-Weight|
+| **Manifestation** | Object-Weight |
 | **Primary effect** | Displays the next debt deadline. |
 | **Duration / rate** | Until the debt changes or the clock is set down. |
-| **Risk** | The user may become unable to think beyond the deadline. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Risk** | Moderate (β) Object-Weight producing Weight pressure; The user may become unable to think beyond the deadline. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

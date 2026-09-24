@@ -172,7 +172,7 @@ The escalation pattern is specific to Atlas: it is not a generic breach event. P
 | **Manifestation** | Place-Weight|
 | **Primary effect** | Nearby supports become emotionally and physically heavy. |
 | **Duration / rate** | Slow through Forge foundations. |
-| **Risk** | This Minor (α) | Object/Place produces Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Minor (α) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Rotate labor and acknowledge shared responsibility. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

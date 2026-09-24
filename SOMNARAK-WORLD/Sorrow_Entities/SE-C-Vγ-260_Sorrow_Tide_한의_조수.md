@@ -174,7 +174,7 @@ The escalation pattern is specific to Sorrow Tide: it is not a generic breach ev
 | **Manifestation** | Place-Weight|
 | **Primary effect** | Emotional overload, entity agitation, and possible Fracture. |
 | **Duration / rate** | Rises nightly, peaks before midnight, recedes at dawn. |
-| **Risk** | This Major (γ) | Object/Place produces Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Major (γ) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Impossible; use Tide shelters and shared mourning protocols. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

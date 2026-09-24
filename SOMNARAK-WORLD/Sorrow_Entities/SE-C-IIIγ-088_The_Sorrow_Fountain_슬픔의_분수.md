@@ -147,34 +147,59 @@
 Work Type responses are not standalone data. Read them against the SECC Classification and element — the same gauge change means different things at different tiers. the entity’s classification. The Sorrow Fountain is recorded as an Object/Place with Place-Lament manifestation and Lament elemental expression. The current record places it at SECTOR-D-02, Echo Gardens; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured., not permanent healing. A rising gauge means the Work Type has triggered the entity's originating sorrow — the wound is responding, not healing. or fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, a visual change not predicted. before the next assignment.
-## Expansion Behavior
+## Activation Behavior
 
-| Field | Detail |
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
+**Activation Trigger:** Approaching the fountain while suppressing tears or uncompleted mourning.
+
+**Effect:** Releases an expanding mist of Lament that calms panicking personnel, stabilizing sector Sorrow Gauges by -15%.
+
+**Duration:** Continuous while the mourning conduit remains unblocked.
+
+**Risk:** Prolonged exposure induces deep, paralyzing melancholy; personnel in the mist suffer -2 Movement Speed.
+
+### Tool Use Profile — O-Relic
+
+| Field | Record |
 |---|---|
-| **Expansion Trigger** | Mourning ignored or forcibly stopped. |
-| **Expansion Rate** | Gradual overflow through the Gardens. |
-| **Expansion Effect** | Personnel experience amplified personal grief. |
-| **Containment** | Share the burden through witness; do not drain the pool. |
+| **Tool Class** | **O-Relic** |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | Approaching the fountain while suppressing tears or uncompleted mourning. |
+| **Primary Effect** | Releases an expanding mist of Lament that calms panicking personnel, stabilizing sector Sorrow Gauges by -15%. |
+| **Duration** | Continuous while the mourning conduit remains unblocked. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
+| **Risk** | Prolonged exposure induces deep, paralyzing melancholy; personnel in the mist suffer -2 Movement Speed. |
 
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | The Sorrow Fountain begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates The Sorrow Fountain: Releases an expanding mist of Lament that calms panicking personnel, stabilizing sector Sorrow Gauges by -15%. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the city's accumulated mourning, gathered into a single visible stream. forged during tears from memorials and grieving citizens collected beneath the echo gardens until the fountain rose.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of The Sorrow Fountain's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: Prolonged exposure induces deep, paralyzing melancholy; personnel in the mist suffer -2 Movement Speed. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to The Sorrow Fountain: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Lament form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at SECTOR-D-02, Echo Gardens, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to The Sorrow Fountain: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-D-02, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Share the burden through witness; do not drain the pool. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Mourning ignored or forcibly stopped. |
-| **Manifestation** | Place-Lament|
-| **Primary effect** | Personnel experience amplified personal grief. |
-| **Duration / rate** | Gradual overflow through the Gardens. |
-| **Risk** | This Major (γ) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Share the burden through witness; do not drain the pool. |
+| **Trigger** | Approaching the fountain while suppressing tears or uncompleted mourning. |
+| **Manifestation** | Place-Lament |
+| **Primary effect** | Releases an expanding mist of Lament that calms panicking personnel, stabilizing sector Sorrow Gauges by -15%. |
+| **Duration / rate** | Continuous while the mourning conduit remains unblocked. |
+| **Risk** | Major (γ) Place-Lament producing Lament pressure; Prolonged exposure induces deep, paralyzing melancholy; personnel in the mist suffer -2 Movement Speed. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

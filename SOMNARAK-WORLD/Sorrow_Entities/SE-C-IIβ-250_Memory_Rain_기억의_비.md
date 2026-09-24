@@ -172,7 +172,7 @@ The escalation pattern is specific to Memory Rain: it is not a generic breach ev
 | **Manifestation** | Place-Lament|
 | **Primary effect** | Personnel experience countless lives at once. |
 | **Duration / rate** | Periodic rainfall; intensity varies. |
-| **Risk** | This Moderate (β) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Moderate (β) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Collect drops carefully and provide identity anchors. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

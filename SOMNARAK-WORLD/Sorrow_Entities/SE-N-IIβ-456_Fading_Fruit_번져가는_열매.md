@@ -172,7 +172,7 @@ The escalation pattern is specific to Fading Fruit: it is not a generic breach e
 | **Manifestation** | Subject-Grudge|
 | **Primary effect** | Personnel feel hunger for lives they cannot afford. |
 | **Duration / rate** | Slow through Collector's Row. |
-| **Risk** | This Moderate (β) | Object/Place produces Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Moderate (β) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Acknowledge desire without promising fulfillment. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

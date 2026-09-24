@@ -172,7 +172,7 @@ The escalation pattern is specific to Echo of Kindness: it is not a generic brea
 | **Manifestation** | Object-Lament|
 | **Primary effect** | The voice reaches more people and supports emotional stability. |
 | **Duration / rate** | Slow through Mantle Commons. |
-| **Risk** | This Minor (α) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Minor (α) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | No containment required; preserve the conditions that form it. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

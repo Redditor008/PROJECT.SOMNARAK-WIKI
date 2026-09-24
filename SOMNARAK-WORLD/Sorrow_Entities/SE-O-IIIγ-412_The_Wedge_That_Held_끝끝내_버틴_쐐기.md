@@ -135,6 +135,10 @@ Operatives assigned to Ferrehan must wear heat-resistant leather gloves. If the 
 
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Catastrophic Battlefield Alteration**
+> **This Relic is Irrevocably Consumed upon Activation**
+
 **Activation Trigger:** Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram).
 
 **Effect:** Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Crimson Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag.
@@ -148,39 +152,42 @@ Operatives assigned to Ferrehan must wear heat-resistant leather gloves. If the 
 | Field | Record |
 |---|---|
 | **Tool Class** | **A-Relic** |
-| **Use Mode** | **Single-use / consumable use** |
-| **Activation** | Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike. |
-| **Primary Effect** | Omnidirectional seismic rupture: 50% target armor fracture, 25–40 Crimson Grudge damage, 1-turn knockdown across Range Band 3. |
-| **Duration** | Instantaneous burst; armor reduction is permanent for the battle. |
-| **Termination / Return** | The wedge shatters into cold, inert basalt slag. It cannot be repaired or rekindled. |
-| **Risk** | Permanent destruction of the relic; striker suffers severe kinetic recoil (-1 AP for 1 turn). |
+| **Use Mode** | **Single-use / consumable discharge** |
+| **Activation** | Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram). |
+| **Primary Effect** | Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Crimson Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. |
+| **Duration** | Instantaneous tectonic burst; armor fracture debuff persists for the duration of the combat encounter. |
+| **Termination / Return** | The relic is completely consumed by its discharge; what remains is an inert mineral or metal husk emptied of sorrow. |
+| **Risk** | The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
 
-**Operational Rule:** A single-use relic is spent, not stored. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan during routine shifts.
+**Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 1 Use | A hand-hammered volcanic iron wedge recovered from the deepest basalt culvert of Cheonbulok. It smells of scorched skin and sulfur. | Strike the mushroomed head with a heavy tool to trigger an immediate kinetic rupture. |
-| 3 Uses | "They welded the emergency hatch from the upper walkway. They left eighteen boys in the slag drain. I had no steel left, so I threw my own legs into the pot." | The shockwave shatters 50% of hostile armor and interrupts channeled attacks across Range Band 3. |
-| 5 Uses | He held the chisel with his teeth when his knuckles burned away. He hammered the names into the flats so the mountain would know who it failed to kill. | The wedge shatters into porous grey slag upon impact. No second strike is possible. |
-| 7 Uses | An old man's fury does not cool. It waits in the iron until someone has the courage to swing the hammer one last time. | The operative who strikes the blow suffers 12 Crimson recoil damage and thermal blister burns. |
+| 1 Use | The Wedge That Held sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram).) initiates an instantaneous, irreversible discharge across the battlefield. |
+| 3 Uses | Crystallized from the fury of being abandoned by superiors and choosing self-immolation over surrender. during the great basalt rupture of year 4,185 in old cheonbulok, where supervisors welded shut the blast flues., the relic answers only to complete commitment. | The full discharge completes: Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Crimson Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. All hostile entities in range suffer devastating disruption and elemental debuffs. |
+| 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
+| 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
 
 ### Escalation Notes
 
-If the containment plinth cracks, the wedge begins vibrating in resonance with subterranean fault lines. Technicians must immediately apply coolant paste to the mushroomed head; do not strike the wedge to reposition it.
+The escalation pattern is specific to The Wedge That Held: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at SECTOR-O-04, Outer Bastion Arsenal — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Kinetic impact against the mushroomed strike face. |
+| **Trigger** | Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram). |
 | **Manifestation** | Object-Grudge |
-| **Primary effect** | 50% Armor destruction, 25–40 Crimson damage, team-wide knockdown. |
-| **Duration / rate** | Instantaneous kinetic burst; permanent debuff on hit. |
-| **Risk** | Irreversible destruction of weapon; operator physical recoil strain. |
-| **Management** | Use Viderehan to monitor stress fractures and Ferrehan to bleed thermal pressure. |
+| **Primary effect** | Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Crimson Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. |
+| **Duration / rate** | Instantaneous tectonic burst; armor fracture debuff persists for the duration of the combat encounter. |
+| **Risk** | Major (γ) Object-Grudge producing Grudge pressure; The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.

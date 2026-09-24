@@ -135,6 +135,10 @@ Operatives assigned to Ferrehan must wear silk-lined gloves. If bare skin contac
 
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Catastrophic Battlefield Alteration**
+> **This Relic is Irrevocably Consumed upon Activation**
+
 **Activation Trigger:** Grinding the chalk along the floor to complete a closed unbroken circle around allies.
 
 **Effect:** The chalk grinds completely into powder, creating a 30-second sanctuary. Allies inside are immune to Void damage, panic, and mind erosion. Hostiles crossing the line take 15 Void damage and are repelled 2 nodes.
@@ -148,39 +152,42 @@ Operatives assigned to Ferrehan must wear silk-lined gloves. If bare skin contac
 | Field | Record |
 |---|---|
 | **Tool Class** | **A-Relic** |
-| **Use Mode** | **Single-use / consumable use** |
+| **Use Mode** | **Single-use / consumable discharge** |
 | **Activation** | Grinding the chalk along the floor to complete a closed unbroken circle around allies. |
-| **Primary Effect** | 30-second absolute sanctuary: complete immunity to Void damage, psychological panic, and mind erosion; 15 Void damage and 2-node knockback to hostile intruders. |
+| **Primary Effect** | The chalk grinds completely into powder, creating a 30-second sanctuary. Allies inside are immune to Void damage, panic, and mind erosion. Hostiles crossing the line take 15 Void damage and are repelled 2 nodes. |
 | **Duration** | 30 Seconds (1 Combat Turn / 5 Sub-actions). |
-| **Termination / Return** | The chalk is ground into dust and dissolves into thin air. It cannot be reconstituted. |
-| **Risk** | Irrevocable consumption; all sheltered operatives forget their own family names for the remainder of the combat shift. |
+| **Termination / Return** | The relic is completely consumed by its discharge; what remains is an inert mineral or metal husk emptied of sorrow. |
+| **Risk** | The chalk is completely expended; all sheltered operatives forget their own family name for the shift. |
 
-**Operational Rule:** A single-use relic is spent, not stored. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan during routine shifts.
+**Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 1 Use | An octagonal stick of tribunal marking chalk that absorbs ambient sound. It was used once to cancel eighty-two lives from a ledger of execution. | Draw an unbroken circle around the squad on the stone floor to establish an absolute sanctuary ward. |
-| 3 Uses | "Eighty-two clerks. They filed an inquiry asking why civilian flour rations had been halved. The Council wrote their names on black calfskin and told me to sign before sunrise." | Allies standing within the circle become completely immune to all Void damage, mind erasure, and panic states for 30 seconds. |
-| 5 Uses | He did not sign. He barred the bronze doors and spent seven hours striking a white line through every name, every birth date, every home ward. He ground the chalk until his fingernails tore into the parchment. | Any hostile entity attempting to cross the perimeter takes 15 Pale White Void damage and is pushed back 2 nodes. |
-| 7 Uses | If the law cannot find your name, the blade cannot find your throat. But when the dust clears, you will have to ask a stranger who you were before the fire started. | When the ward expires, all operatives who sheltered inside forget their own family name for the remainder of the shift. |
+| 1 Use | The Magistrate's Strike-Through sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Grinding the chalk along the floor to complete a closed unbroken circle around allies.) initiates an instantaneous, irreversible discharge across the battlefield. |
+| 3 Uses | Crystallized from the horror of holding the power to sentence the innocent and choosing self-annihilation over compliance. during the great directorate purge of year 4,119 on floor 6, where executioners demanded eighty-two signed death warrants before dawn., the relic answers only to complete commitment. | The full discharge completes: The chalk grinds completely into powder, creating a 30-second sanctuary. Allies inside are immune to Void damage, panic, and mind erosion. Hostiles crossing the line take 15 Void damage and are repelled 2 nodes. All hostile entities in range suffer devastating disruption and elemental debuffs. |
+| 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
+| 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The chalk is completely expended; all sheltered operatives forget their own family name for the shift. |
 
 ### Escalation Notes
 
-If the chalk is dropped and breaks in two, both halves must be reunited on the cedar tray immediately. A fractured chalk stick leaks localized identity-erasing fog that causes operators to address each other as 'The Accused'.
+The escalation pattern is specific to The Magistrate's Strike-Through: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at SECTOR-N-06, Deep Tribunal Archive — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Drawing a complete closed circle on stone or bedrock. |
+| **Trigger** | Grinding the chalk along the floor to complete a closed unbroken circle around allies. |
 | **Manifestation** | Object-Void |
-| **Primary effect** | 30-second absolute sanctuary ward from Void and mental panic. |
-| **Duration / rate** | 30 seconds; chalk is completely ground into powder. |
-| **Risk** | Permanent loss of the relic; temporary family name amnesia. |
-| **Management** | Use Viderehan to inspect mineral degradation and Ferrehan to bleed psychic burden. |
+| **Primary effect** | The chalk grinds completely into powder, creating a 30-second sanctuary. Allies inside are immune to Void damage, panic, and mind erosion. Hostiles crossing the line take 15 Void damage and are repelled 2 nodes. |
+| **Duration / rate** | 30 Seconds (1 Combat Turn / 5 Sub-actions). |
+| **Risk** | Moderate (β) Object-Void producing Void pressure; The chalk is completely expended; all sheltered operatives forget their own family name for the shift. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.

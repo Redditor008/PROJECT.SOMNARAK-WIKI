@@ -172,7 +172,7 @@ The escalation pattern is specific to Torpor: it is not a generic breach event. 
 | **Manifestation** | Place-Weight|
 | **Primary effect** | Personnel become sleepy, heavy, and unable to leave. |
 | **Duration / rate** | Slow across border camps. |
-| **Risk** | This Critical (δ) | Object/Place produces Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Critical (δ) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Establish a guarded rest area and permit sleep. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

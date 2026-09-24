@@ -147,14 +147,19 @@
 A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. the entity’s classification. Folly is recorded as an Object/Place with Object-Grudge manifestation and Void elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched., not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess. or fed the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete. before the next assignment.
-## Expansion Behavior
+## Activation Behavior
 
-| Field | Detail |
-|---|---|
-| **Expansion Trigger** | Attempts to complete the abandoned plan. |
-| **Expansion Rate** | Slow, through architectural memory. |
-| **Expansion Effect** | Nearby structures feel unfinished. |
-| **Containment** | Preserve the unfinished form; do not reconstruct. |
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
+
+**Activation Trigger:** Attempts to complete the abandoned plan.
+
+**Effect:** Projects concentrated Void sorrow resonance across the immediate perimeter.
+
+**Duration:** While equipped, until the removal condition is met.
+
+**Risk:** Misuse increases emotional strain and may destabilize the operator.
 
 ### Tool Use Profile — I-Relic
 
@@ -162,41 +167,39 @@ A stable gauge does not mean a safe encounter. Cross-reference Work Types with t
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
-| **Primary Effect** | Nearby structures feel unfinished. |
+| **Activation** | Attempts to complete the abandoned plan. |
+| **Primary Effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
 | **Duration** | While equipped, until the removal condition is met. |
-| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Void trauma. |
 | **Risk** | Misuse increases emotional strain and may destabilize the operator. |
 
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Folly lies still until it is taken up — a thing of hollow, patient absence, whole and waiting. | When the relic is equipped, it activates: nearby structures feel unfinished. |
-| 1 Minute | It was forged from a grief the city itself could never bring itself to name. | The effect lasts while equipped, until the removal condition is met, for as long as the relic remains worn. |
-| 2 Minutes | Worn against the skin, it does what it was shaped to do: nearby structures feel unfinished. The Void of it seeps into the bearer. | Misuse increases emotional strain and may destabilize the operator. |
-| 3 Minutes | It takes something, always, even when it seems only to give. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |
+| 10 Seconds | Folly rests in stasis until an operative takes it up; upon contact, the artifact's void field synchronizes with the bearer's pulse. | Equipping Folly activates its primary resonance: Projects concentrated Void sorrow resonance across the immediate perimeter. Grants +10% resistance to Void damage while equipped. |
+| 30 Seconds | The artifact was born from the grief of a future designed but never inhabited.; the bearer begins perceiving echoes of a border tower was planned, funded, and abandoned before construction finished. its possibility crystallized.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Folly begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Void (Pale White) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Folly too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers Misuse increases emotional strain and may destabilize the operator.. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Folly: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Void and located at Zone E, Border region, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Folly: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at Zone E, Border region, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Preserve the unfinished form; do not reconstruct. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Attempts to complete the abandoned plan. |
-| **Manifestation** | Object-Void|
-| **Primary effect** | Nearby structures feel unfinished. |
+| **Manifestation** | Object-Grudge |
+| **Primary effect** | Projects concentrated Void sorrow resonance across the immediate perimeter. |
 | **Duration / rate** | While equipped, until the removal condition is met. |
-| **Risk** | Misuse increases emotional strain and may destabilize the operator. |
-| **Management** | Preserve the unfinished form; do not reconstruct. |
+| **Risk** | Minor (α) Object-Grudge producing Void pressure; Misuse increases emotional strain and may destabilize the operator. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

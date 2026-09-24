@@ -172,7 +172,7 @@ The escalation pattern is specific to Holdout: it is not a generic breach event.
 | **Manifestation** | Place-Grudge|
 | **Primary effect** | Nearby rooms feel structurally and emotionally unstable. |
 | **Duration / rate** | Slow through Alpha Tree memory spaces. |
-| **Risk** | This Moderate (β) | Object/Place produces Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Moderate (β) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Memorialize the structure; do not reconstruct a false version. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

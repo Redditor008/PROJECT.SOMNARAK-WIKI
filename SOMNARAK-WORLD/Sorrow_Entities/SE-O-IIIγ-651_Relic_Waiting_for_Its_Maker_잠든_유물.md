@@ -147,34 +147,59 @@
 Read the behavior table as a diagnostic, not a prescription. The classification tells you which Work Type calms and which provokes. the entity’s classification. Relic Waiting for Its Maker is recorded as an Object/Place with Place-Grudge manifestation and Void elemental expression. The current record places it at Zone C, Mask Market; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. Gauge decrease confirms the Work Type is functioning. It does not confirm the entity is safe — only quieter., not permanent healing. Gauge increase means the entity is absorbing emotional energy rather than releasing it. The sorrow is growing. or fed the entity’s originating sorrow. Unusual responses precede breaches. Log them, flag them, and adjust the next assignment accordingly. before the next assignment.
-## Expansion Behavior
+## Activation Behavior
 
-| Field | Detail |
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
+**Activation Trigger:** Presenting unfinished craftsman's tools before the dormant pedestal.
+
+**Effect:** Awakens a dormant resonance field that reinforces all allied armor by +20% and restores weapon sharpness.
+
+**Duration:** Continuous while the channeler maintains the ritual posture.
+
+**Risk:** The relic demands completion; withdrawing tools before the pulse concludes cracks their structural durability.
+
+### Tool Use Profile — O-Relic
+
+| Field | Record |
 |---|---|
-| **Expansion Trigger** | Secrets spoken with the intention of abandoning them. |
-| **Expansion Rate** | Slow; walls extend through the Mask Market. |
-| **Expansion Effect** | Nearby spaces lean inward and listen to private speech. |
-| **Containment** | Speak only what the worker accepts responsibility for carrying. |
+| **Tool Class** | **O-Relic** |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | Presenting unfinished craftsman's tools before the dormant pedestal. |
+| **Primary Effect** | Awakens a dormant resonance field that reinforces all allied armor by +20% and restores weapon sharpness. |
+| **Duration** | Continuous while the channeler maintains the ritual posture. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Void resonance across the sector. |
+| **Risk** | The relic demands completion; withdrawing tools before the pulse concludes cracks their structural durability. |
 
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | Relic Waiting for Its Maker begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Relic Waiting for Its Maker: Awakens a dormant resonance field that reinforces all allied armor by +20% and restores weapon sharpness. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the weight of a purpose waiting for a person who will never return. forged during a masked artisan died during a sleep ritual, leaving the relic and its unfinished instruction behind.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Relic Waiting for Its Maker's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Void shockwave: The relic demands completion; withdrawing tools before the pulse concludes cracks their structural durability. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Relic Waiting for Its Maker: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Void and located at Zone C, Mask Market, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Relic Waiting for Its Maker: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Void (Pale White) and held at Zone C, Mask Market, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Speak only what the worker accepts responsibility for carrying. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Secrets spoken with the intention of abandoning them. |
-| **Manifestation** | Place-Void|
-| **Primary effect** | Nearby spaces lean inward and listen to private speech. |
-| **Duration / rate** | Slow; walls extend through the Mask Market. |
-| **Risk** | This Major (γ) | Object/Place produces Void pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Speak only what the worker accepts responsibility for carrying. |
+| **Trigger** | Presenting unfinished craftsman's tools before the dormant pedestal. |
+| **Manifestation** | Place-Grudge |
+| **Primary effect** | Awakens a dormant resonance field that reinforces all allied armor by +20% and restores weapon sharpness. |
+| **Duration / rate** | Continuous while the channeler maintains the ritual posture. |
+| **Risk** | Major (γ) Place-Grudge producing Void pressure; The relic demands completion; withdrawing tools before the pulse concludes cracks their structural durability. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

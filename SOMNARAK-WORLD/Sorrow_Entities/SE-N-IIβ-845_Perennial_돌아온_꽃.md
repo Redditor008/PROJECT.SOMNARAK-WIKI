@@ -171,7 +171,7 @@ The escalation pattern is specific to Perennial: it is not a generic breach even
 | **Manifestation** | Place-Weight|
 | **Primary effect** | Travelers feel the weight of previous choices and returns. |
 | **Duration / rate** | Slow; new flowers appear along old paths. |
-| **Risk** | This Moderate (β) | Object/Place produces Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Moderate (β) Object/Place producing Weight pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Acknowledge the place's history and do not claim it as unchanged. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

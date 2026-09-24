@@ -171,7 +171,7 @@ The escalation pattern is specific to Briar: it is not a generic breach event. P
 | **Manifestation** | Place-Grudge|
 | **Primary effect** | Nearby personnel feel anger beneath their grief. |
 | **Duration / rate** | Slow, through cracks and memorial soil. |
-| **Risk** | This Major (γ) | Object/Place produces Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Major (γ) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Acknowledge the injury; do not cut the flowers. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

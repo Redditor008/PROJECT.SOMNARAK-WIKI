@@ -171,7 +171,7 @@ The escalation pattern is specific to Homecoming Tree: it is not a generic breac
 | **Manifestation** | Place-Lament|
 | **Primary effect** | The area hums with memories and makes familiar places feel unreachable. |
 | **Duration / rate** | Slow; roots follow old paths and foundations. |
-| **Risk** | This Minor (α) | Object/Place produces Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Minor (α) Object/Place producing Lament pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Mark the place as changed; do not attempt to restore a false past. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

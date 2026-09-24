@@ -149,6 +149,10 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the Work Type is absorbing pressure — but the sorrow itself remains. The entity is calmer, not cured., not permanent healing. A rising gauge means the Work Type has triggered the entity's originating sorrow — the wound is responding, not healing. or fed the entity’s originating sorrow. Log deviations immediately — an unexpected gauge movement, a sound not described in the file, a visual change not predicted. before the next assignment.
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
+
 **Activation Trigger:** Touch.
 
 **Effect:** Transfers the feeling of the original grief.
@@ -163,41 +167,39 @@ Work Type responses are not standalone data. Read them against the SECC Classifi
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
+| **Activation** | Touch. |
 | **Primary Effect** | Transfers the feeling of the original grief. |
 | **Duration** | Until the object is placed down deliberately. |
-| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Lament trauma. |
 | **Risk** | The worker may carry shame for mourning. |
 
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Tear Too Small to Honor lies still until it is taken up — a thing of blue grief, whole and waiting. | When the relic is equipped, it activates: transfers the feeling of the original grief. |
-| 1 Minute | It was drawn from the quiet sorrows carried inside — the kind never spoken aloud. | The effect lasts until the object is placed down deliberately, for as long as the relic remains worn. |
-| 2 Minutes | Worn against the skin, it does what it was shaped to do: transfers the feeling of the original grief. The Lament of it seeps into the bearer. | The worker may carry shame for mourning. |
-| 3 Minutes | Every grief it touches, it remembers; and it has a long memory. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |
+| 10 Seconds | Tear Too Small to Honor rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Tear Too Small to Honor activates its primary resonance: Transfers the feeling of the original grief. Grants +10% resistance to Lament damage while equipped. |
+| 30 Seconds | The artifact was born from the pain of wanting to cry but believing the grief is too small or embarrassing to deserve release.; the bearer begins perceiving echoes of a visitor hid a single tear beneath a garden stone; the grief flattened into a collapsed object.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Tear Too Small to Honor begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Lament (Deep Blue) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Tear Too Small to Honor too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The worker may carry shame for mourning.. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Tear Too Small to Honor: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Void form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Lament and located at Zone D, Echo Gardens, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Tear Too Small to Honor: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Void form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at Zone D, Echo Gardens, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Touch. |
-| **Manifestation** | Subject-Lament|
+| **Manifestation** | Object-Void |
 | **Primary effect** | Transfers the feeling of the original grief. |
 | **Duration / rate** | Until the object is placed down deliberately. |
-| **Risk** | The worker may carry shame for mourning. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Risk** | Minor (α) Object-Void producing Lament pressure; The worker may carry shame for mourning. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

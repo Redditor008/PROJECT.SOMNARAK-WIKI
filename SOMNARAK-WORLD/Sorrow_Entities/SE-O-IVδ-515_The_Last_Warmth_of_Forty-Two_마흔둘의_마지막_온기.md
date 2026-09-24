@@ -135,6 +135,10 @@ Operatives assigned to Ferrehan must possess high Composure ratings. Hearing for
 
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Catastrophic Battlefield Alteration**
+> **This Relic is Irrevocably Consumed upon Activation**
+
 **Activation Trigger:** Throwing or shatter-striking the quartz vial against a solid surface or target core.
 
 **Effect:** Releases an expanding 360-degree acoustic blizzard across Range Band 4, inflicting Cryogenic Stasis on all hostile targets for 2 Combat Turns (cancels active boss attacks, delays AP to max, reduces defenses by 30%). Vial is permanently destroyed.
@@ -148,39 +152,42 @@ Operatives assigned to Ferrehan must possess high Composure ratings. Hearing for
 | Field | Record |
 |---|---|
 | **Tool Class** | **A-Relic** |
-| **Use Mode** | **Single-use / consumable use** |
+| **Use Mode** | **Single-use / consumable discharge** |
 | **Activation** | Throwing or shatter-striking the quartz vial against a solid surface or target core. |
-| **Primary Effect** | 360-degree acoustic blizzard: Cryogenic Stasis on all hostile targets across Range Band 4 for 2 Combat Turns (cancels attacks, max action delay, -30% defenses). |
-| **Duration** | Cryogenic Stasis persists for 2 Combat Turns (12 battle sub-actions). |
-| **Termination / Return** | The quartz glass shatters into fine sand; the trapped vapor expands and dissipates forever. |
-| **Risk** | Permanent destruction of the relic; user suffers -15 Composure and 72-hour emotional weeping trauma. |
+| **Primary Effect** | Releases an expanding 360-degree acoustic blizzard across Range Band 4, inflicting Cryogenic Stasis on all hostile targets for 2 Combat Turns (cancels active boss attacks, delays AP to max, reduces defenses by 30%). Vial is permanently destroyed. |
+| **Duration** | Cryogenic Stasis lasts 2 full Combat Turns (12 battle rounds). |
+| **Termination / Return** | The relic is completely consumed by its discharge; what remains is an inert mineral or metal husk emptied of sorrow. |
+| **Risk** | The vial is consumed permanently; the user suffers 15 Composure loss and uncontrollable weeping for 72 hours. |
 
-**Operational Rule:** A single-use relic is spent, not stored. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan during routine shifts.
+**Operational Rule:** A single-use relic is spent, not stored. Once the discharge trigger is engaged, the process cannot be halted, reversed, or refunded.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 1 Use | A quartz field medicine bottle containing the warm exhalations of forty-two outriders trapped beneath an ice shelf at minus forty degrees. | Shatter-strike the vial against the floor or an enemy core to unleash an immediate cryogenic stasis blizzard. |
-| 3 Uses | "Heating unit four died at midnight. Battery reserve was three percent. The captain uncorked his medicine bottle and said, 'Nobody goes into the ice without giving their name to the glass.'" | All hostile targets in Range Band 4 suffer Cryogenic Stasis for 2 Combat Turns, halting active and channeled attacks. |
-| 5 Uses | They passed the bottle from hand to hand. Each man and woman breathed their final words into the glass. The captain soldered the neck with his own service badge before lying down among his troops. | Target physical and elemental defenses are reduced by 30% while frozen in cryogenic stasis. |
-| 7 Uses | When salvage teams found them seventy years later, the bodies were carved marble, but the bottle held in the captain's hands was still thirty-six degrees. The cold took their flesh, but it couldn't take their farewell. | The operative who throws the vial is overcome by shared grief (-15 Composure loss and emotional weeping for 72 hours). |
+| 1 Use | The Last Warmth of Forty-Two sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. | Engaging the activation trigger (Throwing or shatter-striking the quartz vial against a solid surface or target core.) initiates an instantaneous, irreversible discharge across the battlefield. |
+| 3 Uses | Crystallized from the absolute terror of dying alone in freezing darkness, transformed into solidarity by refusing to die in silence. during the great freeze of year 4,188 in sector 09, where an avalanche sealed a crawler beneath forty meters of ice., the relic answers only to complete commitment. | The full discharge completes: Releases an expanding 360-degree acoustic blizzard across Range Band 4, inflicting Cryogenic Stasis on all hostile targets for 2 Combat Turns (cancels active boss attacks, delays AP to max, reduces defenses by 30%). Vial is permanently destroyed. All hostile entities in range suffer devastating disruption and elemental debuffs. |
+| 5 Uses | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again. |
+| 7 Uses | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: The vial is consumed permanently; the user suffers 15 Composure loss and uncontrollable weeping for 72 hours. |
 
 ### Escalation Notes
 
-If the quartz shell develops micro-fissures, the internal temperature begins dropping toward -40°C. Immediately transfer to a thermal bath; do not allow the vapor to stop circulating.
+The escalation pattern is specific to The Last Warmth of Forty-Two: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Lament form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at SECTOR-O-09, Frozen Depths Cache — contained, emotional and behavioral indicators must be logged alongside physical telemetry.
+
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Kinetic impact resulting in quartz shatter. |
+| **Trigger** | Throwing or shatter-striking the quartz vial against a solid surface or target core. |
 | **Manifestation** | Object-Lament |
-| **Primary effect** | 2-turn team-wide Cryogenic Stasis across Range Band 4. |
-| **Duration / rate** | 2 Combat Turns (12 battle rounds); permanent relic destruction. |
-| **Risk** | Irrevocable relic loss; severe psychological grief trauma in user. |
-| **Management** | Use Viderehan to track vortex rotation and Ferrehan to bleed thermal delta. |
+| **Primary effect** | Releases an expanding 360-degree acoustic blizzard across Range Band 4, inflicting Cryogenic Stasis on all hostile targets for 2 Combat Turns (cancels active boss attacks, delays AP to max, reduces defenses by 30%). Vial is permanently destroyed. |
+| **Duration / rate** | Cryogenic Stasis lasts 2 full Combat Turns (12 battle rounds). |
+| **Risk** | Critical (δ) Object-Lament producing Lament pressure; The vial is consumed permanently; the user suffers 15 Composure loss and uncontrollable weeping for 72 hours. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.

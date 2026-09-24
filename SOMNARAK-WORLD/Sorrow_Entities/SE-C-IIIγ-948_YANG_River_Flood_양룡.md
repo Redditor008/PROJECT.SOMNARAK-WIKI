@@ -154,6 +154,10 @@ The gauge response is only meaningful in context. YANG River Flood is recorded a
 
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Sector / Facility Alteration**
+> **This Relic is Capable of Channel Overload and Han-Resonance Bleed**
+
 **Activation Trigger:** A hand laid upon the carving, or bare skin within the longing-field.
 
 **Effect:** The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky.
@@ -167,44 +171,42 @@ The gauge response is only meaningful in context. YANG River Flood is recorded a
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
-| **Use Mode** | **Channeled Use (a hand laid upon the carving)** |
-| **Activation** | The operator places an insulated hand on the dragon's flank; the carving answers by sharing, for a controlled span, the feeling of flight. |
-| **Primary Effect** | Grants the petitioner a sustained vision/sensation of soaring the bright blue sky — used, carefully, to ease the sky-longing of the grief-stricken, or to map terrain from an impossible vantage. |
-| **Duration** | Sanctioned maximum: 90 seconds per channel. Beyond this, the petitioner begins to forget they cannot fly. |
-| **Termination / Return** | The hand is lifted before 90 seconds; the eyes dim; the Vault ceiling (kept deliberately low) reasserts the ground. |
-| **Risk** | Channeling past 90 seconds leaves the petitioner with a lasting, dangerous belief that they can fly; they will seek heights. The carving, meanwhile, is sadder than before. |
+| **Use Mode** | **Continuous / channeled use** |
+| **Activation** | A hand laid upon the carving, or bare skin within the longing-field. |
+| **Primary Effect** | The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. |
+| **Duration** | Until the hand is removed and the eyes dim. |
+| **Termination / Return** | The channel is closed deliberately by the operator; releasing the conduit improperly vents uncontained Lament resonance across the sector. |
+| **Risk** | Every channeling deepens the carving's grief; channel too long, and the petitioner will attempt to fly from whatever height is available. |
 
-**Operational Rule:** The relic answers any petitioner, gloved or not, and cannot refuse the sharing of its longing. It is not a substitute for Work Types; the Object entity remains limited to Viderehan and Ferrehan, and the Vault is sealed against unsanctioned channeling for exactly this reason.
+**Operational Rule:** The relic requires continuous concentration and open energy conduits. Leaving a channel untended causes escalating field instability.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The dragon stands in pale stone, dark-formed, eyes alight — a thing made to rise, held to the earth by the fact of being stone. | An insulated hand laid on the flank shares, briefly, the feeling of flight. |
-| 30 Seconds | It has wanted the sky for as long as it has stood, and the sky has been above it for as long, and neither has ever met. | The petitioner feels the bright blue sky close and clear, and the joy of rising into it. |
-| 60 Seconds | The sky it offers is real, and the flight is real, and the falling — when the channel ends — is also real. | The sensation holds; terrain can be seen from above; the eyes glow at peak. |
-| 90 Seconds | Past this, the petitioner forgets they are grounded, and will seek the sky by any means. | Lift the hand before 90 seconds; let the eyes dim; keep the ceiling low. |
-| 90 Seconds | It can be left alone, yet never at peace; the longing stays pooled in the stone, brighter each time it is shared. | Name the sky it cannot reach aloud, and let the eyes dim, to lower the Gauge. |
+| 10 Seconds | YANG River Flood begins thrumming as the channel opens; a palpable wave of lament sorrow sweeps across the containment chamber. | Opening the channel activates YANG River Flood: The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 30 Seconds | The conduit widens, revealing the memory of the grief of a shape carved for flight that has never flown. the dragon is stone, the stone is grounded, and the dragon has always, always wanted to rise. forged during flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. the r.d. sealed the riverbed, moved the carving to the vault, and began the record.. | The active aura expands across Range Band 2; all allied units in the sector gain heightened elemental defenses while the channeler sustains focus. |
+| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of YANG River Flood's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 2 Minutes | The flow threatens to reverse into the facility; when the historical grief overflows the channel, it seeks living vessels to inhabit. | Channel overload or abrupt abandonment vents an uncontrolled Lament shockwave: Every channeling deepens the carving's grief; channel too long, and the petitioner will attempt to fly from whatever height is available. all personnel in the sector take heavy damage. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to the YANG River Flood: it is not a generic activation event. Personnel must record each touch (gloved or bare), the brightness of the eyes, the spread of the longing-field, and the duration of any channeling. Because the entity is associated with Lament and located at SECTOR-C-07, environmental readings alone are insufficient; the strength of the sky-pull and the petitioner's mental state must be recorded beside physical measurements.
+The escalation pattern is specific to YANG River Flood: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Spirit form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Lament (Deep Blue) and held at The Dry Riverbed Vault, SECTOR-C-07, Zone C, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a perimeter around the Vault, confirm no bare-skin contact, remove nonessential personnel, and apply this condition: do not touch — name the sky it cannot reach aloud, and let the eyes dim. Do not use an unlisted Work Type as an improvised countermeasure, and above all, do not channel past 90 seconds.
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | A hand laid upon the carving, or bare skin within the longing-field. |
-| **Manifestation** | Object-Spirit · Lament (Deep Blue). The carving expresses its activation through shared longing rather than through any ordinary attack. |
-| **Primary effect** | The wish to fly is shared; the petitioner briefly soars in vision, then falls, and is left sky-sick. |
-| **Duration / rate** | Sanctioned max 90 seconds/channel; the longing-field spreads ~1.2 m/turn while active. |
-| **Risk** | Channeling past 90 seconds leaves a dangerous belief in flight; the carving's grief deepens with every share. |
-| **Management** | Viderehan and Ferrehan only; do not touch ungloved; name the unreachable sky; let the eyes dim. |
+| **Manifestation** | Object-Spirit |
+| **Primary effect** | The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. |
+| **Duration / rate** | Until the hand is removed and the eyes dim. |
+| **Risk** | Major (γ) Object-Spirit producing Lament pressure; Every channeling deepens the carving's grief; channel too long, and the petitioner will attempt to fly from whatever height is available. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
-**Activation reporting order:** touch (or none) → eye-brightness → field spread → petitioner effect → channel duration → management condition. Object entities use Viderehan and Ferrehan only.
-
+**Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Gift.

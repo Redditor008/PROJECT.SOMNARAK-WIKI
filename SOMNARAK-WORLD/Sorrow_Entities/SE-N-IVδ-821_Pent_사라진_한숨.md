@@ -172,7 +172,7 @@ The escalation pattern is specific to Pent: it is not a generic breach event. Pe
 | **Manifestation** | Subject-Grudge|
 | **Primary effect** | Personnel cannot breathe out fully and feel trapped by duty. |
 | **Duration / rate** | Slow through Old Lament buildings. |
-| **Risk** | This Critical (δ) | Object/Place produces Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
+| **Risk** | Critical (δ) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
 | **Management** | Permit rest and acknowledge exhaustion as real. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.

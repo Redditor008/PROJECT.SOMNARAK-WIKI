@@ -149,6 +149,10 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. The gauge falling means the entity's sorrow is being absorbed, not dissolved. The pressure subsides; the source persists., not permanent healing. The gauge rising signals that the Work Type is resonating with the entity's wound rather than soothing it. or fed the entity’s originating sorrow. If the entity reacts differently than recorded, the reaction is data. Preserve it before the next work cycle begins. before the next assignment.
 ## Activation Behavior
 
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
+
 **Activation Trigger:** Touch or deliberate projection of anger into the object.
 
 **Effect:** Absorbs and stores hostile emotion.
@@ -163,41 +167,39 @@ The gauge response is only meaningful in context. Element, coherence, and manife
 |---|---|
 | **Tool Class** | **I-Relic** |
 | **Use Mode** | **Equippable / mounting use** |
-| **Activation** | The operator equips or wears the relic; it must be taken onto the body before it will answer. |
+| **Activation** | Touch or deliberate projection of anger into the object. |
 | **Primary Effect** | Absorbs and stores hostile emotion. |
 | **Duration** | Until the stored anger is acknowledged and released. |
-| **Termination / Return** | The operator meets the recorded removal condition and sets the relic down — it does not release on its own. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
 | **Risk** | The shadow may return stored resentment to the user all at once. |
 
-**Operational Rule:** The relic stays active only while attached to the operator. It is not a substitute for Work Types; Object/Place entities remain limited to Viderehan and Ferrehan.
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Soaking Shadow lies still until it is taken up — a thing of old, banked embers, whole and waiting. | When the relic is equipped, it activates: absorbs and stores hostile emotion. |
-| 1 Minute | It was drawn from the quiet sorrows carried inside — the kind never spoken aloud. | The effect lasts until the stored anger is acknowledged and released, for as long as the relic remains worn. |
-| 2 Minutes | Worn against the skin, it does what it was shaped to do: absorbs and stores hostile emotion. The Grudge of it seeps into the bearer. | The shadow may return stored resentment to the user all at once. |
-| 3 Minutes | It does not forgive — and it teaches the bearer not to, either. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| 3 Minutes | It can be set down, yet never quite released; a trace of its sorrow lingers in whoever carried it. |  |
+| 10 Seconds | Soaking Shadow rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Soaking Shadow activates its primary resonance: Absorbs and stores hostile emotion. Grants +10% resistance to Grudge damage while equipped. |
+| 30 Seconds | The artifact was born from the exhaustion of becoming a container for other people's anger.; the bearer begins perceiving echoes of an alpha tree vault was used to hide grievances until the accumulated resentment took the shape of a shadow.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Soaking Shadow begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Soaking Shadow too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The shadow may return stored resentment to the user all at once.. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Soaking Shadow: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Object-Grudge form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Grudge and located at Zone A, Alpha Tree vault, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Soaking Shadow: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Object-Grudge form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone A, Alpha Tree vault, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: the entity-specific management condition listed in the activation record. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Touch or deliberate projection of anger into the object. |
-| **Manifestation** | Object-Grudge|
+| **Manifestation** | Object-Grudge |
 | **Primary effect** | Absorbs and stores hostile emotion. |
 | **Duration / rate** | Until the stored anger is acknowledged and released. |
-| **Risk** | The shadow may return stored resentment to the user all at once. |
-| **Management** | Use the valid Work Types and the management procedure listed above. |
+| **Risk** | Major (γ) Object-Grudge producing Grudge pressure; The shadow may return stored resentment to the user all at once. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment

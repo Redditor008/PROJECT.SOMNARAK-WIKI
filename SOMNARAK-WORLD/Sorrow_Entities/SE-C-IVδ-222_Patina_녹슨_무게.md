@@ -147,34 +147,59 @@
 A stable gauge does not mean a safe encounter. Cross-reference Work Types with the breach threshold and M.A.W. cost before assigning personnel. the entity’s classification. Patina is recorded as an Object/Place with Place-Weight manifestation and Grudge elemental expression. The current record places it at Zone E, Border region; personnel should not transfer assumptions from another entity with a similar name. A stable gauge does not necessarily mean a safe encounter: observation may leave the gauge unchanged while still exposing the worker to memory, environmental, or identity effects.
 
 **Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. When the gauge drops, the entity's surface pressure lessens. The deep structure of its grief is untouched., not permanent healing. When the gauge climbs, the Work Type has struck the nerve of the entity's origin. Pull back and reassess. or fed the entity’s originating sorrow. Anomalous responses are not errors to dismiss; they are signals that the entity has changed or the file is incomplete. before the next assignment.
-## Expansion Behavior
+## Activation Behavior
 
-| Field | Detail |
+> **This Relic can Benefit the Facility**
+> **This Relic is Capable of Operative Alteration**
+> **This Relic Extracts Personal Resilience upon Extended Use**
+
+**Activation Trigger:** Resting a palm upon the oxidized copper pedestal.
+
+**Effect:** Radiates an intense gravitational field of Weight, anchoring all grounded constructs and preventing knockback.
+
+**Duration:** Continuous while the operative maintains contact.
+
+**Risk:** The crushing weight increases exponentially; prolonged contact causes severe musculoskeletal strain.
+
+### Tool Use Profile — I-Relic
+
+| Field | Record |
 |---|---|
-| **Expansion Trigger** | Renewal of an old border grievance. |
-| **Expansion Rate** | Slow through the ground and boundary markers. |
-| **Expansion Effect** | Roads become heavy and disputes intensify. |
-| **Containment** | Acknowledge the original conflict without assigning it to the living. |
+| **Tool Class** | **I-Relic** |
+| **Use Mode** | **Equippable / mounting use** |
+| **Activation** | Resting a palm upon the oxidized copper pedestal. |
+| **Primary Effect** | Radiates an intense gravitational field of Weight, anchoring all grounded constructs and preventing knockback. |
+| **Duration** | Continuous while the operative maintains contact. |
+| **Termination / Return** | The operative unequips the relic following safe detachment protocols; returning it prematurely or exceeding the safe threshold extracts severe Grudge trauma. |
+| **Risk** | The crushing weight increases exponentially; prolonged contact causes severe musculoskeletal strain. |
 
+**Operational Rule:** The relic functions only while attached to or carried by the operative. It cannot replace scheduled Work Types; containment remains limited to Viderehan and Ferrehan.
 
+### Log and Method
+
+| Interaction Amount | **Log** | **Method** |
+|---|---|---|
+| 10 Seconds | Patina rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Patina activates its primary resonance: Radiates an intense gravitational field of Weight, anchoring all grounded constructs and preventing knockback. Grants +10% resistance to Grudge damage while equipped. |
+| 30 Seconds | The artifact was born from the anger of inheriting a conflict no living person began.; the bearer begins perceiving echoes of a border dispute continued long after its original cause vanished; its resentment rusted into the ground.. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 1 Minute | The sorrow within Patina begins extracting its toll; the bearer's breath matches the resonance of the originating grief. | Continuous use past 60 seconds inflicts 5 Grudge (Crimson) damage every 15 seconds; the operative must be monitored for sudden cognitive detachment. |
+| 2 Minutes | To wear Patina too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The crushing weight increases exponentially; prolonged contact causes severe musculoskeletal strain.. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Patina: it is not a generic breach event. Personnel must record the first trigger, the first visible change in the Place-Weight form, the distance at which the effect begins, and the point at which the effect stops spreading. Because the entity is associated with Grudge and located at Zone E, Border region, environmental readings alone are insufficient; emotional and behavioral changes must be recorded beside physical measurements.
+The escalation pattern is specific to Patina: it is not a generic breach event. Personnel must record the first trigger, the visible change in the Place-Weight form, the distance at which the effect begins, and the boundary where resonance stabilizes. Because the entity is associated with Grudge (Crimson) and held at Zone E, Border region, emotional and behavioral indicators must be logged alongside physical telemetry.
 
-**Response sequence:** establish a safe perimeter, identify whether the event is a breach, activation, or expansion, remove nonessential personnel, and apply this condition: Acknowledge the original conflict without assigning it to the living. Do not use an unlisted Work Type as an improvised countermeasure.
-
+**Response sequence:** Establish a secure perimeter, verify whether the event is an activation, channel surge, or expansion, clear unshielded personnel, and enforce the recorded containment protocol. Do not apply unlisted Work Types as improvised countermeasures.
 
 ### Detailed Activation Record
 
 | Activation field | R.D. operational detail |
 |---|---|
-| **Trigger** | Renewal of an old border grievance. |
-| **Manifestation** | Place-Grudge|
-| **Primary effect** | Roads become heavy and disputes intensify. |
-| **Duration / rate** | Slow through the ground and boundary markers. |
-| **Risk** | This Critical (δ) | Object/Place produces Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |
-| **Management** | Acknowledge the original conflict without assigning it to the living. |
+| **Trigger** | Resting a palm upon the oxidized copper pedestal. |
+| **Manifestation** | Place-Weight |
+| **Primary effect** | Radiates an intense gravitational field of Weight, anchoring all grounded constructs and preventing knockback. |
+| **Duration / rate** | Continuous while the operative maintains contact. |
+| **Risk** | Critical (δ) Place-Weight producing Grudge pressure; The crushing weight increases exponentially; prolonged contact causes severe musculoskeletal strain. |
+| **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
