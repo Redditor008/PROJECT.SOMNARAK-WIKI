@@ -10,7 +10,7 @@ This file records notable changes to the public Somnarak Wiki.
 
 - **Repository-Wide Comprehensive Sweep: Text Box Symmetry, Integrity, & Template Vocab Eradication** —
   - Conducted full audit across all 1,759 markdown files (21.49 MB) and 1,316 ASCII text boxes.
-  - Replaced all lingering generic brackets, placeholder syntax (`[Insert ...]`, `[Document Turn ...]`, `[TODO]`, `[TBD]`, `[Placeholder]`, `[Name]`), converting `GAME_BATTLE/BATTLE_SCENARIO_TEMPLATE.md` into a fully realized Canonical Battle Specification (`BATTLE-SPEC-001-SUB-BASALT`).
+  - Replaced all lingering generic brackets and placeholder syntax (such as drafting insert directives, turn markers, and unassigned entity/role tags), converting `GAME_BATTLE/BATTLE_SCENARIO_TEMPLATE.md` into a fully realized Canonical Battle Specification (`BATTLE-SPEC-001-SUB-BASALT`).
   - Purged all Korean Hangul characters inside text boxes and code fences across all files (`Katabagil/Passage_6_Traumagol.md`, `Katabagil/Passage_7_Fontisaem.md`, `MASTER_HANDOFF_PROTOCOL.md`, `SOMNARAK_UNDERWORLD.md`, `WHAT_CAN_BE_DONE.md`, `SOMNARAK-WORLD/README.md`), replacing them with authentic Latin Alphabet Romanization (Romaja) to guarantee 100% monospace display symmetry.
   - Verified 0 text box symmetry flaws, 0 raw `<br>` tags, 0 LaTeX math dollar signs, and 0 P.M. crossover vocabulary in all canonical directories.
   - Updated `CHANGELOG.md` and `SESSION_BREAK_PRECAUTION.md`.
