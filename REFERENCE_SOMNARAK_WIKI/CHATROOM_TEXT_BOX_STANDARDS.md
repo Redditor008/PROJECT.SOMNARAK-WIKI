@@ -66,12 +66,15 @@ When cell content exceeds the column's inner character limit:
 2. Ensure every word remains complete and intact.
 3. Pad empty space on shorter sibling cells with spaces so column vertical borders (`|`) remain perfectly aligned.
 
-### Example: Multi-Line Wrapped Row
+### Example: Multi-Line Wrapped Row (Exact 74-Column Standard)
+```text
++==========================+=============================================+
+| STANDARD COMPONENT       | OPERATIONAL EXECUTION DETAIL                |
++--------------------------+---------------------------------------------+
+| Automated Cell Wrapping  | Text exceeding the inner column boundary    |
+| Architecture             | wraps cleanly into a visual sub-row without |
+|                          | truncating or slicing any individual token. |
++==========================+=============================================+
 ```
-+======+============+
-| THIS | THIS,      |
-|      | LOOK       |
-+======+============+
-```
-In this pattern, the right-hand cell expands into two lines (`THIS,` and `LOOK`) while maintaining exact monospace border alignment across the entire 48-character width.
+In this pattern, the right-hand cell expands across multiple sub-rows while maintaining exact monospace border alignment across the entire 74-character width.
 

@@ -125,16 +125,16 @@ Every Ordeal dossier in the facility archive adheres to the standardized operati
 
 ## Ordeal Classification
 
-| Field | Value |
-|---|---|
-| **Color** | BLUE |
-| **Time** | First Watch |
-| **Threat Level** | Minor (α) |
-| **Han Source** | Lament |
-| **Spawn Count** | 8–12 entities |
-| **Mortality** | Mortal — permanently suppressible |
+| Field             | Value                            |
+|-------------------|----------------------------------|
+| **Color**         | BLUE                             |
+| **Time**          | First Watch                      |
+| **Threat Level**  | Minor (α)                        |
+| **Han Source**    | Lament                           |
+| **Spawn Count**   | 8–12 entities                    |
+| **Mortality**     | Mortal — permanently suppressible|
 | **Facility Zone** | All floors of the Hand of Change |
-| **First Recorded** | Year 4210 |
+| **First Recorded**| Year 4210                        |
 
 ## Formation
 Coalesces when accumulated Lament Han in facility corridors reaches the First Watch threshold.
@@ -145,10 +145,10 @@ Knee-high, child-sized translucent figures, blue-tinged, with faces hidden in fo
 ## Behavior
 Drifts toward active personnel, projecting acoustic wails that inflict cumulative Composure strain.
 
-| Phase | Action | Effect | Trigger |
-|---|---|---|---|
-| Drift | Converges on personnel | Composure drain: 2–4 per turn | Line-of-sight contact |
-| Resonance | Multi-figure swarm | Stacking psychic disorientation | 3+ figures converging |
+| Phase     | Action                 | Effect                          | Trigger               |
+|-----------|------------------------|---------------------------------|-----------------------|
+| Drift     | Converges on personnel | Composure drain: 2–4 per turn   | Line-of-sight contact |
+| Resonance | Multi-figure swarm     | Stacking psychic disorientation | 3+ figures converging |
 
 ## Suppression Protocol
 - **Effective Damage:** Kinetic and physical force (any damage aspect)
