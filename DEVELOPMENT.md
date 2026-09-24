@@ -79,7 +79,7 @@ PROJECT.SOMNARAK-WIKI/ (NON-WIKI branch)
 │   ├── 12_ABNORMALITY_ENCYCLOPEDIA.md      # Comprehensive abnormality entries (ZAYIN to ALEPH)
 │   └── README.md                           # Research master index & comparative overview
 │
-├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,730+ files)
+├── SOMNARAK-WORLD/                         # 100% In-Universe Narrative & Operational Source Corpus (1,706 files)
 │   ├── README.md                           # In-world archive guide & recommended reading order
 │   ├── Master_Codices/                     # 39 Macro-Canon Master Codices across 6 canonical subfolders
 │   │   ├── 01_Cosmology_and_World_Order/   # 8 Codices: Metaphysics, layers, geology, the Maw, Weeping
