@@ -1,20 +1,86 @@
-# COMPLETE SYSTEM COMPARISON: SOMNARAK vs. Lobotomy Corporation
+#!/usr/bin/env python3
+"""
+tools/generate_expanded_comparison_full.py
+Generates the comprehensive, story-ready COMPLETE SYSTEM COMPARISON: SOMNARAK vs. Lobotomy Corporation.
+Enriches narrative vocabulary, worldbuilding, and comparative systems while strictly maintaining
+74-column text box formatting, Korean two-space buffers, zero raw HTML, and zero LaTeX dollar signs.
+"""
+
+import sys
+import re
+
+sys.path.insert(0, ".")
+from tools.box_formatter import make_box
+
+def create_box(title, rows, width=74):
+    box = make_box(title, rows, width=width)
+    for line in box.split("\n"):
+        assert len(line) == width, f"Box line length error ({len(line)} != {width}):\n{line}"
+    return f"```text\n{box}\n```\n"
+
+header_box = create_box("COMPLETE SYSTEM COMPARISON // EXPANDED STORY EDITION", [
+    "DOCUMENT: COMPLETE SYSTEM COMPARISON - SOMNARAK VS LOBOTOMY CORP",
+    "EDITION : EXPANDED STORY & NARRATIVE LEXICON // CANONICAL AUDIT",
+    "PURPOSE : COMPREHENSIVE 1-TO-1 MECHANICS, WORLD & STORY TRANSLATION",
+    "---",
+    "ROADMAP : 1,778 CYCLES // 5 WORKSHOPS // 5 SYNDICATES // 10 CADRES",
+    "CALIB   : 10,000 HP REWORK // TWO-WORK LAW // REALIZATION WARS"
+])
+
+summary_box = create_box("SYSTEM COMPARISON AT A GLANCE // CORE METRICS", [
+    "FEATURE                | LOBOTOMY CORPORATION | PROJECT SOMNARAK",
+    "-----------------------+----------------------+--------------------",
+    "Operating Agency       | Lobotomy Corporation | Reverie Directorate",
+    "Primary Energy Source  | Enkephalin (PE/NE)   | Han-Energy",
+    "Entity Classification  | Abnormalities        | Sorrow Entities",
+    "Threat Hierarchy       | ZAYIN to ALEPH       | Ranks I-V / a to w",
+    "Containment Discipline | 4 Works (All Units)  | Absolvohan (2 or 4)",
+    "Inanimate Restriction  | Unrestricted         | 2 Works (Vid/Fer)",
+    "Damage Spectrum        | RED/WHITE/BLACK/PALE | Grudge/Lam/Wgt/Void",
+    "Crisis Mechanics       | Qliphoth Meltdowns   | Four Watches",
+    "Breach Dynamics        | Standard Corridor    | Place Metamorphosis",
+    "Equipment Extraction   | E.G.O (Weapon/Suit)  | M.A.W. (3 Pieces)",
+    "Tool Entity Framework  | Tool Abnormalities   | Relic-Entities",
+    "Department Awakening   | Core Suppressions    | Realization Wars",
+    "External Guilds        | Fixer Associations   | Ten Cadres",
+    "Underworld Factions    | The Five Fingers     | Five Raw Syndicates",
+    "Equipment Tuning       | Fixer Workshops      | Five-Grade Forges"
+])
+
+factions_box = create_box("GEOPOLITICAL & FACTION EQUIVALENCE // MATRIX", [
+    "LOBOTOMY CORP / THE CITY             | PROJECT SOMNARAK / THE RAW",
+    "-------------------------------------+---------------------------------",
+    "The Head / Wings of the City         | Council of Sighs / Directorate",
+    "The Five Fingers (Syndicates)        | Five Syndicates of The Raw",
+    "Fixer Associations (Hana, Zwei, etc) | Ten Specialist Cadres",
+    "Fixer Workshops (Zelkova, Mook, etc) | Five Artisan Workshop Grades",
+    "Backstreets & Outskirts              | The Raw & The Desolate",
+    "The Well / Human Unconscious         | 1,778 Mnemonic Cycle Engrams"
+])
+
+realization_box = create_box("REALIZATION WARS & DEPARTMENT CRISIS // PHASES", [
+    "PHASE | THEMATIC TRIAL      | COMBAT & PSYCHIC MANIFESTATION",
+    "------+---------------------+-----------------------------------------",
+    "I     | Awakening of Lament | Composure drain; auditory resonance spike",
+    "II    | Grudge Surge        | Spatial displacement; kinetic shockwaves",
+    "III   | Weight of Memory    | Gravitational debt; ancestral memories",
+    "IV    | Void Integration    | Sovereign realization; permanent awakening"
+])
+
+compliance_box = create_box("DIRECTORATE SYSTEM COMPARISON VERIFICATION", [
+    "DOCUMENT CLASS   : COMPLETE SYSTEM COMPARISON (EXPANDED STORY EDITION)",
+    "VOCABULARY AUDIT : FULL 1-TO-1 CANONICAL & NARRATIVE LEXICON EXPANSION",
+    "ROADMAP SYSTEMS  : 1,778 CYCLES / 5 WORKSHOPS / 5 SYNDICATES / 10 CADRES",
+    "10,000 HP REWORK : STANDARD (150-1000 HP) / SOVEREIGN (10,000+ HP)",
+    "TWO-WORK LAW     : STRICTLY ENFORCED ACROSS ALL INANIMATE TYPES",
+    "STATUS           : FULLY RATIFIED & SYNCHRONIZED ACROSS ARCHIVE"
+])
+
+doc = f"""# COMPLETE SYSTEM COMPARISON: SOMNARAK vs. Lobotomy Corporation
 ## Direct 1-to-1 Universe, Mechanics & Narrative Reference
 ### Expanded Story Edition
 
-```text
-+========================================================================+
-|          COMPLETE SYSTEM COMPARISON // EXPANDED STORY EDITION          |
-+------------------------------------------------------------------------+
-| DOCUMENT: COMPLETE SYSTEM COMPARISON - SOMNARAK VS LOBOTOMY CORP       |
-| EDITION : EXPANDED STORY & NARRATIVE LEXICON // CANONICAL AUDIT        |
-| PURPOSE : COMPREHENSIVE 1-TO-1 MECHANICS, WORLD & STORY TRANSLATION    |
-+------------------------------------------------------------------------+
-| ROADMAP : 1,778 CYCLES // 5 WORKSHOPS // 5 SYNDICATES // 10 CADRES     |
-| CALIB   : 10,000 HP REWORK // TWO-WORK LAW // REALIZATION WARS         |
-+========================================================================+
-```
-
+{header_box}
 
 > *"This document provides a comprehensive, 1-to-1 narrative and systems comparison between **Lobotomy Corporation** (Project Moon) and **Project Somnarak**. It serves both as a precise operational reference and as an enriched story bible for authors, game masters, and chroniclers. It preserves the authentic comparative format while fully detailing native vocabulary, cosmological lore, geopolitical underpinnings, containment mechanics, tactical calibrations, and narrative protocols across both universes."*
 
@@ -22,30 +88,7 @@
 
 ## 1. Executive Summary & Core Comparison Matrix
 
-```text
-+========================================================================+
-|             SYSTEM COMPARISON AT A GLANCE // CORE METRICS              |
-+------------------------------------------------------------------------+
-| FEATURE                | LOBOTOMY CORPORATION | PROJECT SOMNARAK       |
-| -----------------------+----------------------+--------------------    |
-| Operating Agency       | Lobotomy Corporation | Reverie Directorate    |
-| Primary Energy Source  | Enkephalin (PE/NE)   | Han-Energy             |
-| Entity Classification  | Abnormalities        | Sorrow Entities        |
-| Threat Hierarchy       | ZAYIN to ALEPH       | Ranks I-V / a to w     |
-| Containment Discipline | 4 Works (All Units)  | Absolvohan (2 or 4)    |
-| Inanimate Restriction  | Unrestricted         | 2 Works (Vid/Fer)      |
-| Damage Spectrum        | RED/WHITE/BLACK/PALE | Grudge/Lam/Wgt/Void    |
-| Crisis Mechanics       | Qliphoth Meltdowns   | Four Watches           |
-| Breach Dynamics        | Standard Corridor    | Place Metamorphosis    |
-| Equipment Extraction   | E.G.O (Weapon/Suit)  | M.A.W. (3 Pieces)      |
-| Tool Entity Framework  | Tool Abnormalities   | Relic-Entities         |
-| Department Awakening   | Core Suppressions    | Realization Wars       |
-| External Guilds        | Fixer Associations   | Ten Cadres             |
-| Underworld Factions    | The Five Fingers     | Five Raw Syndicates    |
-| Equipment Tuning       | Fixer Workshops      | Five-Grade Forges      |
-+========================================================================+
-```
-
+{summary_box}
 
 ---
 
@@ -232,21 +275,7 @@ Unlike random Qliphoth meltdowns, Somnarak experiences cyclical atmospheric shif
 
 ## 13. Story Expansion: Outer World Governance & Subterranean Geopolitics
 
-```text
-+========================================================================+
-|              GEOPOLITICAL & FACTION EQUIVALENCE // MATRIX              |
-+------------------------------------------------------------------------+
-| LOBOTOMY CORP / THE CITY             | PROJECT SOMNARAK / THE RAW      |
-| -------------------------------------+-------------------------------- |
-| The Head / Wings of the City         | Council of Sighs / Directorate  |
-| The Five Fingers (Syndicates)        | Five Syndicates of The Raw      |
-| Fixer Associations (Hana, Zwei, etc) | Ten Specialist Cadres           |
-| Fixer Workshops (Zelkova, Mook, etc) | Five Artisan Workshop Grades    |
-| Backstreets & Outskirts              | The Raw & The Desolate          |
-| The Well / Human Unconscious         | 1,778 Mnemonic Cycle Engrams    |
-+========================================================================+
-```
-
+{factions_box}
 
 For narrative fiction and worldbuilding, both universes feature intricate geopolitical power structures operating beyond facility walls:
 
@@ -302,21 +331,7 @@ To wield Grade 5 Workshop equipment, an operative cannot simply purchase or loot
 
 ## 16. Story Expansion: Departmental Awakenings & Realization Wars
 
-```text
-+========================================================================+
-|             REALIZATION WARS & DEPARTMENT CRISIS // PHASES             |
-+------------------------------------------------------------------------+
-| PHASE | THEMATIC TRIAL      | COMBAT & PSYCHIC MANIFESTATION           |
-| ------+---------------------+----------------------------------------- |
-| I     | Awakening of Lament                                            |
-|   | Composure drain; auditory resonance spike                          |
-| II    | Grudge Surge        | Spatial displacement; kinetic shockwaves |
-| III   | Weight of Memory    | Gravitational debt; ancestral memories   |
-| IV    | Void Integration                                               |
-|   | Sovereign realization; permanent awakening                         |
-+========================================================================+
-```
-
+{realization_box}
 
 In Lobotomy Corporation, the Manager must face **Sephirah Meltdowns (Core Suppressions)** from Malkuth to Keter, resolving each Sephirah's personal trauma to awaken the facility's full potential and complete the Seed of Light.
 
@@ -382,17 +397,15 @@ To illustrate the contrasting atmosphere, narrative tone, and operational jargon
 
 ## 19. Verification & Canonical Compliance Seal
 
-```text
-+========================================================================+
-|               DIRECTORATE SYSTEM COMPARISON VERIFICATION               |
-+------------------------------------------------------------------------+
-| DOCUMENT CLASS   : COMPLETE SYSTEM COMPARISON (EXPANDED STORY EDITION) |
-| VOCABULARY AUDIT : FULL 1-TO-1 CANONICAL & NARRATIVE LEXICON EXPANSION |
-| ROADMAP SYSTEMS : 1,778 CYCLES / 5 WORKSHOPS / 5 SYNDICATES / 10       |
-| CADRES                                                                 |
-| 10,000 HP REWORK : STANDARD (150-1000 HP) / SOVEREIGN (10,000+ HP)     |
-| TWO-WORK LAW     : STRICTLY ENFORCED ACROSS ALL INANIMATE TYPES        |
-| STATUS           : FULLY RATIFIED & SYNCHRONIZED ACROSS ARCHIVE        |
-+========================================================================+
-```
+{compliance_box}
+"""
 
+target_path = "SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md"
+with open(target_path, "w", encoding="utf-8") as f:
+    f.write(doc)
+
+root_path = "COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md"
+with open(root_path, "w", encoding="utf-8") as f:
+    f.write(doc)
+
+print("Both expanded comparative files written successfully!")
